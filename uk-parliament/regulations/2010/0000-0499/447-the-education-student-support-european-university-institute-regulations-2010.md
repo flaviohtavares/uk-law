@@ -1,0 +1,1833 @@
+---
+title: The Education (Student Support) (European University Institute) Regulations 2010
+id: uksi/2010/447
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-02-23'
+text_date: '2025-03-20'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/447
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/447/pdfs/uksiem_20100447_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/447/pdfs/uksi_20100447_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/447/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Support) (European University Institute) Regulations 2010
+
+> Text as at 2025-03-20.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 447
+
+Education, England
+
+The Education (Student Support) (European University Institute) Regulations 2010
+
+Made
+
+23rd February 2010
+
+Laid before Parliament
+
+26th February 2010
+
+Coming into force
+
+1st April 2010
+
+The Secretary of State for Business, Innovation and Skills, in exercise of the powers conferred by sections 22, 42(6) and 43(1) of the Teaching and Higher Education Act 1998 [^c20153771], makes the following Regulations:
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement, application and interpretation
+
+These Regulations may be cited as the Education (Student Support) (European University Institute) Regulations 2010 and come into force on 1st April 2010.
+
+### 2.
+
+These Regulations apply in relation to England [^c20153781].
+
+### 3.
+
+(1)[^key-7ae41f96b0d6ff24d66d04a6742288fa] In these Regulations—
+
+- “**1998 Act**” means the Teaching and Higher Education Act 1998;
+- “**2006 Regulations**” means the Education (Student Support) (European Institutions) (No. 2) Regulations 2006 ;
+- “2020 Citizens’ Rights Regulations” means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020;[^key-4ca1a7af5f831d269245f8cb1fafd74d]
+- “**academic authority**” means the governing body or other body having the functions of a governing body of the Institute and includes a person acting with the authority of that body;
+- “**current course**” means the designated course in respect of which a person is applying for support or to be recognised as an eligible student;
+- “**designated course**” has the meaning given by regulation 10;
+- “**eligible student**” has the meaning given by regulation 9;
+- “**European Union**” means the territory comprised of the Member States of the European Union as constituted from time to time;
+- [^key-db155cb51a73eedf4e7a8da7df09f51b]...
+- “**grants for living and other costs**” means the grants payable under regulation 17;
+- “[^key-fba4e660ea937030849c803d197a50de]**immigration rules**” has the meaning given in section 33(1) of the Immigration Act 1971;
+- “**Institute**” means the European University Institute;
+- “Islands” means the Channel Islands and the Isle of Man[^key-f59c6e13a8112d437af5d04a441635fc]
+- “person granted Calais leave” means a person who—[^key-3d5741bd75b60247438195b7239b33b7]
+  - (a) has extant leave to remain in the United Kingdom under paragraph 352J, 352K, 352L or 352T (Calais leave and “leave in line” granted by virtue of being a dependent child of a person granted Calais leave) of the immigration rules[^key-d316fc0d0043467d9d76ca4f6f692d42]...; and
+  - (b) has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave to remain[^key-deee841a00542278bda454339a094020];
+- “person granted humanitarian protection” means a person—[^key-86f6cb842e037438555312472df2e507]
+  - (a) who, on the grounds of humanitarian protection, has been granted leave to remain under the immigration rules [^key-0afedfb7460cacc2aa2ca927a7e240aa]...;
+  - (b) whose leave to remain is extant, or in respect of whose leave to remain an appeal is pending (within section 104 of the Nationality, Immigration and Asylum Act 2002); and
+  - (c) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave to remain;
+- “person granted indefinite leave to remain as a bereaved partner” means a person—[^key-c784bb784751b9ab952d8f353ca93d48]
+  - (a) granted indefinite leave to remain in the United Kingdom under any of the following provisions of the immigration rules[^key-0d05aba81b1289233d399e583656fd32]...—
+    - (i) paragraph 288, as a person in relation to whom the requirements in paragraph 287(b) of those rules are met (bereaved partners);
+    - (ii) paragraph 295N, as a person in relation to whom the requirements in paragraph 295M of those rules are met (bereaved partners);
+    - (iii) paragraph D-BPILR.1.1 of Appendix FM (bereaved partners); or
+    - (iv) paragraph 36 of Appendix Armed Forces (bereaved partner of a member of HM Forces); and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave;
+- “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse” means a person—[^key-0a6c84212572e4a0b150be0ec986fe29]
+  - (a) granted indefinite leave to remain in the United Kingdom under any of the following provisions of the immigration rules[^key-36cf0fc7e5073e84203b4a0a718faf6f]...—
+    - (i) paragraph 289B (victims of domestic violence);
+    - (ii) paragraph D-DVILR.1.1. of Appendix FM (victims of domestic abuse); or
+    - (iii) paragraph 40 of Appendix Armed Forces (victims of domestic violence: partners of members of the armed forces); and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands since the person was granted such leave;
+- “[^key-edcce3515009b9a16f1a1d0fa6de8ded]**person granted leave under one of the Ukraine Schemes**” means a person granted leave under the Homes for Ukraine Sponsorship Scheme, a person granted leave under the Ukraine Extension Scheme or a person granted leave under the Ukraine Family Scheme;
+- “**person granted leave under the Homes for Ukraine Sponsorship Scheme**” means a person—
+  - (a) who has leave to enter or remain in the United Kingdom—
+    - (i) under paragraph UKR 19.1 of Appendix Ukraine Scheme of the immigration rules[^key-d0528c43366aa22aca9acc835946d220]; or
+    - (ii) outside the immigration rules[^key-45bd6ac259f0991bf3a0487a80c11730] where the person—
+      - (aa) was residing in Ukraine immediately before 1st January 2022; and
+      - (bb) left Ukraine in connection with the Russian invasion which took place on 24th February 2022; and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “**person granted leave under the Ukraine Extension Scheme**” means a person—
+  - (a) who has leave to remain in the United Kingdom under paragraph UKR 27.1 of Appendix Ukraine Scheme of the immigration rules[^key-c9b761b3f25414b338411924f42d2d8d]; and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “**person granted leave under the Ukraine Family Scheme**” means a person—
+  - (a) who has leave to enter or remain in the United Kingdom—
+    - (i) under paragraph UKR 9.1 of Appendix Ukraine Scheme of the immigration rules[^key-27f27dc65de394619f0aceb7a2b46b5c]; or
+    - (ii) outside the immigration rules[^key-1ab0e5a2348f75df7973084021efb213] where the person—
+      - (aa) was residing in Ukraine immediately before 1st January 2022; and
+      - (bb) left Ukraine in connection with the Russian invasion which took place on 24th February 2022; and
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “person granted section 67 leave” means a person who—[^key-4551f9c6272945a0811db0bbb8cf825e]
+  - (a) has extant leave to remain as a person granted leave under paragraph 352ZG of the immigration rules, having been relocated to the United Kingdom pursuant to arrangements made by the Secretary of State under section 67 of the Immigration Act 2016, or a dependent child of such a person who has been granted “leave in line” under paragraph 352ZO of those rules; and
+  - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “person granted stateless leave” means a person who—[^key-9f6781fbd813ba44bde27445c00369fe]
+  - (a) has extant leave to remain as a stateless person under the immigration rules [^key-912393e56b87661f4ac0bd7a820cafec]...; and
+  - (b) has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “person with protected rights” means—[^key-abba3e8ca61c10323a9938c2c0808377]
+  - (1)
+    - (a) a person within the personal scope of the citizens’ rights provisions who—[^key-647a272b8f4c37dcae699f134023e887]
+      - i has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
+      - ii is an Irish citizen who, pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom;
+      - iii [^key-fd7639eb7aa252194df7a435e1e29cfb]...
+      - iv is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations where the relevant period has not expired; or
+      - v otherwise has rights deemed to apply by virtue of any citizens’ rights deeming provisions;[^key-590fdb08c959953b19253cde6d7e0298]
+    - (b) a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
+  - (2) In paragraph (1)(a)(v) “citizens’ rights deeming provisions” means—[^key-6441af70d35e647b8a4bf885743478b6]
+    - (a) Article 18(2) and (3) (issuance of residence documents) of the EU withdrawal agreement;
+    - (b) Article 17(2) and (3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+    - (c) Article 16(2) and (3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
+- [^key-a6f5aad323eda19f3c467fa150e683cf]...
+- “**qualifying course**” means a course—
+  - (a) which is—
+    - (i) a postgraduate or comparable course; and
+    - (ii) of at least two academic years' duration; and
+  - (b) in respect of which the student (“A”) received, for at least two academic years of the course, a statutory award other than an award intended to assist with additional expenditure that A was obliged to incur in connection with A's attendance on the course by reason of a disability to which A is or was subject;
+- “**refugee**” means a person who is recognised by Her Majesty's government as a refugee within the meaning of the United Nations Convention relating to the Status of Refugees done at Geneva on 28th July 1951 [^c20153811] as extended by the Protocol thereto which entered into force on 4th October 1967 [^c20153821];
+- “**relevant date**” means 1st February of the calendar year in which the academic year of the current course begins[^key-c7a4cb1e95f2c726db5a1ee3467931a4];
+- “relevant period” has the meaning given by regulation 4 of the 2020 Citizens’ Rights Regulations;[^key-bca4469cdfa5dd3e16a4e7efc8b7fdd2]
+- “relevant person of Northern Ireland” has the meaning given by residence scheme immigration rules;
+- “residence scheme immigration rules” has the meaning given by section 17(1) of the European Union (Withdrawal Agreement) Act 2020;
+- “**statutory award**” means any award bestowed, grant paid or other support provided by virtue of the 1998 Act or the Education Act 1962 [^c20153831], or any comparable award, grant or other support in respect of undertaking a course which is paid out of public funds;
+- “**student loans legislation**” means the Education (Student Loans) Act 1990 [^c20153841], the Education (Student Loans) (Northern Ireland) Order 1990 [^c20153851], the Education (Scotland) Act 1980 [^c20153861] and regulations made thereunder, the Education (Student Support) (Northern Ireland) Order 1998 [^c20153871] and regulations made thereunder or the 1998 Act and regulations made thereunder;
+- “**supplementary grants**” means the grants payable under Chapter 2 of Part 4;
+- “Swiss citizens’ rights agreement” has the meaning given by section 39(1) of the European Union (Withdrawal Agreement) Act 2020;[^key-aa6b264d7862975e6dd03a89847203dd]
+- “**Turkish worker**” means a Turkish national who—
+  - (a) is ordinarily resident in the United Kingdom and Islands; and
+  - (b) is, or had been, lawfully employed in the United Kingdom.
+
+(2)[^key-ec82a5a4feb7bb515fe74c97838cbcde] For the purposes of these Regulations, a person is within the personal scope of the citizens’ rights provisions if that person falls within—
+
+- (a) Article 10 (personal scope) of the EU withdrawal agreement;
+- (b) Article 9 (personal scope) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+- (c) Article 10 (personal scope) of the Swiss citizens’ rights agreement.
+
+### 4. Revocation and saving provisions
+
+Subject to regulations 5 and 6, the regulations listed under Schedule 3 are revoked in relation to England.
+
+### 5.
+
+The 2006 Regulations shall continue to apply in relation to England in respect of an academic year beginning on or after 1st September 2009 but before 1st September 2010 and in respect of an academic year beginning on or after 1st September 2008 but before 1st September 2009 so far as the 2006 Regulations relate to an academic year beginning in that period.
+
+### 6.
+
+(1) Regulation 21(5) of the 2006 Regulations shall continue to apply in respect of a student at the Institute whose course of study—
+
+- (a) commenced prior to 1st September 2010; and
+- (b) continues after 31st August 2010.
+
+(2) Regulation 22 of the 2006 Regulations continues to apply insofar as it relates to regulation 21(5).
+
+### 7.
+
+These Regulations apply in relation to the provision of support to students in relation to an academic year which begins on or after 1st<sup></sup>September 2010 whether anything done under these Regulations is done before, on or after 1st September 2010.
+
+## PART 2 — APPLYING FOR SUPPORT AND ELIGIBILITY
+
+### 8. Applications
+
+(1) Unless a person (“**the applicant**”) seeking support under these Regulations is already an eligible student by virtue of regulation 9(9), the applicant must submit an application to be considered as an eligible student and an application for support in such form as the Secretary of State may require to the Institute by the application deadline.
+
+(2) Where a person (“**the applicant**”) seeking support under these Regulations is already an eligible student by virtue of regulation 9(9), the applicant must notify the Secretary of State in writing by the application deadline that the applicant wishes to apply for support under these Regulations.
+
+(3) Subject to paragraph (4), the application deadline [^key-6f3c032331f60eb4f09f0a502d108c89]... is 31st January of the calendar year in which the academic year of the current course begins[^key-cbfff42a81ff2746034a2806f60842fa].
+
+(4) The Secretary of State may extend the application deadline if the Secretary of State considers that the circumstances of the case warrant it.
+
+### 9. Eligible students
+
+(1) An eligible student qualifies for support in connection with the student's attendance on a designated course subject to and in accordance with these Regulations.
+
+(2) Subject to paragraphs (2B),[^key-1fc2ece2eac6d62657abebe60a121a22] (3) and (7), a person is an eligible student in connection with a designated course if—
+
+- (a) the academic authority notifies the Secretary of State in writing that the person has a reasonable chance of being offered a place on a designated course by the academic authority; and
+- (b)[^key-9fa36bd414a5bc01eb2d630dc3eaf477] the Secretary of State determines in connection with an application for support under these Regulations that the person falls within one of the categories set out—
+  - (i) in paragraphs 2, 2A, 3, 4, 4A, 4B, 4C, 4D, 4E, 5 , 5A[^key-11f8f388157f0eee4f6efee9245304b7] , 5B, 5C,[^key-c2fcf14dc62bd49ca82a33368c8f681a] 6A, 7A, 8A, 9A, 9B, 9BA,[^key-632fb622cda358d3f55ab84089652740] 9BB,[^key-c30546b34ef7e890689619eaf52486fe] 9C, 9D, 10ZA, 11A, 12A and 13 in Part 2 of Schedule 1; or
+  - (ii) in paragraphs 6, 7, 8, 9, 10, 10A, 11 and 12 in Part 2 of Schedule 1, where paragraph (2A) applies.
+
+(2A) This paragraph applies where—
+
+- (a) in connection with a designated course beginning before 1st August 2021, the Secretary of State, in assessing an application for support by a person (“A”), determined that A fell within one of the categories set out in paragraphs 6, 7, 8, 9, 10, 10A, 11 and 12 in Part 2 of Schedule 1 in relation to an academic year of the course beginning before 1st August 2021; and
+- (b) A applies for support in connection with that course, or a designated course to which A’s status as an eligible student is transferred from that course in accordance with this Part.
+
+(2B) In connection with a designated course beginning on or after 1st January 2028, paragraph (2)(b) has effect as if it did not mention paragraphs 8A , 9B, 9BA and 9D[^key-7bf25d2b52c6012cd2761efc4ebf75cb].
+
+(3) A person (“A”) is not an eligible student if—
+
+- (a) subject to paragraph (4), A has attended a qualifying course;
+- (b) A is in breach of an obligation to repay any loan;
+- (c) A has reached the age of 18 and not ratified any agreement for a loan made with A when A was under the age of 18; or
+- (d) A has, in the opinion of the Secretary of State, shown by A's conduct to be unfitted to receive support.
+
+(4) Paragraph (3)(a) does not apply where the person has attended a qualifying course but the Secretary of State has determined that having regard to the particular circumstances of that person's case it is appropriate to pay that person support in connection with the current course.
+
+(5) For the purposes of paragraph (3)(b) and (c), “**loan**” means a loan made under the student loans legislation.
+
+(6) In the case where the agreement for a loan is subject to the law of Scotland, paragraph (3)(c) applies only if the agreement was made—
+
+- (a) before 25th September 1991; and
+- (b) with the concurrence of the borrower's curator or at a time when the borrower had no curator.
+
+(7) The number of eligible students shall not exceed 20.
+
+(8) An eligible student in respect of whom the first academic year of the course begins on or after 1st September 2000 shall not, at any one time, qualify for support for more than one designated course.
+
+(9) Despite paragraphs (2) and (3) and subject to paragraphs (2B), (7) and (10) to (11B)[^key-72716d606d916265cbfe872098216f52], a person (“A”) is an eligible student in connection with a designated course if—
+
+- (a) A qualified as an eligible student in connection with—
+  - (i) an earlier academic year of the current course; or
+  - (ii) a designated course that A attended and from which A's status as an eligible student was transferred to the current course; and
+- (b) A's status as an eligible student has not terminated.
+
+(10) Where—
+
+- (a) the Secretary of State determined that, by virtue of being a refugee or the spouse, civil partner, child or step-child of a refugee, a person (“A”) was an eligible student in connection with an application for support for an earlier year of the current course or in connection with an application for support for a designated course at the Institute from which A's status as an eligible student has been transferred to the current course; and
+- (b) the refugee status of A or A's spouse, civil partner, parent or step-parent, as the case may be, is due to expire before the first day of the academic year in respect of which A is applying for support and, as at the day before the day that academic year begins—[^key-04862f38303f66d1525def28d6016bd4]
+  - (i) no further leave to remain has been granted,
+  - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002), and
+  - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose refugee status is due to expire has not become a British or Irish citizen,
+
+A's status as an eligible student terminates on the day before the first day of the academic year in respect of which A is applying for support.
+
+(10A)[^key-39cfd53020ec6d5b7697e3ba802c4940] Where—
+
+- (a) the Secretary of State determined that, by virtue of being a person granted stateless leave, or the spouse, civil partner, child or step-child of a person granted stateless leave, a person (“A”) was an eligible student in connection with—
+  - (i) an application for support for an earlier year of the current course, or
+  - (ii) an application for support for a designated course at the Institute from which A’s status as an eligible student has been transferred to the current course, and
+- (b) as at the day before the academic year in respect of which A is applying for support begins, the period for which the person granted stateless leave is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and that person has not become a British or Irish citizen[^key-28d8994087c4877e81449cbbc2e5795d],
+
+A’s status as an eligible student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+(10B)[^key-4cba2ec1e447c5d9c8f39c8599301d4c] Where—
+
+- (a) the Secretary of State determined that, by virtue of being a person granted section 67 leave, a person (“A”) was an eligible person in connection with—
+  - (i) an application for support for an earlier year of the current course, or
+  - (ii) an application for support for a designated course at the Institute from which A’s status as an eligible student has been transferred to the current course, and
+- (b) as at the day before the academic year in respect of which A is applying for support begins, the period for which the person granted section 67 leave is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and that person has not become a British or Irish citizen[^key-18070c65c536c9f8a0f646674005b172],
+
+A’s status as an eligible student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+(10C)[^key-f45069e25dfa2be01d8aac97c08703c9] Where—
+
+- (a) the Secretary of State determined that, by virtue of being a person granted Calais leave, a person (“A”) was an eligible student in connection with—
+  - (i) an application for support for an earlier year of the current course; or
+  - (ii) an application for support in connection with a designated course at the Institute from which A’s status as an eligible student has been transferred to the current course; and
+- (b) as at the day before the academic year in respect of which A is applying for support begins, the period for which A is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and A has not become a British or Irish citizen[^key-9fe49a73f8c0cd6bf2e5dbfc38276819],
+
+A’s status as an eligible student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+(11) Where—
+
+- (a) the Secretary of State determined that, by virtue of being a person granted humanitarian protection[^key-defe510c0cf8f1d0052ca52110caa8f1] or the spouse, civil partner, child or step-child of such a person, a person (“A”) was an eligible student in connection with an application for support for an earlier year of the current course or in connection with an application for support for a designated course from which A's status as an eligible student has been transferred to the current course; and
+- (b) the period for which the person granted humanitarian protection[^key-050d3a991a07fbc538f526e5bfc9fa1b] is allowed to stay in the United Kingdom is due to expire before the first day of the academic year in respect of which A is applying for support and, as at the day before the day that academic year begins—[^key-a95d537cdc011b6e8af940c19a12d7a0]
+  - (i) no further leave to remain has been granted,
+  - (ii) no appeal is pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002), and
+  - (iii) the person (A or A’s spouse, civil partner, parent or step-parent) whose period for which they are allowed to stay in the United Kingdom is due to expire has not become a British or Irish citizen,
+
+A's status as an eligible student terminates on the day before the first day of the academic year in respect of which A is applying for support.
+
+(11A)[^key-a7923633f8b6746d8a2927eff1b68f2c] Where—
+
+- (a) the Secretary of State determined that, by virtue of being a person with protected rights with limited leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules, a person (“A”) was an eligible student in connection with—
+  - (i) an application for support for an earlier year of the current course; or
+  - (ii) an application for support in connection with a designated course at the Institute from which A’s status as an eligible student has been transferred to the current course; and
+- (b) as at the day before the academic year in respect of which A is applying for support begins, A no longer has extant limited leave to enter or remain granted by virtue of residence scheme immigration rules and no further leave to enter or remain has been granted under those rules and A has not become a British or Irish citizen[^key-412b4d0ec9d5aaa290c50742677fc000],
+
+A’s status as an eligible student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+(11B) Where—
+
+- (a) the Secretary of State has determined that, by virtue of—
+  - (i) falling within paragraph (a)[^key-1da81760bee2af8bae471991e9ac8897][^key-a766372dbaab35abd0e2c3ce8fdf2fc3]... (iv) or (v) of the definition of “person with protected rights”; or
+  - (ii) meeting the conditions in paragraph 3(1)(a)[^key-3e22479755db7817f5b6c05758374e86]... (iv) in Part 2 of Schedule 1,
+
+  a person (“A”) is an eligible student in connection with an application for support for an academic year of a designated course; and
+- (b) as at the day before the academic year begins, A is not a person with protected rights and has not become a British or Irish citizen[^key-66d438eb91452753dba0c9ae85026341],
+
+A’s status as an eligible student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+(11C)[^key-10b0d341836d66ac044640e3986e9e5f] Where—
+
+- (a) the Secretary of State determined that, by virtue of being a person granted leave under one of the Afghan Schemes[^key-57b3c7c15a0a11a552410a32d039f586] or the spouse, civil partner, child or step-child of such a person[^key-0802d7e06145a1396e33fa2fb2c2de2b], as that expression is defined in paragraph 1(1) of Schedule 1, a person (“A”) was an eligible student[^key-763f665b31230264adbda2ba623caa2b] in connection with—
+  - (i) an application for support for an earlier year of the current course, or
+  - (ii) an application for support for a designated course at the Institute from which A’s status as an eligible student has been transferred to the current course, and
+- (b) as at the day before the academic year in respect of which A is applying for support begins, the period for which the person granted leave under one of the Afghan Schemes, as that expression is defined in paragraph 1(1) of Schedule 1[^key-5646f0a8efa95aba1113096a4817ff30] is allowed to stay in the United Kingdom has expired and that person has not become a British or Irish citizen[^key-4c09c84fb789a8a264cb3c8e6f65fb84],
+
+A’s status as an eligible student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+(11D)[^key-510b6d0ae4da69b70bf63d7390316d53] Where—
+
+- (a) the Secretary of State determined that, by virtue of being a person granted leave under one of the Ukraine Schemes or the spouse civil partner, child or step-child of such a person[^key-7036817d5b04e9078574f1fb482f5a60], a person (“**A**”) was an eligible student[^key-694003d355e41deb2c53f1e56ddf4e7a] in connection with—
+  - (i) an application for support for an earlier year of the current course, or
+  - (ii) an application for support for a designated course at the Institute from which A’s status as an eligible student has been transferred to the current course, and
+- (b) as at the day before the academic year in respect of which A is applying for support begins, the period for which the person granted leave under one of the Ukraine Schemes is allowed to stay in the United Kingdom has expired and no further leave to enter or remain has been granted and that person has not become a British or Irish citizen[^key-2e802043cdf7db2ffb79e99fcd5391e6],
+
+A’s status as an eligible student terminates immediately before the first day of the academic year in respect of which A is applying for support.
+
+(12) The Secretary of State may take such steps and make such enquiries as the Secretary of State considers necessary to determine whether a person is an eligible student.
+
+(13) The Secretary of State must inform a person who has been notified to the Secretary of State under paragraph (2)(a) whether that person qualifies as an eligible student.
+
+(14) A person who has received notification from the Secretary of State under paragraph (13) that that person is an eligible student in connection with a designated course and a person who is an eligible student by virtue of paragraph (9) must, by the deadline for receipt of financial information, provide the Secretary of State with any information or documentation that the Secretary of State requests in order to determine the amount of support payable under these Regulations in respect of the academic year.
+
+(15) The deadline for receipt of financial information [^key-f9d6b9a7a7ee79bb1386c1e381a3a874]... is 30th April of the calendar year in which the academic year of the current course begins[^key-a8dc9fb89a74fd7db29056bd7a38d7a5] or, in the case of grants payable under regulation 17(5), 28th February of the calendar year after that in which the academic year of the current course begins[^key-06860436696fcfee909610526fb3384d].
+
+(16) The Secretary of State must notify an eligible student of the amount of support payable in respect of the academic year, if any.
+
+### 10. Designated course
+
+A course is designated for the purposes of section 22(1) of the 1998 Act and regulation 9 if it is—
+
+- (a) a postgraduate or comparable course;
+- (b) a full-time course;
+- (c) of at least one academic year's duration; and
+- (d) provided by the Institute ,[^key-1023659588c4a7961d5fbdc46a74f05c]
+
+unless it is a course that leads to the award of a master of laws qualification.
+
+### 11. Period of eligibility
+
+(1) Subject to the following paragraphs and regulation 9 a student's status as an eligible student in connection with a designated course will terminate at the end of the academic year prior to that[^key-d9e5aef14e3c0ef59393ef36ca2a6648] in which the Institute would ordinarily expect the student to complete the course (“period of eligibility”).
+
+(2) The period of eligibility terminates when the student—
+
+- (a) withdraws from the designated course in circumstances in which the Secretary of State will not transfer the student's status as an eligible student in accordance with regulation 12; or
+- (b) abandons or is expelled from the designated course.
+
+(3) The Secretary of State may terminate a period of eligibility where the conduct of the student means that the student is unfitted to receive support.
+
+(4) Where the student's period of eligibility will terminate before the end of the academic year in which the student will actually complete the course, the Secretary of State may, at any time, extend or renew the period of eligibility for such period as the Secretary of State determines.
+
+(5) If the Secretary of State is satisfied that the student has failed to comply with any requirement to provide any information under these Regulations or has provided information which is inaccurate in a material particular, the Secretary of State may do one or more of the following—
+
+- (a) terminate the student's period of eligibility;
+- (b) determine that the student no longer qualifies for any particular type of support or particular amount of support;
+- (c) treat any support already paid to the student as an overpayment which may be recovered in accordance with regulation 32.
+
+### 12. Transfer of eligibility
+
+(1) Where an eligible student transfers to another designated course at the Institute, the Secretary of State must transfer the student's status as an eligible student where—
+
+- (a) the Secretary of State receives a request from the eligible student to do so;
+- (b) the Secretary of State is satisfied that the eligible student has begun to attend that other course on the recommendation of the academic authority; and
+- (c) the student's status as an eligible student has not terminated.
+
+(1A)[^key-513be95085efd6092ad8e82860d9836d] Paragraph (1) applies to a person who is an eligible student by virtue of regulation 9(2)(b)(ii) only where that person’s status as an eligible student has not been transferred on or after 1st August 2021 from the designated course referred to in regulation 9(2A)(a) to another designated course.
+
+(2) An eligible student who transfers under paragraph (1) shall receive in connection with the academic year of the course to which that eligible student transfers the remainder of the support assessed by the Secretary of State in respect of the academic year of the course from which the eligible student transfers.
+
+(3) An eligible student (“A”) who transfers under paragraph (1) after the Secretary of State has assessed support in connection with the academic year of the course from which A is transferring but before A completes that year may not, in connection with the academic year of the course to which A transfers, apply for another grant of a kind that A has already applied for under these Regulations in connection with the academic year of the course from which A is transferring.
+
+## PART 3 — PROVISION OF INFORMATION
+
+### 13. Information
+
+Every applicant and eligible student must, as soon as reasonably practicable after being requested to do so, provide the Secretary of State with such information as the Secretary of State considers to be required for the purposes of these Regulations.
+
+### 14.
+
+An applicant or[^key-aa1dd1f6fe8ab54b2506b3fe21c23e58] eligible student must forthwith inform the Secretary of State and provide the Secretary of State with particulars if any of the following occurs—
+
+- (a)[^key-24637e601bf3ba4a4b440709ec42bbce] they withdraw from or abandon their course;
+- (b) they are expelled from their course;
+- (c) they transfer to another course at the Institute;
+- (d) they are absent from their course for more than 60 days due to illness;
+- (e) they are suspended from their course (whether at their request or not);
+- (f) the month for the start or completion of their course changes;
+- (g) their home or term-time address or telephone number changes.
+
+**14A.**[^key-2ed0eea55b5af63f26d4428e67fae0a8] The academic authority must forthwith inform the Secretary of State and provide the Secretary of State with particulars if an applicant or student—
+
+- (a) withdraws from or abandons their course;
+- (b) is expelled from their course;
+- (c) is absent from their course for more than 60 days due to illness;
+- (d) is suspended from their course (whether at the applicant’s or student’s request or not);
+
+### 15.
+
+Information provided to the Secretary of State pursuant to these Regulations must be in the format required by the Secretary of State and, if the Secretary of State requires the information to be signed by the person providing it, an electronic signature in such form as the Secretary of State may specify satisfies this requirement.
+
+## PART 4 — FINANCIAL SUPPORT
+
+### 16. General
+
+(1) Subject to paragraph (2), an eligible student who is attending a designated course qualifies in connection with an academic year of that course for—
+
+- (a) grants for living and other costs in accordance with Chapter 1; and
+- (b) supplementary grants in accordance with Chapter 2.
+
+(2) If the academic year in respect of which the eligible student has applied for support is a year of repeat study the Secretary of State may determine that—
+
+- (a) the student does not qualify for a particular type or amount of support in respect of the year of repeat study; or
+- (b) the student does not qualify for any support in respect of that year of repeat study.
+
+(3) In determining whether an eligible student should not qualify for some or any additional support in accordance with paragraph (2) the Secretary of State shall have regard to the circumstances of the case and in particular the reasons for which the student has been required to repeat the academic year.
+
+(4) For the purposes of this regulation, “**year of repeat study**” means an academic year or part of an academic year which the student has previously attended but is required by the Institute to attend again.
+
+### CHAPTER 1 — GRANTS FOR EUROPEAN UNIVERSITY INSTITUTE STUDENTS
+
+#### 17. Grants for living and other costs
+
+(1) Subject to paragraphs (2) and (3), a student qualifies in respect of an academic year for the grants for living and other costs specified in and calculated in accordance with paragraphs (3) to (6).
+
+(2) A student does not qualify for any of the grants payable under this regulation if the only paragraph or paragraphs in Part 2 of Schedule 1 into which the student falls is one or more of[^key-52629dfe34108976d984de2d58311a03] paragraphs 2A, 3(1)(d)(ii), 6A(1)(c)(ii), 7A(1)(b)(ii), 9, 9A, 9BA, 9BB, 9C, 9D, 10, 10ZA, 11A(c)(ii) and 12A(d)(ii).[^key-f7818db9635162f2e59d813330852b08]
+
+(3) A student qualifies for a grant for living costs of 18,099 euro in relation to an academic year beginning on or after 1st September 2010.
+
+(4) A student qualifies for a grant for travel home of the amount determined by the Secretary of State to be the reasonable cost of one return journey from the student's home address to the Institute;
+
+(5) Subject to prior agreement of the Secretary of State, before costs are incurred, a student qualifies for a grant for research travel of the amount determined by the Secretary of State to be the reasonable cost of travel incurred for the purposes of completing periods of research authorised by the Institute during the academic year in respect of which support is being applied for.
+
+(6) A student qualifies for a grant for medical insurance of the amount determined by the Secretary of State to be the reasonable cost of insuring the student against liability for the cost of medical treatment provided outside of the United Kingdom where the ordinary duration of the course is more than one academic year.
+
+#### 18.
+
+A deduction may be made in accordance with Part 5 from the amount payable in respect of any of the grants calculated under paragraphs (3), (4) and (5) of regulation 17.
+
+### CHAPTER 2 — SUPPLEMENTARY GRANTS
+
+#### 19. Disabled students' allowance
+
+(1) Subject to paragraph (2), a student (“A”) qualifies for a disabled students' allowance to assist with the additional expenditure which the Secretary of State is satisfied that A is obliged to incur by reason of a disability to which A is subject in respect of A's attendance at a designated course.
+
+(2) A student does not qualify for a disabled students' allowance if the only paragraph or paragraphs in Part 2 of Schedule 1 into which the student falls is one or more of[^key-b893ef453d92cffb05e65e6f57c2aa20] paragraphs 2A, 3(1)(d)(ii), 6A(1)(c)(ii), 7A(1)(b)(ii), 9, 9A, 9BA, 9BB, 9C, 9D, 10, 10ZA, 11A(c)(ii) and 12A(d)(ii).[^key-da3a6435cb2944aa061226da14852b15]
+
+#### 20. Amount of disabled students' allowance
+
+(1) Subject to paragraph (2), the amount of the disabled students' allowance is the amount that the Secretary of State considers appropriate in accordance with the student's circumstances to assist with one or more types of eligible expenditure.
+
+(2) The amount of disabled students' allowance must not exceed £10,260 in respect of an academic year.
+
+(3) The “types of eligible expenditure” are—
+
+- (a) expenditure on a non-medical personal helper;
+- (b) expenditure on major items of specialist equipment;
+- (c) any additional expenditure incurred—
+  - (i) in Italy for the purpose of attending the Institute; and
+  - (ii) within or outside the United Kingdom for the purpose of travelling to the Institute in order to attend the relevant course.
+
+#### 21. Grant for dependants
+
+(1) The grant for dependants consists of the following elements—
+
+- (a) adult dependants' grant; and
+- (b) parents' learning allowance.
+
+(2) The qualifying conditions for each element are set out in regulations 22 to 26.
+
+#### 22. Adult dependants' grant
+
+(1) Subject to paragraph (3), a student qualifies for an adult dependants' grant in connection with that student's attendance on a designated course in accordance with this regulation.
+
+(2) The adult dependants' grant is available in respect of a dependant of an eligible student who is either—
+
+- (a) the student's partner; or
+- (b) an adult dependant of the student whose net income does not exceed £3,796.
+
+(3) A student does not qualify for the grant payable under this regulation if the only paragraph or paragraphs in Part 2 of Schedule 1 into which the student falls is one or more of[^key-abe548c8238a6789ab10a8a533e437cc] paragraphs 2A, 3(1)(d)(ii), 6A(1)(c)(ii), 7A(1)(b)(ii), 9, 9A, 9BA, 9BB, 9C, 9D, 10, 10ZA, 11A(c)(ii) and 12A(d)(ii).[^key-0ed9e0e57bd2f1ff257025575fad920d]
+
+#### 23.
+
+(1) The amount of the adult dependants' grant payable in respect of an academic year is calculated in accordance with regulation 25, the basic amount being—
+
+- (a) in respect of the current academic year, £2,642; or
+- (b) where the person in respect of whom the student is applying for adult dependants' grant is ordinarily resident outside of the United Kingdom, such amount not exceeding £2,642 as the Secretary of State considers reasonable in the circumstances.
+
+#### 24. Parents' learning allowance
+
+(1) Subject to paragraph (2), a student qualifies in connection with that student's attendance on a designated course for the parents' learning allowance if that student has one or more dependants who are dependent children.
+
+(2) A student does not qualify for the grant payable under this regulation if the only paragraph or paragraphs in Part 2 of Schedule 1 into which the student falls is one or more of[^key-76bc7aaf95eb7a1f0fd992f32539c837] paragraphs 2A, 3(1)(d)(ii), 6A(1)(c)(ii), 7A(1)(b)(ii), 9, 9A, 9BA, 9BB, 9C, 9D, 10, 10ZA, 11A(c)(ii) and 12A(d)(ii).[^key-95ec847c7544fb96bc460ac4463888ee]
+
+(3) The amount of the parents' learning allowance payable in respect of an academic year is calculated in accordance with regulation 25, the basic amount being £1,508.
+
+#### 25. Calculations
+
+(1) Subject to the following paragraphs, the amount payable in respect of a particular element of the grant for dependants for which the student qualifies under regulations 22 to 24 is the amount of that element remaining after applying, until it is extinguished or no element remains payable under regulations 22 to 24, an amount equal to (**A** – **B)** as follows and in the following order—
+
+- (a) to reduce the basic amount of the adult dependants' grant where the student qualifies for that element under regulation 22; and
+- (b) to reduce the basic amount of the parents' learning allowance where the student qualifies for that element under regulation 24.
+
+(2) Subject to paragraphs (4) and (5), where **B** is greater than or equal to **A**, the basic amount of each element of the grant for dependants for which the student qualifies is payable.
+
+(3) Where (**A** – **B)** is equal to or exceeds the aggregate of the basic amounts of the elements of the grant for dependants for which the eligible student qualifies, the amount payable in respect of each element is nil.
+
+(4) The amount of adult dependants' grant calculated under paragraph (1) in respect of an adult dependant is reduced by one half where—
+
+- (a) the student's partner—
+  - (i) is an eligible student; or
+  - (ii) holds a statutory award; and
+- (b) account is taken of that partner's dependants in calculating the amount of support for which that partner qualifies or the payment to which the partner is entitled under the statutory award.
+
+(5) Where the amount of the parents' learning allowance calculated under paragraph (1) is £0.01 or more but less than £50, the amount of parents' learning allowance payable is £50.
+
+(6) For the purposes of this regulation—
+
+- **A** is the aggregate of the net income of each of the eligible student's dependants; and
+- **B** is—
+  - (a) £1,159 where the student has no dependent children;
+  - (b) £3,473 where the student is not a lone parent and has one dependent child;
+  - (c) £4,627 where the student is not a lone parent and has more than one dependent child;
+  - (d) £4,627 where the student is a lone parent and has one dependent child;
+  - (e) £5,792 where the student is a lone parent and has more than one dependent child.
+
+#### 26.
+
+A deduction may be made in accordance with Part 5 from the amount payable in respect of a particular element of the grant for dependants calculated in accordance with regulations 22 to 25.
+
+#### 27. Interpretation
+
+(1) For the purposes of regulations 22 to 26—
+
+- (a) “**adult dependant**” means, in relation to a student (“A”), an adult person dependent on A but does not include A's child, A's partner (including a spouse or civil partner from whom the Secretary of State considers the student is separated) or A's former partner;
+- (b) “**child**” in relation to a student (“A”) includes any child of A's partner who is dependent on A and any child for whom A has parental responsibility who is dependent on A;
+- (c) “**dependant**” means, in relation to a student (“A”), A's partner, A's dependent child or an adult dependant, who in each case is not an eligible student and does not hold a statutory award;
+- (d) “**dependent**” means wholly or mainly financially dependent;
+- (e) “**lone parent**” means a student who does not have a partner and who has a dependent child;
+- (f) “**net income**” has the meaning given in paragraph (2);
+- (g) subject to sub-paragraphs (h), (i) and (j), “**partner**” means any of the following—
+  - (i) the spouse of a student;
+  - (ii) the civil partner of a student;
+  - (iii) a person ordinarily living with a student (“A”) as if that person were A's spouse where A was aged 25 or over at the start of the academic year in respect of which A's contribution falls to be assessed;
+  - (iv) a person ordinarily living with a student (“A”) as if that person were A's civil partner where A was aged 25 or over at the start of the academic year in respect of which A's contribution falls to be assessed;
+- (h) unless otherwise indicated, a person who would otherwise be a partner under subparagraph (g) is not to be treated as a partner if—
+  - (i) in the opinion of the Secretary of State, that person and the student are separated; or
+  - (ii) the person is ordinarily living outside the United Kingdom and is not maintained by the student;
+- (i) for the purposes of the definition of “adult dependant”, a person is to be treated as a partner if that person would be a partner under sub-paragraph (g) but for the fact that the student with whom that person is living was not aged 25 or over at the start of the academic year in respect of which the student's contribution falls to be assessed;
+- (j) for the purposes of the definitions of “child” and “lone parent”, a person is to be treated as a partner if that person would be a partner under sub-paragraph (g) but for the date on which the student began the designated course or the fact that the student with whom that person is ordinarily resident was not aged 25 or over at the start of the academic year in respect of which the student's contribution falls to be assessed.
+
+(2) Subject to paragraph (3), a dependant's net income is that person's income from all sources for the academic year in question reduced by the amount of income tax and social security contributions payable in respect of it but disregarding—
+
+- (a) any pension, allowance or other benefit paid by reason of a disability or incapacity to which the dependant is subject;
+- (b) child benefit payable under Part IX of the Social Security Contributions and Benefits Act 1992 [^c20153881];
+- (c) any financial support payable to the dependant by a local authority in accordance with regulations made under sections 2, 3 and 4 of the Adoption and Children Act 2002 [^c20153891];
+- (d) any guardian's allowance to which the dependant is entitled under section 77 of the Social Security Contributions and Benefits Act 1992;
+- (e) in the case of a dependant with whom a child being looked after by a local authority is boarded out, any payment made to that dependant in pursuance of section 23 of the Children Act 1989 [^c20153901] or, as the case may be, section 81 of the Social Services and Well-being (Wales) Act 2014[^key-981715fa3dbd30399fa8a8dcb44c9f63];
+- (f) any payments made to the dependant under section 15 of and Schedule 1 to the Children Act 1989 in respect of a person who is not the dependant's child or any assistance given by a local authority pursuant to section 24 of that Act; [^key-90a25d6de81907295d3ec59c81b93de1]...
+- (g) any child tax credit to which the dependant is entitled under Part 1 of the Tax Credits Act 2002 ; and[^key-3ac56b3154ac257bede621fdd8dde7fa]
+- (h) in the case of a dependant who is entitled to an award of universal credit under Part 1 of the Welfare Reform Act 2012—
+  - (i) any amount that is included in the calculation of the award, under regulation 27(1) of the Universal Credit Regulations 2013, in respect of the fact that the dependant has [^key-8764e6e1a335f7794eb7c5a961b7a7ae]... limited capability for work and work-related activity; and
+  - (ii) any amount or additional amount that is included in the calculation of the award under regulation 24 of those Regulations (the child element)
+
+(3) Where a student or that student's partner makes any recurrent payments which were previously made by the student in pursuance of an obligation incurred before the first academic year of the student's course, the partner's net income is net income calculated in accordance with paragraph (2) reduced by—
+
+- (a) an amount equal to the payments in question for the academic year, if in the opinion of the Secretary of State the obligation has been reasonably incurred; or
+- (b) such lesser amount, if any, as the Secretary of State considers appropriate if, in the Secretary of State's opinion, a lesser obligation could reasonably have been incurred.
+
+(4) For the purposes of paragraph (2), where—
+
+- (a) the dependant is a dependent child; and
+- (b) payments are made to the student towards the child's maintenance,
+
+those payments are to be treated as the child's income.
+
+## PART 5 — CONTRIBUTIONS
+
+### 28. Student's contributions
+
+A student's contribution in respect of an academic year is the amount, if any, calculated under Schedule 2.
+
+### 29. Application of the student's contribution
+
+The contribution calculated in accordance with regulation 28 shall be applied in accordance with regulation 30.
+
+### 30.
+
+(1) The Secretary of State must apply the student's contribution—
+
+- (a) first, to reduce the amount of grant for living costs calculated in accordance with regulation 17(3);
+- (b) second—
+  - (i) in the case of a student who is eligible for the grant for dependants, to reduce in the following order—
+    - (aa) the amount of any adult dependants' grant calculated in accordance with regulation 25;
+    - (bb) the amount of any parents' learning allowance calculated in accordance with regulation 25;
+    - (cc) the amount of any grant for travel home calculated in accordance with regulation 17(4);
+  - (ii) in any other case, to reduce the amount of grant for travel home calculated in accordance with regulation 17(4);
+- (c) third, subject to paragraph (2), to reduce the amount of grant for research travel in accordance with regulation 17(5).
+
+(2) Where the contribution available to reduce the amount of grant for research travel in accordance with paragraph (1)(c) exceeds the amount of that grant calculated under regulation 17(5), the amount of that grant payable to the student is nil.
+
+## PART 6 — PAYMENTS
+
+### 31. Payments for grants of living and other costs and supplementary grants
+
+(1) The Secretary of State may pay the grants for the living and other costs and the supplementary grants for which a student qualifies in such instalments and at such times as the Secretary of State considers appropriate.
+
+(2) The Secretary of State may, if the Secretary of State considers it appropriate to do so, pay the grant payable under regulation 17(3) to the Institute for the Institute to pay the relevant grant on the Secretary of State's behalf.
+
+(3) Where a final assessment of the amount of grants for living and other costs or supplementary grants payable to a student cannot be made on the basis of the information provided by the student, the Secretary of State may make provisional payments of those grants pending the final assessment.
+
+(4) The Secretary of State may, if the Secretary of State considers it appropriate to do so, make a payment of a disabled students' allowance before the start of the academic year in respect of which that payment is due.
+
+(5) Where the circumstances in regulation 14(a) or regulation 14(c) apply, the Secretary of State must not make any payments of support to a student after the date on which that student stops attending the course unless the Secretary of State considers it appropriate to do so taking into account the circumstances of the student's case.
+
+(6) The Secretary of State must not make any payments of support to a student who is absent from the course—
+
+- (a) for more than 60 days due to illness; or
+- (b) for any period for any other reason,
+
+unless the Secretary of State considers that it is appropriate to do so taking into account the circumstances of the student's case.
+
+### 32. Overpayments
+
+An eligible student shall, if required to do so by the Secretary of State, repay any amount paid to that student under Part 4 which for whatever reason exceeds the amount of support to which that student is entitled under Part 4.
+
+David Lammy
+
+Minister for Higher Education and Intellectual Property
+
+Department for Business, Innovation and Skills
+
+## SCHEDULE 1 — ELIGIBLE STUDENTS
+
+Regulation 9
+
+### PART 1 — Interpretation
+
+**1.** (1) For the purposes of this Schedule—
+
+- “**Directive 2004/38**” means Directive [2004/38/EC](https://www.legislation.gov.uk/eudr/2004/38) of the European Parliament and of the Council of 29th April 2004 on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member States [^c20153911];
+- “**EEA Agreement**” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 [^c20153921], together with the Protocol adjusting that Agreement signed at Brussels on 17th March 1993 [^c20153931], as it had effect immediately before IP completion day[^key-18ac87ae524f44667c42382fda0c2ce2];
+- [^key-2437789a7d5df18ad78a483c1c9293db]...
+- “**EEA frontier self-employed person**” has the meaning given by sub-paragraph (2);
+- “**EEA frontier worker**” has the meaning given by sub-paragraph (3);
+- “**EEA migrant worker**” means an EEA national who is a worker, other than an EEA frontier worker, in the United Kingdom;
+- “**EEA national**” means a national of an EEA State [^key-305f064bbeeea22a8b8a0eaa54518967]...;
+- “**EEA self-employed person**” means an EEA national who is a self-employed person, other than an EEA frontier self-employed person, in the United Kingdom;
+- “**EEA State**”, in relation to any time, means—
+  - (a) a state which at any time is a Member State; or
+  - (b) any other state which at that time is a party to the EEA Agreement;
+- “**employed person**” means an employed person within the meaning of Annex 1 to the Swiss Agreement;
+- “**EU national**” means a national of a Member State;
+- “**European Economic Area**” means the area comprised by the European Union, the Republic of Iceland, the Kingdom of Norway and the Principality of Liechtenstein;
+- “[^key-b2b7105e7b6df0fb7b6fa78ab2045766]**evacuated or assisted British national from Afghanistan**” means a person—
+  - (a) who is a British citizen, a British overseas territories citizen, a British National (Overseas), a British Overseas citizen, a British subject under the British Nationality Act 1981 or a British protected person within the meaning of that Act;
+  - (b) who was either—
+    - (i) evacuated from Afghanistan by or on behalf of the United Kingdom, a North Atlantic Treaty Organisation member state, Pakistan, Uzbekistan, Tajikistan, Iran or Qatar during the period of the operation known as Operation Pitting, which began on 14th August 2021 and ended on 28th August 2021; or
+    - (ii) assisted by or on behalf of the United Kingdom, after 28th August 2021 and before 6th January 2022, to leave Afghanistan; and
+  - (c) who has been ordinarily resident in the United Kingdom and Islands since they were evacuated from or otherwise left Afghanistan;
+- “family member”, unless otherwise indicated, means—
+  - (a) in relation to an EEA frontier worker, an EEA migrant worker, an EEA frontier self-employed person , an EEA self-employed person, or a relevant person of Northern Ireland who is treated as an EEA migrant worker or an EEA self-employed person by virtue of paragraph 6A(3)[^key-c407b213b4c853426a12548408202e71]—
+    - (i) that person's spouse or civil partner;
+    - (ii) direct descendants of the person or of the person’s spouse or civil partner who are—[^key-c33d2a44493935bce6ad72f9786a6e26]
+    - (aa) under the age of 21; or
+    - (bb) dependents of the person or the person’s spouse or civil partner; or
+    - (iii) dependent direct relatives in that person's ascending line or that of the person's spouse or civil partner;
+  - (b) in relation to a Swiss employed person, a Swiss frontier employed person, a Swiss frontier self-employed person or a Swiss self-employed person—
+    - (i) that person's spouse or civil partner; or
+    - (ii) that person's child or the child of that person's spouse or civil partner;
+  - (c) in relation to an EU national who falls within article 7(1)(c) of Directive 2004/38 or, for the purposes of paragraph 9A, in relation to a relevant person of Northern Ireland who would fall within article 7(1)(c) of Directive 2004/38 if that person were an EU national or solely an EU national[^key-f9098beb1a5347122a0be444c3de8997]—
+    - (i) that person's spouse or civil partner; or
+    - (ii) direct descendants of that person or that person's spouse or civil partner who are—
+    - (aa) under the age of 21;
+    - (bb) dependants of that person or of the person's spouse or civil partner;
+  - (d) in relation to an EU national who falls within article 7(1)(b) of Directive 2004/38 or, for the purposes of paragraph 9A, in relation to a relevant person of Northern Ireland who would fall within article 7(1)(b) of Directive 2004/38 if that person were an EU national or solely an EU national[^key-9e67e02e34bd02273f6c026590716b71]—
+    - (i) that person's spouse or civil partner;
+    - (ii) direct descendants of the person or of the person's spouse or civil partner who are—
+    - (aa) under the age of 21; or
+    - (bb) dependants of the person or of the person's spouse or civil partner;
+    - (iii) dependent direct relatives in the person's ascending line or that of the person's spouse or civil partner;
+  - (e) in relation to a United Kingdom national, for the purposes of paragraphs 9, 9B and 9D, or for the purposes of paragraph 9C in relation to a person settled in the United Kingdom[^key-c0cfd17a8efc443821d8c8008e57aaf4] —
+    - (i) the person's spouse or civil partner; or
+    - (ii) direct descendants of the person or the person's spouse or civil partner who are—
+    - (aa) under the age of 21; or
+    - (bb) dependants of the person or of the person's spouse or civil partner;
+- “**Member State**” means a Member State of the European Union;
+- “[^key-43d0f9686742da9f7ce53ac6c873867a]**person granted leave under one of the Afghan Schemes**” means a person granted leave under the Afghan Citizens Resettlement Scheme or a person granted leave under the Afghan Relocations and Assistance Policy Scheme;
+- “**person granted leave under the Afghan Citizens Resettlement Scheme**” means a person—
+  - (a) who has—
+    - (i) indefinite leave to enter or indefinite leave to remain in the United Kingdom under paragraph ARAP 6.1 of Appendix Afghan Relocation and Assistance Policy of the immigration rules;[^key-0250eb2412ab4d5f11b92f4afb5f727a]
+    - (ii) [^key-9ab2fb43bc2c75fdcbfbecb0265f9f17]...
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “overseas territories” means Anguilla;[^key-72ca4c7d72017d4510b39c58a35869da] [^key-974fe0d0185d4ed7902a07985e61e717]... Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; the Caribbean part of the Kingdom of the Netherlands (Aruba, Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten);[^key-d504b8acd3c824daacccdb14f6b42208] Cayman Islands; Falkland Islands; Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Gibraltar; Mayotte; Greenland; Montserrat; [^key-fbfa3f7e90ec70f1dbf53d9e9ea19bb9]... Pitcairn, Henderson, Ducie and Oeno Islands; South Georgia and the South Sandwich Islands; St Barthélemy; St Helena, Ascension and Tristan da Cunha[^key-6ebf8520a38af4887504481875d95c99]; St Pierre et Miquelon; the Territory of New Caledonia and Dependencies; Turks and Caicos Islands; and Wallis and Futuna;
+- [^key-2437789a7d5df18ad78a483c1c9293db]...
+- [^key-2437789a7d5df18ad78a483c1c9293db]...
+- “person granted leave under the Afghan Relocations and Assistance[^key-d2a9722170d397e9127f7b0fbf0fd81d] Policy[^key-535334bb18f488fdf7083d7ea6067673] Scheme” means a person—
+  - (a) who has —
+    - (i) indefinite leave to enter the United Kingdom under paragraph 276BA2 of or has indefinite leave to remain under paragraph 276BS2 of the immigration rules[^key-8d03a83d75d0d82939281aff688ebe27], having been relocated to the United Kingdom pursuant to paragraph 276BB1(iii)(a)[^key-cfd2a6992748acb3ed8be5a57ce531cc] of the immigration rules[^key-3bbe0deda032c3a22907676e25bf30e5];
+    - (ia) indefinite leave to enter the United Kingdom under ARAP paragraph 6.1 of Appendix Afghan Relocation and Assistance Policy of the immigration rules or indefinite leave to remain in the United Kingdom under paragraph ARAP 6.2 of that Appendix of those rules;[^key-47fef9ff658e9cf24b96f6955fb7bae2]
+    - (ii) leave to enter the United Kingdom on the basis of the Afghan Relocations and Assistance Policy Scheme; or[^key-8ab8329cfba1b0b9a87357bc26aa4b91]
+    - (iii) indefinite leave to enter or remain in the United Kingdom, outside those rules, on the basis of the Afghan Relocations and Assistance Policy Scheme; and[^key-8ac05f9d26152bc50b224f6d2f608fea]
+    - (iv) [^key-9b66dc624b33c08dc4ffa80aba046846]...
+  - (b) who has been ordinarily resident in the United Kingdom and Islands throughout the period since the person was granted such leave;
+- “**self-employed person**” means—
+  - (a) in relation to an EEA national, a person who is self-employed within the meaning of Article 7 of Directive 2004/38 or the EEA Agreement, as the case may be; or
+  - (b) in relation to a Swiss national, a person who is a self-employed person within the meaning of Annex 1 to the Swiss Agreement;
+- “**settled**” has the meaning given by section 33(2A) of the Immigration Act 1971 [^c20153941];
+- “specified British overseas territories” means Anguilla; Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn, Henderson, Ducie and Oeno Islands; South Georgia and the South Sandwich Islands;[^key-975e5d020bcdcc9bcab5947c079b0416] St Helena, Ascension and Tristan da Cunha[^key-40d2e6932bd1d59798d70c237b07f505]; and Turks and Caicos Islands;
+- “**Swiss Agreement**” means the Agreement between the European Union and its Member States, of the one part, and the Swiss Confederation, of the other, on the Free Movement of Persons signed at Luxembourg on 21st June 1999 [^c20153951] and which came into force on 1st June 2002;
+- [^key-2437789a7d5df18ad78a483c1c9293db]...
+- “**Swiss employed person**” means a Swiss national who is an employed person, other than a Swiss frontier employed person, in the United Kingdom;
+- “**Swiss frontier employed person**” has the meaning given in sub-paragraph (4);
+- “**Swiss frontier self-employed person**” has the meaning given in sub-paragraph (5);
+- “**Swiss self-employed person**” means a Swiss national who is a self-employed person, other than a Swiss frontier self-employed person, in the United Kingdom;
+- “[^key-be6dc91b018439f46ed0a60a2132e9ad]**United Kingdom national**” has the meaning given by Article 2(d) of the EU withdrawal agreement;
+- “**worker**” means a worker within the meaning of Article 7 of Directive 2004/38 or the EEA Agreement, as the case may be.
+
+(2) “**EEA frontier self-employed person**” means an EEA national who—
+
+- (a) is a self-employed person in England; and
+- (b) resides in Switzerland or in the territory of an EEA State [^key-5901d7338e41bd6586f5bd7a1f325e01]... and returns to the national's residence in Switzerland or that EEA State, as the case may be, daily or at least once a week.
+
+(3) “**EEA frontier worker**” means an EEA national who—
+
+- (a) is a worker in England; and
+- (b) resides in Switzerland or in the territory of an EEA State [^key-9d1ab4d879ece1e8440b7134987a251a]... and returns to the national's residence in Switzerland or that EEA State, as the case may be, daily or at least once a week.
+
+(4) “**Swiss frontier employed person**” means a Swiss national who—
+
+- (a) is an employed person in England; and
+- (b) resides in Switzerland or in the territory of an EEA State [^key-5fff173ec7c9b243cc9a837f48f8b217]... and returns to the national's residence in Switzerland or that EEA State, as the case may be, daily or at least once a week.
+
+(5) “**Swiss frontier self-employed person**” means a Swiss national who—
+
+- (a) is a self-employed person in England; and
+- (b) resides in Switzerland or in the territory of an EEA State [^key-a5dd6481adc16e3882557f745096f0bb]... and returns to the national's residence in Switzerland or that EEA State, as the case may be, daily or at least once a week.
+
+(5A)[^key-9f9e0a2acd710c24c211668f8c4f4b18] For the purposes of this Schedule, a reference to a “Member State” or “State” in Article 7 of Directive 2004/38 is to be read as including the United Kingdom.
+
+(6)[^key-5a98fc16ac1f863958abe921fd45cc1f] For the purposes of this Schedule, “parent” means a parent, guardian or any other person having parental responsibility and “child” is to be construed accordingly.[^key-4af38eae89c0a66535f25006043f9ae4].
+
+(6A)[^M_F_5282d5d0-be72-4863-ca98-ebbdc7a47850] For the purposes of this Schedule, a person is not to be treated as ordinarily resident in a place unless that person lawfully resides in that place.
+
+(7)[^key-14d21cab24ba06ff38d4f8fb527e4ad1] For the purposes of this Schedule, a person (“A”) is to be treated as ordinarily resident in an area if A would have been so resident but for the fact that—
+
+- (a) A;
+- (b) A’s spouse or civil partner;
+- (c) A’s parent; or,
+- (d) in the case of a dependent direct relative in the ascending line, A’s child or child’s spouse or civil partner,
+
+is or was temporarily employed outside the area in question.
+
+(8)[^key-de73d74e1bdaad1bfe9f2ab0ebb28441] For the purposes of sub-paragraph (7), temporary employment outside the area in question includes—
+
+- (a) in the case of members of the regular naval, military or air forces of the Crown, any period which they serve outside the United Kingdom as members of such forces;
+- (b) in the case of members of the regular armed forces of a specified British overseas territory, any period which they serve outside the territory comprising the United Kingdom and the specified British overseas territories as members of such forces;
+- (c) in the case of members of the regular armed forces of the Republic of Ireland, any period which they serve outside the territory comprising the United Kingdom, the Islands and the Republic of Ireland as members of such forces;
+- (d) in the case of members of the regular armed forces of an EEA State or Switzerland, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland as members of such forces;
+- (e) in the case of members of the regular armed forces of Turkey, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey as members of such forces; and
+- (f) in the case of members of the regular armed forces of an EU overseas territory, any period which they serve outside the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories.
+
+### PART 2 — Categories
+
+#### 2. Persons who are settled in the United Kingdom
+
+(1) A person who—
+
+- (a)[^key-d6be45cfb23613d2acbe4e48f1cf0ad9] is settled in the United Kingdom on the relevant date and does not fall within paragraph 3;
+- (b) is ordinarily resident in England on the relevant date;
+- (c) had been ordinarily resident throughout the three-year period preceding the relevant date in the United Kingdom and Islands; and
+- (d) had not during any part of the period referred to in paragraph (c) been ordinarily resident in the United Kingdom and Islands wholly or mainly for the purpose of receiving fulltime education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(7).
+
+**2A.**[^key-fafeff80fa4131425aa3b254e7e8d97a] (1) A person—
+
+- (a) who is settled in the United Kingdom on the relevant date and does not fall within paragraph 3;
+- (b) who is ordinarily resident in England on the relevant date;
+- (c) who has been ordinarily resident in the territory comprising the United Kingdom, the Islands and the Republic of Ireland throughout the three-year period preceding the relevant date[^key-672345e873ded121197b64f985a65945]; and
+- (d) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, the Islands and the Republic of Ireland has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the Islands and the Republic of Ireland in accordance with paragraph 1(7).
+
+**3.** (1)[^key-6400da56907d1ca69e6567c562a3a169] A person who—
+
+- (a)[^key-e6c04ce715fe993f4c4724bab9a794ea] meets one of the following conditions on the relevant date—
+  - (i) the person is within the personal scope of the citizens’ rights provisions and is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
+  - (ii) the person—
+    - (aa) is within the personal scope of the citizens’ rights provisions;
+    - (bb) is an Irish citizen settled in the United Kingdom who, pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom; and
+    - (cc) would meet the eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules if that person were to make an application for such leave;
+  - (iii)[^key-053d2f3610e7657b36d99c0b3aa5ec29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) the person—
+    - (aa) is within the personal scope of the citizens’ rights provisions;
+    - (bb) is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations or otherwise has rights deemed to apply by virtue of any of the citizens’ rights provisions specified in paragraph (3)[^key-2436505ec206a9fedcd4dbcd2dd4a129]; and
+    - (cc) has, or is treated as having, a right of permanent residence for the purposes of the Immigration (European Economic Area) Regulations 2016, as those Regulations continue to have effect by virtue of the 2020 Citizens’ Rights Regulations in relation to that person during the relevant period or otherwise has a deemed right of permanent residence by virtue of any of the citizens’ rights provisions specified in paragraph (3)[^key-ac9518121a6fd776cec8b4b395c5c3ab]; or
+  - (v) the person is a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member is settled in the United Kingdom by virtue of the grant of indefinite leave to enter or remain under residence scheme immigration rules;
+- (b) is ordinarily resident in England on the relevant date;
+- (c) who had been ordinarily resident in the United Kingdom throughout the three-year period preceding the relevant date; and
+- (d) in a case where the person's ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident immediately before the period of ordinary residence referred to in paragraph (c) in the territory comprising—[^key-b5c28aabcef080191fc4e436a6780de6]
+  - (i) the United Kingdom, Gibraltar, the European Economic Area and Switzerland; or
+  - (ii) the overseas territories.
+
+(2)[^key-b0368d89724dfa73ede66fb19db95d96] For the purposes of sub-paragraph (1)(a)(ii)(cc), “eligibility requirements for indefinite leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules” means the eligibility requirements for such leave in accordance with paragraph EU11 of Appendix EU to the immigration rules [^key-02b2fed84d730ee8022b596dc86ae994]....
+
+(3)[^key-54ac857abc2fc328058b518209a1ac82] For the purposes of sub-paragraph (1)(a)(iv), the citizens’ rights provisions referred to are—
+
+- (a) Article 18(3) (issuance of residence documents) of the EU withdrawal agreement;
+- (b) Article 17(3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
+- (c) Article 16(3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
+
+#### 4. Refugees
+
+(1) A person—
+
+- (a) who is a refugee;
+- (b) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being recognised as a refugee; and
+- (c) who is ordinarily resident in England on the relevant date.
+
+(2) A person—
+
+- (a) who is the spouse or civil partner of a refugee;
+- (b) who was the spouse or civil partner of the refugee on the date on which the refugee made the application for asylum;
+- (c) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to remain in the United Kingdom; and
+- (d) who is ordinarily resident in England on the relevant date.
+
+(3) A person—
+
+- (a) who is the child of a refugee or the child of the spouse or civil partner of a refugee;
+- (b) who, on the date on which the refugee made the application for asylum, was the child of the refugee or the child of a person who was the spouse or civil partner of the refugee on that date;
+- (c) who was under 18 on the date on which the refugee made the application for asylum;
+- (d) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to remain in the United Kingdom; and
+- (e) who is ordinarily resident in England on the relevant date.
+
+#### 4A. Persons granted stateless leave and their family members[^key-015a30c05cd6bcda8fb045bab21833ed]
+
+(1)[^key-ca95a7c4ff38f139c5a9fc47ce788514] A person granted stateless leave, who is ordinarily resident in England on the relevant date.
+
+(2) A person—
+
+- (a) who—
+  - (i) is the spouse or civil partner of a person granted stateless leave; and
+  - (ii) on the leave application date, was the spouse or civil partner of a person granted stateless leave;
+- (b)[^key-d7655f4d41ad18b6e9e9005c23c3458a] who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (c) who is ordinarily resident in England on the relevant date.
+
+(3) A person—
+
+- (a) who—
+  - (i) is the child of a person granted stateless leave or the child of the spouse or civil partner of a person granted stateless leave; and
+  - (ii) on the leave application date, was the child of a person granted stateless leave or the child of a person who, on the leave application date, was the spouse or civil partner of a person granted stateless leave;
+- (b) was under 18 on the leave application date;
+- (c)[^key-74814b471f0b1e95e5c4c11fa1658202] who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (d) who is ordinarily resident in England on the relevant date.
+
+(4) In this paragraph, “leave application date” means the date on which the person granted stateless leave made an application to remain in the United Kingdom as a stateless person under the immigration rules [^key-4b570179e14eb980556c1e3be1becc04]....
+
+#### 4B. Persons granted section 67 leave[^key-a55ea476d8b3b87300b54058b8a77da8]
+
+A person granted section 67 leave, who is ordinarily resident in England on the relevant date.
+
+#### 4C. Persons granted indefinite leave to remain as a victim of domestic violence or domestic abuse[^key-2a37c3676838477bcc705bfba5bc57a2]
+
+A person granted indefinite leave to remain as a victim of domestic violence or domestic abuse, who is ordinarily resident in England on the relevant date.
+
+#### 4D. Persons granted Calais leave[^key-38f33956b8069a6295ebc6b06a694413]
+
+A person granted Calais leave, who is ordinarily resident in England on the relevant date.
+
+#### 4E. Persons granted indefinite leave to remain as a bereaved partner[^key-2e022a44af523336622f0545488c5e4e]
+
+A person granted indefinite leave to remain as a bereaved partner, who is ordinarily resident in England on the relevant date.
+
+#### 5. Persons granted humanitarian protection and their family members[^key-72c5ab46fcb7672052c3190e70ee87ab]
+
+(1) A person granted humanitarian protection, who is ordinarily resident in England on the relevant date.[^key-5536b868eca9deac87b47706be82cda5]
+
+(2) A person—
+
+- (a) who is the spouse or civil partner of a person granted humanitarian protection;
+- (b) who was the spouse or civil partner of the person granted humanitarian protection on the date on which that person applied for asylum (the “asylum application date”);
+- (c)[^key-72651194f5a88cae9217c2c64d1cebd3] who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (d) who is ordinarily resident in England on the relevant date.
+
+(3) A person—
+
+- (a) who is the child of a person granted humanitarian protection or the child of the spouse or civil partner of a person granted humanitarian protection;
+- (b) who, on the asylum application date, was the child of that person or the child of a person who was the spouse or civil partner of the person granted humanitarian protection on that date;
+- (c) who was under 18 on the asylum application date;
+- (d)[^key-c079215c5b533be34d3a7b7d2a792765] who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (e) who is ordinarily resident in England on the relevant date.
+
+#### 5A. Persons granted leave under one of the Afghan Schemes and their family members[^key-61163445ba081fb1c9f5ffa48ae90574]
+
+(1) A person granted leave under one of the Afghan Schemes, who is ordinarily resident in England on the relevant date.
+
+(2) A person who—
+
+- (a) is the spouse or the civil partner of a person granted leave under one of the Afghan Schemes;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in England on the relevant date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave under one of the Afghan Schemes; or
+  - (ii) the child of the spouse or civil partner of a person granted leave under one of the Afghan Schemes;
+- (b) on the leave application date, was—
+  - (i) the child of the person granted leave under one of the Afghan Schemes; or
+  - (ii) the child of a person who was the spouse or civil partner of a person granted leave under one of the Afghan Schemes on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in England on the relevant date.
+
+(4) In this paragraph “**leave application date**” means the date on which the person granted leave under one of the Afghan Schemes made an application for leave to enter or remain in the United Kingdom.
+
+#### 5B. Evacuated or assisted British nationals from Afghanistan[^key-a610e7487644914339229dbe86f8296d]
+
+An evacuated or assisted British national from Afghanistan who is ordinarily resident in England on the relevant date.
+
+#### 5C. Persons granted leave under one of the Ukraine Schemes and their family members[^key-ec27f15478b50b8a366b50680bbe8f35]
+
+(1) A person granted leave under one of the Ukraine Schemes, who is ordinarily resident in England on the relevant date.
+
+(2) A person who—
+
+- (a) is the spouse or the civil partner of a person granted leave under one of the Ukraine Schemes;
+- (b) on the leave application date, was the spouse or civil partner of that person;
+- (c) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being granted leave to enter or remain in the United Kingdom; and
+- (d) is ordinarily resident in England on the relevant date.
+
+(3) A person who—
+
+- (a) is—
+  - (i) the child of a person granted leave under one of the Ukraine Schemes; or
+  - (ii) the child of the spouse or civil partner of a person granted leave under one of the Ukraine Schemes;
+- (b) on the leave application date, was—
+  - (i) the child of the person granted leave under one of the Ukraine Schemes; or
+  - (ii) the child of a person who was the spouse or civil partner of a person granted leave under one of the Ukraine Schemes on that date;
+- (c) was under 18 on the leave application date;
+- (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
+- (e) is ordinarily resident in England on the relevant date.
+
+(4) In this paragraph “**leave application date**” means the date on which the person granted leave under one of the Ukraine Schemes made an application for leave to enter or remain in the United Kingdom.
+
+#### 6. Workers, employed persons, self-employed persons and their family members
+
+(1) A person who—
+
+- (a) on the relevant date, is—
+  - (i) an EEA migrant worker or an EEA self-employed person;
+  - (ii) a Swiss employed person or a Swiss self-employed person;
+  - (iii) a family member of a person mentioned in paragraph (i) or (ii);
+  - (iv) an EEA frontier worker or an EEA frontier self-employed person;
+  - (v) a Swiss frontier employed person or a Swiss frontier self-employed person; or
+  - (vi) a family member of a person in (iv) or (v);
+- (b) subject to sub-paragraph (2), is ordinarily resident in England on the relevant date; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-6a857b83c9e48a34767179527410357c] the European Economic Area and Switzerland throughout the three-year period preceding the relevant date.
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
+
+**6A.**[^key-0e24bf00f8ce7893af95e590fd57fd71] (1) A person with protected rights, or a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020, who—
+
+- (a) on the relevant date, is—
+  - (i) an EEA migrant worker or an EEA self-employed person;
+  - (ii) a Swiss employed person or a Swiss self-employed person;
+  - (iii) a family member of a person mentioned in sub-paragraph (i) or (ii);
+  - (iv) an EEA frontier worker or an EEA frontier self-employed person;
+  - (v) a Swiss frontier employed person or a Swiss frontier self-employed person; or
+  - (vi) a family member of a person mentioned in sub-paragraph (iv) or (v);
+- (b) subject to sub-paragraph (2), is ordinarily resident in England on the relevant date; and
+- (c)[^key-49d27dc2f706e0ad416b974cf6520b66] has been ordinarily resident throughout the three-year period preceding the relevant date either—
+  - (i) in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland; or
+  - (ii) in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories where at least part of that ordinary residence was in the overseas territories;
+
+(2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
+
+(3) In this paragraph, a description of a person in sub-paragraph(1)(a)(i) is to be read as if it includes a relevant person of Northern Ireland who would, if that person were an EEA national or solely an EEA national, be an EEA migrant worker or an EEA self-employed person.
+
+**7.** (1)[^key-a101bcb17e10c1b6da04ff4f88a19475] A person who—
+
+- (a) is ordinarily resident in England on the relevant date;
+- (b) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-7579121c5bf56937fc326e903ae14a87] the European Economic Area and Switzerland throughout the three-year period preceding the relevant date; and
+- (c) is entitled to support by virtue of article 12 of Council Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/eur/1968/1612) on the freedom of movement of workers [^c20153961], as extended by the EEA Agreement.
+
+(2)[^key-a71405b6ec0d0fabb5460aea374558f1] Any description of person who would have been eligible under this paragraph immediately before IP completion day is to be eligible on and after IP completion day.
+
+**7A.**[^key-9023325315b6a658338700005434989a] (1) A person with protected rights who—
+
+- (a) is ordinarily resident in England on the relevant date;
+- (b)[^key-22295331c868f1eb573b63da6d11d1f0] has been ordinarily resident throughout the three-year period preceding the relevant date either—
+  - (i) in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland; or
+  - (ii) in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories where at least part of that ordinary residence was in the overseas territories;
+- (c) is entitled to support by virtue of Article 10 of Regulation (EU) No. 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union (“the Workers Regulation”), as it had effect immediately before IP completion day, as extended by the EEA Agreement, as it had effect immediately before IP completion day.
+
+(2) For the purposes of sub-paragraph (1)(c), in Article 10 of the Workers Regulation—
+
+- (a) the reference to a “national of a Member State” is to be read as including a relevant person of Northern Ireland; and
+- (b) the reference to “another Member State” is to be read as including the United Kingdom, and the references to “that State” construed accordingly.
+
+#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere
+
+(1) A person who—
+
+- (a) is settled in the United Kingdom;
+- (b) was ordinarily resident in England and settled in the United Kingdom immediately before leaving the United Kingdom and who has exercised a right of residence before IP completion day[^key-dedc18a940b5a00bb106e3db328a59fb];
+- (c) is ordinarily resident in England on the relevant date;
+- (d) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-0fc40b6d0e5435ac5720111c31a5d00e] the European Economic Area and Switzerland throughout the three-year period preceding the relevant date; and
+- (e) in a case where the person's ordinary residence referred to in paragraph (d) was wholly or mainly for the purposes of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-19c74976b198e97a0ea9d4ff7e1a0cfe] the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (d).
+
+(2) For the purposes of this paragraph, a person (“A”) has exercised a right of residence if A is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who had the right[^key-aa22d62be2378d587dded8f5c629a899] of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and had the right of permanent residence, if A has gone[^key-295e208147a83e4458c03b52cbbfa86d] to the state within the territory comprising the European Economic Area and Switzerland of which A is a national or of which the person in relation to whom A is a family member is a national.
+
+(3)[^key-2c1ead9438f3180d69602c06c7924fe2] For the purposes of sub-paragraph (2), a person had the right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
+
+**8A.**[^key-79af26e96f2588b0a7921f68afa06a3a] (1) A person who—
+
+- (a) is settled in the United Kingdom;
+- (b) was ordinarily resident in England and settled in the United Kingdom immediately before leaving the United Kingdom and who has exercised a right of residence before IP completion day;
+- (c) was ordinarily resident immediately before IP completion day—
+  - (i) in the territory comprising Gibraltar, the European Economic Area and Switzerland; or
+  - (ii) in the United Kingdom, where that ordinary residence began after 31st December 2017 immediately following a period of ordinary residence in the territory comprising Gibraltar, the European Economic Area and Switzerland,
+
+  and has remained ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the period beginning on IP completion day and ending immediately before the relevant date;
+- (d) is ordinarily resident in England on the relevant date;
+- (e) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the relevant date; and
+- (f) in a case where the person’s ordinary residence referred to in paragraph (e) was wholly or mainly for the purposes of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (e).
+
+(2) For the purposes of this paragraph, a person has exercised a right of residence if that person is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who had the right of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and had the right of permanent residence, if the person has gone to the state within the territory comprising the European Economic Area and Switzerland of which the person is a national or of which the person in relation to whom the person is a family member is a national.
+
+(3) For the purposes of sub-paragraph (2), a person had the right of permanent residence if they had a right which arose under Directive 2004/38 to reside permanently in the United Kingdom without restriction.
+
+#### 9. EU nationals etc.[^key-0c19c598bd2a88d0029621c049fd4ad9]
+
+(1) A person who—
+
+- (a) on the relevant date, is either—
+  - (i) an EU national; or
+  - (ii) a family member of such a person;
+- (b) is ordinarily resident in England on the relevant date;
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-835499e81674a8e0af9f881a0fee2338] the European Economic Area and Switzerland throughout the three-year period preceding the relevant date; and
+- (d) subject of sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar,[^key-79e19a84c044281bb6b0ae2626495073] the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-e93bc0d275341e75f9c282e9281952b7] the European Economic Area and Switzerland in accordance with paragraph 1(7).
+
+(3)[^key-fff241e31be7c92eda799ad18e99c919] Any description of person who would have been eligible under this paragraph immediately before IP completion day is to be eligible on and after IP completion day.
+
+**9A.**[^key-0a56fda8a15329341c57fb93d2bb8e43] (1) A person with protected rights—
+
+- (a) who on the relevant date is —
+  - (i) an EU national;
+  - (ii) a family member of a person mentioned in sub-paragraph (i); or
+  - (iii) a family member of a relevant person of Northern Ireland;
+- (b) who is ordinarily resident in England on the relevant date;
+- (c) who has been ordinarily resident in the territory comprising the United Kingdom, [^key-7eabdc34fac90ba6141d1703188e41c5]... the European Economic Area , Switzerland and the overseas territories[^key-bca5c4ae21ee2fc488d28c834da86626] throughout the three-year period preceding the relevant date; and
+- (d) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, [^key-3870b47e7edd207d0ee1e30b1f10e07f]... the European Economic Area , Switzerland and the overseas territories[^key-4f745fb3f88a2fb29684277480b0fa51] has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, [^key-4d00c23ef9bfe62fd5aa844cfcb20a9f]... the European Economic Area , Switzerland and the overseas territories[^key-61b31bda5952a331ee10905cb22c9edd] in accordance with paragraph 1(7).
+
+#### 9B. United Kingdom nationals
+
+(1) A person—
+
+- (a) who on the relevant date is—
+  - (i) a United Kingdom national; or
+  - (ii) a family member of a person mentioned in sub-paragraph (i);
+- (b) who was ordinarily resident immediately before IP completion day—
+  - (i) in the territory comprising the European Economic Area and Switzerland; or
+  - (ii) in the United Kingdom, where that ordinary residence began after 31st December 2017 immediately following a period of ordinary residence in the territory comprising the European Economic Area and Switzerland,
+
+  and has remained ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the period beginning on IP completion day and ending immediately before the relevant date;
+- (c) who is ordinarily resident in England on the relevant date;
+- (d) who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the relevant date; and
+- (e) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (d) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland in accordance with paragraph 1(7).
+
+(3) Where a person (“P”) falls within sub-paragraph (1)(a)(ii), the person in relation to whom P is a family member must also meet the requirements of sub-paragraph (1)(b) and (d).
+
+**9BA.**[^key-1fb29ee7f621a395c5180840d0678c03] (1) A person—
+
+- (a) who on the relevant date is an Irish citizen;
+- (b) who was ordinarily resident immediately before IP completion day—
+  - (i) in the territory comprising the European Economic Area and Switzerland, or
+  - (ii) in the United Kingdom, where that ordinary residence began after 31st December 2017 immediately following a period of ordinary residence in the territory comprising the European Economic Area and Switzerland,
+
+  and has remained ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the period beginning on IP completion day and ending immediately before the relevant date;
+- (c) who is ordinarily resident in England on the relevant date;
+- (d) who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the relevant date; and
+- (e) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (d) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland in accordance with paragraph 1(7).
+
+**9BB.**[^key-73d2890a9bb72395d0a09df8b23946c2] (1) A person—
+
+- (a) who is settled in the United Kingdom on the relevant date;
+- (b) who is ordinarily resident in England on the relevant date;
+- (c) who has been ordinarily resident in the specified British overseas territories for at least part of the three-year period preceding the relevant date;
+- (d) who has been ordinarily resident in the territory comprising the United Kingdom, the Islands and the specified British overseas territories throughout the three-year period preceding the relevant date; and
+- (e) subject to sub-paragraph (2), whose ordinary residence in the territory comprising the United Kingdom, the Islands and the specified British overseas territories has not during any part of the period referred to in paragraph (d) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (e) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, the Islands and the specified British overseas territories in accordance with paragraph 1(7).
+
+**9C.** (1) A person—
+
+- (a) who on the relevant date is a family member of a person who is settled in the United Kingdom[^M_F_e0b948bd-73ae-475a-979d-2c400e4c77d4];
+- (b) who is ordinarily resident in England on the relevant date;
+- (c) who has been ordinarily resident in the United Kingdom and Islands throughout the three year period preceding the relevant date; and
+- (d) subject to sub-paragraph (2), whose ordinary residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(7).
+
+#### 9D. Persons resident in Gibraltar[^key-bed538e461b1a80ff7fbd0b772630921]
+
+(1) A person—
+
+- (a) who on the relevant date is—
+  - (i) a United Kingdom national who has resident status in Gibraltar granted by the Government of Gibraltar;
+  - (ii) a family member of a United Kingdom national where that family member has resident status in Gibraltar granted by the Government of Gibraltar;
+- (b) who is ordinarily resident in England on the relevant date;
+- (c) who has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland throughout the three-year period preceding the relevant date; and
+- (d) subject to sub-paragraph (3), whose ordinary residence in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) A person—
+
+- (a) who on the relevant date is—
+  - (i) an EU national who has a right of residence in Gibraltar arising under the EU withdrawal agreement; or
+  - (ii) a family member of an EU national, where that family member has a right of residence in Gibraltar arising under the EU withdrawal agreement;
+- (b) who is ordinarily resident in England on the relevant date;
+- (c) who has been ordinarily resident in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the relevant date; and
+- (d) subject to sub-paragraph (3), whose ordinary residence in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(3) Paragraph (d) of sub-paragraphs (1) and (2) does not apply to a person treated as being ordinarily resident in the territory referred to in paragraph (c) of those sub-paragraphs in accordance with paragraph 1(7).
+
+#### 10. EU nationals ordinarily resident in the United Kingdom and Islands[^key-9857ee17cb62c742c1e5a2cf14caf216]
+
+(1) A person who—
+
+- (a) on the relevant date, is an EU national [^key-8e3be876ba0ec7a0c37f286d6e028c8c]...;
+- (b) is ordinarily resident in England on the relevant date;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period immediately preceding the relevant date; and
+- (d) in a case whose ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-c52d5b5b146c26fc2df1bbc753ede1a7] the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
+
+**10ZA.**[^key-7c04cf4631cd7e4ef46c14cf904b6ad3] A person with protected rights who—
+
+- (a) on the relevant date is an EU national;
+- (b) is ordinarily resident in England on the relevant date;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period immediately preceding the relevant date; and
+- (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, [^key-3433977a552567a3ddc6fbf37d011963]... the European Economic Area Switzerland and the overseas territories[^key-8d61797a6fb87ea4f8c225978c644276] immediately prior to the period of ordinary residence referred to in paragraph (c).
+
+**10A.**[^key-c6ba473939163a76edb9391205b5f4c2] A person who—
+
+- (a) is an EU national [^key-f625a39e05b551a29f0671f9a15ac305]... on the relevant date;
+- (b) is ordinarily resident in England on the relevant date;
+- (c) has been ordinarily resident in the United Kingdom and Islands throughout the five-year period immediately preceding the relevant date; and
+- (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-e22d25a948fe1efa91d78d75436d035e] the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in paragraph (c).
+
+(2) Where a state accedes to the EU after the relevant date and a person is a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EU national [^key-f625a39e05b551a29f0671f9a15ac305]... on the relevant date is treated as being satisfied.
+
+#### 11. Children of Swiss nationals
+
+A person who—
+
+(1)[^key-8510043b3d23a95f856a993b4dfe6412]
+
+- (a) on the relevant date, is the child of a Swiss national who is entitled to support from the Secretary of State by virtue of article 3(6) of Annex 1 to the Swiss Agreement;
+- (b) is ordinarily resident in England on the relevant date;
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-9362be2402a787dd66903698cf13f3b6] the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
+- (d) in a case whose ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-45d6c9eafbd72a0fd749153fe4494841] the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
+
+(2)[^key-b59b6f180b4fc7cb18928542a7a39345] Any description of person who would have been eligible under this paragraph immediately before IP completion day is to be eligible on and after IP completion day.
+
+**11A.**[^key-e2473f57c69101bcd7904ceeb2b83be9] A person with protected rights who—
+
+- (a) on the relevant date is the child of a Swiss national who is entitled to support in the United Kingdom by virtue of Article 18(2) of the Swiss citizens’ rights agreement;
+- (b) is ordinarily resident in England on the relevant date;
+- (c)[^key-2f08277a1bdac2e37cb2d5ce7bf75c05] has been ordinarily resident throughout the three-year period preceding the relevant date either—
+  - (i) in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland; or
+  - (ii) in the territory comprising the United Kingdom, the European Economic Area, Switzerland and the overseas territories where at least part of that ordinary residence was in the overseas territories;
+- (d) in a case where the person’s ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland immediately prior to the period of ordinary residence referred to in paragraph (c).
+
+#### 12. Children of Turkish workers
+
+A person who—
+
+- (a) on the relevant date, was the child of a Turkish worker;
+- (b) was ordinarily resident in England on the relevant date; and
+- (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar,[^key-c77b92f726ed87fcc0896f9e8af28151] the European Economic Area, Switzerland and Turkey throughout the three-year period preceding the first day of the first academic year of the course.
+
+**12A.**[^key-d5e479c5fcff51f1c8c66cf9a5ca205f] A person who—
+
+- (a) is the child of a Turkish worker (“T”), where T was ordinarily resident in the United Kingdom immediately before IP completion day;
+- (b) immediately before IP completion day—
+  - (i) was the child of T; and
+  - (ii) was ordinarily resident in the United Kingdom;
+- (c) is ordinarily resident in England on the relevant date; and
+- (d)[^key-dd28b3bac52edcba11d4b6dd3f797177] has been ordinarily resident throughout the three-year period preceding the relevant date either—
+  - (i) in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey; or
+  - (ii) in the territory comprising the United Kingdom, the European Economic Area, Switzerland, Turkey and the overseas territories where at least part of that ordinary residence was in the overseas territories.
+
+#### 13. Long Residence[^key-ee953313bafb7dd094a9939175b3621c]
+
+(1) A person—
+
+- (a) who on the relevant date either—
+  - (i) is under the age of 18 and has lived in the United Kingdom throughout the seven-year period preceding the relevant date; or
+  - (ii) is aged 18 years old or above and, preceding the relevant date, has lived in the United Kingdom throughout either—
+    - (aa) half their life; or
+    - (bb) a period of twenty years;
+- (b) who is ordinarily resident in England on the relevant date;
+- (c) who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the relevant date; and
+- (d) subject to sub-paragraph (2), whose residence in the United Kingdom and Islands has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
+
+(2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(7).
+
+## SCHEDULE 2 — STUDENT'S CONTRIBUTION
+
+Regulation 28
+
+### PART 1 — Interpretation
+
+**1.** (1) In this Schedule—
+
+- “**EEA State**” has the meaning given by paragraph 1 of Part 1 of Schedule 1;
+- “**financial year**” means the period of twelve months in respect of which the income of a person whose residual income is calculated under the provisions of Part 2 of this Schedule is computed for the purposes of the income tax legislation which applies to it;
+- “**household income**” has the meaning given in paragraph 2;
+- “**Member State**” has the meaning given by paragraph 1 of Part 1 of Schedule 1;
+- “**partner**” in relation to a student means any of the following—
+  - (i) the spouse of the student;
+  - (ii) the civil partner of the student;
+  - (iii) a person ordinarily living with the student (“A”) as if that person were A's spouse where A was aged 25 or over at the start of the academic year in respect of which A's contribution falls to be assessed;
+  - (iv) a person ordinarily living with the student (“A”) as if that person were A's civil partner where A was aged 25 or over at the start of the academic year in respect of which A's contribution falls to be assessed;
+- “**preceding financial year**” means the financial year immediately preceding the relevant year;
+- “**relevant year**” means the academic year in respect of which the household income falls to be assessed;
+- “**residual income**” means taxable income after the application of paragraph 3 (in the case of a student) and paragraph 4 (in the case of a student's partner) and income referred to in sub-paragraph (2) received net of income tax;
+- “**taxable income**” means, in relation to paragraph 3, in respect of the academic year for which support is sought and, in relation to paragraph 4, in respect (subject to sub-paragraphs (3) and (4) of paragraph 4) of the preceding financial year, a person's taxable income from all sources computed as for the purposes of—
+  - (a) the Income Tax Acts;
+  - (b) the income tax legislation of an EEA State[^key-d161db7a1c0371c7981d889380e914c5] or Switzerland which applies to a person's income;
+  - (c) where the legislation of—[^key-52aea028d2fbc5bc4f8d66c2b1f18eb9]
+    - (i) the United Kingdom and one or more EEA States;
+    - (ii) more than one EEA State;
+    - (iii) the United Kingdom and Switzerland;
+    - (iv) one or more EEA States and Switzerland; or
+    - (v) the United Kingdom, Switzerland and one or more EEA States
+
+  applies to the period, the legislation under which the Secretary of State considers the person will pay the largest amount of tax in that period.
+
+(2) The income referred to in this sub-paragraph is any benefits under a pension arrangement pursuant to an order made under section 23 of the Matrimonial Causes Act 1973 [^c20153971] which includes provision made by virtue of sections 25B(4) and 25E(2) of that Act or pension benefits under Part 1 of Schedule 5 to the Civil Partnerships Act 2004 [^c20153981] which includes provision made by virtue of Parts 6 and 7 of that Schedule.
+
+### PART 2 — Calculation of contribution
+
+#### 2. Household income
+
+(1) The amount of a student's contribution depends on the household income.
+
+(2) The household income is—
+
+- (a) in the case of a student who has a partner, the residual income of the student aggregated with the residual income of that student's partner; or
+- (b) in the case of a student who does not have a partner, the residual income of that student.
+
+(3) In determining the household income, an amount of £1,130 shall be deducted in the case of a student for each child wholly or mainly dependant on the student or the student's partner.
+
+#### 3. Calculation of the student's residual income
+
+(1) For the purpose of determining the residual income of a student (“A”), there shall be deducted from A's taxable income (unless already deducted in determining taxable income) the aggregate of any amounts falling within any of the following sub-paragraphs—
+
+- (a) any remuneration for work done during any academic year of A's course, provided that such remuneration shall not include any sums paid in respect of any period for which A has leave of absence or is relieved of A's normal duties for the purpose of attending that course;
+- (b) the gross amount of any premium or other sum paid by A in relation to a pension (not being a pension payable under a policy of life assurance) in respect of which relief is given under section 273, 619 or 639 of the Income and Corporation Taxes Act 1988 [^c20153991] or under section 188 of the Finance Act 2004 [^c20154001], or where A's income is computed for the purpose of the income tax legislation of a Member State[^key-cf7c7b7d5f9602e768f3268a72339b68], the gross amount of any such premium or sum in respect of which relief would be given if that legislation made provision equivalent to the Income Tax Acts.
+
+(2) Where the student receives income in a currency other than sterling, the value of that income for the purpose of this paragraph shall be—
+
+- (a) if the student purchases sterling with the income, the amount of sterling the student so receives; or
+- (b) otherwise, the value of the sterling the income would purchase using the rate for the month in which it is received published by the Office for National Statistics [^c20154011].
+
+#### 4. Calculation of the student's partner's residual income
+
+(1) Subject to sub-paragraphs (7), (8) and (9), for the purposes of determining the taxable income of a student's partner, any deductions which fall to be made or exemptions which are permitted—
+
+- (a) by way of personal reliefs provided for in Chapter 1 of Part VII of the Income and Corporation Taxes Act 1988, or where the income is computed for the purposes of the income tax legislation of an EEA State[^key-c6d61b49c767874e434d072f1ebb2322] or Switzerland, the gross amount of any such premium in respect of which relief would be given if that legislation made provision equivalent to the Income Tax Acts;
+- (b) pursuant to any enactment or rule of law under which payments which would otherwise under United Kingdom law form part of a person's income are not treated as such; or
+- (c) under sub-paragraph (2),
+
+shall not be made or permitted.
+
+(2) For the purpose of determining the residual income of a student's partner, there shall be deducted from the taxable income determined under sub-paragraph (1) the aggregated of any amounts falling within any of the following sub-paragraphs—
+
+- (a) the gross amount of any premium or other sum relating to a pension (not being a pension payable under a policy of life assurance) in respect of which relief is given under section 273, 619 or 639 of the Income and Corporation Taxes Act 1988 or under section 188 of the Finance Act 2004, or where the income is computed for the purpose of the income tax legislation of an EEA State[^key-2c003f8375b083a307d73734814962f5] or Switzerland, the gross amount of any such premium or sum in respect of which relief would be given if that legislation made provision equivalent to the Income Tax Acts;
+- (b) in any case where income is computed in accordance with sub-paragraph (5) any sums equivalent to the deduction mentioned in paragraph (a), provided that any sums so deducted shall not exceed the deductions which would be made if the whole of the student's partner's income were in fact income for the purposes of the Income Tax Acts; and
+- (c) in the case of a student's partner who holds a statutory award, £1,130.
+
+(3) Where the Secretary of State is satisfied that the residual income of the student's partner in the financial year beginning immediately before the relevant year (“current financial year”) is likely to be not more than 85 per cent. of the sterling value of the student's partner's residual income in the preceding financial year the Secretary of State may, for the purpose of enabling the student to attend the course without hardship, ascertain the student's partner's residual income for the current financial year.
+
+(4) Where the student's partner (“A”) satisfies the Secretary of State that A's income is wholly or mainly derived from the profits of a business or profession carried on by A, then any reference in this Part to a preceding financial year shall mean the earliest period of twelve months which ends after the start of the preceding financial year and in respect of which accounts are kept relating to that business or profession.
+
+(5) Where a student's partner (“A”) is in receipt of any income which does not form part of A's income for the purposes of the Income Tax Acts or the income tax legislation of an EEA State[^key-e96b190cb42791d60ba9677eb084bf54] or Switzerland by reason only that—
+
+- (a) A is not resident [^key-4ac30d7bf926c6989d0a9c80c1c8b7de]... [^key-0e8bb811c4bb2a5c973c7ec392fe1d37]... in the United Kingdom, or where A's income is computed as for the purposes of the income tax legislation of an EEA State or Switzerland, not so resident [^key-4ac30d7bf926c6989d0a9c80c1c8b7de]...or domiciled in that EEA State or Switzerland;
+- (b) the income does not arise in the United Kingdom, or where A's income is computed for the purposes of the income tax legislation of an EEA State or Switzerland, does not arise in that EEA State or Switzerland; or
+- (c) the income arises form an office, service or employment, income from which is exempt from tax in pursuance of any legislation,
+
+A's taxable income for the purpose of this Schedule shall be computed as though the income under this sub-paragraph were part of A's income for the purpose of the Income Tax Acts or the income tax legislation of an EEA State or Switzerland, as the case may be.
+
+(6) Where the income of the student's partner is computed as for the purposes of the income tax legislation of an EEA State[^key-5f9f0d43779c8ce2e91f660c3ea4c788] or Switzerland, it shall be computed under the provision of this Schedule in the currency of that EEA State or Switzerland and the income of the student's partner for the purposes of this Schedule shall be the sterling value of that income determined in accordance with the rate for the month in which the last day of the financial year in question falls, as published by the Office for National Statistics.
+
+(7) Where the Secretary of State determines that the student and the student's partner are separated for the duration of the relevant year, the partner's income is not taken into account in determining the household income.
+
+(8) Where the Secretary of State determines that the student and the student's partner have separated in the course of the relevant year, the partner's income is determined by reference to that person's income under sub-paragraph (1) divided by fifty-two and multiplied by the number of complete weeks in the relevant year for which the Secretary of State determines that the student and the student's partner are not separated.
+
+(9) Where a student has more than one partner in any one academic year, the provisions of this paragraph apply in relation to each.
+
+#### 5. Calculation of contribution
+
+(1) A student's contribution shall be calculated in accordance with this regulation.
+
+(2) In relation to a student who has a partner, the contribution shall—
+
+- (a) where the household income is £23,660 or more, be £45 with the addition of £1 for every complete £9.27 by which the household income exceeds £23,660; and
+- (b) in any case where the household income is less than £23,600, be nil.
+
+(3) In relation to a student who does not have a partner, the contribution shall—
+
+- (a) where the household income is £11,020 or more, be £45 with the addition of £1 for every complete £9.27 by which the household income exceeds £11,020; and
+- (b) where the household income is less than £11,020, be nil.
+
+(4) The amount of contribution shall not exceed £7,998 where the contribution is calculated under sub-paragraph (2) or (3).
+
+## SCHEDULE 3 — REVOCATION SCHEDULE
+
+Regulation 4
+
+| *(1)* | *(2)* | *(3)* |
+| --- | --- | --- |
+| Regulations revoked | References | Extent of revocation |
+| The Education (Student Support) (European Institutions) (No. 2) Regulations 2006 | S.I. 2006/3156 | The whole Regulations |
+| The Education (Student Support) (European Institutions) (Amendment) Regulations 2007 | S.I. 2007/3344 | The whole Regulations |
+| The Education (Student Support) (European Institutions) (Amendment) Regulations 2008 | S.I. 2008/1478 | The whole Regulations |
+| The Education (Student Support) (European Institutions) (Amendment) (No. 2) Regulations 2008 | S.I. 2008/3054 | The whole Regulations |
+| The Education (Student Support) (European Institutions) (Amendment) Regulations 2009 | S.I. 2009/1576 | The whole Regulations |
+
+*(This note is not part of the Order)*
+
+These Regulations provide support for eligible students taking designated higher education courses at the European University Institute in respect of an academic year beginning on or after 1st September 2010. These Regulations apply in relation to England only.
+
+Grants for living and other costs, a disabled students' allowance and a grant for dependants are available for up to twenty eligible students at the European University Institute.
+
+The Regulations set out the eligibility criteria for the grants, the application procedure and the method for calculating the amount of grant payable. The Regulations also set out the arrangements for payment of the grants and recovery of any overpayments.
+
+These Regulations revoke the Education (Student Support) (European Institutions) (No. 2) Regulations 2006 and amending regulations in relation to England. The extent of the revocation is set out in regulations 4 to 6 and under Schedule 3.
+
+An impact assessment has not been produced for this instrument as it has no impact on the costs of business, charities or voluntary bodies. The impact on the public sector is minimal.
+
+## Annotations
+
+[^c20153771]: Marginal citation: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); [section 22](https://www.legislation.gov.uk/uksi/2010/447/section/22) was amended by the [Learning and Skills Act 2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), [section 146](https://www.legislation.gov.uk/ukpga/2000/21/section/146) and Schedule 11; the [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6); the [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [section 147](https://www.legislation.gov.uk/ukpga/2003/14/section/147) and the [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [sections 42](https://www.legislation.gov.uk/ukpga/2004/8/section/42) and 43 and Schedule 7.
+
+[^c20153781]: Marginal citation: In relation to Wales, the functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 were transferred to the National Assembly for Wales under section 44 of the Higher Education Act 2004 except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22.
+
+[^key-7ae41f96b0d6ff24d66d04a6742288fa]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) renumbered as reg. 3(1) (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [37(a)](https://www.legislation.gov.uk/uksi/2021/127/regulation/37/a)
+
+[^key-4ca1a7af5f831d269245f8cb1fafd74d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [37(b)(i)](https://www.legislation.gov.uk/uksi/2021/127/regulation/37/b/i)
+
+[^key-db155cb51a73eedf4e7a8da7df09f51b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) omitted (with application in accordance with reg. 1(3)(e) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [28(1)(a)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/28/1/a)
+
+[^key-fba4e660ea937030849c803d197a50de]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) inserted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(a)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/a)
+
+[^key-f59c6e13a8112d437af5d04a441635fc]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/447/regulation/3) inserted (with application in accordance with reg. 1(3)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/48)](https://www.legislation.gov.uk/uksi/2020/48), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/48/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/48/regulation/2/2/a/i)
+
+[^key-3d5741bd75b60247438195b7239b33b7]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/447/regulation/3) inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/48)](https://www.legislation.gov.uk/uksi/2020/48), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/48/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/48/regulation/3/2/a)
+
+[^key-d316fc0d0043467d9d76ca4f6f692d42]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) omitted (16.2.2023) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(b)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/b)
+
+[^key-deee841a00542278bda454339a094020]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) substituted (23.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2021/1348/regulation/32)
+
+[^key-86f6cb842e037438555312472df2e507]: Textual amendment: Words in reg. 3 inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2011 (S.I. 2011/83)](https://www.legislation.gov.uk/uksi/2011/83), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/83/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2011/83/regulation/4/a)
+
+[^key-0afedfb7460cacc2aa2ca927a7e240aa]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) omitted (16.2.2023) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(c)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/c)
+
+[^key-c784bb784751b9ab952d8f353ca93d48]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/447/regulation/3) inserted (with application in accordance with reg. 1(4)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/12/2)
+
+[^key-0d05aba81b1289233d399e583656fd32]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) omitted (16.2.2023) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(d)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/d)
+
+[^key-0a6c84212572e4a0b150be0ec986fe29]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/447/regulation/3) inserted (with application in accordance with reg. 1(3)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/48)](https://www.legislation.gov.uk/uksi/2020/48), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/48/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/48/regulation/2/2/a/ii)
+
+[^key-36cf0fc7e5073e84203b4a0a718faf6f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) omitted (16.2.2023) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(e)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/e)
+
+[^key-edcce3515009b9a16f1a1d0fa6de8ded]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) inserted (with application in accordance with reg. 1(4)(c) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534)](https://www.legislation.gov.uk/uksi/2022/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/534/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2022/534/regulation/10/1)
+
+[^key-d0528c43366aa22aca9acc835946d220]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(f)(i)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/f/i)
+
+[^key-45bd6ac259f0991bf3a0487a80c11730]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(f)(ii)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/f/ii)
+
+[^key-c9b761b3f25414b338411924f42d2d8d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(g)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/g)
+
+[^key-27f27dc65de394619f0aceb7a2b46b5c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(h)(i)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/h/i)
+
+[^key-1ab0e5a2348f75df7973084021efb213]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(h)(ii)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/h/ii)
+
+[^key-4551f9c6272945a0811db0bbb8cf825e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/447/regulation/3) inserted (with application in accordance with reg. 1(2)(3)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [38(2)](https://www.legislation.gov.uk/uksi/2019/142/regulation/38/2)
+
+[^key-9f6781fbd813ba44bde27445c00369fe]: Textual amendment: Words in reg. 3 inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2018 (S.I. 2018/137)](https://www.legislation.gov.uk/uksi/2018/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/137/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2018/137/regulation/18/2)
+
+[^key-912393e56b87661f4ac0bd7a820cafec]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) omitted (16.2.2023) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [66(i)](https://www.legislation.gov.uk/uksi/2023/74/regulation/66/i)
+
+[^key-abba3e8ca61c10323a9938c2c0808377]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [37(b)(iii)](https://www.legislation.gov.uk/uksi/2021/127/regulation/37/b/iii)
+
+[^key-647a272b8f4c37dcae699f134023e887]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) renumbered (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2021/929/regulation/13/a)
+
+[^key-fd7639eb7aa252194df7a435e1e29cfb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) omitted (with application in accordance with reg. 1(3)(e) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [28(1)(b)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/28/1/b)
+
+[^key-590fdb08c959953b19253cde6d7e0298]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) inserted (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2021/929/regulation/13/b)
+
+[^key-6441af70d35e647b8a4bf885743478b6]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) inserted (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2021/929/regulation/13/c)
+
+[^key-a6f5aad323eda19f3c467fa150e683cf]: Textual amendment: Words in reg. 3 omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2011 (S.I. 2011/83)](https://www.legislation.gov.uk/uksi/2011/83), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/83/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2011/83/regulation/4/b)
+
+[^c20153811]: Marginal citation: Cmnd. 9171.
+
+[^c20153821]: Marginal citation: Cmnd. 3906 (out of print; photocopies are available free of charge, from the Student Finance Policy Division, Department for Business, Innovation and Skills, Mowden Hall, Staindrop Road, Darlington DL3 9BG).
+
+[^key-c7a4cb1e95f2c726db5a1ee3467931a4]: Textual amendment: Words in reg. 3 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2012/3059/regulation/3)
+
+[^key-bca4469cdfa5dd3e16a4e7efc8b7fdd2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [37(b)(iv)](https://www.legislation.gov.uk/uksi/2021/127/regulation/37/b/iv)
+
+[^c20153831]: Marginal citation: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); sections 1 to 4 and Schedule 1 were substituted by the provision set out in Schedule 5 to the [Education Act 1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20). Section 1(3)(d) was amended by the [Education (Grants and Awards) Act 1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11), [section 4](https://www.legislation.gov.uk/ukpga/1984/11/section/4). Section 4 was amended by the [Education Act 1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), [Schedule 2](https://www.legislation.gov.uk/ukpga/1994/30/schedule/2), [paragraph 2](https://www.legislation.gov.uk/ukpga/1994/30/paragraph/2). The entire Act was repealed by the [Teaching and Higher Education Act 1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), [section 44(2)](https://www.legislation.gov.uk/ukpga/1998/30/section/44/2) and Schedule 4, subject to the transitional provisions and savings set out in the [Teaching and Higher Education Act 1998 (Commencement No. 4 and Transitional Provisions) Order 1998 (S.I. 1998/3237)](https://www.legislation.gov.uk/uksi/1998/3237), [article 3](https://www.legislation.gov.uk/uksi/1998/3237/article/3).
+
+[^c20153841]: Marginal citation: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6); repealed by the [Teaching and Higher Education Act 1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), [Schedule 4](https://www.legislation.gov.uk/ukpga/1998/30/schedule/4).
+
+[^c20153851]: Marginal citation: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506); amended by [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274), [Article 43](https://www.legislation.gov.uk/nisi/1996/274/article/43) and Schedule 5 Part II, [S.I. 1996/1918 (N.I. 15)](https://www.legislation.gov.uk/nisi/1996/1918), [Article 3](https://www.legislation.gov.uk/nisi/1996/1918/article/3) and the Schedule and [S.I. 1998/258 (N.I. 1)](https://www.legislation.gov.uk/nisi/1998/258), [Articles 3 to 6](https://www.legislation.gov.uk/nisi/1998/258/article/3) and revoked, with savings, by SR (NI) 1998 No 306.
+
+[^c20153861]: Marginal citation: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^c20153871]: Marginal citation: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760), to which there have been amendments not relevant to these Regulations.
+
+[^key-aa6b264d7862975e6dd03a89847203dd]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/1) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [37(b)(v)](https://www.legislation.gov.uk/uksi/2021/127/regulation/37/b/v)
+
+[^key-ec82a5a4feb7bb515fe74c97838cbcde]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/447/regulation/3/2) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [37(c)](https://www.legislation.gov.uk/uksi/2021/127/regulation/37/c)
+
+[^key-6f3c032331f60eb4f09f0a502d108c89]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2010/447/regulation/8/3) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/4/a)
+
+[^key-cbfff42a81ff2746034a2806f60842fa]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2010/447/regulation/8/3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/4/b)
+
+[^key-1fc2ece2eac6d62657abebe60a121a22]: Textual amendment: Word in reg. 9(2) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [38(a)(i)](https://www.legislation.gov.uk/uksi/2021/127/regulation/38/a/i)
+
+[^key-9fa36bd414a5bc01eb2d630dc3eaf477]: Textual amendment: Reg. 9(2)(b)-(2B) substituted for reg. 9(2)(b) (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [38(a)(ii)](https://www.legislation.gov.uk/uksi/2021/127/regulation/38/a/ii)
+
+[^key-11f8f388157f0eee4f6efee9245304b7]: Textual amendment: Word in reg. 9(2)(b)(i) inserted (with application in accordance with reg. 1(3)(c) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [27(1)(a)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/27/1/a)
+
+[^key-c2fcf14dc62bd49ca82a33368c8f681a]: Textual amendment: Words in reg. 9(2)(b)(i) inserted (with application in accordance with reg. 1(3)(c) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534)](https://www.legislation.gov.uk/uksi/2022/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/534/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2022/534/regulation/9/1)
+
+[^key-632fb622cda358d3f55ab84089652740]: Textual amendment: Word in reg. 9(2)(b)(i) inserted (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [16(1)(a)](https://www.legislation.gov.uk/uksi/2021/929/regulation/16/1/a)
+
+[^key-c30546b34ef7e890689619eaf52486fe]: Textual amendment: Word in reg. 9(2)(b)(i) inserted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/1)
+
+[^key-7bf25d2b52c6012cd2761efc4ebf75cb]: Textual amendment: Words in reg. 9(2B) substituted (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [16(1)(b)](https://www.legislation.gov.uk/uksi/2021/929/regulation/16/1/b)
+
+[^key-72716d606d916265cbfe872098216f52]: Textual amendment: Words in reg. 9(9) substituted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [38(b)](https://www.legislation.gov.uk/uksi/2021/127/regulation/38/b)
+
+[^key-04862f38303f66d1525def28d6016bd4]: Textual amendment: Reg. 9(10)(b)(i)-(iii) substituted for words in reg. 9(10)(b) (with application in accordance with reg. 2(4)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2024/85/regulation/21/a)
+
+[^key-39cfd53020ec6d5b7697e3ba802c4940]: Textual amendment: Reg. 9(10A) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2018 (S.I. 2018/137)](https://www.legislation.gov.uk/uksi/2018/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/137/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2018/137/regulation/18/3)
+
+[^key-28d8994087c4877e81449cbbc2e5795d]: Textual amendment: Words in reg. 9(10A)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2024/85/regulation/21/b)
+
+[^key-4cba2ec1e447c5d9c8f39c8599301d4c]: Textual amendment: Reg. 9(10B) inserted (with application in accordance with reg. 1(2)(3)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [38(3)](https://www.legislation.gov.uk/uksi/2019/142/regulation/38/3)
+
+[^key-18070c65c536c9f8a0f646674005b172]: Textual amendment: Words in reg. 9(10B)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2024/85/regulation/21/b)
+
+[^key-f45069e25dfa2be01d8aac97c08703c9]: Textual amendment: Reg. 9(10C) inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/48)](https://www.legislation.gov.uk/uksi/2020/48), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/48/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/48/regulation/3/2/b)
+
+[^key-9fe49a73f8c0cd6bf2e5dbfc38276819]: Textual amendment: Words in reg. 9(10C)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [21(c)](https://www.legislation.gov.uk/uksi/2024/85/regulation/21/c)
+
+[^key-defe510c0cf8f1d0052ca52110caa8f1]: Textual amendment: Words in reg. 9(11)(a) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2011 (S.I. 2011/83)](https://www.legislation.gov.uk/uksi/2011/83), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/83/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2011/83/regulation/6/a)
+
+[^key-050d3a991a07fbc538f526e5bfc9fa1b]: Textual amendment: Words in reg. 9(11)(b) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2011 (S.I. 2011/83)](https://www.legislation.gov.uk/uksi/2011/83), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/83/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2011/83/regulation/6/a)
+
+[^key-a95d537cdc011b6e8af940c19a12d7a0]: Textual amendment: Reg. 9(11)(b)(i)-(iii) substituted for words in reg. 9(11)(b)(with application in accordance with reg. 2(4)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [21(d)](https://www.legislation.gov.uk/uksi/2024/85/regulation/21/d)
+
+[^key-a7923633f8b6746d8a2927eff1b68f2c]: Textual amendment: Reg. 9(11A)[(11B)](https://www.legislation.gov.uk/uksi/2010/447/regulation/9/11B) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [38(c)](https://www.legislation.gov.uk/uksi/2021/127/regulation/38/c)
+
+[^key-412b4d0ec9d5aaa290c50742677fc000]: Textual amendment: Words in reg. 9(11A)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [21(e)](https://www.legislation.gov.uk/uksi/2024/85/regulation/21/e)
+
+[^key-1da81760bee2af8bae471991e9ac8897]: Textual amendment: Words in reg. 9(11B)(a)(i) substituted (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2021/929/regulation/14)
+
+[^key-a766372dbaab35abd0e2c3ce8fdf2fc3]: Textual amendment: Word in reg. 9(11B)(a)(i) omitted (with application in accordance with reg. 1(3)(e) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [28(2)(a)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/28/2/a)
+
+[^key-3e22479755db7817f5b6c05758374e86]: Textual amendment: Words in reg. 9(11B)(a)(ii) omitted (with application in accordance with reg. 1(3)(e) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [28(2)(b)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/28/2/b)
+
+[^key-66d438eb91452753dba0c9ae85026341]: Textual amendment: Words in reg. 9(11B)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [21(f)](https://www.legislation.gov.uk/uksi/2024/85/regulation/21/f)
+
+[^key-10b0d341836d66ac044640e3986e9e5f]: Textual amendment: Reg. 9(11C) inserted (with application in accordance with reg. 1(3)(c) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [27(1)(b)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/27/1/b)
+
+[^key-57b3c7c15a0a11a552410a32d039f586]: Textual amendment: Words in reg. 9(11C)(a) substituted (15.2.2022) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2022 (S.I. 2022/57)](https://www.legislation.gov.uk/uksi/2022/57), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/18/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/3))
+
+[^key-0802d7e06145a1396e33fa2fb2c2de2b]: Textual amendment: Words in reg. 9(11C)(a) inserted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 70(a)](https://www.legislation.gov.uk/uksi/2023/74/regulation/70/a) (with [reg. 140](https://www.legislation.gov.uk/uksi/2023/74/regulation/140))
+
+[^key-763f665b31230264adbda2ba623caa2b]: Textual amendment: Words in reg. 9(11C)(a) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [133(a)](https://www.legislation.gov.uk/uksi/2023/74/regulation/133/a)
+
+[^key-5646f0a8efa95aba1113096a4817ff30]: Textual amendment: Words in reg. 9(11C)(b) substituted (15.2.2022) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2022 (S.I. 2022/57)](https://www.legislation.gov.uk/uksi/2022/57), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/18/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/3))
+
+[^key-4c09c84fb789a8a264cb3c8e6f65fb84]: Textual amendment: Words in reg. 9(11C)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [21(g)](https://www.legislation.gov.uk/uksi/2024/85/regulation/21/g)
+
+[^key-510b6d0ae4da69b70bf63d7390316d53]: Textual amendment: Reg. 9(11D) inserted (with application in accordance with reg. 1(4)(c) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534)](https://www.legislation.gov.uk/uksi/2022/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/534/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/534/regulation/10/2)
+
+[^key-7036817d5b04e9078574f1fb482f5a60]: Textual amendment: Words in reg. 9(11D)(a) inserted (with application in accordance with reg. 2(4)(5)(b) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 70(b)](https://www.legislation.gov.uk/uksi/2023/74/regulation/70/b)
+
+[^key-694003d355e41deb2c53f1e56ddf4e7a]: Textual amendment: Words in reg. 9(11D)(a) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [133(b)](https://www.legislation.gov.uk/uksi/2023/74/regulation/133/b)
+
+[^key-2e802043cdf7db2ffb79e99fcd5391e6]: Textual amendment: Words in reg. 9(11D)(b) inserted (with application in accordance with reg. 2(4)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [21(h)](https://www.legislation.gov.uk/uksi/2024/85/regulation/21/h)
+
+[^key-f9d6b9a7a7ee79bb1386c1e381a3a874]: Textual amendment: Words in reg. 9(15) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/5/a)
+
+[^key-a8dc9fb89a74fd7db29056bd7a38d7a5]: Textual amendment: Words in reg. 9(15) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/5/b)
+
+[^key-06860436696fcfee909610526fb3384d]: Textual amendment: Words in reg. 9(15) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/5/c)
+
+[^key-1023659588c4a7961d5fbdc46a74f05c]: Textual amendment: Words in reg. 10 substituted for full stop (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2012/3059/regulation/6)
+
+[^key-d9e5aef14e3c0ef59393ef36ca2a6648]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2010/447/regulation/11/1) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2012/3059/regulation/7)
+
+[^key-513be95085efd6092ad8e82860d9836d]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/uksi/2010/447/regulation/12/1A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2021/127/regulation/39)
+
+[^key-aa1dd1f6fe8ab54b2506b3fe21c23e58]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2010/447/regulation/14) substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/6/2/a)
+
+[^key-24637e601bf3ba4a4b440709ec42bbce]: Textual amendment: [Reg. 14(a)-(g)](https://www.legislation.gov.uk/uksi/2010/447/regulation/14/a/g) substituted for reg. 14(a)-(f) (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/6/2/b)
+
+[^key-2ed0eea55b5af63f26d4428e67fae0a8]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2010/447/regulation/14A) inserted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/6/3)
+
+[^key-52629dfe34108976d984de2d58311a03]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2010/447/regulation/17/2) substituted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2021/127/regulation/40)
+
+[^key-f7818db9635162f2e59d813330852b08]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2010/447/regulation/17/2) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(2)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/2)
+
+[^key-b893ef453d92cffb05e65e6f57c2aa20]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2010/447/regulation/19/2) substituted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [41](https://www.legislation.gov.uk/uksi/2021/127/regulation/41)
+
+[^key-da3a6435cb2944aa061226da14852b15]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2010/447/regulation/19/2) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(3)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/3)
+
+[^key-abe548c8238a6789ab10a8a533e437cc]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2010/447/regulation/22/3) substituted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [42](https://www.legislation.gov.uk/uksi/2021/127/regulation/42)
+
+[^key-0ed9e0e57bd2f1ff257025575fad920d]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2010/447/regulation/22/3) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(4)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/4)
+
+[^key-76bc7aaf95eb7a1f0fd992f32539c837]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2010/447/regulation/24/2) substituted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2021/127/regulation/43)
+
+[^key-95ec847c7544fb96bc460ac4463888ee]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2010/447/regulation/24/2) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(5)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/5)
+
+[^c20153881]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^c20153891]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^c20153901]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 23 was amended by the [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [section 49(3)](https://www.legislation.gov.uk/ukpga/2004/31/section/49/3).
+
+[^key-981715fa3dbd30399fa8a8dcb44c9f63]: Textual amendment: Words in reg. 27(2)(e) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 115](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/115)
+
+[^key-90a25d6de81907295d3ec59c81b93de1]: Textual amendment: Word in reg. 27(2) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2013/630/regulation/53)
+
+[^key-3ac56b3154ac257bede621fdd8dde7fa]: Textual amendment: Reg. 27(2)(h) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2013/630/regulation/53)
+
+[^key-8764e6e1a335f7794eb7c5a961b7a7ae]: Textual amendment: Words in reg. 27(2)(h)(i) omitted (3.4.2017) by virtue of [The Employment and Support Allowance and Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations 2017 (S.I. 2017/204)](https://www.legislation.gov.uk/uksi/2017/204), [reg. 1](https://www.legislation.gov.uk/uksi/2017/204/regulation/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2017/204/schedule/1/paragraph/16) (with [Sch. 2 paras. 8-15](https://www.legislation.gov.uk/uksi/2017/204/schedule/2/paragraph/8))
+
+[^c20153911]: Marginal citation: OJ L158, 30.04.2004, pp 77-123.
+
+[^c20153921]: Marginal citation: Cm. 2073.
+
+[^c20153931]: Marginal citation: Cm. 2183.
+
+[^key-18ac87ae524f44667c42382fda0c2ce2]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/2/a/i)
+
+[^key-2437789a7d5df18ad78a483c1c9293db]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) omitted (1.3.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/2/a/i)
+
+[^key-305f064bbeeea22a8b8a0eaa54518967]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) omitted (31.12.2020) by virtue of [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/2/a/iii)
+
+[^key-b2b7105e7b6df0fb7b6fa78ab2045766]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(3)(c) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534)](https://www.legislation.gov.uk/uksi/2022/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/534/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/534/regulation/9/2/a)
+
+[^key-c407b213b4c853426a12548408202e71]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/2/a/ii/aa)
+
+[^key-c33d2a44493935bce6ad72f9786a6e26]: Textual amendment: Words in Sch. 1 para. 1(1) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2011 (S.I. 2011/83)](https://www.legislation.gov.uk/uksi/2011/83), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/83/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2011/83/regulation/7/a)
+
+[^key-f9098beb1a5347122a0be444c3de8997]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/2/a/ii/bb)
+
+[^key-9e67e02e34bd02273f6c026590716b71]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(2)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/2/a/ii/cc)
+
+[^key-c0cfd17a8efc443821d8c8008e57aaf4]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/a/i)
+
+[^key-43d0f9686742da9f7ce53ac6c873867a]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (15.2.2022) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2022 (S.I. 2022/57)](https://www.legislation.gov.uk/uksi/2022/57), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1), [18(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/57/regulation/18/2/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/3))
+
+[^key-0250eb2412ab4d5f11b92f4afb5f727a]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (15.2.2024) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2024 (S.I. 2024/85)](https://www.legislation.gov.uk/uksi/2024/85), [regs. 1](https://www.legislation.gov.uk/uksi/2024/85/regulation/1), [22](https://www.legislation.gov.uk/uksi/2024/85/regulation/22)
+
+[^key-9ab2fb43bc2c75fdcbfbecb0265f9f17]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) omitted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 71(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/74/regulation/71/2/a/ii) (with [reg. 140](https://www.legislation.gov.uk/uksi/2023/74/regulation/140))
+
+[^key-72ca4c7d72017d4510b39c58a35869da]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/a/ii)
+
+[^key-974fe0d0185d4ed7902a07985e61e717]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) omitted (6.3.2025) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2025 (S.I. 2025/162)](https://www.legislation.gov.uk/uksi/2025/162), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/162/regulation/1/b), [14(a)](https://www.legislation.gov.uk/uksi/2025/162/regulation/14/a)
+
+[^key-d504b8acd3c824daacccdb14f6b42208]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (6.3.2025) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2025 (S.I. 2025/162)](https://www.legislation.gov.uk/uksi/2025/162), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/162/regulation/1/b), [14(b)](https://www.legislation.gov.uk/uksi/2025/162/regulation/14/b)
+
+[^key-fbfa3f7e90ec70f1dbf53d9e9ea19bb9]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) omitted (6.3.2025) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2025 (S.I. 2025/162)](https://www.legislation.gov.uk/uksi/2025/162), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/162/regulation/1/b), [14(c)](https://www.legislation.gov.uk/uksi/2025/162/regulation/14/c)
+
+[^key-6ebf8520a38af4887504481875d95c99]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [68(a)](https://www.legislation.gov.uk/uksi/2023/74/regulation/68/a)
+
+[^key-d2a9722170d397e9127f7b0fbf0fd81d]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(3)(c) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [27(2)(a)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/27/2/a)
+
+[^key-535334bb18f488fdf7083d7ea6067673]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (15.2.2022) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2022 (S.I. 2022/57)](https://www.legislation.gov.uk/uksi/2022/57), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1), [18(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/57/regulation/18/2/a/ii/aa) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/3))
+
+[^key-8d03a83d75d0d82939281aff688ebe27]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [67(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/74/regulation/67/2/b/i)
+
+[^key-cfd2a6992748acb3ed8be5a57ce531cc]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (15.2.2022) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2022 (S.I. 2022/57)](https://www.legislation.gov.uk/uksi/2022/57), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1), [18(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/57/regulation/18/2/a/ii/bb) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/3))
+
+[^key-3bbe0deda032c3a22907676e25bf30e5]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [67(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/74/regulation/67/2/b/ii)
+
+[^key-47fef9ff658e9cf24b96f6955fb7bae2]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [69(a)](https://www.legislation.gov.uk/uksi/2023/74/regulation/69/a)
+
+[^key-8ab8329cfba1b0b9a87357bc26aa4b91]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 71(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/74/regulation/71/2/b/i) (with [reg. 140](https://www.legislation.gov.uk/uksi/2023/74/regulation/140))
+
+[^key-8ac05f9d26152bc50b224f6d2f608fea]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 71(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/74/regulation/71/2/b/ii) (with [reg. 140](https://www.legislation.gov.uk/uksi/2023/74/regulation/140))
+
+[^key-9b66dc624b33c08dc4ffa80aba046846]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) omitted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 71(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/74/regulation/71/2/b/iii) (with [reg. 140](https://www.legislation.gov.uk/uksi/2023/74/regulation/140))
+
+[^c20153941]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); section 33(2A) was inserted by paragraph 7 of Schedule 4 to the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^key-975e5d020bcdcc9bcab5947c079b0416]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) inserted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/a/iii)
+
+[^key-40d2e6932bd1d59798d70c237b07f505]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (16.2.2023) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [68(b)](https://www.legislation.gov.uk/uksi/2023/74/regulation/68/b)
+
+[^c20153951]: Marginal citation: Cm. 4904.
+
+[^key-be6dc91b018439f46ed0a60a2132e9ad]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/1) substituted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/2/a/iii)
+
+[^key-5901d7338e41bd6586f5bd7a1f325e01]: Textual amendment: Words in [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/2/b) omitted (31.12.2020) by virtue of [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/2/b/i)
+
+[^key-9d1ab4d879ece1e8440b7134987a251a]: Textual amendment: Words in [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/3/b) omitted (31.12.2020) by virtue of [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/2/b/ii)
+
+[^key-5fff173ec7c9b243cc9a837f48f8b217]: Textual amendment: Words in [Sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/4/b) omitted (31.12.2020) by virtue of [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/2/b/iii)
+
+[^key-a5dd6481adc16e3882557f745096f0bb]: Textual amendment: Words in [Sch. 1 para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/5/b) omitted (31.12.2020) by virtue of [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/2/b/iii)
+
+[^key-9f9e0a2acd710c24c211668f8c4f4b18]: Textual amendment: [Sch. 1 para. 1(5A)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/5A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(2)(b)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/2/b)
+
+[^key-5a98fc16ac1f863958abe921fd45cc1f]: Textual amendment: Sch. 1 para. 1(6) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2011 (S.I. 2011/83)](https://www.legislation.gov.uk/uksi/2011/83), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/83/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2011/83/regulation/7/b)
+
+[^key-4af38eae89c0a66535f25006043f9ae4]: Textual amendment: Words in Sch. 1 para. 1(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/8/a)
+
+[^M_F_5282d5d0-be72-4863-ca98-ebbdc7a47850]: Textual amendment: Sch. 1 para. 1(6A) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2012 (S.I. 2012/3059)](https://www.legislation.gov.uk/uksi/2012/3059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/3059/regulation/8/a)
+
+[^key-14d21cab24ba06ff38d4f8fb527e4ad1]: Textual amendment: [Sch. 1 para. 1(7)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/7) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(b)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/b)
+
+[^key-de73d74e1bdaad1bfe9f2ab0ebb28441]: Textual amendment: [Sch. 1 para. 1(8)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/1/8) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(c)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/c)
+
+[^key-d6be45cfb23613d2acbe4e48f1cf0ad9]: Textual amendment: [Sch. 1 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/2/1/a) substituted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(3)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/3)
+
+[^key-fafeff80fa4131425aa3b254e7e8d97a]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/2A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(4)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/4)
+
+[^key-672345e873ded121197b64f985a65945]: Textual amendment: Words in [Sch. 1 para. 2A(1)(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/2A/1/c) substituted (23.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2021/1348/regulation/31)
+
+[^key-6400da56907d1ca69e6567c562a3a169]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/3/1) renumbered as Sch. 1 para. 3(1) (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(5)(a)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/5/a)
+
+[^key-e6c04ce715fe993f4c4724bab9a794ea]: Textual amendment: [Sch. 1 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/3/1/a) substituted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(5)(b)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/5/b)
+
+[^key-053d2f3610e7657b36d99c0b3aa5ec29]: Textual amendment: [Sch. 1 para. 3(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/3/1/a/iii) omitted (with application in accordance with reg. 1(3)(e) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [28(3)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/28/3)
+
+[^key-2436505ec206a9fedcd4dbcd2dd4a129]: Textual amendment: Words in [Sch. 1 para. 3(1)(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/3/1/a/iv/bb) inserted (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [15(a)(i)](https://www.legislation.gov.uk/uksi/2021/929/regulation/15/a/i)
+
+[^key-ac9518121a6fd776cec8b4b395c5c3ab]: Textual amendment: Words in [Sch. 1 para. 3(1)(a)(iv)(cc)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/3/1/a/iv/cc) inserted (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [15(a)(ii)](https://www.legislation.gov.uk/uksi/2021/929/regulation/15/a/ii)
+
+[^key-b5c28aabcef080191fc4e436a6780de6]: Textual amendment: Words in [Sch. 1 para. 3(1)(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/3/1/d) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(d)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/d)
+
+[^key-b0368d89724dfa73ede66fb19db95d96]: Textual amendment: [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/3/2) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(5)(c)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/5/c)
+
+[^key-02b2fed84d730ee8022b596dc86ae994]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/3/2) omitted (16.2.2023) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [67(3)(a)](https://www.legislation.gov.uk/uksi/2023/74/regulation/67/3/a)
+
+[^key-54ac857abc2fc328058b518209a1ac82]: Textual amendment: [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/3/3) inserted (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [15(a)(iii)](https://www.legislation.gov.uk/uksi/2021/929/regulation/15/a/iii)
+
+[^key-015a30c05cd6bcda8fb045bab21833ed]: Textual amendment: Sch. 1 para. 4A inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2018 (S.I. 2018/137)](https://www.legislation.gov.uk/uksi/2018/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/137/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2018/137/regulation/18/4)
+
+[^key-ca95a7c4ff38f139c5a9fc47ce788514]: Textual amendment: [Sch. 1 para. 4A(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4A/1) substituted (with application in accordance with reg. 1(3)(a)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/19/2/a)
+
+[^key-d7655f4d41ad18b6e9e9005c23c3458a]: Textual amendment: [Sch. 1 para. 4A(2)(b)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4A/2/b)[(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4A/2/c) substituted (with application in accordance with reg. 1(3)(a)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/19/2/b)
+
+[^key-74814b471f0b1e95e5c4c11fa1658202]: Textual amendment: [Sch. 1 para. 4A(3)(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4A/3/c)[(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4A/3/d) substituted (with application in accordance with reg. 1(3)(a)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [19(2)(c)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/19/2/c)
+
+[^key-4b570179e14eb980556c1e3be1becc04]: Textual amendment: Words in [Sch. 1 para. 4A(4)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4A/4) omitted (16.2.2023) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [67(3)(b)](https://www.legislation.gov.uk/uksi/2023/74/regulation/67/3/b)
+
+[^key-a55ea476d8b3b87300b54058b8a77da8]: Textual amendment: [Sch. 1 para. 4B](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4B) substituted (with application in accordance with reg. 1(3)(a)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/19/3)
+
+[^key-2a37c3676838477bcc705bfba5bc57a2]: Textual amendment: [Sch. 1 para. 4C](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4C) inserted (with application in accordance with reg. 1(3)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/48)](https://www.legislation.gov.uk/uksi/2020/48), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/48/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/48/regulation/2/2/b)
+
+[^key-38f33956b8069a6295ebc6b06a694413]: Textual amendment: [Sch. 1 para. 4D](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4D) substituted (with application in accordance with reg. 1(3)(a)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [19(4)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/19/4)
+
+[^key-2e022a44af523336622f0545488c5e4e]: Textual amendment: [Sch. 1 para. 4E](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/4E) inserted (with application in accordance with reg. 1(4)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/12/3)
+
+[^key-72c5ab46fcb7672052c3190e70ee87ab]: Textual amendment: Sch. 1 para. 5 substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Support) (European University Institute) Regulations 2010 (Amendment) Regulations 2011 (S.I. 2011/83)](https://www.legislation.gov.uk/uksi/2011/83), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/83/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2011/83/regulation/7/c)
+
+[^key-5536b868eca9deac87b47706be82cda5]: Textual amendment: [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/5/1) substituted (with application in accordance with reg. 1(3)(a)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [19(5)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/19/5/a)
+
+[^key-72651194f5a88cae9217c2c64d1cebd3]: Textual amendment: [Sch. 1 para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/5/2/c)[(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/5/2/d) substituted (with application in accordance with reg. 1(3)(a)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [19(5)(b)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/19/5/b)
+
+[^key-c079215c5b533be34d3a7b7d2a792765]: Textual amendment: [Sch. 1 para. 5(3)(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/5/3/d)[(e)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/5/3/e) substituted (with application in accordance with reg. 1(3)(a)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [19(5)(c)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/19/5/c)
+
+[^key-61163445ba081fb1c9f5ffa48ae90574]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/5A) substituted (with application in accordance with reg. 2(6)(7)(9) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 71(3)(a)](https://www.legislation.gov.uk/uksi/2023/74/regulation/71/3/a) (with [reg. 140](https://www.legislation.gov.uk/uksi/2023/74/regulation/140))
+
+[^key-a610e7487644914339229dbe86f8296d]: Textual amendment: [Sch. 1 para. 5B](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/5B) inserted (with application in accordance with reg. 1(3)(c) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/534)](https://www.legislation.gov.uk/uksi/2022/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/534/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2022/534/regulation/9/2/b)
+
+[^key-ec27f15478b50b8a366b50680bbe8f35]: Textual amendment: [Sch. 1 para. 5C](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/5C) substituted (with application in accordance with reg. 2(4)(5)(b) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 71(3)(b)](https://www.legislation.gov.uk/uksi/2023/74/regulation/71/3/b)
+
+[^key-6a857b83c9e48a34767179527410357c]: Textual amendment: Words in [Sch. 1 para. 6(1)(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/6/1/c) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(b)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/b)
+
+[^key-0e24bf00f8ce7893af95e590fd57fd71]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/6A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(6)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/6)
+
+[^key-49d27dc2f706e0ad416b974cf6520b66]: Textual amendment: [Sch. 1 para. 6A(1)(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/6A/1/c) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(e)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/e)
+
+[^key-a101bcb17e10c1b6da04ff4f88a19475]: Textual amendment: [Sch. 1 para. 7(a)-(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/7/1/a) renumbered as Sch. 1 para. 7(1)(a)-(c) (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/c/i)
+
+[^key-7579121c5bf56937fc326e903ae14a87]: Textual amendment: Words in [Sch. 1 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/7/1/b) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/c/ii)
+
+[^c20153961]: Marginal citation: OJ No L257, 19.10.1968, p2 (OJ/SE 1968 (II) P475).
+
+[^key-a71405b6ec0d0fabb5460aea374558f1]: Textual amendment: [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/7/2) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/c/iii)
+
+[^key-9023325315b6a658338700005434989a]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/7A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(7)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/7)
+
+[^key-22295331c868f1eb573b63da6d11d1f0]: Textual amendment: [Sch. 1 para. 7A(1)(b)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/7A/1/b) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(f)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/f)
+
+[^key-dedc18a940b5a00bb106e3db328a59fb]: Textual amendment: Words in [Sch. 1 para. 8(1)(b)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/8/1/b) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/d/i)
+
+[^key-0fc40b6d0e5435ac5720111c31a5d00e]: Textual amendment: Words in [Sch. 1 para. 8(1)(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/8/1/d) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/d/ii)
+
+[^key-19c74976b198e97a0ea9d4ff7e1a0cfe]: Textual amendment: Words in [Sch. 1 para. 8(1)(e)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/8/1/e) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/d/ii)
+
+[^key-aa22d62be2378d587dded8f5c629a899]: Textual amendment: Words in [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/8/2) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(d)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/d/iii/aa)
+
+[^key-295e208147a83e4458c03b52cbbfa86d]: Textual amendment: Words in [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/8/2) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(d)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/d/iii/bb)
+
+[^key-2c1ead9438f3180d69602c06c7924fe2]: Textual amendment: [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/8/3) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(d)(iv)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/d/iv)
+
+[^key-79af26e96f2588b0a7921f68afa06a3a]: Textual amendment: [Sch. 1 para. 8A](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/8A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(8)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/8)
+
+[^key-0c19c598bd2a88d0029621c049fd4ad9]: Textual amendment: Word in [Sch. 1 para. 9 heading](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(9)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/9)
+
+[^key-835499e81674a8e0af9f881a0fee2338]: Textual amendment: Words in [Sch. 1 para. 9(1)(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9/1/c) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/e/i)
+
+[^key-79e19a84c044281bb6b0ae2626495073]: Textual amendment: Words in [Sch. 1 para. 9(1)(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9/1/d) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/e/i)
+
+[^key-e93bc0d275341e75f9c282e9281952b7]: Textual amendment: Words in [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9/2) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/e/i)
+
+[^key-fff241e31be7c92eda799ad18e99c919]: Textual amendment: [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9/3) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/e/ii)
+
+[^key-0a56fda8a15329341c57fb93d2bb8e43]: Textual amendment: [Sch. 1 paras. 9A-9D](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(10)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/10)
+
+[^key-7eabdc34fac90ba6141d1703188e41c5]: Textual amendment: Word in [Sch. 1 para. 9A(1)(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9A/1/c) omitted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(g)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/g/i/aa)
+
+[^key-bca5c4ae21ee2fc488d28c834da86626]: Textual amendment: Words in [Sch. 1 para. 9A(1)(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9A/1/c) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(g)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/g/i/bb)
+
+[^key-3870b47e7edd207d0ee1e30b1f10e07f]: Textual amendment: Word in [Sch. 1 para. 9A(1)(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9A/1/d) omitted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/g/ii/aa)
+
+[^key-4f745fb3f88a2fb29684277480b0fa51]: Textual amendment: Words in [Sch. 1 para. 9A(1)(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9A/1/d) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/g/ii/bb)
+
+[^key-4d00c23ef9bfe62fd5aa844cfcb20a9f]: Textual amendment: Word in [Sch. 1 para. 9A(2)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9A/2) omitted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(g)(iii)(aa)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/g/iii/aa)
+
+[^key-61b31bda5952a331ee10905cb22c9edd]: Textual amendment: Words in [Sch. 1 para. 9A(2)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9A/2) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(g)(iii)(bb)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/g/iii/bb)
+
+[^key-1fb29ee7f621a395c5180840d0678c03]: Textual amendment: [Sch. 1 para. 9BA](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9BA) inserted (1.9.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/929)](https://www.legislation.gov.uk/uksi/2021/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/929/regulation/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2021/929/regulation/16/6)
+
+[^key-73d2890a9bb72395d0a09df8b23946c2]: Textual amendment: [Sch. 1 para. 9BB](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9BB) inserted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(h)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/h)
+
+[^M_F_e0b948bd-73ae-475a-979d-2c400e4c77d4]: Textual amendment: Words in Sch. 1 para. 9C(1)(a) substituted (with application in accordance with reg. 1(3)(f) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/i)
+
+[^key-bed538e461b1a80ff7fbd0b772630921]: Textual amendment: [Sch. 1 para. 9D](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/9D) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(i)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/i)
+
+[^key-9857ee17cb62c742c1e5a2cf14caf216]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/10) heading inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(11)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/11)
+
+[^key-8e3be876ba0ec7a0c37f286d6e028c8c]: Textual amendment: Words in [Sch. 1 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/10/1/a) omitted (31.12.2020) by virtue of [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(f)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/f/i)
+
+[^key-c52d5b5b146c26fc2df1bbc753ede1a7]: Textual amendment: Words in [Sch. 1 para. 10(1)(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/10/1/d) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/f/ii)
+
+[^key-7c04cf4631cd7e4ef46c14cf904b6ad3]: Textual amendment: [Sch. 1 para. 10ZA](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/10ZA) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(12)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/12)
+
+[^key-3433977a552567a3ddc6fbf37d011963]: Textual amendment: Word in [Sch. 1 para. 10ZA(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/10ZA/d) omitted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(j)(i)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/j/i)
+
+[^key-8d61797a6fb87ea4f8c225978c644276]: Textual amendment: Words in [Sch. 1 para. 10ZA(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/10ZA/d) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(j)(ii)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/j/ii)
+
+[^key-c6ba473939163a76edb9391205b5f4c2]: Textual amendment: Sch. 1 para. 10A inserted (with application in accordance with reg. 1(3)(b)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2017 (S.I. 2017/114)](https://www.legislation.gov.uk/uksi/2017/114), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/114/regulation/1/3), [37(a)](https://www.legislation.gov.uk/uksi/2017/114/regulation/37/a)
+
+[^key-f625a39e05b551a29f0671f9a15ac305]: Textual amendment: Words in [Sch. 1 para. 10A](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/10A) omitted (31.12.2020) by virtue of [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(g)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/g/i)
+
+[^key-e22d25a948fe1efa91d78d75436d035e]: Textual amendment: Words in [Sch. 1 para. 10A(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/10A/d) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/g/ii)
+
+[^key-8510043b3d23a95f856a993b4dfe6412]: Textual amendment: [Sch. 1 para. 11(a)-(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/11/1/a) renumbered as Sch. 1 para. 11(1)(a)-(d) (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(h)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/h/i)
+
+[^key-9362be2402a787dd66903698cf13f3b6]: Textual amendment: Words in [Sch. 1 para. 11(1)(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/11/1/d) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/h/ii)
+
+[^key-45d6c9eafbd72a0fd749153fe4494841]: Textual amendment: Words in [Sch. 1 para. 11(1)(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/11/1/c) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/h/ii)
+
+[^key-b59b6f180b4fc7cb18928542a7a39345]: Textual amendment: [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/11/2) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(h)(iii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/h/iii)
+
+[^key-e2473f57c69101bcd7904ceeb2b83be9]: Textual amendment: [Sch. 1 para. 11A](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/11A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(13)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/13)
+
+[^key-2f08277a1bdac2e37cb2d5ce7bf75c05]: Textual amendment: [Sch. 1 para. 11A(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/11A/c) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(k)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/k)
+
+[^key-c77b92f726ed87fcc0896f9e8af28151]: Textual amendment: Words in [Sch. 1 para. 12(c)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/12/c) inserted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [18(3)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/18/3/i)
+
+[^key-d5e479c5fcff51f1c8c66cf9a5ca205f]: Textual amendment: [Sch. 1 para. 12A](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/12A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [44(14)](https://www.legislation.gov.uk/uksi/2021/127/regulation/44/14)
+
+[^key-dd28b3bac52edcba11d4b6dd3f797177]: Textual amendment: [Sch. 1 para. 12A(d)](https://www.legislation.gov.uk/uksi/2010/447/schedule/1/paragraph/12A/d) substituted (with application in accordance with reg. 1(3)(d) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [29(6)(l)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/29/6/l)
+
+[^key-ee953313bafb7dd094a9939175b3621c]: Textual amendment: Sch. 1 para. 13 inserted (3.3.2017) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2017 (S.I. 2017/114)](https://www.legislation.gov.uk/uksi/2017/114), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/114/regulation/1/2), [37(b)](https://www.legislation.gov.uk/uksi/2017/114/regulation/37/b)
+
+[^key-d161db7a1c0371c7981d889380e914c5]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/2/paragraph/1/1) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [19(2)(a)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/19/2/a)
+
+[^key-52aea028d2fbc5bc4f8d66c2b1f18eb9]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2010/447/schedule/2/paragraph/1/1) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/19/2/b)
+
+[^c20153971]: Marginal citation: [1973 c.18](https://www.legislation.gov.uk/ukpga/1973/18); [section 23](https://www.legislation.gov.uk/uksi/2010/447/section/23) was amended by the [Administration of Justice Act 1982 (c.53)](https://www.legislation.gov.uk/ukpga/1982/53), [section 16](https://www.legislation.gov.uk/ukpga/1982/53/section/16). Section 25B was inserted by the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), [section 166(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/166/1) and was amended by the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), [Schedule 4](https://www.legislation.gov.uk/ukpga/1999/30/schedule/4). Section 25E was inserted by the [Pensions Act 2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35), [section 319(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/319/1), [Schedule 12](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12), [paragraph 3](https://www.legislation.gov.uk/ukpga/2004/35/paragraph/3).
+
+[^c20153981]: Marginal citation: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33); [paragraph 25](https://www.legislation.gov.uk/uksi/2010/447/paragraph/25) of Schedule 5 was modified by [S.I. 2006/1934](https://www.legislation.gov.uk/uksi/2006/1934).
+
+[^c20153991]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
+
+[^c20154001]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-cf7c7b7d5f9602e768f3268a72339b68]: Textual amendment: Words in [Sch. 2 para. 3(1)(b)](https://www.legislation.gov.uk/uksi/2010/447/schedule/2/paragraph/3/1/b) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [19(3)(a)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/19/3/a)
+
+[^c20154011]: Marginal citation: “Financial Statistics” (ISSN 0015-203X).
+
+[^key-c6d61b49c767874e434d072f1ebb2322]: Textual amendment: Words in [Sch. 2 para. 4(1)(a)](https://www.legislation.gov.uk/uksi/2010/447/schedule/2/paragraph/4/1/a) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [19(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/19/3/b/i)
+
+[^key-2c003f8375b083a307d73734814962f5]: Textual amendment: Words in [Sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2010/447/schedule/2/paragraph/4/2/a) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [19(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/19/3/b/ii)
+
+[^key-e96b190cb42791d60ba9677eb084bf54]: Textual amendment: Words in [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/uksi/2010/447/schedule/2/paragraph/4/5) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [19(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/19/3/b/iii)
+
+[^key-4ac30d7bf926c6989d0a9c80c1c8b7de]: Textual amendment: Words in Sch. 2 para. 4(5)(a) omitted (1.8.2013) by virtue of [The Education (Student Support and European University Institute) (Amendment) Regulations 2013 (S.I. 2013/1728)](https://www.legislation.gov.uk/uksi/2013/1728), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1728/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2013/1728/regulation/24)
+
+[^key-0e8bb811c4bb2a5c973c7ec392fe1d37]: Textual amendment: Words in [Sch. 2 para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2010/447/schedule/2/paragraph/4/5/a) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 26(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/26/2)
+
+[^key-5f9f0d43779c8ce2e91f660c3ea4c788]: Textual amendment: Words in [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/uksi/2010/447/schedule/2/paragraph/4/6) substituted (31.12.2020) by [The Education (Student Fees, Awards and Support) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1181)](https://www.legislation.gov.uk/uksi/2020/1181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/1/3), [19(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1181/regulation/19/3/b/iv)

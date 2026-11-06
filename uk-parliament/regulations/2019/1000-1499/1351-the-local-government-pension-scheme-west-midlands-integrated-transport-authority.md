@@ -1,0 +1,140 @@
+---
+title: The Local Government Pension Scheme (West Midlands Integrated Transport Authority Pension Fund and West Midlands Pension Fund Merger) Regulations 2019
+id: uksi/2019/1351
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-10-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2019/1351
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/1351/pdfs/uksiem_20191351_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1351/pdfs/uksi_20191351_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1351/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government Pension Scheme (West Midlands Integrated Transport Authority Pension Fund and West Midlands Pension Fund Merger) Regulations 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 1351
+
+Public Service Pensions, England And Wales
+
+The Local Government Pension Scheme (West Midlands Integrated Transport Authority Pension Fund and West Midlands Pension Fund Merger) Regulations 2019
+
+Made
+
+15th October 2019
+
+Laid before Parliament
+
+18th October 2019
+
+Coming into force
+
+8th November 2019
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 1, 2(1) and 3 of, and paragraph 3(a) of Schedule 2 and paragraph 11 of Schedule 3 to, the Public Service Pensions Act 2013[^f00001].
+
+In accordance with section 21 of that Act, the Secretary of State has consulted such persons, and the representatives of such persons, as appeared to the Secretary of State to be likely to be affected by these Regulations[^f00002].
+
+In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Local Government Pension Scheme (West Midlands Integrated Transport Authority Pension Fund and West Midlands Pension Fund Merger) Regulations 2019.
+
+(2) These Regulations come into force on 8th November 2019 but have effect from 1st April 2019.
+
+(3) In these Regulations—
+
+- (a) “the 2013 Regulations” means the Local Government Pension Scheme Regulations 2013[^f00003];
+
+- “Combined Authority” means the West Midlands Combined Authority[^f00004];
+- “the Earlier Regulations” has the meaning given by regulation 1(6) of the Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014[^f00005];
+- “the merger date” means 1st April 2019;
+- “Wolverhampton” means Wolverhampton City Council; and
+- (b) other expressions have the same meaning as in the 2013 Regulations.
+
+## 2. Modification and amendment of the 2013 Regulations
+
+(1) From the merger date, the 2013 Regulations apply in relation to the Combined Authority and to Wolverhampton with the following modifications—
+
+- (a) regulation 103 (changes of administering authority) does not apply in relation to the transfer of assets and liabilities described in regulation 3(1) of these Regulations; and
+- (b) the table in Part 2 of Schedule 3 (pension funds) applies as if for any person for whom the appropriate administering authority had been or would be the Combined Authority, the appropriate administering authority is Wolverhampton.
+
+(2) Paragraph 1(z) of Part 1 of Schedule 3 (pension funds) to the 2013 Regulations[^f00006] is omitted.
+
+## 3. Transfer of assets, liabilities and responsibilities
+
+(1) On the merger date all assets and liabilities of the West Midlands Integrated Transport Authority Pension Fund become the assets and liabilities of the pension fund maintained by Wolverhampton.
+
+(2) No later than 3 months after the date these Regulations come into force, the Combined Authority and Wolverhampton must publish a statement setting out the assets and liabilities of their respective pension funds immediately before the merger date.
+
+(3) On and after the merger date—
+
+- (a) any payment received by the Combined Authority relating to its function as an administering authority for the West Midlands Integrated Transport Authority Pension Fund before that date, must be paid into the pension fund maintained by Wolverhampton; and
+- (b) any payment due to be made by the Combined Authority relating to its function as an administering authority for the West Midlands Integrated Transport Authority Pension Fund which had not been made before that date, must be paid from the pension fund maintained by Wolverhampton.
+
+(4) Any question concerning the rights or liabilities of any person under the 2013 Regulations or the Earlier Regulations which was due to be decided by the Combined Authority but which was not decided before the merger date, must be decided by Wolverhampton.
+
+(5) Wolverhampton must be substituted for the Combined Authority in any instruments, contracts or legal proceedings which relate to any of the Combined Authority’s functions as an administering authority which were made or commenced before the merger date.
+
+(6) Any arrangements under regulation 17 of the 2013 Regulations (additional voluntary contributions) under a scheme administered by the Combined Authority in respect of the West Midlands Integrated Transport Authority Pension Fund continue to have effect as if they had been entered into under a scheme established by Wolverhampton.
+
+## 4. Admission agreement funds
+
+(1) Paragraph (2) applies where on or after the merger date an admission agreement fund for the admission bodies in the West Midlands Integrated Transport Authority Pension Fund is established under regulation 54 of the 2013 Regulations (admission agreement funds).
+
+(2) Where this paragraph applies—
+
+- (a) a separate admission agreement fund must be established in respect of each admission body;
+- (b) the administering authority must comply with any directions issued by the Secretary of State in relation to the establishment, administration, or closure of these admission agreement funds.
+
+We consent to the making of these Regulations
+
+Mike Freer
+
+Michelle Donelan
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+14th October 2019
+
+Signed by authority of the Secretary of State for Housing, Communities and Local Government
+
+Luke Hall
+
+Parlimentary Under Secretary of State
+
+Ministry of Housing, Communities and Local Government
+
+15th October 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the merger of the West Midlands Integrated Transport Authority Pension administered by the West Midlands Combined Authority and the West Midlands Pension Fund administered by Wolverhampton City Council (“Wolverhampton”). From 1st April 2019 the West Midlands Combined Authority is no longer required to maintain the West Midlands Integrated Transport Authority Pension Fund for the purposes of the Local Government Pension Scheme. All assets and liabilities relating to the West Midlands Integrated Transport Authority Pension Fund up to that date are transferred to Wolverhampton which becomes the appropriate administering authority for all members of the West Midlands Integrated Transport Authority Pension Fund. Regulation 4 makes further provision in relation to the establishment of new admission agreement funds for the admission bodies that previously participated in the West Midlands Integrated Transport Authority Pension Fund.
+
+No impact assessment has been produced for these Regulations because no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25). See section 28 of the Act which provides for regulations made under section 7 of the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11) to have effect as scheme regulations under section 3 of the Act.
+
+[^f00002]: Footnote: A statement of the persons whom the Secretary of State would normally expect to consult has been published and can be found at https://www.gov.uk/government/publications/local-government-pension-scheme-regulations-information-on-who-should-be-consulted/local-government-pension-scheme-regulations-information-on-persons-to-be-consulted.
+
+[^f00003]: Footnote: [2013/2356](https://www.legislation.gov.uk/uksi/2013/2356) as amended by [S.I. 2014/44](https://www.legislation.gov.uk/uksi/2014/44), [S.I. 2014/1146](https://www.legislation.gov.uk/uksi/2014/1146), [S.I. 2015/57](https://www.legislation.gov.uk/uksi/2015/57), [S.I. 2015/755](https://www.legislation.gov.uk/uksi/2015/755), [S.I. 2016/449](https://www.legislation.gov.uk/uksi/2016/449), [S.I. 2016/646](https://www.legislation.gov.uk/uksi/2016/646), [S.I. 2016/946](https://www.legislation.gov.uk/uksi/2016/946), [S.I. 2017/126](https://www.legislation.gov.uk/uksi/2017/126), [S.I. 2017/251](https://www.legislation.gov.uk/uksi/2017/251), [S.I. 2017/612](https://www.legislation.gov.uk/uksi/2017/612), [S.I. 2018/103](https://www.legislation.gov.uk/uksi/2018/103), [S.I. 2018/269](https://www.legislation.gov.uk/uksi/2018/269), [S.I. 2018/493](https://www.legislation.gov.uk/uksi/2018/493), [S.I. 2018/696](https://www.legislation.gov.uk/uksi/2018/696), [S.I. 2018/891](https://www.legislation.gov.uk/uksi/2018/891), [S.I. 2018/1133](https://www.legislation.gov.uk/uksi/2018/1133), [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149), [S.I. 2018/1366](https://www.legislation.gov.uk/uksi/2018/1366), [S.I. 2019/383](https://www.legislation.gov.uk/uksi/2019/383), and by [S.I. 2019/615](https://www.legislation.gov.uk/uksi/2019/615).
+
+[^f00004]: Footnote: The West Midlands Combined Authority was established by the West Midlands Combined Authority Order 2016, [S.I. 2016/653](https://www.legislation.gov.uk/uksi/2016/653).
+
+[^f00005]: Footnote: [S.I. 2014/525](https://www.legislation.gov.uk/uksi/2014/525).
+
+[^f00006]: Footnote: Paragraph 1(z) was inserted by article 15(2) of the West Midlands Combined Authority Order 2016 and amended by article 7(2) of the Local Government (Structural and Boundary Changes) (Supplementary Provision and Miscellaneous Amendments) Order 2019 ([S.I. 2019/615](https://www.legislation.gov.uk/uksi/2019/615)).

@@ -1,0 +1,272 @@
+---
+title: The Deregulation (Betting Licensing) Order 1997
+id: uksi/1997/947
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-03-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/947
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/947/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Deregulation (Betting Licensing) Order 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 947
+
+DEREGULATION
+
+The Deregulation (Betting Licensing) Order 1997
+
+Made
+
+16th March 1997
+
+Coming into force
+
+1st September 1997
+
+Whereas:
+
+- (a) the Secretary of State is of the opinion that certain provisions of the Betting, Gaming and Lotteries Act 1963[^f00001] and which are the subject of this Order impose burdens affecting persons in the carrying on of a trade, business, profession or otherwise and that by amending or repealing the provisions concerned and by making certain other provision it is possible to remove or reduce the burdens without removing any necessary protection;
+- (b) he has consulted such organisations as appear to him to be representative of interests substantially affected by his proposals and such other persons as he considers appropriate;
+- (c) it appears to the Secretary of State that it is appropriate, following that consultation, to proceed with the making of this Order;
+- (d) a document setting out the Secretary of State’s proposals has been laid before Parliament as required by section 3 of the Deregulation and Contracting Out Act 1994[^f00002] and the period for Parliamentary consideration under section 4 of that Act has expired;
+- (e) the Secretary of State has had regard to the representations made during that period;
+- (f) a draft of this Order has been laid before Parliament with a statement giving details of such representations and the changes to the Secretary of State’s proposals in the light of those representations; and
+- (g) a draft of this Order has been approved by resolution of each House of Parliament.
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred on him by section 1 of the Deregulation and Contracting Out Act 1994, hereby makes the following Order:
+
+## 1. Citation, commencement, interpretation and extent
+
+(1) This Order may be cited as the Deregulation (Betting Licensing) Order 1997 and shall come into force on 1st September 1997.
+
+(2) In this Order “the 1963 Act” means the Betting, Gaming and Lotteries Act 1963.
+
+(3) This Order does not extend to Northern Ireland.
+
+## 2. Conduct of licensed betting offices
+
+After section 10 of the 1963 Act there shall be inserted—
+
+> **10A. Cancellation of betting office licence**
+>
+> (1) Where the holder of a betting office licence is convicted under section 10(1) of this Act of an offence in respect of the betting office to which the licence relates, the court by or before whom he is convicted may, if the court thinks fit, order that the licence shall be forfeited and cancelled.
+>
+> (2) An order under subsection (1) of this section made by a court in England and Wales shall be deemed for the purposes of any appeal to be part of the sentence for the offence; and in the case of such an order, the licence to which the order relates shall not be forfeited or cancelled under it—
+>
+> - (a) until the end of the period within which notice of appeal against the conviction or sentence may be given; nor
+> - (b) if notice of appeal against the conviction or sentence is duly given within that period, until the determination or abandonment of that appeal.
+>
+> (3) Where an order under subsection (1) of this section is made by a court in Scotland, the holder of the licence to which the order relates may, without prejudice to any other form of appeal under any rule of law, appeal against the order in the same manner as against a conviction; and the licence to which the order relates shall not be forfeited or cancelled under it—
+>
+> - (a) until the end of the period of 14 days commencing with the date on which the order was made; nor
+> - (b) if an appeal against the order or the conviction which gave rise to it is made within that period, until the date when that appeal is determined or abandoned or deemed to have been abandoned.
+>
+> (4) Where a licence is forfeited and cancelled in pursuance of an order under subsection (1) of this section, the clerk of the court by whom the order was made shall, unless he is also clerk to the authority who last either granted or renewed the licence, send a copy of the order to the clerk to that authority.
+
+.
+
+## 3. Renewal of unopposed licences and permits
+
+(1) In Schedule 1 to the 1963 Act (bookmakers’ permits, betting agency permits and betting office licences), after paragraph 20 there shall be inserted—
+
+> **20A. Unopposed applications for renewal**
+>
+> (1) Where—
+>
+> - (a) an application for the renewal of a bookmaker’s permit, betting agency permit or betting office licence (other than an application to which paragraph 10(b) of this Schedule applies) has been made in accordance with paragraph 9 of this Schedule, and
+> - (b) immediately before the meeting of the appropriate authority at which the application would, apart from this paragraph, fall to be considered—
+>   - (i) the clerk to the authority has not received any objection to the renewal of the permit or licence, or
+>   - (ii) every such objection received by him has been withdrawn,
+>
+>   the clerk may act for the authority in relation to the determination of the application.
+>
+> (2) Sub-paragraph (1) of this paragraph shall not have effect to enable the clerk to the appropriate authority to act for the authority in—
+>
+> - (a) refusing the application, or
+> - (b) granting the application in circumstances where there is a discretion to refuse it.
+>
+> (3) The clerk to the appropriate authority may not act under sub-paragraph (1) of this paragraph in any case where to do so would be contrary to the authority’s directions.
+>
+> (4) The functions of the clerk to the appropriate authority under sub-paragraph (1) of this paragraph shall also be exercisable by such other officer of the appropriate authority as the clerk may designate for the purposes of this paragraph.
+
+.
+
+(2) In paragraph 8(b) of that Schedule (information about right to object to be contained in advertisement of arrangements for renewal), the words from “that” to the end shall become sub-paragraph (i) and after that sub-paragraph there shall be inserted
+
+> , and
+>
+> - (ii) where relevant, that there are circumstances in which an application for renewal may be dealt with under paragraph 20A of this Schedule by the clerk to the authority instead of at the meeting.
+
+.
+
+## 4. Notice of change of address to Levy Board
+
+(1) After paragraph 25 of Schedule 1 to the 1963 Act there shall be inserted—
+
+> **25A. Notification of change of relevant premises during currency of permit**
+>
+> If during the currency of a bookmaker’s permit there is any change in the address of the relevant premises, the holder of the permit shall as soon as reasonably practicable after the change occurs give notice in writing of the change of address to the Levy Board; and if the holder of the permit fails to comply with this paragraph he shall be liable on summary conviction to a fine not exceeding level 1 on the standard scale.
+
+.
+
+(2) In paragraph 35 of that Schedule (which makes provision about the service of documents under the Schedule by the clerk to an appropriate authority or by the clerk of the peace) the words from “by the clerk to” to “peace” are hereby repealed.
+
+## 5. Cancellation of betting office licences
+
+(1) After paragraph 28 of Schedule 1 to the 1963 Act there shall be inserted—
+
+> **28A. Cancellation of betting office licence by appropriate authority**
+>
+> (1) This paragraph applies where—
+>
+> - (a) a person makes an application to the clerk to the appropriate authority requesting that a betting office licence be forfeited and cancelled, and
+> - (b) the application is—
+>   - (i) made in the prescribed form and manner, and
+>   - (ii) accompanied by two copies of a statement of the grounds on which the application is made.
+>
+> (2) The clerk to the authority shall submit the application to any one member of the authority who shall consider whether it is necessary or expedient for the matters referred to in the statement to be given further consideration before the renewal of the licence falls to be considered.
+>
+> (3) If the conclusion under sub-paragraph (2) of this paragraph is that further consideration of those matters before then is not necessary or expedient, the member shall cause the applicant to be given notice in writing that the application is refused without prejudice to the raising of the same matters by way of objection in accordance with the provisions of this Schedule to a renewal of the licence.
+>
+> (4) If the conclusion under sub-paragraph (2) of this paragraph is that further consideration of those matters before then is necessary or expedient, the member shall refer the application to the appropriate authority.
+>
+> **28B.** (1) This paragraph applies where under paragraph 28A of this Schedule an application for the cancellation of a betting office licence is referred to the appropriate authority.
+>
+> (2) Unless the application is withdrawn, the clerk to the authority shall give not less than twenty-one days’ notice in writing of the date, time and place appointed for the consideration of the application by the authority to—
+>
+> - (a) the applicant,
+> - (b) the holder of the licence,
+> - (c) the appropriate officer of police, and
+> - (d) the Collector of Customs and Excise for the area in which the relevant premises are situated.
+>
+> (3) The clerk to the authority shall send with the notice under sub-paragraph (2)(b) of this paragraph a copy of the applicant’s statement of the grounds on which the application is made.
+>
+> (4) At any meeting of the authority to consider the application—
+>
+> - (a) the applicant and the holder of the licence shall be entitled to be heard either in person or by counsel or a solicitor,
+> - (b) where the applicant is not the appropriate officer of police, the authority shall also hear any representation made by him, or a person authorised by him, and
+> - (c) where the application is not the Commissioners of Customs and Excise, the authority shall also hear any representation made by them, or a person authorised by them.
+>
+> (5) The authority shall forfeit and cancel the licence if they are not satisfied—
+>
+> - (a) that the relevant premises are enclosed, and
+> - (b) that there are means of access between the relevant premises and a street otherwise than through other premises used for the effecting with persons resorting to those other premises of transactions other than betting transactions,
+>
+> but, apart from that, may only do so on the ground that the relevant premises fall within sub-paragraph (6) of this paragraph.
+>
+> (6) The relevant premises fall within this sub-paragraph if—
+>
+> - (a) having regard to their layout, character or condition, they are not suitable for use as a licensed betting office,
+> - (b) they have not been properly conducted under the licence, or
+> - (c) they have not been used as a licensed betting office in the period of twelve months ending with the date on which the application is made and the licence has been in force for at least twelve months.
+>
+> (7) The authority may from time to time adjourn consideration of the application.
+>
+> (8) On consideration of the application, the authority make take evidence on oath and may make such order as they think fit for the payment of costs or, in Scotland, expenses—
+>
+> - (a) by the applicant to the holder of the licence, or
+> - (b) by the holder of the licence to the applicant.
+>
+> (9) If the authority decide not to cancel the licence, they shall cause notice in writing to be given to the applicant that the application is refused without prejudice to the raising of the same matters by way of objection in accordance with the provisions of this Schedule to a renewal of the licence.
+>
+> (10) If the authority decide to forfeit and cancel the licence, the forfeiture and cancellation shall not take effect—
+>
+> - (a) until the end of the time within which notice of an appeal under paragraph 28C or, as the case may be, 28D of this Schedule may be given, or
+> - (b) if such notice is duly given, until the determination or abandonment of the appeal.
+>
+> (11) Where an order for the payment of costs is made under sub-paragraph (8) of this paragraph by an authority in England and Wales, the costs shall be recoverable summarily as a civil debt.
+>
+> **28C.** (1) Where on an application under paragraph 28A of this Schedule an appropriate authority in England and Wales decide to forfeit and cancel a betting office licence, they shall forthwith notify the holder of the licence of the decision, and within twenty-one days of being no notified, he may by notice to the clerk to the authority appeal against the refusal to the Crown Court.
+>
+> (2) As soon as practicable after receiving notice of appeal under sub-paragraph (1) of this paragraph, the clerk to the authority shall send the notice to the appropriate officer of the Crown Court together with a statement of—
+>
+> - (a) the decision from which the appeal is brought,
+> - (b) the name and last known residence or place of business of the appellant, and
+> - (c) the name and last known residence or place of business of the person whose application under paragraph 28A of this Schedule led to the decision appealed against.
+>
+> (3) On receipt of notice of appeal under sub-paragraph (2) of this paragraph, the appropriate officer of the Crown Court shall enter the appeal and give not less than seven days notice in writing of the date, time and place appointed for the hearing of the appeal to—
+>
+> - (a) the appellant,
+> - (b) the person mentioned in sub-paragraph (2)(c) of this paragraph,
+> - (c) the authority whose decision is appealed against, and
+> - (d) the appropriate officer of police.
+>
+> (4) The decision of the Crown Court on an appeal under this paragraph shall be final.
+>
+> **28D.** (1) Where on an application under paragraph 28A of this Schedule an appropriate authority in Scotland decide to forfeit and cancel a betting office licence, they shall forthwith notify the holder of the licence of the decision and he may appeal, within such time and in accordance with such rules as may be prescribed by the Court of Session by act of sederunt, to the sheriff having jurisdiction in the authority’s area.
+>
+> - (2) The decision of the sheriff on an appeal under this paragraph shall be final.
+
+.
+
+(2) In paragraph 2 of that Schedule (interpretation)—
+
+- (a) in the definition of “appropriate authority”, for “or renewal” there shall be substituted “, renewal or cancellation”, and
+- (b) in paragraph (b) of the definition of “relevant premises”, for “or renewal” there shall be substituted “, renewal or cancellation”.
+
+## 6. Extension of duration of bookmakers’ permits, betting agency permits and betting office licences
+
+(1) Paragraph 29 of Schedule 1 to the 1963 Act (duration of bookmakers’ permits, betting agency permits and betting office licences) shall be amended as follows.
+
+(2) For the words from “31st May” to “date so shown” there shall be substituted “the licensing period in which that date falls or, if that date falls in the last five months of that period, at the end of the next licensing period”.
+
+(3) At the end there shall be added—
+
+> (2) In this paragraph “licensing period” means the period of three years beginning with 1st June 1997 and each successive period of three years.
+
+;
+
+and the existing provisions of paragraph 29 as amended by sub-paragraph (2) above shall constitute sub-paragraph (1) of that paragraph.
+
+(4) Sub-paragraphs (1) to (3) above apply only in relation to the grant, renewal or further renewal of a permit or licence after the coming into force of this Order.
+
+## 7. Extension of period of report by the Secretary of State
+
+(1) Paragraph 37 of Schedule 1 to the 1963 Act (requirement on the Secretary of State to lay before Parliament report containing statistical information about bookmakers’ permits, betting agency permits and betting office licences) shall be amended as follows.
+
+(2) For the words “period of twelve months ending with 31st May in any year” there shall be substituted “relevant period”.
+
+(3) At the end there shall be added—
+
+> (2) In this paragraph “relevant period” means the period of three years beginning with 1st June 1997 and each successive period of three years.
+
+;
+
+and the existing provisions of paragraph 37 as amended by paragraph (2) above shall constitute sub-paragraph (1) of that paragraph.
+
+Michael Howard
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+16th March 1997
+
+(This note is not part of the Order)
+
+This Order, which is made under the Deregulation and Contracting Out Act 1994, amends various provisions in the Betting, Gaming and Lotteries Act 1963 (“the 1963 Act”) relating to the licensing of betting offices and permits for bookmakers and betting agencies, in order to reduce the burden on businesses operating in the betting industry.
+
+Article 3 of the Order enables a clerk to a committee responsible for the grant and renewal of licences and permits under Schedule 1 to the 1963 Act to act for the committee when applications for the renewal of such licences and permits are unopposed.
+
+Article 6 extends the duration of such licences and permits to three years. They currently require annual renewal.
+
+To compensate for these deregulatory measures, article 2 enables a court to order the cancellation and forfeiture of a betting office licence held by a person convicted of managing a betting office in contravention of the rules set out in Schedule 4 to the 1963 Act. Article 4 requires the holder of a bookmaker’s permit to notify the Horserace Betting Levy Board of a change of his office address. Article 5 makes new provision for the cancellation of betting office licences.
+
+In consequence of article 6, article 7 replaces the requirement on the Secretary of State to lay before Parliament annual reports containing statistical information with respect to bookmakers’ permits, betting agency permits and betting office licences, with a requirement to lay such reports every three years.
+
+## Annotations
+
+[^f00001]: Footnote: [1963 c. 2](https://www.legislation.gov.uk/ukpga/1963/2).
+
+[^f00002]: Footnote: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).

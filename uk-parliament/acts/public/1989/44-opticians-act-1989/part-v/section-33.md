@@ -1,0 +1,34 @@
+---
+title: Opticians Act 1989, section 33
+act: Opticians Act 1989
+section: '33'
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1989/44/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Opticians Act 1989, section 33
+
+> **Warning: changes not yet applied to this text (100).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/44
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 33. Default powers of Privy Council.
+
+*Extent: E+W+S+N.I.*
+
+(1) If at any time it appears to the Privy Council that the Council have failed, but ought, to discharge a function of theirs to which this section applies, the Privy Council may notify their opinion to the Council and may direct them to discharge such of those functions, and in such manner and within such time or times, as may be specified in the direction.
+
+(2) If the Council fail to comply with any directions of the Privy Council under subsection (1) above, the Privy Council may themselves discharge any function of the Council to which this section applies.
+
+(3)[^key-26efda02be1027ab3f2c1015ccd67b52] This section applies to all functions of the Council under this Act except—
+
+- (a) their functions under sections 1, 5D, 8, 8A, 9, 12, 13 and 32(1) above; and
+- (b) their powers to make rules under sections 23C, 23D and 23E above.
+
+## Annotations
+
+[^key-26efda02be1027ab3f2c1015ccd67b52]: Textual amendment: S. 33(3) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 24](https://www.legislation.gov.uk/uksi/2005/848/article/24) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

@@ -1,0 +1,36 @@
+---
+title: Data Protection Act 2018, section 85
+act: Data Protection Act 2018
+section: '85'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2018/12/section/85
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Data Protection Act 2018, section 85
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 85. Overview[^M_I_951502fa-9a2b-40d8-d4ce-01c07b097405]
+
+*Extent: E+W+S+N.I.*
+
+(1) This Chapter sets out the six data protection principles as follows—
+
+- (a) section 86 sets out the first data protection principle (requirement that processing be lawful, fair and transparent);
+- (b) section 87 sets out the second data protection principle (requirement that the purposes of processing be specified, explicit and legitimate);
+- (c) section 88 sets out the third data protection principle (requirement that personal data be adequate, relevant and not excessive);
+- (d) section 89 sets out the fourth data protection principle (requirement that personal data be accurate and kept up to date);
+- (e) section 90 sets out the fifth data protection principle (requirement that personal data be kept for no longer than is necessary);
+- (f) section 91 sets out the sixth data protection principle (requirement that personal data be processed in a secure manner).
+
+(2) Each of sections 86, 87 and 91 makes provision to supplement the principle to which it relates.
+
+## Annotations
+
+[^M_I_951502fa-9a2b-40d8-d4ce-01c07b097405]: Commencement: S. 85 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)

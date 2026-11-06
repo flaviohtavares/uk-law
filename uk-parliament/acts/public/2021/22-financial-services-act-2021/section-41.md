@@ -1,0 +1,43 @@
+---
+title: Financial Services Act 2021, section 41
+act: Financial Services Act 2021
+section: '41'
+status: revised-with-pending-changes
+text_date: '2024-11-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/22/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services Act 2021, section 41
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-11-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41. Regulations about financial collateral arrangements
+
+*Extent: E+W+S+N.I.*
+
+(1) The Financial Collateral Arrangements (No. 2) Regulations 2003 (S.I. 2003/3226) as originally made, and all amendments made to them, have effect, and are to be treated as having had effect, despite any lack of power to make the regulations and amendments.
+
+(2) Accordingly, the validity of anything done under or in reliance on those regulations (whether as originally made or as amended) is to be treated as unaffected by any such lack of power.
+
+(3) The Banking Act 2009 is amended in accordance with subsections (4) to (6).
+
+(4) In section 255 (regulations about financial collateral arrangements)—
+
+- (a) in subsection (3)(b) omit “or purported to be done”,
+- (b) omit subsection (5), and
+- (c) after that subsection insert—
+
+  > (6) Regulations under this section are to be made by statutory instrument.
+  >
+  > (7) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+  >
+  > (8) Section 41 of the Financial Services Act 2021 makes further provision in relation to the Financial Collateral Arrangements (No. 2) Regulations 2003 (S.I. 2003/3226).
+
+(5) Omit section 256 (procedure for making regulations under section 255).
+
+(6) In the table in section 259(3) (procedure applying to statutory instruments), in the entry for section 255, for “affirmative resolution” substitute “ draft affirmative resolution ”.

@@ -1,0 +1,98 @@
+---
+title: The Merchant Shipping (Salvage Convention) (Jersey) Order 1997
+id: uksi/1997/1773
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-07-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/1773
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/1773/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Salvage Convention) (Jersey) Order 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 1773
+
+MERCHANT SHIPPING
+
+The Merchant Shipping (Salvage Convention) (Jersey) Order 1997
+
+Made
+
+22nd July 1997
+
+Coming into force
+
+22nd August 1997
+
+At the Court at Buckingham Palace, the 22nd day of July 1997
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred on Her by section 315(2) of the Merchant Shipping Act 1995[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
+
+## 1. Citation and commencement
+
+This Order may be cited as the Merchant Shipping (Salvage Convention) (Jersey) Order 1997 and shall come into force on 22nd August 1997.
+
+## 2. Extension to Jersey of provisions of the Merchant Shipping Act 1995
+
+Sections 224 and 255 of, and Schedule 11 to, the Merchant Shipping Act 1995 shall extend to the Bailiwick of Jersey subject to the exceptions, adaptations and modifications set out in the Schedule to this Order.
+
+**3.** Nothing in this Order shall affect any rights or liabilities arising out of any salvage operations started or other acts done before the coming into force of this Order.
+
+**4.** In the Schedule to this Order, “Jersey” means the Bailiwick of Jersey.
+
+N. H. Nicholls
+
+Clerk of the Privy Council
+
+## SCHEDULE — EXCEPTIONS, ADAPTATIONS AND MODIFICATIONS TO PROVISIONS OF THE MERCHANT SHIPPING ACT 1995 EXTENDED TO JERSEY
+
+Article 2
+
+**1.** In section 224—
+
+- (a) in subsection (1), for “the United Kingdom” substitute “Jersey”;
+- (b) omit subsections (3) to (7).
+
+**2.** In section 255—
+
+- (a) in subsection (1), omit the definitions of “receiver”, “the Salvage Convention”, “tidal water” and “wreck”
+- (b) omit subsections (2) and (3).
+
+**3.** In Part II of Schedule 11—
+
+- (a) for paragraph 1 substitute—
+
+  > **1.** In this Part of this Schedule—
+  >
+  > - (a) “the Convention” means the Convention as set out in Part I of this Schedule and any reference to a numbered article is a reference to the article of the Convention which is so numbered; and
+  > - (b) “Jersey waters” means the sea or other waters within the seaward limits of the territorial sea of Jersey.
+
+  ;
+- (b) omit paragraph 2;
+- (c) in paragraph 3(1), for the words from “commits an offence” onwards substitute “shall be guilty of an offence and liable to a fine or to imprisonment for a term not exceeding two years, or to both”;
+- (d) in paragraph 4, omit “(or, in Scotland, arbiter)”;
+- (e) in paragraph 5(1)(a), for “United Kingdom” in the first place where it occurs substitute “Jersey” and for “United Kingdom ship” substitute “ship registered in Jersey”;
+- (f) in paragraph 5(2), for “Secretary of State” substitute “Harbours and Airport Committee of the States of Jersey” and for “he” in both places where it occurs substitute “it”;
+- (g) in paragraph 6, for the words from “proceedings—” to “High Court;” substitute “proceedings in the Inferior Number of the Royal Court”.
+
+(This note is not part of the Order)
+
+This Order extends to the Bailiwick of Jersey those provisions of the Merchant Shipping Act 1995 which give effect in the United Kingdom to the International Convention on Salvage 1989.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); the power in section 315(2) is extended by section 315(4) and “relevant British possession” is defined in section 313(1) to include the Bailiwick of Jersey.

@@ -1,0 +1,63 @@
+---
+title: Roads (Scotland) Act 1984, section 17
+act: Roads (Scotland) Act 1984
+section: '17'
+status: revised-with-pending-changes
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1984/54/section/17
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Roads (Scotland) Act 1984, section 17
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/54
+>
+> Extent: Scotland.
+
+## 17. Security for private road works relating to housing.
+
+*Extent: S*
+
+(1) Subject to subsection (3)(a) below, this section applies where—
+
+- (a) it is proposed to—
+  - (i) erect a building; or
+  - (ii) alter an existing building which is not a private dwellinghouse,
+
+for use as a private dwellinghouse; and
+
+- (b) the land comprising the building fronts or abuts or, as the case may be, will front or abut a private road which—
+  - (i) has not been constructed; or
+  - (ii) is not of a standard mentioned in section 16(1) of this Act.
+
+(2) The Secretary of State may by regulations make provision for securing that, in a case to which this section applies, the erection or alteration shall not commence until—
+
+- (a) any construction consent required for the road under section 21(1) of this Act has been obtained; and
+- (b) there has been deposited with the local roads authority, or secured to their satisfaction, a sum sufficient to meet the cost of constructing the road in accordance with the construction consent or, as the case may be, of making the road up to the standard mentioned as aforesaid.
+
+(3) Without prejudice to the generality of subsection (2) above, regulations under that subsection may—
+
+- (a) provide that this section—
+  - (i) shall not apply to a particular class or particular classes of dwellinghouse; or
+  - (ii) shall apply to any such class or classes subject to such modifications as the regulations may specify;
+- (b) provide that in a case to which this section applies a person carrying out works in contravention of, or otherwise than in accordance with, the regulations commits an offence and is liable on summary conviction to a fine not exceeding the statutory maximum and conviction on indictment to a fine;
+- (c) provide that—
+  - (i) in a case where circumstances mentioned in provisions made under paragraph (d)(vi) below have arisen the local roads authority shall construct the road or, as the case may be, make it up to the standard mentioned in section 16(1) of this Act; and
+  - (ii) subsection (2) of section 20 of this Act shall apply to a road so constructed or made up as that subsection applies to a road constructed under subsection (1) of that section; and
+- (d) make provision as to—
+  - (i) such deposit or security as is mentioned in subsection (2)(b) above;
+  - (ii) circumstances in which such deposit or security may be dispensed with;
+  - (iii) calculation of the amount of the sum mentioned in the said subsection (2)(b) and the apportionment of that amount where more than one person is liable, by virtue of this section, to deposit or secure that sum in respect of the same road;
+  - (iv) conditions under which the local roads authority shall hold any such deposit;
+  - (v) repayment of such deposit or discharge of such security; and
+  - (vi) circumstances in which, and procedure by which, such deposit may be applied or, as the case may be, such security may be called up and the proceeds thereof applied, to meet the cost of the works in respect of which the deposit or security was held.
+
+(4) Any dispute between a local roads authority and any person as to a matter arising from the foregoing provisions of this section or from regulations made thereunder shall be determined by a single arbiter appointed, in default of agreement, by the sheriff on the application of either party.
+
+(5) In subsection (3) above, “**the statutory maximum**” has the meaning ascribed to it by section 74 of the [^c1610630]Criminal Justice Act 1982.
+
+## Annotations
+
+[^c1610630]: Marginal citation: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48).

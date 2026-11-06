@@ -1,0 +1,42 @@
+---
+title: Corporation Tax Act 2010, section 15
+act: Corporation Tax Act 2010
+section: '15'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 15
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 15. Carried-forward amounts
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if conditions A, B and C are met.
+
+(2) Condition A is that, in accordance with generally accepted accounting practice, a UK resident company—
+
+- (a) prepares its accounts for a period of account in sterling, or
+- (b) prepares its accounts for a period of account in a currency other than sterling and in those accounts identifies sterling as its functional currency.
+
+(3) Condition B is that a loss of the company for that period (“the loss”) which falls to be calculated in accordance with generally accepted accounting practice for corporation tax purposes is to be a carried-forward amount.
+
+(4) Condition C is that the tax calculation currency of the company in the accounting period to which the loss is to be carried forward (“the later tax calculation currency”) is a currency other than sterling.
+
+(5) The loss must be adjusted by—
+
+- (a) first being translated into the later tax calculation currency by reference to the spot rate of exchange for the first day of the relevant accounting period, and
+- (b) then being translated into sterling by reference to the same rate of exchange as that at which the profit against which the carried-forward amount is to be set off is required to be translated under section 11.
+
+(6) In this section “**the relevant accounting period**” means the earliest accounting period of the company that both—
+
+- (a) begins after the accounting period in which the loss arises, and
+- (b) is a period in which the tax calculation currency of the company is the currency mentioned in subsection (4).

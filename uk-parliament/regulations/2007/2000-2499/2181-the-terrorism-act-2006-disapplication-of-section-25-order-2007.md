@@ -1,0 +1,67 @@
+---
+title: The Terrorism Act 2006 (Disapplication of Section 25) Order 2007
+id: uksi/2007/2181
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-07-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/2181
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/2181/pdfs/uksiem_20072181_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2181/pdfs/uksi_20072181_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2181/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Terrorism Act 2006 (Disapplication of Section 25) Order 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 2181
+
+prevention and suppression of terrorism
+
+The Terrorism Act 2006 (Disapplication of Section 25) Order 2007
+
+Made
+
+24th July 2007
+
+Coming into force
+
+25th July 2007
+
+This Order is made in exercise of the powers conferred by section 25(2) of the Terrorism Act 2006[^f00001].
+
+In accordance with section 25(6) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+Accordingly, the Secretary of State makes the following Order:
+
+**1.** This Order may be cited as the Terrorism Act 2006 (Disapplication of Section 25) Order 2007 and shall come into force on 25th July 2007.
+
+**2.** Section 25 of the Terrorism Act 2006 is disapplied for a period of one year beginning with the coming into force of this Order.
+
+Tony McNulty
+
+Minister of State
+
+Home Office
+
+24th July 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order disapplies section 25 of the Terrorism Act 2006 for a period of one year beginning with 25th July 2007. Without this Order the modifications in section 25 of that Act would take effect because section 25(1)(a) provides that section 25 is to apply to any time which is more than one year after the commencement of section 23. Section 23 was commenced on 25th July 2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936).
+
+Section 25 modifies the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11) to reduce the maximum period of detention under Schedule 8 to the Terrorism Act 2000 from 28 days to 14 days. Section 23 of the Terrorism Act 2006 increased the maximum period of detention from 14 days to 28 days. The modifications in section 25 will now take effect on 25th July 2008, unless a further Order is made.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 11](https://www.legislation.gov.uk/ukpga/2006/11).

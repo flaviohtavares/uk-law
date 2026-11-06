@@ -1,0 +1,27 @@
+---
+title: Companies Act 1948, section 27
+act: Companies Act 1948
+section: '27'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/11-12/38/section/27
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1948, section 27
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 27. Membership of holding company.
+
+(1) Except in the cases hereafter in this section mentioned, a body corporate cannot be a member of a company which is its holding company, and any allotment or transfer of shares in a company to its subsidiary shall be void.
+
+(2) Nothing in this section shall apply where the subsidiary is concerned as personal representative, or where it is concerned as trustee, unless the holding company or a subsidiary thereof is beneficially interested under the trust and is not so interested only by way of security for the purposes of a transaction entered into by it in the ordinary course of a business which includes the lending of money.
+
+(3) This section shall not prevent a subsidiary which is, at the commencement of this Act,- a member of its holding company, from continuing to be a member but, subject to the last foregoing subsection, the subsidiary shall have no right to vote at meetings of the holding company or any class of members thereof.
+
+(4) Subject to subsection (2) of this section, subsections (1) and (3) thereof shall apply in relation to a nominee for a body corporate which is a subsidiary, as if references in the said subsections (1) and (3) to such a body corporate included references to a nominee for it.
+
+(5) In relation to a company limited by guarantee or unlimited which is a holding company, the reference in this section to shares, whether or not it has a share capital, shall be construed as including a reference to the interest of its members as such, whatever the form of that interest.

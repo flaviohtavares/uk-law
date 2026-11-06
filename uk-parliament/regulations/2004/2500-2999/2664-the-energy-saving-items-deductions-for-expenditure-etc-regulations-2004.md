@@ -1,0 +1,96 @@
+---
+title: The Energy-Saving Items (Deductions for Expenditure etc.) Regulations 2004
+id: uksi/2004/2664
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-10-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/2664
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/2664/pdfs/uksiem_20042664_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2664/pdfs/uksi_20042664_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2664/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Energy-Saving Items (Deductions for Expenditure etc.) Regulations 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No.2664
+
+INCOME TAX
+
+The Energy-Saving Items (Deductions for Expenditure etc.) Regulations 2004
+
+Made
+
+13th October 2004
+
+Laid before the House of Commons
+
+13th October 2004
+
+Coming into force
+
+3rd November 2004
+
+The Treasury, in exercise of the powers conferred upon them by sections 31A(13) and 31B(10) of the Income and Corporation Taxes Act 1988[^f00001], make the following Regulations:
+
+## 1. Citation, commencement, effect and interpretation
+
+(1) These Regulations may be cited as the Energy-Saving Items (Deductions for Expenditure etc.) Regulations 2004, shall come into force on 3rd November 2004 and shall have effect in respect of expenditure incurred on or after 6th April 2004.
+
+(2) For the purposes of these Regulations, “a building” means a structure which is a dwelling-house, or which contains one or more dwelling-houses.
+
+## 2. Deductions for expenditure on energy-saving items in buildings
+
+The maximum amount of a deduction which may be claimed under section 31A of the Income and Corporation Taxes Act 1988 (“a section 31A deduction”) in computing for the purposes of income tax the profits of Schedule A business in any tax year, is £1500 per building, irrespective of—
+
+- (a) the number of dwelling-houses contained in that building; and
+- (b) the number of claimants making a section 31A deduction claim, or the number of persons eligible to claim a section 31A deduction, in respect of that building.
+
+## 3. Conditions attaching to a section 31A deduction
+
+(1) Where a section 31A deduction is claimed, the following conditions apply.
+
+(2) Where the building is, or the dwelling-house or dwelling-houses contained in the building, to which the claim relates, is or are—
+
+- (a) jointly owned or owned in common by the claimant and other persons, or
+- (b) subject to differing estates or interests, or
+- (c) separately owned by the claimant and other persons,
+
+a just and reasonable apportionment of the section 31A deduction shall be allowed in respect of that part of the expenditure which is incurred by the claimant or claimants for the purposes of a Schedule A business, and, where the maximum amount is claimed, that amount shall be apportioned in the same way.
+
+(3) If a claimant has received a contribution from any other person towards the expenditure incurred, the amount of that contribution shall be deducted from the amount which the claimant may claim in respect of a section 31A deduction, whether or not that other person is entitled to make a separate claim under that section.
+
+## 4. Appeals against section 31A deduction awards
+
+Section 42 of the Income and Corporation Taxes Act 1988 shall apply for the purposes of an appeal against the determination of a claim for a section 31A deduction where it involves making a determination or apportionment in accordance with section 31A(13)(c) or (d) of that Act.
+
+Nick Ainger
+
+Derek Twigg
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+13th October 2004
+
+(This note is not part of the Regulations)
+
+Section 31A(13) of the Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1) (“the Act”), inserted by section 133 of the Finance Act 2004, provides that the Treasury may make regulations providing for the apportionment and restriction on the amount of a deduction for expenditure which may be claimed by landlords in respect of energy-saving items, where such expenditure is incurred in the course of a Schedule A business.
+
+Section 31B(10) of the Act provides that these Regulations may have effect before the date on which they are made.
+
+These Regulations set the maximum amount of expenditure to £1500 per building per tax year *(regulation 2)*. They also provide the conditions for the deduction, and for a just and reasonable apportionment of an allowable deduction for such expenditure where the building in question, or parts of it, are jointly owned or owned in common (*regulation 3).* They further provide an appeal mechanism where apportionment between claimants is in issue (*regulation 4).*
+
+These Regulations do not impose new costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Sections 31A and 31B were inserted by section 143 of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).

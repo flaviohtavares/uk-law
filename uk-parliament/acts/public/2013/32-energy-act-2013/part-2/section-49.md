@@ -1,0 +1,44 @@
+---
+title: Energy Act 2013, section 49
+act: Energy Act 2013
+section: '49'
+status: revised-with-pending-changes
+text_date: '2024-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2013/32/section/49
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2013, section 49
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 49. Power to modify licence conditions etc: market participation and liquidity
+
+*Extent: E+W+S*
+
+(1) The Secretary of State may modify—
+
+- (a) a condition of a particular licence under section 6(1)(a) or (d) of EA 1989 (generation and supply licences);
+- (b) the standard conditions incorporated in licences under those provisions by virtue of section 8A of that Act;
+- (c) a document maintained in accordance with the conditions of licences under section 6(1)(a) or (d) of that Act, or an agreement that gives effect to a document so maintained.
+
+(2) The Secretary of State may exercise the power in subsection (1) only for the following purposes—
+
+- (a) facilitating participation in the wholesale electricity market in Great Britain, whether by licence holders or others;
+- (b) promoting liquidity in that market.
+
+(3) Modifications made by virtue of that power may include—
+
+- (a) provision imposing obligations in relation to the sale or purchase of electricity, including, in particular, obligations as to—
+  - (i) the terms on which electricity is sold or purchased, and
+  - (ii) the circumstances or manner in which electricity is sold or purchased;
+- (b) provision imposing restrictions on the sale or purchase of electricity to or from group undertakings;
+- (c) provision imposing obligations in relation to the disclosure or publication of information.
+
+(4) For the purposes of subsection (3)(b), electricity is sold to or purchased from a group undertaking if the transaction is between undertakings one of which is a group undertaking in relation to the other.
+
+For this purpose, “**undertaking**” and “**group undertaking**” have the same meanings as in the Companies Acts (see section 1161 of the Companies Act 2006).

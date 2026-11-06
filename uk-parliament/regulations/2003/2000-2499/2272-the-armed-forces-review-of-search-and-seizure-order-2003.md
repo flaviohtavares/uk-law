@@ -1,0 +1,161 @@
+---
+title: The Armed Forces (Review of Search and Seizure) Order 2003
+id: uksi/2003/2272
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-09-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/2272
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2272/pdfs/uksi_20032272_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2272/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Armed Forces (Review of Search and Seizure) Order 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 2272
+
+DEFENCE
+
+The Armed Forces (Review of Search and Seizure) Order 2003
+
+Made
+
+4th September 2003
+
+Coming into force
+
+30th September 2003
+
+Whereas a draft of this Order was laid before Parliament in accordance with section 35(2) of the Armed Forces Act 2001[^f00001] and approved by resolution of each House of Parliament;
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred upon him by sections 8(2) and 35(1) of the Armed Forces Act 2001, hereby makes the following Order:
+
+## 1. Commencement and citation
+
+This Order may be cited as the Armed Forces (Review of Search and Seizure) Order 2003 and shall come into force on 30th September 2003.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “the Act” means the Armed Forces Act 2001;
+- “the 1984 Act” means the Police and Criminal Evidence Act 1984[^f00002];
+- “authorising officer” means the officer who authorised the search under section 7 of the Act which is the subject of a review;
+- “disposal” in relation to any seized property means—
+  - (a) return to a person, other than the occupier of the premises from which it was seized, who is entitled to possession, or
+  - (b) disposal in such other manner as the judicial officer directs;
+- “general power of seizure” means any power of seizure which may be provided under section 11(2) of the Act and which, subject to modifications made under that section, is equivalent to section 19 of the 1984 Act[^f00003];
+- “the judicial officer”, in relation to a review, means the judicial officer[^f00004] conducting the review;
+- “legal representative” means a representative who is—
+  - (a) a person who has a general qualification within the meaning of section 71 of the Courts and Legal Services Act 1990[^f00005];
+  - (b) an advocate or solicitor in Scotland;
+  - (c) a member of the Bar of Northern Ireland or a solicitor of the Supreme Court of Northern Ireland; or
+  - (d) a person who has in any Commonwealth country or colony rights and duties similar to those of a barrister or solicitor in England and Wales, and is subject to punishment or disability for breach of professional rules;
+- “production order” means an order under any power which may be provided under section 6 of the Act and which, subject to any modifications made under that section, is equivalent to paragraph 4 of Schedule 1 to the 1984 Act;
+- “relevant evidence” has the same meaning as in section 5 of the Act[^f00006];
+- “retention” means retention by the person who was authorised under section 7(1) of the Act to conduct the search which is the subject of the review;
+- “return” in relation to seized property means, except in the definition of “disposal”, return to the occupier of the premises from which it was seized;
+- “review” means a review by a judicial officer under section 8 of the Act;
+- “seized property” means property seized during a search under section 7 of the Act in exercise or purported exercise of—
+  - (a) the power of seizure conferred by section 7(3) of the Act; or
+  - (b) the general power of seizure;
+- “warrant” means a warrant issued under section 5 of the Act or under any power provided under section 6 of the Act and which, subject to any modifications made under that section, is equivalent to paragraph 12 of Schedule 1 to the 1984 Act.
+
+(2) A reference in this Order to a relevant person in relation to seized property is a reference to—
+
+- (a) the authorising officer;
+- (b) any person who at the time of the seizure occupied the premises from which the property was seized;
+- (c) any person claiming—
+  - (i) that he has an interest in the seized property, and
+  - (ii) that the seized property consists of or includes items subject to legal privilege, excluded material or special procedure material[^f00007]; and
+- (d) the legal representative of any person referred to in sub-paragraphs (a), (b) or (c).
+
+(3) In this Order, the occupier of premises which are service living accommodation is—
+
+- (a) if the premises are any building or part of a building within section 15(1)(a) of the Act, any person for whose exclusive use as living accommodation or as a garage that building or part of a building is provided;
+- (b) if the premises are any room, structure or area within section 15(1)(b) of the Act, any person for whose use as sleeping accommodation that room, structure or area is provided;
+- (c) if the premises are any locker within section 15(1)(c) of the Act, the person for whose personal use in connection with his sleeping accommodation that locker is provided.
+
+## 3. Application
+
+In relation to a review, the judicial officer has the powers and duties prescribed by article 4.
+
+## 4. Powers and duties of a judicial officer on review
+
+(1) Subject to paragraph (2), the judicial officer shall adopt such procedures at the review as he sees fit.
+
+(2) The judicial officer shall, if representations are made by a relevant person, take those representations into account.
+
+(3) If in relation to—
+
+- (a) any part of the seized property, or
+- (b) the whole of the seized property
+
+the judicial officer is satisfied that it is subject to legal privilege he shall order the return or disposal, in a case within sub-paragraph (a), of that part or, in a case within sub-paragraph (b), of the whole of the seized property.
+
+(4) Subject to paragraph (3), if in relation to—
+
+- (a) any part of the seized property, or
+- (b) the whole of the seized property
+
+the judicial officer is satisfied as to any of the grounds mentioned in paragraph (5), he shall order the return or disposal, in a case within sub-paragraph (a), of that part or, in a case within sub-paragraph (b), of the whole of the seized property unless he is satisfied that it would be in the interests of justice to permit retention of that part or the whole of the property.
+
+(5) The grounds referred to in paragraph (4) are—
+
+- (a) that the authorising officer did not have reasonable grounds for believing that an offence to which section 5 of the Act applies had been committed;
+- (b) in respect of material seized in exercise or purported exercise of the power in section 7(3) of the Act, that the material—
+  - (i) is not of substantial value to the investigation in respect of which the search was authorised,
+  - (ii) is not likely to be relevant evidence, or
+  - (iii) is excluded material or special procedure material;
+- (c) that at the time at which the authorising officer authorised the search none of the conditions specified in section 5(4) of the Act applied;
+- (d) that the premises searched were not premises mentioned in sub-paragraphs (i) or (ii) of section 7(1)(a) of the Act;
+- (e) that the authorising officer did not have reasonable grounds for believing that the conditions mentioned in section 7(1)(b) of the Act were satisfied;
+- (f) where the authorising officer authorised a member of Her Majesty’s forces other than a service policeman[^f00008] to enter and search premises, that the condition mentioned in either paragraph (a) or (b) of section 7(2) of the Act was not satisfied;
+- (g) in respect of material seized in purported exercise of the general power of seizure, that the grounds for a valid exercise of that power did not exist;
+- (h) that there has been a breach of any applicable Code issued under section 113 of the 1984 Act[^f00009];
+- (i) that the authorising officer did not request a judicial officer to undertake a review as soon as practicable.
+
+(6) Where the judicial officer orders the return or disposal of seized property in accordance with paragraph (3) or (4), he may give such directions as he sees fit in connection with the return or disposal of the property.
+
+Ivor Caplin
+
+Parliamentary Under Secretary of State Ministry of Defence
+
+4th September 2003
+
+(This note is not part of the Order)
+
+This Order prescribes the powers and duties of a judicial officer when conducting a review, under section 8 of the Armed Forces Act 2001, of a search authorised by an officer under section 7 of that Act and of the seizure and retention of anything seized and retained during the search.
+
+The judicial officer shall adopt such procedures at the review as he sees fit, although he must take into account representations made by certain people, including the officer who authorised the search and the occupier of the premises which were searched.
+
+The judicial officer must order the return or disposal of seized property if he is satisfied that it is subject to legal privilege. The judicial officer must also order the return or disposal of seized property if he is satisfied as to any of the grounds in article 4(5) unless he is satisfied that it would be in the interests of justice to permit the retention of the property. The judicial officer may give such directions as he sees fit as to the return or disposal of the property.
+
+## Annotations
+
+[^f00001]: Footnote: [2001 c. 19](https://www.legislation.gov.uk/ukpga/2001/19).
+
+[^f00002]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
+
+[^f00003]: Footnote: Section 19 of the 1984 Act is amended by paragraph 13(1) and (2)(a) of Schedule 2 to the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
+
+[^f00004]: Footnote: By virtue of section 16(1) of the Act, judicial officer means a judicial officer appointed under section 75L of either of the 1955 Acts or under section 47M of the 1957 Act.
+
+[^f00005]: Footnote: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41). Section 71 was amended by paragraphs 4 and 9 of Schedule 6 to, and Part 2 of Schedule 15 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^f00006]: Footnote: By virtue of section 5(9) of the Act, “relevant evidence”, in relation to an offence, means anything that would be admissible in evidence at a trial for the offence.
+
+[^f00007]: Footnote: By virtue of section 16(1) of the Act, “items subject to legal privilege”, “excluded material” and “special procedure material” have the same meaning as in the 1984 Act.
+
+[^f00008]: Footnote: By virtue of section 16(1) of the Act, service policeman means a member of the Royal Naval Regulating Branch, the Royal Marines Police, the Royal Military Police or the Royal Air Force Police.
+
+[^f00009]: Footnote: Section 113 of the 1984 Act is amended by section 13 of the Act.

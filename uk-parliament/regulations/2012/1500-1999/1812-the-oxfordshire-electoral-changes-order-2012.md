@@ -1,0 +1,481 @@
+---
+title: The Oxfordshire (Electoral Changes) Order 2012
+id: uksi/2012/1812
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-07-10'
+text_date: '2016-05-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/1812
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1812/pdfs/uksi_20121812_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1812/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Oxfordshire (Electoral Changes) Order 2012
+
+> Text as at 2016-05-05.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 1812
+
+Local Government, England
+
+The Oxfordshire (Electoral Changes) Order 2012
+
+Made
+
+10th July 2012
+
+Coming into force in accordance with article 2
+
+Under section 58(4) of the Local Democracy, Economic Development and Construction Act 2009[^f00001] (“the 2009 Act”) the Local Government Boundary Commission for England[^f00002] published a report dated January 2012 stating its recommendations for changes to the electoral arrangements for the county of Oxfordshire.
+
+A draft of the instrument has been laid before Parliament and a period of forty days has expired and neither House has resolved that the instrument be not made.
+
+The Local Government Boundary Commission for England has decided to give effect to the recommendations for electoral changes and in exercise of the powers conferred by section 59(1) of the 2009 Act makes the following Order:
+
+## 1. Citation[^key-a35e247a4a12c057511d1b808e9b920e][^key-72588e401a68f65aaffe0c656a61eda5]
+
+This Order may be cited as the Oxfordshire (Electoral Changes) Order 2012.
+
+## 2. Commencement[^key-5130c9d91bd84636d331e6671cc6e16b][^key-a06582aa9d29665e6cface07c516c6c6]
+
+(1) This Order, with the exception of articles 5 to 15, comes into force —
+
+- (a) for the purpose of proceedings preliminary or relating to the elections of councillors for county electoral divisions, on 15th October 2012;
+- (b) for all other purposes, on the ordinary day of election of councillors in 2013.
+
+(2) Articles [^key-48bcc87991695bae9d51dfdedb40e796]..., 7, 9, 10, 11, [^key-84873f0dd80ea44f11c06fc2bbca1749]..., 13, and 15 come into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the elections of parish councillors, on 15th October 2014;
+- (b) for all other purposes, on the ordinary day of election of councillors in 2015.
+
+(3) Articles 6, 8 and 14 come into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the elections of parish councillors, on 15th October 2015;
+- (b) for all other purposes, on the ordinary day of election of councillors in 2016.
+
+## 3. Interpretation[^key-882f95ed758ee3337d23ac38d29a947a][^key-589a5ef0d6864cc827a80e2a06c51da7]
+
+In this Order—
+
+- “map” means the map marked “Map referred to in the Oxfordshire (Electoral Changes) Order 2012”, of which prints are available for inspection at the principal office of the Local Government Boundary Commission for England;
+- “ordinary day of election of councillors” has the meaning given by section 37 of the Representation of the People Act 1983[^f00003].
+
+## 4. Electoral divisions of the county of Oxfordshire and number of councillors[^key-a2f2e132138139fca3655f0ceae6b2b0][^key-5eafa96cb7be4166ecec898fa931882c]
+
+(1) The existing electoral divisions of the county of Oxfordshire are abolished.
+
+(2) The county is divided into sixty-one electoral divisions each bearing a name listed in column 1 of the Schedule.
+
+(3) Each electoral division comprises the area designated on the map by reference to the name of the electoral division.
+
+(4) The number of councillors to be elected for each electoral division is the number specified in relation to that electoral division in column 2 of the Schedule.
+
+(5) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
+
+## 5. Wards of the parish of Abingdon and number of councillors[^key-44bc2dd944b81b05633b7853dbcedf10]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Wards of the parish of Banbury and number of councillors[^key-467babd6eba210aa27452a30519e2337][^key-f956dcccdf40312b6460c5998d210ddf]
+
+(1) The existing wards of the parish of Banbury are abolished.
+
+(2) The parish is divided into eleven wards named respectively—
+
+- (a) Banbury Calthorpe;
+- (b) Banbury Court;
+- (c) Banbury Cross;
+- (d) Banbury Easington North;
+- (e) Banbury Easington South;
+- (f) Banbury Grimsbury and Castle;
+- (g) Banbury Hardwick;
+- (h) Banbury Neithrop North;
+- (i) Banbury Neithrop South;
+- (j) Banbury Ruscote;
+- (k) Banbury St John.
+
+(3) Each ward comprises the area designated on the map by reference to the name of the ward.
+
+(4) Four councillors are to be elected for Banbury Hardwick ward.
+
+(5) Three councillors are to be elected for each of the following wards:
+
+- (a) Banbury Grimsby and Castle;
+- (b) Banbury Ruscote.
+
+(6) Two councillors are to be elected for each of the following wards:
+
+- (a) Banbury Calthorpe;
+- (b) Banbury Easington North;
+- (c) Banbury Easington South;
+- (d) Banbury Neithrop North.
+
+(7) One councillor is to be elected for each of the following wards:
+
+- (a) Banbury Court;
+- (b) Banbury Cross;
+- (c) Banbury Neithrop South;
+- (d) Banbury St John.
+
+## 7. Wards of the parish of Bicester and number of councillors[^key-4859ba0b183d977bf34e851844126c15][^key-b7375702b30b9434ad116484b4e74fcc]
+
+(1) The existing wards of the parish of Bicester are abolished.
+
+(2) The parish is divided into seven wards named respectively—
+
+- (a) Bicester East;
+- (b) Bicester Central;
+- (c) Bicester North;
+- (d) Bicester South East;
+- (e) Bicester South West;
+- (f) Bicester Town;
+- (g) Bicester West.
+
+(3) Each ward comprises the area designated on the map by reference to the name of the ward.
+
+(4) Three councillors are to be elected for each of the following wards:
+
+- (a) Bicester East;
+- (b) Bicester North;
+- (c) Bicester South East.
+
+(5) Two councillors are to be elected for each of the following wards:
+
+- (a) Bicester Town;
+- (b) Bicester West.
+
+(6) One councillor is to be elected for each of the following wards:
+
+- (a) Bicester Central;
+- (b) Bicester South West.
+
+## 8. Wards of the parish of Bodicote and number of councillors[^key-1fa73764e6b6f65691ebe7cacb75ead1][^key-992502bfde37bc4bb16beeea2bc86f0e]
+
+(1) The parish of Bodicote is divided into two wards named respectively—
+
+- (a) Bodicote Bankside;
+- (b) Bodicote Village.
+
+(2) Each ward comprises the area designated on the map by reference to the name of the ward.
+
+(3) Eight councillors are to be elected for Bodicote Village ward.
+
+(4) Two councillors are to be elected for Bodicote Bankside ward.
+
+## 9. Wards of the parish of Chesterton and number of councillors[^key-6f78f8f32636eec50b307c571d0ef100][^key-3f771bfb1a56e137f99f12a637e9467b]
+
+(1) The parish of Chesterton is divided into two wards named respectively—
+
+- (a) Chesterton North;
+- (b) Chesterton Village.
+
+(2) Each ward comprises the area designated on the map by reference to the name of the ward.
+
+(3) Four councillors are to be elected for Chesterton Village ward.
+
+(4) Two councillors are to be elected for Chesterton North ward.
+
+## 10. Wards of the parish of Cholsey and number of councillors[^key-54dc9dfa53f5c6f24ed62ad7dcb8d490][^key-d1cd5e2bb93387b3d8df4a6ff84ea7f1]
+
+(1) The parish of Cholsey is divided into two wards named respectively—
+
+- (a) Cholsey;
+- (b) Winterbrook.
+
+(2) Each ward comprises the area designated on the map by reference to the name of the ward.
+
+(3) Eleven councillors are to be elected for Cholsey ward.
+
+(4) Two councillors are to be elected for Winterbrook ward.
+
+## 11. Wards of the parish of Cumnor and number of councillors[^key-75faf567ee5fa5179969d4685d4c86bd][^key-c9c0ba1ebcaa71a9b59e58cb319c78f9]
+
+(1) The parish of Cumnor is divided into four wards named respectively—
+
+- (a) Cumnor Hill;
+- (b) Cumnor Village;
+- (c) Dean Court;
+- (d) Farmoor.
+
+(2) Each ward comprises the area designated on the map by reference to the name of the ward.
+
+(3) Four councillors are to be elected for each of the following wards:
+
+- (a) Cumnor Hill;
+- (b) Cumnor Village;
+- (c) Dean Court.
+
+(4) Three councillor is to be elected for Farmoor ward.
+
+## 12. Wards of the parish of Didcot and number of councillors[^key-bc17b92a57ddb8feaeb02315af93628b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Wards of the parish of Kidlington and number of councillors[^key-8ae5a80055c7ebdde806341591bf8598][^key-8e919f6ba3a224b4de067d5a65fe85a0]
+
+(1) The existing wards of the parish of Kidlington are abolished.
+
+(2) The parish is divided into five wards named respectively—
+
+- (a) Kidlington Dogwood;
+- (b) Kidlington Exeter;
+- (c) Kidlington Orchard;
+- (d) Kidlington Roundham;
+- (e) Kidlington St Mary’s.
+
+(3) Each ward comprises the area designated on the map by reference to the name of the ward.
+
+(4) Three councillors are to be elected for each ward.
+
+## 14. Wards of the parish of Risinghurst and Sandhills and number of councillors[^key-2b02692b0824d5107a9a063c5737bfd4][^key-c42dfd5dc8f370482e90e5fbf9de5c5e]
+
+(1) The existing wards of the parish of Risinghurst and Sandhills are abolished.
+
+(2) The parish is divided into four wards named respectively—
+
+- (a) Risinghurst North;
+- (b) Risinghurst South;
+- (c) Sandhills;
+- (d) Wood Farm.
+
+(3) Each ward comprises the area designated on the map by reference to the name of the ward.
+
+(4) Ten councillors are to be elected for Risinghurst North ward.
+
+(5) Five councillors are to be elected for Sandhills ward.
+
+(6) Three councillors are to be elected for Wood Farm ward.
+
+(7) Two councillors are to be elected for Risinghurst South ward.
+
+## 15. Wards of the parish of Witney and number of councillors[^key-c7ad9036303d1759afddefae09117cb9][^key-38725388af4f2ae00e8e2a4c82f069bf]
+
+(1) The parish of Witney is divided into six wards named respectively—
+
+- (a) Witney Burwell;
+- (b) Witney Central;
+- (c) Witney East;
+- (d) Witney North;
+- (e) Witney South;
+- (f) Witney West.
+
+(2) Each ward comprises the area designated on the map by reference to the name of the ward.
+
+(3) Four councillors are to be elected for Witney East ward.
+
+(4) Three councillors are to be elected for each of the following wards:
+
+- (a) Witney Central;
+- (b) Witney North;
+- (c) Witney South;
+- (d) Witney West.
+
+(5) One councillor is to be elected for Witney Burwell ward.
+
+Sealed with the seal of the Local Government Boundary Commission for England on the 10th day of July 2012
+
+Max Caller
+
+Chairman
+
+Local Government Boundary Commission for England
+
+10th July 2012
+
+## SCHEDULE — Names of county electoral divisions and numbers of councillors[^key-c29afc7d9f1ed6133656372fd5b350fe][^key-90f786e12d19bbdbb9e0b99494b63c76]
+
+Article 4
+
+<table>
+<thead>
+<tr><th>1</th><th>2</th></tr>
+<tr><th>Name of County Electoral Division</th><th>Number of Councillors</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="2">In Cherwell District</th></tr>
+<tr><td>Banbury Calthorpe</td><td>1</td></tr>
+<tr><td>Banbury Grimsbury and Castle</td><td>1</td></tr>
+<tr><td>Banbury Hardwick</td><td>1</td></tr>
+<tr><td>Banbury Ruscote</td><td>1</td></tr>
+<tr><td>Bicester North</td><td>1</td></tr>
+<tr><td>Bicester Town</td><td>1</td></tr>
+<tr><td>Bicester West</td><td>1</td></tr>
+<tr><td>Bloxham and Easington</td><td>1</td></tr>
+<tr><td>Deddington</td><td>1</td></tr>
+<tr><td>Kidlington South</td><td>1</td></tr>
+<tr><td>Kirtlington and Kidlington North</td><td>1</td></tr>
+<tr><td>Otmoor</td><td>1</td></tr>
+<tr><td>Ploughley</td><td>1</td></tr>
+<tr><td>Wroxton and Hook Norton</td><td>1</td></tr>
+<tr><th colspan="2">In Oxford City</th></tr>
+<tr><td>Barton, Sandhills and Risinghurst</td><td>1</td></tr>
+<tr><td>Churchill and Lye Valley</td><td>1</td></tr>
+<tr><td>Cowley</td><td>1</td></tr>
+<tr><td>Headington and Quarry</td><td>1</td></tr>
+<tr><td>Iffley Fields and St Mary’s</td><td>1</td></tr>
+<tr><td>Isis</td><td>1</td></tr>
+<tr><td>Jericho and Osney</td><td>1</td></tr>
+<tr><td>Leys</td><td>1</td></tr>
+<tr><td>Marston and Northway</td><td>1</td></tr>
+<tr><td>Rose Hill and Littlemore</td><td>1</td></tr>
+<tr><td>St Clement’s and Cowley Marsh</td><td>1</td></tr>
+<tr><td>St Margaret’s</td><td>1</td></tr>
+<tr><td>University Parks</td><td>1</td></tr>
+<tr><td>Wolvercote and Summertown</td><td>1</td></tr>
+<tr><th colspan="2">In South Oxfordshire District</th></tr>
+<tr><td>Benson and Cholsey</td><td>1</td></tr>
+<tr><td>Berinsfield and Garsington</td><td>1</td></tr>
+<tr><td>Chalgrove and Watlington</td><td>1</td></tr>
+<tr><td>Didcot East and Hagbourne</td><td>1</td></tr>
+<tr><td>Didcot Ladygrove</td><td>1</td></tr>
+<tr><td>Didcot West</td><td>1</td></tr>
+<tr><td>Goring</td><td>1</td></tr>
+<tr><td>Henley-on-Thames</td><td>1</td></tr>
+<tr><td>Sonning Common</td><td>1</td></tr>
+<tr><td>Thame and Chinnor</td><td>2</td></tr>
+<tr><td>Wallingford</td><td>1</td></tr>
+<tr><td>Wheatley</td><td>1</td></tr>
+<tr><th colspan="2">In Vale of White Horse District</th></tr>
+<tr><td>Abingdon East</td><td>1</td></tr>
+<tr><td>Abingdon North</td><td>1</td></tr>
+<tr><td>Abingdon South</td><td>1</td></tr>
+<tr><td>Faringdon</td><td>1</td></tr>
+<tr><td>Grove and Wantage</td><td>2</td></tr>
+<tr><td>Hendreds and Harwell</td><td>1</td></tr>
+<tr><td>Kennington and Radley</td><td>1</td></tr>
+<tr><td>Kingston and Cumnor</td><td>1</td></tr>
+<tr><td>North Hinksey</td><td>1</td></tr>
+<tr><td>Shrivenham</td><td>1</td></tr>
+<tr><td>Sutton Courtenay and Marcham</td><td>1</td></tr>
+<tr><th colspan="2">In West Oxfordshire District</th></tr>
+<tr><td>Burford and Carterton North</td><td>1</td></tr>
+<tr><td>Carterton South and West</td><td>1</td></tr>
+<tr><td>Charlbury and Wychwood</td><td>1</td></tr>
+<tr><td>Chipping Norton</td><td>1</td></tr>
+<tr><td>Eynsham</td><td>1</td></tr>
+<tr><td>Hanborough and Minster Lovell</td><td>1</td></tr>
+<tr><td>Witney North and East</td><td>1</td></tr>
+<tr><td>Witney South and Central</td><td>1</td></tr>
+<tr><td>Witney West and Bampton</td><td>1</td></tr>
+<tr><td>Woodstock</td><td>1</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes changes to the electoral arrangements for the county of Oxfordshire following recommendations made by the Local Government Boundary Commission for England. The area of the county remains unchanged.
+
+The electoral changes apply in respect of local government elections to be held on and after the ordinary day of election of councillors in 2013.
+
+Article 4 abolishes the existing electoral divisions of the county and replaces them with 61 new ones. That article, the map and the Schedule also establish the names and areas of the new electoral divisions and the number of councillors for each electoral division.
+
+Article 5 abolishes the existing wards of the parish of Abingdon and replaces them with 8 new ones. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 6 abolishes the existing wards of the parish of Banbury and replaces them with 11 new ones. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 7 abolishes the existing wards of the parish of Bicester and replaces them with 7 new ones. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 8 establishes 2 wards for the parish of Bodicote. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 9 establishes 2 wards for the parish of Chesterton. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 10 establishes 2 wards for the parish of Cholsey. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 11 establishes 4 wards for the parish of Cumnor. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 12 abolishes the existing wards of the parish of Didcot and replaces them with 5 new ones. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 13 abolishes the existing wards of the parish of Kidlington and replaces them with 5 new ones. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 14 abolishes the existing wards of the parish of Risinghurst and Sandhills and replaces them with 4 new ones. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+Article 15 establishes 6 wards for the parish of Witney. That article and the map also establish the names and areas of the new wards and the number of councillors for each ward.
+
+The map defined in article 3 shows the new county electoral divisions and parish wards. It is available at http://www.lgbce.org.uk/all-reviews/south-east/oxfordshire/oxfordshire-county-council-fer; it is also available, at all reasonable times, at the offices of the council of the county of Oxfordshire and at the principal office of the Local Government Boundary Commission for England at Layden House, 76 – 86 Turnmill Street, London EC1M 5LG.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c.20](https://www.legislation.gov.uk/ukpga/2009/20).
+
+[^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20).
+
+[^key-a35e247a4a12c057511d1b808e9b920e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1812/article/1) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+
+[^key-72588e401a68f65aaffe0c656a61eda5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1812/article/1) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
+
+[^key-5130c9d91bd84636d331e6671cc6e16b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1812/article/2) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+
+[^key-a06582aa9d29665e6cface07c516c6c6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1812/article/2) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
+
+[^key-48bcc87991695bae9d51dfdedb40e796]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2) deleted (15.10.2014) by [The Vale of White Horse (Electoral Changes) Order 2014 (S.I. 2014/24)](https://www.legislation.gov.uk/uksi/2014/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/24/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2014/24/article/5/a)
+
+[^key-84873f0dd80ea44f11c06fc2bbca1749]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2) deleted (15.10.2014) by [The South Oxfordshire (Electoral Changes) Order 2014 (S.I. 2014/23)](https://www.legislation.gov.uk/uksi/2014/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/23/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2014/23/article/5/a)
+
+[^key-882f95ed758ee3337d23ac38d29a947a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1812/article/3) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+
+[^key-589a5ef0d6864cc827a80e2a06c51da7]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1812/article/3) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
+
+[^f00003]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2). Section 37 has been amended by section 18(2) of the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50), section 17 of the Greater London Authority Act l999 (c.29) and section 60(1) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^key-a2f2e132138139fca3655f0ceae6b2b0]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1812/article/4) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+
+[^key-5eafa96cb7be4166ecec898fa931882c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1812/article/4) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)
+
+[^key-44bc2dd944b81b05633b7853dbcedf10]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1812/article/5) revoked (15.10.2014) by [The Vale of White Horse (Electoral Changes) Order 2014 (S.I. 2014/24)](https://www.legislation.gov.uk/uksi/2014/24), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/24/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2014/24/article/5/b)
+
+[^key-467babd6eba210aa27452a30519e2337]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1812/article/6) in force at 15.10.2015 for specified purposes, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/a)
+
+[^key-f956dcccdf40312b6460c5998d210ddf]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1812/article/6) in force at 5.5.2016 in so far as not already in force, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/b)
+
+[^key-4859ba0b183d977bf34e851844126c15]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1812/article/7) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+
+[^key-b7375702b30b9434ad116484b4e74fcc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1812/article/7) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+
+[^key-1fa73764e6b6f65691ebe7cacb75ead1]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1812/article/8) in force at 15.10.2015 for specified purposes, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/a)
+
+[^key-992502bfde37bc4bb16beeea2bc86f0e]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1812/article/8) in force at 5.5.2016 in so far as not already in force, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/b)
+
+[^key-6f78f8f32636eec50b307c571d0ef100]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1812/article/9) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+
+[^key-3f771bfb1a56e137f99f12a637e9467b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1812/article/9) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+
+[^key-54dc9dfa53f5c6f24ed62ad7dcb8d490]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1812/article/10) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+
+[^key-d1cd5e2bb93387b3d8df4a6ff84ea7f1]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1812/article/10) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+
+[^key-75faf567ee5fa5179969d4685d4c86bd]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/1812/article/11) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+
+[^key-c9c0ba1ebcaa71a9b59e58cb319c78f9]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/1812/article/11) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+
+[^key-bc17b92a57ddb8feaeb02315af93628b]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2012/1812/article/12) revoked (15.10.2014) by [The South Oxfordshire (Electoral Changes) Order 2014 (S.I. 2014/23)](https://www.legislation.gov.uk/uksi/2014/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/23/article/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2014/23/article/5/b)
+
+[^key-8ae5a80055c7ebdde806341591bf8598]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2012/1812/article/13) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+
+[^key-8e919f6ba3a224b4de067d5a65fe85a0]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2012/1812/article/13) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+
+[^key-2b02692b0824d5107a9a063c5737bfd4]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/1812/article/14) in force at 15.10.2015 for specified purposes, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/a)
+
+[^key-c42dfd5dc8f370482e90e5fbf9de5c5e]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/1812/article/14) in force at 5.5.2016 in so far as not already in force, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/3/b)
+
+[^key-c7ad9036303d1759afddefae09117cb9]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2012/1812/article/15) in force at 15.10.2014 for specified purposes, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/a)
+
+[^key-38725388af4f2ae00e8e2a4c82f069bf]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2012/1812/article/15) in force at 7.5.2015 in so far as not already in force, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/2/b)
+
+[^key-c29afc7d9f1ed6133656372fd5b350fe]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1812/schedule) in force at 15.10.2012 for specified purposes, see [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/a)
+
+[^key-90f786e12d19bbdbb9e0b99494b63c76]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1812/schedule) in force at 2.5.2013 in so far as not already in force, see [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1812/article/2/1/b)

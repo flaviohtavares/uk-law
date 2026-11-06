@@ -1,0 +1,31 @@
+---
+title: The Network Rail (Leeds to Micklefield Enhancements) Order 2024, section 30
+act: The Network Rail (Leeds to Micklefield Enhancements) Order 2024
+section: '30'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2024/1284/section/30
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Network Rail (Leeds to Micklefield Enhancements) Order 2024, section 30
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 30. Temporary use of land for access
+
+(1) Network Rail may use any land specified in Schedule 13 (temporary use of land for access) for the passage of persons or vehicles (with or without materials, plant and machinery) for the purpose of or in connection with the construction of the authorised works.
+
+(2) The power under paragraph (1) is exercisable on giving at least 7 days’ notice (or, where access is urgently required, such notice as is reasonably practicable) to the owners and occupiers of the land.
+
+(3) But paragraph (2) does not require notice to be given in relation to land where notice under that paragraph has already been given in relation to that land.
+
+(4) Network Rail must pay compensation to the owners and occupiers of the land to which paragraph (1) applies for any loss or damage arising from the exercise of the power conferred by that paragraph.
+
+(5) Any dispute as to a person’s entitlement to compensation under paragraph (2), or as to the amount of such compensation, is to be determined as if it were a dispute under Part 1 of the 1961 Act.
+
+(6) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act applies to the temporary use of land under this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of article 23(1) (application of Part 1 of the 1965 Act).
+
+(7) The provisions of the Neighbourhood Planning Act 2017, insofar as they relate to temporary use of land under this article, do not apply to anything done in connection with the authorised works or the exercise of any powers under this Order.

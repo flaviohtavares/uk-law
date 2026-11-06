@@ -1,0 +1,182 @@
+---
+title: The Police (Amendment) Regulations 2012
+id: uksi/2012/192
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2012-01-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2012/192
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/192/pdfs/uksiem_20120192_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/192/pdfs/uksi_20120192_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/192/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police (Amendment) Regulations 2012
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2012 No. 192
+
+Police, England And Wales
+
+The Police (Amendment) Regulations 2012
+
+Made
+
+26th January 2012
+
+Laid before Parliament
+
+30th January 2012
+
+Coming into force
+
+23rd February 2012
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 50 of the Police Act 1996[^f00001].
+
+In accordance with section 62(1) of that Act, the Secretary of State has taken into consideration the recommendations of the Police Negotiating Board and supplied that Board with a draft of these Regulations.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Police (Amendment) Regulations 2012.
+
+(2) These Regulations come into force on 23rd February 2012 and have effect from that date, save that[^f00002]—
+
+- (a) regulations 3 and 7 (with the exception of regulation 7(4)) have effect from 1st April 2003;
+- (b) regulations 4(1) and (2), 5 and 6 have effect from 6th April 2006;
+- (c) regulation 4(3) has effect from 5th October 2008.
+
+## 2. Amendments to the Police Regulations 2003
+
+The Police Regulations 2003[^f00003] are amended in accordance with the following provisions of these Regulations.
+
+**3.** In regulation 3(1) (interpretation), in the appropriate places, insert—
+
+> - “SOCA” means the Serious Organised Crime Agency;
+> - “specified employee of SOCA” means—
+>   - (a) an employee of SOCA who immediately before he last became an employee of SOCA was serving as the Director General of the National Crime Squad;
+>   - (b) an employee of SOCA who immediately before he last became an employee of SOCA was serving as a police member of the National Criminal Intelligence Service appointed under subsection (1)(b) of section 9 of the Police Act 1997 by virtue of subsection (2)(a) of that section;
+>   - (c) an employee of SOCA who immediately before he last became an employee of SOCA was serving as a police member of the National Crime Squad appointed under subsection (1)(b) of section 55 of the Police Act 1997 by virtue of subsection (2)(a) of that section.
+
+.
+
+**4.** (1) Regulation 24 (pay) is amended as follows.
+
+(2) In paragraph (2), for “regulations 42, 43 and 44” substitute “Part 7 of these Regulations”.
+
+(3) In paragraph (3)—
+
+- (a) for sub-paragraph (f) substitute—
+
+  > - (f) in the case of a female member who has taken one or more periods of maternity leave, in respect of each maternity period—
+  >   - (i)  where that leave has been for 52 weeks or more, account shall be taken of the first 52 weeks whilst on maternity leave;
+  >   - (ii)  where that leave has been for less than 52 weeks, account shall be taken of any period spent on maternity leave;
+
+  ;
+- (b) for sub-paragraph (h) substitute—
+
+  > - (h) in the case of a member who has taken one or more periods of adoption leave, in respect of each adopted child account shall be taken of any period of such leave taken in accordance with a determination under regulation 33(8)(c);
+
+  .
+
+**5.**  In regulation 41A(1) (reckoning of service in the Royal Parks Constabulary), for “regulations 24 and 33” substitute “regulation 24”.
+
+**6.** After regulation 44 (reckoning by constables of overseas police service) insert—
+
+> **44A. Reckoning of service in SOCA**
+>
+> (1) Subject to paragraph (2), where a member of a police force joined or rejoined that force having been employed by SOCA as a specified employee of SOCA and having left SOCA, then for the purposes of regulation 24, service in any SOCA grade shall be treated as if it were service in the corresponding rank in the police force the member joined or rejoined.
+>
+> (2) In this regulation, any reference to a SOCA grade corresponding to a rank in a police force is a reference to a grade of an employee of SOCA designated by the Secretary of State for the purposes of this regulation as the SOCA grade corresponding to the rank in question
+
+.
+
+**7.** (1) Schedule 3 (replacement allowance) is amended as follows.
+
+(2) In paragraph 1(6) (interpretation), at the end of paragraph (c), insert—
+
+> or
+>
+> - (d) a period of ill-health retirement, or
+> - (e) a period of service as a specified employee of SOCA,
+
+.
+
+(3) After paragraph 1(6) insert—
+
+> (6A) In sub-paragraph (6), “period of ill-health retirement” means a period—
+>
+> - (a) commencing when a member of a police force retires with an entitlement to an ill-health award under regulation B3 of the Police Pensions Regulations 1987[^f00004] or with an ill-health pension under regulation 29 of the Police Pensions Regulations 2006[^f00005], and
+> - (b) ending when the member rejoins the force in accordance with regulation K1(3) of the Police Pensions Regulations 1987 or regulation 51(4) of the Police Pensions Regulations 2006, as the case may be.
+
+(4) After paragraph 1(9) insert—
+
+> (10) Where a qualifying member or a re-joining member resides in accommodation which he shares with a specified employee of SOCA falling within sub-paragraph (11), that member shall, for the purposes of this Schedule and the revoked provisions, be treated as if he shared the accommodation with a member of a police force.
+>
+> (11) A specified employee of SOCA falls within this sub-paragraph if—
+>
+> - (a) before becoming a specified employee of SOCA the employee was a qualifying member or a re-joining member; and
+> - (b) the employee is in receipt of an allowance equivalent to the replacement allowance he would receive if he continued to be a qualifying member or a re-joining member, as the case may be.
+
+.
+
+(5) After paragraph 8 (modification of compensatory allowance), insert—
+
+> **9. Reduced arrears of replacement allowance for re-joining members in receipt of related allowances**
+>
+> (1) This paragraph applies to a replacement allowance payable in respect of a relevant period to a member of a police force who—
+>
+> - (a) is a re-joining member by reason of a relevant absence of a kind mentioned in paragraph 1(6)(d) or (e); and
+> - (b) received an allowance referred to in the determinations made by the Secretary of State under regulation 34(1) as a London Allowance or a South East England Allowance in respect of the relevant period.
+>
+> (2) The annual rate of a replacement allowance to which this paragraph applies shall be reduced—
+>
+> - (a) in the case of a member who received a London Allowance, by an amount calculated by the formula A – B, where—
+>   - (i) A is the annual rate at which the London Allowance was paid to the member; and
+>   - (ii) B is the annual rate at which the London Allowance would have been paid to the member had it been known, at the time when the London Allowance was paid, that the member was entitled to receive a replacement allowance; and
+> - (b) in the case of a member who received a South East England Allowance, by the annual rate of that allowance.
+>
+> (3) For the purposes of this paragraph a relevant period is a period—
+>
+> - (a) beginning on the day after the last day of the relevant absence; and
+> - (b) ending before 23rd February 2012.
+
+.
+
+Nick Herbert
+
+Minister of State
+
+Home Office
+
+26th January 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Police Regulations 2003 (“the 2003 Regulations”). Regulation 4 increases the periods of maternity and adoption leave to be taken into account in reckoning the length of service of a member of a police force, for the purposes of determining the member’s pay.
+
+Regulation 6 adds provision for the reckoning of service of a person who served in the National Crime Squad or National Criminal Intelligence Service and from there joined the Serious Organised Crime Agency (“SOCA”) on its creation, before joining or rejoining a police force.
+
+Regulation 7 adds provision in relation to the entitlement of such a person, and of a person who rejoins a police force following medical retirement, to a replacement allowance under the 2003 Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). There are amendments to sections 50 and 62(1) which are not relevant to the subject matter of these Regulations.
+
+[^f00002]: Footnote: Section 50(5) permits the making of regulations in relation to pay and allowances with retrospective effect to any date specified in the regulations.
+
+[^f00003]: Footnote: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527). Relevant amendments were made by [S.I. 2003/2594](https://www.legislation.gov.uk/uksi/2003/2594), [S.I. 2005/2834](https://www.legislation.gov.uk/uksi/2005/2834), [S.I. 2006/594](https://www.legislation.gov.uk/uksi/2006/594), [S.I. 2006/3449](https://www.legislation.gov.uk/uksi/2006/3449), [S.I. 2007/1160](https://www.legislation.gov.uk/uksi/2007/1160) and [S.I. 2011/3026](https://www.legislation.gov.uk/uksi/2011/3026).
+
+[^f00004]: Footnote: [S.I. 1987/257](https://www.legislation.gov.uk/uksi/1987/257). Relevant amendments were made by [S.I. 1990/805](https://www.legislation.gov.uk/uksi/1990/805) and [S.I. 2004/2354](https://www.legislation.gov.uk/uksi/2004/2354).
+
+[^f00005]: Footnote: [S.I. 2006/3415](https://www.legislation.gov.uk/uksi/2006/3415).

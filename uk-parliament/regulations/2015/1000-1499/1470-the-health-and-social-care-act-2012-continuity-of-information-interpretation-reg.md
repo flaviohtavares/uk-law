@@ -1,0 +1,175 @@
+---
+title: 'The Health and Social Care Act 2012 (Continuity of Information: Interpretation) Regulations 2015'
+id: uksi/2015/1470
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-07-01'
+text_date: '2026-07-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/1470
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1470/pdfs/uksiem_20151470_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1470/pdfs/uksi_20151470_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1470/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Social Care Act 2012 (Continuity of Information: Interpretation) Regulations 2015
+
+> Text as at 2026-07-26.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 1470
+
+National Health Service, England
+
+Social Care, England
+
+Public Health, England
+
+The Health and Social Care Act 2012 (Continuity of Information: Interpretation) Regulations 2015
+
+Made
+
+1st July 2015
+
+Laid before Parliament
+
+7th July 2015
+
+Coming into force
+
+1st October 2015
+
+The Secretary of State makes the following regulations in exercise of the powers conferred by section 251C(3) and (4) of the Health and Social Care Act 2012[^f00001].
+
+## 1. Citation, commencement, and interpretation[^key-a7a5fe3d00dee9dcffcd562624d1e9c0]
+
+(1) These Regulations may be cited as the Health and Social Care Act 2012 (Continuity of Information: Interpretation) Regulations 2015.
+
+(2) These Regulations come into force on 1st October 2015.
+
+(3) In these Regulations—
+
+- “the Act” means the Health and Social Care Act 2012;
+- “local authority” means–
+  - (a) a county council in England;
+  - (b) a metropolitan district council;
+  - (c) a non-metropolitan district council for an area for which there is no county council;
+  - (d) a London borough council;
+  - (e) the Common Council of the City of London; or
+  - (f) the Council of the Isles of Scilly;
+- “children’s social services functions” means, in relation to a local authority, functions for which the authority’s director of children’s services is responsible under section 18(2)(b), (c), and (d) of the Children Act 2004[^f00002];
+- “relevant care functions” has the same meaning as in section 1(2) of the Children and Young Persons Act 2008[^f00003].
+
+## 2. Excluded persons[^key-6f36100039fd549d47fbd2302d44145f]
+
+The persons in the Schedule to these Regulations are excluded from the definition of “relevant health or adult social care commissioner or provider” as defined in section 251C(2) of the Act.
+
+Signed by authority of the Secretary of State for Health.
+
+George Freeman
+
+Parliamentary Under-Secretary of State
+
+Department of Health
+
+1st July 2015
+
+## SCHEDULE — RELEVANT HEALTH OR ADULT SOCIAL CARE COMMISSIONER OR PROVIDER; EXCLUDED PERSONS[^key-ce22c75b1b830a5a60da165745ce35af]
+
+Regulation 2
+
+[^key-ce22c75b1b830a5a60da165745ce35af]
+
+The following persons are excluded from the definition of “relevant health or adult social care commissioner or provider” for the purposes of sections 251A, 251B and 251C of the Act–
+
+- (a) a local authority in the exercise of its children’s social services functions;
+- (b) a body corporate exercising relevant care functions under arrangements with a local authority under section 1(1) of the Children and Young Persons Act 2008[^f00004];
+- (c) a person exercising functions of a local authority in accordance with a direction by the Secretary of State under section 497A of the Education Act 1996[^f00005] or section 15(6) of the Local Government Act 1999[^f00006];
+- (d) a local authority in the exercise of its functions under Part 1 of the Childcare Act 2006[^f00007];
+- (e) a person who is registered to carry on a children’s home (as defined in section 1 of the Care Standards Act 2000[^f00008]);
+- (f) a person who is registered to carry on a residential family centre (as defined in section 4 of the Care Standards Act 2000);
+- (g) a person who is registered to carry on a holiday scheme for disabled children which is subject to Part 2 of the Care Standards Act 2000 by virtue of regulations made under section 42(1) of that Act;
+- (h) a person who is registered to carry on a fostering agency (as defined in section 4 of the Care Standards Act 2000);
+- (i) a person who is registered to carry on a registered adoption society (as defined in section 2(2) of the Adoption and Children Act 2002[^f00009]);
+- (j) a person who is registered to carry on an adoption support agency (as defined in section 8 of the Adoption and Children Act 2002);
+- (k) the governing body of a maintained school (as defined in section 20(7) of the School Standards and Framework Act 1998[^f00010]);
+- (l) the governing body of a maintained nursery school (as defined in section 22(9) of the Schools Standards and Framework Act 1998);
+- (m) a person providing a service, or carrying on or managing an activity, at a children’s centre (as defined in section 5A(4) of the Childcare Act 2006);
+- (n) a person providing childcare (as defined in section 18 of the Childcare Act 2006) who is required, or may apply, to be registered under Part 3 of that Act;
+- (o) the proprietor of an independent educational institution (within the meaning of section 92(1)(a) of the Education and Skills Act 2008[^f00011]) entered on a register of independent educational institutions in England kept under section 95 of that Act;
+- (p) the proprietor of a school approved under section 342 of the Education Act 1996 (non-maintained special schools);
+- (q) the proprietor of an Academy school (as defined in section 1A(3) of the Academies Act 2010[^f00012]);
+- (r) the proprietor of a 16 to 19 Academy (as defined in section 1B(3) of the Academies Act 2010);
+- (s) the proprietor of an alternative provision Academy (as defined in section 1C(3) of the Academies Act 2010);
+- (t) a person providing education under arrangements made with the persons mentioned in paragraphs (q), (r) and (s);
+- (u) a further education corporation in England (as defined in section 90(1) of the Further and Higher Education Act 1992[^f00013]);
+- (v) a sixth form college corporation (as defined in section 90(1) of the Further and Higher Education Act 1992);
+- (w) the proprietor of a special post-16 institution (as defined in section 83(2) of the Children and Families Act 2014[^f00014]);
+- (x) a local authority in the exercise of its duty to make arrangements under section 19 of the Education Act 1996 (exceptional provision of education in pupil referral units or elsewhere);
+- (y) a person providing education under such arrangements referred to in (x);
+- (z) a person who is responsible for conducting the establishment where education referred to in (y) is being delivered;
+- (aa)[^key-93affcb63cefd5fca9ec5018b21a8e71] a person providing—
+  - (i) instruction or training pursuant to a requirement imposed by a governing body of a maintained school under [section 29](https://www.legislation.gov.uk/ukpga/2002/32/section/29)[(3)](https://www.legislation.gov.uk/ukpga/2002/32/section/29) of the [Education Act 2002](https://www.legislation.gov.uk/ukpga/2002/32/contents) (requirement for pupils to attend at a place outside school premises for instruction or training), or
+  - (ii) education pursuant to a requirement imposed by a governing body of a maintained school, a proprietor of an Academy school or alternative provision Academy, or a management committee of a pupil referral unit under [section 29A](https://www.legislation.gov.uk/ukpga/2002/32/section/29A) of the [Education Act 2002](https://www.legislation.gov.uk/ukpga/2002/32/contents) (educational provision for improving behaviour);
+- (bb) a person who is responsible for conducting the establishment where education, instruction[^key-1ee1b282e7f4577e684b77bed20f10e7] or training referred to in (aa) is being delivered;
+- (cc) a person providing education under arrangements made by a governing body or proprietor of a school in the exercise of the body’s or proprietor’s duty under section 100 of the Education and Inspections Act 2006[^f00016] (duty of governing body or proprietor where pupil excluded for fixed period);
+- (dd) a person who is responsible for conducting the establishment where education referred to in (cc) is being delivered.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, made under sections 251C(3) and (4) of the Health and Social Care Act 2012 (“the Act”) as inserted by section 4 of the Health and Social Care (Safety and Quality) Act 2015 (“the 2015 Act”), provide for the persons to be excluded from the definition of “relevant health or adult social care commissioner or provider” for the purposes of sections 251A, 251B and 251C of the Act.
+
+A full impact assessment has not been produced for this instrument as the Regulations themselves have no impact on the private sector or civil society organisations. A full impact assessment has been produced in relation to the provisions of the 2015 Act, and copies are available at http://www.parliament.uk/documents/impact-assessments/IA14-23.pdf and from The Department of Health, Richmond House, 79 Whitehall, SW1A 2NS.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7). Section 251C was inserted by section 4 of the Health and Social Care (Safety and Quality) Act [2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28).
+
+[^key-a7a5fe3d00dee9dcffcd562624d1e9c0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1) in force at 1.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1/2)
+
+[^f00002]: Footnote: [2004 c.31](https://www.legislation.gov.uk/ukpga/2004/31).
+
+[^f00003]: Footnote: [2008 c.23](https://www.legislation.gov.uk/ukpga/2008/23).
+
+[^key-6f36100039fd549d47fbd2302d44145f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1470/regulation/2) in force at 1.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1/2)
+
+[^key-ce22c75b1b830a5a60da165745ce35af]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/1470/schedule) in force at 1.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1/2)
+
+[^f00004]: Footnote: Regulation 3 of the Children and Young Persons Act 2008 (Relevant Care Functions) (England) Regulations 2014 ([S.I. 2014/2407](https://www.legislation.gov.uk/uksi/2014/2407)) makes further provision as to functions of a local authority in England that are to be treated as being relevant care functions.
+
+[^f00005]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^f00006]: Footnote: [1999 c.27](https://www.legislation.gov.uk/ukpga/1999/27).
+
+[^f00007]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^f00008]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^f00009]: Footnote: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^f00010]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00011]: Footnote: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25).
+
+[^f00012]: Footnote: [2010 c.32](https://www.legislation.gov.uk/ukpga/2010/32).
+
+[^f00013]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
+
+[^f00014]: Footnote: [2014 c.6](https://www.legislation.gov.uk/ukpga/2014/6).
+
+[^key-93affcb63cefd5fca9ec5018b21a8e71]: Textual amendment: [Sch. para. (aa)](https://www.legislation.gov.uk/uksi/2015/1470/schedule) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/558/regulation/9/a)
+
+[^key-1ee1b282e7f4577e684b77bed20f10e7]: Textual amendment: Word in [Sch. para. (bb)](https://www.legislation.gov.uk/uksi/2015/1470/schedule) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/558/regulation/9/b)
+
+[^f00016]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).

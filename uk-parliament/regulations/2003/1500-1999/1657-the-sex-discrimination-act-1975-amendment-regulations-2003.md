@@ -1,0 +1,154 @@
+---
+title: The Sex Discrimination Act 1975 (Amendment) Regulations 2003
+id: uksi/2003/1657
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-06-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/1657
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1657/pdfs/uksi_20031657_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1657/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sex Discrimination Act 1975 (Amendment) Regulations 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 1657
+
+SEX DISCRIMINATION
+
+The Sex Discrimination Act 1975 (Amendment) Regulations 2003
+
+Made
+
+26th June 2003
+
+Laid before Parliament
+
+27th June 2003
+
+Coming into force
+
+19th July 2003
+
+The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to discrimination, in the exercise of the powers conferred by that section, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Sex Discrimination Act 1975 (Amendment) Regulations 2003 and shall come into force on 19th July 2003.
+
+(2) In these Regulations “the Act” means the Sex Discrimination Act 1975[^f00003].
+
+## 2. Police
+
+(1) Section 17 of the Act[^f00004] is amended as follows.
+
+(2) In paragraph (b) of subsection (1), for the word “them” substitute “it”.
+
+(3) After subsection (1) insert—
+
+> (1A) For the purposes of section 41—
+>
+> - (a) the holding of the office of constable shall be treated as employment by the chief officer of police (and as not being employment by any other person); and
+> - (b) anything done by a person holding such an office in the performance, or purported performance, of his functions shall be treated as done in the course of that employment.
+
+(4) After subsection (5) insert—
+
+> (5A) A police authority may, in such cases and to such extent as appear to it to be appropriate, pay out of the police fund—
+>
+> - (a) any compensation, costs or expenses awarded in proceedings under this Act against a person under the direction and control of the chief officer of police;
+> - (b) any costs or expenses incurred and not recovered by such a person in such proceedings; and
+> - (c) any sum required in connection with the settlement of a claim that has or might have given rise to such proceedings.
+
+(5) In subsection (6), after the words “Subsections (1)”, insert “, (1A)”.
+
+(6) At the beginning of subsection (7) insert the words “Subject to subsection (9),”.
+
+(7) In subsection (7), in the definition of “chief officer of police” in paragraph (b), after the words “the officer” insert “or other person”.
+
+(8) In subsection (7), in the definition of “police authority”, after paragraph (a) insert—
+
+> - (aa) in relation to a person appointed, or an appointment falling to be made, under section 9(1)(b) or 55(1)(b) of the Police Act 1997[^f00005], means the Service Authority for the National Criminal Intelligence Service or, as the case may be, the Service Authority for the National Crime Squad,
+
+.
+
+(9) After subsection (8) insert—
+
+> (9) In relation to a constable of a force who is not under the direction and control of the chief officer of police for that force, references in this section to the chief officer of police are references to the chief officer for the force under whose direction and control he is, and references in this section to the police authority are references to the relevant police authority for that force.
+
+## 3. Discrimination after a relevant relationship has come to an end
+
+After section 20 of the Act, insert the following section—
+
+> **Relationships which have come to an end**
+>
+> **20A. Relationships which have come to an end**
+>
+> (1) This section applies where—
+>
+> - (a) there has been a relevant relationship between a woman and another person (“the relevant person”), and
+> - (b) the relationship has come to an end (whether before or after the commencement of this section).
+>
+> (2) In this section, a “relevant relationship” is a relationship during the course of which an act of discrimination by one party to the relationship against the other party to it is unlawful under any preceding provision of this Part.
+>
+> (3) It is unlawful for the relevant person to discriminate against the woman by subjecting her to a detriment where the discrimination arises out of and is closely connected to the relevant relationship.
+
+**4.** After section 35B of the Act[^f00006], insert the following section—
+
+> **Relationships which have come to an end**
+>
+> **35C. Relationships which have come to an end**
+>
+> (1) This section applies where—
+>
+> - (a) there has been a relevant relationship between a woman and another person (“the relevant person”), and
+> - (b) the relationship has come to an end (whether before or after the commencement of this section).
+>
+> (2) In this section, a “relevant relationship” is a relationship during the course of which an act of discrimination by one party to the relationship against the other party to it is unlawful under—
+>
+> - (a) section 35A or 35B, or
+> - (b) any other provision of this Part, so far as the provision applies to vocational training.
+>
+> (3) It is unlawful for the relevant person to discriminate against the woman by subjecting her to a detriment where the discrimination arises out of and is closely connected to the relevant relationship.
+
+Jacqui Smith,
+
+Minister for Industry and the Regions and Deputy Minister for Women and Equality,
+
+Department of Trade and Industry
+
+26th June 2003
+
+(This note is not part of the Regulations)
+
+These Regulations, which amend the Sex Discrimination Act 1975 (“the Act”), come into force on 19th July 2003.
+
+Regulation 2 amends section 17 of the Act, which is one of the provisions which implements the Equal Treatment Directive[^f00007], and which deals with discrimination concerning police officers. The main effect of this regulation is to treat police officers as being in the employment of the chief officer for the police force in question for the purpose of section 41 of the Act. This is to ensure that the chief officer will be liable for unlawful acts done by officers of the force in the course of their functions. Other amendments clarify provisions relating to police authorities and deal with the treatment of a case where a police officer carries out functions for another force.
+
+Regulations 3 and 4 insert two new sections into the Act. New section 20A prohibits discrimination after the end of a relationship which is governed by Part 2 of the Act (for example, employment or partnership) if the act of discrimination arises out of and is closely connected to the relationship. New section 35C makes an equivalent provision in relation to relationships which are governed by sections 35A (barristers), 35B (advocates), or other provisions of Part 3 of the Act which apply to vocational training. These Regulations make clear that such acts of discrimination are unlawful under the Act, reflecting the decision of the European Court of Justice in Coote v Granada Hospitality Ltd (Case C-185/97, judgment of 22 September 1998) on the interpretation of the Equal Treatment Directive.
+
+A copy of the Regulatory Impact Assessment and the Transposition Note relating to these Regulations has been placed in the libraries of both Houses of Parliament, and can be obtained from the Women and Equality Unit, Department of Trade and Industry, Second Floor, 35 Great Smith Street, London SW1P 3BQ.
+
+## Annotations
+
+[^f00001]: Footnote: See the European Communities (Designation) (No. 3) Order 2002 (S.I. [2002/1819](https://www.legislation.gov.uk/uksi/2002/1819)).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [1975 c. 65](https://www.legislation.gov.uk/ukpga/1975/65).
+
+[^f00004]: Footnote: Section 17 was amended by the Police Act [1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16), Schedule 7, paragraph 27 and the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50), Schedule 9, paragraph 31.
+
+[^f00005]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
+
+[^f00006]: Footnote: Sections 35A and 35B of the Act were inserted by the Courts and Legal Services Act [1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41), sections 64 and 65.
+
+[^f00007]: Footnote: Council Directive [76/207/EEC](https://www.legislation.gov.uk/european/directive/1976/0207) (OJ No. L 39, 14.2.1976, p. 40), as amended by Council Directive [2002/73/EC](https://www.legislation.gov.uk/european/directive/2002/0073) (OJ No. L 269, 5.10.2002, p. 15).

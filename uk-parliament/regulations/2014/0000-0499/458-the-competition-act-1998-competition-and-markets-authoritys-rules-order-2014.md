@@ -1,0 +1,472 @@
+---
+title: The Competition Act 1998 (Competition and Markets Authority's Rules) Order 2014
+id: uksi/2014/458
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-02-27'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/458
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/458/pdfs/uksiem_20140458_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/458/pdfs/uksi_20140458_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/458/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Competition Act 1998 (Competition and Markets Authority's Rules) Order 2014
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 458
+
+Competition
+
+The Competition Act 1998 (Competition and Markets Authority's Rules) Order 2014
+
+Made
+
+27th February 2014
+
+Laid before Parliament
+
+3rd March 2014
+
+Coming into force
+
+1st April 2014
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 51(5) and (6), 71(3), 75A(3) and (4) of the Competition Act 1998 [^c22025971].
+
+In accordance with section 51(1) and 75A(1) and Schedule 9 of the Competition Act 1998 [^c22025981], the Competition and Markets Authority (“the CMA”) has made rules about procedural and other matters in connection with the carrying into effect of provisions of Parts 1, 2 and 2A of the Competition Act 1998.
+
+In accordance with section 28 of the Enterprise and Regulatory Reform Act 2013 [^c22025991] and sections 51(3) and 75A(2) of the Competition Act 1998, the Office of Fair Trading (the “OFT”) has consulted such persons it considered appropriate in preparing the rules.
+
+In accordance with section 28 of the Enterprise and Regulatory Reform Act 2013 and section 51(4) of the Competition Act 1998, the OFT has consulted the regulators mentioned in section 54(1) of the Competition Act 1998 in respect of matters of concurrent jurisdiction.
+
+In accordance with section 28(3) of the Enterprise and Regulatory Reform Act 2003, the CMA has elected to treat the consultation carried out by the OFT as carried out by the CMA.
+
+## 1. Citation and Commencement
+
+This Order may be cited as the Competition Act 1998 (Competition and Markets Authority's Rules) Order 2014 and shall come into force on 1st April 2014.
+
+## 2. Approval of the Competition and Market Authority's Rules
+
+The Secretary of State approves the Rules made by the CMA set out in the Schedule.
+
+## 3. Revocation
+
+The Competition Act 1998 (Office of Fair Trading's Rules) Order 2004 [^c22026001] is revoked.
+
+Vince Cable
+
+Secretary of State for Business, Innovation and Skills and President of the Board of Trade
+
+Department for Business, Innovation and Skills
+
+## SCHEDULE — Competition and Markets Authority's Competition Act 1998 Rules[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+Article 2
+
+### 1. Interpretation[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) In these Rules—
+
+- “**the Act**” means the Competition Act 1998;
+- “**CMA**” means the Competition and Markets Authority;
+- “**confidential information**” means—
+  - (a) commercial information whose disclosure the CMA or a regulator thinks might significantly harm the legitimate business interests of the undertaking to which it relates, or
+  - (b) information relating to the private affairs of an individual whose disclosure the CMA or a regulator thinks might significantly harm the individual's interests, or
+  - (c) information whose disclosure the CMA or a regulator thinks is contrary to the public interest;
+- “[^key-a9cf5c189f1a1941dcade64777636d45]**infringement decision**” means a decision of the CMA that the Chapter I prohibition or the Chapter II prohibition has been infringed;
+- “**internal document**” means—
+  - (a) a document produced by, or exchanged between, the CMA, a regulator or another public authority and which has not been produced for the purpose of public disclosure by the CMA, a regulator or another public authority, or
+  - (b) a document produced by, or exchanged between, any person from time to time retained under a contract for services by the CMA, a regulator or another public authority and the CMA, a regulator or another public authority and which has not been produced for the purpose of public disclosure;
+- “**notice**” means a notice that the CMA is required to give to a person under any of—
+  - (a) rule 5,
+  - (b) rule 11, or[^key-dc960cb7c0fc6b7eea8a2540ece88d7c]
+  - (c) rule 15(3)[^key-1f76fab000f36ebe8b56f4fb3606f5a9]...
+  - (d) [^key-1f76fab000f36ebe8b56f4fb3606f5a9]...
+- “**oral hearing**” means a hearing in which a relevant party may make oral representations on any matter referred to in a notice;
+- “**Procedural Officer**” means any relevant person who is required to exercise any function under rules 6(5) and 8(1);
+- “**public authority**” includes—
+  - (a) in the United Kingdom, a court or tribunal and any person exercising functions of a public nature, and
+  - (b) in any country or territory outside the United Kingdom, a court or tribunal and any person or body which appears to the CMA or a regulator to be exercising functions of a public nature;
+- “**relevant party**” means a person to whom a notice is required to be given, except where the CMA does not address a proposed infringement decision or infringement decision to that person in accordance with rules 5(3) or 10(2);
+- “**relevant person**” means any of the following categories of person who has been authorised by the CMA or a regulator's Board to exercise any function under these Rules—
+  - (a) one or more members of the CMA Board or a regulator's Board,
+  - (b) one or more members of the CMA panel or a regulator's Panel,
+  - (c) one or more members of staff of the CMA or a regulator,
+  - (d) jointly by one or more of the persons mentioned in paragraph (a), (b) or (c).
+
+(2) Except where these Rules otherwise provide, expressions used in the Act which are also used in these Rules have the same meaning in these Rules as they have in section 59 of the Act.
+
+(3) Any reference in these Rules to the CMA means the CMA or a regulator, except in—
+
+- (a) this rule,
+- (b) rule 20.
+
+### 2. Application of the Rules[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) [^key-c9484cefa21e986eb05c70c8bad1b2c6]... These Rules apply when the CMA takes investigation or enforcement action under the Act in relation to the Chapter I prohibition or the Chapter II prohibition.[^key-2b2fb3a5589fee755ee3aea5529cf3b6]
+
+(2)[^key-f0f149693fde49bfc38ca8b79f0e8258] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-bbcba2eaf2dc8a14e8f6a92db7365455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Delegation of functions[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) There is to be a relevant person who oversees the investigation under the Act and who is to decide whether notice of a proposed infringement decision under rule 5 is given.
+
+(2) Subject to rule 9(4) there is to be a different relevant person from the relevant person referred to in paragraph (1), who has not been involved in the investigation, who decides whether any supplementary notice of a proposed infringement decision under rule 5 is given, whether to make an infringement decision under rule 10 and whether to impose a penalty under rule 11.
+
+(3) For the purposes of paragraph (2) the different relevant person must comprise at least two relevant persons.
+
+### 4. Legal advice during investigations and inspections[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) An officer entering a premises must, upon request, allow a reasonable time for the occupier's legal adviser to arrive at the premises before the investigation continues, if the officer—
+
+- (a) considers it reasonable in the circumstances to do so, and
+- (b) is satisfied that such conditions as he considers it is appropriate to impose in granting the occupier's request are being, or will be, complied with.
+
+(2) A person required by the CMA under section 26(6)(a)(ii) or (b) [^key-8cbde72302a6146f6cdace3631c2daaf]... of the Act to provide an oral explanation of a document or orally confirm the location of a document may be accompanied by a legal adviser.
+
+(3) Where an individual is given notice under section 26A of the Act requiring them to answer questions immediately on receipt of the notice, an officer must upon request allow a reasonable time for the individual's legal adviser to arrive before starting the interview, if the officer—
+
+- (a) considers it reasonable in the circumstances to do so, and
+- (b) is satisfied that such conditions as he considers it appropriate to impose in granting the individual's request are being, or will be, complied with.
+
+(4) For the purposes of paragraphs (1) and (3), a “**reasonable time**” means such period of time as the officer considers is reasonable in the circumstances.
+
+(5) In this rule, “**officer**” means an investigating officer within the meaning of section 27(1) [^key-39ab073909d2b42d8e1a30b41f14c202]... of the Act or a named officer of the CMA authorised by a warrant issued under section 28 or 28A[^key-1ec1e2723171d95c73efabfc62afc000] of the Act.
+
+### 5. Statement of objections[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) If the CMA proposes to make an infringement decision, subject to rules 18 and 19, the notice referred to in paragraph (2) must be given to each person who the CMA considers is a party to the agreement, or is engaged in conduct, which the CMA considers infringes either or both[^key-dc8642ced1e6d247a3c9555dda6a2298] of the prohibitions mentioned in that paragraph.
+
+(2) The CMA must give notice stating whether it considers the Chapter I prohibition or the Chapter II prohibition or both[^key-7c2eb317adc7acd7e01134bacc96c0ac] has been infringed and the provisions of rule 6 are to apply.
+
+(3) Where the CMA considers that an agreement infringes the Chapter I prohibition [^key-aeec50951306832b6190e34634fc9cab]... the CMA may address that proposed infringement decision to fewer than all the persons who are or were party to that agreement or are or were engaged in that conduct.
+
+### 6. Notices, access to file and representations[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) A notice under rule 5 must state—
+
+- (a) the facts on which the CMA relies, the objections raised by the CMA, the action the CMA proposes and its reasons for the proposed action;
+- (b) the period within which a relevant party may make written representations to the CMA identifying the information contained in the notice which that relevant party considers the CMA should treat such information as confidential information; and
+- (c) the period within which a relevant party may make written representations to the CMA on the matters referred to in the notice.
+
+(2) The CMA must give a relevant party a reasonable opportunity to inspect the documents in the CMA's file that relate to the matters referred to in a notice given to that relevant party, except that the CMA may withhold any document—
+
+- (a) to the extent that it contains confidential information; or
+- (b) which is an internal document.
+
+(3) The CMA must offer a relevant party the opportunity to attend an oral hearing in order to make oral representations to the CMA on any matter referred to in a notice.
+
+(4) Where the relevant party confirms that it wishes to attend an oral hearing, the CMA must give that relevant party a reasonable opportunity to attend an oral hearing to make such oral representations.
+
+(5) The oral hearing must be chaired by a Procedural Officer who, other than in acting as the Procedural Officer under this rule or rule 8, has not been involved in the investigation in respect of which notice has been given.
+
+(6) The Procedural Officer must prepare a report following the hearing and give that report to the persons set out in rule 3(2) who are to decide whether to make an infringement decision.
+
+(7) The report must—
+
+- (a) contain an assessment of the fairness of the procedure followed in holding the oral hearing; and
+- (b) identify any other concerns about the fairness of the procedure followed in the investigation which have been brought to the attention of the person preparing the report in that person's role as the chairperson of the oral hearing.
+
+(8) Where, upon the expiry of the period mentioned in paragraph (1)(c), no written representations on the matters referred to in a notice given to a relevant party have been made by that relevant party, the CMA may proceed with the case in the absence of such written representations.
+
+(9) Where the CMA has given a relevant party a reasonable opportunity to make oral representations under paragraph (3) but no oral representations have been made, the CMA may proceed with the case in the absence of such representations.
+
+(10) Paragraph (1)(b) does not restrict the application of rule 7(1) and (2).
+
+### 7. Confidential information[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) Where a person who has supplied information to the CMA has made representations to the CMA identifying such information as being information that the CMA should treat as confidential information and the CMA proposes to disclose such information under these Rules, the CMA must take all reasonable steps to—
+
+- (a) inform that person of the CMA's proposed action; and
+- (b) give that person a reasonable opportunity to make representations to the CMA on the CMA's proposed action.
+
+(2) The CMA may at any time request a person who has supplied information to the CMA to make written representations to the CMA in respect of the information supplied—
+
+- (a) identifying the information which that person considers the CMA should treat as confidential information; or
+- (b) explaining why that person considers the CMA should treat the information as confidential information.
+
+(3) If a person who has supplied information to the CMA makes written representations to the CMA in respect of the information supplied identifying the information which that person considers the CMA should treat as confidential information or explaining why the CMA should treat the information as confidential information, whether or not such representations are made under this rule, the CMA may seek from that person such further clarification as the CMA considers is needed.
+
+(4) If the CMA requests any person to make representations or to give further clarification under this rule, the CMA may specify the period within which such representations or further clarification should be made.
+
+(5) For the purposes of this rule, where, in the CMA's opinion, information supplied to the CMA by any person relates to or originates from another person, that other person may be treated as a person who has supplied the information to the CMA.
+
+### 8. Procedural complaints[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) Complaints about the procedures followed during the course of an investigation under the Act may be made to a Procedural Officer. The Procedural Officer, who, other than in acting as Procedural Officer under this rule or rule 6, must not have been involved in the investigation, is to consider a significant procedural complaint where that complaint has not been determined or settled by the relevant person overseeing the investigation to the satisfaction of a complainant.
+
+(2) The Procedural Officer must give notice to the person who made the complaint of the decision in respect of the complaint within 20 working days.
+
+(3) The Procedural Officer may extend the period to give notice of the decision in respect of the complaint by no more than 20 working days if the Procedural Officer considers that there are special reasons why the notice of the decision in respect of the complaint cannot be given within the period under paragraph (2).
+
+### 9. Settlement[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) The CMA may decide to follow a settlement procedure in respect of an investigation under the Act where a party to that investigation—
+
+- (a) admits that it has been a party to an agreement or has been engaged in conduct which infringes the Chapter I prohibition or the Chapter II prohibition[^key-ab28a6d0b1f4a40ffd271701b9d01637] in relation to that investigation, and
+- (b) agrees to an expedited administrative procedure for the remainder of the investigation.
+
+(2) A single relevant person may only take the decision to follow a settlement procedure in respect of an investigation pursuant to paragraph (1) if a different relevant person approves that decision.
+
+(3) For the purposes of paragraph (2) the different relevant person must comprise at least two relevant persons.
+
+(4) Where a single relevant person takes the decision to follow a settlement procedure pursuant to paragraph (1) that relevant person may also propose to make an infringement decision under rule 5 and take the decision to make an infringement decision under rule 10 in respect of that investigation.
+
+(5) Where the CMA decides to follow a settlement procedure pursuant to paragraph (1) the CMA must comply with rule 5 to the extent that it has not already been complied with and rule 10.
+
+(6) Where the CMA decides to follow a settlement procedure pursuant to paragraph (1), the CMA may elect to impose a penalty on that party and the provisions of rule 12(2)(a) and 12(4) are to apply.
+
+### 10. Notice of decision[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) Where the CMA has made an infringement decision, it must without delay—
+
+- (a) subject to rules 18 and 19, give notice of the infringement decision to each person to whom the CMA considers is or was a party to the agreement, or is or was engaged in conduct, stating the facts on which the CMA bases the infringement decision and the CMA's reasons for making the infringement decision; and
+- (b) publish the infringement decision.
+
+(2) Where the CMA considers that an agreement infringes the Chapter I prohibition [^key-2eaf0f4241a8e06c8c0df11682eedbed]... the CMA may address an infringement decision to fewer than all the persons who are or were party to that agreement or are or were engaged in that conduct.
+
+(3) The CMA may delay publication of the infringement decision under paragraph (1)(b) where the CMA considers that such publication may prejudice a criminal investigation or prosecution pursuant to section 192 of the Enterprise Act 2002 relating to the same or similar agreement or conduct.
+
+(4) Where the CMA has made a decision that there are no grounds for action in respect of—
+
+- (a) an agreement either because the conditions of the Chapter I prohibition are not met or because the agreement is excluded from the Chapter I prohibition or satisfies the conditions in section 9(1) of the Act; or
+- (b)[^key-cd7cd5a83b3c484f3f14e02fc41ad20c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) conduct because the conditions of the Chapter II prohibition [^key-d3b6d5e67d4912ff2bb430a962377c9f]... are not met;
+
+the CMA must without delay, subject to rules 18 and 19, give notice of the decision, to any person whom it has undertaken to inform of the decision and to any person in respect of whom the CMA or an officer has issued any notice under rule 5, stating the facts on which the CMA bases the decision and the CMA's reasons for making the decision.
+
+(5) Where the CMA is required to give notice of a decision under paragraph (4), it may publish the decision.
+
+(6) In this rule, “**officer**” has the same meaning as in rule 4.
+
+### 11. Notice of proposed penalty[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+If the CMA proposes to require an undertaking to pay a penalty under section 36 of the Act—
+
+- (a) the CMA must give notice of this to the undertaking stating whether it considers the Chapter I prohibition or the Chapter II prohibition or both[^key-86af0a411e59d4daddb8ddb7cf79ce11] has been infringed; and
+- (b) the provisions of rule 6 are to apply to the extent that they have not already been applied.
+
+### 12. Directions and penalties[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) Where the CMA gives a direction to a person under section 32 or 33 of the Act, it must at the same time inform that person in writing of the facts on which it bases the direction and its reasons for giving the direction.
+
+(2) If the CMA requires an undertaking to pay a penalty under section 36 of the Act—
+
+- (a) the CMA must at the same time inform that undertaking in writing of the facts on which it bases the penalty and its reasons for requiring that undertaking to pay the penalty; and
+- (b) the provisions of rule 11 are to apply to the extent that they have not already been applied.
+
+(3) The CMA must publish directions given under section 32 or 33 of the Act.
+
+(4) The CMA must publish penalties imposed under section 36 of the Act.
+
+### 13. Interim measures[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) Subject to paragraph (2), if the CMA proposes to give a direction under section 35 of the Act, it must give each person to whom it proposes to give the direction a reasonable opportunity to inspect the documents in the CMA's file relating to the proposed direction.
+
+(2) The CMA may withhold any document—
+
+- (a) to the extent that it contains confidential information; or
+- (b) which is an internal document.
+
+(3) When giving a person an opportunity to make representations under section 35(3)(b) of the Act, the CMA must specify the period within which that person may make such representations.
+
+(4) Where the CMA gives a direction to a person under section 35 of the Act, it must at the same time inform that person in writing of the facts on which it bases the direction and its reasons for giving the direction, and it must publish the direction.
+
+### 14. Election to apply a relevant prohibition to a case[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) The CMA may, at any time prior to making an infringement decision, elect to apply the Chapter I prohibition or the Chapter II prohibition to a case[^key-9777d8c2fb1d1af8f1fc9df203d7bdae] (whether or not any such election has previously been made by the CMA in that case).
+
+(2)[^key-6f655c84b79652b1a0095873bb7fc980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-6f655c84b79652b1a0095873bb7fc980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-6f655c84b79652b1a0095873bb7fc980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Cancellation, etc. of a retained exemption[^key-59daba8e59ce1ee45a2e008f2ae64d1e][^key-de31f4b5f332a1b41790ce10ac625dc7]
+
+(1) The circumstances in which the CMA may exercise the powers in section 10(5)(a), 10(5)(c) and 10(5)(d) of the Act are where it finds that an agreement which benefits from a retained exemption[^key-6babb987defc01cb19654a6f6c7b65bf] nevertheless has effects in the United Kingdom, or a part of it, which are incompatible with the conditions laid down in section 9(1) of the Act.
+
+(2) The circumstances in which the CMA may exercise the powers in section 10(5)(b) of the Act are where, having previously exercised the powers in section 10(5)(a) or 10(5)(c) of the Act in respect of an agreement, the CMA finds that—
+
+- (a) as a result of a material change in circumstances since the exercise of those powers, any condition or obligation it has imposed in exercise of those powers is no longer necessary to ensure that the effects of the agreement in the United Kingdom, or a part of it, are compatible with the conditions laid down in section 9(1) of the Act; or
+- (b) as a result of a material change in circumstances since the exercise of those powers, or as a result of information supplied in response to a notice given under paragraph (3) being incomplete, false or misleading in a material particular, the agreement has effects in the United Kingdom, or a part of it, which are incompatible with the conditions laid down in section 9(1) of the Act.
+
+(3) Subject to rules 18 and 19, if (other than in the circumstances referred to in paragraph (2)(a)) the CMA proposes to exercise any of the powers in section 10(5) of the Act it must give notice to each person who it considers is a party to the agreement and the provisions of rule 6 are to apply.
+
+(4) Subject to rules 18 and 19, if the CMA proposes to exercise any of the powers in section 10(5)(b) of the Act in the circumstances referred to in paragraph (2)(a) it must consult each person who it considers is a party to the agreement.
+
+(5) If the CMA proposes to exercise any of the powers in section 10(5) of the Act it may consult the public.
+
+(6) If the CMA has made a decision in exercise of any of its powers in section 10(5) of the Act it must—
+
+- (a) subject to rules 18 and 19, give notice of the decision to each person who the CMA considers is a party to the agreement, stating the facts on which it bases the decision and its reasons for the decision; and
+- (b) publish the decision.
+
+### 16. Withdrawal of the benefit of a Commission Regulation pursuant to Article 29(2) of the EC Competition Regulation[^key-0eff38b9b64b6047fc037e3f34cc7a6e][^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Withdrawal of an exclusion[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) Subject to rules 18 and 19, if the CMA proposes to give a direction under paragraph 4 of Schedule 1 to the Act or paragraph 9 of Schedule 3 to the Act, or in accordance with an order made under section 50 of the Act, to the effect that an exclusion made by a provision specified in paragraph (2) does not apply to an agreement, it must consult each person who it considers is a party to the agreement.
+
+(2) The provisions specified for the purposes of paragraph (1) are—
+
+- (a) paragraph 1 of Schedule 1 to the Act;
+- (b) paragraph 9(1) of Schedule 3 to the Act; and
+- (c) an order made under section 50 of the Act.
+
+(3) The period specified for the purposes of paragraph 4(4) of Schedule 1 to the Act and paragraph 9(6) of Schedule 3 to the Act is ten working days starting with the date the notice is given.
+
+(4) If the CMA has given a direction referred to in paragraph (1), it must publish the direction.
+
+### 18. Associations of undertakings and government organisations[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) Where the Rules require the CMA to give notice of any matter to an association of undertakings, the CMA is to give such notice to the director, secretary, manager or other similar officer of the association on its behalf.
+
+(2) Where the Rules require the CMA to give notice of any matter to each of more than twenty members of an association of undertakings the CMA may, instead of giving such notice to any such member, give such notice to the director, secretary, manager or other similar officer of the association or government organisation on that member's behalf.
+
+### 19. Time limits and giving notice[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) Where—
+
+- (a) the CMA has taken all reasonable steps to give notice to a person under rules 5, 10(1)(a), 10(4), 15(3), 15(4), 15(6)(a)[^key-d1ca80cbd38ba10da320bd1f22097d61]... or 17(1) but does not consider that the notice has been received; or
+- (b) in accordance with rules 5(3) and 10(2), an infringement decision or proposed infringement decision is not addressed to a person under rules 5, 10(1)(a), 10(4), 15(3), 15(4), 15(6)(a)[^key-86ca1b821d48c8bf0005d6a66424662f]... or 17(1),
+
+the CMA may publicise the matter in accordance with paragraph (2) in order to give notice to that person.
+
+(2) The CMA may publicise the matter by—
+
+- (a) publishing a summary of the notice by means of entry in the register maintained by the CMA under rule 20; and
+- (b) providing for a reference to the summary of the notice published in that register to be published in—
+  - (i) the London Gazette, the Edinburgh Gazette and the Belfast Gazette;
+  - (ii) at least one national daily newspaper; and
+  - (iii) if there is in circulation an appropriate trade journal which is published at intervals not exceeding one month, in such trade journal.
+
+(3) Except where paragraph (1) applies, where the Rules allow or require notice to be given to a person, such notice is to be treated as having been given on the date on which that person receives it.
+
+(4) Where paragraph (1) applies, the notice is to be treated as having been given on the date of its publication in accordance with paragraph (2).
+
+(5) Any notice given under the Rules must be in writing.
+
+(6) Where the time prescribed by the Rules for performing an action expires on a non-working day, the action is in time if done at or before 5.30 p.m. on the following working day.
+
+(7) Where an action required by the Rules is performed on a non-working day, or after 5.30 p.m. on a working day, the action is deemed to be completed on the following working day.
+
+### 20. Public register[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) The CMA must maintain a register in which there must be entered—
+
+- (a) all decisions required to be published under the Rules;
+- (b) all decisions published under rule 10(5);
+- (c) all directions required to be published under the Rules;
+- (d) all notices required to be published under rule 21(2); and
+- (e) all penalties required to be published under rule 12(4).
+
+(2) The register is to be open to public inspection—
+
+- (a) at the CMA's head office between 10.00 a.m. and 4.30 p.m. on every working day; and
+- (b) on the CMA's website.
+
+### 21. Consultation[^key-59daba8e59ce1ee45a2e008f2ae64d1e]
+
+(1) Where the CMA, if it proposes to take action, is required to consult a person under the Rules, it must—
+
+- (a) subject to rules 18 and 19, give notice to that person; and
+- (b) state in that notice the action the CMA proposes to take, its reasons for proposing such action and the period within which that person may make written representations to the CMA on these matters.
+
+(2) Where the CMA, if it proposes to take action—
+
+- (a) is required to consult the public under the Rules; or
+- (b) proposes to consult the public in exercise of its discretion to do so under the Rules,
+
+it must publish a notice stating the action it proposes to take, its reasons for proposing such action and the period within which written representations may be made to the CMA on these matters.
+
+*(This note is not part of the Order)*
+
+This Order contains rules for Competition Act 1998 investigations by the Competition and Markets Authority and sectoral regulators (defined in section 54(1) of the Competition Act 1998).
+
+The Secretary of State approves the Rules made by the Competition and Markets Authority (Article 2).
+
+The Order revokes the Competition Act 1998 (Office of Fair Trading's Rules) Order 2004 (Article 3).
+
+The Schedule to this Order contains the Rules which are approved by the Secretary of State.
+
+The impact assessment completed for Parts 3 and 4 of the Enterprise and Regulatory Reform Bill, introduced to Parliament on 23rd May 2012, contains an assessment of the effect that the reforms to the competition regime will have on the costs of business and the public and voluntary sector and can be found at the website: https://www.gov.uk/government/publications/strengthening-competition-and-creating-a-single-market-authority.
+
+## Annotations
+
+[^c22025971]: Marginal citation: [1998 c.41](https://www.legislation.gov.uk/ukpga/1998/41); [sections 51(5)](https://www.legislation.gov.uk/uksi/2014/458/section/51/5), (6), 75A(3), (4) were amended by the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), [Schedule 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5), [paragraphs 31(4)](https://www.legislation.gov.uk/ukpga/2013/24/paragraph/31/4) and 52; [sections 75A(3)](https://www.legislation.gov.uk/uksi/2014/458/section/75A/3) and (4) were inserted by [S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261).
+
+[^c22025981]: Marginal citation: [Sections 51(1)](https://www.legislation.gov.uk/uksi/2014/458/section/51/1), [75A(1)](https://www.legislation.gov.uk/uksi/2014/458/section/75A/1) and Schedule 9 were amended by the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), [Schedule 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5), [paragraphs 31(2)](https://www.legislation.gov.uk/ukpga/2013/24/paragraph/31/2), [52](https://www.legislation.gov.uk/ukpga/2013/24/paragraph/52) and 58.
+
+[^c22025991]: Marginal citation: [2013 c.24](https://www.legislation.gov.uk/ukpga/2013/24).
+
+[^c22026001]: Marginal citation: [S.I. 2004/2751](https://www.legislation.gov.uk/uksi/2004/2751).
+
+[^key-59daba8e59ce1ee45a2e008f2ae64d1e]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2014/458/schedule) modified (31.12.2020) by S.I. 2019/93, Sch. 4 para. 8C(4) (as inserted by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [37(2)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/37/2))
+
+[^key-a9cf5c189f1a1941dcade64777636d45]: Textual amendment: Words in [Sch. rule 1](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/2/a) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dc960cb7c0fc6b7eea8a2540ece88d7c]: Textual amendment: Word in [Sch. rule 1](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/1) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/2/b/i) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1f76fab000f36ebe8b56f4fb3606f5a9]: Textual amendment: Words in [Sch. rule 1](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/1) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/2/b/ii) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c9484cefa21e986eb05c70c8bad1b2c6]: Textual amendment: Words in [Sch. rule 2(1)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/2/1) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/3/a/i) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2b2fb3a5589fee755ee3aea5529cf3b6]: Textual amendment: Words in [Sch. rule 2(1)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/2/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/3/a/ii) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f0f149693fde49bfc38ca8b79f0e8258]: Textual amendment: [Sch. rule 2(2)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/2/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/3/b) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bbcba2eaf2dc8a14e8f6a92db7365455]: Textual amendment: [Sch. rule 2(3)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/2/3) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/3/b) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8cbde72302a6146f6cdace3631c2daaf]: Textual amendment: Words in [Sch. rule 4(2)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/4/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-39ab073909d2b42d8e1a30b41f14c202]: Textual amendment: Words in [Sch. rule 4(5)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/4/5) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1ec1e2723171d95c73efabfc62afc000]: Textual amendment: Words in [Sch. rule 4(5)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/4/5) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dc8642ced1e6d247a3c9555dda6a2298]: Textual amendment: Words in [Sch. rule 5(1)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/5/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/5/a) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7c2eb317adc7acd7e01134bacc96c0ac]: Textual amendment: Words in [Sch. rule 5(2)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/5/2) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/5/b) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aeec50951306832b6190e34634fc9cab]: Textual amendment: Words in [Sch. rule 5(3)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/5/3) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(5)(c)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/5/c) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ab28a6d0b1f4a40ffd271701b9d01637]: Textual amendment: Words in [Sch. rule 9(1)(a)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/9/1/a) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/6) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2eaf0f4241a8e06c8c0df11682eedbed]: Textual amendment: Words in [Sch. rule 10(2)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/10/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(7)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/7/a) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cd7cd5a83b3c484f3f14e02fc41ad20c]: Textual amendment: [Sch. rule 10(4)(b)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/10/4/b) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/7/b/i) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d3b6d5e67d4912ff2bb430a962377c9f]: Textual amendment: Words in [Sch. rule 10(4)(c)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/10/4/c) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/7/b/ii) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-86af0a411e59d4daddb8ddb7cf79ce11]: Textual amendment: Words in [Sch. rule 11(a)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/11/a) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(8)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/8) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9777d8c2fb1d1af8f1fc9df203d7bdae]: Textual amendment: Words in [Sch. rule 14(1)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/14/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(9)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/9/a) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6f655c84b79652b1a0095873bb7fc980]: Textual amendment: [Sch. rule 14(2)-(4)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/14/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(9)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/9/b) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-de31f4b5f332a1b41790ce10ac625dc7]: Textual amendment: Words in [Sch. rule 15](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/15) heading substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(10)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/10) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6babb987defc01cb19654a6f6c7b65bf]: Textual amendment: Words in [Sch. rule 15(1)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/15/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(10)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/10) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0eff38b9b64b6047fc037e3f34cc7a6e]: Textual amendment: [Sch. rule 16](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/16) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(11)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/11) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d1ca80cbd38ba10da320bd1f22097d61]: Textual amendment: Words in [Sch. rule 19(1)(a)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/19/1/a) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(12)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/12/a) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-86ca1b821d48c8bf0005d6a66424662f]: Textual amendment: Words in [Sch. rule 19(1)(b)](https://www.legislation.gov.uk/uksi/2014/458/schedule/rule/19/1/b) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 4(12)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/4/12/b) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

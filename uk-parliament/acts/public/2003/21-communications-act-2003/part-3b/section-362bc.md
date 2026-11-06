@@ -1,0 +1,54 @@
+---
+title: Communications Act 2003, section 362BC
+act: Communications Act 2003
+section: 362BC
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/21/section/362BC
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Communications Act 2003, section 362BC
+
+> **Warning: changes not yet applied to this text (71).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 362BC. Advice from OFCOM[^key-e4103f787fcf1ad554323202f39002ff]
+
+*Extent: E+W+S+N.I.*
+
+(1) OFCOM may prepare reports making recommendations about the exercise of the power under section 362BB(1).
+
+(2) Where—
+
+- (a) the Secretary of State proposes to make regulations under section 362BB(1), and
+- (b) the Secretary of State has not received a report under subsection (1) relating to the radio selection service or services that would be affected by the proposed regulations,
+
+the Secretary of State must request OFCOM to prepare a report making recommendations about exercising the power under section 362BB(1) in relation to that service or those services.
+
+(3) Where the Secretary of State makes a request under subsection (2), OFCOM must prepare such a report as soon as practicable.
+
+(4) A report under subsection (1) or (3) relating to the exercise of the power under section 362BB(1) must include OFCOM’s assessment, in relation to each radio selection service in question, of—
+
+- (a) the number of members of the public using the service;
+- (b) the manner in which the service is used by those persons;
+- (c) whether the level of use of the service is significant;
+- (d) such matters as OFCOM consider likely to affect the matters referred to in paragraph (a), (b) or (c).
+
+(5) Where OFCOM prepares a report under subsection (1) or (3), OFCOM must—
+
+- (a) give it to the Secretary of State, and
+- (b) publish it.
+
+(6) If the Secretary of State exercises the power under section 362BB(1) in a manner which differs from recommendations made in a report under this section, the Secretary of State must publish, no later than the time at which the regulations are made, a statement of the reasons for doing so.
+
+(7) OFCOM must draw up, and from time to time review and revise, a statement about the principles and methods to be followed by OFCOM when preparing reports under subsection (1) or (3).
+
+(8) OFCOM must publish the statement and any revised statement.
+
+## Annotations
+
+[^key-e4103f787fcf1ad554323202f39002ff]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/2003/21/part/3B) inserted (23.8.2024 except for the insertion of ss 362BI, 362BJ, 362BN) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/48/1), [55(3)(f)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/f); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/s)

@@ -1,0 +1,1018 @@
+---
+title: Chronically Sick and Disabled Persons Act 1970
+id: ukpga/1970/44
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1970-05-09'
+text_date: '2021-07-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1970/44
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1970/44/pdfs/ukpga_19700044_en.pdf
+- http://www.legislation.gov.uk/ukpga/1970/44/data.pdf
+pending_changes: 19
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Chronically Sick and Disabled Persons Act 1970
+
+> **Warning: changes not yet applied to this text (19).** Text as at 2021-07-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1970/44
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W+S*
+
+Chronically Sick and Disabled Persons Act 1970
+
+1970 c.44
+
+An Act to make further provision with respect to the welfare of chronically sick and disabled persons; and for connected purposes.
+
+\[29th May 1970\][^c752776][^c752777][^c752778]
+
+## Welfare and housing
+
+*Extent: E+W+S*
+
+### 1. Information as to need for and existence of welfare services.[^c752779]
+
+(1) It shall be the duty of every local authority having functions under section 29 of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-f30343765773ad1e8710cba3b2e39d60] [^c752780]National Assistance Act 1948 to inform themselves of the number of persons to whom that section applies within their area and of the need for the making by the authority of arrangements under that section for such persons. *(Extent: E+W)* *(affected by repeal, see note)*[^key-f30343765773ad1e8710cba3b2e39d60]
+
+(2) Every such local authority— *(Extent: E+W)* *(affected by repeal, see note)*[^key-f30343765773ad1e8710cba3b2e39d60]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^key-f30343765773ad1e8710cba3b2e39d60] shall cause to be published from time to time at such times and in such manner as they consider appropriate general information as to the services provided under arrangements made by the authority under the said section 29 which are for the time being available in their area; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-f30343765773ad1e8710cba3b2e39d60]
+- (b (Extent: E+W) (affected by repeal, see note))[^key-f30343765773ad1e8710cba3b2e39d60] shall ensure that any such person as aforesaid who uses any of those services is informed of *(Extent: E+W)* *(affected by repeal, see note)*[^key-f30343765773ad1e8710cba3b2e39d60] any other service provided by the authority (whether under any such arrangements or not)[^c752781] *(Extent: E+W)* *(affected by repeal, see note)*[^key-f30343765773ad1e8710cba3b2e39d60] which in the opinion of the authority is relevant to his needs *(Extent: E+W)* *(affected by repeal, see note)*[^key-f30343765773ad1e8710cba3b2e39d60] and of any service provided by any other authority or organisation which in the opinion of the authority is so relevant and of which particulars are in the authority’s possession.[^c752782] *(Extent: E+W)* *(affected by repeal, see note)*[^key-f30343765773ad1e8710cba3b2e39d60]
+
+(3)[^c752783] This section shall come into operation on such date as the Secretary of State may by order made by statutory instrument appoint.
+
+(4)[^key-9842cf165d6edc3d6fba4763cdfc9947] Subsection (5) applies to local authorities in England.
+
+(5) A local authority must ensure that any disabled child who uses services which are provided under arrangements made by the authority under Part 3 of the Children Act 1989 is informed—
+
+- (a) of any other service provided by the authority (whether or not under those arrangements) which in the authority’s opinion is relevant to the child’s needs, and
+- (b) of any service provided by another authority or organisation which in the authority’s opinion is relevant to the child’s needs and which the authority have details of.
+
+### 2. Provision of welfare services.[^c752784]
+
+(1) Where a local authority having functions under section 29 of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d] [^c752785]National Assistance Act 1948 are satisfied in the case of any person to whom that section applies who is ordinarily resident in their area that it is necessary in order to meet the needs of that person for that authority to make arrangements for all or any of the following matters, namely— *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^key-17cc18afa9bbc0782b00f71fbb1bf65d] the provision of practical assistance for that person in his home; *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+- (b (Extent: E+W) (affected by repeal, see note))[^key-17cc18afa9bbc0782b00f71fbb1bf65d] the provision for that person of, or assistance to that person in obtaining, wireless, television, library or similar recreational facilities; *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+- (c (Extent: E+W) (affected by repeal, see note))[^key-17cc18afa9bbc0782b00f71fbb1bf65d] the provision for that person of lectures, games, outings or other recreational facilities outside his home or assistance to that person in taking advantage of educational facilities available to him; *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+- (d (Extent: E+W) (affected by repeal, see note))[^key-17cc18afa9bbc0782b00f71fbb1bf65d] the provision for that person of facilities for, or assistance in, travelling to and from his home for the purpose of participating in any services provided under arrangements made by the authority under the said section 29 or, with the approval of the authority, in any services provided otherwise than as aforesaid which are similar to services which could be provided under such arrangements; *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+- (e (Extent: E+W) (affected by repeal, see note))[^key-17cc18afa9bbc0782b00f71fbb1bf65d] the provision of assistance for that person in arranging for the carrying out of any works of adaptation in his home or the provision of any additional facilities designed to secure his greater safety, comfort or convenience; *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+- (f (Extent: E+W) (affected by repeal, see note))[^key-17cc18afa9bbc0782b00f71fbb1bf65d] facilitating the taking of holidays by that person, whether at holiday homes or otherwise and whether provided under arrangements made by the authority or otherwise; *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+- (g (Extent: E+W) (affected by repeal, see note))[^key-17cc18afa9bbc0782b00f71fbb1bf65d] the provision of meals for that person whether in his home or elsewhere; *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+- (h (Extent: E+W) (affected by repeal, see note))[^key-17cc18afa9bbc0782b00f71fbb1bf65d] the provision for that person of, or assistance to that person in obtaining, a telephone and any special equipment necessary to enable him to use a telephone, *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+
+then, . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d] [^c752786] subject *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d] to the provisions of section 35(2) of that Act (which requires local authorities to exercise their functions under Part III of that Act . . .[^c752787] *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d] [^c752788] in accordance with the provisions of any regulations made for the purpose) and *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]to the provisions of section 7(1) of the[^c752789] *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d] [^c752790]Local Authority Social Services Act 1970 (which requires local authorities in the exercise of certain functions, including functions under the said section 29, to act under the general guidance of the Secretary of State) *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d] and to the provisions of section 7A of that Act (which requires local authorities to exercise their social services functions in accordance with directions given by the Secretary of State)[^c752791] *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d] it shall be the duty of that authority to make those arrangements in exercise of their functions under the said section 29. *(Extent: E+W)* *(affected by repeal, see note)*[^key-17cc18afa9bbc0782b00f71fbb1bf65d]
+
+(1A)[^key-0206f66c438b2a9172539990d4fb0be3][^key-383febfda20071bb995dedb0f802068d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c752792]
+
+(3)[^key-21a7e0ec954673b50964d931a72a7375] Subsections (4) to (6) apply to local authorities in England.
+
+(4) Where a local authority have functions under Part 3 of the Children Act 1989 in relation to a disabled child and the child is ordinarily resident in their area, they must, in exercise of those functions, make any arrangements within subsection (6) that they are satisfied it is necessary for them to make in order to meet the needs of the child.
+
+(5) Subsection (4) is subject to sections 7(1) and 7A of the Local Authority Social Services Act 1970 (exercise of social services functions subject to guidance or directions of the Secretary of State).
+
+(6) The arrangements mentioned in subsection (4) are arrangements for any of the following—
+
+- (a) the provision of practical assistance for the child in the child’s home;
+- (b) the provision of wireless, television, library or similar recreational facilities for the child, or assistance to the child in obtaining them;
+- (c) the provision for the child of lectures, games, outings or other recreational facilities outside the home or assistance to the child in taking advantage of available educational facilities;
+- (d) the provision for the child of facilities for, or assistance in, travelling to and from home for the purpose of participating in any services provided under arrangements made by the authority under Part 3 of the Children Act 1989 or, with the approval of the authority, in any services, provided otherwise than under arrangements under that Part, which are similar to services which could be provided under such arrangements;
+- (e) the provision of assistance for the child in arranging for the carrying out of any works of adaptation in the child’s home or the provision of any additional facilities designed to secure greater safety, comfort or convenience for the child;
+- (f) facilitating the taking of holidays by the child, whether at holiday homes or otherwise and whether provided under arrangements made by the authority or otherwise;
+- (g) the provision of meals for the child whether at home or elsewhere;
+- (h) the provision of a telephone for the child, or of special equipment necessary for the child to use one, or assistance to the child in obtaining any of those things.
+
+(7) Any question arising under this section as to a person’s ordinary residence in an area in England or Wales is to be determined by the Secretary of State or by the Welsh Ministers.
+
+(8) The Secretary of State and the Welsh Ministers must make and publish arrangements for determining which cases are to be dealt with by the Secretary of State and which are to be dealt with by the Welsh Ministers.
+
+(9) Those arrangements may include provision for the Secretary of State and the Welsh Ministers to agree, in relation to any question that has arisen, which of them is to deal with the case.
+
+### 2A. Welfare services: transition for children to adult care and support[^key-f863df9e08d1994c3e83ea949623bb43]
+
+*Extent: E.W.*
+
+(1) Subsections (2) to (4) apply where a local authority in England making arrangements for a disabled child under section 2 are required by section 58(1) of the Care Act 2014 to carry out a child's needs assessment in relation to the child.
+
+(2) If the local authority carry out the assessment before the child reaches the age of 18 and decide to treat it as a needs assessment in accordance with section 59(6) of the Care Act 2014 (with Part 1 of that Act applying to the assessment as a result), the authority must continue to comply with section 2 after the child reaches the age of 18 until they reach a conclusion in his case.
+
+(3) If the local authority carry out the assessment before the child reaches the age of 18 but decide not to treat it as a needs assessment in accordance with section 59(6) of that Act—
+
+- (a) they must carry out a needs assessment after the child reaches the age of 18, and
+- (b) they must continue to comply with section 2 after he reaches that age until they reach a conclusion in his case.
+
+(4) If the local authority do not carry out the assessment before the child reaches the age of 18, they must continue to comply with section 2 after he reaches that age until—
+
+- (a) they decide that the duty under section 9 of the Care Act 2014 (needs assessment) does not apply, or
+- (b) having decided that the duty applies and having discharged it, they reach a conclusion in his case.
+
+(5) Subsection (6) applies where a local authority in England making arrangements for a disabled child under section 2—
+
+- (a) receive a request for a child's needs assessment to be carried out in relation to the child, but
+- (b) have yet to be required by section 58(1) of the Care Act 2014 to carry out the assessment.
+
+(6) If the local authority do not decide, before the child reaches the age of 18, whether or not to comply with the request, they must continue to comply with section 2 after he reaches that age until—
+
+- (a) they decide that the duty under section 9 of the Care Act 2014 does not apply, or
+- (b) having decided that the duty applies and having discharged it, they reach a conclusion in his case.
+
+(7) A local authority reach a conclusion in a person's case when—
+
+- (a) they conclude that he does not have needs for care and support,
+- (b) having concluded that he has such needs and that they are going to meet some or all of them, they begin to do so, or
+- (c) having concluded that he has such needs, they conclude that they are not going to meet any of those needs (whether because those needs do not meet the eligibility criteria or for some other reason).
+
+(8) In this section, “child's needs assessment”, “needs assessment” and “eligibility criteria” each have the same meaning as in Part 1 of the Care Act 2014.
+
+### 3. Duties of housing authorities.[^c752793]
+
+(1)[^c752795][^c752794] A local housing authority in discharging their duty under section 8 of the Housing Act 1985 to consider housing conditions in their district and the needs of their district and respect to the provision of further housing accommodation shall have regard to the special needs of chronically sick or disabled persons.
+
+(2) A local authority for the purposes of Part VII of the Housing (Scotand) Act 1966 in discharging their duty under section 137 of that Act to consider housing conditions in their district and the needs of their district with respect to the provision of further housing accommodation shall have regard to the special needs of chronically sick or disabled persons; and any proposals prepared and submitted to the Secretary of State by the authority under that section for the provision of new houses shall distinguish any houses which the authority propose to provide which make special provision for the needs of such persons.
+
+## Premises open to public
+
+*Extent: E+W+S*
+
+### 4. Access to, and facilities at, premises open to the public.
+
+(1) Any person undertaking the provision of any building or premises to which the public are to be admitted, whether on payment or otherwise, shall, in the means of access both to and within the building or premises, and in the parking facilities and sanitary conveniences to be available (if any), make provision, in so far as it is in the circumstances both practicable and reasonable[^c752796] appropriate provision, for the needs of members of the public visiting the building or premises who are disabled unless such body as may be prescribed by the Secretary of State is satisfied, after carrying out any procedures which may be so prescribed, that in the circumstances it is either not practicable to make such provision or not reasonable that such provision should be made; and different bodies and different procedures may be prescribed for different classes of buidings or other premises to which this subsection applies[^c752798] unless such body as may be prescribed by the Secretary of State is satisfied, after carrying out any procedures which may be so prescribed, that in the circumstances it is either not practicable to make such provision or not reasonable that such provision should be made.[^c752799]
+
+(1A)[^c752800] In subsection (1) above “**appropriate provision**”, in relation to any case, means provision conforming with so much of the Code of Practice for Access for the Disabled to Buildings as is relevant to that case and “**prescribed**” means prescribed by regulations made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament; and in the foregoing provisions of this subsection “**the Code of Practice for Access for the Disabled to Buildings**” means the British Standards Institution code of practice referred to as BS 5810: 1979.
+
+(2) This section shall not apply to any building or premises intended for purposes mentioned in subsection (2) of section 8 or in subsection (2) of section 8A[^c752801] of this Act.
+
+### 5. Provision of public sanitary conveniences.
+
+(1) Where any local authority undertake the provision of a public sanitary convenience, it shall be the duty of the authority, in doing so, to make provision, in so far as it is in the circumstances both practicable and reasonable[^c752802] appropriate provision, for the needs of disabled persons unless such body as may be prescribed by the Secretary of State is satisfied, after carrying out any procedures which may be so prescribed, that in the circumstances it is either not practicable to make such provision or not reasonable that such provision should be made; and different bodies and different procedures may be prescribed for different classes of buildings or other premises to which this subsection applies[^c752804] unless such body as may be prescribed by the Secretary of State is satisfied, after carrying out any procedures which may be so prescribed, that in the circumstances it is either not practicable to make such provision or not reasonable that such provision should be made.[^c752805]
+
+(1A)[^c752806] Subsection (1A) of section 4 of this Act shall apply in relation to the interpretation of the last foregoing subsection of this section as the said subsection (1A) applies in relation to the interpretation of subsection (1) of that section.
+
+(2) Any local authority which in any public sanitary convenience provided by them make or have made provision for the needs of disabled persons shall take such steps as may be reasonable, by sign-posts or similar notices, to indicate the whereabouts of the convenience.
+
+(3) In this section “**local authority**” means a local authority within the meaning of the [^c752807]Local Government Act 1933 or the Local Government (Scotland) Act [^c752809]1973[^c752808] and any joint board or joint committee of which all the constituent authorities are local authorities within the meaning of either of those Acts.
+
+### 6. Provision of sanitary conveniences at certain premises open to the public.[^c752810]
+
+(1) Any person upon whom a notice is served with respect to any premises under section 89 of the[^c752811] [^c752812]Public Health Act 1936 section 20 of the Local Government (Miscellaneous Provisions) Act 1976 (which empowers local authorities by notice to make requirements as to the provision and maintenance of sanitary conveniences for the use of persons frequenting certain premises . . . [^c752814]) shall in complying with that notice make provision, in so far as it is in the circumstances both practicable and reasonable, for the needs of persons frequenting those premises who are disabled.
+
+(2) The owner of a building, who has been ordered under section 11(4) of the *(Extent: S)* *(affected by repeal, see note)*[^key-535ec5d7f731712e11f11de222bfd0b9] [^c752819]Building (Scotland) Act 1959 to make the building conform to *(Extent: S)* *(affected by repeal, see note)*[^key-535ec5d7f731712e11f11de222bfd0b9]on whom a building regulations compliance notice has been served under section 25(3) of the Building (Scotland) Act 2003 (asp 8) requiring the owner to secure that the building complies with *(Extent: S)* a provision of building standards *(Extent: S)* *(affected by repeal, see note)*[^key-5e1c8aa322a8c98310b3bd017a8a6f7f] regulations made under section 3 *(Extent: S)* *(affected by repeal, see note)*[^key-a448fc76418f65a2b7bb4b64d3f15b38]section 1 *(Extent: S)* of that Act requiring the provision of suitable and sufficient sanitary conveniences therein, shall in complying with that order *(Extent: S)* *(affected by repeal, see note)*[^key-d85a710a5008cd751a87efb94a12dbee]notice *(Extent: S)* make provision, in so far as it is in the circumstances both practicable and reasonable, for the needs of persons frequenting that building who are disabled
+
+### 7. Signs at buildings, etc.[^c752824]
+
+(1) Where any provision required by or under section 4, 5, 6, 8 or 8A of this Act is made at a building or premises—
+
+- (a) a notice or sign indicating that provision is made for the disabled shall be displayed outside the building or premises or so as to be visible from outside the building to premises; and
+- (b) notices or signs shall be displayed in the building or on the premises indicating the places where such provision is made and appropriate routes for persons who are disabled to get to those places.
+
+(2) Subsection 1(*a*) above applies to a sanitary convenience provided elsewhere than in a building, and not itself being a building, as it applies to a building.
+
+(3) Where parking facilities for persons who are disabled are provided under section 4 of this Act, notices or signs shall be displayed indicating an appropriate route for such persons to get from the place where the parking facilities are provided to the building or premises in connection with which they are provided.
+
+## University and school buildings
+
+*Extent: E+W+S*
+
+### 8. Access to, and facilities at, university and school buildings.
+
+(1) Any person undertaking the provision of a building intended for purposes mentioned in subsection (2) below shall, in the means of access both to and within the building, and in the parking facilities and sanitary conveniences to be available (if any), make provision, in so far as it is in the circumstances both practicable and reasonable, for the needs of persons using the building who are disabled.
+
+(2) The purposes referred to in subsection (1) above are the purposes of any of the following:—
+
+- (a) universities, university colleges and colleges, schools and halls of universities;
+
+  [^c752864](aa) institutions within the higher education sector within the meaning of section 91(5) of the Further and Higher Education Act 1992
+- (b)[^c752865] schools and institutions which provide higher education or further education (or both) and are maintained or assisted by local authorities[^key-fdc83982c5ab6c0585a0688bfb5905ae];
+
+  [^c752866](ba) institutions within the further education sector within the meaning of section 91(3) of the Further and Higher Education Act 1992
+- (c)[^c752867] educational establishments within the meaning of section 135(1) of the Education (Scotland) Act 1980.
+
+and expressions used in paragraph (b) above and in the Education Act 1996 have the same meanings as in that Act.[^c752868]
+
+### 8A. Access to and facilities at, offices and other premises.[^c752869]
+
+(1) Any person undertaking the provision of premises mentioned in subsection (2) below shall be in the means of access both to and within the premises, and in the parking facilities and sanitary conveniences to be available (if any), make provision, in so far as it is in the circumstances both practicable and reasonable[^c752870] appropriate provision, for the needs of persons using the premises who are disabled unless such body as may be prescribed by the Secretary of State is satisfied, after carrying out any procedures which may be so prescribed, that in the circumstances it is either not practicable to make such provision or not reasonable that such provision should be made; and different bodies and different procedures may be prescribed for different classes of buildings or other premises to which this subsection applies[^c752872] unless such body as may be prescribed by the Secretary of State is satisfied, after carrying out any procedures which may be so prescribed, that in the circumstances it is either not practicable to make such provision or not reasonable that such provision should be made.[^c752873]
+
+(1A)[^c752874] Subsection (1A) of section 4 of this Act shall apply in relation to the interpretation of the last foregoing subsection of this section as the said subsection (1A) applies in relation to the interpretation of subsection (1) of that section.
+
+(2) Premises to which this section applies are—
+
+- (a) office premises, shop premises and railway premises to which the Offices, Shops and Railway Premises Act 1963 applies;
+- (b) premises which are deemed to be such premises for the purposes of that Act, and
+- (c) factories as defined by section 175 of the Factories Act 1961, being (in each case) premises in which persons are employed to work.
+
+### 8B. Reports by Secretary of State on improvement of means of access.[^c752875]
+
+(1) The Secretary of State shall lay before Parliament a report on his proposals for ensuring or facilitating the improvement of means of access for disabled persons—
+
+- (a) to buildings or premises such as are mentioned in sections 4, 8 and 8A above;
+- (b) to public sanitary conveniences; and
+- (c) to sanitary conveniences provided in any of the places mentioned in subsection (2) below.
+
+(2) The places referred to in subsection (1)(c) above are—
+
+- (a) a place which is normally used or is proposed to be normally used for any of the following purposes, namely—
+  - (i) the holding of any entertainment, exhibition or sporting event to which members of the public are admitted either as spectators or otherwise,
+  - (ii) the sale of food or drink to members of the public for consumption at the place;
+- (b) a place which is used on some occasion or occasions or is proposed to be used on some occasion or occasions for any of the purposes aforesaid; and
+- (c)[^key-d5345884c2926eda2905c1e79c0cce75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Advisory committees, etc.
+
+### 9. Central advisory committee on war pensions.
+
+(1) The Secretary of State shall ensure that the central advisory committee constituted under section 3 of the [^c752878]War Pensions Act 1921 includes the chairman of at least one[^c752879] of the committees established by regulations under section 25 of the Social Security Act 1989[^c752880] and includes at least one war disabled pensioner, and shall cause that central advisory committee to be convened at least once in every year.
+
+(2) This section extends to Northern Ireland.
+
+### 10. Housing Advisory Committees.[^c752881]
+
+*Extent: E+W+S*
+
+In the appointment of persons to be members of the . . . [^c752882] Scottish Housing Advisory Committee set up under section 167 of the [^c752883]Housing (Scotland) Act 1966, regard shall be had to the desirability of that Committee’s including one or more persons with knowledge of the problems involved in housing the chronically sick and disabled and to the person or persons with that knowledge being or including a chronically sick or disabled person or persons.
+
+### 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c752884][^c752885]
+
+*Extent: E+W+S*
+
+### 12. Industrial Injuries Advisory Council.
+
+*Extent: E+W+S*
+
+The Industrial Injuries Advisory Council shall include at least one person with experience of work among and of the needs of the chronically sick and disabled and in selecting any such person regard shall be had to the desirability of having a chronically sick or disabled person.
+
+### 13. Youth employment service.
+
+*Extent: E+W+S*
+
+(1)[^c752903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In the appointment of persons in pursuance of section 5(2)([^c752904]*a*) of the [^c752905]Employment and Training Act 1973 to advise the Secretary of State with respect to the performance of the functions conferred on him by virtue of section 10(6)[^c752906] of that Act regard shall be had to the desirability of . . . [^c752907] including one or more persons with experience of work among, and the special needs of, young disabled persons and to the person or persons with that experience being or including a disabled person or persons.
+
+### 14. Miscellaneous advisory committees.
+
+(1) In the appointment of persons to be members of any of the following advisory committees or councils, that is to say, the Transport users’ Consultative Committees or[^key-381caf072637540e7dbaaa5e4246b624] the[^c752946] London Transport Users’ Committee[^c752947], [^c752948]. . ., the [^c752948]. . . [^c752950]. . . and the Domestic Coal Consumers’ Council[^c752951], regard shall be had to the desirability of the committee or council in question including one or more persons with experience of work among, and the special needs of, disabled persons and to the person or persons with that experience being or including a disabled person or persons.
+
+(2)[^c752952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Co-option of chronically sick or disabled persons to local authority committees.
+
+*Extent: E+W+S*
+
+Where a local authority within the meaning of the [^c752953]Local Government Act 1933 or the [^c752954]Local Government (Scotland) Act 1947 appoint a committee of the authority under any enactment, and the members of the committee include or may include persons who are not members of the authority, then in considering the appointment to the committee of such persons regard shall be had, if the committee is concerned with matters in which the chronically sick or disabled have special needs, to the desirability of appointing to the committee persons with experience of work among and of the needs of the chronically sick and disabled, and to the person or persons with that experience being or including a chronically sick or disabled person or persons.
+
+### 16. Duties of national advisory council under Disabled Persons (Employment) Act 1944.[^c752955]
+
+*Extent: E+W+S*
+
+The duties of the national advisory council established under section 17(1)(*a*) of the [^c752956]Disabled Persons (Employment) Act 1944 shall include in particular the duty of giving to the Secretary of State such advice as appears to the council to be necessary on the training of persons concerned with—
+
+- (a) placing disabled persons in employment; or
+- (b) training disabled persons for employment.
+
+## Provisions with respect to persons under65
+
+*Extent: E+W+S*
+
+### 17. Separation of younger from older patients.[^c752958][^key-b2b9d976886e7bd05ccd049b90213c41]
+
+(1) The Welsh Ministers[^key-a13d6ff1b54f9ef7f9a3093bba6a8ebd] and every Health Board constituted under the[^c752960] [^c752961]National Health Service (Scotland) Act 1972[^c752962]1978 shall use their best endeavours to secure that, so far as practicable, in any hospital for which they are responsible a person who is suffering from a condition of chronic illness or disability and who—
+
+- (a) is in the hospital for the purpose of long-term care for that condition; or
+- (b) normally resides elsewhere but is being cared for in the hospital because—
+  - (i) that condition is such as to preclude him from residing elsewhere without the assistance of some other person; and
+  - (ii) such assistance is for the time being not available,
+
+  is not cared for in the hospital as an in-patient in any part of the hospital which is normally used wholly or mainly for the care of elderly persons, unless he is himself an elderly person.
+
+(2)[^c752965][^c752964] Each such Board as aforesaid shall provide The Welsh Ministers[^key-6a55673b44be8e7418687fec85e024bc] in such form and at such times as he may direct with such information as he may from time to time require as to any persons to whom subsection (1) of this section applied who, not being elderly persons, have been cared for in any hospital for which that Board are responsible in such a part of the hospital as is mentioned in that subsection; and The Welsh Ministers shall in each year lay before the National Assembly for Wales[^key-9ca078bcf7f6808edb44804b6291d5ff] such statement in such form as they consider[^key-d9aa11c22d0453f36a34538d43294f17] appropriate of the information obtained by him under this subsection.
+
+(2)[^c752965] The Welsh Ministers shall in each year lay before the National Assembly for Wales a statement, in such form as they consider appropriate, of information as to any persons to whom subsection (1) of this section applied who, not being elderly persons, have during the preceding year been cared for in a hospital vested in them[^key-b6fd1fdaf561d83d8f829467070235cf] and in such part of the hospital as is mentioned in that subsection.
+
+(3) In this section “**elderly person**” means a person who is aged sixty-five or more or is suffering from the effects of premature ageing.
+
+### 18. Information as to accommodation of younger with older persons under Part III of National Assistance Act 1948.[^c752981][^c752980]
+
+(1) The Secretary of State shall take steps to obtain from local authorities having functions under Part III of the [^c752982] National Assistance Act 1948 information as to the number of persons under the age of 65 appearing to the local authority in question to be persons to whom section 29 of that Act applies for whom residential accommodation is from time to time provided under section 21(1)( *a* ) or 26(1)( *a* ) of that Act at any premises in a part of those premises in which such accommodation is so provided for persons over that age.
+
+(2) The Secretary of State shall take steps to obtain from local authorities , in respect of their functions both under the Social Work (Scotland) Act 1968 and under the Children (Scotland) Act 1995,[^c752983] information as to the number of persons under the age of 65 who suffer from illness or mental disorder within the meaning of section 6 of the[^c752984] [^c752985]Mental Health (Scotland) Act 1960 section 1(2) of the Mental Health (Scotland) Act 1984 *(Extent: S)* *(affected by repeal, see note)*[^key-456de3f02a497bb5ef0fd18ffa562fe8]section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003 *(Extent: S)* *(Extent: S)* *(affected by repeal, see note)*[^key-456de3f02a497bb5ef0fd18ffa562fe8] or are substantially handicapped by any deformity or disability and for whom residential accommodation is from time to time provided under section 59 of the said Act of 1968 at any premises in a part of those premises in which such accommodation is so provided for persons over that age.
+
+(3) Every local authority referred to in this section shall provide the Secretary of State in such form and at such times as he may direct with such information as he may from time to time require for the purpose of this section; and the Secretary of State shall in each year lay before each House of Parliament such statement in such form as he considers appropriate of the information obtained by him under this section.
+
+### 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c752987]
+
+## Miscellaneous provisions
+
+### 20. Use of invalid carriages on highways.[^c753005][^key-f4cf9529de6ce612271442dc34a047bf]
+
+*Extent: E+W+S*
+
+(1) In the case of a vehicle which is an invalid carriage complying with the prescribed requirements and which is being used in accordance with the prescribed conditions—
+
+- (a) no statutory provision prohibiting or restricting the use of footways shall prohibit or restrict the use of that vehicle on a footway;
+- (b) if the vehicle is mechanically propelled, it shall be treated for the purposes of the Road Traffic Regulation Act[^c753006] 1984[^c753007] and the Road Traffic Act 1988[^c753008] , except section 22A of that Act (causing danger to road users by interfering with motor vehicles[^c753009] etc), and the Road Traffic Offenders Act 1988 as not being a motor vehicle; and sections 1 to 4,[^c753010] 21,34,[^c753011] 163, 170 and 181 of the Road Traffic Act 1988 shall not apply to it and
+- (c) whether or not the vehicle is mechanically propelled, it shall be exempted from the requirements of section 83 of the Road Traffic Act 1988[^c753012]
+
+(2)[^key-e612a82136415debb22a176892d079c3] In this section—
+
+- “**footway**” means a way which is a footway, footpath or bridleway within the meaning of the Highways Act 1980[^c753013] or a restricted byway within the meaning of Part 2 of the Countryside and Rights of Way Act 2000 *(Extent: E+W)*; and in its application to Scotland means a way over which the public has a right of passage on foot only or a bridleway within the meaning of section 47 of the [^c753014]Countryside (Scotland) Act 1967;
+- “**invalid carriage**” means a vehicle, whether mechanically propelled or not, constructed or adapted for use for the carriage of one person, being a person suffering from some physical defect or disability;
+- “**prescribed**” means prescribed by regulations made by the Minister of Transport;
+- “**statutory provision**” means a provision contained in, or having effect under, any enactment.
+
+(3) Any regulations made under this section shall be made by statutory instrument, may make different provision for different circumstances and shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 21. Badges for display on motor vehicles used by disabled persons.[^c753106]
+
+*Extent: E+W+S*
+
+(1) There shall be a badge [^key-d742a39622b3809d34c6990a3feec644]... to be issued by local authorities for motor vehicles driven by, or used for the carriage of, disabled persons; and—
+
+- (a) subject to the provisions of this section, the badge so issued for any vehicle or vehicles may be displayed on it or on any of them either inside or outside the area of the issuing authority; and
+- (b) any power under Part III of Schedule 9 to the Road Traffic Regulation Act 1984[^c753107] to make regulations requiring that orders under the Act shall include exemptions shall be taken to extend to requiring that an exemption given with reference to badges issued by one authority shall be given also with reference to badges issued by other authorities.
+
+(1A)[^key-ad0f43aec66f79b9753177cc4765acf4] A badge issued under this section must be in valid form, which means—
+
+- (a) of a form specified or approved by the Secretary of State, in the case of a badge issued by a local authority in England [^key-bc32f45aafe086e7a9be0886de3708c6]...;
+- (aa)[^key-a01eb977a5ba6523de53e20d9bf90688] of a form specified or approved by the Welsh Ministers, in the case of a badge issued by a local authority in Wales;
+- (b (Extent: S))[^key-5e0e2004e073cf1e08b71642d2f51f7c] of a form which fulfils any requirements as to form prescribed or otherwise specified by the Scottish Ministers, in the case of a badge issued by a local authority in Scotland. *(Extent: S)*
+
+(2)[^c753108] A badge may be issued to a disabled person of any prescribed description resident in the area of the issuing authority for one or more vehicles driven by him or used by him as a passenger.
+
+(4)[^key-f9a27f42eefb797a715bb4a0c69c3b0c] A badge may be issued to an organisation *(Extent: E+W)* concerned with the care of the disabled for any motor vehicle or, as the case may be, for each motor vehicle kept in the area of the issuing authority and used by or on behalf of the organisation *(Extent: E+W)* to carry disabled persons of any prescribed description; [^c753109]. . ..
+
+(4A)[^c753110] A badge issued under this section may be displayed only in such circumstances and in such manner as may be prescribed.
+
+(4B) A person who drives a motor vehicle on a road (within the meaning of the Road Traffic Act 1988) at a time when a badge purporting to be *(Extent: E+W)*[^key-b2c9cc66c7252f620403f2d392d133e5] in valid form[^key-a25773248add2433d361d2a709794fca] is displayed on the vehicle is guilty of an offence unless the badge is issued under this section and displayed in accordance with regulations made under it.
+
+(4BZA)[^key-02da26ae1d9f2ec406fb79a632108aff] A person who in England and Wales drives a motor vehicle on a road (within the meaning of the Road Traffic Act 1988) at a time when a badge issued under this section is displayed on the vehicle is guilty of an offence if— *(Extent: S)* *(affected by repeal, see note)*[^key-60412fe142d2b86cedf9fd72f4ae17ad]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-60412fe142d2b86cedf9fd72f4ae17ad] the badge should have been returned to the issuing authority in compliance with regulations under subsection (6) or a notice under subsection (7A)(b), or *(Extent: S)* *(affected by repeal, see note)*[^key-60412fe142d2b86cedf9fd72f4ae17ad]
+- (b (Extent: S) (affected by repeal, see note))[^key-60412fe142d2b86cedf9fd72f4ae17ad] the badge has been cancelled under subsection (7AB). *(Extent: S)* *(affected by repeal, see note)*[^key-60412fe142d2b86cedf9fd72f4ae17ad]
+
+(4BA (Extent: E+W))[^key-3799450b830c464c4e42062125721e93] Where it appears to a constable or enforcement officer that there is displayed on any motor vehicle a badge purporting to be *(Extent: E+W)* in valid form[^key-3f217c13279581e15cc03fdc4bbb3478] *(Extent: E+W)*, he may require any person who— *(Extent: E+W)*
+
+- (a (Extent: E+W)) is in the vehicle, or *(Extent: E+W)*
+- (b (Extent: E+W)) appears to have been in, or to be about to get into, the vehicle, *(Extent: E+W)*
+
+to produce the badge for inspection. *(Extent: E+W)*
+
+(4BB (Extent: E+W)) In subsection (4BA) “ *(Extent: E+W)* **enforcement officer *(Extent: E+W)*** ” means— *(Extent: E+W)*
+
+- (a (Extent: E+W) (affected by repeal, see note) (Extent: E+W))[^key-442271d29ff2e913096eaddf5aaa8ab7] a traffic warden; *(Extent: E+W)* *(affected by repeal, see note)*[^key-442271d29ff2e913096eaddf5aaa8ab7] *(Extent: E+W)*
+- (b (Extent: E+W)) a civil enforcement officer (within the meaning of section 76 of the Traffic Management Act 2004); *(Extent: E+W)*
+- (c (Extent: E+W)) a parking attendant (within the meaning of section 63A of the Road Traffic Regulation Act 1984). *(Extent: E+W)*
+- (d (Extent: E+W))[^key-c7fae442135db328cd2cd77e00bbf127] a person who— *(Extent: E+W)*
+  - (i (Extent: E+W)) is employed by a local authority in England and Wales or by a person with whom the authority have made arrangements for the purposes of this section, and *(Extent: E+W)*
+  - (ii (Extent: E+W)) is authorised in writing by the authority to exercise the powers in subsections (4BA) and (4D). *(Extent: E+W)*
+
+(4BC (Extent: E+W)) The power conferred on an enforcement officer by subsection (4BA) is exercisable only for purposes connected with the discharge of his functions in relation to a stationary vehicle. *(Extent: E+W)*
+
+(4BD (Extent: E+W)) A person who without reasonable excuse fails to produce a badge when required to do so under subsection (4BA) shall be guilty of an offence. *(Extent: E+W)*
+
+(4BE)[^key-c14d8db8a6b9586701695a50e776eca2] Failure to comply with a requirement imposed by an officer within subsection (4BB)(d) who does not produce appropriate evidence of authority is not an offence under subsection (4BD).
+
+(4BA (Extent: S))[^key-0ad7df36c3c4b1c9b061d33bba04cbfd] Where there is displayed on any motor vehicle a badge which appears to a constable *(Extent: S)* or enforcement officer *(Extent: S)*[^key-10873b321831d0fa57cb60ce89aeaf01] *(Extent: S)* to be, or to purport to be, *(Extent: S)* in valid form[^key-64ad24dde30722710138ac5d70f89d33] *(Extent: S)*, he may require— *(Extent: S)*
+
+- (a (Extent: S)) any person who appears to the constable *(Extent: S)* or officer *(Extent: S)*[^key-b0d6ef483ac3c410e901b73533f7ee62] *(Extent: S)* to be, or to have been, using the vehicle; or *(Extent: S)*
+- (b (Extent: S)) any person in the vehicle (other than a person such as is mentioned in paragraph (a) above), *(Extent: S)*
+
+to produce the badge for examination *(Extent: S)*
+
+(4BB (Extent: S)) A person who without reasonable excuse fails to produce a badge when required to do so under subsection (4BA) above shall be guilty of an offence. *(Extent: S)*
+
+(4BC (Extent: S))[^key-c55b8bc49cb6a9c2bc89a60f4a932296] No offence is committed under subsection (4BB) if— *(Extent: S)*
+
+- (a (Extent: S)) the person requiring the badge to be produced is an enforcement officer, other than a traffic warden or parking attendant, and *(Extent: S)*
+- (b (Extent: S)) when requiring the badge to be produced, the officer does not produce appropriate evidence of the officer's authority to exercise the power under subsection (4BA). *(Extent: S)*
+
+(4C) A person guilty of an offence under subsection (4B), (4BZA) or[^key-619aa1e333a0f57c84d5b151c85d892a] or (4BD) *(Extent: E+W)*[^key-bec9075b7beb04ed4b013f4552183b95] or (4BB) *(Extent: S)*[^key-7004d78c6e9162509025a3b101e5df44] above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4D)[^key-fce9923315db17bd5edfc415e94080ea] A constable or enforcement officer in England and Wales to whom a person produces a badge purporting to be in valid form (whether or not in response to a requirement under subsection (4BA)) may retain the badge if the constable or officer believes on reasonable grounds that— *(Extent: S)* *(affected by repeal, see note)*[^key-46643bcb00771ba583e53488dc999215]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-46643bcb00771ba583e53488dc999215] the badge was not issued under this section, or *(Extent: S)* *(affected by repeal, see note)*[^key-46643bcb00771ba583e53488dc999215]
+- (b (Extent: S) (affected by repeal, see note))[^key-46643bcb00771ba583e53488dc999215] the badge was issued under this section and— *(Extent: S)* *(affected by repeal, see note)*[^key-46643bcb00771ba583e53488dc999215]
+  - (i (Extent: S) (affected by repeal, see note))[^key-46643bcb00771ba583e53488dc999215] it should have been returned to the issuing authority in compliance with regulations under subsection (6) or a notice under subsection (7A)(b), *(Extent: S)* *(affected by repeal, see note)*[^key-46643bcb00771ba583e53488dc999215]
+  - (ii (Extent: S) (affected by repeal, see note))[^key-46643bcb00771ba583e53488dc999215] it has been cancelled under subsection (7AB), or *(Extent: S)* *(affected by repeal, see note)*[^key-46643bcb00771ba583e53488dc999215]
+  - (iii (Extent: S) (affected by repeal, see note))[^key-46643bcb00771ba583e53488dc999215] it was being displayed on a vehicle otherwise than in circumstances prescribed under subsection (4A). *(Extent: S)* *(affected by repeal, see note)*[^key-46643bcb00771ba583e53488dc999215]
+
+(4E) Regulations may prescribe what is to be done with a badge retained under subsection (4D) above.
+
+(5) A local authority shall maintain a register showing the holders of badges issued by the authority under this section, and the vehicle or vehicles for which each of the badges is held; [^c753111] . . .
+
+(6) A badge issued under this section shall remain the property of the issuing authority, shall be issued for such period as may be prescribed, and shall be returned to the issuing authority in such circumstances as may be prescribed.
+
+(7)[^c753112] Anything which is under this section to be prescribed shall be prescribed by regulations made by the Minister of Transport and Secretary of State by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament; and regulations so made may make provision—
+
+- (a) as to the cases in which authorities may refuse to issue badges, and as to the fee (if any) which an authority may charge for the issue or re-issue of a badge; and
+- (b) as to the continuing validity or effect of badges issued before the coming into force of this section in pursuance of any scheme having effect under section 29 of the [^c753113]National Assistance Act 1948 or any similar scheme having effect in Scotland; and
+- (c) as to any transitional matters, and in particular the application to badges issued under this section of orders made before the time when[^c753114] it comes into force and operating with reference to any such badges as are referred to in paragraph (*b*) above (being orders made, or at that time having effect as if made, under the [^c753116]Road Traffic Regulation Act 1967).
+
+(7A)[^c753117] Where the prescribed conditions are met in the case of any person, then—
+
+- (a) if he applies to a local authority for the issue of a badge under this section, the authority may by notice refuse the application; and
+- (b) if he holds a badge issued under this section by the authority, the authority may by notice require him to return the badge to them.
+
+The conditions that may be prescribed for the purposes of this subsection are conditions relating to the misuse of badges issued under this section.
+
+(7AB)[^key-9dc5f6918c5dde02e30493d2d440c49f] A local authority *(Extent: S)* *(affected by repeal, see note)*[^key-4ab2f7b8d43b296743c89632ed469688] [^key-724a60a35d394589affbd5923418c773]... may cancel a badge issued by them under this section if it appears to the authority that the person to whom it was issued no longer holds the badge, either— *(Extent: S)* *(affected by repeal, see note)*[^key-4ab2f7b8d43b296743c89632ed469688]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-4ab2f7b8d43b296743c89632ed469688] because the person notifies the authority that it has been lost or stolen, or *(Extent: S)* *(affected by repeal, see note)*[^key-4ab2f7b8d43b296743c89632ed469688]
+- (b (Extent: S) (affected by repeal, see note))[^key-4ab2f7b8d43b296743c89632ed469688] for any other reason. *(Extent: S)* *(affected by repeal, see note)*[^key-4ab2f7b8d43b296743c89632ed469688]
+
+A cancellation under paragraph (b) above takes effect only when the authority give notice of the cancellation to the person. *(Extent: S)* *(affected by repeal, see note)*[^key-4ab2f7b8d43b296743c89632ed469688]
+
+(7B) A notice under subsection (7A) or (7AB)[^key-8d6bcbb6ae2837c625958ba5674815d9] above may be given by post.
+
+(7C) A person whose application is refused under subsection (7A) above or who is required to return his badge under that subsection may, within the prescribed time, appeal to the Secretary of State who may confirm or reverse the decision of the local authority; and, if he reverses it, the authority shall issue a badge accordingly or, as the case may be, the requirement to return the badge shall cease to have effect.
+
+(7CA)[^c753118] The Scottish Ministers may by regulations make provision for or in connection with appeals from decisions of the Scottish Ministers under subsection (7C) above.
+
+(7D) A badge which is required to be returned to the issuing authority by virtue of subsection (6) above, or which is cancelled under subsection (7AB) above,[^key-74fc4e8afc290a1640997056829ec46f] may not be displayed on any vehicle; and—[^key-4d2f85e0a8e8f0a8546c341f1cf53ce6]
+
+- (a) a badge issued by a local authority in England which is required to be so returned by virtue of a notice under subsection (7A) above may not be displayed on any vehicle;
+- (b) a badge issued by a local authority in Wales or Scotland which is required to be so returned by virtue of a notice under that subsection shall be returned within the prescribed time and may not be displayed on any vehicle after that time.
+
+(7E) Regulations under this section may provide for the procedure to be followed in connection with appeals under subsection (7C) above; [^key-49e6d2ac5c5cf88cf5b37fbb4479891d]...
+
+(7EA)[^key-ae31a8f6b73f9c9e9f0dfad50a46a9ab] Subsections (7C) and (7E) do not apply in relation to a decision of a local authority in England.
+
+(7F)[^c753119] The Scottish Ministers may by regulations make such provision for or in connection with enabling badges—
+
+- (a) issued under such provision of the law of Northern Ireland as corresponds to this section; or
+- (b) issued by any member State other than the United Kingdom for purposes corresponding to the purposes for which badges under this section are issued,
+
+to be treated for such purposes as may be specified in the regulations as if they were badges issued under this section.
+
+(7G) Any regulations under subsections (7CA) and (7F) above shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(8) The local authorities for purposes of this section shall be the common council of the City of London, the council of a county or Metropolitan district[^c753120] . . . [^c753121] in England [^c753122]. . . or of a London borough , the council of a Welsh county or county borough[^c753123] and , in relation to Scotland, a council constituted under section 2 of the Local Government[^c753124] etc. (Scotland) Act 1994; and in this section “**motor vehicle**” has the same meaning as in the Road Traffic Regulation Act 1984[^c753125].
+
+(8A (Extent: S))[^key-03548da4dd47c402401f09553728a50c] In subsection (4BA) above, “ *(Extent: S)* *(affected by repeal, see note)*[^key-c0cf54ce869be63d0380568e673b2db1] *(Extent: S)***constable *(Extent: S)* *(affected by repeal, see note)*[^key-c0cf54ce869be63d0380568e673b2db1] *(Extent: S)***” has the same meaning as in *(Extent: S)* *(affected by repeal, see note)*[^key-c0cf54ce869be63d0380568e673b2db1] *(Extent: S)* section 99(1) of the Police and Fire Reform (Scotland) Act *(Extent: S)*[^key-ab35f22beaa3d606416d749f2e2f2a26] *(Extent: S)* *(affected by repeal, see note)*[^key-c0cf54ce869be63d0380568e673b2db1] *(Extent: S)*; but includes a traffic warden and a parking attendant. *(Extent: S)* *(affected by repeal, see note)*[^key-c0cf54ce869be63d0380568e673b2db1] *(Extent: S)*
+
+(8A (Extent: S)) In this section— *(Extent: S)*
+
+- “ *(Extent: S)***constable *(Extent: S)***” has the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012, *(Extent: S)*
+- “ *(Extent: S)***enforcement officer *(Extent: S)***” means— *(Extent: S)*
+  - (a) a traffic warden, *(Extent: S)*
+  - (b) a parking attendant, or *(Extent: S)*
+  - (c) a person who— *(Extent: S)*
+    - (i) is employed by a local authority or by a person with whom the authority have made arrangements for the purposes of this section, and *(Extent: S)*
+    - (ii) is authorised in writing by the authority to exercise the powers in subsections (4BA) and (4D). *(Extent: S)*
+
+(8B)[^key-85e7da0ee84e86a7804b3ee21ee78bb5] This section has effect in relation to disabled persons resident in prescribed places outside the United Kingdom who are—
+
+- (a) members of any of the armed forces of the Crown,
+- (b) persons employed by or in the service of the Government of the United Kingdom whose sole or main role is to work in support of any of those forces, or
+- (c) members of the same household as a person within paragraph (a) or (b),
+
+as if the Secretary of State were a local authority in England.
+
+(8C) Accordingly, a reference to a local authority in this section, except in subsection [^key-8a6bac2c5c5afeb672f92cdc98646f54]... (8) or in the definition of “enforcement officer”[^key-591a81220ecdda57699d4795929b4768] (or in subsection (1A)(aa) or (b)[^key-277d5fafe94a5d7d53fbfaddcb6a16e5] or (7D)(b)), is to be read as including a reference to the Secretary of State.
+
+(8D) Subsections (1)(a), (2) and (4) have effect in relation to disabled persons within subsection (8B) as if “a place prescribed under subsection (8B)” were substituted for “the area of the issuing authority”.
+
+(9)[^c753126] This section shall come into operation on such date as the Minister of Transport and Secretary of State may by order made by statutory instrument appoint.
+
+### 21A (Extent: E+W). Recognition of badges issued outside Great Britain (Extent: E+W)[^key-addb1d06a084c15e0604915bafd7846c]
+
+(1 (Extent: E+W)) For the purposes of this section and section 21B, a “recognised badge” means— *(Extent: E+W)*
+
+- (a (Extent: E+W)) a badge issued under section 14 of the Chronically Sick and Disabled Persons (Northern Ireland) Act 1978, or any provision replacing that section, as from time to time amended, or *(Extent: E+W)*
+- (b (Extent: E+W)) a badge issued under provisions of the law of any jurisdiction outside the United Kingdom that are specified in regulations made by the appropriate national authority. *(Extent: E+W)*
+
+(2 (Extent: E+W)) In exercising the power under subsection (1)(b), the appropriate national authority may specify a provision only if it appears to the authority that badges issued under the provision are issued by reference to persons who are, or include, disabled persons. *(Extent: E+W)*
+
+(3 (Extent: E+W)) A recognised badge may be displayed on a motor vehicle only in such circumstances and in such manner as may be prescribed by regulations made by the appropriate national authority. *(Extent: E+W)*
+
+(4 (Extent: E+W)) A person who drives a motor vehicle on a road (within the meaning of the Road Traffic Act 1988) at a time when a badge purporting to be a recognised badge is displayed on the vehicle is guilty of an offence unless the badge is a recognised badge and is displayed in accordance with regulations made under subsection (3). *(Extent: E+W)*
+
+(5 (Extent: E+W)) A person guilty of an offence under subsection (4) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale. *(Extent: E+W)*
+
+(6 (Extent: E+W)) Where it appears to a constable or enforcement officer that there is displayed on any motor vehicle a badge purporting to be a recognised badge, he may require any person who— *(Extent: E+W)*
+
+- (a (Extent: E+W)) is in the vehicle, or *(Extent: E+W)*
+- (b (Extent: E+W)) appears to have been in, or to be about to get into, the vehicle, *(Extent: E+W)*
+
+to produce the badge for inspection. *(Extent: E+W)*
+
+(7 (Extent: E+W)) The power conferred on an enforcement officer by subsection (6) is exercisable only for purposes connected with the discharge of his functions in relation to a stationary vehicle. *(Extent: E+W)*
+
+(8 (Extent: E+W)) A person who without reasonable excuse fails to produce a badge when required to do so under subsection (6) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale. *(Extent: E+W)*
+
+(9 (Extent: E+W)) In this section “enforcement officer” has the meaning given by section 21(4BB). *(Extent: E+W)*
+
+### 21B (Extent: E+W). Recognised badges treated as badges under section 21 for certain purposes (Extent: E+W)
+
+(1 (Extent: E+W)) The concessions mentioned in subsection (2) shall apply in respect of vehicles lawfully displaying a recognised badge as they apply in respect of vehicles lawfully displaying a badge issued under section 21. *(Extent: E+W)*
+
+(2 (Extent: E+W)) The concessions are— *(Extent: E+W)*
+
+- (a (Extent: E+W)) any exemption from an order under the Road Traffic Regulation Act 1984 given by reference to vehicles lawfully displaying a badge issued under section 21; *(Extent: E+W)*
+- (b (Extent: E+W)) any provision made in an order under that Act for the use of a parking place by such vehicles. *(Extent: E+W)*
+
+(3 (Extent: E+W)) The appropriate national authority may by regulations provide that recognised badges are to be treated, for purposes specified in the regulations, as if they were badges issued under section 21. *(Extent: E+W)*
+
+### 21C (Extent: E+W). Sections 21A and 21B: regulations and interpretation (Extent: E+W)
+
+(1 (Extent: E+W)) Any power to make regulations under section 21A or 21B— *(Extent: E+W)*
+
+- (a (Extent: E+W)) is exercisable by statutory instrument, and *(Extent: E+W)*
+- (b (Extent: E+W)) includes power— *(Extent: E+W)*
+  - (i (Extent: E+W)) to make different provision for different cases, and *(Extent: E+W)*
+  - (ii (Extent: E+W)) to make incidental, supplementary, transitional or consequential provision. *(Extent: E+W)*
+
+(2 (Extent: E+W)) A statutory instrument containing regulations made under section 21A or 21B by the Secretary of State is subject to annulment in pursuance of a resolution of either House of Parliament. *(Extent: E+W)*
+
+(3 (Extent: E+W)) In sections 21A and 21B, “appropriate national authority” means— *(Extent: E+W)*
+
+- (a (Extent: E+W)) in relation to England, the Secretary of State; *(Extent: E+W)*
+- (b (Extent: E+W)) in relation to Wales, the National Assembly for Wales. *(Extent: E+W)*
+
+### 22. Annual report on research and development work.
+
+*Extent: E+W+S*
+
+The Secretary of State shall as respects each year lay before Parliament a report on the progress made during that year in research and development work carried out by or on behalf of any Minister of the Crown in relation to equipment that might increase the range of activities and independence or well-being of disabled persons, and in particular such equipment that might improve the indoor and outdoor mobility of such persons.
+
+### 23. War pensions appeals.
+
+(1) The [^c753151]Pensions Appeal Tribunals Act 1943 shall have effect with the amendments specified in the subsequent provisions of this section.
+
+(2) In section 5—
+
+- (a) so much of subsection (1) as prevents the making of an appeal from an interim assessment of the degree of a disablement before the expiration of two years from the first notification of the making of an interim assessment (that is to say, the words from “if” to “**subsection**” where first occurring, and the words “**in force at the expiration of the said period of two years**”) is hereby repealed except in relation to a claim in the case of which the said first notification was given before the commencement of this Act;
+- (b)[^c753152] in second paragraph of subsection (1) (which defines “interim assesment”for the purposes of that subsection), for the words “this subsection” there shall be substituted the words “this section”;
+- (c)[^c753152] in subsection (2) (which provides for an appeal to a tribunal from a Ministerial decision or assessment purporting to be a final settlement of a claim) at the end there shall be added the words “and if the Tribunal so set aside the Minister’s decision or assessment they may, if they think fit, make such interim assessment of the degree or nature of the disablement, to be in force until such a date not later than two years after the making of a Tribunal’s assessment, as they think proper”;
+- (d)[^c753152] subsection (3) (which makes provision as to the coming into operation of section 5) is hereby repealed.
+
+(3)[^key-44cc17b9b950d1c035fbd6b51a071db8][^c753152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-44cc17b9b950d1c035fbd6b51a071db8][^c753152] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In consequence of the [^c753157]Secretary of State for Social Services Order 1968, in section 12(1), for the definition of “the Minister” there shall be substituted the following:—
+
+> “**the Minister**”means the Secretary of State for Social Services
+
+.
+
+(6) This section extends to Northern Ireland.
+
+### 24. Institute of hearing research.
+
+*Extent: E+W+S*
+
+The Secretary of State shall collate and present evidence to the Medical Research Council on the need for an institute for hearing research, such institute to have the general function of co-ordinating and promoting research on hearing and assistance to the deaf and hard of hearing.
+
+### 25—27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c753158]
+
+*Extent: E+W+S*
+
+### 28. Power to define certain expressions.[^c753178][^c753179][^c753177]
+
+*Extent: E+W+S*
+
+Where it appears to the Secretary of State to be necessary or expedient to do so for the proper operation of any provision of this Act, he may by regulations made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament,
+
+make provision as to the interpretation for the purposes of that provision of any of the following expressions appearing therein, that is to say, “chronically sick”, “chronic illness”, “disabled” and “disability”.
+
+### 28A. Application of Act to authorities having functions under the Children Act 1989.[^key-965b0e4fe4c8574f8e748d4d1296f92c]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Short title, extent and commencement.
+
+*Extent: E+W+S*
+
+(1) This Act may be cited as the Chronically Sick and Disabled Persons Act 1970.
+
+(2)[^c753191] Sections 1(1) and (2)[^key-04079d4935ecc68b0049a23ff83d0783] and 2(1) of this Act shall apply to Scotland so however that—
+
+- (a)[^c753193][^c753192] any references to functions under section 29 of the National Assistance Act [^c753194] 1948 shall be construed as references to duties to—
+  - (i) chronically sick or disabled persons; or
+  - (ii) persons suffering from mental disorder,
+
+  (being persons in need) to whom section 12 of the Social Work (Scotland) Act [^c753195] 1968 applies except that in case of persons under eighteen years of age such references shall instead be construed as references to duties to disabled children (within the meaning of Chapter 1 of Part II of the Children (Scotland) Act 1995)[^c753196] ;
+- (b)[^c753197] any references to services provided under arrangements made by a local authority under the said section 29 shall be construed as references to services for—
+  - (i) such chronically sick or disabled, or such mentally disordered, persons provided by virtue of the said section 12; or
+  - (ii) such disabled children provided under section 23(1) of the said Act of 1995,
+
+  by a local authority;
+- (c) in section 2(1) as originally enacted—
+  - (i) the words “ **who is ordinarily resident in their area** ” shall be omitted;
+  - (ii) for the words from “notwithstanding” to “ **that Act** ” where those words secondly occur there shall be substituted the words “subject to the provisions of section 5 of the said Act of 1968 (which requires local authorities to exercise their functions under that Act”.
+
+(3) Save as otherwise expressly provided by sections 9, 14 and 23, this Act does not extend to Northern Ireland.
+
+(4) This Act shall come into force as follows:—
+
+- (a) sections 1 and 21 shall come into force on the day appointed thereunder;
+- (b) sections 4, 5, 6, 7 and 8 shall come into force at the expiration of six months beginning with the date this Act is passed;
+- (c) the remainder shall come into force at the expiration of three months beginning with that date.
+
+## Annotations
+
+[^c752776]: Commencement: Act not in force at Royal Assent see s. 29(4); Act wholly in force 1.10.1972.
+
+[^c752777]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
+
+[^c752778]: Modification: Act (except ss. 9, 13(2), 28): transfer of functions (1.7.1999) by S.I. 1999/ 672, art. 2, Sch. 1
+
+[^c752779]: Modification: S. 1 extended by [Local Authority Social Services Act 1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42), [s. 2(1)](https://www.legislation.gov.uk/ukpga/1970/42/section/2/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1970/42/schedule/1).
+
+[^key-f30343765773ad1e8710cba3b2e39d60]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1970/44/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/1970/44/section/1/2) omitted (E.W.) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [26](https://www.legislation.gov.uk/wsi/2016/413/regulation/26)
+
+[^c752780]: Marginal citation: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29).
+
+[^c752781]: Textual amendment: Words substituted by [Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/33), [s. 9](https://www.legislation.gov.uk/ukpga/1986/33/section/9)(*a*)
+
+[^c752782]: Textual amendment: Words inserted by [Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/33), [s. 9](https://www.legislation.gov.uk/ukpga/1986/33/section/9)(*b*)
+
+[^c752783]: Subordinate legislation: S. 1(3) power exercised: 1.10.1971 appointed for England and Wales by [S.I. 1971/698](https://www.legislation.gov.uk/uksi/1971/698) and 1.10.1972 appointed for Scotland by [S.I. 1972/1420](https://www.legislation.gov.uk/uksi/1972/1420)
+
+[^key-9842cf165d6edc3d6fba4763cdfc9947]: Textual amendment: S. 1(4)(5) inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/20) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3)); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2](https://www.legislation.gov.uk/uksi/2015/914/article/2)
+
+[^c752784]: Modification: S. 2 extended by [Local Authority Social Services Act 1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42), [s. 2(1)](https://www.legislation.gov.uk/ukpga/1970/42/section/2/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1970/42/schedule/1)
+
+[^key-17cc18afa9bbc0782b00f71fbb1bf65d]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1970/44/section/2/1) omitted (E.W.) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [27](https://www.legislation.gov.uk/wsi/2016/413/regulation/27)
+
+[^c752785]: Marginal citation: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29).
+
+[^c752786]: Textual amendment: Words repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
+
+[^c752787]: Textual amendment: Words repealed (1.4.1991 (E.W.) and*prosp.* (S.): see S.I. 1990/2218, art. 2, Sch.) by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [ss. 66(1)(2)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1/2), [67(2)](https://www.legislation.gov.uk/ukpga/1990/19/section/67/2), [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/12), [Sch. 10](https://www.legislation.gov.uk/ukpga/1990/19/schedule/10)
+
+[^c752788]: Textual amendment: Words repealed by [Local Authority Social Services Act 1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42), [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/1970/42/schedule/2/paragraph/12/1)
+
+[^c752789]: Textual amendment: Words inserted by [Local Authority Social Services Act 1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42), [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/1970/42/schedule/2/paragraph/12/1)
+
+[^c752790]: Marginal citation: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42).
+
+[^c752791]: Textual amendment: Words inserted (1.4.1991 (E.W.) and*prosp.* (S.): see S.I. 1990/2218, art. 2, Sch.) by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [ss. 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1), [67(2)](https://www.legislation.gov.uk/ukpga/1990/19/section/67/2), [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/12)
+
+[^key-0206f66c438b2a9172539990d4fb0be3]: Textual amendment: S. 2(1A) omitted (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 21(2)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/21/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3)); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2](https://www.legislation.gov.uk/uksi/2010/989/article/2)
+
+[^key-383febfda20071bb995dedb0f802068d]: Textual amendment: S. 2(1A) inserted (19.4.2010 for E., 19.4.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 148(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/148/3), [170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [170(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 11](https://www.legislation.gov.uk/uksi/2010/708/article/11) (with [art. 12](https://www.legislation.gov.uk/uksi/2010/708/article/12)); [S.I. 2010/989](https://www.legislation.gov.uk/uksi/2010/989), [art. 2](https://www.legislation.gov.uk/uksi/2010/989/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/989/article/4)); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 11](https://www.legislation.gov.uk/uksi/2010/708/article/11) (with [art. 12](https://www.legislation.gov.uk/uksi/2010/708/article/12)); [S.I. 2010/989](https://www.legislation.gov.uk/uksi/2010/989), [art. 2](https://www.legislation.gov.uk/uksi/2010/989/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/989/article/4))
+
+[^c752792]: Textual amendment: S. 2(2) repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
+
+[^key-21a7e0ec954673b50964d931a72a7375]: Textual amendment: S. 2(3)-(9) inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 21(3)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/21/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3)); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2](https://www.legislation.gov.uk/uksi/2010/989/article/2)
+
+[^key-f863df9e08d1994c3e83ea949623bb43]: Textual amendment: S. 2A inserted (E.W.) (1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 66(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/66/3), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
+
+[^c752793]: Textual amendment: S. 3 substituted by [Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/71) s. 4, Sch. 2 para. 20
+
+[^c752795]: Modification: S. 3(1): power to apply certain functions conferred (E.W.) by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 65(2)(a)(4)](https://www.legislation.gov.uk/ukpga/1988/50/section/65/2/a/4)
+
+[^c752794]: Textual amendment: S. 3(1)(2) repealed (S.) by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [s. 339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
+
+[^c752796]: Textual amendment: Words “appropriate provision” substituted (*prosp.*) (E.W.S.) for words commencing “provision, in so far as” by (S.) [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1981/23/section/37/1)(*a*), 43(4) and (E.W.) [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 6(1)(6)](https://www.legislation.gov.uk/ukpga/1981/43/section/6/1/6)
+
+[^c752798]: Textual amendment: Words added (*prosp.*) (E.W.) by [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1981/43/section/6/1)(*b*)
+
+[^c752799]: Textual amendment: Words added (*prosp.*) (S.) by [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1981/23/section/37/1)(*b*), 43(4)
+
+[^c752800]: Textual amendment: [S. 4(1A)](https://www.legislation.gov.uk/ukpga/1970/44/section/4/1A) inserted (*prosp.*) (E.W.S.) by (S.) [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [s. 37(2)](https://www.legislation.gov.uk/ukpga/1981/23/section/37/2) and (E.W.) [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 6(2)(6)](https://www.legislation.gov.uk/ukpga/1981/43/section/6/2/6) (the commas after “appropriate provision” and “any case” being omitted as regards (S.) )
+
+[^c752801]: Textual amendment: Words inserted by [Chronically Sick and Disabled Persons (Amendment) Act 1976 (c. 49, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1976/49), [s. 1](https://www.legislation.gov.uk/ukpga/1976/49/section/1)
+
+[^c752802]: Textual amendment: Words “appropriate provision” substituted (*prosp.*) (E.W.S.) for words commencing “provision, in so far as” by (S.) [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1981/23/section/37/1)(*a*), 43(4) and (E.W.) [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1981/43/section/6/1)(*b*)
+
+[^c752804]: Textual amendment: Words added (*prosp.*) (E.W.) by [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1981/43/section/6/1)(*b*)(6)
+
+[^c752805]: Textual amendment: Words added (*prosp.*) (S.) by [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1981/23/section/37/1)(*b*), 43(4)
+
+[^c752806]: Textual amendment: [S. 5(1A)](https://www.legislation.gov.uk/ukpga/1970/44/section/5/1A) inserted (*prosp.*) (E.W.S.) by (S.) [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [s. 37(3)](https://www.legislation.gov.uk/ukpga/1981/23/section/37/3) and (E.W.) [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 6(3)(6)](https://www.legislation.gov.uk/ukpga/1981/43/section/6/3/6)
+
+[^c752807]: Marginal citation: [1933 c. 51](https://www.legislation.gov.uk/ukpga/1933/51).
+
+[^c752809]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c752808]: Textual amendment: Word substituted by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 141](https://www.legislation.gov.uk/ukpga/1973/65/section/141)
+
+[^c752810]: Modification: S. 6 extended (E.W.) by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 180](https://www.legislation.gov.uk/ukpga/1972/70/section/180)
+
+[^c752811]: Textual amendment: Words commencing “section 20” substituted (E.W.) for words commencing “section 89” by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1976/57), [s. 20(10)](https://www.legislation.gov.uk/ukpga/1976/57/section/20/10)
+
+[^c752812]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
+
+[^c752814]: Textual amendment: Words repealed (E.W.) by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1976/57), [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/57/schedule/2)
+
+[^key-535ec5d7f731712e11f11de222bfd0b9]: Textual amendment: Words in s. 6(2) substituted (S.) (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 5(a)](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/5/a) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+
+[^c752819]: Marginal citation: [1959 c. 24](https://www.legislation.gov.uk/ukpga/1959/24).
+
+[^key-5e1c8aa322a8c98310b3bd017a8a6f7f]: Textual amendment: Word in s. 6(2) repealed (S.) (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 5(b)](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/5/b) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+
+[^key-a448fc76418f65a2b7bb4b64d3f15b38]: Textual amendment: Words in s. 6(2) substituted (S.) (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 5(c)](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/5/c) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+
+[^key-d85a710a5008cd751a87efb94a12dbee]: Textual amendment: Word in s. 6(2) substituted (S.) (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 5(d)](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/5/d) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+
+[^c752824]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1970/44/section/7) substituted by [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 5](https://www.legislation.gov.uk/ukpga/1981/43/section/5)
+
+[^c752864]: Textual amendment: S. 8(2)(aa) (which was inserted by [Education Reform Act 1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 69(3)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/69/3)) substituted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93](https://www.legislation.gov.uk/ukpga/1992/13/section/93), [Sch. 8 para. 72(a)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/paragraph/72/a); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c752865]: Textual amendment: S. 8(2)(*b*) substituted by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(1)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/1), [Sch. 12 para. 69(3)](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/paragraph/69/3)
+
+[^key-fdc83982c5ab6c0585a0688bfb5905ae]: Textual amendment: Words in [s. 8(2)(b)](https://www.legislation.gov.uk/ukpga/1970/44/section/8/2/b) substituted (5.5.2010) by [The Local Education Authorities and Childrenâ€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/24)
+
+[^c752866]: Textual amendment: S. 8(2)(ba) inserted (1.4.1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93](https://www.legislation.gov.uk/ukpga/1992/13/section/93), [Sch. 8 para. 72(b)](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/paragraph/72/b); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3)
+
+[^c752867]: Textual amendment: S. 8(2)(c) substituted (16.5.1992) by [Further and Higher Education (Scotland) Act 1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), [s. 62(2)](https://www.legislation.gov.uk/ukpga/1992/37/section/62/2), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/3); [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1)
+
+[^c752868]: Textual amendment: Words in s. 8(2) substituted (1.11.1996) by virtue of [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37 Pt. I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/part/I), [para. 19](https://www.legislation.gov.uk/ukpga/1996/56/paragraph/19) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [582(3)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/3), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
+
+[^c752869]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1970/44/section/8A) added by [Chronically Sick and Disabled Persons (Amendment) Act 1976 (c. 49, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1976/49), [s. 2](https://www.legislation.gov.uk/ukpga/1976/49/section/2)
+
+[^c752870]: Textual amendment: Words “appropriate provision” substituted (*prosp.*) (E.W.S.) for words commencing “provision, in so far as” by (S.) [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [s. 37(1)](https://www.legislation.gov.uk/ukpga/1981/23/section/37/1)(*a*) and (E.W.) [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1981/43/section/6/1)(*a*)(6)
+
+[^c752872]: Textual amendment: Words added (*prosp.*) (E.W.) by [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1981/43/section/6/1)(*b*)
+
+[^c752873]: Textual amendment: Words added (*prosp.*) (S.) by [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1981/23/section/37/1)(*b*), 43(4)
+
+[^c752874]: Textual amendment: Words inserted (*prosp.*) (E.W.S.) by (S.) [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/1981/23/section/37/3), [43(4)](https://www.legislation.gov.uk/ukpga/1981/23/section/43/4) and (E.W.) [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 6(3)(6)](https://www.legislation.gov.uk/ukpga/1981/43/section/6/3/6)
+
+[^c752875]: Textual amendment: S. 8B inserted (E.W.S.) by [Disabled Persons Act 1981 (c. 43, SIF 81:3)](https://www.legislation.gov.uk/ukpga/1981/43), [s. 7](https://www.legislation.gov.uk/ukpga/1981/43/section/7)
+
+[^key-d5345884c2926eda2905c1e79c0cce75]: Textual amendment: S. 8B(2)(c) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2005/19/schedule/16/paragraph/4), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354), [Sch. 16 paras. 21](https://www.legislation.gov.uk/ukpga/2005/19/schedule/16/paragraph/21)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), [art. 3](https://www.legislation.gov.uk/uksi/2006/3272/article/3), [6](https://www.legislation.gov.uk/uksi/2006/3272/article/6), [Sch.](https://www.legislation.gov.uk/uksi/2006/3272/schedule))
+
+[^c752878]: Marginal citation: [1921 c. 49](https://www.legislation.gov.uk/ukpga/1921/49).
+
+[^c752879]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/1970/44/section/9) substituted (1.1.2001) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2000/19/section/61/1); [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2(5)](https://www.legislation.gov.uk/uksi/2000/2994/article/2/5)
+
+[^c752880]: Textual amendment: Words substituted by [Social Security Act 1989 (c. 24, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1989/24), [s. 25(5)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/5)
+
+[^c752881]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1970/44/section/10) repealed (S.) by [Tenants' Rights, Etc. (Scotland) Act 1980 (c. 52, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/52), [Sch. 5](https://www.legislation.gov.uk/ukpga/1980/52/schedule/5)
+
+[^c752882]: Textual amendment: Words repealed by [Housing Rents and Subsidies Act 1975 (c. 6)](https://www.legislation.gov.uk/ukpga/1975/6), [Sch. 6 Pt. IV](https://www.legislation.gov.uk/ukpga/1975/6/schedule/6/part/IV)
+
+[^c752883]: Marginal citation: [1966 c. 49](https://www.legislation.gov.uk/ukpga/1966/49).
+
+[^c752884]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1970/44/section/11): power to continue in force, with or without prescribed modifications, or for temporarily retaining the effect of provision for transitional purposes conferred (1.7.1992) see [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 5](https://www.legislation.gov.uk/ukpga/1992/6/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 3 Pt. II para.15](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/part/II/paragraph/15) and [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/1973/38/section/100/2/b), [Sch. 28](https://www.legislation.gov.uk/ukpga/1973/38/schedule/28)
+
+[^c752885]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1970/44/section/11) repealed by [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [Sch. 28 Pt. I](https://www.legislation.gov.uk/ukpga/1973/38/schedule/28/part/I)
+
+[^c752903]: Textual amendment: [S. 13(1)](https://www.legislation.gov.uk/ukpga/1970/44/section/13/1) repealed (1.4.1994 for England and Scotland, 1.4.1995 for Wales) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 51](https://www.legislation.gov.uk/ukpga/1993/19/section/51), [Sch.10](https://www.legislation.gov.uk/ukpga/1993/19/schedule/10); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(3)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/3), [Sch.3](https://www.legislation.gov.uk/uksi/1993/2503/schedule/3)
+
+[^c752904]: Textual amendment: Words substituted by [Employment and Training Act 1973 (c. 50)](https://www.legislation.gov.uk/ukpga/1973/50), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/1973/50/schedule/3/paragraph/11/2)
+
+[^c752905]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
+
+[^c752906]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1970/44/section/13/2) substituted (1.4.1994 for England and Scotland, 1.4.1995 for Wales) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2), [Sch. 8 para.3](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/3); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(3)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/3), [Sch.3](https://www.legislation.gov.uk/uksi/1993/2503/schedule/3)
+
+[^c752907]: Textual amendment: Words repealed by [Employment and Training Act 1973 (c. 50)](https://www.legislation.gov.uk/ukpga/1973/50), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/1973/50/schedule/3/paragraph/11/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1973/50/schedule/4)
+
+[^key-381caf072637540e7dbaaa5e4246b624]: Textual amendment: Word in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1970/44/section/14/1) substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/3); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+
+[^c752946]: Textual amendment: Words inserted by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 40(12)](https://www.legislation.gov.uk/ukpga/1984/32/section/40/12), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/1984/32/schedule/3/paragraph/12)
+
+[^c752947]: Textual amendment: Words in s. 14 substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 252(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/252/2), [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/19/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
+
+[^c752948]: Textual amendment: Words in s. 14(1) repealed (7.11.2000) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/27/schedule/8); [S.I. 2000/2974](https://www.legislation.gov.uk/uksi/2000/2974), [art. 2](https://www.legislation.gov.uk/uksi/2000/2974/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2974/schedule)
+
+[^c752950]: Textual amendment: Words in s. 14(1) repealed (1.1.2001) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 127(6)](https://www.legislation.gov.uk/ukpga/2000/26/section/127/6), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2000/2957](https://www.legislation.gov.uk/uksi/2000/2957), [art. 2(2)](https://www.legislation.gov.uk/uksi/2000/2957/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2957/schedule/2) Table
+
+[^c752951]: Textual amendment: Words in s. 14(1) repealed (E.W.S) (1.3.1995) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7)); [S.I. 1995/273](https://www.legislation.gov.uk/uksi/1995/273), [art. 2](https://www.legislation.gov.uk/uksi/1995/273/article/2)
+
+[^c752952]: Textual amendment: S. 14(2) repealed (1.1.2001) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 127(6)](https://www.legislation.gov.uk/ukpga/2000/26/section/127/6), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2000/2957](https://www.legislation.gov.uk/uksi/2000/2957), [art. 2(2)](https://www.legislation.gov.uk/uksi/2000/2957/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2957/schedule/2) Table
+
+[^c752953]: Marginal citation: [1933 c. 51](https://www.legislation.gov.uk/ukpga/1933/51).
+
+[^c752954]: Marginal citation: [1947 c. 43](https://www.legislation.gov.uk/ukpga/1947/43).
+
+[^c752955]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/1970/44/section/16) amended (*temp.*from 2.12.1996 to 1.4.1998) by [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50), [s. 60(8)](https://www.legislation.gov.uk/ukpga/1995/50/section/60/8) (with [ss. 59](https://www.legislation.gov.uk/ukpga/1995/50/section/59), [64](https://www.legislation.gov.uk/ukpga/1995/50/section/64), [65](https://www.legislation.gov.uk/ukpga/1995/50/section/65)); [S.I. 1996/1474](https://www.legislation.gov.uk/uksi/1996/1474), [art. 2(3)](https://www.legislation.gov.uk/uksi/1996/1474/article/2/3), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/1996/1474/schedule/part/III); [S.I. 1998/565](https://www.legislation.gov.uk/uksi/1998/565), [art. 2](https://www.legislation.gov.uk/uksi/1998/565/article/2)
+
+[^c752956]: Marginal citation: [1944 c. 10](https://www.legislation.gov.uk/ukpga/1944/10).
+
+[^c752958]: Modification: S. 17: transfer of functions (E.) (1.4.2001) by [S.I. 2001/747](https://www.legislation.gov.uk/uksi/2001/747), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2001/747/regulation/2/1), [3](https://www.legislation.gov.uk/uksi/2001/747/regulation/3), [4](https://www.legislation.gov.uk/uksi/2001/747/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/747/schedule/1)
+
+[^key-b2b9d976886e7bd05ccd049b90213c41]: Modification: S. 17 functions made exercisable by Local Health Boards (E.W.) (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1511/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2009/1511/regulation/4), [Schs.](https://www.legislation.gov.uk/uksi/2009/1511/schedule)
+
+[^key-a13d6ff1b54f9ef7f9a3093bba6a8ebd]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/1970/44/section/17/1) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 16(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/16/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^c752960]: Textual amendment: Words substituted by [National Health Service (Scotland) Act 1972 (c. 58)](https://www.legislation.gov.uk/ukpga/1972/58), [Sch. 6 para. 146](https://www.legislation.gov.uk/ukpga/1972/58/schedule/6/paragraph/146)
+
+[^c752961]: Marginal citation: [1972 c. 58](https://www.legislation.gov.uk/ukpga/1972/58).
+
+[^c752962]: Textual amendment: “1978” substituted (S.) for “1972” by [National Health Service (Scotland) Act 1978 (c. 29, SIF 38)](https://www.legislation.gov.uk/ukpga/1978/29), [Sch. 16 para. 33](https://www.legislation.gov.uk/ukpga/1978/29/schedule/16/paragraph/33)
+
+[^c752965]: Editorial: S. 17 subsection (2) commencing “The Secretary of State” substituted (E.W.) for subsection (2) commencing “Each such Board” by [National Health Service Reorganisation Act 1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), [s. 57](https://www.legislation.gov.uk/ukpga/1973/32/section/57), [Sch. 4 para. 132(2)](https://www.legislation.gov.uk/ukpga/1973/32/schedule/4/paragraph/132/2)
+
+[^c752964]: Textual amendment: S. 17 subsection (2) commencing “The Secretary of State” substituted (E.W.) for subsection (2) commencing “Each such Board” by [National Health Service Reorganisation Act 1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), [s. 57](https://www.legislation.gov.uk/ukpga/1973/32/section/57), [Sch. 4 para. 132(2)](https://www.legislation.gov.uk/ukpga/1973/32/schedule/4/paragraph/132/2)
+
+[^key-6a55673b44be8e7418687fec85e024bc]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1970/44/section/17/2) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/16/3/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-9ca078bcf7f6808edb44804b6291d5ff]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1970/44/section/17/2) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 16(3)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/16/3/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-d9aa11c22d0453f36a34538d43294f17]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1970/44/section/17/2) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 16(3)(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/16/3/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^key-b6fd1fdaf561d83d8f829467070235cf]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/1970/44/section/17/2) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 16(3)(d)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/16/3/d); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^c752981]: Textual amendment: S. 18 repealed (4.10.2001 in so far as it relates to the repeal of subsections (1) and (3) for E. and otherwise*prosp.*) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/2), [122](https://www.legislation.gov.uk/ukpga/2000/14/section/122), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/14/schedule/6); [S.I. 2001/3331](https://www.legislation.gov.uk/uksi/2001/3331), [art. 2](https://www.legislation.gov.uk/uksi/2001/3331/article/2)
+
+[^c752980]: Modification: S. 18 extended by [Local Authority Social Services Act 1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42), [s. 2(1)](https://www.legislation.gov.uk/ukpga/1970/42/section/2/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1970/42/schedule/1)
+
+[^c752982]: Marginal citation: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29).
+
+[^c752983]: Textual amendment: Words in s. 18(2) substituted (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 17(2)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/17/2) (with [Sch. 3 paras. 4](https://www.legislation.gov.uk/ukpga/1995/36/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1995/36/schedule/3/paragraph/6)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
+
+[^c752984]: Textual amendment: Words commencing “section 1(2)” substituted (S.) for words commencing “section 6” by [Mental Health (Scotland) Act 1984 (c. 36, SIF 85)](https://www.legislation.gov.uk/ukpga/1984/36), [s. 127(1)](https://www.legislation.gov.uk/ukpga/1984/36/section/127/1), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/1984/36/schedule/3/paragraph/19)
+
+[^c752985]: Marginal citation: [1960 c. 61](https://www.legislation.gov.uk/ukpga/1960/61).
+
+[^key-456de3f02a497bb5ef0fd18ffa562fe8]: Textual amendment: Words in [s. 18(2)](https://www.legislation.gov.uk/ukpga/1970/44/section/18/2) substituted (S.) (27.9.2005) by [Mental Health (Care and Treatment0 (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/5/2)
+
+[^c752987]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1970/44/section/19) repealed by [National Health Service Reorganisation Act 1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), [s. 57](https://www.legislation.gov.uk/ukpga/1973/32/section/57), [Sch. 5](https://www.legislation.gov.uk/ukpga/1973/32/schedule/5)
+
+[^c753005]: Subordinate legislation: S. 20: power exercised by [S.I. 1970/1391](https://www.legislation.gov.uk/uksi/1970/1391), 1988/2268
+
+[^key-f4cf9529de6ce612271442dc34a047bf]: Modification: S. 20 applied (E.W.) (2.5.2006 for E., 11.5.2006 for W.) by [Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177)](https://www.legislation.gov.uk/uksi/2006/1177), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/1/4)[2(1)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2006/1177/schedule/part/I) (see [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/1992/1286/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/1992/1286/article/3)) and [S.I. 2006/1279](https://www.legislation.gov.uk/uksi/2006/1279), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/1992/1286/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/1992/1286/article/3)))
+
+[^c753006]: Textual amendment: Words substituted by [Road Traffic Act 1972 (c. 20)](https://www.legislation.gov.uk/ukpga/1972/20), [Sch. 7](https://www.legislation.gov.uk/ukpga/1972/20/schedule/7)
+
+[^c753007]: Textual amendment: “1984” substituted by [Road Traffic Regulation Act 1984 (c. 27, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1984/27), [s. 146](https://www.legislation.gov.uk/ukpga/1984/27/section/146), [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/1984/27/schedule/13/paragraph/10)
+
+[^c753008]: Textual amendment: Words substituted by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4](https://www.legislation.gov.uk/ukpga/1988/54/section/4), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/7/a)
+
+[^c753009]: Textual amendment: Words in s. 20(1)(b) inserted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/3/a); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
+
+[^c753010]: Textual amendment: Words in s. 20(1)(b) added (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/3/b); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
+
+[^c753011]: Textual amendment: Words inserted (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 67](https://www.legislation.gov.uk/ukpga/2000/37/section/67), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2000/37/schedule/7/paragraph/3)
+
+[^c753012]: Textual amendment: Words substituted by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4](https://www.legislation.gov.uk/ukpga/1988/54/section/4), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/7/b)
+
+[^key-e612a82136415debb22a176892d079c3]: Textual amendment: Words in s. 20(2) inserted (E.W.) (2.5.2006 for E., 11.5.2006 for W.) by [Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177)](https://www.legislation.gov.uk/uksi/2006/1177), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/1/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2006/1177/schedule/part/I) (see [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/1992/1286/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/1992/1286/article/3)) and [S.I. 2006/1279](https://www.legislation.gov.uk/uksi/2006/1279), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/1992/1286/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/1992/1286/article/3)))
+
+[^c753013]: Textual amendment: Words substituted (E.W.) by [Highways Act 1980 (c. 66, SIF 59)](https://www.legislation.gov.uk/ukpga/1980/66), [Sch. 24 para. 19](https://www.legislation.gov.uk/ukpga/1980/66/schedule/24/paragraph/19)
+
+[^c753014]: Marginal citation: [1967 c. 86](https://www.legislation.gov.uk/ukpga/1967/86).
+
+[^c753106]: Subordinate legislation: S. 21: for previous exercises of powers see Index to Government Orders
+
+[^key-d742a39622b3809d34c6990a3feec644]: Textual amendment: Words in s. 21(1) omitted (8.10.2013) by virtue of [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/2), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7) (with [s. 1(8)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/8)); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^c753107]: Textual amendment: Words in s. 21(1)(b) substituted by [Road Traffic Regulation Act 1984 (c. 27, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1984/27), [s. 146](https://www.legislation.gov.uk/ukpga/1984/27/section/146), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/1984/27/schedule/13/paragraph/11)(*a*)
+
+[^key-ad0f43aec66f79b9753177cc4765acf4]: Textual amendment: S. 21(1A) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/3), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7) (with [s. 1(8)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/8)); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-bc32f45aafe086e7a9be0886de3708c6]: Textual amendment: Words in s. 21(1A)(a) omitted (24.5.2018) by virtue of [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/13/2/a)
+
+[^key-a01eb977a5ba6523de53e20d9bf90688]: Textual amendment: S. 21(1A)(aa) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/13/2/b)
+
+[^key-5e0e2004e073cf1e08b71642d2f51f7c]: Textual amendment: S. 21(1A)(b) substituted (S.) (30.3.2015) by [Disabled Persons’ Parking Badges (Scotland) Act 2014 (asp 17)](https://www.legislation.gov.uk/asp/2014/17), [ss. 1](https://www.legislation.gov.uk/asp/2014/17/section/1), [7(2)](https://www.legislation.gov.uk/asp/2014/17/section/7/2); [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2) and (E.W.) (23.3.2016) by The Disabled Persons’ Parking Badges (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.I. 2016/432), art. 3(2)
+
+[^c753108]: Textual amendment: S. 21(2) substituted (1.10.1991) for s. 21(2)(3) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/1991/40/section/35/2); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art. 3](https://www.legislation.gov.uk/uksi/1991/2054/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2054/schedule)
+
+[^key-f9a27f42eefb797a715bb4a0c69c3b0c]: Textual amendment: Word in s. 21(4) substituted (E.W.) (30.6.2005 for E., 30.3.2008 for W.) by [Disability Discrimination Act 2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/4), [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2005/13/schedule/1/paragraph/41); [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/1676/article/3/b); [S.I. 2007/3285](https://www.legislation.gov.uk/uksi/2007/3285), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3285/article/2/b); and (S.) (1.4.2007) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), ss. 49, 54(2); [S.S.I. 2007/161](https://www.legislation.gov.uk/ssi/2007/161), art. 2
+
+[^c753109]: Textual amendment: Words in s. 21(4) repealed (2.3.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/1991/40/section/35/3), [83](https://www.legislation.gov.uk/ukpga/1991/40/section/83), [Sch. 8](https://www.legislation.gov.uk/ukpga/1991/40/schedule/8); [S.I. 1992/199](https://www.legislation.gov.uk/uksi/1992/199), [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/199/article/3/1)
+
+[^c753110]: Textual amendment: S. 21(4A)(4B)(4C) inserted (2.3.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 35(4)](https://www.legislation.gov.uk/ukpga/1991/40/section/35/4); [S.I. 1992/199](https://www.legislation.gov.uk/uksi/1992/199), [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/199/article/3/1)
+
+[^key-b2c9cc66c7252f620403f2d392d133e5]: Textual amendment: Words in s. 21(4B) inserted (E.W.) (29.9.2006 for E., 26.10.2006 for W.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), [ss. 94(2)](https://www.legislation.gov.uk/ukpga/2004/18/section/94/2), [99(1)](https://www.legislation.gov.uk/ukpga/2004/18/section/99/1); [S.I. 2006/1736](https://www.legislation.gov.uk/uksi/2006/1736), [art. 2](https://www.legislation.gov.uk/uksi/2006/1736/article/2); [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/d)
+
+[^key-a25773248add2433d361d2a709794fca]: Textual amendment: Words in s. 21(4B) substituted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/4), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7) (with [s. 1(8)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/8)); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-02da26ae1d9f2ec406fb79a632108aff]: Textual amendment: S. 21(4BZA) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2013/4/section/3/2), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-60412fe142d2b86cedf9fd72f4ae17ad]: Textual amendment: S. 21(4BZA) repealed (S.) (30.3.2015) by [Disabled Persons’ Parking Badges (Scotland) Act 2014 (asp 17)](https://www.legislation.gov.uk/asp/2014/17), [ss. 4(1)](https://www.legislation.gov.uk/asp/2014/17/section/4/1), [7(2)](https://www.legislation.gov.uk/asp/2014/17/section/7/2); [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+
+[^key-3799450b830c464c4e42062125721e93]: Textual amendment: S. 21(4BA)-(4BD) inserted (29.9.2006 for E., 26.10.2006 for W.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), [ss. 94(3)](https://www.legislation.gov.uk/ukpga/2004/18/section/94/3), [99(1)](https://www.legislation.gov.uk/ukpga/2004/18/section/99/1); [S.I. 2006/1736](https://www.legislation.gov.uk/uksi/2006/1736), [art. 2](https://www.legislation.gov.uk/uksi/2006/1736/article/2); [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/d)
+
+[^key-3f217c13279581e15cc03fdc4bbb3478]: Textual amendment: Words in s. 21(4BA) substituted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/5), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7) (with [s. 1(8)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/8)); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-442271d29ff2e913096eaddf5aaa8ab7]: Textual amendment: S. 21(4BB)(a) omitted (E.W.) (31.1.2017 for specified purposes, 1.12.2018 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/13/paragraph/1); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1139/regulation/3)
+
+[^key-c7fae442135db328cd2cd77e00bbf127]: Textual amendment: S. 21(4BB)(d) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2013/4/section/4/2), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-c14d8db8a6b9586701695a50e776eca2]: Textual amendment: S. 21(4BE) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2013/4/section/4/3), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-0ad7df36c3c4b1c9b061d33bba04cbfd]: Textual amendment: S. 21(4BA)(4BB) inserted (S.) (1.1.2004) by [Transport (Scotland) Act 2001 (asp 2)](https://www.legislation.gov.uk/asp/2001/2), [ss. 73(a)](https://www.legislation.gov.uk/asp/2001/2/section/73/a), [84(2)](https://www.legislation.gov.uk/asp/2001/2/section/84/2) (with [s. 66](https://www.legislation.gov.uk/asp/2001/2/section/66)); [S.S.I. 2003/588](https://www.legislation.gov.uk/ssi/2003/588), [art. 2](https://www.legislation.gov.uk/ssi/2003/588/article/2)
+
+[^key-10873b321831d0fa57cb60ce89aeaf01]: Textual amendment: Words in s. 21(4BA) inserted (S.) (30.3.2015) by [Disabled Persons’ Parking Badges (Scotland) Act 2014 (asp 17)](https://www.legislation.gov.uk/asp/2014/17), [ss. 5(2)(a)](https://www.legislation.gov.uk/asp/2014/17/section/5/2/a), [7(2)](https://www.legislation.gov.uk/asp/2014/17/section/7/2); [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+
+[^key-64ad24dde30722710138ac5d70f89d33]: Textual amendment: Words in s. 21(4BA) substituted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/6), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7) (with [s. 1(8)](https://www.legislation.gov.uk/ukpga/2013/4/section/1/8)); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-b0d6ef483ac3c410e901b73533f7ee62]: Textual amendment: Words in s. 21(4BA)(a) inserted (S.) (30.3.2015) by [Disabled Persons’ Parking Badges (Scotland) Act 2014 (asp 17)](https://www.legislation.gov.uk/asp/2014/17), [ss. 5(2)(b)](https://www.legislation.gov.uk/asp/2014/17/section/5/2/b), [7(2)](https://www.legislation.gov.uk/asp/2014/17/section/7/2); [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+
+[^key-c55b8bc49cb6a9c2bc89a60f4a932296]: Textual amendment: S. 21(4BC) inserted (S.) (30.3.2015) by [Disabled Personsâ€™ Parking Badges (Scotland) Act 2014 (asp 17)](https://www.legislation.gov.uk/asp/2014/17), [ss. 5(3)](https://www.legislation.gov.uk/asp/2014/17/section/5/3), [7(2)](https://www.legislation.gov.uk/asp/2014/17/section/7/2); [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+
+[^key-619aa1e333a0f57c84d5b151c85d892a]: Textual amendment: Words in s. 21(4C) substituted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2013/4/section/3/3), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-bec9075b7beb04ed4b013f4552183b95]: Textual amendment: Words in s. 21(4C) inserted (29.9.2006 for E., 26.10.2006 for W.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), [ss. 94(4)](https://www.legislation.gov.uk/ukpga/2004/18/section/94/4), [99(1)](https://www.legislation.gov.uk/ukpga/2004/18/section/99/1); [S.I. 2006/1736](https://www.legislation.gov.uk/uksi/2006/1736), [art. 2](https://www.legislation.gov.uk/uksi/2006/1736/article/2); [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/d)
+
+[^key-7004d78c6e9162509025a3b101e5df44]: Textual amendment: Words in s. 21(4C) inserted (S.) (1.1.2004) by [Transport (Scotland) Act 2001 (asp 2)](https://www.legislation.gov.uk/asp/2001/2), [ss. 73(b)](https://www.legislation.gov.uk/asp/2001/2/section/73/b), [84(2)](https://www.legislation.gov.uk/asp/2001/2/section/84/2) (with [s. 66](https://www.legislation.gov.uk/asp/2001/2/section/66)); [S.S.I. 2003/588](https://www.legislation.gov.uk/ssi/2003/588), [art. 2](https://www.legislation.gov.uk/ssi/2003/588/article/2)
+
+[^key-fce9923315db17bd5edfc415e94080ea]: Textual amendment: S. 21(4D)(4E) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2013/4/section/4/4), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-46643bcb00771ba583e53488dc999215]: Textual amendment: S. 21(4D) repealed (S.) (30.3.2015) by [Disabled Persons’ Parking Badges (Scotland) Act 2014 (asp 17)](https://www.legislation.gov.uk/asp/2014/17), [ss. 3](https://www.legislation.gov.uk/asp/2014/17/section/3), [7(2)](https://www.legislation.gov.uk/asp/2014/17/section/7/2); [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+
+[^c753111]: Textual amendment: Words in s. 21(5) repealed (1.10.1991) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [ss. 35(5)](https://www.legislation.gov.uk/ukpga/1991/40/section/35/5), [83](https://www.legislation.gov.uk/ukpga/1991/40/section/83), [Sch. 8](https://www.legislation.gov.uk/ukpga/1991/40/schedule/8); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art. 3](https://www.legislation.gov.uk/uksi/1991/2054/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2054/schedule)
+
+[^c753112]: Modification: S. 21(7): modification of functions (24.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [art. 2](https://www.legislation.gov.uk/uksi/1999/1756/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/4)
+
+[^c753113]: Marginal citation: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29).
+
+[^c753114]: Textual amendment: Words in s. 21(7)(c) inserted by [Road Traffic Regulation Act 1984 (c. 27, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1984/27), [s. 146](https://www.legislation.gov.uk/ukpga/1984/27/section/146), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/1984/27/schedule/13/paragraph/11)(*b*)
+
+[^c753116]: Marginal citation: [1967 c. 76](https://www.legislation.gov.uk/ukpga/1967/76).
+
+[^c753117]: Textual amendment: S. 21(7A)–(7E) inserted by [Transport Act 1982 (c. 49, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1982/49), [s. 68](https://www.legislation.gov.uk/ukpga/1982/49/section/68)
+
+[^key-9dc5f6918c5dde02e30493d2d440c49f]: Textual amendment: S. 21(7AB) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/4/section/2/2), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-4ab2f7b8d43b296743c89632ed469688]: Textual amendment: S. 21(7AB) repealed (S.) (30.3.2015) by [Disabled Persons’ Parking Badges (Scotland) Act 2014 (asp 17)](https://www.legislation.gov.uk/asp/2014/17), [ss. 2](https://www.legislation.gov.uk/asp/2014/17/section/2), [7(2)](https://www.legislation.gov.uk/asp/2014/17/section/7/2); [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+
+[^key-724a60a35d394589affbd5923418c773]: Textual amendment: Words in s. 21(7AB) omitted (E.W.) (23.3.2016) by virtue of [The Disabled Persons Parking Badges (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.I. 2016/436)](https://www.legislation.gov.uk/uksi/2016/436), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/436/article/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2016/436/article/3/3)
+
+[^key-8d6bcbb6ae2837c625958ba5674815d9]: Textual amendment: Words in s. 21(7B) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/4/section/2/3), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^c753118]: Textual amendment: S. 21(7CA) inserted (S.) (1.4.2001) by [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2), [s. 73(c)](https://www.legislation.gov.uk/asp/2001/2/section/73/c) (with [s. 66](https://www.legislation.gov.uk/asp/2001/2/section/66)); [S.S.I. 2001/132](https://www.legislation.gov.uk/ssi/2001/132), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/132/article/2/2), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2001/132/schedule/part/I) (subject to transitional provisions in [arts. 3](https://www.legislation.gov.uk/ssi/2001/132/article/3), [4](https://www.legislation.gov.uk/ssi/2001/132/article/4))
+
+[^key-74fc4e8afc290a1640997056829ec46f]: Textual amendment: Words in s. 21(7D) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2013/4/section/2/4), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-4d2f85e0a8e8f0a8546c341f1cf53ce6]: Textual amendment: Words in s. 21(7D) substituted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2013/4/section/5/3), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-49e6d2ac5c5cf88cf5b37fbb4479891d]: Textual amendment: Words in s. 21(7E) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/1)
+
+[^key-ae31a8f6b73f9c9e9f0dfad50a46a9ab]: Textual amendment: S. 21(7EA) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2013/4/section/5/2), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7) (with [s. 5(4)](https://www.legislation.gov.uk/ukpga/2013/4/section/5/4)); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^c753119]: Textual amendment: S. 21(7F)(7G) inserted (S.) (1.4.2001) by [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2), [s. 73(d)](https://www.legislation.gov.uk/asp/2001/2/section/73/d) (with [s. 66](https://www.legislation.gov.uk/asp/2001/2/section/66)); [S.S.I. 2001/132](https://www.legislation.gov.uk/ssi/2001/132), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/132/article/2/2), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2001/132/schedule/part/I) (subject to transitional provisions in [arts. 3](https://www.legislation.gov.uk/ssi/2001/132/article/3), [4](https://www.legislation.gov.uk/ssi/2001/132/article/4))
+
+[^c753120]: Textual amendment: Words in s. 21(8) inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 8](https://www.legislation.gov.uk/ukpga/1985/51/section/8), [Sch. 5 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1985/51/schedule/5/part/I/paragraph/1)
+
+[^c753121]: Textual amendment: Words in s. 21(8) repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
+
+[^c753122]: Textual amendment: Words in s. 21(8) repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/4), [66(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/8), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/1994/19/schedule/10/paragraph/8), [Sch. 18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [arts. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
+
+[^c753123]: Textual amendment: Words in s. 21(8) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(4)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/4), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/1994/19/schedule/10/paragraph/8) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
+
+[^c753124]: Textual amendment: Words in s. 21(8) substituted (S.) (1.4.1996) by virtue of [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 86](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/86); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
+
+[^c753125]: Textual amendment: “1984” substituted by [Road Traffic Regulation Act 1984 (c. 27, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1984/27), [s. 146](https://www.legislation.gov.uk/ukpga/1984/27/section/146), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/1984/27/schedule/13/paragraph/11)(*c*)
+
+[^key-03548da4dd47c402401f09553728a50c]: Textual amendment: S. 21(8A) inserted (S.) (1.1.2004) by [Transport (Scotland) Act 2001 (asp 2)](https://www.legislation.gov.uk/asp/2001/2), [ss. 73(e)](https://www.legislation.gov.uk/asp/2001/2/section/73/e), [84(2)](https://www.legislation.gov.uk/asp/2001/2/section/84/2) (with [s. 66](https://www.legislation.gov.uk/asp/2001/2/section/66)); [S.S.I. 2003/588](https://www.legislation.gov.uk/ssi/2003/588), [art. 2](https://www.legislation.gov.uk/ssi/2003/588/article/2)
+
+[^key-c0cf54ce869be63d0380568e673b2db1]: Textual amendment: S. 21(8A) substituted (S.) (30.3.2015) by [Disabled Persons’ Parking Badges (Scotland) Act 2014 (asp 17)](https://www.legislation.gov.uk/asp/2014/17), [ss. 5(4)](https://www.legislation.gov.uk/asp/2014/17/section/5/4), [7(2)](https://www.legislation.gov.uk/asp/2014/17/section/7/2); [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+
+[^key-ab35f22beaa3d606416d749f2e2f2a26]: Textual amendment: Words in s. 21(8A) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/6)
+
+[^key-85e7da0ee84e86a7804b3ee21ee78bb5]: Textual amendment: S. 21(8B)-(8D) inserted (8.10.2013) by [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4), [ss. 6](https://www.legislation.gov.uk/ukpga/2013/4/section/6), [7](https://www.legislation.gov.uk/ukpga/2013/4/section/7); [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+
+[^key-8a6bac2c5c5afeb672f92cdc98646f54]: Textual amendment: Words in s. 21(8C) omitted (23.3.2016) by virtue of [The Disabled Persons Parking Badges (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.I. 2016/436)](https://www.legislation.gov.uk/uksi/2016/436), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/436/article/1/b), [4(2)(a)](https://www.legislation.gov.uk/uksi/2016/436/article/4/2/a)
+
+[^key-591a81220ecdda57699d4795929b4768]: Textual amendment: Words in s. 21(8C) inserted (23.3.2016) by [The Disabled Persons Parking Badges (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.I. 2016/436)](https://www.legislation.gov.uk/uksi/2016/436), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/436/article/1/b), [4(2)(b)](https://www.legislation.gov.uk/uksi/2016/436/article/4/2/b)
+
+[^key-277d5fafe94a5d7d53fbfaddcb6a16e5]: Textual amendment: Words in s. 21(8C) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2018/644/article/13/3)
+
+[^c753126]: Subordinate legislation: S. 21(9) power exercised: 1.12.1971 appointed for s. 21 by [S.I. 1971/1491](https://www.legislation.gov.uk/uksi/1971/1491)
+
+[^key-addb1d06a084c15e0604915bafd7846c]: Textual amendment: [Ss. 21A-21C](https://www.legislation.gov.uk/ukpga/1970/44/section/21A) inserted (E.W.) (30.6.2005 for E., 30.3.2008 for W.) by [Disability Discrimination Act 2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), [ss. 9](https://www.legislation.gov.uk/ukpga/2005/13/section/9), [20(4)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/4); [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/1676/article/3/a); [S.I. 2007/3285](https://www.legislation.gov.uk/wsi/2007/3285), [art. 2(a)](https://www.legislation.gov.uk/wsi/2007/3285/article/2/a)
+
+[^c753151]: Marginal citation: [1943 c. 39](https://www.legislation.gov.uk/ukpga/1943/39).
+
+[^c753152]: Modification: The text of s. 23(2)(b)—(d)(3) and (4) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^key-44cc17b9b950d1c035fbd6b51a071db8]: Textual amendment: S. 23(3)(4) repealed (6.4.2005) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [s. 8](https://www.legislation.gov.uk/ukpga/2004/32/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/32/schedule/3); [S.I. 2005/356](https://www.legislation.gov.uk/uksi/2005/356), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/356/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/356/schedule/2); [S.I. 2005/356](https://www.legislation.gov.uk/uksi/2005/356), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/356/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/356/schedule/2)
+
+[^c753157]: Marginal citation: [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699).
+
+[^c753158]: Textual amendment: Ss. 25–27 repealed (E.W.S.) by (S.) [Education (Scotland) Act 1980 (c. 44, SIF 41:2)](https://www.legislation.gov.uk/ukpga/1980/44), [Sch. 5](https://www.legislation.gov.uk/ukpga/1980/44/schedule/5) and (E.W.) [Education Act 1981 (c. 60, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1981/60), [s. 20(2) Sch. 4](https://www.legislation.gov.uk/ukpga/1981/60/section/20/2/schedule/4)
+
+[^c753178]: Modification: S. 28 extended (14.7.1992) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [ss. 105(5)](https://www.legislation.gov.uk/ukpga/1991/22/section/105/5), [164(5)](https://www.legislation.gov.uk/ukpga/1991/22/section/164/5) (with [s. 167(4)(5)](https://www.legislation.gov.uk/ukpga/1991/22/section/167/4/5)); [S.I. 1992/1671](https://www.legislation.gov.uk/uksi/1992/1671), [art. 2](https://www.legislation.gov.uk/uksi/1992/1671/article/2),Sch.; [S.I. 1992/1686](https://www.legislation.gov.uk/uksi/1992/1686), [art. 3](https://www.legislation.gov.uk/uksi/1992/1686/article/3),Sch.
+
+[^c753179]: Modification: S. 28 extended (1.10.1991) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 82(4)](https://www.legislation.gov.uk/ukpga/1991/40/section/82/4); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art.3](https://www.legislation.gov.uk/uksi/1991/2054/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2054/schedule)
+
+[^c753177]: Modification: S. 28 amended (S.) by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 120(4)](https://www.legislation.gov.uk/ukpga/1984/54/section/120/4)
+
+[^key-965b0e4fe4c8574f8e748d4d1296f92c]: Textual amendment: S. 28A omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [28](https://www.legislation.gov.uk/wsi/2016/413/regulation/28)
+
+[^c753191]: Textual amendment: S. 29(2) substituted by [Chronically Sick and Disabled Persons (Scotland) Act 1972 (c. 51)](https://www.legislation.gov.uk/ukpga/1972/51), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1972/51/section/1/1)
+
+[^key-04079d4935ecc68b0049a23ff83d0783]: Textual amendment: Words in s. 29(2) substituted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/23) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3)); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2](https://www.legislation.gov.uk/uksi/1996/3201/article/2)
+
+[^c753193]: Editorial: S. 29(2)(a) containing paras. (i) and (ii) substituted (S.) for s. 29(2)(a) first appearing by [Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33, SIF 103)](https://www.legislation.gov.uk/ukpga/1986/33), [s. 12(1)](https://www.legislation.gov.uk/ukpga/1986/33/section/12/1)
+
+[^c753192]: Textual amendment: S. 29(2)(a) containing paras. (i) and (ii) substituted (S.) for s. 29(2)(a) first appearing by [Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33, SIF 103)](https://www.legislation.gov.uk/ukpga/1986/33), [s. 12(1)](https://www.legislation.gov.uk/ukpga/1986/33/section/12/1)
+
+[^c753194]: Marginal citation: [1948 c.29](https://www.legislation.gov.uk/ukpga/1948/29)**(81:3)**.
+
+[^c753195]: Marginal citation: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49)**(81:3)**.
+
+[^c753196]: Textual amendment: Words in s. 29(2)(a) added (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 17(3)(a)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/17/3/a) (with [Sch. 3 paras. 4](https://www.legislation.gov.uk/ukpga/1995/36/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1995/36/schedule/3/paragraph/6)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
+
+[^c753197]: Textual amendment: S. 29(2)(b) substituted (S.) (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 17(3)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/17/3/b) (with [Sch. 3 paras. 4](https://www.legislation.gov.uk/ukpga/1995/36/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1995/36/schedule/3/paragraph/6)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)

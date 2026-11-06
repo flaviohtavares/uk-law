@@ -1,0 +1,168 @@
+---
+title: The National Savings (Remediation Scheme) Regulations 2026
+id: uksi/2026/623
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-06-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/623
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/623/pdfs/uksiem_20260623_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/623/pdfs/uksi_20260623_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/623/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Savings (Remediation Scheme) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 623
+
+NATIONAL DEBT
+
+The National Savings (Remediation Scheme) Regulations 2026
+
+Made
+
+10th June 2026
+
+Laid before Parliament
+
+11th June 2026
+
+Coming into force
+
+2nd July 2026
+
+The Treasury in exercise of the power conferred by section 2(1) of the National Savings Bank Act 1971[^f00001] make the following Regulations.
+
+## Part 1 — Preliminary
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the National Savings (Remediation Scheme) Regulations 2026.
+
+(2) These Regulations come into force on 2nd July 2026.
+
+(3) These Regulations extend to England and Wales, Scotland, Northern Ireland, the Isle of Man and the Channel Islands.
+
+### 2. Interpretation
+
+In these Regulations—
+
+- “**the 2015 Regulations**” means the [National Savings Regulations 2015](https://www.legislation.gov.uk/uksi/2015/623/contents)[^f00002];
+- “**account**” means any account in the National Savings Bank;
+- “**additional payment**” means a payment made under regulation 5(3)(b);
+- “**bond**” has the meaning given in [regulation 2](https://www.legislation.gov.uk/uksi/2015/623/regulation/2) of [the 2015 Regulations](https://www.legislation.gov.uk/uksi/2015/623/contents);
+- “**certificate**” has the meaning given in [regulation 2](https://www.legislation.gov.uk/uksi/2015/623/regulation/2) of [the 2015 Regulations](https://www.legislation.gov.uk/uksi/2015/623/contents);
+- “**contractual interest**” means any interest or other amount that has accrued in relation to a relevant holding which has been added to its value in accordance with the terms and conditions applying to that relevant holding;
+- “**date of determination**” means the date that the Director of Savings determines to be the appropriate date to which a payment under regulation 5(3)(a) is to be calculated;
+- “**deposit**” has the meaning given in [regulation 2](https://www.legislation.gov.uk/uksi/2015/623/regulation/2) of [the 2015 Regulations](https://www.legislation.gov.uk/uksi/2015/623/contents);
+- “**depositor**” means a person in whose name deposits have been made in the National Savings Bank;
+- “**direct ISA**” has the meaning given in [regulation 4](https://www.legislation.gov.uk/uksi/2015/623/regulation/4) [(3)](https://www.legislation.gov.uk/uksi/2015/623/regulation/4) of [the 2015 Regulations](https://www.legislation.gov.uk/uksi/2015/623/contents);
+- “**eligible claim**” has the meaning given in regulation 4;
+- “**payment**” means a payment determined in accordance with regulation 5;
+- “**personal representative**” means—
+  - (a) the legal personal representative of a deceased person, or
+  - (b) the person to whom the Director of Savings may make a payment without a grant of representation under [regulation 54](https://www.legislation.gov.uk/uksi/2015/623/regulation/54) of [the 2015 Regulations](https://www.legislation.gov.uk/uksi/2015/623/contents);
+- “**relevant holding**” means—
+  - (a) any account, bond, certificate, deposit, direct ISA, Treasury security, or stock registered by the Director of Savings in the name of a person who is now deceased, or
+  - (b) any interest registered in the name of a person who is now deceased in any account in the name of the Director of Savings;
+- “**relevant person**” means the person to whom a payment is to be paid in accordance with regulation 6;
+- “**the Scheme**” means a National Savings remediation scheme established by regulation 3(1);
+- “**stock**” has the meaning given in [regulation 2](https://www.legislation.gov.uk/uksi/2015/623/regulation/2) of [the 2015 Regulations](https://www.legislation.gov.uk/uksi/2015/623/contents);
+- “**Treasury security**” has the meaning given in [regulation 2](https://www.legislation.gov.uk/uksi/2015/623/regulation/2) of [the 2015 Regulations](https://www.legislation.gov.uk/uksi/2015/623/contents).
+
+## Part 2 — Establishment and administration of a National Savings remediation scheme
+
+**3.** (1) A National Savings remediation scheme for the making of payments in relation to eligible claims is established in accordance with these Regulations.
+
+(2) Payments under the Scheme must be made, and the Scheme must otherwise be administered by, the Director of Savings.
+
+## Part 3 — Eligible claims
+
+**4.** (1) An eligible claim arises where—
+
+- (a) the personal representative of the estate of a deceased person has asked the Director of Savings for a valuation of any relevant holdings, and
+- (b) the Director of Savings has failed—
+  - (i) to notify the personal representative of all of the relevant holdings, or
+  - (ii) to transfer to the personal representative the value of all of the relevant holdings together with any contractual interest, and
+- (c) the Director of Savings retained in error one or more relevant holdings which had on 5 May 2026 a value or a combined value including contractual interest of £10 or more.
+
+(2) For the purpose of this regulation—
+
+- (a) any enquiry by a personal representative which names the estate of a deceased person is an enquiry as to, in relation to the deceased person—
+  - (i) the existence of any relevant holding, and
+  - (ii) the value of any relevant holding together with the value of any contractual interest;
+- (b) if the deceased person was a trustee, an enquiry by a personal representative must be treated as an enquiry under this regulation as to any relevant holdings held in the deceased person’s personal capacity and separately in the deceased person’s capacity as trustee, and in the latter capacity separately in respect of each separate trust fund.
+
+## Part 4 — Payments under the Scheme
+
+**5.** (1) Payments under the Scheme are paid in relation to an eligible claim.
+
+(2) Any payment under the Scheme must be paid to the relevant person in accordance with regulation 6.
+
+(3) Where the Director of Savings has retained in error a relevant holding, the Director of Savings may—
+
+- (a) pay the greater of—
+  - (i) the amount of contractual interest paid or due to be paid on a relevant holding which has accrued from the relevant date to the date of determination, and
+  - (ii) the amount of interest that would have accrued had if, instead of the contractual interest being applied, the Bank of England Base rate plus 1 per cent had been applied to the relevant holding from the relevant date to the date of determination;
+- (b) pay an additional payment determined in accordance with paragraph (4).
+
+(4) In determining the amount of the additional payment the Director of Savings must have regard to—
+
+- (a) any losses incurred by the estate of a deceased person; and
+- (b) the costs of any further administration of the estate of the deceased person;
+
+as a result of the retention in error of a relevant holding.
+
+(5) In this regulation “**relevant date**” means—
+
+- (a) the first date on which the Director of Savings retained in error a relevant holding;
+- (b) where this date is not known, the date of death of the deceased person.
+
+### 6. Person to whom a payment under the Scheme is to be paid
+
+For the purposes of regulation 5, the relevant person is—
+
+- (a) the personal representative of the estate of the deceased person who made the enquiry under regulation 4;
+- (b) another personal representative of the estate of the deceased person;
+- (c) a person ordered by the Court to receive the payment.
+
+Stephen Morgan
+
+Christian Wakeford
+
+Two of the Lords Commissioners of His Majesty’s Treasury
+
+10th June 2026
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+The National Savings Bank Act 1971[^f00003] (“**the 1971 Act**”) and the National Debt Act 1972[^f00004] created the current statutory framework for the operation of the National Savings and Investment Bank and the Director of Savings. The Director of Savings, a statutory officeholder, carries on the business of the National Savings Bank under section 1 of the 1971 Act, principally providing a range of savings and investment accounts which are subject to the 1971 Act and the secondary legislation made under that Act, consolidated in the National Savings Regulations 2015[^f00005].
+
+These Regulations establish a Remediation Scheme under which the Director of Savings may make payments to the personal representative of the estate of a deceased person in circumstances where the Director of Savings has retained, in error, deposits or other funds in the name of the deceased person and, as a result, losses have been incurred by the estate of that deceased person.
+
+The Regulations allow the Director of Savings to pay to the personal representatives of estates affected by the error, the greater of either contractual interest, or the interest that would have accrued had the Bank of England Base rate plus 1 per cent been applied to the holdings. These regulations also allow the Director of Savings to determine and to pay further consequential loses.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 29](https://www.legislation.gov.uk/ukpga/1971/29).
+
+[^f00002]: Footnote: [S.I. 2015/623](https://www.legislation.gov.uk/uksi/2015/623/contents).
+
+[^f00003]: Footnote: [1971 c. 29](https://www.legislation.gov.uk/ukpga/1971/29).
+
+[^f00004]: Footnote: [1972 c. 65](https://www.legislation.gov.uk/ukpga/1972/65).
+
+[^f00005]: Footnote: [S.I. 2015/623](https://www.legislation.gov.uk/uksi/2015/623).

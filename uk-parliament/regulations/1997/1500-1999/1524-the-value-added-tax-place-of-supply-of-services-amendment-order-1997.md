@@ -1,0 +1,93 @@
+---
+title: The Value Added Tax (Place of Supply of Services) (Amendment) Order 1997
+id: uksi/1997/1524
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-06-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/1524
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/1524/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Place of Supply of Services) (Amendment) Order 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 1524
+
+VALUE ADDED TAX
+
+The Value Added Tax (Place of Supply of Services) (Amendment) Order 1997
+
+Made
+
+30th June 1997
+
+Laid before the House of Commons
+
+30th June 1997
+
+Coming into force in accordance with article 1
+
+The Treasury, in exercise of the powers conferred on them by section 7(11) of the Value Added Tax Act 1994[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+**1.** This Order may be cited as the Value Added Tax (Place of Supply of Services) (Amendment) Order 1997 and shall apply in relation to any services performed on or after 1st July 1997.
+
+**2.** The Value Added Tax (Place of Supply of Services) Order 1992[^f00002] shall be amended in accordance with the following provisions of this Order.
+
+**3.** In article 17 for “if” there shall be substituted “to the extent that”.
+
+**4.** In article 18 for “if” there shall be substituted “to the extent that”.
+
+**5.** After article 18 there shall be added the following articles—
+
+> **19.** Where a supply of services consists of services described in paragraph 7A of Schedule 5 to the Act[^f00003] and those services would be treated, apart from this article, as supplied in the United Kingdom, they shall not be treated as supplied in the United Kingdom to the extent that the effective use and enjoyment takes place outside the member States.
+>
+> **20.** Where a supply of services consists of services described in paragraph 7A of Schedule 5 to the Act and those services would be treated, apart from this article, as supplied in a place outside of the member States, they shall be treated as supplied in the United Kingdom to the extent that the effective use and enjoyment of the services takes place in the United Kingdom.
+>
+> **21.** (1) The place of supply of a right to services shall be the same as the place of supply of the services to which the right relates (whether or not the right is exercised).
+>
+> (2) The reference to a right to services in paragraph (1) above shall include a reference to any right, option or priority with respect to the supply of services and to the supply of an interest deriving from any right to services.
+
+.
+
+Bob Ainsworth
+
+Graham Allen
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+30th June 1997
+
+(This note is not part of the Order)
+
+This Order applies to services performed on or after 1st July 1997. It amends the Value Added Tax (Place of Supply of Services) Order 1992 (S.I. [1992/3121](https://www.legislation.gov.uk/uksi/1992/3121)) (“the principal Order”).
+
+Article 3 amends article 17 of the principal Order and provides that the letting on hire of any means of transport which would be treated, apart from article 17, as supplied in the United Kingdom, will be relieved from VAT to the extent that it is used and enjoyed outside of the European Community.
+
+Article 4 amends article 18 of the principal Order and provides that the letting on hire of any means of transport which would be treated, apart from article 18, as supplied in a place outside the European Community, will be chargeable to VAT to the extent that it is used and enjoyed in the United Kingdom.
+
+Article 5 adds articles 19, 20 and 21 to the principal Order.
+
+Articles 19 and 20 are added as a consequence of a derogation from Article 9(1) of Council Directive 77/388 (OJ No. L145, 13.6.1997, p.1) (“the Sixth VAT Directive”) made by Council Decision 6236/97 (OJ No. L86, 28.3.97, p. 33) (“the derogation”). The United Kingdom is authorised by the derogation to include within Article 9(2)(e) of the Sixth Directive services which are within the description now contained in paragraph 7A of Schedule 5 to the Act. (Paragraph 7A was inserted into the Act by the Value Added Tax (Reverse Charge) (Anti-avoidance) Order 1997 (S.I. [1997/1523](https://www.legislation.gov.uk/uksi/1997/1523))).
+
+The effect of article 19 is that telecommunications services which would be treated, apart from that article, as supplied in the United Kingdom, will be relieved from VAT to the extent that they are used and enjoyed outside of the European Community.
+
+The effect of article 20 is that telecommunications services which would be treated, apart from that article, as supplied outside of the European Community, will be chargeable to VAT to the extent that they are used and enjoyed in the United Kingdom.
+
+The effect of article 21 is that the supply of a right to services will be treated as if it were supplied in the same place as the underlying supply to which the right relates, whether or not the right is exercised.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
+
+[^f00002]: Footnote: S.I. [1992/3121](https://www.legislation.gov.uk/uksi/1992/3121); to which there are amendments not relevant to this Order.
+
+[^f00003]: Footnote: Paragraph 7A of Schedule 5 to the Act was inserted by the Value Added Tax (Reverse Charge) (Anti-avoidance) Order 1997 (S.I. [1997/1523](https://www.legislation.gov.uk/uksi/1997/1523)).

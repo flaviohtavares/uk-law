@@ -1,0 +1,302 @@
+---
+title: The Occupational Pension Schemes (Independent Trustee) Regulations 2005
+id: uksi/2005/703
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-03-21'
+text_date: '2014-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2005/703
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/703/pdfs/uksiem_20050703_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/703/pdfs/uksi_20050703_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/703/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Independent Trustee) Regulations 2005
+
+> Text as at 2014-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2005 No. 703
+
+PENSIONS
+
+The Occupational Pension Schemes (Independent Trustee) Regulations 2005
+
+Made
+
+21st March 2005
+
+Laid before Parliament
+
+21st March 2005
+
+Coming into force
+
+11th April 2005
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 113(1)(d), (3) and (4), 168(1) and (4), 181(1) and 182(2) of the Pension Schemes Act 1993 [^c1188971], sections 22(2F), 23(4), (5)(a) and (6), 118(1), 124(1), 125(3) and 174(3) of the Pensions Act 1995 [^c1188972] and sections 10(5)(a), 93(2)(q), 97(5)(u), 315(2) and 318(1) of, and paragraph 21(e) of Schedule 1 to, the Pensions Act 2004 [^c1188973], and of all other powers enabling him in that behalf, by this instrument, which includes regulations which are consequential upon section 36 of the Pensions Act 2004 and is made before the end of the period of six months beginning with the coming into force of that section of that Act [^c1188974], makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Independent Trustee) Regulations 2005, and shall come into force on 11th April 2005.
+
+(2) In these Regulations—
+
+- “**the 1995 Act**” means the Pensions Act 1995;
+- “**the 2004 Act**” means the Pensions Act 2004;
+- “**applicant**” means a person who applies to be registered in the trustee register;
+- “**controller**” means, where the applicant is a company, a person who holds 10 per cent. or more of the shares in the applicant, and exercises significant influence over the management of the applicant by virtue of that shareholding;
+- “**key person**” in relation to an applicant who is not an individual means a person who has overall management responsibility for the pension trustee work conducted by the applicant;
+- “**officer**” means—
+  - (a) a relevant individual who has significant influence over the management of the pension trustee work; or
+  - (b) any person whose signature may authorise, in part or in full, a transaction involving the assets of any scheme for which the applicant acts as trustee;
+- “**pension trustee work**” means the work as a trustee carried out by the applicant in relation to trust schemes;
+- “**pension scheme registration number**”, in relation to a scheme, refers to the number given to the scheme when it is placed on the register of occupational and personal pension schemes compiled and maintained by the Regulator [^c1188975];
+- “**the Regulator**” means the Pensions Regulator established under section 1 of the 2004 Act (the Pensions Regulator);
+- “**relevant individual**” means a director, member of the committee of management, chief executive, designated member in relation to a limited liability partnership, partner or controller;
+- “**trustee register**” means the register compiled and maintained by the Regulator under regulation 2;
+- and other expressions used in these Regulations have the same meaning as in Part 1 of the 1995 Act (occupational pension schemes).
+
+## 2. The trustee register
+
+The Regulator must compile and maintain a register of persons who satisfy the conditions set out in regulation 3.
+
+## 3. Conditions for registration
+
+The conditions for registration prescribed for the purposes of section 23(4) of the 1995 Act (power to appoint independent trustees) are—
+
+- (a) the applicant must not, at the time he is making the application or at any time while he is registered in the trustee register, be any of the following—
+  - (i) the subject of a prohibition order made under section 3 of the 1995 Act [^c1188976] (prohibition orders),
+  - (ii) the subject of a suspension order made under section 4 of the 1995 Act [^c1188977] (suspension orders), or
+  - (iii) disqualified for being a trustee of any trust scheme on any of the grounds set out in subsection (1) of section 29 of the 1995 Act [^c1188978] (persons disqualified for being trustees), or by virtue of being the subject of an order made under subsection (3) or (4) of that section;
+- (b) the Regulator is satisfied that—
+  - (i) the applicant has sufficient relevant experience of occupational pension schemes,
+  - (ii) the applicant is a fit and proper person to act as a trustee of an occupational pension scheme,
+  - (iii) the applicant operates sound administrative and accounting procedures, and
+  - (iv) the applicant has adequate indemnity insurance cover;
+- (c) where the applicant is not an individual—
+  - (i) each officer of the applicant must satisfy the conditions specified in paragraphs (a) and (b)(ii) above, and
+  - (ii) each key person must satisfy the conditions specified in paragraphs (a) and (b)(i) and (ii) above;
+- (d) the applicant has premises in the United Kingdom from which he conducts his business as a trustee of an occupational pension scheme, and he discloses the address of those premises to the Regulator;
+- (e) the applicant agrees—
+  - (i) to have his fees and costs scrutinised by an independent adjudicator and to be bound by that adjudicator's final adjudication as to his fees and costs,
+  - (ii) to the Regulator disclosing his name, business address and the areas of trustee work in which he specialises on the version of the trustee register which is to be publicly available,
+  - (iii) to comply with reasonable requests of the Regulator to provide information to the Regulator, and
+  - (iv) to inform the Regulator as soon as is reasonably practicable if he becomes disqualified under section 29 of the 1995 Act—
+    - (aa) for one of the reasons set out in subsection (1) of that section, or
+    - (bb) by virtue of being the subject of an order made under subsection (3)(b) of that section.
+
+## 4. Refusing to register an applicant in the trustee register
+
+(1) The function set out in paragraph (2) is prescribed for the purposes of section 93(2)(q) of the 2004 Act (the Regulator's procedure in relation to its regulatory functions).
+
+(2) The function referred to in paragraph (1) is the Regulator's duty under section 23(4) of the 1995 Act and regulation 2 to compile and maintain a register of persons who satisfy prescribed conditions to act as independent trustees, but only in so far as that duty entails refusing to register an applicant in that register.
+
+(3) The Regulator may, in such circumstances as it sees fit, delegate the function specified in paragraph (2) to the Determinations Panel [^c1188979].
+
+## 5. Removal from the trustee register - amendment of Schedule 2 to the 2004 Act
+
+(1) Schedule 2 to the 2004 Act is amended in accordance with paragraph (2) of this regulation.
+
+(2) In Part 2, after paragraph 13, insert—
+
+> **13A.**
+>
+> The duty under section 23(4), and regulations made thereunder, to compile and maintain a register of persons who satisfy prescribed conditions to act as independent trustees, but only in so far as that duty entails the removal of a person from that register if he does not satisfy, or no longer satisfies, any such prescribed condition.
+
+.
+
+## 6. Removal from the trustee register – prescribed regulatory function
+
+(1) The function set out in paragraph (2) is prescribed for the purposes of section 97(5)(u) of the 2004 Act (special procedure: applicable cases).
+
+(2) The function referred to in paragraph (1) is the Regulator's duty under section 23(4) of the 1995 Act, and regulations made thereunder, to compile and maintain a register of persons who satisfy prescribed conditions to act as independent trustees, but only in so far as that duty entails the removal of a person from that register if he does not satisfy, or no longer satisfies, any such prescribed condition.
+
+## 7. Removal from the trustee register – supplementary provision
+
+The validity of the appointment of an independent trustee under section 23(1) of the 1995 Act or any action taken by him during that appointment is not to be affected by that trustee's subsequent removal from the register.
+
+## 8. Notification
+
+(1) A notice given under section 22(2B) of the 1995 Act [^c1188980] (circumstances in which provisions relating to independent trustees apply) shall contain the information specified in paragraph (2).
+
+(2) The information specified for the purposes of paragraph (1) is—
+
+- (a) that the notice is a notice given under section 22(2B) of that Act;
+- (b) the date of the notice;
+- (c) the name and address of the scheme;
+- (d) the pension scheme registration number;
+- (e) the names and addresses of all trustees of the scheme;
+- (f) the name of the employer or employers to which the circumstances set out in section 22(1) of the 1995 Act [^c1188981] apply;
+- (g) the name and address of the responsible person giving the notice; and
+- (h) the date of the responsible person's appointment, or the date on which that appointment is to end.
+
+## 9. Access to the trustee register
+
+(1) The Regulator shall provide the most recent copy of the register to any person on request, and may do so either—
+
+- (a) free of charge, or
+- (b) on the payment by that person of a charge determined by the Regulator which does not exceed the expense incurred in copying, packing and posting the copy.
+
+(2) The Regulator may publish the register in any way.
+
+## 10. Multi-employer schemes
+
+(1) Where section 22 of the 1995 Act applies in relation to a trust scheme which is a multi-employer scheme, by virtue of the circumstances set out in section 22(1) or of that Act applying to at least one employer in that scheme, sections 22 to 26 of that Act (provisions relating to independent trustees) are modified so that references to the employer in those sections are to be treated as if they were references to each employer to which section 22 applies.
+
+(2) In this regulation “**multi-employer scheme**” means a trust scheme in relation to which there is more than one employer.
+
+## 11. Cases where a partnership is the employer
+
+(1) Sections 22 to 26 of the 1995 Act are modified as specified in paragraphs (2) and (3) of this regulation in their application to any case where—
+
+- (a) a partnership is the employer or one of the employers in relation to a trust scheme;
+- (b) the partnership is insolvent; and
+- (c) the courts of England and Wales have jurisdiction to wind up the insolvent partnership.
+
+(2) Section 22(1) shall be modified so as to apply in relation to the scheme—
+
+- (a) if a person begins to act as an insolvency practitioner in relation to the insolvent partnership; or
+- (b) if the official receiver becomes the liquidator or provisional liquidator of the insolvent partnership.
+
+(3) Where, by virtue of paragraph (2), section 22 applies in relation to the scheme, subsections (2) to (3) of that section [^c1188982] and sections 23 to 26 [^c1188983] shall have effect as if references in those provisions to a company included references to the insolvent partnership.
+
+## 12. Extension of the meaning of “employer”
+
+For the purposes of sections 22 to 26 of the 1995 Act and these Regulations references to the employer shall include a person who would have been an employer to whom the circumstances set out in section 22(1)(a) or (b) of that Act apply, but for the fact that, immediately before an insolvency practitioner or the official receiver began to act as set out in those subsections, that person no longer employed any persons in the description of employment to which the scheme in question relates.
+
+## 13. Disclosure requirements and penalty
+
+(1) A trustee appointed to a scheme by order made under section 7(1) or (3) of the 1995 Act [^c1188984] (appointment of trustees) and an independent trustee appointed to a scheme by order made under section 23(1) of the 1995 Act (both referred to in this regulation as “**the appointed trustee**”) must furnish the information specified in paragraph (2) in accordance with the following provisions of this regulation.
+
+(2) The information specified for the purposes of paragraph (1) is—
+
+- (a) the name and address of the appointed trustee;
+- (b) the scale of fees that will be chargeable by the appointed trustee and payable by the scheme;
+- (c) details of each of the amounts charged to the scheme by the appointed trustee in the past 12 months.
+
+(3) The appointed trustee must furnish the information specified in paragraph (2)(a) in writing to every member or relevant trade union as of course within a reasonable period following his appointment.
+
+(4) The appointed trustee must furnish any of the information specified in paragraph (2) in writing to any member or prospective member or relevant trade union on request (not being a request made less than 12 months after the last occasion on which such information was furnished to the same person or trade union) within a reasonable period following the request being made.
+
+(5) Where the appointed trustee fails to take all reasonable steps to comply with any requirement imposed upon him by this regulation, the Regulator may by notice in writing[^key-6013699601d19f14ea86275aca1ecc09] require him to pay, within 28 days, a penalty which—
+
+- (a) in the case of an individual, shall not exceed £5,000; and
+- (b) in any other case, shall not exceed £50,000.
+
+(6) In this regulation—
+
+- “member”—
+  - (a) does not include a deferred member whose present address is not known to the trustees and in respect of whom correspondence sent by the trustees to his last known address has been returned, and
+  - (b) includes a person who is in receipt of benefits under the scheme by virtue of having been a dependant of someone who was a member;
+- “**prospective member**” means any person who, under the terms of his contract of service and the scheme rules—
+  - (a) is eligible, at his own option, to become a member of the scheme;
+  - (b) will become so eligible if he continues in the same employment for a sufficiently long period;
+  - (c) will be admitted to membership of the scheme automatically unless he makes an election not to become a member; or
+  - (d) may be admitted to it subject to the consent of his employer;
+- “**relevant trade union**” means an independent trade union recognised to any extent for the purposes of collective bargaining in relation to members and prospective members of the scheme in question; and
+- “**request**” means a request in writing.
+
+(7) Any question as to whether an organisation is a relevant trade union shall be referred to an employment tribunal.
+
+(8) Any information which this regulation requires the appointed trustee to furnish as of course to a member who is not in any employment to which the scheme relates shall be deemed to have been so furnished if it was sent to him by post to his last address known to the trustees.
+
+(9)[^key-e52619e45114a346a6acbce10e27770a] The appointed trustee may give any information under this regulation in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents).
+
+## 14. Revocation
+
+(1) The Occupational Pension Schemes (Independent Trustee) Regulations 1997 [^c1188985] are hereby revoked.
+
+(2) Regulation 10 of the Personal and Occupational Pension Schemes (Miscellaneous Amendments) (No. 2) Regulations 1997 [^c1188986] ((amendment of the Occupational Pension Schemes (Independent Trustees) Regulations 1997) is hereby revoked.
+
+(3) Regulations 3 and 4 of the Occupational Pension Schemes (Winding up Notices and Reports etc.) Regulations 2002 [^c1188987] (schemes within section 22 of the 1995 Act: appointment of independent trustee, and other schemes: notice to the Authority that section 26B of the 1995 Act applies) are hereby revoked.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Malcolm Wicks
+
+Minister of State,
+
+Department for Work and Pensions
+
+21st March 2005
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision about the trustee register to be compiled and maintained by the Pensions Regulator, and further provision about independent trustees.
+
+The regulations contained in these Regulations which are made under powers in the Pensions Act 2004 (c. 35) (“**the 2004 Act**”) are made before the end of the period of six months beginning with the coming into force of those powers. The regulations contained in these Regulations which are made under powers in the Pension Schemes Act (c. 48) (“**the 1993 Act**”) and the Pensions Act 1995 (c 26) (“**the 1995 Act**”) are consequential upon the coming into force of section 36 of the 2004 Act, and are made before the end of the period of six months beginning with the coming into force of that provision of the 2004 Act. The Regulations are accordingly exempt from the requirement in section 185(1) of the 1993 Act, section 120(1) of the 1995 Act and section 317(1) of the 2004 Act for the Secretary of State to consult such persons as he considers appropriate before making these Regulations.
+
+Regulation 2 requires the Pensions Regulator to compile and maintain a register of persons who meet the conditions for being in the register. The register is referred to in these Regulations as the trustee register.
+
+Regulation 3 sets out the conditions to be met to be eligible to be registered in the trustee register.
+
+Regulation 4 prescribes the function of refusing to register a trustee in the trustee register as a regulatory function, for the purposes of section 93(2) of the 2004 Act, and enables the Regulator to delegate this function to the Determinations Panel.
+
+Regulation 5 amends Schedule 2 to the 2004 Act by adding the function of removing a trustee from the trustee register to the list of reserved regulatory functions, that is, those functions which are exercisable only by the Determinations Panel.
+
+Regulation 6 adds the function of removing trustees from the trustee register to the list of regulatory functions which are eligible to be carried out under the special procedure in cases of urgency.
+
+Regulation 7 provides that an independent trustee's appointment to a scheme and any actions taken during that appointment are not invalidated by his subsequent removal from the trustee register.
+
+Regulation 8 sets out the information that must be included in a notice given under section 22(2B) of the 1995 Act.
+
+Regulation 9 makes provision for copies of the trustee register to be provided to persons on request, and provides that a charge may be made to meet the costs of providing copies.
+
+Regulations 10, 11 and 12 make certain modifications to sections 22 to 26 of the 1995 Act, in respect of the application of those sections to schemes in relation to which there is more than one employer, cases where the employer is a partnership, and schemes which have no members who are employees.
+
+Regulation 13 requires an appointed trustee to notify certain persons of certain information in certain circumstances.
+
+Regulation 14 provides for revocations.
+
+An assessment of the impact on business, charities or the voluntary sector of the provisions in these Regulations is included in the Regulatory Impact Assessment that accompanied the Pensions Act 2004. A copy of that assessment has been placed in the libraries of both Houses of Parliament. Copies may be obtained from the Department for Work and Pensions, Regulatory Impact Unit, 3rd Floor, The Adelphi, 1-11 John Adam Street, London WC2N 6HT.
+
+## Annotations
+
+[^c1188971]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); [section 113(4)](https://www.legislation.gov.uk/uksi/2005/703/section/113/4) was amended by section 1(2)(a) of the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8); [section 168](https://www.legislation.gov.uk/uksi/2005/703/section/168) was substituted by section 155(1) of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) (“**the 1995 Act**”); [section 181(1)](https://www.legislation.gov.uk/uksi/2005/703/section/181/1) is cited because of the meaning there given to “prescribe” and “regulations”.
+
+[^c1188972]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26); [section 22(2F)](https://www.legislation.gov.uk/uksi/2005/703/section/22/2F) is inserted by, and section 23 is substituted by, section 36 of the [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) (“**the 2004 Act**”); [section 124(1)](https://www.legislation.gov.uk/uksi/2005/703/section/124/1) is cited because of the meaning there given to “prescribed” and “regulations”.
+
+[^c1188973]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35); [section 318(1)](https://www.legislation.gov.uk/uksi/2005/703/section/318/1) is cited because of the meaning there given to “prescribed” and “regulations”.
+
+[^c1188974]: Marginal citation: *See* section 185(1) of the Pension Schemes Act 1993 (“**the 1993 Act**”), as amended by sections 122, 151 and 177 of, and paragraph 46 of Schedule 3, paragraph 80(a) of Schedule 5, and Part 1 of Schedule 7 to, the 1995 Act , section 120(1) of the 1995 Act and section 317(1) of the 2004 Act which provide that the Secretary of State must consult such persons as he may consider appropriate before making any regulations under Part 4 of the 1993 Act, Part 1 of the 1995 Act, or Part 1 of the 2004 Act respectively. In the case of the 1993 and 1995 Acts, the requirement to consult does not apply to regulations which state that they are consequential upon a specified enactment and are made before the end of the period of six months beginning with the coming into force of that enactment (see [section 185(2)(e)](https://www.legislation.gov.uk/uksi/2005/703/section/185/2/e) (inserted by section 151 of, and paragraph 80(b) of Schedule 5 to, the 1995 Act) and section 120(2)(d) respectively), and in the case of the 2004 Act the requirement to consult does not apply to regulations contained in a statutory instrument made before the end of the period of six months beginning with the coming into force of the provision of the Act by virtue of which the regulations are made (see [section 317(2)(c)](https://www.legislation.gov.uk/uksi/2005/703/section/317/2/c)).
+
+[^c1188975]: Marginal citation: Under section 59(1) of the 2004 Act the Regulator is required to compile and maintain a register of occupational and personal pension schemes which are or have been “registrable schemes”. “Registrable schemes” are prescribed in the [Register of Occupational and Personal Pension Schemes Regulations 2005 (S.I. 2005/597)](https://www.legislation.gov.uk/uksi/2005/597).
+
+[^c1188976]: Marginal citation: [Section 3](https://www.legislation.gov.uk/uksi/2005/703/section/3) is substituted by section 33 of the 2004 Act.
+
+[^c1188977]: Marginal citation: [Section 4](https://www.legislation.gov.uk/uksi/2005/703/section/4) was amended by section 8 of, and paragraph 19(1) and (2) of Part 2 of Schedule 4 to, the [Insolvency Act 2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39), and by sections 34 and 319(1) of, and paragraphs 34 and 35 of Schedule 12 to, the 2004 Act.
+
+[^c1188978]: Marginal citation: [Section 29](https://www.legislation.gov.uk/uksi/2005/703/section/29) was amended by section 8 of, and paragraph 19(1) and (3) of Part 2 of Schedule 4 tom, the Insolvency Act 2000, by [S.I. 2004/1941](https://www.legislation.gov.uk/uksi/2004/1941), and by sections 319(1) and 320 of, and paragraphs 34 and 45 of Schedule 12, and part 1 of Schedule 13 to, the 2004 Act (this last amendment was not yet in force at the date of the coming into force of these Regulations)..
+
+[^c1188979]: Marginal citation: The Determinations Panel is established under section 9 of the 2004 Act.
+
+[^c1188980]: Marginal citation: [Section 22(2B)](https://www.legislation.gov.uk/uksi/2005/703/section/22/2B) is inserted by section 36 of the 2004 Act.
+
+[^c1188981]: Marginal citation: [Section 22(1)](https://www.legislation.gov.uk/uksi/2005/703/section/22/1) ws amended by section 47(1) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), and by sections 36(1) and (2)(a), 319(1) and 320 of, and paragraphs 34 and 40 of Schedule 12 and Part 1 of Schedule 13 to, the 2004 Act.
+
+[^c1188982]: Marginal citation: [Section 22(2)](https://www.legislation.gov.uk/uksi/2005/703/section/22/2) by, and section 22(2A) to (2F) inserted by, section 36 of the 2004 Act, and section 22(3) is amended by section 47(1) of the Child Support, Pensions and Social Security Act 2000 and by section 319(1) of, and paragraphs 34 and 40 of Schedule 12 to, the 2004 Act.
+
+[^c1188983]: Marginal citation: [Sections 23](https://www.legislation.gov.uk/uksi/2005/703/section/23) and 24 are substituted by section 36 of the 2004 Aact; [sections 25](https://www.legislation.gov.uk/uksi/2005/703/section/25) and 26 are amended by section 36, 319(1) and 320 of, and paragraphs 34, 41 and 42 of Schedule 12 and Part 1 of Schedule 13 to, the 2004 Act.
+
+[^c1188984]: Marginal citation: Section 7(1) is amended by sections 319(1) and 320 of, and paragraphs 34 and 36(a) of Schedule 12 and Part 1 of Schedule 13 to, the 2004 Act.
+
+[^key-6013699601d19f14ea86275aca1ecc09]: Textual amendment: Words in reg. 13(5) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/17/2)
+
+[^key-e52619e45114a346a6acbce10e27770a]: Textual amendment: [Reg. 13(9)](https://www.legislation.gov.uk/uksi/2005/703/regulation/13/9) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 12](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/12)
+
+[^c1188985]: Marginal citation: [S.I. 1997/252](https://www.legislation.gov.uk/uksi/1997/252), as amended by section 1(2)(a) of the Employment Rights (Dispute Resolution) Act 1998 and [S.I. 1997/3038](https://www.legislation.gov.uk/uksi/1997/3038).
+
+[^c1188986]: Marginal citation: [S.I. 1997/3038](https://www.legislation.gov.uk/uksi/1997/3038).
+
+[^c1188987]: Marginal citation: [S.I. 2002/459](https://www.legislation.gov.uk/uksi/2002/459).

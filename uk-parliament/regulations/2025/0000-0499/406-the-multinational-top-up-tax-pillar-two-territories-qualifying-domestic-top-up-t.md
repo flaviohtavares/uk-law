@@ -1,0 +1,252 @@
+---
+title: The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) Regulations 2025
+id: uksi/2025/406
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-03-27'
+text_date: '2025-07-24'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2025/406
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/406/pdfs/uksiem_20250406_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/406/pdfs/uksi_20250406_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/406/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) Regulations 2025
+
+> Text as at 2025-07-24.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2025 No. 406
+
+DOMESTIC TOP-UP TAX
+
+MULTINATIONAL TOP-UP TAX
+
+The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) Regulations 2025
+
+Made
+
+27th March 2025
+
+Laid before the House of Commons
+
+31st March 2025
+
+Coming into force
+
+21st April 2025
+
+The Treasury make these Regulations in exercise of the powers conferred by sections 241 and 256 of, and paragraph 2 of Schedule 16A to, the Finance (No. 2) Act 2023[^f00001].
+
+The Treasury consider, in relation to territories that are specified as Pillar Two territories, that provisions implementing the Pillar Two rules relating to top-up tax under the IIR (within the meaning of those rules) have effect under the law of those territories, or will have effect on or before the date on which the specification has effect.
+
+The Treasury consider, in relation to taxes that are specified as qualifying domestic top-up taxes, that those taxes are equivalent in substance to domestic top-up tax under Part 4 of the Finance (No. 2) Act 2023.
+
+## 1. Citation, commencement and effect[^key-c1b4a38ebaec55d41bc2881a82df2e47]
+
+(1) These Regulations may be cited as the Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) Regulations 2025 and come into force on 21st April 2025.
+
+(2) These Regulations have effect for accounting periods beginning on or after 31st December 2023.
+
+## 2. Pillar Two territories[^key-2edacfc0f36ac2243164678db17c2b51]
+
+(1) The territories set out in Schedule 1 are specified as Pillar Two territories with effect on and after the respective dates listed in the table.
+
+(2) A territory is also a Pillar Two territory if it is specified as such in a notice published by the Commissioners for His Majesty’s Revenue and Customs.
+
+(3)[^key-581ca529a2e4def63ce6af112f15c46c] Specification in accordance with paragraph (2) has effect on and after the date set out in the notice (which may be a date before the publication of the notice).
+
+## 3. Qualifying domestic top-up taxes[^key-bc9f3e5a955bc6d0d066c3b24b3ecd6b]
+
+(1) A Qualified Domestic Minimum Top-up Tax for the purposes of the Pillar Two rules that is charged by the territory listed, and under the legislation set out, in Schedule 2 is specified as a qualifying domestic top-up tax with effect on or after the respective date listed in the table.
+
+(2) A Qualified Domestic Minimum Top-up Tax is also a qualifying domestic top-up tax if it is specified as such in a notice published by the Commissioners for His Majesty’s Revenue and Customs.
+
+(3)[^key-cdd4b762e68e40ce36c190e8527f3f9a] Specification in accordance with paragraph (2) has effect on and after the date set out in the notice (which may be a date before the publication of the notice).
+
+## 4. Accredited qualifying domestic top-up taxes[^key-5c62019c863592857fb66bfcb285a068]
+
+(1) A Qualified Domestic Minimum Top-up Tax for the purpose of the Pillar Two rules that is charged by the territory listed, and under the legislation set out, in Schedule 3 is specified as an accredited qualifying domestic top-up tax with effect on or after the respective date listed in the table.
+
+(2) A Qualified Domestic Minimum Top-up Tax is also an accredited qualifying domestic top-up tax if it is specified as such in a notice published by the Commissioners for His Majesty’s Revenue and Customs.
+
+(3)[^key-4eea539a4bab1136ddd4978c2f7fa858] Specification in accordance with paragraph (2) has effect on and after the date set out in the notice (which may be a date before the publication of the notice).
+
+Anna Turley
+
+Jeff Smith
+
+Two of the Lords Commissioners of His Majesty's Treasury
+
+27th March 2025
+
+Schedules
+
+## Schedule 1 — Pillar Two Territories[^key-c8eff1cbef415900b5b8c47091f335b9]
+
+Regulation 2
+
+| Territory | Date |
+| --- | --- |
+| Australia | 1st January 2024 |
+| Austria | 31st December 2023 |
+| Belgium | 31st December 2023 |
+| Bulgaria | 31st December 2023 |
+| Canada | 31st December 2023 |
+| Croatia | 31st December 2023 |
+| Czech Republic | 31st December 2023 |
+| Denmark | 31st December 2023 |
+| Finland | 31st December 2023 |
+| France | 31st December 2023 |
+| Germany | 31st December 2023 |
+| Greece | 31st December 2023 |
+| Hungary | 31st December 2023 |
+| Ireland | 31st December 2023 |
+| Italy | 31st December 2023 |
+| Japan | 1st April 2024 |
+| Liechtenstein | 1st January 2024 |
+| Luxembourg | 31st December 2023 |
+| Netherlands | 31st December 2023 |
+| Norway | 1st January 2024 |
+| Republic of Korea | 1st January 2024 |
+| Romania | 31st December 2023 |
+| Slovenia | 31st December 2023 |
+| Sweden | 31st December 2023 |
+| Turkey | 1st January 2024 |
+| Vietnam | 1st January 2024 |
+
+## Schedule 2 — Qualifying Domestic Top-up Taxes[^key-24a43f65f1251c1d101b0859c4cec4e7]
+
+Regulation 3
+
+| Territory | Legislation | Date |
+| --- | --- | --- |
+| Australia | Taxation (Multinational – Global and Domestic Minimum Tax) Imposition Act 2024 | 1st January 2024 |
+|  | Taxation (Multinational – Global and Domestic Minimum Tax) Act 2024 | 1st January 2024 |
+| Austria | Bundesgesetz zur Gewährleistung einer globalen Mindestbesteuerung für Unternehmensgruppen (Mindestbesteuerungsgesetz – MinBestG) | 31st December 2023 |
+| Barbados | Corporation Top-up Tax Act, 2024-16 | 1st January 2024 |
+| Belgium | Loi portant l’introduction d’un impôt minimum pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure | 31st December 2023 |
+|  | Wet houdende de invoering van een minimumbelasting voor multinationale ondernemingen en omvangrijke binnenlandse groepen | 31st December 2023 |
+| Bulgaria | ЗАКОН за корпоративното подоходно облагане | 31st December 2023 |
+| Canada | Global Minimum Tax Act | 31st December 2023 |
+|  | Loi sur l’impôt minimum mondial | 31st December 2023 |
+| Croatia | Zakon o minimalnom globalnom porezu na dobit | 31st December 2023 |
+| Czech Republic | Zákon č. 416/2023 Sb., o dorovnávacích daních pro velké nadnárodní skupiny a velké vnitrostátní skupiny | 31st December 2023 |
+| Denmark | Lov nr. 1535 af 12. december 2023 om en ekstraskat for visse koncernenheder (minimumsbeskatningsloven) | 31st December 2023 |
+| Finland | Laki suurten konsernien vähimmäisverosta 1308/2023 | 31st December 2023 |
+| France | Imposition minimale mondiale des groupes d'entreprises multinationales et des groupes nationaux (Code général des impôts, Chapitre II bis, article 223 VJ à 223 WZ) | 31st December 2023 |
+| Germany | Gesetz zur Gewährleistung einer globalen Mindestbesteuerung für Unternehmensgruppen (Mindeststeuergesetz – MinStG) | 31st December 2023 |
+| Greece | NOMOΣ ΥΠ’ ΑΡΙΘΜ. 5100 Ενσωμάτωση της Οδηγίας (ΕΕ) 2022/2523 του Συμβουλίου, της 14ης Δεκεμβρίου 2022, σχετι-κά με την εξασφάλιση παγκόσμιου ελάχιστου επιπέδου φορολογίας των ομίλων πολυεθνικών επιχειρήσεων και των εγχώριων ομίλων μεγάλης κλίμακας στην Ευρωπαϊκή Ένωση (Pillar II) και άλ-λες επείγουσες διατάξεις | 31st December 2023 |
+| Hungary | 2023\. évi LXXXIV. Törvény a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról | 31st December 2023 |
+| Ireland | Taxes Consolidation Act 1997, Part 4A (Implementation Of Council Directive (EU) 2022/2523 of 15 December 2022 on Ensuring a Global Minimum Level of Taxation For Multinational Enterprise Groups and Large Scale Domestic Groups in the Union) | 31st December 2023 |
+| Italy | DECRETO LEGISLATIVO 27 dicembre 2023, n. 209 Attuazione della riforma fiscale in materia di fiscalita' internazionale | 31st December 2023 |
+| Liechtenstein | Gesetz vom 10. November 2023 über die Mindestbesteuerung grosser Unternehmensgruppen (GloBE-Gesetz) | 1st January 2024 |
+| Luxembourg | Loi du 22 décembre 2023 relative à l’imposition minimale effective en vue de la transposition de la directive (UE) 2022/2523 du Conseil du 15 décembre 2022 visant à assurer un niveau minimum d’imposition mondial pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure dans l’Union | 31st December 2023 |
+| Netherlands | Wet minimumbelasting 2024 | 31st December 2023 |
+| Norway | Lov 12. januar 2024 nr 1 om suppleringsskatt på underbeskattet inntekt i konsern (suppleringsskatteloven) | 1st January 2024 |
+| Romania | Lege nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | 31st December 2023 |
+| Slovakia | Zákon č. 507/2023 Z. z. o dorovnávacej dani na zabezpečenie minimálnej úrovne zdanenia nadnárodných skupín podnikov a veľkých vnútroštátnych skupín a o doplnení zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov | 31st December 2023 |
+| Slovenia | Zakon o minimalnem davku (ZMD); Uradni list RS, št. 131/2023) | 31st December 2023 |
+| Sweden | Lag (2023:875) om tilläggsskatt | 31st December 2023 |
+| Switzerland | Ordonnance sur l’imposition minimale des grands groupes d’entreprises, RS 642.16 | 1st January 2024 |
+|  | Verordnung über die Mindestbesteuerung grosser Unternehmensgruppen, RS 642.16 | 1st January 2024 |
+|  | Ordinanza concernente l’imposizione minima dei grandi gruppi di imprese, RS 642.16 | 1st January 2024 |
+| Turkey | Kanun Numarası 5520 KURUMLAR VERGİSİ KANUNU (BEŞİNCİ KISIM Yerel ve Küresel Asgari Tamamlayıcı Kurumlar Vergisi ve Geçici Maddeler) | 1st January 2024 |
+| Vietnam | Nghị quyết số 107/2023/QH15 của Quốc hội: Về việc áp dụng thuế thu nhập doanh nghiệp bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu | 1st January 2024 |
+
+## Schedule 3 — Accredited Qualifying Domestic Top-up Taxes[^key-be3d0b918f26723a2c3eb34bf82b26bd]
+
+Regulation 4
+
+| Territory | Legislation | Date |
+| --- | --- | --- |
+| Australia | Taxation (Multinational – Global and Domestic Minimum Tax) Imposition Act 2024 | 1st January 2024 |
+|  | Taxation (Multinational – Global and Domestic Minimum Tax) Act 2024 | 1st January 2024 |
+| Austria | Bundesgesetz zur Gewährleistung einer globalen Mindestbesteuerung für Unternehmensgruppen (Mindestbesteuerungsgesetz – MinBestG) | 31st December 2023 |
+| Barbados | Corporation Top-up Tax Act, 2024-16 | 1st January 2024 |
+| Belgium | Loi portant l’introduction d’un impôt minimum pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure | 31st December 2023 |
+|  | Wet houdende de invoering van een minimumbelasting voor multinationale ondernemingen en omvangrijke binnenlandse groepen | 31st December 2023 |
+| Bulgaria | ЗАКОН за корпоративното подоходно облагане | 31st December 2023 |
+| Canada | Global Minimum Tax Act | 31st December 2023 |
+|  | Loi sur l’impôt minimum mondial | 31st December 2023 |
+| Croatia | Zakon o minimalnom globalnom porezu na dobit | 31st December 2023 |
+| Czech Republic | Zákon č. 416/2023 Sb., o dorovnávacích daních pro velké nadnárodní skupiny a velké vnitrostátní skupiny | 31st December 2023 |
+| Denmark | Lov nr. 1535 af 12. december 2023 om en ekstraskat for visse koncernenheder (minimumsbeskatningsloven) | 31st December 2023 |
+| Finland | Laki suurten konsernien vähimmäisverosta 1308/2023 | 31st December 2023 |
+| France | Imposition minimale mondiale des groupes d'entreprises multinationales et des groupes nationaux (Code général des impôts, Chapitre II bis, article 223 VJ à 223 WZ) | 31st December 2023 |
+| Germany | Gesetz zur Gewährleistung einer globalen Mindestbesteuerung für Unternehmensgruppen (Mindeststeuergesetz – MinStG) | 31st December 2023 |
+| Greece | NOMOΣ ΥΠ’ ΑΡΙΘΜ. 5100 Ενσωμάτωση της Οδηγίας (ΕΕ) 2022/2523 του Συμβουλίου, της 14ης Δεκεμβρίου 2022, σχετι-κά με την εξασφάλιση παγκόσμιου ελάχιστου επιπέδου φορολογίας των ομίλων πολυεθνικών επιχειρήσεων και των εγχώριων ομίλων μεγάλης κλίμακας στην Ευρωπαϊκή Ένωση (Pillar II) και άλ-λες επείγουσες διατάξεις | 31st December 2023 |
+| Hungary | 2023\. évi LXXXIV. Törvény a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról | 31st December 2023 |
+| Ireland | Taxes Consolidation Act 1997, Part 4A (Implementation Of Council Directive (EU) 2022/2523 of 15 December 2022 on Ensuring a Global Minimum Level of Taxation For Multinational Enterprise Groups and Large Scale Domestic Groups in the Union) | 31st December 2023 |
+| Italy | DECRETO LEGISLATIVO 27 dicembre 2023, n. 209 Attuazione della riforma fiscale in materia di fiscalita' internazionale | 31st December 2023 |
+| Liechtenstein | Gesetz vom 10. November 2023 über die Mindestbesteuerung grosser Unternehmensgruppen (GloBE-Gesetz) | 1st January 2024 |
+| Luxembourg | Loi du 22 décembre 2023 relative à l’imposition minimale effective en vue de la transposition de la directive (UE) 2022/2523 du Conseil du 15 décembre 2022 visant à assurer un niveau minimum d’imposition mondial pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure dans l’Union | 31st December 2023 |
+| Netherlands | Wet minimumbelasting 2024 | 31st December 2023 |
+| Norway | Lov 12. januar 2024 nr 1 om suppleringsskatt på underbeskattet inntekt i konsern (suppleringsskatteloven) | 1st January 2024 |
+| Romania | Lege nr. 431/2023 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni | 31st December 2023 |
+| Slovakia | Zákon č. 507/2023 Z. z. o dorovnávacej dani na zabezpečenie minimálnej úrovne zdanenia nadnárodných skupín podnikov a veľkých vnútroštátnych skupín a o doplnení zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších predpisov | 31st December 2023 |
+| Slovenia | Zakon o minimalnem davku (ZMD); Uradni list RS, št. 131/2023) | 31st December 2023 |
+| Sweden | Lag (2023:875) om tilläggsskatt | 31st December 2023 |
+| Switzerland | Ordonnance sur l’imposition minimale des grands groupes d’entreprises, RS 642.16 | 1st January 2024 |
+|  | Verordnung über die Mindestbesteuerung grosser Unternehmensgruppen, RS 642.16 | 1st January 2024 |
+|  | Ordinanza concernente l’imposizione minima dei grandi gruppi di imprese, RS 642.16 | 1st January 2024 |
+| Turkey | Kanun Numarası 5520 KURUMLAR VERGİSİ KANUNU (BEŞİNCİ KISIM Yerel ve Küresel Asgari Tamamlayıcı Kurumlar Vergisi ve Geçici Maddeler) | 1st January 2024 |
+| Vietnam | Nghị quyết số 107/2023/QH15 của Quốc hội: Về việc áp dụng thuế thu nhập doanh nghiệp bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu | 1st January 2024 |
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations specify territories as Pillar Two territories, and taxes as qualifying domestic top-up taxes and accredited qualifying domestic top-up taxes, in support of the implementation and operation of the Organisation for Economic Co-operation and Development/G20 Inclusive Framework’s Pillar Two model rules.
+
+Regulations 2, 3, and 4 have effect from a date before these Regulations commence. This is authorised by sections 241(3), 256(4) of, and paragraph 2(1C) of Schedule 16A to, the Finance (No. 2) Act 2023.
+
+Regulations 2, 3, and 4 give effect to the Schedules which provide as follows:
+
+- The table in Schedule 1 lists territories specified as Pillar Two territories along with the date from which they are specified as such,
+- The table in Schedule 2 lists the taxes specified as qualifying domestic top-up taxes along with the date from which they are specified as such, and
+- The table in Schedule 3 lists the qualifying domestic top-up taxes that are accredited for the purposes of an election in accordance with Schedule 16A to the 2023 Act along with the date from which they are so accredited.
+
+Regulations 2, 3 and 4 also provide for Commissioners for His Majesty’s Revenue and Customs to specify further territories as Pillar Two territories, and taxes as qualifying domestic top-up taxes and accredited qualifying domestic top-up taxes, by way of notice.
+
+Public notices made under this instrument will be published on the website at https://www.gov.uk/government/collections/multinational-top-up-tax-and-domestic-top-up-tax.
+
+Copies of the taxes specified in Schedule 2 and 3 are available for inspection in hard copy from 100 Parliament Street, London SW1A 2BQ and in electronic copy on request by emailing:
+
+pillar2.consultation@hmrc.gov.uk.
+
+A Tax Information and Impact Note covering this instrument will be published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [2023 c. 30](https://www.legislation.gov.uk/ukpga/2023/30); Section 241 was amended by paragraphs 8 and 51(1) of Schedule 4 to the Finance Act [2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8). Section 256 was amended by paragraph 51(2) of Schedule 4 to the Finance Act 2025. Paragraph 2 of Schedule 16A was inserted by paragraph 41(1) of Schedule 12 to the Finance Act [2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3) and amended by paragraph 51(3) of Schedule 4 to the Finance Act 2025.
+
+[^key-c1b4a38ebaec55d41bc2881a82df2e47]: Commencement: Reg. 1 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+
+[^key-2edacfc0f36ac2243164678db17c2b51]: Commencement: Reg. 2 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+
+[^key-581ca529a2e4def63ce6af112f15c46c]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/406/regulation/2/3) inserted (24.7.2025) by [The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) (Amendment) Regulations 2025 (S.I. 2025/783)](https://www.legislation.gov.uk/uksi/2025/783), [regs. 1](https://www.legislation.gov.uk/uksi/2025/783/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/783/regulation/2/2)
+
+[^key-bc9f3e5a955bc6d0d066c3b24b3ecd6b]: Commencement: Reg. 3 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+
+[^key-cdd4b762e68e40ce36c190e8527f3f9a]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2025/406/regulation/3/3) inserted (24.7.2025) by [The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) (Amendment) Regulations 2025 (S.I. 2025/783)](https://www.legislation.gov.uk/uksi/2025/783), [regs. 1](https://www.legislation.gov.uk/uksi/2025/783/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/783/regulation/2/2)
+
+[^key-5c62019c863592857fb66bfcb285a068]: Commencement: Reg. 4 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+
+[^key-4eea539a4bab1136ddd4978c2f7fa858]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2025/406/regulation/4/3) inserted (24.7.2025) by [The Multinational Top-up Tax (Pillar Two Territories, Qualifying Domestic Top-up Taxes and Accredited Qualifying Domestic Top-up Taxes) (Amendment) Regulations 2025 (S.I. 2025/783)](https://www.legislation.gov.uk/uksi/2025/783), [regs. 1](https://www.legislation.gov.uk/uksi/2025/783/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/783/regulation/2/2)
+
+[^key-c8eff1cbef415900b5b8c47091f335b9]: Commencement: Sch. 1 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+
+[^key-24a43f65f1251c1d101b0859c4cec4e7]: Commencement: Sch. 2 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)
+
+[^key-be3d0b918f26723a2c3eb34bf82b26bd]: Commencement: Sch. 3 in force at 21.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/406/regulation/1/1)

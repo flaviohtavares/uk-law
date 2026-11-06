@@ -1,0 +1,47 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 153
+act: Income Tax (Trading and Other Income) Act 2005
+section: '153'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/153
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 153
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 153. Meaning of “gilt-edged security” and “strip”
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Act “**gilt-edged security**” means a security which—
+
+- (a) is a gilt-edged security for the purposes of TCGA 1992 (see Schedule 9 to that Act), or
+- (b) will be such a security on the making of an order under paragraph 1 of Schedule 9 to TCGA 1992, if the making of the order is anticipated in the prospectus under which the security is issued.
+
+(2) For the purposes of sections 151 and 152 “**strip**”, in relation to a gilt-edged security, means a security issued under the National Loans Act 1968 (c. 13) which meets conditions A to C.
+
+(3) Condition A is that the security is issued for the purpose of representing the right to or of securing—
+
+- (a) a payment corresponding to a payment of interest or principal remaining to be made under the gilt-edged security, or
+- (b) two or more payments each corresponding to a payment to be so made.
+
+(4) Condition B is that the security is issued in conjunction with the issue of one or more other securities which, together with that security—
+
+- (a) represent the right to, or
+- (b) secure,
+
+payments corresponding to every payment remaining to be made under the gilt-edged security.
+
+(5) Condition C is that the security is not itself a security which—
+
+- (a) represents the right to, or
+- (b) secures,
+
+payments corresponding to a part of every payment remaining to be made under the gilt-edged security.

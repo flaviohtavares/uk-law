@@ -1,0 +1,572 @@
+---
+title: The East Northamptonshire Resource Management Facility Order 2013
+id: uksi/2013/1752
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-07-10'
+text_date: '2023-02-13'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2013/1752
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1752/pdfs/uksi_20131752_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1752/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The East Northamptonshire Resource Management Facility Order 2013
+
+> Text as at 2023-02-13.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2013 No. 1752
+
+Infrastructure Planning
+
+The East Northamptonshire Resource Management Facility Order 2013
+
+Made
+
+10th July 2013
+
+Coming into force
+
+31st July 2013
+
+An application has been made to the Infrastructure Planning Commission, in accordance with the Infrastructure Planning (Applications and Prescribed Forms and Procedure) Regulations 2009[^f00001], for an order granting development consent.
+
+The application was examined by a single appointed person appointed by the Secretary of State pursuant to Chapter 3 of Part 6 of the 2008 Act[^f00002] and carried out in accordance with Chapter 4 of Part 6 of the 2008 Act, and the Infrastructure Planning (Examination Procedure) Rules 2010[^f00003].
+
+The single appointed person, having examined the application with the documents that accompanied the application, and the representations made and not withdrawn, has, in accordance with section 83(1) of the 2008 Act, made a report and recommendation to the Secretary of State.
+
+The Secretary of State, having considered the report and recommendation of the single appointed person, has decided to make an Order granting development consent for the development described in the application with modifications which in the opinion of the Secretary of State do not make any substantial change to the proposals comprised in the application.
+
+The Secretary of State, in exercise of the powers conferred by sections 114, 115 and 120 of the Planning Act 2008, makes the following Order:[^key-0fc039516b90996465c81b3f3bd221e3]
+
+## 1. Citation and commencement[^key-ec75ed2db854fdbe1f785f577672ab92]
+
+This Order may be cited as the East Northamptonshire Resource Management Facility Order 2013 and shall come into force on the 31st July 2013.
+
+## 2. Interpretation[^key-f4f62bc073d25db1642fbe326692b5cd]
+
+(1) In this Order—
+
+- “the 1990 Act” means the Town and Country Planning Act 1990[^f00004];
+- “the 2008 Act” means the Planning Act 2008;
+- “ancillary works” means the ancillary works described in Schedule 1 (authorised project) and any other works authorised by this Order and which are not development[^f00005];
+- “authorised development” means the development and associated development[^f00006] described in Schedule 1 (authorised project) and any other development authorised by this Order;
+- “the environmental document” means the document certified as the environmental document by the Secretary of State for the purposes of this Order;
+- “the authorised project” means the authorised development and the ancillary works;
+- “hazardous waste” means waste defined as such in regulation 6 of the Hazardous Waste (England and Wales) Regulations 2005[^f00007] and as may be amended from time to time in these or equivalent regulations;
+- “the land plan” means the plan certified as the land plan by the Secretary of State for the purposes of this Order;
+- “low level waste” means radioactive waste comprising solid radioactive waste up to a maximum specific activity of 200Bq/g;
+- “maintain” includes maintain, inspect, repair, remove, clear, refurbish, reconstruct, decommission, demolish, replace and improve and “maintenance” shall be construed accordingly;
+- “the Order limits” means the limits shown on the works plan within which the authorised project may be carried out;
+- “relevant planning authority” means the county planning authority[^f00008];
+- “the site” means land within the Order limits;
+- “the undertaker” means Augean South Limited or such other person as has the benefit of this Order under section 156(1) of the 2008 Act;
+- “watercourse” includes all rivers, streams, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain; and
+- “the works plan” means the plan certified as the works plan by the Secretary of State for the purposes of this Order.
+
+(2) References in this Order to rights over land include references to rights to do or to place and maintain, anything in, on or under land or in the air-space above its surface.
+
+(3) References in this Order to numbered requirements are to the requirements with those numbers in Schedule 2.
+
+(4) All distances, directions and lengths referred to in this Order are approximate and distances between points on a work comprised in the authorised project shall be taken to be measured along that work.
+
+## 3. Development consent etc. granted by the Order[^key-aa76d363fc79d7eb4807eb14f5636eb0]
+
+Subject to the provisions of this Order and to the requirements in Schedule 2 (requirements) attached to this Order the undertaker is granted—
+
+- (a) development consent for the authorised development; and
+- (b) consent for the ancillary works,
+
+to be carried out within the Order limits.
+
+## 4. Maintenance of authorised project[^key-a49c2ef3e837fde89fa6bd3bb17cc2df]
+
+The undertaker may at any time maintain the authorised project, except to the extent that this Order or an agreement made under this Order, provides otherwise.
+
+## 5. Procedure in relation to approvals etc under the requirements[^key-c258ac28d34363caeb149636506abd17]
+
+(1) Where an application is made to the relevant planning authority for any consent, agreement or approval required by any of the requirements, the following provisions apply, so far as they relate to a consent, agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission, as if the requirement was a condition imposed on the grant of planning permission—
+
+- (a) sections 78 and 79 of the 1990 Act (right of appeal in relation to planning decisions);
+- (b) any orders, rules or regulations which make provision in relation to a consent, agreement or approval of a local planning authority required by a condition imposed on the grant of planning permission.
+
+(2) For the purposes of paragraph (1), a provision relates to a consent, agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission in so far as it makes provision in relation to an application for such a consent, agreement or approval, or the grant or refusal of such an application, or a failure to give notice of a decision on such an application.
+
+## 6. Defence to proceedings in respect of statutory nuisance[^key-b91364b7b941f357bd3b85de1b181f50]
+
+(1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00009] (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraphs (a), (c), (d), (e), (g) or (ga) of section 79(1) of that Act no order shall be made, and no fine may be imposed, under section 82(2) of that Act if—
+
+- (a) the defendant shows that the nuisance—
+  - (i) relates to premises used by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised project and that the nuisance is attributable to the carrying out of the authorised project in accordance with a notice served under section 60 (control of noise on construction site), or a consent given under section 61 (prior consent for work on construction site) or 65 (noise exceeding registered level), of the Control of Pollution Act 1974[^f00010]; or
+  - (ii) is a consequence of the construction or maintenance of the authorised project and that it cannot reasonably be avoided; or
+- (b) the defendant shows that the nuisance—
+  - (i) relates to premises used by the undertaker for the purposes of or in connection with the use of the authorised project and that the nuisance is attributable to the use of the authorised project which is being used in accordance with a scheme of monitoring and attenuation agreed with the relevant planning authority as described in requirement 4; or
+  - (ii) is a consequence of the use of the authorised project and that it cannot reasonably be avoided.
+
+(2) Section 61(9) (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) of the Control of Pollution Act 1974 and section 65(8) of that Act (corresponding provision in relation to consent for registered noise level to be exceeded), shall not apply where any consent relates to the use of premises by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised project.
+
+## 7. Certification of plans etc[^key-036b7a850c421530b884cb2602ccc85c]
+
+(1) The undertaker shall, as soon as practicable after the making of this Order, submit to the Secretary of State copies of the following plans and documents—
+
+- (a) the land plan (WS010001/ENRMF/PLANS/LAND);
+- (b) the works plan (WS010001/ENRMF/PLANS/WORKS);
+- (c) Elevations of main infrastructure including buildings (WS010001/ENRMF/PLANS/ELEVATION3);
+- (d) The site access from Stamford Road (WS010001/ENRMF/PLANS/ELEVATION4);
+- (e) Proposed post-settlement restoration contours (WS010001/ENRMF/PLANS/ELEVATION1);
+- (f) Elevations of the infrastructure associated with the soil treatment plant (WS010001/ENRMF/PLANS/ELEVATION5);
+- (g) Elevations of the stockpiles and bunds (WS010001/ENRMF/PLANS/ELEVATION2);
+- (h) figure ES6 of the environmental document;
+- (i) the Biodiversity Action Plan for East Northants RMF at appendix 3 of appendix ESF to the environmental document;
+- (j) the Restoration Scheme (WS010001/ENRMF/PLANS/SITE1);
+- (k) the transport assessment at appendix ESJ to the environmental document (WS010001/ENRMF/ESAPPESJ);
+- (l) figures ES10A to ES10J of the environmental document;
+- (m) the environmental document;
+- (n) Noise management and monitoring scheme (WS010001/ENRMF/ESAPPESE);
+- (o) the current permits for the landfill site (EPR/TP3430GW) and the soil treatment plant (YP3138XB); and
+- (p) any other plans or documents referred to in this Order,
+
+for certification that they are true copies of the documents referred to in this Order.
+
+(2) A plan or document so certified shall be admissible in any proceedings as evidence of the contents of the document of which it is a copy.
+
+## 8. Arbitration[^key-78658159a560bc629731c5c3fdc3d574]
+
+Any difference under any provision of this Order, unless otherwise provided for, shall be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the Secretary of State.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Eric Pickles
+
+Secretary of State for Communities and Local Government
+
+Department for Communities and Local Government
+
+10th July 2013
+
+## SCHEDULE 1 — AUTHORISED PROJECT[^key-e0ffcd1093bf839eb7bb0dd9ce7ff567]
+
+Article 2
+
+[^key-e0ffcd1093bf839eb7bb0dd9ce7ff567]
+
+A nationally significant infrastructure project as defined in section 14(1)(p) and 30 of the 2008 Act comprising—
+
+- Works No.1 – A hazardous waste landfill facility for the disposal at a direct input rate of up to 150,000 tonnes per annum of hazardous waste and low level waste on the area and phases identified on the works plan (WS010001/ENRMF/PLANS/WORKS) including a landfill gas pump and gas flare, extraction and stockpiling of clay and other suitable materials for engineering purposes and the exportation of some clay and other suitable materials, all other associated engineering works to construct the landfill phases including a leachate collection system.
+- Works No.2 – A hazardous waste facility, namely the alteration of an existing soil treatment facility the details of which are as shown on the plan Elevations of the infrastructure associated with the soil treatment plant (WS010001/ENRMF/PLANS/ELEVATION5) with an increase from the currently consented capacity of 150,000tpa[^key-649e3872f85253bd8253be0147cbcfca] to 200,000tpa[^key-ec72ba88d482a186f30950f9f692c57f] of contaminated materials comprising predominantly hazardous wastes and comprising a modular plant located on a concrete pad with associated surface water drainage and collection and adjacent stockpiles. The components of the plant include stocking areas and stocking bays with concrete A frame walls, process, reagent and water or other liquid storage tanks and silos, feed hoppers, screens, conveyors, washing units, separators, mixing vessels, sedimentation units, bioremediation area, a mobile crusher on a campaign basis, open concrete lined settlement tanks, a process control office and staff welfare facilities, bunded fuel storage tanks and an electricity generator in an insulated container.
+
+  And in connection with such works and to the extent that they do not otherwise form part of any such work, further associated development and/or ancillary works shown on the plans referred to in the requirements including—
+
+  - (a) the continuation of the filling with hazardous waste and low level waste the existing landfill cells 4B, 5A and 5B as shown on Figure ES6 of the environmental document;
+  - (b) the main infrastructure and buildings including the surface water pumping station, laboratory, canteen and offices as shown on the plan Elevations of main infrastructure including buildings (WS010001/ENRMF/PLANS/ELEVATION3);
+  - (c) weighbridge
+  - (d) cess pit;
+  - (e) leachate storage tanks;
+  - (f) fuel storage tanks;
+  - (g) monitoring boreholes;
+  - (h) security cameras;
+  - (i) boundary fencing;
+  - (j) lighting;
+  - (k) car parking area;
+  - (l) internal site roads;
+  - (m) hardstanding and bunding;
+  - (n) surface water collection ponds;
+  - (o) surface and foul water drainage
+  - (p) wheel cleaning facilities
+  - (q) the phased restoration of the land to woodland and grassland for ecological benefit and public access pursuant to the approved scheme under requirement 5 of this Order; and
+  - (r) the site will be subject to a ten year aftercare and maintenance period up to 2036. During this period a leachate storage tank, the gas flare, surface water pumping station and associated fuel storage will be retained at the site.
+
+## SCHEDULE 2 — Requirements
+
+Article 2
+
+Contents
+
+1
+
+Interpretation
+
+2
+
+Time limits
+
+3
+
+Commencement
+
+4
+
+Detailed approval
+
+5
+
+Provision of landscaping and restoration (including ecological enhancement)
+
+6
+
+Implementation and maintenance of landscaping and restoration works
+
+7
+
+Ecological management plan and aftercare
+
+8
+
+Stockpiles
+
+9
+
+Disposal of waste
+
+10
+
+Quantities of waste
+
+11
+
+Vehicular access
+
+12
+
+Control of vehicular movements
+
+13
+
+Traffic management
+
+14
+
+Site security
+
+15
+
+Wheel cleaning
+
+16
+
+Hours of operation
+
+17
+
+Gas flare structures
+
+18
+
+Floodlighting
+
+19
+
+Monitoring reports
+
+20
+
+Display of Order on site
+
+21
+
+Information on waste
+
+22
+
+Cessation of development
+
+23
+
+Review of void consumption
+
+24
+
+Removal of plant and machinery
+
+25
+
+Requirement for written approval
+
+26
+
+Amendments to approved details
+
+### 1. Interpretation[^key-a1d667924ec0e0910fde2710649b78b5]
+
+In this Schedule—
+
+- “commence” means the carrying out of a material operation (as defined in section 56(4) of the 1990 Act) excluding any operations relating to soil investigations or works in respect of land contamination archaeological investigations site clearance diversion of services receipt and erection of construction plant and equipment the erection of temporary fencing hoardings and erection of site compound buildings and “commence” and “commenced” shall be construed accordingly.
+- “the environmental permits” means the current permits for the landfill site (EPR/TP3430GW) and the soil treatment plant (YP3138XB) as may be varied from time to time and any permit that may be granted by the Environment Agency for the new hazardous waste landfill; and
+- “highway” and “highway authority” have the same meaning as in the Highways Act 1980[^f00011].
+
+### 2. Time limits[^key-ef7eccdfb2cfacaddf4ede5efa245cd1]
+
+The authorised development must commence within 2 years of the coming into force of this Order.
+
+### 3. Commencement[^key-db4cad6e502153feadd57717acf0a8e5]
+
+Notice of commencement of the authorised development must be given to the relevant planning authority within 7 days beginning with the date that the authorised development is commenced.
+
+### 4. Detailed approval[^key-8ca636c86071a51a0104da829540ab2b]
+
+The authorised development must be carried out in accordance with the following sections of the environmental document and the approved plans and schemes listed in this requirement (except for minor amendments as approved in writing by the relevant planning authority)—
+
+- (a) sections 4, 6 and 10 of the environmental document;
+- (b) Noise management and monitoring scheme (WS010001/ENRMF/ESAPPESE);
+- (c) the works plan (WS010001/ENRMF/PLANS/WORKS);
+- (d) the land plan (WS010001/ENRMF/PLANS/LAND);
+- (e) Proposed post settlement restoration contours (WS010001/ENRMF/PLANS/ELEVATION1);
+- (f) Elevations of the stockpiles and bunds (WS010001/ENRMF/PLANS/ELEVATION2);
+- (g) Elevations of main infrastructure including buildings (WS010001/ENRMF/PLANS/ELEVATION3);
+- (h) The site access from Stamford Road (WS010001/ENRMF/PLANS/ELEVATION4);
+- (i) Elevations of the infrastructure associated with the soil treatment plant (WS010001/ENRMF/PLANS/ELEVATION5); and
+- (j) figures ES10A to ES10J of the environmental document.
+
+### 5. Provision of landscaping and restoration (including ecological enhancement)[^key-4f4a13f59572cfccfba682ce85c5f004]
+
+Within 12 months of the coming into force of this Order the undertaker shall submit to the relevant planning authority for approval a written landscaping and restoration scheme in accordance with the principles set out on the plan Restoration Scheme (WS010001/ENRMF/PLANS/SITE1) and section 6 of the environmental document including plans ES10A to ES10J of the environmental document. The landscaping and restoration scheme submitted must include details of all proposed hard and soft landscaping works, ecological mitigation and enhancement measures included in the environment document including—
+
+- (a) location, number, species, size and planting density of any proposed planting;
+- (b) cultivation, importing of materials and other operations to ensure plant establishment;
+- (c) details of proposed finished ground level contours in accordance with the plan Proposed post settlement restoration contours (WS010001/ENRMF/PLANS/ELEVATION1) ;
+- (d) hard surfacing materials;
+- (e) vehicular and pedestrian access, parking and circulation areas;
+- (f) minor structures, such as furniture, refuse or other storage units, signs and lighting;
+- (g) proposed and existing functional services above and below ground, including drainage, power and communications cables and pipelines, manholes and supports;
+- (h) details of existing trees to be retained, with measures for their protection during the operations;
+- (i) implementation timetables for the phased restoration of the land including all landscaping, restoration and aftercare works; and
+- (j) the location of fuel storage and leachate tanks and any other infrastructure required for the aftercare works.
+
+### 6. Implementation and maintenance of landscaping and restoration works[^key-1cb904877f15bf610e65db49ec8665b1]
+
+(1) All landscaping, restoration and aftercare works must be carried out in accordance with the landscaping and restoration scheme approved under requirement 5 and to a reasonable standard in accordance with the relevant recommendations of appropriate British Standards or other recognised codes of good practice.
+
+(2) The landscaping works must be carried out in accordance with implementation timetables approved under requirement 5 provided that the land shall be restored by 31 December 2026 at the latest.
+
+(3) Any tree or shrub planted as part of an approved landscaping and restoration scheme that, within a period of 10 years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless otherwise approved by the relevant planning authority.
+
+### 7. Ecological management plan and aftercare[^key-dddb005048172fd73722314cac0c2fe8]
+
+(1) Within 12 months of the coming into force of this Order a written ecological management and aftercare plan based on the Biodiversity Action Plan at Appendix ESF to the environmental document and reflecting the survey results and ecological mitigation and enhancement measures included in the environmental document shall be submitted for approval by the relevant planning authority.
+
+(2) The ecological management and aftercare plan shall provide for the aftercare of the site for 10 years following completion of restoration.
+
+(3) The ecological management and aftercare plan shall include an implementation timetable and must be carried out as approved by the relevant planning authority.
+
+### 8. Stockpiles[^key-dcfaee128c26ca42b18a6a94ff08c8d2]
+
+The stockpiles as shown on the plan Elevations of the stockpiles and bunds (WS010001/ENRMF/PLANS/ELEVATION2) shall be managed in accordance with the details set out in section 5 of the environment document during the operation of the authorised development.
+
+### 9. Disposal of waste[^key-dd794e17505addcd14963b63a8bf19bb]
+
+No waste materials shall be disposed of at the site other than hazardous wastes and low level waste together with suitable waste materials used for restoration purposes.
+
+### 10. Quantities of waste[^key-10bb1a90ca1817eb35838d8b44207ef0]
+
+The maximum quantities of waste that shall be imported to the soil treatment facility per annum will be 200,000 tonnes[^key-2522fedf4001b14d7af50223fb12d2f5] and directly to the landfill will be 150,000 tonnes. The combined total amount of waste that can be imported to the site per annum shall not exceed 250,000 tonnes. The total quantity of low level waste disposed of at the site in the period up to 31 December 2026 (or its earlier closure) shall not exceed 448,000 tonnes.
+
+### 11. Vehicular access[^key-1907595f1e72dd7dd2aeaf24ebdb6ef4]
+
+The only vehicular access for the authorised project hereby permitted shall be by way of the existing access to the site on to the Stamford Road and as shown on the plan The site access from Stamford Road (WS010001/ENRMF/PLANS/ELEVATION4).
+
+### 12. Control of vehicular movements[^key-e2d77536508a4a4e433b3506bb1ae858]
+
+(1) Vehicular traffic associated with this authorised project shall be controlled as follows.
+
+(2) The undertaker shall ensure that all heavy goods vehicles entering and leaving the site shall travel direct to and from the A47 Trunk Road via Stamford Road north of the access point with no such vehicles travelling along Stamford Road towards King’s Cliffe village south of the site access point.
+
+(3) Signs informing vehicle drivers of the requirements in paragraph (2) above shall be maintained in a visible location near to the egress on site.
+
+(4) Facilities shall be provided for site operatives within the site to observe the direction of vehicle entry to and exit from the site.
+
+### 13. Traffic management[^key-974b7493f871b7dd2b4171a4615ae64d]
+
+The undertaker shall provide to the relevant planning authority before 31st December 2017 and again before 31st December 2022 an update of the transport assessment at appendix ESJ to the environmental document (WS010001/ENRMF/ESAPPESJ). In the event that the assessment demonstrates the potential for an unacceptable impact of the site traffic on the public highway a scheme of mitigation shall be submitted for the approval of the relevant planning authority within 3 months of a request from the relevant planning authority. The scheme shall thereafter be implemented in accordance with the approved details.
+
+### 14. Site security[^key-931a6069fd519e73e88ebca17500a99a]
+
+The site security measures including the 1.8m palisade fence around the gas compound shall be maintained throughout the life of the operations at the site and beyond in accordance with the details in section 5 of the environmental document until the relevant planning authority, in consultation with the Environment Agency, determines and confirms in writing that the site security measures are no longer required and thereafter, any fences shall be removed within a period of 3 months.
+
+### 15. Wheel cleaning[^key-7a3981f4ac0f6222e1f08770e3d88df6]
+
+Wheel cleaning facilities shall be provided on the site with appropriate drainage in accordance with the details set out in section 5 of the environmental document and thereafter maintained to the satisfaction of the relevant planning authority. The wheels of all vehicles leaving the site shall be cleansed of mud and other debris to prevent mud being carried onto the public highway. All vehicles transporting materials in connection with the authorised development shall be adequately sheeted to the satisfaction of the relevant planning authority.
+
+### 16. Hours of operation[^key-b69931a04129b1d55bb8b0df4eb04457]
+
+(1) Except as may otherwise be approved in writing by the relevant planning authority in temporary limited circumstances, all waste treatment, waste disposal, site preparation, levelling and restoration operations and any associated activities shall be restricted to between the hours of 07.00 and 18.00 on Mondays to Fridays and 07.00 and 13.00 on Saturdays, and subject to sub-paragraph (2), no such operations may be carried out on the site on Sundays or public holidays.
+
+(2) On a public holiday between the hours of 07.00 and 18.00, the following activities may be carried out—
+
+- (a) the delivery of up to 10 loads a day of air pollution control residues;
+- (b) the processing in the stabilisation plant of those residues; and
+- (c) the stockpiling and management of the processed residues within the soil treatment facility.
+
+(3) For the purposes of this paragraph “public holiday” means Christmas Day, Good Friday or a day which under section 1 of the Banking and Financial Dealings Act 1971[^f00012] is a bank holiday in England.
+
+### 17. Gas flare structures[^key-958a6f57921fb26c5f4f76d468e93647]
+
+Except in respect of minor amendments approved in writing by the relevant planning authority the height of—
+
+- (a) the gas compound fencing shall not exceed 1.8m above existing ground level;
+- (b) any building, plant, machinery, foundation, hardstanding, roadway, bunding, structure or erection in the nature of plant or machinery used in connection with the gas flare and pumping station shall not exceed 2m above existing ground level;
+- (c) any gas flare flue shall not exceed 10m above existing ground level.
+
+### 18. Floodlighting[^key-3809cedddee6ad34ca60033144458da6]
+
+(1) All floodlighting including mobile units shall be directed towards the ground to minimise light spillage from the site and except for emergencies will only be operating within the hours of operation specified in requirement 16.
+
+(2) No additional permanent or temporary floodlighting shall be installed at the site, until after consultation with the relevant planning authority, and a written scheme for the management and mitigation of artificial light emissions has been submitted to and approved by the relevant planning authority.
+
+### 19. Monitoring reports[^key-84277884392c12c81a26c2f8e94234aa]
+
+Copies of reports relating to all environmental monitoring, including post closure monitoring, which are required to be submitted to the Environment Agency in connection with the environmental permit, shall be copied at the same time to the relevant planning authority and the East Northamptonshire District Council Environmental Protection Officer.
+
+### 20. Display of Order on site[^key-6570b5b9fcc5a0610d364ff92af05cf7]
+
+A copy of this Order, shall be displayed on the site, and all documents hereby permitted and any documents subsequently approved in accordance with this Order (or amendments approved pursuant to this Order) shall be available at the site office and shall be made known to any person given responsibility for the management or control of operations on the site.
+
+### 21. Information on waste[^key-038d156e7a5f18d6491a22a0ef62425d]
+
+(1) The undertaker shall provide to the relevant planning authority detailed information in writing on the following—
+
+- (a) quantities by weight, types and deposition locations of low level waste brought on to the site for disposal; and
+- (b) quantities by weight and types of the waste imported to the landfill directly for disposal and the waste imported to the soil treatment facility.
+
+(2) The information shall be provided not later than the last day in February for the preceding calendar year and copied at the same time to the East Northamptonshire Council Environmental Protection Officer.
+
+### 22. Cessation of development[^key-bef6b75fd9aa26f8dce0ea9b7c1f9a55]
+
+The landfilling of waste and the operation of the soil treatment plant hereby permitted shall cease not later than 31st December 2026 by which time the land and the access shall be restored or reinstated in accordance with the requirements of this Order.
+
+### 23. Review of void consumption[^key-f12250f6c45845d47e67178800a03fd8]
+
+The undertaker shall provide to the relevant planning authority before the 31st of December 2017, 2020 and 2023 a review of the disposal capacity and consumption of the space available for waste at the landfill facility and the anticipated completion date for infilling. In the event it is determined that restoration of the site will not be completed by 31st December 2026 the undertaker will submit an application to the relevant planning authority to vary the scheme of working to the meet the specified restoration date.
+
+### 24. Removal of plant and machinery[^key-aa5e40b55aa3e4757e507db49df65cbe]
+
+Except to the extent required for aftercare purposes as approved pursuant to the scheme under requirement 5, any building, plant, machinery, foundation, hardstanding, roadway, structure or erection in the nature of plant or machinery used in connection with the authorised project shall be removed from the site when they are respectively no longer required for the purpose for which they were installed and in any case not later than 31st December 2036 upon completion of the aftercare of the land.
+
+### 25. Requirement for written approval[^key-50867d556b8b90ae0e3f157f6c06d6b6]
+
+Where under any of these requirements the approval or agreement of the relevant planning authority or another person is required, that approval or agreement must be given in writing.
+
+### 26. Amendments to approved details[^key-33c3ced7d02c8208bf1c7382b4664061]
+
+Where any requirement requires the authorised development to be carried out in accordance with the details approved by the relevant planning authority, the approved details shall be taken to include any amendments that may subsequently be approved in writing by the relevant planning authority.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order grants development consent for, and authorises Augean South Limited to alter the existing facilities and construct new facilities for the recovery and disposal of hazardous waste and the disposal of low level radioactive waste at the East Northamptonshire Resource Management Facility, Stamford Road, Kings Cliffe, Northamptonshire. The Order also authorises ancillary works and provides a defence in proceedings in respect of statutory nuisance. The Order imposes requirements in connection with the development for which it grants development consent.
+
+A copy of the plans and documents referred to in this Order and certified in accordance with article 7 of this Order may be inspected free of charge during working hours at the offices of Northamptonshire County Council, John Dryden House, 8-10 The Lakes, Northampton, NN4 7YD.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264), amended by [S.I. 2010/602](https://www.legislation.gov.uk/uksi/2010/602), [2012/635](https://www.legislation.gov.uk/uksi/2012/635), [2012/2732](https://www.legislation.gov.uk/uksi/2012/2732), [2013/522](https://www.legislation.gov.uk/uksi/2013/522).
+
+[^f00002]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). The relevant provisions of the Planning Act 2008 are amended by Part 6 of Chapter 6 of, and Schedule 13 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). Following the abolition of the Infrastructure Commission on 1st April 2012 the single person appointed under section 61(2) of the 2008 Act is treated as if appointed by the Secretary of State by virtue of a direction given by the Secretary of State under section 129 of the Localism Act 2011.
+
+[^f00003]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103), amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635).
+
+[^key-0fc039516b90996465c81b3f3bd221e3]: Modification: [Order](https://www.legislation.gov.uk/uksi/2013/1752) excluded (13.2.2023) by [The East Northamptonshire Resource Management Facility Order 2023 (S.I. 2023/110)](https://www.legislation.gov.uk/uksi/2023/110), [arts. 1](https://www.legislation.gov.uk/uksi/2023/110/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2023/110/article/4/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2023/110/article/9))
+
+[^key-ec75ed2db854fdbe1f785f577672ab92]: Commencement: Art. 1 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-f4f62bc073d25db1642fbe326692b5cd]: Commencement: Art. 2 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^f00004]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 206(1) was amended by section 192(8) of, and paragraphs 7 and 11 of Schedule 8 to, the 2008 Act. There are other amendments to the 1990 Act not relevant to this Order.
+
+[^f00005]: Footnote: For the definition of “development” see section 32 of the 2008 Act.
+
+[^f00006]: Footnote: For the definition of “associated development” see section 115 of the 2008 Act.
+
+[^f00007]: Footnote: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988). There are other amendments not relevant to this Order.
+
+[^f00008]: Footnote: See section 173(4) of the 2008 Act.
+
+[^key-aa76d363fc79d7eb4807eb14f5636eb0]: Commencement: Art. 3 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-a49c2ef3e837fde89fa6bd3bb17cc2df]: Commencement: Art. 4 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-c258ac28d34363caeb149636506abd17]: Commencement: Art. 5 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-b91364b7b941f357bd3b85de1b181f50]: Commencement: Art. 6 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^f00009]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), amended by section 103 of the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16). There are other amendments to the Environmental Protection Act 1990 not relevant to this Order.
+
+[^f00010]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Sections 61(9) and 65(8) were amended by section 162 of, and paragraph 15 of Schedule 3 to, the Environmental Protection Act [1990 (c. 25)](https://www.legislation.gov.uk/ukpga/1990/25). There are other amendments to the Control of Pollution Act 1974 not relevant to this Order.
+
+[^key-036b7a850c421530b884cb2602ccc85c]: Commencement: Art. 7 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-78658159a560bc629731c5c3fdc3d574]: Commencement: Art. 8 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-e0ffcd1093bf839eb7bb0dd9ce7ff567]: Commencement: Sch. 1 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-649e3872f85253bd8253be0147cbcfca]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1752/schedule/1/paragraph/1) substituted (22.6.2018) by [The East Northamptonshire Resource Management Facility (Amendment) Order 2018 (S.I. 2018/742)](https://www.legislation.gov.uk/uksi/2018/742), [arts. 1](https://www.legislation.gov.uk/uksi/2018/742/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/742/article/3/a)
+
+[^key-ec72ba88d482a186f30950f9f692c57f]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1752/schedule/1/paragraph/1) substituted (22.6.2018) by [The East Northamptonshire Resource Management Facility (Amendment) Order 2018 (S.I. 2018/742)](https://www.legislation.gov.uk/uksi/2018/742), [arts. 1](https://www.legislation.gov.uk/uksi/2018/742/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/742/article/3/b)
+
+[^key-a1d667924ec0e0910fde2710649b78b5]: Commencement: Sch. 2 para. 1 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^f00011]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^key-ef7eccdfb2cfacaddf4ede5efa245cd1]: Commencement: Sch. 2 para. 2 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-db4cad6e502153feadd57717acf0a8e5]: Commencement: Sch. 2 para. 3 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-8ca636c86071a51a0104da829540ab2b]: Commencement: Sch. 2 para. 4 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-4f4a13f59572cfccfba682ce85c5f004]: Commencement: Sch. 2 para. 5 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-1cb904877f15bf610e65db49ec8665b1]: Commencement: Sch. 2 para. 6 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-dddb005048172fd73722314cac0c2fe8]: Commencement: Sch. 2 para. 7 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-dcfaee128c26ca42b18a6a94ff08c8d2]: Commencement: Sch. 2 para. 8 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-dd794e17505addcd14963b63a8bf19bb]: Commencement: Sch. 2 para. 9 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-10bb1a90ca1817eb35838d8b44207ef0]: Commencement: Sch. 2 para. 10 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-2522fedf4001b14d7af50223fb12d2f5]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2013/1752/schedule/2/paragraph/10) substituted (22.6.2018) by [The East Northamptonshire Resource Management Facility (Amendment) Order 2018 (S.I. 2018/742)](https://www.legislation.gov.uk/uksi/2018/742), [arts. 1](https://www.legislation.gov.uk/uksi/2018/742/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/742/article/4/a)
+
+[^key-1907595f1e72dd7dd2aeaf24ebdb6ef4]: Commencement: Sch. 2 para. 11 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-e2d77536508a4a4e433b3506bb1ae858]: Commencement: Sch. 2 para. 12 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-974b7493f871b7dd2b4171a4615ae64d]: Commencement: Sch. 2 para. 13 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-931a6069fd519e73e88ebca17500a99a]: Commencement: Sch. 2 para. 14 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-7a3981f4ac0f6222e1f08770e3d88df6]: Commencement: Sch. 2 para. 15 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-b69931a04129b1d55bb8b0df4eb04457]: Commencement: Sch. 2 para. 16 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^f00012]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-958a6f57921fb26c5f4f76d468e93647]: Commencement: Sch. 2 para. 17 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-3809cedddee6ad34ca60033144458da6]: Commencement: Sch. 2 para. 18 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-84277884392c12c81a26c2f8e94234aa]: Commencement: Sch. 2 para. 19 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-6570b5b9fcc5a0610d364ff92af05cf7]: Commencement: Sch. 2 para. 20 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-038d156e7a5f18d6491a22a0ef62425d]: Commencement: Sch. 2 para. 21 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-bef6b75fd9aa26f8dce0ea9b7c1f9a55]: Commencement: Sch. 2 para. 22 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-f12250f6c45845d47e67178800a03fd8]: Commencement: Sch. 2 para. 23 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-aa5e40b55aa3e4757e507db49df65cbe]: Commencement: Sch. 2 para. 24 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-50867d556b8b90ae0e3f157f6c06d6b6]: Commencement: Sch. 2 para. 25 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)
+
+[^key-33c3ced7d02c8208bf1c7382b4664061]: Commencement: Sch. 2 para. 26 in force at 31.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1)

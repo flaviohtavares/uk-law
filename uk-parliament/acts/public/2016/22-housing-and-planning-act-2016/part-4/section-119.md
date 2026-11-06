@@ -1,0 +1,42 @@
+---
+title: Housing and Planning Act 2016, section 119
+act: Housing and Planning Act 2016
+section: '119'
+status: not-yet-in-force
+text_date: '2026-09-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2016/22/section/119
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing and Planning Act 2016, section 119
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 119. Termination of fixed-term secure tenancies without need to forfeit
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The Housing Act 1985 is amended as follows.
+
+(2) In section 82 (security of tenure)—
+
+- (a) before subsection (1) insert—
+
+  > (A1) A fixed-term secure tenancy of a dwelling-house in England that is granted on or after the day on which paragraph 4 of Schedule 7 to the Housing and Planning Act 2016 comes fully into force cannot be brought to an end by the landlord except by—
+  >
+  > - (a) obtaining—
+  >   - (i) an order of the court for the possession of the dwelling-house, and
+  >   - (ii) the execution of the order, or
+  > - (b) obtaining a demotion order under section 82A.
+  >
+  > (A2) A secure tenancy can be brought to an end by the landlord as mentioned in subsection (A1)(a) whether or not the tenancy contains terms for it to be brought to an end.
+- (b) in subsection (1)(b), for “but” substitute “ , other than one to which subsection (A1) applies, that is ”;
+- (c) in subsection (2), after “subsection” insert “ (A1)(a) or ”.
+
+(3) In section 83 (proceedings for possession), in subsection (A1), for “82(1A)” substitute “ 82(A1) or (1A) ”.

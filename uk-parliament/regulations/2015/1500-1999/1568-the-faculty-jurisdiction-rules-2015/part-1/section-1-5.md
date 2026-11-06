@@ -1,0 +1,27 @@
+---
+title: The Faculty Jurisdiction Rules 2015, section 1.5
+act: The Faculty Jurisdiction Rules 2015
+section: '1.5'
+status: revised
+text_date: '2024-01-01'
+extent: E
+source_url: https://www.legislation.gov.uk/uksi/2015/1568/section/1.5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Faculty Jurisdiction Rules 2015, section 1.5
+
+> Text as at 2024-01-01.
+>
+> Extent: England.
+
+## 1.5. Case management powers[^key-d09f1f5931d7fd8d56070f934ed6392f]
+
+*Extent: E*
+
+The court’s case management powers are set out in Part 18.
+
+## Annotations
+
+[^key-d09f1f5931d7fd8d56070f934ed6392f]: Commencement: [Rule 1.5](https://www.legislation.gov.uk/uksi/2015/1568/article/1.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -1,0 +1,64 @@
+---
+title: Economic Crime (Transparency and Enforcement) Act 2022, section 22
+act: Economic Crime (Transparency and Enforcement) Act 2022
+section: '22'
+status: revised
+text_date: '2024-03-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/10/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Economic Crime (Transparency and Enforcement) Act 2022, section 22
+
+> Text as at 2024-03-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 22. Material unavailable for inspection[^key-a4970b337ad67890d8b48a1b6d55b723][^key-d517e076e101cea5e03bce3fcab1f7b8]
+
+*Extent: E+W+S+N.I.*
+
+(1) The following material must not, so far as it forms part of the register, be made available by the registrar for public inspection—
+
+- (a) so much of any application or other document delivered to the registrar under section 4, 7 or 9 or Schedule 6 as is required to contain—
+  - (i) protected date of birth information;
+  - (ii) protected residential address information;
+  - (iii) protected trusts information;
+  - (iv) the name or contact details of an individual provided for the purposes of section 4(1)(d), 7(1)(e) or 9(1)(f), paragraph 6(1)(g) or 7(1)(g) of Schedule 1 or paragraph 2(1)(d) of Schedule 6;
+  - (v) an overseas entity’s email address (see paragraph 2(1)(e) of Schedule 1);
+  - (vi) any title numbers or folio numbers in respect of land (see paragraph 2(1)(h), (i) and (j) of Schedule 1);
+- (b) any information that regulations under section 16 provide is not to be made available for public inspection;
+- (c) any application or other document delivered to the registrar under regulations under section 23(2) (disclosure of protected trusts information);
+- (d) the following—
+  - (i) any application or other document delivered to the registrar under regulations under section 25 (regulations protecting material), other than information provided by virtue of section 25(4);
+  - (ii) any information which regulations under section 25 require not to be made available for public inspection;
+- (e) any application or other document delivered to the registrar under section 28 (administrative removal of material from the register);
+- (f) any court order under section 30 (rectification of the register under court order) that the court has directed under section 31 is not to be made available for public inspection;
+- (g) any statement or other document delivered to the registrar by virtue of section 1067A of the Companies Act 2006 (delivery of documents: identity verification requirements etc);
+- (h) any statement made in accordance with regulations made by virtue of section 1082(2)(c) of the Companies Act 2006 (statement of unique identifier);
+- (i) any document provided to the registrar under section 1092A of the Companies Act 2006 (power to require further information);
+- (j) any email address, identification code or password deriving from a document delivered for the purpose of authorising or facilitating electronic filing procedures or providing information by telephone;
+- (k) any record of the information contained in a document (or part of a document) mentioned in any of the previous paragraphs of this subsection;
+- (l) any other material excluded from public inspection by or under any other enactment.
+
+(2) In this section—
+
+- “**protected date of birth information**” means information as to the day of the month (but not the month or year) on which an individual who is a registrable beneficial owner or managing officer of an overseas entity was born;
+- “**protected residential address information**” means information as to the usual residential address of an individual who is a registrable beneficial owner or managing officer of an overseas entity;
+- “**protected trusts information**” means—
+  - (a) the required information about a trust (see sections 4(3)(a), 7(3)(a) and (4)(a) and 9(3)(a) and (4)(a) and paragraphs 3(2)(a), 4(2)(a) and 5(2)(a) of Schedule 6), or
+  - (b) any information required by virtue of section 7(3)(c) or (4)(c) or 9(3)(c) or (4)(c) or paragraph 4(2)(c) of Schedule 6 (information about beneficiaries).
+
+(3) Information about a registrable beneficial owner or managing officer does not cease to be protected date of birth information or protected residential address information when they cease to be a registrable beneficial owner or managing officer.
+
+(4) Where subsection (1), or a provision referred to in subsection (1), imposes a restriction by reference to material deriving from a particular description of document (or part of a document), that does not affect the availability for public inspection of the same information contained in material derived from another description of document (or part of a document) in relation to which no such restriction applies.
+
+(5) The registrar need not retain material to which subsection (1) applies for longer than appears to the registrar reasonably necessary for the purposes for which the material was delivered to the registrar.
+
+## Annotations
+
+[^key-a4970b337ad67890d8b48a1b6d55b723]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/2022/10/section/22) modified by [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), [reg. 30A(6)](https://www.legislation.gov.uk/uksi/2017/692/regulation/30A/6) (as substituted (1.4.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/4), [9(h)](https://www.legislation.gov.uk/uksi/2022/860/regulation/9/h))
+
+[^key-d517e076e101cea5e03bce3fcab1f7b8]: Textual amendment: [Ss. 22-24](https://www.legislation.gov.uk/ukpga/2022/10/section/22) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 167](https://www.legislation.gov.uk/ukpga/2023/56/section/167), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z52)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z52)

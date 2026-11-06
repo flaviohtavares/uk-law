@@ -1,0 +1,150 @@
+---
+title: The Health and Social Care Act 2012 (Consequential Amendments) Order 2013
+id: uksi/2013/594
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-12'
+text_date: '2015-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/594
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/594/pdfs/uksiem_20130594_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/594/pdfs/uksi_20130594_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/594/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Social Care Act 2012 (Consequential Amendments) Order 2013
+
+> Text as at 2015-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 594
+
+National Health Service, England
+
+The Health and Social Care Act 2012 (Consequential Amendments) Order 2013
+
+Made
+
+12th March 2013
+
+Coming into force
+
+1st April 2013
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 303 of the Health and Social Care Act 2012[^f00001].
+
+A draft of this Order has been laid before and approved by resolution of each House of Parliament in accordance with section 304(5) of that Act.
+
+## 1. Citation, commencement and extent[^key-d81e9c492e3818df8791dd099c37a019]
+
+(1) This Order may be cited as the Health and Social Care Act 2012 (Consequential Amendments) Order 2013.
+
+(2) This Order comes into force on 1st April 2013.
+
+(3) Any amendment made by this Order has the same extent as the provision amended.
+
+## 2. Amendment of the Vehicle Excise and Registration Act 1994[^key-f9f5cba8bf1e485aef620165bff5410a]
+
+In paragraph 7 of Schedule 2 to the Vehicle Excise and Registration Act 1994[^f00002] (vehicles exempt from vehicle excise duty), omit sub-paragraph (d) (together with the “or” following it).
+
+## 3. Amendment of the Education Act 1996[^key-ff4c08a2a32868971f0db40dc8afe517]
+
+In section 403(2) of the Education Act 1996[^f00003] (sex education: manner of provision), for “section 28(6) of the National Health Service Act 2006” substitute “the National Health Service Act 2006 (see section 275(1) of that Act)”.
+
+## 4. Amendments of the Audit Commission Act 1998[^key-764710d14e29b7f95e10a6a2955f0398]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Local Government Act 2000[^key-ab71d156a5c50d30c11ccd2d2c356aba]
+
+In section 9FF(6) of the Local Government Act 2000[^f00011] (reports and recommendations of overview and scrutiny committees: duties of certain partner authorities)—
+
+- (a) after “means—” insert—
+
+  > - (za) a clinical commissioning group,
+  > - (zb) the National Health Service Commissioning Board,
+
+  ,
+- (b) at the end of paragraph (a), insert “or”, and
+- (c) omit paragraph (c) and the “or” immediately preceding it.
+
+## 6. Amendment of the Local Government and Public Involvement in Health Act 2007[^key-9107cd52eddcc77e1e290d8173c69522]
+
+In section 104(2) of the Local Government and Public Involvement in Health Act 2007[^f00012] (application of Chapter: partner authorities)—
+
+- (a) after paragraph (j) insert—
+
+  > - (ja) a clinical commissioning group;
+  > - (jb) the National Health Service Commissioning Board;
+
+  , and
+- (b) omit paragraph (k).
+
+## 7. Amendment of the Welfare Reform Act 2012[^key-3b998989deb6da7c93942dac9b211296]
+
+In section 130(4)(a) of the Welfare Reform Act 2012[^f00013] (information-sharing in relation to provision of overnight care etc), omit “a Primary Care Trust,”.
+
+## 8. Consequential repeals[^key-f4f493447ef6fea6c9c3fd717c447d8f]
+
+In consequence of the amendments made by articles 2 and 3, omit paragraphs 170(b) and 183 of Schedule 1 to the National Health Service (Consequential Provisions) Act 2006[^f00014].
+
+Signed by authority of the Secretary of State for Health.
+
+Anna Soubry
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+12th March 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends seven Acts of Parliament in consequence of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the Act”). The majority of such amendments are made in the Act itself.
+
+The amendments are in consequence in particular of certain aspects of the Act. The amendments at articles 2, 5(b), 6(b) and 7 are in consequence of the abolition of Primary Care Trusts by section 34 of the Act and remove references to these bodies from the amended Acts. The amendment at article 3 is consequential on the fact that the Act moves the definition of “NHS body” in the National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) (“2006 Act”) from section 28 to section 275. The amendments at articles 5(a) and 6(a) are in consequence of the establishment of the National Health Service Commissioning Board by section 1H of the 2006 Act, as inserted by section 9 of the Act, and the establishment of clinical commissioning groups under section 14D of the 2006 Act, as inserted by section 25 of the Act. Articles 5(a) and 6(a) add those new bodies to the list of “partner authorities” in section 104 of the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28) and to the list of partner authorities in section 9FF of the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22) which are health service bodies and therefore exempt from the duty in that section. The amendments made by article 4 make clinical commissioning groups subject to the Audit Commission Act 1998, in particular the provisions relating to health service bodies.
+
+A full impact assessment has not been produced for this instrument as the Order itself has no impact on the private sector or civil society organisations. A full Impact Assessment has been produced in relation to the provisions of the Act and a copy is available at www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsLegislation/DH\_123583.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^key-d81e9c492e3818df8791dd099c37a019]: Commencement: Art. 1 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+
+[^key-f9f5cba8bf1e485aef620165bff5410a]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+
+[^f00002]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22). Paragraph 7(ba) of Schedule 2 is inserted by the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), Schedule 4, paragraph 96; paragraph 7(d) is inserted by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), Schedule 1, paragraph 28, and amended by the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraphs 169, 170. The word “or” following paragraph 7(d) is inserted by the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), Schedule 5, paragraph 39.
+
+[^key-ff4c08a2a32868971f0db40dc8afe517]: Commencement: Art. 3 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+
+[^f00003]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 403(2) is amended by the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraph 102, the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 148(1) and (5), and the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraphs 181 and 183.
+
+[^key-764710d14e29b7f95e10a6a2955f0398]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2013/594/article/4) revoked (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)
+
+[^key-ab71d156a5c50d30c11ccd2d2c356aba]: Commencement: Art. 5 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+
+[^f00011]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Section 9FF is inserted by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), Schedule 2, paragraph 1.
+
+[^key-9107cd52eddcc77e1e290d8173c69522]: Commencement: Art. 6 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+
+[^f00012]: Footnote: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28). Section 104(2) is amended by the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), Schedule 4, paragraph 68, the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), Schedule 6, paragraph 121(1), (3), the Public Bodies Act [2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), Schedule 6 and the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), Schedule 16, paragraphs 366 and 367.
+
+[^key-3b998989deb6da7c93942dac9b211296]: Commencement: Art. 7 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+
+[^f00013]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-f4f493447ef6fea6c9c3fd717c447d8f]: Commencement: Art. 8 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/594/article/1/2)
+
+[^f00014]: Footnote: [2006 c. 43](https://www.legislation.gov.uk/ukpga/2006/43).

@@ -1,0 +1,118 @@
+---
+title: The Social Security Benefit (Persons Residing Together) Regulations 1977
+id: uksi/1977/956
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1977-06-01'
+text_date: '2005-12-05'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1977/956
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1977/956/pdfs/uksi_19770956_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1977/956/pdfs/uksi_19770956_en.pdf
+- http://www.legislation.gov.uk/uksi/1977/956/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security Benefit (Persons Residing Together) Regulations 1977
+
+> Text as at 2005-12-05.
+
+1977 No. 956
+
+SOCIAL SECURITY
+
+The Social Security Benefit (Persons Residing Together) Regulations 1977
+
+Made
+
+1st June 1977
+
+Laid before Parliament
+
+2nd June 1977
+
+Coming into Operation
+
+27th June 1977
+
+The Secretary of State for Social Services, in exercise of the powers conferred upon him by section 22(1) of the Social Security (Miscellaneous Provisions) Act 1977, and of all other powers enabling him in that behalf, hereby makes the following regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Social Security Benefit (Persons Residing Together) Regulations 1977 and shall come into operation on 27th June 1977.
+
+(2) In these regulations “**the Act**” means the Social Security Act 1975 and other expressions have the same meanings as in the Act.
+
+(3) Any reference in these regulations to any provision made by or contained in any enactment or instrument shall be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which may re-enact or replace it, with or without modification.
+
+(4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply in relation to this instrument and in relation to any revocation effected by it as if this instrument, the regulations revoked by it and any regulations revoked by the regulations so revoked were Acts of Parliament, and as if each revocation were a repeal.
+
+## 2. Circumstances in which a person is to be treated as residing or not residing with another person or in which persons are to be treated as residing or not residing together
+
+(1) As respects any requirement of the Act, or contained in any provision made for the purposes thereof, any question as to whether—
+
+- (a) a person is or was residing with another person; or
+- (b) persons are residing together,
+
+shall be determined in accordance with the following provisions of this regulation.
+
+(2) In relation to—
+
+- (a) an increase in respect of an adult dependant under section 44 (short-term benefits: increase for adult dependants)[^key-abf9aeebe286b78c91f1df165443026d], 45 (increase of Category A or Category C retirement pension [^key-9ae3dba22f6a733f78723a9cd8d3f475]...), 49 (increase of severe disablement allowance[^key-02fbe9a2e037d8ffe1e3c4da28c8554e] or invalid care allowance) or 66 (increase [^key-8e18d9df31b93761cccb0f60d225e39f]... of a disablement pension where the beneficiary is entitled to unemployability supplement) or section 86A of the Social Security Contributions and Benefits Act 1992” (incapacity benefit: increases for adult dependants).[^key-35772c816def9096ad71d5a69e294d5f]; or
+- (b) an adjustment of benefit under section 85(1)(b) (hospital in-patients),
+
+two spouses or civil partners[^key-6aa8c48f8104904e38ab9f047e21e02b] shall not be treated as having ceased to reside together by reason only of the fact that either of them is, or they both are, undergoing medical or other treatment as an in-patient in a hospital or similar institution, whether such absence is temporary or not.
+
+(3) In the case of a woman who has been widowed, she shall not be treated as having ceased to reside together with a child or person under the age of 19 by reason of any absence the one from the other which is not likely to be permanent.
+
+(4) Subject to the foregoing provisions of this regulation, two persons shall not be treated as having ceased to reside together by reason of any temporary absence the one from the other.
+
+## 3. Revocations
+
+The regulations specified in column 1 of the Schedule to these regulations are hereby revoked to the extent mentioned in column 3 thereof.
+
+Signed by authority of the Secretary of State for Social Services.
+
+Eric Deakins
+
+Parliamentary Under-Secretary of State
+
+Department of Health and Social Security
+
+## SCHEDULE — REGULATIONS REVOKED
+
+Regulation 3
+
+<table>
+<thead>
+<tr><th>Citation</th><th>Statutory Instrument</th><th>Extent of revocation</th></tr>
+<tr><th>1</th><th>2</th><th>3</th></tr>
+</thead>
+<tbody>
+<tr><td>The Social Security (General Benefit) Regulations 1974</td><td>S.I. 1974/2079 (1974 III, p. 8113)</td><td>Regulation 2</td></tr>
+<tr><td>The Social Security (Hospital In Patients) Regulations 1975</td><td>S.I. 1975/555 (1975 I, p. 1927)</td><td>Regulation 2(3)(d)</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+These Regulations make provision as to the circumstances in which a person is to be treated as residing or not residing with another person and as to the circumstances in which persons are to be treated as residing or not residing together. They also revoke former provisions which were contained in regulations.
+
+## Annotations
+
+[^key-abf9aeebe286b78c91f1df165443026d]: Textual amendment: Words in reg. 2(2)(a) substituted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [16](https://www.legislation.gov.uk/uksi/1996/1345/regulation/16)
+
+[^key-9ae3dba22f6a733f78723a9cd8d3f475]: Textual amendment: Words in reg. 2(2)(a) omitted (13.4.1995) by virtue of [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/10/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-02fbe9a2e037d8ffe1e3c4da28c8554e]: Textual amendment: Words in reg. 2(2)(a) substituted (29.11.1984) by [The Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303)](https://www.legislation.gov.uk/uksi/1984/1303), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1303/regulation/1), [11](https://www.legislation.gov.uk/uksi/1984/1303/regulation/11), [Sch. 2](https://www.legislation.gov.uk/uksi/1984/1303/schedule/2)
+
+[^key-8e18d9df31b93761cccb0f60d225e39f]: Textual amendment: Words in reg. 2(2)(a) omitted (6.4.1983) by virtue of [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1983/186/regulation/8)
+
+[^key-35772c816def9096ad71d5a69e294d5f]: Textual amendment: Words in reg. 2(2)(a) inserted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/1995/829/regulation/10/b) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-6aa8c48f8104904e38ab9f047e21e02b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1977/956/regulation/2/2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))

@@ -1,0 +1,2422 @@
+---
+title: The Child Trust Funds Regulations 2004
+id: uksi/2004/1450
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-05-27'
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/1450
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1450/pdfs/uksiem_20041450_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1450/pdfs/uksi_20041450_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1450/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Trust Funds Regulations 2004
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 1450
+
+CHILD TRUST FUNDS
+
+The Child Trust Funds Regulations 2004
+
+Made
+
+27th May 2004
+
+Laid before Parliament
+
+27th May 2004
+
+Coming into force in accordance with regulation 1
+
+The Treasury, in exercise of the powers conferred upon them by sections 3(1) to (5) and (7), 5(1), (4) and (5), 6, 7, 8(1), 9(2) and (10)(b), 11(1), 12(2), 13, 15, 16, 23(1) and 28(1) to (4) of the Child Trust Funds Act 2004 [^c5242131], hereby make the following Regulations:
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Child Trust Funds Regulations 2004 and shall come into force for the purposes of—
+
+- (a) issuing vouchers (see regulation 3),
+- (b) completing account-opening formalities (see regulation 5),
+- (c) applications under regulation 13 to open an account with effect from the appointed day,
+- (d) applications under regulation 14 to be approved as an account provider to manage accounts from the appointed day,
+- (e) regulation 17, so far as it relates to applications referred to in paragraph (d),[^key-5002f4141176e59a6d970f46501b521e]...
+- (f)[^key-5002f4141176e59a6d970f46501b521e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+on 1st January 2005, and for all other purposes on the appointed day.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- (a) the following expressions have the meanings given in the Child Trust Funds Act 2004 (“**the Act**”)—
+  - “child”
+  - “child trust fund”
+  - “eligible child”
+  - “the income threshold” (see section 9(6) of the Act)[^key-72ddbd7b7c1d1489e5c2eecf5ff87dc9]
+  - “Inland Revenue”
+  - “Inland Revenue contributions” (see section 11(2) of the Act),
+  - “parental responsibility” (see section 3(9) of the Act);
+  - “the relevant income” (see section 9(6) of the Act)
+  - “relevant person” (see section 15(2) of the Act),
+  - “relevant social security benefit” (see section 9(6) of the Act)
+  - “**responsible person**” [^key-3c3fa11dc4c6e8acdf5abf1d902bc9cc]... (see section 3(8) of the Act),
+  - “tax year” (see section 9(6) of the Act)
+  - “the person entitled to child benefit in respect of the child” (see section 2(1)(a), (4) and (6) of the Act);
+- (b) except where the context otherwise requires—
+  - “**account**” means a scheme of investment which (except in regulation 22(1)) qualifies as a child trust fund, other than in the cases of—
+    - (i) an account with a deposit-taker,
+    - (ii) a share or deposit account with a building society, or
+    - (iii) a deposit account with a person falling within section 991(2) of the Income Tax Act 2007[^key-9bcc8fa7614423f86f6dcf1c3c57ec72], or a credit union[^key-227dff848242c965d3b44f53d09d2670];
+  - an “account investment” is an investment under the account which is a qualifying investment for an account within the meaning of regulation 12;
+  - an “account provider” is a person who fulfils the conditions of these Regulations and is approved by the Board for the purpose of these Regulations as an account provider;
+  - “adoption order” has the meaning in section 46(1) of the Adoption and Children Act 2002 or section 28 of the Adoption and Children (Scotland) Act 2007 or of “Adoption Order” in Article 2(2) of the Adoption (Northern Ireland) Order 1987, as the case may be, and includes any corresponding order under the Adoption (Scotland) Act 1978, and any order of a court in the Isle of Man or any of the Channel Islands which, under section 108 of the Adoption and Children Act 2002, is declared to correspond to an adoption order made under that Act;[^key-b8000e84d93a91150e0d4bd4039085e5]
+  - “**appointed day**” means the day appointed, under section 27 of the Act, for the purposes of sections 8 and 9 of the Act;
+  - “**assurance undertaking**” means a direct life insurance undertaking within the meaning of Article 2 of Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II)[^key-b9b8793af64432a601c19a6203303b86];
+  - “Bank of England base rate” means the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short-term liquidity in the money markets;[^key-c71cebaf4f70783ae955c8bc197535e7]
+  - “the Board” means the Commissioners for Her Majesty’s Revenue and Customs;[^key-18900b5104d11eb3b415b183c8a858d8]
+  - “**building society**” means a building society within the meaning of the Building Societies Act 1986 [^c5242161], or the Irish Building Societies Act 1989 [^c5242171];
+  - “building society bonus”, except in regulation 24(a)(i), excludes any bonus, distribution of funds or the conferring of rights in relation to shares—[^key-547aa87072cc2f2ca5de792a9d180fd4]
+    - (a) in connection with an amalgamation, transfer of engagements or transfer of business of a building society, and
+    - (b) mentioned in section 96 or 100 of the Building Societies Act 1986,
+
+    and “payment under a building society bonus scheme” shall be construed accordingly;
+  - “company”, except in regulation 12(4)(a), means any body corporate having a share capital other than—
+    - (i) an open-ended investment company, within the meaning given by section 236 of the Financial Services and Markets Act 2000[^c5242181], or[^key-d392daea0cda676b8091786904bc5b87]
+    - (ii) a UCITS ;[^key-3f5aa187fb25c0d9c0bae98d7f77dccf]
+    - (iii) [^key-edada5fff18e9bb73affd4437a0f120a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (iv) [^key-edada5fff18e9bb73affd4437a0f120a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “credit union” means a society registered as a credit union under the Industrial and Provident Societies Act 1965 or the Credit Unions (Northern Ireland) Order 1985;[^key-372f8b2dfd74dbdc3b0459663f7cd341]
+  - “**deposit-taker**” has the meaning given by section 853 (as extended under section 854) of ITA 2007[^key-bbb85b8cf997ec83e08a9ccf5f32659d];
+  - “**the Director of Savings**” has the same meaning as in the National Debt Act 1972 [^c5242191];
+  - “**the Distance Marketing Directive**” means Directive [2002/65/EC](https://www.legislation.gov.uk/eudr/2002/65) of the European Parliament and of the Council of 23rd September 2002 [^c5242201], and includes any provisions by which an EEA State or the United Kingdom has transposed the Directive or has corresponding obligations in its domestic law, and “**distance contract**” has the meaning in that Directive;
+  - “**electronic communications**” includes any communications by means of a telecommunication system (within the meaning in the Telecommunications Act 1984 [^c5242211]);
+  - [^key-5f8a887fe4fe82d05885c3223a92e2d6]...
+  - [^key-5f8a887fe4fe82d05885c3223a92e2d6]...
+  - “European institution” means—[^key-2cbd1a44c638668d42f48805b2989304]
+    - (a) a person who is treated as having permission to carry on a regulated activity in the United Kingdom under Part 4A of the Financial Services and Markets Act 2000 by regulation 8, 11, 28 or 34 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018; or
+    - (b) an EEA firm (within the meaning of Article 2(3G) of the Financial Services and Markets Act 2000 (Gibraltar) Order 2001 of the kind mentioned in paragraph 5(a) to (d), (f) and (h) of Schedule 3 to the Financial Services and Markets Act 2000 which is an authorised person for the purposes of that Act as a result of qualifying for authorisation under paragraph 12(1) to (4) and (7) of that Schedule.
+  - “51 per cent. subsidiary” and “75 per cent. subsidiary” have the meanings given by section 838 of the Taxes Act;
+  - “FISMA 2000” means the Financial Services and Markets Act 2000;
+  - “gains”, except in regulations 22(1) to (3), 24(a)(ii), (iii) and (v), 37(5) and 38, means “chargeable gains” within the meaning in the 1992 Act;
+  - “**gilt-edged securities**” has the meaning given by paragraphs 1 and 1A of Schedule 9 to the 1992 Act [^c5242231];
+  - “guardian” means a guardian of a child within the meaning in section 5 of the Children Act 1989, section 7 of the Children (Scotland) Act 1995 or Article 2(2) of the Children (Northern Ireland) Order 1995, as the case may be;
+  - “**incorporated friendly society**” means a society incorporated under the Friendly Societies Act 1992 [^c5242241];
+  - [^key-80c50bd5f96c18aa982fc5b5c7976ad7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “**investments under the account**” has the same meaning as investments under a child trust fund in the Act;
+  - “investment trust” means an investment trust within the meaning of section 1158 of the Corporation Tax Act 2010;[^key-b7aa90c8869ad9864a5dbc785a1d9a9e]
+  - “ITA 2007” means the Income Tax Act 2007;
+  - “ITTOIA 2005” means the Income Tax (Trading and Other Income) Act 2005;
+  - “**the Management Act**” means the Taxes Management Act 1970 [^c5242261];
+  - “**market value**” shall be construed in accordance with section 272 of the 1992 Act;
+  - “matured CTF account” has the meaning given by regulation 13B(2)(a);[^key-ca6d9b3652d664063e632cd18eeb10e7]
+  - “**the 1992 Act**” means the Taxation of Chargeable Gains Act 1992;
+  - [^key-e26852333afd8a027ce49a676e98b9a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “non-UCITS retail scheme”—[^key-caa55c43e4a55804ed3b264344073a45]
+    - (a) has the meaning in COLL (that is, a scheme to which, or to whose authorised fund manager and depositary, sections 5.1, 5.4 and 5.6 of COLL apply),
+    - (b) includes a “recognised scheme” by virtue of section 271A or[^key-cc46ead79f18a4963b16949409d49418] [^key-d73cf3abbc601bc9cc2e3e94985317ee]... 272 of FISMA 2000, which would fall within paragraph (a) of this definition if it were an authorised fund, and
+    - (c) includes a sub-fund of an umbrella which the terms of the scheme identify as a sub-fund which would fall within paragraph (a) or (b) of this definition if it were itself an authorised fund or a recognised scheme.
+
+    In this definition, expressions defined in the Glossary of the Financial Conduct Authority Handbook have those defined meanings;
+  - “notice”, except in regulations 12(12) and 37(6)(a), means notice in writing;
+  - “qualifying units in or shares of a non-UCITS retail scheme” means that—[^key-e4a18ff65dea69c99bc756ffdc1632e6]
+    - (a) the instrument constituting the scheme secures that redemption of the units or shares in question shall take place no less frequently than bi-monthly (see section[^key-8993248421fab31dc5791fc397b2614f] 6.2.16(6) of the [^key-b4ff71268d78982ca858eb86c9dbeaa2]... COLL[^key-25e11fe178689041b87a1c73019fef2d] omitting the words “Except where (7) applies, and”, read with section 6.3.4(1), whether or not those sections apply to the scheme), and
+    - (b) a provision for suspension of dealings in exceptional conditions in accordance with section 7.2 of the COLL[^key-6d279ae435419df1bf018f6c69fee312] (or any foreign procedure which is a direct foreign equivalent of that section) shall not be treated as a provision contrary to paragraph (a) of this definition;
+  - “**recognised stock exchange**” has the same meaning as in section 1005 of ITA 2007[^key-999d4daee4121e81169b33a22537f5e3];
+  - “registered contact” means the person who has the authority to manage the child trust fund by virtue of section 3(6) of the Act;[^key-c7a825378e27ce25f6a4b96924fbd981]
+  - “**registered friendly society**” has the meaning given by the Friendly Societies Act 1992 and includes any society that by virtue of section 96(2) of that Act is to be treated as a registered friendly society;
+  - [^key-089a32e94c29bd6e8a29fd6a46a9f716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “relevant authorised person” means a firm mentioned in section 697(2)(b) of ITTOIA 2005[^key-5caef43873b29c0389419faa91e3d526];
+  - [^key-e26852333afd8a027ce49a676e98b9a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “**security**” means any loan stock or similar security of a company whether secured or unsecured;
+  - “special guardian” has the meaning in section 14A of the Children Act 1989;
+  - “**subscriptions**” has the meaning in section 12(1) of the Act (but excluding Inland Revenue contributions and income or gains arising from investments under the account);
+  - “tax” where neither income tax nor capital gains tax is specified means either of those taxes;
+  - “**the Taxes Act**” means the Income and Corporation Taxes Act 1988;
+  - “**year**” except in the expression “subscription year” in regulations 9, 21(5)(b) and 32(2)(b)(iv), means a year of assessment (within the meaning in section 832(1) of the Taxes Act, or section 288(1) of the 1992 Act, as the case may be);
+- (c)
+  - “**authorised fund**” means—
+    - (i) an authorised unit trust, or
+    - (ii) an open-ended investment company [^key-1bbfa21738ae69df0ec743c5b6ddc47f]... in the case of which an authorisation order made [^key-0190b441908b83ef437895da8bbf4050]... under regulation 14 of the Open-Ended Investment Companies Regulations 2001 [^c5242271] is in force;
+  - “**authorised unit trust**” means a unit trust scheme in the case of which an authorisation order [^key-102d37ce72340b9b2669adc3ed662e3b]... under section 243 of the Financial Services and Markets Act 2000 is in force;
+  - “COLL” means the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority under FISMA 2000;[^key-a9210f95d75a4cd59393cfb56c97f3b7]
+  - “**depositary interest**” means the rights of the person mentioned in paragraph (ii), under a certificate or other record (whether or not in the form of a document) acknowledging—
+    - (i) that a person holds relevant investments or evidence of the right to them, and
+    - (ii) that another person is entitled to rights in or in relation to those or identical relevant investments, including the right to receive such investments, or evidence of the right to them or the proceeds from such investments, from the person mentioned in paragraph (i),
+
+    where “**relevant investments**” means investments which are exclusively qualifying investments for an account falling within regulation 12(2)(a) to (i), and the rights mentioned in paragraph (ii) are exclusively rights in or in relation to relevant investments;
+  - [^key-ab185d07cba84585dd3a16e840e5c10d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “insolvency event” means the procedures listed in the definition of “insolvency event” in[^key-c4cce8240e0ccfa891fe4e4cec0def2f] regulation 23(18) of the Payment Services Regulations 2017[^key-a838c018f00530424a350030ac089a27];
+  - [^key-ab185d07cba84585dd3a16e840e5c10d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “open-ended investment company” means a company to which section 236 of FISMA 2000 applies[^key-ecd5cdf338f744ce1fe9aa15c424317f], and “**shares**” in relation to an open-ended investment company, includes shares of any class and of any denomination of a given class and, in relation to a part of an umbrella company, means shares in the company which confer for the time being rights in that part;
+  - “recognised UCITS” means—[^key-0ef60659b30f6e2ef07e35fa018d9990]
+    - (a) [^key-8dfe3c2e0057d0b8e1e0f2775653ccf3]...
+    - (b) an undertaking established in Gibraltar which is a UCITS under the law of Gibraltar which implemented Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities ; or[^key-856c32f7848333c291996fa47a89690a]
+    - (c) recognised scheme by virtue of section 271A or 272 of FISMA 2000 that is a UCITS within the meaning given by section 236A of that Act;[^key-b926849bad1965fa745e37791fff9016]
+  - “[^key-3913bc25f5a35d73f1aed65c169d7f51]**UK cryptoasset exchange traded note**” means a debt security—
+    - (a) which is traded on a trading venue or a market operated by a United Kingdom recognised investment exchange,
+    - (b) which features no periodic coupon payments, and
+    - (c) whose return tracks the performance of an unregulated transferable cryptoasset, minus applicable fees, whether featuring delta 1, inverse or leveraged exposure or other exposure to the unregulated transferable cryptoasset being tracked.
+
+    In this definition, the expressions “debt security”, “trading venue”, “recognised investment exchange” and “unregulated transferable cryptoasset” have the meanings given in the Glossary of the Financial Conduct Authority Handbook as in effect on 8th October 2025;
+  - [^key-ab185d07cba84585dd3a16e840e5c10d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - [^key-ab185d07cba84585dd3a16e840e5c10d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - [^key-08ba42c7fc0f12bd55ee32f26e29d548]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “UK UCITS” means—
+    - (a) a collective investment scheme with Part 4A permission under FISMA 2000[^key-409884472bd7302e9d4567048852b81a], which complies with the requirements to be a “UCITS scheme” for the purposes of the COLL[^key-aa3f736ee8dd6c3ecbe08cfe387b720b], or
+    - (b) a part of a UK UCITS mentioned in paragraph (a) of this definition which would be a sub-fund of an umbrella scheme which is a UK UCITS;
+  - “**umbrella scheme**” means an authorised fund which according to the terms of the scheme is an umbrella scheme belonging to the category under that name established by the Financial Conduct Authority[^key-6ba9da3b17576d4a783bf92af12b7b15], and
+    - (i) in the case of an authorised fund which is an authorised unit trust, references to a part of an umbrella scheme shall be construed in accordance with subsection (8) of section 468 of the Taxes Act, and paragraphs (6) and (7) of regulation 7 of the Authorised Investment Funds (Tax) Regulations 2006 shall apply for the purposes of these Regulations as they apply for the purposes of those Regulations[^key-14b6e6ec48df31f2a79c91c637dcd0f5]; and
+    - (ii) in the case of an authorised fund which is an open-ended investment company, references to a part of an umbrella scheme shall be construed in accordance with subsection (4) of section 468A of the Taxes Act, and paragraphs (2) and (3) of regulation 7 of the Authorised Investment Funds (Tax) Regulations 2006 shall apply for the purposes of these Regulations as they apply for the purposes of those Regulations[^key-80ba3cd1a7a0a30ab8b5311f834d0541];
+  - [^key-08ba42c7fc0f12bd55ee32f26e29d548]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - [^key-08ba42c7fc0f12bd55ee32f26e29d548]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - “**units**”, in relation to an authorised unit trust, means the rights or interests (however described) of the unit holders in that unit trust and, in relation to a part of an umbrella scheme, means the rights or interests for the time being of the unit holders in that part;
+  - “units in, or shares of, a UK UCITS or recognised UCITS” means the rights (however described) of the holders of the units or shares in that UK UCITS or recognised UCITS;
+  - [^key-ab185d07cba84585dd3a16e840e5c10d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-c690a0a06f19dc0768079ce104e87b63] In these Regulations—
+
+- (a) a “bulk transfer of accounts” occurs where two or more accounts are transferred, without a break in the management of the accounts, by an account provider (“the transferor”) direct to another account provider (“the transferee”)—
+  - (i) pursuant to an agreement made between the transferor and the transferee where the transfers are not made pursuant to requests made by the person who is the registered contact in relation to the accounts transferred; or
+  - (ii) pursuant to an insurance business transfer scheme or a banking business transfer scheme under Part 7 (Control of Business Transfers) of FISMA 2000;
+- (b)[^key-eb6d7a6e1aeb7293521f21e13e80e75b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-eb6d7a6e1aeb7293521f21e13e80e75b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The table below indexes other definitions in these Regulations—
+
+| *Term defined* | *Regulation* |
+| --- | --- |
+| “the applicant” | 5 |
+| “the commencement date” | 7(8) |
+| “description” of an account | 4 |
+| “the disqualifying circumstances” | 16 |
+| [^key-6ee685c7139ede764832ef20cf858718]. . . | [^key-6ee685c7139ede764832ef20cf858718]. . . |
+| [^key-6ee685c7139ede764832ef20cf858718]. . . | [^key-6ee685c7139ede764832ef20cf858718]. . . |
+| “initial contribution” | 7(1) |
+| “interim tax claim” | 26(2) |
+| “local authority” | 33A(6)[^key-f551f166377ca6623fe4c5a83b171fc1] |
+| “looked after child” | 33A(6) |
+| “management agreement” | 5 |
+| “the named child” | 5 and 8(1) |
+| “qualifying circumstances” | 14 |
+| “qualifying investments for an account” | 12 |
+| [^key-9de5645075d92a5b6982a319f83164f8]. . . | [^key-9de5645075d92a5b6982a319f83164f8]. . . |
+| [^key-6ee685c7139ede764832ef20cf858718]. . . | [^key-6ee685c7139ede764832ef20cf858718]. . . |
+| “special contribution” | 7(1) |
+| “subscription year” | 9(2) |
+| “supplementary contribution” | 7(5) |
+| “the termination event” | 12(12) |
+| “the transfer instructions” | 8(2)(h) |
+| “the internal transfer instructions” | 8(2)(i) |
+
+### 3. Vouchers
+
+(1) The voucher to be issued under section 5(1) of the Act shall contain the following particulars—
+
+- (a) the full name of the child,
+- (b) his date of birth,
+- (c) his unique reference number,
+- (d) the short expiry date[^key-0ebcd99b2a333f1cf42a666ea4935d01] of the voucher, and
+- (e) the amount of the initial contribution (see regulation 7(1)),
+
+and a statement that the voucher cannot be exchanged for money.
+
+(2) The voucher shall be sent to the person who is entitled to child benefit in respect of the child (or, in the case of a child who is an eligible child because of section 2(3) of the Act, to a responsible person in relation to the child) by post.
+
+(3) The expiry date [^key-a879c31954f790e15e928e156bbb031d]... shall be whichever is the earlier of—
+
+- (a) the date 12 months from the date of issue of the voucher, or
+- (b) where the child is over 17 years of age, the date on which he will attain the age of 18 years.
+
+(4)[^key-2a818f32172706aa31988734ea23aad6] But for references in these Regulations to the short expiry date of the voucher paragraph (3) applies with “60 days” instead of “12 months”.
+
+### 4. Descriptions of accounts
+
+(1) An account may be of either of the following descriptions—
+
+*Stakeholder account*
+
+Where the account meets the characteristics and conditions in the Schedule to these Regulations.
+
+*Non-stakeholder account*
+
+Where any of those characteristics or conditions is not met.
+
+(2) Accounts opened by the Inland Revenue (see regulation 6) must be stakeholder accounts.
+
+### 5. Opening of account by responsible person or the child
+
+(1) For the purposes of these Regulations, subject to paragraphs (1A) and (2)[^key-9f71aaedecb1b24aec5fdc30c45c6474], an account is opened for a child (“the named child”) with an account provider on the date the last of the following conditions is satisfied (in any order) where “**the applicant**” means—
+
+- (a) if the named child is 16 or over, the child; and
+- (b) in any other case, a responsible person in relation to the named child:
+
+*Condition 1*
+
+The applicant gives the voucher relating to the named child to the account provider not later than 7 days after its[^key-288f0f30b966fdb829a4b7c401844ddf] short expiry date[^key-05e36441a04fcede42bf303d696a39ef] or, where the account provider has chosen to open accounts without sight of the relevant voucher, the applicant gives the following information to the account provider:[^key-ae17c07189a25fb23ed55f2932e9ab05]
+
+- (a) the short expiry date of the voucher,
+- (b) the amount of the initial contribution as specified on the voucher, and
+- (c) where the date of birth shown on the voucher differs from the actual date of birth of the child (see regulation 13(5)(c)), the date of birth shown on the voucher.
+
+*Condition 2*
+
+The applicant enters into an agreement with the account provider (the “management agreement”) for the management of the account (see regulation 8(1) and (2)), which includes the application and declaration required by regulation 13.
+
+*Condition 3*
+
+Where that application is not in writing the applicant has agreed, or is treated as having agreed, the contents of the copy of the declaration required by regulation 13(3).
+
+*Condition 4*
+
+- (a) In any case where the management agreement is a distance contract, the agreement must be an initial service agreement for the purposes of the Distance Marketing Directive [^c5242301], and contain the instructions required by regulation 8(1)(f), and
+- (b) in every case where there is any right to cancel (or automatic cancellation of) the management agreement, the period during which it may be exercised or occur has expired without that right being exercised or cancellation occurring.
+
+(1A)[^key-f740f36efa2fa68be95989a7d8105dd8] The application to open the account must be made, and Condition 2 satisfied, not later than the short expiry date[^key-a8ca08005df2cbd47d611db323bfdf74] of the voucher.
+
+(2) An account must satisfy the requirements that—
+
+- (a) no subscription to the account is accepted by the account provider until the account has been opened in accordance with paragraph (1); and
+- (b) where the account is so opened before the appointed day, it shall not be treated as open for the purpose of accepting subscriptions until the appointed day.
+
+### 6. Opening of account by Inland Revenue—(Revenue allocated accounts)
+
+(1) The Board shall apply to open an account for a child to whom section 6 of the Act applies, by forwarding to an account provider the particulars which would be required for a voucher (see regulation 3), but omitting paragraph (1)(d) of that regulation.
+
+(2) The account provider shall immediately open a stakeholder account in the name of the child, which shall have the same effect as if a responsible person for the child (or the child if aged 16 or over) had entered into the account provider’s standard management agreement for the stakeholder account in question, including the terms mentioned in Condition 2 of regulation 5(1) (but treating the reference to the application and declaration required by regulation 13 as a reference to the authorisation required by regulation 13(4)) and regulation 8(1)(f).
+
+(3) The Inland Revenue shall maintain (and update from time to time) a list of account providers who have agreed to accept Revenue allocated accounts under this regulation, in the order of the date of their agreement, and the account provider shall be selected in rotation from the current list.
+
+(4) Where the account provider offers two or more types of stakeholder account
+
+- (a)[^key-ebab61c1bcb3e3be926c0007cd702655] the account provider shall select the type or types to be used for the purposes of this regulation (subject to sub-paragraph (b)),
+- (b) any type selected must be offered to the general public at the time of opening a Revenue allocated account of that type, and
+- (c) if more than one type has been selected, the account to be opened shall be chosen by the account provider in rotation between the selected types of accounts.
+
+(5)[^key-299765d88e107cce619432813355eacc] The Inland Revenue shall write to the person who is entitled to child benefit in respect of the child (or, in the case of a child who is an eligible child because of section 2(3) of the Act, to a responsible person in relation to the child) to inform them of the opening of the account and particulars of it.
+
+### 7. Government contributions
+
+(1) The amounts of the contribution for the purposes of section 8(1) of the Act are set out in paragraphs (2) to (4B)[^key-27cfc9908c4a2ec551b5b2b300e0429c], (the amounts set out in paragraphs (2), (4)(a) and (4A)[^key-a9a89fbc784c0069c8c401f7bb0cd524] to be known as the “initial contribution”, and the amounts set out in paragraphs (3), (4)(b) and (4B)[^key-30b367bfcad72002a6ed07ef7f045a88] as the “special contribution”).
+
+(2) Where the child is an eligible child on the appointed day by virtue of section 2(1)(a) of the Act (by reason of a child benefit award), and—
+
+- (i) was born after 31st August 2002 but before 6th April 2003, the amount is £277,
+- (ii) was born between 6th April 2003 and 5th April 2004, the amount is £268, and
+- (iii) was born between 6th April 2004 and the day preceding the appointed day, the amount is £256.
+
+(3) Where the child is an eligible child on the appointed day by virtue of section 2(1)(b) of the Act (by reason of being a child in the care of a local authority at that date) and—
+
+- (i) was born after 31st August 2002 but before 6th April 2003, the amount is £554,
+- (ii) was born between 6th April 2003 and 5th April 2004, the amount is £536, and
+- (iii) was born between 6th April 2004 and the day preceding the appointed day, the amount is £512.
+
+(4) Subject to paragraphs (4A) and (4B), where[^key-472c709691885e4588fb0d2cbf54fae7] the child becomes an eligible child[^key-9d28056aabd55778ef2cdf50dc4dc7bc] on or after the appointed day and—
+
+- (a) is first an eligible child by virtue of section 2(1)(a) of the Act, the amount is £250, and
+- (b) is first an eligible child by virtue of section 2(1)(b) of the Act, the amount is £500.
+
+(4A)[^key-cfe83a4cee60530beff4fd3d3da7c7f8] Where a child—
+
+- (a) is first an eligible child by virtue of section 2(1)(a) of the Act, and
+- (b) the commencement date for the child (see paragraph (8)) is after the relevant 2010 date (see paragraph (10E)),
+
+the amount is £50.
+
+(4B) Where a child—
+
+- (a) is first an eligible child by virtue of section 2(1)(b) of the Act, and
+- (b) either—
+  - (i) is born on or after the relevant 2010 date, or
+  - (ii) is first in the United Kingdom (other than temporarily) on or after the relevant 2010 date, or
+  - (iii) becomes an eligible child on or after 3 months (less one day) after the relevant 2010 date,
+
+the amount is £100.
+
+(5) The amounts of the supplementary contribution for the purposes of section 9(2) of the Act (to be known as the “**supplementary contribution**”) are set out in paragraphs (6) and (7).
+
+(6) Where the child is an eligible child on the appointed day (and is a child to whom section 9 of the Act applies), the amount—
+
+- (a) if the commencement date was after 31st August 2002 but before 6th April 2003, is £266,
+- (b) if the commencement date was between 6th April 2003 and 5th April 2004, is £258,
+- (c) if the commencement date was between 6th April 2004 and the appointed day, is £250.
+
+(7) Subject to paragraph (7A), where[^key-0b64875c079170a5b3aa2dc1bdf08581] the child becomes an eligible child after the appointed day (and is a child to whom section 9 of the Act applies), the amount is £250.
+
+(7A)[^key-88af1618eca348dc3c153787cd9f41cd] Where the child is one to whom section 9 of the Act applies, and the commencement date for the child is after the relevant 2010 date, the amount is £50.
+
+(8) The “**commencement date**”, in relation to a child, means the first day for which child benefit was paid (under a decision mentioned in section 2(6) of the Act) in respect of the child, except that—
+
+- (a) where entitlement to child benefit is wholly excluded by a directly applicable Community provision, it means the date on which that exclusion took effect, [^key-8b51841ccef8b4f18c0f6fa1e046ca0f]...
+- (b)[^key-8b51841ccef8b4f18c0f6fa1e046ca0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-552dc751c290ff5bd49ab1d78dcf5d0c] The Inland Revenue shall, following final determination of entitlement to child tax credit, write to the person who is entitled to child benefit in respect of the child (or, in the case of a child who is an eligible child because of section 2(3) of the Act, to a responsible person in relation to the child) to inform them that the supplementary contribution is being paid into the child’s account.
+
+(10)[^key-0c5c1c153dfcc713ea847318fd1903d8] A further contribution under section 10 of the Act of £50[^key-a9b75b8dd9f48abe03b7514fac096ff6] is due for any child where—
+
+- (a) the commencement date (for child benefit: see paragraph (8)) in relation to that child is after 5th April 2005, and
+- (b) income support or income-based jobseeker’s allowance was paid for that commencement date to a person whose applicable amount included an amount in respect of the child.
+
+(10A)[^key-679dc6dc888ff07a7d12e0ccbf1a9a5f] A further contribution under section 10 of the Act of £50[^key-18c02e2f53244808bba4ba0b03fdeb74] is due for any child if—
+
+- (a) an account is held by the child,
+- (b) the child was first an eligible child by virtue of section 2(1)(a) of the Act,
+- (c) section 9 of the Act does not apply to the child,
+- (d) a contribution is not, and has not been, due for the child under paragraph (10),
+- (e) the child is an eligible child on the day identified under the provisions of paragraph (10B) or (10C) as the case may be, and
+- (f) the condition in paragraph (10B) or (10C) is satisfied in relation to the child.
+
+(10B) The condition in this paragraph is that it has been determined in accordance with the provision made by and by virtue of sections 18 to 21 of the Tax Credits Act 2002—
+
+- (a) that a person was, or persons were, entitled to child tax credit in respect of the child for any day falling—
+  - (i) after the commencement date, but
+  - (ii) not later than three months immediately preceding the expiry date of the voucher for the child (see regulation 3), and
+- (b) that either the relevant income of the person or persons for the tax year in which that day fell does not exceed the income threshold or the person, or either of those persons, was entitled to a relevant social security benefit for that day,
+
+and that determination has not been overturned.
+
+(10C) The condition in this paragraph is that income support, or income-based jobseeker’s allowance, was paid for any day falling—
+
+- (a) after the commencement date, but
+- (b) not later than one month immediately preceding the expiry date of the voucher for the child (see regulation 3),
+
+to a person whose applicable amount included an amount in respect of the child.
+
+(10D)[^key-694a7c37dff5b36bcb060821b3e66039] Her Majesty’s Revenue and Customs must inform the account provider holding the child’s account where an amount is payable to the account under paragraph (10) or (10A).
+
+(10E) In this regulation, “the relevant 2010 date” means—
+
+- (a) 2<sup>nd</sup> August 2010; or
+- (b) if later, the day on which regulation 3 of the Child Trust Funds (Amendment No. 3) Regulations 2010 came into force.
+
+(11) On receipt of the further contribution mentioned in paragraph (10) or (10A)[^key-3cd7fa9d1ac2488bdec21e7f8366c898] from the Inland Revenue the account provider must credit the account held by the child with the amount of the payment.
+
+### 7A. Age 7 payments[^key-226bd94e00c8d881ec40a71b6b280264]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7B. Yearly disability payments[^key-2758dae3d2715da07f18408da44a1a59]
+
+(1) A further contribution under section 10 of the Act is due for any eligible child who is entitled in the year 2009/10 or 2010/11[^key-9e4107ddb3f9a1c77039f3bd616f4b83] to a disability living allowance, in accordance with paragraphs (2) to (4).
+
+(2) Where it has been determined that the child is entitled to the care component of a disability living allowance at the highest weekly rate (see section 72(4)(a) of either the Social Security Contributions and Benefits Act 1992 or the Social Security Contributions and Benefits (Northern Ireland) Act 1992), at any time in the year (whether it is paid or not), the contribution payable for the year shall be £200.
+
+(3) In any other case where it has been determined that the child is entitled to a disability living allowance at any time in the year (whether it is paid or not), the contribution payable for the year shall be £100.
+
+(4)[^key-062a648418cc56cd92f06e9674b5095b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Her Majesty’s Revenue and Customs must inform the account provider holding the child’s account where an amount is payable to that account under this regulation.
+
+(6) On receipt of each further contribution from Her Majesty’s Revenue and Customs, the account provider must credit the child’s account with the amount of the payment.
+
+## PART 2 — Other requirements to be satisfied in relation to accounts
+
+### 8. General requirements for accounts
+
+—An account must satisfy the requirements that—
+
+- (a) it is the account for a single child (“the named child”);
+- (b) the named child is or has been an eligible child;
+- (c) no child may hold more than one account;
+- (d)[^key-a87b8567d341e45e350dd07a75661557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the account must at all times be managed in accordance with these Regulations by an account provider and, subject to regulation 6(2), under terms agreed and recorded in a management agreement made between the account provider and the registered contact (on behalf of the named child where appropriate); and
+- (f) the management agreement must include instructions to the provider as to the manner in which Inland Revenue contributions and any subscriptions made are to be invested under the account.
+
+(2) Apart from other requirements of these Regulations the terms so agreed shall include the conditions that—
+
+- (a) the account investments shall be in the beneficial ownership of the named child;
+- (aa)[^key-916facafe4884368350da4df52974ca5] where the account investments are fractional interests—
+  - (i) the requirement under sub-paragraph (a) applies in relation to the beneficial ownership of the whole share in which the named child holds a fractional interest, and
+  - (ii) the beneficial interest held by the named child shall be in proportion to the fractional interest in the whole share;
+- (b) the title to all account investments, except in relation to a fractional interest and[^key-c4e1c4a2f4c162cf3842d6081ca37884] those falling within regulation 12(2)(k), (l) or (m), shall be vested in the account provider or his nominee, subject to sub-paragraph (f);
+- (ba)[^key-85944dc6628269913bf38fcd10880432] investments in fractional interests are treated as meeting the requirements of sub-paragraph (b) if (and only if) the title to the whole share in which the named child holds a fractional interest meets the requirements of that sub-paragraph;
+- (c) where a share certificate or other document evidencing title to an account investment is issued, it shall be held by the account provider or as he may direct, subject to sub-paragraph (f);
+- (d) in relation to qualifying investments falling within regulation 12(2)(a), (b) and (f) to (j), the account provider shall, if the registered contact so elects (and subject to any charge for the arrangement), arrange for the registered contact to receive a copy of the annual report and accounts issued to investors by every company, unit trust, open-ended investment company or other entity in which account investments are held;
+- (e) in relation to qualifying investments falling within regulation 12(2)(a), (b) and (f) to (j), the account provider shall, if the registered contact so elects (subject to any charge for the arrangement, and to any provisions made under any enactment), be under an obligation to arrange for the registered contact to be able—
+  - (i) to attend any meetings of investors in companies, unit trusts, open-ended investment companies and other entities in which account investments are held,
+  - (ii) to vote, and
+  - (iii) to receive, in addition to the documents referred to in sub-paragraph (d), any other information issued to investors in such companies, unit trusts, open-ended investment companies and other entities;
+- (ea)[^key-b7d5aafd45edef4c6cc30b44498c7283] in relation to investments in fractional interests, where the named child holds more than one fractional interest in relation to the same investment, the aggregated value of which amounts to at least one whole share (an “aggregated whole share”)—
+  - (i) the obligations under sub-paragraphs (d) and (e) apply to the manager in relation to the named child who holds the aggregated whole share, and
+  - (ii) the aggregated whole share is subject to the requirements in sub-paragraphs (b) and (c);
+- (f) if and so long as a person falling within regulation 14(2)(d)(iv) acts as account provider of an account, and the account investments include a policy of life insurance—
+  - (i) the title to all such policies shall be vested in the registered contact, and
+  - (ii) where a policy document or other document evidencing title to such policies of life insurance is issued, it shall be held by the registered contact;
+- (g) the account provider shall satisfy himself that any person to whom he delegates any of his functions or responsibilities under the management agreement is competent to carry out those functions or responsibilities;
+- (h) on the instructions of the registered contact (“the transfer instructions”) and within such time as is stipulated by the registered contact in the transfer instructions, the whole of an account, with all rights and obligations of the parties to it, shall be transferred free of expense (except any incidental expenses) to another account provider subject to and in accordance with regulation 21;
+- (ha)[^key-360ebe1cb555e8d39f08f6ac1453a20a] where the account is or has been transferred to the account provider by a transfer under regulation 21, that no charges or expenses are due in respect of that transfer, except in accordance with sub-paragraph (h);
+- (hb)[^key-f521edae341a00332089dfdff417b2eb] any transfer under regulation 20A shall be free of expense (except any incidental expenses);
+- (i) where the account provider offers accounts of another description or type, on the instructions of the registered contact (“the internal transfer instructions”) and within such time as is stipulated by the registered contact in the internal transfer instructions, the account shall become (free of expense, except any incidental expenses) an account of that other description or type (any necessary change in the investments being made accordingly); and
+- (j) the account provider shall notify the registered contact if by reason of any failure to satisfy the provisions of these Regulations an account is or will become no longer exempt from tax by virtue of regulation 24.
+
+(3) Where the transfer instructions or internal transfer instructions, or any new management agreement entered into by the registered contact with the account provider (or a new account provider) under regulation 8(1)(e), is a distance contract, the transfer or internal transfer shall only take effect once those contracts satisfy Condition 4 in regulation 5(1).
+
+(4) The time stipulated in transfer instructions or internal transfer instructions shall be subject to any reasonable business period (not exceeding 30 days) of the account provider required for the practical implementation of the instructions.
+
+(5) In this regulation, “**incidental expenses**” means stamp duty and other dealing costs of disposing of or acquiring investments.
+
+### 9. Annual limit on subscriptions
+
+(1) Any person (including the child) may make subscriptions to a child’s account, subject to paragraphs (2) and (3).
+
+(2) Subscriptions to an account made during any subscription year, that is—
+
+- (a) the period beginning with the day on which the account is opened (or if opened before the appointed day, opened for the purpose of accepting subscriptions under regulation 5(2)(b)), and ending immediately before the child’s next birthday, and
+- (b) any succeeding period of twelve months,
+
+shall not in aggregate exceed the sum of £9,000[^key-be79fbb9c9c08c1fbd2a24a43ef3c1fb].
+
+(3) Where the aggregate of subscriptions in any year falls short of £9,000[^key-723d5edc521da9c382e5a9aeafd1e516] or is nil, there shall be no addition to the amount for any succeeding year.
+
+### 10. Statements for an account[^key-d885982d717b01f1edf0bc6c9a92c7ee]
+
+(1) The account provider must produce a statement for the account—
+
+- (a) subject to paragraphs (6) and (7), annually (“an annual statement”), and
+- (b) where an account is transferred [^key-f275087b998b3fa44417c7ea447f0ad3]... under regulation 20A or[^key-f29879b59d1a8e014997661751540bd2] 21, as at the transfer date (“a transfer statement”).
+
+(2) References in paragraphs (2A)(b), (3), (4), (5), (6) and (8) to a statement (without more) shall be construed as references to any statement required to be produced in accordance with this regulation.
+
+(2A) The account provider must produce an annual statement at a date (a “relevant date”) not later than 12 months from the latest of—
+
+- (a) the date of the opening of the account;
+- (b) the date at which the most recent statement was produced; and
+- (c) the last date at which, but for paragraph (6), a previous annual statement would have had to have been produced.
+
+(3) A statement required to be produced in accordance with this regulation[^key-d914b66bf5925b0b3a22e4a0a9b068c3] shall be sent—
+
+- (a) where the named child is the registered contact, to the child,
+- (b) where a responsible person is the registered contact, to the named child care of the registered contact,
+- (c)[^key-5db58b03f2e42bece80c1be1a2a6fe7b] where a person has been appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act, to that person on behalf of the child, and
+- (d) in any other case, to the named child,
+
+within 30 days of the date specified in paragraph (3A)[^key-78a33b39ef5a326f5e02fb0cf32cb5b9].
+
+(3A)[^key-fc0df7b21b86939c9d629b68de206be5] The date specified in this paragraph is—
+
+- (a) in relation to an annual statement, the relevant date;
+- (b) in relation to a transfer statement, the transfer date; or
+- (c) where paragraph (7) applies, the later of the relevant date in relation to the annual statement requested and the date that the request is received by the account provider.
+
+(4) Statements shall include the following information—
+
+- (a) the full name of the child;
+- (b)[^key-cec361fd4eda7b67bd5ce0a5169d73a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-eeb69bbd5c51c081520bb5895c1f4965] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) his unique reference number;
+- (e) the description of the account (see regulation 4);
+- (f) the name of the registered contact (if any);
+- (g) the relevant date[^key-896917814c46b77555abcc9fd0b46166];
+- (h)[^key-e9ee6c3f024f0eb69288c80b4f9c211a] the total market value of the investments under the account at the date at which the most recent statement was produced (if any);
+- (i) the amount of any Government contributions (see regulation 7) received by the account provider[^key-e618a4095a4307fd509d7d5cc2a92382], during the period between—
+  - (i)[^key-72aae1eeb13852f77022de6ffd1c8011] the date at which the most recent statement was produced, or the opening of the account (whichever is the later), and
+  - (ii) the relevant date[^key-e7e1988dac6410903a2c409b56d3c679];
+- (j) the aggregate amount of subscriptions (if any) received during the period in sub-paragraph (i);
+- (k) the total amount of deductions (including management charges) made during the period in sub-paragraph (i);
+- (l) the total market value of the investments under the account at the relevant date[^key-ffb072913a19c95cdcee2cc397d464ee];
+- (m) the number or amount, description and market value of each of the investments under the account at the relevant date[^key-df66ee099507a8c9618c44d442ebd7e1];
+- (n) the basis used in calculating the market value of each investment under the account (together with a statement of any change from a basis used in the previous statement); and
+- (o) the exchange rate used where any investment is, or is denominated in, a currency other than sterling.
+
+(5)[^key-88951e8d89af47f25b4b76d22d923379] As an alternative to the information in paragraph (4)(k), the statement may include, in relation to any management charges or other incidental expenses deducted from the account during the period in paragraph (4)(i)—
+
+- (a) the rate, expressed as an annual percentage rate, at which, and the period in relation to which, such deductions were made, or
+- (b) where such deductions were made in relation to different periods at different rates—
+  - (i) each rate, expressed as an annual percentage rate, at which those deductions were made; and
+  - (ii) the period in relation to which they were made at that rate.
+
+(6)[^key-fa04b6e6c1f4591c3546c66441d99fca] Where, in relation to an annual statement, at a relevant date—
+
+- (a) the aggregate market value of the account investments held under the account is less than £300, or
+- (b) no subscriptions under regulation 9 have been made to the account during the relevant period,
+
+then, subject to paragraph (7), the account provider need only produce the annual statement if it would be the first statement to be produced following the child’s fourth, tenth , fifteenth or seventeenth[^key-4d637f1b565e3c770e2171cbdd3675e7] birthday.
+
+(7) Paragraph (6) shall not apply where any potential recipient of an annual statement (see paragraph (3)) requests such a statement.
+
+(8) “The relevant period” means the period—
+
+- (a) beginning on the latest of—
+  - (i) the date of the opening of the account;
+  - (ii) the date at which the most recent statement was produced; and
+  - (iii) the last date as at which, but for paragraph (6), an annual statement would have had to have been produced; and
+- (b) ending on the relevant date.
+
+### 11. General investment rules
+
+(1) All transactions by way of purchase by an account provider of investments under an account shall be made—
+
+- (a) in the case of an authorised fund which is a dual priced unit trust, at the maximum sale price of a unit of the relevant class at the relevant valuation point[^key-e89f4b795c9553fa40e9ad35d5b4763d] within the meaning of, and complying with the requirements of, paragraphs[^key-c97fb978c15e1669d1559fd159c555ff][^key-1f961c1f48edc59f972dc6a18e980477] 6.3.5 and 6.3.5B of the COLL[^key-a22c57e8745fd52bce5f91087db6d271];
+- (b) in the case of an authorised fund which is a single priced unit trust or an open-ended investment company, at the price of a unit of the relevant class at the relevant valuation point[^key-3cd971e74b1bc7559e69c12a39aa23df] within the meaning of, and complying with the requirements of, paragraphs[^key-5bcf3950d1aca605e8b97723acd18d6d][^key-0ba4777b8d067edba8b447a737d81b09] 6.3.5 and 6.3.5A of the COLL[^key-2b75ba1589a1061066a41991b7b494d3]; and
+- (c) in the case of all other account investments, at the price for which those investments might reasonably be expected to be purchased in the open market.
+
+(2) In paragraph (1)—
+
+- “**a dual priced unit trust**” means an authorised unit trust in respect of which the manager gives different prices for buying and selling units at the same time;
+- “**a single priced unit trust**” means an authorised unit trust in respect of which the manager gives the same price for buying and selling units at the same time.
+
+(3)[^key-5380aadad4e0091d105aadb97992c76d] All other transactions by way of sale or otherwise by an account provider in investments under account, and all transactions by way of trade or otherwise of an investment in fractional interests—
+
+- (a) shall be made at the price for which those investments might reasonably be expected to be sold or otherwise transacted, as the case may be, in the open market, and
+- (b) in the case of transactions in fractional interests, the price shall be proportionate to the size of the fraction relative to the whole share.
+
+(4) Investments, or rights in respect of investments, may not at any time—
+
+- (a) be purchased or made otherwise than out of cash which an account provider holds under an account at that time; or
+- (b) be purchased from—
+  - (i) the named child, or
+  - (ii) the spouse or civil partner[^key-185a5ca787066d0d0916cc8630a05f82] of the named child,
+
+  so as to become account investments under the account.
+
+(5) Subject to paragraph (6), contributions, subscriptions and any other cash held by an account provider under an account shall be held only in sterling and be deposited in an account with a deposit-taker (including for this purpose a credit union)[^key-3087ff0ab67049381f85bc3fd22fca39], or a deposit account or a share account with a building society, which is designated as a CTF account for the purposes of these Regulations only.
+
+(6) An account provider who is a European institution, a relevant authorised person or an assurance undertaking may hold an account investor’s cash subscription and other cash held under an account in the currency of the EEA State in which he has his principal place of business and may deposit such cash in an account, which is designated as mentioned in paragraph (5), with any person authorised under the law of that State to accept deposits.
+
+### 12. Qualifying investments for an account
+
+(1) This regulation specifies the kind of investments (“qualifying investments for an account”) which may be purchased, made or held under an account.
+
+(2) Qualifying investments for an account to which paragraph (1) refers are—
+
+- (a) subject to paragraphs (2B) and (2C),[^key-1941cb246d04a413bc7f199438bc614c] shares, not being shares in an investment trust, issued by a company wherever incorporated and either officially listed on a recognised stock exchange or, in[^key-145de29a34fdfb5c66d1a4de4cb75579] the United Kingdom, Gibraltar or[^key-1cd9ba67cfe7991e6a8050dc5da15d32] the European Economic Area, admitted to trading on a recognised stock exchange (see paragraph (3));
+- (b) subject to paragraphs (2F) and (2G),[^key-e2d676ac5dac7eb54ee336a9d8f5741c] securities—
+  - (i) issued by a company wherever incorporated, and[^key-e2fcb3c76972c359c2a7fdeddb93c34e]
+  - (ii) which satisfy at least one of the conditions specified in paragraph (5), [^key-16833ab1690a8d35f65dca868f803c9a]...
+  - (iii)[^key-16833ab1690a8d35f65dca868f803c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) gilt-edged securities;
+- (d) any securities issued by or on behalf of the government of the United Kingdom or[^key-bdc17be98aca35b34072b2cf1d5ceb63] a government of any EEA State;
+- (e) any securities which, in relation to a security mentioned in sub-paragraph (d), would be a strip of that security if “strip” had the same meaning as in section 47 of the Finance Act 1942 [^c5242321], with the omission of the words “issued under the National Loans Act 1968”;
+- (f) subject to paragraphs (2B) and (2C),[^key-d01a727c0ed7dab603135c18fe040410] shares in an investment trust listed or admitted to trading on a recognised stock exchange in circumstances where the trust satisfies the condition specified in paragraph (3)[^key-cb2569f5d6dcdc1ea840b29e5fa72e18] [^key-b3c973975e7362aecf2f6ec104c80209]...[^key-84f0765e744998bdaa2f2831271a4812]...
+- (g)[^key-1c1335ed95340695c1455795d59694aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^key-1c1335ed95340695c1455795d59694aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^key-a9b0a232fc3647cbd3fd5a24131b930c] units in, or shares of, a UK UCITS or recognised UCITS;
+- (j) a depositary interest;
+- (k) cash deposited in a deposit account with a building society, or a person falling within section 991 of ITA 2007 (including for this purpose a credit union)[^key-c115a6b112e3ea7f552f158212c79cc9], subject to paragraph (8);
+- (l) cash deposited in a share account with a building society, subject to paragraph (8);
+- (m) policies of life insurance which satisfy the conditions specified in paragraphs (9) and (10);
+- (n) any securities issued under the National Loans Act 1968 [^c5242341]—
+  - (i) for the purpose of or in connection with raising money under the auspices of the Director of Savings within the meaning of section 11(1)(a) of the National Debt Act 1972 [^c5242351], and
+  - (ii) other than national savings certificates, premium savings bonds, national savings stamps and national savings gift tokens,
+
+  which, according to the terms and conditions subject to which they are issued and purchased, are expressly permitted to be held under an account;
+- (o)[^key-e55473ca77dff69e0f23a3ec3bec1e2c] arrangements falling within section 47 of the Finance Act 2005 (alternative finance arrangements) under which the person referred to in that section as Y is a financial institution;
+- (p) arrangements falling within section 49 of that Act;
+- (q) qualifying units in or shares of a non-UCITS retail scheme ;[^key-6fd8670e285b8ff34f11af10a1a2e6a7]
+- (qa)[^key-3a0102ba887beeaf285b6c2efcfad1ce] subject to paragraphs (2B) and (2C), shares of a UK UCITS, a recognised UCITS or non-UCITS retail scheme that are listed on or admitted to trading on a recognised stock exchange;
+- (r)[^key-4eff46cfbff10b243bc033b909a91077] core capital deferred shares within the meaning of regulation 2 of the Building Societies (Core Capital Deferred Shares) Regulations 2013, provided that such shares are listed on the official list of a recognised stock exchange;
+- (s)[^key-e52a30a2b16ee2b1cb0ac39f5f9a756c] an interest in a fraction of a share where the named child holds the beneficial interest in a fraction that is less than one whole share under terms which are contained in a contractual arrangement between the named child and the manager (“fractional interest”).
+
+(2A)[^key-749653392a4dde1fd9eaf90355e0ca3d] Notwithstanding any provision of paragraph (2), investments which—
+
+- (a) are held under an account on the coming into force of this paragraph; and
+- (b) immediately beforehand fell within paragraph (2)(i) by virtue of being units in, or shares of, a recognised UCITS,
+
+are to be treated, for as long as they are so held, as qualifying investments for an account.
+
+(2B)[^key-5a385a3298252ac423b7d292a3ca20a1] An interest in a fraction of a qualifying investment falling within any of sub-paragraphs (a) to (j) of paragraph (2) is not a qualifying interest for an account unless it is a fractional interest within the meaning of sub-paragraph (s) of that paragraph.
+
+(2C) In sub-paragraph (s) of paragraph (2), “**shares**” means shares which are qualifying investments in accordance with sub-paragraphs (a), (f) or (qa) of that paragraph.
+
+(2D)[^key-92b84bf0b420bec2180637446e09949f] Notwithstanding any provision of paragraph (1), investments which—
+
+- (a) immediately before 1st October 2024 fell within paragraph (2)(i) by virtue of being units in, or shares of, a recognised UCITS, or
+- (b) qualify under paragraph (2)(i) by virtue of being part of an umbrella scheme that immediately before 1st October 2024 fell within that paragraph by virtue of being units in, or shares of, a recognised UCITS,
+
+are to be treated, until the end of 31st December 2026, as qualifying investments for an account.
+
+(2E) Paragraph (2A) ceases to have effect at the end of 31st December 2026.
+
+(2F)[^key-f765a3c47e3464fab10d821b7bbfba94] A UK cryptoasset exchange traded note is not a qualifying investment for an account for the purposes of paragraph (2)(b).
+
+(2G) Notwithstanding paragraph (2F), investments which—
+
+- (a) immediately before 6th April 2026—
+  - (i) were held under an account, and
+  - (ii) were qualifying investments for an account by virtue of being UK cryptoasset exchange traded notes falling under paragraph (2)(b), and
+- (b) ceased to be qualifying investments for an account for the purposes of paragraph (2)(b) on the coming into force of paragraph (2F),
+
+are to be treated, for as long as they are so held, as qualifying investments for an account.
+
+(3) An investment in shares fulfils the conditions as to official listing and admission to trading in paragraph (2)(a)[^key-bd15289fa2d7c005b1ae7d7fbaf5dfdf] or (f)[^key-d0ebb9273079a1195f98be63422e4809], if—
+
+- (a) in pursuance of a public offer, the account provider applies for the allotment or allocation to him of shares in a company or investment trust[^key-8516e6595b6a0875e6fe3ff1f7b08541] [^key-89392c854d111bbf4f18670a8edfef55]... which are due to be admitted to such listing or admitted to such trading[^key-9da09d4ddb51038650d13bc4cc14ebe5] within 30 days of the allocation or allotment, and which, when admitted to such listing or trading, would be qualifying investments for an account, and
+- (b) the shares are not allotted or allocated to the account provider in the circumstances specified in paragraph (4).
+
+(4) The circumstances specified in this paragraph are where—
+
+- (a) the allotment or allocation of the shares was connected with the allotment or allocation of—
+  - (i) shares in the company or investment trust of a different class, or
+  - (ii) rights to shares in the company or investment trust of a different class, or
+  - (iii) shares or rights to shares in another company or investment trust, or
+  - (iv) units in or shares in, or rights to units in or shares in, an authorised fund or a part of an umbrella scheme, or
+  - (v) securities or rights to securities of the company or investment trust, or of another company or investment trust,
+
+  to the account provider, the registered contact or any other person; and
+- (b) the terms on which the first-mentioned shares in this paragraph were offered were significantly more favourable to the account provider or the named child than they would have been if their allotment or allocation had not been connected as described in sub-paragraph (a).
+
+(5) The conditions specified in this paragraph are—
+
+- (a) that the shares in the company issuing the securities are listed on the official list of a recognised stock exchange;
+- (b) that the securities are so listed;
+- (c) that the company issuing the securities is a 75 per cent. subsidiary of a company whose shares are so listed;[^key-7e2de7b9d06564b8692afdd0fc479bc9]
+- (d)[^key-372cc451aac957a5cc5d2ff2537cbab2] that the shares in the company issuing the securities are admitted to trading on a recognised stock exchange in the United Kingdom, Gibraltar or[^key-051919b89ab6acfa1fc7fb9dc46e1447] the European Economic Area;
+- (e) that the securities are so admitted to trading;
+- (f) that the company issuing the securities is a 75 per cent. subsidiary of a company whose shares are so admitted to trading.
+
+(6)[^key-a2c79fa8fc833c71ee842bb08cda32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In paragraph (4)(a), “**company**” means any body corporate having a share capital.
+
+(8)[^key-11b1da858b02028d0a7c8b5a04f91774] A deposit account or share account which is a qualifying investment for an account falling within paragraph (2)(k) or (l) must not be connected with any other investment, held by the named child or any other person.
+
+(8A) For the purposes of paragraph (8), a deposit account or share account described in that paragraph, is connected with another investment if—
+
+- (a) either was opened or acquired with reference to the other, or with a view to enabling the other to be opened or acquired on particular terms, or with a view to facilitating the opening or acquisition of the other on particular terms,
+- (b) the terms on which the deposit account or share account was opened would have been significantly less favourable to the holder if the other investment had not been held, and
+- (c) the other investment is not a tax exempt investment.
+
+(8B) The following are tax exempt investments for the purposes of paragraph (8A)—
+
+- (a) an account investment held under a child trust fund;
+- (b) an account investment within the meaning given in the Individual Savings Account Regulations 1998 held under an account opened (or treated as opened) in accordance with regulation 12 or 12A of those regulations.
+
+(9) The conditions specified in this paragraph are that—
+
+- (a) the insurance is on the life of the named child only;
+- (b) the terms and conditions of the policy provide—
+  - (i) that the policy may only be owned or held as a qualifying investment for an account which satisfies the provisions of these Regulations;
+  - (ii) that the policy shall automatically terminate if it comes to the notice of the account provider, in any manner, that the event specified in paragraph (11) has occurred in relation to the policy;
+  - (iii) for an express prohibition of any payment of the proceeds from the termination of the policy or a partial surrender of the rights conferred by the policy, to the named child (while he is still a child) except in accordance with regulation 18A (terminal illness)[^key-1a3f1a56008ea186a09631b52582bee1]; and
+  - (iv) that the policy, the rights conferred by the policy and any share or interest in the policy or rights respectively, shall not be capable of assignment or (in Scotland) assignation, other than that they may be vested in the named child’s personal representatives, and that the title to the policy may be transferred to a new account provider subject to and in accordance with regulations 8(2)(f) and 21;
+- (c) the policy evidences or secures a contract of insurance which—
+  - (i) falls within paragraph 1 or 3 of Part 2 of Schedule 1 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c5242361], or
+  - (ii) would fall within either of those paragraphs if the insurer were a company with permission under Part 4 of the Financial Services and Markets Act 2000 [^c5242371] to effect or carry out contracts of insurance;
+- (d) the policy is not—
+  - (i) a contract to pay an annuity on human life,
+  - (ii) a personal portfolio bond within the meaning given by section 516 of ITTOIA 2005[^key-6bd3739d1f23f0b8dae29c14f9c46f5a], or
+  - (iii) a contract, the effecting and carrying out of which constitutes “pension business” within the meaning given by section 431B(1) of the Taxes Act [^c5242391]; and
+- (e) after the first payment in respect of a premium in relation to the policy has been made, there is no contractual obligation on any person to make any other such payment.
+
+(10) The condition specified in this paragraph is that no sum may at any time, at or after the making of the insurance, be lent to or at the direction of the named child or registered contact by or by arrangement with the insurer for the time being responsible for the obligations under the policy.
+
+(11) The event specified in this paragraph is that—
+
+- (a) there has been a breach of any of the conditions in paragraph (9) or (10), or any of those conditions was not satisfied at the date on which the insurance was made; and
+- (b) the breach or non-compliance cannot be remedied in accordance with regulation 23, or (in any other case), has not been remedied within a reasonable time.
+
+(12) Where the event specified in paragraph (11) occurs in relation to a policy, the policy shall nevertheless be treated, for the purposes of these Regulations, excepting paragraphs (9)(b)(ii) and (11), and regulations 37(6) and 38, as if it had satisfied the conditions in paragraphs (9) and (10) during the period—
+
+- (a) commencing at the time when that specified event occurred, and
+- (b) ending immediately before—
+  - (i)[^key-75bfae8a95b48500696957d8c2fd1c00] the end of the final insurance year in relation to the policy, within the meaning given by section 499 of ITTOIA 2005, or
+  - (ii) the time at which that specified event came to the notice of the account provider,
+
+  whichever first occurs (the “termination event”).
+
+### 13. Conditions for application by responsible person or the child to open an account (and changes to an account)
+
+(1) An application by a responsible person in relation to a child or the child if 16 or over, as the case may be, (“**the applicant**”) to open an account for the child with an account provider must be made to the account provider in a statement which must satisfy the conditions specified in paragraphs (2) to (6).
+
+(2) An application must specify the description of account applied for.
+
+(3) An application must incorporate a declaration by the applicant that he—
+
+- (a) is aged 16 years of age or over,
+- (b) is—
+  - (i) (where the child is under 16) a responsible person in relation to the named child (that is, that he has parental responsibility or, in Scotland, parental responsibilities[^key-97c54228872d35b90f4c7eca36045809] in relation to the child), or
+  - (ii) the child if 16 or over, and
+- (c) is to be the registered contact for the account;
+
+and where the application is not in writing, must authorise the account provider to record the terms of the declaration in a written declaration made on behalf of the applicant.
+
+(4) The applicant must authorise the account provider (on behalf of the named child where appropriate)—
+
+- (a) to hold the child’s Inland Revenue contributions, subscriptions, account investments, interest, dividends and any other rights or proceeds in respect of those investments and cash, and
+- (b) to make on his behalf any claims to relief from tax in respect of account investments,
+
+and the authority must continue until a further application and declaration is made in accordance with paragraph (10).
+
+(5) An application must contain—
+
+- (a) the applicant’s full name,
+- (b) his address, including postcode,
+- (c) the named child’s full name and date of birth[^key-783042fa32e5bd006d39f5be4bbdd035],
+- (d) his address, including postcode, and
+- (e) the child’s unique reference number on the voucher.
+
+(6) There may be only one declaration and authorisation under paragraphs (3) to (5) in force for an account at any time.
+
+(7) Except in the case—
+
+- (a) of the death or incapacity of the registered contact,
+- (b) where the registered contact cannot be contacted,
+- (c) of the bringing to an end of a Court order, under which he is a responsible person for the named child,
+- (d) of the named child attaining the age of 16 years,
+- (da)[^key-5c9ec40eae82e6fadb24bf4cde686b11] where the new registered contact has been appointed to be a guardian or special guardian of the named child,
+- (db) where the new registered contact is the adopter of the named child under an adoption order,
+- (e)[^key-b4dec4d02e012d5e236e103306b35517] where a person is appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act, or
+- (f) where a Court so orders,
+
+any change in the identity of the registered contact shall require confirmation by the current registered contact that his declaration and authorisation under paragraphs (3)(c) and (4) is cancelled, and in the cases in sub-paragraphs (a) to (f) it shall be treated as automatically cancelled[^key-4416d26cc6b58e3688a5783a9aa000f5].
+
+(8) An account provider must decline to accept an application if he has reason to believe that—
+
+- (a) the voucher has expired, or is not or might not be genuine, or
+- (b) the applicant has given untrue information in his application.
+
+(9) Where the application is not in writing, the account provider shall make the written declaration referred to in paragraph (3), and notify the applicant of its contents, and such declaration shall take effect from the date on which the applicant agrees the contents (subject to any corrections), and if he neither agrees or disagrees with the contents within 30 days, he shall be treated as having agreed them.
+
+(10) Where—
+
+- (a) there is a change in the identity of the registered contact, the new registered contact, or
+- (b) an account has been opened by the Inland Revenue under regulation 6 (Revenue allocated accounts) and—[^key-e7bf532db56fd31b6fc1f42734be680f]
+  - (i) a responsible person in relation to the child subsequently applies to the account provider to be the registered contact for the account, or
+  - (ii) the child, if the child is 16 or over and has elected to manage the account, subsequently applies to the account provider to be the registered contact for the account,
+
+that individual must make the application or declaration required by paragraphs (3) to (5) but as if for regulation 13(3)(b) there were substituted—
+
+> - (b) is—
+>   - (i) a responsible person in relation to the named child (that is, that he has parental responsibility or, in Scotland, parental responsibilities in relation to the child), or
+>   - (ii) the child, where the child is 16 or over and has elected to manage the account.
+
+(11)[^key-3567583276d336ed3b113b0779854f97] Where the new registered contact is the person appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act, that person[^key-5144fe4b6564567cb383a9d51137687c] shall make the declaration and authorisation required by paragraphs (3)(c) and (4) and shall be treated as a party to the existing management agreement for the account in question[^key-06556233110372b927d1db8bcd510e2d].
+
+### 13A. Maturity of child trust fund - instructions[^key-b6aaed0b2054a3db9632271ff9e7a276]
+
+(1) Instructions of a holder of a child trust fund to the account provider as to what is to be done with the investments under—
+
+- (a) the child trust fund on its maturity or,
+- (b) where regulation 13B(2)(a) applies, the matured CTF account,
+
+are to be in accordance with paragraph (2).
+
+(2) Those instructions may be—
+
+- (a) where the investments are held otherwise than in cash, to transfer them in specie or to realise them and to transfer the proceeds, or
+- (b) where they are held in cash, to transfer the cash amount.
+
+### 13B. Maturity of child trust fund - no instructions
+
+(1) On the 18th birthday of the holder of a child trust fund, where no instructions have been given under regulation 13A, all the investments under the child trust fund held immediately before that birthday are to be transferred by the account provider to a protected account held with the account provider.
+
+(2) The protected account may be, at the option of the account provider, either—
+
+- (a) an account (“matured CTF account”) which is to be treated as a continuing account of the person who held the child trust fund (“account holder”) to be held subject to these regulations and otherwise on the same terms and conditions which applied immediately before the account holder’s 18th birthday as if the investments had remained in the account for the child trust fund; or
+- (b) an account, within the meaning of regulation 4 of the Individual Savings Account Regulations 1998, which is a cash account, in respect of investments which are held in cash, or a stocks and shares account, in respect of investments which are held as stocks or shares, to be held subject to those regulations and otherwise on the same terms and conditions which applied immediately before the account holder’s 18th birthday as if the investments had remained in the account for the child trust fund.
+
+(3) Investments which are held otherwise than in cash are to be transferred in specie.
+
+(4) In the terms and conditions mentioned in paragraph (2) and in these regulations references to the following howsoever described—
+
+- (a) “account” and “child trust fund” are to be read as including the protected account,
+- (b) “named child”, “eligible child” or “child” are to be read as the account holder of the protected account, and
+- (c) “registered contact” and “responsible person” are to be read as the account holder of the protected account where instructions, notifications, assessments, actions or decisions need to be made in relation to it.
+
+### 13C. Matured CTF Account
+
+(1) Where regulation 13B(2)(a) applies, then notwithstanding any other provision of these regulations, paragraphs (2) to (8) are to apply.
+
+(2) No subscription is to be made to the matured CTF account.
+
+(3) Amounts in respect of investments on the matured CTF account are to be credited to it.
+
+(4) No transfer is to be made of any part of the matured CTF account otherwise than, in circumstances where the account provider intends to cease to act as an account provider, when regulation 19 (account provider’s intention to make a bulk transfer of accounts or to cease to act as an account provider) or 21 (transfer of accounts) applies.
+
+(5) In regulation 10 (statements for an account)—
+
+- (a) in paragraph (1)(a), the phrase “subject to paragraphs (6) and (7)” is to be treated as omitted,
+- (b) the words in paragraph (2A) are to be treated as replaced with—
+
+> The account provider must produce a statement not later than 12 months beginning with the date the funds entered the matured account and annually thereafter
+
+, and
+
+- (c) paragraphs (4)[^key-9c750bee27ee1af500806004fdadd608]... (e), (f) and (m) to (o) are to be treated as omitted.
+
+(6) Regulations 14(2)(b)(vi) (relating to publication of statements), 18A (permitted withdrawals from an account where the child is terminally ill) and 20A (transfers to other accounts for children) are to be treated as omitted.
+
+(7) In regulation 32 (returns of information by account provider), paragraphs (2)(b)(i), (ii) and (iv) are to be treated as omitted.
+
+(8) An account provider must, when all the investments have been transferred out of the matured CTF account in accordance with instructions under regulation 13A, close the account.
+
+### 14. Account provider—qualifications and Board’s approval
+
+(1) This regulation specifies the circumstances (“qualifying circumstances”) in which a person may be approved by the Board as an account provider.
+
+(2) The qualifying circumstances are the following—
+
+- (a) the person must make an application to the Board for approval in a form specified by the Board;
+- (b) the person must undertake with the Board—
+  - (i) to either offer stakeholder accounts to the general public (whether or not accounts of another description are offered), or to fulfil the requirements in paragraph (3),
+  - (ii) to accept vouchers from any responsible person or the child if 16 or over (subject to paragraph (iia) and[^key-df0fdae92b33fa7b139f7390c0eec9a7] regulation 13(8)),
+  - (iia)[^key-b33708f0aca10b05349400303f5658ae] in the case of a credit union, to accept vouchers from any responsible person or the child if 16 or over, if the child to which the voucher relates is a member, or fulfils or is treated as fulfilling a qualification for admission to membership, of the credit union (subject to regulation 13(8)),
+  - (iii) where the person accepts Revenue allocated accounts, to allow instructions for their management to be made or given by post (whether or not other methods are allowed),
+  - (iv) to publicise (and up-date where appropriate) statements of the minimum amount which may be subscribed to an account on a single occasion, and the permitted means of payment of subscriptions,
+  - (v) to inform persons proposing to make subscriptions to an account (other than the named child) that the subscription is a gift to the child,
+  - (vi) to publicise (and up-date where appropriate) statements of the extent to which social, environmental or ethical decisions are taken into account in selecting, retaining or realising investments,
+  - (vii) that a child’s unique reference number shall only be used for the purposes of the child’s account (and of fulfilling the requirements of these Regulations with regard to that account), and
+  - (viii) that whether there is an initial contribution or special contribution to an account, whether there is a supplementary contribution to the account, and whether the account is a Revenue allocated account is information held for the purposes mentioned in paragraph (vii) only, and shall not be used for other purposes (including marketing other products);
+- (c)[^key-5bab18d20aa38f9f0476571c412c5431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) an account provider must be—
+  - (i) an authorised person within the meaning of FISMA[^key-7e34dced42bc9944716ed87c248c84b6] 2000, who has permission to carry on one or more of the activities specified in Articles 14, 21, 25, 37, 40, 45, 51ZA, 51ZC, 51ZE[^key-f78df7975ec5074aefe18a95ef95d34a], 53 and (in so far as it applies to any of those activities) 64 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c5242411], but excluding any person falling within paragraph (iv) below;
+  - (iia)[^key-bb01a7e3be1d5d8b8d764cb7c1b7a9cd][^key-56ae95dd9a6a8ab01948d3dca4f59124] in the case of a credit union, an authorised person within the meaning of FISMA[^key-40bf5c6103220cc6448d43098ecef57f] 2000, who has permission to carry on one or more of the activities specified in Article 5 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
+  - (ii) a European institution which carries on one or more of those activities;
+  - (iii) a building society, or a person falling within section 991 of ITA 2007 (including for this purpose a credit union)[^key-f600f875d872e7c922c59d6a28fa5146]; or
+  - (iv) an insurance company within the meaning given by section 431(2) of the Taxes Act, an incorporated friendly society or a registered friendly society, or any other assurance undertaking;
+- (e)[^key-35b986cbeae557a61d41419f0425a3dc] an account provider must not be prevented from acting as such by any requirement imposed under Part 4A of FISMA 2000, or by any prohibition or prohibition order in or made under that Act; and
+- (f) an account provider who—
+  - (i)[^key-b7fa4532e7c2828d881d58f2f1bd66d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) falls within the expression “any other assurance undertaking” in sub-paragraph (d)(iv),
+
+  must fulfil one of the three requirements specified in regulation 15.
+
+(3) The requirements in this paragraph are that the person provides to any potential applicant for a child trust fund (before commencement of completion of[^key-76f844ceead1fd0a4e6a83a9f785cee8] any application under regulation 13)—
+
+- (a) a statement that a stakeholder account is available from a named alternative account provider who offers it on the terms in paragraph (2)(b)(i) (omitting the words from “, or to” to the end);
+- (b) a detailed description of that stakeholder account; and
+- (c) sufficient information (according to the method of communication used, and including documentation where appropriate) to put the potential applicant in the position to make an application to that alternative account provider, complying with regulation 13.
+
+(4) The terms of the Board’s approval may include conditions designed to ensure that the provisions of these Regulations are satisfied.
+
+### 15. Account provider—appointment of tax representative
+
+(1) This regulation specifies the requirements mentioned in regulation 14(2)(f).
+
+(2) The first requirement specified in this regulation is that—
+
+- (a) a person who falls within section 698(2)(b) of ITTOIA 2005[^key-344f606313c4b008add9844356b93e8b] is for the time being appointed by the account provider to be responsible for securing the discharge of the duties prescribed by paragraph (5) which fall to be discharged by the account provider, and
+- (b) his identity and the fact of his appointment have been notified to the Board by the account provider.
+
+(3) The second requirement specified in this regulation is that there are for the time being other arrangements with the Board for a person other than the account provider to secure the discharge of such duties.
+
+(4) The third requirement specified in this regulation is that there are for the time being other arrangements with the Board designed to secure the discharge of such duties.
+
+(5) The duties prescribed by this paragraph are those that fall to be discharged by an account provider under these Regulations.
+
+(6) The appointment of a person in pursuance of the first requirement shall be treated as terminated in circumstances where—
+
+- (a) the Board have reason to believe that the person concerned—
+  - (i) has failed to secure the discharge of any of the duties prescribed by paragraph (5), or
+  - (ii) does not have adequate resources to discharge those duties, and
+- (b) the Board have notified the account provider and that person that they propose to treat his appointment as having terminated with effect from the date specified in the notice.
+
+(7) Where, in accordance with the first requirement, a person is at any time responsible for securing the discharge of duties, the person concerned—
+
+- (a) shall be entitled to act on the account provider’s behalf for any of the purposes of the provisions relating to the duties;
+- (b) shall secure (where appropriate by acting on the account provider’s behalf) the account provider’s compliance with and discharge of the duties; and
+- (c) shall be personally liable in respect of any failure of the account provider to comply with or discharge any such duty as if the duties imposed on the account provider were imposed jointly and severally on the account provider and the person concerned.
+
+### 16. Account provider—withdrawal by Board of approval
+
+(1) This regulation specifies the circumstances (“**the disqualifying circumstances**”) in which the Board may by notice withdraw their approval of a person as an account provider in relation to an account.
+
+(2) The disqualifying circumstances are that the Board have reason to believe—
+
+- (a) that any provision of the Act or these Regulations, or any term of an undertaking given in accordance with regulation 14(2)(b) or condition under regulation 14(4), is not or at any time has not been satisfied, either in respect of an account managed by the account provider or otherwise; or
+- (b) that a person to whom they have given approval to act as an account provider is not qualified so to act.
+
+(2A)[^key-5baa64175caa9d95eff192ba507270b3] Where paragraph (2B) applies, a term of an undertaking given in accordance with regulation 14(2)(b) shall not be taken as not satisfied only by reason that the person to whom the Board’s approval as an account provider has been given does not accept vouchers.
+
+(2B) This paragraph applies where—
+
+- (a) a person does not accept any voucher after a day specified by that person; and
+- (b) no less than 30 days before the specified day, notice in writing is given to the Board of the person’s intention not to accept vouchers after that day.
+
+(3)[^key-2267c931501c7acad63f846191c0ffc2] The notice to which paragraph (1) refers must specify—
+
+- (a) the disqualifying circumstances;
+- (b) that the withdrawal shall only be effective from the date on which the last of the accounts has been transferred to another provider; and
+- (c) that from the date of the notice, the account provider must not accept subscriptions or open any new accounts.
+
+(4)[^key-295e274d3368f25c23c0bef0bde85fef] On receiving the notice referred to in paragraph (1), subject to any appeal under section 22(1)(b) of the Act, the account provider shall notify the registered contact (or, if there is no registered contact, the named child) of the right to transfer the account under regulation 21, and of his or her rights under regulation 20(3).
+
+(5)[^key-458fea2e51138ea7f78744ef743c4982] From the date of the notice, the account provider must not accept subscriptions or open new accounts.
+
+### 17. Account provider—appeal against non-approval or withdrawal of Board’s approval
+
+A person who has been notified of a decision by the Board not to approve that person as an account provider, or an account provider to whom notice of withdrawal of approval has been given under regulation 16, may appeal against the decision by notice given to the Board within 30 days after the date of the notification or notice.
+
+### 18. Permitted withdrawals from an account
+
+Withdrawals from an account before the date on which the named child attains the age of 18 years may only be made—
+
+- (a) by the account provider, to settle any management charges and other incidental expenses, which are due by or under the management agreement, or
+- (ab)[^key-a3df2b27987c9f1f613e8e5b10b5f052] in accordance with regulation 18A, or
+- (b) where the account provider is satisfied that the named child has died under that age.
+
+### 18A. Permitted withdrawals from an account where the child is terminally ill[^key-b0e1b50e222d77b5eade3bc89ce70016]
+
+(1) A person with parental responsibility (or, in Scotland, parental responsibilities) for the named child (including a local authority, but excluding a person under 16), or the named child if 16 or over, may make a claim to the Board, for withdrawals from an account to be permitted in accordance with this regulation.
+
+(2) The claim shall be—
+
+- (a) made in a manner prescribed by the Board, which shall include the giving of any consent necessary for the verification or consideration of the claim, and
+- (b) accepted in either of the following cases:
+  - *Case 1[^key-c2525e39489c57788be0a83447a153df]*
+
+    The child:
+
+    - ((i)) in England and Wales [^key-aa90307176ad859b2d91828411060712]... falls within either section 72(5) of the Social Security Contributions and Benefits Act 1992 (special rules for terminally ill person’s entitlement to care component of disability living allowance) or section 82(4) of the Welfare Reform Act 2012 (terminal illness); [^key-d13e3ed2f0513f2f3b8fddf6d435d7fd]...
+    - ((ii)) in Northern Ireland, falls within section 72(5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (the care component) and, for this purpose, section 66(2)(a) of that Act (attendance allowance for the “terminally ill”) is deemed to apply as if for “6 months” there were substituted “12 months.”[^key-e19c7a96ae3d1000af465985b339717f] ; or[^key-479302063f56b70de10fd3b5f19a44b7]
+    - ((iii)) in Scotland, falls within either of the provisions mentioned in paragraph (i), or is to be regarded as having a terminal illness, in accordance with regulations for disability assistance for children and young people , or regulations for disability assistance for working age people,[^key-8101b2616f693799f10626fdefe9663d] made under section 31 of the Social Security (Scotland) Act 2018.
+  - *Case 2*
+  - Evidence that the named child is terminally ill has been supplied to the satisfaction of the Board.
+
+(3) The Board shall issue a letter to the claimant authorising withdrawals from the account under this regulation [^key-4bb2b0899e37df062e12751fc8787b8d]....
+
+(4) Once a claim has been accepted, withdrawals may be made by the registered contact (on behalf of the named child, where he is not the child) at any time—
+
+- (a) provided that, immediately following any withdrawal, a balance sufficient to keep the account open is maintained in the account, and
+- (b) excepting any transfer of a policy of life insurance (as opposed to the proceeds from such a policy).
+
+(5) Where account investments are withdrawn in a form other than sterling currency, regulation 36(1)(b) shall apply (with any necessary modifications) to any such investment immediately before it is withdrawn.
+
+(6) In this regulation, “terminally ill” has the meaning
+
+- (a)[^key-1ae73ef83d6e168a4c60bc16c3136111] for England and Wales[^key-f976c99b72d6ea04f558a1b0afa8bfb3], in section 66(2)(a) of the Social Security Contributions and Benefits Act 1992 or in section 82(4) of the Welfare Reform Act 2012 (terminal illness);[^key-2ef837bdda40287334a1e146831c5797] [^key-bcfb6736937d3e95982b313ca1900871]...
+- (b) for Northern Ireland, in section 72(5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (the care component) and, for this purpose, section 66(2)(a)[^key-fe522f5008d1b5cd5742e46fb2b33bda] of that Act (attendance allowance for the “terminally ill”) is deemed to apply as if for “6 months” there were substituted “12 months.” ; or[^key-bc5bf6c06e034b69edfd1b69b98cfa36]
+- (c) for Scotland, as set out in regulations for disability assistance for children and young people, or regulations for disability assistance for working age people,[^key-c611e21cead88af98a3cf94aedecda11] made under section 31 of the Social Security (Scotland) Act 2018.
+
+### 19. Account provider’s intention to make a bulk transfer of accounts or to cease to act as an account provider[^key-4e15422e453584875ff486e225be2297]
+
+(1) An account provider must give notice to the Board if the account provider—
+
+- (a) intends to cease to act as an account provider; or
+- (b) intends to make a bulk transfer of accounts.
+
+(2) An account provider must give notice to the person who is the registered contact (or, if there is no registered contact, the named child) if the account provider—
+
+- (a) intends to cease to act as an account provider; or
+- (b) intends that the account will be one of the accounts transferred in a bulk transfer of accounts.
+
+(3) The notices described in paragraphs (1) and (2) must—
+
+- (a) specify whether the account provider—
+  - (i) intends to cease to act as an account provider; or
+  - (ii) intends to make a bulk transfer of accounts;
+- (b) where the notice specifies an intention to cease to act as an account provider—
+  - (i) specify the day on or after which the account provider intends to cease to act as an account provider; and
+  - (ii) be given no less than 30 days before that day;
+- (c) where the notice specifies an intention to make a bulk transfer of accounts—
+  - (i) specify the day on or after which the account provider intends to make the first transfer in the bulk transfer of accounts;
+  - (ii) be given no less than 30 days before that day; and
+  - (iii) advise the name and address of the person to whom the account provider intends to transfer accounts.
+
+(4) The notice described in paragraph (2) must also—
+
+- (a) identify the account to which it relates;
+- (b) in the case of a notice under paragraph (2)(a), advise the registered contact of the right to transfer the account under regulation 21 and of his rights under regulation 20(3);
+- (c) in the case of a notice under paragraph (2)(b)—
+  - (i) advise the registered contact that the account may be transferred otherwise than in a bulk transfer of accounts, such that regulation 21 applies, if sufficient instructions are provided to enable the account provider to do so; and
+  - (ii) advise the day by which the account provider must receive sufficient instructions for the account to be transferred otherwise than in a bulk transfer of accounts.
+
+(5) Where an account provider intends to make a bulk transfer of accounts in consequence of an intention to cease to act as an account provider, such intention may be specified in a single notice to the Board or to a registered contact (or, if there is no registered contact, the named child) (as appropriate, respectively) provided the requirements of paragraphs (3), (4)(a) and (c) are met.
+
+(6)[^key-e7cada29a419af6a5d6e1c663a96595a] An account provider must not cease to act in relation to an account until that account has been transferred to another provider.
+
+### 19A. Account provider ceasing to accept Revenue allocated accounts
+
+A person shall give notice to the Board of his intention to cease to accept further Revenue allocated accounts under regulation 6, not less than 30 days before he so ceases.
+
+### 20. Account provider ceasing to qualify
+
+(1) A person shall cease to qualify as an account provider and shall notify the Board within 30 days of the relevant event in sub-paragraphs (a) to (f), of that relevant event, where—
+
+- (a) the person no longer fulfils the conditions of regulation 14;
+- (b)[^key-e81529f1550a78fbd8c58a4c0155642f] there is an insolvency event in relation to the account provider;
+- (ba)[^key-e21804a71a348673201ff8be84312f20] a debt relief order is made in respect of the person (under Part 7A of the Insolvency Act 1986);
+- (c) an application has been made for a bank insolvency order or a bank administration order;
+- (e) in the case of a building society, a person falling within section 991 of ITA 2007 or a credit union[^key-982c8f2dfaa185225804ce7aab3ba7ec]—
+  - (i) it ceases to be a building society or to fall within section 991 of ITA 2007 or to be a credit union[^key-f587bd6deb03606c2b4b4b2e2d11de74], as the case may be;
+  - (ii) its directors have made a proposal under Part 1 of the Insolvency Act 1986 [^c5242431] for a composition in satisfaction of its debts or a scheme of arrangement of its affairs; or
+  - (iii) a receiver or manager of its property has been appointed; or
+- (f) in the case of a European institution, a relevant authorised person or an assurance undertaking which falls within regulation 14(2)(d)(iv), action corresponding to any described in sub-paragraph (b) to (e) has been taken by or in relation to the institution, person or undertaking under the law of an EEA State.
+
+(2) On giving the notice referred to in paragraph (1), the person shall also notify the registered contact (or, if there is no registered contact, the named child) of the right to transfer the account under regulation 21, and the notice shall inform the recipient of the rights under paragraph (3).
+
+(3) Where a registered contact—
+
+- (a) receives a notice under paragraph (2), or regulation 16(4) or[^key-0f9bd017ce23325d76410a170545e682] 19(2)(a)[^key-3f493cbe6c902c5210fc0da2e602e67f], and
+- (b) within 30 days of the sending of the notice, transfers the account to another account provider pursuant to regulation 21,
+
+the period between the transferor ceasing to act or qualify as an account provider, and the transfer to the transferee, shall be ignored in determining whether the account has at all times been managed by an account provider.
+
+(4)[^key-5d9457cfd27a21cbbc6d95c24355fe89] An account provider must not cease to act in relation to an account until that account has been transferred to another account provider in accordance with these Regulations.
+
+### 20A. Transfers to other accounts for children[^key-b567b5d2b852b8f4f454874e7955c0c1]
+
+(1) An account provider must at the request of the registered contact—
+
+- (a) transfer all the investments under the child trust fund, or an amount representing their value in cash, to a protected child account that is provided by a person chosen by the registered contact, and
+- (b) when all the investments have been transferred, close the child trust fund.
+
+(2) An account is only a protected child account for the purposes of section 7A(2) of the Act if it satisfies the condition of being a junior ISA account within regulation 2B of the Individual Savings Account Regulations 1998.
+
+### 21. Transfer of accounts ....[^M_F_250e9264-3a1c-41bd-ee67-339ad82dd76b]
+
+(1) Where—
+
+- (a) arrangements are made by a registered contact to transfer the whole of the investments under an account from one account provider (“**the transferor**”) to another account provider (“**the transferee**”),[^key-8341a578f78714431ec6a5679b7a7dc0]...
+- (b) the whole of the investments under an account are so transferred in consequence of an account provider (“**the transferor**”) ceasing to act or to qualify as an account provider, [^key-3d422cd291448926e433f4107e66e98a]...
+- (ba)[^key-c4134c83246a14594a7e07ebe0e35e40] there is a transfer under regulation 20A to a protected child account, or
+- (c)[^key-ac9ecf0af705ca38d93330ffc32fda62] an account is transferred in a bulk transfer of accounts [^key-b2dbb301d6081dd0173e6b3e84edd2ca]...,
+
+the transfer shall be treated as a transfer of the account.
+
+(2) The account and its description under regulation 4 shall not be affected for the purposes of these Regulations by reason of the transfer in paragraph (1)(a), (b) or (c)[^key-e3cc8445dc8e45b8cf6fcd2831de5d68], save that, where the registered contact specifies in accordance with paragraph (3)(a) an account of a different description, the account shall, on the transfer, become an account of that other description.
+
+(3) The registered contact shall make—
+
+- (a) the application required by regulation 13(2) (modified as if the words “applied for” were replaced with “following the transfer[^key-8d75d96e4c8f58b5b3015000c6aeec4e]”), and
+- (b) the application and declaration required by regulation 13(3) to (5),
+
+to the transferee but (in the case mentioned in sub- paragraph (b)) as if for regulation 13(3)(b) there were substituted—[^key-7c6cc078c6ad14391cc1cfb138f6f3b9]
+
+> - (b) is—
+>   - (i) a responsible person in relation to the named child (that is, that he has parental responsibility or, in Scotland, parental responsibilities in relation to the child, or
+>   - (ii) the child, where the child is 16 or over and has elected to manage the account.
+
+(3A)[^key-0fcf91c6eae229f2ec51c4495f874a89] Paragraph (3) does not apply where an account is transferred under regulation 20A or[^key-5081fad047307b02674ff5d188572a46] in a bulk transfer of accounts.
+
+(3B)[^key-c12589c45117cb03dad89270420798bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3C)[^key-c12589c45117cb03dad89270420798bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3D)[^key-c12589c45117cb03dad89270420798bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3E)[^key-c12589c45117cb03dad89270420798bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3F)[^key-c12589c45117cb03dad89270420798bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3G) An account transferred in accordance with this regulation in a bulk transfer of accounts is an account opened pursuant to an application in accordance with regulation 13 for the purposes of these Regulations [^key-8b6901d358f1173c01a808489b2b0b31]....
+
+(3H)[^key-85537e8f304651842ec4f096d0a8779b][^key-7080c68d8ab3acfa47f6b6b3d656070c] Where a registered contact applies in accordance with paragraph (3) to a potential transferee for a transfer under this regulation, specifying a stakeholder account offered by the transferee, the transferee shall not decline to accept that application (or the transfer in consequence of it) except where—
+
+- (a) the transferee has reason to believe that the registered contact has given untrue information in his application;
+- (b) the transferee demonstrates to the satisfaction of the Board that acceptance of transfers, or a class of transfers, during a particular period would jeopardise his ability to prevent any of the matters mentioned in regulation 16(2)(a); or
+- (c) the transferor does not give the transferee the notice in accordance with paragraph (4).
+
+(4) The transferor shall on the date of the transfer give the transferee a notice containing the information specified in paragraph (5) [^key-f73f197a97bc7d5745b767078217208a]....
+
+(4A)[^key-ce30c896c10bed13d13dc90f66fbd12f] In relation to paragraph (1)(ba), the account provider shall on the date of the transfer give the person providing the protected child account a notice containing the information specified in paragraph (5)(a) and (b)(i), (ii) and (iv) [^key-998f783e8c8b491fbc0cde8b816abc8a]....
+
+(5) The information specified in this paragraph is—
+
+- (a) as regards the named child—
+  - (i) his full name,
+  - (ii) his date of birth,
+  - (iii) his unique reference number;
+- (b) as regards the account—
+  - (i) the description of the account,
+  - (ii) the date of the transfer,
+  - (iii) the total amount subscribed to the account during the period from the beginning of the subscription year in which the transfer takes place to the date of the transfer,
+  - (iv) any amount which has been claimed from the Board under regulations 26 or 27[^key-65705b8e7eef820a900d207ed541f35e] and which has not been paid at the date of the transfer, and[^key-3d5b17d89843113ea4361d0169b8186b]
+- (v) the total amount subscribed to the account during the previous subscription year, where that subscription year ended later than the 5<sup>th</sup> April preceding the date of the transfer;
+- (c) the full name and address, including postcode, of the registered contact who has made the transfer arrangements.
+
+(6)[^key-9131e9c002ee165022c81cf6a459d3e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Recoupment of Inland Revenue contributions to void accounts (and other accounts)
+
+(1) Where—
+
+- (a) the named child has never been an eligible child (see regulation 8(1)(b)), or
+- (b) there is a breach of regulation 8(1)(c) in relation to an account,
+
+the account is void, and the persons mentioned in paragraph (3) shall account to the Inland Revenue for Inland Revenue contributions paid in respect of the account, together with income and gains which have arisen in consequence of the crediting of any of those payments to the account.
+
+(2) Where—
+
+- (a) the condition in section 9(5) of the Act or regulation 7(10B) or 7A(4)[^key-9f59d9c65d597416d2706eac381ff337] was satisfied in relation to a child, but the determination under sections 18 to 21 of the Tax Credits Act 2002 [^c5242441] has been overturned, or
+- (b) the condition in section 9(8) of the Act was satisfied in relation to a child, but it has subsequently been determined that payment of the relevant benefit or tax credit mentioned in that subsection should not have been made, or that the applicable amount or tax credit should not have included an amount or credit in respect of the child,or[^key-9d98686210b178ae9ed5880c1e04fac6]
+- (c) the requirements of regulation 7(10) were, or the condition in regulation 7(10C)[^key-74f0eeb6ab26fcdaa3b3a0155f1fb14f], 7A(5) or 7B(1)[^key-aa6323a9f6ae7e506d3b2c6cfbfa199b] was, satisfied in relation to a child, but it has subsequently been determined that payment of the relevant benefit mentioned in the relevant provision[^key-ab78a4e4dda2bcc1e632b30f8139d96f] should not have been made, or that the applicable amount should not have included an amount in respect of that child,
+
+the persons mentioned in paragraph (3) shall account to the Inland Revenue for any supplementary contribution, or further contribution, as the case may be,[^key-ea017d0c8a3316d985d3233bd5d52efb] paid in respect of the account, together with income and gains which have arisen in consequence of the crediting of any such payment to the account.
+
+(3) The persons mentioned in paragraphs (1) and (2) are—
+
+- (a) the account provider (to the extent that he has assets in his possession or control),
+- (b) the registered contact,
+- (c) the named child, and
+- (d) any person in whom the Inland Revenue contributions, income or gains, or any property directly or indirectly representing any of them, is vested (whether beneficially or otherwise)
+
+and they shall be jointly and severally liable.
+
+(4) Where a person accountable under this regulation is notified by the Inland Revenue that an amount is due from him under it, that amount shall be treated for the purposes of Part 6 of the Management Act [^c5242451] (collection and recovery) as if it were tax charged in an assessment on that person, and due and payable.
+
+### 23. “Repair” of invalid accounts
+
+(1) Except in the case of a breach of regulation 8(1)(b) or (c) (where no repair of an account is possible), it is an overriding requirement to be satisfied in relation to an account that the account provider and registered contact, as the case may be, take any steps necessary to remedy any breach of these Regulations.
+
+(2) Where a breach is remedied as mentioned in paragraph (1), the account shall, to the extent of that breach, be treated as having been a valid account at all times, except for determining whether there has been a breach of these Regulations for the purposes of section 20 of the Act (penalties).
+
+## PART 3 — Tax and administration of accounts
+
+### 24. Exemption from tax of account income and gains
+
+Subject to compliance with these Regulations (and in particular regulation 9)—
+
+- (a) no tax shall be chargeable on the account provider or his nominee, or on the named child or registered contact (on his behalf)—
+  - (i) in respect of interest, dividends, distributions or gains in respect of account investments (excluding any building society bonus)[^key-c0f1f98b4a2d814b04bc4f187c109877],
+  - (ia)[^key-ebe3d6c7a30c9bf40d8493fde3bec586] in respect of alternative finance return or profit share return paid by a financial institution (within the meanings in Chapter 5 of Part 2 of the Finance Act 2005);
+  - (ib)[^key-46868cf7dab36f3241a41e68953202be] in respect of a payment under a building society bonus scheme, so far as the payment is calculated by reference to account investments (and if paid directly by the society into the account, the payment shall not count towards the subscription limit in regulation 9);
+  - (ii) on any annual profits or gains treated under Part 12 of ITA 2007[^key-9a22df0a2dcfe9639d4ac1fbb4481b51] as having been received by any of them in respect of account investments,
+  - (iii) on an offshore income gain to which a disposal made by any of them of an account investment gives rise, which is treated by section 761(1) of the Taxes Act as constituting profits or gains,
+  - (iv)[^key-2a9a84bd4c9642f61f2d74d94a9b331e] on a profit on the disposal of a deeply discounted security within the meaning given by section 430 of ITTOIA 2005, or
+  - (v) in respect of gains treated under Chapter 9 of Part 4 of ITTOIA 2005[^key-f30828b9993492217764d99f3e42f6be] as arising in connection with a policy of life insurance which is an account investment;
+- (b) losses accruing on any disposal of account investments shall be disregarded for the purposes of capital gains tax;
+- (ba)[^key-91416bb6f52c9f3b28b942a0a8f1e44d] any gain or loss accruing on and attributable to a payment within paragraph (ib) of sub-paragraph (a) shall not be a chargeable gain or allowable loss for capital gains tax purposes;
+- (c) section 935 of ITA 2007[^key-417e2d6ff4f2d8aa770319942e5f3a4d] shall apply with the following modifications—
+  - (i) for references to a plan manager, substitute references to an account provider,
+  - (ii) for references to a plan, substitute references to an account, and
+  - (iii) for the reference to Chapter 3 of Part 6 of[^key-af8a38c08bfac3966a6735a7e397c18f] ITTOIA 2005, substitute a reference to the Act;
+- (d) a deficiency arising in a tax year and falling within section 539(1) of ITTOIA 2005[^M_F_6d196882-09d3-40aa-b908-2e283df984aa], so far as it relates to a policy of life insurance which is an account investment, shall not be allowable as a deduction from the total income of the named child;
+- (e) relief in respect of tax shall be given in the manner and to the extent provided by these Regulations; and
+- (f) income arising from account investments shall not be regarded as income for any income tax purposes (including section 629 of[^key-35d76808d3371af9b2839260b328f807] ITTOIA 2005).
+
+### 25. Tax liabilities and reliefs—account provider to act on behalf of the named child
+
+(1) An account provider may under these Regulations make tax claims, conduct appeals and agree on behalf of the named child (or of the registered contact in respect of the child) liabilities for and reliefs from tax in respect of an account.
+
+(2) Tax claims shall be made to the Board in accordance with the provisions of regulations 26 and 27.
+
+(3) Where any relief or exemption from tax previously given in respect of an account has by virtue of these Regulations become excessive, in computing the relief due on any claim there shall be deducted (so that amounts equal to that excess are set-off or repaid to the Board, as the case may be) notwithstanding that those amounts have been invested, any other amount of tax due to the Board by the account provider in respect of any tax liability in respect of account investments under an account including (but without prejudice to the making of an assessment under that Schedule) any amount falling due in respect of a liability under Chapter 9 of Part 15 of ITA 2007[^key-4bfbd97063fe0a926f919bb24c525a4a].
+
+### 26. Repayments in respect of tax to account provider—interim tax claims
+
+(1) Notwithstanding the provisions of any other enactment, the Board shall not be under an obligation to make any repayment in respect of tax under these Regulations earlier than the end of the month following the month in which the claim for the repayment is received.
+
+(2) A claim for repayment in respect of tax which is not an annual claim (“interim tax claim”) may be made only for a period of a month (or a number of months not exceeding six) beginning on the 6th day of the month and ending on the 5th day of the relevant following month.
+
+(3) No claim for repayment may be made for the month ending 5th October or any subsequent month in a year until the annual claim due under regulation 27(2) in respect of an account for the preceding year has been duly made by the account provider and received by the Board.
+
+(4) Where, on the occasion of a claim, there is due to the Board an amount in respect of tax, that amount shall be recoverable by the Board in the same manner as tax charged by an assessment on the account provider which has become final and conclusive.
+
+(5) This regulation and regulation 27 shall not apply to any repayment in respect of tax on account investments falling within regulation 12(2)(m) (life insurance), or on distributions and other rights or proceeds in respect of those investments.
+
+### 27. Repayments in respect of tax to account provider—annual tax claims
+
+(1) An annual tax claim is a claim for repayment in respect of tax for a year and may not be made at any time more than six years after the end of the year.
+
+(2) Where the account provider—
+
+- (a) has made at least one interim tax claim during a year, or
+- (b) wishes to reclaim tax, or there is due to the Board an amount in respect of tax, following the end of the year,
+
+the account provider shall within six months after the end of the year make an annual tax claim to establish the total of tax repayments due under an account for that year.
+
+(3) Where the aggregate of the repayments in respect of interim tax claims for the year shown by an annual tax claim exceeds the amount of tax repayable for the year shown on the claim, the account provider shall repay the amount of the excess to the Board with the claim.
+
+(4) If an account provider fails to make the annual tax claim required under paragraph (2)(a) within the time limited, the Board may issue a notice to the account provider showing the aggregate of payments in respect of the interim tax claims for the year, and stating that the Board are not satisfied that the amount due to the account provider for that year exceeds the lower amount stated in the notice.
+
+(5) If an annual tax claim is not delivered to the Board within 14 days after the issue of a notice under paragraph (4) the amount of the difference between the aggregate and the lower amount stated in the notice shall immediately become recoverable by the Board in the same manner as tax charged by an assessment on the account provider which has become final and conclusive.
+
+(6) Where an annual tax claim has been made and the account provider subsequently discovers that an error or mistake has been made in the claim the account provider may make a supplementary annual claim within the time allowed in paragraph (1).
+
+### 28. Account provider’s tax claims—supplementary provisions
+
+(1) Section 42 of the Management Act shall not apply to tax claims under these Regulations.
+
+(2) No appeal shall lie from the Board’s decision on an interim tax claim.
+
+(3) An appeal [^key-966681bee957ecc6f2b8f01ceb11acff]... from the Board’s decision on an annual tax claim[^key-a3ccab32b5ee6a3f7f8c29df5ddc4e3f]... shall be brought by giving notice to the Board within 30 days of receipt of notice of the decision.
+
+(4) No payment or repayment made or other thing done on or in relation to an interim tax claim or a notice under regulation 27(4) shall prejudice the decision on an annual tax claim.
+
+(5) The provisions contained in Part 5 of the Management Act (appeals and other proceedings) shall apply to an appeal under paragraph (3) above and, on an appeal that is notified to the tribunal, the tribunal[^key-91b41ea0c03de8bc96a09d3b86be6dbe] may vary the decision appealed against whether or not the variation is to the advantage of the appellant.
+
+(6) All such assessments, payments and repayments shall be made as necessary to give effect to the Board’s decision on an annual tax claim or to any variation of that decision on appeal.
+
+(7) Claims under these Regulations shall be in such form and contain such particulars as the Board prescribe and, subject to regulation 32(1), shall be signed by the account provider, and forms prescribed for annual claims may require a report to be given by a person qualified for appointment as auditor of a company.
+
+### 29. Assessments for withdrawing relief and recovering tax
+
+(1) Where—
+
+- (a) any relief or exemption from tax given in respect of income or gains under an account is found not to be due or to be excessive, or
+- (b) the full amount of tax in respect of the income or gains under an account has not otherwise been fully accounted for and paid to the Board on behalf of the named child,
+
+an assessment to tax may be made by the Board in the amount or further amount which in their opinion ought to be charged.
+
+(2) An assessment to which paragraph (1) refers may be made on the account provider or on the registered contact (in respect of the child where the child is under the age of 16).
+
+(3) If the assessment is made to recover tax in respect of income under an account it shall be made under Case VI of Schedule D.
+
+(4)[^key-5b9cb4f5c613fa3fc3c5d0da78b850f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Fortnightly claim and financial returns[^key-19c3de8296cca946116488605ad5828b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Records to be kept by account provider
+
+(1) An account provider shall at all times keep sufficient records in respect of an account to enable the requirements of these Regulations to be satisfied.
+
+(2) In particular, an account provider shall produce (when required to do so by an officer of the Board) any—
+
+- (a) application made under regulation 13(1) or (10),
+- (b) voucher given to him,
+- (c) annual statement issued by him, and
+- (d) transfer notice given to him under regulation 21(4),
+
+or electronic copies, within the period of 3 years from when it was made, issued or given (notwithstanding any transfer of the account under regulation 20A or[^key-23683cb290788fd901e69121f69a3750] 21).
+
+(3)[^key-90f0869ed81d3bf2b7974517d41d2684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-90f0869ed81d3bf2b7974517d41d2684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32. Returns of information by account provider
+
+(1) An account provider shall within 60 days after the end of each year in which he acts as an account provider, and after ceasing to act or to qualify as an account provider, deliver by means of electronic communications to the Board a return for that year, or for the part of that year in which he so acted or qualified, in a form specified by the Board, which contains the information specified in paragraph (2).
+
+(2) The information specified in this paragraph is information relating to each account in respect of which he acted as account provider, in the year or the part of the year for which the return is made, other than accounts transferred [^key-0f3499d247bd49b98ea4f6e3dd2113d9]... under regulation 20A or[^key-54cb2d4fefe9f34fb09afb51cb5c032e] 21 in that year or part of a year, as to—
+
+- (a) as regards the named child—
+  - (i)[^key-f92c03bc624863fea2bfdcc333f26370] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^key-f92c03bc624863fea2bfdcc333f26370] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) his unique reference number;
+- (b) as regards each such account—
+  - (i) whether or not the account is a stakeholder account,
+  - (ii) whether or not there is a registered contact for the account,
+  - (iii) the aggregate market value of the account investments held under the account, subject to paragraph (3), the value of each account investment being determined either as at 5th April in that year, or any other valuation date not falling earlier than 5th October in that year, and
+  - (iv) the total amount of cash subscribed to the account, in the subscription year ending during the year or the part of the year for which the return is made.
+
+(2A)[^key-1df4968d0d8b6be6c1b7a761abd3c7f8] Where, during the year or part of the year, the named child reaches the age of 18 years or dies, there shall be substituted for paragraph (2)(b)(iii)—
+
+> - (iii) the aggregate market value of the account investments held under the account immediately before the relevant event mentioned in paragraph (2A),
+
+(3) The reference in paragraph (2)(b)(iii) to market value shall be construed—
+
+- (a) in the case of policies of life insurance, as a reference to their surrender value, and
+- (b) as referring to separate values for—
+  - (i) cash falling within regulation 12(2)(k) or (l), and
+  - (ii) policies of life insurance and all other account investments.
+
+(4) No claim for repayment, or repayment, may be made under regulations 26 and 27 until the returns which have become due under this regulation have been duly made by the account provider and received by the Board.
+
+### 33. Information about “looked after children” from Local Authorities[^key-7ab5c56eda83fe4ba9e12de8e3892626]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 33A. The person appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act to be the person who has the authority to manage an account[^key-8fdf693f2ae19c79ad31b10f04aeba30][^M_F_918d44af-3d94-4d5d-9129-212c67c61523]
+
+(1)[^key-fd1d24122557430cffba0ec0ab28dd47] The person appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act is to be the person who has the authority to manage a child’s account for the purposes of section 3(6)(b) of the Act where the circumstances specified in paragraph (2) apply.
+
+(2) The circumstances specified are where—
+
+- (za)[^key-aa7ddce0966fc2074cde896d0375c164] except in a case of a person who was a looked after child or a looked after and accommodated child on 30th September 2017, there is a continuous period of at least twelve months during which the circumstances under sub-paragraphs (a) and (b) apply,
+- (zb) in a case of a person who was a looked after child or a looked after and accommodated child on 30th September 2017, the circumstances under sub-paragraphs (a) and (b) apply,
+- (a) a child[^key-33a3c6edd62d6a26bfba1c78f13f5144] is looked after (in Scotland, looked after and accommodated) by the local authority, and
+- (b) at least one of the following conditions is satisfied.
+
+Condition 1
+
+There is no person, or no person other than the local authority, who has parental responsibility (in Scotland, parental responsibilities) for the child.
+
+Condition 2
+
+It is part of the care plan for the child that—
+
+- (a) the child will live indefinitely away from home (or his former home), and
+- (b) the child will not have face to face contact with any parent having parental responsibility (in Scotland, parental responsibilities) for the child.
+
+Condition 3
+
+An order has been made under section 34(4) of the Children Act 1989 or Article 53(4) of the Children (Northern Ireland) Order 1995, authorising the local authority to refuse to allow contact between the child and any person with parental responsibility (or, in Scotland, a compulsory supervision order or an interim compulsory supervision order is in force and contains a direction regulating contact to the effect that the child has no contact with a person who has parental responsibilities in relation to that child)[^key-c49a9b98acb6f1cc9eff0c58d431058e], and there is no other individual with parental responsibility (in Scotland, parental responsibilities) for the child to act as registered contact.
+
+In this Condition—[^key-81f11a7b275808a5aa550e6fcaf54fa9]
+
+- (a) “compulsory supervision order” has the meaning given by section 83 of the Children’s Hearings (Scotland) Act 2011;
+- (b) “interim compulsory supervision order” has the meaning given by section 86 of that Act; and
+- (c) “contact direction” means a measure mentioned in section 83(2)(g) of that Act and contained within a compulsory supervision order or an interim compulsory supervision order.
+
+Condition 4
+
+The Court of Protection has—
+
+- (a) appointed a receiver for a person with parental responsibility for the child, or
+- (b) determined that such a person is a “patient” for the purposes of Part 7 of the Mental Health Act 1983,
+
+and there is no other individual with parental responsibility for the child to act as registered contact.
+
+In Scotland, in this Condition for—
+
+- (a) “Court of Protection” substitute “Sheriff”,
+- (b) “receiver” substitute “guardian appointed under section 58 of the Adults with Incapacity (Scotland) Act 2000”,
+- (c) the reference to a patient, substitute “incapable for the purposes of the Adults with Incapacity (Scotland) Act 2000,” and
+- (d) “parental responsibility” substitute “parental responsibilities”.
+
+Condition 5
+
+The child has been lost or abandoned, and there is no prospect for the foreseeable future of reunification of the child with a parent having parental responsibility (in Scotland, parental responsibilities) for the child.
+
+In this Condition, “lost or abandoned”—
+
+- (a) in England[^key-d2d60bc502cf06fefa2f37235d13d152]..., has the meaning in section 20(1)(b) of the Children Act 1989;
+- (ab)[^key-a1433af5decd23622f3ba9f1fb4dd100] in Wales, has the meaning in section 76 of the Social Services and Well-being (Wales) Act 2014;
+- (b) in Northern Ireland, has the meaning in Article 21(1)(b) of the Children (Northern Ireland) Order 1995; and
+- (c) in Scotland, has the meaning in section 25(1)(b) of the Children (Scotland) Act 1995.
+
+Condition 6[^key-230a5dab4c17d450e8fe25485abf8b80]
+
+In England and Wales, an adoption agency or local authority has been authorised to place the child for adoption under section 19, or by a placement order under section 21, of the Adoption and Children Act 2002, or
+
+in Northern Ireland, an Order has been made under Article 17 or 18 of the Adoption (Northern Ireland) Order 1987 to free the child for adoption.
+
+(2A)[^key-8f7247baf4b28b6414f5cd5d314734a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2B)[^key-e492759b78045e418b04b75225f54259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-d77d719b879543667dfc88ad4c67c911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The person appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act[^key-6b4bca1fafb468e0f195769a88a45f6e] shall cease to be the person who has the authority to manage the child’s account (and shall be discharged from the duties of registered contact) where—
+
+- (a) the child is 16 or over and has elected to manage the account[^key-8ec768837660bd7960a55d4588550bd4],
+- (b) in any case where the child is [^key-06bda840a7620ee9c5d766eca5b546de]... looked after (in Scotland, looked after and accommodated) by a local authority—
+  - (i) the local authority confirms to the person appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act that there is a named responsible person in relation to the child, who is able to be the registered contact for the child’s account, and that none of the Conditions in paragraph (2) applies, and
+  - (ii) the person appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act cancels his declaration and authorisation in accordance with regulation 13(7) and is replaced as registered contact by that responsible person, in accordance with regulation 13(10), or
+- (c) in any case where the child [^key-4f046de07e640754d41e33714093316e]... is not looked after (in Scotland, looked after and accommodated) by a local authority—
+  - (i) a responsible person for the child provides evidence to the satisfaction of the person appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act, as the case may be, that he has parental responsibility for the child, and
+  - (ii) the person appointed by the Treasury or the Secretary of State by virtue of section 3(10) of the Act cancels his declaration and authorisation in accordance with regulation 13(7) and is replaced as registered contact by that responsible person, in accordance with regulation 13(10).
+
+(5)[^key-abede3c2596753e7bad2499bfc11e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-df52e1c3eda0c44f17d178a2aae4833b] In this regulation—
+
+- “local authority” includes an authority within the meaning of the Children (Northern Ireland) Order 1995;
+- “looked after and accommodated child”, in Scotland, means a child who is—
+  - (a) both looked after, and provided with or placed in accommodation, by a local authority within the meaning of those expressions in Part 2 of the Children (Scotland) Act 1995, or
+  - (b) accommodated by a local authority under section 22 of that Act,
+
+  and related expressions shall be construed accordingly;
+- “looked after child”—
+  - (a) in England[^key-98950f2572463e844139c995d57c2b8c]..., has the meaning given in section 22(1) of the Children Act 1989, extended to include a child accommodated by a local authority under section 17 of that Act, [^key-98950f2572463e844139c995d57c2b8c]...
+  - (ab) in Wales means looked after by a local authority within the meaning of section 74 of the Social Services and Well-being (Wales) Act 2014; and[^key-68e9edb42b1dfa493685d6b531c0f295]
+  - (b) in Northern Ireland, means a child accommodated under Part 4 of the Children (Northern Ireland) Order 1995,
+
+  and related expressions shall be construed accordingly;
+- [^key-9014fd132716f88ff3e904927e6195d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-2f85cc12821bb6a374b90abe6776d6e8] Where the appointment of a person (“original appointee”) by the Treasury or the Secretary of State by virtue of section 3(10) of the Act ceases, the original appointee must provide any information held by that person in connection with the management of a child trust fund to the new person (if any) appointed instead.
+
+### 34. Information to be provided to the Board[^key-4c34db5163a1628959ae1c1f6f3f4772]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Inspection of records by officer of the Board[^key-4c34db5163a1628959ae1c1f6f3f4772]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Capital gains tax—adaptation of enactments
+
+(1) For the purposes of capital gains tax—
+
+- (a) any assets held by a named child as account investments shall be regarded as held by the child in a separate capacity from that in which he holds any other assets of the same description; and
+- (b) the named child shall be treated as having sold all the account investments, and as having reacquired them in his personal capacity, for a consideration equal to their market value, immediately before he attains the age of 18 years (and ceases to be a child).
+
+(2) Sections 127 to 131 of the 1992 Act [^c5242521] shall not apply in relation to qualifying investments falling within any of sub-paragraphs (a), (b), and (f) to (i) of regulation 12(2) which are held under an account if there is by virtue of any allotment for payment as is mentioned in section 126(2) of that Act a reorganisation affecting those assets.
+
+### 37. Administration of tax in relation to accounts—supplementary
+
+(1) Nothing in these Regulations shall be taken to prejudice any powers conferred or duties imposed by or under any enactment in relation to the making of returns of income or gains, or for the recovery of tax, penalties or interest by means of an assessment or otherwise.
+
+(2) Notwithstanding the provisions of these Regulations an account provider shall not be released from obligations under these Regulations in relation to an account except under conditions agreed in writing with and notified to that person by the Board.
+
+(3) The provisions contained in the Management Act [^c5242531] shall apply to any assessment under these Regulations as if it were an assessment to tax for the year in which, apart from these Regulations, the named child would have been liable (by reason of his ownership of the investments).
+
+(4) No obligation as to secrecy imposed by statute or otherwise shall preclude the Board from disclosing to an account provider or registered contact that any provision of these Regulations has not been satisfied or that relief has been given or claimed in respect of investments under an account.
+
+(5) If—
+
+- (a) a chargeable event, within the meaning given by Chapter 9 of Part 4 of ITTOIA 2005[^key-6eec4cb56427e530fbed87df1dfc3060], has happened in relation to a policy of life insurance which is an account investment, and
+- (b) the body by whom the policy was issued is satisfied that no gain is to be treated as chargeable to tax on the happening of the event by virtue of regulation 24(a)(v),
+
+the body shall not be obliged to deliver the certificates mentioned in section 552(1) of the Taxes Act[^key-6ac3944746421badf600302e7f270f36].
+
+This paragraph does not prevent the operation of section 552(1) in a case to which regulation 38(1) applies.
+
+(6) Where—
+
+- (a) it comes to the notice of the account provider, in any manner, that the event specified in regulation 12(11) has occurred in relation to a policy, and
+- (b) the account provider is not the insurer for the time being responsible for the obligations under the policy or, where the policy is not still in existence, the person who was the last such insurer,
+
+the account provider shall, within 30 days of the event coming to his notice give notice to that insurer, specifying the event mentioned in sub-paragraph (a) and the termination event.
+
+### 38. Application of the provisions of Chapter 2 of Part 13 of the Taxes Act and of Chapter 9 of Part 4 of ITTOIA 2005 to policies[^key-b35a63595c120b0af66b1142323d5d89]
+
+(1) This paragraph applies to a case where—
+
+- (a) the event specified in regulation 12(11) has occurred in relation to a policy of life insurance, and
+- (b) a termination event within the meaning in regulation 12(12) occurs in relation to that policy.
+
+(2) Where—
+
+- (a) there is a case to which paragraph (1) applies, and
+- (b) a chargeable event in relation to the policy, within the meaning given by section 540 of the Taxes Act, has occurred prior to the time at which the termination event mentioned in paragraph (1)(b) occurs,
+
+the named child shall cease to be, and shall be treated as not having been, entitled to relief from tax under regulation 24(a)(v), in respect of gains treated as arising on the occurrence of any chargeable event mentioned in sub-paragraph (b).
+
+(3) The provisions of Chapter 2 of Part 13 of the Taxes Act shall apply, in a case to which paragraph (1) applies, to—
+
+- (a) the termination event mentioned in paragraph (1)(b), and
+- (b) any chargeable event mentioned in paragraph (2)(b),
+
+with the modifications provided for in paragraphs (4) to (8) of this regulation, and the registered contact and the account provider shall account to the Board in accordance with this regulation for tax from which relief under regulation 24 has been given on the basis that the named child was so entitled, or in circumstances such that the named child was not so entitled.
+
+(4) A termination of a policy of insurance pursuant to regulation 12(9)(b)(ii) shall be treated as the surrender of all rights under the policy for the purposes of section 484(1)(a)(i) of ITTOIA 2005[^key-41a934199f06cf487b59f5ec2dbb33eb].
+
+(5)[^key-ed7e740c076d9e9c080df66d8acedd77] Section 530 of ITTOIA 2005 does not apply to a gain in a case to which paragraph (1) applies.
+
+(6) Relief under section 550 of the Taxes Act shall be computed as if paragraph (5) had not been enacted.
+
+(7) In section 552 of the Taxes Act—
+
+- (a) in subsection (1)(b) for “policy holder” substitute “ “named child ”;
+- (b) in subsection (3)—
+  - (i) omit “(or, where the appropriate policy holder is a company, the corresponding financial year)”;
+  - (ii) for “the name and address of the appropriate policy holder” substitute “ the name and address of the named child ”;
+  - (iii) omit “and the corresponding financial year,”;
+- (c) in subsection (5)—
+  - (i) for “the appropriate policy holder” substitute “ the named child ”;
+  - (ii) omit sub-paragraph (b)(ii);
+  - (iii) omit paragraph (c);
+  - (iv) in paragraph (d) omit “except where paragraph (c) above applies,”;
+  - (v) omit paragraph (f);
+- (d) in subsection (6)—
+  - (i) omit paragraph (b);
+  - (ii) for paragraph (c) substitute—
+
+    > - (c) if the event is a death, the period of three months beginning with the receipt of written notification of the death;
+
+    ;
+  - (iii) after paragraph (c) insert—
+
+    > - (d) if the event is—
+    >   - (i) a termination event, or
+    >   - (ii) a chargeable event preceding a termination event (as mentioned in regulation 38(2) of the Child Trust Funds Regulations 2004),
+    >
+    >   the period of three months beginning with the date on which the insurer received notice under regulation 37(6) of those Regulations or, if earlier, actual notice of the termination event.
+
+    ;
+- (e) in subsection (7)—
+  - (i) in paragraph (a) omit “, or, where the policy holder is a company, the financial year,”;
+  - (ii) omit paragraph (b);
+  - (iii) for paragraph (c) substitute—
+
+    > - (c) if the event is a death, the period of three months beginning with the receipt of written notification of the death;
+
+    ;
+  - (iv) after paragraph (c) insert—
+
+    > - (ca) if the event is—
+    >   - (i) a termination event, or
+    >   - (ii) a chargeable event preceding such a termination event (as mentioned in regulation 38(2) of the Child Trust Funds Regulations 2004,
+    >
+    >   the period of three months beginning with the date on which the insurer received notice under regulation 37(6) of those Regulations or, if earlier, actual notice of the termination event.
+
+    ; and
+  - (v) in paragraph (d) after “paragraph (c)” insert “ or (ca) ”;
+- (f) in subsection (8)—
+  - (i) in paragraph (b) for “policy holder” substitute “ named child in respect ”;
+  - (ii) in paragraph (c) omit the words from “or” to the end;
+- (g) in subsection (9) omit “or financial year” in each place where they occur;
+- (h) in subsection (10)—
+  - (i) before the definition of “amount” insert—
+
+    > “**named child**” has the same meaning as in the Child Trust Funds Regulations 2004;
+
+    ;
+  - (ii) omit the definitions of “appropriate policy holder” and “financial year”;
+  - (iii) for the definition of “the relevant year of assessment” substitute—
+
+    > “the relevant year of assessment”, in the case of any gain, means the year of assessment to which the gain is attributable;
+
+    ; and
+  - (iv) after the definition of “section 546 excess” insert—
+
+    > “**termination event**” has the same meaning as in the Child Trust Funds Regulations 2004;
+
+    ; and
+  - (v) omit subsection (11).
+
+(8) In section 552ZA of the Taxes Act—
+
+- (a) in subsection (2)(b) omit the words “or an assignment”; and
+- (b) omit subsections (3) and (4).
+
+(9) The account provider shall account for and pay income tax at the basic[^key-77d77c2bfa50c126b78030c2b54ba6b8] rate in force for the year in which the termination event, or the chargeable event mentioned in paragraph (2)(b) occurred, as the case may be, and any amount so payable—
+
+- (a) may be set off against any repayment in respect of tax due under regulation 26 or 27 and subject thereto,
+- (b) shall be treated as an amount of tax due not later than 6 months after the end of the year in which the event specified in regulation 12(11) came to the notice of the account provider, and
+- (c) shall be payable without the making of an assessment.
+
+(10) Where tax is charged in accordance with paragraph (3)(a) or (b)—
+
+- (a) an assessment to income tax at the basic[^key-5a9bd8714ee3237eec403d8f0b11f360] rate in force for the relevant year may be made on the account provider or on the registered contact (on behalf of the named child), and
+- (b) an assessment to income tax at the higher rate within the meaning of section 10(3) of ITA 2007[^key-1265c7ec0c8303608aef871bb4d67369], for that year, may be made on the registered contact (on behalf of the named child) within five years after the 31st January next following that year, and regulation 29 shall not apply.
+
+Joan Ryan
+
+Jim Murphy
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE — STAKEHOLDER ACCOUNTS
+
+### Description of stakeholder account
+
+**1.** An account is a stakeholder account where it has the characteristics and complies with the conditions set out in paragraph 2.
+
+### Characteristics of stakeholder account etc
+
+**2.** (1) A stakeholder account must have the characteristics set out in sub-paragraph (2) and must comply with the conditions set out in sub-paragraphs (3) to (5).
+
+(2) The characteristics of a stakeholder account are—
+
+- (a) the account does not directly hold investments of any of the following kinds—
+  - (i) those referred to in regulation 12(2)(f) (shares in an investment trust);
+  - (ii) securities of an investment trust;
+  - (iii) rights in with-profits endowment policies;
+  - (iv) rights, under a contract of insurance, in a with-profits fund;
+  - (v) units or shares in a relevant collective investment scheme unless it is a requirement of that scheme that the purchase and sale price of those units or shares shall, at any given time, not differ from each other and that the price must be made available to the public on a daily basis;
+  - (vi) rights under a contract of insurance which are expressed as shares in funds held by the insurer unless it is a requirement of the contract of insurance that the purchase and sale price of those shares shall, at any given time, not differ from each other and that the price must be made available to the public on a daily basis;
+  - (via)[^key-aef3a58b685184258eef75e23426339d] shares referred to in regulation 12(2)(a) (shares issued by a company wherever incorporated and officially listed on a recognised stock exchange or, in[^key-3e665d037fd0d099bb63fc1b7c250bf0] the United Kingdom, Gibraltar or[^key-62aee1bb44382e6558a80e0059dbd98e] the European Economic Area, admitted to trading on a recognised stock exchange);
+  - (vii) depositary interests, where the investments concerned are investments of any of the kinds listed above in this paragraph;
+  - (viii)[^key-9f654641a64e972967e17b6e93830a2e] fractional interests in shares in an investment trust (shares in an investment trust are specified in regulation 12(2)(f));
+  - (ix) interests in a fraction of a share (as specified in regulation 12(2)(a));.
+  - (x) shares specified in regulation 12(2)(qa), unless it is a requirement of the scheme in which the shares are held that the purchase and sale price of the shares shall, at any given time, not differ from each other and that the price must be available to the public on a daily basis;
+- (b) the requirement is fulfilled that[^key-9700daf5a7f3fc21f91f8196b6c43c8b] the account provider, and any relevant person, [^key-7a316936b30408c4548a378f69651326]... ensure that, subject to the other provisions of this paragraph, the account has exposure to equities [^key-c81964015afc9e2b9567b3afe6b9d9df]...;
+- (ba)[^key-951df23ce3206f13516c81345a02e040] interest accrues on investments referred to in regulation 12(2)(k) and (l) (cash deposited in a deposit account or in a share account) on a daily basis at a rate that is not less than the Bank of England base rate minus 1 per cent per annum , except where cash is held temporarily on deposit in the course of dealing in investments under the account[^key-54673325e342050f7c69ffbaf79a0f6b];
+- (baa)[^key-ff56b0bf38de58a190944c246465242d] when the Bank of England base rate increases, the interest rate on investments referred to in regulation 12(2)(k) and (l) (cash deposited in a deposit account or in a share account) must be raised within one month of the date of that increase;
+- (bb) in relation to qualifying investments which are securities (other than in an investment trust) or a depositary interest where the relevant investments (within the meaning in that definition) are such securities, the requirement is fulfilled that—
+  - (i) the securities fall within regulation 12(2)(c) , (d) or (e)[^key-3097dac4023c3aff5a535eccc94bcbc6], or
+  - (ii) where the securities fall within regulation 12(2)(b) [^key-c512bb99f0cfde39ea38add3b85ed9b8]... or (n), the contract under which the securities are or have been acquired, or any other transaction entered into by the registered contact or any other person, has the effect that the named child is not exposed, or not exposed to a significant extent, to the risk of loss from fluctuations in the value of the securities exceeding 20% of the capital consideration paid or payable for the acquisition of those securities, during the period when the securities in question are held in the account.
+- (c) the requirement is fulfilled that[^key-a2043f2817e2848304ffc4cfef4bee47] the account provider and any relevant person [^key-418528dc96809bd923e6a883bc9d77e9]... have regard to—
+  - (i) the need for diversification of investments of the account, in so far as is appropriate to the circumstances of the account; and
+  - (ii) the suitability for the purposes of the account of any investment, investment strategy or investment option proposed .[^key-9ce2dc72a0b91e2d4ce22fa7410a8912]
+- (d)[^key-e3f53d51652931226c0d118f19f04c1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The account provider must permit payment of subscriptions to the account by—
+
+- (a) cheque;
+- (b) direct debit;
+- (c) standing order;
+- (d) direct credit (other than standing order).
+
+For the purposes of this sub-paragraph, those means of payment do not include payments by cash, credit card or debit card or any combination including a payment by cash, credit card or debit card.[^key-095a33098c04198140a12d61c1a9cf13]
+
+(4) The minimum amount which may be subscribed to the account on a single occasion is £10 except where the account provider permits a smaller amount.
+
+(5) Deductions from the account may only be made in the circumstances, and to the extent, set out in paragraph 3.
+
+(6) In this paragraph—
+
+- “**equities**” means shares issued by a company wherever incorporated and officially listed on a recognised stock exchange or, in[^key-bd4dd06928e0a6879eb5f213d4414870] the United Kingdom, Gibraltar or[^key-0634037b880a2814aefad0e5f557f62f] the European Economic Area, admitted to trading on a recognised stock exchange;
+- “**insurer**” means—
+  - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance, or
+  - (b) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to that Act, which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to effect or carry out contracts of insurance;
+- [^key-f725e2f2baf9b60b79914f7d06318b73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**relevant collective investment scheme**” means an authorised unit trust scheme, an authorised open-ended investment company or a recognised scheme, as the case may be, as defined in section 237(3) of the Financial Services and Markets Act 2000;
+- “**relevant person**” means any person to whom the account provider has delegated any of his functions or responsibilities under the management agreement; and
+- “**with-profits fund**” means a fund maintained by an insurer in respect of a particular part of its long-term business for which—
+  - (a) separate accounting records are maintained by the insurer in respect of all income and expenditure relating to that part of its business; and
+  - (b) the benefits payable in respect of policies allocated to that fund are determined partly by reference to a discretion exercisable by any person.
+
+(7) In this paragraph, the definitions of “contract of insurance” and “insurer” must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000,
+- (b) any relevant order made under that section, and
+- (c) Schedule 2 to that Act.
+
+### Stakeholder accounts—charges etc
+
+**3.** (1) Deductions from a stakeholder account may only be made to the extent set out in this paragraph.
+
+(2) Subject to sub-paragraph (5), charges for the management of, and other expenses in connection with, a stakeholder account may be recovered from the account to the extent that they do not exceed whichever is the greater of—
+
+- (a) 3/730 per cent of the value of the child’s rights in the account for each day on which the account is held; or
+- (b) 3/730 per cent of the value of the investments under the account for each day on which the account is held.
+
+(3) For the purposes of sub-paragraph (2)—
+
+- (a) the frequency, which must be daily, weekly or monthly, with which rights or investments are to be valued; and
+- (b) where valuation is to take place weekly or monthly, the day of the week or, as the case may be, the date in the month on which it is to take place,
+
+must be specified in advance in writing by the account provider to the registered contact, and the specification may not be amended during the period of 12 months after the date on which it is made.
+
+(4) When calculating the value of a child’s rights or of investments for the purposes of sub-paragraph (2), where the account provider has specified under sub-paragraph (3) that they are to be valued weekly or monthly—
+
+- (a) where they are to be valued weekly, they are to be valued on such day of the week (“the specified day”) as has been so specified by the account provider (except that, where that day is not a working day, the rights are to be valued on the next working day), and the value of the rights on each subsequent day prior to the next specified day is to be taken to be the value of the rights on the previous specified day; and
+- (b) where they are to be valued monthly, they are to be so valued on such date in each month (“**the specified date**”) as has been so specified by the account provider (except that, where that date is not a working day, the rights are to be valued on the next working day), and the value of the rights on each subsequent day prior to the next specified date is to be taken to be the value of the rights on the previous specified date.
+
+(5) The following charges and expenses may be deducted in full from the account and are not subject to and do not count towards the limit provided for in sub-paragraph (2)—
+
+- (a) any stamp duty, stamp duty reserve tax, value added tax[^key-99797b2826676c406a441b791d7375d6] or other charges (including any dilution levy) incurred by the account provider directly or indirectly in the sale or purchase of investments held under the account;
+- (aa)[^key-fd39603efda5307ac24c3845bcd2ec63] where any amount of tax is paid or anticipated to be payable in respect of income received or capital gains realised by the account provider in respect of investments held for the purposes of the account, the amount so deducted or anticipated;
+- (b) any charges or expenses incurred by the account provider directly or indirectly in complying with an order of the court or any other requirements imposed by law; and
+- (c) expenses incurred by the account provider in complying with its obligations under regulation 8(2)(d) and (e).
+
+(6) Valuations for the purpose of sub-paragraph (2) shall be after the deduction of any charges or expenses properly deducted from the account under sub-paragraph (5).
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for accounts (Child Trust Funds) under the Child Trust Funds Act 2004 (c. 6).
+
+Regulation 1 provides for citation and commencement, and regulation 2 for interpretation.
+
+Regulation 3 provides for the contents of vouchers issued under section 5(1) of the Act.
+
+Regulation 4 provides that accounts may be either stakeholder accounts or non-stakeholder accounts.
+
+Regulation 5 provides for the opening of accounts by a responsible person for the child (if the child is under 16) or the child (if 16 or over).
+
+Regulation 6 provides for the opening of accounts by the Inland Revenue.
+
+Regulation 7 provides for the amounts of government contributions to accounts.
+
+Regulation 8 sets out general requirements accounts have to satisfy.
+
+Regulation 9 provides the annual limits on subscriptions to accounts.
+
+Regulation 10 provides for the rules for statements for an account.
+
+Regulation 11 provides general rules for investment under an account.
+
+Regulation 12 sets out the investments which may be made under an account.
+
+Regulation 13 provides the necessary conditions for applications to open an account by a responsible person for the child (or the child if 16 or over) and conditions for changes to the registered contact.
+
+Regulations 14 to 17 provide for qualifications for and Board approval of account providers, withdrawal of Board approval, appeals against such decisions and the appointment of a tax representative by certain account providers.
+
+Regulation 18 makes provision for the circumstances where withdrawals can be made from an account before the named child reaches 18.
+
+Regulation 19 makes provision for account providers ceasing to act or to accept Revenue allocated accounts, and regulation 20 provision for where a provider ceases to fulfil the qualifications for providers.
+
+Regulation 21 makes provision for transfers of accounts from one account provider to another.
+
+Regulation 22 makes provision for the recoupment of Government contributions where accounts are void, or contributions should not have been paid.
+
+Regulation 23 makes provision for the remedying of non-fundamental breaches to the Regulations.
+
+Regulations 24 to 29 make provision for tax relief for accounts, tax representation, tax repayment claims, and tax assessments.
+
+Regulation 30 makes provision for account providers to submit (except in the transitional period January to March 2005) a fortnightly claim and financial return by electronic means to the Inland Revenue.
+
+Regulation 31 makes provision about account provider records, and regulation 32 for annual information returns to the Inland Revenue.
+
+Regulation 33 makes provision for Local Authorities to make monthly returns to the Inland Revenue of certain looked after children.
+
+Regulation 34 makes provision about Inland Revenue information requirements, and regulation 35 for inspection of records.
+
+Regulation 36 contains adaptations for accounts of Capital Gains Tax rules, and 37 and 38 general tax provisions for accounts, and tax rules for policies of life insurance held under an account.
+
+The Schedule contains a description of stakeholder accounts, including the necessary characteristics and conditions for such accounts, investment rules, minimum subscriptions and charge-capping.
+
+## Annotations
+
+[^c5242131]: Marginal citation: [2004 c. 6](https://www.legislation.gov.uk/ukpga/2004/6).
+
+[^key-5002f4141176e59a6d970f46501b521e]: Textual amendment: [Reg. 1(f)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/1/f) and word omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Child Trust Funds (Amendment) Regulations 2013 (S.I. 2013/263)](https://www.legislation.gov.uk/uksi/2013/263), [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2013/263/regulation/2/4/a)
+
+[^key-72ddbd7b7c1d1489e5c2eecf5ff87dc9]: Textual amendment: Words in reg. 2(1)(a) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment) Regulations 2009 (S.I. 2009/475)](https://www.legislation.gov.uk/uksi/2009/475), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/475/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/475/regulation/3)
+
+[^key-3c3fa11dc4c6e8acdf5abf1d902bc9cc]: Textual amendment: Words in reg. 2(1)(a) omitted (1.7.2015) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/1371/regulation/3)
+
+[^key-9bcc8fa7614423f86f6dcf1c3c57ec72]: Textual amendment: Words in reg. 2(1)(b) substituted (6.4.2014) by [The Child Trust Funds (Amendment) Regulations 2014 (S.I. 2014/649)](https://www.legislation.gov.uk/uksi/2014/649), [regs. 1](https://www.legislation.gov.uk/uksi/2014/649/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/649/regulation/3/a)
+
+[^key-227dff848242c965d3b44f53d09d2670]: Textual amendment: Words in reg. 2(1)(b) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/1/a)
+
+[^key-b8000e84d93a91150e0d4bd4039085e5]: Textual amendment: Words in reg. 2(1)(b) inserted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(1)(g)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/1/g)
+
+[^key-b9b8793af64432a601c19a6203303b86]: Textual amendment: Words in reg. 2(1)(b) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/18/2)
+
+[^key-c71cebaf4f70783ae955c8bc197535e7]: Textual amendment: Words in reg. 2(1)(b) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/2676/regulation/3)
+
+[^key-18900b5104d11eb3b415b183c8a858d8]: Textual amendment: Words in reg. 2(1)(b) substituted (27.12.2005) by [The Child Trust Funds (Amendment No. 3) Regulations 2005 (S.I. 2005/3349)](https://www.legislation.gov.uk/uksi/2005/3349), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3349/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2005/3349/regulation/3/a)
+
+[^c5242161]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^c5242171]: Marginal citation: Number 17 of 1989.
+
+[^key-547aa87072cc2f2ca5de792a9d180fd4]: Textual amendment: Words in reg. 2(1)(b) inserted (1.1.2007) by [The Child Trust Funds (Amendment No. 3) Regulations 2006 (S.I. 2006/3195)](https://www.legislation.gov.uk/uksi/2006/3195), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3195/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/3195/regulation/3)
+
+[^c5242181]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-d392daea0cda676b8091786904bc5b87]: Textual amendment: Word in reg. 2(1)(b) inserted (1.7.2015) by [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [4(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1371/regulation/4/1/a/i)
+
+[^key-3f5aa187fb25c0d9c0bae98d7f77dccf]: Textual amendment: Punctuation in reg. 2(1)(b) substituted (1.7.2015) by [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [4(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1371/regulation/4/1/a/ii)
+
+[^key-edada5fff18e9bb73affd4437a0f120a]: Textual amendment: Words in reg. 2(1)(b) omitted (1.7.2015) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [4(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/1371/regulation/4/1/a/iii)
+
+[^key-372f8b2dfd74dbdc3b0459663f7cd341]: Textual amendment: Words in reg. 2(1)(b) inserted (6.4.2005) by [The Child Trust Funds (Amendment No. 2) Regulations 2005 (S.I. 2005/909)](https://www.legislation.gov.uk/uksi/2005/909), [regs. 1](https://www.legislation.gov.uk/uksi/2005/909/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/909/regulation/3)
+
+[^key-bbb85b8cf997ec83e08a9ccf5f32659d]: Textual amendment: Words in reg. 2(1)(b) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/1/b)
+
+[^c5242191]: Marginal citation: [1972 c. 65](https://www.legislation.gov.uk/ukpga/1972/65).
+
+[^c5242201]: Marginal citation: O.J. L271, 9.10.2002, p. 16.
+
+[^c5242211]: Marginal citation: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
+
+[^key-5f8a887fe4fe82d05885c3223a92e2d6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/2/1) omitted (31.12.2020) by virtue of [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/713/regulation/1/2/c), [11(a)](https://www.legislation.gov.uk/uksi/2019/713/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2cbd1a44c638668d42f48805b2989304]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/2/1) substituted (31.12.2020) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/713/regulation/1/2/c), [11(b)](https://www.legislation.gov.uk/uksi/2019/713/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5242231]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
+
+[^c5242241]: Marginal citation: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
+
+[^key-80c50bd5f96c18aa982fc5b5c7976ad7]: Textual amendment: Words in reg. 2(1)(b) omitted (1.8.2014) by virtue of [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/13/b)
+
+[^key-b7aa90c8869ad9864a5dbc785a1d9a9e]: Textual amendment: Words in reg. 2(1)(b) substituted (6.4.2017) by [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/185/regulation/3/a)
+
+[^c5242261]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^key-ca6d9b3652d664063e632cd18eeb10e7]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/2/1/b) inserted (6.4.2020) by [The Child Trust Funds (Amendment) Regulations 2020 (S.I. 2020/29)](https://www.legislation.gov.uk/uksi/2020/29), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/29/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/29/regulation/3/a)
+
+[^key-e26852333afd8a027ce49a676e98b9a6]: Textual amendment: Words in reg. 2(1)(b) omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/1/d)
+
+[^key-caa55c43e4a55804ed3b264344073a45]: Textual amendment: Words in reg. 2(1)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/a/i)
+
+[^key-cc46ead79f18a4963b16949409d49418]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/2/1/b) inserted (6.4.2024) by [The Child Trust Funds (Amendment) Regulations 2024 (S.I. 2024/349)](https://www.legislation.gov.uk/uksi/2024/349), [regs. 1](https://www.legislation.gov.uk/uksi/2024/349/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/349/regulation/2/2/a)
+
+[^key-d73cf3abbc601bc9cc2e3e94985317ee]: Textual amendment: Words in reg. 2(1)(b) omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/18)
+
+[^key-e4a18ff65dea69c99bc756ffdc1632e6]: Textual amendment: Words in reg. 2(1)(b) inserted (27.12.2005) by [The Child Trust Funds (Amendment No. 3) Regulations 2005 (S.I. 2005/3349)](https://www.legislation.gov.uk/uksi/2005/3349), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3349/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2005/3349/regulation/3/b)
+
+[^key-8993248421fab31dc5791fc397b2614f]: Textual amendment: Words in reg. 2(1)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/a/ii/cc)
+
+[^key-b4ff71268d78982ca858eb86c9dbeaa2]: Textual amendment: Word in reg. 2(1)(b) omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/1/e)
+
+[^key-25e11fe178689041b87a1c73019fef2d]: Textual amendment: Word in reg. 2(1)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/a/ii/aa)
+
+[^key-6d279ae435419df1bf018f6c69fee312]: Textual amendment: Words in reg. 2(1)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/a/ii/bb)
+
+[^key-999d4daee4121e81169b33a22537f5e3]: Textual amendment: Words in reg. 2(1)(b) substituted (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/1744/regulation/3/b)
+
+[^key-c7a825378e27ce25f6a4b96924fbd981]: Textual amendment: Words in reg. 2(1)(b) inserted (1.7.2015) by [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2015/1371/regulation/4/1/b)
+
+[^key-089a32e94c29bd6e8a29fd6a46a9f716]: Textual amendment: Words in reg. 2(1)(b) omitted (1.7.2015) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [4(1)(c)](https://www.legislation.gov.uk/uksi/2015/1371/regulation/4/1/c)
+
+[^key-5caef43873b29c0389419faa91e3d526]: Textual amendment: Words in reg. 2(1)(b) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(1)(f)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/1/f)
+
+[^key-1bbfa21738ae69df0ec743c5b6ddc47f]: Textual amendment: Words in reg. 2(1)(c) omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/2/a)
+
+[^key-0190b441908b83ef437895da8bbf4050]: Textual amendment: Words in reg. 2(1)(c) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/b/i)
+
+[^c5242271]: Marginal citation: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228).
+
+[^key-102d37ce72340b9b2669adc3ed662e3b]: Textual amendment: Words in reg. 2(1)(c) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/b/ii)
+
+[^key-a9210f95d75a4cd59393cfb56c97f3b7]: Textual amendment: Words in reg. 2(1)(c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/b/iii)
+
+[^key-ab185d07cba84585dd3a16e840e5c10d]: Textual amendment: Words in reg. 2(1)(c) omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/2/b)
+
+[^key-c4cce8240e0ccfa891fe4e4cec0def2f]: Textual amendment: Words in reg. 2(1)(c) inserted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/2/f)
+
+[^key-a838c018f00530424a350030ac089a27]: Textual amendment: Words in reg. 2(1)(c) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 9](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-ecd5cdf338f744ce1fe9aa15c424317f]: Textual amendment: Words in reg. 2(1)(c) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/2/c)
+
+[^key-0ef60659b30f6e2ef07e35fa018d9990]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/2/1/c) substituted (31.12.2020 immediately after S.I. 2019/713, regs. 10-13 come into force) by [The Child Trust Funds (Amendment) Regulations 2020 (S.I. 2020/29)](https://www.legislation.gov.uk/uksi/2020/29), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/29/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/29/regulation/3/b)
+
+[^key-8dfe3c2e0057d0b8e1e0f2775653ccf3]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/2/1/c) omitted (6.4.2024) by virtue of [The Child Trust Funds (Amendment) Regulations 2024 (S.I. 2024/349)](https://www.legislation.gov.uk/uksi/2024/349), [regs. 1](https://www.legislation.gov.uk/uksi/2024/349/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/349/regulation/2/2/b/i)
+
+[^key-856c32f7848333c291996fa47a89690a]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/2/1/c) inserted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [3](https://www.legislation.gov.uk/uksi/2023/269/regulation/3)
+
+[^key-b926849bad1965fa745e37791fff9016]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/2/1/c) substituted (6.4.2024) by [The Child Trust Funds (Amendment) Regulations 2024 (S.I. 2024/349)](https://www.legislation.gov.uk/uksi/2024/349), [regs. 1](https://www.legislation.gov.uk/uksi/2024/349/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/349/regulation/2/2/b/ii)
+
+[^key-3913bc25f5a35d73f1aed65c169d7f51]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/2/1/c) inserted (6.4.2026) by [The Child Trust Funds (Amendment) Regulations 2026 (S.I. 2026/250)](https://www.legislation.gov.uk/uksi/2026/250), [regs. 1](https://www.legislation.gov.uk/uksi/2026/250/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/250/regulation/2/2)
+
+[^key-08ba42c7fc0f12bd55ee32f26e29d548]: Textual amendment: Words in reg. 2(1)(c) omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/2/d)
+
+[^key-409884472bd7302e9d4567048852b81a]: Textual amendment: Words in reg. 2(1)(c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(b)(v)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/b/v/aa)
+
+[^key-aa3f736ee8dd6c3ecbe08cfe387b720b]: Textual amendment: Word in reg. 2(1)(c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(b)(v)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93)
+
+[^key-6ba9da3b17576d4a783bf92af12b7b15]: Textual amendment: Words in reg. 2(1)(c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(b)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/b/vi)
+
+[^key-14b6e6ec48df31f2a79c91c637dcd0f5]: Textual amendment: Words in reg. 2(1)(c) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(2)(e)(i)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/2/e/i)
+
+[^key-80ba3cd1a7a0a30ab8b5311f834d0541]: Textual amendment: Words in reg. 2(1)(c) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [3(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2010/582/regulation/3/2/e/ii)
+
+[^key-c690a0a06f19dc0768079ce104e87b63]: Textual amendment: Reg. 2(1A) inserted (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1744/regulation/4)
+
+[^key-eb6d7a6e1aeb7293521f21e13e80e75b]: Textual amendment: Reg. 2(1A)(b)(c) omitted (6.4.2015) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/876/regulation/3)
+
+[^key-6ee685c7139ede764832ef20cf858718]: Textual amendment: Words in reg. 2(2) Table omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Child Trust Funds (Amendment) Regulations 2013 (S.I. 2013/263)](https://www.legislation.gov.uk/uksi/2013/263), [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2013/263/regulation/2/4/b)
+
+[^key-f551f166377ca6623fe4c5a83b171fc1]: Textual amendment: Word in reg. 2(2) substituted (6.4.2017) by [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/185/regulation/3/b)
+
+[^key-9de5645075d92a5b6982a319f83164f8]: Textual amendment: Words in reg. 2(2) Table omitted (1.7.2015) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/1371/regulation/4/2)
+
+[^key-0ebcd99b2a333f1cf42a666ea4935d01]: Textual amendment: Words in [reg. 3(1)(d)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/3/1/d) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment No. 3) Regulations 2011 (S.I. 2011/2447)](https://www.legislation.gov.uk/uksi/2011/2447), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2447/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/2447/regulation/3/a)
+
+[^key-a879c31954f790e15e928e156bbb031d]: Textual amendment: Words in reg. 3(3) omitted (7.2.2006) by virtue of [The Child Trust Funds (Amendment) Regulations 2006 (S.I. 2006/199)](https://www.legislation.gov.uk/uksi/2006/199), [regs. 1](https://www.legislation.gov.uk/uksi/2006/199/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/199/regulation/3)
+
+[^key-2a818f32172706aa31988734ea23aad6]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/3/4) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment No. 3) Regulations 2011 (S.I. 2011/2447)](https://www.legislation.gov.uk/uksi/2011/2447), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2447/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2011/2447/regulation/3/b)
+
+[^key-9f71aaedecb1b24aec5fdc30c45c6474]: Textual amendment: Words in reg. 5(1) substituted (7.2.2006) by [The Child Trust Funds (Amendment) Regulations 2006 (S.I. 2006/199)](https://www.legislation.gov.uk/uksi/2006/199), [regs. 1](https://www.legislation.gov.uk/uksi/2006/199/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2006/199/regulation/4/a/i)
+
+[^key-288f0f30b966fdb829a4b7c401844ddf]: Textual amendment: Words in reg. 5(1) added (7.2.2006) by [The Child Trust Funds (Amendment) Regulations 2006 (S.I. 2006/199)](https://www.legislation.gov.uk/uksi/2006/199), [regs. 1](https://www.legislation.gov.uk/uksi/2006/199/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2006/199/regulation/4/a/ii)
+
+[^key-05e36441a04fcede42bf303d696a39ef]: Textual amendment: Words in reg. 5(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment No. 3) Regulations 2011 (S.I. 2011/2447)](https://www.legislation.gov.uk/uksi/2011/2447), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2447/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2447/regulation/4)
+
+[^key-ae17c07189a25fb23ed55f2932e9ab05]: Textual amendment: Words in reg. 5(1) added (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment No. 2) Regulations 2009 (S.I. 2009/694)](https://www.legislation.gov.uk/uksi/2009/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/694/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/694/regulation/3)
+
+[^c5242301]: Marginal citation: O.J. L271, 9.10.2002, p. 16.
+
+[^key-f740f36efa2fa68be95989a7d8105dd8]: Textual amendment: Reg. 5(1A) inserted (7.2.2006) by [The Child Trust Funds (Amendment) Regulations 2006 (S.I. 2006/199)](https://www.legislation.gov.uk/uksi/2006/199), [regs. 1](https://www.legislation.gov.uk/uksi/2006/199/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2006/199/regulation/4/b)
+
+[^key-a8ca08005df2cbd47d611db323bfdf74]: Textual amendment: Words in reg. 5(1A) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment No. 3) Regulations 2011 (S.I. 2011/2447)](https://www.legislation.gov.uk/uksi/2011/2447), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2447/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2447/regulation/4)
+
+[^key-ebab61c1bcb3e3be926c0007cd702655]: Textual amendment: Words in reg. 6(4) substituted (27.12.2005) by [The Child Trust Funds (Amendment No. 3) Regulations 2005 (S.I. 2005/3349)](https://www.legislation.gov.uk/uksi/2005/3349), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3349/regulation/1), [4](https://www.legislation.gov.uk/uksi/2005/3349/regulation/4)
+
+[^key-299765d88e107cce619432813355eacc]: Textual amendment: Reg. 6(5) added (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [4](https://www.legislation.gov.uk/uksi/2004/2676/regulation/4)
+
+[^key-27cfc9908c4a2ec551b5b2b300e0429c]: Textual amendment: Word in reg. 7(1) substituted (2.8.2010) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(2)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/2/a)
+
+[^key-a9a89fbc784c0069c8c401f7bb0cd524]: Textual amendment: Words in reg. 7(1) substituted (2.8.2010) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/2/b)
+
+[^key-30b367bfcad72002a6ed07ef7f045a88]: Textual amendment: Words in reg. 7(1) substituted (2.8.2010) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(2)(c)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/2/c)
+
+[^key-472c709691885e4588fb0d2cbf54fae7]: Textual amendment: Words in reg. 7(4) substituted (2.8.2010) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(3)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/3)
+
+[^key-9d28056aabd55778ef2cdf50dc4dc7bc]: Textual amendment: Words in reg. 7(4) substituted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/5/a)
+
+[^key-cfe83a4cee60530beff4fd3d3da7c7f8]: Textual amendment: Reg. 7(4A)(4B) inserted (2.8.2010) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(4)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/4)
+
+[^key-0b64875c079170a5b3aa2dc1bdf08581]: Textual amendment: Words in reg. 7(7) substituted (2.8.2010) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(5)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/5)
+
+[^key-88af1618eca348dc3c153787cd9f41cd]: Textual amendment: Reg. 7(7A) inserted (2.8.2010) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(6)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/6)
+
+[^key-8b51841ccef8b4f18c0f6fa1e046ca0f]: Textual amendment: Reg. 7(8)(b) and preceding word omitted (2.8.2010) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(7)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/7)
+
+[^key-552dc751c290ff5bd49ab1d78dcf5d0c]: Textual amendment: Reg. 7(9) added (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/5/b)
+
+[^key-0c5c1c153dfcc713ea847318fd1903d8]: Textual amendment: Reg. 7(10)(11) added (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2005 (S.I. 2005/383)](https://www.legislation.gov.uk/uksi/2005/383), [regs. 1](https://www.legislation.gov.uk/uksi/2005/383/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/383/regulation/3)
+
+[^key-a9b75b8dd9f48abe03b7514fac096ff6]: Textual amendment: Sum in reg. 7(10) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(8)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/8)
+
+[^key-679dc6dc888ff07a7d12e0ccbf1a9a5f]: Textual amendment: Reg. 7(10A)-(10C) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment) Regulations 2009 (S.I. 2009/475)](https://www.legislation.gov.uk/uksi/2009/475), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/475/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2009/475/regulation/4/a)
+
+[^key-18c02e2f53244808bba4ba0b03fdeb74]: Textual amendment: Sum in reg. 7(10A) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(8)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/8)
+
+[^key-694a7c37dff5b36bcb060821b3e66039]: Textual amendment: Reg. 7(10D)(10E) inserted (2.8.2010) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/3/a), [3(9)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/3/9)
+
+[^key-3cd7fa9d1ac2488bdec21e7f8366c898]: Textual amendment: Words in reg. 7(11) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment) Regulations 2009 (S.I. 2009/475)](https://www.legislation.gov.uk/uksi/2009/475), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/475/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2009/475/regulation/4/b)
+
+[^key-226bd94e00c8d881ec40a71b6b280264]: Textual amendment: Reg. 7A omitted (1.8.2010) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2010/1894/regulation/4)
+
+[^key-2758dae3d2715da07f18408da44a1a59]: Textual amendment: Reg. 7B inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment No. 2) Regulations 2010 (S.I. 2010/836)](https://www.legislation.gov.uk/uksi/2010/836), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/836/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2010/836/regulation/3)
+
+[^key-9e4107ddb3f9a1c77039f3bd616f4b83]: Textual amendment: Words in [reg. 7B(1)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/7B/1) substituted (1.8.2010) by [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/5/2)
+
+[^key-062a648418cc56cd92f06e9674b5095b]: Textual amendment: [Reg. 7B(4)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/7B/4) omitted (1.8.2010) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2010 (S.I. 2010/1894)](https://www.legislation.gov.uk/uksi/2010/1894), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/1/2/a), [5(3)](https://www.legislation.gov.uk/uksi/2010/1894/regulation/5/3)
+
+[^key-a87b8567d341e45e350dd07a75661557]: Textual amendment: [Reg. 8(1)(d)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/8/1/d) omitted (1.7.2015) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/1371/regulation/5)
+
+[^key-916facafe4884368350da4df52974ca5]: Textual amendment: [Reg. 8(2)(aa)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/8/2/aa) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/3/a)
+
+[^key-c4e1c4a2f4c162cf3842d6081ca37884]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/8/2/b) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/3/b)
+
+[^key-85944dc6628269913bf38fcd10880432]: Textual amendment: [Reg. 8(2)(ba)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/8/2/ba) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/3/c)
+
+[^key-b7d5aafd45edef4c6cc30b44498c7283]: Textual amendment: [Reg. 8(2)(ea)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/8/2/ea) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/3/d)
+
+[^key-360ebe1cb555e8d39f08f6ac1453a20a]: Textual amendment: Reg. 8(2)(ha) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [6](https://www.legislation.gov.uk/uksi/2004/2676/regulation/6)
+
+[^key-f521edae341a00332089dfdff417b2eb]: Textual amendment: Reg. 8(2)(hb) inserted (6.4.2015) by [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/876/regulation/4)
+
+[^key-be79fbb9c9c08c1fbd2a24a43ef3c1fb]: Textual amendment: Sum in reg. 9(2) substituted (6.4.2020) by [The Child Trust Funds (Amendment No. 2) Regulations 2020 (S.I. 2020/269)](https://www.legislation.gov.uk/uksi/2020/269), [regs. 1](https://www.legislation.gov.uk/uksi/2020/269/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/269/regulation/3)
+
+[^key-723d5edc521da9c382e5a9aeafd1e516]: Textual amendment: Sum in reg. 9(3) substituted (6.4.2020) by [The Child Trust Funds (Amendment No. 2) Regulations 2020 (S.I. 2020/269)](https://www.legislation.gov.uk/uksi/2020/269), [regs. 1](https://www.legislation.gov.uk/uksi/2020/269/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/269/regulation/3)
+
+[^key-d885982d717b01f1edf0bc6c9a92c7ee]: Textual amendment: Reg. 10(1)-(2A) substituted for reg. 10(1)(2) (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/2)
+
+[^key-f275087b998b3fa44417c7ea447f0ad3]: Textual amendment: Words in reg. 10(1)(b) omitted (6.4.2015) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/876/regulation/5/a)
+
+[^key-f29879b59d1a8e014997661751540bd2]: Textual amendment: Words in reg. 10(1)(b) inserted (6.4.2015) by [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/876/regulation/5/b)
+
+[^key-d914b66bf5925b0b3a22e4a0a9b068c3]: Textual amendment: Words in reg. 10(3) substituted (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/3/a)
+
+[^key-5db58b03f2e42bece80c1be1a2a6fe7b]: Textual amendment: Reg. 10(3)(c) substituted (1.10.2017) by [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/748/regulation/3)
+
+[^key-78a33b39ef5a326f5e02fb0cf32cb5b9]: Textual amendment: Words in reg. 10(3) substituted (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/3/b)
+
+[^key-fc0df7b21b86939c9d629b68de206be5]: Textual amendment: Reg. 10(3A) inserted (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/4)
+
+[^key-cec361fd4eda7b67bd5ce0a5169d73a6]: Textual amendment: [Reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/10/4/b) omitted (6.4.2023) by virtue of [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [4](https://www.legislation.gov.uk/uksi/2023/269/regulation/4)
+
+[^key-eeb69bbd5c51c081520bb5895c1f4965]: Textual amendment: [Reg. 10(4)(c)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/10/4/c) omitted (6.4.2023) by virtue of [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [4](https://www.legislation.gov.uk/uksi/2023/269/regulation/4)
+
+[^key-896917814c46b77555abcc9fd0b46166]: Textual amendment: Words in reg. 10(4)(g) substituted (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/5)
+
+[^key-e9ee6c3f024f0eb69288c80b4f9c211a]: Textual amendment: Reg. 10(4)(h) substituted (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/6)
+
+[^key-e618a4095a4307fd509d7d5cc2a92382]: Textual amendment: Words in reg. 10(4)(i) substituted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/7/b)
+
+[^key-72aae1eeb13852f77022de6ffd1c8011]: Textual amendment: Reg. 10(4)(i)(i) substituted (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/7)
+
+[^key-e7e1988dac6410903a2c409b56d3c679]: Textual amendment: Words in reg. 10(4)(i)(ii) substituted (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/5)
+
+[^key-ffb072913a19c95cdcee2cc397d464ee]: Textual amendment: Words in reg. 10(4)(l) substituted (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/5)
+
+[^key-df66ee099507a8c9618c44d442ebd7e1]: Textual amendment: Words in reg. 10(4)(m) substituted (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/5)
+
+[^key-88951e8d89af47f25b4b76d22d923379]: Textual amendment: Reg. 10(5) added (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/7/c)
+
+[^key-fa04b6e6c1f4591c3546c66441d99fca]: Textual amendment: Reg. 10(6)-(8) added (20.4.2011) by [The Child Trust Funds (Amendment No. 2) Regulations 2011 (S.I. 2011/992)](https://www.legislation.gov.uk/uksi/2011/992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/992/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2011/992/regulation/2/8)
+
+[^key-4d637f1b565e3c770e2171cbdd3675e7]: Textual amendment: Words in reg. 10(6) substituted (6.4.2020) by [The Child Trust Funds (Amendment) Regulations 2020 (S.I. 2020/29)](https://www.legislation.gov.uk/uksi/2020/29), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/29/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/29/regulation/4)
+
+[^key-e89f4b795c9553fa40e9ad35d5b4763d]: Textual amendment: Words in reg. 11(1)(a) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2010/582/regulation/4/a/i)
+
+[^key-c97fb978c15e1669d1559fd159c555ff]: Textual amendment: Word in reg. 11(1)(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/c/i)
+
+[^key-1f961c1f48edc59f972dc6a18e980477]: Textual amendment: Words in reg. 11(1)(a) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2010/582/regulation/4/a/ii)
+
+[^key-a22c57e8745fd52bce5f91087db6d271]: Textual amendment: Word in reg. 11(1)(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/c/i)
+
+[^key-3cd971e74b1bc7559e69c12a39aa23df]: Textual amendment: Words in reg. 11(1)(b) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2010/582/regulation/4/b/i)
+
+[^key-5bcf3950d1aca605e8b97723acd18d6d]: Textual amendment: Word in reg. 11(1)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/c/ii)
+
+[^key-0ba4777b8d067edba8b447a737d81b09]: Textual amendment: Words in reg. 11(1)(b) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2010/582/regulation/4/b/ii)
+
+[^key-2b75ba1589a1061066a41991b7b494d3]: Textual amendment: Word in reg. 11(1)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/c/ii)
+
+[^key-5380aadad4e0091d105aadb97992c76d]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/11/3) substituted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/1023/regulation/4)
+
+[^key-185a5ca787066d0d0916cc8630a05f82]: Textual amendment: Words in reg. 11(4)(b)(ii) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [15(2)](https://www.legislation.gov.uk/uksi/2005/2919/article/15/2)
+
+[^key-3087ff0ab67049381f85bc3fd22fca39]: Textual amendment: Words in reg. 11(5) inserted (6.4.2005) by [The Child Trust Funds (Amendment No. 2) Regulations 2005 (S.I. 2005/909)](https://www.legislation.gov.uk/uksi/2005/909), [regs. 1](https://www.legislation.gov.uk/uksi/2005/909/regulation/1), [4](https://www.legislation.gov.uk/uksi/2005/909/regulation/4)
+
+[^key-1941cb246d04a413bc7f199438bc614c]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2/a) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/5/a/i)
+
+[^key-145de29a34fdfb5c66d1a4de4cb75579]: Textual amendment: Words in reg. 12(2)(a) substituted (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2013/1744/regulation/5/a)
+
+[^key-1cd9ba67cfe7991e6a8050dc5da15d32]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2/a) inserted (31.12.2020) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/713/regulation/1/2/c), [12(a)](https://www.legislation.gov.uk/uksi/2019/713/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e2d676ac5dac7eb54ee336a9d8f5741c]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2/b) inserted (6.4.2026) by [The Child Trust Funds (Amendment) Regulations 2026 (S.I. 2026/250)](https://www.legislation.gov.uk/uksi/2026/250), [regs. 1](https://www.legislation.gov.uk/uksi/2026/250/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/250/regulation/2/3/a)
+
+[^key-e2fcb3c76972c359c2a7fdeddb93c34e]: Textual amendment: Word in reg. 12(2)(b)(i) added (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2010/582/regulation/5/a/i)
+
+[^key-16833ab1690a8d35f65dca868f803c9a]: Textual amendment: Reg. 12(2)(b)(iii) and preceding word omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2010/582/regulation/5/a/ii)
+
+[^key-bdc17be98aca35b34072b2cf1d5ceb63]: Textual amendment: Words in [reg. 12(2)(d)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2/d) inserted (31.12.2020) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/713/regulation/1/2/c), [12(b)](https://www.legislation.gov.uk/uksi/2019/713/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5242321]: Marginal citation: [1942 c. 21](https://www.legislation.gov.uk/ukpga/1942/21); the relevant amendment to section 47 was made by section 202(2) of the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8).
+
+[^key-d01a727c0ed7dab603135c18fe040410]: Textual amendment: Words in [reg. 12(2)(f)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2/f) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/5/a/ii)
+
+[^key-cb2569f5d6dcdc1ea840b29e5fa72e18]: Textual amendment: Words in [reg. 12(2)(f)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2/f) inserted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2023/269/regulation/5/1)
+
+[^key-b3c973975e7362aecf2f6ec104c80209]: Textual amendment: Words in reg. 12(2)(f) omitted (6.4.2014) by virtue of [The Child Trust Funds (Amendment) Regulations 2014 (S.I. 2014/649)](https://www.legislation.gov.uk/uksi/2014/649), [regs. 1](https://www.legislation.gov.uk/uksi/2014/649/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/649/regulation/5/a)
+
+[^key-84f0765e744998bdaa2f2831271a4812]: Textual amendment: Words in reg. 12(2)(f) omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2010/582/regulation/5/b)
+
+[^key-1c1335ed95340695c1455795d59694aa]: Textual amendment: Reg. 12(2)(g)(h) omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2010/582/regulation/5/c)
+
+[^key-a9b0a232fc3647cbd3fd5a24131b930c]: Textual amendment: Reg. 12(2)(i) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2010/582/regulation/5/d)
+
+[^key-c115a6b112e3ea7f552f158212c79cc9]: Textual amendment: Words in reg. 12(2)(k) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [5(e)](https://www.legislation.gov.uk/uksi/2010/582/regulation/5/e)
+
+[^c5242341]: Marginal citation: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).
+
+[^c5242351]: Marginal citation: [1972 c. 65](https://www.legislation.gov.uk/ukpga/1972/65).
+
+[^key-e55473ca77dff69e0f23a3ec3bec1e2c]: Textual amendment: Reg. 12(2)(o)-(q) added (27.12.2005) by [The Child Trust Funds (Amendment No. 3) Regulations 2005 (S.I. 2005/3349)](https://www.legislation.gov.uk/uksi/2005/3349), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3349/regulation/1), [5](https://www.legislation.gov.uk/uksi/2005/3349/regulation/5)
+
+[^key-6fd8670e285b8ff34f11af10a1a2e6a7]: Textual amendment: Punctuation in reg. 12(2)(q) substituted (1.7.2014) by [The Child Trust Funds (Amendment No. 2) Regulations 2014 (S.I. 2014/1453)](https://www.legislation.gov.uk/uksi/2014/1453), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1453/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/1453/regulation/4/a)
+
+[^key-3a0102ba887beeaf285b6c2efcfad1ce]: Textual amendment: [Reg. 12(2)(qa)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2/qa) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/5/a/iii)
+
+[^key-4eff46cfbff10b243bc033b909a91077]: Textual amendment: Reg. 12(2)(r) inserted (1.7.2014) by [The Child Trust Funds (Amendment No. 2) Regulations 2014 (S.I. 2014/1453)](https://www.legislation.gov.uk/uksi/2014/1453), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1453/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/1453/regulation/4/b)
+
+[^key-e52a30a2b16ee2b1cb0ac39f5f9a756c]: Textual amendment: [Reg. 12(s)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/s) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/5/b)
+
+[^key-749653392a4dde1fd9eaf90355e0ca3d]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2A) inserted (31.12.2020 immediately after S.I. 2019/713, regs. 10-13 come into force) by [The Child Trust Funds (Amendment) Regulations 2020 (S.I. 2020/29)](https://www.legislation.gov.uk/uksi/2020/29), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/29/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/29/regulation/5)
+
+[^key-5a385a3298252ac423b7d292a3ca20a1]: Textual amendment: [Reg. 12(2B)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2B)[(2C)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2C) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/5/c)
+
+[^key-92b84bf0b420bec2180637446e09949f]: Textual amendment: [Reg. 12(2D)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2D)[(2E)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2E) inserted (15.7.2025) by [The Child Trust Funds (Amendment) Regulations 2025 (S.I. 2025/738)](https://www.legislation.gov.uk/uksi/2025/738), [regs. 1](https://www.legislation.gov.uk/uksi/2025/738/regulation/1), [2](https://www.legislation.gov.uk/uksi/2025/738/regulation/2)
+
+[^key-f765a3c47e3464fab10d821b7bbfba94]: Textual amendment: [Reg. 12(2F)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2F)[(2G)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/2G) inserted (6.4.2026) by [The Child Trust Funds (Amendment) Regulations 2026 (S.I. 2026/250)](https://www.legislation.gov.uk/uksi/2026/250), [regs. 1](https://www.legislation.gov.uk/uksi/2026/250/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/250/regulation/2/3/b)
+
+[^key-bd15289fa2d7c005b1ae7d7fbaf5dfdf]: Textual amendment: Words in reg. 12(3) substituted (6.4.2014) by [The Child Trust Funds (Amendment) Regulations 2014 (S.I. 2014/649)](https://www.legislation.gov.uk/uksi/2014/649), [regs. 1](https://www.legislation.gov.uk/uksi/2014/649/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/649/regulation/5/b)
+
+[^key-d0ebb9273079a1195f98be63422e4809]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/3) inserted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/269/regulation/5/2/a)
+
+[^key-8516e6595b6a0875e6fe3ff1f7b08541]: Textual amendment: Words in [reg. 12(3)(a)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/3/a) inserted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/269/regulation/5/2/b)
+
+[^key-89392c854d111bbf4f18670a8edfef55]: Textual amendment: Words in reg. 12(3)(a) omitted (6.4.2014) by virtue of [The Child Trust Funds (Amendment) Regulations 2014 (S.I. 2014/649)](https://www.legislation.gov.uk/uksi/2014/649), [regs. 1](https://www.legislation.gov.uk/uksi/2014/649/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2014/649/regulation/5/c)
+
+[^key-9da09d4ddb51038650d13bc4cc14ebe5]: Textual amendment: Words in reg. 12(3)(a) inserted (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2013/1744/regulation/5/c)
+
+[^key-7e2de7b9d06564b8692afdd0fc479bc9]: Textual amendment: Punctuation in reg. 12(5)(c) substituted (1.7.2015) by [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/1371/regulation/6)
+
+[^key-372cc451aac957a5cc5d2ff2537cbab2]: Textual amendment: Reg. 12(5)(d)-(f) inserted (1.7.2015) by [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/1371/regulation/6)
+
+[^key-051919b89ab6acfa1fc7fb9dc46e1447]: Textual amendment: Words in [reg. 12(5)(d)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/12/5/d) inserted (31.12.2020) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/713/regulation/1/2/c), [12(a)](https://www.legislation.gov.uk/uksi/2019/713/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a2c79fa8fc833c71ee842bb08cda32f0]: Textual amendment: Reg. 12(6) omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [5(f)](https://www.legislation.gov.uk/uksi/2010/582/regulation/5/f)
+
+[^key-11b1da858b02028d0a7c8b5a04f91774]: Textual amendment: Reg. 12(8)-(8B) substituted for reg. 12(8) (8.8.2012) by [The Child Trust Funds (Amendment) Regulations 2012 (S.I. 2012/1870)](https://www.legislation.gov.uk/uksi/2012/1870), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1870/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1870/regulation/2)
+
+[^key-1a3f1a56008ea186a09631b52582bee1]: Textual amendment: Words in reg. 12(9)(b)(iii) added (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [8](https://www.legislation.gov.uk/uksi/2004/2676/regulation/8)
+
+[^c5242361]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^c5242371]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-6bd3739d1f23f0b8dae29c14f9c46f5a]: Textual amendment: Words in reg. 12(9)(d)(ii) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [5(g)](https://www.legislation.gov.uk/uksi/2010/582/regulation/5/g)
+
+[^c5242391]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 431B was inserted by paragraphs 2 and 57 of schedule 8 to the [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).
+
+[^key-75bfae8a95b48500696957d8c2fd1c00]: Textual amendment: Reg. 12(12)(b)(i) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [5(h)](https://www.legislation.gov.uk/uksi/2010/582/regulation/5/h)
+
+[^key-97c54228872d35b90f4c7eca36045809]: Textual amendment: Words in reg. 13(3)(b)(i) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/9/a)
+
+[^key-783042fa32e5bd006d39f5be4bbdd035]: Textual amendment: Words in reg. 13(5)(c) added (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/9/b)
+
+[^key-5c9ec40eae82e6fadb24bf4cde686b11]: Textual amendment: Reg. 13(7)(da)(db) inserted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2010/582/regulation/6/a)
+
+[^key-b4dec4d02e012d5e236e103306b35517]: Textual amendment: Reg. 13(7)(e) substituted (1.10.2017) by [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/748/regulation/4/a)
+
+[^key-4416d26cc6b58e3688a5783a9aa000f5]: Textual amendment: Words in reg. 13(7) added (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2010/582/regulation/6/b)
+
+[^key-e7bf532db56fd31b6fc1f42734be680f]: Textual amendment: Words in reg. 13(10)(b) substituted (1.7.2015) by [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/1371/regulation/7)
+
+[^key-3567583276d336ed3b113b0779854f97]: Textual amendment: Reg. 13(11) added (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/9/c)
+
+[^key-5144fe4b6564567cb383a9d51137687c]: Textual amendment: Words in reg. 13(11) substituted (1.10.2017) by [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/748/regulation/4/b)
+
+[^key-06556233110372b927d1db8bcd510e2d]: Textual amendment: Words in reg. 13(11) added (6.4.2005) by [The Child Trust Funds (Amendment No. 2) Regulations 2004 (S.I. 2004/3382)](https://www.legislation.gov.uk/uksi/2004/3382), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3382/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/3382/regulation/3)
+
+[^key-b6aaed0b2054a3db9632271ff9e7a276]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/uksi/2004/1450/regulation/13A) inserted (6.4.2020) by [The Child Trust Funds (Amendment) Regulations 2020 (S.I. 2020/29)](https://www.legislation.gov.uk/uksi/2020/29), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/29/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2020/29/regulation/6)
+
+[^key-9c750bee27ee1af500806004fdadd608]: Textual amendment: Words in [reg. 13C(5)(c)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/13C/5/c) omitted (6.4.2023) by virtue of [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [6](https://www.legislation.gov.uk/uksi/2023/269/regulation/6)
+
+[^key-df0fdae92b33fa7b139f7390c0eec9a7]: Textual amendment: Words in reg. 14(2)(b)(ii) inserted (6.4.2005) by [The Child Trust Funds (Amendment No. 2) Regulations 2005 (S.I. 2005/909)](https://www.legislation.gov.uk/uksi/2005/909), [regs. 1](https://www.legislation.gov.uk/uksi/2005/909/regulation/1), [6](https://www.legislation.gov.uk/uksi/2005/909/regulation/6)
+
+[^key-b33708f0aca10b05349400303f5658ae]: Textual amendment: Reg. 14(2)(b)(iia) inserted (6.4.2005) by [The Child Trust Funds (Amendment No. 2) Regulations 2005 (S.I. 2005/909)](https://www.legislation.gov.uk/uksi/2005/909), [regs. 1](https://www.legislation.gov.uk/uksi/2005/909/regulation/1), [7](https://www.legislation.gov.uk/uksi/2005/909/regulation/7)
+
+[^key-5bab18d20aa38f9f0476571c412c5431]: Textual amendment: Reg. 14(2)(c) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Child Trust Funds (Amendment) Regulations 2013 (S.I. 2013/263)](https://www.legislation.gov.uk/uksi/2013/263), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2013/263/regulation/2/4/c)
+
+[^key-7e34dced42bc9944716ed87c248c84b6]: Textual amendment: Words in reg. 14(2)(d)(i) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(d)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/d/i)
+
+[^key-f78df7975ec5074aefe18a95ef95d34a]: Textual amendment: Words in reg. 14(2)(d)(i) substituted (6.4.2017) by [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/185/regulation/5)
+
+[^c5242411]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^key-bb01a7e3be1d5d8b8d764cb7c1b7a9cd]: Textual amendment: Reg. 14(2)(d)(ia) renumbered as reg. 14(2)(d)(iia) (27.12.2005) by [The Child Trust Funds (Amendment No. 3) Regulations 2005 (S.I. 2005/3349)](https://www.legislation.gov.uk/uksi/2005/3349), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3349/regulation/1), [6](https://www.legislation.gov.uk/uksi/2005/3349/regulation/6)
+
+[^key-56ae95dd9a6a8ab01948d3dca4f59124]: Textual amendment: Reg. 14(2)(d)(ia) inserted (6.4.2005) by [The Child Trust Funds (Amendment No. 2) Regulations 2005 (S.I. 2005/909)](https://www.legislation.gov.uk/uksi/2005/909), [regs. 1](https://www.legislation.gov.uk/uksi/2005/909/regulation/1), [8](https://www.legislation.gov.uk/uksi/2005/909/regulation/8)
+
+[^key-40bf5c6103220cc6448d43098ecef57f]: Textual amendment: Words in reg. 14(2)(d)(iia) substituted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [8](https://www.legislation.gov.uk/uksi/2013/1765/article/8)
+
+[^key-f600f875d872e7c922c59d6a28fa5146]: Textual amendment: Words in reg. 14(2)(d)(iii) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2010/582/regulation/7/a)
+
+[^key-35b986cbeae557a61d41419f0425a3dc]: Textual amendment: Reg. 14(2)(e) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 93(d)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/93/d/ii)
+
+[^key-b7fa4532e7c2828d881d58f2f1bd66d8]: Textual amendment: [Reg. 14(2)(f)(i)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/14/2/f/i) omitted (6.4.2024) by virtue of [The Child Trust Funds (Amendment) Regulations 2024 (S.I. 2024/349)](https://www.legislation.gov.uk/uksi/2024/349), [regs. 1](https://www.legislation.gov.uk/uksi/2024/349/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/349/regulation/2/3)
+
+[^key-76f844ceead1fd0a4e6a83a9f785cee8]: Textual amendment: Words in reg. 14(3) substituted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [10](https://www.legislation.gov.uk/uksi/2004/2676/regulation/10)
+
+[^key-344f606313c4b008add9844356b93e8b]: Textual amendment: Words in reg. 15(2)(a) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/582/regulation/8)
+
+[^key-5baa64175caa9d95eff192ba507270b3]: Textual amendment: Reg. 16(2A)(2B) inserted (16.11.2010) by [The Child Trust Funds (Amendment No. 4) Regulations 2010 (S.I. 2010/2599)](https://www.legislation.gov.uk/uksi/2010/2599), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2599/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/2599/regulation/3)
+
+[^key-2267c931501c7acad63f846191c0ffc2]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/16/3) substituted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2023/269/regulation/7/1)
+
+[^key-295e274d3368f25c23c0bef0bde85fef]: Textual amendment: Reg. 16(4) added (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [9](https://www.legislation.gov.uk/uksi/2010/582/regulation/9)
+
+[^key-458fea2e51138ea7f78744ef743c4982]: Textual amendment: [Reg. 16(5)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/16/5) inserted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2023/269/regulation/7/2)
+
+[^key-a3df2b27987c9f1f613e8e5b10b5f052]: Textual amendment: Reg. 18(ab) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [11](https://www.legislation.gov.uk/uksi/2004/2676/regulation/11)
+
+[^key-b0e1b50e222d77b5eade3bc89ce70016]: Textual amendment: Reg. 18A inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [12](https://www.legislation.gov.uk/uksi/2004/2676/regulation/12)
+
+[^key-c2525e39489c57788be0a83447a153df]: Textual amendment: Words in reg. 18A(2)(b) substituted (6.4.2014) by [The Child Trust Funds (Amendment) Regulations 2014 (S.I. 2014/649)](https://www.legislation.gov.uk/uksi/2014/649), [regs. 1](https://www.legislation.gov.uk/uksi/2014/649/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2014/649/regulation/6/1)
+
+[^key-aa90307176ad859b2d91828411060712]: Textual amendment: Words in [reg. 18A(2)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/2/b) omitted (26.7.2021) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/886/article/5/2/a/i)
+
+[^key-d13e3ed2f0513f2f3b8fddf6d435d7fd]: Textual amendment: Word in [reg. 18A(2)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/2/b) omitted (26.7.2021) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/886/article/5/2/a/ii)
+
+[^key-e19c7a96ae3d1000af465985b339717f]: Textual amendment: Words in [reg. 18A(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/2/b/ii) inserted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [8](https://www.legislation.gov.uk/uksi/2023/269/regulation/8)
+
+[^key-479302063f56b70de10fd3b5f19a44b7]: Textual amendment: Words in [reg. 18A(2)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/2/b) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [5(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/886/article/5/2/a/iii)
+
+[^key-8101b2616f693799f10626fdefe9663d]: Textual amendment: Words in [reg. 18A(2)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/2/b) inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/3/2/a)
+
+[^key-4bb2b0899e37df062e12751fc8787b8d]: Textual amendment: Words in reg. 18A(3) omitted (6.4.2014) by virtue of [The Child Trust Funds (Amendment) Regulations 2014 (S.I. 2014/649)](https://www.legislation.gov.uk/uksi/2014/649), [regs. 1](https://www.legislation.gov.uk/uksi/2014/649/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2014/649/regulation/6/2)
+
+[^key-1ae73ef83d6e168a4c60bc16c3136111]: Textual amendment: Words in reg. 18A(6) inserted (6.4.2014) by [The Child Trust Funds (Amendment) Regulations 2014 (S.I. 2014/649)](https://www.legislation.gov.uk/uksi/2014/649), [regs. 1](https://www.legislation.gov.uk/uksi/2014/649/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2014/649/regulation/6/3/a)
+
+[^key-f976c99b72d6ea04f558a1b0afa8bfb3]: Textual amendment: Words in [reg. 18A(6)(a)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/6/a) substituted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/886/article/5/2/b/i)
+
+[^key-2ef837bdda40287334a1e146831c5797]: Textual amendment: Words in reg. 18A(6) inserted (6.4.2014) by [The Child Trust Funds (Amendment) Regulations 2014 (S.I. 2014/649)](https://www.legislation.gov.uk/uksi/2014/649), [regs. 1](https://www.legislation.gov.uk/uksi/2014/649/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2014/649/regulation/6/3/b)
+
+[^key-bcfb6736937d3e95982b313ca1900871]: Textual amendment: Word in [reg. 18A(6)(a)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/6/a) omitted (26.7.2021) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/886/article/5/2/b/ii)
+
+[^key-fe522f5008d1b5cd5742e46fb2b33bda]: Textual amendment: Words in [reg. 18A(6)(b)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/6/b) inserted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [8](https://www.legislation.gov.uk/uksi/2023/269/regulation/8)
+
+[^key-bc5bf6c06e034b69edfd1b69b98cfa36]: Textual amendment: [Reg. 18A(6)(c)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/6/c) and word inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [5(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/886/article/5/2/b/iii)
+
+[^key-c611e21cead88af98a3cf94aedecda11]: Textual amendment: Words in [reg. 18A(6)(c)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/18A/6/c) inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/3/2/b)
+
+[^key-4e15422e453584875ff486e225be2297]: Textual amendment: Regs. 19, 19A substituted for reg. 19 (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/1744/regulation/6)
+
+[^key-e7cada29a419af6a5d6e1c663a96595a]: Textual amendment: [Reg. 19(6)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/19/6) inserted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [9](https://www.legislation.gov.uk/uksi/2023/269/regulation/9)
+
+[^key-e81529f1550a78fbd8c58a4c0155642f]: Textual amendment: Reg. 20(1)(b)(c) substituted for reg. 20(1)(b)-(d) (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2010/582/regulation/10/a)
+
+[^key-e21804a71a348673201ff8be84312f20]: Textual amendment: Reg. 20(1)(ba) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/34) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+
+[^key-982c8f2dfaa185225804ce7aab3ba7ec]: Textual amendment: Words in reg. 20(1)(e) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2010/582/regulation/10/b)
+
+[^key-f587bd6deb03606c2b4b4b2e2d11de74]: Textual amendment: Words in reg. 20(1)(e)(i) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2010/582/regulation/10/c)
+
+[^c5242431]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^key-0f9bd017ce23325d76410a170545e682]: Textual amendment: Words in reg. 20(3)(a) inserted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2010/582/regulation/10/d)
+
+[^key-3f493cbe6c902c5210fc0da2e602e67f]: Textual amendment: Word in reg. 20(3)(a) substituted (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/1744/regulation/7)
+
+[^key-5d9457cfd27a21cbbc6d95c24355fe89]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2004/1450/regulation/20/4) inserted (6.4.2023) by [The Child Trust Funds (Amendment) Regulations 2023 (S.I. 2023/269)](https://www.legislation.gov.uk/uksi/2023/269), [regs. 1](https://www.legislation.gov.uk/uksi/2023/269/regulation/1), [10](https://www.legislation.gov.uk/uksi/2023/269/regulation/10)
+
+[^key-b567b5d2b852b8f4f454874e7955c0c1]: Textual amendment: Reg. 20A inserted (6.4.2015) by [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/876/regulation/6)
+
+[^M_F_250e9264-3a1c-41bd-ee67-339ad82dd76b]: Textual amendment: Words in reg. 21 heading omitted (6.4.2015) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), regs. 1, 7
+
+[^key-8341a578f78714431ec6a5679b7a7dc0]: Textual amendment: Word in reg. 21(1)(a) omitted (5.8.2013) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2013/1744/regulation/8/a)
+
+[^key-3d422cd291448926e433f4107e66e98a]: Textual amendment: Word in reg. 21(1) omitted (6.4.2015) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2015/876/regulation/8/1)
+
+[^key-c4134c83246a14594a7e07ebe0e35e40]: Textual amendment: Reg. 21(1)(ba) inserted (6.4.2015) by [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2015/876/regulation/8/1)
+
+[^key-ac9ecf0af705ca38d93330ffc32fda62]: Textual amendment: Reg. 21(1)(c) inserted (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2013/1744/regulation/8/c)
+
+[^key-b2dbb301d6081dd0173e6b3e84edd2ca]: Textual amendment: Words in reg. 21(1)(c) omitted (6.4.2015) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/876/regulation/8/2)
+
+[^key-e3cc8445dc8e45b8cf6fcd2831de5d68]: Textual amendment: Words in reg. 21(2) inserted (6.4.2015) by [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/876/regulation/8/3)
+
+[^key-8d75d96e4c8f58b5b3015000c6aeec4e]: Textual amendment: Words in reg. 21(3)(a) substituted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/13/a)
+
+[^key-7c6cc078c6ad14391cc1cfb138f6f3b9]: Textual amendment: Words in reg. 21(3) added (1.7.2015) by [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [8](https://www.legislation.gov.uk/uksi/2015/1371/regulation/8)
+
+[^key-0fcf91c6eae229f2ec51c4495f874a89]: Textual amendment: Reg. 21(3A)-(3G) inserted (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [8(d)(ii)](https://www.legislation.gov.uk/uksi/2013/1744/regulation/8/d/ii)
+
+[^key-5081fad047307b02674ff5d188572a46]: Textual amendment: Words in reg. 21(3A) inserted (6.4.2015) by [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2015/876/regulation/8/4)
+
+[^key-c12589c45117cb03dad89270420798bc]: Textual amendment: Reg. 21(3B)-(3F) omitted (6.4.2015) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2015/876/regulation/8/5)
+
+[^key-8b6901d358f1173c01a808489b2b0b31]: Textual amendment: Words in reg. 21(3G) omitted (6.4.2015) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [8(6)](https://www.legislation.gov.uk/uksi/2015/876/regulation/8/6)
+
+[^key-85537e8f304651842ec4f096d0a8779b]: Textual amendment: Reg. 21(3A) renumbered as reg. 21(3H) (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [8(d)(i)](https://www.legislation.gov.uk/uksi/2013/1744/regulation/8/d/i)
+
+[^key-7080c68d8ab3acfa47f6b6b3d656070c]: Textual amendment: Reg. 21(3A) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/13/b)
+
+[^key-f73f197a97bc7d5745b767078217208a]: Textual amendment: Words in reg. 21(4) omitted (6.4.2017) by virtue of [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2017/185/regulation/6/a)
+
+[^key-ce30c896c10bed13d13dc90f66fbd12f]: Textual amendment: Reg. 21(4A) inserted (6.4.2015) by [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [8(7)](https://www.legislation.gov.uk/uksi/2015/876/regulation/8/7)
+
+[^key-998f783e8c8b491fbc0cde8b816abc8a]: Textual amendment: Words in reg. 21(4A) omitted (6.4.2017) by virtue of [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2017/185/regulation/6/b)
+
+[^key-65705b8e7eef820a900d207ed541f35e]: Textual amendment: Words in reg. 21(5)(b)(iv) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment) Regulations 2013 (S.I. 2013/263)](https://www.legislation.gov.uk/uksi/2013/263), [reg. 2(4)(d)](https://www.legislation.gov.uk/uksi/2013/263/regulation/2/4/d)
+
+[^key-3d5b17d89843113ea4361d0169b8186b]: Textual amendment: Reg. 21(5)(b)(v) and preceding word added (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [11](https://www.legislation.gov.uk/uksi/2010/582/regulation/11)
+
+[^key-9131e9c002ee165022c81cf6a459d3e9]: Textual amendment: Reg. 21(6) omitted (6.4.2017) by virtue of [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2017/185/regulation/6/c)
+
+[^key-9f59d9c65d597416d2706eac381ff337]: Textual amendment: Words in reg. 22(2)(a) inserted (6.4.2009) by [The Child Trust Funds (Amendment) Regulations 2009 (S.I. 2009/475)](https://www.legislation.gov.uk/uksi/2009/475), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/475/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2009/475/regulation/6/a)
+
+[^c5242441]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^key-9d98686210b178ae9ed5880c1e04fac6]: Textual amendment: Reg. 22(2)(c) and preceding word inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2005 (S.I. 2005/383)](https://www.legislation.gov.uk/uksi/2005/383), [regs. 1](https://www.legislation.gov.uk/uksi/2005/383/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2005/383/regulation/4/a)
+
+[^key-74f0eeb6ab26fcdaa3b3a0155f1fb14f]: Textual amendment: Words in reg. 22(2)(c) inserted (6.4.2009) by [The Child Trust Funds (Amendment) Regulations 2009 (S.I. 2009/475)](https://www.legislation.gov.uk/uksi/2009/475), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/475/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2009/475/regulation/6/b/i)
+
+[^key-aa6323a9f6ae7e506d3b2c6cfbfa199b]: Textual amendment: Words in reg. 22(2)(c) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Trust Funds (Amendment No. 2) Regulations 2010 (S.I. 2010/836)](https://www.legislation.gov.uk/uksi/2010/836), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/836/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/836/regulation/4)
+
+[^key-ab78a4e4dda2bcc1e632b30f8139d96f]: Textual amendment: Words in reg. 22(2)(c) substituted (6.4.2009) by [The Child Trust Funds (Amendment) Regulations 2009 (S.I. 2009/475)](https://www.legislation.gov.uk/uksi/2009/475), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/475/regulation/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2009/475/regulation/6/b/ii)
+
+[^key-ea017d0c8a3316d985d3233bd5d52efb]: Textual amendment: Words in reg. 22(2) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2005 (S.I. 2005/383)](https://www.legislation.gov.uk/uksi/2005/383), [regs. 1](https://www.legislation.gov.uk/uksi/2005/383/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2005/383/regulation/4/b)
+
+[^c5242451]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^key-c0f1f98b4a2d814b04bc4f187c109877]: Textual amendment: Words in reg. 24(a)(i) added (1.1.2007) by [The Child Trust Funds (Amendment No. 3) Regulations 2006 (S.I. 2006/3195)](https://www.legislation.gov.uk/uksi/2006/3195), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3195/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2006/3195/regulation/4/a)
+
+[^key-ebe3d6c7a30c9bf40d8493fde3bec586]: Textual amendment: Reg. 24(a)(ia) inserted (27.12.2005) by [The Child Trust Funds (Amendment No. 3) Regulations 2005 (S.I. 2005/3349)](https://www.legislation.gov.uk/uksi/2005/3349), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3349/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2005/3349/regulation/7/a)
+
+[^key-46868cf7dab36f3241a41e68953202be]: Textual amendment: Reg. 24(a)(ib) inserted (1.1.2007) by [The Child Trust Funds (Amendment No. 3) Regulations 2006 (S.I. 2006/3195)](https://www.legislation.gov.uk/uksi/2006/3195), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3195/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2006/3195/regulation/4/b)
+
+[^key-9a22df0a2dcfe9639d4ac1fbb4481b51]: Textual amendment: Words in reg. 24(a)(ii) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2010/582/regulation/12/a)
+
+[^key-2a9a84bd4c9642f61f2d74d94a9b331e]: Textual amendment: Reg. 24(a)(iv) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2010/582/regulation/12/b)
+
+[^key-f30828b9993492217764d99f3e42f6be]: Textual amendment: Words in reg. 24(a)(v) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2010/582/regulation/12/c)
+
+[^key-91416bb6f52c9f3b28b942a0a8f1e44d]: Textual amendment: Reg. 24(ba) inserted (1.1.2007) by [The Child Trust Funds (Amendment No. 3) Regulations 2006 (S.I. 2006/3195)](https://www.legislation.gov.uk/uksi/2006/3195), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3195/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/3195/regulation/5)
+
+[^key-417e2d6ff4f2d8aa770319942e5f3a4d]: Textual amendment: Words in reg. 24(c) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2010/582/regulation/12/d)
+
+[^key-af8a38c08bfac3966a6735a7e397c18f]: Textual amendment: Words in reg. 24(c)(iii) substituted (27.12.2005) by [The Child Trust Funds (Amendment No. 3) Regulations 2005 (S.I. 2005/3349)](https://www.legislation.gov.uk/uksi/2005/3349), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3349/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2005/3349/regulation/7/b)
+
+[^M_F_6d196882-09d3-40aa-b908-2e283df984aa]: Textual amendment: Words in reg. 24(d) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [12(e)](https://www.legislation.gov.uk/uksi/2010/582/regulation/12/e)
+
+[^key-35d76808d3371af9b2839260b328f807]: Textual amendment: Words in reg. 24(f) substituted (27.12.2005) by [The Child Trust Funds (Amendment No. 3) Regulations 2005 (S.I. 2005/3349)](https://www.legislation.gov.uk/uksi/2005/3349), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3349/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2005/3349/regulation/7/c)
+
+[^key-4bfbd97063fe0a926f919bb24c525a4a]: Textual amendment: Words in reg. 25(3) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [13](https://www.legislation.gov.uk/uksi/2010/582/regulation/13)
+
+[^key-966681bee957ecc6f2b8f01ceb11acff]: Textual amendment: Words in reg. 28(3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 127(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/127/2/a)
+
+[^key-a3ccab32b5ee6a3f7f8c29df5ddc4e3f]: Textual amendment: Words in reg. 28(3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 127(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/127/2/b)
+
+[^key-91b41ea0c03de8bc96a09d3b86be6dbe]: Textual amendment: Words in reg. 28(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 127(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/127/3)
+
+[^key-5b9cb4f5c613fa3fc3c5d0da78b850f4]: Textual amendment: Reg. 29(4) omitted (6.4.2012) by virtue of [The Child Trust Funds, Registered Pension Schemes and Stamp Duty Reserve Tax (Consequential Amendments) Regulations 2012 (S.I. 2012/886)](https://www.legislation.gov.uk/uksi/2012/886), [regs. 1](https://www.legislation.gov.uk/uksi/2012/886/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/886/regulation/2/2)
+
+[^key-19c3de8296cca946116488605ad5828b]: Textual amendment: Reg. 30 omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Child Trust Funds (Amendment) Regulations 2013 (S.I. 2013/263)](https://www.legislation.gov.uk/uksi/2013/263), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2013/263/regulation/2/3)
+
+[^key-23683cb290788fd901e69121f69a3750]: Textual amendment: Words in reg. 31(2) inserted (6.4.2015) by [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2015/876/regulation/9/1)
+
+[^key-90f0869ed81d3bf2b7974517d41d2684]: Textual amendment: Reg. 31(3), (4) omitted (6.4.2015) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2015/876/regulation/9/2)
+
+[^key-0f3499d247bd49b98ea4f6e3dd2113d9]: Textual amendment: Words in reg. 32(2) omitted (6.4.2015) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2015/876/regulation/10/a)
+
+[^key-54cb2d4fefe9f34fb09afb51cb5c032e]: Textual amendment: Words in reg. 32(2) inserted (6.4.2015) by [The Child Trust Funds (Amendment No. 2) Regulations 2015 (S.I. 2015/876)](https://www.legislation.gov.uk/uksi/2015/876), [regs. 1](https://www.legislation.gov.uk/uksi/2015/876/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/876/regulation/10/b)
+
+[^key-f92c03bc624863fea2bfdcc333f26370]: Textual amendment: Reg. 32(2)(a)(i)(ii) omitted (6.4.2005) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2005 (S.I. 2005/909)](https://www.legislation.gov.uk/uksi/2005/909), [regs. 1](https://www.legislation.gov.uk/uksi/2005/909/regulation/1), [9](https://www.legislation.gov.uk/uksi/2005/909/regulation/9)
+
+[^key-1df4968d0d8b6be6c1b7a761abd3c7f8]: Textual amendment: Reg. 32(2A) inserted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [14](https://www.legislation.gov.uk/uksi/2010/582/regulation/14)
+
+[^key-7ab5c56eda83fe4ba9e12de8e3892626]: Textual amendment: Reg. 33 omitted (7.4.2011) by virtue of [The Child Trust Funds (Amendment) Regulations 2011 (S.I. 2011/781)](https://www.legislation.gov.uk/uksi/2011/781), [regs. 1](https://www.legislation.gov.uk/uksi/2011/781/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/781/regulation/3)
+
+[^key-8fdf693f2ae19c79ad31b10f04aeba30]: Textual amendment: Reg. 33A inserted (6.4.2005) by [The Child Trust Funds (Amendment No. 2) Regulations 2004 (S.I. 2004/3382)](https://www.legislation.gov.uk/uksi/2004/3382), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3382/regulation/1), [5](https://www.legislation.gov.uk/uksi/2004/3382/regulation/5)
+
+[^M_F_918d44af-3d94-4d5d-9129-212c67c61523]: Textual amendment: Words in reg. 33A heading substituted (1.10.2017) by [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/a)
+
+[^key-fd1d24122557430cffba0ec0ab28dd47]: Textual amendment: Reg. 33A(1) substituted (1.10.2017) by [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/b)
+
+[^key-aa7ddce0966fc2074cde896d0375c164]: Textual amendment: Reg. 33A(2)(za)(zb) inserted (1.10.2017) by [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(c)(i)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/c/i)
+
+[^key-33a3c6edd62d6a26bfba1c78f13f5144]: Textual amendment: Words in reg. 33A(2)(a) substituted (1.10.2017) by [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/c/ii)
+
+[^key-c49a9b98acb6f1cc9eff0c58d431058e]: Textual amendment: Words in reg. 33A(2) substituted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/21/a)
+
+[^key-81f11a7b275808a5aa550e6fcaf54fa9]: Textual amendment: Words in reg. 33A(2) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/21/b)
+
+[^key-d2d60bc502cf06fefa2f37235d13d152]: Textual amendment: Words in reg. 33A(2) omitted (6.4.2017) by virtue of [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2017/185/regulation/7/a/i)
+
+[^key-a1433af5decd23622f3ba9f1fb4dd100]: Textual amendment: Words in reg. 33A(2) inserted (6.4.2017) by [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2017/185/regulation/7/a/ii)
+
+[^key-230a5dab4c17d450e8fe25485abf8b80]: Textual amendment: Words in reg. 33A(2) added (31.10.2006) by [The Child Trust Funds (Amendment No. 2) Regulations 2006 (S.I. 2006/2684)](https://www.legislation.gov.uk/uksi/2006/2684), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2684/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/2684/regulation/5)
+
+[^key-8f7247baf4b28b6414f5cd5d314734a0]: Textual amendment: Reg. 33A(2A) omitted (1.10.2017) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/d)
+
+[^key-e492759b78045e418b04b75225f54259]: Textual amendment: Reg. 33A(2B) omitted (1.10.2017) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/d)
+
+[^key-d77d719b879543667dfc88ad4c67c911]: Textual amendment: Reg. 33A(3) omitted (1.10.2017) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/d)
+
+[^key-6b4bca1fafb468e0f195769a88a45f6e]: Textual amendment: Words in reg. 33A(4) substituted (1.10.2017) by [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(e)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/e)
+
+[^key-8ec768837660bd7960a55d4588550bd4]: Textual amendment: Words in reg. 33A(4)(a) substituted (1.7.2015) by [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2015/1371/regulation/9/b)
+
+[^key-06bda840a7620ee9c5d766eca5b546de]: Textual amendment: Words in reg. 33A(4)(b) omitted (1.7.2015) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2015/1371/regulation/9/c)
+
+[^key-4f046de07e640754d41e33714093316e]: Textual amendment: Words in reg. 33A(4)(c) omitted (1.7.2015) by virtue of [The Child Trust Funds (Amendment No. 3) Regulations 2015 (S.I. 2015/1371)](https://www.legislation.gov.uk/uksi/2015/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1371/regulation/1), [9(d)](https://www.legislation.gov.uk/uksi/2015/1371/regulation/9/d)
+
+[^key-abede3c2596753e7bad2499bfc11e991]: Textual amendment: Reg. 33A(5) omitted (1.10.2017) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/d)
+
+[^key-df52e1c3eda0c44f17d178a2aae4833b]: Textual amendment: Reg. 33A(6) substituted (7.4.2011) by [The Child Trust Funds (Amendment) Regulations 2011 (S.I. 2011/781)](https://www.legislation.gov.uk/uksi/2011/781), [regs. 1](https://www.legislation.gov.uk/uksi/2011/781/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/781/regulation/4/d)
+
+[^key-98950f2572463e844139c995d57c2b8c]: Textual amendment: Words in reg. 33A(6) omitted (6.4.2017) by virtue of [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/uksi/2017/185/regulation/7/b/i)
+
+[^key-68e9edb42b1dfa493685d6b531c0f295]: Textual amendment: Words in reg. 33A(6) inserted (6.4.2017) by [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2017/185/regulation/7/b/ii)
+
+[^key-9014fd132716f88ff3e904927e6195d2]: Textual amendment: Words in reg. 33A(6) omitted (1.10.2017) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(f)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/f)
+
+[^key-2f85cc12821bb6a374b90abe6776d6e8]: Textual amendment: Reg. 33A(7) inserted (1.10.2017) by [The Child Trust Funds (Amendment No. 2) Regulations 2017 (S.I. 2017/748)](https://www.legislation.gov.uk/uksi/2017/748), [regs. 1](https://www.legislation.gov.uk/uksi/2017/748/regulation/1), [5(g)](https://www.legislation.gov.uk/uksi/2017/748/regulation/5/g)
+
+[^key-4c34db5163a1628959ae1c1f6f3f4772]: Textual amendment: Regs. 34, 35 omitted (6.4.2010) by virtue of [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [16](https://www.legislation.gov.uk/uksi/2010/582/regulation/16)
+
+[^c5242521]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
+
+[^c5242531]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^key-6eec4cb56427e530fbed87df1dfc3060]: Textual amendment: Words in reg. 37(5)(a) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2010/582/regulation/17/a)
+
+[^key-6ac3944746421badf600302e7f270f36]: Textual amendment: Words in reg. 37(5)(b) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2010/582/regulation/17/b)
+
+[^key-b35a63595c120b0af66b1142323d5d89]: Textual amendment: Words in reg. 38 title inserted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2010/582/regulation/18/a)
+
+[^key-41a934199f06cf487b59f5ec2dbb33eb]: Textual amendment: Words in reg. 38(4) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2010/582/regulation/18/b)
+
+[^key-ed7e740c076d9e9c080df66d8acedd77]: Textual amendment: Reg. 38(5) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [18(c)](https://www.legislation.gov.uk/uksi/2010/582/regulation/18/c)
+
+[^key-77d77c2bfa50c126b78030c2b54ba6b8]: Textual amendment: Word in reg. 38(9) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [18(d)](https://www.legislation.gov.uk/uksi/2010/582/regulation/18/d)
+
+[^key-5a9bd8714ee3237eec403d8f0b11f360]: Textual amendment: Word in reg. 38(10)(a) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [18(d)](https://www.legislation.gov.uk/uksi/2010/582/regulation/18/d)
+
+[^key-1265c7ec0c8303608aef871bb4d67369]: Textual amendment: Words in reg. 38(10)(b) substituted (6.4.2010) by [The Child Trust Funds (Amendment) Regulations 2010 (S.I. 2010/582)](https://www.legislation.gov.uk/uksi/2010/582), [regs. 1](https://www.legislation.gov.uk/uksi/2010/582/regulation/1), [18(e)](https://www.legislation.gov.uk/uksi/2010/582/regulation/18/e)
+
+[^key-aef3a58b685184258eef75e23426339d]: Textual amendment: Sch. para. 2(2)(a)(via) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/a)
+
+[^key-3e665d037fd0d099bb63fc1b7c250bf0]: Textual amendment: Words in Sch. paras. 2(2)(a)(via) inserted (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2013/1744/regulation/10/a)
+
+[^key-62aee1bb44382e6558a80e0059dbd98e]: Textual amendment: Words in [Sch. para. 2(2)(a)(via)](https://www.legislation.gov.uk/uksi/2004/1450/schedule/paragraph/2/2/a/via) inserted (31.12.2020) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/713/regulation/1/2/c), [13](https://www.legislation.gov.uk/uksi/2019/713/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9f654641a64e972967e17b6e93830a2e]: Textual amendment: [Sch. para. 2(2)(a)(viii)-(x)](https://www.legislation.gov.uk/uksi/2004/1450/schedule/paragraph/2/2/a/viii) inserted (4.11.2024) by [The Child Trust Funds (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1023)](https://www.legislation.gov.uk/uksi/2024/1023), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1023/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2024/1023/regulation/6/2)
+
+[^key-9700daf5a7f3fc21f91f8196b6c43c8b]: Textual amendment: Words in Sch. para. 2(2)(b) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(b)(i)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/b/i)
+
+[^key-7a316936b30408c4548a378f69651326]: Textual amendment: Word in Sch. para. 2(2)(b) omitted (6.4.2005) by virtue of [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(b)(i)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/b/i)
+
+[^key-c81964015afc9e2b9567b3afe6b9d9df]: Textual amendment: Words in Sch. para. 2(2)(b) omitted (6.4.2005) by virtue of [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(b)(ii)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/b/ii)
+
+[^key-951df23ce3206f13516c81345a02e040]: Textual amendment: Sch. paras. 2(2)(ba)(bb) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(c)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/c)
+
+[^key-54673325e342050f7c69ffbaf79a0f6b]: Textual amendment: Words in Sch. para. 2(2)(ba) added (31.10.2006) by [The Child Trust Funds (Amendment No. 2) Regulations 2006 (S.I. 2006/2684)](https://www.legislation.gov.uk/uksi/2006/2684), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2684/regulation/1), [6](https://www.legislation.gov.uk/uksi/2006/2684/regulation/6)
+
+[^key-ff56b0bf38de58a190944c246465242d]: Textual amendment: Sch. para. 2(2)(baa) inserted (6.4.2005) by [The Child Trust Funds (Amendment No. 2) Regulations 2004 (S.I. 2004/3382)](https://www.legislation.gov.uk/uksi/2004/3382), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3382/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2004/3382/regulation/6/a)
+
+[^key-3097dac4023c3aff5a535eccc94bcbc6]: Textual amendment: Words in Sch. para. 2(2)(bb)(i) substituted (6.4.2005) by [The Child Trust Funds (Amendment No. 2) Regulations 2004 (S.I. 2004/3382)](https://www.legislation.gov.uk/uksi/2004/3382), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3382/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2004/3382/regulation/6/b)
+
+[^key-c512bb99f0cfde39ea38add3b85ed9b8]: Textual amendment: Word in Sch. para. 2(2)(bb)(ii) omitted (6.4.2005) by virtue of [The Child Trust Funds (Amendment No. 2) Regulations 2004 (S.I. 2004/3382)](https://www.legislation.gov.uk/uksi/2004/3382), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3382/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2004/3382/regulation/6/c)
+
+[^key-a2043f2817e2848304ffc4cfef4bee47]: Textual amendment: Words in Sch. para. 2(2)(c) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(d)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/d)
+
+[^key-418528dc96809bd923e6a883bc9d77e9]: Textual amendment: Word in Sch. para. 2(2)(c) omitted (6.4.2005) by virtue of [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(d)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/d)
+
+[^key-9ce2dc72a0b91e2d4ce22fa7410a8912]: Textual amendment: Punctuation in Sch. para. 2(2)(c)(ii) substituted (6.4.2017) by [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2017/185/regulation/8/a)
+
+[^key-e3f53d51652931226c0d118f19f04c1b]: Textual amendment: Sch. para. 2(2)(d) omitted (6.4.2017) by virtue of [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2017/185/regulation/8/b)
+
+[^key-095a33098c04198140a12d61c1a9cf13]: Textual amendment: Words in Sch. para. 2(3) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(e)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/e)
+
+[^key-bd4dd06928e0a6879eb5f213d4414870]: Textual amendment: Words in Sch. para. 2(6) inserted (5.8.2013) by [The Child Trust Funds (Amendment No. 2) Regulations 2013 (S.I. 2013/1744)](https://www.legislation.gov.uk/uksi/2013/1744), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1744/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2013/1744/regulation/10/b)
+
+[^key-0634037b880a2814aefad0e5f557f62f]: Textual amendment: Words in [Sch. para. 2(6)](https://www.legislation.gov.uk/uksi/2004/1450/schedule/paragraph/2/6) inserted (31.12.2020) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/713/regulation/1/2/c), [13](https://www.legislation.gov.uk/uksi/2019/713/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f725e2f2baf9b60b79914f7d06318b73]: Textual amendment: Words in Sch. para. 2(6) omitted (6.4.2017) by virtue of [The Child Trust Funds (Amendment) Regulations 2017 (S.I. 2017/185)](https://www.legislation.gov.uk/uksi/2017/185), [regs. 1](https://www.legislation.gov.uk/uksi/2017/185/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2017/185/regulation/8/c)
+
+[^key-99797b2826676c406a441b791d7375d6]: Textual amendment: Words in Sch. para. 3(5)(a) added (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(f)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/f)
+
+[^key-fd39603efda5307ac24c3845bcd2ec63]: Textual amendment: Sch. para. 3(5)(aa) inserted (6.4.2005) by [The Child Trust Funds (Amendment) Regulations 2004 (S.I. 2004/2676)](https://www.legislation.gov.uk/uksi/2004/2676), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2676/regulation/1), [15(g)](https://www.legislation.gov.uk/uksi/2004/2676/regulation/15/g)

@@ -1,0 +1,685 @@
+---
+title: The INSPIRE Regulations 2009
+id: uksi/2009/3157
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-12-01'
+text_date: '2026-09-30'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2009/3157
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/3157/pdfs/uksiem_20093157_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3157/pdfs/uksi_20093157_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3157/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The INSPIRE Regulations 2009
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2009 No. 3157
+
+Environmental Protection
+
+Public Sector Information
+
+The INSPIRE Regulations 2009
+
+Made
+
+1st December 2009
+
+Laid before Parliament
+
+7th December 2009
+
+Coming into force
+
+31st December 2009
+
+The Secretary of State, who is designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the environment[^f00002], makes the following Regulations in exercise of the powers conferred under section 2(2) of and paragraph 1A of Schedule 2[^f00003] to the European Communities Act 1972.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for the references in these Regulations to the Regulation specified in paragraph (a), and to the provisions of the Directive specified in paragraph (b), to be construed as references to that Regulation or those provisions as amended from time to time—
+
+- (a) [Commission Regulation (EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) regarding metadata[^f00004], and
+- (b) Annexes I, II and III to Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)[^f00005].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the INSPIRE Regulations 2009 and come into force on 31st December 2009.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “the Act” means the Freedom of Information Act 2000[^f00006];
+- “ Commission Regulation (EU) No. 1089/2010 ” means Commission Regulation (EU) 1089/2010 implementing Directive[^key-8df50e75e2d9fc96f3b5d7599edcc838] [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council as regards interoperability of spatial data sets and services;
+- [^key-63661d02170c2d6c54fe0b6dbca66198]...
+- “discovery service” means a service described in regulation 7(2)(a);
+- “interoperability” means the possibility for spatial data sets to be combined, and for services to interact, without repetitive manual intervention, in such a way that the result is coherent and the added value of the data sets and services is enhanced;[^key-64893db8feedfe15b0ffd8e4402b734f]
+- “metadata” means information describing spatial data sets and spatial data services and making it possible to discover, inventory and use them;
+- “Metadata Regulation” means [Commission Regulation (EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) regarding metadata;
+- “public authority” has the meaning given by regulation 3;
+- “Scottish public authority” means—
+  - (a) a body referred to in section 80(2) of the Act, or
+  - (b) in so far as not such a body, a Scottish public authority as defined in section 3 of the Freedom of Information (Scotland) Act 2002[^f00007];
+- “Scottish third party” means—
+  - (a) an individual whose address is in Scotland, or
+  - (b) a body corporate, partnership or unincorporated association whose principal office is in Scotland,
+
+  but does not include a Scottish public authority;
+- “spatial data” means any data with a direct or indirect reference to a specific location or geographical area;
+- “spatial data service” means a service which consists of operations which may be performed, by invoking a computer application—
+  - (a) on the spatial data contained in a spatial data set, or
+  - (b) on the metadata related to a spatial data set;
+- “spatial data set” means an identifiable collection of spatial data which—
+  - (a) are in electronic format,
+  - (b) relate to one or more of the themes listed in Annex 1, 2 or 3 to the Metadata Regulation[^key-06b7ad8bcab522a5066ce0d750bd3864], and
+  - (c) relate to—
+    - (i) the United Kingdom,
+    - (ii) Gibraltar,
+    - (iii) the territorial sea of the United Kingdom[^f00008],
+    - (iv) an area of the continental shelf for the time being designated by an Order in Council under section 1(7) of the Continental Shelf Act 1964[^f00009], or
+    - (v) an area, outside the territorial sea of the United Kingdom, for the time being designated by an Order in Council under section 84(4) of the Energy Act 2004[^f00010];
+- “third party” means (except as otherwise provided by regulation 9(7)) a person other than—
+  - (a) a public authority or a Scottish public authority,
+  - (b) a person holding a spatial data set or operating a spatial data service on behalf of a public authority or a Scottish public authority,
+  - (c) a Scottish third party, or
+  - (d) a person holding a spatial data set or operating a spatial data service on behalf of a Scottish third party.
+
+(2)[^key-d78cc7f93875f9f6862066967c177bb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) For the purposes of these Regulations—
+
+- (a) a public authority is responsible for a spatial data set if—
+  - (i) that authority holds that data set (other than on behalf of another person), or
+  - (ii) another person holds that data set on behalf of that authority;
+- (b) a public authority is responsible for a spatial data service if—
+  - (i) that authority operates that data service (other than on behalf of another person), or
+  - (ii) another person operates that data service on behalf of that authority;
+- (c) a third party is responsible for a spatial data set if—
+  - (i) that third party holds that data set (other than on behalf of another person), or
+  - (ii) another person holds that data set on behalf of that third party; and
+- (d) a third party is responsible for a spatial data service if—
+  - (i) that third party operates that data service (other than on behalf of another person), or
+  - (ii) another person operates that data service on behalf of that third party.
+
+(4)[^key-c029bb9806e1b691ff0e4dd0b0b04a7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Public authority
+
+(1) In these Regulations “public authority” means—
+
+- (a) a government department;
+- (b) any other public authority as defined in section 3(1) of the Act, disregarding for this purpose the exceptions in paragraph 6 of Schedule 1 to the Act, but excluding—
+  - (i) any body or office-holder listed in Schedule 1 to the Act only in relation to information of a specified description, or
+  - (ii) any person designated by order under section 5 of the Act;
+- (c) any other body or other person that carries out functions of public administration; or
+- (d) any other body or other person that is under the control of a person falling within sub-paragraph (a), (b) or (c) and has public responsibilities relating to the environment, exercises functions of a public nature relating to the environment, or provides public services relating to the environment.
+
+(2) But in regulation 12 (data-sharing between public authorities etc.), “public authority” does not include the bodies or persons falling within paragraph (1)(d).
+
+(3) Except as provided by regulation 9(7), a Scottish public authority is not a public authority for the purposes of these Regulations.
+
+(4) These Regulations do not apply to any public authority to the extent that it is acting in a judicial or legislative capacity.
+
+(5) These Regulations do not apply to either House of Parliament to the extent required for the purpose of avoiding an infringement of the privileges of either House.
+
+(6) Each government department is to be treated as a person separate from any other government department for the purposes of these Regulations.
+
+## 4. Scope of application of the Regulations: spatial data sets and spatial data services
+
+(1) In so far as a provision of these Regulations concerns a spatial data set for which a public authority is responsible, that provision applies in relation to that spatial data set only if that data set is held—
+
+- (a) by a public authority which has produced or received that data set, or manages or updates that data set, within the scope of its public tasks; or
+- (b) by another person on behalf of a public authority which has produced or received that data set, or managed or updated that data set, within the scope of that authority’s public tasks.
+
+(2) But—
+
+- (a) that provision does not apply in relation to a spatial data set which is held by or on behalf of—
+  - (i) in England, a parish council within the meaning of the Local Government Act 1972[^f00011], or
+  - (ii) in Wales, a community council within the meaning of that Act,
+
+  unless that body is subject to a legal requirement to collect or disseminate the data contained in that data set; and
+- (b) where multiple identical copies of the same spatial data set are held by or on behalf of various public authorities, that provision applies only in relation to the reference version from which the various copies are derived.
+
+(3) Subject to paragraph (4), in so far as a provision of these Regulations concerns a spatial data set for which a third party is responsible, that provision applies in relation to that spatial data set only if that data set has been linked to a network of related spatial data sets following satisfaction of the conditions specified in regulation 8(3).
+
+(4) The proviso specified in paragraph (3) does not apply to regulation 8(2).
+
+(5) In so far as a provision of these Regulations concerns a spatial data service, that provision applies in relation to that spatial data service only if that provision applies in relation to the spatial data set to which that spatial data service relates.
+
+## 5. Intellectual property rights
+
+Where—
+
+- (a) a public authority or a third party (“P”) is responsible for a spatial data set; and
+- (b) a person other than P (“X”) holds intellectual property rights in relation to that data set,
+
+P must not take any action under these Regulations in relation to that data set unless P has X’s consent to take that action.
+
+## 6. Metadata
+
+(1) A public authority or a third party must create metadata[^f00012] in relation to any spatial data set or spatial data service for which that authority or third party is responsible.
+
+(2) Metadata in relation to a spatial data set or a spatial data service must include the following information—
+
+- (a) the quality and validity of that data set or data service;
+- (aa)[^key-0eec97a1f6255aa061a38db133813f93] (where the metadata relates to a spatial data set corresponding to the themes listed in Annex 1 to the Metadata Regulation[^key-824b815b7ccd0184786f7c3ec860514a] or to a spatial data service relating to such a data set) the conformity of that data set or data service with the requirements as to interoperability set out in regulation 6A;
+- (b) the person responsible for the establishment, management, maintenance and distribution of that data set or data service;
+- (c) any limitations on public access to that data set or data service, and the reasons for such limitations;
+- (d) any conditions applying to access to, and use of, that data set or data service; and
+- (e) any charges payable in relation to access to, and use of, that data set or data service.
+
+(2A)[^key-0fb6cf167bb876411a0f29a882fa06b5] The information in paragraph (2)(aa) regarding conformity with requirements as to interoperability must be included from the date by which the requirements in question apply.
+
+(3) Metadata must be complete and must be kept up to date.
+
+(4)[^key-721bc12d8d9f83889f1d2f59887ef1c2] Public authorities must ensure that they have in place metadata relating to—
+
+- (a) spatial data sets corresponding to the themes listed in Annexes 1 to 3 to the Metadata Regulation; and
+- (b) spatial data services relating to those data sets.
+
+(5)[^key-af584ea28aecc2fbfbd54e3de32ec77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6A. Interoperability[^key-4a209cdc8f8c8097ad2406bc97659a0c]
+
+(1) A public authority or a third party must ensure that the following are available in accordance with paragraph (2)—
+
+- (a) any spatial data set for which that authority or third party is responsible and which corresponds to the themes listed in Annex 1 to the Metadata Regulation[^key-874169a028363a2386c27e31d5fbb254]; and
+- (b) any spatial data service for which that authority or third party is responsible and which relates to a data set described in sub-paragraph (a).
+
+(2)[^key-c5b0d4ce3f9b14c564de87771bc07705] The spatial data sets and spatial data services described in paragraph (1) must be available in conformity with the requirements as to the interoperability of spatial data sets and spatial data services set out in Commission Regulation (EU) No. 1089/2010.
+
+(3) Spatial data sets may be made available in conformity through—
+
+- (a) the adaptation of existing data sets; or
+- (b) the transformation services specified in regulation 7(2)(d).
+
+(4)[^key-716ea350ea952ed8fc240a38ef57232e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Network services
+
+(1) A public authority or a third party must establish and operate the services[^f00013] described in paragraph (2) in relation to any spatial data set or spatial data service—
+
+- (a) for which that authority or third party is responsible; and
+- (b) in relation to which metadata have been created in accordance with regulation 6 and the Metadata Regulation.
+
+(1A)[^key-777635c6567daf65dfeba8997c692680] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The services are—
+
+- (a) discovery services—
+  - (i) making it possible to search for spatial data sets and spatial data services on the basis of the content of the corresponding metadata and to display the content of the metadata, and
+  - (ii) making it possible to search according to, as a minimum, the search criteria specified in paragraph (3) (used alone or in combination);
+- (b) view services making it possible, as a minimum, to display, navigate, zoom in and out, pan, or overlay viewable spatial data sets and to display legend information and any relevant content of metadata;
+- (c) download services, enabling copies of spatial data sets, or parts of such sets, to be downloaded and, where practicable, accessed directly;
+- (d) transformation services, enabling spatial data sets to be transformed with a view to achieving interoperability; and
+- (e) services allowing spatial data services to be invoked.
+
+(2A)[^key-e53c6c48d1fdb5913f03037f4b8869dd] Discovery services must enable a search according to the criterion in paragraph (3)(ca) regarding conformity with requirements as to interoperability from the date by which the requirements in question apply.
+
+(3) The search criteria referred to in paragraph (2)(a)(ii) are—
+
+- (a) keywords;
+- (b) classification of spatial data and spatial data services;
+- (c) the quality and validity of spatial data sets;
+- (ca)[^key-dc21c09ec7fea827c3efd406a14680f0] (in the case of a spatial data set corresponding to the themes listed in Annex 1 to the Metadata Regulation[^key-99abcebd090e3aed1f89fc43a737bd4e] or a spatial data service relating to such a data set) the degree of conformity with the requirements as to interoperability set out in regulation 6A;
+- (d) geographical location;
+- (e) conditions applying to the access to and use of spatial data sets and spatial data services; and
+- (f) the person responsible for the establishment, management, maintenance and distribution of spatial data sets and spatial data services.
+
+(3A)[^key-7d2bb5a96daa0df04e182a5430c04170] In the case of a spatial data set corresponding to the themes listed in Annex 1 to the Metadata Regulation[^key-8acb57c040d9670beeebbf41f82e22e9] or a spatial data service relating to such a data set, from the date by which any particular requirements as to interoperability set out in regulation 6A apply, the transformation services specified in sub-paragraph (d) of paragraph (2) must be combined with the other services specified in that paragraph in such a way as to enable all those services to be operated in conformity with those requirements.
+
+(4) The services specified in paragraph (2) must—
+
+- (a) take into account relevant user requirements;
+- (b) be easy to use; and
+- (c) subject to regulation 9, be available to the public and accessible via the internet or any other appropriate means of telecommunication.
+
+(5)[^key-3a447bd5cf15e4229eaa0cd917366837] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Linking to a network
+
+(1) The Secretary of State must enable a public authority to link any spatial data set or spatial data service for which that authority is responsible to a network of related spatial data sets or spatial data services, provided that the conditions specified in paragraph (3) are satisfied in relation to that data set or data service.
+
+(2) The Secretary of State must enable a third party to link any spatial data set or spatial data service for which that third party is responsible to a network of related spatial data sets or spatial data services, provided that—
+
+- (a) the third party makes a request to that effect; and
+- (b) the conditions specified in paragraph (3) are satisfied in relation to that data set or data service.
+
+(3)[^key-fb15a5cbd5a1af839ffe0dd26ca4dcb0] The conditions are—
+
+- (a) metadata have been created in accordance with regulation 6 and the Metadata Regulation (if on the date in question metadata were required to be created by regulation 6);
+- (b) services have been established and are operated in accordance with regulation 7 and [Commission Regulation (EC) No 976/2009](https://www.legislation.gov.uk/european/regulation/2009/0976) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) as regards the Network Services , as last amended by[^key-4ff336789afd7836408b43fab5210e40] [Commission Regulation (EU) No 1311/2014](https://www.legislation.gov.uk/european/regulation/2014/1311) of 10 December 2014; and
+- (c) (in the case of a spatial data set corresponding to the themes listed in Annex 1 to the Metadata Regulation[^key-ae79ee862ca3bf45088f817361b57477] or a spatial data service relating to such a data set) there is conformity with the applicable requirements as to interoperability set out in regulation 6A (if on the date in question conformity with those requirements is required by that regulation).
+
+## 9. Public access to spatial data sets and spatial data services
+
+(1) Subject to paragraph (6), access by the public to a spatial data set or spatial data service by means of a service specified in regulation 7(2) may be limited only if—
+
+- (a) a limitation is permitted or required under paragraph (2), (3) or (4); and
+- (b) except in the case of a limitation under paragraph (2)(a), the public interest in limiting or placing conditions on public access outweighs the public interest in providing full access, in all the circumstances of the case.
+
+(2) A public authority or a third party must not provide public access to personal data included in a spatial data set for which that authority or third party is responsible, if the provision of public access to that personal data otherwise than under these Regulations would contravene—
+
+- (a) any of the data protection principles; [^key-41db4d0e511e6e8ef1a8824640532aff]...
+- (b)[^key-ffc2fbabe6482b96e2b3520c444b93ea] Article 21 of the UK GDPR[^key-47d19b4fd63eb5d64e0bb31f8770e712] (general processing: right to object to processing), or
+- (c) section 99 of the Data Protection Act 2018 (intelligence services processing: right to object to processing).
+
+[^key-3110f3a0b50189018c030c3c49aecff4]...
+
+(3) A public authority or a third party may, in relation to a spatial data set or spatial data service for which that authority or third party is responsible, limit public access to that data set or data service through a discovery service if such access would adversely affect international relations, public security or national defence.
+
+(4) A public authority or a third party may, in relation to a spatial data set or spatial data service for which that authority or third party is responsible—
+
+- (a) limit public access to that data set or data service through a service described in regulation 7(2)(b), (c), (d) or (e); or
+- (b) limit public access to the e-commerce services referred to in regulation 10(4) which relate to that data set or data service,
+
+if such access would adversely affect any matter specified in paragraph (5).
+
+(5) The matters are—
+
+- (a) international relations, defence, national security or public safety;
+- (b) the course of justice, the ability of a person to receive a fair trial or the ability of a public authority to conduct an inquiry of a criminal or disciplinary nature;
+- (c) intellectual property rights;
+- (d) the confidentiality of the proceedings of that or any other public authority or third party where such confidentiality is provided by law;
+- (e) the confidentiality of commercial or industrial information where such confidentiality is provided by law to protect a legitimate economic interest;
+- (f) the interests or protection of the person who provided the spatial data in question where that person—
+  - (i) was not under, and could not have been put under, any legal obligation to supply that data to that or any other public authority or third party,
+  - (ii) did not provide that data in circumstances such that that or any other public authority or third party is entitled apart from these Regulations to provide public access to that data, and
+  - (iii) has not consented to the public being provided with access to that data; and
+- (g) the protection of the environment to which the spatial data set or spatial data service in question relates.
+
+(6) A public authority or a third party may not limit public access to a spatial data set or spatial data service which contains information on emissions into the environment, on a ground specified in paragraph (5)(d), (e), (f) or (g).
+
+(7) For the purposes of paragraph (5)(b), (d) and (f), “public authority” includes a Scottish public authority, and for the purposes of paragraph (5)(d) and (f), “third party” includes a Scottish third party.
+
+(8)[^key-6b8bc4b68812c6b6eaea50cdeb87c879] In this regulation—
+
+- “**the data protection principles**” means the principles set out in—
+  - (a) Article 5(1) of the UK GDPR[^key-aad046c34340244f7aaa50e2259257e7],
+  - (b) section 34(1) of the Data Protection Act 2018, and
+  - (c) section 85(1) of that Act;
+- [^key-f11416a92be76df3f846b18188151918]...
+- “**personal data**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act).
+- “[^key-6cdb5e25890f20b4915061a2d92fbc93] **the UK GDPR** ” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
+
+(9) In determining for the purposes of this regulation whether the lawfulness principle in Article 5(1)(a) of the UK GDPR[^key-76cadef0217adc963038878280605648] would be contravened by the disclosure of information, Article 6(1) of the UK GDPR (lawfulness) is to be read as if the second sub-paragraph (disapplying the legitimate interests gateways[^key-4c027ec94096d76dab1e7af0e6c0902f] in relation to public authorities) disapplied only the gateway in point (ea) (recognised legitimate interests)[^key-b41033506ac8344e9319f561ef516e40].
+
+## 10. Charges for public access
+
+(1) Except as provided by paragraph (2), a public authority or a third party must not charge the public for a discovery service or a view service which that authority or third party operates in relation to a spatial data set or spatial data service for which that authority or third party is responsible.
+
+(2) A public authority or a third party may charge the public for a view service where that charge secures the maintenance of spatial data sets and spatial data services, especially in cases involving very large volumes of frequently updated data.
+
+(3) A public authority or a third party may charge the public a reasonable sum for a service described in regulation 7(2)(c), (d) or (e) which that authority or third party operates in relation to a spatial data set or spatial data service for which that authority or third party is responsible.
+
+(4) Where a public authority or a third party charges the public for a view service or a service described in regulation 7(2)(c) or (e), that authority or third party must ensure that e-commerce services are available in relation to that service.
+
+(5) Spatial data made available through a view service may be in a form preventing their re-use for commercial purposes.
+
+(6) In this regulation “view service” means a service described in regulation 7(2)(b).
+
+## 11. Enforcement and appeals in relation to public access
+
+(1) The enforcement and appeals provisions of the Act apply for the purposes of regulations 7(4)(c) and 9 as they apply for the purposes of the Act, but with the modifications specified in paragraphs (3) to (11) of this regulation.
+
+(2) In this regulation “the enforcement and appeals provisions of the Act” means—
+
+- (a) section 50 (application for decision by Commission[^key-08e5e9b06e98c440bffdc00046772b43]);
+- (b) section 51 (information notices);
+- (c) section 52 (enforcement notices);
+- (d) section 54 (failure to comply with notice);
+- (e) section 55 and Schedule 3 (powers of entry and inspection);
+- (f) section 56 (no action against public authority);
+- (g) section 57 (appeal against notices served under Part IV);
+- (h) section 58 (determination of appeals);
+- (i)[^key-7c85f0aef18050f70310e969ffad8b42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^key-5a73512ccc40d7f9d3b39b36f4a5fbbf] section 61 (appeal proceedings).
+
+(3) In the enforcement and appeals provisions of the Act—
+
+- (a) after each reference to “public authority” or “authority”, insert “or third party”;
+- (b) any reference to “public authority” or “authority” is a reference to a public authority as defined in these Regulations; and
+- (c) any reference to “third party” is a reference to a third party as defined in these Regulations.
+
+(4) In section 50 of the Act—
+
+- (a) in subsection (1), for “a request for information” to the end, substitute “a public authority or a third party has acted or is acting in a way which is not compatible with regulation 7(4)(c) or 9 of the INSPIRE Regulations 2009.”;
+- (b) for paragraph (a) of subsection (2) substitute—
+
+  > - (a) that the complainant has not exhausted the complaints procedure provided by the public authority or third party under regulation 13 of the INSPIRE Regulations 2009,
+
+  ;
+- (c) for subsection (4) substitute—
+
+  > (4) Where the Commission[^key-26e3a598ce2dab17a22fd05d54a017f6] decides that a public authority or a third party has acted or is acting in a way which is not compatible with regulation 7(4)(c) or 9 of the INSPIRE Regulations 2009, the decision notice must specify the steps which must be taken by the authority or third party for rectifying the incompatibility, and the period within which they must be taken.
+
+  ; and
+- (d) omit subsection (7).
+
+(5) In section 51 of the Act—
+
+- (a) in subsection (1)—
+  - (i) for paragraph (b)(i) substitute—
+
+    > - (i) for the purpose of determining whether a public authority or a third party has acted or is acting in a way which is not compatible with regulation 7(4)(c) or 9 of the INSPIRE Regulations 2009,
+
+    ,
+  - (ii) omit paragraph (b)(ii), and
+  - (iii) in the tailpiece, for “application” to the end substitute “application, or to the purpose specified in paragraph (b), as is so specified.”; and
+- (b) in paragraph (b)(i) of subsection (2), for “either of the purposes” substitute “the purpose”.
+
+(6) In section 52 of the Act—
+
+- (a) for subsection (1) substitute—
+
+  > (1) If the Commission[^key-e05fb58ab315cfa4657e79faff003ca1] is satisfied that a public authority or a third party has acted in a way which is not compatible with regulation 7(4)(c) or 9 of the INSPIRE Regulations 2009, the Commission may serve the authority or third party with a notice (in this Act referred to as “an enforcement notice”) requiring the authority or third party to take, within such time as may be specified in the notice, such steps as may be so specified to rectify that incompatibility.
+
+  ;
+- (b) for subsection (2)(a) substitute—
+
+  > - (a) a statement of the provision of the INSPIRE Regulations 2009 with which the Commission[^key-4212ae124a3206c8b4ee7d3c7235682d] is satisfied that the public authority or third party’s actions are not compatible and the[^key-1403bd12bd0d94c6e86be3ca3841282c] reasons for reaching that conclusion, and
+
+  ; and
+- (c) omit subsection (5).
+
+(7) In section 56(1) of the Act, for “failure to comply with any duty imposed by or under this Act” substitute “action which is not compatible with regulation 7(4)(c) or 9 of the INSPIRE Regulations 2009”.
+
+(8) In section 57 of the Act, omit subsection (3).
+
+(9) In Schedule 3 to the Act—
+
+- (a) for sub-paragraph (1) of paragraph 1 (issue of warrants) substitute—
+
+  > (1) If a circuit judge or a District Judge (Magistrates’ Courts) is satisfied by information on oath supplied by the chair of the Commission or another person authorised for the purpose by the Commission[^key-06cf0f6652fac5e74da0d15e5d38224f] that there are reasonable grounds for suspecting that a public authority or a third party—
+  >
+  > - (a) has acted or is acting in a way which is not compatible with regulation 7(4)(c) or 9 of the INSPIRE Regulations 2009,
+  > - (b) has failed or is failing to comply with so much of a decision notice as requires steps to be taken, or
+  > - (c) has failed or is failing to comply with an information notice or an enforcement notice,
+  >
+  > and that evidence of such actions or such a failure to comply is to be found on any premises specified in the information, the circuit judge or District Judge may, subject to paragraph 2, grant a warrant to the Commission[^key-f6d735ea93201bec396906800f423ba7].
+
+  ; and
+- (b) in paragraph 8 (matters exempt from inspection and seizure), for “information which is exempt information by virtue of section 23(1) or 24(1)” (bodies and information relating to national security) substitute “information to which public access may be limited under regulation 9(5)(a) of the INSPIRE Regulations 2009 on the ground that such access would adversely affect national security”.
+
+(10)[^key-62a5550567d84a6ecdec8741bf06af68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) Section 76(1) of the Act (disclosure of information between Commission[^key-c0ed6715bc4ee33d69784c689a87a6d2] and ombudsmen) applies to any information obtained by, or furnished to, the Information Commission[^key-ff3ee74a5633599f5e8f18f3b67d21fc] under or for the purposes of regulation 7(4)(c) or 9.
+
+(12) A person found guilty of an offence under paragraph 12 of Schedule 3 to the Act (offences relating to obstruction of the execution of a warrant) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(13) A government department or the Welsh Assembly Government is not liable to prosecution in relation to an offence under paragraph 12 of Schedule 3 to the Act, but that provision applies to a person in the public service of the Crown and to a person acting on behalf of either House of Parliament, the Northern Ireland Assembly or the National Assembly for Wales as it applies to any other person.
+
+## 12. Data-sharing between public authorities etc.
+
+(1) A public authority (“P”) must, in relation to a spatial data set or spatial data service for which P is responsible—
+
+- (a) enable another public authority or a relevant body to gain access to that data set or data service; and
+- (b) enable another public authority or a relevant body to exchange and use that data set or data service,
+
+where that authority or body requires that data set or data service for the purpose of its public tasks that may have an impact on the environment.
+
+(2) But a public authority may limit sharing of the kind described in paragraph (1) when this would compromise the course of justice, public security, national defence or international relations.
+
+(3) Subject to paragraphs (4), (5) and (6), a public authority which supplies a spatial data set or spatial data service to another public authority or a relevant body may impose conditions on the access to or exchange or use of that data set or data service, for example by doing either or both of the following—
+
+- (a) providing that access to that data set or data service, or exchange or use of that data set or data service, is subject to terms and conditions imposed by a licence;
+- (b) making a charge for the access to, or exchange or use of, that data set or data service.
+
+(4) But any such conditions must be compatible with the aim of facilitating the sharing of spatial data sets and spatial data services among public authorities and between public authorities and relevant bodies, and must avoid creating practical obstacles, occurring at the point of use, to such sharing.
+
+(5) Where a public authority makes a charge as described in paragraph (3)(b), the charge must be kept to the minimum required to ensure the necessary quality and supply of spatial data sets and spatial data services together with a reasonable return on investment, and any requirement on an authority to be self-financing is to be respected.
+
+(6) Where, under assimilated[^key-b1892bd43ec5cccc02fdd4e1e89b91f8][^key-295a5465503bb13ef667769205f23dc9] law relating to the environment, a public authority is required to report a matter to a relevant body[^key-40c0891e8425ca6d502b4b64b110bf0a], that authority must not charge that body in relation to the provision to that body of a spatial data set or spatial data service in satisfaction of that requirement.
+
+(7) In this regulation “relevant body” means—
+
+- (a) a Scottish public authority;
+- (b)[^key-a27ec815a653d08ab99e7d272352542b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-85667f81b295799a8a28413d6182bb8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) a body established by an international agreement to which the United Kingdom is a party[^key-a209c1c7c61c35b9e2988ad0b6924122].
+
+## 13. Internal complaints procedure
+
+(1) A public authority or a third party must establish an internal complaints procedure for dealing with a complaint relating to the performance of its functions under these Regulations.
+
+(2) A complaint relating to the performance by a public authority or a third party of its functions under these Regulations—
+
+- (a) must be pursued according to the complaints procedure established by that authority or third party under paragraph (1); and
+- (b) must be made in writing.
+
+(3) A public authority or a third party must determine a complaint within a reasonable time, and must notify the complainant of its determination without delay.
+
+(4) Notification under paragraph (3) must be in writing and give reasons for the determination.
+
+## 14. Coordination and monitoring[^key-1b97b4c85cec2d5a2ee4f79dd0dcabf9]
+
+(1) The Secretary of State must, for the purposes of ensuring compliance with these Regulations, ensure that appropriate structures and mechanisms are put in place for coordinating, across the different levels of government, the contributions of all persons with an interest in infrastructures for spatial information.
+
+(2) In performing the function described in paragraph (1), the Secretary of State must coordinate the contributions of, in particular, users, producers, added-value service providers and coordinating bodies, concerning the identification of relevant data sets, user needs, the provision of information on existing practices and the provision of feedback on the implementation of these Regulations and the Implementing Rules.
+
+(3) The Secretary of State must—
+
+- (a) ensure that public authorities and third parties comply with these Regulations and the Implementing Rules;
+- (b) monitor the implementation and use of the infrastructure for spatial information for the purposes of these Regulations, and make the findings available to the public in accordance with Commission Implementing Decision (EU) 2019/1372 (“Commission Implementing Decision (EU) 2019/1372”) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards monitoring and reporting;
+- (c) issue guidance to public authorities and third parties which are responsible for spatial data sets or spatial data services about the implementation of these Regulations.
+
+(4) Guidance issued under paragraph (3)(c) must include provision relating to the internal complaints procedure which authorities and third parties are required to establish under regulation 13.
+
+(5) In performing their functions under these Regulations, public authorities and third parties must have regard to guidance issued under paragraph (3)(c).
+
+(6) Public authorities and third parties must provide such information to the Secretary of State as the Secretary of State may require in order to perform the functions described in paragraphs (1) to (3).
+
+(7) In this regulation—
+
+- (a) “**Implementing Rules**” means the requirements of the Metadata Regulation, Commission Regulation [(EC) No. 976/2009](https://www.legislation.gov.uk/eur/2009/976) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards the Network Services, Commission Regulation (EU) 1089/2010 and Commission Implementing Decision (EU) 2019/1372;
+- (b) “**infrastructure for spatial information**” means metadata, spatial data sets and spatial data services; network services and technologies; agreements on sharing, access and use; and coordination and monitoring mechanisms, processes and procedures, established, operated or made available in accordance with, and for the purposes of, these Regulations and the Implementing Rules.
+
+## 15. Review[^key-ba3680ae40f93e54118f722d8683ae2d]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning on 1st August 2012.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Huw Irranca-Davies
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) (OJ No L 108, 25.4.2007, p. 1) (“the Directive”) which concerns the creation and operation of national and European Union infrastructures relating to spatial information for the purposes of EU environmental policies and other policies or activities which may have an impact on the environment.
+
+Certain provisions of the Directive are dependent on the adoption by the European Commission of further implementing rules, and where those rules have not yet been adopted, those provisions are not implemented in these Regulations.
+
+These Regulations do not apply in relation to Scottish public authorities; the Directive is separately implemented in relation to such bodies.
+
+Regulation 2 contains definitions, including a definition of “spatial data set” which refers to the spatial data themes listed in Annex I, II or III to the Directive.
+
+Regulation 3 defines “public authority” and regulation 4 provides for the scope of application of the Regulations to spatial data sets and spatial data services.
+
+Regulation 6 requires authorities to create and update metadata relating to their spatial data sets and services, by dates specified in that regulation.
+
+Regulation 7 provides that authorities must establish and operate network services, including discovery and view services, in relation to their spatial data sets and services, and regulation 8 provides for the linking of such services to a network.
+
+Regulation 9 permits certain limitations on the right of public access to spatial data sets and services through the services described in regulation 7, and regulation 10 relates to charging for the provision of those services.
+
+Regulation 11 provides for specified provisions of the Freedom of Information Act 2000 to apply (with modifications) for the purposes of regulations 7(4)(c) and 9, so that the Information Commissioner has an enforcement role in this regard.
+
+Regulation 12 relates to data-sharing among public authorities for the purposes of public tasks relating to the environment, and to sharing between public authorities and public bodies in other member States, EU or international bodies.
+
+Regulation 13 requires authorities to establish an internal complaints procedure for dealing with complaints relating to the performance of their functions under these Regulations.
+
+Regulation 14 provides that the Secretary of State is responsible for coordinating the spatial information infrastructure and monitoring the implementation of the Directive. The Secretary of State is required to issue guidance to authorities and third parties regarding their implementation of the Directive.
+
+A transposition note is available at www.defra.gov.uk/location/inspire/ or from the Department for Environment, Food and Rural Affairs, Ergon House, Horseferry Road, London SW1P 2AL, giving further information about the implementation of the Directive.
+
+An impact assessment of the effect that this instrument will have on the costs of business is available from the same address, and on the same website, as the transposition note.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^f00004]: Footnote: OJ No L 326, 4.12.2008, p 12.
+
+[^f00005]: Footnote: OJ No L 108, 25.4.2007, p 1.
+
+[^f00006]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^key-8df50e75e2d9fc96f3b5d7599edcc838]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/2/1) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-63661d02170c2d6c54fe0b6dbca66198]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/2/1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-64893db8feedfe15b0ffd8e4402b734f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/2/1) inserted (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/1672/regulation/3)
+
+[^f00007]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
+
+[^key-06b7ad8bcab522a5066ce0d750bd3864]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/2/1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00008]: Footnote: See section 1 of the Territorial Sea Act [1987 (c. 49)](https://www.legislation.gov.uk/ukpga/1987/49).
+
+[^f00009]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
+
+[^f00010]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^key-d78cc7f93875f9f6862066967c177bb1]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/2/2) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c029bb9806e1b691ff0e4dd0b0b04a7b]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/2/4) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00011]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00012]: Footnote: See [Commission Regulation (EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205).
+
+[^key-0eec97a1f6255aa061a38db133813f93]: Textual amendment: Reg. 6(2)(aa) inserted (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/1672/regulation/4/a)
+
+[^key-824b815b7ccd0184786f7c3ec860514a]: Textual amendment: Words in [reg. 6(2)(aa)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/6/2/aa) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0fb6cf167bb876411a0f29a882fa06b5]: Textual amendment: Reg. 6(2A) inserted (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2012/1672/regulation/4/b)
+
+[^key-721bc12d8d9f83889f1d2f59887ef1c2]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/6/4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-af584ea28aecc2fbfbd54e3de32ec77f]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/6/5) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4a209cdc8f8c8097ad2406bc97659a0c]: Textual amendment: Reg. 6A inserted (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/1672/regulation/5)
+
+[^key-874169a028363a2386c27e31d5fbb254]: Textual amendment: Words in [reg. 6A(1)(a)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/6A/1/a) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c5b0d4ce3f9b14c564de87771bc07705]: Textual amendment: [Reg. 6A(2)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/6A/2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-716ea350ea952ed8fc240a38ef57232e]: Textual amendment: [Reg. 6A(4)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/6A/4) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00013]: Footnote: See [Commission Regulation (EC) No 976/2009](https://www.legislation.gov.uk/european/regulation/2009/0976), OJ No L 274, 20.10.2009, p 9.
+
+[^key-777635c6567daf65dfeba8997c692680]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/7/1A) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e53c6c48d1fdb5913f03037f4b8869dd]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/7/2A) inserted (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2012/1672/regulation/6/b)
+
+[^key-dc21c09ec7fea827c3efd406a14680f0]: Textual amendment: [Reg. 7(3)(ca)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/7/3/ca) inserted (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2012/1672/regulation/6/c)
+
+[^key-99abcebd090e3aed1f89fc43a737bd4e]: Textual amendment: Words in [reg. 7(3)(ca)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/7/3/ca) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7d2bb5a96daa0df04e182a5430c04170]: Textual amendment: [Reg. 7(3A)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/7/3A) inserted (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2012/1672/regulation/6/d)
+
+[^key-8acb57c040d9670beeebbf41f82e22e9]: Textual amendment: Words in [reg. 7(3A)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/7/3A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3a447bd5cf15e4229eaa0cd917366837]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/7/5) omitted (1.8.2012) by virtue of [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [6(e)](https://www.legislation.gov.uk/uksi/2012/1672/regulation/6/e)
+
+[^key-fb15a5cbd5a1af839ffe0dd26ca4dcb0]: Textual amendment: Reg. 8(3) substituted (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/1672/regulation/7)
+
+[^key-4ff336789afd7836408b43fab5210e40]: Textual amendment: Words in reg. 8(3)(b) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/526/regulation/3)
+
+[^key-ae79ee862ca3bf45088f817361b57477]: Textual amendment: Words in [reg. 8(3)(c)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/8/3/c) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/1338/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-41db4d0e511e6e8ef1a8824640532aff]: Textual amendment: Word in reg. 9(2)(a) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 343(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/343/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-ffc2fbabe6482b96e2b3520c444b93ea]: Textual amendment: Reg. 9(2)(b)(c) substituted for reg. 9(2)(b) (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 343(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/343/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-47d19b4fd63eb5d64e0bb31f8770e712]: Textual amendment: Words in reg. 9(2)(b) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 77(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/77/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3110f3a0b50189018c030c3c49aecff4]: Textual amendment: Words in reg. 9(2) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 343(2)(c)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/343/2/c) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-6b8bc4b68812c6b6eaea50cdeb87c879]: Textual amendment: Reg. 9(8)(9) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 343(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/343/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-aad046c34340244f7aaa50e2259257e7]: Textual amendment: Words in reg. 9(8) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 77(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/77/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f11416a92be76df3f846b18188151918]: Textual amendment: Words in reg. 9(8) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 77(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/77/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6cdb5e25890f20b4915061a2d92fbc93]: Textual amendment: Words in reg. 9(8) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 77(3)(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/77/3/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-76cadef0217adc963038878280605648]: Textual amendment: Words in reg. 9(9) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 77(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/77/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4c027ec94096d76dab1e7af0e6c0902f]: Textual amendment: Word in reg. 9(9) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(a)(9)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/8/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
+
+[^key-b41033506ac8344e9319f561ef516e40]: Textual amendment: Words in reg. 9(9) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(b)(9)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/8/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
+
+[^key-08e5e9b06e98c440bffdc00046772b43]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/11/2/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/12/2/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-7c85f0aef18050f70310e969ffad8b42]: Textual amendment: Reg. 11(2)(i) omitted (1.8.2012) by virtue of [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/uksi/2012/1672/regulation/8/a/i)
+
+[^key-5a73512ccc40d7f9d3b39b36f4a5fbbf]: Textual amendment: Reg. 11(2)(j) substituted (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2012/1672/regulation/8/a/ii)
+
+[^key-26e3a598ce2dab17a22fd05d54a017f6]: Textual amendment: Word in [reg. 11(4)(c)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/11/4/c) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/12/2/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-e05fb58ab315cfa4657e79faff003ca1]: Textual amendment: Word in [reg. 11(6)(a)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/11/6/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/12/2/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-4212ae124a3206c8b4ee7d3c7235682d]: Textual amendment: Word in [reg. 11(6)(b)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/11/6/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 12(2)(d)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/12/2/d/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-1403bd12bd0d94c6e86be3ca3841282c]: Textual amendment: Word in [reg. 11(6)(b)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/11/6/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 12(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/12/2/d/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-06cf0f6652fac5e74da0d15e5d38224f]: Textual amendment: Word in [reg. 11(9)(a)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/11/9/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 12(2)(e)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/12/2/e/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-f6d735ea93201bec396906800f423ba7]: Textual amendment: Word in [reg. 11(9)(a)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/11/9/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 12(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/12/2/e/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-62a5550567d84a6ecdec8741bf06af68]: Textual amendment: Reg. 11(10) omitted (1.8.2012) by virtue of [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/1672/regulation/8/b)
+
+[^key-c0ed6715bc4ee33d69784c689a87a6d2]: Textual amendment: Word in [reg. 11(11)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/11/11) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 12(2)(f)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/12/2/f/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-ff3ee74a5633599f5e8f18f3b67d21fc]: Textual amendment: Words in [reg. 11(11)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/11/11) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 12(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/12/2/f/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-b1892bd43ec5cccc02fdd4e1e89b91f8]: Textual amendment: Word in [reg. 12(6)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/12/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 18](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/18)
+
+[^key-295a5465503bb13ef667769205f23dc9]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/12/6) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-40c0891e8425ca6d502b4b64b110bf0a]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/12/6) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a27ec815a653d08ab99e7d272352542b]: Textual amendment: [Reg. 12(7)(b)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/12/7/b) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-85667f81b295799a8a28413d6182bb8e]: Textual amendment: [Reg. 12(7)(c)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/12/7/c) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a209c1c7c61c35b9e2988ad0b6924122]: Textual amendment: Words in [reg. 12(7)(d)](https://www.legislation.gov.uk/uksi/2009/3157/regulation/12/7/d) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1b97b4c85cec2d5a2ee4f79dd0dcabf9]: Textual amendment: Reg. 14 substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [9](https://www.legislation.gov.uk/uksi/2018/1338/regulation/9) (as amended by [S.I. 2020/1091](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ba3680ae40f93e54118f722d8683ae2d]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/3157/regulation/15) added (1.8.2012) by [The INSPIRE (Amendment) Regulations 2012 (S.I. 2012/1672)](https://www.legislation.gov.uk/uksi/2012/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1672/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1672/regulation/11)

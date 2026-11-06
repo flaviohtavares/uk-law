@@ -1,0 +1,409 @@
+---
+title: The Magistrates' Courts (Children and Young Persons) Rules 1992
+id: uksi/1992/2071
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1992-08-27'
+text_date: '2014-04-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1992/2071
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/2071/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Magistrates' Courts (Children and Young Persons) Rules 1992
+
+> Text as at 2014-04-22.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1992 No. 2071 (L.17)
+
+MAGISTRATES' COURTS
+
+The Magistrates' Courts (Children and Young Persons) Rules 1992
+
+Made
+
+27th August 1992
+
+Laid before Parliament
+
+10th September 1992
+
+Coming into force
+
+1st October 1992
+
+The Lord Chancellor, in exercise of the powers conferred on him by section 144 of the Magistrates' Courts Act 1980[^f00001] and sections 32(4) and (5) and 32A(11) of the Criminal Justice Act 1988[^f00002], after consultation with the Rule Committee appointed under section 144 of the Magistrates' Courts Act 1980, hereby makes the following Rules:
+
+## PART I — GENERAL
+
+### 1. Citation and commencement[^key-db59dc297e2b855a342361da09c9940e]
+
+These Rules may be cited as the Magistrates' Courts (Children and Young Persons) Rules 1992 and shall come into force on 1st October 1992.
+
+### 2. Interpretation[^key-b13015e4def01542a30ee36e9968a2a6]
+
+(1) In these Rules—
+
+- “the Act of 1933” means the Children and Young Persons Act 1933[^f00003];
+- “the Act of 1969” means the Children and Young Persons Act 1969[^f00004];
+- “the Act of 1989” means the Children Act 1989[^f00005];
+- “the[^key-de8afcf026e20e17725958c0847e7ce6] Act of 2000” means the Powers of Criminal Courts (Sentencing) Act 2000;
+- “**child**” means a person under the age of fourteen;
+- “court”—
+  - (a) in Parts II and IV and, subject to rule 13(2), in Part III, means a youth court, and
+  - (b) in rules 26 to 29, means a magistrates' court whether a youth court or not;
+- “court computer system” means a computer or computer system which is used to assist to discharge and record the business of the court.[^key-abffe8afa48b9636e72cf02dba276dc8]
+- “**guardian**” has the meaning given in section 107(1) of the Act of 1933;
+- “**register**” means the separate register kept for the youth court pursuant to rule 25 of these Rules; and
+- “**young person**” means a person who has attained the age of fourteen and is under the age of eighteen.
+
+(2) In these Rules, unless the context otherwise requires, references to a parent in relation to a child or young person are references—
+
+- (a) where a local authority has parental responsibility for him under the Act of 1989, to the local authority, and
+- (b) in any other case, to a parent who has parental responsibility for him under that Act.
+
+(3) In these Rules, unless the context otherwise requires, any reference to a rule, Part or Schedule shall be construed as a reference to a rule contained in these Rules, a Part thereof or a Schedule thereto, and any reference in a rule to a paragraph shall be construed as a reference to a paragraph of that rule.
+
+### 3. Revocations and savings etc.[^key-6b6dcef81975bee98fe54cab08201242]
+
+(1) Subject to paragraph (3), the Rules specified in Schedule 1 are hereby revoked to the extent specified.
+
+(2) Subject to paragraph (3), the provisions of the Magistrates' Courts Rules 1981[^f00006] shall have effect subject to these Rules.
+
+(3) Nothing in these Rules shall apply in connection with any proceedings begun before the coming into force thereof.
+
+## PART II — PROCEEDINGS IN CRIMINAL MATTERS
+
+### 4. Application of Part II[^key-cdc8c8d1803e6c7777c0081e18e1aee5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Assistance in conducting case[^key-1f51d9774a1cd357002464e682ac2931]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Duty of court to explain nature of proceedings etc.[^key-5c2edeff5ba12fc48d6634a8739d309c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Duty of court to take plea to charge[^key-44e77e63f38ea8983618aa112b046218]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Evidence in support of charge or application[^key-f0cd9ca0d2372713408e68a8839cece7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Evidence in reply[^key-7d7c52dd7beafb450fee4a39bf4d2d85]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Procedure after finding against minor[^key-0037b55f50c9e4805bc699a065caf724]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Duty of court to explain manner in which it proposes to deal with case and effect of order[^key-bb8b3ec28d9a52ec87fb73272d408439]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Notice to be given where remand is extended in absence of child or young person[^key-b99481ad52103788d9b34824ca1acc9b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART III — PROCEEDINGS IN CERTAIN OTHER MATTERS
+
+### 13. Application and interpretation of Part III[^key-c59164d2cf39e84ee5d57abca20d826a]
+
+(1) This Part applies in connection with proceedings in a court in the case of any child or young person in relation to whom proceedings are brought or proposed to be brought under—
+
+- (a) section 72 or 73 of the Social Work (Scotland) Act 1968[^f00009](persons subject to supervision requirements or orders moving from or to Scotland), or
+- (b) regulations made under section 25 of the Act of 1989 (authority to retain child in secure accommodation),
+
+except that rules 14, 16(2), 20 and 21 do not apply in connection with proceedings under the enactments mentioned in sub-paragraph (a) above.
+
+(2) In this Part—
+
+- “**the applicant**” means the person by whom proceedings are brought or proposed to be brought;
+- “**court**”, in relation to proceedings of the kind mentioned in paragraph (1)(b), means a magistrates' court, whether a youth court or not [^key-2b2c721e971fd76d0acdbc72ecb54254]...; and
+- “**the relevant minor**” means the person in relation to whom proceedings are brought or proposed to be brought as mentioned in paragraph (1).
+
+### 14. Notice by person proposing to bring proceedings[^key-f2d601f91060ad4075d21daeb2f2d608]
+
+(1) The applicant shall send a notice to the designated officer[^key-9d6f2beab843f4d7340d566d3c1308bb][^key-9dc1587e3333c62b9c1011d4b8f61f6f] for the court specifying the grounds for the proceedings and the names and addresses of the persons to whom a copy of the notice is sent in pursuance of paragraph (2).
+
+(2) Without prejudice to section 34(2) of the Act of 1969 and regulations made under section 25 of the Act of 1989, the applicant shall—
+
+- (a) send to each of the persons mentioned in paragraph (3) a copy of the said notice, and
+- (b) notify each of those persons of the date, time and place appointed for the hearing unless a summons is issued for the purpose of securing his attendance thereat.
+
+(3) The persons referred to in paragraph (2) are—
+
+- (a) the relevant minor, unless it appears to the applicant inappropriate to notify him in pursuance of paragraph (2), having regard to his age and understanding,
+- (b) the parent or guardian of the relevant minor if the whereabouts of such parent or guardian is known to the applicant or can readily be ascertained by him, and
+- (c)[^key-ba6b5f758d8d7e62c1f3ccaf3a82aa90] in a case where—
+  - (i) the relevant minor has a father, and
+  - (ii) the father and mother of the relevant minor were not married to each other at the time of the relevant minor’s birth,
+
+  any person who is known to the applicant to have made an application for an order under section 4 of the Act of 1989 (acquisition of parental responsibility by father) which has not yet been determined; and
+- (d) in a case where—
+  - (i) the relevant minor has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008, and
+  - (ii) the relevant minor is not a person to whom section 1(3) of the Family Law Reform Act 1987 applies,
+
+  any person who is known to the applicant to have made an application for an order under section 4ZA of the Act of 1989 (acquisition of parental responsibility by second female parent) which has not yet been determined.
+
+### 15. Rights of parents and guardians[^key-bf86bd5b7876a8d1d063544b4bbd7fcb]
+
+Without prejudice to any provision of these Rules which provides for a parent or guardian to take part in proceedings, the relevant minor’s parent or guardian shall be entitled to make representations to the court at any such stage after the conclusion of the evidence in the hearing as the court considers appropriate.
+
+### 16. Adjournment of proceedings and procedure at hearing[^key-8b1bb125dfa829361a9d946b56d54e6f]
+
+(1) The court may, at any time, whether before or after the beginning of the hearing, adjourn the hearing, and, when so doing, may either fix the date, time and place at which the hearing is to be resumed or leave the date, time and place to be determined later by the court; but the hearing shall not be resumed at that date, time and place unless the court is satisfied that the applicant, the respondent and any other party to the proceedings have had adequate notice thereof.
+
+(2) Subject to the provisions of the Act of 1969, sections 56, 57 and 123 of the Magistrates' Courts Act 1980[^f00010](non-appearance of parties and defects in process) shall apply to the proceedings as if they were by way of complaint and as if any references therein to the complainant, to the defendant and to the defence were, respectively, references to the applicant, to the relevant minor and to his case.
+
+(3) Rules 14 and 16(1) of the Magistrates' Courts Rules 1981 (order of evidence and speeches and form of order) shall apply to the proceedings as if they were by way of complaint and as if any references therein to the complainant, to the defendant and to the defence were, respectively, references to the applicant, to the relevant minor and to his case.
+
+### 17. Duty of court to explain nature of proceedings[^key-a4d4dd2cd1816140a9e08f0d3f25f81f]
+
+Except where, by virtue of any enactment, the court may proceed in the absence of the relevant minor, before proceeding with the hearing the court shall inform him of the general nature both of the proceedings and of the grounds on which they are brought, in terms suitable to his age and understanding, or if by reason of his age and understanding or his absence it is impracticable so to do, shall so inform any parent or guardian of his present at the hearing.
+
+### 18. Conduct of case on behalf of relevant minor[^key-1fa44b278e4e06105e98272343d71394]
+
+(1) Except where the relevant minor or his parent or guardian is legally represented, the court shall, unless the relevant minor otherwise requests, allow his parent or guardian to conduct the case on his behalf, subject, however, to the provisions of rule 19(2).
+
+(2) If the court thinks it appropriate to do so it may, unless the relevant minor otherwise requests, allow a relative of his or some other responsible person to conduct the case on his behalf.
+
+### 19. Power of court to hear evidence in absence of relevant minor and to require parent or guardian to withdraw[^key-e08d191710c1dcfe3fb4f9002eeb2c41]
+
+(1) Where the evidence likely to be given is such that in the opinion of the court it is in the interests of the relevant minor that the whole, or any part, of the evidence should not be given in his presence, then, unless he is conducting his own case, the court may hear the whole or part of the evidence, as it thinks appropriate, in his absence; but any evidence relating to his character or conduct shall be heard in his presence.
+
+(2) If the court is satisfied that it is appropriate so to do, it may require a parent or guardian of the relevant minor to withdraw from the court while the relevant minor gives evidence or makes a statement; but the court shall inform the person so excluded of the substance of any allegations made against him by the relevant minor.
+
+### 20. Duty of court to explain procedure to relevant minor at end of applicant’s case[^key-41658af1e701f018481e5b53d17cc0b8]
+
+If it appears to the court after hearing the evidence in support of the applicant’s case that he has made out a prima facie case it shall tell the relevant minor or the person conducting the case on his behalf under rule 18 that he may give evidence or make a statement and call witnesses.
+
+### 21. Consideration of reports: secure accommodation proceedings[^key-4e3b56277b9135bfb033db3cdd57a222]
+
+(1) The court shall arrange for copies of any written report before the court to be made available, so far as practicable before the hearing to—
+
+- (a) the applicant,
+- (b) the legal representative, if any, of the relevant minor,
+- (c) the parent or guardian of the relevant minor, and
+- (d) the relevant minor, except where the court otherwise directs on the ground that it appears to it impracticable to disclose the report having regard to his age and understanding or undesirable to do so having regard to potential serious harm which might thereby be suffered by him.
+
+(2) In any case in which the court has determined that the relevant criteria are satisfied, the court shall, for the purpose of determining the maximum period of authorisation to be specified in the order, take into consideration such information as it considers necessary for that purpose, including such information which is provided in pursuance of section 9 of the Act of 1969.
+
+(3) Any written report may be received and considered by the court without being read aloud.
+
+### 22. Duty of court to explain manner in which it proposes to deal with case and effect of order[^key-59ec65d368e32bd0049c4b19c9b68f5c]
+
+(1) Before finally disposing of the case, the court shall in simple language inform the relevant minor, any person conducting the case on his behalf, and his parent or guardian, if present, of the manner in which it proposes to deal with the case and allow any of those persons so informed to make representations; but the relevant minor shall not be informed as aforesaid if the court considers it undesirable or, having regard to his age and understanding, impracticable so to inform him.
+
+(2) On making any order, the court shall in simple language suitable to his age and understanding explain to the relevant minor the general nature and effect of the order unless it appears to it impracticable so to do having regard to his age and understanding and shall give such an explanation to the relevant minor’s parent or guardian, if present.
+
+## PART IV — EVIDENCE—TELEVISION LINKS AND VIDEO RECORDINGS
+
+### 23. Evidence through television link where witness is a child or is to be cross-examined after admission of a video recording[^key-a84e09e7c0b80d2c546657fefe46907a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Video recordings of testimony from child witness[^key-ece20894955fee184b1933c628228255]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART V — MISCELLANEOUS
+
+### 25. Register of proceedings in youth court[^key-dd5ac3a10728cf84102b3827dae47dbc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Issue of summons or warrant to enforce attendance of parent or guardian[^key-a364c1ed6937d650558fe69698e911f4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Payment of money by person subject to attendance centre order[^key-8e5e27915a68d42de961fd2456aede95]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Form of warrant where young person is committed to remand centre or prison[^key-287d1d7ba595b7edb649bbe6c9b601b5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Forms[^key-d61dd9f40ea08f79184b24554fbcb13f]
+
+(1) The forms in Schedule 2, or forms to the like effect, may be used with such variation as the circumstances may require, and may be so used in lieu of forms contained in the Schedule to the Magistrates' Courts (Forms) Rules 1981[^f00017].
+
+(2)[^key-daa6a5677529ca3d475722313812a6e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-daa6a5677529ca3d475722313812a6e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Mackay of Clashfern, C.
+
+27th August 1992
+
+## SCHEDULE 1 — REVOCATIONS[^key-ca2a208b8b70c6bc075e8f0364c217c3]
+
+| Rules revoked | References | Extent of revocation |
+| --- | --- | --- |
+| The Magistrates' Courts (Children and Young Persons) Rules 1988 | [S.I. 1988/913](https://www.legislation.gov.uk/uksi/1988/913) | The whole Rules |
+| The Magistrates' Courts (Criminal Justice Act 1988) (Miscellaneous Amendments) Rules 1988 | [S.I. 1988/2132](https://www.legislation.gov.uk/uksi/1988/2132) | Rule 4 |
+| The Family Proceedings Courts (Matrimonial Proceedings etc.) Rules 1991 | [S.I. 1991/1991](https://www.legislation.gov.uk/uksi/1991/1991) | Paragraph 7 of Schedule 2 |
+
+## SCHEDULE 2 — FORMS[^key-e48458a35bfb9daaec2dc4a36cdd96be]
+
+Rule 29
+
+[^key-9a1d8d73ff8a4a4ec19d123e2bd5e484]. . . . . . . . . . . . . . . . . .
+
+7 *Information for failure to comply with requirements of attendance centre or on breach of Attendance Centre Rules* [image: see source](https://www.legislation.gov.uk/uksi/1992/2071/images/uksi_19922071_en_007)10 *Information for Search Warrant under section 32 of the Children and Young Persons Act 1969* [image: see source](https://www.legislation.gov.uk/uksi/1992/2071/images/uksi_19922071_en_010)
+
+(This note is not part of the Rules)
+
+These Rules consolidate, with further amendments, the Magistrates' Courts (Children and Young Persons) Rules 1988 as amended by the other instruments mentioned in Schedule 1 (“the 1988 Rules”). Most of the further amendments are related to changes made by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53) to the arrangements for dealing with young defendants and offenders, or to provisions in that Act (“the 1991 Act”) concerning children’s evidence. Consistently with section 70 of the 1991 Act (renaming of juvenile courts), references to youth courts throughout replace references to juvenile courts.
+
+In rule 2(1), the definition of “young person” now includes persons aged 17 (1991 Act, section 68); for the purposes of applications for the use of secure accommodation (see rule 13(1)(b), “**court**” includes a magistrates' court other than a youth court (1991 Act, sections 70 and 60(3)). Rule 2(2) takes account of sections 56 and 57 of the 1991 Act, the effect of which is to apply to local authorities with parental responsibility (under the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)) provisions of the Children and Young Persons Act [1933 (c. 12)](https://www.legislation.gov.uk/ukpga/1933/12) relating to attendance of parents at court and their responsibility for financial penalties.
+
+Part II (rules 4 to 12) assimilates procedures for the discharge or variation of supervision and attendance centre orders, and of other community orders (1991 Act, Schedule 2), to those in trials and committal proceedings (the 1988 Rules did not make provision in relation to penal orders other than supervision orders, which were dealt with in Part III).
+
+Part III (rules 13 to 22) makes, for the proceedings mentioned in rule 13(1), provision substantially similar to that which was made for them in Part III of the 1988 Rules.
+
+Part IV (rules 23 and 24) introduces procedures for applications for leave for the giving of evidence by child witnesses through television links and the admission of video recordings of evidence given by them. Sections 54 and 55 of the 1991 Act (amending the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33)) make such evidence admissible in youth courts.
+
+Part V (rules 24 to 29) reproduces the miscellaneous provisions made in Parts VI and VII of the 1988 Rules.
+
+The forms in Schedule 2 include a number of new ones required in connection with the changes made by the 1991 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 144 was extended by section 145 of that Act and by section 18(2)(b) of the Children and Young Persons Act [1969 (c. 54)](https://www.legislation.gov.uk/ukpga/1969/54).
+
+[^f00002]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33); section 32(5) was amended, and section 32A inserted, by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 55(5) and 54.
+
+[^key-db59dc297e2b855a342361da09c9940e]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-b13015e4def01542a30ee36e9968a2a6]: Commencement: Rule 2 in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^f00003]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12).
+
+[^f00004]: Footnote: [1969 c. 54](https://www.legislation.gov.uk/ukpga/1969/54).
+
+[^f00005]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-de8afcf026e20e17725958c0847e7ce6]: Textual amendment: Words in rule 2(1) inserted (20.6.2003) by [The Magistrates' Courts (Miscellaneous Amendments) Rules 2003 (S.I. 2003/1236)](https://www.legislation.gov.uk/uksi/2003/1236), [rules 1](https://www.legislation.gov.uk/uksi/2003/1236/article/1), [65(a)](https://www.legislation.gov.uk/uksi/2003/1236/article/65/a)
+
+[^key-abffe8afa48b9636e72cf02dba276dc8]: Textual amendment: Words in rule 2(1) inserted (20.6.2003) by [The Magistrates' Courts (Miscellaneous Amendments) Rules 2003 (S.I. 2003/1236)](https://www.legislation.gov.uk/uksi/2003/1236), [rules 1](https://www.legislation.gov.uk/uksi/2003/1236/article/1), [65(b)](https://www.legislation.gov.uk/uksi/2003/1236/article/65/b)
+
+[^key-6b6dcef81975bee98fe54cab08201242]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/1992/2071/rule/3) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^f00006]: Footnote: [S.I. 1981/552](https://www.legislation.gov.uk/uksi/1981/552), amended by [S.I. 1982/245](https://www.legislation.gov.uk/uksi/1982/245), [1983/523](https://www.legislation.gov.uk/uksi/1983/523), [1984/1552](https://www.legislation.gov.uk/uksi/1984/1552), [1985/1695](https://www.legislation.gov.uk/uksi/1985/1695), [1944](https://www.legislation.gov.uk/uksi/1985/1944), [1986/1332](https://www.legislation.gov.uk/uksi/1986/1332), [1988/2132](https://www.legislation.gov.uk/uksi/1988/2132), [1989/300](https://www.legislation.gov.uk/uksi/1989/300), [384](https://www.legislation.gov.uk/uksi/1989/384), [1990/226](https://www.legislation.gov.uk/uksi/1990/226), [1190](https://www.legislation.gov.uk/uksi/1990/1190), [2260](https://www.legislation.gov.uk/uksi/1990/2260).
+
+[^key-cdc8c8d1803e6c7777c0081e18e1aee5]: Textual amendment: Rule 4 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 38.1](https://www.legislation.gov.uk/uksi/2005/384/rule/38.1) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-1f51d9774a1cd357002464e682ac2931]: Textual amendment: Rule 5 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 38.2](https://www.legislation.gov.uk/uksi/2005/384/rule/38.2) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-5c2edeff5ba12fc48d6634a8739d309c]: Textual amendment: Rule 6 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 38.3](https://www.legislation.gov.uk/uksi/2005/384/rule/38.3) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-44e77e63f38ea8983618aa112b046218]: Textual amendment: Rule 7 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 38.4](https://www.legislation.gov.uk/uksi/2005/384/rule/38.4) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-f0cd9ca0d2372713408e68a8839cece7]: Textual amendment: Rule 8 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 38.5](https://www.legislation.gov.uk/uksi/2005/384/rule/38.5) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-7d7c52dd7beafb450fee4a39bf4d2d85]: Textual amendment: Rule 9 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 38.6](https://www.legislation.gov.uk/uksi/2005/384/rule/38.6) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-0037b55f50c9e4805bc699a065caf724]: Textual amendment: Rule 10 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 44](https://www.legislation.gov.uk/uksi/2005/384/rule/44).1 (with rule 2.1)
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-bb8b3ec28d9a52ec87fb73272d408439]: Textual amendment: Rule 11 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 44.2](https://www.legislation.gov.uk/uksi/2005/384/rule/44.2) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-b99481ad52103788d9b34824ca1acc9b]: Textual amendment: Rule 12 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 19.9](https://www.legislation.gov.uk/uksi/2005/384/rule/19.9) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-c59164d2cf39e84ee5d57abca20d826a]: Commencement: Rule 13 in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^f00009]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49); sections 72 and 73 were amended by the Act of 1969, Schedule 5, paragraphs 58 and 59 and Schedule 6.
+
+[^key-2b2c721e971fd76d0acdbc72ecb54254]: Textual amendment: Words in rule13(2) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [26](https://www.legislation.gov.uk/uksi/2014/879/article/26)
+
+[^key-f2d601f91060ad4075d21daeb2f2d608]: Commencement: Rule 14 in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-9d6f2beab843f4d7340d566d3c1308bb]: Textual amendment: Words in rule 27(1)(a) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 158](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/158)
+
+[^key-9dc1587e3333c62b9c1011d4b8f61f6f]: Textual amendment: Words in rule 14(1) substituted (1.4.2001) by [The Magistrates' Courts (Transfer of Justices' Clerks' Functions) (Miscellaneous Amendments) Rules 2001 (S.I. 2001/615)](https://www.legislation.gov.uk/uksi/2001/615), [rule 1](https://www.legislation.gov.uk/uksi/2001/615/article/1), [Sch. 1 para. 126](https://www.legislation.gov.uk/uksi/2001/615/schedule/1/paragraph/126)
+
+[^key-ba6b5f758d8d7e62c1f3ccaf3a82aa90]: Textual amendment: [Rule 14(3)(c)(d)](https://www.legislation.gov.uk/uksi/1992/2071/rule/14/3/c/d) substituted for rule 14(3)(c) (1.9.2009) by [The Human Fertilisation and Embryology (Consequential Amendments and Transitional and Saving Provisions) Order 2009 (S.I. 2009/1892)](https://www.legislation.gov.uk/uksi/2009/1892), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/1892/article/1/1/a), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/1892/schedule/1/paragraph/11) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1892/schedule/4))
+
+[^key-bf86bd5b7876a8d1d063544b4bbd7fcb]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/1992/2071/rule/15) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-8b1bb125dfa829361a9d946b56d54e6f]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/1992/2071/rule/16) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^f00010]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-a4d4dd2cd1816140a9e08f0d3f25f81f]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/1992/2071/rule/17) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-1fa44b278e4e06105e98272343d71394]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/1992/2071/rule/18) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-e08d191710c1dcfe3fb4f9002eeb2c41]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/1992/2071/rule/19) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-41658af1e701f018481e5b53d17cc0b8]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/1992/2071/rule/20) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-4e3b56277b9135bfb033db3cdd57a222]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/1992/2071/rule/21) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-59ec65d368e32bd0049c4b19c9b68f5c]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/1992/2071/rule/22) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-a84e09e7c0b80d2c546657fefe46907a]: Textual amendment: Rule 23 revoked (24.7.2002) by [The Magistrates' Courts (Special Measures Directions) Rules 2002 (S.I. 2002/1687)](https://www.legislation.gov.uk/uksi/2002/1687), [rules 1(1)](https://www.legislation.gov.uk/uksi/2002/1687/article/1/1), [10](https://www.legislation.gov.uk/uksi/2002/1687/article/10)
+
+[^key-ece20894955fee184b1933c628228255]: Textual amendment: Rule 24 revoked (24.7.2002) by [The Magistrates' Courts (Special Measures Directions) Rules 2002 (S.I. 2002/1687)](https://www.legislation.gov.uk/uksi/2002/1687), [rules 1(1)](https://www.legislation.gov.uk/uksi/2002/1687/article/1/1), [10](https://www.legislation.gov.uk/uksi/2002/1687/article/10)
+
+[^key-dd5ac3a10728cf84102b3827dae47dbc]: Textual amendment: Rule 25 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 6.1](https://www.legislation.gov.uk/uksi/2005/384/rule/6.1) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-a364c1ed6937d650558fe69698e911f4]: Textual amendment: Rule 26 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 7.8](https://www.legislation.gov.uk/uksi/2005/384/rule/7.8) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-8e5e27915a68d42de961fd2456aede95]: Textual amendment: Rule 27 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 52.14](https://www.legislation.gov.uk/uksi/2005/384/rule/52.14) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-287d1d7ba595b7edb649bbe6c9b601b5]: Textual amendment: Rule 28 revoked (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 18.7](https://www.legislation.gov.uk/uksi/2005/384/rule/18.7) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1))
+
+    \[**Editorial note**: This rule, the substance of which is reproduced in and replaced by the Criminal Procedure Rules, is revoked by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) when those Rules come into force, see [CrimPR rule 2.1 note](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1).\]
+
+[^key-d61dd9f40ea08f79184b24554fbcb13f]: Commencement: Rule 29 in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^f00017]: Footnote: [S.I. 1981/553](https://www.legislation.gov.uk/uksi/1981/553), amended by [S.I. 1982/246](https://www.legislation.gov.uk/uksi/1982/246), [1983/524](https://www.legislation.gov.uk/uksi/1983/524), [1984/1542](https://www.legislation.gov.uk/uksi/1984/1542), [1985/1945](https://www.legislation.gov.uk/uksi/1985/1945), [1986/1333](https://www.legislation.gov.uk/uksi/1986/1333), [1990/336](https://www.legislation.gov.uk/uksi/1990/336).
+
+[^key-daa6a5677529ca3d475722313812a6e7]: Textual amendment: Rule 29(2)(3) omitted (20.6.2003) by virtue of [The Magistrates' Courts (Miscellaneous Amendments) Rules 2003 (S.I. 2003/1236)](https://www.legislation.gov.uk/uksi/2003/1236), [rules 1](https://www.legislation.gov.uk/uksi/2003/1236/article/1), [70](https://www.legislation.gov.uk/uksi/2003/1236/article/70)
+
+[^key-ca2a208b8b70c6bc075e8f0364c217c3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1992/2071/schedule/1) in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-e48458a35bfb9daaec2dc4a36cdd96be]: Commencement: Sch. 2 in force at 1.10.1992, see [rule 1](https://www.legislation.gov.uk/uksi/1992/2071/rule/1)
+
+[^key-9a1d8d73ff8a4a4ec19d123e2bd5e484]: Textual amendment: Sch. 2 Forms (except Forms 7 and 10) omitted (20.6.2003) by virtue of [The Magistrates' Courts (Miscellaneous Amendments) Rules 2003 (S.I. 2003/1236)](https://www.legislation.gov.uk/uksi/2003/1236), [rules 1](https://www.legislation.gov.uk/uksi/2003/1236/article/1), [71](https://www.legislation.gov.uk/uksi/2003/1236/article/71)

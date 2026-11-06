@@ -1,0 +1,46 @@
+---
+title: United Kingdom Internal Market Act 2020, section 12
+act: United Kingdom Internal Market Act 2020
+section: '12'
+status: revised-with-pending-changes
+text_date: '2026-02-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/27/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# United Kingdom Internal Market Act 2020, section 12
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-02-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/27
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 12. Guidance relating to Part 1[^key-43d6a0591d913775c56edf0acb6635dc]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may issue guidance on any matter relating to—
+
+- (a) the practical operation of the United Kingdom market access principles, or
+- (b) the effect of any provision of this Part.
+
+(2) Guidance may be directed towards the public generally or towards any description of persons (such as traders, persons with enforcement functions or a class of such traders or persons).
+
+(3) In subsection (2) “**enforcement function**” means a function relating to the enforcement of anything which is (or is capable of being) a relevant requirement for the purposes of either of the market access principles for goods.
+
+(4) The power of the Secretary of State under subsection (1) includes power to revise or withdraw (in whole or part) any guidance previously issued.
+
+(5) Before issuing, revising or withdrawing guidance under subsection (1), the Secretary of State must consult the Scottish Ministers, the Welsh Ministers and the Department for the Economy in Northern Ireland.
+
+(6) The Secretary of State must arrange for the publication of—
+
+- (a) any guidance that has been issued, as revised from time to time;
+- (b) any revisions made under subsection (4);
+- (c) notice of the withdrawal of any guidance under subsection (4).
+
+(7) In this section “**guidance**” means guidance under subsection (1).
+
+## Annotations
+
+[^key-43d6a0591d913775c56edf0acb6635dc]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/27/section/12) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

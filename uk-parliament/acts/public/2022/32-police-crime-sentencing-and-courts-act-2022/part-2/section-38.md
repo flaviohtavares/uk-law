@@ -1,0 +1,101 @@
+---
+title: Police, Crime, Sentencing and Courts Act 2022, section 38
+act: Police, Crime, Sentencing and Courts Act 2022
+section: '38'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/32/section/38
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police, Crime, Sentencing and Courts Act 2022, section 38
+
+> **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 38. Application of section 37 to children and adults without capacity[^key-574fd2dcf77357a84c6275fff0a15ad3][^key-5958c98f72ca314be921a42dc238fd59]
+
+*Extent: E+W+S+N.I.*
+
+(1) A child is not to be treated for the purposes of section 37(1) as being capable of—
+
+- (a) voluntarily providing an electronic device to an authorised person for those purposes, or
+- (b) agreeing for those purposes to the extraction of information from the device by an authorised person.
+
+(2) If a child is a user of an electronic device, a person who is not a user of the device but is listed in subsection (3) may—
+
+- (a) voluntarily provide the device to an authorised person for the purposes of section 37(1), and
+- (b) agree for those purposes to the extraction of information from the device by an authorised person.
+
+(3) The persons mentioned in subsection (2) are—
+
+- (a) a parent or guardian of the child or, if the child is in the care of a relevant authority or voluntary organisation, a person representing that authority or organisation, or
+- (b) if no person within paragraph (a) is available, any responsible person who is aged 18 or over other than a relevant authorised person.
+
+(4) Before exercising the power under section 37(1) by virtue of subsection (2), an authorised person must, so far as it is reasonably practicable to do so—
+
+- (a) ascertain the views of the child, and
+- (b) have regard to any views so ascertained, taking account of the child’s age and maturity.
+
+(5) If an authorised person (“**A**”) exercises the power under section 37(1) as a result of action taken under subsection (2) by a person within subsection (3)(b), A must, unless A considers that it is not appropriate to do so, inform a person within subsection (3)(a) that A has exercised the power.
+
+(6) An adult without capacity is not to be treated for the purposes of section 37(1) as being capable of—
+
+- (a) voluntarily providing an electronic device to an authorised person for those purposes, or
+- (b) agreeing for those purposes to the extraction of information from the device by an authorised person.
+
+(7) If a user of an electronic device is an adult without capacity, a person who is not a user of the device but is listed in subsection (8) may—
+
+- (a) voluntarily provide the device to an authorised person for the purposes of section 37(1), and
+- (b) agree for those purposes to the extraction of information from the device by an authorised person.
+
+(8) The persons mentioned in subsection (7) are—
+
+- (a) a parent or guardian of the adult without capacity or, if the adult without capacity is in the care of a relevant authority or voluntary organisation, a person representing that authority or organisation,
+- (b) a registered social worker,
+- (c) a person who, under a power of attorney, may make decisions for the purposes of subsection (7)(a) and (b) on behalf of the adult without capacity,
+- (d) a deputy appointed under section 16 of the Mental Capacity Act 2005 or section 113 of the Mental Capacity Act (Northern Ireland) 2016 who may make decisions for the purposes of subsection (7)(a) and (b) on behalf of the adult without capacity by virtue of that appointment,
+- (e) a person authorised under an intervention order under section 53 of the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4) who may make decisions for the purposes of subsection (7)(a) and (b) on behalf of the adult without capacity by virtue of that authorisation, or
+- (f) if no person within any of paragraphs (a) to (e) is available, any responsible person who is aged 18 or over other than a relevant authorised person.
+
+(9) Nothing in this section prevents any other user of an electronic device who is not a child or an adult without capacity from—
+
+- (a) voluntarily providing the device to an authorised person for the purposes of section 37(1), or
+- (b) agreeing for those purposes to the extraction of information from the device by an authorised person.
+
+(10) For the purposes of this Chapter a person is an adult without capacity if—
+
+- (a) in relation to England and Wales, the person is an adult who, within the meaning of the Mental Capacity Act 2005, lacks capacity to do the things mentioned in section 37(1)(a) and (b);
+- (b) in relation to Scotland, the person is an adult (within the meaning of this Chapter) who is incapable within the meaning of the Adults with Incapacity (Scotland) Act 2000 in relation to the matters mentioned in section 37(1)(a) and (b);
+- (c) in relation to Northern Ireland, the person is an adult who, within the meaning of the Mental Capacity Act (Northern Ireland) 2016, lacks capacity to do the things mentioned in section 37(1)(a) and (b).
+
+(11) In this Chapter—
+
+- “local authority”—
+  - (a) in relation to England, means a county council, a district council for an area for which there is no county council, a London borough council or the Common Council of the City of London in its capacity as a local authority;
+  - (b) in relation to Wales, means a county council or a county borough council;
+  - (c) in relation to Scotland, means a council constituted under section 2 of the Local Government etc (Scotland) Act 1994;
+- “**registered social worker**” means a person registered as a social worker in a register maintained by—
+  - (a) Social Work England,
+  - (b) the Care Council for Wales,
+  - (c) the Scottish Social Services Council, or
+  - (d) the Northern Ireland Social Care Council;
+- “**relevant authorised person**”, in relation to the extraction of information from an electronic device for a particular purpose, means an authorised person who may extract the information from the device for that purpose;
+- “relevant authority”—
+  - (a) in relation to England and Wales and Scotland, means a local authority;
+  - (b) in relation to Northern Ireland, means an authority within the meaning of the Children (Northern Ireland) Order 1995 ([S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755));
+- “voluntary organisation”—
+  - (a) in relation to England and Wales, has the same meaning as in the Children Act 1989;
+  - (b) in relation to Scotland, has the same meaning as in Part 2 of the Children (Scotland) Act 1995;
+  - (c) in relation to Northern Ireland, has the same meaning as in the Children (Northern Ireland) Order 1995.
+
+(12) This section is subject to section 39 (requirements for voluntary provision and agreement).
+
+## Annotations
+
+[^key-574fd2dcf77357a84c6275fff0a15ad3]: Commencement: S. 38 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+
+[^key-5958c98f72ca314be921a42dc238fd59]: Commencement: S. 38 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/b)

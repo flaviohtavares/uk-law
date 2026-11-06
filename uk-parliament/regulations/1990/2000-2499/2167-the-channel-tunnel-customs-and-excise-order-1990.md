@@ -1,0 +1,482 @@
+---
+title: The Channel Tunnel (Customs and Excise) Order 1990
+id: uksi/1990/2167
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1990-11-01'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1990/2167
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/2167/pdfs/uksi_19902167_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/2167/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Channel Tunnel (Customs and Excise) Order 1990
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1990 No. 2167
+
+CHANNEL TUNNEL
+
+The Channel Tunnel (Customs and Excise) Order 1990
+
+Made
+
+1st November 1990
+
+Laid before Parliament
+
+9th November 1990
+
+Coming into force
+
+1st December 1990
+
+The Commissioners of Customs and Excise in exercise of the powers conferred upon them by sections 11(1)(a), (c), (d), (g) and (h), 11(2), 11(3)(a) and (d), and 13(1) and (2) of the Channel Tunnel Act 1987[^f00001] and of all other powers enabling them in that behalf hereby make the following Order:
+
+## 1. Citation and commencement[^key-c100d3dbe11bc89e18b4dd97a4777fab]
+
+This Order may be cited as the Channel Tunnel (Customs and Excise) Order 1990 and shall come into force on 1st December 1990.
+
+## 2. Interpretation[^key-ec16431f3c10a876e6ce4e80ca3a55d4]
+
+(1) In this Order–
+
+- “the Act of 1979” means the Customs and Excise Management Act 1979[^f00002];
+- “the Act of 1987” means the Channel Tunnel Act 1987;
+- “customs approved area” has the meaning given by article 3(1) below;
+- “the tunnel” except in the expression “tunnel system” means that part of the tunnel system comprising the tunnels specified in section 1(7)(a) of the Act 1987 or any of those tunnels.
+
+(2) In this Order the following expressions have the meanings assigned to them by section 1 of the Act of 1979: “approved wharf”;
+
+- “the boundary”;
+- “commander”;
+- “the Commissioners”;
+- “the customs and excise Acts”;
+- “customs and excise airport”;
+- “goods”;
+- “officer”;
+- “owner”;
+- “port”;
+- “proper”;[^key-54e9c795b032ce4d3c0ab6168e1ac792]
+- “ship”;
+- “shipped” and cognate expressions.
+
+(3)[^key-a7856b3b79091cdc905d0eb3f45e702e] In this Order the following expressions have the same meaning as in the Channel Tunnel (International Arrangements) Order 1993
+
+- “Concessionaires”;
+- “the international articles”[^key-a2b94f2a03930331036a0dc7a22c7928]
+- [^key-3c6310309942eaabca936b50e80e714c]...
+- “international service”;
+- “shuttle train”;
+- “terminal control point”;
+- “through train”;
+- “train manager”.
+
+(4)[^key-7a5eac57b79311c9527179c279f7ff0b] In this Order—
+
+- “control zone” includes, subject to paragraph (5), a control zone within the meaning of the Channel Tunnel (International Arrangements) Order 1993 (“the 1993 Order”) and a control zone within the meaning of the Channel Tunnel (Miscellaneous Provisions) Order 1994 (“the 1994 Order”); and
+- “Designated State” means the French Republic, the Kingdom of Belgium or the Kingdom of the Netherlands;[^key-b0b9bb0b85add788f97aab5ec1dec504]
+- “the Part II provisions” has the same meaning as in the 1994 Order.
+
+(5) In the first place in which it occurs in article 3(1), in article 5(2)(a), and in the Schedule to this Order—
+
+- (a) in paragraph 7(b)(iii),
+- (b) in the second place in which it occurs in paragraph 17C, and
+- (c) in paragraph 22,
+  - “control zone” has the same meaning as in the 1993 Order.
+
+## 3. Channel tunnel customs approved areas[^key-0d8c01df7ce4c7b8417daa3f9f5ee2da]
+
+(1) The Commissioners may approve, for such periods and subject to such conditions and restrictions[^key-b9bffb2aca8e7a710cc623bf4c5dbe15] as they think fit, places in the United Kingdom, and in France in a control zone within the tunnel system,[^key-e09ef8a6b54f5e89cdbb46caafb5c089] for the customs and excise control of persons, goods or vehicles in relation to the construction, operation or use of the tunnel or any part of it , and may also so approve all or any through trains while they are within any area in the United Kingdom specified in the approval or while they constitute a control zone, and any place or train[^key-adf18632ed198bf75960aec8d66878ac] so approved is referred to in this Order as a “customs approved area”.
+
+(2) Without prejudice to the generality of paragraph (1) above, the conditions and restrictions mentioned in that paragraph may include such as relate to–
+
+- (a) the security of a customs approved area;
+- (b) the access and egress of persons, goods and vehicles to and from it;
+- (c) the giving of notice to the Commissioners of the arrival of persons at it through the tunnel from France;
+- (d) the provision of accommodation for the use of the Commissioners and the costs of and incidental to such provision;
+- (e) the processing of goods in it;
+- (f) the keeping of records.
+
+(3) Different conditions and restrictions may be imposed in respect of different parts of a customs approved area.
+
+(4) The Commissioners may at any time for reasonable cause revoke or vary the terms of any approval given under paragraph (1).
+
+(5) An officer may at any time enter a customs approved area and inspect it and any buildings and goods in it.
+
+(6)[^key-da93049f517661d1c5f0c0cc8bae4928] [^key-7d941fced32d7f1ba4ecf0ea06db1ecb]...—
+
+- (a) goods imported through the tunnel shall not be unloaded from the importing vehicle, and
+- (b) goods to be exported through the tunnel shall not be loaded onto the exporting vehicle,
+
+except at a place which is a customs approved area.
+
+(6A)[^key-de1f6edb3c2731ac71bdb1f2d0e301a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6B)[^key-de1f6edb3c2731ac71bdb1f2d0e301a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Any person contravening or failing to comply with paragraph (6) above or with any condition or restriction imposed by the Commissioners under paragraph (1) above shall be liable on summary conviction to a penalty not exceeding level 3 on the standard scale.
+
+## 4. Modification of the Act of 1979[^key-5cb6124cfd212d4b233a0655203334e6]
+
+The Act of 1979 shall be modified in accordance with the provisions of the Schedule to this Order.
+
+## 5. Time of importation, exportation etc.[^key-bb616dff58d8771026d3c55a9189b80b]
+
+(1) The provisions of this article shall have effect for the purposes of the customs and excise Acts and of any enactment under or by virtue of which any prohibition or restriction with respect to the importation or exportation of any goods is for the time being in force[^key-35f37656a951f6d1c48e258bc8f857a2].
+
+(2)[^key-cd6392a62cff10a26e19403b00d96a5a] Goods intended to be brought into the United Kingdom through the tunnel shall be treated as being imported into the United Kingdom—
+
+- (a) Subject to paragraph (8),[^key-8ecfc075e7ce1ce6db501f7ba432fda0] in the case of goods intended to be carried in a shuttle train, when they are taken into a control zone in France within the tunnel system,[^key-31b5fc32435443e2f672702d9b7b6ff6]
+- (b) in the case of goods carried, while the train constitutes a control zone in a Designated State[^key-a6a752f34aad7549096c25c0869b4c4b], in a through train carrying passengers on a journey intended to end at a place in Great Britain other than London, at the time when officers become authorised under Article 12 of the international Articles or, as the case may be, under Article 5 of the Part II provisions, to begin to carry out controls, and
+- (c) in any other case, when they cross the frontier.
+
+(5) Subject to paragraph (6) below, where any goods are exported through the tunnel the time of exportation of any goods so exported shall be deemed to be the time when they are loaded onto the exporting vehicle.
+
+(6) In the case of goods of a class or description with respect to the exportation of which any prohibition or restriction is for the time being in force under or by virtue of any enactment and which are exported by vehicle through the tunnel, the time of exportation shall be deemed to be the time when the exporting vehicle departs from the last customs approved area at which goods were loaded onto it for exportation.
+
+(7)[^key-8fdc16285df457db6ad8742f1f157c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-25af0c55b44c5242262e0244af2adc15] The goods are not to be treated as having been imported where the goods are removed from a control zone before boarding the shuttle train.
+
+(9) The treatment of goods as not imported under paragraph (8) does not affect any penalty, forfeiture or punishment, or any investigation, proceeding or remedy in respect of any such penalty, forfeiture or punishment, incurred in respect of the goods while the goods were in the control zone.
+
+Alexander W. Russell
+
+Commissioner of Customs and Excise
+
+New King’s Beam House,
+
+22 Upper Ground,
+
+London SE1 9PJ
+
+1st November 1990
+
+## SCHEDULE — MODIFICATIONS OF THE ACT OF 1979
+
+Article 4
+
+### Part II of the Act of 1979: Administration[^key-948d6e864d29d7742f4fce855beab86e]
+
+**A1.** In section 17(1) (disposal of duties, etc.) the reference to Great Britain shall be construed as including a reference to a control zone in a Designated State[^key-f0ae8e460b618c050523d9e7edb9802c].
+
+### PART III of the Act of 1979: Customs and Excise Control Areas
+
+**A2.**[^key-8b17787afba10c08bb67e96b46c846dc] (1) For the purposes of section 21 (control of movement of aircraft, etc., into and out of the United Kingdom) references to an aircraft shall be treated as including references to a through train, and in relation to such trains section 21 shall be construed in accordance with sub—paragraphs (2) to (5).
+
+(2) References to a customs and excise airport shall be construed as references to a terminal control point or a place which is a customs approved area.
+
+(3) References to a flight shall be construed as references to a journey, and the reference in section 21(4) to flying shall be construed accordingly.
+
+(4) References to landing shall be construed as references to stopping for the purpose of enabling passengers or crew to board or leave the train or goods to be loaded onto or unloaded from it.
+
+(5) References to the commander of an aircraft shall be construed as references to the train manager of a train.
+
+**1.**[^key-73064f362234ce7cf8764dc21080eeee] Sections 27[^f00003] and 28[^f00004] (officers' powers of boarding and access, etc.) shall have effect as if a vehicle at, entering or leaving a customs approved area fell within paragraphs (a) to (f) of subsection (1) of section 27 and as if a through train fell within those paragraphs while it constituted a control zone in[^key-297f44d7d64bb42e9d4eb6c0c7438e3b] a Designated State[^key-a4adcae3299eb1f2b3025137f5bb6be9].
+
+**2.**[^key-02e9085c2d37f28db98a3cd326b2c54a] Section 29(3) (officers' powers of detention of ships, etc.) shall have effect as if any vehicle that has arrived from France through the tunnel were a vehicle in Northern Ireland.
+
+**3.**[^key-6205845996b00f7d5fb2b72ce50bfe5e] For the purposes of section 30(1) (control of movement of uncleared goods within or between port or airport and other places) a customs approved area shall be treated as being within the limits of a port, whether or not it is.
+
+**3A.**[^key-80a9b34aba795c0785cba1da05508b14] In section 31(1) (control of movement of goods to and from inland clearance depot, etc.) the reference to the place of importation shall be construed as including a reference to a customs approved area in France.
+
+**4.**[^key-1d2672a07f453f1d8380d5e3ce9f4d6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4A.**[^key-175747c687f040899a7fd48833d4a303] (1) For the purposes of section 33 (power to inspect aircraft, aerodromes, records, etc.) references to an aircraft shall be treated as including references to a through train and to a shuttle train, and in relation to such trains section 33—
+
+- (a) shall have effect as if in section 33(3) the words from “licensed” to “other aerodrome” had not been enacted, and
+- (b) shall be construed in accordance with sub—paragraphs (2) and (3).
+
+(2)[^key-7ddc05a5c7d1ab700c932ba3e8601fed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) References to an aerodrome shall be construed as references to a place which is a customs approved area.
+
+**4B.** (1) For the purposes of section 34 (power to prevent flight of aircraft) references to an aircraft shall be treated as including references to a through train, and in relation to such trains section 34 shall (subject to sub-paragraph 4)[^key-f597ee25fcc256c3f90c6f4044311fef] be construed in accordance with sub—paragraphs (2) and (3)[^key-0cf7d52e5228d6ff698efc311b369753].
+
+(2) References to a customs and excise airport shall be construed as references to a place which is a customs approved area.
+
+(3) References to a flight shall be construed as references to a journey, and any cognate expression shall be construed accordingly.
+
+(4)[^key-df25a9ee49cc8dcd0938737be28427ba] The modifications in this paragraph do not apply to section 34(1A) .
+
+### PART IV of the Act of 1979: Control of Importation
+
+**5.**[^key-85235a8ceffbab2d38295bceb2cab62b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5A.**[^key-8eefeaac4fa9db13375a96f8ea6aa401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-31fac8d7ae69c2de59032cc77a1519a6] In section 42(1)(a) (power to regulate the unloading, removal, etc. of imported goods) the reference to a vehicle entering the United Kingdom[^key-f90afd78dd8590f42ade9c49168ced95] shall be construed as including a reference to a vehicle arriving at a place which is a customs approved area either in France or through the tunnel from France[^key-e8318d81d66639f2b10c7fafdb9cd24c].
+
+**7.**[^key-240ae3577f547071cbb1c5b8a83eea18] In section 49(1) (forfeiture of goods improperly imported)—
+
+- (a) the reference in paragraph (a)(ii) to goods unloaded from any aircraft in the United Kingdom shall be construed as including a reference to goods unloaded from a through train or shuttle train which has brought them into the United Kingdom and a reference to goods otherwise brought through the tunnel into the United Kingdom; and
+- (b) the reference in paragraph (c) to goods found to have been concealed on board any aircraft shall be construed as including references to goods found concealed—
+  - (i) on a through train or shuttle train which has brought them into the United Kingdom,
+  - (ii) on a through train while it constitutes a control zone in France or Belgium[^key-e2c5a1534a40375575ba8388c620d286], or
+  - (iii) in a road vehicle in a control zone in France within the tunnel system.
+
+**8.**[^key-d7e0d97eb158074f7d0184349e2e1a5e] Section 50(2) (penalty for improper importation of goods) shall have effect as if–
+
+- (a)[^key-67b10812a91f7d8aa5f124d6dcdf0da7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any person who removes or assists or is otherwise concerned in the removal of such goods from any customs approved area were a person who removes such goods from an approved wharf.
+
+### PART V of the Act of 1979: Control of Exportation
+
+**9.**[^key-cadb8e1749ac02c4a1c868b6e1b2ceb5] In sections 53[^f00007] (entry outwards of goods)[^key-5c62f917f30ef4bd96edc10df387314e]... any reference to goods shipped or shipped for exportation shall be construed as including a reference to goods loaded onto a vehicle for exportation through the tunnel.
+
+**10.**[^key-0e719ba254f9f25f50c79e08dcef5eff][^key-d16c6ade61601277339da4b1f7218a2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-0e719ba254f9f25f50c79e08dcef5eff][^key-b4cdb96dbe8ed5d206aa1d57fef54bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-0e719ba254f9f25f50c79e08dcef5eff][^key-727080c20125ad29d7a0a2de6b89a4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12A.**[^key-0e719ba254f9f25f50c79e08dcef5eff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-0e719ba254f9f25f50c79e08dcef5eff][^key-69fd1ad37116edf6ef56f35e5d0af611] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-0e719ba254f9f25f50c79e08dcef5eff][^key-5a46fa9b17e5f7a486cc09dc471db40a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-0e719ba254f9f25f50c79e08dcef5eff][^key-5c9f539cc646fe073376b374e4f50a1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-0e719ba254f9f25f50c79e08dcef5eff][^key-0ab0d236b7a247d5dd01bb8b9aa0f66b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART VII of the Act of 1979: Customs and Excise Control: Supplementary Provisions
+
+**17.**[^key-c9661a675bb55cd6e29366eff8de1905] In section 75(1) (explosives) the reference to goods loaded into a ship for exportation shall be construed as including a reference to goods loaded onto a vehicle for exportation through the tunnel.
+
+**17A.**[^key-aaa92e390e520564336fc8253daaa27c] For the purposes of section 77 (information in relation to goods imported or exported) goods about to be loaded onto a vehicle for exportation through the tunnel shall be treated as goods about to be shipped for exportation, and the reference in subsection (3) to shipment shall be construed accordingly.
+
+**17B.** For the purposes of section 78 (customs and excise control of persons entering or leaving the United Kingdom)—
+
+- (a) a person intending to travel to the United Kingdom through the tunnel who has entered a control zone in a Designated State[^key-37e0080e8494198b05bd8073787b53c2] shall be treated as a person entering the United Kingdom,
+- (b) a person who has travelled from the United Kingdom through the tunnel and is in such a control zone shall be treated as still being a person leaving the United Kingdom, and
+- (c) concealment shall be taken to include concealment in such a control zone.
+
+**17C.** For the purposes of section 83(1) (penalty for removing seals, etc.)—
+
+- (a) goods which are in a control zone in a Designated State[^key-0eda703410ce83919a407a50212a6327] shall be treated as being in the United Kingdom, and
+- (b) goods in a through train shall be deemed to be in the charge of the person operating the international service on which the train is engaged,
+
+and for the purposes of section 83(3)(b) goods which are in a control zone in a Designated State shall be treated as being in the United Kingdom.
+
+**18.**[^key-f2f3a5b0cb63e273c99707071addf86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18A.**[^key-3e27bcfe7d82e971450af1594783d0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^key-fe0f57aadb334c5d7287a04d0ae9d8c4] For the purposes of section 88[^f00017] (forfeiture of ship, aircraft or vehicle constructed, etc. for concealing goods) a vehicle which is or has been in a customs approved area, whether or not such area is within the limits of a port, shall be treated as if it is or has been within the limits of a port.
+
+### PART X of the Act of 1979: Duties and Drawbacks—General Provisions
+
+**20.**[^key-3a2c12b858f3f0692f1637d920e3be7e] Section 134 (drawback and allowance on goods damaged or destroyed after shipment) shall have effect as if goods which have been loaded onto a vehicle for exportation through the tunnel were goods which had been shipped for exportation and as if such vehicle were an exporting ship.
+
+### PART XI of the Act of 1979: Detention of Persons, Forfeiture and Legal Proceedings
+
+**20A.**[^key-528249f0604e005b6c2b690dbad1e41a] The power conferred by section 139(1) to seize or detain any thing liable to forfeiture shall be taken to include a power for any officer or constable to seize or detain any such thing in a control zone in a Designated State[^key-63c4c1ac9c1a7f1ef5024b72490a7ffd].
+
+**21.**[^key-6c90807050c585b3c3501e1bda03665c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^key-f48b40a3f6fd630948c0090c5714322b] In section 146(1) (service of process) the reference in paragraph (c) to an aircraft shall be construed as including a reference to a vehicle which has arrived from or is departing to France through the tunnel , and in relation to such a vehicle the second reference to the United Kingdom shall be construed as including a reference to a control zone in France within the tunnel system[^key-1656d868c8390ccaf67d9e54d4da2015].
+
+**23.**[^key-0c8d81edf7d39bd260d7c62b1bfb4ed5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24.**[^key-74927edc4637eeca143d7368c27d9230] In section 159(1)[^f00019] (power to examine and take account of goods) the reference in paragraph (c) to goods which have been loaded into a ship shall be construed as including a reference to goods which have been loaded onto a vehicle for exportation through the tunnel.
+
+**25.**[^key-1d4eb274962bdc84ef69787e53cdcb45] The persons to whom section 164 (search of persons) applies shall be taken to include any person who is—
+
+- (a) in the tunnel system in the United Kingdom;
+- (b) in a through train in the United Kingdom;
+- (c) in, entering or leaving a customs approved area in the United Kingdom; or
+- (d) in a control zone in France or Belgium[^key-279450b5864846d969ee17e7ee17c14a].
+
+(This note is not part of the Order)
+
+The effect of this Order is to make such additional provision as is considered necessary or expedient for customs and excise control consequent upon the establishment of a tunnel link between the United Kingdom and France.
+
+Article 3 permits the Commissioners of Customs and Excise to approve one or more areas (“customs approved areas”) for the purpose of such controls and to impose conditions and restrictions in respect of any such area. It also–
+
+- (a) allows an officer of Customs and Excise to enter such area and inspect it and any buildings and goods in it,
+- (b) requires that the unloading of goods imported through the tunnel and the loading of goods to be exported through the tunnel may take place only in such an area, and
+- (c) makes it an offence, triable summarily, to contravene or fail to comply with the provisions of this article as to the loading and unloading of goods or any conditions and restrictions imposed under it.
+
+Article 4 and the Schedule modify certain sections of the Customs and Excise Management Act 1979 to adapt them to the circumstances of the tunnel.
+
+Article 5 makes provision, in respect of goods imported and exported through the tunnel, as to the time when such importation and exportation is to be treated as having occurred.
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
+
+[^key-c100d3dbe11bc89e18b4dd97a4777fab]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-ec16431f3c10a876e6ce4e80ca3a55d4]: Commencement: Art. 2 in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^f00002]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^key-54e9c795b032ce4d3c0ab6168e1ac792]: Textual amendment: Word in art. 2(2) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/8/a)
+
+[^key-a7856b3b79091cdc905d0eb3f45e702e]: Textual amendment: Art. 2(3) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/8/b)
+
+[^key-a2b94f2a03930331036a0dc7a22c7928]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/1990/2167/article/2/3) inserted (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/1), [Sch. 4 para. 5(a)(ii)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/5/a/ii)
+
+[^key-3c6310309942eaabca936b50e80e714c]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/1990/2167/article/2/3) revoked (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/1), [Sch. 4 para. 5(a)(i)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/5/a/i)
+
+[^key-7a5eac57b79311c9527179c279f7ff0b]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/1990/2167/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/1990/2167/article/2/5) inserted (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/1), [Sch. 4 para. 5(b)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/5/b)
+
+[^key-b0b9bb0b85add788f97aab5ec1dec504]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/1990/2167/article/2/4) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/article/1/3), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/14/2/a)
+
+[^key-0d8c01df7ce4c7b8417daa3f9f5ee2da]: Commencement: Art. 3 in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-b9bffb2aca8e7a710cc623bf4c5dbe15]: Textual amendment: Words in art. 3(1) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 9(a)(i)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/9/a/i)
+
+[^key-e09ef8a6b54f5e89cdbb46caafb5c089]: Textual amendment: Words in art. 3(1) substituted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/9/a/ii)
+
+[^key-adf18632ed198bf75960aec8d66878ac]: Textual amendment: Words in art. 3(1) substituted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 9(a)(iii)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/9/a/iii)
+
+[^key-da93049f517661d1c5f0c0cc8bae4928]: Textual amendment: Art. 3(6)-(6B) substituted for art. 3(6) (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/9/b)
+
+[^key-7d941fced32d7f1ba4ecf0ea06db1ecb]: Textual amendment: Words in [art. 3(6)](https://www.legislation.gov.uk/uksi/1990/2167/article/3/6) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/8/1/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-de1f6edb3c2731ac71bdb1f2d0e301a2]: Textual amendment: [Art. 3(6A)](https://www.legislation.gov.uk/uksi/1990/2167/article/3/6A)[(6B)](https://www.legislation.gov.uk/uksi/1990/2167/article/3/6B) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/8/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-5cb6124cfd212d4b233a0655203334e6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1990/2167/article/4) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-bb616dff58d8771026d3c55a9189b80b]: Commencement: Art. 5 in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-35f37656a951f6d1c48e258bc8f857a2]: Textual amendment: Words in art. 5(1) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 10(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/10/a)
+
+[^key-cd6392a62cff10a26e19403b00d96a5a]: Textual amendment: Art. 5(2) substituted for art. 5(2)-(4) (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 10(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/10/b) (with [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/1993/1813/schedule/6/part/II))
+
+[^key-8ecfc075e7ce1ce6db501f7ba432fda0]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/1990/2167/article/5/2/a) inserted (31.12.2020) by [The Channel Tunnel (Customs and Excise) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1417)](https://www.legislation.gov.uk/uksi/2020/1417), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1417/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1417/article/2/2/a)
+
+[^key-31b5fc32435443e2f672702d9b7b6ff6]: Textual amendment: [Art. 5(2)(a)-(c)](https://www.legislation.gov.uk/uksi/1990/2167/article/5/2/a) substituted for [art. 5(2)(a)(b)](https://www.legislation.gov.uk/uksi/1990/2167/article/5/2/a) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/6)
+
+[^key-a6a752f34aad7549096c25c0869b4c4b]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/1990/2167/article/5/2/b) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/article/1/3), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/14/2/b)
+
+[^key-8fdc16285df457db6ad8742f1f157c8a]: Textual amendment: Art. 5(7) revoked (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/1993/1813/schedule/6/part/II)
+
+[^key-25af0c55b44c5242262e0244af2adc15]: Textual amendment: [Art. 5(8)](https://www.legislation.gov.uk/uksi/1990/2167/article/5/8)[(9)](https://www.legislation.gov.uk/uksi/1990/2167/article/5/9) inserted (31.12.2020) by [The Channel Tunnel (Customs and Excise) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1417)](https://www.legislation.gov.uk/uksi/2020/1417), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1417/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1417/article/2/2/b)
+
+[^key-948d6e864d29d7742f4fce855beab86e]: Textual amendment: [Sch. para. A1](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/A1) and cross-heading inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 11](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/11)
+
+[^key-f0ae8e460b618c050523d9e7edb9802c]: Textual amendment: Words in [Sch. para. A1](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/A1) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/article/1/3), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/14/2/c)
+
+[^key-8b17787afba10c08bb67e96b46c846dc]: Textual amendment: [Sch. para. A2](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/A2) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 12](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/12)
+
+[^key-73064f362234ce7cf8764dc21080eeee]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/1) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^f00003]: Footnote: Section 27(1) was amended by the Finance Act [1983 (c. 28)](https://www.legislation.gov.uk/ukpga/1983/28), section 7(4) and by the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), section 7(1). The provision as to penalty in section 27(2) was amended in its application to England and Wales by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 46; in its application to Scotland by the Criminal Procedure (Scotland) Act [1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), section 289G (which was inserted by the Criminal Justice Act 1982, section 54); and in its application to Northern Ireland by S.I. [1984/703 (N.I.3)](https://www.legislation.gov.uk/nisi/1984/703). The amounts of the penalties on the levels of the standard scale have been increased most recently by S.I. [1984/447](https://www.legislation.gov.uk/uksi/1984/447), [526](https://www.legislation.gov.uk/uksi/1984/526) and [S.R. (N.I.) 1984 No. 253](https://www.legislation.gov.uk/nisr/1984/253).
+
+[^f00004]: Footnote: Section 28(1) was amended by the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), section 7(2).
+
+[^key-297f44d7d64bb42e9d4eb6c0c7438e3b]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/1) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 13](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/13)
+
+[^key-a4adcae3299eb1f2b3025137f5bb6be9]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/1) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/article/1/3), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/14/2/c)
+
+[^key-02e9085c2d37f28db98a3cd326b2c54a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/2) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-6205845996b00f7d5fb2b72ce50bfe5e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/3) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-80a9b34aba795c0785cba1da05508b14]: Textual amendment: [Sch. para. 3A](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/3A) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 14](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/14)
+
+[^key-1d2672a07f453f1d8380d5e3ce9f4d6f]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/4) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-175747c687f040899a7fd48833d4a303]: Textual amendment: [Sch. paras. 4A](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/4A), [4B](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/4B) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 16](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/16)
+
+[^key-7ddc05a5c7d1ab700c932ba3e8601fed]: Textual amendment: [Sch. para. 4A(2)](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/4A/2) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-f597ee25fcc256c3f90c6f4044311fef]: Textual amendment: Words in [Sch. para. 4B(1)](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/4B/1) inserted (31.12.2020) by [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/3/a/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-0cf7d52e5228d6ff698efc311b369753]: Textual amendment: Words in [Sch. para. 4B(1)](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/4B/1) substituted (31.12.2020) by [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/3/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-df25a9ee49cc8dcd0938737be28427ba]: Textual amendment: [Sch. para. 4B(4)](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/4B/4) substituted (31.12.2020) by [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/3/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-85235a8ceffbab2d38295bceb2cab62b]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/5) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/4); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-8eefeaac4fa9db13375a96f8ea6aa401]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/5A) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/4); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-31fac8d7ae69c2de59032cc77a1519a6]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/6) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-f90afd78dd8590f42ade9c49168ced95]: Textual amendment: Words in [Sch. para. 6](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/6) substituted (31.12.2020) by [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/5); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-e8318d81d66639f2b10c7fafdb9cd24c]: Textual amendment: Words in [Sch. para. 6](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/6) substituted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 19](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/19)
+
+[^key-240ae3577f547071cbb1c5b8a83eea18]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/7) substituted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 20](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/20) (with [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/1993/1813/schedule/6/part/2))
+
+[^key-e2c5a1534a40375575ba8388c620d286]: Textual amendment: Words in [Sch. para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/7/b/ii) inserted (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/7)
+
+[^key-d7e0d97eb158074f7d0184349e2e1a5e]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/8) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-67b10812a91f7d8aa5f124d6dcdf0da7]: Textual amendment: [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/8/a) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/6); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-cadb8e1749ac02c4a1c868b6e1b2ceb5]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/9) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^f00007]: Footnote: Section 53 was replaced by the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), section 10(2) and Part I of Schedule 7. Section 53(9) was subsequently amended by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 12(1)(a). The provisions as to penalty in section 53(10) and (11) were amended by those provisions which amended the provision as to penalty in section 27(2) and which are specified in footnote (a) to paragraph 1 of this Schedule.
+
+[^key-5c62f917f30ef4bd96edc10df387314e]: Textual amendment: Words in [Sch. para. 9](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/9) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-0e719ba254f9f25f50c79e08dcef5eff]: Textual amendment: [Sch. paras. 10-16](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/10) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-d16c6ade61601277339da4b1f7218a2c]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/10) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-b4cdb96dbe8ed5d206aa1d57fef54bb9]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/11) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-727080c20125ad29d7a0a2de6b89a4d2]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/12) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-69fd1ad37116edf6ef56f35e5d0af611]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/13) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-5a46fa9b17e5f7a486cc09dc471db40a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/14) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-5c9f539cc646fe073376b374e4f50a1c]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/15) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-0ab0d236b7a247d5dd01bb8b9aa0f66b]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/16) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-c9661a675bb55cd6e29366eff8de1905]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/17) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-aaa92e390e520564336fc8253daaa27c]: Textual amendment: [Sch. paras. 17A-17C](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/17A) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 27](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/27)
+
+[^key-37e0080e8494198b05bd8073787b53c2]: Textual amendment: Words in [Sch. para. 17B(a)](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/17B/a) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/article/1/3), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/14/2/c)
+
+[^key-0eda703410ce83919a407a50212a6327]: Textual amendment: Words in [Sch. para. 17C](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/17C) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/article/1/3), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/14/2/c)
+
+[^key-f2f3a5b0cb63e273c99707071addf86d]: Textual amendment: [Sch. para. 18](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/18) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-3e27bcfe7d82e971450af1594783d0e0]: Textual amendment: [Sch. para. 18A](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/18A) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-fe0f57aadb334c5d7287a04d0ae9d8c4]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/19) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^f00017]: Footnote: Section 88 was amended by the Territorial Sea Act [1987 (c. 49)](https://www.legislation.gov.uk/ukpga/1987/49), section 3(1) and paragraph 4(3) of Schedule 1.
+
+[^key-3a2c12b858f3f0692f1637d920e3be7e]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/20) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-528249f0604e005b6c2b690dbad1e41a]: Textual amendment: [Sch. para. 20A](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/20A) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 30](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/30)
+
+[^key-63c4c1ac9c1a7f1ef5024b72490a7ffd]: Textual amendment: Words in [Sch. para. 20A](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/20A) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/article/1/3), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/14/2/c)
+
+[^key-6c90807050c585b3c3501e1bda03665c]: Textual amendment: [Sch. para. 21](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/21) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-f48b40a3f6fd630948c0090c5714322b]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/22) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^key-1656d868c8390ccaf67d9e54d4da2015]: Textual amendment: Words in [Sch. para. 22](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/22) inserted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 32](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/32)
+
+[^key-0c8d81edf7d39bd260d7c62b1bfb4ed5]: Textual amendment: [Sch. para. 23](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/23) omitted (31.12.2020) by virtue of [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/9/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-74927edc4637eeca143d7368c27d9230]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/24) in force at 1.12.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2167/article/1)
+
+[^f00019]: Footnote: Section 159(1) was amended by the Isle of Man Act [1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58), section 13 and paragraph 22 of Schedule 1; and by the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), section 8 and paragraph 5 of Part II of Schedule 4.
+
+[^key-1d4eb274962bdc84ef69787e53cdcb45]: Textual amendment: [Sch. para. 25](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/25) substituted (2.8.1993) by [The Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)](https://www.legislation.gov.uk/uksi/1993/1813), [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1), [Sch. 5 Pt. 2 para. 33](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/33) (with [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/1993/1813/schedule/6/part/2))
+
+[^key-279450b5864846d969ee17e7ee17c14a]: Textual amendment: Words in [Sch. para. 25](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/25) inserted (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/7)

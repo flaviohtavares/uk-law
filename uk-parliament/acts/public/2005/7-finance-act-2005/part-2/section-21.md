@@ -1,0 +1,76 @@
+---
+title: Finance Act 2005, section 21
+act: Finance Act 2005
+section: '21'
+status: revised
+text_date: '2025-03-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/7/section/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2005, section 21
+
+> Text as at 2025-03-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 21. Research institution spin-out companies: pre-2nd December 2004 cases
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsections (2) to (7) have effect where—
+
+- (a) Chapter 4A of Part 7 of ITEPA 2003 (as inserted by section 20) would apply but for subsection (5) of that section (commencement), and
+- (b) an election is made under this subsection by the employee and the employer no later than 15th October 2005.
+
+(2) Section 452(1) and (2)(a), (c) and (d) and section 453(1) of ITEPA 2003 apply.
+
+(3) But when the chargeable event occurs in relation to the shares (or interest in shares), the taxable amount counts as employment income of the employee for the tax year in which the chargeable event occurs.
+
+(4) The chargeable event occurs in relation to the shares (or interest in shares) on the earlier of—
+
+- (a) the day on which there is a disposal for consideration of the shares, or any interest in them, by an associated person otherwise than to another associated person, and
+- (b) the day specified in any election made by an employee under this subsection.
+
+(5) The taxable amount for the purposes of subsection (3) is—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2005/7)
+
+where—
+
+MV is the market value of the shares (or interest in shares) immediately before the occurrence of the chargeable event, and
+
+DA is the total of any deductible amounts.
+
+(6) Each of the following is a deductible amount—
+
+- (a) the amount of any consideration given for the acquisition of the shares (or interest in shares),
+- (b) any amount that constituted earnings from the employee's employment under Chapter 1 of Part 3 of ITEPA 2003 (earnings) in respect of the acquisition of the shares (or interest in shares),
+- (c) any amount that counted as employment income in relation to the shares (or interest in shares) under Chapter 2 or 4 of Part 7 of that Act as originally enacted otherwise than by virtue of section 457 of that Act (as originally enacted) (charge on receipt of chargeable benefit),
+- (d) if the shares (or interest in shares) were (or was) acquired on a conversion of other shares (or of another interest in shares), any amount that counted as employment income of the employee under Chapter 3 of that Part (including that Chapter as originally enacted) (convertible securities) by reason of the conversion,
+- (e) if the acquisition of the shares (or interest in shares) was pursuant to a securities option, any amount that counted as employment income of the employee under section 476 of that Act (or section 476 or 477 as originally enacted) (acquisition of securities pursuant to securities option) by reason of the acquisition, and
+- (f) in the case of a chargeable event under subsection (4)(a), the amount of any expenses incurred by the holder of the shares (or interest in shares) in connection with the disposal.
+
+(7) An election under subsection (1) or (4) is irrevocable and must be made in a form approved by the Board of Inland Revenue.
+
+(8) The Treasury may by regulations modify—
+
+- (a) this section,
+- (b) any provision of Part 4 of TCGA 1992, and
+- (c) any provision of Part 7 of ITEPA 2003,
+
+in relation to shares (or interests in shares) to which Chapter 4A of that Part would apply but for section 20(5) and which are restricted securities (or restricted interests in securities) or convertible securities (or interests in convertible securities).
+
+(9) The power conferred by subsection (8) is exercisable by statutory instrument.
+
+(10) A statutory instrument containing regulations under subsection (8) is subject to annulment in pursuance of a resolution of the House of Commons.
+
+(11) In this section—
+
+- “**associated person**” has the same meaning as in Chapters 1 to 5 of Part 7 of ITEPA 2003 (see section 421C of that Act),
+- “**Board of Inland Revenue**” has the same meaning as in that Act (see section 720(2) of that Act), and
+- “**convertible securities**” has the same meaning as in Chapter 3 of Part 7 of that Act (see section 436 of that Act),
+
+and expressions used in this section and in Chapter 4A of Part 7 of that Act have the same meaning in this section as in that Chapter.

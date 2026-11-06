@@ -1,0 +1,44 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 63
+act: Taxation (International and Other Provisions) Act 2010
+section: '63'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/63
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 63
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 63. Non-UK company dividend paid to 10% investor: relief for UK and other tax
+
+*Extent: E+W+S+N.I.*
+
+(1) If condition A is met, and one of conditions B and C is met, subsection (5) applies for the purpose of allowing, under the arrangements, credit against corporation tax in respect of a dividend paid by a company resident outside the United Kingdom (“the overseas company”) to another company (“the recipient company”).
+
+(2) Condition A is that the recipient company—
+
+- (a) controls directly or indirectly, or
+- (b) is a subsidiary of a company which controls directly or indirectly,
+
+at least 10% of the voting power in the overseas company.
+
+(3) Condition B is that the recipient company is resident in the United Kingdom.
+
+(4) Condition C is that—
+
+- (a) the recipient company is resident outside the United Kingdom, but
+- (b) the dividend forms part of the profits of a permanent establishment of the recipient company in the United Kingdom.
+
+(5) There is to be taken into account, as if it were tax payable under the law of the territory (“territory R”) in which the overseas company is resident—
+
+- (a) any income tax or corporation tax payable by the overseas company in respect of its profits, and
+- (b) any tax which, under the law of any territory outside the United Kingdom other than territory R, is payable by the overseas company in respect of its profits.
+
+(6) For the purposes of subsection (2), one company (“S”) is a subsidiary of another company (“P”) if P controls, directly or indirectly, at least 50% of the voting power in S.

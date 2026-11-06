@@ -1,0 +1,124 @@
+---
+title: The Eggs (Marketing Standards) (Amendment) Regulations 1997
+id: uksi/1997/1414
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-06-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/1414
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/1414/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Eggs (Marketing Standards) (Amendment) Regulations 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 1414
+
+FOOD
+
+The Eggs (Marketing Standards) (Amendment) Regulations 1997
+
+Made
+
+4th June 1997
+
+Laid before Parliament
+
+5th June 1997
+
+Coming into force
+
+30th June 1997
+
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Health and the Secretary of State for Wales, acting jointly, in relation to England and Wales, and the Secretary of State for Scotland in relation to Scotland, in exercise of the powers conferred on them by sections 6(4), 16(1), 17, 26(2) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and of all other powers enabling them in that behalf, after consultation in accordance with section 48(4) of that Act with such organisations as appear to them to be representative of interests likely to be substantially affected by the Regulations, hereby make the following Regulations:
+
+## 1. Title and commencement
+
+These Regulations may be cited as the Eggs (Marketing Standards) (Amendment) Regulations 1997 and shall come into force on 30th June 1997.
+
+## 2. Amendment of the Eggs (Marketing Standards) Regulations 1995
+
+The Eggs (Marketing Standards) Regulations 1995[^f00002] shall be amended in accordance with regulations 3 and 4 below.
+
+**3.** There shall be substituted for regulation 10 (application of various sections of the Act) the following regulation—
+
+> **10. Application of various provisions of the Act**
+>
+> (1) The following provisions of the Act shall apply for the purposes of these Regulations and, unless the context otherwise requires, any reference in them to the Act shall be construed as a reference to these Regulations—
+>
+> - section 2 (extended meaning of “sale” etc.);
+> - section 3 (presumption that food is intended for human consumption);
+> - section 20 (offences due to fault of another person);
+> - section 21 (defence of due diligence) as it applies for the purposes of section 8, 14 or 15;
+> - section 30(8) (which relates to documentary evidence);
+> - section 35(1) to (3) (punishment of offences) in so far as it relates to offences under section 33(1) and (2));
+> - section 36 (offences by bodies corporate);
+> - section 50 (service of documents).
+>
+> (2) The following provisions of the Act shall apply for the purposes of these Regulations, and any reference in those sections to the Act shall be construed for the purposes of these Regulations as including a reference to the Community provisions—
+>
+> - section 32 (powers of entry);
+> - section 33 (obstruction etc. of officers);
+> - section 44 (protection of officers acting in good faith).
+
+.
+
+**4.** In the Schedule (Community provisions), there shall be inserted at the end of paragraph 2, in column 1 (Regulations of the European Communities) and column 2 (Official Journal of the European Community: References) the following entries—
+
+> |  |  |
+> | --- | --- |
+> | - (h) Commission Regulation [(EC) No. 1511/96](https://www.legislation.gov.uk/european/regulation/1996/1511) | OJ No. L189, 30.7.96, p.91 |
+
+.
+
+Lord Donoghue
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+30th May 1997
+
+Signed by authority of the Secretary of State for Health
+
+Tessa Jowell
+
+Minister of State for Public Health,
+
+Department of Health
+
+2nd June 1997
+
+Signed by authority of the Secretary of State for Wales
+
+Win Griffiths
+
+Parliamentary Under Secretary of State, Welsh Office
+
+4th June 1997
+
+Sewel
+
+Parliamentary Under Secretary of State, Scottish Office
+
+28th May 1997
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Eggs (Marketing Standards) Regulations 1995 (“the principal Regulations”) and apply to Great Britain.
+
+The Regulations make provision for the enforcement and execution of Commission Regulation [(EC) No. 1511/96](https://www.legislation.gov.uk/european/regulation/1996/1511) amending Regulation [(EEC) No. 1274/91](https://www.legislation.gov.uk/european/regulation/1991/1274) introducing detailed rules for implementing Council Regulation [(EEC) No. 1907/90](https://www.legislation.gov.uk/european/regulation/1990/1907) on certain marketing standards for eggs (regulation 4). Regulation [(EC) No. 1511/96](https://www.legislation.gov.uk/european/regulation/1996/1511) is concerned with the grading of eggs by weight, the confidentiality of certain information supplied and the optional use of supplementary indications on egg packs regarding particular characteristics of the type of farming concerned. Article 2 of that Regulation contains a transitional provision in relation to weight grading.
+
+These Regulations also make some technical and drafting amendments in respect of the application of specified provisions of the Food Safety Act 1990 to the principal Regulations (regulation 3).
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); “the Ministers” is defined in section 4(1) of the Act; section 6(4)(a) of the Act was amended by the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), Schedule 9, paragraph 6.
+
+[^f00002]: Footnote: S.I. [1995/1544](https://www.legislation.gov.uk/uksi/1995/1544), amended by S.I. [1996/1725](https://www.legislation.gov.uk/uksi/1996/1725).

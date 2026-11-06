@@ -1,0 +1,642 @@
+---
+title: The Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015
+id: uksi/2015/704
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-12'
+text_date: '2025-01-15'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2015/704
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/704/pdfs/uksiem_20150704_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/704/pdfs/uksi_20150704_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/704/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015
+
+> Text as at 2025-01-15.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2015 No. 704
+
+Dangerous Drugs
+
+The Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015
+
+Made
+
+12th March 2015
+
+Laid before Parliament
+
+17th March 2015
+
+Coming into force
+
+31st May 2015
+
+The Secretary of State, after consultation with the Advisory Council on the Misuse of Drugs, makes the following Order in exercise of the powers conferred by section 7(4) and (5) of the Misuse of Drugs Act 1971[^f00001].
+
+## 1. Citation, commencement and extent[^key-a4825f6c377d5f73702b574e70921c34]
+
+(1) This Order may be cited as the Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015 and comes into force on 31st May 2015.
+
+(2) This Order extends to England and Wales and Scotland.
+
+## 2. Designation of controlled drugs[^key-7b16400e5a691dade207a0262ce6383f]
+
+(1) The controlled drugs specified in Part 1 of Schedule 1 are designated as drugs to which section 7(4) of the Misuse of Drugs Act 1971 applies.
+
+(2) Part 2 of Schedule 1 has effect for the purpose of specifying those controlled drugs which are excepted from Part 1 of that Schedule.
+
+## 3. Revocations[^key-8603afee86c207d1386980b7274581fa]
+
+The Orders specified in Schedule 2 are revoked.
+
+Lynne Featherstone
+
+Minister of State
+
+Home Office
+
+12th March 2015
+
+## SCHEDULE 1 — CONTROLLED DRUGS TO WHICH SECTION 7(4) OF THE MISUSE OF DRUGS ACT 1971 APPLIES
+
+Article 2
+
+**1.**[^key-c1695e2589967d7ac31e7c0b4c89bdef] The following substances and products, namely:—
+
+- (a) Adinazolam (1-(8-Chloro-6-phenyl-4[^key-a60e9b6f8d2c0d7370a693aac0f908dd]*H*-\[1,2,4\]triazolo\[4,3-a\]\[1,4\]benzodiazepin-1-yl)-*N,N*-dimethylmethanamine)
+
+  AP-237 (1-\[4-(\[2E\]-3-phenyl-2-propen-1-yl)-1-piperazinyl\]-1-butanone) (bucinnazine)[^key-f9cf4a579539ac1b011773c52e4a5295]
+
+  AP-238 (1-\[2,6-dimethyl-4-\[2E\]-3-phenyl-2-propen-1-yl\]-1-piperazinyl-1-propanone)
+
+  Azaprocin (1-\[3-\[(E)-3-phenyl-2-propen-1-yl\]-3,8-diazabicyclo\[3.2.1\]octan-8-yl\]propan-1-one)
+
+  Bentazepam (5-phenyl-1,3,6,7,8,9-hexahydro-2*H*-\[1\]benzothieno\[2,3-e\]\[1,4\]diazepin-2-one)
+
+  *N*-Benzyl-ethylphenidate
+
+  Bretazenil (*tert*-butyl-8-bromo-11,12,13,13a-tetrahydro-9-oxo-9*H*-imidazo\[1,5-a\]-pyrrolo\[2,1-c\]\[1,4\]benzodiazepine-1-carboxylate)
+
+  Bromazolam (8-bromo-1-methyl-6-phenyl-4*H*-\[1,2,4\]triazolo\[4,3-a\]\[1,4\]benzodiazepine)
+
+  Brorphine[^key-a67162d627db119c2ed62adec80db196]
+
+  Bufotenine
+
+  1,4-Butanediol
+
+  Butonitazene[^key-3c0c34605b0c335684bc5affcf2cb9e4]
+
+  Cannabinol (not being the product specified in paragraph 10(1) or (2))[^key-e99f65ec7aad18948c90537291ae2289]
+
+  Cannabinol derivatives not being dronabinol or its stereoisomers (and not being the product specified in paragraph 10(1) or (2))[^key-7164dc10a30b3c838eccedea9e7fa06d]
+
+  Cannabis (not being the substance specified in paragraph 9 or product specified in paragraph 10(1) or (2))[^key-8ba47cbd745aebf2d8f340ad40853c96]
+
+  Cannabis resin (not being the product specified in paragraph 10(1) or (2))[^key-0a7593bf8ec7d20e0b11b6670be1ac78]
+
+  Cathinone
+
+  4’-Chlorodiazepam (7-Chloro-5-(4-chlorophenyl)-1-methyl-1,3-dihydro-2[^key-c644c9f0334fd0f5ed4025b1a3c67280]*H*-1,4-benzodiazepin-2-one)
+
+  Clobromazolam (8-bromo-6-(2-chlorophenyl)-1-methyl-4*H*-\[1,2,4\]triazolo\[4,3-a\]\[1,4\]benzodiazepine)
+
+  Clonazolam (6-(2-Chlorophenyl)-1-methyl-8-nitro-4*H*-\[1,2,4\]triazolo\[4,3-a\]\[1,4\] benzodiazepine)
+
+  Cloniprazepam (5-(2-chlorophenyl)-1-(cyclopropylmethyl)-7-nitro-1,3-dihydro-2*H*-1,4-benzodiazepin-2-one)
+
+  Clonitazene[^key-53a1da851bc6f67eb845f1d033cc98b6]
+
+  Coca leaf
+
+  Concentrate of poppy-straw
+
+  Cumyl-PeGaClone[^key-52d4f043297b6c4eba18f8dc92c55816]
+
+  Desalkylgidazepam (7-bromo-5-phenyl-1,3-dihydro-2*H*-1,4-benzodiazepin-2-one)
+
+  Deschloroclotizolam (2-chloro-9-methyl-4-phenyl-6*H*-thieno\[3,2-f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine)
+
+  Deschloroetizolam (2-Ethyl-9-methyl-4-phenyl-6[^key-eec3af3eb024e1c618ab135ef58d769a]*H*-thieno\[3,2-f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\] diazepine)
+
+  3,4-Dichloroethylphenidate
+
+  3,4-Dichloromethylphenidate (3,4-DCMP)
+
+  Diclazepam (7-Chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2*H*-1,4-benzodiazepin-2-one)
+
+  Difludiazepam (7-chloro-5-(2,6-difluorophenyl)-1-methyl-3*H*-1,4-benzodiazepin-2-one)
+
+  Diphenidine[^key-561714f360dedfd08a7873f6e7348aa6]
+
+  Ephenidine
+
+  Ethyleneoxynitazene
+
+  Ethylnaphthidate
+
+  Ethylphenidate
+
+  Eticyclidine
+
+  Etizolam[^key-b10168dad7e43613532b8897919f8d6c]
+
+  Etodesnitazene (etazene)[^key-1d884afe880bea8afe037580ad6ae461]
+
+  Etonitazene
+
+  Etryptamine
+
+  Flualprazolam (8-chloro-6-(2-fluorophenyl)-1-methyl-4H-\[1,2,4\]triazolo\[4,3-a\]\[1,4\]benzodiazepine)[^key-a27aa03bb4c7ed4df8454497ddfdeb65]
+
+  Flubromazepam (7-Bromo-5-(2-fluorophenyl)-1,3-dihydro-2[^key-dc0c787642459efb04028a58185c9f80]*H*-1,4-benzodiazepin-2-one)
+
+  Flubromazolam (8-Bromo-6-(2-fluorophenyl)-1-methyl-4*H*-\[1,2,4\]triazolo\[4,3-a\]\[1,4\] benzodiazepine)
+
+  Flubrotizolam (2-bromo-4-(2-fluorophenyl)-9-methyl-6*H*-thieno\[3,2f\]\[1,2,4\]triazolo\[4,3a\]\[1,4\]diazepine)
+
+  Fluclotizolam (2-chloro-4-(2-fluorophenyl)-9-methyl-6*H*-thieno\[3,2-f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine)
+
+  Fluetizolam (2-ethyl-4-(2-fluorophenyl)-9-methyl-6*H*-thieno\[3,2-f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\]diazepine)
+
+  Flunitazene[^key-0d415faa7449ff36b1b521a001f5019b]
+
+  Flunitrazolam (6-(2-fluorophenyl)-1-methyl-8-nitro-4H-\[1,2,4\]triazolo\[4,3-a\]\[1,4\]benzodiazepine)[^key-aed657fefc6ba68286be56893a5854bc]
+
+  4-Fluoroethylphenidate
+
+  4-Fluoromethylphenidate
+
+  Fonazepam (5-(2-Fluorophenyl)-7-nitro-1,3-dihydro-2*H*-1,4-benzodiazepin-2-one)
+
+  Fungus (of any kind) which contains psilocin or an ester of psilocin
+
+  Gamma-butyrolactone
+
+  Gidazepam (7-bromo-2,3-dihydro-2-oxo-5-phenyl-1*H*-1,4-benzodiazepine-1-acetic acid hydrazide)
+
+  3-Hydroxyphenazepam (7-Bromo-5-(2-chlorophenyl)-3-hydroxy-1,3-dihydro-2[^key-e22338ab6f50e1999129409d6ad92a2e]*H*-1,4-benzodiazepin-2-one)
+
+  Isopropylphenidate (IPP or IPPD)
+
+  Isotonitazene[^key-550ed4bee561a8f3c22c288cea3d5b78]
+
+  Khat
+
+  Lysergamide
+
+  Lysergide and other *N*-alkyl derivatives of lysergamide
+
+  Meclonazepam (5-(2-Chlorophenyl)-3-methyl-7-nitro-1,3-dihydro-2[^key-562ec8042370c0190f3e79ef74de20e5]*H*-1,4-benzodiazepin-2-one)
+
+  Mescaline
+
+  Methcathinone
+
+  Methoxyphenidine[^key-a21706b6935d35095f292d430302ce1f](1-\[1-(2-methoxyphenyl)-2-phenylethyl\]piperidine) (methoxphenidine)[^key-d8e30105f9bd26958ddf8f1ea4c7c3b6]
+
+  Methylclonazepam (5-(2-chlorophenyl)-1-methyl-7-nitro-3*H*-1,4-benzodiazepin-2-one)
+
+  4-Methylmethylphenidate[^key-eb18a3c53b569612fd2a37961c51539b]
+
+  Methylmorphenate
+
+  Methylnaphthidate (HDMP-28)
+
+  *N[^key-bfd7ad0ea926594effa6aa1b0751f194]*-methyl-1-(thiophen-2-yl)propan-2-amine (methiopropamine or MPA)
+
+  Metizolam (4-(2-Chlorophenyl)-2-ethyl-6*H*-thieno\[3,2-f\]\[1,2,4\]triazolo\[4,3-a\]\[1,4\] diazepine)
+
+  Metodesnitazene (metazene)[^key-66c88846195ddf426d2c401340e21b7c]
+
+  Metonitazene
+
+  Nifoxipam (5-(2-Fluorophenyl)-3-hydroxy-7-nitro-1,3-dihydro-2*H*-1,4-benzodiazepin-2- one)
+
+  Nitrazolam (1-Methyl-8-nitro-6-phenyl-4*H*-\[1,2,4\]triazolo\[4,3-a\]\[1,4\]benzodiazepine)
+
+  Norfludiazepam (7-chloro-5-(2-fluorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one)[^key-c8a3259d292f7d0fd67cf1ed18f88660]
+
+  para-methyl-AP-237 (1-\[4-\[2E\]-3-(4-methylphenyl)-2-propen-1-yl\]-1-piperazinyl-1-butanone)
+
+  para-nitroazaprocin (1-\[3-\[(E)-3-(4-nitrophenyl)-2-propen-1-yl\]-3,8-diazabicyclo\[3.2.1\]octan-8-yl)propan-1-one)
+
+  Propylphenidate
+
+  Protonitazene[^key-aca0b67a934e8a82a2a05f982464d97e]
+
+  Psilocin
+
+  Pyrazolam (8-Bromo-1-methyl-6-(2-pyridinyl)-4[^key-09351c8be36de9d91528c8531be16a8e]*H*-\[1,2,4\]triazolo\[4,3-a\]\[1,4\] benzodiazepine)
+
+  Raw opium
+
+  Rilmazafone (5-(\[(2-aminoacetyl)amino\]methyl)-1-\[4-chloro-2-(2-chlorobenzoyl)phenyl\]-*N*,*N*-dimethyl-1*H*-1,2,4-triazole-3-carboxamide)
+
+  Rolicyclidine
+
+  Tenocyclidine
+
+  Thionordazepam (7-chloro-5-phenyl-1,3-dihydro-2*H*-1,4-benzodiazepin-2-thione)
+
+  (6a*R*,9*R*)-4-acetyl-*N,N*-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo\[4,3-*fg*\]quinoline-9-carboxamide (ALD-52)
+
+  4-Bromo-2,5-dimethoxy-a-methylphenethylamine
+
+  4’-Chloro-deschloroalprazolam (6-(4-chlorophenyl)-1-methyl-4*H*-\[1,2,4\]triazolo\[4,3-a\]\[1,4\]benzodiazepine)
+
+  1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine (MT-45)
+
+  *N[^key-d9464daafe059f74561c76ed15874808]*-Desethyl etonitazene
+
+  *N*-Desethylisotonitazene
+
+  *N*-Desethyl protonitazene
+
+  3,4-dichloro-*N*-\[\[1-(dimethylamino)cyclohexyl\]methyl\]benzamide (AH-7921)
+
+  3,4-dichloro-[^key-7b3759eabb15cbb43e26e3844a4d4177]*N*-\[2-(dimethylamino)cyclohexyl\]-*N*-methylbenzamide (U-47,700)
+
+  (6a*R,*9*R*)-*N,N-*diethyl-7-allyl-4,6,6a,7,8,9-hexahydroindolo\[4,3-*fg*\]quinoline-9-carboxamide (AL-LAD)
+
+  (6a*R,*9*R*)*-N,N-*diethyl-7-ethyl-4,6,6a,7,8,9-hexahydroindolo\[4,3*-fg*\]quinoline-9-carboxamide (ETH-LAD)
+
+  (6a*R,*9*R*)-*N,N-*diethyl-7-propyl-4,6,6a,7,8,9-hexahydroindolo\[4,3-*fg*\]quinoline-9-carboxamide (PRO-LAD)
+
+  *N,N*-Diethyltryptamine
+
+  2-((Dimethylamino)methyl)-1-(3-hydroxyphenyl)cyclohexanol
+
+  2,4-dimethylazetidinyl{(6a*R,*9*R*)-7-methyl-4,6,6a,7,8,9-hexahydroindolo\[4,3- *fg*\]quinolin-9-yl}methanone (LSZ)
+
+  *N,N*-Dimethyltryptamine
+
+  2,5-Dimethoxy-α,4-dimethylphenethylamine
+
+  *N*-Hydroxy-tenamphetamine
+
+  4-Methyl-aminorex
+
+  4-Methyl-5-(4-methylphenyl)-4,5-dihydrooxazol-2-amine (4,4’-DMAR)
+
+  2-Methyl-AP-237 (1-\[2-methyl-4-\[2E\]-3-phenyl-2-propen-1-yl\]-1-piperazinyl-1-butanone)
+
+  *N[^key-babcc31a6e5a2a47ff1373da2892a2b2]*-Piperidinyl-etonitazene (etonitazepipne)
+
+  *N*-Pyrrolidino-etonitazene (etoniazepyne)
+
+  *N*-Pyrrolidino protonitazene
+- (b) Any compound (not being a compound for the time being specified in sub-paragraph (a) above) structurally derived from tryptamine or from a ring-hydroxy tryptamine by modification in any of the following ways, that is to say—
+  - (i) by substitution at the nitrogen atom of the sidechain to any extent with alkyl or alkenyl substituents, or by inclusion of the nitrogen atom of the side chain (and no other atoms of the side chain) in a cyclic structure;
+  - (ii) by substitution at the carbon atom adjacent to the nitrogen atom of the side chain with alkyl or alkenyl substituents;
+  - (iii) by substitution in the 6-membered ring to any extent with alkyl, alkoxy, haloalkyl, thioalkyl, alkylenedioxy, or halide substituents;
+  - (iv) by substitution at the 2-position of the tryptamine ring system with an alkyl substituent;
+- (c) the following phenethylamine derivatives, namely—
+
+  Allyl(α-methyl-3,4-methylenedioxyphenethyl)amine
+
+  2-Amino-1-(2,5-dimethoxy-4-methylphenyl)ethanol
+
+  2-Amino-1-(3,4-dimethoxyphenyl)ethanol
+
+  Benzyl(α-methyl-3,4-methylenedioxyphenethyl)amine
+
+  4-Bromo-β,2,5-trimethoxyphenethylamine
+
+  *N*-(4-*sec*-Butylthio-2,5-dimethoxyphenethyl)hydroxylamine
+
+  Cyclopropylmethyl(α -methyl-3,4-methylenedioxyphenethyl)amine
+
+  2-(4,7-Dimethoxy-2,3-dihydro-1*H*-indan-5-yl)ethylamine
+
+  2-(4,7-Dimethoxy-2,3-dihydro-1*H*-indan-5-yl)-1-methylethylamine
+
+  2-(2,5-Dimethoxy-4-methylphenyl)cyclopropylamine
+
+  2-(1,4-Dimethoxy-2-naphthyl)ethylamine
+
+  2-(1,4-Dimethoxy-2-naphthyl)-1-methylethylamine
+
+  *N*-(2,5-Dimethoxy-4-propylthiophenethyl)hydroxylamine
+
+  2-(1,4-Dimethoxy-5,6,7,8-tetrahydro-2-naphthyl)ethylamine
+
+  2-(1,4-Dimethoxy-5,6,7,8-tetrahydro-2-naphthyl)-1-methylethylamine
+
+  α,α-Dimethyl-3,4-methylenedioxyphenethylamine
+
+  α,α-Dimethyl-3,4-methylenedioxyphenethyl(methyl)amine
+
+  Dimethyl(α-methyl-3,4-methylenedioxyphenethyl)amine
+
+  *N*-(4-Ethylthio-2,5-dimethoxyphenethyl)hydroxylamine
+
+  4-Iodo-2,5-dimethoxy-α-methylphenethyl(dimethyl)amine
+
+  2-(1,4-Methano-5,8-dimethoxy-1,2,3,4-tetrahydro-6-naphthyl)ethylamine
+
+  2-(1,4-Methano-5,8-dimethoxy-1,2,3,4-tetrahydro-6-naphthyl)-1-methylethylamine
+
+  2-(5-Methoxy-2,2-dimethyl-2,3-dihydrobenzo\[*b*\]furan-6-yl)-1-methylethylamine
+
+  2-Methoxyethyl(α-methyl-3,4-methylenedioxyphenethyl)amine
+
+  2-(5-Methoxy-2-methyl-2,3-dihydrobenzo\[*b*\]furan-6-yl)-1-methylethylamine
+
+  β-Methoxy-3,4-methylenedioxyphenethylamine
+
+  1-(3,4-Methylenedioxybenzyl)butyl(ethyl)amine
+
+  1-(3,4-Methylenedioxybenzyl)butyl(methyl)amine
+
+  2-(α-Methyl-3,4-methylenedioxyphenethylamino)ethanol
+
+  α-Methyl-3,4-methylenedioxyphenethyl(prop-2-ynyl)amine
+
+  *N*-Methyl-*N*-(α-methyl-3,4-methylenedioxyphenethyl)hydroxylamine
+
+  *O*-Methyl-*N*-(α-methyl-3,4-methylenedioxyphenethyl)hydroxylamine
+
+  α-Methyl-4-(methylthio)phenethylamine
+
+  β,3,4,5-Tetramethoxyphenethylamine
+
+  β,2,5-Trimethoxy-4-methylphenethylamine;
+- (d) any compound (not being methoxyphenamine or a compound for the time being specified in sub-paragraph (a) above) structurally derived from phenethylamine, an *N*-alkylphenethylamine, α-methylphenethylamine, an *N*-alkyl-α-methylphenethylamine, α-ethylphenethylamine, or an *N*-alkyl-α-ethylphenethylamine by substitution in the ring to any extent with alkyl, alkoxy, alkylenedioxy or halide substitutents, whether or not further substituted in the ring by one or more other univalent substitutents;
+- (e) any compound (not being a compound for the time being specified in Part 2 of this Schedule) structurally derived from fentanyl by modification in any of the following ways, that is to say—
+  - (i) by replacement of the phenyl portion of the phenethyl group by any heteromonocycle whether or not further substituted in the heterocycle;
+  - (ii) by substitution in the phenethyl group with alkyl, alkenyl, alkoxy, hydroxy, halogeno, haloalkyl, amino or nitro groups;
+  - (iii) by substitution in the piperidine ring with alkyl or alkenyl groups;
+  - (iv) by substitution in the aniline ring with alkyl, alkoxy, alkylenedioxy, halogeno or haloalkyl groups;
+  - (v) by substitution at the 4-position of the piperidine ring with any alkoxycarbonyl or alkoxyalkyl or acyloxy group;
+  - (vi) by replacement of the *N*-propionyl group by another acyl group;
+- (f) any compound (not being a compound for the time being specified in Part 2 of this Schedule) structurally derived from pethidine by modification in any of the following ways, that is to say—
+  - (i) by replacement of the 1-methyl group by an acyl, alkyl whether or not unsaturated, benzyl or phenethyl group, whether or not further substituted;
+  - (ii) by substitution in the piperidine ring with alkyl or alkenyl groups or with a propano bridge, whether or not further substituted;
+  - (iii) by substitution in the 4-phenyl ring with alkyl, alkoxy, aryloxy, halogeno or haloalkyl groups;
+  - (iv) by replacement of the 4-ethoxycarbonyl by any other alkoxycarbonyl or any alkoxyalkyl or acyloxy group;
+  - (v) by formation of an *N*-oxide or of a quaternary base;
+- (g) 1-benzylpiperazine or any compound (not being a compound for the time being specified in Part 2 of this Schedule) structurally derived from 1-benzylpiperazine or 1-phenylpiperazine by modification in any of the following ways—
+  - (i) by substitution at the second nitrogen atom of the piperazine ring with alkyl, benzyl, haloalkyl or phenyl groups;
+  - (ii) by substitution in the aromatic ring to any extent with alkyl, alkoxy, alkylenedioxy, halide or haloalkyl groups;
+- (h) \[2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo\[1, 2, 3-*de*\]-1,4-benzoxazin-6-yl\]-1-naphthalenylmethanone;
+- (i) 3-Dimethylheptyl-11-hydroxyhexahydrocannabinol;
+- (j) \[9-Hydroxy-6-methyl-3-\[5-phenylpentan-2-yl\] oxy-5, 6, 6a, 7, 8, 9, 10, 10a-octahydrophenanthridin-1-yl\] acetate;
+- (k) 9-(Hydroxymethyl)-6, 6-dimethyl-3-(2-methyloctan-2-yl)-6a, 7, 10, 10a-tetrahydrobenzo\[*c*\]chromen-1-ol;
+- (l) Any compound structurally derived from 3-(1-naphthoyl)indole, 3-(2-naphthoyl)indole, 1*H*-indol-3-yl-(1-naphthyl)methane or 1*H*-indol-3-yl-(2-naphthyl)methane by substitution at the nitrogen atom of the indole ring by alkyl, haloalkyl, alkenyl, cyanoalkyl, hydroxyalkyl, cycloalkylmethyl, cycloalkylethyl, (*N*-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent;
+- (m) Any compound structurally derived from 3-(1-naphthoyl)pyrrole or 3-(2-naphthoyl)pyrrole by substitution at the nitrogen atom of the pyrrole ring by alkyl, haloalkyl, alkenyl, cyanoalkyl, hydroxyalkyl, cycloalkylmethyl, cycloalkylethyl, (*N*-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the pyrrole ring to any extent and whether or not substituted in the naphthyl ring to any extent;
+- (n) Any compound structurally derived from 1-(1-naphthylmethylene)indene or 1-(2-naphthylmethylene)indene by substitution at the 3-position of the indene ring by alkyl, haloalkyl, alkenyl, cyanoalkyl, hydroxyalkyl, cycloalkylmethyl, cycloalkylethyl, (*N*-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indene ring to any extent and whether or not substituted in the naphthyl ring to any extent;
+- (o) Any compound structurally derived from 3-phenylacetylindole by substitution at the nitrogen atom of the indole ring by alkyl, haloalkyl, alkenyl, cyanoalkyl, hydroxyalkyl, cycloalkylmethyl, cycloalkylethyl, (*N*-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent;
+- (p) any compound structurally derived from 2-(3-hydroxycyclohexyl)phenol by substitution at the 5-position of the phenolic ring by alkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the cyclohexyl ring to any extent;
+- (q) Any compound structurally derived from 3-benzoylindole by substitution at the nitrogen atom of the indole ring by alkyl, haloalkyl, alkenyl, cyanoalkyl, hydroxyalkyl, cycloalkylmethyl, cycloalkylethyl, (*N*-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent;
+- (r) Any compound structurally derived from 3-(1-adamantoyl)indole or 3-(2-adamantoyl)indole by substitution at the nitrogen atom of the indole ring by alkyl, haloalkyl, alkenyl, cyanoalkyl, hydroxyalkyl, cycloalkylmethyl, cycloalkylethyl, (*N*-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent and whether or not substituted in the adamantyl ring to any extent;
+- (s) Any compound structurally derived from 3-(2,2,3,3-tetramethylcyclopropylcarbonyl)indole by substitution at the nitrogen atom of the indole ring by alkyl, haloalkyl, alkenyl, cyanoalkyl, hydroxyalkyl, cycloalkylmethyl, cycloalkylethyl, (*N*-methylpiperidin-2-yl)methyl or 2-(4-morpholinyl)ethyl, whether or not further substituted in the indole ring to any extent;
+- (sa)[^key-0fe5b980e603df08782c3bcf71aadfbb] Any compound (not being a compound for the time being specified in sub-paragraphs (h) to (s) above) structurally related to 1-pentyl-3-(1-naphthoyl)indole (JWH-018), in that the four sub-structures, that is to say the indole ring, the pentyl substituent, the methanone linking group and the naphthyl ring, are linked together in a similar manner, whether or not any of the sub-structures have been modified, and whether or not substituted in any of the linked sub-structures with a benzyl or phenyl group and whether or not such compound is further substituted to any extent with alkyl, alkenyl, alkoxy, halide, haloalkyl or cyano substituents and, where any of the sub-structures have been modified, the modifications of the sub-structures are limited to any of the following, that is to say—[^key-c8d7919a2d878ddd039159b4dadd9358]
+  - (i) replacement of the indole ring with indane, indene, indazole, pyrrole, pyrazole, imidazole, benzimidazole, pyrrolo\[2,3-b\]pyridine, pyrrolo\[3,2-c\]pyridine or pyrazolo\[3,4‑b\]pyridine;
+  - (ii) replacement of the pentyl substituent with alkyl, alkenyl, benzyl, cycloalkylmethyl, cycloalkylethyl, (*N*-methylpiperidin-2-yl)methyl, 2-(4-morpholinyl)ethyl or (tetrahydropyran-4-yl)methyl;
+  - (iii) replacement of the methanone linking group with an ethanone, carboxamide, carboxylate, methylene bridge or methine group;
+  - (iv) replacement of the 1-naphthyl ring with 2-naphthyl, phenyl, benzyl, adamantyl, cycloalkyl, cycloalkylmethyl, cycloalkylethyl, bicyclo\[2.2.1\]heptanyl, 1,2,3,4-tetrahydronaphthyl, quinolinyl, isoquinolinyl, 1-amino-1-oxopropan-2-yl, 1‑hydroxy-1-oxopropan-2-yl, piperidinyl, morpholinyl, pyrrolidinyl, tetrahydropyranyl or piperazinyl;
+- (t) Any compound (not being bupropion, diethylpropion, pyrovalerone or a compound for the time being specified in sub-paragraph (a) above) structurally derived from 2-amino-1-phenyl-1-propanone by modification in any of the following ways, that is to say,
+  - (i) by substitution in the phenyl ring to any extent with alkyl, alkoxy, alkylenedioxy, haloalkyl or halide substituents, whether or not further substituted in the phenyl ring by one or more other univalent substituents;
+  - (ii) by substitution at the 3-position with an alkyl substituent;
+  - (iii) by substitution at the nitrogen atom with alkyl or dialkyl groups, or by inclusion of the nitrogen atom in a cyclic structure;
+- (u) Any compound structurally derived from 2-aminopropan-1-one by substitution at the 1-position with any monocyclic, or fused-polycyclic ring system (not being a phenyl ring or alkylenedioxyphenyl ring system), whether or not the compound is further modified in any of the following ways, that is to say,
+  - (i) by substitution in the ring system to any extent with alkyl, alkoxy, haloalkyl or halide substituents, whether or not further substituted in the ring system by one or more other univalent substituents;
+  - (ii) by substitution at the 3-position with an alkyl substituent;
+  - (iii) by substitution at the 2-amino nitrogen atom with alkyl or dialkyl groups, or by inclusion of the 2-amino nitrogen atom in a cyclic structure.
+- (v) Any compound (not being pipradrol) structurally derived from piperidine, pyrrolidine, azepane, morpholine or pyridine by substitution at a ring carbon atom with a diphenylmethyl group, whether or not the compound is further modified in any of the following ways, that is to say,
+  - (i) by substitution in any of the phenyl rings to any extent with alkyl, alkoxy, haloalkyl or halide groups;
+  - (ii) by substitution at the methyl carbon atom with an alkyl, hydroxyalkyl or hydroxy group;
+  - (iii) by substitution at the ring nitrogen atom with an alkyl, alkenyl, haloalkyl or hydroxyalkyl group.
+- (w) 1-Phenylcyclohexylamine or any compound (not being eticyclidine, ketamine, phencyclidine, rolicyclidine, tenocyclidine or tiletamine) structurally derived from 1-phenylcyclohexylamine or 2-amino-2-phenylcyclohexanone by modification in any of the following ways, that is to say,
+  - (i) by substitution at the nitrogen atom to any extent by alkyl, alkenyl or hydroxyalkyl groups, or replacement of the amino group with a 1-piperidyl, 1-pyrrolidyl or 1-azepyl group, whether or not the nitrogen containing ring is further substituted by one or more alkyl groups;
+  - (ii) by substitution in the phenyl ring to any extent by amino, alkyl, hydroxy, alkoxy or halide substituents, whether or not further substituted in the phenyl ring to any extent;
+  - (iii) by substitution in the cyclohexyl or cyclohexanone ring by one or more alkyl substituents;
+  - (iv) by replacement of the phenyl ring with a thienyl ring.
+- (x) Any compound (not being benzyl(α-methyl-3,4-methylenedioxyphenethyl)amine) structurally derived from mescaline, 4-bromo-2,5-dimethoxy-α-methylphenethylamine, 2,5-dimethoxy-α,4-dimethylphenethylamine, *N*-hydroxytenamphetamine, or a compound specified in sub-paragraph (c) or (d) above, by substitution at the nitrogen atom of the amino group with a benzyl substituent, whether or not substituted in the phenyl ring of the benzyl group to any extent;
+- (y) Any compound (not being a compound for the time being specified in sub-paragraph (c) above) structurally derived from 1-benzofuran, 2,3-dihydro-1-benzofuran, 1H-indole, indoline, 1H-indene, or indane by substitution in the 6-membered ring with a 2-ethylamino substituent whether or not further substituted in the ring system to any extent with alkyl, alkoxy, halide or haloalkyl substituents and whether or not substituted in the ethylamino side-chain with one or more alkyl substituents.
+- (z)[^key-a0a1d133533d9c9a9c9079a5a06acdf9] any compound (not being a compound for the time being specified in sub-paragraph (a) above) with a maximum molecular mass of 500 atomic mass units and structurally derived from 2-(2-benzyl-benzimidazol-1-yl)ethanamine by modification in any of the following ways, that is to say—
+  - (i) by substitution at the nitrogen of the ethanamine to any extent by alkyl substituents containing up to three carbon atoms or alkenyl substituents containing up to three carbon atoms or by inclusion of the nitrogen atom (and no other atoms of the side chain) in a cyclic structure;
+  - (ii) by substitution in the phenyl ring of the benzyl system to any extent by alkyl or haloalkyl containing up to six carbon atoms, alkoxy or haloalkoxy containing up to five carbon atoms, acetyloxy, hydroxy, cyano, halogen, thioalkyl containing up to five carbon atoms or alkylsulphonyl containing up to five carbon atoms;
+  - (iii) by substitution at the 5- or 6- positions of the benzimidazole system by nitro, acetyl, cyano, methoxy, trifluoromethyl, trifluoromethoxy or halogen substituents;
+  - (iv) by substitution at the benzylic carbon by a methyl group;
+  - (v) by replacement of the benzylic carbon by a nitrogen, oxygen or sulphur atom;
+  - (vi) by substitution in the phenyl ring of the benzyl system by an ethoxy group linked back to the phenyl ring to form a dihydrobenzofuran structure;
+  - (vii) by replacement of the phenyl ring of the benzyl system by methylenedioxyphenyl.
+
+**2.**[^key-4c5cbb60cc628cd7c9f27823c46b7b40] Any stereoisomeric form of a substance specified in paragraph 1.
+
+**3.**[^key-90cd382792a2e9c268d3c2fe79dbbbbb] Any ester or ether of a substance specified in paragraph 1 (not being 2-((dimethylamino)methyl)-1-(3-hydroxyphenyl)cyclohexanol) or paragraph 2.
+
+**4.**[^key-03abd01c1df238d9396856980cc833be] Any salt of a substance specified in any of paragraphs 1 to 3.
+
+**5.**[^key-8617a2412d67e20c882341d5601615d2] Any preparation or other product containing a substance or product specified in any of paragraphs 1 to 4.
+
+### PART 2 — CONTROLLED DRUGS EXCEPTED FROM PART 1
+
+**6.**[^key-28615f2fd1a8442916079db9e07faf29] The compounds referred to in paragraph 1(e) are—
+
+- Alfentanil
+- Carfentanil
+- Lofentanil
+- Sufentanil.
+
+**7.**[^key-ff6dd68a705e0342ad50338e9e37ba97] The compounds referred to in paragraph 1(f) are—
+
+- Allylprodine
+- Alphameprodine
+- Alphaprodine
+- Anileridine
+- Betameprodine
+- Betaprodine
+- Hydroxypethidine
+- Properidine
+- Trimeperidine.
+
+**8.**[^key-a043258ce28fad9a152a7354d705f1c0] The compounds referred to paragraph 1(g) are—
+
+- 1-(3-chlorophenyl)piperazine
+- 1-(3-chlorophenyl)-4-(3-chloropropyl)piperazine.
+
+**9.**[^key-d09a5cd4ee8e3664fe5840bc578d57ae] A liquid formulation—
+
+- (a) containing a botanical extract of cannabis—
+  - (i) with a concentration of not more than 30 milligrams of cannabidiol per millilitre, and not more than 30 milligrams of delta-9-tetrahydrocannabinol per millilitre, and
+  - (ii) where the ratio of cannabidiol to delta-9-tetrahydrocannabinol is between 0.7 and 1.3,
+- (b) which is dispensed through a metered dose pump as a mucosal mouth spray, and
+- (c) which was approved for marketing by the Medicines and Healthcare Products Regulatory Agency on the 16th June 2010.
+
+**10.**[^key-ecaf67e9cd884e84179947776771b386] (1) A cannabis-based product for medicinal use in humans.
+
+(2) A product which is—
+
+- (a) specified in Part 1 as a consequence of the application of paragraphs 2 to 5 to a preparation or other product (not being the substance specified in paragraph 9) which is or contains cannabis, cannabis resin, cannabinol or a cannabinol derivative (not being dronabinol or its stereoisomers); and
+- (b) produced for medicinal use in humans.
+
+(3) In this paragraph—
+
+- “cannabis-based product for medicinal use in humans” means a preparation or other product (not being the substance specified in paragraph 9), which—
+  - (a) is or contains cannabis, cannabis resin, cannabinol or a cannabinol derivative (not being dronabinol or its stereoisomers);
+  - (b) is produced for medicinal use in humans; and
+  - (c) is—
+    - (i) a medicinal product, or
+    - (ii) a substance or preparation for use as an ingredient of, or in the production of an ingredient of, a medicinal product; and
+- “medicinal product” has the same meaning as in the Human Medicines Regulations 2012.
+
+(4) In this Schedule, “dronabinol” does not include any substance which—
+
+- (a) has the international non-proprietary name dronabinol (recommended by the World Health Organisation); and
+- (b) is derived from cannabis, cannabis resin or their constituents,
+
+and stereoisomers of dronabinol are to be construed accordingly.
+
+## SCHEDULE 2 — REVOCATIONS[^key-77c0fa2da0a9921fcfc25dd384693e6d]
+
+Article 3
+
+| Orders revoked | References |
+| --- | --- |
+| Misuse of Drugs (Designation) Order 2001 | [S.I. 2001/3997](https://www.legislation.gov.uk/uksi/2001/3997) |
+| Misuse of Drugs (Designation) (Amendment) Order 2005 | [S.I. 2005/1652](https://www.legislation.gov.uk/uksi/2005/1652) |
+| Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2009 | [S.I. 2009/3135](https://www.legislation.gov.uk/uksi/2009/3135) |
+| Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2010 | [S.I. 2010/1143](https://www.legislation.gov.uk/uksi/2010/1143) |
+| Misuse of Drugs (Designation) (Amendment No. 2) (England, Wales and Scotland) Order 2010 | [S.I. 2010/1800](https://www.legislation.gov.uk/uksi/2010/1800) |
+| Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2011 | [S.I. 2011/447](https://www.legislation.gov.uk/uksi/2011/447) |
+| Misuse of Drugs (Designation) (Amendment No. 2) (England, Wales and Scotland) Order 2012 | [S.I. 2012/1310](https://www.legislation.gov.uk/uksi/2012/1310) |
+| Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2013 | [S.I. 2013/177](https://www.legislation.gov.uk/uksi/2013/177) |
+| Misuse of Drugs (Designation) (Amendment No. 2) (England, Wales and Scotland) Order 2013 | [S.I. 2013/624](https://www.legislation.gov.uk/uksi/2013/624) |
+| Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2014 | [S.I. 2014/1274](https://www.legislation.gov.uk/uksi/2014/1274) |
+| Misuse of Drugs (Designation) (Amendment) (No. 2) (England, Wales and Scotland) Order 2014 | [S.I. 2014/1376](https://www.legislation.gov.uk/uksi/2014/1376) |
+| Misuse of Drugs (Designation) (Amendment) (No. 3) (England, Wales and Scotland) Order 2014 | [S.I. 2014/3276](https://www.legislation.gov.uk/uksi/2014/3276) |
+| Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2015 | [S.I. 2015/232](https://www.legislation.gov.uk/uksi/2015/232) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Section 7(3) of the Misuse of Drugs Act [1971 (c. 38)](https://www.legislation.gov.uk/ukpga/1971/38) requires regulations under section 7(1) of that Act to allow drugs which are subject to control under the Act to be used for medical purposes. Section 7(3) does not however apply to any drug which is designated by order under section 7(4) as a drug to which that subsection applies.
+
+This Order replaces the Misuse of Drugs (Designation) Order 2001 ([S.I.2001/3997](https://www.legislation.gov.uk/uksi/2001/3997)) (“the 2001 Order”) and designates for this purpose the drugs specified in Part 1 of Schedule 1 to this Order.
+
+Part 2 of Schedule 1 specifies certain compounds which are excepted from paragraphs 1(e) – (g) of Part 1 and are therefore not designated by Part 1 of Schedule 1.
+
+Schedule 2 revokes both the 2001 Order and the Orders amending the 2001 Order.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
+
+[^key-a4825f6c377d5f73702b574e70921c34]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/704/article/1) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-7b16400e5a691dade207a0262ce6383f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/704/article/2) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-8603afee86c207d1386980b7274581fa]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/704/article/3) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-c1695e2589967d7ac31e7c0b4c89bdef]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-a60e9b6f8d2c0d7370a693aac0f908dd]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/a)
+
+[^key-f9cf4a579539ac1b011773c52e4a5295]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (15.1.2025) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1369)](https://www.legislation.gov.uk/uksi/2024/1369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1369/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2024/1369/regulation/3/a/i)
+
+[^key-a67162d627db119c2ed62adec80db196]: Textual amendment: Word in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/a)
+
+[^key-3c0c34605b0c335684bc5affcf2cb9e4]: Textual amendment: Word in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/b)
+
+[^key-e99f65ec7aad18948c90537291ae2289]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (1.11.2018) by [The Misuse of Drugs (Amendments) (Cannabis and Licence Fees) (England, Wales and Scotland) Regulations 2018 (S.I. 2018/1055)](https://www.legislation.gov.uk/uksi/2018/1055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/9/2/a)
+
+[^key-7164dc10a30b3c838eccedea9e7fa06d]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (1.11.2018) by [The Misuse of Drugs (Amendments) (Cannabis and Licence Fees) (England, Wales and Scotland) Regulations 2018 (S.I. 2018/1055)](https://www.legislation.gov.uk/uksi/2018/1055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/9/2/b)
+
+[^key-8ba47cbd745aebf2d8f340ad40853c96]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) substituted (1.11.2018) by [The Misuse of Drugs (Amendments) (Cannabis and Licence Fees) (England, Wales and Scotland) Regulations 2018 (S.I. 2018/1055)](https://www.legislation.gov.uk/uksi/2018/1055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/9/2/c)
+
+[^key-0a7593bf8ec7d20e0b11b6670be1ac78]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (1.11.2018) by [The Misuse of Drugs (Amendments) (Cannabis and Licence Fees) (England, Wales and Scotland) Regulations 2018 (S.I. 2018/1055)](https://www.legislation.gov.uk/uksi/2018/1055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/1/1), [9(2)(d)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/9/2/d)
+
+[^key-c644c9f0334fd0f5ed4025b1a3c67280]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/b)
+
+[^key-53a1da851bc6f67eb845f1d033cc98b6]: Textual amendment: Word in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/c)
+
+[^key-52d4f043297b6c4eba18f8dc92c55816]: Textual amendment: Word in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(d)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/d)
+
+[^key-eec3af3eb024e1c618ab135ef58d769a]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/c)
+
+[^key-561714f360dedfd08a7873f6e7348aa6]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(e)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/e)
+
+[^key-b10168dad7e43613532b8897919f8d6c]: Textual amendment: Word in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/d)
+
+[^key-1d884afe880bea8afe037580ad6ae461]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(f)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/f)
+
+[^key-a27aa03bb4c7ed4df8454497ddfdeb65]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (18.8.2021) by [The Misuse of Drugs and Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Regulations 2021 (S.I. 2021/897)](https://www.legislation.gov.uk/uksi/2021/897), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/897/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/897/regulation/3/2/a)
+
+[^key-dc0c787642459efb04028a58185c9f80]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/e)
+
+[^key-0d415faa7449ff36b1b521a001f5019b]: Textual amendment: Word in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(g)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/g)
+
+[^key-aed657fefc6ba68286be56893a5854bc]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (18.8.2021) by [The Misuse of Drugs and Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Regulations 2021 (S.I. 2021/897)](https://www.legislation.gov.uk/uksi/2021/897), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/897/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/897/regulation/3/2/b)
+
+[^key-e22338ab6f50e1999129409d6ad92a2e]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/f)
+
+[^key-550ed4bee561a8f3c22c288cea3d5b78]: Textual amendment: Word in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(h)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/h)
+
+[^key-562ec8042370c0190f3e79ef74de20e5]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/g)
+
+[^key-a21706b6935d35095f292d430302ce1f]: Textual amendment: Word in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(i)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/i)
+
+[^key-d8e30105f9bd26958ddf8f1ea4c7c3b6]: Textual amendment: Word in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (15.1.2025) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1369)](https://www.legislation.gov.uk/uksi/2024/1369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1369/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1369/regulation/3/a/ii)
+
+[^key-eb18a3c53b569612fd2a37961c51539b]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(h)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/h)
+
+[^key-bfd7ad0ea926594effa6aa1b0751f194]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (27.11.2017) by [The Misuse of Drugs (Designation) (Amendment) (No. 2) (England, Wales and Scotland) Order 2017 (S.I. 2017/1118)](https://www.legislation.gov.uk/uksi/2017/1118), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1118/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1118/article/2/2)
+
+[^key-66c88846195ddf426d2c401340e21b7c]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(j)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/j)
+
+[^key-c8a3259d292f7d0fd67cf1ed18f88660]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (18.8.2021) by [The Misuse of Drugs and Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Regulations 2021 (S.I. 2021/897)](https://www.legislation.gov.uk/uksi/2021/897), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/897/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2021/897/regulation/3/2/c)
+
+[^key-aca0b67a934e8a82a2a05f982464d97e]: Textual amendment: Word in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(k)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/k)
+
+[^key-09351c8be36de9d91528c8531be16a8e]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(i)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/i)
+
+[^key-d9464daafe059f74561c76ed15874808]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(l)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/l)
+
+[^key-7b3759eabb15cbb43e26e3844a4d4177]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/paragraph/1/a) inserted (31.5.2017) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2017 (S.I. 2017/632)](https://www.legislation.gov.uk/uksi/2017/632), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/632/article/1/1), [2(2)(j)](https://www.legislation.gov.uk/uksi/2017/632/article/2/2/j)
+
+[^key-babcc31a6e5a2a47ff1373da2892a2b2]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/a) inserted (20.3.2024) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment and Revocation) Regulations 2024 (S.I. 2024/248)](https://www.legislation.gov.uk/uksi/2024/248), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/248/regulation/1/2/b), [3(2)(m)](https://www.legislation.gov.uk/uksi/2024/248/regulation/3/2/m)
+
+[^key-0fe5b980e603df08782c3bcf71aadfbb]: Textual amendment: [Sch. 1 para. 1(sa)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/sa) inserted (14.12.2016) by [The Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Order 2016 (S.I. 2016/1124)](https://www.legislation.gov.uk/uksi/2016/1124), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1124/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1124/article/2/2)
+
+[^key-c8d7919a2d878ddd039159b4dadd9358]: Textual amendment: Words in [Sch. 1 para. 1(sa)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/sa) substituted (15.11.2019) by [The Misuse of Drugs and Misuse of Drugs (Designation) (Amendment) (England, Wales and Scotland) Regulations 2019 (S.I. 2019/1362)](https://www.legislation.gov.uk/uksi/2019/1362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1362/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/1362/regulation/3)
+
+[^key-a0a1d133533d9c9a9c9079a5a06acdf9]: Textual amendment: [Sch. 1 para. 1(z)](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/1/z) inserted (15.1.2025) by [The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1369)](https://www.legislation.gov.uk/uksi/2024/1369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1369/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/1369/regulation/3/b)
+
+[^key-4c5cbb60cc628cd7c9f27823c46b7b40]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/2) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-90cd382792a2e9c268d3c2fe79dbbbbb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/3) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-03abd01c1df238d9396856980cc833be]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/4) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-8617a2412d67e20c882341d5601615d2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/5) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-28615f2fd1a8442916079db9e07faf29]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/6) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-ff6dd68a705e0342ad50338e9e37ba97]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/7) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-a043258ce28fad9a152a7354d705f1c0]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/8) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-d09a5cd4ee8e3664fe5840bc578d57ae]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/9) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)
+
+[^key-ecaf67e9cd884e84179947776771b386]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2015/704/schedule/1/paragraph/10) inserted (1.11.2018) by [The Misuse of Drugs (Amendments) (Cannabis and Licence Fees) (England, Wales and Scotland) Regulations 2018 (S.I. 2018/1055)](https://www.legislation.gov.uk/uksi/2018/1055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2018/1055/regulation/9/3)
+
+[^key-77c0fa2da0a9921fcfc25dd384693e6d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/704/schedule/2) in force at 31.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1)

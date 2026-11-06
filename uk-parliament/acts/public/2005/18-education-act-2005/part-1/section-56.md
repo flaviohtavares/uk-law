@@ -1,0 +1,42 @@
+---
+title: Education Act 2005, section 56
+act: Education Act 2005
+section: '56'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2005/18/section/56
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education Act 2005, section 56
+
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/18
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 56. Inspection of services related to careers services in Wales
+
+*Extent: E+W*
+
+(1) This section applies if a person (“**a relevant provider**”) who provides a relevant service to which section 55 applies also provides in Wales education, training or an advisory service—
+
+- (a) in pursuance of arrangements made by the Assembly under section 2 of the Employment and Training Act 1973 (c. 50), or
+- (b) with the assistance of a grant or loan made under section 12(1) of the Industrial Development Act 1982 (c. 52).
+
+(2) The Chief Inspector has the general duty of keeping the Assembly informed about the quality of any education, training or advisory services falling within subsection (1) provided by relevant providers in Wales.
+
+(3) The Chief Inspector must inspect any relevant provider under this section at prescribed intervals.
+
+(4) When asked to do so by the Assembly, the Chief Inspector must—
+
+- (a) give advice to the Assembly on such matters relating to the provision of education, training or advisory services falling within subsection (1) by relevant providers, or
+- (b) inspect any relevant provider under this section.
+
+(5) The Chief Inspector may at any time—
+
+- (a) give advice to the Assembly relating to the provision of education, training or advisory services falling within subsection (1) by relevant providers, or
+- (b) inspect any relevant provider under this section.
+
+(6) An inspection of any relevant provider under this section is to consist of a review of the way in which he is providing the education, training or advisory service falling within subsection (1)(a) or (b).

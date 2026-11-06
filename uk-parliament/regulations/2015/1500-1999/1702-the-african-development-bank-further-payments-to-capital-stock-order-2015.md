@@ -1,0 +1,106 @@
+---
+title: The African Development Bank (Further Payments to Capital Stock) Order 2015
+id: uksi/2015/1702
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-09-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/1702
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1702/pdfs/uksiem_20151702_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1702/pdfs/uksi_20151702_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1702/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The African Development Bank (Further Payments to Capital Stock) Order 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 1702
+
+International Development
+
+The African Development Bank (Further Payments to Capital Stock) Order 2015
+
+Made
+
+18th September 2015
+
+Coming into force in accordance with Article 1
+
+This Order is made in exercise of the powers conferred by section 11 of the International Development Act 2002 (“the Act”)[^f00001].
+
+Section 11 of the Act provides that where the Government of the United Kingdom becomes bound to make a relevant payment to a multilateral development bank the Secretary of State may make the relevant payment and other associated payments specified in section 11(3).
+
+“Relevant payment” in relation to such a bank includes a further payment to the bank required to be made by its members under any arrangements beyond the initial subscription or other initial contribution to the capital stock of the bank.
+
+The African Development Bank referred to in this Order comes within the definition, in section 11(2) of the Act, of a “multilateral development bank”.
+
+In accordance with section 11(4) of the Act, this Order is made with the approval of the Treasury.
+
+In accordance with section 11(5) of the Act, a draft of this Order has been laid before the House of Commons and approved by resolution of that House.
+
+Accordingly, the Secretary of State for International Development makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the African Development Bank (Further Payments to Capital Stock) Order 2015 and comes into force on the day after the day on which it is made.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the Agreement” means the Agreement establishing the African Development Bank dated 4th August 1963 and ratified by the Government on 29th April 1983[^f00002];
+- “the Bank” means the African Development Bank established by the Agreement;
+- “the Government” means the Government of the United Kingdom; and
+- “the Resolutions” means
+- Resolution B/BG/2012/04 adopted by the Board of Governors of the Bank on 31st May 2012; and
+- Resolution B/BG/2010/08 adopted by the Board of Governors of the Bank on 27th May 2010.
+
+## 3. Relevant Payments
+
+The Secretary of State may, on behalf of the Government—
+
+- (a) make payment of a further subscription to the increased authorised capital stock of the Bank of sums not exceeding in the aggregate 7,946,866.67 pounds sterling pursuant to arrangements made between the Government and the Bank in accordance with the terms of the Resolutions;
+- (b) make payment of sums required to maintain the value of the payment mentioned in paragraph (a) in accordance with the Agreement and any arrangements made between the Government and the Bank; and
+- (c) make payment of sums required to redeem any non-interest-bearing and non-negotiable notes or other obligations which may be issued or created by the Secretary of State and accepted by the Bank pursuant to the arrangements mentioned in paragraph (a),
+
+in accordance with section 11 of the International Development Act 2002.
+
+Justine Greening
+
+One of Her Majesty’s Principal Secretaries of State
+
+18th September 2015
+
+We approve,
+
+Mel Stride
+
+Alun Cairns
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+18th September 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order approves the payment to the African Development Bank of a subscription not exceeding in the aggregate 7,946,866.67 pounds sterling to the increased authorised capital stock of the Bank pursuant to arrangements made with the Bank in accordance with Resolutions B/BG/2012/04 adopted by the Board of Governors of the Bank on 31st May 2012 and B/BG/2010/08 adopted by the Board of Governors of the Bank on 27th May 2010. The Order further provides that the Secretary of State may make payments to maintain the value of the subscription to the increased authorised capital stock. It also provides that the Secretary of State may make payments to redeem any non-interest-bearing and non-negotiable notes issued by the Secretary of State in payment of this subscription.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+The provisions of the Resolution may be obtained by application to the Department for International Development, 22, Whitehall, London SW1A 2EG.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c.1](https://www.legislation.gov.uk/ukpga/2002/1).
+
+[^f00002]: Footnote: Cmnd.1205; this Command Paper is available from The Stationery Office Limited.

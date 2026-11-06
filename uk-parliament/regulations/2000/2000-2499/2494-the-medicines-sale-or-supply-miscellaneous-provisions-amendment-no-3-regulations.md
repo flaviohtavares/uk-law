@@ -1,0 +1,106 @@
+---
+title: The Medicines (Sale or Supply) (Miscellaneous Provisions) Amendment (No. 3) Regulations 2000
+id: uksi/2000/2494
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-09-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/2494
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/2494/pdfs/uksi_20002494_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/2494/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Medicines (Sale or Supply) (Miscellaneous Provisions) Amendment (No. 3) Regulations 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 2494
+
+MEDICINES
+
+The Medicines (Sale or Supply) (Miscellaneous Provisions) Amendment (No. 3) Regulations 2000
+
+Made
+
+13th September 2000
+
+Laid before Parliament
+
+13th September 2000
+
+Coming into force
+
+4th October 2000
+
+As respects England, Scotland and Wales, the Secretary of State concerned with health in England and the Minister of Agriculture, Fisheries and Food, and, as respects Northern Ireland, the Minister of Health, Social Services and Public Safety and the Minister of Agriculture and Rural Development, acting jointly, in exercise of the powers conferred on them by sections 53(4) and 129(1) and (5) of the Medicines Act 1968[^f00001] or, as the case may be, the powers conferred by those provisions and now vested in them[^f00002], and of all other powers enabling them in that behalf, after consulting such organisations as appear to them to be representative of interests likely to be substantially affected by these Regulations pursuant to section 129(6) of that Act, and after taking into account the advice of the Committee on Safety of Medicines and of the Medicines Commission pursuant to section 129(7) of that Act, hereby make the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Medicines (Sale or Supply) (Miscellaneous Provisions) Amendment (No. 3) Regulations 2000 and shall come into force on 4th October 2000.
+
+## 2. Amendment of regulation 8 of the Medicines (Sale or Supply) (Miscellaneous Provisions) Regulations 1980
+
+In regulation 8 of the Medicines (Sale or Supply) (Miscellaneous Provisions) Regulations 1980[^f00003] (pack size on retail sale or supply of certain medicinal products on a general sale list)—
+
+- (a) in paragraph (1), for “paragraphs (2) to (2G) and 3” there is substituted “paragraphs (2) to (2I) and 3”;
+- (b) in paragraph (2A), for “10 tablets” there is substituted “20 tablets”; and
+- (c) after paragraph (2G), there is added—
+
+  > (2H) Where a medicinal product for human use containing famotidine is sold by retail in the course of a business elsewhere than at a registered pharmacy or is so offered or exposed for sale by retail or so supplied in circumstances corresponding to retail sale, the product shall be presented for sale in a separate and individual container or package containing not more than 12 tablets.
+  >
+  > (2I) Where a medicinal product for human use containing heparinoid is sold by retail in the course of a business elsewhere than at a registered pharmacy or is so offered or exposed for sale by retail or so supplied in circumstances corresponding to retail sale, the product shall be presented for sale in a separate and individual container or package containing not more than 20 grams of the product.
+
+  .
+
+Signed by authority of the Secretary of State for Health
+
+Yvette Cooper
+
+Parliamentary Under Secretary of State for Public Health,
+
+Department of Health
+
+12th September 2000
+
+Hayman
+
+Minister of State, Ministry of Agriculture, Fisheries and Food
+
+12th September 2000
+
+Bairbre de Brún
+
+Minister of Health, Social Services and Public Safety
+
+11th September 2000
+
+Bríd Rodgers
+
+Minister of Agriculture and Rural Development
+
+13th September 2000
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Medicines (Sale or Supply) (Miscellaneous Provisions) Regulations 1980. The Regulations—
+
+- (a) in relation to medicinal products on a general sale list containing bisacodyl, increase the maximum pack size in which such products may be sold or supplied from outlets other than registered pharmacies from 10 tablets to 20 tablets;
+- (b) provide that medicinal products containing famotidine and which are on a general sale list may be sold or supplied from outlets other than registered pharmacies only in separate and individual containers or packages containing not more than 12 tablets;
+- (c) provide that medicinal products containing heparinoid and which are on a general sale list may be sold or supplied from outlets other than registered pharmacies only in separate and individual containers or packages containing not more than 20 grams of the product.
+
+An assessment of the cost to business of complying with these Regulations has been made, copies of which have been placed in the libraries of both Houses of Parliament. Further copies may be obtained from the Department of Health, Medicines Control Agency, Information Centre, Room 10–202, Market Towers, 1 Nine Elms Lane, London SW8 5NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67); the word “prescribed” in section 53(4) of that Act is defined in section 132(1) of that Act. The expression “the Ministers” is defined in section 1(1) of that Act as amended by article 2(2) of, and Schedule 1 to, S.I. [1969/388](https://www.legislation.gov.uk/uksi/1969/388), and by articles 2(1) and 5 of, and the Schedule to, S.I. [1999/3142](https://www.legislation.gov.uk/uksi/1999/3142).
+
+[^f00002]: Footnote: In the case of the Secretary of State concerned with health in England, by virtue of article 2(2) of, and Schedule 1 to, S.I. [1969/388](https://www.legislation.gov.uk/uksi/1969/388), and articles 2(1) and 5 of, and the Schedule to, S.I. [1999/3142](https://www.legislation.gov.uk/uksi/1999/3142); in the case of the Minister of Agriculture, Fisheries and Food, by virtue of articles 2(2) and 5 of, and the Schedule to, S.I. [1999/3142](https://www.legislation.gov.uk/uksi/1999/3142); in the case of the Minister of Health, Social Services and Public Safety and the Minister of Agriculture and Rural Development, by virtue of section 95(5) of, and paragraph 10 of Schedule 12 to, the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47).
+
+[^f00003]: Footnote: S.I. [1980/1923](https://www.legislation.gov.uk/uksi/1980/1923); relevant amending instruments are S.I. [1982/28](https://www.legislation.gov.uk/uksi/1982/28), [1990/1124](https://www.legislation.gov.uk/uksi/1990/1124), [1994/2411](https://www.legislation.gov.uk/uksi/1994/2411), [1995/3215](https://www.legislation.gov.uk/uksi/1995/3215), [1997/2045](https://www.legislation.gov.uk/uksi/1997/2045), [1999/644](https://www.legislation.gov.uk/uksi/1999/644), [1999/2510](https://www.legislation.gov.uk/uksi/1999/2510) and [2000/1070](https://www.legislation.gov.uk/uksi/2000/1070).

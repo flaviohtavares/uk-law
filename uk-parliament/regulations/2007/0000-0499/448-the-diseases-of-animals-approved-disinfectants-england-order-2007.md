@@ -1,0 +1,206 @@
+---
+title: The Diseases of Animals (Approved Disinfectants) (England) Order 2007
+id: uksi/2007/448
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-02-14'
+text_date: '2013-09-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2007/448
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/448/pdfs/uksiem_20070448_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/448/pdfs/uksi_20070448_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/448/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Diseases of Animals (Approved Disinfectants) (England) Order 2007
+
+> Text as at 2013-09-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2007 No. 448
+
+animals, england
+
+animal health
+
+The Diseases of Animals (Approved Disinfectants) (England) Order 2007
+
+Made
+
+14th February 2007
+
+Coming into force
+
+6th April 2007
+
+The Secretary of State, in exercise of his powers under section 1 of the Animal Health Act 1981[^f00001], makes the following Order:
+
+## 1. Title, application and commencement
+
+This Order—
+
+- (a) may be cited as the Diseases of Animals (Approved Disinfectants) (England) Order 2007;
+- (b) applies in England; and
+- (c) comes into force on 6th April 2007.
+
+## 2. Approvals
+
+Any approval under this Order or any renewal, amendment, suspension or revocation of an approval must be in writing.
+
+## 3. Approval of disinfectants
+
+(1) The manufacturer of a disinfectant may apply to the Secretary of State for the approval of that disinfectant for use in cases where an order under the Animal Health Act 1981 specifies that an approved disinfectant must be used.
+
+(2) The Secretary of State may only approve a disinfectant if he is satisfied—
+
+- (a) as to its efficacy and quality; and
+- (b) that it complies with Regulation ([^key-d723276efb947f389d0512f4ccbddabe]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products .
+
+(3) The approval—
+
+- (a) must specify the dilution rate; and
+- (b) may contain conditions to which the approval is subject.
+
+(4) The Secretary of State may test the disinfectant at any time, and must test it before approving it unless—
+
+- (a) the disinfectant has the same formulation as another disinfectant manufactured by the manufacturer whose application it is;
+- (b) that other disinfectant is an approved disinfectant; and
+- (c) approval is sought only for use in one or more of the circumstances in respect of which the other disinfectant is approved.
+
+(5) The Secretary of State must publish a list of approved disinfectants.
+
+(6) In this article, “dilution rate” means the number of parts of water with which one part of an approved disinfectant is to be diluted.
+
+## 4. Use of the disinfectant
+
+An approved disinfectant may only be used in accordance with the conditions of its approval or as directed by an inspector.
+
+## 5. Duration of approval and renewal
+
+(1) An approval lasts for two years, and may be renewed within 3 months prior to its expiry.
+
+(2) If a renewal is applied for, the approval continues to be valid up to the date on which the applicant is notified of the decision to renew or to refuse to renew.
+
+## 6. Amendment, suspension and revocation of approvals[^key-703a1ede1dfbb364190c3adedda40159]
+
+(1) The Secretary of State may amend, suspend or revoke the approval or refuse to renew the approval in respect of a disinfectant in the following circumstances—
+
+- (a) production has ceased;
+- (b) the disinfectant is no longer efficacious or of suitable quality;
+- (c) the manufacturer does not comply with any condition of approval;
+- (d) the disinfectant does not comply with Regulation ([^key-d655590b80a478e4af06bd9db6f77a62]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products ; or
+- (e) the manufacturer who is required to pay the annual fee in accordance with article 3 of the Diseases of Animals (Approved Disinfectants) (Fees and Amendment) (England) Order 2011 has failed to make payment by the due date for payment.
+
+(2) The Secretary of State may also suspend an approval pending investigation of any disinfectant if the Secretary of State has reasonable grounds to suspect that any of the circumstances in paragraph (1)(a) to (d) apply.
+
+## 7. Representations to the Secretary of State
+
+(1) A manufacturer may make representations against—
+
+- (a) a refusal to grant or renew an approval;
+- (b) an amendment, suspension or revocation of an approval; or
+- (c) any condition of an approval,
+
+to a person appointed by the Secretary of State.
+
+(2) The manufacturer must notify the Secretary of State of his intention to make such representations to the appointed person within one month of receiving notice of the refusal to grant or renew the approval or the amendment, suspension or revocation of the approval.
+
+(3) The appointed person must consider the representations and report in writing to the Secretary of State within one month of receiving the representations.
+
+(4) The Secretary of State must give written notification of his final determination and the reasons for it to the applicant within one month of receiving the report from the appointed person.
+
+(5) Unless the Secretary of State directs otherwise, the refusal to renew an approval or an amendment, suspension or revocation of an approval shall continue in force until he makes his final determination.
+
+## 8. Duties of manufacturers and suppliers in relation to amended, suspended or revoked approvals
+
+(1) If the Secretary of State amends, suspends or revokes the approval of a disinfectant or refuses to renew an approval, the manufacturer, and any supplier who becomes aware of the fact, must take all reasonable steps to notify every person in the United Kingdom to whom he has supplied the disinfectant in the previous 6 months.
+
+(2) Such notification must be given within one month of the manufacturer or supplier becoming aware of the amendment, suspension or revocation of the approval, or the refusal to renew the approval.
+
+## 9. Placing disinfectant on the market
+
+No person may place on the market any disinfectant that is labelled or otherwise represented as an approved disinfectant if—
+
+- (a) it is not approved under this Order; or
+- (b) the formula for it has changed since its approval was granted.
+
+## 10. References to disinfectants in orders under the Animal Health Act 1981
+
+Any reference in an order under the Animal Health Act 1981 to a disinfectant approved under the Diseases of Animals (Approved Disinfectants) Order 1978[^f00003] or listed in a Schedule to that Order is a reference to a disinfectant approved under this Order.
+
+## 11. Provision of information and samples
+
+(1) The Secretary of State may, at any time, require the manufacturer of a disinfectant for which approval is sought or granted, or any person in possession of such a disinfectant, to—
+
+- (a) provide samples of that disinfectant for testing; or
+- (b) provide any information relating to that disinfectant.
+
+(2) The samples or information must be provided to the Secretary of State within the time period set by him.
+
+(3) At the request of the Secretary of State, the manufacturer must provide his technical expertise to facilitate any analysis of the samples.
+
+## 12. Enforcement
+
+(1) This Order is enforced by the local authority.
+
+(2) The Secretary of State may direct, in cases of a particular description or any particular case, that he will enforce this Order instead of the local authority.
+
+(3)[^key-b2b4e9c1e2d509f86614360d497f5edd] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+
+## 13. Revocations
+
+The following are revoked—
+
+- (a) the Diseases of Animals (Approved Disinfectants) Order 1978; and
+- (b) the Diseases of Animals (Approved Disinfectants) (Amendment) (England) Order 2006[^f00004].
+
+Ben Bradshaw
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order revokes and remakes the Diseases of Animals (Approved Disinfectants) Order 1978 ([S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32)).
+
+Article 3 provides that a manufacturer of a disinfectant may apply to the Secretary of State to have that disinfectant approved for use when an order under the Animal Health Act [1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22) specifies that an approved disinfectant must be used. Article 4 provides that an approved disinfectant may only be used in accordance with the conditions of the approval or as directed by an inspector.
+
+Article 5 provides that an approval lasts for two years but may be renewed. Article 6 provides that the Secretary of State may amend, suspend or revoke an approval or refuse to renew an approval. Article 7 provides a procedure for a manufacturer to make representations against any such amendment, suspension or revocation or a refusal.
+
+Article 8 provides that a manufacturer or supplier must take reasonable steps to notify any person in the United Kingdom to whom he has supplied a disinfectant in the previous 6 months if its approval has been amended, suspended or revoked, or if a renewal of the approval has been refused.
+
+Article 9 prohibits the placing of any disinfectant on the market that is labelled or otherwise represented as an approved disinfectant if it is not approved under this Order or if the formula for it has changed since approval was granted.
+
+Article 11 provides that the Secretary of State may at any time require information about a disinfectant, or samples of that disinfectant, to be provided to him.
+
+The Order is enforced by the local authority (article 12). Breach of the Order is an offence under section 73 of the Animal Health Act 1981, punishable in accordance with section 75 of that Act.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available at www.defra.gov.uk or from the Information Resource Centre, Department for Environment, Food and Rural Affairs, Lower Ground Floor, Ergon House, 17 Smith Square, London, SW1P 3JR and is annexed to the Explanatory Memorandum which is available alongside the instrument on the Office of Public Sector Information website.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); see section 86(1) for definitions of “the Minister” and “the Ministers”. Functions of “the Ministers”, so far as exercisable in relation to England, were transferred to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and functions of the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State by article 2 of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^key-d723276efb947f389d0512f4ccbddabe]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2007/448/article/3/2/b) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/uksi/2013/1506/schedule/5/paragraph/7/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5)[31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+
+[^key-703a1ede1dfbb364190c3adedda40159]: Textual amendment: Art. 6 substituted (11.7.2011) by [The Diseases of Animals (Approved Disinfectants) (Fees and Amendment) (England) Order 2011 (S.I. 2011/1509)](https://www.legislation.gov.uk/uksi/2011/1509), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1509/article/1), [5](https://www.legislation.gov.uk/uksi/2011/1509/article/5)
+
+[^key-d655590b80a478e4af06bd9db6f77a62]: Textual amendment: Words in [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2007/448/article/6/1/d) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/uksi/2013/1506/schedule/5/paragraph/7/3) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5)[31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+
+[^f00003]: Footnote: [S.I.1978/32](https://www.legislation.gov.uk/uksi/1978/32), as amended by [S.I. 2006/1394](https://www.legislation.gov.uk/uksi/2006/1394).
+
+[^key-b2b4e9c1e2d509f86614360d497f5edd]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/uksi/2007/448/article/12/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [17](https://www.legislation.gov.uk/uksi/2012/2897/article/17)
+
+[^f00004]: Footnote: [S.I. 2006/1394](https://www.legislation.gov.uk/uksi/2006/1394).

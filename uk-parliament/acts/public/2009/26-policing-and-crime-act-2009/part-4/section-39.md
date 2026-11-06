@@ -1,0 +1,40 @@
+---
+title: Policing and Crime Act 2009, section 39
+act: Policing and Crime Act 2009
+section: '39'
+status: revised-with-pending-changes
+text_date: '2020-12-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2009/26/section/39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Policing and Crime Act 2009, section 39
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 39. Applications without notice[^key-b5089eeadfed3f5fd1474658279d2b89]
+
+*Extent: E+W*
+
+(1) An application under section 37 may be made without the respondent being given notice.
+
+(2) In this Part, such an application is referred to as an application without notice.
+
+(3) Section 38(1) does not apply in relation to an application without notice.
+
+(4) If an application without notice is made the court must either—
+
+- (a) dismiss the application, or
+- (b) adjourn the proceedings.
+
+(5) If the court acts under subsection (4)(b), the applicant must comply with the consultation requirement before the date of the first full hearing.
+
+(6) In this section “**full hearing**” means a hearing of which notice has been given to the applicant and respondent in accordance with rules of court.
+
+## Annotations
+
+[^key-b5089eeadfed3f5fd1474658279d2b89]: Commencement: S. 39 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

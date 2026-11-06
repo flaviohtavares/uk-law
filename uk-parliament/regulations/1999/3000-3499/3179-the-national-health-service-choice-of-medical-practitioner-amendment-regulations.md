@@ -1,0 +1,102 @@
+---
+title: The National Health Service (Choice of Medical Practitioner) Amendment Regulations 1999
+id: uksi/1999/3179
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-11-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/3179
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/3179/pdfs/uksi_19993179_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/3179/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Choice of Medical Practitioner) Amendment Regulations 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 3179
+
+NATIONAL HEALTH SERVICE, ENGLAND
+
+The National Health Service (Choice of Medical Practitioner) Amendment Regulations 1999
+
+Made
+
+27th November 1999
+
+Laid before Parliament
+
+29th November 1999
+
+Coming into force
+
+21st December 1999
+
+The Secretary of State for Health, in exercise of the powers conferred upon him by sections 28F(1) and (2) and 126(4) of the National Health Service Act 1977[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the National Health Service (Choice of Medical Practitioner) Amendment Regulations 1999 and shall come into force on 21st December 1999.
+
+(2) In these Regulations, “the 1998 Regulations” means the National Health Service (Choice of Medical Practitioner) Regulations 1998[^f00002].
+
+## 2. Amendment of the 1998 Regulations
+
+(1) The 1998 Regulations shall be amended in accordance with the following provisions of this regulation.
+
+(2) In regulation 4 (assignment of persons to doctors)–
+
+- (a) at the end of paragraph (3)(b), omit “and”;
+- (b) after paragraph (3)(b), insert the following–
+
+  > - (bb) whether the person has been removed from the doctor’s list of any doctor in that part of the area at the request of that doctor or, as the case may be, a pilot scheme provider because–
+  >   - (i) he has committed an act of violence against the doctor or has behaved in such a way that the doctor has feared for his safety, and
+  >   - (ii) the doctor has reported the incident to the police,
+  >
+  >   and, if so, which doctor or, as the case may be, which pilot scheme provider, has the most appropriate facilities to deal with such a patient; and
+
+  .
+
+(3) In regulation 5 (assignment by a pilot scheme provider)–
+
+- (a) at the end of paragraph (2)(b), omit “and”;
+- (b) after paragraph (2)(b), insert the following–
+
+  > - (bb) whether the person has been removed from the doctor’s list of any of the relevant doctors at the request of the pilot scheme provider because–
+  >   - (i) he has committed an act of violence against the doctor or has behaved in such a way that the doctor has feared for his safety, and
+  >   - (ii) the doctor has reported the incident to the police;
+  >
+  >   and, if so, which doctor has the most appropriate facilities to deal with such a patient; and
+
+  .
+
+Signed by authority of the Secretry of State for Health
+
+John Denham
+
+Minister of State,
+
+Department of Health
+
+27th November 1999
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (Choice of Medical Practitioner) Regulations 1998, which relate to the right of persons to choose the doctor from whom they wish to receive primary medical services.
+
+Regulation 2 amends the provisions for the Health Authority assigning a patient to a doctor so that account may be taken by the Health Authority of patients who have acted violently to their doctor in the past, so that a doctor with the most appropriate facilities may be chosen.
+
+Regulation 4 makes similar provision for assignment by a pilot scheme provider who is required to assign such a patient.
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); *see* section 128(1) as amended by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 26(2)(g) and (i), for the definitions of “prescribed” and “regulations”. Section 28F was inserted by the National Health Service (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), section 23(1). Section 126(4) was amended by the 1990 Act, section 65(2); and by the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, paragraph 37(6). As regards Wales, the functions of the Secretary of State under sections 28F and 126(4) of the 1977 Act are transferred to the National Assembly for Wales under article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672); these Regulations therefore extend only to England.
+
+[^f00002]: Footnote: [S.I. 1998/668](https://www.legislation.gov.uk/uksi/1998/668).

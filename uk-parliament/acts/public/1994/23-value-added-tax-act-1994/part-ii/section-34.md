@@ -1,0 +1,31 @@
+---
+title: Value Added Tax Act 1994, section 34
+act: Value Added Tax Act 1994
+section: '34'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/23/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Value Added Tax Act 1994, section 34
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 34. Capital goods.
+
+*Extent: E+W+S+N.I.*
+
+(1) The Treasury may by order make provision for the giving of relief, in such cases, to such extent and subject to such exceptions as may be specified in the order, from VAT paid on the supply[^key-2e043d10c2e02c99a2d0c4eed4cb36fd]... or importation for the purpose of a business carried on by any person of machinery or plant or any specified description of machinery or plant in cases where that VAT or part of that VAT cannot be credited under section 25 and such other conditions are satisfied as may be specified in the order.
+
+(2) Without prejudice to the generality of subsection (1) above, an order under this section may provide for relief to be given by deduction or refunding of VAT and for aggregating or excluding the aggregation of value where goods of the same description are supplied[^key-e6cb146b345c66fac68ffcbbfec513eb]... or imported together.
+
+## Annotations
+
+[^key-2e043d10c2e02c99a2d0c4eed4cb36fd]: Textual amendment: Word in s. 34(1) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 36(2)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/36/2) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+
+[^key-e6cb146b345c66fac68ffcbbfec513eb]: Textual amendment: Word in s. 34(2) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 36(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/36/3) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))

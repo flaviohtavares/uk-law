@@ -1,0 +1,289 @@
+---
+title: The Competition Act 1998 (Concurrency) Regulations 2014
+id: uksi/2014/536
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-03-06'
+text_date: '2022-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/536
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/536/pdfs/uksiem_20140536_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/536/pdfs/uksi_20140536_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/536/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Competition Act 1998 (Concurrency) Regulations 2014
+
+> Text as at 2022-07-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 536
+
+Competition
+
+The Competition Act 1998 (Concurrency) Regulations 2014
+
+Made
+
+6th March 2014
+
+Laid before Parliament
+
+10th March 2014
+
+Coming into force
+
+1st April 2014
+
+The Secretary of State, in exercise of the powers conferred by sections 54(4), (5) to (6B) and 71 of the Competition Act 1998 [^c22039451], makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Competition Act 1998 (Concurrency) Regulations 2014 and come into force on 1st April 2014.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Competition Act 1998;
+- “**the CMA's Rules**” means the Competition and Markets Authority's Rules set out in the Schedule to the Competition Act 1998 (Competition and Market Authority's Rules) Order 2014 [^c22039461];
+- “**notify**” means to notify in writing (including electronically) and “**notice**” shall be construed accordingly;
+- “**Part 1 functions**” means any functions under Part 1 of the Act which are, or (but for provision under these Regulations) would be, exercisable concurrently by two or more competent persons [^c22039471];
+- “**prescribed functions**” means—
+  - (i) any of the functions of the CMA under section 25 of the Act;
+  - (ia) any of the functions of the CMA under section 40ZB, 40ZC or 40ZD of the Act;[^key-917b9f4795135b3eaff46a7b2ad40391]
+  - (ii) the function of making a decision, as defined in section 46(3) of the Act;
+  - (iii) any of the functions of the CMA under paragraph 4 of Schedule 1 to the Act or under an order made under section 50 of the Act; and
+- “**relevant competent persons**” has the meaning given in regulation 4(2).
+
+(2)[^key-e466ace12cff43362470b74d7970b170] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Information regarding potential cases
+
+For the purpose of determining which competent persons have jurisdiction to exercise Part 1 functions in respect of a case or for the purpose of facilitating the performance by another competent person of its Part 1 functions, a competent person may send to any other competent person details of any information in its possession that an infringement of—
+
+- (a) the Chapter I prohibition [^c22039491], or[^key-74167317968017d75ac8342f60a330fc]
+- (b) the Chapter II prohibition,
+- (c)[^key-26ca17d5ca3661516d8a9e012a6c4eb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-494f3b512304d578652846bf72833e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+may have taken place.
+
+## 4. Determination of the exercise of Part 1 functions
+
+(1) If a competent person proposes to exercise any of the prescribed functions in respect of a case and it considers that another competent person has or may have concurrent jurisdiction to exercise Part 1 functions in respect of that case, it must inform that other competent person in writing of its intention to exercise prescribed functions in respect of that case.
+
+(2) Where a competent person has informed another competent person of its intention to exercise prescribed functions in accordance with paragraph (1) in respect of a case, all such competent persons (“the relevant competent persons”) must agree who is to exercise Part 1 functions in respect of that case.
+
+(3) When agreement has been reached in accordance with paragraph (2), the CMA must as soon as practicable inform in writing the other relevant competent persons which competent person is to exercise Part 1 functions in respect of the case.
+
+## 5. Dispute
+
+(1) If the relevant competent persons are not able to reach agreement in accordance with regulation 4(2) within a reasonable time, the CMA must notify the other relevant competent persons that it intends to determine which relevant competent person is to exercise Part 1 functions in respect of the case.
+
+(2) Any relevant competent person may make representations in writing to the CMA no later than 5 working days after the date upon which the CMA notifies its intention to make a determination in accordance with paragraph (1).
+
+(3) The CMA must within 10 working days of notifying its intention in accordance with paragraph (1)—
+
+- (a) determine which competent person is to exercise Part 1 functions in respect of the case; and
+- (b) inform in writing all other relevant competent persons—
+  - (i) which competent person is to exercise jurisdiction in respect of the case,
+  - (ii) the date of the determination, and
+  - (iii) the reasons for the determination.
+
+(4) In making a determination in accordance with paragraph (3)(a) the CMA—
+
+- (a) must take into consideration any representations made in accordance with paragraph (2); and
+- (b) [^key-ac40cc68b9d15cb345153a016dbd24ab]... may decide that it is to exercise Part 1 functions in respect of the case rather than another relevant competent person, where the CMA is satisfied that its doing so would further the promotion of competition, within any market or markets in the United Kingdom, for the benefit of consumers.
+
+(5)[^key-e708656b772f47151bae921caab31494] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Avoidance of double jeopardy
+
+(1) Where two or more competent persons may have concurrent jurisdiction to exercise Part 1 functions in respect of a case, no competent person shall exercise any prescribed functions in respect of that case before agreement has been reached in accordance with regulation 4(2) or a determination has been made in accordance with regulation 5(3)(a) as to which competent person is to exercise Part 1 functions in respect of that case.
+
+(2) Subject to regulations 7 and 8, once agreement has been reached in accordance with regulation 4(2) or a determination has been made in accordance with regulation 5(3)(a) as to which competent person is to exercise Part 1 functions in respect of a case, no other competent person shall exercise any Part 1 functions in respect of that case.
+
+## 7. Transfer
+
+(1) A competent person who has exercised any Part 1 functions in respect of a case (“**the transferor**”) may agree with another competent person who but for regulation 6 would have, concurrent jurisdiction to exercise Part 1 functions in respect of that case (“**the transferee**”) to transfer the case to the transferee.
+
+(2) If the transferor and the transferee propose to agree a transfer in accordance with paragraph (1), the transferor must first—
+
+- (a) notify the undertaking which is the subject of the exercise of Part 1 functions in that case (the undertaking concerned) and any other person likely to be materially affected by the transfer, of the proposed transfer, and
+- (b) give such recipients of the notice the opportunity to make written representations upon the proposal within no less than 10 working days of the date of that notice.
+
+(3) The transferor and transferee must take into account any written representations made in accordance with paragraph (2)(b) before agreeing the transfer.
+
+(4) Once the transferor and transferee have reached a decision about the proposed transfer, the transferor must—
+
+- (a) inform the recipients of the notice under paragraph (2) in writing of their decision and the reasons for it, and
+- (b) if the transfer has been agreed, that the transferee is to exercise jurisdiction in respect of the case from the date of the transfer.
+
+(5) The transferor is not under any obligation to notify any person in accordance with paragraph (2) or to inform any person in accordance with paragraph (4) if the transferor has not informed the that person that it has exercised Part 1 functions in respect of the case.
+
+## 8. Circumstances in which the CMA may decide that it is to exercise Part 1 functions
+
+(1) The CMA may direct a regulator [^c22039501] to transfer a case in respect of which the regulator is exercising Part 1 functions to the CMA where the CMA is satisfied that—
+
+- (a) it exercising the Part 1 functions rather than the regulator would further the promotion of competition, within any market or markets in the United Kingdom, for the benefit of consumers; [^key-f28a98de2122a9c3d65790d9b2e267ac]...
+- (b)[^key-c6724fb92b56237a6c973401564f97e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If the CMA proposes to exercise the power in paragraph (1) the CMA must first consult the regulator who is exercising Part 1 functions in respect of the case, explaining the reasons why the CMA considers it appropriate to exercise that power.
+
+(3) If, following the consultation referred to in paragraph (2), the CMA still proposes to exercise the power in paragraph (1), the CMA must—
+
+- (a) notify—
+  - (i) the regulator who is exercising Part 1 functions in respect of the case,
+  - (ii) the undertaking which is the subject of the exercise of Part 1 functions in the case (the undertaking concerned), and
+  - (iii) any other persons likely to be materially affected by the transfer,
+
+  of what it proposes,
+- (b) give such recipients of the notice the opportunity to make written representations upon the proposal within no less than 10 working days of the date of that notice, and
+- (c) take into account any representations made in accordance with paragraph (3)(b).
+
+(4) Once the CMA has reached a decision whether to exercise the power in paragraph (1), the CMA must—
+
+- (a) inform the recipients of the notice under paragraph (3)(a) in writing of its decision and the reasons for it; and
+- (b) if the CMA has decided to exercise the power in paragraph (1), inform such recipients in writing that the CMA is to exercise jurisdiction in respect of the case from the date of the transfer.
+
+(5) The CMA is not under any obligation to notify or inform any person referred to in paragraph (3)(a)(ii) or (iii) in accordance with this regulation if the regulator has not informed that person that it has exercised Part 1 functions in respect of the case.
+
+(6) The CMA may not exercise the power in paragraph (1) in respect of a case where a regulator has given notice under section 31(1) of the Act that it proposes to make a decision (within the meaning given by section 31(2) of the Act) in that case.
+
+## 9. Information sharing
+
+(1) Each competent person must put in place arrangements for sharing with other competent persons the following information in connection with concurrent cases [^c22039511]—
+
+- (a) details of any information in the possession of the competent person that an infringement of—
+  - (i) the Chapter I prohibition, or[^key-24ca862383635b239fa0742c9fa7ee7c]
+  - (ii) the Chapter II prohibition,
+  - (iii)[^key-d302cb0c21f6ff34f3d566b342e9f9ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^key-2669520bd57c67fd0e6eeb92c06461dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  may have taken place, whether or not the competent person proposes to exercise any of the prescribed functions in respect of the case;
+- (b) a draft of any notice which the competent person proposes to give under section 31 of the Act (decisions following an investigation) or rule 5 of the CMA's Rules (statement of objections), before the notice is given;
+- (c) a draft of any commitments which the competent person proposes to accept under section 31A of the Act (commitments) before those commitments are accepted;
+- (d) a draft of any notice which the competent person proposes to give under section 35(3) (notice of interim measures), before the notice is given;
+- (e) a draft of any notice which the competent person proposes to give under rule 10(1) of the CMA's Rules (notice of infringement decision), before the notice is given;
+- (f) a draft of any notice which the competent person proposes to give under rule 10(4) of the CMA's Rules (notice of no grounds for action decision), before the notice is given;
+- (g) a draft of any notice which the competent person proposes to give under rule 15(3) or (6) of the CMA's Rules (notice of proposed cancellation of retained exemption[^key-041a500119eb5ea41100da611abdd2c3] and notice of decision), before the notice is given;
+- (h) a draft of any notice of a decision by the competent person not to proceed with a case, before the notice is given;
+- (i) a draft of any notice which the competent person proposes to give under section 112 of the Enterprise Act 2002 [^c22039521] as applied by section 40A(9) of the Act (notice of administrative penalty), before the notice is given;
+- (j) such other information in the possession of the competent person as any other competent person may reasonably require to facilitate the performance of its functions under the Act.
+
+(2) This regulation does not affect any power or duty to disclose information which exists apart from this regulation.
+
+## 10. Use of staff
+
+(1) A competent person who wishes to exercise Part 1 functions in respect of a case (“**the appointor**”) may appoint an officer of another competent person (“**the appointee**”) to act as his officer in relation to that case provided that the competent person of which the appointee is an officer gives his written consent to the appointment on or before the date upon which the appointment commences.
+
+(2) An appointee—
+
+- (a) is an officer of the appointor for the purposes of sections 27 to 29 inclusive of the Act, and
+- (b) may exercise such other functions in relation to the case as may be agreed as if the appointee were an employee of the appointor.
+
+(3) Any act or omission of the appointee within the terms of the appointment is to be deemed to be an act or omission of the appointor.
+
+## 11. Service of Notices
+
+(1) Any notice to be served on any person under regulations 7 and 8 may be served by post or by sending it by electronic means to an electronic address notified by the person for the purpose.
+
+(2) A letter containing that notice is to be deemed to be properly addressed if it is addressed to that person at its registered office or last known residence or last known place of business in the United Kingdom.
+
+## 12. Revocation and transitional provision
+
+(1) The Competition Act 1998 (Concurrency) Regulations 2004 [^c22039531] (“**the 2004 Regulations**”) are revoked.
+
+(2) Where a competent person (other than the CMA) is entitled to exercise prescribed functions within the meaning of and in accordance with the 2004 Regulations in respect of a case before the date these Regulations come into force, that competent person is to be treated as having jurisdiction to exercise Part 1 functions in respect of that case for the purposes of these Regulations as though an agreement to that effect had been reached in accordance with regulation 4(2) of these Regulations.
+
+(3) Where the Office of Fair Trading is entitled to exercise prescribed functions within the meaning of and in accordance with the 2004 Regulations in respect of a case before the date these Regulations come into force, the CMA is to be treated as having jurisdiction to exercise Part 1 functions in respect of that case for the purposes of these Regulations as though an agreement to that effect had been reached in accordance with regulation 4(2) of these Regulations.
+
+Jenny Willott
+
+Parliamentary Under Secretary of State for Employment Relations and Consumer Affairs
+
+Department for Business, Innovation and Skills
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for the Competition and Markets Authority (“CMA”) and the regulators who can exercise functions of the CMA under Part 1 of the Competition Act 1998 (c 41) (“**the Act**”) concurrently with it to co-ordinate the performance of those functions.
+
+The relevant regulators are listed in section 54(1) of the Act and as at 1st April 2014 are the Office of Communications, the Gas and Electricity Markets Authority, the Water Services Regulation Authority, the Office of Rail Regulation, the Northern Ireland Authority for Utility Regulation, the Civil Aviation Authority and Monitor.
+
+Regulation 3 provides for a competent person (which means the CMA or any of the regulators) to circulate information for the purposes of determining which of their number may exercise Part 1 functions (as defined in regulation 2) in relation to a case or for the purpose of facilitating the performance by another competent person of its Part 1 functions.
+
+Regulation 4 sets out the steps that must be taken before a competent person exercises prescribed functions (as defined in regulation 2) in relation to a case.
+
+Regulation 5 provides the procedure for determining which competent person is to exercise Part 1 functions in a particular case when agreement has not been reached on this issue in accordance with regulation 4 and provides that the CMA may only determine that a competent person other than Monitor is to exercise Part 1 functions in relation to the case if the CMA is satisfied that the case is not principally concerned with matters relating to the provision of health care services for the purposes of the NHS in England.
+
+Regulation 6 makes provision for the circumstances in which the exercise of prescribed functions by a competent person in relation to a case precludes the exercise of Part 1 functions by another competent person.
+
+Regulation 7 makes provision for a competent person who has exercised Part 1 functions in relation to a case to transfer that case to another competent person.
+
+Regulation 8 makes provision for the CMA to determine that it rather than a regulator who has exercised Part 1 functions in relation to a case is to exercise Part 1 functions in relation to that case and provides that the CMA cannot determine that it rather than Monitor should exercise Part 1 functions in respect of a case unless the CMA is satisfied that the case is not principally concerned with matters relating to the provision of health care services for the purposes of the NHS in England.
+
+Regulation 9 provides for arrangements to be established by competent persons for sharing information in relation to concurrent cases (as defined in section 54(6C) of the Act).
+
+Regulation 10 makes provision for the appointment of an officer of one competent person to act as the officer of another competent person in relation to a case.
+
+Regulation 11 makes provision for the service of notices.
+
+Regulation 12 revokes the Competition Act 1998 (Concurrency) Regulations 2004 (SI 2004/1077) and makes transitional provision in relation to cases where a competent person is already exercising Part 1 functions.
+
+The impact assessment completed for Parts 3 and 4 of the Enterprise and Regulatory Reform Bill, introduced to Parliament on 23rd May 2012, includes an assessment of the effect that the changes to the concurrency arrangements will have on the costs of business and the public and voluntary sector and can be found at the website:
+
+https://www.gov.uk/government/publications/strengthening-competition-and-creating-a-single-market-authority.
+
+## Annotations
+
+[^c22039451]: Marginal citation: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41). Section 54 is amended by Schedule 25 to the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 371](https://www.legislation.gov.uk/ukpga/2002/40/section/371) of the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [Schedule 7](https://www.legislation.gov.uk/ukpga/2003/21/schedule/7) to the [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [Schedule 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/2) to the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [section 74](https://www.legislation.gov.uk/ukpga/2003/20/section/74) of the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 51](https://www.legislation.gov.uk/ukpga/2012/7/section/51) of and Schedules 5 and 15 to the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [section 67](https://www.legislation.gov.uk/ukpga/2013/24/section/67) of and Schedule 8 to the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33) (the amendments made by Financial Services (Banking Reform) Act 2013 are not yet in force) and [S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261).
+
+[^c22039461]: Marginal citation: [S.I. 2014/458](https://www.legislation.gov.uk/uksi/2014/458).
+
+[^c22039471]: Marginal citation: “competent person” is defined in section 54(7) of the Competition Act 1998.
+
+[^key-917b9f4795135b3eaff46a7b2ad40391]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [S.I. 2019/93](https://www.legislation.gov.uk/uksi/2019/93), [Sch. 2 para. 5(1A)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/5/1A) (as inserted by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2020/1343/regulation/31))
+
+[^key-e466ace12cff43362470b74d7970b170]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/536/regulation/2/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [115(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/115/2)
+
+[^c22039491]: Marginal citation: “the Chapter I prohibition”, “the Chapter II prohibition”, “Article 101(1)” and “Article 102” are all defined in section 59 of the Competition Act 1998. Relevant amendments were made to section 59 by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
+
+[^key-74167317968017d75ac8342f60a330fc]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2014/536/regulation/3/a) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/5/2/a) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-26ca17d5ca3661516d8a9e012a6c4eb3]: Textual amendment: [Reg. 3(c)](https://www.legislation.gov.uk/uksi/2014/536/regulation/3/c) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/5/2/b) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-494f3b512304d578652846bf72833e69]: Textual amendment: [Reg. 3(d)](https://www.legislation.gov.uk/uksi/2014/536/regulation/3/d) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/5/2/b) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ac40cc68b9d15cb345153a016dbd24ab]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2014/536/regulation/5/4/b) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [115(3)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/115/3/a)
+
+[^key-e708656b772f47151bae921caab31494]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2014/536/regulation/5/5) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [115(3)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/115/3/b)
+
+[^c22039501]: Marginal citation: “regulator” is defined in section 54(1) of the Competition Act 1998.
+
+[^key-f28a98de2122a9c3d65790d9b2e267ac]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/536/regulation/8/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [115(4)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/115/4/a)
+
+[^key-c6724fb92b56237a6c973401564f97e3]: Textual amendment: [Reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2014/536/regulation/8/1/b) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [115(4)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/115/4/b)
+
+[^c22039511]: Marginal citation: “concurrent case” is defined in section 54(6C) of the Competition Act 1998.
+
+[^key-24ca862383635b239fa0742c9fa7ee7c]: Textual amendment: Word in [reg. 9(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/536/regulation/9/1/a/i) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/5/3/a) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d302cb0c21f6ff34f3d566b342e9f9ff]: Textual amendment: [Reg. 9(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/536/regulation/9/1/a/iii) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/5/3/b) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2669520bd57c67fd0e6eeb92c06461dc]: Textual amendment: [Reg. 9(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2014/536/regulation/9/1/a/iv) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/5/3/b) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-041a500119eb5ea41100da611abdd2c3]: Textual amendment: Words in [reg. 9(1)(g)](https://www.legislation.gov.uk/uksi/2014/536/regulation/9/1/g) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/5/4) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22039521]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^c22039531]: Marginal citation: [S.I. 2004/1077](https://www.legislation.gov.uk/uksi/2004/1077); amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).

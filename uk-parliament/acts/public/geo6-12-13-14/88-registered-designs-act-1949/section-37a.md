@@ -1,0 +1,74 @@
+---
+title: Registered Designs Act 1949, section 37A
+act: Registered Designs Act 1949
+section: 37A
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/37A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Registered Designs Act 1949, section 37A
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/88
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 37A. Use of electronic communications[^key-d0d253731d1611ddf1ee3d0d6f3219a3]
+
+*Extent: E+W+S+N.I.*
+
+(1) The registrar may give directions as to the form and manner in which documents to be delivered to the registrar—
+
+- (a) in electronic form; or
+- (b) using electronic communications,
+
+are to be delivered to him.
+
+(2) A direction under subsection (1) may provide that in order for a document to be delivered in compliance with the direction it shall be accompanied by one or more additional documents specified in the direction.
+
+(3) Subject to subsections (11) and (12), if a document to which a direction under subsection (1) or (2) applies is delivered to the registrar in a form or manner which does not comply with the direction the registrar may treat the document as not having been delivered.
+
+(4) Subsection (5) applies in relation to a case where—
+
+- (a) a document is delivered using electronic communications, and
+- (b) there is a requirement for a fee to accompany the document.
+
+(5) The registrar may give directions specifying—
+
+- (a) how the fee shall be paid; and
+- (b) when the fee shall be deemed to have been paid.
+
+(6) The registrar may give directions specifying that a person who delivers a document to the registrar in electronic form or using electronic communications cannot treat the document as having been delivered unless its delivery has been acknowledged.
+
+(7) The registrar may give directions specifying how a time of delivery is to be accorded to a document delivered to him in electronic form or using electronic communications.
+
+(8) A direction under this section may be given—
+
+- (a) generally;
+- (b) in relation to a description of cases specified in the direction;
+- (c) in relation to a particular person or persons.
+
+(9) A direction under this section may be varied or revoked by a subsequent direction under this section.
+
+(10) The delivery using electronic communications to any person by the registrar of any document is deemed to be effected, unless the registrar has otherwise specified, by transmitting an electronic communication containing the document to an address provided or made available to the registrar by that person as an address of his for the receipt of electronic communications; and unless the contrary is proved such delivery is deemed to be effected immediately upon the transmission of the communication.
+
+(11) A requirement of this Act that something must be done in the prescribed manner is satisfied in the case of something that is done—
+
+- (a) using a document in electronic form, or
+- (b) using electronic communications,
+
+only if the directions under this section that apply to the manner in which it is done are complied with.
+
+(12) In the case of an application made as mentioned in subsection (11)(a) or (b) above, a reference in this Act to the application not having been made in accordance with rules under this Act includes a reference to its not having been made in accordance with any applicable directions under this section.
+
+(13) This section applies—
+
+- (a) to delivery at the Patent Office as it applies to delivery to the registrar; and
+- (b) to delivery by the Patent Office as it applies to delivery by the registrar.
+
+## Annotations
+
+[^key-d0d253731d1611ddf1ee3d0d6f3219a3]: Textual amendment: S. 37A inserted (1.10.2006) by [Registered Designs Act 1949 and Patents Act 1977 (Electronic Communications) Order 2006 (S.I. 2006/1229)](https://www.legislation.gov.uk/uksi/2006/1229), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1229/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1229/article/2)

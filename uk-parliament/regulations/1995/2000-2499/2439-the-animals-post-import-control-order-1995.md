@@ -1,0 +1,314 @@
+---
+title: The Animals (Post-Import Control) Order 1995
+id: uksi/1995/2439
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1995-09-14'
+text_date: '2020-12-31'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/2439
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/2439/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Animals (Post-Import Control) Order 1995
+
+> Text as at 2020-12-31.
+
+1995 No. 2439
+
+ANIMALS
+
+ANIMAL HEALTH
+
+The Animals (Post-Import Control) Order 1995
+
+Made
+
+14th September 1995
+
+Laid before Parliament
+
+18th September 1995
+
+Coming into force
+
+9th October 1995
+
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred on them by sections 1, 7, and 10 of the Animal Health Act 1981[^c1783238], and, in relation to warble fly, the Minister of Agriculture, Fisheries and Food in relation to England, the Secretary of State for Scotland in relation to Scotland and the Secretary of State for Wales in relation to Wales, in exercise of the powers conferred on them by sections 1 and 10 of that Act, and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Title, commencement and interpretation
+
+(1) This Order may be cited as the Animals (Post-Import Control) Order 1995 and shall come into force on 9th October 1995.
+
+(2) In this Order, “authorised inspector" means a veterinary inspector appointed as such by the appropriate Minister.
+
+(3) In this Order, any reference to an instrument of the European Community is a reference to that instrument as amended at the time this Order comes into force.
+
+(4) In this Order, where there is a requirement to notify the Minister, such notice shall be given in writing to the person authorised by the Minister to receive notification for the area in which the animal to which the notice relates is situated at the time the requirement to notify arises.
+
+## 2. Treatment of imported cattle for warble fly
+
+(1) Any person importing cattle into Great Britain other than for immediate slaughter shall—
+
+- (a) ensure that they are treated at the place of destination with a warble fly preparation authorised to be placed on the market in Great Britain within 24 hours of the arrival of the cattle at the place of destination, and
+- (b) within 5 working days of their treatment for warble fly, notify the Minister that the animals have been treated as required.
+
+(2) This article shall not apply in the case of an importation from Northern Ireland.
+
+(3) In this article “place of destination" means the address on the health certification accompanying the animals if they are delivered to that address, or, if they are delivered to a different address,[^key-c383740462586f776499399f6bfb6a40]... the first place of delivery of the animals.
+
+## 3. Importation of pigs from areas not free from Aujeszky’s disease
+
+(1) In accordance with Commission[^key-f83405203bea34002afd31aa5ac5bebc] [Decision 2008/185/EC](https://www.legislation.gov.uk/european/decision/2008/0185) on additional guarantees in intra-Community trade of pigs relating to Aujeszky’s disease and criteria to provide information on this disease any person importing pigs intended for production or slaughter into Great Britain from any place other than those specified in paragraph (2) below shall—
+
+- (a) take them directly from the point of entry into Great Britain to the premises of destination named in the accompanying health certificate;
+- (b) not allow them to come into contact with pigs which are not part of the same consignment; and
+- (c) ensure that the vehicle is thoroughly cleansed and disinfected before it leaves the premises of destination.
+
+(2)[^key-1d483f765f1055483594c5198306d21c] Paragraph (1) does not apply in the case of the importation of pigs from any of the territories specified in Annex 1 of Commission Decision [2008/185/EC](https://www.legislation.gov.uk/eudn/2008/185) as at exit day.
+
+(3) In the case of pigs imported for production, the occupier of the premises of destination shall ensure that, after the arrival of the imported pigs, no pigs are removed from the premises unless directly to a slaughterhouse for immediate slaughter and then only under the authority of, and in accordance with the conditions of, a licence issued by an authorised inspector; and this provision shall remain in force until the premises have been completely de-stocked of pigs and thoroughly cleansed and disinfected.
+
+(4) The operator of a slaughterhouse slaughtering pigs to which this article applies shall keep records (which he shall make available on request to an authorised inspector) of—
+
+- (a) the date of slaughter of the pigs;
+- (b) the number of pigs slaughtered;
+- (c) their identification numbers or marks; and
+- (d) their place of origin.
+
+## 4. Importation of cattle from Canada
+
+(1) Any person importing cattle into Great Britain from Canada under the provisions of [Regulation (EU) 206/2010](https://www.legislation.gov.uk/european/regulation/2010/0206)[^key-d9160385ce96b55db3bea0814a1eb91d] (laying down lists of third countries, territories or parts thereof authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements), other than cattle originating from Canadian Health Accredited Herds which maintain their health status during transportation, shall transport the cattle directly from the point of arrival into Great Britain to isolation premises complying with the conditions in Schedule 2 to this Order.
+
+(2) Any person importing into Great Britain from Canada bulls (other than for direct entry to semen collection centres) or non-pregnant females, originating in both instances from herds in which not all bovines over 24 months of age have been tested negative for enzootic bovine leukosis within the twelve months prior to the date of export, shall ensure that—
+
+- (a) the animals are at least 18 months of age at the time of import;
+- (b) in the case of females, the animals are not pregnant at the time of import; and
+- (c) the animals are kept in isolation for six months following import at isolation premises complying with the conditions in Schedule 2 to this Order.
+
+(3) Any person importing into Great Britain from Canada bulls—
+
+- (a) which are intended for direct entry to a semen collection centre; and
+- (b) which come from herds in which not all bovines over 24 months of age have been tested negative for enzootic bovine leukosis within the 12 months prior to the date of export,
+
+shall ensure that the animals are kept in isolation for 9 months following import at isolation premises complying with the conditions in Schedule 2 to this Order.
+
+(4) Any person importing cattle into Great Britain in accordance with paragraph (1) above other than those subject to paragraph (2) or (3) above shall ensure that the animals are kept in isolation for four months following import at isolation premises complying with the conditions in Schedule 2 to this Order.
+
+## 5. Importation of cattle for meat production in specified circumstances
+
+(1) Any person importing cattle for meat production into Great Britain [^key-282f7b861b1ca7ab71938eb94b236b95]... shall ensure that they do not come into contact with non-imported cattle either during transportation or after arrival at the premises of destination specified in the accompanying health certification.
+
+(2) The occupier of the premises of destination shall ensure that the imported cattle are not removed from the premises unless directly to a slaughterhouse for immediate slaughter or to a slaughter market and then only under the authority of, and in accordance with the conditions of, a licence issued by an authorised inspector.
+
+## 6. Importation of cattle for slaughter in specified circumstances
+
+Any person importing cattle for slaughter into Great Britain [^key-8dba640eed5cc77340d0d2e24a57c330]... shall transport them directly from the point of arrival in Great Britain to the slaughterhouse named in the health certification accompanying the animals, and shall ensure that they are slaughtered within 72 hours of arrival.
+
+## 7. Importation of sheep and goats
+
+(1) Any person importing sheep or goats into Great Britain other than for immediate slaughter shall allow them to be tested by an authorised officer of the Minister for contagious agalactia on arrival in Great Britain and shall detain them until their release is authorised by an authorised inspector.
+
+(2) This article shall not apply in the case of an importation from Northern Ireland or the Republic of Ireland.
+
+## 8. Notices
+
+(1) If any person on whom a duty is placed under this Order fails to comply with such duty, an inspector may, by notice in writing served on him, require him to comply with that obligation, and, if the person fails to comply with it, may take such action as may be necessary to ensure compliance with the notice at the expense of the person on whom the notice was served.
+
+(2) A notice under this article may be subject to conditions and may be amended, suspended or revoked by notice in writing at any time.
+
+## 9. Enforcement
+
+Except where otherwise expressly provided, this Order shall be enforced by the local authority.
+
+## 10. Revocation and saving
+
+(1) The Animals (Post-Import Control) Order 1993 [^c1783242] is hereby revoked.
+
+(2) Any notice issued under the Animals (Post-Import Control) Order 1993 shall continue to have effect as if made under the equivalent provision under this Order.
+
+Tony Baldry
+
+Minister of State Ministry of Agriculture, Fisheries and Food
+
+Lindsay
+
+Parliamentary Under Secretary of State Scottish Office
+
+Signed by authority of the Secretary of State for Wales
+
+Gwilym Jones
+
+Parliamentary Under Secretary of State, Welsh Office
+
+## SCHEDULE 1 — TERRITORIES TO WHICH RULES RELATING TO IMPORTED PIGS DO NOT APPLY[^key-57a1a23686bb14ee91b5d1c451c2b74d]
+
+**No longer in force.**
+
+Article 3(2)
+
+**1.**[^key-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — CONDITIONS APPLICABLE TO POST IMPORT ISOLATION PREMISES FOR CATTLE
+
+Article 4
+
+**1.** In the case of isolation in buildings:
+
+- (a) the building must be cleansed and disinfected prior to use;
+- (b) drainage from the building must not flow into any area or onto any land accessible to other stock;
+- (c) if the route of entry to the building is used by other stock it must be cleansed and disinfected both before use by imported cattle and immediately after they have been housed;
+- (d) during transfer of the imported cattle to the building there must be no contact with other stock or sharing of air space; and
+- (e) imported cattle must be kept in an enclosed secure building with no access to or sharing of air space with other stock.
+
+**2.** In the case of field isolation:
+
+- (a) boundary fences must prevent contact with other stock and be in the form of double fencing 3 metres apart, and
+- (b) a suitable building meeting the requirements of paragraph 1 of this Schedule must also be available.
+
+**3.** Animals may only be kept in group isolation if there are facilities on the premises for isolating individual animals in the event of injury or disease.
+
+**4.** No animals other than imported cattle shall be moved into the isolation premises.
+
+**5.** The attendant for the imported cattle will be allowed to have contact with native livestock providing:
+
+- (a) native livestock is attended to first;
+- (b) suitable protective clothing (boots, overalls and gloves) is worn while tending the imported animals; and
+- (c) personal cleansing and disinfection is carried out immediately thereafter.
+
+**6.** Animals from separate imported consignments may share the same isolation premises. However, in such circumstances none of the animals may be released from isolation until the latest date on which the isolation periods for the individual consignments expire, irrespective of whether the consignments initially qualify for 4, 6 or 9 months isolation.
+
+**7.** During the isolation period, no movement of imported cattle off the isolation premises is permitted unless under the authority of a licence issued by an authorised inspector, which licence may only be issued either
+
+- (a) if the animals are to be taken directly to an abattoir for immediate slaughter, or
+- (b) to another isolation premises if this is necessary for welfare reasons.
+
+Any animal with a positive reaction to the EBL test shall be slaughtered forthwith without compensation to the importer.
+
+**8.** The imported cattle shall not be vaccinated or subjected to any test without the authority of an authorised inspector.
+
+**9.** Any illness in imported cattle shall be notified to the Minister. If any of the cattle die or have to be slaughtered the carcase or carcases must not be removed from the isolation premises without the authority of a licence issued by an authorised inspector.
+
+**10.** A duly authorised officer of the Minister may take samples for testing for enzootic bovine leukosis (EBL) —
+
+- (a) where a 4 month isolation period applies, within 120 days of landing;
+- (b) where a 6 month isolation period applies, between 70 and 74 days after landing and again between 180 and 184 days after landing; and
+- (c) where a 9 month isolation period applies, between 150 and 155 days after landing and again between 270 and 275 days after landing.
+
+**11.** Where cattle are imported pregnant, they must be housed separately from non-pregnant animals on the isolation premises. Details of any animal found to be pregnant without the pregnancy recorded on the certification accompanying the animal must be notified to the Minister and the animal must immediately be isolated from other animals on the isolation premises.
+
+**12.** Animals which are imported as pregnant shall be isolated from other cattle when calving is imminent.
+
+**13.** Arrangements for milking imported cattle, should this be necessary, must be agreed with an authorised inspector.
+
+**14.** Contacts with reactors to an EBL test shall remain in isolation for 120 days after the positive test after which they shall be given a further EBL test, but they may be licensed by an authorised inspector to isolation at other premises or direct to a slaughterhouse.
+
+**15.** After the isolation period, the animals shall not be permitted to leave the isolation prremises unless authorised by an authorised inspector in writing, which authorisation shall not be given until all imported animals on the isolation premises have passed the final EBL test; except that where pregnant animals calve more than 120 days after importation, release of other imported animals in the isolation premises is at the discretion of an authorised inspector. Any animals which have calved in the isolation premises may be released at the discretion of an authorised inspector when all the animals in isolation premises have met the EBL testing requirements.
+
+**16.** Embryos may be collected from animals in isolation providing prior approval has been obtained from an authorised inspector.
+
+**17.** Artificial insemination of imported cattle may be allowed subject to the approval of an authorised inspector.
+
+**18.** Natural service of imported cattle is permitted only in the case of imported bulls running in the same isolation as the imported heifers or cows.
+
+**19.** An imported bull not intended for direct entry to a semen collection centre may be examined and tested to establish whether or not it is fit to be used for the purposes of artificial insemination. In the case of bulls undergoing 4 months isolation this examination and testing may be undertaken immediately upon entry into isolation and in the case of bulls undergoing 6 months isolation it may be undertaken following confirmation of a negative result to the EBL test carried out between 70 and 74 days after landing. If it is found that the bulls are suitable, semen may be collected and stored at an approved centre. Semen may not be used until the bull and any other imported cattle in contact with it have, in the case of animals subject to four months isolation, passed the single post-importation EBL test carried out within 120 days of landing or, in the case of animals subject to six months isolation, have passed the final post-importation EBL test between 180 and 184 days after landing. If any imported animal on the same isolation premises as the donor bull fails the EBL test the semen must remain in isolation until all animals on that pemises are released from isolation.
+
+**20.** Semen may be collected from a bull imported for direct entry to a semen collection centre and subject to 9 months isolation. Such semen may only be collected after confirmation of a negative result to the EBL test carried out between 150 and 155 days after landing and must be stored at an approved centre. It may not be used until the bull and any other imported cattle in contact with it have passed the final post-importation EBL test between 270 and 275 days after landing. If any imported animal on the same isolation premises as the donor bull fails the EBL test the semen must remain in isolation until all animals on that premises are released from isolation.
+
+**21.** Teasers may be used for the collection of semen but must be steers, over 18 months of age, tested and found negative to the EBL test. The movement of teasers into the isolation premises will only be allowed under the authority of a licence issued by an authorised inspector.
+
+**22.** The use of female teasers is prohibited.
+
+**23.** Teasers shall be held in separate approved isolation to the bulls and only taken to the bull for the collection of semen. After collection of semen the teasers shall be returned to their isolation section.
+
+**24.** After final collection is completed the teasers shall remain in isolation until the bull has been tested for EBL and found clear, after which time the teaser may be released. Alternatively the teaser may be sent for slaughter.
+
+## SCHEDULE 3 — COMMUNITY INSTRUMENTS PERMITTING THE IMPORT OF CATTLE SUBJECT TO SPECIFIED CONDITIONS[^key-ad8ed159f94db14ffb0bc565554e72a5]
+
+**No longer in force.**
+
+Articles 5(1) and 6
+
+**1.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note does not form part of the Order)
+
+This Order revokes and replaces the Animals (Post-Import Control) Order 1993, S.I. 1993/14. It establishes controls on certain animals after they have been imported into Great Britain by laying down requirements relating to —
+
+•cattle from areas not free from warble fly (article 2)
+
+•pigs from areas not free from Aujesky’s disease (article 3 and Schedule 1)
+
+•cattle from Canada (article 4 and Schedule2)
+
+•cattle imported under specific Community legislation (articles 5 and 6 and Schedule 3), and
+
+•sheep and goats from areas not free from contagious agalactia (article 7).
+
+It empowers an inspector to serve a notice in specified circumstances (article 8).
+
+It is enforced by the local authority (article 9).
+
+Contravention of the Order is an offence under the Animal Health Act 1981.
+
+A Compliance Cost Assessment for this Order has been prepared and placed in the library of each House of Parliament. Copies can be obtained from the Animal Health (International Trade) Division of the Ministry of Agriculture, Fisheries and Food, Goverment Buildings, Hook Rise South, Tolworth, Surbiton, Surrey KT6 7NF.
+
+## Annotations
+
+[^c1783238]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). See section 86(1) for a definition of “the Ministers" and “the appropriate Minister".
+
+[^key-c383740462586f776499399f6bfb6a40]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/1995/2439/article/2/3) omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/9/2)
+
+[^key-f83405203bea34002afd31aa5ac5bebc]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/1995/2439/article/3/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2019/526/regulation/9/3)
+
+[^key-1d483f765f1055483594c5198306d21c]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/1995/2439/article/3/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d9160385ce96b55db3bea0814a1eb91d]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1995/2439/article/4/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/9/4)
+
+[^key-282f7b861b1ca7ab71938eb94b236b95]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/1995/2439/article/5/1) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8dba640eed5cc77340d0d2e24a57c330]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/1995/2439/article/6) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1783242]: Marginal citation: [S.I. 1993/14](https://www.legislation.gov.uk/uksi/1993/14).
+
+[^key-57a1a23686bb14ee91b5d1c451c2b74d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/2439/schedule/1) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad8ed159f94db14ffb0bc565554e72a5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1995/2439/schedule/3) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -1,0 +1,224 @@
+---
+title: The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003
+id: uksi/2003/2758
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-10-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/2758
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2758/pdfs/uksi_20032758_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2758/made/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 2758
+
+CHANNEL TUNNEL
+
+The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003
+
+Made
+
+29th October 2003
+
+Laid before Parliament
+
+30th October 2003
+
+Coming into force
+
+24th November 2003
+
+The Commissioners of Customs and Excise, it appearing to them necessary or expedient to do so, in exercise of the powers conferred on them by sections 11(1), 11(2), 11(3), 13(1), 13(2), 34(1), 34(2) and 34(4) of the Channel Tunnel Act 1987[^f00001], hereby make the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 and comes into force on 24 November 2003.
+
+## 2. Controls
+
+The following Regulations apply in a control zone with the modifications indicated in the Schedule—
+
+- (a) the Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^f00002];
+- (b) the Beer Regulations 1993[^f00003] Parts I, VI and VII (determination of the duty, payment of duty and returns);
+- (c) the Tobacco Products Regulations 2001[^f00004] Parts I, III and VI (excise duty points, security and payment of duty, and application of other regulations);
+- (d) the Excise Duty Points (Duty Suspended Movements of Excise Goods) Regulations 2001[^f00005];
+- (e) the Excise Goods (Accompanying Documents) Regulations 2002[^f00006].
+
+## 3. Penalties, assessments and appeals
+
+Section 170A of the Customs and Excise Management Act 1979[^f00007] (civil penalty for handling goods subject to unpaid excise duty) applies to goods in a control zone with the modifications indicated in the Schedule.
+
+**4.** The following enactments apply, for the purposes of this Order, in corresponding manner to events involving goods in a control zone in the same way that they apply to events involving goods in the United Kingdom—
+
+- (a) Part I Chapter II of the Finance Act 1994[^f00008] (appeals and penalties);
+- (b) section 49(3) of the Alcoholic Liquor Duties Act 1979[^f00009] (civil penalty and forfeiture for contravention of or failure to comply with beer regulations);
+- (c) section 7(2) of the Tobacco Products Duty Act 1979[^f00010] (civil penalty and forfeiture for contravention of or failure to comply with regulations for management of duty);
+- (d) section 100J of the Customs and Excise Management Act 1979[^f00011] (civil penalty and forfeiture for contravention of or failure to comply with registered excise dealers and shippers regulations).
+
+## 5. Interpretation
+
+For the purposes of this Order, “control zone” bears the same meaning as in article 5(2)(a) of the Channel Tunnel (Customs and Excise) Order 1990[^f00012].
+
+## 6. Revocations
+
+The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2000[^f00013] and the Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2002[^f00014] are revoked.
+
+Ray McAfee
+
+Commissioner of Customs and Excise
+
+New King’s Beam House, London SE1 9PJ
+
+29th October 2003
+
+## SCHEDULE
+
+Regulations 2 and 3
+
+### 1. The Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992, the Beer Regulations 1993 and the Tobacco Products Regulations 2001
+
+In regulation 2(1) of the Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992, regard the meaning given for “excise goods” as omitting the expression “, the Hydrocarbon Oil Duties Act 1979”.
+
+**2.** After regulation 2(1) of those Regulations, regard there as being—
+
+> (1A) Any reference in these Regulations to “import”, “importation”, “imported” or “importer” includes such reference as is appropriate for their application to, or in the case of, goods or products that are treated as being imported into the United Kingdom by article 5(2)(a) of the Channel Tunnel (Customs and Excise) Order 1990.
+
+.
+
+**3.** In regulation 4(1A) of those Regulations, regulation 15(1A) of the Beer Regulations 1993 and regulation 12(1A) of the Tobacco Products Regulations 2001, regard—
+
+- (a) the words “another member State” as being followed by “(including the French Republic)”;
+- (b) the words “United Kingdom” as being followed by “or a control zone to which article 5(2)(a) of the Channel Tunnel (Customs and Excise) Order 1990 refers”.
+
+### 4. The Excise Duty Points (Duty Suspended Movements of Goods) Regulations 2001
+
+In regulation 2 of the Excise Duty Points (Duty Suspended Movements of Goods) Regulations 2001, after the meaning given for “authorized warehousekeeper”, regard there as being—
+
+> - “control zone” means a control zone to which article 5(2)(a) of the Channel Tunnel (Customs and Excise) Order 1990 refers;
+
+.
+
+**5.** In regulation 2 of those Regulations, regard the meaning given for “excise duty” as—
+
+> - (a) in relation to the United Kingdom, a duty of excise charged by or under an enactment on excise goods (except mineral oils) falling within Article 3(1) of the Directive; and
+> - (b) in relation to a member State other than the United Kingdom, a similar charge, imposition or levy;
+
+.
+
+**6.** In Part I and after regulation 2 of those Regulations, regard there as being—
+
+> **2A.** For the purposes of regulations 3(1)(a)(ii), 3(1)(b), 3(2) and 5(1), “United Kingdom” includes a control zone.
+
+.
+
+### 7. The Excise Goods (Accompanying Documents) Regulations 2002
+
+In regulation 2(1) of the Excise Goods (Accompanying Documents) Regulations 2002, after the meaning given for “Community provisions”, regard there as being—
+
+> - “control zone” means a control zone to which article 5(2)(a) of the Channel Tunnel (Customs and Excise) Order 1990 refers;
+
+.
+
+**8.** In regulation 2(1) of those Regulations, regard the meaning given for “excise goods” as being—
+
+> - goods (other than chewing tobacco or hydrocarbon oil) of a class or description subject to any duty of excise;
+
+.
+
+**9.** After regulation 2(1) of those Regulations, regard there as being—
+
+> (1A) References in these Regulations to “imported excise goods” include references to goods that are treated as being imported into the United Kingdom by article 5(2)(a) of the Channel Tunnel (Customs and Excise) Order 1990.
+
+.
+
+**10.** In regulations 15(1) and 17(3) of those Regulations, regard the words “another member State” as being followed by “(including the French Republic)”.
+
+**11.** In regulation 21(2)(b) of those Regulations, regard the words “United Kingdom” as being followed by “or a control zone”.
+
+**12.** In regulation 21(5)(b) of those Regulations, regard the word “imported” as being followed by “or were treated as being imported into the United Kingdom by article 5(2)(a) of the Channel Tunnel (Customs and Excise) Order 1990”.
+
+### 13. The Customs and Excise Management Act 1979
+
+After section 170A(2) of the Customs and Excise Management Act 1979, regard there as being—
+
+> (2A) In relation to a case involving goods that are treated as being imported into the United Kingdom by virtue of an order made under sections 11 and 13 of the Channel Tunnel Act 1987, subsections (1) and (2) above shall apply and be construed as if—
+>
+> - (a) the excise duty point for those goods has been passed, and
+> - (b) those goods are chargeable with a duty of excise.
+>
+> (2B) Subsection (2A) does not apply to goods meeting the description of anything chargeable with duty under the Hydrocarbon Oil Duties Act 1979[^f00015].
+
+.
+
+(This note is not part of the Order)
+
+Goods intended to be brought into the United Kingdom through the Channel Tunnel on a shuttle train are treated as being imported when they are taken into the control zone in France within the tunnel system[^f00016].
+
+This Order comes into force on 24 November 2003 and replaces two earlier Orders[^f00017] with a single, expanded Order.
+
+Article 2 and paragraphs 1 to 12 of the Schedule provide suitable modifications for the application of the following Regulations in the control zone to events involving alcoholic liquor and tobacco products:
+
+- (a) the Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^f00018];
+- (b) the Beer Regulations 1993[^f00019] Parts I, VI and VII (determination of the duty, payment of duty and returns);
+- (c) the Tobacco Products Regulations 2001[^f00020] Parts I, III and VI (excise duty points, security and payment of duty, and application of other regulations);
+- (d) the Excise Duty Points (Duty Suspended Movements of Excise Goods) Regulations 2001[^f00021],
+- (e) the Excise Goods (Accompanying Documents) Regulations 2002[^f00022].
+
+Articles 3 and 4, and paragraph 13 of the Schedule, make corresponding provision for the penalty, forfeiture, assessment and appeal provisions relating to those Regulations and to conduct involving the handling of goods subject to unpaid excise duty.
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
+
+[^f00002]: Footnote: S.I. [1992/3135](https://www.legislation.gov.uk/uksi/1992/3135), amended by S.I. [1993/1228](https://www.legislation.gov.uk/uksi/1993/1228), [1999/1278](https://www.legislation.gov.uk/uksi/1999/1278), [2001/1712](https://www.legislation.gov.uk/uksi/2001/1712), [2001/3022](https://www.legislation.gov.uk/uksi/2001/3022), [2002/501](https://www.legislation.gov.uk/uksi/2002/501), [2002/2692](https://www.legislation.gov.uk/uksi/2002/2692).
+
+[^f00003]: Footnote: S.I. [1993/1228](https://www.legislation.gov.uk/uksi/1993/1228); relevant amending instrument is S.I. [2002/2692](https://www.legislation.gov.uk/uksi/2002/2692).
+
+[^f00004]: Footnote: S.I. [2001/1712](https://www.legislation.gov.uk/uksi/2001/1712), amended by S.I. [2002/2692](https://www.legislation.gov.uk/uksi/2002/2692).
+
+[^f00005]: Footnote: S.I. [2001/3022](https://www.legislation.gov.uk/uksi/2001/3022).
+
+[^f00006]: Footnote: S.I. [2002/501](https://www.legislation.gov.uk/uksi/2002/501).
+
+[^f00007]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 170A was inserted by the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48) and amended by the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9).
+
+[^f00008]: Footnote: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
+
+[^f00009]: Footnote: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).
+
+[^f00010]: Footnote: [1979 c. 7](https://www.legislation.gov.uk/ukpga/1979/7).
+
+[^f00011]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 100 J was inserted by the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31) and substituted by the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9).
+
+[^f00012]: Footnote: S.I. [1990/2167](https://www.legislation.gov.uk/uksi/1990/2167); relevant amending instruments are S.I. [1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [1994/1405](https://www.legislation.gov.uk/uksi/1994/1405).
+
+[^f00013]: Footnote: S.I. [2000/426](https://www.legislation.gov.uk/uksi/2000/426).
+
+[^f00014]: Footnote: S.I. [2002/2693](https://www.legislation.gov.uk/uksi/2002/2693).
+
+[^f00015]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
+
+[^f00016]: Footnote: Article 5(2)(a) of the Channel Tunnel (Customs and Excise) Order 1990 (S.I. [1990/2167](https://www.legislation.gov.uk/uksi/1990/2167)); relevant amending instruments are S.I. [1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [1994/1405](https://www.legislation.gov.uk/uksi/1994/1405).
+
+[^f00017]: Footnote: Article 6 revokes S.I. [2000/426](https://www.legislation.gov.uk/uksi/2000/426) and S.I. [2002/2693](https://www.legislation.gov.uk/uksi/2002/2693).
+
+[^f00018]: Footnote: S.I. [1992/3135](https://www.legislation.gov.uk/uksi/1992/3135), amended by S.I. [1993/1228](https://www.legislation.gov.uk/uksi/1993/1228), [1999/1278](https://www.legislation.gov.uk/uksi/1999/1278), [2001/1712](https://www.legislation.gov.uk/uksi/2001/1712), [2001/3022](https://www.legislation.gov.uk/uksi/2001/3022), [2002/501](https://www.legislation.gov.uk/uksi/2002/501), [2002/2692](https://www.legislation.gov.uk/uksi/2002/2692).
+
+[^f00019]: Footnote: S.I. [1993/1228](https://www.legislation.gov.uk/uksi/1993/1228); relevant amending instrument is S.I. [2002/2692](https://www.legislation.gov.uk/uksi/2002/2692).
+
+[^f00020]: Footnote: S.I. [2001/1712](https://www.legislation.gov.uk/uksi/2001/1712), amended by S.I. [2002/2692](https://www.legislation.gov.uk/uksi/2002/2692).
+
+[^f00021]: Footnote: S.I. [2001/3022](https://www.legislation.gov.uk/uksi/2001/3022).
+
+[^f00022]: Footnote: S.I. [2002/501](https://www.legislation.gov.uk/uksi/2002/501).

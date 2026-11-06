@@ -1,0 +1,242 @@
+---
+title: The Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014
+id: uksi/2014/899
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-04-03'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/899
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/899/pdfs/uksiem_20140899_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/899/pdfs/uksi_20140899_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/899/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 899
+
+Housing, England
+
+The Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014
+
+Made
+
+3rd April 2014
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 7, 8 and 9(2)(b) and (c) of the Prevention of Social Housing Fraud Act 2013 [^c22077801].
+
+In accordance with section 9(3) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014 and come into force on the third day after the day on which they are made.
+
+(2) These Regulations apply in relation to England only.
+
+## 2. Interpretation
+
+(1) In these Regulations— 
+
+“**authorised officer**” means a person acting in accordance with any authorisation for the purposes of these Regulations which is for the time being in force in relation to that person.
+
+(2) For the purposes of these Regulations— 
+
+- (a) references to a document include references to anything in which information is recorded in electronic or any other form;
+- (b) the requirement that notice be given by an authorised officer in writing shall be taken to be satisfied in any case where the contents of the notice—
+  - (i) are transmitted to the recipient of the notice by electronic means; and
+  - (ii) are received by that person in a form that is legible and capable of being recorded for future reference.
+
+## 3. Authorisations by local authorities
+
+(1) Subject to paragraphs (2) and (3), a local authority may grant an authorisation to an individual to exercise the powers conferred on an authorised officer under regulation 4.
+
+(2) A local authority may only grant authorisation to an individual if that person is—
+
+- (a) an individual employed by that authority;
+- (b) an individual employed by another local authority or joint committee that carries out functions relating to housing fraud investigation purposes on behalf of that authority.
+
+(3) An authorisation granted to an individual for the purposes of these Regulations—
+
+- (a) must be in writing and provided to that individual as evidence of that individual's entitlement to exercise powers conferred by these Regulations;
+- (b) may contain provision as to the period for which the authorisation is to have effect; and,
+- (c) may restrict the powers exercisable by virtue of the authorisation so as to prohibit their exercise except for particular purposes or in particular circumstances.
+
+(4) An authorisation may be withdrawn at any time in writing by the local authority that granted it.
+
+(5) The written authorisation or withdrawal of an authorisation by any local authority must be issued under the hand of either— 
+
+- (a) the officer designated under section 4 of the Local Government and Housing Act 1989 [^c22077811] as the head of the authority's paid service; or
+- (b) the officer who is the authority's chief finance officer (within the meaning of section 5 of that Act).
+
+(6) A local authority may grant an authorisation for housing fraud investigation purposes in relation to offences in the area of another local authority, as well as in relation to offences in the area of the authority granting the authorisation.
+
+## 4. Power to require information
+
+(1) An authorised officer may exercise the powers conferred by this regulation for any of the housing fraud investigation purposes (but not for any other purpose).
+
+(2) An authorised officer who has reasonable grounds for suspecting that a person— 
+
+- (a) is a person falling within paragraph (3) below, and
+- (b) has or may have possession of or access to any information about any matter that is relevant to housing fraud investigation purposes,
+
+may, by written notice, require that person to provide all such information described in the notice of which that person has possession, or to which that person has access, and which it is reasonable for the authorised officer to require for the purpose so mentioned.
+
+(3) The persons who fall within this paragraph are— 
+
+- (a) any bank;
+- (b) any person carrying on a business the whole or a significant part of which consists in the provision of credit (whether secured or unsecured) to members of the public;
+- (c) any water undertaker or sewerage undertaker;
+- (d) any person who—
+  - (i) is the holder of a licence under section 7 of the Gas Act 1986 [^c22077821] to convey gas through pipes; or,
+  - (ii) is the holder of a licence under section 7A of that Act [^c22077831] to supply gas through pipes;
+- (e) any person who (within the meaning of the Electricity Act 1989 [^c22077841]) distributes or supplies electricity;
+- (f)[^key-0c830c3cf9e3663861137ed89a69e358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) any servant or agent of any person mentioned in sub-paragraphs (a) to (e)[^key-991e49e191d0e089b97a19dd0601017a].
+
+(4) Subject to the following provisions of this regulation, the powers conferred by this regulation on an authorised officer to require information from any person by virtue of that person falling within paragraph (3) shall be exercisable for the purpose only of obtaining information relating to a particular person identified (by name or description) by the officer.
+
+(5) An authorised officer shall not, in exercise of those powers, require any information from any person by virtue of that person falling within paragraph (3) unless it appears to that officer that there are reasonable grounds for believing that the person to whom it relates is— 
+
+- (a) a person who has committed, is committing or intends to commit an offence listed in section 7(7) of the Prevention of Social Housing Fraud Act 2013; or
+- (b) a person who is a member of the family of a person falling within sub-paragraph (a).
+
+(6)[^key-75383bae71767b6fcfc977cf51cb2db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-75383bae71767b6fcfc977cf51cb2db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) The obligation of a person to provide information in accordance with a notice under this regulation shall be discharged only by the provision of that information, at such reasonable time and in such form as may be specified in the notice, to the authorised officer who— 
+
+- (a) is identified by or in accordance with the terms of the notice; or
+- (b) has been identified, since the giving of the notice, by a further written notice given by the authorised officer who imposed the original requirement or another authorised officer.
+
+(9) The power of an authorised officer under this regulation to require the provision of information shall include a power to require the production and delivery up and (if necessary) creation of any such documents containing the information as may be specified or described in the notice imposing the requirement, or the creation of copies of or extracts from any such documents.
+
+(10) No person shall be required under this regulation to provide—
+
+- (a) any information that tends to incriminate either that person or, in the case of a person who is married or is a civil partner, that person's spouse or civil partner; or
+- (b) any information in respect of which a claim to legal professional privilege would be successful in any proceedings;
+
+and for the purposes of this paragraph it is immaterial whether the information is in documentary form or not.
+
+(10A)[^key-c2c596f5e51850b4277bdcbcf262b53f] Nothing in this regulation is to be read as enabling a person to secure the disclosure by a telecommunications operator or postal operator of communications data without the consent of the operator.
+
+(11) In this regulation— 
+
+- “**bank**” means—
+  - (a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 [^c22077861] to accept deposits;
+  - (b) [^key-6665f216e77dcab077810bf3caf1a4e1]...; or
+  - (c) a person who does not require permission under that Act to accept deposits in the course of that person's business in the United Kingdom;
+- “[^key-70521e343d664f2756f44fdc0f25794c]**communications data**” has the same meaning as in the Investigatory Powers Act 2016 (see sections 261 and 262 of that Act);
+- “**credit**” includes a cash loan or any form of financial accommodation, including the cashing of a cheque;
+- “**family**” is to be construed in accordance with section 113 of the Housing Act 1985 [^c22077901];
+- “[^key-b9e9bd0021d10dc631a2477f22d3c70c]**postal operator**” has the same meaning as in the Investigatory Powers Act 2016 (see section 262 of that Act);
+- “[^key-b45f561a5cb4f6f79cc84d16c6681281]**telecommunications operator**” has the same meaning as in the Investigatory Powers Act 2016 (see section 261 of that Act).
+
+(12) The definition of “bank” in paragraph (11) must be read in accordance with—
+
+- (a) section 22 of the Financial Services and Marketing Act 2000 [^c22077911];
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act.
+
+## 5. Delay, obstruction etc of an authorised officer
+
+(1) If a person (P) —
+
+- (a) intentionally delays or obstructs an authorised officer in the exercise of any power under regulation 4; or
+- (b) refuses or fails, without reasonable excuse, to provide any information or to provide any document when required to do so under regulation 4,
+
+P shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Where P is convicted of an offence under paragraph (1)(b) and the refusal or failure is continued by P after P's conviction, P shall be guilty of a further offence and liable on summary conviction to a fine not exceeding £40 for each day on which it is continued.
+
+## 6. Liability of directors etc.
+
+(1) Where an offence under regulation 5 which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of that offence and be liable to be proceeded against accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with that member's functions of management as if that member were a director of the body corporate.
+
+## 7. Legal proceedings
+
+(1) Proceedings for an offence under regulation 5 may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the prosecutor's knowledge.
+
+(2) But no such proceedings may be brought more than three years —
+
+- (a) after the commission of the offence, or
+- (b) in the case of a continuous contravention, after the last date on which the offence was committed.
+
+(3) A certificate signed by the prosecutor and stating the date on which such evidence came to the prosecutor's knowledge is conclusive evidence of that fact; and a certificate to that effect and purporting to be signed is to be treated as being so signed unless the contrary is proved.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Signatory text
+
+Kris Hopkins
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+*(This note is not part of the Regulations)*
+
+The Prevention of Social Housing Fraud Act 2013 (“**the Act**”) creates offences related to sub-letting and parting with possession of social housing and makes provision for the investigation and prosecution of social housing fraud offences. These Regulations are made under sections 7, 8 and 9(2)(b) and (c) of the Act and make provision for powers to require information for housing fraud investigation purposes.
+
+Regulation 3 provides that a local authority may authorise an individual to exercise the powers conferred on an authorised officer under regulation 4.
+
+Regulation 4 enables officers authorised under regulation 3 to require information from specified persons for housing fraud investigation purposes. These purposes are the prevention, detection or securing evidence for the conviction of one of the offences listed in section 7(7) of the Act.
+
+Regulation 5 provides that it is an offence to refuse or fail to provide information when required to do so under regulation 4.
+
+Regulation 6 makes provision for the liability of directors etc. where an offence under regulation 5 has been committed by a body corporate.
+
+Regulation 7 sets out the time limit for commencing proceedings for an offence under regulation 5.
+
+A full impact assessment has not been produced for this instrument. The impact assessment in relation to the Act, which assesses the effect that this instrument will have on the costs of business, is available here www.gov.uk
+
+## Annotations
+
+[^c22077801]: Marginal citation: [2013 c.3](https://www.legislation.gov.uk/ukpga/2013/3)
+
+[^c22077811]: Marginal citation: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42); amendments have been made to section 4 but they are not relevant to these Regulations.
+
+[^c22077821]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44); section 7 was substituted by section 5 [Gas Act 1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45) and subsection (1) was subsequently amended by section 76 of the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27). Other amendments to section 7 are not relevant to these Regulations.
+
+[^c22077831]: Marginal citation: Section 7A was inserted by section 6(1) of the [Gas Act 1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45). Subsections (1) and (2) were subsequently amended by section 3(2) [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27); subsection (2) was further amended by paragraphs 1 and 2 of Schedule 6 to that Act; and subsection (3) was amended by section 149 of the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20). Other amendments have been made to section 7A but they are not relevant to these Regulations.
+
+[^c22077841]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29)
+
+[^key-0c830c3cf9e3663861137ed89a69e358]: Textual amendment: Reg. 4(3)(f) omitted (22.7.2020) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/2/paragraph/11/a) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/d)
+
+[^key-991e49e191d0e089b97a19dd0601017a]: Textual amendment: Word in reg. 4(3)(g) substituted (22.7.2020) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/2/paragraph/11/b) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/d)
+
+[^key-75383bae71767b6fcfc977cf51cb2db2]: Textual amendment: Reg. 4(6)(7) omitted (22.7.2020) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 2 para. 11(c)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/2/paragraph/11/c) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/d)
+
+[^key-c2c596f5e51850b4277bdcbcf262b53f]: Textual amendment: Reg. 4(10A) inserted (22.7.2020) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 2 para. 11(d)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/2/paragraph/11/d) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/d)
+
+[^c22077861]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8); Part 4A was inserted by section 11(2) [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^key-6665f216e77dcab077810bf3caf1a4e1]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/uksi/2014/899/regulation/4/11) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 80](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/80) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-70521e343d664f2756f44fdc0f25794c]: Textual amendment: Words in reg. 4(11) inserted (22.7.2020) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 2 para. 11(e)(i)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/2/paragraph/11/e/i) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/d)
+
+[^c22077901]: Marginal citation: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68); section 113 was amended by the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) Schedule 8, paragraph 27.
+
+[^key-b9e9bd0021d10dc631a2477f22d3c70c]: Textual amendment: Words in reg. 4(11) inserted (22.7.2020) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 2 para. 11(e)(ii)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/2/paragraph/11/e/ii) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/d)
+
+[^key-b45f561a5cb4f6f79cc84d16c6681281]: Textual amendment: Words in reg. 4(11) substituted (22.7.2020) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 2 para. 11(e)(iii)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/2/paragraph/11/e/iii) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/d)
+
+[^c22077911]: Marginal citation: Section 22 and Schedule 2 were amended by section 7 [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21). Those amendments are not relevant to these Regulations.

@@ -1,0 +1,31 @@
+---
+title: The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019, section 380
+act: The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019
+section: '380'
+status: revised
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/705/section/380
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019, section 380
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 380.[^key-5d258fe6d7944f9b4eb3a02e20ad5b04]
+
+*Extent: E+W+S+N.I.*
+
+In the Annex—
+
+- (a) in point (f), omit “Community”;
+- (b) in point (h), omit “Community”;
+- (c) in the Note, in the final sentence, omit “Community”.
+
+## Annotations
+
+[^key-5d258fe6d7944f9b4eb3a02e20ad5b04]: Commencement: Reg. 380 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -1,0 +1,131 @@
+---
+title: The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023
+id: uksi/2023/1061
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-10-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2023/1061
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/1061/pdfs/uksiem_20231061_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/1061/pdfs/uksi_20231061_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/1061/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 1061
+
+Northern Ireland
+
+The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023
+
+Approved by both Houses of Parliament
+
+Made
+
+at 9.22 a.m. on 2nd October 2023
+
+Laid before Parliament
+
+at 2.45 p.m. on 2nd October 2023
+
+Coming into force
+
+3rd October 2023
+
+The Secretary of State makes these Regulations in exercise of the power conferred by section 6(3) of the Northern Ireland (Executive Formation etc) Act 2022[^f00001].
+
+The Secretary of State considers it to be expedient for these Regulations to be made more quickly than a draft being laid before, and approved by a resolution of, each House of Parliament would allow.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023.
+
+(2) They come into force on the day after the day on which they are made.
+
+(3) They extend to England and Wales, Scotland and Northern Ireland.
+
+## 2. Addition of specified offices
+
+(1) The table in section 6(2) of the Northern Ireland (Executive Formation etc) Act 2022[^f00002] (NI ministerial appointment functions) is amended as follows.
+
+(2) Before the entry for member of the Northern Ireland Judicial Appointments Commission, insert the following entry—
+
+> |  |  |
+> | --- | --- |
+> | King’s Counsel | Lord Chancellor |
+
+(3) After the entry for member or chair of the Agricultural Wages Board for Northern Ireland, insert the following entries—
+
+> |  |  |
+> | --- | --- |
+> | Member, chair or deputy chair of the Council for Nature Conservation and the Countryside | Secretary of State |
+> | Member of the Drainage Council for Northern Ireland | Secretary of State |
+
+(4) After the entry for member, chair or deputy chair of the General Consumer Council for Northern Ireland, insert the following entry—
+
+> |  |  |
+> | --- | --- |
+> | Member, chair or deputy chair of the Health and Safety Executive for Northern Ireland[^f00003] | Secretary of State |
+
+(5) After the entry for trustee or chair of the Board of Trustees of the National Museums and Galleries of Northern Ireland, insert the following entry—
+
+> |  |  |
+> | --- | --- |
+> | Member, chair or chief executive of the Northern Ireland Council for the Curriculum, Examinations and Assessment | Secretary of State |
+
+(6) After the entry for member or chair of the Northern Ireland Fishery Harbour Authority, insert the following entry—
+
+> |  |  |
+> | --- | --- |
+> | Member, chair or vice-chair of the Northern Ireland Housing Executive | Secretary of State |
+
+(7) After the entry for member, chair or deputy chair of the Northern Ireland Tourist Board, insert the following entries—
+
+> |  |  |
+> | --- | --- |
+> | Commissioner for Older People for Northern Ireland | Secretary of State |
+> | Member of the Police Service of Northern Ireland above the rank of chief superintendent[^f00004] | Secretary of State |
+
+(8) After the entry for the Commissioner for Public Appointments for Northern Ireland, insert the following entry—
+
+> |  |  |
+> | --- | --- |
+> | Member, chair or vice-chair of the Sports Council for Northern Ireland | Secretary of State |
+
+Steve Baker
+
+Minister of State
+
+Northern Ireland Office
+
+At 9.22 a.m. on 2nd October 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 6 of the Northern Ireland (Executive Formation etc) Act 2022 provides for appointment functions of Northern Ireland Ministers, in respect of a list of specified offices, to be exercised by a Minister of the Crown during the current period in which there is no Executive in Northern Ireland. Section 6 also permits further offices to be added to the list of specified offices by regulations.
+
+These Regulations specify further offices for the purposes of section 6. The effect of this is that the relevant Minister of the Crown may exercise the appointment functions of a Northern Ireland Minister in relation to those offices.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector or community bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 48](https://www.legislation.gov.uk/ukpga/2022/48).
+
+[^f00002]: Footnote: [2022 c. 48](https://www.legislation.gov.uk/ukpga/2022/48). Section 6(2) was amended by [S.I. 2023/776](https://www.legislation.gov.uk/uksi/2023/776) which added further offices to the list of specified offices.
+
+[^f00003]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039) established the Health and Safety Agency for Northern Ireland which was renamed the Health and Safety Executive for Northern Ireland by Article 3(1) of [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795).
+
+[^f00004]: Footnote: [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976) amended section 35(1), (2), (3)(a), (3)(b), (4) and (8)(a) of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32) substituting the words “Minister of Justice” for “Secretary of State”. “Senior officer” is defined in section 77 of the Police (Northern Ireland) Act 2000.

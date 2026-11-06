@@ -1,0 +1,162 @@
+---
+title: The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019
+id: uksi/2019/563
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-03-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2019/563
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/563/pdfs/uksiem_20190563_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/563/pdfs/uksi_20190563_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/563/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 563
+
+Exiting The European Union
+
+Road Traffic
+
+The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019
+
+Made
+
+13th March 2019
+
+Coming into force
+
+28th March 2019
+
+At the Court at Buckingham Palace, the 13th day of March 2019
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+A draft of this Order was laid before Parliament in accordance with section 1(5) of the Motor Vehicles (International Circulation) Act 1952 and approved by a resolution of each House of Parliament.
+
+This Order is made in exercise of the powers conferred by section 1(1)(a), (2)(c) and (4) of the Motor Vehicles (International Circulation) Act 1952[^f00001].
+
+Her Majesty, by and with the advice of Her Privy Council, orders as follows:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 and comes into force on 28th March 2019.
+
+## 2. Amendment of the Motor Vehicles (International Circulation) Order 1975
+
+(1) The Motor Vehicles (International Circulation) Order 1975[^f00002] is amended as follows.
+
+(2) In Article 1—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) Subject to the following provisions of this Article, the Secretary of State may issue to a person resident in the United Kingdom a driving permit in any of the forms A, B and C in Schedule 1 for use outside the United Kingdom.
+  >
+  > (1A) A permit may only be issued to a person for vehicles of a class or classes in respect of which that person holds a full licence.
+  >
+  > (1B) In paragraph (1A)—
+  >
+  > - “full licence” means a licence granted under Part 3 of the Road Traffic Act 1988[^f00003], or Part 2 of the Road Traffic (Northern Ireland) Order 1981[^f00004], other than a provisional licence, and
+  > - “provisional licence” has the same meaning as in Part 3 of the Road Traffic Act 1988 or Part 2 of the Road Traffic (Northern Ireland) Order 1981.
+  >
+  > (1C) A permit in Form A may not be issued to any person who is under 18 years of age unless the permit is restricted to the driving of motor cycles or invalid carriages, or both.
+  >
+  > (1D) A permit in Form B may not be issued to any person who is under 18 years of age.
+  >
+  > (1E) A permit in Form C must be limited in its period of validity to three years, or, if shorter, the unexpired period of the permit holder’s current United Kingdom driving licence.
+
+  ;
+- (b) in paragraph (7) omit the words “tests of the competency of applicants for driving permits and”; and
+- (c) in paragraph (8) omit the words “tests or”.
+
+(3) In Article 2—
+
+- (a) in paragraph (4) in the definition of “Convention country” after the words “but is a party to” insert the words “the 1968 Convention,”;
+- (b) in paragraph (7)—
+  - (i) before the definition of “Convention driving permit” insert—
+
+    > - “1926 Convention” means the International Convention relative to Motor Traffic done at Paris on 24th April 1926[^f00005];
+    > - “1949 Convention” means the Convention on Road Traffic done at Geneva on 19th September 1949[^f00006];
+    > - “1968 Convention” means the Convention on Road Traffic done at Vienna on 8th November 1968[^f00007];
+
+    ; and
+  - (ii) for the definition of “Convention driving permit” substitute—
+
+    > - “Convention driving permit” means either—
+    >   - (a) a driving permit in Form A in Schedule 1 issued under the authority of a country outside the United Kingdom which is a party to the 1949 Convention but not to the 1968 Convention;
+    >   - (b) a driving permit in Form B in Schedule 1 issued under the authority of a country outside the United Kingdom which is a party to the 1926 Convention but not to the 1949 Convention nor to the 1968 Convention; or
+    >   - (c) a driving permit in Form C in Schedule 1 issued under the authority of a country outside the United Kingdom which is a party to the 1968 Convention;
+
+    ; and
+- (c) at the end of paragraph (8) insert “and, without prejudice to the provisions of paragraph (4), a Convention driving permit in Form C in Schedule 1 is not valid at a time when any restrictive condition of use endorsed on it is not satisfied”.
+
+(4) In Schedule 1 after Form B insert the headings and the form set out in the Schedule to this Order.
+
+## 3. Revocations
+
+(1) The Motor Vehicles (International Circulation) (Amendment) Order 1980[^f00008] is revoked.
+
+(2) In the Motor Vehicles (International Circulation) (Amendment) Order 1989[^f00009]—
+
+- (a) in Article 1 the words after “1st September 1989” are revoked; and
+- (b) Article 6 is revoked.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+## SCHEDULE — HEADINGS AND FORM TO BE INSERTED AFTER FORM B IN SCHEDULE 1 TO THE MOTOR VEHICLES (INTERNATIONAL CIRCULATION) ORDER 1975
+
+Article 2(4)
+
+> **C — FORM OF INTERNATIONAL DRIVING PERMIT UNDER CONVENTION OF 1968**
+>
+> [image: see source](https://www.legislation.gov.uk/uksi/2019/563/images/uksi_20190563_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2019/563/images/uksi_20190563_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2019/563/images/uksi_20190563_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2019/563/images/uksi_20190563_en_004)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Motor Vehicles (International Circulation) Order 1975 ([S.I. 1975/1208](https://www.legislation.gov.uk/uksi/1975/1208)) (“the 1975 Order”) to give effect to certain provisions of the 1968 Convention on Road Traffic (Cm 9570) (“the 1968 Convention”) which relate to international driving permits.
+
+Article 2 amends Article 1 of the 1975 Order to provide for the issue of international driving permits under the 1968 Convention to persons resident in the United Kingdom for use outside the United Kingdom. It also amends Article 2 of the 1975 Order to provide for the recognition of international driving permits under the 1968 Convention held by persons who are resident outside the United Kingdom and who are temporarily in Great Britain.
+
+Article 3 revokes the Motor Vehicles (International Circulation) Order 1980 ([S.I. 1980/1095](https://www.legislation.gov.uk/uksi/1980/1095)) and certain provisions of the Motor Vehicles (International Circulation) Order 1989 ([S.I. 1989/993](https://www.legislation.gov.uk/uksi/1989/993)). The revoked provisions made prospective amendments to the 1975 Order relating to international driving permits under the 1968 Convention which have not come into force.
+
+The Schedule inserts the form of international driving permit under the 1968 Convention in Schedule 1 to the 1975 Order.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+The 1968 Convention is published in the Miscellaneous Series of treaties on gov.uk. The 1926 International Convention relative to Motor Traffic and the 1949 Convention on Road Traffic are published in the Treaty Series on UK Treaties Online (treaties.fco.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: [1952 c. 39](https://www.legislation.gov.uk/ukpga/1952/39).
+
+[^f00002]: Footnote: [S.I. 1975/1208](https://www.legislation.gov.uk/uksi/1975/1208), amended by [1989/993](https://www.legislation.gov.uk/uksi/1989/993), [1991/771](https://www.legislation.gov.uk/uksi/1991/771), [1996/1929](https://www.legislation.gov.uk/uksi/1996/1929), [1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [2004/1992](https://www.legislation.gov.uk/uksi/2004/1992) and [2013/3150](https://www.legislation.gov.uk/uksi/2013/3150); there are other amending instruments but none is relevant.
+
+[^f00003]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^f00004]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154).
+
+[^f00005]: Footnote: Cmd. 3510.
+
+[^f00006]: Footnote: Cmnd. 578.
+
+[^f00007]: Footnote: Cm 9570.
+
+[^f00008]: Footnote: [S.I. 1980/1095](https://www.legislation.gov.uk/uksi/1980/1095).
+
+[^f00009]: Footnote: [S.I. 1989/993](https://www.legislation.gov.uk/uksi/1989/993).

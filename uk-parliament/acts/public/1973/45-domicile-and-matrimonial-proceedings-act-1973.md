@@ -1,0 +1,1143 @@
+---
+title: Domicile and Matrimonial Proceedings Act 1973
+id: ukpga/1973/45
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1973-07-25'
+text_date: '2022-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1973/45
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1973/45/pdfs/ukpga_19730045_en.pdf
+- http://www.legislation.gov.uk/ukpga/1973/45/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Domicile and Matrimonial Proceedings Act 1973
+
+> Text as at 2022-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Domicile and Matrimonial Proceedings Act 1973
+
+1973 c.45
+
+An Act to amend the law relating to the domicile of married women and persons not of full age, to matters connected with domicile and to jurisdiction in matrimonial proceedings including actions for reduction of consistorial decrees; to make further provision about the recognition of divorces and legal separations; and for purposes connected therewith.
+
+\[25th July 1973\][^c7777001][^c7777011][^c7777021]
+
+## Part I — DOMICILE
+
+### Husband and wife
+
+#### 1. Abolition of wife’s dependent domicile.
+
+(1) Subject to subsection (2) below, the domicile of a married woman as at any time after the coming into force of this section shall, instead of being the same as her husband’s by virtue only of marriage, be ascertained by reference to the same factors as in the case of any other individual capable of having an independent domicile.
+
+(2) Where immediately before this section came into force a woman was married and then had her husband’s domicile by dependence, she is to be treated as retaining that domicile (as a domicile of choice, if it is not also her domicile of origin) unless and until it is changed by acquisition or revival of another domicile either on or after the coming into force of this section.
+
+(3) This section extends to England and Wales, Scotland and Northern Ireland.
+
+#### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7777031]
+
+### Minors and pupils
+
+#### 3. Age at which independent domicile can be acquired.
+
+(1) The time at which a person first becomes capable of having an independent domicile shall be when he attains the age of sixteen or marries under that age; and in the case of a person who immediately before 1st January 1974 was incapable of having an independent domicile, but had then attained the age of sixteen or been married, it shall be that date.
+
+(2) This section extends to England and Wales and Northern Ireland (but not to Scotland).
+
+#### 4. Dependent domicile of child not living with his father.
+
+(1 (Extent: S) (affected by repeal, see note))[^key-3617dfcf25f90f8debf008182964782f] Subsection (2) of this section shall have effect with respect to the dependent domicile of a child as at any time after the coming into force of this section when his father and mother are alive but living apart. *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f]
+
+(2 (Extent: S) (affected by repeal, see note))[^key-3617dfcf25f90f8debf008182964782f] The child’s domicile as at that time shall be that of his mother if— *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-3617dfcf25f90f8debf008182964782f] he then has his home with her and has no home with his father; or *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f]
+- (b (Extent: S) (affected by repeal, see note))[^key-3617dfcf25f90f8debf008182964782f] he has at any time had her domicile by virtue of paragraph ( *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f] *a *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f]* ) above and has not since had a home with his father. *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f]
+
+(3 (Extent: S) (affected by repeal, see note))[^key-3617dfcf25f90f8debf008182964782f] As at any time after the coming into force of this section, the domicile of a child whose mother is dead shall be that which she last had before she died if at her death he had her domicile by virtue of subsection (2) above and he has not since had a home with his father. *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f]
+
+(4 (Extent: S) (affected by repeal, see note))[^key-3617dfcf25f90f8debf008182964782f] Nothing in this section prejudices any existing rule of law as to the cases in which a child’s domicile is regarded as being, by dependence, that of his mother. *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f]
+
+(5 (Extent: S) (affected by repeal, see note))[^key-3617dfcf25f90f8debf008182964782f] In this section, “ *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f] **child *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f]** ” means a person incapable of having an independent domicile; . . . *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f] [^c7777041]
+
+(6 (Extent: S) (affected by repeal, see note))[^key-3617dfcf25f90f8debf008182964782f] This section extends to England and Wales, Scotland and Northern Ireland. *(Extent: S)* *(affected by repeal, see note)*[^key-3617dfcf25f90f8debf008182964782f]
+
+## Part II — JURISDICTION IN MATRIMONIAL PROCEEDINGS (ENGLAND AND WALES)
+
+*Extent: E+W*
+
+### 5. Jurisdiction of High Court and family court.[^key-718f6d0277d09335b16fa0567534201b]
+
+(1) Subsections (2) to (5) below shall have effect, subject to section 6(3) and (4) of this Act, with respect to the jurisdiction of the court to entertain any of the following proceedings in relation to a marriage of a man and a woman[^key-a7173c89cd4e9e5ed27767c6b90ea341]—
+
+- (a) proceedings for divorce, judicial separationor nullity of marriage; [^key-a6e5e0d167901b792ec391b87eec450f]...
+- (b)[^key-a6e5e0d167901b792ec391b87eec450f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c7777081] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^c7777091] In this Part of this Act—
+
+- [^key-3a0f22806eb2f45b4b72578015460fad]...
+- [^key-143860baf95d47bccdf9339429cf9dd0]...
+- “the court” means the High Court and the family court[^key-8280fc0d0cc8c655b950f2d85b7e1ba4].
+
+(2) The court shall have jurisdiction to entertain proceedings for divorce or judicial separation if (and only if) on the date of the application—[^key-fe42b832978b4f054942d9a0140774ff]
+
+- (a) both parties to the marriage are habitually resident in England and Wales;
+- (b) both parties to the marriage were last habitually resident in England and Wales and one of them continues to reside there;
+- (c) the respondent is habitually resident in England and Wales;
+- (ca)[^key-09f7837f8e06acd81502beadc2cea763] in a joint application only, either of the parties to the marriage is habitually resident in England and Wales;
+- (d) the applicant is habitually resident in England and Wales and has resided there for at least one year immediately before the application was made;
+- (e) the applicant is domiciled and habitually resident in England and Wales and has resided there for at least six months immediately before the application was made;
+- (f) both parties to the marriage are domiciled in England and Wales; or
+- (g) either of the parties to the marriage is domiciled in England and Wales.
+
+(3) The court shall have jurisdiction to entertain proceedings for nullity of marriage if (and only if) on the date of the application—[^key-b313234f578c5c3109236632fbe5c143]
+
+- (a) both parties to the marriage are habitually resident in England and Wales;
+- (b) both parties to the marriage were last habitually resident in England and Wales and one of them continues to reside there;
+- (c) the respondent is habitually resident in England and Wales;
+- (d) the applicant is habitually resident in England and Wales and has resided there for at least one year immediately before the application was made;
+- (e) the applicant is domiciled and habitually resident in England and Wales and has resided there for at least six months immediately before the application was made;
+- (f) both parties to the marriage are domiciled in England and Wales; or
+- (g) either of the parties to the marriage—
+  - (i) is domiciled in England and Wales; or
+  - (ii) died before the application was made and either was at death domiciled in England and Wales or had been habitually resident in England and Wales throughout the period of one year ending with the date of death.
+
+(3A)[^key-684fb5b871e30bf85981f2b9c2dc8ed4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-2217389b2c8e1f7cb3f1a27c1da7fae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The court shall, at any time when proceedings are pending in respect of which it has jurisdiction by virtue of subsection (2) or (3) above (or of this subsection), also have jurisdiction to entertain other proceedings, in respect of the same marriage, for divorce, judicial separation or nullity of marriage, notwithstanding that jurisdiction would not be exercisable under subsection (2) or (3).
+
+(5A)[^key-befd5798fdc65adc4882fc5e80c97789] Schedule A1 (jurisdiction in relation to marriage of same sex couples) has effect.
+
+(6) Schedule 1 to this Act shall have effect as to the cases in which matrimonial proceedings in England and Wales (whether the proceedings are in respect of the marriage of a man and a woman or the marriage of a same sex couple)[^key-2fafcde5fa552f1953248183f7a67092] are to be, or may be, stayed by the court where there are concurrent proceedings elsewhere in respect of the same marriage, and as to the other matters dealt with in that Schedule; but nothing in the Schedule—
+
+- (a) requires or authorises a stay of proceedings which are pending when this section comes into force; or
+- (b) prejudices any power to stay proceedings which is exercisable by the court apart from the Schedule.
+
+(6A)[^key-26cb7ceed6e77160932cd360773f945a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Miscellaneous amendments, transitional provision and savings.
+
+(1)[^c7777271] In section 27(2) of the [^c7777281] Matrimonial Causes Act 1973 (which excludes the court’s jurisdiction on a maintenance application unless it would have jurisdiction to decree judicial separation), for the words from “unless” onwards there shall be substituted the words
+
+> unless—
+>
+> - (a) the applicant or the respondent is domiciled in England and Wales on the date of the application ; or
+> - (b) the applicant has been habitually resident there throughout the period of one year ending with that date; or
+> - (c) the respondent is resident there on that date.
+
+(2)[^c7777271] In subsection (1) of section 50 of the Matrimonial Causes Act 1973 (scope of the Matrimonial Causes Rules), the word “or” at the end of paragraph (c) shall be omitted and after paragraph (d) there shall be inserted the following words
+
+> or
+>
+> - (e) any enactment contained in Part II of or Schedule I to the Domicile and Matrimonial Proceedings Act 1973 which does not fall within paragraph (d) above.
+
+(3) No proceedings for divorce shall be entertained by the court by virtue of section 5(2) or (5) of this Act , or by virtue of Schedule A1 to this Act,[^key-8f1f1dda0da385e73e950ab18e573432] while proceedings for divorce or nullity of marriage, begun before the commencement of this Act, are pending (in respect of the same marriage) in Scotland, Northern Ireland, the Channel Islands or the Isle of Man; and provision may be made by rules of court as to when for the purposes of this subsection proceedings are to be treated as begun or pending in any of those places.
+
+(4) Nothing in this Part of this Act—
+
+- (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7777301]
+- (b) affects the court’s jurisdiction to entertain any proceedings begun before the commencement of this Act.
+
+## Part III — JURISDICTION IN CONSISTORIAL CAUSES (SCOTLAND)
+
+*Extent: S*
+
+### 7. Jurisdiction of Court of Session.
+
+(1) Subsections (2A) to (10)[^key-96a052d83b0a3bef13c83f53cff0a88c] below shall have effect, subject to section 12(6) of this Act, with respect to the jurisdiction of the Court of Session to entertain—
+
+- (a) an action for divorce, separation, declarator of nullity of marriage or[^key-40a9a81ae60bb8f0c6423e8de28ff245], declarator of marriage, [^key-d2a031ada51da76f356769a1870d1038]... ; and
+- (aa)[^key-efd84d7fcd76ee512f6997e8fefa1fa7] an action for declarator of recognition, or non-recognition, of a relevant foreign decree.
+- (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7777391]
+
+(2)[^key-2d0b5e6d64258370adfee06118093f67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2A)[^c7777411] The Court shall have jurisdiction to entertain an action for divorce or separation if (and only if) either of the parties to the marriage[^key-6f1bc38150b697f941979b7a44363ae2]–
+
+- (a)[^key-b9f6d2116c32a9b01373c16e1372a6cc] is domiciled in Scotland on the date when the action is begun, or
+- (b) was habitually resident in Scotland throughout the period of one year ending with that date.
+
+(3) The Court shall have jurisdiction to entertain an action for declarator of marriage [^c7777421]. . . if (and only if) either of the parties to the marriage—
+
+- (a) is domiciled in Scotland on the date when the action is begun; or
+- (b) was habitually resident in Scotland throughout the period of one year ending with that date; or
+- (c) died before that date and either—
+  - (i) was at death domiciled in Scotland, or
+  - (ii) had been habitually resident in Scotland throughout the period of one year ending with the date of death.
+
+(3A)[^c7777431] The Court shall have jurisdiction to entertain an action for declarator of nullity of marriage or for declarator of recognition, or non-recognition, of a relevant foreign decree[^key-9879a218b082b68a316310c14e016878] if (and only if) either of the parties to the marriage[^key-a8ba04cec3082622593b0bb7cabec870] –
+
+- (a)[^key-354b81e6b6412479534661c7b2fed6df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-354b81e6b6412479534661c7b2fed6df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^key-5999271f9edfece02544e250bd5c05e5] is domiciled in Scotland on the date when the action is begun,
+- (b) was habitually resident in Scotland throughout the period of one year ending with that date, or
+- (c) died before that date and either—
+- (i) was at death domiciled in Scotland, or
+- (ii) had been habitually resident in Scotland throughout the period of one year ending with the date of death.
+
+(3B)[^key-342f20dd8d712c8bf866b35e5d2b8b9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^c7777391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Court shall, at any time when proceedings are pending in respect of which it has jurisdiction by virtue of subsection 2 , (2A), (3) or (3A) above[^M_F_ef79a87a-3196-4239-d41c-1e184a81ce13] (or of this subsection), also have jurisdiction to entertain other proceedings, in respect of the same marriage, for divorce, separation or declarator of marriage or[^M_F_8e7e598c-80a8-4391-8fe5-a64e6ca3dc80], declarator of nullity of marriage [^M_F_6ec3671c-d3df-48c0-b4ca-e42b3c1b470a]..., notwithstanding that jurisdiction would not be exercisable under any of those subsections[^M_F_4b5af079-5502-4bdb-c363-6f75256910eb].
+
+(5A)[^key-abae9f963cab6320ac264c4aadc332e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Nothing in this section affects the rules governing the jurisdiction of the Court of Session to entertain, in an action for divorce, an application for payment by a co-defender of damages or expenses.
+
+(7) The foregoing provisions of this section are without prejudice to any rule of law whereby the Court of Session has jurisdiction in certain circumstances to entertain actions for separation as a matter of necessity and urgency.
+
+(8) No action for divorce in respect of a marriage shall be entertained by the Court of Session by virtue of this section[^M_F_e899aeeb-445d-4808-da2b-c24e3f3935e8] while proceedings for divorce or nullity of marriage, begun before the commencement of this Act, are pending (in respect of the same marriage) in England and Wales, Northern Ireland, the Channel Islands or the Isle of Man; and provision may be made by rules of court as to when, for the purposes of this subsection, proceedings are to be treated as begun or pending in any of those places.
+
+(9)[^M_F_511a0dbd-ec17-40f8-dda9-3ea025962274] In this section, “relevant foreign decree” means a decree of divorce, nullity or separation granted outwith the United Kingdom, the Channel Islands and the Isle of Man[^key-2e29190f9112490f8a65566f0de99590].
+
+(10) References in subsection (3A) to a marriage shall, in the case of an action for declarator of recognition, or non-recognition, of a relevant foreign decree, be construed as references to the marriage to which the relevant foreign decree relates.
+
+### 8. Jurisdiction of sheriff court in respect of actions for separation.
+
+(1) Subsections (2) to (6)[^key-aa87846fb78545a2b5ee7444782e4c5a] below shall have effect, subject to section 12(6) of this Act, with respect to the jurisdiction of the sheriff court to entertain—
+
+- (za)[^key-9c0280fa18eea281f8a800f0a9acfd7b] an action for declarator of marriage;
+- (a)[^key-3328e7bfa2b8994daa4aff3ed1ca0e07] an action for separation or divorce[^c7777531]; [^key-70edc2d08557885d3f0ca05f2b569fe5]...[^key-7902bdfb0d2d5916c45dc1a2ef43e46b]
+- (b) an action for declarator of recognition, or non-recognition, of a relevant foreign decree; and[^key-61c8ee98207e6189818640dde52f9f1e]
+- (c) an action for declarator of nullity of marriage.
+
+(2) The court shall have jurisdiction to entertain an action for separation or divorce[^c7777541] [^key-6e3ce93aab3b0f3e0138fcb0838abfce]... if (and only if)—
+
+- (a)[^key-0dc80055a0aeed33a55bfd417c9869c4] either of the parties to the marriage—
+  - (i) is domiciled in Scotland on the date when the action is begun, or
+  - (ii) was habitually resident in Scotland throughout the period of one year ending with that date, and
+- (b) either party to the marriage—
+  - (i) was resident in the sheriffdom for a period of forty days ending with that date, or
+  - (ii) had been resident in the sheriffdom for a period of not less than forty days ending not more than forty days before the said date, and has no known residence in Scotland at that date.
+
+(2ZA)[^key-aa57544249a2f99c923959a057a180fd] The court has jurisdiction to entertain an action for declarator of marriage if (and only if)—
+
+- (a) either party to the marriage—
+  - (i) was resident in the sheriffdom for a period of 40 days ending with the date on which the action is begun, or
+  - (ii) had been resident in the sheriffdom for a period of not less than 40 days ending not more than 40 days before that date, and has no known residence in Scotland on that date, and
+- (b) any of the following requirements is met in relation to either of the parties to the marriage—
+  - (i) the party is domiciled in Scotland on the date on which the action is begun,
+  - (ii) the party was habitually resident in Scotland throughout the period of one year ending with that date, or
+  - (iii) the party died before that date and either—
+    - (A) was at death domiciled in Scotland, or
+    - (B) had been habitually resident in Scotland throughout the period of one year ending with the date of death.
+
+(2A)[^key-03005442f0c6f48ff8d6966a617c0b57] The court shall have jurisdiction to entertain an action for declarator of nullity of marriage or for declarator of recognition, or non-recognition, of a relevant foreign decree[^key-1d0245469ecf65060d02c96c7b13bb7c] if (and only if)—
+
+- (a) either party to the marriage—
+  - (i) was resident in the sheriffdom for a period of forty days ending with the date when the action is begun; or
+  - (ii) had been resident in the sheriffdom for a period of not less than forty days ending not more than forty days before that date and has no known residence in Scotland at that date; and
+- (b)[^key-e6540051ab504d9d05a3cefca6dbc9ff] either party to the marriage—
+  - (i) is domiciled in Scotland on the date when the action is begun,
+  - (ii) was habitually resident in Scotland throughout the period of one year ending with that date, or
+  - (ii) died before that date and either–
+    - (A) was at death domiciled in Scotland, or
+    - (B) had been habitually resident in Scotland throughout the period of one year ending with the date of death.
+
+(2B)[^key-c01939e4306cebf9b67001dea9d7d5ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2C)[^key-3d9a48e9dec056f8292d48fe534e4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2D)[^key-be2e8606d25968c546aeff4a82c35361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In respect of any marriage, the court shall have jurisdiction to entertain an action for separation or divorce[^c7777561] or declarator of[^key-30108bed5f9a956402587d3837b6a156] marriage or of[^key-af63bfd827e355a260e26f6daa083939] nullity of marriage (notwithstanding that jurisdiction would not be exercisable under subsection (2), (2ZA)[^key-191cac21e235befec81b686e1583fdfb] or (2A)[^key-3011ef69524848bd224391bcf1b3494f] above) if it is begun at a time when an original action is pending in respect of the marriage; and for this purpose “**original action**” means an action in respect of which the court has jurisdiction by virtue of subsection (2), (2ZA), (2A) or[^key-05b7435a9308e6092176380b3126da73] this subsection.
+
+(3A)[^key-03a435fbd7e2ea608349dcbf008aa1b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The foregoing provisions of this section are without prejudice to any jurisdiction of a sheriff court to entertain an action of separation or divorce[^c7777581] or declarator of[^key-02f1ee228193a417ae5ca5db9803f8c9] marriage or of[^key-f2b482c4fb0038331089871554eb40b3] nullity of marriage remitted to it in pursuance of any enactment or rule of court [^key-5aca188bb951842d5314daaad9d45eb4]....
+
+(5)[^key-35fc642e78bd2081921ebaa0e9ad650a] In this section, “**relevant foreign decree**” has the meaning given by section 7(9).
+
+(6) References in subsection (2) to a marriage shall, in the case of an action for declarator of recognition, or non-recognition, of a relevant foreign decree, be construed as references to the marriage to which the relevant foreign decree relates.
+
+### 8A. Same sex marriages[^key-cb96cac05eb4cb9f96d506489ef5c2b4]
+
+(1) Sections 7 and 8 do not apply in relation to marriages between persons of the same sex.
+
+(2) Schedule 1B (jurisdiction in relation to same sex marriages (Scotland)) has effect.
+
+### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7777601]
+
+### 10. Ancillary and collateral orders.
+
+(1) Where after the commencement of this Act an application is competently made to the Court of Session or to a sheriff court for the making, or the variation or recall, of an order which is ancillary or collateral to[^c7777661] an action for any of the following remedies, namely, divorce, separation, declarator of marriage and declarator of nullity of marriage (whether the application is made in the same proceedings or in other proceedings and whether it is made before or after the pronouncement of a final decree in the action), then, if the court has or, as the case may be, had by virtue of this Act or of any enactment or rule of law in force before the commencement of this Act jurisdiction to entertain the action, it shall have jurisdiction to entertain the application [^c7777671]. . . whether or not it would have jurisdiction to do so apart from this subsection.
+
+(1A)[^c7777681] For the purposes of subsection (1) above, references to an application for the making, or the variation or recall, of an order are references to the making, or the variation or recall, of an order relating to children, aliment, financial provision on divorce, judicial separation, nullity of marriage or expenses.
+
+(1B)[^key-8fef758f98a9afe90b661d7b5fdbfd79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1BA)[^key-77a7c38860dc87729093eade88544ed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1C)[^key-5a314a91c7eb823aebcab0a15c8934d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1D)[^key-6bcb630ccd72f64912b080f075b1eb2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) It is hereby declared that where—
+
+- (a) the Court of Session has jurisdiction by virtue of this section to entertain an application for the variation or recall as respects any person of an order made by it, and
+- (b) the order is one to which section 8 (variation and recall by the sheriff of certain orders made by the Court of Session) of the [^c7777701]Law Reform (Miscellaneous Provisions) (Scotland) Act 1966 applies,
+
+then, for the purposes of any application under the said section 8 for the variation or recall of the order in so far as it relates to that person, the sheriff, as defined in that section, has jurisdiction as respects that person to exercise the power conferred on him by that section.
+
+### 11. Sisting of certain actions.
+
+(1)[^key-a01081061389c9250ed96cdf5cc81ae6] The provisions of Schedule 3 to this Act shall have effect with respect to the sisting of actions for any of the following remedies, namely, divorce, separation, declarator of marriage or declarator of nullity of marriage, and with respect to the other matters mentioned in that Schedule; but nothing in that Schedule—
+
+- (a) requires or authorises a sist of an action which is pending when this Act comes into force; or
+- (b) prejudices any power to sist an action which is exercisable by any court apart from the Schedule.
+
+(2)[^key-7fd702241fa59bbfb5d551945a1840a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Supplementary.
+
+(1) In relation to any action for any of the following three remedies, namely, declarator of marriage, declarator of nullity of marriage, and declarator of freedom and putting to silence, references in this Part of this Act to the marriage shall be construed as including references to the alleged, or, as the case may be, the purported, marriage.
+
+(2) References in this Part of this Act to an action for a particular remedy shall be construed, in relation to a case where the remedy is sought along with other remedies in one action, as references to so much of the proceedings in the action as relates to the particular remedy.
+
+(3) References in this Part of this Act to the remedy of separation shall be construed, in relation to an action in a sheriff court, as references to the remedy of separation and aliment.
+
+(4) For the purposes of this Act the period during which an action in the Court of Session or a sheriff court is pending shall be regarded as including any period while the taking of an appeal is competent and the period while any proceedings on appeal are pending; and in this subsection references to an appeal include references to a reclaiming motion.
+
+(5) In this Part of this Act any reference to an enactment shall, unless the contrary intention appears, be construed as a reference to that enactment as amended or extended, and as including a reference thereto as applied, by or under any other enactment (including this Act).
+
+- (a)[^c7777711] any reference to an enactment shall, unless the contrary intention appears, be construed as a reference to that enactment as amended or extended, and as including a reference thereto as applied, by or under any other enactment (including this Act).
+- (b)[^key-0c5bc38bb35845df61c7114bc9e500a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-0c5bc38bb35845df61c7114bc9e500a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-0c5bc38bb35845df61c7114bc9e500a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Nothing in this Part of this Act affects any court’s jurisdiction to entertain any proceedings begun before the commencement of this Act.
+
+(7) Subject to subsection (6) above, the enactments described in Schedule 4 to this Act shall have effect subject to the amendments therein specified, being amendments consequential on the provisions of this Part of this Act.
+
+## Part IV
+
+*Extent: E+W+S*
+
+### 13, 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7777741]
+
+## Part V — MISCELLANEOUS AND GENERAL
+
+### 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7777751]
+
+### 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7777761]
+
+### 17. Citation, etc.
+
+(1) This Act may be cited as the Domicile and Matrimonial Proceedings Act 1973.
+
+(2) Subject to sections 6(4), 12(6) and 14(3) of this Act, the enactments specified in Schedule 6 to this Act (including certain enactments of the Parliament of Northern Ireland) are hereby repealed to the extent specified in the third column of that Schedule.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7777771]
+
+(4) Part II of this Act extends to England and Wales only; Part III extends to Scotland only; . . . [^c7777781] and this part extends to the whole of the United Kingdom.
+
+(5) This Act shall come into force on 1st January 1974.
+
+SCHEDULES
+
+## SCHEDULE A1 — Jurisdiction in relation to marriage of same sex couples[^key-88cc4a60e8463f1b26adfc39a890c4cd]
+
+### 1. Introduction
+
+This Schedule shall have effect, subject to section 6(3) and (4), with respect to the jurisdiction of the court to entertain any of the following proceedings in relation to a marriage of a same sex couple—
+
+- (a) proceedings for divorce, judicial separation or nullity of marriage;
+- (b)[^key-0c44121274ae876abf3265a5b96e90b9] proceedings for an order which ends a marriage on the ground that one of the couple is dead; and
+- (c) proceedings for a declaration of validity.
+
+### 2. Divorce, judicial separation or annulment
+
+(1) The court has jurisdiction to entertain proceedings for divorce or judicial separation if (and only if)—
+
+- (a) the court has jurisdiction under regulations under paragraph 5,
+- (b) no court has, or is recognised as having, jurisdiction under regulations under paragraph 5 and either of the married same sex couple is domiciled in England and Wales on the date when the proceedings are begun, or
+- (c) the following conditions are met—
+  - (i) the two people concerned married each other under the law of England and Wales,
+  - (ii) no court has, or is recognised as having, jurisdiction under regulations under paragraph 5, and
+  - (iii) it appears to the court to be in the interests of justice to assume jurisdiction in the case.
+
+(2) The court has jurisdiction to entertain proceedings for nullity of marriage if (and only if)—
+
+- (a) the court has jurisdiction under regulations under paragraph 5,
+- (b) no court has, or is recognised as having, jurisdiction under regulations under paragraph 5 and either of the married same sex couple—
+  - (i) is domiciled in England and Wales on the date when the proceedings are begun, or
+  - (ii) died before that date and either was at death domiciled in England and Wales or had been habitually resident in England and Wales throughout the period of 1 year ending with the date of death, or
+- (c) the following conditions are met—
+  - (i) the two people concerned married each other under the law of England and Wales,
+  - (ii) no court has, or is recognised as having, jurisdiction under regulations under paragraph 5, and
+  - (iii) it appears to the court to be in the interests of justice to assume jurisdiction in the case.
+
+(3) At any time when proceedings are pending in respect of which the court has jurisdiction by virtue of sub-paragraph (1) or (2) (or this sub-paragraph), the court also has jurisdiction to entertain other proceedings, in respect of the same marriage, for divorce, judicial separation or nullity of marriage, even though that jurisdiction would not be exercisable under subsection (1) or (2).
+
+### 3. Presumption of death order[^key-b81aa35849c7c785418d57ea36dc7915]
+
+The court has jurisdiction to entertain proceedings for an order which ends a marriage on the ground that one of the couple is dead on an application made by the other of the couple (“ **the applicant** ”) if (and only if)—
+
+- (a) at the time the application is made, the High Court does not have jurisdiction to entertain an application by the applicant under section 1 of the Presumption of Death Act 2013 for a declaration that the applicant's spouse is presumed to be dead, and
+- (b) the two people concerned married each other under the law of England and Wales and it appears to the court to be in the interests of justice to assume jurisdiction in the case.
+
+### 4. Declaration of validity
+
+The court has jurisdiction to entertain an application for a declaration of validity if (and only if)—
+
+- (a) either of the parties to the marriage to which the application relates—
+  - (i) is domiciled in England and Wales on the date of the application,
+  - (ii) has been habitually resident in England and Wales throughout the period of 1 year ending with that date, or
+  - (iii) died before that date and either was at death domiciled in England and Wales or had been habitually resident in England and Wales throughout the period of 1 year ending with the date of death, or
+- (b) the two people concerned married each other under the law of England and Wales and it appears to the court to be in the interests of justice to assume jurisdiction in the case.
+
+### 5. Power to make provision corresponding to provision for opposite sex married couples[^key-73e66d5b054d98ef678cda5d96f1d69b]
+
+(1) The Lord Chancellor may by regulations make provision—
+
+- (a) as to the jurisdiction of courts in England and Wales in proceedings for the divorce of, or annulment of the marriage of, a same sex couple or for judicial separation of a married same sex couple where one of the couple—
+  - (i) is or has been habitually resident in England and Wales, or[^key-dc8383556939a9d41257710ced202427],
+  - (ii)[^key-7fbe45ccb07a00ed4aabd0af7c399af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) is domiciled in England and Wales[^key-11e06ad0c2ac3905ddb30bd038b525c7], [^key-c817e743884265dd3bd1dfcd83db765b]...
+- (b)[^key-c817e743884265dd3bd1dfcd83db765b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-b2914df17caaf2bff89f38df9ef08398] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-b2914df17caaf2bff89f38df9ef08398] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-b2914df17caaf2bff89f38df9ef08398] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Regulations under this paragraph are to be made by statutory instrument.
+
+(6) A statutory instrument containing regulations under this paragraph may not be made unless a draft of the statutory instrument containing the order or regulations has been laid before, and approved by resolution of, each House of Parliament.
+
+### 6. Interpretation
+
+In this Schedule “ **declaration of validity** ” means—
+
+- (a) a declaration as to the validity of a marriage,
+- (b) a declaration as to the subsistence of a marriage, or
+- (c) a declaration as to the validity of a divorce, annulment or judicial separation obtained outside England and Wales in respect of a marriage.
+
+## SCHEDULE 1 — STAYING OF MATRIMONIAL PROCEEDINGS (ENGLAND AND WALES)
+
+*Extent: E+W*
+
+Section 5(6).
+
+### Interpretation
+
+**1.** The following five paragraphs have effect for the interpretation of this Schedule.
+
+**2.** “**Matrimonial proceedings**” means any proceedings so far as they are one or more of the five following kinds (whether relating to a marriage of a man and a woman or a marriage of a same sex couple)[^key-e6f30669e0acd2606872fb517dcc2c64], namely, proceedings for—
+
+- divorce,
+- judicial separation,
+- nullity of marriage,
+- a declaration as to the validity of a marriage of the applicant[^key-813c1a4f4664d064841d4f5459875f7b], and
+- a declaration as to the subsistence of such a marriage.
+
+**3.** (1) “**Another jurisdiction**” means any country outside England and Wales.
+
+(2) “**Related jurisdiction**” means any of the following countries, namely, Scotland, Northern Ireland, Jersey, Guernsey and the Isle of Man (the reference to Guernsey being treated as including Alderney and Sark).
+
+**4.** (1) References to the trial or first trial in any proceedings do not include references to the separate trial of an issue as to jurisdiction only.
+
+(2) For purposes of this Schedule, proceedings in the court are continuing if they are pending and not stayed.
+
+**5.** Any reference in this Schedule to proceedings in another jurisdiction is to proceedings in a court of that jurisdiction, and to any other proceedings in that jurisdiction, which are of a description prescribed for the purposes of this paragraph; and provision may be made by rules of court as to when proceedings of any description in another jurisdiction are continuing for the purposes of this Schedule.
+
+**6.** “**Prescribed**” means prescribed by rules of court.
+
+### Duty to furnish particulars of concurrent proceedings in another jurisdiction
+
+**7.** While matrimonial proceedings are pending in the court in respect of a marriage and the trial or first trial in those proceedings has not begun, it shall be the duty of any person who is an applicant[^key-1fc2fb7148cd86dbc838ed62c829fa03] in the proceedings, or is a respondent and has in his answer included a prayer for relief, to furnish, in such manner and to such persons and on such occasions as may be prescribed, such particulars as may be prescribed of any proceedings which—
+
+- (a) he knows to be continuing in another jurisdiction; and
+- (b) are in respect of that marriage or capable of affecting its validity or subsistence.
+
+### Obligatory stays
+
+**8.** (1) Where before the beginning of the trial or first trial in any proceedings for divorce which are continuing in the court it appears to the court on the application of a party to the marriage—
+
+- (a) that in respect of the same marriage proceedings for divorce or nullity of marriage are continuing in a related jurisdiction; and
+- (b) that the parties to the marriage have resided together after they entered into it[^key-49f52a1e2bfa8744dc2a5db112e3e30a]; and
+- (c) that the place where they resided together when the proceedings in the court were begun or, if they did not then reside together, where they last resided together before those proceedings were begun, is in that jurisdiction; and
+- (d) that either of the said parties was habitually resident in that jurisdiction throughout the year ending with the date on which they last resided together before the date on which the proceedings in the court were begun,
+
+it shall be the duty of the court, subject to paragraph 10(2) below, to order that the proceedings in the court be stayed.
+
+(2) References in sub-paragraph (1) above to the proceedings in the court are, in the case of proceedings which are not only proceedings for divorce, to the proceedings so far as they are proceedings for divorce.
+
+### Discretionary stays
+
+**9.** (1) Where before the beginning of the trial or first trial in any matrimonial proceedings [^key-ac3a63f8d47b00710c8e8a118f1e3598]... which are continuing in the court it appears to the court—
+
+- (a) that any proceedings in respect of the marriage in question, or capable of affecting its validity or subsistence, are continuing in another jurisdiction; and
+- (b) that the balance of fairness (including convenience) as between the parties to the marriage is such that it is appropriate for the proceedings in that jurisdiction to be disposed of before further steps are taken in the proceedings in the court or in those proceedings so far as they consist of a particular kind of matrimonial proceedings,
+
+the court may then, if it thinks fit, order that the proceedings in the court be stayed or, as the case may be, that those proceedings be stayed so far as they consist of proceedings of that kind.
+
+(2) In considering the balance of fairness and convenience for the purposes of sub-paragraph (1)(*b*) above, the court shall have regard to all factors appearing to be relevant, including the convenience of witnesses and any delay or expense which may result from the proceedings being stayed, or not being stayed.
+
+(3) In the case of any proceedings so far as they are proceedings for divorce, the court shall not exercise the power conferred on it by sub-paragraph (1) above while an application under paragraph 8 above in respect of the proceedings is pending.
+
+(4) If, at any time after the beginning of the trial or first trial in any matrimonial proceedings which are pending in the court, the court declares by order that it is satisfied that a person has failed to perform the duty imposed on him in respect of the proceedings by paragraph 7 above, sub-paragraph (1) above shall have effect in relation to those proceedings and, to the other proceedings by reference to which the declaration is made, as if the words “before the beginning of the trial or first trial” were omitted; but no action shall lie in respect of the failure of a person to perform such a duty.
+
+### Supplementary
+
+**10.** (1) Where an order staying any proceedings is in force in pursuance of paragraph 8 or 9 above, the court may, if it thinks fit, on the application of a party to the proceedings, discharge the order if it appears to the court that the other proceedings by reference to which the order was made are stayed or concluded, or that a party to those other proceedings has delayed unreasonably in prosecuting them.
+
+(2) If the court discharges an order staying any proceedings and made in pursuance of paragraph 8 above, the court shall not again stay those proceedings in pursuance of that paragraph.
+
+**11.** (1) The provisions of sub-paragraphs (2) and (3) below shall apply (subject to sub-paragraph (4)) where proceedings for divorce, judicial separation or nullity of marriage are stayed by reference to proceedings in a related jurisdiction for divorce, judicial separation or nullity of marriage; and in this paragraph—
+
+- [^c7778041]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c7778041]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**lump sum order**” means such an order as is mentioned in paragraph (*f*) of section 23(1) of the [^c7778061]Matrimonial Causes Act 1973 (lump sum payment for children), being an order made under section 23(1) or (2)(*a*) or an order made in equivalent circumstances under Schedule 1 to the Children Act 1989 and of a kind mentioned in paragraph 1(2)(c) of that Schedule[^c7778071];
+- “**the other proceedings**”, in relation to any stayed proceedings, means the proceedings in another jurisdiction by reference to which the stay was imposed;
+- “**relevant order**” means—
+  - (a) an order under section 22 of the [^c7778081] Matrimonial Causes Act 1973 (maintenance for spouse pending suit),
+  - (b) such an order as is mentioned in paragraph (*d*) or (*e*) of section 23(1) of that Act (periodical payments for children) being an order made under section 23(1) or (2)(*a*) or an order made in equivalent circumstances under Schedule 1 to the Children Act 1989 and of a kind mentioned in paragraph 1(2)(a) or (b) of that Schedule[^c7778091],
+  - (c) an order under section 42(1)(*a*) of that Act (orders for the custody and education of children) or a section 8 order under Children Act 1989[^c7778101], and
+  - (d) except for the purposes of sub-paragraph (3) below, any order restraining a person from removing a child out of England and Wales or out of care[^c7778111] of another person; and
+- “**stayed**” means stayed in pursuance of this Schedule.
+
+(2) Where any proceedings are stayed, then, without prejudice to the effect of the stay apart from this paragraph—
+
+- (a) the court shall not have power to make a relevant order or a lump sum order in connection with the stayed proceedings except in pursuance of paragraph (*c*) below; and
+- (b) subject to paragraph (*c*) below, any relevant order made in connection with the stayed proceedings shall, unless the stay is previously removed or the order previously discharged, cease to have effect on the expiration of the period of three months beginning with the date on which the stay was imposed; but
+- (c) if the court considers that, for the purpose of dealing with circumstances needing to be dealt with urgently, it is necessary during or after that period to make a relevant order or a lump sum order in connection with the stayed proceedings or to extend or further extend the duration of a relevant order made in connection with the stayed proceedings, the court may do so and the order shall not cease to have effect by virtue of paragraph (*b*) above.
+
+(3) Where any proceedings are stayed and at the time when the stay is imposed an order is in force, or at a subsequent time an order comes into force, which was made in connection with the other proceedings and provides for any of the [^c7778121] . . . following matters, namely, periodical payments for a spouse of the marriage in question, periodical payments for a child, or any provision which could be made by a section 8 order under the Children Act 1989[^c7778131] then, on the imposition of the stay in a case where the order is in force when the stay is imposed and on the coming into force of the order in any other case—
+
+- (a) any relevant order made in connection with the stayed proceedings shall cease to have effect in so far as it makes for a spouse or child any provision for any of those matters as respects which the same or different provision for that spouse or child is made by the other order;
+- (b) the court shall not have power in connection with the stayed proceedings to make a relevant order containing for a spouse or child provision for any of those matters as respects which any provision for that spouse or child is made by the other order; and
+- (c) if the other order contains provision for periodical payments for a child, the court shall not have power in connection with the stayed proceedings to make a lump sum order for that child.
+
+(3A)[^c7778141] Where any such order as is mentioned in paragraph ( *e* ) of section 23(1) of the Matrimonial Causes Act 1973, being an order made under section 23(1) of the Matrimonial Causes Act 1973, being an order made under section 23(1) or (2)( *a* ) of that Act, ceases to have effect by virtue of sub-paragraph (2) or (3) above, any order made under section 24A(1) of that Act which requires the proceeds of sale of property to be used for securing periodical payments under the first mentioned order shall also cease to have effect.
+
+(4) If any proceedings are stayed so far as they consist of matrimonial proceedings of a particular kind but are not stayed so far as they consist of matrimonial proceedings of a different kind, subparagraphs (2) and (3) above shall not apply to the proceedings but, without prejudice to the effect of the stay apart from this paragraph, the court shall not have power to make a relevant order or a lump sum order in connection with the proceedings so far as they are stayed; and in this sub-paragraph references to matrimonial proceedings do not include proceedings for a declaration.
+
+(4A)[^key-ed6f9b360e904f629c3b0e552936b51d] Sub-paragraph (4B) applies where—
+
+- (a) proceedings are stayed as described in sub-paragraph (1) or (4), and
+- (b) at the time when the stay is imposed, a child arrangements[^key-7cdf056d776542fae5583cf5eb230802] order (within the meaning of the Children Act 1989) made in connection with the stayed proceedings is in force.
+
+(4B) While the stay applies to the proceedings, the court may not—
+
+- (a) make an enforcement order (within the meaning of the Children Act 1989) in relation to the child arrangements[^key-83655f5b164e5305e375e422fa0f054a] order, or
+- (b) as regards an enforcement order already made in relation to the child arrangements order, exercise its powers under paragraph 9(2) of Schedule A1 to the Children Act 1989 in relation to the enforcement order.
+
+(5) Except as provided in sub-paragraph (4B),[^key-3730b7b703ea4e59ec6d7728b9d0a529] nothing in this paragraph affects any power of the court.
+
+- (a) to vary or discharge a relevant order so far as the order is for the time being in force; or
+- (b) to enforce a relevant order as respects any period when it is or was in force; or
+- (c) to make a relevant order or a lump sum order in connection with proceedings which were but are no longer stayed.
+
+## SCHEDULE 1B — JURISDICTION IN RELATION TO SAME SEX MARRIAGES (SCOTLAND)[^key-c0db795c26d676720c96e35132dc64ae]
+
+(introduced by section 8A)
+
+### Introduction
+
+**1.** (1) This Schedule has effect with respect to the jurisdiction of the Court of Session and of the sheriff court to entertain, in relation to same sex marriages, proceedings for—
+
+- (a) divorce,
+- (b) separation,
+- (c) declarator of marriage,
+- (d) declarator of nullity of marriage,
+- (e) declarator of recognition, or non-recognition, of a relevant foreign decree.
+
+(2) References in this Schedule to “relevant proceedings” are to such proceedings as are mentioned in sub-paragraph (1).
+
+(3) In this Schedule—
+
+- “ **relevant foreign decree** ” means a decree of divorce, separation or nullity granted outwith the United Kingdom, the Channel Islands and the Isle of Man[^key-4acaf05108faafdd93ac356e0d8888f8],
+- “ **same sex marriage** ” means a marriage between persons of the same sex.
+
+### Power to make provision corresponding to EC Regulation 2201/2003
+
+**2.**[^key-49ea91db3bfd3d16b35d895c0cc262eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Divorce or separation
+
+**3.** (1) The Court of Session has jurisdiction to entertain proceedings for the divorce or separation of the parties to a same sex marriage if (and only if) either of the parties to the marriage[^key-198df1f0ff5c2cbf9acb176297df3f7f] —
+
+- (a)[^key-d18c767aa89803cae1c08119a2a9b90f] is domiciled in Scotland on the date when the proceedings are begun, or
+- (b) was habitually resident in Scotland throughout the period of one year ending with that date.
+
+(2) The sheriff court has jurisdiction to entertain proceedings for the divorce or separation of the parties to a same sex marriage if (and only if)—
+
+- (a) the requirements of paragraph (a) or (b) of sub-paragraph (1) are met, and
+- (b) either party to the marriage—
+  - (i) was resident in the sheriffdom for a period of 40 days ending with the date on which the proceedings are begun, or
+  - (ii) had been resident in the sheriffdom for a period of not less than 40 days ending not more than 40 days before that date, and has no known residence in Scotland on that date.
+
+(3) Despite sub-paragraph (2), the sheriff court of the sheriffdom of Lothian and Borders at Edinburgh also has jurisdiction to entertain proceedings for the divorce or separation of the parties to a same sex marriage if the following requirements are met—
+
+- (a) the parties married each other in Scotland,
+- (b) no court has, or is recognised as having, jurisdiction [^key-58f11c161b4a37fb78b12bbfb9582ec2]..., and
+- (c) it appears to the court to be in the interests of justice to assume jurisdiction in the case.
+
+### Declarator of marriage
+
+**4.** (1) In relation to a same sex marriage, the Court of Session has jurisdiction to entertain proceedings for declarator of marriage if (and only if) either of the parties to the marriage—
+
+- (a) is domiciled in Scotland on the date on which the proceedings are begun,
+- (b) was habitually resident in Scotland throughout the period of one year ending with that date, or
+- (c) died before that date and either—
+  - (i) was at death domiciled in Scotland, or
+  - (ii) had been habitually resident in Scotland throughout the period of one year ending with the date of death.
+
+(2) In relation to a same sex marriage, the sheriff court has jurisdiction to entertain proceedings for declarator of marriage if (and only if)—
+
+- (a) the requirements of paragraph (a), (b) or (c) of sub-paragraph (1) are met in relation to either party to the marriage, and
+- (b) either party of the marriage—
+  - (i) was resident in the sheriffdom for a period of 40 days ending with the date on which the proceedings are begun, or
+  - (ii) had been resident in the sheriffdom for a period of not less than 40 days ending not more than 40 days before that date, and has no known residence in Scotland on that date.
+
+### Nullity of marriage
+
+**5.** (1) The Court of Session has jurisdiction to entertain proceedings for declarator of nullity of a same sex marriage if (and only if)—
+
+- (a)[^key-216d379dd07f84d3b122defa40c3222f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^key-216d379dd07f84d3b122defa40c3222f]... either party to the marriage—
+  - (i) is domiciled in Scotland on the date on which the proceedings are begun , or was habitually resident in Scotland throughout the period of one year ending with that date[^key-8d156c70f1e7dde3e161c57c4d208ab1], or
+  - (ii) died before that date and either was at death domiciled in Scotland or had been habitually resident in Scotland throughout the period of one year ending with the date of death.
+
+(2) The sheriff court has jurisdiction to entertain proceedings for declarator of nullity of a same sex marriage if (and only if)—
+
+- (a) the requirements of [^key-44f2e7b68d629c086fd8cec2f02c9a6b]... sub-paragraph (1) are met, and
+- (b) either party to the marriage—
+  - (i) was resident in the sheriffdom for a period of 40 days ending with the date on which the proceedings are begun, or
+  - (ii) had been resident in the sheriffdom for a period of not less than 40 days ending not more than 40 days before that date, and has no known residence in Scotland on that date.
+
+(3) Despite sub-paragraph (2), the sheriff court of the sheriffdom of Lothian and Borders at Edinburgh also has jurisdiction to entertain proceedings for declarator of nullity of a same sex marriage if the following requirements are met—
+
+- (a) the parties married each other in Scotland,
+- (b) no court has, or is recognised as having, jurisdiction [^key-6de03b286ab8948b0122de81ec3931c2]..., and
+- (c) it appears to the court to be in the interests of justice to assume jurisdiction in the case.
+
+### Recognition, or non-recognition, of foreign decrees
+
+**6.** (1) The Court of Session has jurisdiction to entertain proceedings for declarator of recognition, or non-recognition, of a relevant foreign decree relating to a same sex marriage if (and only if) [^key-0ac32df1a926b6dc0f8509eaf1c7d9c5]... either party to the marriage—
+
+- (i) is domiciled in Scotland on the date on which the proceedings are begun , or was habitually resident in Scotland throughout the period of one year ending with that date[^key-35793b3bc30b9c05380a6b7d0c8a1b6c], or
+- (ii) died before that date and either was at death domiciled in Scotland or had been habitually resident in Scotland throughout the period of one year ending with the date of death.
+
+(2) The sheriff court has jurisdiction to entertain proceedings for declarator of recognition, or non-recognition, of a relevant foreign decree relating to a same sex marriage if (and only if)—
+
+- (a) the requirements of [^key-9b6450b4d7e50597605c5a9399506a1d]... sub-paragraph (1) are met, and
+- (b) either party to the marriage—
+  - (i) was resident in the sheriffdom for a period of 40 days ending with the date on which the proceedings are begun, or
+  - (ii) had been resident in the sheriffdom for a period of not less than 40 days ending not more than 40 days before that date, and has no known residence in Scotland on that date.
+
+### Supplementary provision
+
+**7.** (1) Paragraph 3(1) does not affect any rule of law under which the Court of Session has jurisdiction in certain circumstances to entertain proceedings for separation as a matter of necessity and urgency.
+
+(2) Paragraphs 3 and 5 do not affect any jurisdiction of a sheriff court to entertain any proceedings for separation, divorce or declarator of nullity of marriage remitted to the court under any enactment or rule of court[^key-5011e28c1197ea07e23c222f3b5586f9]....
+
+(3) At any time when proceedings are pending in respect of which a court has jurisdiction by virtue of any of paragraphs 3 to 6 (or this paragraph), the court also has jurisdiction to entertain other proceedings, in respect of the same marriage, for divorce, separation or declarator of marriage or of nullity of marriage even though that jurisdiction would not be exercisable under any of paragraphs 3 to 6.
+
+## SCHEDULE 2 — ANCILLARY AND COLLATERAL ORDERS (SCOTLAND)
+
+*Extent: S*
+
+Section 10.
+
+### Part I
+
+#### Enactments and rules of law referred to in section 10(1) and in Schedule 3 paragraph 11(1)
+
+**1, 2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7778351]
+
+**2A.**[^c7778361] Any enactment or rule of law empowering a court to make an order for payment of aliment (including interim aliment).
+
+**3.** Paragraph (2) of section 5 of the [^c7778371]Sheriff Courts (Scotland) Act 1907 so far as relating to orders for aliment and paragraph (2C) of the said section 5.[^c7778381]
+
+**4.** Section 9 (orders with respect to children) of the [^c7778391]Conjugal Rights (Scotland) Amendment Act 1861 . . . [^c7778401].
+
+**5.** Section 10 of the Matrimonial Proceedings (Children) Act 1958 so far as relating to orders committing the care of a child to an individual.
+
+**6.** Section 13 (power to prohibit in certain cases removal of child furth of Scotland or out of control of person having custody of him) of the Matrimonial Proceedings (Children) Act 1958.
+
+**7.** Any enactment or rule of law empowering a court to vary or recall an order the power to make which is conferred by any enactment mentioned in this Part of this Schedule or by any rule of law so mentioned.
+
+### Part II
+
+#### Further enactments and rules of law referred to in section 10(1)
+
+**8.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7778411]
+
+**9.** Section 2 (effect of divorce on property rights) of the [^c7778421]Divorce (Scotland) Act 1938, both as originally enacted and as substituted by section 7 of the [^c7778431]Divorce (Scotland) Act 1964.
+
+**10.** Section 10 of the [^c7778441]Matrimonial Proceedings (Children) Act 1958, so far as relating to orders committing the care of a child to a local authority.
+
+**11.** Section 12 (power of court to provide for supervision of child) of the Matrimonial Proceedings (Children) Act 1958.
+
+**12.** Section 26 (orders for financial provision on divorce) and section 27 (orders relating to settlements and other dealings) of the [^c7778451]Succession (Scotland) Act 1964.
+
+**12A.**[^c7778461] Section 5 (orders for financial provision) and section 6 (orders relating to settlements and other dealings) of the Divorce (Scotland) Act 1976.
+
+**12B.**[^c7778471] Section 8 (orders for financial provision on divorce), section 17(1) (financial provision on declarator of nullity of marriage) and section 18 (orders relating to avoidance transactions) of the Family Law (Scotland) Act 1985.
+
+**13.** Any rule of law empowering a court, in connection with an action for declarator of nullity of marriage, to make an order for restitution of property as between the parties to the marriage or for the payment of damages by either of those parties.
+
+**14.** Any rule of law empowering a court to make an order for the payment of expenses of the action in question by either party to the marriage.
+
+**15.** Any enactment or rule of law empowering a court to vary or recall an order the power to make which is conferred by any enactment mentioned in this Part of this Schedule or by any rule of law so mentioned.
+
+## SCHEDULE 3 — SISTING OF CONSISTORIAL ACTIONS (SCOTLAND)[^key-0bb961811c238f6b7823f780a7167da3]
+
+*Extent: S*
+
+### Interpretation
+
+**1.** The following six paragraphs have effect for the interpretation of this Schedule.
+
+**2.** “**Consistorial action**” means any action so far as it is one or more of the following, namely, actions for—
+
+- divorce,
+- separation,
+- declarator of marriage,
+- declarator of nullity of marriage.
+
+**3.** (1) “**Another jurisdiction**” means any country outside Scotland.
+
+(2) “**Related jurisdiction**” means any of the following countries, namely, England and Wales, Northern Ireland, Jersey, Guernsey and the Isle of Man (the reference to Guernsey being treated as including Alderney and Sark).
+
+**4.** For the purposes of this Schedule—
+
+- (a) in any action in the Court of Session or a sheriff court neither the taking of evidence on commission nor a separate proof relating to any preliminary plea shall be regarded as part of the proof in the action; and
+- (b) any such action is continuing if it is pending and not sisted.
+
+**5.** Any reference in this Schedule to proceedings in another jurisdiction is to proceedings in a court of that jurisdiction and to any other proceedings in that jurisdiction which are of a description prescribed for the purposes of this paragraph; and provision may be made by rules of court as to when proceedings of any description in another jurisdiction are continuing for the purposes of this Schedule.
+
+**6.** “**Prescribed**” means prescribed by rules of court.
+
+### Duty to furnish particulars of concurrent proceedings in another jurisdiction
+
+**7.** While any consistorial action is pending in the Court of Session or a sheriff court and proof in that action has not begun, it shall be the duty of the pursuer, and of any other person who has entered appearance in the action, to furnish, in such manner and to such persons and on such occasions as may be prescribed, such particulars as may be so prescribed of any proceedings which—
+
+- (a) he knows to be continuing in another jurisdiction; and
+- (b) are in respect of that marriage or capable of affecting its validity.
+
+### Mandatory sists
+
+**8.** Where before the beginning of the proof in any action for divorce which is continuing in the Court of Session or in the Sheriff Court[^c7778481] it appears to the Court concerned[^c7778491] on the application of a party to the marriage—
+
+- (a) that in respect of the same marriage proceedings for divorce or nullity of marriage are continuing in a related jurisdiction; and
+- (b) that the parties to the marriage have resided together after the marriage was contracted; and
+- (c) that the place where they resided together when the action in the Court was begun or, if they did not then reside together, where they last resided together before the date on which that action was begun is in that jurisdiction; and
+- (d) that either of the said parties was habitually resident in that jurisdiction throughout the year ending with the date on which they last resided together before the date on which that action was begun;
+
+it shall be the duty of the Court, subject to paragraph 10(2) below, to sist the action before it.
+
+### Discretionary sists
+
+**9.** (1) Where before the beginning of the proof in any consistorial action which is continuing in the Court of Session or in a sheriff court, it appears to the court concerned—
+
+- (a) that any other proceedings in respect of the marriage in question or capable of affecting its validity are continuing in another jurisdiction, and
+- (b) that the balance of fairness (including convenience) as between the parties to the marriage is such that it is appropriate for those other proceedings to be disposed of before further steps are taken in the action in the said court,
+
+the court may then if it thinks fit sist that action.
+
+(2) In considering the balance of fairness and convenience for the purposes of sub-paragraph (1)(*b*) above, the court shall have regard to all factors appearing to be relevant, including the convenience of witnesses and any delay or expense which may result from the proceedings being sisted, or not being sisted.
+
+(3) Sub-paragraph (1) above is without prejudice to the duty imposed . . . [^c7778501]by paragraph 8 above.
+
+(4) If, at any time after the beginning of the proof in any consistorial action which is pending in the Court of Session or a sheriff court, the court concerned is satisfied that a person has failed to perform the duty imposed on him in respect of the action and any such other proceedings as aforesaid by paragraph 7 above, sub-paragraph (1) of this paragraph shall have effect in relation to that action and to the other proceedings as if the words “before the beginning of the proof” were omitted; but no action in respect of the failure of a person to perform such a duty shall be competent.
+
+### Supplementary
+
+**10.** (1) Where an action is sisted in pursuance of paragraph 8 or 9 above, the court may if it thinks fit, on the application of a party to the action, recall the sist if it appears to the court that the other proceedings by reference to which the action was sisted are sisted or concluded or that a party to those other proceedings has delayed unreasonably in prosecuting those other proceedings.
+
+(2) Where an action has been sisted in pursuance of paragraph 8 above by reference to some other proceedings, and the court recalls the sist in pursuance of the preceding sub-paragraph, the court shall not again sist the action in pursuance of the said paragraph 8.
+
+**11.** (1) The provisions of sub-paragraphs (2) and (3) below shall apply where an action for any of the following remedies, namely, divorce, separation and declarator of nullity of marriage, is sisted by reference to proceedings in a related jurisdiction for any of those remedies; and in this paragraph—
+
+- “**custody**” includes access to the child in question;
+- “**the other proceedings**”, in relation to any sisted action, means the proceedings in another jurisdiction by reference to which the action was sisted;
+- “**relevant order**” means an interim order relating to aliment or children[^c7778511]; and
+- “**sisted**” means sisted in pursuance of this Schedule.
+
+(2) Where an action such as is mentioned in sub-paragraph (1) above is sisted, then, without prejudice to the effect of the sist apart from this paragraph—
+
+- (a) the court shall not have power to make a relevant order in connection with the sisted action except in pursuance of paragraph (*c*) below; and
+- (b) subject to the said paragraph (*c*), any relevant order made in connection with the sisted action shall (unless the sist or the relevant order has been previously recalled) cease to have effect on the expiration of the period of three months beginning with the date on which the sist comes into operation; but
+- (c) if the court considers that as a matter of necessity and urgency it is necessary during or after that period to make a relevant order in connection with the sisted action or to extend or further extend the duration of a relevant order made in connection with the sisted action, the court may do so, and the order shall not cease to have effect by virtue of paragraph (*b*) above.
+
+(3) Where any action such as is mentioned in sub-paragraph (1) above is sisted and at the time when the sist comes into operation, an order is in force, or at a subsequent time an order comes into force, being an order made in connection with the other proceedings and providing for any of the following four matters, namely periodical payments for a spouse of the marriage in question, periodical payments for a child, the arrangements to be made as to with whom a child is to live, contact with a child, and any other matter relating to parental responsibilities within the meaning of section 1(3) of the Children (Scotland) Act 1995 or parental rights within the meaning of section 2(4) of that Act[^c7778521], then, as from the time when the sist comes into operation (in a case where the order is in force at that time) or (in any other case) on the coming into force of the order,—
+
+- (a) any relevant order made in connection with the sisted action shall cease to have effect in so far as it makes for a spouse or child any provision for any of the said matters as respects which the same or different provision for that spouse or child is made by the other order; and
+- (b) the court shall not have power in connection with the sisted action to make a relevant order containing for a spouse or child provision for any of the matters aforesaid as respects which any provision for that spouse or child is made by the other order.
+
+(4) Nothing in this paragraph affects any power of a court—
+
+- (a) to vary or recall a relevant order in so far as the order is for the time being in force; or
+- (b) to enforce a relevant order as respects any period when it is or was in force; or
+- (c) to make a relevant order in connection with an action which was, but is no longer, sisted.
+
+## SCHEDULE 4 — CONSEQUENTIAL AMENDMENTS OF SCOTTISH ENACTMENTS
+
+*Extent: S*
+
+Section 12.
+
+**1.**[^c7778531] In section 6 of the [^c7778541]Sheriff Courts (Scotland) Act 1907, at the beginning, there shall be inserted the words “Subject to section 8 of the Domicile and Matrimonial Proceedings Act 1973”.
+
+**2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7778551]
+
+## SCHEDULE 5 — . . .[^c7778561]
+
+*Extent: E+W+S*
+
+Section 13.
+
+## SCHEDULE 6 — Repeals[^c7778571]
+
+Section 17.
+
+. [image: see source](https://www.legislation.gov.uk/ukpga/1973/45/images/ukpga_19730045_en_sld_001)
+
+## Annotations
+
+[^c7777001]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
+
+[^c7777011]: Commencement: Act wholly in force at 1. 1. 1974 see s. 17(5).
+
+[^c7777021]: Extent: Act: Pt. II extends to England and Wales only; Pt. III extends to Scotland only; Pt. IV extends to Northern Ireland only and Pt. V extends to the United Kingdom.
+
+[^c7777031]: Textual amendment: S. 2 repealed by [Family Law Act 1986 (c. 55, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1986/55), [s. 68(2)](https://www.legislation.gov.uk/ukpga/1986/55/section/68/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/55/schedule/2)
+
+[^key-3617dfcf25f90f8debf008182964782f]: Textual amendment: S. 4 repealed (S.) (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+
+[^c7777041]: Textual amendment: Words repealed by SI 1987/2203, art. 72(3), Sch. 5 Pt. I
+
+[^key-718f6d0277d09335b16fa0567534201b]: Textual amendment: Words in s. 5 heading substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 66(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/66/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-a7173c89cd4e9e5ed27767c6b90ea341]: Textual amendment: Words in s. 5(1) inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/6/2); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+
+[^key-a6e5e0d167901b792ec391b87eec450f]: Textual amendment: S. 5(1)(b) and preceding word omitted (1.10.2014) by virtue of [Presumption of Death Act 2013 (c. 13)](https://www.legislation.gov.uk/ukpga/2013/13), [s. 22(2)](https://www.legislation.gov.uk/ukpga/2013/13/section/22/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/2/a) (with [s. 21](https://www.legislation.gov.uk/ukpga/2013/13/section/21)); [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+
+[^c7777081]: Textual amendment: Words in s. 5(1) repealed (1.3.2001) by [S.I. 2001/310](https://www.legislation.gov.uk/uksi/2001/310), [reg. 3(1)(2)](https://www.legislation.gov.uk/uksi/2001/310/regulation/3/1/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2001/310/regulation/11))
+
+[^c7777091]: Textual amendment: S. 5(1A) inserted (1.3.2001) by [S.I. 2001/310](https://www.legislation.gov.uk/uksi/2001/310), [reg. 3(1)(3)](https://www.legislation.gov.uk/uksi/2001/310/regulation/3/1/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2001/310/regulation/11))
+
+[^key-3a0f22806eb2f45b4b72578015460fad]: Textual amendment: Words in s. 5(1A) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/7/2/a/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-143860baf95d47bccdf9339429cf9dd0]: Textual amendment: Words in s. 5(1A) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/7/2/a/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8280fc0d0cc8c655b950f2d85b7e1ba4]: Textual amendment: Words in s. 5(1A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 66(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/66/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-fe42b832978b4f054942d9a0140774ff]: Textual amendment: Words in s. 5(2) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/7/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-09f7837f8e06acd81502beadc2cea763]: Textual amendment: [S. 5(2)(ca)](https://www.legislation.gov.uk/ukpga/1973/45/section/5/2/ca) inserted (6.4.2022) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2022 (S.I. 2022/237)](https://www.legislation.gov.uk/uksi/2022/237), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/237/regulation/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/237/schedule/paragraph/1/2); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^key-b313234f578c5c3109236632fbe5c143]: Textual amendment: Words in s. 5(3) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 7(2)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/7/2/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-684fb5b871e30bf85981f2b9c2dc8ed4]: Textual amendment: S. 5(3A) omitted (1.3.2005 with application in accordance with reg. 21) by virtue of [European Communities (Jurisdiction and Judgments in Matrimonial and Parental Responsibility Matters) Regulations 2005 (S.I. 2005/265)](https://www.legislation.gov.uk/uksi/2005/265), [regs. 1](https://www.legislation.gov.uk/uksi/2005/265/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2005/265/regulation/3/4) (with [reg. 20](https://www.legislation.gov.uk/uksi/2005/265/regulation/20))
+
+[^key-2217389b2c8e1f7cb3f1a27c1da7fae6]: Textual amendment: S. 5(4) omitted (1.10.2014) by virtue of [Presumption of Death Act 2013 (c. 13)](https://www.legislation.gov.uk/ukpga/2013/13), [s. 22(2)](https://www.legislation.gov.uk/ukpga/2013/13/section/22/2), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/2/b) (with [s. 21](https://www.legislation.gov.uk/ukpga/2013/13/section/21)); [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+
+[^key-befd5798fdc65adc4882fc5e80c97789]: Textual amendment: S. 5(5A) inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/6/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+
+[^key-2fafcde5fa552f1953248183f7a67092]: Textual amendment: Words in s. 5(6) inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 6(4)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/6/4); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+
+[^key-26cb7ceed6e77160932cd360773f945a]: Textual amendment: S. 5(6A) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 7(2)(d)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/7/2/d) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c7777271]: Modification: The text of ss. 6(1)(2), Sch. 4 para. 1, Sch. 6 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c7777281]: Marginal citation: [1973 c.18](https://www.legislation.gov.uk/ukpga/1973/18)
+
+[^key-8f1f1dda0da385e73e950ab18e573432]: Textual amendment: Words in s. 6(3) inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/7); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+
+[^c7777301]: Textual amendment: S. 6(4)(*a*) repealed by [Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1984/42), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/1984/42/section/46/3), [48(2)](https://www.legislation.gov.uk/ukpga/1984/42/section/48/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1984/42/schedule/3)
+
+[^key-96a052d83b0a3bef13c83f53cff0a88c]: Textual amendment: Words in s. 7(1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 37(2)(a)(i)](https://www.legislation.gov.uk/asp/2006/2/section/37/2/a/i), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^key-40a9a81ae60bb8f0c6423e8de28ff245]: Textual amendment: Word in s. 7(1)(a) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 1(a)(i)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/1/a/i); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^key-d2a031ada51da76f356769a1870d1038]: Textual amendment: Words in s. 7(1)(a) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 1(a)(ii)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/1/a/ii); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^key-efd84d7fcd76ee512f6997e8fefa1fa7]: Textual amendment: S. 7(1)(aa) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 37(2)(a)(ii)](https://www.legislation.gov.uk/asp/2006/2/section/37/2/a/ii), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^c7777391]: Textual amendment: S. 7(1)(*b*), (4) repealed by [Presumption of Death (Scotland) Act 1977 (c. 27, SIF 116:2)](https://www.legislation.gov.uk/ukpga/1977/27), [s. 19](https://www.legislation.gov.uk/ukpga/1977/27/section/19), [Sch. 2](https://www.legislation.gov.uk/ukpga/1977/27/schedule/2)
+
+[^key-2d0b5e6d64258370adfee06118093f67]: Textual amendment: S. 7(2) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/1/b); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^c7777411]: Textual amendment: S. 7(2A) inserted (1.3.2001) by [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2001/36/regulation/2/2/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2001/36/regulation/6))
+
+[^key-6f1bc38150b697f941979b7a44363ae2]: Textual amendment: Words in s. 7(2A) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/2/a/i) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b9f6d2116c32a9b01373c16e1372a6cc]: Textual amendment: S. 7(2A)(a)(b) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/2/a/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c7777421]: Textual amendment: Words in s. 7(3) repealed (1.3.2001) by [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2001/36/regulation/2/2/c) (with [reg. 6](https://www.legislation.gov.uk/ssi/2001/36/regulation/6))
+
+[^c7777431]: Textual amendment: S. 7(3A)(3B) inserted (1.3.2001) by [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2001/36/regulation/2/2/d) (with [reg. 6](https://www.legislation.gov.uk/ssi/2001/36/regulation/6))
+
+[^key-9879a218b082b68a316310c14e016878]: Textual amendment: Words in s. 7(3A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 37(2)(b)](https://www.legislation.gov.uk/asp/2006/2/section/37/2/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^key-a8ba04cec3082622593b0bb7cabec870]: Textual amendment: Words in s. 7(3A) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/2/b/i) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-354b81e6b6412479534661c7b2fed6df]: Textual amendment: Words in s. 7(3A) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/2/b/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5999271f9edfece02544e250bd5c05e5]: Textual amendment: Words in s. 7(3A) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/2/b/iii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-342f20dd8d712c8bf866b35e5d2b8b9f]: Textual amendment: S. 7(3B) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(2)(c)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/2/c) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_ef79a87a-3196-4239-d41c-1e184a81ce13]: Textual amendment: Words in s. 7(5) substituted (1.3.2001) by [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36), [reg. 2(2)(e)(i)](https://www.legislation.gov.uk/ssi/2001/36/regulation/2/2/e/i) (with [reg. 6](https://www.legislation.gov.uk/ssi/2001/36/regulation/6))
+
+[^M_F_8e7e598c-80a8-4391-8fe5-a64e6ca3dc80]: Textual amendment: Word in s. 7(5) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 1(c)(i)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/1/c/i); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^M_F_6ec3671c-d3df-48c0-b4ca-e42b3c1b470a]: Textual amendment: Words in s. 7(5) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 1(c)(ii)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/1/c/ii); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^M_F_4b5af079-5502-4bdb-c363-6f75256910eb]: Textual amendment: Words in s. 7(5) substituted (1.3.2001) by [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36), [reg. 2(2)(e)(ii)](https://www.legislation.gov.uk/ssi/2001/36/regulation/2/2/e/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2001/36/regulation/6))
+
+[^key-abae9f963cab6320ac264c4aadc332e2]: Textual amendment: S. 7(5A) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(2)(d)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/2/d) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_e899aeeb-445d-4808-da2b-c24e3f3935e8]: Textual amendment: Words in s. 7(8) substituted (1.3.2001) by [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36), [reg. 2(2)(g)](https://www.legislation.gov.uk/asp/2006/2/regulation/2/2/g) (with [reg. 6](https://www.legislation.gov.uk/asp/2006/2/regulation/6))
+
+[^M_F_511a0dbd-ec17-40f8-dda9-3ea025962274]: Textual amendment: S. 7(9)(10) added (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 37(2)(c)](https://www.legislation.gov.uk/ssi/2001/36/section/37/2/c), [46(2)](https://www.legislation.gov.uk/ssi/2001/36/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^key-2e29190f9112490f8a65566f0de99590]: Textual amendment: Words in s. 7(9) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(2)(e)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/2/e) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aa87846fb78545a2b5ee7444782e4c5a]: Textual amendment: Word in s. 8(1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 37(3)(a)(i)](https://www.legislation.gov.uk/asp/2006/2/section/37/3/a/i), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^key-9c0280fa18eea281f8a800f0a9acfd7b]: Textual amendment: S. 8(1)(za) inserted (21.5.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 23(2)](https://www.legislation.gov.uk/asp/2014/5/section/23/2), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(e)](https://www.legislation.gov.uk/ssi/2014/121/article/2/e)
+
+[^key-3328e7bfa2b8994daa4aff3ed1ca0e07]: Textual amendment: Words in s. 8(1) renumbered as paragraph (a) (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 37(3)(a)(ii)](https://www.legislation.gov.uk/asp/2006/2/section/37/3/a/ii), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^c7777531]: Textual amendment: Words added by [Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act 1983 (c. 12, SIF 47)](https://www.legislation.gov.uk/ukpga/1983/12), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1983/12/section/6/1), [7(4)](https://www.legislation.gov.uk/ukpga/1983/12/section/7/4), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/1983/12/schedule/1/paragraph/18)
+
+[^key-70edc2d08557885d3f0ca05f2b569fe5]: Textual amendment: Word in s. 8(1)(a) repealed (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 15(2)(a)](https://www.legislation.gov.uk/asp/2011/15/section/15/2/a), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+
+[^key-7902bdfb0d2d5916c45dc1a2ef43e46b]: Textual amendment: S. 8(1)(b) and preceding word added (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 37(3)(a)(iii)](https://www.legislation.gov.uk/asp/2006/2/section/37/3/a/iii), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^key-61c8ee98207e6189818640dde52f9f1e]: Textual amendment: S. 8(1)(c) and preceding word inserted (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 15(2)(b)](https://www.legislation.gov.uk/asp/2011/15/section/15/2/b), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+
+[^c7777541]: Textual amendment: Words inserted by [Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act 1983 (c. 12, SIF 47)](https://www.legislation.gov.uk/ukpga/1983/12), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1983/12/section/6/1) 7(4), Sch. 1 para. 18(*b*)
+
+[^key-6e3ce93aab3b0f3e0138fcb0838abfce]: Textual amendment: Words in s. 8(2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(3)(a)(i)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/3/a/i) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0dc80055a0aeed33a55bfd417c9869c4]: Textual amendment: S. 8(2)(a) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/3/a/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aa57544249a2f99c923959a057a180fd]: Textual amendment: S. 8(2ZA) inserted (21.5.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 23(3)](https://www.legislation.gov.uk/asp/2014/5/section/23/3), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(e)](https://www.legislation.gov.uk/ssi/2014/121/article/2/e)
+
+[^key-03005442f0c6f48ff8d6966a617c0b57]: Textual amendment: S. 8(2A)-(2D) inserted (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 15(3)](https://www.legislation.gov.uk/asp/2011/15/section/15/3), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+
+[^key-1d0245469ecf65060d02c96c7b13bb7c]: Textual amendment: Words in s. 8(2A) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/000/3/b/i) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e6540051ab504d9d05a3cefca6dbc9ff]: Textual amendment: S. 8(2A)(b) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/3/b/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c01939e4306cebf9b67001dea9d7d5ed]: Textual amendment: S. 8(2B) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(3)(c)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/3/c) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3d9a48e9dec056f8292d48fe534e4a42]: Textual amendment: S. 8(2C) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(3)(c)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/3/c) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-be2e8606d25968c546aeff4a82c35361]: Textual amendment: S. 8(2D) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(3)(c)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/3/c) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c7777561]: Textual amendment: Words inserted by [Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act 1983 (c. 12, SIF 47)](https://www.legislation.gov.uk/ukpga/1983/12), [ss.6(1)](https://www.legislation.gov.uk/ukpga/1983/12/section/6/1), [7(4)](https://www.legislation.gov.uk/ukpga/1983/12/section/7/4), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/1983/12/schedule/1/paragraph/18)(*c*)
+
+[^key-30108bed5f9a956402587d3837b6a156]: Textual amendment: Words in s. 8(3) inserted (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 15(4)(a)](https://www.legislation.gov.uk/asp/2011/15/section/15/4/a), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+
+[^key-af63bfd827e355a260e26f6daa083939]: Textual amendment: Words in s. 8(3) inserted (21.5.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 23(4)(a)](https://www.legislation.gov.uk/asp/2014/5/section/23/4/a), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(e)](https://www.legislation.gov.uk/ssi/2014/121/article/2/e)
+
+[^key-191cac21e235befec81b686e1583fdfb]: Textual amendment: Words in s. 8(3) inserted (21.5.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 23(4)(b)](https://www.legislation.gov.uk/asp/2014/5/section/23/4/b), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(e)](https://www.legislation.gov.uk/ssi/2014/121/article/2/e)
+
+[^key-3011ef69524848bd224391bcf1b3494f]: Textual amendment: Words in s. 8(3) inserted (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 15(4)(b)](https://www.legislation.gov.uk/asp/2011/15/section/15/4/b), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+
+[^key-05b7435a9308e6092176380b3126da73]: Textual amendment: Words in s. 8(3) substituted (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 15(4)(c)](https://www.legislation.gov.uk/asp/2011/15/section/15/4/c), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+
+[^key-03a435fbd7e2ea608349dcbf008aa1b5]: Textual amendment: S. 8(3A) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(3)(d)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/3/d) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c7777581]: Textual amendment: Words inserted by [Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act 1983 (c. 12, SIF 47)](https://www.legislation.gov.uk/ukpga/1983/12), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1983/12/section/6/1), [7(4)](https://www.legislation.gov.uk/ukpga/1983/12/section/7/4), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/1983/12/schedule/1/paragraph/18)(*d*)
+
+[^key-02f1ee228193a417ae5ca5db9803f8c9]: Textual amendment: Words in s. 8(4) inserted (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 15(5)](https://www.legislation.gov.uk/asp/2011/15/section/15/5), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+
+[^key-f2b482c4fb0038331089871554eb40b3]: Textual amendment: Words in s. 8(4) inserted (21.5.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 23(5)](https://www.legislation.gov.uk/asp/2014/5/section/23/5), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(e)](https://www.legislation.gov.uk/ssi/2014/121/article/2/e)
+
+[^key-5aca188bb951842d5314daaad9d45eb4]: Textual amendment: Words in s. 8(4) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(3)(e)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/3/e) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-35fc642e78bd2081921ebaa0e9ad650a]: Textual amendment: S. 8(5)(6) added (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 37(3)(c)](https://www.legislation.gov.uk/asp/2006/2/section/37/3/c), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+
+[^key-cb96cac05eb4cb9f96d506489ef5c2b4]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1973/45/section/8A) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/2); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+
+[^c7777601]: Textual amendment: S. 9 repealed by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c. 55)](https://www.legislation.gov.uk/ukpga/1980/55), [s. 28(2)](https://www.legislation.gov.uk/ukpga/1980/55/section/28/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1980/55/schedule/3)
+
+[^c7777661]: Textual amendment: Words in s. 10(1) substituted (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 20(2)(a)(i)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/20/2/a/i) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
+
+[^c7777671]: Textual amendment: Words in s. 10(1) repealed (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 20(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/20/2/a/ii) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
+
+[^c7777681]: Textual amendment: S. 10(1A) inserted (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 20(2)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/20/2/b) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
+
+[^key-8fef758f98a9afe90b661d7b5fdbfd79]: Textual amendment: [S. 10(1B)](https://www.legislation.gov.uk/ukpga/1973/45/section/10/1B) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(4)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/4) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-77a7c38860dc87729093eade88544ed3]: Textual amendment: [S. 10(1BA)](https://www.legislation.gov.uk/ukpga/1973/45/section/10/1BA) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(4)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/4) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5a314a91c7eb823aebcab0a15c8934d9]: Textual amendment: [S. 10(1C)](https://www.legislation.gov.uk/ukpga/1973/45/section/10/1C) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/7/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6bcb630ccd72f64912b080f075b1eb2a]: Textual amendment: [S. 10(1D)](https://www.legislation.gov.uk/ukpga/1973/45/section/10/1D) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/7/3/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c7777701]: Marginal citation: [1966 c. 19](https://www.legislation.gov.uk/ukpga/1966/19).
+
+[^key-a01081061389c9250ed96cdf5cc81ae6]: Textual amendment: S. 11(1): renumbered (1.3.2005) by [European Communities (Matrimonial and Parental Responsibility Jurisdiction and Judgments) (Scotland) Regulations 2005 (S.S.I. 2005/42)](https://www.legislation.gov.uk/ssi/2005/42), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/42/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2005/42/regulation/2/5/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2005/42/regulation/7))
+
+[^key-7fd702241fa59bbfb5d551945a1840a9]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukpga/1973/45/section/11/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(5)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/5) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c7777711]: Textual amendment: S. 12(5)(a) re-numbered (1.3.2001) for words by [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36), [reg. 2(5)(a)](https://www.legislation.gov.uk/ssi/2001/36/regulation/2/5/a) (with [reg. 6](https://www.legislation.gov.uk/ssi/2001/36/regulation/6))
+
+[^key-0c5bc38bb35845df61c7114bc9e500a3]: Textual amendment: [S. 12(5)(b)-(d)](https://www.legislation.gov.uk/ukpga/1973/45/section/12/5/b) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(6)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/6) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c7777741]: Textual amendment: Pt. IV (ss. 13, 14) repealed by [S.I. 1978/1045](https://www.legislation.gov.uk/uksi/1978/1045), [Sch. 5](https://www.legislation.gov.uk/uksi/1978/1045/schedule/5)
+
+[^c7777751]: Textual amendment: S. 15 repealed by [Family Law Act 1986 (c. 55, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1986/55), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/1986/55/section/68/2), [69](https://www.legislation.gov.uk/ukpga/1986/55/section/69), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/55/schedule/2)
+
+[^c7777761]: Textual amendment: S. 16 repealed by [Family Law Act 1986 (c. 55, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1986/55), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/1986/55/section/68/2), [69](https://www.legislation.gov.uk/ukpga/1986/55/section/69), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/55/schedule/2)
+
+[^c7777771]: Textual amendment: S. 17(3) repealed by [Zimbabwe Act 1979 (c. 60, SIF 26:39)](https://www.legislation.gov.uk/ukpga/1979/60), [s. 6(3)](https://www.legislation.gov.uk/ukpga/1979/60/section/6/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1979/60/schedule/3)
+
+[^c7777781]: Textual amendment: Words repealed by [S.I. 1978/1045](https://www.legislation.gov.uk/uksi/1978/1045), [Sch. 5](https://www.legislation.gov.uk/uksi/1978/1045/schedule/5)
+
+[^key-88cc4a60e8463f1b26adfc39a890c4cd]: Textual amendment: Sch. A1 inserted (31.10.2013 for specified purposes, 13.3.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/8); [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/b); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+
+[^key-0c44121274ae876abf3265a5b96e90b9]: Modification: Sch. A1 para. 1(b) modified (temp.) (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/10/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+
+[^key-b81aa35849c7c785418d57ea36dc7915]: Modification: Sch. A1 para. 3 modified (temp.) (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/10/4); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+
+[^key-73e66d5b054d98ef678cda5d96f1d69b]: Textual amendment: Words in [Sch. A1 para. 5](https://www.legislation.gov.uk/ukpga/1973/45/schedule/A1/paragraph/5) heading substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/495/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dc8383556939a9d41257710ced202427]: Textual amendment: Words in Sch. A1 para. 5(1)(a)(i) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/495/regulation/3/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7fbe45ccb07a00ed4aabd0af7c399af9]: Textual amendment: [Sch. A1 para. 5(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/A1/paragraph/5/1/a/ii) omitted (31.12.2020) by virtue of [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/495/regulation/3/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-11e06ad0c2ac3905ddb30bd038b525c7]: Textual amendment: Words in [Sch. A1 para. 5(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/A1/paragraph/5/1/a/iii) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/495/regulation/3/3/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c817e743884265dd3bd1dfcd83db765b]: Textual amendment: [Sch. A1 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/A1/paragraph/5/1/b) and word omitted (31.12.2020) by virtue of [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2019/495/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b2914df17caaf2bff89f38df9ef08398]: Textual amendment: [Sch. A1 para. 5(2)-(4)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/A1/paragraph/5/2) omitted (31.12.2020) by virtue of [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/495/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e6f30669e0acd2606872fb517dcc2c64]: Textual amendment: Words in Sch. 1 para. 2 inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/9); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/i)
+
+[^key-813c1a4f4664d064841d4f5459875f7b]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1/paragraph/2) substituted (6.4.2022) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2022 (S.I. 2022/237)](https://www.legislation.gov.uk/uksi/2022/237), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/237/regulation/1/2), [Sch. para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/237/schedule/paragraph/1/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/237/regulation/3)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^key-1fc2fb7148cd86dbc838ed62c829fa03]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1/paragraph/7) substituted (6.4.2022) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2022 (S.I. 2022/237)](https://www.legislation.gov.uk/uksi/2022/237), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/237/regulation/1/2), [Sch. para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/237/schedule/paragraph/1/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/237/regulation/3)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^key-49f52a1e2bfa8744dc2a5db112e3e30a]: Textual amendment: Words in Sch. 1 para. 8(1)(b) substituted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3168)](https://www.legislation.gov.uk/uksi/2014/3168), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/7)
+
+[^key-ac3a63f8d47b00710c8e8a118f1e3598]: Textual amendment: Words in [Sch. 1 para. 9(1)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1/paragraph/9/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/7/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c7778041]: Textual amendment: Definitions in Sch. 1 para. 11(1) repealed (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2).
+
+[^c7778061]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18).
+
+[^c7778071]: Textual amendment: Words in Sch. 1 para. 11(1) added (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 33(1)(a)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/33/1/a) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2).
+
+[^c7778081]: Marginal citation: [1971 c. 53](https://www.legislation.gov.uk/ukpga/1971/53).
+
+[^c7778091]: Textual amendment: Words in Sch. 1 para. 11(1)(b) added (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 33(1)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/33/1/b) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2).
+
+[^c7778101]: Textual amendment: Words in Sch. 1 para. 11(1)(c) inserted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 33(1)(c)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/33/1/c) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2).
+
+[^c7778111]: Textual amendment: Word in Sch. 1 para. 11(1)(d) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 33(1)(d)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/33/1/d) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2).
+
+[^c7778121]: Textual amendment: Word in Sch. 1 para. 11(3) repealed (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5/7), [Sch. 13 para. 33(2)(a)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/33/2/a), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2).
+
+[^c7778131]: Textual amendment: Words in Sch. 1 para. 11(3) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/5), [Sch. 13 para. 33(2)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/33/2/b) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2).
+
+[^c7778141]: Textual amendment: Sch. 1 para. 11(3A) inserted by [Matrimonial Homes and Property Act 1981 (c. 24, SIF 49:5)](https://www.legislation.gov.uk/ukpga/1981/24), [s. 8(3)](https://www.legislation.gov.uk/ukpga/1981/24/section/8/3)
+
+[^key-ed6f9b360e904f629c3b0e552936b51d]: Textual amendment: Sch. 1 para. 11(4A)(4B) inserted (8.12.2008) by [Children and Adoption Act 2006 (c. 20)](https://www.legislation.gov.uk/ukpga/2006/20), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/17/2), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/1/2); [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+
+[^key-7cdf056d776542fae5583cf5eb230802]: Textual amendment: Words in Sch. 1 para. 11(4A)(b) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 45(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/45/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+
+[^key-83655f5b164e5305e375e422fa0f054a]: Textual amendment: Words in Sch. 1 para. 11(4B) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 45(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/45/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+
+[^key-3730b7b703ea4e59ec6d7728b9d0a529]: Textual amendment: Words in Sch. 1 para. 11(5) inserted (8.12.2008) by [Children and Adoption Act 2006 (c. 20)](https://www.legislation.gov.uk/ukpga/2006/20), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/17/2), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/1/3); [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+
+[^key-c0db795c26d676720c96e35132dc64ae]: Textual amendment: Sch. 1B inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/4); [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (as amended (1.9.2014) by [S.S.I. 2014/218](https://www.legislation.gov.uk/ssi/2014/218), art. 2(3), Sch.); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+
+[^key-4acaf05108faafdd93ac356e0d8888f8]: Textual amendment: Words in [Sch. 1B para. 1(3)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1B/paragraph/1/3) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(a)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/a) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-49ea91db3bfd3d16b35d895c0cc262eb]: Textual amendment: [Sch. 1B para. 2](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1B/paragraph/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(b)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-198df1f0ff5c2cbf9acb176297df3f7f]: Textual amendment: Words in [Sch. 1B para. 3(1)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1B/paragraph/3/1) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(c)(i)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/c/i) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d18c767aa89803cae1c08119a2a9b90f]: Textual amendment: [Sch. 1B para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1B/paragraph/3/1/a)[(b)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1B/paragraph/3/1/b) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/c/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-58f11c161b4a37fb78b12bbfb9582ec2]: Textual amendment: Words in [Sch. 1B para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1B/paragraph/3/3/b) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(c)(iii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/c/iii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-216d379dd07f84d3b122defa40c3222f]: Textual amendment: Words in Sch. 1B para. 5(1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(d)(i)(aa)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/d/i/aa) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8d156c70f1e7dde3e161c57c4d208ab1]: Textual amendment: Words in Sch. 1B para. 5(1) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(d)(i)(bb)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/d/i/bb) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-44f2e7b68d629c086fd8cec2f02c9a6b]: Textual amendment: Words in Sch. 1B para. 5(2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/d/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6de03b286ab8948b0122de81ec3931c2]: Textual amendment: Words in Sch. 1B para. 5(3) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(d)(iii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/d/iii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0ac32df1a926b6dc0f8509eaf1c7d9c5]: Textual amendment: Words in Sch. 1B para. 6(1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(e)(i)(aa)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/e/i/aa) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-35793b3bc30b9c05380a6b7d0c8a1b6c]: Textual amendment: Words in Sch. 1B para. 6(1) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(e)(i)(bb)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/e/i/bb) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9b6450b4d7e50597605c5a9399506a1d]: Textual amendment: Words in Sch. 1B para. 6(2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(e)(ii)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/e/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5011e28c1197ea07e23c222f3b5586f9]: Textual amendment: Words in [Sch. 1B para. 7(2)](https://www.legislation.gov.uk/ukpga/1973/45/schedule/1B/paragraph/7/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/104)](https://www.legislation.gov.uk/ssi/2019/104), [reg. 1](https://www.legislation.gov.uk/ssi/2019/104/regulation/1), [sch. 1 para. 1(7)(f)](https://www.legislation.gov.uk/ssi/2019/104/schedule/1/paragraph/1/7/f) (with [reg. 6](https://www.legislation.gov.uk/ssi/2019/104/regulation/6)) (as amended by [S.S.I. 2020/441](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c7778351]: Textual amendment: Sch. 2 paras. 1, 2 repealed by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [s. 28(2)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/2)
+
+[^c7778361]: Textual amendment: Sch. para. 2A inserted by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/1), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1/paragraph/9)(*a*)
+
+[^c7778371]: Marginal citation: [1907 c. 51](https://www.legislation.gov.uk/ukpga/1907/51).
+
+[^c7778381]: Textual amendment: Words substituted by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/1), [11(4)](https://www.legislation.gov.uk/ukpga/1986/9/section/11/4), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/13)
+
+[^c7778391]: Marginal citation: [1861 c. 86](https://www.legislation.gov.uk/ukpga/1861/86).
+
+[^c7778401]: Textual amendment: Words repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [11(4)](https://www.legislation.gov.uk/ukpga/1986/9/section/11/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c7778411]: Textual amendment: Sch. 2 para. 8 repealed by [Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1986/9), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/10/2), [11(4)](https://www.legislation.gov.uk/ukpga/1986/9/section/11/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/9/schedule/2)
+
+[^c7778421]: Marginal citation: [1938 c. 50](https://www.legislation.gov.uk/ukpga/1938/50).
+
+[^c7778431]: Marginal citation: [1964 c. 91](https://www.legislation.gov.uk/ukpga/1964/91).
+
+[^c7778441]: Marginal citation: [1958 c. 40](https://www.legislation.gov.uk/ukpga/1958/40).
+
+[^c7778451]: Marginal citation: [1964 c. 41](https://www.legislation.gov.uk/ukpga/1964/41).
+
+[^c7778461]: Textual amendment: Sch. 2 para. 12A added after paragraph 12 by [Divorce (Scotland) Act 1976 (c. 39, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1976/39), [s. 12(1)](https://www.legislation.gov.uk/ukpga/1976/39/section/12/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1976/39/schedule/1/paragraph/5)
+
+[^c7778471]: Textual amendment: Sch. 2 para. 12B inserted after para. 12A, by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/1), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1/paragraph/9)(*b*)
+
+[^key-0bb961811c238f6b7823f780a7167da3]: Modification: Sch. 3 applied (with modifications) by Rules of the Court of Session 1994 (SI 1994/1443), Sch. 2, rule 49.18A (as inserted (8.12.2005) by [S.S.I. 2005/632](https://www.legislation.gov.uk/ssi/2005/632), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/632/article/1/1), [2(12)](https://www.legislation.gov.uk/ssi/2005/632/article/2/12))
+
+[^c7778481]: Textual amendment: Words inserted by [Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act 1983 (c. 12, SIF 47)](https://www.legislation.gov.uk/ukpga/1983/12), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1983/12/section/6/1), [7(4)](https://www.legislation.gov.uk/ukpga/1983/12/section/7/4), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/1983/12/schedule/1/paragraph/19)(*a*)
+
+[^c7778491]: Textual amendment: Word inserted by [Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act 1983 (c. 12, SIF 47)](https://www.legislation.gov.uk/ukpga/1983/12), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1983/12/section/6/1), [7(4)](https://www.legislation.gov.uk/ukpga/1983/12/section/7/4), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/1983/12/schedule/1/paragraph/19)(*b*)
+
+[^c7778501]: Textual amendment: Words repealed by [Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act 1983 (c. 12, SIF 47)](https://www.legislation.gov.uk/ukpga/1983/12), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1983/12/section/6/1), [7(4)](https://www.legislation.gov.uk/ukpga/1983/12/section/7/4), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/1983/12/schedule/1/paragraph/20), [Sch. 2](https://www.legislation.gov.uk/ukpga/1983/12/schedule/2)
+
+[^c7778511]: Textual amendment: Words in definition of “relevant order” in Sch. 3 para. 11(1) substituted (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/20/3/a) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
+
+[^c7778521]: Textual amendment: Words in Sch. 3 para. 11(3) substituted (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/20/3/b) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
+
+[^c7778531]: Modification: The text of ss. 6(1)(2), Sch. 4 para. 1, Sch. 6 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c7778541]: Marginal citation: [1907 c.51](https://www.legislation.gov.uk/ukpga/1907/51)
+
+[^c7778551]: Textual amendment: Sch. 4 para. 2 repealed by [Presumption of Death (Scotland) Act 1977 (c. 27, SIF 116:2)](https://www.legislation.gov.uk/ukpga/1977/27), [s. 19](https://www.legislation.gov.uk/ukpga/1977/27/section/19), [Sch. 2](https://www.legislation.gov.uk/ukpga/1977/27/schedule/2)
+
+[^c7778561]: Textual amendment: Sch. 5 repealed by [S.I. 1978/1045](https://www.legislation.gov.uk/uksi/1978/1045), [Sch. 5](https://www.legislation.gov.uk/uksi/1978/1045/schedule/5)
+
+[^c7778571]: Modification: The text of ss. 6(1)(2), Sch. 4 para. 1, Sch. 6 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

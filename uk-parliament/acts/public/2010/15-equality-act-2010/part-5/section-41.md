@@ -1,0 +1,48 @@
+---
+title: Equality Act 2010, section 41
+act: Equality Act 2010
+section: '41'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2010/15/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Equality Act 2010, section 41
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41. Contract workers
+
+*Extent: E+W+S*
+
+(1) A principal must not discriminate against a contract worker—
+
+- (a) as to the terms on which the principal allows the worker to do the work;
+- (b) by not allowing the worker to do, or to continue to do, the work;
+- (c) in the way the principal affords the worker access, or by not affording the worker access, to opportunities for receiving a benefit, facility or service;
+- (d) by subjecting the worker to any other detriment.
+
+(2) A principal must not, in relation to contract work, harass a contract worker.
+
+(3) A principal must not victimise a contract worker—
+
+- (a) as to the terms on which the principal allows the worker to do the work;
+- (b) by not allowing the worker to do, or to continue to do, the work;
+- (c) in the way the principal affords the worker access, or by not affording the worker access, to opportunities for receiving a benefit, facility or service;
+- (d) by subjecting the worker to any other detriment.
+
+(4) A duty to make reasonable adjustments applies to a principal (as well as to the employer of a contract worker).
+
+(5) A “principal” is a person who makes work available for an individual who is—
+
+- (a) employed by another person, and
+- (b) supplied by that other person in furtherance of a contract to which the principal is a party (whether or not that other person is a party to it).
+
+(6) “Contract work” is work such as is mentioned in subsection (5).
+
+(7) A “contract worker” is an individual supplied to a principal in furtherance of a contract such as is mentioned in subsection (5)(b).

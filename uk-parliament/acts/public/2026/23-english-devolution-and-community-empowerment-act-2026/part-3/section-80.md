@@ -1,0 +1,77 @@
+---
+title: English Devolution and Community Empowerment Act 2026, section 80
+act: English Devolution and Community Empowerment Act 2026
+section: '80'
+status: not-yet-in-force
+text_date: '2026-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2026/23/section/80
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# English Devolution and Community Empowerment Act 2026, section 80
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 80. Responsible licensing authority’s response to suspension of licence[^key-43e6559ed4ff3bbcd498b66ac4d34c99]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) This section applies if an enforcement officer gives a suspension notice in respect of a licence (the “suspended licence”).
+
+(2) If the suspending authority is not the responsible licensing authority, this section does not apply unless the notification required by section 79 has been given.
+
+(3) The responsible licensing authority must—
+
+- (a) terminate the suspension,
+- (b) extend the period of suspension, or
+- (c) allow the suspension to cease to have effect at the end of the period of suspension.
+
+(4) The responsible licensing authority must notify the holder of the suspended licence of—
+
+- (a) the authority’s decision under subsection (3), and
+- (b) any further extension of the period of suspension.
+
+(5) If the responsible licensing authority does not terminate the suspension, it may also notify the holder of any steps which would (if taken) result in the suspension being terminated.
+
+(6) After making the decision under subsection (3), the responsible licensing authority must decide whether and how to exercise its other functions as a licensing authority in relation to the suspended licence.
+
+(7) If the suspending authority is not the responsible licensing authority, the responsible licensing authority must notify the suspending authority of—
+
+- (a) any decision by the responsible licensing authority under subsection (3);
+- (b) any further extension of the period of suspension;
+- (c) any decision by the responsible licensing authority under subsection (6).
+
+(8) The Secretary of State may, by regulations, make provision about the making of decisions under subsection (3) or (6).
+
+(9) The regulations may, in particular, make provision about the period within which those decisions must be made.
+
+(10) The Secretary of State may, by regulations, make provision about the extension of periods of suspension.
+
+(11) The regulations may, in particular, make provision about—
+
+- (a) the length by which periods of suspension may be extended under subsection (3);
+- (b) whether and how, and the length by which, periods of suspension may be extended more than once.
+
+(12) The Secretary of State may, by regulations, make provision about—
+
+- (a) the form or contents of notifications under this section;
+- (b) the period within which notifications under this section are to be given;
+- (c) the manner in which notifications under this section are to be given.
+
+(13) In this section—
+
+- “**period of suspension**” means—
+  - (a) the period of suspension under section 76(5), or
+  - (b) if that period has been extended under this section, that extended period;
+- “**suspended licence**” has the meaning given in subsection (1);
+- “**suspending authority**”, in relation to the suspended licence, means the licensing authority which appointed or authorised the enforcement officer who suspended the licence.
+
+## Annotations
+
+[^key-43e6559ed4ff3bbcd498b66ac4d34c99]: Commencement: S. 80 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

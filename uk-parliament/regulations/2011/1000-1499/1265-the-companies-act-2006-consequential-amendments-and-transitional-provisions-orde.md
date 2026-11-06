@@ -1,0 +1,1269 @@
+---
+title: The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011
+id: uksi/2011/1265
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-05-11'
+text_date: '2013-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1265
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1265/pdfs/uksiem_20111265_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1265/pdfs/uksi_20111265_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1265/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 1265
+
+Companies
+
+The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011
+
+Made
+
+11th May 2011
+
+Coming into force in accordance with article 1(2)
+
+The Treasury, in exercise of the powers conferred by sections 1292, 1294 and 1296 of the Companies Act 2006[^f00001], make the following Order.
+
+In accordance with sections 1290 and 1294(6) of the Companies Act 2006, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-1cf930a44f6a00c9cbfd83f186bb3bbc]
+
+(1) This Order may be cited as the Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011.
+
+(2) This Order comes into force on the day after the day on which it is made.
+
+## 2. Repeal of the Companies Consolidation (Consequential Provisions) Act [1985 (c.9)](https://www.legislation.gov.uk/ukpga/1985/9)[^key-b799a55b8e4aaf3055f83a5a45d71328]
+
+The Companies Consolidation (Consequential Provisions) Act 1985 is repealed.
+
+**3.**[^key-f9cf90d856943182befb36c47474af7b] In Part 1 of Schedule 1 (commencement of repeals made by the Companies Act 2006) to the Companies Act 2006 (Commencement No. 8, Transitional Provisions and Savings) Order 2008[^f00002], omit the entry relating to the Companies Consolidation (Consequential Provisions) Act 1985.
+
+**4.**[^key-f021244864328c6d92edbde6819319f5] (1) The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009[^f00003] is amended as follows.
+
+(2) In article 12 (saving for earlier consequential amendments, transitional provisions and savings)—
+
+- (a) in paragraph (1) omit the words “the Companies Consolidation (Consequential Provisions) Act 1985 and”;
+- (b) in paragraph (2) omit the words “Act or” in each place where they appear.
+
+(3) In Schedule 3 (provisions relating to old public companies)—
+
+- (a) for paragraph 1 (meaning of “old public company”) substitute—
+
+  > - For the purposes of this Schedule an “old public company” is a company limited by shares, or a company limited by guarantee and having a share capital, in respect of which the following conditions are met—
+  >   - (a) the company either existed on 1st July 1983 or was incorporated after that date pursuant to an application made before that date,
+  >   - (b) on that date or, if later, on the day of the company’s incorporation, the company was not or (as the case may be) would not have been a private company within the meaning of section 28 of the Companies Act (Northern Ireland) 1960[^f00004], and
+  >   - (c) the company has not since that date or the day of the company’s incorporation (as the case may be) either been re-registered as a public company within the meaning of Article 12(3) of the Companies (Northern Ireland) Order[^f00005] or section 4(2) of the Companies Act 2006 or become a private company within the meaning of Article 12(3) of the Companies (Northern Ireland) Order or section 4(1) of the Companies Act 2006.
+
+  ;
+- (b) In paragraph 7 (old public company holding, or having charge on, own shares)—
+  - (i) in sub-paragraph (3) for “the relevant date” substitute “30th September 1984”;
+  - (ii) omit sub-paragraph (4).
+
+**5.**[^key-52aec22489f625f0db0ce10d98f086a0] (1) Schedule 1 to this Order contains provisions preserving the effect of the provisions of the Companies Consolidation (Consequential Provisions) Act 1985 relating to old public companies.
+
+(2) The repeal of the other provisions of that Act does not affect the operation of—
+
+- (a) any provision amending an enactment that remains in force;
+- (b) any transitional provision that remains capable of having effect in relation to the corresponding provision of the Companies Act 2006;
+- (c) any saving that remains capable of having effect in relation to the repeal of an enactment by that Act.
+
+## 6. The Insolvency Act [1986 (c.45)](https://www.legislation.gov.uk/ukpga/1986/45)[^key-91498faeb220ade93afdfb32fc3ed539]
+
+(1) The Insolvency Act 1986[^f00006] is amended as follows.
+
+(2) In section 24(6) (consideration of proposals by creditors’ meeting) as it has effect by virtue of—
+
+- (a) section 249(1) of the Enterprise Act 2002[^f00007] (special administration regimes), or
+- (b) article 3(2) or (3) of the Enterprise Act 2002 (Commencement No. 4 and Transitional Provisions and Savings) Order 2003[^f00008] (other purposes),
+
+for “an office copy” substitute “a copy”.
+
+(3) In section 76(2)(b) (liability of past directors and shareholders), for “statutory declaration” and “declaration” substitute “statement”.
+
+(4) In section 122(1) (circumstances in which company may be wound up by the court), omit paragraph (e)[^f00009].
+
+## 7. The Insolvency (Northern Ireland) Order 1989 ([S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405))[^key-77e9b4d0301f86efd8ec175c5be89aea]
+
+(1) The Insolvency (Northern Ireland) Order 1989 is amended as follows.
+
+(2) In Article 63(2)(b) (liability of past directors and shareholders), for “statutory declaration” and “declaration” substitute “statement”.
+
+(3) In Article 102 (circumstances in which company may be wound up by the High Court), omit paragraph (e)[^f00010].
+
+## 8. The Building Societies (Transfer of Business) Regulations 1998 ([S.I. 1998/212](https://www.legislation.gov.uk/uksi/1998/212))[^key-1aa311134b43d5fd2f5f9c882e41bfed]
+
+(1) The Building Societies (Transfer of Business) Regulations 1998[^f00011] are amended as follows.
+
+(2) In the definition of “group” in regulation 2 (interpretation), for the words from “section 262” to the end substitute “section 474(1) of the Companies Act 2006”.
+
+(3) In paragraph 7 in Part 2 of Schedule 1 (prescribed matters for transfer statements), for the words in brackets after “equity share capital” substitute “(within the meaning of the Companies Act 2006)”.
+
+## 9. The Building Societies (Accounts and Related Provisions) Regulations 1998 ([S.I. 1998/504](https://www.legislation.gov.uk/uksi/1998/504))[^key-ec58011230aa59141d8859ee5926fc72]
+
+(1) The Building Societies (Accounts and Related Provisions) Regulations 1998[^f00012] are amended as follows.
+
+(2) In the definition of “undertaking” in regulation 2 (interpretation), for “section 259(1) of the Companies Act 1985” substitute “section 1161(1) of the Companies Act 2006”.
+
+(3) In paragraph (6) of regulation 4 (group accounts: supplementary provisions), for “section 258 of the Companies Act 1985 (definition of “parent undertaking”)” substitute “section 1162 of the Companies Act 2006 (parent and subsidiary undertakings)”.
+
+(4) In paragraph (11) of regulation 4, for “section 258 of the Companies Act 1985” substitute “section 1162 of the Companies Act 2006”.
+
+(5) In paragraph 7 of Schedule 4 (form and content of the annual accounts of a group accounts society)—
+
+- (a) for “paragraph 10 of Schedule 4A to the Companies Act 1985” substitute “paragraph 10 of Schedule 6 to the Large and Medium–sized Companies and Groups (Accounts and Reports) Regulations 2008”[^f00013];
+- (b) for “paragraph 11 of the said Schedule 4A” substitute “paragraph 11 of the said Schedule 6”.
+
+(6) In paragraph 14 of Schedule 4, for “section 258 of the Companies Act 1985” substitute “section 1162 of the Companies Act 2006”.
+
+(7) In paragraph 1(2) of Schedule 5 (notes to annual accounts), for “section 256(1) of the Companies Act 1985” substitute “section 464(1) of the Companies Act 2006”.
+
+(8) In paragraph 5(7) of Schedule 8 (directors’ report), for “Part I of Schedule 13 to the Companies Act 1985” substitute “Schedule 1 to the Companies Act 2006”.
+
+(9) In paragraph 9(3)(b) of Schedule 8, for “Part I of Schedule 4 to the Companies Act 1985” substitute “Part 1 of Schedule 1 to the Large and Medium–sized Companies and Groups (Accounts and Reports) Regulations 2008”.
+
+(10) In paragraph 9(3)(b)(ii) of Schedule 8, for “Schedule 4 to the Companies Act 1985” substitute “Schedule 1 to those Regulations”.
+
+(11) In paragraph 9(4) of Schedule 8—
+
+- (a) for “Part I of Schedule 4 to the Companies Act 1985” substitute “Part 1 of Schedule 1 to the Large and Medium–sized Companies and Groups (Accounts and Reports) Regulations 2008”;
+- (b) for “Schedule 4” (in the second place where it occurs) substitute “that Schedule”.
+
+(12) In paragraph 8 of Schedule 11 (interpretation of schedules), for “section 260 of the Companies Act 1985” substitute “paragraph 11 of Schedule 10 to the Large and Medium–sized Companies and Groups (Accounts and Reports) Regulations 2008”.
+
+## 10. The Cash Ratio Deposits (Eligible Liabilities) Order 1998 ([S.I. 1998/1130](https://www.legislation.gov.uk/uksi/1998/1130))[^key-e35284fa42562c80f172608f898149d0]
+
+(1) The Cash Ratio Deposits (Eligible Liabilities) Order 1998[^f00014] is amended as follows.
+
+(2) In article 2(1) (interpretation)—
+
+- (a) in the definition of “group”, for “section 262 of the Companies Act 1985” substitute “section 474(1) of the Companies Act 2006”;
+- (b) in the definition of “undertaking”, for “section 259 of the Companies Act 1985” substitute “section 1161(1) of the Companies Act 2006”.
+
+(3) In article 2(2), for the words from “shall be” to the end substitute—
+
+> are—
+>
+> - (a) in relation to an undertaking with a share capital, to allotted shares,
+> - (b) in relation to an undertaking with capital but no share capital, to rights to share in the capital of the undertaking, and
+> - (c) in relation to an undertaking without capital, to interests—
+>   - (i) conferring any right to share in the profits or liability to contribute to the losses of the undertaking, or
+>   - (ii) giving rise to an obligation to contribute to the debts or expenses of the undertaking in the event of a winding up.
+
+.
+
+## 11. The Bank of England (Information Powers) Order 1998 ([S.I. 1998/1270](https://www.legislation.gov.uk/uksi/1998/1270))[^key-297386ae9baac8e5f57d7d7b86a56ad2]
+
+In article 1(2) (citation, commencement and interpretation) of the Bank of England (Information Powers) Order 1998[^f00015]—
+
+- (a) in the definition of “parent undertaking” and “subsidiary undertaking”, for the words from “Part VII of the Companies Act 1985” to the end substitute “section 1162 of the Companies Act 2006, but as if the reference in section 1162(4)(a) of that Act to a “dominant influence” were a reference to a “significant influence”;
+- (b) in the definition of “undertaking”, for “section 259 of the Companies Act 1985” substitute “section 1161(1) of the Companies Act 2006”.
+
+## 12. The Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8)[^key-6db708d071b42154c00f652f0f12dd03]
+
+(1) Part 17 of the Financial Services and Markets Act 2000 (collective investment schemes) is amended as follows.
+
+(2) In section 247(5)(a) (power of Treasury to make provision assimilating law relating to authorised unit trusts to law relating to companies), for “Great Britain or Northern Ireland” substitute “the United Kingdom”.
+
+(3) In section 262(2)(a) (power of Treasury to make regulations about open-ended investment companies), for “Great Britain” substitute “the United Kingdom”.
+
+## 13. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ([S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544))[^key-3433f2ce7dfd09f506e665639b94449f]
+
+(1) The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 is amended as follows.
+
+(2) In article 3(1) (interpretation), in the definition of “pension fund management contract”, for the words from “section 736” to the end substitute “section 1159 of the Companies Act 2006”.
+
+(3) In article 18A[^f00016] (dealing by a company in its own shares)—
+
+- (a) in paragraph (1), for “section 162A of the Companies Act 1985”[^f00017] substitute “section 724 of the Companies Act 2006”;
+- (b) in paragraph (2), for the words from “section 162D”[^f00018] to the end substitute “section 727 (Treasury shares: disposal) or 729 (Treasury shares: cancellation) of that Act”.
+
+(4) In article 30(2)(a) (arranging transactions in connection with lending on the security of insurance policies), for “section 338 of the Companies Act 1985” substitute “section 209 of the Companies Act 2006”.
+
+(5) In article 72B(1)[^f00019] (activities carried on by a provider of relevant goods or services), in the definition of “small business”[^f00020], for the words from “section 262(1)” to “the Companies Act 2006)” substitute “section 474(1) of the Companies Act 2006”.
+
+(6) In article 72D(3)[^f00021] (large risks contracts where risk situated outside the EEA)—
+
+- (a) in sub–paragraph (a), for the words in brackets substitute “(within the meaning of section 382(5) or 465(5) of the Companies Act 2006)”;
+- (b) in sub–paragraph (b), for the words in brackets substitute “(within the meaning given to “turnover” by section 474(1) of the Companies Act 2006)”;
+- (c) in sub–paragraph (c), for the words in brackets substitute “(within the meaning given by sections 382(6) and 465(6) of the Companies Act 2006)”.
+
+## 14. The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001 ([S.I. 2001/1060](https://www.legislation.gov.uk/uksi/2001/1060))[^key-4c0ef94cc0d882219e064573fc9ed137]
+
+(1) The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001 is amended as follows.
+
+(2) In article 5A(2)[^f00022] (interpretation: outgoing electronic commerce communications), for “section 737 or 264(2) of the Companies Act 1985 (or the equivalent provision in the Companies (Northern Ireland) Order 1986)” substitute “section 547 or 831(2) and (3) of the Companies Act 2006”.
+
+(3) In article 22(5) (high net worth companies, unincorporated associations etc)—
+
+- (a) in the definition of “called–up share capital”, for the words from “the Companies Act 1985” to the end substitute “section 547 of the Companies Act 2006”;
+- (b) in the definition of “net assets”, for the words from “section 264” to the end substitute “section 831 of the Companies Act 2006”.
+
+## 15. The Open-ended Investment Companies Regulations 2001 ([S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228))[^key-376c0c8bf41cd3ecc11c273baf62015a]
+
+Schedule 2 to this Order contains consequential amendments to the Open-ended Investment Companies Regulations 2001.
+
+## 16. The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 ([S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188))[^key-52886274c0a9ba0d688b6b2cbd91066d]
+
+(1) Schedule 1 to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^f00023] is amended as follows.
+
+(2) In Part 1—
+
+- (a) in the first column of the entry relating to a recognised supervisory body, for the words from “Part II” to the end substitute “Part 42, Chapter 2 of the Companies Act 2006”;
+- (b) in the first column of the entry relating to a qualifying body, for “section 32 of the Companies Act 1989” substitute “section 1220 of the Companies Act 2006”;
+- (c) in the first column of the entry relating to a person authorised by the Secretary of State, for “section 245B(1)(b) of the Companies Act 1985” substitute “section 456 of the Companies Act 2006”.
+
+(3) In Part 4—
+
+- (a) omit the entry relating to an inspector appointed under Part XV of the Companies (Northern Ireland) Order 1986;
+- (b) omit the entry relating to a person appointed to exercise powers under Article 440 of the Companies (Northern Ireland) Order 1986.
+
+## 17. The Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001 ([S.I. 2001/2587](https://www.legislation.gov.uk/uksi/2001/2587))[^key-bc714d07d0370a0cfb596cfbc18b5f10]
+
+(1) Regulation 2(2) (circumstances in which an auditor is to communicate) of the Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001[^f00024] is amended as follows.
+
+(2) In sub–paragraph (d)(i)—
+
+- (a) for “the Companies Act 1985” substitute “the Companies Act 2006”;
+- (b) for “section 235(2)” substitute “section 495(3)(a)”.
+
+(3) In sub–paragraph (e), for the words from “subsection (2)” to the end substitute “subsection (2), (3) or (5) of section 498 of the Companies Act 2006”.
+
+## 18. The Financial Services and Markets Act 2000 (Own–initiative Power) (Overseas Regulators) Regulations 2001 ([S.I. 2001/2639](https://www.legislation.gov.uk/uksi/2001/2639))[^key-747178caa3cdefe92455878ee39cdb70]
+
+In regulation 2(2)(c) (overseas regulators) of the Financial Services and Markets Act 2000 (Own–initiative Power) (Overseas Regulators) Regulations 2001, for “the Companies Act 1985” substitute “the Companies Act 2006”.
+
+## 19. The Financial Services and Markets Act 2000 (Official Listing of Securities) Regulations 2001 ([S.I. 2001/2956](https://www.legislation.gov.uk/uksi/2001/2956))[^key-bc6f87e922c649c31116b08354490225]
+
+(1) The Financial Services and Markets Act 2000 (Official Listing of Securities) Regulations 2001 are amended as follows.
+
+(2) In regulation 3(a) (bodies whose securities may not be listed)[^f00025], for the words from “section 1(3)” to the end substitute “section 4(1) of the Companies Act 2006”.
+
+(3) In regulation 7(4)(b) (securities issued in connection with takeovers and mergers), for “section 736 of the Companies Act 1985” substitute “section 1159 of the Companies Act 2006”.
+
+## 20. The Financial Services and Markets Act 2000 (Control of Business Transfers) (Requirements on Applicants) Regulations 2001 ([S.I. 2001/3625](https://www.legislation.gov.uk/uksi/2001/3625))[^key-52518ea5cb789c942be907a80b19d895]
+
+In regulation 3(6) (transfer of an insurance business) of the Financial Services and Markets Act 2000 (Control of Business Transfers) (Requirements on Applicants) Regulations 2001[^f00026], for the words from “paragraph 6(1)”, where it first appears, to “public companies)” substitute “subsection (3) of section 911 (inspection of documents (merger)) or subsection (3) of section 926 (inspection of documents (division)), as the case may be, of the Companies Act 2006”.
+
+## 21. The Financial Services and Markets Act 2000 (Confidential Information) (Bank of England) (Consequential Provisions) Order 2001 ([S.I. 2001/3648](https://www.legislation.gov.uk/uksi/2001/3648))[^key-687c4575bbed86cf91882b27877102d3]
+
+(1) The Financial Services and Markets Act 2000 (Confidential Information) (Bank of England) (Consequential Provisions) Order 2001[^f00027] is amended as follows.
+
+(2) In article 5 (information to which Part 3 of the Order applies)—
+
+- (a) in paragraph (3), for sub–paragraphs (a) and (b) substitute “the consent of the Secretary of State”;
+- (b) in paragraph (4), for sub–paragraphs (a) and (b) substitute “the Secretary of State”.
+
+(3) In article 7 (companies information disclosed before commencement)—
+
+- (a) in paragraph (3), for sub–paragraphs (a) and (b) substitute “the Secretary of State”;
+- (b) in paragraph (4), for sub–paragraphs (a) and (b) substitute “the Secretary of State”.
+
+## 22. The Enterprise Act 2002 (Part 8 Domestic Infringements) Order 2003 ([S.I. 2003/1593](https://www.legislation.gov.uk/uksi/2003/1593))[^key-39a42112f3af598fa01da4740feef11e]
+
+In Part 1 of the Schedule (enforcement of consumer legislation: relevant enactments) to the Enterprise Act 2002 (Part 8 Domestic Infringements) Order 2003[^f00028]—
+
+- (a) omit the entry for the Business Names Act 1985[^f00029];
+- (b) for the entry for the Companies Act 1985, substitute the following entries—
+
+  > |  |  |
+  > | --- | --- |
+  > | Companies Act 2006 | Part 41 (business names) |
+  > | Companies (Trading Disclosures) Regulations 2008[^f00030] | The whole Regulations |
+
+## 23. The Insurers (Reorganisation and Winding Up) Regulations 2004 ([S.I. 2004/353](https://www.legislation.gov.uk/uksi/2004/353))[^key-253551bddddff9dd77af1e1368840005]
+
+(1) The Insurers (Reorganisation and Winding Up) Regulations 2004[^f00031] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “the 1985 Act”;
+- (b) after the definition of “the 2000 Act” insert ““the 2006 Act” means the Companies Act 2006;”;
+- (c) omit the definition of “Article 418 compromise or arrangement”;
+- (d) omit the definition of “the Companies Order”;
+- (e) in the definition of “officer”, for the words from “section 744” to the end substitute “section 1173(1) of the Companies Act 2006”;
+- (f) for the definition of “section 425 compromise or arrangement” substitute—
+
+  > - section 899 compromise or arrangement” means a compromise or arrangement sanctioned by the court in relation to a UK insurer under section 899 of the 2006 Act but does not include a compromise or arrangement falling within section 900 (powers of court to facilitate reconstruction or amalgamation) or Part 27 (mergers and divisions of public companies) of that Act;
+
+  ;
+- (g) omit the definition of “section 425 or Article 418 compromise or arrangement”.
+
+(3) In regulation 5 (schemes of arrangement: EEA insurers)—
+
+- (a) in paragraph (1), for “section 425(6)(a) of the 1985 Act or Article 418(5)(a) of the Companies Order” substitute “section 895(2)(b) of the 2006 Act”;
+- (b) in paragraph (2), for “section 425(2) of the 1985 Act or Article 418(2) of the Companies Order” substitute “section 899 of the 2006 Act”;
+- (c) in paragraph (3), for “the section 425 or Article 418 compromise or arrangement” substitute “the section 899 compromise or arrangement”;
+- (d) in paragraph (5), for “a section 425 or Article 418 compromise or arrangement” substitute “a section 899 compromise or arrangement”.
+
+(4) In regulation 18 (application of regulations 19 to 27)—
+
+- (a) in paragraph (2), for “relevant section 425 or Article 418 compromise or arrangement” substitute “relevant compromise or arrangement”;
+- (b) after paragraph (5), insert—
+
+  > (6) In paragraph (2) “relevant compromise or arrangement” means—
+  >
+  > - (a) a section 899 compromise or arrangement, or
+  > - (b) a compromise or arrangement sanctioned by the court in relation to a UK insurer before 6th April 2008 under—
+  >   - (i) section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act), or
+  >   - (ii) Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order).
+
+  .
+
+(5) In the heading to regulation 19 (application of this Part: assets subject to a section 425 or Article 418 compromise or arrangement), for the words after the colon substitute “certain assets excluded from insolvent estate of UK insurer”.
+
+(6) In regulation 19—
+
+- (a) in paragraph (1), for “a relevant section 425 or Article 418 compromise or arrangement” substitute “a relevant compromise or arrangement”;
+- (b) for paragraph (2)(d), substitute—
+
+  > - (d) “relevant compromise or arrangement” means—
+  >   - (i) a compromise or arrangement sanctioned by the court in relation to a UK insurer before 20th April 2003 under—
+  >     - (aa) section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act), or
+  >     - (bb) Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order); or
+  >   - (ii) any subsequent compromise or arrangement sanctioned by the court to amend or replace a compromise or arrangement of a kind mentioned in paragraph (i) which is—
+  >     - (aa) itself of a kind mentioned in sub-paragraph (aa) or (bb) of paragraph (i) (whether sanctioned before, on or after 20th April 2003), or
+  >     - (bb) a section 899 compromise or arrangement.
+
+  .
+
+(7) In the heading to regulation 35 (application of this Part: assets subject to a section 425 or Article 418 compromise or arrangement), for the words after the colon substitute “certain assets excluded from insolvent estate of UK insurer”.
+
+(8) In regulation 35—
+
+- (a) in paragraph (1), for “a relevant section 425 or Article 418 compromise or arrangement” substitute “a relevant compromise or arrangement”;
+- (b) for paragraph (2)(d), substitute—
+
+  > - (d) “relevant compromise or arrangement” means—
+  >   - (i) a compromise or arrangement sanctioned by the court in relation to a UK insurer before 20th April 2003 under—
+  >     - (aa) section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act), or
+  >     - (bb) Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order); or
+  >   - (ii) any subsequent compromise or arrangement sanctioned by the court to amend or replace a compromise or arrangement of a kind mentioned in paragraph (i) which is—
+  >     - (aa) itself of a kind mentioned in sub-paragraph (aa) or (bb) of paragraph (i) (whether sanctioned before, on or after 20th April 2003), or
+  >     - (bb) a section 899 compromise or arrangement.
+
+  .
+
+## 24. The Credit Institutions (Reorganisation and Winding Up) Regulations 2004 ([S.I. 2004/1045](https://www.legislation.gov.uk/uksi/2004/1045))[^key-8bc0c985f50a6f7579cbca939149ddf7]
+
+(1) The Credit Institutions (Reorganisation and Winding Up) Regulations 2004[^f00032] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “the 1985 Act”;
+- (b) after the definition of “the 2000 Act” insert ““the 2006 Act” means the Companies Act 2006;”;
+- (c) omit the definition of “Article 418 compromise or arrangement”;
+- (d) omit the definition of “the Companies Order”;
+- (e) in the definition of “officer”, for the words from “section 744” to the end substitute “section 1173(1) of the Companies Act 2006”;
+- (f) for the definition of “section 425 compromise or arrangement” substitute—
+
+  > - section 899 compromise or arrangement” means a compromise or arrangement sanctioned by the court in relation to a UK credit institution under section 899 of the 2006 Act but does not include a compromise or arrangement falling within section 900 (powers of court to facilitate reconstruction or amalgamation) or Part 27 (mergers and divisions of public companies) of that Act;
+
+  .
+
+(3) In regulation 4 (schemes of arrangement)—
+
+- (a) in paragraph (1), for “section 425(6)(a) of the 1985 Act or Article 418(5)(a) of the Companies Order” substitute “section 895(2)(b) of the 2006 Act”;
+- (b) in paragraph (2), for “section 425(2) of the 1985 Act or Article 418(2) of the Companies Order” substitute “section 899 of the 2006 Act”;
+- (c) in paragraph (3), for “the section 425 or Article 418 compromise or arrangement” substitute “the section 899 compromise or arrangement”;
+- (d) in paragraph (5), for “a section 425 or Article 418 compromise or arrangement” substitute “a section 899 compromise or arrangement”.
+
+(4) In the heading to regulation 20 (application of this Part: assets subject to a section 425 or Article 418 compromise or arrangement), for the words after the colon substitute “certain assets excluded from insolvent estate of UK credit institution”.
+
+(5) In regulation 20—
+
+- (a) in paragraph (1), for “a relevant section 425 or Article 418 compromise or arrangement” substitute “a relevant compromise or arrangement”;
+- (b) for paragraph (2)(d), substitute—
+
+  > - (d) “relevant compromise or arrangement” means—
+  >   - (i) a compromise or arrangement sanctioned by the court before 5th May 2004 under—
+  >     - (aa) section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act), or
+  >     - (bb) Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order); or
+  >   - (ii) any subsequent compromise or arrangement sanctioned by the court to amend or replace a compromise or arrangement of a kind mentioned in paragraph (i) which is—
+  >     - (aa) itself of a kind mentioned in sub-paragraph (aa) or (bb) of paragraph (i) (whether sanctioned before, on or after 5th May 2004), or
+  >     - (bb) a section 899 compromise or arrangement.
+
+  .
+
+## 25. The Investment Recommendation (Media) Regulations 2005 ([S.I. 2005/382](https://www.legislation.gov.uk/uksi/2005/382))[^key-9c331c5e96241f0b1dbadad9d1cf6fc8]
+
+(1) The Investment Recommendation (Media) Regulations 2005[^f00033] are amended as follows.
+
+(2) In regulation 6(5) (disclosure of interests etc)—
+
+- (a) in the definition of “parent undertaking”, for the words from “Part 7” to “1986)” substitute “the Companies Acts (see section 1162 of the Companies Act 2006)”;
+- (b) in the definition of “subsidiary undertaking”, for the words from “Part 7” to “1986)” substitute “the Companies Acts (see section 1162 of the Companies Act 2006)”;
+- (c) in the definition of “participating interest”, for the words from “has the same meaning” to the end substitute “shall be construed in accordance with paragraphs (5A) to (5D)”.
+
+(3) After paragraph (5) insert—
+
+> (5A) A “participating interest” means an interest held in the shares of an undertaking by another undertaking or individual which is held on a long-term basis for the purpose of securing a contribution to the activities of the second undertaking or individual by the exercise of control or influence arising from or related to that interest.
+>
+> (5B) A holding of 20% or more of the shares of an undertaking is presumed to be a participating interest unless the contrary is shown.
+>
+> (5C) The reference in paragraph (5A) to an interest in shares includes—
+>
+> - (a) an interest which is convertible into an interest in shares, and
+> - (b) an option to acquire shares or any such interest;
+>
+> and an interest or option falls within sub-paragraph (a) or (b) notwithstanding that the shares to which it relates are, until the conversion or the exercise of the option, unissued.
+>
+> (5D) For the purposes of paragraph (5A) an interest held on behalf of an undertaking or individual shall be treated as held by the undertaking or individual.
+
+.
+
+## 26. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 ([S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529))[^key-fa38e958859a47627dafe2e8d13e4635]
+
+(1) The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00034] is amended as follows.
+
+(2) In article 2(1) (interpretation: general)—
+
+- (a) omit the definitions of “the 1985 Act” and “the 1986 Order” and in their place insert ““the 2006 Act” means the Companies Act 2006”;
+- (b) in the definition of “equity share capital”, for “the 1985 Act or in the 1986 Order” substitute “the 2006 Act (see section 548)”.
+
+(3) In article 3 (interpretation: unlisted companies)—
+
+- (a) in paragraph (1)(c), for the words from “section 163(2)(b)” to the end substitute “section 693(3)(b) of the 2006 Act”;
+- (b) in paragraph (3)—
+  - (i) in sub–paragraph (a), for “the 1985 Act” substitute “the 2006 Act (see section 1)” and at the end insert “(see sections 540(1) and (4) and 738)”;
+  - (ii) omit sub–paragraph (b).
+
+(4) In article 8A (interpretation: outgoing electronic commerce communications)—
+
+- (a) in paragraph (2), for the words from “section 264(2)” to “1986 Order)” substitute “section 831(2) and (3) of the 2006 Act”;
+- (b) in paragraph (3)(a), for the words from “section 163(2)(b) to “1986 Order)” substitute “section 693(3)(b) of the 2006 Act”.
+
+(5) In article 25(3) (relevant insurance activity: non–real time communications: reinsurance and large risks)—
+
+- (a) for sub–paragraph (a) substitute—
+
+  > - (a) the aggregate of the amounts shown as assets in the balance sheet of the business was 6.2 million euros;
+
+  ;
+- (b) in sub–paragraph (b) for the words from “section 262(1)” to “1986 Order” substitute “section 474(1) of the 2006 Act”;
+- (c) in sub–paragraph (c) for the words from “section 247(6)” to “1986 Order” substitute “section 465(6) of the 2006 Act”.
+
+(6) In article 49 (high net worth companies, unincorporated associations etc)—
+
+- (a) in paragraph (5), for “the 1985 Act or in the 1986 Order” substitute “the 2006 Act (see section 547)”;
+- (b) in paragraph (7), for the words from “section 264” to the end substitute “section 831 of the 2006 Act”.
+
+(7) In article 59(1)(b) (annual accounts and directors’ report)—
+
+- (a) for paragraph (i) substitute—
+
+  > - (i) sections 415 and 419 of the 2006 Act; or
+
+  ;
+- (b) omit paragraph (ii);
+- (c) in paragraph (iii) omit “or (ii)”.
+
+(8) In article 59(7)—
+
+- (a) in sub–paragraph (a), for “Part VII of the 1985 Act” substitute “Part 15 of the 2006 Act”;
+- (b) omit sub–paragraph (b);
+- (c) in sub–paragraph (c), for “section 251 of the 1985 Act” substitute “section 426 of the 2006 Act”;
+- (d) for sub–paragraph (d) substitute—
+
+  > - (d) accounts produced in accordance with Chapter 3 of Part 5 of the Overseas Companies Regulations 2009[^f00035] and filed with the registrar under section 441 of the 2006 Act as applied and modified by regulation 40 of those Regulations;
+
+  .
+
+(9) In Part 2 (accompanying material) of Schedule 4 (takeovers of relevant unlisted companies)—
+
+- (a) in paragraph 14, for “the 1985 Act or the 1986 Order” substitute “the 2006 Act”;
+- (b) in paragraph 16—
+  - (i) in sub–paragraph (c), omit the words from “and which” to the end;
+  - (ii) in sub–paragraph (d), omit the words from “and which” to the end;
+- (c) in paragraph 28(2)—
+  - (i) in sub–paragraph (b)—
+    - (aa) for “Part VII of the 1985 Act” substitute “Part 15 of the 2006 Act”;
+    - (bb) for “section 249A or 249AA” substitute “section 477 or 480”;
+    - (cc) omit the words from “or been exempt” to the end;
+  - (ii) for the words from “Part VII” to the end substitute “Part 15 of the 2006 Act”;
+- (d) in paragraph 34(a), for the words from “section 204” to “Order” substitute “section 824 of the 2006 Act”;
+- (e) in paragraph 38, for “the 1985 Act or the 1986 Order” substitute “the 2006 Act”.
+
+(10) In Part 3 (additional material available for inspection) of Schedule 4—
+
+- (a) in paragraph 43, for “the 1985 Act or the 1986 Order” substitute “the 2006 Act”;
+- (b) in paragraph 44, for “the 1985 Act or the 1986 Order” substitute “the 2006 Act”;
+- (c) in paragraph 45—
+  - (i) in sub–paragraph (b)—
+    - (aa) for “Part VII of the 1985 Act” substitute “Part 15 of the 2006 Act”;
+    - (bb) for “section 249A or 249AA” substitute “section 477 or 480”;
+    - (cc) omit the words from “or been exempt” to the end;
+  - (ii) for the words from “Part VII” to the end substitute “Part 15 of the 2006 Act”.
+
+## 27. The Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005 ([S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998))[^key-2533555c3108d26daef8ca4d17250fc5]
+
+(1) The Insurers (Reorganisation and Winding Up) (Lloyd’s) Regulations 2005[^f00036] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) in the definition of “company”, for “section 735 of the 1985 Act or Article 3 of the Companies Order” substitute “section 1 of the 2006 Act”;
+- (b) in the definition of “subsidiary of the Society”, for the words from “section 736” to the end substitute “section 1159 of the 2006 Act”.
+
+(3) In regulation 8 (moratorium)—
+
+- (a) in paragraph (6)(c), for “section 425 of the 1985 Act or Article 418 of the Companies Order” substitute “section 899 of the 2006 Act”;
+- (b) in paragraph (8)(b), for “section 425 or Article 418” substitute “section 899”.
+
+(4) In the heading to regulation 18 (powers of reorganisation controller: section 425 or Article 418 compromise or arrangement), for the words after the colon substitute “section 899 compromise or arrangement”.
+
+(5) In regulation 18—
+
+- (a) in paragraph (1), for the words from “section 425(1)” to “members)” substitute “section 896(1) of the 2006 Act (court order for holding of meeting)”;
+- (b) in paragraph (2), for “section 425(1) or Article 418” substitute “section 896(1)”;
+- (c) in paragraph (3), for “section 425(1) or Article 418(1)” substitute “section 896(1)”.
+
+(6) In regulation 20(6) (reorganisation controller’s powers: administration orders in respect of members), for the words from “section 425” to the end substitute “section 896 of the 2006 Act”.
+
+(7) In regulation 23(4) (voluntary winding up of members: consent of reorganisation controller), for the words from “section 380” to “Order)” substitute “section 30 of the 2006 Act”.
+
+(8) In regulation 24(6) (voluntary winding up of members: powers of reorganisation controller), for the words from “section 425” to the end substitute “section 896 of the 2006 Act”.
+
+(9) In regulation 26(5) (winding up of a member: powers of reorganisation controller), for the words from “section 425” to the end substitute “section 896 of the 2006 Act”.
+
+(10) In regulation 30(6) (winding up of the Society: service of petition etc. on reorganisation controller), for “section 425 of the 1985 Act” substitute “section 896 of the 2006 Act”.
+
+(11) In regulation 43 (application of Part 4 of the principal Regulations: protection of settlements)—
+
+- (a) in paragraph (3), for “relevant section 425 or Article 418 compromise or arrangement” substitute “relevant compromise or arrangement”;
+- (b) for paragraph (5)(c), substitute—
+
+  > - (c) “a relevant compromise or arrangement” means—
+  >   - (i) a compromise or arrangement—
+  >     - (aa) sanctioned by the court under section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act),
+  >     - (bb) sanctioned by the court under Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order), or
+  >     - (cc) which is a section 899 compromise or arrangement,
+  >
+  >     that was sanctioned by the court before the date on which an application for a Lloyd’s market reorganisation order was made, or
+  >   - (ii) any subsequent compromise or arrangement—
+  >     - (aa) sanctioned by the court as mentioned in paragraph (i)(aa) or (bb), or
+  >     - (bb) which is a section 899 compromise or arrangement,
+  >
+  >     that was sanctioned by the court to amend or replace a compromise or arrangement of the kind mentioned in paragraph (i);
+
+  .
+
+(12) For regulation 44(6)(c) (challenge by reorganisation controller to conduct of insolvency practitioner) substitute—
+
+> - (c) a compromise or arrangement sanctioned by the court before the date when the Lloyd’s market reorganisation order was made which is—
+>   - (i) a section 899 compromise or arrangement,
+>   - (ii) a compromise or arrangement sanctioned under section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act), or
+>   - (iii) a compromise or arrangement sanctioned under Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order).
+
+.
+
+(13) In regulation 47 (application of Part 5 of the principal Regulations: protection of dispositions etc made before a Lloyd’s market reorganisation comes into force)—
+
+- (a) in paragraph (3), for “relevant section 425 or Article 418 compromise or arrangement” substitute “relevant compromise or arrangement”;
+- (b) for paragraph (5)(c), substitute—
+
+  > - (c) “relevant compromise or arrangement” means—
+  >   - (i) a compromise or arrangement—
+  >     - (aa) sanctioned by the court under section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act),
+  >     - (bb) sanctioned by the court under Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order), or
+  >     - (cc) which is a section 899 compromise or arrangement,
+  >
+  >     that was sanctioned by the court before the date on which an application for a Lloyd’s market reorganisation order was made, or
+  >   - (ii) any subsequent compromise or arrangement—
+  >     - (aa) sanctioned by the court as mentioned in sub–paragraph (aa) or (bb) of paragraph (i), or
+  >     - (bb) which is a section 899 compromise or arrangement,
+  >
+  >     that was sanctioned by the court to amend or replace a compromise or arrangement of the kind mentioned in paragraph (i);
+
+  .
+
+## 28. The Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46)[^key-7a0223741d7fd3a5e532a00a83e7d49f]
+
+(1) The Companies Act 2006 is amended as follows.
+
+(2) In section 766(1) (power to make provision as to application of authorised minimum), for paragraph (a) substitute—
+
+> - (a) has shares denominated—
+>   - (i) in more than one currency, or
+>   - (ii) in a currency other than sterling or euros,
+
+.
+
+(3) In section 899(3) (court sanction for compromise or arrangement), for “agreement” substitute “arrangement”.
+
+(4) In section 915(5) (exception to right of inspection of documents on a merger), for “subsection (3)” substitute “subsection (4)”.
+
+## 29. The European Cooperative Society Regulations 2006 ([S.I. 2006/2078](https://www.legislation.gov.uk/uksi/2006/2078))[^key-3163e76e0e20c17e68abec07300e60ed]
+
+In regulation 39(2) (expression of capital) of the European Cooperative Society Regulations 2006, for sub–paragraphs (a) and (b) substitute “by section 4(2) of the Companies Act 2006”.
+
+## 30. The Money Laundering Regulations 2007 ([S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157))[^key-9fb4fba1b9c768922b5196b5abffba3b]
+
+In regulation 49(1)(r) (obligations on public authorities) of the Money Laundering Regulations 2007[^f00037], for “446 (investigation of share dealings)” substitute “446D (appointment of replacement inspectors)”[^f00038] and omit “or under Article 424, 425, 435 or 439 of the Companies (Northern Ireland) Order 1986”.
+
+## 31. Transitional Provision: Northern Ireland open-ended investment companies[^key-a2c0fdd85526778724b55d4e7309f122]
+
+Schedule 3 to this Order contains transitional provisions and savings in connection with—
+
+- (a) the extension to Northern Ireland of the enactments in force in Great Britain relating to open-ended investment companies; and
+- (b) the consequent repeal of the Open-Ended Investment Companies Act (Northern Ireland) 2002[^f00039].
+
+## 32. Revocation of instruments ceasing to have effect[^key-9f5f9fadd63f1325d95b2b2e158ebd6e]
+
+The following instruments (which ceased to have effect on 1st October 2009) are revoked—
+
+- (a) the Companies (Single Member Private Limited Companies) Regulations 1992[^f00040]; and
+- (b) the Companies (Single Member Private Limited Companies) (Northern Ireland) Regulations 1992[^f00041].
+
+Michael Fabricant
+
+Angela Watkinson
+
+Two of the Lords Commissioners of
+
+Her Majesty’s Treasury
+
+11th May 2011
+
+## SCHEDULE 1 — PROVISIONS RELATING TO OLD PUBLIC COMPANIES
+
+Article 5(1)
+
+### 1. Meaning of “old public company”[^key-798d56ed8c116d2d3c9ca24b04f4e372]
+
+For the purposes of this Schedule an “old public company” is a company limited by shares, or a company limited by guarantee and having a share capital, in respect of which the following conditions are met—
+
+- (a) the company either existed on 22nd December 1980 or was incorporated after that date pursuant to an application made before that date,
+- (b) on that date or, if later, on the day of the company’s incorporation, the company was not or (as the case may be) would not have been a private company within the meaning of section 28 of the Companies Act 1948[^f00042], and
+- (c) the company has not since that date or the day of the company’s incorporation (as the case may be) either been re-registered as a public company within the meaning of section 1(3) of the Companies Act 1985 or section 4(2) of the Companies Act 2006 or become a private company within the meaning of section 1(3) of the Companies Act 1985 or section 4(1) of the Companies Act 2006.
+
+### 2. Application of Companies Acts to old public companies[^key-165f0d88e6fb04aee5acd45be9db0063]
+
+(1) References in the Companies Acts to—
+
+- (a) a public company, or
+- (b) a company other than a private company,
+
+are to be read (unless the context otherwise requires) as including an old public company.
+
+(2) References in the Companies Acts to a private company are to be read accordingly.
+
+(3) Sub-paragraphs (1) and (2)—
+
+- (a) do not apply in relation to—
+  - (i) Part 7 of the Companies Act 2006 (re-registration as a means of altering a company’s status), and
+  - (ii) sections 662 to 669 of that Act (treatment of shares held by or for public company) (see paragraph 7(1) and (2) below), and
+- (b) do not restrict the power to make provision by regulations under section 65 of that Act (inappropriate use of indications of company type or legal form).
+
+### 3. Old public company re-registering as a public company[^key-df6a61c5190298d3e6b0a975a63e63bf]
+
+(1) Sections 90 to 96 of the Companies Act 2006 (re-registration as public company limited by shares) apply to an old public company.
+
+(2) As they so apply—
+
+- (a) references to a private company shall be read as references to an old public company, and
+- (b) references to a special resolution of the company shall be read as references to a resolution of the directors.
+
+(3) Chapter 3 of Part 3 of that Act (resolutions affecting a company’s constitution) applies to any such resolution.
+
+(4) References in this Schedule to re-registration as a public company, in relation to an old public company, are to re-registration by virtue of this paragraph.
+
+### 4. Old public company becoming private: special resolution[^key-8eec8f7bf8d75aa451482296c8c66b96]
+
+(1) An old public company may pass a special resolution not to be re-registered as a public company.
+
+(2) Sections 98 and 99 of the Companies Act 2006 (application to court to cancel resolution; notice to registrar of court application or order) apply to such a resolution as they would apply to a special resolution by a public company to be re-registered as private.
+
+(3) If either—
+
+- (a) 28 days from the passing of the resolution elapse without an application being made under section 98 of the Companies Act 2006 (as applied), or
+- (b) such an application is made and proceedings are concluded on the application without the court making an order for the cancellation of the resolution,
+
+  the registrar of companies shall issue the company with a certificate stating that it is a private company.
+
+(4) The company then becomes a private company by virtue of the issue of the certificate.
+
+(5) For the purposes of sub-paragraph (3)(b), proceedings on the application are concluded—
+
+- (a) except in a case within the following paragraph, when the period mentioned in section 99(3) of the Companies Act 2006 (as applied) for delivering a copy of the court’s order on the application to the registrar has expired, or
+- (b) when the company has been notified that the application has been withdrawn.
+
+(6) A certificate issued to a company under sub-paragraph (3) is conclusive evidence that the requirements of this paragraph have been complied with and that the company is a private company.
+
+### 5. Old public company becoming private: statutory declaration[^key-9f7c5a8436981032eb51b5ec60515fea]
+
+(1) If an old public company delivers to the registrar a statutory declaration by a director or secretary of the company that the company does not at the time of the declaration satisfy the conditions for the company to be re-registered as public, the registrar shall issue the company with a certificate stating that it is a private company.
+
+(2) The company then becomes a private company by virtue of the issue of the certificate.
+
+(3) A certificate issued to a company under sub-paragraph (1) is conclusive evidence that the requirements of this paragraph have been complied with and that the company is a private company.
+
+### 6. Failure by old public company to obtain new classification[^key-bb7c0bcc0c34be26bbaeb68401c55d03]
+
+(1) If at any time a company which is an old public company has not delivered to the registrar of companies a declaration under paragraph 5, the company and any officer of it who is in default is guilty of an offence unless at the time the company—
+
+- (a) has applied to be re-registered as a public company, and the application has not been refused or withdrawn, or
+- (b) has passed a special resolution not to be re-registered as a public company, and the resolution has not been revoked, and has not been cancelled under section 98 of the Companies Act 2006, as applied by paragraph 4.
+
+(2) A person guilty of an offence under this paragraph is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+
+### 7. Old public company holding, or having charge on, own shares[^key-b1ed1564808156dc874cd1b834d83ebe]
+
+(1) In sections 662 to 669 of the Companies Act 2006 (treatment of shares held by or for public company) references to a public company do not include an old public company.
+
+(2) Section 668 of that Act (application of sections 662 to 667 to private company re-registering as public company) applies to an old public company as to a private company.
+
+(3) In the case of a company that—
+
+- (a) after 22nd March 1982 remained an old public company, and
+- (b) did not before that date apply to be re-registered as a public company,
+
+any charge on its own shares which was in existence on or immediately before that date is a permitted charge and not void under section 670 of the Companies Act 2006.
+
+### 8. Old public companies: trading under misleading name[^key-008aa2b5d960bbea73d444ad9dbabf12]
+
+(1) An old public company commits an offence if it carries on a trade, profession or business under a name that includes, as its last part, the words “public limited company” or “cwmni cyfyngedig cyhoeddus”.
+
+(2) Where an offence under this paragraph is committed by a company, an offence is also committed by every officer of the company who is in default.
+
+(3) A person guilty of an offence under this paragraph is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+
+### 9. Old public companies: payment for share capital[^key-dff77d0c753ebb1ec5a3cb799778221a]
+
+Sections 584 to 587 of the Companies Act 2006 (payment for shares: additional rules for public companies) apply to an old public company whose directors have passed and not revoked a resolution to be re-registered as a public company, as those sections apply to a public company.
+
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS TO THE OPEN-ENDED INVESTMENT COMPANIES REGULATIONS 2001
+
+Article 15
+
+**1.**[^key-36ec5c205a15911081b3a13391321a70] The Open-Ended Investment Companies Regulations 2001[^f00043] are amended as follows.
+
+**2.**[^key-ae0ea180013c207d9407c26a1ac3bee5] In regulation 1 (citation, commencement and extent), for paragraph (3) substitute—
+
+> (3) Except as otherwise provided, these Regulations extend to the whole of the United Kingdom[^f00044].
+
+.
+
+**3.**[^key-dad2a4a767a2e463ed9dfcc1f16c9548] In regulation 2(1) (interpretation) —
+
+- (a) omit the definition of “the 1985 Act” and insert in the appropriate place—
+
+  > - “the 1989 Order” means the Insolvency (Northern Ireland) Order 1989[^f00045];
+  > - “the 2006 Act” means the Companies Act 2006;
+
+  ;
+- (b) in the definition of “the appropriate registrar”, after paragraph (b) insert—
+
+  > - (c) the registrar of companies for Northern Ireland if the company’s instrument of incorporation states that its head office is to be situated in Northern Ireland;
+
+  ;
+- (c) in the definition of “court”, in paragraph (a) after “England and Wales” insert “or Northern Ireland”;
+- (d) for the definition of “open-ended investment company” substitute—
+
+  > - “open-ended investment company” means—
+  >   - (a) a body incorporated by virtue of regulation 3(1), or
+  >   - (b) a body treated as so incorporated by virtue of—
+  >     - (i) regulation 85(3)(a) (bodies incorporated under earlier British regulations), or
+  >     - (ii) Schedule 3 to the Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (transitional provisions: Northern Ireland open-ended investment companies);
+
+  .
+
+**4.**[^key-b24707c2fe0d116e636e14f5d331b603] In regulation 13 (particulars of directors)—
+
+- (a) in paragraph (1)(b), for “of Scottish firm” substitute “or firm that is a legal person under the law by which it is governed”;
+- (b) in paragraph (4)(c), for “Great Britain” substitute “the United Kingdom”;
+- (c) in paragraph (5), for “section 735(1) of the 1985 Act” substitute “section 1 of the 2006 Act”, and for “of the Companies Act 2006” substitute “of that Act”.
+
+**5.**[^key-6638e7d10b0918790e970df09095c595] In regulation 15(3) (requirements for authorisation), for “in England and Wales, Wales or Scotland” substitute “in England and Wales (or Wales), in Scotland or in Northern Ireland”.
+
+**6.**[^key-72b643b54da6dc1870c1d6ba3ffe326a] In regulation 20 (registrar’s index of company names) omit paragraph (2).
+
+**7.**[^key-5e18750ad6fa603f6e62ef04673d0e57] In regulation 31 (winding up by the court)—
+
+- (a) in paragraph (1)—
+  - (i) after “Part V of the 1986 Act” insert “or Part 6 of the 1989 Order”, and
+  - (ii) after “that Act” insert “or that Order”;
+- (b) in paragraph (2)—
+  - (i) for “section 124” substitute “section 124 of the 1986 Act or Article 104 of the 1989 Order”,
+  - (ii) for “section 124A of the 1986 Act” substitute “section 124A of that Act or Article 104A of that Order”,
+  - (iii) after “those sections” insert “or Articles”, and
+  - (iv) after “Part V of that Act” insert “or Part 6 of that Order”;
+- (c) in paragraph (4)—
+  - (i) after “Part V of the 1986 Act” insert “or Part 6 of the 1989 Order”, and
+  - (ii) in paragraph (a) for “section 129(2) of the 1986 Act” substitute “section 129(2) of that Act or Article 109(2) of that Order”.
+
+**8.**[^key-807c35730331eab40c3f1a14fd27faf3] In regulation 32 (dissolution on winding up by the court)—
+
+- (a) in paragraph (1)—
+  - (i) after “Section 172(8) of the 1986 Act” insert “or Article 146(7) of the 1989 Order”, and
+  - (ii) after “Part V of that Act” insert “or Part 6 of that Order”;
+- (b) In paragraph (2) after “section 172(8) of the 1986 Act” insert “or Article 146(7) of the 1989 Order”.
+
+**9.**[^key-d474028c3410f0d5f714de95019cd6a2] In regulation 33(4) (dissolution in other circumstances), for “in England and Wales, or Wales” substitute “in England and Wales (or Wales) or in Northern Ireland”.
+
+**10.**[^key-0220bd4f07029dc4bc413d5c23575a69] In regulation 34A[^f00046] (removal of certain directors by ordinary resolution)—
+
+- (a) in paragraph (2)(a), for “not less than one-tenth” substitute “at least the required percentage”;
+- (b) after paragraph (2), insert—
+
+  > (2A) The required percentage is 10% unless more than twelve months has elapsed since the end of the last general meeting—
+  >
+  > - (a) called in pursuance of a members’ requisition under this regulation, or
+  > - (b) in relation to which the members of the company had (by virtue of an enactment, the company’s instrument of incorporation or otherwise) rights with respect to the circulation of a resolution no less extensive than they would have had if the meeting had been called at their request,
+  >
+  > in which case the required percentage is 5%.
+
+  .
+
+**11.**[^key-59320f93103be47f7b4aa3e60f90ce12] In regulation 36 (inspection of directors’ service contracts), for paragraph (3)(b) and (c), substitute—
+
+> - (b) a place that is situated in the part of the United Kingdom in which the company is registered, which has been notified to the Authority as being the company’s alternative inspection location.
+
+**12.**[^key-b698d81f7cb9cb451a00984fe6c71dfe] Omit regulation 41 (exclusion or deemed notice).
+
+**13.**[^key-6ff6dc4df49bfd9bcc96361b39aa69ab] In regulation 46(8) (share certificates), after “England and Wales” insert “or Northern Ireland”.
+
+**14.**[^key-c1f3efe896165214b7ef5561b549bcab] Omit regulation 50 (power to close register).
+
+**15.**[^key-fce04f1792347eedd790be8b2c918b7f] In regulation 54 (name to appear in correspondence etc)—
+
+- (a) in paragraph (1), for “have its name mentioned in legible characters” to the end substitute “disclose its name in characters that can be read with the naked eye in all letters of the company, in all other documents issued by the company in the course of business, and on its website.”;
+- (b) omit paragraph (2).
+
+**16.**[^key-60690aed52c7dffa6184a2f7b8fe21fd] In regulation 55 (particulars to appear in correspondence etc), in paragraph (1), for “mentioned in legible characters in all letters of the company and in all other documents issued by the company in the course of business” substitute “disclosed in characters that can be read with the naked eye in all letters of the company, in all other documents issued by the company in the course of business, and on its websites”.
+
+**17.**[^key-42e872638a90defe5ccf22a3fdc23d30] In the heading to regulation 56 (contracts: England and Wales) and in the regulation, after “England and Wales” insert “or Northern Ireland”.
+
+**18.**[^key-1f2e45384a8b393aa6b4fe965547271b] In the heading to regulation 57 (execution of documents: England and Wales) and in paragraph (1), after “England and Wales” insert “or Northern Ireland”.
+
+**19.**[^key-259b8ca768b7ed95de2068640bd162e2] (1) For the heading to regulation 58 (execution of deeds overseas: England and Wales) substitute “execution of deeds or other documents by attorney”.
+
+(2) In regulation 58—
+
+- (a) in paragraph (1)—
+  - (i) after “England and Wales” insert “or Northern Ireland”;
+  - (ii) for “by writing under its common seal” substitute “by instrument executed as a deed”;
+  - (iii) omit the words “in any place elsewhere than in the United Kingdom”;
+- (b) in paragraph (2), for “has the same effect as if it were executed under the company’s common seal” substitute “has effect as if executed by the company.”
+
+**20.**[^key-1d166371afb883ec1367adc08f565ba0] Omit regulation 59 (authentication of documents: England and Wales).
+
+**21.**[^key-9bc771158a92c1698d244c18ab15874e] In regulation 60 (official seal for share certificates), omit paragraph (3).
+
+**22.**[^key-a13e3a0924925dbf15ed47d0d317b247] In regulation 61(2)(a), after “England and Wales” insert “or Northern Ireland”.
+
+**23.**[^key-70bdcb4e0613b2d691ac1670a0e8f597] In regulation 64 (punishment for fraudulent trading)—
+
+- (a) in paragraph (1)(a), for “two” substitute “ten”;
+- (b) for paragraph (1)(b), substitute—
+
+  > - (b) on summary conviction—
+  >   - (i) in England and Wales, to imprisonment for a term not exceeding twelve months or a fine not exceeding the statutory maximum (or both);
+  >   - (ii) in Scotland or Northern Ireland, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both).
+
+  .
+
+**24.**[^key-a2e23cc7c4b162597aea5d9e657a584e] In regulation 65 (power to provide for employees on cessation or transfer of business)—
+
+- (a) at the beginning of paragraph (3)(b), insert the words “subject to paragraph (4)”;
+- (b) after paragraph (3), insert—
+
+  > (4) A resolution of the directors is not sufficient sanction for payments to or for the benefits of directors, former directors or shadow directors.
+
+  .
+
+**25.**[^key-0c4717ab6e7faa37eb759c52a4f57fb9] In regulation 66 (reports: preparation), omit paragraph (3).
+
+**26.**[^key-ed27a95b7ecf9cfa92476133d415db31] In regulation 74 (keeping of company records by the Authority)—
+
+- (a) in paragraph (1) omit the words “in legible form”;
+- (b) for paragraph (2) substitute—
+
+  > (2) The originals of documents delivered to the Authority under any provision of these Regulations in hard copy form must be kept for three years after they are received by the Authority, after which they may be destroyed provided the information contained in them has been recorded in the register.
+  >
+  > (2A) The Authority is under no obligation to keep the originals of documents delivered in electronic form, provided the information contained in them has been recorded in the register.
+
+  ;
+- (c) after paragraph (4) insert—
+
+  > (5) Paragraphs (2) and (2A) apply to documents held by the Authority when this paragraph comes into force as well as to documents subsequently received.
+
+  .
+
+**27.**[^key-cd698f4150e9edcbb3627fdf5dd4d3b3] In regulation 75 (inspection etc of records kept by the Authority)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) Any person may inspect the register kept by the Authority for the purposes of this Part of these Regulations, and may require a copy of any material on the register.
+  >
+  > (1A) The Authority may specify the form and manner in which an application is to be made for inspection or a copy under paragraph (1).
+  >
+  > (1B) Copies of documents required to be registered under regulation 4 must be provided in hard copy or electronic form, as the applicant requests.
+  >
+  > (1C) The Authority is not obliged by paragraph (1B) to provide copies in electronic form of a document that was delivered to the Authority in hard copy form if the document was delivered to the Authority on or before 31st December 2006 and ten years or more elapsed between the date of delivery and the date of receipt of the first application for a copy.
+  >
+  > (1D) Subject to paragraphs (1B) and (1C), the Authority may determine the form and manner in which copies are to be provided.
+  >
+  > (1E) Copies provided under paragraph (1) in hard copy form must be certified as true copies unless the applicant dispenses with such certification.
+  >
+  > (1F) Copies provided under paragraph (1) in electronic form must not be certified as true copies unless the applicant expressly requests such certification.
+
+  ;
+- (b) in paragraph (2), for “in legible form” substitute “in hard copy form”;
+- (c) in paragraph (3), for “a copy of or extract from a record kept by the Authority under these Regulations” substitute “a copy provided under this regulation”.
+
+**28.**[^key-b0d06c16d1025c13506bb9c73e0e3a12] (1) In the heading to regulation 76 (provision by the Authority of documents in non-legible form), for “in non-legible form” substitute “in electronic form”.
+
+(2) In regulation 76, for “in any non-legible form it thinks appropriate”, substitute “in electronic form”.
+
+**29.**[^key-2284ad3126b906ffa20beefa027c960e] Omit regulation 79 (exclusion of deemed notice).
+
+**30.**[^key-5e2069cde05cfda094dc024d5e9731f4] In Schedule 2 (instrument of incorporation), in paragraph 2(a) (statement as to situation of head office) for “in England and Wales, Wales or Scotland” substitute “in England and Wales (or Wales), in Scotland or in Northern Ireland”.
+
+**31.**[^key-002eb30d3afeb660d0866f648d1a4a57] In Schedule 3 (register of shareholders)—
+
+- (a) in paragraph 3(1) after “England and Wales” insert “or Northern Ireland”;
+- (b) for paragraph 9 (location), substitute—
+
+  > **9.** The register of shareholders of a company must be kept available for inspection—
+  >
+  > - (a) at its head office, or
+  > - (b) where an alternative inspection location has been notified to the Authority under regulation 36(3)(b), at that place.
+
+  ;
+- (c) omit paragraph 12 (agent’s default).
+
+**32.**[^key-f9aeb88accb39b4ce8da080e1dc14087] In Schedule 4 (share transfers), in paragraph 5(3)(a) after “Stock Transfer Act 1963” insert “or the Stock Transfer (Northern Ireland) Act 1963[^f00047]”.
+
+**33.**[^key-456235db646caeee66c5b1a45dd9b961] In Schedule 6 (mergers and divisions), in paragraph 6(3)—
+
+- (a) in paragraph (e), omit “memorandum and”;
+- (b) in paragraph (f), for the words from “section 103” to “allotment)” substitute “section 593 of the 2006 Act (public company: valuation of non-cash consideration for shares)”.
+
+## SCHEDULE 3 — TRANSITIONAL PROVISIONS: NORTHERN IRELAND OPEN-ENDED INVESTMENT COMPANIES
+
+Article 31
+
+### 1. Main transitional provisions[^key-0a0695e873d301bffba713d420ab55d3]
+
+(1) An open-ended investment company that immediately before the date this Order comes into force was incorporated under the Open-Ended Investment Companies Regulations (Northern Ireland) 2004[^f00048] (or was treated as so incorporated) is treated on and after that date as incorporated under regulation 3(1) of the Open-Ended Investment Companies Regulations 2001[^f00049].
+
+(2) Anything done (including subordinate legislation made), or having effect as if done, under or for the purposes of any repealed Northern Ireland provision, if in force or effective immediately before the date this Order comes into force, has effect on and after that date as if done under or for the purposes of the corresponding UK provision.
+
+(3) Any reference (express or implied) in any enactment, instrument or document to a UK provision shall be construed (so far as the context permits) as including, as respects times, circumstances or purposes in relation to which the corresponding repealed Northern Ireland provision had effect, a reference to that corresponding provision.
+
+(4) Any reference (express or implied) in any enactment, instrument or document to a repealed Northern Ireland provision shall be construed (so far as the context permits), as respects times, circumstances and purposes in relation to which the corresponding UK provision has effect, as being or (according to the context) including a reference to that corresponding provision.
+
+(5) In this paragraph—
+
+- “repealed Northern Ireland provision” means—
+  - (a) any provision of the Open-Ended Investment Companies Act (Northern Ireland) 2002[^f00050], or
+  - (b) any provision made under that Act that ceased to have effect as from 1st October 2009;
+- “UK provision” means section 262 of the Financial Service and Markets Act 2000 and any provision made under that section that on and after the date this Order comes into force extends to the whole of the United Kingdom.
+
+(6) References in sub-paragraph (5) to provision made under an Act include provisions applied by any such provision.
+
+### 2. Applications for authorisation in respect of Northern Ireland Open-Ended Investment Company[^key-0f81eb80c7603e915994c6eeb6d697de]
+
+(1) This paragraph applies to applications for an authorisation order in respect of an open-ended investment company whose registered office is to be in Northern Ireland.
+
+(2) The provisions of the Open-Ended Investment Companies Regulations 2001 apply to applications received by the Financial Services Authority or the Financial Conduct Authority[^key-fca96840bf80d7157443f7efaa210e3a] on or after the date this Order comes into force.
+
+(3) Any application for an authorisation order under those provisions received by the Financial Services Authority[^key-5bf2f5c658e2f294a56fd933b07f95e9] before that date shall not be considered.
+
+(4) The corresponding provisions of the Open-Ended Investment Companies (Northern Ireland) Regulations 2004 continue to apply to an application for an authorisation order if—
+
+- (a) it is received by the Authority, and
+- (b) the requirements of those Regulations are met in relation to it,
+
+before the date on which this Order comes into force.
+
+(5) Any application for an authorisation order under those Regulations in relation to which the requirements of those Regulations are not met before that date shall be treated as withdrawn.
+
+(6) For the purposes of paragraph 1 above as it applies to treat an open-ended investment company incorporated under the Open-Ended Investment Companies (Northern Ireland) Regulations 2004 as incorporated under the Open-Ended Investment Companies Regulations 2001, an open-ended investment company that is incorporated on an application to which sub-paragraph (4) above applies is treated as if it had been incorporated immediately before the date this Order comes into force.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes amendments to primary and secondary legislation which are consequential on certain provisions of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46) having been brought into force, including the replacement of references to various provisions of the Companies Act [1985 (c.6)](https://www.legislation.gov.uk/ukpga/1985/6) with references to the appropriate, superseding provisions of the Companies Act 2006 and the removal of references to the repealed Companies (Northern Ireland) Order 1986 ([S.I. 1986/1032 (N.I.6)](https://www.legislation.gov.uk/nisi/1986/1032)).
+
+Articles 4 and 5 of this Order have the effect of ensuring that there are valid savings provisions in place in respect of the Companies Consolidation (Consequential Provisions) Act [1985 (c.9)](https://www.legislation.gov.uk/ukpga/1985/9).
+
+Schedule 2 to this Order makes consequential amendments to the Open-Ended Investment Companies Regulations 2001 ([S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228)) to ensure that the regime for open-ended investment companies is consistent with the Companies Act 2006.
+
+The Companies Act 2006 (Commencement No. 8, Transitional Provisions and Savings) Order 2008 ([S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860)) repealed the Open-Ended Investment Companies Act (Northern Ireland) [2002 (c.13 (N.I.)](https://www.legislation.gov.uk/nia/2002/13)). Schedule 3 to this Order contains transitional provisions in relation to open-ended investment companies which were incorporated under the Open-Ended Investment Companies (Northern Ireland) Regulations 2004 ([S.R. (NI) 2004 No 335](https://www.legislation.gov.uk/nisr/2004/335)).
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-1cf930a44f6a00c9cbfd83f186bb3bbc]: Commencement: Art. 1 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-b799a55b8e4aaf3055f83a5a45d71328]: Commencement: Art. 2 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-f9cf90d856943182befb36c47474af7b]: Commencement: Art. 3 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00002]: Footnote: [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), to which there are amendments not relevant to this Order.
+
+[^key-f021244864328c6d92edbde6819319f5]: Commencement: Art. 4 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00003]: Footnote: [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^f00004]: Footnote: [1960 c.22 (N.I.)](https://www.legislation.gov.uk/apni/1960/22).
+
+[^f00005]: Footnote: [S.I. 1986/1032 (N.I.6)](https://www.legislation.gov.uk/nisi/1986/1032).
+
+[^key-52aec22489f625f0db0ce10d98f086a0]: Commencement: Art. 5 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-91498faeb220ade93afdfb32fc3ed539]: Commencement: Art. 6 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00006]: Footnote: Part 2 of the Act, including section 24, was replaced by section 248(1) of the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40) but the operation of the original provisions was saved for the purposes indicated.
+
+[^f00007]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^f00008]: Footnote: [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), to which there are amendments not relevant to this Order.
+
+[^f00009]: Footnote: Section 122(1)(e) was amended by [S.I. 1992/1699](https://www.legislation.gov.uk/uksi/1992/1699).
+
+[^key-77e9b4d0301f86efd8ec175c5be89aea]: Commencement: Art. 7 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00010]: Footnote: Article 102(e) was amended by [S.R. (NI) 1992 No 405](https://www.legislation.gov.uk/nisr/1992/405).
+
+[^key-1aa311134b43d5fd2f5f9c882e41bfed]: Commencement: Art. 8 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00011]: Footnote: [S.I. 1998/212](https://www.legislation.gov.uk/uksi/1998/212), to which there are amendments not relevant to this Order.
+
+[^key-ec58011230aa59141d8859ee5926fc72]: Commencement: Art. 9 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00012]: Footnote: [S.I. 1998/504](https://www.legislation.gov.uk/uksi/1998/504), to which there are amendments not relevant to this Order.
+
+[^f00013]: Footnote: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410), to which there are amendments not relevant to this Order.
+
+[^key-e35284fa42562c80f172608f898149d0]: Commencement: Art. 10 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00014]: Footnote: [S.I. 1998/1130](https://www.legislation.gov.uk/uksi/1998/1130), to which there are amendments not relevant to this Order.
+
+[^key-297386ae9baac8e5f57d7d7b86a56ad2]: Commencement: Art. 11 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00015]: Footnote: [S.I. 1998/1270](https://www.legislation.gov.uk/uksi/1998/1270), to which there are amendments not relevant to this Order.
+
+[^key-6db708d071b42154c00f652f0f12dd03]: Commencement: Art. 12 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-3433f2ce7dfd09f506e665639b94449f]: Commencement: Art. 13 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00016]: Footnote: Article 18A was inserted by [S.I. 2003/2822](https://www.legislation.gov.uk/uksi/2003/2822).
+
+[^f00017]: Footnote: Section 162A was inserted by [S.I. 2003/1116](https://www.legislation.gov.uk/uksi/2003/1116).
+
+[^f00018]: Footnote: Section 162D was inserted by [S.I.2003/1116](https://www.legislation.gov.uk/uksi/2003/1116).
+
+[^f00019]: Footnote: Article 72B was inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
+
+[^f00020]: Footnote: The definition of “small business” was inserted by [S.I. 2007/3510](https://www.legislation.gov.uk/uksi/2007/3510).
+
+[^f00021]: Footnote: Article 72D was inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
+
+[^key-4c0ef94cc0d882219e064573fc9ed137]: Commencement: Art. 14 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00022]: Footnote: Article 5A was inserted by [S.I. 2002/2157](https://www.legislation.gov.uk/uksi/2002/2157).
+
+[^key-376c0c8bf41cd3ecc11c273baf62015a]: Commencement: Art. 15 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-52886274c0a9ba0d688b6b2cbd91066d]: Commencement: Art. 16 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00023]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188), to which there are amendments not relevant to this Order.
+
+[^key-bc714d07d0370a0cfb596cfbc18b5f10]: Commencement: Art. 17 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00024]: Footnote: [S.I. 2001/2587](https://www.legislation.gov.uk/uksi/2001/2587), to which there are amendments not relevant to this Order.
+
+[^key-747178caa3cdefe92455878ee39cdb70]: Commencement: Art. 18 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-bc6f87e922c649c31116b08354490225]: Commencement: Art. 19 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00025]: Footnote: Regulation 3(a) was amended by [S.I. 2001/3439](https://www.legislation.gov.uk/uksi/2001/3439).
+
+[^key-52518ea5cb789c942be907a80b19d895]: Commencement: Art. 20 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00026]: Footnote: [S.I. 2001/3625](https://www.legislation.gov.uk/uksi/2001/3625), to which there are amendments not relevant to this Order.
+
+[^key-687c4575bbed86cf91882b27877102d3]: Commencement: Art. 21 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00027]: Footnote: [S.I. 2001/3648](https://www.legislation.gov.uk/uksi/2001/3648), to which there are amendments not relevant to this Order.
+
+[^key-39a42112f3af598fa01da4740feef11e]: Commencement: Art. 22 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00028]: Footnote: [S.I. 2003/1593](https://www.legislation.gov.uk/uksi/2003/1593), to which there are amendments not relevant to this Order.
+
+[^f00029]: Footnote: [1985 c.7](https://www.legislation.gov.uk/ukpga/1985/7).
+
+[^f00030]: Footnote: [S.I. 2008/495](https://www.legislation.gov.uk/uksi/2008/495), amended by [S.I. 2009/218](https://www.legislation.gov.uk/uksi/2009/218).
+
+[^key-253551bddddff9dd77af1e1368840005]: Commencement: Art. 23 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00031]: Footnote: [S.I. 2004/353](https://www.legislation.gov.uk/uksi/2004/353), to which there are amendments not relevant to this Order.
+
+[^key-8bc0c985f50a6f7579cbca939149ddf7]: Commencement: Art. 24 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00032]: Footnote: [S.I. 2004/1045](https://www.legislation.gov.uk/uksi/2004/1045), to which there are amendments not relevant to this Order.
+
+[^key-9c331c5e96241f0b1dbadad9d1cf6fc8]: Commencement: Art. 25 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00033]: Footnote: [S.I. 2005/382](https://www.legislation.gov.uk/uksi/2005/382), to which there are amendments not relevant to this Order.
+
+[^key-fa38e958859a47627dafe2e8d13e4635]: Commencement: Art. 26 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00034]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529), to which there are amendments not relevant to this Order.
+
+[^f00035]: Footnote: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801).
+
+[^key-2533555c3108d26daef8ca4d17250fc5]: Commencement: Art. 27 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00036]: Footnote: [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998), to which there are amendments not relevant to this Order.
+
+[^key-7a0223741d7fd3a5e532a00a83e7d49f]: Commencement: Art. 28 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-3163e76e0e20c17e68abec07300e60ed]: Commencement: Art. 29 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-9fb4fba1b9c768922b5196b5abffba3b]: Commencement: Art. 30 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00037]: Footnote: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157), to which there are amendments not relevant to this Order.
+
+[^f00038]: Footnote: Section 446D of the Companies Act 1985 was inserted by the Companies Act 2006, section 1036.
+
+[^key-a2c0fdd85526778724b55d4e7309f122]: Commencement: Art. 31 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00039]: Footnote: [2002 c.13 (N.I.)](https://www.legislation.gov.uk/nia/2002/13).
+
+[^key-9f5f9fadd63f1325d95b2b2e158ebd6e]: Commencement: Art. 32 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00040]: Footnote: [S.I. 1992/1699](https://www.legislation.gov.uk/uksi/1992/1699).
+
+[^f00041]: Footnote: [S.R. (NI) 1992 No 405](https://www.legislation.gov.uk/nisr/1992/405).
+
+[^key-798d56ed8c116d2d3c9ca24b04f4e372]: Commencement: Sch. 1 para. 1 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00042]: Footnote: [1948 c.38](https://www.legislation.gov.uk/ukpga/1948/38).
+
+[^key-165f0d88e6fb04aee5acd45be9db0063]: Commencement: Sch. 1 para. 2 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-df6a61c5190298d3e6b0a975a63e63bf]: Commencement: Sch. 1 para. 3 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-8eec8f7bf8d75aa451482296c8c66b96]: Commencement: Sch. 1 para. 4 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-9f7c5a8436981032eb51b5ec60515fea]: Commencement: Sch. 1 para. 5 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-bb7c0bcc0c34be26bbaeb68401c55d03]: Commencement: Sch. 1 para. 6 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-b1ed1564808156dc874cd1b834d83ebe]: Commencement: Sch. 1 para. 7 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-008aa2b5d960bbea73d444ad9dbabf12]: Commencement: Sch. 1 para. 8 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-dff77d0c753ebb1ec5a3cb799778221a]: Commencement: Sch. 1 para. 9 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-36ec5c205a15911081b3a13391321a70]: Commencement: Sch. 2 para. 1 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00043]: Footnote: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228) as amended by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [2003/2066](https://www.legislation.gov.uk/uksi/2003/2066), [2005/923](https://www.legislation.gov.uk/uksi/2005/923), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2007/1973](https://www.legislation.gov.uk/uksi/2007/1973), [2008/948](https://www.legislation.gov.uk/uksi/2008/948), [2009/553](https://www.legislation.gov.uk/uksi/2009/553), [2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), [2010/22](https://www.legislation.gov.uk/uksi/2010/22).
+
+[^key-ae0ea180013c207d9407c26a1ac3bee5]: Commencement: Sch. 2 para. 2 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00044]: Footnote: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228) extends to Northern Ireland by virtue of section 1286(1) of the Companies Act 2006.
+
+[^key-dad2a4a767a2e463ed9dfcc1f16c9548]: Commencement: Sch. 2 para. 3 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00045]: Footnote: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405)
+
+[^key-b24707c2fe0d116e636e14f5d331b603]: Commencement: Sch. 2 para. 4 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-6638e7d10b0918790e970df09095c595]: Commencement: Sch. 2 para. 5 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-72b643b54da6dc1870c1d6ba3ffe326a]: Commencement: Sch. 2 para. 6 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-5e18750ad6fa603f6e62ef04673d0e57]: Commencement: Sch. 2 para. 7 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-807c35730331eab40c3f1a14fd27faf3]: Commencement: Sch. 2 para. 8 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-d474028c3410f0d5f714de95019cd6a2]: Commencement: Sch. 2 para. 9 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-0220bd4f07029dc4bc413d5c23575a69]: Commencement: Sch. 2 para. 10 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00046]: Footnote: Regulation 34A was inserted by [S.I. 2005/923](https://www.legislation.gov.uk/uksi/2005/923).
+
+[^key-59320f93103be47f7b4aa3e60f90ce12]: Commencement: Sch. 2 para. 11 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-b698d81f7cb9cb451a00984fe6c71dfe]: Commencement: Sch. 2 para. 12 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-6ff6dc4df49bfd9bcc96361b39aa69ab]: Commencement: Sch. 2 para. 13 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-c1f3efe896165214b7ef5561b549bcab]: Commencement: Sch. 2 para. 14 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-fce04f1792347eedd790be8b2c918b7f]: Commencement: Sch. 2 para. 15 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-60690aed52c7dffa6184a2f7b8fe21fd]: Commencement: Sch. 2 para. 16 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-42e872638a90defe5ccf22a3fdc23d30]: Commencement: Sch. 2 para. 17 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-1f2e45384a8b393aa6b4fe965547271b]: Commencement: Sch. 2 para. 18 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-259b8ca768b7ed95de2068640bd162e2]: Commencement: Sch. 2 para. 19 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-1d166371afb883ec1367adc08f565ba0]: Commencement: Sch. 2 para. 20 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-9bc771158a92c1698d244c18ab15874e]: Commencement: Sch. 2 para. 21 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-a13e3a0924925dbf15ed47d0d317b247]: Commencement: Sch. 2 para. 22 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-70bdcb4e0613b2d691ac1670a0e8f597]: Commencement: Sch. 2 para. 23 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-a2e23cc7c4b162597aea5d9e657a584e]: Commencement: Sch. 2 para. 24 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-0c4717ab6e7faa37eb759c52a4f57fb9]: Commencement: Sch. 2 para. 25 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-ed27a95b7ecf9cfa92476133d415db31]: Commencement: Sch. 2 para. 26 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-cd698f4150e9edcbb3627fdf5dd4d3b3]: Commencement: Sch. 2 para. 27 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-b0d06c16d1025c13506bb9c73e0e3a12]: Commencement: Sch. 2 para. 28 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-2284ad3126b906ffa20beefa027c960e]: Commencement: Sch. 2 para. 29 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-5e2069cde05cfda094dc024d5e9731f4]: Commencement: Sch. 2 para. 30 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-002eb30d3afeb660d0866f648d1a4a57]: Commencement: Sch. 2 para. 31 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-f9aeb88accb39b4ce8da080e1dc14087]: Commencement: Sch. 2 para. 32 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00047]: Footnote: [1963 c.24](https://www.legislation.gov.uk/ukpga/1963/24).
+
+[^key-456235db646caeee66c5b1a45dd9b961]: Commencement: Sch. 2 para. 33 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-0a0695e873d301bffba713d420ab55d3]: Commencement: Sch. 3 para. 1 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^f00048]: Footnote: [S.R. (NI) 2004 No 335](https://www.legislation.gov.uk/nisr/2004/335).
+
+[^f00049]: Footnote: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228).
+
+[^f00050]: Footnote: [2002 c.13 (N.I.)](https://www.legislation.gov.uk/nia/2002/13).
+
+[^key-0f81eb80c7603e915994c6eeb6d697de]: Commencement: Sch. 3 para. 2 in force at 12.5.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2)
+
+[^key-fca96840bf80d7157443f7efaa210e3a]: Textual amendment: Words in Sch. 3 para. 2(2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 209(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/209/a)
+
+[^key-5bf2f5c658e2f294a56fd933b07f95e9]: Textual amendment: Words in Sch. 3 para. 2(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 209(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/209/b)

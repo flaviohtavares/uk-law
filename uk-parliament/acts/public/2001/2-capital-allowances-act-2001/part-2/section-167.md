@@ -1,0 +1,38 @@
+---
+title: Capital Allowances Act 2001, section 167
+act: Capital Allowances Act 2001
+section: '167'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2001/2/section/167
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Capital Allowances Act 2001, section 167
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 167. Oil production sharing contracts
+
+*Extent: E+W+S+N.I.*
+
+(1) Sections 168 to 170 apply if—
+
+- (a) a person (“**the contractor**”) is entitled to an interest in a contract made with, or with the authorised representative of, the government of a country or territory in which oil is or may be produced, and
+- (b) the contract provides (among other things) for any plant or machinery of a description specified in the contract which—
+  - (i) is provided by the contractor, and
+  - (ii) has an oil-related use under the contract,
+
+  to be transferred (immediately or later) to the government or representative.
+
+(2) For the purposes of this section and sections 168 to 170, plant or machinery has an oil-related use if it is used—
+
+- (a) to explore for, win access to or extract oil,
+- (b) for the initial storage or treatment of oil, or
+- (c) for other purposes ancillary to the extraction of oil.
+
+(3) In this section and sections 168 to 170 “**oil**” has the meaning given by section 556(3).

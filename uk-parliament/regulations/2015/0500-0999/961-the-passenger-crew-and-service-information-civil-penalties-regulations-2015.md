@@ -1,0 +1,334 @@
+---
+title: The Passenger, Crew and Service Information (Civil Penalties) Regulations 2015
+id: uksi/2015/961
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-24'
+text_date: '2024-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/961
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/961/pdfs/uksiem_20150961_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/961/pdfs/uksi_20150961_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/961/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Passenger, Crew and Service Information (Civil Penalties) Regulations 2015
+
+> Text as at 2024-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 961
+
+Immigration
+
+Police
+
+The Passenger, Crew and Service Information (Civil Penalties) Regulations 2015
+
+Made
+
+24th March 2015
+
+Coming into force
+
+31st March 2015
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by paragraph 27BB of Schedule 2 to the Immigration Act 1971[^f00001] and section 32B of the Immigration, Asylum and Nationality Act 2006[^f00002].
+
+In accordance with paragraph 27BB(6) of that Schedule and subsection (6) of that section, a draft of these Regulations was laid before and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-a028999f4f87ad791fc6b63f6ee8f0fc][^key-d6fb487c2cae9b0acff9bc66db7597c7]
+
+(1) These Regulations may be cited as the Passenger, Crew and Service Information (Civil Penalties) Regulations 2015.
+
+(2) These Regulations come into force on the seventh day after the day on which they are made.
+
+(3)[^key-ebddff50a22a2386d3deefd91c024e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation[^key-62a3caf6ab34f938299608fed91c75e3]
+
+In these Regulations—
+
+- “[^key-0307449c60ce20ea42fb286404b3adfd]**2024 Regulations**” means the General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024;
+- “authority-to-carry scheme” means a scheme made under section 22 of CTSA 2015;
+- “CTSA 2015” means the Counter-Terrorism and Security Act 2015;
+- “IA 1971” means the Immigration Act 1971;
+- “IANA 2006” means the Immigration, Asylum and Nationality Act 2006;
+- “notice of objection” has the meaning given in regulation 6;
+- “penalty notice” has the meaning given in regulation 5.
+- “[^key-443fad07fc9868989c5d8c7192f72846]**shuttle train**” and “**through train**” have the same meanings as in the Channel Tunnel (International Arrangements) Order 1993.
+
+## 3. Penalty for failure to comply with paragraph 27 or 27B of Schedule 2 to IA 1971 or the 2024 Regulations[^key-100d74c3778b5e704166cb59ec7df2c9][^key-53867cb479fd0b83dbf3a112f81cb439]
+
+(1) Paragraph (2) applies to a person who is required by an order under paragraph 27(2) of Schedule 2 to IA 1971[^f00003] to supply information about passengers or crew on board a ship , aircraft, shuttle train or through train[^key-6cb3ac33322e7095561871ab51177e50].
+
+(2) The Secretary of State may require the person to pay a penalty if satisfied that the person has failed to comply with any of the following requirements of the order—
+
+- (a) a requirement to supply the information by a specified time or within a specified period;
+- (b) a requirement to supply the information in a specified form and manner;
+- (c) a requirement to be able to receive, in a specified form and manner, communications from the Secretary of State or an immigration officer relating to the information.
+
+(3) In paragraph (2) “specified” means specified in the order.
+
+(4) Paragraph (5) applies to a person—
+
+- (a) who is required under paragraph 27B(2) of Schedule 2 to IA 1971[^f00004] to provide passenger information or service information to an immigration officer, or
+- (b) who is required under paragraph 27B(8A) of that Schedule[^f00005] to be able to receive communications from an immigration officer in a form and manner directed by the Secretary of State.
+
+(5) The Secretary of State may require the person to pay a penalty if satisfied that—
+
+- (a) the person has failed to provide the information by the time stated in the request under paragraph 27B(2),
+- (b) the person has failed to provide the information in the form and manner directed by the Secretary of State under paragraph 27B(8)(a), or
+- (c) the person has failed to comply with a requirement under paragraph 27B(8A) to be able to receive communications from the immigration officer.
+
+(5A)[^key-d3a3e0bdf04e66df441b2050df8129f0] Paragraph (5B) applies to a person who is required to supply information under regulation 2(2) of the 2024 Regulations.
+
+(5B) The Secretary of State may require the person to pay a penalty if satisfied that—
+
+- (a) the person has failed to supply the information by the time specified,
+- (b) the person has failed to supply the information in the form and manner specified,
+- (c) the person has failed to comply with a requirement of the 2024 Regulations to be able to receive communications sent by the Secretary of State.
+
+(5C) In paragraph (5B) “**specified**” means specified in the 2024 Regulations.
+
+(6) But the Secretary of State may not require a person to pay a penalty under this regulation if—
+
+- (a) the person shows that there was a reasonable excuse for the failure, or
+- (b) paragraph (7) applies.
+
+(7) This paragraph applies where—
+
+- (a) proceedings have been instituted against the person, under section 27 of IA 1971 or (in the case of a failure consisting of the provision of false information) under section 5 of the Perjury Act 1911[^f00006], in respect of the same failure;
+- (b) the failure consists of a failure to comply with a requirement that the person is also obliged to comply with by virtue of section 32 of IANA 2006 and—
+  - (i) a penalty has been imposed on the person under regulation 4 in respect of the same failure, or
+  - (ii) proceedings have been instituted against the person under section 34 of IANA 2006 in respect of the same failure; or
+- (c) the failure consists of a failure to comply with a requirement that the person is also obliged to comply with by virtue of an authority-to-carry scheme, and a penalty has been imposed on that person, under regulations made under section 24 of CTSA 2015, in respect of the same failure.
+
+(8) A penalty imposed under this regulation may not exceed £10,000.
+
+(9) The penalty is payable to the Secretary of State on demand.
+
+## 4. Penalty for failure to comply with section 32 of IANA 2006[^key-870ff6ce53cc5dc60d4846201a0cdbbc]
+
+(1) Paragraph (2) applies to a person who is required by a constable under section 32(2) of IANA 2006—
+
+- (a) to provide passenger information or service information relating to a ship , aircraft, shuttle train or through train[^key-fbd3e035cba1e942e86e3b00a0e9f484], or
+- (b) to be able to receive, in a specified form and manner, communications relating to the information (see section 32(6)(e))[^f00007].
+
+(2) The Secretary of State may require the person to pay a penalty if satisfied that—
+
+- (a) the person has failed to provide the information by the date or time stated in the requirement,
+- (b) the person has failed to provide the information in the manner and form specified in an order under section 32(5)(a), or
+- (c) the person has failed to comply with a requirement imposed under section 32 to be able to receive communications relating to the information.
+
+(3) But the Secretary of State may not require a person to pay a penalty under this regulation if—
+
+- (a) the person shows that there was a reasonable excuse for the failure, or
+- (b) paragraph (4) applies.
+
+(4) This paragraph applies where—
+
+- (a) proceedings have been instituted against the person, under section 34 of IANA 2006 or (in the case of a failure consisting of the provision of false information) under section 5 of the Perjury Act 1911, in respect of the same failure;
+- (b) the failure consists of a failure to comply with a requirement that the person is also obliged to comply with by virtue of paragraph 27 or 27B of Schedule 2 to IA 1971 or regulation 2(2) of the 2024 Regulations[^key-404c39ebfa1531c003067880f1ac4e76] and—
+  - (i) a penalty has been imposed on the person under regulation 3 in respect of the same failure, or
+  - (ii) proceedings have been instituted against the person under section 27 of IA 1971 in respect of the same failure; or
+- (c) the failure consists of a failure to comply with a requirement that the person is also obliged to comply with by virtue of an authority-to-carry scheme, and a penalty has been imposed on that person, under regulations made under section 24 of CTSA 2015, in respect of the same failure.
+
+(5) A penalty imposed under this regulation may not exceed £10,000.
+
+(6) The penalty is payable to the Secretary of State on demand.
+
+## 5. Notification of penalty decision[^key-df595ed2db3b62541e289865b12aaab9]
+
+(1) If the Secretary of State decides to require a person to pay a penalty under these Regulations, the Secretary of State must give the person a penalty notice.
+
+(2) A penalty notice must—
+
+- (a) be in writing,
+- (b) state the Secretary of State’s reasons for deciding to require the person to pay a penalty,
+- (c) state the amount of the penalty,
+- (d) specify the date on which it is given,
+- (e) specify the date, at least 28 days after the date specified in the notice as the date on which it is given, before which the penalty must be paid,
+- (f) specify how a penalty must be paid,
+- (g) include an explanation of the steps that the person may take if the person objects to the penalty (including specifying the manner and form in which any notice of objection must be given to the Secretary of State), and
+- (h) include an explanation of the steps the Secretary of State may take to recover any unpaid penalty.
+
+## 6. Objection to penalty decision[^key-fe0239839cbe867d4bb3bffefd515885]
+
+(1) The recipient of a penalty notice (the “recipient”) may object to the penalty notice by giving a notice of objection to the Secretary of State.
+
+(2) A notice of objection must—
+
+- (a) be in writing,
+- (b) give the reasons for the objection,
+- (c) be given to the Secretary of State in the manner and form specified in the penalty notice, and
+- (d) be given before the end of the period of 28 days beginning with the date specified in the penalty notice as the date on which it is given.
+
+(3) Where the Secretary of State receives a notice of objection, the Secretary of State must consider it and—
+
+- (a) cancel the penalty,
+- (b) reduce the penalty,
+- (c) increase the penalty, or
+- (d) determine not to alter the penalty.
+
+(4) After reaching a decision as to how to proceed under paragraph (3), the Secretary of State must notify the recipient of the decision in writing.
+
+(5) A notification under paragraph (4) must be given before the end of the period of 70 days beginning with the date specified in the penalty notice as the date on which it is given, or such longer period as the Secretary of State may agree with the recipient.
+
+(6) A notification under paragraph (4), other than one notifying the recipient that the Secretary of State has decided to cancel the penalty, must—
+
+- (a) state the amount of the penalty following the Secretary of State’s consideration of the notice of objection,
+- (b) state the Secretary of State’s reasons for the decision under paragraph (3),
+- (c) specify the date, at least 28 days after the date on which the notification is given, before which the penalty must be paid,
+- (d) specify how the penalty must be paid,
+- (e) include an explanation of the person’s rights of appeal, and
+- (f) include an explanation of the steps the Secretary of State may take to recover any unpaid penalty.
+
+## 7. Appeals[^key-047bee76f4a0ac28d5f79893e853228d]
+
+(1) A person (the “appellant”) may appeal to the court against a decision to require the person to pay a penalty under these Regulations.
+
+(2) An appeal may be brought only if the appellant has given a notice of objection and the Secretary of State has—
+
+- (a) reduced the penalty under regulation 6(3)(b),
+- (b) increased the penalty under regulation 6(3)(c), or
+- (c) determined not to alter the penalty under regulation 6(3)(d).
+
+(3) An appeal must be brought within the period of 28 days beginning with the date on which the appellant is notified of the Secretary of State’s decision on the notice of objection under regulation 6(4).
+
+(4) On appeal, the court may—
+
+- (a) allow the appeal and cancel the penalty,
+- (b) allow the appeal and reduce the penalty, or
+- (c) dismiss the appeal.
+
+(5) An appeal—
+
+- (a) is to be a re-hearing of the Secretary of State’s decision to impose a penalty, and
+- (b) may be determined having regard to matters of which the Secretary of State was unaware.
+
+(6) Paragraph (5)(a) has effect despite any provision of rules of court.
+
+(7) In this regulation, a reference to “the court” is a reference—
+
+- (a) in England and Wales, to the county court,
+- (b) in Scotland, to the sheriff, and
+- (c) in Northern Ireland, to a county court.
+
+(8) But—
+
+- (a) the county court in England and Wales, or a county court in Northern Ireland, may transfer proceedings under this regulation to the High Court, and
+- (b) the sheriff may transfer proceedings under this regulation to the Court of Session.
+
+## 8. Enforcement of penalty decision[^key-ceac30a16d572198e824cba1069ac5de]
+
+(1) This regulation applies where a sum is payable to the Secretary of State as a penalty under these Regulations.
+
+(2) In England and Wales the penalty is recoverable as if it were payable under an order of the county court in England and Wales.
+
+(3) In Scotland the penalty may be enforced in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+
+(4) In Northern Ireland the penalty is recoverable as if it were payable under an order of a county court in Northern Ireland.
+
+(5) Where action is taken under this regulation for the recovery of a sum payable as a penalty under these Regulations, the penalty is—
+
+- (a) in relation to England and Wales, to be treated for the purposes of section 98 of the Courts Act 2003[^f00008] (register of judgments and orders etc) as if it were a judgment entered in the county court;
+- (b) in relation to Northern Ireland, to be treated for the purposes of Article 116 of the Judgments Enforcement (Northern Ireland) Order 1981[^f00009] (register of judgments) as if it were a judgment in respect of which an application has been accepted under Article 22 or 23(1) of that Order.
+
+## 9. Service[^key-95bd75055c26ca3ddb79c33fba4a5905]
+
+(1) This regulation applies where a document is authorised or required to be given to a person, other than the Secretary of State, for the purpose of these Regulations.
+
+(2) A document may be given to a person—
+
+- (a) by delivering it to the person,
+- (b) by leaving it at the person’s address,
+- (c) by sending it by post to the person at that address, or
+- (d) by means of electronic communication.
+
+(3) Where a document is given to a person outside the United Kingdom by post, it is to be taken to have been received by that person on the fourth day after the day on which it was sent.
+
+James Brokenshire
+
+Minister of State
+
+Home Office
+
+24th March 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations set out the civil penalty regime that applies for failure to comply with requirements in paragraph 27 or 27B of Schedule 2 to the Immigration Act 1971 (“IA 1971”) or section 32 of the Immigration and Nationality Act 2006 to supply or receive information.
+
+Regulation 3 applies to a person who is required by an order under paragraph 27(2) of Schedule 2 to IA 1971 to supply information about passengers or crew on board a ship or aircraft, a person who is required under paragraph 27B(2) of Schedule 2 to IA 1971 to provide passenger or service information, and to a person who is required under paragraph 27B(8A) of Schedule 2 to IA 1971 to be able to receive communications in a form and manner directed by the Secretary of State. Where a person breaches one of the requirements specified in regulation 3, the Secretary of State may require a carrier to pay a penalty. Such a penalty may not exceed £10,000.
+
+Regulation 4 applies to a person who is required under section 32(2) of the Immigration and Nationality Act 2006 to provide passenger or service information relating to a ship or aircraft, or to be able to receive communications relating to the information in a specified form or manner. Where a person breaches one of the requirements specified in regulation 4, the Secretary of State may require a carrier to pay a penalty. Such a penalty may not exceed £10,000.
+
+Regulation 5 contains provision about the contents of a penalty notice. Regulations 6 to 9 deal with matters relating to objection, appeals, enforcement and service of documents.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); paragraph 27BB of Schedule 2 was inserted by the Counter-Terrorism and Security Act 2015 (c. 6), paragraph 1 of Schedule 5.
+
+[^f00002]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13); section 32B was inserted by the Counter-Terrorism and Security Act 2015, paragraph 7 of Schedule 5.
+
+[^key-a028999f4f87ad791fc6b63f6ee8f0fc]: Commencement: Reg. 1 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+
+[^key-d6fb487c2cae9b0acff9bc66db7597c7]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/961/regulation/1) heading substituted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/3)
+
+[^key-ebddff50a22a2386d3deefd91c024e8d]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/3) omitted (31.3.2022) by virtue of [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/3)
+
+[^key-62a3caf6ab34f938299608fed91c75e3]: Commencement: Reg. 2 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+
+[^key-0307449c60ce20ea42fb286404b3adfd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/961/regulation/2) inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/2)
+
+[^key-443fad07fc9868989c5d8c7192f72846]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/961/regulation/2) inserted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/4)
+
+[^key-100d74c3778b5e704166cb59ec7df2c9]: Commencement: Reg. 3 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+
+[^key-53867cb479fd0b83dbf3a112f81cb439]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2015/961/regulation/3) heading inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/3/a)
+
+[^f00003]: Footnote: Paragraph 27(2) was substituted by IANA 2006, section 31.
+
+[^key-6cb3ac33322e7095561871ab51177e50]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/961/regulation/3/1) substituted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/5)
+
+[^f00004]: Footnote: Paragraph 27B was inserted by the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), section 18.
+
+[^f00005]: Footnote: Paragraph 27B(8A) was inserted by CTSA 2015, paragraph 1 of Schedule 5.
+
+[^key-d3a3e0bdf04e66df441b2050df8129f0]: Textual amendment: [Reg. 3(5A)-(5C)](https://www.legislation.gov.uk/uksi/2015/961/regulation/3/5A) inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/3/b)
+
+[^f00006]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6) (1 & 2 Geo 5); section 5 was amended by the Criminal Justice Act [1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58), section 1(2).
+
+[^key-870ff6ce53cc5dc60d4846201a0cdbbc]: Commencement: Reg. 4 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+
+[^key-fbd3e035cba1e942e86e3b00a0e9f484]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/961/regulation/4/1/a) substituted (31.3.2022) by [The Passenger, Crew and Service Information (Civil Penalties) (Amendment) Regulations 2022 (S.I. 2022/262)](https://www.legislation.gov.uk/uksi/2022/262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/262/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/262/regulation/2/6)
+
+[^f00007]: Footnote: Section 32(6)(e) was inserted by CTSA 2015, paragraph 6 of Schedule 5.
+
+[^key-404c39ebfa1531c003067880f1ac4e76]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2015/961/regulation/4/4/b) inserted (6.4.2024) by [The General Aviation (Persons on Board, Flight Information and Civil Penalties) Regulations 2024 (S.I. 2024/470)](https://www.legislation.gov.uk/uksi/2024/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/470/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2024/470/regulation/6/4)
+
+[^key-df595ed2db3b62541e289865b12aaab9]: Commencement: Reg. 5 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+
+[^key-fe0239839cbe867d4bb3bffefd515885]: Commencement: Reg. 6 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+
+[^key-047bee76f4a0ac28d5f79893e853228d]: Commencement: Reg. 7 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+
+[^key-ceac30a16d572198e824cba1069ac5de]: Commencement: Reg. 8 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)
+
+[^f00008]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
+
+[^f00009]: Footnote: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226).
+
+[^key-95bd75055c26ca3ddb79c33fba4a5905]: Commencement: Reg. 9 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/961/regulation/1/2)

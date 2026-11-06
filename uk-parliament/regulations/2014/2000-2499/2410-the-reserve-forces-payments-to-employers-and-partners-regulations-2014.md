@@ -1,0 +1,354 @@
+---
+title: The Reserve Forces (Payments to Employers and Partners) Regulations 2014
+id: uksi/2014/2410
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-09-08'
+text_date: '2018-10-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/2410
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2410/pdfs/uksiem_20142410_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2410/pdfs/uksi_20142410_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2410/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Reserve Forces (Payments to Employers and Partners) Regulations 2014
+
+> Text as at 2018-10-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 2410
+
+Defence
+
+The Reserve Forces (Payments to Employers and Partners) Regulations 2014
+
+Made
+
+8th September 2014
+
+Laid before Parliament
+
+10th September 2014
+
+Coming into force
+
+1st October 2014
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 84A of the Reserve Forces Act 1996[^f00001] (“the Act”).
+
+In accordance with section 84A(3) of the Act, the Secretary of State is satisfied that the payments provided for in these Regulations, or such payments taken together with other measures, are likely to encourage persons—
+
+- (a) to employ, or continue to employ, members of the reserve forces; or
+- (b) to carry on business, or continue to carry on business, in partnership with members of the reserve forces.
+
+The Secretary of State has consulted in accordance with section 85(3)[^f00002] of the Act.[^key-0dd72e039e0b3a0289f752ae624affc4]
+
+## 1. Citation and commencement[^key-02778ab193f1f448cff000025a3fabf1]
+
+These Regulations may be cited as the Reserve Forces (Payments to Employers and Partners) Regulations 2014 and come into force on 1st October 2014.
+
+## 2. Interpretation[^key-5cdf4d8d1ec3ff02c71b02cc9bfa0079]
+
+(1) In these Regulations—
+
+- “adjudication officer” means a person appointed by, or in accordance with, directions of the Secretary of State for Defence or the Defence Council to determine claims under these Regulations;
+- “C” means, where the reservist’s contract of employment with the employer fixes the number of hours of employment in a week and that number is less than 35, that number of hours;
+- “employee” means a person who is employed in a relevant undertaking under a relevant contract of employment;
+- “employer” means a person by whom the reservist is employed in a relevant undertaking under a relevant contract of employment;
+- “partner” means a person with whom the reservist is carrying on business in partnership in a relevant undertaking;
+- “public authority” means—
+  - (a) a public authority listed in Schedule 1 to the Freedom of Information Act 2000[^f00003]; or
+  - (b) a Scottish public authority listed in Schedule 1 to the Freedom of Information (Scotland) Act 2002[^f00004];
+- “relevant contract of employment” means—
+  - (a) a contract of service, or
+  - (b) a contract of apprenticeship,
+
+  but does not include a zero hours contract;
+- “relevant date” means a date on or after these Regulations come into force and which is the earlier of the date on which the reservist reports for relevant service and the date on which the reservist is accepted into relevant service, but see regulation 12;
+- “relevant period” means a continuous period beginning with the relevant date and ending with the earlier of the date of the termination of the relevant service of the reservist and—
+  - (a) in a case falling within regulation 3, the date of termination of the reservist’s employment with the employer;
+  - (b) in a case falling within regulation 4, the date on which the reservist ceases to carry on business in partnership with the partner;
+- “relevant service” means permanent service under Part 4 of the 1996 Act or under a call-out order but does not include any period in which the reservist is serving a term of imprisonment or detention under the sentence of the Court Martial or a court of law in the British Islands or any British overseas territory;
+- “relevant undertaking” means an undertaking which—
+  - (a) is not a public authority; and
+  - (b) meets the qualifying conditions in Schedule 1;
+- “reservist” means a person called out for relevant service;
+- “the 1996 Act” means the Reserve Forces Act 1996;
+- “undertaking” has the meaning given in section 1161(1) of the Companies Act 2006[^f00005];
+- “week” means a week ending with Saturday;
+- “zero hours contract” means a contract of employment under which—
+  - (a) the undertaking to do or perform work is an undertaking to do so conditionally on the employer making work available to the reservist; and
+  - (b) there is no certainty that any such work will be made available to the reservist.
+
+(2) Where a person is performing relevant service and the date on which that person is entitled to be released or discharged has been postponed under section 53(3), (7) or (11), 55(3), (7) or (11), 57(3) or (7) or 61 (as the case may be) of the 1996 Act, the date of the termination of relevant service means the date on which the reservist actually ceases the relevant service after the period of extension, and not the date on which the reservist would otherwise have been entitled to be released or discharged from the service.
+
+## 3. Employer’s payment[^key-d0bad1fd94a907e00815501cdef76482]
+
+(1) Subject to fulfilment to an adjudication officer’s satisfaction of the requirement to provide information or documentation under regulation 7, an employer is entitled to claim an employer’s payment in respect of such part of the relevant period as the reservist is an employee of the employer.
+
+(2) The amount of the employer’s payment is the total of the amounts payable to the employer for calendar months in the relevant period, determined in accordance with paragraphs (3) to (5).
+
+(3) For each calendar month part or all of which falls within the relevant period, the amount of the employer’s payment is calculated in accordance with the formula in paragraph (4).
+
+(4) The formula is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/2410)
+
+where—
+
+- (a) “A” is the number of days in the calendar month which fall within the relevant period;
+- (b) “B” is the number of days in the calendar month; and
+- (c) “£X” is—
+  - (i) where situation 1 or 3 applies on the first day of the calendar month, £500;
+  - (ii) where situation 2 applies on the first day of the calendar month, a proportion of £500 which is the same proportion of that amount as C is of 35;
+  - (iii) where situation 4 applies on the first day of the calendar month, a proportion of £500 which is the same proportion of that amount as the number under paragraph (5)(d)(ii) is of 35.
+
+(5) For the purposes of this regulation—
+
+- (a) situation 1 applies where the reservist’s contract of employment with the employer fixes the number of hours of employment in a week and that number is 35 or more;
+- (b) situation 2 applies where the reservist’s contract of employment with the employer fixes the number of hours of employment in a week and that number is less than 35;
+- (c) situation 3 applies where—
+  - (i) the reservist’s contract of employment with the employer does not fix the number of hours of employment in a week but does guarantee a minimum number of hours; and
+  - (ii) the number of hours that the adjudication officer is satisfied that the reservist is likely to have been required under that contract to work for the undertaking each week in the calendar month is 35 or more;
+- (d) situation 4 applies where—
+  - (i) the reservist’s contract of employment with the employer does not fix the number of hours of employment in a week but does guarantee a minimum number of hours; and
+  - (ii) the number of hours that the adjudication officer is satisfied that the reservist is likely to have been required under that contract to work for the undertaking each week in the calendar month is less than 35.
+
+(6) The employer’s payment is paid in monthly instalments paid monthly in arrears to the employer on the last working day of every calendar month.
+
+## 4. Partner’s payment[^key-f535c17107eef942b092f3e0a699ce8e]
+
+(1) Subject to fulfilment to an adjudication officer’s satisfaction of the requirement to provide information or documentation under regulation 7, a partner is entitled to claim a partner’s payment in respect of such part of the relevant period as the reservist is carrying on business in partnership with the partner, but see paragraph (7).
+
+(2) The amount of the partner’s payment is the total of the amounts payable to the partner for calendar months in the relevant period, determined in accordance with paragraphs (3) to (5).
+
+(3) For each calendar month part or all of which falls within the relevant period, the amount of the partner’s payment is calculated in accordance with the formula in paragraph (4).
+
+(4) The formula is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/2410)
+
+where—
+
+- (a) “A” is the number of days in the calendar month which fall within the relevant period;
+- (b) “B” is the number of days in the calendar month; and
+- (c) “£X” is—
+  - (i) where situation 1 applies on the first day of the calendar month, £500;
+  - (ii) where situation 2 applies on the first day of the calendar month, a proportion of £500 which is the same proportion of that amount as the number under paragraph (5)(b) is of 35.
+
+(5) For the purposes of this regulation—
+
+- (a) situation 1 applies where the number of hours that the adjudication officer is satisfied that the reservist is likely to have worked each week in the calendar month for the undertaking in which he or she is carrying on business in partnership with the partner is 35 or more;
+- (b) situation 2 applies where the number of hours that the adjudication officer is satisfied that the reservist is likely to have worked each week in the calendar month for the undertaking in which he or she is carrying on business in partnership with the partner is less than 35.
+
+(6) The partner’s payment is paid in monthly instalments paid monthly in arrears to the partner on the last working day of every calendar month.
+
+(7) A partner is not entitled to claim a partner’s payment in respect of any part of a relevant period for which a payment has been made under this regulation to the partner or to another partner of the reservist.
+
+## 5. Time limits for making a claim[^key-73382ff746ee7ccbca34fdc6d89809a9]
+
+(1) A claim under these Regulations may not be made before the relevant date.
+
+(2) A claim under these Regulations may not be made more than 4 weeks after the end of the relevant period, unless an adjudication officer agrees to an extended period.
+
+## 6. Person to whom claims must be made[^key-65c867e7387314c3ea27989da7b30bed]
+
+A claim must be made to a person specified in Schedule 3 for determination by that person.
+
+## 7. Information and documentation to be provided in relation to claims[^key-b4276db7c8e874b9437bfc599e75c0fd]
+
+(1) When making a claim under regulation 3 or 4, an employer or partner must provide the information specified in Schedule 2 to an adjudication officer.
+
+(2) The claimant must provide such other information or documentation in connection with a claim as an adjudication officer may at any time reasonably require.
+
+(3) A claimant who has provided information under this regulation must notify an adjudication officer of—
+
+- (a) any inaccuracy in, or change to, that information, or
+- (b) any event,
+
+which might materially affect the claim, no later than 14 days after the inaccuracy, change or event comes to the claimant’s attention. The provision of such information will entitle an adjudication officer to review the original determination in accordance with paragraph (1)(d) of regulation 10.
+
+## 8. Determination and payment of claims[^key-91caf2167dc614b02da5072d95d558ba]
+
+(1) An adjudication officer must consider and determine a claim promptly and in accordance with the relevant provisions of these Regulations.
+
+(2) As soon as reasonably practicable after making a determination, an adjudication officer must provide to the claimant a written notification of that determination containing a statement—
+
+- (a) giving reasons for the determination;
+- (b) showing how any payment has been calculated;
+- (c) that the claimant may, if he or she is dissatisfied with the determination of his or her claim, appeal against the determination to a reserve forces appeal tribunal, and giving the address to which such an appeal should be sent.
+
+## 9. Rejection of claims for non-compliance with the Regulations[^key-50810d6bf6e2d7ba0b15355afa288a69]
+
+An adjudication officer may reject a claim if the claimant has failed without reasonable excuse to comply with—
+
+- (a) any requirement under regulation 7 to provide information or documentation;
+- (b) the time limit prescribed in regulation 5.
+
+## 10. Additional powers of adjudication officers[^key-22e8b4911d630a8911a49212e7fdfa26]
+
+(1) An adjudication officer may—
+
+- (a) treat a requirement to provide information or documentation under regulation 7 as having been satisfied if the adjudication officer already has that information or documentation when the claimant makes the claim;
+- (b) proceed to process a claim where information or documentation required under regulation 7 has not been provided in accordance with that regulation if the claimant undertakes to provide such information or documentation as soon as it becomes available;
+- (c) make an interim payment pending the determination of a claim;
+- (d) review a determination at any time until the beginning of the hearing by a reserve forces appeal tribunal of an appeal against that determination or the expiry of 6 years, whichever is the earlier;
+- (e) following any review of a determination, set aside the determination and substitute a new determination.
+
+(2) If an adjudication officer proposes to exercise the power under paragraph (1)(d), the adjudication officer must provide written notice of his or her intention to do so to the claimant as soon as reasonably practicable.
+
+## 11. Withdrawal of a claim[^key-469bb8df3b66b9fdcfe74672c93a0a43]
+
+A claimant may withdraw a claim, or any part of a claim, at any time by providing written notice of withdrawal to an adjudication officer.
+
+## 12. Transitional arrangements[^key-04117fb3b32d14642c330b24e0303c1f]
+
+In respect of a period of relevant service which begins before these Regulations come into force and continues after these Regulations come into force, for the purposes of these Regulations “relevant date” means the date on which these Regulations come into force.
+
+Julian Brazier
+
+Parliamentary Under Secretary of State
+
+Ministry of Defence
+
+8th September 2014
+
+## SCHEDULE 1 — Qualifying conditions
+
+Regulation 2(1) (“relevant undertaking”)
+
+**1.**[^key-214ad77bdabda2074cce3489c8ee6e61] The qualifying conditions are met by an undertaking if it satisfies both of the following requirements—
+
+- (a) its annual turnover is not more than £25.9 million;
+- (b) the number of its employees and any partners is not more than 250 on the date provided for in paragraph 4.
+
+**2.**[^key-0529faa816758e906cfcadc4e3feb047] For the purposes of paragraph 1, the annual turnover of an undertaking is—
+
+- (a) the undertaking’s turnover for the 12 months immediately preceding the date provided for in paragraph 4; or
+- (b) where that undertaking was established for a period of less than 12 months before that date, the undertaking’s turnover for that period increased proportionately to provide a figure for a period of 12 months.
+
+**3.**[^key-f9ad894bbbc11a9f02d1f231389243f9] In this Schedule “turnover” has the meaning given in section 474(1) of the Companies Act 2006[^f00006] with the modification that for “company” there is substituted “undertaking”.
+
+**4.**[^key-ae2fb9860c4d4fb6c6adcb37fbbbf26b] The date is—
+
+- (a) for the purposes of a claim under regulation 3, the first day falling on or after the relevant date on which the reservist in respect of whom the claim is made is an employee of the employer making the claim; and
+- (b) for the purposes of a claim under regulation 4, the first day falling on or after the relevant date on which the reservist in respect of whom the claim is made is carrying on business in partnership with the partner making the claim.
+
+## SCHEDULE 2 — Information to be provided by an employer or partner on making a claim
+
+Regulations 3, 4, 7(1)
+
+**1.**[^key-bd7c9c6967f7f01e59042ea316c6be29] On making a claim under regulation 3 or 4 an employer or partner must provide to an adjudication officer the following information—
+
+- (a) his or her full name;
+- (b) the name of the undertaking in which he or she employs, or is carrying on business in partnership with, the reservist in connection with whom the claim is made;
+- (c) his or her contact details, including business address, telephone number and any e-mail address;
+- (d) the full name, date of birth, National Insurance number and armed forces service number of the reservist in connection with whom the claim is made;
+- (e) where the employer’s contract of employment with the reservist in connection with whom the claim is made fixes the number of hours of employment in a week, that number of hours;
+- (f) where the employer’s contract of employment with the reservist in connection with whom the claim is made does not fix the number of hours of employment in a week, the number of hours that the employer considers that the reservist is likely to have been required under that contract to work for the undertaking each week in each calendar month to which the claim relates;
+- (g) where the reservist in connection with whom the claim is made is carrying on business in partnership in the undertaking, the number of hours that the partner considers that the reservist is likely to have worked for the partnership each week in each calendar month to which the claim relates;
+- (h) confirmation that the turnover of the undertaking in which he or she employs, or is carrying on business in partnership with, the reservist is, for the 12-month period immediately preceding the date provided for in paragraph 2, not more than £25.9 million or, where that undertaking was established for a period of less than 12 months before that date, confirmation that, when the turnover of the undertaking for that period is increased proportionately to provide a figure for a period of 12 months, that figure is not more than £25.9 million;
+- (i) confirmation that the total number of employees and any persons carrying on business in partnership in the undertaking on the date provided for in paragraph 2 was not more than 250.
+
+**2.**[^key-554e79aa1232366bc064885406e433da] The date is—
+
+- (a) for the purposes of a claim under regulation 3, the first day falling on or after the relevant date on which the reservist in respect of whom the claim is made is an employee of the employer making the claim; and
+- (b) for the purposes of a claim under regulation 4, the first day falling on or after the relevant date on which the reservist in respect of whom the claim is made is carrying on business in partnership with the partner making the claim.
+
+## SCHEDULE 3 — Person to whom claims must be made[^key-c70bbda874b085548287d2ad0f4bb519]
+
+Regulation 6
+
+[^key-c70bbda874b085548287d2ad0f4bb519]
+
+Any claim under these Regulations must be made to an adjudication officer appointed for the service or reserve force in which the reservist is performing relevant service, either by e-mail or by post to the address specified below—
+
+| Service or reserve force | Address |
+| --- | --- |
+| Royal Navy, Royal Fleet Reserve, Royal Naval Reserve and Royal Marines | The Adjudication Officer for the Royal Navy and Royal Marines<br>Victory Building,<br>HM Naval Base,<br>Portsmouth,<br>Hampshire<br>PO1 3LS |
+| Army, Army Reserve and Regular Reserve | The Adjudication Officer for the Army (Employers’ claims)<br>Employers’ Financial Assistance Cell,<br>Mailpoint 588,<br>Kentigern House,<br>65 Brown Street,<br>Glasgow,<br>Strathclyde,<br>G2 8EX |
+| Royal Air Force, Royal Air Force Reserve and Royal Auxiliary Air Force | The Adjudication Officer for the Royal Air Force<br>Royal Air Force Adjudication Service,<br>C/O Imjin Barracks,<br>Innsworth,<br>Gloucester,<br>Gloucestershire,<br>GL3 1HW |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations give effect to a new scheme for making payments to employers of, and persons carrying on business in partnership with, members of the reserve forces who are called out for service in the armed forces.
+
+Regulation 3 provides for a payment to an employer of a reservist who is called out. It only applies to employers who are not public authorities. The employer must also be within certain limits as to size (turnover and number of employees and partners) which are set out in Schedule 1. Regulation 4 provides for a payment to the partners of a reservist who is called out. The partnerships which are eligible are subject to equivalent limits to those which apply to employers.
+
+An employer’s payment is the total of the amounts payable to the employer for each part or whole calendar month which falls within the period during which the reservist is called out. For a reservist who is on a full-time contract to work 35 hours a week or more and is absent for a whole calendar month, the payment is £500. The amount payable is reduced proportionately in relation to part calendar months and where the reservist is contracted to work less than 35 hours a week.
+
+A partner’s payment is calculated on a similar basis but by reference to the number of hours that the reservist is likely to have worked for the partnership if they were not called out.
+
+Regulation 7 prescribes by reference to Schedule 2 the information that must be provided to an adjudication officer by an employer or partner when making a claim. It also provides for the adjudication officer to ask for additional information or documentation.
+
+Regulation 8 concerns the determination and payment of claims. It requires an adjudication officer to consider claims promptly and to provide a claimant with written notification of the determination of a claim, together with reasons for the decision, an explanation of how any payment was calculated and a notice that an appeal route is available.
+
+Regulation 10 specifies the additional powers of an adjudication officer, including the ability to make an interim payment, process a claim despite all of the required information not being available, or to review a determination.
+
+Regulation 12 makes transitional provision with respect to reservists who are in relevant service before these Regulations come into force and continue in that service after these Regulations come into force. It allows an employer or partner of such a reservist to make a claim under these Regulations in respect of a period beginning on the date on which these Regulations come into force.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14); section 84A was inserted by section 46 of the Defence Reform Act [2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20).
+
+[^f00002]: Footnote: Section 85(3) was amended by section 46 of, and paragraph 4(4) of Schedule 7 to, the Defence Reform Act 2014 to apply that subsection to regulations made under section 84A.
+
+[^key-0dd72e039e0b3a0289f752ae624affc4]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2410) applied (Isle of Man) (with modifications) (2.10.2018) by [The Reserve Forces (Payments to Employers and Partners) (Isle of Man) Regulations 2018 (S.I. 2018/992)](https://www.legislation.gov.uk/uksi/2018/992), [reg. 2](https://www.legislation.gov.uk/uksi/2018/992/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/992/schedule)
+
+[^key-02778ab193f1f448cff000025a3fabf1]: Commencement: Reg. 1 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-5cdf4d8d1ec3ff02c71b02cc9bfa0079]: Commencement: Reg. 2 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^f00003]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^f00004]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
+
+[^f00005]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-d0bad1fd94a907e00815501cdef76482]: Commencement: Reg. 3 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-f535c17107eef942b092f3e0a699ce8e]: Commencement: Reg. 4 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-73382ff746ee7ccbca34fdc6d89809a9]: Commencement: Reg. 5 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-65c867e7387314c3ea27989da7b30bed]: Commencement: Reg. 6 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-b4276db7c8e874b9437bfc599e75c0fd]: Commencement: Reg. 7 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-91caf2167dc614b02da5072d95d558ba]: Commencement: Reg. 8 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-50810d6bf6e2d7ba0b15355afa288a69]: Commencement: Reg. 9 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-22e8b4911d630a8911a49212e7fdfa26]: Commencement: Reg. 10 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-469bb8df3b66b9fdcfe74672c93a0a43]: Commencement: Reg. 11 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-04117fb3b32d14642c330b24e0303c1f]: Commencement: Reg. 12 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-214ad77bdabda2074cce3489c8ee6e61]: Commencement: Sch. 1 para. 1 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-0529faa816758e906cfcadc4e3feb047]: Commencement: Sch. 1 para. 2 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-f9ad894bbbc11a9f02d1f231389243f9]: Commencement: Sch. 1 para. 3 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^f00006]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), to which there are amendments not relevant to these Regulations.
+
+[^key-ae2fb9860c4d4fb6c6adcb37fbbbf26b]: Commencement: Sch. 1 para. 4 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-bd7c9c6967f7f01e59042ea316c6be29]: Commencement: Sch. 2 para. 1 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-554e79aa1232366bc064885406e433da]: Commencement: Sch. 2 para. 2 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)
+
+[^key-c70bbda874b085548287d2ad0f4bb519]: Commencement: Sch. 3 in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2410/regulation/1)

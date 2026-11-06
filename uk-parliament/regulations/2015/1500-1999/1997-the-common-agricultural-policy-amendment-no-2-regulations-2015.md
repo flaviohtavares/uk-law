@@ -1,0 +1,583 @@
+---
+title: The Common Agricultural Policy (Amendment) (No. 2) Regulations 2015
+id: uksi/2015/1997
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-12-07'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/1997
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1997/pdfs/uksiem_20151997_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2015/1997/pdfs/uksiem_20151997_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1997/pdfs/uksi_20151997_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1997/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Common Agricultural Policy (Amendment) (No. 2) Regulations 2015
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 1997
+
+Agriculture
+
+The Common Agricultural Policy (Amendment) (No. 2) Regulations 2015
+
+Made
+
+7th December 2015
+
+Laid before Parliament
+
+9th December 2015
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy[^f00002].
+
+These Regulations make provision for a purpose mentioned in that section and it appears to the Secretary of State that it is expedient for the references to the European Union instruments listed in paragraph 1(3) of the Schedule to be construed as references to those instruments as amended from time to time.
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00003].
+
+## PART 1 — Introduction
+
+*Extent: E+W*
+
+### 1. Citation and commencement[^key-0180019975451b9ab65578743a1885c1]
+
+(1) These Regulations may be cited as the Common Agricultural Policy (Amendment) (No. 2) Regulations 2015.
+
+(2) These Regulations come into force on 1st January 2016, except for regulation 14(4)(a), which comes into force on 1st January 2017.
+
+## PART 2 — The Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^key-ed12521d7488fc1cf817fdd7330d762a]
+
+*Extent: E+W*
+
+### 2. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^key-ed12521d7488fc1cf817fdd7330d762a]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Amendment of regulation 10 (active farmer)[^key-ed12521d7488fc1cf817fdd7330d762a]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Amendment of the Schedule (Ecological focus areas)[^key-ed12521d7488fc1cf817fdd7330d762a]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014
+
+*Extent: E+W*
+
+### 5. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-753eb49982208c4e33ad65ef9978a6d5]
+
+The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^f00007] are amended as follows.
+
+### 6. Amendment of regulation 2 (interpretation)[^key-9f0ab6557b87905a752eedc2bf632138]
+
+In regulation 2 (interpretation)—
+
+- (a) in paragraph (1) omit the definition of “accountable body”;
+- (b) for the definition of “rural development payment” substitute—
+
+  > - “rural development payment” means any payment made by the Secretary of State under Title III of the Rural Development Regulation[^f00008] or Title III, Chapter II of the Common Provisions Regulation[^f00009] except in regulations 9(2A)(b) and 35(4) (where it has the meaning given in those regulations);
+
+  ;
+- (c) after paragraph (1) insert—
+
+  > (1A) In paragraph (1) “accountable body” means a body responsible for carrying out administrative and financial activities on behalf of a local action group in accordance with Article 34(2) of the Common Provisions Regulation.
+
+  .
+
+### 7. Amendment of regulation 9 (set-off)[^key-3b4c3adba4748dc3427933a513fe8370]
+
+In regulation 9 (set-off)—
+
+- (a) for paragraph (2) substitute—
+
+  > (2) The amount of any payment listed in paragraph (2A) may be set off against the amount of any recoverable sum listed in paragraph (2B).
+  >
+  > (2A) The payments referred to in paragraph (2) are—
+  >
+  > - (a) any rural development payment payable by the Secretary of State;
+  > - (b) any rural development payment payable by the Secretary of State or an accountable body under the Rural Development (Enforcement) (England) Regulations 2007[^f00010];
+  > - (c) any sum payable to a beneficiary under the England Rural Development Programme (Enforcement) Regulations 2000[^f00011];
+  > - (d) any sum payable by the Secretary of State under—
+  >   - (i) the Direct Payments Regulation;
+  >   - (ii) Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers[^f00012]; or
+  >   - (iii) Council Regulation [(EC) No. 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers[^f00013].
+  >
+  > (2B) The recoverable sums referred to in paragraph (2) are—
+  >
+  > - (a) any sum recoverable by the Secretary of State or a delivery body (which may include the Secretary of State) under regulation 7(1) or 15(1);
+  > - (b) any sum recoverable by the Secretary of State or an accountable body under regulation 9(1) or 10(1) of the Rural Development (Enforcement) (England) Regulations 2007;
+  > - (c) any sum recoverable by the Minister under regulation 6(1) or 7(1) of the England Rural Development Programme (Enforcement) Regulations 2000[^f00014];
+  > - (d) any sum recoverable by a competent authority under regulation 8 of the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009[^f00015].
+
+  ;
+- (b) for paragraph (3) substitute—
+
+  > (3) In this regulation—
+  >
+  > - (a) “accountable body” has the meaning given by regulation 2(1) of the Rural Development (Enforcement) (England) Regulations 2007;
+  > - (b) “beneficiary” has the meaning given by regulation 2(1) of the England Rural Development Programme (Enforcement) Regulations 2000;
+  > - (c) “competent authority” has the same meaning as in the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009;
+  > - (d) “Minister” has the meaning given by regulation 2(1) of the England Rural Development Programme (Enforcement) Regulations 2000;
+  > - (e) “rural development payment”, except in paragraph (2A)(a), has the meaning given by regulation 2(1) of the Rural Development (Enforcement) (England) Regulations 2007, except in paragraph (2A)(a)(where it has the meaning given by regulation 2(1)).
+
+  .
+
+### 8. Amendment of regulation 10 (powers of entry)[^key-e5b5e89fcafc688bfc21138ddc20828d]
+
+In regulation 10(1) (powers of entry), after “the purpose of enforcing” insert “these regulations or”.
+
+### 9. Amendment of regulation 14 (breaches of commitments)[^key-c000f4077ed9a94583207e2b0061c8e7]
+
+In regulation 14(1)(c) (breaches of commitments), omit paragraphs (i) to (iv).
+
+### 10. Amendment of regulation 15 (powers of recovery in relation to rural development payments)[^key-5e19ad9ea6c8f361b5c02cbfbbb52d49]
+
+In regulation 15(1) (powers of recovery etc in relation to rural development payments), for “accountable body” substitute “delivery body”.
+
+### 11. Amendment of regulation 20 (interpretation)[^key-500f8e1da8f2486a8969908f6ad5627d]
+
+*Extent: E+W+S+N.I.*
+
+In regulation 20 (interpretation), in the definition of “specified commodity”—
+
+- (a) for “Council Regulation [(EC) 1216/2009](https://www.legislation.gov.uk/european/regulation/2009/1216) laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products[^f00016]” substitute “Regulation (EU) No 510/2014 of the European Parliament and of the Council of 16 April 2014 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products[^f00017]”;
+- (b) for “Annexes B and C to Commission Regulation [(EC) 1222/94](https://www.legislation.gov.uk/european/regulation/1994/1222) laying down common detailed rules for the application of the system of granting export refunds on certain agricultural products etc[^f00018]” substitute “Annexes II and III of Commission Regulation (EU) No 578/2010 of 29 June 2010 on the implementation of Council Regulation [(EC) No 1216/2009](https://www.legislation.gov.uk/european/regulation/2009/1216) as regards the system of granting export refunds for certain agricultural products exported in the form of goods not covered by Annex I to the Treaty, and the criteria for fixing the amount of such refunds[^f00019],”.
+
+### 12. Amendment of regulation 21 (powers of entry) and regulation 28 (defence of due diligence)[^key-e06aea0c4b780f6424ce6efebde69b62]
+
+*Extent: E+W+S+N.I.*
+
+In regulation 21(1)(b) (powers of entry) and regulation 28 (defence of due diligence) omit “(4)”.
+
+### 13. Amendment of Schedule 1[^key-7c6444263246930060bd1ba99b474b41]
+
+Schedule 1 (the SCMO Regulations) is amended as set out in the Schedule to these Regulations.
+
+### 14. Amendment of Schedule 2[^key-53d29fa450233a67263b67b35f83c3a6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — The Rural Development Enforcement (England) Regulations 2007
+
+*Extent: E+W*
+
+### 15. Amendment of the Rural Development Enforcement (England) Regulations 2007[^key-796a35c33cadbe5243ca3d8acb95128a]
+
+(1) The Rural Development Enforcement (England) Regulations 2007 are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the appropriate place insert—
+
+> - “Commission Regulation 65/2011” means Commission Regulation (EU) 65/2011 laying down detailed rules for the implementation of Council Regulation [(EC) 1968/2005](https://www.legislation.gov.uk/european/regulation/2005/1968), as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures[^f00023];
+
+.
+
+(3) In regulation 8(1)(c) (breaches of commitments), for “or Commission Regulation 1975/2006[^f00024]” insert “, Commission Regulation 1975/2006 or Commission Regulation 65/2011”.
+
+*Extent: E+W*
+
+George Eustice
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+7th December 2015
+
+*Extent: E+W*
+
+## SCHEDULE — Amendment of Schedule 1 to the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014
+
+Regulation 13
+
+**1.**[^key-214ebee697c5ee998421ec519a85a28b] (1) Schedule 1 of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 is amended as follows.
+
+(2) Omit the following entries—
+
+Regulation [(EEC) No. 100/72](https://www.legislation.gov.uk/european/regulation/1972/0100) of the Commission laying down detailed rules on the denaturing of sugar for animal feed[^f00025]
+
+Commission Regulation [(EEC) No. 189/77](https://www.legislation.gov.uk/european/regulation/1977/0189) laying down detailed rules for the application of the system of minimum stocks in the sugar sector[^f00026]
+
+Commission Regulation [(EEC) No. 1842/81](https://www.legislation.gov.uk/european/regulation/1981/1842) laying down detailed rules for implementing Regulation [(EEC) No. 1188/81](https://www.legislation.gov.uk/european/regulation/1981/1188) relating to general rules for granting refunds adjusted in the case of cereals exported in the form of certain spirituous beverages[^f00027]
+
+Commission Regulation [(EEC) No. 2180/81](https://www.legislation.gov.uk/european/regulation/1981/2180) laying down rules implementing restrictions on investment aids for pig production[^f00028]
+
+Commission Regulation [(EEC) No. 3423/81](https://www.legislation.gov.uk/european/regulation/1981/3423) on communication by the Member States of data concerning exports of cereal and rice products as food aid[^f00029]
+
+Commission Regulation [(EEC) No. 3556/87](https://www.legislation.gov.uk/european/regulation/1987/3556) laying down additional detailed rules for the application of the system of advance-fixing certificates in the case of certain cereal sector products exported in the form of pasta falling within subheadings 19021100 and 190219 of the combined nomenclature[^f00030]
+
+Commission Regulation [(EEC) No. 3164/89](https://www.legislation.gov.uk/european/regulation/1989/3164) laying down detailed rules for the application of special measures in respect of hemp seed[^f00031]
+
+[Commission Regulation (EC) No. 3330/94](https://www.legislation.gov.uk/european/regulation/1994/3330) on the tariff classification of certain poultry cuts and amending Regulation [(EEC) No. 2658/87](https://www.legislation.gov.uk/european/regulation/1987/2658) on the tariff and statistical nomenclature and on the Common Customs Tariff[^f00032]
+
+[Commission Regulation (EC) No. 2810/95](https://www.legislation.gov.uk/european/regulation/1995/2810) on the tariff classification of pig carcases and half-carcases and amending [Council Regulation (EEC) No. 2658/87](https://www.legislation.gov.uk/european/regulation/1987/2658) on the tariff and statistical nomenclature and on the Common Customs Tariff[^f00033]
+
+[Commission Regulation (EC) No. 440/96](https://www.legislation.gov.uk/european/regulation/1996/0440) opening and providing for the administration of Community tariff quotas for certain mixtures of malt sprouts and barley screenings[^f00034]
+
+[Commission Regulation (EC) No. 1831/96](https://www.legislation.gov.uk/european/regulation/1996/1831) opening and providing for the administration of Community tariff quotas bound under GATT for certain fruit and vegetables and processed fruit and vegetable products from 1996[^f00035]
+
+[Commission Regulation (EC) No. 2390/98](https://www.legislation.gov.uk/european/regulation/1998/2390) laying down detailed rules for the application of Council Regulation [(EC) No. 1706/98](https://www.legislation.gov.uk/european/regulation/1998/1706) as regards the arrangements for importing certain cereal substitute products and processed cereal and rice products originating in the African, Caribbean and Pacific States or in the overseas countries and territories and repealing Regulation [(EEC) No. 2245/90](https://www.legislation.gov.uk/european/regulation/1990/2245)[^f00036]
+
+[Commission Regulation (EC) No. 2133/2001](https://www.legislation.gov.uk/european/regulation/2001/2133) opening and providing for the administration of certain Community tariff quotas and tariff ceilings in the cereals sector etc[^f00037]
+
+[Commission Regulation (EC) No. 315/2002](https://www.legislation.gov.uk/european/regulation/2002/0315) on the survey of prices of fresh or chilled sheep carcasses on representative markets in the Community[^f00038]
+
+[Commission Regulation (EC) No. 2004/2002](https://www.legislation.gov.uk/european/regulation/2002/2004) relating to the procedure for determining the meat and fat content of certain pigmeat products[^f00039]
+
+[Commission Regulation (EC) No. 546/2003](https://www.legislation.gov.uk/european/regulation/2003/0546) on certain notifications regarding the application of Council Regulations [(EEC) No. 2771/75](https://www.legislation.gov.uk/european/regulation/1975/2771), [(EEC) No. 2777/75](https://www.legislation.gov.uk/european/regulation/1975/2777) and [(EEC) No. 2783/75](https://www.legislation.gov.uk/european/regulation/1975/2783) in the eggs and poultrymeat sectors[^f00040]
+
+[Commission Regulation (EC) No. 917/2004](https://www.legislation.gov.uk/european/regulation/2004/0917) on detailed rules to implement Council Regulation [(EC) No. 797/2004](https://www.legislation.gov.uk/european/regulation/2004/0797) on measures improving general conditions for the production and marketing of apiculture products[^f00041]
+
+[Commission Regulation (EC) No. 937/2006](https://www.legislation.gov.uk/european/regulation/2006/0937) opening and providing for the administration of a Community tariff quota of corn gluten originating in the United States of America[^f00042]
+
+[Commission Regulation (EC) No. 1557/2006](https://www.legislation.gov.uk/european/regulation/2006/1557) laying down detailed rules for implementing Council Regulation [(EC) No. 1952/2005](https://www.legislation.gov.uk/european/regulation/2005/1952) as regards registration of contracts and the communication of data concerning hops[^f00043]
+
+[Commission Regulation (EC) No. 1731/2006](https://www.legislation.gov.uk/european/regulation/2006/1731) on special detailed rules for the application of export refunds in the case of certain preserved beef and veal products[^f00044]
+
+[Commission Regulation (EC) No. 1741/2006](https://www.legislation.gov.uk/european/regulation/2006/1741) laying down the conditions for granting the special export refund on boned meat of adult male bovine animals placed under the customs warehousing procedure prior to export[^f00045]
+
+[Commission Regulation (EC) No. 504/2007](https://www.legislation.gov.uk/european/regulation/2007/0504) laying down detailed rules for the application of the arrangements for additional import duties in the milk and milk products sector[^f00046]
+
+[Commission Regulation (EC) No. 1375/2007](https://www.legislation.gov.uk/european/regulation/2007/1375) on imports of residues from the manufacture of starch from maize from the United States of America[^f00047]
+
+Council Regulation [(EC) No. 3/2008](https://www.legislation.gov.uk/european/regulation/2008/0003) on information provision and promotion measures for agricultural products on the internal market and in third countries[^f00048]
+
+[Commission Regulation (EC) No. 133/2008](https://www.legislation.gov.uk/european/regulation/2008/0133) on imports of pure-bred breeding animals of the bovine species from the third countries and the granting of export refunds thereon[^f00049]
+
+[Commission Regulation (EC) No. 508/2008](https://www.legislation.gov.uk/european/regulation/2008/0508) on the definition, applicable to the granting of export refunds, of hulled grains and pearled grains of cereals[^f00050]
+
+[Commission Regulation (EC) No. 951/2008](https://www.legislation.gov.uk/european/regulation/2008/0951) fixing the rates of refunds applicable to certain products from the sugar sector exported in the form of goods not covered by Annex I to the Treaty[^f00051]
+
+[Commission Regulation (EC) No. 1041/2008](https://www.legislation.gov.uk/european/regulation/2008/1041) laying down certain detailed rules for granting of assistance for the export of beef and veal which may benefit from a special import treatment in Canada[^f00052]
+
+[Commission Regulation (EC) No. 1312/2008](https://www.legislation.gov.uk/european/regulation/2008/1312) fixing the conversion rates, the processing costs and the value of the by-products for the various stages of rice processing[^f00053]
+
+[Commission Regulation (EC) No. 147/2009](https://www.legislation.gov.uk/european/regulation/2009/0147) of 20 February 2009 on defining the destination zones for exports refunds, export levies and certain export licences for cereals and rice[^f00054]
+
+[Commission Regulation (EC) No. 437/2009](https://www.legislation.gov.uk/european/regulation/2009/0437) opening and providing for the administration of a Community import tariff quota for young male bovine animals for fattening[^f00055]
+
+[Commission Regulation (EC) No. 438/2009](https://www.legislation.gov.uk/european/regulation/2009/0438) opening and providing for the administration of Community tariff quotas for bulls, cows and heifers other than for slaughter of certain Alpine and mountain breeds[^f00056]
+
+[Commission Regulation (EC) No. 933/2009](https://www.legislation.gov.uk/european/regulation/2009/0933) laying down detailed rules for the application of Council Regulation [(EC) No 779/98](https://www.legislation.gov.uk/european/regulation/1998/0779) as regards opening and providing for the administration of certain quotas for imports into the Community of poultrymeat products originating in Turkey[^f00057]
+
+[Commission Regulation (EC) No. 1064/2009](https://www.legislation.gov.uk/european/regulation/2009/1064) opening and providing for the administration of a Community import tariff quota for malting barley from third countries[^f00058]
+
+Commission Regulation (EU) No. 479/2010 laying down rules for the implementation of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards Member States’ notifications to the Commission in the milk and milk products sector[^f00059]
+
+Commission Regulation (EU) No. 1085/2010 opening and providing for the administration of certain annual tariff quotas for importing sweet potatoes, manioc, manioc starch and other products falling within CN codes 0714 90 11 and 0714 90 19 and amending Regulation (EU) No. 1000/2010[^f00060]
+
+Commission Implementing Regulation (EU) No. 789/2011 opening the procedure for the allocation of export licences for cheese to be exported to the United States of America in 2012 under certain GATT quotas[^f00061]
+
+Commission Implementing Regulation (EU) No. 1288/2011 on the notification of wholesale prices for bananas within the common organisation of agricultural markets[^f00062]
+
+Commission Implementing Regulation (EU) No. 1354/2011 opening annual Union tariff quotas for sheep, goats, sheepmeat and goatmeat[^f00063]
+
+Commission Implementing Regulation (EU) No. 481/2012 laying down rules for the management of a tariff quota for high-quality beef[^f00064]
+
+Commission Implementing Regulation (EU) No. 456/2013 laying down transitional measures as regards milk import quotas under Regulation [(EC) No. 2535/2001](https://www.legislation.gov.uk/european/regulation/2001/2535), and beef import quotas under Regulations [(EC) No. 412/2008](https://www.legislation.gov.uk/european/regulation/2008/0412) and [(EC) No. 431/2008](https://www.legislation.gov.uk/european/regulation/2008/0431), by reason of the accession of Croatia to the European Union[^f00065]
+
+Commission Implementing Regulation (EU) No. 807/2013 laying down detailed rules for the application of Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the survey of prices of certain bovine animals on representative Union markets[^f00066]
+
+Commission Implementing Regulation (EU) No. 266/2014 on the division between deliveries and direct sales of national milk quotas fixed for 2013/2014 in Annex IX to Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^f00067]
+
+Commission Implementing Regulation (EU) No. 1033/2014 fixing the representative prices and additional import duties applicable to molasses in the sugar sector from 1 October 2014[^f00068]
+
+(3) Insert in the appropriate places—
+
+> Commission Delegated Regulation (EU) No 932/2014 of 29 August 2014 laying down temporary exceptional support measures for producers of certain fruit and vegetables and amending Delegated Regulation (EU) No 913/2014[^f00069]
+
+;
+
+> Commission Implementing Regulation (EU) No 947/2014 of 4 September 2014 opening private storage for butter and fixing in advance the amount of aid[^f00070]
+
+;
+
+> Commission Implementing Regulation (EU) No. 948/2014 opening private storage for skimmed milk powder and fixing in advance the amount of aid[^f00071]
+
+;
+
+> Commission Delegated Regulation (EU) No 1031/2014 of 29 September 2014 laying down further temporary exceptional support measures for producers of certain fruit and vegetables[^f00072]
+
+;
+
+> Regulation (EU) No. 1144/2014 of the European Parliament and of the Council on information provision and promotion measures concerning agricultural products implemented in the internal market and in third countries and repealing Council Regulation [(EC) No. 3/2008](https://www.legislation.gov.uk/european/regulation/2008/0003)[^f00073]
+
+;
+
+> Commission Delegated Regulation (EU) No. 2015/1366 supplementing Regulation (EU) No. 1308/2013 of the European Parliament and of the Council with regard to aid in the apiculture sector[^f00074]
+
+;
+
+> Commission Implementing Regulation (EU) No. 2015/1368 laying down rules for the application of Regulation (EU) No. 1308/2013 of the European Parliament and of the Council with regard to aid in the apiculture sector[^f00075]
+
+;
+
+> Commission Delegated Regulation (EU) No. 2015/1538 supplementing Regulation (EU) No. 1308/2013 of the European Parliament and of the Council with regard to import licence applications, release for free circulation and proof of refining of sugar products of CN code 1701 under preferential agreements, for the marketing years 2015/16 and 2016/17 and amending Commission Regulations [(EC) No. 376/2008](https://www.legislation.gov.uk/european/regulation/2008/0376) and [(EC) No. 891/2009](https://www.legislation.gov.uk/european/regulation/2009/0891)[^f00076]
+
+;
+
+> Commission Implementing Regulation (EU) No. 2015/1550 laying down rules for the application of Regulation (EU) No. 1308/2013 of the European Parliament and of the Council as regards the import and refining of sugar products of CN code 1701 under preferential agreements, for the marketing years 2015/2016 and 2016/2017[^f00077]
+
+;
+
+> Commission Delegated Regulation (EU) No. 2015/1829 supplementing Regulation (EU) No. 1144/2014 of the European Parliament and of the Council on information provision and promotion measures concerning agricultural products implemented in the internal market and in third countries[^f00078]
+
+;
+
+> Commission Implementing Regulation (EU) No. 2015/1831 laying down rules for application of Regulation (EU) No. 1144/2014 of the European Parliament and of the Council on information provision and promotion measures concerning agricultural products implemented in the internal market and in the third countries[^f00079]
+
+;
+
+> Commission Delegated Regulation (EU) No. 2015/1852 opening a temporary exceptional private storage aid scheme for certain cheeses and fixing in advance the amount of aid[^f00080]
+
+;
+
+> Commission Implementing Regulation (EU) No. 2015/2076 opening and providing for the administration of Union import tariff quotas for fresh and frozen pigmeat originating in Ukraine[^f00081]
+
+;
+
+> Commission Implementing Regulation (EU) No. 2015/2077 opening and providing for the administration of Union import tariff quotas for eggs, egg products and albumins originating in Ukraine[^f00082]
+
+;
+
+> Commission Implementing Regulation (EU) No. 2015/2078 opening and providing for the administration of Union import tariff quotas for poultrymeat originating in Ukraine[^f00083]
+
+;
+
+> Commission Implementing Regulation (EU) No. 2015/2079 opening and providing for the administration of a Union import tariff quota for fresh and frozen beef and veal originating in Ukraine[^f00084]
+
+;
+
+> Commission Implementing Regulation (EU) No. 2015/2080 amending Regulation [(EC) No. 2535/2001](https://www.legislation.gov.uk/european/regulation/2001/2535) as regards the management of import tariff quotas for dairy products originating in Ukraine and the removal of an import tariff quota for dairy products originating in Moldova[^f00085]
+
+;
+
+> Commission Implementing Regulation (EU) No. 2015/2081 opening and providing for the administration of import tariff quotas for certain cereals originating in Ukraine[^f00086]
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend three sets of regulations that implement the Common Agricultural Policy of the European Union (“the CAP”).
+
+Part 2 amends the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014. Regulation 3 details how a discretion allowed to Member States under Council Regulation (EU) 1307/2013 to define an “active farmer” will be exercised. Regulation 4 amends two lists of crop species permitted in Ecological Focus Areas.
+
+Part 3 amends the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014. Regulation 6 amends the definitions of “rural development payment” and “accountable body” to reflect the division of responsibilities under the 2014-2020 CAP. Regulation 7 amends the provisions on set-off to make it explicit that direct payments and rural development payments may be set off against current and legacy debts.
+
+Regulation 9 amends regulation 14 so that only breaches of commitments under EU Regulations implementing the 2014-2020 CAP are enforceable under the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014. Regulations 11 and 12 correct references to EU Regulations implementing the Single Common Market Organisation for agricultural products.
+
+Regulation 13 amends Schedule 1 to add relevant EU Regulations (including those made since the coming into force of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014) and omit those that have been repealed or are of no relevance to the implementation of the Single Common Market Organisation for agricultural products in England. Regulation 14 makes amendments to the rules relating to cross-compliance that will apply from the start of the 2016 cross-compliance year, with the exception of regulation 14(4)(a), which removes from 1st January 2017 the exemption from the rules on cultivation or applying fertilisers or pesticides to land near watercourses for land forming part of a parcel of 2 hectares or less.
+
+Part 4 amends the Rural Development Enforcement (England) Regulations 2007 so that they apply to breaches of Commission Regulation 65/2011 (which these regulations remove from regulation 14(1)(c) of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). The function of the former Minister of Agriculture, Fisheries and Food of making regulations under section 2(2) was transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^f00002]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811) to which there are amendments not relevant to these Regulations. The power of the Secretary of State to make regulations that extend to Scotland and Northern Ireland and apply in Wales remains exercisable by virtue of section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), article 3(2) of the European Communities (Designation) (No. 3) Order 2000 ([S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)) and article 6 of the European Communities (Designation) (No. 5) Order 2010 ([S.I. 2010/2690](https://www.legislation.gov.uk/uksi/2010/2690)), respectively.
+
+[^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), and amended by Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^key-0180019975451b9ab65578743a1885c1]: Commencement: Reg. 1 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^key-ed12521d7488fc1cf817fdd7330d762a]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2015/1997/part/2) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+
+[^key-753eb49982208c4e33ad65ef9978a6d5]: Commencement: Reg. 5 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^f00007]: Footnote: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), amended by [S.I. 2015/1325](https://www.legislation.gov.uk/uksi/2015/1325).
+
+[^key-9f0ab6557b87905a752eedc2bf632138]: Commencement: Reg. 6 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^f00008]: Footnote: Regulation (EU) No 1305/2013 of the European Parliament and of the Council (OJ L 347 20.12.2013, p. 487), last amended by Commission Delegated Regulation (EU) 2015/791 (OJ L 127, 22.5.2015, p. 1).
+
+[^f00009]: Footnote: Regulation (EU) No 1303/2013 of the European Parliament and of the Council (OJ L 347 20.12.2013, p. 320), to which there is an amendment that is not relevant to this instrument.
+
+[^key-3b4c3adba4748dc3427933a513fe8370]: Commencement: Reg. 7 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^f00010]: Footnote: [S.I. 2007/75](https://www.legislation.gov.uk/uksi/2007/75), revoked with savings by [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263).
+
+[^f00011]: Footnote: OJ No L 30, 31.1.2009, p. 16, repealed by Article 72(2) of the Direct Payments Regulation.
+
+[^f00012]: Footnote: OJ No L 270, 21.10.2003, p. 1, repealed by Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) (OJ No L 30. 31.1 2009, p. 16).
+
+[^f00013]: Footnote: OJ No L 30, 31.1.2009, p. 16, repealed by Article 72(2) of the Direct Payments Regulation.
+
+[^f00014]: Footnote: [S.I. 2000/3044](https://www.legislation.gov.uk/uksi/2000/3044), revoked with savings by [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263).
+
+[^f00015]: Footnote: [S.I. 2009/3263](https://www.legislation.gov.uk/uksi/2009/3263), revoked by [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263).
+
+[^key-e5b5e89fcafc688bfc21138ddc20828d]: Commencement: Reg. 8 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^key-c000f4077ed9a94583207e2b0061c8e7]: Commencement: Reg. 9 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^key-5e19ad9ea6c8f361b5c02cbfbbb52d49]: Commencement: Reg. 10 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^key-500f8e1da8f2486a8969908f6ad5627d]: Commencement: Reg. 11 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^f00016]: Footnote: OJ No. L 328, 15.12.2009, p.10.
+
+[^f00017]: Footnote: OJ No. L 150, 20.5.2014, p.1.
+
+[^f00018]: Footnote: OJ No. L 136, 31.5.1994, p.5. Annex B was substituted by [Commission Regulation (EC) No. 1341/97](https://www.legislation.gov.uk/european/regulation/1997/1341) (OJ No. L 184, 12.7.1997, p. 12) and amended by [Commission Regulation (EC) No. 1909/97](https://www.legislation.gov.uk/european/regulation/1997/1909) (OJ No. L258, 1.10.1997, p. 20). Annex C was substituted by [Commission Regulation (EC) No. 229/96](https://www.legislation.gov.uk/european/regulation/1996/0229) (OJ No. L 30, 8.2.1996, p. 24) and amended by [Commission Regulation (EC) No. 1341/97](https://www.legislation.gov.uk/european/regulation/1997/1341) (OJ No. L 184, 12.7.1997, p. 12). Annex B was substituted by [Commission Regulation (EC) No. 1341/97](https://www.legislation.gov.uk/european/regulation/1997/1341) (OJ No. L 184, 12.7.1997, p. 12) and amended by [Commission Regulation (EC) No. 1909/97](https://www.legislation.gov.uk/european/regulation/1997/1909) (OJ No. L258, 1.10.1997, p. 20). Annex C was substituted by [Commission Regulation (EC) No. 229/96](https://www.legislation.gov.uk/european/regulation/1996/0229) (OJ No. L 30, 8.2.1996, p. 24) and amended by [Commission Regulation (EC) No. 1341/97](https://www.legislation.gov.uk/european/regulation/1997/1341) (OJ No. L 184, 12.7.1997, p. 12).
+
+[^f00019]: Footnote: OJ No. L 171, 6.7.2010, p.1 as last amended by Commission Implementing Regulation (EU) No 599/2013 (OJ No. L 172, 24.6.2013, 11).
+
+[^key-e06aea0c4b780f6424ce6efebde69b62]: Commencement: Reg. 12 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^key-7c6444263246930060bd1ba99b474b41]: Commencement: Reg. 13 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^key-53d29fa450233a67263b67b35f83c3a6]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1997/regulation/14) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+
+[^key-796a35c33cadbe5243ca3d8acb95128a]: Commencement: Reg. 15 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^f00023]: Footnote: OJ No. L 25, 28.1.2011, p.8, as repealed with savings by Commission Delegated Regulation (EU) No 640/2014 (OJ L 181, 20.6.2014, p. 48).
+
+[^f00024]: Footnote: OJ L 368, 23.12.2006, p. 74, as repealed with savings by Commission Regulation (EU) No 65/2011 (OJ L 25, 28.1.2011, p. 8).
+
+[^key-214ebee697c5ee998421ec519a85a28b]: Commencement: Sch. para. 1 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+
+[^f00025]: Footnote: OJ No. L 12, 15.1.1972, p. 15, as last amended by [Commission Regulation (EC) No. 260/96](https://www.legislation.gov.uk/european/regulation/1996/0260) (OJ No. L 34, 13.2.1996, p. 16).
+
+[^f00026]: Footnote: OJ No. L 25, 29.1.1977, p. 27, as last amended by [Commission Regulation (EC) No. 986/97](https://www.legislation.gov.uk/european/regulation/1997/0986) (OJ No. L 141, 31.5.1997, p. 65).
+
+[^f00027]: Footnote: OJ No. L 183, 4.7.1981, p. 10, as amended by Commission Regulation [(EEC) No. 2187/86](https://www.legislation.gov.uk/european/regulation/1986/2187) (OJ No. L190, 12.07.1986, p. 51).
+
+[^f00028]: Footnote: OJ No. L 211, 31.7.1981, p. 28.
+
+[^f00029]: Footnote: OJ No. L 345, 1.12.1981, p. 50.
+
+[^f00030]: Footnote: OJ No. L 337, 27.11.1987, p. 57, as last amended by Commission Regulation [(EEC) No. 1613/92](https://www.legislation.gov.uk/european/regulation/1992/1613) (OJ No. L 170, 25.6.1992, p. 14).
+
+[^f00031]: Footnote: OJ No. L 307, 24.10.1989, p. 22, as last amended by [Commission Regulation (EC) No. 1913/2006](https://www.legislation.gov.uk/european/regulation/2006/1913) (OJ No. L 365, 21.12.2006, p. 52).
+
+[^f00032]: Footnote: OJ No. L 350, 31.12.1994, p. 52.
+
+[^f00033]: Footnote: OJ No. L 291, 6.12.1995, p. 24.
+
+[^f00034]: Footnote: OJ No. L 61, 12.3.1996, p. 2, repealed by Commission Decision [(EC) No. 96/52](https://www.legislation.gov.uk/european/decision/1996/0052)6 (OJ No. L 221, 31.08.1996, p. 65).
+
+[^f00035]: Footnote: OJ No. L 243, 24.9.1996, p. 35, as last amended by [Commission Regulation (EC) No. 1144/2007](https://www.legislation.gov.uk/european/regulation/2007/1144) (OJ No. L 256, 02.10.2007, p. 26).
+
+[^f00036]: Footnote: OJ No. L 297, 6.11.1998, p. 7, as last amended by Commission Regulation (EU) No. 519/2013 (OJ No. L 158, 10.6.2013, p. 74).
+
+[^f00037]: Footnote: OJ No. L 287, 31.10.2001, p. 12, as last amended by [Commission Regulation (EC) No. 1381/2007](https://www.legislation.gov.uk/european/regulation/2007/1381) (OJ No. L 309, 27.11.2007, p. 24).
+
+[^f00038]: Footnote: OJ No. L 50, 21.2.2002, p. 47.
+
+[^f00039]: Footnote: OJ No. L 308, 09.11.2002, p. 22.
+
+[^f00040]: Footnote: OJ No. L 81, 28.3.2003, p. 12, as last amended by Commission Regulation (EU) No. 41/2010 (OJ No. L 12, 19.1.2010, p. 1).
+
+[^f00041]: Footnote: OJ No. L 163, 30.4.2004, p. 83, as last amended by Commission Implementing Regulation (EU) No. 768/2013 (OJ No. L 214, 09.8.2013, p. 7).
+
+[^f00042]: Footnote: OJ No. L 172, 24.6.2006, p. 9.
+
+[^f00043]: Footnote: OJ No. L 288, 19.10.2006, p. 18, as amended by Commission Regulation (EU) No. 173/2011 (OJ No. L 49, 24.2.2011, p. 16).
+
+[^f00044]: Footnote: OJ No. L 325, 24.11.2006, p. 12, as last amended by Commission Implementing Regulation (EU) No. 565/2013 (OJ No. L 167, 19.6.2013, p. 26).
+
+[^f00045]: Footnote: OJ No. L 329, 25.11.2006, p. 7, as last amended by Commission Regulation (EU) No. 173/2011 (OJ No. L 49, 24.2.2011, p. 16).
+
+[^f00046]: Footnote: OJ No. L 119, 09.5.2007, p. 7, as last amended by Commission Regulation (EU) No. 248/2010 (OJ No. L 79, 25.3.2010, p. 1).
+
+[^f00047]: Footnote: OJ No. L 307, 24.11.2007, p. 5.
+
+[^f00048]: Footnote: OJ No. L 003, 5.1.2008, p.1, as last amended by Council Regulation [(EC) No. 153/2009](https://www.legislation.gov.uk/european/regulation/2009/0153) (OJ No. L 51, 24.2.2009, p. 1).
+
+[^f00049]: Footnote: OJ No. L 41, 15.2.2008, p. 11.
+
+[^f00050]: Footnote: OJ No. L 149, 7.6.2008, p. 55.
+
+[^f00051]: Footnote: OJ No. L 258, 26.9.2008, p. 66.
+
+[^f00052]: Footnote: OJ No. L 281, 24.10.2008, p. 3.
+
+[^f00053]: Footnote: OJ No. L 344, 20.12.2008, p.56.
+
+[^f00054]: Footnote: OJ No. L 50, 21.2.2009, p. 5, as amended by Commission Regulation (EU) No. 519/2013 (OJ No. L 158, 10.6.2013, p. 74).
+
+[^f00055]: Footnote: OJ No. L 128, 27.5.2009, p. 54, as amended by Commission Regulation (EU) No. 291/2010 (OJ No. L 88, 08.4.2010, p. 9).
+
+[^f00056]: Footnote: OJ No. L 128, 27.5.2009, p. 57, as last amended by Commission Regulation (EU) No. 291/2010 (OJ No. L 88, 08.4.2010, p. 9).
+
+[^f00057]: Footnote: OJ No. L 263, 7.10.2009, p. 9.
+
+[^f00058]: Footnote: OJ No. L 291, 7.10.2009, p. 14, as amended by Commission Regulation (EU) No. 291/2010 (OJ No. L 88, 8.4.2010, p. 9).
+
+[^f00059]: Footnote: OJ No. L 135, 2.6.2010, p. 26, as last amended by Commission Implementing Regulation (EU) No. 1097/2014 (OJ No. L 300, 18.10.2014, p. 39).
+
+[^f00060]: Footnote: OJ No. L 310, 26.11.2010, p. 3.
+
+[^f00061]: Footnote: OJ No. L 203, 6.8.2011, p. 26.
+
+[^f00062]: Footnote: OJ L No. 328, 10.12.2011, p. 42.
+
+[^f00063]: Footnote: OJ No. L 338, 21.12.2011, p. 36.
+
+[^f00064]: Footnote: OJ No. L 148, 8.6.2012, p. 9, as amended by Commission Implementing Regulation (EU) No. 238/2013 (OJ No. L 74, 16.3.2013, p. 24).
+
+[^f00065]: Footnote: OJ No. L 133, 17.5.2013, p. 13.
+
+[^f00066]: Footnote: OJ No. L 228, 27.8.2013, p. 5.
+
+[^f00067]: Footnote: OJ No. L 76, 15.3.2014, p. 31.
+
+[^f00068]: Footnote: OJ No. L 284, 30.9.2014, p. 42.
+
+[^f00069]: Footnote: OJ No. L 259, 30.8.2014, p. 2.
+
+[^f00070]: Footnote: OJ L 265, 5.9.2014, p. 15, as last amended by Commission Implementing Regulation (EU) 2015/1548 (OJ L 242, 18.9.2015, p. 26).
+
+[^f00071]: Footnote: OJ No. L 265, 5.9.2014, p. 18, as last amended by Commission Implementing Regulation (EU) 2015/1851 (OJ No. L 271, 16.10.2015, p. 12).
+
+[^f00072]: Footnote: OJ No. L 284, 30.9.2014, p.22, as last amended by Commission Delegated Regulation (EU) 2015/1369 (OJ No. L 211, 8.8.2015, p. 17).
+
+[^f00073]: Footnote: OJ No. L 317, 4.11.2014, p. 56.
+
+[^f00074]: Footnote: OJ No. L 211, 8.8.2015, p. 3.
+
+[^f00075]: Footnote: OJ No. L 211, 8.8.2015, p. 9.
+
+[^f00076]: Footnote: OJ No. L 242, 18.9.2015, p. 1.
+
+[^f00077]: Footnote: OJ No. L 242, 18.9.2015, p. 30.
+
+[^f00078]: Footnote: OJ No. L 266, 13.10.2015, p. 3.
+
+[^f00079]: Footnote: OJ No. L 266, 13.10.2015, p. 14.
+
+[^f00080]: Footnote: OJ No. L 271, 16.10.2015, p. 15.
+
+[^f00081]: Footnote: OJ No. L 302, 19.11.2015, p. 51.
+
+[^f00082]: Footnote: OJ No. L 302, 19.11.2015, p. 57.
+
+[^f00083]: Footnote: OJ No. L 302, 19.11.2015, p. 63.
+
+[^f00084]: Footnote: OJ No. L 302, 19.11.2015, p. 71.
+
+[^f00085]: Footnote: OJ No. L 302, 19.11.2015, p. 77.
+
+[^f00086]: Footnote: OJ No. L 302, 19.11.2015, p. 81.

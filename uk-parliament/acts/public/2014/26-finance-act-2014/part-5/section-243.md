@@ -1,0 +1,35 @@
+---
+title: Finance Act 2014, section 243
+act: Finance Act 2014
+section: '243'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/243
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 243
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 243. Monitoring notices: tribunal approval
+
+*Extent: E+W+S+N.I.*
+
+(1) On an application under section 242, the tribunal may approve the giving of a monitoring notice only if—
+
+- (a) the tribunal is satisfied that, in the circumstances, the authorised officer would be justified in giving the monitoring notice, and
+- (b) the person to whom the monitoring notice is to be given (“the affected person”) has been given a reasonable opportunity to make representations to the tribunal.
+
+(2) The tribunal may amend the draft notice included with the application under section 242.
+
+(3) If the representations that the affected person makes to the tribunal include a statement that in the affected person's view it was not reasonable to include the condition mentioned in section 242(1)(b) in the conduct notice, the tribunal must refuse to approve the giving of the monitoring notice if it is satisfied that it was not reasonable to include that condition (but see subsection (4)).
+
+(4) If the representations made to the tribunal include the statement described in subsection (3) and the determination under section 242(1)(b) is a determination that there has been a failure to comply with more than one condition in the conduct notice—
+
+- (a) subsection (3) does not apply, but
+- (b) in deciding whether or not to approve the giving of the monitoring notice, the tribunal is to assume, in the case of any condition that the tribunal considers it was not reasonable to include in the conduct notice, that there has been no failure to comply with that condition.

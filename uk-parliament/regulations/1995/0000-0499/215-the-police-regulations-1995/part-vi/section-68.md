@@ -1,0 +1,19 @@
+---
+title: The Police Regulations 1995, section 68
+act: The Police Regulations 1995
+section: '68'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/215/section/68
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Regulations 1995, section 68
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 68. Ownership of uniform and equipment
+
+Subject to regulation 69 the uniform and equipment issued by the police authority shall not become the property of the member of the police force to whom they are issued and shall be handed back by him to the police authority on his leaving the force.

@@ -1,0 +1,44 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 45
+act: Taxation (International and Other Provisions) Act 2010
+section: '45'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/45
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 45
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 45. Credit against tax on trade income: anti-avoidance rules
+
+*Extent: E+W+S+N.I.*
+
+(1) If a company (“A”) carrying on a trade giving rise to trade income enters into a scheme or arrangement with another person (“B”) a main purpose of which is to alter the effect of section 44(2) and (3) in relation to A, income received in pursuance of the scheme or arrangement is to be treated for the purposes of section 44(2) and (3) as trade income of B (and not as income of A).
+
+(2) Income of a person (“D”) is to be treated for the purposes of section 44 as trade income (if it is not otherwise trade income) of D if—
+
+- (a) the income is received by D as part of a scheme or arrangement entered into by D and a connected person (“C”),
+- (b) had C received the income, it would be reasonable to assume that it would be trade income of C, and
+- (c) a main purpose of the scheme or arrangement is to produce the result that section 44(2) and (3) will not have effect in relation to the income because it is received by D.
+
+(3) For the purposes of subsection (2)(b) it is to be assumed that, in the case of any relevant transaction to which a relevant person is a party, C were that party to the transaction.
+
+(4) In subsection (3)—
+
+- “**relevant person**” means—
+  - (a) D, or
+  - (b) any other connected person who is a party to the scheme or arrangement mentioned in subsection (2), and
+- “**relevant transaction**” means any of the transactions giving rise to the income mentioned in subsection (2)(b).
+
+(5) In subsections (2) to (4) “**connected person**” means a person with whom D is connected.
+
+(6) Section 1122 of CTA 2010 (meaning of “connected”) applies for the purposes of subsection (5).
+
+(7) In this section “**trade income**” has the same meaning as in section 44.

@@ -1,0 +1,186 @@
+---
+title: The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2018
+id: uksi/2018/1207
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2018-11-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2018/1207
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1207/pdfs/uksiem_20181207_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1207/pdfs/uksi_20181207_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1207/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2018
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2018 No. 1207
+
+Local Government, England
+
+The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2018
+
+Made
+
+21st November 2018
+
+Laid before Parliament
+
+23rd November 2018
+
+Coming into force
+
+19th December 2018
+
+The Secretary of State, in exercise of the powers conferred by sections 11, 21(1) and 123(1) and (2) of the Local Government Act 2003[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2018.
+
+(2) These Regulations come into force on 19th December 2018.
+
+## 2. Amendment of the Local Authorities (Capital Finance and Accounting) (England) Regulations 2003
+
+The Local Authorities (Capital Finance and Accounting) (England) Regulations 2003[^f00002] are amended as follows.
+
+## 3. Back payments following unequal pay: use of capital receipts
+
+In regulation 23, in paragraph (j)—
+
+- (a) after “30A(2)” insert “or regulation 30AA(2) as the case may be”; and
+- (b) after “30A(3)” insert “or 30AA(3) as the case may be”.
+
+## 4. Back payments following unequal pay: further temporary accounting treatment
+
+After regulation 30A insert—
+
+> **30AA. Back payments following unequal pay – further temporary accounting treatment**
+>
+> (1)  For the purposes of this regulation—
+>
+> - (a) a reference to an employee of a local authority (“E”) includes a reference to a former employee, an officer or a former officer of that authority;
+> - (b) a reference to the contract under which E was or is employed includes a reference to the terms of appointment under which an officer held or holds office; and
+> - (c) E received unequal pay when the amount of pay E received from the authority for work done by E during a particular period is less than the appropriate amount of pay for that work done during that period.
+>
+> (2) In this regulation—
+>
+> - “appropriate amount of pay”, in relation to E, means the amount of pay to which E is entitled in accordance with any sex equality clause deemed to be included, by virtue of section 66(1) of the Equality Act 2010[^f00003], in the contract under which E was or is employed;
+> - “back payment” means a payment of arrears of remuneration made by a local authority, for work—
+>   - (a) done by E;
+>   - (b) in respect of which E received unequal pay; and
+>   - (c) done before E first receives any increase in pay as a result of receiving that unequal pay,
+>
+>   which is paid to E, or part of which is paid to E (“the net payment”) and part of which is paid to another person on behalf of E (“relevant deductions”), because E received unequal pay for that work; and
+> - “social security costs” means any contributions by a local authority to any state social security or pension scheme, fund or arrangement.
+>
+> (3) Where a local authority—
+>
+> - (a) is required by an employment tribunal or a court to make a back payment;
+> - (b)
+>   - (i) considers that it is probable that an employment tribunal or a court will require it to make a back payment; and
+>   - (ii) is able to make a reasonable estimate of the amount of such back payment;
+> - (c) has reached an agreement or otherwise determined to make a back payment; or
+> - (d)
+>   - (i) considers that it is probable that it will reach an agreement or otherwise determine to make a back payment; and
+>   - (ii) is able to make a reasonable estimate of the amount of such back payment,
+>
+> paragraph (4) applies.
+>
+> (4) Where this paragraph applies, the authority need not charge to a revenue account an amount in respect of—
+>
+> - (a) the back payment; or
+> - (b) social security costs or other costs incurred by the authority in relation to that back payment,
+>
+> until the date on which the authority must pay that back payment, or the net payment, to the employee (as required by the tribunal or court or in accordance with the agreement or determination, as the case may be).
+>
+> (5) Subject to paragraph (6), this regulation ceases to have effect on 1st April 2020.
+>
+> (6) Where paragraph (4) applies to an amount, it continues to apply until the date on which the payment is actually made, whether or not the date is on or after 1st April 2020.
+
+.
+
+## 5. Fair value gains and losses of pooled investment funds
+
+After regulation 30J insert—
+
+> **30K. Fair value gains and losses of pooled investment funds**
+>
+> (1) In this regulation—
+>
+> - “administering authority” means an administering authority as defined in Schedule 1 to the Local Government Pension Scheme Regulations 2013[^f00004];
+> - “fair value” means the fair value of an investment as determined in accordance with proper practices;
+> - “fair value gain or loss” means a change in the fair value of an investment;
+> - “pooled investment fund” means—
+>   - (a) a money market fund;
+>   - (b) a collective investment scheme as defined in section 235(1) of the Financial Services and Markets Act 2000[^f00005]; or
+>   - (c) an investment scheme approved by the Treasury under section 11(1) of the Trustee Investments Act 1961[^f00006](local authority investment schemes).
+>
+> (2) Where a local authority—
+>
+> - (a) invests in a pooled investment fund (other than in its capacity as an administering authority in relation to a pension fund), and
+> - (b) a fair value gain or loss experienced on the authority’s investment in that pooled investment fund would otherwise be charged to a revenue account by that local authority in accordance with proper practices,
+>
+> paragraph (3) applies.
+>
+> (3) Where this paragraph applies, the authority—
+>
+> - (a) must not charge to a revenue account an amount in respect of that fair value gain or loss; and
+> - (b) must charge that amount to an account established, charged and used solely for the purpose of recognising fair value gains and losses in accordance with this regulation.
+>
+> (4) Paragraph (3) does not apply in respect of—
+>
+> - (a) an impairment loss in relation to the authority’s investment in a pooled investment fund as recognised in a revenue account of the authority in accordance with proper practices; or
+> - (b) a sale or other disposal of the whole or any part of the authority’s investment in a pooled investment fund.
+>
+> (5) This regulation applies in relation to accounts prepared for financial years[^f00007] falling within the period beginning with 1st April 2018 and ending with 31st March 2023.
+
+.
+
+Signed by authority of the Secretary of State for Housing, Communities and Local Government
+
+Rishi Sunak
+
+Parliamentary Under Secretary of State
+
+Ministry of Housing, Communities and Local Government
+
+21st November 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Local Authorities (Capital Finance and Accounting) (England) Regulations 2003 (the “2003 Regulations”).
+
+Regulation 3 amends regulation 23 of the 2003 Regulations in order to allow a local authority to use capital receipts to make a payment to an employee or officer under new regulation 30AA.
+
+Regulation 4 inserts a new regulation 30AA into the 2003 Regulations. New regulation 30AA provides that a local authority need not charge to a revenue account an amount in respect of a payment to be made to an officer or employee (“E”) for work done for which E received unequal pay (where men and women were paid different amounts for similar work despite being entitled to the same amounts by virtue of section 66 of the Equality Act 2010), until the authority pays that amount to E.
+
+Regulation 5 inserts a new regulation 30K into the 2003 Regulations. New regulation 30K provides that a local authority must not charge an amount to its revenue account to reflect any fluctuation in the fair value of a local authority’s investment in a pooled investment fund. Instead, such amounts must be recorded in a separate account established and usable solely for that purpose. The fair value of a local authority investment in a pooled investment fund is determined in accordance with the proper accounting practices which local authorities must follow by virtue of regulation 31 of the 2003 Regulations. This accounting treatment is not to apply to the recognition of an impairment loss to such an investment as recognised under those proper accounting practices, or to any disposal of such an investment, including a sale. It is also not applicable to investments made by a local authority in its capacity as the administering authority of a local government pension fund. Regulation 30K will apply to accounts prepared for financial years in respect of the period beginning with 1st April 2018 and ending with 31st March 2023.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c.26](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^f00002]: Footnote: [S.I. 2003/3146](https://www.legislation.gov.uk/uksi/2003/3146). Relevant amending instruments are [S.I. 2007/573](https://www.legislation.gov.uk/uksi/2007/573), [S.I. 2010/454](https://www.legislation.gov.uk/uksi/2010/454) and [S.I. 2013/476](https://www.legislation.gov.uk/uksi/2013/476). There are other amending instruments but none is relevant.
+
+[^f00003]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^f00004]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356). There are amending instruments but none is relevant.
+
+[^f00005]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^f00006]: Footnote: [1961 c.62](https://www.legislation.gov.uk/ukpga/1961/62).
+
+[^f00007]: Footnote: For the definition of “financial year” see section 124 of the Local Government Act 2003.

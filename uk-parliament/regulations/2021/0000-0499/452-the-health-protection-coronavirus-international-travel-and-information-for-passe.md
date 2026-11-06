@@ -1,0 +1,146 @@
+---
+title: The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) (No. 2) Regulations 2021
+id: uksi/2021/452
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-04-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/452
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/452/pdfs/uksiem_20210452_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/452/pdfs/uksi_20210452_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/452/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) (No. 2) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 452
+
+Public Health, England
+
+Transport, England
+
+The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) (No. 2) Regulations 2021
+
+Made
+
+7th April 2021
+
+Laid before Parliament
+
+8th April 2021
+
+Coming into force
+
+at 4.00 a.m. on 10th April 2021
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984[^f00001].
+
+## 1. Citation, commencement, extent and application
+
+(1) These Regulations may be cited as the Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) (No. 2) Regulations 2021 and come into force at 4.00 a.m. on 10th April 2021.
+
+(2) These Regulations extend to England and Wales and apply in relation to England only.
+
+## 2. Amendment of the Health Protection (Coronavirus, International Travel) (England) Regulations 2020
+
+(1) The Health Protection (Coronavirus, International Travel) (England) Regulations 2020[^f00002] are amended as follows.
+
+(2) In Schedule 3 (specified competitions)—
+
+- (a) omit the following entries—
+  - (i) “Yonex All England Open Badminton Championships”;
+  - (ii) “GB Taekwondo Fight Night I – International Taekwondo, Para Taekwondo and Karate Event”;
+  - (iii) “British Swimming International Meet”;
+  - (iv) “Imperial Cup meeting horse-racing”;
+  - (v) “Lincoln Handicap meeting horse-racing”;
+  - (vi) “Midlands National meeting horse-racing”;
+  - (vii) “Para Powerlifting World Cup”;
+  - (viii) “The Festival at Cheltenham horse-racing”;
+  - (ix) “World Snooker Tour - Gibraltar Open”;
+  - (x) “Cage Warriors 120”;
+  - (xi) “Super League Triathlon Arena Games London”;
+  - (xii) “British Wrestling - Home Nations Invitational Tournament”;
+  - (xiii) “LTA Loughborough Indoor Wheelchair Tennis Tournament”;
+  - (xiv) “Cage Warriors 121”;
+  - (xv) “Badminton Horse Trials”;
+  - (xvi) “Bolesworth International Horse Show”;
+- (b) at the end insert—
+
+  > British Superbike Championship and Support Series
+  >
+  > ACU - British Motocross Championship and Support races
+  >
+  > Equestrian Eventing - Cirencester
+  >
+  > European Tour - English Championships
+  >
+  > Qipco Guineas Festival horse-racing
+  >
+  > Lingfield Derby/Oaks Trials Day horse-racing
+  >
+  > Dante Festival horse-racing
+  >
+  > Al Shaqab Lockinge Day horse-racing
+  >
+  > LTA - GB Pro Series Roehampton 1 & 2
+  >
+  > Equestrian Jumping - Wellington, Heckfield
+  >
+  > Curling - World Mixed Doubles Championship 2021
+  >
+  > UCI Mountain Bike World Cup
+  >
+  > AJ Bell 2021 World Triathlon Leeds
+  >
+  > European 10,000m Cup (incorporating the British 10,000 Olympic Trial)
+  >
+  > Equestrian Eventing - Belsay International
+
+  .
+
+## 3. Amendment of the Health Protection (Coronavirus, Public Health Information for International Passengers) (England) Regulations 2020
+
+(1) The Health Protection (Coronavirus, Public Health Information for International Passengers) (England) Regulations 2020[^f00003] are amended as follows.
+
+(2) In the Schedule (specified information for the purposes of regulation 4), in Part 3, for “return home” substitute “leave the area”.
+
+## 4. Transitional and saving provision
+
+In relation to any booking made before the coming into force of these Regulations, the requirement in regulation 3(2A) of the Health Protection (Coronavirus, Public Health Information for International Passengers) (England) Regulations 2020 (“the outbound information requirement”) is to be regarded as complied with even if the information provided to passengers does not include the information required by the amendment made by regulation 3.
+
+Signed by the authority of the Secretary of State for Transport
+
+Robert Courts
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+7th April 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 to add upcoming events, and remove finished events, from the list of specified competitions in Schedule 3 to those Regulations. That list is relevant to the exemption for sportspersons from self-isolation.
+
+An amendment is also made to the Health Protection (Coronavirus, Public Health Information for International Passengers) (England) Regulations 2020 to modify the information required to be provided, by operators, to passengers departing England. This change reflects that, following the introduction of the Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 and removal of the ‘Stay at Home’ requirement, a person may no longer be directed to return to the place where they are living but may still be directed to leave an embarkation point.
+
+An impact assessment has not been produced for this instrument. An explanatory memorandum has been published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00002]: Footnote: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), [724](https://www.legislation.gov.uk/uksi/2020/724), [799](https://www.legislation.gov.uk/uksi/2020/799), [805](https://www.legislation.gov.uk/uksi/2020/805), [813](https://www.legislation.gov.uk/uksi/2020/813), [819](https://www.legislation.gov.uk/uksi/2020/819), [841](https://www.legislation.gov.uk/uksi/2020/841), [866](https://www.legislation.gov.uk/uksi/2020/866), [890](https://www.legislation.gov.uk/uksi/2020/890), [913](https://www.legislation.gov.uk/uksi/2020/913), [942](https://www.legislation.gov.uk/uksi/2020/942), [959](https://www.legislation.gov.uk/uksi/2020/959), [980](https://www.legislation.gov.uk/uksi/2020/980), [1013](https://www.legislation.gov.uk/uksi/2020/1013), [1039](https://www.legislation.gov.uk/uksi/2020/1039), [1070](https://www.legislation.gov.uk/uksi/2020/1070), [1076](https://www.legislation.gov.uk/uksi/2020/1076), [1094](https://www.legislation.gov.uk/uksi/2020/1094), [1129](https://www.legislation.gov.uk/uksi/2020/1129), [1161](https://www.legislation.gov.uk/uksi/2020/1161), [1190](https://www.legislation.gov.uk/uksi/2020/1190), [1227](https://www.legislation.gov.uk/uksi/2020/1227), [1238](https://www.legislation.gov.uk/uksi/2020/1238), [1277](https://www.legislation.gov.uk/uksi/2020/1277), [1292](https://www.legislation.gov.uk/uksi/2020/1292), [1323](https://www.legislation.gov.uk/uksi/2020/1323), [1337](https://www.legislation.gov.uk/uksi/2020/1337), [1360](https://www.legislation.gov.uk/uksi/2020/1390), [1375](https://www.legislation.gov.uk/uksi/2020/1375), [1424](https://www.legislation.gov.uk/uksi/2020/1424), [1517](https://www.legislation.gov.uk/uksi/2020/1517), [1595](https://www.legislation.gov.uk/uksi/2020/1595), [1644](https://www.legislation.gov.uk/uksi/2020/1644), [2021/18](https://www.legislation.gov.uk/uksi/2021/18), [25](https://www.legislation.gov.uk/uksi/2021/25), [38](https://www.legislation.gov.uk/uksi/2021/38), [47](https://www.legislation.gov.uk/uksi/2021/47), [49](https://www.legislation.gov.uk/uksi/2021/49), [68](https://www.legislation.gov.uk/uksi/2021/68), [98](https://www.legislation.gov.uk/uksi/2021/98), [137](https://www.legislation.gov.uk/uksi/2021/137), [150](https://www.legislation.gov.uk/uksi/2021/150), [166](https://www.legislation.gov.uk/uksi/2021/166), [223](https://www.legislation.gov.uk/uksi/2021/223), [252](https://www.legislation.gov.uk/uksi/2021/252), [348](https://www.legislation.gov.uk/uksi/2021/348), [442](https://www.legislation.gov.uk/uksi/2021/442) and [447](https://www.legislation.gov.uk/uksi/2021/447).
+
+[^f00003]: Footnote: [S.I. 2020/567](https://www.legislation.gov.uk/uksi/2020/567), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), [1090](https://www.legislation.gov.uk/uksi/2020/1090), [1517](https://www.legislation.gov.uk/uksi/2020/1517), [2021/68](https://www.legislation.gov.uk/uksi/2021/68), [150](https://www.legislation.gov.uk/uksi/2021/150), [252](https://www.legislation.gov.uk/uksi/2021/252) and [364](https://www.legislation.gov.uk/uksi/2021/364).

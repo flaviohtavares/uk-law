@@ -1,0 +1,222 @@
+---
+title: The Discretionary Housing Payments (Grants) Order 2001
+id: uksi/2001/2340
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-06-27'
+text_date: '2026-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2001/2340
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/2340/pdfs/uksi_20012340_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/2340/pdfs/uksi_20012340_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/2340/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Discretionary Housing Payments (Grants) Order 2001
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2001 No. 2340
+
+SOCIAL SECURITY
+
+The Discretionary Housing Payments (Grants) Order 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+Made *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+27th June 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+Laid before Parliament *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+28th June 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+Coming into force *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+2nd July 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+The Secretary of State for Work and Pensions, with the consent of the Treasury *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7][^c1560073], in exercise of the powers conferred upon him by sections 140B(1), 140C(1) and (4) and 189(4) to (6) of the Social Security Administration Act 1992 *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7][^c1560074], and section 70 of the Child Support, Pensions and Social Security Act 2000 *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7][^c1560075] and of all other powers enabling him in that behalf, after consultation with organisations appearing to him to be representative of the authorities concerned *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7][^c1560076], hereby makes the following Order: *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+## 1 (Extent: E) (affected by repeal, see note). Citation, commencement and interpretation (Extent: E) (affected by repeal, see note)[^key-58d423a64ff3928a84737f90fea093f7][^key-58d423a64ff3928a84737f90fea093f7]
+
+(1 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] This Order may be cited as the Discretionary Housing Payments (Grants) Order 2001 and shall come into force on 2nd July 2001. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+(2 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] In this Order, unless the context otherwise requires— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+- “the Act” means the Child Support, Pensions and Social Security Act 2000; *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- “claim” means a claim by a relevant authority for payments towards the cost of making discretionary housing payments; *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- “final claim” means any claim which falls to be made in accordance with article 3(2)(g);[^key-e87614dc26f4a0a0d7f99f69d8eebc32] *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- “non-audit claim” means any claim made by a relevant authority *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] [^key-f106d0b570073db52e49b51b225dd98d]... under article 3(2)(f) where the total amount of the claim in respect of the relevant year is less than £50,000; *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- “relevant year” means any year commencing on or after 1st April 2002. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+## 2 (Extent: E) (affected by repeal, see note). Determining the amount of grant (Extent: E) (affected by repeal, see note)[^key-58d423a64ff3928a84737f90fea093f7][^key-58d423a64ff3928a84737f90fea093f7]
+
+(1 (Extent: E) (affected by repeal, see note))[^key-e6573cd75b3509bf5bdf335a6bee0acc][^key-58d423a64ff3928a84737f90fea093f7] The payments made to a relevant authority in accordance with section 70 of the Act (grants towards the cost of discretionary housing payments) shall be determined by the Secretary of State having regard to— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] the most recent figures available in respect of the level of expenditure for housing benefit *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] [^key-fa57e6e4c2b0c66cc60c3710cc892527]... by the authority *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] and relevant awards of universal credit[^key-8d51315f2ae5d66e36b52e2e91fb0f9e] *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]; and *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (b (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] such other matters as he considers appropriate. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+(2 (Extent: E) (affected by repeal, see note))[^key-0fe50e51412a3626e30a32c7c4c58881][^key-58d423a64ff3928a84737f90fea093f7] For the purpose of paragraph (1), a “relevant award of universal credit” means an award of universal credit, the calculation of which includes an amount under section 11 of the Welfare Reform Act 2012, calculated in accordance with Schedule 4 to the Universal Credit Regulations 2013, or would include such an amount but for paragraph 3(h) or (i) of Schedule 1 to those Regulations. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+## 3 (Extent: E) (affected by repeal, see note). Claims (Extent: E) (affected by repeal, see note)[^key-58d423a64ff3928a84737f90fea093f7][^key-58d423a64ff3928a84737f90fea093f7]
+
+(1 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] Subject to the following paragraphs, a claim made under this Order shall be submitted in such manner and on such form, whether in a printed document or any other format, as may be approved or supplied by the Secretary of State. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+(2 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] A claim shall be submitted by the relevant authority— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-55fe49f043ea538f0c2e02e18e197ba0][^key-58d423a64ff3928a84737f90fea093f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (b (Extent: E) (affected by repeal, see note))[^key-55fe49f043ea538f0c2e02e18e197ba0][^key-58d423a64ff3928a84737f90fea093f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (c (Extent: E) (affected by repeal, see note))[^key-55fe49f043ea538f0c2e02e18e197ba0][^key-58d423a64ff3928a84737f90fea093f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (d (Extent: E) (affected by repeal, see note))[^key-55fe49f043ea538f0c2e02e18e197ba0][^key-58d423a64ff3928a84737f90fea093f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (e (Extent: E) (affected by repeal, see note))[^key-71e2668a52a4af177714e0df029ee2df][^key-58d423a64ff3928a84737f90fea093f7] by 31st October in a relevant year— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+  - (i (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] showing the amount of payments it has made from 1st April to 30th September of that relevant year; and *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+  - (ii (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] estimating the total amount of payments it believes it will make between 1st April and 31st March of that relevant year. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (f (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] showing the amount of payments made during the relevant year, by *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] 30th April[^key-2a6d521e887bb961fca3423e6a998382] *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] in the following relevant year; and *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (g (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] except where the claim is a non-audit claim,[^key-56980850fc2ca2f83fb3000a00c624e7] *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] by 30th September in a relevant year— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+  - (i (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] showing the amount of payments made during the previous relevant year, and *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+  - (ii (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] certified by the auditor of the relevant authority that the entries on the claim are fairly stated. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+(3 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] Claims submitted by a relevant authority in accordance with paragraph (2) of this article shall be signed— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] in the case of a relevant authority in England and Wales, *(Extent: W)* *(affected by repeal, see note)*[^key-bb064bf0d670347f48a36fd65bd5347f] *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] by the officer who is responsible for finance pursuant to section 151 of the Local Government Act 1972 *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] [^c1560077]; *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (b (Extent: E) (affected by repeal, see note))[^key-e828d04fee0cc1e4116539150c4d616a][^key-58d423a64ff3928a84737f90fea093f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+## 4 (Extent: E) (affected by repeal, see note). Records and information provisions (Extent: E) (affected by repeal, see note)[^key-f9237b74954cf5a6cc394b668aff2a0e][^key-58d423a64ff3928a84737f90fea093f7][^key-58d423a64ff3928a84737f90fea093f7]
+
+(1 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] A relevant authority shall, in relation to any relevant year— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] keep such records as are likely to be required for the purpose described in paragraph (2), should there be a final claim by that authority in respect of that year; and *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (b (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] where there is such a claim, on request— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+  - (i (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] produce such of those records, and *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+  - (ii (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] provide such other information, *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+  as the auditor may require for the purpose described in paragraph (2). *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+(2 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] The purpose referred to in paragraph (1) is the purpose of satisfying the auditor that— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] the entries on the claim form are correctly stated; and *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (b (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] expenditure on which the claim is based has been properly incurred, *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+so that a final claim may be made by the date specified in article 3(2)(g). *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+(3 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] The relevant authority shall, in relation to any relevant year— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] keep such records as are likely, in connection with any claim the authority may make in respect of that year, to be required for the purpose described in sub-paragraph (b); and *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+- (b (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] on request— *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+  - (i (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] produce in time such of those records, and *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+  - (ii (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] provide in time such other information, *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+  as the Secretary of State may require for the purpose of satisfying himself that the claim is accurate and properly calculated. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+(4 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] In paragraph (3), “in time” means no later than the end of the period of six weeks beginning with the day on which the request referred to in that paragraph is sent to the relevant authority. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+## 5 (Extent: E) (affected by repeal, see note). Audit provisions (Extent: E) (affected by repeal, see note)[^key-58d423a64ff3928a84737f90fea093f7][^key-58d423a64ff3928a84737f90fea093f7]
+
+A relevant authority shall procure that the final claim is audited by its auditor by 30th September in the year following the year to which that claim relates. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+## 6 (Extent: E) (affected by repeal, see note). Payment (Extent: E) (affected by repeal, see note)[^key-b69a055c7a4c02232132219f357539c0][^key-58d423a64ff3928a84737f90fea093f7][^key-58d423a64ff3928a84737f90fea093f7]
+
+(1 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] Subject to paragraph (2) and article 6A, the Secretary of State may make payments by way of instalments by reference to claims submitted in accordance with article 3 but no final payment shall be made until the Secretary of State is satisfied that no request for information in accordance with article 4 is outstanding. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+(2 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] An initial instalment payment for the relevant year may be made without reference to any claim submitted in accordance with article 3. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+## 6A (Extent: E) (affected by repeal, see note). Estimating amounts (Extent: E) (affected by repeal, see note)[^key-f036925986386fffdbb9dd3ed2cc11fa][^key-58d423a64ff3928a84737f90fea093f7][^key-58d423a64ff3928a84737f90fea093f7]
+
+(1 (Extent: E) (affected by repeal, see note))[^key-58d423a64ff3928a84737f90fea093f7] Where, in relation to any relevant year, a relevant authority has not, before the time specified in article 3, 4 or 5, as the case may be, complied with any condition with which it is required under that article to comply, the Secretary of State may estimate the amount of any payment, including any payment by instalments, payable to that authority in accordance with section 70 of the Act in respect of that year, and may employ for that purpose such criteria as he considers relevant. *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+## 7 (Extent: E) (affected by repeal, see note). Limit on total expenditure (Extent: E) (affected by repeal, see note)[^key-58d423a64ff3928a84737f90fea093f7][^key-58d423a64ff3928a84737f90fea093f7]
+
+(1 (Extent: W) (affected by repeal, see note) (Extent: E) (affected by repeal, see note))[^key-b7d488e45aa982350ada6b3a8a20662a][^key-58d423a64ff3928a84737f90fea093f7] Subject to paragraph (2), for the purposes of section 70(3)(a) of the Act (the limit on the total amount of expenditure in any year that may be incurred by a relevant authority in making discretionary housing payments) the limit in any year is the amount of grant the Secretary of State determines to make to the relevant authority *(Extent: S)* *(affected by repeal, see note)*[^key-176423013937b866c758aba232f0ae5c] *(Extent: W)* *(affected by repeal, see note)*[^key-b7d488e45aa982350ada6b3a8a20662a] *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] in that year[^key-49a9f6c4e93de743ce8651adec7adad8] *(Extent: S)* *(affected by repeal, see note)*[^key-176423013937b866c758aba232f0ae5c] *(Extent: W)* *(affected by repeal, see note)*[^key-b7d488e45aa982350ada6b3a8a20662a] *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7] multiplied by 2.5. *(Extent: S)* *(affected by repeal, see note)*[^key-176423013937b866c758aba232f0ae5c] *(Extent: W)* *(affected by repeal, see note)*[^key-b7d488e45aa982350ada6b3a8a20662a] *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+(2 (Extent: W) (affected by repeal, see note) (Extent: E) (affected by repeal, see note))[^key-b7d488e45aa982350ada6b3a8a20662a][^key-58d423a64ff3928a84737f90fea093f7] In the case of the period commencing 2nd July 2001 and ending 31st March 2002, the limit is the amount the Secretary of State has determined to make to a relevant authority as at 2nd July 2001 multiplied by 2.5. *(Extent: W)* *(affected by repeal, see note)*[^key-b7d488e45aa982350ada6b3a8a20662a] *(Extent: E)* *(affected by repeal, see note)*[^key-58d423a64ff3928a84737f90fea093f7]
+
+Signed by authority of the Secretary of State for Work & Pensions
+
+Malcolm Wicks
+
+Parliamentary Under-Secretary of State for Work & Pensions
+
+We consent,
+
+John Heppell
+
+Nick Ainger
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+*(This note is not part of the Order)*
+
+This Order sets out the procedure by which the Secretary of State will make payments towards the cost of discretionary housing payments in accordance with section 70 of the Child Support, Pensions and Social Security Act 2000.
+
+Article 2 provides for the determination of the amount of grant the Secretary of State makes to a relevant authority.
+
+Article 3 provides the procedure for making claims.
+
+Article 4 makes provision in respect of the requirement to keep records and provision of information.
+
+Article 5 makes provision in respect of audit requirements.
+
+Article 6 makes provision in respect of payment of the grant.
+
+Article 7 imposes a limit on the total amount of expenditure that may be incurred in any year by a relevant authority in making discretionary housing payments.
+
+This Order does not impose a charge on business.
+
+## Annotations
+
+[^key-58d423a64ff3928a84737f90fea093f7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2340) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+
+[^c1560073]: Marginal citation: *See* section 189(8) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5); amended by paragraph 3(5) of Schedule 13 to the [Housing Act 1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), [paragraph 10](https://www.legislation.gov.uk/ukpga/1996/52/paragraph/10) of Schedule 3 to the [Social Security (Recovery of Benefits) Act 1997 (c. 27)](https://www.legislation.gov.uk/ukpga/1997/27) and paragraphs 57(3) of Schedule 3 to the [Social Security (Transfer of Functions etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^c1560074]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); [sections 140B](https://www.legislation.gov.uk/uksi/2001/2340/section/140B) and 140C were inserted by the Housing Act 1996, Schedule 12, paragraph 4 and section 140B(1) was amended by the [Social Security Administration (Fraud) Act 1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47), [Schedule 1](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1), [paragraph 7](https://www.legislation.gov.uk/ukpga/1997/47/paragraph/7). The sections are applied to the payments to which this Instrument relates by virtue of section 70(2) of the Child Support, Pensions and Social Security Act 2000.
+
+[^c1560075]: Marginal citation: [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^c1560076]: Marginal citation: *See* section 176(1) of the Social Security Administration Act 1992.
+
+[^key-e87614dc26f4a0a0d7f99f69d8eebc32]: Textual amendment: Words in art. 1(2) inserted (29.9.2004) by [Discretionary Housing Payments (Grants) Amendment Order 2004 (S.I. 2004/2329)](https://www.legislation.gov.uk/uksi/2004/2329), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2329/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2329/article/2/2)
+
+[^key-f106d0b570073db52e49b51b225dd98d]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/2340/article/1/2) omitted (1.9.2005 retrospective and with effect in accordance with art. 1(2)(a)) by virtue of [Discretionary Housing Payments (Grants) Amendment Order 2005 (S.I. 2005/2052)](https://www.legislation.gov.uk/uksi/2005/2052), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2052/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/2052/article/2/2)
+
+[^key-e6573cd75b3509bf5bdf335a6bee0acc]: Textual amendment: Art. 2 renumbered as art. 2(1) (with effect in accordance with art. 8(2) of the amending S.I.) by The Income-related [Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2021/1031/article/8/3)
+
+[^key-fa57e6e4c2b0c66cc60c3710cc892527]: Textual amendment: Words in [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2001/2340/article/2/1/a) omitted (with effect in accordance with art. 8(2) of the amending S.I.) by virtue of [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1031/article/8/3/a/i)
+
+[^key-8d51315f2ae5d66e36b52e2e91fb0f9e]: Textual amendment: Words in [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2001/2340/article/2/1/a) inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1031/article/8/3/a/ii)
+
+[^key-0fe50e51412a3626e30a32c7c4c58881]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2001/2340/article/2/2) inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2021/1031/article/8/3/b)
+
+[^key-55fe49f043ea538f0c2e02e18e197ba0]: Textual amendment: [Art. 3(2)(a)-(d)](https://www.legislation.gov.uk/uksi/2001/2340/article/3/2/a) omitted (with effect in accordance with art. 8(2) of the amending S.I.) by virtue of [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [8(4)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1031/article/8/4/a/i)
+
+[^key-71e2668a52a4af177714e0df029ee2df]: Textual amendment: [Art. 3(2)(e)](https://www.legislation.gov.uk/uksi/2001/2340/article/3/2/e) substituted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [8(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1031/article/8/4/a/ii)
+
+[^key-2a6d521e887bb961fca3423e6a998382]: Textual amendment: Words in [art. 3(2)(f)](https://www.legislation.gov.uk/uksi/2001/2340/article/3/2/f) substituted (25.7.2014 with effect in accordance with art. 1(2)) by [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2014 (S.I. 2014/1667)](https://www.legislation.gov.uk/uksi/2014/1667), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1667/article/2/2/a)
+
+[^key-56980850fc2ca2f83fb3000a00c624e7]: Textual amendment: Words in art. 3(2) inserted (29.9.2004) by [Discretionary Housing Payments (Grants) Amendment Order 2004 (S.I. 2004/2329)](https://www.legislation.gov.uk/uksi/2004/2329), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2329/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/2329/article/2/3)
+
+[^key-bb064bf0d670347f48a36fd65bd5347f]: Textual amendment: Words in [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/2340/article/3/3/a) omitted (W.) (1.4.2026) by virtue of [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/271/regulation/3/2)
+
+[^c1560077]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^key-e828d04fee0cc1e4116539150c4d616a]: Textual amendment: [Art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2001/2340/article/3/3/b) omitted (with effect in accordance with art. 8(2) of the amending S.I.) by virtue of [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2021/1031/article/8/4/b)
+
+[^key-f9237b74954cf5a6cc394b668aff2a0e]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2001/2340/article/4) substituted (29.9.2004) by [Discretionary Housing Payments (Grants) Amendment Order 2004 (S.I. 2004/2329)](https://www.legislation.gov.uk/uksi/2004/2329), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2329/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2004/2329/article/2/4)
+
+[^key-b69a055c7a4c02232132219f357539c0]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2001/2340/article/6) substituted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2021 (S.I. 2021/1031)](https://www.legislation.gov.uk/uksi/2021/1031), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1031/article/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2021/1031/article/8/5)
+
+[^key-f036925986386fffdbb9dd3ed2cc11fa]: Textual amendment: [Art. 6A](https://www.legislation.gov.uk/uksi/2001/2340/article/6A) inserted (29.9.2004) by [Discretionary Housing Payments (Grants) Amendment Order 2004 (S.I. 2004/2329)](https://www.legislation.gov.uk/uksi/2004/2329), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2329/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2004/2329/article/2/6)
+
+[^key-b7d488e45aa982350ada6b3a8a20662a]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2001/2340/article/7) omitted (W.) (1.4.2026) by virtue of [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/271/regulation/3/3)
+
+[^key-176423013937b866c758aba232f0ae5c]: Textual amendment: [Art. 7(1)](https://www.legislation.gov.uk/uksi/2001/2340/article/7/1) revoked (S.) (9.12.2014) by [The Discretionary Housing Payments (Limit on Total Expenditure) Revocation (Scotland) Order 2014 (S.S.I. 2014/298)](https://www.legislation.gov.uk/ssi/2014/298), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/298/article/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2014/298/article/2/a)
+
+[^key-49a9f6c4e93de743ce8651adec7adad8]: Textual amendment: Words in art. 7(1) substituted (25.7.2014 with effect in accordance with art. 1(2)) by [The Income-related Benefits (Subsidy to Authorities) and Discretionary Housing Payments (Grants) Amendment Order 2014 (S.I. 2014/1667)](https://www.legislation.gov.uk/uksi/2014/1667), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1667/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1667/article/2/2/b)

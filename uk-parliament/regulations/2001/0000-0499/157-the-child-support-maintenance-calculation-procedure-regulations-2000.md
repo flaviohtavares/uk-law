@@ -1,0 +1,858 @@
+---
+title: The Child Support (Maintenance Calculation Procedure) Regulations 2000
+id: uksi/2001/157
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-01-18'
+text_date: '2017-11-07'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2001/157
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/157/pdfs/uksi_20010157_310818_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/157/pdfs/uksi_20010157_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/157/pdfs/uksi_20010157_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/157/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Maintenance Calculation Procedure) Regulations 2000
+
+> Text as at 2017-11-07.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2001 No. 157
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support (Maintenance Calculation Procedure) Regulations 2000
+
+Made
+
+18th January 2001
+
+Coming into force in accordance with regulation 1(5)
+
+Whereas a draft of this instrument was laid before Parliament in accordance with section 52(2) of the Child Support Act 1991[^f00001] and approved by a resolution of each House of Parliament:
+
+Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 3(3), 5(3), 12(4) and (5)(b), 46(2), (5), (8) and (10), 51, 52(4), 54 and 55 of, and paragraphs 11 and 14 of Schedule 1 to, the Child Support Act 1991[^f00002] and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-3a75240710fea07a6aaf90752e974b2d][^key-3166c0125de9f70ab313e49aaefe172f]
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Child Support (Maintenance Calculation Procedure) Regulations 2000.
+
+(2) In these Regulations, unless the context otherwise requires—
+
+- “the Act” means the Child Support Act 1991;
+- “date of notification to the non-resident parent” means the date on which the non-resident parent is first given notice of a maintenance application;
+- “effective application” means as provided for in regulation 3;
+- “date of receipt” means the date on which the information or document is actually received;
+- “effective date” means the date on which a maintenance calculation takes effect for the purposes of the Act;
+- “notice of a maintenance application” means notice by the Secretary of State under regulation 5(1) that an application for a maintenance calculation has been made[^key-1b79414dee2df7904078ea94d5f318a5]... in relation to which the non-resident parent is named as a parent of the child to whom the application relates;
+- “Maintenance Calculations and Special Cases Regulations” means the Child Support (Maintenance Calculations and Special Cases) Regulations 2000[^f00003];
+- “maintenance period” has the same meaning as in section 17(4A) of the Act[^f00004];
+- “relevant person” means—
+  - (a) a person with care;
+  - (b) a non-resident parent;
+  - (c) a parent who is treated as a non-resident parent under regulation 8 of the Maintenance Calculations and Special Cases Regulations;
+  - (d) where the application for a maintenance calculation is made by a child under section 7 of the Act, that child, in respect of whom a maintenance calculation has been applied for, [^key-a969dfc1fed6e47767dddf7d5093ed50]... or is or has been in force.
+
+(3) The provisions in Schedule 1 shall have effect to supplement the meaning of “child” in section 55 of the Act.
+
+(4) In these Regulations, unless the context otherwise requires, a reference—
+
+- (a) to a numbered Part is to the Part of these Regulations bearing that number;
+- (b) to a numbered Schedule is to the Schedule to these Regulations bearing that number;
+- (c) to a numbered regulation is to the regulation in these Regulations bearing that number;
+- (d) in a regulation or Schedule to a numbered paragraph is to the paragraph in that regulation or Schedule bearing that number; and
+- (e) in a paragraph to a lettered or numbered sub-paragraph is to the sub-paragraph in that paragraph bearing that letter or number.
+
+(5) These Regulations shall come into force in relation to a particular case on the day on which the amendments to sections 5, [^M_F_a4c32a61-ea78-4cf4-de34-492869fddbe3]... 12, [^M_F_a4c32a61-ea78-4cf4-de34-492869fddbe3]... 51 and 54[^key-0f40f08d4aee4ce9cbf5f027ec089ede] of the Act made by the Child Support, Pensions and Social Security Act 2000 come into force in relation to that type of case.
+
+### 2. Documents
+
+Except where otherwise stated, where—
+
+- (a) any document is given or sent to the Secretary of State, that document shall be treated as having been so given or sent on the day that it is received by the Secretary of State; and
+- (b) any document is given or sent to any other person, that document shall, if sent by post to that person’s last known or notified address, be treated as having been given or sent on the day that it is posted.
+
+## PART II — APPLICATIONS FOR A MAINTENANCE CALCULATION
+
+### 3. Applications under section 4 or 7 of the Act
+
+(1) A person who applies for a maintenance calculation under section 4 or 7 of the Act need not normally do so in writing, but if the Secretary of State directs that the application be made in writing, the application shall be made either by completing and returning, in accordance with the Secretary of State’s instructions, a form provided for that purpose, or in such other written form as the Secretary of State may accept as sufficient in the circumstances of any particular case.
+
+(2) An application for a maintenance calculation is effective if it complies with paragraph (1) and, subject to paragraph (4), is made on the date it is received.
+
+(3) Where an application for a maintenance calculation is not effective the Secretary of State may request the person making the application to provide such additional information or evidence as the Secretary of State may specify and, where the application was made on a form, the Secretary of State may request that the information or evidence be provided on a fresh form.
+
+(4) Where the additional information or evidence requested is received by the Secretary of State within 14 days of the date of his request, or at a later date in circumstances where the Secretary of State is satisfied that the delay was unavoidable, he shall treat the application as made on the date on which the earlier or earliest application would have been treated as made had it been effective.
+
+(5) Where the Secretary of State receives the additional information or evidence requested by him more than 14 days from the date of the request and in circumstances where he is not satisfied that the delay was unavoidable, the Secretary of State shall treat the application as made on the date of receipt of the information or evidence.
+
+(6) Subject to paragraph (7), a person who has made an effective application may amend or withdraw the application at any time before a maintenance calculation is made and such amendment or withdrawal need not be in writing unless, in any particular case, the Secretary of State requires it to be.
+
+(7) No amendment made under paragraph (6) shall relate to any change of circumstances arising after the effective date of a maintenance calculation resulting from an effective application.
+
+### 4. Multiple applications
+
+(1) The provisions of Schedule 2 shall apply in cases where there is more than one application for a maintenance calculation.
+
+(2) The provisions of paragraphs 1, 2 and 3 of Schedule 2 relating to the treatment of two or more applications as a single application shall apply where no request is received for the Secretary of State to cease acting in relation to all but one of the applications.
+
+(3) Where, under the provisions of paragraph 1, 2 or 3 of Schedule 2, two or more applications are to be treated as a single application, that application shall be treated as an application for a maintenance calculation to be made with respect to all of the qualifying children mentioned in the applications, and the effective date of that maintenance calculation shall be determined by reference to the earlier or earliest application.
+
+### 5. Notice of an application for a maintenance calculation
+
+(1) Where an effective application has been made under section 4 or 7 of the Act, [^key-bbbe051041c99d7eabccfb3281a5273c]... as the case may be, the Secretary of State shall as soon as is reasonably practicable notify, orally or in writing, the non-resident parent and any other relevant persons (other than the person who has made[^key-bbbe051041c99d7eabccfb3281a5273c]... the application) of that application and request such information as he may require to make the maintenance calculation in such form and manner as he may specify in the particular case.
+
+(2) Where the person to whom notice is being given under paragraph (1) is a non-resident parent, that notice shall specify the effective date of the maintenance calculation if one is to be made, and the ability to make a default maintenance decision.
+
+(3) Subject to paragraph (4), a person who has provided information under paragraph (1) may amend the information he has provided at any time before a maintenance calculation is made and such information need not be in writing unless, in any particular case, the Secretary of State requires it to be.
+
+(4) No amendment under paragraph (3) shall relate to any change of circumstances arising after the effective date of any maintenance calculation made in response to the application in relation to which the information was requested.
+
+### 6. Death of a qualifying child
+
+(1) Where the Secretary of State is informed of the death of a qualifying child with respect to whom an application for a maintenance calculation has been made [^key-a76a899bf9354defd19fdf737c10c5b6]... he shall—
+
+- (a) proceed with the application as if it had not been made with respect to that child if he has not yet made a maintenance calculation;
+- (b) treat any maintenance calculation already made by him as not having been made if the relevant persons have not been notified of it and proceed with the application as if it had not been made with respect to that child.
+
+(2) Where all of the qualifying children with respect to whom an application for a maintenance calculation has been made have died, and either the calculation has not been made or the relevant persons have not been notified of it, the Secretary of State shall treat the application as not having been made.
+
+## PART III — DEFAULT MAINTENANCE DECISIONS
+
+### 7. Default rate
+
+(1) Where the Secretary of State makes a default maintenance decision under section 12(1) of the Act (insufficient information to make a maintenance calculation or to make a decision under section 16 or 17 of the Act) the default rate is as set out in paragraph (2).
+
+(2) The default rate for the purposes of section 12(5)(b) of the Act shall be—
+
+- £30 where there is one qualifying child of the non-resident parent;
+- £40 where there are two qualifying children of the non-resident parent;
+- £50 where there are three or more qualifying children of the non-resident parent,
+
+- apportioned, where the non-resident parent has more than one qualifying child and in relation to them there is more than one person with care, as provided in paragraph 6(2) of Part I of Schedule 1 to the Act.
+
+(3) Subject to paragraph (4), where any apportionment made under this regulation results in a fraction of a penny that fraction shall be treated as a penny if it is either one half or exceeds one half, otherwise it shall be disregarded.
+
+(4) If, in making the apportionment required by this regulation, the effect of the application of paragraph (3) would be such that the aggregate amount of child support maintenance payable by a non-resident parent would be different from the aggregate amount payable before any apportionment, the Secretary of State shall adjust that apportionment so as to eliminate that difference; and that adjustment shall be varied from time to time so as to secure that, taking one week with another and so far as is practicable, each person with care receives the amount which she would have received if no adjustment had been made under this paragraph.
+
+## PART IV — REDUCED BENEFIT DECISIONS
+
+### 8. Interpretation of Part IV[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Period within which reasons are to be given[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9A. Period for parent to state if request still stands[^key-bcc1eda387b6607af4c160383a03eabc][^key-42180815ce59491fffb74bda465075ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Circumstances in which a reduced benefit decision shall not be given[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Amount of and period of reduction of relevant benefit under a reduced benefit decision[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Modification of reduction under a reduced benefit decision to preserve minimum entitlement to relevant benefit[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Suspension of a reduced benefit decision when relevant benefit ceases to be payable[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Suspension of a reduced benefit decision ... (income support)[^key-bcc1eda387b6607af4c160383a03eabc][^key-cfb61da5fb57b21276e71e261cc252de]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Suspension of a reduced benefit decision ... (income-based jobseeker’s allowance)[^key-bcc1eda387b6607af4c160383a03eabc][^key-c7c77d76a7ebdd90a3736e98919bcce5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Termination of a reduced benefit decision[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Reduced benefit decisions where there is an additional qualifying child[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Suspension and termination of a reduced benefit decision where the sole qualifying child ceases to be a child or where the parent concerned ceases to be a person with care[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Notice of termination of a reduced benefit decision[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Rounding provisions[^key-bcc1eda387b6607af4c160383a03eabc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART V — MISCELLANEOUS PROVISIONS
+
+### 21. Persons who are not persons with care
+
+(1) For the purposes of the Act the following categories of person shall not be persons with care—
+
+- (a) a local authority;
+- (b) a person with whom a child who is looked after by a local authority is placed by that authority under the provisions of the Children Act 1989[^f00019], except where that person is a parent of such a child and the local authority allow the child to live with that parent under section 23(5) of that Act;
+- (c) in Scotland, a family or relative with whom a child is placed by a local authority under the provisions of section 26 of the Children (Scotland) Act 1995[^f00020] or who is providing continuing care by virtue of arrangements made under section 26A of that Act[^key-a497fe1bb5ba4ab39ebb39ad108a634f].
+
+(2) In paragraph (1) above—
+
+- “family” means family other than such family defined in section 93(1) of the Children (Scotland) Act 1995;
+- “local authority” means, in relation to England, a county council, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly and, in relation to Wales, a county council or a county borough council, and, in relation to Scotland, a council constituted under section 2 of the Local Government etc (Scotland) Act 1994[^f00021]; and
+- “a child who is looked after by a local authority” has the same meaning as in section 22 of the Children Act 1989 or section 17(6) of the Children (Scotland) Act 1995 as the case may be.
+
+### 22. Authorisation of representative
+
+(1) A person may authorise a representative, whether or not legally qualified, to receive notices and other documents on his behalf and to act on his behalf in relation to the making of applications and the supply of information under any provisions of the Act or these Regulations.
+
+(2) Where a person has authorised a representative for the purposes of paragraph (1) who is not legally qualified, he shall confirm that authorisation in writing to the Secretary of State.
+
+## PART VI — NOTIFICATIONS FOLLOWING CERTAIN DECISIONS
+
+### 23. Notification of a maintenance calculation
+
+(1) A notification of a maintenance calculation made under section 11 or 12(2) of the Act (interim maintenance decision) shall set out, in relation to the maintenance calculation in question—
+
+- (a) the effective date of the maintenance calculation;
+- (b) where relevant, the non-resident parent’s net weekly income;
+- (c) the number of qualifying children;
+- (d) the number of relevant other children;
+- (e) the weekly rate;
+- (f) the amounts calculated in accordance with Part I of Schedule 1 to the Act and, where there has been agreement to a variation or a variation has otherwise been taken into account, the Child Support (Variations) Regulations 2000[^f00022];
+- (g) where the weekly rate is adjusted by apportionment or shared care, or both, the amount calculated in accordance with paragraph 6, 7 or 8, as the case may be, of Part I of Schedule 1 to the Act; and
+- (h) where the amount of child support maintenance which the non-resident parent is liable to pay is decreased in accordance with regulation 9 or 11 of the Maintenance Calculations and Special Cases Regulations (care provided in part by local authority and non-resident parent liable to pay maintenance under a maintenance order), the adjustment calculated in accordance with that regulation.
+
+(2) A notification of a maintenance calculation made under section 12(1) of the Act (default maintenance decision) shall set out the effective date of the maintenance calculation, the default rate, the number of qualifying children on which the rate is based, whether any apportionment has been applied under regulation 7 and shall state the nature of the information required to enable a decision under section 11 of the Act to be made by way of section 16 of the Act.
+
+(3) Except where a person gives written permission to the Secretary of State that the information in relation to him, mentioned in sub-paragraphs (a) and (b) below, may be conveyed to other persons, any document given or sent under the provisions of paragraph (1) or (2) shall not contain—
+
+- (a) the address of any person other than the recipient of the document in question (other than the address of the office of the officer concerned who is exercising functions of the Secretary of State under the Act) or any other information the use of which could reasonably be expected to lead to any such person being located;
+- (b) any other information the use of which could reasonably be expected to lead to any person, other than a qualifying child or a relevant person, being identified.
+
+(4) Where a decision as to a maintenance calculation is made under section 11 or 12 of the Act, a notification under paragraph (1) or (2) shall include information as to the provisions of sections 16, 17 and 20 of the Act.
+
+### 24. Notification when an applicant under section 7 of the Act ceases to be a child
+
+Where a maintenance calculation has been made in response to an application by a child under section 7 of the Act and that child ceases to be a child for the purposes of the Act, the Secretary of State shall immediately notify, so far as that is reasonably practicable—
+
+- (a) the other qualifying children who have attained the age of 12 years and the non-resident parent with respect to whom that maintenance calculation was made; and
+- (b) the person with care.
+
+## PART VII — EFFECTIVE DATES OF MAINTENANCE CALCULATIONS
+
+### 25. Effective dates of maintenance calculations
+
+(1) Subject to regulations 26 to 29 , 29B[^key-32b0c7458502949a3a9ed5a6f3aec892] and 31[^key-df897a9b50a79799ae5a81d53e0b7413], where no maintenance calculation is in force with respect to the person with care or the non-resident parent, the effective date of a maintenance calculation following an application made under section 4 or 7 of the Act, [^key-9d1f0b06be9a9f51f99ce7b92ec10394]... as the case may be, shall be the date determined in accordance with paragraphs (2) to (4) below.
+
+(2) Where the application for a maintenance calculation is made under section 4 of the Act by a non-resident parent, the effective date of the maintenance calculation shall be the date that an effective application is made or treated as made under regulation 3.
+
+(3) Where the application for a maintenance calculation is—
+
+- (a) made under section 4 of the Act by a person with care;
+- (b)[^key-2b06dbcd50eaeb93c1286b7bb6743ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) made by a child under section 7 of the Act,
+
+the effective date of the maintenance calculation shall be the date of notification to the non-resident parent.
+
+(4) For the purposes of this regulation, where the Secretary of State is satisfied that a non-resident parent has intentionally avoided receipt of a notice of a maintenance application he may determine the date of notification to the non-resident parent as the date on which the notification would have been given to him but for such avoidance.
+
+(5) Where in relation to a decision made under section 11 of the Act a maintenance calculation is made to which paragraph 15 of Schedule 1 to the Act applies, the effective date of the calculation shall be the beginning of the maintenance period in which the change of circumstance to which the calculation relates occurred or is expected to occur.
+
+### 26. Effective dates of maintenance calculations—maintenance order and application under section 4 or 7
+
+(1) This regulation applies, subject to regulations 28 and 29B[^key-1332e9a935df79834cde987e9b054a3d], where—
+
+- (a) no maintenance calculation is in force with respect to the person with care or the non-resident parent;
+- (b) an application for a maintenance calculation is made under section 4 or 7 of the Act; and
+- (c)[^key-b20c1e42786970d3ad2d4c9c1ae7050b] there is a maintenance order or, in Scotland, a maintenance agreement registered for execution in the Books of Council and Session or the sheriff court books,[^key-2968d6e2638e626ca6452a26f9bf6b36] which—
+  - (i) is in force and was made on or after the date prescribed for the purposes of section 4(10)(a) of the Act;
+  - (ii) relates to the person with care, the non-resident parent and all the children to whom the application referred to in sub-paragraph (b) relates; and
+  - (iii) has been in force for at least one year prior to the date of the application referred to in sub-paragraph (b).
+
+(2) The effective date of the maintenance calculation shall be two months and two days after the application is made.
+
+### 27. Effective dates of maintenance calculations—maintenance order and application under section 6[^key-8287fb2aa20f50045b3c59da409c9674]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Effective dates of maintenance calculations—maintenance order ceases
+
+Subject to regulation 29B,[^key-fc93836cf3d098dc7328f5bd81d8874f] where—
+
+- (a) a maintenance calculation is made; and
+- (b) there was a maintenance order in force in relation to the person with care and the non-resident parent which ceased to have effect after the date on which the application for the maintenance calculation was made but before the effective date provided for in regulation 26[^key-3b6faac2635c0493951cdb00587f744b][^key-eb445801b3e433ff58aa3d2637782b13]...,
+
+the effective date of the maintenance calculation shall be the day following that on which the maintenance order ceased to have effect.
+
+### 29. Effective dates of maintenance calculations in specified cases
+
+(1)[^key-232e3fa6ebf959a1452335a7b3343bda] Subject to regulation 29B,[^key-d00c780fa93a9fb0ad374d3a817a6b5b] where an application for a maintenance calculation is made under section 4 or 7 of the Act[^key-95d5f02986d0273d5a69316ecef11b5d]...—
+
+- (a) [^key-0845d8efd71cb6c80dceafa24654bba0]...where in the period of 8 weeks immediately preceding the date the application is made, or treated as made under regulation 3, there has been in force a maintenance calculation in respect of the same non-resident parent and child but a different person with care, the effective date of the maintenance calculation made in respect of the application shall be the date[^key-fc347feb24882c479d3cda4e08eb0920] on which the previous maintenance calculation ceased to have effect;
+- (b) where a maintenance calculation (“the existing calculation”) is in force with respect to the person who is the person with care in relation to the application but who is the non-resident parent in relation to the existing calculation, the effective date of the calculation shall be a date not later than 7 days after the date of notification to the non-resident parent which is the day on which a maintenance period in respect of the existing calculation begins.
+- (c)[^key-9c55cc8c4323a56d32a47a05653b23cc] [^key-508102e70b77d5e731fb196dbc6a2ec0]...where—
+  - (i) in the period of 8 weeks immediately preceding the date the application is made, or treated as made under regulation 3, a maintenance calculation (“the previous maintenance calculation”) has been in force and has ceased to have effect;
+  - (ii) the parent with care in respect of the previous maintenance calculation is the non-resident parent in respect of the application;
+  - (iii) the non-resident parent in respect of the previous maintenance calculation is the parent with care in respect of the application; and
+  - (iv) the application relates to the same qualifying child, or all of the same qualifying children, and no others, as the previous maintenance calculation,
+
+  the effective date of the maintenance calculation to which the application relates shall be the date on which the previous maintenance calculation ceased to have effect.
+- (d)[^key-d375c03fd216ce62ddbc245cbf66fb6b] [^key-b4b003762fc777d7905a7e9ca6c47477]...where on the date the application is made, or treated as made under regulation 3, there is in force a maintenance calculation in relation to the same non-resident parent and a different person with care, and the maintenance calculation in force when the application was made has ceased to have effect before a decision has been made in respect of that application, the effective date of the maintenance calculation made in response to the application shall be—
+  - (i) where the date of notification to the non-resident parent is before the date on which the maintenance calculation in force has ceased to have effect, the day following the day on which that maintenance calculation ceases to have effect;
+  - (ii) where the date of notification to the non-resident parent is after the date on which the maintenance calculation in force has ceased to have effect, the date of notification to the non-resident parent.
+
+(2)[^key-8cfb38466ee23a23f58d50043d3d02d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-95fa7ca81a00b530d6635b2954bfe282] For the purposes of—
+
+- (a) paragraph (1), “ceased to have effect” means ceased to have effect under paragraph 16 of Schedule 1 to the Act; and
+- (b)[^key-6c3f156c67dacfb3dceeb75078a79832] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29A. Interim effective date where regulation 25, 28 or 29 applies[^M_F_e3089e54-280c-4cb3-f8f5-e3264d53de17]
+
+(1) Where the Secretary of State has sufficient information to enable him to make a maintenance calculation, but only in respect of a period beginning after the date which would have been the effective date under regulation 25, 28 or 29 (“the original effective date”), the effective date of that calculation (“the interim effective date”) shall, instead, be the first day of the maintenance period after the Secretary of State receives that information
+
+(2) Where the information referred to in paragraph (1) is that the non-resident parent or his partner has been awarded any benefit, pension or allowance prescribed for the purposes of paragraph 4 of Schedule 1 to the Act (flat rate), the Secretary of State shall be treated as having received the information on the first day in respect of which that benefit, pension or allowance was payable under that award.
+
+(3) If the Secretary of State subsequently receives sufficient information to enable him to make a maintenance calculation for the period from the original effective date to the interim effective date, that calculation shall have effect for that period.
+
+### 29B. Effective date where there has been a previous maintenance calculation[^key-2f1f4ff9559347347f4775ab559f333f]
+
+(1) This regulation applies where—
+
+- (a) a maintenance calculation (“the previous maintenance calculation”) has been in force in relation to the non-resident parent, whether or not in respect of the same parent with care; and
+- (b) the previous maintenance calculation is no longer in force when the decision as to the maintenance calculation is made.
+
+(2) Where this regulation applies, the effective date of the maintenance calculation shall be—
+
+- (a) on, or on one of the 6 days immediately following, the effective date as it would have been but for this regulation; and
+- (b) on the same day of the week as the day on which the maintenance period in respect of the previous maintenance calculation began.
+
+## PART VIII — REVOCATION, SAVINGS AND TRANSITIONAL PROVISIONS
+
+### 30. Revocation and savings
+
+(1) Subject to the Child Support (Transitional Provisions) Regulations 2000 and[^key-cc299ccc56de4e8f97369146c7436f23] paragraph (2), the Child Support (Maintenance Assessment Procedure) Regulations 1992[^f00023] shall be revoked with respect to a particular case with effect from the date that these Regulations come into force with respect to that type of case (“the commencement date”).
+
+(2) Subject to regulation 31(1C)(b) and (2)[^key-5777440debc1a9bf3c3427643a9d99c3], where before the commencement date in respect of a particular case—
+
+- (a) an application was made and not determined for—
+  - (i) a maintenance assessment;
+  - (ii) a departure direction; or
+  - (iii) a revision or supersession of a decision;
+- (b) the Secretary of State had begun but not completed a revision or supersession of a decision on his own initiative;
+- (c) any time limit provided for in Regulations for making an application for a revision or a departure direction had not expired; or
+- (d) any appeal was made but not decided or any time limit for making an appeal had not expired,
+
+the provisions of the Child Support (Maintenance Assessment Procedure) Regulations 1992 shall continue to apply for the purposes of—
+
+- (aa) the decision on the application referred to in sub-paragraph (a);
+- (bb) the revision or supersession referred to in sub-paragraph (b);
+- (cc) the ability to apply for the revision or the departure direction referred to in sub-paragraph (c) and the decision whether to revise or to give a departure direction following any such application;
+- (dd) any appeal outstanding or made during the time limit referred to in sub-paragraph (d); or
+- (ee) any revision, supersession, appeal or application for a departure direction in relation to a decision, ability to apply or appeal referred to in sub-paragraphs (aa) to (dd) above.
+
+(3) Where immediately before the commencement date in respect of a particular case an interim maintenance assessment was in force, the provisions of the Child Support (Maintenance Assessment Procedure) Regulations 1992 shall continue to apply for the purposes of the decision under section 17 of the Act to make a maintenance assessment calculated in accordance with Part I of Schedule 1 to the 1991 Act before its amendment by the 2000 Act and any revision, supersession or appeal in relation to that decision.
+
+(4) Where after the commencement date a maintenance assessment is revised, cancelled or ceases to have effect from a date which is prior to the commencement date, the Child Support (Maintenance Assessment Procedure) Regulations 1992 shall apply for the purposes of that cancellation or cessation.
+
+(5) Where under regulation 28(1) of the Child Support (Transitional Provisions) Regulations 2000[^f00024] an application for a maintenance calculation is treated as an application for a maintenance assessment, the provisions of the Child Support (Maintenance Assessment Procedure) Regulations 1992 shall continue to apply for the purposes of the determination of the application and any revision, supersession or appeal in relation to any such assessment made.
+
+(6) For the purposes of this regulation—
+
+- (a) “departure direction”, “maintenance assessment” and “interim maintenance assessment” have the same meaning as in section 54 of the Act before its amendment by the 2000 Act;
+- (b) “revision or supersession” means a revision or supersession of a decision under section 16 or 17 of the Act before their amendment by the 2000 Act;
+- (c) “2000 Act” means the Child Support, Pensions and Social Security Act 2000.
+
+### 31. Transitional provision—effective dates ...[^key-8052c6ed3e7b2ca8a8c56b8b75f90a06]
+
+(1)[^key-fd94c0f4c5b54682c99f22ea31a02ebc] Where a maintenance assessment is, or has been, in force and an application to which regulation 29 applies is made, [^key-6a9ce2262d8a295e74b5d0f1804f2c40]... that regulation shall apply as if in paragraph (1) references to—
+
+- (a) a maintenance calculation in force were to a maintenance assessment in force;
+- (b) a maintenance calculation having been in force were to a maintenance assessment having been in force; and
+- (c) a non-resident parent in sub-paragraph (a), the first time it occurs in sub-paragraph (b) , in sub-paragraph (c)(iii) and the first time it occurs in sub-paragraph (d)[^key-bab63b91c9e227dd5c30fe2e047a1cf2], were to an absent parent.
+
+(1A) Where regulation 28(7) of the Child Support (Transitional Provisions) Regulations 2000 (linking provisions) applies, the effective date of the maintenance calculation shall be the date which would have been the beginning of the first maintenance period in respect of the conversion decision on or after what, but for this paragraph, would have been the relevant effective date provided for in regulation 25(2) to (4).
+
+(1B) The provisions of Schedule 3 shall apply where—
+
+- (a) an effective application for a maintenance assessment has been made under the former Act (“an assessment application”); and
+- (b) an effective application for a maintenance calculation is made [^key-6a533cfa628d6a2f86d4f32f75cc6c0c]... (“a calculation application”).
+
+(1C) Where the provisions of Schedule 3 apply and, by virtue of regulation 4(3) of the Assessment Procedure Regulations, the relevant date would be—
+
+- (a) before the prescribed date, the application to be proceeded with shall be treated as an application for a maintenance assessment;
+- (b) on or after the prescribed date, that application shall be treated as an application for a maintenance calculation and the effective date of that maintenance calculation shall be the date which would be the assessment effective date if a maintenance assessment were to be made.
+
+(1D)[^key-8bf6951d0ad671e8e38f42bde32f8939] Where a maintenance assessment has been in force in relation to a non-resident parent, regulation 29B shall apply as if references to a maintenance calculation having been in force were to a maintenance assessment having been in force.
+
+(2) Where—
+
+- (a) an application for a maintenance assessment was made before the prescribed date; and
+- (b) the assessment effective date of that application would be on or after the prescribed date,
+
+the application shall be treated as an application for a maintenance calculation and the effective date of that maintenance calculation shall be the date which would be the assessment effective date if a maintenance assessment were to be made.
+
+(3)[^key-4c03bba45de710ed7d4f998c656e5975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-4c03bba45de710ed7d4f998c656e5975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-4c03bba45de710ed7d4f998c656e5975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-4c03bba45de710ed7d4f998c656e5975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-4c03bba45de710ed7d4f998c656e5975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) For the purposes of this regulation—
+
+- (a)
+  - "2000 Act" means the Child Support, Pensions and Social Security Act 2000;
+  - “absent parent” has the meaning given in section 3(2) of the former Act;[^key-8441627829864a32db96d1f7125b85bb]
+  - “assessment effective date” means the effective date of the maintenance assessment under regulation 30 or 33(7) of the Assessment Procedure Regulations or regulation 3(5), (7) or (8) of the Maintenance Arrangements and Jurisdiction Regulations, whichever applied to the maintenance assessment in question or would have applied had the effective date not been determined under regulation 8C or 30A of the Assessment Procedure Regulations;
+  - “Assessment Procedure Regulations” means the Child Support (Maintenance Assessment Procedure) Regulations 1992[^f00025];
+  - “commencement date” means with respect to a particular case the date these Regulations come into force with respect to that type of case;
+  - “former Act” means the Act before its amendment by the 2000 Act;
+  - “Maintenance Arrangements and Jurisdiction Regulations” means the Child Support (Maintenance Arrangements and Jurisdiction) Regulations 1992[^f00026];
+  - “maintenance assessment” has the meaning given in the former Act; and
+  - “prescribed date” means the date prescribed for the purposes of section 4(10)(a) of the Act; and[^key-923cb949e6c92a713eeee524ab1dc3aa]
+  - “relevant date” means the date which would be the assessment effective date of the application which is to be proceeded with in accordance with Schedule 3, if a maintenance assessment were to be made.
+- (b)[^key-68bdc91273369d5d44c3affeb717f24b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in the application of the Assessment Procedure Regulations for the purposes of paragraph (4) where, on or after the prescribed date, no maintenance enquiry form, as defined in those Regulations, is given or sent to the absent parent, the Regulations shall be applied as if references in regulation 30—
+  - (i) to the date when the maintenance enquiry form was given or sent to the absent parent were to the date of notification to the non-resident parent;
+  - (ii) to the return by the absent parent of the maintenance enquiry form containing his name, address and written confirmation that he is the parent of the child or children in respect of whom the application was made were to the provision of this information by the non-resident parent; and
+- (d) in the application of the Maintenance Arrangements and Jurisdiction Regulations for the purposes of paragraph (4), where, on or after the prescribed date no maintenance enquiry form, as defined in the Assessment Procedure Regulations, is given or sent to the absent parent, regulation 3(8) shall be applied as if the reference to the date when the maintenance enquiry form was given or sent were a reference to the date of notification to the non-resident parent.
+
+Signed by authority of the Secretary of State for Social Security.
+
+P. Hollis
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+18th January 2001
+
+## SCHEDULE I — MEANING OF “CHILD” FOR THE PURPOSES OF THE ACT
+
+Regulation 1(3)
+
+### 1. Conditions prescribed for the purposes of section 55(1)[^key-cb6412b6c9928649efc393e575aadf7b][^key-62bc0ca691d66fcbd4c077a28ffe1e91]
+
+(1)  A person satisfies such conditions as may be prescribed for the purposes of section 55(1)(of the Act if that person satisfies any of the conditions in sub-paragraphs (2) and (3).
+
+(2) The person is receiving full-time education (which is not advanced education)—
+
+- (a) by attendance at a recognised educational establishment; or
+- (b) elsewhere, if the education is recognised by the Secretary of State.
+
+(3) The person is a person in respect of whom child benefit is payable.
+
+### 1A. Period for which a person is to be treated as continuing to fall within section 55(1) of the Act[^key-d2233fb97ec00c714fa4200ccbb7f921]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Meaning of “advanced education” for the purposes of section 55 of the Act[^key-b1061d9fe52b481631a26b7d43def100]
+
+For the purposes of this Schedule[^key-ce01162e72325a9c83d35abdec6d4d7a] “advanced education” means education for the purposes of—
+
+- (a) a course in preparation for a degree, a diploma of higher education , a higher national certificate[^key-57cdfe77d8449764cbd8a018ecb771f3], a higher national diploma or a teaching qualification; or
+- (b) any other course which is of a standard above ordinary national diploma, a national diploma or national certificate of Edexcel, a general certificate of education (advanced level) or Scottish national qualifications at higher or advanced higher level.
+
+### 3. Circumstances in which education is to be treated as full-time education
+
+For the purposes of this Schedule[^key-4941dd1b4791d0e4a574818d7eb5a75a] education shall be treated as being full-time if it is received by a person attending a course of education at a recognised educational establishment and the time spent receiving instruction or tuition, undertaking supervised study, examination of practical work or taking part in any exercise, experiment or project for which provision is made in the curriculum of the course, exceeds 12 hours per week, so however that in calculating the time spent in pursuit of the course, no account shall be taken of time occupied by meal breaks or spent on unsupervised study, whether undertaken on or off the premises of the educational establishment.
+
+### 4. Interruption of full-time education
+
+(1) Subject to sub-paragraph (2), in determining whether a person falls within paragraph 1(2)[^key-af1241807bf61953ce68b79892a339bc] no account shall be taken of a period (whether beginning before or after the person concerned attains age 16) of up to 6 months of any interruption to the extent to which it is accepted that the interruption is attributable to a cause which is reasonable in the particular circumstances of the case; and where the interruption or its continuance is attributable to the illness or disability of mind or body of the person concerned, the period of 6 months may be extended for such further period as the Secretary of State considers reasonable in the particular circumstances of the case.
+
+(2)[^key-28e1c64b61c5b1e45b260ea40260ebac] The provisions of sub-paragraph (1) do not apply to any period of interruption of a person’s full-time education which is followed immediately by a period during which child benefit ceases to be payable in respect of that person.
+
+### 5. Circumstances in which a person who has ceased to receive full-time education is to be treated as continuing to fall within section 55(1) of the Act[^key-2c0b22c13a2ab2d3ee3251b7b1050984]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Interpretation[^key-a1c1a26c9cdcc8611b29664aae7fdde6]
+
+In this Schedule, “**recognised educational establishment**” means an establishment recognised by the Secretary of State for the purposes of this Schedule as being, or as comparable to, a university, college or school.
+
+### 7. Education otherwise than at a recognised educational establishment[^key-deb6c746a834b115d0589daacf9c8b6b]
+
+For the purposes of paragraph 1(2), the Secretary of State may recognise education provided for a person otherwise than at a recognised educational establishment only if satisfied that education was being so provided for that person immediately before that person attained the age of 16.
+
+### 8. Person in respect of whom child benefit is payable[^key-e7606179586fc314914c555aa3e61c47]
+
+For the purposes of paragraphs 1(3) and 4(2), a person in respect of whom child benefit is payable includes a person in respect of whom an election has been made under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made.
+
+## SCHEDULE 2 — MULTIPLE APPLICATIONS
+
+Regulation 4(1)
+
+### 1. No maintenance calculation in force: more than one application for a maintenance calculation by the same person under section 4 ... of the Act[^key-1b6d7a6c64d87e7aa8cb8aea25240d83]
+
+(1) Where an effective application is made or treated as made, as the case may be, for a maintenance calculation under section 4 [^key-f78dad90faa17496e05397306deef871]... of the Act and, before that calculation is made, the applicant makes a subsequent effective application under that section with respect to the same non-resident parent or person with care, as the case may be, those applications shall be treated as a single application.
+
+(2)[^key-8967415997082a5ce39539e9f1828a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. No maintenance calculation in force: more than one application by a child under section 7 of the Act
+
+Where a child makes an effective application for a maintenance calculation under section 7 of the Act and, before that calculation is made, makes a subsequent effective application under that section with respect to the same person with care and non-resident parent, both applications shall be treated as a single application for a maintenance calculation.
+
+### 3. No maintenance calculation in force: applications by different persons for a maintenance calculation
+
+(1) Where the Secretary of State receives more than one effective application for a maintenance calculation with respect to the same person with care and non-resident parent, he shall, if no maintenance calculation has been made in relation to any of the applications, determine which application he shall proceed with in accordance with sub-paragraphs (2) to (11).
+
+(2) Where an application by a person with care is made under section 4 of the Act [^key-fd097d216ca73e55ff660a1a44200bd6]... and an application is made by a non-resident parent under section 4 of the Act, the Secretary of State shall proceed with the application of the person with care.
+
+(3) Where there is an application for a maintenance calculation by a qualifying child under section 7 of the Act and a subsequent application is made with respect to that child by a person who is, with respect to that child, a person with care or a non-resident parent, the Secretary of State shall proceed with the application of that person with care or non-resident parent, as the case may be.
+
+(4) Where, in a case falling within sub-paragraph (3), there is made more than one subsequent application, the Secretary of State shall apply the provisions of sub-paragraphs (2), (7), (8), or (10), as is appropriate in the circumstances of the case, to determine which application he shall proceed with.
+
+(5) Where there is an application for a maintenance calculation by more than one qualifying child under section 7 of the Act in relation to the same person with care and non-resident parent, the Secretary of State shall proceed with the application of the elder or, as the case may be, eldest of the qualifying children.
+
+(6) Where there are two non-resident parents in respect of the same qualifying child and an effective application is received from each such person, the Secretary of State shall proceed with both applications, treating them as a single application for a maintenance calculation.
+
+(7)[^key-44798d0078cfabab96eafe63a88fe842] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Where—
+
+- (a) more than one person with care makes an application for a maintenance calculation under section 4 of the Act in respect of the same qualifying child or qualifying children (whether or not any of those applications is also in respect of other qualifying children);
+- (b) each such person has parental responsibility for (or, in Scotland, parental rights over) that child or children; and
+- (c) under the provisions of regulation 8 of the Maintenance Calculations and Special Cases Regulations one of those persons is to be treated as a non-resident parent,
+
+the Secretary of State shall proceed with the application of the person who does not fall to be treated as a non-resident parent under the provisions of regulation 8 of those Regulations.
+
+(9) Where, in a case falling within sub-paragraph (8), there is more than one person who does not fall to be treated as a non-resident parent under the provisions of regulation 8 of those Regulations, the Secretary of State shall apply the provisions of paragraph (10) to determine which application he shall proceed with.
+
+- (10) Where—
+- (a) more than one person with care makes an application for a maintenance calculation under section 4 of the Act in respect of the same qualifying child or qualifying children (whether or not any of those applications is also in respect of other qualifying children); and
+- (b) either—
+  - (i) none of those persons has parental responsibility for (or, in Scotland, parental rights over) that child or children; or
+  - (ii) the case falls within sub-paragraph (8)(b) but the Secretary of State has not been able to determine which application he is to proceed with under the provisions of sub-paragraph (8),
+
+  the Secretary of State shall proceed with the application of the principal provider of day to day care, as determined in accordance with sub-paragraph (11).
+
+(11) Where—
+
+- (a) the applications are in respect of one qualifying child, the application of that person with care to whom child benefit is paid in respect of that child;
+- (b) the applications are in respect of more than one qualifying child, the application of that person with care to whom child benefit is paid in respect of those children;
+- (c) the Secretary of State cannot determine which application he is to proceed with under head (a) or (b) the application of that applicant who in the opinion of the Secretary of State is the principal provider of day to day care for the child or children in question.
+- (12) Subject to sub-paragraph (13), where, in any case falling within sub-paragraphs (2) to (10), the applications are not in respect of identical qualifying children, the application that the Secretary of State is to proceed with as determined by those sub-paragraphs shall be treated as an application with respect to all of the qualifying children with respect to whom the applications were made.
+- (13) Where the Secretary of State is satisfied that the same person with care does not provide the principal day to day care for all of the qualifying children with respect to whom an application would but for the provisions of this paragraph be made under sub-paragraph (12), he shall make separate maintenance calculations in relation to each person with care providing such principal day to day care.
+- (14) For the purposes of this paragraph “day to day care” has the same meaning as in the Maintenance Calculations and Special Cases Regulations.
+- (15)[^key-9960234512fe8102cd8bc3843a0735df] For the purposes of sub-paragraph (11), where a person has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made in respect of a child, that person is to be treated as the person to whom child benefit is being paid in respect of that child.
+
+### 4. Maintenance calculation in force: subsequent application with respect to the same persons
+
+Where a maintenance calculation is in force and a subsequent application is made [^key-3b6d22b10d1599039bae624ddadc41a9]... under the same section of the Act for a maintenance calculation with respect to the same person with care, non-resident parent, and qualifying child or qualifying children as those with respect to whom the maintenance calculation in force has been made, that application shall not be proceeded with.
+
+## SCHEDULE 3 — MULTIPLE APPLICATIONS—TRANSITIONAL PROVISIONS[^key-cacd3635e04dcb2977b84224445168e8]
+
+Regulation 31(1B)
+
+### 1. No maintenance assessment or calculation in force: more than one application for maintenance by the same person under section 4 ..., or under sections 4 ..., of the former Act and of the Act.[^key-0e3eb65139f01de7cd218c6517a79b41][^key-0e3eb65139f01de7cd218c6517a79b41]
+
+(1) Where an assessment application is made and, before a maintenance assessment under the former Act is made, the applicant makes [^key-9f8532ba2abf795cd2011e3746e6008c]...a calculation application under section 4 [^key-9f8532ba2abf795cd2011e3746e6008c]... of the Act, with respect to the same person with care or with respect to a non-resident parent who is the absent parent with respect to the assessment application, as the case may be, those applications shall be treated as a single application.
+
+(2)[^key-c2c94fe26aafe4766e2c1774cce7d506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. No maintenance assessment or calculation in force: more than one application for maintenance by a child under section 7 of the former Act and of the Act
+
+Where a child makes an assessment application under section 7 of the former Act and, before a maintenance assessment under the former Act is made, makes a calculation application under section 7 of the Act with respect to the same person with care and a non-resident parent who is the absent parent with respect to the assessment application, both applications shall be treated as a single application.
+
+### 3. No maintenance assessment or calculation in force: applications by different persons for maintenance
+
+(1) Where the Secretary of State receives more than one application for maintenance with respect to the same person with care and absent parent or non-resident parent, as the case may be, he shall, if no maintenance assessment under the former Act or maintenance calculation under the Act, as the case may be, has been made in relation to any of the applications, determine which application he shall proceed with in accordance with sub-paragraphs (2) to (11).
+
+(2) Where an application by a person with care is made under section 4 of the former Act or of the Act[^key-57534551baa7a1c33ce97d75126133e6]... and an application is made by an absent parent or non-resident parent under section 4 of the former Act or of the Act, as the case may be, the Secretary of State shall proceed with the application of the person with care.
+
+(3) Where there is an assessment application by a qualifying child under section 7 of the former Act and a calculation application is made with respect to that child by a person who is, with respect to that child, a person with care or a non-resident parent, the Secretary of State shall proceed with the application of that person with care or non-resident parent, as the case may be.
+
+(4) Where, in a case falling within sub-paragraph (3), there is made more than one subsequent application, the Secretary of State shall apply the provisions of sub-paragraphs (2), (7), (8) or (10), as appropriate in the circumstances of the case, to determine which application he shall proceed with.
+
+(5) Where there is an assessment application and a calculation application by more than one qualifying child under section 7 of the former Act or of the Act, in relation to the same person with care and absent parent or non-resident parent, as the case may be, the Secretary of State shall proceed with the application of the elder or, as the case may be, eldest of the qualifying children.
+
+(6) Where there is one absent parent and one non-resident parent in respect of the same qualifying child and an assessment application and a calculation application is received from each such person respectively, the Secretary of State shall proceed with both applications, treating them as a single application.
+
+(7)[^key-cccd88ac66e2804263f4ee15ef802350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Where—
+
+- (a) a person with care makes an assessment application under section 4 of the former Act and a different person with care makes a calculation application under section 4 of the Act and those applications are in respect of the same qualifying child or qualifying children (whether or not any of those applications is also in respect of other qualifying children);
+- (b) each such person has parental responsibility for (or, in Scotland, parental rights over) that child or children; and
+- (c) under regulation 20 of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992 (“the Maintenance Assessments and Special Cases Regulations”) one of those persons is to be treated as an absent parent or under the provisions of regulation 8 of the Maintenance Calculations and Special Cases Regulations one of those persons is to be treated as a non-resident parent, as the case may be,
+
+the Secretary of State shall proceed with the application of the person who does not fall to be treated as an absent parent under regulation 20 of the Maintenance Assessments and Special Cases Regulations, or as a non-resident parent under regulation 8 of the Maintenance Calculations and Special Cases Regulations, as the case may be.
+
+(9) Where, in a case falling within sub-paragraph (8), there is more than one person who does not fall to be treated as an absent parent under regulation 20 of the Maintenance Assessments and Special Cases Regulations or as a non-resident parent under regulation 8 of the Maintenance Calculations and Special Cases Regulations, as the case may be, the Secretary of State shall apply the provisions of paragraph (10) to determine which application he shall proceed with.
+
+(10) Where—
+
+- (a) a person with care makes an assessment application under section 4 of the former Act and a different person with care makes a calculation application under section 4 of the Act and those applications are in respect of the same qualifying child or qualifying children (whether or not any of those applications is also in respect of other qualifying children); and
+- (b) either—
+  - (i) none of those persons has parental responsibility for (or, in Scotland, parental rights over) that child or children; or
+  - (ii) the case falls within sub-paragraph (8)(b) but the Secretary of State has not been able to determine which application he is to proceed with under the provisions of sub-paragraph (8),
+
+  the Secretary of State shall proceed with the application of the principal provider of day to day care, as determined in accordance with sub-paragraph (11).
+
+(11) For the purposes of sub-paragraph (10), the application of the principal provider is, where—
+
+- (a) the applications are in respect of one qualifying child, the application of that person with care to whom child benefit is paid in respect of that child;
+- (b) the applications are in respect of more than one qualifying child, the application of that person with care to whom child benefit is paid in respect of those children;
+- (c) the Secretary of State cannot determine which application he is to proceed with under head (a) or (b), the application of that applicant who in the opinion of the Secretary of State is the principal provider of day to day care for the child or children in question.
+
+(12) Subject to sub-paragraph (13), where, in any case falling within sub-paragraphs (2) to (10), the applications are not in respect of identical qualifying children, the application that the Secretary of State is to proceed with as determined by those sub-paragraphs shall be treated as an application with respect to all of the qualifying children with respect to whom the applications were made.
+
+(13) Where the Secretary of State is satisfied that the same person with care does not provide the principal day to day care for all of the qualifying children with respect to whom an application would but for the provisions of this paragraph be made under sub-paragraph (12), he shall make separate maintenance assessments under the former Act or maintenance calculations under the Act, as the case may be, in relation to each person with care providing such principal day to day care.
+
+(14) For the purposes of this paragraph “day to day care” has the same meaning as in the Maintenance Assessments and Special Cases Regulations or the Maintenance Calculations and Special Cases Regulations, as the case may be.
+
+(15)[^key-b0180c2397379e0e5a5f47fecb792e71] For the purposes of sub-paragraph (11), where a person has made an election under section 13A(1) of the Social Security Administration Act 1992 (election not to receive child benefit) for payments of child benefit not to be made in respect of a child, that person is to be treated as the person to whom child benefit is being paid in respect of that child.
+
+### 4. Maintenance assessment in force: subsequent application with respect to the same persons
+
+Where—
+
+- (a) a maintenance assessment is in force under the former Act;
+- (b) a calculation application is made [^key-29c1a72e3a1d669db6290a42cc6d50e6]... under the section of the Act which is the same section as the section of the former Act under which the assessment application was made; and
+- (c) the calculation application relates to—
+  - (i) the same person with care and qualifying child or qualifying children as the maintenance assessment; and
+  - (ii) a non-resident parent who is the absent parent with respect to the maintenance assessment,
+
+  the calculation application shall not be proceeded with.
+
+### 5. Interpretation
+
+In this Schedule, “absent parent”, “former Act” and “maintenance assessment” have the meanings given in regulation 31(8)(a).
+
+(This note is not part of the Regulations)
+
+These Regulations provide for various procedural matters relating to an application for a maintenance calculation under the Child Support Act [1991 (c. 48)](https://www.legislation.gov.uk/ukpga/1991/48) (“the Act”), and make provision in respect of effective dates of calculations and of reduced benefit decisions, consequent upon the introduction of changes to the child support system made by the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19). Subject to savings for transitional purposes these Regulations revoke the [Child Support (Maintenance Assessment Procedure) Regulations 1992 (1992/1813)](https://www.legislation.gov.uk/uksi/1992/1813). These Regulations come into force at different times for different cases according to the dates on which provisions of the Child Support, Pensions and Social Security Act 2000 which are relevant to these Regulations are commenced for different types of cases.
+
+Regulation 1 contains provisions relating to citation, commencement and interpretation. Schedule 1 contains provisions relating to the interpretation of a “child” for the purposes of the Act.
+
+Regulation 2 contains provisions relating to the service and receipt of documents and regulation 3 sets out the procedures in relation to an application for a maintenance calculation.
+
+Regulation 4 and Schedule 2 provide for multiple applications for a maintenance calculation.
+
+Regulations 5 and 6 provide for notice to be given to the non-resident parent and any other relevant person when an effective application for a maintenance calculation has been made or treated as made by the person with care, and for the procedure on the death of a qualifying child.
+
+Regulation 7 prescribes the default rate, payable when a default maintenance decision is made under section 12(1) of the Act.
+
+Regulation 8 contains provisions relating to interpretation for the purposes of Part IV of these Regulations (reduced benefit decisions).
+
+Regulation 9 prescribes the period within which reasons are to be given by the parent with care for the purposes of section 46(2) of the Act.
+
+Regulations 10 to 20 make provision as to the amount and duration of reduced benefit decisions following a request under section 6(5) of the Act, or a failure to comply with the obligation in section 6(7) of the Act, or a refusal to take a scientific test (within the meaning of section 27A of the Act).
+
+Regulation 21 prescribes persons who are not persons with care for the purposes of the Act and regulation 22 makes provision for the authorisation of representatives. Regulations 23 and 24 set out what is to be notified following decisions by the Secretary of State.
+
+Regulations 25 to 29 prescribe the effective dates of maintenance calculations.
+
+Regulation 30 revokes the Child Support (Maintenance Assessment Procedure) Regulations 1992 with savings for transitional purposes. Regulation 31 makes transitional provision for the effective date of a calculation applied for after the new system comes into force where there is an assessment in force under the previous scheme and where reduced benefit decisions have been made or are being considered when the new system comes into force.
+
+The impact on business of these Regulations was covered in the Regulatory Impact Assessment (RIA) for the Child Support, Pensions and Social Security Act 2000, in accordance with which, and in consequence of which, these Regulations are made. A copy of that RIA has been placed in the libraries of both Houses of Parliament and can be obtained from the Department of Social Security, Regulatory Impact Unit, Adelphi, 1–11 John Adam Street, London, WC2N 6HT.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).
+
+[^f00002]: Footnote: Sections 5(3), 51 and 54 were amended by and sections 12 and 46 were substituted by the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19). Section 54 is cited because of the meaning assigned to the word “prescribed”.
+
+[^key-3a75240710fea07a6aaf90752e974b2d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/157) applied (5.10.2009) by [The Flexible New Deal (Miscellaneous Provisions) Order 2009 (S.I. 2009/1562)](https://www.legislation.gov.uk/uksi/2009/1562), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/1/2), [2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/2/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2009/1562/schedule)
+
+[^key-3166c0125de9f70ab313e49aaefe172f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/157) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^key-1b79414dee2df7904078ea94d5f318a5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/157/regulation/1/2) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/2/a/i)
+
+[^f00003]: Footnote: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155).
+
+[^f00004]: Footnote: Section 17(4A) was inserted by section 9 of the Child Support, Pensions and Social Security Act 2000.
+
+[^key-a969dfc1fed6e47767dddf7d5093ed50]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/157/regulation/1/2) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/2/a/ii)
+
+[^M_F_a4c32a61-ea78-4cf4-de34-492869fddbe3]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2001/157/regulation/1/5) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/2/b)
+
+[^key-0f40f08d4aee4ce9cbf5f027ec089ede]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2001/157/regulation/1/5) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/1/3/a), [6(2)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/6/2)
+
+[^key-bbbe051041c99d7eabccfb3281a5273c]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/5/1) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/3)
+
+[^key-a76a899bf9354defd19fdf737c10c5b6]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/6/1) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/4)
+
+[^key-bcc1eda387b6607af4c160383a03eabc]: Textual amendment: [Regs. 8-20](https://www.legislation.gov.uk/uksi/2001/157/regulation/8) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/5)
+
+[^key-42180815ce59491fffb74bda465075ab]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2001/157/regulation/9A) inserted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/1/3/a), [6(3)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/6/3)
+
+[^key-cfb61da5fb57b21276e71e261cc252de]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2001/157/regulation/14) heading omitted (5.11.2003) by virtue of [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2003 (S.I. 2003/2779)](https://www.legislation.gov.uk/uksi/2003/2779), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2779/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2003/2779/regulation/5/3/a) (with savings in [reg. 9](https://www.legislation.gov.uk/uksi/2003/2779/regulation/9))
+
+[^key-c7c77d76a7ebdd90a3736e98919bcce5]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2001/157/regulation/15) heading omitted (5.11.2003) by virtue of [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2003 (S.I. 2003/2779)](https://www.legislation.gov.uk/uksi/2003/2779), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2779/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2003/2779/regulation/5/4/a) (with savings in [reg. 9](https://www.legislation.gov.uk/uksi/2003/2779/regulation/9))
+
+[^f00019]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00020]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^key-a497fe1bb5ba4ab39ebb39ad108a634f]: Textual amendment: Words in [reg. 21(1)(c)](https://www.legislation.gov.uk/uksi/2001/157/regulation/21/1/c) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/18/2)
+
+[^f00021]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00022]: Footnote: [S.I. 2001/156](https://www.legislation.gov.uk/uksi/2001/156).
+
+[^key-32b0c7458502949a3a9ed5a6f3aec892]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/25/1) inserted (27.10.2008) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/5/2)
+
+[^key-df897a9b50a79799ae5a81d53e0b7413]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/25/1) inserted (21.2.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [7(4)](https://www.legislation.gov.uk/uksi/2003/328/regulation/7/4)
+
+[^key-9d1f0b06be9a9f51f99ce7b92ec10394]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/25/1) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(6)(a)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/6/a)
+
+[^key-2b06dbcd50eaeb93c1286b7bb6743ab1]: Textual amendment: [Reg. 25(3)(b)](https://www.legislation.gov.uk/uksi/2001/157/regulation/25/3/b) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/6/b)
+
+[^key-1332e9a935df79834cde987e9b054a3d]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/26/1) substituted (27.10.2008) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/5/3)
+
+[^key-b20c1e42786970d3ad2d4c9c1ae7050b]: Textual amendment: [Reg. 26(1)(c)](https://www.legislation.gov.uk/uksi/2001/157/regulation/26/1/c) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/1/3/a), [6(4)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/6/4)
+
+[^key-2968d6e2638e626ca6452a26f9bf6b36]: Textual amendment: Words in [reg. 26(1)(c)](https://www.legislation.gov.uk/uksi/2001/157/regulation/26/1/c) inserted (4.7.2011) by [The Child Support (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1464)](https://www.legislation.gov.uk/uksi/2011/1464), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1464/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/1464/regulation/4)
+
+[^key-8287fb2aa20f50045b3c59da409c9674]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2001/157/regulation/27) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/7)
+
+[^key-fc93836cf3d098dc7328f5bd81d8874f]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2001/157/regulation/28) inserted (27.10.2008) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/5/4)
+
+[^key-3b6faac2635c0493951cdb00587f744b]: Textual amendment: Words in [reg. 28(b)](https://www.legislation.gov.uk/uksi/2001/157/regulation/28/b) substituted (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/1/3/a), [6(6)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/6/6)
+
+[^key-eb445801b3e433ff58aa3d2637782b13]: Textual amendment: Words in [reg. 28(b)](https://www.legislation.gov.uk/uksi/2001/157/regulation/28/b) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/8)
+
+[^key-232e3fa6ebf959a1452335a7b3343bda]: Textual amendment: [Reg. 29(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/1): reg. 29 renumbered as reg. 29(1) (21.2.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [7(5)](https://www.legislation.gov.uk/uksi/2003/328/regulation/7/5)
+
+[^key-d00c780fa93a9fb0ad374d3a817a6b5b]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/1) inserted (27.10.2008) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/5/5)
+
+[^key-95d5f02986d0273d5a69316ecef11b5d]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/1) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(9)(a)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/9/a)
+
+[^key-0845d8efd71cb6c80dceafa24654bba0]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/1/a) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(9)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/9/b)
+
+[^key-fc347feb24882c479d3cda4e08eb0920]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/1/a) substituted (21.2.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [7(5)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/7/5/a)
+
+[^key-9c55cc8c4323a56d32a47a05653b23cc]: Textual amendment: [Reg. 29(c)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/c) added (30.4.2002) by [The Child Support (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/1204)](https://www.legislation.gov.uk/uksi/2002/1204), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/1/3/a), [6(7)](https://www.legislation.gov.uk/uksi/2002/1204/regulation/6/7)
+
+[^key-508102e70b77d5e731fb196dbc6a2ec0]: Textual amendment: Words in [reg. 29(1)(c)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/1/c) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(9)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/9/b)
+
+[^key-d375c03fd216ce62ddbc245cbf66fb6b]: Textual amendment: [Reg. 29(1)(d)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/1/d) added (16.9.2004) by [The Child Support (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2415)](https://www.legislation.gov.uk/uksi/2004/2415), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/6/2)
+
+[^key-b4b003762fc777d7905a7e9ca6c47477]: Textual amendment: Words in [reg. 29(1)(d)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/1/d) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(9)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/9/b)
+
+[^key-8cfb38466ee23a23f58d50043d3d02d9]: Textual amendment: [Reg. 29(2)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/2) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(9)(c)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/9/c)
+
+[^key-95fa7ca81a00b530d6635b2954bfe282]: Textual amendment: [Reg. 29(2)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/2)[(3)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/3) added (21.2.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [7(5)(b)](https://www.legislation.gov.uk/uksi/2003/328/regulation/7/5/b)
+
+[^key-6c3f156c67dacfb3dceeb75078a79832]: Textual amendment: [Reg. 29(3)(b)](https://www.legislation.gov.uk/uksi/2001/157/regulation/29/3/b) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(9)(c)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/9/c)
+
+[^M_F_e3089e54-280c-4cb3-f8f5-e3264d53de17]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2001/157/regulation/29B) inserted (12.7.2006) by [The Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/1520/regulation/5)
+
+[^key-2f1f4ff9559347347f4775ab559f333f]: Textual amendment: [Reg. 29B](https://www.legislation.gov.uk/uksi/2001/157/regulation/29B) inserted (27.10.2008) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/5/6)
+
+[^key-cc299ccc56de4e8f97369146c7436f23]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/30/1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/2/b)
+
+[^f00023]: Footnote: [S.I. 1992/1813](https://www.legislation.gov.uk/uksi/1992/1813).
+
+[^key-5777440debc1a9bf3c3427643a9d99c3]: Textual amendment: Words in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2001/157/regulation/30/2) substituted (21.2.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [7(6)](https://www.legislation.gov.uk/uksi/2003/328/regulation/7/6)
+
+[^f00024]: Footnote: [S.I. 2000/3186](https://www.legislation.gov.uk/uksi/2000/3186).
+
+[^key-8052c6ed3e7b2ca8a8c56b8b75f90a06]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2001/157/regulation/31) heading omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(10)(a)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/10/a)
+
+[^key-fd94c0f4c5b54682c99f22ea31a02ebc]: Textual amendment: [Reg. 31(1)-(2)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/1) substituted for [reg. 31(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/1)[(2)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/2) (21.2.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [7(7)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/7/7/a)
+
+[^key-6a9ce2262d8a295e74b5d0f1804f2c40]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/1) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(10)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/10/b)
+
+[^key-bab63b91c9e227dd5c30fe2e047a1cf2]: Textual amendment: Words in [reg. 31(1)(c)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/1/c) substituted (16.9.2004) by [The Child Support (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2415)](https://www.legislation.gov.uk/uksi/2004/2415), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/1/2/a), [6(3)](https://www.legislation.gov.uk/uksi/2004/2415/regulation/6/3)
+
+[^key-6a533cfa628d6a2f86d4f32f75cc6c0c]: Textual amendment: Words in [reg. 31(1B)(b)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/1B/b) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(10)(c)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/10/c)
+
+[^key-8bf6951d0ad671e8e38f42bde32f8939]: Textual amendment: [Reg. 31(1D)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/1D) inserted (27.10.2008) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/5/7)
+
+[^key-4c03bba45de710ed7d4f998c656e5975]: Textual amendment: [Reg. 31(3)-(7)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/3) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(10)(d)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/10/d)
+
+[^key-8441627829864a32db96d1f7125b85bb]: Textual amendment: Words in [reg. 31(8)(a)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/8/a) inserted (21.2.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [7(7)(c)(i)](https://www.legislation.gov.uk/uksi/2003/328/regulation/7/7/c/i)
+
+[^f00025]: Footnote: [S.I. 1992/1813](https://www.legislation.gov.uk/uksi/1992/1813).
+
+[^f00026]: Footnote: [S.I. 1992/2645](https://www.legislation.gov.uk/uksi/1992/2645).
+
+[^key-923cb949e6c92a713eeee524ab1dc3aa]: Textual amendment: Words in [reg. 31(8)(a)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/8/a) added (21.2.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [7(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/328/regulation/7/7/c/ii)
+
+[^key-68bdc91273369d5d44c3affeb717f24b]: Textual amendment: [Reg. 31(8)(b)](https://www.legislation.gov.uk/uksi/2001/157/regulation/31/8/b) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(10)(d)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/10/d)
+
+[^key-cb6412b6c9928649efc393e575aadf7b]: Textual amendment: [Sch. I para. 1](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/1) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/3/2)
+
+[^key-62bc0ca691d66fcbd4c077a28ffe1e91]: Textual amendment: [Sch. I para. 1](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/1) heading substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/7/2/a)
+
+[^key-d2233fb97ec00c714fa4200ccbb7f921]: Textual amendment: [Sch. I para. 1A](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/1A) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/3/3)
+
+[^key-b1061d9fe52b481631a26b7d43def100]: Textual amendment: [Sch. I para. 2](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/2) substituted (10.11.2009) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2009 (S.I. 2009/2909)](https://www.legislation.gov.uk/uksi/2009/2909), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2909/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2009/2909/regulation/4/3)
+
+[^key-ce01162e72325a9c83d35abdec6d4d7a]: Textual amendment: Words in [Sch. I para. 2](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/2) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/3), [3(4)(a)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/3/4/a)
+
+[^key-57cdfe77d8449764cbd8a018ecb771f3]: Textual amendment: Words in [Sch. I para. 2(a)](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/2/a) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/3/4/b)
+
+[^key-4941dd1b4791d0e4a574818d7eb5a75a]: Textual amendment: Words in [Sch. I para. 3](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/3) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/3/5)
+
+[^key-af1241807bf61953ce68b79892a339bc]: Textual amendment: Words in [Sch. I para. 4](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/4) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/3/6)
+
+[^key-28e1c64b61c5b1e45b260ea40260ebac]: Textual amendment: [Sch. I para. 4(2)](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/4/2) substituted (10.11.2009) by [The Child Support (Miscellaneous Amendments) (No. 2) Regulations 2009 (S.I. 2009/2909)](https://www.legislation.gov.uk/uksi/2009/2909), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2909/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2009/2909/regulation/4/4)
+
+[^key-2c0b22c13a2ab2d3ee3251b7b1050984]: Textual amendment: [Sch. I para. 5](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/5) omitted (10.11.2009) by virtue of [The Child Support ( by Miscellaneous Amendments) (No. 2) Regulations 2009 (S.I. 2009/2909)](https://www.legislation.gov.uk/uksi/2009/2909), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2909/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2009/2909/regulation/4/5)
+
+[^key-a1c1a26c9cdcc8611b29664aae7fdde6]: Textual amendment: [Sch. I para. 6](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/6) substituted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/3), [3(7)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/3/7)
+
+[^key-deb6c746a834b115d0589daacf9c8b6b]: Textual amendment: [Sch. I para. 7](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/7) inserted (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/3/8)
+
+[^key-e7606179586fc314914c555aa3e61c47]: Textual amendment: [Sch. I para. 8](https://www.legislation.gov.uk/uksi/2001/157/schedule/I/paragraph/8) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/7/2/b)
+
+[^key-1b6d7a6c64d87e7aa8cb8aea25240d83]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2001/157/schedule/2/paragraph/1) heading omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(11)(a)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/11/a)
+
+[^key-f78dad90faa17496e05397306deef871]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2001/157/schedule/2/paragraph/1/1) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(11)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/11/b)
+
+[^key-8967415997082a5ce39539e9f1828a90]: Textual amendment: [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2001/157/schedule/2/paragraph/1/2) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(11)(c)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/11/c)
+
+[^key-fd097d216ca73e55ff660a1a44200bd6]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2001/157/schedule/2/paragraph/3/2) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(12)(a)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/12/a)
+
+[^key-44798d0078cfabab96eafe63a88fe842]: Textual amendment: [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/uksi/2001/157/schedule/2/paragraph/3/7) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(12)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/12/b)
+
+[^key-9960234512fe8102cd8bc3843a0735df]: Textual amendment: [Sch. 2 para. 3(15)](https://www.legislation.gov.uk/uksi/2001/157/schedule/2/paragraph/3/15) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/7/3)
+
+[^key-3b6d22b10d1599039bae624ddadc41a9]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2001/157/schedule/2/paragraph/4) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(13)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/13)
+
+[^key-cacd3635e04dcb2977b84224445168e8]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2001/157/schedule/3) added (21.2.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [7(8)](https://www.legislation.gov.uk/uksi/2003/328/regulation/7/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/328/schedule)
+
+[^key-0e3eb65139f01de7cd218c6517a79b41]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2001/157/schedule/3/paragraph/1) heading omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(14)(a)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/14/a)
+
+[^key-9f8532ba2abf795cd2011e3746e6008c]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2001/157/schedule/3/paragraph/1/1) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(14)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/14/b)
+
+[^key-c2c94fe26aafe4766e2c1774cce7d506]: Textual amendment: [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2001/157/schedule/3/paragraph/1/2) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(14)(c)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/14/c)
+
+[^key-57534551baa7a1c33ce97d75126133e6]: Textual amendment: Words in [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/2001/157/schedule/3/paragraph/3/2) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(15)(a)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/15/a)
+
+[^key-cccd88ac66e2804263f4ee15ef802350]: Textual amendment: [Sch. 3 para. 3(7)](https://www.legislation.gov.uk/uksi/2001/157/schedule/3/paragraph/3/7) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(15)(b)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/15/b)
+
+[^key-b0180c2397379e0e5a5f47fecb792e71]: Textual amendment: [Sch. 3 para. 3(15)](https://www.legislation.gov.uk/uksi/2001/157/schedule/3/paragraph/3/15) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/7/4)
+
+[^key-29c1a72e3a1d669db6290a42cc6d50e6]: Textual amendment: Words in [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/uksi/2001/157/schedule/3/paragraph/4/b) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [9(16)](https://www.legislation.gov.uk/uksi/2008/2543/regulation/9/16)

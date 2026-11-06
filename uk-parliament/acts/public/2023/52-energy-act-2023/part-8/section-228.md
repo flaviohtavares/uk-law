@@ -1,0 +1,54 @@
+---
+title: Energy Act 2023, section 228
+act: Energy Act 2023
+section: '228'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/228
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 228
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 228. Zone coordinators[^key-e0a2a8fdb63199389a79edfb75f045d2]
+
+*Extent: E+W+S*
+
+(1) Zones regulations may make provision about zone coordinators.
+
+(2) The purpose of zone coordinators is to carry out functions conferred on them by zones regulations in relation to particular heat network zones.
+
+(3) Regulations made by virtue of subsection (1) may—
+
+- (a) make provision for, or in connection with, the designation of a person as a zone coordinator by a local authority for its area, or a part or parts of its area (including the local authority designating itself);
+- (b) make provision for, or in connection with, the designation of a person as a zone coordinator by two or more local authorities for their areas or parts of their areas (including the local authorities designating one of themselves);
+- (c) make provision for, or in connection with, the establishment of a body by one or more local authorities which is intended to be designated as a zone coordinator in accordance with regulations made by virtue of paragraph (a) or (b);
+- (d) make provision about the funding of zone coordinators;
+- (e) make provision about the governance of zone coordinators;
+- (f) make provision about zone coordinators cooperating with the Regulator in relation to zone coordinators’ functions or the Regulator’s functions;
+- (g) make provision for the Authority to perform any function of a zone coordinator in circumstances, and subject to requirements, specified by the regulations;
+- (h) make provision for the Authority to direct a zone coordinator to perform any of its functions in the manner the Authority considers appropriate in circumstances, and subject to requirements, specified by the regulations.
+
+(4) Regulations made by virtue of subsection (3)(a) and (b) may make provision for the Authority—
+
+- (a) to require a local authority, or two or more local authorities, to designate a person as a zone coordinator in circumstances, and subject to requirements, specified by the regulations;
+- (b) to designate a person as a zone coordinator where a local authority (or local authorities) fail to comply with a requirement imposed by virtue of paragraph (a).
+
+(5) In this section, “**local authority**” means—
+
+- (a) a county, district or parish council in England;
+- (b) a London borough council;
+- (c) the Common Council of the City of London;
+- (d) the Council of the Isles of Scilly;
+- (e) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
+- (f) another body or person specified by zones regulations.
+
+## Annotations
+
+[^key-e0a2a8fdb63199389a79edfb75f045d2]: Commencement: S. 228 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

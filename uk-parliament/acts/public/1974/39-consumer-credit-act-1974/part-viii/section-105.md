@@ -1,0 +1,59 @@
+---
+title: Consumer Credit Act 1974, section 105
+act: Consumer Credit Act 1974
+section: '105'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1974/39/section/105
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Consumer Credit Act 1974, section 105
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/39
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 105. Form and content of securities.[^key-24f3bec44ba6326dd3c6a30c86d101da]
+
+*Extent: E+W+S+N.I.*
+
+(1) Any security provided in relation to a regulated agreement shall be expressed in writing.
+
+(2) Regulations may prescribe the form and content of documents ( “security instruments ”) to be made in compliance with subsection (1).
+
+(3) Regulations under subsection (2) may in particular—
+
+- (a) require specified information to be included in the pre-scribed manner in documents, and other specified material to be excluded;
+- (b) contain requirements to ensure that specified information is clearly brought to the attention of the surety, and that one part of a document is not given insufficient or excessive prominence compared with another.
+
+(4) A security instrument is not properly executed unless—
+
+- (a) a document in the prescribed form, itself containing all the prescribed terms and conforming to regulations under subsection (2), is signed in the prescribed manner by or on behalf of the surety, and
+- (b) the document embodies all the terms of the security, other than implied terms, and
+- (c) the document, when presented or sent for the purpose of being signed by or on behalf of the surety, is in such state that its terms are readily legible, and
+- (d) when the document is presented or sent for the purpose of being signed by or on behalf of the surety there is also presented or sent a copy of the document.
+
+(5) A security instrument is not properly executed unless—
+
+- (a) where the security is provided after, or at the time when, the regulated agreement is made, a copy of the executed agreement, together with a copy of any other document referred to in it, is given to the surety at the time the security is provided, or
+- (b) where the security is provided before the regulated agreement is made, a copy of the executed agreement, together with a copy of any other document referred to in it, is given to the surety within seven days after the regulated agreement is made.
+
+(6) Subsection (1) does not apply to a security provided by the debtor or hirer.
+
+(7) If—
+
+- (a) in contravention of subsection (1) a security is not expressed in writing, or
+- (b) a security instrument is improperly executed,
+
+the security, so far as provided in relation to a regulated agreement, is enforceable against the surety on an order of the court only.
+
+(8) If an application for an order under subsection (7) is dismissed (except on technical grounds only) section 106 (ineffective securities) shall apply to the security.
+
+(9) Regulations under section 60(1) shall include provision requiring documents embodying regulated agreements also to embody any security provided in relation to a regulated agreement by the debtor or hirer.
+
+## Annotations
+
+[^key-24f3bec44ba6326dd3c6a30c86d101da]: Modification: [Ss. 105-107](https://www.legislation.gov.uk/ukpga/1974/39/section/105) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))

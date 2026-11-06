@@ -1,0 +1,79 @@
+---
+title: Judicial Review and Courts Act 2022, section 22
+act: Judicial Review and Courts Act 2022
+section: '22'
+status: revised-with-pending-changes
+text_date: '2026-09-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/35/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Judicial Review and Courts Act 2022, section 22
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-09-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/35
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 22. The Online Procedure Rule Committee[^key-cc3dc2d9f9bd544845cfb4da392cf037][^key-c226bec19bb287a1570bf3cc7fb46bbb]
+
+*Extent: E+W+S+N.I.*
+
+(1) Online Procedure Rules are to be made by a committee known as the Online Procedure Rule Committee.
+
+(2) The Committee is to consist of the persons appointed under subsections (3) and (4).
+
+(3) The Lord Chief Justice is to appoint—
+
+- (a) one person who is a judge of the Senior Courts of England and Wales, and
+- (b) two persons each of whom is either—
+  - (i) a judge of the Senior Courts of England and Wales, a Circuit Judge or a district judge, or
+  - (ii) a judge of the First-tier Tribunal, a judge of the Upper Tribunal, an Employment Judge, or a judge of the Employment Appeal Tribunal nominated as such by the Lord Chief Justice.
+
+(4) The Lord Chancellor is to appoint—
+
+- (a) one person who is a barrister in England and Wales, a solicitor of the Senior Courts of England and Wales, or a legal executive,
+- (b) one person who has experience in, and knowledge of, the lay advice sector, and
+- (c) one person who has experience in, and knowledge of, information technology relating to end-users’ experience of internet portals.
+
+(5) Before appointing a person under subsection (3)(a) the Lord Chief Justice must consult—
+
+- (a) the Lord Chancellor, and
+- (b) the Senior President of Tribunals.
+
+(6) Before appointing a person under subsection (3)(b) the Lord Chief Justice must—
+
+- (a) consult the Lord Chancellor and the Secretary of State, and
+- (b) obtain the agreement of the Senior President of Tribunals.
+
+(7) Before appointing a person under subsection (4)(a) the Lord Chancellor must consult—
+
+- (a) the Lord Chief Justice,
+- (b) the Senior President of Tribunals, and
+- (c) the relevant authorised body.
+
+(8) Before appointing a person under subsection (4)(b) or (c) the Lord Chancellor must consult—
+
+- (a) the Lord Chief Justice, and
+- (b) the Senior President of Tribunals.
+
+(9) The Lord Chief Justice may appoint one of the persons appointed under subsection (3)(a) or (b) to be the chair of the Online Procedure Rule Committee.
+
+(10) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise any function of the Lord Chief Justice under this section.
+
+(11) The Lord Chancellor may reimburse the members of the Online Procedure Rule Committee their travelling and out-of-pocket expenses.
+
+(12) In this section—
+
+- “**legal executive**” means a person authorised by the Chartered Institute of Legal Executives to practise as a member of the profession of legal executives;
+- “**relevant authorised body**”, in relation to an appointment under subsection (4)(a), means—
+  - (a) the General Council of the Bar of England and Wales, if the appointment is of a barrister;
+  - (b) the Law Society of England and Wales, if the appointment is of a solicitor;
+  - (c) the Chartered Institute of Legal Executives, if the appointment is of a legal executive.
+
+## Annotations
+
+[^key-cc3dc2d9f9bd544845cfb4da392cf037]: Commencement: S. 22 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+
+[^key-c226bec19bb287a1570bf3cc7fb46bbb]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/35/section/22) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

@@ -1,0 +1,96 @@
+---
+title: The Data Protection (Subject Access Modification) (Social Work) Order 2000
+id: uksi/2000/415
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: repealed
+made_date: '2000-02-17'
+text_date: '2018-05-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2000/415
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/415/pdfs/uksi_20000415_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/415/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Data Protection (Subject Access Modification) (Social Work) Order 2000
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+2000 No. 415
+
+DATA PROTECTION
+
+The Data Protection (Subject Access Modification) (Social Work) Order 2000 (revoked)[^key-086698d6b2c152b2c27df51586be0f2f]
+
+Made
+
+17th February 2000
+
+Coming into force
+
+1st March 2000
+
+[^key-086698d6b2c152b2c27df51586be0f2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## 1. Citation and commencement[^key-086698d6b2c152b2c27df51586be0f2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation[^key-086698d6b2c152b2c27df51586be0f2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Personal data to which Order applies[^key-086698d6b2c152b2c27df51586be0f2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Exemption from subject information provisions[^key-086698d6b2c152b2c27df51586be0f2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Exemption from section 7[^key-086698d6b2c152b2c27df51586be0f2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Modification of section 7 relating to Principal Reporter[^key-086698d6b2c152b2c27df51586be0f2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Further modifications of section 7[^key-086698d6b2c152b2c27df51586be0f2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-086698d6b2c152b2c27df51586be0f2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## SCHEDULE — PERSONAL DATA TO WHICH THIS ORDER APPLIES[^key-086698d6b2c152b2c27df51586be0f2f]
+
+Article 3
+
+**1.**[^key-086698d6b2c152b2c27df51586be0f2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-086698d6b2c152b2c27df51586be0f2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-086698d6b2c152b2c27df51586be0f2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-086698d6b2c152b2c27df51586be0f2f]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 247](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/247) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/9) and saving in [Sch. 20 para. 58(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’.\]

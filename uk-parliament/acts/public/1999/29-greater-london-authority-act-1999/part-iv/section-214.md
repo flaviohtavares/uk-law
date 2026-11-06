@@ -1,0 +1,41 @@
+---
+title: Greater London Authority Act 1999, section 214
+act: Greater London Authority Act 1999
+section: '214'
+status: revised-with-pending-changes
+text_date: '2026-08-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1999/29/section/214
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Greater London Authority Act 1999, section 214
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 214. Register of key system assets.
+
+*Extent: E+W+S*
+
+(1) The relevant authority shall keep a register of all key system assets for the time being, except as provided by subsection (3) below.
+
+(2) The register shall state—
+
+- (a) the date on which any designation of a particular key system asset, or of a description of key system assets, was made; and
+- (b) sufficient details of any particular key system asset, or any description of key system assets, designated as such to enable the key system assets to be identified.
+
+(3) The register need not contain an entry in respect of any particular key system asset or description of key system assets if the relevant authority, with the consent of the PPP company concerned, keeps the requisite copy documents available for inspection by the public at all reasonable hours free of charge.
+
+(4) For the purposes of this section the requisite copy documents, in the case of any particular key system asset or description of key system assets, are copies of—
+
+- (a) the document which contains the designation under paragraph (a) or (b) of section 213(1) above, and
+- (b) such other documents (if any) as may be necessary to disclose the information which would (apart from subsection (3) above) be required to be stated in the register,
+
+or of such extracts from those documents as disclose the designation or, as the case may be, the information concerned.
+
+(5) The register shall be available for inspection by the public free of charge at all reasonable hours.
+
+(6) A person inspecting the register, or any requisite copy documents available for inspection under subsection (3) above, may make copies of, or of extracts from, the register or requisite copy documents.

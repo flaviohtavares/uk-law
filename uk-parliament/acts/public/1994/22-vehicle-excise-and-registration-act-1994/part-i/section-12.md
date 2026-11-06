@@ -1,0 +1,44 @@
+---
+title: Vehicle Excise and Registration Act 1994, section 12
+act: Vehicle Excise and Registration Act 1994
+section: '12'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/22/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Vehicle Excise and Registration Act 1994, section 12
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 12. Use of vehicles by holders of trade licences.
+
+*Extent: E+W+S+N.I.*
+
+(1) The holder of a trade licence is not entitled by virtue of the licence—
+
+- (a) to use more than one vehicle at any one time,
+- (b) to use a vehicle for any purpose other than a purpose prescribed by regulations made by the Secretary of State, or
+- (c) except in such circumstances as may be so prescribed, to keep any vehicle on a road if it is not being used on the road.
+
+(2) The Secretary of State shall by regulations prescribe—
+
+- (a) the conditions subject to which trade licences are to be issued, and
+- (b) the purposes for which the holder of a trade licence may use a vehicle by virtue of the licence.
+
+(3) The purposes which may be prescribed as those for which the holder of a trade licence may use a vehicle under the licence shall not include the conveyance of goods or burden of any description other than—
+
+- (a) a load which is carried solely for the purpose of testing or demonstrating the vehicle or any of its accessories or equipment and which is returned to the place of loading without having been removed from the vehicle except for that purpose or in the case of accident,
+- (b) in the case of a vehicle which is being delivered or collected, a load consisting of another vehicle used or to be used for travel from or to the place of delivery or collection,
+- (c) a load built in as part of the vehicle or permanently attached to it,
+- (d) a load consisting of parts, accessories or equipment designed to be fitted to the vehicle and of tools for fitting them to the vehicle, or
+- (e) a load consisting of a trailer other than a trailer which is for the time being a disabled vehicle.
+
+(4) For the purposes of subsection (3), where a vehicle is so constructed that a trailer may by partial superimposition be attached to the vehicle in such a manner as to cause a substantial part of the weight of the trailer to be borne by the vehicle, the vehicle and the trailer are deemed to constitute a single vehicle.
+
+(5) In subsection (3)(e) “**disabled vehicle**” includes a vehicle which has been abandoned or is scrap.

@@ -1,0 +1,55 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 709
+act: Income Tax (Trading and Other Income) Act 2005
+section: '709'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/709
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 709
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 709. Venture capital trust dividends
+
+*Extent: E+W+S+N.I.*
+
+(1) No liability to income tax arises in respect of a venture capital trust dividend if—
+
+- (a) conditions A and B are met, and
+- (b) where the dividend is paid in respect of shares acquired after 8th March 1999, condition C is met.
+
+(2) In subsection (1) a “**venture capital trust dividend**” means a dividend paid in respect of ordinary shares in a company which—
+
+- (a) is a venture capital trust—
+  - (i) at the end of the accounting period in which the profits or gains in respect of which it is paid arose or accrued, and
+  - (ii) when the dividend is paid, and
+- (b) was such a trust when the person to whom it is paid acquired the shares.
+
+(3) Condition A is that the person beneficially entitled to the dividend—
+
+- (a) is an individual of at least 18 years, and
+- (b) is beneficially entitled to it as the holder of the shares or as the person for whom, or for whose benefit, they are held by a nominee.
+
+(4) Condition B is that—
+
+- (a) in the tax year in which the shares were acquired the market value of all the shares acquired by the individual or any nominee of the individual in companies which were venture capital trusts at the time of acquisition did not exceed £200,000, or
+- (b) in that year that market value exceeded £200,000, but the shares are treated under section 710 as having been acquired within that limit.
+
+(5) For the purposes of subsection (4), the market value of a share is determined as at the time of its acquisition.
+
+(6) Condition C is that the shares were acquired for genuine commercial reasons and not as part of a scheme or arrangement the main purpose of which, or one of the main purposes of which, was the avoidance of tax.
+
+(7) Shares that were not so acquired are ignored for the purposes of subsection (4) and section 710 (whether or not they were acquired after 8th March 1999).
+
+(8) In this section and in sections 710 and 711—
+
+- “**market value**” has the same meaning as in TCGA 1992 (see sections 272 and 273),
+- “**nominee**”, in relation to an individual, includes the trustees of a bare trust of which the individual is the only beneficiary, and
+- “**ordinary shares**” means shares forming part of the company's ordinary share capital.

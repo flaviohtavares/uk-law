@@ -1,0 +1,1345 @@
+---
+title: The Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2008
+id: uksi/2008/1950
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-07-22'
+text_date: '2023-12-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2008/1950
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/1950/pdfs/uksiem_20081950_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1950/pdfs/uksi_20081950_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1950/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2008
+
+> Text as at 2023-12-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2008 No. 1950
+
+Insurance
+
+[^M_F_b6e69020-ebcf-4acd-9b3f-39eee58b6f19]The Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2008
+
+Made
+
+22nd July 2008
+
+Laid before Parliament
+
+22nd July 2008
+
+Coming into force
+
+15th August 2008
+
+The Treasury, being a government department designated [^c19350791] for the purposes of section 2(2) of the European Communities Act 1972 [^c19350801] in relation to the authorisation of the carrying on of insurance business and the regulation of such business and its conduct, in exercise of the powers conferred on them by that section, make the following Regulations:[^key-b1effb887c757b71228cbc9a9af1d411]
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2008.
+
+(2) These Regulations come into force on 15th August 2008 and apply in relation to financial years beginning on or after 1st January 2009.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2006 Act**” means the Companies Act 2006 [^c19350811];
+- “**the 2008 Regulations**” means the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 [^c19350821];
+- “**appropriate audit authority**” means—
+  - (a) the Secretary of State, or
+  - (b) if the Secretary of State has delegated functions under section 1252 of the Companies Act 2006 (delegation of the Secretary of State's functions) to a body whose functions include receiving notice that an auditor of a syndicate or of the aggregate accounts has ceased to hold office, that body;
+- “**the Authority**” means the Prudential Regulation Authority[^key-f9c9b9c348aaa963b658f4fdd2360bd3];
+- “the Council of Lloyd's” means the Council constituted by section 3 of Lloyd's Act 1982 (the Council);
+- “**financial year**” means the period of 12 months beginning on 1st January;
+- “**Lloyd's byelaws**” means the byelaws made under Lloyd's Acts 1871 to 1982 [^c19350831];
+- “**managing agent**” means a person who is permitted by the Council of Lloyd's, in the conduct of his business as an underwriting agent, to perform, for a member of Lloyd's, one or more of the following functions—
+  - (a) underwriting contracts of insurance at Lloyd's;
+  - (b) reinsuring such contracts in whole or in part;
+  - (c) paying claims on such contracts;
+- “**syndicate**” means one or more persons, to whom a syndicate number has been assigned by or under the authority of the Council of Lloyd's, carrying out or effecting contracts of insurance written at Lloyd's;
+- “**syndicate's annual accounts**” means the accounts prepared in accordance with regulation 5(2)(a) of these Regulations.
+
+(2) In these Regulations any reference to a person being “**in default**” in relation to a requirement of these Regulations means a person who authorises or permits, participates in, or fails to take all reasonable steps to prevent, a contravention of that requirement.
+
+(3) For the purposes of these Regulations an underwriting year of account is closed—
+
+- (a) at the time when a contract of reinsurance to close that year of account, which complies with the requirements in the Lloyd's byelaws, takes effect; or
+- (b) in the case of a syndicate which consists of a single corporate member, at the time when an amount representing the provision for all known and unknown liabilities attributable to the closing year of account, is included in the underwriting account for the following underwriting year.
+
+(4) Except as otherwise provided in these Regulations, words and expressions used in the 2006 Act have the same meaning in these Regulations as they have in that Act.
+
+### 3. Senior Statutory Auditor
+
+(1) In these Regulations, “**senior statutory auditor**” means the individual identified by a firm as senior statutory auditor in relation to an audit in accordance with the standards or guidance mentioned in section 504(1) of the 2006 Act (senior statutory auditor).
+
+(2) The person identified as senior statutory auditor must be eligible for appointment as auditor of the syndicate in question under Chapter 2 of Part 42 of the 2006 Act (statutory auditors: individuals and firms).
+
+(3) The senior statutory auditor is not, by reason of being named or identified as senior statutory auditor or by reason of his or her having signed the auditor's report, subject to any civil liability to which he or she would not otherwise be subject.
+
+### 4. Summary proceedings
+
+Sections 1127 and 1128 of the 2006 Act (summary proceedings: venue and time limit for proceedings) apply to an offence under these Regulations as they apply to an offence under the Companies Acts (as defined by section 2(1) of the 2006 Act).
+
+## PART 2 — SYNDICATE ACCOUNTS
+
+### 5. Preparation of syndicate's annual accounts
+
+(1) Managing agents must prepare or cause to be prepared the accounts and reports required by paragraph (2), in respect of—
+
+- (a) each syndicate that they manage on 31st December; and
+- (b) any syndicate that they were the last managing agent to manage during the preceding year and which has no managing agent on 31st December.
+
+(2) Managing agents must, for the financial year preceding 31st December, in respect of each syndicate—
+
+- (a) prepare annual accounts;
+- (b) prepare an annual report; and
+- (c) cause to be prepared an auditor's report.
+
+(3) The accounts and annual report required by paragraph (2) must—
+
+- (a) be prepared within a period of 3 months beginning immediately after the end of the syndicate's financial year;
+- (b) state that they are prepared under this regulation; and
+- (c) comply with the requirements in Schedule 1 to these Regulations.
+
+(4) The accounts required by paragraph (2)(a) must also contain the information on auditor remuneration required by Schedule 2 to these Regulations.
+
+(5) Schedules 1 and 2 to these Regulations have effect.
+
+### 6. Preparation of syndicate underwriting year accounts
+
+(1) Managing agents must, in respect of each syndicate to which regulation 5(1) refers, prepare or cause to be prepared underwriting year accounts in accordance with paragraph (2), unless—
+
+- (a) no underwriting year of that syndicate has been closed in the preceding financial year or is being closed at the end of that financial year; or
+- (b) the members of the syndicate for each underwriting year included in the underwriting year accounts, agree unanimously, in writing, that no underwriting year accounts shall be prepared in respect of that syndicate.
+
+(2) The underwriting year accounts must be an account which—
+
+- (a) is prepared on an underwriting year basis; and
+- (b) gives a true and fair view of the result of that underwriting year at closure.
+
+(3) The accounts required by this regulation must—
+
+- (a) be prepared within a period of 3 months beginning immediately after the end of the syndicate's financial year; and
+- (b) state that they are prepared under this regulation.
+
+(4) Managing agents must cause to be prepared an auditor's report on the underwriting year accounts required by this regulation stating whether a true and fair view is given of the result of the underwriting year at closure.
+
+(5) Part 42 of the 2006 Act (statutory auditors) applies to an auditor appointed for the purposes of this regulation subject to any necessary modifications to take account of the fact that the syndicate is unincorporated, as it applies to the person appointed for the purposes of regulation 5 or the person appointed to report on the aggregate accounts under section 1210 of the 2006 Act (meaning of “statutory auditor”) [^c19350841].
+
+### 7. Approval and signing of accounts
+
+(1) A syndicate's annual accounts must be approved and signed by the syndicate's managing agent and, where the managing agent is a body corporate or a partnership, the accounts must be approved by the board of directors or partners and signed by a director or partner of the managing agent, authorised to sign on its behalf.
+
+(2) The signature must be on the syndicate's balance sheet.
+
+(3) Every copy of the balance sheet which is circulated, published, issued or delivered to the Authority must state the name of the person who signed it on behalf of the syndicate's managing agent.
+
+### 8. Accounts to be sent to syndicate members, the Council of Lloyd's and the Authority
+
+(1) The managing agent responsible for the preparation of the accounts of a syndicate must send a copy of the accounts and reports prepared under regulations 5 and 6 to every member of Lloyd's who participates in that syndicate and to the Council of Lloyd's, within 3 months from the end of the financial year.
+
+(2) The managing agent responsible for the preparation of the accounts of a syndicate must send a copy of the accounts and reports prepared under regulations 5 and 6 to the Authority within 6 months from the end of the financial year.
+
+(3) References in this regulation to sending documents to a person include references to using electronic communications for sending copies of those documents to such address as may for the time being be notified to the managing agent by that person for that purpose.
+
+### 9. Publication of syndicate accounts and reports
+
+Where a managing agent has sent accounts and reports to the Council of Lloyd's under regulation 8, the Council must—
+
+- (a) make available, on reasonable notice, those accounts and reports for inspection by any person without charge and during business hours at the Council's head office for a period of three years from the date of signature of each document; and
+- (b) supply to any person upon request a copy of those accounts and reports (or such part of those accounts and reports as may be requested) at a price not exceeding the administrative cost of making the copy, for a period of three years from the date of signature of each document.
+
+### 10. Auditor's report[^key-bd6a69e645922fae652e97908f16f988]
+
+(1) A syndicate’s auditor must make a written report to the syndicate’s members on all annual accounts of the syndicate of which copies are to be sent to the syndicate members during the auditor’s tenure of office.
+
+(2) The auditor’s report must include—
+
+- (a) the identity of the syndicate whose annual accounts are the subject of the audit,
+- (b) a description of the annual accounts that are the subject of the audit (including the period covered by those accounts),
+- (c) a description of the financial reporting framework that has been applied in the preparation of those accounts, and
+- (d) a description of the scope of the audit identifying the auditing standards in accordance with which the audit was conducted.
+
+(3) The report must state clearly the opinion of the auditor as to whether the annual accounts—
+
+- (a) give a true and fair view—
+  - (i) in the case of an individual balance sheet, of the state of affairs of the syndicate as at the end of the financial year, and
+  - (ii) in the case of an individual profit and loss account, of the profit or loss of the syndicate for the financial year;
+- (b) have been properly prepared in accordance with the relevant financial reporting framework, and
+- (c) have been prepared in accordance with the requirements of these Regulations.
+
+(4) The auditor must, in the auditor’s report on the syndicate’s annual accounts—
+
+- (a) state whether in the auditor’s opinion, based on the work undertaken in the course of the audit—
+  - (i) the information given in the managing agent’s report for the financial year for which the annual accounts are prepared is consistent with those accounts;
+  - (ii) that report has been prepared in accordance with these Regulations,
+- (b) state whether, in the light of the knowledge and understanding of the syndicate and its environment obtained in the course of the audit, the auditor has identified material misstatements in the managing agent’s report, and
+- (c) if applicable, give an indication of the nature of each of the misstatements referred to in paragraph (b).
+
+(5) The auditor’s report must—
+
+- (a) be unqualified or qualified,
+- (b) include a reference to any matters to which the auditor wishes to draw attention by way of emphasis without qualifying the report,
+- (c) include a statement on any material uncertainty relating to events or conditions that may cast doubt on the ability of the syndicate to continue to write future business, and
+- (d) identify the auditor’s place of establishment.
+
+### 11. Duties of auditors
+
+(1) A syndicate's auditor, in preparing the audit report, must carry out such investigations as will enable the auditor to form an opinion as to—
+
+- (a) whether adequate accounting records have been kept on behalf of the syndicate; and
+- (b) whether the syndicate's annual accounts are in agreement with the accounting records.
+
+(2) If the auditor is of the opinion—
+
+- (a) that adequate accounting records have not been kept; or
+- (b) that the syndicate's annual accounts are not in agreement with the accounting records,
+
+the auditor must state that fact in the auditor’s report[^key-d4b441eca74b9348d23bf0dc907d17a7].
+
+(3) If the auditor fails to obtain all the information and explanations which, to the best of the auditor's knowledge and belief, are necessary for the purposes of the audit, the audit report shall state that fact.
+
+(4) If the requirements of paragraph 5 of Schedule 1 are not complied with in the annual accounts the audit report must include, so far as the auditor is reasonably able to do so, a statement giving the required particulars.
+
+(5)[^key-561b1971c87be6ad9f6f735f54c90338] Where more than one person is appointed as an auditor—
+
+- (a) all the persons appointed must jointly make a report under this regulation and the report must include a statement as to whether all the persons appointed agree on—
+  - (i) the matters contained in the report,
+  - (ii) the statements under regulation 10(4) and paragraphs (2) and (3) of this regulation, and
+  - (iii) the indications given under regulation 10(4), and
+- (b) if all the persons appointed cannot agree on—
+  - (i) the matters contained in the report,
+  - (ii) the statements under regulations 10(4) and paragraphs (2) and (3) of this regulation, or
+  - (iii) the indications given under regulation 10(4),
+
+  the report must include the opinions of each person appointed and give reasons for the disagreement.
+
+### 12. Signature of auditor's report
+
+(1) The syndicate's auditor's report on the syndicate's annual accounts required under regulation 5(2), and on the underwriting year accounts required by regulation 6, must state the name of the auditor (or where more than one person is appointed as auditor, all of their names)[^key-81a3aff0a01e6df53906563edd50ffff] and be signed and dated.
+
+(2) Where the auditor is an individual, the report must be signed by that individual.
+
+(3) Where the auditor is a firm, the report must be signed by the senior statutory auditor in his or her own name, for and on behalf of the auditor.
+
+(4)[^key-c49b4122f1117de735f15f69b0dacd93] Where more than one person is appointed as auditor, the report must be signed by all of them.
+
+### 13. Names to be stated in copies of auditor's report published or filed
+
+(1) Every copy of the syndicate's auditor's report that is published by or on behalf of the syndicate or the Council of Lloyd's or which is sent to the Authority under regulation 8(2) must—
+
+- (a) state the name of the auditor and (where the auditor is a firm) the name of the person who signed it as senior statutory auditor; or
+- (b) if the conditions in regulation 14 are met, state that a resolution has been passed and notified to the Authority in accordance with regulation 14(2)(b).
+
+(1A)[^key-acb4fc9920f812679c34211194beffa3] If more than one person is appointed as auditor, the reference in paragraph (1)(a) to the name of the auditor is to be read as a reference to the names of all the auditors.
+
+(2) For the purposes of this regulation, the syndicate (or the Council) is regarded as publishing the report if it publishes, issues, circulates or otherwise makes it available for public inspection in a manner calculated to invite members of the public generally, or any class of members of the public, to read it.
+
+### 14. Circumstances in which names may be omitted
+
+(1) An[^key-608c2091399890d29742f4448b12140a] auditor's name, and (where the auditor is a firm) the name of the person who signed the report as senior statutory auditor, may be omitted from copies of the report circulated, published, issued or delivered where the conditions in paragraph (2) are met.
+
+(2) The conditions referred to in paragraph (1) are that the managing agent responsible for preparing the syndicate's accounts—
+
+- (a) considering on reasonable grounds that statement of the name would create or be likely to create a serious risk that the auditor or senior statutory auditor, or any other person, would be subject to violence or intimidation, has resolved that the name should not be stated; and
+- (b) has given notice of the resolution to the Authority, stating—
+  - (i) the name and number of the syndicate;
+  - (ii) the year to which the report relates; and
+  - (iii) the name of the auditor and (where the auditor is a firm) the name of the person who signed the report as senior statutory auditor.
+
+### 15. Requirements in connection with publication of statutory accounts
+
+(1) If a managing agent publishes any of the statutory accounts of a syndicate, they must be accompanied by the auditor's report on those accounts.
+
+(2) If a managing agent publishes non-statutory accounts of a syndicate, it must publish with them a statement indicating—
+
+- (a) that they are not the syndicate's statutory accounts;
+- (b) whether statutory accounts dealing with any financial year with which the non-statutory accounts purport to deal have been sent to the Authority under regulation 8(2) of these Regulations; and
+- (c) whether an auditor's report has been made on the syndicate's accounts for any such financial year, and if so whether the report—
+  - (i) was qualified or unqualified, or included a reference to any matters to which the auditor drew attention by way of emphasis without qualifying the report; or
+  - (ii) contained a statement under regulation 11(2), (3) or (4).
+
+(3) The managing agent must not publish the auditor's report on the syndicate's statutory accounts with non-statutory accounts.
+
+(4) References in this regulation to the publication by a managing agent of “non-statutory accounts” are to the publication of any balance sheet or profit and loss account relating to, or purporting to deal with, a financial year of the syndicate or an underwriting year of the syndicate otherwise than as part of the syndicate's statutory accounts.
+
+(5) A syndicate's “statutory accounts” are its accounts for a financial year specified in regulations 5(2)(a) and 6 (1) and required to be sent to the Authority under regulation 8(2).
+
+### 16. Delivery and publication of accounts in euros
+
+(1) The amounts set out in the syndicate's annual accounts may also be shown in the same accounts translated into euros.
+
+(2) When complying with regulation 8(2) the managing agent may send to the Authority an additional copy of the syndicate's annual accounts in which the amounts have been translated into euros.
+
+(3) In both cases—
+
+- (a) the amounts must have been translated at the exchange rate prevailing on the date to which the balance sheet is made up; and
+- (b) that rate must be disclosed in the notes to the accounts.
+
+(4) For the purposes of regulation 15 any additional copy of the syndicate's annual accounts sent to the Authority under paragraph (2) above shall be treated as statutory accounts of the syndicate.
+
+(5) In the case of such a copy, references in regulation 15 to the auditor's report on the syndicate's annual accounts must be read as references to the auditor's report on the annual accounts of which it is a copy.
+
+### 17. Penalties for non-compliance
+
+(1) If the managing agent of a Lloyd's syndicate fails to comply with regulation 5(1), within the period referred to in regulation 5(3), the managing agent and every person who was a director or partner of it immediately before the end of that period, is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) If the managing agent of a Lloyd's syndicate fails to comply with regulation 6(1), within the period referred to in regulation 6(3), the managing agent and every person who was a director or partner of it immediately before the end of that period, is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) If accounts which are approved under regulation 7 do not comply with the requirements of these Regulations, the managing agent of the Lloyd's syndicate and every person who was a director or partner of the managing agent at the time when the accounts were approved who—
+
+- (a) knew that they did not comply, or was reckless as to whether they complied, and
+- (b) failed to take reasonable steps to secure compliance with those requirements or, as the case may be, to prevent the accounts from being approved,
+
+is guilty of an offence and liable on conviction on indictment, to a fine, and on summary conviction to a fine not exceeding the statutory maximum.
+
+(4) If an annual report which is approved under paragraph 12 of Schedule 1 does not comply with the requirements of these Regulations, the managing agent of the Lloyd's syndicate and every person who was a director or partner of the managing agent at the time when the accounts were approved who—
+
+- (a) knew that they did not comply, or was reckless as to whether they complied, and
+- (b) failed to take reasonable steps to secure compliance with those requirements or, as the case may be, to prevent the accounts from being approved,
+
+is guilty of an offence and liable on conviction on indictment to a fine, and on summary conviction to a fine not exceeding the statutory maximum.
+
+(5) If a managing agent fails to comply with regulation 8(1), it and every person who was a director or partner of the managing agent at the time when the failure took place is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(6) If a managing agent fails to comply with regulation 8(2), it and every person who was a director or partner of the managing agent at the time when the failure took place is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(7) If a copy of the syndicate auditor's report is sent to the Authority or published without the statement required by regulation 13, the managing agent, and every person who was a director or partner of the managing agent at the time when the failure took place is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(8) If a managing agent contravenes any provision of regulation 15, the managing agent and every person who was a director or partner of the managing agent at the time when the contravention took place, is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(9) It is a defence for a person charged with an offence under this regulation to show that he or she took all reasonable steps for securing that the requirements in question would be complied with.
+
+## PART 3 — AGGREGATE ACCOUNTS
+
+### 18. Preparation of aggregate accounts by Council of Lloyd's
+
+(1) The members of the Council of Lloyd's must prepare aggregate accounts for each financial year by cumulating all the syndicate annual accounts prepared in accordance with regulation 5 for that year.
+
+(2) The aggregate accounts must consist of—
+
+- (a) an aggregate balance sheet as at the last day of the financial year; and
+- (b) an aggregate profit and loss account.
+
+Those accounts are referred to in these Regulations as the “**aggregate accounts**”.
+
+(3) The aggregate accounts must—
+
+- (a) be prepared within the period of 6 months beginning immediately after the end of the financial year; and
+- (b) state that they are prepared under these Regulations.
+
+(4) Subject to the modification in paragraph (4A),[^key-2ce856cba888989e940e36d09d01fcfc] the aggregate accounts must comply with the provisions of Schedule 3 to the 2008 Regulations (insurance companies: Companies Act individual accounts), other than the provisions (or parts of provisions) set out in paragraph (5) as to—
+
+- (a) the form and content of the aggregate balance sheet and aggregate profit and loss account; and
+- (b) additional information to be provided by way of notes to the accounts.
+
+(4A)[^key-db4b963030dcc7992f24e6b743ce0447] Paragraph 16 of Schedule 3 to the 2008 Regulations applies in relation to the syndicates as if it read “The syndicates are presumed to continue to write future business.
+
+(5) The provisions are the following—
+
+- (a) paragraphs 11(2), 68, 71, 72, 79, 81, 82(2), 83; and
+- (b) in paragraph 2(2) the words from “save that none” to the end of that sub-paragraph.
+
+(6) The aggregate accounts must also contain the information on auditor remuneration required in Schedule 2 to these Regulations and comply with the provisions set out in paragraph 1 of Schedule 3 to these Regulations.
+
+(7) Schedule 3 to these Regulations has effect.
+
+### 19. Approval and signing of aggregate accounts
+
+(1) The aggregate accounts must be approved by the Council of Lloyd's and signed on behalf of the Council by a member of the Council.
+
+(2) The signature must be on the aggregate balance sheet.
+
+(3) Every copy of the aggregate balance sheet which is circulated, published or issued must state the name of the person who signed it on behalf of the Council.
+
+(4) The copy of the aggregate balance sheet which is delivered to the Authority must be signed on behalf of the Council by a member of the Council.
+
+### 20. Preparation of annual report by the Council of Lloyd's
+
+The members of the Council of Lloyd's must prepare an annual report on the insurance business carried on by the members of Lloyd's which complies with the requirements set out in paragraphs 2 to 4 of Schedule 3.
+
+### 21. Approval and signing of annual report
+
+(1) The annual report prepared under regulation 20 must be approved by the Council of Lloyd's and signed on behalf of the Council by a member of the Council.
+
+(2) Every copy of the annual report which is circulated, published or issued, must state the name of the person who signed it on behalf of the Council.
+
+(3) The copy of the annual report which is delivered to the Authority must be signed on behalf of the Council by a member of the Council.
+
+### 22. Auditor's report[^key-a8ac7b2bb06a41798133a32a4ee90f52]
+
+(1) The members of the Council of Lloyd’s must obtain a written auditor’s report on the aggregate accounts.
+
+(2) The auditor’s report must include—
+
+- (a) a statement that the subject of the review is the aggregate accounts which are an accumulation of the syndicates’ annual accounts prepared in accordance with these Regulations,
+- (b) a description of the aggregate accounts that are the subject of the review (including the period covered by those accounts),
+- (c) a description of the financial reporting framework that has been applied in the preparation of those accounts,
+- (d) a description of the scope of the review identifying the standards in accordance with which the review was conducted, and
+- (e) a clear statement as to whether, in the auditor’s opinion, the aggregate accounts have been properly prepared in accordance with the requirements of these Regulations, and whether those accounts are correctly aggregated.
+
+(3) The auditor must in the auditor’s report—
+
+- (a) state whether, in the auditor’s opinion, based on the work undertaken in the course of the audit—
+  - (i) the information given in the annual report of the Council of Lloyd’s for the financial year for which the aggregate accounts are prepared is consistent with those accounts, and
+  - (ii) that report has been prepared in accordance with these Regulations,
+- (b) state whether, in the light of the knowledge and understanding of the syndicates and their environment obtained in the course of the audit, the auditor has identified material misstatements in the annual report of the Council of Lloyd’s, and
+- (c) if applicable, give an indication of the nature of each of the misstatements referred to in paragraph (b).
+
+(4) The auditor’s report must—
+
+- (a) be either unqualified or qualified,
+- (b) include a reference to any matters to which the auditor wishes to draw attention by way of emphasis without qualifying the report, and
+- (c) identify the auditor’s place of establishment.
+
+(5) Where more than one person is appointed as an auditor—
+
+- (a) all the persons appointed must jointly make a report under this regulation and the report must include a statement as to whether all the persons appointed agree on—
+  - (i) the matters contained in the report,
+  - (ii) the statements under paragraph (3), and
+  - (iii) the indications given under paragraph (3), and
+- (b) if all the persons appointed cannot agree on—
+  - (i) the matters contained in the report,
+  - (ii) the statements under paragraph (3), or
+  - (iii) the indications given under paragraph (3),
+
+  the report must include the opinions of each person appointed and give reasons for the disagreement.
+
+### 23. Signature of auditor's report
+
+(1) The auditor's report must state the name of the auditor (or, where more than one person is appointed as auditor, all of their names)[^key-1b91cd7e61d5cab7763b88f6d09fa3ab] and be signed and dated.
+
+(2) Where the auditor is an individual, the report must be signed by that individual.
+
+(3) Where the auditor is a firm, the report must be signed by the senior statutory auditor in his own name, for and on behalf of the auditor.
+
+(4)[^key-b7e056cf1e64c8c2fcdb91bc5204160c] Where more than one person is appointed as auditor, the report must be signed by all of them.
+
+### 24. Names to be stated in copies of auditor's report published or filed
+
+(1) Every copy of the auditor's report which is published by or on behalf of the Council of Lloyd's must—
+
+- (a) state the name of the auditor and (where the auditor is a firm) the name of the person who signed it as senior statutory auditor; or
+- (b) if the conditions in regulation 25 are met, state that a resolution has been passed and notified to the Authority in accordance with regulation 25(2)(b).
+
+(1A)[^key-76b93e8db4f9366022d6d398a73a0130] If more than one person is appointed as auditor, the reference in paragraph (1)(a) to the name of the auditor is to be read as a reference to the names of all the auditors.
+
+(2) The copy of the auditor's report delivered to the Authority must be signed and dated by the auditor.
+
+(3) For the purposes of this regulation, the Council is regarded as publishing the report if it publishes, issues, circulates or otherwise makes it available for public inspection in a manner calculated to invite members of the public generally, or any class of members of the public, to read it.
+
+### 25. Circumstances in which names may be omitted
+
+(1) An[^key-f760a8bd7cceaf62770a8a7801344754] auditor's name, and (where the auditor is a firm) the name of the person who signed the report as senior statutory auditor, may be omitted from copies of the report circulated, published, issued or delivered where the conditions in paragraph (2) are met.
+
+(2) The conditions referred to in paragraph (1) are that the Council of Lloyd's—
+
+- (a) considering on reasonable grounds that statement of the name would create or be likely to create a serious risk that the auditor, senior statutory auditor, or any other person, would be subject to violence or intimidation, has resolved that the name should not be stated; and
+- (b) has given notice of the resolution to the Authority, stating—
+  - (i) the year to which the report relates; and
+  - (ii) the name of the auditor and (where the auditor is a firm) the name of the person who signed the report as senior statutory auditor.
+
+### 26. Duties of auditors
+
+(1) The auditor of the aggregate accounts must, in preparing the auditor's report, carry out such investigations as will enable the auditor to form an opinion as to whether the aggregate accounts are properly prepared and a correct aggregation of the syndicate accounts which have been cumulated to prepare them.
+
+(2) If the auditor is of the opinion that the aggregate accounts are not properly prepared or not a correct aggregation of the syndicate accounts which have been cumulated to prepare them, that fact must be stated in the auditor's report.
+
+(3) If the auditor fails to obtain all the information and explanations which, to the best of the auditor's knowledge and belief, are necessary for the purposes of the auditor's report, that fact must be stated in the auditor's report.
+
+(4)[^key-72598af7ba426f24d671f5aa95ace95f] Where more than one person is appointed as auditor, the report must include a statement as to whether all the persons appointed agree on any statements given under paragraphs (2) and (3) and, if they cannot agree on those statements, the report must include the opinions of each person appointed and the reasons for the disagreement.
+
+### 27. Aggregate accounts and annual report of Council to be delivered to the Authority and published
+
+(1) The Council of Lloyd's must deliver to the Authority a copy of the aggregate accounts and its annual report on each financial year within 6 months from the end of that year.
+
+(2) The Council of Lloyd's must—
+
+- (a) make available, on reasonable notice, the latest aggregate accounts and its latest annual report for inspection by any person, without charge and during business hours, at the Council's head office; and
+- (b) supply to any person upon request a copy of those accounts or that report (or such part of them as may be requested) at a price not exceeding the administrative cost of making the copy.
+
+### 28. Penalties for non-compliance
+
+(1) If the members of the Council of Lloyd's fail to comply with the requirement in regulation 18(1) within the period referred to in regulation 18(3) to prepare aggregate accounts, every person who was a member of the Council of Lloyd's immediately before the end of that period is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) If aggregate accounts which are approved under regulation 19 do not comply with the requirements of these Regulations, every member of the Council of Lloyd's who—
+
+- (a) knew that they did not comply, or was reckless as to whether they complied, and
+- (b) failed to take reasonable steps to secure compliance with those requirements or, as the case may be, to prevent the accounts from being approved,
+
+is guilty of an offence and liable on conviction on indictment to a fine, and on summary conviction to a fine not exceeding the statutory maximum.
+
+(3) In the case of failure to comply with the requirement in regulation 20 to prepare an annual report, every person who was a member of the Council of Lloyd's immediately before the end of the period referred to in regulation 27(1) is guilty of an offence and liable on conviction on indictment to a fine, and on summary conviction to a fine not exceeding the statutory maximum.
+
+(4) If an annual report which is approved under regulation 21 does not comply with the requirements of these Regulations, every member of the Council of Lloyd's who—
+
+- (a) knew it did not comply, or was reckless as to whether it complied; and
+- (b) failed to take reasonable steps to secure compliance with those requirements or, as the case may be, to prevent the report from being approved,
+
+is guilty of an offence and liable on conviction on indictment to a fine, and on summary conviction to a fine not exceeding the statutory maximum.
+
+(5) If a copy of the auditor's report is sent to the Authority or published without the statement required by regulation 24, every person who was a member of the Council of Lloyd's at the time when the failure took place is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) In the event of failure to deliver a copy of the aggregate accounts and the report of the Council of Lloyd's to the Authority under regulation 27, every person who was a member of the Council of Lloyd's at the time when the failure took place is guilty of an offence and liable on conviction on indictment to a fine, and on summary conviction to a fine not exceeding the statutory maximum.
+
+(7) It is a defence for a person charged with an offence under this regulation to show that he or she took all reasonable steps for securing that the requirements in question would be complied with.
+
+## PART 4 — Regulation by the Authority
+
+### 29. Functions of the Authority
+
+(1) The Authority has responsibility for administering the system of regulation of Lloyd's syndicates and the Council of Lloyd's provided for by these Regulations.
+
+(2) Proceedings for an offence under these Regulations may be instituted only—
+
+- (a) by the Authority or the Secretary of State; or
+- (b) by or with the consent of the Director of Public Prosecutions.
+
+(3) In exercising its power to institute proceedings for an offence under these Regulations, the Authority must comply with any conditions or restrictions imposed in writing by the Treasury.
+
+(4) The Authority may increase any fee which it charges managing agents under the Financial Services and Markets Act 2000 [^c19350851] to take account of the expenses incurred in carrying out its functions under these Regulations.
+
+## PART 5 — Revocation and consequential provision
+
+### 30. Revocation
+
+The Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2004 [^c19350861] are revoked, but continue to apply to financial years beginning on or before 1 January 2008.
+
+### 31. Consequential amendment
+
+(1) In section 1210 of the 2006 Act (meaning of “statutory auditor” etc.), for subsection (1)(e) substitute—
+
+> - (e) a person appointed as auditor for the purposes of regulation 5 of the Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2008 or appointed to report on the “aggregate accounts” within the meaning of those Regulations,
+
+(2) In relation to financial years beginning on or before 1st January 2008, subsection (1)(e) of that section is to continue to have effect without the substitution made by paragraph (1).
+
+### 32. Review[^key-9d2bf101ee9041391e5d109b8fa9b841]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Claire Ward
+
+Dave Watts
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — SYNDICATE ACCOUNTS
+
+Regulation 5(3) and (5)
+
+### PART 1 — GENERAL PROVISIONS
+
+#### 1. Syndicate's annual accounts
+
+(1) A syndicate's annual accounts must be prepared in accordance with this paragraph.
+
+(2) Annual accounts must comprise—
+
+- (a) a balance sheet as at the last day of the financial year; and
+- (b) a profit and loss account.
+
+(3) The accounts must—
+
+- (a) in the case of the balance sheet, give a true and fair view of the state of affairs of the syndicate as at the end of the financial year; and
+- (b) in the case of the profit and loss account, give a true and fair view of the profit or loss of the syndicate for the financial year.
+
+(4) Subject to sub-paragraphs (4A) and (5)[^key-33242a225427cc46fcce345732160895] the accounts must comply with the provisions of Schedule 3 to the 2008 Regulations, other than the provisions (or parts of provisions) set out in sub-paragraph (7) as to—
+
+- (a) the form and content of the balance sheet and profit and loss account; and
+- (b) additional information to be provided by way of notes to the accounts.
+
+(4A)[^key-167d4714de0569771c4e063e93792684] Paragraph 16 of Schedule 3 to the 2008 Regulations applies in relation to a syndicate as if it read “The syndicate is presumed to continue to write future business.”.
+
+(5) The information required by paragraph 90 of Schedule 3 to the 2008 Regulations must be given by the managing agent in relation to any transactions entered into by the managing agent on behalf of the syndicate and must in addition—
+
+- (a) identify any related party who is an insurance or reinsurance intermediary within the meaning of Article 2 of Directive [2002/92/EC](https://www.legislation.gov.uk/european/directive/2002/0092) of the European Parliament and of the Council on insurance mediation; and
+- (b) include particulars of the amount of any material transactions concluded otherwise than under normal market conditions with any related party within paragraph (a).
+
+(6) Where the managing agent has related parties within the meaning of sub-paragraph (5)(a), but there have been no transactions with them which require disclosure under paragraph 90 of Schedule 3 to the 2008 Regulations, the accounts must contain a statement to that effect, and identify any such related parties.
+
+(7) The provisions in Schedule 3 to the 2008 Regulations referred to in sub-paragraph (4) are—
+
+- (a) paragraphs 11(2), 68, 71, 72, 82(2), 83; and
+- (b) in paragraph 2(2) the words from “save that none of the following” to the end of that sub-paragraph.
+
+(8) The syndicate's annual accounts must also include a description of funds which members are required to hold at Lloyd's.
+
+(9) The description of funds referred to in sub-paragraph (8) need not include particulars of funds held by members of the syndicate.
+
+#### 2. Compliance with Regulations
+
+(1) Where compliance with—
+
+- (a) Schedule 3 to the 2008 Regulations; and
+- (b) these Regulations,
+
+would not be sufficient to give a true and fair view, the additional information necessary to achieve this must be given in the accounts or in a note to them.
+
+(2) If in special circumstances compliance with any of the provisions referred to in sub-paragraph (1) is inconsistent with the requirement to give a true and fair view, the managing agent must depart from that provision to the extent necessary to give a true and fair view.
+
+(3) Particulars of any such departure, the reasons for it and its effect must be given in a note to the accounts.
+
+#### 3. Information about related undertakings
+
+The syndicate's annual accounts must comply with the requirements of regulation 7 of the 2008 Regulations (including the application of Schedule 4 to those Regulations) as to information about related undertakings of the managing agent to be given in notes to the syndicate's accounts.
+
+#### 4. Information about employee numbers and staff
+
+(1) Subject to sub-paragraph (2), the syndicate's annual accounts must comply with the requirements of section 411 (information about employee numbers and costs) of the 2006 Act in relation to the syndicate as if references in it to a company were treated as references to the managing agent.
+
+(2) Information about employee numbers and costs need only be given under sub-paragraph (1) in relation to employees of the managing agent who have spent any part of their time during the year in question working on behalf of that syndicate.
+
+#### 5. Information about emoluments of managing agents and other benefits of managing and others
+
+(1) The information specified in sub-paragraph (2) must be given in notes to the syndicate's annual accounts.
+
+(2) The information is—
+
+- (a) the aggregate amount charged to a syndicate by its managing agent, in respect of emoluments paid to the managing agent's directors, the active underwriter and (where applicable) the run-off manager of the syndicate, in the financial year to which the accounts relate; and
+- (b) the specific amounts charged to a syndicate by its managing agent in respect of emoluments paid to the syndicate's active underwriter and (where applicable) its run-off manager in that financial year.
+
+(3) In this paragraph, “emoluments”—
+
+- (a) includes salaries, fees and bonuses, sums paid by way of expenses allowance (so far as they are chargeable to United Kingdom income tax) and, subject to paragraph (b), the estimated money value of any other benefits received by the person concerned otherwise than in cash; but
+- (b) does not include any of the following, namely—
+  - (i) the value of any share options granted or the amount of any gains made on the exercise of any such options;
+  - (ii) any contributions paid, or treated as paid, in respect of the person concerned under any pension scheme or any benefits to which that person is entitled under any such scheme; or
+  - (iii) any money or other assets paid, received or receivable under any long term incentive scheme.
+
+(4) In this paragraph—
+
+- “**active underwriter**” means, in relation to a syndicate, the individual at or deemed by the Council to be at, the underwriting box with principal authority to accept risks on behalf of the members of the syndicate;
+- “**run-off manager**” means, in relation to a run-off syndicate, the person who has principal authority to negotiate or place contracts of reinsurance or negotiate and settle the payment of claims on contracts of insurance or reinsurance on behalf of the members of the syndicate;
+- “**run-off syndicate**” means a syndicate which no longer accepts new or renewal insurance business (other than the variation or extension of risks previously underwritten, or reinsurance to close of an earlier year of account of that syndicate).
+
+#### 6. Information about directors' benefits: advances and credit
+
+(1) The information specified in sub-paragraph (2) must be given in notes to the syndicate's annual accounts.
+
+(2) The information is—
+
+- (a) details of any advance or credit granted by the managing agent to its directors, or, where the managing agent is a partnership, to its partners, and charged to the syndicate by the managing agent, namely—
+  - (i) the amount of the advance or credit;
+  - (ii) an indication of the interest rate;
+  - (iii) its main conditions; and
+  - (iv) any amounts repaid;
+- (b) the totals of the amounts stated under paragraph (a)(i) and (iv).
+
+(3) References in this paragraph to the directors or partners of the managing agent are to the persons who were a director or a partner at any time in the financial year to which the accounts relate.
+
+(4) The requirements of this section apply in relation to every advance or credit subsisting at any time in the financial year to which the accounts relate—
+
+- (a) whenever it was entered into;
+- (b) whether or not the person concerned was a director or partner of the managing agent in question at the time it was entered into.
+
+#### 7. Off-balance sheet arrangements
+
+(1) If in any financial year—
+
+- (a) a syndicate is or has been party to an arrangement that is not reflected in its balance sheet; and
+- (b) at the balance sheet date the risks or benefits arising from that arrangement are material,
+
+the information required by this paragraph must be given in notes to the syndicate's annual accounts.
+
+(2) The information required is—
+
+- (a) the nature and business purpose of the arrangement; and
+- (b) the financial impact of the arrangement on the syndicate.
+
+(3) The information need only be given to the extent necessary for enabling the financial position of the syndicate to be assessed.
+
+### PART 2 — MANAGING AGENT'S REPORT
+
+#### 8. Managing agent's report: general requirements
+
+(1) The managing agent's report for a financial year must state—
+
+- (a) the names of the persons who at any time during the financial year were directors or partners of the managing agent; and
+- (b) the principal activities of the syndicate in the course of the year and any significant change to those activities in the year.
+
+(2) The managing agent's report must contain—
+
+- (a) particulars of any important events affecting the syndicate which have occurred since the end of the financial year;
+- (b) an indication of likely future developments in the business of the syndicate; and
+- (c) an indication of the activities (if any) of the syndicate in the field of research and development.
+
+#### 9. Managing agent's report: business review
+
+(1) The managing agent's report must contain a business review.
+
+(2) The business review must contain—
+
+- (a) a fair review of the business of the syndicate; and
+- (b) a description of the principal risks and uncertainties facing the syndicate.
+
+(3) The review required is a balanced and comprehensive analysis of—
+
+- (a) the development and performance of the syndicate's business during the financial year; and
+- (b) the position of the syndicate's business at the end of that year,
+
+consistent with the size and complexity of the business.
+
+(4) The review must include to the extent necessary for an understanding of the development, performance or position of the insurance business of the syndicate—
+
+- (a) analysis using financial key performance indicators; and
+- (b) where appropriate, analysis using other key performance indicators, including information relating to environmental matters and employee matters.
+
+(5) In sub-paragraph (4), “**key performance indicators**” means factors by reference to which the development, performance or position of the insurance business of the syndicate can be measured effectively.
+
+(6) The review must, where appropriate, include references to and additional explanations of amounts included in the syndicate accounts.
+
+(7) Nothing in this paragraph requires the disclosure of information about impending developments or matters in the course of negotiation if the disclosure would, in the opinion of the managing agent, be seriously prejudicial to the interests of the syndicate.
+
+#### 10. Financial instruments
+
+(1) In relation to the use of financial instruments by a syndicate, the managing agent's report must contain an indication of—
+
+- (a) the financial risk management objectives and policies of the syndicate, including the policy for hedging each major type of forecasted transaction for which hedge accounting is used; and
+- (b) the exposure of the syndicate to price risk, credit risk, liquidity risk and cash flow risk,
+
+unless such information is not material for the assessment of the assets, liabilities, financial position and profit or loss of the syndicate.
+
+(2) In sub-paragraph (1) the expressions “**hedge accounting**”, “**price risk**”, “**credit risk**”, “**liquidity risk**” and “**cash flow risk**” have the same meaning as they have in Council Directive [78/660/EEC](https://www.legislation.gov.uk/european/directive/1978/0660) on the annual accounts of certain types of companies, and in Council Directive [83/349/EEC](https://www.legislation.gov.uk/european/directive/1983/0349) on consolidated accounts [^c19350871].
+
+#### 11. Statement as to disclosure of information to auditors
+
+(1) The managing agent's report must contain a statement to the effect that, in the case of each of the persons who are directors, or, where the managing agent is a partnership, of each of the persons who are partners, of the managing agent at the time the report is approved—
+
+- (a) so far as the director or partner is aware, there is no relevant audit information of which the syndicate's auditor is unaware; and
+- (b) the director or partner has taken all the steps that he or she ought to have taken as a director or partner to become aware of any relevant audit information and to establish that the syndicate's auditor is aware of that information.
+
+(2) In sub-paragraph (1) “**relevant audit information**” means information needed by the syndicate's auditor in connection with preparing the auditor's report.
+
+(3) For the purposes of sub-paragraph (1), a director or partner of the managing agent is regarded as having taken all the steps that he or she ought to have taken as a director or partner in order to do the things mentioned in sub-paragraph (1)(b) if the director or partner has—
+
+- (a) made such enquiries of fellow directors or partners and of the syndicate's auditors for that purpose; and
+- (b) taken such other steps (if any) for that purpose,
+
+as were required by his or her duty as a director or partner of the managing agent of the syndicate to exercise due care, skill and diligence.
+
+(4) Where the managing agent's report containing the statement required by this paragraph is approved but the statement is false, every director or partner of the managing agent who—
+
+- (a) knew that the statement was false, or was reckless as to whether it was false; and
+- (b) failed to take reasonable steps to prevent the report from being approved,
+
+commits an offence.
+
+(5) A person guilty of an offence under sub-paragraph (4) is liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or both;
+- (b) on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding the statutory maximum, or both.
+
+#### 12. Approval and signing of managing agent's report
+
+(1) The managing agent's report must be approved and signed by the syndicate's managing agent and, where the managing agent is a body corporate or a partnership, the report must be approved by the board of directors or by the partners and signed by a director or partner of the managing agent, authorised to sign on its behalf.
+
+(2) Every copy of the managing agent's report which is circulated, published, or issued shall state the name of the person who signed the balance sheet on behalf of the syndicate's managing agent.
+
+(3) Every copy of the managing agent's report which is delivered to the Authority must be signed on behalf of the managing agent by a director or partner of the managing agent, authorised to sign on its behalf.
+
+### PART 3 — AUDITORS
+
+#### 13. Appointment of syndicate auditors
+
+(1) Subject to sub-paragraph (3), the members of Lloyd's who participate in a syndicate must appoint its auditor for each financial year, unless the auditor is deemed to be re-appointed in accordance with paragraph 14(2).
+
+(2) For each financial year for which the auditor is to be appointed, the appointment must be made before the end of the period of 28 days beginning with—
+
+- (a) the end of the time allowed under regulation 8(1) for sending out the accounts and reports required by regulation 5 for the previous financial year; or
+- (b) if earlier, the day on which copies of the accounts and reports prepared under regulation 5 for the previous financial year are sent out under regulation 8(1).
+
+This is the “**period for appointing auditors**” for the purposes of this Part of this Schedule.
+
+(3) The managing agent of the syndicate may appoint an auditor for the syndicate—
+
+- (a) at any time before the syndicate's first period for appointing auditors; or
+- (b) to fill a casual vacancy in the office of auditor.
+
+(4) Where no appointment has been made under paragraph (1) by the end of the period for appointing auditors, and the auditor in office is not deemed to be re-appointed under paragraph 14(2)—
+
+- (a) the managing agent must within one week from the end of that period give notice in writing to the Authority of that fact; and
+- (b) the Authority must appoint an auditor of the syndicate to fill the vacancy as soon as possible.
+
+(5) If the managing agent fail to give the notice required by this paragraph, an offence is committed by—
+
+- (a) the managing agent; and
+- (b) every director or partner of the managing agent who was in default.
+
+(6) A person guilty of an offence under this paragraph is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+
+#### 14. Term of office of auditors of syndicate
+
+(1) An auditor of a syndicate holds office in accordance with the terms of his or her appointment, subject to the requirements that—
+
+- (a) the auditor does not take office until any previous auditor ceases to hold office; and
+- (b) the auditor ceases to hold office at the end of the next period for appointing auditors unless re-appointed.
+
+(2) Where no auditor has been appointed by the end of the next period for appointing auditors, any auditor in office immediately before that time is deemed to be re-appointed at that time, unless—
+
+- (a) Lloyd's byelaws require actual re-appointment;
+- (b) the deemed re-appointment is prevented by the members of the syndicate under paragraph 15; or
+- (c) the members of the syndicate have resolved that the auditor should not be re-appointed.
+
+#### 15. Prevention by members of deemed re-appointment of auditor
+
+(1) An auditor of a syndicate is not deemed to be re-appointed under paragraph 14(2) if the managing agent has received notices under this paragraph from members of the syndicate representing at least the requisite percentage of the total voting rights of all members of the syndicate who would be entitled to vote on a resolution that the auditor should not be re-appointed.
+
+(2) The “requisite percentage” is 5%, or such lower percentage as is specified for this purpose in Lloyd's byelaws.
+
+(3) A notice under this paragraph—
+
+- (a) may be in hard copy or electronic form;
+- (b) must be authenticated by the person or persons giving it; and
+- (c) must be received by the managing agent before the end of the financial year immediately preceding the time when the deemed re-appointment would have effect.
+
+#### 16. Removal of auditor on improper grounds
+
+(1) Where an auditor of a syndicate is removed from office an application may be made to the High Court under this paragraph.
+
+(2) The persons who may make such an application are—
+
+- (a) any member of the syndicate who was a member at the time the auditor was removed;
+- (b) the Society of Lloyd's; or
+- (c) the Authority.
+
+(3) If the Court is satisfied that the removal was—
+
+- (a) on grounds of divergence of opinion on accounting treatments or audit procedures; or
+- (b) on any other improper grounds,
+
+it may make such order as it thinks fit for giving relief in respect of the removal.
+
+(4) The Court may, in particular—
+
+- (a) declare that any decision to remove an auditor, or to appoint a new auditor in place of the auditor, is void;
+- (b) require the members of the syndicate to re-appoint the auditor; and
+- (c) give directions as to the conduct of the syndicate's affairs in the future.
+
+#### 17. Duty of auditor to notify appropriate audit authority
+
+(1) Where the auditor of the syndicate ceases to hold office before the end of his or her term of office, the auditor must notify in writing the appropriate audit authority.
+
+(2) The notice must—
+
+- (a) inform the appropriate audit authority that the auditor has ceased to hold office; and
+- (b) be accompanied by a statement of the reasons for the auditor's ceasing to hold office.
+
+(3) The auditor must give notice under this paragraph—
+
+- (a) if the auditor resigns, at the same time as the auditor first informs the managing agent of the syndicate of his or her resignation (whether by notice or otherwise); and
+- (b) in any other case, not later than the end of the period of fourteen days beginning with the date on which the auditor ceases to hold office.
+
+(4) A person ceasing to hold office as auditor who fails to comply with this paragraph commits an offence.
+
+(5) If that person is a firm an offence is committed by—
+
+- (a) the firm; and
+- (b) every officer of the firm who is in default.
+
+(6) A person guilty of an offence under this paragraph is liable—
+
+- (a) on conviction on indictment, to a fine;
+- (b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+(7) In proceedings for an offence under this paragraph it is a defence for the person charged to show that he or she took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
+
+#### 18. Duty of managing agent to notify appropriate audit authority
+
+(1) Where the auditor of the syndicate ceases to hold office before the end of his or her term of office, the managing agent of the syndicate must notify in writing the appropriate audit authority.
+
+(2) The notice must—
+
+- (a) inform the appropriate audit authority that the auditor has ceased to hold office; and
+- (b) be accompanied by a statement of the reasons for the auditor's ceasing to hold office.
+
+(3) The managing agent must give notice under this paragraph—
+
+- (a) if the auditor resigns, not later than the end of the period of fourteen days beginning with the date on which the auditor first informs the managing agent of his or her resignation (whether by notice or otherwise); and
+- (b) in any other case, not later than the end of the period of fourteen days beginning with the date on which the auditor ceases to hold office.
+
+(4) If the managing agent fails to comply with this paragraph, an offence is committed by—
+
+- (a) the managing agent; and
+- (b) every director or partner of the managing agent who was in default.
+
+(5) A person guilty of an offence under this paragraph is liable—
+
+- (a) on conviction on indictment, to a fine;
+- (b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+(6) In proceedings for an offence under this paragraph it is a defence for the person charged to show that he or she took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
+
+## SCHEDULE 2 — AUDITOR'S REMUNERATION
+
+Regulations 5(4) and (5) and 18(6)
+
+### 1. Disclosure required in notes to accounts
+
+(1) The following information must be disclosed in—
+
+- (a) the notes to a syndicate's annual accounts; and
+- (b) the notes to the aggregate accounts.
+
+(2) In this Schedule “**the auditor**” refers to the syndicate's auditor in the case of a syndicate's annual accounts, and to the auditor of the aggregate accounts in the case of the aggregate accounts.
+
+**2.** (1) There must be disclosed in a note to a syndicate's annual accounts and to the aggregate accounts—
+
+- (a) the amount of any remuneration receivable by the auditor for the auditing of the syndicate's annual accounts, or the aggregate accounts, as the case may be; and
+- (b) the amount of any remuneration receivable in respect of the financial year by—
+  - (i) the auditor; or
+  - (ii) any person who was, at any time during that financial year, an associate of the auditor,
+
+  for the supply of other services to the syndicate or to the managing agent of the syndicate (in the case of the syndicate's annual accounts), or to the Society or the Council of Lloyd's (in the case of the aggregate accounts).
+
+(2) Where the remuneration includes benefits in kind, the nature and estimated money-value of those benefits must also be disclosed in a note.
+
+(3) Separate disclosure is required in respect of the auditing of the accounts in question and of each type of service specified in paragraph 3, but not in respect of each service falling within a type of service.
+
+(4) Separate disclosure is required in respect of services supplied to—
+
+- (a) the syndicate or the Society or the Council of Lloyd's; and
+- (b) associated pension schemes.
+
+(5) Where more than one person has been appointed as auditor in respect of the financial year, separate disclosure is required in respect of the remuneration of each such person and his associates.
+
+(6) Disclosure is not required of remuneration receivable for the supply of services falling within paragraph 3(1)(h)[^key-20750cff2c452b24327cd4482217e923] supplied by a distant associate of the auditor where the total remuneration receivable for all those services supplied by that associate does not exceed either—
+
+- (a) £10,000; or
+- (b) 1% of the total audit remuneration received by the auditor in the most recent financial year of the auditor which ended no later than the end of the financial year of the syndicate or syndicates to which the syndicate accounts or aggregate accounts relate.
+
+(7) In this paragraph—
+
+- “associate” and “direct associate” have the meaning given by paragraph 4;
+- “**financial year of the auditor**” means—
+  - (a) the period of not more than 18 months in respect of which the auditor's profit and loss account is required to be made up (whether by law or in accordance with the auditor's constitution (if any)); or
+  - (b) failing any such requirement, the period of 12 months beginning with 1st April;
+- “**remuneration**” includes payments in respect of expenses and benefits in kind.
+- “**total audit remuneration received**” means the total remuneration received for the auditing pursuant to legislation (including that of countries and territories outside the United Kingdom) of any accounts of any person.
+
+### 3. Disclosure of types of service
+
+(1)[^key-05415148c739247ce2aadcf239518b8c] The types of service in respect of which disclosure is required are—
+
+- (a) either—
+  - (i) the auditing of accounts of associates of the managing agent responsible for managing the syndicate, in the case of the syndicate’s annual accounts; or
+  - (ii) the auditing of accounts of associates of the Society of Lloyd’s, in the case of the aggregate accounts;
+- (b) audit-related assurance services;
+- (c) taxation compliance services;
+- (d) all taxation advisory services not falling within paragraph (c);
+- (e) internal audit services;
+- (f) all assurance services not falling within paragraphs (a) to (e);
+- (g) all services relating to corporate finance transactions entered into, or proposed to be entered into, by or on behalf of the managing agent or any of its associates, or the Society of Lloyd’s or any of its associates not falling within paragraphs (a) to (f);
+- (h) all non-audit services not falling within paragraphs (b) to (g).
+
+(2) References in sub-paragraph (1) to an associate of the managing agent are to—
+
+- (a) any subsidiary of the managing agent, other than a subsidiary in respect of which severe long-term restrictions substantially hinder the exercise of rights of the managing agent over the assets or management of that subsidiary; or
+- (b) any associated pension scheme.
+
+(3) An “**associated pension scheme**”, in relation to a managing agent, means a scheme for the provision of benefits for or in respect of directors or employees (or former directors or employees) of the managing agent or any subsidiary of the managing agent where—
+
+- (a) the benefits consist of or include any pension, lump sum, gratuity or other like benefit given or to be given on retirement or on death or in anticipation of retirement or, in connection with past service, after retirement or death; and
+- (b) either—
+  - (i) a majority of the trustees are appointed by, or by a person acting on behalf of, the managing agent or a subsidiary of the managing agent; or
+  - (ii) the managing agent, or a subsidiary of the managing agent, exercises a dominant influence over the appointment of the auditor (if any) of the scheme.
+
+(4) References in sub-paragraph (1) to an associate of the Society of Lloyd's are to—
+
+- (a) any subsidiary of the Society of Lloyd's, other than a subsidiary in respect of which severe long-term restrictions substantially hinder the exercise of rights of the society over the assets or management of that subsidiary; or
+- (b) any associated pension scheme.
+
+(5) An “**associated pension scheme**”, in relation to the Society of Lloyd's, means a scheme for the provision of benefits for or in respect of members of the Council or employees (or former members of the Council or employees) of the Society or any subsidiary of the Society where—
+
+- (a) the benefits consist of or include any pension, lump sum, gratuity or other like benefit given or to be given on retirement or on death or in anticipation of retirement or, in connection with past service, after retirement or death; and
+- (b) either—
+  - (i) a majority of the trustees are appointed by, or by a person acting on behalf of, the Society or a subsidiary of the Society; or
+  - (ii) the Society, or a subsidiary of the Society, exercises a dominant influence over the appointment of the auditor (if any) of the scheme.
+
+(6) In this paragraph “**subsidiary**” means a subsidiary undertaking that is a body corporate.
+
+### 4. Meaning of “associate of auditor” and “distant associate”
+
+(1) This paragraph defines what is meant in paragraph 2 by an “associate” of the auditor**.**
+
+(2) The following are associates of the auditor—
+
+- (a) any person controlled by the auditor or by any associate of the auditor (whether alone or through two or more persons acting together to secure or exercise control), but only if that control does not arise solely by virtue of the auditor or any associate of the auditor acting—
+  - (i) as an insolvency practitioner in relation to any person;
+  - (ii) in the capacity of a receiver, or a receiver or manager, of the property (or part of the property) of the Society of Lloyd's, a syndicate, a managing agent or other body corporate; or
+  - (iii) as a judicial factor on the estate of any person;
+- (b) any person who, or group of persons acting together which, has control of the auditor;
+- (c) any person using a trading name which is the same as or similar to a trading name used by the auditor, but only if the auditor uses that trading name with the intention of creating the impression of a connection between the auditor and that other person; or
+- (d) any person who is party to an arrangement with the auditor, with or without any other person, under which costs, profits, quality control, business strategy or significant professional resources are shared.
+
+(3) Where the auditor is a partnership, the following shall also be regarded as associates of the auditor—
+
+- (a) any other partnership which has a partner in common with the auditor;
+- (b) any partner in the auditor;
+- (c) any body corporate which is in the same group as a body corporate which is a partner in the auditor;
+- (d) any body corporate which is in the same group as a body corporate which is a partner in a partnership which has a partner in common with the auditor; or
+- (e) any body corporate of which a partner in the auditor is a director.
+
+(4) Where an auditor is a body corporate (other than one which is also a partnership as defined in sub-paragraph (6)(d)), each of the following shall also be regarded as an associate of the auditor—
+
+- (a) any other body corporate which has a director in common with the auditor;
+- (b) any director of the auditor;
+- (c) any body corporate which is in the same group as a body corporate which is a director of the auditor;
+- (d) any body corporate which is in the same group as a body corporate which has a director in common with the auditor;
+- (e) any partnership in which a director of the auditor is a partner;
+- (f) any body corporate which is in the same group as the auditor;
+- (g) any partnership in which any such body corporate which is in the same group as the auditor is a partner.
+
+(5) A distant associate of an auditor is a person who is an associate of that auditor by reason only that that person is an associate within one or more of—
+
+- (a) paragraph 4(2)(a) where the person in question is controlled by a distant associate of the auditor but not by the auditor or by an associate who is not a distant associate;
+- (b) paragraph 4(3)(a), (d) or (e);
+- (c) paragraph 4(4)(a), (d) or (e).
+
+(6) For the purposes of this paragraph—
+
+- (a) “**acting as an insolvency practitioner**” shall be construed in accordance with section 388 of the Insolvency Act 1986 [^c19350901] or Article 3 of the Insolvency (Northern Ireland) Order 1989 [^c19350911];
+- (b) “**director**” includes any person occupying the position of director, by whatever name called;
+- (c) “**partner**” includes a member of a limited liability partnership;
+- (d) “**partnership**” includes a limited liability partnership and a partnership constituted under the law of a country or a territory outside the United Kingdom;
+- (e) a person able, directly or indirectly to control or materially to influence the operating and financial policy of another person shall be treated as having control of that other person; and
+- (f) a body corporate is in the same group as another body corporate if one is a subsidiary of the other.
+
+(7) In this paragraph “**subsidiary**” means a subsidiary undertaking that is a body corporate.
+
+### 5. Duty of auditor to supply information
+
+(1) The auditor of a syndicate must supply the managing agent of the syndicate with such information as is necessary to enable the disclosure required by paragraph 2(1)(b) to be made.
+
+(2) The auditor of the aggregate accounts must supply the Council of Lloyd's with such information as is necessary to enable the disclosure required by paragraph 2(1)(b) to be made.
+
+## SCHEDULE 3 — PROVISIONS APPLYING TO AGGREGATE ACCOUNTS
+
+Regulations 18(6), (7) and 20
+
+### PART 1 — GENERAL PROVISIONS AND ANNUAL REPORT
+
+#### 1. Disclosure required in notes to accounts: off-balance sheet arrangements
+
+(1) If for any financial year—
+
+- (a) a syndicate has noted in its annual accounts that it is or has been party to an arrangement that is not reflected in its balance sheet; and
+- (b) at the balance sheet date the risks or benefits arising from that arrangement are material,
+
+the information required by this paragraph must be given in notes to the aggregate accounts.
+
+(2) The information required is—
+
+- (a) the nature and business purpose of the arrangement; and
+- (b) the financial impact of the arrangement on the syndicate.
+
+(3) The information need only be given to the extent necessary for enabling the financial position of the Lloyd's market to be assessed.
+
+#### 2. Annual report: general requirements
+
+(1) The annual report on a financial year required by regulation 20 must state—
+
+- (a) the names of the persons who at any time during the financial year were members of the Council of Lloyd's; and
+- (b) the principal activities of the Lloyd's market in the course of the year and any significant change to those activities in the year.
+
+(2) The annual report must contain—
+
+- (a) particulars of any important events affecting the Lloyd's market which have occurred since the end of the financial year;
+- (b) an indication of likely future developments in the business of the Lloyd's market; and
+- (c) an indication of the activities (if any) of the members of Lloyd's in the field of research and development.
+
+#### 3. Annual report: business review
+
+(1) The annual report must contain a business review.
+
+(2) The business review must contain—
+
+- (a) a fair review of the business of the Lloyd's market; and
+- (b) a description of the principal risks and uncertainties facing the Lloyd's market.
+
+(3) The review required is a balanced and comprehensive analysis of—
+
+- (a) the development and performance of the insurance business carried on by the members of Lloyd's during the financial year; and
+- (b) the position of the insurance business of the members of Lloyd's at the end of that year,
+
+consistent with the size and complexity of the Lloyd's market.
+
+(4) The review must include to the extent necessary for an understanding of the development, performance or position of the insurance business of the members of Lloyd's—
+
+- (a) analysis using financial key performance indicators; and
+- (b) where appropriate, analysis using other key performance indicators, including information relating to environmental matters and employee matters.
+
+(5) In sub-paragraph (4), “**key performance indicators**” means factors by reference to which the development, performance or position of the insurance business of the members of Lloyd's can be measured effectively.
+
+(6) The review must, where appropriate, include references to and additional explanations of amounts included in the aggregate accounts.
+
+(7) Nothing in this paragraph requires the disclosure of information about impending developments or matters in the course of negotiation if the disclosure would, in the opinion of the Council of Lloyd's, be seriously prejudicial to the interests of the members of Lloyd's.
+
+#### 4. Statement as to disclosure of information to auditors
+
+(1) The annual report must contain a statement to the effect that, in the case of each of the persons who are members of the Council of Lloyd's at the time the report is approved—
+
+- (a) so far as the Council member is aware, there is no relevant audit information of which the auditor of the aggregate accounts is unaware; and
+- (b) the Council member has taken all the steps that he or she ought to have taken as a member of the Council to become aware of any relevant audit information and to establish that the auditor of the aggregate accounts is aware of that information.
+
+(2) In sub-paragraph (1) “**relevant audit information**” means information needed by the auditor of the aggregate accounts in connection with preparing the auditor's report.
+
+(3) For the purposes of sub-paragraph (1) the Council member is regarded as having taken all the steps that he or she ought to have taken as a member of the Council in order to do the things mentioned in sub-paragraph (1)(b) if he or she has—
+
+- (a) made such enquiries of fellow Council members and of the auditors of the aggregate accounts for that purpose; and
+- (b) taken such other steps (if any) for that purpose,
+
+as were required by his or her duty as a member of the Council of Lloyd's to exercise due care, skill and diligence.
+
+(4) Where the annual report containing the statement required by this paragraph is approved but the statement is false, every member of the Council who—
+
+- (a) knew that the statement was false, or was reckless as to whether it was false; and
+- (b) failed to take reasonable steps to prevent the report from being approved,
+
+commits an offence.
+
+(5) A person guilty of an offence under sub-paragraph (4) is liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or both;
+- (b) on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding the statutory maximum, or both.
+
+### PART 2 — AUDITORS
+
+#### 5. Appointment of auditor for aggregate accounts
+
+(1) Subject to sub-paragraph (3), the members of the Society of Lloyd's must appoint the auditor for the aggregate accounts for each financial year, unless the auditor is deemed to be re-appointed in accordance with paragraph 6(2).
+
+(2) For each financial year for which the auditor is to be appointed, the appointment must be made before the end of the period of 28 days beginning with the end of the time allowed under regulation 18(3)(a) for preparing the accounts required by regulation 18. This is the “**period for appointing auditors**” for the purposes of this Part of this Schedule.
+
+(3) The Council of Lloyd's may appoint an auditor for the aggregate accounts to fill a casual vacancy in the office of auditor.
+
+(4) Where no appointment has been made under paragraph (1) by the end of the period for appointing auditors, and the auditor in office is not deemed to be re-appointed under paragraph 6(2)—
+
+- (a) the Council of Lloyd's must within one week from the end of that period give notice in writing to the Authority of that fact; and
+- (b) the Authority must appoint an auditor for the aggregate accounts to fill the vacancy as soon as possible.
+
+(5) If the Council of Lloyd's fail to give the notice required by this paragraph, an offence is committed by—
+
+- (a) the Society of Lloyd's; and
+- (b) every member of the Council who was in default.
+
+(6) A person guilty of an offence under this paragraph is liable on summary conviction to a fine not exceeding level 3 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 3 on the standard scale.
+
+#### 6. Term of office of auditors of the aggregate accounts
+
+(1) An auditor of the aggregate accounts holds office in accordance with the terms of his or her appointment, subject to the requirements that—
+
+- (a) the auditor does not take office until any previous auditor ceases to hold office; and
+- (b) the auditor ceases to hold office at the end of the next period for appointing auditors unless re-appointed.
+
+(2) Where no auditor has been appointed by the end of the next period for appointing auditors, any auditor in office immediately before that time is deemed to be re-appointed at that time, unless—
+
+- (a) Lloyd's byelaws require actual re-appointment; or
+- (b) the deemed re-appointment is prevented by the members of the Society of Lloyd's under paragraph 7; or
+- (c) the members of the Society of Lloyd's have resolved that the auditor should not be re-appointed.
+
+#### 7. Prevention by members of deemed re-appointment of auditor
+
+(1) An auditor of the aggregate accounts is not deemed to be re-appointed under paragraph 6(2) if the Council of Lloyd's has received notices under this paragraph from members of the Society of Lloyd's representing at least the requisite percentage of the total voting rights of all members of the Society who would be entitled to vote on a resolution that the auditor should not be re-appointed.
+
+(2) The “requisite percentage” is 5%, or such lower percentage as is specified for this purpose in Lloyd's byelaws.
+
+(3) A notice under this paragraph—
+
+- (a) may be in hard copy or electronic form;
+- (b) must be authenticated by the person or persons giving it; and
+- (c) must be received by the managing agent before the end of the financial year immediately preceding the time when the deemed re-appointment would have effect.
+
+#### 8. Removal of auditors on improper grounds
+
+(1) Where an auditor of the aggregate accounts is removed from office, an application may be made to the High Court under this paragraph.
+
+(2) The persons who may make such an application are—
+
+- (a) any member of the Society of Lloyd's; or
+- (b) the Authority.
+
+(3) Where the Court is satisfied that the removal was—
+
+- (a) on grounds of divergence of opinion on accounting treatments or audit procedures; or
+- (b) on any other improper grounds,
+
+it may make such order as it thinks fit for giving relief in respect of the removal.
+
+(4) The Court may, in particular—
+
+- (a) declare that any decision to remove an auditor, or to appoint a new auditor in place of the auditor, is void;
+- (b) require the members of the Society of Lloyd's to re-appoint the auditor; or
+- (c) give directions as to the conduct of the Council of Lloyd's affairs in the future.
+
+#### 9. Duty of auditor to notify appropriate audit authority
+
+(1) Where the auditor of the aggregate accounts ceases to hold office before the end of his or her term of office, the auditor must notify in writing the appropriate audit authority.
+
+(2) The notice must—
+
+- (a) inform the appropriate audit authority that the auditor has ceased to hold office; and
+- (b) be accompanied by a statement of the reasons for the auditor's ceasing to hold office.
+
+(3) The auditor must give notice under this paragraph—
+
+- (a) if the auditor resigns, at the same time as the auditor informs the Council of Lloyd's of his or her resignation (whether by notice or otherwise);
+- (b) in any other case, not later than the end of the period of fourteen days beginning with the date on which the auditor ceases to hold office.
+
+(4) A person ceasing to hold office as auditor who fails to comply with this paragraph commits an offence.
+
+(5) If that person is a firm an offence is committed by—
+
+- (a) the firm; and
+- (b) every officer of the firm who is in default.
+
+(6) A person guilty of an offence under this paragraph is liable—
+
+- (a) on conviction on indictment, to a fine;
+- (b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+(7) In proceedings for an offence under this paragraph it is a defence for the person charged to show that he or she took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
+
+#### 10. Duty of Council of Lloyd's to notify the appropriate audit authority
+
+(1) Where the auditor of the aggregate accounts ceases to hold office before the end of his or her term of office, the Council of Lloyd's must notify in writing the appropriate audit authority.
+
+(2) The notice must—
+
+- (a) inform the appropriate audit authority that the auditor has ceased to hold office; and
+- (b) be accompanied by a statement of the reasons for the auditor's ceasing to hold office.
+
+(3) The Council of Lloyd's must give notice under this paragraph—
+
+- (a) if the auditor resigns, not later than the end of the period of fourteen days beginning with the date on which the auditor first informs the Council of his or her resignation (whether by notice or otherwise); and
+- (b) in any other case, not later than the end of the period of fourteen days beginning with the date on which the auditor ceases to hold office.
+
+(4) If the Council of Lloyd's fails to comply with this paragraph, an offence is committed by—
+
+- (a) the Society of Lloyd's; and
+- (b) every member of the Council who was in default.
+
+(5) A person guilty of an offence under this paragraph is liable—
+
+- (a) on conviction on indictment, to a fine;
+- (b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+(6) In proceedings for an offence under this paragraph it is a defence for the person charged to show that he or she took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2004 (S.I. 2004/3219) (“**the 2004 Regulations**”). They specify the form and content of syndicate annual accounts and the aggregate accounts, and require the preparation of underwriting year accounts.
+
+These Regulations update the implementation of Council Directive [91/674/EEC](https://www.legislation.gov.uk/european/directive/1991/0674) on the annual accounts and consolidated accounts of insurance undertakings as amended by Directive [2003/51/EC](https://www.legislation.gov.uk/european/directive/2003/0051) of the European Parliament and of the Council of 18.6.2003 in relation to Lloyd's. They also implement, in part, Directive [2006/43/EC](https://www.legislation.gov.uk/european/directive/2006/0043) of the European Parliament and of the Council of 17.5.2006 on statutory audits of annual accounts and consolidated accounts (O.J. L157, 9.6.2006, p.87), and Directive [2006/46/EC](https://www.legislation.gov.uk/european/directive/2006/0046) of the European Parliament and the Council of 14.6.2006 amending Council Directives 78/660 on the annual accounts of certain types of companies, [83/349/EEC](https://www.legislation.gov.uk/european/directive/1983/0349) on consolidated accounts, [86/635/EEC](https://www.legislation.gov.uk/european/directive/1986/0635) on the annual accounts and consolidated accounts of banks and other financial institutions and [91/674/EEC](https://www.legislation.gov.uk/european/directive/1991/0674) on the annual accounts and consolidated accounts of insurance undertakings (OJ L 224 of 16.8.2006, p.1).
+
+Regulation 5 re-enacts the requirements of the 2004 Regulations that managing agents of syndicates must prepare annual accounts for each syndicate for which they are responsible on 31st December for the preceding financial year, and requires managing agents to ensure the preparation of an annual report and an auditor's report.
+
+Schedule 1 specifies the form and content of the syndicate annual accounts (in Part 1); sets out the requirements which must be satisfied by the managing agent's annual report (in Part 2) and makes provision in relation to the auditors of the syndicate accounts (in Part 3). Schedule 2 sets out the information on auditor's remuneration which must be included in the accounts, following the provision made in the Companies (Disclosure of Auditor Remuneration and Liability Limitation Agreements) Regulations 2008 (S.I. 2008/489).
+
+Regulation 6 re-enacts the requirements of the 2004 Regulations for the preparation of a separate set of accounts, to be separately audited, and prepared on an underwriting year basis, in respect of any underwriting year which is being closed by way of reinsurance to close.
+
+Regulation 7 makes provision for the approval and signing of the syndicate annual accounts. Regulation 8 re-enacts the requirements for managing agents of a syndicate to send copies of the accounts prepared under regulations 5 and 6 to the members of the syndicate, the Council of Lloyd's and the Financial Services Authority. Regulation 9 re-enacts the requirement for the Council of Lloyd's to make copies of syndicate accounts that it receives available to the public on reasonable notice.
+
+Regulations 10 and 11 make provision in relation to the auditor's report, imposing equivalent functions on auditors to those imposed by the Companies Act 2006.
+
+Regulations 12, 13 and 14 implement Article 28.1 of the Audit Directive on the signature of the auditor's report on the syndicate annual accounts and the underwriting year accounts. Regulation 15 makes provision in relation to the publication of the statutory accounts.
+
+Regulation 16 applies section 469 of the Companies Act 2006 to the syndicate annual accounts, implementing Article 50a of Directive 78/660.
+
+Regulation 17 makes it an offence for managing agents to fail to comply with the requirements set out in Part 2 of the Regulations.
+
+Regulation 18 re-enacts the requirements of the 2004 Regulations for the Council of Lloyd's to prepare aggregate accounts in respect of each financial year. Regulation 19 makes provision for the approval and signature of the aggregate accounts.
+
+Regulation 20 re-enacts the requirement in the 2004 Regulations for the Council of Lloyd's to prepare an annual report. Further provision as to the information which must be contained in the annual report is made in Part 1 of Schedule 3, and regulation 21 makes provision for the approval and signature of the annual report.
+
+Regulation 22 re-enacts the requirements in the 2004 Regulations for the Council of Lloyd's to obtain an auditor's report on the aggregate accounts. Regulations 23 to 25 implement Article 28.1 of the Audit Directive on the signature of the auditor's report on the aggregate accounts, and regulation 26 re-enacts the requirements in the 2004 Regulations on the auditor's duties in relation to the aggregate accounts. Part 2 of Schedule 3 makes further provision in relation to the auditor of the aggregate accounts. Regulation 27 re-enacts the requirements in the 2004 Regulations on the publication of the aggregate accounts and the annual report of the Council of Lloyd's, and their delivery to the Financial Services Authority.
+
+Regulation 28 makes it an offence for members of the Council of Lloyd's to fail to comply with the requirements set out in Part 3 of the Regulations.
+
+Regulation 29 re-enacts the provision made by the 2004 Regulations for the statutory functions imposed on the Financial Services Authority in relation to overseeing the preparation and delivery of accounts by Lloyd's syndicates and the Council of Lloyd's.
+
+An Impact Assessment has been prepared in relation to these Regulations, as has a transposition note showing how the main provisions of Directives [2006/43/EC](https://www.legislation.gov.uk/european/directive/2006/0043) and [2006/46/EC](https://www.legislation.gov.uk/european/directive/2006/0046), as they apply to Lloyd's, are being transposed into UK law. A copy of both documents can be obtained from the Financial Stability and Risk Team, HM Treasury, 1 Horse Guards Road, London SW1A 2 HQ. Both documents are also available on the Treasury website (www.hm-treasury.gov.uk) and copies have been placed in the library of both Houses of Parliament.
+
+## Annotations
+
+[^M_F_b6e69020-ebcf-4acd-9b3f-39eee58b6f19]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1950) revoked (14.12.2023 for the revocation of reg. 32) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/i)
+
+[^c19350791]: Marginal citation: [S.I. 1997/2781](https://www.legislation.gov.uk/uksi/1997/2781).
+
+[^c19350801]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-b1effb887c757b71228cbc9a9af1d411]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/1950): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c19350811]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c19350821]: Marginal citation: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410).
+
+[^key-f9c9b9c348aaa963b658f4fdd2360bd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 144](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/144) (with [Sch. 2 para. 145](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/145))
+
+[^c19350831]: Marginal citation: [1871 c. xxi](https://www.legislation.gov.uk/ukla/1871/21); [1911 c. lxii](https://www.legislation.gov.uk/ukla/1911/62); [1951 c. viii](https://www.legislation.gov.uk/ukla/1951/8); [1982 c. xiv](https://www.legislation.gov.uk/ukla/1982/14).
+
+[^c19350841]: Marginal citation: Section 1210 was amended by regulation 15(1) of [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565), and by regulation 14 of [S.I. 2008/567](https://www.legislation.gov.uk/uksi/2008/567).
+
+[^key-bd6a69e645922fae652e97908f16f988]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2008/1950/regulation/10) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/2)
+
+[^key-d4b441eca74b9348d23bf0dc907d17a7]: Textual amendment: Words in reg. 11(2) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/3/a)
+
+[^key-561b1971c87be6ad9f6f735f54c90338]: Textual amendment: Reg. 11(5) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/3/b)
+
+[^key-81a3aff0a01e6df53906563edd50ffff]: Textual amendment: Words in reg. 12(1) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/4/a)
+
+[^key-c49b4122f1117de735f15f69b0dacd93]: Textual amendment: Reg. 12(4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/4/b)
+
+[^key-acb4fc9920f812679c34211194beffa3]: Textual amendment: Reg. 13(1A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/5)
+
+[^key-608c2091399890d29742f4448b12140a]: Textual amendment: Word in reg. 14(1) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(6)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/6)
+
+[^key-2ce856cba888989e940e36d09d01fcfc]: Textual amendment: Words in reg. 18(4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(7)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/7/a)
+
+[^key-db4b963030dcc7992f24e6b743ce0447]: Textual amendment: Reg. 18(4A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(7)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/7/b)
+
+[^key-a8ac7b2bb06a41798133a32a4ee90f52]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2008/1950/regulation/22) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(8)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/8)
+
+[^key-1b91cd7e61d5cab7763b88f6d09fa3ab]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/23/1) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(9)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/9/a)
+
+[^key-b7e056cf1e64c8c2fcdb91bc5204160c]: Textual amendment: [Reg. 23(4)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/23/4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(9)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/9/b)
+
+[^key-76b93e8db4f9366022d6d398a73a0130]: Textual amendment: [Reg. 24(1A)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/24/1A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(10)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/10)
+
+[^key-f760a8bd7cceaf62770a8a7801344754]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/25/1) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(11)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/11)
+
+[^key-72598af7ba426f24d671f5aa95ace95f]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/26/4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(12)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/12)
+
+[^c19350851]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^c19350861]: Marginal citation: [S.I. 2004/3219](https://www.legislation.gov.uk/uksi/2004/3219).
+
+[^key-9d2bf101ee9041391e5d109b8fa9b841]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1950) revoked (14.12.2023 for the revocation of reg. 32) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/i)
+
+[^key-33242a225427cc46fcce345732160895]: Textual amendment: Words in [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2008/1950/schedule/1/paragraph/1/4) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(14)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/14/a)
+
+[^key-167d4714de0569771c4e063e93792684]: Textual amendment: [Sch. 1 para. 1(4A)](https://www.legislation.gov.uk/uksi/2008/1950/schedule/1/paragraph/1/4A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(14)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/14/b)
+
+[^c19350871]: Marginal citation: O.J.L222 of 14.8.1978, page 11, and O.J. L193 of 18.7.1983, page 1, as amended in particular by Directives 2001/65/EEC and 2003/51/EEC of the European Parliament and of the Council (O.J. L238 of 27.12.2001, page 28, and O.J. L178 of 17.7.2003, page 16).
+
+[^key-20750cff2c452b24327cd4482217e923]: Textual amendment: Words in Sch. 2 para. 2(6) substituted (with application in relation to financial years beginning on or after 6.4.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/108)](https://www.legislation.gov.uk/uksi/2020/108), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)[(3)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/3), [16(a)](https://www.legislation.gov.uk/uksi/2020/108/regulation/16/a)
+
+[^key-05415148c739247ce2aadcf239518b8c]: Textual amendment: Sch. 2 para. 3(1) substituted (with application in relation to financial years beginning on or after 6.4.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/108)](https://www.legislation.gov.uk/uksi/2020/108), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)[(3)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/3), [16(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/16/b)
+
+[^c19350901]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); [section 388](https://www.legislation.gov.uk/uksi/2008/1950/section/388) has been amended by section 4(2)(a) to (c) of the [Insolvency Act 2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), by section 11(1) of the [Bankruptcy (Scotland) Act 1993 (c.6)](https://www.legislation.gov.uk/ukpga/1993/6) and by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), 2002/1240 and 2002/2708.
+
+[^c19350911]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); [Article 3](https://www.legislation.gov.uk/uksi/2008/1950/article/3) has been amended by Article 6(1)(a) to (c) of the Insolvency (Northern Ireland) Order 2002 ([S.I. 2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152); and by [S.R. 1995/225](https://www.legislation.gov.uk/nisr/1995/225), 2002/334 and 2003/550.

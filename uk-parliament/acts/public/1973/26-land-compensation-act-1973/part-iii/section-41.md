@@ -1,0 +1,66 @@
+---
+title: Land Compensation Act 1973, section 41
+act: Land Compensation Act 1973
+section: '41'
+status: revised-with-pending-changes
+text_date: '2026-09-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1973/26/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Compensation Act 1973, section 41
+
+> **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41. Power of relevant authority to make advances repayable on maturity to displaced residential owner-occupiers.[^c776489]
+
+*Extent: E+W*
+
+(1) Where a person displaced from a dwelling in consequence of any of the matters mentioned in subsection (1)(a), (b) or (c) of section 39 above—
+
+- (a) is an owner-occupier of the dwelling; and
+- (b) wishes to acquire or construct another dwelling in substitution for that from which he is displaced,
+
+the relevant authority for the purposes of that section may advance money to him for the purpose of enabling him to acquire or construct the other dwelling.
+
+(2) The power conferred by this section shall be exercisable subject to such conditions as may be approved by the Secretary of State and the following provisions shall apply with respect to any advance made in the exercise of that power.
+
+(3) The advance shall be made—
+
+- (a) on terms providing for the payment of the principal—
+  - (i) at the end of a fixed period, with or without a provision allowing the authority to extend that period; or
+  - (ii) upon notice given by the authority,
+
+  subject, in either case, to a provision for earlier repayment on the happening of a specified event;
+- (b) on such other terms as the authority may think fit having regard to all the circumstances.
+
+(4) An advance for the construction of a dwelling may be made by instalments from time to time as the works of construction progress.
+
+(5) The principal of the advance, together with interest thereon, shall be secured by a mortgage of the borrower’s interest in the dwelling, and the amount of the principal shall not exceed the value which, in accordance with a valuation duly made on behalf of the relevant authority, it is estimated that the borrower’s interest will bear or, as the case may be, will bear when the dwelling has been constructed.
+
+(6) Before advancing money under this section the relevant authority shall satisfy themselves that the dwelling to be acquired is or will be made, or that the dwelling to be constructed will on completion be, in all respects fit for human habitation.
+
+(7) While the payment of the principal of an advance made by a local authority under this section is not required in accordance with the terms of the advance, the local authority may suspend, with respect to so much of any sum borrowed by them as is referable to the advance or with respect to any sum paid in respect of the advance out of their Consolidated Loans Fund, any periodical provision for repayment that may be required by any enactment or by any scheme (whether made under section 55 of the [^c776490]Local Government Act 1958 or under any local enactment) by which the Fund was established.
+
+(8) The power conferred by this section on a relevant authority is without prejudice to any power to advance money exercisable by the authority under any other enactment.
+
+(9) In this section “**owner-occupier**”, in relation to any dwelling, means a person who occupies it on the date of displacement and either—
+
+- (a) occupies it on that date in right of a freehold interest therein or a tenancy thereof granted or extended for a term of years certain of which not less than three years remain unexpired; or
+- (b) if the displacement is in consequence of the matters mentioned in paragraph (c) of section 39(1) above, occupied it in right of such an interest or tenancy on the date on which the land was acquired or appropriated as mentioned in that paragraph.
+
+(10) In this section references to the construction of a dwelling include references to the acquisition of a building and its conversion into a dwelling and to the conversion into a dwelling of a building previously acquired.
+
+(11) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c776491]
+
+## Annotations
+
+[^c776489]: Modification: S. 41: power to apply certain functions conferred by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 65(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/65/2)(*c*)(4)
+
+[^c776490]: Marginal citation: [1958 c. 55](https://www.legislation.gov.uk/ukpga/1958/55).
+
+[^c776491]: Textual amendment: Ss. 32(9), 34(7), 37(8), 41(11), 44(3), 46(8) repealed by [Land Compensation (Scotland) Act 1973 (c. 56)](https://www.legislation.gov.uk/ukpga/1973/56), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1973/56/schedule/2/part/I)

@@ -1,0 +1,399 @@
+---
+title: The Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2023
+id: uksi/2023/958
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-09-04'
+text_date: '2023-10-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2023/958
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/958/pdfs/uksiem_20230958_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/958/pdfs/uksi_20230958_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/958/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2023
+
+> Text as at 2023-10-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+This Statutory Instrument has been made partly in consequence of defects in amendments made to [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113), [S.I. 2019/385](https://www.legislation.gov.uk/uksi/2019/385) and [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605) by [S.I. 2020/1629](https://www.legislation.gov.uk/uksi/2020/1629) and is being issued free of charge to all known recipients of those Statutory Instruments.
+
+2023 No. 958
+
+Customs
+
+The Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2023
+
+Made
+
+4th September 2023
+
+Laid before the House of Commons
+
+5th September 2023
+
+Coming into force in accordance with regulation 1
+
+The Treasury make the following Regulations in exercise of the powers conferred by sections 24(3) and 26(1) of the Finance Act 2003[^f00001] and sections 19, 30B, 31(6) and (7), 32(7), (8) and (13), 40(6) and (7), 40A(2), 40B and 52(2) and (6)(a) of the Taxation (Cross-border Trade) Act 2018[^f00002] (“the TCTA”).
+
+The Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union that provisions of the following Regulations come into force on such day as the Treasury may be regulations under section 52 of the TCTA appoint.
+
+## 1. Citation, commencement and effect[^key-ccb90d9582522c0b0a5d0ae18f5ef43f]
+
+(1) These Regulations may be cited as the Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2023 and, subject to paragraphs (2) to (4), come into force on 30th September 2023.
+
+(2) Regulations 3, 6 and 11 come into force on the date from which the provisions referred to in Article 23(4) of Decision No 1/2023 of the Joint Committee of the Union and the United Kingdom of Great Britain and Northern Ireland[^f00003] signed on 24th March 2023 apply in accordance with that Article.
+
+(3) Regulations 4, 5, 7 to 10 and 12 to 18 come into force—
+
+- (a) on 30th September 2023 for the purposes of claims for relief made in a customs declaration in respect of goods for which a liability to duty chargeable under section 30A(3) or 40A(1)(b) of the Taxation (Cross-border Trade) Act 2018 is incurred, and
+- (b) on such day as the Treasury may by regulations under section 52 of the Taxation (Cross-border Trade) Act 2018 appoint for all other purposes.
+
+(4) Regulation 14(a) (amendment to regulation 16P(5)(a)) has effect only in relation to claims for relief made on or after 30th September 2023.
+
+(5) In this regulation, “**claims for relief**” means claims made under Chapter 5 (reliefs and repayment) of Part 2 (importation of goods and goods potentially for export) of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^f00004].
+
+## 2. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^key-611f742b9dd1cab15c5386646b86b9b5]
+
+The Customs (Northern Ireland) (EU Exit) Regulations 2020 are amended as follows.
+
+**3.**[^key-0cb4c1c81f445bcdd449dfa29454c9d0] In regulation 4—
+
+- (a) in paragraph (1)(a), and in the definition of “commercial processing” in paragraph (2), for “Joint Committee Decision No 4/2020” substitute “Joint Committee Decision No 1/2023”, and
+- (b) for the definition of “Joint Committee Decision No 4/2020” in paragraph (2) substitute—
+
+  > - “**Joint Committee Decision No 1/2023**” means Decision No 1/2023 of the Joint Committee established under the EU withdrawal agreement of 17th December 2020.
+
+  .
+
+**4.**[^key-e748a787f34d740b74cfd97d5804e5e1][^key-0ba18a7309b2b9b8a4c9352ea799bda4] In regulation 16A, at the end insert—
+
+> - “**single undertaking**”, in relation to a person—
+>   - (a) in a case within regulation 16E(2)(a), (c) or (d), has the same meaning as in the EU Regulation referred to in regulation 16E(2)(a), (c) or (d) which applies in relation to that person, and
+>   - (b) in a case within regulation 16E(2)(b), means an undertaking providing services of general economic interest to which the EU Regulation referred to in that regulation applies in relation to that person;
+> - “**undertaking lead**” has the meaning given in regulation 16CA.
+
+.
+
+**5.**[^key-d7b6d1efd9d2c5366843df15f9c91df5][^key-84843cc7299efa3fa4726722494f9a0f] After regulation 16C, in Section 1 of Chapter 5, insert—
+
+> **16CA. Undertaking lead**
+>
+> (1) For the purposes of this Chapter, an undertaking lead is a person in a single undertaking appointed as the undertaking lead for the single undertaking and notified to HMRC.
+>
+> (2) The person appointed must be established in the UK.
+>
+> (3) The appointment must be in accordance with rules specified in a notice published by HMRC.
+>
+> (4) The notification must be in the form and manner and include such information and evidence as specified in a notice published by HMRC.
+>
+> (5) The appointment has effect until—
+>
+> - (a) it is substituted by a new appointment made in accordance with this regulation;
+> - (b) it is resigned by the undertaking lead in the form and manner specified in a notice published by HMRC;
+> - (c) it is cancelled by HMRC under paragraph (6);
+> - (d) the undertaking lead ceases to be established in the UK; or
+> - (e) the undertaking lead ceases to be part of the single undertaking.
+>
+> (6) Where an undertaking lead fails to comply with any obligation under this Chapter, HMRC may cancel the appointment in the form and manner specified in a notice published by HMRC.
+>
+> (7) A person whose appointment as an undertaking lead has been cancelled under paragraph (6) may not be appointed again for one year following the cancellation unless HMRC consents to the appointment.
+>
+> (8) HMRC must publish a notice specifying the matters referred to in paragraphs (3) to (6).
+
+.
+
+**6.**[^key-b15274bf574b9941f52d33a265b9ad5b] In regulation 16D(1), for sub-paragraph (a) substitute—
+
+> - (a) goods in respect of which a liability to duty chargeable under section 30A(3) of the Act is incurred and which are not relevant goods for the purposes of Chapter 3 at the time that the liability is incurred; and
+
+.
+
+**7.**[^key-8fc7be277b5e2d25babe6c03b5e6e044][^key-914406aeac3901316e1601cae4818d7f] In regulation 16E(1)—
+
+- (a) omit the “and” after sub-paragraph (a)(iii), and
+- (b) after sub-paragraph (a) insert—
+
+  > - (aa) an appointment of an undertaking lead for the single undertaking of which the claimant is part is in effect at the time of the claim and the appointment has been notified to HMRC in accordance with regulation 16CA;
+  > - (ab) the undertaking lead has met the requirements in regulation 16SA; and
+
+  .
+
+**8.**[^key-9d027083241bf3d540aec94a6b46e797][^key-062217cdd29f948d856b50a1ceae5ee5] In the heading to regulation 16F, for “commercial activity criterion” substitute “eligibility criteria”.
+
+**9.**[^key-4e4399a953eab17958fc82ada6f08d75][^key-f08fa0b4e0856eea4f306ffa6f9549cf] In regulation 16F(1), for “the eligibility criterion in regulation 16E(1)(a)(iii) is” substitute “one or all of the eligibility criteria in regulation 16E(1)(a)(ii) or (iii) or (ab) are”.
+
+**10.**[^key-d561d9e504098a67b2efceabd31a5274][^key-964756596fe6e1585795ba15f1cd2fc3] In regulation 16G—
+
+- (a) in paragraph (1)(b)(i), after “given” insert “, or treated as given,”,
+- (b) after paragraph (1), insert—
+
+  > (1A) A claimant must notify the undertaking lead for the single undertaking of which it is part of a claim for relief in respect of goods before or at the time of making the claim.
+  >
+  > (1B) Where an appeal was made in respect of the amount of duty to which the claim relates and the appeal has been determined, a period equal to the period between the commencement and determination of the appeal is to be added to the period of 3 years in paragraph (1)(b).
+  >
+  > (1C) Where by virtue of force majeure or unforeseeable circumstances it would be unreasonable to expect a person to make a claim for relief in time, HMRC may consent to the making of a late claim.
+
+  , and
+- (c) in paragraph (2)—
+  - (i) in sub-paragraph (a)(ii), for “goods;” substitute—
+
+    > - goods that has not been withdrawn or treated as withdrawn;
+    >
+    > unless an HMRC officer consents to the making of the further claim;
+
+    ,
+  - (ii) omit the “or” after sub-paragraph (b), and
+  - (iii) after sub-paragraph (c) insert—
+
+    > ; or
+    >
+    > - (d) where—
+    >   - (i) an appeal has been made in respect of the amount of liability to duty to which the claim would apply; and
+    >   - (ii) the appeal has not been determined.
+
+    .
+
+**11.**[^key-06d21dd5fa0406bf5a4b334bded4026c] In regulation 16I(2)(a) after “where” insert “, at the time the liability to duty is incurred,”.
+
+**12.**[^key-69da2639ebfee1e1d8fe5559e01f65f1][^key-6dd70464123469a21fb128231ec9b57d] In regulation 16J—
+
+- (a) in paragraph (2)—
+  - (i) omit “or rejected”, and
+  - (ii) after “the period in paragraph (1)” insert “(b)”,
+- (b) after paragraph (2) insert—
+
+  > (2A) Where a claim for relief is made in the customs declaration made in respect of the goods and the declaration is rejected before the expiry of the period in paragraph (1)(b), the claim is to be treated as if it had never been made.
+
+  ,
+- (c) in paragraph (3)(a), for “or where HMRC have determined to refuse a claim”, substitute “where the claim is granted”,
+- (d) for paragraph (3)(b) substitute—
+
+  > - (b) as soon as practicable after the date on which notification is given under paragraph (1) and, in any event, by no later than the expiry of—
+  >   - (i) the period of 120 days beginning with that date; or
+  >   - (ii) an extended period, not exceeding 30 days, beginning with the day when the period of 120 days expires, where HMRC reasonably require an extension in order to reach a determination.
+
+  ,
+- (e) after paragraph (3) insert—
+
+  > (3A) HMRC must notify the claimant within the period of 120 days referred to in paragraph (3)(b)(i) if HMRC reasonably require an extended period within paragraph (3)(b)(ii) to reach a determination.
+
+  ,
+- (f) omit paragraph (4),
+- (g) in paragraph (5), before “Reasons” insert “Subject to paragraph (5A),”, and
+- (h) after paragraph (5) insert—
+
+  > (5A) Where a claim for relief is made in the customs declaration made in respect of the goods and the claim is refused—
+  >
+  > - (a) the claimant is to be treated as having been notified under paragraph (3) when a notification of liability to duty in respect of the goods is given;
+  > - (b) paragraph (5) is to be disregarded; and
+  > - (c) the reasons for refusal of the claim must be given to the claimant on request by the claimant.
+
+  .
+
+**13.**[^key-10ffac118b6eb505cf51ebd2a8855c85][^key-d9a6823f9a714ca6cc2f2ec0ce9a078a] In regulation 16M—
+
+- (a) in paragraphs (1)(b), (2) and (3), after “claimant” insert “or undertaking lead” in each place it occurs, and
+- (b) in paragraph (2)(a), after “claimant’s” insert “or “undertaking lead’s” in both places it occurs.
+
+**14.**[^key-1004eda2fcddf69893ea407139bcbf6b][^key-714f5d643e9baccfc0e9a19ac56ae45f] In regulation 16P—
+
+- (a) for paragraph (5)(a) substitute—
+
+  > - (a) beginning with the later of—
+  >   - (i) the date on which the claim for relief is granted; and
+  >   - (ii) the date on which duty is repaid under regulation 16K; and
+
+  ,
+
+and
+
+- (b) in paragraph (6) for “Commission Regulation [(EC) No 794/2004](https://www.legislation.gov.uk/european/regulation/2004/0794) of 21 April 2004 implementing Council Regulation [(EC) No 659/1999](https://www.legislation.gov.uk/european/regulation/1999/0659) laying down detailed rules for the application of Article 93 of the EC Treaty” substitute “Commission Regulation [(EC) No 794/2004](https://www.legislation.gov.uk/european/regulation/2004/0794) of 21 April 2004 implementing Council [Regulation (EU) 2015/1589](https://www.legislation.gov.uk/european/regulation/2015/1589) laying down detailed rules for the application of Article 108 of the Treaty on the Functioning of the European Union[^f00005]”.
+
+**15.**[^key-5d26e0186354fec65c80a65f4743fb8a][^key-667fd575f3785ddfa43525dd4d398d28] After regulation 16P insert—
+
+> **16PA. Further liability to duty**
+>
+> (1) Where regulation 16O or 16P applies and an aid beneficiary other than the claimant benefitted from the relief to which the claimant was not entitled, those regulations apply to that aid beneficiary and, subject to paragraph (2), references in those regulations to the claimant are treated as references to that aid beneficiary.
+>
+> (2) Paragraph (1) does not apply to the references to the claimant in regulation 16O(1)(b), (2) and (6) and regulation 16P(8).
+>
+> (3) In paragraph (1), “**aid beneficiary**” means a person who would be identified under the Commission Notice on the recovery of unlawful and incompatible State aid (C/2019/5396)[^f00006] as a person from whom recovery of incompatible aid may be made.
+
+.
+
+**16.**[^key-5866001fd0bd29e19ca1506ca54430df][^key-edc8b565ae5919c540659b91ce2aaaab] In the heading to Section 5 of Chapter 5, after “Records” insert “and Information”.
+
+**17.**[^key-550aedccc3e65d894222b453a0f15bd5][^key-1fc52553bc8bc8567f8bdf045b251ea2] In regulation 16S(1)—
+
+- (a) after “claimant” insert “and undertaking lead”, and
+- (b) after “form” insert “and for such period”.
+
+**18.**[^key-495ecec807d3d0ec513041211d891c74][^key-3728b5017a3c204ce600e7549551722d] After regulation 16S, in Section 5 of Chapter 5, insert—
+
+> **16SA. Provision of information by undertaking lead**
+>
+> (1) An undertaking lead must provide to HMRC such information and evidence as specified in a notice published by HMRC which may include information in relation to—
+>
+> - (a) applicable de minimis state aid limits in relation to claimants and de minimis state aid granted to persons in the single undertaking for which it is the undertaking lead; and
+> - (b) details of the persons in the single undertaking, the trade carried on by those persons and the relationships between those persons.
+>
+> (2) The information and evidence must be given within such time and in the form and manner specified in the notice.
+>
+> (3) If required to do so by notice in writing given by an HMRC officer, the undertaking lead must provide to the officer such information and evidence in relation to any claim for relief made by a person in the single undertaking as the officer reasonably specifies within such time and in the form and manner specified in the notice.
+>
+> (4) HMRC must publish a notice specifying the matters referred to in paragraphs (1) and (2).
+
+.
+
+## 19. Amendment of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^key-f28a6f39d411781c5ad880d3d6b8e585]
+
+(1) Regulation 7 of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^f00007] is amended as follows.
+
+(2) In paragraph (4)—
+
+- (a) for “regulation 16E(1)(a)(i)” substitute “regulations 16C(2)(b), 16CA(2) and (5)(d) and 16E(1)(a)(i)”, and
+- (b) omit “(eligibility criteria)”.
+
+## 20. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-e0d25003ca24ebdba83465e033c4c5f9]
+
+(1) The Schedule to the Customs (Contravention of a Relevant Rule) Regulations 2003[^f00008] is amended as follows.
+
+(2) In the entries relating to the Customs (Northern Ireland) (EU Exit) Regulations 2020—
+
+- (a) in the entry relating to regulation 16M, in Column 2, for “The person” substitute “Any person”,
+- (b) in the entry relating to regulation 16S—
+  - (i) in Column 1, for “16S” substitute “16S(1)”, and
+  - (ii) for the entry in Column 2, substitute “The claimant, or where relevant the principal, and the undertaking lead.”, and
+- (c) after that entry, insert—
+
+  |  |  |  |
+  | --- | --- | --- |
+  | “Regulation 16S(2)(b)<br>Requirement for an agent to provide specified documents to the claimant. | The agent. | £1,000. |
+  | Regulation 16SA<br>Requirement for undertaking lead to provide information and evidence to HMRC. | The undertaking lead. | £2,500.” |
+
+Steve Double
+
+Stuart Anderson
+
+Two of the Lords Commissioners of His Majesty’s Treasury
+
+4th September 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made by the Treasury primarily under the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22) (“**the Act**”) as amended by the Taxation (Post-transition Period) Act 2020.
+
+Regulation 1 provides for citation, commencement and effect. Regulation 1(2) provides that regulations 3, 6 and 11 are commenced at the same time as provisions referred to in Article 23(4) of Decision No 1/2023 of the Joint Committee of the Union and the United Kingdom of Great Britain and Northern Ireland signed on 24th March 2023 apply in accordance with that Article. The commencement provisions for regulations 4, 5 and 7 to 15 reflect the commencement of the Customs (Modification and Amendment) (EU Exit) Regulations 2020 ([S.I. 2020/1629](https://www.legislation.gov.uk/uksi/2020/1629)) which inserted Chapter 5 into the Principal Regulations. Chapter 5 was commenced for certain purposes by those Regulations and for further purposes by the Customs (Northern Ireland) (EU Exit) Regulations 2020 (Appointed Day) Regulations 2021 ([S.I. 2021/983](https://www.legislation.gov.uk/uksi/2021/983)). Regulation 1(4) prevents any retrospection in relation to the amendment to regulation 16P(5)(a) which relates to interest payable on relief that is recovered.
+
+Regulations 2 to 18 amend the Customs (Northern Ireland) (EU Exit) Regulations 2020 ([S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605)) (“**the Principal Regulations**”).
+
+Regulation 3 replaces references to Joint Committee Decision No 4/2020[^f00009] with a reference to Joint Committee Decision No 1/2023 which repeals and replaces the earlier Decision. Regulations 6 and 11 make consequential amendments so that relief from duty under section 30A(3) of the Act is determined by reference to the status of the goods in accordance with the Joint Committee Decision that applied at the time the liability to duty was incurred.
+
+Regulations 4, 5, 7 to 10 and 12 to 18 make amendments to Chapter 5 of Part 2 of the Principal Regulations relating to claims for relief from duty due under section 30A or 40A of the Taxation (Cross-border Trade) Act 2018. Regulation 4 inserts definitions of “undertaking lead” and “**single undertaking**” (which is defined by reference to relevant EU Regulations). Regulation 5 inserts new regulation 16CA to provide for the appointment of an undertaking lead. Regulation 7 amends regulation 16E to impose eligibility requirements in relation to the undertaking lead before any claim for relief can be made under Chapter 5. Regulations 8 and 9 amend a heading and make amendments in relation to waivers of eligibility criteria so that a waiver from certain eligibility criteria can also be granted when a claimant is not registered with HMRC. Regulation 10 amends regulation 16G in relation to making a claim for relief to introduce a requirement to notify the undertaking lead, amends the time limit for making a claim where the amount of duty is appealed, makes further provision for cases where no claim can be made and where HMRC can consent to a claim. Regulation 12 amends regulation 16J to correct an error and make amendments in relation to notifications to be given in respect of claims. Regulation 13 amends regulation 16M to make consequential amendments in relation to the undertaking lead. Regulation 14 amends regulation 16P to amend the date from which interest begins to run where relief is to be repaid and updates a reference to a Commission Regulation. Regulation 15 inserts new regulation 16PA to allow recovery of relief from persons who benefitted from the relief other than the claimant. Regulations 16 and 17 make consequential amendments. Regulation 18 inserts new regulation 16SA to impose obligations on the undertaking lead in relation to provision of information.
+
+Regulation 19 amends the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 ([S.I. 2019/385](https://www.legislation.gov.uk/uksi/2019/385)) to correct an error and allow a person established in one of the Crown Dependencies to be appointed as an undertaking lead and to allow relief agents established in one of the Crown Dependencies to make claims for relief under Chapter 5 of Part 2 of the Principal Regulations on behalf of eligible persons.
+
+Regulation 20 corrects an error and makes consequential amendments to the Customs (Contravention of a Relevant Rule) Regulations 2003 ([S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113)) in relation to penalties.
+
+The notices referred to in regulations 16CA and 16SA of the Principal Regulations, inserted by regulations 5 and 18 respectively, will be published at https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. A person unable to access the notices electronically may access them by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
+
+A Tax Information and Impact Note (TIIN) covering this instrument will be published on the GOV.UK website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14). Section 24(3) is cited for the meaning of “prescribed”. Section 26 was amended by paragraph 150 of Schedule 7 to the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22).
+
+[^f00002]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Sections 30B, 40A and 40B were inserted by sections 1 and 2 of the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26).
+
+[^key-ccb90d9582522c0b0a5d0ae18f5ef43f]: Commencement: Reg. 1 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
+
+[^f00003]: Footnote: Available electronically from https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/1145694/Decision\_of\_the\_Withdrawal\_Agreement\_Joint\_Committee\_on\_laying\_down\_arrangements\_relating\_to\_the\_Windsor\_Framework.pdf and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
+
+[^f00004]: Footnote: [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), amended by [S.I. 2020/1629](https://www.legislation.gov.uk/uksi/2020/1629). There are other amending instruments, but none is relevant.
+
+[^key-611f742b9dd1cab15c5386646b86b9b5]: Commencement: Reg. 2 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
+
+[^key-0cb4c1c81f445bcdd449dfa29454c9d0]: Commencement: Reg. 3 comes into force in accordance with reg. 1(2)
+
+[^key-e748a787f34d740b74cfd97d5804e5e1]: Commencement: Reg. 4 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-0ba18a7309b2b9b8a4c9352ea799bda4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/958/regulation/4) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-d7b6d1efd9d2c5366843df15f9c91df5]: Commencement: Reg. 5 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-84843cc7299efa3fa4726722494f9a0f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/958/regulation/5) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-b15274bf574b9941f52d33a265b9ad5b]: Commencement: Reg. 6 comes into force in accordance with reg. 1(2)
+
+[^key-8fc7be277b5e2d25babe6c03b5e6e044]: Commencement: Reg. 7 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-914406aeac3901316e1601cae4818d7f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/958/regulation/7) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-9d027083241bf3d540aec94a6b46e797]: Commencement: Reg. 8 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-062217cdd29f948d856b50a1ceae5ee5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/958/regulation/8) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-4e4399a953eab17958fc82ada6f08d75]: Commencement: Reg. 9 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-f08fa0b4e0856eea4f306ffa6f9549cf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/958/regulation/9) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-d561d9e504098a67b2efceabd31a5274]: Commencement: Reg. 10 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-964756596fe6e1585795ba15f1cd2fc3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/958/regulation/10) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-06d21dd5fa0406bf5a4b334bded4026c]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)
+
+[^key-69da2639ebfee1e1d8fe5559e01f65f1]: Commencement: Reg. 12 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-6dd70464123469a21fb128231ec9b57d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/958/regulation/12) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-10ffac118b6eb505cf51ebd2a8855c85]: Commencement: Reg. 13 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-d9a6823f9a714ca6cc2f2ec0ce9a078a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/958/regulation/13) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-1004eda2fcddf69893ea407139bcbf6b]: Commencement: Reg. 14 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-714f5d643e9baccfc0e9a19ac56ae45f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/958/regulation/14) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^f00005]: Footnote: OJ L140, 30.4.2004, p. 1, the title to this Regulation was amended by Commission [Regulation (EU) 2015/2282](https://www.legislation.gov.uk/european/regulation/2015/2282) of 27 November 2015 amending Regulation [(EC) No 794/2004](https://www.legislation.gov.uk/european/regulation/2004/0794) as regards the notification forms and information sheets (OJ L325, 10.12.2015, p. 1).
+
+[^key-5d26e0186354fec65c80a65f4743fb8a]: Commencement: Reg. 15 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-667fd575f3785ddfa43525dd4d398d28]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/958/regulation/15) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^f00006]: Footnote: OJ C 247, 23.7.2019, p. 1–23.
+
+[^key-5866001fd0bd29e19ca1506ca54430df]: Commencement: Reg. 16 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-edc8b565ae5919c540659b91ce2aaaab]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/958/regulation/16) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-550aedccc3e65d894222b453a0f15bd5]: Commencement: Reg. 17 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-1fc52553bc8bc8567f8bdf045b251ea2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/958/regulation/17) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-495ecec807d3d0ec513041211d891c74]: Commencement: Reg. 18 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+
+[^key-3728b5017a3c204ce600e7549551722d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/958/regulation/18) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+
+[^key-f28a6f39d411781c5ad880d3d6b8e585]: Commencement: Reg. 19 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
+
+[^f00007]: Footnote: [S.I. 2019/385](https://www.legislation.gov.uk/uksi/2019/385), amended by [S.I. 2020/1629](https://www.legislation.gov.uk/uksi/2020/1629). There are other amending instruments, but none is relevant.
+
+[^key-e0d25003ca24ebdba83465e033c4c5f9]: Commencement: Reg. 20 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
+
+[^f00008]: Footnote: [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113), amended by [S.I. 2009/3164](https://www.legislation.gov.uk/uksi/2009/3164), [2011/2534](https://www.legislation.gov.uk/uksi/2011/2534), [2015/636](https://www.legislation.gov.uk/uksi/2015/636), [2018/483](https://www.legislation.gov.uk/uksi/2018/483), [2018/1260](https://www.legislation.gov.uk/uksi/2018/1260), [2019/148](https://www.legislation.gov.uk/uksi/2019/148), [2020/1431](https://www.legislation.gov.uk/uksi/2020/1431) and [2020/1629](https://www.legislation.gov.uk/uksi/2020/1629). There are other amending instruments, but none is relevant.
+
+[^f00009]: Footnote: Decision 4/2020 of the Joint Committee established under the EU withdrawal agreement of 17th December 2020. Available electronically from https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/949846/Decision\_of\_the\_Withdrawal\_Agreement\_Joint\_Committee\_on\_the\_determination\_of\_goods\_not\_at\_risk.pdf and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.

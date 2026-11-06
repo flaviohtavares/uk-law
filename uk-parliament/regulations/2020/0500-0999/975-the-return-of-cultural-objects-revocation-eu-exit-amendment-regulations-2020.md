@@ -1,0 +1,85 @@
+---
+title: The Return of Cultural Objects (Revocation) (EU Exit) (Amendment) Regulations 2020
+id: uksi/2020/975
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-09-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/975
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/975/pdfs/uksiem_20200975_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/975/pdfs/uksi_20200975_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/975/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Return of Cultural Objects (Revocation) (EU Exit) (Amendment) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 975
+
+Exiting The European Union
+
+Cultural Objects
+
+The Return of Cultural Objects (Revocation) (EU Exit) (Amendment) Regulations 2020
+
+Sift requirements satisfied
+
+21st July 2020
+
+Made
+
+10th September 2020
+
+Laid before Parliament
+
+15th September 2020
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018[^f00001].
+
+The requirements of paragraph 3(2) of Schedule 7 to that Act[^f00002] (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Return of Cultural Objects (Revocation) (EU Exit) (Amendment) Regulations 2020 and come into force on IP completion day.
+
+## 2. Amendments to the Return of Cultural Objects (Revocation) (EU Exit) Regulations 2018
+
+(1) The Return of Cultural Objects (Revocation) (EU Exit) Regulations 2018[^f00003] are amended in accordance with this regulation.
+
+(2) In regulations 4 and 5, for “exit day” substitute “IP completion day”.
+
+Caroline Dinenage
+
+Minister of State for Digital and Culture
+
+Department for Digital, Culture, Media and Sport
+
+10th September 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(g)) arising from the withdrawal of the United Kingdom from the European Union.
+
+When commenced, the Return of Cultural Objects (Revocation) (EU Exit) Regulations 2018 ([S.I. 2018/1086](https://www.legislation.gov.uk/uksi/2018/1086)) revoke the Return of Cultural Objects Regulations 1994 ([S.I. 1994/501](https://www.legislation.gov.uk/uksi/1994/501)) and the Return of Cultural Objects (Amendment) Regulations 2015 ([S.I. 2015/1926](https://www.legislation.gov.uk/uksi/2015/1926)), but save them in respect of any application by a Member State for return of a cultural object received by the Secretary of State before exit day or any claim that has been properly filed with the competent court. These Regulations provide that such provisions, instead, will be saved in respect of any application by a Member State for return of a cultural object where that application is received by the Secretary of State before IP completion day.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00002]: Footnote: Paragraph 3 was amended by paragraph 50(b) of Schedule 5 to the European Union (Withdrawal Agreement) Act 2020.
+
+[^f00003]: Footnote: [S.I. 2018/1086](https://www.legislation.gov.uk/uksi/2018/1086).

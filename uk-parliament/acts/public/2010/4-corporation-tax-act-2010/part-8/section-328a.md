@@ -1,0 +1,68 @@
+---
+title: Corporation Tax Act 2010, section 328A
+act: Corporation Tax Act 2010
+section: 328A
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/328A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 328A
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 328A. Adjustment of pool to remove pre-2013 losses after the initial 6 periods[^key-451e580b5c8b5b63e8ea0f6850546115]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies for the purposes of determining the amount of any post-commencement supplement on any claim in respect of any of the additional 4 periods.
+
+(2) The ring fence pool is to be taken to have been reduced at the time specified in subsection (6).
+
+(3) The amount of the reduction is the amount of the total pre-2013 pool reduced (but not below nil) by the amount of the total pre-2013 reduction.
+
+(4) “**The amount of the total pre-2013 pool**” means the sum of—
+
+- (a) the carried forward qualifying Schedule 19B amount (within the meaning of section 326(5)) which is in the pool at the time specified in subsection (6) (if any),
+- (b) the total amount of the company's ring fence losses added to the pool in post-commencement periods beginning before 5 December 2013,
+- (c) if the commencement period begins on or after 5 December 2013, so much of any ring fence loss added to the pool in that period as does not exceed the sum of—
+  - (i) any pre-commencement expenditure added to the pool in a pre-commencement period ending before 5 December 2013, and
+  - (ii) any pre-commencement supplement allowed in respect of such a pre-commencement period, and
+- (d) the total amount of the company's post-commencement supplement added to the pool in post-commencement periods beginning before that date.
+
+(5) “**The amount of the total pre-2013 reduction**” means the total amount of the reductions in the ring fence pool falling to be made under section 327 or 328 in post-commencement periods beginning before the time specified in subsection (6).
+
+(6) The time is—
+
+- (a) immediately after the last of the 6 initial periods, or
+- (b) if later, 5 December 2013.
+
+(7) The amount (if any) in the non-qualifying pool under section 325(3) is reduced to nil (and so ceases to exist under section 325(4)).
+
+(8) Section 318A(6) (“the straddling 2013 period”) applies for the purposes of making a reduction under this section as it applies for the purposes of making a reduction under section 318A.
+
+(9) Accordingly—
+
+- (a) any ring fence loss of the company added to the pool in the straddling 2013 period is to be apportioned between the pre-2013 period and the post-2013 period in proportion to the number of days in each and treated as allocated to the pool for the period in question;
+- (b) any amount of the company's post-commencement supplement allocated to the pool for the straddling period is to be apportioned between the pre-2013 period and the post-2013 period in proportion to the number of days in each and treated as allocated to the pool for the period in question;
+- (c) the total amount of reductions in the ring fence pool falling to be made in the straddling period is apportioned between the pre-2013 period and the post-2013 period in proportion to the number of days in each and treated as a reduction falling to be made in the period in question.
+
+(10) If the basis of the apportionment in subsection (9)(a), (b) or (c) would work unjustly or unreasonably in the company's case, the company may elect for the apportionment to be made on another basis that is just and reasonable and specified in the election.
+
+(11) Once a reduction in the pool has been made under this section—
+
+- (a) no account is to be taken of a loss in determining under section 327(4) the relevant amount for a post-commencement period[^key-b61caa888eaa9311cd090e3dbd4ec18d] if and to the extent that the loss is represented by the reduction made under this section, and
+- (b) if and to the extent that losses are represented by the reduction they are to be used under section 45 to reduce any profits of a post-commencement period before any such profits are reduced by the use under section 45, 45B, 303B, 303C and 303D of ring fence losses that are not represented by the reduction[^key-079eb2e63e2cea7254760b279a33a0c3].
+
+## Annotations
+
+[^key-451e580b5c8b5b63e8ea0f6850546115]: Textual amendment: S. 328A inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/10)
+
+[^key-b61caa888eaa9311cd090e3dbd4ec18d]: Textual amendment: Words in s. 328A(11)(a) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 55(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/55/a)
+
+[^key-079eb2e63e2cea7254760b279a33a0c3]: Textual amendment: Words in s. 328A(11)(b) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 55(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/55/b)

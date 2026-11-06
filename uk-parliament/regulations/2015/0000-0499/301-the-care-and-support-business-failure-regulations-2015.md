@@ -1,0 +1,192 @@
+---
+title: The Care and Support (Business Failure) Regulations 2015
+id: uksi/2015/301
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-11'
+text_date: '2018-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/301
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/301/pdfs/uksiem_20150301_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/301/pdfs/uksi_20150301_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/301/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Care and Support (Business Failure) Regulations 2015
+
+> Text as at 2018-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 301
+
+Social Care
+
+The Care and Support (Business Failure) Regulations 2015
+
+Made
+
+11th February 2015
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 52(12) and 125(7) and (8) of the Care Act 2014[^f00001].
+
+In accordance with section 125(4)(f) of the Care Act 2014, a draft of these Regulations was laid before Parliament and was approved by a resolution of each House of Parliament.
+
+In accordance with section 125(9) of the Care Act 2014, the Secretary of State has consulted the Welsh Ministers and the Department for Health, Social Services and Public Safety in Northern Ireland before making these Regulations.
+
+## 1. Citation, commencement and interpretation[^key-895cdc47026f1d33c87f29877e787667]
+
+(1) These Regulations may be cited as the Care and Support (Business Failure) Regulations 2015.
+
+(2) Subject to paragraph (3), these Regulations come into force on the day on which section 52(12) of the Act comes fully into force[^f00002].
+
+(3) Insofar as these Regulations make provision for the purposes of—
+
+- (a) section 50 of the Act[^f00003], and
+- (b) section 52 of the Act insofar as it relates to section 50,
+
+they come into force for those purposes on the day on which section 50 of the Act comes fully into force.
+
+(4) In these Regulations—
+
+- “the Act” means the Care Act 2014;
+- “the 1986 Act” means the Insolvency Act 1986[^f00004];
+- “the 1989 Order” means the Insolvency (Northern Ireland) Order 1989[^f00005];
+- “a members’ voluntary winding up” means a winding up where a statutory declaration has been made under section 89 of the 1986 Act or article 75 of the 1989 Order[^f00006];
+- “a provider” means—
+  - (a) a registered care provider[^f00007],
+  - (b) a person registered under Part 2 of the Care Standards Act 2000[^f00008] in respect of an establishment or agency, [^key-7133aa5ac71e11f0f0d859bb42ec97ff]...
+  - (c) a person registered under Part 3 of the Health and Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00009] in respect of an establishment or agency , or[^key-40b14062c3bfdbde737ef8a4479e9558]
+  - (d) a person registered under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;
+- “the relevant amount” means the amount specified in section 123(1)(a) of the 1986 Act (definition of inability to pay debts) or article 103(1)(a) of the 1989 Order (definition of inability to pay debts; the statutory demand) as the case may be.
+
+## 2. Business failure[^key-0f140e99f4dede661acc6c733f870f13]
+
+(1) For the purposes of sections 48 and 50 to 52 of the Act—
+
+- (a) business failure has the meaning given in paragraphs (2) to (5); and
+- (b) a provider is to be treated as unable to carry on a regulated activity[^f00010] or to carry on or manage an establishment or agency or a regulated service, within the meaning of section 2 of the Regulation and Inspection of Social Care (Wales) Act 2016,[^key-5fcc025f07484310a21511a4a6f9e5a8] because of business failure if the provider’s inability to do so follows business failure.
+
+(2) Where a provider is not an individual, business failure means that, in respect of that provider—
+
+- (a) the appointment of an administrator (within the meaning given by paragraph 1(1) of Schedule B1 to the 1986 Act[^f00011] or paragraph 2(1) of Schedule B1 to the 1989 Order[^f00012]) takes effect;
+- (b) a receiver is appointed;
+- (c) an administrative receiver as defined in section 251 of the 1986 Act[^f00013] or article 5 of the 1989 Order is appointed;
+- (d) a resolution for a voluntary winding up is passed other than in a members’ voluntary winding up;
+- (e) a winding up order is made;
+- (f) an order by virtue of article 11 of the Insolvent Partnerships Order 1994 (joint bankruptcy petition by individual members of insolvent partnership)[^f00014] is made;
+- (g) an order by virtue of article 11 of the Insolvent Partnerships Order (Northern Ireland) 1995 (joint bankruptcy petition by individual members of insolvent partnership)[^f00015] is made;
+- (h) the charity trustees of the provider become unable to pay their debts as they fall due;
+- (i) every member of the partnership (in a case where the provider is a partnership) is adjudged bankrupt; or
+- (j) a voluntary arrangement proposed for the purposes of Part 1 of the 1986 Act[^f00016] or Part 2 of the 1989 Order has been approved under that Part of that Act or Order.
+
+(3) In relation to a provider who is an individual, business failure means that—
+
+- (a) the individual is made[^key-6f657c19f1ea375bf41325cdf4642905] bankrupt; or
+- (b) a voluntary arrangement pursuant to Part 8 of the 1986 Act or Part 8 of the 1989 Order is proposed by or entered into by the individual.
+
+(4) For the purposes of paragraph (2)(h), a person is a charity trustee of a provider if—
+
+- (a) the provider is a charity that is unincorporated; and
+- (b) the person is a trustee of that charity.
+
+(5) For the purposes of paragraph (2)(h), the charity trustees of a provider are to be treated as becoming unable to pay their debts as they fall due if—
+
+- (a) a creditor to whom the trustees are indebted in a sum exceeding the relevant amount then due has served on the trustees a written demand requiring the trustees to pay the sum so due and the trustees have for 3 weeks thereafter neglected to pay the sum or to secure or compound for it to the reasonable satisfaction of the creditor;
+- (b) in England and Wales, execution or other process issued on a judgment, decree or order of a court in favour of a creditor of the trustees is returned unsatisfied in whole or in part;
+- (c) in Scotland, the induciae of a charge for payment on an extract decree, or an extract registered bond, or an extract registered protest, have expired without payment being made; or
+- (d) in Northern Ireland, a certificate of unenforceability has been granted in respect of a judgment against the trustees.
+
+Signed by authority of the Secretary of State for Health.
+
+Norman Lamb
+
+Minister of State,
+
+Department of Health
+
+11th February 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Sections 48 to 52 of the Care Act 2014 (“the Act”) impose duties (“temporary duties”) on local authorities in England and Wales, and on Health and Social Care trusts in Northern Ireland (“HSC trusts”), to meet care and support needs of adults, or support needs of carers, in circumstances where registered providers of care are unable to carry on because of “business failure”.
+
+These Regulations make provision as to the interpretation, for those purposes, of “business failure” and as to circumstances in which a person is to be treated as unable to do something because of “business failure”. (As regards Scotland, certain duties are imposed on local authorities under Part 2 of the Social Work (Scotland) Act 1968.)
+
+Regulation 2 sets out the events which constitute business failure for the purposes of the temporary duties on local authorities in England and Wales, and on HSC trusts.
+
+In relation to a provider, other than an individual, registered in England, Wales or Northern Ireland, business failure consists of—
+
+- the appointment of an administrator;
+- the appointment of a receiver;
+- the appointment of an administrative receiver;
+- the passing of a resolution for a voluntary winding up in a creditors’ voluntary winding up;
+- the making of a winding up order;
+- the making of bankruptcy orders where individual members of a partnership present a joint bankruptcy petition;
+- in relation to an unincorporated charity, the charity trustees becoming unable to pay their debts as they fall due;
+- all members of a partnership being adjudged bankrupt; or
+- a voluntary arrangement being approved under the Insolvency Act 1986 (“the 1986 Act”) or the Insolvency (Northern Ireland) Order 1989 (“the 1989 Order”).
+
+In relation to a provider who is an individual registered in England, Wales or Northern Ireland, business failure consists of the individual being adjudged bankrupt or proposing or entering into an individual voluntary arrangement under Part 8 of the 1986 Act or Part 8 of the 1989 Order.
+
+Under the Act, the temporary duties are triggered where a registered provider becomes unable to carry on a regulated activity or to carry on an establishment or agency because of business failure. Regulation 2(1)(b) provides that a provider is to be treated as unable to carry on a regulated activity or to carry on or manage an establishment or agency because of business failure if the provider’s inability to do so follows business failure.
+
+A separate impact assessment has not been prepared for these Regulations. These Regulations are part of a package of legislative measures and the relevant impact assessment can be requested via careactconsultation@dh.gsi.gov.uk or Department of Health, Richmond House, 79 Whitehall, London SW1A 2NS and is available online at https://www.gov.uk/government/organisations/department-of-health.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23) (“the Act”). The powers to make regulations are exercisable by the Secretary of State, *see* section 125(1).
+
+[^key-895cdc47026f1d33c87f29877e787667]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/301/regulation/1) in force at 6.4.2016 in accordance with reg. 1(2)(3)
+
+[^f00002]: Footnote: Section 52(12) was commenced on 1 October 2014 for the purposes of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473).
+
+[^f00003]: Footnote: Section 50 concerns duties on local authorities in Wales to meet adults’ needs for care and support or carers’ needs for support in specified circumstances.
+
+[^f00004]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00005]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
+
+[^f00006]: Footnote: *See* [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090) and [2012/3013](https://www.legislation.gov.uk/uksi/2012/3013) as to the application of section 89 to Limited Liability Partnerships and Charitable Incorporated Organisations respectively. As to the application of section 89 to co-operative and community benefit societies, *see* section 123 of the Co-operative and Community Benefit Societies Act [2014 (c.14)](https://www.legislation.gov.uk/ukpga/2014/14), and as to the application of article 75 of the 1989 Order to industrial and provident societies in Northern Ireland, *see* section 64 of the Industrial and Provident Societies Act (Northern Ireland) [1969 (c.24)](https://www.legislation.gov.uk/ukpga/1969/24), as substituted by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^f00007]: Footnote: *See* section 48(1) of the Act for the meaning of “registered care provider”.
+
+[^f00008]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^key-7133aa5ac71e11f0f0d859bb42ec97ff]: Textual amendment: Word in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/301/regulation/1/4) omitted (1.4.2018) by virtue of [The Blood Safety and Quality Regulations and the Care and Support (Business Failure) Regulations (Consequential Amendments) Order 2018 (S.I. 2018/231)](https://www.legislation.gov.uk/uksi/2018/231), [arts. 1](https://www.legislation.gov.uk/uksi/2018/231/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/231/article/3/2/a)
+
+[^f00009]: Footnote: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431).
+
+[^key-40b14062c3bfdbde737ef8a4479e9558]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/301/regulation/1/4) inserted (1.4.2018) by [The Blood Safety and Quality Regulations and the Care and Support (Business Failure) Regulations (Consequential Amendments) Order 2018 (S.I. 2018/231)](https://www.legislation.gov.uk/uksi/2018/231), [arts. 1](https://www.legislation.gov.uk/uksi/2018/231/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/231/article/3/2/b)
+
+[^key-0f140e99f4dede661acc6c733f870f13]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/301/regulation/2) in force at 6.4.2016 in accordance with reg. 1(2)(3)
+
+[^f00010]: Footnote: *See* section 8 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) for the meaning of “regulated activity”.
+
+[^key-5fcc025f07484310a21511a4a6f9e5a8]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/301/regulation/2/1/b) inserted (1.4.2018) by [The Blood Safety and Quality Regulations and the Care and Support (Business Failure) Regulations (Consequential Amendments) Order 2018 (S.I. 2018/231)](https://www.legislation.gov.uk/uksi/2018/231), [arts. 1](https://www.legislation.gov.uk/uksi/2018/231/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/231/article/3/3)
+
+[^f00011]: Footnote: Schedule B1 was inserted by section 248(2) of, and Schedule 16 to, the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40). As to the application of Part 2 of the 1986 Act to co-operative and community benefit societies, *see* [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229) as amended by [S.I. 2014/1822](https://www.legislation.gov.uk/uksi/2014/1822).
+
+[^f00012]: Footnote: Schedule B1 was inserted by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
+
+[^f00013]: Footnote: There are amendments to section 251 but none is relevant.
+
+[^f00014]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421).
+
+[^f00015]: Footnote: [S.R. (N.I.) 1995 No. 225](https://www.legislation.gov.uk/nisr/1995/225).
+
+[^f00016]: Footnote: As to the application of Part 1 of the 1986 Act to co-operative and community benefit societies, *see* [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229) as amended by [S.I. 2014/1822](https://www.legislation.gov.uk/uksi/2014/1822).
+
+[^key-6f657c19f1ea375bf41325cdf4642905]: Textual amendment: Word in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/301/regulation/2/3/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)

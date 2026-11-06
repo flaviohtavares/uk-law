@@ -1,0 +1,210 @@
+---
+title: The Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001
+id: uksi/2001/2256
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-06-20'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/2256
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/2256/pdfs/uksi_20012256_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/2256/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 2256
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001
+
+Made
+
+20th June 2001
+
+Laid before Parliament
+
+20th June 2001
+
+Coming into force
+
+in accordance with regulation 1
+
+The Treasury, in exercise of the powers conferred on them by sections 20(3), 71(2) and (3), 150(3) and (5), 202(2), 417(1)[^f00001] and 428(3) of the Financial Services and Markets Act 2000[^f00002], hereby make the following Regulations:
+
+## 1. Citation and commencement[^key-e24d92b9b0dec67d88e10598db522bbf]
+
+These Regulations may be cited as the Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001 and come into force on the day on which section 19 of the Act comes into force.
+
+## 2. Interpretation[^key-93b53143121c55894f7ea8da31fefb1e]
+
+In these Regulations—
+
+- “the Act” means the Financial Services and Markets Act 2000;
+- “government” means—
+  - (a) the government of the United Kingdom;
+  - (b) the Scottish Administration;
+  - (c) the Executive Committee of the Northern Ireland Assembly;
+  - (d) the National Assembly for Wales; or
+  - (e) the government of any country or territory outside the United Kingdom;
+- “international organisation” means any international organisation the members of which include the United Kingdom or any other state;
+- “local authority”, in relation to the United Kingdom, means—
+  - (a) in England and Wales, a local authority within the meaning of the Local Government Act 1972[^f00003], the Greater London Authority, the Common Council of the City of London or the Council of the Isles of Scilly;
+  - (b) in Scotland, a local authority within the meaning of the Local Government (Scotland) Act 1973[^f00004]; and
+  - (c) in Northern Ireland, a district council within the meaning of the Local Government Act (Northern Ireland) 1972[^f00005];
+- “Part IV financial resources requirement” means a requirement imposed on an authorised person by the Authority under Part IV of the Act to have or maintain financial resources;
+- “Part XIII financial resources requirement” means a requirement imposed on an incoming firm (within the meaning of section 193(1) of the Act) by the Authority under Part XIII of the Act to have or maintain financial resources;
+- “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00006].
+
+## 3. Private person[^key-4843890164e06c1b264f6e0bd9a9eb6d]
+
+(1)[^key-c4e08fd9fbc67f864d9c1728e2be676e] In these Regulations, “private person” means—
+
+- (a) any individual, unless he suffers the loss in question in the course of carrying on—
+  - (i) any regulated activity; or
+  - (ii) any activity which would be a regulated activity apart from any exclusion made by article 72 (overseas persons)[^key-2be7d200ebf2df582c6d28a6c0267962] [^key-7e9edb47242e51e1881d041503d3461f]... of the Regulated Activities Order; [^key-c96baa5797e9976500b9144e68d623b8]...
+- (b) any person who is not an individual, unless he suffers the loss in question in the course of carrying on business of any kind;
+- (c)[^key-e580fe489d3ab89bfa270a08c3bfa829] a relevant recipient of credit (within the meaning of the Regulated Activities Order) who is not an individual and who has suffered the loss in question in connection with an activity of the kind specified by article 36A, 39D, 39E, 39F, 39G, 60B, 60N, 89A or 89B of that Order or article 64 of that Order so far as relevant to any of those activities, and
+- (d) a person who is, by virtue of article 36J of that Order, to be regarded as a person who uses, may use, has or may have used or has or may have contemplated using, services provided by authorised persons in carrying on a regulated activity of the kind specified by article 36H of that Order or article 64 of that Order so far as relevant to that activity,
+
+but does not include a government, a local authority (in the United Kingdom or elsewhere) or an international organisation.
+
+(2) For the purposes of paragraph (1)(a), an individual who suffers loss in the course of effecting or carrying out contracts of insurance (within the meaning of article 10 of the Regulated Activities Order) written at Lloyd’s is not to be taken to suffer loss in the course of carrying on a regulated activity.
+
+## 4. Authorised person acting otherwise than in accordance with permission[^key-fb634a08b452c2b32330003351ae0805]
+
+(1) A case where the conditions specified by paragraph (2) are satisfied is prescribed for the purposes of section 20(3) of the Act (and so in such a case the contravention of a requirement imposed by the[^key-281c0789ffd232904b555329b3d44ad6] FCA or the PRA under the Act is actionable at the suit of a person who suffers loss as a result of that contravention).
+
+(2) The conditions specified by this paragraph are that—
+
+- (a) the action would be brought at the suit of—
+  - (i) a private person; or
+  - (ii) a person acting in a fiduciary or representative capacity on behalf of a private person and any remedy would be exclusively for the benefit of that private person and could not be effected through an action brought otherwise than at the suit of the fiduciary or representative; and
+- (b) the contravention is not of a Part IV financial resources requirement.
+
+## 5. Prohibition orders and performance of a controlled function[^key-e7def439701c61b407f78006fb06c505]
+
+(1) The definition of “private person” in regulation 3 is prescribed for the purposes of section 71(3) of the Act (and so the contravention of section 56(6) or 59(1) or (2) of the Act is actionable at the suit of a person who falls within that definition and who suffers loss as a result of that contravention).
+
+(2) A case where the condition specified by paragraph (3) is satisfied is prescribed for the purposes of section 71(2) of the Act (and so in such a case the contravention of section 56(6) or 59(1) or (2) of the Act is actionable at the suit of a person who is not a private person).
+
+(3) The condition specified by this paragraph is that the action would be brought at the suit of a person (who is not a private person) acting in a fiduciary or representative capacity on behalf of a private person and any remedy would be exclusively for the benefit of that private person and could not be effected through an action brought otherwise than at the suit of the fiduciary or representative.
+
+## 6. ... rules[^key-45cb72ace5d16d9796e9815e956e8f6c][^key-c41502ce0d0712e687ac72f79ab2d691]
+
+(1) The definition of “private person” in regulation 3 is prescribed for the purposes of section 138D(6)[^key-396e3abbcbef2e7fc6020b36ebf03c9f] of the Act (and so the contravention by an authorised person of a rule is actionable at the suit of a person who falls within that definition and who suffers loss as a result of that contravention).
+
+(2) A case where any of the conditions specified by paragraph (3) is satisfied is prescribed for the purposes of section 138D(4)[^key-6710f0e2ea35d4b530f91f2ba91dcc0a] of the Act (and so in such a case the contravention of a rule is actionable at the suit of a person who is not a private person).
+
+(3) The conditions specified by this paragraph are that—
+
+- (a) the rule that has been contravened prohibits an authorised person from seeking to make provision excluding or restricting any duty or liability;
+- (b) the rule that has been contravened is directed at ensuring that transactions in any security or contractually based investment (within the meaning of the Regulated Activities Order) are not effected with the benefit of unpublished information that, if made public, would be likely to affect the price of that security or investment;
+- (c) the action would be brought at the suit of a person (who is not a private person) acting in a fiduciary or representative capacity on behalf of a private person and any remedy would be exclusively for the benefit of that private person and could not be effected through an action brought otherwise than at the suit of the fiduciary or representative.
+- (d)[^key-dc1b11820e84d5a13bff6de2fa08a468] the rule that has been contravened requires a relevant authorised person to respond to a claim for compensation within a specified time limit, or to pay interest in specified circumstances in respect of any such claim.
+
+(4)[^key-dc6c512822796379563eeb97feec510b] In this regulation—
+
+- (a) “relevant authorised person” means an authorised person with a Part IV permission—
+  - (i) to effect or to carry out relevant contracts of insurance; or
+  - (ii) to manage the underwriting capacity of a Lloyd’s syndicate as a managing agent, the members of which effect or carry out relevant contracts of insurance underwritten at Lloyd’s;
+
+  where a “relevant contract of insurance” means a contract of insurance against damage arising out of or in connection with the use of motor vehicles on land (other than carrier’s liability);
+- (b) “rule” has the meaning given by section 138D(5)[^key-538b18427d997894010d367e4baaa56f] of the Act; and
+- (c) “specified” means specified in rules.
+
+## 7. Incoming firms[^key-7b562cafab568c31a47e1561d1769703]
+
+(1) A case where the conditions specified by paragraph (2) are satisfied is prescribed for the purposes of section 202(2) of the Act (and so in such a case the contravention of a requirement imposed by the[^key-dff7423f2974d1e4d94e86e5802fa418] FCA or the PRA under Part XIII of the Act is actionable at the suit of a person who suffers loss as a result of that contravention).
+
+(2) The conditions specified by this paragraph are that—
+
+- (a) the action would be brought at the suit of—
+  - (i) a private person; or
+  - (ii) a person acting in a fiduciary or representative capacity on behalf of a private person and any remedy would be exclusively for the benefit of that private person and could not be effected through an action brought otherwise than at the suit of the fiduciary or representative; and
+- (b) the contravention is not of a Part XIII financial resources requirement.
+
+Anne McGuire
+
+Tony McNulty
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+(This note is not part of the Regulations)
+
+These Regulations set out the circumstances in which a contravention of certain provisions of, or made or imposed under, the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (“the Act”) is actionable by a person who has suffered loss as a result of that contravention.
+
+Regulation 4 prescribes the cases in which an action may be brought under section 20(3) of the Act against an authorised person who has contravened a requirement imposed under the Act. Such an action may be brought by a private person (as defined in regulation 3) or a person (“a fiduciary”) acting in a fiduciary or representative capacity on behalf of a private person where the remedy would be exclusively for the benefit of that person and the remedy could not be effected though action brought otherwise than at the suit of the fiduciary or representative. Contravention of a financial resources requirement imposed under Part IV of the Act is not actionable.
+
+Regulation 5 provides that the definition of “private person” in regulation 3 applies for the purposes of section 71 of the Act. Under section 71(1) of the Act any private person who has suffered loss as a result of a contravention of section 56(6) of the Act (failure to take reasonable care to ensure that a function is not performed by a person in breach of a prohibition order) or section 59(1) or (2) of the Act (failure to ensure that controlled functions are performed only in accordance with approval granted by the Financial Services Authority (“the Authority”)) may bring an action. Any person who is not a private person may bring an action for contravention of those provisions only if he would bring the action as a fiduciary.
+
+Regulation 6 provides that the definition of private person in regulation 3 applies for the purposes of section 150 of the Act. Under section 150(1) of the Act, contravention of a rule made by the Authority is actionable at the suit of any private person who has suffered loss as a result. Any person who is not a private person may only bring an action for contravention of a rule which prohibits the authorised person from seeking to make provision excluding or restricting any duty or liability; a rule that is directed at ensuring that transactions in investments are not effected with the benefit of unpublished information; or where the person would bring the action as a fiduciary.
+
+Regulation 7 provides that any private person or person acting as a fiduciary may bring an action under section 202(2) of the Act in respect of a contravention of a requirement imposed by the Authority on an incoming firm under Part XIII of the Act. Contravention of a financial resources requirement imposed under Part XIII is not actionable.
+
+## Annotations
+
+[^f00001]: Footnote: See the definition of “prescribed”.
+
+[^f00002]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-e24d92b9b0dec67d88e10598db522bbf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/2256/regulation/1) in force at 1.12.2001 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2256/regulation/1)
+
+[^key-93b53143121c55894f7ea8da31fefb1e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/2256/regulation/2) in force at 1.12.2001 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2256/regulation/1)
+
+[^f00003]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); the definition of “local authority” in section 270 has been repealed in part by Schedule 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51); and amended by section 1(5) of the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^f00004]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65); the definition of “local authority” in section 235 was substituted by paragraph 92(66) of Schedule 13 to the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00005]: Footnote: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9).
+
+[^f00006]: Footnote: S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^key-4843890164e06c1b264f6e0bd9a9eb6d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/2256/regulation/3) in force at 1.12.2001 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2256/regulation/1)
+
+[^key-c4e08fd9fbc67f864d9c1728e2be676e]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/3/1) applied (1.7.2005) by [The Investment Recommendation (Media) Regulations 2005 (revoked) 2005 (S.I. 2005/382)](https://www.legislation.gov.uk/uksi/2005/382), [regs. 1](https://www.legislation.gov.uk/uksi/2005/382/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2005/382/regulation/13/2) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/382/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/382/regulation/3/4))
+
+[^key-2be7d200ebf2df582c6d28a6c0267962]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2001/2256/regulation/3) substituted (21.8.2002) by [The Electronic Commerce Directive (Financial Services and Markets) Regulations 2002 (S.I. 2002/1775)](https://www.legislation.gov.uk/uksi/2002/1775), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/1/b), [18](https://www.legislation.gov.uk/uksi/2002/1775/regulation/18)
+
+[^key-7e9edb47242e51e1881d041503d3461f]: Textual amendment: Words in [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/3/1/a/ii) omitted (31.12.2020) by virtue of [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/1361/regulation/8) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c96baa5797e9976500b9144e68d623b8]: Textual amendment: Word in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/3/1/a) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [16(a)](https://www.legislation.gov.uk/uksi/2013/1881/article/16/a)
+
+[^key-e580fe489d3ab89bfa270a08c3bfa829]: Textual amendment: [Reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/3/1/c)[(d)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/3/1/d) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [16(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/16/b)
+
+[^key-fb634a08b452c2b32330003351ae0805]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/2256/regulation/4) in force at 1.12.2001 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2256/regulation/1)
+
+[^key-281c0789ffd232904b555329b3d44ad6]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/4/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 48(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/48/a)
+
+[^key-e7def439701c61b407f78006fb06c505]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/2256/regulation/5) in force at 1.12.2001 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2256/regulation/1)
+
+[^key-45cb72ace5d16d9796e9815e956e8f6c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/2256/regulation/6) in force at 1.12.2001 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2256/regulation/1)
+
+[^key-c41502ce0d0712e687ac72f79ab2d691]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2001/2256/regulation/6) heading omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 48(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/48/b/i)
+
+[^key-396e3abbcbef2e7fc6020b36ebf03c9f]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/6/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 48(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/48/b/ii)
+
+[^key-6710f0e2ea35d4b530f91f2ba91dcc0a]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/6/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 48(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/48/b/iii)
+
+[^key-dc1b11820e84d5a13bff6de2fa08a468]: Textual amendment: [Reg. 6(3)(d)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/6/3/d) inserted (20.11.2002) by [The Financial Services and Markets Act 2000 (Fourth Motor Insurance Directive) Regulations 2002 (S.I. 2002/2706)](https://www.legislation.gov.uk/uksi/2002/2706), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2706/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2002/2706/regulation/3/a)
+
+[^key-dc6c512822796379563eeb97feec510b]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/6/4) substituted (20.11.2002) by [The Financial Services and Markets Act 2000 (Fourth Motor Insurance Directive) Regulations 2002 (S.I. 2002/2706)](https://www.legislation.gov.uk/uksi/2002/2706), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2706/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2002/2706/regulation/3/b)
+
+[^key-538b18427d997894010d367e4baaa56f]: Textual amendment: Word in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/6/4/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 48(b)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/48/b/iv)
+
+[^key-7b562cafab568c31a47e1561d1769703]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/2256/regulation/7) in force at 1.12.2001 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2256/regulation/1)
+
+[^key-dff7423f2974d1e4d94e86e5802fa418]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2001/2256/regulation/7/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 48(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/48/a)

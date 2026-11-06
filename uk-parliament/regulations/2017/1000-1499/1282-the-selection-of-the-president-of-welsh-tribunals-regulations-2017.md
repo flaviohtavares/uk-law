@@ -1,0 +1,266 @@
+---
+title: The Selection of the President of Welsh Tribunals Regulations 2017
+id: uksi/2017/1282
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-12-11'
+text_date: '2022-09-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/1282
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/1282/pdfs/uksiem_20171282_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1282/pdfs/uksi_20171282_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1282/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Selection of the President of Welsh Tribunals Regulations 2017
+
+> Text as at 2022-09-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2017 No. 1282
+
+Judicial Appointments And Discipline
+
+The Selection of the President of Welsh Tribunals Regulations 2017
+
+Made
+
+11th December 2017
+
+Coming into force in accordance with regulation 1(1)
+
+The Lord Chancellor makes these Regulations in exercise of the powers conferred by paragraph 7(1), (2) and (3)(a) of Schedule 5 to the Wales Act 2017[^f00001].
+
+In accordance with paragraph 7(4) of Schedule 5 to that Act a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+In accordance with paragraph 7(1) of Schedule 5 to that Act, the Lord Chancellor makes these Regulations with the agreement of the Lord Chief Justice and the Welsh Ministers.
+
+## 1. Citation, commencement and interpretation[^key-af2f9d4d0f3894263f43e52fd0750df9]
+
+(1) These Regulations may be cited as the Selection of the President of Welsh Tribunals Regulations 2017 and come into force on the day after the day on which they are made.
+
+(2) In these Regulations—
+
+- (a) a reference to “Schedule 5” is a reference to Schedule 5 to the Wales Act 2017 (President of Welsh Tribunals), and
+- (b) a person is the judicial lead of a Welsh Tribunal[^f00002] if the person is appointed under a provision in the left hand column of the following table to a position listed against that provision in the right hand column—
+
+  | Provision | Position |
+  | --- | --- |
+  | Paragraph 13(1) of Schedule 9 to the Agriculture Act 1947[^f00003] | Chairman for the Agricultural Land Tribunal |
+  | Paragraph 3 of Schedule 10 to the Rent Act 1977[^f00004] | President of the Panel |
+  | Paragraph 3 of Schedule 2 to the Mental Health Act 1983[^f00005] | Chairman or President of the Mental Health Review Tribunal for Wales |
+  | Section 333(2)(a) of the Education Act 1996[^f00006] or Section 91(3) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^key-e253cc5512c2624361b2aa5faa97ec7d] | President of the Tribunal |
+  | Section 75(6) of the Local Government Act 2000[^f00007] | President of the Panel |
+  | Section 120(2)(a) of the Welsh Language (Wales) Measure 2011[^f00008] | President of the Welsh Language Tribunal. |
+
+## 2. Non-legally qualified person[^key-9ae140091caaa5f5459deb1f5d15be53]
+
+For the purposes of paragraph 4(3) of Schedule 5 (composition of panel) a person is non-legally qualified if that person has never—
+
+- (a) held an office listed in Schedule 14 to the Constitutional Reform Act 2005[^f00009];
+- (b) been a member of a panel appointed under regulation 8(1) and (2)(b) or (c) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^f00010], or
+- (c) practised as, or been employed as, a lawyer.
+
+## 3. Membership of selection panel[^key-6582a773466d1cc51c2b969449ca09b9]
+
+(1) A selection panel appointed under paragraph 4(1) of Schedule 5 (appointment of panel) to select a person for appointment to the office of President of Welsh Tribunals must consist of five members.
+
+(2) The first member, who is to be the chairperson of the panel, is a person designated by the Lord Chief Justice.
+
+(3) A person designated under paragraph (2) must be a person who holds, or has held, office as a judge of the Supreme Court, a Lord Justice of Appeal or a puisne judge of the High Court.
+
+(4) The second member is a person designated by the first member.
+
+(5) A person designated under paragraph (4) must be—
+
+- (a) a person who has held the office of President of Welsh Tribunals;
+- (b) a person who holds, or who has held, office as a Chamber President of a chamber of the First-tier Tribunal or of a chamber of the Upper Tribunal;
+- (c) a person who is, or who has been, the judicial lead of a Welsh Tribunal, or
+- (d) a person who holds, or who has held, an office or other position that, in the opinion of the Lord Chief Justice, is such that a holder of it would acquire knowledge or experience broadly similar to that which would be acquired by a person who holds one of the offices referred to in sub-paragraphs (a) to (c).
+
+(6) Unless paragraph (10) applies the third member is the chairman of the Commission[^f00011] or the chairman’s nominee.
+
+(7) Only a lay member of the Commission[^f00012] may be a nominee under paragraph (6).
+
+(8) The fourth member is a lay member of the Commission designated by the third member.
+
+(9) The fifth member is a person designated by the Lord Chancellor with the agreement of Welsh Ministers.
+
+(10) If—
+
+- (a) there is no chairman of the Commission;
+- (b) the chairman of the Commission is, in the opinion of the Lord Chief Justice, incapacitated, or
+- (c) the chairman of the Commission is unavailable and has not nominated a person under paragraph (6),
+
+the third member of the panel is a lay member of the Commission selected by the lay members of the Commission other than the chairman of the Commission.
+
+(11) A person may not, under this regulation—
+
+- (a) be a nominee, or a designated member, if that person is disqualified under paragraph (12);
+- (b) be appointed to the selection panel as the nominee of, or designated by, more than one person;
+- (c) be appointed to the selection panel as a nominee or a designated member if they have been appointed to the panel otherwise than as a nominee, or as a designated member.
+
+(12) A person is disqualified for the purposes of this regulation if—
+
+- (a) the person is the holder of the office of President of Welsh Tribunals;
+- (b) the office of the President of Welsh Tribunals is vacant and the person is the immediately previous holder of that office, or
+- (c) the person is willing to be considered for selection as President of Welsh Tribunals.
+
+(13) Where a person chooses a person to be a member of a selection panel under this regulation the person making the choice must, in doing so, have regard (alongside all other relevant considerations) to the fact that it is desirable that the members of the selection panel should include—
+
+- (a) both women and men;
+- (b) members drawn from a range of different racial groups (within the meaning of section 9(3) of the Equality Act 2010[^f00013]), and
+- (c) members with an understanding of the administration of justice in Wales and Welsh devolution arrangements.
+
+## 4. Consultation[^key-78ebb2af5bb78f1e7272877158f9fceb]
+
+(1) If practicable, the selection panel must consult the current holder of the office of President of Welsh Tribunals about the exercise of its functions under paragraph 4(4) of Schedule 5 (selection process).
+
+(2) As part of the selection process, the selection panel must, in addition to complying with paragraph 4(5) of Schedule 5 (consultation with the Lord Chancellor and Welsh Ministers), consult the Lord Chief Justice.
+
+## 5. Report[^key-fc7ffc4b66b0bce39780fd3cb119dea0]
+
+(1) After complying with paragraph 4(4) of Schedule 5 the selection panel must submit a report to the Lord Chief Justice.
+
+(2) The report must—
+
+- (a) state who has been selected, and
+- (b) contain any other information required by the Lord Chief Justice.
+
+(3) The report must be in a form approved by the Lord Chief Justice.
+
+(4) After submitting the report the selection panel must provide any further information which the Lord Chief Justice may require.
+
+## 6. The Lord Chief Justice’s options[^key-38de00a8d795ab23ecfe8938f635316f]
+
+(1) This regulation refers to the following stages—
+
+- (a) stage 1 – where a person has been selected for appointment to the office of President of Welsh Tribunals;
+- (b) stage 2 – where a person has been selected following a rejection or reconsideration at stage 1, and
+- (c) stage 3 – where a person has been selected following a rejection or reconsideration at stage 2.
+
+(2) At stage 1 the Lord Chief Justice must do one of the following—
+
+- (a) accept the selection;
+- (b) reject the selection, or
+- (c) require the selection panel to reconsider the selection.
+
+(3) At stage 2 the Lord Chief Justice must do one of the following—
+
+- (a) accept the selection;
+- (b) reject the selection, but only if it was made following a reconsideration at stage 1, or
+- (c) require the selection panel to reconsider the selection, but only if it was made following a rejection at stage 1.
+
+(4) At stage 3 the Lord Chief Justice must accept the selection, unless paragraph (5) applies and the Lord Chief Justice accepts a selection under it.
+
+(5) If a person whose selection the Lord Chief Justice required to be reconsidered at stage 1 or 2 was not selected again at the next stage, the Lord Chief Justice may, at stage 3, accept the selection made at that earlier stage.
+
+## 7. Exercise of powers to reject or require reconsideration[^key-46cca8092379e3029c2aebf905fcf7ea]
+
+(1) The power of the Lord Chief Justice under regulation 6 to reject a selection at stage 1 or 2 is exercisable, only on the ground that, in the Lord Chief Justice’s opinion, the person selected is not suitable for the office of President of Welsh Tribunals.
+
+(2) The power of the Lord Chief Justice under regulation 6 to require the selection panel to reconsider a selection at stage 1 or 2 is exercisable only on the ground that, in the Lord Chief Justice’s opinion—
+
+- (a) there is not enough evidence that the person is suitable for the office of President of Welsh Tribunals, or
+- (b) there is evidence that the person is not the best candidate on merit.
+
+(3) The Lord Chief Justice must give the selection panel reasons in writing for rejecting or requiring reconsideration of a selection.
+
+## 8. Selection following rejection or requirement to reconsider[^key-a9fcb0954d7d380f2ad6ebdcacf7cc96]
+
+(1) If under regulation 6 the Lord Chief Justice rejects or requires reconsideration of a selection at stage 1 or 2, the selection panel must select a person in accordance with this regulation.
+
+(2) If the Lord Chief Justice rejects a selection, the selection panel—
+
+- (a) may not select the person rejected, and
+- (b) where the rejection is following reconsideration of a selection, may not select the person (if different) whose selection it reconsidered.
+
+(3) If the Lord Chief Justice requires a selection to be reconsidered, the selection panel—
+
+- (a) may select the same person or a different person, but
+- (b) where the requirement to reconsider follows a rejection, may not select the person rejected.
+
+(4) The selection panel must inform the Lord Chief Justice of the person selected following a rejection or a requirement to reconsider.
+
+(5) Paragraphs (2) and (3) do not prevent a person being selected on a subsequent request under paragraph 2(5) of Schedule 5 (request to Commission to select for appointment to office).
+
+David Lidington
+
+Lord Chancellor
+
+Ministry of Justice
+
+I agree
+
+Ian Burnett
+
+Lord Chief Justice
+
+I agree
+
+Carwyn Jones
+
+First Minister of Wales
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations contain provisions about the selection process to be applied for the appointment of a person to the office of President of Welsh Tribunals. They make provision for the composition of a selection panel, consultation by that panel, reporting of its selection to the Lord Chief Justice and the Lord Chief Justice’s options when deciding upon that selection.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2017 c. 4](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^key-af2f9d4d0f3894263f43e52fd0750df9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+
+[^f00002]: Footnote: The term “Welsh Tribunal” is defined in section 59(1) of the Wales Act 2017.
+
+[^f00003]: Footnote: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48). Paragraph 13(1) was amended by paragraph 6 of Schedule 10 to the Courts and Legal Services Act [1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41), paragraph 4 of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) and by [S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036).
+
+[^f00004]: Footnote: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42). Paragraph 3 was amended by [S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036).
+
+[^f00005]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Paragraph 3 was prospectively substituted by section 38(6) of the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12) and amended by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). The amendment in that Act, which alters the name of the judicial lead for the Tribunal has not been brought into force.
+
+[^f00006]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Subsection (2) was amended by paragraph 31(3)(b) of Schedule 3 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) and by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
+
+[^key-e253cc5512c2624361b2aa5faa97ec7d]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/2/b) table inserted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [7(2)](https://www.legislation.gov.uk/wsi/2022/913/regulation/7/2)
+
+[^f00007]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
+
+[^f00008]: Footnote: [2011 nawm 1](https://www.legislation.gov.uk/mwa/2011/1).
+
+[^key-9ae140091caaa5f5459deb1f5d15be53]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1282/regulation/2) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+
+[^f00009]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4). There are amendments to Schedule 14 but none are relevant.
+
+[^f00010]: Footnote: [S.I. 2013/1237](https://www.legislation.gov.uk/uksi/2013/1237).
+
+[^key-6582a773466d1cc51c2b969449ca09b9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1282/regulation/3) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+
+[^f00011]: Footnote: The Judicial Appointments Commission (see paragraph 2(5) of Schedule 5 to the Wales Act 2017).
+
+[^f00012]: Footnote: A lay member of the commission is a person who is appointed to be a member of the commission and who meets the criteria set out in regulation 8 of the Judicial Appointment Commission Regulations 2013 ([S.I. 2013/2191](https://www.legislation.gov.uk/uksi/2013/2191)) – see paragraphs 3B(2)(c) and 3C of Schedule 12 to the Constitutional Reform Act 2005.
+
+[^f00013]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^key-78ebb2af5bb78f1e7272877158f9fceb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1282/regulation/4) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+
+[^key-fc7ffc4b66b0bce39780fd3cb119dea0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1282/regulation/5) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+
+[^key-38de00a8d795ab23ecfe8938f635316f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1282/regulation/6) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+
+[^key-46cca8092379e3029c2aebf905fcf7ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1282/regulation/7) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+
+[^key-a9fcb0954d7d380f2ad6ebdcacf7cc96]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1282/regulation/8) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)

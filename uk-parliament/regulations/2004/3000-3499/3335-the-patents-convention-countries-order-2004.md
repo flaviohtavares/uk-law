@@ -1,0 +1,277 @@
+---
+title: The Patents (Convention Countries) Order 2004
+id: uksi/2004/3335
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-12-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/3335
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/3335/pdfs/uksi_20043335_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3335/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Patents (Convention Countries) Order 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No. 3335
+
+PATENTS
+
+The Patents (Convention Countries) Order 2004
+
+Made
+
+16th December 2004
+
+Laid before Parliament
+
+10th January 2005
+
+Coming into force
+
+31st January 2005
+
+At the Court at Buckingham Palace, the 16th day of December 2004
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred on Her by sections 90(1) and 124(3) of the Patents Act 1977[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered as follows:
+
+**1.** This Order may be cited as the Patents (Convention Countries) Order 2004 and shall come into force on 31st January 2005.
+
+**2.** The countries specified in Schedule 1 are declared to be convention countries for the purposes of section 5 of the Patents Act 1977.
+
+**3.** The Orders set out in Schedule 2 are hereby revoked.
+
+A K Galloway
+
+Clerk to the Privy Council
+
+## SCHEDULE 1 — CONVENTION COUNTRIES
+
+Article 2
+
+- Albania
+- Algeria
+- Andorra
+- Angola
+- Antigua and Barbuda
+- Argentina
+- Armenia
+- Australia
+- Austria
+- Azerbaijan
+- Bahamas
+- Bahrain
+- Bangladesh
+- Barbados
+- Belarus
+- Belgium
+- Belize
+- Benin
+- Bhutan
+- Bolivia
+- Bosnia and Herzegovina
+- Botswana
+- Brazil
+- Brunei Darussalam
+- Bulgaria
+- Burkina Faso
+- Burundi
+- Cambodia
+- Cameroon
+- Canada
+- Central African Republic
+- Chad
+- Chile
+- China
+- Columbia
+- Congo
+- Congo, Democratic Republic of the
+- Costa Rica
+- Cote d'Ivoire
+- Croatia
+- Cuba
+- Cyprus
+- Czech Republic
+- Denmark
+- Djibouti
+- Dominica
+- Dominican Republic
+- Ecuador
+- Egypt
+- El Salvador
+- Equatorial Guinea
+- Estonia
+- Faeroe Islands
+- Fiji
+- Finland
+- France (including Overseas Departments and Territories)
+- Gabon
+- Gambia
+- Georgia
+- Germany
+- Ghana
+- Greece
+- Grenada
+- Guatemala
+- Guinea
+- Guinea-Bissau
+- Guyana
+- Haiti
+- Holy See
+- Honduras
+- Hong Kong
+- Hungary
+- Iceland
+- India
+- Indonesia
+- Iran, Islamic Republic of
+- Iraq
+- Ireland
+- Israel
+- Italy
+- Jamaica
+- Japan
+- Jordan
+- Kazakhstan
+- Kenya
+- Korea, Democratic People’s Republic of
+- Korea, Republic of
+- Kuwait
+- Kyrgyzstan
+- Lao People’s Democratic Republic
+- Latvia
+- Lebanon
+- Lesotho
+- Liberia
+- Libyan Arab Jamahiriya
+- Liechtenstein
+- Lithuania
+- Luxembourg
+- Macao
+- Macedonia, Former Yugoslav Republic of
+- Madagascar
+- Malawi
+- Malaysia
+- Maldives
+- Mali
+- Malta
+- Mauritania
+- Mauritius
+- Mexico
+- Moldova, Republic of
+- Monaco
+- Mongolia
+- Morocco
+- Mozambique
+- Myanmar
+- Namibia
+- Nepal
+- Netherlands
+- Netherlands Antilles and Aruba
+- New Zealand (including the Cook Islands, Niue and Tokelau)
+- Nicaragua
+- Niger
+- Nigeria
+- Norway
+- Oman
+- Pakistan
+- Panama
+- Papua New Guinea
+- Paraguay
+- Peru
+- Philippines
+- Poland
+- Portugal
+- Qatar
+- Romania
+- Russian Federation
+- Rwanda
+- Saint Kitts and Nevis
+- Saint Lucia
+- Saint Vincent and the Grenadines
+- San Marino
+- Sao Tome and Principe
+- Saudi Arabia
+- Senegal
+- Serbia and Montenegro
+- Seychelles
+- Sierra Leone
+- Singapore
+- Slovakia
+- Slovenia
+- Solomon Islands
+- South Africa
+- Spain
+- Sri Lanka
+- Sudan
+- Suriname
+- Swaziland
+- Sweden
+- Switzerland
+- Syrian Arab Republic
+- Taiwan
+- Tajikistan
+- Tanzania, United Republic of
+- Thailand
+- Togo
+- Tonga
+- Trinidad and Tobago
+- Tunisia
+- Turkey
+- Turkmenistan
+- Uganda
+- Ukraine
+- United Arab Emirates
+- United States of America (including Puerto Rico and all territories and possessions)
+- Uruguay
+- Uzbekistan
+- Venezuela
+- Viet Nam
+- Zambia
+- Zimbabwe
+
+## SCHEDULE 2 — REVOCATIONS
+
+Article 3
+
+- Patents (Convention Countries) Order 1994[^f00002]
+- Patents (Convention Countries) (Amendment) Order 1995[^f00003]
+- Patents (Convention Countries) (Amendment) Order 2000[^f00004]
+- Patents (Convention Countries) (Amendment) (No. 2) Order 2000[^f00005]
+- Patents (Convention Countries) (Amendment) Order 2001[^f00006]
+
+(This note is not part of the Order)
+
+This Order, pursuant to section 90(1) of the Patents Act 1977, declares the countries specified in Schedule 1 to be convention countries for the purposes of section 5 of the Patents Act 1977. Section 5 of that Act affords certain rights of priority to applicants for patents, and this Order provides those rights of priority to applications filed in the countries specified in this Order. In this Order the term “country” includes colonies, protectorates and territories by reason of section 90(3) of that Act.
+
+The majority of the countries specified in the Order have acceded to the International Convention for the Protection of Industrial Property (“the Paris Convention”) (as revised at Stockholm in 1967) (Cmnd. 4431) or the Agreement establishing the World Trade Organisation (including the Agreement on Trade Related aspects of Intellectual Property Rights) (Cm. 2556-59, 2561-69, 2571-74).
+
+With the exception of Andorra, Saudi Arabia, Serbia and Montenegro and the Seychelles all of the specified countries are already considered to be convention countries for the purposes of section 5.
+
+This Order revokes the Patents (Convention Countries) Order 1994 ([SI 1994/3220](https://www.legislation.gov.uk/uksi/1994/3220)) and the four other Instruments that amended that Order listed in Schedule 2. This Order provides a consolidated list of countries that are convention countries for the purposes of section 5 of the Patents Act 1977.
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37).
+
+[^f00002]: Footnote: [SI 1994/3220](https://www.legislation.gov.uk/uksi/1994/3220).
+
+[^f00003]: Footnote: [SI 1995/2989](https://www.legislation.gov.uk/uksi/1995/2989).
+
+[^f00004]: Footnote: [SI 2000/1114](https://www.legislation.gov.uk/uksi/2000/1114).
+
+[^f00005]: Footnote: [SI 2000/1560](https://www.legislation.gov.uk/uksi/2000/1560).
+
+[^f00006]: Footnote: [SI 2001/2126](https://www.legislation.gov.uk/uksi/2001/2126).

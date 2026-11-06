@@ -1,0 +1,461 @@
+---
+title: The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021
+id: uksi/2021/90
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-01-27'
+text_date: '2022-07-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2021/90
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/90/pdfs/uksiem_20210090_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/90/pdfs/uksi_20210090_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/90/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021
+
+> Text as at 2022-07-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2021 No. 90
+
+Financial Services And Markets
+
+The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021
+
+Made
+
+27th January 2021
+
+Coming into force in accordance with article 1
+
+The Treasury make the following Order in exercise of the powers conferred by sections 21(9), (10) and (15), 22(1) and (5), 39(1), 235(5), 417(1)[^f00001], 426, 427 and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000[^f00002].
+
+In the opinion of the Treasury, one of the effects of the following Order is that an activity which is not a regulated activity (within the meaning given in section 22 of that Act) will become a regulated activity.
+
+Accordingly, a draft of this Order was laid before Parliament and approved by a resolution of each House of Parliament pursuant to paragraph 26(1) and (2)[^f00003] of Schedule 2 to that Act.
+
+## PART 1
+
+### Introductory provisions
+
+#### 1. Citation, commencement and interpretation[^key-64d11e93f87ab8158f08dac9aba93a8a][^key-77a2f420661ae8e3e6fad8717c86da22]
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021.
+
+(2) This Order comes into force on the day (“the initial commencement day”) after the day on which it is made, for the following purposes only—
+
+- (a) enabling the FCA—
+  - (i) to make or approve rules;
+  - (ii) to give guidance; and
+  - (iii) to give directions.
+- (b) enabling applications for—
+  - (i) a Part 4A[^f00004] permission under section 55A[^f00005] of the Act;
+  - (ii) a variation of a Part 4A permission under section 55H[^f00006] of the Act; and
+  - (iii) approval under Part 5 of the Act;
+
+  to be made and determined in relation to any activity which becomes a regulated activity by virtue of this Order;
+- (c) enabling the FCA to exercise any of its powers under Part 4A or Part 5 of the Act in relation to any activity which becomes a regulated activity by virtue of this Order; and
+- (d) enabling the scheme operator—
+  - (i) to make rules; and
+  - (ii) to give guidance.
+
+(3) Subject to article 1A, this Order[^key-7e625b341c2cdc5c8d20bfd5b892c558] comes into force for all other purposes on the first day following the expiry of a period of eighteen calendar months beginning on the day after the initial commencement day.
+
+(4) In this Order—
+
+- “the Act” means the Financial Services and Markets Act 2000;
+- “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00007]; and
+- “scheme operator” has the meaning given in section 225(2) of the Act.
+
+#### 1A. Transitional period[^key-9bdeab0432aae9a9be07338738c00ff0]
+
+(1) Article 1(3) applies subject to this article.
+
+(2) Where—
+
+- (a) the FCA received a provider’s application before 1st March 2022; and
+- (b) one of the following applies—
+  - (i) that application has not been determined by the FCA in accordance with section 55V[^f00014] of the Act before 29th July 2022;
+  - (ii) that provider withdrew that application before 29th July 2022;
+  - (iii) the FCA refused that application before 29th July 2022 by giving the provider a decision notice in accordance with section 55X(4)(f)[^f00015] of the Act;
+
+article 2(4)(a) applies only in relation to activities carried on by that provider on or after 31st October 2022.
+
+(3) In this article—
+
+- “**application**” means an application to the FCA under section 55A[^f00016] of the Act for permission to carry on either of the regulated activities specified in article 59 of the Regulated Activities Order;
+- “**funeral plan contract**” has the same meaning as in article 59(2) of the Regulated Activities Order;
+- “**provider**” means a person responsible for carrying out a funeral plan contract as provider.
+
+## PART 2 — Amendments to secondary legislation made under the Act
+
+### 2. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-8c8205f569b8e30d470708354b8ac3ce][^key-7b2ee7801ddd7b0b027d42e267c5c6fe]
+
+(1) The Regulated Activities Order is amended as follows.
+
+(2) In article 3 (interpretation)[^f00008], in the definition of “contract of insurance”, omit “(or a contract which would be a funeral plan contract but for the exclusion in article 60)”.
+
+(3) In article 21(1) (dealing in investments as agent)[^f00009], omit “(other than investments of the kind specified by article 87, or article 89 so far as relevant to that article)”. 
+
+(4) In article 59 (funeral plan contracts)—
+
+- (a) after paragraph (1), insert—
+
+  > (1A)  Carrying out a funeral plan contract as provider is a specified kind of activity.
+
+  ;
+- (b) in paragraph (2), omit “(other than one excluded by article 60)”; and
+- (c) after paragraph (2), insert—
+
+  > (2A) For the purposes of paragraph (1A), “provider” includes a person who has assumed the undertaking referred to in paragraph (2)(b) as a result of the novation, assignment or transfer by operation of law of an existing funeral plan contract.
+
+  .
+
+(5) Omit article 60 (plans covered by insurance or trust arrangements).
+
+(6) Before paragraph 60A[^f00010], insert—
+
+> **60ZA. Local authorities**
+>
+> Article 59 is subject to the exclusion in article 72G (local authorities).
+
+.
+
+(7) In article 72G (local authorities)[^f00011], after paragraph (3B)[^f00012], insert—
+
+> (3C) There is excluded from article 59(1) and (1A) any activity which is carried on by a local authority.
+
+.
+
+(8) For article 89(3) (rights to or interests in investments)[^f00013], substitute—
+
+> Paragraph (1) does not include any right or interest acquired as a result of entering into a funeral plan contract.
+
+### 3. The Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^key-fdd621dfcc7c6224dcb35a5478cc9c44][^key-638f3288d3ba97264ce9c62c42a2da42]
+
+For paragraph 18[^f00014] of the Schedule to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^f00015], substitute—
+
+> **18. Funeral plan contracts**
+>
+> Arrangements do not amount to a collective investment scheme if they consist of, or are made pursuant to, a funeral plan contract.
+
+.
+
+### 4. The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^key-4cb8b2fe02b0901acf91ab721c3040f4][^key-6e322efb736c0c4dec3201366652fb8a]
+
+(1) The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^f00016] are amended as follows.
+
+(2) In regulation 1(2)[^f00017], at the appropriate place, insert—
+
+> - “funeral plan contract” has the same meaning as in article 59 of the Regulated Activities Order;
+
+.
+
+(3) For regulation 2(1)(za) (descriptions of business for which appointed representatives are exempt)[^f00018], substitute—
+
+> - (za) an activity of the kind specified by article 21 of the Regulated Activities Order (dealing in investments as agent), where the transaction relates to—
+>   - (i) a contract of insurance which is not a qualifying contract of insurance or a contract of long-term care insurance; or
+>   - (ii) a funeral plan contract.
+
+.
+
+### 5. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-69bb97bee5877a19a7213637e9b28096][^key-f5984744f27d8828751fce7a72e05ab5]
+
+(1) Schedule 1 to the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00019] is amended as follows.
+
+(2) In paragraph 3(1)[^f00020] (dealing in securities and contractually based investments), omit “(other than investments of the kind specified by paragraph 25, or paragraph 27 so far as relevant to that paragraph)”.
+
+(3) In paragraph 9 (providing funeral plan contracts)—
+
+- (a) after sub-paragraph (1), insert—
+
+  > (1A) Carrying out a qualifying funeral plan contract as provider is a controlled activity.
+
+  ; and
+- (b) for sub-paragraph (2)(c), substitute—
+
+  > the provider is a person who carries on a regulated activity specified in article 59 of the Regulated Activities Order and includes a person who has assumed the undertaking referred to in article 59(2)(b) of that Order as a result of the novation, assignment or transfer by operation of law of an existing qualifying funeral plan contract.
+
+  .
+
+## PART 3 — Transitional provisions: complaints relating to funeral plans
+
+### 6. Interpretation[^key-e776ee2e761f3b96b8501fa49c40f35b][^key-2e5a144f4e759ee0d149ce28fe792bdd]
+
+In this Part—
+
+- “compulsory jurisdiction” has the meaning given in section 226(8) of the Act;
+- “compulsory jurisdiction rules” has the meaning given in section 226(3)[^f00021] of the Act;
+- “former scheme” means the complaints procedure contained in the former scheme operator’s Code of Practice and Rules in force at the time of the act or omission that is the subject of the relevant complaint;
+- “former scheme operator” means the Funeral Planning Authority Community Interest Company;
+- “former scheme rules” means the former scheme operator’s Code of Practice and Rules in force immediately before the initial commencement day;
+- “new scheme” means the scheme for which provision is made in Part 16 of the Act (the ombudsman scheme);
+- “relevant complaint” has the meaning given in article 7(1); and
+- “relevant date” means the date on which this Order comes fully into force in accordance with article 1(3).
+
+### 7. Complaints made on or after the relevant date about acts or omissions before that date[^key-112bd571f850bf04c82cd383f8ec1707][^key-d23e399af44419c73578f11f3dce2379]
+
+(1) A relevant complaint is a complaint—
+
+- (a) about an act or omission which occurred before the relevant date;
+- (b) which had not, before that date, been referred under the former scheme; and
+- (c) in relation to which the conditions set out in paragraph (2) are met.
+
+(2) The conditions are that—
+
+- (a) the complaint is about an act or omission of a person who, at the time of that act or omission, was subject to the former scheme (regardless of whether they later ceased to be subject to it);
+- (b) the act or omission occurred in the carrying on by that person of an activity to which the former scheme applied; and
+- (c) in relation to the compulsory jurisdiction, the complainant is eligible within the meaning given in section 226(6) of the Act and wishes to have the complaint dealt with under the new scheme.
+
+(3) For the purposes of paragraph (2)(c), where the complainant is not eligible in accordance with the compulsory jurisdiction rules, an ombudsman may nonetheless, if the ombudsman considers it appropriate, treat the complainant as eligible if the complainant would have been entitled, at any time before the relevant date, to refer to the former scheme operator an equivalent complaint.
+
+(4) A relevant complaint—
+
+- (a) may be referred for determination under the new scheme; and
+- (b) upon referral is, subject to article 9, to be dealt with in the same way as any other complaint referred under the new scheme.
+
+(5) For the purposes of paragraph (4), it is immaterial that the conditions set out in section 226(2)(b) and (c) of the Act are not met in relation to the complaint.
+
+### 8. Procedure for dealing with relevant complaints[^key-c2cb9f0dabc4f0cccbf7019742f51c1f][^key-d691cd0148c9c2bbb29909783619faa6]
+
+In paragraphs 13 and 14 of Schedule 17 to the Act, each reference to a “complaint” is to be taken to include a reference to a relevant complaint.
+
+### 9. Determination of relevant complaints[^key-e0c397adf7c27fefd8403f923d5feeec][^key-5f5e141aa20dc5ab200187a202285cfd]
+
+(1) Subject to paragraphs (2) and (3), sections 228 to 230A of the Act apply in relation to the determination of a relevant complaint as they apply in relation to the determination of a complaint of the kind mentioned in section 226(1) (compulsory jurisdiction).
+
+(2) In determining, in relation to a relevant complaint—
+
+- (a) what is fair and reasonable in all the circumstances of the case, for the purposes of section 228(2) of the Act;
+- (b) what amount, if any, constitutes fair compensation for loss and damage suffered by the complainant, for the purposes of section 229(2)(a) of the Act; and
+- (c) what steps would be just and appropriate in any direction under section 229 of the Act, for the purposes of section 229(2)(b),
+
+an ombudsman may also take into account the matters set out in paragraph (3).
+
+(3) The matters referred to in paragraph (2) are—
+
+- (a) what the former scheme operator, seeking to resolve the complaint under the former scheme rules, might have recommended in the particular circumstances of the case;
+- (b) what amount, if any, the former scheme operator, seeking to resolve the complaint under the former scheme rules, might have recommended that the respondent should pay under the former scheme rules; and
+- (c) what other steps the former scheme operator, seeking to resolve the complaint under the former scheme rules, might have recommended that the respondent should take under the former scheme rules.
+
+### 10. Funding and charges[^key-60b06de653fe7db5a5db80692571830e][^key-2172fd161798be1e535825301b1dcf3d]
+
+(1) In section 234(1) of the Act (industry funding), the reference to the operation of the ombudsman scheme in relation to the compulsory jurisdiction is to be taken to include its operation in relation to relevant complaints.
+
+(2) Relevant complaints are subject to rules made under paragraph 15(1) of Schedule 17 to the Act (fees) in the same way as any other complaints referred to under the new scheme.
+
+### 11. Exemption from liability in damages[^key-72a6c537bc8268ff9a651b371d1ed1dd][^key-b7826493bb9a523e6414cf9e3bcef4d9]
+
+Paragraph 10(1) of Schedule 17 to the Act (exemption from liability in damages) applies to the discharge, or purported discharge, of any functions by virtue of this Part in relation to dealing with a relevant complaint (“relevant functions”), and is to be read for those purposes as if—
+
+- (a) the reference to functions under the Act included a reference to relevant functions; and
+- (b) the reference to “the compulsory jurisdiction” included a reference to the jurisdiction of the new scheme which results from this Part.
+
+### 12. Transfers of liability[^key-63b33d574cd95669b808144772a1755a][^key-4d69e1fbc8d1b8899bee3edfb3be44ad]
+
+In section 234B of the Act, the reference to a complaint falling to be dealt with under the ombudsman scheme is to be taken to include a reference to a relevant complaint falling to be dealt with under that scheme including the jurisdiction which results from this Part.
+
+### 13. Privilege[^key-ba278df3af90a50c8bd5bbb0594ce0ae][^key-9218251fda6b21b1f50197acb719c9a8]
+
+In paragraph 11 of Schedule 17 to the Act (privilege), the reference to “the compulsory jurisdiction” is to be taken to include the jurisdiction of the new scheme which results from this Part.
+
+### 14. Record-keeping and reporting requirements relating to relevant complaints[^key-deba5e272d65ea3ebde6aaa47608b00b][^key-b29c0c34847df663c1f492c05e7fa8e8]
+
+The FCA may make rules applying to authorised persons under the Act with respect to the keeping of records and the making of reports in relation to relevant complaints.
+
+### 15. Information[^key-034d5a6c692679d3bcfe9bb18bf1d979][^key-d529bfae6dbcab013d6d979a85cd465f]
+
+(1) Sections 231 and 232 of the Act apply in relation to a relevant complaint as they apply in relation to a complaint of the kind mentioned in section 226(1) of the Act.
+
+(2) The reference in the table in paragraph 11 of Schedule 2 to the Data Protection Act 2018[^f00022] (exemptions etc from the GDPR) to functions conferred upon the Financial Ombudsman by or under Part 16 of the Act is to be taken to include a reference to the functions conferred upon the Financial Ombudsman by this Order.
+
+## PART 4
+
+### Rules and guidance
+
+#### 16. Funeral plans related rules and guidance made by the FCA[^key-30a6a648a5b806684ed25bad31bcfbb6][^key-9d57f9edb670d84014538a104df161cb]
+
+The requirements of section 138I of the Act, in so far as they apply to a proposal by the FCA to make rules and guidance in relation to the amendments made by this Order, may be satisfied by things done (wholly or in part) before the date on which this Order comes into force for the purpose of enabling the FCA to make rules and give guidance.
+
+#### 17. Rules made by the scheme operator relating to funeral plans[^key-40269c512e79b5114f125992e4889424][^key-4efd2630cf6d297a0b6ed53fc07a6bf8]
+
+The requirements of paragraph 14(4) and (5) of Schedule 17 to the Act, in so far as they apply to a proposal by the scheme operator to make or amend rules under paragraph 14(1) (the scheme operator’s rules) in relation to amendments made by this Order, may be satisfied by things done (wholly or in part) before the date on which this Order comes into force for the purpose of enabling the scheme operator to make or amend rules.
+
+## PART 5
+
+### Review
+
+#### 18. Review[^key-af5070b8b449536725274ce9e5a56466][^key-0ba4008d3eb1e35ddcbad574d9285ea5]
+
+(1) The Treasury must from time to time—
+
+- (a) carry out a review of this Order; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before the end of the period of five years beginning with the day on which this Order comes into force for any purpose.
+
+(3) Subsequent reports must be published at intervals not exceeding five years.
+
+Rebecca Harris
+
+Maggie Throup
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ([S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544)) (“the Regulated Activities Order”) in relation to the regulation of funeral plan contracts, such that funeral plan providers will generally need to be appropriately authorised under the Financial Services and Markets Act 2000 (“the Act”) (c.8) when entering into, or carrying out, such contracts. The Order also amends other secondary legislation made under the Act and makes various transitional modifications to the ombudsman scheme established under the Act.
+
+The Regulated Activities Order specifies kinds of activities and investments for the purposes of the Act. When an activity of a specified kind is carried on by way of business in relation to an investment of a specified kind, it is a “regulated activity” for the purposes of the Act. Section 19 of the Act prohibits persons from carrying on any regulated activity in the United Kingdom, unless they are either authorised or exempt.
+
+Article 21 of the Regulated Activities Order makes the dealing of relevant investments as agent a specified kind of activity, but excludes, amongst other things, funeral plan contracts. Article 2 of the Order amends article 21 to bring funeral plan contracts within its scope.
+
+Article 59 of the Regulated Activities Order provides that entering as provider into a funeral plan contract is a specified kind of activity. However, article 60 excludes plans covered by insurance or trust arrangements from the definition of a funeral plan contract in article 59, such that a provider who enters into an insurance or trust backed plan that meets the criteria in article 60 does not need to be authorised. Article 2 of the Order amends article 59 of the Regulated Activities Order to make the carrying out of a funeral plan contract as provider a specified kind of activity. Article 2 also removes the exclusion in article 60, makes provision for any activity carried on by a local authority under article 59 to be excluded, and makes a consequential amendment to article 89(3).
+
+Article 3 of the Order makes a consequential amendment to paragraph 18 of Schedule 1 to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001 ([S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062)), which prescribes particular arrangements that do not amount to collective investment schemes for the purposes of section 235(5) of the Act.
+
+The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001 ([S.I. 2001/1217](https://www.legislation.gov.uk/uksi/2001/1217)) (“the Appointed Representatives Regulations”) prescribe the descriptions of business which appointed representatives of authorised persons may carry on without themselves requiring authorisation under the Act. Pursuant to section 39 of the Act, a person who is an appointed representative is an exempt person for the purposes of section 19 of the Act. Article 4 of the Order amends the Appointed Representatives Regulations to provide that appointed representatives of authorised persons may carry on the activities specified in article 21(1) of the Regulated Activities Order to the extent that they relate to funeral plan contracts, without themselves requiring authorisation under the Act.
+
+The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 ([S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529)) (“the Financial Promotion Order”) specifies the kinds of activities and investments which are controlled activities and controlled investments for the purposes of section 21 of the Act. Any invitation or inducement which is made in the course of business and which invites or induces someone either to enter, or to offer to enter, into an agreement the making or performance of which constitutes a controlled activity or to exercise rights conferred by a controlled investment is subject to the restriction imposed by section 21(1) of the Act. Section 21(1) precludes anyone from communicating such an invitation or inducement unless either they are an authorised person or the content of the communication is approved by an authorised person. Article 5 of the Order amends Schedule 1 to the Financial Promotion Order to make the carrying out of a funeral plan contract as provider and the buying, selling, subscribing for or underwriting of funeral plan contracts as principal or agent controlled activities.
+
+Part 3 of the Order modifies Part 16 of, and Schedule 17, to the Act, which provide for the establishment of an ombudsman scheme, and makes provision for complaints made on or after the date specified in article 1(3) relating to acts or omissions that occurred before that date to be dealt with under the ombudsman scheme. These complaints would previously have been subject to the Funeral Planning Authority’s Code of Conduct and Rules. Articles 7 to 15 make various modifications to the ombudsman scheme insofar as it applies to such complaints. Copies of the Funeral Planning Authority’s Code of Conduct and Rules may be obtained from the Financial Ombudsman Service, Exchange Tower, Harbour Exchange, London E14 9SR or at www.financial-ombudsman.org.uk.
+
+Part 4 of the Order relates to rules and guidance made by the Financial Conduct Authority and rules made by the Financial Ombudsman Service, so as to allow both organisations to take steps to prepare rules and, in the case of the Financial Conduct Authority, guidance before the date given in article 1(3).
+
+Part 5 of the Order requires the Treasury to carry out a review of this Order at least every five years.
+
+A de minimis impact assessment of the effect this Order will have on business and the voluntary sector is available from HM Treasury, 1 Horse Guards Road, London SW1A 2HQ or on www.gov.uk and is published alongside the Order on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: See the definition of “prescribed”.
+
+[^f00002]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Paragraph 25 of Schedule 2 was amended by section 8 of the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21) and section 27 of the Financial Guidance and Claims Act [2018 (c.10)](https://www.legislation.gov.uk/ukpga/2018/10).
+
+[^f00003]: Footnote: Paragraph 26 was substituted by section 8 of the Financial Services Act 2012 and paragraph 26(1) was amended by section 27 of the Financial Guidance and Claims Act 2018.
+
+[^key-64d11e93f87ab8158f08dac9aba93a8a]: Commencement: Art. 1 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-77a2f420661ae8e3e6fad8717c86da22]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/90/article/1) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^f00004]: Footnote: Part 4A was inserted by section 11 of the Financial Services Act 2012.
+
+[^f00005]: Footnote: Section 55A was inserted by section 11 of the Financial Services Act 2012 and amended by [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135).
+
+[^f00006]: Footnote: Sections 40 to 55 of the Act were substituted for a new Part 4A consisting of sections 55A to 55Z4 by section 11 of the Financial Services Act 2012.
+
+[^key-7e625b341c2cdc5c8d20bfd5b892c558]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3) substituted (16.5.2022 for specified purposes, 29.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2022 (S.I. 2022/466)](https://www.legislation.gov.uk/uksi/2022/466), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/466/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2022/466/article/5/2)
+
+[^f00007]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^key-9bdeab0432aae9a9be07338738c00ff0]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2021/90/article/1A) inserted (16.5.2022 for specified purposes, 29.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2022 (S.I. 2022/466)](https://www.legislation.gov.uk/uksi/2022/466), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/466/article/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2022/466/article/5/3)
+
+[^f00014]: Footnote: Paragraph 18 of the Schedule was substituted by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650).
+
+[^f00015]: Footnote: [S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062).
+
+[^f00016]: Footnote: [S.I. 2001/1217](https://www.legislation.gov.uk/uksi/2001/1217).
+
+[^key-8c8205f569b8e30d470708354b8ac3ce]: Commencement: Art. 2 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-7b2ee7801ddd7b0b027d42e267c5c6fe]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/90/article/2) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^f00008]: Footnote: Article 3 was amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476). There are other amendments to article 3 which are not relevant to this Order.
+
+[^f00009]: Footnote: Article 21 was renumbered and amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), and further amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488).
+
+[^f00010]: Footnote: Article 60A was inserted by [S.I. 2002/1776](https://www.legislation.gov.uk/uksi/2002/1776).
+
+[^f00011]: Footnote: Article 72G was inserted by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366). There are amendments to article 72G which are not relevant to this Order.
+
+[^f00012]: Footnote: Paragraph (3B) was substituted by [S.I. 2016/392](https://www.legislation.gov.uk/uksi/2016/392).
+
+[^f00013]: Footnote: There are amendments to article 89 which are not relevant to this Order.
+
+[^key-fdd621dfcc7c6224dcb35a5478cc9c44]: Commencement: Art. 3 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-638f3288d3ba97264ce9c62c42a2da42]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/90/article/3) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-4cb8b2fe02b0901acf91ab721c3040f4]: Commencement: Art. 4 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-6e322efb736c0c4dec3201366652fb8a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/90/article/4) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^f00017]: Footnote: Regulation 1(2) was amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476). There are other amendments to regulation 1(2) which are not relevant to this Order.
+
+[^f00018]: Footnote: Regulation 2(1)(za) was inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), amended by [S.I. 2004/453](https://www.legislation.gov.uk/uksi/2004/453) and renumbered by [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906).
+
+[^key-69bb97bee5877a19a7213637e9b28096]: Commencement: Art. 5 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-f5984744f27d8828751fce7a72e05ab5]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/90/article/5) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^f00019]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529).
+
+[^f00020]: Footnote: Paragraph 3(1) of Schedule 1 was amended by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488).
+
+[^key-e776ee2e761f3b96b8501fa49c40f35b]: Commencement: Art. 6 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-2e5a144f4e759ee0d149ce28fe792bdd]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/90/article/6) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^f00021]: Footnote: Section 226(3) was amended by section 39 of, and paragraph 1 of Schedule 11 to, the Financial Services Act 2012.
+
+[^key-112bd571f850bf04c82cd383f8ec1707]: Commencement: Art. 7 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-d23e399af44419c73578f11f3dce2379]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2021/90/article/7) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-c2cb9f0dabc4f0cccbf7019742f51c1f]: Commencement: Art. 8 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-d691cd0148c9c2bbb29909783619faa6]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2021/90/article/8) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-e0c397adf7c27fefd8403f923d5feeec]: Commencement: Art. 9 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-5f5e141aa20dc5ab200187a202285cfd]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2021/90/article/9) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-60b06de653fe7db5a5db80692571830e]: Commencement: Art. 10 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-2172fd161798be1e535825301b1dcf3d]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2021/90/article/10) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-72a6c537bc8268ff9a651b371d1ed1dd]: Commencement: Art. 11 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-b7826493bb9a523e6414cf9e3bcef4d9]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2021/90/article/11) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-63b33d574cd95669b808144772a1755a]: Commencement: Art. 12 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-4d69e1fbc8d1b8899bee3edfb3be44ad]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2021/90/article/12) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-ba278df3af90a50c8bd5bbb0594ce0ae]: Commencement: Art. 13 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-9218251fda6b21b1f50197acb719c9a8]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2021/90/article/13) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-deba5e272d65ea3ebde6aaa47608b00b]: Commencement: Art. 14 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-b29c0c34847df663c1f492c05e7fa8e8]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2021/90/article/14) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-034d5a6c692679d3bcfe9bb18bf1d979]: Commencement: Art. 15 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-d529bfae6dbcab013d6d979a85cd465f]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2021/90/article/15) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^f00022]: Footnote: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^key-30a6a648a5b806684ed25bad31bcfbb6]: Commencement: Art. 16 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-9d57f9edb670d84014538a104df161cb]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2021/90/article/16) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-40269c512e79b5114f125992e4889424]: Commencement: Art. 17 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-4efd2630cf6d297a0b6ed53fc07a6bf8]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2021/90/article/17) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+
+[^key-af5070b8b449536725274ce9e5a56466]: Commencement: Art. 18 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+
+[^key-0ba4008d3eb1e35ddcbad574d9285ea5]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2021/90/article/18) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)

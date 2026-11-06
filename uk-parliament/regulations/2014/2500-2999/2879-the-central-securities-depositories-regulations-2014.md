@@ -1,0 +1,870 @@
+---
+title: The Central Securities Depositories Regulations 2014
+id: uksi/2014/2879
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-10-29'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/2879
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2879/pdfs/uksiem_20142879_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2879/pdfs/uksi_20142879_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2879/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Central Securities Depositories Regulations 2014
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 2879
+
+Financial Services And Markets
+
+The Central Securities Depositories Regulations 2014[^key-4d6a14bfce932148e556f20a69e652f7]
+
+Made
+
+29th October 2014
+
+Laid before Parliament
+
+30th October 2014
+
+Coming into force
+
+21st November 2014
+
+The Treasury are designated [^c22236621] for the purposes of section 2(2) of the European Communities Act 1972 [^c22236631] in relation to financial services.
+
+The Treasury in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 make the following Regulations:[^key-0fd6b880aa1f810f6343973b235c87ef]
+
+## PART 1 — Citation, commencement and interpretation[^key-907c56942cbb15019cb5b06a891622de]
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Central Securities Depositories Regulations 2014 and come into force on 21st November 2014.
+
+(2) In these Regulations—
+
+- “**the Act**” means the Financial Services and Markets Act 2000 [^c22236641];
+- “**the Bank**” means the Bank of England;
+- “**banking-type ancillary services**” means the services set out in Section C of the Annex to the CSD regulation;
+- “credit institution” means credit institution (defined in point (1) of Article 4(1) of Regulation ([^key-d81de3054702f6a30e55bebffd8f2683]EU) 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms) authorised pursuant to Part 4A of the Act[^key-5eddf34c2630d741ab5baf4e0739a94e];
+- “**CSD regulation**” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories [^c22236651];
+- [^key-057c2b0db7cd395d6a0b04d48c5952ca]...
+- “**recognised body**” has the meaning given in section 313(1) of the Act.
+- “third country CSD” has the meaning given in section 285 of the Act.
+
+(3) Unless defined in these Regulations, any expression[^key-a2abcb0e5e23271bd824e7f52aa2b259] used in these Regulations which is defined for the purposes of the CSD regulation has the meaning given by the CSD regulation, and any other expression used in these Regulations which is defined for the purposes of the Act has the meaning given by the Act.
+
+## PART 2 — Designation of competent authorities[^key-66f9eb5309309352a608807989b3c38d]
+
+### 2. Designation of competent authorities
+
+(1) The FCA [^c22236661] is the competent authority responsible for—
+
+- (a) the supervision of trading venues [^c22236671] for the purposes of the CSD regulation;
+- (b) the functions referred to in Article 4(3) of the CSD regulation.
+- (c)[^key-834864db43bbf54a8f6fabb15327e8e7] the supervision of investment firms authorised pursuant to Part 4A of the Act[^key-b2b0c0099f6c1cd422eb79cbda7a9fb1] for the purposes of the CSD regulation;
+- (d) the supervision of participants in a securities settlement system for the purposes of the CSD regulation, other than recognised clearing houses or recognised CSDs.
+
+(2) The Bank is the competent authority responsible for—
+
+- (za)[^key-8c97c7b7f1003d2f0dc20ca639160123] the functions referred to in Article 9(1) of the CSD regulation;
+- (a) authorisation and supervision of CSDs [^c22236681] established in the United Kingdom [^key-02fdbecb389bad03876fda30b4e4b2a8]..., and all other competent authority functions under that regulation in relation to CSDs[^key-94f94b66d918be7494e9ae421d2cbb35] except as provided in paragraph (4);
+- (aa)[^key-d922387711037c39dde2eae779950818] [^key-f48029b88926b6efd2e5fb517c21e51d]... competent authority functions under the CSD regulation in relation to [^key-0a4b1120dbb7999a45203a9af7b46c3c]... third country CSDs;
+- (b) oversight of securities settlement systems [^c22236691] in the United Kingdom referred to in [^key-a4bcb4508594de62c5c8f588fa72bab3]... the CSD Regulation; [^key-5417b7ab4a4f2ce2c1bf2e0e82ff34b4]...
+- (c) authorisation of a CSD under Article 54 of the CSD regulation for the provision of banking-type ancillary services—
+  - (i) by a CSD under paragraph (2)(a) of that Article, or
+  - (ii) by a designated credit institution under paragraph (2)(b) of that Article; and[^key-34ff4434116ae7978f1a4bd7ee2084cf]
+- (d) the supervision of CCPs for the purposes of the CSD regulation.
+
+(3)[^key-15f65d9548fc4f96e5d5b96b7b983b30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The PRA [^c22236711] is the competent authority responsible for—
+
+- (a) authorisation of a CSD referred to in Article 54(2)(a) of the CSD regulation as a credit institution; and
+- (b) supervision in accordance with Article 60 of the CSD regulation—
+  - (i) of the provision of banking-type ancillary services authorised under Article 54 of the CSD regulation by a CSD referred to in Article 54(2)(a) of that Regulation and a credit institution referred to in Article 54(2)(b) of that Regulation, and
+  - (ii) of compliance with the prudential requirements referred to in Article 59 of the CSD regulation by a CSD referred to in Article 54(2)(a) of that Regulation and a credit institution referred to in Article 54(2)(b) of that Regulation.
+
+## PART 3 — Powers of the FCA[^key-be572c3cb76c68ef4b8d8e0675191156]
+
+### 3. Power of FCA to require information from a person who is not authorised
+
+(1)[^key-f27de8e8d92fde8d86ed5fbd7ac62ac8] In this regulation and in regulation 4—
+
+- “non-authorised counterparty” means a person, other than an authorised person or a recognised body, who is a party to a financial collateral arrangement referred to in the second sub-paragraph of Article 3(2) of the CSD regulation;
+- “participant” means a participant in a securities settlement system as defined in Article 2(1)(19) of the CSD regulation, other than—
+  - (a) an authorised person, or
+  - (b) a recognised body.
+
+(2) Paragraph (3) applies where—
+
+- (a) a non-authorised counterparty is subject to an obligation under the CSD regulation; or
+- (b) it is necessary for the FCA to determine whether a person is a non-authorised counterparty.
+
+(3) The FCA may, by notice in writing, require the counterparty or person—
+
+- (a) to provide specified information or information of a specified description; or
+- (b) to produce specified documents or documents of a specified description,
+
+so that it can verify whether the non-authorised counterparty has complied with the CSD regulation or whether the person is a non-authorised counterparty.
+
+(3A)[^key-5b027e4536ab171469171d7b5226e2af] Paragraph (3B) applies where a participant is subject to an obligation under Article 38(5) and (6) of the CSD regulation.
+
+(3B) The FCA may, by notice in writing, require the participant—
+
+- (a) to provide specified information or information of a specified description; or
+- (b) to provide specified documents or documents of a specified description,
+
+so that it can verify whether the participant has complied with Article 38(5) and (6) of the CSD regulation.
+
+(4) The information or documents must be provided or produced—
+
+- (a) before the end of such reasonable period as may be specified;
+- (b) at such place as may be specified.
+
+(5) This regulation applies only to information and documents reasonably required in connection with the exercise by the FCA of its functions under the CSD regulation.
+
+(6) The FCA may require any information provided under this regulation to be provided in such a form as it may reasonably require.
+
+(7) The FCA may require—
+
+- (a) any information provided, whether in a document or otherwise, to be verified in such a manner, or
+- (b) any document produced to be authenticated in such a manner,
+
+as it may reasonably require.
+
+(8) A requirement imposed under this regulation is a “**relevant requirement**” for the purposes of sections 380 [^c22236731] (injunctions) and 382 [^c22236741] (restitution orders) of the Act.
+
+(9) In this regulation, “**specified**” means specified in the notice.
+
+### 4. Penalties and statements
+
+(1) If the FCA considers that—
+
+- (a) a non-authorised counterparty , participant[^key-0fc042ff023cb4bb90846b3fab0ef8fa] or any other person has contravened a relevant requirement imposed on it; or
+- (b) a non-authorised counterparty or participant[^key-8f10a37b76d7981e6908ab0fb4694e38] has contravened a requirement imposed by or under the CSD regulation,
+
+the FCA may publish a statement to that effect or impose on it a penalty, in respect of the contravention, of such amount as the FCA considers appropriate.
+
+(2) If the FCA considers that a non-authorised counterparty , participant[^key-ad1b5699efabdbf71ddb32e1452e8c35] or any other person has in purported compliance with a relevant requirement knowingly or recklessly given the FCA information which is false or misleading in a material particular, the FCA may publish a statement to that effect or impose on it a penalty of such amount as it considers appropriate.
+
+(3) Where the FCA has published a statement or imposed a penalty under paragraph (1) or (2), it must comply with the requirements of Article 62 of the CSD regulation.
+
+(4) A penalty under paragraph (1) or (2) is payable to the FCA.
+
+(5) The FCA must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under this regulation.
+
+(6) The Treasury may give directions to the FCA as to how the FCA is to comply with its duty under paragraph (5).
+
+(7) The directions may in particular—
+
+- (a) specify the time when any payment is required to be made to the Treasury, or
+- (b) require the FCA to provide the Treasury at specified times with information relating to penalties that the FCA has imposed under this regulation.
+
+(8) The Treasury must pay into the Consolidated Fund any sums received by them under this regulation.
+
+(9) In this regulation, a “**relevant requirement**” means a requirement imposed under regulation 3.
+
+### 5. Procedure in relation to regulation 4
+
+(1) If the FCA proposes to take action against a person under regulation 4, it must give the person concerned a warning notice.
+
+(2) A warning notice about a proposal to impose a penalty must state the amount of the penalty.
+
+(3) A warning notice about a proposal to publish a statement must set out the terms of the proposed statement.
+
+(4) If, having considered any representations made in response to the warning notice, the FCA decides to take action against a person under regulation 4, it must without delay give the person concerned a decision notice.
+
+(5) A decision notice about the imposition of a penalty must state the amount of the penalty.
+
+(6) A decision notice about the publication of a statement must set out the terms of the statement.
+
+(7) If the FCA decides to take action against a person under regulation 4, the person may refer the matter to the Tribunal [^c22236751].
+
+(8) Sections 210 [^c22236761] (statements of policy) and 211 [^c22236771] (statements of policy: procedure) of the Act apply in respect of the imposition of penalties under regulation 4 and the amount of such penalties as they apply in respect of the imposition of penalties under Part 14 of the Act (disciplinary measures) and the amount of penalties under that Part.
+
+(9) After a statement under regulation 4 is published, the FCA must send a copy of it to the person concerned and to any person to whom a copy of the decision notice was given under section 393(4) [^c22236781] of the Act (as applied by paragraph (10)).
+
+(10) Sections 387(1), (2) and (3) [^c22236791] (warning notices), 388 [^c22236801] (decision notices), 389 [^c22236811] (notices of discontinuance), 390 [^c22236821] (final notices), 393 [^c22236831] (third party rights) and 394 [^c22236841] (access to FCA or PRA material) of the Act apply in relation to a warning notice or decision notice under this regulation.
+
+(11) Section 391 of the Act [^c22236851] (publication) applies in relation to a warning notice, decision notice or final notice under this regulation subject to Article 62 of the CSD regulation.
+
+(12) Part 9 of the Act (hearings and appeals) applies to references to the Tribunal under this regulation as it applies to references to the Tribunal under the Act as if a decision to publish a statement or impose a penalty under regulation 4 was a “**disciplinary reference**” for the purposes of section 133 of the Act [^c22236861].
+
+## PART 4 — Powers of the Bank[^key-1b9eec585cf2ddfc23e8b09dd22f6634]
+
+### 5A. Power of the Bank to require information
+
+(1) This regulation applies where it is necessary for the Bank to determine whether—
+
+- (a) a settlement internaliser has complied with the first sub-paragraph of Article 9(1) of the CSD regulation or regulation 5N; or
+- (b) a person is a settlement internaliser.
+
+(2) The Bank may, by giving notice in writing, require a person—
+
+- (a) to provide specified information or information of a specified description, or
+- (b) to provide specified documents or documents of a specified description,
+
+so that it can verify whether the settlement internaliser has complied with the first sub-paragraph of Article 9(1) of the CSD regulation or regulation 5N, or whether the person is a settlement internaliser.
+
+(3) The information or documents must be provided or produced—
+
+- (a) before the end of such reasonable period as may be specified; and
+- (b) at such place as may be specified.
+
+(4) This regulation applies only to information and documents reasonably required in connection with the exercise by the Bank of its functions under the CSD regulation.
+
+(5) The Bank may require any information provided under this regulation to be provided in such a form as it may reasonably require.
+
+(6) The Bank may require—
+
+- (a) any information provided, whether in a document or otherwise, to be verified in such a manner, or
+- (b) any document produced to be authenticated in such a manner,
+
+as it may reasonably require.
+
+(7) A requirement imposed under this regulation is a relevant requirement for the purposes of sections 380 (injunctions) and 382 (restitution orders) of the Act as applied to the Bank by paragraphs 26 and 27 of Schedule 17A to the Act.
+
+(8) In this regulation, “specified” means specified in the notice.
+
+### 5B. Penalties and statements
+
+(1) If the Bank considers that—
+
+- (a) a person has contravened a relevant requirement imposed on it;
+- (b) a settlement internaliser has contravened a requirement imposed by or under the CSD regulation; or
+- (c) a settlement internaliser has contravened regulation 5N,
+
+the Bank may publish a statement to that effect or impose on it a penalty, in respect of the contravention, of such amount as the Bank considers appropriate.
+
+(2) If the Bank considers that a person has in purported compliance with a relevant requirement knowingly or recklessly given the Bank information which is false or misleading in a material particular, the Bank may publish a statement to that effect or impose upon the person a penalty of such amount as it considers appropriate.
+
+(3) Where the Bank has published a statement or imposed a penalty under paragraph (1) or (2), it must comply with the requirements of Article 62 of the CSD regulation.
+
+(4) A penalty under paragraph (1) or (2) is payable to the Bank.
+
+(5) The Bank must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under this regulation.
+
+(6) The Treasury may give directions to the Bank as to how the Bank is to comply with its duty under paragraph (5).
+
+(7) The directions may in particular—
+
+- (a) specify the time when any payment is required to be made to the Treasury, or
+- (b) require the Bank to provide the Treasury at specified times with information relating to penalties that the Bank has imposed under this regulation.
+
+(8) The Treasury must pay into the Consolidated Fund any sums received by them under this regulation.
+
+(9) In this regulation, a “relevant requirement” means a requirement imposed under regulation 5A.
+
+### 5C. Procedure in relation to regulation 5B
+
+(1) If the Bank proposes to take action against a person under regulation 5B, it must give the person concerned a warning notice.
+
+(2) A warning notice about a proposal to impose a penalty must state the amount of the penalty.
+
+(3) A warning notice about a proposal to publish a statement must set out the terms of the proposed statement.
+
+(4) If, having considered any representations made in response to the warning notice, the Bank decides to take action against a person under regulation 5B, it must without delay give the person concerned a decision notice.
+
+(5) A decision notice about the imposition of a penalty must state the amount of the penalty.
+
+(6) A decision notice about the publication of a statement must set out the terms of the statement.
+
+(7) If the Bank decides to take action against a person under regulation 5B, the person may refer the matter to the Tribunal.
+
+(8) Sections 312J (statement of policy) and 312K (statement of policy: procedure) of the Act apply in respect of the imposition of penalties under regulation 5B and the amount of such penalties as they apply in respect of the imposition of penalties under section 312F of the Act.
+
+(9) After a statement under regulation 5B is published, the Bank must send a copy of it to the person concerned and to any person to whom a copy of the decision notice was given under section 393(4) of the Act (applied by paragraph (10)).
+
+(10) Sections 387(1), (2) and (3) (warning notices), 388 (decision notices), 389 (notices of discontinuance), 390 (final notices), 393 (third party rights) and 394 (access to FCA or PRA material) of the Act apply in relation to a warning notice or decision notice given by the Bank under this regulation as if—
+
+- (a) references to the regulator or the regulator concerned were references to the Bank;
+- (b) the reference in section 388(1)(e)(i) to “this Act” were a reference to these Regulations.
+
+(11) Section 391 of the Act (publication) applies in relation to a warning notice or decision notice under this regulation and in relation to a notice of discontinuance and a final notice under section 389 or 390 of the Act as applied by paragraph (10), but as if—
+
+- (a) references to the regulator and the FCA were references to the Bank;
+- (b) a warning notice under this regulation were treated as falling within subsection (1ZB);
+- (c) in subsection (8A)—
+  - (i) the reference to the Act were to these Regulations;
+  - (ii) the reference to a requirement included a requirement under regulation 5A.
+
+(12) Part 9 of the Act (hearings and appeals) applies to references to the Tribunal under this regulation as it applies to references to the Tribunal under the Act, as if—
+
+- (a) a reference were a “disciplinary reference” for the purposes of section 133 of the Act if it is in respect of a decision to publish a statement or impose a penalty under regulation 5B;
+- (b) section 133(1)(a) and (c) of the Act did not apply.
+
+### 5D. Power of the Bank to require a report by a skilled person
+
+(1) This regulation applies where the Bank has required or could require a person on whom it could impose a requirement under regulation 5A(2) (“the person concerned”) to provide information or to produce documents under regulation 5A so that the Bank can verify whether—
+
+- (a) a settlement internaliser has complied with Article 9(1) of the CSD regulation, or
+- (b) a person is a settlement internaliser,
+
+(“the matter concerned”).
+
+(2) The Bank may appoint a person to provide the Bank with a report on the matter concerned.
+
+(3) The Bank must give notice of an appointment under paragraph (2) to the person concerned.
+
+(4) The person appointed to make a report must be a person appearing to the Bank to have the skills necessary to make a report on the matter concerned.
+
+(5) It is the duty of—
+
+- (a) the person concerned, and
+- (b) any person who is providing (or who has at any time provided) services to the person concerned in relation to the matter concerned,
+
+to give the person appointed to prepare a report all such assistance as the appointed person may reasonably require.
+
+(6) The obligation imposed by paragraph (5) is enforceable, on the application of the Bank, by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988.
+
+### 5E. Power of the Bank to appoint a skilled person to collect and update information
+
+(1) This regulation applies if the Bank considers that a settlement internaliser has failed to comply with the first sub-paragraph of Article 9(1) of the CSD regulation.
+
+(2) The Bank may appoint a skilled person to collect or update the information required to be submitted under that sub-paragraph.
+
+(3) References in this regulation to a skilled person are to a person appearing to the Bank to have the skills necessary to collect or update the information in question.
+
+(4) The Bank must give notice of an appointment under paragraph (2) to the settlement internaliser.
+
+(5) The skilled person may require any person to provide all such assistance as the skilled person may reasonably require to collect or update the information in question.
+
+(6) A requirement imposed under paragraph (5) is enforceable, on the application of the Bank, by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988.
+
+(7) A contractual or other requirement imposed on a person (“P”) to keep any information in confidence does not apply if—
+
+- (a) the information is or may be relevant to anything required to be done as a result of this regulation,
+- (b) a settlement internaliser or a skilled person requests or requires P to provide the information for the purposes of securing that those things are done, and
+- (c) the Bank has approved the making of the request or the imposition of the requirement before it is made or imposed.
+
+(8) A settlement internaliser may provide information (whether received under paragraph (7) or otherwise) that would otherwise be subject to a contractual or other requirement to keep it in confidence if it is provided for the purposes of anything required to be done as a result of this regulation.
+
+## PART 5 — Control over a recognised CSD
+
+### 5F. Interpretation of Part 5
+
+In Part 5—
+
+- “acquisition” means a transfer of ownership rights which gives rise to a change in the identity of the persons exercising control over the operation of a recognised CSD;
+- “Article 27 notice” means a notification by a person under Article 27(7) of the CSD regulation of a proposed acquisition;
+- “assessment period” means the period of 60 working days referred to in Article 27(8) of the CSD regulation;
+- “control” means the relationship between two undertakings as described in section 1162 of, and Schedule 7 to, the Companies Act 2006
+- “proposed acquisition” means a decision to transfer ownership rights which gives rise to a change in the identity of the persons exercising control over the operation of a recognised CSD;
+- “restriction notice” has the meaning given by regulation 5I;
+- “shares” has the meaning given by section 422 of the Act (controller), but section 422A of the Act (disregarded holdings) does not apply;
+- “voting power” has the meaning given by section 422 of the Act;
+- “working day” means a day other than—
+  - (a) Saturday or Sunday,
+  - (b) Christmas Day or Good Friday, or
+  - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
+
+### 5G. Powers of Bank in relation to proposed acquisition
+
+(1) The Bank may before the end of a period of 14 working days starting with the day on which it receives an Article 27 notice, by notice in writing, require the person who gave the Article 27 notice—
+
+- (a) to provide specified information or information of a specified description; or
+- (b) to provide specified documents or documents of a specified description.
+
+(2) Subsection (1) only applies to information or documents which the Bank reasonably requires in order to decide whether there are objective and demonstrable grounds for believing that a proposed acquisition would pose a threat to the sound and prudent management of the recognised CSD or to the ability of the recognised CSD to comply with the CSD regulation.
+
+(3) The information or documents must be provided or produced—
+
+- (a) before the end of such period as may be specified; and
+- (b) at such place as may be specified.
+
+(4) The Bank may require any information provided under this regulation to be provided in such a form as it may reasonably require.
+
+(5) The Bank may require—
+
+- (a) any information provided, whether in a document or otherwise, to be verified in such a manner, or
+- (b) any document produced to be authenticated in such a manner,
+
+as it may reasonably require.
+
+(6) In this regulation, “specified” means specified in the notice.
+
+(7) For the purposes of Article 27(8) of the CSD regulation, the information referred to in Article 27(7) of that regulation is not received until the Bank receives all the information and documents required under this regulation, and where the Bank has imposed a requirement under paragraph (4) or (5), that requirement has been complied with.
+
+### 5H. Procedure in relation to proposed acquisition
+
+(1) If the Bank gives a person (“P”) notice of its decision under Article 27(8) of the CSD regulation that it opposes a proposed acquisition, P may refer the Bank’s decision to the Tribunal.
+
+(2) The notice under Article 27(8) of the CSD regulation must—
+
+- (a) give reasons for the decision;
+- (b) inform P that P may make representations to the Bank within such period as may be specified in the notice (whether or not P has referred the matter to the Tribunal); and
+- (c) inform P of P’s right to refer the matter to the Tribunal, and give an indication of the procedure on such a reference.
+
+(3) The Bank may extend the period allowed under the notice under Article 27(8) of the CSD regulation for making representations.
+
+(4) If, having considered any representations made by P, the Bank decides to rescind the notice under Article 27(8) of the CSD regulation, it must give P written notice.
+
+(5) If, having considered any representations made by P, the Bank decides not to rescind the notice under Article 27(8) of the CSD regulation, it must give P written notice which must comply with paragraph (2)(c).
+
+(6) Part 9 of the Act (hearings and appeals) applies to references to the Tribunal under this regulation as it applies to references to the Tribunal under the Act.
+
+### 5I. Restriction notices
+
+(1) The Bank may give notice in writing (a “restriction notice”) to a person (“P”) in the following circumstances.
+
+(2) The circumstances are that—
+
+- (a) P has taken a decision in relation to which P is required to give the Bank an Article 27 notice; and
+- (b) P has made the acquisition—
+  - (i) without giving the Article 27 notice,
+  - (ii) before the expiry date of the assessment period (unless the Bank has approved the acquisition), or
+  - (iii) in contravention of the Bank’s decision under Article 27(8) of the CSD regulation.
+
+(3) In a restriction notice, the Bank may direct that shares or voting power to which the notice relates are, until further notice, subject to one or more of the following restrictions—
+
+- (a) except by court order, an agreement to transfer or a transfer of any such shares or voting power or, in the case of unissued shares, any agreement to transfer or transfer of the right to be issued with them, is void;
+- (b) no voting power is to be exercisable;
+- (c) no further shares are to be issued in pursuance of any right of the holder of any such shares or voting power or in pursuance of any offer made to their holder;
+- (d) except in a liquidation, no payment is to be made of any sums due from the body corporate on any such shares, whether in respect of capital or otherwise.
+
+(4) A restriction notice takes effect—
+
+- (a) immediately; or
+- (b) on such date as may be specified in the notice.
+
+(5) A restriction notice does not extinguish rights which would be enjoyable but for the notice.
+
+(6) A copy of the restriction notice must be given to—
+
+- (a) the recognised CSD in question; and
+- (b) in the case of shares or voting power held in a parent undertaking of a recognised CSD, the parent undertaking.
+
+(7) A person to whom the Bank gives a restriction notice may refer the matter to the Tribunal.
+
+(8) Part 9 of the Act (hearings and appeals) applies to references to the Tribunal under this regulation as it applies to references to the Tribunal under the Act.
+
+### 5J. Orders for sale of shares
+
+(1) The court may, on the application of the Bank, order the sale of shares or the disposition of voting power in the following circumstances.
+
+(2) The circumstances are that—
+
+- (a) a person (“P”) has taken a decision in relation to which P is required to give the Bank an Article 27 notice; and
+- (b) P has made the acquisition—
+  - (i) without giving the Article 27 notice,
+  - (ii) before the expiry date of the assessment period (unless the Bank has approved the acquisition), or
+  - (iii) in contravention of the Bank’s decision under Article 27(8) of the CSD regulation.
+
+(3) Where the court orders the sale of shares or disposition of voting power it may—
+
+- (a) if a restriction notice has been given in relation to the shares or voting power, order that the restrictions cease to apply; and
+- (b) make any further order.
+
+(4) Where the court makes an order under this regulation, it must take into account the level of holding that P would have been entitled to acquire, or to continue to hold, without contravening the Bank’s decision under Article 27(8) of the CSD regulation.
+
+(5) If shares are sold or voting power disposed of in pursuance of an order under this regulation, any proceeds, less the costs of the sale or disposition, must be paid into court for the benefit of the persons beneficially interested in them; and any such person may apply to the court for payment of the whole or a part of the proceeds.
+
+(6) The jurisdiction conferred by this regulation may be exercised by the High Court or in Scotland, the Court of Session.
+
+### 5K. Offences
+
+(1) A person who fails to comply with an obligation to notify the Bank under the Article 27(7) of the CSD regulation is guilty of an offence.
+
+(2) A person who gives an Article 27 notice to the Bank and makes the acquisition to which the notice relates before the expiry date of the assessment period is guilty of an offence unless the Bank has approved the acquisition.
+
+(3) A person who makes an acquisition in contravention of the Bank’s decision under Article 27(8) of the CSD regulation is guilty of an offence.
+
+(4) A person who provides information to the Bank which is false in a material particular is guilty of an offence.
+
+(5) A person guilty of an offence under paragraph (1), (2) or (4) is liable—
+
+- (a) in England and Wales, on summary conviction or on conviction on indictment to a fine; and
+- (b) in Scotland and Northern Ireland, on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to a fine.
+
+(6) A person guilty of an offence under paragraph (3) is liable—
+
+- (a) in England and Wales—
+  - (i) on summary conviction to a fine, or
+  - (ii) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both; and
+- (b) in Scotland and Northern Ireland—
+  - (i) on summary conviction to a fine not exceeding the statutory maximum, or
+  - (ii) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
+
+(7) It is a defence for a person charged with an offence under paragraph (1) to show the person had, at the time of the alleged offence, no knowledge of the act or circumstances by virtue of which the duty to notify the Bank arose.
+
+## PART 6 — References to the Tribunal
+
+### 5L. References to the Tribunal
+
+(1) Paragraph (2) applies where the Bank or FCA takes a decision—
+
+- (a) to refuse an application under Article 19(1) of the CSD regulation;
+- (b) to require a recognised CSD to discontinue a CSD link in accordance with Article 19(7) of that regulation;
+- (c) to withdraw authorisation for a service, activity or financial instrument in accordance with Article 20(4) of that regulation;
+- (d)[^key-65a190361542fbd8b8bbf59ef6d5eb5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) to refuse an application for authorisation under Article 30(4) of that regulation (outsourcing);
+- (f) in relation to a complaint under Article 33(3) of that regulation (requirements for participation);
+- (g) to refuse an application for authorisation under Article 48(2) of that regulation (CSD links);
+- (h) in relation to a complaint under Article 49(4) of that regulation (freedom to issue in a CSD or third-country CSD[^key-678a13485a301cd971e3dcac71589685]);
+- (i) in relation to a complaint under Article 52(2) of that regulation (procedure for CSD links);
+- (j) in relation to a complaint under Article 53(3) of that regulation (access between a CSD or third-country CSD[^key-e4915ee42c40e69c2cb8f89a7cf23697] and another market infrastructure);
+- (k) to refuse an application by a CSD for authorisation to designate a credit institution or to provide banking-type ancillary services listed in or permitted under Section C of the Annex to that regulation under Article 55(3)[^key-588755511ab5723566c77ca6f736128b] of that regulation (procedure for granting and refusing authorisation to provide banking-type ancillary services);
+- (l) to refuse an application by a recognised CSD for an extension of banking-type ancillary services listed in or permitted under Section C of the Annex to that regulation (including services to be provided by a designated credit institution) under Article 55(3)[^key-9464fbdff096be3ab8035a6782754571] of that regulation as applied by Article 56(2) of that regulation (extension of banking-type ancillary services);
+- (m) to withdraw, wholly or partly, a recognised CSD’s authorisation to designate a credit institution or to provide banking-type ancillary services listed in or permitted under Section C of the Annex to the CSD regulation under Article 57 of that regulation (withdrawal of authorisation).
+
+(2) The following persons may refer the matter to the Tribunal—
+
+- (a) in the case of any decision mentioned in paragraph (1), the CSD to which the decision relates,
+- (b) in the case of a decision mentioned in paragraph (1)(f), (h) or (i), the complainant, and
+- (c) in the case of a decision mentioned in paragraph (1)(j), the CCP and the trading venue.
+
+(3) Part 9 of the Act (hearings and appeals) applies to references to the Tribunal under this regulation as it applies to references to the Tribunal under the Act.
+
+## PART 7 — Access to trading venues
+
+### 5M. Access to trading venues
+
+(1) Paragraph (2) applies where the FCA has decided in respect of a complaint made to it under Article 53(3) of the CSD regulation that a trading venue which is not a recognised body has failed, unjustifiably, to grant the access sought by the complainant.
+
+(2) The FCA may direct the trading venue to take specified steps for the purpose of securing the trading venue’s compliance with the FCA’s determination of the complaint.
+
+(3) A direction under this regulation is enforceable, on the application of the FCA, by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988.
+
+(4) Section 298 of the Act applies in relation to a direction under this regulation as it applies in relation to a direction under section 296 of the Act given to a recognised CSD.
+
+## PART 8 — Reporting of infringements
+
+### 5N. Reporting of infringements
+
+(1) Settlement internalisers must have in place appropriate procedures for their employees to report actual or potential infringements of the CSD regulation and any assimilated[^key-f43f4d4c1e0a9b58be165bf372127a41][^key-bf0d96cbdddf8114dbf29c238a936637] law regulation made under that regulation internally through a specific, independent and autonomous channel.
+
+(2) The protections set out in points (b), (c) and (d) of Article 65(2) of that regulation (reporting of infringements) must be applied in relation to those procedures.
+
+## PART 8A — Fees[^key-46d0faec97c63efa917b7c011fc35dd4]
+
+### 5O. Fees
+
+(1) The Bank may, in connection with the discharge of any of its qualifying functions, require third country CSDs to pay fees to the Bank.
+
+(2) The “qualifying functions” of the Bank are—
+
+- (a) its functions under or as a result of—
+  - (i) the CSD regulation,
+  - (ii) any EU regulation, originally made under the CSD regulation, which is assimilated direct[^key-5561dcff269bf364f2d5318b187a3a48] legislation, or
+  - (iii) any subordinate legislation (within the meaning of the Interpretation Act 1978) made under the CSD regulation on or after IP completion day,
+
+  so far as they are its functions by virtue of regulations made under section 8 of the European Union (Withdrawal) Act 2018; and
+- (b) any other functions it has by virtue of regulations made under section 8 of the European Union (Withdrawal) Act 2018 in connection with the CSD regulation.
+
+(3) The power of the Bank to set fees includes power to set fees for the purpose of meeting expenses incurred by it or the FCA—
+
+- (a) in preparation for the exercise by the Bank of the qualifying functions specified in paragraph (2), or
+- (b) for the purpose of facilitating the exercise by the Bank of those functions or otherwise in connection with their exercise by it.
+
+(4) It is irrelevant when the expenses were incurred.
+
+(5) Any fee which is owed to the Bank under this regulation may be recovered as a debt due to the Bank.
+
+## PART 9 — Consequential amendments
+
+### 6. Amendments to the Financial Services and Markets Act 2000
+
+(1) The Act is amended as follows.
+
+(2) In section 391 (publication of notices), after subsection (8) insert—
+
+> (8A) Where a decision notice or final notice relates to any decision or action under a provision of this Act in relation to the contravention of a requirement imposed by the CSD regulation or any directly applicable regulation made under the CSD regulation, this section has effect subject to Article 62 of the CSD regulation (publication of decisions).
+
+.
+
+(3) In section 417 (definitions), in subsection (1) at the appropriate place insert—
+
+> “**the CSD regulation**” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories;
+
+.
+
+(4) In Schedule 17A [^c22236871] (further provision in relation to the exercise of Part 18 functions by the Bank of England)—
+
+- (a) in paragraph 11(2)(d) after “the EMIR regulation” insert “ , the CSD regulation or any directly applicable regulation made under the CSD regulation ”;
+- (b) in paragraph 23 after “the EMIR regulation” insert “ , the CSD regulation or any directly applicable regulation made under the CSD regulation ”.
+
+### 7. Amendments to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001
+
+In Schedule 1 to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 [^c22236881] (disclosure of confidential information whether or not subject to single market restrictions), in Part 1, in the entry relating to the Bank of England, the European Central Bank and other central banks, for “and clearing and settlement systems” substitute “ , clearing and settlement systems and central securities depositories within the meaning of the CSD regulation ”.
+
+### 8. Amendment to the Payment to Treasury of Penalties (Enforcement Costs) Order 2013
+
+In article 2 of the Payment to Treasury of Penalties (Enforcement Costs) Order 2013 [^c22236891] (enforcement powers), after paragraph (k) insert—
+
+> - (l) regulation 4 of the Central Securities Depositories Regulations 2014.
+
+.
+
+### 9. Amendments to the Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013
+
+(1) The Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013 [^c22236901] is amended as follows.
+
+(2) In article 2 (qualifying EU provisions: general)—
+
+- (a) after paragraph (2)(g) insert—
+
+  > - (h) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  ;
+- (b) after paragraph (6)(c) insert—
+
+  > - (d) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  ;
+- (c) after paragraph (8)(d) insert—
+
+  > - (e) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  .
+
+(3) In article 3 (qualifying EU provisions: disciplinary measures)—
+
+- (a) after paragraph (2)(g) insert—
+
+  > - (h) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  ;
+- (b) after paragraph (3)(e) insert—
+
+  > - (f) in relation to a contravention of a requirement imposed by the CSD regulation or any directly applicable regulation made under the CSD regulation—
+  >   - (i) if the authorised person concerned is a PRA-authorised person, either the PRA or the FCA;
+  >   - (ii) in any other case, the FCA.
+
+  .
+
+(4) In article 4 (qualifying EU provisions etc.: recognised investment exchanges and clearing houses)—
+
+- (a) after paragraph (3)(d) insert—
+
+  > - (e) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  ;
+- (b) after paragraph (5)(d) insert—
+
+  > - (e) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  ;
+- (c) after paragraph (7)(c) insert—
+
+  > - (d) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  ;
+- (d) after paragraph (9)(b) insert—
+
+  > - (c) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  .
+
+(5) In article 5 (qualifying EU provisions: injunctions and restitution)—
+
+- (a) after paragraph (2)(g) insert—
+
+  > - (h) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  ;
+- (b) after paragraph (5)(f) insert—
+
+  > - (g) in relation to a contravention of the CSD regulation or any directly applicable regulation made under the CSD regulation—
+  >   - (i) if the authorised person concerned is a PRA-authorised person, the PRA or the FCA;
+  >   - (ii) in any other case, the FCA.
+
+  ;
+- (c) after paragraph (6)(b) insert—
+
+  > - (c) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  .
+
+(6) In article 6 (qualifying EU provisions: fees)—
+
+- (a) after paragraph (2)(i) insert—
+
+  > - (j) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  ;
+- (b) after paragraph (4)(c) insert—
+
+  > - (d) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  ;
+- (c) after paragraph (6)(b) insert—
+
+  > - (c) the CSD regulation and any directly applicable regulation made under that Regulation.
+
+  .
+
+## PART 10 — Review[^key-79cc6094627534908ea7fa3f8000ca01]
+
+### 10. Review[^key-4d6a14bfce932148e556f20a69e652f7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Gavin Barwell
+
+David Evennett
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement in part certain Articles of Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories (“CSDs”) (OJ No L257, 28.8.2014, p1) (“**the CSD regulation**”).
+
+Regulation 2 designates the Financial Conduct Authority (“FCA”) as the competent authority responsible for the supervision of trading venues (which include investment exchanges and multi-lateral trading facilities) and the functions referred to in Article 4(3) of the CSD regulation (supervision of requirement to record transactions in transferable securities in book entry form following a financial collateral arrangement). It designates the Bank of England (“**the Bank**”) as the competent authority responsible for matters including the authorisation and supervision of CSDs and oversight of securities settlement systems in the United Kingdom. The Prudential Regulation Authority (“PRA”) is designated as the competent authority responsible for matters including the supervision of banking-type ancillary services provided by a CSD or a credit institution designated for the purpose.
+
+Regulation 3 grants powers to the FCA to obtain information from persons who are not authorised or recognised under the Financial Services and Markets Act 2000 (“**the Act**”). Regulation 4 gives the FCA the power to impose penalties and publish statements of censure, in particular for contravening regulation 3. Regulation 5 sets out the procedure that the FCA must follow if it proposes to take action under regulation 4.
+
+Regulation 6 amends the Act to extend the Bank's disclosure of information, information gathering and investigatory powers to functions under the CSD regulation and to secure that provision for publication of notices is compatible with the CSD regulation. Regulation 7 amends Schedule 1 to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 (S.I. 2001/2188) to extend the purposes in connection with which information can be disclosed to the Bank, and the Bank can disclose information, to include its functions in connection with CSDs.
+
+Regulation 8 amends the Payment to Treasury of Penalties (Enforcement Costs) Order 2013 (S.I. 2013/418) to enable the FCA to deduct its enforcement costs under these Regulations from penalty receipts paid to the Treasury.
+
+Regulation 9 amends the Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013 (S.I. 2013/419) to apply provisions of the Act conferring functions on the FCA, PRA and Bank for purposes connected with the CSD regulation. These include sections 1A and 2A of the Act (the functions of the FCA and PRA); section 168 of the Act (power of the regulators to appoint an investigator); disciplinary measures imposed under Part 14 of the Act; powers to obtain injunctions or provide for restitution under Part 25 of the Act, and fee-raising powers of the FCA, PRA and Bank.
+
+Regulation 10 requires the Treasury to review the operation and effect of these Regulations and publish a report by 21st November 2019 and within every five years after that. Following a review it will fall to the Treasury to consider whether the Regulations should remain as they are, or be revoked or amended. A further instrument would be needed to revoke or amend the Regulations.
+
+An impact assessment has not been produced for this instrument as no significant impact on the costs of business or the voluntary sector is foreseen.
+
+## Annotations
+
+[^key-4d6a14bfce932148e556f20a69e652f7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2879) revoked (14.12.2023 for the revocation of reg. 10) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(vii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/vii)
+
+[^c22236621]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
+
+[^c22236631]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by
+
+    section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^key-0fd6b880aa1f810f6343973b235c87ef]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2879): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-907c56942cbb15019cb5b06a891622de]: Textual amendment: Pt. 1 heading inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c22236641]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-d81de3054702f6a30e55bebffd8f2683]: Textual amendment: Words in reg. 1(2) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/3/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-5eddf34c2630d741ab5baf4e0739a94e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/1/2) substituted (31.12.2020) by [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22236651]: Marginal citation: OJ No L257, 28.8.2014, p1.
+
+[^key-057c2b0db7cd395d6a0b04d48c5952ca]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/1/2) omitted (31.12.2020) by virtue of [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a2abcb0e5e23271bd824e7f52aa2b259]: Textual amendment: Words in reg. 1(3) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/3/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-66f9eb5309309352a608807989b3c38d]: Textual amendment: Pt. 2 heading inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/4) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c22236661]: Marginal citation: Defined in section 417(1) of the Act.
+
+[^c22236671]: Marginal citation: Defined in Article 2(1)(42) of the CSD regulation.
+
+[^key-834864db43bbf54a8f6fabb15327e8e7]: Textual amendment: Reg. 2(1)(c)(d) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/5/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-b2b0c0099f6c1cd422eb79cbda7a9fb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/2/1) substituted (31.12.2020) by [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8c97c7b7f1003d2f0dc20ca639160123]: Textual amendment: Reg. 2(2)(za) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(5)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/5/b/i) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c22236681]: Marginal citation: Defined in Article 2(1)(1) of the CSD regulation.
+
+[^key-02fdbecb389bad03876fda30b4e4b2a8]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/2/2/a) omitted (31.12.2020) by virtue of [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/3/b/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-94f94b66d918be7494e9ae421d2cbb35]: Textual amendment: Words in reg. 2(2)(a) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/5/b/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-d922387711037c39dde2eae779950818]: Textual amendment: Reg. 2(2)(aa) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/5/b/iii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-f48029b88926b6efd2e5fb517c21e51d]: Textual amendment: Words in [reg. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/2/2/aa) omitted (31.12.2020) by virtue of [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/3/b/ii/aa) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0a4b1120dbb7999a45203a9af7b46c3c]: Textual amendment: Words in [reg. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/2/2/aa) omitted (31.12.2020) by virtue of [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/3/b/ii/bb) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22236691]: Marginal citation: Defined in Article 2(1)(10) of the CSD regulation.
+
+[^key-a4bcb4508594de62c5c8f588fa72bab3]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/2/2/b) omitted (31.12.2020) by virtue of [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/3/b/iii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5417b7ab4a4f2ce2c1bf2e0e82ff34b4]: Textual amendment: Word in reg. 2(2)(b) omitted (28.11.2017) by virtue of [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/5/b/iv) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-34ff4434116ae7978f1a4bd7ee2084cf]: Textual amendment: Reg. 2(2)(d) and preceding word inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(5)(b)(v)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/5/b/v) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-15f65d9548fc4f96e5d5b96b7b983b30]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/2/3) omitted (31.12.2020) by virtue of [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/3/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22236711]: Marginal citation: Defined in section 417(1) of the Act.
+
+[^key-be572c3cb76c68ef4b8d8e0675191156]: Textual amendment: Pt. 3 heading inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/6) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-f27de8e8d92fde8d86ed5fbd7ac62ac8]: Textual amendment: Reg. 3(1) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/7/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-5b027e4536ab171469171d7b5226e2af]: Textual amendment: Reg. 3(3A)(3B) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/7/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c22236731]: Marginal citation: Section 380 was amended by paragraph 19 of Schedule 9 to the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [paragraph 3](https://www.legislation.gov.uk/ukpga/2012/21/paragraph/3) of Schedule 10 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^c22236741]: Marginal citation: Section 382 was amended by paragraph 21 of Schedule 9 to the Financial Services Act 2012, paragraph 3 of Schedule 10 the Financial Services (Banking Reform) Act 2013, and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^key-0fc042ff023cb4bb90846b3fab0ef8fa]: Textual amendment: Words in reg. 4(1)(a) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(8)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/8/a/i) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-8f10a37b76d7981e6908ab0fb4694e38]: Textual amendment: Words in reg. 4(1)(b) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/8/a/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-ad1b5699efabdbf71ddb32e1452e8c35]: Textual amendment: Words in reg. 4(2) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(8)(b)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/8/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c22236751]: Marginal citation: Defined in section 417(1) of the Act.
+
+[^c22236761]: Marginal citation: Section 210 was amended by paragraph 20 of Schedule 2 to the [Financial Services Act 2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28) and paragraph 17 of Schedule 9 to the Financial Services Act 2012.
+
+[^c22236771]: Marginal citation: Section 211 was amended by paragraph 18 of Schedule 9 to the Financial Services Act 2012.
+
+[^c22236781]: Marginal citation: Section 393(4) was amended by paragraph 32 of Schedule 9 to the Financial Services Act 2012.
+
+[^c22236791]: Marginal citation: Section 387(1), (2) and (3) was amended by paragraph 26 of Schedule 9 to the Financial Services Act 2012.
+
+[^c22236801]: Marginal citation: Section 388 was amended by paragraph 27 of Schedule 9 to the Financial Services Act 2012 and paragraph 13 of Schedule 3 to the Financial Services (Banking Reform) Act 2013.
+
+[^c22236811]: Marginal citation: Section 389 was amended by paragraph 28 of Schedule 9 to the Financial Services Act 2012.
+
+[^c22236821]: Marginal citation: Section 390 was amended by paragraph 29 of Schedule 9 to the Financial Services Act 2012 and [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
+
+[^c22236831]: Marginal citation: Section 393 was amended by paragraph 32 of Schedule 9 to the Financial Services Act 2012.
+
+[^c22236841]: Marginal citation: Section 394 was amended by paragraph 11 of Schedule 4 to the [Regulation of Investigatory Powers Act 2000 (c.23)](https://www.legislation.gov.uk/ukpga/2000/23) and paragraph 33 of Schedule 9 to the Financial Services Act 2012.
+
+[^c22236851]: Marginal citation: Section 391 was amended by sections 13 and 24 of the Financial Services Act 2010, section 24 of and paragraph 30 of Schedule 9 to the Financial Services Act 2012, section 4 of the Financial Services (Banking Reform) Act 2013 and [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916), 2013/1388 and 2013/3115.
+
+[^c22236861]: Marginal citation: Section 133 was substituted by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), and amended by section 23 of the Financial Services Act 2012, section 4 of the Financial Services (Banking Reform) Act 2013, paragraph 83 of Schedule 9 to the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
+
+[^key-1b9eec585cf2ddfc23e8b09dd22f6634]: Textual amendment: Pts. 4-8 and Pt. 9 heading inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/9) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-65a190361542fbd8b8bbf59ef6d5eb5b]: Textual amendment: [Reg. 5L(1)(d)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5L/1/d) omitted (31.12.2020) by virtue of [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/4/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-678a13485a301cd971e3dcac71589685]: Textual amendment: Words in [reg. 5L(1)(h)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5L/1/h) substituted (31.12.2020) by [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/4/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e4915ee42c40e69c2cb8f89a7cf23697]: Textual amendment: Words in [reg. 5L(1)(j)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5L/1/j) inserted (31.12.2020) by [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/4/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-588755511ab5723566c77ca6f736128b]: Textual amendment: Word in [reg. 5L(1)(k)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5L/1/k) substituted (31.12.2020) by [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(4)(d)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/4/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9464fbdff096be3ab8035a6782754571]: Textual amendment: Word in [reg. 5L(1)(l)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5L/1/l) substituted (31.12.2020) by [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(4)(d)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/4/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f43f4d4c1e0a9b58be165bf372127a41]: Textual amendment: Word in [reg. 5N(1)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5N/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 14(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/14/a)
+
+[^key-bf0d96cbdddf8114dbf29c238a936637]: Textual amendment: Words in [reg. 5N](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5N) substituted (31.12.2020) by [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/2/5) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-46d0faec97c63efa917b7c011fc35dd4]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/uksi/2014/2879/part/8A) inserted (31.12.2020) by [The Uncertificated Securities (Amendment and EU Exit) Regulations 2019 (S.I. 2019/679)](https://www.legislation.gov.uk/uksi/2019/679), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/3), [16(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/16/2) (with [regs. 10-12](https://www.legislation.gov.uk/uksi/2019/679/regulation/10)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5561dcff269bf364f2d5318b187a3a48]: Textual amendment: Words in [reg. 5O(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2879/regulation/5O/2/a/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 14(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/14/b)
+
+[^c22236871]: Marginal citation: Schedule 17A was inserted by Schedule 7 to the Financial Services Act 2012; paragraphs 11 and 23 were amended by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^c22236881]: Marginal citation: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188), amended by [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916) and 2013/472; there are other amendments but none is relevant.
+
+[^c22236891]: Marginal citation: [S.I. 2013/418](https://www.legislation.gov.uk/uksi/2013/418), amended by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^c22236901]: Marginal citation: [S.I. 2013/419](https://www.legislation.gov.uk/uksi/2013/419), amended by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^key-79cc6094627534908ea7fa3f8000ca01]: Textual amendment: Pt. 10 heading inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [5(10)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/5/10) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))

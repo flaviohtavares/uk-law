@@ -1,0 +1,620 @@
+---
+title: The Motor Vehicles (International Circulation) Order 1975
+id: uksi/1975/1208
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1975-07-23'
+text_date: '2025-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1975/1208
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1975/1208/pdfs/uksi_19751208_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/1208/data.pdf
+pending_changes: 15
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Motor Vehicles (International Circulation) Order 1975
+
+> **Warning: changes not yet applied to this text (15).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/1975/1208
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1975 No. 1208
+
+ROAD TRAFFIC
+
+The Motor Vehicles (International Circulation) Order 1975
+
+Laid before Parliament in draft
+
+Made
+
+23rd July 1975
+
+Coming into Operation
+
+2nd August 1975
+
+At the Court at Buckingham Palace, the 23rd day of July 1975
+
+Present,
+
+The Queen's Most Excellent Majesty in Council
+
+Whereas a draft of this Order has, in pursuance of section 1(5) of the Motor Vehicles (International Circulation) Act 1952, been laid before Parliament and approved by resolution of each House of Parliament:
+
+Now, therefore, Her Majesty, in pursuance of section 1(1) and (4) of the Motor Vehicles (International Circulation) Act 1952, as extended by Article 14(1) of, and paragraph 16 of Schedule 5 to, the Northern Ireland (Modification of Enactments—No. 1) Order 1973[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
+
+## Documents for drivers and vehicles going abroad
+
+**1.**[^key-57f1f92b44cc5a9a3f39552e3670ff3d] (1)[^key-1aee3d22b95c7bd03e78052f7773c49a] Subject to the following provisions of this Article, the Secretary of State may issue to a person resident in the United Kingdom a driving permit in any of the forms A, B and C in Schedule 1 for use outside the United Kingdom.
+
+(1A) A permit may only be issued to a person for vehicles of a class or classes in respect of which that person holds a full licence.
+
+(1B) In paragraph (1A)—
+
+- “full licence” means a licence granted under Part 3 of the Road Traffic Act 1988, or Part 2 of the Road Traffic (Northern Ireland) Order 1981, other than a provisional licence, and
+- “provisional licence” has the same meaning as in Part 3 of the Road Traffic Act 1988 or Part 2 of the Road Traffic (Northern Ireland) Order 1981.
+
+(1C) A permit in Form A may not be issued to any person who is under 18 years of age unless the permit is restricted to the driving of motor cycles or invalid carriages, or both.
+
+(1D) A permit in Form B may not be issued to any person who is under 18 years of age.
+
+(1E) A permit in Form C must be limited in its period of validity to three years, or, if shorter, the unexpired period of the permit holder’s current United Kingdom driving licence.
+
+(2) The Secretary of State may issue for use outside the United Kingdom a document in the form D in Schedule 1 to this Order for any motor vehicle registered under the Vehicles (Excise) Act 1971, or in Northern Ireland under the Vehicles (Excise) Act (Northern Ireland) 1972.
+
+(3)[^key-7695458482f3e2132f2a139f237ce329] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-7695458482f3e2132f2a139f237ce329] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Secretary of State may assign to a motor vehicle to which the Decision of 1957 of the Council of the Organisation for European Economic Co-Operation applies, an identification mark in the form of such a trade plate as may be required to be carried on such a vehicle under the provisions of section 1 of the Regulation attached to that Decision.
+
+In this paragraph, “**the Decision of 1957 of the Council of the Organisation for European Economic Co-Operation**” means the decision of the Council of the Organisation for European Economic Co-Operation concerning the International Circulation of Hired Private Road Motor Vehicles adopted by that Council at its 369th Meeting, in June, 1957.
+
+(6)[^key-9d15cba7fd8069f03e70a23a0d89093b] The Secretary of State may charge a fee of £5.50 for the issue of any such document as is mentioned in paragraph (1) or (2) of this Article.
+
+(7) The Secretary of State may for the purpose of his functions under this Article carry out [^key-4b1b2bb1601708fa54d651c40c0cfbbd]... examinations of vehicles.
+
+(8) The Secretary of State may delegate any of his functions under this Article (including any power of charging fees and the carrying out of [^key-5358d14c2f4dc20e0a4a25cedaf10e72]... examinations) to any body concerned with motor vehicles or to any Northern Ireland department.
+
+(9)[^key-dc09b706c6782abd6d00a9fa60020bc8] Sections 173 and 174 of the Road Traffic Act 1988 (forgery of documents, etc., false statements and withholding material information) and Article 174 of the Road Traffic (Northern Ireland) Order 1981 (false statements in connection with forgery of, and fraudulent use of, documents, etc.) shall apply to a Convention driving permit as they apply to licences under that Act or under that Order.
+
+(10) Section 13 of the Road Traffic Offenders Act 1988 and Article 190 of the said Order of 1981 (admissibility of records as evidence) shall apply to records maintained by the Secretary of State in connection with his functions under this Article, or by a body or Northern Ireland department to which in accordance with paragraph (8) of this Article he has delegated the function in connection with which the records are maintained, as that section or that Article apply to records maintained in connection with functions under that Act or under that Order, and the powers conferred by section 13(5) of the said Act of 1988 and Article 190(4) of the said Order of 1981 to prescribe a description of matter which may be admitted as evidence under that section or under that Article shall have effect in relation to the application of that section and that Article by this Article.
+
+## Visitors' driving permits
+
+**2.**[^key-28a686364bc785023a365a2aa5f46440] (1) Subject to the provisions of this Article, it shall be lawful for a person resident outside the United Kingdom who is temporarily in Great Britain and holds—
+
+- (a) a Convention driving permit, or
+- (b) a domestic driving permit issued in a country outside the United Kingdom, or
+- (c)[^key-3b727d0ffe2f00671c067f9b1041ea27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+during a period of twelve months from the date of his last entry into the United Kingdom to drive, or [^key-4d726e99da6a25aeac008a85260a74f6]... for any person to cause or permit such a person to drive, in Great Britain a motor vehicle of any class other than[^M_F_729b1f0e-e563-4e16-f376-389bf74ca515] a medium-sized goods vehicle, a large goods vehicle, a privately-operated passenger vehicle or a passenger-carrying vehicle[^key-1ecd3f59740d87b37ce4190efaa12a58] which he is authorised by that permit or that licence to drive, notwithstanding that he is not the holder of a driving licence under Part III of the Road Traffic Act 1988.
+
+(2)[^key-3efda0678ab2b202d3871c2ba1bbded8] Subject to the provisions of this Article, it shall be lawful for a person resident outside the United Kingdom who is temporarily in Great Britain and holds—
+
+- (a) a Convention driving permit, or
+- (b) a domestic driving permit issued in a country outside the United Kingdom,
+
+during a period of twelve months from the date of his last entry into the United Kingdom to drive, or for any person to cause or permit such a person to drive, in Great Britain—
+
+- (i) in the case of any such person who is resident in an EEA State, the Isle of Man, Jersey or Guernsey, a medium-sized goods vehicle, a large goods vehicle, a privately-operated passenger vehicle or a passenger-carrying vehicle; and
+- (ii) in the case of any other such person, a medium-sized goods vehicle, a large goods vehicle, a privately-operated passenger vehicle or a passenger-carrying vehicle brought temporarily into Great Britain,
+
+which he is authorised by that permit to drive, notwithstanding that he is not the holder of a medium-sized goods vehicle driver’s licence, a large goods vehicle driver’s licence, a privately-operated passenger vehicle driver’s licence or a passenger-carrying vehicle driver’s licence.
+
+(3)[^key-e71a79c1be70c518e3f3cc0af10aed8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Nothing in the preceding provisions of this Article shall authorise any person to drive, or any person to cause or permit any person to drive, a vehicle of any class at a time when he is disqualified by virtue of section 101 of the Road Traffic Act 1988 (persons under age), for holding or obtaining a driving licence authorising him to drive vehicles of that class, but in the case of any such person as is mentioned in paragraphs (1) or (2)[^key-c952d796ce8501a2f95f8bc32e9d493d] of this Article, who is driving a vehicle which—
+
+- (a) in the case of a person not resident in an EEA State[^key-a1423ad22526d7963517831fe1093bcb], the Isle of Man[^key-1dcb3907eccb1f7e974702da90c229b4] , Jersey or Guernsey[^key-d48150c465d7c74b48f50fb22d357013], is brought temporarily into Great Britain, and
+- (b) is within the class specified in the first column of paragraph 7[^key-ecd9da49f15a82f1603c1b4196be550f] of the Table in subsection (1) of that section, and
+- (c) is either a vehicle registered in a Convention country or a goods vehicle in respect of which that person holds a certificate of competence which satisfies the international requirements,
+
+the second column of that paragraph, in its application for the purposes of this paragraph, shall have effect as if for “21” there were substituted “18”.
+
+In this paragraph the following expressions have the meanings respectively assigned to them:—
+
+- “**the international requirements**” means—
+  - (i) in relation to a person who is driving a goods vehicle on a journey to which Council Regulation (EEC) No.3820/85 of 20th December 1985, on the harmonisation of certain social legislation relating to road transport applies, the requirements of Article 5(1)(b) (minimum ages for goods vehicle drivers) of that Regulation;
+  - (ii) in relation to a person who is driving a goods vehicle on a journey to which the European Agreement concerning the work of crews engaged in International Road Transport (AETR) signed at Geneva on 25th March 1971 applies, the requirements of Article 5(1)(b) (conditions to be fulfilled by drivers) of that Agreement;
+- “**Convention country**” means a country which is not an EEA State nor a party to the aforementioned European Agreement but is a party to the 1968 Convention,[^key-0e54638476175b5eaad7142c49fbd275] the Convention on Road Traffic concluded at Geneva in the year 1949, or the International Convention relative to Motor Traffic concluded at Paris in the year 1926.
+
+(5) This Article shall not authorise a person to drive a motor vehicle of any class if, in consequence of a conviction or of the order of a court, he is disqualified for holding or obtaining a driving licence under Part III of the Road Traffic Act 1988.
+
+(6)[^key-b852b423ed3454c6406c4d70e5fc04fd] The Secretary of State for Transport may by order made by statutory instrument withdraw one or both of the rights conferred by paragraphs (1)(b) and (2)(b) of this Article in respect of—
+
+- (a) all domestic driving permits;
+- (b) domestic driving permits of a description specified in the order; or
+- (c) domestic driving permits held by persons of a description specified in the order.
+
+(7) In this Article—
+
+- “1926 Convention” means the International Convention relative to Motor Traffic done at Paris on 24th April 1926;[^key-a552ff9326d9c4f20a334c2561a5561c]
+- “1949 Convention” means the Convention on Road Traffic done at Geneva on 19th September 1949;
+- “1968 Convention” means the Convention on Road Traffic done at Vienna on 8th November 1968;
+- “Convention driving permit” means either—[^key-8ec7dca56153e804060fed73c7065d76]
+  - (a) a driving permit in Form A in Schedule 1 issued under the authority of a country outside the United Kingdom which is a party to the 1949 Convention but not to the 1968 Convention;
+  - (b) a driving permit in Form B in Schedule 1 issued under the authority of a country outside the United Kingdom which is a party to the 1926 Convention but not to the 1949 Convention nor to the 1968 Convention; or
+  - (c) a driving permit in Form C in Schedule 1 issued under the authority of a country outside the United Kingdom which is a party to the 1968 Convention;
+- “**domestic driving permit**” in relation to a country outside the United Kingdom means a document issued under the law of that country to a person who has given proof of his competence to drive[^key-657d41e0fd4cf8605444ae96b8a1e247] and authorising the holder to drive motor vehicles, or a specified class of motor vehicles, in that country, and includes a driving permit issued to such a person[^key-44f0a9c5e787cd2ddf6b91269aea6b75] by the armed forces of any country Outside the United Kingdom for use in some other country outside the United Kingdom but does not include a Community licence (within the meaning of Part III of the Road Traffic Act 1988)[^key-18a95c867fae63f7a900b0bdd6d4352f];
+- [^key-a4ce286c2d012c6868b5f215cb540a4a]...
+- “**dependants**” in relation to such a member of the British Forces or the civilian component thereof, means any of the following persons, namely—
+  - (a) the wife or husband of that member; and
+  - (b) any other person wholly or mainly maintained by him or in his custody, charge or care; and
+- “EEA Agreement” and “EEA State” have the meanings given in Schedule 1 to the Interpretation Act 1978.[^key-b14b99916f1433163446de252c7f776e]
+- “medium-sized goods vehicle” has the same meaning as in Part III of the Road Traffic Act 1988;[^key-c1a60c258b012d0c43a21585103068dd]
+- “medium-sized goods vehicle driver’s licence” means a licence under Part III of the Road Traffic Act 1988 in so far as it authorises a person to drive medium-sized goods vehicles of any class;
+- “privately-operated passenger vehicle” means a vehicle, not used for carrying passengers for hire or reward, which is constructed or adapted to carry more than eight but not more than 16 passengers;
+- “privately-operated passenger vehicle driver’s licence” means a licence under Part III of the Road Traffic Act 1988 in so far as it authorises a person to drive privately-operated passenger vehicles of any class;
+- “**public service vehicle**” has the same meaning as in the Public Passenger Vehicles Act 1981; and[^key-15920c47e8e78e4bee4b0870f55ffedb]
+- “**large goods vehicle**”, “**passenger-carrying vehicle**”, “**large goods vehicle driver’s licence**” and “**passenger-carrying vehicle driver’s licence**” have the same meaning as in Part IV of the Road Traffic Act 1988.
+
+(8) The provisions of this Article which authorise the holder of a permit or a licence to drive a vehicle during a specified period shall not be construed as authorising the driving of a vehicle at a time when the permit or the licence has ceased to be valid and, without prejudice to the provisions of paragraph (4), a Convention driving permit in Form C in Schedule 1 is not valid at a time when any restrictive condition of use endorsed on it is not satisfied[^key-6fac5f34dd0da9d864e608da53def356].
+
+**3.**[^M_F_566f252e-4c7a-422c-b30e-02a9197f1961] (1) It shall be lawful—
+
+- (a) for a member of a visiting force of a country to which Part I of the Visiting Forces Act 1952 for the time being applies who holds a driving permit issued under the law of any part of the sending country or issued by the Service authorities of the visiting force, or
+- (b) for a member of a civilian component of such a visiting force who holds Such a driving permit, or
+- (c) for a dependant of any Such member of a visiting force or of a civilian component thereof who holds such a driving permit,
+
+to drive, or for any person to cause or permit any such person to drive, in Great Britain a motor vehicle of any class [^key-474a4ea7bd97b428e911f3a6b50c96dd]... which he is authorised by that permit to drive, notwithstanding that he is not the holder of a driving licence under Part III of the Road Traffic Act 1988.
+
+(2) This Article shall not authorise a person to drive a motor vehicle of any class if, in consequence of a conviction or of the order of a court, he is disqualified for holding or obtaining a driving licence under Part III of the Road Traffic Act 1988.
+
+(3) Nothing in this Article shall authorise any person to drive, or any person to cause or permit any other person to drive, a vehicle of any class at a time when he is disqualified by virtue of section 101 of the Road Traffic Act 1988 (persons under age), for holding or obtaining a driving licence authorising him to drive vehicles of that class.
+
+(4) The interpretative provisions of the Visiting Forces Act 1952 shall apply for the interpretation of this Article and “**dependant”**, in relation to a member of any such visiting force or a civilian component thereof, means any of the following persons namely—
+
+- (a) the wife or husband of that member; and
+- (b) any other person wholly or mainly maintained by him or in his custody, charge or care.
+
+**4.**[^key-221ff35594b0a35f8fee3eb9979912a0] Schedule 3 to this Order shall have effect as respects the driving permits referred to in Articles 2 and 3 of this Order.
+
+## Excise exemption and documents for vehicles brought temporarily into Great Britain
+
+**5.**[^key-767c602f0f4896ca1915980ac7ec37ad][^key-dc381eb2931060d671ea6e45d2cb00f5] (1) The next following paragraph shall apply to a vehicle brought temporarily into United Kingdom[^key-06e3b2cb4640ab86c0d1736832dc7a6c] by a person resident outside the United Kingdom if the person bringing that vehicle into United Kingdom—
+
+- (a) satisfies a registration authority that he is resident outside the United Kingdom and that the vehicle is only temporarily in United Kingdom, and
+- (b) complies with any regulations made under paragraph (4) of this Article.
+
+(2)[^key-eeaf71b1350a45fb43f45d3e723ffb52] A vehicle to which this paragraph applies, and to which the temporary importation arrangements referred to in the Council Regulation on temporary importation from third countries do not apply and which would, but for this Order, be chargeable with excise duty under the Excise Act, shall be exempt from any duty of excise under that Act to the following extent:—
+
+- (a)[^key-c0b2266f7438fed9cad3b5b79fc69da8] in the case of a vehicle to which paragraph (2A) or (2B) applies, the vehicle shall be exempt from excise duty for a period, continuous or otherwise, of not more than six months in any period of twelve consecutive months;
+- (aa)[^key-fe742cdb9d40108495648ba2768bd9a3] in the case of a vehicle to which paragraph (2C) or (2D) applies, the vehicle shall be exempt from excise duty for as long as the criteria in paragraph (2C) or (2D) are met;
+- (b)[^key-f0e1578b5d5b820492fade59657d9a73] in a case of a vehicle being used for or in connection with—
+  - (i) international carriage or a cabotage operation within the scope of either the Road Transport (International Passenger Services) Regulations 2018 or[^key-7aaee1ae76745481360fa484c412909a] the Regulation of the European Parliament and of the Council on common rules for access to the international market for coach and bus services or the Regulation of the European Parliament and of the Council on common rules for access to the international road haulage market, or
+  - (ii) a type of carriage which is exempt from any Community authorisation and from any carriage authorisation under the Directive of the European Parliament and of the Council on the establishment of common rules for certain types of carriage of goods by road,
+
+  the vehicle shall be exempt from excise duty if and so long as the vehicle is being used in accordance with whichever of those instruments is applicable to the use of the vehicle;
+- (c)[^key-9104abd66f3a8d0b4ee9a51205f29d8b] in a case of a vehicle being used for or in connection with a cabotage operation in Great Britain that is not exempt from excise duty under sub-paragraph (b), the vehicle shall be exempt from excise duty if and so long as—
+  - (i) that cabotage operation consists of national carriage for hire or reward by a haulier who is a holder of a Community licence and whose driver, if a national of a country which is not a member State, holds a driver attestation;
+  - (ii)[^key-736faf91df65fd642b4f9d4e10b8c9fb] the vehicle is being used only for or in connection with the carriage of vehicles which are—
+    - (aa) designed and constructed primarily for the carriage of passengers and their luggage, which have no more than eight seats in addition to the driver's seat, and have no space for standing passengers, or
+    - (bb) designed and constructed primarily for the carriage of goods and have a maximum authorised mass not exceeding 3.5 tonnes; and
+  - (iii) the vehicle is being used at any time during a period beginning with—
+    - (aa) 22nd February and ending with 31st March; or
+    - (bb) 25th August and ending with 30th September.
+- (e)[^key-599297495e46d24a4fe0699f475414c4] in a case of a vehicle being used for or in connection with operation in Great Britain that is not exempt from excise duty under sub-paragraph (b), (c) or (d), the vehicle shall be exempt from excise duty so long as—
+  - (i) that operation consists of national carriage for hire or reward by a haulier who is a holder of a Community licence or an authorisation issued by the relevant authority in the country of establishment and whose driver, if a national of a country which is not a member State, holds a driver attestation;
+  - (ii) the vehicle has been specifically designed or substantially modified to carry goods set out in subparagraph (iii);
+  - (iii) the goods being carried are property, equipment or animals being carried to or from theatrical, musical, film or circus performances or sporting events, exhibitions or fairs, or to or from the making of radio or television broadcasts or films;” and”
+  - (iv) the goods being carried are loaded or unloaded or reloaded within Great Britain in an unaltered state.
+
+(2A)[^key-3d936df420b363edcf410b74ef7ae914] This paragraph applies to a private vehicle where—
+
+- (a) the person bringing the vehicle into the United Kingdom—
+  - (i) has their normal residence in a member State, and
+  - (ii) employs the vehicle in the United Kingdom for their private use, and
+- (b) the vehicle is not disposed of, or hired out, in the United Kingdom, or lent to a resident of the United Kingdom, provided that—
+  - (i) a vehicle belonging to a car hire firm having its head office in a member State may be re-hired to a non-resident of the United Kingdom with a view to being re-exported, if the vehicle is in the United Kingdom as a result of a hire contract which ended in the United Kingdom, and
+  - (ii) such a vehicle may be returned by an employee of the car hire firm to the member State from where it was originally hired, even if the employee is resident in the United Kingdom.
+
+(2B) This paragraph applies to a private vehicle where—
+
+- (a) the person bringing the vehicle into the United Kingdom—
+  - (i) has their normal residence in a member State,
+  - (ii) employs the vehicle in the United Kingdom for business use, and
+  - (iii) does not use the vehicle in the United Kingdom in order to carry passengers for hire or material reward of any kind, or for the industrial and or commercial transport of goods, whether for reward or not,
+- (b) the vehicle is not disposed of, hired out or lent in the United Kingdom, and
+- (c) the vehicle has been acquired or imported in accordance with the general conditions of taxation in force on the domestic market of the member State of normal residence of the vehicle user and is not subject by reason of its exportation to the United Kingdom to any exemption from or refund of turnover tax, excise duty or any other consumption tax and—
+  - (i) subject to paragraph (ii), this sub-paragraph shall be presumed to be satisfied if the vehicle bears a standard registration plate of the member State of registration, other than any type of temporary plate;
+  - (ii) where the vehicle is registered in a member State where the issue of a standard registration plate is not conditional upon compliance with the general conditions of taxation in force on the domestic market, the person bringing the vehicle into the United Kingdom produces appropriate evidence as proof of payment of consumption taxes.
+
+(2C) This paragraph applies to a private vehicle where—
+
+- (a) paragraph (2B), other than sub-paragraph (a)(ii), applies,
+- (b) the vehicle is registered in the member State of normal residence of the person bringing it into the United Kingdom, and
+- (c) that person uses it regularly for the journey from their residence to their place of work in an undertaking in the United Kingdom and vice versa.
+
+(2D) This paragraph applies to a private vehicle where—
+
+- (a) paragraph (2B), other than sub-paragraph (a)(ii), applies,
+- (b) the vehicle is registered in the member State of normal residence of the person bringing it into the United Kingdom,
+- (c) that person is a student and is the user of the vehicle, and
+- (d) that person resides in the United Kingdom for the sole purpose of pursuing their studies.
+
+(3) A vehicle registered in the Isle of Man and brought temporarily into United Kingdom by a person resident outside the United Kingdom shall be exempt from any duty of excise under the Excise Act for a period not exceeding one year from the date of importation, if the person bringing that vehicle into United Kingdom—
+
+- (a) satisfies a registration authority that he is resident outside the United Kingdom and that the vehicle is only temporarily in United Kingdom, and
+- (b) complies with any regulations made under paragraph (4) of this Article.
+
+(4) The Secretary of State may by regulations provide—
+
+- (a) for the furnishing to a registration authority by a person who imports a vehicle to which either of the two last preceding paragraphs applies of such particulars as may be prescribed, and
+- (b)[^key-f146f9848dbb5b2328c34d5d9a738df6] for the recording by a registration authority of any particulars which the Secretary of State may by the regulations direct to be recorded, and for the manner of such recording, and for the making of any such particulars available for use by such persons as may be specified in the regulations on payment, in such cases as may be so specified, of such fee as may be prescribed, and
+- (c) for the production to a registration authority of prescribed documents, and
+- (d) for the registration of vehicles which by virtue of this Article are exempt from excise duty and for the assignment of registration marks to, and for the issue of registration cards for, such vehicles.
+
+(5) The following provisions of the Excise Act, that is to say:—
+
+- (a) paragraphs (d) and (e) of section 23(1) as substituted by virtue of section 39(1) of, and paragraph 20 of Part I of Schedule 7 to, the Excise Act (which enable the Secretary of State to make regulations as respects registration books for vehicles in respect of which excise licences are issued), and
+- (b) paragraph (f) of the said section 23(1) (which enables the Secretary of State to make regulations as to the display on a vehicle of the registration mark assigned to it), and
+- (c) section 26(1) (which relates to forgery of licences, registration marks or registration documents),
+
+shall apply in relation to a registration card issued, or a registration mark assigned, in pursuance of this Article as they apply in relation to a registration book or registration document issued, or a registration mark assigned, under the Excise Act.
+
+(6) If regulations under this Article provide for the assignment of a registration mark on production of some document relating to a vehicle which is exempt from excise duty by virtue of this Article, then paragraph (d) of the said section 23(1) shall apply in relation to that document so as to authorise the Secretary of State to make regulations under that section requiring the production of that document for inspection by persons of classes prescribed by regulations made under that section.
+
+(7) Paragraphs (d) and (f) of the said section 23(1), and section 26(1) of the Excise Act shall, in United Kingdom, apply in like manner in relation to a registration card issued, or a registration mark assigned, in pursuance of provisions corresponding to paragraph (4) of this Article in Northern Ireland.
+
+(8) In relation to a motor vehicle brought temporarily into United Kingdom by a person resident outside the United Kingdom, references in section 19 of the Excise Act and in the said section 23(1) thereof to registration marks shall, where appropriate, include references to nationality signs.
+
+(9) In this Article—
+
+- “the Directive of the European Parliament and of the Council on the establishment of common rules for certain types of carriage of goods by road” means Directive 2006/94 of the European Parliament and of the Council of 12th December 2006 on the establishment of common rules for certain types of carriage of goods by road;[^key-1ed7a7a7ce91640c9f35c85aff8850a7][^key-2f0e1b11d97464a740e34874133df1ce]
+- [^key-89d88ae00269cc8101ae6789707b4600]...
+- “the Council Regulation on temporary importation from third countries” means Council Regulation [(EEC) No. 1855/89](https://www.legislation.gov.uk/european/regulation/1989/1855) of 14th June 1989 on the temporary importation of means of transport;
+- “[^key-543f0e77a4dfc425102377801a467cd8]**the Regulation of the European Parliament and of the Council on common rules for access to the international market for coach and bus services**” means Regulation (EC) No. 1073/2009 of 21 October 2009 of the European Parliament and of the Council on common rules for access to the international market for coach and bus services and amending Regulation (EC) No. 561/2006 ; and
+- “**the Regulation of the European Parliament and of the Council on common rules for access to the international road haulage market**” means Regulation (EC) No.1072/2009 of 21 October 2009 of the European Parliament and of the Council on common rules for access to the international road haulage market.
+- “business use” of a means of transport means the use of it in the direct exercise of an activity carried out for consideration or financial gain;[^key-0870ac1a374f0ab59d579930ad6445be]
+- “**commercial vehicle**” means any road vehicle which, by its design or equipment, is suitable for and intended for transporting, whether for payment or not—
+  - (a) more than nine persons, including the driver, or
+  - (b) goods,
+
+  as well as any road vehicle for special use other than transport as such;
+- “**the Excise Act**” means the Vehicle Excise and Registration Act 1994[^key-26fc01a07431ff71392af1d4f1222b28];
+- “**the date of importation**”, in relation to a vehicle, means the date on which that vehicle was last brought into the United Kingdom;
+- “Community licence” and “driver attestation” have the same meanings as in the Regulation of the European Parliament and of the Council on common rules for access to the international road haulage market;[^key-0324fe56717f898e2162fe79d6b936b7]
+- “[^key-91612910c08fb26330175f61eea69dea]**normal residence**” means—
+  - (a) the place where a person usually lives for a least 185 days in each calendar year because of personal and occupational ties,
+  - (b) in the case of a person with no occupational ties, the place where a person usually lives for a least 185 days in each calendar year because of personal ties which show close links between that person and that place, or
+  - (c) where a person's occupational ties are in a different place from their personal ties and who as a consequence lives in turn in different places in the United Kingdom and in a member State, or in two or more member States, the place of their personal ties provided they return there regularly, but—
+    - (i) the criterion of returning regularly need not be met if they live in the United Kingdom, or in a member State, in order to carry out a task of a definite duration, and
+    - (ii) attendance at a University or school shall not imply transfer of normal residence;
+- “**private use**” means any use other than business use;
+- “**private vehicle**” means any road vehicle, including its trailer, if any, other than a commercial vehicle;
+- “[^key-800e8c1cd5fe2764db67e73e79a21972]**registration authority**” means the Automobile Association, the Royal Automobile Club, the Royal Scottish Automobile Club, or the Secretary of State;
+
+and references to registration marks shall, where appropriate, include references to nationality signs.
+
+(10)[^key-d4209795a41f73c7384912ddabc06deb] Nothing in regulations made or deemed to have been made under this Order shall apply to any person bringing a motor vehicle into Northern Ireland from the Republic of Ireland who complies with the provisions of the Motor Car (Irish Circulation) (Northern Ireland) Regulations 1925.
+
+### 5A. Excise exemption and documents for vehicles brought temporarily into Northern Ireland[^key-88b89bf7acb4bc75482eae07a7e333d7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-d084442cc80f41d4c0cf6432797e11d6] (1) An application under Part V of the Transport Act 1968 for an operator's licence for a motor vehicle or trailer brought temporarily into Great Britain by a person resident outside the United Kingdom shall be made to the licensing authority for the purpose of the said Part V for the area where the vehicle is landed.
+
+(2) Regulations made or having effect as if made, under sections 68–82 (provisions as to lighting of vehicles) of the Road Traffic Act 1972, may, either wholly or partially, and subject to any conditions, vary or grant exemptions from, the requirements of those sections in the case of motor vehicles or trailers brought temporarily into Great Britain by persons resident outside the United Kingdom or in the case of any class of such vehicles.
+
+## Interpretation, Repeals, Citation and Commencement
+
+**7.**[^key-4081554a76930f664491098814f26a48] (1) In this Order—
+
+- “**the Secretary of State**” means the Secretary of State for the Environment;
+- “**prescribed**” means prescribed by regulations made by the Secretary of State.
+
+(2) The Interpretation Act 1889 shall apply for the interpretation of this Order (except as provided by the next following paragraph of this Article) as it applies for the interpretation of an Act of Parliament and as if for the purposes of section 38 of that Act this Order (except as aforesaid) was an Act of Parliament and the Orders revoked by Article 8(1) of this Order were Acts of Parliament thereby repealed.
+
+(3) The Interpretation Act (Northern Ireland) 1954 shall apply for the interpretation of Articles 5A and 8(2) of, and Part II of Schedule 4 to, this Order as it applies for the interpretation of a Measure of the Northern Ireland Assembly.
+
+(4) Any reference in this Order to any enactment shall be taken as a reference to that enactment as amended by, or under any other enactment; and any reference to an enactment which has effect subject to modifications specified in an enactment shall, when those modifications cease to have effect, then be construed as a reference to the first mentioned enactment as having effect without those modifications.
+
+**8.**[^key-ccf1779c9ace38dac25d0d800af4e08a] (1) The Orders specified in columns (1) and (2) of Part I of Schedule 4 to this Order are hereby revoked; and notwithstanding the said revocation and without prejudice to the provisions of section 38 of the Interpretation Act 1889 as applied by this Order—
+
+- (a) any permit or document issued, any fee paid or any identification mark assigned under those Orders shall not be invalidated but shall have effect as if issued, paid or assigned under the corresponding provision of this Order;
+- (b) any regulations made, or having effect as if made, under those Orders shall have effect as if made under this Order; and
+- (c) any period of exemption from excise duty which started to run before this Order comes into operation shall be continued under the corresponding provisions of this Order.
+
+(2) The Orders replaced in Northern Ireland by Article 5A of this Order, and specified in columns (1) and (2) of Part II of the said Schedule 4 are hereby revoked; and notwithstanding the said revocation and without prejudice to the provisions of section 28 of the Interpretation Act (Northern Ireland) 1954 as applied by this Order, sub-paragraphs (a) to (c) of the last preceding paragraph shall have effect correspondingly in Northern Ireland.
+
+**9.**[^key-8fe26746071fb86e9bc71ca12b69adf2] (1) This Order may be cited as the Motor Vehicles (International Circulation) Order 1975.
+
+(2) This Order shall come into operation 10 days after the date on which the Order is made.
+
+N.E. Leigh
+
+## SCHEDULE 1[^key-acb6907d1776c063fdd02a6c40860221]
+
+Article 1
+
+A
+
+FORM OF INTERNATIONAL DRIVING PERMIT UNDER CONVENTION OF 1949
+
+[image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_001.gif) [image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_002.gif) [image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_003.gif)
+
+B
+
+FORM OF INTERNATIONAL DRIVING PERMIT UNDER CONVENTION OF 1926
+
+[image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_004.gif) [image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_005.gif)
+
+C[^key-71a3ebfdbb54932bac4e97bedd4914fc]
+
+FORM OF INTERNATIONAL DRIVING PERMIT UNDER CONVENTION OF 1968
+
+[image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_013.gif) [image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_014.gif) [image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_015.gif) [image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_016.gif)
+
+D
+
+FORM OF INTERNATIONAL CERTIFICATE FOR MOTOR VEHICLES UNDER CONVENTION OF 1926
+
+[image: see source](https://www.legislation.gov.uk/uksi/1975/1208/images/uksi_19751208_en_epp_006.gif)
+
+## SCHEDULE 2 — FEES CHARGEABLE FOR DOCUMENTS AND IDENTIFICATION MARKS[^key-dafe32ba1711183a284afa53efc401c2]
+
+**No longer in force.**
+
+Article 1(6)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — VISITORS' DRIVING PERMITS
+
+Article 4
+
+**1.**[^key-decdabd26f1abe6cc68fb67991bd8393] In this Schedule “**driving permit**” means a driving permit which by virtue of this Order authorises a person to drive a motor vehicle without holding a driving licence under Part III of the Road Traffic Act 1972, , “[^key-f3657efccfcd7b7467c167387b971e42]**Convention driving permit**” has the meaning assigned it by article 2(7) of this Order and “**driving licence**” means a driving licence under the said Part III.
+
+**2.**[^key-f05f2ade1a7d91caa09a179bc02d4f07] (1) A court by whom the holder of a driving permit is convicted shall—
+
+- (a) if in consequence of the conviction or of the order of the court he is disqualified for holding or obtaining a driving licence, or
+- (b) if the court orders particulars of the conviction to be endorsed on any driving licence held by him,
+
+send particulars of the conviction to the Secretary of State.
+
+(2) A court shall in no circumstances enter any particulars in a driving permit.
+
+**3.**[^key-313abd396ed41f55a918cc9c44b52be0] (1) The holder of a driving permit disqualified in consequence of a conviction or of the order of a court for holding or obtaining a driving licence shall, if so required by the court, produce his driving permit within five days, or such longer time as the court may determine, and the court shall forward it to the Secretary of State.
+
+(2)[^key-9af5f846ea485c21e107fd75a399436b] The Secretary of State on receiving a permit forwarded under the foregoing sub-paragraph, shall—
+
+- (a) retain the permit until the disqualification ceases to have effect or until the holder leaves Great Britain, whichever is the earlier;
+- (b) send the holder’s name and address, together with the particulars of the disqualification, to the authority by whom the permit was issued; and
+- (c) if the permit is a Convention driving permit, record the particulars of the disqualification on the permit.
+
+(3) A person failing to produce a driving permit in compliance with this paragraph shall be guilty of an offence which shall be treated for the purposes of section 177 of the Road Traffic Act 1972 and of Part I of Schedule 4 thereto as an offence against the provision specified in column 1 of that Part as section 101(4) and he shall be liable to be prosecuted and punished accordingly.
+
+**4.**[^key-9696748dd59639ce5019517bc870c8c0] (1) A court, on ordering the removal under section 95(1) of the said Act of a disqualification for holding or obtaining a driving licence, shall, if it appears that particulars of the disqualification have been forwarded to the Secretary of State under paragraph 2 of this Schedule, cause particulars of the order also to be forwarded to him, [^key-75353c4addb82e0183e3599d438497c7]....
+
+(2)[^key-e2cf9a4e61fb7c52577c2b016b4af2ca] The Secretary of State, on receiving particulars of a court order removing such a disqualification, shall—
+
+- (a) in the case of a permit on which particulars of a disqualification were recorded in accordance with paragraph 3(2)(c) of this Schedule, enter on the permit particulars of the order removing the disqualification;
+- (b) send the particulars of the order to the authority by whom the permit was issued; and
+- (c) return the permit to the holder.
+
+**5.**[^key-344a7cfddb8a65f8268c8ae999c09c7f] (1) In the following provisions of the Road Traffic Act 1972, references to a driving licence shall include references to a driving permit.
+
+(2) The said provisions are—
+
+- (a) subsections (1) and (4) of section 161 (which, as amended by paragraph 19 of Schedule 6 to the Road Traffic Act 1974, authorises a police constable to require the production of a driving licence and in certain cases statement of date of birth by a person who is, or in certain circumstances has been, driving a vehicle),
+- (b) subsection (2) of section 164 (which authorises a police constable to arrest a driver committing certain offences unless the driver gives his name and address or produces his driving licence), and
+- (c) subsections (1) and (2) of section 169 (which relate to the use of a driving licence by a person other than the holder and to forgery of such a licence).
+
+## SCHEDULE 4 — REVOCATION
+
+Article 8
+
+### PART I[^key-caeee0f2e3fcb722edc2765100a5b901]
+
+<table>
+<thead>
+<tr><th>Title</th><th>Year and Number</th></tr>
+<tr><th>(1)</th><th>(2)</th></tr>
+</thead>
+<tbody>
+<tr><td>The Motor Vehicles (International Circulation) Order 1957</td><td>S.I. 1957/1074 (1957 II, p. 2154)</td></tr>
+<tr><td>The Motor Vehicles (International Circulation) (Amendment) Order 1962</td><td>S.I. 1962/1344 (1962 II, p. 1483)</td></tr>
+<tr><td>The Motor Vehicles (International Circulation) (Amendment) Order 1969</td><td>S.I. 1969/1086 (1969 II, p. 3160)</td></tr>
+<tr><td>The Motor Vehicles (International Circulation) (Decimal Currency) Order 1971</td><td>S.I. 1971/100 (1971 I, p. 186)</td></tr>
+<tr><td>The Motor Vehicles (International Circulation) (Amendment) Order 1971</td><td>S.I. 1971/869 (1971 II, p. 2541)</td></tr>
+</tbody>
+</table>
+
+### PART II[^key-d3e68b957b53e35e167660465a180163]
+
+|  |  |
+| --- | --- |
+| The Motor Vehicles (International Circulation) (Registration and Licensing) (Northern Ireland) Order 1955 | S.R. & O. (N.I.) 1955/113 (1955 p. 322) |
+| The Motor Vehicles (International Circulation) (Registration and Licensing) (Amendment) (Northern Ireland) Order 1962 | S.R. & O. (N.I.) 1962/219 (1962 p. 928) |
+| The Motor Vehicles (International Circulation) (Amendment) (Northern Ireland) Order 1969 | S.R. & O. (N.I.) 1969/206 (1969 p. 820) |
+
+EXPLANATORY NOTE
+
+1\. The Order gives effect to certain provisions of the following international agreements, namely:—
+
+- (a) the Convention on Road Traffic of 1949 (Cmd 7997);
+- (b) the Convention on the Taxation of Road Vehicles for Private Use in International Traffic of 1956 (Cmnd 220);
+- (c) the Convention on the Taxation of Road Vehicles engaged in International Passenger Traffic of 1956 (Cmnd 320);
+- (d) the Convention on the Taxation of Road Vehicles engaged in International Goods Transport of 1956 (Cmnd 4206);
+- (e) the Convention on Motor Traffic of 1926 (Cmd 3510);
+- (f) Article IV of the Agreement regarding the Status of Forces of Parties to the North Atlantic Treaty (Cmd 8279);
+- (g) a Decision of the Council of the Organisation for European Economic Co-operation adopted on 28 June 1957, relating to identification marks for hired chauffeur-driven vehicles going abroad from the United Kingdom.
+
+2\. The Order re-enacts with amendment and consolidates the Motor Vehicles (International Circulation) Order 1957 (S.I. 1957/1074) and the subsequent Orders amending it; and following the transfer to the Secretary of State of functions exercisable in Northern Ireland with respect to vehicle excise duty and the registration of vehicles by the Northern Ireland (Modification of Enactments—No. 1) Order 1973 (S.I. 1973/2163), it revokes and re-enacts with amendment corresponding provisions to those having effect in Great Britain with respect to those matters in Northern Ireland in place of the Northern Ireland Orders revoked thereby.
+
+3\. The Order relates to:—
+
+- (a) the issue of international driving permits to persons going abroad and documents for use outside the United Kingdom with vehicles;
+- (b) driver licensing, vehicle operators' licences and vehicle lighting requirements in relation to vehicles brought temporarily into Great Britain; and
+- (c) registration and exemption from vehicle excise duty of vehicles brought temporarily into the United Kingdom.
+
+4\. The principal changes introduced by the Order are that—
+
+- (a) the fees for international driving permits and certificates for motor vehicles are increased from £1.00 to £1.50 (Schedule 2);
+- (b) vehicles temporarily imported into Northern Ireland by members of visiting forces or the civilian components of such forces are brought within the scope of exemption from vehicle excise duty (Article 5A(2));
+- (c) vehicles registered in the Isle of Man and temporarily imported into Northern Ireland are exempted from vehicle excise duty (Article 5A(3)) in the manner similarly prescribed for such vehicles temporarily imported into Great Britain (Article 5(3)).
+
+## Annotations
+
+[^f00001]: Footnote: (1973 III, p. 7541).
+
+[^key-57f1f92b44cc5a9a3f39552e3670ff3d]: Commencement: Art. 1 in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-1aee3d22b95c7bd03e78052f7773c49a]: Textual amendment: Art. 1(1)-(1E) substituted for art. 1(1) (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/563/article/2/2/a)
+
+[^key-7695458482f3e2132f2a139f237ce329]: Textual amendment: Art. 1(3)(4) omitted (6.8.1996) by virtue of [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/1996/1929/article/3/1/a) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/1929/article/3/3))
+
+[^key-9d15cba7fd8069f03e70a23a0d89093b]: Textual amendment: Art. 1(6) substituted (10.8.2004) by [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2004/1992/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2004/1992/article/3/2))
+
+[^key-4b1b2bb1601708fa54d651c40c0cfbbd]: Textual amendment: Words in art. 1(7) omitted (28.3.2019) by virtue of [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/563/article/2/2/b)
+
+[^key-5358d14c2f4dc20e0a4a25cedaf10e72]: Textual amendment: Words in art. 1(8) omitted (28.3.2019) by virtue of [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/563/article/2/2/c)
+
+[^key-dc09b706c6782abd6d00a9fa60020bc8]: Textual amendment: Art. 1(9)(10) inserted (14.6.1989) by [The Motor Vehicles (International Circulation) (Amendment) Order 1989 (S.I. 1989/993)](https://www.legislation.gov.uk/uksi/1989/993), [arts. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1), [3](https://www.legislation.gov.uk/uksi/1989/993/article/3)
+
+[^key-28a686364bc785023a365a2aa5f46440]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/1975/1208/article/2) substituted (14.6.1989) by [The Motor Vehicles (International Circulation) (Amendment) Order 1989 (S.I. 1989/993)](https://www.legislation.gov.uk/uksi/1989/993), [arts. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1), [4](https://www.legislation.gov.uk/uksi/1989/993/article/4)
+
+[^key-3b727d0ffe2f00671c067f9b1041ea27]: Textual amendment: Art. 2(1)(c) omitted (10.8.2004) by virtue of [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/2/a)
+
+[^key-4d726e99da6a25aeac008a85260a74f6]: Textual amendment: Words in art. 2(1) omitted (10.8.2004) by virtue of [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/2/b)
+
+[^M_F_729b1f0e-e563-4e16-f376-389bf74ca515]: Textual amendment: Words in art. 2(1) inserted (1.4.1991) by [The Motor Vehicles (International Circulation) (Amendment) Order 1991 (S.I. 1991/771)](https://www.legislation.gov.uk/uksi/1991/771), [arts. 1](https://www.legislation.gov.uk/uksi/1991/771/article/1), [2(a)](https://www.legislation.gov.uk/uksi/1991/771/article/2/a)
+
+[^key-1ecd3f59740d87b37ce4190efaa12a58]: Textual amendment: Words in art. 2(1) substituted (10.8.2004) by [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/2/c)
+
+[^key-3efda0678ab2b202d3871c2ba1bbded8]: Textual amendment: Art. 2(2) substituted (10.8.2004) by [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/3)
+
+[^key-e71a79c1be70c518e3f3cc0af10aed8d]: Textual amendment: Art. 2(3) omitted (10.8.2004) by virtue of [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/4)
+
+[^key-c952d796ce8501a2f95f8bc32e9d493d]: Textual amendment: Words in art. 2(4) substituted (10.8.2004) by [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/5/a)
+
+[^key-a1423ad22526d7963517831fe1093bcb]: Textual amendment: Words in art. 2(2)-(4) substituted (1.1.1997) by [The Driving Licences (Community Driving Licence) Regulations 1996 (S.I. 1996/1974)](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b), [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/5/paragraph/1/2)
+
+[^key-1dcb3907eccb1f7e974702da90c229b4]: Textual amendment: Words in art. 2(4)(a) inserted (6.8.1996) by [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [4(1)](https://www.legislation.gov.uk/uksi/1996/1929/article/4/1)
+
+[^key-d48150c465d7c74b48f50fb22d357013]: Textual amendment: Words in art. 2(4)(a) substituted (10.8.2004) by [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/5/b)
+
+[^key-ecd9da49f15a82f1603c1b4196be550f]: Textual amendment: Words in art. 2(4)(b) substituted (1.1.1997) by [The Driving Licences (Community Driving Licence) Regulations 1996 (S.I. 1996/1974)](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/5/paragraph/1/3)
+
+[^key-0e54638476175b5eaad7142c49fbd275]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/1975/1208/article/2/4) inserted (E.W.S.) (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/563/article/2/3/a)
+
+[^key-b852b423ed3454c6406c4d70e5fc04fd]: Textual amendment: Art. 2(6) substituted (10.8.2004) by [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(6)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/6)
+
+[^key-a552ff9326d9c4f20a334c2561a5561c]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/1975/1208/article/2/7) inserted (E.W.S.) (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/563/article/2/3/b/i)
+
+[^key-8ec7dca56153e804060fed73c7065d76]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/1975/1208/article/2/7) substituted (E.W.S.) (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/563/article/2/3/b/ii)
+
+[^key-657d41e0fd4cf8605444ae96b8a1e247]: Textual amendment: Words in art. 2(7) inserted (6.8.1996) by [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/1996/1929/article/4/2/a)
+
+[^key-44f0a9c5e787cd2ddf6b91269aea6b75]: Textual amendment: Words in art. 2(7) inserted (6.8.1996) by [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/1996/1929/article/4/2/b)
+
+[^key-18a95c867fae63f7a900b0bdd6d4352f]: Textual amendment: Words in art. 2(7) inserted (1.1.1997) by [The Driving Licences (Community Driving Licence) Regulations 1996 (S.I. 1996/1974)](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1996/1974/regulation/1/2/b), [Sch. 5 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/5/paragraph/1/4/a)
+
+[^key-a4ce286c2d012c6868b5f215cb540a4a]: Textual amendment: Words in art. 2(7) omitted (10.8.2004) by virtue of [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(7)(a)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/7/a)
+
+[^key-b14b99916f1433163446de252c7f776e]: Textual amendment: Words in art. 2(7) substituted (12.12.2013) by virtue of [The Motor Vehicles (International Circulation) (Amendment) Order 2013 (S.I. 2013/3150)](https://www.legislation.gov.uk/uksi/2013/3150), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3150/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/3150/article/2/2)
+
+[^key-c1a60c258b012d0c43a21585103068dd]: Textual amendment: Words in art. 2(7) inserted (10.8.2004) by [The Motor Vehicles (International Circulation) (Amendment) Order 2004 (S.I. 2004/1992)](https://www.legislation.gov.uk/uksi/2004/1992), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1992/article/1), [4(7)(b)](https://www.legislation.gov.uk/uksi/2004/1992/article/4/7/b)
+
+[^key-15920c47e8e78e4bee4b0870f55ffedb]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/uksi/1975/1208/article/2/7) inserted (1.4.1991) by [The Motor Vehicles (International Circulation) (Amendment) Order 1991 (S.I. 1991/771)](https://www.legislation.gov.uk/uksi/1991/771), [arts. 1](https://www.legislation.gov.uk/uksi/1991/771/article/1), [2(d)](https://www.legislation.gov.uk/uksi/1991/771/article/2/d)
+
+[^key-6fac5f34dd0da9d864e608da53def356]: Textual amendment: Words in [art. 2(8)](https://www.legislation.gov.uk/uksi/1975/1208/article/2/8) inserted (E.W.S.) (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [arts. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/563/article/2/3/c)
+
+[^M_F_566f252e-4c7a-422c-b30e-02a9197f1961]: Textual amendment: Art. 3 substituted (14.6.1989) by [The Motor Vehicles (International Circulation) (Amendment) Order 1989 (S.I. 1989/993)](https://www.legislation.gov.uk/uksi/1989/993), [arts. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1), [4](https://www.legislation.gov.uk/uksi/1989/993/article/4)
+
+[^key-474a4ea7bd97b428e911f3a6b50c96dd]: Textual amendment: Words in art. 3(1) omitted (6.8.1996) by virtue of [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [4(3)](https://www.legislation.gov.uk/uksi/1996/1929/article/4/3)
+
+[^key-221ff35594b0a35f8fee3eb9979912a0]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1975/1208/article/4) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-767c602f0f4896ca1915980ac7ec37ad]: Commencement: Art. 5 in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-dc381eb2931060d671ea6e45d2cb00f5]: Modification: Art. 5 modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/79/2)
+
+[^key-06e3b2cb4640ab86c0d1736832dc7a6c]: Textual amendment: Words in art. 5 substituted (6.8.1996) by [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [6(1)](https://www.legislation.gov.uk/uksi/1996/1929/article/6/1)
+
+[^key-eeaf71b1350a45fb43f45d3e723ffb52]: Textual amendment: Art. 5(2) substituted (6.8.1996) by [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [5](https://www.legislation.gov.uk/uksi/1996/1929/article/5)
+
+[^key-c0b2266f7438fed9cad3b5b79fc69da8]: Textual amendment: Art. 5(2)(a) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/6/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fe742cdb9d40108495648ba2768bd9a3]: Textual amendment: Art. 5(2)(aa) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/6/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f0e1578b5d5b820492fade59657d9a73]: Textual amendment: Art. 5(2)(b) substituted (4.12.2011) by [The Motor Vehicles (International Circulation) (Amendment) Order 2010 (S.I. 2010/771)](https://www.legislation.gov.uk/uksi/2010/771), [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/771/article/4/2), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/771/regulation/1/b)
+
+[^key-7aaee1ae76745481360fa484c412909a]: Textual amendment: Words in art. 5(2)(b)(i) inserted (E.W.S.) (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/5/2)
+
+[^key-9104abd66f3a8d0b4ee9a51205f29d8b]: Textual amendment: Art. 5(2)(c) inserted (12.12.2013) by [The Motor Vehicles (International Circulation) (Amendment) Order 2013 (S.I. 2013/3150)](https://www.legislation.gov.uk/uksi/2013/3150), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3150/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/3150/article/2/3)
+
+[^key-736faf91df65fd642b4f9d4e10b8c9fb]: Textual amendment: Art. 5(2)(c)(ii) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [6(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/6/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-599297495e46d24a4fe0699f475414c4]: Textual amendment: Art. 5(2)(e) inserted (E.W.S.) (20.7.2022) by [The Motor Vehicles (International Circulation) (Amendment) Order 2022 (S.I. 2022/845)](https://www.legislation.gov.uk/uksi/2022/845), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/845/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/845/article/2/2)
+
+[^key-3d936df420b363edcf410b74ef7ae914]: Textual amendment: Art. 5(2A)-(2D) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f146f9848dbb5b2328c34d5d9a738df6]: Textual amendment: Art. 5(4)(b) substituted (29.4.1985) by [The Motor Vehicles (International Circulation) (Amendment) Order 1985 (S.I. 1985/459)](https://www.legislation.gov.uk/uksi/1985/459), [arts. 1](https://www.legislation.gov.uk/uksi/1985/459/article/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/1985/459/article/5/1/b)
+
+[^key-1ed7a7a7ce91640c9f35c85aff8850a7]: Textual amendment: Words in [art. 5(9)](https://www.legislation.gov.uk/uksi/1975/1208/article/5/9) substituted (14.5.2010) by [The Motor Vehicles (International Circulation) (Amendment) Order 2010 (S.I. 2010/771)](https://www.legislation.gov.uk/uksi/2010/771), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2010/771/article/1/a), [3(3)(a)](https://www.legislation.gov.uk/uksi/2010/771/article/3/3/a)
+
+[^key-2f0e1b11d97464a740e34874133df1ce]: Textual amendment: Words in art. 5(9) inserted (6.8.1996) by [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/1996/1929/article/6/3)
+
+[^key-89d88ae00269cc8101ae6789707b4600]: Textual amendment: Words in art. 5(9) omitted (31.12.2020) by virtue of [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [6(2)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/6/2/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-543f0e77a4dfc425102377801a467cd8]: Textual amendment: Words in art. 5(9) substituted (4.12.2011) by [The Motor Vehicles (International Circulation) (Amendment) Order 2010 (S.I. 2010/771)](https://www.legislation.gov.uk/uksi/2010/771), [art. 4(3)](https://www.legislation.gov.uk/uksi/2010/771/article/4/3), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2010/771/regulation/1/b)
+
+[^key-0870ac1a374f0ab59d579930ad6445be]: Textual amendment: Words in art. 5(9) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [6(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/6/2/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-26fc01a07431ff71392af1d4f1222b28]: Textual amendment: Words in art. 5(9) substituted (6.8.1996) by [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [6(2)](https://www.legislation.gov.uk/uksi/1996/1929/article/6/2)
+
+[^key-0324fe56717f898e2162fe79d6b936b7]: Textual amendment: Words in art. 5(9) inserted (12.12.2013) by [The Motor Vehicles (International Circulation) (Amendment) Order 2013 (S.I. 2013/3150)](https://www.legislation.gov.uk/uksi/2013/3150), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3150/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/3150/article/2/4)
+
+[^key-91612910c08fb26330175f61eea69dea]: Textual amendment: Words in art. 5(9) inserted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [6(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/6/2/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-800e8c1cd5fe2764db67e73e79a21972]: Textual amendment: Words in art. 5(9) substituted (29.4.1985) by [The Motor Vehicles (International Circulation) (Amendment) Order 1985 (S.I. 1985/459)](https://www.legislation.gov.uk/uksi/1985/459), [arts. 1](https://www.legislation.gov.uk/uksi/1985/459/article/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/1985/459/article/5/1/c)
+
+[^key-d4209795a41f73c7384912ddabc06deb]: Textual amendment: Art. 5(10) inserted (6.8.1996) by [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [6(4)](https://www.legislation.gov.uk/uksi/1996/1929/article/6/4)
+
+[^key-88b89bf7acb4bc75482eae07a7e333d7]: Textual amendment: Art. 5A revoked (6.8.1996) by [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [6(5)](https://www.legislation.gov.uk/uksi/1996/1929/article/6/5)
+
+[^key-d084442cc80f41d4c0cf6432797e11d6]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1975/1208/article/6) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-4081554a76930f664491098814f26a48]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1975/1208/article/7) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-ccf1779c9ace38dac25d0d800af4e08a]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1975/1208/article/8) in operation at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-8fe26746071fb86e9bc71ca12b69adf2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1975/1208/article/9) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-acb6907d1776c063fdd02a6c40860221]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1975/1208/schedule/1) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-71a3ebfdbb54932bac4e97bedd4914fc]: Textual amendment: Sch. 1 Form C inserted (28.3.2019) by [The Motor Vehicles (International Circulation) (Amendment) (EU Exit) Order 2019 (S.I. 2019/563)](https://www.legislation.gov.uk/uksi/2019/563), [art. 1](https://www.legislation.gov.uk/uksi/2019/563/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/563/schedule)
+
+[^key-dafe32ba1711183a284afa53efc401c2]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1975/1208/schedule/2) omitted (6.8.1996) by virtue of [The Motor Vehicles (International Circulation) (Amendment) Order 1996 (S.I. 1996/1929)](https://www.legislation.gov.uk/uksi/1996/1929), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1929/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1996/1929/article/3/2) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/1929/article/3/3))
+
+[^key-decdabd26f1abe6cc68fb67991bd8393]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1975/1208/schedule/3/paragraph/1) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-f3657efccfcd7b7467c167387b971e42]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1975/1208/schedule/3/paragraph/1) inserted (14.6.1989) by [The Motor Vehicles (International Circulation) (Amendment) Order 1989 (S.I. 1989/993)](https://www.legislation.gov.uk/uksi/1989/993), [arts. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1989/993/article/2/3/a)
+
+[^key-f05f2ade1a7d91caa09a179bc02d4f07]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1975/1208/schedule/3/paragraph/2) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-313abd396ed41f55a918cc9c44b52be0]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1975/1208/schedule/3/paragraph/3) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-9af5f846ea485c21e107fd75a399436b]: Textual amendment: [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1975/1208/schedule/3/paragraph/3/2) substituted (14.6.1989) by [The Motor Vehicles (International Circulation) (Amendment) Order 1989 (S.I. 1989/993)](https://www.legislation.gov.uk/uksi/1989/993), [arts. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1989/993/article/2/3/b)
+
+[^key-9696748dd59639ce5019517bc870c8c0]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1975/1208/schedule/3/paragraph/3) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-75353c4addb82e0183e3599d438497c7]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/uksi/1975/1208/schedule/3/paragraph/4/1) omitted (14.6.1989) by virtue of [The Motor Vehicles (International Circulation) (Amendment) Order 1989 (S.I. 1989/993)](https://www.legislation.gov.uk/uksi/1989/993), [arts. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/1989/993/article/2/3/c)
+
+[^key-e2cf9a4e61fb7c52577c2b016b4af2ca]: Textual amendment: [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/1975/1208/schedule/3/paragraph/4/2) substituted (14.6.1989) by [The Motor Vehicles (International Circulation) (Amendment) Order 1989 (S.I. 1989/993)](https://www.legislation.gov.uk/uksi/1989/993), [arts. 1](https://www.legislation.gov.uk/uksi/1989/993/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/1989/993/article/2/3/c)
+
+[^key-344a7cfddb8a65f8268c8ae999c09c7f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1975/1208/schedule/3/paragraph/5) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-caeee0f2e3fcb722edc2765100a5b901]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/1975/1208/schedule/4/part/1) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)
+
+[^key-d3e68b957b53e35e167660465a180163]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/1975/1208/schedule/4/part/2) in force at 2.8.1975, see [art. 9(2)](https://www.legislation.gov.uk/uksi/1975/1208/article/9/2)

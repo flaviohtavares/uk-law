@@ -1,0 +1,348 @@
+---
+title: The Cheltenham (Electoral Changes) Order 2023
+id: uksi/2023/820
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-07-18'
+text_date: '2026-05-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2023/820
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/820/pdfs/uksiem_20230820_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/820/pdfs/uksi_20230820_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/820/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cheltenham (Electoral Changes) Order 2023
+
+> Text as at 2026-05-07.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2023 No. 820
+
+Local Government, England
+
+The Cheltenham (Electoral Changes) Order 2023
+
+Made
+
+18th July 2023
+
+Coming into force in accordance with article 1(2), (3) and (4)
+
+Under section 58(4) of the Local Democracy, Economic Development and Construction Act 2009[^f00001] (“**the Act**”), the Local Government Boundary Commission for England[^f00002] (“**the Commission**”) published a report dated April 2023[^f00003] stating its recommendations for changes to the electoral arrangements for the Borough of Cheltenham. The Commission has decided to give effect to the recommendations.
+
+A draft of the instrument has been laid before each House of Parliament and a period of forty days has expired since the day on which it was laid and neither House has resolved that the instrument be not made.
+
+The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
+
+## 1. Citation, commencement, extent and application[^key-2013339303696201853fa811161cfdd6]
+
+(1) This Order may be cited as the Cheltenham (Electoral Changes) Order 2023.
+
+(2) This article and article 2 come into force on the day after the day on which the Order is made.
+
+(3) Articles 3 and 4 come into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2023;
+- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2024.
+
+(4) Article 5 comes into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of parish councillors, on 15th October 2025;
+- (b) for all other purposes, on the ordinary day of election of parish councillors in England[^f00005] in 2026.
+
+(5) This Order extends to England and Wales but applies in relation to England only.
+
+## 2. Interpretation[^key-0177e14491f659815d2444acb0205f99]
+
+(1) In this Order, “**the map**” means the map marked “Map referred to in the Cheltenham (Electoral Changes) Order 2023”, held by the Local Government Boundary Commission for England[^f00006].
+
+(2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
+
+## 3. Wards of the borough of Cheltenham and numbers of councillors[^key-91de6dee0d6329ed9a75f1f7a81977e4][^key-0d50ecd6a8694c9d8fa20c51c25db01b]
+
+(1) The existing wards of the borough of Cheltenham are abolished.
+
+(2) The borough of Cheltenham is divided into the 20 wards listed in Schedule 1.
+
+(3) Each ward comprises the area identified on the map by reference to the name of the ward.
+
+(4) The number of councillors to be elected for each ward is two.
+
+## 4. Elections of the borough of Cheltenham[^key-a3cfdb0c748afee6c227a15b9396c2a7][^key-3b90e96689d2fc4a4bbb89771290d525]
+
+(1) Elections of all councillors for each ward of the borough of Cheltenham are to be held simultaneously on the ordinary day of election of councillors in England in 2024.
+
+(2) The councillors holding office for any ward abolished by article 3(1) immediately before the fourth day after the ordinary day of election of councillors in 2024 are to retire on that fourth day, and the newly elected councillors are to come into office on that fourth day.
+
+(3) Of the councillors elected for a ward in 2024—
+
+- (a) one is to retire on the fourth day after the ordinary day of election of councillors in England in 2026;
+- (b) one is to retire on the fourth day after the ordinary day of election of councillors in England in 2028.
+
+(4) Of the councillors elected for a ward in 2024, the first councillor for each ward to retire is to be the councillor elected by the smallest number of votes.
+
+(5) In the case of an equality of votes between any persons elected which makes it uncertain which of them is to retire in any year, the person to retire in that year is to be determined by lot.
+
+(6) If an election of councillors for any ward is not contested, the person to retire in each year is to be determined by lot.
+
+(7) Where under this article any question is to be determined by lot, the lot is to be drawn at the next practicable meeting of the council after the question has arisen and the drawing is to be conducted under the direction of the person presiding at the meeting.
+
+(8) An election to replace a councillor who is to retire under paragraph (3) is to be held on the ordinary day of election of councillors in England in the year in which the retirement is due to take place, and any newly elected councillor is to come into office on the fourth day after that day.
+
+## 5. Parish wards of the parishes of Leckhampton with Warden Hill, Prestbury, Swindon and Up Hatherley and number of parish councillors[^key-0dd631efbb9044ce7d2b7e333d27a624][^key-8f72067c0eade7e8a5328139b299ba9f]
+
+(1) The existing parish wards of the parishes of Leckhampton with Warden Hill, Prestbury, Swindon and Up Hatherly are abolished.
+
+(2) The parish of Leckhampton with Warden Hill is divided into the four parish wards listed in the first column of Table 1 in Schedule 2.
+
+(3) The parish of Prestbury is divided into the four parish wards listed in the first column of Table 2 in Schedule 2.
+
+(4) The parish of Swindon is divided into the two parish wards listed in the first column of Table 3 in Schedule 2.
+
+(5) The parish of Up Hatherley is divided into the four parish wards listed in the first column of Table 4 in Schedule 2.
+
+(6) Each parish ward comprises the area identified on the map by reference to the name of the parish ward.
+
+(7) The number of councillors to be elected for each parish ward is the number specified in relation to that parish ward in the second column of the relevant table in Schedule 2.
+
+Sealed with the seal of the Local Government Boundary Commission for England
+
+Jolyon Jackson
+
+Chief Executive
+
+Local Government Boundary Commission for England
+
+18th July 2023
+
+## SCHEDULE 1 — Wards of the borough of Cheltenham
+
+Article 3
+
+**1.**[^key-d51e50109f2d5495125db4233a86125f][^key-737e242cf3b0e805d5a480bab125ce94] All Saints
+
+**2.**[^key-5337ec29d759d3d7b1a0c744a46cbd41][^key-ea0f79a61ec0d3015976931f5e2614e3] Battledown
+
+**3.**[^key-7c6e125f1ec9831a14a0e91f1047e49d][^key-581e631b511521cf964daf11590f9ec2] Benhall, the Reddings & Fiddler’s Green
+
+**4.**[^key-e48a1a7120cd19057207053e0283a450][^key-a3ea0f88175ba00d3a3186224eb8c742] Charlton Kings
+
+**5.**[^key-10ba702f42bf9877e57750903e2b5383][^key-4b8982222731e3796ba8d4931f74b6e5] Charlton Park
+
+**6.**[^key-d74e0875e8fa7d62d08ab5a417ad5904][^key-32c772798a88d4eb4638dcc180503af0] College
+
+**7.**[^key-78588d532da5e663cd5709caefae3d62][^key-79bb33df263eabd380f48bcd1b0c64f5] Hesters Way
+
+**8.**[^key-6ef64c2821720d5c4d2c3d5a414a4a1a][^key-c587a53ee4d31c4a4ee65416ded28166] Lansdown
+
+**9.**[^key-4df445cba37defca5d8e6b9314b8490b][^key-056b040cda2338ca1a744fd38158d946] Leckhampton
+
+**10.**[^key-3913d78d8b9552cf51baef38666ff108][^key-10d4018ce45c65a3522887ac91e37174] Oakley
+
+**11.**[^key-e58267ed09d78d2531281d6b010362b8][^key-79430644e9071957f53bebaa9edd0f09] Park
+
+**12.**[^key-45cf07b010a9a7e74e5e3db3c675ce87][^key-c57c5bcb4f8f0648e5e93449e31e976d] Pittville
+
+**13.**[^key-072a44a386f56654d0bb49f3aefc05bc][^key-a8d47b369b3a2c054e22c4f8ba071301] Prestbury
+
+**14.**[^key-7dca5d585354df276634ac6e2d9746cb][^key-2b0f1a56aea0e7de4f4df23f236ce212] Springbank
+
+**15.**[^key-734d8afefd6b58255a51d1f303a94d0a][^key-d3273516388f2d62a7b990d00510a22d] St Mark’s
+
+**16.**[^key-8f3d1170c66bf20134992177da0778f0][^key-7ce68b81c94401fa24d7a09947a4f37c] St Paul’s
+
+**17.**[^key-4421ae9555801bf3e0e3fd3dc1c737ab][^key-983fc25a78b4836392ebca69b6b057cd] St Peter’s
+
+**18.**[^key-92d59ad84f13730090cf5c1aa05a9e22][^key-ed04fdf143d8bb03eef75b8f128a313f] Swindon Village
+
+**19.**[^key-9e52600fb0577ac3f86291f1c667f990][^key-5f76045e2a7d6be24557758860a9969e] Up Hatherley
+
+**20.**[^key-9f6b9ff11188c435e6d6cae231a78e70][^key-c6019029d2cd9e0d9a3e4aee27ad3a00] Warden Hill
+
+## SCHEDULE 2 — Names of parish wards and number of councillors[^key-f25e16c22f0a510037f2c0aca8757d52][^key-81ac7f4ab354adce4213d5eff63eb1ec]
+
+Article 5
+
+Table 1
+
+Parish wards of the parish of Leckhampton with Warden Hill
+
+| (1) Name of parish ward | (2) Number of councillors |
+| --- | --- |
+| Leckhampton Mead | 1 |
+| Leckhampton Undercliff | 1 |
+| Leckhampton Village | 10 |
+| Warden Hill | 6 |
+
+Table 2
+
+Parish wards of the parish of Prestbury
+
+| (1) Name of parish ward | (2) Number of councillors |
+| --- | --- |
+| Pittville Campus | 1 |
+| Prestbury East | 1 |
+| Prestbury North | 11 |
+| Prestbury West | 2 |
+
+Table 3
+
+Parish wards of the parish of Swindon
+
+| (1) Name of parish ward | (2) Number of councillors |
+| --- | --- |
+| Swindon North | 7 |
+| Swindon South | 2 |
+
+Table 4
+
+Parish wards of the parish of Up Hatherley
+
+| (1) Name of parish ward | (2) Number of councillors |
+| --- | --- |
+| Up Hatherley East | 1 |
+| Up Hatherley North 1 | 2 |
+| Up Hatherley North 2 | 1 |
+| Up Hatherley West | 12 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes changes to electoral arrangements for the borough of Cheltenham following recommendations made by the Local Government Boundary Commission for England. The area of the borough remains unchanged.
+
+Article 3 abolishes the existing electoral wards of the borough of Cheltenham and replaces them with 20 new ones. It establishes the names and areas of the new electoral wards and the number of councillors for each.
+
+Article 4 makes provision for a whole borough council election in 2024. Subsequently, the council will revert to the existing system of election by halves. That article also provides for the order of retirement of councillors in 2026 and 2028 and the election of their replacements.
+
+Article 5 makes changes to parish wards that are consequential on the changes made by article 3, those changes coming into force in relation to elections occurring in 2026 and in respect of subsequent parish elections.
+
+The area covered by each ward created by this Order is identified on a map which is available for inspection at reasonable times at the offices of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London, SW1H 0TL.
+
+The map may also be accessed at https://www.lgbce.org.uk/all-reviews/cheltenham.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20).
+
+[^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act 2009.
+
+[^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/cheltenham.
+
+[^key-2013339303696201853fa811161cfdd6]: Commencement: Art. 1 in force at 19.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/820/article/1/2)
+
+[^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^f00005]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^key-0177e14491f659815d2444acb0205f99]: Commencement: Art. 2 in force at 19.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/820/article/1/2)
+
+[^f00006]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/cheltenham.
+
+[^key-91de6dee0d6329ed9a75f1f7a81977e4]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/820/article/3) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-0d50ecd6a8694c9d8fa20c51c25db01b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/820/article/3) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-a3cfdb0c748afee6c227a15b9396c2a7]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2023/820/article/4) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-3b90e96689d2fc4a4bbb89771290d525]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2023/820/article/4) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-0dd631efbb9044ce7d2b7e333d27a624]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2023/820/article/5) in force at 15.10.2025 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/4/a)
+
+[^key-8f72067c0eade7e8a5328139b299ba9f]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2023/820/article/5) in force at 7.5.2026 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/4/b)
+
+[^key-d51e50109f2d5495125db4233a86125f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/1) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-737e242cf3b0e805d5a480bab125ce94]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/1) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-5337ec29d759d3d7b1a0c744a46cbd41]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/2) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-ea0f79a61ec0d3015976931f5e2614e3]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/2) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-7c6e125f1ec9831a14a0e91f1047e49d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/3) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-581e631b511521cf964daf11590f9ec2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/3) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-e48a1a7120cd19057207053e0283a450]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/4) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-a3ea0f88175ba00d3a3186224eb8c742]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/4) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-10ba702f42bf9877e57750903e2b5383]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/5) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-4b8982222731e3796ba8d4931f74b6e5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/5) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-d74e0875e8fa7d62d08ab5a417ad5904]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/6) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-32c772798a88d4eb4638dcc180503af0]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/6) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-78588d532da5e663cd5709caefae3d62]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/7) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-79bb33df263eabd380f48bcd1b0c64f5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/7) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-6ef64c2821720d5c4d2c3d5a414a4a1a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/8) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-c587a53ee4d31c4a4ee65416ded28166]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/8) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-4df445cba37defca5d8e6b9314b8490b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/9) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-056b040cda2338ca1a744fd38158d946]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/9) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-3913d78d8b9552cf51baef38666ff108]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/10) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-10d4018ce45c65a3522887ac91e37174]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/10) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-e58267ed09d78d2531281d6b010362b8]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/11) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-79430644e9071957f53bebaa9edd0f09]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/11) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-45cf07b010a9a7e74e5e3db3c675ce87]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/12) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-c57c5bcb4f8f0648e5e93449e31e976d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/12) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-072a44a386f56654d0bb49f3aefc05bc]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/13) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-a8d47b369b3a2c054e22c4f8ba071301]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/13) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-7dca5d585354df276634ac6e2d9746cb]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/14) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-2b0f1a56aea0e7de4f4df23f236ce212]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/14) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-734d8afefd6b58255a51d1f303a94d0a]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/15) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-d3273516388f2d62a7b990d00510a22d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/15) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-8f3d1170c66bf20134992177da0778f0]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/16) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-7ce68b81c94401fa24d7a09947a4f37c]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/16) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-4421ae9555801bf3e0e3fd3dc1c737ab]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/17) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-983fc25a78b4836392ebca69b6b057cd]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/17) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-92d59ad84f13730090cf5c1aa05a9e22]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/18) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-ed04fdf143d8bb03eef75b8f128a313f]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/18) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-9e52600fb0577ac3f86291f1c667f990]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/19) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-5f76045e2a7d6be24557758860a9969e]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/19) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-9f6b9ff11188c435e6d6cae231a78e70]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/20) in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/a)
+
+[^key-c6019029d2cd9e0d9a3e4aee27ad3a00]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2023/820/schedule/1/paragraph/20) in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/3/b)
+
+[^key-f25e16c22f0a510037f2c0aca8757d52]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2023/820/schedule/2) in force at 15.10.2025, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2023/820/article/1/4/a)
+
+[^key-81ac7f4ab354adce4213d5eff63eb1ec]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2023/820/schedule/2) in force at 7.5.2026 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2023/820/article/1/4/b)

@@ -1,0 +1,27 @@
+---
+title: Wireless Telegraphy Act 2006, section 108
+act: Wireless Telegraphy Act 2006
+section: '108'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/36/section/108
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Wireless Telegraphy Act 2006, section 108
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 108. Civil proceedings
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the doing of a thing is rendered unlawful by Part 2 or 3, and it is also an offence under this Act, the fact that it is such an offence does not limit a person's right to bring civil proceedings in respect of the doing or apprehended doing of that thing.
+
+(2) Without prejudice to the generality of subsection (1), compliance with a provision of Part 2 or 3 contravention of which is an offence under this Act is enforceable in civil proceedings by the Crown, or by OFCOM, for an injunction or for any other appropriate relief.
+
+(3) In the application of this section to Scotland, subsection (2) has effect as if for the words from “civil proceedings” to the end there were substituted “ civil proceedings by the Advocate General for Scotland, or by OFCOM, for an interdict or for any other appropriate relief or remedy ”.

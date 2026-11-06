@@ -1,0 +1,53 @@
+---
+title: Civil Partnership Act 2004, section 170
+act: Civil Partnership Act 2004
+section: '170'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2004/33/section/170
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Civil Partnership Act 2004, section 170
+
+> **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 170. Dissolution order not precluded by previous separation order etc.
+
+*Extent: N.I.*
+
+(1) Subsections (2) and (3) apply if any of the following orders has been made in relation to a civil partnership—
+
+- (a) a separation order;
+- (b) an order under Schedule 16 (financial relief in court of summary jurisdiction etc.);
+- (c) an occupation order under Article 11 of the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I. 6) (occupation orders));
+- (d) an order under Article 15 of that Order (orders where neither civil partner entitled to occupy the home).
+
+(2) Nothing prevents—
+
+- (a) either civil partner from applying for a dissolution order, or
+- (b) the court from making a dissolution order,
+
+on the same facts, or substantially the same facts, as those proved in support of the making of the order referred to in subsection (1).
+
+(3) On the application for the dissolution order, the court—
+
+- (a) may treat the order referred to in subsection (1) as sufficient proof of any desertion or other fact by reference to which it was made, but
+- (b) must not make the dissolution order without receiving evidence from the applicant.
+
+(4) If—
+
+- (a) the application for the dissolution order follows a separation order or any order requiring the civil partners to live apart,
+- (b) there was a period of desertion immediately preceding the institution of the proceedings for the separation order, and
+- (c) the civil partners have not resumed living together and the separation order has been continuously in force since it was made,
+
+the period of desertion is to be treated for the purposes of the application for the dissolution order as if it had immediately preceded the making of the application.
+
+(5) For the purposes of section 168(5)(d) the court may treat as a period during which the respondent has deserted the applicant any period during which there is in force—
+
+- (a) an injunction granted by the High Court or a county court which excludes the respondent from the civil partnership home, or
+- (b) an order under Article 11 or 15 of the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I. 6)) which prohibits the respondent from occupying a dwelling-house in which the applicant and the respondent have, or at any time have had, a civil partnership home.

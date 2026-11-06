@@ -1,0 +1,36 @@
+---
+title: Criminal Justice and Public Order Act 1994, section 105
+act: Criminal Justice and Public Order Act 1994
+section: '105'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/33/section/105
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Public Order Act 1994, section 105
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 105. Breaches of discipline by prisoners under escort.[^c13104201]
+
+*Extent: E+W+S+N.I.*
+
+(1) Where a prisoner for whose transfer or custody a prisoner custody officer has been responsible in pursuance of prisoner escort arrangements is delivered to a prison, he shall be deemed, for the purposes of such prison rules as relate to breaches of discipline, to have been—
+
+- (a) in the custody of the governor of the prison; or
+- (b) in the case of a contracted out prison, in the custody of its director,
+
+at all times during the period for which that officer was so responsible, and that officer may bring a charge of breach of such rules as so relate against the prisoner in respect of any such time.
+
+(2) Nothing in subsection (1) above shall render a prisoner liable to be punished under prison rules for any act or omission of his for which he has already been punished by a court.
+
+(3) In this section “**prison rules**”, in relation to a prison situated in a part of the British Islands outside Scotland, means rules made under any provision of the law of that part which corresponds to section 39 of the 1989 Act.
+
+## Annotations
+
+[^c13104201]: Extent: [S. 105](https://www.legislation.gov.uk/ukpga/1994/33/section/105) extends to Scotland and the British Islands see [s. 172(12)](https://www.legislation.gov.uk/ukpga/1994/33/section/172/12)

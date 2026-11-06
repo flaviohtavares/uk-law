@@ -1,0 +1,149 @@
+---
+title: The Building Societies Act 1986 (Modification of the Lending Limit and Funding Limit Calculations) Order 2004
+id: uksi/2004/3200
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-12-06'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/3200
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/3200/pdfs/uksiem_20043200_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3200/pdfs/uksi_20043200_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3200/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Societies Act 1986 (Modification of the Lending Limit and Funding Limit Calculations) Order 2004
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 3200
+
+BUILDING SOCIETIES
+
+The Building Societies Act 1986 (Modification of the Lending Limit and Funding Limit Calculations) Order 2004
+
+Made
+
+6th December 2004
+
+Laid before Parliament
+
+6th December 2004
+
+Coming into force
+
+1st January 2005
+
+The Treasury, in exercise of the powers conferred upon them by sections 6(7)[^f00001] and 7(7)[^f00002] of the Building Societies Act 1986[^f00003] hereby make the following Order:
+
+## 1. Citation and commencement[^key-feea6d2c025fd587682fd359c79420c6]
+
+(1) This Order may be cited as the Building Societies Act 1986 (Modification of the Lending Limit and Funding Limit Calculations) Order 2004.
+
+(2) This Order comes into force on 1st January 2005.
+
+## 2. Interpretation[^key-198d0c449b463708a906c6b03c113ad0]
+
+(1) In this Order —
+
+- “the 1986 Act” means the Building Societies Act 1986;
+- “[^key-84dda50ae86e852260bcdabf01d6f1a7]**credit institution**” means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+- “debt securities” means any instrument creating or acknowledging indebtedness which is issued by an undertaking, including debentures, loan stock, bonds and certificates of deposit;
+- “securitised assets” means loan assets which are used by the special purpose entity as security under a loan agreement or as security in respect of an issue of debt securities;
+- “special purpose entity” means an undertaking established by or at the request of a building society for the purpose of purchasing loan assets from the society, its subsidiary undertakings or other undertakings and funding such purchases by using the assets purchased as security.
+
+(2) In this Order “net securitised asset amount” means—
+
+- (a) the gross amount of the relevant assets of the special purpose entity, as specified in paragraph (b), minus the amount of non-returnable proceeds raised by that entity pursuant to a securitisation transaction;
+- (b) the relevant assets of the special purpose entity are—
+  - (i) those assets of the special purpose entity which are recognised as assets in the society’s accounts; and
+  - (ii) those assets of the special purpose entity which are recognised for accounting purposes as assets of the society or a subsidiary or associated undertaking of the society and which do not appear in the accounts of the special purpose entity.
+
+(3) In this Order “non-returnable proceeds” means—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2004/3200)
+
+where—
+
+a
+
+A is the total amount of any finance raised by, or funds available to, a special purpose entity;
+
+b
+
+B is the amount of the maximum payments or funds that the society or its subsidiary or associated undertakings are required to make, or make available to the special purpose entity or to any creditors of the special purpose entity, pursuant to the terms of a securitisation transaction;
+
+c
+
+C is the amount of any payments which the society or its subsidiary or associated undertakings are required to make to the special purpose entity under the terms of the securitisation transaction where the society or its subsidiary or associated undertakings are in breach of a warranty given to the special purpose entity in respect of a securitised asset.
+
+## 3. Securitised assets of a subsidiary undertaking and the lending limit[^key-4adf6dfd99f8c9cc4c380bf5b96f8cc1]
+
+(1) Section 6(2)[^f00005] of the 1986 Act is modified in its application to assets of subsidiary undertakings of a building society as follows.
+
+(2) Assets of a subsidiary undertaking are to be disregarded for the purposes of section 6(2), save to the extent of the net securitised asset amount relating to such assets, where the conditions set out in paragraphs (3) to (5) are fulfilled.
+
+(3) The assets of the subsidiary undertaking must be subject to a securitisation transaction.
+
+(4) Those assets must be loans.
+
+(5) The terms of the securitisation transaction must be such that—
+
+- (a) a special purpose entity has acquired legal or equitable rights in relation to the securitised assets in return for a cash payment which has been raised by—
+  - (i) issuing debt securities on the security of those assets; or
+  - (ii) obtaining a loan from a credit institution secured on those assets;
+- (b) the purchasers of the debt securities or the credit institution or institutions providing the loan, as the case may be, have no rights in relation to any of the society’s or any of its subsidiary or associated undertakings' assets, except the assets of the special purpose entity; and
+- (c) the society and its subsidiary or associated undertakings, other than any special purpose entity, have no rights or obligations to acquire or re-acquire any of the securitised assets in the future except—
+  - (i) a right or obligation of the society or its subsidiary or associated undertakings to acquire or re-acquire a securitised asset in respect of which there is a breach of a warranty given to the special purpose entity; and
+  - (ii) a right or obligation of the society or its subsidiary or associated undertakings to acquire or re-acquire the remaining securitised assets once their value has decreased to 10% of their value when the securitisation transaction was entered into, or such lower percentage as may be specified in the transaction agreement.
+
+## 4. Securitised assets of a subsidiary undertaking and the funding limit[^key-590abfd5c19e5cac560aec87b256491d]
+
+(1) Section 7(2)[^f00006] of the 1986 Act is modified in its application to liabilities of subsidiary undertakings of a building society as follows.
+
+(2) Where an amount is included in the total liabilities of any subsidiary undertaking that are consolidated in the society’s accounts, in respect of the non-returnable proceeds raised pursuant to a securitisation transaction, that amount shall be disregarded for the purposes of that section if—
+
+- (a) the assets securitised by the transaction are loans; and
+- (b) the terms of the securitisation transaction meet the conditions in article 3(5).
+
+Derek Twigg
+
+John Heppell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+(This note is not part of the Order)
+
+This Order modifies the application of the Building Societies Act 1986 provisions on the calculation of the lending limit and the funding limit (“the nature limits”) to the assets of subsidiary undertakings. Sections 6 and 7, which set out how the nature limits are to be calculated for a building society, require that the figures to be used for a society’s and its subsidiaries' assets and liabilities are taken from the society’s accounts. Building societies will be able to use International Accounting Standards (“IAS”) to prepare their accounts from 1st January 2005 and those with traded securities will be required to use IAS from that date. This will change the way in which some assets are shown in some societies' accounts. Where a building society prepares its accounts using IAS, certain securitised assets and liabilities in respect of those assets, which previously would only have appeared at net value in their accounts will now appear at gross value. This would have the effect of changing the results of the nature limits calculations for some building societies. This Order therefore provides that securitised assets held by subsidiary undertakings can, where the transaction under which they are securitised meets certain conditions, be included for the calculation of the nature limits at net value regardless of how they appear in the society’s accounts.
+
+## Annotations
+
+[^f00001]: Footnote: Section 6 was substituted by the Building Societies Act 1997 and amended by S.I. [2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
+
+[^f00002]: Footnote: Section 7 was substituted by the Building Societies Act 1997 and amended by S.I. [2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
+
+[^f00003]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^key-feea6d2c025fd587682fd359c79420c6]: Commencement: Art. 1 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
+
+[^key-198d0c449b463708a906c6b03c113ad0]: Commencement: Art. 2 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
+
+[^key-84dda50ae86e852260bcdabf01d6f1a7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3200/article/2/1) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/710/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4adf6dfd99f8c9cc4c380bf5b96f8cc1]: Commencement: Art. 3 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
+
+[^f00005]: Footnote: Section 6 was substituted by the Building Societies Act 1997 and amended by S.I. [2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), and S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
+
+[^key-590abfd5c19e5cac560aec87b256491d]: Commencement: Art. 4 in force at 1.1.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3200/article/1/2)
+
+[^f00006]: Footnote: Section 7 was substituted by the Building Societies Act 1997 and amended by S.I. [2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).

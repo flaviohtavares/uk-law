@@ -1,0 +1,121 @@
+---
+title: The Gas Act 1986 (Exemptions) (No. 3) Order 1996
+id: uksi/1996/1354
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-05-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/1354
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/1354/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Gas Act 1986 (Exemptions) (No. 3) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 1354
+
+GAS
+
+The Gas Act 1986 (Exemptions) (No. 3) Order 1996
+
+Made
+
+21st May 1996
+
+Laid before Parliament
+
+22nd May 1996
+
+Coming into force
+
+13th June 1996
+
+The Secretary of State, in exercise of the powers conferred upon him by section 6A of the Gas Act 1986[^f00001] and all other powers enabling him in that behalf, and after consultation with the Director General of Gas Supply, hereby makes the following Order:—
+
+## 1. Citation, coming into force and duration
+
+(1) This Order may be cited as the Gas Act 1986 (Exemptions) (No. 3) Order 1996.
+
+(2) This Order and the exemption contained in it shall come into force on 13th June 1996 and that exemption shall continue in force until 30th November 1996 and shall then expire.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the 1986 Act” means the Gas Act 1986;
+- “terminal operator” has the meaning given by article 3(2) below.
+
+## 3. Scope of exemption
+
+(1) Subject to paragraph (2) below, an exemption from section 5(1)(a) of the 1986 Act is hereby granted to any person in respect of the conveyance of gas by that person through pipes from the premises identified in the Schedule to this Order to a pipe-line system operated by a public gas transporter.
+
+(2) A person conveying gas as mentioned in paragraph (1) above (hereinafter, the “terminal operator”) is entitled to the exemption there provided for only if and so long as he satisfies the condition set out in article 4 below in relation to the conveyance in respect of which the exemption is granted.
+
+## 4. Condition of exemption
+
+(1) Subject to paragraph (2) below, the terminal operator shall, except so far as the Secretary of State consents to his not doing so, comply with any direction given by the Secretary of State, after he has consulted the terminal operator, the relevant transporter, the Director General of Gas Supply and the Health and Safety Executive, to supply to a relevant transporter such information as may be specified or described in the direction—
+
+- (a) at such times, in such form and such manner; and
+- (b) in respect of such periods, not being less than 1 hour,
+
+as may be so specified or described.
+
+(2) The terminal operator shall not be in breach of this condition if he is prevented from complying with such a direction by an incident beyond his control.
+
+(3) In this condition, unless the context otherwise requires—
+
+- “information” means information—
+  - (a) relevant to the operation of a pipe-line system—
+    - (i) which is operated by such public gas transporter as may be specified in the direction given by the Secretary of State; and
+    - (ii) to which gas is conveyed—
+      - (aa) by the terminal operator in pursuance of the exemption granted by this Order; or
+      - (bb) directly or indirectly, by a public gas transporter to whose pipe-line system the terminal operator conveys gas in pursuance of the exemption granted by this Order; and
+  - (b) relating to—
+    - (i) the calorific value or the total quantity of gas expected to be conveyed or which could be conveyed during the next following day by the terminal operator through pipes in pursuance of the exemption granted by this Order; or
+    - (ii) any changes in such calorific value or total quantity as may be so specified;
+- “day” means the period beginning at 6 a.m. on one day and ending immediately before 6 a.m. on the next following day;
+- “relevant transporter” means a public gas transporter operating a pipe-line system to which the terminal operator conveys gas through pipes in pursuance of the exemption granted by this Order.
+
+Tim Eggar
+
+Minister for Industry and Energy,
+
+Department of Trade and Industry
+
+21st May 1996
+
+## SCHEDULE — Premises to which article 3 applies
+
+Article 3
+
+The Gas Treatment Plant
+
+Connah’s Quay CCGT Power Station
+
+Kelsterton Road
+
+Connah’s Quay
+
+Deeside
+
+Clywd
+
+CH5 4BP
+
+(an address of PowerGen plc)
+
+(This note is not part of the Order)
+
+Section 6A of the Gas Act 1986, substituted by section 4 of the Gas Act 1995, provides for the granting by Order of exemptions from the prohibition contained in section 5 of the 1986 Act from carrying on the conveyance, supply or shipping of gas without a licence. The Order contains an exemption in respect of the conveyance of gas from the premises mentioned in the Schedule to a pipe-line system operated by a public gas transporter. The exemption, which continues in force until 30th November 1996, is subject to the condition set out in article 4, whereby the Secretary of State may direct a person so conveying gas to provide information about the calorific value and quantity of the gas to the public gas transporter.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 6A was substituted by section 4 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45).

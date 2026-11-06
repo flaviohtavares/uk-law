@@ -1,0 +1,19 @@
+---
+title: The Environmental Assessment (Scotland) Regulations 1988, section 32
+act: The Environmental Assessment (Scotland) Regulations 1988
+section: '32'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1988/1221/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Assessment (Scotland) Regulations 1988, section 32
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 32. Service of notices, etc.
+
+Any notice or other document to be sent, served or given under these Regulations may be served or given in a manner specified in section 269.

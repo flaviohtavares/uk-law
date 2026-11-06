@@ -1,0 +1,45 @@
+---
+title: Companies (Consolidation) Act 1908, section 85
+act: Companies (Consolidation) Act 1908
+section: '85'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Edw7/8/69/section/85
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies (Consolidation) Act 1908, section 85
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 85. Restriction as to allotment.
+
+(1) No allotment shall be made of any share capital of a company offered to the public for subscription, unless the following conditions have been complied with, namely :—
+
+- (a) the amount (if any) fixed by the memorandum or articles and named in the prospectus as the minimum subscription upon which the directors may proceed to-allotment; or
+- (b) if no amount is so fixed and named, then the whole amount of the share capital so offered for subscription,
+
+has been subscribed, and the sum payable on application for the amount so fixed and named, or for the whole amount offered for subscription, has been paid to and received by the company.
+
+(2) The amount so fixed and named and the whole amount aforesaid shall be reckoned exclusively of any amount payable otherwise than in cash, and is in this Act referred to as the minimum subscription.
+
+(3) The amount payable on application on each share shall not be less than five per cent. of the nominal amount of the share.
+
+(4) If the conditions aforesaid have not been complied with on the expiration of forty days after the first issue of the prospectus, all money received from applicants for shares shall be forthwith repaid to them without interest, and, if any such money is not so repaid within forty-eight days after the issue of the prospectus, the directors of the company shall be jointly and severally liable to repay that money with interest at the rate of five per centum per annum from the expiration of the forty-eighth day:
+
+Provided that a director shall not be liable if he proves that the loss of the money was not due to any misconduct or negligence on his part.
+
+(5) Any condition requiring or binding any applicant for shares to waive compliance with any requirement of this section shall be void.
+
+(6) This section, except subsection (3) thereof, shall not apply to any allotment of shares subsequent to the first allotment of shares offered to the public for subscription.
+
+(7) In the case of the first allotment of share capital payable in cash of a company which does not issue any invitation to the public to subscribe for its shares, no allotment shall be made unless the minimum subscription (that is to say):—
+
+- (a) the amount (if any) fixed by the memorandum or articles and named in the statement in lieu of prospectus as the minimum subscription upon which the directors may proceed to allotment; or
+- (b) if no amount is so fixed and named, then the whole amount of the share capital other than that issued or agreed to be issued as fully or partly paid up otherwise than in cash,
+
+has been subscribed and an amount not less than five per cent. of the nominal amount of each share payable in cash has been paid to and received by the company.
+
+This subsection shall not apply to a private company or to a company which has allotted any shares or debentures before the first day of July nineteen hundred and eight.

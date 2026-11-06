@@ -1,0 +1,154 @@
+---
+title: The Audit Commission for Local Authorities and the National Health Service in England (Specified Organisations) (England) Order 2009
+id: uksi/2009/1360
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-06-02'
+text_date: '2012-03-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/1360
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/1360/pdfs/uksiem_20091360_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1360/pdfs/uksi_20091360_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1360/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Audit Commission for Local Authorities and the National Health Service in England (Specified Organisations) (England) Order 2009
+
+> Text as at 2012-03-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 1360
+
+Local Government, England
+
+The Audit Commission for Local Authorities and the National Health Service in England (Specified Organisations) (England) Order 2009
+
+Made
+
+2nd June 2009
+
+Laid before Parliament
+
+9th June 2009
+
+Coming into force
+
+2nd July 2009
+
+The Secretary of State, in exercise of the powers conferred by section 47B and paragraph 5(3) and (6) of Schedule 2A to the Audit Commission Act 1998[^f00001], makes the following Order:
+
+## 1. Citation, commencement, application and interpretation[^key-901da24d5d1ce12de4d4f6c7dfd78943]
+
+(1) This Order may be cited as the Audit Commission for Local Authorities and the National Health Service in England (Specified Organisations) (England) Order 2009 and shall come into force on 2nd July 2009.
+
+(2) This Order applies in relation to England only.
+
+(3) In this Order “the 1998 Act” means the Audit Commission Act 1998.
+
+## 2. Specified organisations[^key-0d8b06d5f49fa3020118e77cdf0e089c]
+
+The following bodies are specified as organisations for the purposes of paragraph 5 of Schedule 2A (interaction with other authorities) to the 1998 Act—
+
+- (a) a county council;
+- (b) a district council;
+- (c) a London borough council;
+- (d) a parish council;
+- (e) a parish meeting of a parish which does not have a separate parish council;
+- (f) the Council of the Isles of Scilly;
+- (g) the Common Council of the City of London in its capacity as a local authority;
+- (h) the Greater London Authority so far as its functions are exercisable by the Mayor on its behalf;
+- (i) a National Park authority;
+- (j) the Broads Authority;
+- (k) a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004[^f00002] or a scheme to which section 4 of that Act applies, and a metropolitan county fire and civil defence authority;
+- (l) the London Fire and Emergency Planning Authority;
+- (m) an authority established under section 10 of the Local Government Act 1985[^f00003] (waste disposal authorities);
+- (n) an authority established for an area in England by an order under section 207 of the Local Government and Public Involvement in Health Act 2007[^f00004] (joint waste authorities);
+- (o) an Integrated Transport Authority;
+- (p) Transport for London;
+- (q)[^key-55daf794bb8cb450f987313a8b540bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Excluded inspections, etc[^key-2b615a7324ae6be8f066a6ad75a34a3b]
+
+The following cases are those in which a notice may not be given under paragraph 5 of Schedule 2A to the 1998 Act (inspections by other inspectors of organisations within the Commission’s remit)—
+
+- (a) an investigation, visit or interview by the Care Quality Commission under section 120 of the Mental Health Act 1983 [^f00005](general protection of relevant patients);
+- (b) an inspection carried out by the Care Quality Commission or Her Majesty’s Chief Inspector of Education, Children’s Services and Skills under section 31 of the Care Standards Act 2000[^f00006] (inspections by persons authorised by registration authority);
+- (c) a visit or interview carried out by the Care Quality Commission required under regulations made under paragraph 162 of Schedule A1 (Hospital and care home residents: deprivation of liberty) to the Mental Capacity Act 2005[^f00007] (monitoring of operation of Schedule);
+- (d) an inspection carried out by the Care Quality Commission under section 60 (inspections) of the Health and Social Care Act 2008[^f00008] insofar as—
+  - (i) it relates to the regulatory functions of that Commission under Chapter 2 of Part 1 of the Act (registration in respect of the provision of health or social care); or
+  - (ii) it is part of a review, investigation or study undertaken by that Commission at the request of the Secretary of State under section 48(1) (special reviews and investigations), 50(5) (failings by English local authorities) or 54(4) (studies as to economy, efficiency etc) of the Act;
+- (e) an inspection carried out by Her Majesty’s Chief Inspector of Education, Children’s Services and Skills under—
+  - (i) section 5 (duty to inspect certain schools) or 8 (other inspections) of the Education Act 2005[^f00009],
+  - (ii) section 49 or 60 (inspections) of the Childcare Act 2006[^f00010],
+  - (iii) section 118(6), 124 to 126, 128(1) or 136(3) of the Education and Inspections Act 2006[^f00011], or
+  - (iv) section 75(1)(a) of the Education and Skills Act 2008[^f00012] (inspection);
+- (f) a review at the request of the Secretary of State under section 20(1) of the Children Act 2004[^f00013] (joint area reviews).
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Sadiq Khan
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+2nd June 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order specifies certain bodies as “organisations” for the purposes of paragraph 5(3) of Schedule 2A to the Audit Commission Act 1998, which was inserted by section 149 of the Local Government and Public Involvement in Health Act 2007. Paragraph 5 of Schedule 2A imposes a duty on the Audit Commission for Local Authorities and the National Health Service in England to prevent or limit certain proposed inspections of those specified organisations where it considers that the proposed inspection would impose an unreasonable burden on the organisation or would if carried out in a particular way. The specified organisations are the persons and bodies listed in article 2 of this Order.
+
+The specification has an effect if a person or body referred to in paragraph 5(2) of Schedule 2A proposes to inspect one of the specified organisations. The persons or bodies referred to in paragraph 5(2) are: (i) those listed in paragraph 1(1) and (2) of Schedule 2A (as amended), namely Her Majesty’s Chief Inspector of Prisons, Her Majesty’s Chief Inspector of Constabulary, Her Majesty’s Chief Inspector of the Crown Prosecution Service, Her Majesty’s Chief Inspector of Probation for England and Wales, Her Majesty’s Chief Inspector of Court Administration, Her Majesty’s Chief Inspector of Education, Children’s Services and Skills, the Care Quality Commission, Her Majesty’s Inspectors of Constabulary, Her Majesty’s Inspectorate of Probation for England and Wales, Her Majesty’s Inspectorate of Court Administration; (ii) any person authorised under section 139A of the Social Security Administration Act 1992 (persons authorised to report on the administration of housing benefit and council tax benefit); and (iii) any other person or body specified by order made by the Secretary of State.
+
+If the Audit Commission considers that the proposed inspection by one of these persons or bodies would impose an unreasonable burden on one of the specified organisations listed in article 2, the Audit Commission must give notice to that person or body not to carry out the proposed inspection or not to carry it out in a particular manner.
+
+Article 3 lists those inspections that are specified as cases in which a notice may not be given by the Audit Commission, under the power provided in paragraph 5(6) of Schedule 2A.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1998.c.18](https://www.legislation.gov.uk/ukpga/1998/18); section 47B and Schedule 2A were inserted into the Audit Commission Act 1998 by section 149 of, and Schedule 11 to, the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28). The definition of “inspection authority” in paragraph 1(1) and (2) of Schedule 2A is amended by article 3 of, and paragraph 26(1) and (2)(d) of Schedule 1 to, [S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912), the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), sections 95 and 166 and the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), sections 277 and 321.
+
+[^key-901da24d5d1ce12de4d4f6c7dfd78943]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1360/article/1) in force at 2.7.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1360/article/1/1)
+
+[^key-0d8b06d5f49fa3020118e77cdf0e089c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1360/article/2) in force at 2.7.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1360/article/1/1)
+
+[^f00002]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
+
+[^f00003]: Footnote: [1985 c.51](https://www.legislation.gov.uk/ukpga/1985/51).
+
+[^f00004]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^key-55daf794bb8cb450f987313a8b540bb8]: Textual amendment: [Art. 2(q)](https://www.legislation.gov.uk/uksi/2009/1360/article/2/q) revoked (31.3.2012) by [The Localism Act 2011 (Housing and Regeneration Functions in Greater London) (Consequential, Transitory, Transitional and Saving Provisions) Order 2012 (S.I. 2012/666)](https://www.legislation.gov.uk/uksi/2012/666), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/666/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/666/schedule/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/666/article/3), [4](https://www.legislation.gov.uk/uksi/2012/666/article/4))
+
+[^key-2b615a7324ae6be8f066a6ad75a34a3b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1360/article/3) in force at 2.7.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1360/article/1/1)
+
+[^f00005]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20); section 120 was substituted by the Health and Social Care Act 2008, section 52(5) and Schedule 3, paragraphs 1 and 8.
+
+[^f00006]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14); section 31 was amended by the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38), section 139 and Schedule 3, paragraphs 103 and 111, the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), sections 108, 147, 196 and Schedule 9, paragraphs 16 and 23, and Schedule 14, Part 2, the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), section 157 and Schedule 14, paragraphs 38 and 48 and the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 8 and Schedule 1, paragraph 12.
+
+[^f00007]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9); Schedule A1 was inserted by the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), section 50(5) and Schedule 7.
+
+[^f00008]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00009]: Footnote: [2005 c.18](https://www.legislation.gov.uk/ukpga/2005/18); sections 5 and 8 were amended by the Education and Inspections Act 2006, sections 71, 154 and 157.
+
+[^f00010]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^f00011]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^f00012]: Footnote: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25).
+
+[^f00013]: Footnote: [2004 c.31](https://www.legislation.gov.uk/ukpga/2004/31).

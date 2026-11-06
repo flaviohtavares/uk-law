@@ -1,0 +1,238 @@
+---
+title: The Social Security (Deferral of Retirement Pensions) Regulations 2005
+id: uksi/2005/453
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-03-03'
+text_date: '2026-03-15'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2005/453
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/453/pdfs/uksiem_20050453_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/453/pdfs/uksi_20050453_300613_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/453/pdfs/uksi_20050453_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/453/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Deferral of Retirement Pensions) Regulations 2005
+
+> Text as at 2026-03-15.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2005 No. 453
+
+SOCIAL SECURITY
+
+The Social Security (Deferral of Retirement Pensions) Regulations 2005
+
+Made
+
+3rd March 2005
+
+Laid before Parliament
+
+10th March 2005
+
+Coming into force
+
+6th April 2005
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 54(1), 122(1) and 175(3) of, and paragraphs 2(2), 3(1), 3B(2) and (5)(b)(iii) and 7B(2) and (5)(b)(iii) of Schedule 5 to, the Social Security Contributions and Benefits Act 1992 [^c1082787], and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals in respect of regulation 4 should not be referred to it [^c1082788], the remainder of this Instrument containing only regulations made under provisions introduced by section 297 of, and Schedule 11 to, the Pensions Act 2004 [^c1082789] and being made before the end of the period of 6 months beginning with the coming into force of those provisions [^c1082790], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Deferral of Retirement Pensions) Regulations 2005 and shall come into force on 6th April 2005.
+
+(2) In these Regulations—
+
+- “**the Act**” means the Social Security Contributions and Benefits Act 1992;
+- “**retirement pension**” means a Category A or Category B retirement pension.
+- “shared additional pension” means a shared additional pension under section 55A[^key-181e1cc1d018c3f52691fbcd004e78b1] or 55AA[^key-1c99b250329a3e2fe613e8559dfe959b] of the Act.
+
+## 2. Beginning of accrual period[^key-b7f5bb2999a04f61a3e2e5598bd62b9f]
+
+(1) This regulation applies for the purposes of paragraphs 3B and 7B of Schedule 5 and paragraph 5 of Schedule 5A to the Act (calculation of lump sum).
+
+(2) In the case of a retirement pension or shared additional pension to which regulation 22 (long term benefits) of the Social Security (Claims and Payments) Regulations 1987 (“the 1987 Regulations”) applies, the accrual period shall begin with the day of the week on which benefit would have been payable had entitlement not been deferred.
+
+(3) In the case of a retirement pension to which regulation 22C (retirement pension for persons reaching pensionable age on or after 6th April 2010) of the 1987 Regulations applies, the accrual period shall begin with the first day of the benefit week in relation to which benefit would have been payable had entitlement not been deferred.
+
+(4) In this regulation, “benefit week” has the same meaning as in regulation 22D (payment of retirement pension at a daily rate) of the 1987 Regulations.
+
+## 3. Amount of retirement pension not included in the calculation of the lump sum
+
+(1) For the purposes of the calculation of the lump sum under paragraphs 3B and 7B of Schedule 5 to the Act, the amount of retirement pension to which the person (“the deferrer”) would have been entitled for the accrual period if his entitlement had not been deferred shall not include any such pension where, for the entire accrual period—
+
+- (a) the deferrer has received any of the following benefits—
+  - (i) any benefit under Parts II and III of the Act other than child's special allowance, attendance allowance, disability living allowance , a shared additional pension[^key-88229ee41e9223cbd4a63ca1a9781416] and guardian's allowance;
+  - (ii) any severe disablement allowance under sections 68 and 69 of the Act as in force before 6<sup>th</sup> April 2001 [^c1082792];
+  - (iii) any unemployability supplement within the extended meaning in regulation 2(1) of the Social Security (Overlapping Benefits) Regulations 1979 [^c1082793] and including benefit corresponding to an unemployability supplement by virtue of regulations under paragraph 7(2) of Schedule 8 to the Act;
+  - (iv)[^key-48f24bd5c1762ecaba00b57bf79a33ea] state pension credit under section 1 of the State Pension Credit Act 2002;
+  - (v)[^key-9e862b697c1c22236b4fbb9e72d5bec4] the carer support payment component of carer support given in accordance with[^key-2f49d05a8b23a1d361301e9dd54076a1] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+  - (vi)[^key-a709037274f5e7137d501d7d8266e2cf] universal credit under Part 1 of the Welfare Reform Act 2012;
+- (aa)[^key-1c69a673cebc8885eeac5d41a3f6359b] in the case of a deferrer who was a member of a couple, the other member of the couple was in receipt of—
+  - (i) income support under section 124 of the Act;
+  - (ii) income-based jobseeker’s allowance under section 1 of the Jobseekers Act 1995;
+  - (iii) state pension credit under section 1 of the State Pension Credit Act 2002; [^key-dd1080b6f1dde52a6798d6a5fc1010f4] ...
+  - (iv) income-related employment and support allowance under section 1 of the Welfare Reform Act 2007; or[^key-f643b9ba334079059a5a6fa7d2c6e77a]
+  - (v) universal credit under Part 1 of the Welfare Reform Act 2012;
+- (b) an increase of any of the benefits specified in sub-paragraph (a) is being paid to a married man in respect of his wife where the wife is a deferrer whose period of deferment began before 6th April 2005 and who would have been entitled to a Category B retirement pension or to an increase under section 51A(2) of the Act [^c1082794];
+- (c) an increase of any of the benefits specified in sub-paragraph (a) is being paid to any person in respect of a deferrer whose period of deferment began on or after 6th April 2005 except where that deferrer is neither married to or in a civil partnership with,[^key-f82534697c7cbc75622bd9c7f53314da] nor residing with, that person;
+- (d) the deferrer would have been disqualified for receiving retirement pension by reason of imprisonment or detention in legal custody.
+
+(1A)[^key-b64b88cd06a1fba3b0797df35507c5e4] For the purposes of the calculation of the lump sum under paragraph 5 of Schedule 5A to the Act, the amount of a shared additional pension to which a person (“the deferrer”) would have been entitled for the accrual period if his entitlement had not been deferred shall not include any such pension where, for the entire accrual period, the deferrer would have been disqualified for receiving shared additional pension by reason of imprisonment or detention in legal custody.
+
+(2) Where any of the benefits referred to in paragraph (1)(a) or (aa)[^key-e7a9e43b3082b6f0b01ceee7ef6968de] or an increase referred to in paragraph (1)(b) or (c) has been received for part only of an accrual period, the amount of retirement pension not included by paragraph (1) shall be reduced by 7th for each day of the accrual period in respect of which the benefit or increase has not been received.
+
+(3) Where the deferrer would have been disqualified for receiving retirement pension as specified in paragraph (1)(d) or a shared additional pension as specified in paragraph (1A)[^key-2fa105f348e27d5574c7f43951712896] for part only of an accrual period, the amount of retirement pension not included by paragraph (1) or a shared additional pension not included by paragraph (1A)[^key-726d48c98a99fe27a1cb57a564c4ad37] shall be reduced by 7th for each day of the accrual period for which he would not have been so disqualified.
+
+(4) Subject to paragraph (5), where—
+
+- (a) a person has, in respect of any day in an accrual period, received one or more of the benefits referred to in paragraph (1)(a) or (aa)[^key-6e2ef205c75f2936c127b56d586fe027] or increases referred to in paragraph (1)(b) and (c) or both;
+- (b) the determining authority has determined that in respect of that day, he was not entitled to the benefit or increase; and
+- (c) the whole of the benefit or increase in respect of that day has been repaid or, as the case may be, recovered on or before the relevant date,
+
+that day shall be treated as a day in respect of which he did not receive that benefit or increase or both.
+
+(5) Where the benefit or increase in respect of a day to which paragraph (4)(a) and (b) applies is repaid or, as the case may be, recovered on or after the relevant date, that day shall only be treated as a day in respect of which that person did not receive that benefit or increase once the benefit or increase has been repaid in respect of all the days to which those sub-paragraphs relate and which fall within the period of deferment.
+
+(5A)[^key-a6aa4d27d63d0acf95037646650a7c2f] In paragraph (1), couple has the meaning—
+
+- (a) in relation to universal credit, given by section 39 of the Welfare Reform Act 2012; and
+- (b) in relation to the other benefits referred to in paragraph (1)(a) or (aa), given by section 137(1) of the Act.
+
+(6) In paragraph (4), “**the determining authority**” means as the case may require, the Secretary of State, an appeal tribunal constituted under Chapter I of Part I of the Social Security Act 1998 [^c1082795] or a Commissioner, or a tribunal consisting of three or more such Commissioners constituted in accordance with section 16(7) of that Act.
+
+(7) In paragraphs (4) and (5), “**relevant date**” means–
+
+- (a) the last day of the period of deferment; or
+- (b) where entitlement to a lump sum arises under paragraph 7A of Schedule 5 to the Act, the date of S's death.
+
+(8) Any amount of retirement pension or a shared additional pension[^key-187505e65bb4fcd23e03ce9aa8508c18] not included in the calculation of the lump sum in accordance with this regulation must be rounded to the nearest penny, taking any ½ p as nearest to the next whole penny above.
+
+## 4. Amendment of the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979
+
+(1) The Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979 [^c1082796] shall be amended in accordance with the following paragraphs.
+
+(2) In regulation 1(2)(interpretation), the definition of “**period of enhancement**” shall be omitted.
+
+(3) In regulation 2 (election to be treated as not having retired)—
+
+- (a) in paragraph (1)(a), the words from “but is” to “70” shall be omitted;
+- (b) for paragraphs (3) and (4), there shall be substituted the following paragraphs–
+
+  > (3) Notice of election for the purposes of this regulation may be given by telephone call to the telephone number specified by the Secretary of State unless the Secretary of State directs in any particular case that the notice or consent must be given in writing.
+  >
+  > (4) Subject to paragraphs (5) and (6), an election shall take effect–
+  >
+  > - (a) on the date on which it is given; or
+  > - (b) on such other date specified by the person making the election, being no earlier than the date on which it is given and no later than 28 days after the date on which it is given.
+
+  ;
+- (c) in paragraph (5)(a), the words “in writing” shall be omitted.
+
+(4) In regulation 4 (days to be treated as days of increment)—
+
+- (a) in both paragraphs (1) and (2)(i), for the word “enhancement”, there shall be substituted the word “ ;deferment ”;
+- (b) in paragraph (1)—
+  - (i) in sub-paragraph (c), after the words “section 10(2) increase” there shall be inserted the words “ ;and whose period of deferment began before 6<sup>th</sup> April 2005 ”;
+  - (ii) after sub-paragraph (c), there shall be inserted the following—
+
+    > and
+    >
+    > - (d) in the case of a person who would have been entitled to a Category A or Category B retirement pension (“the deferrer”) and whose period of deferment begins on or after 6th April 2005—
+    >   - (i) no other person has received an increase of any of the benefits mentioned in sub-paragraph (b) in respect of the deferrer; or
+    >   - (ii) another person has received such an increase in respect of the deferrer and the deferrer is neither married to, nor residing with, that other person.
+
+    .
+
+(5) In regulation 5 (modifications)—
+
+- (a) in both paragraph (1) and the modification made by paragraph (3), for the word “enhancement” there shall be substituted the word “ ;deferment ”;
+- (b) in the modification made by paragraph (5), in both (a) and (b), for “�??7th per cent”, there shall be substituted “ ;�??th per cent. ”.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Malcolm Wicks
+
+Minister of State,
+
+Department for Work and Pensions
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision relating to changes to the regime for deferring entitlement to state pension made and brought forward by the Pensions Act 2004 (c. 35) which provide, in particular, for an increased incremental rate for those deferring their state pension and for a choice between increments and a lump sum for those who have deferred their entitlement for 12 months or more.
+
+Regulation 2 prescribes the day on which the accrual period for the lump sum is to start.
+
+Regulation 3 prescribes the circumstances in which the amount of retirement pension which the deferrer would have received in an accrual period shall not be included in the calculation of the lump sum. These include receipt of certain benefits or increases in benefits or imprisonment. It also allows for a reduction where those circumstances apply for part only of an accrual period.
+
+Regulation 4 amends the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979 (S.I.1979/642). It does so in consequence of changes to the Social Security Contributions and Benefits Act 1992 (c. 4) made originally by the Pensions Act 1995 (c. 26) and which were due to come into force in 2010 but are now to come into force this year (paragraphs (2), (3)(a) and (4)(a)), to allow for both elections and consents to elections to be treated as not entitled to a retirement pension to be made by telephone (paragraph (3)(b) and (c)) and to make further provision in relation to the calculation of days of increment for those who start deferring their state pension on or after 6th April 2005 (paragraph (4)(b)).
+
+A full Regulatory Impact Assessment has not been produced for this Instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^c1082787]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 54(1) was amended by the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [Schedule 4](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4), [paragraph 6(1)](https://www.legislation.gov.uk/ukpga/1995/26/paragraph/6/1) and by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [Schedule 12](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12), [paragraph 22](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/22). Section 55 was substituted by section 297(1) of the [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35). Paragraphs 2(2) and 3(1) of Schedule 5 were amended by the Pensions Act 1995, Schedule 4, paragraph 6(2). Paragraphs 3B and 7B of Schedule 5 were inserted by Schedule 11 to the Pensions Act 2004, paragraphs 8(1) and 11(1). Section 122(1) is cited because of the meaning ascribed to the word “prescribe”.
+
+[^c1082788]: Marginal citation: *See* sections 170 and 173(1)(b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^c1082789]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^c1082790]: Marginal citation: *See* section 173(5)(a) of the Social Security Administration Act 1992.
+
+[^key-181e1cc1d018c3f52691fbcd004e78b1]: Textual amendment: Words in reg. 1(2) added (6.7.2005) by [Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [9(2)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^key-1c99b250329a3e2fe613e8559dfe959b]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [26](https://www.legislation.gov.uk/uksi/2015/1985/article/26)
+
+[^key-b7f5bb2999a04f61a3e2e5598bd62b9f]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/453/regulation/2) substituted (5.4.2011) by [Social Security (Deferral of Retirement Pensions) (Amendment) Regulations 2011 (S.I. 2011/786)](https://www.legislation.gov.uk/uksi/2011/786), [regs. 1](https://www.legislation.gov.uk/uksi/2011/786/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/786/regulation/2)
+
+[^key-88229ee41e9223cbd4a63ca1a9781416]: Textual amendment: Words in reg. 3(1)(a)(i) inserted (6.7.2005) by [Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [9(4)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/9/4/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^c1082792]: Marginal citation: Sections 68 and 69 were repealed by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [section 65](https://www.legislation.gov.uk/ukpga/1999/30/section/65) and Schedule 13, Part IV but awards of severe disablement allowance made before 6<sup>th</sup> April 2001 continue to have effect.
+
+[^c1082793]: Marginal citation: [S.I.1979/597](https://www.legislation.gov.uk/uksi/1979/597); the relevant amending instrument is [S.I.1980/1927](https://www.legislation.gov.uk/uksi/1980/1927).
+
+[^key-48f24bd5c1762ecaba00b57bf79a33ea]: Textual amendment: Reg. 3(1)(a)(iv) inserted (6.4.2011) by [The Social Security (Deferral of Retirement Pensions) Regulations 2011 (S.I. 2011/634)](https://www.legislation.gov.uk/uksi/2011/634), [regs. 1](https://www.legislation.gov.uk/uksi/2011/634/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/634/regulation/3/2) (with [reg. 3(6)](https://www.legislation.gov.uk/uksi/2011/634/regulation/3/6))
+
+[^key-9e862b697c1c22236b4fbb9e72d5bec4]: Textual amendment: [Reg. 3(1)(a)(v)](https://www.legislation.gov.uk/uksi/2005/453/regulation/3/1/a/v) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1218/article/15)
+
+[^key-2f49d05a8b23a1d361301e9dd54076a1]: Textual amendment: Words in [reg. 3(1)(a)(v)](https://www.legislation.gov.uk/uksi/2005/453/regulation/3/1/a/v) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [18](https://www.legislation.gov.uk/uksi/2026/246/article/18)
+
+[^key-a709037274f5e7137d501d7d8266e2cf]: Textual amendment: [Reg. 3(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2005/453/regulation/3/1/a/vi) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/611/regulation/7/2)
+
+[^key-1c69a673cebc8885eeac5d41a3f6359b]: Textual amendment: Reg. 3(1)(aa) inserted (6.4.2011) by [The Social Security (Deferral of Retirement Pensions) Regulations 2011 (S.I. 2011/634)](https://www.legislation.gov.uk/uksi/2011/634), [regs. 1](https://www.legislation.gov.uk/uksi/2011/634/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/634/regulation/3/3) (with [reg. 3(6)](https://www.legislation.gov.uk/uksi/2011/634/regulation/3/6))
+
+[^key-dd1080b6f1dde52a6798d6a5fc1010f4]: Textual amendment: Word in reg. 3(1)(aa)(iii) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/34/a)
+
+[^key-f643b9ba334079059a5a6fa7d2c6e77a]: Textual amendment: Reg. 3(1)(aa)(v) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/34/a)
+
+[^c1082794]: Marginal citation: Section 51A was inserted by the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [Schedule 4](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4), [paragraph 21(6)](https://www.legislation.gov.uk/ukpga/1995/26/paragraph/21/6).
+
+[^key-f82534697c7cbc75622bd9c7f53314da]: Textual amendment: Words in reg. 3(1)(c) inserted (5.12.2005) by [Social Security (Civil Partnership) (Consequential Amendments) Regulations 2005 (S.I. 2005/2878)](https://www.legislation.gov.uk/uksi/2005/2878), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2878/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2005/2878/regulation/10/2)
+
+[^key-b64b88cd06a1fba3b0797df35507c5e4]: Textual amendment: Reg. 3(1A) inserted (6.7.2005) by [Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [9(4)(b)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/9/4/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^key-e7a9e43b3082b6f0b01ceee7ef6968de]: Textual amendment: Words in reg. 3(2) inserted (6.4.2011) by [The Social Security (Deferral of Retirement Pensions) Regulations 2011 (S.I. 2011/634)](https://www.legislation.gov.uk/uksi/2011/634), [regs. 1](https://www.legislation.gov.uk/uksi/2011/634/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2011/634/regulation/3/4) (with [reg. 3(6)](https://www.legislation.gov.uk/uksi/2011/634/regulation/3/6))
+
+[^key-2fa105f348e27d5574c7f43951712896]: Textual amendment: Words in reg. 3(3) inserted (6.7.2005) by [Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [9(4)(c)(i)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/9/4/c/i) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^key-726d48c98a99fe27a1cb57a564c4ad37]: Textual amendment: Words in reg. 3(3) inserted (6.7.2005) by [Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [9(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/9/4/c/ii) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^key-6e2ef205c75f2936c127b56d586fe027]: Textual amendment: Words in reg. 3(4) inserted (6.4.2011) by [The Social Security (Deferral of Retirement Pensions) Regulations 2011 (S.I. 2011/634)](https://www.legislation.gov.uk/uksi/2011/634), [regs. 1](https://www.legislation.gov.uk/uksi/2011/634/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2011/634/regulation/3/4) (with [reg. 3(6)](https://www.legislation.gov.uk/uksi/2011/634/regulation/3/6))
+
+[^key-a6aa4d27d63d0acf95037646650a7c2f]: Textual amendment: Reg. 3(5A) substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [34(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/34/b)
+
+[^c1082795]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-187505e65bb4fcd23e03ce9aa8508c18]: Textual amendment: Words in reg. 3(8) inserted (6.7.2005) by [Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [9(4)(d)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/9/4/d) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^c1082796]: Marginal citation: [S.I.1979/642](https://www.legislation.gov.uk/uksi/1979/642); the relevant amending instruments are [S.I.1989/1642](https://www.legislation.gov.uk/uksi/1989/1642), 1991/2742, 1992/1695,1996/1345 and 1999/2422.

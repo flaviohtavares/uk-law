@@ -1,0 +1,168 @@
+---
+title: The Solicitors’ (Non-Contentious Business) Remuneration Order 2009
+id: uksi/2009/1931
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-07-16'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/1931
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/1931/pdfs/uksiem_20091931_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1931/pdfs/uksi_20091931_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1931/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Solicitors’ (Non-Contentious Business) Remuneration Order 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 1931
+
+Legal Profession, England And Wales
+
+The Solicitors’ (Non-Contentious Business) Remuneration Order 2009
+
+Made
+
+16th July 2009
+
+Laid before Parliament
+
+20th July 2009
+
+Coming into force
+
+11th August 2009
+
+The Lord Chancellor, the Lord Chief Justice, the Master of the Rolls, the President of the Law Society, the president of Surrey law society and the Chief Land Registrar (in respect of business done under the Land Registration Act 2002[^f00001]), together constituting the committee authorised to make orders under section 56 of the Solicitors Act 1974[^f00002], in exercise of the powers conferred on them by that section and having complied with the requirements of section 56(3), make the following Order:
+
+## 1. Citation, commencement and revocation[^key-a8e6d43b7c0067d17ab4755f21fa0141]
+
+(1) This Order may be cited as the Solicitors’ (Non-Contentious Business) Remuneration Order 2009.
+
+(2) This Order comes into force on 11th August 2009 and applies to all non-contentious business for which bills are delivered on or after that date.
+
+(3) The Solicitors’ (Non-Contentious Business) Remuneration Order 1994[^f00003] is revoked except in its application to non-contentious business for which bills are delivered before this Order comes into force.
+
+## 2. Interpretation[^key-75a843fa2926d5c3f26e78dfb7e0c721]
+
+In this Order—
+
+- “client” means the client of a solicitor;
+- “costs” means the amount charged in a solicitor’s bill, exclusive of disbursements and value added tax, in respect of non-contentious business;
+- “entitled person” means a client or an entitled third party;
+- “entitled third party” means a residuary beneficiary absolutely and immediately (and not contingently) entitled to an inheritance, where a solicitor has charged the estate for his professional costs for acting in the administration of the estate and the only personal representatives are—
+  - (a) solicitors (whether or not acting in a professional capacity);
+  - (b) solicitors acting jointly with partners, managers or employees in a professional capacity;
+  - (c) employees of a solicitor sole practitioner acting in that capacity; or
+  - (d) managers or employees of a recognised body or a licensed body[^key-675647260654248aa511b225ce632e34] acting in that capacity;
+- “licensed body” means a body which holds a licence issued by the Law Society which is in force under Part 5 of the Legal Services Act 2007;[^key-1ab6efedbfac0a737e96d0e9a83f66a2]
+- “manager” has the same meaning as in the Legal Services Act 2007[^f00004] (see section 207 of that Act);
+- “ombudsman” has the same meaning as in the Legal Services Act 2007 (see section 122(5) of that Act);[^key-f656a255f00f54fb156f0f178d7e6e75]
+- “paid disbursements” means disbursements already paid by the solicitor;
+- “recognised body” means a body recognised by the Law Society under section 9 of the Administration of Justice Act 1985[^f00005];
+- “registered European lawyer” means a registered European lawyer within the meaning of the European Communities (Lawyer’s Practice) Regulations 2000[^f00006] , as those Regulations have effect by virtue of regulation 6 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020,[^key-9b9ae21c906544ce4882459b998e0770] who is registered with the Law Society;
+- “residuary beneficiary” includes a person entitled to all or part of the residue of an intestate estate; and
+- “solicitor” includes a registered European lawyer , a recognised body and a licensed body[^key-070769c69530993dffd46394b87478b1].
+
+## 3. Solicitors’ costs[^key-81af768c28d6a1660f096b962059e664]
+
+A solicitor’s costs must be fair and reasonable having regard to all the circumstances of the case and in particular to—
+
+- (a) the complexity of the matter or the difficulty or novelty of the questions raised;
+- (b) the skill, labour, specialised knowledge and responsibility involved;
+- (c) the time spent on the business;
+- (d) the number and importance of the documents prepared or considered, without regard to length;
+- (e) the place where and the circumstances in which the business or any part of the business is transacted;
+- (f) the amount or value of any money or property involved;
+- (g) whether any land involved is registered land within the meaning of the Land Registration Act 2002;
+- (h) the importance of the matter to the client; and
+- (i) the approval (express or implied) of the entitled person or the express approval of the testator to—
+  - (i) the solicitor undertaking all or any part of the work giving rise to the costs; or
+  - (ii) the amount of the costs.
+
+## 4. Security for costs[^key-dbb4c9a109e9b8ce092baa610a1295cd]
+
+A solicitor may take from his client security for the payment of any costs, including the amount of any interest to which the solicitor may become entitled under article 5.
+
+## 5. Interest[^key-12429352cfa2f78a594e903947189a7b]
+
+(1) A solicitor may charge interest on the unpaid amount of his costs plus any paid disbursements and value added tax, subject to the remainder of this article.
+
+(2) Where an entitlement to interest arises under paragraph (1), and subject to any agreement made between a solicitor and client, the period for which interest may be charged runs from one month after the date of delivery of a bill.
+
+(3) Subject to any agreement made between a solicitor and client, the rate of interest must not exceed the rate for the time being payable on judgment debts.
+
+(4) Interest charged under this article must be calculated, where applicable, by reference to—
+
+- (a) the amount specified in a determination of costs by the Law Society under Schedule 1A to the Solicitors Act 1974;
+- (aa)[^key-8c3dd92478700def18597126d12dbeaa] the fees specified in a direction made by the ombudsman under section 137(2)(b)(i) of the Legal Services Act 2007; or
+- (b) the amount ascertained on assessment[^key-156a3b06b56bd1319496e9da89843531] if an application has been made for the bill to be assessed.
+
+Judge, C.J.
+
+Sir Anthony Clarke, M.R.
+
+Paul Marsh
+
+John Perry
+
+Peter Collis
+
+Jack Straw
+
+Lord Chancellor
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Section 56 of the Solicitors Act [1974 (c. 47)](https://www.legislation.gov.uk/ukpga/1974/47) establishes a committee which may make orders about the remuneration of solicitors in respect of non-contentious business. Paragraph 54 of Schedule 16 to the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29) amends that section, altering (among other changes) the purposes for which orders may be made. This Order prescribes the general principles to be applied when determining the remuneration of solicitors in respect of non-contentious business.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9).
+
+[^f00002]: Footnote: [1974 c. 47](https://www.legislation.gov.uk/ukpga/1974/47). Section 56 was amended by the Land Registration Act 2002, section 133 and paragraph 12(1) and (2) of Schedule 11, and the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), section 177 and paragraph 54 of Schedule 16; and modified by the Administration of Justice Act [1985 (c. 61)](https://www.legislation.gov.uk/ukpga/1985/61), section 9 and paragraphs 22 and 23 of Schedule 2, and [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), regulations 1 and 37(3) and paragraph 7(2) of Schedule 4.
+
+[^key-a8e6d43b7c0067d17ab4755f21fa0141]: Commencement: Art. 1 in force at 11.8.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1931/article/1/2)
+
+[^f00003]: Footnote: [S.I. 1994/2616](https://www.legislation.gov.uk/uksi/1994/2616).
+
+[^key-75a843fa2926d5c3f26e78dfb7e0c721]: Commencement: Art. 2 in force at 11.8.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1931/article/1/2)
+
+[^key-675647260654248aa511b225ce632e34]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2009/1931/article/2) inserted (20.2.2012) by [The Solicitors’ (Non-Contentious Business) Remuneration (Amendment) Order 2012 (S.I. 2012/171)](https://www.legislation.gov.uk/uksi/2012/171), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/171/article/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2012/171/article/2/1/a)
+
+[^key-1ab6efedbfac0a737e96d0e9a83f66a2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2009/1931/article/2) inserted (20.2.2012) by [The Solicitors’ (Non-Contentious Business) Remuneration (Amendment) Order 2012 (S.I. 2012/171)](https://www.legislation.gov.uk/uksi/2012/171), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/171/article/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2012/171/article/2/1/b)
+
+[^f00004]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
+
+[^key-f656a255f00f54fb156f0f178d7e6e75]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2009/1931/article/2) inserted (6.10.2020) by [The Solicitors’ (Non-Contentious Business) Remuneration (Amendment) Order 2010 (S.I. 2010/2262)](https://www.legislation.gov.uk/uksi/2010/2262), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2262/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2010/2262/article/2/2); [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+
+[^f00005]: Footnote: [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), as amended by the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), section 177 and paragraph 81 of Schedule 16.
+
+[^f00006]: Footnote: [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119).
+
+[^key-9b9ae21c906544ce4882459b998e0770]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2009/1931/article/2) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/17) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+
+[^key-070769c69530993dffd46394b87478b1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2009/1931/article/2) substituted (20.2.2012) by [The Solicitors’ (Non-Contentious Business) Remuneration (Amendment) Order 2012 (S.I. 2012/171)](https://www.legislation.gov.uk/uksi/2012/171), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/171/article/1/2), [2(1)(c)](https://www.legislation.gov.uk/uksi/2012/171/article/2/1/c)
+
+[^key-81af768c28d6a1660f096b962059e664]: Commencement: Art. 3 in force at 11.8.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1931/article/1/2)
+
+[^key-dbb4c9a109e9b8ce092baa610a1295cd]: Commencement: Art. 4 in force at 11.8.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1931/article/1/2)
+
+[^key-12429352cfa2f78a594e903947189a7b]: Commencement: Art. 5 in force at 11.8.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1931/article/1/2)
+
+[^key-8c3dd92478700def18597126d12dbeaa]: Textual amendment: [Art. 5(4)(aa)](https://www.legislation.gov.uk/uksi/2009/1931/article/5/4/aa) inserted (6.10.2020) by [The Solicitors’ (Non-Contentious Business) Remuneration (Amendment) Order 2010 (S.I. 2010/2262)](https://www.legislation.gov.uk/uksi/2010/2262), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2262/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/2262/article/2/3/a); [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+
+[^key-156a3b06b56bd1319496e9da89843531]: Textual amendment: Words in [art. 5(4)(b)](https://www.legislation.gov.uk/uksi/2009/1931/article/5/4/b) substituted (6.10.2020) by [The Solicitors’ (Non-Contentious Business) Remuneration (Amendment) Order 2010 (S.I. 2010/2262)](https://www.legislation.gov.uk/uksi/2010/2262), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2262/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/2262/article/2/3/b); [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

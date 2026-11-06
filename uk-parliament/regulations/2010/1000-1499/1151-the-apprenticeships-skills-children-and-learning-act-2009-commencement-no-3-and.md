@@ -1,0 +1,500 @@
+---
+title: The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 3 and Transitional and Transitory Provisions) and (Commencement No. 2 (Amendment)) Order 2010
+id: uksi/2010/1151
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-30'
+text_date: '2016-06-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/1151
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1151/pdfs/uksi_20101151_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1151/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 3 and Transitional and Transitory Provisions) and (Commencement No. 2 (Amendment)) Order 2010
+
+> Text as at 2016-06-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 1151 (C. 75)
+
+Education, England And Wales
+
+Education, Northern Ireland
+
+The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 3 and Transitional and Transitory Provisions) and (Commencement No. 2 (Amendment)) Order 2010
+
+Made
+
+30th March 2010
+
+The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by section 269(4) and (8) of the Apprenticeships, Skills, Children and Learning Act 2009[^f00001].
+
+In accordance with section 269(6) of that Act, the Secretary of State has consulted the Department for Employment and Learning in Northern Ireland.
+
+## PART 1 — Citation and interpretation
+
+### 1. Citation and interpretation[^key-9d0cf89a5346d4ae7fa4baf4493ca192]
+
+(1) This Order may be cited as the Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 3 and Transitional and Transitory Provisions) and (Commencement No. 2 (Amendment)) Order 2010.
+
+(2) In this Order—
+
+- “the Act” means the Apprenticeships, Skills, Children and Learning Act 2009;
+- “the CCEA” means the Northern Ireland Council for the Curriculum, Examinations and Assessment;
+- “Ofqual” means the Office of Qualifications and Examinations Regulation;
+- “the QCA” means the Qualifications and Curriculum Authority;
+- “the 1997 Act” means the Education Act 1997[^f00002];
+- “the 1998 Order” means the Education (Northern Ireland) Order 1998[^f00003];
+- “the 2002 Act” means the Education Act 2002[^f00004].
+
+(3) In this Order a reference to the award or authentication of a qualification includes a reference to—
+
+- (a) the award or authentication of credits in respect of components of a qualification, and
+- (b) the award or authentication of a qualification by a person either alone or jointly with others.
+
+## PART 2 — Commencement
+
+### 2. Provisions coming into force on 1st April 2010[^key-be167e20af33bb202db836baf961c266]
+
+The provisions of the Act specified in column 1 of Schedule 1 come into force on 1st April 2010 to the extent specified in column 2 of the Schedule.
+
+### 3. Provision coming into force on 1st July 2010[^key-b4d1ddb484a097afe7c4e0a80cd9822c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Provisions coming into force on 1st September 2010[^key-c909a48cdb4fb0476edf5be3a50dae1c]
+
+The provisions of the Act specified in column 1 of Schedule 2 come into force on 1st September 2010, to the extent specified in column 2 of the Schedule.
+
+## PART 3 — Transitional provisions: Office of Qualifications and Examinations Regulation
+
+### 5. Continuity: general[^key-2933f722d270342e202124983a0e94e0]
+
+(1) This article applies to the extent that a function (“the new function”) exercisable by Ofqual on and after 1st April 2010 corresponds to a function (“the old function”) exercisable by the QCA before that date.
+
+(2) Anything done before 1st April 2010 by or in relation to the QCA in connection with the old function is to be treated, on and after that date, as done, or to be continued, by or in relation to Ofqual in connection with the new function.
+
+(3) Accordingly, references to the QCA and the old function in a document relating to the old function are to be read, on and after 1st April 2010, as references to Ofqual and the new function.
+
+(4) Paragraphs (1) to (3) have effect subject to the following provisions of this Order.
+
+### 6. Persons to be treated as recognised under section 132 of the Act[^key-f4d609bb032c227d598cdaf139e1ff66]
+
+(1) This article applies where, immediately before 1st April 2010, a person is recognised, or is treated by the QCA as recognised, under section 24(2)(eb) of the 1997 Act in respect of the award or authentication of a particular qualification or description of qualification.
+
+(2) With effect from 1st April 2010, the person is to be treated as recognised by Ofqual under section 132 of the Act in respect of the award or authentication of that qualification or description of qualification.
+
+**7.**[^key-8076c8d3b73881c20739049b2cd389c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Applications for recognition[^key-aaab781c99c2ea6d9b2a39aaf4e81a9f]
+
+(1) This article applies where an application for recognition under section 24(2)(eb) of the 1997 Act in respect of the award or authentication of a particular qualification or description of qualification has been made to the QCA but not determined by it before 1st April 2010.
+
+(2) With effect from 1st April 2010, the application is to be treated as an application for recognition under section 132 of the Act in respect of the award or authentication of that qualification or description of qualification.
+
+**9.**[^key-be44956a13f5523987d8ad57f427837a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Criteria for recognition[^key-1e64b84a6eb74f6fcb32456c50637628]
+
+(1) This article applies in relation to any criteria published by the QCA (“the transitional criteria”) which, immediately before 1st April 2010, are treated by the QCA as recognition criteria in respect of the award or authentication of a particular qualification or description of qualification.
+
+(2) For the purposes of paragraph (1) “recognition criteria” are criteria developed and published by the QCA under section 24(2)(ea) of the 1997 Act for the recognition of persons under section 24(2)(eb) of that Act.
+
+(3) With effect from 1st April 2010, the transitional criteria are to be treated as criteria set and published by Ofqual under section 133 of the Act for the recognition of persons under section 132 of that Act in respect of the award or authentication of the qualification or description of qualification mentioned in paragraph (1).
+
+(4) With effect from 1st April 2010, any consultation carried out by the QCA for the purpose of developing the transitional criteria is to be treated as if it had been carried out by Ofqual under section 133(5) of the Act before setting the criteria.
+
+**11.**[^key-7d13c83e1b82bb7ceaf7cb94d45d9da2] (1) This article applies in relation to—
+
+- (a) the consultation carried out by the QCA in the document published in December 2009 and called “Regulating for confidence in standards: consultation on the regulation of qualifications, examinations and assessments”;
+- (b) the consultation carried out by the QCA in the document published in March 2010 and called “Regulatory arrangements for component and Diploma awarding bodies: Recognition requirements and operating rules”.
+
+(2) With effect from 1st April 2010, so far as relating to proposed recognition criteria, those consultations are to be treated as if they had been carried out by Ofqual under section 133(5) of the Act.
+
+(3) For the purposes of paragraph (2) “recognition criteria” are criteria set by Ofqual under section 133 of the Act.
+
+### 12. General conditions of recognition[^key-105068d46af1fb50fca78b6db18f9fef]
+
+(1) This article applies in relation to the document published by the QCA in March 2010 and called “General conditions of recognition on awarding organisations”.
+
+(2) With effect from 1st April 2010, the proposed general conditions included in that document are to be treated as the general conditions set and published by Ofqual under section 134 of the Act.
+
+**13.**[^key-23f34c9c6931a609ce0c72efce01da8d] (1) This article applies in relation to the consultation carried out by the QCA in the document published in December 2009 and called “Regulating for confidence in standards: consultation on the regulation of qualifications, examinations and assessments”.
+
+(2) With effect from 1st April 2010, so far as relating to proposed general conditions, that consultation is to be treated as if it had been carried out by Ofqual under section 134(5) of the Act.
+
+(3) For the purposes of paragraph (2) “general conditions” are conditions set by Ofqual under section 134 of the Act.
+
+### 14. Qualifications subject to accreditation requirement[^key-c5bf67f4e7e4172b49dd2e2bc52de6c5]
+
+(1) With effect from 1st April 2010, Ofqual is to be treated as if it had made a determination under section 138(1) of the Act in the following terms.
+
+(2) The terms are that a qualification or description of qualification is subject to the accreditation requirement for the purposes of award or authentication by a person who is treated by article 6 or 7 as recognised under section 132 of the Act in respect of the award or authentication of the qualification or description of qualification.
+
+### 15. Accredited qualifications[^key-4596f849d0ea66ba451f83b6b821cde6]
+
+(1) This article applies in relation to a form of a qualification which, immediately before 1st April 2010—
+
+- (a) is accredited by the QCA under section 24(2)(g) of the 1997 Act, or
+- (b)[^key-5eff1cf417646631a3e92a09683795be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) With effect from 1st April 2010, that form of the qualification is to be treated as accredited by Ofqual under section 139 of the Act.
+
+### 16. Qualifications submitted for accreditation[^key-209a821f8ac24c79723353a409672544]
+
+(1) This article applies where, before 1st April 2010—
+
+- (a) a form of a qualification has been submitted to the QCA for accreditation under section 24(2)(g) of the 1997 Act, or
+- (b)[^key-d2cc640ba907be3749ae63f435caefba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and the QCA [^key-06f934045886493fa71a9f42b43b4e41]... has not reached a decision before that date on whether to accredit the form of the qualification.
+
+(2) With effect from 1st April 2010, the form of the qualification is to be treated as having been submitted to Ofqual for accreditation under section 139 of the Act by a body which is recognised under section 132 of that Act in respect of the award or authentication of the qualification, or of a description of qualification which applies to the qualification.
+
+### 17. Criteria for accreditation[^key-758903c4ebedcb600197481870fc4445]
+
+(1) This article applies in relation to any criteria (“the transitional criteria”) which—
+
+- (a) are developed and published by the QCA under section 24(2)(f) of the 1997 Act for the accreditation of a qualification or description of qualification, and
+- (b) have effect immediately before 1st April 2010.
+
+(2) With effect from 1st April 2010, the transitional criteria are to be treated as criteria for accreditation under section 139 of the Act which are—
+
+- (a) set and published by Ofqual under section 140 of the Act, and
+- (b) applicable to that qualification or description of qualification.
+
+(3) With effect from 1st April 2010, any consultation carried out by the QCA for the purpose of developing the transitional criteria is to be treated as if it had been carried out by Ofqual under section 140(5) of the Act before setting the criteria.
+
+**18.**[^key-6038e60dd1eadf08acf5025c59a442f0] (1) This article applies in relation to the consultation carried out by the QCA in the document published in March 2010 and called “Criteria for the Diploma qualifications in science at Advanced level: Principal Learning”.
+
+(2) With effect from 1st April 2010, so far as relating to proposed accreditation criteria, that consultation is to be treated as if it had been carried out by Ofqual under section 140(5) of the Act.
+
+(3) For the purposes of paragraph (2) “accreditation criteria” are criteria set by Ofqual under section 140 of the Act.
+
+### 19. Complaints[^key-1c809977b015731db473a035ab75afbf]
+
+(1) This article applies where, immediately before 1st April 2010, the QCA are investigating a complaint in relation to the award or authentication of a qualification by a person who is recognised, or is treated by the QCA as recognised, under section 24(2)(eb) of the 1997 Act in respect of the award or authentication of the qualification, or a description of qualification which applies to the qualification.
+
+(2) With effect from 1st April 2010, the complaint is to be treated for the purposes of section 150 of the Act as a complaint made to Ofqual in relation to the award or authentication of a regulated qualification.
+
+### 20. NC assessments regulatory framework and EYFS assessments regulatory framework[^key-801bc1990d4c78ea19fd3bd41b10e882]
+
+(1) This article applies in relation to the following documents (“the assessments guidance”)—
+
+- (a) the document published by the QCA in March 2010 and called “National Curriculum assessments: regulatory framework”, and
+- (b) the document published by the QCA in March 2010 and called “National Curriculum assessments: code of practice”.
+
+(2) With effect from 1st April 2010, the assessments guidance, so far as relating to NC assessment arrangements, is to be treated as—
+
+- (a) forming part of the NC assessments regulatory framework, and
+- (b) constituting the guidance required by section 164(1)(b) of the Act to be included in that framework.
+
+(3) With effect from 1st April 2010, the assessments guidance, so far as relating to EYFS assessment arrangements, is to be treated as—
+
+- (a) forming part of the EYFS assessments regulatory framework, and
+- (b) constituting the guidance required by section 165(1)(b) of the Act to be included in that framework.
+
+## PART 4 — Transitory provisions: paragraph 33 of Schedule 12 to the Act
+
+### 21. Paragraph 33 of Schedule 12 to the Act[^key-cab0e2e20803a50549286052072b2662]
+
+Until section 74(1) of the Education and Inspections Act 2006[^f00005] comes into force the reference in paragraph 33 of Schedule 12 to section 85(6) of the 2002 Act is to be read as a reference to section 85(9) of that Act.
+
+## PART 5 — Amendment of the Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 and Transitional and Savings Provisions) Order 2010
+
+### 22. Amendment of the Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No.2 and Transitional and Saving Provisions) Order 2010[^key-2b1d3f091d90509195962c4359f0794c]
+
+(1) The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No.2 and Transitional and Saving Provisions) Order 2010 [^f00006] is amended as follows.
+
+(2) After article 12 insert—
+
+> **13.** Despite the coming into force of section 123 of and paragraphs 14, 15, 41 and 50 of Schedule 6 to, and section 266 of and Part 2 of Schedule 16 to the Act (which repeal sections 1 and 28 of, and Schedule 1 to, the Learning and Skills Act 2000[^f00007]), in accordance with article 3, section 28 and paragraph 14 of Schedule 1 to the Learning and Skills Act 2000 continue to have effect in respect of the financial year beginning on 1st April 2009 only, save that the first reference to the Council is to be read as a reference to the Chief Executive of Skills Funding.
+>
+> **14.** (1) Despite the coming into force of section 123 of and paragraphs 14 and 16 of Schedule 6 to, and section 266 of and Part 2 of Schedule 16 to the Act (which repeal section 2 of the Learning and Skills Act 2000), in accordance with article 3, section 2 of the Learning and Skills Act 2000 continues to have effect in accordance with paragraph (2) until the earliest date on which regulations under section 1(5)(b) of the Act come into force.
+>
+> (2) As continued in effect by paragraph (1), section 2 of the Learning and Skills Act 2000 has effect with the following modifications—
+>
+> - (a) in subsection (1), for “The Council must” substitute “In connection with working otherwise than under a contract of employment, the Chief Executive of Skills Funding may”;
+> - (b) in subsection (3), for “performing the duty” substitute “exercising the power” and for “Council’s” substitute “Chief Executive’s”;
+> - (c) in subsection (3)(e), omit “and in particular avoid provision which might give rise to disproportionate expenditure”;
+> - (d) omit subsection (4).
+
+Iain Wright
+
+Parliamentary Under Secretary of State
+
+Department for Children, Schools and Families
+
+30th March 2010
+
+## SCHEDULE 1 — Provisions coming into force on 1st April 2010[^key-428581b6ca5cb987f65c96a71b013c94]
+
+Article 2
+
+| Column 1 | Column 2 |
+| --- | --- |
+| Sections 127 to 144 |  |
+| Section 147 |  |
+| Section 148 save for subsection (1)(c) |  |
+| Sections 149 to 154 |  |
+| Sections 156 and 157 |  |
+| Section 158(1) save for the definitions of “Northern Ireland-only qualification” and “number of hours of guided learning” |  |
+| Section 158(2) |  |
+| Section 159(1) and (2) |  |
+| Section 159(3) in relation to an order under section 87(3)(c) of the 2002 Act made on or after 1st April 2010 which includes provision made by virtue of section 87(8) of that Act |  |
+| Section 159(4) in relation to an order under section 87(3)(c) of the 2002 Act made on or after 1st April 2010 which includes provision made by virtue of section 87(11) of that Act |  |
+| Section 160(1) and (2) |  |
+| Section 160(3) in relation to an order under section 41(2)(c) of the Childcare Act 2006[^f00008] made on or after 1st April 2010 which includes provision made by virtue of section 42(3) of that Act |  |
+| Section 160(4) in relation to an order under section 41(2)(c) of the Childcare Act 2006 made on or after 1st April 2010 which includes provision made by virtue of section 42(6) of that Act |  |
+| Sections 161 to 173 |  |
+| Section 174 | To the extent that it relates to the provisions of Schedule 12 specified below. |
+| Sections 175 to 177 |  |
+| Section 178 (to the extent that it is not already in force) |  |
+| Section 179 |  |
+| Section 180 save for paragraph (c) of the definition of “qualifications criteria” in subsection (4) |  |
+| Sections 181 to 191 |  |
+| Section 192 | To the extent that it relates to the provisions of Schedule 12 specified below. |
+| Section 266 | To the extent that it relates to the repeals in Schedule 16 to the Act specified below. |
+| Schedules 9 to 11 |  |
+| In Schedule 12— |  |
+| paragraphs 1 to 13 |  |
+| paragraphs 20 to 28 |  |
+| paragraphs 30 to 43 |  |
+| In Schedule 16—<br>The repeals or revocations specified in Part 4 | Except to the extent that it repeals section 9 of the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25). |
+
+## SCHEDULE 2 — Provisions coming into force on 1st September 2010[^key-09170fd24bded144d42b281a46da9e37]
+
+Article 4
+
+| Column 1 | Column 2 |
+| --- | --- |
+| Sections 206 to 224 | In relation to a complaint against a school (as defined in section 206 of the Act) where the school is maintained by one of the following local authorities:<br>Bristol City Council,<br>Dorset County Council,<br>Hammersmith and Fulham London Borough Council,<br>Hillingdon London Borough Council,<br>Kent County Council,<br>Kensington and Chelsea London Borough Council,<br>Lincolnshire County Council,<br>Portsmouth City Council,<br>Sheffield City Council,<br>Wolverhampton City Council |
+| In Schedule 16,<br>Part 7 | In relation to a complaint against a school (as defined in section 206 of the Act) where the school is maintained by one of the following local authorities:<br>Bristol City Council,<br>Dorset County Council,<br>Hammersmith and Fulham London Borough Council,<br>Hillingdon London Borough Council,<br>Kent County Council,<br>Kensington and Chelsea London Borough Council,<br>Lincolnshire County Council,<br>Portsmouth City Council,<br>Sheffield City Council,<br>Wolverhampton City Council |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order brings into force provisions of the Apprenticeships, Skills, Children and Learning Act 2009 (“the Act”) on 1st April, 1st July and 1st September 2010 to the extent specified in column 2 of the appropriate tables.
+
+## Provisions coming into force on 1st April 2010
+
+Section 127 establishes the Office of Qualification and Examinations Regulation as a body corporate and specifies that the body will be referred to as “Ofqual”. The section gives effect to Schedule 9, which makes provision about such matters as the constitution and governance of Ofqual.
+
+Sections 128 to 144 set out the objectives and general duties of Ofqual, and certain functions in relation to qualifications. In particular, provision is made for the recognition of awarding bodies and the accreditation of qualifications and for the Secretary of State to make an order specifying the minimum requirements in respect of knowledge, skills or understanding that someone must be able to demonstrate to gain a particular qualification or a qualification of a particular description.
+
+Section 147 makes provision for a recognised body to surrender recognition by giving notice to Ofqual.
+
+Section 148 sets out Ofqual’s obligation to maintain a register of recognised bodies. The register will include details of the qualifications in respect of which they are recognised and the forms of those qualifications that they offer.
+
+Sections 149 to 153 make provision for monitoring and enforcement of recognised bodies by Ofqual. The provisions include enabling Ofqual to keep under review any “connected” activities of a recognised awarding body, and allowing Ofqual to investigate complaints, to give directions to a recognised body and to withdraw recognition in respect of the qualifications in respect of which a body is recognised, if the body has breached a condition of recognition. Ofqual is also under a duty to prepare and publish a qualifications regulatory framework.
+
+Section 154 allows Ofqual to keep under review all aspects of qualifications to which Part 7 of the Act applies.
+
+Section 156 allows Ofqual to co-operate or work jointly with another public authority, where it is appropriate to do so for the efficient and effective performance of any of its functions in connection with qualifications.
+
+Section 157 allows Ofqual to provide information to qualifications regulators in the UK to support the qualifications functions of the other regulator.
+
+Section 158(1) and (2) are interpretation provisions. The definitions of “Northern Ireland-only qualification” and “number of hours of guided learning” are not commenced by this Order, as they are used in provisions which are not yet commenced.
+
+Sections 159 and 160 make provision about consultation with Ofqual and others in connection with assessment arrangements.
+
+Section 161 requires Ofqual to keep all aspects of the National Curriculum (“NC”) and Early Years Foundation Stage (“EYFS”) assessment arrangements under review. Section 162 enables Ofqual to require certain persons to provide it with the information it considers it needs to perform this role. Section 163 imposes duties on Ofqual in the event of significant failings in NC or EYFS assessment arrangements.
+
+Sections 164 and 165 require Ofqual to publish regulatory frameworks for the NC and EYFS assessments. Section 166 is an interpretation provision.
+
+Sections 167 to 171 set out further functions of Ofqual, including the power to provide services to other persons in connection with any of its functions, a duty to provide information or advice to the Secretary of State or the Department for Employment and Learning in Northern Ireland (if requested by them) on matters relating to their respective functions, a duty not to impose or maintain unnecessary regulatory burdens and a duty to prepare and publish an annual report.
+
+Section 173 introduces Schedule 10 which enables the Secretary of State to make a scheme to transfer staff and property from the Qualifications and Curriculum Authority (“QCA”) to Ofqual.
+
+Sections 174 and 192 introduce Schedule 12 which contains minor and consequential amendments relating to the establishment of Ofqual and the name change from the QCA to the Qualifications and Curriculum Development Agency (“QCDA”).
+
+Sections 175 to 177 provide for the renaming of the QCA as the QCDA and make provision for its objective and general duties. Section 175 also gives effect to Schedule 11, which makes detailed provisions relating to the QCDA, particularly in relation to its constitution and proceedings.
+
+Section 178 defines the qualifications within the remit of the QCDA. Section 179 makes provision for the QCDA’s duties and powers in relation to qualifications within its remit.
+
+Section 180 requires the QCDA, where requested by Ofqual, to assist in setting criteria for recognition or accreditation which relate to a qualification or description of qualification where an order specifying minimum requirements under section 141(1) has effect. It also allows the QCDA to assist Ofqual in connection with its qualification functions. Sections 181 to 191 set out the QCDA’s functions in relation to curriculum, EYFS and assessment and its other functions, including the provision of services, and the provision of advice or information to the Secretary of State.
+
+Section 266 introduces Schedule 16 which repeals certain provisions in other legislation, consequential on the establishment of Ofqual, the name change from the QCA to the QCDA and the minor amendments in Schedule 12.
+
+## Provision coming into force on 1st July 2010
+
+Section 155 requires Ofqual to keep under review any system used by the Secretary of State which allocates values to qualifications by reference to the level of attainment indicated by the qualification for the purposes of a qualifications-based performance management system.
+
+## Provisions coming into force on 1st September 2010
+
+Sections 206 to 224 make provision for complaints against schools by pupils or parents and for the role of the Local Commissioner. This new scheme is brought into force for complaints against schools maintained by Bristol City Council, Dorset County Council, Hammersmith and Fulham London Borough Council, Hillingdon London Borough Council, Kent County Council, Kensington and Chelsea London Borough Council, Lincolnshire County Council, Portsmouth City Council, Sheffield City Council and Wolverhampton City Council.
+
+## Transitional provisions
+
+Articles 5 to 20 make transitional provisions which will enable Ofqual to take over the regulatory functions previously exercised by the QCA.
+
+Article 5 makes provision for the continuity of functions.
+
+Articles 6 to 13 make provision in relation to the recognition of awarding bodies. Articles 6 and 7 make provision for certain persons to be treated as recognised by Ofqual under section 132 of the Act. Articles 8 and 9 make provision for an application for recognition which has been made, but not determined, before 1st April 2010, to be treated as an application for recognition under section 132 of the Act. Article 10 makes provision so as to treat certain criteria published by the QCA as criteria set and published by Ofqual under section 133 of the Act for the recognition of persons under section 132. Article 12 makes provision for general conditions published by the QCA to be treated as the general conditions of recognition set and published by Ofqual under section 134 of the Act.
+
+Articles 14 to 17 make provision in relation to the accreditation of qualifications. Article 14 sets out the qualifications which are to be subject to the accreditation requirement. Article 15 makes provision for certain qualifications to be treated as accredited by Ofqual under section 139 of the Act. Article 16 makes provision for qualifications submitted for accreditation before 1st April 2010 to be treated as having been submitted to Ofqual for accreditation under section 139 of the Act. Article 17 makes provision so as to treat certain criteria published by the QCA as criteria set and published by Ofqual under section 140 of the Act.
+
+Articles 10(4), 11, 13, 17(3) and 18 enable consultation carried out by the QCA to be treated as if it had been carried out by Ofqual for particular purposes.
+
+Article 19 makes provision for complaints which are being investigated immediately before 1st April 2010 to be treated as made to Ofqual under section 150 of the Act.
+
+Article 20 makes provision for certain documents to be treated as forming part of the NC and EYFS assessments regulatory frameworks and constituting the guidance required by sections 164(1)(b) and 165(1)(b) of the Act.
+
+The transitory provision in article 21 is to enable the amendment made by paragraph 33 of Schedule 12 to the Act (amendment to section 85(6) of the Education Act 2002) to have effect until section 74(1) of the Education and Inspections Act 2006 is in force.
+
+## Amendments of the Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 and Transitional and Savings Provisions) Order 2010
+
+Article 22 amends the No. 2 Commencement Order so that new transitional provisions enable certain provisions of the Learning and Skills Act 2000 to continue so that:
+
+- the Chief Executive of Skills Funding is required to prepare the Annual Report and the final accounts of the Learning and Skills Council, and
+- subject to certain modifications, the Chief Executive of Skills Funding may provide proper facilities for education and training in connection with working otherwise than under a contract of employment, until regulations are made under section 1(5)(b) of the Act.
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+| Provision | Date of Commencement | S.I.No. |
+| --- | --- | --- |
+| Section 40 (partially) | 6th April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 40 (fully) | 6th April 2011 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 41 to 44 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 46 and 47 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 48 to 50 (partially), for England only | 1st September 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 51 and 52, for England only | 1st September 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 53, 54 and 57 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 55 and 56 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 59 (partially) | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 59 (partially) | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 59 (fully) | 1st September 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 60 to 80 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 81 to 90 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 100 to 104 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 106 to 111 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 112(1), (2) and (3) | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 112 (fully) | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 113 to 121 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 122 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 123 and 124 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 125 (partially) | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 125 (fully) | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 126 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 178(2) | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 193 save for subsection (2)(b) | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 193 (fully) | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 194 (1), (2) and (3) | 26th February 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 194 (fully) | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 195 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Sections 196 and 197 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 202(1) and (2) | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Sections 203 and 204 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Sections 206 to 224 (partially) | 19th April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 225 (partially) | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 226 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Sections 227 to 241 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Sections 242 to 249 | 1st September 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Section 250 | 1st September 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 251 to 253 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Sections 254 and 255 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 256 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Sections 257 and 258 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 261 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 266 (partially) | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Section 266 (partially) | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedule 1 (partially) | 6th April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedule 1 (fully) | 6th April 2011 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedule 2, paragraphs 1 to 9 (partially) and paragraph 10 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Schedule 2 paragraphs 1 to 5 (partially) and paragraphs 7 to 9 (fully) | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedule 2 (fully) | 1st September 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedule 3 paragraphs 1 to 12, 13(1) and (3) to (4), paragraph 13(2) (partially) and paragraphs 14 to 22 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedules 4 to 6 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedule 7 | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedule 8 paragraphs 1, 3 and 11 (partially) and paragraphs 12 to 14 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Schedule 8 (fully) | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedule 13 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Schedule 15 | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Schedule 16 (partially) | 12th January 2010 | [2009/3317](https://www.legislation.gov.uk/uksi/2009/3317) |
+| Schedule 16 (partially) | 1st April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+| Schedule 16 (partially) | 19th April 2010 | [2010/303](https://www.legislation.gov.uk/uksi/2010/303) |
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
+
+[^key-9d0cf89a5346d4ae7fa4baf4493ca192]: Commencement: Art. 1 in force at made date
+
+[^f00002]: Footnote: [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44).
+
+[^f00003]: Footnote: [S.I. 1998/1759 (N.I. 13)](https://www.legislation.gov.uk/nisi/1998/1759).
+
+[^f00004]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^key-be167e20af33bb202db836baf961c266]: Commencement: Art. 2 in force at made date
+
+[^key-b4d1ddb484a097afe7c4e0a80cd9822c]: Textual amendment: Art. 3 revoked (28.6.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 3 (Amendment)) Order 2010 (S.I. 2010/1702)](https://www.legislation.gov.uk/uksi/2010/1702), [art. 2](https://www.legislation.gov.uk/uksi/2010/1702/article/2)
+
+[^key-c909a48cdb4fb0476edf5be3a50dae1c]: Commencement: Art. 4 in force at made date
+
+[^key-2933f722d270342e202124983a0e94e0]: Commencement: Art. 5 in force at made date
+
+[^key-f4d609bb032c227d598cdaf139e1ff66]: Commencement: Art. 6 in force at made date
+
+[^key-8076c8d3b73881c20739049b2cd389c0]: Textual amendment: Art. 7 revoked (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule)
+
+[^key-aaab781c99c2ea6d9b2a39aaf4e81a9f]: Commencement: Art. 8 in force at made date
+
+[^key-be44956a13f5523987d8ad57f427837a]: Textual amendment: Art. 9 revoked (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule)
+
+[^key-1e64b84a6eb74f6fcb32456c50637628]: Commencement: Art. 10 in force at made date
+
+[^key-7d13c83e1b82bb7ceaf7cb94d45d9da2]: Commencement: Art. 11 in force at made date
+
+[^key-105068d46af1fb50fca78b6db18f9fef]: Commencement: Art. 12 in force at made date
+
+[^key-23f34c9c6931a609ce0c72efce01da8d]: Commencement: Art. 13 in force at made date
+
+[^key-c5bf67f4e7e4172b49dd2e2bc52de6c5]: Commencement: Art. 14 in force at made date
+
+[^key-4596f849d0ea66ba451f83b6b821cde6]: Commencement: Art. 15 in force at made date
+
+[^key-5eff1cf417646631a3e92a09683795be]: Textual amendment: [Art. 15(1)(b)](https://www.legislation.gov.uk/uksi/2010/1151/article/15/1/b) revoked (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule)
+
+[^key-209a821f8ac24c79723353a409672544]: Commencement: Art. 16 in force at made date
+
+[^key-d2cc640ba907be3749ae63f435caefba]: Textual amendment: Art. 16(1)(b) revoked (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule)
+
+[^key-06f934045886493fa71a9f42b43b4e41]: Textual amendment: Words in art. 16 revoked (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule)
+
+[^key-758903c4ebedcb600197481870fc4445]: Commencement: Art. 17 in force at made date
+
+[^key-6038e60dd1eadf08acf5025c59a442f0]: Commencement: Art. 18 in force at made date
+
+[^key-1c809977b015731db473a035ab75afbf]: Commencement: Art. 19 in force at made date
+
+[^key-801bc1990d4c78ea19fd3bd41b10e882]: Commencement: Art. 20 in force at made date
+
+[^key-cab0e2e20803a50549286052072b2662]: Commencement: Art. 21 in force at made date
+
+[^f00005]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^key-2b1d3f091d90509195962c4359f0794c]: Commencement: Art. 22 in force at made date
+
+[^f00006]: Footnote: [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303).
+
+[^f00007]: Footnote: [2000. c.21](https://www.legislation.gov.uk/ukpga/2000/21).
+
+[^key-428581b6ca5cb987f65c96a71b013c94]: Commencement: Sch. 1 in force at made date
+
+[^f00008]: Footnote: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^key-09170fd24bded144d42b281a46da9e37]: Commencement: Sch. 2 in force at made date

@@ -1,0 +1,50 @@
+---
+title: Energy Act 2023, section 15
+act: Energy Act 2023
+section: '15'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 15
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 15. Modification by order under other enactments[^key-a1dc1257ad54be4829bc9266404faf86]
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the CMA or (as the case may be) the Secretary of State (in this section “the relevant authority”) makes a relevant order, the order may also provide for the modification of—
+
+- (a) the conditions of a particular licence, or
+- (b) the standard conditions of licences,
+
+to such extent as may appear to the relevant authority to be necessary or expedient for the purpose of giving effect to, or taking account of, any provision made by the order.
+
+(2) In subsection (1) “**relevant order**” means—
+
+- (a) an order under section 75, 83 or 84 of, or paragraph 5, 10 or 11 of Schedule 7 to, the Enterprise Act 2002 where—
+  - (i) one or more than one of the enterprises which have, or may have, ceased to be distinct enterprises was engaged in the carrying on of activities authorised or regulated by a licence, or
+  - (ii) one or more than one of the enterprises which will or may cease to be distinct enterprises is engaged in the carrying on of activities authorised or regulated by a licence, or
+- (b) an order under section 160 or 161 of that Act where the feature, or combination of features, of the market or markets in the United Kingdom for goods or services which prevents, restricts or distorts competition relates to activities authorised or regulated by a licence.
+
+(3) The modification under subsection (1)(a) of part of a standard condition of a particular licence does not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part.
+
+(4) Where at any time the relevant authority modifies under subsection (1)(b) the standard conditions of licences, the relevant authority—
+
+- (a) must also make (as nearly as possible) the same modifications of those conditions for the purposes of their incorporation in licences granted after that time, and
+- (b) may, after consultation with the economic regulator, make such incidental or consequential modifications as the relevant authority considers necessary or expedient of any conditions of licences under that provision granted before that time.
+
+(5) Where at any time the relevant authority modifies standard conditions under subsection (4)(a) for the purposes of their incorporation in licences granted after that time, the relevant authority must publish those modifications in such manner as the relevant authority considers appropriate.
+
+(6) Expressions used in subsection (2) and in Part 3 or (as the case may be) Part 4 of the Enterprise Act 2002 have the same meanings in that subsection as in that Part.
+
+## Annotations
+
+[^key-a1dc1257ad54be4829bc9266404faf86]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/52/section/15) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

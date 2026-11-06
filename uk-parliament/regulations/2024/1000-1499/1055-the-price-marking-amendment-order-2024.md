@@ -1,0 +1,193 @@
+---
+title: The Price Marking (Amendment) Order 2024
+id: uksi/2024/1055
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-10-21'
+text_date: '2026-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2024/1055
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/1055/pdfs/uksiem_20241055_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2024/1055/pdfs/uksi_20241055_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/1055/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Price Marking (Amendment) Order 2024
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2024 No. 1055
+
+PRICES
+
+The Price Marking (Amendment) Order 2024
+
+Made
+
+21st October 2024
+
+Laid before Parliament
+
+23rd October 2024
+
+Coming into force
+
+1st October 2025
+
+The Secretary of State, in exercise of the powers under section 4 of the Prices Act 1974[^f00001], makes the following Order.
+
+The Secretary of State, in accordance with section 4(3) of the said Act has consulted in such manner and with such organisations as appeared to be appropriate having regard to the subject-matter and urgency of this Order.
+
+## 1. Citation, commencement and extent[^key-7ebc9258102da0f6cd7fac531ac060cd]
+
+(1) This Order may be cited as the Price Marking (Amendment) Order 2024 and comes into force on 6th April 2026[^key-26afcf4962fd4b7df50ec9352b77380d].
+
+(2) This Order extends to Great Britain.
+
+## 2. Amendment of the Price Marking Order 2004[^key-31d4bd9aa5edbdd86a8cf4d898b69a7f]
+
+(1) The Price Marking Order 2004[^f00002] is amended as follows.
+
+(2) In article 1(2) (citation, commencement and interpretation)—
+
+- (a) after the definition of “cosmetic products” insert—
+
+  > - “**deposit**” has the meaning which—
+  >   - (a) in the case of England and Wales, is set out in paragraph 1(2)(a) of Schedule 8 (deposit schemes) to the Environment Act 2021[^f00003]; and
+  >   - (b) in the case of Scotland, is set out in section 84(2)(a) (deposit and return schemes) of the Climate Change (Scotland) Act 2009[^f00004];
+
+  ;
+- (b) for the definition of “selling price” substitute—
+
+  > - “**selling price**” means the final price to be paid for a unit of a product, or a given quantity of a product, including VAT and all other taxes (but excluding the amount of any deposit);
+
+  ;
+- (c) for the definition of “unit price” substitute—
+
+  > - “**unit price**” means the final price, including VAT and all other taxes (but excluding the amount of any deposit) which would be required to be paid—
+  >   - (a) for an individual item of the product, where the product is sold by number;
+  >   - (b) for one kilogram of the product, where the product is permitted to be sold either by weight or by volume, and the product is marked to show only its weight;
+  >   - (c) for one litre of the product, where the product is permitted to be sold either by weight or by volume, and the product is marked to show only its volume; and
+  >   - (d) in all other cases, for one kilogram, one litre, one metre, one square metre or one cubic metre of the product as appropriate.
+
+  .
+
+(3) In article 5(2) (obligation to indicate unit price)—
+
+- (a)[^key-11b7dbe06141bff8d6a66e2b03a80c2c] for “Parts IV or V of the Weights and Measures Act 1985” substitute “Part IV of the Weights and Measures Act 1985[^f00004], regulation 5, 6 or 7 of the Weights and Measures (Packaged Goods) Regulations 2006[^f00005], or article 9 of [Regulation (EU) No. 1169/2011](https://www.legislation.gov.uk/european/regulation/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers
+- (b) in sub-paragraph (b), after “that Act” add “or those Regulations”.
+
+(4) In article 7—
+
+- (a) in sub-paragraph (1)(a), for “and clearly legible” substitute “, clearly legible, and displayed using a font which is clear and of reasonable size”.
+- (b) for paragraph (3) substitute—
+
+  > (3) The indication of any freight, delivery or postal charges for a product, including any taxes payable in respect of freight, delivery or postal charges, must be unambiguous, easily identifiable, and clearly legible.
+
+  .
+
+(5) After article 7, insert —
+
+> **7A. The offer of a product at more than one selling price**
+>
+> Where a trader proposes to sell products, to which this Order applies, at more than one selling price, the indication of the selling price and of the unit price, in accordance with articles 4(1) and 5(1), must set out—
+>
+> - (a) each selling price and each unit price applicable to the product;
+> - (b) whether the availability of a particular selling price is subject to the satisfaction of certain conditions, and, if so, the trader must prominently display those conditions—
+>   - (i) in a form which is unambiguous, clearly legible, easily identifiable and available to consumers without the need for them to seek assistance; and
+>   - (ii) in close proximity to the product.
+
+.
+
+(6)[^key-3641d89458ae4ef95f58bd71d9a8a9ca] For article 9 substitute—
+
+> **9.** Where—
+>
+> - (a) a trader proposes to sell products to which this Order applies at less than the selling price or the unit price previously applicable and indicated in accordance with article 7(1); and
+> - (b) it is not reasonably practicable to indicate the reduced selling price or unit price in accordance with articles 4(1) and 5(1) for each of the products,
+>
+> the trader may comply with the obligations specified in articles 4(1) (to indicate the selling price) and 5(1) (to indicate the unit price) by indicating by a general notice or any other visible means that the products are or may be for sale at a reduction, provided that the details of the reduction are prominently displayed, unambiguous, easily identifiable and clearly legible.
+
+.
+
+(7) Omit article 14 (units of quantity).
+
+(8) Omit Schedule 1 (relevant units of quantity for specified products for the purpose of the definition of “unit price”).
+
+(9) In Schedule 2 (products in respect of which a trader is exempt from the requirement to unit price) for paragraph 3 substitute—
+
+> **3.**[^key-b5a81bf41e4a9723986932c0d2cf6edf] Any product which comprises an assortment of items—
+>
+> - (a) which are either sold in a single package or at a lower price if a prescribed number or combination of items are purchased together and at the same time; and
+> - (b) where some of the items are sold—
+>   - (i) according to weight and some according to volume;
+>   - (ii) at different prices; or
+>   - (iii) at different weights or volumes,
+>
+>   when sold separately.
+
+.
+
+Justin Madders
+
+Minister for Employment Rights, Competition and Markets
+
+Department for Business and Trade
+
+21st October 2024
+
+Explanatory Note
+
+(This note is not part of the Order)
+
+This Order amends the Price Marking Order 2004 ([S.I. 2004/102](https://www.legislation.gov.uk/uksi/2004/102)), extends to Great Britain and comes into force on 1st October 2025.
+
+Article 2(2) defines “deposit”, in the case of England and Wales, by reference to the definition which is set out in the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30) and, in the case of Scotland, by reference to the definition which is set out in the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12). Article 2(2) also amends the definitions of “selling price” and “unit price” to exclude the deposit.
+
+Article 2(3) amends article 5 to refer to the Weights and Measures (Packaged Goods) Regulations 2006 ([S.I. 2006/659](https://www.legislation.gov.uk/uksi/2006/659)) which have replaced Part V of the Weights and Measures Act [1985 (c. 72)](https://www.legislation.gov.uk/ukpga/1985/72).
+
+Article 2(4) substitutes the text of paragraph 7(3) which sets out the requirements concerning the display of freight, delivery and postal charges.
+
+Article 2(5) inserts a new article 7A, which provides that, where a trader offers a product at more than one selling price, for example a standard price and a different price for the members of a trader’s loyalty scheme, then the trader is required to show each selling price and unit price together with the conditions which need to be satisfied in order for the different prices to apply.
+
+Article 2(6) amends article 9 to require that the reduced selling price and the reduced unit price must be displayed in the case of a general reduction.
+
+Article 2(7) revokes article 14, which sets out provisions concerning units of quantity, and article 2(8) revokes Schedule 1 which set out relevant units of quantity for specified products for the purpose of the definition of “unit price”.
+
+Article 2(9) substitutes paragraph 3 in Schedule 2, so that a trader is exempt from the requirement to show the unit price in certain cases where a product consists of an assortment of items where some of the items are sold according to weight and some according to volume or at different selling prices when sold outside the package.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Department for Business and Trade at Old Admiralty Building, Admiralty Place, London SW1A and 2DY and is published with the Explanatory Memorandum on www.legislation.gov.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 24](https://www.legislation.gov.uk/ukpga/1974/24). Section 4 has been amended by the Price Commission Act [1977 (c. 33)](https://www.legislation.gov.uk/ukpga/1977/33) and the Statute Law (Repeals) Act [2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14).
+
+[^key-7ebc9258102da0f6cd7fac531ac060cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2024/1055/article/1) in force at 6.4.2026 (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)), see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1)
+
+[^key-26afcf4962fd4b7df50ec9352b77380d]: Textual amendment: Words in [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)
+
+[^key-31d4bd9aa5edbdd86a8cf4d898b69a7f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2024/1055/article/2) in force at 6.4.2026 (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)), see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1)
+
+[^f00002]: Footnote: [S.I. 2004/102](https://www.legislation.gov.uk/uksi/2004/102). The 2004 Order has been amended in ways which are not relevant to this Order.
+
+[^f00003]: Footnote: [2021 c. 30](https://www.legislation.gov.uk/ukpga/2021/30). The Act has been amended in ways not relevant to this Order.
+
+[^f00004]: Footnote: [2009 asp 12](https://www.legislation.gov.uk/asp/2009/12). The Act has been amended in ways not relevant to this Order.
+
+[^key-11b7dbe06141bff8d6a66e2b03a80c2c]: Textual amendment: [Art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/3/a) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/a)
+
+[^f00005]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72). Part V was repealed by [S.I. 2006/659](https://www.legislation.gov.uk/uksi/2006/659).
+
+[^key-3641d89458ae4ef95f58bd71d9a8a9ca]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/6) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/b)
+
+[^key-b5a81bf41e4a9723986932c0d2cf6edf]: Textual amendment: Words in [art. 2(9)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/9) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/c)

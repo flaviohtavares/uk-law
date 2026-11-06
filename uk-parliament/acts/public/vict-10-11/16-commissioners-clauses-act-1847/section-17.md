@@ -1,0 +1,23 @@
+---
+title: Commissioners Clauses Act 1847, section 17
+act: Commissioners Clauses Act 1847
+section: '17'
+status: revised-with-pending-changes
+text_date: '2026-07-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/17
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Commissioners Clauses Act 1847, section 17
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-23. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/10-11/16
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 17. One-third of commissioners elected by Ratepayers and owners to go out of office every three years.
+
+*Extent: E+W+S+N.I.*
+
+Where by the special Act it is provided that the commissioners shall be elected by the ratepayers within the town, or other like class of electors, the first body of commissioners, whether appointed by the special Act, or elected under the provisions of this and the special Act, shall go out of office according to the prescribed rotation, and at the prescribed times, and where no rotation or time of going out of office is prescribed they shall go out of office by rotation in the following manner (that is to say), on the first Thursday in the month of September in the year following that in which the special Act is passed one third of such body of commissioners shall go out of office, and on the first Thursday in September in the following year another third of such body of commissioners shall go out of office, and on the first Thursday in September in the year following the remainder of such body of commissioners shall go out of office, and on the first Thursday in the month of September in every subsequent year one third of the commissioners, being those who have been longest in office, shall go out of office; and in each instance the places of the retiring commissioners shall be supplied by the election of a like number of commissioners in the manner herein or in the special Act provided: Provided always, that if the prescribed number of commissioners be some number not divisible by three and the number of commissioners to retire be not prescribed, the commissioners shall in each case determine what number of commissioners, as nearly one-third as maybe, shall go out of office, so that no commissioner shall remain in office longer than three years without being re-elected.

@@ -1,0 +1,532 @@
+---
+title: The General Medical Council (Licence to Practise and Revalidation) Regulations Order of Council 2012
+id: uksi/2012/2685
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-10-20'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/2685
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2685/pdfs/uksiem_20122685_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2685/pdfs/uksi_20122685_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2685/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The General Medical Council (Licence to Practise and Revalidation) Regulations Order of Council 2012
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 2685
+
+Health Care And Associated Professions
+
+Doctors
+
+The General Medical Council (Licence to Practise and Revalidation) Regulations Order of Council 2012
+
+Made
+
+20th October 2012
+
+Laid before Parliament
+
+29th October 2012
+
+Coming into force
+
+3rd December 2012
+
+At the Council Chamber, Whitehall the 20th day of October 2012
+
+By the Lords of Her Majesty's Most Honourable Privy Council
+
+The General Medical Council has made the General Medical Council (Licence to Practise and Revalidation) Regulations 2012 which are set out in the Schedule to this Order, in exercise of the powers conferred by sections 29A(2) to (4), 29B(1), (2) and (3), 29D(1), (1A) and (2), 29E(1) to (2A), 29J(1) and (3), and 41(7) of the Medical Act 1983 [^c21421831].
+
+In accordance with section 29J(5) of that Act, the General Medical Council has consulted with such bodies of persons representing medical practitioners, and such medical practitioners, as appeared to the General Medical Council requisite to be consulted.
+
+By virtue of section 29J(4) of that Act, these Regulations are not to have effect until approved by order of the Privy Council.
+
+## 1. Citation and commencement
+
+This Order may be cited as the General Medical Council (Licence to Practise and Revalidation) Regulations Order of Council 2012 and comes into force on 3rd December 2012.
+
+## 2. Privy Council approval
+
+Their Lordships, having taken these Regulations into consideration, are pleased to and do approve them.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+## SCHEDULE — The General Medical Council (Licence to Practise and Revalidation) Regulations 2012
+
+The General Medical Council, in exercise of their powers under sections 29A(2) to (4), 29B(1), (2) and (3), 29D(1), (1A) and (2), 29E(1) to (2A), 29J(1) and (3) and 41(7) of the Medical Act 1983 and after consulting in accordance with section 29J(5) of that Act with such bodies or persons representing medical practitioners, and such medical practitioners, as appeared to the General Medical Council requisite to be consulted, make the following Regulations—
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the General Medical Council (Licence to Practise and Revalidation) Regulations 2012 and come into force on 3rd December 2012.
+
+(2) In these Regulations—
+
+- “**the Act**” means the Medical Act 1983;
+- “appropriate cover” in relation to practice as a medical practitioner, means cover against liabilities that may be incurred in practising as such which is appropriate, having regard to the nature and extent of the risks of practising as such;[^key-0872246e5c18bb6353d49f26284d92f6]
+- “**the GMC reference number**” means, in relation to any individual medical practitioner, the number allocated and notified as such to that practitioner by the Registrar;
+- “**licence**” means a licence to practise;
+- “**licensed practitioner**” means a registered practitioner who holds a licence;
+- “**notice of a submission date**” has the meaning given in regulation 6(1);
+- “**registered practitioner**” means a person registered under any provision of the Act irrespective of whether or not that person holds a licence;
+- “**responsible officer**” means, in relation to a registered practitioner, a responsible officer nominated or appointed by a designated body within the meaning of Part VA to which the practitioner has a prescribed connection by virtue of—
+  - (a) regulation 10 or 12 of the Medical Profession (Responsible Officers) Regulations 2010 [^c21421841], or
+  - (b) regulation 8 or 10 of the Medical Profession (Responsible Officers) Regulations (Northern Ireland) 2010 [^c21421851];
+- “**working day**” has the meaning given in regulation 2(5).
+
+(3) In these Regulations, references to numbered Parts, sections and subsections are references to so numbered Parts, sections and subsections of the Act.
+
+(4)[^key-696d5a475fb0a0ec73bf57b2ffc8be06] For the purposes of these Regulations, an indemnity arrangement may comprise—
+
+- (a) a policy of insurance;
+- (b) an arrangement for the purposes of indemnifying a person;
+- (c) a combination of the two.
+
+### 2. Notices
+
+(1) Any notice required under these Regulations must be given in writing by—
+
+- (a) any means by which a notice may be given under section 29H(2) (notices) [^c21421861];
+- (b) sending it by ordinary post, to—
+  - (i) the practitioner's address in the register, or
+  - (ii) if the conditions in paragraph (2) are satisfied, the practitioner's last known address; or
+- (c) sending it by electronic mail to an electronic mail address that the practitioner has given the Registrar as an address to which the Registrar may send written communications about any matter to which the notice relates.
+
+(2) The conditions are that—
+
+- (a) the practitioner's last known address differs from the practitioner's address in the register; and
+- (b) it appears to the Registrar that a letter sent to the practitioner at the practitioner's last known address is more likely to reach the practitioner.
+
+(3) For the purposes of this regulation (including section 29H to the extent applied by paragraph (1)(a)), references to the practitioner's last known address are to be taken to include an address (other than an electronic mail address) which the practitioner has given the Registrar as an address to which the Registrar may send written communications about any matter to which the notice relates.
+
+(4) For the purposes of this regulation—
+
+- (a) the giving of a notice effected by sending it by electronic mail is to be deemed to have been effected on the day on which the notice is sent;
+- (b) the giving of a notice effected by delivering it or leaving it at an address determined in accordance with this regulation is to be deemed to have been effected on the day on which it is delivered or left; and
+- (c) the giving of a notice effected by sending it by ordinary post, is to be deemed to have been effected—
+  - (i) in the case of first class post, on the second working day after the day on which it was posted, and
+  - (ii) in the case of second class post, on the fourth working day after the day on which it was posted.
+
+(5) For the purposes of paragraph (4)(c), “**working day**” means any day other than—
+
+- (a) a Saturday or Sunday;
+- (b) Christmas Day or Good Friday; or
+- (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c21421871] in the part of the United Kingdom to which the notice is sent.
+
+### 3. Grant or refusal of a licence
+
+(1) Subject to[^key-97b94432a86576192d69be805162abd5] paragraphs (1A) and (1C),[^key-c0c1f22060f24498ebb0cd97df743f11] the Registrar must grant a licence to a medical practitioner—
+
+- (a) upon registration under the Act whether such registration is full or provisional, or by virtue of section [^key-73c29f9af95c99be12bd1ade917aa1f4]... 18A (temporary registration with regard to emergencies) [^c21421891], 27A (temporary registration with regard to emergencies) [^c21421901] or 27B (special purpose registration) [^c21421911];
+- (b) unless the practitioner requests otherwise, upon restoration of the practitioner's name to the register pursuant to regulations made under—
+  - (i) subsection (8) of section 31 (power to make regulations with respect to the registers) [^c21421921], or
+  - (ii) subsection (1)(c) of section 31A (voluntary removal from the register) [^c21421931];
+- (c) unless the practitioner requests otherwise, upon restoration of the practitioner's name to the register pursuant to section 41(1) (restoration of names to the register) [^c21421941], where the practitioner's name had, before the coming into force of the General Medical Council (Licence to Practise) Regulations 2009 [^c21421951], been erased from the register pursuant to section 35D (functions of a Fitness to Practise Panel) [^c21421961]; or
+- (d) unless the practitioner requests otherwise, upon the date that a period of suspension, including any extension of a period of suspension or any period of suspension ordered to take effect immediately, comes to an end, where the practitioner had, before the coming into force of the General Medical Council (Licence to Practise) Regulations 2009, been suspended under Part V.
+
+(1A)[^key-2b9374de213f91434798f873d8d2b6df] The Registrar may refuse to grant a licence—
+
+- (a) under paragraph (1)(a), (c) or (d), or
+- (b) upon restoration of the practitioner’s name to the register where the practitioner’s name had been erased from the register under the provisions set out in sub-paragraph (i) or (ii) of paragraph (1)(b) before the coming into force of the General Medical Council (Licence to Practise) Regulations 2009,
+
+to a medical practitioner in any case where the person has not demonstrated the necessary knowledge of English.
+
+(1B) In determining whether a medical practitioner has demonstrated the necessary knowledge of English under paragraph (1A) the Registrar must take account of the guidance published by the General Council under section 29G(2A) of the Act and such evidence as a person provides of his knowledge of English in accordance with that guidance .
+
+(1C)[^key-d9af682e279d8ef9d64185fd8bb74ee7] The Registrar may refuse to grant a licence under paragraph (1) to a medical practitioner who has failed to provide—
+
+- (a) confirmation that they have in force or will have in force in relation to them by the time they begin practice as a licensed practitioner, an indemnity arrangement which provides appropriate cover; or
+- (b) any other evidence or information requested by the Registrar under regulation 4A.
+
+(2) A registered practitioner who does not hold a licence may make an application in writing to the Registrar for a licence.
+
+(3) An application made under paragraph (2) must include—
+
+- (a) the practitioner's name, date of birth and GMC reference number;
+- (b) the practitioner's registered address or an address to which the Registrar may send the practitioner written communications about the application;
+- (c) if the practitioner is willing to receive written communications about the application by electronic mail, an electronic mail address to which the Registrar may send such communications;
+- (d) confirmation that the practitioner has not since the time of the coming into force of the General Medical Council (Licence to Practise) Regulations 2009 provided medical services for which a licence is required;
+- (da)[^key-4b6d27ef34c6a87fb80056bd4f078238] a statement by the practitioner that the practitioner has in force, or will have in force in relation to them by the time the practitioner begins to practise as a licensed practitioner in the UK, an indemnity arrangement which provides appropriate cover;
+- (e) the name and address of—
+  - (i) any person, body or organisation by whom the practitioner is employed to provide medical services, and
+  - (ii) any person, body or organisation with whom the practitioner has an arrangement to provide medical services;
+- (f) where the practitioner is not employed to provide medical services and does not have an arrangement to provide medical services, the name and address of—
+  - (i) the person, body or organisation that most recently employed the practitioner to provide medical services (if any), and
+  - (ii) the person, body or organisation with whom the practitioner most recently had an arrangement to do so (if any);
+- (g) the date that—
+  - (i) any employment and any arrangement to provide medical services referred to under paragraph (e) commenced, or
+  - (ii) any employment and any arrangement to provide medical services referred to under paragraph (f) —
+    - (aa) commenced, and
+    - (bb) terminated; and
+- (h) a statement by each person set out in paragraph (4) which—
+  - (i) states that the person making it is not aware of any proceedings, or act or omission on the part of the practitioner, which might render the practitioner liable to be referred to the General Council for investigation or consideration of the practitioner's fitness to practise, or which have resulted in such investigation or consideration, or
+  - (ii) gives particulars of any proceedings, or act or omission on the part of the practitioner, which might render the practitioner so liable or which have resulted in such investigation or consideration, of which the person making the statement is aware.
+
+(4) The persons referred to in paragraph (3)(h) are—
+
+- (a) the practitioner;
+- (b) any person or an officer of any body or organisation named in accordance with paragraph (3)(e); and
+- (c) an officer of any regulatory body (other than the General Council) with which the practitioner has been registered within the period of 5 years ending with the date of the application.
+
+(5)[^key-2d348cbabe5dfed8b4e90b8a34ad0806] Where in the Registrar’s opinion it is reasonable to do so for the purpose of determining whether to grant a licence, including a determination as to whether a practitioner has the necessary knowledge of English, the Registrar may—
+
+- (a) by notice to the practitioner, request that the practitioner—
+  - (i) provide further evidence or information,
+  - (ii) undertake, at the practitioner’s own cost, an assessment designed to evaluate the practitioner’s knowledge of English;
+- (b) carry out other investigations.
+
+(6) Subsections (5) to (8) of section 29E (evidence) [^c21421971] apply to the provision of evidence or information under paragraph (5) as they apply to the supply of information or the production of documents under subsections (3) and (4) of section 29E.
+
+(7) Where, pursuant to section 35C(8) (functions of the Investigation Committee) [^c21421981], a referral has been made to an Interim Orders Panel or a Fitness to Practise Panel to consider making an interim order under section 41A (interim orders) [^c21421991] in relation to the applicant, the Registrar may decide to take no further action in relation to the application until the decision of the panel and the outcome of any application to the relevant court under section 41A(10), is known.
+
+(8)[^key-6893ad7253e49ba748d3a22d87513f97] The Registrar may refuse to grant a licence if the Registrar considers that—
+
+- (a) without reasonable excuse, the practitioner has—
+  - (i) failed to satisfy the requirements of paragraph (3),
+  - (ii) failed to provide any evidence or information requested by the Registrar under paragraph (5)(a)(i),
+  - (iii) failed to undertake an assessment requested by the Registrar under paragraph (5)(a)(ii), or
+- (b) having taken account of any evidence as to the practitioner’s knowledge of English, a practitioner falling within paragraph (1) or applying for a licence under paragraph (2) has failed to demonstrate the necessary knowledge of English.
+
+(9) Save where the application is refused under paragraph (8) or where any circumstances apply which would require a licence to be withdrawn, the Registrar must grant an application and give the practitioner notice that the application has been granted.
+
+### 4. Withdrawal of a licence
+
+(1) The licence of a registered practitioner must be withdrawn by the Registrar where—
+
+- (a) the practitioner requests withdrawal of that licence;
+- (b) it is established to the satisfaction of the Registrar that the licence was fraudulently procured or otherwise incorrectly granted; or
+- (c) paragraph (2) applies.
+
+(2) This paragraph applies where a registered practitioner's—
+
+- (a) name is erased from the register pursuant to subsection (4) or (5) of section 30 (the registers) [^c21422001];
+- (b) name is erased from the register pursuant to section 39 (fraud or error in relation to registration) [^c21422011];
+- (c) name is removed from the register pursuant to subsection (3) of section 44 (effect of disqualification in a[^key-7fa233889ac4e553c8ab5ff34f86995c] relevant European State on registration in the United Kingdom) [^c21422021];
+- (d) name is erased from the register pursuant to subsection (1) or (4) of section 44B (provision of information in respect of fitness to practise matters) [^c21422031];
+- (e) name is erased from the register pursuant to regulations made under section 31A (voluntary removal from the register) or section 32(2) (registration fees) [^c21422041];
+- (f)[^key-ec59eba45a65597c33a6e2bf745400f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) registration under section 18A (temporary registration with regard to emergencies involving loss of human life or human illness etc.) is revoked; or
+- (h) registration under section 27A (temporary registration for visiting eminent specialists) or section 27B (special purpose registration) ceases to have effect.
+
+(3) The licence of a registered practitioner may be withdrawn by the Registrar where it is established to the satisfaction of the Registrar that the practitioner has—
+
+- (a) failed, without reasonable excuse, to comply with any requirement of guidance published by the General Council under section 29G (guidance) [^c21422061] (including any requirement to participate in a scheme of appraisal which meets the requirements set out in that guidance);
+- (b) failed, without reasonable excuse, to provide any evidence or information to the Registrar in accordance with regulation 6(4);
+- (c) failed, without reasonable excuse, to undergo an assessment requested by the Registrar in accordance with regulation 6(8);
+- (d) failed, without reasonable excuse, to provide any evidence or information required by the Registrar in accordance with regulation 6(9);
+- (e) failed, without reasonable excuse, to provide any evidence or information requested by the Registrar in accordance with regulation 6(10);
+- (f) fraudulently provided to the Registrar, in relation to any requirement of regulation 6 or any requirement or request of the Registrar under that regulation, any evidence or information which is false; or
+- (fa)[^key-5f0716ee4364230f4bb09f3953728f50] failed, without reasonable excuse, to provide any evidence or information to the Registrar in accordance with regulation 4A;
+- (fb) failed, when practising as a licensed practitioner, to have in force in relation to them an indemnity arrangement providing appropriate cover;
+- (g) failed, without reasonable excuse, to pay any fee required in accordance with regulation 6(14).
+
+(4) The licence of a registered practitioner must not be withdrawn under paragraph (1)(b) or (3) without the Registrar having first—
+
+- (a) given the practitioner notice—
+  - (i) stating that the Registrar is minded to withdraw the licence,
+  - (ii) stating on what grounds the Registrar is so minded to withdraw the licence,
+  - (iii) inviting the practitioner to make written representations no later than 28 days from the date that the notice is given to the practitioner; and
+- (b) taken account of any representations made by the practitioner.
+
+(5) Where a practitioner's licence is withdrawn under paragraph (1) or (3), the Registrar may advise the practitioner of any evidence or information which the Registrar considers may be reasonable to request for the purposes of any restoration application.
+
+### 4A. Request for information: indemnity arrangement[^key-29f99a090484bbac21fe63d977826219]
+
+For the purposes of determining whether in relation to a licensed practitioner there is in force, or in the case of a person seeking a licence to practise, there will be in force, an indemnity arrangement which provides appropriate cover, the Registrar may by notice —
+
+- (a) require that licensed practitioner or that person, to provide, within 28 days of the date of the the notice such evidence or information as it appears reasonable to the Registrar to request;
+- (b) require evidence or information to be provided by that licensed practitioner on such dates and at such intervals as the Registrar may specify in the notice.
+
+### 5. Restoration of a licence after withdrawal
+
+(1) A registered practitioner whose licence has been withdrawn under regulation 4(1) or (3) may make an application in writing to the Registrar for the licence to be restored, except where paragraph (12) applies.
+
+(2) An application made under paragraph (1) must include—
+
+- (a) the practitioner's name, date of birth and GMC reference number;
+- (b) the practitioner's registered address or an address to which the Registrar may send the practitioner written communications about the application;
+- (c) if the practitioner is willing to receive written communications about the application by electronic mail, an electronic mail address to which the Registrar may send such communications;
+- (d) confirmation that the practitioner has not since the time that the licence was withdrawn provided medical services for which a licence is required;
+- (da)[^key-29b46835e814e75fd0b0098ea0b936ca] a statement by the practitioner that the practitioner has in force, or will have in force in relation to him by the time the practitioner begins to practise as a licensed practitioner in the UK, an indemnity arrangement which provides appropriate cover.
+- (e) the name and address of—
+  - (i) any person, body or organisation by whom the practitioner is employed to provide medical services, and
+  - (ii) any person, body or organisation with whom the practitioner has an arrangement to provide medical services;
+- (f) where the practitioner is not employed to provide medical services and does not have an arrangement to provide medical services, the name and address of—
+  - (i) the person, body or organisation that most recently employed the practitioner to provide medical services (if any), and
+  - (ii) the person, body or organisation with whom the practitioner most recently had an arrangement to do so (if any);
+- (g) the date that—
+  - (i) any employment and any arrangement to provide medical services referred to under paragraph (e) commenced, or
+  - (ii) any employment and any arrangement to provide medical services referred to under paragraph (f)—
+    - (aa) commenced, and
+    - (bb) terminated; and
+- (h) a statement by each person set out in paragraph (3) which—
+  - (i) states that the person making it is not aware of any proceedings, or act or omission on the part of the practitioner, which might render the practitioner liable to be referred to the General Council for investigation or consideration of the practitioner's fitness to practise, or which have resulted in such investigation or consideration, or
+  - (ii) gives particulars of any proceedings, or act or omission on the part of the practitioner, which might render the practitioner so liable or which have resulted in such investigation or consideration, of which the person making the statement is aware.
+
+(3) The persons referred to in paragraph (2)(h) are—
+
+- (a) the practitioner;
+- (b) any person or an officer of any body or organisation named in accordance with paragraph (2)(e); and
+- (c) an officer of any regulatory body (other than the General Council) with which the practitioner has been registered within the period of 5 years ending with the date of the application.
+
+(4) Where the practitioner's licence was withdrawn under regulation 4(3)—
+
+- (a) on any ground mentioned in regulation 4(3)(a) to (e) and (g), the practitioner must take the step which the practitioner had failed to take during the revalidation of the practitioner; or
+- (b) on the ground mentioned in regulation 4(3)(f), the practitioner must provide information or evidence which is not false in relation to the requirement or request in question.
+
+(5) In the circumstances specified in paragraph (6), the Registrar may, prior to deciding whether to grant or refuse an application under paragraph (1), carry out a revalidation of the practitioner under regulation 6 (and a notice may be served under regulation 6(1) even though the practitioner is not licensed).
+
+(6) Those circumstances are that—
+
+- (a) the Registrar has not carried out a revalidation of the practitioner within the period of 5 years prior to the application; or
+- (b) the practitioner's licence was withdrawn under regulation 4(1)(a) and the Registrar has reasonable grounds for believing that the practitioner requested the licence be withdrawn in order to avoid being subject to revalidation.
+
+(7) Where in the Registrar's opinion it is reasonable to do so for the purpose of determining whether to grant an application, the Registrar may—
+
+- (a) by notice to the practitioner, request that the practitioner provide further evidence or information; and
+- (b) carry out other investigations.
+
+(8) Subsections (5) to (8) of section 29E (evidence) apply to the provision of evidence or information under paragraph (7) as they apply to the supply of information or the production of documents under subsections (3) and (4) of section 29E.
+
+(9) Where, pursuant to section 35C(8) (functions of the Investigation Committee), a referral has been made to an Interim Orders Panel or a Fitness to Practise Panel to consider whether to make an interim order under section 41A (interim orders) in relation to the applicant, the Registrar may decide to take no further action in relation to the application until the decision of the panel and the outcome of any application to the relevant court under section 41A(10) is known.
+
+(10) The Registrar may refuse an application if—
+
+- (a) the Registrar considers that, without reasonable excuse, the practitioner has—
+  - (i) failed to satisfy the requirements of paragraph (2),
+  - (ii) where applicable, failed to satisfy a requirement of paragraph (4), or
+  - (iii) failed to provide any evidence or information requested by the Registrar under paragraph (7); or
+- (b) in relation to a revalidation of the practitioner carried out under paragraph (5), the Registrar could have withdrawn a licence under regulation 4(3) if the practitioner held a licence at the time of the revalidation.
+
+(11) Save where the application is refused under paragraph (10) or where any circumstances apply which would require a licence to be withdrawn, the Registrar must grant an application and give the practitioner notice that the application has been granted.
+
+(12) Unless the practitioner requests otherwise, where a practitioner's licence has been withdrawn under regulation 4(1)(c), the licence must be restored automatically on the practitioner's restoration to the register pursuant to regulations made under subsection (8) of section 31 (power to make regulations with respect to the registers) or section 31A (voluntary removal from the register).
+
+### 6. Revalidation
+
+(1) The Registrar must give each licensed practitioner, other than an excepted practitioner listed in paragraph (2), a notice specifying a submission date (“notice of a submission date”) for the purposes of the revalidation of the practitioner—
+
+- (a) once in every five year period following the grant of a licence to the practitioner; or
+- (b) on any other occasion that the Registrar sees fit.
+
+(2) An excepted practitioner is a practitioner who—
+
+- (a) is registered under section [^key-4ab281419603ec1d504e7c985e928737]... 18A (temporary registration with regard to emergencies) or 27A (temporary registration for visiting eminent specialists); or
+- (b) is subject to proceedings relating to whether the practitioner's fitness to practise is impaired and the Registrar does not consider that it is possible to evaluate the practitioner's fitness to practise while the practitioner is subject to those proceedings.
+
+(3) The notice of a submission date must—
+
+- (a) be given to the practitioner at least 3 months before the submission date, unless the practitioner agrees to a shorter period; and
+- (b) where paragraph (1)(b) applies, give the Registrar's reasons.
+
+(4) A practitioner who has been given notice of a submission date must, by that date, provide any evidence or information to the Registrar relating to the revalidation of the practitioner required by guidance published by the General Council under section 29G (guidance).
+
+(5) A practitioner who has a responsible officer and has been given notice of a submission date, must take reasonable steps to arrange for that responsible officer to produce a statement to the Registrar, on or before that date, as to whether the responsible officer—
+
+- (a) recommends that the practitioner is fit to practise;
+- (b) cannot recommend that the practitioner is fit to practise; or
+- (c) requires more time in which to make a recommendation,
+
+and in each case the responsible officer must give reasons.
+
+(6) A practitioner who does not have a responsible officer and has been given notice of a submission date may arrange for a suitable person to produce to the Registrar, on or before that date, a statement prepared by the suitable person as to whether that person—
+
+- (a) recommends that the practitioner is fit to practise;
+- (b) cannot recommend that the practitioner is fit to practise; or
+- (c) requires more time in which to make a recommendation,
+
+and in each case the suitable person must give reasons.
+
+(7) In paragraph (6), a “**suitable person**” means a registered medical practitioner approved by the Registrar as suitable to prepare a statement in respect of the practitioner in question under that paragraph who—
+
+- (a) has been appointed or nominated by a designated body under Part 2 of the Medical Profession (Responsible Officers) Regulations 2010 [^c21422071] or Part 2 of the Medical Profession (Responsible Officers) Regulations (Northern Ireland) 2010 [^c21422081] and does not have a prescribed connection with the practitioner under those Regulations; or
+- (b) holds a post within a body, whether or not it is a designated body under those Regulations, which includes responsibilities which the Registrar is satisfied are similar in nature to those of a responsible officer.
+
+(8) Where the Registrar has given notice of a submission date to a practitioner who does not have a responsible officer and in respect of whom no suitable person has been approved to prepare a statement under paragraph (6), if it appears to the Registrar to be reasonable to do so the Registrar may by notice to the practitioner request that the practitioner undergo, at the practitioner's own cost, an assessment (which may include an assessment of the practitioner’s knowledge of English)[^key-e2de0af0823bc3e1115cc24a4819def4] —
+
+- (a) designed to evaluate the practitioner's fitness to practise;
+- (b) which is—
+  - (i) conducted by the General Council, or
+  - (ii) accepted by the Registrar as suitable for the purpose.
+
+(9) The Registrar may by notice to a practitioner, require the practitioner to supply to the Registrar within 28 days of the date the notice is given to the practitioner—
+
+- (a) specified information about the practitioner's prospective, current or past employment as a medical practitioner which, in the Registrar's opinion will assist in determining when and how to revalidate the practitioner;
+- (b) confirmation as to whether the practitioner has a responsible officer and, if the practitioner does have a responsible officer, the name and contact details of—
+  - (i) the designated body with which the practitioner has a prescribed connection in accordance with the Medical Profession (Responsible Officers) Regulations 2010 or the Medical Profession (Responsible Officers) Regulations (Northern Ireland) 2010, and
+  - (ii) the practitioner's responsible officer.
+
+(10) The Registrar may, after considering any evidence or information provided for the purposes of the revalidation of a practitioner, give a notice to the practitioner requesting the practitioner to provide, within 28 days of the date the notice is given to the practitioner, further evidence or information where, in the opinion of the Registrar, it is reasonable to do so for the purposes of the revalidation of the practitioner.
+
+(11) The evidence or information specified in paragraph (10) may include evidence demonstrating that the practitioner has participated in a scheme of appraisal which satisfies the requirements of guidance published by the General Council under section 29G (guidance).
+
+(12) Subsections (5) to (8) of section 29E (evidence) apply to the provision of evidence or information under paragraph (10) as they apply to the supply of information or the production of documents under subsections (3) and (4) of section 29E.
+
+(13) Where a practitioner is unable to comply fully with a notice under paragraphs (9) or (10), the practitioner must, within the time specified in the paragraph in question, provide written representations as to why the practitioner is unable to provide the evidence or information required or requested.
+
+(14) The Registrar may require a practitioner to pay a fee representing the cost to the General Council of evaluating any information submitted in accordance with paragraph (4) or (10).
+
+(15) At any time after notice of a submission date has been given to a practitioner, if it appears to the Registrar to be reasonable to do so in the circumstances the Registrar may—
+
+- (a) if the submission date has not already passed, cancel the submission date; or
+- (b) if the submission date has passed, defer taking any further steps in relation to the revalidation of the practitioner until such time as the Registrar considers to be reasonable.
+
+(16) The Registrar must confirm the cancellation of a submission date or the deferral of further steps by the Registrar in relation to the revalidation of a practitioner under paragraph (15) by notice to the practitioner, giving reasons.
+
+(17) At any time after the cancellation of a submission date or the deferral of further steps by the Registrar in relation to the revalidation of a practitioner under paragraph (15), the Registrar may—
+
+- (a) give notice of a new submission date to the practitioner under paragraph (1); and
+- (b) give a notice under paragraph (10) whether or not the Registrar has considered any evidence or information provided for the purposes of the revalidation of the practitioner.
+
+(18) Save where the practitioner's licence is withdrawn under section 41C (effect of directions or orders on a licence to practise) [^c21422091] or regulation 4, following the revalidation of a licensed practitioner the Registrar must confirm by notice to the practitioner that the practitioner may continue to hold a licence to practice.
+
+(19) Where it comes to the attention of the Registrar that the wrong decision has been reached due to an administrative error in handling the revalidation of the practitioner, the Registrar may correct the error and give the practitioner notice of the corrected decision.
+
+### 7. Referral to a Registration Panel
+
+(1) The Registrar may at any time refer any question or matter arising during—
+
+- (a) the course of consideration of—
+  - (i) an application for a licence or restoration of a licence, or
+  - (ii) whether to withdraw a licence; or
+- (b) the revalidation of a practitioner,
+
+to a Registration Panel for such panel's advice.
+
+(2) The Registrar must take any such advice into account.
+
+### 8. Restoration for the purposes of section 41(7)
+
+Where a Fitness to Practise Panel decides to direct that a person's name be restored to the register under subsection (1) of section 41 (restoration of names to the register) [^c21422101], it must direct the Registrar to restore the person's licence if that licence was withdrawn under section 41C(1)(a) (effect of directions or orders on a licence to practise) at the time the person's name was erased from the register.
+
+### 9. Revocation
+
+The General Medical Council (Licence to Practise) Regulations 2009 are revoked [^c21422111].
+
+*(This note is not part of the Order)*
+
+This Order approves the Regulations made by the General Medical Council on 27th September 2012 under their powers under the Medical Act 1983 (“**the Act**”) in relation to the licensing of medical practitioners.
+
+Regulation 2 makes provision for the giving of notices.
+
+Regulation 3 makes provision so that a medical practitioner will automatically be granted a licence on registration under the Act. Provision is made for the grant of a licence to a practitioner in certain other specified circumstances. Provision is also made for a doctor holding registration without a licence to apply for one, subject to certain requirements set out in the regulation.
+
+Regulation 4 provides for the withdrawal of a licence where a medical practitioner so requests, where the Registrar is satisfied that it was fraudulently or otherwise incorrectly obtained, or where the Registrar decides to withdraw the practitioner's licence following a failure to comply with the revalidation process provided for in regulation 6. It also provides for withdrawal of a licence in cases where the practitioner's registration comes to an end other than upon a determination by a Fitness to Practise Panel or an Interim Orders Panel. It sets out procedural requirements which apply in certain cases before the licence can be withdrawn.
+
+Regulation 5 provides for the restoration of a licence after withdrawal under regulation 4, setting out the procedure that applies. Under regulation 5(5) and (6), the Registrar may require the practitioner to undergo revalidation prior to reaching a decision on the application for restoration of a licence, where the practitioner has not undergone revalidation for at least 5 years previously, or where the Registrar has reasonable grounds for believing that the practitioner requested the withdrawal of their licence in order to avoid revalidation.
+
+Regulation 6 provides for the revalidation of a practitioner. Paragraphs (1) to (3) provide for a notice of a submission date for the purposes of the revalidation of a practitioner to be served on a practitioner (other than certain excepted practitioners) once in every five year period unless the Registrar sees fit to serve a notice on another occasion. Under paragraphs (4) and (5), the practitioner must, by the submission date, provide evidence or information to the Registrar relating to revalidation required by statutory guidance and take reasonable steps to arrange for the practitioner's responsible officer (if any) to prepare a statement on whether a recommendation as to the practitioner's fitness to practise can be made. Where the practitioner has no responsible officer, paragraphs (6) and (7) allow the practitioner to arrange for a suitable person to prepare a statement. A suitable person must be a registered medical practitioner who is approved by the Registrar as suitable to prepare a statement and is either a responsible officer in respect of another person, who does not have a formal statutory connection with the practitioner in question, or a person who holds a post which the Registrar is satisfied includes similar responsibilities to that of a responsible officer. Under paragraph (8), where the practitioner has no responsible officer and no suitable person, the Registrar may request the completion of an assessment at the practitioner's own cost. The Registrar has the power to require or request further evidence or information in accordance with the provisions set out in paragraphs (9) to (13) and power under paragraph (14) to charge a fee for evaluating certain information in support of revalidation.
+
+Under paragraph (15), where the Registrar considers it reasonable to do so the Registrar may cancel a submission date or defer the practitioner's revalidation until such time as the Registrar considers reasonable. By virtue of paragraph (17), at any time after a cancellation or deferral under paragraph (15), the Registrar may give notice of a new submission date and seek further evidence or information from the practitioner. Under paragraph (18), save where the practitioner's licence is withdrawn, following the revalidation of a practitioner the Registrar must confirm by notice that the practitioner's licence may continue. Paragraph (19) allows for corrections.
+
+Regulation 7 gives the Registrar power to refer to a Registration Panel any question arising in relation to the grant, withdrawal or restoration of a licence, or in relation to the revalidation of a practitioner, and requires the Registrar to take the Panel's advice into account in reaching any decision.
+
+Regulation 8 provides for the restoration of a licence following the determination of a Fitness to Practise Panel that a practitioner's name should be restored to the register.
+
+Regulation 9 revokes the General Medical Council (Licence to Practise) Regulations 2009.
+
+## Annotations
+
+[^c21421831]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Sections 29A, 29B, 29D, 29E and 29J were inserted, and section 41 was substituted, by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). Section 29A has since been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [S.I](https://www.legislation.gov.uk/uksi/2006/1914/section/I). 2008/3131 and S.I 2010/234. Section 29B has been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [S.I](https://www.legislation.gov.uk/uksi/2006/1914/section/I). 2008/3131 and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234). Section 29D has been amended by [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131). Section 29E has been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and 2008/3131. Section 29F has been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131). Section 29J has been amended by [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131) and [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200). Section 41 has been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^key-0872246e5c18bb6353d49f26284d92f6]: Textual amendment: Words in Sch. reg. 1(2) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/2/a)
+
+[^c21421841]: Marginal citation: [S.I. 2010/2841](https://www.legislation.gov.uk/uksi/2010/2841), which was amended by [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581) and [S.I. 2012/476](https://www.legislation.gov.uk/uksi/2012/476).
+
+[^c21421851]: Marginal citation: S.R.(N.I.) [2010 No. 222](https://www.legislation.gov.uk/ukcm/2010/222).
+
+[^key-696d5a475fb0a0ec73bf57b2ffc8be06]: Textual amendment: Sch. reg. 1(4) added (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/2/b)
+
+[^c21421861]: Marginal citation: Section 29H was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
+
+[^c21421871]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). Paragraph 2 of Schedule 1 was amended by section 2(2) of the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp. 2)](https://www.legislation.gov.uk/asp/2007/2).
+
+[^key-97b94432a86576192d69be805162abd5]: Textual amendment: Words in Sch. reg. 3(1) inserted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/a) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
+
+[^key-c0c1f22060f24498ebb0cd97df743f11]: Textual amendment: Words in Sch. reg. 3(1) substituted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/3/a) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
+
+[^key-73c29f9af95c99be12bd1ade917aa1f4]: Textual amendment: Words in Sch. reg. 3(1)(a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 60](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/60) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21421891]: Marginal citation: Section 18A was inserted by [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
+
+[^c21421901]: Marginal citation: Section 27A was inserted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^c21421911]: Marginal citation: Section 27B was inserted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^c21421921]: Marginal citation: Section 31(8) was amended by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [S.I](https://www.legislation.gov.uk/uksi/2002/3135/section/I). 2006/1914 and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
+
+[^c21421931]: Marginal citation: Section 31A was inserted by section 2 of the [Medical (Professional Performance) Act 1995 (c. 51)](https://www.legislation.gov.uk/ukpga/1995/51) and amended by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and S.I 2010/234.
+
+[^c21421941]: Marginal citation: Section 41 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^c21421951]: Marginal citation: Scheduled to [S.I. 2009/2739](https://www.legislation.gov.uk/uksi/2009/2739).
+
+[^c21421961]: Marginal citation: Section 35D was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
+
+[^key-2b9374de213f91434798f873d8d2b6df]: Textual amendment: Sch. regs. 3(1A)(1B) inserted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/b) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
+
+[^key-d9af682e279d8ef9d64185fd8bb74ee7]: Textual amendment: Sch. reg. 3(1C) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/3/b) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
+
+[^key-4b6d27ef34c6a87fb80056bd4f078238]: Textual amendment: Sch. reg. 3(3)(da) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/3/c) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
+
+[^key-2d348cbabe5dfed8b4e90b8a34ad0806]: Textual amendment: Sch. reg. 3(5) substituted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/c) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
+
+[^c21421971]: Marginal citation: Section 29E was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131).
+
+[^c21421981]: Marginal citation: Section 35C was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [S.I](https://www.legislation.gov.uk/uksi/2006/1914/section/I). 2008/1774, [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131) and section 81 of the [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26).
+
+[^c21421991]: Marginal citation: Section 41A was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^key-6893ad7253e49ba748d3a22d87513f97]: Textual amendment: Sch. reg. 3(8) substituted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/d) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
+
+[^c21422001]: Marginal citation: Subsections (4) and (5) of section 30 were amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
+
+[^c21422011]: Marginal citation: Section 39 was substituted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^key-7fa233889ac4e553c8ab5ff34f86995c]: Textual amendment: Word in Sch. reg. 4(2)(c) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 61(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/61/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21422021]: Marginal citation: Section 44 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
+
+[^c21422031]: Marginal citation: Section 44B was inserted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
+
+[^c21422041]: Marginal citation: Subsection (2) of section 32 was amended by [S.I. 2000/1344](https://www.legislation.gov.uk/uksi/2000/1344).
+
+[^key-ec59eba45a65597c33a6e2bf745400f2]: Textual amendment: Sch. reg. 4(2)(f) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 61(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/61/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21422061]: Marginal citation: Section 29(G) was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131) and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
+
+[^key-5f0716ee4364230f4bb09f3953728f50]: Textual amendment: Sch. [reg. 4(3)(fa)](https://www.legislation.gov.uk/uksi/2012/2685/regulation/4/3/fa)[(fb)](https://www.legislation.gov.uk/uksi/2012/2685/regulation/4/3/fb) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(4)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/4)
+
+[^key-29f99a090484bbac21fe63d977826219]: Textual amendment: Sch. [reg. 4A](https://www.legislation.gov.uk/uksi/2012/2685/regulation/4A) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(5)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/5) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
+
+[^key-29b46835e814e75fd0b0098ea0b936ca]: Textual amendment: Sch. [reg. 5(2)(da)](https://www.legislation.gov.uk/uksi/2012/2685/regulation/5/2/da) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(6)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/6)
+
+[^key-4ab281419603ec1d504e7c985e928737]: Textual amendment: Words in Sch. reg. 6(2)(a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/62) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21422071]: Marginal citation: [S.I. 2010/2841](https://www.legislation.gov.uk/uksi/2010/2841), which was amended by [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581) and [S.I. 2012/476](https://www.legislation.gov.uk/uksi/2012/476).
+
+[^c21422081]: Marginal citation: S.R.(N.I.) [2010 No. 222](https://www.legislation.gov.uk/ukcm/2010/222).
+
+[^key-e2de0af0823bc3e1115cc24a4819def4]: Textual amendment: Words in Sch. reg. 6(8) inserted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/3)
+
+[^c21422091]: Marginal citation: Section 41C was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
+
+[^c21422101]: Marginal citation: Section 41 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^c21422111]: Marginal citation: Scheduled to [S.I. 2009/2739](https://www.legislation.gov.uk/uksi/2009/2739).

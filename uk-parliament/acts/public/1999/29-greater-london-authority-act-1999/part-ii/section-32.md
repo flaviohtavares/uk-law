@@ -1,0 +1,47 @@
+---
+title: Greater London Authority Act 1999, section 32
+act: Greater London Authority Act 1999
+section: '32'
+status: revised-with-pending-changes
+text_date: '2026-08-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1999/29/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Greater London Authority Act 1999, section 32
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 32. Consultation.
+
+*Extent: E+W+S*
+
+(1) The power conferred by section 30(1) above is exercisable only after consultation with such bodies or persons as the Authority may consider appropriate in the particular case.
+
+(2) In determining what consultation (if any) is appropriate under subsection (1) above, the bodies which, and persons whom, the Authority considers consulting must include—
+
+- (a) any London borough council;
+- (b) the Common Council; and
+- (c) bodies of each of the descriptions specified in subsection (3) below.
+
+(3) Those descriptions are—
+
+- (a) voluntary bodies some or all of whose activities benefit the whole or part of Greater London;
+- (b) bodies which represent the interests of different racial, ethnic or national groups in Greater London;
+- (c) bodies which represent the interests of different religious groups in Greater London;
+- (d) bodies which represent the interests of persons carrying on business in Greater London.
+
+(4) The Authority may make arrangements with—
+
+- (a) any London borough council,
+- (b) the Common Council,
+- (c) bodies of the descriptions specified in subsection (3) above, and
+- (d) such other bodies or persons as it may consider appropriate,
+
+for the purpose of facilitating the carrying out by the Authority of consultation pursuant to this section or any other provision of this Act.
+
+(5) The functions conferred on the Authority under or by virtue of this section shall be functions of the Authority which are exercisable by the Mayor acting on behalf of the Authority.

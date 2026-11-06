@@ -1,0 +1,42 @@
+---
+title: Agricultural Holdings Act 1986, section 61
+act: Agricultural Holdings Act 1986
+section: '61'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1986/5/section/61
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Agricultural Holdings Act 1986, section 61
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 61. Cases where compensation under section 60 is not payable.
+
+*Extent: E+W*
+
+(1) Neither basic compensation nor additional compensation shall be payable under section 60 above where the operation of section 26(1) above in relation to the relevant notice is excluded by virtue of Case C, D, E, F or G.
+
+(2) Additional compensation shall not be so payable where the operation of section 26(1) above in relation to the relevant notice is excluded by virtue of Case A or H.
+
+(3) Except as provided by subsection (4) below, additional compensation shall not be payable under section 60 above where—
+
+- (a) the relevant notice contains a statement either that the carrying out of the purpose for which the landlord proposes to terminate the tenancy is desirable on any of the grounds mentioned in paragraphs (a) to (c) of section 27(3) above or that the landlord will suffer hardship unless the notice has effect, and
+- (b) if an application for consent in respect of the notice is made to the Tribunal in pursuance of section 26(1) above, the Tribunal consent to its operation and state in the reasons for their decision that they are satisfied as to any of the matters mentioned in paragraphs (a), (b), (c) and (e) of section 27(3).
+
+(4) Additional compensation shall be payable in a case falling within subsection (3) above where such an application as is mentioned in paragraph (b) of that subsection is made and—
+
+- (a) the reasons given by the Tribunal also include the reason that they are satisfied as to the matter mentioned in paragraph (f) of section 27(3) above, or
+- (b) the Tribunal include in their decision a statement under subsection (5) below.
+
+(5) Where such an application as is mentioned in subsection (3)(b) above is made in respect of the relevant notice and the application specifies the matter mentioned in paragraph (b) of section 27(3) above (but not that mentioned in paragraph (f) of that subsection), the Tribunal shall if they are satisfied as to the matter mentioned in paragraph (b) but would, if it had been specified in the application, have been satisfied also as to the matter mentioned in paragraph (f) include a statement to that effect in their decision.
+
+(6) In this section—
+
+- “**basic compensation**” and “**additional compensation**” have the same meanings as in section 60 above;
+- “**the relevant notice**” means the notice to quit the holding or part of the holding, as the case may be, mentioned in section 60(1) above.

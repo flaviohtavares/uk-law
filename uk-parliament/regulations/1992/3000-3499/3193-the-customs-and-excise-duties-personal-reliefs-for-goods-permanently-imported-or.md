@@ -1,0 +1,495 @@
+---
+title: The Customs and Excise Duties (Personal Reliefs for Goods Permanently Imported) Order 1992
+id: uksi/1992/3193
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1992-12-16'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1992/3193
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/3193/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Customs and Excise Duties (Personal Reliefs for Goods Permanently Imported) Order 1992
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1992 No. 3193
+
+CUSTOMS AND EXCISE
+
+The Customs and Excise Duties (Personal Reliefs for Goods Permanently Imported) Order 1992
+
+Approved by the House of Commons
+
+Made
+
+16th December 1992
+
+Laid before the House of Commons
+
+17th December 1992
+
+Coming into force
+
+1st January 1993
+
+The Commissioners of Customs and Excise, in exercise of the powers conferred on them by sections 7 and 13 of the Customs and Excise Duties (General Reliefs) Act 1979[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## PART I — PRELIMINARY
+
+### 1. Citation and commencement[^key-cc032a70e087dc9f72f7eb5fad4389f6]
+
+This Order may be cited as the Customs and Excise Duties (Personal Reliefs for Goods Permanently Imported) Order 1992 and shall come into force on 1st January 1993.
+
+### 2. Interpretation[^key-d0ff08f2beffb2061507e7cc5c5c0245][^key-78596973a6fea9ea4197e88d31c1113c]
+
+In this Order—
+
+- “[^key-037cf8af9be466132101c9a72c31e588]**another country**” means a country other than the United Kingdom
+- “**customs procedure**” has the meaning given by section 3(3) of the Taxation (Cross-border) Trade Act 2018 .
+- “declared for relief” has the meaning assigned to it by article 8 below;
+- “household effects” means furnishings and equipment for personal household use;
+- “motor vehicle” shall include a trailer;
+- “normal residence” means a person’s principal place of abode situated in the country where he is normally resident;
+- “normally resident” has the meaning assigned to it by article 3 below;
+- “occupational ties” shall not include attendance by a pupil or student at a school, college or university;
+- “personal ties” shall mean family or social ties to which a person devotes most of his time not devoted to occupational ties;
+- “property” means any personal property intended for personal use or for meeting household needs and shall include household effects, household provisions, household pets and riding animals, cycles, motor vehicles, caravans, pleasure boats and private aircraft, provided that there shall be excluded any goods which, by their nature or quantity, indicate that they are being imported for a commercial purpose;
+- “[^key-c3e9536dcbd8652f605ab6d97318f6f7]**relevant NI import duty**” has the meaning given in paragraph 1(8) of Schedule 9ZB to the Value Added Tax Act 1994
+- [^key-341f344b72be8e4156f12f82b875f47a]...
+- “used”, in relation to a person’s use of consumable property, shall include having the property at his disposal.
+
+### 3. Rules for determining where a person is normally resident[^key-b87edd3dcd36bc39b948a613b910fb34]
+
+(1) This article shall apply for the purpose of determining, in relation to this Order, where a person is normally resident.
+
+(2) A person shall be treated as being normally resident in the country where he usually lives—
+
+- (a) for a period of, or periods together amounting to, at least 185 days in a period of twelve months;
+- (b) because of his occupational ties; and
+- (c) because of his personal ties.
+
+(3) In the case of a person with no occupational ties, paragraph (2) above shall apply with the omission of sub-paragraph (b), provided his personal ties show close links with that country.
+
+(4) Where a person has his occupational ties in one country and his personal ties in a different[^key-72b9376f14e98a2c1d765c55300fd081] country, he shall be treated as being normally resident in the latter country provided that either—
+
+- (a) his stay in the former country is in order to carry out a task of a definite duration, or
+- (b) he returns regularly to the country where he has his personal ties.
+
+(5) Notwithstanding paragraph (4) above, a United Kingdom citizen whose personal ties are in the United Kingdom but whose occupational ties are in another country[^key-847e09c979a48083bb5d88511b53bdd7] may for the purposes of relief under this Order be treated as normally resident in the country of his occupational ties, provided he has lived there for a period of, or periods together amounting to, at least 185 days in a period of twelve months.
+
+### 4. Supplementary[^key-692a3e59f4f90ccb1d5b5aaabdf0de27]
+
+For the purposes of this Order—
+
+- (a) any reference to a person who has been normally resident in another country[^key-e3e02ecbecff4469a7c047d4463115fe] and who intends to become normally resident in the United Kingdom shall be taken as a reference to a person who intends to comply with the requirements of paragraphs (2), (3) or (4) of article 3 above, as the case may be, for being treated as normally resident in the United Kingdom;
+- (b) the date on which a person becomes normally resident in the United Kingdom shall be the date when having given up his normal residence in another country[^key-0f74c1cfcbd9fb3f0cde6ca012cff6f1] he is in the United Kingdom for the purpose of fulfilling such intention as is mentioned in paragraph (a) above.
+
+### 4A. Modifications for certain movements of goods involving Northern Ireland[^key-fc7daabca8bfd45cb99e1549d5b53cc1]
+
+(1) Nothing in this Order affords relief from tax charged under paragraph 3(2) of Schedule 9ZB to the Value Added Tax Act 1994 (“VATA”).
+
+(2) Paragraphs (3) to (13) of this article apply in respect of tax charged under paragraph 3(4) of Schedule 9ZB to VATA and where this article modifies the provisions of this Order, relief shall be afforded from such tax in accordance with such provisions only as modified.
+
+(3) Where under this Order relief from tax applies to a movement of goods from Great Britain or the Isle of Man to Northern Ireland, Great Britain or the Isle of Man shall be treated as a country and Northern Ireland as a different country, including for the purposes of determining under this Order whether and when a person is normally resident in Great Britain or the Isle of Man and whether and when a person becomes or intends to become normally resident in Northern Ireland.
+
+(4) Where it is necessary to determine for the purposes of relief under this Order where a person is normally resident, a United Kingdom citizen whose personal ties are in Northern Ireland but whose occupational ties are in Great Britain or the Isle of Man may be treated as normally resident in Great Britain or the Isle of Man if the person has lived there for a period of, or periods together amounting to, at least 185 days in a period of twelve months.
+
+(5) In this Order—
+
+- (a) any reference to a person who has been normally resident in Great Britain or the Isle of Man and who intends to become normally resident in Northern Ireland shall be taken as a reference to a person who intends to comply with the requirements of paragraph (2), (3) or (4) of article 3, as the case may be, for being treated as normally resident in Northern Ireland;
+- (b) the date on which a person becomes normally resident in Northern Ireland shall be the date when having given up the person's normal residence in Great Britain or the Isle of Man, the person is in Northern Ireland for the purposes of fulfilling such intention as is mentioned in paragraph (a).
+
+(6) Article 6 applies in respect of tax where goods enter Northern Ireland from Great Britain or the Isle of Man as though the reference in that article to the United Kingdom were a reference to Northern Ireland.
+
+(7) Article 8(2) applies as if the expression “**declared for relief**” refers to the act by which a person applies for relief on entry of goods to Northern Ireland from Great Britain or the Isle of Man or on their removal from another customs procedure, where customs procedure means a customs procedure for the purposes of Union customs legislation as defined in paragraph 1(8) of Schedule 9ZB to the VATA.
+
+(8) Article 9 applies where relief from tax has been afforded subject to an intention of a person in relation to becoming normally resident in Northern Ireland as it applies where relief has been afforded subject to an intention of a person in relation to becoming normally resident in the United Kingdom.
+
+(9) Articles 7, 11, 12, 13, 14, 16 and 17 apply as though references to the United Kingdom were references to Northern Ireland, as though references to importation into the United Kingdom were references to entry to Northern Ireland, as though references to property imported into the United Kingdom were references to property which entered Northern Ireland and as though references to another country were references to Great Britain or the Isle of Man.
+
+(10) For the purposes of affording relief from tax under article 14 a wedding gift shall be treated as if it were liable to relevant NI import duty and valued in accordance with the rules applicable to such duty.
+
+(11) Articles 18 and 19 do not apply in relation to tax charged under paragraph 3(4) of Schedule 9ZB to VATA.
+
+(12) Article 21 applies to a person who has become entitled as legatee to property situated in Great Britain or the Isle of Man and the entry of such property to Northern Ireland as it applies to a person who has become entitled as legatee to property situated in another country and the importation of such property to the United Kingdom, on the following conditions (which apply instead of the conditions in sub-paragraphs (a) to (c) of article 21(1))—
+
+- (a) the person is either—
+  - (i) normally resident in Northern Ireland; or
+  - (ii) a secondary resident who is not normally resident in Great Britain, the Isle of Man or a country which is not a member State; or
+  - (iii) an eligible body;
+- (b) the person furnishes proof to the officer of the person's entitlement as legatee to the property; and
+- (c) save as the Commissioners otherwise allow, the property is imported by or for such person not later than two years from the date on which the person's entitlement as legatee is finally determined.
+
+(13) In paragraph (12)—
+
+- “**eligible body**” means a body solely concerned with carrying on a non-profit making activity and has a business establishment or other fixed establishment in Northern Ireland; and
+- “**secondary resident**” means a person who, without being normally resident in Northern Ireland has a home situated in Northern Ireland which the person owns or is renting for at least twelve months.
+
+(14) Paragraphs (15) to (20) of this article apply in respect of tax charged on the importation of goods into the United Kingdom as a result of their entry to Northern Ireland from a country other than Great Britain or the Isle of Man, and where those paragraphs modify the provisions of this Order, relief shall be afforded from such tax in accordance with such provisions only as modified.
+
+(15) Northern Ireland shall be treated as a country for the purposes of determining under this Order whether and when a person becomes or intends to become normally resident in Northern Ireland.
+
+(16) Where it is necessary to determine for the purposes of relief under this Order where a person is normally resident, a United Kingdom citizen whose personal ties are in Northern Ireland but whose occupational ties are in Great Britain, the Isle of Man or a country which is not a member State may be treated as normally resident in the country of his occupational ties if the person has lived there for a period of, or periods together amounting to, at least 185 days in a period of twelve months.
+
+(17) Articles 4, 6, 7,11, 12, 13, 14, 16, 17, 18 and 19 apply as though references to the United Kingdom were references to Northern Ireland, as though references to importation into the United Kingdom were references to entry to Northern Ireland, as though references to property imported into the United Kingdom were references to property which entered Northern Ireland and as though references to another country mean a country other than Great Britain or the Isle of Man and other than a member State.
+
+(18) Article 8(2) applies as if the expression “**declared for relief**” refers to the act by which a person applies for relief on entry of goods to Northern Ireland, where customs procedure means a customs procedure for the purposes of Union customs legislation as defined in paragraph 1(8) of Schedule 9ZB to VATA.
+
+(19) For the purposes of affording relief from tax under article 14 a wedding gift shall be treated as if it were liable to relevant NI import duty and valued in accordance with the rules applicable to such duty.
+
+(20) Article 21 applies to a person who has become entitled as legatee to property situated in Great Britain, the Isle of Man or a country which is not a member State and the entry of such property to Northern Ireland as it applies to a person who has become entitled as legatee to property situated in another country and the importation of such property to the United Kingdom on the conditions set out in sub-paragraphs (a) to (c) of article 4A(12) which apply instead of the conditions in sub-paragraphs (a) to (c) of article 21(1).
+
+## PART II — PROVISIONS COMMON TO CERTAIN REFIEFS
+
+### 5. Property may be in separate consignments[^key-6f21687e0ae8dd498202f1f88679dd79]
+
+Except as otherwise provided by this Order, where property in respect of which relief is afforded is permitted to be imported over a period it may be imported in more than one consignment during such period.
+
+### 6. Condition as to security for certain importations[^key-8ce451c3ee75ad4184dd5cc9dc4c4956]
+
+Where any goods are declared for relief under this Order—
+
+- (a) before the date on which a person becomes normally resident in the United Kingdom, or
+- (b) if he intends to become so resident on the occasion of his marriage before such marriage has taken place,
+
+the relief shall be subject to the condition that there is furnished to the Commissioners such security as they may require.
+
+### 7. Restriction on disposal without authorisation[^key-2291ee8103dcfca29661a593dd007b38]
+
+(1) Except as provided by or under this Order, where relief is afforded under any Part of this Order, it shall be a condition of the relief that the goods are not lent, hired-out, given as security or transferred in the United Kingdom within a period of twelve months from the date on which relief was afforded, unless such disposal is authorised by the Commissioners.
+
+(2) Where the Commissioners aut horise any such disposal as is mentioned in paragraph (1) above, they may discharge the relief and the person to whom the relief was afforded shall forthwith pay tax at the rate then in force, provided that where a lower rate was in force when relief was afforded the amount payable shall be determined by reference to the lower rate.
+
+## PART III — PROVISIONS COMMON TO ALL RELIEFS
+
+### 8. Goods to be declared for relief[^key-5d0c634d178f811906d16a6108191753]
+
+(1) A person shall not be entitled to relief from payment of duty or tax in respect of any goods under any Part of this Order unless the goods are declared for relief to the proper officer.
+
+(2) For the purposes of this Order, the expression “declared for relief” shall refer to the act by which a person applies for relief on importation of the goods or on their removal from another customs procedure [^key-5b685b417b27dd78acf0ebb4a5f690c3]....
+
+### 9. Fulfillment of intention to be a condition[^key-444c1d93b36436b8e12090cbd27b4a18]
+
+Where relief from payment of duty or tax is afforded under any Part of this Order subject to a specified intention on the part of a person in relation to his becoming normally resident in the United Kingdom, or the use of the goods in respect of which relief is afforded, it shall be a condition of the relief that such intention be fulfilled.
+
+### 10. Enforcement[^key-6f3705de7ec1ff170f08f109828b56f7]
+
+Where relief from payment of duty or tax has been afforded under any Part of this Order and subsequently the Commissioners are not satisfied that any condition subject to which such relief was afforded has been complied with, then, unless the Commissioners sanction the non-compliance, the duty or tax shall become payable forthwith by the person to whom relief was afforded (except to the extent that the Commissioners may see fit to waive payment of the whole or any part thereof) and the goods shall be liable to forfeiture.
+
+## PART IV — PERSONS TRANSFERRING THEIR NORMAL RESIDENCE FROM ANOTHER COUNTRY[^key-4841f4397fd36ba2a1f324afc746daee]
+
+**11.**[^key-370c5afcce8560b570e5368cf211a787] (1) Subject to the provisions of this Part, a person entering the United Kingdom shall not be required to pay any duty or tax chargeable in respect of property imported into the United Kingdom on condition that—
+
+- (a) he has been normally resident in another country[^key-ad725563d3c9d3bd510e48fbb8afc95b] for a continuous period of at least twelve months;
+- (b) he intends to become normally resident in the United Kingdom;
+- (c) the property has been in his possession and used by him in the country where he has been normally resident, for a period of at least six months before its importation;
+- (d) the property is intended for his personal or household use in the United Kingdom; and
+- (e) the property is declared for relief -
+  - (i) not earlier than six months before the date on which he becomes normally resident in the United Kingdom, and
+  - (ii) not later than twelve months following that date.
+
+(2) A person shall not be afforded relief under this Part unless the Commissioners are satisfied that the goods have borne, in their country of origin or exportation, the customs or other duties and taxes to which goods of that class or description are normally liable and that such goods have not, by reason of their exportation, been subject to any exemption from, or refund of, such duties and taxes as aforesaid, or any turnover tax, excise duty or other consumption tax.
+
+(3) For the purposes of this Part, “property” shall not include—
+
+- (a) beverages containing alcohol;
+- (b) tobacco products;
+- (c) any motor road vehicle which by its type of construction and equipment is designed for and capable of transporting more than nine persons including the driver, or goods, or any special purpose vehicle or mobile workshop; and
+- (d) articles for use in the exercise of a trade or profession, other than portable instruments of the applied or liberal arts.
+
+### 12. Supplementary[^key-133541ff5cd4e0cf04ade81852ab511a]
+
+Where the Commissioners are satisfied that a person has given up his normal residence in another country[^key-9fc7836b2445d38628cac0b0711ba846] but is prevented by occupational ties from becoming normally resident in the United Kingdom immediately, they may allow property to be declared for relief earlier than as prescribed in article 11(1)(e)(i) above, subject to such conditions and restrictions as they think fit.
+
+## PART V — ADDITIONAL RELIEF FOR PROPERTY IMPORTED ON MARRIAGE FROM ANOTHER COUNTRY[^key-b16c97598b2056f64ea0f06869e68419]
+
+### 13. Relief[^key-27b59da8b457a8263a60ba2b3f512999]
+
+(1) Subject to the provisions of this article, in addition to the relief afforded by Part IV, a person entering the United Kingdom shall not be required to pay any duty or tax chargeable in respect of property imported into the United Kingdom on condition that—
+
+- (a) he has been normally resident in another country[^key-1f09d95c09b48f103b9c0a88f87600ee] for a continuous period of at least twelve months;
+- (b) he intends to become normally resident in the United Kingdom on the occasion of his marriage; and
+- (c) the property is declared for relief within the period provided by article 15 below.
+
+(2) In this article “property” shall be limited to household effects and trousseaux, other than tobacco products and beverages containing alcohol.
+
+### 14. Wedding gifts[^key-041b50f0a19ff5845d40c23c86be2ba1]
+
+(1) Subject to the provisions of this article, a person to whom article 13(1) above applies shall not be required to pay any duty or tax chargeable in respect of any wedding gift imported into the United Kingdom by him or on his behalf on condition that such wedding gift is—
+
+- (a) given or intended to be given to him on the occasion of his marriage by a person who is normally resident in another country[^key-c5abcc737e14133cdcd0d6872bcb94a0];
+- (b) declared for relief within the period provided by article 15 below.
+
+(2) Relief shall not be afforded under this article in respect of any wedding gift the value of which exceeds £800.
+
+(3) For the purpose of affording relief from any duty or tax under this article, a wedding gift shall be treated as if it were liable to import duty, charged by provision made in accordance with or under Part 1 of the Taxation (Cross-border Trade) Act 2018[^key-a0f788ed5d4e052416a33ecd852449da] and valued in accordance with the rules applicable to such duty.
+
+(4) In this article “wedding gift” means any property customarily given on the occasion of a marriage, other than tobacco products or beverages containing alcohol.
+
+### 15. Time limit for relief[^key-4e6afddcb97e2e7e64812f953c640311]
+
+The property to which this Part applies shall be declared for relief—
+
+- (a) not earlier than two months before the date fixed for the solemnisation of the marriage; and
+- (b) not later than four months following the date of the marriage.
+
+## PART VI — PUPILS AND STUDENTS
+
+### 16. Relief for scholastic equipment[^key-2c194e955a7b0a3988e9289cc02e2400]
+
+(1) Without prejudice to relief afforded under any other Part of this Order and subject to the provisions of this article, a person entering the United Kingdom shall not be required to pay any duty or tax chargeable in respect of scholastic equipment imported into the United Kingdom on condition that—
+
+- (a) he is a pupil or student normally resident in another country[^key-bc9ff933d70bed31f8d3c563f14e428f] who has been accepted to attend a full-time course at a school, college or university in the United Kingdom; and
+- (b) such equipment belongs to him and is intended for his personal use during the period of his studies.
+
+(2) For the purposes of this article, “scholastic equipment” shall mean household effects which represent the normal furnishings for the room of a pupil or student, clothing, uniforms, and articles or instruments normally used by pupils or students for the purpose of their studies, including calculators or typewriters.
+
+(3) The provisions of article 7 above shall not apply to relief afforded under this Part.
+
+## PART VII — HONORARY DECORATIONS, AWARDS AND GOODWILL GIFTS
+
+### 17. Relief for honorary decorations and awards[^key-722979f2766715ca891cf1e79ea3bc8a]
+
+Subject to article 20 below, a person entering the United Kingdom shall not be required to pay any duty or tax chargeable on the importation into the United Kingdom of any goods on condition that—
+
+- (a) he is normally resident in the United Kingdom; and
+- (b) such goods comprise—
+  - (i) any honorary decoration which has been conferred on him by a government in another country[^key-7a8297d498d114e2bb52853405301ef7] or
+  - (ii) any cup, medal or similar article of an essentially symbolic nature which has been awarded to him in another country[^key-45577467f6cae07bb0a612e0500614aa] as a tribute to his activities in the arts, sciences, sport, or the public service, or in recognition of merit at a particular event.
+
+### 18. Relief for gifts received by official visitors in another country[^key-a87551668b283fa7244b29bf2a009631][^key-e5b761a2d96a5c94f49b9c3b7de237f4]
+
+Subject to article 20 below, a person entering the United Kingdom shall not be required to pay any duty or tax chargeable on the importation into the United Kingdom of any goods on condition that—
+
+- (a) he is normally resident in the United Kingdom;
+- (b) he is returning from an official visit to another country[^key-e858d86dc14153e6be031335c711855f];
+- (c) the goods were given to him by the host authorities of such country on the occasion of his visit; and
+- (d) the goods are not intended for a commercial purpose.
+
+### 19. Relief for gifts brought by official visitors[^key-22fddf0ab6378b41dfa2b604457b0a22]
+
+Subject to article 20 below, a person entering the United Kingdom shall not be required to pay any duty or tax chargeable on the importation into the United Kingdom of any goods on condition that—
+
+- (a) he is normally resident in another country[^key-66c710f20bb9aad4de1b9b1cff857a50];
+- (b) he is paying an official visit to the United Kingdom;
+- (c) the goods are in the nature of an occasional gift which he intends to offer to the host authorities during his visit; and
+- (d) the goods are not intended for a commercial purpose.
+
+### 20. Supplementary[^key-cfb13cb9435fff05a2af087a1f20d985]
+
+(1) Part II shall not apply to relief afforded under this Part.
+
+(2) No relief shall be afforded under this Part in respect of beverages containing alcohol, tobacco products or importations having a commercial character.
+
+## PART VIII — PERSONAL PROPERTY ACQUIRED BY INHERITANCE
+
+### 21. Relief for legacies imported from another country[^key-a989b8519693993f76f5167cc3d6c7ed][^key-9f21afb6becb867f356a433e2c419884]
+
+(1) Without prejudice to relief afforded under any other Part of this Order and subject to the provisions of this article, a person who has become entitled as a legatee to property situated in another country[^key-969c9e7231392a8a40d954e161c2eaaa] shall not be required to pay any duty or tax chargeable on the importation thereof into the United Kingdom, on condition that—
+
+- (a) he is either—
+  - (i) normally resident in the United Kingdom or the Isle of Man; or
+  - (ii) a secondary resident who is not normally resident in another country[^key-bbb93348e6e673085fbab9dcd6de1298]; or
+  - (iii) an eligible body;
+- (b) he furnishes proof to the officer of his entitlement as legatee to the property; and
+- (c) save as the Commissioners otherwise allow, the property is imported by or for such person not later than two years from the date on which his entitlement as legatee is finally determined.
+
+(2) No relief shall be afforded under paragraph (1) above in respect of goods specified in the Schedule to this Order.
+
+(3) For the purposes of this Part—
+
+- “eligible body” means a body solely concerned with carrying on a non-profit making activity and which is incorporated in the United Kingdom or the Isle of Man;
+- “secondary resident” means a person who, without being normally resident in the United Kingdom or the Isle of Man has a home situated in the United Kingdom which he owns or is renting for at least twelve months.
+
+## PART IX — REVOCATION
+
+**22.**[^key-f12024e985557f99d95c3fe2dcb20603] The following statutory instruments are revoked—
+
+- The Customs and Excise Duties (Reliefs for Goods Permanently Imported) Order 1983[^f00008];
+- The Customs and Excise Duties (Relief for Imported Legacies Order 1984)[^f00009];
+- The Customs and Excise Duties (Relief for Imported Legacies) Order 1984 (Amendment) Order 1985[^f00010];
+- The Customs and Excise Duties (Reliefs for Goods Permanently Imported) (Amendment) Order 1991[^f00011]. New King’s Beam House 22 Upper Ground London SE1 9PJ M.J. Eland 16th December 1992 Commissioner of Customs and Excise
+
+## SCHEDULE
+
+Article 21(2)
+
+**1.**[^key-a5d043c4723f00b48373d9f22df92535] Beverages containing alcohol.
+
+**2.**[^key-faf0c6d06fd2ec5b4c25b66dbd1bbd0a] Tobacco products.
+
+**3.**[^key-75e1c2dee7fa55706bd717747c8517bd] Any motor road vehicle which, by its type of construction and equipment, is designed for and capable of transporting more than nine persons including the driver, or goods, or any special purpose vehicle or mobile workshop.
+
+**4.**[^key-8ffb36808dfeee1f57f25113e415c40b] Articles, other than portable instruments of the applied or liberal arts, used in the exercise of a trade or profession before his death by the person from whom the legatee has acquired them.
+
+**5.**[^key-19c081faf5d97ab0cbb7a2dd0e0ca1cb] Stocks of new materials and finished or semi-finished products.
+
+**6.**[^key-e6426480434fca3d1b13b0340368ab46] Livestock and stocks of agricultural products exceeding the quantities appropriate to normal family requirements.
+
+(This note is not part of the Order)
+
+This Order which revokes the Customs and Excise Duties (Reliefs for Goods Permanently Imported) Order 1983 ( “the 1983 Order”) provides for relief from payment of excise duty and value added tax on personal property, except tobacco products and alcoholic beverages, which is imported permanently into the UK where the conditions imposed by the Order are complied with. Because of the introduction of the single market, the reliefs will apply only to property imported from outside the EC (customs duty is not chargeable on goods imported from other member States) and from 1st January 1993 goods received from other member States will no longer be treated as imported for value added tax purposes. Reliefs relating to excise duties for Community travellers are set out in the Excise Duties (Personal Reliefs) Order 1992[^f00012].
+
+The 1983 Order afforded relief from duty and value added tax in respect of certain goods imported by members of the visiting forces, headquarters and organisations specified in Schedule 2 to that Order. As from 1st January 1993, reliefs for visiting forces as well as foreign diplomats and members of international organisations will be found in the Customs and Excise (Personal Reliefs for Special Visitors) Order 1992[^f00013].
+
+This Order provides relief from excise duty and value added tax by giving effect to Titles I, II and VIII of Council Directive [83/181/EEC](https://www.legislation.gov.uk/european/directive/1983/0181)[^f00014] as amended by Directive [85/346/EEC](https://www.legislation.gov.uk/european/directive/1985/0346)[^f00015] Directive [88/331/EEC](https://www.legislation.gov.uk/european/directive/1988/0331)[^f00016] and Directive [89/219/EEC](https://www.legislation.gov.uk/european/directive/1989/0219)[^f00017]. Relief from customs duty is afforded by directly applicable Community provisions namely Titles I, II, III, V, XVII and XVIII of Council Regulation [(EEC) No. 918/83](https://www.legislation.gov.uk/european/regulation/1983/0918)[^f00018].
+
+Part I of the Order provides an interpretation of terms and the rules for determining where a person is normally resident.
+
+Parts II and III lay down certain of the conditions to which the reliefs are subject and the enforcement provisions.
+
+Part IV affords relief to persons transferring their normal residence from outside the EC.
+
+Part V extends the relief provided by Part IV when the transfer of residence occurs on marriage. Council Directive [83/181/EEC](https://www.legislation.gov.uk/european/directive/1983/0181) lays down the value of gifts which may be imported without payment or tax on the occasion of a marriage. Article 90 provides that the ECU rates to be taken into consideration for the purposes of the Directive shall be revalorised in national currencies each year on the first working day of October and implemented with effect from 1st January of the following year. As a result of the revalorisation of the ECU rates in October 1992, the value of wedding gifts which may be imported without payment of tax from outside the EC is increased from £700 to £800.
+
+Part VI applies to pupils and students who import scholastic materials.
+
+Part VII affords relief to certain persons importing honorary decorations, awards and goodwill gifts.
+
+Part VIII affords relief on certain legacies imported by or for persons resident in the United Kingdom or the Isle of Man and non-profit making bodies incorporated there.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 3](https://www.legislation.gov.uk/ukpga/1979/3); section 7 was substituted by the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), section 14; section 13 was amended by the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), section 15 and by the Finance (No.2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), section 1 and Schedule 1, paragraph 8; section 18 applies the definition of “the Commissioners” in section 1(1) of the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^key-cc032a70e087dc9f72f7eb5fad4389f6]: Commencement: Art. 1 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-d0ff08f2beffb2061507e7cc5c5c0245]: Commencement: Art. 2 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-78596973a6fea9ea4197e88d31c1113c]: Modification: [Art. 2](https://www.legislation.gov.uk/uksi/1992/3193/article/2) modified (1.1.2007) by [The Relief for Legacies Imported from Third Countries (Application) Order 2006 (S.I. 2006/3158)](https://www.legislation.gov.uk/uksi/2006/3158), [arts. 1](https://www.legislation.gov.uk/uksi/2006/3158/article/1), [2](https://www.legislation.gov.uk/uksi/2006/3158/article/2)
+
+[^key-037cf8af9be466132101c9a72c31e588]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3193/article/2) inserted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/91/regulation/9/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-c3e9536dcbd8652f605ab6d97318f6f7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3193/article/2) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/18/2/a) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-341f344b72be8e4156f12f82b875f47a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3193/article/2) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/18/2/b) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-b87edd3dcd36bc39b948a613b910fb34]: Commencement: Art. 3 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-72b9376f14e98a2c1d765c55300fd081]: Textual amendment: Words in [art. 3(4)](https://www.legislation.gov.uk/uksi/1992/3193/article/3/4) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/91/regulation/10); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-847e09c979a48083bb5d88511b53bdd7]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/uksi/1992/3193/article/3/5) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-692a3e59f4f90ccb1d5b5aaabdf0de27]: Commencement: Art. 4 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-e3e02ecbecff4469a7c047d4463115fe]: Textual amendment: Words in [art. 4(a)](https://www.legislation.gov.uk/uksi/1992/3193/article/4/a) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-0f74c1cfcbd9fb3f0cde6ca012cff6f1]: Textual amendment: Words in [art. 4(b)](https://www.legislation.gov.uk/uksi/1992/3193/article/4/b) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-fc7daabca8bfd45cb99e1549d5b53cc1]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/uksi/1992/3193/article/4A) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/18/3) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-6f21687e0ae8dd498202f1f88679dd79]: Commencement: Art. 5 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-8ce451c3ee75ad4184dd5cc9dc4c4956]: Commencement: Art. 6 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-2291ee8103dcfca29661a593dd007b38]: Commencement: Art. 7 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-5d0c634d178f811906d16a6108191753]: Commencement: Art. 8 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-5b685b417b27dd78acf0ebb4a5f690c3]: Textual amendment: Words in [art. 8(2)](https://www.legislation.gov.uk/uksi/1992/3193/article/8/2) omitted (31.12.2020) by virtue of [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/91/regulation/11); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-444c1d93b36436b8e12090cbd27b4a18]: Commencement: Art. 9 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-6f3705de7ec1ff170f08f109828b56f7]: Commencement: Art. 10 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-4841f4397fd36ba2a1f324afc746daee]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/1992/3193/part/IV) heading substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-370c5afcce8560b570e5368cf211a787]: Commencement: Art. 11 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-ad725563d3c9d3bd510e48fbb8afc95b]: Textual amendment: Words in [art. 11(1)(a)](https://www.legislation.gov.uk/uksi/1992/3193/article/11/1/a) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-133541ff5cd4e0cf04ade81852ab511a]: Commencement: Art. 12 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-9fc7836b2445d38628cac0b0711ba846]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/1992/3193/article/12) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-b16c97598b2056f64ea0f06869e68419]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/1992/3193/part/V) heading substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-27b59da8b457a8263a60ba2b3f512999]: Commencement: Art. 13 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-1f09d95c09b48f103b9c0a88f87600ee]: Textual amendment: Words in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/1992/3193/article/13/1/a) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-041b50f0a19ff5845d40c23c86be2ba1]: Commencement: Art. 14 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-c5abcc737e14133cdcd0d6872bcb94a0]: Textual amendment: Words in [art. 14(1)(a)](https://www.legislation.gov.uk/uksi/1992/3193/article/14/1/a) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-a0f788ed5d4e052416a33ecd852449da]: Textual amendment: Words in [art. 14(3)](https://www.legislation.gov.uk/uksi/1992/3193/article/14/3) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/91/regulation/12); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-4e6afddcb97e2e7e64812f953c640311]: Commencement: Art. 15 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-2c194e955a7b0a3988e9289cc02e2400]: Commencement: Art. 16 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-bc9ff933d70bed31f8d3c563f14e428f]: Textual amendment: Words in [art. 16(1)(a)](https://www.legislation.gov.uk/uksi/1992/3193/article/16/1/a) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-722979f2766715ca891cf1e79ea3bc8a]: Commencement: Art. 17 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-7a8297d498d114e2bb52853405301ef7]: Textual amendment: Words in [art. 17(b)(i)](https://www.legislation.gov.uk/uksi/1992/3193/article/17/b/i) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-45577467f6cae07bb0a612e0500614aa]: Textual amendment: Words in [art. 17(b)(ii)](https://www.legislation.gov.uk/uksi/1992/3193/article/17/b/ii) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-a87551668b283fa7244b29bf2a009631]: Commencement: Art. 18 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-e5b761a2d96a5c94f49b9c3b7de237f4]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/uksi/1992/3193/article/18) heading substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-e858d86dc14153e6be031335c711855f]: Textual amendment: Words in [art. 18(b)](https://www.legislation.gov.uk/uksi/1992/3193/article/18/b) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-22fddf0ab6378b41dfa2b604457b0a22]: Commencement: Art. 19 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-66c710f20bb9aad4de1b9b1cff857a50]: Textual amendment: Words in [art. 19(a)](https://www.legislation.gov.uk/uksi/1992/3193/article/19/a) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-cfb13cb9435fff05a2af087a1f20d985]: Commencement: Art. 20 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-a989b8519693993f76f5167cc3d6c7ed]: Commencement: Art. 21 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-9f21afb6becb867f356a433e2c419884]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/uksi/1992/3193/article/21) heading substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-969c9e7231392a8a40d954e161c2eaaa]: Textual amendment: Words in [art. 21(1)](https://www.legislation.gov.uk/uksi/1992/3193/article/21/1) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-bbb93348e6e673085fbab9dcd6de1298]: Textual amendment: Words in [art. 21(1)(a)(ii)](https://www.legislation.gov.uk/uksi/1992/3193/article/21/1/a/ii) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/91/regulation/13); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-f12024e985557f99d95c3fe2dcb20603]: Commencement: Art. 22 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^f00008]: Footnote: S.I. [1983/1828](https://www.legislation.gov.uk/uksi/1983/1828).
+
+[^f00009]: Footnote: S.I. [1984/895](https://www.legislation.gov.uk/uksi/1984/895).
+
+[^f00010]: Footnote: S.I. [1985/1378](https://www.legislation.gov.uk/uksi/1985/1378).
+
+[^f00011]: Footnote: S.I. [1991/1287](https://www.legislation.gov.uk/uksi/1991/1287).
+
+[^key-a5d043c4723f00b48373d9f22df92535]: Commencement: Sch. para. 1 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-faf0c6d06fd2ec5b4c25b66dbd1bbd0a]: Commencement: Sch. para. 2 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-75e1c2dee7fa55706bd717747c8517bd]: Commencement: Sch. para. 3 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-8ffb36808dfeee1f57f25113e415c40b]: Commencement: Sch. para. 4 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-19c081faf5d97ab0cbb7a2dd0e0ca1cb]: Commencement: Sch. para. 5 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^key-e6426480434fca3d1b13b0340368ab46]: Commencement: Sch. para. 6 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3193/article/1)
+
+[^f00012]: Footnote: S.I. [1992/3155](https://www.legislation.gov.uk/uksi/1992/3155).
+
+[^f00013]: Footnote: S.I. [1992/3156](https://www.legislation.gov.uk/uksi/1992/3156).
+
+[^f00014]: Footnote: OJ No. L105, 23.4.1983, p. 38.
+
+[^f00015]: Footnote: OJ No. L183, 16.07.1985, p. 21.
+
+[^f00016]: Footnote: OJ No. L151, 17.06.1988, p. 79.
+
+[^f00017]: Footnote: OJ No. L912, 05.04.1989, p. 13.
+
+[^f00018]: Footnote: OJ No. L105, 23.04.1983, p. 1, as amended by Regulation [(EEC) No. 3822/85](https://www.legislation.gov.uk/european/regulation/1985/3822) (OJ No. L370, 31.12.1985, p. 22), Regulation [(EEC) No. 3691/87](https://www.legislation.gov.uk/european/regulation/1987/3691) (OJ No. L347, 11.12.1987, p. 8), Regulation [(EEC) No. 1315/88](https://www.legislation.gov.uk/european/regulation/1988/1315) (OJ No. L123, 17.05.1988, p. 2), Regulation [(EEC) No. 4235/88](https://www.legislation.gov.uk/european/regulation/1988/4235) (OJ No. L373, 31.12.1988, p. 1) and Regulation [(EEC) No. 3357/91](https://www.legislation.gov.uk/european/regulation/1991/3357) (OJ No. L318, 20.11.1991, p. 3).

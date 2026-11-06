@@ -1,0 +1,42 @@
+---
+title: Data (Use and Access) Act 2025, section 46
+act: Data (Use and Access) Act 2025
+section: '46'
+status: not-yet-in-force
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/18/section/46
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Data (Use and Access) Act 2025, section 46
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 46. Information disclosed by the Revenue and Customs[^key-258a25aed8cd16ad086c84606dacc2a1]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) This section applies where the Revenue and Customs disclose personal information to a person under section 45 for the purpose of enabling the person to provide digital verification services for an individual.
+
+(2) The person must not further disclose the information otherwise than for the purpose of providing digital verification services for the individual, except with the consent of the Commissioners for His Majesty’s Revenue and Customs.
+
+(3) Any other person who receives the information, whether directly or indirectly from the person to whom the Revenue and Customs disclose the information, must not further disclose the information, except with the consent of the Commissioners for His Majesty’s Revenue and Customs.
+
+(4) If a person discloses information in contravention of this section, section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wrongful disclosure) applies in relation to that disclosure as it applies in relation to a disclosure of information in contravention of section 20(9) of that Act.
+
+(5) In this section—
+
+- “**personal information**” means information relating to a person whose identity—
+  - (a) is specified in the information, or
+  - (b) can be deduced from it;
+- “**the Revenue and Customs**” has the meaning given by section 17(3) of the Commissioners for Revenue and Customs Act 2005.
+
+## Annotations
+
+[^key-258a25aed8cd16ad086c84606dacc2a1]: Commencement: S. 46 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

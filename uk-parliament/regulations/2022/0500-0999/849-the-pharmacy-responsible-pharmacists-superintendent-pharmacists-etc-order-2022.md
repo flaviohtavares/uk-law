@@ -1,0 +1,729 @@
+---
+title: The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022
+id: uksi/2022/849
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-07-19'
+text_date: '2022-12-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2022/849
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/849/pdfs/uksiem_20220849_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/849/pdfs/uksi_20220849_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/849/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022
+
+> Text as at 2022-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2022 No. 849
+
+Medicines
+
+Health Care And Associated Professions
+
+The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022
+
+Made
+
+19th July 2022
+
+Coming into force in accordance with article 1
+
+At the Court at Windsor Castle, the 19th day of July 2022
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+This Order in Council is made in exercise of the powers conferred by sections 60(1)(a), (2)(aa) and (2A) and 62(4) and (4A) of, and paragraphs 1, 2, 3, 5 and 6 of Schedule 3 to, the Health Act 1999[^f00001].
+
+The Secretary of State published a draft of this Order in Council and invited representations as required by paragraph 9(1) of Schedule 3 to the Health Act 1999.
+
+The period of three months mentioned in paragraph 9(2) of that Schedule expired before a draft of this Order in Council, together with a report about the consultation, was laid before Parliament.
+
+A draft of this Order in Council has been approved by resolution of each House of Parliament in accordance with section 62(9) of the Health Act 1999.
+
+Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council, to make the following Order in Council:
+
+## PART 1 — General provisions
+
+### 1. Citation, commencement and interpretation[^key-74b47ad1c1946a796eccc882f4c562b6]
+
+(1) This Order may be cited as the Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022.
+
+(2) This Part comes into force on the twenty-eighth day after the day on which this Order is made.
+
+(3) Parts 2 and 3 come into force on such days as the Privy Council may by order appoint.
+
+(4) Different days may be appointed under paragraph (3) for different purposes.
+
+(5) In this Order, “**the 1968 Act**” means the Medicines Act 1968[^f00002].
+
+### 2. Extent[^key-23cb3a6b9202f3b4a23a821b2c6dd43b]
+
+(1) Subject to paragraph (2), this Order extends to England, Wales, Scotland and Northern Ireland.
+
+(2) The extent of the amendments made by article 10 and Schedules 1 and 2 is the same as the extent of the enactments amended.
+
+### 3. Transitional and saving provisions[^key-ba27490a297ebec9b7c1fc782a4297e9]
+
+(1) In connection with the commencement of any provision of Part 2 or 3, or the Schedules, the Privy Council may by order make such transitional or saving provisions as it considers appropriate.
+
+(2) The power to make an order under paragraph (1) may be exercised—
+
+- (a) so as to make different provision—
+  - (i) for different areas,
+  - (ii) with respect to different cases or different classes of cases, and
+  - (iii) in respect of the same case or class of case for different purposes;
+- (b) in relation to all cases to which the power extends or in relation to those cases subject to specified exceptions; and
+- (c) so as to make any supplementary, incidental or consequential provisions which the Privy Council considers necessary or expedient.
+
+### 4. Privy Council procedures and legislative procedures[^key-b9142364f71dfa39d7fae5da00b72a13]
+
+(1) Any power vested in the Privy Council to make an order under this Part may be exercised by any two or more members of the Privy Council.
+
+(2) Any power of the Privy Council to make an order under this Part is exercisable by statutory instrument, and for the purposes of section 1 of the Statutory Instruments Act 1946[^f00003] (definition of “Statutory Instrument”), any power of the Privy Council to make an order under this Part is to be taken to be conferred by an Act of Parliament.
+
+(3) An order made (wholly or partly) under article 3(1) is subject to annulment by resolution of either House of Parliament.
+
+(4) Before making an order under article 1(3) that commences an amendment of the 1968 Act as it applies in Northern Ireland or an amendment of the Pharmacy (Northern Ireland) Order 1976[^f00004], the Privy Council must obtain the agreement of the Department of Health in Northern Ireland to the making of the order.
+
+(5) Any act of the Privy Council under this Part is sufficiently signified by an instrument signed by the Clerk of the Privy Council.
+
+(6) Where an order of the Privy Council under this Part is signified by an instrument purporting to be signed by the Clerk of the Privy Council, that is evidence and in Scotland sufficient evidence of—
+
+- (a) the fact that the order was duly made; and
+- (b) the order’s terms.
+
+## PART 2 — Responsible pharmacists and superintendent pharmacists
+
+### 5. Responsible pharmacists[^key-b084d7c5b5354ba7f4670e39305db134][^key-686ef7c8a051b5276a01f52b815d737c]
+
+(1) Section 72A of the 1968 Act[^f00005] (the responsible pharmacist) is amended as follows.
+
+(2) Before subsection (1) insert the following subsection—
+
+> (A1) Nothing in this Part is to be taken as requiring there to be a responsible pharmacist in respect of premises at or from which a retail pharmacy business is carried on at a time when no medicinal products (whether they are on a general sale list or not) are being—
+>
+> - (a) offered or exposed for sale by retail or supply in circumstances corresponding to retail sale at or from the premises, or
+> - (b) assembled, prepared or dispensed at or from the premises with a view to such sale or supply.
+
+.
+
+(3) In subsection (2), for “the Ministers in regulations” substitute “the General Pharmaceutical Council in rules in relation to premises in Great Britain or the Council of the Pharmaceutical Society of Northern Ireland in regulations in relation to premises in Northern Ireland”.
+
+(4) Omit subsections (3) to (5).
+
+(5) For subsections (6) and (7) substitute the following subsections—
+
+> (6) The General Pharmaceutical Council may make further provision in rules in relation to the responsible pharmacist in respect of premises in Great Britain, and the Council of the Pharmaceutical Society of Northern Ireland may make further provision in regulations in relation to the responsible pharmacist in respect of premises in Northern Ireland.
+>
+> (6A) In making any such provision, the General Pharmaceutical Council and the Council of the Pharmaceutical Society of Northern Ireland must have regard to the principle that the burdens imposed on businesses by rules or regulations should be the minimum necessary to secure the benefits, considered in general terms, which are expected to result from the rules or regulations.
+>
+> (7) The rules and regulations mentioned in subsection (6) may (amongst other things)—
+>
+> - (a) make further provision about the matters mentioned in subsection (1);
+> - (b) make provision about the responsible pharmacist’s absence from the premises.
+>
+> (7A) If such rules or regulations make provision about the responsible pharmacist’s absence from the premises, they must also provide that the retail sale of medicinal products on a general sale list may continue at or from the premises during any period in which the responsible pharmacist is absent from the premises.
+
+.
+
+(6) Omit subsection (8).
+
+### 6. Superintendent pharmacists[^key-7a019a3f000b3a1f5c43c4224a6b9808][^key-f072b27904936e925e5866d3823b8c88]
+
+(1) In section 71 of the 1968 Act[^f00006] (business carried on by body corporate)—
+
+- (a) in subsection (1), for paragraph (a) (and the following “and”), substitute the following paragraph—
+
+  > - (a) that there is a superintendent in relation to the retail pharmacy business in respect of whom the requirements specified in subsection (6) are fulfilled, and
+
+  ;
+- (b) in subsection (6)—
+  - (i) after paragraph (a), insert the following paragraph—
+
+    > - (aa) he is a senior manager of the retail pharmacy business who has the authority to make decisions that affect the running of the retail pharmacy business so far as concerns—
+    >   - (i) the retail sale of medicinal products (whether they are on a general sale list or not), and
+    >   - (ii) the supply of such products in circumstances corresponding to retail sale,
+    >
+    >     and
+
+    ,
+  - (ii) in paragraph (b), omit “and stating whether he is a member of the board of that body or not”, and omit “, and” at the end of the paragraph, and
+  - (iii) omit paragraph (c);
+- (c) before subsection (8), insert the following subsection—
+
+  > (7A) For the purposes of subsection (6)(aa), a person is a senior manager of a retail pharmacy business if the person plays a significant role (irrespective of whether other individuals also do so) in—
+  >
+  > - (a) the making of decisions about how the whole or a substantial part of its activities are to be managed or organised, or
+  > - (b) the actual managing or organising of the whole or a substantial part of those activities.
+
+  ;
+- (d) in subsection (8)—
+  - (i) for the words from “If a person” to “ceases to do so” substitute “If a person who has been the superintendent in relation to a retail pharmacy business ceases to be the superintendent in relation to the business”, and
+  - (ii) for “manage the business” substitute “be the superintendent in relation to the business”; and
+- (e) omit subsection (9).
+
+(2) After section 72A of the 1968 Act (the responsible pharmacist) insert the following section—
+
+> **72AA. The superintendent**
+>
+> It is the duty of the superintendent in relation to a retail pharmacy business to secure that the business is at all times carried on in ways that ensure its safe and effective running so far as concerns—
+>
+> - (a) the retail sale of medicinal products (whether they are on a general sale list or not), and
+> - (b) the supply of such products in circumstances corresponding to retail sale.
+
+.
+
+(3) In section 78 of the 1968 Act[^f00007] (restrictions on use of titles, descriptions and emblems), in subsection (3)(b), omit the words from “, and that the pharmacist who” to “body corporate”.
+
+### 7. Standards of conduct, ethics and performance[^key-f7865ddee35c855981e76249cddae747][^key-ab0e7ebded7668e9b018b4ea75bcd96a]
+
+(1) In article 48 of the Pharmacy Order 2010[^f00008] (standards of conduct and performance), after paragraph (1) insert the following paragraphs—
+
+> (1A) The standards set under this article may include standards which relate only to the conduct, ethics and performance expected of registered pharmacists who are—
+>
+> - (a) responsible pharmacists for the purposes of sections 70 to 72 of the Medicines Act 1968, or
+> - (b) superintendent pharmacists.
+>
+> (1B) Where the standards set under this article include standards of the type mentioned in paragraph (1A), the standards may include a description of the professional responsibilities of responsible pharmacists or (as the case may be) superintendent pharmacists.
+
+.
+
+(2) In paragraph 1 of Schedule 3 to the Pharmacy (Northern Ireland) Order 1976[^f00009] (standards of conduct and performance), after sub-paragraph (1) insert the following sub-paragraphs—
+
+> (1A) The standards set under this paragraph may include standards which relate only to the conduct, ethics and performance expected of registered persons who are—
+>
+> - (a) responsible pharmacists for the purposes of sections 70 to 72 of the Medicines Act 1968, or
+> - (b) superintendent pharmacists for the purposes of section 71 of that Act.
+>
+> (1B) Where the standards set under this paragraph include standards of the type mentioned in sub-paragraph (1A), the standards may include a description of the professional responsibilities of responsible pharmacists or (as the case may be) superintendent pharmacists.
+
+.
+
+### 8. The Medicines (Pharmacies) (Responsible Pharmacist) Regulations 2008[^key-987452029d33df54960a9cd10790b280][^key-703361cdfad8a860ceb914e6f87e6d48]
+
+(1) The Medicines (Pharmacies) (Responsible Pharmacist) Regulations 2008[^f00010] (“**the 2008 Regulations**”) are revoked.
+
+(2) Despite the revocation of the 2008 Regulations by paragraph (1) and the amendments made to sections 72A, 84 and 108 of the 1968 Act by this Order—
+
+- (a) in Great Britain—
+  - (i) the 2008 Regulations continue to have effect (as if they had not been revoked) until the first rules made by the General Pharmaceutical Council under section 72A of the 1968 Act come into force, and
+  - (ii) sections 72A(3) to (5) and 84(A1) of the 1968 Act continue to have effect (as if they had not been repealed) until that time; and
+- (b) in Northern Ireland—
+  - (i) the 2008 Regulations continue to have effect (as if they had not been revoked) until the first regulations made by the Council of the Pharmaceutical Society of Northern Ireland under section 72A of the 1968 Act come into operation, and
+  - (ii) sections 72A(3) to (5) and 84(A1) of the 1968 Act continue to have effect (as if they had not been repealed) until that time.
+
+(3) Until the first rules made by the General Pharmaceutical Council under section 72A of the 1968 Act come into force, section 108(6B) to (6D) and (10) of the 1968 Act (as amended by Schedule 1) are to be read as if the references in those provisions to rules were references to regulations.
+
+### 9. Amendments consequential on articles 5 and 6[^key-3dae9ac2d90fd263fd75ecfd63de9441][^key-de9962fc21c7229249b02805915f3b4e]
+
+Schedule 1 makes amendments that are consequential on articles 5 and 6.
+
+## PART 3 — Minor amendments
+
+### 10. Pharmaceutical Society of Northern Ireland: deputy registrar[^key-973a97d6c7ec3543bd20beaf135b52ff][^key-98bc56288f3334d6f50c49ea8958c846]
+
+In Article 9 of the Pharmacy (Northern Ireland) Order 1976[^f00011] (the registrar), after paragraph (5) insert the following paragraphs—
+
+> (6) The Department may appoint a fit and proper person as a deputy registrar for the purposes of this Order.
+>
+> (7) The registrar may authorise the deputy registrar to act for the registrar in any matter.
+
+.
+
+### 11. Carrying on of retail pharmacy business from premises[^key-beeadc7d5efce7e193349720c3af75ac][^key-115069380c0171183ce59585a3e2611a]
+
+Schedule 2 makes minor amendments to Part 4 of the 1968 Act (pharmacies), and to sections 10 (exemptions for pharmacists) and 124 (offences by bodies corporate) of that Act, relating to the carrying on of a retail pharmacy business from (as well as at or on) premises.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+SCHEDULES
+
+## SCHEDULE 1 — AMENDMENTS CONSEQUENTIAL ON ARTICLES 5 AND 6
+
+Article 9
+
+### 1. Medicines Act 1968[^key-3afa666af2c93cd0d41a0af98129dd76][^key-c78048aa3808b11ef8678bea4b252157]
+
+The 1968 Act is amended in accordance with paragraphs 2 to 8.
+
+**2.**[^key-0620fd9f8fa7c64a7b4ac00b344137c5][^key-ebf7dd56ff4f482d04918c9f78bb2f82] For the title to section 72B[^f00012] substitute “Sections 72A and 72AA: supplementary”.
+
+**3.**[^key-3b3e812dabbd50bb0e5ad3eb40de0f2e][^key-eeff862dc1e5b17c8c3f665b974e0717] In section 72B—
+
+- (a) in subsection (1), for the words from “section 72A” to “under that section,” substitute “section 72A or 72AA of this Act, or of rules or regulations made under section 72A,”;
+- (b) omit subsection (2); and
+- (c) in subsection (3)—
+  - (i) in paragraph (a), before “regulations made” insert “rules or”, and
+  - (ii) in paragraph (b), before “regulations made” insert “rules or”, and for “subsection (7)(b)” substitute “subsection (7)”.
+
+**4.**[^key-22752da8409d41a390fb96834647c772][^key-964fed4a3b653b5aff563a2966170407] In section 84[^f00013] (offences under Part 4), omit subsection (A1).
+
+**5.**[^key-964f1519808b9749da39f52fbf208972][^key-ef3b77870f303629914e52c7a18a2768] In section 84A[^f00014] (rules by the General Pharmaceutical Council)—
+
+- (a) in subsection (2), for “Part 4 of this Act” substitute “any provision of Part 4 of this Act other than section 72A”; and
+- (b) after subsection (2), insert the following subsections—
+
+  > (3) The power of the General Pharmaceutical Council to make rules under section 72A may be exercised so as to make different provision for different areas or in relation to different cases or different circumstances to which the power is applicable, and to make any such provision subject to such exceptions, limitations and conditions (if any) as the General Pharmaceutical Council considers necessary or expedient.
+  >
+  > (4) Before making rules under section 72A, the General Pharmaceutical Council must publish draft rules and invite representations to be made to it about the draft by—
+  >
+  > - (a) the Secretary of State, the Scottish Ministers and the Welsh Ministers, and
+  > - (b) any other persons appearing to it appropriate to consult about the draft.
+  >
+  > (5) No rules made under section 72A by the General Pharmaceutical Council are to come into force until approved by order of the Privy Council.
+  >
+  > (6) The power vested in the Privy Council to make an order under subsection (5) may be exercised by any two or more members of the Privy Council.
+  >
+  > (7) The making of an order under subsection (5) is sufficiently signified by an instrument signed by the Clerk of the Privy Council.
+  >
+  > (8) Where an order under subsection (5) is signified by an instrument purporting to be signed by the Clerk of the Privy Council, that is evidence and in Scotland sufficient evidence of—
+  >
+  > - (a) the fact that the order was duly made, and
+  > - (b) the order’s terms.
+
+  .
+
+**6.**[^key-929014c166425c9024b243b09594eee5][^key-d95e3045963f9c7c46def055dbe17f97] In section 108[^f00015] (enforcement in England and Wales)—
+
+- (a) omit subsection (6A);
+- (b) in subsection (6B), for “the other provisions of section 72A of this Act, and any regulations made under them,” substitute “the provisions of sections 72A and 72AA of this Act, and any rules made under section 72A,”;
+- (c) in subsection (6C), for “those other provisions, or any regulations made under them,”, substitute “those provisions, or any rules made under section 72A,”;
+- (d) in subsection (6D)—
+  - (i) in paragraph (a), for “those other provisions, or any regulations made under them,” substitute “those provisions, or any rules made under section 72A,”, and
+  - (ii) in paragraph (b), for “those other provisions or those regulations” substitute “those provisions or those rules”; and
+- (e) in subsection (10), for the words from “subsections (6A) or (6B)” to the end of that subsection substitute “subsection (6B) to enforce any provisions or rules mentioned in that subsection, and that the public interest requires that the provisions or rules in question should be enforced in relation to it, the appropriate Minister may enforce those provisions or rules in relation to that matter.”.
+
+**7.**[^key-416ae121a8b7c4ab7515bd27130e5873][^key-bc023ccebeb61151ae26862947f8373e] In section 110[^f00016] (enforcement in Northern Ireland)—
+
+- (a) omit subsection (3A);
+- (b) in subsection (3B), for “the other provisions of section 72A of this Act, and any regulations made under them,” substitute “the provisions of sections 72A and 72AA of this Act, and any regulations made under section 72A,”;
+- (c) in subsection (3C), for “those other provisions, or any regulations made under them,”, substitute “those provisions, or any regulations made under section 72A,”; and
+- (d) in subsection (3D)—
+  - (i) in paragraph (a), for “those other provisions, or any regulations made under them,” substitute “those provisions, or any regulations made under section 72A,”, and
+  - (ii) in paragraph (b), omit “other”.
+
+**8.**[^key-43fa500d6f05d6850664911694b5bce5][^key-ae4136175a2d787a0900b5d6a8d30fe9] In section 129[^f00017] (orders and regulations)—
+
+- (a) in subsection (2), before “paragraph 1” insert “section 72A of this Act or”; and
+- (b) in subsection (3)(a), after “79” insert “, 84A(5)”.
+
+### 9. Pharmacy (Northern Ireland) Order 1976[^key-de8bc0c15f31e16ec8daf5f2554efe13][^key-10ae44de7804520f4a8a94b26900ff20]
+
+In Article 25A of the Pharmacy (Northern Ireland) Order 1976[^f00018] (regulations: procedure), at the end insert—
+
+> (3) Before making regulations under section 72A of the Medicines Act 1968 the Council must publish draft regulations and invite representations to be made to it about the draft by—
+>
+> - (a) the Department; and
+> - (b) any other persons appearing to it appropriate to consult about the draft.
+
+.
+
+### 10. Health Act 2006[^key-dece09505254397f099969ac2c1de2fe][^key-78658393f7652f2ec2eccad797dee1bd]
+
+In the Health Act 2006[^f00019], omit section 30(3) (the responsible pharmacist).
+
+### 11. Pharmacy Order 2010[^key-9e999a5b68b9d1a3bd15ef745ad42a52][^key-3b0e9e3f45c4093710db83d7a2f4da78]
+
+Paragraph 66 of Schedule 4 to the Pharmacy Order 2010[^f00020] (amendments, repeals and revocations – amendment of the Medicines (Pharmacies) (Responsible Pharmacist) Regulations 2008) is revoked.
+
+## SCHEDULE 2 — AMENDMENTS RELATING TO CARRYING ON OF RETAIL PHARMACY BUSINESS FROM PREMISES
+
+Article 11
+
+**1.**[^key-de95d05d62d93739b75ed54ee3256b38][^key-218bbd1380df7608c23d15c22d6cadce] The 1968 Act is amended in accordance with paragraphs 2 to 21.
+
+**2.**[^key-724d75fcbeced48e93ee4619362d4b14][^key-9373a055c55b7f15a78cf2d64a3e3b90] In section 10[^f00021] (exemptions for pharmacists)—
+
+- (a) in subsection (1)(b)(i), after “at”, in each place, insert “or from”;
+- (b) in subsection (4)(b), after “at”, in both places, insert “or from”;
+- (c) in subsection (5)(b), after “at”, in the first place it occurs, insert “or from”; and
+- (d) in subsection (6), after “at” insert “or from”.
+
+**3.**[^key-53323f4b872b946a24952aa15f81c052][^key-376340def96220776f5cfe2de6661ccb] In section 70[^f00022] (business carried on by individual pharmacist or by partners)—
+
+- (a) in subsection (1), for “where” substitute “at or from which”;
+- (b) in subsection (2)—
+  - (i) for “the business at” substitute “the business carried on at or from”,
+  - (ii) in paragraph (a), after “retail sale at” insert “or from”, and
+  - (iii) in paragraph (b), after “supply at” insert “or from”; and
+- (c) in subsection (3)(c), for “the business at” substitute “the business carried on at or from”.
+
+**4.**[^key-d579d8f248dc2049accf0fe10cd6bc4d][^key-96618689bb3f3291e9bb95a049ef9e7b] In section 71[^f00023] (business carried on by body corporate)—
+
+- (a) in subsection (1)(b), for “where” substitute “at or from which”;
+- (b) in subsection (2)—
+  - (i) for “the business at” substitute “the business carried on at or from”,
+  - (ii) in paragraph (a), after “retail sale at” insert “or from”, and
+  - (iii) in paragraph (b), after “supply at” insert “or from”; and
+- (c) in subsection (3)(c), for “the business at” substitute “the business carried on at or from”.
+
+**5.**[^key-3ac8c71a9a2f4c516a650d60f55d8953][^key-fe6b16b49b706bc53e923fb1f542964a] In section 72[^f00024] (representative of pharmacist in case of death or disability)—
+
+- (a) in subsection (2)(b), after “premises at” insert “or from”;
+- (b) in subsection (2A)—
+  - (i) for “the business at” substitute “the business carried on at or from”,
+  - (ii) in paragraph (a), after “retail sale at” insert “or from”, and
+  - (iii) in paragraph (b), after “supply at” insert “or from”; and
+- (c) in subsection (2B)(c), for “the business at” substitute “the business carried on at or from”.
+
+**6.**[^key-b573e62208aca3f620b15414f3491046][^key-3a0aeea4bb1d6668115e3d5a02fecd4e] In section 72A[^f00025] (the responsible pharmacist), in subsection (1)—
+
+- (a) for “business at” substitute “business carried on at or from”;
+- (b) in paragraph (a), after “retail sale at” insert “or from”; and
+- (c) in paragraph (b), after “supply at” insert “or from”.
+
+**7.**[^key-563d6157b05f447eb3480848ac367112][^key-c98b359dd35e4cb560b0233f6135c4a5] In section 72B[^f00026] (supplementary), in subsection (4), for “the business at” substitute “the business carried on at or from”.
+
+**8.**[^key-313ce683b712886a0d1fa33ef4bcd508][^key-87c8619fabcb182a8ccf97596f28c0c5] In section 74B[^f00027] (conditions for registration: Great Britain)—
+
+- (a) in subsection (4)—
+  - (i) in paragraph (a)(ii), after “business at” insert “or from”, and
+  - (ii) in paragraph (b), after “business at” insert “or from”; and
+- (b) in subsection (5)—
+  - (i) in paragraph (a), after “business at” insert “or from”, and
+  - (ii) in paragraph (b)(i) and (ii), after “business at” insert “or from”.
+
+**9.**[^key-04bb99af4a83ed760e616528d7ff303b][^key-33ade077a8b7cb95c243416d388c45b6] In section 74C[^f00028] (supplementary provision in respect of registration of premises: Great Britain), in subsection (3)—
+
+- (a) after “previously carried on at” insert “or from”; and
+- (b) in paragraph (b), after “business at” insert “or from”.
+
+**10.**[^key-27d4e1c88beb23d2177721c56d1863cc][^key-bc1d417f8e2f9eae9af16bd2ae1c6418] In section 74D[^f00029] (conditional registration: Great Britain)—
+
+- (a) in subsection (1), for “at” substitute “in the course of the business carried on at or from”;
+- (b) in subsection (3), after “business at” insert “or from”; and
+- (c) in subsection (5), after “business at” insert “or from”.
+
+**11.**[^key-77d061875894811a2578a3ab3f4cd8f0][^key-4c8188b455c2b0cf53b5e9248720e2ea] In section 74E[^f00030] (supplementary provision in respect of conditional registration: Great Britain)—
+
+- (a) in subsection (1), after “business at” insert “or from”; and
+- (b) in subsection (5), after “business at” insert “or from”.
+
+**12.**[^key-46e9592bc43dd0ed622416c72242ddb0][^key-1d77f289ae70ed5188d12898b0968554] In section 74F[^f00031] (giving of notice by registrar: Great Britain), in subsection (6), for “the premises, or at” substitute “or from the premises, or at or from”.
+
+**13.**[^key-aa8a649210a364749b2ff3ac7238dadb][^key-4a91286c45dc9461671d44422ae19c1f] In section 74G[^f00032] (voluntary removal from the register: Great Britain), in subsection (1), after “business at” insert “or from”.
+
+**14.**[^key-e8ec5c24454ed38e54086a3c644f6e80][^key-2092b082187e22ec317ff61e86867877] In section 74H[^f00033] (change of ownership of retail pharmacy business: Great Britain)—
+
+- (a) in subsections (1) and (3)—
+  - (i) after “carried on at” insert “or from”, and
+  - (ii) after “business at” insert “or from”;
+- (b) in subsection (6)(c), after “business at” insert “or from”; and
+- (c) in subsection (9), after “business at” insert “or from”.
+
+**15.**[^key-7c5ffdf4bf199038ef259a203a486b4a][^key-5c5a2fabdf61819122f1deb92b6998ac] In section 74I[^f00034] (supplementary provision in respect of change of ownership of retail pharmacy business: Great Britain), in subsection (2)(b), after “business at” insert “or from”.
+
+**16.**[^key-1c9a6bf8c1bb8793f5098f8528b3ca6b][^key-f0e3ba9de86718f0637f0920694940fa] In section 74J[^f00035] (temporary registration with regard to emergencies involving loss of human life or human illness etc.)—
+
+- (a) in subsection (4), for “at” substitute “in the course of the business carried on at or from”; and
+- (b) in subsection (8), after “business at” insert “or from”.
+
+**17.**[^key-6a6ef88056729f85e48b38f3e7b54efd][^key-c2886e19914b9f63691f5c38dc8f0bb1] In section 75[^f00036] (registration of premises: Northern Ireland), in subsection (7)(b), after “business at” insert “or from”.
+
+**18.**[^key-8456c5b41d8ad2ae9d4fee3473de24a6][^key-75c9cb165606bd8332001d5fb51f0fc3] In section 76[^f00037] (supplementary provisions as to registration of premises: Northern Ireland)—
+
+- (a) in subsections (1) and (2), after “business at” insert “or from”;
+- (b) in subsection (3), after “carried on at” insert “or from”; and
+- (c) in subsection (5)(b), after “business at” insert “or from”.
+
+**19.**[^key-2f326899af717b8dd8f1987fe6252b5e][^key-6d7d7dfe0e63f79f0e57fee9e13ca0d0] In section 77[^f00038] (annual return of premises to registrar)—
+
+- (a) after “business at” insert “or from”; and
+- (b) in paragraph (a), after “premises at” insert “or from”.
+
+**20.**[^key-455a98fa631b5f7c13cb648a3af3c80f][^key-917c53c05cee9d2cf0eda959afe19662] In section 78[^f00039] (restrictions on use of titles, descriptions and emblems)—
+
+- (a) in subsection (3)(a) and (b), after “premises at” insert “or from”;
+- (b) in subsection (5)(b), after “other person) at” insert “or from”;
+- (c) in subsection (5A), after “other person) at” insert “or from”; and
+- (d) in subsection (7)—
+  - (i) after “a business carried on at” insert “or from”, and
+  - (ii) for “the business at” substitute “the business carried on at or from”.
+
+**21.**[^key-c06a6899e0bac982decf7e477e12b80d][^key-9e58e7b89d8e50e77725ffcd88cf921a] In section 124[^f00040] (offences by bodies corporate), in subsection (2)(b), for “at any premises where” substitute “in respect of any premises at or from which”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order principally makes provision relating to the position and responsibilities of a superintendent of a body corporate that is carrying on a retail pharmacy business, and in relation to the responsibilities of the responsible pharmacist who is in day to day charge of particular retail pharmacy premises.
+
+Part 1 contains general provisions, including powers to make commencement and transitional provisions orders and the procedural requirements relating to them.
+
+Part 2 contains amendments to the Medicines Act 1968 (“**the 1968 Act**”) relating to responsible pharmacists and superintendent pharmacists.
+
+It is a requirement of section 72A of the 1968 Act, in terms, that whenever retail pharmacy premises are open for business, there must be a responsible pharmacist in respect of the premises. An amendment is made to section 72A to clarify when premises are to be considered open for business for these purposes. The responsibility of responsible pharmacists to establish, maintain and keep under review operating procedures is removed, as is their duty to make certain records. At the same time, the duty of pharmacy owners to ensure that those records are properly maintained, and are kept for a prescribed period, are also removed – as are the provisions making breaches of the record keeping requirements offences (article 5(1) to (4) and paragraphs 3 and 4 of Schedule 1).
+
+The powers of the responsible Ministers under section 72A of the 1968 Act to make regulations in respect of responsible pharmacists are replaced by powers of the General Pharmaceutical Council (GPhC) as regards Great Britain and the Council of the Pharmaceutical Society of Northern Ireland (PSNI) as regards Northern Ireland to make rules or regulations under that section. These powers are qualified by a new duty to have regard to the principle that the burdens imposed on businesses by rules or regulations are the minimum necessary to secure the benefits expected to result from them – and by new consultation obligations. The existing Regulations are revoked but transitionally saved, pending the first rules by the GPhC as respects Great Britain and the first regulations of the Council of the PSNI as respects Northern Ireland (article 5(5) and (6) and 8 and paragraphs 5 and 9 of Schedule 1).
+
+By virtue of section 71 of the 1968 Act, in order to carry on a retail pharmacy business, a body corporate must have a superintendent. A new requirement is introduced which means that the superintendent has to be a senior manager who has authority to take decisions about certain matters relating to retail sale of medicinal products and the supply of medicinal products in circumstances corresponding to retail sale. A restriction preventing superintendents from being the superintendent of more than one pharmacy business is removed, as is the requirement for businesses proposing to use the title of “chemist”, or related expressions, to have a superintendent as a member of their board (article 6(1) and (3)).
+
+A new duty for superintendents is set out in section 72AA of the 1968 Act which relates to securing the safe and effective running of the pharmacy business so far as concerns the retail sale of medicinal products and the supply of medicinal products in circumstances corresponding to retail sale (article 6(2)). The GPhC and the Council of the PSNI are also given additional powers to include a description of the professional responsibilities of superintendents and responsible pharmacists as part of the standards they set in their codes of practice relating to conduct and performance (article 7).
+
+There are also some further consequential amendments to the Medicines Act 1968, the Health Act 2006 and the Pharmacy Order 2010 (paragraphs 6 to 8, 10 and 11 of Schedule 1). These include changes to the enforcement arrangements to take account of both the new duty for superintendent pharmacists and the new arrangements for subordinate legislation in respect of responsible pharmacists.
+
+There are also some minor changes clarifying that medicines may be supplied from as well as at pharmacy premises, and that retail pharmacy businesses may be carried on from as well as at pharmacy premises (Schedule 2). It is also made clear that the PSNI may appoint a deputy registrar who may be authorised to act for the registrar in any matter (article 10).
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60 has been amended by: the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17) (“**the 2002 Act**”), section 26(9); the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) (“**the 2008 Act**”), Schedule 8, paragraph 1, Schedule 10, paragraph 10, and Schedule 15, Part 2; the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), sections 209, 210 and 213(7)(i), and Schedule 15, paragraphs 60 and 72; the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16) (“**the 2017 Act**”), section 61, and Schedule 5, paragraph 47(h); and [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and 254, 2010/231 and 2012/1916. Section 62 has been amended by: the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), section 48; the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43) (“**the 2003 Act**”), Schedule 14, Part 2; the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 4; and the 2008 Act, Schedule 8, paragraph 2, and Schedule 10, paragraph 11. Schedule 3 has been amended by: the 2002 Act, sections 26(10) and 35; the 2003 Act, Schedule 11, paragraph 67, and Schedule 14, Part 4; the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 33 and Schedule 9; the 2008 Act, Schedule 8, paragraphs 3 to 10, and Schedule 15, Part 2; the 2012 Act, section 211 and Schedule 15, paragraphs 61 and 72(4); the 2017 Act, section 61(1) and (4); and [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and 254. *See* the definition of “the relevant regulatory body” in section 60(2B) of the Health Act 1999, inserted by the 2008 Act, Schedule 8, paragraph 1, which is relevant to the powers being exercised.
+
+[^key-74b47ad1c1946a796eccc882f4c562b6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2022/849/article/1) in force at 16.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/849/article/1/2)
+
+[^f00002]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^key-23cb3a6b9202f3b4a23a821b2c6dd43b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2022/849/article/2) in force at 16.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/849/article/1/2)
+
+[^key-ba27490a297ebec9b7c1fc782a4297e9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2022/849/article/3) in force at 16.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/849/article/1/2)
+
+[^key-b9142364f71dfa39d7fae5da00b72a13]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2022/849/article/4) in force at 16.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/849/article/1/2)
+
+[^f00003]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36). Section 1 was amended by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), Schedule 12, paragraph 2, and the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 10, paragraphs 1 and 2.
+
+[^f00004]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213).
+
+[^key-b084d7c5b5354ba7f4670e39305db134]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-686ef7c8a051b5276a01f52b815d737c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2022/849/article/5) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00005]: Footnote: Section 72A was inserted by the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 30(1), and amended by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
+
+[^key-7a019a3f000b3a1f5c43c4224a6b9808]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-f072b27904936e925e5866d3823b8c88]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2022/849/article/6) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00006]: Footnote: Section 71 was substituted by the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 28, and then amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231), [2011/2647](https://www.legislation.gov.uk/uksi/2011/2647) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
+
+[^f00007]: Footnote: Section 78 was amended by the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), Schedule 1(12), paragraph 1, the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 27, and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
+
+[^key-f7865ddee35c855981e76249cddae747]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-ab0e7ebded7668e9b018b4ea75bcd96a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/849/article/7) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00008]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^f00009]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213). Schedule 3 was substituted by the Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 ([S.R. 2012/308](https://www.legislation.gov.uk/nisr/2012/308)) and has been amended by the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), Schedule 19, paragraph 17, and by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806).
+
+[^key-987452029d33df54960a9cd10790b280]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-703361cdfad8a860ceb914e6f87e6d48]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/849/article/8) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00010]: Footnote: [S.I. 2008/2789](https://www.legislation.gov.uk/uksi/2008/2789); amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-3dae9ac2d90fd263fd75ecfd63de9441]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-de9962fc21c7229249b02805915f3b4e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2022/849/article/9) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^key-973a97d6c7ec3543bd20beaf135b52ff]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-98bc56288f3334d6f50c49ea8958c846]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2022/849/article/10) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00011]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213), as amended by [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
+
+[^key-beeadc7d5efce7e193349720c3af75ac]: Commencement: Art. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-115069380c0171183ce59585a3e2611a]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2022/849/article/11) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^key-3afa666af2c93cd0d41a0af98129dd76]: Commencement: Sch. 1 para. 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-c78048aa3808b11ef8678bea4b252157]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/1) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^key-0620fd9f8fa7c64a7b4ac00b344137c5]: Commencement: Sch. 1 para. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-ebf7dd56ff4f482d04918c9f78bb2f82]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/2) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00012]: Footnote: Section 72B was inserted by the Health Act 2006, section 30(1), and then amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-3b3e812dabbd50bb0e5ad3eb40de0f2e]: Commencement: Sch. 1 para. 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-eeff862dc1e5b17c8c3f665b974e0717]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/3) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^key-22752da8409d41a390fb96834647c772]: Commencement: Sch. 1 para. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-964fed4a3b653b5aff563a2966170407]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/4) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00013]: Footnote: Subsection (A1) was inserted into section 84 by the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 30(3).
+
+[^key-964f1519808b9749da39f52fbf208972]: Commencement: Sch. 1 para. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-ef3b77870f303629914e52c7a18a2768]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/5) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00014]: Footnote: Section 84A was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-929014c166425c9024b243b09594eee5]: Commencement: Sch. 1 para. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-d95e3045963f9c7c46def055dbe17f97]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/6) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00015]: Footnote: Section 108 was amended by the Food Safety Act [1990 (c. 16)](https://www.legislation.gov.uk/ukpga/1990/16), Schedule 3, paragraph 8, and the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 31(1), and by [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699), [2006/2407](https://www.legislation.gov.uk/uksi/2006/2407), [2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^key-416ae121a8b7c4ab7515bd27130e5873]: Commencement: Sch. 1 para. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-bc023ccebeb61151ae26862947f8373e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/7) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00016]: Footnote: Section 110 was amended by the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 31(3), by S.R. (N.I.) [1973/211](https://www.legislation.gov.uk/nisro/1973/211), and by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407) and [2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^key-43fa500d6f05d6850664911694b5bce5]: Commencement: Sch. 1 para. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-ae4136175a2d787a0900b5d6a8d30fe9]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/8) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00017]: Footnote: Section 129 was amended by the the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), Schedule 3, paragraph 15, the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 32, and by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407) and [2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^key-de8bc0c15f31e16ec8daf5f2554efe13]: Commencement: Sch. 1 para. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-10ae44de7804520f4a8a94b26900ff20]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/9) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00018]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213), as amended by [S.R. 2012/308](https://www.legislation.gov.uk/nisr/2012/308).
+
+[^key-dece09505254397f099969ac2c1de2fe]: Commencement: Sch. 1 para. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-78658393f7652f2ec2eccad797dee1bd]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/10) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00019]: Footnote: [2006 c. 28](https://www.legislation.gov.uk/ukpga/2006/28).
+
+[^key-9e999a5b68b9d1a3bd15ef745ad42a52]: Commencement: Sch. 1 para. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-3b0e9e3f45c4093710db83d7a2f4da78]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/11) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00020]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-de95d05d62d93739b75ed54ee3256b38]: Commencement: Sch. 2 para. 1 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-218bbd1380df7608c23d15c22d6cadce]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/1) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^key-724d75fcbeced48e93ee4619362d4b14]: Commencement: Sch. 2 para. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-9373a055c55b7f15a78cf2d64a3e3b90]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/2) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00021]: Footnote: Section 10 was amended by the Regulation of Care (Scotland) Act [2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), Schedule 3, paragraph 5, the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 26, and [S.I. 1971/1445](https://www.legislation.gov.uk/uksi/1971/1445), [1994/2987](https://www.legislation.gov.uk/uksi/1994/2987), [2006/2407](https://www.legislation.gov.uk/uksi/2006/2407), [2011/2581](https://www.legislation.gov.uk/uksi/2011/2581) and [2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^key-53323f4b872b946a24952aa15f81c052]: Commencement: Sch. 2 para. 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-376340def96220776f5cfe2de6661ccb]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/3) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00022]: Footnote: Section 70 was amended by the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 27(1), and by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [2011/2647](https://www.legislation.gov.uk/uksi/2011/2647).
+
+[^key-d579d8f248dc2049accf0fe10cd6bc4d]: Commencement: Sch. 2 para. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-96618689bb3f3291e9bb95a049ef9e7b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/4) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00023]: Footnote: Section 71 was substituted by the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 28, and then amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231), [2011/2647](https://www.legislation.gov.uk/uksi/2011/2647) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
+
+[^key-3ac8c71a9a2f4c516a650d60f55d8953]: Commencement: Sch. 2 para. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-fe6b16b49b706bc53e923fb1f542964a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/5) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00024]: Footnote: Section 72 was amended by: the Insolvency Act [1985 (c. 65)](https://www.legislation.gov.uk/ukpga/1985/65), Schedule 8, paragraph 15, and Schedule 9, paragraph 11(2); the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45), Schedule 14; the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), Schedule 5, paragraph 12, and Schedule 6, paragraph 1; the Mental Capacity Act [2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), Schedule 6, paragraph 14; the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 29; and [S.I. 2007/289](https://www.legislation.gov.uk/uksi/2007/289), [2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^key-b573e62208aca3f620b15414f3491046]: Commencement: Sch. 2 para. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-3a0aeea4bb1d6668115e3d5a02fecd4e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/6) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00025]: Footnote: Section 72A was inserted by the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 30(1), and then amended by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
+
+[^key-563d6157b05f447eb3480848ac367112]: Commencement: Sch. 2 para. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-c98b359dd35e4cb560b0233f6135c4a5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/7) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00026]: Footnote: Section 72B was inserted by the Health Act 2006, section 30(1), and then amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-313ce683b712886a0d1fa33ef4bcd508]: Commencement: Sch. 2 para. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-87c8619fabcb182a8ccf97596f28c0c5]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/8) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00027]: Footnote: Section 74B was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and then amended by [S.I. 2016/372](https://www.legislation.gov.uk/uksi/2016/372).
+
+[^key-04bb99af4a83ed760e616528d7ff303b]: Commencement: Sch. 2 para. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-33ade077a8b7cb95c243416d388c45b6]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/9) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00028]: Footnote: Section 74C was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-27d4e1c88beb23d2177721c56d1863cc]: Commencement: Sch. 2 para. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-bc1d417f8e2f9eae9af16bd2ae1c6418]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/10) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00029]: Footnote: Section 74D was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-77d061875894811a2578a3ab3f4cd8f0]: Commencement: Sch. 2 para. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-4c8188b455c2b0cf53b5e9248720e2ea]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/11) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00030]: Footnote: Section 74E was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-46e9592bc43dd0ed622416c72242ddb0]: Commencement: Sch. 2 para. 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-1d77f289ae70ed5188d12898b0968554]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/12) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00031]: Footnote: Section 74F was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-aa8a649210a364749b2ff3ac7238dadb]: Commencement: Sch. 2 para. 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-4a91286c45dc9461671d44422ae19c1f]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/13) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00032]: Footnote: Section 74G was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-e8ec5c24454ed38e54086a3c644f6e80]: Commencement: Sch. 2 para. 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-2092b082187e22ec317ff61e86867877]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/14) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00033]: Footnote: Section 74H was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and then amended by [S.I. 2016/372](https://www.legislation.gov.uk/uksi/2016/372).
+
+[^key-7c5ffdf4bf199038ef259a203a486b4a]: Commencement: Sch. 2 para. 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-5c5a2fabdf61819122f1deb92b6998ac]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/15) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00034]: Footnote: Section 74I was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-1c9a6bf8c1bb8793f5098f8528b3ca6b]: Commencement: Sch. 2 para. 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-f0e3ba9de86718f0637f0920694940fa]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/16) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00035]: Footnote: Section 74J was inserted by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-6a6ef88056729f85e48b38f3e7b54efd]: Commencement: Sch. 2 para. 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-c2886e19914b9f63691f5c38dc8f0bb1]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/17) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00036]: Footnote: Section 75 was amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [2016/372](https://www.legislation.gov.uk/uksi/2016/372).
+
+[^key-8456c5b41d8ad2ae9d4fee3473de24a6]: Commencement: Sch. 2 para. 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-75c9cb165606bd8332001d5fb51f0fc3]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/18) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00037]: Footnote: Section 76 was amended by the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), Schedule 1(12), paragraph 1, and [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407) and [2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-2f326899af717b8dd8f1987fe6252b5e]: Commencement: Sch. 2 para. 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-6d7d7dfe0e63f79f0e57fee9e13ca0d0]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/19) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00038]: Footnote: Section 77 was amended by the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), Schedule 9, paragraph 1, and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-455a98fa631b5f7c13cb648a3af3c80f]: Commencement: Sch. 2 para. 20 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-917c53c05cee9d2cf0eda959afe19662]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/20) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00039]: Footnote: Section 78 was amended by the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), Schedule 1(12), paragraph 1, the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 27, and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
+
+[^key-c06a6899e0bac982decf7e477e12b80d]: Commencement: Sch. 2 para. 21 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3)
+
+[^key-9e58e7b89d8e50e77725ffcd88cf921a]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/21) in force at 1.12.2022 by [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+
+[^f00040]: Footnote: Section 124 was amended by the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 28(2).

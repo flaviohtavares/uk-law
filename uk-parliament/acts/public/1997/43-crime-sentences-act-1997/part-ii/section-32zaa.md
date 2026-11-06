@@ -1,0 +1,46 @@
+---
+title: Crime (Sentences) Act 1997, section 32ZAA
+act: Crime (Sentences) Act 1997
+section: 32ZAA
+status: revised-with-pending-changes
+text_date: '2026-06-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1997/43/section/32ZAA
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crime (Sentences) Act 1997, section 32ZAA
+
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/43
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 32ZAA. Referral of release decisions to High Court[^key-0b8bdae35707ac80e69b8d3722384d33]
+
+*Extent: E+W*
+
+(1) This section applies where—
+
+- (a) a prisoner is serving a life sentence imposed in respect of an offence specified or described in section 32ZAB, and
+- (b) the Parole Board directs the prisoner’s release under section 28(5) or 32(5).
+
+(2) The Secretary of State may direct the Parole Board to refer the prisoner’s case to the High Court if the Secretary of State considers that—
+
+- (a) the release of the prisoner would be likely to undermine public confidence in the parole system, and
+- (b) if the case were referred, the High Court might not be satisfied that it is no longer necessary for the protection of the public that the prisoner should be confined (see section 32ZAC(1)).
+
+(3) The requirement for the Secretary of State to give effect to the Parole Board’s direction to release the prisoner is suspended—
+
+- (a) during such period, beginning with the day on which the direction is given, as the Secretary of State reasonably requires to determine whether to direct the Parole Board to refer the prisoner’s case to the High Court under this section, and
+- (b) if the Secretary of State gives such a direction, pending determination of the reference under section 32ZAC(1).
+
+(4) Where the Secretary of State gives a direction under subsection (2), the Secretary of State must notify the prisoner of the direction and the reasons for giving it.
+
+(5) This section applies in relation to a prisoner whose sentence was imposed before, as well as after, this section comes into force.
+
+(6) But nothing in this section affects the duty of the Secretary of State to release a prisoner whose release has been directed by the Parole Board before this section comes into force.
+
+## Annotations
+
+[^key-0b8bdae35707ac80e69b8d3722384d33]: Textual amendment: Ss. 32ZAA-32ZAC and cross-heading inserted (31.12.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/61/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/e)

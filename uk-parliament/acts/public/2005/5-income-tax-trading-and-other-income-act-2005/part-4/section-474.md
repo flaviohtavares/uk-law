@@ -1,0 +1,36 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 474
+act: Income Tax (Trading and Other Income) Act 2005
+section: '474'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/474
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 474
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 474. Special rules: qualifying policies
+
+*Extent: E+W+S+N.I.*
+
+(1) In the application of this Chapter to policies of insurance that are qualifying policies for the purposes of Chapter 1 of Part 7 of ICTA (policies within the conditions in Schedule 15 to that Act that qualify for special tax treatment) special rules apply.
+
+(2) See, in particular—
+
+- section 485 (disregard of certain events in relation to qualifying policies),
+- section 503 (exception from section 501 for certain loans under qualifying policies),
+- section 542 (replacement of qualifying policies), and
+- section 543 (issue time of qualifying policy replacing foreign policy).
+
+(3) Policies within the definition of “foreign policy of life insurance” in section 476(3) that would otherwise be qualifying policies are treated for the purposes of this Chapter as not being qualifying policies in the cases specified in subsections (4) and (5).
+
+(4) Policies within paragraph (a) of that definition are so treated once the conditions in paragraph 24(3) of Schedule 15 to ICTA have ceased to be met with respect to them (conditions that are required to be met for certain policies issued by non-UK resident companies to be qualifying policies).
+
+(5) Policies within paragraph (b) of that definition immediately before an event do not count as qualifying policies in relation to that event.

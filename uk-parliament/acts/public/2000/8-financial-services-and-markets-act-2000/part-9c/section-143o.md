@@ -1,0 +1,73 @@
+---
+title: Financial Services and Markets Act 2000, section 143O
+act: Financial Services and Markets Act 2000
+section: 143O
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2000/8/section/143O
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services and Markets Act 2000, section 143O
+
+> **Warning: changes not yet applied to this text (91).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 143O. Exercise of own-initiative power under section 143K[^key-bd67ac6625e8b346806ee8e45f8d282f]
+
+*Extent: E+W+S+N.I.*
+
+(1) The imposition or variation of a requirement by the FCA under section 143K(2) takes effect—
+
+- (a) immediately, if the notice given under subsection (3) states that is the case,
+- (b) on such date as may be specified in the notice, or
+- (c) if no date is specified in the notice, when the matter to which the notice relates is no longer open to review.
+
+(2) The imposition or variation of the requirement may be expressed to take effect immediately, or on a specified date, only if the FCA reasonably considers that it is necessary for it to take effect immediately or on that date, having regard to the ground on which it is exercising its power under section 143K(2).
+
+(3) If the FCA—
+
+- (a) proposes to exercise its power under section 143K(2) so as to impose a requirement on a parent undertaking or to vary a requirement imposed on a parent undertaking, or
+- (b) exercises that power so as to impose a requirement on a parent undertaking, or to vary a requirement imposed on a parent undertaking, with immediate effect,
+
+it must give the parent undertaking a written notice.
+
+(4) The notice must—
+
+- (a) give details of the requirement or its variation,
+- (b) state the FCA's reasons for imposing or varying the requirement,
+- (c) inform the parent undertaking that it may make representations to the FCA within the period specified in the notice (whether or not the parent undertaking has referred the matter to the Tribunal),
+- (d) inform the parent undertaking of when the imposition or variation of the requirement takes effect, and
+- (e) inform the parent undertaking of its right to refer the matter to the Tribunal.
+
+(5) The FCA may extend the period allowed under the notice for making representations.
+
+(6) If, having considered any representations made by the parent undertaking, the FCA decides—
+
+- (a) to impose the requirement or vary the requirement in the way proposed, or
+- (b) if the requirement has been imposed or varied, not to rescind its imposition or variation,
+
+it must give the parent undertaking a written notice.
+
+(7) A notice under subsection (6) must inform the parent undertaking of its right to refer the matter to the Tribunal.
+
+(8) If, having considered any representations made by the parent undertaking, the FCA decides—
+
+- (a) not to impose the requirement or vary the requirement in the way proposed,
+- (b) to impose a different requirement or vary the requirement in a different way, or
+- (c) to rescind a requirement or variation which has effect,
+
+it must give the parent undertaking a written notice.
+
+(9) A notice under subsection (8)(b) must comply with subsection (4).
+
+(10) If a notice under this section informs a person of the person's right to refer a matter to the Tribunal, it must give an indication of the procedure for such a reference.
+
+(11) For the purposes of subsection (1)(c), whether a matter is open to review is to be determined in accordance with section 391(8).
+
+## Annotations
+
+[^key-bd67ac6625e8b346806ee8e45f8d282f]: Textual amendment: Pt. 9C inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/paragraph/1); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/b)

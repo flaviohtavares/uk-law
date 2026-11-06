@@ -1,0 +1,163 @@
+---
+title: The School Information (England) (Amendment) Regulations 2021
+id: uksi/2021/570
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-05-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/570
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/570/pdfs/uksiem_20210570_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/570/pdfs/uksi_20210570_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/570/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Information (England) (Amendment) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 570
+
+Education, England
+
+The School Information (England) (Amendment) Regulations 2021
+
+Made
+
+11th May 2021
+
+Laid before Parliament
+
+13th May 2021
+
+Coming into force
+
+1st September 2021
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 29(5), 537 and 569(4) of the Education Act 1996[^f00001] and section 92 of the School Standards and Framework Act 1998[^f00002].
+
+## 1. Citation, commencement, extent and application
+
+(1) These Regulations may be cited as the School Information (England) (Amendment) Regulations 2021.
+
+(2) These Regulations come into force on 1st September 2021.
+
+(3) These Regulations extend to England and Wales.
+
+(4) These Regulations apply in relation to England only.
+
+## 2. Amendment of the School Information (England) Regulations 2008
+
+(1) The School Information (England) Regulations 2008[^f00003] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) the existing text becomes paragraph (1);
+- (b) in paragraph (1)—
+  - (i) after the definition of “fair access protocol”, insert—
+
+    > - “in-year coordination scheme” has the meaning given in paragraph (6);
+
+    ;
+  - (ii) in the definition of “maintained school”, in paragraph (a) for “Part 2” substitute “this Part and Part 2”;
+- (c) after paragraph (1) insert—
+
+  > (2) For the purposes of these Regulations, an application is made in the course of a normal admission round if it is not a late application or an in-year application.
+  >
+  > (3) For the purposes of these Regulations, an application is a late application if—
+  >
+  > - (a) it is for the admission of a child to a relevant age group;
+  > - (b) it is submitted before the first day of the first school term of the admission year; and
+  > - (c) a determination relating to the application is not made by an admission authority on or before the offer date (within the meaning given in regulation 2(2) of the School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) Regulations 2012[^f00004]).
+  >
+  > (4) For the purposes of these Regulations, an application is an in-year application if—
+  >
+  > - (a) it is for the admission of a child to a relevant age group and it is submitted on or after the first day of the first school term of the admission year; or
+  > - (b) it is for the admission of a child to an age group other than a relevant age group.
+  >
+  > (5) For the purposes of paragraphs (3) and (4) “relevant age group” has the meaning given in section 142(1) of the SSFA 1998.
+  >
+  > (6) “In-year coordination scheme” means a scheme made by a local authority to coordinate the arrangements for the admission of relevant children to schools in its area.
+  >
+  > (7) For the purposes of paragraph (6) “relevant child” means a child in respect of whom an in-year application is made.
+
+  .
+
+(3) In regulation 10—
+
+- (a) in the heading for “Information” substitute “General information”;
+- (b) in paragraph (1), for “paragraph (5)” substitute “paragraphs (5) and (5A)”;
+- (c) in paragraph (2), for “paragraph (5)” substitute “paragraphs (5) and (5A)”;
+- (d) in paragraph (4), for “paragraph (6)” substitute “paragraph (5A)”;
+- (e) in paragraph (5), for “and”, in the second place it occurs, substitute “or”;
+- (f) after paragraph (5) insert—
+
+  > (5A) In respect of the information specified in paragraph 2 of Schedule 4, the governing body of a community or voluntary controlled school must arrange for the information—
+  >
+  > - (a) to be published on the website by no later than 15th March in the determination year; and
+  > - (b) to be displayed on the website until the end of the offer year to which the determined admission arrangements specified in that information relate.
+
+  ;
+- (g) omit paragraph (6).
+
+(4) In paragraph 2 of Schedule 2—
+
+- (a) the existing text becomes sub-paragraph (1);
+- (b) in sub-paragraph (1), in paragraph (d), for the words from “applications” to “round” substitute “non-standard applications”;
+- (c) after sub-paragraph (1)—
+
+  > (2)  For the purpose of sub-paragraph (1)(d) “non-standard application”—
+  >
+  > - (a) in relation to an offer year which begins before 1st August 2022, means an application made otherwise than in the course of a normal admission round;
+  > - (b) in relation to an offer year which begins on or after 1st August 2022, means a late application.
+
+  .
+
+(5) In Schedule 4—
+
+- (a) in paragraph 2—
+  - (i) omit “Either—”;
+  - (ii) omit sub-paragraph (b);
+- (b) omit paragraph 13.
+
+Nick Gibb
+
+Minister of State
+
+Department for Education
+
+11th May 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments to the School Information (England) Regulations 2008 ([S.I. 2008/3093](https://www.legislation.gov.uk/uksi/2008/3093)) (“the Information Regulations”).
+
+Regulation 2(3) amends regulation 10 of the Information Regulations. New paragraph (5A) requires governing bodies of community or voluntary controlled schools to publish determined admission arrangements on a website by 15th March in the “determination year” (as defined in regulation 2(2) of the Information Regulations).
+
+Regulation 2(3)(e) makes a correction to regulation 10 of the Information Regulations.
+
+Regulation 2(4) amends paragraph 2 of Schedule 2 of the Information Regulations to remove the requirement on local authorities to include in-year admissions applications in a composite prospectus.
+
+Regulation 2(5)(a) omits paragraph 2(b) of Schedule 4 to the Information Regulations to remove the requirement to publish information as to where and by what means parents may access the determined admissions arrangements in the local authority’s composite prospectus.
+
+Regulation 2(5)(b) omits paragraph 13 of Schedule 4 to the Information Regulations to remove the requirement to publish details relating to the year 7 literacy and numeracy premium catch-up grant.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 29(5) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 537 was amended by paragraph 37 of Schedule 7 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), paragraph 152 of Schedule 30 and Schedule 31 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), paragraph 60 of Schedule 9 to the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), by paragraph 6 of Schedule 7 and Schedule 22 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32) (“the 2002 Act”), by paragraph 9 of Schedule 13 to the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 569(4) was amended by section 8 of the Education (Wales) Measure 2009 (2009 nawm 5). Section 537 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). “Prescribed” and “regulations” are defined in section 579(1) of the Education Act 1996.
+
+[^f00002]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Section 92 was substituted by paragraph 7 of Schedule 4 to the 2002 Act and amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). “Prescribed” and “regulations” are defined in section 142 of the School Standards and Framework Act 2008.
+
+[^f00003]: Footnote: [S.I. 2008/3093](https://www.legislation.gov.uk/uksi/2008/3093); relevant amending instruments are [S.I. 2012/8](https://www.legislation.gov.uk/uksi/2012/8), [2012/979](https://www.legislation.gov.uk/uksi/2012/979), [2012/1124](https://www.legislation.gov.uk/uksi/2012/1124), [S.I. 2013/758](https://www.legislation.gov.uk/uksi/2013/758), and [S.I. 2017/37](https://www.legislation.gov.uk/uksi/2017/37).
+
+[^f00004]: Footnote: [S.I. 2012/8](https://www.legislation.gov.uk/uksi/2012/8); to which there are amendments not relevant to these Regulations.

@@ -1,0 +1,844 @@
+---
+title: Nuclear Reactors (Environmental Impact Assessment for Decommissioning) Regulations 1999
+id: uksi/1999/2892
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-10-19'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1999/2892
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/2892/pdfs/uksi_19992892_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/2892/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Nuclear Reactors (Environmental Impact Assessment for Decommissioning) Regulations 1999
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1999 No. 2892
+
+EUROPEAN COMMUNITIES
+
+Nuclear Reactors (Environmental Impact Assessment for Decommissioning) Regulations 1999
+
+Made
+
+19th October 1999
+
+Laid before Parliament
+
+29th October 1999
+
+Coming into force
+
+19th November 1999
+
+The Secretary of State for the Environment, Transport and the Regions, being the designated[^f00001] Minister for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects upon the environment, in exercise of the powers conferred upon him by that section and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-e1370542afe2a13f040174165fbda0dc]
+
+## 1. Citation and commencement[^key-463ecb6a7d817e249553a0b544260ff1]
+
+These Regulations may be cited as the Nuclear Reactors (Environmental Impact Assessment for Decommissioning) Regulations 1999 and shall come into force on 19th November 1999.
+
+## 2. Definitions[^key-f61fd90128932b69f24b63f898be41cd]
+
+(1) In these Regulations unless the context otherwise requires—
+
+- “any particular person” includes any non-governmental organisation promoting environmental protection;[^key-79f99fbc8f7bfcc51e1496977dc0310a]
+- “the consultation bodies” means—
+  - (a) the local planning authority;
+  - (b) the local highway authority;
+  - (c) any principal council for the area in which the site where the project is to be carried out, if not the local planning authority;
+  - (d) in England—[^key-46add46cc2a662e885e6480e2e28a8d1]
+    - (i) the Environment Agency; and
+    - (ii) Natural England;
+  - (e) in England, the Countryside Commission and the Nature Conservancy Council for England;
+  - (f) in Wales, the Natural Resources Body for Wales[^key-2f14ff747982d44c3077d6d71bd0117e];
+  - (g) in Scotland, Scottish Natural Heritage and the Scottish Environment Protection Agency;
+  - (h) any other body with environmental or public health responsibilities or local or regional competencies with whom the ONR considers it appropriate to consult;[^key-aedaeb48e644e8047e42d939f37d8ffd]
+- “the Directive” means[^key-4924dd24fd475dac439d26bfd0c1e339] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment, as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) of the European Parliament and of the Council;
+- “EEA State” means a State party to the Agreement on the European Economic Area[^f00005];
+- “environmental assessment” (except in the phrase “[^key-7c1912a2ab04f423c5c8e2db1fc2f1a9]EU environmental assessment”) means an assessment carried out in accordance with an obligation under the law of any part of the United Kingdom of the effect of anything on the environment;
+- “environmental impact assessment” means, in relation to a project—[^key-60942a2aa4adc22ab674dd783b56ef97]
+  - (a) the preparation of an environmental statement by the licensee under regulations 5 and 6;
+  - (b) the carrying out of any consultations under regulations 8 to 10A and 12;
+  - (c) the ONR’s consideration of the information about the likely significant effects of the project on the environment under regulation 10B(2);
+  - (d) the ONR reaching a conclusion about the likely significant effects of the project on the environment under regulation 10B(3); and
+  - (e) the ONR’s consideration of that conclusion under regulation 10C(1) when determining the application.
+- “environmental statement” is to be read in accordance with regulation 5;
+- “[^key-177aac4807677f8de9f6c9ea9cd57e81]EU environmental assessment” means an assessment of the effect of anything on the environment carried out under assimilated[^key-6730352099e6b978cc2d9d56a30ec7bf] law other than any law of any part of the United Kingdom that implemented the Directive;
+- “the Habitats Directive” means Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora, as last amended by Council [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017)[^f00007];
+- “the HSWA 1974” means the Health and Safety at Work etc. Act 1974;
+- [^key-4b0811e0bbd53f87a8b997ee5af13304]...
+- “licensee” means a person to whom a nuclear site licence has been granted under the Nuclear Installations Act 1965[^f00007] whether or not that licence remains in force;
+- “local planning authority” means, in England and Wales a local planning authority within the meaning of Part I of the Town and Country Planning Act 1990[^f00008] and in Scotland, a planning authority within the meaning of Part I of the Town and Country Planning (Scotland) Act 1997[^f00009];
+- “[^key-e5a2fe9d9a670180d3c8bdc9e33b24d2]**the ONR**” means the Office for Nuclear Regulation;
+- “project” means the carrying out of any dismantling or decommissioning work on any nuclear power station or nuclear reactor to which these Regulations apply by virtue of regulation 3(1), but it does not include—
+  - (a) the removal from a power station or reactor of fuel elements, neutron absorption cartridges or control rods carried out in accordance with normal operating procedures; or
+  - (b) the removal of waste from, or decontamination work on, a power station or reactor when such an activity is carried out as part of routine operations not intended to be part of final dismantling or decontamination of that station or reactor;
+
+  and for the purposes of this definition dismantling or decommissioning of a nuclear power station or nuclear reactor shall not be treated as having commenced unless plant or equipment is disabled or removed for the purpose of permanently preventing the continued operation of that station or reactor.
+- “the Wild Birds Directive” means [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds, as amended by Council [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017);
+
+(2) Unless the context otherwise requires, any reference in these Regulations to—
+
+- (a) a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered; and
+- (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which the reference appears.
+
+## 3. Application[^key-427fa52d68d3f5216660ad344f3c36ba]
+
+(1) These Regulations shall apply to nuclear power stations and other nuclear reactors (except research installations for the production and conversion of fissionable and fertile materials, whose maximum power does not exceed 1 kilowatt continuous thermal load).
+
+(2) Without prejudice to paragraph (1), save for the purpose of regulation 13 these Regulations shall not apply to the carrying out of dismantling or decommissioning work on a nuclear power station or nuclear reactor commenced prior to the coming into force of these Regulations.
+
+(3)[^key-5f00f38df43721d533fb848a42a9214e] These Regulations do not apply to any project or part of a project serving national defence as its sole purpose where the Secretary of State is of the opinion that the application of these Regulations would have an adverse effect on that purpose.
+
+(4) The reference to these Regulations not applying to part of a project serving national defence as its sole purpose is a reference to that part of the project being disregarded in the environmental impact assessment of the project.
+
+(5) These Regulations do not apply to any project having the response to a civil emergency as its sole purpose where the Secretary of State is of the opinion that the application of these Regulations would have an adverse effect on that purpose.
+
+(6) These Regulations do not apply to any project where the Secretary of State is of the opinion that conditions A to C are met.
+
+(7) Condition A is that the project is an exceptional case and that the application of these Regulations would result in adversely affecting the purpose of the project.
+
+(8) Condition B is that the objectives of the Directive as it applied in the United Kingdom immediately before exit day[^key-0f65764325d82e6ceeff642ddb13b123] will be met despite these Regulations not applying to the project.
+
+(9) Condition C is that the project is unlikely to have significant effects on the environment in an[^key-7ec4113cb61d0f69450108a9b83e19ed] EEA State.
+
+(10) Where the Secretary of State is of the opinion referred to in paragraph (3), (5) or (6), the Secretary of State must as soon as possible after forming the opinion notify in writing the ONR and the licensee.
+
+(11) Where the Secretary of State is of the opinion referred to in paragraph (6), the Secretary of State must consider whether another form of assessment would be appropriate.
+
+(12) Notification under paragraph (10) must—
+
+- (a) state that the Secretary of State is of the opinion referred to in paragraph (3), (5) or (6);
+- (b) state that these Regulations do not apply to the project, or in a case where the Secretary of State is of the opinion referred to in paragraph (3) in respect of part of a project, explain the effect of paragraph (4);
+- (c) where the Secretary of State considers that another form of assessment is appropriate in accordance with paragraph (11), give the details of that assessment and explain how the results of the assessment may be obtained.
+
+(13) Where the ONR is notified that the Secretary of State is of the opinion referred to in paragraph (6) in accordance with paragraph (12), the ONR must make available to the public concerned—
+
+- (a) the information relating to the opinion referred to in paragraph (6) including the reasons for that opinion; and
+- (b) the information obtained under any assessment considered appropriate in accordance with paragraph (11).
+
+## 4. Consent for dismantling or decommissioning[^key-8b3946df3a21d83d2abea5a454358cc5]
+
+(1)[^key-ef8865fc661b079fcbd928fcc816231e] A licensee shall not commence a project unless—
+
+- (a) he has applied to the ONR[^key-ad7bbf50ff5393fc408a4cdc3ca2c428] for a consent to carry out the project; and
+- (b) a consent to carry out the project has been granted for the purposes of this paragraph by the ONR [^key-818e9c21ba6119096f30428134c095a3]....
+
+(2)[^key-81f3f2e60fcf372a3a28458c6ab290a8] The ONR may require the licensee to provide the application in an electronic form.
+
+## 4A. Coordination with other assessments[^key-46cce25c5282c969bf48182e16f43014]
+
+(1) This regulation applies where an environmental impact assessment and an assessment under regulation 24 or 63 of the Conservation of Habitats and Species Regulations 2017 are required in respect of the same project.
+
+(2) The ONR must, where appropriate, ensure that the environmental impact assessment and the other assessment or assessments are coordinated.
+
+## 5. Provision of an environmental statement[^key-65d4e492e1084d99c45e677b09387859]
+
+(1) A licensee who applies for a consent under regulation 4(1)(a)[^key-1da36bdcc4ff7049adcc6002fc5d3915] shall provide to the ONR an environmental statement, being a statement which includes[^key-879aaa0bef8dbae4b201b554d9e9abdf]—
+
+- (a)[^key-eab7d8aeb709549f918dd8c143a91a89] a description of the project comprising information on the site, design, size and other relevant features of the project;
+- (b) a description of the likely significant effects of the project on the environment;
+- (c) a description of any features of the project or measures envisaged to avoid, prevent or reduce and, if possible, offset, any likely significant adverse effects on the environment;
+- (d) a description of the reasonable alternatives studied by the licensee, which are relevant to the project and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the likely significant effects of the project on the environment;
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
+- (f) any further information specified in Schedule 1 relevant to the specific characteristics of a particular project or type of project and to the environmental features likely to be affected.
+
+(2)[^key-0d0d88e835fc00841a26031d8777ef1f] The environmental statement shall—
+
+- (a) be prepared by a competent person and state the relevant expertise and qualifications of that person;
+- (b) be based on any opinion given under regulation 6 in respect of the project;
+- (c) include the information reasonably required for reaching a reasoned conclusion on the significant effects of the project on the environment, taking into account current knowledge and methods of assessment;
+- (d) take into account the results of any relevant environmental assessment which are reasonably available to the licensee.
+
+(3) The ONR may require the licensee to provide the environmental statement in an electronic form.
+
+## 6. Pre-application opinion as to the content of the environmental statement[^key-245fe2be1c6231c18ab5106b46b77904]
+
+(1) Without prejudice to regulation 5, a licensee who is minded to apply for a consent to carry out a project may request the ONR to state in writing its opinion as to the scope and level of detail of[^key-300f0fb66ae353ceafe5f64cc0babb7a] the information to be provided in connection with that application.
+
+(2) The ONR shall, if it considers that it has not been provided with sufficient information to give an opinion on a request made under paragraph (1), notify the licensee of the matters in respect of which it requires further information and shall not be required to give an opinion under paragraph (1) until such further information has been provided.
+
+(3) The ONR shall not give an opinion in response to a request under paragraph (1) until it has consulted the licensee, the consultation bodies and such other bodies as appear to the ONR to be appropriate having regard to the circumstances of the case, but the ONR shall, subject to paragraph (2), respond to such request within 21 days of the end of the period allowed by the ONR for responding to such consultation.
+
+(3A)[^key-9989db082d2007feedb0330caefcb66c] The ONR shall not give an opinion in response to a request under paragraph (1) unless it has taken into account the information provided by the licensee, in particular on the specific characteristics of the project, including its location and technical capacity, and its likely impact on the environment.
+
+(4) An opinion given for the purposes of paragraph (1) shall not prevent the ONR subsequently requiring the licensee to submit further information.
+
+## 7. Provision of information to licensee[^key-91390346a260620b53f7a11a2aadcb8e]
+
+The ONR and any other consultation body notified that a licensee has made or is proposing to make an application for consent under regulation 4(1)(a)[^key-18ddde9a53bd22f9c948269cd5ca9dd0] shall, if requested by the licensee or may without such a request, enter into consultation with the licensee to determine whether the body has in its possession any information which the licensee or that body consider relevant to the preparation of an environmental statement and, if it has, the body shall make any such information available to the licensee.
+
+## 8. Consultation by the ONR[^key-82b4e19d8d69c55aea3e45a5c1f15fb1][^key-2d23675b755e493e00b895ac1c2a47e0]
+
+(1) Where the ONR receives in relation to a proposed project an application for a consent pursuant to regulation 4(1)(a)[^key-d746d3aada666f5468ce07734b86f56a] it shall—
+
+- (a) within 21 days of the date of receipt of such application notify the consultation bodies in writing of the name and address of the licensee and of the duty imposed on them by regulation 7 to make information available to the licensee; and
+- (b) inform the licensee of the names and addresses of the bodies notified under sub-paragraph (a) above.
+
+(2) Where the ONR is provided with an environmental statement pursuant to regulation 5 it shall—
+
+- (a) consult the consultation bodies as to the information contained in that statement and for that purpose shall within 21 days of the date of receipt of such statement provide to them the information contained in that statement;
+- (b) require any body consulted under sub-paragraph (a)[^key-98b3f778eefd744da8f1048ca23915eb] to respond to the ONR within such reasonable time as the ONR may specify; [^key-e6d2da6672598ca7d17135382e2dd7ff]...
+- (c) send a copy of the environmental statement to the Secretary of State stating whether or not in the opinion of the ONR the project to which the environmental statement relates is likely to have significant effects on the environment in an[^key-473048268ec416296db7e3fa875809dd] EEA State; and[^key-bed68db09f48bdab845d4217e23ea70f]
+- (d)[^key-f9ab2d3d6dd5f6c7fe9a7f7f7193b77c] shall inform any particular person who they are aware is or is likely to be affected by, or has an interest in, the application, who is unlikely to become aware of it by means of a local advertisement, by sending them a notice that contains those details set out in regulation 9(2)(j) and (l)[^key-fde8c11bb854774c40723fb7eb75dae6].
+
+(3)[^key-0a75c44774cafc43d993ef93eb535416] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-0a75c44774cafc43d993ef93eb535416] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Publicity: newspapers[^key-f59f0095d474b531a09c73f9cd7c0ee2][^key-606c4f4cc49ff7beb05571d3d31abafe]
+
+(1) Within 7 days of providing the ONR with an environmental statement pursuant to regulation 5, the licensee must provide the ONR with—
+
+- (a) a publicity notice (see paragraph (2)); and
+- (b) a statement setting out the newspaper publication date (see paragraph (3)).
+
+(2) A publicity notice is a notice setting out—
+
+- (a) the name and address of the licensee and that the licensee is the applicant in respect of a consent for a project;
+- (b) the date on which the application was made;
+- (c) the address or location of the site at which the proposed project is to be carried out;
+- (d) the publicity period (see paragraph (4));
+- (e) that a copy of the application together with a copy of the environmental statement may be inspected at all reasonable hours by members of the public during the publicity period;
+- (f) an address (or addresses) in the locality of the power station or reactor at which those documents may be inspected;
+- (g) an address (or addresses) (whether or not the same as that given under sub-paragraph (f) above) in the locality of the power station or reactor at which copies of the environmental statement may be obtained during the publicity period;
+- (h) that during the publicity period copies may be obtained there so long as stocks last;
+- (i) if a charge is to be made for a copy, the amount of the charge;
+- (j) that any person wishing to make representations about the application should make them in writing to the ONR at a specified address within the publicity period;
+- (k) that a copy of the publicity notice and the information referred to in regulation 9A(1) will be published on the ONR’s website in accordance with regulation 9A; and
+- (l) that the project is subject to an environmental impact assessment procedure.
+
+(3) The newspaper publication date—
+
+- (a) is the date on which the licensee proposes to first publish the publicity notice in a newspaper (see paragraph (6); and
+- (b) must fall within the period of 7 days beginning with the date on which the publicity notice is provided to the ONR.
+
+(4) The publicity period is the period of not less than 30 days beginning with the newspaper publication date.
+
+(5) The ONR may require the licensee to provide the publicity notice in an electronic form.
+
+(6) On the newspaper publication date, the licensee must publish the publicity notice—
+
+- (a) in one or more newspapers circulating in the locality in which the project is to be carried out; and
+- (b) in any other newspaper named by the ONR.
+
+(7) The licensee must provide the ONR with a copy of the notice published under paragraph (6) within the period of 14 days beginning with the newspaper publication date.
+
+(8) The licensee must ensure that at the relevant address (or addresses) at all reasonable hours during the publicity period—
+
+- (a) not less than 5 copies of the application for consent to carry out a project together with 5 copies of the environmental statement are available for inspection by members of the public; and
+- (b) copies of the environmental statement are available on payment of a reasonable charge reflecting printing and distribution costs.
+
+## 9A. Publicity: ONR’s website
+
+(1) The ONR must publish the following information on its website on the newspaper publication date (see regulation 9(3))—
+
+- (a) the publicity notice provided under regulation 9(1);
+- (b) the application for consent; and
+- (c) the environmental statement.
+
+(2) The ONR must ensure that the information continues to be so published for a period of—
+
+- (a) 30 days beginning with the newspaper publication date; or
+- (b) such longer period as the ONR considers appropriate.
+
+## 10. Further information: provision to ONR and newspaper publicity[^key-28f6d47e7b6ec777e36d010bbe65b4a5]
+
+(1) If the ONR considers that an environmental statement should contain further information specified in Schedule 1, the ONR must notify the licensee in writing that further information is required.
+
+(2) The notification must describe the further information required.
+
+(3) The licensee must then provide the ONR with—
+
+- (a) the further information;
+- (b) a further publicity notice (see paragraph (4)); and
+- (c) a statement setting out the further newspaper publication date (see paragraph (5)).
+
+(4) A further publicity notice is a notice setting out—
+
+- (a) the name of the licensee;
+- (b) the date on which the application for consent to carry out the project was made;
+- (c) the address or location of the site at which the proposed project is to be carried out;
+- (d) the further publicity period (see paragraph (6);
+- (e) that further information is available in relation to an environmental statement which has already been provided;
+- (f) that a copy of the further information may be inspected by members of the public during the further publicity period;
+- (g) an address (or addresses) in the locality of the power station or nuclear reactor at which the further information may be inspected;
+- (h) an address (or addresses) (whether or not the same as that given under sub-paragraph (g) above) in the locality of the nuclear reactor or power station at which copies of the further information may be obtained during the further publicity period;
+- (i) that copies may be obtained during the further publicity period there as long as stocks last;
+- (j) if a charge is to be made for a copy, the amount of the charge;
+- (k) that a copy of the further publicity notice and the further information will be published on the ONR’s website in accordance with regulation 10A(4) and (5);
+- (l) that any person wishing to make representations about the further information should make them in writing to the ONR at a specified address within the further publicity period.
+
+(5) The further newspaper publication date—
+
+- (a) is the date on which the licensee proposes to first publish the further publicity notice in a newspaper (see paragraph (8)); and
+- (b) must fall within the period of 14 days beginning with the date on which the publicity notice is provided to the ONR.
+
+(6) The further publicity period is the period of not less than 30 days beginning with the further newspaper publication date.
+
+(7) The ONR may require the licensee to provide the further information and further publicity notice in an electronic form.
+
+(8) On the further newspaper publication date, the licensee must publish the further publicity notice—
+
+- (a) in one or more newspapers circulating in the locality in which the project is to be carried out; and
+- (b) in any other newspaper named by the ONR.
+
+(9) The licensee must provide the ONR with a copy of the notice published under paragraph (8) within the period of 14 days beginning with the further newspaper publication date.
+
+(10) The licensee must ensure that at the relevant address (or addresses) at all reasonable hours during the further publicity period—
+
+- (a) not less than 5 copies of the further information are available for inspection by members of the public during the further publicity period; and
+- (b) copies of the further information are available on payment of a reasonable charge reflecting printing and distribution costs.
+
+(11) The ONR may by notice in writing require a licensee to produce such evidence as the ONR may reasonably require for the purpose of verifying any information in the licensee’s environmental statement.
+
+## 10A. Further information: ONR obligations and website publicity
+
+(1) Where the ONR has provided information relating to an environmental statement to a consultation body or other person under regulation 8 and the ONR receives further information relating to the environmental statement under regulation 10(3)(a), the ONR must send a copy of the further information to that body or person.
+
+(2) The ONR may by notice in writing require the licensee to provide such number of copies of the further information as is specified in the notice (being the number required for the purposes of paragraph (1)).
+
+(3) Upon sending the notice the ONR—
+
+- (a) must suspend consideration of the application; and
+- (b) must not determine the application before the later of—
+  - (i) the expiry of 14 days after the date on which the further information was sent to each body or person in accordance with paragraph (1);
+  - (ii) the expiry of 30 days after the further newspaper publication date (see regulation 10(5)).
+
+(4) The ONR must publish the following information on its website on the further newspaper publication date—
+
+- (a) the further publicity notice; and
+- (b) the further information.
+
+(5) The ONR must ensure that the further information continues to be so published for a period of—
+
+- (a) 30 days beginning with the date of further newspaper publication date; or
+- (b) such longer period as the ONR considers appropriate.
+
+## 10B. Conclusion about environmental impact
+
+(1) Before granting consent to carry out a project, the ONR must comply with paragraphs (2) and (3).
+
+(2) The ONR must consider (ensuring that in doing so it has or has access to any expertise it considers necessary)—
+
+- (a) the environmental statement;
+- (b) any further information or evidence provided by the licensee in accordance with regulation 10;
+- (c) any relevant information received through any consultations under regulations 8 to 10A;
+- (d) the outcome of any consultation under regulation 12;
+- (e) any features of the project, or measures which the licensee proposes to take, which would have the effect of avoiding, preventing, reducing or offsetting any likely significant adverse effects of the project on the environment.
+
+(3) The ONR must then reach a conclusion about the likely significant effects of the project (including the expected effects deriving from the vulnerability of the project to risks of major accidents or disasters) on—
+
+- (a) population and human health;
+- (b) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom that implemented[^key-e234e397e6ec8ada4c00ffe9fe9aa1d9] the Habitats Directive and the Wild Birds Directive;
+- (c) land, soil, water, air and climate;
+- (d) material assets, cultural heritage and the landscape; and
+- (e) the interaction between the factors referred to in sub-paragraphs (a) to (d).
+
+## 10C. Procedure relating to consent decision
+
+(1) Following its conclusion under regulation 10B(3), the ONR must consider—
+
+- (a) the application for consent;
+- (b) its conclusion under regulation 10B(3); and
+- (c) whether consent under regulation 4(1) should be granted subject to conditions (see paragraph (2)).
+
+(2) The ONR may, on granting a consent to carry out a project, attach to that consent such conditions as may appear to it to be necessary or desirable, taking into account the following factors—
+
+- (a) the interests of limiting the impact on the environment;
+- (b) existing monitoring under an obligation under the law of any part of the United Kingdom;
+- (c) whether any further monitoring is appropriate;
+- (d) whether provision needs to be made for remedial action in respect of any risk posed by the project; and
+- (e) any other relevant factors.
+
+(3) The ONR must not attach conditions relating to monitoring to a consent unless satisfied that the type of parameters to be monitored and the duration of monitoring are proportionate to the nature, location and size of the project in question and the significance of its effect on the environment.
+
+(4) The ONR must not grant consent to carry out a project unless satisfied that its conclusion under regulation 10B(3) in respect of the project is up to date.
+
+(5) The ONR must grant or refuse to grant consent to carry out a project within a reasonable period of time (taking into account the nature and complexity of the application for consent), beginning with the date on which the ONR is given all the information in respect of the project which it is required to consider under regulation 10B(2).
+
+(6) The ONR must not grant a consent (whether for the purposes of these Regulations or otherwise) to carry out a project before the later of the following dates—
+
+- (a) the end of the publicity period relating to the project under regulation 9 (see regulation 9(4));
+- (b) the end of any further publicity period relating to the project under regulation 10 (see regulation 10(6)); or
+- (c) where regulation 12(a) or (b) applies in relation to an EEA State—
+  - (i) where the EEA State has not indicated under regulation 12(1)(iii) whether it wishes to be consulted, the end of the reasonable period of time referred to in that sub-paragraph; or
+  - (ii) where the EEA State has indicated under regulation 12(1)(iii) that it does wish to be consulted, the end of a period of 21 days beginning with the end of the reasonable period of time agreed with the EEA State under paragraph (5)(b) of that regulation.
+
+## 11. Information as to decisions[^key-3a69c67977247703be3a8fd8bb5c8d95]
+
+(1)[^key-3cfd19f2a97b6e520500f2cd2375bd34] Where an application for consent to carry out a project is determined by the ONR, the ONR shall as soon as possible[^key-31238a4ecddf1d0b503d35d9c097d9a0]—
+
+- (a) in writing, inform the licensee and the Secretary of State and the consultation bodies of the relevant information[^key-035646215d2f4e825241fab3a342b190];
+- (b) inform the public of the decision by publishing a notice containing the relevant information[^key-dfd5e944abd6ef908212e2322210c2e5] in a newspaper circulating in the locality of the site concerned, or by such other means as are reasonable in the circumstances; and
+- (c)[^key-615c96d4cd9c80e480a7a0d4e98d1cc5] make the relevant information available free of charge for public inspection at all reasonable hours at an office of the ONR nearest to the place where the power station or reactor is situated.
+
+(2)[^key-c89840e9a0463319254a3bc5ccdeaee1] The relevant information is—
+
+- (a) the content of the decision and any conditions attached to it;
+- (b) the main reasons and considerations on which the decision is based, including information about the public participation process;
+- (c) a summary of the results of the consultations and information gathered pursuant to regulations 5, 8 to 10A and 12;
+- (d) a description of how the information referred to in sub-paragraph (c) has been incorporated into the decision or otherwise addressed, in particular the results of any consultation under regulation 12;
+- (e) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the project; and
+- (f) information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+## 12. Projects likely to have significant effects on the environment in an EEA State[^key-29aa2b0ab9f82a214cad4709ff56189d][^key-8dff01f56e5e2956aacdf74b01f7ccc6]
+
+(1) Where—
+
+- (a) it comes to the attention of the Secretary of State that a project proposed to be carried out in Great Britain is the subject of an application under regulation 4 and is likely to have significant effects on the environment in an[^key-692fb371b23df2dffe4cbbc446cd23b8] EEA State; or
+- (b) an EEA State likely to be significantly affected by such project so requests,
+
+the Secretary of State shall—
+
+- (i) send to the EEA State as soon as possible and no later than their date of publication in the London Gazette, or the Edinburgh Gazette as the case may be, referred to in sub-paragraph (ii) below, the particulars mentioned in paragraph (2) and, if he thinks fit, the information referred to in paragraph (3); and
+- (ii) publish the particulars in sub-paragraph (i) above in a notice placed in the London Gazette or, where the project is in Scotland, the Edinburgh Gazette, with an indication of where further information is available; and
+- (iii) give the EEA State a reasonable time in which to indicate whether it wishes to be further consulted in accordance with the provisions of this regulation.
+
+(2) The particulars referred to in paragraph (1)(i) are—
+
+- (a) a description of the project, together with any available information on its possible significant effect on the environment in an EEA State; and
+- (b) information on the nature of the decision which may be taken.
+
+(3) Where an EEA State indicates, in accordance with paragraph (1)(iii), that it wishes to participate in the procedure for which these Regulations provide, the Secretary of State shall as soon as possible send to that EEA State the following information—
+
+- (a) a copy of the application for consent to carry out the project concerned;
+- (b) a copy of the environmental statement in respect of the project to which that application relates including any further information relating to the project provided pursuant to regulation 10(3)(a)[^key-a9b2b29b2b9bbce1a275bf96541abb15]; and
+- (c) relevant information regarding the procedure under these Regulations,
+
+but only to the extent that such information has not been provided to the EEA State earlier in accordance with paragraph (1)(i).
+
+(4) The Secretary of State in so far as he is concerned shall also—
+
+- (a) arrange for the particulars and information referred to in paragraphs (2) and (3) to be made available, within a reasonable time, to the authorities referred to in Article 6(1) of the Directive and the public concerned in the territory of the EEA State likely to be significantly affected; and
+- (b) ensure that those authorities and the public concerned are given an opportunity, before consent to the application is granted, to forward to the Secretary of State, within a reasonable time, their opinion on the information supplied.
+
+(5) The Secretary of State shall[^key-3bd552a670845ffeb2b242d44b7550c9]...—
+
+- (a) enter into consultation with the EEA State concerned regarding, inter alia, the potential significant effects of the project on the environment of that EEA State and the measures envisaged to reduce or eliminate such effects; and
+- (b) determine in agreement with that[^key-a07dd4e21dfba3f52723e7705c32106e] EEA State a reasonable period of time for the duration of the consultation period.
+
+(6) Where an EEA State has been consulted in accordance with paragraph (5)[^key-9ff531718cf8009373edaf3c65ee86a2], on the determination of the application concerned the Secretary of State shall—
+
+- (a) send to the ONR within 21 days of receipt any responses made by an EEA State pursuant to consultation under this regulation;
+- (b) inform the EEA State of the decision; and
+- (c) forward to it a statement of—
+  - (i) the content of the decision and any conditions attached thereto;
+  - (ii) the main reasons and considerations on which the decision is based; and
+  - (iii) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the project.
+
+## 13. Change or extension of project[^key-dac4e42a10c2ddd92f43496383b62129]
+
+(1) Where there is a change or extension of—
+
+- (a) any project in respect of which a consent has been granted pursuant to regulation 4(1)(b)[^key-1cb566741b491a4890e312c36f358731]; or
+- (b) any project which commenced prior to the coming into force of these Regulations,
+
+which change or extension may have significant adverse effects on the environment, the licensee shall apply to the ONR for a determination as to whether the project shall be made subject to an environmental impact assessment and shall not commence or continue with the change or extension to the project and any other part of the project that the[^key-16d22ffd6b4e45c8b3433ac89d5c70a5] ONR may direct until such determination has been made.
+
+(2)[^key-a32e8c572fbb5347e0b5d554dc8c671b] In determining for the purpose of paragraph (1) whether an environmental impact assessment is required, the ONR shall have regard to—
+
+- (a) the relevant selection criteria set out in Schedule 2;
+- (b) where relevant, the results of any relevant EU environmental assessment which are reasonably available to the ONR.
+
+(3) The licensee shall provide to the ONR the information specified in Schedule 3[^key-e3a4a9f69d60e7c8a23348c73924ebbc] to enable the determination referred to in paragraph (1) to be made.
+
+(3A)[^key-2e49f1914dc1befa6af83270a72c5720] When compiling that information, the licensee shall take into account the results of any relevant EU environmental assessment which are reasonably available to the licensee.
+
+(3B) The licensee may provide to the ONR a description of any feature of the project or measure envisaged to avoid or prevent what otherwise might be significant adverse effects on the environment.
+
+(3C) The ONR may in writing require that the licensee provides further information where the ONR considers that the further information is required in order for it to reach its determination under paragraph (1).
+
+(4) Where the ONR determines for the purposes of paragraphs (1) and (2) that an environmental impact assessment is required in respect of the project, regulations 4 to 10 and 12 shall apply as if any reference in those regulations to the project were a reference to the project as so changed or extended.
+
+(5) Following the ONR’s determination under paragraph (1)[^key-772c5da0b32aa8ee4114950c8ca013e2], the ONR shall—
+
+- (a) in writing, inform the licensee and the Secretary of State of the decision; and
+- (b) inform the public of the decision by publishing a notice in a newspaper circulating in the locality of the site concerned, or by such other means as are reasonable in the cirumstances, stating the main reasons on which the decision is based , with reference to the relevant selection criteria set out in Schedule 2[^key-0bb4fb398e5b547ef40f6de4427ac57d].
+
+(6)[^key-df317f881968a64c300568a25c45ebe3] Where the ONR determines under paragraph (1) that an environmental impact assessment is not required, the ONR shall state in the notice or other means referred to in paragraph (5)(b) any features of the project or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
+
+(7) The ONR shall make its determination under paragraph (1)—
+
+- (a) as soon as possible after the day on which it is provided with the information under paragraph (3) or (3C) (whichever is the later); and
+- (b) in any event, within a period of 90 days beginning with that day.
+
+(8) The ONR may, if satisfied that there are exceptional circumstances (including circumstances relating to the nature, complexity, location or size of the project), extend the period mentioned in paragraph (7).
+
+(9) If the ONR exercises the power in paragraph (8), it shall inform the licensee in writing of the reasons for the extension and the date by which it expects to make its determination under paragraph (1).
+
+## 14. Limitation on disclosure[^key-298c80017cb0b15098690ccd1e76c291][^key-223096b8d1ebb4b0081923162fe9ecfd]
+
+Nothing in these Regulations shall require the disclosure by a body of information that it is entitled not to disclose under regulations 12 and 13 of the Environmental Information Regulations 2004 or regulations 10 and 11 of the Environmental Information (Scotland) Regulations 2004.
+
+## 15. Recovery of expenses by the ONR[^key-d04bf78c1a41df276a92e705d3175735]
+
+(1) This regulation applies to any expenses incurred by the ONR which the ONR may determine to be incurred wholly or partly in connection with the carrying into effect of these Regulations and includes any sums paid by the ONR by way of remuneration, allowances or other payments to inspectors appointed under the HSWA 1974[^key-35aa4482b58187d96fa96cfa802b65b1].
+
+(2) Where a licensee has applied for a consent to carry out a project or has requested an opinion pursuant to regulation 4 or 6[^key-90ca231b2538b2812d21ffe946e70838] respectively, the ONR, in such cases and to such extent as it may appear to it appropriate to do so—
+
+- (a) shall require the licensee to repay to it so much of any expenses to which this regulation applies as may appear to it to be attributable to dealing with the application or request; and
+- (b) may require the licensee to make to it a payment or payments on account of such liability.
+
+(3) A licensee shall comply with any requirement made of him under this regulation.
+
+(4) Any liability of a licensee in respect of sums payable by him under this regulation on account of pensions shall, if the ONR so determines, be satisfied by way of contributions calculated at such rate as may be determined by the Treasury, by reference to remuneration.
+
+(5) Where a licensee has made a payment under sub-paragraph (2)(b) above on account of an anticipated liability, then if the amount of the liability to which he becomes subject is less than the amount paid under that sub-paragraph, the ONR shall be liable to repay the difference to him.
+
+## 16. Enforcement[^key-6d6ef0016170603cc794cd550e5599e8]
+
+(1) Sections 18 to 26 and 33 to 42 of the HSWA 1974[^key-922d54835628d6c1be3b1976e4c4d020] shall apply to any requirement or prohibition imposed upon any licensee by these Regulations or any requirement imposed upon any person by regulation 7 as if the requirement or prohibition concerned had been imposed by regulations made under section 15 of that Act and any function of the[^key-ec6fd9902535bb170922c6b6c5873b04] ONR[^key-83a266e8c6008e92e9697746ff369948] under any other provision of the HSWA 1974[^key-c60cafa08f541c58b4fa3676257e4029] under or in respect of health and safety regulations (including their enforcement) shall be exercisable as if these Regulations were health and safety regulations for the purposes of that Act.
+
+(2) The Health and Safety (Enforcing Authority) Regulations 1998[^f00012] shall not apply in relation to the enforcement of any requirement or prohibition referred to in paragraph (1) above.
+
+Signed by order of the Secretary of State.
+
+Michael Meacher
+
+Minister of State,
+
+Department of the Environment, Transport and the Regions
+
+19th October 1999
+
+## SCHEDULE 1 — Information which may need to be included in an environmental statement[^key-3a68e054209cacd38c929f99afc0c7d8]
+
+Regulations 5(1)(f) and 10(1)
+
+**1.** A description of the project, including in particular—
+
+- (a) a description of the location of the project;
+- (b) a description of the physical characteristics of the whole project, including, where relevant, requisite demolition works, and the land-use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the project (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.** A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the licensee, which are relevant to the proposed project and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.** A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+**4.** A description of the factors specified in regulation 10B(3) likely to be significantly affected by the project: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+
+**5.** A description of the likely significant effects of the project on the environment resulting from, among other things—
+
+- (a) the construction and existence of the project, including, where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing or approved projects, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the project on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the project to climate change;
+- (g) the technologies and the substances used.
+
+The description of the likely significant effects on the factors specified in regulation 10B(3) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the project. This description should take into account the environmental protection objectives established in[^key-d85673a56f222bda0604cf9756d73b72] assimilated[^key-fff49aafc9adca9b8e2197cc6ed11bb7] law or under the law of any part of the United Kingdom which are relevant to the project.
+
+**6.** A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+
+**7.** A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis). That description should explain the extent, to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+
+**8.** A description of the expected significant adverse effects of the project on the environment deriving from the vulnerability of the project to risks of major accidents or disasters which are relevant to the project concerned. Relevant information available and obtained through risk assessments pursuant to assimilated[^key-cf2491e46a1efc0b54019b1e0b4bbf1f][^key-9f6724046909de115779626b13da61fc] law such as any law that implemented the COMAH Directive or the Nuclear Safety Directive or other relevant environmental assessments may be used for this purpose provided that the requirements of any law that implemented[^key-d78929910d17ece63d393dd10d0b9493] this Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+In this paragraph—
+
+- “the COMAH Directive” means [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council [Directive 96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082);
+- “the Nuclear Safety Directive” means Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations as amended by Council Directive 2014/87/Euratom.
+
+**9.** A non-technical summary of the information provided under paragraphs 1 to 8.
+
+**10.** A reference list detailing the sources used for the descriptions and assessments included in the report.
+
+## SCHEDULE 2 — Criteria for determining further assessment[^key-b024f1878233973768f27c5d9ce7f96c]
+
+Regulation 13(2)(a) and (5)(b)
+
+### 1. Characteristics of projects
+
+The characteristics of projects must be considered, with particular regard to—
+
+- (a) the size and design of the whole project;
+- (b) cumulation with other existing or approved projects;
+- (c) the use of natural resources, in particular land, soil, water and biodiversity;
+- (d) the production of waste;
+- (e) pollution and nuisances;
+- (f) the risk of major accidents or disasters which are relevant to the project concerned, including those caused by climate change, in accordance with scientific knowledge;
+- (g) the risks to human health (for example due to water contamination or air pollution).
+
+### 2. Location of projects
+
+The environmental sensitivity of geographical areas likely to be affected by projects must be considered, with particular regard to—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground;
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) areas classified or protected under national legislation; Natura 2000 areas designated by Member States pursuant to the Habitats Directive and the Wild Birds Directive;
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in European Union legislation as it applied in the United Kingdom immediately before exit day, or in[^key-c3660b98366e0b4d38909ab9b0b67154] assimilated[^key-73364342baedbf542c1850d957d7ce46] law and relevant to the project, or in which it is considered that there is such a failure;
+  - (vii) densely populated areas;
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. Type and characteristics of the potential impact
+
+The likely significant effects of projects on the environment must be considered in relation to criteria set out in paragraphs 1 and 2, with regard to the impact of the project on the factors specified in regulation 10B(3), taking into account—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact;
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing or approved projects;
+- (h) the possibility of effectively reducing the impact.
+
+## SCHEDULE 3 — Change to or extension of project: information required[^key-faf2e772fed029bf360884de2efaabd8]
+
+Regulation 13(3)
+
+**1.** A description of the project, including in particular—
+
+- (a) a description of the physical characteristics of the whole project and, where relevant, of demolition works;
+- (b) a description of the location of the project, with particular regard to the environmental sensitivity of geographical areas likely to be affected.
+
+**2.** A description of the aspects of the environment likely to be significantly affected by the project.
+
+**3.** A description of any likely significant effects, to the extent of the information available on such effects, of the project on the environment resulting from—
+
+- (a) the expected residues and emissions and the production of waste, where relevant;
+- (b) the use of natural resources, in particular soil, land, water and biodiversity.
+
+**4.** The criteria of Schedule 2 shall be taken into account, where relevant, when compiling the information in accordance with paragraphs 1 to 3.
+
+(This note is not part of the Regulations)
+
+These Regulations implement as respects Great Britain Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) on the assessment of the effects of certain public and private projects on the environment (O.J. No. L175, 5.7.1985, p.40), as amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011) (O.J. No. L73, 14.3.1997, p.5), to the extent that the Directive relates to the dismantling or decommissioning of nuclear power stations and other nuclear reactors.
+
+The Regulations make the dismantling or decommissioning of specified nuclear power stations and nuclear reactors (“a project” as defined by regulation 2(1)) subject to environmental impact assessment and impose procedural requirements in relation to the consideration of applications for consent to carry out a project.
+
+The Regulations—
+
+- (a) prohibit the carrying out of a project without the consent of the Health and Safety Executive (“the Executive”) (*regulation 4*);
+- (b) require a licensee to provide to the Executive an environmental statement (*regulation 5*);
+- (c) enable a licensee to seek an opinion from the Executive on the information to be included in an environmental statement and specify the types of information which are required (*regulation 6 and Schedule 1*);
+- (d) require the Executive and other consultation bodies (as defined in regulation 2(1)), if requested, to assist the preparation of an environmental statement by making information available to the licensee (*regulation 7*);
+- (e) provide for the procedure to be followed by the Executive upon receipt of an application for a consent to carry out a project (*regulation 8*);
+- (f) provide for publicity of applications for consent and for the provision of copies of the environmental statement (*regulation 9*);
+- (g) contain procedures for the provision by a licensee of information additional to that contained in the environmental statement (*regulation 10*);
+- (h) require the Executive to provide information about decisions taken following the consideration of environmental information in accordance with these Regulations (*regulation 11*);
+- (i) provide for consultation with other EEA States where a project is likely to have significant effects on the environment of another EEA State (*regulation 12*);
+- (j) where there is a change or extension to a project, prohibit a licensee from commencing or continuing with that project until a determination has been sought from the Executive (which shall have regard to the matters set out in Schedule 2) as to whether the project as changed or extended should be made subject to an environmental impact assessment (*regulation 13*);
+- (k) restrict the application of the Regulations in respect of certain information (*regulation 14*);
+- (l) provide for the recovery of expenses incurred by the Executive in respect of the enforcement of the Regulation (*regulation 15*);
+- (m) provide for the enforcement of these Regulations by the Executive (*regulation 16*).
+
+A copy of the summary cost benefit prepared in respect of these Regulations can be obtained from the Health and Safety Executive, Economic Adviser’s Unit, Rose Court, 2 Southwark Bridge, London SE1 9HS. A copy has been placed in the Library of each House of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1988/785](https://www.legislation.gov.uk/uksi/1988/785). See also the Secretary of State for the Environment, Transport and the Regions Order 1997 (S.I. [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971)).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-e1370542afe2a13f040174165fbda0dc]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-463ecb6a7d817e249553a0b544260ff1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-f61fd90128932b69f24b63f898be41cd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-79f99fbc8f7bfcc51e1496977dc0310a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2/1) inserted (6.4.2006) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2006 (S.I. 2006/657)](https://www.legislation.gov.uk/uksi/2006/657), [regs. 1](https://www.legislation.gov.uk/uksi/2006/657/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/657/regulation/2/2)
+
+[^key-46add46cc2a662e885e6480e2e28a8d1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/834/regulation/3/4/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-2f14ff747982d44c3077d6d71bd0117e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 112(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/112/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-aedaeb48e644e8047e42d939f37d8ffd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/834/regulation/3/4/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-4924dd24fd475dac439d26bfd0c1e339]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/834/regulation/3/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^f00005]: Footnote: Cm. 2073. The Agreement was adjusted by a protocol signed at Brussels on 17th March 1993.
+
+[^key-7c1912a2ab04f423c5c8e2db1fc2f1a9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/3/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-60942a2aa4adc22ab674dd783b56ef97]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2018/834/regulation/3/5) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-177aac4807677f8de9f6c9ea9cd57e81]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2/1) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6730352099e6b978cc2d9d56a30ec7bf]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/3/2/a)
+
+[^f00007]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57); as amended by S.I. [1974/2056](https://www.legislation.gov.uk/uksi/1974/2056) and S.I. [1990/1918](https://www.legislation.gov.uk/uksi/1990/1918).
+
+[^key-4b0811e0bbd53f87a8b997ee5af13304]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 96(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/96/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^f00008]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00009]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
+
+[^key-e5a2fe9d9a670180d3c8bdc9e33b24d2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 96(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/96/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-427fa52d68d3f5216660ad344f3c36ba]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1999/2892/regulation/3) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-5f00f38df43721d533fb848a42a9214e]: Textual amendment: [Reg. 3(3)-(13)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/3/3) substituted for [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/3/3) (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/834/regulation/4) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-0f65764325d82e6ceeff642ddb13b123]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/3/8) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7ec4113cb61d0f69450108a9b83e19ed]: Textual amendment: Words in [reg. 3(9)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/3/9) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8b3946df3a21d83d2abea5a454358cc5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/2892/regulation/4) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-ef8865fc661b079fcbd928fcc816231e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/2892/regulation/4) renumbered as reg. 4(1) (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/5/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-ad7bbf50ff5393fc408a4cdc3ca2c428]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/uksi/1999/2892) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [Sch. 3 para. 95](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/95) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-818e9c21ba6119096f30428134c095a3]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/4/b) omitted (6.4.2006) by virtue of [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2006 (S.I. 2006/657)](https://www.legislation.gov.uk/uksi/2006/657), [regs. 1](https://www.legislation.gov.uk/uksi/2006/657/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2006/657/regulation/2/4)
+
+[^key-81f3f2e60fcf372a3a28458c6ab290a8]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/4/2) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2018/834/regulation/5/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-46cce25c5282c969bf48182e16f43014]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1999/2892/regulation/4A) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2018/834/regulation/6) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-65d4e492e1084d99c45e677b09387859]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1999/2892/regulation/5) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-1da36bdcc4ff7049adcc6002fc5d3915]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/5/1) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2018/834/regulation/7/2/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-879aaa0bef8dbae4b201b554d9e9abdf]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/5/1) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2018/834/regulation/7/2/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-eab7d8aeb709549f918dd8c143a91a89]: Textual amendment: [Reg. 5(1)(a)-(f)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/5/1/a) substituted for [reg. 5(1)(a)(b)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/5/1/a) (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2018/834/regulation/7/2/c) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-0d0d88e835fc00841a26031d8777ef1f]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/5/2)[(3)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/5/3) substituted for [reg. 5(2)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/5/2) (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2018/834/regulation/7/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-245fe2be1c6231c18ab5106b46b77904]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1999/2892/regulation/6) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-300f0fb66ae353ceafe5f64cc0babb7a]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/6/1) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/8/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-9989db082d2007feedb0330caefcb66c]: Textual amendment: [Reg. 6(3A)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/6/3A) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2018/834/regulation/8/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-91390346a260620b53f7a11a2aadcb8e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/2892/regulation/7) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-18ddde9a53bd22f9c948269cd5ca9dd0]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/1999/2892/regulation/7) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/834/regulation/9) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-82b4e19d8d69c55aea3e45a5c1f15fb1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-2d23675b755e493e00b895ac1c2a47e0]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8) heading substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/10/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-d746d3aada666f5468ce07734b86f56a]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8/1) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2018/834/regulation/10/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-98b3f778eefd744da8f1048ca23915eb]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8/2/b) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2018/834/regulation/10/4/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-e6d2da6672598ca7d17135382e2dd7ff]: Textual amendment: Word in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8/2/b) omitted (6.4.2006) by virtue of [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2006 (S.I. 2006/657)](https://www.legislation.gov.uk/uksi/2006/657), [regs. 1](https://www.legislation.gov.uk/uksi/2006/657/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2006/657/regulation/2/5/a)
+
+[^key-473048268ec416296db7e3fa875809dd]: Textual amendment: Words in [reg. 8(2)(c)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8/2/c) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bed68db09f48bdab845d4217e23ea70f]: Textual amendment: Word in [reg. 8(2)(c)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8/2/c) inserted (6.4.2006) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2006 (S.I. 2006/657)](https://www.legislation.gov.uk/uksi/2006/657), [regs. 1](https://www.legislation.gov.uk/uksi/2006/657/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2006/657/regulation/2/5/b)
+
+[^key-f9ab2d3d6dd5f6c7fe9a7f7f7193b77c]: Textual amendment: [Reg. 8(2)(d)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8/2/d) inserted (6.4.2006) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2006 (S.I. 2006/657)](https://www.legislation.gov.uk/uksi/2006/657), [regs. 1](https://www.legislation.gov.uk/uksi/2006/657/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2006/657/regulation/2/5/c)
+
+[^key-fde8c11bb854774c40723fb7eb75dae6]: Textual amendment: Words in [reg. 8(2)(d)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8/2/d) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2018/834/regulation/10/4/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-0a75c44774cafc43d993ef93eb535416]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8/3)[(4)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/8/4) omitted (6.8.2018) by virtue of [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2018/834/regulation/10/5) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-f59f0095d474b531a09c73f9cd7c0ee2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/2892/regulation/9) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-606c4f4cc49ff7beb05571d3d31abafe]: Textual amendment: [Regs. 9-10C](https://www.legislation.gov.uk/uksi/1999/2892/regulation/9) substituted for [regs. 9, 10](https://www.legislation.gov.uk/uksi/1999/2892/regulation/9) (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2018/834/regulation/11) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-28f6d47e7b6ec777e36d010bbe65b4a5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1999/2892/regulation/10) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-e234e397e6ec8ada4c00ffe9fe9aa1d9]: Textual amendment: Words in [reg. 10B(3)(b)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/10B/3/b) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3a69c67977247703be3a8fd8bb5c8d95]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1999/2892/regulation/11) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-3cfd19f2a97b6e520500f2cd2375bd34]: Textual amendment: Reg. 11 renumbered as reg. 11(1) (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/12/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-31238a4ecddf1d0b503d35d9c097d9a0]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/11/1) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2018/834/regulation/12/3/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-035646215d2f4e825241fab3a342b190]: Textual amendment: Words in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/11/1/a) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2018/834/regulation/12/3/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-dfd5e944abd6ef908212e2322210c2e5]: Textual amendment: Words in [reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/11/1/b) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2018/834/regulation/12/3/c) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-615c96d4cd9c80e480a7a0d4e98d1cc5]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/11/1/c) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [12(3)(d)](https://www.legislation.gov.uk/uksi/2018/834/regulation/12/3/d) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-c89840e9a0463319254a3bc5ccdeaee1]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/11/2) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2018/834/regulation/12/4) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-29aa2b0ab9f82a214cad4709ff56189d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1999/2892/regulation/12) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-8dff01f56e5e2956aacdf74b01f7ccc6]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1999/2892/regulation/12) heading substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-692fb371b23df2dffe4cbbc446cd23b8]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1999/2892/regulation/12) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a9b2b29b2b9bbce1a275bf96541abb15]: Textual amendment: Word in [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/12/3/b) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2018/834/regulation/13) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-3bd552a670845ffeb2b242d44b7550c9]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/12/5) omitted (31.12.2020) by virtue of [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a07dd4e21dfba3f52723e7705c32106e]: Textual amendment: Word in [reg. 12(5)(b)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/12/5/b) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9ff531718cf8009373edaf3c65ee86a2]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/12/6) substituted (6.4.2006) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2006 (S.I. 2006/657)](https://www.legislation.gov.uk/uksi/2006/657), [regs. 1](https://www.legislation.gov.uk/uksi/2006/657/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2006/657/regulation/2/8)
+
+[^key-dac4e42a10c2ddd92f43496383b62129]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1999/2892/regulation/13) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-1cb566741b491a4890e312c36f358731]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/13/1/a) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/14/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-16d22ffd6b4e45c8b3433ac89d5c70a5]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/13/1) substituted (6.4.2006) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2006 (S.I. 2006/657)](https://www.legislation.gov.uk/uksi/2006/657), [regs. 1](https://www.legislation.gov.uk/uksi/2006/657/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2006/657/regulation/2/9)
+
+[^key-a32e8c572fbb5347e0b5d554dc8c671b]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/13/2) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2018/834/regulation/14/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-e3a4a9f69d60e7c8a23348c73924ebbc]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/13/3) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2018/834/regulation/14/4) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-2e49f1914dc1befa6af83270a72c5720]: Textual amendment: [Reg. 13(3A)-(3C)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/13/3A) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [14(5)](https://www.legislation.gov.uk/uksi/2018/834/regulation/14/5) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-772c5da0b32aa8ee4114950c8ca013e2]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/13/5) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [14(6)(a)](https://www.legislation.gov.uk/uksi/2018/834/regulation/14/6/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-0bb4fb398e5b547ef40f6de4427ac57d]: Textual amendment: Words in [reg. 13(5)(b)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/13/5/b) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [14(6)(b)](https://www.legislation.gov.uk/uksi/2018/834/regulation/14/6/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-df317f881968a64c300568a25c45ebe3]: Textual amendment: [Reg. 13(6)-(9)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/13/6) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [14(7)](https://www.legislation.gov.uk/uksi/2018/834/regulation/14/7) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-298c80017cb0b15098690ccd1e76c291]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1999/2892/regulation/14) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-223096b8d1ebb4b0081923162fe9ecfd]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/1999/2892/regulation/14) substituted (6.4.2006) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2006 (S.I. 2006/657)](https://www.legislation.gov.uk/uksi/2006/657), [regs. 1](https://www.legislation.gov.uk/uksi/2006/657/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2006/657/regulation/2/10)
+
+[^key-d04bf78c1a41df276a92e705d3175735]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1999/2892/regulation/15) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-35aa4482b58187d96fa96cfa802b65b1]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/15/1) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/15/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-90ca231b2538b2812d21ffe946e70838]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/15/2) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2018/834/regulation/15/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-6d6ef0016170603cc794cd550e5599e8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1999/2892/regulation/16) in force at 19.11.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1)
+
+[^key-922d54835628d6c1be3b1976e4c4d020]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/16/1) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2018/834/regulation/16/a) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-ec6fd9902535bb170922c6b6c5873b04]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/16/1) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^key-83a266e8c6008e92e9697746ff369948]: Textual amendment: Word in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/16/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 97](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/97) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-c60cafa08f541c58b4fa3676257e4029]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/16/1) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2018/834/regulation/16/b) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^f00012]: Footnote: S.I. [1998/494](https://www.legislation.gov.uk/uksi/1998/494).
+
+[^key-3a68e054209cacd38c929f99afc0c7d8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2892/schedule/1) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/834/schedule/1) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-d85673a56f222bda0604cf9756d73b72]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1999/2892/schedule/1/paragraph/5) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fff49aafc9adca9b8e2197cc6ed11bb7]: Textual amendment: Word in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1999/2892/schedule/1/paragraph/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/3/2/b)
+
+[^key-cf2491e46a1efc0b54019b1e0b4bbf1f]: Textual amendment: Word in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/2892/schedule/1/paragraph/8) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/3/2/b)
+
+[^key-9f6724046909de115779626b13da61fc]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/2892/schedule/1/paragraph/8) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d78929910d17ece63d393dd10d0b9493]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/2892/schedule/1/paragraph/8) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/7/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b024f1878233973768f27c5d9ce7f96c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/2892/schedule/2) substituted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/834/schedule/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+
+[^key-c3660b98366e0b4d38909ab9b0b67154]: Textual amendment: Words in [Sch. 2 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/1999/2892/schedule/2/paragraph/2/c/vi) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/24/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-73364342baedbf542c1850d957d7ce46]: Textual amendment: Word in [Sch. 2 para. 2(c)(vi)](https://www.legislation.gov.uk/uksi/1999/2892/schedule/2/paragraph/2/c/vi) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/3/2/c)
+
+[^key-faf2e772fed029bf360884de2efaabd8]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1999/2892/schedule/3) inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/834/schedule/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))

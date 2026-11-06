@@ -1,0 +1,422 @@
+---
+title: The Design Right (Proceedings before Comptroller) Rules 1989
+id: uksi/1989/1130
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1989-07-04'
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1989/1130
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/1130/pdfs/uksi_19891130_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/1130/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Design Right (Proceedings before Comptroller) Rules 1989
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1989 No. 1130
+
+DESIGNS
+
+The Design Right (Proceedings before Comptroller) Rules 1989
+
+Made
+
+4th July 1989
+
+Laid before Parliament
+
+10th July 1989
+
+Coming into force
+
+1st August 1989
+
+The Secretary of State, in exercise of the powers conferred upon him by section 250 of the Copyright, Designs and Patents Act 1988[^f00001], with the consent of the Treasury pursuant to subsection (3) of that section as to the fees prescribed under these Rules, and after consultation with the Council on Tribunals in accordance with section 10(1) of the Tribunal and Inquiries Act 1971[^f00002], hereby makes the following Rules:–
+
+## 1. Citation and commencement[^key-12f84bd8a97bdcf0bb285f22ae49a691]
+
+These Rules may be cited as the Design Right (Proceedings before Comptroller) Rules 1989 and shall come into force on 1st August 1989.
+
+## 2. Interpretation[^key-6991df3e84871a10b81310499e9ffb3e]
+
+(1) In these Rules, unless the context otherwise requires—
+
+- “the Act” means the Copyright, Designs and Patents Act 1988;
+- “applicant” means a person who has referred a dispute or made an application to the Comptroller;
+- “application” means an application to the Comptroller to settle or vary the terms of a licence of right or to adjust the terms of a licence;
+- “dispute” means a dispute as to any of the matters referred to in rule 3(1); and
+- “proceedings” means proceedings before the Comptroller in respect of a dispute or application.
+
+(2) A rule or schedule referred to by number means the rule or schedule so numbered in these Rules; and a requirement under these Rules to use a form set out in Schedule 1 is satisfied by the use either of a replica of that form or of a form which contains the information required by the form set out in the said Schedule and which is acceptable to the Comptroller.
+
+## 3. Proceedings in respect of a dispute[^key-a849e88e63619a5885b073db3a571845]
+
+(1) [^m00001]Proceedings under section 246 of the Act in respect of a dispute as to–
+
+- (a) the subsistence of design right,
+- (b) the term of design right, or
+- (c) the identity of the person in whom design right first vested,
+
+shall be commenced by the service by the applicant on the Comptroller of a notice in Form 1 in Schedule 1. There shall be served with that notice a statement in duplicate setting out the name and address of the other party to the dispute (hereinafter in this rule referred to as the respondent), the issues in dispute, the applicant’s case and the documents relevant to his case.
+
+(2) Within 14 days of the receipt of the notice the Comptroller shall send a copy of the notice, together with a copy of the applicant’s statement, to the respondent.
+
+(3) Within 28 days of the receipt by him of the documents referred to in paragraph (2) above, the respondent shall serve on the Comptroller a counter-statement and shall at the same time serve a copy of it on the applicant. Such counter-statement shall set out full particulars of the grounds on which he contests the applicant’s case, any issues on which he and the applicant are in agreement and the documents relevant to his case.
+
+(4) Within 21 days of the service on him of the counter-statement, the applicant may serve a further statement on the Comptroller setting out the grounds on which he contests the respondent’s case, and shall at the same time serve a copy of it on the respondent.
+
+(5) No amended statement or further statement shall be served by either party except by leave or direction of the Comptroller.
+
+**4.**[^key-01d3ac8454d357485e73c1f132bb298f] (1) [^m00002]The Comptroller shall give such directions as to the further conduct of proceedings as he considers appropriate including directing the party or parties to attend a case management conference or a pre-hearing review or both.[^key-5a8c6dd8923f78404c80fad2be145950]
+
+(2) If a party fails to comply with any direction given under this rule, the Comptroller may in awarding costs take account of such default.
+
+**5.**[^key-2984df5a7115ddc2b9aa13ab8305cbd4] (1) [^m00003]Unless the Comptroller otherwise directs, all evidence in the proceedings shall be by statutory declaration , witness statement[^key-81930a6fcb69883e2133cfd504cf5094] or affidavit.
+
+(2) Where the Comptroller thinks fit in any particular case to take oral evidence in lieu of or in addition to evidence by statutory declaration , witness statement[^M_F_c05b8ca3-16c2-4257-87e3-36a1381a6564] or affidavit he may so direct and, unless he directs otherwise, shall allow any witness to be cross-examined on his evidence.
+
+(3) A party to the proceedings who desires to make oral representations shall so notify the Comptroller and the Comptroller shall, unless he and the parties agree to a shorter period, give at least 14 days' notice of the time and place of the hearing to the parties.
+
+(4) If a party intends to refer at a hearing to any document not already referred to in the proceedings, he shall, unless the Comptroller and the other party agree to a shorter period, give 14 days' notice of his intention, together with particulars of every document to which he intends to refer, to the Comptroller and the other party.
+
+(5) At any stage of the proceedings the Comptroller may direct that such documents, information or evidence as he may require shall be filed within such time as he may specify.
+
+(6) The hearing of any proceedings, or part of proceedings, under this rule shall be in public, unless the Comptroller, after consultation with the parties, otherwise directs.
+
+(7)[^key-2a405905426058571a49a13bbb5ca52a] The Comptroller may give a direction as he thinks fit in any particular case that evidence shall be given by affidavit or statutory declaration instead of or in addition to a witness statement.
+
+(8) Where in proceedings before the Comptroller, a party adduces evidence of a statement made by a person otherwise than while giving oral evidence in the proceedings and does not call that person as a witness, the Comptroller may, if he thinks fit, permit any other party to the proceedings to call that person as a witness and cross-examine him on the statement as if he had been called by the first-mentioned party and as if the statement were his evidence in chief.
+
+**6.**[^key-cfa1385293f7613939ca73d46f05434b] (1) [^m00004]Any party to the proceedings may appear in person or be represented by counsel or a solicitor (of any part of the United Kingdom) or, subject to paragraph (4) below, a patent attorney[^key-bc4452bbb9a16afadf91df50b2c7a710] or any other person whom he desires to represent him.
+
+(2) Anything required or authorised by these Rules to be done by or in relation to any person may be done by or in relation to his agent.
+
+(3) Where after a person has become a party to the proceedings he appoints an agent for the first time or appoints an agent in substitution for another, the newly appointed agent shall give written notice of his appointment to the Comptroller and to every other party to the proceedings.
+
+(4) The Comptroller may refuse to recognise as such an agent in respect of any proceedings before him–
+
+- (a) a person who has been convicted of an offence under section 88 of the Patents Act 1949[^f00003] or section 114 of the Patents Act 1977[^f00004] or section 276 of the Act[^key-facee7b2c21f96dd97fe993626e87153];
+- (b) a person[^key-28494ff3a832831c5d95859fdd1880e5] whose name has been erased from and not restored to, or who is suspended from, the register of patent attorneys[^key-4cd9c650343c2504d33afa6fc42fd677] (kept in accordance with[^key-64b4f9f332f713e415888cac4fda4350] section 275 of the Act[^key-6095f6bccf151fa4733e249da5290b00]) on the ground of misconduct;
+- (c) a person who is found by the Secretary of State to have been guilty of such conduct as would, in the case of a person[^key-18c844f0ebe422b479dbd56e1976e774] registered in the register of patent attorneys[^key-c84fed046a33e457c4aac0d883657cb8], render the person[^key-b4ce7772ce10fc272be1723f5390ae6e] liable to have the person’s[^key-86dfdf899cfb27232c1348903afb89a8] name erased from the register on the ground of misconduct;
+- (d) a partnership or body corporate of which one of the partners or directors is a person whom the Comptroller could refuse to recognise under sub-paragraphs (a), (b) or (c) above.
+
+**7.**[^key-b8d645230dd525b7ee9dd9a5a0aa64b7] (1) [^m00005]A person who claims to have a substantial interest in a dispute in respect of which proceedings have been commenced may apply to the Comptroller to be made a party to the dispute in Form 2 in Schedule 1, supported by a statement of his interest. He shall serve a copy of his application, together with his statement, on every party to the proceedings.
+
+(2) The Comptroller shall, upon being satisfied of the substantial interest of that person in the dispute, grant the application and shall give such directions or further directions under rule 4(1) as may be necessary to enable that person to participate in the proceedings as a party to the dispute.
+
+**8.**[^key-04068b6683253f8fa11717b6e0ac5336] [^m00006]A party (including a person made a party to the proceedings under rule 7) may at any time before the Comptroller’s decision withdraw from the proceedings by serving a notice to that effect on the Comptroller and every other party to the proceedings, but such withdrawal shall be without prejudice to the Comptroller’s power to make an order as to the payment of costs incurred up to the time of service of the notice.
+
+**9.**[^key-738c26356a213e1ca56d954667e228a1] [^m00007]After hearing the party or parties desiring to be heard, or if none of the parties so desires, then without a hearing, the Comptroller shall decide the dispute and notify his decision to the parties, giving written reasons for his decision if so required by any party.
+
+## 10. Proceedings in respect of application to settle terms of licence of right or adjust terms of licence[^key-3d686d4177c11310248f6d31c252e9b7]
+
+(1) [^m00008]Proceedings in respect of an application to the Comptroller–
+
+- (a) under section 247 of the Act, to settle the terms of a licence available as of right by virtue of section 237 or under an order under section 238 of the Act, or
+- (b) under paragraph 19(2) of Schedule 1 to the Act, to settle the terms of a licence available as of right in respect of a design recorded or embodied in a design document or model before 1st August 1989, or
+- (c) brought by virtue of paragraph 19(5) of Schedule 1 to the Act, to adjust the terms of a licence granted before 1st August 1989 in respect of a design referred to in sub-paragraph (b) above,
+
+shall be commenced by the service by the applicant on the Comptroller of a notice in Form 3 in Schedule 1.
+
+(2) There shall be served with the notice a statement in duplicate setting out–
+
+- (a) in the case of an application referred to in paragraph (1)(a) or (b) above, the terms of the licence which the applicant requires the Comptroller to settle and, unless the application is one to which rule 13 relates, the name and address of the owner of the design right or, as the case may be, the copyright owner of the design;
+- (b) in the case of an application referred to in paragraph (1)(c) above, the date and terms of the licence and the grounds on which the applicant requires the Comptroller to adjust those terms and the name and address of the grantor of the licence.
+
+(3) Within 14 days of the receipt of the notice the Comptroller shall send a copy of it, together with a copy of the applicant’s statement, to the person (hereinafter in this rule referred to as the respondent) shown in the application as the design right owner, copyright owner or grantor of the licence, as appropriate.
+
+(4) Within 6 weeks of the receipt by him of the notice sent under paragraph (3) above the respondent shall, if he does not agree to the terms of the licence required by the applicant to be settled or, as the case may be, adjusted, serve a notice of objection on the Comptroller with a statement setting out the grounds of his objection and at the same time shall serve a copy of the same on the applicant.
+
+(5) Within 4 weeks of the receipt of the notice of objection the applicant may serve on the Comptroller a counter-statement and at the same time serve a copy of it on the respondent.
+
+(6) No amended statement or further statement shall be served by either party except by leave or direction of the Comptroller.
+
+**11.**[^key-55f57d900f821fd600cbd62a76c5b992] [^m00009]Rules 4, 5, 6 and 8 shall apply in respect of proceedings under rule 10 as they apply in respect of proceedings under rule 3.
+
+**12.**[^key-795f6cf76c8d38ede9487d3b1581dd23] [^m00010]After hearing the party or parties desiring to be heard, or if none of the parties so desires, then without a hearing, the Comptroller shall decide the application and notify his decision to the parties, giving written reasons for his decision if so required by any party.
+
+## 13. Settlement of terms where design right owner unknown[^key-e6159fb4f4a4371bd1cbbd839d368d2a]
+
+(1) [^m00011]Where a person making an application under rule 10(1)(a) or (b) is unable (after making such inquiries as he considers reasonable) to discover the identity of the design right owner or, as the case may be, the copyright owner, he shall serve with his notice under that rule a statement to that effect, setting out particulars of the inquiries made by him as to the identity of the owner of the right and the result of those inquiries.
+
+(2) The Comptroller may require the applicant to make such further inquiries into the indentity of the owner of the right as he thinks fit and, may for that purpose, require him to publish in such a manner as the Comptroller considers appropriate particulars of the application.
+
+(3) The Comptroller shall, upon being satisfied from the applicant’s statement or the further inquiries made under paragraph (2) above that the identity of the owner of the right cannot be discovered, consider the application and settle the terms of the licence.
+
+## 14. Proceedings in respect of application by design right owner to vary terms of licence[^key-1dd351faa4e84d459d973f59b2e7b139]
+
+(1) [^m00012]Where the Comptroller has, in settling the terms of the licence under rule 13, ordered that the licence shall be free of any obligation as to royalties or other payments, the design right owner or copyright owner (as the case may be) may serve on the Comptroller a notice in Form 4 in Schedule 1 applying for the terms of the licence to be varied from the date of his application. There shall be served with the notice a statement in duplicate setting out the particulars of the grounds for variation and the terms required to be varied.
+
+(2) Within 14 days of the receipt of the notice the Comptroller shall send a copy of the notice, together with the design right or copyright owner’s statement, to the applicant under rule 10 (hereinafter in this rule referred to as the licensee).
+
+(3) The licensee shall, if he does not agree to the terms as required to be varied by the design right or copyright owner, within 6 weeks of the receipt of the notice serve notice of objection on the Comptroller with a statement setting out the grounds of his objection and at the same time shall serve a copy of the same on the design right or copyright owner, as the case may be.
+
+(4) Within 4 weeks of the receipt of the notice of objection the design right or copyright owner may serve on the Comptroller a counter-statement, and at the same time shall serve a copy of it on the licensee.
+
+(5) No amended statement or further statement shall be served by either party except by leave or direction of the Comptroller.
+
+**15.**[^key-f4003f1e4e7b410f26c58c5d7ac65e2d] [^m00013]Rules 4, 5, 6 and 8 shall apply in respect of proceedings under rule 14 as they apply in respect of proceedings under rule 3.
+
+**16.**[^key-d8f37c09b4c071bb2c2fb669df0b3d04] [^m00014]After hearing the party or parties desiring to be heard, or if none of the parties so desires, then without a hearing, the Comptroller shall decide the application and notify his decision to the parties, giving written reasons for his decision if so required by any party.
+
+## 17. General[^key-df45748c957badaf83914aad31e7c0f3]
+
+[^m00015]Any document filed in any proceedings may, if the Comptroller thinks fit, be amended, and any irregularity in procedure may be rectified by the Comptroller on such terms as he may direct.
+
+**18.**[^key-3f73eb930f5627bafac689d42748ba30] (1) [^m00016]Any statutory declaration or affidavit filed in any proceedings shall be made and subscribed as follows—
+
+- (a) in the United Kingdom, before any justice of the peace or any commissioner or other officer authorised by law in any part of the United Kingdom to administer an oath for the purpose of any legal proceedings;
+- (b) in any other part of Her Majesty’s dominions or in the Republic of Ireland, before any court, judge, justice of the peace or any officer authorised by law to administer an oath there for the purpose of any legal proceedings; and
+- (c) elsewhere, before a British Minister, or person exercising the functions of a British Minister, or a Consul, Vice-Consul or other person exercising the functions of a British Consul or before a notary public, judge or magistrate.
+
+(2) Any document purporting to have fixed, impressed or subscribed thereto or thereon the seal or signature of any person authorised by paragraph (1) above to take a declaration may be admitted by the Comptroller without proof of the genuineness of the seal or signature or of the official character of the person or his authority to take the declaration.
+
+(3) In England and Wales, the Comptroller shall, in relation to the giving of evidence (including evidence on oath), the attendance of witnesses and the discovery and production of documents, have all the powers of a judge of the High Court, other than the power to punish summarily for contempt of court.
+
+(4) In Scotland, the Comptroller shall, in relation to the giving of evidence (including evidence on oath), have all the powers which a Lord Ordinary of the Court of Session has in an action before him, other than the power to punish summarily for contempt of court, and, in relation to the attendance of witnesses and the recovery and production of documents, have all the powers of the Court of Session.
+
+**18A.**[^key-9f1490177fa342024431b2b9bc9a6961] Any witness statement filed under these Rules shall—
+
+- (a) be a written statement signed and dated by a person which contains the evidence which the person signing it would be allowed to give orally; and
+- (b) include a statement by the intended witness that he believes the facts in it are true.
+
+**19.**[^key-b82351e8d37885e3b8bbabf95254e017] [^m00017]The Comptroller may appoint an adviser to assist him in any proceedings and shall settle the question or instructions to be submitted or given to such an adviser.
+
+**20.**[^key-e6cc1ba20bd5dcce593a1c319c9a038d] (1)[^key-d2311b96b5cafa9034fe75de12138fed] The times or periods prescribed by these Rules for doing any act or taking any proceedings thereunder may be extended or shortened by the Comptroller if he thinks fit, upon such notice and upon such terms as he may direct, and an extension may be granted although the time for doing such act or taking such proceedings has already expired.
+
+(2) Where the last day for the doing of any act falls on a day on which the Patent Office is closed and by reason thereof the act cannot be done on that day, it may be done on the next day on which the Office is open.
+
+**21.**[^key-a98e927139684e7878a4e218ed37abb6] [^m00019]For the purposes of these Rules the Patent Office shall be open Monday to Friday–
+
+- (a) between 9.00 a.m.[^key-213042393d819f9a952933cc8c0a488e] and midnight, for the filing of applications, forms and other documents, and
+- (b) between 9.00 a.m.[^M_F_5a4737a0-4127-4a68-f866-f09f390cf876] and 5.00 p.m.[^key-5d5ca437c93c7f6a4ec90a962a9eda61] for all other purposes,
+
+excluding Good Friday, Christmas Day , Tuesday 4th January 2000[^key-3d263cb8401ecd55435a7338fac2c57d] and any day specified or proclaimed to be a bank holiday under section 1 of the Banking and Financial Dealings Act 1971[^f00005].
+
+**22.**[^key-ddfa1af62ff0c57316d9b2455dd39f90] (1) [^m00020]The Comptroller may, in respect of any proceedings, by order award such costs or, in Scotland, such expenses as he considers reasonable and direct how, to what party and from what parties they are to be paid.
+
+(2) Where any applicant or a person making an application under rule 7 neither resides nor carries on business in the United Kingdom [^key-2bd8f681e499e67cff607c66163f2f4a]... the Comptroller may require him to give security for the costs or expenses of the proceedings and in default of such security being given may treat the reference or application as abandoned.
+
+**23.**[^key-82e1476e6f59bdeec9b1c68045f717d9] (1) [^m00021]Every person concerned in any proceedings to which these Rules relate shall furnish to the Comptroller an address for service [^key-c0f27267760fea4087678ba039a56d88]..., and that address may be treated for all purposes connected with such proceedings as the address of the person concerned.
+
+(1A)[^key-6c7e1f7c16abfdc2c4ad8f90bd6c0173] The address for service shall be an address in the United Kingdom, Gibraltar[^key-0cae433c15b09c7a5ed32d1da3c5020d] or the Channel Islands.
+
+(2) Where any document or part of a document which is in a language other than English is served on the Comptroller or any party to proceedings or filed with the Comptroller in pursuance of these Rules, it shall be accompanied by a translation into English of the document or part, verified to the satisfaction of the Comptroller as corresponding to the original text.
+
+**24.**[^key-32e3a6412405914789e7a4ddff7bbc34] [^m00022]The fees specified in Schedule 2 shall be payable in respect of the matters there mentioned.
+
+Eric Forth
+
+Parliamentary Under Secretary of State
+
+Department of Trade and Industry
+
+We consent to the fees prescribed in these Rules.
+
+David Maclean
+
+Stephen Dorrell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE 1 — FORMS[^key-05c5e34b18306015f684d66e5646049c][^key-305bd9b3f320782091f468dca54da082][^key-93ede7773123c86651212521077b2374][^key-983647a35694eddec8883db0d25343c8]
+
+Rules 3(1), 7(1), 10(1) and 14(1)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1989/1130/images/uksi_19891130_en_001)[image: see source](https://www.legislation.gov.uk/uksi/1989/1130/images/uksi_19891130_en_002)[image: see source](https://www.legislation.gov.uk/uksi/1989/1130/images/uksi_19891130_en_003)[image: see source](https://www.legislation.gov.uk/uksi/1989/1130/images/uksi_19891130_en_004)
+
+## SCHEDULE 2 — FEES[^key-057b1e089ae5c3e7fb51b40611a8274a]
+
+Rule 24
+
+|  |  |
+| --- | --- |
+| **1.** On reference of dispute (Form 1) under rule 3(1) | £80[^key-8ed1934ac864849865478a2870157808] |
+| **2.** On application (Form 2) under rule 7(1) | £50 |
+| **3.** On application (Form 3) under rule 10(1) | £80 |
+| **4.** On application (Form 4) under rule 14(1) | £80 |
+
+(This note is not part of the Rules)
+
+These Rules prescribe the forms, fees and the procedure to be followed in connection with proceedings before the Comptroller in relation to–
+
+- (a) disputes on the subsistence or term of design right or the identity of the person in whom the right first vested;
+- (b) the settlement of the terms of a licence which is made available in the public interest or as of right in the last five years of design right or of copyright in respect of a design recorded or embodied in a design document or model made before 1st August 1989;
+- (c) the settlement of the terms of a licence where the design right or copyright owner is unknown and for the variation of those terms if and when his identity is discovered; and
+- (d) the adjustment of the terms of a licence granted before 1st August 1989 in respect of a design recorded or embodied in a design document or model before that date.
+
+Under rule 7 provision is made for a person claiming to have a substantial interest in a dispute before the Comptroller to be made a party to the proceedings.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48); under sub-paragraph (6) of paragraph 19 of Schedule 1 to the Copyright, Designs and Patents Act 1988 the provisions of section 250 apply in relation to proceedings brought under or by virtue of that paragraph as to proceedings under Part III of the Act.
+
+[^f00002]: Footnote: [1971 c. 62](https://www.legislation.gov.uk/ukpga/1971/62).
+
+[^key-12f84bd8a97bdcf0bb285f22ae49a691]: Commencement: Rule 1 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^key-6991df3e84871a10b81310499e9ffb3e]: Commencement: Rule 2 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^key-a849e88e63619a5885b073db3a571845]: Commencement: Rule 3 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00001]: Marginal citation: Commencement of proceedings
+
+[^key-01d3ac8454d357485e73c1f132bb298f]: Commencement: Rule 4 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00002]: Marginal citation: Comptroller’s directions
+
+[^key-5a8c6dd8923f78404c80fad2be145950]: Textual amendment: Words in rule 4 inserted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [3](https://www.legislation.gov.uk/uksi/1999/3195/rule/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/3195/regulation/1/2))
+
+[^key-2984df5a7115ddc2b9aa13ab8305cbd4]: Commencement: Rule 5 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00003]: Marginal citation: Procedure and evidence at hearing
+
+[^key-81930a6fcb69883e2133cfd504cf5094]: Textual amendment: Words in rule 5(1) inserted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1999/3195/rule/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/3195/regulation/1/2))
+
+[^M_F_c05b8ca3-16c2-4257-87e3-36a1381a6564]: Textual amendment: Words in rule 5(2) inserted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1999/3195/rule/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/3195/regulation/1/2))
+
+[^key-2a405905426058571a49a13bbb5ca52a]: Textual amendment: Rule 5(7)(8) inserted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1999/3195/rule/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/3195/regulation/1/2))
+
+[^key-cfa1385293f7613939ca73d46f05434b]: Commencement: Rule 6 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00004]: Marginal citation: Representation and rights of audience
+
+[^key-bc4452bbb9a16afadf91df50b2c7a710]: Textual amendment: Word in [rule 6(1)](https://www.legislation.gov.uk/uksi/1989/1130/article/6/1) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [8(a)](https://www.legislation.gov.uk/uksi/2009/3348/article/8/a)
+
+[^f00003]: Footnote: [1949 c. 87](https://www.legislation.gov.uk/ukpga/1949/87).
+
+[^f00004]: Footnote: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37).
+
+[^key-facee7b2c21f96dd97fe993626e87153]: Textual amendment: Words in [rule 6(4)(a)](https://www.legislation.gov.uk/uksi/1989/1130/rule/6/4/a) inserted (13.8.1990) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1990 (S.I. 1990/1453)](https://www.legislation.gov.uk/uksi/1990/1453), [rules 1](https://www.legislation.gov.uk/uksi/1990/1453/rule/1), [2(a)](https://www.legislation.gov.uk/uksi/1990/1453/rule/2/a)
+
+[^key-28494ff3a832831c5d95859fdd1880e5]: Textual amendment: Words in [rule 6(4)(b)](https://www.legislation.gov.uk/uksi/1989/1130/article/6/4/b) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2009/3348/article/8/b/i)
+
+[^key-4cd9c650343c2504d33afa6fc42fd677]: Textual amendment: Word in [rule 6(4)(b)](https://www.legislation.gov.uk/uksi/1989/1130/article/6/4/b) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2009/3348/article/8/b/ii)
+
+[^key-64b4f9f332f713e415888cac4fda4350]: Textual amendment: Words in [rule 6(4)(b)](https://www.legislation.gov.uk/uksi/1989/1130/article/6/4/b) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [8(b)(iii)](https://www.legislation.gov.uk/uksi/2009/3348/article/8/b/iii)
+
+[^key-6095f6bccf151fa4733e249da5290b00]: Textual amendment: Words in [rule 6(4)(b)](https://www.legislation.gov.uk/uksi/1989/1130/rule/6/4/b) substituted (13.8.1990) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1990 (S.I. 1990/1453)](https://www.legislation.gov.uk/uksi/1990/1453), [rules 1](https://www.legislation.gov.uk/uksi/1990/1453/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/1990/1453/rule/2/b)
+
+[^key-18c844f0ebe422b479dbd56e1976e774]: Textual amendment: Words in [rule 6(4)(c)](https://www.legislation.gov.uk/uksi/1989/1130/article/6/4/c) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [8(c)(i)](https://www.legislation.gov.uk/uksi/2009/3348/article/8/c/i)
+
+[^key-c84fed046a33e457c4aac0d883657cb8]: Textual amendment: Word in [rule 6(4)(c)](https://www.legislation.gov.uk/uksi/1989/1130/article/6/4/c) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2009/3348/article/8/c/ii)
+
+[^key-b4ce7772ce10fc272be1723f5390ae6e]: Textual amendment: Words in [rule 6(4)(c)](https://www.legislation.gov.uk/uksi/1989/1130/article/6/4/c) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [8(c)(iii)](https://www.legislation.gov.uk/uksi/2009/3348/article/8/c/iii)
+
+[^key-86dfdf899cfb27232c1348903afb89a8]: Textual amendment: Words in [rule 6(4)(c)](https://www.legislation.gov.uk/uksi/1989/1130/article/6/4/c) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [8(c)(iv)](https://www.legislation.gov.uk/uksi/2009/3348/article/8/c/iv)
+
+[^key-b8d645230dd525b7ee9dd9a5a0aa64b7]: Commencement: Rule 7 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00005]: Marginal citation: Application to be made a party to proceedings
+
+[^key-04068b6683253f8fa11717b6e0ac5336]: Commencement: Rule 8 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00006]: Marginal citation: Withdrawal of reference
+
+[^key-738c26356a213e1ca56d954667e228a1]: Commencement: Rule 9 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00007]: Marginal citation: Decision of the Comptroller
+
+[^key-3d686d4177c11310248f6d31c252e9b7]: Commencement: Rule 10 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00008]: Marginal citation: Commencement of proceedings
+
+[^key-55f57d900f821fd600cbd62a76c5b992]: Commencement: Rule 11 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00009]: Marginal citation: Directions, procedure and evidence
+
+[^key-795f6cf76c8d38ede9487d3b1581dd23]: Commencement: Rule 12 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00010]: Marginal citation: Decision of the Comptroller
+
+[^key-e6159fb4f4a4371bd1cbbd839d368d2a]: Commencement: Rule 13 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00011]: Marginal citation: Commencement of proceedings
+
+[^key-1dd351faa4e84d459d973f59b2e7b139]: Commencement: Rule 14 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00012]: Marginal citation: Commencement of proceedings
+
+[^key-f4003f1e4e7b410f26c58c5d7ac65e2d]: Commencement: Rule 15 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00013]: Marginal citation: Directions, procedure and evidence
+
+[^key-d8f37c09b4c071bb2c2fb669df0b3d04]: Commencement: Rule 16 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00014]: Marginal citation: Decision of the Comptroller
+
+[^key-df45748c957badaf83914aad31e7c0f3]: Commencement: Rule 17 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00015]: Marginal citation: Rectification of irregularities
+
+[^key-3f73eb930f5627bafac689d42748ba30]: Commencement: Rule 18 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00016]: Marginal citation: Evidence
+
+[^key-9f1490177fa342024431b2b9bc9a6961]: Textual amendment: Rule 18A inserted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [5](https://www.legislation.gov.uk/uksi/1999/3195/rule/5)
+
+[^key-b82351e8d37885e3b8bbabf95254e017]: Commencement: Rule 19 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00017]: Marginal citation: Appointment of advisers
+
+[^key-e6cc1ba20bd5dcce593a1c319c9a038d]: Commencement: Rule 20 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^key-d2311b96b5cafa9034fe75de12138fed]: Textual amendment: Rule 20(1) substituted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [6](https://www.legislation.gov.uk/uksi/1999/3195/rule/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/3195/regulation/1/2))
+
+[^key-a98e927139684e7878a4e218ed37abb6]: Commencement: Rule 21 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00019]: Marginal citation: Hours of business
+
+[^key-213042393d819f9a952933cc8c0a488e]: Textual amendment: Words in rule 21(a) substituted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [7(a)](https://www.legislation.gov.uk/uksi/1999/3195/rule/7/a)
+
+[^M_F_5a4737a0-4127-4a68-f866-f09f390cf876]: Textual amendment: Words in rule 21(b) substituted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [7(a)](https://www.legislation.gov.uk/uksi/1999/3195/rule/7/a)
+
+[^key-5d5ca437c93c7f6a4ec90a962a9eda61]: Textual amendment: Words in rule 21(b) substituted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [7(b)](https://www.legislation.gov.uk/uksi/1999/3195/rule/7/b)
+
+[^key-3d263cb8401ecd55435a7338fac2c57d]: Textual amendment: Words in rule 21 inserted (22.12.1999) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1999 (S.I. 1999/3195)](https://www.legislation.gov.uk/uksi/1999/3195), [rules 1(1)](https://www.legislation.gov.uk/uksi/1999/3195/rule/1/1), [7(c)](https://www.legislation.gov.uk/uksi/1999/3195/rule/7/c)
+
+[^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-ddfa1af62ff0c57316d9b2455dd39f90]: Commencement: Rule 22 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00020]: Marginal citation: Costs
+
+[^key-2bd8f681e499e67cff607c66163f2f4a]: Textual amendment: Words in [rule 22(2)](https://www.legislation.gov.uk/uksi/1989/1130/rule/22/2) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 13](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-82e1476e6f59bdeec9b1c68045f717d9]: Commencement: Rule 23 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00021]: Marginal citation: Service and translation of documents
+
+[^key-c0f27267760fea4087678ba039a56d88]: Textual amendment: Words in [rule 23(1)](https://www.legislation.gov.uk/uksi/1989/1130/rule/23/1) omitted (6.4.2006) by virtue of [The Patents, Trade Marks and Designs (Address For Service and Time Limits, etc) Rules 2006 (S.I. 2006/760)](https://www.legislation.gov.uk/uksi/2006/760), [rules 1](https://www.legislation.gov.uk/uksi/2006/760/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/760/rule/3/2)
+
+[^key-6c7e1f7c16abfdc2c4ad8f90bd6c0173]: Textual amendment: [Rule 23(1A)](https://www.legislation.gov.uk/uksi/1989/1130/rule/23/1A) substituted (6.4.2009) by [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [3](https://www.legislation.gov.uk/uksi/2009/546/rule/3)
+
+[^key-0cae433c15b09c7a5ed32d1da3c5020d]: Textual amendment: Word in [rule 23(1A)](https://www.legislation.gov.uk/uksi/1989/1130/rule/23/1A) substituted (1.1.2021) by [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1317/rule/5/2) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
+
+[^key-32e3a6412405914789e7a4ddff7bbc34]: Commencement: Rule 24 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^m00022]: Marginal citation: Fees
+
+[^key-05c5e34b18306015f684d66e5646049c]: Commencement: Sch. 1 in force at 1.8.1989, see [rule 1](https://www.legislation.gov.uk/uksi/1989/1130/rule/1)
+
+[^key-305bd9b3f320782091f468dca54da082]: Textual amendment: Sch. 1: words “Please give an address for service in the United Kingdom, another EEA state or the Channel Islands” substituted for “Please give an address for service in the United Kingdom” in each place (6.4.2009) by [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [4](https://www.legislation.gov.uk/uksi/2009/546/rule/4)
+
+[^key-93ede7773123c86651212521077b2374]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1130/schedule/1): word “an” substituted for “another” each time it appears before “EEA state” (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 15](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-983647a35694eddec8883db0d25343c8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1989/1130/schedule/1): word “Gibraltar” substituted for “an EEA state” each time it appears (1.1.2021) by [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1317/rule/5/3) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
+
+[^key-057b1e089ae5c3e7fb51b40611a8274a]: Textual amendment: Sch. 2 substituted (11.5.1992) by [The Design Right (Proceedings before Comptroller) (Amendment) Rules 1992 (S.I. 1992/615)](https://www.legislation.gov.uk/uksi/1992/615), [rule 1](https://www.legislation.gov.uk/uksi/1992/615/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/1992/615/schedule)
+
+[^key-8ed1934ac864849865478a2870157808]: Textual amendment: Sum in Sch. 2 Table substituted (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rule 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [Sch. 1 Table 1](https://www.legislation.gov.uk/uksi/2026/183/schedule/1)

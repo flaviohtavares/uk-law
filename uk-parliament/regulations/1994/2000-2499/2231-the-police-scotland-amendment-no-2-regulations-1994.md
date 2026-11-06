@@ -1,0 +1,312 @@
+---
+title: The Police (Scotland) Amendment (No.2) Regulations 1994
+id: uksi/1994/2231
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-08-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/2231
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/2231/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police (Scotland) Amendment (No.2) Regulations 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 2231 (S.111)
+
+POLICE
+
+The Police (Scotland) Amendment (No.2) Regulations 1994
+
+Made
+
+26th August 1994
+
+Laid before Parliament
+
+30th August 1994
+
+Coming into force
+
+1st September 1994
+
+The Secretary of State, in exercise of the powers conferred on him by section 26 of the Police (Scotland) Act 1967[^f00001] and of all other powers enabling him in that behalf and after taking into consideration any representations made by the Police Advisory Board for Scotland following the submission of a draft of the Regulations in accordance with section 26(9) of the said Act of 1967 and after taking into consideration the recommendations made by the Police Negotiating Board for the United Kingdom and furnishing the said Board with a draft of the Regulations in accordance with section 2(1) of the Police Negotiating Board Act 1980[^f00002], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Police (Scotland) Amendment (No.2) Regulations 1994 and shall come into force on 1st September 1994.
+
+(2) In these Regulations “the principal Regulations” means the Police (Scotland) Regulations 1976[^f00003].
+
+## 2. Normal daily period of duty
+
+Regulation 21(1) of the principal Regulations is amended by substituting for the word “superintendent” the word “inspector”.
+
+## 3. Rostering of duties for lower ranks
+
+Regulation 21A(1) of the principal Regulations is amended by substituting for the word “superintendent” the word “inspector”.
+
+## 4. Variable shift arrangements
+
+Regulation 21B(1) of the principal Regulations is amended by substituting for the word “superintendent” the word “inspector”.
+
+## 5. Overtime
+
+Regulation 22(3) of the principal Regulations is amended—
+
+- (a) by inserting after the words “constable” the words “below the rank of inspector”; and
+- (b) by inserting after the words “that week” the words “, except that on each of the first 4 occasions on which overtime in respect of which the constable was not informed as mentioned in paragraph (6) is worked during a week, 30 minutes of the overtime worked is to be disregarded.”.
+
+## 6. Public holidays and rest days for lower ranks
+
+Regulation 23 of the principal Regulations is amended—
+
+- (a) in paragraph (1) by substituting for the word “superintendent” the word “inspector”;
+- (b) in paragraph (3) by substituting for sub-paragraphs (a) to (c)—
+
+  > - (a) where he receives less than 15 days' notice of the requirement, an allowance at the appropriate rest-day rate; or
+  > - (b) in any other case, another rest day, which shall be notified to him within 4 days of notification of the requirement.
+
+  ;
+- (c) by inserting after paragraph (3)—
+
+  > (3A) The appropriate rest-day rate is, for each completed 15 minutes of duty on a rostered rest day, the fraction of a day’s pay specified in paragraph (3B).
+  >
+  > (3B) The fraction specified is—
+  >
+  > - (a) where the constable received less than 8 days' notice of the requirement, one sixteenth; and
+  > - (b) in any other case, three sixty-fourths.
+
+  ;
+- (d) in paragraph (5) by substituting for the words “paragraph (3)(a) or (b)” the words “paragraph (3)(a)” and by substituting for sub-paragraph (b)—
+
+  > - (b) in the case of a rostered rest day—
+  >   - (i) where the constable received less than 8 days' notice of the requirement, to double, and
+  >   - (ii) in any other case, to one and a half times,
+
+  ;
+- (e) in paragraph (6) by substituting for the words “paragraph (3)(a) or (b)” the words “paragraph (3)(a)”;
+- (f) in paragraph (7)(c) by deleting the words after “public holiday”; and
+- (g) in paragraph (7)(g) by inserting after the words “a period of 4 completed hours” the words “, except that a period of not more than one hour of duty on a rostered rest day shall, if it immediately follows a period for which he was on duty as part of a normal daily period of duty, count as the number of periods of 15 minutes actually completed;”.
+
+## 7. Public holidays and rest days for inspectors
+
+The principal Regulations are amended by inserting after regulation 23—
+
+> **23A. Public holidays and rest days for inspectors**
+>
+> (1) This regulation applies to every constable of the rank of inspector or chief inspector.
+>
+> (2) Such a constable shall, so far as the exigencies of duty permit, be allowed a day’s leave on each public holiday and be granted rest days at the rate of two rest days in respect of each week.
+
+.
+
+## 8. Pay during sick leave
+
+The principal Regulations are amended by inserting after regulation 27—
+
+> **27A. Pay during sick leave**
+>
+> (1) Subject to paragraphs (2) and (3), if on any relevant day a constable has during the period of 12 months ending with that day been on sick leave for 183 days, he ceases for the time being to be entitled to full pay, and becomes entitled to half pay, while on sick leave.
+>
+> (2) Subject to paragraph (3), if on any relevant day a constable has been on sick leave for the whole of the period of 12 months ending with that day, he ceases for the time being to be entitled to any pay while on sick leave.
+>
+> (3) The chief constable may in a particular case determine that for a specified period—
+>
+> - (a) a constable who is entitled to half pay while on sick leave is to receive full pay, or
+> - (b) a constable who is not entitled to any pay while on sick leave is to receive either full pay or half pay,
+>
+> and may from time to time determine to extend the period.
+>
+> (4) For the purposes of this regulation a relevant day is a day after 30th August 1995 on which a constable is on sick leave, and in this regulation—
+>
+> - (a) references to a constable’s being on sick leave are references to his being absent from duty while entitled to be so, or with the consent of the police authority, under regulation 27;
+> - (b) references to full pay are references to pay at the rate ascertained from regulation 30(1); and
+> - (c) references to half pay are references to pay at half the rate of the constable’s full pay.
+
+.
+
+## 9. Detective duty and detective expenses allowances
+
+Regulation 51 of the principal Regulations is amended by deleting—
+
+- (a) paragraph (2); and
+- (b) in paragraph (2A), the words “in addition”.
+
+## 10. Allowance in respect of medical charges
+
+Regulation 58 of the principal Regulations is amended—
+
+- (a) in paragraph (1) by substituting for the words from “other” to “paragraph (2)” the words “if the charges are incurred by reason of an injury received without his default in the execution of his duty as a constable”; and
+- (b) by deleting paragraph (2).
+
+## 11. Modification for variable shift arrangements
+
+Paragraph 4 of Schedule 1A to the principal Regulations is amended by inserting after the words ““not less than”” the words “and in paragraph (7)(g) for the words “a normal daily period of duty” substitute “a rostered shift”.”.
+
+## 12. Provisions ceasing to have effect
+
+The following provisions of the principal Regulations shall cease to have effect:—
+
+- (a) regulation 42 (housing allowance);
+- (b) regulation 42A (housing allowance: supplementary);
+- (c) regulation 42B (transitional rent allowance);
+- (d) regulation 42C (application of regulation 42B to other members);
+- (e) regulation 42D (compensatory grant);
+- (f) regulation 43 (supplementary housing allowance);
+- (g) regulation 44 (constable assigned to duty with the Scottish Crime Squad);
+- (h) regulation 45 (compensatory grant);
+- (i) regulation 48 (uniform allowance);
+- (j) regulation 49 (women’s stocking allowance);
+- (k) regulation 55 (bicycle allowance);
+- (l) regulation 56 (typewriter allowance);
+- (m) regulation 62 (promotion examination allowance);
+- (n) regulation 66 (provision of house or quarters);
+- (o) Schedules 6 and 7;
+- (p) paragraph 6 of Schedule 8; and
+- (q) paragraph 4(1) and (2) of Schedule 9.
+
+## 13. Savings and transitional provision
+
+The Schedule to these Regulations (which contains savings and transitional provisions) shall have effect.
+
+James Douglas-Hamilton
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+26th August 1994
+
+## SCHEDULE — SAVINGS AND TRANSITIONAL PROVISIONS
+
+Regulation 14
+
+### 1. Interpretation
+
+(1) This paragraph has effect for defining expressions used in this Schedule.
+
+(2) “Qualifying constable” means a constable of a police force who—
+
+- (a) immediately before 1st September 1994 was a constable of that or another police force;
+- (b) was not then on unpaid leave;
+- (c) has at all times after 31st August 1994 been a constable of a police force; and
+- (d) has not after that date been on unpaid leave.
+
+(3) “Re-joining constable” means a constable of a police force who by reason only of a relevant absence is not a qualifying constable.
+
+(4) “Relevant absence” means—
+
+- (a) a period of central service or overseas service; or
+- (b) a period of unpaid leave,
+
+ending after 31st August 1994.
+
+(5) “Housing emoluments” means any one or more of the following kinds of payments under the principal Regulations as they had effect before the coming into force of these Regulations:—
+
+- (a) a housing allowance under regulation 42;
+- (b) a transitional rent allowance under regulation 42B;
+- (c) a supplementary housing allowance under regulation 43; and
+- (d) a compensatory grant under regulation 45,
+
+and in relation to a re-joining constable includes a rent allowance under regulation 42 as it had effect before 1st April 1990; and “housing allowance” and “transitional rent allowance” mean respectively the allowances mentioned in (a) and (b) above.
+
+### 2. Qualifying constable provided with accommodation
+
+(1) A qualifying constable who ceases to occupy a house or quarters with which he had been provided free of rent becomes entitled to a replacement allowance.
+
+(2) The replacement allowance is, subject to paragraph 7 below, an allowance at a rate equal to the total of—
+
+- (a) the rate at which housing allowance, or as the case may be transitional rent allowance, was payable, or would have been payable if he had not been occupying the house or quarters, immediately before 1st September 1994, and
+- (b) the rate at which any allowance under regulation 42(11) or 43(3) was or would have been then payable.
+
+### 3. Qualifying constable with housing emoluments
+
+(1) A qualifying constable who immediately before 1st September 1994 was in receipt of housing emoluments is entitled to a replacement allowance unless he is provided with a house or quarters free of rent.
+
+(2) The replacement allowance is, subject to paragraph 7 below, an allowance at a rate at which the housing emoluments were payable immediately before 1st September 1994.
+
+### 4. Re-joining constable previously provided with accommodation
+
+(1) A re-joining constable who immediately before the relevant absence began was occupying a house or quarters with which he was provided free of rent becomes entitled to a replacement allowance unless he is again provided with a house or quarters free of rent.
+
+(2) The replacement allowance is, subject to paragraph 7 below, an allowance at the rate at which, if he had not been occupying the house or quarters, housing allowance or, as the case may be, transitional rent allowance would have been payable—
+
+- (a) where the relevant absence began before 1st September 1994, immediately before it began; and
+- (b) in any other case, immediately before 1st September 1994.
+
+### 5. Re-joining constable previously in receipt of housing payments
+
+(1) A re-joining constable who immediately before the relevant absence began was in receipt—
+
+- (a) of housing emoluments; or
+- (b) of a replacement allowance under paragraph 2 or 3 above,
+
+becomes entitled to a replacement allowance unless he is provided with a house or quarters free of rent.
+
+(2) The replacement allowance is, subject to paragraph 7 below, an allowance—
+
+- (a) where sub-paragraph (1)(a) applies, at the rate at which the housing emoluments were payable; and
+- (b) where sub-paragraph (1)(b) applies, at the rate at which the previous replacement allowance was payable,
+
+immediately before the relevant absence began.
+
+### 6. Constables provided with house or quarters
+
+A qualifying constable or a re-joining constable who—
+
+- (a) is provided with a house or quarters free of rent; and
+- (b) if these Regulations had not come into force would have been entitled to an allowance under regulation 42(11) or 43(3) of the principal Regulations,
+
+is, subject to paragraph 7 below, entitled to an equivalent replacement allowance.
+
+### 7. Variation and termination of replacement allowances
+
+(1) Subject to sub-paragraph (2), in circumstances in which—
+
+- (a) a housing allowance or transitional rent allowance payable as mentioned in paragraph 2(2) or 4(2) above; or
+- (b) any of the housing emoluments mentioned in paragraphs 3(1), 5(1)(a) and 6 above,
+
+would, if these Regulations had not come into force, have fallen to be reduced or discontinued, the replacement allowance in question is reduced accordingly or, if the effect of a discontinuance would have been that no housing emoluments remained payable, terminated.
+
+(2) For the purposes of sub-paragraph (1) it is to be assumed that a housing allowance or transitional rent allowance would not have fallen to be reduced by reason of the constable’s being married to or sharing accommodation with another constable appointed after 31st August 1994.
+
+(3) In circumstances in which any housing allowance or housing emoluments mentioned in sub-paragraph (1) would, if these Regulations had not come into force, have fallen to be increased otherwise than under regulation 42A of the principal Regulations (which provided for biennial adjustment of housing allowances) or in which any new housing emoluments would in that case have become payable the replacement allowance in question is increased accordingly.
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Police (Scotland) Regulations 1976 (“the principal Regulations”) and revoke a large number of provisions relating to housing payments and other miscellaneous allowances.
+
+The effect of regulations 2 to 4, 5(a) and 6(a) is that inspectors and chief inspectors cease to work fixed hours in accordance with a duty roster, and accordingly cease to be entitled to extra payments for overtime, and for working on public holidays and rest days although they remain in principle free from duty on such days (see the new regulation 23A inserted into the principal Regulations by regulation 7).
+
+Regulation 5(b) reduces the length of unplanned overtime counting towards the overtime allowance payable to sergeants and constables; regulation 6(b) to (g) reduces the notice threshold for payment of rest day working allowance from 28 to 14 days, removes the additional entitlement to an extra rest day (but increases the time off that may be taken in lieu of the allowance) where there was less than 8 days' notice, and reduces the length at which a short period worked on a rest day counts if it is continuous with normal duty.
+
+Regulation 8 inserts into the principal Regulations a new regulation 27A which introduces restrictions on entitlement to pay while on sick leave.
+
+Regulation 9 revokes detective duty allowances for superintendents.
+
+Regulation 10 makes medical charges reimbursable only if they arise from an injury received on duty, a restriction which previously applied only to officers first appointed after 21st July 1992.
+
+Regulation 11 is consequential upon regulation 6(g).
+
+Regulation 12 revokes various provisions relating to allowances of various kinds, including payments in respect of housing where it was not provided free of rent.
+
+For officers actually or potentially entitled to housing or housing payments immediately before the commencement of these Regulations whose service thereafter is uninterrupted, or is interrupted only by central or overseas service or unpaid leave, equivalent entitlements to “replacement allowances” are provided by paragraphs 1 to 7 of the Schedule (given effect by regulation 13).
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77); section 26(9) was amended by section 2(4) of the Police Negotiating Board Act [1980 (c. 10)](https://www.legislation.gov.uk/ukpga/1980/10); section 26 (1A) and (10) were inserted by section 111 of the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60); section 26(2B) was inserted by the Police and Magistrates' Court Act [1994(c. 29)](https://www.legislation.gov.uk/ukpga/1994/29), section 52(3) (with effect from 8th August 1994: *See* S.I. [1994/2025](https://www.legislation.gov.uk/uksi/1994/2025), article 3(2)(d)).
+
+[^f00002]: Footnote: [1980 c. 10](https://www.legislation.gov.uk/ukpga/1980/10).
+
+[^f00003]: Footnote: S.I. [1976/1073](https://www.legislation.gov.uk/uksi/1976/1073); the relevant amending instruments are S.I. [1977/2008](https://www.legislation.gov.uk/uksi/1977/2008), [1985/1325](https://www.legislation.gov.uk/uksi/1985/1325), [1985/1733](https://www.legislation.gov.uk/uksi/1985/1733), [1988/1501](https://www.legislation.gov.uk/uksi/1988/1501), [1989/2222](https://www.legislation.gov.uk/uksi/1989/2222), [1990/469](https://www.legislation.gov.uk/uksi/1990/469), [1992/1432](https://www.legislation.gov.uk/uksi/1992/1432), [1993/3081](https://www.legislation.gov.uk/uksi/1993/3081) and [1994/2095](https://www.legislation.gov.uk/uksi/1994/2095).

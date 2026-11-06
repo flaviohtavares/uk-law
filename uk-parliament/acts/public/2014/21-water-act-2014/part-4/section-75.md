@@ -1,0 +1,57 @@
+---
+title: Water Act 2014, section 75
+act: Water Act 2014
+section: '75'
+status: not-yet-in-force
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/21/section/75
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Water Act 2014, section 75
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 75. Functions of relevant bodies
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) Regulations under section 74 may provide for a relevant body to carry out functions in connection with—
+
+- (a) the creation and maintenance of the register;
+- (b) giving access to information contained in the register;
+- (c) publication of the register;
+- (d) disclosure of information contained in the register;
+- (e) notification when premises are entered in, or omitted from, the register.
+
+(2) The following are relevant bodies for the purposes of this Part—
+
+- (a) the Environment Agency;
+- (b) the Scottish Environment Protection Agency, in relation to Scotland;
+- (c) the Natural Resources Body for Wales, in relation to Wales;
+- (d) the Department of Agriculture and Rural Development in Northern Ireland, in relation to Northern Ireland.
+
+(3) The regulations may provide for the Environment Agency—
+
+- (a) to coordinate the carrying out of functions conferred or imposed under subsection (1);
+- (b) to promote consistency in the carrying out of those functions.
+
+(4) The regulations may—
+
+- (a) require the relevant bodies to cooperate with each other as regards the functions conferred or imposed on any of them under subsection (1);
+- (b) require the relevant bodies (other than the Environment Agency) to cooperate with the Environment Agency as regards the carrying out of functions conferred or imposed on the Environment Agency under subsection (3).
+
+(5) Regulations under section 74 may provide for the Commissioners for Her Majesty's Revenue and Customs, or a person authorised by them, to disclose information held for council tax purposes by the Valuation Office to—
+
+- (a) the Environment Agency, or
+- (b) the Natural Resources Body for Wales,
+
+for use in identifying premises to be excluded from the register by reference to the date of completion of construction (see section 74(4)).
+
+(6) The regulations may include provision restricting the use or further disclosure of information disclosed under subsection (5).

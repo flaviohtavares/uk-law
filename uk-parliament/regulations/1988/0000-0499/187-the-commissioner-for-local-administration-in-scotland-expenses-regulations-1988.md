@@ -1,0 +1,114 @@
+---
+title: The Commissioner for Local Administration in Scotland (Expenses) Regulations 1988
+id: uksi/1988/187
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1988-02-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1988/187
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/187/pdfs/uksi_19880187_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/187/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Commissioner for Local Administration in Scotland (Expenses) Regulations 1988
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1988 No. 187 (S.21)
+
+LOCAL GOVERNMENT, SCOTLAND
+
+The Commissioner for Local Administration in Scotland (Expenses) Regulations 1988
+
+Made
+
+11th February 1988
+
+Laid before Parliament
+
+11th February 1988
+
+Coming into force
+
+21st February 1988
+
+The Secretary of State, in exercise of the powers conferred upon him by section 22(3) of the Local Government (Scotland) Act 1975[^f00001] and of all other powers enabling him in that behalf, and after consultation with such associations of local authorities as appear to him to be concerned, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Commissioner for Local Administration in Scotland (Expenses) Regulations 1988 and shall come into force on 21st February 1988.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the 1973 Act” means the Local Government (Scotland) Act 1973[^f00002];
+- “the 1975 Act” means the Local Government (Scotland) Act 1975;
+- “the Commission” means the Commission for Local Authority Accounts in Scotland established under section 97(1) of the 1973 Act;
+- “the designated body for Scotland” means the Commission, which is designated[^f00003] by the Secretary of State under section 22(1) of the 1975 Act as the designated body for Scotland;
+- “financial year” means a period of 12 months ending with 31st March;
+- “product of a rate of one penny in the pound” and “standard penny rate product” have the meanings assigned to them by section 9 of the Local Government (Financial Provisions) (Scotland) Act 1963[^f00004].
+
+## 3. Expenses
+
+All expenses incurred by the designated body for Scotland in connection with the discharge of its functions under Part II of the 1975 Act shall, in relation to the financial year 1988-89, be defrayed by regional and islands councils in proportion to their respective products of a rate of one penny in the pound or standard penny rate products, whichever in each case is the higher, for that year, which products shall be as first estimated by the Secretary of State for the purposes of section 12 of the Local Government (Scotland) Act 1966[^f00005].
+
+**4.** Each regional and islands council shall pay to the designated body for Scotland—
+
+- (a) such instalments in respect of the amount due by the council for the financial year 1988-89 under regulation 3 of these Regulations, and
+- (b) at such intervals in that financial year, as may be agreed between the council and the designated body for Scotland or, in the case of disagreement, as may be determined by the Secretary of State.
+
+## 5. Revocations
+
+The Commissioner for Local Administration in Scotland (Expenses) Regulations 1975[^f00006] are revoked in respect of the financial year 1988-89 and subsequent financial years.
+
+**6.** The Commissioner for Local Administration in Scotland (Expenses) Amendment Regulations 1988[^f00007] are hereby revoked.
+
+Ian Lang
+
+Minister of State, Scottish Office
+
+New St. Andrew’s House,
+
+Edinburgh
+
+11th February 1988
+
+(This note is not part of the Regulations)
+
+Schedule 4 to the Local Government (Scotland) Act 1975 provides for the remuneration of, and other expenses incurred by, the Commissioner for Local Administration in Scotland and his officers being met by “the body designated for Scotland” . The Secretary of State has designated the Commission for Local Authority Accounts in Scotland as that body.
+
+These Regulations make new provision in relation to the financial year 1988-89 for the expenses incurred by that designated body in the discharge of its functions under Part II of the 1975 Act being met by regional and islands councils.
+
+Regulation 3 provides that the expenses of the designated body, in relation to the financial year 1988-89, are to be met by regional and islands councils in proportion to their respective penny or standard penny rate products, whichever in each case is the higher for that year. These products are to be as first estimated by the Secretary of State for the purposes of section 12 of the Local Government (Scotland) Act 1966.
+
+Regulation 4 provides for the payment to the designated body by each regional and islands council of instalments in respect of the amount due from them for the financial year 1988-89 under the Regulations.
+
+The Regulations are limited to the financial year 1988-89 because there will no longer be penny or standard penny rate products for any subsequent financial year as a consequence of the Abolition of Domestic Rates Etc. (Scotland) Act [1987 (c. 47)](https://www.legislation.gov.uk/ukpga/1987/47).
+
+Regulation 5 revokes the Commissioner for Local Administration in Scotland (Expenses) Regulations 1975 in respect of the financial year 1988-89 and subsequent financial years.
+
+Regulation 6 revokes the Commissioner for Local Administration in Scotland (Expenses) Amendment Regulations 1988 because it was discovered, after those Regulations had been made, that they contained an error. Those Regulations are therefore revoked on 21st February 1988 before they come into effect.
+
+## Annotations
+
+[^f00001]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30).
+
+[^f00002]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^f00003]: Footnote: S.I. [1975/1974](https://www.legislation.gov.uk/uksi/1975/1974).
+
+[^f00004]: Footnote: [1963 c. 12](https://www.legislation.gov.uk/ukpga/1963/12); section 9 was relevantly amended by the Decimal Currency Act [1969 (c. 19)](https://www.legislation.gov.uk/ukpga/1969/19), Schedule 2, paragraph 18, by the Local Government (Scotland) Act 1973, Schedule 9, paragraph 54, and by the Local Government (Scotland) Act 1975, Schedule 6, Part II, paragraph 24(a).
+
+[^f00005]: Footnote: [1966 c. 51](https://www.legislation.gov.uk/ukpga/1966/51); section 12 was amended by the Decimal Currency Act 1969, Schedule 2, paragraph 27.
+
+[^f00006]: Footnote: S.I. [1975/1975](https://www.legislation.gov.uk/uksi/1975/1975).
+
+[^f00007]: Footnote: S.I. [1988/134](https://www.legislation.gov.uk/uksi/1988/134).

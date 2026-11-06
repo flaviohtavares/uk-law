@@ -1,0 +1,42 @@
+---
+title: Finance (No. 2) Act 2023, section 312
+act: Finance (No. 2) Act 2023
+section: '312'
+status: revised
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/30/section/312
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance (No. 2) Act 2023, section 312
+
+> Text as at 2026-07-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 312. Minor definitions relating to electricity market
+
+*Extent: E+W+S+N.I.*
+
+In this Part—
+
+- “**the Balancing and Settlement Code**” means the code for the governance of electricity balancing and settlement in Great Britain which is maintained in accordance with the conditions of transmission licences granted under section 6(1)(b) of the Electricity Act 1989 as that code has effect from time to time;
+- “**distribution system**” and “transmission system” mean anything which would be such a system for the purposes of—
+  - (a) Part 1 of the Electricity Act 1989, or
+  - (b) Part 2 of the Electricity (Northern Ireland) Order 1992 ([S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231));
+- “**feed-in tariff export payments**” means export payments within the meaning of Schedule A to Condition 33 of the standard conditions of electricity supply licences;
+- “**generation**” does not include the release of electricity from a battery;
+- “**licensed distribution system**” means a distribution system operated by the holder of a licence under—
+  - (a) section 6(1)(c) of the Electricity Act 1989, or
+  - (b) Article 10(1)(bb) of the Electricity (Northern Ireland) Order 1992;
+- “**licensed transmission system**” means a transmission system operated by the holder of a licence under—
+  - (a) section 6(1)(b) of the Electricity Act 1989, or
+  - (b) Article 10(1)(b) of the Electricity (Northern Ireland) Order 1992;
+- “**the SEM Memorandum**” means the Memorandum of Understanding referred to in Article 2(3) of the Electricity (Single Wholesale Market) (Northern Ireland) Order 2007 ([S.I. 2007/913 (N.I. 7)](https://www.legislation.gov.uk/nisi/2007/913)).
+- “**settlement code**” means—
+  - (a) the Balancing and Settlement Code, or
+  - (b) the Trading and Settlement Code;
+- “**the standard conditions of electricity supply licences**” means the standard conditions incorporated in licences under section 6(1)(d) of the Electricity Act 1989 by virtue of section 8A of that Act;
+- “**the Trading and Settlement Code**” means the Single Electricity Market Trading and Settlement Code referred to in the SEM Memorandum as that code has effect from time to time.

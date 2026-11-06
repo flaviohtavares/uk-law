@@ -1,0 +1,38 @@
+---
+title: Corporation Tax Act 2009, section 327
+act: Corporation Tax Act 2009
+section: '327'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/327
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 327
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 327. Disallowance of imported losses etc
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies for an accounting period of a company (“the loss period”) if—
+
+- (a) apart from this section, a loss arising in connection with a loan relationship of the company would fall to be brought into account for the purposes of this Part, and
+- (b) the loss is wholly or partly referable to a time when the relationship was not subject to United Kingdom taxation.
+
+(2) The amounts brought into account for the loss period for the purposes of this Part must be such as to secure that none of the loss referable to a time when the relationship was not so subject is treated for those purposes as arising in the loss period or any other accounting period of the company.
+
+(3) For the purposes of this section a loss is referable to a time when a relationship is not subject to United Kingdom taxation so far as, at the time to which the loss is referable, the company would not have been chargeable to corporation tax in the United Kingdom on any profits arising from the relationship.
+
+(4) If the company was not a party to the relationship at the time to which the loss is referable, subsection (3) applies as if the reference to the company were a reference to the person who at that time was in the same position as respects the relationship as is subsequently held by the company.
+
+(5) An amount which would be brought into account for the purposes of this Part in respect of any matter apart from this section is treated for the purposes of section 464(1) (amounts brought into account under this Part excluded from being otherwise brought into account) as if it were so brought into account.
+
+(6) Accordingly, that amount must not be brought into account for corporation tax purposes as respects that matter either under this Part or otherwise.
+
+(7) This section does not apply if fair value accounting is used.

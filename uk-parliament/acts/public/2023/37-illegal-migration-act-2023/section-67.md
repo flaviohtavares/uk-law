@@ -1,0 +1,61 @@
+---
+title: Illegal Migration Act 2023, section 67
+act: Illegal Migration Act 2023
+section: '67'
+status: revised-with-pending-changes
+text_date: '2025-12-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/37/section/67
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Illegal Migration Act 2023, section 67
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2025-12-02. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/37
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 67. Extent[^key-1391e86ecc810ed5733e30beca2a8b3e]
+
+*Extent: E+W+S+N.I.*
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland, subject as follows.
+
+(2) Section 23 extends to England and Wales only.
+
+(3) Section 24 extends to Scotland only.
+
+(4) Section 25 extends to Northern Ireland only.
+
+(5) Subsections (7) to (10) of section 4 (and section 65 so far as applying to those subsections) also extend to the Channel Islands and the Isle of Man and the British overseas territories, but only so as to enable regulations under subsection (7) of section 4 to make provision for any of sections 31 to 36 to have effect with modifications in relation to a person to whom regulations under that subsection apply.
+
+(6) Sections 31 to 37 also extend to the Channel Islands and the Isle of Man and the British overseas territories.
+
+(7) His Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to any of the Channel Islands or the Isle of Man.
+
+(8) Subsection (7) does not apply to—
+
+- (a) sections 4(7) to (10) and 65, so far as they extend to the Channel Islands and the Isle of Man by virtue of subsection (5), or
+- (b) sections 31 to 37.
+
+(9) Any amendment, repeal or revocation made by this Act has the same extent within the United Kingdom as the provision to which it relates.
+
+(10) A power under any provision listed in subsection (11) may be exercised so as to extend (with or without modifications) to any of the Channel Islands or the Isle of Man any amendment or repeal made by or under this Act of any part of an Act to which the provision listed in subsection (11) relates.
+
+(11) Those provisions are—
+
+- (a) section 36 of the Immigration Act 1971,
+- (b) section 9(3) of the Special Immigration Appeals Commission Act 1997,
+- (c) section 170(7) of the Immigration and Asylum Act 1999,
+- (d) section 163(4) of the Nationality, Immigration and Asylum Act 2002,
+- (e) section 49(3) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004,
+- (f) section 60(4) of the UK Borders Act 2007,
+- (g) section 57(5) of the Borders, Citizenship and Immigration Act 2009,
+- (h) section 60(6) of the Modern Slavery Act 2015,
+- (i) section 95(5) of the Immigration Act 2016, and
+- (j) section 86(4) of the Nationality and Borders Act 2022.
+
+## Annotations
+
+[^key-1391e86ecc810ed5733e30beca2a8b3e]: Commencement: S. 67 in force at Royal Assent, see [s. 68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c)

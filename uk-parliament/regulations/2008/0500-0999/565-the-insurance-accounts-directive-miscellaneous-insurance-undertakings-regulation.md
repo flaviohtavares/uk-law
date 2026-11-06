@@ -1,0 +1,866 @@
+---
+title: The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008
+id: uksi/2008/565
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-02-26'
+text_date: '2025-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2008/565
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/565/pdfs/uksiem_20080565_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/565/pdfs/uksi_20080565_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/565/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008
+
+> Text as at 2025-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2008 No. 565
+
+Insurance
+
+The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008
+
+Made
+
+26th February 2008
+
+Laid before Parliament
+
+5th March 2008
+
+Coming into force
+
+6th April 2008
+
+The Secretary of State is a Minister designated [^c19143981] for the purposes of section 2(2) of the European Communities Act 1972 [^c19143991] in relation to the creation, operation, regulation or dissolution of companies and other forms of business organisation, and in relation to auditors and the audit of accounts.
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of that Act.
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008.
+
+(2) These Regulations come into force on 6th April 2008 and apply in relation to—
+
+- (a) insurance undertakings' financial years beginning on or after that date, and
+- (b) auditors appointed in respect of those financial years.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Companies Accounts Regulations**” means the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 [^c19144011];
+- “**the appropriate audit authority**” means—
+  - (a) the Secretary of State, or
+  - (b) if the Secretary of State has delegated functions under section 1252 of the Companies Act 2006 [^c19144021] to a body whose functions include receiving the equivalent notice under section 522 or 523 of that Act, that body;
+- “the Authority” means—[^key-eb5e00d2718487d263637d39b888ca83]
+  - (a) in relation to an undertaking which is a PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), the Prudential Regulation Authority;
+  - (b) in any other case, the Financial Conduct Authority;
+- “**director**” includes, in the case of an undertaking which is not a company, any corresponding officer of that body;
+- “**enactment**” includes—
+  - (a) an enactment contained in subordinate legislation, other than these Regulations,
+  - (b) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament,
+  - (c) an enactment contained in, or in an instrument made under, Northern Ireland legislation, and
+  - (d) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales;
+- “**friendly society**” has the same meaning as in the Financial Services and Markets Act 2000 [^c19144041];
+- [^key-e0a0ec29e9da792e47b42b4cf61c9a2b]...
+- “**insurance undertaking**” shall be construed in accordance with paragraphs (2) and (3).
+- “registered society” means—[^key-cae2cbef9a4e49f4fc8053c3549d23ed]
+  - (a) a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014; or
+  - (b) a registered society within the meaning given by section 1A(1) of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969.[^key-c3196d4e3e927703e7e7c3c1630c46ab]
+
+(2) Subject to paragraph (3), a body incorporated in or formed under the law of any part of the United Kingdom is an insurance undertaking for the purposes of these Regulations if it—
+
+- (a) is incorporated by or registered under any public general Act of Parliament,
+- (b) requires permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance without contravening the prohibition imposed by section 19 of that Act, and
+- (c) is not required by any enactment to prepare accounts under Part 15 of the Companies Act 2006 (accounts and reports).
+
+(3) Paragraph (2)(b) must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000,
+- (b) the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c19144071],
+- (c) Schedule 2 to that Act.
+
+(4) A body is not an insurance undertaking for the purposes of these Regulations if it—
+
+- (a) would be excluded[^key-78566a597f34e81d03482bbfe2cdccd6] from the scope of Directive[^key-78cf6af7db6efe9337ebf2400743a588] [2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) by Article 4,[^key-80060e2b3c43999792a0b30fde042e42] 7, 9(1), 9(2) or 10(1) of that Directive, were the United Kingdom a member State[^key-ad46a4c1926f194c158072ac09f892f6] or ,
+- (b)[^key-9972193578ef2fa7216b55ac3e572003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) is a friendly society.
+
+(5) Any reference in these Regulations to the accounts required by or prepared under regulation 3 are references to the annual accounts, the strategic report,[^key-b25e2cba6e2ddb6c5018d53e944e8474] the directors' report and the auditor's report required by or prepared under paragraph (1) of that regulation.
+
+(6) Any reference in these Regulations to “**financial year**” in relation to an insurance undertaking means—
+
+- (a) any period in respect of which a profit and loss account, or in the case of a registered society[^key-4c18a035e0e6f0268bc180f93f1bca96], an annual return, of that undertaking is required to be made up by or in accordance with its constitution or by any enactment (whether that period is a year or not), or
+- (b) failing any such requirement, each period of 12 months beginning with 1st April.
+
+(7) Except as otherwise provided in these Regulations, words and expressions used in the Companies Act 2006 have the same meaning in these Regulations as they have in that Act.
+
+## PART 2 — ACCOUNTS
+
+### 3. Preparation of accounts by insurance undertakings
+
+(1) The directors of an insurance undertaking must in respect of each financial year of the undertaking—
+
+- (a) prepare the like annual accounts , strategic report[^key-e689d112a57d56df4ee44d90bdc6b2d8] and directors' report, and
+- (b) cause to be prepared such an auditor's report,
+
+as would be required under the provisions mentioned in paragraph (3) if the undertaking were a company which is an insurance company or the parent company of an insurance group.
+
+(2) The accounts required by this regulation must—
+
+- (a) be prepared within the period of 6 months beginning immediately after the end of the undertaking's financial year,
+- (b) state that they are prepared under this regulation, and
+- (c) comply with such of the requirements of the provisions mentioned in paragraph (3) as relate to the contents of accounts or reports subject, where the insurance undertaking is unincorporated, to any necessary modifications to take account of that fact.
+
+(3) The provisions referred to in paragraphs (1) and (2) are the following provisions of the Companies Act 2006 and the Companies Accounts Regulations—
+
+- (da)[^key-55ed1db99c47f81b86d7bf5555ec67ef] Chapters 4, 4A (apart from sections 414CA and 414CB) and 5 of Part 15 (accounts and reports) and Chapter 1 of Part 16 (requirement for audited accounts) of the Companies Act 2006,
+- (e) where Companies Act individual accounts are prepared, Schedule 3 to the Companies Accounts Regulations (insurance companies: Companies Act individual accounts) other than paragraphs 11, 62, 68, 70, 71, 72, 82(2), 83 and 84 and, in paragraph 2(2), the words from “save that none of the following” to the end,
+- (f) Schedule 4 to those Regulations (information on related undertakings required whether preparing Companies Act or IAS accounts) other than paragraphs 9 and 12,
+- (g) Schedule 5 to those Regulations (information about benefits of directors) other than paragraphs 2, 4 and 5,
+- (h) where Companies Act group accounts are prepared, Part 1 of Schedule 6 to the Companies Accounts Regulations (Companies Act group accounts: general rules) (as modified by Part 3 of that Schedule (modifications for insurance groups)) other than paragraphs 13(3) and (4), 14 and 15,
+- (i)[^key-e405e47a21bb0efaa886f6a2a2e8ffe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For the purposes of those provisions as applied to accounts prepared under this regulation, these Regulations are to be regarded as part of the requirements of the Companies Act 2006 and the Companies Accounts Regulations.
+
+(5) Regulations 5 and 6 of the Companies (Disclosure of Auditor Remuneration and Liability Limitation Agreements) Regulations 2008 [^c19144101] apply in relation to the accounts required by this regulation as they apply in relation to the annual accounts of a company or group which is not a small or medium-sized company or group.
+
+### 4. Publication of accounts
+
+(1) An insurance undertaking must—
+
+- (a) make available the latest accounts and reports prepared under regulation 3 for inspection by any person, without charge and during business hours, at the undertaking's head office in the United Kingdom, and
+- (b) supply to any person upon request a copy of those accounts (or such part of those accounts as may be requested) at a price not exceeding the administrative cost of making the copy.
+
+(2) In the case of registered societies[^key-4c6f0b74c1671c44d079ecb4c9283347] which are insurance undertakings, the obligation in paragraph (1) (b) is subject to the provisions of section 90(1) of the Co-operative and Community Benefit Societies Act 2014[^key-1eea573fdd5c30da903b90a8fbbde1b1] or section 48(6) of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-657e14ad60f43c21d80f706a015ae24c], as the case may be.
+
+### 5. Penalties for non-compliance (accounts)
+
+(1) If the directors of an insurance undertaking fail to comply with paragraph (1) of regulation 3 within the period referred to in paragraph (2) of that regulation, an offence is committed by every person who, immediately before the end of that period, was a director of the undertaking.
+
+(2) If accounts and reports which are made available for inspection under regulation 4(1) do not comply with the requirements of regulation 3, an offence is committed by every person who, at the time when the accounts and reports were or the account was first made available for inspection, was a director of the insurance undertaking.
+
+(3) If an insurance undertaking fails to comply with regulation 4(1) an offence is committed by—
+
+- (a) the insurance undertaking, and
+- (b) every director of the insurance undertaking who is in default.
+
+(4) Where the affairs of an insurance undertaking are managed by its members, any reference in this regulation to a director of the insurance undertaking shall be read as referring to a member of the undertaking.
+
+(5) In proceedings for an offence under this regulation[^key-666fc2ba08f470a748aa3be3fe5d066d] it is a defence for the person charged to show that he took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
+
+(6) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(7)[^key-9df4acc25eb8948aa8d8e9883b7264e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — AUDITORS
+
+### 6. Appointment of auditors
+
+(1)[^key-fb2cb5b6a30eea71fd65ae497d59b153] The sections of the Companies Act 2006 listed in paragraph (1A) apply in relation to the appointment of auditors of an insurance undertaking as if the undertaking was a private company which is also a public interest entity, subject—
+
+- (a) where the undertaking concerned is unincorporated, to any necessary modifications to take account of that fact, and
+- (b) to the modifications made by paragraph (2).
+
+(1A) The sections of the Companies Act 2006 are—
+
+- (a) 485 (appointment of auditors of private company: general),
+- (b) 485A (appointment of auditors of private company: additional requirements for public interest entities with audit committees),
+- (c) 485B (appointment of auditors of private company: additional requirements for public interest entities without audit committees),
+- (d) 485C (restriction on appointment of auditor of private company which is a public interest entity),
+- (e) 486 (appointment of auditors of private company: default power of Secretary of State),
+- (f) 486A (defective appointments: default power of Secretary of State),
+- (g) 487 (term of office of auditors of private company),
+- (h) 488 (prevention by members of deemed re-appointment of auditor), and
+- (i) 494ZA (the maximum engagement period).
+
+(2) The modifications are—
+
+- (a) in section 485(2)(a), the reference to “**the time allowed for sending out copies of the company's annual accounts and reports**” is to be construed as a reference to the time allowed under regulation 3(2)(a) of these Regulations for preparing the accounts required by regulation 3;
+- (b) in section 485(2)(b), the reference to “**the day on which copies of the company's annual accounts and reports for the previous financial year are sent out under section 423**” is to be construed as a reference to the day on which the accounts required by regulation 3 are prepared;
+- (ba)[^key-aec515d2573e2e7c97c704602202fe1b] in section 485A(4), the words after “Audit Regulation” are omitted;
+- (bb) in section 485B(4), the words after “must be drawn” are omitted;
+- (c) in section 487(3), the reference to “**the provisions of this Part as to removal and resignation of auditors**” is to be construed as a reference to provisions in these Regulations, and to any public general Act governing an insurance undertaking, as to removal and resignation of auditors;
+- (d) in section 488(3)(c), the reference to “**the accounting reference period**” is to be construed as a reference to the financial year.
+
+(3)[^key-f11dfe483ea8fcf853dd239f4ad0c7db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-f11dfe483ea8fcf853dd239f4ad0c7db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Functions of auditor
+
+(1) The following provisions of the Companies Act 2006 apply to the auditor of an insurance undertaking as they apply to an auditor of a private[^key-f4380413a2c851cbb5755f6dca673777] company—
+
+- (a) section 495 (auditor's report on company's annual accounts);
+- (aa)[^key-badc4bf168e3df45a2d7ed7056436726] section 496 (auditor’s report on strategic report and directors’ report);
+- (b) section 498 (duties of auditor);
+- (c)[^key-df3c16e6462b1dff36c9e07ad6f4a22d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The auditor of an insurance undertaking must supply the directors of that undertaking with such information as is necessary to enable the disclosure required by regulation 3(5) to be made.
+
+(3)[^key-4973cfc34503544f79442b24e0ebd335] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Signature of auditor's report
+
+(1) Sections 503 to 506 of the Companies Act 2006 (signature of auditor's report) apply in relation to the auditor's report required by regulation 3(1)(b), subject to—
+
+- (a) any necessary modifications to take account of the fact that the insurance undertaking is unincorporated, and
+- (b) the modifications made by paragraph (2).
+
+(2) The modifications are—
+
+- (a) in section 505(1)(b) and section 506(2)(b), the references to the Secretary of State are to be construed as references to the Authority and the Financial Conduct Authority (if it is not the Authority)[^key-05fc8a3811b4b391088c068e50a5c981], and
+- (b) in section 506(1)(b), the reference to the copy of the report delivered to the registrar under Chapter 10 of Part 15 (filing of accounts and reports) is to be construed as a reference to any copy of the report made available for inspection by, or supplied to, the Authority and the Financial Conduct Authority (if it is not the Authority).
+
+(3)[^key-b3008a2731c8d4e070c2fc88f96332c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8A. Offences in connection with auditor’s report and guidance[^key-779e80672aea5229d168ecba4ad44d4d]
+
+Sections 507 to 509 of the Companies Act 2006 apply in relation to an auditor’s report on an insurance undertaking’s annual accounts as they apply to an auditor’s report on a private company’s annual accounts, subject to the modification that references in those sections to provisions of the Companies Act 2006 are to be construed as references to those provisions as applied by these Regulations.
+
+### 9. Removal of auditors on improper grounds
+
+(1) Where the auditor of an insurance undertaking is removed from office an application may be made to the High Court under this regulation.
+
+(2) The persons who may make such an application are—
+
+- (a) any member of the insurance undertaking who was also a member at the time of the removal, [^key-ff9db7d5fd89e97bb568f399e9f01498]...
+- (b) the Authority;[^key-f0072bf8845cfba84ef1219103835575] and[^key-d0e01e74b7db0854fb88b1ccd19f8f65]
+- (c) the Financial Conduct Authority (in cases where it is not the Authority).
+
+(3) If the court is satisfied that the removal was—
+
+- (a) on grounds of divergence of opinion on accounting treatments or audit procedures, or
+- (b) on any other improper grounds,
+
+it may make such order as it thinks fit for giving relief in respect of the removal.
+
+(4) The court may, in particular—
+
+- (a) declare that any resolution of the insurance undertaking removing an auditor, or appointing a new auditor in his place, is void;
+- (b) require the directors of the insurance undertaking to re-appoint the dismissed auditor until the next general meeting of the insurance undertaking;
+- (c) give directions as to the conduct of the insurance undertaking's affairs in the future.
+
+(5) In the application of this regulation to an insurance undertaking whose principal place of business is in Scotland or Northern Ireland, references to the High Court are to be read as references to the Court of Session or, as the case may be, the High Court in Northern Ireland.
+
+### 9A. Application to court to remove auditor from office[^key-3467064d92411888ee53909231aeb184]
+
+(1) The Financial Reporting Council Limited may apply to the High Court for an order removing an auditor of an insurance undertaking from office if the Council considers that there are proper grounds for removing the auditor from office.
+
+(2) The members of an insurance undertaking may apply to the High Court for an order removing an auditor of the undertaking from office if the applicant or applicants consider that there are proper grounds for removing the auditor from office.
+
+(3) If the court is satisfied, on hearing an application under paragraph (1), that there are proper grounds for removing the auditor from office, it may make an order removing the auditor from office.
+
+(4) If the court is satisfied, on hearing an application under paragraph (2), that—
+
+- (a) the applicants represent in total—
+  - (i) not less than 5% of the voting rights of all the members for the time being entitled to vote at a general meeting of the insurance undertaking, or
+  - (ii) not less than 5% in nominal value of any share capital of the insurance undertaking as shown by the latest balance sheet, and
+- (b) there are proper grounds for removing the auditor from office,
+
+the court may make an order removing the auditor from office.
+
+(5) For the purposes of this regulation, divergence of opinions on accounting treatments or audit procedures are not to be taken to be proper grounds for removing an auditor from office.
+
+(6) In the application of this regulation to an insurance undertaking whose principal place of business is in Scotland or Northern Ireland, references to the High Court are to be read as references to the Court of Session or, as the case may be, the High Court in Northern Ireland.
+
+### 10. Duty of auditor to notify appropriate audit authority
+
+(1) Where an auditor of an insurance undertaking ceases for any reason to hold office, he must notify the appropriate audit authority.
+
+(2) The notice must—
+
+- (a) inform the appropriate audit authority that he has ceased to hold office, and
+- (b) if the auditor resigns, be accompanied by a copy of any notice of resignation and a statement of the reasons for his resignation.
+
+(3) The auditor must comply with this regulation—
+
+- (a) if he resigns, at the same time as he deposits his notice of resignation at the head office of the insurance undertaking or otherwise informs it of his resignation;
+- (b) in any other case, not later than the end of the period of 14 days beginning with the date on which he ceases to hold office.
+
+### 11. Duty of insurance undertaking to notify appropriate audit authority
+
+(1) Where an auditor of an insurance undertaking ceases to hold office before the end of his term of office, the undertaking must notify the appropriate audit authority.
+
+(2) The notice must—
+
+- (a) inform the appropriate audit authority that the auditor has ceased to hold office, and
+- (b) be accompanied by—
+  - (i) a statement by the undertaking of the reasons for his ceasing to hold office, or
+  - (ii) if the auditor has resigned and he has given the insurance undertaking a statement of the reasons for his resignation, a copy of that statement.
+
+(3) The insurance undertaking must give notice under this paragraph—
+
+- (a) if the auditor resigns, not later than the end of the period of 14 days beginning with the date on which the auditor first informs the insurance undertaking of his resignation (whether by notice deposited at its head office or otherwise);
+- (b) in any other case, not later than the end of the period of 14 days beginning with the date on which the auditor ceases to hold office.
+
+### 12. Penalties for non-compliance (notification of appropriate audit authority)
+
+(1) If an auditor fails to comply with regulation 10, an offence is committed by—
+
+- (a) the auditor, and
+- (b) if the auditor is a firm, every officer of the firm who is in default.
+
+(2) If an insurance undertaking fails to comply with regulation 11, an offence is committed by—
+
+- (a) the insurance undertaking, and
+- (b) every director of the insurance undertaking who is in default.
+
+(2A)[^key-b1ad9db27df9aeeceb5c2ee84234591e] In relation to an offence by a body under paragraph (1)—
+
+- (a) any person who purports to act as director, manager or secretary of the body is treated as an officer of the body, and
+- (b) if the body is a company, any shadow director is treated as an officer of the company.
+
+(3)[^key-6f872c97e7f3829841ee315db776582e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In proceedings for an offence under this section it is a defence for the person charged to show that he took all reasonable steps and exercised all due diligence to avoid the commission of the offence.
+
+(5) A person guilty of an offence under this regulation is liable—
+
+- (a) on conviction on indictment, to a fine, and
+- (b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+(6)[^key-9a3448fc16c30c5f2a450085f39baf00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — FINAL PROVISIONS
+
+### 13. Summary proceedings: venue and time limit[^key-374dbba30873fd73ddcfa2b7b900ddee]
+
+The following provisions of the Companies Act 2006 apply in relation to an offence under these Regulations (or under a provision of the Act as applied by these Regulations) as they apply to offences under that Act—
+
+- (a) section 1121 (liability of officer in default);
+- (b) section 1122 (liability of company as officer in default);
+- (c) section 1123 (application to bodies other than companies);
+- (d) section 1125 (meaning of “daily default fine”);
+- (e) section 1127 (summary proceedings: venue);
+- (f) section 1128 (summary proceedings: time limit for proceedings);
+- (g) section 1130 (proceedings against unincorporated bodies).
+
+### 14. Registered societies[^key-a1d7bfd1b6ab4756a893ff4f2a59355c]
+
+(1) Schedule 1 to these Regulations makes provision for the modification of the Co-operative and Community Benefit Societies Act 2014[^key-bd814811a7313aa6367a3c639beb32c5] in its application to registered societies[^key-a34377497ddc7a270c6b4403cd034a4a] that are insurance undertakings for the purposes of these Regulations.
+
+(2) Schedule 2 makes provision for the modification of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-f1a43760bce3fb036f1363fc72470244] in its application to registered societies that are insurance undertakings for the purposes of these Regulations.
+
+(3) The Co-operative and Community Benefit Societies (Group Accounts) Regulations 1969[^key-7ccedb719553bca181e852b045d5a2ae] and the Industrial and Provident Societies Act (Group Accounts) Regulations (Northern Ireland) 1969 do not apply to registered societies that are insurance undertakings for the purposes of these Regulations.
+
+(4) Notwithstanding anything in the rules of the society, the committee of a registered society[^key-49cd4eefe3885e291ce6431d5fe6e603] that is an insurance undertaking for the purposes of these Regulations may by resolution passed before 1st April 2009 make such amendments of the rules of the society as may be consequential on the provisions of these Regulations.
+
+(5) The Financial Conduct Authority[^key-42b878748bb0c9c8fda8e7b25e5acd04] is not required to register any amendment of the rules of such a society unless such consequential amendments of the rules of the society as are mentioned in paragraph (4) either have been made before the application for registration of that amendment or are to be effected by that amendment.
+
+### 15. Consequential amendments
+
+(1) In section 1210 of the Companies Act 2006 [^c19144141] (meaning of “statutory auditor” etc)—
+
+- (a) for subsection (1)(f) substitute—
+
+  > - (f) a person appointed as auditor of an insurance undertaking for the purposes of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008,
+
+  ; and
+- (b) omit—
+  - (i) subsection (1)(d), and
+  - (ii) in subsection (3), omit the definition of “industrial and provident society”.
+
+(2) In section 4A(3) of the Friendly and Industrial and Provident Societies Act 1968 (power to disapply obligation to appoint auditor: excluded cases) [^c19144151], omit paragraph (d) (but not the word “or” following it).
+
+(3) In section 38A of the Industrial and Provident Societies (Northern Ireland) Act 1969 (power to disapply obligation to appoint auditor: excluded cases) [^c19144161], omit paragraph (c) (but not the word “or” following it).
+
+### 16. Revocation
+
+(1) The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 1993 [^c19144171] and the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations (Northern Ireland) 1994 [^c19144181] are revoked.
+
+(2) The regulations specified in paragraph (1) continue to apply to any financial year of an insurance undertaking beginning before 6th April 2008.
+
+### 17. Review[^key-76ea614bbc4bc04e611162809339ec96]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations to which amendments have been made by Schedule 2 to the Statutory Auditors Regulations 2017, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 1st January 2023.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4)[^key-15377b57d04c292b334d7e4b9f3b86a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a),
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(6) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Gareth Thomas
+
+Parliamentary Under Secretary of State for Trade and Consumer Affairs,
+
+Department for Business, Enterprise and Regulatory Reform
+
+## SCHEDULE 1 — Modification of the Co-operative and Community Benefit Societies Act 2014[^key-c11f36a6235792d4e50a32c6661df0ec]
+
+Regulation 14(1)
+
+**1.** In its application to registered societies that are insurance undertakings for the purposes of these Regulations, the Co-operative and Community Benefit Societies Act 2014 has effect subject to the following modifications.
+
+**2.** Omit sections 79 (duty to prepare revenue accounts) and 80 (accounts and balance sheets to give a true and fair view).
+
+**3.** For section 82 (restrictions on publication of accounts and balance sheets) substitute—
+
+> **82. Restrictions on publication of accounts and balance sheets**
+>
+> (1) A registered society must not publish—
+>
+> - (a) a profit and loss account prepared under section 396 of the Companies Act 2006 as applied by regulation 3 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008, or
+> - (b) a balance sheet,
+>
+> unless the account or balance sheet is signed by the society’s secretary and is signed by two members of its committee acting on behalf of the committee.
+>
+> (2) If a society publishes any of its statutory accounts, they must be accompanied by the relevant auditor’s report.
+>
+> (3) A society which is required to prepare group accounts for a financial year must not publish its statutory individual accounts for that year without also publishing with them its statutory group accounts.
+>
+> (4) If a society publishes non-statutory accounts, it must publish with them a statement indicating—
+>
+> - (a) that they are not the society’s statutory accounts,
+> - (b) whether statutory accounts dealing with any financial year with which the non-statutory accounts purport to deal have been delivered to the FCA,
+> - (c) whether the society’s auditor has made a relevant auditor’s report,
+> - (d) whether any such auditor’s report—
+>   - (i) was qualified or unqualified, or included a reference to any matters to which the auditors drew attention by way of emphasis without qualifying the report, or
+>   - (ii) contained a statement under section 498(2) or (3) of the Companies Act 2006 as applied by regulation 7 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008 (accounting records or returns inadequate, accounts not agreeing with records and returns or failure to obtain necessary information and explanations),
+>
+>   and it must not publish with the non-statutory accounts any auditor’s report required by sections 496 and 497 of the Companies Act 2006 as applied by regulation 7 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008.
+>
+> (5) For the purposes of this section a society is regarded as publishing a document if it publishes, issues or circulates it or otherwise generally makes it available for public inspection in a manner calculated to invite members of the public generally, or any class of members of the public, to read it.
+>
+> (6) In this section—
+>
+> - (a) references to a society’s statutory accounts are to its individual or group accounts for a financial year as required to be prepared by regulation 3 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008;
+> - (b) references to the relevant auditor’s report are to the report required to be prepared by sections 495 and 496 of the Companies Act 2006 as applied by regulation 7 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008 in relation to the statutory accounts concerned;
+> - (c) references to the publication by a society of “non-statutory accounts” are to the publication of—
+>   - (i) any balance sheet or profit and loss account relating to, or purporting to deal with, a financial year of the society, or
+>   - (ii) an account in any form purporting to be a balance sheet or profit and loss account for the group consisting of the society and its subsidiary undertakings relating to, or purporting to deal with, a financial year of the society,
+>
+>   otherwise than as part of the society’s statutory accounts.
+
+.
+
+**4.** Omit sections 83 to 88 (matters relating to appointment of an auditor and the auditor’s report).
+
+**5.** In section 89 (annual returns)—
+
+- (a) in subsection (2)(a), for “the society’s revenue account” to “section 79” substitute “the profit and loss account required to be prepared by section 396 of the Companies Act 2006 as applied by regulation 3 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008”;
+- (b) for subsection (2)(b) substitute—
+
+  > - (b) must not contain any other accounts.
+
+  ;
+- (c) for subsection (3) substitute—
+
+  > (3) “Relevant auditor’s report” means the report required to be prepared by sections 495 and 496 of the Companies Act 2006 as applied by regulation 7 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008.
+
+  .
+
+**6.** In section 90 (duty to provide copy of annual return on demand), omit subsection (2)(a)(ii) and the preceding “or”.
+
+**7.** For section 91 (meaning of “qualified auditor”) substitute—
+
+> **91. Meaning of “qualified auditor”**
+>
+> References in this Part to a qualified auditor, in relation to a society, are to a person who—
+>
+> - (a) is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006, and
+> - (b) is not prohibited from acting as statutory auditor of the society by virtue of section 1214 of that Act (independence requirement).
+
+.
+
+**8.** Omit section 92 (persons ineligible for appointment as auditors etc).
+
+**9.** In section 93 (re-appointment and removal of qualified auditors)—
+
+- (a) in subsection (2)—
+  - (i) at the end of paragraph (a) insert “or”;
+  - (ii) omit paragraph (c) and the “or” preceding it;
+- (b) in subsection (3)—
+  - (i) in the introductory words, omit “the auditor”;
+  - (ii) at the beginning of each of paragraphs (a) and (c), insert “the auditor”;
+  - (iii) for paragraph (b) substitute—
+
+    > - (b) the auditor is ineligible for appointment for the current year of account;
+
+    ;
+  - (iv) after paragraph (c) insert—
+
+    > - (d) the auditor was appointed by the committee,
+    > - (e) the society’s rules require actual re-appointment, or
+    > - (f) the re-appointment is prevented by the members under section 93A.
+
+    ;
+- (c) in subsection (4)(b)(ii), for “ineligible for appointment” substitute “not a qualified auditor”;
+- (d) omit subsection (5);
+- (e) at the end insert—
+
+  > (6) A person who is not automatically re-appointed as auditor by virtue of subsection (3)(d) of this section may be re-appointed by the committee for the current year of account and for any subsequent year of account commencing before the next general meeting of the society. However, he may only be re-appointed for any year of account commencing on or after the date of that general meeting by a resolution of the society at that meeting.
+
+  .
+
+**10.** After section 93 insert—
+
+> **93A. Prevention by members of automatic re-appointment of auditor**
+>
+> (1) An auditor of a society is not automatically re-appointed under section 93 of this Act if the society has received notices under this section from members representing at least the requisite percentage of the total voting rights of all members who would be entitled to vote on a resolution that the auditor should not be re-appointed.
+>
+> (2) The “requisite percentage” is 5%, or such lower percentage as is specified for this purpose in the society’s rules.
+>
+> (3) A notice under this section—
+>
+> - (a) may be in hard copy or electronic form,
+> - (b) must be authenticated by the person or persons giving it, and
+> - (c) must be received by the society before the end of the year of account immediately preceding the year of account for which the automatic re-appointment would have effect.
+
+.
+
+**11.** In section 97 (remuneration of qualified auditors)—
+
+- (a) omit subsection (1)(b);
+- (b) in subsection (3) omit—
+  - (i) “or person appointed to make a relevant report”, and
+  - (ii) “or person’s”.
+
+**12.** In section 98 (group accounts), omit all subsections other than subsections (1) and (8).
+
+**13.** Omit sections 99 to 101 (exceptions to section 98 and interpretation).
+
+**14.** In section 102 (interpretation of Part 7)—
+
+- (a) after the definition of “equity share capital” insert—
+
+  > - “group accounts” means the accounts required by regulation 3 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008 to be prepared in accordance with section 404 of the Companies Act 2006;
+
+  ;
+- (b) omit the definitions of—
+  - (i) “small society”;
+  - (ii) “subsidiary”.
+
+**15.** In section 127 (general offences)—
+
+- (a) subsection (1) were omitted;
+- (b) in subsection (2)—
+  - (i) in paragraph (a), after “Part 7” insert “as modified by the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008,”;
+  - (ii) omit paragraph (b) and the “or” preceding it.
+
+## SCHEDULE 2 — MODIFICATION OF THE CO-OPERATIVE AND COMMUNITY BENEFIT SOCIETIES ACT (NORTHERN IRELAND) 1969[^key-d6b70a0db806150705a51f5b2b34a022]
+
+Regulation 14(2)
+
+**1.** In its application to registered societies[^key-e6ddcc7e7ab9c05961880587b765aacf] that are insurance undertakings for the purposes of these Regulations the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-d6b05e8293d58657a1024df304fe147f] shall have effect subject to the following modifications.
+
+**2.** Section 37 (general provisions as to accounts and balance sheets of societies) does not apply.
+
+**3.** In section 37A (publication of accounts and balance sheets of registered societies) [^c19144251], for subsections (2) to (12) substitute—
+
+> (2) If a society publishes any of its statutory accounts, they must be accompanied by the relevant auditors' report under the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008.
+>
+> (3) A society which is required to prepare group accounts for a financial year shall not publish its statutory individual accounts for that year without also publishing with them its statutory group accounts.
+>
+> (4) If a society publishes non-statutory accounts, it shall publish with them a statement indicating—
+>
+> - (a) that they are not the society's statutory accounts,
+> - (b) whether statutory accounts dealing with any financial year with which the non-statutory accounts purport to deal have been delivered to the registrar,
+> - (c) whether the society's auditors have made a report under the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008,
+> - (d) whether any such auditors' report—
+>   - (i) was qualified or unqualified, or included a reference to any matters to which the auditors drew attention by way of emphasis without qualifying the report, or
+>   - (ii) contained a statement under section 498(2) or (3) of the Companies Act 2006 as applied to registered societies[^key-c071df4eccbc2a38e8f455159a81a659] by the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008 (accounting records or returns inadequate, accounts not agreeing with records and returns or failure to obtain necessary information and explanations),
+>
+>   and it shall not publish with the non-statutory accounts any auditors' report under the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008.
+>
+> (5) For the purposes of this section a society shall be regarded as publishing a document if it publishes, issues or circulates it or otherwise generally makes it available for public inspection in a manner calculated to invite members of the public generally, or any class of members of the public, to read it.
+>
+> (6) References in this section to a society's statutory accounts are to its individual or group accounts for a financial year as required to be prepared by the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008; and references to the publication by a society of “non-statutory accounts” are to the publication of—
+>
+> - (a) any balance sheet or profit and loss account relating to, or purporting to deal with, a financial year of the society, or
+> - (b) an account in any form purporting to be a balance sheet or profit and loss account for the group consisting of the society and its subsidiary undertakings relating to, or purporting to deal with, a financial year of the society,
+>
+> otherwise than as part of the society's statutory accounts.
+
+.
+
+**4.** Sections 38 and 38A (appointment of auditors) do not apply.
+
+**5.** In section 39 (re-appointment and removal of auditors) [^c19144261]—
+
+- (a) in subsection (1), at the end of paragraph (d) insert—
+
+  > , or
+  >
+  > - (e) he was appointed by the committee, or
+  > - (f) the society's rules require actual re-appointment, or
+  > - (g) the re-appointment is prevented by the members under section 39A
+
+  .
+- (b) after subsection (2) insert—
+
+  > (3) A person who is not automatically re-appointed as auditor by virtue of subsection (1)(e) of this subsection may be re-appointed by the committee for the current year of account and for any subsequent year of account commencing before the next general meeting of the society. However, he may only be re-appointed for any year of account commencing on or after the date of that general meeting by a resolution of the society at that meeting.
+
+  .
+
+**6.** After section 39, insert—
+
+> **39A. Prevention by members of automatic re-appointment of auditor**
+>
+> (1) An auditor of a society is not automatically re-appointed under section 39 of this Act if the society has received notices under this section from members representing at least the requisite percentage of the total voting rights of all members who would be entitled to vote on a resolution that the auditor should not be re-appointed.
+>
+> (2) The “requisite percentage” is 5%, or such lower percentage as is specified for this purpose in the society's rules.
+>
+> (3) A notice under this section—
+>
+> - (a) may be in hard copy or electronic form,
+> - (b) must be authenticated by the person or persons giving it, and
+> - (c) must be received by the society before the end of the year of account immediately preceding the year of account for which the automatic re-appointment would have effect.
+
+.
+
+**7.** For section 41 (qualified auditors) substitute—
+
+> **41. Qualified auditors**
+>
+> References in this Act to a qualified auditor, in relation to a society, are to a person who—
+>
+> - (a) is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006, and
+> - (b) is not prohibited from acting as statutory auditor of the society by virtue of section 1214 of that Act (independence requirement).
+
+.
+
+**8.** Section 42 (restrictions on appointment of auditors) does not apply.
+
+**9.** In section 43 (auditors' report and rights), only subsection (5) (auditors' rights of access to books and to require information and explanations) applies.
+
+**10.** Sections 43A to 43C (reporting accountant procedure) do not apply.
+
+**11.** In section 44 (remuneration of auditors) [^c19144271], the following do not apply—
+
+- (a) in subsection (1), the words from “or for the making of a report” to the end;
+- (b) in subsection (2), the words “or reporting accountant”;
+- (c) subsection (3).
+
+**12.** In section 45 (group accounts)—
+
+- (a) subsections (1) to (5) do not apply;
+- (b) in subsection (6) for “under subsection (5)” substitute “on those accounts”.
+
+**13.** Section 46 (exemption from requirements in respect of group accounts) does not apply.
+
+**14.** Section 47 (meaning of “subsidiary”) does not apply.
+
+**15.** In section 48 (annual returns) [^c19144281]—
+
+- (a)[^key-b5163a9021ce28a0c4c94880237cd2d0] for subsection (1A), substitute—
+
+  > (1A) “Relevant auditor’s report” means—
+  >
+  > - (a) the auditor’s report required to be prepared by sections 495 and 496 of the Companies Act 2006 as applied by regulation 7 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008, and
+  > - (b) any auditor’s report on a balance sheet made during the year;
+- (c) in subsection (2) (a), for “the revenue account or accounts of the society prepared in accordance with section 37(2)” substitute “the profit and loss account required to be prepared by section 396 of the Companies Act 2006 as applied by regulation 3 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008”; and
+- (d) for subsection (2)(b) substitute—
+
+  > - (b) shall not contain any other accounts.
+
+  ;
+- (e) subsection (6A) does not apply.
+
+**16.** In section 101 (interpretation)—
+
+- (a) insert at the appropriate place—
+
+  > “**accounts**” means the profit and loss account required to be prepared by section 396 of the Companies Act 2006 as applied by regulation 3 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008;
+
+  ;
+- (b) for the definition of “group accounts” substitute—
+
+  > “**group accounts**” means the accounts required to be prepared by section 404 of the Companies Act 2006 as applied by regulation 3 of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008;
+
+  ;
+- (c) the definition of “subsidiary” does not apply.
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made under section 2(2) of the European Communities Act 1972. They apply to the insurance undertakings specified in regulation 2(2) to (4) which are incorporated in or formed under the law of any part of the United Kingdom. They replace the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 1993 (S.I. 1993/3245) (“**the 1993 Regulations**”) which applied to such undertakings incorporated in or formed under the law of Great Britain, and the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations (Northern Ireland) 1994 (S.R. 1994/429) (“**the 1994 Regulations**”) which applied to such undertakings formed or incorporated under the law of Northern Ireland.
+
+The Regulations continue the implementation of Council Directive [91/674/EEC](https://www.legislation.gov.uk/european/directive/1991/0674) (O.J. L374, 31.12.1991, p.7) on the annual accounts and consolidated accounts of insurance undertakings. They also implement, in part, Directive [2006/43/EC](https://www.legislation.gov.uk/european/directive/2006/0043) on statutory audits of annual accounts and consolidated accounts (O.J. L157, 9.6.2006, p.87) (“**the Audit Directive**”).
+
+The Regulations come into force on 6th April 2008 and apply to financial years of the insurance undertakings to which they relate beginning on or after that date and auditors appointed in respect of those financial years (regulation 1(2)).
+
+Regulation 2(2) to (4) re-enacts the provisions of the 1993 and 1994 Regulations defining the insurance undertakings which are subject to the accounting requirements of these Regulations.
+
+Regulation 3 re-enacts the requirements of the 1993 and 1994 Regulations that insurance undertakings prepare accounts and directors' reports, and cause to be prepared auditors' reports, as if they were insurance companies or parent companies of insurance groups (within the meaning of the Companies Act 2006). The accounts are to comply with the provisions set out in regulation 3(3) and are to be prepared within the period of 6 months from the end of the relevant financial year, which is a reduction of the period for such preparation from 7 months as provided for in the 1993 and 1994 Regulations. This reflects the new time limit in section 442(2)(b) of the Companies Act 2006.
+
+Regulation 3(5) applies the relevant provisions of the Companies (Disclosure of Auditor Remuneration and Liability Limitation Agreements) Regulations 2008 to insurance undertakings. This implements Article 49 of the Audit Directive on the disclosure of auditor remuneration.
+
+Regulation 4 re-enacts the requirements of the 1993 and 1994 Regulations relating to publication of the accounts. Regulation 5 re-enacts the penalties for non-compliance with the provisions of regulations 3 and 4.
+
+Regulation 6 implements Article 37 of the Audit Directive, which requires the auditor to be appointed by the general meeting of shareholders or members of the audited entity. It does so by applying sections 485 to 488 of the Companies Act 2006. Regulation 7 imposes equivalent functions on auditors to those imposed by the Companies Act 2006, and Regulation 8 implements Article 28.1 of the Audit Directive on signature of the auditor's report.
+
+Regulation 9 implements Article 38.1 of the Audit Directive, which requires Member States to ensure that auditors may be dismissed only where there are proper grounds. It creates a new right to apply to the High Court, which may be exercised by a member of the insurance undertaking or by the Financial Services Authority.
+
+Regulations 10 and 11 implement Article 38.2 of the Audit Directive, which requires Member States to ensure that the audited entity and the auditor inform the authorities responsible for public oversight of the resignation or dismissal of the auditor. Regulation 12 contains penalties for non-compliance with regulations 10 and 11.
+
+Regulation 14 and Schedules 1 and 2 modify the Friendly and Industrial and Provident Societies Act 1968 and the Industrial and Provident Societies (Northern Ireland) Act 1969 and regulation 15 makes consequential amendments to these enactments. Regulation 15 also makes a consequential amendment to section 1210 of the Companies Act 2006.
+
+Regulation 16 revokes the 1993 and 1994 Regulations and makes transitional provision for the continued application of those regulations after revocation in respect of financial years beginning before 6th April 2008.
+
+A transposition note has been prepared which sets out how Directive 2006/43 is to be transposed into UK law. An Impact Assessment of the effect that the implementation of Directive 2006/43 will have on the costs of business, charities or voluntary bodies has also been prepared. Both are available from the Department for Business, Enterprise and Regulatory Reform, Corporate Law and Governance Directorate, 1 Victoria Street, London, SW1H 0ET. They are also available electronically at www.berr.gov.uk. Copies have also been placed in the libraries of both Houses of Parliament. Otherwise, an Impact Assessment has not been produced for these Regulations as they have only a negligible impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^c19143981]: Marginal citation: [S.I. 2007/193](https://www.legislation.gov.uk/uksi/2007/193) and [S.I. 2007/1679](https://www.legislation.gov.uk/uksi/2007/1679).
+
+[^c19143991]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c19144011]: Marginal citation: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410).
+
+[^c19144021]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-eb5e00d2718487d263637d39b888ca83]: Textual amendment: Words in reg. 2 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 137(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/137/a)
+
+[^c19144041]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-e0a0ec29e9da792e47b42b4cf61c9a2b]: Textual amendment: Words in reg. 2(1) omitted (1.8.2014) by virtue of [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(2)(a)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/2/a)
+
+[^key-cae2cbef9a4e49f4fc8053c3549d23ed]: Textual amendment: Words in reg. 2(1) inserted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(2)(b)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/2/b)
+
+[^key-c3196d4e3e927703e7e7c3c1630c46ab]: Textual amendment: Words in reg. 2(1) substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/2/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^c19144071]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544) as amended by [S.I. 2001/3544](https://www.legislation.gov.uk/uksi/2001/3544), [S.I](https://www.legislation.gov.uk/uksi/2001/3544/section/I). 2002/682, [S.I. 2002/1310](https://www.legislation.gov.uk/uksi/2002/1310), [S.I](https://www.legislation.gov.uk/uksi/2002/1310/section/I). 2002/1776, [S.I. 2002/1777](https://www.legislation.gov.uk/uksi/2002/1777), [S.I](https://www.legislation.gov.uk/uksi/2002/1777/section/I). 2003/1475, [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), [S.I](https://www.legislation.gov.uk/uksi/2003/1476/section/I). 2003/2822, [S.I. 2004/1610](https://www.legislation.gov.uk/uksi/2004/1610), [S.I](https://www.legislation.gov.uk/uksi/2004/1610/section/I). 2004/2737, [S.I. 2004/3379](https://www.legislation.gov.uk/uksi/2004/3379), [S.I](https://www.legislation.gov.uk/uksi/2004/3379/section/I). 2005/593, [S.I. 2005/1518](https://www.legislation.gov.uk/uksi/2005/1518), [S.I](https://www.legislation.gov.uk/uksi/2005/1518/section/I). 2005/2114 and [S.I. 2006/1969](https://www.legislation.gov.uk/uksi/2006/1969).
+
+[^key-78566a597f34e81d03482bbfe2cdccd6]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2008/565/regulation/2/4/a) substituted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [47(a)](https://www.legislation.gov.uk/uksi/2019/177/regulation/47/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-78cf6af7db6efe9337ebf2400743a588]: Textual amendment: Words in reg. 2(4)(a) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 27(2)(a)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/27/2/a)
+
+[^key-80060e2b3c43999792a0b30fde042e42]: Textual amendment: Word in reg. 2(4) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/2/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-ad46a4c1926f194c158072ac09f892f6]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2008/565/regulation/2/4/a) inserted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [47(b)](https://www.legislation.gov.uk/uksi/2019/177/regulation/47/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9972193578ef2fa7216b55ac3e572003]: Textual amendment: Reg. 2(4)(b) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 27(2)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/27/2/b)
+
+[^key-b25e2cba6e2ddb6c5018d53e944e8474]: Textual amendment: Words in reg. 2(5) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/2/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-4c18a035e0e6f0268bc180f93f1bca96]: Textual amendment: Words in reg. 2(6)(a) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(3)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/3)
+
+[^key-e689d112a57d56df4ee44d90bdc6b2d8]: Textual amendment: Words in reg. 3(1)(a) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-55ed1db99c47f81b86d7bf5555ec67ef]: Textual amendment: Reg. 3(3)(da) substituted for reg. 3(3)(a)-(d) (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3/b/i) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-e405e47a21bb0efaa886f6a2a2e8ffe7]: Textual amendment: [Reg. 3(3)(i)](https://www.legislation.gov.uk/uksi/2008/565/regulation/3/3/i) omitted (with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [6(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/6/2)
+
+[^c19144101]: Marginal citation: [S.I. 2008/489](https://www.legislation.gov.uk/uksi/2008/489).
+
+[^key-4c6f0b74c1671c44d079ecb4c9283347]: Textual amendment: Words in reg. 4(2) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(4)(a)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/4/a)
+
+[^key-1eea573fdd5c30da903b90a8fbbde1b1]: Textual amendment: Words in reg. 4(2) substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/4/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-657e14ad60f43c21d80f706a015ae24c]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2008/565/regulation/4/2) substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/4/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-666fc2ba08f470a748aa3be3fe5d066d]: Textual amendment: Word in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2008/565/regulation/5/5) substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/5/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-9df4acc25eb8948aa8d8e9883b7264e6]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2008/565/regulation/5/7) omitted (with effect in accordance with reg. 2(4) of the amending S.I.) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/5/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-fb2cb5b6a30eea71fd65ae497d59b153]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/565/regulation/6/1)[(1A)](https://www.legislation.gov.uk/uksi/2008/565/regulation/6/1A) substituted for [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/565/regulation/6/1) (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-aec515d2573e2e7c97c704602202fe1b]: Textual amendment: [Reg. 6(2)(ba)](https://www.legislation.gov.uk/uksi/2008/565/regulation/6/2/ba)[(bb)](https://www.legislation.gov.uk/uksi/2008/565/regulation/6/2/bb) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-f11dfe483ea8fcf853dd239f4ad0c7db]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2008/565/regulation/6/3)[(4)](https://www.legislation.gov.uk/uksi/2008/565/regulation/6/4) omitted (with effect in accordance with reg. 2(4) of the amending S.I.) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-f4380413a2c851cbb5755f6dca673777]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2008/565/regulation/7/1) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/7/a/i) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-badc4bf168e3df45a2d7ed7056436726]: Textual amendment: [Reg. 7(1)(aa)](https://www.legislation.gov.uk/uksi/2008/565/regulation/7/1/aa) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/7/a/ii) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-df3c16e6462b1dff36c9e07ad6f4a22d]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2008/565/regulation/7/1/c) omitted (with effect in accordance with reg. 2(4) of the amending S.I.) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 7(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/7/a/iii) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-4973cfc34503544f79442b24e0ebd335]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2008/565/regulation/7/3) omitted (with effect in accordance with reg. 2(4) of the amending S.I.) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/7/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-05fc8a3811b4b391088c068e50a5c981]: Textual amendment: Words in reg. 8(2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 137(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/137/b)
+
+[^key-b3008a2731c8d4e070c2fc88f96332c2]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2008/565/regulation/8/3) omitted (with effect in accordance with reg. 2(4) of the amending S.I.) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/8) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-779e80672aea5229d168ecba4ad44d4d]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2008/565/regulation/8A) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/9) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-ff9db7d5fd89e97bb568f399e9f01498]: Textual amendment: Word in reg. 9(2)(a) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 137(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/137/c/i)
+
+[^key-f0072bf8845cfba84ef1219103835575]: Textual amendment: Semicolon in reg. 9(2)(b) substituted for full stop (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 137(c)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/137/c/ii)
+
+[^key-d0e01e74b7db0854fb88b1ccd19f8f65]: Textual amendment: Reg. 9(2)(c) and word inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 137(c)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/137/c/iii)
+
+[^key-3467064d92411888ee53909231aeb184]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2008/565/regulation/9A) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/10) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-b1ad9db27df9aeeceb5c2ee84234591e]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/2008/565/regulation/12/2A) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/11/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-6f872c97e7f3829841ee315db776582e]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/565/regulation/12/3) omitted (with effect in accordance with reg. 2(4) of the amending S.I.) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/11/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-9a3448fc16c30c5f2a450085f39baf00]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/uksi/2008/565/regulation/12/6) omitted (with effect in accordance with reg. 2(4) of the amending S.I.) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/11/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-374dbba30873fd73ddcfa2b7b900ddee]: Textual amendment: Reg. 13 substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/12) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-a1d7bfd1b6ab4756a893ff4f2a59355c]: Textual amendment: Reg. 14 heading substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(5)(a)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/5/a)
+
+[^key-bd814811a7313aa6367a3c639beb32c5]: Textual amendment: Words in reg. 14(1) substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 13(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/13/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-a34377497ddc7a270c6b4403cd034a4a]: Textual amendment: Words in reg. 14(1)-(3) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(4)(d)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/4/d)
+
+[^key-f1a43760bce3fb036f1363fc72470244]: Textual amendment: Words in reg. 14(2) substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 13(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/13/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-7ccedb719553bca181e852b045d5a2ae]: Textual amendment: Words in reg. 14 substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(5)(b)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/5/b)
+
+[^key-49cd4eefe3885e291ce6431d5fe6e603]: Textual amendment: Words in reg. 14(4) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(3)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/3)
+
+[^key-42b878748bb0c9c8fda8e7b25e5acd04]: Textual amendment: Words in reg. 14(5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 137(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/137/d)
+
+[^c19144141]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c19144151]: Marginal citation: Section 4A was inserted by article 8(1) of [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738).
+
+[^c19144161]: Marginal citation: [1969 c.24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24). Section 38A was inserted by paragraph 6 of Schedule 2 to [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984).
+
+[^c19144171]: Marginal citation: [S.I. 1993/3245](https://www.legislation.gov.uk/uksi/1993/3245), as amended by article 450 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), by regulation 8 of [S.I. 2004/3379](https://www.legislation.gov.uk/uksi/2004/3379), by regulation 18 of [S.I. 2004/3219](https://www.legislation.gov.uk/uksi/2004/3219) and by regulations 2 to 4 of [S.I. 2005/1985](https://www.legislation.gov.uk/uksi/2005/1985).
+
+[^c19144181]: Marginal citation: [S.R. 1994/429](https://www.legislation.gov.uk/nisr/1994/429), as amended by [S.R. 2006/353](https://www.legislation.gov.uk/nisr/2006/353).
+
+[^key-76ea614bbc4bc04e611162809339ec96]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2008/565/regulation/17) inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/14) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-15377b57d04c292b334d7e4b9f3b86a4]: Textual amendment: [Reg. 17(4)](https://www.legislation.gov.uk/uksi/2008/565/regulation/17/4) omitted (31.12.2020) by virtue of [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [48](https://www.legislation.gov.uk/uksi/2019/177/regulation/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c11f36a6235792d4e50a32c6661df0ec]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2008/565/schedule/1) substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/15) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-d6b70a0db806150705a51f5b2b34a022]: Textual amendment: Words in Sch. 2 heading substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/16/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-e6ddcc7e7ab9c05961880587b765aacf]: Textual amendment: Words in Sch. 2 para. 1 substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(4)(g)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/4/g)
+
+[^key-d6b05e8293d58657a1024df304fe147f]: Textual amendment: Words in Sch. 2 para. 1 substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/16/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^c19144251]: Marginal citation: Section 37A was inserted by [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984), [Schedule 2](https://www.legislation.gov.uk/nisi/1997/2984/schedule/2), [paragraph 5](https://www.legislation.gov.uk/nisi/1997/2984/paragraph/5).
+
+[^key-c071df4eccbc2a38e8f455159a81a659]: Textual amendment: Words in Sch. 2 para. 3 substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 20(4)(h)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/20/4/h)
+
+[^c19144261]: Marginal citation: Section 39 was amended by [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984), [Schedule 2](https://www.legislation.gov.uk/nisi/1997/2984/schedule/2), [paragraph 7](https://www.legislation.gov.uk/nisi/1997/2984/paragraph/7).
+
+[^c19144271]: Marginal citation: Section 44 was amended by [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984), [Schedule 2](https://www.legislation.gov.uk/nisi/1997/2984/schedule/2), [paragraph 9](https://www.legislation.gov.uk/nisi/1997/2984/paragraph/9).
+
+[^c19144281]: Marginal citation: Section 48 was amended by [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984), [Schedule 2](https://www.legislation.gov.uk/nisi/1997/2984/schedule/2), [paragraph 11](https://www.legislation.gov.uk/nisi/1997/2984/paragraph/11).
+
+[^key-b5163a9021ce28a0c4c94880237cd2d0]: Textual amendment: Sch. 2 para. 15(a) substituted for Sch. 2 para. 15(a)(b) (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 16(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/16/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

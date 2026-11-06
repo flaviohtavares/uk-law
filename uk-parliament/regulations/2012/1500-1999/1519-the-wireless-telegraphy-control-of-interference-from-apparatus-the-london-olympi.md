@@ -1,0 +1,91 @@
+---
+title: The Wireless Telegraphy (Control of Interference from Apparatus) (The London Olympic Games and Paralympic Games) Regulations 2012
+id: uksi/2012/1519
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: repealed
+made_date: '2012-06-11'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/1519
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1519/pdfs/uksiem_20121519_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1519/pdfs/uksi_20121519_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1519/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Wireless Telegraphy (Control of Interference from Apparatus) (The London Olympic Games and Paralympic Games) Regulations 2012
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+2012 No. 1519
+
+Electromagnetic Compatibility
+
+The Wireless Telegraphy (Control of Interference from Apparatus) (The London Olympic Games and Paralympic Games) Regulations 2012 (revoked)[^key-e4dd411dc046a82d714e68620c65e6f7]
+
+Made
+
+11th June 2012
+
+Laid before Parliament
+
+14th June 2012
+
+Coming into force
+
+23rd July 2012
+
+[^key-e4dd411dc046a82d714e68620c65e6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## 1. Citation, commencement and extent[^key-e4dd411dc046a82d714e68620c65e6f7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-e4dd411dc046a82d714e68620c65e6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Interpretation[^key-e4dd411dc046a82d714e68620c65e6f7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Requirement[^key-e4dd411dc046a82d714e68620c65e6f7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Use of Apparatus during the London Olympic Games and Paralympic Games[^key-e4dd411dc046a82d714e68620c65e6f7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Radio Equipment and Telecommunications Terminal Equipment[^key-e4dd411dc046a82d714e68620c65e6f7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e4dd411dc046a82d714e68620c65e6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## SCHEDULE[^key-e4dd411dc046a82d714e68620c65e6f7]
+
+Regulation 3
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-e4dd411dc046a82d714e68620c65e6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-e4dd411dc046a82d714e68620c65e6f7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1519) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

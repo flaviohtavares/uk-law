@@ -1,0 +1,2470 @@
+---
+title: The Working Time Regulations 1998
+id: uksi/1998/1833
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-07-30'
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1998/1833
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1833/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Working Time Regulations 1998
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1998 No. 1833
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Working Time Regulations 1998
+
+Made
+
+30th July 1998
+
+Laid before Parliament
+
+30th July 1998
+
+Coming into force
+
+1st October 1998
+
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^c16743781] in relation to measures relating to the organization of working time[^c16743791] and measures relating to the employment of children and young persons[^c16743801], in exercise of the powers conferred on him by that provision hereby makes the following Regulations—
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Working Time Regulations 1998 and shall come into force on 1st October 1998.
+
+(2) These Regulations extend to Great Britain only.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “the 1996 Act" means the Employment Rights Act 1996 [^c16743811];
+- “adult worker" means a worker who has attained the age of 18;
+- “the armed forces" means any of the naval, military and air forces of the Crown;
+- “calendar year" means the period of twelve months beginning with 1st January in any year;
+- “the civil protection services" includes the police, fire brigades and ambulance services, the security and intelligence services, customs and immigration officers, the prison service, the coastguard, and lifeboat crew and other voluntary rescue services;
+- “collective agreement" means a collective agreement within the meaning of section 178 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c16743821], the trade union parties to which are independent trade unions within the meaning of section 5 of that Act;
+- “day" means a period of 24 hours beginning at midnight;
+- “employer", in relation to a worker, means the person by whom the worker is (or, where the employment has ceased, was) employed;
+- “employment", in relation to a worker, means employment under his contract, and “employed" shall be construed accordingly;
+- “fishing vessel” has the same meaning as in section 313 of the Merchant Shipping Act 1995;[^key-488e84d68e2570b43db0f6a691707139]
+- “[^key-625ae71513d02659d6e4917abfa8569c]**irregular hours worker**” has the meaning given by regulation 15F(1);
+- “mobile worker” means any worker employed as a member of travelling or flying personnel by an undertaking which operates transport services for passengers or goods by road or air;
+- “night time", in relation to a worker, means a period—
+  - (a) the duration of which is not less than seven hours, and
+  - (b) which includes the period between midnight and 5 a.m.,
+
+  which is determined for the purposes of these Regulations by a relevant agreement, or, in default of such a determination, the period between 11 p.m. and 6 a.m.;
+- “night work" means work during night time;
+- “night worker" means a worker—
+  - (a) who, as a normal course, works at least three hours of his daily working time during night time, or
+  - (b) who is likely, during night time, to work at least such proportion of his annual working time as may be specified for the purposes of these Regulations in a collective agreement or a workforce agreement;
+
+  and, for the purpose of paragraph (a) of this definition, a person works hours as a normal course (without prejudice to the generality of that expression) if he works such hours on the majority of days on which he works;
+- “offshore work” means work performed mainly on or from offshore installations (including drilling rigs), directly or indirectly in connection with the exploration, extraction or exploitation of mineral resources, including hydrocarbons, and diving in connection with such activities, whether performed from an offshore installation or a vessel[^key-e9d0999a985c0d80e2611a9b1c28fb86] , including any such work performed in the territorial waters of the United Kingdom adjacent to Great Britain or in any area (except one or part of one in which the law of Northern Ireland applies) designated under section 1(7) of the Continental Shelf Act 1964[^key-650c34c1ed3421ef3056d83b6f1ec4c3];
+- “**part-year worker**” has the meaning given by regulation 15F(1)(b);
+- “relevant agreement", in relation to a worker, means a workforce agreement which applies to him, any provision of a collective agreement which forms part of a contract between him and his employer, or any other agreement in writing which is legally enforceable as between the worker and his employer;
+- “relevant training" means work experience provided pursuant to a training course or programme, training for employment, or both, other than work experience or training—
+  - (a) the immediate provider of which is an educational institution or a person whose main business is the provision of training, and
+  - (b) which is provided on a course run by that institution or person;
+- “rest period", in relation to a worker, means a period which is not working time, other than a rest break or leave to which the worker is entitled under these Regulations;
+- “the restricted period”, in relation to a worker, means the period between 10 p.m. and 6 a.m. or, where the worker’s contract provides for him to work after 10 p.m., the period between 11 p.m. and 7 a.m.[^key-2733eb4e58cb87b443ecc13bc5e4cc34]
+- “ship” has the same meaning as in section 313 of the Merchant Shipping Act 1995;[^key-4c9521ebf6377ec98418536d9f4700a8]
+- “**sick leave**” means absence from work due to sickness or injury;
+- “**statutory leave**” means leave provided for in Part 8 and Part 8B[^key-ba0824de8cd05e6da68473d6b53d9f05] of the 1996 Act;
+- “worker" means an individual who has entered into or works under (or, where the employment has ceased, worked under)—
+  - (a) a contract of employment; or
+  - (b) any other contract, whether express or implied and (if it is express) whether oral or in writing, whereby the individual undertakes to do or perform personally any work or services for another party to the contract whose status is not by virtue of the contract that of a client or customer of any profession or business undertaking carried on by the individual;
+
+  and any reference to a worker’s contract shall be construed accordingly;
+- “worker employed in agriculture" means, in relation to Wales, an agricultural worker within the meaning of section 18 of the Agricultural Sector (Wales) Act 2014 and otherwise[^key-9e976b9f1276ccd7d7f2fe8a80cdcd15] has the same meaning as in the Agricultural Wages Act 1948 [^c16743831] or the Agricultural Wages (Scotland) Act 1949 [^c16743841], and a reference to a worker partly employed in agriculture is to a worker employed in agriculture whose employer also employs him for non-agricultural purposes;
+- “workforce agreement" means an agreement between an employer and workers employed by him or their representatives in respect of which the conditions set out in Schedule 1 to these Regulations are satisfied;
+- “working time", in relation to a worker, means—
+  - (a) any period during which he is working, at his employer’s disposal and carrying out his activity or duties,
+  - (b) any period during which he is receiving relevant training, and
+  - (c) any additional period which is to be treated as working time for the purpose of these Regulations under a relevant agreement;
+
+  and “work" shall be construed accordingly;
+- “Working Time Directive" means Council Directive [93/104/EC](https://www.legislation.gov.uk/eudr/1993/104) of 23rd November 1993 concerning certain aspects of the organization of working time [^c16743851];
+- “young worker" means a worker who has attained the age of 15 but not the age of 18 and who, as respects England and Wales, is over compulsory school age (construed in accordance with section 8 of the Education Act 1996) [^c16743861] and, as respects Scotland, is over school age (construed in accordance with section 31 of the Education (Scotland) Act 1980) [^c16743871], and
+- “Young Workers Directive" means Council Directive [94/33/EC](https://www.legislation.gov.uk/eudr/1994/33) of 22nd June 1994 on the protection of young people at work [^c16743881].
+
+(2) In the absence of a definition in these Regulations, words and expressions used in particular provisions which are also used in corresponding provisions of the Working Time Directive or the Young Workers Directive have the same meaning as they have in those corresponding provisions.
+
+(3) In these Regulations—
+
+- (a) a reference to a numbered regulation is to the regulation in these Regulations bearing that number;
+- (b) a reference in a regulation to a numbered paragraph is to the paragraph in that regulation bearing that number; and
+- (c) a reference in a paragraph to a lettered sub-paragraph is to the sub-paragraph in that paragraph bearing that letter.
+
+## PART II — RIGHTS AND OBLIGATIONS CONCERNING WORKING TIME
+
+### 3. General
+
+(1)[^key-aade8bf7b39354ac205e03bdd4b03253] The provisions of this Part have effect subject to the exceptions provided for in Part III of these Regulations.
+
+(2)[^key-d265750ad4bb366c5aa77267cca07856] Where, in this Part, separate provision is made as respects the same matter in relation to workers generally and to young workers, the provision relating to workers generally applies only to adult workers and those young workers to whom, by virtue of any exception in Part 3, the provision relating to young workers does not apply.
+
+### 4. Maximum weekly working time
+
+(1) Unless his employer has first obtained the worker’s agreement in writing to perform such work[^key-0c87a507fa1056bc70ccc1cc25793877], a worker’s working time, including overtime, in any reference period which is applicable in his case shall not exceed an average of 48 hours for each seven days.
+
+(2) An employer shall take all reasonable steps, in keeping with the need to protect the health and safety of workers, to ensure that the limit specified in paragraph (1) is complied with in the case of each worker employed by him in relation to whom it applies and shall keep up-to-date records of all workers who carry out work to which it does not apply by reason of the fact that the employer has obtained the worker’s agreement as mentioned in paragraph (1)[^key-f23e4fe068383e7172fbccad78cc1ad4].
+
+(3) Subject to paragraphs (4) and (5) and any agreement under regulation 23(b), the reference periods which apply in the case of a worker are—
+
+- (a) where a relevant agreement provides for the application of this regulation in relation to successive periods of 17 weeks, each such period, or
+- (b) in any other case, any period of 17 weeks in the course of his employment.
+
+(4) Where a worker has worked for his employer for less than 17 weeks, the reference period applicable in his case is the period that has elapsed since he started work for his employer.
+
+(5) Paragraphs (3) and (4) shall apply to a worker who is excluded from the scope of certain provisions of these Regulations by regulation 21 as if for each reference to 17 weeks there were substituted a reference to 26 weeks.
+
+(6) For the purposes of this regulation, a worker’s average working time for each seven days during a reference period shall be determined according to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1998/1833)
+
+where—A is the aggregate number of hours comprised in the worker’s working time during the course of the reference period;
+
+**B** is the aggregate number of hours comprised in his working time during the course of the period beginning immediately after the end of the reference period and ending when the number of days in that subsequent period on which he has worked equals the number of excluded days during the reference period; and
+
+C> is the number of weeks in the reference period.
+
+(7) In paragraph (6), “excluded days" means days comprised in—
+
+- (a) any period of annual leave taken by the worker in exercise of his entitlement under regulation 13 , 13A or 15B[^key-0a6e7949cad07eae64e29dff42b5c0d8];
+- (b) any period of sick leave taken by the worker;
+- (c) any period of maternity paternity, adoption or parental[^key-8d13b154295fa7a8450ed9867d82f0ed] leave taken by the worker; and
+- (d) any period in respect of which the limit specified in paragraph (1) did not apply in relation to the worker by reason of the fact that the employer has obtained the worker’s agreement as mentioned in paragraph (1)[^key-937310a6b174434cd6cdd0b4b19d436c].
+
+### 5. Agreement to exclude the maximum
+
+(1)[^key-ad07f5d3213fb7316841346bc1379821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) An agreement for the purposes of regulation 4[^key-936bcff2f128074742e28aa5c370ef62]—
+
+- (a) may either relate to a specified period or apply indefinitely; and
+- (b) subject to any provision in the agreement for a different period of notice, shall be terminable by the worker by giving not less than seven days’ notice to his employer in writing.
+
+(3) Where an agreement for the purposes of regulation 4 makes provision for the termination of the agreement after a period of notice, the notice period provided for shall not exceed three months.
+
+(4)[^key-6657cdeea468fa8eabb51554602b4060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5A. Maximum working time for young workers[^key-bcffee881aa2a65938d352ec788681c1]
+
+(1) A young worker’s working time shall not exceed—
+
+- (a) eight hours a day, or
+- (b) 40 hours a week.
+
+(2) If, on any day, or, as the case may be, during any week, a young worker is employed by more than one employer, his working time shall be determined for the purpose of paragraph (1) by aggregating the number of hours worked by him for each employer.
+
+(3) For the purposes of paragraphs (1) and (2), a week starts at midnight between Sunday and Monday.
+
+(4) An employer shall take all reasonable steps, in keeping with the need to protect the health and safety of workers, to ensure that the limits specified in paragraph (1) are complied with in the case of each worker employed by him in relation to whom they apply.
+
+### 6. Length of night work
+
+(1) A night worker’s normal hours of work in any reference period which is applicable in his case shall not exceed an average of eight hours for each 24 hours.
+
+(2) An employer shall take all reasonable steps, in keeping with the need to protect the health and safety or workers, to ensure that the limit specified in paragraph (1) is complied with in the case of each night worker employed by him.
+
+(3) The reference periods which apply in the case of a night worker are—
+
+- (a) where a relevant agreement provides for the application of this regulation in relation to successive periods of 17 weeks, each such period, or
+- (b) in any other case, any period of 17 weeks in the course of his employment.
+
+(4) Where a worker has worked for his employer for less than 17 weeks, the reference period applicable in his case is the period that has elapsed since he started work for his employer.
+
+(5) For the purposes of this regulation, a night worker’s average normal hours of work for each 24 hours during a reference period shall be determined according to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1998/1833)
+
+where—A is the number of hours during the reference period which are normal working hours for that worker;
+
+B is the number of days during the reference period, and
+
+C is the total number of hours during the reference period comprised in rest periods spent by the worker in pursuance of his entitlement under regulation 11, divided by 24.
+
+(6)[^key-8743d7c5aa7c4e8a09f352663d0db361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) An employer shall ensure that no night worker employed by him whose work involves special hazards or heavy physical or mental strain works for more than eight hours in any 24-hour period during which the night worker performs night work.
+
+(8) For the purposes of paragraph (7), the work of a night worker shall be regarded as involving special hazards or heavy physical or mental strain if—
+
+- (a) it is identified as such in—
+  - (i) a collective agreement, or
+  - (ii) a workforce agreement,
+
+  which takes account of the specific effects and hazards of night work, or
+- (b) it is recognised in a risk assessment made by the employer under regulation 3 of the Management of Health and Safety at Work Regulations 1999[^key-e85dc956dc3e90422795bc32084e9c9a] as involving a significant risk to the health or safety of workers employed by him.
+
+### 6A. Night work by young workers[^key-e10a5c8af790a2f108eb8f8d20cda2a8]
+
+An employer shall ensure that no young worker employed by him works during the restricted period.
+
+### 7. Health assessment and transfer of night workers to day work
+
+(1) An employer—
+
+- (a) shall not assign an adult worker to work which is to be undertaken during periods such that the worker will become a night worker unless—
+  - (i) the employer has ensured that the worker will have the opportunity of a free health assessment before he takes up the assignment; or
+  - (ii) the worker had a health assessment before being assigned to work to be undertaken during such periods on an earlier occasion, and the employer has no reason to believe that that assessment is no longer valid, and
+- (b) shall ensure that each night worker employed by him has the opportunity of a free health assessment at regular intervals of whatever duration may be appropriate in his case.
+
+(2) Subject to paragraph (4), an employer—
+
+- (a) shall not assign a young worker to work during the restricted period[^key-70950623ab82fd0543309cf942f8447b] unless—
+  - (i) the employer has ensured that the young worker will have the opportunity of a free assessment of his health and capacities before he takes up the assignment; or
+  - (ii) the young worker had an assessment of his health and capacities before being assigned to work during the restricted period on an earlier occasion, and the employer has no reason to believe that that assessment is no longer valid; and
+- (b) shall ensure that each young worker employed by him and assigned to work during the restricted period has the opportunity of a free assessment of his health and capacities at regular intervals of whatever duration may be appropriate in his case.
+
+(3) For the purposes of paragraphs (1) and (2), an assessment is free if it is at no cost to the worker to whom it relates.
+
+(4) The requirements in paragraph (2) do not apply in a case where the work a young worker is assigned to do is of an exceptional nature.
+
+(5) No person shall disclose an assessment made for the purposes of this regulation to any person other than the worker to whom it relates, unless—
+
+- (a) the worker has given his consent in writing to the disclosure, or
+- (b) the disclosure is confined to a statement that the assessment shows the worker to be fit—
+  - (i) in a case where paragraph (1)(a)(i) or (2)(a)(i) applies, to take up an assignment, or
+  - (ii) in a case where paragraph (1)(b) or (2)(b) applies, to continue to undertake an assignment.
+
+(6) Where—
+
+- (a) a registered medical practitioner has advised an employer that a worker employed by the employer is suffering from health problems which the practitioner considers to be connected with the fact that the worker performs night work, and
+- (b) it is possible for the employer to transfer the worker to work—
+  - (i) to which the worker is suited, and
+  - (ii) which is to be undertaken during periods such that the worker will cease to be a night worker,
+
+the employer shall transfer the worker accordingly.
+
+### 8. Pattern of work
+
+Where the pattern according to which an employer organizes work is such as to put the health and safety of a worker employed by him at risk, in particular because the work is monotonous or the work-rate is predetermined, the employer shall ensure that the worker is given adequate rest breaks.
+
+### 9. Records
+
+(1)[^key-b392f1ec0e8de599c8523fb494d51f1e] An employer shall—
+
+- (a)[^key-eed0a5312e6d90d1913210f01b5a5497] keep records which are adequate to show whether the employer has complied with the limits specified in regulations 4(1), 5A(1) and 6(1) and (7) and the requirements in regulations 6A and 7(1) and (2);
+- (b) retain such records for two years from the date on which they were made.
+
+(2)[^key-63e33eb3cda650827c23b569b6cd6292] The records referred to in paragraph (1)(a) may be created, maintained and kept in such manner and format as the employer reasonably thinks fit.
+
+(3) An employer need not record each worker’s daily working hours in order to comply with paragraph (1) if the employer is able to demonstrate compliance without doing so.
+
+### 10. Daily rest[^key-e068c7f53c80aece5f543fa6de231850]
+
+(1) A worker[^key-fcd4ffcd5849bac1191f6a801f8d75e0] is entitled to a rest period of not less than eleven consecutive hours in each 24-hour period during which he works for his employer.
+
+(2) Subject to paragraph (3), a young worker is entitled to a rest period of not less than twelve consecutive hours in each 24-hour period during which he works for his employer.
+
+(3) The minimum rest period provided for in paragraph (2) may be interrupted in the case of activities involving periods of work that are split up over the day or of short duration.
+
+### 11. Weekly rest period[^key-e4aa1b9507321a375f24fb77664256e1]
+
+(1) Subject to paragraph (2), a worker[^key-7f590643d6d0e6f14b01819fe95c543c] is entitled to an uninterrupted rest period of not less than 24 hours in each seven-day period during which he works for his employer.
+
+(2) If his employer so determines, a worker shall be entitled to either—
+
+- (a) two uninterrupted rest periods each of not less than 24 hours in each 14-day period during which he works for his employer; or
+- (b) one uninterrupted rest period of not less than 48 hours in each such 14-day period,
+
+in place of the entitlement provided for in paragraph (1).
+
+(3) Subject to paragraph (8), a young worker is entitled to a rest period of not less than 48 hours in each seven-day period during which he works for his employer.
+
+(4) For the purpose of paragraphs (1) to (3), a seven-day period or (as the case may be) 14-day period shall be taken to begin—
+
+- (a) at such times on such days as may be provided for for the purposes of this regulation in a relevant agreement; or
+- (b) where there are no provisions of a relevant agreement which apply, at the start of each week or (as the case may be) every other week.
+
+(5) In a case where, in accordance with paragraph (4), 14-day periods are to be taken to begin at the start of every other week, the first such period applicable in the case of a particular worker shall be taken to begin—
+
+- (a) if the worker’s employment began on or before the date on which these Regulations come into force, on 5th October 1998; or
+- (b) if the worker’s employment begins after the date on which these Regulations come into force, at the start of the week in which that employment begins.
+
+(6) For the purposes of paragraphs (4) and (5), a week starts at midnight between Sunday and Monday.
+
+(7) The minimum rest period to which a worker[^key-54b04fa4c679e1b05f56287b8a9c138a] is entitled under paragraph (1) or (2) shall not include any part of a rest period to which the worker is entitled under regulation 10(1), except where this is justified by objective or technical reasons or reasons concerning the organization of work.
+
+(8) The minimum rest period to which a young worker is entitled under paragraph (3)—
+
+- (a) may be interrupted in the case of activities involving periods of work that are split up over the day or are of short duration; and
+- (b) may be reduced where this is justified by technical or organization reasons, but not to less than 36 consecutive hours.
+
+### 12. Rest breaks[^key-d6a4c3ece06c4edb145053474ed27e3d]
+
+(1) Where a worker's[^key-ec022b2008f93a8a19559ef7ecb8262c] daily working time is more than six hours, he is entitled to a rest break.
+
+(2) The details of the rest break to which a worker[^key-13b0a36190a01ec49e3ea895caaef60f] is entitled under paragraph (1), including its duration and the terms on which it is granted, shall be in accordance with any provisions for the purposes of this regulation which are contained in a collective agreement or a workforce agreement.
+
+(3) Subject to the provisions of any applicable collective agreement or workforce agreement, the rest break provided for in paragraph (1) is an uninterrupted period of not less than 20 minutes, and the worker is entitled to spend it away from his workstation if he has one.
+
+(4) Where a young worker’s daily working time is more than four and a half hours, he is entitled to a rest break of at least 30 minutes, which shall be consecutive if possible, and he is entitled to spend it away from his workstation if he has one.
+
+(5) If, on any day, a young worker is employed by more than one employer, his daily working time shall be determined for the purpose of paragraph (4) by aggregating the number of hours worked by him for each employer.
+
+### 13. Entitlement to annual leave
+
+(A1)[^key-c9190012c6f0cd7041781cae004283c2] This regulation applies to—
+
+- (a) a worker in respect of any leave years beginning before 1st April 2024, and
+- (b) a worker to whom regulation 15B does not apply in respect of any leave years beginning on or after 1st April 2024.
+
+(1)[^key-39f79e5deb7f524c632e1c245fd0cc4c] Subject to paragraph (5), a worker is entitled to four weeks' annual leave in each leave year.
+
+(2)[^key-2e01c89ae3b82bc48e22634e9f0abfab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A worker’s leave year, for the purposes of this regulation, begins—
+
+- (a) on such date during the calendar year as may be provided for in a relevant agreement; or
+- (b) where there are no provisions of a relevant agreement which apply—
+  - (i) if the worker’s employment began on or before 1st October 1998, on that date and each subsequent anniversary of that date; or
+  - (ii) if the worker’s employment begins after 1st October 1998, on the date on which that employment begins and each subsequent anniversary of that date.
+
+(4) Paragraph (3) does not apply to a worker to whom Schedule 2 applies (workers employed in agriculture in Wales or Scotland[^key-32c30f8562f08a0693295ea7fbe5ab29]) except where, in the case of a worker partly employed in agriculture in Wales or Scotland, a relevant agreement so provides.
+
+(5) Where the date on which a worker’s employment begins is later than the date on which (by virtue of a relevant agreement) his first leave year begins, the leave to which he is entitled in that leave year is a proportion of the period applicable under paragraph (1)[^key-f06529d5589e6a839d3316169ff10d42] equal to the proportion of that leave year remaining on the date on which his employment begins.
+
+(6)[^key-08b609f2e2e2d50b5d113ee049eb7f61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-3ee0df0520b6d12cfeecee40cbaf4c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-3ee0df0520b6d12cfeecee40cbaf4c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) Leave to which a worker is entitled under this regulation may be taken in instalments, but—
+
+- (a) subject to the exceptions in paragraphs (14), (15) and (17)[^key-5327060bbcc547f2b51c5965a7f987ea][^key-933f5d423b7857d0c92c55594b10ac4f] , it may only be taken in the leave year in respect of which it is due, and
+- (b) it may not be replaced by a payment in lieu except where the worker’s employment is terminated.
+
+(10)[^key-68ed290dc3976972b02fd2843b053031] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-68ed290dc3976972b02fd2843b053031] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12)[^key-68ed290dc3976972b02fd2843b053031] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13)[^key-68ed290dc3976972b02fd2843b053031] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14)[^key-7bbede14ea67c54eca759f3a654a8d6a] Where, as a result of taking a period of statutory leave in any leave year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under this regulation, the worker is entitled to carry forward such untaken leave into the following leave year.
+
+(15) Where, as a result of taking a period of sick leave in any leave year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under this regulation, the worker is entitled to carry forward such untaken leave into the following leave year provided it is taken by the end of the period of 18 months from the end of the leave year in which the entitlement originally arose.
+
+(16) Paragraph (17) applies where, in any leave year, an employer fails to—
+
+- (a) recognise a worker’s right to annual leave under this regulation or to payment for that leave in accordance with regulation 16;
+- (b) give the worker a reasonable opportunity to take the leave to which the worker is entitled under this regulation or encourage them to do so; or
+- (c) inform the worker that any leave not taken by the end of the leave year, which cannot be carried forward, will be lost.
+
+(17) Where this paragraph applies and subject to paragraph (18), the worker is entitled to carry forward any leave to which the worker is entitled under this regulation which is untaken in that leave year or has been taken but not paid in accordance with regulation 16.
+
+(18) Annual leave that has been carried forward pursuant to paragraph (17) cannot be carried forward beyond the end of the first full leave year in which paragraph (17) does not apply.
+
+### 13A. Entitlement to additional annual leave[^key-23fe7228aa86482e93d288c5e14aff50]
+
+(A1)[^key-1fb09a2b66021f4f7b91b489469d09d3] This regulation applies to—
+
+- (a) a worker in respect of any leave years beginning before 1st April 2024, and
+- (b) a worker to whom regulation 15B does not apply in respect of any leave years beginning on or after 1st April 2024.
+
+(1) Subject to regulation 26A and paragraphs (3) and (5), a worker is entitled in each leave year to a period of additional leave determined in accordance with paragraph (2).
+
+(2) The period of additional leave to which a worker is entitled under paragraph (1) is—
+
+- (a) in any leave year beginning on or after 1st October 2007 but before 1st April 2008, 0.8 weeks;
+- (b) in any leave year beginning before 1st October 2007, a proportion of 0.8 weeks equivalent to the proportion of the year beginning on 1st October 2007 which would have elapsed at the end of that leave year;
+- (c) in any leave year beginning on 1st April 2008, 0.8 weeks;
+- (d) in any leave year beginning after 1st April 2008 but before 1st April 2009, 0.8 weeks and a proportion of another 0.8 weeks equivalent to the proportion of the year beginning on 1st April 2009 which would have elapsed at the end of that leave year;
+- (e) in any leave year beginning on or after 1st April 2009, 1.6 weeks.
+
+(3) The aggregate entitlement provided for in paragraph (2) and regulation 13(1) is subject to a maximum of 28 days.
+
+(4) A worker’s leave year begins for the purposes of this regulation on the same date as the worker’s leave year begins for the purposes of regulation 13.
+
+(5) Where the date on which a worker’s employment begins is later than the date on which his first leave year begins, the additional leave to which he is entitled in that leave year is a proportion of the period applicable under paragraph (2) equal to the proportion of that leave year remaining on the date on which his employment begins.
+
+(6) Leave to which a worker is entitled under this regulation may be taken in instalments, but it may not be replaced by a payment in lieu except where—
+
+- (a) the worker’s employment is terminated; or
+- (b) the leave is an entitlement that arises under paragraph (2)(a), (b) or (c); or
+- (c) the leave is an entitlement to 0.8 weeks that arises under paragraph (2)(d) in respect of that part of the leave year which would have elapsed before 1st April 2009.
+
+(7) A relevant agreement may provide for any leave to which a worker is entitled under this regulation to be carried forward into the leave year immediately following the leave year in respect of which it is due.
+
+(7A)[^key-a50c711b2893653782de215deca42757] Where, as a result of taking a period of statutory leave in any leave year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under this regulation, the worker is entitled to carry forward such untaken leave into the following leave year.
+
+(8) This regulation does not apply to workers to whom the Agricultural Wages (Scotland) Act 1949 applies (as that Act had effect on 1 July 1999).
+
+### 14. Compensation related to entitlement to leave
+
+(1) Paragraphs (1) to (4) of this regulation apply where—[^key-09925950ae0aaa407dc0d2896d0dd122]
+
+- (a) a worker’s employment is terminated during the course of his leave year, and
+- (b) on the date on which the termination takes effect (“the termination date"), the proportion he has taken of the leave to which he is entitled in the leave year under regulations 13(1) and 13A(1)[^key-fdac75802f37fff7c929b16881c2e3db] differs from the proportion of the leave year which has expired.
+
+(2) Where the proportion of leave taken by the worker is less than the proportion of the leave year which has expired, his employer shall make him a payment in lieu of leave in accordance with paragraph (3).
+
+(3) The payment due under paragraph (2) shall be—
+
+- (a) such sum as may be provided for for the purposes of this regulation in a relevant agreement, or
+- (b) where there are no provisions of a relevant agreement which apply, a sum equal to the amount that would be due to the worker under regulation 16 in respect of a period of leave determined according to the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/1998/1833)
+
+  where—A is the period of leave to which the worker is entitled under regulation 13[^key-9458961c2e7b123c1bbaf814cf1ca21d] and regulation 13A[^key-7246b7d647f86565d2cb4544480d4d0f];
+
+  B is the proportion of the worker’s leave year which expired before the termination date, and
+
+  C is the period of leave taken by the worker between the start of the leave year and the termination date.
+
+(4) A relevant agreement may provide that, where the proportion of leave taken by the worker exceeds the proportion of the leave year which has expired, he shall compensate his employer, whether by a payment, by undertaking additional work or otherwise.
+
+(5)[^key-fa6328928015528bef08009195a71e46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-623351ce898a52c1ceb163b45047baad] Where a worker’s employment is terminated and on the termination date the worker remains entitled to leave in respect of any previous leave year which carried forward under paragraph (14), (15) or (17) of regulation 13 or paragraph (7) or (7A) of regulation 13A, the employer shall make the worker a payment in lieu of leave equal to the sum due under regulation 16 for the period of untaken leave.
+
+### 15. Dates on which leave is taken
+
+(1) A worker may take leave to which he is entitled under regulations 13, 13A and 15B[^key-8f37dca1868d389b688d306b16ba32fb] on such days as he may elect by giving notice to his employer in accordance with paragraph (3), subject to any requirement imposed on him by his employer under paragraph (2).
+
+(2) A worker’s employer may require the worker—
+
+- (a) to take leave to which the worker is entitled under regulation 13[^key-28700d949abe4205d8a326358216805d] , 13A or 15B[^key-bbdbd36497b46d8531d85f68cdf6e9d3]; or
+- (b) not to take such leave [^key-ce5773a5a8237bb98f438ed762915bca]...,
+
+on particular days, by giving notice to the worker in accordance with paragraph (3).
+
+(3) A notice under paragraph (1) or (2)—
+
+- (a) may relate to all or part of the leave to which a worker is entitled in a leave year;
+- (b) shall specify the days on which leave is or (as the case may be) is not to be taken and, where the leave on a particular day is to be in respect of only part of the day, its duration; and
+- (c) shall be given to the employer or, as the case may be, the worker before the relevant date.
+
+(4) The relevant date, for the purposes of paragraph (3), is the date—
+
+- (a) in the case of a notice under paragraph (1) or (2)(a), twice as many days in advance of the earliest day specified in the notice as the number of days or part-days to which the notice relates, and
+- (b) in the case of a notice under paragraph (2)(b), as many days in advance of the earliest day so specified as the number of days or part-days to which the notice relates.
+
+(5) Any right or obligation under paragraphs (1) to (4) may be varied or excluded by a relevant agreement.
+
+(6) This regulation does not apply to a worker to whom Schedule 2 applies (workers employed in agriculture in Wales or Scotland[^key-f4562d47f1b5c4ec684071dbcb2e5c94]) except where, in the case of a worker partly employed in agriculture in Wales or Scotland, a relevant agreement so provides.
+
+### 15A. Leave during the first year of employment[^key-9346933ea59539400f893c07fea543ca]
+
+(1) During the first year of his employment, the amount of leave a worker may take at any time in exercise of his entitlement under regulation 13 or regulation 13A[^key-5382f0e12cfae241c08ad9b61e42ef0e] is limited to the amount which is deemed to have accrued in his case at that time under paragraph (2) or (2A)[^key-8f99f190c93e2994f0670ffa85f17bb7], as modified under paragraph (3) in a case where that paragraph applies, less the amount of leave (if any) that he has already taken during that year.
+
+(2) For the purposes of paragraph (1), in the case of workers to whom the Agricultural Wages (Scotland) Act 1949 applies,[^key-f87db39588d7c5e567a3060d573db869] leave is deemed to accrue over the course of the worker’s first year of employment, at the rate of one-twelfth of the amount specified in regulation 13(1) on the first day of each month of that year.
+
+(2A)[^key-a17019d6c761ae6a5734441d723abe11] Except where paragraph (2) applies, for the purposes of paragraph (1), leave is deemed to accrue over the course of the worker’s first year of employment, at the rate of one-twelfth of the amount specified in regulation 13(1) and regulation 13A(2), subject to the limit contained in regulation 13A(3), on the first day of each month of that year.
+
+(3) Where the amount of leave that has accrued in a particular case includes a fraction of a day other than a half-day, the fraction shall be treated as a half-day if it is less than a half-day and as a whole day if it is more than a half-day.
+
+(4) This regulation does not apply to a worker whose employment began on or before 25th October 2001.
+
+### 15B. Irregular hours workers and part-year workers: entitlement to annual leave[^key-3ed2549968dec3ff4ddd0b3505fe91bb]
+
+(1) This regulation applies to an irregular hours worker, or a part-year worker, to whom the Agricultural Wages (Scotland) Act 1949 (as that Act had effect on 1st July 1999) does not apply, in respect of any leave years beginning on or after 1st April 2024.
+
+(2) The amount of annual leave to which an irregular hours worker, or a part-year worker, is entitled at any time during a leave year is the amount of annual leave that they have accrued in that year, plus the amount of annual leave (if any) that they have carried forward into that leave year, less the amount of annual leave (if any) that they have taken during that leave year.
+
+(3) In each leave year, an irregular hours worker, or a part-year worker, accrues annual leave—
+
+- (a) during any period of sick leave or statutory leave, in accordance with regulation 15C, and
+- (b) otherwise, on the last day of each pay period at the rate of 12.07% of the number of hours that they have worked during that pay period.
+
+(4) But a worker cannot, in any leave year, accrue more than 28 days of annual leave under this regulation.
+
+(5) Where the amount of annual leave that has accrued in a particular case includes a fraction of an hour, the fraction is to be treated as zero if it is less than 30 minutes and one hour if it is 30 minutes or more than 30 minutes.
+
+(6) Annual leave to which a worker is entitled under this regulation may be taken in instalments, but it may not be replaced by a payment in lieu except where the worker’s employment is terminated.
+
+(7) For the purposes of this regulation, a worker’s leave year begins—
+
+- (a) on such date during the calendar year as may be provided for in a relevant agreement, or
+- (b) where there are no provisions of a relevant agreement which apply, on the date on which the worker’s employment begins and each subsequent anniversary of that date.
+
+(8) Paragraph (7) does not apply to a worker to whom Schedule 2 (workers employed in agriculture) applies except where, in the case of a worker partly employed in agriculture, a relevant agreement so provides.
+
+### 15C. Irregular hours workers and part-year workers: annual leave accrued while on sick or statutory leave
+
+(1) This regulation applies for the purposes of determining the amount of annual leave which a worker to whom regulation 15B applies, accrues in a pay period during a period of sick leave or statutory leave.
+
+(2) The amount of annual leave is calculated as follows—
+
+- *Step 1*
+
+  Calculate the average number of hours per week that the worker worked during the relevant period before the worker started the sick leave or statutory leave.
+- *Step 2*
+
+  Calculate 12.07% of the number of hours arrived at under Step 1 to find the number of hours of annual leave that the worker accrues during each week of the sick leave or statutory leave.
+- *Step 3*
+
+  Multiply that number of hours by the number of weeks in a pay period for which the worker is taking sick leave or statutory leave to find the number of hours of annual leave that the worker accrues during each such pay period.
+
+(3) In Step 1, the “**relevant period**” means—
+
+- (a) the period of 52 weeks ending with the day before the day on which the worker started the sick leave or statutory leave, or
+- (b) if the worker has been in employment for a period of less than 52 complete weeks before starting that leave, that lesser period.
+
+(4) For the purposes of the calculation under Step 1—
+
+- (a) no account is to be taken of any weeks during the relevant period in which a worker was, for any amount of time, on sick leave or statutory leave, but
+- (b) all other weeks during the relevant period are to be taken into account, including weeks during which the worker did not work any hours.
+
+(5) If, in a case falling within paragraph (3)(a), any weeks are discounted under paragraph (4)(a), earlier weeks shall be taken into account so as to bring the number of weeks to 52 (or as close to 52 as possible).
+
+(6) For the purposes of paragraph (5) no account is to be taken of hours worked in weeks preceding the period of 104 weeks ending—
+
+- (a) where the calculation date is the last day of a week, with that week, and
+- (b) otherwise, with the last complete week before the calculation date.
+
+### 15D. Irregular hours workers and part-year workers: right to carry forward annual leave
+
+(1) Leave to which a worker is entitled under regulation 15B may be taken in instalments but, subject to the exceptions in paragraphs (2), (3), (4) and (6), it may only be taken in the leave year that it accrues.
+
+(2) A relevant agreement may provide for part of the annual leave to which a worker is entitled under regulation 15B to be carried forward into the leave year immediately following the leave year in which it accrued.
+
+(3) Where, as a result of taking a period of statutory leave in any leave year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under regulation 15B, the worker is entitled to carry forward such untaken leave into the following leave year.
+
+(4) Where, as a result of taking a period of sick leave in any leave year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under regulation 15B, the worker is entitled to carry forward such untaken leave into the following leave year provided it is taken by the end of the period of 18 months from the end of the leave year in which the entitlement originally arose.
+
+(5) Paragraph (6) applies where, in any leave year, an employer fails to—
+
+- (a) recognise a worker’s right to annual leave under regulation 15B or to payment for that leave in accordance with regulation 16;
+- (b) give the worker a reasonable opportunity to take the leave to which the worker is entitled under regulation 15B or encourage them to do so; or
+- (c) inform the worker that any leave not taken by the end of the leave year, which cannot be carried forward, will be lost.
+
+(6) Where this paragraph applies and subject to paragraph (7), the worker is entitled to carry forward any annual leave to which the worker is entitled under regulation 15B which is untaken in that leave year or has been taken but not paid in accordance with regulation 16.
+
+(7) Annual leave that has been carried forward pursuant to paragraph (6) cannot be carried forward beyond the end of the first full leave year in which paragraph (6) does not apply.
+
+### 15E. Irregular hours workers and part-year workers: compensation related to entitlement to leave
+
+(1) This regulation applies to a worker to whom regulation 15B applies, in respect of any leave years beginning on or after 1st April 2024.
+
+(2) Where—
+
+- (a) the worker’s employment is terminated during the course of their leave year, and
+- (b) at the date on which the termination takes effect, the worker has not taken all the annual leave to which they are entitled under regulation 15B(2),
+
+the worker’s employer must make the worker a payment in lieu of that untaken leave.
+
+(3) The payment due under paragraph (2) is—
+
+- (a) such sum as may be provided for in a relevant agreement for the purposes of this regulation, or
+- (b) where there are no provisions of a relevant agreement which apply, a sum equal to the amount that would be due under regulation 16 in respect of the untaken leave.
+
+(4) A relevant agreement may provide that, where—
+
+- (a) the worker’s employment is terminated during the course of their leave year, and
+- (b) the worker has taken more leave than that to which they are entitled under regulation 15B,
+
+the worker must compensate their employer, whether by a payment, by undertaking additional work or otherwise.
+
+(5) Paragraph (2) does not apply if the worker has in respect of the untaken leave mentioned in that paragraph been paid in the way described in regulation 16A.
+
+### 15F. Meaning of irregular hours workers and part-year workers
+
+(1) For the purposes of these Regulations—
+
+- (a) a worker is an irregular hours worker, in relation to a leave year, if the number of paid hours that they will work in each pay period during the term of their contract in that year is, under the terms of their contract, wholly or mostly variable;
+- (b) a worker is a part-year worker, in relation to a leave year, if, under the terms of their contract, they are required to work only part of that year and there are periods within that year (during the term of the contract) of at least a week which they are not required to work and for which they are not paid.
+
+(2) In a case where a worker has more than one contract with the same employer, the reference in paragraph (1)(a) to the number of paid hours that the worker will work under the terms of their contract being wholly or mostly variable includes a reference to the number being wholly or mostly variable when the terms of their contracts with that employer are looked at in the round.
+
+(3) In determining whether a worker is a part-year worker in relation to a leave year, any period of sick leave or statutory leave taken by the worker in that leave year is to be ignored.
+
+### 16. Payment in respect of periods of leave[^key-5f27458897999bc071d5478ff10ed37b][^key-5206ba5b7b9a23882f0e37280f949412]
+
+(1) A worker is entitled to be paid in respect of any period of annual leave to which he is entitled under regulations 13, 13A and 15B[^key-7fa0e38ffba85f4c181734618618c18c], at the rate of a week’s pay in respect of each week of leave.
+
+(1A)[^key-7b20f5a89cab9f440ba1827a3bc66f8d] The hourly rate of pay in respect of any period of annual leave to which a worker is entitled under regulation 15B is determined according to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1998/1833)
+
+where—
+
+- A is the week’s pay mentioned in paragraph (1); and
+- B is the average number of hours worked by the worker in each week used to calculate A.
+
+(2) Sections 221 to 224 of the 1996 Act shall apply for the purpose of determining the amount of a week’s pay for the purposes of this regulation, subject to the modifications set out in paragraph (3) , the supplementary provisions in paragraphs (3ZA) to (3ZG)[^key-f3e827c8cb668d74659e064150878e5d] and the exception in paragraph (3A)[^key-3bb02f7cafd6e9dce65292f9e36149c9].
+
+(3) The provisions referred to in paragraph (2) shall apply—
+
+- (a) as if references to the employee were references to the worker;
+- (b) as if references to the employee’s contract of employment were references to the worker’s contract;
+- (c) as if the calculation date were the first day of the period of leave in question; [^key-9adcb6a79f39f1c8060a33b7b6f33c1f]...
+- (d) as if the references to sections 227 and 228 did not apply;
+- (da)[^key-1b47ed0c6a8384ef2ea6169e6622e451] as if, in the case of entitlement under regulations 13 and 15B, sections 223(3) and 234 did not apply;
+- (e)[^key-01d8ce9ab411b8997838147c022fd868] subject to the exception in sub-paragraph (f)(ii), as if in sections 221(3), 222(3) and (4), 223(2) and 224(2) and (3) references to twelve were references to—
+  - (i) in the case of a worker who on the calculation date has been employed by their employer for less than 52 complete weeks, the number of complete weeks for which the worker has been employed, or
+  - (ii) in any other case, 52; and
+- (f) in any case where section 223(2) or 224(3) applies as if—
+  - (i) account were not to be taken of remuneration in weeks preceding the period of 104 weeks ending—
+    - (aa) where the calculation date is the last day of a week, with that week, and
+    - (bb) otherwise, with the last complete week before the calculation date; and
+  - (ii) the period of weeks required for the purposes of sections 221(3), 222(3) and (4) and 224(2) was the number of weeks of which account is taken.
+
+(3ZA)[^key-7d67b862b8ac9661bd48e122e9e82a6a] In the case of entitlement under regulations 13 and 15B the following types of payments are to be included when determining the amount of a week’s pay for the purposes of this regulation—
+
+- (a) payments, including commission payments, which are intrinsically linked to the performance of tasks which a worker is obliged to carry out under the terms of their contract;
+- (b) payments for professional or personal status relating to length of service, seniority or professional qualifications;
+- (c) other payments, such as overtime payments, which have been regularly paid to a worker in the 52 weeks preceding the calculation date.
+
+(3ZB) To the extent that the types of payment mentioned in paragraph (3ZA) would not otherwise be accounted for in a calculation of a week’s pay under sections 221 to 224 of the 1996 Act (as those sections apply for the purposes of this regulation), those types of payment are to be included by calculating the average weekly amount of those payments payable in the relevant period and adding it to the amount of a week’s pay arrived at under those sections.
+
+(3ZC) In the case of a worker who on the calculation date has been employed by their employer for less than 52 complete weeks, the “relevant period” is the number of complete weeks for which the worker has been employed.
+
+(3ZD) In the case of a worker who on the calculation date has been employed by their employer for 52 or more complete weeks, the “relevant period” is the period of 52 weeks ending—
+
+- (a) where the calculation date is the last day of a week, with that week, and
+- (b) otherwise, with the last complete week before the calculation date.
+
+(3ZE) In calculating the average weekly amount of payments for the purposes of paragraph (3ZB), no account is to be taken of any weeks during the relevant period in which—
+
+- (a) no remuneration was payable to the worker; or
+- (b) a worker was, for any amount of time, on sick leave or statutory leave.
+
+(3ZF) If, in a case falling within paragraph (3ZD), any weeks are discounted under paragraph (3ZE), earlier weeks shall be taken into account so as to bring the number of weeks to 52 (or as close to 52 as possible).
+
+(3ZG) For the purposes of paragraph (3ZF) no account is to be taken of remuneration in weeks preceding the period of 104 weeks ending—
+
+- (a) where the calculation date is the last day of a week, with that week, and
+- (b) otherwise, with the last complete week before the calculation date.
+
+(3A)[^key-adf868d50c131940f8a4047859748d16] In any case where applying sections 221 to 224 of the 1996 Act subject to the modifications set out in paragraph (3) gives no weeks of which account is taken, the amount of a week’s pay is not to be determined by applying those sections, but is the amount which fairly represents a week’s pay having regard to the considerations specified in section 228(3) as if references in that section to the employee were references to the worker.
+
+(3B) For the purposes of paragraphs (3) , (3ZA) to (3ZG)[^key-ed2693908cbd6413d64ec05d36e225c3] and (3A) “week” means, in relation to a worker whose remuneration is calculated weekly by a week ending with a day other than Saturday, a week ending with that other day and, in relation to any other worker, a week ending with Saturday.
+
+(4) A right to payment under paragraph (1) does not affect any right of a worker to remuneration under his contract (“contractual remuneration") (and paragraph (1) does not confer a right under that contract)[^key-fb2cb5ee2211002fa2244af9ab72bd81].
+
+(5) Any contractual remuneration paid to a worker in respect of a period of leave goes towards discharging any liability of the employer to make payments under this regulation in respect of that period; and, conversely, any payment of remuneration under this regulation in respect of a period goes towards discharging any liability of the employer to pay contractual remuneration in respect of that period.
+
+### 16A. Rolled-up holiday pay for irregular hours workers and part-year workers[^key-0740bef4c3d180359f76a8b1f5590155][^key-4aab37fff83a2fc93e28eed1970a8ce1]
+
+(1) This regulation applies in relation to pay due to a worker under regulation 16(1) in respect of leave to which the worker is entitled under regulation 15B.
+
+(2) Such holiday pay may be paid by way of a 12.07% uplift to the worker’s remuneration for work done.
+
+(3) Holiday pay paid in accordance with paragraph (2) must be paid at the same time as the worker’s remuneration for work done.
+
+(4) A worker—
+
+- (a) who is on sick leave or statutory leave, and
+- (b) who was, before going on sick leave or statutory leave, paid holiday pay in the way described in paragraph (2),
+
+must be paid holiday pay in accordance with paragraph (5) in respect of the annual leave that they accrue during the period of sick leave or statutory leave.
+
+(5) Such holiday pay is to be paid by way of a payment each pay period during the period of sick leave or statutory leave which is equal to the average amount of holiday pay that the worker was paid for each pay period during the relevant period.
+
+(6) In paragraph (5) the “**relevant period**” means—
+
+- (a) the period of 52 weeks ending with the day before the day on which the worker started the sick leave or statutory leave, or
+- (b) if the worker has been receiving holiday pay in the way described in paragraph (2) for a period of less than 52 complete weeks before starting the sick leave or statutory leave, that lesser period.
+
+(7) Where an employer pays a worker holiday pay in the way described in paragraph (2) or (5) any itemised pay statement provided by the employer to the worker must indicate the amount of holiday pay that has been paid for the period to which the statement relates.
+
+(8) An employer who, in respect of annual leave to which a worker is entitled under regulation 15B, pays holiday pay to the worker in accordance with paragraph (2) or (5) is discharged from their liability to make payments to the worker in the manner described in regulation 16 in respect of that annual leave.
+
+(9) In paragraph (2) the reference to remuneration is a reference to all types of payments that are to be included when determining the amount of a week’s pay for the purposes of regulation 16.
+
+(10) In paragraph (7), the reference to an itemised pay statement is to a statement given to a worker under section 8 of the 1996 Act.
+
+### 16B. Records relating to annual leave entitlement[^key-11dab252c569ccf18126d8e8d430895e]
+
+(1) An employer must—
+
+- (a) keep records which are adequate to show whether the employer has complied with the entitlements conferred by regulations 13(1), 13A(1), 15B(2) and 16(1) and the requirements in regulations 14(2) and (6) and 15E(2);
+- (b) retain such records for six years from the date on which they were made.
+
+(2) The records referred to in paragraph (1)(a) may be created, maintained and kept in such manner and format as the employer reasonably thinks fit.
+
+### 17. Entitlements under other provisions
+
+Where during any period a worker is entitled to a rest period, rest break or annual leave both under a provision of these Regulations and under a separate provision (including a provision of his contract), he may not exercise the two rights separately, but may, in taking a rest period, break or leave during that period, take advantage of whichever right is, in any particular respect, the more favourable.
+
+## PART III — EXCEPTIONS
+
+### 18. Excluded sectors[^key-e0c0921cad484c2f676729d348bca69d]
+
+(1) These Regulations do not apply—
+
+- (a)[^key-673f657c6e439198162836c75c92698a] to workers to whom the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^key-2e7390ccdde779a5c93683b9f07c5448] apply;
+- (b)[^key-41a36cb4b6675eaaaabccc15ca1c702b] to workers to whom the Fishing Vessels (Working Time: Sea-fishermen) Regulations 2004 apply;
+- (c)[^key-e23e5c6187a267c7dbcef1a85b541b2d] to workers to whom the Merchant Shipping (Working Time: Inland Waterways) Regulations 2003 apply.
+
+(2) Regulations 4(1) and (2), 6(1), (2) and (7), 7(1) and (6), 8, 10(1), 11(1) and (2), 12(1), 13 , 13A[^key-e0ef32df5edbe0a7a9cb86ce89f541b5] and 16 do not apply—
+
+- (a) where characteristics peculiar to certain specific services such as the armed forces or the police, or to certain specific activities in the civil protection services, inevitably conflict with the provisions of these Regulations;
+- (aa)[^key-46dbe8682838466b32b6a7aeba940d33] to workers to whom the Civil Aviation (Working Time) Regulations 2004 apply;
+- (b)[^key-8d0b58d6924b13a07e6226732755a537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) to the activities of workers who are doctors in training.
+
+(3) Paragraph (2)(c) has effect only until 31st July 2004.
+
+(4) Regulations 4(1) and (2), 6(1), (2) and (7), 8, 10(1), 11(1) and (2) and 12(1) do not apply to workers to whom the Road Transport (Working Time) Regulations 2005[^key-776c4e480fc965750000c0e3bd338e02] apply.
+
+(5)[^key-86a11e07743f473c720036457f12fc66] Regulation 24 does not apply to workers to whom the Cross-border Railways Services (Working Time) Regulations 2008 apply.
+
+### 19. Domestic service
+
+Regulations 4(1) and (2) , 5A(1) and (4),[^key-1ffd5e04bd8bc944ce498163cc9db446] 6(1), (2) and (7), 6A,[^key-5003946fbf27a91634ce95da0d48c781] 7(1), (2) and (6) and 8 do not apply in relation to a worker employed as a domestic servant in a private household.
+
+### 20. Unmeasured working time[^key-798af878422181ff13217175477f458a]
+
+(1)[^key-2972f43b0cb62daa54858b10a2a731e2] Regulations 4(1) and (2), 6(1), (2) and (7), 10(1), 11(1) and (2) and 12(1) do not apply in relation to a worker where, on account of the specific characteristics of the activity in which he is engaged, the duration of his working time is not measured or predetermined or can be determined by the worker himself, as may be the case for—
+
+- (a) managing executives or other persons with autonomous decision-taking powers;
+- (b) family workers; or
+- (c) workers officiating at religious ceremonies in churches and religious communities.
+
+(2)[^key-adc4afd5b16112bc58b072cda1ef5bf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Other special cases[^key-4aab634356b76771e5b3ef535d65145f]
+
+Subject to regulation 24, regulations 6(1), (2) and (7), 10(1), 11(1) and (2) and 12(1) do not apply in relation to a worker—
+
+- (a) where the worker’s activities are such that his place of work and place of residence are distant from one another , including cases where the worker is employed in offshore work,[^key-dacaa9124a5ee6012989895a0972962c] or his different places of work are distant from one another;
+- (b) where the worker is engaged in security and surveillance activities requiring a permanent presence in order to protect property and persons, as may be the case for security guards and caretakers or security firms;
+- (c) where the worker’s activities involve the need for continuity of service or production, as may be the case in relation to—
+  - (i) services relating to the reception, treatment or care provided by hospitals or similar establishments (including the activities of doctors in training)[^key-1daf1129e4dfa76c9c5d250a9c1879e1], residential institutions and prisons;
+  - (ii) work at docks or airports;
+  - (iii) press, radio, television, cinematographic production, postal and telecommunications services and civil protection services;
+  - (iv) gas, water and electricity production, transmission and distribution, household refuse collection and incineration;
+  - (v) industries in which work cannot be interrupted on technical grounds;
+  - (vi) research and development activities;
+  - (vii) agriculture;
+  - (viii)[^key-24a199277b5123da7049196082dfad6a] the carriage of passengers on regular urban transport services;
+- (d) where there is a foreseeable surge of activity, as may be the case in relation to—
+  - (i) agriculture;
+  - (ii) tourism; and
+  - (iii) postal services;
+- (e) where the worker’s activities are affected by—
+  - (i) an occurrence due to unusual and unforeseeable circumstances, beyond the control of the worker’s employer;
+  - (ii) exceptional events, the consequences of which could not have been avoided despite the exercise of all due care by the employer; or
+  - (iii) an accident or the imminent risk of an accident;
+- (f)[^key-147db04969f6f7b5c455d8714ea03773] where the worker works in railway transport and—
+  - (i) his activities are intermittent;
+  - (ii) he spends his working time on board trains; or
+  - (iii) his activities are linked to transport timetables and to ensuring the continuity and regularity of traffic.
+
+### 22. Shift workers
+
+(1) Subject to regulation 24—
+
+- (a) regulation 10(1) does not apply in relation to a shift worker when he changes shift and cannot take a daily rest period between the end of one shift and the start of the next one;
+- (b) paragraphs (1) and (2) of regulation 11 do not apply in relation to a shift worker when he changes shift and cannot take a weekly rest period between the end of one shift and the start of the next one; and
+- (c) neither regulation 10(1) nor paragraphs (1) and (2) of regulation 11 apply to workers engaged in activities involving periods of work split up over the day, as may be the case for cleaning staff.
+
+(2) For the purposes of this regulation—
+
+- “shift worker" means any worker whose work schedule is part of shift work; and
+- “shift work" means any method of organizing work in shifts whereby workers succeed each other at the same workstations according to a certain pattern, including a rotating pattern, and which may be continuous or discontinuous, entailing the need for workers to work at different times over a given period of days or weeks.
+
+### 23. Collective and workforce agreements
+
+A collective agreement or a workforce agreement may—
+
+- (a) modify or exclude the application of regulations 6(1) to (3) and (7), 10(1), 11(1) and (2) and 12(1), and
+- (b) for objective or technical reasons or reasons concerning the organization of work, modify the application of regulation 4(3) and (4) by the substitution, for each reference to 17 weeks, of a different period, being a period not exceeding 52 weeks,
+
+in relation to particular workers or groups of workers.
+
+### 24. Compensatory rest[^key-7751932d39a664af6102211fde02040d]
+
+Where the application of any provision of these Regulations is excluded by regulation 21 or 22, or is modified or excluded by means of a collective agreement or a workforce agreement under regulation 23(a), and a worker is accordingly required by his employer to work during a period which would otherwise be a rest period or rest break—
+
+- (a) his employer shall wherever possible allow him to take an equivalent period of compensatory rest, and
+- (b) in exceptional cases in which it is not possible, for objective reasons, to grant such a period of rest, his employer shall afford him such protection as may be appropriate in order to safeguard the worker’s health and safety.
+
+### 24A. Mobile workers[^key-af3a810261ffb466af53c3aac8429a2a]
+
+(1) Regulations 6(1), (2) and (7), 10(1), 11(1) and (2) and 12(1) do not apply to a mobile worker in relation to whom the application of those regulations is not excluded by any provision of regulation 18.
+
+(2) A mobile worker, to whom paragraph (1) applies, is entitled to adequate rest, except where the worker’s activities are affected by any of the matters referred to in regulation 21(e).
+
+(3) For the purposes of this regulation, “adequate rest” means that a worker has regular rest periods, the duration of which are expressed in units of time and which are sufficiently long and continuous to ensure that, as a result of fatigue or other irregular working patterns, he does not cause injury to himself, to fellow workers or to others and that he does not damage his health, either in the short term or in the longer term.
+
+### 25. Workers in the armed forces
+
+(1) Regulation 9 does not apply in relation to a worker serving as a member of the armed forces.
+
+(2) Regulations 5A, 6A,[^key-4428d3730b01982b745fbbcfe61b62d5] 10(2) and 11(3) do not apply in relation to a young worker serving as a member of the armed forces.
+
+(3) In a case where a young worker is accordingly required to work during the restricted period, or is not permitted the minimum rest period provided for in regulation 10(2) or 11(3),[^key-4676506979dd83e0787c1cdf2233b8a2] he shall be allowed an appropriate period of compensatory rest.
+
+### 25A. Doctors in training[^key-92ee16253da1554a818325ba92e91f49]
+
+(1)[^key-ab880ffb590cb55c5b4a5b46977c8e79] Paragraph (1) of regulation 4 is modified in its application to workers to whom this paragraph applies by substituting for the reference to 48 hours a reference to 52 hours—
+
+- (a) in the case of doctors in training who are employed in an employment falling within Table 1 of Schedule 2A, with effect from 1st August 2009 until 31st July 2011; and
+- (b) in the case of doctors in training who are employed in an employment falling within Table 2 of Schedule 2A, with effect from 2nd November 2009 until 31st July 2011.
+
+(1A)[^key-ea5d903a0e28ea47010a4d2735d299dc] Paragraph (1) applies to workers who are doctors in training who are employed—
+
+- (a) by an employer who is listed in column 1 of Table 1 or Table 2[^key-65802aa30c1232632c69b03c5551f6c8] contained in Schedule 2A,
+- (b) at a place listed in column 2 of the applicable table[^key-3e74ca426c9fdfe5e02bbb657443ad5d] in respect of that employer,
+- (c) to provide at that place one of the specialist services listed in column 3 of the applicable table[^key-339fb34b0f12d9764eaa011484c4c4ff] in respect of that place, and
+- (d) in one of the grades listed in column 4 of the applicable table[^key-5a036eea1ce3b72a7e78022110d785ce] in respect of that specialist service and, where applicable, working as part of a rota referred to in that column in respect of that grade, or those grades.
+
+(2) In the case of workers who are doctors in training, paragraphs (3)–(5) of regulation 4 shall not apply and paragraphs (3) and (4) of this regulation shall apply in their place.
+
+(3) Subject to paragraph (4), the reference period which applies in the case of a worker who is a doctor in training is, with effect from 1st August 2004—
+
+- (a) where a relevant agreement provides for the application of this regulation in relation to successive periods of 26 weeks, each such period; and
+- (b) in any other case, any period of 26 weeks in the course of his employment.
+
+(4) Where a doctor in training has worked for his employer for less than 26 weeks, the reference period applicable in his case is the period that has elapsed since he started work for his employer.
+
+### 25B. Workers employed in offshore work[^key-26b75e822538e81164f3665f286c5cad]
+
+(1) In the case of workers employed in offshore work, paragraphs (3)–(5) of regulation 4 shall not apply and paragraphs (2) and (3) of this regulation shall apply in their place.
+
+(2) Subject to paragraph (3), the reference period which applies in the case of workers employed in offshore work is—
+
+- (a) where a relevant agreement provides for the application of this regulation in relation to successive periods of 52 weeks, each such period; and
+- (b) in any other case, any period of 52 weeks in the course of his employment.
+
+(3) Where a worker employed in offshore work has worked for his employer for less than 52 weeks, the reference period applicable in his case is the period that has elapsed since he started work for his employer.
+
+### 26. Young workers employed on ships[^key-7e498967a0b768c2443c07e9213ac33b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26A. Entitlement to additional annual leave under a relevant agreement[^key-992c11bf19fb634fdcf1067f2a91fafc]
+
+(1) Regulation 13A does not apply in relation to a worker whose employer, as at 1st October 2007 and by virtue of a relevant agreement, provides each worker employed by him with an annual leave entitlement of 1.6 weeks or 8 days (whichever is the lesser) in addition to each worker’s entitlement under regulation 13, provided that such additional annual leave—
+
+- (a) may not be replaced by a payment in lieu except in relation to a worker whose employment is terminated;
+- (b) may not be carried forward into a leave year other than that which immediately follows the leave year in respect of which the leave is due; and
+- (c) is leave for which the worker is entitled to be paid at not less than the rate of a week’s pay in respect of each week of leave, calculated in accordance with sections 221 to 224 of the 1996 Act, modified such that—
+  - (i) references to the employee are references to the worker;
+  - (ii) references to the employee’s contract of employment are references to the worker’s contract;
+  - (iii) the calculation date is the first day of the period of leave in question; and
+  - (iv) the references to sections 227 and 228 do not apply.
+
+(2) Notwithstanding paragraph (1), any additional annual leave in excess of 1.6 weeks or 8 days (whichever is the lesser) to which a worker is entitled, shall not be subject to the conditions of that paragraph.
+
+(3) This regulation shall cease to apply to a worker from the day when an employer ceases to provide additional annual leave in accordance with the conditions in paragraph (1).
+
+(4) This regulation does not apply to workers to whom the Agricultural Wages (Scotland) Act 1949 applies (as that Act had effect on 1 July 1999).
+
+### 27. Young workers:force majeure
+
+(1) Regulations 5A, 6A,[^key-c275279eb76207dc79b503256a9bc102] 10(2) and 12(4) do not apply in relation to a young worker where his employer requires him to undertake work which no adult worker is available to perform and which—
+
+- (a) is occasioned by either—
+  - (i) an occurrence due to unusual and unforseeable circumstances, beyond the employer’s control, or
+  - (ii) exceptional events, the consequences of which could not have been avoided despite the exercise of all due care by the employer;
+- (b) is of a temporary nature; and
+- (c) must be performed immediately.
+
+(2) Where the application of regulation 5A, 6A,[^key-a1b1a32632dc539856dc1fff943d4a61] 10(2) or 12(4) is excluded by paragraph (1), and a young worker is accordingly required to work during a period which would otherwise be a rest period or rest break, his employer shall allow him to take an equivalent period of compensatory rest within the following three weeks.
+
+### 27A. Other exceptions relating to young workers[^key-2d7e457748b2b682faf6d221c83021ac]
+
+(1) Regulation 5A does not apply in relation to a young worker where—
+
+- (a) the young worker’s employer requires him to undertake work which is necessary either to maintain continuity of service or production or to respond to a surge in demand for a service or product;
+- (b) no adult worker is available to perform the work, and
+- (c) performing the work would not adversely affect the young worker’s education or training.
+
+(2) Regulation 6A does not apply in relation to a young worker employed—
+
+- (a) in a hospital or similar establishment, or
+- (b) in connection with cultural, artistic, sporting or advertising activities,
+
+in the circumstances referred to in paragraph (1).
+
+(3) Regulation 6A does not apply, except in so far as it prohibits work between midnight and 4 a.m., in relation to a young worker employed in—
+
+- (a) agriculture;
+- (b) retail trading;
+- (c) postal or newspaper deliveries;
+- (d) a catering business;
+- (e) a hotel, public house, restaurant, bar or similar establishment, or
+- (f) a bakery,
+
+in the circumstances referred to in paragraph (1).
+
+(4) Where the application of regulation 6A is excluded by paragraph (2) or (3), and a young worker is accordingly required to work during a period which would otherwise be a rest period or rest break—
+
+- (a) he shall be supervised by an adult worker where such supervision is necessary for the young worker’s protection, and
+- (b) he shall be allowed an equivalent period of compensatory rest.
+
+## PART IV — MISCELLANEOUS
+
+### 28. Enforcement[^key-94eeb37b5b06c82070e284b806b3773d]
+
+(1) In this regulation, regulations 29–29E and Schedule 3—
+
+- “the 1974 Act” means the Health and Safety at Work etc. Act 1974;
+- “[^key-f17446fef3e0e285e4cf9214ee075cd1]**2013 Act**” means the Energy Act 2013;
+- “the Civil Aviation Authority” means the authority referred to in section 2(1) of the Civil Aviation Act 1982;
+- “code of practice” includes a standard, a specification and any other documentary form of practical guidance;
+- [^key-f6a95dbd7894defe35676a3347afef1d]...
+- “[^key-79bf4d6b1a8b3515739d39910e7a83a6]DVSA” means the Driver and Vehicle Standards Agency;
+- “enforcement authority” means the Executive, a local authority, the Civil Aviation Authority ,[^key-fa80c308af1d6e004edc7cf063fec4f2] DVSA[^key-63e7467b2c163e92504275ba8521ab65] , the ONR[^key-436a77330deff40a18cf1e189262c1df] or the Office of Rail and Road[^key-d65fd2b4f2c6315163457982f87e8728];
+- “the Executive” means the Health and Safety Executive referred to in section 10(1)[^key-c2d1f8f4386c4ee5561b1182151d6a7a] of the 1974 Act;
+- “local authority” means—
+  - (a) in relation to England, a county council so far as they are the council for an area for which there are no district councils, a district council, a London borough council, the Common Council of the City of London, the Sub-Treasurer of the Inner Temple or the Under-Treasurer of the Middle Temple;
+  - (b) in relation to Wales, a county council or a county borough council;
+  - (c) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
+- “[^key-d7d95fa8d5a022b7e660cf7b851d56ff]**ONR**” means the Office for Nuclear Regulation;
+- “premises” includes any place and, in particular, includes—
+  - (a) any vehicle, vessel, aircraft or hovercraft;
+  - (b) any installation on land (including the foreshore and other land intermittently covered by water), any offshore installation, and any other installation (whether floating, or resting on the seabed or the subsoil thereof, or resting on other land covered with water or the subsoil thereof) and
+  - (c) any tent or movable structure;
+- “relevant civil aviation worker” means a mobile worker who works mainly on board civil aircraft, excluding any worker to whom regulation 18(2)(b) applies;
+- “[^key-a69e848ffdf1a9295a357cc81eb593d4]**relevant nuclear provisions**” means—
+  - (a) sections 1, 3 to 6, 22 and 24A of the Nuclear Installations Act 1965;
+  - (b) the provisions of the 2013 Act;
+  - (c) the provisions of nuclear regulations other than any provision of such regulations identified in accordance with section 74(9) of the 2013 Act as made for the nuclear safeguards purposes;
+- “**relevant nuclear site**” means a site which is—
+  - (a) a GB nuclear site (within the meaning given by section 68 of the 2013 Act);
+  - (b) an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or
+  - (c) a new nuclear build site (within the meaning given in regulation 2A of those Regulations);
+- “the relevant requirements” means the following provisions—
+  - (a) regulations 4(2), 5A(4), 6(2) and (7), 6A, 7(1), (2) and (6), 8, 9 and 27A(4)(a);
+  - (b) regulation 24, in so far as it applies where regulation 6(1), (2) or (7) is modified or excluded, and
+  - (c) regulation 24A(2), in so far as it applies where regulations 6(1), (2) or (7) is excluded;
+- “relevant road transport worker” means a mobile worker to whom one or more of the following applies—
+  - (a) Council Regulation[^key-2d5089a5e83b229148382a7e0845ee53] [(EC) No 561/2006](https://www.legislation.gov.uk/eur/2006/0561),
+  - (b) the European Agreement concerning the Work of Crews of Vehicles engaged in International Road Transport (AETR) of 1st July 1970, and
+  - (c) the United Kingdom domestic driver’s hours code, which is set out in Part VI of the Transport Act 1968;
+- “the relevant statutory provisions” means—
+  - (a) the provisions of the 1974 Act and of any regulations made under powers contained in that Act; and
+  - (b) while and to the extent that they remain in force, the provisions of the Acts mentioned in Schedule 1 to the 1974 Act and which are specified in the third column of that Schedule and the regulations, orders or other instruments of a legislative character made or having effect under a provision so specified [^key-39a5cd7210ea292558280c794754e49a]...
+- [^key-39a5cd7210ea292558280c794754e49a]...
+
+(2) It shall be the duty of the Executive to make adequate arrangements for the enforcement of the relevant requirements except to the extent that—
+
+- (a) a local authority is made responsible for their enforcement by paragraph (3);
+- (b) the Civil Aviation Authority is made responsible for their enforcement by paragraph (5);[^key-5fefc11624cf2cc9121547c252082528]...
+- (c) DVSA[^key-847a696425e91cc93f8f2ebe9366a806] is made responsible for their enforcement by paragraph (6);
+- (d)[^key-4ec3c111356b9d37928359e6537bf0b8] the Office of Rail Regulation is made responsible for their enforcement by paragraph (3A);
+- (e)[^key-53b544f15a38ae5dafdd46f5a21002b4] the ONR is made responsible for their enforcement by paragraph (3AA).
+
+(3) Where the relevant requirements apply in relation to workers employed in premises in respect of which a local authority is responsible, under the Health and Safety (Enforcing Authority) Regulations 1998, for enforcing any of the relevant statutory provisions, it shall be the duty of that authority to enforce those requirements.
+
+(3A)[^key-455243f8e81ad10301febea1286ca77a] Where the relevant requirements apply in relation to workers employed in the carrying out of any of the activities specified in regulation 3(2) of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 it shall be the duty of the the Office of Rail Regulation  to enforce those requirements.
+
+(3AA)[^key-3db054e45940afe5e8b082bd6873cd11] Where the relevant requirements apply in relation to workers employed in premises which are or are on a relevant nuclear site, it shall be the duty of the ONR to enforce those requirements.
+
+(4) The duty imposed on local authorities by paragraph (3) shall be performed in accordance with such guidance as may be given to them by the Executive[^key-7e4e57fe0d296771e0d56cf34a73de24].
+
+(5) It shall be the duty of the Civil Aviation Authority to enforce the relevant requirements in relation to relevant civil aviation workers.
+
+(6) It shall be the duty of DVSA[^key-6b283486c3bfdfc4a3bbc6841d385b17] to enforce the relevant requirements in relation to relevant road transport workers.
+
+(7) The provisions of Schedule 3 shall apply in relation to the enforcement of the relevant requirements.
+
+(8)[^key-6a16b52cd250e9dfb1dcbc17c82e0d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Offences
+
+(1) An employer who fails to comply with any of the relevant requirements or with regulation 16B(1)[^key-23b992d6d6cb0c9db006dff3a848f055] shall be guilty of an offence.
+
+(2) The provisions of paragraph (3) shall apply where an inspector is exercising or has exercised any power conferred by Schedule 3.
+
+(3) It is an offence for a person—
+
+- (a) to contravene any requirement imposed by the inspector under paragraph 2 of Schedule 3;
+- (b) to prevent or attempt to prevent any other person from appearing before the inspector or from answering any question to which the inspector may by virtue of paragraph 2(2)(e) of Schedule 3 require an answer;
+- (c) to contravene any requirement or prohibition imposed by an improvement notice or a prohibition notice (including any such notice as is modified on appeal);
+- (d) intentionally to obstruct the inspector in the exercise or performance of his powers or duties;
+- (e) to use or disclose any information in contravention of paragraph 8 of Schedule 3;
+- (f) to make a statement which he knows to be false or recklessly to make a statement which is false, where the statement is made in purported compliance with a requirement to furnish any information imposed by or under these Regulations.
+
+(4) An employer guilty of an offence under paragraph (1) shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine.
+
+(5) A person guilty of an offence under paragraph (3) shall be liable to the penalty prescribed in relation to that provision by paragraphs (6), (7) or (8) as the case may be.
+
+(6) A person guilty of an offence under sub-paragraph (3)(a), (b) or (d) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(7) A person guilty of an offence under sub-paragraph (3)(c) shall be liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding three months, or a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
+
+(8) A person guilty of an offence under any of the sub-paragraphs of paragraph (3) not falling within paragraphs (6) or (7) above, shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment—
+  - (i) if the offence is under sub-paragraph (3)(e), to imprisonment for a term not exceeding two years or a fine or both;
+  - (ii) if the offence is not one to which the preceding sub-paragraph applies, to a fine.
+
+(9) The provisions set out in regulations 29A–29E below shall apply in relation to the offences provided for in paragraphs (1) and (3).
+
+### 29A. Offences due to fault of other person
+
+Where the commission by any person of an offence is due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this paragraph whether or not proceedings are taken against the first-mentioned person.
+
+### 29B. Offences by bodies corporate
+
+(1) Where an offence committed by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, the preceding paragraph shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+### 29C. Restriction on institution of proceedings in England and Wales
+
+(1)[^key-d38a3ffc7a7ac9a3e8eca47ebcb13ade] Proceedings for an offence shall not, in England and Wales, be instituted except by an inspector or by or with the consent of the Director of Public Prosecutions.
+
+(2)[^key-2e593d76dac99ba7741b57ad9cf93ad7] But paragraph (1) does not prevent the Secretary of State from instituting proceedings in England and Wales for an offence under regulation 29(1) in respect of a failure to comply with regulation 16B(1) (duty to keep records).
+
+### 29D. Prosecutions by inspectors
+
+(1) An inspector, if authorised in that behalf by an enforcement authority, may, although not of counsel or a solicitor, prosecute before a magistrate’s court proceedings for an offence under these Regulations.
+
+(2) This regulation shall not apply to Scotland.
+
+### 29E. Power of court to order cause of offence to be remedied
+
+(1) Where a person is convicted of an offence in respect of any matters which appear to the court to be matters which it is in his power to remedy, the court may, in addition to or instead of imposing any punishment, order him, within such time as may be fixed by the order, to take such steps as may be specified in the order for remedying the said matters.
+
+(2) The time fixed by an order under paragraph (1) may be extended or further extended by order of the court on an application made before the end of that time as originally fixed or as extended under this paragraph, as the case may be.
+
+(3) Where a person is ordered under paragraph (1) to remedy any matters, that person shall not be liable under these Regulations in respect of those matters in so far as they continue during the time fixed by the order or any further time allowed under paragraph (2).
+
+### 30. Remedies[^key-854134037476af0958333ec50bf7a99e]
+
+(1) A worker may present a complaint to an employment tribunal that his employer—
+
+- (a) has refused to permit him to exercise any right he has under—
+  - (i)[^key-44777624f81ef0600fe6d4d8f6715e5d] regulation 10(1) or (2), 11(1), (2) or (3), 12(1) or (4), 13 , 13A, 15B or 15D[^key-d48ae896c0b564b5b84369010e83313c];
+  - (ii) regulation 24, in so far as it applies where regulation 10(1), 11(1) or (2) or 12(1) is modified or excluded; [^key-dfb6379a7d05486d167156691a7b0334]...
+  - (iii)[^key-f8e01a125f49cceb3c142b951b2bb559] regulation 24A, in so far as it applies where regulation 10(1), 11(1) or (2) or 12(1) is excluded; or
+  - (iv) regulation 25(3), 27A(4)(b) or 27(2); or
+- (b) has failed to pay him the whole or any part of any amount due to him under regulation 14(2) , 15E, 16(1) or 16A[^key-ea049ae065ad3411d5d8c0322d03f67d].
+
+(2) Subject to[^key-bff1c3972faf59ddc93597476f3f95ab] regulation[^key-3838322876eeea2567a4475cb9839ab1][^key-63cd90b03aa42d0996ef7ab52a12847a] 30B, an employment tribunal shall not consider a complaint under this regulation unless it is presented—
+
+- (a) before the end of the period of six months[^key-7eabae525bd2e675f23b74c91e20b2c7] beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period or leave extending over more than one day, the date on which it should have been permitted to begin) or, as the case may be, the payment should have been made;
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of [^key-ed988f6168ccb8f01fcd31e49d695cfb]... six months.
+
+(2A)[^key-d803f4c0b68502c1245613afc5ae6cf3] Where the period within which a complaint must be presented in accordance with paragraph (2) is extended by regulation 15 of the Employment Act 2002 (Dispute Resolution) Regulations 2004, the period within which the complaint must be presented shall be the extended period rather than the period in paragraph (2).
+
+(3) Where an employment tribunal finds a complaint under paragraph (1)(a) well-founded, the tribunal—
+
+- (a) shall make a declaration to that effect, and
+- (b) may make an award of compensation to be paid by the employer to the worker.
+
+(4) The amount of the compensation shall be such as the tribunal considers just and equitable in all the circumstances having regard to—
+
+- (a) the employer’s default in refusing to permit the worker to exercise his right, and
+- (b) any loss sustained by the worker which is attributable to the matters complained of.
+
+(5) Where on a complaint under paragraph (1)(b) an employment tribunal finds that an employer has failed to pay a worker in accordance with regulation 14(2) or (5), 15E, 16(1) or 16A[^key-1645f6e667da28c794dfd586da153f80], it shall order the employer to pay to the worker the amount which it finds to be due to him.
+
+### 30A. Extension of time limits because of mediation in certain cross-border disputes[^key-a8f8c51c3b91e34fd1fe3e4b1aceb216]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30B. Extension of time limit to facilitate conciliation before institution of proceedings[^key-b474bda6466f1f010e8c56d9e7296393]
+
+(1) In this regulation—
+
+- (a) Day A is the day on which the worker concerned complies with the requirement in subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
+- (b) Day B is the day on which the worker concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section.
+
+(2) In working out when the time limit set by regulation 30(2)(a) expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+
+(3) If the time limit set by regulation 30(2)(a) would (if not extended by this paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+
+(4) The power conferred on the employment tribunal by regulation 30(2)(b) to extend the time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
+
+### 31. Right not to suffer detriment
+
+(1) After section 45 of the 1996 Act there shall be inserted—
+
+> **45A. Working time cases.**
+>
+> (1) A worker has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that the worker—
+>
+> - (a) refused (or proposed to refuse) to comply with a requirement which the employer imposed (or proposed to impose) in contravention of the [^c16743951]Working Time Regulations 1998,
+> - (b) refused (or proposed to refuse) to forgo a right conferred on him by those Regulations,
+> - (c) failed to sign a workforce agreement for the purposes of those Regulations, or to enter into, or agree to vary or extend, any other agreement with his employer which is provided for in those Regulations,
+> - (d) being—
+>   - (i) a representative of members of the workforce for the purposes of Schedule 1 to those Regulations, or
+>   - (ii) a candidate in an election in which any person elected will, on being elected, be such a representative,
+>
+>   performed (or proposed to perform) any functions or activities as such a representative or candidate,
+> - (e) brought proceedings against the employer to enforce a right conferred on him by those Regulations, or
+> - (f) alleged that the employer had infringed such a right.
+>
+> (2) It is immaterial for the purposes of subsection (1)(e) or (f)—
+>
+> - (a) whether or not the worker has the right, or
+> - (b) whether or not the right has been infringed,
+>
+> but, for those provisions to apply, the claim to the right and that it has been infringed must be made in good faith.
+>
+> (3) It is sufficient for subsection (1)(f) to apply that the worker, without specifying the right, made it reasonably clear to the employer what the right claimed to have been infringed was.
+>
+> (4) This section does not apply where a worker is an employee and the detriment in question amounts to dismissal within the meaning of Part X, unless the dismissal is in circumstances in which, by virtue of section 197, Part X does not apply.
+
+(2) After section 48(1) of the 1996 Act there shall be inserted the following subsection—
+
+> (1ZA) A worker may present a complaint to an employment tribunal that he has been subjected to a detriment in contravention of section 45A.
+
+(3) In section 49 of the 1996 Act [^c16743961] (remedies)—
+
+- (a) in subsection (2), for “subsection (6)" there shall be substituted “ subsections (5A) and (6) ”, and
+- (b) after subsection (5), there shall be inserted—
+
+  > (5A) Where—
+  >
+  > - (a) the complaint is made under section 48 (1ZA),
+  > - (b) the detriment to which the worker is subjected is the termination of his worker’s contract, and
+  > - (c) that contract is not a contract of employment,
+  >
+  > any compensation must not exceed the compensation that would be payable under Chapter II of Part X if the worker had been an employee and had been dismissed for the reason specified in section 101A.
+
+(4) In section 192(2) of the 1996 Act (provisions applicable in relation to service in the armed forces), after paragraph (a) there shall be inserted—
+
+> - (aa) in Part V, section 45A, and sections 48 and 49 so far as relating to that section,
+
+.
+
+(5) In sections 194(2)(c), 195(2)(c) and 202(2)(b) of the 1996 Act, for “sections 44 and 47"there shall be substituted “ sections 44, 45A and 47 ”.
+
+(6) In section 200(1) of the 1996 Act (which lists provisions of the Act which do not apply to employment in police service), after “45," there shall be inserted “ 45A, ”.
+
+(7) In section 205 of the 1996 Act (remedy for infringement of certain rights), after subsection (1) there shall be inserted the following subsection—
+
+> (1ZA) In relation to the right conferred by section 45A, the reference in subsection (1) to an employee has effect as a reference to a worker.
+
+### 32. Unfair dismissal
+
+(1) After section 101 of the 1996 Act there shall be inserted the following section—
+
+> **101A. Working time cases.**
+>
+> An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee—
+>
+> - (a) refused (or proposed to refuse) to comply with a requirement which the employer imposed (or proposed to impose) in contravention of the [^c16743971]Working Time Regulations 1998,
+> - (b) refused (or proposed to refuse) to forgo a right conferred on him by those Regulations,
+> - (c) failed to sign a workforce agreement for the purposes of those Regulations, or to enter into, or agree to vary or extend, any other agreement with his employer which is provided for in those Regulations, or
+> - (d) being—
+>   - (i) a representative of members of the workforce for the purposes of Schedule 1 to those Regulations, or
+>   - (ii) a candidate in an election in which any person elected will, on being elected, be such a representative,
+>
+>   performed (or proposed to perform) any functions or activities as such a representative or candidate.
+
+(2) In section 104 of the 1996 Act (right of employees not to be unfairly dismissed for asserting particular rights) in subsection (4)—
+
+- (a) at the end of paragraph (b), the word “and" shall be omitted, and
+- (b) after paragraph (c), there shall be inserted the words—
+
+  > and
+  >
+  > - (d) the rights conferred by the [^c16743981]Working Time Regulations 1998.
+
+(3) In section 105 of the 1996 Act (redundancy as unfair dismissal), after subsection (4) there shall be inserted the following subsection—
+
+> (4A) This subsection applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in section 101A.
+
+(4) In sections 108(3) and 109(2) of the 1996 Act, after paragraph (d) there shall be inserted—
+
+> - (dd) section 101A applies,
+
+.
+
+(5) In sections 117(4)(b), 118(3), 120(1), 122(3), 128(1)(b) and 129(1) of the 1996 Act, after “100(1)(a) and (b)," there shall be inserted “ 101A(d), ”.
+
+(6) In section 202(2) (cases where disclosure of information is restricted on ground of national security)—
+
+- (a) in paragraph (g)(i), after “100" there shall be inserted “ , 101A(d) ”, and
+- (b) in paragraph (g)(ii), after “of that section," there shall be inserted “ or by reason of the application of subsection (4A) in so far as it applies where the reason (or, if more than one, the principal reason) for which an employee was selected for dismissal was that specified in section 101A(d) ”.
+
+(7) In section 209(2) of the 1996 Act (which lists provisions excluded from the scope of the power to amend the Act by order), after “101," in paragraph (e) there shall be inserted “ 101A, ”.
+
+(8) In sections 237(1A) and 238(2A) of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c16743991] (cases where employee can complain of unfair dismissal notwithstanding industrial action at time of dismissal), after “100" there shall be inserted “ , 101A(d) ”.
+
+(9) In section 10(5)(a) of the Employment Tribunals Act 1996 [^c16744001] (cases where Minister’s certificate is not conclusive evidence that action was taken to safeguard national security), after “100" there shall be inserted “ , 101A(d) ”.
+
+### 33. Conciliation
+
+In section 18(1) of the Employment Tribunals Act 1996 (cases where conciliation provisions apply)—
+
+- (a) at the end of paragraph (e), the word “or" shall be omitted, and
+- (b) after paragraph (f), there shall be inserted the words—
+
+  > or
+  >
+  > - (ff) under regulation 30 of the [^c16744011]Working Time Regulations 1998,
+
+  .
+
+### 34. Appeals
+
+In section 21 of the Employment Tribunals Act 1996 (jurisdiction of the Employment Appeal Tribunal)—
+
+- (a) at the end of subsection (1) (which confers jurisdiction by reference to Acts under or by virtue of which decisions are made) there shall be inserted—
+
+  > or under the [^c16744021]Working Time Regulations 1998.
+
+  ;
+- (b) in subsection (2), after “the Acts listed" there shall be inserted—
+
+  > or the Regulations referred to
+
+  .
+
+### 35. Restrictions on contracting out
+
+(1) Any provision in an agreement (whether a contract of employment or not) is void in so far as it purports—
+
+- (a) to exclude or limit the operation of any provision of these Regulations, save in so far as these Regulations provide for an agreement to have that effect, or
+- (b) to preclude a person from bringing proceedings under these Regulations before an employment tribunal.
+
+(2) Paragraph (1) does not apply to—
+
+- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of sections 18A to 18C[^key-b396fbd258e92bfb6ec2fd36563e7748] of the Employment Tribunals Act 1996 (conciliation); or
+- (b) any agreement to refrain from instituting or continuing proceedings within section 18(1)(j)[^key-29ac7f63673d16242592c3d2737c0bdf] of the Employment Tribunals Act 1996 (proceedings under these Regulations where conciliation is available), if the conditions regulating settlement[^key-f938800e8d4a63ea50d25636fd88d144] agreements under these Regulations are satisfied in relation to the agreement.
+
+(3) For the purposes of paragraph (2)(b) the conditions regulating settlement[^key-3ab8804b4bc91e9a0bcf8538b84e8679] agreements under these Regulations are that—
+
+- (a) the agreement must be in writing,
+- (b) the agreement must relate to the particular complaint,
+- (c) the worker must have received advice from a relevant independent adviser as to the terms and effect of the proposed agreement and, in particular, its effect on his ability to pursue his rights before an employment tribunal,
+- (d) there must be in force, when the adviser gives the advice, a contract of insurance, or an indemnity provided for members of a profession or professional body, covering the risk of a claim by the worker in respect of loss arising in consequence of the advice,
+- (e) the agreement must identify the adviser, and
+- (f) the agreement must state that the conditions regulating settlement agreements under these Regulations are satisfied.
+
+(4) A person is a relevant independent adviser for the purposes of paragraph (3)(c)—
+
+- (a) if he is a qualified lawyer,
+- (b) if he is an officer, official, employee or member of an independent trade union who has been certified in writing by the trade union as competent to give advice and as authorised to do so on behalf of the trade union, or
+- (c) if he works at an advice centre (whether as an employee or as a volunteer) and has been certified in writing by the centre as competent to give advice and as authorised to do so on behalf of the centre.
+
+(5) But a person is not a relevant independent adviser for the purposes of paragraph (3)(c) in relation to the worker—
+
+- (a) if he is, is employed by or is acting in the matter for the employer or an associated employer,
+- (b) in the case of a person within paragraph (4)(b) or (c), if the trade union or advice centre is the employer or an associated employer, or
+- (c) in the case of a person within paragraph (4)(c), if the worker makes a payment for the advice received from him.
+
+(6) In paragraph (4)(a), “qualified lawyer" means—
+
+- (a) as respects England and Wales, a person who, for the purposes of the Legal Services Act 2007), is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act)[^key-29c6b9fb35bc2060d81fe9469fb73da5]; and
+- (b) as respects Scotland, an advocate (whether in practice as such or employed to give legal advice), or a solicitor who holds a practising certificate.
+
+(6A)[^key-774d2f8c7107f570c5c358317557b41e] A person shall be treated as being a qualified lawyer within paragraph (6)(a) if he is a Fellow of the Institute of Legal Executives practising in a solicitor’s practice (including a body recognised under section 9 of the Administration of Justice Act 1985)[^key-16247701b648d31928433687b4f43a66].
+
+(7) For the purposes of paragraph (5) any two employers shall be treated as associated if—
+
+- (a) one is a company of which the other (directly or indirectly) has control; or
+- (b) both are companies of which a third person (directly or indirectly) has control;
+
+and “associated employer" shall be construed accordingly.
+
+**35A.**[^key-9905d898098c1559f453835bdb4b2faf] (1) The Secretary of State shall, after consulting persons appearing to him to represent the two sides of industry, arrange for the publication, in such form and manner as he considers appropriate, of information and advice concerning the operation of these Regulations.
+
+- (2) The information and advice shall be such as appear to him best calculated to enable employers and workers affected by these Regulations to understand their respective rights and obligations under them.
+
+## PART V — SPECIAL CLASSES OF PERSON
+
+### 36. Agency workers not otherwise “workers"
+
+(1) This regulation applies in any case where an individual (“the agency worker")—
+
+- (a) is supplied by a person (“the agent") to do work for another (“the principal") under a contract or other arrangements made between the agent and the principal; but
+- (b) is not, as respects that work, a worker, because of the absence of a worker’s contract between the individual and the agent or the principal; and
+- (c) is not a party to a contract under which he undertakes to do the work for another party to the contract whose status is, by virtue of the contract, that of a client or customer of any profession or business undertaking carried on by the individual.
+
+(2) In a case where this regulation applies, the other provisions of these Regulations shall have effect as if there were a worker’s contract for the doing of the work by the agency worker made between the agency worker and—
+
+- (a) whichever of the agent and the principal is responsible for paying the agency worker in respect of the work; or
+- (b) if neither the agent nor the principal is so responsible, whichever of them pays the agency worker in respect of the work,
+
+and as if that person were the agency worker’s employer.
+
+### 37. Crown employment
+
+(1) Subject to paragraph (4) and regulation 38, these Regulations have effect in relation to Crown employment and persons in Crown employment as they have effect in relation to other employment and other workers.
+
+(2) In paragraph (1) “Crown employment" means employment under or for the purposes of a government department or any officer or body exercising on behalf of the Crown functions conferred by a statutory provision.
+
+(3) For the purposes of the application of the provisions of these Regulations in relation to Crown employment in accordance with paragraph (1)—
+
+- (a) references to a worker shall be construed as references to a person in Crown employment; and
+- (b) references to a worker’s contract shall be construed as references to the terms of employment of a person in Crown employment.
+
+(4) No act or omission by the Crown which is an offence under regulation 29 shall make the Crown criminally liable, but the High Court or, in Scotland, the Court of Session may, on the application of a person appearing to the Court to have an interest, declare any such act or omission unlawful.
+
+### 38. Armed forces
+
+(1) Regulation 37 applies—
+
+- (a) subject to paragraph (2), to service as a member of the armed forces, and
+- (b) to employment by an association established for the purposes of Part XI of the Reserve Forces Act 1996 [^c16744041].
+
+(2) No complaint concerning the service of any person as a member of the armed forces may be presented to an employment tribunal under regulation 30 unless—
+
+- (a)[^key-bb8c15406533d42dda3bd62e6e41597c] that person (“the complainant”) has made a service complaint in respect of the same matter, and
+- (b) that complaint has not been withdrawn.
+
+(3)[^key-118085eaacd121bec39e25f16fae4c35] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of paragraph (2)(b) as withdrawn if—
+
+- (a) the period allowed in accordance with service complaints regulations for bringing an appeal against the person’s or panel’s decision expires,
+- (b) there are grounds (of which the complainant is aware) on which the complainant is entitled to bring such an appeal, and
+- (c) either—
+  - (i) the complainant does not apply to the Armed Forces Commissioner[^key-0df6cbd78072a7443e883afba516f946] for a review by virtue of section 340D(6)(a) of the Armed Forces Act 2006 (review of decision that appeal brought out of time cannot proceed), or
+  - (ii) the complainant does apply for such a review and the Commissioner[^key-860aa709f39febb82464bd33ca0d129e] decides that an appeal against the person’s or panel’s decision cannot be proceeded with.
+
+(4) Where a complaint of the kind referred to in paragraph (2) is presented to an employment tribunal, the procedures set out in service complaints regulations[^key-10736cf4c1713abc556522ad74557111] may continue after the complaint is presented.
+
+(5)[^key-ca191d84d89d42a8ec2874b63685dbd8] In this regulation—
+
+- “**service complaint**” means a complaint under section 340A of the Armed Forces Act 2006;
+- “**service complaints regulations**” means regulations made under section 340B(1) of that Act.
+
+### 39. House of Lords staff
+
+(1) These Regulations have effect in relation to employment as a relevant member of the House of Lords staff as they have effect in relation to other employment.
+
+(2) Nothing in any rule of law or the law or practice of Parliament prevents a relevant member of the House of Lords staff from presenting a complaint to an employment tribunal under regulation 30.
+
+(3) In this regulation “relevant member of the House of Lords staff" means any person who is employed under a worker’s contract with the Corporate Officer of the House of Lords.
+
+### 40. House of Commons staff
+
+(1) These Regulations have effect in relation to employment as a relevant member of the House of Commons staff as they have effect in relation to other employment.
+
+(2) For the purposes of the application of the provisions of these Regulations in relation to a relevant member of the House of Commons staff—
+
+- (a) references to a worker shall be construed as references to a relevant member of the House of Commons staff; and
+- (b) references to a worker’s contract shall be construed as references to the terms of employment of a relevant member of the House of Commons staff.
+
+(3) Nothing in any rule of law or the law or practice of Parliament prevents a relevant member of the House of Commons staff from presenting a complaint to an employment tribunal under regulation 30.
+
+(4) In this regulation “relevant member of the House of Commons staff" means any person—
+
+- (a) who was appointed by the House of Commons Commission; or
+- (b) who is a member of the Speaker’s personal staff.
+
+### 41. Police service
+
+(1) Subject to paragraph (1A),[^key-786fbcaca4df9860642d9b4e0a4c9ab6] for the purposes of these Regulations, the holding, otherwise than under a contract of employment, of the office of constable or an appointment as a police cadet shall be treated as employment, under a worker’s contract, by the relevant officer.
+
+(1A)[^key-ff84217422ce25b63b59a8c71ca0c7a4] For the purposes of these Regulations, any constable who has been seconded to the Serious Organised Crime Agency to serve as a member of its staff shall be treated as employed by the Serious Organised Crime Agency.
+
+(2) Any matter relating to the employment of a worker which may be provided for for the purposes of these Regulations in a workforce agreement may be provided for for the same purposes in relation to the service of a person holding the office of constable or an appointment as a police cadet by an agreement between the relevant officer and a branch board or a joint branch board (as the case may be)[^key-7b59032eb00ce8c528f786cfc3cfb91c].
+
+(3) In this regulation—
+
+- “a branch board” means a branch board constituted in accordance with regulation 10 of the Police Federation (England and Wales) Regulations 2017,[^key-0557c2b1d013c90a8441d01fa9486cfd]
+- “a joint branch board" means a joint branch board constituted in accordance with [^key-dfb511ea80c30a570ed931073627d8ff]...regulation 7(3) of the Police Federation (Scotland) Regulations 1985 [^c16744101], and
+- “the relevant officer" means—
+  - (a) in relation to a member of a police force or a special constable or police cadet appointed for a police area, the chief officer of police (or, in Scotland, the chief constable);
+  - (b) [^key-6488a868b459609f75f2d7110a98fae3]...
+  - (c) in relation to any other person holding the office of constable or an appointment as a police cadet, the person who has the direction and control of the body of constables or cadets in question.
+
+(4)[^key-d9ab90272bf111526f98778f1c0e1f4d] For the purposes of these Regulations the relevant officer, as defined by paragraph (3), shall be treated as a corporation sole.
+
+(5) Where, in a case in which the relevant officer, as so defined, is guilty of an offence under these Regulations, it is proved—
+
+- (a) that the office-holder personally consented to the commission of the offence;
+- (b) that he personally connived in its commission; or
+- (c) that the commission of the offence was attributable to personal neglect on his part,
+
+the office-holder (as well as the corporation sole) shall be guilty of an offence and shall be liable to be proceeded against and punished accordingly.
+
+(6) In paragraph (5) above “the office-holder”, in relation to the relevant officer, means an individual who, at the time of the consent, connivance or neglect—
+
+- (a) held the office or other position mentioned in paragraph (3) above as the office or position of that officer; or
+- (b) was for the time being responsible for exercising and performing the powers and duties of that office or position.
+
+(7) In the application of this regulation to Scotland—
+
+- (a) paragraph (4) shall have effect as if for the words “corporation sole” there were substituted “distinct juristic person (that is to say, as a juristic person distinct from the individual who for the time being is the office-holder)”;
+- (b) paragraph (5) shall have effect as if for the words “corporation sole” there were substituted “juristic person”; and
+- (c) paragraph (6) shall have effect as if for the words “paragraph (5)” there were substituted “paragraphs (4) and (5).”
+
+### 42. Non-employed trainees
+
+For the purposes of these Regulations, a person receiving relevant training, otherwise than under a contract of employment, shall be regarded as a worker, and the person whose undertaking is providing the training shall be regarded as his employer.
+
+### 43. Workers employed in agriculture in Wales or Scotland[^key-efe003c0cbc0ebcc3affa68b3015cf99]
+
+The provisions of Schedule 2 have effect in relation to workers employed in agriculture in Wales or Scotland[^key-7925df6742ef180628e046bb58c3947c].
+
+Ian McCartney
+
+Minister of State,
+
+Department of Trade and Industry
+
+## SCHEDULE 1 — WORKFORCE AGREEMENTS
+
+Regulation 2
+
+**1.** An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied—
+
+- (a) the agreement is in writing;
+- (b) it has effect for a specified period not exceeding five years;
+- (c) it applies either—
+  - (i) to all of the relevant members of the workforce, or
+  - (ii) to all of the relevant members of the workforce who belong to a particular group;
+- (d) the agreement is signed—
+  - (i) in the case of an agreement of the kind referred to in sub-paragraph (c)(i), by the representatives of the workforce, and in the case of an agreement of the kind referred to in sub-paragraph (c)(ii) by the representatives of the group to which the agreement applies (excluding, in either case, any representative not a relevant member of the workforce on the date on which the agreement was first made available for signature), or
+  - (ii) if the employer employed 20 or fewer workers on the date referred to in sub-paragraph (d)(i), either by the appropriate representatives in accordance with that sub-paragraph or by the majority of the workers employed by him;
+- (e) before the agreement was made available for signature, the employer provided all the workers to whom it was intended to apply on the date on which it came into effect with copies of the text of the agreement and such guidance as those workers might reasonably require in order to understand it fully.
+
+**2.** For the purposes of this Schedule—
+
+- “a particular group" is a group of the relevant members of a workforce who undertake a particular function, work at a particular workplace or belong to a particular department or unit within their employer’s business;
+- “relevant members of the workforce" are all of the workers employed by a particular employer, excluding any worker whose terms and conditions of employment are provided for, wholly or in part, in a collective agreement;
+- “representatives of the workforce" are workers duly elected to represent the relevant members of the workforce, “representatives of the group" are workers duly elected to represent the members of a particular group, and representatives are “duly elected" if the election at which they were elected satisfied the requirements of paragraph 3 of this Schedule.
+
+**3.** The requirements concerning elections referred to in paragraph 2 are that—
+
+- (a) the number of representatives to be elected is determined by the employer;
+- (b) the candidates for election as representatives of the workforce are relevant members of the workforce, and the candidates for election as representatives of a group are members of the group;
+- (c) no worker who is eligible to be a candidate is unreasonably excluded from standing for election;
+- (d) all the relevant members of the workforce are entitled to vote for representatives of the workforce, and all the members of a particular group are entitled to vote for representatives of the group;
+- (e) the workers entitled to vote may vote for as many candidates as there are representatives to be elected;
+- (f) the election is conducted so as to secure that—
+  - (i) so far as is reasonably practicable, those voting do so in secret, and
+  - (ii) the votes given at the election are fairly and accurately counted.
+
+## SCHEDULE 2 — WORKERS EMPLOYED IN AGRICULTURE in Wales or Scotland[^key-66ad28d663b54f2edac1a4ab573b6809]
+
+Regulations 13(4), 15(6) and 43
+
+**1.** Except where, in the case of a worker partly employed in agriculture in Wales or Scotland[^key-1364cfd8e1f43f27f3d8295c98fd9d4a], different provision is made by a relevant agreement—
+
+- (a) for the purposes of regulations 13, 13A and 15B[^key-94352f14e52cee40e7f67d8cdbace767], the leave year of a worker employed in agriculture in Wales or Scotland begins on 6th April each year or such other date as may be specified in an agricultural wages order which applies to him; and
+- (b) the dates on which leave is taken by a worker employed in agriculture in Wales or Scotland shall be determined in accordance with an agricultural wages order which applies to him.
+
+**2.** Where, in the case referred to in paragraph 1 above, a relevant agreement makes provision different from sub-paragraph (a) or (b) of that paragraph—
+
+- (a) neither section 11 of the Agricultural Wages Act 1948 [^c16744121] nor section 11 of the Agricultural Wages (Scotland) Act 1949 [^c16744131] shall apply to that provision; and
+- (b) an employer giving effect to that provision shall not thereby be taken to have failed to comply with the requirements of an agricultural wages order.
+
+**3.** In this Schedule, “an agricultural wages order" means an order under section 3 of the Agricultural Wages Act 1948 , section 3 of the Agricultural Sector (Wales) Act 2014[^key-94b1b964ad74f5a31773af9f9c11c41a] or section 3 of the Agricultural Wages (Scotland) Act 1949.
+
+## SCHEDULE 2A — Doctors in training[^key-3964e3df003c7c07951705e8ac852753]
+
+Regulation 25A(1A)
+
+TABLE 1[^M_F_e770b13e-1b59-4006-9227-1560cc0c37ff]
+
+<table>
+<thead>
+<tr><th><em>Column 1</em><br><em>Employer</em></th><th><em>Column 2</em><br><em>Place</em></th><th><em>Column 3</em><br><em>Specialist Services</em></th><th><em>Column 4</em><br><em>Grade and, where applicable, Rota</em></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="4"><em>England</em></td></tr>
+<tr><td colspan="4"><strong>East Midlands Strategic Health Authority area</strong></td></tr>
+<tr><td rowspan="12">Derby Hospitals NHS Foundation Trust</td><td rowspan="12">Derby City General Hospital</td><td>Acute Medicine – Medical Assessment Unit</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>Anaesthetics</td><td>F2, ST3 to ST7</td></tr>
+<tr><td>Anaesthetics – Obstetrics</td><td>CT2, ST3 to ST7</td></tr>
+<tr><td>Anaesthetics – Intensive Care</td><td>CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>Anaesthetics – Theatres</td><td>ST3 to ST7</td></tr>
+<tr><td>Clinical Oncology/ Haematology/ Palliative Medicine</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>General Medicine</td><td>F2, CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>General Surgery</td><td>ST3 to ST8</td></tr>
+<tr><td>General Surgery/ ENT/ Urology</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>ST3 to ST7</td></tr>
+<tr><td>Paediatrics</td><td>ST3 to ST8</td></tr>
+<tr><td>Urology</td><td>CT2, ST3 to ST7</td></tr>
+<tr><td rowspan="3">Nottingham University Hospitals National Health Service Trust</td><td>Nottingham City Hospital</td><td>Neonatology</td><td>ST4 to ST8</td></tr>
+<tr><td rowspan="2">Queens Medical Centre, Nottingham</td><td>General Surgery and Vascular Surgery</td><td>ST4 to ST8</td></tr>
+<tr><td>Neonatology</td><td>ST4 to ST8</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td rowspan="3">Sherwood Forest Hospitals NHS Foundation Trust</td><td rowspan="3">Kings Mill Hospital</td><td>Anaesthetics</td><td>F2, CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>F2, ST1 to ST7</td></tr>
+<tr><td>Paediatrics</td><td>F2, ST1 to ST8</td></tr>
+<tr><td rowspan="4">United Lincolnshire Hospitals National Health Service Trust</td><td>Grantham and District Hospital</td><td>General Medicine</td><td>F2, CT1 and CT2</td></tr>
+<tr><td rowspan="2">Lincoln County Hospital</td><td>Anaesthetics</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>General Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>Pilgrim Hospital</td><td>General Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td rowspan="3">University Hospitals of Leicester National Health Service Trust</td><td rowspan="2">Leicester Royal Infirmary</td><td>Emergency Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>Paediatrics</td><td>F2, ST1 to ST8</td></tr>
+<tr><td>Leicester Royal Infirmary and Leicester General Hospital</td><td>Neonatology</td><td>ST4 to ST8</td></tr>
+<tr><td colspan="4"><strong>East of England Strategic Health Authority area</strong></td></tr>
+<tr><td rowspan="4">Bedford Hospital National Health Service Trust</td><td rowspan="4">Bedford Hospital</td><td>Cardiology</td><td>ST3 to ST7</td></tr>
+<tr><td>Care of the Elderly</td><td>ST3 to ST7</td></tr>
+<tr><td>Endocrinology and Diabetes</td><td>ST3 to ST7</td></tr>
+<tr><td>Respiratory</td><td>ST3 to ST7</td></tr>
+<tr><td rowspan="2">Cambridge University Hospitals NHS Foundation Trust</td><td rowspan="2">Addenbrookes Hospital</td><td>Adult Intensive Care</td><td>F2, CT1, CT2 and ST3</td></tr>
+<tr><td>Transplantation</td><td>ST3 to ST8</td></tr>
+<tr><td>Cambridgeshire Primary Care Trust</td><td>Hinchingbrooke Hospital</td><td>Paediatrics</td><td>ST3 to ST8</td></tr>
+<tr><td>Hinchingbrooke Health Care National Health Service Trust</td><td>Hinchingbrooke Hospital</td><td>General Surgery</td><td>ST3 to ST7</td></tr>
+<tr><td>Ipswich Hospital National Health Service Trust</td><td>The Ipswich Hospital</td><td>Paediatrics</td><td>ST3 to ST8</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td rowspan="3">James Paget University Hospitals NHS Foundation Trust</td><td rowspan="3">James Paget University Hospital</td><td>Anaesthetics (Obstetrics, Pain, ITU and Theatres)</td><td>CT1, CT2, ST3 to ST8</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>ST3 to ST8</td></tr>
+<tr><td>Paediatrics</td><td>ST3 to ST8 – on call</td></tr>
+<tr><td rowspan="3">Norfolk and Norwich University Hospitals NHS Foundation Trust</td><td rowspan="3">Norfolk and Norwich University Hospital</td><td>Anaesthetics</td><td>CT1, CT2 and ST3</td></tr>
+<tr><td>Emergency Medicine</td><td>ST3 to ST8 – Tier 2 (full shift rota – 24 hour service)</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>CST1 and CST2 – Tier 2 (full shift)</td></tr>
+<tr><td rowspan="3">Papworth Hospital NHS Foundation Trust</td><td rowspan="3">Papworth Hospital</td><td>Acute Specialties (Chest Medicine)</td><td>F2, CT1, CT2, ST3 to ST8</td></tr>
+<tr><td>Cardiothoracic Surgery</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>Cardiothoracic Transplant Surgery</td><td>ST3 to ST8</td></tr>
+<tr><td>Peterborough and Stamford Hospitals NHS Foundation Trust</td><td>Peterborough District Hospital and Edith Cavell Hospital</td><td>Urology</td><td>ST3 to ST7</td></tr>
+<tr><td rowspan="3">West Hertfordshire Hospitals National Health Service Trust</td><td>Hemel Hempstead Hospital</td><td>Obstetrics and Gynaecology</td><td>ST3 to ST7</td></tr>
+<tr><td>St Albans City Hospital</td><td>Obstetrics and Gynaecology</td><td>ST3 to ST7</td></tr>
+<tr><td>Watford General Hospital</td><td>Obstetrics and Gynaecology</td><td>ST3 to ST7</td></tr>
+<tr><td colspan="4"><strong>London Strategic Health Authority area</strong></td></tr>
+<tr><td rowspan="3">Barking, Havering and Redbridge University Hospitals National Health Service Trust</td><td rowspan="3">Queen’s Hospital</td><td>Ear Nose and Throat</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>Maxillo Facial</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>Neurosciences (Neurology and Neurosurgery)</td><td>F2, ST1 and ST2</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td>Great Ormond Street Hospital for Children National Health Service Trust</td><td>Great Ormond Street Hospital for Children</td><td>Cardiothoracic Surgery</td><td>ST4 to ST6</td></tr>
+<tr><td>Hillingdon Hospital National Health Service Trust</td><td>Hillingdon Hospital</td><td>General Surgery (elective and non-elective) including Colorectal, Breast and Vascular</td><td>F2, CT1, CT2 and ST3</td></tr>
+<tr><td rowspan="3">Imperial College Healthcare National<br>Health Service Trust</td><td>Charing Cross Hospital</td><td>Neurosurgery</td><td>ST3 to ST7</td></tr>
+<tr><td>Hammersmith Hospital</td><td>Cardiothoracic Surgery</td><td>ST3 to ST7</td></tr>
+<tr><td>St Mary’s Hospital</td><td>Cardiothoracic Surgery</td><td>F2, CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>Kingston Hospital National Health Service Trust</td><td>Kingston Hospital</td><td>Anaesthesia and Intensive Care, ACCS</td><td>CT1, CT2, ST3 to ST7</td></tr>
+<tr><td rowspan="4">Whittington Hospital National Health Service Trust</td><td rowspan="4">Whittington Hospital</td><td>Anaesthetics/ ITU</td><td>ST3 to ST7</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>ST3 to ST7</td></tr>
+<tr><td>Paediatrics</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatrics – Neonates</td><td>ST1 to ST3</td></tr>
+<tr><td colspan="4"><strong>North East Strategic Health Authority area</strong></td></tr>
+<tr><td rowspan="6">The Newcastle Upon Tyne Hospitals NHS Foundation Trust</td><td rowspan="6">Newcastle General Hospital</td><td>Anaesthetics</td><td>ST3 to ST7 – 1st on call</td></tr>
+<tr><td></td><td>ST3 to ST7 – 2nd on call</td></tr>
+<tr><td>Critical Care (ITU)</td><td>ST3 to ST6</td></tr>
+<tr><td>Paediatrics</td><td>F2, ST1 to ST3 – 1st on call</td></tr>
+<tr><td></td><td>ST4 to ST8 – 2nd on call</td></tr>
+<tr><td>Paediatrics Intensive Care</td><td>ST4 to ST8</td></tr>
+<tr><td colspan="4"><strong>North West Strategic Health Authority area</strong></td></tr>
+<tr><td>Alder Hey Children’s NHS Foundation Trust</td><td>Alder Hey Children’s Hospital</td><td>Paediatric Cardiothoracic Surgery</td><td>ST3 to ST8, SpR</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td rowspan="3">East Lancashire Hospitals National Health Service Trust</td><td>Royal Blackburn Hospital</td><td>Otorhinolaryngology (ENT)</td><td>F2, ST1, ST2, CT1 and CT2 – 1st on call</td></tr>
+<tr><td>Royal Blackburn Hospital and Burnley General Hospital, Blackburn and Burnley Urgent Care Centres</td><td>Emergency Medicine</td><td>ST3 to ST7, SpR</td></tr>
+<tr><td>Royal Blackburn Hospital and Burnley General Hospital</td><td>Trauma and Orthopaedics</td><td>F2, ST1 and ST2 – 1st on call</td></tr>
+<tr><td rowspan="2">Lancashire Teaching Hospitals NHS Foundation Trust</td><td rowspan="2">Royal Preston Hospital</td><td>Neurosurgery</td><td>F2, CT1 and CT2 – 1st on call</td></tr>
+<tr><td></td><td>ST3 to ST7, SpR – 2nd on call</td></tr>
+<tr><td rowspan="9">North Cumbria University Hospitals National Health Service Trust</td><td rowspan="9">Cumberland Infirmary</td><td>ENT/ Trauma and Orthopaedics/ OMFS</td><td>F2, ST1, ST2, CT1 and CT2</td></tr>
+<tr><td>General Medicine and medical specialties</td><td>F1 – Acute 1st on call</td></tr>
+<tr><td></td><td>F2, CT1 and CT2 – Acute 2nd on call</td></tr>
+<tr><td></td><td>ST3 to ST7, SpR – Acute 3rd on call</td></tr>
+<tr><td>General Surgery</td><td>F1 – 1st on call</td></tr>
+<tr><td></td><td>F2, CT1 and CT2 - 2nd on call</td></tr>
+<tr><td></td><td>ST3 to ST7, SpR - 3rd on call</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>F2, ST1 and ST2 – 1st on call</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>ST3 to ST7, SpR – 2nd on call</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td rowspan="7"></td><td rowspan="7">West Cumberland Hospital</td><td>General Medicine and medical specialties</td><td>F1 – Acute 1st on call</td></tr>
+<tr><td></td><td>F2, CT1, CT2, ST3 to ST7, SpR – Acute 2nd on call</td></tr>
+<tr><td>General Surgery</td><td>F1 – 1st on call</td></tr>
+<tr><td></td><td>F2, CT1 and CT2 – 2nd on call</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>ST3 to ST7, SpR – 2nd on call</td></tr>
+<tr><td>Paediatrics</td><td>F2, ST1 and ST2 – 1st on call</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>ST3 to ST7, SpR – 2nd on call</td></tr>
+<tr><td>Royal Liverpool and Broadgreen University Hospitals National Health Service Trust</td><td>Royal Liverpool University Hospital</td><td>Renal Transplant Surgery</td><td>ST3 to ST7, SpR</td></tr>
+<tr><td>Trafford Healthcare National Health Service Trust</td><td>Trafford General Hospital</td><td>Anaesthesia</td><td>F2, CT1 and CT2 – 1st on call</td></tr>
+<tr><td>University Hospitals of Morecambe Bay National Health Service Trust</td><td>Furness General Hospital</td><td>Paediatrics</td><td>F2, ST1 and ST2</td></tr>
+<tr><td rowspan="2">Walton Centre for Neurology and Neurosurgery National Health Service Trust</td><td rowspan="2">Walton Centre for Neurology and Neurosurgery</td><td>Neurosciences</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>Neurosurgery</td><td>ST3 to ST7, SpR</td></tr>
+<tr><td colspan="4"><strong>South Central Strategic Health Authority area</strong></td></tr>
+<tr><td rowspan="2">Buckinghamshire Hospitals National Health Service Trust</td><td rowspan="2">Wycombe Hospital and Stoke Mandeville Hospital</td><td>Obstetrics and Gynaecology</td><td>F2, ST1 to ST7, FTSTA1 and FTSTA2</td></tr>
+<tr><td>Paediatrics</td><td>ST3 to ST8</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td rowspan="8">Milton Keynes Hospital NHS Foundation Trust</td><td rowspan="8">Milton Keynes General Hospital</td><td>Anaesthetics</td><td>ST3 to ST7</td></tr>
+<tr><td>Anaesthetics – ITU</td><td>FT2, CT1 and CT2</td></tr>
+<tr><td>Anaesthetics – Theatres</td><td>CT2, ST3 to ST7</td></tr>
+<tr><td>Emergency Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>General Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>Paediatrics</td><td>F2, ST1 to ST8</td></tr>
+<tr><td>Surgery</td><td>CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>F2, CT1, CT2, ST3 to ST8</td></tr>
+<tr><td rowspan="2">Portsmouth Hospitals National Health Service Trust</td><td rowspan="2">Queen Alexandra Hospital</td><td>General Paediatrics</td><td>ST3 to ST8</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>ST3 to ST7</td></tr>
+<tr><td rowspan="2">Southampton University Hospitals National Health Service Trust</td><td>Princess Anne Hospital</td><td>Obstetrics and Gynaecology</td><td>ST3 to ST7</td></tr>
+<tr><td>Southampton General Hospital</td><td>Anaesthetics – Critical Care</td><td>F2, CT1, CT2, ST3 to ST7</td></tr>
+<tr><td colspan="4"><strong>South East Coast Strategic Health Authority area</strong></td></tr>
+<tr><td rowspan="2">Brighton and Sussex University Hospitals National Health Service Trust</td><td>Royal Sussex County Hospital</td><td>Anaesthetics</td><td>CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>Princess Royal Hospital</td><td>Anaesthetics</td><td>CT1, CT2, ST3 to ST7</td></tr>
+<tr><td rowspan="2">East Sussex Hospitals National Health Service Trust</td><td rowspan="2">Conquest Hospital and Eastbourne District General Hospital</td><td>Emergency Medicine</td><td>ST4 to ST7</td></tr>
+<tr><td>Paediatrics</td><td>ST4 to ST8</td></tr>
+<tr><td rowspan="2">Frimley Park Hospital NHS Foundation Trust</td><td rowspan="2">Frimley Park Hospital</td><td>Anaesthetics and Intensive Care (obstetric anaesthesia and critical care medicine)</td><td>ST3 to ST7</td></tr>
+<tr><td>Clinical Haematology</td><td>ST3 to ST7</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td rowspan="2">Maidstone and Tunbridge Wells National Health Service Trust</td><td>Kent and Sussex Hospital</td><td>ENT</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>Pembury Hospital</td><td>Obstetrics and Gynaecology</td><td>ST4 to ST7</td></tr>
+<tr><td rowspan="3">Royal Surrey County Hospital National Health Service Trust</td><td rowspan="3">Royal Surrey County Hospital</td><td>Haematology</td><td>ST3 to ST7</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>ST3 to ST8</td></tr>
+<tr><td>Urology</td><td>ST3 to ST7</td></tr>
+<tr><td>Surrey and Sussex Healthcare National Health Service Trust</td><td>East Surrey Hospital</td><td>Anaesthetics and Intensive Care (obstetric anaesthesia and critical care medicine)</td><td>CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>Western Sussex Hospitals National Health Service Trust</td><td>St Richard’s Hospital</td><td>General Medicine</td><td>F2, CT1 and CT2</td></tr>
+<tr><td></td><td></td><td>Obstetrics and Gynaecology</td><td>ST3 to ST7</td></tr>
+<tr><td></td><td></td><td>Paediatrics</td><td>ST4 to ST8</td></tr>
+<tr><td></td><td></td><td>Surgery</td><td>F1, F2, CT1, CT2, ST3 to ST7</td></tr>
+<tr><td></td><td></td><td>Trauma and Orthopaedics</td><td>F1, F2, CT1, CT2, ST3 to ST7</td></tr>
+<tr><td></td><td></td><td>Urology</td><td>ST3 to ST7</td></tr>
+<tr><td colspan="4"><strong>South West Strategic Health Authority area</strong></td></tr>
+<tr><td>Gloucestershire Hospitals NHS Foundation Trust</td><td>Gloucestershire Royal Hospital and Cheltenham General Hospital</td><td>Anaesthetics and Critical Care Services</td><td>F2, CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>North Bristol National Health Service Trust</td><td>Frenchay Hospital</td><td>Anaesthetics</td><td>CT1, CT2, ST3 to ST7 – 1st on call</td></tr>
+<tr><td></td><td></td><td></td><td>CT1, CT2, ST3 to ST7 – 2nd on call</td></tr>
+<tr><td></td><td></td><td>Trauma and Orthopaedics</td><td>CT1 and CT2 – 1st on call</td></tr>
+<tr><td></td><td>Southmead Hospital</td><td>Anaesthetics</td><td>CT1, CT2, ST3 to ST7 – 1st on call</td></tr>
+<tr><td></td><td></td><td></td><td>CT1, CT2, ST3 to ST7 – 2nd on call</td></tr>
+<tr><td></td><td></td><td>Trauma and Orthopaedics</td><td>CT1 and CT2 – 1st on call</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td rowspan="5">Poole Hospital NHS Foundation Trust</td><td rowspan="5">Poole Hospital</td><td>Anaesthetics: Theatre</td><td>CT1 and CT2 (16 hour full shift)</td></tr>
+<tr><td>Anaesthetics: Critical Care</td><td>ST3 to ST5 (24 hour full shift)</td></tr>
+<tr><td>Anaesthetics</td><td>ST3 to ST5 (full shift 24 hours cover for theatres, back up for Obstetrics and Critical Care)</td></tr>
+<tr><td>Emergency Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>Obstetrics</td><td>ST2 to ST4 (24 hour full shift)</td></tr>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td>Paediatrics</td><td>ST3 to ST8</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>CT1 and CT2</td></tr>
+<tr><td rowspan="2">University Hospitals Bristol NHS Foundation Trust</td><td>Bristol Heart Institute</td><td>Cardiothoracic Surgery Services</td><td>ST3 to ST7</td></tr>
+<tr><td>Bristol Royal Infirmary</td><td>Cardiothoracic Surgery Services</td><td>CT1 and CT2</td></tr>
+<tr><td colspan="4"><strong>West Midlands Strategic Health Authority area</strong></td></tr>
+<tr><td rowspan="11">Birmingham Children’s Hospital NHS Foundation Trust</td><td rowspan="11">Birmingham Children’s Hospital</td><td>General Paediatrics</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatric Endocrinology</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatric Gastroenterology</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatric Haematology/ Oncology</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatric Hepatology</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatric Inherited Metabolic Diseases</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatric Nephrology</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatric Neurology</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatric Neurosurgery</td><td>ST4 to ST9</td></tr>
+<tr><td>Paediatric Respiratory Medicine</td><td>ST4 to ST8</td></tr>
+<tr><td>Paediatric Rheumatology</td><td>ST4 to ST8</td></tr>
+<tr><td rowspan="3">Burton Hospitals NHS Foundation Trust</td><td rowspan="3">Queen’s Hospital</td><td>Critical Care Anaesthesia</td><td>ST3 to ST7</td></tr>
+<tr><td>General Anaesthesia</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>Obstetrics Anaesthesia</td><td>ST3 to ST7</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td>George Eliot Hospital National Health Service Trust</td><td>George Eliot Hospital</td><td>Paediatrics</td><td>ST4 to ST8</td></tr>
+<tr><td rowspan="3">Heart of England NHS Foundation Trust</td><td rowspan="2">Birmingham Heartlands Hospital</td><td>General Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>ST3 to ST8</td></tr>
+<tr><td>Solihull Hospital</td><td>Trauma and Orthopaedics</td><td>F2, CT1, CT2, ST1 to ST6</td></tr>
+<tr><td>Mid Staffordshire NHS Foundation Trust</td><td>Stafford Hospital and Cannock Chase Hospital</td><td>Acute Medical Specialties and Medical Specialties</td><td>CT1, CT2 and ST3</td></tr>
+<tr><td rowspan="4">Shrewsbury and Telford Hospital National Health Service Trust</td><td rowspan="2">Royal Shrewsbury Hospital</td><td>General Surgery</td><td>ST3 to ST8</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>F2, CT1, CT2, ST1 to ST3</td></tr>
+<tr><td rowspan="2">The Princess Royal Hospital</td><td>General Surgery</td><td>ST3 to ST8</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>F2, CT1, CT2, ST1 to ST3</td></tr>
+<tr><td>The Royal Wolverhampton Hospitals National Health Service Trust</td><td>New Cross Hospital</td><td>Paediatrics including Neonatal Services</td><td>ST4 to ST8</td></tr>
+<tr><td rowspan="7">University Hospital of North Staffordshire National Health Service Trust</td><td rowspan="7">City General Hospital and Royal Infirmary</td><td>Acute Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>Diabetes</td><td>ST3 to ST7</td></tr>
+<tr><td>Elderly Care</td><td>ST3 to ST7</td></tr>
+<tr><td>Gastroenterology</td><td>ST3 to ST7</td></tr>
+<tr><td>General Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>Infectious Diseases</td><td>ST3 to ST7</td></tr>
+<tr><td>Respiratory</td><td>ST3 to ST7</td></tr>
+<tr><td rowspan="2">University Hospital Birmingham NHS Foundation Trust</td><td rowspan="2">Queen Elizabeth Hospital</td><td>Anaesthetics and Critical Care – supporting Surgical Specialties and Obstetrics</td><td>CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>Cardiothoracic Surgery</td><td>ST3 to ST8</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td colspan="4"><strong>Yorkshire and the Humber Strategic Health Authority area</strong></td></tr>
+<tr><td rowspan="2">Barnsley Hospital NHS Foundation Trust</td><td rowspan="2">Barnsley Hospital</td><td>Acute and Medical Specialties – Combined MAU</td><td>F2, CT1, CT2, ST3 to ST8</td></tr>
+<tr><td>Paediatrics</td><td>ST1 to ST8</td></tr>
+<tr><td>Sheffield Children’s NHS Foundation Trust</td><td>Sheffield Children’s Hospital</td><td>Paediatric Surgery</td><td>F1, CT1, CT2, ST3 to ST8, SpR</td></tr>
+<tr><td rowspan="5">The Rotherham NHS Foundation Trust</td><td rowspan="5">Rotherham General Hospital</td><td>Anaesthetics</td><td>CT1, CT2, ST3 to ST7</td></tr>
+<tr><td>General Surgery/ Urology</td><td>CT1 and CT2</td></tr>
+<tr><td>Oral Maxillo Facial Surgery</td><td>CT1 and CT2</td></tr>
+<tr><td>Paediatrics</td><td>ST1 to ST8</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>CT1, CT2, ST1 and ST2</td></tr>
+<tr><td colspan="4"><strong><em>Wales</em></strong></td></tr>
+<tr><td rowspan="6">Abertawe Bro Morgannwg University National Health Service Trust, also known as Ymddiriedolaeth Brifysgol Gwasanaeth Iechyd Gwladol Abertawe Bro Morgannwg, and from 1st October 2009 Abertawe Bro Morgannwg University Local Health Board</td><td rowspan="2">Singleton Hospital</td><td>General Paediatrics</td><td>Senior</td></tr>
+<tr><td>Paediatrics – Neo Natal</td><td>Junior</td></tr>
+<tr><td rowspan="2">Morriston Hospital</td><td>General Paediatrics</td><td>Senior</td></tr>
+<tr><td>Neuro Surgery</td><td>Junior and Senior</td></tr>
+<tr><td>Neath Port Talbot Hospital</td><td>General Medicine (incorporating Endocrinology, Respiratory, Gastroenterology, Cardiology and Care of the Elderly)</td><td>Junior</td></tr>
+<tr><td>Princess of Wales Hospital</td><td>Paediatrics</td><td>Junior and Senior</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td>Cardiff and Vale National Health Service Trust, also known as Ymddiriedolaeth Gwasanaeth Iechyd Gwladol Caerdydd a’r Fro, and from 1st October 2009 Cardiff and Vale University Local Health Board</td><td>University Hospital of Wales</td><td>Paediatrics</td><td>Junior and Senior</td></tr>
+<tr><td></td><td></td><td>Paediatrics (neonatal intensive care unit)</td><td>Junior and Senior</td></tr>
+<tr><td rowspan="3">Cwm Taf National Health Service Trust, also known as Ymddiriedolaeth Gwasanaeth Iechyd Gwladol Cwm Taf, and from 1st October 2009 Cwm Taf Local Health Board</td><td rowspan="3">Prince Charles Hospital</td><td>Anaesthetic</td><td>Junior and Senior</td></tr>
+<tr><td>Paediatrics</td><td>Junior and Senior</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td>Royal Glamorgan Hospital</td><td>Neo Natal</td><td>Junior</td></tr>
+<tr><td></td><td></td><td>Paediatrics</td><td>Junior and Senior</td></tr>
+<tr><td rowspan="3">Gwent Healthcare National Health Service Trust, also known as Ymddiriedolaeth Gwasanaeth Iechyd Gwladol Gofal Iechyd Gwent, and from 1st October 2009 Aneurin Bevan Local Health Board</td><td>Nevill Hall Hospital</td><td>Combined Paediatric/ Neo Natal</td><td>Junior and Senior</td></tr>
+<tr><td rowspan="2">Royal Gwent Hospital</td><td>Neo Natal</td><td>Junior and Senior</td></tr>
+<tr><td>Paediatrics</td><td>Senior</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr><td rowspan="2">Hywel Dda National Health Service Trust, also known as Ymddiriedolaeth Gwasanaeth Iechyd Gwladol Hywel Dda, and from 1st October 2009 Hywel Dda Local Health Board</td><td>Withybush General Hospital</td><td>Paediatric</td><td>Junior</td></tr>
+<tr><td>West Wales General Hospital</td><td>Paediatric</td><td>Junior</td></tr>
+<tr><td rowspan="4">North Wales National Health Service Trust, also known as Ymddiriedolaeth Gwasanaeth Iechyd Gwladol Gogledd Cymru, and from 1st October 2009 Betsi Cadwaladr University Local Health Board</td><td rowspan="2">Glan Clwyd Hospital</td><td>Obstetrics and Gynaecology</td><td>Junior and Senior</td></tr>
+<tr><td>Paediatrics</td><td>Junior and Senior</td></tr>
+<tr><td rowspan="2">Wrexham Maelor Hospital</td><td>Obstetrics and Gynaecology</td><td>Junior and Senior</td></tr>
+<tr><td>Paediatrics</td><td>Junior and Senior</td></tr>
+<tr><td rowspan="3">North West Wales National Health Service Trust, also known as Ymddiriedolaeth Gwasanaeth Iechyd Gwladol Gogledd-orllewin Cymru, and from 1st October 2009 Betsi Cadwaladr University Local Health Board</td><td rowspan="3">Ysbyty Gwynedd</td><td>Anaesthetics</td><td>Junior and Senior</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>Senior</td></tr>
+<tr><td>Paediatrics/ Neo Natal</td><td>Junior and Senior</td></tr>
+</tbody>
+</table>
+
+TABLE 2[^M_F_f313e329-ebdd-4ba9-cd88-d5328999e3f2]
+
+<table>
+<thead>
+<tr><th><em>Column 1</em><br><em>Employer</em></th><th><em>Column 2</em><br><em>Place</em></th><th><em>Column 3</em><br><em>Specialist Services</em></th><th><em>Column 4</em><br><em>Grade and, where applicable, Rota</em></th></tr>
+<tr><th colspan="4">England</th></tr>
+<tr><th colspan="4">East Midlands Strategic Health Authority area</th></tr>
+</thead>
+<tbody>
+<tr><td rowspan="3">Chesterfield Royal Hospital NHS Foundation Trust</td><td rowspan="3">Chesterfield Royal Hospital</td><td>Emergency Medicine</td><td>F2, ST1 to ST7</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>F2, ST1 to ST7</td></tr>
+<tr><td>Paediatrics</td><td>F2, ST1 to ST8</td></tr>
+<tr><td>Derby Hospitals NHS Foundation Trust</td><td>Royal Derby Hospital</td><td>Oral Maxillo Facial Surgery</td><td>ST3 to ST7</td></tr>
+<tr><td>Northampton General Hospital National Health Service Trust</td><td>Northampton General Hospital</td><td>Emergency Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>Nottingham University Hospitals National Health Service Trust</td><td>Queens Medical Centre, Nottingham</td><td>Neurosurgery</td><td>ST4 to ST8</td></tr>
+<tr><td rowspan="2">University Hospitals of Leicester National Health Service Trust</td><td>Glenfield Hospital</td><td>Paediatric (Cardiology and Cardiac Intensive Care)</td><td>ST3 to ST8</td></tr>
+<tr><td>Leicester Royal Infirmary and Leicester General Hospital</td><td>Neonatology</td><td>ST1 to ST3</td></tr>
+<tr><th colspan="4">East of England Strategic Health Authority area</th></tr>
+<tr><td>Cambridge University Hospitals NHS Foundation Trust</td><td>Addenbrookes Hospital</td><td>Anaesthetics</td><td>ST3 to ST7 and SpR</td></tr>
+<tr><td rowspan="2">Norfolk and Norwich University Hospitals NHS Foundation Trust</td><td rowspan="2">Norfolk and Norwich University Hospital</td><td>Obstetrics and Gynaecology</td><td>ST3 to ST9 and SpR– Tier 3 (partial shift rota (24 hour service))</td></tr>
+<tr><td>Paediatric Neonatal</td><td>ST3 to ST8 and SpR – Tier 2 (full shift</td></tr>
+<tr><td>Peterborough and Stamford Hospitals NHS Foundation Trust</td><td>Peterborough District Hospital and Edith Cavell Hospital</td><td>General Surgery</td><td>CT1 and CT2</td></tr>
+<tr><td>The Queen Elizabeth Hospital King’s Lynn National Health Service Trust</td><td>The Queen Elizabeth Hospital</td><td>Obstetrics and Gynaecology</td><td>ST3</td></tr>
+<tr><th colspan="4">London Strategic Health Authority area</th></tr>
+<tr><td>The Royal Free Hampstead National Health Service Trust</td><td>The Royal Free</td><td>Neurosurgery</td><td>ST3 to ST8</td></tr>
+<tr><td rowspan="2">The Royal Marsden NHS Foundation Trust</td><td rowspan="2">The Royal Marsden</td><td>Otolaryngology and Plastic Surgery</td><td>ST3 to ST8</td></tr>
+<tr><td>Urology and Gynaecology</td><td>ST3 to ST8</td></tr>
+<tr><th colspan="4">North East Strategic Health Authority area</th></tr>
+<tr><td rowspan="6">The Newcastle Upon Tyne Hospitals NHS Foundation Trust</td><td rowspan="2">Freeman Hospital</td><td>General Surgery – Hepatobiliary and Transplant</td><td>ST3 to ST7 and SpR</td></tr>
+<tr><td>Paediatric Cardiology</td><td>ST4 to ST8 and SpR – 2<sup>nd</sup> on call</td></tr>
+<tr><td rowspan="2">Newcastle General Hospital</td><td rowspan="2">Neurology</td><td>F2, CT1 and CT2 - 1<sup>st</sup> on call</td></tr>
+<tr><td>ST3 to ST7 and SpR - 2<sup>nd</sup> on call</td></tr>
+<tr><td rowspan="2">Royal Victoria Infirmary</td><td>Paediatric Surgery</td><td>ST4 to ST8 and SpR - 2<sup>nd</sup> on call</td></tr>
+<tr><td>Paediatrics</td><td>ST4 to ST8 and SpR</td></tr>
+<tr><td>North Tees and Hartlepool NHS Foundation Trust</td><td>University Hospital of Hartlepool and University Hospital of North Tees</td><td>Paediatrics</td><td>ST3 to ST7 and SpR</td></tr>
+<tr><th colspan="4">North West Strategic Health Authority area</th></tr>
+<tr><td>Aintree University Hospitals NHS Foundation Trust</td><td>University Hospital Aintree</td><td>Anaesthetics - Critical Care</td><td>CT1, CT2 and ST3 to ST7</td></tr>
+<tr><td rowspan="3">North Cumbria University Hospitals National Health Service Trust</td><td rowspan="2">Cumberland Infirmary</td><td>Emergency Medicine</td><td>F2, FTSTA1, FTSTA2 and ST1 to ST7</td></tr>
+<tr><td>Paediatrics</td><td>ST1 and ST2</td></tr>
+<tr><td>West Cumberland Hospital</td><td>Emergency Medicine</td><td>F2 and ST1 to ST3</td></tr>
+<tr><td>Royal Bolton Hospitals NHS Foundation Trust</td><td>Royal Bolton Hospital</td><td>Paediatrics</td><td>FTSTA3 and ST4 to ST8</td></tr>
+<tr><td>Tameside Hospital NHS Foundation Trust</td><td>Tameside General Hospital</td><td>Trauma and Orthopaedics</td><td>F2, CT1, CT2, ST1 and ST2</td></tr>
+<tr><td>Warrington and Halton Hospitals NHS Foundation Trust</td><td>Warrington Hospital</td><td>Trauma and Orthopaedics</td><td>F2, ST1 and ST2</td></tr>
+<tr><th colspan="4">South Central Strategic Health Authority area</th></tr>
+<tr><td>Buckinghamshire Hospitals National Health Service Trust</td><td>Stoke Mandeville Hospital and Wycombe Hospital</td><td>Anaesthetics</td><td>ST3 to ST5</td></tr>
+<tr><td rowspan="6">Isle of Wight National Health Service Primary Care Trust</td><td rowspan="6">St. Mary’s Hospital</td><td>General Medicine</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>General Medicine</td><td>ST3 and ST4</td></tr>
+<tr><td>Emergency Medicine</td><td>F2, ST1 and ST2</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>ST3</td></tr>
+<tr><td>General Surgery</td><td>F1</td></tr>
+<tr><td>General Surgery, Trauma and Orthopaedics, Obstetrics and Gynaecology</td><td>F2, ST1 and ST2 – Basic Surgical Training rota</td></tr>
+<tr><td>Oxford Radcliffe Hospitals National Health Service Trust</td><td>Horton General Hospital, Banbury</td><td>Obstetrics and Gynaecology</td><td>ST3 to ST5</td></tr>
+<tr><td>Winchester and Eastleigh Healthcare National Health Service Trust</td><td>Royal Hampshire County Hospital</td><td>Surgery</td><td>ST3 to ST5</td></tr>
+<tr><th colspan="4">South East Coast Strategic Health Authority area</th></tr>
+<tr><td>Ashford and St. Peter’s Hospitals National Health Service Trust</td><td>St. Peter’s Hospital</td><td>Anaesthetics</td><td>CT2 and ST3 to ST7</td></tr>
+<tr><td rowspan="3">Brighton and Sussex University Hospitals National Health Service Trust</td><td>Princess Royal Hospital</td><td>General Internal Medicine</td><td>ST3 to ST8</td></tr>
+<tr><td>Royal Sussex County Hospital and Princess Royal Hospital</td><td>Emergency Medicine</td><td>ST3 to ST8</td></tr>
+<tr><td>Royal Sussex County Hospital</td><td>Obstetrics and Gynaecology</td><td>ST3 to ST8</td></tr>
+<tr><td rowspan="2">East Kent Hospitals University NHS Foundation Trust</td><td rowspan="2">Queen Elizabeth the Queen Mother Hospital</td><td>Anaesthetics – Intensive Care Unit and Theatres</td><td>CT1 and CT2</td></tr>
+<tr><td>Paediatrics</td><td>ST3 to ST7</td></tr>
+<tr><td rowspan="4">Frimley Park Hospital NHS Foundation Trust</td><td rowspan="4">Frimley Park Hospital</td><td>Anaesthetics – Intensive Care and Acute Care Common Stem</td><td>CT1 and CT2</td></tr>
+<tr><td>Emergency Medicine</td><td>ST3 to ST6</td></tr>
+<tr><td>Obstetrics and Gynaecology</td><td>ST1 to ST7</td></tr>
+<tr><td>Paediatrics</td><td>ST4 to ST7</td></tr>
+<tr><td rowspan="3">Royal Surrey County Hospital National Health Service Trust</td><td rowspan="3">Royal Surrey County Hospital</td><td>Anaesthetics – Intensive Care Unit</td><td>F2, CT1 and CT2</td></tr>
+<tr><td>Acute Medicine</td><td>F1, F2, CT1, CT2 and ST3 to ST7</td></tr>
+<tr><td>Emergency Medicine</td><td>ST3 to ST7</td></tr>
+<tr><td>Surrey and Sussex Healthcare National Health Service Trust</td><td>East Surrey Hospital and Crawley Hospital</td><td>Paediatrics</td><td>ST3 to ST6</td></tr>
+<tr><th colspan="4">South West Strategic Health Authority area</th></tr>
+<tr><td rowspan="2">University Hospitals Bristol NHS Foundation Trust</td><td>Bristol Eye Hospital, Bristol Royal Infirmary and St. Michael’s Hospital</td><td>Anaesthetics</td><td>ST3 and ST4 - 1st on call<br>ST4 to ST7 – 2nd on call</td></tr>
+<tr><td>Bristol Royal Hospital For Children, Frenchay Hospital, Southmead Hospital and St. Michael’s Hospital</td><td>Otolaryngology</td><td>ST1 to ST3</td></tr>
+<tr><th colspan="4">West Midlands Strategic Health Authority area</th></tr>
+<tr><td>George Eliot Hospital National Health Service Trust</td><td>George Eliot Hospital</td><td>Anaesthetics</td><td>ST3 to ST7</td></tr>
+<tr><td rowspan="2">University Hospital of North Staffordshire National Health Service Trust</td><td rowspan="2">The Royal Infirmary</td><td>Renal</td><td>ST3 to ST8</td></tr>
+<tr><td>Neurosurgery</td><td>F2, ST1 to ST3</td></tr>
+<tr><th colspan="4">Yorkshire and the Humber Strategic Health Authority area</th></tr>
+<tr><td>Bradford Teaching Hospitals NHS Foundation Trust</td><td>Bradford Royal Infirmary and St. Lukes Hospital</td><td>Otolaryngology/<br>Plastic Surgery/Oral and Maxillofacial Surgery (merged rota)</td><td>F2, CT1 and CT2</td></tr>
+<tr><td rowspan="3">Calderdale and Huddersfield NHS Foundation Trust</td><td>Calderdale Royal Hospital</td><td>Emergency Medicine</td><td>F2, CT1, CT2, CT3, ST4, ST5 and SpR</td></tr>
+<tr><td rowspan="2">Huddersfield Royal Infirmary</td><td>Anaesthetics</td><td>CT1, CT2, ST3 to ST5 and SpR</td></tr>
+<tr><td>Emergency Medicine</td><td>F2, CT1, CT2, CT3, ST4, ST5 and SpR</td></tr>
+<tr><td>Hull and East Yorkshire Hospitals National Health Service Trust</td><td>Hull Royal Infirmary</td><td>Neurosurgery</td><td>F2, ST1 and ST2</td></tr>
+<tr><td rowspan="5">Scarborough and North East Yorkshire Healthcare National Health Service Trust</td><td rowspan="5">Scarborough General Hospital</td><td>Anaesthetics</td><td>CT1, CT2 and ST3 to ST5</td></tr>
+<tr><td>Acute Medicine</td><td>ST3 to ST5</td></tr>
+<tr><td>Neurology</td><td>ST3 to ST5</td></tr>
+<tr><td>Diabetes and Endocrinology</td><td>ST3 to ST5</td></tr>
+<tr><td>Care of the Elderly</td><td>ST3 to ST5</td></tr>
+<tr><td>Sheffield Children’s NHS Foundation Trust</td><td>Sheffield Children’s NHS Foundation Trust, Capitol Park, Barnsley</td><td>Paediatrics – Critical Care, Neonatal Services</td><td>ST6 to ST8 – Transport rota</td></tr>
+<tr><td>The Rotherham NHS Foundation Trust</td><td>Rotherham General Hospital</td><td>Obstetrics and Gynaecology</td><td>ST1 to ST7</td></tr>
+<tr><td rowspan="2">York Hospitals NHS Foundation Trust</td><td rowspan="2">York Hospital</td><td>Obstetrics and Gynaecology</td><td>ST3 to ST7 and SpR</td></tr>
+<tr><td>Trauma and Orthopaedics</td><td>F2, CT1, CT2, ST1 and ST2</td></tr>
+<tr><th colspan="4"><strong><em>Scotland</em></strong></th></tr>
+<tr><td>Ayrshire and Arran Health Board</td><td>Ayr Hospital</td><td>Emergency Medicine</td><td>ST3 to ST7 and SpR</td></tr>
+<tr><td>Borders Health Board</td><td>Borders General Hospital</td><td>Paediatrics</td><td>ST3 to ST9 and SpR</td></tr>
+<tr><td>Fife Health Board</td><td>Forth Park Maternity Hospital and Victoria Hospital</td><td>Paediatrics</td><td>ST3 to ST9 and SpR</td></tr>
+<tr><td rowspan="4">Lanarkshire Health Board</td><td rowspan="2">Wishaw General Hospital</td><td>Emergency Medicine</td><td>ST3 to ST7 and SpR</td></tr>
+<tr><td>Neonatology</td><td>ST3 to ST9 and SpR</td></tr>
+<tr><td>Hairmyres Hospital</td><td>Emergency Medicine</td><td>ST3 to ST7 and SpR</td></tr>
+<tr><td>Monklands Hospital</td><td>Emergency Medicine</td><td>ST3 to ST7 and SpR</td></tr>
+<tr><th colspan="4"><strong><em>Wales</em></strong></th></tr>
+<tr><td>Cwm Taf Local Health Board</td><td>Royal Glamorgan Hospital</td><td>Ophthalmology</td><td>Junior</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 3 — ENFORCEMENT[^key-a9519dcf5a52b285d117eb3df390d626]
+
+Regulation 28(7)
+
+### 1. Appointment of inspectors
+
+(1) Each enforcement authority may appoint as inspectors (under whatever title it may from time to time determine) such persons having suitable qualifications as it thinks necessary for carrying into effect these Regulations within its field of responsibility, and may terminate any appointment made under this paragraph.
+
+(2) Every appointment of a person as an inspector under this paragraph shall be made by an instrument in writing specifying which of the powers conferred on inspectors by these Regulations are to be exercisable by the person appointed; and an inspector shall in right of his appointment under this paragraph—
+
+- (a) be entitled to exercise only such of those powers as are so specified; and
+- (b) be entitled to exercise the powers so specified only within the field of responsibility of the authority which appointed him.
+
+(3) So much of an inspector’s instrument of appointment as specifies the powers which he is entitled to exercise may be varied by the enforcement authority which appointed him.
+
+(4) An inspector shall, if so required when exercising or seeking to exercise any power conferred on him by these Regulations, produce his instrument of appointment or a duly authenticated copy thereof.
+
+### 2. Powers of inspectors
+
+(1) Subject to the provisions of paragraph 1 and this sub-paragraph, an inspector may, for the purpose of carrying into effect these Regulations within the field of responsibility of the enforcement authority which appointed him, exercise the powers set out in sub-paragraph (2) below.
+
+(2) The powers of an inspector referred to in the preceding sub-paragraph are the following, namely—
+
+- (a) at any reasonable time (or, in a situation which in his opinion is or may be dangerous, at any time) to enter any premises which he has reason to believe it is necessary for him to enter for the purpose mentioned in sub-paragraph (1) above;
+- (b) to take with him a constable if he has reasonable cause to apprehend any serious obstruction in the execution of his duty;
+- (c) without prejudice to the preceding sub-paragraph, on entering any premises by virtue of paragraph (a) above to take with him—
+  - (i) any other person duly authorised by the inspector’s enforcement authority; and
+  - (ii) any equipment or materials required for any purpose for which the power of entry is being exercised;
+- (d) to make such examination and investigation as may in any circumstances be necessary for the purpose mentioned in sub-paragraph (1) above;
+- (e) to require any person whom he has reasonable cause to believe to be able to give any information relevant to any examination or investigation under paragraph (d) above to answer (in the absence of persons other than a person nominated by him to be present and any persons whom the inspector may allow to be present) such questions as the inspector thinks fit to ask and to sign a declaration of the truth of his answers;
+- (f) to require the production of, inspect, and take copies of or of any entry in—
+  - (i) any records which by virtue of these Regulations are required to be kept, and
+  - (ii) any other books, records or documents which it is necessary for him to see for the purposes of any examination or investigation under paragraph (d) above;
+- (g) to require any person to afford him such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as are necessary to enable the inspector to exercise any of the powers conferred on him by this paragraph;
+- (h) any other power which is necessary for the purpose mentioned in sub-paragraph (1) above.
+
+(3) No answer given by a person in pursuance of a requirement imposed under sub-paragraph (2)(e) above shall be admissible in evidence against that person or the spouse or civil partner[^key-59088eccebdb42f5057d1a964ec025b2] of that person in any proceedings.
+
+(4) Nothing in this paragraph shall be taken to compel the production by any person of a document of which he would on grounds of legal professional privilege be entitled to withhold production on an order for discovery in an action in the High Court or, as the case may be, on an order for the production of documents in an action in the Court of Session.
+
+### 3. Improvement notices
+
+If an inspector is of the opinion that a person—
+
+- (a) is contravening one or more of these Regulations; or
+- (b) has contravened one or more of these Regulations in circumstances that make it likely that the contravention will continue or be repeated,
+
+he may serve on him a notice (in this Schedule referred to as “an improvement notice”) stating that he is of that opinion, specifying the provision or provisions as to which he is of that opinion, giving particulars of the reasons why he is of that opinion, and requiring that person to remedy the contravention or, as the case may be, the matters occasioning it within such period (ending not earlier than the period within which an appeal against the notice can be brought under paragraph 6) as may be specified in the notice.
+
+### 4. Prohibition notices
+
+(1) This paragraph applies to any activities which are being or are likely to be carried on by or under the control of any person, being activities to or in relation to which any of these Regulations apply or will, if the activities are so carried on, apply.
+
+(2) If as regards any activities to which this paragraph applies an inspector is of the opinion that, as carried on or likely to be carried on by or under the control of the person in question, the activities involve or, as the case may be, will involve a risk of serious personal injury, the inspector may serve on that person a notice (in this Schedule referred to as “a prohibition notice”).
+
+(3) A prohibition notice shall—
+
+- (a) state that the inspector is of the said opinion;
+- (b) specify the matters which in his opinion give or, as the case may be, will give rise to the said risk;
+- (c) where in his opinion any of those matters involves or, as the case may be, will involve a contravention of any of these Regulations, state that he is of that opinion, specify the regulation or regulations as to which he is of that opinion, and give particulars of the reasons why he is of that opinion; and
+- (d) direct that the activities to which the notice relates shall not be carried on by or under the control of the person on whom the notice is served unless the matters specified in the notice in pursuance of paragraph (b) above and any associated contraventions of provisions so specified in pursuance of paragraph (c) above have been remedied.
+
+(4) A direction contained in a prohibition notice in pursuance of sub-paragraph (3)(d) above shall take effect—
+
+- (a) at the end of the period specified in the notice; or
+- (b) if the notice so declares, immediately.
+
+### 5. Provisions supplementary to paragraphs 3 and 4
+
+(1) In this paragraph “a notice” means an improvement notice or a prohibition notice.
+
+(2) A notice may (but need not) include directions as to the measures to be taken to remedy any contravention or matter to which the notice relates; and any such directions—
+
+- (a) may be framed to any extent by reference to any approved code of practice; and
+- (b) may be framed so as to afford the person on whom the notice is served a choice between different ways of remedying the contravention or matter.
+
+(3) Where an improvement notice or a prohibition notice which is not to take immediate effect has been served—
+
+- (a) the notice may be withdrawn by an inspector at any time before the end of the period specified therein in pursuance of paragraph 3 or paragraph 4(4) as the case may be; and
+- (b) the period so specified may be extended or further extended by an inspector at any time when an appeal against the notice is not pending.
+
+### 6. Appeal against improvement or prohibition notice
+
+(1) In this paragraph “a notice” means an improvement or a prohibition notice.
+
+(2) A person on whom a notice is served may within 21 days from the date of its service appeal to an employment tribunal; and on such an appeal the tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the tribunal may in the circumstances think fit.
+
+(3) Where an appeal under this paragraph is brought against a notice within the period allowed under the preceding sub-paragraph, then—
+
+- (a) in the case of an improvement notice, the bringing of the appeal shall have the effect of suspending the operation of the notice until the appeal is finally disposed of or, if the appeal is withdrawn, until the withdrawal of the appeal;
+- (b) in the case of a prohibition notice, the bringing of the appeal shall have the like effect if, but only if, on the application of the appellant the tribunal so directs (and then only from the giving of the direction).
+
+(4) One or more assessors may be appointed for the purposes of any proceedings brought before an employment tribunal under this paragraph.
+
+### 7. Power of enforcement authority to indemnify inspectors
+
+Where an action has been brought against an inspector in respect of an act done in the execution or purported execution of these Regulations and the circumstances are such that he is not legally entitled to require the enforcement authority to indemnify him, that authority may, nevertheless, indemnify him against the whole or part of any damages and costs or expenses which he may have been ordered to pay or may have incurred, if the authority is satisfied that the inspector honestly believed that the act complained of was within his powers and that his duty as an inspector required or entitled him to do it.
+
+### 8. Restrictions on disclosure of information
+
+(1) In this and the two following sub-paragraphs—
+
+- (a) “relevant information” means information obtained by an inspector in pursuance of a requirement imposed under paragraph 2(2)(e) or (f); and
+- (b) “the recipient”, in relation to any relevant information, means the person by whom that information was so obtained or to whom that information was so furnished, as the case may be.
+
+(2) Subject to the following sub-paragraph, no relevant information shall be disclosed without the consent of the person by whom it was furnished.
+
+(3) The preceding sub-paragraph shall not apply to—
+
+- (a) disclosure of information to the Commission , the ONR[^key-2284c0be4471ebbbdd5126d2e82b02d6], a government department or any enforcement authority;
+- (b) without prejudice to paragraph (a) above, disclosure by the recipient of information to any person for the purpose of any function conferred on the recipient by or under any of the relevant statutory provisions , relevant nuclear provisions[^key-ae35be84053a5b8a682e56a4d31bbb27] or under these Regulations;
+- (c) without prejudice to paragraph (a) above, disclosure by the recipient of information to—
+  - (i) an officer of a local authority who is authorised by that authority to receive it; or
+  - (ii) a constable authorised by a chief officer of police to receive it; or
+- (d) disclosure by the recipient of information in a form calculated to prevent it from being identified as relating to a particular person or case.
+
+(4) In the preceding sub-paragraph any reference to the Commission , the ONR[^key-9831acb8bd12a2c7fff1aa973fa82944], a government department or an enforcement authority includes respectively a reference to an officer of that body or authority (including in the case of an enforcement authority, any inspector appointed by it), and also, in the case of a reference to the Commission, includes a reference to—
+
+- (a) a person performing any functions of the Commission or the Executive on its behalf by virtue of section 13(1)(a) of the 1974 Act;
+- (b) an officer of a body which is so performing any such functions; and
+- (c) an adviser appointed in pursuance of section 13(1)(d) of the 1974 Act.
+
+(4A)[^key-dcf573cbb145e0610ce150ef280c3610] In sub-paragraph (3) a reference to the ONR also includes a reference to—
+
+- (a) a person performing functions of the ONR on its behalf by virtue of section 95 of the 2013 Act;
+- (b) an officer of a body which is so performing any such functions; and
+- (c) a person appointed to provide advice to the ONR.
+
+(5) A person to whom information is disclosed in pursuance of sub-paragraph (3) above shall not use the information for a purpose other than—
+
+- (a) in a case falling within sub-paragraph (3)(a), a purpose of the Commission , or the ONR[^key-e6cbf905e28a88669d51843181846f25], of the government department, or of the enforcement authority in question in connection with these Regulations , the relevant nuclear provisions[^key-8dfd17b58e3fb69fcdb816eaa2a88e72] or with the relevant statutory provisions, as the case may be;
+- (b) in the case of information given to an officer of a body which is a local authority, the purposes of the body in connection with the relevant statutory provisions , the relevant nuclear provisions[^key-100ab7d8c44102546c5af21cf814a56d] or any enactment whatsoever relating to working time, public health, public safety or the protection of the environment;
+- (c) in the case of information given to a constable, the purposes of the police in connection with these Regulations, the relevant statutory provisions , the relevant nuclear provisions[^key-d1e2f2e74c30703a837d23972e23897e] or any enactment whatsoever relating to working time, public health, public safety or the safety of the State.
+
+(6) A person shall not disclose any information obtained by him as a result of the exercise of any power conferred by paragraph 2 of this Schedule (including in particular any information with respect to any trade secret obtained by him in any premises entered by him by virtue of any such power) except—
+
+- (a) for the purposes of his functions;
+- (b) for the purposes of any legal proceedings; or
+- (c) with the relevant consent.
+
+In this sub-paragraph “the relevant consent” means the consent of the person who furnished it, and, in any other case, the consent of a person having responsibilities in relation to the premises where the information was obtained.
+
+(7) Notwithstanding anything in the preceding sub-paragraph an inspector shall, in circumstances in which it is necessary to do so for the purpose of assisting in keeping persons (or the representatives of persons) employed at any premises adequately informed about matters affecting their health, safety and welfare or working time, give to such persons or their representatives the following descriptions of information, that is to say—
+
+- (a) factual information obtained by him as mentioned in that sub-paragraph which relates to those premises or anything which was or is therein or was or is being done therein; and
+- (b) information with respect to any action which he has taken or proposes to take in or in connection with those premises in the performance of his functions;
+
+and, where an inspector does as aforesaid, he shall give the like information to the employer of the first-mentioned persons.
+
+(8) Notwithstanding anything in sub-paragraph (6) above, a person who has obtained such information as is referred to in that sub-paragraph may furnish to a person who appears to him to be likely to be a party to any civil proceedings arising out of any accident, occurrence, situation or other matter, a written statement of the relevant facts observed by him in the course of exercising any of the powers referred to in that sub-paragraph.
+
+(This note is not part of the Regulations)
+
+These Regulations implement Council Directive [93/104/EC](https://www.legislation.gov.uk/european/directive/1993/0104) concerning certain aspects of the organization of working time (O.J. No. L307, 13.12.93, p.18) and provisions concerning working time in Council Directive [94/33/EC](https://www.legislation.gov.uk/european/directive/1994/0033) on the protection of young people at work (O.J. No. L216, 20.8.94, p.12). The provisions in the latter Directive which are implemented relate only to adolescents (those aged between 15 and 18 who are over compulsory school age); provisions in that Directive relating to children were implemented by the Children (Protection at Work) Regulations 1998 (S.I.1998/276). Provisions implementing that Directive in relation to adolescents employed on ships are to be included in separate regulations to be made shortly after the date on which these Regulations are made, and adolescents employed on ships are accordingly excluded from the scope of these Regulations (regulation 26).
+
+Regulations 4 to 9 in these Regulations impose obligations on employers, enforceable by the Health and Safety Executive and local authorities; failure to comply is an offence. The obligations concern the maximum average weekly working time of workers (subject to provision for individual workers to agree that the maximum should not apply to them), the average normal hours of night workers, the provision of health assessments for night workers, and rest breaks to be given to workers engaged in certain kinds of work; employers are also required to keep records of workers’ hours of work.
+
+Regulations 10 to 17 confer rights on workers, enforceable by proceedings before employment tribunals. The rights are to a rest period in every 24 hours during which a worker works for his employer and longer rest periods each week or fortnight, to a rest break in the course of a working day, and to a period of paid annual leave.
+
+Regulations 18 to 27 provide for particular regulations not to apply, either in relation to workers engaged in certain kinds of work or where particular circumstances arise. There is also provision for groups of workers and their employers to agree to modify or exclude the application of particular regulations.
+
+The remaining regulations make provision in relation to enforcement and remedies, and in respect of agency workers, Crown servants, Parliamentary staff, the police, trainees and agricultural workers. The Employment Rights Act 1996 is amended to include a right for workers not to be subjected to any detriment for refusing to comply with a requirement contrary to these Regulations or to forgo a right conferred by them, and to provide that the dismissal of an employee on account of any such refusal is unfair dismissal for the purposes of the Act.
+
+## Annotations
+
+[^c16743781]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c16743791]: Marginal citation: [S.I. 1997/1174](https://www.legislation.gov.uk/uksi/1997/1174).
+
+[^c16743801]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266).
+
+[^c16743811]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c16743821]: Marginal citation: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^key-488e84d68e2570b43db0f6a691707139]: Textual amendment: Words in reg. 2(1) inserted (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2003/1684/regulation/3/a)
+
+[^key-625ae71513d02659d6e4917abfa8569c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/2/1) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/1)
+
+[^key-e9d0999a985c0d80e2611a9b1c28fb86]: Textual amendment: Words in reg. 2(1) inserted (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2003/1684/regulation/3/b)
+
+[^key-650c34c1ed3421ef3056d83b6f1ec4c3]: Textual amendment: Words in reg. 2(1) inserted (1.10.2006) by [The Working Time (Amendment) (No.2) Regulations 2006 (S.I. 2006/2389)](https://www.legislation.gov.uk/uksi/2006/2389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2389/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2006/2389/regulation/2)
+
+[^key-2733eb4e58cb87b443ecc13bc5e4cc34]: Textual amendment: Words in reg. 2(1) inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [3](https://www.legislation.gov.uk/uksi/2002/3128/regulation/3)
+
+[^key-4c9521ebf6377ec98418536d9f4700a8]: Textual amendment: Words in reg. 2(1) inserted (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2003/1684/regulation/3/c)
+
+[^key-ba0824de8cd05e6da68473d6b53d9f05]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/2/1) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/2/2)
+
+[^key-9e976b9f1276ccd7d7f2fe8a80cdcd15]: Textual amendment: Words in reg. 2(1) inserted (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 11(2)](https://www.legislation.gov.uk/anaw/2014/6/section/11/2), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
+
+[^c16743831]: Marginal citation: [1948 c.47](https://www.legislation.gov.uk/ukpga/1948/47).
+
+[^c16743841]: Marginal citation: [1949 c.30](https://www.legislation.gov.uk/ukpga/1949/30).
+
+[^c16743851]: Marginal citation: O.J. No. L307, 13.12.93, p.18.
+
+[^c16743861]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^c16743871]: Marginal citation: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^c16743881]: Marginal citation: O.J. No. L216, 20.8.94, p.12.
+
+[^key-aade8bf7b39354ac205e03bdd4b03253]: Textual amendment: Reg. 3(1): reg. 3 renumbered as reg. 3(1) (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/4/a)
+
+[^key-d265750ad4bb366c5aa77267cca07856]: Textual amendment: Reg. 3(2) inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/4/b)
+
+[^key-0c87a507fa1056bc70ccc1cc25793877]: Textual amendment: Words in reg. 4(1) substituted (17.12.1999) by [The Working Time Regulations 1999 (S.I. 1999/3372)](https://www.legislation.gov.uk/uksi/1999/3372), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/3/1/a)
+
+[^key-f23e4fe068383e7172fbccad78cc1ad4]: Textual amendment: Words in reg. 4(2) added (17.12.1999) by [The Working Time Regulations 1999 (S.I. 1999/3372)](https://www.legislation.gov.uk/uksi/1999/3372), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/3/1/b)
+
+[^key-0a6e7949cad07eae64e29dff42b5c0d8]: Textual amendment: Words in [reg. 4(7)(a)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/4/7/a) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/2)
+
+[^key-8d13b154295fa7a8450ed9867d82f0ed]: Textual amendment: Words in reg. 4(7)(c) inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [5](https://www.legislation.gov.uk/uksi/2002/3128/regulation/5)
+
+[^key-937310a6b174434cd6cdd0b4b19d436c]: Textual amendment: Words in reg. 4(7)(d) substituted (17.12.1999) by [The Working Time Regulations 1999 (S.I. 1999/3372)](https://www.legislation.gov.uk/uksi/1999/3372), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/3/1/c)
+
+[^key-ad07f5d3213fb7316841346bc1379821]: Textual amendment: Reg. 5(1) omitted (17.12.1999) by virtue of [The Working Time Regulations 1999 (S.I. 1999/3372)](https://www.legislation.gov.uk/uksi/1999/3372), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/3/2/a)
+
+[^key-936bcff2f128074742e28aa5c370ef62]: Textual amendment: Words in reg. 5(2)(3) substituted (17.12.1999) by [The Working Time Regulations 1999 (S.I. 1999/3372)](https://www.legislation.gov.uk/uksi/1999/3372), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/3/2/b)
+
+[^key-6657cdeea468fa8eabb51554602b4060]: Textual amendment: Reg. 5(4) omitted (17.12.1999) by virtue of [The Working Time Regulations 1999 (S.I. 1999/3372)](https://www.legislation.gov.uk/uksi/1999/3372), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/3/2/a)
+
+[^key-bcffee881aa2a65938d352ec788681c1]: Textual amendment: Reg. 5A inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [6](https://www.legislation.gov.uk/uksi/2002/3128/regulation/6)
+
+[^key-8743d7c5aa7c4e8a09f352663d0db361]: Textual amendment: Reg. 6(6) omitted (6.4.2003) by virtue of [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [7](https://www.legislation.gov.uk/uksi/2002/3128/regulation/7)
+
+[^key-e85dc956dc3e90422795bc32084e9c9a]: Textual amendment: Words in reg. 6(8)(b) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+
+[^key-e10a5c8af790a2f108eb8f8d20cda2a8]: Textual amendment: Reg. 6A inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [8](https://www.legislation.gov.uk/uksi/2002/3128/regulation/8)
+
+[^key-70950623ab82fd0543309cf942f8447b]: Textual amendment: Words in reg. 7(2) substituted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [9](https://www.legislation.gov.uk/uksi/2002/3128/regulation/9)
+
+[^key-b392f1ec0e8de599c8523fb494d51f1e]: Textual amendment: Reg. 9 renumbered as reg. 9(1) (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/7/2)
+
+[^key-eed0a5312e6d90d1913210f01b5a5497]: Textual amendment: [Reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/9/1/a) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/7/3)
+
+[^key-63e33eb3cda650827c23b569b6cd6292]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/9/3) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/7/4)
+
+[^key-e068c7f53c80aece5f543fa6de231850]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/1833/regulation/10) applied (1.4.2024) by [The Agricultural Wages (Wales) Order 2024 (S.I. 2024/390)](https://www.legislation.gov.uk/wsi/2024/390), [arts. 1](https://www.legislation.gov.uk/wsi/2024/390/article/1), [29](https://www.legislation.gov.uk/wsi/2024/390/article/29)
+
+[^key-fcd4ffcd5849bac1191f6a801f8d75e0]: Textual amendment: Words in reg. 10(1) substituted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [11](https://www.legislation.gov.uk/uksi/2002/3128/regulation/11)
+
+[^key-e4aa1b9507321a375f24fb77664256e1]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/1833/regulation/11) applied (1.4.2024) by [The Agricultural Wages (Wales) Order 2024 (S.I. 2024/390)](https://www.legislation.gov.uk/wsi/2024/390), [arts. 1](https://www.legislation.gov.uk/wsi/2024/390/article/1), [30](https://www.legislation.gov.uk/wsi/2024/390/article/30)
+
+[^key-7f590643d6d0e6f14b01819fe95c543c]: Textual amendment: Words in reg. 11(1)(2) substituted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [12](https://www.legislation.gov.uk/uksi/2002/3128/regulation/12)
+
+[^key-54b04fa4c679e1b05f56287b8a9c138a]: Textual amendment: Words in reg. 11(7) substituted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [12](https://www.legislation.gov.uk/uksi/2002/3128/regulation/12)
+
+[^key-d6a4c3ece06c4edb145053474ed27e3d]: Modification: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/1833/regulation/12) applied (1.4.2024) by [The Agricultural Wages (Wales) Order 2024 (S.I. 2024/390)](https://www.legislation.gov.uk/wsi/2024/390), [arts. 1](https://www.legislation.gov.uk/wsi/2024/390/article/1), [28](https://www.legislation.gov.uk/wsi/2024/390/article/28)
+
+[^key-ec022b2008f93a8a19559ef7ecb8262c]: Textual amendment: Words in reg. 12(1) substituted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/13/a)
+
+[^key-13b0a36190a01ec49e3ea895caaef60f]: Textual amendment: Words in reg. 12(2) substituted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/13/b)
+
+[^key-c9190012c6f0cd7041781cae004283c2]: Textual amendment: [Reg. 13(A1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/13/A1) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/3/a)
+
+[^key-39f79e5deb7f524c632e1c245fd0cc4c]: Textual amendment: Reg. 13(1) substituted (25.10.2001) by [The Working Time (Amendment) Regulations 2001 (S.I. 2001/3256)](https://www.legislation.gov.uk/uksi/2001/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/2/2)
+
+[^key-2e01c89ae3b82bc48e22634e9f0abfab]: Textual amendment: Reg. 13(2) omitted (25.10.2001) by virtue of [The Working Time (Amendment) Regulations 2001 (S.I. 2001/3256)](https://www.legislation.gov.uk/uksi/2001/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/2/3)
+
+[^key-32c30f8562f08a0693295ea7fbe5ab29]: Textual amendment: Words in reg. 13(4) inserted (E.) (1.10.2013) by [The Working Time (Amendment) (England) Regulations 2013 (S.I. 2013/2228)](https://www.legislation.gov.uk/uksi/2013/2228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2228/regulation/3))
+
+[^key-f06529d5589e6a839d3316169ff10d42]: Textual amendment: Words in reg. 13(5) substituted (25.10.2001) by [The Working Time (Amendment) Regulations 2001 (S.I. 2001/3256)](https://www.legislation.gov.uk/uksi/2001/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/2/4)
+
+[^key-08b609f2e2e2d50b5d113ee049eb7f61]: Textual amendment: Reg. 13(6) omitted (1.10.2007) by virtue of [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/4)
+
+[^key-3ee0df0520b6d12cfeecee40cbaf4c76]: Textual amendment: Reg. 13(7)(8) omitted (25.10.2001) by virtue of [The Working Time (Amendment) Regulations 2001 (S.I. 2001/3256)](https://www.legislation.gov.uk/uksi/2001/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/2/6)
+
+[^key-5327060bbcc547f2b51c5965a7f987ea]: Textual amendment: Words in [reg. 13(9)(a)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/13/9/a) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/3/b)
+
+[^key-933f5d423b7857d0c92c55594b10ac4f]: Textual amendment: Words in reg. 13(9)(a) inserted (26.3.2020 at 9.00 p.m.) by [The Working Time (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/365)](https://www.legislation.gov.uk/uksi/2020/365), [regs. 1](https://www.legislation.gov.uk/uksi/2020/365/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/365/regulation/3/a)
+
+[^key-68ed290dc3976972b02fd2843b053031]: Textual amendment: [Reg. 13(10)-(13)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/13/10) omitted (1.1.2024) by virtue of [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(3)(c)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1426/regulation/4))
+
+[^key-7bbede14ea67c54eca759f3a654a8d6a]: Textual amendment: [Reg. 13(14)-(18)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/13/14) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(3)(d)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/3/d)
+
+[^key-23fe7228aa86482e93d288c5e14aff50]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/1998/1833/regulation/13A) inserted (1.10.2007) by [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/2)
+
+[^key-1fb09a2b66021f4f7b91b489469d09d3]: Textual amendment: [Reg. 13A(A1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/13A/A1) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/4/a)
+
+[^key-a50c711b2893653782de215deca42757]: Textual amendment: [Reg. 13A(7A)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/13A/7A) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/4/b)
+
+[^key-09925950ae0aaa407dc0d2896d0dd122]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/14/1) substituted (26.3.2020 at 9.00 p.m.) by [The Working Time (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/365)](https://www.legislation.gov.uk/uksi/2020/365), [regs. 1](https://www.legislation.gov.uk/uksi/2020/365/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/365/regulation/4/a)
+
+[^key-fdac75802f37fff7c929b16881c2e3db]: Textual amendment: Words in [reg. 14(1)(b)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/14/1/b) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/5/a)
+
+[^key-9458961c2e7b123c1bbaf814cf1ca21d]: Textual amendment: Words in reg. 14(3) substituted (25.10.2001) by [The Working Time (Amendment) Regulations 2001 (S.I. 2001/3256)](https://www.legislation.gov.uk/uksi/2001/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2001/3256/regulation/3)
+
+[^key-7246b7d647f86565d2cb4544480d4d0f]: Textual amendment: Words in reg. 14(3) inserted (1.10.2007) by [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/5)
+
+[^key-fa6328928015528bef08009195a71e46]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/14/5) omitted (1.1.2024) by virtue of [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/5/b)
+
+[^key-623351ce898a52c1ceb163b45047baad]: Textual amendment: [Reg. 14(6)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/14/6) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/5/c)
+
+[^key-8f37dca1868d389b688d306b16ba32fb]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/15/1) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/6/a)
+
+[^key-28700d949abe4205d8a326358216805d]: Textual amendment: Words in reg. 15(1)(2) substituted (25.10.2001) by [The Working Time (Amendment) Regulations 2001 (S.I. 2001/3256)](https://www.legislation.gov.uk/uksi/2001/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2001/3256/regulation/3)
+
+[^key-bbdbd36497b46d8531d85f68cdf6e9d3]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/15/2/a) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/6/b)
+
+[^key-ce5773a5a8237bb98f438ed762915bca]: Textual amendment: Words in [reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/15/2/b) omitted (1.1.2024) by virtue of [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/6/c)
+
+[^key-f4562d47f1b5c4ec684071dbcb2e5c94]: Textual amendment: Words in reg. 15(6) inserted (E.) (1.10.2013) by [The Working Time (Amendment) (England) Regulations 2013 (S.I. 2013/2228)](https://www.legislation.gov.uk/uksi/2013/2228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2228/regulation/3))
+
+[^key-9346933ea59539400f893c07fea543ca]: Textual amendment: Reg. 15A inserted (25.10.2001) by [The Working Time (Amendment) Regulations 2001 (S.I. 2001/3256)](https://www.legislation.gov.uk/uksi/2001/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3256/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2001/3256/regulation/4)
+
+[^key-5382f0e12cfae241c08ad9b61e42ef0e]: Textual amendment: Words in [reg. 15A(1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/15A/1) inserted (1.10.2007) by [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/6)
+
+[^key-8f99f190c93e2994f0670ffa85f17bb7]: Textual amendment: Words in [reg. 15A(1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/15A/1) inserted (1.10.2007) by [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/7)
+
+[^key-f87db39588d7c5e567a3060d573db869]: Textual amendment: Words in [reg. 15A(2)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/15A/2) inserted (1.10.2007) by [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/8)
+
+[^key-a17019d6c761ae6a5734441d723abe11]: Textual amendment: [Reg. 15A(2A)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/15A/2A) inserted (1.10.2007) by [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/9)
+
+[^key-3ed2549968dec3ff4ddd0b3505fe91bb]: Textual amendment: [Regs. 15B-15F](https://www.legislation.gov.uk/uksi/1998/1833/regulation/15B) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/7)
+
+[^key-5f27458897999bc071d5478ff10ed37b]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16) applied (1.4.2024) by [The Agricultural Wages (Wales) Order 2024 (S.I. 2024/390)](https://www.legislation.gov.uk/wsi/2024/390), [arts. 1](https://www.legislation.gov.uk/wsi/2024/390/article/1), [36(2)](https://www.legislation.gov.uk/wsi/2024/390/article/36/2)
+
+[^key-5206ba5b7b9a23882f0e37280f949412]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16) applied (1.4.2025) by [The Agricultural Wages (Wales) Order 2025 (S.I. 2025/293)](https://www.legislation.gov.uk/wsi/2025/293), [arts. 1](https://www.legislation.gov.uk/wsi/2025/293/article/1), [35(2)](https://www.legislation.gov.uk/wsi/2025/293/article/35/2)
+
+[^key-7fa0e38ffba85f4c181734618618c18c]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/1) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/8/a)
+
+[^key-7b20f5a89cab9f440ba1827a3bc66f8d]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/1A) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/8/b)
+
+[^key-f3e827c8cb668d74659e064150878e5d]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/2) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(8)(c)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/8/c)
+
+[^key-3bb02f7cafd6e9dce65292f9e36149c9]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/2) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/10/2)
+
+[^key-9adcb6a79f39f1c8060a33b7b6f33c1f]: Textual amendment: Word in [reg. 16(3)(c)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/3/c) omitted (6.4.2020) by virtue of [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/10/3/a)
+
+[^key-1b47ed0c6a8384ef2ea6169e6622e451]: Textual amendment: [Reg. 16(3)(da)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/3/da) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(8)(d)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/8/d)
+
+[^key-01d8ce9ab411b8997838147c022fd868]: Textual amendment: [Reg. 16(3)(e)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/3/e)[(f)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/3/f) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/10/3/b)
+
+[^key-7d67b862b8ac9661bd48e122e9e82a6a]: Textual amendment: [Reg. 16(3ZA)-(3ZG)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/3ZA) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(8)(e)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/8/e)
+
+[^key-adf868d50c131940f8a4047859748d16]: Textual amendment: [Reg. 16(3A)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/3A)[(3B)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/3B) inserted (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2018/1378/regulation/10/4)
+
+[^key-ed2693908cbd6413d64ec05d36e225c3]: Textual amendment: Words in [reg. 16(3B)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16/3B) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(8)(f)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/8/f)
+
+[^key-fb2cb5ee2211002fa2244af9ab72bd81]: Textual amendment: Words in reg. 16(4) inserted (8.1.2015) by [The Deduction from Wages (Limitation) Regulations 2014 (S.I. 2014/3322)](https://www.legislation.gov.uk/uksi/2014/3322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3322/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/3322/regulation/3)
+
+[^key-0740bef4c3d180359f76a8b1f5590155]: Modification: [Reg. 16A](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16A) applied (1.4.2025) by [The Agricultural Wages (Wales) Order 2025 (S.I. 2025/293)](https://www.legislation.gov.uk/wsi/2025/293), [arts. 1](https://www.legislation.gov.uk/wsi/2025/293/article/1), [35(2)](https://www.legislation.gov.uk/wsi/2025/293/article/35/2)
+
+[^key-4aab37fff83a2fc93e28eed1970a8ce1]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16A) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/9)
+
+[^key-11dab252c569ccf18126d8e8d430895e]: Textual amendment: [Reg. 16B](https://www.legislation.gov.uk/uksi/1998/1833/regulation/16B) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/35/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(8)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/8)
+
+[^key-e0c0921cad484c2f676729d348bca69d]: Textual amendment: Reg. 18 substituted (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/1684/regulation/4)
+
+[^key-673f657c6e439198162836c75c92698a]: Textual amendment: Reg. 18(1)(a) substituted (17.3.2014) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) (Amendment) Regulations 2014 (S.I. 2014/308)](https://www.legislation.gov.uk/uksi/2014/308), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/308/regulation/1/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2014/308/schedule/paragraph/5/2)
+
+[^key-2e7390ccdde779a5c93683b9f07c5448]: Textual amendment: Words in reg. 18(1)(a) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/5) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
+
+[^key-41a36cb4b6675eaaaabccc15ca1c702b]: Textual amendment: Reg. 18(1)(b) substituted (16.8.2004) by [The Fishing Vessels (Working Time: Sea-fishermen) Regulations 2004 (S.I. 2004/1713)](https://www.legislation.gov.uk/uksi/2004/1713), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1713/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2004/1713/schedule/2/paragraph/6) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/1713/regulation/3/1))
+
+[^key-e23e5c6187a267c7dbcef1a85b541b2d]: Textual amendment: Reg. 18(1)(c) substituted (24.12.2003) by [The Merchant Shipping (Working Time Inland Waterways) Regulations 2003 (S.I. 2003/3049)](https://www.legislation.gov.uk/uksi/2003/3049), [reg. 1](https://www.legislation.gov.uk/uksi/2003/3049/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2003/3049/schedule/2/paragraph/6)
+
+[^key-e0ef32df5edbe0a7a9cb86ce89f541b5]: Textual amendment: Word in reg. 18(2) inserted (1.10.2007) by [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/10)
+
+[^key-46dbe8682838466b32b6a7aeba940d33]: Textual amendment: [Reg. 18(2)(aa)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/18/2/aa) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 8(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/8/a/i) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8d0b58d6924b13a07e6226732755a537]: Textual amendment: [Reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/18/2/b) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/8/a/ii) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-776c4e480fc965750000c0e3bd338e02]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/18/4) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/8/b) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-86a11e07743f473c720036457f12fc66]: Textual amendment: Reg. 18(5) inserted (27.7.2008) by [The Cross-border Railway Services (Working Time) Regulations 2008 (S.I. 2008/1660)](https://www.legislation.gov.uk/uksi/2008/1660), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/1/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2008/1660/schedule/3/paragraph/4)
+
+[^key-1ffd5e04bd8bc944ce498163cc9db446]: Textual amendment: Words in reg. 19 inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/14/a)
+
+[^key-5003946fbf27a91634ce95da0d48c781]: Textual amendment: Word in reg. 19 inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/14/b)
+
+[^key-798af878422181ff13217175477f458a]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/1833/regulation/20) applied (1.4.2024) by [The Agricultural Wages (Wales) Order 2024 (S.I. 2024/390)](https://www.legislation.gov.uk/wsi/2024/390), [arts. 1](https://www.legislation.gov.uk/wsi/2024/390/article/1), [28-30](https://www.legislation.gov.uk/wsi/2024/390/article/28)
+
+[^key-2972f43b0cb62daa54858b10a2a731e2]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/1833/regulation/20) renumbered as reg. 20(1) (17.12.1999) by [The Working Time Regulations 1999 (S.I. 1999/3372)](https://www.legislation.gov.uk/uksi/1999/3372), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1999/3372/regulation/4)
+
+[^key-adc4afd5b16112bc58b072cda1ef5bf9]: Textual amendment: Reg. 20(2) revoked (6.4.2006) by [The Working Time (Amendment) Regulations 2006 (S.I. 2006/99)](https://www.legislation.gov.uk/uksi/2006/99), [regs. 1](https://www.legislation.gov.uk/uksi/2006/99/regulation/1), [2](https://www.legislation.gov.uk/uksi/2006/99/regulation/2)
+
+[^key-4aab634356b76771e5b3ef535d65145f]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/1998/1833/regulation/21) applied (1.4.2024) by [The Agricultural Wages (Wales) Order 2024 (S.I. 2024/390)](https://www.legislation.gov.uk/wsi/2024/390), [arts. 1](https://www.legislation.gov.uk/wsi/2024/390/article/1), [28-30](https://www.legislation.gov.uk/wsi/2024/390/article/28)
+
+[^key-dacaa9124a5ee6012989895a0972962c]: Textual amendment: Words in reg. 21(a) inserted (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2003/1684/regulation/5/a)
+
+[^key-1daf1129e4dfa76c9c5d250a9c1879e1]: Textual amendment: Words in reg. 21(c)(i) inserted (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2003/1684/regulation/5/b)
+
+[^key-24a199277b5123da7049196082dfad6a]: Textual amendment: Reg. 21(c)(viii) added (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2003/1684/regulation/5/c)
+
+[^key-147db04969f6f7b5c455d8714ea03773]: Textual amendment: Reg. 21(f) added (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2003/1684/regulation/5/d)
+
+[^key-7751932d39a664af6102211fde02040d]: Modification: [Reg. 24](https://www.legislation.gov.uk/uksi/1998/1833/regulation/24) applied (1.4.2024) by [The Agricultural Wages (Wales) Order 2024 (S.I. 2024/390)](https://www.legislation.gov.uk/wsi/2024/390), [arts. 1](https://www.legislation.gov.uk/wsi/2024/390/article/1), [28-30](https://www.legislation.gov.uk/wsi/2024/390/article/28)
+
+[^key-af3a810261ffb466af53c3aac8429a2a]: Textual amendment: Reg. 24A inserted (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [6](https://www.legislation.gov.uk/uksi/2003/1684/regulation/6)
+
+[^key-4428d3730b01982b745fbbcfe61b62d5]: Textual amendment: Words in reg. 25(2) inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/15/a)
+
+[^key-4676506979dd83e0787c1cdf2233b8a2]: Textual amendment: Words in reg. 25 substituted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/15/b)
+
+[^key-92ee16253da1554a818325ba92e91f49]: Textual amendment: Reg. 25A inserted (1.8.2004) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [7](https://www.legislation.gov.uk/uksi/2003/1684/regulation/7)
+
+[^key-ab880ffb590cb55c5b4a5b46977c8e79]: Textual amendment: [Reg. 25A(1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/25A/1) substituted (2.11.2009) by [The Working Time (Amendment) (No. 2) Regulations 2009 (S.I. 2009/2766)](https://www.legislation.gov.uk/uksi/2009/2766), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2766/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2009/2766/regulation/2/a)
+
+[^key-ea5d903a0e28ea47010a4d2735d299dc]: Textual amendment: Reg. 25A(1)(1A) substituted for reg. 25A(1) (1.8.2009) by [The Working Time (Amendment) Regulations 2009 (S.I. 2009/1567)](https://www.legislation.gov.uk/uksi/2009/1567), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1567/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2009/1567/regulation/2/a)
+
+[^key-65802aa30c1232632c69b03c5551f6c8]: Textual amendment: Words in [reg. 25A(1A)(a)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/25A/1A/a) substituted (2.11.2009) by [The Working Time (Amendment) (No. 2) Regulations 2009 (S.I. 2009/2766)](https://www.legislation.gov.uk/uksi/2009/2766), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2766/regulation/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2009/2766/regulation/2/b/i)
+
+[^key-3e74ca426c9fdfe5e02bbb657443ad5d]: Textual amendment: Words in [reg. 25A(1A)(b)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/25A/1A/b) substituted (2.11.2009) by [The Working Time (Amendment) (No. 2) Regulations 2009 (S.I. 2009/2766)](https://www.legislation.gov.uk/uksi/2009/2766), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2766/regulation/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/2766/regulation/2/b/ii)
+
+[^key-339fb34b0f12d9764eaa011484c4c4ff]: Textual amendment: Words in [reg. 25A(1A)(c)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/25A/1A/c) substituted (2.11.2009) by [The Working Time (Amendment) (No. 2) Regulations 2009 (S.I. 2009/2766)](https://www.legislation.gov.uk/uksi/2009/2766), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2766/regulation/1), [2(b)(iii)](https://www.legislation.gov.uk/uksi/2009/2766/regulation/2/b/iii)
+
+[^key-5a036eea1ce3b72a7e78022110d785ce]: Textual amendment: Words in [reg. 25A(1A)(d)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/25A/1A/d) substituted (2.11.2009) by [The Working Time (Amendment) (No. 2) Regulations 2009 (S.I. 2009/2766)](https://www.legislation.gov.uk/uksi/2009/2766), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2766/regulation/1), [2(b)(iv)](https://www.legislation.gov.uk/uksi/2009/2766/regulation/2/b/iv)
+
+[^key-26b75e822538e81164f3665f286c5cad]: Textual amendment: Reg. 25B inserted (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [8](https://www.legislation.gov.uk/uksi/2003/1684/regulation/8)
+
+[^key-7e498967a0b768c2443c07e9213ac33b]: Textual amendment: Reg. 26 revoked (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [9](https://www.legislation.gov.uk/uksi/2003/1684/regulation/9)
+
+[^key-992c11bf19fb634fdcf1067f2a91fafc]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/1998/1833/regulation/26A) inserted (1.10.2007) by [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/3)
+
+[^key-c275279eb76207dc79b503256a9bc102]: Textual amendment: Words in reg. 27(1) inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/18/a)
+
+[^key-a1b1a32632dc539856dc1fff943d4a61]: Textual amendment: Words in reg. 27(2) inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2002/3128/regulation/18/b)
+
+[^key-2d7e457748b2b682faf6d221c83021ac]: Textual amendment: Reg. 27A inserted (6.4.2003) by [The Working Time (Amendment) Regulations 2002 (S.I. 2002/3128)](https://www.legislation.gov.uk/uksi/2002/3128), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3128/regulation/1), [17](https://www.legislation.gov.uk/uksi/2002/3128/regulation/17)
+
+[^key-94eeb37b5b06c82070e284b806b3773d]: Textual amendment: Regs. 28-29E substituted for regs. 28, 29 (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [10](https://www.legislation.gov.uk/uksi/2003/1684/regulation/10)
+
+[^key-f17446fef3e0e285e4cf9214ee075cd1]: Textual amendment: Words in reg. 28(1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 81(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/81/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-f6a95dbd7894defe35676a3347afef1d]: Textual amendment: Words in reg. 28(1) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^key-79bf4d6b1a8b3515739d39910e7a83a6]: Textual amendment: Words in reg. 28(1) inserted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/2/c) (with [reg. 9(5)-(8)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/5))
+
+[^key-fa80c308af1d6e004edc7cf063fec4f2]: Textual amendment: Words in reg. 28(1) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/7/a)
+
+[^key-63e7467b2c163e92504275ba8521ab65]: Textual amendment: Word in reg. 28(1) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/2/a) (with [reg. 9(5)-(8)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/5))
+
+[^key-436a77330deff40a18cf1e189262c1df]: Textual amendment: Words in reg. 28(1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 81(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/81/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-d65fd2b4f2c6315163457982f87e8728]: Textual amendment: Words in reg. 28(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(d)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/d)
+
+[^key-c2d1f8f4386c4ee5561b1182151d6a7a]: Textual amendment: Words in reg. 28(1) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^key-d7d95fa8d5a022b7e660cf7b851d56ff]: Textual amendment: Words in reg. 28(1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 81(2)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/81/2/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-a69e848ffdf1a9295a357cc81eb593d4]: Textual amendment: Words in reg. 28(1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 81(2)(d)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/81/2/d) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-2d5089a5e83b229148382a7e0845ee53]: Textual amendment: Words in reg. 28(1) substituted (5.3.2019) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/9) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22))
+
+[^key-39a5cd7210ea292558280c794754e49a]: Textual amendment: Words in reg. 28(1) omitted (1.4.2014) by virtue of [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/2/b) (with [reg. 9(5)-(8)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/5))
+
+[^key-5fefc11624cf2cc9121547c252082528]: Textual amendment: Word in reg. 28(2)(b) omitted (1.4.2006) by virtue of [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 7(b)(i)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/7/b/i)
+
+[^key-847a696425e91cc93f8f2ebe9366a806]: Textual amendment: Word in reg. 28(2)(c) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/3) (with [reg. 9(5)-(8)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/5))
+
+[^key-4ec3c111356b9d37928359e6537bf0b8]: Textual amendment: Reg. 28(2)(d) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/7/b/ii)
+
+[^key-53b544f15a38ae5dafdd46f5a21002b4]: Textual amendment: Reg. 28(2)(e) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 81(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/81/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-455243f8e81ad10301febea1286ca77a]: Textual amendment: Reg. 28(3A) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/7/c)
+
+[^key-3db054e45940afe5e8b082bd6873cd11]: Textual amendment: Reg. 28(3AA) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 81(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/81/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-7e4e57fe0d296771e0d56cf34a73de24]: Textual amendment: Words in reg. 28(4) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^key-6b283486c3bfdfc4a3bbc6841d385b17]: Textual amendment: Word in reg. 28(6) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/4) (with [reg. 9(5)-(8)](https://www.legislation.gov.uk/uksi/2014/480/regulation/9/5))
+
+[^key-6a16b52cd250e9dfb1dcbc17c82e0d2a]: Textual amendment: Reg. 28(8) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^key-23b992d6d6cb0c9db006dff3a848f055]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/29/1) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/35/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(8)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/8)
+
+[^key-d38a3ffc7a7ac9a3e8eca47ebcb13ade]: Textual amendment: Reg. 29C renumbered as reg. 29C(1) (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 35(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/35/4/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)(8)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1/8)
+
+[^key-2e593d76dac99ba7741b57ad9cf93ad7]: Textual amendment: Reg. 29C(2) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 35(4)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/35/4/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(8)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/8)
+
+[^key-854134037476af0958333ec50bf7a99e]: Modification: Reg. 30 restricted (1.10.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 32](https://www.legislation.gov.uk/ukpga/2002/22/section/32), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/22/schedule/4); [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)
+
+[^key-44777624f81ef0600fe6d4d8f6715e5d]: Textual amendment: Reg. 30(1)(a)(i) substituted (1.10.2007) by [The Working Time (Amendment) Regulations 2007 (S.I. 2007/2079)](https://www.legislation.gov.uk/uksi/2007/2079), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2007/2079/regulation/2/11)
+
+[^key-d48ae896c0b564b5b84369010e83313c]: Textual amendment: Words in [reg. 30(1)(a)(i)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/30/1/a/i) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(10)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/10/a/i)
+
+[^key-dfb6379a7d05486d167156691a7b0334]: Textual amendment: Word in reg. 30(1)(a)(ii) omitted (1.8.2003) by virtue of [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/1684/regulation/11)
+
+[^key-f8e01a125f49cceb3c142b951b2bb559]: Textual amendment: Reg. 30(1)(a)(iii)(iv) substituted for reg. 30(1)(a)(iii) (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/1684/regulation/11)
+
+[^key-ea049ae065ad3411d5d8c0322d03f67d]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/30/1/b) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/10/a/ii)
+
+[^key-bff1c3972faf59ddc93597476f3f95ab]: Textual amendment: Words in reg. 30(2) substituted (with application in accordance with regs. 3, 4 of the amending S.I.) by [The Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [68](https://www.legislation.gov.uk/uksi/2011/1133/regulation/68)
+
+[^key-3838322876eeea2567a4475cb9839ab1]: Textual amendment: Word in reg. 30(2) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 20(2)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/20/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-63cd90b03aa42d0996ef7ab52a12847a]: Textual amendment: Words in reg. 30(2) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/3)
+
+[^key-7eabae525bd2e675f23b74c91e20b2c7]: Textual amendment: Words in [reg. 30(2)(a)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/30/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 6(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/6/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-ed988f6168ccb8f01fcd31e49d695cfb]: Textual amendment: Words in [reg. 30(2)(b)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/30/2/b) omitted (1.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 6(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/6/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-d803f4c0b68502c1245613afc5ae6cf3]: Textual amendment: Reg. 30(2A) inserted (1.10.2004) by [The Employment Act 2002 (Dispute Resolution) Regulations 2004 (S.I. 2004/752)](https://www.legislation.gov.uk/uksi/2004/752), [regs. 1](https://www.legislation.gov.uk/uksi/2004/752/regulation/1), [17(f)](https://www.legislation.gov.uk/uksi/2004/752/regulation/17/f) (with [reg. 18](https://www.legislation.gov.uk/uksi/2004/752/regulation/18))
+
+[^key-1645f6e667da28c794dfd586da153f80]: Textual amendment: Words in [reg. 30(5)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/30/5) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(10)(b)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/10/b)
+
+[^key-a8f8c51c3b91e34fd1fe3e4b1aceb216]: Textual amendment: Reg. 30A omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/20/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b474bda6466f1f010e8c56d9e7296393]: Textual amendment: [Reg. 30B](https://www.legislation.gov.uk/uksi/1998/1833/regulation/30B) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/4)
+
+[^c16743951]: Marginal citation: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833)
+
+[^c16743961]: Marginal citation: Section 49 of the 1996 Act was amended by the [Public Interest Disclosure Act 1998 (c.23)](https://www.legislation.gov.uk/ukpga/1998/23), [section 4](https://www.legislation.gov.uk/ukpga/1998/23/section/4).
+
+[^c16743971]: Marginal citation: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833)
+
+[^c16743981]: Marginal citation: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833).
+
+[^c16743991]: Marginal citation: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52): subsection (1A) of section 237 and subsection (2A) of section 238 were inserted by the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), [Schedule 8](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8), [paragraphs 76](https://www.legislation.gov.uk/ukpga/1993/19/paragraph/76) and 77.
+
+[^c16744001]: Marginal citation: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17); section 1(2) of the [Employment Rights (Dispute Resolution) Act 1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8) provides for the Industrial Tribunals Act 1996 to be cited as the Employment Tribunals Act 1996.
+
+[^c16744011]: Marginal citation: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833).
+
+[^c16744021]: Marginal citation: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833).
+
+[^key-b396fbd258e92bfb6ec2fd36563e7748]: Textual amendment: Words in [reg. 35(2)(a)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/35/2/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/5)
+
+[^key-29ac7f63673d16242592c3d2737c0bdf]: Textual amendment: Words in [reg. 35(2)(b)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/35/2/b) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/19)
+
+[^key-f938800e8d4a63ea50d25636fd88d144]: Textual amendment: Word in reg. 35(2) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/2)
+
+[^key-3ab8804b4bc91e9a0bcf8538b84e8679]: Textual amendment: Word in reg. 35(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/2)
+
+[^key-29c6b9fb35bc2060d81fe9469fb73da5]: Textual amendment: Words in reg. 35(6)(a) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [23](https://www.legislation.gov.uk/uksi/2009/3348/article/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3348/schedule/2)
+
+[^key-774d2f8c7107f570c5c358317557b41e]: Textual amendment: Reg. 35(6A) inserted (1.10.2004) by [The Working Time Regulations 1998 (Amendment) Regulations 2004 (S.I. 2004/2516)](https://www.legislation.gov.uk/uksi/2004/2516), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2516/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2004/2516/regulation/2)
+
+[^key-16247701b648d31928433687b4f43a66]: Textual amendment: Words in reg. 35(6A) substituted (16.12.2009) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/2), [22](https://www.legislation.gov.uk/uksi/2009/3348/article/22), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3348/schedule/1)
+
+[^key-9905d898098c1559f453835bdb4b2faf]: Textual amendment: Reg. 35A inserted (17.12.1999) by [The Working Time Regulations 1999 (S.I. 1999/3372)](https://www.legislation.gov.uk/uksi/1999/3372), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3372/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1999/3372/regulation/5)
+
+[^c16744041]: Marginal citation: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).
+
+[^key-bb8c15406533d42dda3bd62e6e41597c]: Textual amendment: [Reg. 38(2)(a)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/38/2/a) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/4/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+
+[^key-118085eaacd121bec39e25f16fae4c35]: Textual amendment: [Reg. 38(3)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/38/3) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/4/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+
+[^key-0df6cbd78072a7443e883afba516f946]: Textual amendment: Words in [reg. 38(3)(c)(i)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/38/3/c/i) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/5/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-860aa709f39febb82464bd33ca0d129e]: Textual amendment: Word in [reg. 38(3)(c)(ii)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/38/3/c/ii) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/5/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-10736cf4c1713abc556522ad74557111]: Textual amendment: Words in [reg. 38(4)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/38/4) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 4(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/4/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+
+[^key-ca191d84d89d42a8ec2874b63685dbd8]: Textual amendment: [Reg. 38(5)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/38/5) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 4(d)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/4/d); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+
+[^key-786fbcaca4df9860642d9b4e0a4c9ab6]: Textual amendment: Words in reg. 41(1) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 16(2)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/16/2)
+
+[^key-ff84217422ce25b63b59a8c71ca0c7a4]: Textual amendment: Reg. 41(1A) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/16/3)
+
+[^key-7b59032eb00ce8c528f786cfc3cfb91c]: Textual amendment: Words in [reg. 41(2)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/41/2) substituted (E.W.) (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/2/2/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+
+[^key-0557c2b1d013c90a8441d01fa9486cfd]: Textual amendment: Words in [reg. 41(3)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/41/3) inserted (E.W.) (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 1 para. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/2/2/b/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+
+[^key-dfb511ea80c30a570ed931073627d8ff]: Textual amendment: Words in [reg. 41(3)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/41/3) omitted (E.W.) (31.12.2017) by virtue of [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 1 para. 2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/2/2/b/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+
+[^c16744101]: Marginal citation: [S.I. 1985/1531](https://www.legislation.gov.uk/uksi/1985/1531), to which there are amendments not relevant to these Regulations.
+
+[^key-6488a868b459609f75f2d7110a98fae3]: Textual amendment: Words in reg. 41(3) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 16(4)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/16/4)
+
+[^key-d9ab90272bf111526f98778f1c0e1f4d]: Textual amendment: Reg. 41(4)-(7) inserted (1.9.2005) by [The Working Time Regulations 1998 (Amendment) Order 2005 (S.I. 2005/2241)](https://www.legislation.gov.uk/uksi/2005/2241), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2241/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/2241/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2241/article/3))
+
+[^key-efe003c0cbc0ebcc3affa68b3015cf99]: Textual amendment: Reg. 43 heading substituted (E.) (1.10.2013) by [The Working Time (Amendment) (England) Regulations 2013 (S.I. 2013/2228)](https://www.legislation.gov.uk/uksi/2013/2228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2228/regulation/3))
+
+[^key-7925df6742ef180628e046bb58c3947c]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/uksi/1998/1833/regulation/43) inserted (E.) (1.10.2013) by [The Working Time (Amendment) (England) Regulations 2013 (S.I. 2013/2228)](https://www.legislation.gov.uk/uksi/2013/2228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2228/regulation/3))
+
+[^key-66ad28d663b54f2edac1a4ab573b6809]: Textual amendment: Words in Sch. 2 heading inserted (E.) (1.10.2013) by [The Working Time (Amendment) (England) Regulations 2013 (S.I. 2013/2228)](https://www.legislation.gov.uk/uksi/2013/2228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/2/5/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2228/regulation/3))
+
+[^key-1364cfd8e1f43f27f3d8295c98fd9d4a]: Textual amendment: Words in Sch. 2 para. 1 inserted (E.) (1.10.2013) by [The Working Time (Amendment) (England) Regulations 2013 (S.I. 2013/2228)](https://www.legislation.gov.uk/uksi/2013/2228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2013/2228/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2228/regulation/3))
+
+[^key-94352f14e52cee40e7f67d8cdbace767]: Textual amendment: Words in [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/1998/1833/schedule/2/paragraph/1/a) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/3/11)
+
+[^c16744121]: Marginal citation: [1948 c.47](https://www.legislation.gov.uk/ukpga/1948/47).
+
+[^c16744131]: Marginal citation: [1949 c.30](https://www.legislation.gov.uk/ukpga/1949/30).
+
+[^key-94b1b964ad74f5a31773af9f9c11c41a]: Textual amendment: Words in Sch. 2 para. 3 inserted (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 11(3)](https://www.legislation.gov.uk/anaw/2014/6/section/11/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
+
+[^key-3964e3df003c7c07951705e8ac852753]: Textual amendment: Sch. 2A inserted (1.8.2009) by [The Working Time (Amendment) Regulations 2009 (S.I. 2009/1567)](https://www.legislation.gov.uk/uksi/2009/1567), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1567/regulation/1), [3](https://www.legislation.gov.uk/uksi/2009/1567/regulation/3)
+
+[^M_F_e770b13e-1b59-4006-9227-1560cc0c37ff]: Textual amendment: Sch. 2A Table 1 heading inserted (2.11.2009) by [The Working Time (Amendment) (No. 2) Regulations 2009 (S.I. 2009/2766)](https://www.legislation.gov.uk/uksi/2009/2766), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2766/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/2766/regulation/3/a)
+
+[^M_F_f313e329-ebdd-4ba9-cd88-d5328999e3f2]: Textual amendment: Sch. 2A Table 2 added (2.11.2009) by [The Working Time (Amendment) (No. 2) Regulations 2009 (S.I. 2009/2766)](https://www.legislation.gov.uk/uksi/2009/2766), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2766/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/2766/regulation/3/b)
+
+[^key-a9519dcf5a52b285d117eb3df390d626]: Textual amendment: Sch. 3 inserted (1.8.2003) by [The Working Time (Amendment) Regulations 2003 (S.I. 2003/1684)](https://www.legislation.gov.uk/uksi/2003/1684), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1684/regulation/1), [12](https://www.legislation.gov.uk/uksi/2003/1684/regulation/12)
+
+[^key-59088eccebdb42f5057d1a964ec025b2]: Textual amendment: Words in Sch. 3 para. 2(3) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), art. 1(2), Sch. 1 para. 25 and (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 17](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/17)
+
+[^key-2284c0be4471ebbbdd5126d2e82b02d6]: Textual amendment: Words in Sch. 3 para. 8(3)(a) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 82(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/82/1/a/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-ae35be84053a5b8a682e56a4d31bbb27]: Textual amendment: Words in Sch. 3 para. 8(3)(b) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 82(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/82/1/a/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-9831acb8bd12a2c7fff1aa973fa82944]: Textual amendment: Words in Sch. 3 para. 8(4) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 82(1)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/82/1/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-dcf573cbb145e0610ce150ef280c3610]: Textual amendment: Sch. 3 para. 8(4A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 82(1)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/82/1/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-e6cbf905e28a88669d51843181846f25]: Textual amendment: Words in Sch. 3 para. 8(5)(a) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 82(1)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/82/1/d/i/aa) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-8dfd17b58e3fb69fcdb816eaa2a88e72]: Textual amendment: Words in Sch. 3 para. 8(5)(a) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 82(1)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/82/1/d/i/bb) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-100ab7d8c44102546c5af21cf814a56d]: Textual amendment: Words in Sch. 3 para. 8(5)(b) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 82(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/82/1/d/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-d1e2f2e74c30703a837d23972e23897e]: Textual amendment: Words in Sch. 3 para. 8(5)(c) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 82(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/82/1/d/iii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))

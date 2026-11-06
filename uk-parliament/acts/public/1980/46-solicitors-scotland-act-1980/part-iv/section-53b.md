@@ -1,0 +1,27 @@
+---
+title: Solicitors (Scotland) Act 1980, section 53B
+act: Solicitors (Scotland) Act 1980
+section: 53B
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1980/46/section/53B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Solicitors (Scotland) Act 1980, section 53B
+
+> **Warning: changes not yet applied to this text (349).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/46
+>
+> Extent: Scotland.
+
+## 53B. Inadequate professional services: appeal to Tribunal against Council determination or direction.
+
+*Extent: S*
+
+[^c20663771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c20663771]: Textual amendment: [S. 53B](https://www.legislation.gov.uk/ukpga/1980/46/section/53B) repealed (1.10.2008) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 195](https://www.legislation.gov.uk/ukpga/2007/29/section/195), [210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 20 para. 1(12)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/20/paragraph/1/12), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2008/1436](https://www.legislation.gov.uk/uksi/2008/1436), [art. 3](https://www.legislation.gov.uk/uksi/2008/1436/article/3) (as amended by [S.I. 2008/1591](https://www.legislation.gov.uk/uksi/2008/1591), [art. 2](https://www.legislation.gov.uk/uksi/2008/1591/article/2))

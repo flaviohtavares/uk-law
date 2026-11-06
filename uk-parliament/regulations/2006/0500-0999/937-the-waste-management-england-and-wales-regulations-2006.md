@@ -1,0 +1,277 @@
+---
+title: The Waste Management (England and Wales) Regulations 2006
+id: uksi/2006/937
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-03-28'
+text_date: '2012-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2006/937
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/937/pdfs/uksiem_20060937_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/937/pdfs/uksi_20060937_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/937/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waste Management (England and Wales) Regulations 2006
+
+> Text as at 2012-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 937
+
+ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
+
+The Waste Management (England and Wales) Regulations 2006
+
+Made
+
+28th March 2006
+
+Laid before Parliament
+
+30th March 2006
+
+Coming into force
+
+15th May 2006
+
+The Secretary of State has been designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the prevention, reduction and elimination of pollution caused by waste and in relation to measures relating to the prevention, reduction and elimination of pollution of water.
+
+She makes the following Regulations in exercise of the powers conferred upon her by that section and by section 1(3)(a) of the Control of Pollution (Amendment) Act 1989[^f00003] and sections 33(3), 75(8) and 156 of the Environmental Protection Act 1990[^f00004] (having in particular had regard in exercising her powers under section 33(3) of that Act to the matters specified in section 33(4) of that Act):
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Waste Management (England and Wales) Regulations 2006.
+
+(2) These Regulations come into force on 15th May 2006.
+
+(3) These Regulations extend to England and Wales only.
+
+## 2. Amendment of the Environmental Protection Act 1990
+
+(1) The Environmental Protection Act 1990 is amended as follows.
+
+(2) In section 33 (prohibition on unauthorised or harmful depositing, treatment or disposal etc. of waste)—
+
+- (a) for subsection (2), substitute—
+
+  > (2) Subject to subsection (2A) below, paragraphs (a) and (b) of subsection (1) above do not apply in relation to household waste from a domestic property which is treated, kept or disposed of within the curtilage of the property.
+  >
+  > (2A) Subsection (2) above does not apply to the treatment, keeping or disposal of household waste by an establishment or undertaking.
+
+  ;
+- (b) at the beginning of subsection (8)[^f00005], insert “Subject to subsection (9) below,”;
+- (c) after subsection (8), insert—
+
+  > (9) A person (other than an establishment or undertaking) who commits a relevant offence shall be liable—
+  >
+  > - (a) on summary conviction, to a fine not exceeding the statutory maximum; and
+  > - (b) on conviction on indictment, to a fine.
+  >
+  > (10) In this section, “relevant offence” means an offence under this section in respect of a contravention of subsection (1)(c) above consisting of the treatment, keeping or disposal within the curtillage of a domestic property of household waste from that property.
+
+  .
+
+(3) In section 33B[^f00006] (section 33 offences: clean-up costs)—
+
+- (a) at the beginning of subsection (5), insert “Subject to subsection (6) below,”;
+- (b) after subsection (5), insert—
+
+  > (6) Subsection (5) above does not apply where a person (other than an establishment or undertaking) is convicted of a relevant offence within the meaning of section 33 above.
+
+  .
+
+(4) In section 33C[^f00007] (section 33 offences: forfeiture of vehicles)—
+
+- (a) at the beginning of subsection (1), insert “Subject to subsection (1A) below,”;
+- (b) after subsection (1), insert—
+
+  > (1A) This section does not apply where a person (other than an establishment or undertaking) is convicted of a relevant offence within the meaning of section 33 above.
+
+  .
+
+(5) Sections 63(1) and 63(4) (waste other than controlled waste) are repealed.
+
+(6) In section 75[^f00008] (meaning of “waste” and household, commercial and industrial waste and hazardous waste)—
+
+- (a) at the end of subsection (6)(c), omit “or”;
+- (b) at the end of subsection (6)(d), add—
+
+  > ; or
+  >
+  > - (e) any mine or quarry or any premises used for agriculture within the meaning of the Agriculture Act 1947[^f00009]
+
+  ;
+- (c) at the end of subsection (7)(b), add “and”;
+- (d) subsection (7)(c) is repealed;
+- (e) in subsection (8), omit “but no regulations shall be made in respect of such waste as is mentioned in subsection (7)(c) above”;
+- (f) at the end of subsection (12)(a), omit “and”; and
+- (g) at the end of subsection (12)(b), add—
+
+  > ;
+  >
+  > - (c) the decision of the European Commission, dated 24th May 1996[^f00010], adapting Annexes IIA and IIB to directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste[^f00011]; and
+  > - (d) EC Regulation No. 1882/2003 of the European Parliament and the Council dated 29th September 2003[^f00012]
+
+  .
+
+## 3. Amendment of the Environment Act 1995[^key-5349dba836ad7ebd055a7803652b0f87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991[^key-e0b47d3a53940abe54f5dda2f6688e46]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Controlled Waste Regulations 1992[^key-82356c88c0f38f9f5c7d4891d78202f1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of the Waste Management Licensing Regulations 1994[^key-59f5a84cb993f7708c0d441eed813ff0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Waste Management Regulations 1996[^key-27b097465d1d3460a44e54e04be8c6a8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Groundwater Regulations 1998[^key-c0b0217b922a94be1be9e19fc4b4b5b0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Landfill (England and Wales) Regulations 2002[^key-70845fbb942b5ca6c49f339b28d8b8fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Amendment of the Hazardous Waste (England and Wales) Regulations 2005
+
+(1) The Hazardous Waste (England and Wales) Regulations 2005[^f00031] are amended as follows.
+
+(2) In regulation 16 (agricultural waste) for “1st September 2006”, substitute “15th May 2007”.
+
+(3) In regulation 17 (mines and quarries waste) for “1st September 2006”, substitute “15th May 2007”.
+
+## 11. Amendment of the Hazardous Waste (Wales) Regulations 2005
+
+(1) The Hazardous Waste (Wales) Regulations 2005[^f00032] are amended as follows.
+
+(2) In regulation 16 (agricultural waste)—
+
+- (a) in the English text, for “1 September 2006”, substitute “15 May 2007”; and
+- (b) in the Welsh text, for “1 Medi 2006”, substitute “15 Mai 2007”.
+
+(3) In regulation 17 (mines and quarries waste)—
+
+- (a) in the English text, for “1 September 2006”, substitute “15 May 2007”; and
+- (b) in the Welsh text, for “1 Medi 2006”, substitute “15 Mai 2007”.
+
+## 12. Amendment of the Waste Management Licensing (England and Wales) (Amendment and Related Provisions) (No. 3) Regulations 2005[^key-b42a99fab3cff7a002bb6ab5f424e4b9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Transitional provisions
+
+(1) Section 33(1)(a) and (b) of the Environmental Protection Act 1990 shall not apply to the deposit, disposal or recovery of mines or quarries waste or agricultural waste by any person at any premises if he had carried on the activity in question at those premises before 15th May 2006.
+
+(2) Subject to paragraph (3) below, the exemption conferred by paragraph (1) above, in relation to an activity carried on by a person at any premises, shall after 15th May 2007 cease to have effect in relation to the carrying on of that activity at those premises unless on or before that date he applies for a waste management licence in relation to the activity in question.
+
+(3) Where a person makes such an application as is mentioned in paragraph (2) above, the exemption conferred by paragraph (1) above shall continue to have effect in relation to the activity in question until the date on which the licence applied for is granted or, if the application is (or is deemed to be) rejected, until the date on which—
+
+- (a) the period for appealing expires without an appeal having being made; or
+- (b) any appeal is withdrawn or finally determined.
+
+(4) In this regulation—
+
+- “agricultural waste” means waste from premises used for agriculture within the meaning of the Agriculture Act 1947; and
+- “mines or quarries waste” means waste from a mine or quarry.
+
+Ben Bradshaw
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+(This note is not part of the Regulations)
+
+These Regulations implement (in part), in relation to England and Wales, Council Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste[^f00034] (“the Waste Framework Directive”) and Council Directive [1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste[^f00035] (“the Landfill Directive”).
+
+Regulation 2 amends sections 33, 33B, 33C, 63 and 75 of the Environment Act 1990 (“the 1990 Act”).
+
+The amendments to section 33 mean that, in relation to household waste, establishments and undertakings must comply with all the requirements of section 33(1) of the 1990 Act, but that persons who are not establishments or undertakings must only comply with the requirements of section 33(1)(c).
+
+Section 33B of the 1990 Act is amended so that a person who is not an establishment or undertaking and who commits a relevant offence shall not be ordered by a magistrates' court to pay more than £5000 in clean-up costs (regulation 2(3)). Section 33C of the 1990 Act is disapplied where a person who is not an establishment or undertaking is convicted of a relevant offence (regulation 2(4)). “Relevant offence” for these purposes is defined in section 33(10) of the 1990 Act (regulation 2(2)(c)).
+
+Regulation 3 amends the Environment Act 1995 so that, in respect of agricultural waste, no charges may be imposed under a charging scheme in relation to a relevant environmental licence.
+
+Regulation 4 amends the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991 so that the registration requirements of the Control of Pollution (Amendment) Act 1989 do not apply to those who only transport animal by-products waste, mines or quarries waste, or agricultural waste on a professional basis. Instead the registration requirements of paragraph 12 of Schedule 4 to the Waste Management Licensing Regulations 1994 (“the 1994 Regulations”) will apply in these circumstances (see regulation 6(10)(d)).
+
+Regulation 5 amends the Controlled Waste Regulations 1992. The amendment in regulation 5(4) provides that section 34 of the 1990 Act (duty of care etc. as respects waste) does not apply to waste which comprises animal by-products collected and transported in accordance with the Community Regulation (as defined in Regulation 5(4)). The amendment in regulation 5(5) provides that any Directive waste is to be classified as industrial waste if it is not otherwise classified as household or commercial waste.
+
+Regulation 6 amends the 1994 Regulations in a number of respects. These include: (a) inserting a new regulation 18A which sets out certain record-keeping requirements in relation to activities which are exempt from waste management licensing (regulation 6(6)); and (b) inserting new paragraphs into Schedule 3 of the 1994 Regulations to provide for exemptions from waste management licensing for activities involving— the recovery of animal by-products (regulation 6(9)(b)), the treatment of land with liquid milk (regulation 6(9)(e)), and the deposit of plant tissue (regulation 6(9)(e)).
+
+Regulations 8 to 12 make minor amendments to secondary legislation.
+
+Regulation 13 contains transitional provisions which apply to the deposit, disposal or recovery of agricultural waste, or mines or quarries waste, for a period of 12 months after the Regulations come into force.
+
+A transposition note has been prepared, explaining the transposition into law by the Government of the provisions of the Waste Framework Directive and the Landfill Directive transposed by these Regulations. A full regulatory impact assessment of the effect that this instrument will have on the costs of business has also been prepared.
+
+Copies of the transposition note and the regulatory impact assessment are available in the libraries of both Houses of Parliament, and from Waste Management Division, Waste Framework Directive Unit, Department for Environment, Food and Rural Affairs, Zone 6/F6, Ashdown House, 123 Victoria Street, London SW1E 6DE.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1989/2393](https://www.legislation.gov.uk/uksi/1989/2393) and [1992/2870](https://www.legislation.gov.uk/uksi/1992/2870).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [1989 c. 14](https://www.legislation.gov.uk/ukpga/1989/14).
+
+[^f00004]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^f00005]: Footnote: Subsection (8) of section 33 was substituted by section 41 of the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16).
+
+[^f00006]: Footnote: Section 33B was inserted by section 43 of the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16). Section 43 was commenced by S.I. [2005/2896](https://www.legislation.gov.uk/uksi/2005/2896) (c.122).
+
+[^f00007]: Footnote: Section 33C was inserted by section 44 of the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16). Section 44 was commenced by S.I. [2005/2896](https://www.legislation.gov.uk/uksi/2005/2896) (c.122).
+
+[^f00008]: Footnote: Section 75 was amended by paragraph 88 of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00009]: Footnote: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48) (see section 109(3)).
+
+[^f00010]: Footnote: O.J. No. L135, 6.6.1996, p. 32.
+
+[^f00011]: Footnote: O.J. No. L194, 25.7.1975, p. 39 (as amended by Council Directives [91/156/EEC](https://www.legislation.gov.uk/european/directive/1991/0156) (O.J. No. L78, 26.3.1991, p. 32), [91/692/EEC](https://www.legislation.gov.uk/european/directive/1991/0692) (O.J. No. L377, 31.12.1991, p. 48 (as corrected by Corrigendum, O.J. No. L146, 13.6.2003, p. 52)), Commission Decision [96/350/EC](https://www.legislation.gov.uk/european/decision/1996/0350) (O.J. No. L135, 6.6.1996, p. 32) and Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (O.J. No. L284, 31.10.2003, p. 1).
+
+[^f00012]: Footnote: Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (O.J. No. L284, 31.10.2003, p. 1).
+
+[^key-5349dba836ad7ebd055a7803652b0f87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/937/regulation/3) omitted (6.4.2010) by virtue of [Environmental Permitting (England and Wales) (Amendment) (No.2) Regulations 2009 (S.I. 2009/3381)](https://www.legislation.gov.uk/uksi/2009/3381), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/1/b), [14](https://www.legislation.gov.uk/uksi/2009/3381/regulation/14) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/2))
+
+[^key-e0b47d3a53940abe54f5dda2f6688e46]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/937/regulation/4) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/21) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+
+[^key-82356c88c0f38f9f5c7d4891d78202f1]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/937/regulation/5) omitted (6.4.2012) by virtue of [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2012/811/regulation/6), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/811/schedule/2/paragraph/3)
+
+[^key-59f5a84cb993f7708c0d441eed813ff0]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/937/regulation/6) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+
+[^key-27b097465d1d3460a44e54e04be8c6a8]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/937/regulation/7) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+
+[^key-c0b0217b922a94be1be9e19fc4b4b5b0]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/937/regulation/8) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(c)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+
+[^key-70845fbb942b5ca6c49f339b28d8b8fa]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/937/regulation/9) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(d)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+
+[^f00031]: Footnote: S.I. [2005/894](https://www.legislation.gov.uk/uksi/2005/894).
+
+[^f00032]: Footnote: S.I. [2005/1806 (W.138)](https://www.legislation.gov.uk/wsi/2005/1806).
+
+[^key-b42a99fab3cff7a002bb6ab5f424e4b9]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/937/regulation/12) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/21) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+
+[^f00034]: Footnote: O.J. No. L194, 25.7.1975, p. 39 (as amended by Council Directives [91/156/EEC](https://www.legislation.gov.uk/european/directive/1991/0156) (O.J. No. L78, 26.3.1991, p. 32), [91/692/EEC](https://www.legislation.gov.uk/european/directive/1991/0692) (O.J. No. L377, 31.12.1991, p. 48 (as corrected by Corrigendum, O.J. No. L146, 13.6.2003, p. 52)), Commission Decision [96/350/EC](https://www.legislation.gov.uk/european/decision/1996/0350) (O.J. No. L135, 6.6.1996, p. 32) and Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (O.J. No. L284, 31.10.2003, p. 1)).
+
+[^f00035]: Footnote: O.J. No. L182, 16.7.1999, p.1 (as amended by Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (O.J. No. L284, 31.10.2003, p. 1)).

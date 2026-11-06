@@ -1,0 +1,27 @@
+---
+title: Pension Schemes Act 1993, section 33A
+act: Pension Schemes Act 1993
+section: 33A
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1993/48/section/33A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pension Schemes Act 1993, section 33A
+
+> **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 33A. Appropriate schemes: “Blowing the whistle”[^key-15995eef21fd6323736720fec0ee1825]
+
+*Extent: E+W+S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-15995eef21fd6323736720fec0ee1825]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/1993/48/section/33A) repealed (6.4.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/1)[(3)(f)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/3/f)[(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/3); [S.I. 2011/1266](https://www.legislation.gov.uk/uksi/2011/1266), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1266/article/2/c)

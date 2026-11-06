@@ -1,0 +1,45 @@
+---
+title: Trade Union and Labour Relations (Consolidation) Act 1992, section 72I
+act: Trade Union and Labour Relations (Consolidation) Act 1992
+section: 72I
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/72I
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Union and Labour Relations (Consolidation) Act 1992, section 72I
+
+> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 72I. Counting of votes where multiple votes cast by same person[^key-1a25d560e20f6072872377d3956955df]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where the responsible person for the ballot has determined that a person is eligible to vote in the ballot by more than one means of voting, or that a person is eligible to vote in the ballot by hybrid voting.
+
+(2) Where this section applies—
+
+- (a) only one vote cast by the person is to be counted,
+- (b) the vote which is to be counted is to be determined in accordance with provision in the determination made by virtue of section 72E(5), and
+- (c) that provision and an explanation of its effect must be sent to the person along with the voting materials for the ballot.
+
+(3) In this section—
+
+- “**responsible person**” is to be interpreted in accordance with section 72E;
+- “**voting materials**” means—
+  - (a) voting papers, and
+  - (b) voting access methods.
+
+(4) For the purposes of this section, each of the following is to be treated as casting a separate vote—
+
+- (a) returning a voting paper which was sent in accordance with paragraph 14(1) of Schedule A1A;
+- (b) submitting an electronic voting form where the voting access method used to access the electronic voting form was sent in accordance with paragraph 14(1) of Schedule A1A.
+
+## Annotations
+
+[^key-1a25d560e20f6072872377d3956955df]: Textual amendment: Ss. 72B-72P and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2026/881/article/4/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

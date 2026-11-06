@@ -1,0 +1,109 @@
+---
+title: The Civil and Family Proceedings Fees (Amendment) Order 2022
+id: uksi/2022/540
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-05-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/540
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/540/pdfs/uksiem_20220540_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/540/pdfs/uksi_20220540_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/540/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil and Family Proceedings Fees (Amendment) Order 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 540 (L. 7)
+
+Senior Courts Of England And Wales
+
+County Court, England And Wales
+
+Family Proceedings, England And Wales
+
+The Civil and Family Proceedings Fees (Amendment) Order 2022
+
+Made
+
+11th May 2022
+
+Laid before Parliament
+
+16th May 2022
+
+Coming into force in accordance with article 1
+
+The Lord Chancellor, with the consent of the Treasury, makes the following Order in exercise of the powers conferred by section 92(1) and (2) of the Courts Act 2003[^f00001].
+
+The Lord Chancellor has had regard to the principle referred to in section 92(3) of the Courts Act 2003.
+
+In accordance with section 92(5) and (6) of the Courts Act 2003, the Lord Chancellor has consulted the Lord Chief Justice, the Master of the Rolls, the President of the Queen’s Bench Division, the President of the Family Division, the Chancellor of the High Court, the Head of Civil Justice, the Deputy Head of Civil Justice and the Civil Justice Council.
+
+## 1. Citation and Commencement
+
+This Order may be cited as the Civil and Family Proceedings Fees (Amendment) Order 2022 and comes into force on the day on which and immediately after sections 65 and 66 of the Domestic Abuse Act 2021[^f00002] come into force.
+
+## 2. Amendment to the Civil Proceedings Fees Order 2008
+
+(1) The Civil Proceedings Fees Order 2008[^f00003] is amended as follows.
+
+(2) After Article 3A, insert—
+
+> (3B) Fees 2.4(a) (on an application on notice where no other fee is specified) and 2.5(a) (on an application by consent or without notice where no other fee is specified) in Schedule 1 (fees to be taken) are not payable in respect of any application made by reference to sections 85F-K of the Courts Act 2003[^f00004] for an order or direction of the court relating to cross-examination in person of a party to or witness in the proceedings.
+
+## 3. Amendment to the Family Proceedings Fees Order 2008
+
+(1) The Family Proceedings Fees Order 2008[^f00005] is amended as follows.
+
+(2) After Article 3B, insert—
+
+> (3C) Fees 5.1 (on an application in existing proceedings without notice or by consent) and 5.3 (on an application in existing proceedings on notice) in Schedule 1 (fees to be taken) are not payable in respect of any application made by reference to sections 31R-W of the Matrimonial and Family Proceedings Act 1984[^f00006] for an order or direction of the court relating to cross-examination in person of a party to or witness in the proceedings.
+
+James Cartlidge
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+11th May 2022
+
+We consent
+
+Gareth Johnson
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+11th May 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Civil Proceedings Fees Order 2008 ([S.I. 2008/1053](https://www.legislation.gov.uk/uksi/2008/1053)) and the Family Proceedings Fees Order 2008 ([S.I. 2008/1054](https://www.legislation.gov.uk/uksi/2008/1054)). Articles 2 and 3 provide an exemption from paying specified fees in relation to applications for orders or directions relating to cross examination in person. Such applications will be those made by reference to the provisions of sections 85F-K of the Courts Act 2003 and sections 31R-W of the Matrimonial and Family Proceedings Act 1984, both of which were inserted by the Domestic Abuse Act 2021 (sections 66 and 65 respectively).
+
+No impact assessment of the effect of this instrument on the costs to business, the voluntary sector and the public sector has been undertaken.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Section 92 was amended by paragraph 345 of Schedule 4, and paragraph 4 of Schedule 11 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and by paragraph 40(a) of Schedule 9 and paragraph 95 of Schedule 10 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^f00002]: Footnote: [2021 c. 17](https://www.legislation.gov.uk/ukpga/2021/17).
+
+[^f00003]: Footnote: [S. I. 2008/1053](https://www.legislation.gov.uk/uksi/2008/1053). Relevant amending instruments are [S.I. 2011/586](https://www.legislation.gov.uk/uksi/2011/586), [2014/874](https://www.legislation.gov.uk/uksi/2014/874), [2016/402](https://www.legislation.gov.uk/uksi/2016/402) and [2021/985](https://www.legislation.gov.uk/uksi/2021/985).
+
+[^f00004]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). There are no relevant amendments. Sections 85F-K were inserted by section 66 of the Domestic Abuse Act 2021.
+
+[^f00005]: Footnote: [S.I.2008/1054](https://www.legislation.gov.uk/uksi/2008/1054). Relevant amending instruments are [S.I 2010/1916](https://www.legislation.gov.uk/uksi/2010/1916), [2013/1407](https://www.legislation.gov.uk/uksi/2013/1407), [2014/877](https://www.legislation.gov.uk/uksi/2014/877), [S.I. 2016/2011](https://www.legislation.gov.uk/uksi/2016/2011), [2021/985](https://www.legislation.gov.uk/uksi/2021/985) and [2022/54](https://www.legislation.gov.uk/uksi/2022/54).
+
+[^f00006]: Footnote: [1984 c.42](https://www.legislation.gov.uk/ukpga/1984/42). There are no relevant amendments. Sections 31R-W were inserted by section 65 of the Domestic Abuse Act 2021.

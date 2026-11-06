@@ -1,0 +1,837 @@
+---
+title: Employment And Training Act 1973
+id: ukpga/1973/50
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1973-07-25'
+text_date: '2026-07-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1973/50
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1973/50/pdfs/ukpga_19730050_en.pdf
+- http://www.legislation.gov.uk/ukpga/1973/50/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employment And Training Act 1973
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W+S*
+
+Employment And Training Act 1973
+
+1973 c.50
+
+An Act to establish public authorities concerned with arrangements for persons to obtain employment and with arrangements for training for employment and to make provision as to the functions of the authorities; to authorise the Secretary of State to provide temporary employment for unemployed persons; to amend the Industrial Training Act 1964 and the law relating to the provision by education authorities of services relating to employment; and for purposes connected with those matters.
+
+\[25th July 1973\] [^c777859][^c777860][^c777861][^key-c1fb7708592ee6fdabc5f41796d0fe42]
+
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c777862]
+
+*Extent: E+W+S*
+
+## 2. Functions of the Secretary of State.[^key-7f74811172186a0c7814587c00f583b0][^c777867][^c777868][^key-84ce2a372f14a744cb63aa61936222e5][^key-db29bc98fd0bb4e706368ed3869fc8b6][^c777866]
+
+*Extent: E+W+S*
+
+(1) The Secretary of State shall make such arrangements as he considers appropriate for the purpose of assisting persons to select, train for, obtain and retain employment suitable for their ages and capacities or of assisting persons to obtain suitable employees (including partners and other business associates).
+
+(2) Arrangements under this section may—
+
+- (a) include arrangements for providing temporary employment for persons in Great Britain who are without employment;
+- (b) include arrangements for encouraging increases in the opportunities for employment and training that are available to women and girls or to disabled persons;
+- (c) subject to the restriction of paragraph (a) of this subsection to persons in Great Britain, be made in respect of employment and training anywhere in the United Kingdom or elsewhere;
+- (d)[^c777869] include provision for the making of payments by the Secretary of State, by way of grant or loan or otherwise, to persons who provide facilities in pursuance of the arrangements, to persons who use those facilities and to other persons specified in or determined under the arrangements;
+- (e) include provision for the making of payments to the Secretary of State by other parties to the arrangements and by persons who use those facilities;
+- (f) include arrangements for securing that assistance in relation to the matters mentioned in subsection (1) of this section is provided by persons other than the Secretary of State.
+
+(3) The payments for which arrangements under this section may provide—
+
+- (a) shall include the payment to a person by the Secretary of State of an allowance pending a time when payments will be or may be made to that person in respect of his use of facilities which will be or may be made available to him under any such arrangements;
+- (b) shall not include the payment of any such allowance to a person—
+  - (i) for any period after that person has attained the age of eighteen years; or
+  - (ii) for any period for which child benefit is payable in respect of that person;
+
+  and
+- (c) shall not include any payment by any person to the Secretary of State, other than a payment for publications issued in pursuance of the arrangements, in respect of the seeking or obtaining for that person of any employment under a contract of service or apprenticeship.
+
+(3A)[^c777871][^c777870] Without prejudice to subsection (2)(f) of this section, the Secretary of State may wholly or partly perform his duty under subsection (1) of this section in relation to Scotland by authorising or directing Scottish Enterprise or Highlands and Islands Enterprise to act on his behalf—
+
+- (a) in the making of arrangements under this section in such cases or for such purposes as may be specified in or determined under the authorisation or direction;
+- (b) in the taking of such steps for the purposes of, or in connection with, the carrying out of any arrangements under this section (including any made otherwise than by Scottish Enterprise or Highlands and Islands Enterprise) as may be so specified or determined,
+
+and the power under this subsection to give authorisations or directions shall include power to revoke or vary any authorisation or direction so given.
+
+(3B) Where Scottish Enterprise or Highlands and Islands Enterprise make arrangements under this section in pursuance of an authorisation or direction made by the Secretary of State under subsection (3A)(a) above, they shall, at such times as the Secretary of State may require, report to him what provision, if any, they have included in those arrangements in relation to disabled persons.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c777872]
+
+(5) No payments shall be made by or on behalf of the Secretary of State by virtue of any power conferred by this section, other than payments under section 11(3) or 12(4) of this Act, unless the Treasury have approved—
+
+- (a) the amounts of the payments or the manner of determining those amounts; and
+- (b) the terms on which they are made or the manner of determining those terms.
+
+(6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c777872]
+
+## 2A. Restriction on section 2 arrangements: sex industry[^key-0a1c47529a25bb96128c038d0e291fa0]
+
+(1) Arrangements made by the Secretary of State under section 2 may not include arrangements in respect of employment for sexual purposes.
+
+(2) For the purposes of this section employment is for sexual purposes if—
+
+- (a) it involves the employee engaging in an activity, and
+- (b) the employee's activity, or the way in which it is performed, may reasonably be assumed to be intended solely or principally to stimulate one or more other persons sexually (by whatever means).
+
+(3) The Secretary of State may by order specify exceptions to subsection (1).
+
+(4) A statutory instrument containing an order under subsection (3) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c777874]
+
+*Extent: E+W+S*
+
+## 4. Obtaining and disclosure of information by the Commission and Agencies etc.[^key-e6d29982578d5bbb9097fea82405e286]
+
+*Extent: E+W+S*
+
+(1),(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778027]
+
+(3) Nothing in section 9 of Statistics of Trade Act 1947[^c778028] (which restricts the disclosure of information obtained under that Act) shall prevent or penalise—
+
+- (a),(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778029]
+- (c)[^c778030] the disclosure by the Secretary of State or the Chancellor of the Exchequer[^c778031] to a board of relevant information;
+- (d) the disclosure by either of the Agencies to the Commission or the other Agency or a board of relevant information which is of a kind specified in a notice in writing given to the disclosing Agency and the recipient of the information by the Secretary of State or the Chancellor of the Exchequer in pursuance of this paragraph;
+- (e) the disclosure by the Secretary of State or the Chancellor of the Exchequer, . . . [^c778034]the Commission or either of the Agencies of relevant information, consisting of the name and address of any establishment, the numbers of persons of different descriptions employed there and the nature of the activities carried on there, to
+  - (i)[^c778035] any person who is or is to be engaged in the carrying out on behalf of the Secretary of State or the Chancellor of the Exchequer . . . [^c778037] of any research or survey relating to matters connected with training for employment, with industrial relations or otherwise with employment or unemployment; or
+  - (ii) an officer of any of the following bodies who is authorised by that body to receive the information, namely, [^c778039]. . . a local planning authority within the meaning of the Town and Country Planning Act 1990[^c778040] or a planning authority within the meaning of the Town and Country Planning (Scotland) Act 1997[^c778041]. . . [^key-53d378d9aacd60e55440341a32859914].... and a development corporation within the meaning of the [^c778045]New Towns Act 1965 or the [^c778046]New Towns (Scotland) Act 1968;
+  - (iii)[^key-13b5a1efc0772a26c4526f8ad4663b46] an officer of the National Assembly for Wales who is authorised by that body to receive the information for the purposes of its functions under the Welsh Development Agency Act 1975
+- (f) the disclosure by the Secretary of State or the Chancellor of the Exchequer , . . . [^c778048]of statistics compiled wholly or partly from relevant information about the numbers of persons employed in any activity or area.
+
+(3A)[^c778049] Where the Secretary of State or the Chancellor of the Exchequer discloses information to a board or any other person under subsection (3)(c) or (f ) of this section, he shall give a notice in writing to that person specifying the purposes for which the information may be used.
+
+(4) In the preceding subsection—
+
+- “**a board**” means an industrial training board established under section 1 of the Industrial Training Act 1964 or section 1 of the Industrial Training Act 1982[^c778050]; and
+- “**relevant information**” means information obtained under the said Act of 1947;
+
+and any reference in that subsection to the Secretary of State or the Chancellor of the Exchequer, a government department . . . [^c778052], . . . [^c778053]or such a board includes respectively a reference to an officer of his or of that body and also, in the case of a reference to such a board, a reference to any committee appointed by the board, to any officer of such a committee and to any person entitled to take part in proceedings of the board.
+
+(5) A person to whom information is disclosed in pursuance of subsection (3) of this section shall not use the information for a purpose other than—
+
+- (a),(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778054]
+- (c) in a case falling within paragraph (c) . . . [^c778055]or (f) of that subsection, a purpose specified in the notice given with respect to the information in pursuance of subsection (3A) of this section[^c778056];
+- (cc)[^c778057] in the case of information given to such a person as is mentioned in paragraph (e)(i) of that subsection, a purpose related to the carrying out of the research or survey in the carrying out of which that person is or is to be engaged;
+- (d) in the case of information given to an officer of [^c778039]. . . a local planning authority, the purposes of the functions conferred on the authority [^c778039]. . . by Part II of the said Act of 1990[^c778060] or 1997[^c778061] (which relate to development plans);
+- (dd)[^c778062] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (dd)[^c778063] in the case of information given to an officer of the National Assembly for Wales[^key-e0b8aa110a6d4fc9d4af7bc6806fecf0], the purposes of functions conferred on that body by the Welsh Development Agency Act 1975;[^key-eead43e73bb62acb80c7088233af4566]
+- (e) in the case of information given to an officer of a development corporation, the purposes of functions conferred on the corporation by section 3 of the said Act of 1965 or 1968 (which relate to the laying out and development of new towns);
+- (f)[^c778065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and a person who contravenes the provisions of this subsection shall be guilty of an offence and liable on summary conviction to a fine of an amount not exceeding level 5 on the standard scale[^c778066].
+
+(6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778067]
+
+## Additional Powers of Secretary of State
+
+*Extent: E+W+S*
+
+### 5. Additional Powers of Secretary of State.[^key-60f0aae114e24a1207e23966e341130e]
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778071]
+
+(2) The Secretary of State may—
+
+- (a) appoint such persons as he thinks fit for the purpose of advising him with respect to the performance of any of the functions conferred or imposed on him by sections 2, 8 to 10 and 12 of this Act; and[^c778072] by virtue of this Act, excluding the following section; and
+- (b) pay to any person appointed in pursuance of the preceding paragraph such subsistence and travelling allowances and such compensation for loss of remunerative time as the Secretary of State may determine with the approval of the Minister for the Civil Service.
+
+(3) The Secretary of State may arrange for or make payments in respect of—
+
+- (a) research into any matter connected with any of his functions relating to employment, unemployment or training for employment . . . [^c778073]
+- (b) the dissemination of information derived from such research.
+
+(4) The Secretary of State shall not make any payments in pursuance of subsection . . . [^c778074](3) of this section unless the amounts of the payments and the terms on which they are made are approved by the Treasury.
+
+## Modification of Industrial Training Act 1964 and other enactments
+
+*Extent: E+W+S*
+
+### 6. Modification of Act of 1964.
+
+(1),(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778075]
+
+(3)[^c778076] The preceding provisions of this section shall not have effect in relation to the Agricultural, Horticultural and Forestry Industry Training Board, and—
+
+- (a) the Industrial Training Act 1964 [^c778077] shall have effect in relation to that Board subject to the provisions of Part III of Schedule 2 to this Act; and
+- (b) that Board shall be called the Agricultural Training Board;
+
+and, without prejudice to the powers conferred by the said Act of 1964 to amend or revoke any order in respect of that Board which was made under that Act before this subsection comes into force, nothing in the preceding provisions of this subsection or in the said Part III shall affect the validity of such an order.
+
+(4)[^c778076] In accordance with the preceding subsection, sections 1 to 3, 5 and 9 of the said Act are to have effect in relation to the Agricultural Training Board, after the coming into force of that subsection and Part III of Schedule 2 to this Act, as set out in Part IV of that Schedule.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778079]
+
+### 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c778080]
+
+## Careers services[^c778081]
+
+*Extent: E+W+S*
+
+### 8. Duty of Secretary of State to ensure provision of careers services for school and college students.
+
+(1) It shall be the duty of the Secretary of State to secure the provision of relevant services for assisting persons undergoing relevant education to decide—
+
+- (a) what employments, having regard to their capabilities, will be suitable for and available to them when they cease undergoing such education, and
+- (b) what training or education is or will be required by and available to them in order to fit them for those employments,
+
+and for assisting persons ceasing to undergo relevant education to obtain such employments, training and education.
+
+(2) In subsection (1) of this section and section 9 of this Act “ **relevant services** ” means—
+
+- (a) giving of assistance by collecting, or disseminating or otherwise providing, information about persons seeking, obtaining or offering employment, training and education,
+- (b) offering advice and guidance, and
+- (c) other services calculated to facilitate the provision of any services specified in paragraphs (a) and (b) of this subsection.
+
+(3) In this section and section 9 of this Act “ **relevant education** ” means—
+
+- (a) education involving full-time attendance at any educational institution in Great Britain, other than an educational institution within the higher education sector, and
+- (b) education involving part-time attendance at any educational institution in Great Britain, other than an educational institution within the higher education sector, which is education of a description commonly undergone by persons in order to fit them for employment.
+
+(4) The references in subsection (3) of this section to an educational institution within the higher education sector shall be construed—
+
+- (za)[^key-46d6aa9a7af8097190798cdbc6cfb353] as respects England, as references to a registered higher education provider within the meaning given by section 3(10) of the Higher Education and Research Act 2017, other than a provider which is also an institution within the further education sector within the meaning given by section 91(3) of the Further and Higher Education Act 1992,
+- (a)[^key-d574bf9c0e1a24a1f7f372ca4b42cabb] as respects Wales as references to a tertiary education provider registered under section 25 of the Tertiary Education and Research (Wales) Act 2022 to provide higher education, other than a provider which is also an institution within the further education sector (within the meaning given by section 91(3) of the Further and Higher Education Act 1992) or a school (within the meaning given by section 4 of the Education Act 1996), and
+- (b) as respects Scotland, in accordance with section 56(2) of the [^c778087]Further and Higher Education (Scotland) Act 1992.
+
+### 9. Power of Secretary of State to arrange for provision of careers services for others.[^key-188b03820735b45d99ae1fd60f5e2ad0][^c778093]
+
+The Secretary of State shall have power to secure the provision of relevant services, or any description of relevant services, for assisting persons other than those undergoing relevant education, or any description of such persons, to decide—
+
+- (a) what employments, having regard to their capabilities, are or will be suitable for and available to them, and
+- (b) what training or education is or will be required by and available to them in order to fit them for those employments,
+
+and for assisting those persons to obtain such employments, training and education.
+
+### 9A. Duty of Welsh Ministers to consult the Commission for Tertiary Education and Research[^key-58587d5ac3303cd53782c339d9138715]
+
+*Extent: E+W*
+
+(1) In each financial year the Welsh Ministers must consult the Commission for Tertiary Education and Research on strategic priorities in the next financial year for the performance of their duty in section 8 and the exercise of their power in section 9.
+
+(2) In this section, “financial year means a period of 12 months ending on 31 March.
+
+### 10. Provision of services.[^c778095]
+
+(1) The Secretary of State may perform the duty imposed on him by section 8 of this Act, and exercise the power conferred on him by section 9 of this Act, by making arrangements with—
+
+- (a) local authorities[^key-8c96d4479afaeb64665b7ad972ec5fc1] or (in Scotland) education authorities,
+- (b) persons of any other description, or
+- (c) local authorities or education authorities and persons of any other description acting jointly,
+
+under which they undertake to provide, or arrange for the provision of, services in accordance with the arrangements; and in doing so the Secretary of State shall have regard to the requirements of disabled persons.
+
+(2) The Secretary of State may also perform the duty imposed on him by section 8 of this Act, and exercise the power conferred on him by section 9 of this Act, by giving directions to local authorities or education authorities requiring them to provide, or arrange for the provision of, services in accordance with the directions; and in doing so the Secretary of State shall have regard to the requirements of disabled persons.
+
+(3) Directions given under this section may require local authorities and education authorities—
+
+- (a) to provide services themselves or jointly with other authorities or persons,
+- (b) to arrange for the provision of services by other authorities or persons, or
+- (c) to consult and co-ordinate in the provision, or in arranging for the provision, of services with other authorities or persons.
+
+(4) Arrangements made, and directions given, under this section may include provision for the making of payments by the Secretary of State, whether by way of grant or loan or otherwise, to the persons with whom they are made or to whom they are given.
+
+(5) Arrangements made, and directions given, under this section in exercise of the power conferred by section 9 of this Act may include provision permitting the making of charges for the provision of the services to which they relate.
+
+(6) Arrangements made, and directions given, under this section shall require the person with whom they are made or to whom they are given—
+
+- (a) to provide, or arrange for the provision, of services in accordance with such guidance of a general character as the Secretary of State may give, and
+- (b) to furnish the Secretary of State, in such manner and at such times as he may specify in the arrangements or directions or in guidance given under paragraph (a) of this subsection, with such information and facilities for obtaining information as he may so specify.
+
+(7) The Secretary of State may give directions to local authorities and education authorities requiring them to transfer (on such terms as may be specified in the directions) to any persons who are providing, or are to provide, services in accordance with arrangements made, or directions given, under this section any records of the authorities which may be relevant in the provision of the services.
+
+(8) local authorities and education authorities shall have power—
+
+- (a) to provide services or arrange for the provision of services in accordance with arrangements made, or directions given, under this section (including services provided outside their areas) by any such means (including by the formation of companies for the purpose) as they consider appropriate, and
+- (b) to employ officers and provide facilities for and in connection with the provision of the services or arranging for the provision of the services;
+
+but, where directions are given to local authorities and education authorities, the power conferred on them by this subsection shall be exercised in accordance with the directions.
+
+(9) Where services are being provided in pursuance of arrangements made, or directions given, under this section, the authority with whom the arrangements are made or to whom the directions have been given shall have power, with the consent of the Secretary of State, to provide, or arrange for the provision of, more extensive (relevant) services than the arrangements authorise or the directions require and to employ more officers and provide more facilities accordingly.
+
+(10) Nothing in sections 8 and 9 and this section shall make it unlawful for a local authority[^key-23658a38bcf13372cae2d4be9e37ad60] or education authority to defray the cost of exercising their powers under this section from resources other than payments of the Secretary of State.
+
+(11) A direction given under this section may be revoked or varied by another direction so given.
+
+(12) Nothing in this section shall be taken to limit the arrangements which may be made under section 2 of this Act.
+
+## 10A. Provision of ancillary goods and services.[^c778096]
+
+*Extent: E+W+S*
+
+(1) The functions of a local authority[^key-ccbeec55026a6511fe90db55a35803ce] or education authority shall include power to enter into agreements for the supply of goods or services authorised by this section with any person (other than an authority) who provides, or arranges for the provision of, relevant services and is a person with whom this section authorises such arrangements to be made.
+
+(2) This section authorises the making of such arrangements with any person—
+
+- (a) who, under arrangements (or joint arrangements) made with that person under section 10(1) or (3) of this Act provides, or arranges for the provision of, the services;
+- (b) who provides the services jointly with an authority under section 10(3) of this Act;
+- (c) who is the means by which, under section 10(8), an authority provides, or arranges for the provision of, the services.
+
+(3) Subject to subsections (4), (5) and (6) below, this section authorises—
+
+- (a) the supply by the authority to the person of any goods;
+- (b) the provision by the authority for the person of any administrative, professional or technical services;
+- (c) the use by the person of any vehicle, plant or apparatus belonging to the authority and, without prejudice to paragraph (b) above, the placing at the disposal of the person of the services of any person employed in connection with the vehicle or other property in question;
+- (d) the carrying out by the authority of works of maintenance in connection with land or buildings for the maintenance of which the person is responsible;
+
+and the authority may purchase and store any goods which in their opinion they may require for the purposes of paragraph (a) above.
+
+(4) The supply by an authority of goods or services to any person is authorised by this section only for the purpose of the provision by that person of relevant services.
+
+(5) The supply by an authority of goods or services to any person is authorised by this section only during the period of two years beginning with the day on which that person first provides relevant services in the area of that authority.
+
+(6) Goods and services shall be supplied on such terms as can reasonably be expected to secure that the full cost of making the supply is recovered by the authority.
+
+(7) The supply by an authority of goods or services to any person is authorised outside as well as within the area of that authority.
+
+(8) This section is without prejudice to the generality of any other enactment conferring functions on local education authorities or education authorities.
+
+(9) In this section—
+
+- “ **goods** ” includes materials; and
+- “ **relevant services** ” has the meaning given in section 8(2) of this Act.
+
+## 10B. Inspection.[^c778097]
+
+*Extent: E+W*
+
+(1) Her Majesty's Chief Inspector of Education, Children's Services and Skills[^key-2d371450b6b39a6d01888cfdfb860c9c]—
+
+- (a)[^key-dc491f065a698a129befa398b9bd2855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-dc491f065a698a129befa398b9bd2855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) shall, when requested to do so by the Secretary of State, inspect and report on the provision of services in England in pursuance of section 8 or 9[^key-e42eddbfc4e4a1dd5d2a7ae26b3577c8] by any person or institution, and
+- (d) may undertake such other inspections of the provision of those services by persons or institutions as he thinks fit.
+
+(2) A request under subsection (1)(c)—
+
+- (a) may be general or in relation to specific matters,
+- (b) may relate to a specific person or institution providing services, or to a specific class of person or institution, and
+- (c) may relate to a specific area.
+
+(3) An inspection under subsection (1)(c) or (d) may not relate to services provided for persons who have attained the age of 20.
+
+(4) A reference in subsection (1) to the provision of services includes a reference to the management and use of resources in providing services.
+
+(5) Subsections (6) to (8) apply to an inspection under subsection (1)(c) or (d) of services provided in pursuance of arrangements under section 10(1) of this Act.
+
+(6)[^key-70659d57555704ea0b3aea1e1868a9bd] A person carrying out or participating in the inspection shall have the same powers as the Chief Inspector has under the following provisions of the Education Act 2005—
+
+- (a) section 10(1)(a) and (d) (right of access), and
+- (b) section 58 (computer records).
+
+(7) Section 11 of the Education Act 2005[^key-f7c09e7f402b4f8b462075083182f6c5] (publication of reports) shall apply.
+
+(8) A person who wilfully obstructs a person in carrying out or participating in the inspection—
+
+- (a) shall be guilty of an offence, and
+- (b) shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+## Supplemental
+
+### 11. Financial provisions.
+
+*Extent: E+W+S*
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778106]
+
+(2) There shall be paid out of money provided by Parliament—
+
+- (a) any expenses incurred by the Secretary of State for the purposes of this Act; and
+- (b) any increase attributable to the provisions of this Act in the sums payable under any other Act out of money so provided;
+
+and any sums received by the Secretary of State by virtue of this Act shall be paid into the Consolidated Fund.
+
+(3)[^c778107][^key-ea879eb221f84d229f2a2c2757d91e58] Where it appears to the Secretary of State[^c778108] or an industrial training board established under section 1 of the Industrial Training Act 1964 or section 1 of the Industrial Training Act 1982[^c778109] that any person would have been entitled, by reference to an injury or disease developed by him or another person in consequence of attendance at a course provided or approved by or on behalf of the Secretary of State or by[^c778110] the board or in consequence of the use of facilities so provided or approved, to receive any benefit or increase in benefit in pursuance of Parts 2 to 4[^key-f5d1010b82e92212420c70b74ababa47][^c778112][^c778111] of the Social Security Contributions and Benefits Act 1992 but for the fact that he or the other person was not at a relevant time an employed earner, the Secretary of State or the board may make to him payments equal to the whole or part of the benefit or increase in question; . . . [^c778114]
+
+### 12. Ancillary and transitional provisions.
+
+(1) It shall be the duty of the Secretary of State[^c778146] in exercising any power to select disabled persons for courses of training and other courses or any power to submit for engagements the names of disabled persons[^c778147] . . . [^c778148], to give preference, so far as he . . .[^c778149] [^c778150] considers it consistent with the efficient exercise of that power, to persons of the classes specified in section 16 of the [^c778151]Disabled Persons (Employment) Act 1944 (which specifies the classes of ex-service men and women to whom preference is to be given in pursuance of that section); and in this subsection “**disabled person**”has the same meaning as in the Equality Act 2010[^key-7f272ac4600ae19c6f0c9f5c9063649f].
+
+(1A)[^c778153] It shall be the duty . . . [^c778154] of each local authority or (in Scotland) education authority[^key-cd4d180ff26f9308cfc2e3245cea7800] to furnish the Secretary of State with such information in its possession as the Secretary of State may specify as being information required by him in connection with the determination of questions relating to the exercise by him of any power under this Act to make payments to any persons; and any information falling to be furnished in pursuance of this subsection shall be furnished in such form and at such times as the Secretary of State may direct.
+
+(2)[^c778155] It shall be the duty of each local authority or (in Scotland) education authority[^key-8bf42d3608a6e0603521c1c8e208b749] and the Commission to furnish the Secretary of State with such information in its possession as the Secretary of State may require as being information required in connection with the determination of questions relating to contributions or benefit under the Social Security Contributions and Benefits Act 1992[^c778156] and any information falling to be furnished in pursuance of this subsection shall be furnished in such a form and at such times as the Secretary of State may direct.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778157]
+
+(4)[^c778158] The Secretary of State[^c778159] or an industrial training board may make to any person payments by way of travelling and subsistence allowances and compensation for loss of remunerative time which , in the case of payments by such a board, are approved by the Secretary of State and which the Secretary of State[^c778160] or board considers are appropriate in connection with the person’s attendance at any examination connected with a claim for payments from the Secretary of State[^c778161] or board in pursuance of subsection (3) of the preceding section; . . . [^c778162]
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778163]
+
+(6)[^key-8ca88144f6bc33ee8b7d12027c76e627] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Interpretation etc.
+
+*Extent: E+W+S*
+
+(1) In this Act, apart from Schedule 2, the following expressions have the following meanings—
+
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778164]
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778165]
+- “education authority” has the meaning given by section 135(1) of the Education (Scotland) Act 1980;[^key-6ff5bfa20ac10e5eab5768d82a7cb82c]
+
+  “employee”, . . . [^c778166], includes a person engaged under a contract for services, and “**employer**” shall be construed accordingly;
+- “employment”, . . . [^c778166], means employment under a contract of service or apprenticeship or a contract for services or otherwise than under a contract, and “**employed**” shall be construed accordingly;
+- “**facilities**” includes services;
+- “**functions**” includes powers and duties;
+- “local authority” has the meaning given by section 579(1) of the Education Act 1996;[^key-79e0054f0ea7df1c4e4af32c77758843]
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778165]
+- “**training**” includes any education with a view to employment, and cognate expressions shall be construed accordingly; and
+- “**university**”, in relation to Scotland, includes a central institution and a college of education as defined in section 145 of the [^c778170]Education (Scotland) Act 1962.
+
+(1A)[^c778171] Any reference in this Act to redundancy shall be construed as a reference to the existence of one or other of the facts specified in section 1(2)(a) and (b) of the [^c778172] Redundancy Payments Act 1965.
+
+(2) A reference in this Act to any enactment is a reference to it as amended, and includes a reference to it as applied, by or under any other enactment.
+
+(3) The powers conferred on the Secretary of State by this Act are in addition to and not in substitution for any powers exercisable by him apart from this Act.
+
+(4) Any power to make an order which is conferred on the Secretary of State by this Act apart from Schedule 2 shall be exercisable by statutory instrument, and an order made in the exercise of such a power—
+
+- (a) may include such supplemental and incidental provisions as the Secretary of State considers appropriate for the purposes of the order;
+- (b) may, except in the case of an order made by virtue of section 8(6) or 12(3) of this Act, be varied or revoked by a subsequent order so made, so however that an order appointing a day shall not be varied or revoked by virtue of this subsection on or after that day.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778173]
+
+(6)[^key-3ef6a7c4e4619f9d4d3ef23211e3f7e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Minor and consequential amendments of enactments, and repeals.
+
+*Extent: E+W+S*
+
+(1) The enactments mentioned in Schedule 3 to this Act shall have effect subject to the provisions of that Schedule; . . . [^c778174]
+
+(2)[^c778175] The enactments mentioned in the first and second columns of Schedule 4 to this Act are hereby repealed to the extent specified in the third column of that Schedule; but nothing in this subsection affects the application of hte Industrial Training Act 1964 to the Agricultural Training Board.
+
+### 15. Short title, commencement and extent.
+
+*Extent: E+W+S*
+
+(1) This Act may be cited as the Employment and Training Act 1973.
+
+(2)[^key-4304ff0af972bb9de715086ef77c2966] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) This Act[^key-812de5536103497e517327de4dcfe66b].. does not extend to Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c778181]
+
+*Extent: E+W+S*
+
+## SCHEDULE 2
+
+*Extent: E+W+S*
+
+### Parts. I, II. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c778182]
+
+### Parts. III, IV. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c778183]
+
+## SCHEDULE 3 — Minor and Consequential Amendments of Enactments[^c778184]
+
+Section 14(1).
+
+### The Unemployment Insurance Act 1935[^c778185]
+
+*Extent: E+W+S*
+
+**1.**[^key-c18a1529c58bf416811c09297f3e255d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Disabled Persons (Employment) Act 1944[^c778186]
+
+*Extent: E+W+S*
+
+**2.**[^key-026d48b8b9b6a0d4606c9a7883a26427] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The National Assistance Act 1948[^c778187]
+
+*Extent: E+W+S*
+
+**3.** In section 29(4)(c) of the National Assistance Act 1948 (which relates to the provision by local authorities of workshops and hostels for persons for whom work or training is provided in pursuance of the Disabled Persons (Employment) Act 1944), after the word “1944”, there shall be inserted the words “or the Employment and Training Act 1973”.
+
+**4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778188]
+
+**5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778189]
+
+### The Factories 1961[^c778190]
+
+*Extent: E+W+S*
+
+**6.**[^c778191] In section 119A(2) of the Factories Act 1961 , for paragraph (a) (which contains a definition for the purposes of that section of “the local careers office”), there shall be substituted the following paragraph—
+
+- (a) “ **the local careers office** ” means the premises from which, under arrangements made in pursuance of subsection (1), (4) or (5) of section 8 of the Employment and Training Act 1973, the facilities provided in pursuance of the said subsection (1) are made available in the area (as determined in pursuance of the arrangements) in which the factory is situated ; and.
+
+**7.**[^c778192] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778193]
+
+### The National Insurance (Industrial Injuries) Act 1965[^c778194]
+
+*Extent: E+W+S*
+
+**8.**[^key-f9aadb8a179a2c0f54f9c5832a275017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778195]
+
+*Extent: E+W+S*
+
+**10.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778196]
+
+### The Chronically Sick and Disabled Persons Act 1970[^c778197]
+
+*Extent: E+W+S*
+
+**11.** (1)[^key-76396ff207954319e8941c5245896f1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In subsection (2) of that section (which relates to the membership of any of the bodies constituted under section 8(1) of the Employment and Training Act 1948), for the words from “to be members” to “respectively)” there shall be substituted the words “in pursuance of section 5(2)(a) of the Employment and Training Act 1973 to advise the Secretary of State with respect to the performance of the functions conferred on him by virtue of section 10(1) of that Act”, and the words “the body in question” shall be omitted.
+
+**12.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778198]
+
+**13.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778199]
+
+**14.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778200]
+
+**15.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c778201]
+
+## SCHEDULE 4 — Repeals[^c778202]
+
+14(2).
+
+| Chapter | Short title | Extent of repeal |
+| --- | --- | --- |
+| 25 & 26 Geo. 5. c. 8. | The Unemployment Insurance Act 1935. | Section 80 . |
+| 7 & 8 Geo. 6. c. 10. | The Disabled Persons (Employment) Act 1944. | Sections 2 to 5. |
+|  |  | In section 16 the words “vocational training and industrial rehabilitation courses and” and the words from “and in selecting” to “engagements”. |
+| 11 & 12 Geo. 6. c. 46. | The Employment and Training Act 1948. | The whole Act. |
+| 12, 13 & 14 Geo. 6. c. 37. | The Agriculture (Miscellaneous Provisions) Act 1949. | Section 8(5). |
+| 1963 c. 33. | The London Government Act 1963. | Section 34. |
+| 1964 c. 16. | The Industrial Training Act 1964. | Section 2(1)(f). |
+|  |  | In section 3(1) the words from “, in accordance” to “section 7 of this Act,”. |
+|  |  | In section 5, in subsection (1) the words “out of moneys provided by Parliament”, subsection (3), and in subsection (4) the words from “and any” onwards. |
+|  |  | In section 6, subsection (1), in subsection (2) the words from “and any” to “board”, in the second place where it occurs, and in subsections (6) and (7)(a) the words “subsection (1) or”. |
+|  |  | Sections 11, 13 and 17. |
+|  |  | In the Schedule, paragraph 6(2). |
+| 1965 c. 51. | The National Insurance Act 1965. | Sections 81(7) and 83(1)(b)(iv). |
+|  |  | In section 114(1), the definition of “employment exchange”. |
+| 1965 c. 52. | The National Insurance (Industrial Injuries) Act 1965. | Sections 25(2)(c) and 72. |
+| 1967 c. 80. | The Criminal Justice Act 1967. | In Schedule 3 the entry relating to the Employment and Training Act 1948. |
+| 1970 c. 40. | The Agriculture Act 1970. | Section 104. |
+| 1970 c. 44. | The Chronically Sick and Disabled Persons Act 1970. | In section 13(2) the words “the body in question”. |
+| 1972 c. 5. | The Local Employment Act 1972. | Section 6. |
+| 1972 c. 28. | The Employment Medical Advisory Service Act 1972. | Section 5(2). |
+| 1972 c. 70. | The Local Government Act 1972. | Section 209. |
+
+## Annotations
+
+[^c777859]: Modification: Act: functions transferred (1.7.1999) (except ss. 2, 4, 5 and 11 for which functions are shared (and modified for s. 2)) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c777860]: Modification: Act extended (*retrospectively*) by [Local Government (Miscellaneous Provisions) Act 1982 (c. 30, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1982/30), [s. 45(1)](https://www.legislation.gov.uk/ukpga/1982/30/section/45/1)
+
+[^c777861]: Modification: Act: power to continue certain provisions conferred (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 5](https://www.legislation.gov.uk/ukpga/1992/6/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 3 Pt. II para.15](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/part/II/paragraph/15).
+
+[^key-c1fb7708592ee6fdabc5f41796d0fe42]: Modification: Act functions ceased to be exercisable concurrently (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2010/1839/article/3/2/a)
+
+[^c777862]: Textual amendment: S. 1 repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^key-7f74811172186a0c7814587c00f583b0]: Modification: S. 2 functions made exercisable concurrently (12.10.2007) by [Transfer of Functions (Equality) Order 2007 (S.I. 2007/2914)](https://www.legislation.gov.uk/uksi/2007/2914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2007/2914/article/3/4/a)
+
+[^c777867]: Modification: S. 2 modified (1.12.2000 for specified purposes and otherwise*prosp.*) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 62(5)](https://www.legislation.gov.uk/ukpga/2000/19/section/62/5) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/2950](https://www.legislation.gov.uk/uksi/2000/2950), [art. 5](https://www.legislation.gov.uk/uksi/2000/2950/article/5)
+
+[^c777868]: Modification: S. 2: Functions transferred (1.7.1999 subject to [s. 56(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/56/1) of the amending Act) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 53(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/53/1) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/1)
+
+[^key-84ce2a372f14a744cb63aa61936222e5]: Modification: S. 2 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+
+[^key-db29bc98fd0bb4e706368ed3869fc8b6]: Modification: S. 2: functions transferred (12.3.2020) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2020 (S.I. 2020/276)](https://www.legislation.gov.uk/uksi/2020/276), [arts. 1(2)](https://legislation.gov.uk/uksi/2020/276/article/1/2/made), [2(1)-(5)](https://legislation.gov.uk/uksi/2020/276/article/2/1/made) (with [art. 2(6)](https://legislation.gov.uk/uksi/2020/276/article/2/6/made))
+
+[^c777866]: Textual amendment: Ss. 2, 3 substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/1)
+
+[^c777869]: Modification: S. 2(2)(d) excluded (7.10.1996) by [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207), [reg. 103(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/103/2), [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/1996/207/schedule/7/paragraph/14)
+
+[^c777871]: Modification: S. 2(3A): power exercisable (1.7.1999) with the agreement of the Scottish Ministers by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 4](https://www.legislation.gov.uk/uksi/1999/1750/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/1999/1750/schedule/3)
+
+[^c777870]: Textual amendment: S. 2(3A) inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 47(1)](https://www.legislation.gov.uk/ukpga/1993/19/section/47/1); 1993/1908, art. 2(1), Sch.1.
+
+[^c777872]: Textual amendment: Ss. 2(4)(6) which was substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/1) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^key-0a1c47529a25bb96128c038d0e291fa0]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/1973/50/section/2A) inserted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 144](https://www.legislation.gov.uk/ukpga/2012/5/section/144), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(h)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/h)
+
+[^c777874]: Textual amendment: Ss. 3 which was substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/1) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^key-e6d29982578d5bbb9097fea82405e286]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1973/50/section/4) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+
+[^c778027]: Textual amendment: S. 4(1)(2) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778028]: Textual amendment: Words substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(3)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3), [Sch. 6 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/9/2/a)
+
+[^c778029]: Textual amendment: S. 4(3)(*a*)(*b*) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778030]: Textual amendment: S. 4(3)(*c*) substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(3)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3), [Sch. 6 para. 9(2)(c)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/9/2/c)
+
+[^c778031]: Textual amendment: Words in s. 4 inserted (1.1.1996) by [S.I. 1995/2986](https://www.legislation.gov.uk/uksi/1995/2986), [art. 11](https://www.legislation.gov.uk/uksi/1995/2986/article/11), [Sch. para. 8](https://www.legislation.gov.uk/uksi/1995/2986/schedule/paragraph/8)
+
+[^c778034]: Textual amendment: Words repealed by virtue of [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(3)(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3/4), [Sch. 6 para. 9(2)(d)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/9/2/d), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778035]: Textual amendment: Words inserted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 28(1)](https://www.legislation.gov.uk/ukpga/1988/19/section/28/1)
+
+[^c778037]: Textual amendment: Words repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(3)(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3/4), [Sch. 6 para. 9(2)(d)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/9/2/d), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778039]: Textual amendment: Words in s. 4(3)(e)(ii), 4(5)(d) repealed (1.4.1994 in relation to England and Scotland and 1.4.1995 for all other purposes) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 51](https://www.legislation.gov.uk/ukpga/1993/19/section/51), [Sch. 10](https://www.legislation.gov.uk/ukpga/1993/19/schedule/10); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(3)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/2503/schedule/3).
+
+[^c778040]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 30(a)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/30/a)
+
+[^c778041]: Textual amendment: Words in s. 4(3)(e) substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2 para. 20(a)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/20/a)
+
+[^key-53d378d9aacd60e55440341a32859914]: Textual amendment: Words in s. 4(3)(e)(ii) omitted (1.4.2006) by virtue of [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/uksi/2005/3226), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/3226/article/1/2), [7](https://www.legislation.gov.uk/uksi/2005/3226/article/7), [Sch. 2 paras. 5(1)](https://www.legislation.gov.uk/uksi/2005/3226/schedule/2/paragraph/5/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/3/1))
+
+[^c778045]: Marginal citation: [1965 c. 59](https://www.legislation.gov.uk/ukpga/1965/59).
+
+[^c778046]: Marginal citation: [1968 c. 16](https://www.legislation.gov.uk/ukpga/1968/16).
+
+[^key-13b5a1efc0772a26c4526f8ad4663b46]: Textual amendment: S. 4(3)(e)(iii) added (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/uksi/2005/3226), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/3226/article/1/2), [7](https://www.legislation.gov.uk/uksi/2005/3226/article/7), [Sch. 2 paras. 5(2)](https://www.legislation.gov.uk/uksi/2005/3226/schedule/2/paragraph/5/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/3/1))
+
+[^c778048]: Textual amendment: Words repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(3)(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3/4), [Sch. 6 para. 9(2)(e)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/9/2/e), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778049]: Textual amendment: S. 4(3A) inserted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(3)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3), [Sch. 6 para. 9(3)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/9/3)
+
+[^c778050]: Textual amendment: Words substituted by [Industrial Training Act 1982 (c. 10, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1982/10), [s. 20](https://www.legislation.gov.uk/ukpga/1982/10/section/20), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1982/10/schedule/3/paragraph/3)
+
+[^c778052]: Textual amendment: Words repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778053]: Textual amendment: Words repealed by [Employment and Training Act 1981 (c. 57, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1981/57), [s. 11(2)](https://www.legislation.gov.uk/ukpga/1981/57/section/11/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1981/57/schedule/3)
+
+[^c778054]: Textual amendment: S. 4(5)(a)(b) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778055]: Textual amendment: Words repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778056]: Textual amendment: Words substituted by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(3)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3), [Sch. 6 para. 9(4)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/9/4)
+
+[^c778057]: Textual amendment: S. 4(5)(cc) inserted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 28(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/28/2)
+
+[^c778060]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 30(b)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/30/b)
+
+[^c778061]: Textual amendment: Words in s. 4(5)(d) substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2 para. 20(b)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/20/b)
+
+[^c778062]: Textual amendment: S. 4(5)(dd) (as inserted by section 11(6)(b) of the Scottish Development Agency Act 1975 and not as inserted by section 24(6)(b) of the Welsh Development Agency Act 1975) repealed (1.4.1991) by [Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64)](https://www.legislation.gov.uk/ukpga/1990/35), [s. 38(2)](https://www.legislation.gov.uk/ukpga/1990/35/section/38/2), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1990/35/schedule/5/part/I)
+
+[^c778063]: Textual amendment: S. 4(5)(dd) inserted by [Welsh Development Agency Act 1975 (c. 70)](https://www.legislation.gov.uk/ukpga/1975/70), [s. 24(6)(b)](https://www.legislation.gov.uk/ukpga/1975/70/section/24/6/b)
+
+[^key-e0b8aa110a6d4fc9d4af7bc6806fecf0]: Textual amendment: Words in s. 4(5)(dd) substituted (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/uksi/2005/3226), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/3226/article/1/2), [7](https://www.legislation.gov.uk/uksi/2005/3226/article/7), [Sch. 2 paras. 5(3)(a)](https://www.legislation.gov.uk/uksi/2005/3226/schedule/2/paragraph/5/3/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/3/1))
+
+[^key-eead43e73bb62acb80c7088233af4566]: Textual amendment: Words in s. 4(5)(dd) substituted (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/uksi/2005/3226), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/3226/article/1/2), [7](https://www.legislation.gov.uk/uksi/2005/3226/article/7), [Sch. 2 paras. 5(3)(b)](https://www.legislation.gov.uk/uksi/2005/3226/schedule/2/paragraph/5/3/b) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/3/1))
+
+[^c778065]: Textual amendment: S. 4(5)(f) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
+
+[^c778066]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
+
+[^c778067]: Textual amendment: S. 4(6) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^key-60f0aae114e24a1207e23966e341130e]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1973/50/section/5) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+
+[^c778071]: Textual amendment: S. 5(1) repealed by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 33(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/33/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1988/19/schedule/4)
+
+[^c778072]: Textual amendment: Words in s. 5(2)(a) substituted (1.4.1994 in relation to England and Scotland and 1.4.1995 for all other purposes) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(3)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/3), [Sch.3](https://www.legislation.gov.uk/uksi/1993/2503/schedule/3).
+
+[^c778073]: Textual amendment: Words repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778074]: Textual amendment: Words repealed by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 33(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/33/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1988/19/schedule/4)
+
+[^c778075]: Textual amendment: S. 6(1)(2) repealed by [Industrial Training Act 1982 (c. 10, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1982/10), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1982/10/section/20/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/10/schedule/4)
+
+[^c778076]: Modification: S. 6(3)(4) repealed in relation to Agricultural Training Board by [Agricultural Training Board Act 1982 (c. 9, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1982/9), [s. 11(1)](https://www.legislation.gov.uk/ukpga/1982/9/section/11/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1982/9/schedule/2)
+
+[^c778077]: Marginal citation: [1964 c. 16](https://www.legislation.gov.uk/ukpga/1964/16).
+
+[^c778079]: Textual amendment: S. 6(5) repealed by [Industrial Training Act 1982 (c. 10, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1982/10), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1982/10/section/20/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/10/schedule/4)
+
+[^c778080]: Textual amendment: S. 7 repealed by [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Sch. 18](https://www.legislation.gov.uk/ukpga/1975/71/schedule/18)
+
+[^c778081]: Textual amendment: Ss. 8-10 substituted (30.11.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 45](https://www.legislation.gov.uk/ukpga/1993/19/section/45); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1993/2503/schedule/2).
+
+[^key-46d6aa9a7af8097190798cdbc6cfb353]: Textual amendment: S. 8(4)(za) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/2/2)
+
+[^key-d574bf9c0e1a24a1f7f372ca4b42cabb]: Textual amendment: S. 8(4)(a) substituted (31.7.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/1) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 19(1)](https://www.legislation.gov.uk/wsi/2026/62/article/19/1) (with [art. 19(2)](https://www.legislation.gov.uk/wsi/2026/62/article/19/2)[(3)](https://www.legislation.gov.uk/wsi/2026/62/article/19/3))
+
+[^c778087]: Marginal citation: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37).
+
+[^key-188b03820735b45d99ae1fd60f5e2ad0]: Modification: S. 9 functions made exercisable concurrently (12.10.2007) by [Transfer of Functions (Equality) Order 2007 (S.I. 2007/2914)](https://www.legislation.gov.uk/uksi/2007/2914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2007/2914/article/3/4/a)
+
+[^c778093]: Textual amendment: Ss. 8-10 substituted (30.11.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.45](https://www.legislation.gov.uk/ukpga/1993/19/section/45); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1993/2503/schedule/2).
+
+[^key-58587d5ac3303cd53782c339d9138715]: Textual amendment: S. 9A inserted (W.) (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [ss. 140](https://www.legislation.gov.uk/asc/2022/1/section/140), [148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(i)](https://www.legislation.gov.uk/wsi/2024/806/article/2/i) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+
+[^c778095]: Textual amendment: Ss. 8-10 substituted (30.11.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.45](https://www.legislation.gov.uk/ukpga/1993/19/section/45); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1993/2503/schedule/2).
+
+[^key-8c96d4479afaeb64665b7ad972ec5fc1]: Textual amendment: Words in s. 10(1)-(8) substituted (5.5.2010) by [The Local Education Authorities and Childrenâ€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/28/2/a)
+
+[^key-23658a38bcf13372cae2d4be9e37ad60]: Textual amendment: Words in s. 10(10) substituted (5.5.2010) by [The Local Education Authorities and Childrenâ€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/28/2/b)
+
+[^c778096]: Textual amendment: S. 10A inserted (1.4.1994 in relation to England and Scotland and 1.4.1995 for all other purposes) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.46](https://www.legislation.gov.uk/ukpga/1993/19/section/46); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(3)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/3), [Sch.3](https://www.legislation.gov.uk/uksi/1993/2503/schedule/3).
+
+[^key-ccbeec55026a6511fe90db55a35803ce]: Textual amendment: Words in s. 10A(1) substituted (5.5.2010) by [The Local Education Authorities and Childrenâ€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 28(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/28/3)
+
+[^c778097]: Textual amendment: S. 10B inserted (1.4.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 122](https://www.legislation.gov.uk/ukpga/2000/21/section/122) (with [s. 150](https://www.legislation.gov.uk/ukpga/2000/21/section/150)); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/654/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with savings and transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3))
+
+[^key-2d371450b6b39a6d01888cfdfb860c9c]: Textual amendment: Words in s. 10B(1) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 4(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/4/a); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+
+[^key-dc491f065a698a129befa398b9bd2855]: Textual amendment: S. 10B(1)(a)(b) repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 4(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/4/b), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
+
+[^key-e42eddbfc4e4a1dd5d2a7ae26b3577c8]: Textual amendment: Words in s. 10B(1)(c) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 4(c)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/4/c); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+
+[^key-70659d57555704ea0b3aea1e1868a9bd]: Textual amendment: S. 10B(6) substituted (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/9/paragraph/2/2); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 5](https://www.legislation.gov.uk/uksi/2005/2034/article/5)
+
+[^key-f7c09e7f402b4f8b462075083182f6c5]: Textual amendment: Words in s. 10B(7) substituted (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 9 para. 2(3)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/9/paragraph/2/3); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 5](https://www.legislation.gov.uk/uksi/2005/2034/article/5)
+
+[^c778106]: Textual amendment: S. 11(1) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778107]: Modification: S. 11(3): Functions transferred (1.7.1999 subject to [s. 56(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/56/1) of the amending Act) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 53(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/53/1) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/1)
+
+[^key-ea879eb221f84d229f2a2c2757d91e58]: Modification: [S. 11(3)](https://www.legislation.gov.uk/ukpga/1973/50/section/11/3) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+
+[^c778108]: Textual amendment: Words substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25](https://www.legislation.gov.uk/ukpga/1988/19/section/25), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/2/paragraph/1/a)
+
+[^c778109]: Textual amendment: Words substituted by [Industrial Training Act 1982 (c. 10, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1982/10), [s. 20](https://www.legislation.gov.uk/ukpga/1982/10/section/20), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1982/10/schedule/3/paragraph/3)
+
+[^c778110]: Textual amendment: Words substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25](https://www.legislation.gov.uk/ukpga/1988/19/section/25), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/2/paragraph/1/b)
+
+[^key-f5d1010b82e92212420c70b74ababa47]: Textual amendment: Words in [s. 11(3)](https://www.legislation.gov.uk/ukpga/1973/50/section/11/3) substituted (30.10.2012 for specified purposes, 31.10.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 66(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/66/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/b); [S.I. 2013/2534](https://www.legislation.gov.uk/uksi/2013/2534), [art. 2](https://www.legislation.gov.uk/uksi/2013/2534/article/2)
+
+[^c778112]: Textual amendment: Words in s. 11(3) substituted (1. 7. 1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 4](https://www.legislation.gov.uk/ukpga/1992/6/section/4), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 2 para.10](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/10).
+
+[^c778111]: Textual amendment: Words substituted by [Social Security (Consequential Provisions) Act 1975 (c. 18)](https://www.legislation.gov.uk/ukpga/1975/18), [Sch. 2 Pt. I para. 68](https://www.legislation.gov.uk/ukpga/1975/18/schedule/2/part/I/paragraph/68)
+
+[^c778114]: Textual amendment: Words repealed by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 33(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/33/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1988/19/schedule/4)
+
+[^c778146]: Textual amendment: Words substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/2), [Sch. 2 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/2/paragraph/2/1/a)
+
+[^c778147]: Textual amendment: Words in s. 12(1) substituted (2.12.1996) by [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50), [s. 70(4)](https://www.legislation.gov.uk/ukpga/1995/50/section/70/4), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/1995/50/schedule/6/paragraph/1) (with [ss. 59](https://www.legislation.gov.uk/ukpga/1995/50/section/59), [64](https://www.legislation.gov.uk/ukpga/1995/50/section/64), [65](https://www.legislation.gov.uk/ukpga/1995/50/section/65)); [S.I. 1996/1474](https://www.legislation.gov.uk/uksi/1996/1474), [art. 2](https://www.legislation.gov.uk/uksi/1996/1474/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/1996/1474/schedule/part/III)
+
+[^c778148]: Textual amendment: Words substituted by [Employment Act 1988 (c. 19, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/2), [Sch. 2 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/2/paragraph/2/1/b) and repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778149]: Textual amendment: Words substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/2), [Sch. 2 para. 2(1)(c)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/2/paragraph/2/1/c)
+
+[^c778150]: Textual amendment: Words repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778151]: Marginal citation: [1944 c. 10](https://www.legislation.gov.uk/ukpga/1944/10).
+
+[^key-7f272ac4600ae19c6f0c9f5c9063649f]: Textual amendment: Words in s. 12(1) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 3 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/2) (see S.I. 2010/2317, art. 2)
+
+[^c778153]: Textual amendment: S. 12(1A) inserted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/2/paragraph/2/2)
+
+[^c778154]: Textual amendment: Words repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^key-cd4d180ff26f9308cfc2e3245cea7800]: Textual amendment: Words in s. 12(1A) substituted (5.5.2010) by [The Local Education Authorities and Childrenâ€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/28/4)
+
+[^c778155]: Textual amendment: S. 12(2) substituted by [Social Security Act 1988 (c. 7, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1988/7), [s. 16](https://www.legislation.gov.uk/ukpga/1988/7/section/16), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1988/7/schedule/4/paragraph/2)
+
+[^key-8bf42d3608a6e0603521c1c8e208b749]: Textual amendment: Words in s. 12(2) substituted (5.5.2010) by [The Local Education Authorities and Childrenâ€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/28/4)
+
+[^c778156]: Textual amendment: Words in s. 12(2) substituted (1. 7. 1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 4](https://www.legislation.gov.uk/ukpga/1992/6/section/4), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/11).
+
+[^c778157]: Textual amendment: S. 12(3) repealed by [S.I. 1981/494](https://www.legislation.gov.uk/uksi/1981/494), [art. 2](https://www.legislation.gov.uk/uksi/1981/494/article/2)
+
+[^c778158]: Modification: S. 12(4): Functions transferred (1.7.1999 subject to s. 56(1) of the Amending Act) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 53(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/53/1) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/1)
+
+[^c778159]: Textual amendment: Words substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/2), [Sch. 2 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/2/paragraph/2/3/a)
+
+[^c778160]: Textual amendment: Words substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/2), [Sch. 2 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/2/paragraph/2/3/b)
+
+[^c778161]: Textual amendment: Words substituted by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/2), [Sch. 2 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1988/19/schedule/2/paragraph/2/3/a)
+
+[^c778162]: Textual amendment: Words repealed by [Employment Act 1988 (c. 19, SIF 43:5)](https://www.legislation.gov.uk/ukpga/1988/19), [s. 33](https://www.legislation.gov.uk/ukpga/1988/19/section/33), [Sch. 4](https://www.legislation.gov.uk/ukpga/1988/19/schedule/4)
+
+[^c778163]: Textual amendment: S. 12(5) repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/XIII)
+
+[^key-8ca88144f6bc33ee8b7d12027c76e627]: Textual amendment: S. 12(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+
+[^c778164]: Textual amendment: Definition repealed by [Employment and Training Act 1981 (c. 57, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1981/57), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/1981/57/section/11/2), [20](https://www.legislation.gov.uk/ukpga/1981/57/section/20), [Sch. 3](https://www.legislation.gov.uk/ukpga/1981/57/schedule/3)
+
+[^c778165]: Textual amendment: Definitions repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^key-6ff5bfa20ac10e5eab5768d82a7cb82c]: Textual amendment: Words in s. 13(1) inserted (5.5.2010) by [The Local Education Authorities and Childrenâ€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 28(5)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/28/5/a)
+
+[^c778166]: Textual amendment: Words repealed by [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Sch. 18](https://www.legislation.gov.uk/ukpga/1975/71/schedule/18)
+
+[^key-79e0054f0ea7df1c4e4af32c77758843]: Textual amendment: Words in s. 13(1) substituted (5.5.2010) by [The Local Education Authorities and Childrenâ€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 28(5)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/28/5/b)
+
+[^c778170]: Marginal citation: [1962 c. 47](https://www.legislation.gov.uk/ukpga/1962/47)
+
+[^c778171]: Textual amendment: S. 13(1A) inserted by [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/1975/71/schedule/14/paragraph/3)
+
+[^c778172]: Marginal citation: [1965 c. 62](https://www.legislation.gov.uk/ukpga/1965/62).
+
+[^c778173]: Textual amendment: S. 13(5) repealed by [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Sch. 18](https://www.legislation.gov.uk/ukpga/1975/71/schedule/18)
+
+[^key-3ef6a7c4e4619f9d4d3ef23211e3f7e9]: Textual amendment: S. 13(6) omitted (18.8.2010) by virtue of [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/1839/schedule/paragraph/2)
+
+[^c778174]: Textual amendment: Words repealed by [Industrial Development Act 1982 (c. 52, SIF 64)](https://www.legislation.gov.uk/ukpga/1982/52), [ss. 19](https://www.legislation.gov.uk/ukpga/1982/52/section/19), [20](https://www.legislation.gov.uk/ukpga/1982/52/section/20), [Sch. 2 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/part/I/paragraph/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/1982/52/schedule/3)
+
+[^c778175]: Modification: Words repealed in relation to Agricultural Training Board by [Agricultural Training Board Act 1982 (c. 9, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1982/9), [s. 11(1)](https://www.legislation.gov.uk/ukpga/1982/9/section/11/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1982/9/schedule/2)
+
+[^key-4304ff0af972bb9de715086ef77c2966]: Textual amendment: S. 15(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+
+[^key-812de5536103497e517327de4dcfe66b]: Textual amendment: Words in s. 15(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+
+[^c778181]: Textual amendment: Sch. 1 repealed (with saving for para. 6) by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [ss. 22(5)](https://www.legislation.gov.uk/ukpga/1989/38/section/22/5), [29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/5/1), [Sch. 7 pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778182]: Textual amendment: Sch. 2 Pts. I, II repealed by [Industrial Training Act 1982 (c. 10, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1982/10), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1982/10/section/20/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1982/10/schedule/4)
+
+[^c778183]: Textual amendment: Sch. 2 Pts. III, IV repealed (in relation to Agricultural Training Board) by [Agricultural Training Board Act 1982 (c. 9, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1982/9), [s. 11(1)](https://www.legislation.gov.uk/ukpga/1982/9/section/11/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1982/9/schedule/2)
+
+[^c778184]: Modification: The text of Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c778185]: Marginal citation: [1935 c. 8](https://www.legislation.gov.uk/ukpga/1935/8).
+
+[^key-c18a1529c58bf416811c09297f3e255d]: Textual amendment: Sch. 3 para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+
+[^c778186]: Marginal citation: [1944 c. 10](https://www.legislation.gov.uk/ukpga/1944/10).
+
+[^key-026d48b8b9b6a0d4606c9a7883a26427]: Textual amendment: Sch. 3 para. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+
+[^c778187]: Marginal citation: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29).
+
+[^c778188]: Textual amendment: Sch. 3 para. 4 repealed by [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24), [Sch. 3](https://www.legislation.gov.uk/ukpga/1975/24/schedule/3)
+
+[^c778189]: Textual amendment: Sch. 3 paras. 5, 13 repealed by [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Sch. 18](https://www.legislation.gov.uk/ukpga/1975/71/schedule/18)
+
+[^c778190]: Marginal citation: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34).
+
+[^c778191]: Textual amendment: Sch. 3 para. 6 repealed (*prosp.*) by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [ss. 27(2)(3)](https://www.legislation.gov.uk/ukpga/1989/38/section/27/2/3), [29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/III)
+
+[^c778192]: Modification: Sch. 3 para. 7: power to continue conferred (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 5 Sch. 3 Pt. II](https://www.legislation.gov.uk/ukpga/1992/6/section/5/schedule/3/part/II)para. 15
+
+[^c778193]: Textual amendment: Sch. 3 para. 7 repealed by [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [Sch. 28 Pt. I](https://www.legislation.gov.uk/ukpga/1973/38/schedule/28/part/I)
+
+[^c778194]: Marginal citation: [1965 c. 52](https://www.legislation.gov.uk/ukpga/1965/52).
+
+[^key-f9aadb8a179a2c0f54f9c5832a275017]: Textual amendment: Sch. 3 para. 8 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+
+[^c778195]: Textual amendment: Sch. 3 para. 9 repealed by [Parliamentary and Health Service Commissioners Act 1987 (c. 39, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/39), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1987/39/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1987/39/schedule/2) and also expressed to be repealed by [Employment Act 1989 (c.38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
+
+[^c778196]: Textual amendment: Sch. 3 para. 10 repealed by [Race Relations Act 1976 (c. 74)](https://www.legislation.gov.uk/ukpga/1976/74), [Sch. 5](https://www.legislation.gov.uk/ukpga/1976/74/schedule/5)
+
+[^c778197]: Marginal citation: 1970 c 44.
+
+[^key-76396ff207954319e8941c5245896f1d]: Textual amendment: Sch. 3 para. 11(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+
+[^c778198]: Textual amendment: Sch. 3 paras. 12, 15 repealed by [Industrial Development Act 1982 (c. 52, SIF 64)](https://www.legislation.gov.uk/ukpga/1982/52), [s. 19](https://www.legislation.gov.uk/ukpga/1982/52/section/19), [Sch. 2 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/part/I/paragraph/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/1982/52/schedule/3)
+
+[^c778199]: Textual amendment: Sch. 3 paras. 5, 13 repealed by [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Sch. 18](https://www.legislation.gov.uk/ukpga/1975/71/schedule/18)
+
+[^c778200]: Textual amendment: Sch. 3 para. 14 repealed by Health and Safety at [Work etc. Act 1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37), [Sch. 10](https://www.legislation.gov.uk/ukpga/1974/37/schedule/10)
+
+[^c778201]: Textual amendment: Sch. 3 paras. 12, 15 repealed by [Industrial Development Act 1982 (c. 52, SIF 64)](https://www.legislation.gov.uk/ukpga/1982/52), [s. 19](https://www.legislation.gov.uk/ukpga/1982/52/section/19), [Sch. 2 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/part/I/paragraph/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/1982/52/schedule/3)
+
+[^c778202]: Modification: The text of Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991

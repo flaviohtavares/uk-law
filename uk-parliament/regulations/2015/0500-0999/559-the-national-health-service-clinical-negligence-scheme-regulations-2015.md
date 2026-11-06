@@ -1,0 +1,759 @@
+---
+title: The National Health Service (Clinical Negligence Scheme) Regulations 2015
+id: uksi/2015/559
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2015-03-04'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/559
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/559/pdfs/uksiem_20150559_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/559/pdfs/uksi_20150559_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/559/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Clinical Negligence Scheme) Regulations 2015
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2023-11-06. See https://www.legislation.gov.uk/changes/affected/uksi/2015/559
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 559
+
+National Health Service, England
+
+The National Health Service (Clinical Negligence Scheme) Regulations 2015
+
+Made
+
+4th March 2015
+
+Laid before Parliament
+
+11th March 2015
+
+Coming into force
+
+1st April 2015
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 71 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
+
+In accordance with section 71(1) of that Act, these Regulations are made with the consent of the Treasury.
+
+## General
+
+### 1. Citation, commencement and application[^key-e3089c2f72111cb168a889250e453269]
+
+(1) These Regulations may be cited as the National Health Service (Clinical Negligence Scheme) Regulations 2015.
+
+(2) These Regulations come into force on 1st April 2015.
+
+(3) These Regulations apply to England only.
+
+### 2. Interpretation[^key-a0d7b5015f4370ba27f9e84075f70ca2]
+
+(1) In these Regulations—
+
+- “the 1996 Regulations” means the National Health Service (Clinical Negligence Scheme) Regulations 1996[^f00002];
+- “the 2006 Act” means the National Health Service Act 2006;
+- “the 2012 Act” means the Health and Social Care Act 2012[^f00003];
+- “the appointed day” means the date on which these Regulations come into force;
+- [^key-6ccd0b82020cb5ebe6db3285166a1ae1]...
+- “eligible body” means a body specified in sub-paragraphs (a) to (l) of regulation 4(1);
+- “insolvency” has the meaning given in section 247(1) of the Insolvency Act 1986 (meaning of “insolvency” and “go into liquidation”)[^f00004];
+- “[^key-13b1a86e4ab60f8d059d41bddc439265]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the 2006 Act;
+- “membership year”, in respect of any eligible body, means any 12 month period starting on 1st April during which the body is a member of the Scheme;
+- “relevant function” means—
+  - (a) arranging for the provision of services for the purposes of the health service[^f00005];
+  - (b) providing services for the purposes of the health service;
+  - (c) exercising functions in relation to the health service;
+  - (d) exercising powers under, or by virtue of, section 7 of the Health and Medicines Act 1988[^f00006];
+  - (e) exercising powers under section 13W, 14Z5, 43(3) or 44 of, or paragraphs 19 and 20 of Schedule 4 to, the 2006 Act[^f00007];
+  - (f) exercising powers under section 243 or 270 of the 2012 Act; or
+  - (g) exercising powers by virtue of section 240(1)(a) or (b) of the 2012 Act;
+- “relevant health services”—
+  - (a) means health services provided in England for the purposes of the health service, but
+  - (b) does not include primary care services;
+- “the Scheme” means the scheme known as the Clinical Negligence Scheme for Trusts[^f00008].
+
+(2) In the definition of “relevant health services” in paragraph (1), the reference to “primary care services” is to health services provided under a contract, arrangement or agreement made under or by virtue of any of the following provisions of the 2006 Act—
+
+- (a) section 83(2) (primary medical services)[^f00009];
+- (b) section 84(1) (general medical services contracts)[^f00010];
+- (c) section 92 (arrangements by NHS England[^key-0345be39e72c1f938512338f77ba308f] for the provision primary medical services)[^f00011];
+- (d) section 100(1) (general dental services contracts)[^f00012];
+- (e) section 107(1) (arrangements by NHS England for the provision of primary dental services)[^f00013];
+- (f) section 115(4) (primary ophthalmic services)[^f00014];
+- (g) section 117(1) (general ophthalmic services contracts)[^f00015];
+- (h) section 126(1) (arrangements for pharmaceutical services)[^f00016];
+- (i) section 127(1) (arrangements for additional pharmaceutical services)[^f00017];
+- (j) section 134 (pilot schemes)[^f00018];
+- (k) Schedule 12 (local pharmaceutical services schemes)[^f00019].
+
+## The Scheme
+
+### 3. Clinical Negligence Scheme for Trusts[^key-b22b4a2960b5cf5e00d4691f381f3c90]
+
+(1) The Scheme is to continue to have effect as if it had been established under these Regulations[^f00020].
+
+(2) The purpose of the Scheme is to enable eligible bodies to make provision to meet liabilities to which the Scheme applies.
+
+(3) An eligible body may participate in the Scheme only if it is a member of the Scheme.
+
+(4) The Secretary of State will continue to administer the Scheme.
+
+### 4. Eligible bodies[^key-e1f1b5aaef34c9a79e8b053ffaa38d9b]
+
+(1) The bodies which are eligible to be members of the Scheme are—
+
+- (a) NHS England;
+- (b) an integrated care board[^key-7581d8a1ce76ffcaa657ed62a3819b07];
+- (c) a Special Health Authority;
+- (d) the Care Quality Commission;
+- (e)[^key-fe653db0e303f38e34c51c3c4c22305c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) the Health Research Authority;
+- (g)[^key-87aac8fd69cc9e0d075eb1b833f245dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) NICE;
+- (i) an NHS trust;
+- (j) an NHS foundation trust;
+- (k) a local authority which provides, or arranges the provision of, relevant health services under an arrangement made between the local authority and either—
+  - (i) the Secretary of State; or
+  - (ii) a body specified in sub-paragraph (a) to (c), (i) or (j);
+- (l) any body (“B”) not specified in sub-paragraphs (a) to (k) which provides relevant health services in the circumstances specified in paragraph (2), (3) or (4).
+
+(2) The circumstances specified in this paragraph are where the relevant health services are provided under an arrangement made between B and NHS England, an integrated care board or a Special Health Authority.
+
+(3) The circumstances specified in this paragraph are where the relevant health services—
+
+- (a) are provided under an arrangement made between B and another body which is not a member of the Scheme; and
+- (b) are also the subject of an arrangement made between that other body and NHS England, an integrated care board or a Special Health Authority.
+
+(4) The circumstances specified in this paragraph are where the relevant health services—
+
+- (a) are provided under an arrangement made between B and another body which is not a member of the Scheme; and
+- (b) are also the subject of—
+  - (i) an arrangement made between that other body and a further body which is not a member of the Scheme;
+  - (ii) any further arrangement or arrangements which may have been entered into between bodies which are not members of the Scheme; and
+  - (iii) an arrangement made between NHS England, an integrated care board or a Special Health Authority and a body falling within paragraph (i) or (ii).
+
+### 5. Membership of the Scheme[^key-b55d9de9aeff72dbe28c283fa3a96d68]
+
+(1) Any eligible body which is a member of the Scheme immediately before the appointed day is to continue to be a member of the Scheme (subject to any cancellation of the membership under regulation 6 (cancellation by a member) or 7 (cancellation by the Secretary of State)[^f00021]).
+
+(1A)[^key-d9922b8124ecba48544f627ecda674e5] Every integrated care board is a member of the Scheme from the beginning of 1st July 2022 (subject to any cancellation of the membership under regulation 6 (cancellation by a member) or 7 (cancellation by the Secretary of State)).
+
+(2) Any eligible body which is not a member of the Scheme may apply to the Secretary of State to become a member of the Scheme.
+
+(3) An application under paragraph (2) must—
+
+- (a) be in writing;
+- (b) be made in such form and submitted in such manner as the Secretary of State may require;
+- (c) specify a date on which the eligible body proposes that its membership should start; and
+- (d) contain, or be accompanied by, such information as the Secretary of State may require.
+
+(4) At any time after receiving an application and before determining it, the Secretary of State may in writing require the applicant to provide such further information as the Secretary of State considers necessary for the purposes of determining the application.
+
+(5) Information that may be required under paragraphs (3) and (4) includes—
+
+- (a) the nature of the applicant’s relevant functions;
+- (b) the number of employees of the applicant who are engaged in the performance by the applicant of any relevant function, or any part of such function, which is specified by the Secretary of State;
+- (c) the qualifications and experience of such employees;
+- (d) the details of any claim made against the applicant in respect of personal injuries sustained by third parties as a result of the exercise by the applicant of any relevant function; and
+- (e) such other information as the Secretary of State may request for the purposes of determining the application.
+
+(6) The Secretary of State must—
+
+- (a) within 6 weeks of receiving an application made in accordance with requirements under paragraphs (3) and (4), determine whether or not to grant it; and
+- (b) as soon as reasonably practicable, inform the applicant of the determination by a notice in writing which, if the application is granted, must specify the date on which the applicant’s membership is to start.
+
+(7) In determining whether to grant an application, the Secretary of State must have regard to—
+
+- (a) the information provided by the applicant; and
+- (b) such other factors as the Secretary of State considers relevant.
+
+(8) Where an eligible body’s application is granted, the body’s membership of the Scheme starts on the date specified in the notice under paragraph (6)(b).
+
+### 6. Cancellation of membership by a member[^key-c808edcc8535493846bfeb07909a7fb5]
+
+(1) This regulation applies only in relation to any member which has been a member of the Scheme for at least 3 consecutive membership years.
+
+(2) The member may cancel its membership of the Scheme by giving the Secretary of State notice in writing of the cancellation.
+
+(3) Where a notice under paragraph (2)—
+
+- (a) is given before 1st September in a membership year, the notice takes effect at the end of that membership year;
+- (b) is given on or after 1st September in a membership year, the notice takes effect at the end of the following membership year.
+
+### 7. Cancellation of membership by the Secretary of State[^key-f6260b1faf7f04f649a0ecca101fdb03]
+
+(1) The Secretary of State may cancel a member’s membership of the Scheme in any of the circumstances specified in paragraphs (2) to (5).
+
+(2) The circumstances specified in this paragraph are where the member is liable to make a payment to the Secretary of State under regulation 12 (duty of members to make contributions to the Scheme) and that payment remains unpaid for a period of 28 days or more which starts with the date on which the payment becomes due.
+
+(3) The circumstances specified in this paragraph are where the member has failed to provide any information required under regulation 20 (duty of members to provide information)—
+
+- (a) before the end of the period of 28 days which starts with the date on which the Secretary of State requests the information; or
+- (b) if the Secretary of State in writing allows a further period for providing such information, before the end of that further period.
+
+(4) The circumstances specified in this paragraph are where the Secretary of State considers that it would be detrimental to the efficient administration of the Scheme or the interests of other members for the member to remain a member of the Scheme.
+
+(5) The circumstances specified in this paragraph are where a member providing relevant health services in circumstances specified in regulation 4(2), (3) or (4) (arrangements by means of which a body may be eligible to be a member of the Scheme) either—
+
+- (a) enters into insolvency; or
+- (b) ceases to be an eligible body.
+
+(6) The Secretary of State must inform the member by notice in writing that its membership of the Scheme is to cease with effect from a date specified in the notice and—
+
+- (a) where the cancellation is in circumstances specified in paragraph (2), (3) or (4)—
+  - (i) the date to be specified must not be less than 28 days after the date on which the notice is given; but
+  - (ii) the Secretary of State may determine not to cancel the membership by giving the member a further notice in writing to that effect;
+- (b) where the cancellation is in circumstances specified in paragraph (5), the date to be specified is the date on which the notice is given.
+
+## Liabilities to which the Scheme applies
+
+### 8. Liabilities of members[^key-43d223657ee07a4d9e0b8c6f43e23387]
+
+(1) Subject to paragraph (4), the Scheme applies to any liability in tort under the law of England and Wales which a member of the Scheme owes to a third party in respect of or consequent upon personal injury or loss as specified in paragraph (2).
+
+(2) The personal injury or loss referred to in paragraph (1) is personal injury or loss arising out of or in connection with any breach of a duty of care which—
+
+- (a) the member owes to any person in connection with the diagnosis of any illness or the care or treatment of any patient; and
+- (b) is in consequence of any act or omission specified in paragraph (3).
+
+(3) The act or omission referred to in paragraph (2) is an act or omission to act on the part of—
+
+- (a) a person employed or engaged by the member in connection with any relevant function of the member; or
+- (b) an employee or agent of a person engaged by the member in connection with any such function.
+
+(4) Where the member is a body falling within regulation 4(1)(l) (bodies providing relevant health services under certain arrangements to be eligible for membership), the Scheme only applies if the liability is in consequence of the arrangements described in regulation 4(2), (3) or (4) by means of which the body is eligible to be a member.
+
+### 9. Liabilities of insolvent former members for which members are treated as liable[^key-aaf99bb7899247b0248b18ea2734ff05]
+
+(1) In this regulation, references to “an insolvent former member” are to a body falling within regulation 4(1)(l) which—
+
+- (a) provided relevant health services under an arrangement described in regulation 4(2) (arrangement with NHS England , an integrated care board or a special health authority) by means of which the body was eligible to be a member; and
+- (b) ceased to be a member of the Scheme in circumstances specified in regulation 7(5)(a) (cancellation of membership by the Secretary of State on grounds of insolvency).
+
+(2) The Scheme applies to the qualifying liabilities of an insolvent former member.
+
+(3) Qualifying liabilities to which the Scheme applies under paragraph (2) are to be treated for the purposes of the Scheme and these Regulations as if they were liabilities of NHS England, the integrated care board or the Special Health Authority which entered into the arrangement referred to in paragraph (1)(a).
+
+(4) Qualifying liabilities of an insolvent former member are any liability in tort under the law of England and Wales which—
+
+- (a) the former member owes to a third party in respect of or consequent upon personal injury or loss as specified in paragraph (5);
+- (b) was incurred before the date on which the former member’s membership of the Scheme ceased but falls to be met after that date; and
+- (c) is in consequence of the arrangement referred to in paragraph (1)(a).
+
+(5) The personal injury or loss referred to in paragraph (4)(a) is personal injury or loss arising out of or in connection with any breach of a duty of care which—
+
+- (a) the insolvent former member owes to any person in connection with the diagnosis of any illness or the care or treatment of any patient; and
+- (b) is in consequence of any act or omission specified in paragraph (6).
+
+(6) The act or omission referred to in paragraph (5)(b) is an act or omission to act in connection with the provision of relevant health services on the part of—
+
+- (a) the insolvent former member;
+- (b) a person employed or engaged by the insolvent former member; or
+- (c) an employee or agent of a person engaged by the insolvent former member.
+
+### 10. Other liabilities for which members are treated as liable[^key-a7508c33dbac53b9cf7bb5c3d86af373]
+
+(1) In this regulation, “health services provider” means an NHS trust, NHS foundation trust, local authority or other body which provides relevant health services.
+
+(2) The Scheme applies to the qualifying liabilities of a health services provider (“the sub-contractor”) where its provision of relevant health services is the subject of—
+
+- (a) an arrangement made between it and another health services provider; and
+- (b) an arrangement made between—
+  - (i) NHS England, an integrated care board or a Special Health Authority; and
+  - (ii) a health services provider which is a member of the Scheme.
+
+(3) In determining whether paragraph (2) applies in any case, it does not matter whether the provision of relevant health services by the sub-contractor is the subject only of the arrangements referred to in paragraph (2)(a) and (b) or is also the subject of further arrangements made between health services providers.
+
+(4) Qualifying liabilities to which the Scheme applies under paragraph (2) are to be treated for the purposes of the Scheme and these Regulations as if they were liabilities of the health services provider which entered into the arrangement referred to in paragraph (2)(b).
+
+(5) Qualifying liabilities of a sub-contractor are any liability in tort under the law of England and Wales which—
+
+- (a) the sub-contractor owes to a third party in respect of or consequent upon personal injury or loss as specified in paragraph (6); and
+- (b) is in consequence of the arrangement referred to in paragraph (2)(a).
+
+(6) The personal injury or loss referred to in paragraph (5)(a) is personal injury or loss arising out of or in connection with any breach of a duty of care which—
+
+- (a) the sub-contractor owes to any person in connection with the diagnosis of any illness or the care or treatment of any patient; and
+- (b) is in consequence of any act or omission specified in paragraph (7).
+
+(7) The act or omission referred to in paragraph (6)(b) is an act or omission to act in connection with the provision of relevant health services on the part of—
+
+- (a) the sub-contractor;
+- (b) a person employed or engaged by the sub-contractor; or
+- (c) an employee or agent of a person engaged by the sub-contractor.
+
+## Payments into the Scheme
+
+### 11. Determination of amounts payable by members[^key-7b253f0c7c97510ea1f78e02c4822eb7]
+
+(1) The Secretary of State must determine the amount which each member of the Scheme must pay to the Secretary of State in respect of each membership year.
+
+(2) In determining that amount in respect of any member (“M”), the Secretary of State may have regard to—
+
+- (a) the Secretary of State’s estimate of the total amount which, under regulations 14 to 18 (payments out of the Scheme), is likely to be payable during that membership year in respect of all liabilities to which the Scheme applies;
+- (b) the nature of M’s relevant functions;
+- (c) the number of M’s employees who are engaged in M’s performance of each relevant function or any part of a relevant function;
+- (d) the qualifications and experience of those employees;
+- (e) any agreement in respect of M which falls within regulation 14(3)(c) (agreement that Scheme to cover future claim in respect of liability incurred before membership starts);
+- (f) any agreement in respect of M which falls within regulation 14(5)(c) (agreement that Scheme to cover existing claim not met before membership ceases);
+- (g) any agreement in respect of M which falls within regulation 15(2)(a) (agreement on payment of additional contribution that Scheme to cover claim in respect of liability incurred before membership ceases);
+- (h) the Secretary of State’s assessment of—
+  - (i) the likely effectiveness of any steps being taken, or to be taken, by M as to the manner in which M exercises any relevant function for the purpose of reducing the incidence of liabilities in connection with that function to which the Scheme applies; and
+  - (ii) the effectiveness of any steps which have already been taken for that purpose; and
+- (i) any other factor relating to M or any other member of the Scheme which the Secretary of State considers relevant to the determination under paragraph (1).
+
+(3) In respect of each membership year, the Secretary of State must give each member notice in writing which specifies the amount determined in respect of the member under paragraph (1).
+
+(4) Except as stated in paragraph (5) or (6), the notice must be given no later than 31st December in the membership year before that to which the notice relates.
+
+(5) In the case of any member admitted to the Scheme on or after the appointed day—
+
+- (a) the notice in respect of the first membership year must be given no later than 6 months after the date on which the Secretary of State receives the member’s application under regulation 5 (membership of the Scheme); and
+- (b) the notice in respect of the second membership year must be given no later than 1st July in that membership year.
+
+(6) In the case of any member admitted to the Scheme less than two years before the appointed day—
+
+- (a) the notice in respect of the first membership year must be given no later than 6 months after the date on which the Secretary of State received the member’s application under the 1996 Regulations; and
+- (b) the notice in respect of the second membership year must be given no later than 1st July in that membership year.
+
+(7) For the purposes of paragraphs (5) and (6), references to “the first membership year” of a body which is a member of the Scheme is to the whole or part of any membership year immediately following any period during which the body was not a member.
+
+### 12. Duty of members to make contributions to the Scheme[^key-6ac8804b276616c1e6c1231f901cdee1]
+
+(1) Each member of the Scheme must, in respect of each membership year, pay to the Secretary of State the amount determined in respect of the member under regulation 11(1) (determination of amounts payable by members).
+
+(2) Except as stated in paragraph (3) or (4), a member which receives a notice under regulation 11(3) of the amount payable in respect of a membership year must pay the amount due—
+
+- (a) in accordance with such arrangements as may be agreed between the Secretary of State and the member (which may include payment in instalments to be made at agreed times); and
+- (b) if no agreement is reached by 1st March immediately before the start of the membership year, by such time and in such manner as the Secretary of State may determine.
+
+(3) Where a member admitted to the Scheme on or after the appointed day receives a notice under regulation 11(3) in respect of a membership year, the member must pay—
+
+- (a) the amount due in respect of the first membership year no later than 8 months after the date on which the Secretary of State receives the member’s application under regulation 5 (membership of the Scheme); and
+- (b) the amount due in respect of the second membership year no later than 1st August in that membership year.
+
+(4) In the case of any member admitted to the Scheme less than two years before the appointed day, the member must pay—
+
+- (a) the amount due in respect of the first membership year no later than 8 months after the date on which the Secretary of State received the member’s application under the 1996 Regulations; and
+- (b) the amount due in respect of the second membership year no later than 1st August in that membership year.
+
+(5) For the purposes of paragraphs (3) and (4), references to “the first membership year” of a body which is a member of the Scheme are to be construed in accordance with regulation 11(7).
+
+### 13. Revision of determination of payable amount[^key-c365a2dbe65b375db6c8491fab3190c7]
+
+(1) Paragraph (2) applies where the Secretary of State identifies before the end of a membership year that the amount determined by the Secretary of State under regulation 11(1) as being payable by the member in respect of that year—
+
+- (a) is incorrectly calculated;
+- (b) is determined by reference to information which was incorrect; or
+- (c) ought to be reconsidered in light of further information that has become available to the Secretary of State.
+
+(2) The Secretary of State—
+
+- (a) must reconsider the amount determined; and
+- (b) at any time before the end of the membership year in question, may revise the amount payable by the member in respect of that year.
+
+(3) The Secretary of State must give the member notice in writing of any revised amount determined under paragraph (2)(b) and the member must pay any amount that remains due in respect of the membership year—
+
+- (a) in accordance with such arrangements as may be agreed between the Secretary of State and the member (which may include payment in instalments to be made at agreed times); and
+- (b) if no agreement is reached by the end of the membership year, by such time and in such manner as the Secretary of State may determine.
+
+(4) The reference in paragraph (1) to an amount determined by the Secretary of State under regulation 11(1) includes any revised amount determined under paragraph (2)(b).
+
+## Payments out of the Scheme
+
+### 14. Payments out of the Scheme: liabilities of members[^key-4b13bd84450d9c1c34c1c14e81773192]
+
+(1) Where a payment falls to be made by a member of the Scheme in connection with a claim in respect of a liability to which the Scheme applies, the Secretary of State may pay to the member or on the member’s behalf an amount determined by the Secretary of State under regulation 18.
+
+(2) No payment may be made under paragraph (1)—
+
+- (a) in respect of any liability of the member which is excluded from the Scheme by any of paragraphs (3) to (5); or
+- (b) in respect of any liability of, or payment by, the member which is excluded from the Scheme by regulation 16 (exclusions from the Scheme).
+
+(3) Any liability which was incurred by an eligible body before it became a member of the Scheme is excluded from the Scheme unless—
+
+- (a) the claim by a third party against the eligible body in respect of the liability was made after the start of its membership of the Scheme;
+- (b) the Secretary of State is satisfied that the eligible body informed the Secretary of State before the end of the qualifying period that the claim had been made;
+- (c) the Secretary of State agreed before the start of the eligible body’s membership that any liability of the body that results from a claim to which sub-paragraphs (a) and (b) apply should not be excluded from the Scheme; and
+- (d) that agreement remains in force at the date on which the claim against the eligible body falls to be met.
+
+(4) Any liability of a member which falls to be met after the member gives notice of cancellation under regulation 6(2) (cancellation of membership by a member) but before membership has ceased is excluded from the Scheme unless the Secretary of State is satisfied that the liability would have fallen to be met at that time irrespective of the member’s decision to give such a notice.
+
+(5) Any liability of a body (“B”) which falls to be met after its membership of the Scheme has ceased is excluded from the Scheme unless—
+
+- (a) the claim by a third party against B in respect of the liability was made before B’s membership ceased;
+- (b) the Secretary of State is satisfied that B informed the Secretary of State before the end of the qualifying period that the claim had been made;
+- (c) the Secretary of State agreed before B’s membership ceased that any liability of B that results from a claim to which sub-paragraphs (a) and (b) apply should not be excluded from the Scheme; and
+- (d) that agreement remained in force on the date on which B’s membership ceased.
+
+(6) In paragraph (3)(b) and (5)(b), the “qualifying period” is the period of 14 days starting with the date on which the member became aware that a claim had been made or, if earlier, the date on which the Secretary of State considers that the member ought to have become aware that a claim had been made.
+
+### 15. Payments out of the Scheme: liabilities of former members[^key-8c909e0ea619938eaf7a6c9616398e66]
+
+(1) Where—
+
+- (a) a payment falls to be made by a body (“B”) which has at any time been a member of the Scheme in connection with a claim in respect of a liability to which the Scheme applies; and
+- (b) the claim relates to a breach of the duty of care by B whilst it was a member of Scheme,
+
+the Secretary of State may, if the conditions specified in paragraph (2) are met, pay to B or on B’s behalf an amount determined by the Secretary of State under regulation 18.
+
+(2) The conditions are that—
+
+- (a) before B’s membership of the Scheme ceases, the Secretary of State agrees with B that, in respect of the membership year immediately preceding the cessation of B’s membership, the amount to be paid by B under regulation 12 (duty of members to make contributions to the Scheme) is also to include an additional amount determined for the purposes of this regulation;
+- (b) that amount is determined by the Secretary of State as being sufficient to meet any liabilities of B falling within paragraph (1) which were incurred whilst B is a member but fall to be met after the date on which B’s membership ceases; and
+- (c) before that date, B either pays the additional amount in full or enters into an agreement with the Secretary of State to pay it in instalments.
+
+(3) No payment may be made under paragraph (1) in respect of any liability of, or payment by, B which is excluded from the Scheme by regulation 16 (exclusions from the Scheme).
+
+### 16. Exclusions[^key-05fc40b415b27ccf0b42d3d0558f9c03]
+
+(1) Except to such extent as the Secretary of State may determine, the following are excluded from the Scheme—
+
+- (a) any liability admitted by a member without first obtaining the Secretary of State’s written consent;
+- (b) any liability determined by a Court in proceedings which are conducted by a member otherwise than in consultation with the Secretary of State;
+- (c) any payment falling to be made by a member where the member has not complied with any condition imposed by the Secretary of State relating to a claim;
+- (d) any payment falling to be made by a member where, without first obtaining the Secretary of State’s written consent, the member agrees—
+  - (i) to be bound by the determination of any person or body as to the making of a payment by that member in respect of a liability; or
+  - (ii) to make any other payment in respect of the liability otherwise than in the course of legal proceedings or in consequence of a settlement of legal proceedings agreed to by the member;
+- (e) any liability that is of an amount less than the amount which is for the time being agreed between a member and the Secretary of State as being the minimum amount of any liability in respect of which a payment is to be made under the Scheme.
+
+(2) In paragraph (1), references to “member” include a former member of the Scheme—
+
+- (a) in respect of which the requirements of regulation 14(5)(c) and (d) are met (agreement that Scheme to cover existing claim not met before membership ceases); or
+- (b) to which regulation 15 applies (liabilities of former members).
+
+### 17. Payments out of the Scheme: liabilities for which members are treated as liable[^key-76b896d628c44f53c2f7f701262da195]
+
+(1) Paragraph (2) applies to any payment in connection with—
+
+- (a) a claim in respect of a qualifying liability falling within regulation 9 (liabilities of insolvent former members for which members treated as liable); or
+- (b) a claim in respect of a qualifying liability falling within regulation 10 (other liabilities for which members treated as liable),
+
+where the payment falls to be made by a member of the Scheme which under regulation 9(3) or 10(4) is treated as being liable in respect of the claim.
+
+(2) Regulations 14 to 16 (circumstances in which payments are to be made out of the Scheme in respect of liabilities of members and former members) are to apply to enable payments to be made to or on behalf of any member of the Scheme in respect of qualifying liabilities as those regulations apply in respect of the member’s own liabilities.
+
+(3) In the application of regulation 14, 15 or 16 for the purposes of paragraph (2), references to anything being done by, to or against a member in respect of a liability to which the Scheme applies includes references to it being done in respect of a qualifying liability for which the member is treated as being liable.
+
+### 18. Determining the amount of any payment to be made out of the Scheme[^key-2264dd2b09683a3b15c372011f9586c3]
+
+(1) In respect of each liability to which the Scheme applies, the Secretary of State must determine the amount of any payment which is to be made under regulation 14(1) or 15(1) (payments out of the Scheme in respect of liabilities of members and former members).
+
+(2) In determining the amount of the payment to be made in circumstances specified in each of paragraphs (3) to (8), the Secretary of State must have regard to the relevant matters specified in that paragraph.
+
+(3) Where an award of damages has been made by a Court against the member, the relevant matters are the amount of—
+
+- (a) the award;
+- (b) the legal and associated costs awarded to the claimant; and
+- (c) any legal and associated costs incurred by or on behalf of the member.
+
+(4) Where legal proceedings are the subject of a settlement agreed to by the member, the relevant matters are the amount of—
+
+- (a) any sum paid or payable by the member in relation to the claimant’s claim for damages;
+- (b) the member’s contribution towards any legal and associated costs incurred by the claimant; and
+- (c) any legal and associated costs incurred by or on behalf of the member.
+
+(5) Where, in any legal proceedings, a Court has declined to award damages against the member, the relevant matters are—
+
+- (a) the amount of any legal and associated costs incurred by or on behalf of the member; and
+- (b) the extent to which those costs are not recoverable either from the claimant or from the Legal Aid Agency under regulations made by virtue of section 26(5) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00022] (costs in civil proceedings).
+
+(6) Where a member has, otherwise than in the course of legal proceedings, agreed to make a payment in settlement of a claim, the relevant matters are the amount of—
+
+- (a) the payment agreed; and
+- (b) any legal or associated costs incurred by or on behalf of the member in connection with the claim.
+
+(7) Where, otherwise than in the course of legal proceedings, a member has agreed to make any contribution towards legal or associated costs incurred by a person in connection with that person’s claim against the member in respect of a liability to which the Scheme applies, the relevant matters are the amount of—
+
+- (a) that contribution; and
+- (b) any legal or associated costs incurred by or on behalf of the member in connection with the claim.
+
+(8) Where a member has agreed to be bound by the determination of any person or body as to the making of a payment by that member in respect of a liability to which the Scheme applies, the relevant matters are the amount of—
+
+- (a) the payment;
+- (b) any legal or associated costs incurred by the claimant in connection with the claim; and
+- (c) any legal or associated costs incurred by or on behalf of the member in connection with the claim.
+
+(9) In this regulation, references to “member” are to be construed in accordance with regulation 16(2).
+
+### 19. Power to make payments on account[^key-bd0f894710c3ce4fcc2d521b82850dfa]
+
+(1) Where, in any membership year, a payment falls to be made by a member in connection with a claim in respect of which an amount may become payable by the Secretary of State under regulation 18 (determining the amount of any payment to be made out of the Scheme), the Secretary of State may make a payment on account of any amount which may become payable.
+
+(2) A payment on account may be made to or on behalf of the member.
+
+(3) Where the amount of any payment on account exceeds the amount subsequently determined under regulation 18 as being the amount of payment to be made in connection with the claim, the excess is recoverable from the member.
+
+## Miscellaneous
+
+### 20. Duty of members to provide information[^key-902a6eb5d0f710efd943db48de47c172]
+
+(1) In this regulation “specified” means specified by the Secretary of State in a notice under paragraph (2).
+
+(2) The Secretary of State may by notice in writing require a member to provide the Secretary of State with specified information.
+
+(3) Specified information includes—
+
+- (a) the nature of any relevant function carried on, or to be carried on, by the member in a specified membership year;
+- (b) the number of the member’s employees who are engaged in the member’s performance of a specified relevant function or in a specified part of any such function;
+- (c) the qualifications and experience of those employees; and
+- (d) any event of which the member is aware which it considers might give rise to a liability to which the Scheme applies.
+
+(4) The member must comply with a notice under paragraph (2) and must—
+
+- (a) provide the information within 28 days of receiving the notice or within such further period as the Secretary of State may in writing allow;
+- (b) provide the information in any specified form; and
+- (c) submit the information in any specified manner.
+
+### 21. Directions and guidance[^key-f9f225d9aa840ddef1baef8e4738b3eb]
+
+(1) The Secretary of State must make the following information available to eligible bodies in such form and at such times as the Secretary of State considers appropriate[^f00023]—
+
+- (a) any directions which the Secretary of State gives to a relevant body with respect to the exercise by that body of its functions in connection with administering the Scheme; and
+- (b) any guidance which the Secretary of State gives to a relevant body as to the manner in which the Scheme is to be administered.
+
+(2) “Relevant body” means a body directed by the Secretary of State under section 71(6) of the 2006 Act to carry out functions in connection with the administration of the Scheme.
+
+### 22. Revocations and savings[^key-4ff93cc3e6af0db0d95ff444bd79dce4]
+
+(1) Subject to paragraphs (2) to (4), the instruments specified in the first column of the Table set out in the Schedule are, in relation to England only, revoked to the extent stated in the third column of that Table.
+
+(2) Paragraphs (3) and (4) apply where any payment falls to be made on or after the appointed day by a member of the Scheme in connection with a claim in respect of a liability and the circumstances to which the claim relates arose, or first arose, before the appointed day.
+
+(3) Where the claim is made before the appointed day—
+
+- (a) any determination as to whether the Scheme applies to the liability; and
+- (b) any determination as to whether to make a payment in respect of the liability (and the amount of any such payment),
+
+is to be made in accordance with the relevant provisions of the 1996 Regulations as if those Regulations remained in force.
+
+(4) Where the claim is made on or after the appointed day—
+
+- (a) any determination as to whether the Scheme applies to the liability is to be made in accordance with the relevant provisions of the 1996 Regulations as if those Regulations remained in force; and
+- (b) any determination as to whether to make a payment in respect of the liability (and the amount of any such payment) is to be made in accordance with regulations 14 to 19 of these Regulations.
+
+### 23. Transitional provision[^key-b1608b02354a422001f6bdf4e09202a9]
+
+(1) Any application for membership of the Scheme which—
+
+- (a) has been made under regulation 6 of the 1996 Regulations (membership of the Scheme) before the appointed day; and
+- (b) has not been determined before the appointed day,
+
+is to be dealt with as if the application had been made under regulation 5 of these Regulations (membership of the Scheme).
+
+(2) Any amount payable by a member of the Scheme under regulation 8 of the 1996 Regulations (members’ contributions to the Scheme) which has not been paid before the appointed day is to be treated as payable under regulation 12 (duty of members to make contributions to the Scheme).
+
+(3) Where a period of time specified in the 1996 Regulations is current on the appointed day, and a period of time is also specified in a corresponding provision of these Regulations, these Regulations have effect as if the corresponding provision of these Regulations had been in force when the period began to run.
+
+(4) Except as stated in regulation 11(6), 12(4) or 22(2) to (4)—
+
+- (a) any thing done, if effective immediately before the appointed day, has effect after the appointed day as if done under or for the purposes of the corresponding provision of these Regulations; and
+- (b) any matter that is ongoing under or for the purposes of the 1996 Regulations immediately before the appointed day is to be treated as ongoing under these Regulations.
+
+### 24. Provision that is consequential on the Health and Care Act 2022: liabilities transferred to integrated care boards and NHS England[^key-b01ebe0663c3034256dd347ffff0781a]
+
+(1) A claim for a liability of a CCG that was made and not determined or paid before 1st July 2022 continues as a claim of the relevant integrated care board.
+
+(2) A liability of a CCG that arose and was not claimed before 1st July 2022 may be the subject of a claim on or after that date by the relevant integrated care board.
+
+(3) A claim for a liability of NHS TDA which was made and not determined or paid before 1st July 2022 continues as a claim of NHS England.
+
+(4) A liability of NHS TDA which arose and was not claimed before 1st July 2022 may be the subject of a claim on or after that date by NHS England.
+
+(5) A liability of Monitor which—
+
+- (a) arose before 1st July 2022, and
+- (b) is a liability of the kind which may be claimed by a member under the Scheme,
+
+may be claimed on or after that date by NHS England.
+
+(6) In this Regulation—
+
+- “**a CCG**” means a body corporate which, immediately before 1st July 2022, was established in accordance with Chapter A2 of Part 2 of the 2006 Act;
+- “**claim**” means a claim under the Scheme;
+- “**liability**” means a liability to which the Scheme applies;
+- “**Monitor**” means the body corporate which, immediately before 1st July 2022, was known as Monitor in accordance with section 61 of the Health and Social Care Act 2012;
+- “**NHS TDA**” means the Special Health Authority which, immediately before 1st July 2022, was established in accordance with article 2 of the National Health Service Trust Development Authority (Establishment and Constitution) Order 2012;
+- “**relevant integrated care board**” means the integrated care board to whom the liability was transferred under section 14Z28 of the 2006 Act.
+
+Signed by authority of the Secretary of State for Health.
+
+Daniel Poulter
+
+Parliamentary Under Secretary of State
+
+Department of Health
+
+3rd March 2015
+
+David Evennett
+
+Gavin Barwell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+4th March 2015
+
+## SCHEDULE — Revocations[^key-7eababea924dde68c39558dcfafc6939]
+
+Regulation 22
+
+| Instrument | Reference | Extent of revocation |
+| --- | --- | --- |
+| The National Health Service (Clinical Negligence Scheme) Regulations 1996 | [S.I. 1996/251](https://www.legislation.gov.uk/uksi/1996/251) | The whole instrument |
+| The National Health Service (Clinical Negligence Scheme) (Amendment) Regulations 1997 | S.1. 1997/527 | The whole instrument |
+| The National Health Service (Clinical Negligence Scheme) (Amendment) Regulations 1999 | [S.I. 1999/1274](https://www.legislation.gov.uk/uksi/1999/1274) | The whole instrument |
+| The National Health Service (Clinical Negligence Scheme) Amendment Regulations 2000 | [S.I. 2000/2341](https://www.legislation.gov.uk/uksi/2000/2341) | The whole instrument |
+| The National Health Service (Clinical Negligence Scheme) Amendment Regulations 2002 | [S.I. 2002/1073](https://www.legislation.gov.uk/uksi/2002/1073) | The whole instrument |
+| The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002 | [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) | Paragraph 68 of Schedule 1 |
+| The Health and Social Care Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 | [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) | Paragraph 20 of Schedule 1 |
+| The National Health Service Liabilities Schemes Amendment Regulations 2005 | [S.I. 2005/604](https://www.legislation.gov.uk/uksi/2005/604) | In regulation 1, the definition of “the CNS Regulations”<br>Regulation 2<br>Regulation 3 |
+| The National Health Service (Clinical Negligence Scheme) Amendment (No.2) Regulations 2006 | [S.I. 2006/3087](https://www.legislation.gov.uk/uksi/2006/3087) | The whole instrument |
+| The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 | [S.I. 2012/1641](https://www.legislation.gov.uk/uksi/2012/1641) | Paragraph 4 of Schedule 3 |
+| The National Health Service (Clinical Negligence Scheme) Amendment Regulations 2013 | [S.I. 2013/497](https://www.legislation.gov.uk/uksi/2013/497) | The whole instrument |
+| The National Health Service (Clinical Negligence Scheme) (Amendment) Regulations 2014 | [S.I. 2014/933](https://www.legislation.gov.uk/uksi/2014/933) | The whole instrument |
+| The Health Research Authority (Transfer of Staff, Property and Liabilities) and Care Act 2014 (Consequential Amendments) Order 2014 | [S.I. 2014/3090](https://www.legislation.gov.uk/uksi/2014/3090) | Paragraph 1(c) of the Schedule |
+| The Care Act 2014 (Health Education England and the Health Research Authority (Consequential Amendments and Revocations) Order 2015 | [S.I. 2015/137](https://www.legislation.gov.uk/uksi/2015/137) | Paragraph 14 of Schedule 2 |
+|  |  |  |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations apply to England and make provision in connection with the Clinical Negligence Scheme for Trusts (“the Scheme”). The Scheme enables members exercising functions in connection with the National Health Service to make provision for meeting liabilities to which the Scheme applies. These Regulations consolidate with amendments the provisions of the National Health Service (Clinical Negligence Scheme) Regulations 1996 ([S.I. 1996/251](https://www.legislation.gov.uk/uksi/1996/251)) which first established the Scheme and provide for the continuation of the Scheme under these Regulations.
+
+Regulation 3 sets out the Scheme’s purpose and provides that it will continue to be administered by the Secretary of State. Regulation 4 lists the bodies eligible to become members and regulation 5 provides that existing members are to continue their membership and sets out the procedure for other eligible bodies to become a member. Membership may be cancelled under regulation 6 by any member of at least 3 years standing. The Secretary of State may also cancel a body’s membership under regulation 7 on grounds which include insolvency and non-payment of a member’s contribution to the Scheme.
+
+Regulations 8 to 10 set out the liabilities to which the Scheme applies. Regulation 8 provides that the Scheme applies to liabilities in tort which a member owes to a third party in connection with personal injury or loss arising from negligent acts or omissions in the exercise of specified health service functions of the member. In the limited circumstances set out in regulations 9 and 10, the Scheme also applies to liabilities in negligence which a non-member owes to third parties and for which members of the Scheme are treated as liable. Regulation 9 identifies the member of the Scheme which is to be treated as liable in respect of negligence liabilities that arose whilst relevant health services were being provided by a body which has since had its Scheme membership cancelled on the grounds of insolvency. Regulation 10 makes similar provision in respect of negligence liabilities that arose whilst relevant health services were being provided by non-members under commissioning or sub-contracting arrangements.
+
+Regulations 11 to 13 contain provision for the calculation (and in certain circumstances the revision) of amounts which members are required to contribute for the purposes the Scheme and sets out when such contributions must be made.
+
+Regulations 14 to 19 set out the circumstances in which payments are to be made by the Secretary of State under the Scheme by or on behalf of members. Regulation 14 deals with payments in respect of the liabilities of members, regulation 15 deals with payments in respect of the liabilities of former members in respect of events occurring during membership and regulation 16 specifies circumstances in which any such liabilities are excluded. Regulation 17 applies regulations 14 to 16 with modifications to the cases where specified members of the Scheme are treated as liable in respect of the negligence liabilities of others (as set out in regulations 9 and 10). Amounts to be paid are determined in accordance with regulation 18 and provision for the making of payments on account is contained in regulation 19.
+
+Regulation 20 sets out the requirements for members to provide information to the Secretary of State for the purposes of the Scheme. Regulation 21 requires the Secretary of State to make available to eligible bodies any directions or guidance which the Secretary of State gives to any body directed to administer the Scheme on the Secretary of State’s behalf. Regulation 22 revokes with certain savings the statutory instruments which are consolidated by these Regulations. Regulation 23 contains transitional provision.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 71 was amended by section 142 of, and paragraph 85 of Schedule 5 and Part 4 of Schedule 15 to, the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14); by paragraph 18 of Schedule 4, paragraphs 17 and 19 of Schedule 7, paragraphs 1 and 28 of Schedule 14, paragraph 10(1) and (3) of Schedule 17 and paragraph 9(1) and (3) of Schedule 19 to the Health and Social Care Act 2012 (“the 2012 Act”); and by paragraph 24(3) of Schedule 5 and paragraph 18(9) of Schedule 7 to the Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23). The powers conferred by the National Health Service Act 2006 which are exercised by the Secretary of State in making these Regulations are exercisable only in relation to England by virtue of section 271(1) of that Act.
+
+[^key-e3089c2f72111cb168a889250e453269]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-a0d7b5015f4370ba27f9e84075f70ca2]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^f00002]: Footnote: [S.I. 1996/251](https://www.legislation.gov.uk/uksi/1996/251). The Regulations were amended by [S.I. 1997/527](https://www.legislation.gov.uk/uksi/1997/527), [1999/1274](https://www.legislation.gov.uk/uksi/1999/1274), [2000/2341](https://www.legislation.gov.uk/uksi/2000/2341), [2002/1073](https://www.legislation.gov.uk/uksi/2002/1073), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2004/696](https://www.legislation.gov.uk/uksi/2004/696), [2005/604](https://www.legislation.gov.uk/uksi/2005/604), [2006/3087](https://www.legislation.gov.uk/uksi/2006/3087), [2012/1641](https://www.legislation.gov.uk/uksi/2012/1641), [2013/497](https://www.legislation.gov.uk/uksi/2013/497), [2014/933](https://www.legislation.gov.uk/uksi/2014/933), [2014/3090](https://www.legislation.gov.uk/uksi/2014/3090) and [2015/137](https://www.legislation.gov.uk/uksi/2015/137).
+
+[^f00003]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^key-6ccd0b82020cb5ebe6db3285166a1ae1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/559/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [82(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/82/2/a)
+
+[^f00004]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 247(1) was amended by paragraph 33(1) and (2) of Schedule 17 to the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-13b1a86e4ab60f8d059d41bddc439265]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/559/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [82(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/82/2/b)
+
+[^f00005]: Footnote: “The health service” is defined in section 275 of the National Health Service Act 2006.
+
+[^f00006]: Footnote: [1988 c. 49](https://www.legislation.gov.uk/ukpga/1988/49). Section 7 was amended by paragraph 34 of Schedule 9 to the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19); by section 5 of the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15); by section 37(2) of the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13); by paragraphs 115 and 116 of Schedule 1 and Schedule 4 to the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43); by paragraph 45 of Schedule 5 to the 2012 Act; and by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^f00007]: Footnote: Section 13W was inserted by section 23(1) of the 2012 Act. Section 14Z5 was inserted by section 26 of that Act. Section 43(3) was amended by section 164(2) of that Act. Section 44 was amended by section 165 of that Act. Schedule 4 is repealed by section 179(2) of that Act but, at the date of making these Regulations, no date had been appointed to bring that repeal into force.
+
+[^f00008]: Footnote: The Clinical Negligence Scheme for Trusts (“the Scheme”) was established by the National Health Service (Clinical Negligence Scheme) Regulations 1996 ([S.I.1996/251](https://www.legislation.gov.uk/uksi/1996/251)).
+
+[^f00009]: Footnote: Section 83(2) was substituted by paragraph 30(1) and (2) of Schedule 4 to the 2012 Act.
+
+[^f00010]: Footnote: Section 84(1) was amended by paragraph 31(1) and (2) of Schedule 4 to the 2012 Act.
+
+[^key-0345be39e72c1f938512338f77ba308f]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^f00011]: Footnote: Section 92 was amended by paragraph 36 of Schedule 4 to the 2012 Act.
+
+[^f00012]: Footnote: Section 100(1) was amended by paragraph 43(1) and (2) of Schedule 4 to the 2012 Act.
+
+[^f00013]: Footnote: Section 107(1) was substituted by paragraph 48(1) and (2) of Schedule 4 to the 2012 Act.
+
+[^f00014]: Footnote: Section 115(4) was substituted by paragraph 54(1) and (4) of Schedule 4 to the 2012 Act.
+
+[^f00015]: Footnote: Section 117(1) was amended by paragraph 55(1) and (2) of Schedule 4 to the 2012 Act.
+
+[^f00016]: Footnote: Section 126(1) was amended by paragraph 63(1) and (2) of Schedule 4 to the 2012 Act.
+
+[^f00017]: Footnote: Section 127(1) was amended by paragraph 64(1) to (3) of Schedule 4 to the 2012 Act.
+
+[^f00018]: Footnote: Section 134 was amended by paragraphs 6 and 8 of Schedule 1 to the Health Act [2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21) and by paragraph 71 of Schedule 4 to the 2012 Act.
+
+[^f00019]: Footnote: Schedule 12 was amended by section 29(1) and (5) to (15) of, and Schedule 6 to, the Health Act 2009; by section 207(12) of, and paragraph 93 of Schedule 4 to, the 2012 Act; and by paragraph 52(1)(b) and (2) of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^key-b22b4a2960b5cf5e00d4691f381f3c90]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^f00020]: Footnote: The Regulations establishing the Scheme ([S.I. 1996/251](https://www.legislation.gov.uk/uksi/1996/251)) were made in exercise of powers conferred by section 126(4) of the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49) and powers conferred by section 21 of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”). Section 21 of the 1990 Act was consolidated as section 71 of the National Health Service 2006. By virtue of paragraph 1(2) of Schedule 2 to the National Health Service (Consequential Provisions) Act 2006, anything done under a consolidated provision has effect as if it had been done under the corresponding provision of the consolidating Act. These Regulations are made in exercise of the powers conferred by sections 71 and 272(7) and (8) of the National Health Service Act 2006.
+
+[^key-e1f1b5aaef34c9a79e8b053ffaa38d9b]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-7581d8a1ce76ffcaa657ed62a3819b07]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/559) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-fe653db0e303f38e34c51c3c4c22305c]: Textual amendment: [Reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2015/559/regulation/4/1/e) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/18) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+
+[^key-87aac8fd69cc9e0d075eb1b833f245dc]: Textual amendment: [Reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2015/559/regulation/4/1/g) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 48](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/48) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-b55d9de9aeff72dbe28c283fa3a96d68]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^f00021]: Footnote: By virtue of regulation 23 of these Regulations, a notice given under the regulation 7 of the National Health Service (Clinical Negligence Scheme) Regulations 1996 (termination of membership) has effect as if given under the corresponding provisions of these Regulations in any case where membership of the Scheme has not ceased by the date on which these Regulations come into force.
+
+[^key-d9922b8124ecba48544f627ecda674e5]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2015/559/regulation/5/1A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [215(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/215/2)
+
+[^key-c808edcc8535493846bfeb07909a7fb5]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-f6260b1faf7f04f649a0ecca101fdb03]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-43d223657ee07a4d9e0b8c6f43e23387]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-aaf99bb7899247b0248b18ea2734ff05]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-a7508c33dbac53b9cf7bb5c3d86af373]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-7b253f0c7c97510ea1f78e02c4822eb7]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-6ac8804b276616c1e6c1231f901cdee1]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-c365a2dbe65b375db6c8491fab3190c7]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-4b13bd84450d9c1c34c1c14e81773192]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-8c909e0ea619938eaf7a6c9616398e66]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-05fc40b415b27ccf0b42d3d0558f9c03]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-76b896d628c44f53c2f7f701262da195]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-2264dd2b09683a3b15c372011f9586c3]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^f00022]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^key-bd0f894710c3ce4fcc2d521b82850dfa]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-902a6eb5d0f710efd943db48de47c172]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-f9f225d9aa840ddef1baef8e4738b3eb]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^f00023]: Footnote: The directions and guidance given by the Secretary of State are available on request by writing to the Department of Health, Professional Standards, Quarry House, Leeds, LS2 7UA.
+
+[^key-4ff93cc3e6af0db0d95ff444bd79dce4]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-b1608b02354a422001f6bdf4e09202a9]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+
+[^key-b01ebe0663c3034256dd347ffff0781a]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/559/regulation/24) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [215(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/215/3)
+
+[^key-7eababea924dde68c39558dcfafc6939]: Commencement: Sch. in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)

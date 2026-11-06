@@ -1,0 +1,572 @@
+---
+title: The Ship and Port Facility (Security) Regulations 2004
+id: uksi/2004/1495
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-06-08'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/1495
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1495/pdfs/uksiem_20041495_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1495/pdfs/uksi_20041495_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1495/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ship and Port Facility (Security) Regulations 2004
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 1495
+
+MERCHANT SHIPPING
+
+MARITIME SECURITY
+
+The Ship and Port Facility (Security) Regulations 2004
+
+Made
+
+8th June 2004
+
+Laid before Parliament
+
+10th June 2004
+
+Coming into force
+
+1st July 2004
+
+The Secretary of State for Transport, being a Minister designated [^c5243311] for the purposes of section 2(2) of the European Communities Act 1972 [^c5243321] in relation to port security, measures relating to the safety of ships and the health and safety of persons on them, and maritime transport, in exercise of the powers conferred by that section hereby makes the following Regulations:
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Ship and Port Facility (Security) Regulations 2004 and shall come into force —
+
+- (a) from 1st July 2004 for international shipping; and
+- (b)[^key-0761de4166211627ae050d35f1d50be7] on 1st July 2005 for all other purposes.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the EC Regulation**” means Regulation [(EC) No 725/2004](https://www.legislation.gov.uk/european/regulation/2004/0725) of the European Parliament and of the Council of 31 March 2004 [^c5243331]on enhancing ship and port facility security , as amended by the Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019[^key-a2f378423b4a44faa6bebe3173142b37];
+- “[^key-9ce28a102211b65ee36fbe58272b5e85]**the SOLAS Convention**” means the International Convention for the Safety of Life at Sea 1974 as amended from time to time (disregarding for this purpose any amendment so far as it is excluded by Article 10(1) or (2) of the EC Regulation);
+- “[^key-edf1a45588eb246ad590bb94e4c49cfc]**ISPS Code**” means the International Ship and Port Facility Security Code as amended from time to time (disregarding for this purpose any amendment so far as it is excluded by Article 10(1) or (2) of the EC Regulation);
+- “[^M_F_c533a9dc-7064-4d56-dbb8-903e6d27f5a2]**address**”, in relation to electronic communications, means any number or address used for the purposes of such communications;
+- “[^key-c4f1a9fc15b46bf3dde747b3cd118394]**Class A passenger ship**” and “**Class B passenger ship**” have the same meaning as in Article 3 of the EC Regulation;
+- “**constable**” includes any person having the powers and privileges of a constable;
+- “**domestic shipping**” means any transport service by ship in sea areas from a port facility of the United Kingdom to the same port facility or another port facility within the United Kingdom;
+- “**duly authorised officer**” means either—
+  - (a) an inspector appointed under section 256 of the Merchant Shipping Act 1995 [^c5243381], or
+  - (b) a surveyor appointed under section 256 of the Merchant Shipping Act 1995, or
+  - (c) an “authorised person” within the meaning of section 46(1) [^c5243391] of the Aviation and Maritime Security Act 1990;
+- “**electronic communication**” has the same meaning as in the Electronic Communications Act 2000 (c. 7);
+- “**international shipping**” means any maritime transport service by ship from a port facility of the United Kingdom to a port facility outside the United Kingdom, or conversely;
+- “**international voyage**” means a voyage from a country to which the SOLAS Convention applies to a port outside such country, or conversely;
+- “**master**” includes every person (except a pilot) having command or charge of a ship;
+- “**non-United Kingdom ship**” means a ship other than a United Kingdom ship;
+- “**owner of the port facility security plan**” means the person who submits the port facility security plan or the person on whose behalf that plan is submitted to the Secretary of State for approval under section 16.2 of Part A of the ISPS Code;
+- “**restricted area**” means an area in a ship or a port facility that is identified as such in a ship security plan or port facility security plan;
+- “[^key-9083b804b8e3730d2e1485531628e6a5]**tanker**” has the same meaning as in Article 3(3) of the EC Regulation;
+- “**United Kingdom registration provisions**” means Part II of the Merchant Shipping Act 1995, or any Order in Council under section 1 of the Hovercraft Act 1968 [^c5243401].
+- “**United Kingdom ship**” has the same meaning as in section 85(2) of the Merchant Shipping Act 1995, and
+- “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom.
+
+(2) The expressions used in these Regulations which are given a meaning in the SOLAS Convention or the ISPS Code have the same meaning they bear in those instruments, and are listed in the Schedule to these Regulations.
+
+(3) Other expressions used in these Regulations which are also used in the EC Regulation, have the same meaning they bear in that Regulation.
+
+### 3. Purpose
+
+The purpose of these Regulations is to provide for the implementation of the EC Regulation.
+
+### 4. Application
+
+(1) These Regulations apply to—
+
+- (a) the following types of United Kingdom ships and non-United Kingdom ships in United Kingdom waters when engaged on international voyages, and their companies:
+  - (i) passenger ships including high speed craft which carry more than 12 passengers;
+  - (ii) cargo ships, including high speed craft, of 500 gross tonnage and upwards;
+  - (iii) mobile offshore drilling units;
+- (b) Class A passenger ships operating domestic services within United Kingdom waters and their companies;
+- (ba)[^key-51e9c748ead23e022b74de1b657aad7c] Class B passenger ships operating domestic services within United Kingdom waters which are certified to carry more than 250 passengers, and their companies;
+- (bb) tankers operating domestic services within United Kingdom waters and their companies;
+- (c) the following port facilities—
+  - (i) port facilities serving the ships specified in paragraph (1)(a); and
+  - (ii) port facilities serving ships specified in paragraph (1)(b).
+
+(2) These Regulations do not apply to —
+
+- (a) ships of war and troop ships;
+- (b) cargo ships of less than 500 gross tonnage;
+- (c) ships not propelled by mechanical means;
+- (d) wooden ships of primitive build;
+- (e) pleasure yachts not engaged in trade;
+- (f) fishing vessels; and
+- (g) vessels not engaged in commercial activities.
+
+### 5. Designations
+
+The Secretary of State for Transport is hereby designated—
+
+- (a)[^key-a500311362839c36fb33d43a221467bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-a500311362839c36fb33d43a221467bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the “**designated authority**” for the purposes of Chapter XI-2 of the SOLAS Convention and the ISPS Code.
+
+## PART 2 — INSPECTIONS
+
+### 6. Inspection of ships and port facilities by a duly authorised officer
+
+(1) For the purpose of enabling a duly authorised officer to verify that ships and port facilities are in compliance with the requirements of the EC Regulation or of ascertaining whether any enforcement notice is being or has been complied with, a duly authorised officer shall have the power, on production (if required) of his credentials, to inspect—
+
+- (a) any United Kingdom ship;
+- (b) any non-United Kingdom ship while in a port facility;
+- (c) any non-United Kingdom ship in United Kingdom waters which has communicated its intention to enter a port in the United Kingdom;
+- (d) any United Kingdom port facility.
+
+(2) A duly authorised officer inspecting a ship or a port facility shall have power —
+
+- (a) to subject any property found by him on the ship, or any apparatus or equipment installed on the ship which is required by or approved in the relevant ship security plan to such tests,
+- (b) to subject any part of the port facility or any property found by him in the port facility, or any apparatus or equipment installed in the port facility which is required by or approved in the relevant port facility security plan to such tests,
+- (c) to take such steps —
+  - (i) to ascertain what practices or procedures are being followed in relation to security, or
+  - (ii) to test the effectiveness of any practice or procedure relating to security, or
+- (d) to require the company, or the company security officer, or the ship security officer, or the master of the ship, or the port facility security officer, or the owner of the port facility security plan, or person acting on behalf of any of the aforementioned persons to furnish to him such information,
+
+as the duly authorised officer may consider necessary for the purpose for which the inspection is carried out.
+
+(3) Subject to paragraph (4), a duly authorised officer, for the purpose of exercising any power conferred on him by paragraphs (1) or (2) in relation to a ship or in relation to a port facility, may—
+
+- (a) for the purpose of inspecting a ship, go on board and take all such steps as are necessary to ensure that it is not moved, or
+- (b) for the purpose of inspecting a port facility, to enter any building or works in the port facility or enter upon any land in the port facility.
+
+(4) The powers conferred by paragraph (3) shall not include power for a duly authorised officer to use force for the purpose of going on board any ship, entering any building or works or entering upon any land.
+
+(5) Any person who —
+
+- (a) without reasonable excuse, fails to comply with a requirement imposed on him under paragraph (2)(d), or
+- (b) in furnishing any information so required makes a statement which he knows to be false in a material particular, or recklessly makes a statement which is false in a material particular,
+
+commits an offence.
+
+(6) A person guilty of an offence under paragraph (5) is liable —
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-354ea935ae090f12bf37a56fd7e69566], or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years.
+
+### 7. Inspection of companies and port facilities by the European Commission[^key-83112edcbef279ecec447f63e11f834b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — DETENTION OF SHIPS
+
+### 8. Detention notices
+
+(1) Where a duly authorised officer proposes to detain a ship pursuant to the control and compliance measures specified in Regulation 9 of Chapter XI-2 of the SOLAS Convention, he shall serve on the master of the ship a notice (in this part referred to as a detention notice) which states that the duly authorised officer is detaining the ship because he has grounds for believing that—
+
+- (a) the ship is not in compliance with Chapter XI-2 of the SOLAS Convention, or
+- (b) the ship is not in compliance with Part A of the ISPS Code, or
+- (c) there has been a failure to make available for inspection a valid International Ship Security Certificate or a valid Interim International Ship Security Certificate issued under Part A of the ISPS Code.
+
+(2) A detention notice shall specify the steps that the duly authorised officer requires to be taken in respect of the ship in order to secure its release from detention.
+
+(3) A detention notice shall require the master to take steps to ensure that the ship does not proceed to sea while the detention notice is in force.
+
+(4) The master of a ship in respect of which a detention notice is served may object to the notice in writing to the Secretary of State.
+
+(5) On receipt of an objection to a detention notice served under paragraph (1) the Secretary of State shall—
+
+- (a) consider the objection;
+- (b) allow the person making the objection and the duly authorised officer who gave the notice an opportunity to make written or oral representations to the Secretary of State or a person appointed by him;
+- (c) confirm, modify or cancel the notice, and
+- (d) give notice of his decision in writing to the person who made the objection and to the duly authorised officer who served the notice.
+
+(6) The Secretary of State shall include in his decision a finding as to whether in relation to any of the matters specified in respect of a ship in a detention notice in pursuance of paragraph (1), there was or was not a valid basis for the detention of the ship.
+
+(7) A detention notice in respect of a ship shall continue in force until—
+
+- (a) a duly authorised officer cancels it by notice in writing.
+- (b) the Secretary of State cancels it under paragraph (5)(c).
+
+(8) A person commits an offence if without reasonable excuse he fails to comply with a requirement of a detention notice.
+
+(9) A person who is guilty of an offence under paragraph (8) shall be liable —
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-90775447f315d39dba7c4be188e8381f], or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years.
+
+### 9. Compensation for invalid detention of a ship
+
+(1) Where having considered an objection in respect of a detention notice relating to a ship under regulation 8 the Secretary of State finds that there was no valid basis for the detention, the owner of the ship shall be entitled, upon application, to receive compensation for such loss or damage suffered by him which is directly attributable to the detention of the ship.
+
+(2) A claim for compensation under this regulation shall be made in writing to the Secretary of State within three months beginning with the date the Secretary of State serves notice of his decision under regulation 8(5)(d).
+
+(3) Any person claiming compensation under this regulation shall provide all such information and supplementary information in respect of the loss or damage incurred as the Secretary of State may at any time reasonably require and shall verify the same in any such manner, including the production of original documents in his possession or control, as may be reasonably required.
+
+(4) Any disputed question as to the right to, or the amount of, any compensation payable under this regulation shall be referred to a single arbitrator appointed by agreement between the parties for that question to be decided by him.
+
+(5) Any compensation granted under this section shall be payable by the Secretary of State.
+
+(6) In the application of this regulation to Scotland any reference to an arbitrator shall be construed as a reference to an arbiter and the reference in paragraph (4) to a single arbitrator appointed by agreement between the parties shall be construed as a reference to a single arbiter so appointed or, in default of agreement, appointed by the sheriff.
+
+## PART 4 — RESTRICTED AREAS
+
+### 10. Unauthorised presence in a restricted area of a ship
+
+(1) A person shall not —
+
+- (a) go, onto or into any part of a restricted area of a ship except with the permission of the master or the ship security officer or a person acting on their behalf, and in accordance with any conditions subject to which that permission is for the time being granted, or
+- (b) remain in any part of such a restricted area after being requested to leave by the master or the ship security officer or a person acting on their behalf.
+
+(2)[^key-65d01b58d84b888b5168e39efb0f6b1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Subject to paragraph 3A,[^key-4fcf6395fce847b77025212e903f4dd8] a person who contravenes paragraph (1) without lawful authority or reasonable excuse is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3A)[^key-1806e8d4ac90d267ff1462db93805d9f] A person who contravenes paragraph (1)(a) is not guilty of an offence unless it is proved that, at the material time, notices stating that the area concerned was a restricted area were posted so as to be readily seen and read by persons entering the area.
+
+(4) A constable, or the master or the ship security officer, or a person acting on behalf of the master or the ship security officer, may use such force as is reasonable in the circumstances to remove from a restricted area a person remaining in it in contravention of paragraph (1)(b).
+
+### 11. Unauthorised presence in a restricted area of a port facility
+
+(1) A person shall not—
+
+- (a) go, onto or into any part of a restricted area of a port facility except with the permission of the port facility security officer or a person acting on his behalf, and in accordance with any conditions subject to which that permission is for the time being granted, or
+- (b) remain in any part of such a restricted area after being requested to leave by the port facility security officer or a person acting on his behalf.
+
+(2)[^key-37cb830751d123ed14baed527be51ac7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Subject to paragraph 3A,[^key-f14e31f3051cc6ef1b1542adaa7b6980] a person who contravenes paragraph (1) without lawful authority or reasonable excuse is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3A)[^key-f44ce0f2b3aece06a536c51f704c2d90] A person who contravenes paragraph (1)(a) is not guilty of an offence unless it is proved that, at the material time, notices stating that the area concerned was a restricted area were posted so as to be readily seen and read by persons entering the area.
+
+(4) A constable, or the port facility security officer, or a person acting on behalf of the port facility security officer, may use such force as is reasonable in the circumstances to remove from a restricted area a person remaining in it in contravention of paragraph (1)(b).
+
+## PART 5 — OFFENCES RELATING TO DULY AUTHORISED OFFICERS
+
+### 12. Offences and penalties
+
+(1) A person who—
+
+- (a) intentionally obstructs a duly authorised officer acting in the exercise of a power conferred upon him by the EC Regulation or these Regulations, or
+- (b) falsely pretends to be a duly authorised officer,
+
+commits an offence.
+
+(2) A person guilty of an offence under paragraph (1)(a) is liable —
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum[^key-22babe43deb67cbef40fc6eeb347c2ec], or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years.
+
+(3) A person guilty of an offence under paragraph (1)(b) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## PART 6 — ENFORCEMENT AND PENALTIES
+
+### 13. Enforcement notices
+
+(1) A duly authorised officer may serve a notice (in this Part referred to as an “**enforcement notice**”) on any person listed in paragraph (2) where it appears to him that that person has failed to comply with —
+
+- (a) the requirements of Chapter XI-2 of the SOLAS Convention;
+- (b) the requirements of Part A of the ISPS Code;
+- (c) the requirements of paragraphs 1.12, 6.1, 8.3, 8.5, 8.7, 8.8, 8.9, 8.10, 13.6, 13.7, 18.5 or 18.6 of Part B of the ISPS Code;
+- (d)[^key-26b0240312df1b2b6abfe0a9e899ec84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the requirement to submit specified changes or amendments to a ship security plan or a port facility security plan to the Secretary of State for approval in accordance with regulation 19.
+
+(2) The persons referred to in paragraph (1) are—
+
+- (a) the company;
+- (b) the company security officer;
+- (c) the ship security officer;
+- (d) the master of a ship;
+- (e) the port facility security officer;
+- (f) the owner of the port facility security plan; and
+- (g) any person who carries on port operations in a port facility.
+
+### 14. Contents of enforcement notices
+
+(1) An enforcement notice shall state the matters which appear to the duly authorised officer to constitute a failure to comply with the requirements specified in regulation 13.
+
+(2) An enforcement notice may be framed so as to afford the person on whom it is served a choice between different ways of complying with the requirements set out in the notice.
+
+(3) An enforcement notice shall specify the steps which the duly authorised officer requires to be taken, or the activity or the activities which the duly authorised officer requires to cease in order to achieve compliance with the requirements specified in regulation 13.
+
+(4) An enforcement notice shall specify the date on which it is to take effect and shall take effect on that date.
+
+(5) An enforcement notice shall specify the period at the end of which any steps are required to have been taken or any activities are required to have ceased and may specify different periods for different steps or activities.
+
+(6) Where different periods apply to different steps or activities, references in these Regulations to the period for compliance with an enforcement notice, in relation to any step or activity, are to the period at the end of which the step is required to have been taken or the activity is required to have ceased.
+
+(7) An enforcement notice requiring a person not to cause or permit anything to be done shall be construed as requiring him to take all such steps as in any particular circumstances are practicable and necessary to prevent that thing from being done.
+
+### 15. Offences relating to enforcement notices
+
+(1) Any person, who without reasonable excuse, fails to comply with an enforcement notice served on him is guilty of an offence and liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-0760ac8290b3672e25ef98d6e7ee44b9], or
+- (b) on conviction on indictment to a fine.
+
+(2) Where a person is convicted of an offence under paragraph (1) and if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he is guilty of a further offence and liable on summary conviction to a fine not exceeding £100 for each day on which the failure continues.
+
+### 16. Objections to enforcement notices
+
+(1) A person on whom an enforcement notice is served may serve on the Secretary of State a notice in writing of his objection to the enforcement notice.
+
+(2) The grounds of objection to an enforcement notice are—
+
+- (a) that the steps required by the notice to be taken for the purposes of regulation 13 have been complied with;
+- (b)[^key-1f115e91f7ad90498b489516076d313b] that the matters stated in the enforcement notice in accordance with regulation 14(1) do not constitute a failure to comply with the requirements specified in regulation 13;
+- (c) that any requirement of the notice —
+  - (i) is unnecessary for complying with the requirements specified in regulation 13 and should be dispensed with or;
+  - (ii) having regard to the terms of those requirements, is excessively onerous or inconvenient and should be modified in a manner specified in the notice of objection served under paragraph (1).
+
+(3) An objection to an enforcement notice under this regulation shall be served on the Secretary of State within seven days of the date on which the enforcement notice was served.
+
+(4) A person making an objection to an enforcement notice under this regulation shall submit to the Secretary of State, either when making the objection or within the seven days referred to in paragraph (3), a statement in writing—
+
+- (a) specifying the grounds on which he is objecting to the enforcement notice, and
+- (b) providing such further information as may be appropriate.
+
+(5) Where the person on whom an enforcement notice is served serves a notice under paragraph (1), the Secretary of State shall consider the grounds of the objection and, if so required by the objector, shall afford to him an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose, and shall then serve on the objector a notice in writing either—
+
+- (a) confirming the enforcement notice as originally served, or
+- (b) confirming it subject to one or more modifications specified in the notice, or
+- (c) cancelling the enforcement notice.
+
+(6) An enforcement notice to which an objection has been made under paragraph (1) shall not take effect until it has been confirmed, with or without modification, by a notice under paragraph (5).
+
+(7) An enforcement notice served on any person —
+
+- (a) may be revoked by a notice served on him by a duly authorised officer, and
+- (b) may be varied by a further enforcement notice served on him by a duly authorised officer.
+
+## PART 7 — MISCELLANEOUS
+
+### 17. Minimum period for retention of records
+
+The master shall be responsible for ensuring that records of the activities specified in section 10.1 of Part A of the ISPS Code and which are addressed in the ship security plan, are kept on board the ship for a period of at least three years from the date of the activity taking place.
+
+### 18. Minimum period for retention of a declaration of security
+
+(1) Any declaration of security that is completed in respect of a ship or a port facility shall be retained for a period of at least three years after it was last used—
+
+- (a) in respect of ships, on board the ship by the master; and
+- (b) in respect of port facilities by the port facility security officer.
+
+(2) In the case of ships, any completed declaration of security relating to one of its last ten calls at port facilities, shall be retained on board the ship by the master for as long as it relates to any of those last ten calls, even where the period over which those calls extend exceeds the minimum three year period referred to in paragraph (1).
+
+### 19. Amendments to plans
+
+(1) In accordance with the ISPS Code [^c5243411], the Secretary of State shall decide, and thereafter notify companies and owners of port facility security plans in writing, of the changes or amendments to the relevant approved ship security plan or port facility security plan that must first be submitted to him for approval before they are implemented in respect of those ships and port facilities.
+
+(2) The changes or amendments referred to in paragraph (1) shall not be implemented by the companies or owners of port facility security plans without first obtaining the approval of the Secretary of State.
+
+### 20. Service of documents
+
+(1) This regulation has effect in relation to any notice, any notification and any other document authorised or required by any provision in these Regulations to be served on or given to any person.
+
+(2) Any such document may be given or served on any person—
+
+- (a) by delivering it to him, or
+- (b) by leaving it at his proper address, or
+- (c) by sending it by post to him at that address, or
+- (d) by sending it to him at that address, by fax or other similar means which produce a document containing the text of the communication, or
+- (e)[^M_F_d48d6509-3868-4a4a-c483-2e2b599257cb] where—
+  - (i) an address for service using electronic communications has been given by that person and not withdrawn in accordance with paragraph (2E), and
+  - (ii) that person has agreed to accept service by electronic communications of documents in a certain form and has not withdrawn that agreement in accordance with that paragraph,
+
+  by using electronic communications to send the document in that form to that person at that address.
+
+(2A)[^M_F_e0808987-dc7d-4876-ed2a-37a2e0311a17] A document given to or served on a person in accordance with paragraph (2)(e) must be in a form sufficiently permanent to be used for subsequent reference.
+
+(2B) Where a document is given to or served on a person in accordance with paragraph (2)(e), the document is, unless the contrary is proved, to be deemed to have been given to or served on that person at the time at which the electronic communication is transmitted except where transmission is made outside that person’s normal business hours, in which case it shall be taken to have been given or served on the next working day, and in this subsection, “working day” means any day other than—
+
+- (a) a Saturday or a Sunday;
+- (b) Christmas Day or Good Friday; or
+- (c) a day which is a bank holiday under the Banking and Financial Dealings Act [1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80) in any part of the United Kingdom.
+
+(2C) A document authorised or required to be given to or served on a person by the Secretary of State or an authorised person is also to be treated as given or served where—
+
+- (a) that person and the Secretary of State or (as the case may be) the authorised person have agreed to his having access to documents of a particular description and in a certain form on a web site (instead of their being given to or served on him in any other way specified in paragraph (2));
+- (b) that person has not withdrawn his agreement in accordance with paragraph (2F);
+- (c) the document in question is a document to which the agreement applies;
+- (d) the Secretary of State or the authorised person has given that person a notice, in a manner agreed between them for the purpose—
+  - (i) stating that the document has been published on a web site maintained by or on behalf of the Secretary of State;
+  - (ii) setting out the address of that web site; and
+  - (iii) setting out the place on that web site where the document may be accessed and how it may be accessed by that person; and
+- (e) the published document is in a form sufficiently permanent to be used for subsequent reference.
+
+(2D) Where a document is given to or served on a person in accordance with paragraph (2C), the document is, unless the contrary is proved, to be deemed to have been given to or served on that person at the same time as the notice required to be given under paragraph (2C)(d) is given.
+
+(2E) A person who has supplied another person with an address for service using electronic communications and has agreed to accept service of documents in a certain form in accordance with paragraph (2)(e) may give notice withdrawing that address or that agreement or both.
+
+(2F) A person who has an agreement with the Secretary of State or an authorised person under paragraph (2C)(a) may give notice withdrawing that agreement.
+
+(2G) A withdrawal under paragraph (2E) or (2F) shall take effect on the later of—
+
+- (a) the date specified by the person in the notice; and
+- (b) the date which is fourteen days after the date on which the notice is given.
+
+(2H) A notice under paragraph (2E) or (2F) must be given to the person to whom the address was supplied or with whom the agreement was made.
+
+(2I) Oral notice is not sufficient for the purposes of paragraph (2E) or (2F).
+
+(3)[^M_F_59a2b7ee-1f71-451f-c45f-9bc8669a83a0] Any document authorised to be given to or served on a body corporate may be given to or served on the secretary, clerk or similar officer of that body.
+
+(4) For the purposes of this regulation and section 7 of the Interpretation Act 1978 [^c5243421] (service of documents by post) in its application to this regulation, the proper address of any person to whom or on whom any document is to be given or served is his usual or last known address or place of business, whether in the United Kingdom or elsewhere except that in the case of a body corporate or its clerk or similar officer it shall be the address of the registered or principal office of that body in the United Kingdom, or if it has no office in the United Kingdom, of its principal office wherever that may be.
+
+(5) In the case of a person registered under any of the United Kingdom registration provisions as the owner of any ship so registered, the address for the time being recorded in relation to him in the register shall also be treated as his proper address for the purposes of this regulation and section 7 of the Interpretation Act 1978.
+
+(6) If the person to or on whom any document mentioned in paragraph (1) is to be given or served has notified the Secretary of State of an address within the United Kingdom, other than an address determined under paragraph (4) or (5), as the one at which he or someone else on his behalf will accept documents of the same description as that document, that address shall also be treated for the purposes of this regulation and section 7 of the Interpretation Act 1978 as his proper address.
+
+(7) Any document mentioned in paragraph (1) shall, where there are two or more owners of a ship who are registered under any of the United Kingdom registration provisions, be treated as duly served on the company where it is served upon one of those owners.
+
+(8) Where any document mentioned in paragraph (1) is to is to be served on the master of a ship, it shall be treated as duly served if it is left on board that ship with the person being or appearing to be in command or charge of the ship.
+
+Signed by the authority of the Secretary of State for Transport
+
+David Jamieson
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE — EXPRESSIONS HAVING THE SAME MEANING AS IN THE SOLAS CONVENTION OR THE ISPS CODE
+
+Regulation 2(2)
+
+| *EXPRESSIONUSED* | *DEFINITION* | *REFERENCE* |
+| --- | --- | --- |
+| Cargo ship | Any ship which is not a passenger ship | Regulation I-2(g) of the SOLAS Convention. |
+| Company | The owner of the ship or any other organisation or person such as the manager, or the bareboat charterer, who has assumed the responsibility for operation of the ship from the owner of the ship and who on assuming such responsibility has agreed to take over all the duties and responsibilities imposed by the International Safety Management Code. | Regulation IX-1 of the SOLAS Convention. |
+| Company security officer | The person designated by the company for ensuring that a ship security assessment is carried out; that a ship security plan is developed, submitted for approval, and thereafter implemented and maintained, and for liaison with port facility security officers and the ship security officer. | Section 2.1.7 of Part A of the ISPS Code. |
+| Declaration of security | An agreement reached between a ship and either a port facility or another ship with which it interfaces specifying the security measures each will implement. | Regulation XI-2/1.15 of the SOLAS Convention. |
+| High speedcraft | A craft capable of a maximum speed in metres per second (m/s) equal to or exceeding 3.7�?� <sup>0.667.</sup> | Regulation X/1.2 of the SOLAS Convention. |
+| Mobile offshore drilling unit | A mechanically propelled mobile offshore drilling unit not on location. | Regulation IX/1 of the SOLAS Convention. |
+| Passenger ship | A ship which carries more than twelve passengers. | Regulation I/2(f) of the SOLAS Convention. |
+| Port facility | A location determined as such by the designated authority, where the ship/port interface takes place and includes areas such as anchorages, waiting berths and approaches from seaward as appropriate. | Regulation XI-2/1.9 of the SOLAS Convention. |
+| Port facilitysecurityofficer | The person designated as responsible for the development, implementation, revision and maintenance of the port facility security plan and for liaison with the ship security officers and company security officers. | Section 2.1.8 of Part A of the ISPS Code. |
+| Ship/port interface | The interactions that occur when a ship is directly and immediately affected by actions involving the movement of persons, goods or the provision of port services to or from the ship. | Regulation XI-2/1.8 of the SOLAS Convention. |
+| Ship securityofficer | The person on board the ship, accountable to the master, designated by the Company as responsible for the security of the ship, including implementation and maintenance of the ship security plan and for liaison with the company security officer and port facility security officers. | Section 2.1.6 of Part A of the ISPS Code. |
+
+*(This note is not part of the Regulations)*
+
+In so far as it is necessary to do so, these Regulations implement in the United Kingdom Regulation [(EC) No 725/2004](https://www.legislation.gov.uk/european/regulation/2004/0725) of the European Parliament and of the Council of 31 March 2004, (the EC Regulation) which introduces and implements Community measures aimed at enhancing ship and port facility security.
+
+The EC Regulation also provides a basis for the harmonised interpretation and implementation and Community monitoring of the special measures to enhance maritime security adopted by the Diplomatic Conference of the International Maritime Organisation (IMO) on 12 December 2002, which amended the International Convention for the Safety of Life at Sea (SOLAS) and established the International Ship and Port Facility Security Code (ISPS). The relevant amendments to the SOLAS Convention are set out in Chapter XI-2 of the Convention.
+
+The EC Regulation extends the application of Chapter XI-2 of the SOLAS Convention and Part A of the ISPS Code to domestic shipping from 1st July 2005 in respect of Class A passenger ships, their companies and the port facilities serving them.
+
+The EC Regulation further provides that specified paragraphs in the guidance in Part B of the ISPS Code shall be complied with as if those paragraphs are of mandatory application.
+
+Regulation 4 of these Regulations specifies the types of ships, their companies and the port facilities serving them that the regulations apply to.
+
+Regulation 5 designates the Secretary of State for Transport the focal point for maritime security and the competent authority for the purposes of Article 2.6 and 2.7 respectively of the EC Regulation. The Secretary of State is also the designated authority for the purposes of Chapter
+
+XI-2 of the SOLAS Convention and the ISPS Code.
+
+Regulation 6 provides for the inspection of ships and port facilities by a duly authorised officer for the purpose of establishing that they are in compliance with the requirements of the EC Regulation and, by virtue of Article 3 of that Regulation, the provisions in Chapter XI-2 of the SOLAS Convention, Part A and the mandatory provisions in Part B of the ISPS Code.
+
+Regulation 7 requires companies, company security officers, ship security officers, masters, port facility security officers and owners of port facility security plans to submit to inspections by the European Commission and to rectify any shortcomings identified by the Commission following such an inspection as are notified to them by the Secretary of State.
+
+Regulation 8 makes provision for the detention of ships pursuant to the control and compliance measures set out in Regulation 9 of Chapter XI-2 of the SOLAS Convention. It specifies the matters that are to be set out in a detention notice and the effect of such a notice. It also specifies the procedure for objecting to a detention notice and provides that it is an offence if a person without reasonable excuse fails to comply with a detention notice.
+
+Regulation 9 makes provision for compensation to be paid to the owner of a ship in circumstances where there was no valid basis for the detention of the ship and where the owner of the ship has suffered loss or damage in direct consequence of the detention.
+
+Regulations 10 and 11 provide that it is an offence subject on summary conviction to a fine of up to level 5 on the standard scale, for a person to enter a restricted area of a ship or a port facility without lawful authority. It also provides that certain persons specified in those regulations may use reasonable force to remove an unauthorised person from a restricted area where they remain in such an area in contravention of those provisions.
+
+Regulation 12 provides that obstructing a duly authorised officer acting in exercise of his powers or falsely pretending to be a duly authorised officer is an offence and makes provision for penalties for such offences.
+
+Regulations 13 to 16 make provision for the enforcement of the requirements set out in the EC Regulation and thereby Chapter XI-2 of the SOLAS Convention and Part A and the mandatory provisions in Part B of the ISPS Code, the requirement to co-operate with inspections by the Commission *(regulation 7)* and the requirement to submit specified changes or amendments to a ship security or port facility security plan to the Secretary of State for approval (*regulation 19*). Regulation 14 specifies the matters that are to be set out in the enforcement notice. Regulation 15 provides that failure to comply with an enforcement notice is a criminal offence and that a person convicted of such an offence is liable on summary conviction to fine not exceeding level 5 on the standard scale or on conviction on indictment, to a fine. Regulation 16 sets out the procedure for objecting to an enforcement notice.
+
+Regulation 17 provides that records of the activities specified in section 10.1 in Part A of the ISPS Code which are addressed in the ship security plan are to be kept on board the ship by the master for a period of at least three years from the date of the activity taking place.
+
+Regulation 18 provides that any declaration of security that is completed in respect of a ship or a port facility must be retained on board the ship by the master, or by the port facility security officer for a period of at least three years. It also provides that where a declaration of security relates to one of a ship’s last ten calls at port facilities, it must be retained on board the ship by the master for as long as it relates to one of those last ten calls, even though the period over which those calls extend exceeds the minimum three year period referred to in regulation 17.
+
+Regulation 19 provides that specified changes or amendments to a ship security plan or a port facility security plan must be submitted to and approved by the Secretary of State before they are implemented.
+
+Regulation 20 makes provision for the service of notices and other documents which may be served upon or given to persons under these Regulations.
+
+The Schedule to the Regulations lists the expressions used in these Regulations and their meanings as they are defined in the SOLAS Convention and the ISPS Code.
+
+A Regulatory Impact Assessment relating to the EC Regulation and these Regulations has been produced and a copy placed in both Houses of Parliament. Copies may be obtained from the Transport Security Directorate (TRANSEC), Department for Transport, 5th Floor, Southside, 105 Victoria Street, London SW1E 6DT (telephone 020 7944 2844).
+
+Copies of the SOLAS Convention and the ISPS Code referred to in these regulations may be obtained from the International Maritime Organisation at 4 Albert Embankment, London SE1 7SR.
+
+## Annotations
+
+[^c5243311]: Marginal citation: [S.I. 2004/706](https://www.legislation.gov.uk/uksi/2004/706), 1993/595 and 1994/757.
+
+[^c5243321]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-0761de4166211627ae050d35f1d50be7]: Textual amendment: Reg. 1(b) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/2)
+
+[^c5243331]: Marginal citation: OJ L129/ 6, 29.4.2004
+
+[^key-a2f378423b4a44faa6bebe3173142b37]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9ce28a102211b65ee36fbe58272b5e85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-edf1a45588eb246ad590bb94e4c49cfc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(c)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_c533a9dc-7064-4d56-dbb8-903e6d27f5a2]: Textual amendment: Words in reg. 2(1) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/9/2)
+
+[^key-c4f1a9fc15b46bf3dde747b3cd118394]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(d)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5243381]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); [section 256](https://www.legislation.gov.uk/uksi/2004/1495/section/256) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 6](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6), [paragraph 15](https://www.legislation.gov.uk/ukpga/1997/28/paragraph/15).
+
+[^c5243391]: Marginal citation: [1990 c. 31](https://www.legislation.gov.uk/ukpga/1990/31); there are amendments to section 46 which are not directly relevant to these Regulations.
+
+[^key-9083b804b8e3730d2e1485531628e6a5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/2/1) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(2)(e)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5243401]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
+
+[^key-51e9c748ead23e022b74de1b657aad7c]: Textual amendment: [Reg. 4(1)(ba)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/4/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/4/1/bb) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a500311362839c36fb33d43a221467bc]: Textual amendment: [Reg. 5(a)(b)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/5/a/b) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-354ea935ae090f12bf37a56fd7e69566]: Textual amendment: Words in [reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/6/6/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
+
+[^key-83112edcbef279ecec447f63e11f834b]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1495/regulation/7) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(5)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-90775447f315d39dba7c4be188e8381f]: Textual amendment: Words in [reg. 8(9)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/8/9/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
+
+[^key-65d01b58d84b888b5168e39efb0f6b1a]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/10/2) omitted (1.7.2005) by virtue of [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/a)
+
+[^key-4fcf6395fce847b77025212e903f4dd8]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/10/3) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/b)
+
+[^key-1806e8d4ac90d267ff1462db93805d9f]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/10/3A) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/c)
+
+[^key-37cb830751d123ed14baed527be51ac7]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/11/2) omitted (1.7.2005) by virtue of [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/a)
+
+[^key-f14e31f3051cc6ef1b1542adaa7b6980]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/11/3) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/b)
+
+[^key-f44ce0f2b3aece06a536c51f704c2d90]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/11/3A) inserted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/4/c)
+
+[^key-22babe43deb67cbef40fc6eeb347c2ec]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/12/2/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
+
+[^key-26b0240312df1b2b6abfe0a9e899ec84]: Textual amendment: [Reg. 13(1)(d)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/13/1/d) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [18(6)](https://www.legislation.gov.uk/uksi/2019/308/regulation/18/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0760ac8290b3672e25ef98d6e7ee44b9]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/15/1/a) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/3)
+
+[^key-1f115e91f7ad90498b489516076d313b]: Textual amendment: [Reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2004/1495/regulation/16/2/b) substituted (1.7.2005) by [The Ship and Port Facility (Security) (Amendment) Regulations 2005 (S.I. 2005/1434)](https://www.legislation.gov.uk/uksi/2005/1434), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1434/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/1434/regulation/2/5)
+
+[^c5243411]: Marginal citation: The relevant provisions are in Part A of the ISPS Code; [section 9](https://www.legislation.gov.uk/uksi/2004/1495/section/9).5 (for ship security plans) and section 16.6 (for port facility security plans).
+
+[^M_F_d48d6509-3868-4a4a-c483-2e2b599257cb]: Textual amendment: Reg. 20(2)(e) substituted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/10/2)
+
+[^M_F_e0808987-dc7d-4876-ed2a-37a2e0311a17]: Textual amendment: Reg. 20(2A)-(2I) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2006/2190/article/10/3)
+
+[^M_F_59a2b7ee-1f71-451f-c45f-9bc8669a83a0]: Textual amendment: Reg. 20(3) substituted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2006/2190/article/10/4)
+
+[^c5243421]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

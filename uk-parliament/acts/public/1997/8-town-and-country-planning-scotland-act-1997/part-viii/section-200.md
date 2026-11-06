@@ -1,0 +1,44 @@
+---
+title: Town and Country Planning (Scotland) Act 1997, section 200
+act: Town and Country Planning (Scotland) Act 1997
+section: '200'
+status: revised-with-pending-changes
+text_date: '2026-09-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1997/8/section/200
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Town and Country Planning (Scotland) Act 1997, section 200
+
+> **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
+>
+> Extent: England, Wales, Scotland.
+
+## 200. Modification of incorporated enactments for purposes of this Part.
+
+*Extent: S*
+
+(1) Where it is proposed that land should be acquired compulsorily under section 189 or 190 and a compulsory purchase order relating to that land is submitted to the confirming authority in accordance with Part I of Schedule 1 to the [^c950204]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 or, as the case may be, is made in draft by the Secretary of State for the Environment in accordance with Part II of that Schedule, the confirming authority or the Secretary of State, as the case may be, may disregard for the purposes of that Schedule any objection to the order or draft which, in the opinion of that authority or Secretary of State, amounts in substance to an objection to the provisions of the development plan defining the proposed use of that or any other land.
+
+(2) Where a compulsory purchase order authorising the acquisition of any land under section 189 is submitted to the Secretary of State in accordance with Part I of Schedule 1 to the said Act of 1947, then if the Secretary of State—
+
+- (a) is satisfied that the order ought to be confirmed so far as it relates to part of the land comprised therein, but
+- (b) has not for the time being determined whether it ought to be confirmed so far as it relates to any other such land,
+
+he may confirm the order so far as it relates to the land mentioned in paragraph (a), and give directions postponing consideration of the order, so far as it relates to any other land specified in the directions, until such time as may be so specified.
+
+(3) Where the Secretary of State gives directions under subsection (2), the notices required by paragraph 6 of Schedule 1 to the said Act of 1947 to be published and served shall include a statement of the effect of the directions.
+
+(4) In construing the Lands Clauses Acts and section 6 of the [^c950205]Railways Clauses Consolidation (Scotland) Act 1845, as incorporated by virtue of paragraph 1 of Schedule 2 to the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947, in relation to any of the provisions of this Part—
+
+- (a) references to the execution of the works or to the construction of the railway shall be construed as including references to any erection, construction or carrying out of buildings or works authorised by section 196,
+- (b) in relation to the erection, construction or carrying out of any buildings or works so authorised, references in section 6 of the said Act of 1845 to the company shall be construed as references to the person by whom the buildings or works in question are erected, constructed or carried out, and
+- (c) references to the execution of the works shall be construed as including also references to any erection, construction or carrying out of buildings or works on behalf of a Minister or statutory undertakers on land acquired by that Minister or those undertakers, where the buildings or works are erected, constructed or carried out for the purposes for which the land was acquired.
+
+## Annotations
+
+[^c950204]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
+
+[^c950205]: Marginal citation: [1845 c. 33](https://www.legislation.gov.uk/ukpga/1845/33).

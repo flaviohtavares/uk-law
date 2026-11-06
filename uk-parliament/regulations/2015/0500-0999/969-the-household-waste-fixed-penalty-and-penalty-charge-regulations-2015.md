@@ -1,0 +1,261 @@
+---
+title: The Household Waste (Fixed Penalty and Penalty Charge) Regulations 2015
+id: uksi/2015/969
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-26'
+text_date: '2022-05-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/969
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/969/pdfs/uksiem_20150969_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/969/pdfs/uksi_20150969_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/969/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Household Waste (Fixed Penalty and Penalty Charge) Regulations 2015
+
+> Text as at 2022-05-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 969
+
+Environmental Protection, England
+
+London Government
+
+The Household Waste (Fixed Penalty and Penalty Charge) Regulations 2015
+
+Made
+
+26th March 2015
+
+Laid before Parliament
+
+27th March 2015
+
+Coming into force
+
+15th June 2015
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 46B(3) and (4) of the Environmental Protection Act 1990[^f00001] and sections 20B(4) and (5) and 20D(2) of the London Local Authorities Act 2007[^f00002].
+
+## 1. Citation, commencement and interpretation[^key-c7f3fefc278aeaec97a8ae6ea487c033]
+
+(1) These Regulations may be cited as the Household Waste (Fixed Penalty and Penalty Charge) Regulations 2015 and come into force on 15th June 2015.
+
+(2) In these Regulations—
+
+- “the 1990 Act” means the Environmental Protection Act 1990;
+- “the 2007 Act” means the London Local Authorities Act 2007.
+
+## 2. Prescribed range of fixed penalties and penalty charges[^key-db9f7adf6ce06ce0c32486bdb4d54396]
+
+(1) The amount of a monetary penalty capable of being specified by a waste collection authority under section 46B(1)(a) of the 1990 Act is not less than £60 and not more than £80.
+
+(2) The amount of a penalty charge capable of being set by the borough councils under section 20B(1) of the 2007 Act is not less than £60 and not more than £80.
+
+## 3. Lesser amounts of fixed penalties and penalty charges[^key-b626e30be951bb02e6ba4e34c8c536b8]
+
+(1) Where a waste collection authority acting under section 46B(2) of the 1990 Act makes provision for treating a fixed penalty as having been paid if a lesser amount is paid before the end of a period specified by that authority, such lesser amount must not be less than £40.
+
+(2) Where the borough councils acting under section 20B(3) of the 2007 Act make provision for treating a penalty charge as having been paid if a lesser amount is received by the relevant council before the end of a period specified by the borough councils, such lesser amount must not be less than £40.
+
+## 4. Appeals against a penalty charge[^key-698909a67da4f40b76c149c122610d0f]
+
+The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) Regulations 2022[^key-dcb7cddaf35c5abfe86aed1a4a5e425d] apply with the modifications specified in the Schedule in relation to appeals to an adjudicator against a decision under section 20A of the 2007 Act to require a person to pay a penalty charge.
+
+Dan Rogerson
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+26th March 2015
+
+## SCHEDULE — Modifications to the Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) Regulations 2022[^key-c54a5ffb5f7ec54cb88bc36785301426]
+
+Regulation 4
+
+### 1. Regulations 2 to 6[^key-8c98e0657ea4a75c6debaf71903363a9]
+
+Omit regulations 2 to 6.
+
+### 2. Regulation 7[^key-f2f64d4f035bded03167a4c5943ac3ef]
+
+For regulation 7, substitute—
+
+> **7. Appeals to an adjudicator**
+>
+> (1) Where a borough council serves a final notice under section 20C(5) of the London Local Authorities Act 2007, the person on whom the notice is served may appeal to an adjudicator against the decision to require payment of a penalty charge —
+>
+> - (a) before the end of the period of 28 days beginning with the date of service of the notice; or
+> - (b) within such longer period as an adjudicator may allow.
+>
+> (2) On an appeal under this regulation, the adjudicator, after considering any representations from the appellant and the borough council, may—
+>
+> - (a) withdraw or confirm the requirement to pay the penalty charge; and
+> - (b) give such directions to the borough council as are appropriate to give effect to that decision including, in a case where the requirement to pay the penalty charge is withdrawn, directions requiring—
+>   - (i) the cancellation of the final notice; and
+>   - (ii) the refund of such sum (if any) as may have been paid to the borough council in respect of the penalty charge.
+>
+> (3) The borough council must comply with any direction given to it under paragraph (2).
+>
+> (4) In the case of an unsuccessful appeal to an adjudicator, payment of the penalty charge must be made before the end of the period of 28 days beginning with the date on which notice of the adjudicator’s decision is served on the appellant.
+
+.
+
+### 3. Regulations 8 to 14[^key-8190acceb5b110595dc63c4498309c96]
+
+Omit regulations 8 to 14.
+
+### 4. Regulation 14[^key-07c8d42938d2f50aeb48aa953a25b92b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Regulation 15[^key-15ea0e32c36522c3a4e8e5022b5e191c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5A. Regulation 16[^key-2b0b2c9b2c5801ded7f90a9f8841bef8]
+
+For regulation 16 substitute—
+
+> **16. Recovery of sums payable**
+>
+> Any amount which is payable under an adjudicator’s decision is, if a county court so orders, recoverable by the person to whom the amount is payable as if it were payable under a county court order.
+
+.
+
+### 5B. Regulation 17
+
+In regulation 17, in paragraph (1), after “proper officer” insert “(within the meaning of paragraph 1(1) of Schedule 1)”.
+
+### 5C. Regulation 18
+
+In regulation 18(1)—
+
+- (a) omit “Part 2, 3 or 4, or”;
+- (b) after “appeal”, insert “under regulation 7(1)”.
+
+### 6. Schedule 1[^key-4ef6539bf0075dad9ea346400e05be27][^key-d093558e5116ae5350f28a61695458c8]
+
+(1) Schedule 1[^key-e4ba26c1553ddb2484b5d06d39a10f2d] is modified as follows.
+
+(2)[^key-bbe67f3dac5d08d5beb92524127dfc2b] In paragraph 1(1), at the appropriate places insert the following definitions—
+
+> - “**appeal**” means an appeal under regulation 7(1);
+
+;
+
+> - “**fax**” means the making of a facsimile copy of a document by the transmission of electronic signals;
+
+;
+
+> - “**proper officer**” means a member of the administrative staff provided under section 81(4)(a) of the Traffic Management Act 2004 who has been appointed to perform the functions of the proper officer under these Regulations;
+
+;
+
+> - “**register**” means the register required to be kept under regulation 17;
+
+.
+
+(3) In paragraph 1(2)—
+
+- (a) in the definition of “the enforcement authority”, for “the enforcement authority”, substitute “the borough council”;
+- (b) in the definition of “the original representations”, for “regulation 5(1), 8(5) or 11(3)[^key-0c26785348a489e865cfdf0216ff7355]” substitute “section 20C(3) of the London Local Authorities Act 2007”.
+
+(3A)[^key-8ea8fa2e40c4fd56b632a159fb23befb] In paragraph 2(2), for paragraph (b) substitute—
+
+> - (b) the name and address of the appellant;
+
+.
+
+(4)[^key-45cd577f4b6f5bab78f262b177cd1666] In paragraph 2(4), omit “, 10(2)(a) or 13(2)(a) (as the case may be)”.
+
+(5) In paragraph 3(3), for paragraphs (a) to (c), substitute—
+
+> - (a) the original representations; and
+> - (b) the relevant final notice.
+
+.
+
+(5A)[^key-9620364963d5c29e707cdf66629f16f6] Omit paragraph 2(8).
+
+(6) In paragraph 4(1), for “the matters referred to in regulation 5(2)(b), 8(5) or 11(3)[^key-66bb558c51dc5d022ff0ba78a809e341], as appropriate in the circumstances”, substitute “the decision under section 20A of the London Local Authorities Act 2007 to require the appellant to pay a penalty charge”.
+
+(7)[^key-aecbfcb710d857509cf9a2045f9c2eb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Omit Part 4.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43) (“the 1990 Act”) and the London Local Authorities Act 2007 (c. ii) (“the 2007 Act”) make provision for a waste collection authority or a London borough council to impose a penalty on any person who has failed to comply with a requirement for the collection of household waste where that failure has caused (or is or was likely to cause) a nuisance or has been (or is or was likely to be) detrimental to any amenities of the locality.
+
+Regulation 2 provides that the amount of the penalty specified by a waste collection authority under section 46B(1)(a) of the 1990 Act or by the London borough councils under section 20B(1) of the 2007 Act is to be within the range of £60 to £80.
+
+Under section 46B(2) of the 1990 Act a waste collection authority, and under section 20B(3) of the 2007 Act the London borough councils, may make provision for treating a penalty as having been paid if a lesser amount is paid before the end of a specified period. Regulation 3 provides that the lesser amount must not be less than £40.
+
+Regulation 4 provides for the Civil Enforcement of Parking Contraventions (England) Representations and Appeals Regulations 2007 ([S.I. 2007/3842](https://www.legislation.gov.uk/uksi/2007/3842)) to apply in relation to appeals against a penalty charge under the 2007 Act with the modifications specified in the Schedule to these Regulations.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen. An Explanatory Memorandum is available alongside the instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43); section 46B was inserted by section 58(3) of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^f00002]: Footnote: [2007 c. ii](https://www.legislation.gov.uk/ukla/2007/2); sections 20B and 20D were inserted by section 58(6) of, and paragraph 3 of Schedule 12 to, the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^key-c7f3fefc278aeaec97a8ae6ea487c033]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/969/regulation/1) in force at 15.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/969/regulation/1/1)
+
+[^key-db9f7adf6ce06ce0c32486bdb4d54396]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/969/regulation/2) in force at 15.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/969/regulation/1/1)
+
+[^key-b626e30be951bb02e6ba4e34c8c536b8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/969/regulation/3) in force at 15.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/969/regulation/1/1)
+
+[^key-698909a67da4f40b76c149c122610d0f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/969/regulation/4) in force at 15.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/969/regulation/1/1)
+
+[^key-dcb7cddaf35c5abfe86aed1a4a5e425d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/969/regulation/4) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/2)
+
+[^key-c54a5ffb5f7ec54cb88bc36785301426]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2015/969/schedule) heading substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/a)
+
+[^key-8c98e0657ea4a75c6debaf71903363a9]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/969/schedule/paragraph/1) in force at 15.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/969/regulation/1/1)
+
+[^key-f2f64d4f035bded03167a4c5943ac3ef]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/969/schedule/paragraph/2) in force at 15.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/969/regulation/1/1)
+
+[^key-8190acceb5b110595dc63c4498309c96]: Textual amendment: Sch. para. 3 substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/b)
+
+[^key-07c8d42938d2f50aeb48aa953a25b92b]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/969/schedule/paragraph/4) omitted (31.5.2022) by virtue of [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(c)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/c)
+
+[^key-15ea0e32c36522c3a4e8e5022b5e191c]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/969/schedule/paragraph/5) omitted (31.5.2022) by virtue of [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(c)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/c)
+
+[^key-2b0b2c9b2c5801ded7f90a9f8841bef8]: Textual amendment: [Sch. paras. 5A-5C](https://www.legislation.gov.uk/uksi/2015/969/schedule/paragraph/5A) inserted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(d)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/d)
+
+[^key-4ef6539bf0075dad9ea346400e05be27]: Commencement: Sch. para. 6 in force at 15.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/969/regulation/1/1)
+
+[^key-d093558e5116ae5350f28a61695458c8]: Textual amendment: Sch. para. 6 heading substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(e)(i)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/e/i)
+
+[^key-e4ba26c1553ddb2484b5d06d39a10f2d]: Textual amendment: Words in Sch. para. 6(1) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/e/ii)
+
+[^key-bbe67f3dac5d08d5beb92524127dfc2b]: Textual amendment: Sch. para. 6(2) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/e/iii)
+
+[^key-0c26785348a489e865cfdf0216ff7355]: Textual amendment: Words in Sch. para. 6(3) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(e)(iv)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/e/iv)
+
+[^key-8ea8fa2e40c4fd56b632a159fb23befb]: Textual amendment: Sch. para. 6(3A) inserted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(e)(v)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/e/v)
+
+[^key-45cd577f4b6f5bab78f262b177cd1666]: Textual amendment: Sch. para. 6(4) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(e)(vi)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/e/vi)
+
+[^key-9620364963d5c29e707cdf66629f16f6]: Textual amendment: Sch. para. 6(5A) inserted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(e)(vii)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/e/vii)
+
+[^key-66bb558c51dc5d022ff0ba78a809e341]: Textual amendment: Words in Sch. para. 6(6) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(e)(viii)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/e/viii)
+
+[^key-aecbfcb710d857509cf9a2045f9c2eb1]: Textual amendment: Sch. para. 6(7) omitted (31.5.2022) by virtue of [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4(3)(e)(ix)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4/3/e/ix)

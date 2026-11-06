@@ -1,0 +1,36 @@
+---
+title: The Ipswich Barrier Order 2012, section 49
+act: The Ipswich Barrier Order 2012
+section: '49'
+status: revised
+text_date: '2017-01-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2012/1867/section/49
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ipswich Barrier Order 2012, section 49
+
+> Text as at 2017-01-01.
+>
+> Extent: England, Wales, Scotland.
+
+## 49. Power to transfer undertaking[^key-33dce398e5b8b65919804f09c6fefd21]
+
+*Extent: E+W+S*
+
+(1) The Agency may, with the consent of the Secretary of State—
+
+- (a) transfer to another person (“the transferee”) its right to construct, maintain, use or operate the authorised works (or any part of them) and such related statutory rights as may be agreed between the Agency and the transferee; or
+- (b) grant to another person (“the lessee”) for a period agreed between the Agency and the lessee the right to construct, maintain, use or operate the authorised works (or any part of them) and such related statutory rights as may be so agreed.
+
+(2) Where an agreement has been made by virtue of paragraph (1) references in this Order to the Agency include references to the transferee or the lessee.
+
+(3) The exercise of the powers conferred by any enactment by any person in pursuance of any transfer or grant under paragraph (1) is subject to the same restrictions, liabilities and obligations as would apply under this Order if those powers were exercised by the Agency.
+
+(4) The Agency must not under this article transfer or lease any rights conferred by article 42 (byelaws).
+
+## Annotations
+
+[^key-33dce398e5b8b65919804f09c6fefd21]: Commencement: Art. 49 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

@@ -1,0 +1,464 @@
+---
+title: The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2025
+id: uksi/2025/1263
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-12-01'
+text_date: '2025-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2025/1263
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/1263/pdfs/uksiem_20251263_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/1263/pdfs/uksi_20251263_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/1263/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2025
+
+> Text as at 2025-12-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+This Statutory Instrument has been made in consequence of defects in [S.I. 2020/1087](https://www.legislation.gov.uk/uksi/2020/1087) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2025 No. 1263
+
+POLICE
+
+MINISTRY OF DEFENCE POLICE
+
+The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2025
+
+Made
+
+1st December 2025
+
+Laid before Parliament
+
+4th December 2025
+
+Coming into force
+
+29th December 2025
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 3A(1), (1A), (1B), (3), 4 and 4A of the Ministry of Defence Police Act 1987[^f00001].
+
+## Part 1 — Introductory
+
+### 1. Citation, commencement and extent[^key-3c32edf40fa61236fa94eab6172ec349]
+
+(1) These Regulations may be cited as the Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2025 and come into force on 29th December 2025.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+### 2. Interpretation[^key-022c92d2271d303da5d40de581f9ce8a]
+
+(1) In these Regulations—
+
+- “**the 2020 Regulations**” means the Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020[^f00002];
+- “**the Appeals Tribunals Regulations**” means the Regulations set out in Schedule 5 to the 2020 Regulations;
+- “**the Conduct Regulations**” means the Regulations set out in Schedule 1 to the 2020 Regulations;
+- “**the Performance Regulations**” means the Regulations set out in Schedule 4 to the 2020 Regulations.
+
+(2) Any reference in these Regulations to a numbered regulation is to the regulation set out in the paragraph so numbered in the relevant Schedule to the 2020 Regulations.
+
+## Part 2 — Amendment of the Conduct Regulations[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+**No longer in force.**
+
+### 3. Amendment of the Conduct Regulations[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Amendment to regulation 2 (interpretation and delegation)[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Amendment to regulation 3 (application)[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Amendment to regulation 8 (provision of notices or documents)[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Amendment to regulation 27 (persons conducting misconduct proceedings)[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Amendment to regulation 41 (outcome of misconduct proceedings)[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Amendment to regulation 49 (referral of case to accelerated misconduct hearing)[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Amendment to regulation 55 (persons conducting accelerated misconduct hearing)[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Amendment to regulation 61 (procedure at accelerated misconduct hearing)[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Amendment to regulation 62 (outcome of accelerated misconduct hearing)[^key-8e8be3b11430e00f67a3f277daf3d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — Amendment of Schedule 2 to the 2020 Regulations[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+**No longer in force.**
+
+### 13. Amendment of Schedule 2 to the 2020 Regulations[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Amendment to paragraph 2 (modification to regulation 2)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Amendment to paragraph 3 (modification: insertion of Part 1A)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Amendment to paragraph 5 (modification to regulation 7)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Amendment to paragraph 6 (modification to regulation 8)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Insertion of paragraphs 15A (modification: insertion of Part 3A) and 15B (modification: insertion of regulation 20G)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Substitution of paragraph 18 (modification to regulation 23)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Amendment to paragraph 22 (modification to regulation 27)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Amendment to paragraph 24 (modification to regulation 29)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Amendment to paragraph 32 (modification to regulation 37)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Insertion of paragraphs 39A and 39B[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Substitution of paragraph 41 (modification to regulation 49)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Amendment to paragraph 42 (modification to regulation 50)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Amendment to paragraph 43 (modification to regulation 51)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Amendment to paragraph 44 (modification to regulation 52)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Amendment to paragraph 46 (modification to regulation 54)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Amendment to paragraph 47 (modification to regulation 55)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Amendment to paragraph 48 (modification to regulation 56)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Amendment to paragraph 49 (modification to regulation 58)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32. Amendment to paragraph 50 (modification to regulation 61)[^key-28018918a020a6c4ad0f12bfc1d1a881]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 4 — Amendment of the Performance Regulations[^key-da952f65f15c6d4a4500a268c94296fa]
+
+**No longer in force.**
+
+### 33. Amendment of the Performance Regulations[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Amendment to regulation 3 (interpretation and delegation)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Amendment to regulation 5 (legal and other representation)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Amendment to regulation 6 (provision of notices or documents)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Amendment to regulation 7 (procedure at meetings)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38. Amendment to regulation 8 (nominated persons)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. Amendment to regulation 9 (reference to certain periods)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40. Amendment to regulation 10 (suspension of certain periods)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 41. Amendment to regulation 11 (meeting following investigation by the Director General)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 42. Amendment to regulation 12 (provision of information to the Director General)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 43. Amendment to regulation 13 (meeting following referral under the Conduct Regulations)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 44. Amendment to regulation 15 (arrangement of first stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 45. Amendment to regulation 16 (procedure at first stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 46. Amendment to regulation 17 (procedure following first stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47. Amendment to regulation 18 (appeal against the finding and outcome of a first stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 48. Amendment to regulation 19 (arrangement of first stage appeal meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 49. Amendment to regulation 20 (procedure at first stage appeal meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 50. Omission of Part 4 (second stage)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 51. Amendment to heading to Part 5 (third stage)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 52. Amendment to regulation 29 (assessment following second stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 53. Amendment to regulation 30 (arrangement of a third stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 54. Amendment to regulation 31 (circumstances in which a third stage meeting may be required without a prior first or second stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 55. Amendment to regulation 32 (arrangement of a third stage meeting without a prior first or second stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 56. Amendment to regulation 33 (appointment of panel members)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 57. Amendment to regulation 35 (procedure on receipt of notice of third stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 58. Amendment to regulation 36 (witnesses)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 59. Amendment to regulation 37 (timing and notice of third stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 60. Amendment to regulation 38 (postponement and adjournment of a third stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 61. Amendment to regulation 39 (participation of Director General and investigator at third stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 62. Amendment to regulation 40 (attendance of complainant or interested person at third stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 63. Amendment to regulation 41 (attendance of others at a third stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 64. Amendment to regulation 42 (exclusion from a third stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 65. Amendment to regulation 43 (procedure at a third stage meeting)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 66. Amendment to regulation 44 (finding)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 67. Amendment to regulation 45 (outcomes)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 68. Omission of regulation 46 (assessment of performance or attendance following third stage meeting where a written improvement notice has been issued)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 69. Amendment to regulation 47 (assessment of performance or attendance following third stage meeting where a final written improvement notice has been issued or extended)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 70. Amendment to regulation 48 (third stage meeting under regulation 47)[^key-da952f65f15c6d4a4500a268c94296fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 5 — Amendment of the Appeals Tribunals Regulations
+
+### 71. Amendment of the Appeals Tribunals Regulations[^key-40e37c4e20c036710299fcf4aed31067]
+
+The Appeals Tribunals Regulations are amended in accordance with regulations 72 to 74.
+
+### 72. Amendment to regulation 2 (interpretation and general provision as to written notices or documents)[^key-b298000d14feefbf1411a4f5773ef198]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 73. Amendment to regulation 4 (circumstances in which an MDP officer may appeal to a tribunal - Performance Regulations)[^key-79e3d0150a9f6cb3cf8f3a2c28851673]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 74. Amendment to regulation 6 (appointment and composition of police appeals tribunal)[^key-fe8bedc729532ea30eba992f222f6fb2]
+
+In regulation 6, for paragraph (4)(a) substitute—
+
+> - (a) one must be a person who is a legal member of the First-tier Tribunal under section 15(2) of the Tribunals (Scotland) Act 2014[^f00007],
+
+.
+
+## Part 6 — Transitional Provisions
+
+### 75. Interpretation of Part 6[^key-af4c4f32c2ad8ec784b3b2e94ea15363]
+
+In this Part—
+
+- [^key-aee7755425f53b3b5494fbb0b954026b]...
+- “**Head of HR**” means the head of HR for the MDP in the Ministry of Defence;
+- [^key-aee7755425f53b3b5494fbb0b954026b]...
+
+### 76. Transitional provisions: amendments to the Conduct Regulations[^key-2bb6820a29af96d2f7d27a540d1c263e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 77. Transitional provisions: amendments to the Performance Regulations and the Appeals Tribunals Regulations[^key-aed645bd011d7e88031f00d548d7bc02]
+
+(1)[^key-18bad78ee715a3425deed0f688607dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-18bad78ee715a3425deed0f688607dfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The amendment made by regulation 74 does not have effect in relation to an appointment made by the Head of HR under regulation 6(4) of the Appeals Tribunals Regulations before 29th December 2025.
+
+Vernon Coaker
+
+Minister of State
+
+Ministry of Defence
+
+1st December 2025
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 ([S.I. 2020/1087](https://www.legislation.gov.uk/uksi/2020/1087)) (“**the 2020 Regulations**”), primarily to align with changes made by the Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 ([S.I. 2025/558](https://www.legislation.gov.uk/uksi/2025/558)) to the disciplinary procedures that apply to members and former members of the territorial police forces in England and Wales and appeals from those procedures.
+
+Part 2 amends the Conduct Regulations set out in Schedule 1 to the 2020 Regulations. Regulation 4 makes various changes to the interpretative provisions, including to clarify that a conviction for an indictable-only offence will always amount to gross misconduct, and makes a minor change to the rules relating to the delegation of functions. Regulation 6 makes changes to enable written notices or documents to be sent by e-mail rather than by post. It also creates rules for deemed dates of service. Regulations 8 and 12 amend regulations 41 and 62 of the Conduct Regulations to require that disciplinary action is imposed in cases where misconduct or gross misconduct is found. They also provide that, where gross misconduct is found, the outcome must be dismissal without notice unless exceptional circumstances apply. Regulation 9 amends regulation 49 of the Conduct Regulations to allow a relevant authority to refer a case to an accelerated misconduct hearing even if it has not received a statement of the investigator’s belief that the special conditions are satisfied. Various errors within the Conduct Regulations are also corrected by regulations 5, 7, 8, 10, 11, and 12.
+
+Part 3 amends Schedule 2 to the 2020 Regulations (modifications to the Conduct Regulations in their application to former officers), mainly in consequence of amendments to the Conduct Regulations. Regulation 18 inserts a new Part 3A into the Conduct Regulations as modified, and introduces a presumption that a former police officer should be referred to an accelerated misconduct hearing rather than a misconduct hearing unless the officer opts for a misconduct hearing or the relevant authority determines that a misconduct hearing is necessary. Various other errors are corrected by regulations 14 to 16, 20 to 22, 26 and 29. The Ministry of Defence has produced a version of the Conduct Regulations as modified in respect of former officers which can be obtained from the Professional Standards Department of the Ministry of Defence Police by e-mailing MDP-PSD-GMB@mod.gov.uk or online at:
+
+https://www.gov.uk/government/publications/ministry-of-defence-police-conduct-performance-and-appeals-tribunals-regulations-2020.
+
+Part 4 amends the Performance Regulations as set out in Schedule 4 to the 2020 Regulations. Regulation 34 makes various changes to the interpretative provisions, including to introduce a definition of “appeal manager” and to remove the requirement that a “senior manager” be the supervisor of the second line manager of the officer concerned. Regulation 36 amends regulation 6 of the Performance Regulations and provides that written notices or documents may be sent by e-mail rather than by post. It also creates rules for deemed dates of service. Regulations 45 and 67 amend regulations 16 and 45 of the Performance Regulations respectively to provide that the officer concerned must demonstrate sufficient improvement for a default period of three months where they are issued with a written improvement notice. Regulation 47 amends regulation 18 of the Performance Regulations to provide that an appeal against the finding and outcome of a first stage meeting must be heard by an appeal manager rather than by the second line manager of the officer concerned. Regulation 50 omits Part 4 of the Performance Regulations and thereby reduces the previous three-stage system to a two-stage process. Regulation 56 amends regulation 33 of the Performance Regulations to provide that a panel chair may be a member of the Ministry of Defence Police or another police force who acts as a senior officer. Other changes are consequential on those set out above.
+
+Part 5 amends the Appeals Tribunals Regulations. These amendments are in consequence of the changes to the Performance Regulations and also include one change to the eligibility of those who can be selected as the chair of an appeal tribunal panel as a consequence of changes being made in Scotland (to abolish police appeal tribunals and move appeals to the Scottish Tribunals system).
+
+Part 6 makes transitional provision. It provides that the amendments made by Parts 2 to 5 do not have effect in relation to a matter that pre-dates the coming into force of these Regulations, or post-dates it but relates to a matter that is already being handled in accordance with the applicable conduct or performance regime. It also provides that the amendments made by Parts 2 and 3 have effect where the officer concerned has not already been given notice of their referral to misconduct proceedings or an accelerated misconduct hearing.
+
+Regulation 77 also contains provision to ensure that the change to the rules on giving notices or documents to an appellant under the Appeals Tribunals Regulations does not apply where notice of the appeal was given by an appellant before these Regulations come into force and the change to the rule relating to the appointment of the chair of a Police Appeals Tribunal panel does not affect cases where the chair was appointed before these Regulations come into force.
+
+A full impact assessment has not been prepared for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4). Section 3A was inserted by section 79(1) of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) and amended by paragraph 14 of Schedule 22 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) (“**the 2008 Act**”), section 6 of the Armed Forces Act [2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), and paragraph 2 of Schedule 7, and paragraph 63(2) of Schedule 9 to the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3) (“**the 2017 Act**”); section 4 was substituted by paragraph 15 of Schedule 22 to the 2008 Act, and amended by paragraph 3 of Schedule 7, and paragraph 63(3) of Schedule 9 to the 2017 Act; section 4A was substituted by paragraph 16 of Schedule 22 to the 2008 Act, and amended by paragraph 4 of Schedule 7 to the 2017 Act, and article 26 and paragraph 20(6) of Schedule 2 to the Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 ([S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602)).
+
+[^key-3c32edf40fa61236fa94eab6172ec349]: Commencement: Reg. 1 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/1/1)
+
+[^key-022c92d2271d303da5d40de581f9ce8a]: Commencement: Reg. 2 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 2020/1087](https://www.legislation.gov.uk/uksi/2020/1087), amended by [S.I. 2024/603](https://www.legislation.gov.uk/uksi/2024/603).
+
+[^key-8e8be3b11430e00f67a3f277daf3d89b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2025/1263/part/2) revoked (28.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1360)](https://www.legislation.gov.uk/uksi/2025/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/2/2)
+
+[^key-28018918a020a6c4ad0f12bfc1d1a881]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2025/1263/part/3) revoked (28.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1360)](https://www.legislation.gov.uk/uksi/2025/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/2/2)
+
+[^key-da952f65f15c6d4a4500a268c94296fa]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2025/1263/part/4) revoked (28.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1360)](https://www.legislation.gov.uk/uksi/2025/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/2/2)
+
+[^key-40e37c4e20c036710299fcf4aed31067]: Commencement: Reg. 71 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/1/1)
+
+[^key-b298000d14feefbf1411a4f5773ef198]: Textual amendment: [Reg. 72](https://www.legislation.gov.uk/uksi/2025/1263/regulation/72) revoked (28.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1360)](https://www.legislation.gov.uk/uksi/2025/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/2/3)
+
+[^key-79e3d0150a9f6cb3cf8f3a2c28851673]: Textual amendment: [Reg. 73](https://www.legislation.gov.uk/uksi/2025/1263/regulation/73) revoked (28.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1360)](https://www.legislation.gov.uk/uksi/2025/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/2/3)
+
+[^key-fe8bedc729532ea30eba992f222f6fb2]: Commencement: Reg. 74 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/1/1)
+
+[^f00007]: Footnote: [2014 asp. 10](https://www.legislation.gov.uk/asp/2014/10)
+
+[^key-af4c4f32c2ad8ec784b3b2e94ea15363]: Commencement: Reg. 75 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/1/1)
+
+[^key-aee7755425f53b3b5494fbb0b954026b]: Textual amendment: [Reg. 75](https://www.legislation.gov.uk/uksi/2025/1263/regulation/75) revoked except the definition “Head of HR” (28.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1360)](https://www.legislation.gov.uk/uksi/2025/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/2/4)
+
+[^key-2bb6820a29af96d2f7d27a540d1c263e]: Textual amendment: [Reg. 76](https://www.legislation.gov.uk/uksi/2025/1263/regulation/76) revoked (28.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1360)](https://www.legislation.gov.uk/uksi/2025/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/2/5)
+
+[^key-aed645bd011d7e88031f00d548d7bc02]: Commencement: Reg. 77 in force at 29.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/1/1)
+
+[^key-18bad78ee715a3425deed0f688607dfb]: Textual amendment: [Reg. 77(1)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/77/1)[(2)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/77/2) revoked (28.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1360)](https://www.legislation.gov.uk/uksi/2025/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2025/1360/regulation/2/5)

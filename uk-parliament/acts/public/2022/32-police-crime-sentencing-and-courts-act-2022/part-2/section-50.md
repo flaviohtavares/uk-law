@@ -1,0 +1,61 @@
+---
+title: Police, Crime, Sentencing and Courts Act 2022, section 50
+act: Police, Crime, Sentencing and Courts Act 2022
+section: '50'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2022/32/section/50
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police, Crime, Sentencing and Courts Act 2022, section 50
+
+> **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 50. Criminal damage to memorials: mode of trial[^key-6e0ed36c83a9eb2813e2983c5d75b070]
+
+*Extent: E+W*
+
+(1) In Schedule 2 to the Magistrates’ Courts Act 1980 (offences for which the value involved is relevant to the mode of trial), in paragraph 1 (offences under section 1 of the Criminal Damage Act 1971), in the first column, for the words from “any offence” to the end substitute
+
+> |  |
+> | --- |
+> | —<br>- (a) any offence committed by destroying or damaging property by fire, and<br>- (b) any offence committed by destroying or damaging a memorial (see section 22(11A) to (11D)). |
+
+(2) In section 22 of that Act, after subsection (11) insert—
+
+> (11A) In paragraph 1 of Schedule 2 “**memorial**” means—
+>
+> - (a) a building or other structure, or any other thing, erected or installed on land (or in or on any building or other structure on land), or
+> - (b) a garden or any other thing planted or grown on land,
+>
+> which has a commemorative purpose.
+>
+> (11B) For the purposes of that paragraph, any moveable thing (such as a bunch of flowers) which—
+>
+> - (a) is left in, on or at a memorial within the meaning of subsection (11A), and
+> - (b) has (or can reasonably be assumed to have) a commemorative purpose,
+>
+> is also to be regarded as a memorial.
+>
+> (11C) For the purposes of subsections (11A) and (11B)—
+>
+> - (a) references to a building or a structure include a reference to part of a building or part of a structure (as the case may be), and
+> - (b) something has a commemorative purpose if at least one of its purposes is to commemorate—
+>   - (i) one or more individuals or animals (or a particular description of individuals or animals), or
+>   - (ii) an event or a series of events (such as an armed conflict).
+>
+> (11D) It is immaterial for the purposes of subsection (11C)(b)(i) whether or not any individuals or animals concerned are or were (at any material time)—
+>
+> - (a) living or deceased, or
+> - (b) capable of being identified.
+
+(3) The amendments made by this section do not apply in relation to offences committed before it comes into force.
+
+## Annotations
+
+[^key-6e0ed36c83a9eb2813e2983c5d75b070]: Commencement: S. 50 in force at 28.6.2022, see [s. 208(5)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/c)

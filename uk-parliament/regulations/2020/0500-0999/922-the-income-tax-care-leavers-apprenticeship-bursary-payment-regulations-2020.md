@@ -1,0 +1,144 @@
+---
+title: The Income Tax (Care Leaver’s Apprenticeship Bursary Payment) Regulations 2020
+id: uksi/2020/922
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-09-03'
+text_date: '2023-08-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2020/922
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/922/pdfs/uksiem_20200922_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/922/pdfs/uksi_20200922_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/922/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Care Leaver’s Apprenticeship Bursary Payment) Regulations 2020
+
+> Text as at 2023-08-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2020 No. 922
+
+Income Tax
+
+The Income Tax (Care Leaver’s Apprenticeship Bursary Payment) Regulations 2020
+
+Made
+
+3rd September 2020
+
+Laid before the House of Commons
+
+7th September 2020
+
+Coming into force
+
+29th September 2020
+
+The Treasury, in exercise of the powers conferred by section 254A(2)(d), (3)(b) and (4) of the Income Tax (Earnings and Pensions) Act 2003[^f00001], makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-5966660e9e5ed3d82e4a2f6c5a435f53]
+
+(1) These Regulations may be cited as the Income Tax (Care Leaver’s Apprenticeship Bursary Payment) Regulations 2020 and come into force on 29th September 2020.
+
+(2) In these Regulations—
+
+- (a) “English statutory apprenticeship” has the meaning given in section 40A(3) of the Apprenticeships, Skills, Learning and Children Act 2009[^f00002].
+
+## 2. Definition of an apprentice[^key-393a4dd2a37e98798daf5bc0b339b03f]
+
+For the purposes of section 254A(4) of the Income Tax (Earning and Pensions) Act 2003 (apprentices) and these Regulations, “apprentice” means a person who is undertaking an English statutory apprenticeship.
+
+## 3. Definition of a care leaver[^key-ea1e3b105d5fc77d0aefa48fe9562624]
+
+The additional conditions specified for the purposes of section 254A(3)(b) of the Income Tax (Earnings and Pensions) Act 2003 (definition of a care leaver) are that the person—
+
+- (a) was under the age of 25 at the time when they began an English statutory apprenticeship [^f00003]; and
+- (b) is—
+  - (i) an eligible child as defined by Paragraph 19B(2) of Schedule 2 to the Children Act 1989[^f00004];
+  - (ii) a relevant child as defined by section 23A(2) of the Children Act 1989[^f00005]; or
+  - (iii) a former relevant child as defined by section 23C(1) of the Children Act 1989[^f00006].
+
+## 4. Care leaver’s apprenticeship bursary payment[^key-08dd2e9857993df07ec073bf9294b9d8]
+
+(1) The conditions specified for the purposes of section 254A(2)(d) of the Income Tax (Earnings and Pensions) Act 2003 (conditions specified in relation to the care leaver’s apprenticeship bursary payment) are that the payment is—
+
+- (a) made on or after 1st August 2023[^key-49952a4b60bf59f044835b64d87cd64c],
+- (b)[^key-29deaf95b5c66de0486802c4db9470ef] no more than £3,000,
+- (c) made to any one care leaver who is an apprentice undertaking an English statutory apprenticeship which began on or after 1st August 2023[^key-e6d2b2786d5d3e953431b40431808791], and
+- (d) payable by the Education and Skills Funding Agency, an executive agency of the Department for Education, in accordance with the document entitled “Apprenticeships care leavers’ bursary policy summary”, published on 23rd June 2020, as it has effect from time to time[^f00007].
+
+(1A)[^key-d4c4dd240f6bbe6cfa1aec9c66d9b3bb] Where the payment is made in instalments, the aggregate of those instalments must not exceed £3,000.
+
+(2) Reference in subsection (1) to the effect which the document “Apprenticeships care leavers’ bursary policy summary” has from time to time includes a reference to any amendment to that document published before the date on which these Regulations are made.
+
+James Morris
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+3rd September 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations specify conditions that must be met in order for a payment to fall within the definition of a “care leaver’s apprenticeship bursary payment” at section 254A(2) of the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) (ITEPA). These conditions are relevant for the purposes of establishing whether or not the income tax exemption at section 254A(1) of ITEPA will be applicable to certain payments that would otherwise be taxable as employment income. The Regulations also specify conditions that must be met for a person to be a “care leaver” for the purposes of section 254A(3)(b) of ITEPA. Finally, they specify the meaning of an “apprentice” for the purposes of section 254A(4) of ITEPA (and these Regulations).
+
+Section 254A of ITEPA was inserted by section 11 of the Finance Act [2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14). It introduced a new income tax exemption for certain bursary payments that are payable out of the public revenue to a care leaver and which are made in connection with that person’s employment as an apprentice. Corresponding provision to create a disregard of the payment for the purposes of National Insurance contributions will be made in a separate instrument ([S.I. 2020/923](https://www.legislation.gov.uk/uksi/2020/923)).
+
+Regulation 1 provides for citation and commencement, and for interpretation of the key term “English statutory apprenticeship” within these Regulations.
+
+Regulation 2 provides that an “apprentice”, for the purposes of the income tax exemption, is a person who is undertaking an English statutory apprenticeship.
+
+Regulation 3 provides that a “care leaver”, for the purposes of the income tax exemption, is a young person who was under the age of 25 at the time when they began an English statutory apprenticeship, and who falls within the definition of an “eligible child”, “a relevant child” or a “former relevant child” as defined by specified provisions of the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41).
+
+Regulation 4 provides that a payment falls within the terms of the income tax exemption where it is made by the Education and Skills Funding Agency (ESFA), which is an executive agency of the Department for Education. The payment must also be made in accordance with the terms of the “Apprenticeships care leavers’ bursary policy summary”, which is a document published by ESFA on 23rd June 2020 containing the key criteria for payment of the bursary.
+
+The care leaver’s apprenticeship bursary payment is a single payment of £1,000 made to apprentices who first started employment under an English statutory apprenticeship on or after 1st August 2018; and who are also individuals who are, or were previously, in the care of a local authority. Section 100(1A) of the Apprenticeship, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) allows the Secretary of State for Education to secure the provision of financial resources to any person for the purposes of encouraging the provision of opportunities for individuals to complete English statutory apprenticeships. Section 101 of the same Act allows the Secretary of State to set conditions on the provision of financial resources provided for this purpose.
+
+The tax exemption provided for by section 254A of ITEPA and these Regulations only applies to bursaries paid on or after 29th September 2020. Finally, only a single bursary payment can be made to any one apprentice.
+
+A Tax Information and Impact Note covering this instrument was published on 11th March 2020 and is available at https://www.gov.uk/government/publications/income-tax-and-national-insurance-exemptions-for-bursary-payments-to-care-leavers/income-tax-and-national-insurance-exemptions-for-bursary-payments-to-care-leavers. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Section 254A was inserted by section 11 of the Finance Act [2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), with effect in relation to the tax year 2020-21 and subsequent tax years.
+
+[^key-5966660e9e5ed3d82e4a2f6c5a435f53]: Commencement: Reg. 1 in force at 29.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/922/regulation/1/1)
+
+[^f00002]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22). Section 40A was inserted by section 26(1) of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12).
+
+[^key-393a4dd2a37e98798daf5bc0b339b03f]: Commencement: Reg. 2 in force at 29.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/922/regulation/1/1)
+
+[^key-ea1e3b105d5fc77d0aefa48fe9562624]: Commencement: Reg. 3 in force at 29.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/922/regulation/1/1)
+
+[^f00003]: Footnote: The minimum age for an apprentice undertaking an English statutory apprenticeship is 16 years old. The apprentice must start their apprenticeship after the last Friday in June of the academic year (1 August to 31 July) in which they have their 16th birthday in order to be eligible to undertake the apprenticeship.
+
+[^f00004]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00005]: Footnote: Section 23A was inserted by section 2(1) and (4) of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35). Section 23A(2)(a) was amended by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
+
+[^f00006]: Footnote: Section 23C was inserted by section 2(1) and (4) of the Children (Leaving Care) Act 2000.
+
+[^key-08dd2e9857993df07ec073bf9294b9d8]: Commencement: Reg. 4 in force at 29.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/922/regulation/1/1)
+
+[^key-49952a4b60bf59f044835b64d87cd64c]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2020/922/regulation/4/1/a) substituted (1.8.2023) by [The Income Tax (Care Leaver’s Apprenticeship Bursary Payment) (Amendment) Regulations 2023 (S.I. 2023/482)](https://www.legislation.gov.uk/uksi/2023/482), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/482/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/482/regulation/2/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/482/regulation/1/2))
+
+[^key-29deaf95b5c66de0486802c4db9470ef]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2020/922/regulation/4/1/b) substituted (1.8.2023) by [The Income Tax (Care Leaver’s Apprenticeship Bursary Payment) (Amendment) Regulations 2023 (S.I. 2023/482)](https://www.legislation.gov.uk/uksi/2023/482), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/482/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/482/regulation/2/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/482/regulation/1/2))
+
+[^key-e6d2b2786d5d3e953431b40431808791]: Textual amendment: Word in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2020/922/regulation/4/1/c) substituted (1.8.2023) by [The Income Tax (Care Leaver’s Apprenticeship Bursary Payment) (Amendment) Regulations 2023 (S.I. 2023/482)](https://www.legislation.gov.uk/uksi/2023/482), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/482/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/482/regulation/2/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/482/regulation/1/2))
+
+[^f00007]: Footnote: The document titled “Apprenticeships care leavers’ bursary policy summary” is available at https://www.gov.uk/government/publications/apprenticeships-bursary-for-care-leavers. Hard copies of this document can be obtained from the Education and Skills Funding Agency, Sanctuary Buildings, 20 Great Smith Street, London, SW1P 3BT.
+
+[^key-d4c4dd240f6bbe6cfa1aec9c66d9b3bb]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2020/922/regulation/4/1A) inserted (1.8.2023) by [The Income Tax (Care Leaver’s Apprenticeship Bursary Payment) (Amendment) Regulations 2023 (S.I. 2023/482)](https://www.legislation.gov.uk/uksi/2023/482), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/482/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/482/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/482/regulation/1/2))

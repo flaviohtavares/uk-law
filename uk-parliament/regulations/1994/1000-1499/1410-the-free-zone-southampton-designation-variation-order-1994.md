@@ -1,0 +1,65 @@
+---
+title: The Free Zone (Southampton) Designation (Variation) Order 1994
+id: uksi/1994/1410
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-05-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/1410
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/1410/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Free Zone (Southampton) Designation (Variation) Order 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 1410
+
+CUSTOMS AND EXCISE
+
+The Free Zone (Southampton) Designation (Variation) Order 1994
+
+Made
+
+24th May 1994
+
+Coming into force
+
+1st June 1994
+
+The Treasury, in exercise of the powers conferred on them by section 100A(4)(a)(ii) of the Customs and Excise Management Act 1979[^f00001] and of all other powers enabling them in that behalf, and with the agreement of Southampton Free Trade Zone Limited[^f00002], hereby make the following Order:
+
+**1.** This Order may be cited as the Free Zone (Southampton) Designaton (Variation) Order 1994 and shall come into force on 1st June 1994.
+
+**2.** The area designated a free zone by the Free Zone (Southampton) Designation Order 1991[^f00003] shall be varied so as to consist of the area of 5.495 acres in the City of Southampton, Hampshire, shown enclosed by a red line on a map (being of a scale of 1:2500), marked “Map referred to in article 2 of the Free Zone (Southampton) Designation (Variation) Order 1994”, signed by a Collector of Customs and Excise and dated 10th February 1994.
+
+**3.** The map referred to in article 2 above shall be kept by the Commissioners at their Headquarters, New King’s Beam House, 22 Upper Ground, London SE1 9PJ (and a copy thereof at the offices of Southampton Free Trade Zone Limited) in substitution for the map referred to in article 2 of the Free Zone (Southampton) Designation Order 1991.
+
+Timothy Kirkhope
+
+Andrew MacKay
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+24th May 1994
+
+(This note is not part of the Order)
+
+This Order varies the area designated a free zone by the Free Zone (Southampton) Designation Order 1991 by reducing it from 6.8 acres to 5.495 acres. The reduction of 1.305 acres is effected by the movement of the eastern boundary of the zone some 220 feet in a westerly direction.
+
+Southampton Free Zone is situated at berth 102 Southampton Docks on the north bank of Southampton Water adjacent to the Windward terminal. Access to the zone is through dock gate 10 and then via Solent Road.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 100A was introduced by section 8 of and Schedule 4 to the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43).
+
+[^f00002]: Footnote: Southampton Free Trade Zone Limited was appointed the responsible authority by article 3 of the Free Zone (Southampton) Designation Order 1991 (S.I. [1991/1740](https://www.legislation.gov.uk/uksi/1991/1740)).
+
+[^f00003]: Footnote: S.I. [1991/1740](https://www.legislation.gov.uk/uksi/1991/1740).

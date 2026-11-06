@@ -1,0 +1,118 @@
+---
+title: The General Dental Council (Professions Complementary to Dentistry) (Qualifications and Supervision of Dental Work) Rules Order of Council 2006
+id: uksi/2006/1669
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-06-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/1669
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/1669/pdfs/uksi_20061669_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/1669/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The General Dental Council (Professions Complementary to Dentistry) (Qualifications and Supervision of Dental Work) Rules Order of Council 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 1669
+
+HEALTH CARE AND ASSOCIATED PROFESSIONS
+
+PROFESSIONS COMPLEMENTARY TO DENTISTRY
+
+The General Dental Council (Professions Complementary to Dentistry) (Qualifications and Supervision of Dental Work) Rules Order of Council 2006
+
+Made
+
+23rd June 2006
+
+Coming into force
+
+31st July 2006
+
+At the Council Chamber, Whitehall, the 23rd day of June 2006
+
+By the Lords of Her Majesty’s Most Honourable Privy Council
+
+The General Dental Council have made the General Dental Council (Professions Complementary to Dentistry) (Qualifications and Supervision of Dental Work) Rules 2006 as set out in the Schedule to this Order.
+
+In accordance with section 50C(2) and (3) of the Dentists Act 1984[^f00001] such Rules shall not come into force until approved by order of the Privy Council.
+
+Having considered the Rules, their Lordships approve them.
+
+This Order may be cited as the General Dental Council (Professions Complementary to Dentistry) (Qualifications and Supervision of Dental Work) Rules Order of Council 2006 and shall come into force on 31st July 2006.
+
+A K Galloway
+
+Clerk of the Privy Council
+
+## SCHEDULE — The General Dental Council (Professions Complementary to Dentistry) (Qualifications and Supervision of Dental Work) Rules 2006
+
+The General Dental Council make the following Rules in exercise of their powers conferred under section 36D(5), 37(2)(b) and 50C(6) of the Dentists Act 1984[^f00002].
+
+### 1. Citation, commencement and interpretation
+
+(1) These Rules may be cited as the General Dental Council (Professions Complementary to Dentistry) (Qualifications and Supervision of Dental Work) Rules 2006 and shall come into force on 31st July 2006.
+
+(2) In these Rules, “the Act” means the Dentists Act 1984.
+
+### 2. Withdrawal of approval of qualifications
+
+The Council may withdraw approval of a qualification given in relation to a particular profession complementary to dentistry under section 36D(2) of the Act where they consider that—
+
+- (a) the content or standard (or both) of a course of education or training leading to the grant of that qualification is no longer such as to impart the knowledge and skills necessary for a person undertaking that course to obtain the standard of proficiency determined by the Council in relation to that profession under section 36D(1)(a) of the Act; or
+- (b) an examination (or other form of assessment) leading to the grant of that qualification is no longer such as to ensure possession of that standard of proficiency.
+
+### 3. Procedure in relation to a decision to withdraw approval
+
+(1) Before making any decision to withdraw approval of a qualification granted, or to be granted, by an establishment as mentioned in rule 2, the Council shall take into account any observations received from that establishment in accordance with rule 3(1)(b) of the General Dental Council (Professions Complementary to Dentistry) (Visitors) Rules 2006[^f00003].
+
+(2) Where the Council decide to withdraw approval they shall notify the establishment concerned, and the withdrawal shall take effect from the date on which the notification was sent or from such later date as the Council may specify in the notification.
+
+### 4. Effect of withdrawal of approval
+
+(1) Where approval of a qualification has been withdrawn as mentioned in rule 2, the Council shall use their best endeavours to secure that any person who is studying for that qualification at the time when approval is withdrawn is given the opportunity to study for a qualification approved under section 36D(2) of the Act.
+
+(2) Where, before the date on which the withdrawal of approval of a qualification had effect in accordance with rule 3(2), a person was awarded that qualification, that withdrawal shall not affect the entitlement of that person to be registered in the dental care professionals register by virtue of that qualification.
+
+### 5. Supervision of dental work
+
+The registered dental care professionals authorised to carry out supervision of dental work for the purposes of section 37(2) of the Act (definition of practice of dentistry) are those who are registered in the dental care professionals register under the titles which apply to the professions pursued by—
+
+- (a) clinical dental technicians;
+- (b) dental hygienists;
+- (c) dental nurses;
+- (d) dental technicians;
+- (e) dental therapists; and
+- (f) orthodontic therapists.
+
+Given under the official seal of the General Dental Council on 15th June 2006.
+
+Hew Byrne Mathewson
+
+President
+
+Duncan Rudkin
+
+Registrar
+
+(This note is not part of the Order)
+
+This Order, which is made under the Dentists Act 1984 (“the Act”), approves Rules made by the General Dental Council specifying circumstances in which that Council may withdraw their approval of qualifications in professions complementary to dentistry. The Rules make provision regarding the procedure in relation to, and the effect of, a decision to withdraw approval.
+
+The Rules also specify registered dental care professionals who are authorised to carry out direct personal supervision of certain kinds of dental work under section 37 of the Act. Dental work of a kind specified in section 37(2A) and (2B) of the Act undertaken under the supervision of a registered dental care professional specified in the Rules is not treated as amounting to the practice of dentistry for the purposes of the Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24); section 50C was inserted by S.I. [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
+
+[^f00002]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24). Section 36D was inserted by S.I. [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and section 37 was amended by S.I. [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).
+
+[^f00003]: Footnote: These Rules were made on 15th June 2006 and are available from the General Dental Council at 37 Wimpole Street, London W1G 8DQ.

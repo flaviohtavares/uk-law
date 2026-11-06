@@ -1,0 +1,790 @@
+---
+title: The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2014
+id: uksi/2014/531
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-03-06'
+text_date: '2015-05-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/531
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/531/pdfs/uksiem_20140531_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/531/pdfs/uksi_20140531_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/531/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2014
+
+> Text as at 2015-05-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 531
+
+Government Resources And Accounts
+
+The Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2014
+
+Made
+
+6th March 2014
+
+Laid before Parliament
+
+10th March 2014
+
+Coming into force
+
+1st April 2014
+
+The Treasury make the following Order in exercise of the powers conferred by section 4A(3) and (4) of the Government Resources and Accounts Act 2000[^f00001].
+
+In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
+
+## 1. Citation and commencement[^key-5d87bd67dbb5321f06e7eea65630905c]
+
+(1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2014.
+
+(2) This Order comes into force on 1st April 2014.
+
+## 2. Designations[^key-e4f34cfdbef3999ebb9107094f675ea7]
+
+A body listed in column 2 of a table in the Schedule is a designated body in relation to the department named in column 1 of that table for the financial year which ends on 31st March 2015.
+
+Mark Lancaster
+
+Anne Milton
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+6th March 2014
+
+## SCHEDULE — Designated Bodies[^key-f3e39d6e40cf18a7b3441352fce91056]
+
+Article 2
+
+Table 1
+
+Department for Education
+
+| Department | Designated body |
+| --- | --- |
+| Department for Education | Academies (as established under section 1 of the Academies Act 2010[^f00002]) |
+|  | Children’s Commissioner |
+|  | School Teachers’ Review Body |
+|  | Social Mobility and Child Poverty Commission |
+
+Table 2
+
+Department of Health
+
+| Department | Designated body |
+| --- | --- |
+| Department of Health | Administration of Radioactive Substances Advisory Committee |
+|  | Advisory Committee on Antimicrobial Resistance and Healthcare Associated Infection |
+|  | Advisory Committee on Clinical Excellence Awards |
+|  | Advisory Committee on Dangerous Pathogens |
+|  | Advisory Group on Hepatitis |
+|  | Care Quality Commission |
+|  | Charitable trusts the trustees of which are an NHS Foundation Trust (as established under section 30 of the National Health Service Act 2006[^f00003]) |
+|  | Charitable trusts the trustees of which are appointed for NHS Foundation Trusts in pursuance of an order under section 51 of the National Health Service Act 2006 |
+|  | Clinical commissioning groups (as established under section 14D of the National Health Service Act 2006[^f00004]) |
+|  | Committee on Carcinogenicity of Chemicals in Food, Consumer Products and the Environment |
+|  | Committee on the Medical Aspects of Radiation in the Environment |
+|  | Committee on the Medical Effects of Air Pollutants |
+|  | Committee on the Mutagenicity of Chemicals in Food, Consumer Products and the Environment |
+|  | Community Health Partnerships Ltd |
+|  | Emerging Science and Bioethics Commission |
+|  | English NHS charities as defined by section 149(7)(ba) to (e) of the Charities Act 2011[^f00005] |
+|  | Expert Advisory Group on AIDS |
+|  | Genomics England Limited |
+|  | The Health and Social Care Information Centre |
+|  | Health Education England |
+|  | Health Research Authority |
+|  | Healthwatch England |
+|  | Human Fertilisation and Embryology Authority |
+|  | Human Tissue Authority |
+|  | Independent Reconfiguration Panel |
+|  | Joint Committee on Vaccination and Immunisation |
+|  | Monitor |
+|  | The National Health Service Commissioning Board |
+|  | National Health Service Trust Development Authority |
+|  | National Institute for Health and Care Excellence |
+|  | NHS Business Services Authority |
+|  | NHS Foundation Trusts (as established under section 30 of the National Health Service Act 2006) |
+|  | NHS Litigation Authority |
+|  | NHS Medical Assets England Ltd[^key-85d094bf7a7e5438568bb264a970c4e0] |
+|  | The NHS Pay Review Body |
+|  | NHS Property Services Ltd |
+|  | NHS Trusts (as established under section 25 of the National Health Service Act 2006) |
+|  | Porton Biopharma Ltd |
+|  | Professional Standards Authority for Health and Social Care |
+|  | Review Body on Doctors’ and Dentists’ Remuneration |
+|  | Scientific Advisory Committee on Nutrition |
+|  | Skipton Fund Ltd |
+
+Table 3
+
+Food Standards Agency
+
+| Department | Designated body |
+| --- | --- |
+| Food Standards Agency | Advisory Committee on Animal Feedingstuffs |
+|  | Advisory Committee on Novel Foods and Processes |
+|  | Advisory Committee on the Microbiological Safety of Food |
+|  | Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment |
+|  | General Advisory Committee on Science |
+|  | Social Science Research Committee |
+
+Table 4
+
+Department for Transport
+
+| Department | Designated body |
+| --- | --- |
+| Department for Transport | Air Safety Support International Ltd |
+|  | Air Travel Trust |
+|  | British Transport Police Authority |
+|  | The Commissioners of Irish Lights |
+|  | The Commissioners of Northern Lighthouses |
+|  | CTRL Section 1 Finance Plc |
+|  | Directly Operated Railways |
+|  | Disabled Persons Transport Advisory Committee |
+|  | High Speed Two (HS2) Limited |
+|  | LCR Finance Plc |
+|  | [^key-a433e6dc28461cfd9d4e3c020676df57]. . . |
+|  | Passenger Focus |
+|  | Railway Heritage Committee |
+|  | Trinity House Lighthouse Service |
+
+Table 5
+
+Department for Communities and Local Government
+
+| Department | Designated body |
+| --- | --- |
+| Department for Communities and Local | AWM (Subsidiary) Ltd |
+| Government | Building Regulations Advisory Committee |
+|  | Commission for Local Administration in England |
+|  | emEP Limited |
+|  | English Partnerships (LP) Limited |
+|  | The Estuary Management Company Ltd |
+|  | Homes and Communities Agency |
+|  | The Housing Ombudsman |
+|  | The Leasehold Advisory Service |
+|  | NorwePP (NWDA Subsidiary) Limited |
+|  | ONE NorthEast General Partner Limited |
+|  | Valuation Tribunal for England |
+|  | Valuation Tribunal Service |
+|  | West Northamptonshire Development Corporation |
+
+Table 6
+
+Department for Business, Innovation and Skills
+
+| Department | Designated body |
+| --- | --- |
+| Department for Business, Innovation and Skills | Advisory, Conciliation and Arbitration Service |
+|  | AEA Insurance Ltd |
+|  | The Arts and Humanities Research Council |
+|  | Aviva Investors Realm Energy Centres Limited Partnership |
+|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | The Biotechnology and Biological Sciences Research Council |
+|  | BIS (Postal Services Act 2011) B Company Limited |
+|  | BIS (Postal Services Act 2011) Company Limited |
+|  | British Business Aspire Holdings Ltd[^key-129980c27945f00fffec153f345e27c1] |
+|  | British Business Bank plc |
+|  | British Business Finance Ltd |
+|  | British Business Financial Services Ltd |
+|  | British Business HoldCo Ltd |
+|  | British Business Investments Ltd |
+|  | British Hallmarking Council |
+|  | Capital for Enterprise (GP) Limited |
+|  | Capital for Enterprise Fund Managers Limited |
+|  | Capital for Enterprise Limited |
+|  | Central Arbitration Committee |
+|  | Certification Office for Trade Union and Employers’ Associations[^key-534c4fbbbd3a9171547d7706aad031ff] |
+|  | [^key-f2fa05ab58779b4698a0d520f181f11e]. . . |
+|  | Competition Appeal Tribunal |
+|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | Competition Service |
+|  | The Construction Industry Training Board (established under the Industrial Training Act 1964[^f00006]) |
+|  | The Copyright Tribunal |
+|  | Council for Science and Technology |
+|  | Daresbury Science and Innovation Campus Limited Liability Partnership (Sci-Tech Daresbury) |
+|  | Daresbury Science and Innovation Campus Public Sector Limited Liability Partnership |
+|  | Diamond Light Source Limited |
+|  | Office for Fair Access[^key-a34e8604c3975e6eb13758773fd9ceb5] |
+|  | The Economic and Social Research Council |
+|  | Energy Saving Investments L.P. |
+|  | The Engineering and Physical Sciences Research Council |
+|  | Engineering Construction Industry Training Board |
+|  | Enrichment Holdings Ltd. |
+|  | Enrichment Investments Limited |
+|  | Film Industry Training Board for England and Wales |
+|  | The Financial Reporting Council Limited |
+|  | Groceries Code Adjudicator |
+|  | Harwell Science and Innovation Campus Public Sector Limited Partnership |
+|  | Hermes Factory Outlets GP Limited |
+|  | Higher Education Funding Council for England |
+|  | Industrial Development Advisory Board |
+|  | Insolvency Practitioners Tribunal |
+|  | JISC |
+|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | Low Pay Commission |
+|  | Medical Research Council |
+|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | The Natural Environment Research Council |
+|  | The NESTA Trust |
+|  | NPL Management Limited |
+|  | NW VCLF HF LLP |
+|  | Office of Manpower Economics |
+|  | [^key-2919aed1e03b748fcba63b7b61369312]. . . |
+|  | Postal Services Holding Company Limited[^key-5a33e44311d2d01665f30fbdbcf8a14c] |
+|  | RCUK Shared Services Centre Limited |
+|  | Regulatory Policy Committee |
+|  | The Science and Technology Facilities Council |
+|  | STFC Innovations Limited |
+|  | Student Loans Company Limited |
+|  | Talke General Partner Limited |
+|  | The Technology Strategy Board |
+|  | UK Commission for Employment and Skills |
+|  | UK Energy Efficiency Investments 1 L.P. |
+|  | UK GIB 1 Limited |
+|  | UK[^key-ba4b12df878030b8d2ca7ef18018edc2] Green Investment Community Lending Limited |
+|  | UK GIB 3 Limited |
+|  | UK GIB Financial Services Limited |
+|  | UK GIB Rhyl Flats Investment Limited |
+|  | UK Green Community Lending Ltd |
+|  | UK Green Investment Bank plc |
+|  | UK Green Sustainable Waste and Energy Investments L.P. |
+|  | UK Shared Business Services Limited |
+|  | UK Waste Resources and Energy Investments L.P. |
+|  | United Kingdom Atomic Energy Authority |
+|  | Wave Hub Limited |
+
+Table 7
+
+Export Credits Guarantee Department
+
+| Department | Designated body |
+| --- | --- |
+| Export Credits Guarantee Department | Export Guarantees Advisory Council |
+
+Table 8
+
+Home Office
+
+| Department | Designated body |
+| --- | --- |
+| Home Office | The Advisory Council on the Misuse of Drugs |
+|  | Animals in Science Committee |
+|  | College of Policing |
+|  | [^key-097f1b397ab43ba8613dc50335b96f8c]. . . |
+|  | Gangmasters Licensing Authority[^key-1a5341c0ba1711dc636e19ec03424b43] |
+|  | Her Majesty’s Inspectorate of Constabulary |
+|  | Independent Chief Inspector of Borders and Immigration |
+|  | Independent Police Complaints Commission |
+|  | Investigatory Powers Tribunal |
+|  | Migration Advisory Committee |
+|  | National DNA Database Ethics Group |
+|  | Office of Surveillance Commissioners |
+|  | Office of the Immigration Services Commissioner |
+|  | Police Advisory Board for England and Wales |
+|  | Police Arbitration Tribunal |
+|  | Police Discipline Appeals Tribunal |
+|  | Police Negotiating Board |
+|  | Security Industry Authority |
+|  | Technical Advisory Board |
+
+Table 9
+
+Ministry of Justice
+
+| Department | Designated body |
+| --- | --- |
+| Ministry of Justice | Advisory Committees on Justices of the Peace in England and Wales |
+|  | Advisory Council on National Records and Archives |
+|  | Advisory Panel on Public Sector Information |
+|  | Assessor of Compensation for Miscarriages of Justice |
+|  | The Bedfordshire, Northamptonshire, Cambridgeshire and Hertfordshire Community Rehabilitation Company Limited[^key-92e11e79b0825c57b229b5713ef472f2] |
+|  | The Bristol, Gloucestershire, Somerset and Wiltshire Community Rehabilitation Company Limited |
+|  | The Cheshire and Greater Manchester Community Rehabilitation Company Limited |
+|  | Chief Coroner’s Office |
+|  | Children and Family Court Advisory and Support Service |
+|  | Civil Justice Council |
+|  | Civil Procedure Rule Committee |
+|  | Court Funds Office |
+|  | Criminal Cases Review Commission |
+|  | [^key-ce5472a8a1d372a16e91d98b3e9e4a30]. . . |
+|  | Criminal Procedure Rule Committee |
+|  | The Cumbria and Lancashire Community Rehabilitation Company Limited |
+|  | The Derbyshire, Leicestershire, Nottinghamshire and Rutland Community Rehabilitation Company Limited |
+|  | The Dorset, Devon and Cornwall Community Rehabilitation Company Limited |
+|  | The Durham Tees Valley Community Rehabilitation Company Limited |
+|  | The Essex Community Rehabilitation Company Limited |
+|  | Family Justice Council |
+|  | Family Procedure Rule Committee |
+|  | The Hampshire and Isle of Wight Community Rehabilitation Company Limited |
+|  | The Humberside, Lincolnshire and North Yorkshire Community Rehabilitation Company Limited |
+|  | Independent Advisory Panel on Deaths in Custody |
+|  | Independent Monitoring Boards of Prisons, Immigration Removal Centres and Short Term Holding Facilities |
+|  | Independent Restraint Advisory Panel |
+|  | Judicial Appointments and Conduct Ombudsman |
+|  | Judicial Appointments Commission |
+|  | Judicial College |
+|  | Judicial Communications Office |
+|  | Judicial Conduct and Investigations Office |
+|  | Judicial Office |
+|  | The Kent, Surrey and Sussex Community Rehabilitation Company Limited |
+|  | Law Commission |
+|  | Legal Services Board |
+|  | The London Community Rehabilitation Company Limited |
+|  | The Merseyside Community Rehabilitation Company Limited |
+|  | The Norfolk and Suffolk Community Rehabilitation Company Limited |
+|  | The Northumbria Community Rehabilitation Company Limited |
+|  | [^key-ce5472a8a1d372a16e91d98b3e9e4a30]. . . |
+|  | Office for Legal Complaints |
+|  | Office of HM Inspectorate of Prisons |
+|  | Office of HM Inspectorate of Probation |
+|  | Office of the Accountant General |
+|  | Office of the Information Commissioner |
+|  | Office of the Judge Advocate General |
+|  | Office of the Official Solicitor |
+|  | [^key-ce5472a8a1d372a16e91d98b3e9e4a30]. . . |
+|  | Parole Board for England and Wales |
+|  | Prison Service Pay Review Body |
+|  | Office of the Prisons and Probation Ombudsman for England and Wales[^key-b08c5074bb188ce2cc141fd631d0f1d8] |
+|  | Probation Trusts (as established under section 5 of the Offender Management Act 2007[^f00007]) |
+|  | Public Trustee |
+|  | Sentencing Council for England and Wales |
+|  | The South Yorkshire Community Rehabilitation Company Limited |
+|  | The Staffordshire and West Midlands Community Rehabilitation Company Limited |
+|  | The Thames Valley Community Rehabilitation Company Limited |
+|  | Tribunal Procedure Committee |
+|  | Victims’ Commissioner |
+|  | The Wales Community Rehabilitation Company Limited |
+|  | The Warwickshire and West Mercia Community Rehabilitation Company Limited |
+|  | The West Yorkshire Community Rehabilitation Company Limited |
+|  | Youth Justice Board for England and Wales |
+
+Table 10
+
+Ministry of Defence
+
+| Department | Designated body |
+| --- | --- |
+| Ministry of Defence | Advisory Committee on Conscientious Objectors |
+|  | Advisory Group on Military Medicine |
+|  | Armed Forces Pay Review Body |
+|  | Central Advisory Committee on Pensions and Compensation |
+|  | Commonwealth War Graves Commission |
+|  | Defence Nuclear Safety Committee |
+|  | Defence Scientific Advisory Council |
+|  | Independent Monitoring Board for the Military Corrective Training Centre (MCTC) Colchester |
+|  | National Army Museum |
+|  | National Employer Advisory Board |
+|  | National Museum of the Royal Navy |
+|  | Nuclear Research Advisory Council |
+|  | Review Board for Government Contracts |
+|  | Royal Air Force Museum |
+|  | Royal Hospital Chelsea |
+|  | Science Advisory Committee on the Medical Implications of Less-Lethal Weapons |
+|  | Single Source Regulations Office[^key-cd4d388d95136b035c08cd2078d4908b] |
+|  | Territorial, auxiliary and volunteer reserve associations established under section 110 of the Reserve Act 1996[^f00008] |
+|  | War Pensions Committees |
+
+Table 11
+
+Foreign and Commonwealth Office
+
+| Department | Designated body |
+| --- | --- |
+| Foreign and Commonwealth Office | The Great Britain-China Centre |
+|  | Marshall Aid Commemoration Commission |
+|  | The UK China Forum |
+|  | The Westminster Foundation for Democracy Limited |
+
+Table 12
+
+Department for International Development
+
+| Department | Designated body |
+| --- | --- |
+| Department for International Development | Commonwealth Scholarship Commission in the United Kingdom |
+|  | The Independent Commission for Aid Impact |
+
+Table 13
+
+Department of Energy and Climate Change
+
+| Department | Designated body |
+| --- | --- |
+| Department of Energy and Climate Change | Civil Nuclear Police Authority |
+|  | Coal Authority |
+|  | Committee on Climate Change |
+|  | Committee on Radioactive Waste Management |
+|  | Dounreay Site Restoration Limited |
+|  | Electricity Settlements Company Ltd[^key-133aabc9fce36e7be75f08a427ed99c9] |
+|  | Fuel Poverty Advisory Group |
+|  | LLW Repository Limited |
+|  | Low Carbon Contracts Company Ltd |
+|  | Magnox Limited |
+|  | NDA Archives Limited |
+|  | Nuclear Decommissioning Authority |
+|  | Nuclear Liabilities Financing Assurance Board |
+|  | Radioactive Waste Management Limited |
+|  | Research Sites Restoration Limited |
+|  | Sellafield Limited |
+
+Table 14
+
+Department for Environment, Food and Rural Affairs
+
+| Department | Designated body |
+| --- | --- |
+| Department for Environment, Food and Rural | Advisory Committee on Pesticides |
+| Affairs | Advisory Committee on Releases to the Environment |
+|  | Agriculture and Horticulture Development Board |
+|  | Consumer Council for Water |
+|  | Environment Agency |
+|  | Forestry Commission |
+|  | [^key-653860ce49a2bc3deaa8b3a808bdefd4]. . . |
+|  | Independent Agricultural Appeals Panel |
+|  | Joint Nature Conservation Committee |
+|  | Marine Management Organisation |
+|  | Meat and Livestock Commercial Services Limited |
+|  | National Forest Company |
+|  | Natural England |
+|  | RBG Kew Enterprises Limited |
+|  | Royal Botanic Gardens, Kew |
+|  | Science Advisory Council |
+|  | Sea Fish Industry Authority |
+|  | Sutton Bridge Experimental Unit Limited |
+|  | Veterinary Products Committee |
+
+Table 15
+
+Department for Culture, Media and Sport
+
+| Department | Designated body |
+| --- | --- |
+| Department for Culture, Media and Sport | Advisory Committee on the Government Art Collection |
+|  | Arts Council of England |
+|  | Arts Council of England Lottery |
+|  | BBC |
+|  | BBC Free to View (Satellite) Ltd |
+|  | BBC Free to View Ltd |
+|  | BBC Investments Ltd |
+|  | BBC News Ltd |
+|  | BBC Property Development Ltd |
+|  | BBC Property Investment Ltd |
+|  | BBC Property Ltd |
+|  | BBC World Service |
+|  | BIG Lottery Fund |
+|  | British Film Institute |
+|  | British Film Institute Lottery |
+|  | British Library |
+|  | British Museum |
+|  | British Tourist Authority |
+|  | [^key-efd8fd58d27304731bb3994fd862e528]. . . |
+|  | Churches Conservation Trust |
+|  | Commission for Equality and Human Rights |
+|  | The Commonwealth Broadcasting Association |
+|  | [^key-efd8fd58d27304731bb3994fd862e528]. . . |
+|  | DSHS Ltd<br>DTT Multiplex Operators Ltd |
+|  | DTV Services |
+|  | The English Institute of Sport Limited |
+|  | The English Sports Council |
+|  | The English Sports Council Lottery |
+|  | English Sports Development Trust Limited[^key-0d7c394a8c821cf75eeaf3c557fc403d] |
+|  | Freesat (UK) Ltd |
+|  | Gambling Commission |
+|  | Geffrye Museum Trust Ltd |
+|  | Heritage Lottery Fund |
+|  | The Historic Buildings and Monuments Commission for England |
+|  | Horniman Museum and Public Park Foundation |
+|  | Horniman Public Museum and Public Park Trust |
+|  | Horserace Betting Levy Board |
+|  | Imperial War Museum |
+|  | Joint Industry Grading Scheme Ltd |
+|  | Media Applications Technologies Ltd |
+|  | Mortimer Productions Ltd |
+|  | National Film Development Fund |
+|  | National Gallery |
+|  | National Heritage Memorial Fund |
+|  | National Maritime Museum |
+|  | National Museums Liverpool |
+|  | National Portrait Gallery |
+|  | Natural History Museum |
+|  | The Natural History Museum Benevolent Fund |
+|  | The Natural History Museum Cockayne Fund |
+|  | The Natural History Museum Special Funds Trust |
+|  | Office of Communications |
+|  | Office of the Adjudicator – Broadcast Transmission Services |
+|  | The Office of the Adjudicator Ltd |
+|  | Olympic Delivery Authority |
+|  | Parliamentary Broadcasting |
+|  | PhonepayPlus |
+|  | [^key-efd8fd58d27304731bb3994fd862e528]. . . |
+|  | Reviewing Committee on the Export of Works of Art |
+|  | Royal Armouries Development Trust |
+|  | Royal Armouries Museum |
+|  | S4C |
+|  | Science Museum Group |
+|  | Sir John Soane’s Museum |
+|  | Skillset Sector Skills |
+|  | The Sports Council Trust Company |
+|  | Sports Grounds Safety Authority |
+|  | Stratford Village Development (GP) Ltd |
+|  | East Village Management Limited[^key-a230f13afa152fd93fc779b59dd43b6f] |
+|  | Tate Gallery |
+|  | Tate Gallery Projects Limited |
+|  | TDFHUB2014 Ltd |
+|  | Treasure Valuation Committee |
+|  | UK Anti-Doping |
+|  | The United Kingdom Sports Council[^key-3b32b7fb50bdd61c40e383153f30338c] |
+|  | The United Kingdom Sports Council Lottery[^key-adc11e4d22601792fce0c6c824e05279] |
+|  | Victoria and Albert Museum |
+|  | Wallace Collection |
+|  | Wood Lane Nominee 1 |
+|  | Wood Lane Nominee 2 |
+|  | You View TV Ltd |
+
+Table 16
+
+Department for Work and Pensions
+
+| Department | Designated body |
+| --- | --- |
+| Department for Work and Pensions | Health and Safety Executive |
+|  | [^key-372a308c67709a8834bb7931cc33ef34]. . . |
+|  | Independent Living Fund (2006) |
+|  | Industrial Injuries Advisory Council |
+|  | Ombudsman for the Board of the Pension Protection Fund |
+|  | The Pensions Advisory Service Limited |
+|  | The Pensions Ombudsman |
+|  | The Pensions Regulator |
+|  | Social Security Advisory Committee |
+
+Table 17
+
+Northern Ireland Office
+
+| Department | Designated body |
+| --- | --- |
+| Northern Ireland Office | Boundary Commission for Northern Ireland |
+|  | Northern Ireland Human Rights Commission |
+|  | Parades Commission for Northern Ireland |
+
+Table 18
+
+Scotland Office
+
+| Department | Designated body |
+| --- | --- |
+| Scotland Office | Boundary Commission for Scotland |
+
+Table 19
+
+HM Treasury
+
+| Department | Designated body |
+| --- | --- |
+|  | Aire Valley Funding 1 Limited[^key-a905fa7e237c735ee20b9541a8ea3e43] |
+|  | Aire Valley Funding 2 Limited |
+|  | Aire Valley Funding 3 plc |
+|  | Aire Valley Holdings Limited |
+|  | Aire Valley Mortgage 2004-1 plc |
+|  | Aire Valley Mortgage 2005-1 plc |
+|  | Aire Valley Mortgages 2006-1 plc |
+|  | Aire Valley Mortgages 2007-1 plc |
+|  | Aire Valley Mortgages 2007-2 plc |
+|  | Aire Valley Mortgages 2008-1 plc |
+|  | Aire Valley PECOH Limited |
+|  | Aire Valley Trustee Limited |
+|  | Aire Valley Warehousing 1 Limited |
+|  | Aire Valley Warehousing 2 Limited |
+|  | Aire Valley Warehousing 3 Limited |
+|  | Bradford & Bingley Covered Bonds LLP |
+|  | Bradford & Bingley Homeloans Limited |
+|  | Bradford & Bingley Investments |
+|  | Bradford & Bingley Mortgage Management Limited |
+| HM Treasury | Bradford and Bingley plc |
+|  | Community Housing Initiatives Limited |
+|  | Designated Member No. 1 Limited |
+|  | Designated Member No. 2 Limited |
+|  | F&NE (1990) Limited |
+|  | F&NE Limited |
+|  | FFM Limited |
+|  | Finance for Mortgages Limited |
+|  | Financial Reporting Advisory Board |
+|  | Financial Services Compensation Scheme |
+|  | GPCH Limited |
+|  | Granite Finance Funding Limited |
+|  | Granite Finance Funding 2 Limited |
+|  | Granite Finance Holdings Limited |
+|  | Granite Finance Trustees Limited |
+|  | Granite Master Issuer plc |
+|  | Granite Mortgages 03-2 plc |
+|  | Granite Mortgages 03-3 plc |
+|  | Granite Mortgages 04-1 plc |
+|  | Granite Mortgages 04-2 plc |
+|  | Granite Mortgages 04-3 plc |
+|  | Help to Buy (HMT) Limited |
+|  | Heron’s Reach Developments Limited |
+|  | HM Treasury UK Sovereign Sukuk Plc |
+|  | HSMS |
+|  | Infrastructure Finance Unit Limited |
+|  | IUK Investments Holdings Limited |
+|  | IUK Investments Limited |
+|  | Ivybond Holdings Limited |
+|  | Leamington Mortgage Corporation Limited |
+|  | MNE Limited |
+|  | Money Advice Service |
+|  | Moore Investments Limited |
+|  | Mortgage Express |
+|  | Mortgage Express (No.2) |
+|  | Mortgage Express Holdings |
+|  | Northern Rock (Asset Management) Limited |
+|  | Northern Rock Asset Management plc |
+|  | NRAM (No.2) Limited |
+|  | NRAM Construction Services Limited |
+|  | NRAM Covered Bond LLP |
+|  | NRAM Homes Limited |
+|  | NRAM Traffic Management Limited |
+|  | Office for Budget Responsibility |
+|  | Royal Household |
+|  | Royal Mint Advisory Committee on the Design of Coins, Medals, Seals and Decorations |
+|  | Scotlife Homeloans (No.2) Limited |
+|  | Silhouette Mortgages Limited |
+|  | SMNE Limited |
+|  | UKAR Corporate Services Limited |
+|  | UK Asset Resolution Ltd |
+|  | UK Financial Investments Ltd |
+|  | Whinstone Capital Management Limited |
+|  | Whinstone 2 Capital Management Limited |
+
+Table 20
+
+Cabinet Office
+
+| Department | Designated body |
+| --- | --- |
+| Cabinet Office | Advisory Committee on Business Appointments |
+|  | Civil Service Commission |
+|  | Commissioner for Public Appointments (OCPA) |
+|  | Committee on Standards in Public Life |
+|  | House of Lords Appointments Commission |
+|  | Main Honours Advisory Committee (Honours and Appointments Secretariat) |
+|  | Parliamentary Boundary Commission for England |
+|  | Parliamentary Boundary Commission for Wales |
+|  | Security Vetting Appeals Panel |
+|  | Senior Salaries Review Body |
+|  | The Registrar of Consultant Lobbyists[^key-8df044d0faf59ebb7c4d58d3501985a8] |
+
+Table 21[^key-5cc9c44b8eaf0a9c142b50b02e4473f9]
+
+Water Services Regulation Authority
+
+|  |  |
+| --- | --- |
+| Department | Designated body |
+| Water Services Regulation Authority | Open Water Market Limited |
+
+|  |
+| --- |
+|  |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates specified central government bodies in relation to named government departments for the purpose of those departments’ supply estimates and resource accounts.
+
+The designations have effect for the financial year that ends on 31st March 2015.
+
+An impact assessment has not been prepared for this instrument because no impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the Constitutional Reform and Governance Act [2010 (c.25)](https://www.legislation.gov.uk/ukpga/2010/25).
+
+[^key-5d87bd67dbb5321f06e7eea65630905c]: Commencement: Art. 1 in force at 1.4.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/531/article/1/2)
+
+[^key-e4f34cfdbef3999ebb9107094f675ea7]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/531/article/1/2)
+
+[^key-f3e39d6e40cf18a7b3441352fce91056]: Commencement: Sch. in force at 1.4.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/531/article/1/2)
+
+[^f00002]: Footnote: [2010 c.32](https://www.legislation.gov.uk/ukpga/2010/32). Section 1 was amended by section 53(1) to (6) of the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
+
+[^f00003]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^f00004]: Footnote: Section 14D was inserted by section 25(1) of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^f00005]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25). Paragraphs (ba) to (bd) of section 149(7) were inserted by paragraph 184(c) of Schedule 5 to the Health and Social Care Act 2012.
+
+[^key-85d094bf7a7e5438568bb264a970c4e0]: Textual amendment: Words in Sch. Table 2 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+
+[^key-a433e6dc28461cfd9d4e3c020676df57]: Textual amendment: Words in Sch. Table 4 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+
+[^key-2919aed1e03b748fcba63b7b61369312]: Textual amendment: Words in Sch. Table 6 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+
+[^key-129980c27945f00fffec153f345e27c1]: Textual amendment: Words in Sch. Table 6 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+
+[^key-534c4fbbbd3a9171547d7706aad031ff]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/a)
+
+[^key-f2fa05ab58779b4698a0d520f181f11e]: Textual amendment: Words in Sch. Table 6 omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/32)
+
+[^f00006]: Footnote: [1964 c.16](https://www.legislation.gov.uk/ukpga/1964/16). The Board was established by order ([S.I. 1964/1079](https://www.legislation.gov.uk/uksi/1964/1079)) made under section 1 of the Industrial Training Act 1964. The Industrial Training Act 1964 was repealed by Schedule 4 to the Industrial Training Act [1982 (c.10)](https://www.legislation.gov.uk/ukpga/1982/10).
+
+[^key-a34e8604c3975e6eb13758773fd9ceb5]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/b)
+
+[^key-5a33e44311d2d01665f30fbdbcf8a14c]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/c)
+
+[^key-ba4b12df878030b8d2ca7ef18018edc2]: Textual amendment: Words in Sch. Table 6 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/4/d)
+
+[^key-097f1b397ab43ba8613dc50335b96f8c]: Textual amendment: Words in Sch. Table 8 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+
+[^key-1a5341c0ba1711dc636e19ec03424b43]: Textual amendment: Words in Sch. Table 8 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+
+[^key-92e11e79b0825c57b229b5713ef472f2]: Textual amendment: Words in Sch. Table 9 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+
+[^key-ce5472a8a1d372a16e91d98b3e9e4a30]: Textual amendment: Words in Sch. Table 9 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+
+[^key-b08c5074bb188ce2cc141fd631d0f1d8]: Textual amendment: Words in Sch. Table 9 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/5)
+
+[^f00007]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
+
+[^key-cd4d388d95136b035c08cd2078d4908b]: Textual amendment: Words in Sch. Table 10 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+
+[^f00008]: Footnote: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).
+
+[^key-133aabc9fce36e7be75f08a427ed99c9]: Textual amendment: Words in Sch. Table 13 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+
+[^key-653860ce49a2bc3deaa8b3a808bdefd4]: Textual amendment: Words in Sch. Table 14 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+
+[^key-efd8fd58d27304731bb3994fd862e528]: Textual amendment: Words in Sch. Table 15 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+
+[^key-0d7c394a8c821cf75eeaf3c557fc403d]: Textual amendment: Words in Sch. Table 15 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+
+[^key-a230f13afa152fd93fc779b59dd43b6f]: Textual amendment: Words in Sch. Table 15 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/6/a)
+
+[^key-3b32b7fb50bdd61c40e383153f30338c]: Textual amendment: Words in Sch. Table 15 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/6/b)
+
+[^key-adc11e4d22601792fce0c6c824e05279]: Textual amendment: Words in Sch. Table 15 substituted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/6/c)
+
+[^key-372a308c67709a8834bb7931cc33ef34]: Textual amendment: Words in Sch. Table 16 omitted (31.1.2015) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3314/schedule/2)
+
+[^key-a905fa7e237c735ee20b9541a8ea3e43]: Textual amendment: Words in Sch. Table 19 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+
+[^key-8df044d0faf59ebb7c4d58d3501985a8]: Textual amendment: Words in Sch. Table 20 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3314/schedule/1)
+
+[^key-5cc9c44b8eaf0a9c142b50b02e4473f9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2014/531/schedule) Table 21 inserted (31.1.2015) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2014 (S.I. 2014/3314)](https://www.legislation.gov.uk/uksi/2014/3314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3314/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2014/3314/article/2/7), [Sch. 3](https://www.legislation.gov.uk/uksi/2014/3314/schedule/3)

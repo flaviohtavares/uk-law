@@ -1,0 +1,44 @@
+---
+title: Aviation and Maritime Security Act 1990, section 30
+act: Aviation and Maritime Security Act 1990
+section: '30'
+status: revised
+text_date: '2021-07-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1990/31/section/30
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Aviation and Maritime Security Act 1990, section 30
+
+> Text as at 2021-07-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 30. Contents of enforcement notice.[^c10458001][^key-e3c8918e5172a077a428b5078248b9a0]
+
+*Extent: E+W+S+N.I.*
+
+(1) An enforcement notice may specify in greater detail measures which are described in general terms in those provisions of the direction to which it relates which impose general requirements, but may not impose any requirement which could not have been imposed by a direction given by the Secretary of State under the provision under which the direction was given.
+
+(2) An enforcement notice may be framed so as to afford the person on whom it is served a choice between different ways of complying with the specified general requirements of the direction.
+
+(3) Subject to subsection (4) below, an enforcement notice which relates to a direction given under section 21 of this Act must require the person to whom the direction was given not to cause or permit things to be done as mentioned in subsection (1)(a) or (b) or (2) of that section, as the case requires, until the specified measures have been taken.
+
+(4) In serving an enforcement notice which relates to a direction under section 21(2) of this Act, the authorised person shall allow, and shall specify in the notice, such period as appears to him to be reasonably required for taking the measures specified in the notice; and the notice shall not take effect before the end of the period so specified.
+
+(5) An enforcement notice which relates to a direction given under section 22, 23 or 24 of this Act must either—
+
+- (a) require the person to whom the direction was given to take the specified measures within a specified period which—
+  - (i) where the measures consist of or include the construction, execution, alteration, demolition or removal of a building or other works, must not be less than thirty days beginning with the date of service of the notice, and
+  - (ii) in any other case, must not be less than seven days beginning with that date; or
+- (b) require him not to do specified things, or cause or permit specified things to be done, until the specified measures have been taken.
+
+(6) Subject to section 33(2) of this Act, an enforcement notice requiring a person not to cause or permit anything to be done shall be construed as requiring him to take all such steps as in any particular circumstances are practicable and necessary to prevent that thing from being done.
+
+## Annotations
+
+[^c10458001]: Modification: S. 30 extended (with modifications) (Jersey) (1.1.1997) by [S.I. 1996/2881](https://www.legislation.gov.uk/uksi/1996/2881), [art. 2](https://www.legislation.gov.uk/uksi/1996/2881/article/2), [Sch. Pts. I](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/II)
+
+[^key-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)

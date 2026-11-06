@@ -1,0 +1,717 @@
+---
+title: The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/481
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-03-05'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/481
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/481/pdfs/uksiem_20190481_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/481/pdfs/uksi_20190481_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/481/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 481
+
+Exiting The European Union
+
+Human Tissue
+
+The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+5th March 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23624681].
+
+In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-d4fd34b154157b44106e95038e91e74a]
+
+These Regulations may be cited as the Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
+
+## PART 2 — Amendment of primary legislation
+
+### 2. Amendment of the Human Tissue Act 2004[^key-4a96947a2f756855a02169074a7c2314]
+
+(1) The Human Tissue Act 2004 [^c23624691] is amended as follows.
+
+(2) Omit section 46 (power to give effect to EU obligations).
+
+(3) In section 52 (orders and regulations)—
+
+- (a) in subsection (3) omit “, 46(1)”;
+- (b) in subsection (4) for “, 33(3) or (7) or 46(1)” substitute “ or 33(3) or (7) ”;
+- (c) in subsections (8) and (10) omit “section 46(1);”.
+
+## PART 3 — Amendment of subordinate legislation
+
+### 3. Amendment of the Human Tissue (Quality and Safety for Human Application) Regulations 2007[^key-4e08f5809382f6cf01077a02acdc926a]
+
+(1) The Human Tissue (Quality and Safety for Human Application) Regulations 2007 [^c23624701] are amended as follows.
+
+(1A)[^key-725f8db6017f170d89e740d38bff28df] In regulation 2(3) (extent and application), for “import into the United Kingdom” substitute “import from third countries”.
+
+(2)[^key-b751437691dc6912535ed716a0d233e7] In regulation 3 (designation of the competent authority), after “is designated” insert “, in relation to Northern Ireland,”.
+
+(3)[^key-0043555a108e1a7390b1cd27ca73c8b3] In regulation 4 (references to Directives), in the definition of “the third Directive”, for the words from “tissues and cells” to the end substitute—
+
+> - tissues and cells—
+>   - (a) in relation to Great Britain, as it had effect immediately before 29th April 2015 (the date on which the amendments made by Commission [Directive 2015/565/EU](https://www.legislation.gov.uk/eudr/2015/0565) came into force); and
+>   - (b) in relation to Northern Ireland, as amended by Commission [Directive 2015/565/EU](https://www.legislation.gov.uk/eudr/2015/0565);
+
+.
+
+(4) After regulation 4 (references to Directives), insert—
+
+> **4A. Modifications to the first, second, third and fourth Directives: general**
+>
+> For the purposes of these Regulations, as they apply in relation to Great Britain,[^key-cbf959034f08a95d10e2cd6c13cf08a2] the first, second, third and fourth Directives are to be read subject to the modifications set out in regulations 4B to 4E.
+>
+> **4B. Modifications to the first Directive**
+>
+> (1) The modifications to the first Directive are as follows.
+>
+> (2)[^key-d61992a7cf727a791111b25b1727bc15] Article 8 is to be read as if—
+>
+> - (a) in paragraph 1, the reference to Member States were a reference to the Authority;
+> - (b) in paragraph 1, for “on their territory” there were substituted “in Great Britain”;
+> - (c) paragraphs 2, 3, 5 and 6 were omitted.
+>
+> (3) Article 10(1) is to be read as if—
+>
+> - (a) for the reference to “the requirements referred to in Article 28(f)” there were substituted “ the requirements referred to in paragraph 12 of Schedule 2 to the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (b) the reference to the competent authority or authorities were a reference to the Authority;
+> - (c) for “an annual report on these activities” there were substituted “ a report on these activities upon request ”;
+> - (d) the words “This report shall be publicly accessible” were omitted.
+>
+> (4) Article 14 is to be read as if—
+>
+> - (a) in paragraph 1—
+>   - (i) the reference to Member States were a reference to the Authority;
+>   - (ii) for “within the scope of this Directive” there were substituted “ in accordance with the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (b)[^key-e116549bd9c16f6192429b6dabff5799] in paragraph 2, for “they” there were substituted “the Authority”;
+> - (c) in paragraph 3—
+>   - (i) the first reference to Member States were a reference to the Authority;
+>   - (ii) “in Member States” were omitted.
+>
+> (5) Article 15 is to be read as if paragraphs 1, 2 and 4 were omitted.
+>
+> (6) Article 19(5) is to be read as if the words “, in accordance with Article 8” were omitted.
+>
+> (7) Article 20 is to be read as if, in paragraph 1, the reference to Article 28(h) were a reference to the requirements of Annex 2 of the third Directive listed in paragraph 14 of Schedule 2 to these Regulations.
+>
+> (8) Article 21 is to be read as if—
+>
+> - (a) in paragraph 4, for “laid down in this Directive” there were substituted “ of the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (b) in paragraph 5—
+>   - (i) the first reference to Member States were a reference to the Authority;
+>   - (ii) the reference to a tissue establishment accredited, designated, authorised or licensed in accordance with Article 6 were a reference to a tissue establishment authorised or licensed in accordance with the provisions of the Human Tissue Act 2004, the Human Tissue (Scotland) Act 2006 [^c23624731] or these Regulations;
+>   - (iii) for the words “Member States' legislation” there were substituted “ legislation ”.
+>
+> (9) Article 24 is to be read as if—
+>
+> - (a) in paragraph 2, for “laid down in this Directive” there were substituted “ required by the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (b) in paragraph 5, the reference to the competent authority or authorities were a reference to the Authority.
+>
+> (10) The Annex is to be read as if—
+>
+> - (a) in paragraph B.1, for “the legislation in force in Member States” there were substituted “ the requirements of the Human Tissue Act 2004, the Human Tissue (Scotland) Act 2006 or the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (b) paragraph B.2 were omitted.
+>
+> **4C. Modifications to the second Directive**
+>
+> (1) The modifications to the second Directive are as follows.
+>
+> (2) Article 2 is to be read as if, in paragraph 1, the reference to Member States were a reference to the Authority.
+>
+> (3) Articles 3, 4 and 5 are to be read as if any reference to the competent authority or authorities were a reference to the Authority.
+>
+> (4) Annex 1 is to be read as if, in the first paragraph, for “responsible person as defined in Article 17 of Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23)” there were substituted “ designated individual in accordance with regulations 11 and 12 of the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+>
+> (5) Annex 2 is to be read as if, in paragraph 2.1 the reference to the competent authority in the Member State were a reference to the Authority.
+>
+> (6) Annex 3 is to be read as if, in paragraph 3.6, for “in force in Member States” there were substituted “ of the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”.
+>
+> (7) Annex 4 is to be read as if—
+>
+> - (a) in paragraphs 1.1.1 and 1.2.1, the reference to an authorised person were to—
+>   - (i) the designated individual in accordance with regulations 11 and 12 of these Regulations, or
+>   - (ii) a person authorised to carry out the specified tasks by—
+>     - (aa) the designated individual, or
+>     - (bb) the Authority;
+> - (b) in paragraph 1.1.1(a), for “Article 13 of Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23)” there were substituted “ the Human Tissue Act 2004, the Human Tissue (Scotland) Act 2006 or the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (c) in paragraph 1.4.4 the reference to the competent authority were a reference to the Authority.
+>
+> **4D. Modifications to the third Directive**
+>
+> (1) The modifications to the third Directive are as follows.
+>
+> (2) Annex 1 is to be read as if—
+>
+> - (a) in paragraph A.1—
+>   - (i) for “responsible person” there were substituted “ designated individual ”;
+>   - (ii) for “as provided in Article 17 of Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23) there were substituted “ in accordance with the requirements of regulations 11 [^c23624741] and 12 of the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (b) in paragraph A.4, for “laid down in this Directive” there were substituted “ required by the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (c) in paragraph C.6, for the words from “the requirements of Council” to the end there were substituted “ the requirements of the Medical Devices Regulations 2002 ”[^c23624751] ;
+> - (d) in paragraph D.1, for “laid down in this Directive” there were substituted “ required by the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (e) in paragraph E.1, for “laid down in this Directive” there were substituted “ required by the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (f) in paragraph E.8, the reference to the competent authority were a reference to the Authority.
+>
+> (3) Annex 2 is to be read as if—
+>
+> - (a) in the first paragraph the reference to the competent authority were a reference to the Authority;
+> - (b) in paragraph A, for the words from “the tissues and cells must” to the end there were substituted “ tissue establishment procedures must ensure that the licence conditions in paragraph 12 of Schedule 2 to the Human Tissue (Quality and Safety for Human Application) Regulations 2007 are met ”;
+> - (c) in paragraph B.3, for the words from “the standards” to the end there were substituted “ the requirements of paragraph 13 of Schedule 2 to the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (d) in paragraph B.8, the second sentence were omitted;
+> - (e) in paragraph C.2, for “laid down in this Directive” there were substituted “ of paragraph 14 of Schedule 2 to the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (f) in paragraphs C.4 and C.5, any reference to the responsible person as defined or specified in Article 17 of Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23) were a reference to the designated individual in accordance with regulations 11 and 12 of these Regulations;
+> - (g) in paragraph D.5, the reference to the competent authority were a reference to the Authority;
+> - (h) in paragraph E.2(h), for “as set out in Articles 5 to 6” there were substituted “ in accordance with paragraph 4 of Schedule 2 to the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”.
+>
+> **4E. Modifications to the fourth Directive**
+>
+> (1) The modifications to the fourth Directive are as follows.
+>
+> (2) The Directive is to be read as if references to a third country were references to any country other than the United Kingdom.
+>
+> (3) Article 2 is to be read as if for “the Union”, in each place where it occurs, there were substituted “ Great Britain[^key-24a493a17c06538864b044da88d75e8e] ”.
+>
+> (4) Article 5(1) is to be read as if—
+>
+> - (a) for “laid down in Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23)” there were substituted “ required by the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (b) the references to the competent authority or authorities were references to the Authority.
+>
+> (5) Article 6 is to be read as if—
+>
+> - (za)[^key-26f6e44c5fabf685bd5004c6bba9e45c] in paragraph 1, the reference to the competent authority or authorities were a reference to the Authority;
+> - (a) in paragraph 2—
+>   - (i) the reference to the competent authority or authorities were a reference to the Authority;
+>   - (ii) the words from “The information laid out” to the end were omitted;
+> - (b) in paragraph 3—
+>   - (i) the first reference to the competent authority or authorities were a reference to the Authority;
+>   - (ii) the reference to the competent authority or authorities in subparagraph (b) were a reference to the authority in the third country concerned responsible for regulating tissue establishments in that country.
+>
+> (6) Article 7 is to be read as if—
+>
+> - (a) in paragraph 1—
+>   - (i) in the first subparagraph, for “the Union”, in each place where it occurs, there were substituted “ Great Britain[^key-d09c748ee46eb7325757d8dfcd4f0c9e] ”;
+>   - (ii) for the second subparagraph, there were substituted “ This requirement does not apply to one-off imports as defined in regulation 11(4C)(a) of the Human Tissue (Quality and Safety for Human Application) Regulations 2007 provided that the requirements in regulation 11(4B) of those regulations are met. ”;
+> - (b) in paragraph 2, for “laid down in Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23)” there were substituted “ required by the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (c) in paragraph 3, the reference to the competent authority or authorities were a reference to the Authority;
+> - (d) in paragraph 4, the reference to the competent authority or authorities were a reference to the Authority.
+>
+> (7) Article 8(1) is to be read as if the word “annual” were omitted.
+>
+> (8) Annex 1 is to be read as if—
+>
+> - (a) in paragraph A.4, for “TE compendium code” there were substituted “ reference number previously allocated to the tissue establishment by the Authority ”;
+> - (b) in paragraph B.4, the reference to the Responsible Person were a reference to the designated individual in accordance with regulations 11 and 12 of these Regulations;
+> - (c) in paragraph C.2, the words “(where applicable, in accordance with the EU generic list)” were omitted;
+> - (d) in paragraph F.3, the references to a third country competent authority or authorities were references to the authority in the third country responsible for regulating tissue establishments in that country.
+>
+> (9) Annex 3 is to be read as if—
+>
+> - (a) in the first paragraph, the reference to the competent authority or authorities were a reference to the Authority;
+> - (b) in paragraph A.1, for “as laid down in Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23)” there were substituted “ in accordance with regulations 11 and 12 of the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (c) in paragraph A.3, the words “applying the Single European Code,” were omitted;
+> - (d) in paragraph B.7, the reference to a third country competent authority or authorities were a reference to the authority in the third country responsible for regulating tissue establishments in that country.
+>
+> (10) Annex 4 is to be read as if—
+>
+> - (a) in paragraph 1, for “laid down in Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23)” there were substituted “ required by the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”;
+> - (b) in paragraph 4, the reference to a third country competent authority or authorities were a reference to the authority in the third country responsible for regulating tissue establishments in that country;
+> - (c) in paragraph 5, the reference to the competent authority or authorities were a reference to the Authority;
+> - (d) in paragraph 7, for “EU data protection rules” there were substituted “ data protection legislation within the meaning of section 3(9) of the Data Protection Act 2018 ”[^c23624761] ;
+> - (e) in paragraph 8, for the words from “requirements” to the end there were substituted “ quality and safety standards required by the Human Tissue (Quality and Safety for Human Application) Regulations 2007 ”.
+
+.
+
+(5) [^c23624771]In regulation 5 (interpretation of other terms)—
+
+- (a) in paragraph (1)—
+  - (i) after the definition of “the 2004 Act” insert—
+
+    > the Authority” means the Human Tissue Authority [^c23624781];
+
+    ;
+  - (ia)[^key-a559e50d8e2b7ee4b414a2d0d592e7c0] in the definition of “a case of emergency” omit “into the United Kingdom”;
+  - (ib) in the definition of “importing licence holder” omit “into the United Kingdom”;
+  - (ii) for the definition of “third country”, substitute—
+
+    > “ "third country” means—[^key-86b849ebeb5408199dfd0900b9e0c501]
+    >
+    > - (a) in relation to the import of tissues or cells into, or the export of tissues and cells from, Great Britain, a country other than the United Kingdom;
+    > - (b) in relation to the import of tissues or cells into Northern Ireland, a country other than Northern Ireland or an EEA state; and
+    > - (c) in relation to the export of tissues or cells from Northern Ireland, a country other than the United Kingdom or an EEA state;
+
+    ;
+  - (iia)[^key-a128758a1323389583c77b21f523422d] for the definition of “third country premises” substitute—
+
+    > - “third country premises”, in relation to Northern Ireland, means premises in a country other than Northern Ireland or an EEA state on or from which a third country supplier procures, tests, processes, stores, distributes or exports tissues or cells that are intended for import into Northern Ireland for human application;
+
+    ;
+  - (iib) for the definition of “third country supplier” substitute—
+
+    > - “third country supplier” means—
+    >   - (a) in relation to tissues or cells intended for import into Great Britain for human application, a person in a country other than the United Kingdom who has an agreement with an importing licence holder for exporting such tissues or cells to Great Britain; and
+    >   - (b) in relation to tissues or cells intended for import into Northern Ireland for human application, a person in a country other than Northern Ireland or an EEA state who has an agreement with an importing licence holder for exporting such tissues or cells to Northern Ireland;
+
+    ;
+  - (iii) after the definition of “third party agreement” insert—
+
+    > “**tissue establishment**” means a tissue bank or a unit of a hospital or another body which procures, tests, processes, preserves, stores or distributes human tissues and cells;”;
+    >
+    > “**traceability**” means the ability to—
+    >
+    > - (a) identify and locate tissues and cells during any step from procurement to use for human application and disposal;
+    > - (b) identify the donor and recipient of particular tissues and cells;
+    > - (c) identify any person who has carried out any activity in relation to particular tissues and cells; and
+    > - (d) identify and locate all relevant data relating to products and materials coming into contact with particular tissues and cells and which can affect their quality and safety.
+
+    ;
+- (b)[^key-dd6ee5d66663f69486ca23f49f00848c] for paragraph (4)(b) substitute—
+
+  > - (b) any reference in these Regulations to a requirement of any provision of the first, second, third or fourth Directive—
+  >   - (i) in the application of these Regulations in relation to Great Britain, is to be read as a reference to a requirement which that provision would require to be imposed if the provision formed part of the law of England and Wales or Scotland;
+  >   - (ii) in the application of these Regulations in relation to Northern Ireland, is to be read as a reference to a requirement which that provision requires to be imposed in relation to the procurement, testing, processing, storage, distribution, import or export of tissue or cells intended for human application.
+
+  .
+
+(5A)[^key-3681c082f031d95c5f5f2f3eab635ee4] In regulation 6(1)(a) (references to third party agreements etc) omit “into the United Kingdom”.
+
+(6)[^key-15fa387afd2b697a57834ff4311577fd] In regulation 7 (licensing requirement)—
+
+- (a) in paragraph (1A), omit “into the United Kingdom”;
+- (b) for paragraph (4) substitute—
+
+  > (4) The Authority may authorise any person to distribute, import from a third country or export to a third country tissues or cells directly from where the procurement takes place to an organisation responsible for human application for immediate human application where that authorisation relates to tissues or cells specified by the Authority.
+
+  ;
+- (c) in paragraph (5) omit “into the United Kingdom”.
+
+(7)[^key-5679222f79e238fa841c9e8ac7f24c24] In regulation 7A (import from the EEA and Gibraltar)—
+
+- (a) for the heading substitute “Import into Northern Ireland from the EEA”;
+- (b) in paragraph (1), in the words before sub-paragraph (a)—
+  - (i) for “the United Kingdom” substitute “Northern Ireland”;
+  - (ii) omit “or Gibraltar”;
+- (c) in sub-paragraph (a) omit “, other than the United Kingdom, or in Gibraltar”;
+- (d) in sub-paragraph (b)(i) omit “other than the United Kingdom or in Gibraltar”;
+- (e) in sub-paragraph (b)(ii) omit “, other than the United Kingdom, or in Gibraltar”.
+
+(8)[^key-81cb4b522ce9dc082ec28ab12f81e05e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-0a83e2ced81356bd3d25e0673c5e2f40] In regulation 11 (preconditions to grant of licence)—
+
+- (a) for paragraph (4B)(c), and the “and” immediately preceding it, substitute—
+
+  > - (c) in relation to Great Britain, the applicant has provided the Authority with any information or documents as may be specified by the Authority for the purposes of demonstrating—
+  >   - (i) traceability; and
+  >   - (ii) that the import is a one-off import within the meaning of paragraph (4C); and
+  > - (d) in relation to Northern Ireland, the applicant has provided the Authority with any information or documents as may be specified by the Authority for the purposes of securing compliance with the requirements of Articles 5(2) and 7(1) of the fourth Directive (requirements in relation to one off imports).
+
+  ;
+- (b) in paragraph (4C)(b) omit “into the United Kingdom”.
+
+(10) [^c23624831]In regulation 16 (directions: compliance with the first, second, third and fourth Directives)—
+
+- (a)[^key-7d3564c5d3bc8dcafe3ebe6602f4ab16] for the heading substitute “Directions: Great Britain”;
+- (b) in paragraphs (1) and (2), for “the first, second, third and fourth Directives” substitute “ these Regulations , as they apply in relation to Great Britain[^key-86b95b141cfdb3928c42bfdc5bf76107] ”;
+- (c) after paragraph (2), insert—
+
+  > (3) In this regulation, the references to securing compliance with these Regulations include a reference to securing compatibility with the principles set out in Article 12 of the first Directive as modified by section 32(3B) of the 2004 Act.
+
+  .
+
+(10A)[^key-f296a74ed8548ef7f1596c6f999b8fcd] After regulation 16 (directions: Great Britain) insert—
+
+> **16A. Directions: compliance with first, second, third and fourth Directives as they apply in relation to Northern Ireland**
+>
+> (1) In relation to Northern Ireland, the Authority shall give directions to licence holders or designated individuals under section 23(1) of the 2004 Act, as applied by regulation 8, in accordance with Schedule 2 for the purpose of securing compliance with the requirements of the first, second, third and fourth Directives.
+>
+> (2) In relation to Northern Ireland, the Authority shall give such other directions to licence holders or designated individuals under section 23(1) of that Act, as applied by regulation 8, as it considers necessary for securing compliance by licence holders and third parties with any requirements of the first, second, third and fourth Directives.
+
+.
+
+(11) [^c23624841]In regulation 20 (duties of the Authority in relation to serious adverse events and reactions)—
+
+- (a)[^key-93fce11015e23d099342124442005e90] in paragraph (1)—
+  - (i) for sub-paragraph (a) substitute—
+
+    > - (a) any person in the United Kingdom carrying-on procurement, testing, processing, storage, distribution, import or export of tissue or cells intended for human application,
+
+    ;
+  - (ii) for sub-paragraphs (c) and (d) (but not the words following sub-paragraph (d)), substitute—
+
+    > - (c) in relation to Northern Ireland, the competent authorities in EEA states; and
+    > - (d) in relation to Northern Ireland, the European Commission,
+
+    ;
+- (b)[^key-114199fd186d6d55251c6516a31f48f5] for paragraph (3) substitute—
+
+  > (3) In relation to Northern Ireland, the duty under paragraph (2) includes a duty to investigate any serious adverse event or serious adverse reaction which has occurred in Northern Ireland, and to carry out appropriate control measures, at the request of a competent authority in an EEA state.
+
+  .
+
+(12)[^key-9a20d4acc79f8ac2d39991a660bb8bb7] In regulation 20A (duties of the Authority in relation to application of the Single European Code)—
+
+- (a) in the heading, after “the Single European Code” insert “in relation to Northern Ireland”;
+- (b) in paragraph (1), for “The Authority” substitute “In relation to Northern Ireland, the Authority”;
+- (c) for paragraph (3) substitute—
+
+  > (3) In relation to Northern Ireland, the Authority must take steps to enable the information specified in Annex VIII to be recorded in the EU Tissue Establishment Compendium in relation to each licence holder.
+
+  ;
+- (d) omit paragraph (4);
+- (e) for paragraph (5) substitute—
+
+  > (5) The Authority must take the steps mentioned in paragraph (3) to enable the information mentioned in that paragraph to be recorded before the end of the period of 10 working days beginning with the day on which the person becomes a licence holder.
+
+  ;
+- (f) in paragraph (7), for the words before sub-paragraph (a) substitute—
+
+  > Where this paragraph applies, the Authority must take steps to enable the information to be corrected or updated—
+
+  ;
+- (g) in paragraph (11), for the definition of “relevant state”, substitute—
+
+  > - “relevant state” means an EEA state;
+
+  .
+
+(13)[^key-95e4b72253116eec8edd5a682d0e8533] In regulation 20B (inspection of third country premises etc.)—
+
+- (a) in the heading, at the end insert “, Northern Ireland”;
+- (b) in paragraph (1)(a), for “the United Kingdom” substitute “Northern Ireland”;
+- (c) in paragraph (1)(b) omit “, other than the United Kingdom, or in Gibraltar”;
+- (d) in paragraph (1)(c) omit “or in Gibraltar”;
+- (e) in paragraph (4), for “the United Kingdom” substitute “Northern Ireland”.
+
+(14)[^key-831362fe671f7ed72e67e859e45c139f] In regulation 20C (third country premises and third country suppliers: report of inspections etc.)—
+
+- (a) in the heading, at the end insert “, Northern Ireland”;
+- (b) in paragraph (1)—
+  - (i) after “This regulation applies” insert “in relation to Northern Ireland”;
+  - (ii) omit “, other than the United Kingdom, or in Gibraltar”.
+
+(15)[^key-5f59211e8f3d9d7b4fa3874d60e7186a] In regulation 21A (inspection of documents to be held by an importing licence holder)—
+
+- (a) in the heading, at the end insert “, Northern Ireland”;
+- (b) in paragraph (1)(a), for “the United Kingdom” substitute “Northern Ireland”;
+- (c) in paragraph (1)(b) omit “, other than the United Kingdom, or in Gibraltar”;
+- (d) in paragraph (1)(c) omit “or in Gibraltar”.
+
+(16)[^key-414415718166ad86f177a68373a60bbc] In regulation 22A (importing licence holders: requests for inspections)—
+
+- (a) in the heading, at the end insert “, Northern Ireland”;
+- (b) in paragraph (1)(a), for “the United Kingdom” substitute “Northern Ireland”;
+- (c) in paragraph (1)(b) omit “, other than the United Kingdom, or in Gibraltar”;
+- (d) in paragraph (1)(c) omit “or in Gibraltar”.
+
+(17)[^key-9bf18af659e7bd6fbcd30f34585ea2a7] In regulation 27 (requirements when exercising power of inspection or search), for the words before paragraph (4)(a) substitute—
+
+> In relation to Northern Ireland, paragraph (5) applies if the European Commission or a competent authority in an EEA state requires the Authority to provide it with a copy of a report or information on—
+
+.
+
+(18)[^key-af0bc5d5f82421c5e82424c3f84f75a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(19) Before regulation 34 (but after the heading “General”) (offences by bodies corporate) insert—
+
+> **34ZA. Powers to make regulations in relation to standards of quality and safety , Great Britain[^key-f29df48d8a052efd1486a4c9937a72bc]**
+>
+> (1) The appropriate authority may by regulations make provision specifying requirements to be met for the purposes of ensuring traceability.
+>
+> (2) The appropriate authority may by regulations make provision in relation to the notification of serious adverse events and reactions (whether to the Authority or such other person as may be specified in the regulations).
+>
+> (3) The appropriate authority may by regulations make provision specifying requirements to be met for the purposes of verifying that standards of quality and safety equivalent to those required by these Regulations apply in relation to imports by tissue establishments of tissues and cells from third countries.
+>
+> (4) The appropriate authority may by regulations prescribe technical requirements in relation to the following—
+>
+> - (i) the licensing or authorisation of tissue establishments;
+> - (ii) the procurement of tissues or cells;
+> - (iii) selection criteria for the donor of tissues or cells;
+> - (iv) laboratory tests required for donors;
+> - (v) procedures for the reception of tissues and cells at the tissue establishment;
+> - (vi) the tissue and cell preparation process;
+> - (vii) tissue and cell processing, storage and distribution;
+> - (viii) the direct distribution to the recipient of specific tissues and cells.
+>
+> (5) The provision that may be made in regulations under paragraphs (1) to (4) includes provision amending regulations 4A to 4E to modify, or further modify, the provisions of the second, third and fourth Directives as they apply by virtue of these Regulations.
+>
+> (6)[^key-e35d324c21320c6fdb8d63f2ff3f246f] In this regulation “appropriate authority” means—
+>
+> - (a) in relation to England, the Secretary of State;
+> - (b) in relation to Wales—
+>   - (i) the Welsh Ministers; or
+>   - (ii) the Secretary of State acting with the consent of the Welsh Ministers;
+> - (c) in relation to Scotland—
+>   - (i) the Scottish Ministers; or
+>   - (ii) the Secretary of State acting with the consent of the Scottish Ministers;
+> - (d) for the whole of Great Britain, the Secretary of State acting with the consent of the Welsh Ministers and the Scottish Ministers.
+>
+> **34ZB. Scope and nature of powers**
+>
+> (1) Regulations made by the Secretary of State or the Welsh Ministers under regulation 34ZA are to be made by statutory instrument.
+>
+> (2) For regulations made under regulation 34ZA by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23624921] (Scottish statutory instruments).
+>
+> (3)[^key-1ace6bd8339d685e54e899b18df1af4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (4) Any power in regulation 34ZA to make regulations includes a power to make—
+>
+> - (a) different provision for different purposes;
+> - (b) consequential, supplementary, incidental, transitional, transitory or saving provision.
+>
+> **34ZC. Scrutiny of regulations**
+>
+> (1) A statutory instrument containing regulations made by the Secretary of State under regulation 34ZA may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (2) A statutory instrument containing regulations made by the Welsh Ministers may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+>
+> (3) Regulations made by the Scottish Ministers under regulation 34ZA are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010).
+>
+> (4)[^key-b295ae3e9bc9ea956a698a4ee538ae4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+.
+
+(20)[^key-4f22ac3fb15af09551870c09ea735d06] In Schedule 1 (licences), in paragraph 5A for “certificate” to the end substitute—
+
+> certificate—
+>
+> - (a) of authority in relation to Great Britain, in such form as the Authority considers appropriate,
+> - (b) in relation to Northern Ireland, in the form set out in Annex II to the fourth Directive.
+
+.
+
+(21) [^c23624951]In Schedule 2 (directions for securing compliance with the first, second, third and fourth Directives)—
+
+- (a) for paragraph 1 substitute—
+
+  > **1.**
+  >
+  > In relation to Great Britain, directions[^key-34fd9767e13f19edad56ee6eae4e79e1] shall require that licence holders adopt such systems as the Authority considers appropriate to secure, in relation to traceability, compliance with the requirements of Article 8 of the first Directive (traceability) and Article 9 of the third Directive (traceability).
+
+  ;
+- (aa)[^key-36a272f60e50cd144aacfa59cabc5201] after paragraph 1 insert—
+
+  > **1ZA.** In relation to Northern Ireland, directions shall require that licence holders adopt such systems as the Authority considers appropriate to secure—
+  >
+  > - (a) in relation to traceability, compliance with the requirements of Article 8 (traceability) of the first Directive and Article 9 (traceability) of the third Directive, and
+  > - (b) in relation to the coding of information, compliance with—
+  >   - (i) the requirements of paragraph 1 of Article 25 of the first Directive (coding of information);
+  >   - (ii) the requirements of paragraph 1 of Article 10 of the third Directive (European coding system), subject to any exemption specified in the directions in accordance with paragraph 3 of that Article;
+  >   - (iii) the requirements of Article 10a of the third Directive (format of the Single European Code); and
+  >   - (iv) the requirements of paragraph 1(a) to (f) and (h) of Article 10b of the third Directive (requirements related to the application of the Single European Code).
+
+  ;
+- (b)[^key-c9c104b1ff06f3ec50685617447816ef] in paragraph 1A, for “Directions” substitute “In relation to Northern Ireland, directions”;
+- (c)[^key-38965a119891c8125b93b359c9fa788f] in paragraph 4—
+  - (i) for “Directions shall” substitute “In relation to Great Britain, directions shall”;
+  - (ii) for the words from “are necessary” to the end substitute “as the Authority considers appropriate;
+- (ca)[^key-79ce6d977451fefc1912937423b3401f] after paragraph 4 insert—
+
+  > **4ZA.** In relation to Northern Ireland, directions shall require licence holders to adopt such—
+  >
+  > - (a) systems to report, investigate, register and transmit information about serious adverse events and serious adverse reactions, and
+  > - (b) accurate, rapid and verifiable procedures for recalling from distribution any product which may be related to a serious adverse event or serious adverse reaction,
+  >
+  > as are necessary to secure compliance with the requirements of Article 11 (notification of serious adverse events and reactions) of the first Directive and Article 5 (notification of serious adverse reactions) and Article 6 (notification of serious adverse events) of the third Directive.
+
+  ;
+- (d)[^key-0d2ae83d38cae561ae2b2d7ba6d525ec] in paragraph 7—
+  - (i) in the words before sub-paragraph (a), for “Directions shall” substitute “In relation to Great Britain, directions shall”;
+  - (ii) in sub-paragraph (b), for “the requirements of Article 5 (notification of serious adverse reactions) and Article 6 (notification of serious adverse events) of the third Directive” substitute “the requirements of these Regulations in relation to notification of serious adverse reactions and notification of serious adverse events.”;
+- (e)[^key-7d96296134138b48e3578a284d5f119e] after paragraph 7 insert—
+
+  > **7A.** In relation to Northern Ireland, directions shall be given—
+  >
+  > - (a) for the purpose of securing that procurement organisations comply with the requirements of the Annex to the first Directive (information to be provided on the donation of tissue or cells), and
+  > - (b) for the purpose of securing that procurement organisations and organisations responsible for human application of tissue or cells comply with the requirements of Article 5 (notification of serious adverse reactions) and Article 6 (notification of serious adverse events) of the third Directive.
+
+  ;
+- (f) in paragraph 15(5), in the definition of “qualifying import”, omit “into the United Kingdom”.
+
+## PART 4 — Transitional Provision
+
+### 4.[^key-99e83bbfb96e2f71e32b488ba8c4b81f]
+
+(1) For a period of six months beginning with IP completion day[^key-eeccaff313ca68b77842c5d320d0c54d] the requirements of the provisions listed in paragraph (2) do not apply to—
+
+- (a) an import of tissues or cells into Great Britain[^key-cde24032ab4cb1304d380db7f7724f8e] from an EEA state or Gibraltar;
+- (b) an export of tissues or cells from Great Britain[^key-228b5dbe6ce595ce30fdd5ed5947e08a] into an EEA state or Gibraltar,
+
+provided that the Authority is satisfied that the import or, as the case may be, export meets the requirements of traceability and standards of quality and safety equivalent to those laid down in the Regulations.
+
+(2) The provisions referred to in paragraph (1) are—
+
+- (a) regulation 11(4A) to (4C) of the Regulations.
+- (b) Schedule 2 to the Regulations.
+
+(3) In this regulation—
+
+- (a) “**the Regulations**” means the Human Tissue (Quality and Safety for Human Application) Regulations 2007; and
+- (b) the terms “**the Authority**”, “**cells**”, “**tissue**” and “**traceability**” have the same meanings as they have in the Regulations.
+
+Signed by authority of the Secretary of State for Health and Social Care.
+
+Jackie Doyle-Price
+
+Parliamentary Under-Secretary of State,
+
+Department of Health and Social Care
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a), (b), (c), (f) and (g)) arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to legislation concerning human tissue and cells intended for use in human application, including stem cells and cell lines grown outside the body. These Regulations do not apply to reproductive cells, embryos grown outside the human body, organs and blood. In particular, they amend legislation relating to technical requirements for the storage, procurement, testing, processing or distribution of tissues and cells into, and their export from, the United Kingdom. Part 2 amends primary legislation. Part 3 amends subordinate legislation and Part 4 makes transitional provision.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c23624681]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-d4fd34b154157b44106e95038e91e74a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-4a96947a2f756855a02169074a7c2314]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23624691]: Marginal citation: [2004 c. 30](https://www.legislation.gov.uk/ukpga/2004/30). Section 46 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); amendments to section 52 are not relevant to these Regulations.
+
+[^key-4e08f5809382f6cf01077a02acdc926a]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23624701]: Marginal citation: [S.I. 2007/1523](https://www.legislation.gov.uk/uksi/2007/1523), amended by [S.I. 2018/335](https://www.legislation.gov.uk/uksi/2018/335); there are other amending instruments but none is relevant.
+
+[^key-725f8db6017f170d89e740d38bff28df]: Textual amendment: Reg. 3(1A) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1306/regulation/3)
+
+[^key-b751437691dc6912535ed716a0d233e7]: Textual amendment: Reg. 3(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1306/regulation/4)
+
+[^key-0043555a108e1a7390b1cd27ca73c8b3]: Textual amendment: Reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1306/regulation/5)
+
+[^key-cbf959034f08a95d10e2cd6c13cf08a2]: Textual amendment: Words in reg. 3(4) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/6/a)
+
+[^key-d61992a7cf727a791111b25b1727bc15]: Textual amendment: Words in reg. 3(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/6/b/i)
+
+[^key-e116549bd9c16f6192429b6dabff5799]: Textual amendment: Words in reg. 3(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/6/b/ii)
+
+[^c23624731]: Marginal citation: [2006 asp 4](https://www.legislation.gov.uk/asp/2006/4).
+
+[^c23624741]: Marginal citation: Regulation 11 was amended by [S.I. 2018/335](https://www.legislation.gov.uk/uksi/2018/335).
+
+[^c23624751]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618).
+
+[^key-24a493a17c06538864b044da88d75e8e]: Textual amendment: Words in reg. 3(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [6(c)(i)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/6/c/i)
+
+[^key-26f6e44c5fabf685bd5004c6bba9e45c]: Textual amendment: Words in reg. 3(4) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [6(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/6/c/ii)
+
+[^key-d09c748ee46eb7325757d8dfcd4f0c9e]: Textual amendment: Words in reg. 3(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [6(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/6/c/iii)
+
+[^c23624761]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3(9) was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
+
+[^c23624771]: Marginal citation: Relevant amendments to regulation 5 were made by [S.I. 2018/335](https://www.legislation.gov.uk/uksi/2018/335).
+
+[^c23624781]: Marginal citation: The Human Tissue Authority was established by section 13(1) of the Human Tissue Act [2004 c.30](https://www.legislation.gov.uk/ukpga/2004/30).
+
+[^key-a559e50d8e2b7ee4b414a2d0d592e7c0]: Textual amendment: Reg. 3(5)(a)(ia)(ib) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/7/a)
+
+[^key-86b849ebeb5408199dfd0900b9e0c501]: Textual amendment: Words in reg. 3(5)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/7/b)
+
+[^key-a128758a1323389583c77b21f523422d]: Textual amendment: Reg. 3(5)(a)(iia)(iib) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/7/c)
+
+[^key-dd6ee5d66663f69486ca23f49f00848c]: Textual amendment: Reg. 3(5)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/7/d)
+
+[^key-3681c082f031d95c5f5f2f3eab635ee4]: Textual amendment: Reg. 3(5A) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1306/regulation/8)
+
+[^key-15fa387afd2b697a57834ff4311577fd]: Textual amendment: Reg. 3(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1306/regulation/9)
+
+[^key-5679222f79e238fa841c9e8ac7f24c24]: Textual amendment: Reg. 3(7) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/1306/regulation/10)
+
+[^key-81cb4b522ce9dc082ec28ab12f81e05e]: Textual amendment: Reg. 3(8) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1306/regulation/11)
+
+[^key-0a83e2ced81356bd3d25e0673c5e2f40]: Textual amendment: Reg. 3(9) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/1306/regulation/12)
+
+[^c23624831]: Marginal citation: Regulation 16 was amended by [S.I. 2018/335](https://www.legislation.gov.uk/uksi/2018/335).
+
+[^key-7d3564c5d3bc8dcafe3ebe6602f4ab16]: Textual amendment: Reg. 3(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/13/a)
+
+[^key-86b95b141cfdb3928c42bfdc5bf76107]: Textual amendment: Words in reg. 3(10)(b) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/13/b)
+
+[^key-f296a74ed8548ef7f1596c6f999b8fcd]: Textual amendment: Reg. 3(10A) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1306/regulation/14)
+
+[^c23624841]: Marginal citation: Regulation 20 was amended by [S.I. 2018/335](https://www.legislation.gov.uk/uksi/2018/335).
+
+[^key-93fce11015e23d099342124442005e90]: Textual amendment: Reg. 3(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/15/a)
+
+[^key-114199fd186d6d55251c6516a31f48f5]: Textual amendment: Reg. 3(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/15/b)
+
+[^key-9a20d4acc79f8ac2d39991a660bb8bb7]: Textual amendment: Reg. 3(12) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [16](https://www.legislation.gov.uk/uksi/2020/1306/regulation/16)
+
+[^key-95e4b72253116eec8edd5a682d0e8533]: Textual amendment: Reg. 3(13) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [17](https://www.legislation.gov.uk/uksi/2020/1306/regulation/17)
+
+[^key-831362fe671f7ed72e67e859e45c139f]: Textual amendment: Reg. 3(14) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [18](https://www.legislation.gov.uk/uksi/2020/1306/regulation/18)
+
+[^key-5f59211e8f3d9d7b4fa3874d60e7186a]: Textual amendment: Reg. 3(15) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/1306/regulation/19)
+
+[^key-414415718166ad86f177a68373a60bbc]: Textual amendment: Reg. 3(16) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/1306/regulation/20)
+
+[^key-9bf18af659e7bd6fbcd30f34585ea2a7]: Textual amendment: Reg. 3(17) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [21](https://www.legislation.gov.uk/uksi/2020/1306/regulation/21)
+
+[^key-af0bc5d5f82421c5e82424c3f84f75a2]: Textual amendment: Reg. 3(18) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1306/regulation/22)
+
+[^key-f29df48d8a052efd1486a4c9937a72bc]: Textual amendment: Words in reg. 3(19) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [23(a)(i)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/23/a/i)
+
+[^key-e35d324c21320c6fdb8d63f2ff3f246f]: Textual amendment: Words in reg. 3(19) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [23(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/23/a/ii)
+
+[^c23624921]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
+
+[^key-1ace6bd8339d685e54e899b18df1af4f]: Textual amendment: Words in reg. 3(19) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/23/b)
+
+[^key-b295ae3e9bc9ea956a698a4ee538ae4e]: Textual amendment: Words in reg. 3(19) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [23(c)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/23/c)
+
+[^key-4f22ac3fb15af09551870c09ea735d06]: Textual amendment: Reg. 3(20) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [24](https://www.legislation.gov.uk/uksi/2020/1306/regulation/24)
+
+[^c23624951]: Marginal citation: Schedule 2 was amended by [S.I. 2018/335](https://www.legislation.gov.uk/uksi/2018/335).
+
+[^key-34fd9767e13f19edad56ee6eae4e79e1]: Textual amendment: Words in reg. 3(21)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [25(a)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/25/a)
+
+[^key-36a272f60e50cd144aacfa59cabc5201]: Textual amendment: Reg. 3(21)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/25/b)
+
+[^key-c9c104b1ff06f3ec50685617447816ef]: Textual amendment: Reg. 3(21)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/25/c)
+
+[^key-38965a119891c8125b93b359c9fa788f]: Textual amendment: Reg. 3(21)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/25/d)
+
+[^key-79ce6d977451fefc1912937423b3401f]: Textual amendment: Reg. 3(21)(ca) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [25(e)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/25/e)
+
+[^key-0d2ae83d38cae561ae2b2d7ba6d525ec]: Textual amendment: Reg. 3(21)(d) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [25(f)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/25/f)
+
+[^key-7d96296134138b48e3578a284d5f119e]: Textual amendment: Reg. 3(21)(e)(f) inserted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [25(g)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/25/g)
+
+[^key-99e83bbfb96e2f71e32b488ba8c4b81f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-eeccaff313ca68b77842c5d320d0c54d]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [26(a)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/26/a)
+
+[^key-cde24032ab4cb1304d380db7f7724f8e]: Textual amendment: Words in reg. 4(1)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [26(b)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/26/b)
+
+[^key-228b5dbe6ce595ce30fdd5ed5947e08a]: Textual amendment: Words in reg. 4(1)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Tissue (Quality and Safety for Human Application) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1306)](https://www.legislation.gov.uk/uksi/2020/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1306/regulation/1), [26(b)](https://www.legislation.gov.uk/uksi/2020/1306/regulation/26/b)

@@ -1,0 +1,42 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 510
+act: Income Tax (Trading and Other Income) Act 2005
+section: '510'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/510
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 510
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 510. Requirement for transaction-related calculations in certain part surrender and assignment cases
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) the calculation in section 507 shows that a gain has arisen as at the end of the insurance year, but
+- (b) one or both of the conditions specified in section 509(3) and (4) are met (and so no chargeable event is treated as occurring at the end of the year under section 509).
+
+(2) A calculation is to be made in accordance with section 511 in relation to each relevant transaction during the insurance year to determine—
+
+- (a) whether the transaction resulted in a gain arising on the policy or contract, and
+- (b) if so, the amount of the gain.
+
+(3) In this section and sections 511 to 514 “**relevant transaction**” means—
+
+- (a) a surrender of part of or a share in the rights under the policy or contract, or
+- (b) an assignment of such a part or share for money or money's worth.
+
+(4) If two or more relevant transactions occurred during the insurance year, a calculation in accordance with section 511 is to be made in relation to each of them successively in the order in which they occurred.
+
+(5) A calculation falling to be made in accordance with section 511 in relation to a relevant transaction occurring in the final insurance year is to be made before any calculation under section 491 for the chargeable event that ends that year.
+
+(6) But, in the case of a relevant transaction so occurring, subsections (2) and (4) are subject to section 513(5) (under which those subsections do not apply to some such relevant transactions).

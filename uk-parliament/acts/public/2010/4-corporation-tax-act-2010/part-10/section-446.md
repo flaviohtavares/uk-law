@@ -1,0 +1,44 @@
+---
+title: Corporation Tax Act 2010, section 446
+act: Corporation Tax Act 2010
+section: '446'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/446
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 446
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 446. Particular types of quoted company
+
+*Extent: E+W+S+N.I.*
+
+(1) A company is not to be treated as a close company at a particular time if—
+
+- (a) shares in the company carrying at least 35% of the voting power in the company have been allotted unconditionally to, or acquired unconditionally by, and are at that time beneficially held by, the public, and
+- (b) any such shares have within the preceding 12 months been the subject of dealings on a recognised stock exchange, and the shares have within those 12 months been listed on such an exchange.
+
+(2) But subsection (1) does not apply to a company at any time when the total percentage of the voting power in the company possessed by all of the company's principal members exceeds 85%.
+
+(3) For the purposes of this section, a person is a principal member of a company if the person possesses a percentage of the voting power in the company of more than 5% (but see subsection (4)).
+
+(4) If there are more than 5 persons within subsection (3), a person is a principal member of the company only if—
+
+- (a) the person is one of the 5 persons who possess the greatest percentages, or
+- (b) in a case where there are no such 5 persons because two or more persons possess equal percentages of the voting power in the company, the person is one of the 6 or more persons (including those two or more who possess equal percentages) who possess the greatest percentages.
+
+(5) In determining for the purposes of this section the voting power which a person possesses, there is to be attributed to the person any voting power which would be attributed to the person if section 451(3) to (6) applied for the purposes of this section.
+
+(6) In this section “shares”—
+
+- (a) include stock, but
+- (b) do not include shares entitled to a fixed rate of dividend, whether with or without a further right to participate in profits.
+
+(7) See also section 447 (section 446: meaning of “shares held beneficially by the public” etc).

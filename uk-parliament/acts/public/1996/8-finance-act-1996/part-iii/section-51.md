@@ -1,0 +1,55 @@
+---
+title: Finance Act 1996, section 51
+act: Finance Act 1996
+section: '51'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1996/8/section/51
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1996, section 51
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 51. Credit: general.
+
+*Extent: E+W+S+N.I.*
+
+(1) Regulations may provide that where—
+
+- (a) a person has paid or is liable to pay tax in respect of the disposal of material at a landfill site[^key-a79437b3c629ec1ee3114b1ce35fb549], and
+- (b) prescribed conditions are fulfilled,
+
+the person shall be entitled to credit of such an amount as is found in accordance with prescribed rules.
+
+(2) Regulations may make provision as to the manner in which a person is to benefit from credit, and in particular may make provision—
+
+- (a) that a person shall be entitled to credit by reference to accounting periods;
+- (b) that a person shall be entitled to deduct an amount equal to his total credit for an accounting period from the total amount of tax due from him for the period;
+- (c) that if no tax is due from a person for an accounting period but he is entitled to credit for the period, the amount of the credit shall be paid to him by the Commissioners;
+- (d) that if the amount of credit to which a person is entitled for an accounting period exceeds the amount of tax due from him for the period, an amount equal to the excess shall be paid to him by the Commissioners;
+- (e) for the whole or part of any credit to be held over to be credited for a subsequent accounting period;
+- (f) as to the manner in which a person who has ceased to be registrable is to benefit from credit.
+
+(3) Regulations under subsection (2)(c) or (d) above may provide that where at the end of an accounting period an amount is due to a person who has failed to submit returns for an earlier period as required by this Part, the Commissioners may withhold payment of the amount until he has complied with that requirement.
+
+(4) Regulations under subsection (2)(e) above may provide for credit to be held over either on the person’s application or in accordance with directions given by the Commissioners from time to time; and the regulations may allow directions to be given generally or with regard to particular cases.
+
+(5) Regulations may provide that—
+
+- (a) no benefit shall be conferred in respect of credit except on a claim made in such manner and at such time as may be determined by or under regulations;
+- (b) payment in respect of credit shall be made subject to such conditions (if any) as the Commissioners think fit to impose, including conditions as to repayment in specified circumstances;
+- (c) deduction in respect of credit shall be made subject to such conditions (if any) as the Commissioners think fit to impose, including conditions as to the payment to the Commissioners, in specified circumstances, of an amount representing the whole or part of the amount deducted.
+
+(6) Regulations may require a claim by a person to be made in a return required by provision made under section 49 above.
+
+(7) Nothing in section 52 or 53 below shall be taken to derogate from the power to make regulations under this section (whether with regard to bad debts, the environment or any other matter).
+
+## Annotations
+
+[^key-a79437b3c629ec1ee3114b1ce35fb549]: Textual amendment: Words in [s. 51(1)(a)](https://www.legislation.gov.uk/ukpga/1996/8/section/51/1/a) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/11)

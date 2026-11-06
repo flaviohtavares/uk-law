@@ -1,0 +1,190 @@
+---
+title: The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2016
+id: uksi/2016/529
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-04-21'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/529
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/529/pdfs/uksiem_20160529_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/529/pdfs/uksi_20160529_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/529/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2016
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2016 No. 529
+
+Environmental Protection
+
+The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2016
+
+Made
+
+21st April 2016
+
+Laid before Parliament
+
+27th April 2016
+
+Coming into force
+
+1st June 2016
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^f00001], section 302(1) of the Merchant Shipping Act 1995[^f00002] and section 67(2) and (3)(b) of the Marine and Coastal Access Act 2009[^f00003], and with the consent of the Treasury[^f00004]:
+
+## 1. Citation and commencement[^key-20bdd88d9b22d0a8ba91f11a9222f20e]
+
+(1) These Regulations may be cited as the Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2016.
+
+(2) These Regulations come into force on 1st June 2016.
+
+## 2. Amendment of the Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015[^key-98e632fe9845355707201e0d60185548]
+
+(1) The Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015[^f00005] are amended as follows.
+
+(2) In regulation 2(2), before sub-paragraph (a) insert—
+
+> - (za) providing advice with respect to the preparation of—
+>   - (i) an oil pollution emergency plan,
+>   - (ii) an amended oil pollution emergency plan, or
+>   - (iii) a description of amendments to be made to an oil pollution emergency plan;
+
+.
+
+(3) In regulation 4(2), after sub-paragraph (a) insert—
+
+> - (aa) providing advice with respect to—
+>   - (i) labelling requirements under—
+>     - (aa) Article 2 (labelling requirements), 3 (form of the label) or 4 (placing of the label) of Commission Regulation 1494/2007, or
+>     - (bb) Article 12 (labelling, product and equipment information) of the 2014 Regulation,
+>   - (ii) training and certification requirements established under Article 10 (training and certification) of the 2014 Regulation, or
+>   - (iii) the reporting requirements established under Article 20 (collection of emissions data) of the 2014 Regulation;
+
+.
+
+(4) For regulation 5, substitute—
+
+> **5.** (1) The Secretary of State may charge fees, calculated in accordance with regulation 7, in respect of—
+>
+> - (a) providing advice with respect to—
+>   - (i) an application or potential application for, or
+>   - (ii) the modification, transfer, surrender, revocation or refusal of,
+>
+>   a relevant habitats licence;
+> - (b) the modification, transfer, surrender or revocation of, or considering an application for but not granting, a relevant habitats licence; or
+> - (c) monitoring compliance with the conditions of a relevant habitats licence.
+>
+> (2) In paragraph (1) “a relevant habitats licence” means a licence under regulation 49 (power to grant licences) of the Offshore Marine Conservation (Natural Habitats etc.) Regulations 2007[^f00006] which relates to an activity falling within the subject matter of—
+>
+> - (a) the Petroleum Act 1998[^f00007]; or
+> - (b) Part 1 (gas importation or storage), Part 4 (provisions relating to oil and gas storage) or Part 4A (works detrimental to navigation) of the Energy Act 2008[^f00008].
+
+.
+
+(5) In regulation 7(1)—
+
+- (a) for “£167” substitute “£168”; and
+- (b) for “£72” substitute “£82”.
+
+## 3. Amendment of the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^key-a0fcec14744720be8f3d7985498073e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^key-659aa58a8261876bebddc4f6e624bc54]
+
+In regulation 20A of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^f00010]—
+
+- (a) after paragraph (1)(a) insert—
+
+  > - (aa) providing advice with respect to—
+  >   - (i) whether consent is required under regulation 4(1),
+  >   - (ii) the preparation of an application for such consent, or
+  >   - (iii) a proposal to modify, transfer, surrender or revoke such consent;
+  > - (ab) monitoring compliance with a consent under regulation 4(1);
+
+  ;
+- (b) in paragraph (2)—
+  - (i) for “£167” substitute “£168”; and
+  - (ii) for “£72” substitute “£82”.
+
+Andrea Leadsom
+
+Minister of State
+
+Department of Energy and Climate Change
+
+19th April 2016
+
+We consent
+
+David Evennett
+
+Mel Stride
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+21st April 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision to increase the fees charged in relation to activities carried out by the Secretary of State relating to the environmental regulation of the offshore oil and gas industry and to charge fees in relation to certain additional activities carried out by the Secretary of State relating to such environmental regulation.
+
+Regulation 2 amends the Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015. It provides for fees in relation to certain advice given by the Secretary of State and certain activities relating to licences under regulation 49 of the Offshore Marine Conservation (Natural Habitats etc.) Regulations 2007.
+
+Regulation 2 also increases the fees set out in the Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015. These are fees—
+
+- (a) relating to certain activities under the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998, the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 and the Fluorinated Greenhouse Gases Regulations 2015;
+- (b) relating to certain licences under regulation 49 of the Offshore Marine Conservation (Natural Habitats etc.) Regulations 2007; and
+- (c) for applications for certain licences under section 71 of the Marine and Coastal Access Act 2009.
+
+Regulation 3 provides for fees in relation to certain advice given in relation to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999, and increases the fees charged in relation to those Regulations.
+
+Regulation 4 provides for fees in relation to certain advice given in relation to the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001 and in relation to monitoring compliance with a consent under regulation 4 of those Regulations. Regulation 4 also increases the fees charged in relation to those Regulations.
+
+The fees in each case are calculated by determining the number of hours work carried out by specialist officers and non-specialist officers and multiplying those numbers by a relevant hourly rate. These Regulations increase the hourly rate for specialist officers from £167 to £168 and the hourly rate for non-specialist officers from £72 to £82.
+
+An assessment of the effect that these Regulations will have on the costs of business and the voluntary sector is published alongside these Regulations on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51).
+
+[^f00002]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00003]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23). The Secretary of State makes these Regulations as the appropriate licensing authority under section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009.
+
+[^f00004]: Footnote: The consent of the Treasury is required to make regulations under section 56(1) of the Finance Act 1973 and section 302(1) of the Merchant Shipping Act 1995.
+
+[^key-20bdd88d9b22d0a8ba91f11a9222f20e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/529/regulation/1) in force at 1.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2)
+
+[^key-98e632fe9845355707201e0d60185548]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/529/regulation/2) in force at 1.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2)
+
+[^f00005]: Footnote: [S.I. 2015/1431](https://www.legislation.gov.uk/uksi/2015/1431).
+
+[^f00006]: Footnote: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842). Regulation 49 was amended by [S.I. 2010/491](https://www.legislation.gov.uk/uksi/2010/491).
+
+[^f00007]: Footnote: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17).
+
+[^f00008]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32).
+
+[^key-a0fcec14744720be8f3d7985498073e3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/529/regulation/3) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/b) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+
+[^key-659aa58a8261876bebddc4f6e624bc54]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/529/regulation/4) in force at 1.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2)
+
+[^f00010]: Footnote: [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754). Regulation 20A was inserted by [S.I. 2015/1431](https://www.legislation.gov.uk/uksi/2015/1431).

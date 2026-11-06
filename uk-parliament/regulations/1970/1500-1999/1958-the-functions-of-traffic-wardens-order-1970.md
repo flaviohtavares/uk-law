@@ -1,0 +1,175 @@
+---
+title: The Functions of Traffic Wardens Order 1970
+id: uksi/1970/1958
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1970-12-16'
+text_date: '2012-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1970/1958
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1970/1958/pdfs/uksi_19701958_en.pdf
+- http://www.legislation.gov.uk/uksi/1970/1958/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Functions of Traffic Wardens Order 1970
+
+> Text as at 2012-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1970 No. 1958
+
+POLICE
+
+The Functions of Traffic Wardens Order 1970
+
+Laid before Parliament in draft
+
+Made
+
+16th December 1970
+
+Coming into Operation
+
+1st January 1971
+
+In exercise of the power conferred upon me by section 81(3) of the Road Traffic Regulation Act 1967, and of subsections (4A) and (4B) of that section as inserted by section 131(6) of the Transport Act 1968, I hereby make the following Order, a draft of which has been laid before Parliament and has been approved by resolution of each House of Parliament:—
+
+**1.**[^key-5089ed1d96b8738454ece9e22e06f448] (1) This Order may be cited as the Functions of Traffic Wardens Order 1970 and shall come into operation on 1st January 1971.
+
+(2) The Interpretation Act 1889 applies to the interpretation of this Order as it applies to the interpretation of an Act of Parliament.
+
+(3) The Functions of Traffic Wardens Order 1960[^f00001] and the Functions of Traffic Wardens Order 1965[^f00002] are hereby revoked.
+
+(4) This Order shall not extend to Scotland.
+
+**2.**[^key-22e373e01562cf6b52d13e9e2bdde7e2] In this Order—
+
+- “**the Act of 1960**” and “**the Act of 1967**” mean respectively the Road Traffic Act 1960 and the Road Traffic Regulation Act 1967;
+- “**street parking place order**” means an order made under the Act of 1967 relating to a street parking place;
+- “**traffic order**” means an order made under section 1, 5, 6, 9, 11 or 84A of the Act of 1967.
+
+**3.**[^key-5fc6d90a623dd72145d05d83b0d80d18] (1) The functions set out in the Schedule to this Order are hereby prescribed as appropriate for discharge by traffic wardens.
+
+(2) For the purposes of the discharge by traffic wardens of such functions, references to a constable or police constable in the following enactments shall include references to a traffic warden—
+
+- (a) section 52 of the Metropolitan Police Act 1839 so far as it relates to the giving by the commissioner of directions to constables for preventing obstruction;
+- (b) section 22 of the local Act of the second and third year of the reign of Queen Victoria, chapter 94, so far as it makes similar provision with respect to the City of London;
+- (c) sections 14 and 15 of the Act of 1960 (drivers and pedestrians to comply with traffic directions given by police constables);
+- (d) section 229 of the Act of 1960 (the power of constables to obtain the names and address of pedestrians failing to comply with traffic directions);
+- (e) section 242 of the Act of 1960 and section 89 of the Act of 1967 (the giving of evidence of an admission by certificate).
+- (f)[^key-69f8d8b46461dc717215392afb8d8b46] section 100(3) of the Road Traffic Regulation Act 1984 (the interim disposal of vehicles removed under section 99 of that Act);
+- (g) sections 104 and 105 of the Road Traffic Regulation Act 1984 (the immobilisation of illegally parked vehicles).
+- (h)[^key-8e3361b7b357fb581bb6dbbd0e0c5288] section 67(3) of the Road Traffic Act 1988 (power to stop vehicles for testing);
+- (i) section 163 of the Road Traffic Act 1988 (power to stop vehicles).
+
+(3) For the purposes of the discharge by traffic wardens of the functions set out in the Schedule to this Order, references in section 226(1) of the Act of 1960 to a police constable shall, in so far as it applies to the furnishing of names and addresses, include references to a traffic warden if the traffic warden has reasonable cause to believe that there has been committed and offence—
+
+- (a) in respect of a vehicle by its being left or parked on a road during the hours of darkness (as defined by the Road Transport Lighting Act 1957 without the lights or reflectors required by law;
+- (b) in respect of a vehicle by its obstructing a road, or waiting, or being left or parked, or being loaded or unloaded, in a road;
+- (c) in contravention of section 14 of the Act of 1960;
+- (d) in contravention of a provision of the Vehicles (Excise) Act 1962;
+- (e) created by section 42 of the Act of 1967 (offences relating to parking places on highways where charges made).
+
+(4)[^key-79a62c62600bedb76333554c3ae8777d] References in section 164(1), (2) and (6) of the Road Traffic Act 1988 to a constable or police constable shall include references to a traffic warden only where—
+
+- (a) the traffic warden has reasonable cause to believe that there has been committed an offence by causing a vehicle, or any part of it, to stop in contravention of regulations made under section 25 of the Road Traffic Regulation Act 1984 or an offence in contravention of section 22 of the Road Traffic Act 1988 (leaving vehicles in dangerous positions); or
+- (b) the traffic warden is employed to perform functions in connection with the custody of vehicles removed from a road or land in the open air *(Extent: E)* *(affected by repeal, see note)*[^key-0fa3c4712349ae6e3ade257421de9f3e] other land *(Extent: E)* in pursuance of regulations made under section 99 of the Road Traffic Regulation Act 1984 or from a parking place in pursuance of a street parking place order, and he has reasonable cause to believe that there has been committed an offence in respect of a vehicle by its obstructing a road, or waiting, or being left or parked, or being loaded or unloaded, in a road.
+
+R. Maudling
+
+One of Her Majesty's Principal Secretaries of State
+
+Home Office
+
+Whitehall
+
+16th December 1970
+
+## SCHEDULE — FUNCTIONS OF TRAFFIC WARDENS
+
+Article 3
+
+**1.**[^key-b309e8305e3eead8dbf12a83a0afcd43] (1) Traffic wardens may be employed to enforce the law with respect to an offence—
+
+- (a) committed in respect of a vehicle by its being left or parked on a road during the hours of darkness (as defined by the Road Transport Lighting Act 1957) without the lights or reflectors required by law; or
+- (b) committed in respect of a vehicle by its obstructing a road, or waiting, or being left or parked, or being loaded or unloaded, in a road or other public place; or
+- (c) committed in contravention of a provision of the Vehicles (Excise) Act 1962;
+- (d) created by section 42 of the Act of 1967 (offences relating to parking places on highways where charges made).
+- (e)[^key-99bb04fb25621453663f4b16bc6b8df6] committed by causing a vehicle, or any part of it, to stop in contravention of regulations made under section 25 of the Road Traffic Regulation Act 1984,
+
+(2) For the purposes of the enforcement of the law with respect to such of the offences described in sub-paragraph (1) of this paragraph as are offences to which section 80 of the Act of 1967 (which relates to the fixed penalty procedure) applies, [^key-d4f9654a96cfbef23c6e53466d742e3f]... traffic wardens may exercise the functions conferred on constables by the said section 80 in an area to which the said section 80 extends.
+
+**2.**[^key-aa6585f5f3426557aee5c093bd2d716c] (1) Traffic wardens may, under arrangements made with the Secretary of State or a local authority, be employed to act as parking attendants at street parking places provided or controlled by the Secretary of State or local authority.
+
+(2) A traffic warden may exercise functions conferred on a traffic warden by a traffic order or a street parking place order.
+
+**3.**[^key-ab8197995ff995ba42cfd0ea01652067] Without prejudice to the generality of paragraph 1 above, traffic wardens may be employed in connection with obtaining information under section 232 of the Act of 1960 or section 85 of the Act of 1967 (duty to give information as to identity of driver, etc. in certain cases).
+
+**4.**[^key-2f3ce6207775b43223c4207b4ee8cd53] Traffic wardens may be employed to perform functions in connection with the custody of vehicles removed from a road or land in the open air *(Extent: E)* *(affected by repeal, see note)*[^key-d4a2fd56ad911cf76213c6d7d704ab29] other land *(Extent: E)* in pursuance of regulations under section 20 of the Act of 1967 or from a parking place in pursuance of a street parking place order.
+
+**5.**[^key-185279d646b51906679e1d3af2b66e31] Where a police authority provides school crossing patrols under section 24 of the Act of 1967, whether as the appropriate authority or by agreement with the appropriate authority, traffic wardens appointed by that police authority may be employed to act as school crossing patrols.
+
+**5A.**[^key-6119d760f4095c2b4f07ed9743c3f8a7] Traffic wardens may be employed to stop vehicles for the purposes of a test under subsection (1) of section 67 of the Road Traffic Act 1988 (testing of conditions of vehicles on roads).
+
+**5B.** Traffic wardens may be employed to escort vehicles or trailers carrying loads of exceptional dimensions the use of which is authorised by an order made by the Secretary of State under section 44(1)(d) of the Road Traffic Act 1988.
+
+**6.**[^key-11ad9350f272f823352e4e7ba8a8fde7] (1) Subject to the foregoing paragraphs, traffic wardens may be employed in the control and regulation of traffic (including foot passengers) or vehicles whether on a highway or not and to discharge any other functions normally undertaken by the police in connection with the control and regulation of traffic (including foot passengers) or vehicles.
+
+(2)[^key-90523f8767a73ab0c63a78504919085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+This Order revokes and replaces the Orders relating to the functions of traffic wardens. The Schedule to the Order specifies the functions. Paragraph 2(2) of the Schedule extends the functions by referring to functions conferred on traffic wardens by traffic orders or street parking place orders. Paragraph 3 authorises traffic wardens to be employed in obtaining information as to the identity of drivers. Paragraph 4 enables traffic wardens to be employed in connection with the custody of vehicles at car pounds.
+
+Article 3(2), (3) and (4) enable traffic wardens to exercise the powers conferred by certain enactments on constables.
+
+## Annotations
+
+[^key-5089ed1d96b8738454ece9e22e06f448]: Commencement: Art. 1 in force at 1.1.1971, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1970/1958/article/1/1)
+
+[^f00001]: Footnote: (1960 II, p. 2765).
+
+[^f00002]: Footnote: (1965 II, p. 3249).
+
+[^key-22e373e01562cf6b52d13e9e2bdde7e2]: Commencement: Art. 2 in force at 1.1.1971, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1970/1958/article/1/1)
+
+[^key-5fc6d90a623dd72145d05d83b0d80d18]: Commencement: Art. 3 in force at 1.1.1971, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1970/1958/article/1/1)
+
+[^key-69f8d8b46461dc717215392afb8d8b46]: Textual amendment: Art. 3(2)(f)[(g)](https://www.legislation.gov.uk/uksi/1970/1958/article/3/2/g) inserted (1.6.1993) by [The Functions of Traffic Wardens (Amendment) Order 1993 (S.I. 1993/1334)](https://www.legislation.gov.uk/uksi/1993/1334), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1334/article/1/1), [2](https://www.legislation.gov.uk/uksi/1993/1334/article/2)
+
+[^key-8e3361b7b357fb581bb6dbbd0e0c5288]: Textual amendment: Art. 3(2)(h)(i) inserted (2.12.2002) by [The Functions of Traffic Wardens (Amendment) Order 2002 (S.I. 2002/2975)](https://www.legislation.gov.uk/uksi/2002/2975), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/2975/article/1/1), [2](https://www.legislation.gov.uk/uksi/2002/2975/article/2)
+
+[^key-79a62c62600bedb76333554c3ae8777d]: Textual amendment: Art. 3(4) substituted (1.6.1993) by [The Functions of Traffic Wardens (Amendment) Order 1993 (S.I. 1993/1334)](https://www.legislation.gov.uk/uksi/1993/1334), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1334/article/1/1), [3](https://www.legislation.gov.uk/uksi/1993/1334/article/3)
+
+[^key-0fa3c4712349ae6e3ade257421de9f3e]: Textual amendment: Words in art. 3(4)(b) substituted (E.) (1.10.2012) by [The Protection of Freedoms Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/2278)](https://www.legislation.gov.uk/uksi/2012/2278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2278/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/2278/article/3)
+
+[^key-b309e8305e3eead8dbf12a83a0afcd43]: Commencement: Sch. para. 1 in force at 1.1.1971, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1970/1958/article/1/1)
+
+[^key-99bb04fb25621453663f4b16bc6b8df6]: Textual amendment: [Sch. para. 1(1)(e)](https://www.legislation.gov.uk/uksi/1970/1958/schedule/paragraph/1/1/e) inserted (1.6.1993) by [The Functions of Traffic Wardens (Amendment) Order 1993 (S.I. 1993/1334)](https://www.legislation.gov.uk/uksi/1993/1334), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1334/article/1/1), [4(i)](https://www.legislation.gov.uk/uksi/1993/1334/article/4/i)
+
+[^key-d4f9654a96cfbef23c6e53466d742e3f]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/1970/1958/schedule/paragraph/1/2) revoked (1.6.1993) by [The Functions of Traffic Wardens (Amendment) Order 1993 (S.I. 1993/1334)](https://www.legislation.gov.uk/uksi/1993/1334), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1334/article/1/1), [4(ii)](https://www.legislation.gov.uk/uksi/1993/1334/article/4/ii)
+
+[^key-aa6585f5f3426557aee5c093bd2d716c]: Commencement: Sch. para. 2 in force at 1.1.1971, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1970/1958/article/1/1)
+
+[^key-ab8197995ff995ba42cfd0ea01652067]: Commencement: Sch. para. 3 in force at 1.1.1971, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1970/1958/article/1/1)
+
+[^key-2f3ce6207775b43223c4207b4ee8cd53]: Commencement: Sch. para. 4 in force at 1.1.1971, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1970/1958/article/1/1)
+
+[^key-d4a2fd56ad911cf76213c6d7d704ab29]: Textual amendment: Words in Sch. para. 4 substituted (E.) (1.10.2012) by [The Protection of Freedoms Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/2278)](https://www.legislation.gov.uk/uksi/2012/2278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2278/article/1/1), [4](https://www.legislation.gov.uk/uksi/2012/2278/article/4)
+
+[^key-185279d646b51906679e1d3af2b66e31]: Commencement: Sch. para. 5 in force at 1.1.1971, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1970/1958/article/1/1)
+
+[^key-6119d760f4095c2b4f07ed9743c3f8a7]: Textual amendment: [Sch. paras. 5A](https://www.legislation.gov.uk/uksi/1970/1958/schedule/paragraph/5A), [5B](https://www.legislation.gov.uk/uksi/1970/1958/schedule/paragraph/5B) inserted (2.12.2002) by [The Functions of Traffic Wardens (Amendment) Order 2002 (S.I. 2002/2975)](https://www.legislation.gov.uk/uksi/2002/2975), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/2975/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/2975/article/3/2)
+
+[^key-11ad9350f272f823352e4e7ba8a8fde7]: Commencement: Sch. para. 6 in force at 1.1.1971, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1970/1958/article/1/1)
+
+[^key-90523f8767a73ab0c63a78504919085e]: Textual amendment: [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/1970/1958/schedule/paragraph/6/2) omitted (2.12.2002) by virtue of [The Functions of Traffic Wardens (Amendment) Order 2002 (S.I. 2002/2975)](https://www.legislation.gov.uk/uksi/2002/2975), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/2975/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/2975/article/3/3)

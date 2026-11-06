@@ -1,0 +1,1206 @@
+---
+title: Private Hire Vehicles (London) Act 1998
+id: ukpga/1998/34
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1998-07-28'
+text_date: '2024-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1998/34
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1998/34/pdfs/ukpga_19980034_en.pdf
+- http://www.legislation.gov.uk/ukpga/1998/34/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Private Hire Vehicles (London) Act 1998
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/34
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W*
+
+Private Hire Vehicles (London) Act 1998
+
+1998 c. 34
+
+An Act to provide for the licensing and regulation of private hire vehicles, and drivers and operators of such vehicles, within the metropolitan police district and the City of London; and for connected purposes.
+
+\[28th July 1998\]
+
+[^c952115][^c952116][^c952117]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-124aff27d38fbc1823eecca9f1255209][^key-05d932c2c0801fa849d0b67797d2573c]
+
+*Extent: E+W*
+
+## Introductory
+
+### 1. Meaning of “private hire vehicle”, “operator” and related expressions.
+
+(1) In this Act—
+
+- (a) “**private hire vehicle**” means a vehicle constructed or adapted to seat fewer than nine passengers which is made available with a driver [^key-e9fd2ed6539bb8cde3695e64bbc39aba]... for hire for the purpose of carrying passengers, other than a licensed taxi or a public service vehicle; [^key-d1f142699538e433d2f8fa8be2680678]...
+- (b) “**operator**” means a person who makes provision for the invitation or acceptance of, or who accepts, private hire bookings; and[^key-47889be2241f911f81c3b92cf6f48a08]
+- (c) operate”, in relation to a private hire vehicle, means to make provision for the invitation or acceptance of, or to accept, private hire bookings in relation to the vehicle.
+
+(2) Any reference in this Act to a vehicle being “**used as a private hire vehicle**” is a reference to a private hire vehicle which—
+
+- (a) is in use in connection with a hiring for the purpose of carrying one or more passengers; or
+- (b) is immediately available to an operator to carry out a private hire booking.
+
+(3) Any reference in this Act to the operator of a vehicle which is being used as a private hire vehicle is a reference to the operator who accepted the booking for the hiring or to whom the vehicle is immediately available, as the case may be.
+
+(4) In this Act “**private hire booking**” means a booking for the hire of a private hire vehicle for the purpose of carrying one or more passengers (including a booking to carry out as sub-contractor a private hire booking accepted by another operator).
+
+(5) In this Act “**operating centre**” means premises at which private hire bookings are accepted by an operator.
+
+## Regulation of private hire vehicle operators in London
+
+### 2. Requirement for London operator’s licence.
+
+(1) No person shall in London make provision for the invitation or acceptance of, or accept, private hire bookings unless he is the holder of a private hire vehicle operator’s licence for London (in this Act referred to as a “London PHV operator’s licence”).
+
+(2) A person who makes provision for the invitation or acceptance of private hire bookings, or who accepts such a booking, in contravention of this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+### 3. London operator’s licences.
+
+(1) Any person may apply to the licensing authority[^c952118] for a London PHV operator’s licence.
+
+(2) An application under this section shall state the address of any premises in London which the applicant proposes to use as an operating centre.
+
+(3) The licensing authority shall grant a London PHV operator’s licence to the applicant if the authority[^c952120] is satisfied that—
+
+- (a) the applicant is a fit and proper person to hold a London PHV operator’s licence;
+- (aa)[^key-657e26ebf18d85ed3e61961f30573766] if the applicant is an individual, the applicant is not disqualified by reason of the applicant's immigration status from operating a private hire vehicle; and
+- (b) any further requirements that may be prescribed (which may include requirements relating to operating centres) are met.
+
+(3A)[^key-0a48a657b8940e694dcb204c5fea2242] In determining for the purposes of subsection (3) whether an applicant is disqualified by reason of the applicant's immigration status from operating a private hire vehicle, the licensing authority must have regard to any guidance issued by the Secretary of State.
+
+(4) A London PHV operator’s licence shall be granted subject to such conditions as may be prescribed and such other conditions as the licensing authority may think fit.
+
+(5) Subject to section 3A, a[^key-bb1439405e93fbf2f0bc6e34c2109cad] London PHV operator’s licence shall be granted for five years or such shorter period as the licensing authority may consider appropriate in the circumstances of the case.
+
+(6) A London PHV operator’s licence shall—
+
+- (a) specify the address of any premises in London which the holder of the licence may use as an operating centre;
+- (b) be in such form and contain such particulars as the licensing authority may think fit.
+
+(7) An applicant for a London PHV operator’s licence may appeal to a magistrates’ court against—
+
+- (a) a decision not to grant such a licence;
+- (b) a decision not to specify an address proposed in the application as an operating centre; or
+- (c) any condition (other than a prescribed condition) to which the licence is subject.
+
+### 3A. London PHV operator's licences for persons subject to immigration control[^key-7098045764586af4042225d05ec2dbd1]
+
+(1) Subsection (2) applies if—
+
+- (a) a London PHV operator's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period (“the leave period”);
+- (b) the person's leave has not been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision); and
+- (c) apart from subsection (2), the period for which the licence would have been granted would have ended after the end of the leave period.
+
+(2) The licence must be granted for a period which ends at or before the end of the leave period.
+
+(3) Subsection (4) applies if—
+
+- (a) a London PHV operator's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period; and
+- (b) the person's leave has been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision).
+
+(4) The licence must be granted for a period which does not exceed six months.
+
+(5) A London PHV operator's licence ceases to be in force if the person to whom it was granted becomes disqualified by reason of the person's immigration status from operating a private hire vehicle.
+
+(6) If subsection (5) applies to a licence, the person to whom it was granted must, within the period of 7 days beginning with the day after the day on which the person first became disqualified, return it to the licensing authority.
+
+(7) A person who, without reasonable excuse, contravenes subsection (6) is guilty of an offence and liable on summary conviction—
+
+- (a) to a fine not exceeding level 3 on the standard scale; and
+- (b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
+
+(8) The Secretary of State may by regulations amend the amount for the time being specified in subsection (7)(b).
+
+### 4. Obligations of London operators.[^c952124]
+
+(1) The holder of a London PHV operator’s licence (in this Act referred to as a “London PHV operator”) shall not in London accept a private hire booking other than at an operating centre specified in his licence.
+
+(2)[^key-16f1a6f00d60459f1059b4a06ca2f950] A London PHV operator shall secure that any vehicle which is provided by him for carrying out a private hire booking accepted by him in London is—
+
+- (a) a vehicle for which a London PHV licence is in force driven by a person holding a London PHV driver’s licence; or
+- (b) a London cab driven by a person holding a London cab driver’s licence.
+
+(3) A London PHV operator shall—
+
+- (a) display a copy of his licence at each operating centre specified in the licence;
+- (b) keep at each specified operating centre a record in the prescribed form of the private hire bookings accepted by him there;
+- (c) before the commencement of each journey booked at a specified operating centre, enter in the record kept under paragraph (b) the prescribed particulars of the booking;
+- (d)[^key-1ea8a20eaa8e3cd935aabd0b58182f7d] keep at the specified operating centre or, where more than one operating centre is specified, at one of the operating centres such records as may be prescribed of particulars of the private hire vehicles and drivers which are available to him for carrying out bookings accepted by him at that or, as the case may be, each centre;
+- (da) where more than one operating centre is specified—
+  - (i) give notice to the licensing authority, and
+  - (ii) display at each specified operating centre a notice,
+
+  stating the address of the operating centre at which the records are kept under paragraph (d);
+- (e) at the request of a constable or authorised officer, produce for inspection any record required by this section to be kept.
+
+(4) If a London PHV operator ceases to use an operating centre specified in his licence he shall preserve any record he was required by this section to keep there for such period as may be prescribed.
+
+(5) A London PHV operator who contravenes any provision of this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) It is a defence in proceedings for an offence under this section for an operator to show that he exercised all due diligence to avoid committing such an offence.
+
+### 5. Hirings accepted on behalf of another operator.[^c952125]
+
+(1) A London PHV operator (“**the first operator**”) who has in London accepted a private hire booking may not arrange for another operator to provide a vehicle to carry out that booking as sub-contractor unless—
+
+- (a) the other operator is a London PHV operator and the sub-contracted booking is accepted at an operating centre in London;
+- (b) the other operator is licensed under section 55 of the [^c952126]Local Government (Miscellaneous Provisions) Act 1976 (in this Act referred to as “**the 1976 Act**”) by the council of a district and the sub-contracted booking is accepted in that district; or
+- (c) the other operator accepts the sub-contracted booking in Scotland.
+
+(2) A London PHV operator who contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) It is a defence in proceedings for an offence under this section for an operator to show that he exercised all due diligence to avoid committing such an offence.
+
+(4) It is immaterial for the purposes of subsection (1) whether or not sub-contracting is permitted by the contract between the first operator and the person who made the booking.
+
+(5) For the avoidance of doubt (and subject to any relevant contract terms), a contract of hire between a person who made a private hire booking at an operating centre in London and the London PHV operator who accepted the booking remains in force despite the making of arrangements by that operator for another contractor to provide a vehicle to carry out that booking as sub-contractor.
+
+## Regulation of private hire vehicles in London
+
+### 6. Requirement for private hire vehicle licence.[^key-483ab49b5e2e42ba6d38059694184cb0]
+
+(1) A vehicle shall not be used as a private hire vehicle on a road in London unless a private hire vehicle licence is in force for that vehicle.
+
+(2) The driver and operator of a vehicle used in contravention of this section are each guilty of an offence.
+
+(3) The owner of a vehicle who permits it to be used in contravention of this section is guilty of an offence.
+
+(4) It is a defence in proceedings for an offence under subsection (2) for the driver or operator to show that he exercised all due diligence to prevent the vehicle being used in contravention of this section.
+
+(5) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(6) In this section “**private hire vehicle licence**” means—
+
+- (a) except where paragraph (b) or (c) applies, a London PHV licence;
+- (b) if the vehicle is in use for the purposes of a hiring the booking for which was accepted outside London in a controlled district, a licence under section 48 of the 1976 Act issued by the council for that district; and
+- (c) if the vehicle is in use for the purposes of a hiring the booking for which was accepted in Scotland, a licence under section 10 of the [^c952127]Civic Government (Scotland) Act 1982 (in this Act referred to as “**the 1982 Act**”),
+
+and for the purposes of paragraph (b) or (c) it is immaterial that the booking in question is a sub-contracted booking.
+
+(7) This section does not apply to a vehicle used for the purposes of a hiring for a journey beginning outside London in an area of England and Wales which is not a controlled district.
+
+### 7. London PHV licences.[^key-07259dedf49515aa5f22de3bb932494d]
+
+(1) The owner of any vehicle constructed or adapted to seat fewer than nine passengers may apply to the licensing authority[^c952129] for a private hire vehicle licence for London (in this Act referred to as a “London PHV licence”) for that vehicle.
+
+(2) The licensing authority shall grant a London PHV licence for a vehicle if the authority[^c952131] is satisfied—
+
+- (a) that the vehicle—
+  - (i) is suitable in type, size and design for use as a private hire vehicle;
+  - (ii) is safe, comfortable and in a suitable mechanical condition for that use; and
+  - (iii) is not of such design and appearance as would lead any person to believe that the vehicle is a London cab;
+- (b) that there is in force in relation to the use of the vehicle a policy of insurance or such security as complies with the requirements of Part VI of the [^c952132]Road Traffic Act 1988; and
+- (c) that any further requirements that may be prescribed are met.
+
+(3) A London PHV licence may not be granted in respect of more than one vehicle.
+
+(4) A London PHV licence shall be granted subject to such conditions as may be prescribed and such other conditions as the licensing authority may think fit.
+
+(5) A London PHV licence shall be in such form and shall contain such particulars as the licensing authority may think fit.
+
+(6) A London PHV licence shall be granted for one year or for such shorter period as the licensing authority may consider appropriate in the circumstances of the case.
+
+(7) An applicant for a London PHV licence may appeal to a magistrates’ court against a decision not to grant such a licence or against any condition (other than a prescribed condition) to which the licence is subject.
+
+### 8. Obligations of owners of licensed vehicles.[^key-51991b09faced6a1986b9b2ff0805a60]
+
+(1) This section applies to the owner of any vehicle to which a London PHV licence relates.
+
+(2) The owner shall present the vehicle for inspection and testing by or on behalf of the licensing authority[^c952137] within such period and at such place as the authority[^c952138] may by notice reasonably require.
+
+The vehicle shall not be required to be presented under this subsection on more than three separate occasions during any one period of 12 months.
+
+(3) The owner shall (without prejudice to section 170 of the [^c952139]Road Traffic Act 1988) report any accident to the vehicle materially affecting—
+
+- (a) the safety, performance or appearance of the vehicle, or
+- (b) the comfort or convenience of persons carried in the vehicle,
+
+to the licensing authority as soon as reasonably practical and in any case within 72 hours of the accident occurring.
+
+(4) If the ownership of the vehicle changes, the person who was previously the owner shall within 14 days of the change give notice to the licensing authority of that fact and the name and address of the new owner.
+
+(5) A person who, without reasonable excuse, contravenes any provision of this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 9. Fitness of licensed vehicles.[^key-435d2c7539106f32543a983c2c239969]
+
+(1) A constable or authorised officer has power at all reasonable times to inspect and test, for the purpose of ascertaining its fitness, any vehicle to which a London PHV licence relates.
+
+(2) If a constable or authorised officer is not satisfied as to the fitness of such a vehicle he may by notice to the owner of the vehicle—
+
+- (a) require the owner to make the vehicle available for further inspection and testing at such reasonable time and place as may be specified in the notice; and
+- (b) if he thinks fit, suspend the London PHV licence relating to that vehicle until such time as a constable or authorised officer is satisfied as to the fitness of the vehicle.
+
+(3) A notice under subsection (2)(b) shall state the grounds on which the licence is being suspended and the suspension shall take effect on the day on which it is served on the owner.
+
+(4) A licence suspended under subsection (2)(b) shall remain suspended until such time as a constable or authorised officer by notice to the owner directs that the licence is again in force.
+
+(5) If a licence remains suspended at the end of the period of two months beginning with the day on which a notice under subsection (2)(b) was served on the owner of the vehicle—
+
+- (a) a constable or authorised officer may by notice to the owner direct that the licence is revoked; and
+- (b) the revocation shall take effect at the end of the period of 21 days beginning with the day on which the owner is served with that notice.
+
+(6) An owner may appeal against a notice under subsection (2)(b) or (5) to a magistrates’ court.
+
+### 10. Identification of licensed vehicles.[^key-093615295951cdc3cb46b9a05162309c]
+
+(1) The licensing authority[^c952142] shall issue a disc or plate for each vehicle to which a London PHV licence relates which identifies that vehicle as a vehicle for which such a licence is in force.
+
+(2) No vehicle to which a London PHV licence relates shall be used as a private hire vehicle on a road in London unless the disc or plate issued under this section is exhibited on the vehicle in such manner as may be prescribed.
+
+(3) The licensing authority may by notice exempt a vehicle from t he requirement under subsection (2) when it is being used to provide a service specified in the notice if the authority[^c952144] considers it inappropriate (having regard to that service) to require the disc or plate in question to be exhibited.
+
+(4) The driver and operator of a vehicle used in contravention of subsection (2) are each guilty of an offence.
+
+(5) The owner of a vehicle who permits it to be used in contravention of subsection (2) is guilty of an offence.
+
+(6) It is a defence in proceedings for an offence under subsection (4) for the driver or operator to show that he exercised all due diligence to prevent the vehicle being used in contravention of subsection (2).
+
+(7) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 11. Prohibition of taximeters.[^key-a6ec4a5beaaf32c27f3e98a08aef4fd6]
+
+(1) No vehicle to which a London PHV licence relates shall be equipped with a taximeter.
+
+(2) If such a vehicle is equipped with a taximeter, the owner of that vehicle is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) In this section “**taximeter**” means a device for calculating the fare to be charged in respect of any journey by reference to the distance travelled or time elapsed since the start of the journey (or a combination of both).
+
+## Regulation of drivers of private hire vehicles in London
+
+### 12. Requirement for private hire vehicle driver’s licence.
+
+(1)[^key-d65b3d9356dcb1aa53b4f85bc2f33892] No vehicle shall be used as a private hire vehicle on a road in London unless the driver holds a private hire vehicle driver’s licence.
+
+(2)[^key-d65b3d9356dcb1aa53b4f85bc2f33892] The driver and operator of a vehicle used in contravention of this section are each guilty of an offence.
+
+(3)[^key-d65b3d9356dcb1aa53b4f85bc2f33892] The owner of a vehicle who permits it to be used in contravention of this section is guilty of an offence.
+
+(4)[^key-d65b3d9356dcb1aa53b4f85bc2f33892] It is a defence in proceedings against the operator of a vehicle for an offence under subsection (2) for the operator to show that he exercised all due diligence to prevent the vehicle being used in contravention of this section.
+
+(5)[^key-d65b3d9356dcb1aa53b4f85bc2f33892] A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(6)[^key-d65b3d9356dcb1aa53b4f85bc2f33892] In this section “**private hire vehicle driver’s licence**” means—
+
+- (a) except where paragraph (b) or (c) applies, a London PHV driver’s licence;
+- (b) if the vehicle is in use for the purposes of a hiring the booking for which was accepted outside London in a controlled district in England and Wales, a licence under section 51 of the 1976 Act issued by the council for that district; and
+- (c) if the vehicle is in use for a hiring the booking for which was accepted in Scotland, a licence under section 13 of the 1982 Act,
+
+and for the purposes of paragraph (b) or (c) it is immaterial that the booking in question is a sub-contracted booking.
+
+(7)[^key-9ad113b00e58dd6378c0b055bc857409] This section does not apply to the use of a vehicle for the purposes of a hiring for a journey beginning outside London in an area of England and Wales which is not a controlled district.
+
+### 13. London PHV driver’s licences.[^key-edea7b5d633300accdb95168e5089948]
+
+(1)[^key-faa1f8af3e7772711e4cabe70e7307e2] Any person may apply to the licensing authority[^c952146] for a private hire vehicle driver’s licence for London (in this Act referred to as a “London PHV driver’s licence”).
+
+(2) The licensing authority shall grant a London PHV driver’s licence to an applicant if the authority[^c952148] is satisfied that—
+
+- (a)[^key-faa1f8af3e7772711e4cabe70e7307e2] the applicant has attained the age of 21, is (and has for at least three years been) authorised to drive a motor car and is a fit and proper person to hold a London PHV driver’s licence;
+- (aa)[^key-a6e06e597fffe9e8044f870ccfd5fdb8] the applicant is not disqualified by reason of the applicant's immigration status from driving a private hire vehicle; and
+- (b)[^key-5abc9a9a0917005cb50a81d341906891][^key-d7f7dd1ab5644fff08828f43c4044f5f] the requirement mentioned in subsection (3), and any further requirements prescribed by the licensing authority, are met.
+
+(2A)[^key-334cee9eb0534f5b6bcc904b24efc35e] In determining for the purposes of subsection (2) whether an applicant is disqualified by reason of the applicant's immigration status from driving a private hire vehicle, the licensing authority must have regard to any guidance issued by the Secretary of State.
+
+(3)[^key-8195319fe62f7d4f64f819aa6cea6c3f] The licensing authority shall require applicants to show to the authority’s satisfaction (whether by taking a test or otherwise) that they possess a level—
+
+- (a) of knowledge of London or parts of London; and
+- (b) of general topographical skills,
+
+which appears to the authority to be appropriate.
+
+The licensing authority may impose different requirements in relation to different applicants.
+
+(4)[^key-faa1f8af3e7772711e4cabe70e7307e2] The licensing authority may send a copy of an application to the Commissioner of Police of the Metropolis or the Commissioner of Police for the City of London with a request for the Commissioner’s observations; and the Commissioner shall respond to the request.
+
+(5)[^key-faa1f8af3e7772711e4cabe70e7307e2] A London PHV driver’s licence—
+
+- (a) may be granted subject to such conditions as the licensing authority may think fit;
+- (b) shall be in such form and shall contain such particulars as the licensing authority may think fit; and
+- (c) subject to section 13A,[^key-8777fbbd5080325d66aa9a0b58a5eb3a] shall be granted for three years or for such shorter period as the licensing authority may consider appropriate in the circumstances of the particular case.
+
+(6)[^key-faa1f8af3e7772711e4cabe70e7307e2] An applicant may appeal to a magistrates’ court against a decision not to grant a London PHV driver’s licence or against any condition to which such a licence is subject.
+
+(7)[^key-faa1f8af3e7772711e4cabe70e7307e2] For the purposes of subsection (2), a person is authorised to drive a motor car if—
+
+- (a) he holds a licence granted under Part III of the [^c952158]Road Traffic Act 1988 (other than a provisional licence) authorising him to drive a motor car; or
+- (b) he is authorised by virtue of section 99A(1) or 109(1) of that Act (Community licences and Northern Ireland licences) to drive a motor car in Great Britain.
+
+### 13A. London PHV driver's licences for persons subject to immigration control[^key-8a92f6d20d1bd3449cb9b5b287085db7]
+
+(1) Subsection (2) applies if—
+
+- (a) a London PHV driver's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period (“the leave period”);
+- (b) the person's leave has not been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision); and
+- (c) apart from subsection (2), the period for which the licence would have been granted would have ended after the end of the leave period.
+
+(2) The licence must be granted for a period which ends at or before the end of the leave period.
+
+(3) Subsection (4) applies if—
+
+- (a) a London PHV driver's licence is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period; and
+- (b) the person's leave has been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision).
+
+(4) The licence must be granted for a period which does not exceed six months.
+
+(5) A London PHV driver's licence ceases to be in force if the person to whom it was granted becomes disqualified by reason of the person's immigration status from driving a private hire vehicle.
+
+(6) If subsection (5) applies to a licence, the person to whom it was granted must, within the period of 7 days beginning with the day after the day on which the person first became disqualified, return the licence and the person's driver's badge to the licensing authority.
+
+(7) A person who, without reasonable excuse, contravenes subsection (6) is guilty of an offence and liable on summary conviction—
+
+- (a) to a fine not exceeding level 3 on the standard scale; and
+- (b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
+
+(8) The Secretary of State may by regulations amend the amount for the time being specified in subsection (7)(b).
+
+### 14. Issue of driver’s badges.
+
+(1)[^key-8b7b83fabc4854afc62e606a423d3b6a] The licensing authority[^c952159] shall issue a badge to each person to whom the authority[^c952160] has granted a London PHV driver’s licence.
+
+(2)[^key-8b7b83fabc4854afc62e606a423d3b6a] The licensing authority may prescribe the form of badges issued under this section.
+
+(3)[^key-6975d12017093b8bdc5fc08b40ca92f8] A person issued with such a badge shall, when he is the driver of a vehicle being used as a private hire vehicle—
+
+- (a)[^key-41ae3bf137aeadc1983be03247fa41a4] wear the badge in such position and manner as to be plainly and distinctly visible, and[^key-82bbf634cc40f8277f897a0303834352]
+- (b) at the request of any person, produce the badge for inspection.
+
+(4)[^key-8b7b83fabc4854afc62e606a423d3b6a] The licensing authority may by notice exempt a person from the requirement under subsection (3)(a)[^key-b19c2d21f003e3a44c74f1a6b84c11f3] , when he is the driver of a vehicle being used to provide a service specified in the notice if the authority considers it inappropriate (having regard to that service) to require the badge to be worn.
+
+(5)[^key-6975d12017093b8bdc5fc08b40ca92f8] Any person who without reasonable excuse contravenes subsection (3) is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+## Licences: general provisions
+
+### 15. Applications for licences.[^c952164]
+
+(1) An application for the grant of a licence under this Act shall be made in such form, and include such declarations and information, as the licensing authority[^c952165] may require.
+
+(2) The licensing authority may require an applicant to furnish such further information as the authority[^c952167] may consider necessary for dealing with the application.
+
+(3) The information which an applicant for a London PHV operator’s licence may be required to furnish includes in particular information about—
+
+- (a) any premises in London which he proposes to use as an operating centre;
+- (b) any convictions recorded against him;
+- (c) any business activities he has carried on before making the application;
+- (d) if the applicant is or has been a director or secretary of a company, that company;
+- (e) if the applicant is a company, information about the directors or secretary of that company;
+- (f) if the applicant proposes to act as an operator in partnership with any other person, information about that person.
+
+(4)[^key-2e99f97b999710d12e7d6a66c6c80d60] An applicant for a London PHV driver’s licence may be required by the licensing authority—
+
+- (a) to produce a certificate signed by a registered medical practitioner to the effect that—
+  - (i) he is physically fit to be the driver of a private hire vehicle; and
+  - (ii) if any specific requirements of physical fitness have been prescribed for persons holding London PHV licences, that he meets those requirements; and
+- (b) whether or not such a certificate has been produced, to submit to examination by a registered medical practitioner selected by the licensing authority as to his physical fitness to be the driver of such a vehicle.
+
+(5) The provisions of this Act apply to the renewal of a licence as they apply to the grant of a licence.
+
+### 16. Power to suspend or revoke licences.[^c952169]
+
+(1) The licensing authority[^c952170] may suspend or revoke a licence under this Act for any reasonable cause including (without prejudice to the generality of this subsection) any ground mentioned below.
+
+(2) A London PHV operator’s licence may be suspended or revoked where—
+
+- (a) the licensing authority is no longer satisfied that the licence holder is fit to hold such a licence;
+- (aa)[^key-d31d402b4eeb873a3cf29ccf4911dfa6] the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty; or
+- (b) the licence holder has failed to comply with any condition of the licence or any other obligation imposed on him by or under this Act.
+
+(2A)[^key-14ad1de0c3c3e62ce31b4ab6243d6186] Subsection (2)(aa) does not apply if—
+
+- (a) in a case where the licence holder has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders Act 1974, or
+- (b) in a case where the licence holder has been required to pay an immigration penalty—
+  - (i) more than three years have elapsed since the date on which the penalty was imposed, and
+  - (ii) the amount of the penalty has been paid in full.
+
+(3)[^key-7e5bb300b5c41d8d51eebb218afc21d9] A London PHV licence may be suspended or revoked where—
+
+- (a) the licensing authority is no longer satisfied that the vehicle to which it relates is fit for use as a private hire vehicle; or
+- (b) the owner has failed to comply with any condition of the licence or any other obligation imposed on him by or under this Act.
+
+(4)[^key-52d079c58f1b6d83aa09971d6eae61a0] A London PHV driver’s licence may be suspended or revoked where—
+
+- (a) the licence holder has, since the grant of the licence, been convicted of an offence involving dishonesty, indecency or violence;
+- (aa)[^key-b5acfebac5c2fb3e2928072aac501bd0] the licence holder has, since the grant of the licence, been convicted of an immigration offence or required to pay an immigration penalty;
+- (b) the licensing authority is for any other reason no longer satisfied that the licence holder is fit to hold such a licence; or
+- (c) the licence holder has failed to comply with any condition of the licence or any other obligation imposed on him by or under this Act.
+
+(5)[^key-24651ba8065fc8a373dbf0ef0ef78a12] Subsection (4)(aa) does not apply if—
+
+- (a) in a case where the licence holder has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders Act 1974, or
+- (b) in a case where the licence holder has been required to pay an immigration penalty—
+  - (i) more than three years have elapsed since the date on which the penalty was imposed, and
+  - (ii) the amount of the penalty has been paid in full.
+
+### 17. Suspension and revocation under section 16: procedure.
+
+(1) Where the licensing authority[^c952174] has decided to suspend or revoke a licence under section 16—
+
+- (a) the authority[^c952175] shall give notice of the decision and the grounds for the decision to the licence holder or, in the case of a London PHV licence, the owner of the vehicle to which the licence relates; and
+- (b) the suspension or revocation takes effect at the end of the period of 21 days beginning with the day on which that notice is served on the licence holder or the owner.
+
+(2) If the licensing authority is of the opinion that the interests of public safety require the suspension or revocation of a licence to have immediate effect, and the authority includes a statement of that opinion and the reasons for it in the notice of suspension or revocation, the suspension or revocation takes effect when the notice is served on the licence holder or vehicle owner (as the case may be).
+
+(3) A licence suspended under this section shall remain suspended until such time as the licensing authority by notice directs that the licence is again in force.
+
+(4) The holder of a London PHV operator’s or driver’s licence, or the owner of a vehicle to which a PHV licence relates, may appeal to a magistrates’ court against a decision under section 16 to suspend or revoke that licence.
+
+### 18. Variation of operator’s licence at the request of the operator.
+
+(1) The licensing authority[^c952179] may, on the application of a London PHV operator, vary his licence by adding a reference to a new operating centre or removing an existing reference to an operating centre.
+
+(2) An application for the variation of a licence under this section shall be made in such form, and include such declarations and information, as the licensing authority may require.
+
+(3) The licensing authority may require an applicant to furnish such further information as he may consider necessary for dealing with the application.
+
+(4) The licensing authority shall not add a reference to a new operating centre unless the authority[^c952183] is satisfied that the premises in question meet any requirements prescribed under section 3(3)(b).
+
+(5) An applicant for the variation of a London PHV operator’s licence under this section may appeal to a magistrates’ court against a decision not to add a new operating centre to the licence.
+
+### 19. Variation of operator’s licence by the licensing authority.[^c952184]
+
+(1) The licensing authority[^c952185] may—
+
+- (a) suspend the operation of a London PHV operator’s licence so far as relating to any operating centre specified in the licence; or
+- (b) vary such a licence by removing a reference to an operating centre previously specified in the licence,
+
+if the authority[^c952186] is no longer satisfied that the operating centre in question meets any requirements prescribed under section 3(3)(b) or for any other reasonable cause.
+
+(2) Where the licensing authority has decided to suspend the operation of a licence as mentioned in subsection (1)(a) or vary a licence as mentioned in subsection (1)(b)—
+
+- (a) the authority shall give notice of the decision and the grounds for it to the licence holder; and
+- (b) the decision shall take effect at the end of the period of 21 days beginning with the day on which the licence holder is served with that notice.
+
+(3) If the licensing authority is of the opinion that the interests of public safety require authority’s decision to have immediate effect, and the authority includes a statement of that opinion and the reasons for it in the notice, authority’s decision shall take effect when the notice is served on the licence holder.
+
+(4) If a licence is suspended in relation to an operating centre, the premises in question shall not be regarded for the purposes of this Act as premises at which the licence holder is authorised to accept private hire bookings, until such time as the licensing authority by notice states that the licence is no longer suspended in relation to those premises.
+
+(5) The holder of a London PHV operator’s licence may appeal to a magistrates’ court against a decision under subsection (1).
+
+### 20. Fees for grant of licences, etc.
+
+(1) The licensing authority[^c952194] may by regulations provide for prescribed fees to be payable—
+
+- (a) by an applicant for a licence under this Act, or for the variation of a London operator’s licence under section 18, on making the application;
+- (b) by a person granted a licence or variation, on the grant or variation of the licence and (if the regulations so provide) at such times while the licence is in force as may be prescribed.
+
+(2) Regulations under this section may provide for fees to be payable by instalments, or for fees to be remitted or refunded (in whole or part), in prescribed cases.
+
+(3) The licensing authority may decline to proceed with—
+
+- (a) an application for, or for the variation of, a licence; or
+- (b) the grant or variation of a licence,
+
+until any prescribed fee (or instalment) due in respect of the application or grant is paid.
+
+### 21. Production of documents.[^c952196]
+
+(1) The holder of a London PHV operator’s licence or a London PHV driver’s licence shall at the request of a constable or authorised officer produce his licence for inspection.
+
+(2)[^key-09566c41e3862ce61669d0b9ba437820] The owner of a vehicle to which a London PHV licence relates shall at the request of a constable or authorised officer produce for inspection—
+
+- (a) the London PHV licence for that vehicle;
+- (b) the certificate of the policy of insurance or security required in respect of the vehicle by Part VI of the [^c952197]Road Traffic Act 1988.
+
+(3) A document required to be produced under this section shall be produced either forthwith or—
+
+- (a) if the request is made by a constable, at any police station within London nominated by the licence holder or vehicle owner when the request is made, or
+- (b) if the request is made by an authorised officer, at such place as the officer may reasonably require,
+
+before the end of the period of 6 days beginning with the day on which the request is made.
+
+(4) A person who without reasonable excuse contravenes this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 22. Return of licences, etc.[^c952198]
+
+(1) Without prejudice to subsection (1A),[^key-2cfe18a8eaa975bd345a8272cb275d6f] the holder of a London PHV operator’s licence shall return the licence to the licensing authority[^c952199] after the expiry or revocation of that licence, within the period of 7 days after the day on which the licence expires or the revocation takes effect.
+
+(1A)[^key-8acb2657ac423517b5c09307f897a4c6] Where the suspension or revocation of a London PHV operator’s licence has immediate effect by virtue of section 17(2), the holder of the licence shall, at the request of a constable or authorised officer, forthwith return the licence to the constable or officer.
+
+(2)[^key-5000c1f5ae9b1313fb2942dc11c7a828] Without prejudice to subsection (2A),[^key-b25a38d38c59b39c34e6507d09b105f6] the owner of a vehicle to which a London PHV licence relates shall return the licence and every plate or disc[^key-ec4f094bd54343f0536353201b1dfa9d] which was issued for the vehicle under section 10 or any regulations made under this Act[^key-e1cf8f7dc1cb1535d5f428950294986f] to the licensing authority after the expiry or revocation of that licence within the period of 7 days after the day on which the licence expires or the revocation takes effect.
+
+(2A)[^key-d1ccf4d53ccec9070f1818a6592d2cc5] Where the suspension or revocation of a London PHV licence has immediate effect by virtue of section 9(3) or 17(2), the owner of the vehicle to which the licence relates shall, at the request of a constable or authorised officer, forthwith return to the constable or officer the licence and every plate or disc which was issued for the vehicle under section 10 or any regulations made under this Act.
+
+(3)[^key-e005a67a5166b8ed44427f6988f568f8] Without prejudice to subsection (3A),[^key-26289f790d457b7b1477d7b111e54863] the holder of a London PHV driver’s licence shall return the licence and his driver’s badge to the licensing authority after the expiry or revocation of that licence, within the period of 7 days after the day on which the licence expires or the revocation takes effect.
+
+(3A)[^key-7031660e30b2c4386b0961a798dfe8d4] Where the suspension or revocation of a London PHV driver’s licence has immediate effect by virtue of section 17(2), the holder of the licence shall, at the request of a constable or authorised officer, forthwith return his driver’s badge to the constable or officer.
+
+(4) Without prejudice to subsections (1A), (2A) and (3A),[^key-665fd4c461ff86db88cfa7117482b6e8] on the suspension of a licence under this Act, the licensing authority, a constable or an authorised officer may by notice direct the holder of the licence, or the owner of the vehicle, to return the licence to the authority, constable or officer (as the case may be)[^c952202] within the period of 7 days after the day on which the notice is served on that person.
+
+A direction under this subsection may also direct—
+
+- (a) the return by the vehicle owner of every disc or plate[^key-2da728f67d61caf04d267e9b8e822a9e] which was issued for the vehicle under section 10 or any regulations made under this Act[^key-4e2f425691d5faf39398a472084248b1] (in the case of a London PHV licence); or
+- (b) the return by the licence holder of the driver’s badge (in the case of a London PHV driver’s licence).
+
+(5) A person who without reasonable excuse fails to comply with any requirement or direction under this section to return a licence, disc, plate or badge is guilty of an offence.
+
+(6) A person guilty of an offence under this section is liable on summary conviction—
+
+- (a) to a fine not exceeding level 3 on the standard scale; and
+- (b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
+
+(7)[^key-e69b0ab2a892e3ba23f67e0f086e8e6f] A constable or authorised officer is entitled to remove and retain every disc or plate[^key-2b683f2ba2055343eca3fddb11df4d69] from a vehicle to which an expired, suspended or revoked London PHV licence relates following—
+
+- (a) a failure to comply with subsection (2) or a direction under subsection (4);
+- (b) a suspension or revocation of the licence which has immediate effect by virtue of section 9(3) or 17(2).
+
+### 23. Register of licences.
+
+(1) The licensing authority[^c952203] shall maintain a register containing the following particulars for each licence issued under this Act, namely—
+
+- (a) the number of the licence, the name [^key-dc25ba2cf76be4a31e79104e3d97f84f]... of the person to whom it is granted, the date on which it is granted and the expiry date; and
+- (b) such other particulars as may be prescribed.
+
+(2)[^key-d198b2202d9aa1114a12a6a27bb4c45a] The register kept under subsection (1)[^key-659fd4bcc2b0e782de9efabe6039383b] shall be available for inspection free of charge by members of the public at such place or places, and during such hours, as are determined by the licensing authority.
+
+(3)[^key-922ae3183b450ac3ad9c89dbd2485365] The licensing authority shall maintain a supplementary register containing, for each licence issued under this Act, the address of the person to whom it is granted.
+
+(4) The licensing authority may disclose the address of a licence holder to any person only if it appears to the authority that the person has a sufficient reason for requiring that information.
+
+### 24. Delegation of functions by the licensing authority.[^c952205]
+
+(1) The functions of the licensing authority[^c952206] under this Act (apart from any power to make subordinate legislation) may be exercised by any person appointed by the licensing authority for the purpose to such extent and subject to such conditions as may be specified in the appointment.
+
+(2) An appointment under this section may authorise the person appointed to retain any fees received by him.
+
+(3) It is the duty of a person appointed under this section to comply with any directions given to him by the licensing authority in relation to the exercise of functions under this Act.
+
+### 25. Appeals.
+
+(1) This section applies to any appeal which lies under this Act to a magistrates’ court against a decision of the licensing authority[^c952210], a constable or an authorised officer in relation to, or to an application for, a licence under this Act.
+
+(2) If the licensing authority has exercised the power to delegate functions under section 24, such an appeal shall be heard by a magistrates' court[^key-74ddbf18b3592042ce2a37a265ef326c].
+
+(3) Any such appeal shall be by way of complaint for an order and the [^c952212]Magistrates’ Courts Act 1980 shall apply to the proceedings.
+
+(4) The time within which a person may bring such an appeal is 21 days from the date on which notice of the decision appealed against is served on him.
+
+(5) In the case of a decision where an appeal lies, the notice of the decision shall state the right of appeal to a magistrates’ court and the time within which an appeal may be brought.
+
+(6) An appeal against any decision of a magistrates’ court in pursuance of an appeal to which this section applies shall lie to the Crown Court at the instance of any party to the proceedings in the magistrates’ court.
+
+(7) Where on appeal a court varies or reverses any decision of the licensing authority, a constable or an authorised officer, the order of the court shall be given effect to by the licensing authority or, as the case may be, a constable or authorised officer.
+
+(8)[^key-23929ddaeb731dc9847fda4129c00957] On an appeal under this Act to the magistrates' court or the Crown Court, the court is not entitled to entertain any question as to whether—
+
+- (a) a person should be, or should have been, granted leave to enter or remain in the United Kingdom; or
+- (b) a person has, after the date of the decision being appealed against, been granted leave to enter or remain in the United Kingdom.
+
+### 26. Effect of appeal on decision appealed against.
+
+(1) If any decision of the licensing authority[^c952215] against which a right of appeal is conferred by this Act—
+
+- (a) involves the execution of any work or the taking of any action;
+- (b) makes it unlawful for any person to carry on a business which he was lawfully carrying on at the time of the decision,
+
+the decision shall not take effect until the time for appealing has expired or (where an appeal is brought) until the appeal is disposed of or withdrawn.
+
+(2) This section does not apply in relation to a decision to suspend, vary or revoke a licence if the notice of suspension, variation or revocation directs that, in the interests of public safety, the decision is to have immediate effect.
+
+### 27. Obstruction of authorised officers etc.
+
+(1) A person who wilfully obstructs a constable or authorised officer acting in pursuance of this Act is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) A person who, without reasonable excuse—
+
+- (a) fails to comply with any requirement properly made to such person by a constable or authorised officer acting in pursuance of this Act; or
+- (b) fails to give a constable or authorised officer acting in pursuance of this Act any other assistance or information which he may reasonably require of such person for the purpose of performing his functions under this Act,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) A person who makes any statement which he knows to be false in giving any information to an authorised officer or constable acting in pursuance of this Act is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 28. Penalty for false statements.
+
+A person who knowingly or recklessly makes a statement or furnishes information which is false or misleading in any material particular for the purpose of procuring the grant or renewal of a licence under this Act, or the variation of an operator’s licence under section 18, is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 29. Saving for vehicles used for funerals and weddings.
+
+Nothing in this Act applies to any vehicle whose use as a private hire vehicle is limited to use in connection with funerals or weddings.
+
+## Further controls
+
+### 30. Prohibition of certain signs, notices etc.[^key-4265411fa43cc955e28df736d257e31f]
+
+(1) The licensing authority[^c952216] may make regulations prohibiting the display in London on or from vehicles (other than licensed taxis and public service vehicles) of any sign, notice or other feature of a description specified in the regulations.
+
+(2) Before making the regulations the licensing authority shall consult such bodies appearing to the authority[^c952218] to represent the London cab trade and the private hire vehicle trade in London as the autority considers appropriate.
+
+(3) Any person who—
+
+- (a) drives a vehicle in respect of which a prohibition imposed by regulations under this section is contravened; or
+- (b) causes or permits such a prohibition to be contravened in respect of any vehicle,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+### 31. Prohibition of certain advertisements.[^key-c0c107f6bcdac5779a13642ab1474905]
+
+(1) This section applies to any advertisement—
+
+- (a) indicating that vehicles can be hired on application to a specified address in London;
+- (b) indicating that vehicles can be hired by telephone on a telephone number being the number of premises in London; or
+- (c) on or near any premises in London, indicating that vehicles can be hired at those premises.
+
+(2) No such advertisement shall include—
+
+- (a) any of the following words, namely “taxi”, “taxis”, “cab” or “cabs”, or
+- (b) any word so closely resembling any of those words as to be likely to be mistaken for it,
+
+(whether alone or as part of another word), unless the vehicles offered for hire are London cabs.
+
+(3) An advertisement which includes the word “minicab”, “mini-cab” or “mini cab” (whether in the singular or plural) does not by reason only of that fact contravene this section.
+
+(4) Any person who issues, or causes to be issued, an advertisement which contravenes this section is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(5) It is a defence for a person charged with an offence under this section to prove that—
+
+- (a) he is a person whose business it is to publish or arrange for the publication of advertisements;
+- (b) he received the advertisement in question for publication in the ordinary course of business; and
+- (c) he did not know and had no reason to suspect that its publication would amount to an offence under this section.
+
+(6) In this section—
+
+- “**advertisement**” includes every form of advertising (whatever the medium) and references to the issue of an advertisement shall be construed accordingly;
+- “**telephone number**” includes any number used for the purposes of communicating with another by electronic means; and “**telephone**” shall be construed accordingly.
+
+## Miscellaneous and supplementary
+
+*Extent: E+W+S+N.I.*
+
+### 32. Regulations.
+
+*Extent: E+W*
+
+(1) The licensing authority[^c952220] may make regulations for any purpose for which regulations may be made under this Act (other than section[^c952221] 3A(8), 13A(8) or[^key-afc455b9f74e366e01afc3b96ec0296a] 37)or for prescribing anything which falls to be prescribed under any provision of this Act (other than section 37).
+
+(2) Regulations under this Act may—
+
+- (a) make different provision for different cases;
+- (b) provide for exemptions from any provision of the regulations; and
+- (c) contain incidental, consequential, transitional and supplemental provision.
+
+(2A)[^key-d56dbd3ae0b67e7687a0b68aab7de540] The power to make regulations conferred on the Secretary of State by section 3A(8) or 13A(8) is exercisable by statutory instrument.
+
+(2B) A statutory instrument containing regulations under either of those sections may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(3) Any power to make regulations conferred on the Secretary of State by section 37[^c952223] is exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4)[^c952224] Any power of the licensing authority to make regulations under this Act includes power to vary or revoke previous regulations made under this Act (other than regulations made under section 3A(8), 13A(8) or[^key-06c8528ab8cbd0246ecb3eb2e8d213bf] 37).
+
+(5) Subsection (4) applies notwithstanding that the previous regulations in question were made by the Secretary of State by statutory instrument.
+
+(6) The licensing authority shall secure that any regulations made under this Act by the authority are printed and published.
+
+(7) A fee may be charged for the sale of regulations printed and published under subsection (6).
+
+### 33. Offences due to fault of other person.
+
+*Extent: E+W*
+
+(1) Where an offence by any person under this Act is due to the act or default of another person, then (whether proceedings are taken against the first mentioned person or not) that other person is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate (or any person purporting to act in that capacity), he as well as the body corporate is guilty of the offence is liable to be proceeded against and punished accordingly.
+
+### 34. Service of notices.[^c952226]
+
+*Extent: E+W*
+
+(1) Any notice authorised or required under this Act to be given to any person may be served by post.
+
+(2) For the purposes of section 7 of the [^c952227]Interpretation Act 1978 any such notice is properly addressed to a London PHV operator if it is addressed to him at any operating centre of his in London.
+
+(3)[^key-057903cf585392ae9b9973ff4d886b4c] Any notice authorised or required under this Act to be given to the owner of a vehicle shall be deemed to have been effectively given if it is given to the person who is for the time being notified to the licensing authority[^c952228] for the purposes of this Act as the owner of the vehicle (or, if more than one person is currently notified as the owner, if it is given to any of them).
+
+### 35. References to the owner of a vehicle.[^key-8394037f6202a877ab32c8534d0ae836]
+
+*Extent: E+W*
+
+(1) For the purposes of this Act the owner of a vehicle shall be taken to be the person by whom it is kept.
+
+(2) In determining, in the course of any proceedings for an offence under this Act, who was the owner of a vehicle at any time it shall be presumed that the owner was the person who was the registered keeper of the vehicle at that time.
+
+(3) Notwithstanding that presumption—
+
+- (a) it is open to the defence to show that the person who was the registered keeper of a vehicle at any particular time was not the person by whom the vehicle was kept at that time; and
+- (b) it is open to the prosecution to prove that the vehicle was kept at that time by some person other than the registered keeper.
+
+(4) In this section “**registered keeper**”, in relation to a vehicle, means the person in whose name the vehicle was registered under the [^c952229]Vehicle Excise and Registration Act 1994.
+
+### 35A. Persons disqualified by reason of immigration status[^key-037ed8907577c5f6043f1ddcae2482a1]
+
+(1) For the purposes of this Act a person is disqualified by reason of the person's immigration status from carrying on a licensable activity if the person is subject to immigration control and—
+
+- (a) the person has not been granted leave to enter or remain in the United Kingdom; or
+- (b) the person's leave to enter or remain in the United Kingdom—
+  - (i) is invalid;
+  - (ii) has ceased to have effect (whether by reason of curtailment, revocation, cancellation, passage of time or otherwise); or
+  - (iii) is subject to a condition preventing the person from carrying on the licensable activity.
+
+(2) Where a person is on immigration bail within the meaning of Part 1 of Schedule 10 to the Immigration Act 2016—
+
+- (a) the person is to be treated for the purposes of this Act as if the person had been granted leave to enter the United Kingdom; but
+- (b) any condition as to the person's work in the United Kingdom to which the person's immigration bail is subject is to be treated for those purposes as a condition of leave.
+
+(3) For the purposes of this section a person is subject to immigration control if under the Immigration Act 1971 the person requires leave to enter or remain in the United Kingdom.
+
+(4) For the purposes of this section a person carries on a licensable activity if the person—
+
+- (a) operates a private hire vehicle; or
+- (b) drives a private hire vehicle.
+
+### 35B. Immigration offences and immigration penalties
+
+(1) In this Act “**immigration offence**” means—
+
+- (a) an offence under any of the Immigration Acts;
+- (b) an offence under section 1 of the Criminal Attempts Act 1981 of attempting to commit an offence within paragraph (a); or
+- (c) an offence under section 1 of the Criminal Law Act 1977 of conspiracy to commit an offence within paragraph (a).
+
+(2) In this Act “**immigration penalty**” means a penalty under—
+
+- (a) section 15 of the Immigration, Asylum and Nationality Act 2006 (“**the 2006 Act**”), or
+- (b) section 23 of the Immigration Act 2014 (“**the 2014 Act**”).
+
+(3) For the purposes of this Act a person to whom a penalty notice under section 15 of the 2006 Act has been given is not to be treated as having been required to pay an immigration penalty if—
+
+- (a) the person is excused payment by virtue of section 15(3) of that Act; or
+- (b) the penalty is cancelled by virtue of section 16 or 17 of that Act.
+
+(4) For the purposes of this Act a person to whom a penalty notice under section 15 of the 2006 Act has been given is not to be treated as having been required to pay an immigration penalty until such time as—
+
+- (a) the period for giving a notice of objection under section 16 of that Act has expired and the Secretary of State has considered any notice given within that period; and
+- (b) if a notice of objection was given within that period, the period for appealing under section 17 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.
+
+(5) For the purposes of this Act a person to whom a penalty notice under section 23 of the 2014 Act has been given is not to be treated as having been required to pay an immigration penalty if—
+
+- (a) the person is excused payment by virtue of section 24 of that Act; or
+- (b) the penalty is cancelled by virtue of section 29 or 30 of that Act.
+
+(6) For the purposes of this Act a person to whom a penalty notice under section 23 of the 2014 Act has been given is not to be treated as having been required to pay an immigration penalty until such time as—
+
+- (a) the period for giving a notice of objection under section 29 of that Act has expired and the Secretary of State has considered any notice given within that period; and
+- (b) if a notice of objection was given within that period, the period for appealing under section 30 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.
+
+### 36. Interpretation.
+
+*Extent: E+W*
+
+In this Act, unless the context otherwise requires—
+
+- “**authorised officer**” means an officer authorised in writing by the licensing authority[^c952235] for the purposes of this Act;
+- “controlled district” means any area for which Part II of the 1976 Act is in force by virtue of—[^c952236]
+  - (a) a resolution by a district council under section 45 of that Act; or
+  - (b) section 255(4) of the Greater London Authority Act 1999;
+
+- “**driver’s badge**” means the badge issued to the holder of a London PHV driver’s licence;
+- “**hackney carriage**” means a vehicle licensed under section 37 of the [^c952237]Town Police Clauses Act 1847 or any similar enactment;
+- “**licensed taxi**” means a hackney carriage, a London cab or a taxi licensed under Part II of the 1982 Act;
+- “[^c952238]**the licensing authority**” means Transport for London;
+- “**London**” means the area consisting of the metropolitan police district and the City of London (including the Temples);
+- “**London cab**” means a vehicle licensed under section 6 of the [^c952239]Metropolitan Public Carriage Act 1869;
+- “**London PHV driver’s licence**” means a licence under section 13;
+- “**London PHV licence**” means a licence under section 7;
+- “**London PHV operator**” has the meaning given in section 4(1);
+- “**London PHV operator’s licence**” means a licence under section 2;
+- “**notice**” means notice in writing;
+- “[^key-4456c02f6f44efdbfefd11f8e77da138]**operate**” has the meaning given in section 1(1);
+- “**operating centre**” has the meaning given in section 1(5);
+- “**operator**” has the meaning given in section 1(1);
+- “[^key-0e2d5a89c3a82d944beef19f9ae8c4c4]**power-assisted pedicab**” means a power-assisted pedal cycle, or a power-assisted pedal cycle in combination with a trailer, that is constructed or adapted for carrying one or more passengers (and for this purpose “**trailer**” has the same meaning as in the Pedicabs (London) Act 2024 (see section 8 of that Act));
+- “**prescribed**” means prescribed in regulations under section 32(1);
+- “**private hire vehicle**” has the meaning given in section 1(1);
+- “**public service vehicle**” has the same meaning as in the [^c952240]Public Passenger Vehicles Act 1981;
+- “**road**” means any length of highway or of any other road to which the public has access (including bridges over which a road passes);
+- “**the 1976 Act**” means the [^c952241]Local Government (Miscellaneous Provisions) Act 1976;
+- “**the 1982 Act**” means the [^c952242]Civic Government (Scotland) Act 1982; and
+- “**vehicle**” means a mechanically propelled vehicle , other than a power-assisted pedicab or a tramcar,[^key-95b903db5922a9720899d8cde249f5cc] intended or adapted for use on roads.
+
+### 37. Power to make transitional etc. provisions.
+
+*Extent: E+W*
+
+(1) The Secretary of State may by regulations make such transitional provisions and such savings as he considers necessary or expedient in preparation for, in connection with, or in consequence of—
+
+- (a) the coming into force of any provision of this Act; or
+- (b) the operation of any enactment repealed or amended by a provision of this Act during any period when the repeal or amendment is not wholly in force.
+
+(2) Regulations under this section may modify any enactment contained in this or in any other Act.
+
+(3)[^c952243] Before making regulations under this section the Secretary of State shall consult the licensing authority.
+
+### 38. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c952244]
+
+*Extent: E+W*
+
+### 39. Consequential amendments and repeals.
+
+(1)[^key-2ad3c74741b7019ef251f65b550497b3] Schedule 1 (minor and consequential amendments) shall have effect.
+
+(2)[^key-0885bbee04f98a6cbc2ead73a83d9183] The enactments mentioned in Schedule 2 are repealed to the extent specified.
+
+### 40. Short title, commencement and extent.
+
+*Extent: E+W*
+
+(1) This Act may be cited as the Private Hire Vehicles (London) Act 1998.
+
+(2)[^c952245] This Act (apart from this section) shall come into force on such date as the Secretary of State may by order made by statutory instrument appoint; but different dates may be appointed for different purposes.
+
+An order under this subsection may contain any provision which could be made under section 37 in connection with any provision brought into force by the order.
+
+(3) Any provision of this Act which amends or repeals any other Act has the same extent as the provision being amended or repealed.
+
+(4) Subject to subsection (3), this Act extends only to England and Wales.
+
+SCHEDULES
+
+## SCHEDULE 1 — Minor and consequential amendments
+
+Section 39(1).
+
+### Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+
+**1.**[^key-4c699538a52ed4f45a2bb6a282e23fc4] In section 75 of the Local Government (Miscellaneous Provisions) Act 1976 (exemptions), after subsection (2A) there shall be inserted the following subsection—
+
+> (2B) Paragraphs (a), (b) and (c) of section 46(1) of this Act shall not apply to the use or driving of a vehicle, or to the employment of a driver of a vehicle, if—
+>
+> - (a) a London PHV licence issued under section 7 of the Private Hire Vehicles (London) Act 1998 is in force in relation to that vehicle; and
+> - (b) the driver of the vehicle holds a London PHV driver’s licence issued under section 13 of that Act.
+
+### Public Passenger Vehicles Act 1981 (c. 14)
+
+**2.**[^key-35c680e076f02106132d13e52a68443c] In section 79 of the Public Passenger Vehicles Act 1981 (vehicles excluded from regulation as private hire vehicles), after the word “1982” there shall be inserted the words “ , in the Private Hire Vehicles (London) Act 1998 ”.
+
+### Civic Government (Scotland) Act 1982 (c. 45)
+
+**3.**[^key-f69148c00e5a644b7f5c81792cb4c3de] In section 21 of the Civic Government (Scotland) Act 1982 (offences), after subsection (3) there shall be inserted the following subsection—
+
+> (3A) Subsection (1)(b) above does not apply to the operation of a vehicle within an area in respect of which its operation or its driver is not licensed if there are in force—
+>
+> - (a) in respect of the vehicle, a licence under section 7 of the Private Hire Vehicles (London) Act 1998; and
+> - (b) in respect of its driver, a licence under section 13 of that Act.
+
+### Transport Act 1985 (c. 67)
+
+**4.**[^key-540f4037589eae572109684d86d2a67f] In section 13(3) of the Transport Act 1985 (defined terms for sections 10 to 13 of that Act), in the definition of “licensed hire car”, at the end there shall be inserted the words “ or section 7 of the Private Hire Vehicles (London) Act 1998 ”.
+
+## SCHEDULE 2 — Repeals[^key-0171732bb04e6441e2647f65aa1d122b][^key-5c103f1c43869d5380f29b3cdb1084fc]
+
+Section 39(2).
+
+| Chapter | Short title | Extent of repeal |
+| --- | --- | --- |
+| 1968 c. 7. | London Cab Act 1968. | Sections 4 and 4A. |
+| 1973 c. 20. | London Cab Act 1973. | The whole Act. |
+| 1990 c. 42. | Broadcasting Act 1990. | In Schedule 20, paragraph 10. |
+| 1992 c. 42. | Transport and Works Act 1992. | Section 62(2). |
+
+## Annotations
+
+[^c952115]: Extent: This Act extends only to England and Wales but any provision which amends or repeals any other Act has the same extent as the provision being amended or repealed, see [s. 40(3)(4)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/3/4)
+
+[^c952116]: Modification: Act (except ss. 37, 38, 40): transfer of functions (7.11.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(1)(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/1/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2001/3603](https://www.legislation.gov.uk/uksi/2001/3603), [art. 2](https://www.legislation.gov.uk/uksi/2001/3603/article/2)
+
+[^c952117]: Modification: Act excluded (1.7.2001) by [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14), [s. 79A(2)](https://www.legislation.gov.uk/ukpga/1981/14/section/79A/2) (as inserted (1.7.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 265](https://www.legislation.gov.uk/ukpga/2000/38/section/265); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3](https://www.legislation.gov.uk/uksi/2001/57/article/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (with [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II)) (as amended 22.1.2001) by [S.I. 2001/115](https://www.legislation.gov.uk/uksi/2001/115), [art. 2(6)](https://www.legislation.gov.uk/uksi/2001/115/article/2/6)); [S.I. 2001/1498](https://www.legislation.gov.uk/uksi/2001/1498), [art. 3](https://www.legislation.gov.uk/uksi/2001/1498/article/3)
+
+[^key-124aff27d38fbc1823eecca9f1255209]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/34) modified (1.4.2003) by [Private Hire Vehicles (London) (Transitional and Saving Provisions) Regulations 2003 (S.I. 2003/655)](https://www.legislation.gov.uk/uksi/2003/655), [reg. 8](https://www.legislation.gov.uk/uksi/2003/655/regulation/8)
+
+[^key-05d932c2c0801fa849d0b67797d2573c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/34) modified (8.3.2004) by [Private Hire Vehicles (London) (Transitional Provisions) Regulations 2004 (S.I. 2004/242)](https://www.legislation.gov.uk/uksi/2004/242), [regs. 4](https://www.legislation.gov.uk/uksi/2004/242/regulation/4), [5(2)](https://www.legislation.gov.uk/uksi/2004/242/regulation/5/2)
+
+[^key-e9fd2ed6539bb8cde3695e64bbc39aba]: Textual amendment: Words in s. 1(1)(a) repealed (31.3.2008 for E.W.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 54](https://www.legislation.gov.uk/ukpga/2006/49/section/54), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1), [(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(17)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/17); [S.I. 2007/3492](https://www.legislation.gov.uk/uksi/2007/3492), [art. 3](https://www.legislation.gov.uk/uksi/2007/3492/article/3)
+
+[^key-d1f142699538e433d2f8fa8be2680678]: Textual amendment: Word in s. 1(1)(a) omitted (1.12.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 35(a)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/35/a); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-47889be2241f911f81c3b92cf6f48a08]: Textual amendment: S. 1(1)(c) and word inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 35(b)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/35/b); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^c952118]: Textual amendment: Words in s. 3 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952120]: Textual amendment: Word in s. 3(3) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/3) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-657e26ebf18d85ed3e61961f30573766]: Textual amendment: S. 3(3)(aa) substituted for word (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 36(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/36/2) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-0a48a657b8940e694dcb204c5fea2242]: Textual amendment: S. 3(3A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 36(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/36/3) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-bb1439405e93fbf2f0bc6e34c2109cad]: Textual amendment: Words in s. 3(5) substituted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 36(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/36/4) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-7098045764586af4042225d05ec2dbd1]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1998/34/section/3A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 37](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/37) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^c952124]: Commencement: S. 4 partly in force; s. 4 not in force at Royal Assent see s. 40(2) ; s. 4(1)(3)(4) in force at 22.1.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 2](https://www.legislation.gov.uk/uksi/2000/3144/article/2); s. 4(5)(6) in force at 22.10.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 3](https://www.legislation.gov.uk/uksi/2000/3144/article/3)
+
+[^key-16f1a6f00d60459f1059b4a06ca2f950]: Commencement: S. 4(2) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^key-1ea8a20eaa8e3cd935aabd0b58182f7d]: Textual amendment: S. 4(3)(d)(da) substituted for s. 4(3)(d) (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 25](https://www.legislation.gov.uk/ukla/2008/1/section/25)
+
+[^c952125]: Commencement: S. 5 wholly in force at 22.10.2001; s. 5 not in force at Royal Assent see s. 40(2); s. 5(5) in force at 22.1.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 2](https://www.legislation.gov.uk/uksi/2000/3144/article/2); s. 5(1)-(4) in force at 22.10.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 3](https://www.legislation.gov.uk/uksi/2000/3144/article/3)
+
+[^c952126]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
+
+[^key-483ab49b5e2e42ba6d38059694184cb0]: Commencement: S. 6 in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^c952127]: Marginal citation: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45).
+
+[^key-07259dedf49515aa5f22de3bb932494d]: Commencement: S. 7 in force at 8.3.2004 for specified purposes and 8.4.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/241/article/2/1)
+
+[^c952129]: Textual amendment: Words in s. 7 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952131]: Textual amendment: Word in s. 7(2) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/4) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952132]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^key-51991b09faced6a1986b9b2ff0805a60]: Commencement: S. 8 in force at 8.3.2004 for specified purposes and 8.4.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/241/article/2/1)
+
+[^c952137]: Textual amendment: Words in s. 8 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952138]: Textual amendment: Word in s. 8(2) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/5) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952139]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^key-435d2c7539106f32543a983c2c239969]: Commencement: S. 9 in force at 8.3.2004 for specified purposes and 8.4.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/241/article/2/1)
+
+[^key-093615295951cdc3cb46b9a05162309c]: Commencement: S. 10 in force at 8.3.2004 for specified purposes and 8.4.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/241/article/2/1)
+
+[^c952142]: Textual amendment: Words in s. 10 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952144]: Textual amendment: Word in s. 10(3) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/6) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-a6ec4a5beaaf32c27f3e98a08aef4fd6]: Commencement: S. 11 in force at 8.3.2004 for specified purposes and 8.4.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/241/article/2/1)
+
+[^key-d65b3d9356dcb1aa53b4f85bc2f33892]: Commencement: S. 12(1)-(6) in force at 1.6.2003 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2003/580/article/2/2/a)
+
+[^key-9ad113b00e58dd6378c0b055bc857409]: Commencement: S. 12(7) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^key-edea7b5d633300accdb95168e5089948]: Modification: S. 13 modified (1.4.2003) by [Private Hire Vehicles (London) (Transitional and Saving Provisions) Regulations 2003 (S.I. 2003/655)](https://www.legislation.gov.uk/uksi/2003/655), [regs. 1](https://www.legislation.gov.uk/uksi/2003/655/regulation/1), [7](https://www.legislation.gov.uk/uksi/2003/655/regulation/7)
+
+[^key-faa1f8af3e7772711e4cabe70e7307e2]: Commencement: S. 13(1) (2)(a) (4)-(7) in force at 1.4.2003 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2003/580/article/2/1/a)
+
+[^c952146]: Textual amendment: Words in s. 13 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952148]: Textual amendment: Words in s. 13(2)(3) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/7) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-a6e06e597fffe9e8044f870ccfd5fdb8]: Textual amendment: S. 13(2)(aa) substituted for word (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 38(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/38/2) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-5abc9a9a0917005cb50a81d341906891]: Commencement: S. 13(2)(b) in force at 1.4.2003 for specified purposes by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2003/580/article/2/1/b)
+
+[^key-d7f7dd1ab5644fff08828f43c4044f5f]: Commencement: S. 13(2)(b) in force at 1.4.2006 in so far as not already in force in relation to applications for London PHV drivers' licences received by Transport for London on or after 1.4.2006 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2003/580/article/2/3)
+
+[^key-334cee9eb0534f5b6bcc904b24efc35e]: Textual amendment: S. 13(2A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 38(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/38/3) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-8195319fe62f7d4f64f819aa6cea6c3f]: Commencement: S. 13(3) in force at 1.4.2006 in relation to applications for London PHV drivers' licences received by Transport for London on or after 1.4.2006 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2003/580/article/2/3)
+
+[^key-8777fbbd5080325d66aa9a0b58a5eb3a]: Textual amendment: Words in s. 13(5)(c) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 38(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/38/4) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^c952158]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^key-8a92f6d20d1bd3449cb9b5b287085db7]: Textual amendment: [S. 13A](https://www.legislation.gov.uk/ukpga/1998/34/section/13A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/39) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-8b7b83fabc4854afc62e606a423d3b6a]: Commencement: S. 14(1)(2)(4) in force at 1.4.2003 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(1)(c)](https://www.legislation.gov.uk/uksi/2003/580/article/2/1/c)
+
+[^c952159]: Textual amendment: Words in s. 14 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952160]: Textual amendment: Words in s. 14(1)(4) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/8) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-6975d12017093b8bdc5fc08b40ca92f8]: Commencement: S. 14(3)(5) in force at 1.6.2003 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2003/580/article/2/2/a)
+
+[^key-41ae3bf137aeadc1983be03247fa41a4]: Textual amendment: Word in s. 14(3) inserted (coming into force in accordance with ss. 1(2), 3 of the amendin-g Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 23(1)](https://www.legislation.gov.uk/ukla/2008/1/section/23/1)
+
+[^key-82bbf634cc40f8277f897a0303834352]: Textual amendment: S. 14(3)(b) and word inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 23(1)](https://www.legislation.gov.uk/ukla/2008/1/section/23/1)
+
+[^key-b19c2d21f003e3a44c74f1a6b84c11f3]: Textual amendment: Words in s. 14(4) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 23(2)](https://www.legislation.gov.uk/ukla/2008/1/section/23/2)
+
+[^c952164]: Commencement: S. 15 partly in force; s. 15 not in force at Royal Assent see s. 40(2); s. 15(1)-(3)(5) in force at 22.1.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 2](https://www.legislation.gov.uk/uksi/2000/3144/article/2)
+
+[^c952165]: Textual amendment: Words in s. 15 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952167]: Textual amendment: Word in s. 15(2) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/9) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-2e99f97b999710d12e7d6a66c6c80d60]: Commencement: S. 15(4) in force at 1.4.2003 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(1)(c)](https://www.legislation.gov.uk/uksi/2003/580/article/2/1/c)
+
+[^c952169]: Commencement: S. 16 partly in force; s. 16 not in force at Royal Assent see s. 40(2); s. 16(1)(2) in force at 22.1.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 2](https://www.legislation.gov.uk/uksi/2000/3144/article/2)
+
+[^c952170]: Textual amendment: Words in s. 16 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-d31d402b4eeb873a3cf29ccf4911dfa6]: Textual amendment: S. 16(2)(aa) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 40(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/40/2) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-14ad1de0c3c3e62ce31b4ab6243d6186]: Textual amendment: S. 16(2A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 40(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/40/3) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-7e5bb300b5c41d8d51eebb218afc21d9]: Commencement: S. 16(3) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^key-52d079c58f1b6d83aa09971d6eae61a0]: Commencement: S. 16(4) in force at 1.4.2003 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(1)(c)](https://www.legislation.gov.uk/uksi/2003/580/article/2/1/c)
+
+[^key-b5acfebac5c2fb3e2928072aac501bd0]: Textual amendment: S. 16(4)(aa) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 40(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/40/4) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-24651ba8065fc8a373dbf0ef0ef78a12]: Textual amendment: S. 16(5) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 40(5)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/40/5) (with [Sch. 5 para. 55](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/55)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^c952174]: Textual amendment: Words in s. 17 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952175]: Textual amendment: Words in s. 17(1)(a)(2) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/10) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952179]: Textual amendment: Words in s. 18 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952183]: Textual amendment: Word in s. 18(4) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 11](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/11) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952184]: Textual amendment: Sidenote to s. 19 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 12(5)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/12/5) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952185]: Textual amendment: Words in s. 19 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952186]: Textual amendment: Words in s. 19(1)(2)(a)(3) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/12) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952194]: Textual amendment: Words in s. 20 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952196]: Commencement: S. 21 partly in force; s. 21 not in force at Royal Assent see s. 40(2); s. 21(1)(3) in force at 22.1.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 2](https://www.legislation.gov.uk/uksi/2000/3144/article/2); s. 21(4) in force at 22.10.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 3](https://www.legislation.gov.uk/uksi/2000/3144/article/3)
+
+[^key-09566c41e3862ce61669d0b9ba437820]: Commencement: S. 21(2) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^c952197]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^c952198]: Commencement: S. 22 partly in force; s. 22 not in force at Royal Assent see s. 40(2); s. 22(1)(4) in force at 22.1.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 2](https://www.legislation.gov.uk/uksi/2000/3144/article/2); s. 22(5)(6) in force at 22.10.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 3](https://www.legislation.gov.uk/uksi/2000/3144/article/3)
+
+[^key-2cfe18a8eaa975bd345a8272cb275d6f]: Textual amendment: Words in s. 22(1) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(2)](https://www.legislation.gov.uk/ukla/2008/1/section/24/2)
+
+[^c952199]: Textual amendment: Words in s. 22 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-8acb2657ac423517b5c09307f897a4c6]: Textual amendment: S. 22(1A) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(3)](https://www.legislation.gov.uk/ukla/2008/1/section/24/3)
+
+[^key-5000c1f5ae9b1313fb2942dc11c7a828]: Commencement: S. 22(2) in force at 8.3.2004 for specified purposes and 8.4.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/241/article/2/1)
+
+[^key-b25a38d38c59b39c34e6507d09b105f6]: Textual amendment: Words in s. 22(2) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(4)(a)](https://www.legislation.gov.uk/ukla/2008/1/section/24/4/a)
+
+[^key-ec4f094bd54343f0536353201b1dfa9d]: Textual amendment: Words in s. 22(2) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(4)(b)](https://www.legislation.gov.uk/ukla/2008/1/section/24/4/b)
+
+[^key-e1cf8f7dc1cb1535d5f428950294986f]: Textual amendment: Words in s. 22(2) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(4)(c)](https://www.legislation.gov.uk/ukla/2008/1/section/24/4/c)
+
+[^key-d1ccf4d53ccec9070f1818a6592d2cc5]: Textual amendment: S. 22(2A) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(5)](https://www.legislation.gov.uk/ukla/2008/1/section/24/5)
+
+[^key-e005a67a5166b8ed44427f6988f568f8]: Commencement: S. 22(3) in force at 1.4.2003 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(1)(c)](https://www.legislation.gov.uk/uksi/2003/580/article/2/1/c)
+
+[^key-26289f790d457b7b1477d7b111e54863]: Textual amendment: Words in s. 22(3) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(6)](https://www.legislation.gov.uk/ukla/2008/1/section/24/6)
+
+[^key-7031660e30b2c4386b0961a798dfe8d4]: Textual amendment: S. 22(3A) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(7)](https://www.legislation.gov.uk/ukla/2008/1/section/24/7)
+
+[^key-665fd4c461ff86db88cfa7117482b6e8]: Textual amendment: Words in s. 22(4) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(8)(a)](https://www.legislation.gov.uk/ukla/2008/1/section/24/8/a)
+
+[^c952202]: Textual amendment: Words in s. 22(4) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/13) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-2da728f67d61caf04d267e9b8e822a9e]: Textual amendment: Words in s. 22(4)(a) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(8)(b)](https://www.legislation.gov.uk/ukla/2008/1/section/24/8/b)
+
+[^key-4e2f425691d5faf39398a472084248b1]: Textual amendment: Words in s. 22(4)(a) inserted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(8)(b)](https://www.legislation.gov.uk/ukla/2008/1/section/24/8/b)
+
+[^key-e69b0ab2a892e3ba23f67e0f086e8e6f]: Commencement: S. 22(7) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^key-2b683f2ba2055343eca3fddb11df4d69]: Textual amendment: Words in s. 22(7) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 24(9)](https://www.legislation.gov.uk/ukla/2008/1/section/24/9)
+
+[^c952203]: Textual amendment: Words in s. 23 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-dc25ba2cf76be4a31e79104e3d97f84f]: Textual amendment: Words in s. 23(1)(a) repealed (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [26(2)](https://www.legislation.gov.uk/ukla/2008/1/section/26/2)
+
+[^key-d198b2202d9aa1114a12a6a27bb4c45a]: Modification: S. 23(2) applied (8.3.2004) by [Private Hire Vehicles (London) (Transitional Provisions) Regulations 2004 (S.I. 2004/242)](https://www.legislation.gov.uk/uksi/2004/242), [regs. 1](https://www.legislation.gov.uk/uksi/2004/242/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2004/242/regulation/3/8)
+
+[^key-659fd4bcc2b0e782de9efabe6039383b]: Textual amendment: Words in s. 23(2) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [26(3)](https://www.legislation.gov.uk/ukla/2008/1/section/26/3)
+
+[^key-922ae3183b450ac3ad9c89dbd2485365]: Textual amendment: S. 23(3)(4) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [26(4)](https://www.legislation.gov.uk/ukla/2008/1/section/26/4)
+
+[^c952205]: Textual amendment: Sidenote to s. 24 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/14) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952206]: Textual amendment: Words in s. 24 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952210]: Textual amendment: Words in s. 25 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-74ddbf18b3592042ce2a37a265ef326c]: Textual amendment: Words in s. 25(2) substituted (1.4.2005) by [Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886)](https://www.legislation.gov.uk/uksi/2005/886), [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/54)
+
+[^c952212]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-23929ddaeb731dc9847fda4129c00957]: Textual amendment: S. 25(8) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 41](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/41); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^c952215]: Textual amendment: Words in s. 26 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-4265411fa43cc955e28df736d257e31f]: Commencement: S. 30 in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^c952216]: Textual amendment: Words in s. 30 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952218]: Textual amendment: Words in s. 30(2) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/15) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-c0c107f6bcdac5779a13642ab1474905]: Commencement: S. 31 in force at 1.6.2003 by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2003/580/article/2/2/a)
+
+[^c952220]: Textual amendment: Words in s. 32 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952221]: Textual amendment: Words in s. 32(1) inserted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 16(1)(2)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/16/1/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-afc455b9f74e366e01afc3b96ec0296a]: Textual amendment: Words in s. 32(1) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 42(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/42/2); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-d56dbd3ae0b67e7687a0b68aab7de540]: Textual amendment: S. 32(2A)(2B) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 42(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/42/3); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^c952223]: Textual amendment: Words in s. 32(4) substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 25(4)](https://www.legislation.gov.uk/ukpga/1999/29/section/25/4), [Sch. 21 para. 16(1)(3)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/16/1/3) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952224]: Textual amendment: S. 32(4)-(7) added (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 16(1)(4)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/16/1/4) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-06c8528ab8cbd0246ecb3eb2e8d213bf]: Textual amendment: Words in s. 32(4) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 42(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/42/4); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^c952226]: Commencement: S. 34 partly in force; s. 34 not in force at Royal Assent see s. 40(2); s. 34(1)(2) in force at 22.1.2001 by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [art. 2](https://www.legislation.gov.uk/uksi/2000/3144/article/2)
+
+[^c952227]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-057903cf585392ae9b9973ff4d886b4c]: Commencement: S. 34(3) in force at 8.3.2004 for specified purposes and 8.4.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/241/article/2/1)
+
+[^c952228]: Textual amendment: Words in s. 34 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^key-8394037f6202a877ab32c8534d0ae836]: Commencement: S. 35 in force at 8.3.2004 for specified purposes and 8.4.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/241/article/2/1)
+
+[^c952229]: Marginal citation: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
+
+[^key-037ed8907577c5f6043f1ddcae2482a1]: Textual amendment: Ss. 35A, 35B inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/43); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^c952235]: Textual amendment: Words in s. 36 substituted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952236]: Textual amendment: Words in s. 36 substituted (22.1.2001) by [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 3(2)](https://www.legislation.gov.uk/uksi/2000/3145/article/3/2)
+
+[^c952237]: Marginal citation: [1847 c. 89](https://www.legislation.gov.uk/ukpga/1847/89).
+
+[^c952238]: Textual amendment: Words in s. 36 inserted (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/2), [Sch. 21 para. 17](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/17) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952239]: Marginal citation: [1869 c. 115](https://www.legislation.gov.uk/ukpga/1869/115).
+
+[^key-4456c02f6f44efdbfefd11f8e77da138]: Textual amendment: Words in s. 36 inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/44); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+
+[^key-0e2d5a89c3a82d944beef19f9ae8c4c4]: Textual amendment: Words in [s. 36](https://www.legislation.gov.uk/ukpga/1998/34/section/36) inserted (25.6.2024) by [Pedicabs (London) Act 2024 (c. 7)](https://www.legislation.gov.uk/ukpga/2024/7), [ss. 5(b)](https://www.legislation.gov.uk/ukpga/2024/7/section/5/b), [9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+
+[^c952240]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^c952241]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
+
+[^c952242]: Marginal citation: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45).
+
+[^key-95b903db5922a9720899d8cde249f5cc]: Textual amendment: Words in [s. 36](https://www.legislation.gov.uk/ukpga/1998/34/section/36) substituted (25.6.2024) by [Pedicabs (London) Act 2024 (c. 7)](https://www.legislation.gov.uk/ukpga/2024/7), [ss. 5(a)](https://www.legislation.gov.uk/ukpga/2024/7/section/5/a), [9](https://www.legislation.gov.uk/ukpga/2024/7/section/9)
+
+[^c952243]: Textual amendment: S. 37(3) added (22.1.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [Sch. 21 para. 18](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/18) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/3145](https://www.legislation.gov.uk/uksi/2000/3145), [art. 2](https://www.legislation.gov.uk/uksi/2000/3145/article/2)
+
+[^c952244]: Textual amendment: S. 38 repealed (7.11.2001) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 254(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/254/3), [423](https://www.legislation.gov.uk/ukpga/1999/29/section/423), [Sch. 21 para. 19](https://www.legislation.gov.uk/ukpga/1999/29/schedule/21/paragraph/19), [Sch. 34 Pt. V](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/V) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2001/3603](https://www.legislation.gov.uk/uksi/2001/3603), [art. 2](https://www.legislation.gov.uk/uksi/2001/3603/article/2)
+
+[^key-2ad3c74741b7019ef251f65b550497b3]: Commencement: S. 39(1) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^key-0885bbee04f98a6cbc2ead73a83d9183]: Commencement: S. 39(2) in force at 1.6.2003 for specified purposes by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2003/580/article/2/2/b) and 8.6.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^c952245]: Subordinate legislation: S. 40(2) power partly exercised: different dates appointed for specified provisions by [S.I. 2000/3144](https://www.legislation.gov.uk/uksi/2000/3144), [arts. 2](https://www.legislation.gov.uk/uksi/2000/3144/article/2), [3](https://www.legislation.gov.uk/uksi/2000/3144/article/3)
+
+[^key-4c699538a52ed4f45a2bb6a282e23fc4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1998/34/schedule/1/paragraph/1) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^key-35c680e076f02106132d13e52a68443c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/1/paragraph/2) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^key-f69148c00e5a644b7f5c81792cb4c3de]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1998/34/schedule/1/paragraph/3) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^key-540f4037589eae572109684d86d2a67f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1998/34/schedule/1/paragraph/4) in force at 8.6.2004 by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+
+[^key-0171732bb04e6441e2647f65aa1d122b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/2) in force at 1.6.2003 for specified purposes by [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2003/580/article/2/2/b)
+
+[^key-5c103f1c43869d5380f29b3cdb1084fc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/2) in force at 8.6.2004 in so far as not already in force by [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)

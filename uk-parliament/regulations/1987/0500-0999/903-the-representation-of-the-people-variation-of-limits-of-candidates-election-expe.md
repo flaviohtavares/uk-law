@@ -1,0 +1,92 @@
+---
+title: The Representation of the People (Variation of Limits of Candidates' Election Expenses) Order 1987
+id: uksi/1987/903
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-05-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/903
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/903/pdfs/uksi_19870903_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/903/made/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Representation of the People (Variation of Limits of Candidates' Election Expenses) Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 903
+
+REPRESENTATION OF THE PEOPLE
+
+The Representation of the People (Variation of Limits of Candidates' Election Expenses) Order 1987
+
+Made
+
+13th May 1987
+
+Coming into force
+
+14th May 1987
+
+Whereas a draft of this Order has been approved by resolution of each House of Parliament:
+
+And whereas in my opinion there has been a change in the value of money since 16th July 1985 in the case of the variations made by articles 4 and 7 of this Order and 1st March 1986 in the case of the variations made by articles 2, 3, 5 and 6 of this Order justifying the variations made by this Order:
+
+Now, therefore, in exercise of the powers conferred upon me by sections 76A(1) and 197(3) of the Representation of the People Act 1983[^f00001], I hereby make the following Order:—
+
+**1.** (1) This Order may be cited as the Representation of the People (Variation of Limits of Candidates' Election Expenses) Order 1987 and shall come into force on the day after the day on which it is made.
+
+(2) Articles 4, 5, 6 and 7 of this Order do not extend to Northern Ireland.
+
+(3) In this Order “the Act of 1983” means the Representation of the People Act 1983.
+
+**2.** The maximum amount of a candidate’s election expenses at a parliamentary election in a county constituency shall be varied by substituting, for the words “£3,240” and “3.7p” in section 76(2)(a)(i) of the Act of 1983[^f00002], the words “£3,370” and “3.8p”, respectively.
+
+**3.** The maximum amount of a candidate’s election expenses at a parliamentary election in a borough constituency shall be varied by substituting, for the words “£3,240” and “2.8p” in section 76(2)(a)(ii) of the Act of 1983[^f00002], the words “£3,370” and “2.9p”, respectively.
+
+**4.** The maximum amount of a candidate’s election expenses at an election to the Inner London Education Authority shall be varied by substituting, for the words “£620” and “3.7p” in section 76(2)(b)(ia) of the Act of 1983[^f00003], the words “£655” and “3.9p”, respectively.
+
+**5.** The maximum amount of a candidate’s election expenses at a local government election to which section 76(2)(b)(ii) of the Act of 1983[^f00004] applies shall be varied by substituting, for the words “£144” and “2.9p” in that provision, the words “£150” and “3p” respectively.
+
+**6.** The maximum amount of a candidate’s election expenses at a ward election in the City of London shall be varied by substituting, for the words “£144” and “2.9p” in section 197(1) of the Act of 1983[^f00005], the words “£150” and “3p” respectively.
+
+**7.** The maximum amount of a candidate’s election expenses at an election by liverymen in common hall shall be varied by substituting, for the words “15p” in section 197(2) of the Act of 1983[^f00006], the words “15.8p”.
+
+**8.** The Representation of the People (Variation of Limits of Candidates' Election Expenses) Order 1986[^f00007] is hereby revoked.
+
+Douglas Hurd
+
+One of Her Majesty’s Principal Secretaries of State Home Office
+
+13th May 1987
+
+(This note is not part of the Order)
+
+This Order increases the maximum amounts of candidates' election expenses at parliamentary elections in the United Kingdom (articles 2 and 3), local government elections in Great Britain (articles 4 and 5) and ward elections (article 6) and elections by liverymen in common hall (article 7) in the City of London.
+
+The increases are such as are justified by the change in the value of money since the last occasions on which those maximum amounts were changed or fixed. In the case of elections to the Inner London Education Authority and elections by liverymen in common hall, that last occasion was 16th July 1985 when the Local Government Act 1985 and the Representation of the People Act 1985 (which Acts respectively established and amended the maximum amounts of election expenses for those elections) were enacted. As respects the other elections to which this Order relates, the last occasion was 1st March 1986 when the Representation of the People (Variation of Limits of Candidates' Election Expenses) Order 1986 was made. That Order is revoked by article 8 of this Order.
+
+Except in the case of the election by liverymen in common hall, the maximum amount of a candidate’s election expenses is made up of a fixed sum (expressed in pounds) plus a sum expressed in pence (and fractions of pence) for, in the case of parliamentary and local government elections, each entry in the register of electors or, in the case of ward elections in the City of London, each elector. The maximum amount of a candidate’s election expenses at the election by liverymen in common hall is calculated by allowing an amount in pence (and fractions of pence) for every elector on the common hall register to be used at the election.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); section 76A was inserted by section 14(4) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50) and section 197(3) was amended by paragraph 67(b) of Schedule 4 to that Act.
+
+[^f00002]: Footnote: The sums in section 76(2)(a) are as substituted by S.I. [1986/383](https://www.legislation.gov.uk/uksi/1986/383).
+
+[^f00003]: Footnote: Section 76(2)(b)(ia) was inserted by paragraph 1(8) of Schedule 9 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51).
+
+[^f00004]: Footnote: The sums in section 76(2)(b)(ii) are as substituted by S.I. [1986/383](https://www.legislation.gov.uk/uksi/1986/383).
+
+[^f00005]: Footnote: The sums in section 197(1) are as substituted by S.I. [1986/383](https://www.legislation.gov.uk/uksi/1986/383).
+
+[^f00006]: Footnote: Section 197(2) was amended by paragraph 67(a) of Schedule 4 to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50).
+
+[^f00007]: Footnote: S.I. [1986/383](https://www.legislation.gov.uk/uksi/1986/383).

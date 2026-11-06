@@ -1,0 +1,173 @@
+---
+title: The Retention of Registration Marks (Amendment) Regulations 1994
+id: uksi/1994/2976
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-11-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/2976
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/2976/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Retention of Registration Marks (Amendment) Regulations 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 2976
+
+ROAD TRAFFIC
+
+The Retention of Registration Marks (Amendment) Regulations 1994
+
+Made
+
+24th November 1994
+
+Laid before Parliament
+
+24th November 1994
+
+Coming into force
+
+16th December 1994
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 26 of the Vehicle Excise and Registration Act 1994[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:–
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Retention of Registration Marks (Amendment) Regulations 1994 and shall come into force on 16th December 1994.
+
+## 2. Amendment of Retention of Registration Marks Regulations 1992
+
+(1) The Retention of Registration Marks Regulations 1992[^f00002] shall be amended as follows.
+
+(2) In regulation 2(1)–
+
+- (a) the definition of “the 1971 Act” shall be omitted;
+- (b) after the definition of “the 1988 Act” there shall be inserted ““the 1994 Act” means the Vehicle Excise and Registration Act 1994;”; and
+- (c) in the definition of “the G.B. records” for the words “the 1971 Act” there shall be substituted “the 1994 Act”.
+
+(3) In regulation 3(1)(b) after the words “the right” there shall be inserted “or in accordance with regulation 6A”.
+
+(4) In regulation 4 for the words “the 1971 Act” in both places where they occur there shall be substituted “the 1994 Act”.
+
+(5) The following regulation shall be inserted after regulation 6–
+
+> **6A. Nominations**
+>
+> (1) At any time before a right of retention is exercised, the Secretary of State may accept an application by the grantee–
+>
+> - (a) to make a nomination for the purposes of regulation 3(1)(b) notwithstand– ing that no person was nominated in the application for the grant of the right; or
+> - (b) to nominate a different person for the purposes of regulation 3(1)(b) in place of a person already nominated in the application for the grant of the right or under sub–paragraph (a) above,
+>
+> if the conditions specified in paragraph (2) are fulfilled in relation to the application.
+>
+> (2) The conditions referred to in paragraph (1) are that–
+>
+> - (a) the application was made in writing;
+> - (b) the applicant has submitted to the Secretary of State the retention document relating to the right of retention; and
+> - (c) an application fee of £25 accompanied the application.
+
+(6) Regulation 7 shall be renumbered as paragraph (1) of regulation 7 and after that provision as so renumbered the following paragraph shall be inserted as paragraph (2) of regulation 7–
+
+> (2) If, after the issue of a retention document, the Secretary of State accepts an application under regulation 6A for the nomination a person for the purposes of regulation 3(1)(b), he shall issue to the purchaser a new retention document which records the name of the person nominated in pursuance of the application.
+
+(7) In regulation 10 for the words “the 1971 Act” there shall be substituted “the 1994 Act”.
+
+(8) In regulation 12 for the words “the 1971 Act” in both places where they occur there shall be substituted “the 1994 Act”.
+
+(9) In regulation 14 for the words “section 12(1) of the Finance Act 1976” there shall be substituted “section 25(1) of the 1994 Act”.
+
+## 3. Amendment of Retention of Registration Marks Regulations 1993
+
+(1) The Retention of Registration Marks Regulations 1993[^f00003] shall be amended as follows.
+
+(2) In regulation 2(1)–
+
+- (a) the definition of “the 1971 Act” shall be omitted;
+- (b) after the definition of “the 1988 Act” there shall be inserted ““the 1994 Act” means the Vehicle Excise and Registration Act 1994;”
+- (c) in the definition of “the G.B. records” for the words “the 1971 Act” there shall be substituted “the 1994 Act”; and
+- (d) for the definition of “nominated person” there shall be substituted ““nominated person” means a person nominated as mentioned in regulation 3(b);”
+
+(3) In paragraph (b) of regulation 3, for the words “in the application for the grant of the right” there shall be substituted “in accordance with regulation 4A”.
+
+(4) In regulation 4(1)(b) for the words “the 1971 Act” there shall be substituted “the 1994 Act”.
+
+(5) The following regulation shall be inserted after regulation 4:–
+
+> **4A. Nominations**
+>
+> (1) The nomination of a nominated person may be made either–
+>
+> - (a) in the application for the grant of the right of retention; or
+> - (b) after the grant of the right of retention (but before the right is exercised) if the Secretary of State accepts an application by the grantee in relation to which the conditions specified in paragraph (3) are fulfilled.
+>
+> (2) At any time before a right of retention is exercised a person may be nominated in place of a person already nominated if the Secretary of State accepts an application by the grantee in relation to which the conditions specified in paragraph (3) are fulfilled.
+>
+> (3) The conditions referred to in paragraphs (1) and (2) are that–
+>
+> - (a) the application was made in writing;
+> - (b) the applicant has submitted the retention document relating to the right of retention; and
+> - (c) an application fee of £25 accompanied the application.
+
+(6) In regulation 5(3) sub–paragraph (b) and the words “in any case other than one mentioned in sub–paragraph (b),” in sub–paragraph (c) shall be omitted.
+
+(7) In regulation 7(b) for the words “section 12(1) of the Finance Act 1976” there shall be substituted “section 25(1) of the 1994 Act”.
+
+(8) For regulation 8 there shall be substituted–
+
+> **8.** The fee payable in respect of the grant of an extension or further extension of the period in which a right of retention may be exercised is £25.
+
+(9) The following paragraph shall be inserted after paragraph (5) of regulation 9:–
+
+> (6) If the Secretary of State accepts an application pursuant to regulation 4A(1)(b) or 4(2), he shall issue to the grantee, in place of the retention document which was submitted in pursuance of the application, a new retention document which records the name of the person nominated in pursuance of the application.
+
+(10) In regulation 10 for the words “the 1971 Act” in both places where they occur there shall be substituted “the 1994 Act”.
+
+(11) In regulation 11 for the words “the 1971 Act” in both places where they occur there shall be substituted “the 1994 Act”.
+
+(12) In regulation 12 for the words “section 12(1) of the Finance Act 1976” there shall be substituted “section 25(1) of the 1994 Act”.
+
+(13) The following paragraphs shall be substituted for paragraphs (1) and (2) of regulation 15–
+
+> (1) Any sum paid to the Secretary of State by virtue of regulation 7(b) shall be retained by him, whether or not there is assignment of the relevant registration mark, unless the conditions specified in paragraph (2) are fulfilled, in which case he shall refund the sum.
+>
+> (2) The conditions referred to in paragraph (1) are that–
+>
+> - (a) the Secretary of State has revoked the right of retention in respect of which the sum was paid or that right has expired without its having been exercised;
+> - (b) a written application for a refund has been made by the grantee;
+> - (c) the application is accompanied by the retention document; and
+> - (d) the application is received by the Secretary of State within the period of six years starting with the date on which the right was revoked or ceased to be exercisable.
+
+(14) In regulation 15(3), for the word “may” there shall be substituted “shall” and the words “or 8” shall be omitted.
+
+Signed by authority of the Secretary of State for Transport
+
+Steven Norris
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+24th November 1994
+
+(This note is not part of the Regulations)
+
+The Retention of Registration Marks Regulations 1993 provide for a person in whose name a vehicle is registered to be granted a right (known as a “right of retention”) to have the registration mark of the vehicle assigned to another vehicle registered in either the name of the grantee or that of his nominee. The 1993 Regulations and the Retention of Registration Marks Regulations 1992 (which apply to rights of retention applied for before 1st May 1993) require a nomination to be made in the application for the grant of a right. These Regulations amend the 1992 and 1993 Regulations so as to allow the grantee of a right of retention, on application, also to make a nomination after the grant of the right and to change a nomination already made. A fee of £25 is payable with such an application. No fee is payable if the nomination is made when the right of retention is applied for.
+
+Other amendments are made to the 1992 and 1993 Regulations including the substitution of references to the Vehicle Excise and Registration Act 1994 for references to earlier legislation which was consolidated in that Act and the repeal of certain spent transitional provisions.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
+
+[^f00002]: Footnote: S.I. [1992/510](https://www.legislation.gov.uk/uksi/1992/510), amended by S.I. [1993/988](https://www.legislation.gov.uk/uksi/1993/988).
+
+[^f00003]: Footnote: S.I. [1993/987](https://www.legislation.gov.uk/uksi/1993/987).

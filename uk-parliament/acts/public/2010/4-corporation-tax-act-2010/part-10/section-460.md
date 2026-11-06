@@ -1,0 +1,40 @@
+---
+title: Corporation Tax Act 2010, section 460
+act: Corporation Tax Act 2010
+section: '460'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/460
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 460
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 460. Loan treated as made by close company
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if a company (C) which is controlled by another company makes a loan or advance which, apart from this section, does not give rise to a charge to tax under section 455.
+
+(2) If C is controlled by a close company at the time the loan or advance is made, sections 455 to 459 apply as if the loan or advance had been made by the close company.
+
+(3) If C is not controlled by a close company at that time but a close company subsequently acquires control of it, sections 455 to 459 apply as if the loan or advance had been made by the close company immediately after the time when it acquired control.
+
+(4) If two or more close companies together control C or together acquire control of C, subsection (2) or (as the case may be) subsection (3) is to have effect—
+
+- (a) as if each of them controlled C, and
+- (b) as if the loan or advance had been made by each of those close companies.
+
+But the loan or advance is to be apportioned between those close companies in such proportion as may be appropriate having regard to the nature and amount of their respective interests in C.
+
+(5) For an exception to this section, see section 461.
+
+(6) See also section 462 (determination of particular questions as a result of this section).
+
+(7) References in this section and sections 461 and 462 to a company making a loan include references to cases in which the company is, or if it were a close company would be, regarded as making a loan because of section 455(4).

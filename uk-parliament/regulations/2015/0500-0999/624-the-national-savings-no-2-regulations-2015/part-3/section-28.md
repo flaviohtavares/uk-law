@@ -1,0 +1,42 @@
+---
+title: The National Savings (No. 2) Regulations 2015, section 28
+act: The National Savings (No. 2) Regulations 2015
+section: '28'
+status: revised
+text_date: '2025-03-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/624/section/28
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Savings (No. 2) Regulations 2015, section 28
+
+> Text as at 2025-03-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 28. Accrual of interest[^key-1ef66cc4aee1bdd3472fc00025acd8bf]
+
+*Extent: E+W+S+N.I.*
+
+(1) This regulation applies to—
+
+- (a) fixed interest stock issued after 19th September 2012; and
+- (b) other fixed interest stock from and including the anniversary of its date of issue that falls after 19th September 2012 and before 20th September 2013.
+
+(2) The amount of interest accruing on a particular day in relation to stock to which this regulation applies must be calculated using the following formula—
+
+A = (V x I%)/365
+
+where—
+
+A is the amount of interest accruing in relation to the stock on the particular day;
+
+V is the capital value of the stock on that day; and
+
+I% is the annual rate of interest fixed for the current term of the stock.
+
+## Annotations
+
+[^key-1ef66cc4aee1bdd3472fc00025acd8bf]: Commencement: Reg. 28 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

@@ -1,0 +1,117 @@
+---
+title: The Gas Act 1986 (Exemption) Order 1997
+id: uksi/1997/2427
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-10-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/2427
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/2427/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Gas Act 1986 (Exemption) Order 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 2427
+
+GAS
+
+The Gas Act 1986 (Exemption) Order 1997
+
+Made
+
+8th October 1997
+
+Laid before Parliament
+
+9th October 1997
+
+Coming into force
+
+3rd November 1997
+
+The Secretary of State, in exercise of the powers conferred upon her by section 6A of the Gas Act 1986[^f00001], and after consultation with the Director General of Gas Supply, hereby makes the following Order:—
+
+## 1. Citation, coming into force and duration
+
+(1) This Order may be cited as the Gas Act 1986 (Exemption) Order 1997.
+
+(2) This Order and the exemption contained in it shall come into force on 3rd November 1997 and that exemption, unless previously revoked in accordance with paragraph (3) below, shall continue in force until 1st March 2011.
+
+(3) The exemption contained in this Order shall only be revoked with effect from a date after the expiry of the period of four months beginning with the day on which the Order containing the revocation was laid before Parliament.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the court” means—
+  - (a) in relation to England and Wales, the High Court; and
+  - (b) in relation to Scotland, the Court of Session;
+- “Premier Transco” means Premier Transco Limited, whose registered number is N.I. 26421;
+- “a relevant offtake point” means a point at which gas, having been conveyed through part of the UK-Ireland pipe-line, is designed to leave that pipe-line;
+- “the relevant transporter” means a public gas transporter who, from time to time, operates the Stranraer pipe-line system;
+- “the Stranraer pipe-line system” means the pipe-line system which, at the date of the making of this Order, conveys gas to premises in Stranraer in the county of Dumfries and Galloway; and includes any additions to, and modifications of, that system;
+- “the UK-Ireland pipe-line” means the pipe-line between Moffat in Scotland and Loughshinny in the Republic of Ireland referred to in the Agreement of 30th April 1993 between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Ireland relating to the transmission of natural gas by pipeline between the United Kingdom of Great Britain and Northern Ireland and the Republic of Ireland[^f00002].
+
+## 3. Scope of exemption
+
+(1) Subject to paragraph (2) below, Premier Transco is hereby granted exemption from section 5(1)(a) of the Gas Act 1986 in respect of the conveyance of gas, in pursuance of arrangements made by the relevant transporter, from a relevant offtake point to the Stranraer pipe-line system.
+
+(2) The exemption provided for in paragraph (1) above (“the exemption”) is subject to the conditions set out in articles 4 to 6 below.
+
+## 4. Conditions of exemption
+
+Premier Transco shall comply with any direction given by the Director General of Gas Supply (“the Director”) to furnish him, in such manner and in such form as he may reasonably require, with such information relating to the conveyance of gas in pursuance of the exemption as he may reasonably require or as may be necessary for the purpose of enabling him to perform the functions assigned to him by or under the Gas Act 1986:
+
+Provided that this condition shall not require Premier Transco to produce any documents or give any information which it could not be compelled to produce or give in evidence in civil proceedings before the court.
+
+**5.** (1) Premier Transco shall—
+
+- (a) notify the Secretary of State and the Director as soon as reasonably practicable of any proposal of which it is aware which is likely to affect—
+  - (i) the amount of gas that it is capable of conveying in pursuance of the exemption; or
+  - (ii) its ability to meet the relevant gas security standard;
+- (b) furnish the Secretary of State and the Director, by 1st December 1997, with a statement of its ability or otherwise to meet the relevant gas security standard in respect of the period beginning on 3rd November 1997 and ending on 30th September 1998; and
+- (c) furnish the Secretary of State and the Director, by 30th June in each year after 1997, with a statement of its ability or otherwise to meet the relevant gas security standard in respect of the period of 12 months beginning on 1st October in each such year.
+
+(2) In paragraph (1) above, “the relevant gas security standard” means the gas security standard that would, at the time the proposal is notified (or, as the case may be, the statement is furnished), be applicable in relation to the conveyance of gas in pursuance of the exemption by virtue of paragraph (2) of condition 13 of the Standard Conditions of Public Gas Transporters' Licences (as modified to March 1997)[^f00003] if—
+
+- (a) Premier Transco were the licensee;
+- (b) the licensee’s pipe-line system referred to in that condition constituted the pipes through which Premier Transco conveyed gas in pursuance of the exemption;
+- (c) in paragraph (1) of that condition, the words “subject to section 9(1) and (2) of the Act” were omitted; and
+- (d) in paragraph (4) of that condition, for the words “the operator of a pipe-line or pipe-line system to which it conveys gas” there were substituted the words “the relevant transporter”.
+
+**6.** Premier Transco shall comply with the provisions of condition 2 of the Standard Conditions of Public Gas Transporters' Licences (as modified to March 1997) as if it were the licensee and as if—
+
+- (a) the transportation business referred to in that condition were Premier Transco’s activities connected with the conveyance of gas in pursuance of the exemption;
+- (b) paragraphs (2)(a)(iv), (7) and (8) of that condition were omitted; and
+- (c) the initial period referred to in that condition commenced on 3rd November 1997.
+
+John Battle,
+
+Minister for Science, Energy and Industry,
+
+Department of Trade and Industry
+
+8th October 1997
+
+(This note is not part of the Order)
+
+Section 6A of the Gas Act 1986, as substituted by section 4 of the Gas Act 1995, provides for the granting by order of exemptions from the prohibition contained in section 5 of the 1986 Act from carrying on the conveyance of gas without a licence. This Order grants such an exemption to Premier Transco Limited in respect of the conveyance of gas to Stranraer in specified circumstances (article 3). The exemption is subject to conditions relating to the provision of information to the Secretary of State and the Director General of Gas Supply (articles 4 and 5) and to the keeping of separate accounts in respect of the exempted activity (article 6).
+
+Stationery Office publications are available from The Publications Centre, PO Box 276, London SW8 5DT or from any of the bookshops operated by the Stationery Office Limited.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 6A was substituted by section 4 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45).
+
+[^f00002]: Footnote: Treaty Series No. 73 (1993), Cm 2377.
+
+[^f00003]: Footnote: The Standard Conditions of Public Gas Transporters' Licences (as modified to March 1997) are published by the Stationery Office (ISBN 0-11-515432-9).

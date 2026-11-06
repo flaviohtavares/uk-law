@@ -1,0 +1,142 @@
+---
+title: The Employment and Support Allowance (Transitional Provisions) Regulations 2008
+id: uksi/2008/795
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-03-25'
+text_date: '2011-01-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2008/795
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/795/pdfs/uksiem_20080795_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/795/pdfs/uksi_20080795_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/795/pdfs/uksi_20080795_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/795/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment and Support Allowance (Transitional Provisions) Regulations 2008
+
+> Text as at 2011-01-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2008 No. 795
+
+Social Security
+
+The Employment and Support Allowance (Transitional Provisions) Regulations 2008
+
+Made
+
+*25th March* 2008
+
+Laid before Parliament
+
+*27th March* 2008
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State for Work and Pensions in exercise of the powers conferred by section 25(2)(b) and (c) and 29 of, and paragraphs 1(1), 2 and 3(b), (c) and (d) of Schedule 4 to, the Welfare Reform Act 2007 [^c1919136], makes the following Regulations which are made by virtue of, or consequential on, the provisions of the Welfare Reform Act 2007 and which are made before the end of a period of 6 months beginning with the coming into force of those provisions.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Employment and Support Allowance (Transitional Provisions) Regulations 2008.
+
+(2) This regulation and regulations 2, 3 and 4 shall come into force on 27th July 2008.
+
+(3) Regulation 5 shall come into force on 27th October 2008.
+
+(4) In these Regulations “**income support on the grounds of disability**” means income support awarded to a person to whom regulation [^key-3290fe53f57e0726780ea64f711bf3ac]...13(2)(b) or (bb) of, or paragraph 7(a) or (b), 10, 12 or 13 of Schedule 1B to, the Income Support (General) Regulations 1987 [^c1919137] (prescribed categories of person) applies.
+
+## 2. Claim for existing award
+
+(1) A claim for incapacity benefit, severe disablement allowance or income support on the grounds of disability, whenever made, in respect of a period which begins on or after the appointed day, is to be treated as a claim for an employment and support allowance.
+
+(2) Paragraph (1) does not apply to—
+
+- (a)[^key-a0afb8e1987f4a36de05895b98d6d802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-a0afb8e1987f4a36de05895b98d6d802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-a0afb8e1987f4a36de05895b98d6d802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-8dce2542ec0739649897ed81672fb2d4] a claim for income support on the grounds of disability made by a claimant who is entitled to incapacity benefit or severe disablement allowance; or
+- (e) a claim for incapacity benefit made by a claimant who is entitled to income support on the grounds of disability.
+
+(3) Paragraph (1) does not apply insofar as a claim is treated as a claim for [^key-e9bdc2dc63d7e7fa0a6f88c6fd8c3e5c]..., maternity allowance or carer's allowance under regulation 9(1) of and Part 1 of Schedule 1 to, the Social Security (Claims and Payments) Regulations 1987 [^c1919140] (claims treated as claimed in addition or in the alternative).
+
+## 3. Claim by person entitled or potentially entitled to existing award
+
+(1) A person who is entitled to an existing award is excluded from making a claim for an employment and support allowance.
+
+(2) A claim for an employment and support allowance made by a person who would be entitled to an existing award if that person made a claim described in regulation 2(2), is to be treated as a claim for that award.
+
+## 4. Claim for period before appointed day
+
+Where—
+
+- (a)
+  - (i) before the appointed day a person purports to make a claim, or
+  - (ii) on or after the appointed day a person makes a claim,
+
+  for an employment and support allowance for a period beginning before the appointed day; and
+- (b) it appears to the Secretary of State that the person would be entitled to incapacity benefit or income support on the grounds of disability if that person made a claim for it in accordance with section 1(1)(a) of the Administration Act [^c1919141],
+
+the purported claim or claim may be treated by the Secretary of State as a claim in the alternative for incapacity benefit or income support on the grounds of disability.
+
+## 5. Transitional protection in relation to the Jobseekers Act 1995
+
+In relation to a person who—
+
+- (a) is entitled to an existing award; or
+- (b) would be entitled to an existing award if that person made a claim described in regulation 2(2),
+
+the Jobseekers Act 1995[^c1919142] shall continue to have effect as if paragraphs 12(2), (5)(b) and (6) of Schedule 3 to the Welfare Reform Act 2007 had not come into effect.
+
+Signed by the authority of the Secretary of State for Work and Pensions.
+
+Stephen. C. Timms
+
+Minister of State,
+
+Department for Work and Pensions
+
+25th March 2008
+
+*(This note is not part of the Regulations)*
+
+These Regulations make transitional provision in relation to the introduction of employment and support allowance. They provide in effect that (apart from linked claims) after employment and support allowance is introduced no new claim can be made for incapacity benefit, severe disablement allowance or income support on the grounds of disability, since such a claim will be treated as a claim for an employment and support allowance (regulation 2(1)).
+
+But a person who has previously been entitled to incapacity benefit, severe disablement allowance or income support on the grounds of disability, can, in the circumstances set out in regulation 2(2), make a repeat (linked) claim for that benefit.
+
+A person who is entitled to incapacity benefit, severe disablement allowance or income support on the grounds of disability, or who can make a linked claim for that benefit, is prevented from claiming employment and support allowance (regulation 3).
+
+Where a person tries to claim an employment and support allowance ineffectively, either by making a claim for a period before employment and support allowance is introduced or by claiming after the appointed day for a period which includes a period before the appointed day, the claim may be treated instead as a claim for incapacity benefit or income support on the grounds of disability (regulation 4).
+
+Regulation 5 provides a specific transitional provision relating to certain amendments made to the Jobseekers Act 1995 by paragraph 12 of Schedule 3 to the Welfare Reform Act 2007 (relating to “incapacity for work”)
+
+An impact assessment has not been completed for these Regulations as they have no impact on the private, public or voluntary sectors.
+
+## Annotations
+
+[^c1919136]: Marginal citation: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^key-3290fe53f57e0726780ea64f711bf3ac]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2008/795/regulation/1/4) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2008/2428/regulation/42)
+
+[^c1919137]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206), 2000/1981, 2000/1922 and 2006/718.
+
+[^key-a0afb8e1987f4a36de05895b98d6d802]: Textual amendment: [Reg. 2(2)(a)-(c)](https://www.legislation.gov.uk/uksi/2008/795/regulation/2/2/a) revoked (31.1.2011) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2010/1907/regulation/24) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^key-8dce2542ec0739649897ed81672fb2d4]: Textual amendment: Reg. 2(2)(d) - Reg. 2(2)(e) added (26.10.2008) by [Employment and Support Allowance (Transitional Provisions) (Amendment) Regulations 2008 (S.I. 2008/2783)](https://www.legislation.gov.uk/uksi/2008/2783), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2783/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2008/2783/regulation/2/b)
+
+[^key-e9bdc2dc63d7e7fa0a6f88c6fd8c3e5c]: Textual amendment: Words in reg. 2(3) omitted (1.10.2010) by virtue of [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [Sch. 4 para. 68](https://www.legislation.gov.uk/uksi/2010/1907/schedule/4/paragraph/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^c1919140]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968) relevant amending instruments are [S.I. 1988/522](https://www.legislation.gov.uk/uksi/1988/522), 1990/2208, 1991/2741, 1992/2593, 1994/2943, 1996/1460, 1999/2572, 2000/1483, 2002/2497, 2005/1551.
+
+[^c1919141]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^c1919142]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).

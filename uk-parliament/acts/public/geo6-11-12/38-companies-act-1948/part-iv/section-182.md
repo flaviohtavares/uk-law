@@ -1,0 +1,27 @@
+---
+title: Companies Act 1948, section 182
+act: Companies Act 1948
+section: '182'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/11-12/38/section/182
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1948, section 182
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 182. Share qualifications of directors.
+
+(1) Without prejudice to the restrictions imposed by the last foregoing section, it shall be the duty of every director who is by the articles of the company required to hold a specified share qualification, and who is not already qualified, to obtain his qualification within two months after his appointment, or such shorter time as may be fixed by the articles.
+
+(2) For the purpose of any provision in the articles requiring a director or manager to hold a specified share qualification, the bearer of a share warrant shall not be deemed to be the holder of the shares specified in the warrant.
+
+(3) The office of director of a company shall be vacated if the director does not within two months from the date of his appointment, or within such shorter time as may be fixed by the articles, obtain his qualification, or if after the expiration of the said period or shorter time he ceases at any time to hold his qualification.
+
+(4) A person vacating office under this section shall be incapable of being reappointed director of the company until he has obtained his qualification.
+
+(5) If after the expiration of the said period or shorter time any unqualified person acts as a director of the company, he shall be liable to a fine not exceeding five pounds for every day between the expiration of the said period or shorter time or the day on which he ceased to be qualified, as the case may be, and the last day on which it is proved that he acted as a director.

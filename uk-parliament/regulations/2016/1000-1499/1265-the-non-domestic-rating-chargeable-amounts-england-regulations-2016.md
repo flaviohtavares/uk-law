@@ -1,0 +1,1241 @@
+---
+title: The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2016
+id: uksi/2016/1265
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-12-21'
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/1265
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/1265/pdfs/uksiem_20161265_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/1265/pdfs/uksi_20161265_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/1265/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2016
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 1265
+
+Rating And Valuation, England
+
+The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2016
+
+Made
+
+21st December 2016
+
+Coming into force in accordance with regulation 2
+
+The Secretary of State, in exercise of the powers conferred by sections 57A, 140(4) and 143(1) and (2) of the Local Government Finance Act 1988[^f00001], makes the following Regulations, a draft of which was laid before and approved by a resolution of each House of Parliament in accordance with section 143(4) of that Act.
+
+## PART 1 — Preliminary
+
+### 1. Citation and application[^key-32b3b871c4d2084f1c9f5fcf75181bcc]
+
+(1) These Regulations may be cited as the Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2016.
+
+(2) These Regulations apply in relation to England only.
+
+### 2. Commencement[^key-eda764034241dc5da47a252d0e6c5ca8]
+
+(1) Regulation 22 (revocations) comes into force on 1st April 2017.
+
+(2) The remaining provisions come into force on the day after the day on which they are made.
+
+### 3. Interpretation[^key-cb1d1cf29d18b3c9d33e3be97aef8973]
+
+(1) In these Regulations—
+
+- “the Act” means the Local Government Finance Act 1988;
+- “the Appeals Procedure Regulations” means the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) Regulations 2009[^f00002];
+- “altered hereditament” has the meaning given by paragraph 1 of Schedule 1 to these Regulations;
+- “appropriate valuation officer”—
+  - (a) in relation to a hereditament in respect of which regulations under section 53(1) of the Act (contents of central lists) are in force, means the central valuation officer;
+  - (b) in relation to any other hereditament, means the valuation officer maintaining a local list in which the hereditament is, or would be, shown;
+- “central list” means the list compiled and maintained in accordance with section 52 of the Act;
+- “creation day” has the meaning given by paragraph 1 of Schedule 2;
+- “defined hereditament” has the meaning given by regulation 5;
+- “designated person” means a person designated under section 53(1) of the Act;
+- “list” means a local list or the central list;
+- “local list” means a list compiled and maintained in accordance with section 41 of the Act;
+- “material change of circumstances”, in relation to a hereditament, means a change in any of the matters mentioned in paragraph 2(7) of Schedule 6 to the Act;
+- “relevant day” has the meaning given by regulation 4(2);
+- “relevant factor” means—
+  - (a) any matter mentioned in paragraph 2(7) of Schedule 6 to the Act, or
+  - (b) the extent to which a hereditament is exempt from non-domestic rating;
+- “relevant period” has the meaning given by regulation 4(1); and
+- “relevant year” has the meaning given by regulation 4(3).
+
+(2) A reference in these Regulations to the rateable value shown in the central list for a defined hereditament for a relevant day is taken to be a reference to—
+
+- (a) if only one hereditament is shown in the central list for that day in relation to a designated person, the rateable value shown for that hereditament for that day;
+- (b) if more than one hereditament is shown in the central list for that day in relation to a designated person, the rateable value certified by the appropriate valuation officer under regulation 19 in relation to that hereditament.
+
+### 4. Relevant period, relevant day and relevant year[^key-8d532e0cf7f009e4403e392ea89b9c62]
+
+(1) The relevant period in relation to which, in accordance with section 57A of the Act, these Regulations apply, is the period beginning on 1st April 2017 and ending on 31st March 2022.
+
+(2) A relevant day is a day falling within the relevant period.
+
+(3) A relevant year is a financial year falling within the relevant period.
+
+### 5. Defined hereditaments[^key-ce4919245b95f49db93a72ff74b99bab]
+
+(1) Subject to paragraph (3), as regards a relevant day, a hereditament is a defined hereditament if any of the following conditions are fulfilled—
+
+- (a) the conditions in paragraph (2);
+- (b) the conditions in paragraph 2 of Schedule 1;
+- (c) the conditions in paragraph 1 of Schedule 2.
+
+(2) For the purposes of paragraph (1)(a), the conditions are that the hereditament is shown in a list for—
+
+- (a) 31st March 2017, with a rateable value greater than zero;
+- (b) the relevant day, with a rateable value greater than zero; and
+- (c) each day (if any) falling after 31st March 2017 and before the relevant day, with a rateable value greater than zero.
+
+(3) A reference in this regulation to the rateable value shown in the central list for a hereditament for 31st March 2017 is taken to be a reference to—
+
+- (a) the rateable value shown for the hereditament for that date in the central list; or
+- (b) the value certified by the appropriate valuation officer to be the rateable value which would have been shown in the central list for the hereditament for that date if that had been the only hereditament of the designated person shown in the central list for that date.
+
+(4) Where a hereditament or a class of hereditament shown in the central list in relation to a designated person[^f00003] is a defined hereditament on 1st April 2017 (“the original hereditament”), notwithstanding that on or after 31st March 2017—
+
+- (a) part of the original hereditament becomes a hereditament shown in a local list; or
+- (b) the person ceases to occupy or, if it is unoccupied, own part of the original hereditament,
+
+the conditions in paragraph (2) or paragraphs 1(a), (b)(ii) and (c) of Schedule 2 are taken to be fulfilled as respects the whole of the original hereditament for so long as the person continues to be the designated person in relation to the original hereditament.
+
+### 6. Special authorities[^key-76c5673d5dc15e8a624f34b9a3ec7ea3]
+
+(1) This regulation applies in relation to a defined hereditament which is shown in a local list for the area of a special authority[^f00004] for a relevant year for which the non-domestic rating multiplier[^f00005] set by the special authority is different from the non-domestic rating multiplier for the year.
+
+(2) Where this regulation applies and D<sub>SA</sub> exceeds D then, subject to paragraphs (3), (5), (7), (8A), (9), (10A) and (11)[^key-fb6865729879cd98cd6c6effbdfacde4], to the result of the calculation of the chargeable amount for the chargeable day for the hereditament in accordance with regulation 12 and Schedule 2, there is added the amount calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(3) Where paragraph (4) applies, paragraph (2) has effect as regards the hereditament for the day as if the reference in that paragraph to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+were a reference to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(4) This paragraph applies where, on the chargeable day, section 43(6) of the Act (charities and registered community amateur sports clubs) applies in relation to the hereditament.
+
+(5) Where paragraph (6) applies, paragraph (2) has effect as regards the hereditament for the chargeable day as if the reference in that paragraph to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+were a reference to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(6) This paragraph applies where, on the chargeable day, section 43(4B) of the Act (small business rate relief)[^f00006] applies in relation to the hereditament.
+
+(7) Where paragraph (8) applies, paragraph (2) has effect as regards the hereditament for the chargeable day as if the reference in that paragraph to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+were a reference to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(8) This paragraph applies where, on the chargeable day, section 43(6B) of the Act (general stores etc in rural settlements)[^f00007] applies in relation to the hereditament.
+
+(8A)[^key-ea31787ed04d4796b1187811468913b6] Where paragraph (8B) applies, paragraph (2) has effect as regards the hereditament for the chargeable day as if the reference in that paragraph to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+- were a reference to—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(8B) This paragraph applies where, on the chargeable day, section 43(4F) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(9) Where paragraph (10) applies, paragraph (2) has effect as regards the hereditament for the chargeable day as if the reference in that paragraph to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+were a reference to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(10) This paragraph applies where, on the chargeable day—
+
+- (a) the conditions in section 45(1) of the Act (unoccupied hereditaments: liability) are fulfilled as respects the hereditament;
+- (b) the hereditament is not zero-rated under section 45A of the Act (unoccupied hereditaments: zero-rating)[^f00008]; [^key-d0d50e63e89e75d740163434fc7582fa]...
+- (c) an order by the Secretary of State under section 45(4A) of the Act[^f00009] has effect in relation to the hereditament ; and[^key-d11018f9895c5fc4ca16cead7a0743e7]
+- (d) paragraph (10B) does not apply in relation to the hereditament.
+
+(10A)[^key-b9351fc8c53d4d4e532716b62d15783e] Where paragraph (10B) applies, paragraph (2) has effect as regards the hereditament for the chargeable day as if the reference in that paragraph to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+- were a reference to—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(10B) This paragraph applies where, on the chargeable day, section 45(4D) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(11) Where paragraph (12) applies, paragraph (2) has effect in relation to the hereditament for the day as if the amount calculated by applying the formula in that paragraph were zero.
+
+(12) This paragraph applies where, on the chargeable day, the chargeable amount for the hereditament would be zero under section 43(4I) of the Act (public lavatories: zero-rating) or[^key-e860ffe180f5769090c8f6934fd5d1d9] section 45A of the Act (unoccupied hereditaments: zero-rating).
+
+(13) Where this regulation applies and D<sub>SA</sub>is less than D, then where the chargeable amount for the chargeable day for the hereditament is calculated in accordance with these Regulations, the chargeable amount is multiplied by the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(14) For the purposes of this regulation—
+
+- D is the small business non-domestic rating multiplier for the relevant year in which the chargeable day falls;
+- D<sub>SA</sub>is the small business non-domestic rating multiplier of the special authority for the relevant year in which the chargeable day falls;
+- C is the number of days in the relevant year;
+- E is the amount prescribed under section 44(9)(a) of the Act for the relevant year in which the relevant day falls;
+- F is the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 44(10) of the Act for the relevant day;[^key-4597fa871e85fd0d3f8f709499adca4e]
+- N is the rateable value shown for the hereditament in a local list for the relevant day; [^key-d263106e68f1f86be625bfa80b8d0956]...
+- T is the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 45(4D) of the Act for the relevant day; and[^key-c272052eb82acd7b40f7349bf205bf01]
+- Z is—[^key-5c3ef5d9f0e9fa506360424308eeafc7]
+  - (a) 1; or
+  - (b) where an order made by the Secretary of State under section 45(4A) of the Act is in force, the number prescribed in that order.
+
+## PART 2 — Chargeable amounts
+
+### 7. Notional chargeable amount[^key-87798c93ec9508ea7f63bbdc21900193]
+
+(1) Subject to paragraphs (3) to (5), the notional chargeable amount for a defined hereditament for a relevant year is the amount found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(2) For the purposes of this regulation—
+
+- A is the rateable value shown in a list for the hereditament for 1st April 2017; and
+- D is the small business non-domestic rating multiplier for the relevant year.
+
+(3) Where regulation 14 (change in rateable value on 1st April 2017) applies, references in this regulation to rateable value have effect subject to the modifications made in paragraph (2) of that regulation.
+
+(4) For a hereditament to which Schedule 1 (altered hereditaments) applies, paragraph 4 of that Schedule has effect for finding the notional chargeable amount.
+
+(5) For a hereditament to which Schedule 2 (splits and mergers) applies, paragraph 7 of that Schedule has effect for finding the notional chargeable amount.
+
+### 8. Base liability for 2017 - 18 for a defined hereditament[^key-e8cd3eb7d553ecb39dd59f94d548bfb5]
+
+(1) Subject to paragraph (2), the base liability for a defined hereditament for the relevant year beginning on 1st April 2017 is found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+where—
+
+- Y is—
+
+- (a) for a hereditament shown in a local list for 31st March 2017, the rateable value shown for the hereditament for that date in that list, and
+- (b) for a hereditament shown in the central list for 31st March 2017, the rateable value shown for the hereditament for that date in the central list or the value certified by the appropriate valuation officer to be the rateable value which would have been shown in the central list for the hereditament for that date if that had been the only hereditament of the designated person shown in the central list for that date; and
+
+  Z is the small business non-domestic rating multiplier for the financial year beginning on 1st April 2016.
+
+- (a) for a hereditament shown in the central list for 31st March 2017, the rateable value shown for the hereditament for that date in the central list or the value certified by the appropriate valuation officer to be the rateable value which would have been shown in the central list for the hereditament for that date if that had been the only hereditament of the designated person shown in the central list for that date; and
+
+  Z is the small business non-domestic rating multiplier for the financial year beginning on 1st April 2016.
+
+(2) For a defined hereditament to which Schedule 1 (altered hereditaments) applies, paragraph 3 of that Schedule has effect for finding the base liability.
+
+### 9. Base liability for years subsequent to 2017 -18[^key-8469c6844a5957c919c8ab39ecf834d2]
+
+(1) Subject to paragraph (2), the base liability for a defined hereditament for a relevant year beginning after the first relevant year (“the year concerned”) is found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+where—
+
+- BL is the base liability for the hereditament for the relevant year immediately preceding the year concerned, and
+- AF is the appropriate fraction, as found in accordance with regulation 10, for the relevant year immediately preceding the year concerned.
+
+(2) For a defined hereditament to which Schedule 2 (splits and mergers) applies, paragraphs 8 and 9 of that Schedule have effect for finding the base liability.
+
+### 10. Appropriate fraction[^key-5ec2a5556e001d1bda33c2823c0b91b1]
+
+(1) Subject to paragraph (10), the appropriate fraction for a defined hereditament for a relevant year is found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(2) For the purposes of this regulation, where the notional chargeable amount for the hereditament for the relevant year exceeds the base liability for the hereditament for the year, and the hereditament is shown in a list and the rateable value shown in that list for that hereditament for 1st April 2017 is more than £100,000, then—
+
+- (a) for the relevant year beginning on 1st April 2017, X is 142;
+- (b) for the relevant year beginning on 1st April 2018, X is 132;
+- (c) for the relevant year beginning on 1st April 2019, X is 149;
+- (d) for the relevant year beginning on 1st April 2020, X is 116; and
+- (e) for the relevant year beginning on 1st April 2021, X is 106.
+
+(3) Paragraph (4) applies where the notional chargeable amount for the hereditament for the relevant year exceeds the base liability for the hereditament for the year, and—
+
+- (a) the hereditament is shown in a local list in Greater London and the rateable value shown in that list for that hereditament for 1st April 2017 is more than £28,000 and less than or equal to £100,000; or
+- (b) the hereditament is shown in the central list or in a local list outside Greater London and the rateable value shown in that list for that hereditament for 1st April 2017 is more than £20,000 and less than or equal to £100,000.
+
+(4) For the purposes of this regulation, for a hereditament mentioned in paragraph (3)—
+
+- (a) for the relevant year beginning on 1st April 2017, X is 112.5;
+- (b) for the relevant year beginning on 1st April 2018, X is 117.5;
+- (c) for the relevant year beginning on 1st April 2019, X is 120; and
+- (d) for the relevant years beginning on 1st April 2020 and 1st April 2021, X is 125.
+
+(5) Paragraph (6) applies where the notional chargeable amount for the hereditament for the relevant year exceeds the base liability for the hereditament for the year, and—
+
+- (a) the hereditament is shown in a local list in Greater London and the rateable value shown in that list for that hereditament for 1st April 2017 is less than or equal to £28,000; or
+- (b) the hereditament is shown in the central list or in a local list outside Greater London and the rateable value shown in that list for that hereditament for 1st April 2017 is less than or equal to £20,000.
+
+(6) For the purposes of this regulation, for a hereditament mentioned in paragraph (5)—
+
+- (a) for the relevant year beginning on 1st April 2017, X is 105;
+- (b) for the relevant year beginning on 1st April 2018, X is 107.5;
+- (c) for the relevant year beginning on 1st April 2019, X is 110; and
+- (d) for the relevant years beginning on 1st April 2020 and 1st April 2021, X is 115.
+
+(7) For the purposes of this regulation where the notional chargeable amount for the hereditament for the relevant year does not exceed the base liability for the hereditament for the year, and the hereditament is shown in a list and the rateable value shown in that list for the hereditament for 1st April 2017 is more than £100,000, then—
+
+- (a) for the relevant year beginning on 1st April 2017, X is 95.9;
+- (b) for the relevant year beginning on 1st April 2018, X is 95.4;
+- (c) for the relevant year beginning on 1st April 2019, X is 94.1;
+- (d) for the relevant year beginning on 1st April 2020, X is 94.2; and
+- (e) for the relevant year beginning on 1st April 2021, X is 95.2.
+
+(8) Paragraph (9) applies where the notional chargeable amount for the hereditament for the relevant year does not exceed the base liability for the hereditament for the year, and—
+
+- (a) the hereditament is shown in a local list in Greater London and the rateable value shown in that list for the hereditament for 1st April 2017 is more than £28,000 and less than or equal to £100,000; or
+- (b) the hereditament is shown in the central list or in a local list outside Greater London and the rateable value shown in that list for the hereditament for 1st April 2017 is more than £20,000 and less than or equal to £100,000.
+
+(9) For the purposes of this regulation, for a hereditament mentioned in paragraph (8)—
+
+- (a) for the relevant year beginning on 1st April 2017, X is 90;
+- (b) for the relevant year beginning on 1st April 2018, X is 85;
+- (c) for the relevant year beginning on 1st April 2019, X is 80; and
+- (d) for the relevant years beginning on 1st April 2020 and 1st April 2021, X is 75.
+
+(10) Paragraph (11) applies where the notional chargeable amount for the hereditament does not exceed the base liability for the year, and—
+
+- (a) the hereditament is shown in a local list in Greater London and the rateable value shown in that list for the hereditament for 1st April 2017 is less than or equal to £28,000; or
+- (b) the hereditament is shown in the central list or in a local list outside Greater London and the rateable value shown in that list for the hereditament for 1st April 2017 is less than or equal to £20,000.
+
+(11) For the purposes of this regulation, for a hereditament mentioned in paragraph (10)—
+
+- (a) for the relevant year beginning on 1st April 2017, X is 80;
+- (b) for the relevant year beginning on 1st April 2018, X is 70;
+- (c) for the relevant year beginning on 1st April 2019, X is 65; and
+- (d) for the relevant years beginning on 1st April 2020 and 1st April 2021, X is 45.
+
+(12) For the purposes of this regulation—
+
+- (a) for the relevant year beginning on 1st April 2017, Q is 1.02;
+- (b) for subsequent relevant years in the relevant period, Q is the amount found by applying the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+  where—
+
+  - D(1) is the small business non-domestic rating multiplier for the relevant year, and
+  - D(2) is the small business non-domestic rating multiplier for the financial year which precedes the relevant year;
+
+- (a) Q, if not a whole number, is calculated to three decimal places only—
+  - (i) adding one thousandth where (apart from this sub-paragraph) there would be more than five ten-thousandths; and
+  - (ii) ignoring ten-thousandths where (apart from this sub-paragraph) there would be five, or less than five, ten-thousandths.
+
+(13) For a defined hereditament to which one or more of the following provisions apply—
+
+- (a) regulation 14 (change in rateable value on 1st April 2017),
+- (b) paragraph 6 of Schedule 1 (altered hereditament: change in rateable value),
+- (c) paragraph 10 of Schedule 2 (rateable value: split or merger after 1st April 2017),
+
+this regulation has effect subject to the modifications made by that provision.
+
+### 11. Application of regulation 12[^key-29313fdc6027271a9048a71703be6312]
+
+(1) Subject to paragraphs (3) to (6), regulation 12 applies to a defined hereditament for a relevant day (“the day concerned”) if—
+
+- (a) as regards the hereditament the day concerned is a chargeable day for which a chargeable amount would, but for these Regulations, fall to be determined under section 43, 45 or 54 of the Act; and
+- (b) NCA is—
+  - (i) subject to the modification in paragraph 5 of Schedule 1 (altered hereditaments), greater than BL and greater than (BL x AF); or
+  - (ii) less than BL and less than (BL x AF).
+
+(2) For the purposes of paragraph (1)—
+
+- (a) NCA is the notional chargeable amount for the hereditament for the relevant year within which the day concerned falls, but where paragraph 4 of Schedule 1 (altered hereditament: notional chargeable amount) applies, that paragraph has effect for the purpose of determining NCA as regards the altered hereditament,
+- (b) BL is the base liability for the hereditament for the relevant year within which the day concerned falls,
+- (c) AF is the appropriate fraction for the hereditament for the relevant year within which the day concerned falls.
+
+(3) Regulation 12 does not apply where, on the day concerned, the chargeable amount for the defined hereditament is zero under section 43(4I) of the Act (public lavatories: zero-rating) or[^key-87cc39fcd1f3132706042dfbb72feb15] section 45A of the Act (unoccupied hereditaments: zero-rating).
+
+(4) Regulation 12 does not apply where Schedule 2 (splits and mergers) applies to a defined hereditament in the year in which the creation day falls.
+
+(5) Regulation 12 does not apply to a defined hereditament for the day concerned if—
+
+- (a) as respects a relevant day falling before the day concerned, the value of X for the purposes of determining the appropriate fraction fell to be determined (or if determined again following an alteration of a list in accordance with regulations made under the Act, fell after that alteration to be determined) in accordance with regulation 10(2), (4) or (6), and
+- (b) as respects the day concerned, the value of X for the purposes of determining the appropriate fraction falls to be determined (or if determined again following an alteration of a list in accordance with regulations made under the Act, falls after that alteration to be determined) in accordance with regulation 10(7), (9) or (11).
+
+(6) Regulation 12 does not apply to a defined hereditament for the day concerned if—
+
+- (a) as respects a relevant day falling before the day concerned, the value of X for the purposes of determining the appropriate fraction fell to be determined (or if determined again following an alteration of a list in accordance with Regulations made under the Act, fell after that alteration to be determined) in accordance with regulation 10(7), (9) or (11), and
+- (b) as respects the day concerned, the value of X for the purposes of determining the appropriate fraction falls to be determined (or if determined again following an alteration of a list in accordance with Regulations made under the Act, falls after that alteration to be determined) in accordance with regulation 10(2), (4) or (6).
+
+### 12. Rules for determining chargeable amount[^key-8ca3e9121abad8577caf7f136816a358]
+
+(1) Where this regulation applies to a hereditament shown in the central list, subject to paragraph (1A),[^key-ad3e659cc609f2f5e07ccfcb19a02a4d] the chargeable amount as respects the designated person for a chargeable day which is a relevant day is calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+instead of the formula in section 54(4) of the Act.
+
+(1A)[^key-3684bf801db193e0683f7a3e96b0e373] Where paragraph (1B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with paragraph (1) by T.
+
+(1B) This paragraph applies where, on the chargeable day, section 54ZA(1) of the Act (relief for telecommunications infrastructure) applies in relation to a description of hereditament.
+
+(2) Where this regulation applies to a hereditament shown in a local list, the chargeable amount for a chargeable day which is a relevant day is calculated under this regulation instead of under section 43 or 45 of the Act.
+
+(3) Subject to paragraphs (4), (6), (7A), (8), (10) and (11A)[^key-0fbfb3366a3e464f20bbc5df368c4c3a], the chargeable amount for the chargeable day is calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(4) Where paragraph (5) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with paragraph (3) by 5.
+
+(5) This paragraph applies where, on the day concerned, section 43(6) of the Act (charities and registered community amateur sports clubs) applies in relation to the hereditament.
+
+(6) Where paragraph (7) applies, the chargeable amount for a chargeable day is found by—
+
+- (a) subtracting U from the amount calculated in accordance with paragraph (3); and
+- (b) dividing the result of the calculation performed under sub-paragraph (a) by E.
+
+(7) This paragraph applies where, on the chargeable day, section 43(4B) of the Act (small business rate relief) applies in relation to the hereditament.
+
+(7A)[^key-c531a3b7b4eb85f10534aee01772d289] Where paragraph (7B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with paragraph (3) by F.
+
+(7B) This paragraph applies where, on the chargeable day, section 43(4F) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(8) Where paragraph (9) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with paragraph (3) by 2.
+
+(9) This paragraph applies where, on the chargeable day, section 43(6B) of the Act (general stores etc in rural settlements) applies in relation to the hereditament.
+
+(10) Where paragraph (11) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with paragraph (3) by the number prescribed in an order by the Secretary of State under section 45(4A) of the Act (reduction in chargeable amount for unoccupied properties).
+
+(11) This paragraph applies where, on the chargeable day—
+
+- (a) the conditions in section 45(1) of the Act (unoccupied property: liability) are fulfilled as respects the hereditament; and
+- (b) an order by the Secretary of State under section 45(4A) has effect in relation to the hereditament.
+
+(11A)[^key-bcb2c26a1a452b5ea82dd535676c51ab] Where paragraph (11B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with paragraph (3) by T.
+
+(11B) This paragraph applies where, on the chargeable day, section 45(4D) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(12) For the purposes of this regulation—
+
+- A is the amount certified by the appropriate valuation officer to be the portion of the rateable value shown for the chargeable day in the central list against the name of the designated person which is not attributable to hereditaments to which this regulation applies;
+- B is the non-domestic rating multiplier for the relevant year in which the chargeable day falls;
+- BL and AF have the meanings given by regulation 11(2);
+- C is the number of days in the relevant year;
+- D is the small business non-domestic rating multiplier for the relevant year in which the relevant day falls;
+- E is the amount prescribed under section 44(9)(a) of the Act for the relevant year in which the relevant day falls;
+- F is the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 44(10) of the Act for the relevant day;[^key-5fe80e50d73884f16c1bd506b57c67f7]
+- H is the aggregate for the chargeable day of the amounts found by applying the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+  to each hereditament to which this regulation applies shown for the day in the central list against the name of the designated person;
+- N is the rateable value shown in a list for the hereditament for the day ;[^key-33f2d113a07a2bbd020d92d420e69382]
+- T is—
+  - (a) in relation to paragraph (1A), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 54ZA(3) of the Act for the relevant day;
+  - (b) in relation to paragraph (11A), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 45(4D) of the Act for the relevant day; and
+- U is the amount found by applying the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(13) For a hereditament to which one or more of the following provisions apply—
+
+- (a) regulation 13 (change in rateable value after 1st April 2017);
+- (b) regulation 14 (change in rateable value on 1st April 2017);
+- (c) regulation 15 (partly-occupied hereditaments),
+
+this regulation has effect subject to the modifications made in that provision.
+
+### 13. Change in rateable value after 1st April 2017[^key-c348224f15181f5ba77eb52de8ae841a]
+
+(1) Paragraph (2) applies in respect of a defined hereditament in a case where regulation 12 applies and for a day after 1st April 2017 the rateable value shown in a local list for the hereditament for that day is greater than the rateable value shown for it for 1st April 2017.
+
+(2) Where this paragraph applies, regulation 12 has effect as regards the hereditament for the day as if the reference in that regulation to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+were a reference to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(3) Paragraph (4) applies in respect of a defined hereditament in a case where regulation 12 applies and for a day after 1st April 2017 the rateable value shown in a local list for the hereditament for that day is less than the rateable value shown for it for 1st April 2017.
+
+(4) Where this paragraph applies, regulation 12 has effect as regards the hereditament for the day as if the reference in that regulation to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+were a reference to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(5) For the purposes of the modifications made by paragraphs (2) and (4)—
+
+- J is the rateable value shown for the hereditament in a local list for 1st April 2017, and
+- N is the rateable value shown for the hereditament in a local list for the day.
+
+(6) Paragraph (7) applies in respect of a defined hereditament in a case where regulation 12 applies and for a chargeable day after 1st April 2017 the rateable value shown in the central list for that hereditament for that day is different from the rateable value shown for 1st April 2017.
+
+(7) Where this paragraph applies, regulation 12 has effect as regards the defined hereditament for the chargeable day as if the reference to the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+were a reference to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(8) For the purposes of this paragraph and paragraph (7)—
+
+- H is the aggregate for a chargeable day of the amounts found by applying the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+  to each hereditament to which regulation 12 applies but to which paragraph (7) does not apply shown in the central list for that day in relation to the designated person;
+- I is the aggregate for the chargeable day of the amounts found by applying the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+  to each hereditament to which paragraph (7) applies shown in the central list for that day in relation to the designated person and for which the rateable value shown for that day is greater than the rateable value shown for 1st April 2017;
+- J is the rateable value shown in the central list for the hereditament for 1st April 2017;
+- K is the aggregate for the chargeable day of the chargeable amounts found by applying the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+  to each hereditament to which paragraph (7) applies shown in the central list for that day in relation to the designated person and for which the rateable value shown for that day is less than the rateable value shown for 1st April 2017; and
+- N is the rateable value shown in the central list for the hereditament for the chargeable day.
+
+(9) For a hereditament to which one or more of the following provisions apply—
+
+- (a) regulation 14 (change in rateable value on 1st April 2017);
+- (b) paragraph 6 of Schedule 1 (altered hereditament: change in rateable value);
+- (c) paragraph 10 of Schedule 2 (rateable value: split or merger after 1st April 2017),
+
+this regulation has effect subject to the modifications made by that provision.
+
+### 14. Change in rateable value on 1st April 2017[^key-dae9c9335800985debfc618aac4d7648]
+
+(1) This regulation applies where any circumstances regarding a relevant factor taken into account in determining the rateable value shown in a local list for a defined hereditament for 1st April 2017 differ from the circumstances regarding that factor existing on 31st March 2017, so that the rateable value shown for 1st April 2017 is different from that which would have been shown if the circumstances regarding that factor existing on 31st March 2017 continued to exist on 1st April 2017.
+
+(2) Where this regulation applies, the references in regulation 7 (notional chargeable amount) and 10 (appropriate fraction) to a rateable value shown for 1st April 2017 are treated as references to the value certified by the appropriate valuation officer as the rateable value which would have been shown for that day if that value had fallen to be determined as regards that factor by reference to the circumstances existing on 31st March 2017.
+
+(3) Where this regulation and regulation 12 apply, regulation 13 (change in rateable value after 1st April 2017) has effect as if—
+
+- (a) the references in paragraphs (1), (3) and (5) of regulation 13 to a rateable value shown for 1st April 2017 were references to the value certified by the appropriate valuation officer as the rateable value which would have been shown for that day if that value had fallen to be determined as regards the factor mentioned in paragraph (1) by reference to the circumstances existing on 31st March 2017, and
+- (b) the references in paragraphs (1) and (3) of regulation 13 to the rateable value for a day after 1st April 2017 were treated as including a reference to the rateable value actually shown for 1st April 2017.
+
+### 15. Partly occupied hereditaments[^key-ab2fe35dcf495a614dc9cba6d645a8c7]
+
+(1) As regards a relevant day and a defined hereditament in relation to which an apportionment under section 44A of the Act (partly occupied hereditaments) is applicable, any chargeable amount for that day as respects the hereditament found in accordance with regulation 12 or Schedule 2 (as modified by any provision of these Regulations) is taken to be multiplied by A and divided by P.
+
+(2) In paragraph (1)—
+
+- A is the amount found under section 44(2) of the Act, as substituted by section 44A(7) or (9) for the relevant day as respects the hereditament, and
+- P is the rateable value shown for the hereditament under section 42(4) of the Act (contents of local lists) for the relevant day.
+
+## PART 3 — Miscellaneous
+
+### 16. Certificates for changes in rateable value: 1st April 2017[^key-2a0002626e1abbc7866b11abe3726717]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Certificates for change in rateable value: 31st March 2017[^key-2a0002626e1abbc7866b11abe3726717]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Certification: splits and mergers before 1st April 2017
+
+[^key-2a0002626e1abbc7866b11abe3726717]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Certificates: central list[^key-2a0002626e1abbc7866b11abe3726717]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Certificates: general[^key-2a0002626e1abbc7866b11abe3726717]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Appeals against certificates[^key-2a0002626e1abbc7866b11abe3726717]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Revocations[^key-d2b970f7626328280bb25557e00e2f4e]
+
+Regulations 18 and 19 of the Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2004[^f00010] are revoked.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Bourne of Aberystwyth
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+21st December 2016
+
+## SCHEDULE 1 — ALTERED HEREDITAMENTS
+
+Regulations 3(1), 5(1)(b), 7(4), 8(2), 10(13)(b), 11(1)(b)(i) and (2)(a), 13(9)(b)
+
+### 1. Interpretation[^key-babe9ca0b4b650b2b7bbaea6fb1b275e]
+
+In this Schedule, “altered hereditament” means a hereditament comprising, wholly or mainly, any property which was the whole or part of—
+
+- (a) a hereditament shown in a local list at any time in the period beginning on 1st April 2010 and ending on 31st March 2017, or
+- (b) a hereditament which was at any time a defined hereditament;
+
+and the hereditament of which the altered hereditament is so comprised is, in this Schedule, referred to as the “original hereditament”.
+
+### 2. Hereditaments to which this Schedule applies[^key-b5ecfd466e5904591b4adf02b5c65e4f]
+
+This Schedule applies to an altered hereditament if—
+
+- (a) the original hereditament was deleted from a local list with effect from any day as a result of a structural alteration to that hereditament; and
+- (b) for a day on or after 1st April 2017 the altered hereditament is shown for the first time in a local list following the alteration.
+
+### 3. Altered hereditament: base liability for 2017 - 18[^key-b45ed19dea5923e71e192516772a5e19]
+
+(1) The base liability for the relevant year beginning in 2017 for an altered hereditament is found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+where—
+
+- Y is the amount mentioned in sub-paragraph (2), and
+- Z is the small business non-domestic rating multiplier for the financial year beginning in 2016.
+
+(2) The amount referred to in sub-paragraph (1) is the amount certified by the appropriate valuation officer as the rateable value which would have been shown in the list for the hereditament for 31st March 2017 on the assumption that—
+
+- (a) the hereditament came into existence on 31st March 2017; and
+- (b) the matters referred to in paragraph 2(7) of Schedule 6 to the Act as respects the hereditament were as they were assumed to be on the day on which it was shown for the first time in a local list as mentioned in paragraph 2(b) of this Schedule.
+
+### 4. Altered hereditament: notional chargeable amount[^key-dab82c06ec267df2f1e66bb67758375a]
+
+The notional chargeable amount for a relevant year for an altered hereditament is found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+where—
+
+- A is the rateable value shown for the hereditament for the day for which it is shown for the first time in a local list following the alteration, and
+- D is the small business non-domestic rating multiplier for the relevant year.
+
+### 5. Altered hereditament: application of regulation 12[^key-1f7213cc961a18208aa34d411eea4795]
+
+Regulation 11 has effect in relation to an altered hereditament as if paragraph (1)(b)(i) were omitted.
+
+### 6. Altered hereditament: change in rateable value[^key-6bec9ad27e322276314ae4d1ae2ff29e]
+
+Regulations 10 (appropriate fraction) and 13 (change in rateable value after 1st April 2017) have effect in relation to an altered hereditament to which this Schedule applies as if for references to 1st April 2017 there were substituted references to the day for which the altered hereditament is shown for the first time in a local list following the alteration.
+
+## SCHEDULE 2 — SPLITS AND MERGERS
+
+Regulations 3(1), 5(1)(c) and(4), 6(2), 7(5), 9(2), 10(13)(c),11(4), 13(9)(c), 15(1)
+
+### 1. Cases where this Schedule applies[^key-94904153d00f9a139cff98c5c5ad4739]
+
+This Schedule applies where—
+
+- (a) on a day (“the creation day”) falling on or after 1st April 2017, a hereditament (“new hereditament”) comes into existence because—
+  - (i) property previously rated as a single hereditament becomes liable to be rated in parts;
+  - (ii) property previously rated in parts becomes liable to be rated as a single hereditament; or
+  - (iii) a hereditament or any part of a hereditament becomes part of a different hereditament; and
+- (b) immediately before the creation day either—
+  - (i) a hereditament from which the new hereditament was formed in whole or in part (“old hereditament”) was a defined hereditament, or if the creation day is 1st April 2017, an old hereditament was shown in a local list for 31st March 2017, with a rateable value greater than zero; or
+  - (ii) each old hereditament from which the new hereditament was formed in whole or in part was shown in the central list for 31st March 2017; and
+- (c) a rateable value, which is greater than zero, is shown for the new hereditament in a list for—
+  - (i) the creation day;
+  - (ii) the relevant day (if different from the creation day), and
+  - (iii) each day (if any) falling after the creation day and before the relevant day.
+
+### 2. Rules for determination of chargeable amount for new hereditament: splits on 1st April 2017[^key-de2c6bab004bf3a4f34c7d87be0ec2d1]
+
+(1) Subject to paragraph 6 (changes in the value of new hereditament: year of creation), where—
+
+- (a) this Schedule applies;
+- (b) the creation day falls on 1st April 2017;
+- (c) the new hereditament comprises or incorporates all or part of a single old hereditament; and
+- (d) the chargeable amount for the chargeable day for the new hereditament is not zero under section 45A of the Act (unoccupied hereditaments: zero-rating),
+
+the chargeable amount for a chargeable day in the year beginning on 1st April 2017 must be calculated under the following provisions of this paragraph instead of under section 43, 45 , 54 or 54ZA[^key-383491fb8ae7d67cd0231d26134a9ecd] of the Act.
+
+(2) Subject to sub-paragraphs (3), (5), (7) , (8A), (9), (10A) and (10C)[^key-7d9d89a1302ee3de1b8bfb9a73fa3dad], the chargeable amount for the chargeable day is calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(3) Where sub-paragraph (4) applies, the chargeable amount for the chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by 5.
+
+(4) This sub-paragraph applies where, on the chargeable day, section 43(6) of the Act (charities and registered community amateur sports clubs) applies in relation to the hereditament.
+
+(5) Where sub-paragraph (6) applies, the chargeable amount for the chargeable day is found by—
+
+- (a) subtracting U (as defined in regulation 12) from the amount calculated in accordance with sub-paragraph (2); and
+- (b) dividing the result by E.
+
+(6) This sub-paragraph applies where, on the chargeable day, section 43(4B) of the Act (small business rate relief) applies in relation to the hereditament.
+
+(7) Where sub-paragraph (8) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by 2.
+
+(8) This sub-paragraph applies where, on the chargeable day, section 43(6B) of the Act (general stores etc in rural settlements) applies in relation to the hereditament.
+
+(8A)[^key-ec55465baad858c2abc50ef1b11849cb] Where sub-paragraph (8B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by F.
+
+(8B) This sub-paragraph applies where, on the chargeable day, section 43(4F) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(9) Where sub-paragraph (10) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by the number prescribed in an order by the Secretary of State under section 45(4A) (reduction in chargeable amount for unoccupied hereditaments) of the Act.
+
+(10) This sub-paragraph applies where, on the chargeable day—
+
+- (a) the conditions in section 45(1) of the Act (unoccupied hereditaments: liability) are fulfilled as respects the hereditament; and
+- (b) an order by the Secretary of State under section 45(4A) has effect in relation to the hereditament.
+
+(10A)[^key-a61cec237b479816bbeac99b08657e9c] Where sub-paragraph (10B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by T.
+
+(10B) This sub-paragraph applies where, on the chargeable day, section 45(4D) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(10C) Where sub-paragraph (10D) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by T.
+
+(10D) This sub-paragraph applies where, on the chargeable day, section 54ZA(1) of the Act (relief for telecommunications infrastructure) applies in relation to a description of hereditament.
+
+(11) For the purposes of this paragraph—
+
+- E is the amount prescribed under section 44(9)(a) of the Act (occupied hereditaments: supplementary) for the year beginning on 1st April 2017;
+- F is the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 44(10) of the Act for the relevant day;[^key-86fcd098c96d6791df4bf4e6210bfa09]
+- R is the amount which would have been the chargeable amount for the old hereditament for 1st April 2017 if—
+  - (a) the old hereditament were shown in a list for 1st April 2017;
+  - (b) its rateable value for that day were the value certified by the appropriate valuation officer to be the rateable value which would have been shown in that list for that day on the assumption that the relevant factors were as they were for 31st March 2017;
+  - (c) the whole of the hereditament were occupied;
+  - (d) sections 43(4B)(a) (small business rate relief), 43(4F) (relief for telecommunications infrastructure), 43(6) (charities or registered community amateur sports clubs), 43(6B) (rural rate relief), 47 (discretionary relief), 49(1) (reduction or remission of liability) and 54ZA(1) (relief for telecommunications infrastructure) of the Act did not apply to it for 1st April 2017;[^key-12a8a34b0523c163b581d6df5b28a774]
+- J is the rateable value shown in a list for the new hereditament for 1st April 2017; [^key-086c721015126524918df138c208da37]...
+- S is the value certified by the appropriate valuation officer to be the rateable value which would have been shown in a list for the old hereditament for 1st April 2017 if that hereditament were shown in a list for that date on the assumption that the relevant factors were as they were for 31st March 2017 ; and[^key-f8b5e89d5006f1a842772fd67b2d3de4]
+- T is—
+  - (a) in relation to sub-paragraph (10A), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 45(4D) of the Act for the relevant day;
+  - (b) in relation to sub-paragraph (10C), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 54ZA(3) of the Act for the relevant day.
+
+### 3. Rules for determination of chargeable amount for new hereditament: mergers on 1st April 2017[^key-7460abc953518022f878c14e65b95891]
+
+(1) Subject to paragraph 6 (changes in the value of new hereditament: year of creation), where—
+
+- (a) this Schedule applies;
+- (b) the creation day falls on 1st April 2017;
+- (c) the new hereditament comprises or incorporates more than one, or parts of more than one, old hereditament; and
+- (d) the chargeable amount for the chargeable day for the new hereditament is not zero under section 45A of the Act (unoccupied hereditaments: zero rating),
+
+the chargeable amount for a chargeable day in the year beginning on 1st April 2017 must be calculated under the following provisions of this paragraph instead of under section 43, 45 , 54 or 54ZA[^key-50a511d53e9f58f9eaf80712b569204d] of the Act.
+
+(2) Subject to sub-paragraphs (3), (5), (7) , (8A), (9), (10A) and (10C)[^key-d79959a0f3d97ac20b6bcd20a6cedf09], the chargeable amount for the chargeable day is calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(3) Where sub-paragraph (4) applies, the chargeable amount for the chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by 5.
+
+(4) This sub-paragraph applies where, on the day concerned, section 43(6) of the Act (charities and registered community amateur sports clubs) applies in relation to the hereditament.
+
+(5) Where sub-paragraph (6) applies, the chargeable amount for the chargeable day is found by—
+
+- (a) subtracting U (as defined in regulation 12) from the amount calculated in accordance with sub-paragraph (2); and
+- (b) dividing the result by E.
+
+(6) This sub-paragraph applies where, on the day concerned, section 43(4B) of the Act (small business rate relief) applies in relation to the hereditament.
+
+(7) Where sub-paragraph (8) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by 2.
+
+(8) This sub-paragraph applies where, on the chargeable day, section 43(6B) of the Act (general stores etc in rural settlements) applies in relation to the hereditament.
+
+(8A)[^key-f77878ee7e29e1e059c9e071351ecdb1] Where sub-paragraph (8B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by F.
+
+(8B) This sub-paragraph applies where, on the chargeable day, section 43(4F) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(9) Where sub-paragraph (10) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by the number prescribed in an order by the Secretary of State under section 45(4A) of the Act (reduction in chargeable amount for unoccupied hereditaments).
+
+(10) This sub-paragraph applies where, on the chargeable day—
+
+- (a) the conditions in section 45(1) of the Act (unoccupied hereditaments: liability) are fulfilled as respects the hereditament; and
+- (b) an order by the Secretary of State under section 45(4A) has effect in relation to the hereditament.
+
+(10A)[^key-d4f3a2fdb6ddd423fbd44fbedba2dad1] Where sub-paragraph (10B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by T.
+
+(10B) This sub-paragraph applies where, on the chargeable day, section 45(4D) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(10C) Where sub-paragraph (10D) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by T.
+
+(10D) This sub-paragraph applies where, on the chargeable day, section 54ZA(1) of the Act (relief for telecommunications infrastructure) applies in relation to a description of hereditament.
+
+(11) For the purposes of this paragraph—
+
+- E is the amount prescribed under section 44(9)(a) of the Act (occupied hereditaments: supplementary) for the year beginning on 1st April 2017;
+- F is the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 44(10) of the Act for the relevant day;[^key-a2ce0412da6d32c8697d53649ae63376]
+- R is the total of the amounts which would have been the chargeable amounts for 1st April 2017 for the old hereditaments comprised or incorporated in the new hereditament if—
+  - (a) each of the old hereditaments were shown in a list for 1st April 2017;
+  - (b) the rateable value for each were the value certified by the appropriate valuation officer to be the rateable value which would have been shown in a list for that day on the assumption that the relevant factors were as they were for 31st March 2017;
+  - (c) the whole of each of the old hereditaments were occupied;
+  - (d) sections 43(4B)(a) (small business rate relief), 43(4F) (relief for telecommunications infrastructure), 43(6) (charities or registered community amateur sports clubs), 43(6B) (general stores etc in rural settlements), 47 (discretionary relief), 49(1) (reduction or remission of liability) and 54ZA(1) (relief for telecommunications infrastructure) of the Act did not apply to them for 1st April 2017;[^key-f9a2e3f7d3b498ffd1d10778ec301ad4]
+- J is the rateable value shown in a list for the new hereditament for the 1st April 2017; [^key-e1092af6d0ccf5fae7dc602d63fb3b36]...
+- S is the total of the values certified by the appropriate valuation officer to be the rateable values which would have been shown in a list for 1st April 2017 for the old hereditaments incorporated or comprised in the new hereditament if they were shown in a list for that date on the assumption that the relevant factors were as they were for 31st March 2017 ; and[^key-931a08cd35fb403e71bf83344d994fcd]
+- T is—
+  - (a) in relation to sub-paragraph (10A), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 45(4D) of the Act for the relevant day;
+  - (b) in relation to sub-paragraph (10C), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 54ZA(3) of the Act for the relevant day.
+
+### 4. Rules for determining chargeable amount for new hereditament: splits after 1st April 2017[^key-c50536e5ce0fe6415122a1b4f1834d68]
+
+(1) Subject to paragraph 6 (changes in the value of new hereditament: year of creation), where—
+
+- (a) this Schedule applies,
+- (b) the creation day falls on a day after 1st April 2017,
+- (c) the new hereditament comprises or incorporates all or part of a single old hereditament, and
+- (d) the chargeable amount for the chargeable day for the new hereditament is not zero under section 43(4I) of the Act (public lavatories: zero-rating) or[^key-31389325b6511356f2ff5b34f1ca7a72] section 45A of the Act (unoccupied hereditaments: zero rating),
+
+the chargeable amount for a chargeable day which is a relevant day in the relevant year in which the creation day falls must be calculated under the following provisions of this paragraph instead of under section 43, 45 , 54 or 54ZA[^key-6859ed5c1155249c56929f322e3d6505] of the Act.
+
+(2) Subject to sub-paragraphs (3), (5), (7) , (8A), (9), (10A) and (10C)[^key-1076e134788cf19133eac83250bc9df4], the chargeable amount for the chargeable day is calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(3) Where sub-paragraph (4) applies, the chargeable amount for the chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by 5.
+
+(4) This sub-paragraph applies where, on the chargeable day, section 43(6) of the Act (charities and registered community amateur sports clubs) applies in relation to the hereditament.
+
+(5) Where sub-paragraph (6) applies, the chargeable amount for a chargeable day is found by—
+
+- (a) subtracting U (as defined in regulation 12) from the amount calculated in accordance with sub-paragraph (2); and
+- (b) dividing the result of the calculation performed under paragraph (a) by E.
+
+(6) This sub-paragraph applies where, on the chargeable day, section 43(4B) of the Act (small business rate relief) applies in relation to the hereditament.
+
+(7) Where sub-paragraph (8) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by 2.
+
+(8) This sub-paragraph applies where, on the chargeable day, section 43(6B) of the Act (general stores etc in rural settlements) applies in relation to the hereditament.
+
+(8A)[^key-b73e262f74a029debb85ba9d3984b058] Where sub-paragraph (8B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by F.
+
+(8B) This sub-paragraph applies where, on the chargeable day, section 43(4F) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(9) Where sub-paragraph (10) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with paragraph (2) by the number prescribed in an order by the Secretary of State under section 45(4A) of the Act (reduction in chargeable amount for unoccupied hereditaments).
+
+(10) This sub-paragraph applies where, on the chargeable day—
+
+- (a) the conditions in section 45(1) of the Act (unoccupied hereditaments: liability) are fulfilled as respects the hereditament; and
+- (b) an order by the Secretary of State under section 45(4A) has effect in relation to the hereditament.
+
+(10A)[^key-de47c057f319219c082fb872f6596f9b] Where sub-paragraph (10B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by T.
+
+(10B) This sub-paragraph applies where, on the chargeable day, section 45(4D) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(10C) Where sub-paragraph (10D) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by T.
+
+(10D) This sub-paragraph applies where, on the chargeable day, section 54ZA(1) of the Act (relief for telecommunications infrastructure) applies in relation to a description of hereditament.
+
+(11) For the purposes of this paragraph—
+
+- E is the amount prescribed under section 44(9)(a) of the Act (occupied hereditaments: supplementary) for the relevant year in which the relevant day falls;
+- F is the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 44(10) of the Act for the relevant day;[^key-c30f91fcc5a04c854319283f397c94e8]
+- R is the amount which would have been the chargeable amount for the old hereditament for the creation day if—
+  - (a) the old hereditament continued to exist and was shown in a list for that day;
+  - (b) the rateable value for that day were the same as for the previous day;
+  - (c) sections 43(4B)(a) (small business rate relief), 43(4F) (relief for telecommunications infrastructure), 43(6) (charities or registered community amateur sports clubs), 43(6B) (general stores etc in rural settlements), 47 (discretionary relief), 49(1) (reduction or remission of liability) and 54ZA(1) (relief for telecommunications infrastructure) of the Act did not apply to it for the creation day;[^key-f9149dd395c087039ceb51fae13990fd]
+- J is the rateable value shown in a list for the new hereditament for the creation day; [^key-ccfea32ef7c83aa3253276c527c8ed69]...
+- S is the rateable value shown in a list for the old hereditament for the day immediately before the creation day ; and[^key-f54a2ec3bafdca908ecccff4d5c12d24]
+- T is—
+  - (a) in relation to sub-paragraph (10A), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 45(4D) of the Act for the relevant day;
+  - (b) in relation to sub-paragraph (10C), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 54ZA(3) of the Act for the relevant day.
+
+### 5. Rules for determining chargeable amount for new hereditament: mergers after 1st<sup> </sup>April 2017[^key-39c0f67760a373c7f80ac4262d4d538e]
+
+(1) Subject to paragraph 6 (changes in the value of new hereditament: year of creation), where—
+
+- (a) this Schedule applies;
+- (b) the creation day falls on a day after 1st April 2017;
+- (c) the new hereditament comprises or incorporates more than one, or parts of more than one, old hereditament; and
+- (d) the chargeable amount for the chargeable day for the new hereditament is not zero under section 43(4I) of the Act (public lavatories: zero-rating) or[^key-58977eed67b7a03d1a5b6efbce73c6d0] section 45A of the Act (unoccupied hereditaments: zero rating),
+
+the chargeable amount for a chargeable day which is a relevant day in the relevant year in which the creation day falls must be calculated under the following provisions of this paragraph instead of under section 43, 45 , 54 or 54ZA[^key-d3620b5ad495637bcae34d094d7f20e1] of the Act.
+
+(2) Subject to sub-paragraphs (3), (5), (7) , (8A), (9), (10A) and (10C)[^key-e931c0c742e313c661a3df5e4c069f7e] below, the chargeable amount for the chargeable day is calculated by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(3) Where sub-paragraph (4) applies, the chargeable amount for the chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by 5.
+
+(4) This sub-paragraph applies where, on the day concerned, section 43(6) of the Act (charities and registered community amateur sports clubs) applies in relation to the hereditament.
+
+(5) Where sub-paragraph (6) applies, the chargeable amount for a chargeable day is found by—
+
+- (a) subtracting U (as defined in regulation 12) from the amount calculated in accordance with sub-paragraph (2); and
+- (b) dividing the result of the calculation performed under paragraph (a) by E.
+
+(6) This sub-paragraph applies where, on the chargeable day, section 43(4B) of the Act (small business rate relief) applies in relation to the hereditament.
+
+(7) Where sub-paragraph (8) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by 2.
+
+(8) This sub-paragraph applies where, on the chargeable day, section 43(6B) of the Act (general stores etc in rural settlements) applies in relation to the hereditament.
+
+(8A)[^key-0b0c4aa8a14d3b89ddf0084cd015bdd0] Where sub-paragraph (8B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by F.
+
+(8B) This sub-paragraph applies where, on the chargeable day, section 43(4F) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(9) Where sub-paragraph (10) applies, the chargeable amount for a chargeable day is found by dividing the amount calculated in accordance with sub-paragraph (2) by the number prescribed in an order by the Secretary of State under section 45(4A) of the Act (reduction in chargeable amount for unoccupied hereditaments).
+
+(10) This sub-paragraph applies where, on the chargeable day—
+
+- (a) the conditions in section 45(1) of the Act (unoccupied hereditaments: liability) are fulfilled as respects the hereditament; and
+- (b) an order by the Secretary of State under section 45(4A) has effect in relation to the hereditament.
+
+(10A)[^key-8b9e8e5ebf15a3d36d08344437eac3d9] Where sub-paragraph (10B) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by T.
+
+(10B) This sub-paragraph applies where, on the chargeable day, section 45(4D) of the Act (relief for telecommunications infrastructure) applies in relation to the hereditament.
+
+(10C) Where sub-paragraph (10D) applies, the chargeable amount for a chargeable day is found by multiplying the amount calculated in accordance with sub-paragraph (2) by T.
+
+(10D) This sub-paragraph applies where, on the chargeable day, section 54ZA(1) of the Act (relief for telecommunications infrastructure) applies in relation to a description of hereditament.
+
+(11) For the purposes of this paragraph—
+
+- E is the amount prescribed under section 44(9)(a) of the Act (occupied hereditaments: supplementary) for the relevant year in which the relevant day falls;
+- F is the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 44(10) of the Act for the relevant day;[^key-b07a145b1ad424b88ace40bfacd1e690]
+- R is the total of the amounts which would have been chargeable amounts for the creation day for the old hereditaments incorporated or comprised in the new hereditament if—
+  - (a) each of the old hereditaments was shown in a list for that day;
+  - (b) each rateable value for that day was the same as for the previous day;
+  - (c) the whole of each hereditament was occupied;
+  - (d) sections 43(4B)(a) (small business rate relief), 43(4F) (relief for telecommunications infrastructure), 43(6) (charities or registered community amateur sports clubs), 43(6B) (general stores etc in rural settlements), 47 (discretionary relief), 49(1) (reduction or remission of liability) and 54ZA(1) (relief for telecommunications infrastructure) of the Act did not apply to them for the creation day;[^key-98418df173545d5b4182012705ab9fdb]
+- J is the rateable value shown in a list for the new hereditament for the creation day; [^key-c13358b86143b0cbb5a51f79b5644026]...
+- S is the total of the rateable values shown in a list for the day immediately before the creation day for the old hereditaments incorporated or comprised in the new hereditament ; and[^key-c99ca833b99b72dc93cb7d5baed4b6ab]
+- T is—
+  - (a) in relation to sub-paragraph (10A), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 45(4D) of the Act for the relevant day;
+  - (b) in relation to sub-paragraph (10C), the amount prescribed, or calculated in accordance with provision prescribed, by the Secretary of State under section 54ZA(3) of the Act for the relevant day.
+
+### 6. Changes in the value of new hereditament: year of creation[^key-79dd59a7e776b8e75bf7f157c1ea95ec]
+
+(1) Sub-paragraph (2) applies in respect of a new hereditament in a year in which the creation day falls where for a chargeable day after the creation day the rateable value shown in a list for the hereditament is greater than the rateable value shown for the creation day.
+
+(2) Where this sub-paragraph applies, paragraphs 2 to 5 have effect as regards the hereditament for the chargeable day as if the reference in those paragraphs to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+were a reference to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(3) Sub-paragraph (4) applies in respect of a new hereditament in a year in which the creation day falls where for a chargeable day after the creation day the rateable value shown in a list for a hereditament is less than the rateable value shown in a list for the creation day.
+
+(4) Where this sub-paragraph applies, paragraphs 2 to 5 have effect as if the reference in those paragraphs to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+were a reference to—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(5) For the purposes of sub-paragraphs (2) and (4)—
+
+- B is the non-domestic rating multiplier for the relevant year in which the creation day falls;
+- C is the number of days in the relevant year in which the creation day falls;
+- N is the rateable value shown in a list for the new hereditament for the chargeable day; and
+- R, J and S have the same meanings given by paragraph 2, 3, 4 or 5.
+
+### 7. Notional chargeable amount for new hereditament[^key-2f19d2376a9c4a409f23e499a7744afa]
+
+(1) This paragraph applies for determining the notional chargeable amount for a new hereditament for a relevant year falling after the year in which the creation day falls.
+
+(2) Where this paragraph applies, the relevant notional chargeable amount is found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+where—
+
+- J is the rateable value shown in a list for the new hereditament for the creation day; and
+- D is the small business non-domestic rating multiplier for the relevant year.
+
+### 8. Base liability for the year after the year in which the creation day falls[^key-b7e0316cb517b87b1717e5882be1867e]
+
+(1) This paragraph applies for determining the base liability for a new hereditament for the relevant year which falls immediately after the year in which the creation day falls.
+
+(2) Where this paragraph applies, the base liability for the hereditament is found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(3) For the purposes of this paragraph—
+
+- T is the amount (calculated in accordance with such of the preceding provisions of this Schedule as are applicable) which is or would have been the chargeable amount for the hereditament for the creation day if—
+  - (a) the whole of the hereditament were occupied;
+  - (b) sections 43(4B) (small business rate relief), 43(4F) (relief for telecommunications infrastructure), 43(6) (charities or registered community amateur sports clubs), 43(6B) (general stores[^key-ca5c2d1c1723d68118130a67e25c70c8] etc in rural settlements), 47 (discretionary relief), 49(1) (reduction or remission of liability) and 54ZA(1) (relief for telecommunications infrastructure) of the Act did not apply to it for the creation day;
+- C is the number of days in the relevant year in which the creation day falls;
+- B is the non-domestic rating multiplier for the relevant year;
+- D is the small business non-domestic rating multiplier for the relevant year; and
+- J is the rateable value shown in a list for the new hereditament for the creation day.
+
+### 9. Base liability for subsequent years for new hereditament[^key-433b68f995f5b41f320edf73ddf5e812]
+
+(1) This paragraph applies for determining the base liability for a hereditament to which this Schedule applies for any relevant year falling after the relevant year referred to in paragraph 8(1).
+
+(2) Where this paragraph applies, the base liability for the hereditament is found by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+(3) For the purposes of this paragraph, BL and AF have the meanings given by regulation 9.
+
+### 10. Rateable value: hereditament split or merged after 1st April 2017[^key-de2f0b51456d74fcdd31ed63001c22fb]
+
+(1) This paragraph applies if the creation day falls on a day after 1st April 2017.
+
+(2) Subject to sub-paragraph (3), regulations 10 (appropriate fraction) and 13 (change in rateable value after 1st April 2017), ignoring any modifications made by regulation 14 (change in rateable value on 1st April 2017), have effect in relation to a new hereditament as if for references to 1st April 2017 there were substituted references to the creation day.
+
+(3) The modifications in sub-paragraph (2) do not apply in relation to the references to 1st April 2017 in regulation 10(2)(a), (4)(a), (6)(a), (7)(a), (9)(a), (11)(a) and (12)(a).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Local Government Finance Act 1988 (“the Act”) provides for non-domestic hereditaments to be revalued every five years. On a revaluation new non-domestic rating lists are compiled. The next compilation date is 1st April 2017.
+
+On each previous revaluation a transitional relief scheme has been used to protect ratepayers from large increases in their rates bills following a revaluation. These Regulations, which apply to England only, set out the rules for the transitional relief scheme which will apply to the 2017 non-domestic rating revaluation.
+
+The effect of the transitional relief scheme is to assist ratepayers whose bills (in these Regulations, the “notional chargeable amount”) would have increased above a certain amount by phasing in these increases gradually over up to five years. It is also the effect of the scheme to phase in the reduction in bills of some ratepayers who would otherwise have seen their rates bills decrease immediately on 1st April 2017. The phasing in of the reductions funds the phasing in of the increases.
+
+Part 2 of these Regulations makes provision for the determination of the substituted chargeable amount (which is the amount by reference to which a ratepayer’s liability is established) where the hereditament is shown in a local list or the central list (see sections 42 or 52 of the Act) and where the conditions in Part 2 are met.
+
+Regulations 4 to 10 explain the terms used in determining whether the rules in Part 2 apply in place of the rules in section 43 (occupied hereditaments: liability), 45 (unoccupied hereditaments: liability) or 54 (central rating: liability) of the Act.
+
+Regulation 11 specifies the cases where the principal rules, contained in regulation 12, apply for determining the chargeable amount in cases to which Part 2 applies. There are two tests which determine when the rules contained in regulation 12 apply.
+
+The first is where NCA (notional chargeable amount, as determined under regulation 7) for a hereditament is greater than BL (base liability, as determined under regulation 8 or 9) and also greater than BL multiplied by AF (appropriate fraction, as determined under regulation 10). This is the situation where, but for these Regulations, the ratepayer’s chargeable amount would have increased above a certain amount at the beginning of the relevant financial year.
+
+The second is where NCA (notional chargeable amount, as determined under regulation 7) for a hereditament is less than BL (base liability, as determined under regulation 8 or 9) and also less than BL multiplied by AF (appropriate fraction, as determined under regulation 10). This is the situation where, but for these Regulations, the ratepayer’s chargeable amount would have decreased below a certain amount at the beginning of the relevant financial year.
+
+Where either of these tests is satisfied then the chargeable amount for the hereditament for each day will be–
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/1265)
+
+where C is the number of days in the year and U is a small business rate relief correction factor.
+
+The appropriate fraction (AF) is different depending on whether the first or second test applies. The AF is also different for different classes of hereditament based on rateable values. Regulation 11 further provides that once the chargeable amount is calculated the mandatory reliefs (such as charitable relief and small business rate relief) are deducted.
+
+Regulation 13 modifies the rules in relation to cases where, after 1st April 2017, there has been a change to the rateable value of the hereditament.
+
+Regulation 14 modifies regulation 13 to apply in cases where there has been a change to the rateable value of the hereditament on 1st April 2017.
+
+Regulation 15 modifies the rules in relation to cases where the hereditament is partly-occupied.
+
+Regulations 16 to 20 make provision requiring the appropriate valuation officer to certify rateable values for the purposes of the application of the rules in these Regulations. Regulation 21 provides for the procedure to be followed in the case of appeals against such certificates.
+
+Regulation 22 revokes regulations 18 (certification by appropriate valuation officer) and 19 (appeals against certification) of the Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2004 ([S.I. 2014/3387](https://www.legislation.gov.uk/uksi/2014/3387)), which provide for the issuing of certificates and appeals against certification in relation to the 2005 rating lists.
+
+Schedule 1 deals with cases where as a result of a structural alteration a hereditament is deleted from a local list but is subsequently restored to it on or after 1st April 2017.
+
+Schedule 2 makes provision, in place of Part 2 (chargeable amounts), for cases where a hereditament splits, or is merged with one or more other hereditaments, whether the split or merger occurs on or after 1st April 2017.
+
+An impact assessment has not been produced for this instrument because it amends an existing local tax regime. Publication of a full impact assessment is not necessary for such legislation.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Section 57A was inserted by section 65 of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) and section 143(4) was amended by paragraphs 9 and 24(1) and (3) of Schedule 7 to the same Act.
+
+[^key-32b3b871c4d2084f1c9f5fcf75181bcc]: Commencement: Reg. 1 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-eda764034241dc5da47a252d0e6c5ca8]: Commencement: Reg. 2 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-cb1d1cf29d18b3c9d33e3be97aef8973]: Commencement: Reg. 3 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^f00002]: Footnote: [S.I. 2009/2269](https://www.legislation.gov.uk/uksi/2009/2269).
+
+[^key-8d532e0cf7f009e4403e392ea89b9c62]: Commencement: Reg. 4 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-ce4919245b95f49db93a72ff74b99bab]: Commencement: Reg. 5 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^f00003]: Footnote: Section 67(9A) of the Act defines “class” of hereditament by reference to a description of hereditament prescribed under section 53(1) of the Local Government Finance Act 1988 in relation to the designated person. Under section 67(9) of that Act, a hereditament is treated as shown in the central list for a day if on the day it falls within a class of hereditament shown for the day in the central list.
+
+[^key-76c5673d5dc15e8a624f34b9a3ec7ea3]: Commencement: Reg. 6 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^f00004]: Footnote: See section 144(6) of the Local Government Finance Act 1988 for the meaning of a special authority.
+
+[^f00005]: Footnote: A special authority’s non-domestic rating multiplier for a year is set under Part 2 of Schedule 7 to the Local Government Finance Act 1988. This may differ from the non-domestic rating multiplier for the year set under Part 1 of that Schedule.
+
+[^key-fb6865729879cd98cd6c6effbdfacde4]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/2) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2018/425/regulation/10/a)
+
+[^f00006]: Footnote: Section 43(4B) was inserted by section 61(3) of the Local Government Act 2003.
+
+[^f00007]: Footnote: Section 43(6B) was inserted by section 1 and paragraph 2 of Schedule 1 to the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29).
+
+[^key-ea31787ed04d4796b1187811468913b6]: Textual amendment: [Reg. 6(8A)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/8A)[(8B)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/8B) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2018/425/regulation/10/b)
+
+[^f00008]: Footnote: Section 45A was inserted by section 1(2) of the Rating (Empty Properties) Act [2007 (c. 9)](https://www.legislation.gov.uk/ukpga/2007/9).
+
+[^key-d0d50e63e89e75d740163434fc7582fa]: Textual amendment: Word in [reg. 6(10)(b)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/10/b) omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [10(c)(i)](https://www.legislation.gov.uk/uksi/2018/425/regulation/10/c/i)
+
+[^f00009]: Footnote: Section 45(4A) was inserted by section 1(1) of the Rating (Empty Properties) Act [2007 (c. 9)](https://www.legislation.gov.uk/ukpga/2007/9).
+
+[^key-d11018f9895c5fc4ca16cead7a0743e7]: Textual amendment: [Reg. 6(10)(d)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/10/d) and word inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [10(c)(ii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/10/c/ii)
+
+[^key-b9351fc8c53d4d4e532716b62d15783e]: Textual amendment: [Reg. 6(10A)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/10A)[(10B)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/10B) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2018/425/regulation/10/d)
+
+[^key-e860ffe180f5769090c8f6934fd5d1d9]: Textual amendment: Words in [reg. 6(12)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/12) inserted (with effect in accordance with s. 4(2)(3) of the amending Act) by [Non-Domestic Rating (Public Lavatories) Act 2021 (c. 13)](https://www.legislation.gov.uk/ukpga/2021/13), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2021/13/section/2), [4](https://www.legislation.gov.uk/ukpga/2021/13/section/4) (with [s. 2(7)](https://www.legislation.gov.uk/ukpga/2021/13/section/2))
+
+[^key-4597fa871e85fd0d3f8f709499adca4e]: Textual amendment: Words in [reg. 6(14)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/14) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [10(e)(i)](https://www.legislation.gov.uk/uksi/2018/425/regulation/10/e/i)
+
+[^key-d263106e68f1f86be625bfa80b8d0956]: Textual amendment: Word in [reg. 6(14)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/14) omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [10(e)(ii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/10/e/ii)
+
+[^key-c272052eb82acd7b40f7349bf205bf01]: Textual amendment: Words in [reg. 6(14)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/14) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [10(e)(iii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/10/e/iii)
+
+[^key-5c3ef5d9f0e9fa506360424308eeafc7]: Textual amendment: Words in [reg. 6(14)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/6/14) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [10(e)(iv)](https://www.legislation.gov.uk/uksi/2018/425/regulation/10/e/iv)
+
+[^key-87798c93ec9508ea7f63bbdc21900193]: Commencement: Reg. 7 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-e8cd3eb7d553ecb39dd59f94d548bfb5]: Commencement: Reg. 8 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-8469c6844a5957c919c8ab39ecf834d2]: Commencement: Reg. 9 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-5ec2a5556e001d1bda33c2823c0b91b1]: Commencement: Reg. 10 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-29313fdc6027271a9048a71703be6312]: Commencement: Reg. 11 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-87cc39fcd1f3132706042dfbb72feb15]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/11/3) inserted (with effect in accordance with s. 4(2)(3) of the amending Act) by [Non-Domestic Rating (Public Lavatories) Act 2021 (c. 13)](https://www.legislation.gov.uk/ukpga/2021/13), [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2021/13/section/2), [4](https://www.legislation.gov.uk/ukpga/2021/13/section/4) (with [s. 2(7)](https://www.legislation.gov.uk/ukpga/2021/13/section/2))
+
+[^key-8ca3e9121abad8577caf7f136816a358]: Commencement: Reg. 12 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-ad3e659cc609f2f5e07ccfcb19a02a4d]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/1) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2018/425/regulation/11/a)
+
+[^key-3684bf801db193e0683f7a3e96b0e373]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/1A)[(1B)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/1B) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2018/425/regulation/11/b)
+
+[^key-0fbfb3366a3e464f20bbc5df368c4c3a]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/3) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2018/425/regulation/11/c)
+
+[^key-c531a3b7b4eb85f10534aee01772d289]: Textual amendment: [Reg. 12(7A)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/7A)[(7B)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/7B) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [11(d)](https://www.legislation.gov.uk/uksi/2018/425/regulation/11/d)
+
+[^key-bcb2c26a1a452b5ea82dd535676c51ab]: Textual amendment: [Reg. 12(11A)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/11A)[(11B)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/11B) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [11(e)](https://www.legislation.gov.uk/uksi/2018/425/regulation/11/e)
+
+[^key-5fe80e50d73884f16c1bd506b57c67f7]: Textual amendment: Words in [reg. 12(12)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/12) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [11(f)(i)](https://www.legislation.gov.uk/uksi/2018/425/regulation/11/f/i)
+
+[^key-33f2d113a07a2bbd020d92d420e69382]: Textual amendment: Words in [reg. 12(12)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/12/12) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [11(f)(ii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/11/f/ii)
+
+[^key-c348224f15181f5ba77eb52de8ae841a]: Commencement: Reg. 13 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-dae9c9335800985debfc618aac4d7648]: Commencement: Reg. 14 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-ab2fe35dcf495a614dc9cba6d645a8c7]: Commencement: Reg. 15 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-2a0002626e1abbc7866b11abe3726717]: Textual amendment: [Regs. 16-21](https://www.legislation.gov.uk/uksi/2016/1265/regulation/16) revoked (1.4.2026) by [The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2026 (S.I. 2026/81)](https://www.legislation.gov.uk/uksi/2026/81), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/81/regulation/2/1), [24(1)](https://www.legislation.gov.uk/uksi/2026/81/regulation/24/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2026/81/regulation/4), [24(2)](https://www.legislation.gov.uk/uksi/2026/81/regulation/24/2))
+
+[^key-d2b970f7626328280bb25557e00e2f4e]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2016/1265/regulation/22) in force at 1.4.2017, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/1)
+
+[^f00010]: Footnote: [S.I. 2004/3387](https://www.legislation.gov.uk/uksi/2004/3387); relevant amending instruments are [S.I. 2005/991](https://www.legislation.gov.uk/uksi/2005/991), [2006/3394](https://www.legislation.gov.uk/uksi/2006/3394), [2008/428](https://www.legislation.gov.uk/uksi/2008/428) and [2009/3343](https://www.legislation.gov.uk/uksi/2009/3343).
+
+[^key-babe9ca0b4b650b2b7bbaea6fb1b275e]: Commencement: Sch. 1 para. 1 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-b5ecfd466e5904591b4adf02b5c65e4f]: Commencement: Sch. 1 para. 2 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-b45ed19dea5923e71e192516772a5e19]: Commencement: Sch. 1 para. 3 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-dab82c06ec267df2f1e66bb67758375a]: Commencement: Sch. 1 para. 4 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-1f7213cc961a18208aa34d411eea4795]: Commencement: Sch. 1 para. 5 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-6bec9ad27e322276314ae4d1ae2ff29e]: Commencement: Sch. 1 para. 6 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-94904153d00f9a139cff98c5c5ad4739]: Commencement: Sch. 2 para. 1 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-de2c6bab004bf3a4f34c7d87be0ec2d1]: Commencement: Sch. 2 para. 2 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-383491fb8ae7d67cd0231d26134a9ecd]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/2/1) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/2/a)
+
+[^key-7d9d89a1302ee3de1b8bfb9a73fa3dad]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/2/2) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/2/b)
+
+[^key-ec55465baad858c2abc50ef1b11849cb]: Textual amendment: [Sch. 2 para. 2(8A)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/2/8A)[(8B)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/2/8B) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/2/c)
+
+[^key-a61cec237b479816bbeac99b08657e9c]: Textual amendment: [Sch. 2 para. 2(10A)-(10D)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/2/10A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(2)(d)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/2/d)
+
+[^key-86fcd098c96d6791df4bf4e6210bfa09]: Textual amendment: Words in [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/2/11) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(2)(e)(i)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/2/e/i)
+
+[^key-12a8a34b0523c163b581d6df5b28a774]: Textual amendment: Words in [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/2/11) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/2/e/ii)
+
+[^key-086c721015126524918df138c208da37]: Textual amendment: Word in [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/2/11) omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/2/e/iii)
+
+[^key-f8b5e89d5006f1a842772fd67b2d3de4]: Textual amendment: Words in [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/2/11) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(2)(e)(iv)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/2/e/iv)
+
+[^key-7460abc953518022f878c14e65b95891]: Commencement: Sch. 2 para. 3 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-50a511d53e9f58f9eaf80712b569204d]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/3/1) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/3/a)
+
+[^key-d79959a0f3d97ac20b6bcd20a6cedf09]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/3/2) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/3/b)
+
+[^key-f77878ee7e29e1e059c9e071351ecdb1]: Textual amendment: [Sch. 2 para. 3(8A)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/3/8A)[(8B)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/3/8B) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(3)(c)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/3/c)
+
+[^key-d4f3a2fdb6ddd423fbd44fbedba2dad1]: Textual amendment: [Sch. 2 para. 3(10A)-(10D)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/3/10A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(3)(d)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/3/d)
+
+[^key-a2ce0412da6d32c8697d53649ae63376]: Textual amendment: Words in [Sch. 2 para. 3(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/3/11) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(3)(e)(i)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/3/e/i)
+
+[^key-f9a2e3f7d3b498ffd1d10778ec301ad4]: Textual amendment: Words in [Sch. 2 para. 3(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/3/11) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/3/e/ii)
+
+[^key-e1092af6d0ccf5fae7dc602d63fb3b36]: Textual amendment: Word in [Sch. 2 para. 3(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/3/11) omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/3/e/iii)
+
+[^key-931a08cd35fb403e71bf83344d994fcd]: Textual amendment: Words in [Sch. 2 para. 3(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/3/11) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(3)(e)(iv)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/3/e/iv)
+
+[^key-c50536e5ce0fe6415122a1b4f1834d68]: Commencement: Sch. 2 para. 4 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-31389325b6511356f2ff5b34f1ca7a72]: Textual amendment: Words in [Sch. 2 para. 4(1)(d)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/1/d) inserted (with effect in accordance with s. 4(2)(3) of the amending Act) by [Non-Domestic Rating (Public Lavatories) Act 2021 (c. 13)](https://www.legislation.gov.uk/ukpga/2021/13), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/2021/13/section/2), [4](https://www.legislation.gov.uk/ukpga/2021/13/section/4) (with [s. 2(7)](https://www.legislation.gov.uk/ukpga/2021/13/section/2))
+
+[^key-6859ed5c1155249c56929f322e3d6505]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/1) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/4/a)
+
+[^key-1076e134788cf19133eac83250bc9df4]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/2) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/4/b)
+
+[^key-b73e262f74a029debb85ba9d3984b058]: Textual amendment: [Sch. 2 para. 4(8A)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/8A)[(8B)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/8B) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(4)(c)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/4/c)
+
+[^key-de47c057f319219c082fb872f6596f9b]: Textual amendment: [Sch. 2 para. 4(10A)-(10D)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/10A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(4)(d)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/4/d)
+
+[^key-c30f91fcc5a04c854319283f397c94e8]: Textual amendment: Words in [Sch. 2 para. 4(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/11) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(4)(e)(i)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/4/e/i)
+
+[^key-f9149dd395c087039ceb51fae13990fd]: Textual amendment: Words in [Sch. 2 para. 4(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/11) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/4/e/ii)
+
+[^key-ccfea32ef7c83aa3253276c527c8ed69]: Textual amendment: Word in [Sch. 2 para. 4(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/11) omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(4)(e)(iii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/4/e/iii)
+
+[^key-f54a2ec3bafdca908ecccff4d5c12d24]: Textual amendment: Words in [Sch. 2 para. 4(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/4/11) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(4)(e)(iv)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/4/e/iv)
+
+[^key-39c0f67760a373c7f80ac4262d4d538e]: Commencement: Sch. 2 para. 5 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-58977eed67b7a03d1a5b6efbce73c6d0]: Textual amendment: Words in [Sch. 2 para. 5(1)(d)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/1/d) inserted (with effect in accordance with s. 4(2)(3) of the amending Act) by [Non-Domestic Rating (Public Lavatories) Act 2021 (c. 13)](https://www.legislation.gov.uk/ukpga/2021/13), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/2021/13/section/2), [4](https://www.legislation.gov.uk/ukpga/2021/13/section/4) (with [s. 2(7)](https://www.legislation.gov.uk/ukpga/2021/13/section/2))
+
+[^key-d3620b5ad495637bcae34d094d7f20e1]: Textual amendment: Words in [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/1) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(5)(a)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/5/a)
+
+[^key-e931c0c742e313c661a3df5e4c069f7e]: Textual amendment: Words in [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/2) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(5)(b)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/5/b)
+
+[^key-0b0c4aa8a14d3b89ddf0084cd015bdd0]: Textual amendment: [Sch. 2 para. 5(8A)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/8A)[(8B)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/8B) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(5)(c)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/5/c)
+
+[^key-8b9e8e5ebf15a3d36d08344437eac3d9]: Textual amendment: [Sch. 2 para. 5(10A)-(10D)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/10A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(5)(d)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/5/d)
+
+[^key-b07a145b1ad424b88ace40bfacd1e690]: Textual amendment: Words in [Sch. 2 para. 5(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/11) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(5)(e)(i)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/5/e/i)
+
+[^key-98418df173545d5b4182012705ab9fdb]: Textual amendment: Words in [Sch. 2 para. 5(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/11) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(5)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/5/e/ii)
+
+[^key-c13358b86143b0cbb5a51f79b5644026]: Textual amendment: Word in [Sch. 2 para. 5(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/11) omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(5)(e)(iii)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/5/e/iii)
+
+[^key-c99ca833b99b72dc93cb7d5baed4b6ab]: Textual amendment: Words in [Sch. 2 para. 5(11)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/5/11) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(5)(e)(iv)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/5/e/iv)
+
+[^key-79dd59a7e776b8e75bf7f157c1ea95ec]: Commencement: Sch. 2 para. 6 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-2f19d2376a9c4a409f23e499a7744afa]: Commencement: Sch. 2 para. 7 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-b7e0316cb517b87b1717e5882be1867e]: Commencement: Sch. 2 para. 8 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-ca5c2d1c1723d68118130a67e25c70c8]: Textual amendment: Words in [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2016/1265/schedule/2/paragraph/8/3) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Non-Domestic Rating (Telecommunications Infrastructure Relief) (England) Regulations 2018 (S.I. 2018/425)](https://www.legislation.gov.uk/uksi/2018/425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/425/regulation/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2018/425/regulation/12/6)
+
+[^key-433b68f995f5b41f320edf73ddf5e812]: Commencement: Sch. 2 para. 9 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)
+
+[^key-de2f0b51456d74fcdd31ed63001c22fb]: Commencement: Sch. 2 para. 10 in force at 22.12.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1265/regulation/2/2)

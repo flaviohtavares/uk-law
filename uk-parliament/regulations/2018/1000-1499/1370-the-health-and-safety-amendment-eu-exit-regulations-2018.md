@@ -1,0 +1,394 @@
+---
+title: The Health and Safety (Amendment) (EU Exit) Regulations 2018
+id: uksi/2018/1370
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-12-13'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1370
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1370/pdfs/uksiem_20181370_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1370/pdfs/uksi_20181370_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1370/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Safety (Amendment) (EU Exit) Regulations 2018
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1370
+
+Exiting The European Union
+
+Health And Safety
+
+Environmental Protection
+
+The Health and Safety (Amendment) (EU Exit) Regulations 2018
+
+Sift requirements satisfied
+
+11th September 2018
+
+Made
+
+13th December 2018
+
+Laid before Parliament
+
+18th December 2018
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23495351].
+
+The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation, commencement, application and extent[^c23502401]
+
+(1) These Regulations may be cited as the Health and Safety (Amendment) (EU Exit) Regulations 2018 and come into force on exit day.
+
+(2) Any amendment made by Part 2 of these Regulations of an enactment has the same application and extent as the enactment specified.
+
+## PART 2 — AMENDMENT OF SUBORDINATE LEGISLATION
+
+### 2. Amendment of the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995[^c23502411]
+
+(1) The Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995 [^c23495361] are amended as follows.
+
+(2) In regulation 20 (certificates of exemption), in paragraph (1), after “the European Union” insert “ (as they had effect immediately before IP completion day[^key-ea30f583975a8ab7c63a1b01a7f5288e]) ”.
+
+### 3. Amendment of the Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995[^c23502421]
+
+(1) The Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995 [^c23495371] are amended as follows.
+
+(2) In regulation 22 (certificates of exemption), in paragraph (1), after “the European Union” insert “ (as they had effect immediately before IP completion day[^key-194dad86adeee2b2cfbe087a012a7a74]) ”.
+
+### 4. Amendment of the Borehole Sites and Operations Regulations 1995[^c23502431]
+
+(1) The Borehole Sites and Operations Regulations 1995 [^c23495381] are amended as follows.
+
+(2) In regulation 6 (notice of the commencement of drilling operations and the abandonment of boreholes), in paragraph (8), after “the European Union” insert “ (as they had effect immediately before IP completion day[^key-a3462e50b9bf3af9e02649ef6132c83c]) ”.
+
+### 5. Amendment of the Health and Safety (Safety Signs and Signals) Regulations 1996[^c23502441]
+
+(1) The Health and Safety (Safety Signs and Signals) Regulations 1996 [^c23495391]are amended as follows.
+
+(2) In Schedule 1—
+
+- (a) in Part II (minimum general requirements concerning signboards: conditions of use), in paragraph 2.1, for “Directive [89/654/EEC](https://www.legislation.gov.uk/european/directive/1989/0654)” substitute “ regulation 8 of the Workplace (Health, Safety and Welfare) Regulations 1992 [^c23495401] ”;
+- (b) in Part IX (minimum requirements for hand signals), in paragraph 3 (coded signals to be used), omit “applicable at Community level,”.
+
+### 6. Amendment of the Offshore Installations and Wells (Design and Construction, etc.) Regulations 1996[^c23502451]
+
+(1) The Offshore Installations and Wells (Design and Construction, etc.) Regulations 1996 [^c23495411]are amended as follows.
+
+(2) In regulation 23 (certificates of exemption), in paragraph (1), after “the European Union” insert “ (as they had effect immediately before IP completion day[^key-243d2485b8e970fc6a2186aa203a2c47]) ”.
+
+### 7. Amendment of the Control of Substances Hazardous to Health Regulations 2002[^c23502461]
+
+(1) The Control of Substances Hazardous to Health Regulations 2002 [^c23495421]are amended as follows.
+
+(2) In regulation 2 (interpretation), in paragraph (1), for the definition of “the Agreement” substitute—
+
+> “**the Agreement**” means the EEA agreement;
+
+.
+
+(3) In regulation 4, (prohibitions relating to certain substances), in paragraph (2), for “another member State” substitute “ a member State ”.
+
+(4) In regulation 7 (prevention or control of exposure to substances hazardous to health), in paragraph (12) omit “(OJ No.L181, 31.3.2016, p.51)”.
+
+(5) In regulation 15 (exemption certificates), after paragraph (1) insert—
+
+> (1A) Article 9 of Council Directive [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) has effect for the purpose of paragraph (1) as if for the references to “Member States” there were substituted references to “ the Executive ”.
+
+.
+
+### 8. Amendment of the Control of Artificial Optical Radiation at Work Regulations 2010[^c23502471]
+
+(1) The Control of Artificial Optical Radiation at Work Regulations 2010 [^c23495431]are amended as follows.
+
+(2) In regulation 3 (assessment of the risk of adverse health effects to the eyes or skin created by exposure to artificial optical radiation at the workplace), at the end of paragraph (5)(j) insert “ as they had effect immediately before IP completion day[^key-700f5edb8f5474fd603d7323a2e7b710]”;
+
+(3) In regulation 4 (obligations to eliminate or reduce risks), at the end of paragraph (4)(h) insert “ as they had effect immediately before IP completion day[^key-6a71105800f5ef2c138400559faae189]”.
+
+### 9. Amendment of the Genetically Modified Organisms (Contained Use) Regulations 2014[^c23502481]
+
+(1) The Genetically Modified Organisms (Contained Use) Regulations 2014 [^c23495441]are amended as follows.
+
+(2) In regulation 3 (application), in paragraph (2)(b)—
+
+- (a) at the end of paragraph (i) insert “ or ”;
+- (b) at the end of paragraph (ii) omit “; or”;
+- (c) omit paragraph (iii).
+
+(3) In regulation 27 (duties of competent authority on receipt of information about accidents)—
+
+- (a) insert “ and ” at the end of paragraph (a);
+- (b) omit—
+  - (i) paragraph (b);
+  - (ii) “; and” at the end of paragraph (c); and
+  - (iii) paragraph (d).
+
+### 10. Amendment of the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015[^c23502491]
+
+(1) The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 [^c23495451] are amended as follows.
+
+(2) In regulation 32 (standards and guidance on best practice), in paragraph (3), for the words from “with authorities” to the end of that paragraph substitute “ with other authorities having such knowledge, information or experience ”.
+
+(3) In regulation 34 (information on operations), in both the heading and paragraph (1), after “the European Union” insert “ , Great Britain and external waters ”.
+
+### 11. Amendment of the Control of Major Accident Hazards Regulations 2015[^c23502501]
+
+(1) The Control of Major Accident Hazards Regulations 2015 [^c23495461]are amended as follows.
+
+(2) In regulation 17 (provision of information to the public), in paragraph (2)(d), for “Member State” substitute “ country ”.
+
+(3) In regulation 20 (trans-boundary consequences)—
+
+- (a) in paragraph (1), for “Member State” in both places substitute “ country ”;
+- (b) omit paragraph (2).
+
+(4) In regulation 26 (action to be taken following a major accident)—
+
+- (a) in paragraph (3), for the words from the beginning to “information” substitute “ Following a major accident, the competent authority may, where appropriate, provide international organisations with some, or all, of the following information ”;
+- (b) omit paragraph (4);
+- (c) at the end insert—
+
+  > (6) For the purposes of paragraph (3), an organisation is an international organisation if it, and its subordinate bodies, are governed by international law or it is set up by, or on the basis of, an agreement between two or more countries.
+
+  .
+
+(5) In paragraph (g) of Part 2 of Schedule 4, for “Member States” substitute “ countries ”.
+
+(6) Omit Schedule 5.
+
+### 12. Amendment of the Ionising Radiations Regulations 2017[^c23502511]
+
+(1) The Ionising Radiations Regulations 2017 [^c23495471]are amended as follows.
+
+(2) In the provisions specified in paragraph (3), for “another member State” substitute “ a member State ”.
+
+(3) Those provisions are—
+
+- (a) in regulation 2(1) (interpretation), the definitions of “classified person”, “controlled area” and “radiation passbook”;
+- (b) regulation 3(5) (application) in both places; and
+- (c) regulation 22(3)(i) (dose assessment and recording).
+
+## PART 3 — AMENDMENT OF RETAINED DIRECT EU LEGISLATION
+
+### 13. Amendment of Commission Implementing Regulation (EU) No. 1112/2014[^c23502521]
+
+(1) Commission Implementing Regulation (EU) No. 1112/2014 determining a common format for sharing of information on major hazard indicators by the operators and owners of offshore oil and gas installations and a common format for the publication of the information on major hazard indicators by the Member States is amended as follows.
+
+(2) In Article 1 (subject matter and scope)—
+
+- (a) in paragraph (a), for the words from “competent authorities” to the end of the paragraph substitute “ the competent authority in accordance with Annex AI ”;
+- (b) in paragraph (b), for the words from “by Member States” to the end of the paragraph substitute “ by the competent authority in accordance with Annex AI. ”.
+
+(3) After Article 1 insert—
+
+> **Article 1A**
+>
+> **1A. Definitions**
+>
+> In this Regulation—
+>
+> - “**RIDDOR**” means—
+>   - (a) in relation to Great Britain, the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 [^c23495481];
+>   - (b) in relation to Northern Ireland, the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997 [^c23495491];
+> - “**SCR**” means—
+>   - (a) in relation to Great Britain, the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015;
+>   - (b) in relation to Northern Ireland, the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 [^c23495501];
+> - “**competent authority**” means the Executive and the Secretary of State acting jointly;
+> - “**the Executive**” means—
+>   - (a) in relation to Great Britain, the Health and Safety Executive;
+>   - (b) in relation to Northern Ireland, the Health and Safety Executive for Northern Ireland;
+> - “**major accident**”, “**major environmental incident**” and “**operator**” have the same meanings as in SCR.
+
+.
+
+(4) In Article 2 (reporting reference and remittance dates), in paragraph 2, for “Article 24 of Directive 2013/30/EU” substitute “ Annex AI ”.
+
+(5) In Article 3 (details of information to be shared), for “point 2 of Annex IX of Directive 2013/30/EU” substitute “ point 1 of Annex AI ”.
+
+(6) Omit Article 4.
+
+(7) In the text following Article 4, omit “This Regulation shall be binding its entirety and directly applicable in all Member States.”
+
+(8) Before Annex I insert—
+
+> **ANNEX AI — Sharing of information and transparency**
+>
+> **1.**
+>
+> The information to be shared by the competent authority and operators and owners shall include information relating to—
+>
+> - (a) unintended release of oil, gas or other hazardous substances, whether or not ignited;
+> - (b) loss of well control requiring actuation of well control equipment, or failure of a well barrier requiring its replacement or repair;
+> - (c) failure of a safety and environmental critical element;
+> - (d) significant loss of structural integrity, or loss of protection against the effects of fire or explosion, or loss of station keeping in relation to a mobile installation;
+> - (e) vessels on collision course and actual vessel collisions with an offshore installation;
+> - (f) helicopter accidents, on or near offshore installations;
+> - (g) any fatal accident;
+> - (h) any serious injuries to 5 or more persons in the same accident;
+> - (i) any evacuation of personnel;
+> - (j) a major environmental incident.
+>
+> **2.**
+>
+> The annual report prepared by the competent authority shall contain as a minimum the following information—
+>
+> - (a) the number, age and location of installations;
+> - (b) the number and type of inspections and investigations carried out, any enforcement actions or convictions;
+> - (c) incident data pursuant to the common reporting system required in this Regulation;
+> - (d) the performance of offshore oil and gas operations in relation to prevention of major accidents and the limiting of consequences of major accidents that do occur.
+>
+> **3.**
+>
+> The information referred to in point 1 shall consist of both factual information and analytical data regarding oil and gas operations, and shall be unambiguous. The information and data provided shall be such that the performance of individual operators and owners in the United Kingdom can be compared within the United Kingdom and the performance of the industry as a whole can be compared between the United Kingdom on the one hand and Member States of the European Union on the other.
+>
+> **4.**
+>
+> The information collected and assembled referred to in point 1 shall enable the competent authority to provide advanced warning of potential deterioration of safety and environmentally critical barriers, and shall enable the competent authority to take preventive action. The information shall also demonstrate the overall effectiveness of measures and controls implemented by individual operators and owners, and industry as a whole, in particular to prevent major accidents and to minimise risks for the environment.
+
+.
+
+(9) In Annex I (Common data reporting format for incidents and major accidents in the offshore oil and gas industry) —
+
+- (a) immediately after the heading of the Annex omit—
+  - (i) “(As required by Article 23 of Directive 2013/30/EU)”;
+  - (ii) the heading “General remarks on the details of information to be shared”; and
+  - (iii) paragraphs (a) to (c) immediately following;
+- (b) in the option headed “Event categorisation”—
+  - (i) for the heading substitute “ Event categorisation according to Annex AI ”;
+  - (ii) in the option headed “What type of event is being reported?”—
+    - (aa) in both options G and H, for “Directive [92/91/EEC](https://www.legislation.gov.uk/european/directive/1992/0091)” substitute “ RIDDOR ”;
+    - (bb) in option J, for “Article 2.1.d and Article 2.37 of Directive 2013/30/EU” substitute “ SCR ”;
+- (c) in the part headed “Remarks” —
+  - (i) in the first paragraph, for the words from “the Member State” to the end of that paragraph substitute “ the competent authority shall initiate a thorough investigation ”;
+  - (ii) in the second paragraph, for “Directive [92/91/EEC](https://www.legislation.gov.uk/european/directive/1992/0091)” substitute “ RIDDOR ”;
+  - (iii) omit the third paragraph;
+  - (iv) in the fourth paragraph, for “Member States'” substitute “ the ”.
+
+(10) In section F, for “If a helicopter accident occurs in relation to Directive 2013/30/EU,” substitute “ If there is a collision or potential collision between a helicopter and an offshore installation, ”.
+
+(11) For “Sections G and H shall be reported under the requirements of Directive [92/91/EEC](https://www.legislation.gov.uk/european/directive/1992/0091)” substitute “ Sections G and H shall be reported under the requirements of RIDDOR ”.
+
+(12) In Annex II (Common publication format)—
+
+- (a) immediately after the heading to the Annex omit “(As required by Article 24 of Directive 2013/30/EU)”;
+- (b) for Section 1 Profile substitute—
+
+  > [image: see source](https://www.legislation.gov.uk/uksi/2018/1370/images/uksi_20181370_en_sld_001)
+
+  ;
+- (c) in Section 3 (regulatory functions and framework), for section 3.2 substitute—
+
+  > [image: see source](https://www.legislation.gov.uk/uksi/2018/1370/images/uksi_20181370_en_sld_002)
+
+  ;
+- (d) in section 3.3, omit “pursuant to Article 18 of Directive 2013/30/EU”;
+- (e) in sections 4.1 and 4.2, for “Annex IX”, in each place where it occurs, substitute “ Annex AI ”;
+- (f) in section 4.3, for “92/91/EEC” substitute “ RIDDOR ”.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Sarah Newton
+
+Minister of State for Disabled People, Health and Work
+
+Department for Work and Pensions
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 (c.16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union. They relate to the categories of deficiencies in retained EU law specified in section 8(2)(b), (d) and (g) of that Act.
+
+Part 2 amends subordinate legislation and Part 3 amends retained direct EU legislation in relation to the field of health and safety.
+
+An impact assessment has not been produced for this instrument as it has no or minimal impact on business, charities or voluntary bodies. A copy of the Explanatory Memorandum is published alongside the Order on www.legislation.gov.uk
+
+## Annotations
+
+[^c23495351]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23502401]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23502411]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495361]: Marginal citation: [S.I.1995/738](https://www.legislation.gov.uk/uksi/1995/738); relevant amending instrument is [S.I. 2015/398](https://www.legislation.gov.uk/uksi/2015/398).
+
+[^key-ea30f583975a8ab7c63a1b01a7f5288e]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Health and Safety (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/660)](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/660/regulation/3)
+
+[^c23502421]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495371]: Marginal citation: [S.I.1995/743](https://www.legislation.gov.uk/uksi/1995/743); relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and 2015/398.
+
+[^key-194dad86adeee2b2cfbe087a012a7a74]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020 immediately before IP completion day) by [The Health and Safety (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/660)](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/660/regulation/4)
+
+[^c23502431]: Commencement: Reg. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495381]: Marginal citation: [S.I.1995/2038](https://www.legislation.gov.uk/uksi/1995/2038); relevant amending instrument is [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^key-a3462e50b9bf3af9e02649ef6132c83c]: Textual amendment: Words in reg. 4(2) substituted (31.12.2020 immediately before IP completion day) by [The Health and Safety (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/660)](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/660/regulation/5)
+
+[^c23502441]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1370/regulation/5) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495391]: Marginal citation: [S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341); relevant amending instrument [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21).
+
+[^c23495401]: Marginal citation: [S.I. 1992/3004](https://www.legislation.gov.uk/uksi/1992/3004).
+
+[^c23502451]: Commencement: Reg. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495411]: Marginal citation: [S.I. 1996/913](https://www.legislation.gov.uk/uksi/1996/913); relevant amending instrument is [S.I. 2015/398](https://www.legislation.gov.uk/uksi/2015/398).
+
+[^key-243d2485b8e970fc6a2186aa203a2c47]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/6/2) substituted (31.12.2020 immediately before IP completion day) by [The Health and Safety (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/660)](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2020/660/regulation/6)
+
+[^c23502461]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1370/regulation/7) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495421]: Marginal citation: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677); relevant amending instruments are [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21) and 2018/390.
+
+[^c23502471]: Commencement: Reg. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495431]: Marginal citation: [S.I. 2010/1140](https://www.legislation.gov.uk/uksi/2010/1140): there are amending instruments but none are relevant.
+
+[^key-700f5edb8f5474fd603d7323a2e7b710]: Textual amendment: Words in reg. 8(2) substituted (31.12.2020 immediately before IP completion day) by [The Health and Safety (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/660)](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/7/1)
+
+[^key-6a71105800f5ef2c138400559faae189]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Health and Safety (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/660)](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2020/660/regulation/7/2)
+
+[^c23502481]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/1370/regulation/9) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^c23495441]: Marginal citation: [S.I. 2014/1663](https://www.legislation.gov.uk/uksi/2014/1663).
+
+[^c23502491]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/1370/regulation/10) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495451]: Marginal citation: [S.I. 2015/398](https://www.legislation.gov.uk/uksi/2015/398).
+
+[^c23502501]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/1370/regulation/11) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495461]: Marginal citation: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483).
+
+[^c23502511]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/1370/regulation/12) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495471]: Marginal citation: [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075).
+
+[^c23502521]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/1370/regulation/13) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23495481]: Marginal citation: [S.I. 2013/1471](https://www.legislation.gov.uk/uksi/2013/1471).
+
+[^c23495491]: Marginal citation: [S.R. 1997/455](https://www.legislation.gov.uk/nisr/1997/455).
+
+[^c23495501]: Marginal citation: [S.R. 2016/406](https://www.legislation.gov.uk/nisr/2016/406).

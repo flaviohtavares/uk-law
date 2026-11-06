@@ -1,0 +1,219 @@
+---
+title: The Income Support (General) Amendment No.6 Regulations 1991
+id: uksi/1991/2334
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1991-10-21'
+text_date: '2014-01-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/2334
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/2334/pdfs/uksi_19912334_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1991/2334/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Support (General) Amendment No.6 Regulations 1991
+
+> Text as at 2014-01-01.
+
+1991 No. 2334
+
+SOCIAL SECURITY
+
+The Income Support (General) Amendment No.6 Regulations 1991
+
+Made
+
+21st October 1991
+
+Laid before Parliament
+
+21st October 1991
+
+Coming into force
+
+11th November 1991
+
+[^M_F_b5da6f84-b604-47c4-f2f8-09558ff30b2a][^M_F_40fbbe4f-501c-4a9f-d0f7-796314873215]The Secretary of State for Social Security in exercise of the powers conferred by sections 22(1) and 84(1) of the Social Security Act 1986[^c1850307] and section 166(1) to (3A) of the Social Security Act 1975[^c1850308] and of all other powers enabling him in that behalf, and after reference to the Social Security Advisory Committee[^c1850309], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Income Support (General) Amendment No. 6 Regulations 1991 and shall, subject to paragraph (2) below, come into force on 11th November 1991.
+
+(2) These Regulations shall not apply in relation to a particular claimant until the beginning of the first benefit week to commence for that claimant on or after 11th November 1991.
+
+(3) In these Regulations, unless the context otherwise requires, expressions used in these Regulations and in the General Regulations shall have the same meaning in these Regulations as they have in the General Regulations; and
+
+“qualifying conditions” has the meaning given in regulation 4(7);
+
+“relevant amendment” means the amendment of regulation 3 of the General Regulations made by regulation 2 of these Regulations;
+
+“the General Regulations” means the Income Support (General) Regulations 1987 [^c1850310].
+
+(4) In regulations 4 to 6 of these Regulations, unless the context otherwise requires, a reference—
+
+- (a) to a numbered regulation is to the regulation in these Regulations bearing that number;
+- (b) in a regulation to a numbered paragraph is to the paragraph in that regulation bearing that number;
+- (c) in a paragraph to a lettered or numbered sub-paragraph is to the sub-paragraph in that paragraph bearing that letter or number.
+
+## 2. Amendment of regulation 3 of the General Regulations
+
+In regulation 3 of the General Regulations (definition of non-dependant)—
+
+- (a) in paragraph (1), for the words “to whom paragraph (2) applies” there shall be substituted the words “ to whom paragraph (2), (2A) or (2B) applies ”;
+- (b) for paragraph (2) there shall be substituted the following paragraphs—
+
+  > (2) This paragraph applies to—
+  >
+  > - (a) any member of the claimant’s family;
+  > - (b) a child or young person who is living with the claimant but who is not a member of his household by virtue of regulation 16 (circumstances in which a person is to be treated as being or not being a member of the household);
+  > - (c) a person who lives with the claimant in order to care for him or for the claimant’s partner and who is engaged for that purpose by a charitable or voluntary body (other than a public or local authority) which makes a charge to the claimant or the claimant’s partner for the care provided by that person;
+  > - (d) the partner of a person to whom sub-paragraph (c) applies.
+  >
+  > (2A) This paragraph applies to a person, other than a close relative of the claimant or the claimant’s partner,—
+  >
+  > - (a) who is liable to make payments on a commercial basis to the claimant or the claimant’s partner in respect of his occupation of the claimant’s dwelling;
+  > - (b) to whom the claimant or the claimant’s partner is liable to make payments on a commercial basis in respect of his occupation of that person’s dwelling;
+  > - (c) who is a member of the household of a person to whom sub-paragraph (a) or (b) applies.
+  >
+  > (2B) Subject to paragraph (2C), this paragraph applies to—
+  >
+  > - (a) a person who jointly occupies the claimant’s dwelling and who is either—
+  >   - (i) a co-owner of that dwelling with the claimant or the claimant’s partner (whether or not there are other co-owners); or
+  >   - (ii) jointly liable with the claimant or the claimant’s partner to make payments to a landlord in respect of his occupation of that dwelling;
+  > - (b) a partner of a person to whom sub-paragraph (a) applies.
+  >
+  > (2C) Where a person is a close relative of the claimant or the claimant’s partner, paragraph (2B) shall apply to him only if the claimant’s, or the claimant’s partner’s, co-ownership, or joint liability to make payments to a landlord in respect of his occupation, of the dwelling arose either before 11th April 1988, or, if later, on or before the date upon which the claimant or the claimant’s partner first occupied the dwelling in question.
+
+  .
+
+## 3. Amendment of Schedule 3 to the General Regulations[^M_F_ce370d31-3416-4d09-e75c-1ad64ca71cc3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Saving Provision in relation to Severe Disability Premium
+
+(1) The provisions of this regulation are subject to regulation 5.
+
+(2) Where paragraph (3), (4), (5) or (6) applies to a claimant, sub-paragraph (2)(a)(ii), or, as the case may be, sub-paragraph (2)(b)(iii) of paragraph 13 of Schedule 2 to the General Regulations shall have effect in relation to him as if the relevant amendment had not been made.
+
+(3) This paragraph applies to a claimant who satisfied both the qualifying conditions in the week immediately preceding 21st October 1991.
+
+(4) This paragraph applies to a claimant—
+
+- (a) who satisfied both the qualifying conditions in at least one of the eight weeks immediately preceding 21st October 1991, but did not satisfy either or both of those conditions in the week immediately preceding that date; and
+- (b) who in a week commencing not more than eight weeks after the date on which he last satisfied both the qualifying conditions, would again have satisfied both those conditions if the relevant amendment had not been made.
+
+(5) This paragraph applies to a claimant—
+
+- (a) who ceased to be entitled to income support because he became engaged in remunerative work for a period not exceeding the permitted period determined in accordance with regulation 6 and that period had commenced but had not ended before 21st October 1991; and
+- (b) who satisfied both the qualifying conditions in the week ending on the day before the first day of that period commenced; and
+- (c) who in the week which commences on the day immediately following the day on which that period ends, would again have satisfied both the qualifying conditions if the relevant amendment had not been made.
+
+(6) This paragraph applies to a claimant—
+
+- (a) who satisfied both the qualifying conditions immediately before he—
+  - (i) participated in arrangements for training made under section 2 of the Employment and Training Act 1973 [^c1850311] or section 2 of the Enterprise and New Towns (Scotland) Act 1990 [^c1850312]; or
+  - (ii) attended a course at an employment rehabilitation centre established under section 2 of the Employment and Training Act 1973,
+
+  and he had begun the training or joined the course before 21st October 1991 and was still continuing with the training or course at that date; and
+- (b) who in the week which commences on the day immediately following the last day he attended the training or course, would again have satisfied both the qualifying conditions if the relevant amendment had not been made.
+
+(7) The “qualifying conditions” means the two qualifying conditions set out in paragraph (8)(a) and (b) below.
+
+(8) For the purposes of paragraph (7)—
+
+- (a) the first qualifying condition is that the claimant—
+  - (i) has made a claim for income support which has not been determined, but had it been determined and an award made, his applicable amount would have included severe disability premium; or
+  - (ii) has a current award of income support and the applicable amount appropriate to that award includes severe disability premium; or
+  - (iii) has a current award of income support and has before 21st October 1991 made an application in writing in accordance with section 104(2) of the Social Security Act requesting a review of that award, where the ground, or one of the grounds for review, is that—
+- (aa) he has become a co-owner with a close relative of the dwelling which he and that close relative jointly occupy as their home; or
+- (bb) he has become jointly liable with a close relative to make payments to a landlord in respect of the dwelling which he and that close relative jointly occupy as their home,
+
+whether or not there are other co-owners or other persons jointly liable to make such payments and, if revised, the applicable amount appropriate to the award includes severe disability premium in respect of a period prior to that date;
+
+- (b) the second qualifying condition is that the person is—
+  - (i) a co-owner, with a close relative, of the dwelling he and that close relative jointly occupy as their home, whether or not there are other co-owners; or
+  - (ii) jointly liable, with a close relative, to make payments to a landlord in respect of the dwelling he and that close relative jointly occupy as their home, whether or not there are other persons jointly liable to make such payments.
+
+(9)[^M_F_819b15ad-d259-42eb-ff1b-253e72bfee39] For the purposes of paragraph (8)(b) and regulation 5(2)(b), where a person has satisfied the second qualifying condition, but his circumstances change so that he no longer satisfies it, he shall nonetheless be treated as satisfying it for so long as he is a person to whom paragraph (10) applies.
+
+(10) This paragraph applies to a person–
+
+- (a) who was, together with a close relative of his, either a co-owner of, or jointly liable to make payments to a landlord in respect of, the dwelling which he and that close relative jointly occupied as their home; and
+- (b) who has since become, with that close relative or any other close relative, either–
+  - (i) jointly liable to make payments to a landlord in respect of that dwelling or any other dwelling; or
+  - (ii) a co-owner of that dwelling or any other dwelling, which he and the close relative jointly occupy as their home (whether or not there are other co-owners, or other persons jointly liable to make such payments).
+
+## 5. Circumstances in which regulation 4 ceases to apply
+
+(1) Regulation 4 shall cease to apply to a claimant, or his partner, on the relevant day and shall not apply on any day thereafter.
+
+(2) The relevant day is the first day after a period of eight consecutive weeks throughout which—
+
+- (a) subject to paragraph (3), he is not entitled to income support; or
+- (b) he is unable to satisfy, or to be treated as satisfying, the second qualifying condition.
+
+(3) For the purpose of calculating a period in excess of eight weeks in paragraph (2)(a) above the following periods shall be disregarded—
+
+- (a) where the claimant, or his partner, becomes engaged in remunerative work, any period during which he, or his partner, was not entitled to income support, not exceeding the permitted period determined in accordance with regulation 6;
+- (b) any period during which the claimant, or his partner, was participating in arrangements for training made under section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990 or attending a course at an employment rehabilitation centre established under section 2 of the Employment and Training Act 1973.
+
+## 6. Definition of “permitted period” for the purposes of regulations 4 and 5
+
+(1) For the purposes of regulations 4(5) and 5(3)(a), where a claimant has ceased to be entitled to income support because he or his partner became engaged in remunerative work, [^M_F_e79c26c0-400a-464b-d662-b59a236c8ce0]... the permitted period shall be a period of 12 consecutive weeks.
+
+(2)[^M_F_a611b74e-b2bd-41a5-f155-f6da20149864] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^M_F_3ad0823e-ab7a-4096-ff58-13377a5194a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Social Security.
+
+Nicholas Scott
+
+Minister of State,
+
+Department of Social Security
+
+21st October 1991
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Income Support (General) Regulations 1987.
+
+They enlarge the definition of “non-dependant” for the purposes of Severe Disability Premium, subject to certain exceptions and savings.
+
+The report of the Social Security Advisory Committee dated 4th September 1991 on the proposals to make these Regulations together with the statement showing the extent to which these Regulations give effect to them, and in so far as they do not give effect to them, the reasons why not, are contained in Command Paper No. 1694, published by Her Majesty’s Stationery Office.
+
+## Annotations
+
+[^M_F_b5da6f84-b604-47c4-f2f8-09558ff30b2a]: Modification: Modifications apply (2.4.1999) where a person is/was participating in New Deal 25+. [See The New Deal (25 plus) (Miscellaneous Provisions) Order 1999 (S.I. 1999/779)](https://www.legislation.gov.uk/uksi/1999/779) [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/779/article/1), [2](https://www.legislation.gov.uk/uksi/1999/779/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/779/schedule)
+
+[^M_F_40fbbe4f-501c-4a9f-d0f7-796314873215]: Modification: Modifications apply (3.7.1998). The words "training for work" are to be replaced in some circumstances with "work based training for adults" See [S.I. 1998/1426](https://www.legislation.gov.uk/uksi/1998/1426)
+
+[^c1850307]: Marginal citation: [1986 c.50](https://www.legislation.gov.uk/ukpga/1986/50); section 84(1) is an interpretation provision and is cited because of the meaning assigned to the words “prescribed” and “regulations”.
+
+[^c1850308]: Marginal citation: [1975 c.14](https://www.legislation.gov.uk/ukpga/1975/14); section 166(3) was amended by the [Social Security Act 1989 (c.24)](https://www.legislation.gov.uk/ukpga/1989/24) Schedule 8, paragraph 10(1); section 166(3A) was inserted by section 62(1) of the Social Security Act 1986 and section 166(1) to (3A) is applied to the powers conferred by the Social Security Act 1986 by section 83(1) of that Act.
+
+[^c1850309]: Marginal citation: See section 10 of the [Social Security Act 1980 (c.30)](https://www.legislation.gov.uk/ukpga/1980/30).
+
+[^c1850310]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1989/1678](https://www.legislation.gov.uk/uksi/1989/1678) and 1990/1776; the expression “benefit week” was amended by [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445).
+
+[^M_F_ce370d31-3416-4d09-e75c-1ad64ca71cc3]: Textual amendment: Reg. 3 revoked (2.10.95) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613/contents), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1)[(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1), [5](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS)
+
+[^c1850311]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by the [Employment Act 1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19), [section 25](https://www.legislation.gov.uk/ukpga/1988/19/section/25).
+
+[^c1850312]: Marginal citation: [1990 c.35](https://www.legislation.gov.uk/ukpga/1990/35).
+
+[^M_F_819b15ad-d259-42eb-ff1b-253e72bfee39]: Textual amendment: Reg. 4(9)(10) substituted for reg. 4(9) (27.12.91) by [The Income-related Benefits Schemes (Miscellaneous Provisions) Amendment Regulations 1991 (S.I. 1991/2695)](https://www.legislation.gov.uk/uksi/1991/2695/contents), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1991/2695/regulation/1), [5](https://www.legislation.gov.uk/uksi/1991/2695/regulation/5)
+
+[^M_F_e79c26c0-400a-464b-d662-b59a236c8ce0]: Textual amendment: Words in reg. 6(1) omitted (7.10.96) by virtue of [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206/contents), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/2), [31(a)](https://www.legislation.gov.uk/uksi/1996/206/regulation/31/a)
+
+[^M_F_a611b74e-b2bd-41a5-f155-f6da20149864]: Textual amendment: Reg. 6(2) omitted (7.10.96) by virtue of [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206/contents), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/1996/206/regulation/31/b)
+
+[^M_F_3ad0823e-ab7a-4096-ff58-13377a5194a2]: Textual amendment: Reg. 6(3) omitted (7.10.96) by virtue of [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206/contents), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/1996/206/regulation/31/b)

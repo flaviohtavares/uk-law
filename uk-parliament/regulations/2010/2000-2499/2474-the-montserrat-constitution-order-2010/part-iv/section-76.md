@@ -1,0 +1,27 @@
+---
+title: The Montserrat Constitution Order 2010, section 76
+act: The Montserrat Constitution Order 2010
+section: '76'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/2474/section/76
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Montserrat Constitution Order 2010, section 76
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 76. Disallowance of laws
+
+(1) Any law assented to by the Governor may be disallowed by Her Majesty through a Secretary of State; but no law shall be disallowed until the expiration of a period notified by a Secretary of State to the Governor, who shall advise the Speaker of that period, in order to give the Legislative Assembly an opportunity to reconsider the law in question.
+
+(2) Whenever any law has been disallowed by Her Majesty the Governor shall, as soon as practicable, cause notice of such disallowance to be published in the *Gazette* and the law shall be annulled with effect from the date of publication of that notice.
+
+(3) Section 16(1) of the Interpretation Act 1978[^f00002] shall apply to the annulment of any law under this section as it applies to the repeal of an Act of Parliament, save that any enactment repealed or amended in pursuance of that law shall have effect as from the date of the annulment as if that law had not been made.
+
+## Annotations
+
+[^f00002]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

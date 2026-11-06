@@ -1,0 +1,605 @@
+---
+title: Northern Ireland (Monitoring Commission etc.) Act 2003
+id: ukpga/2003/25
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2003-09-18'
+text_date: '2011-03-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/25
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2003/25/pdfs/ukpgaen_20030025_en.pdf
+- http://www.legislation.gov.uk/ukpga/2003/25/pdfs/ukpga_20030025_en.pdf
+- http://www.legislation.gov.uk/ukpga/2003/25/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Northern Ireland (Monitoring Commission etc.) Act 2003
+
+> Text as at 2011-03-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Northern Ireland (Monitoring Commission etc.) Act 2003
+
+2003 c. 25
+
+An Act to make provision in connection with the establishment under international law of an independent commission with monitoring functions in relation to Northern Ireland; to make further provision about exclusion from Ministerial office in Northern Ireland; to make provision about reduction of remuneration of members of the Northern Ireland Assembly; to make provision about reduction of financial assistance under the Financial Assistance for Political Parties Act (Northern Ireland) 2000; to make provision about censure resolutions of the Northern Ireland Assembly; and for connected purposes.
+
+\[18th September 2003\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Monitoring Commission
+
+### 1. The Monitoring Commission
+
+(1)[^key-e6373d121f54d739324aad084cfc5044] In this Act, “ *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044] **the Monitoring Commission *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]** ” means an independent organisation established, by an agreement made in connection with the affairs of Northern Ireland between Her Majesty’s Government in the United Kingdom and the Government of Ireland, to carry out functions which include— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+- (a) monitoring activity by paramilitary groups, *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (b) monitoring security normalisation, and *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (c) reporting on claims relating to commitment to the observing of terms of the pledge of office set out in Schedule 4 to the Northern Ireland Act 1998 (c. 47). *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+(2) The Secretary of State may by order— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+- (a) confer on the Monitoring Commission the legal capacities of a body corporate; *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (b) confer on the Monitoring Commission, in such cases, to such extent and with such modifications as the order may specify, any of the privileges and immunities set out in Part 1 of Schedule 1 to the International Organisations Act 1968 (c. 48); *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (c) confer on members and servants of the Monitoring Commission and members of their families who form part of their households, in such cases, to such extent and with such modifications as the order may specify, any of the privileges and immunities set out in Parts 2, 3 and 5 of that Schedule; *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (d) make provision about the waiver of privileges and immunities. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+(3) The reference in subsection (2)(c) to servants of the Monitoring Commission includes agents of, and persons carrying out work for or giving advice to, the Monitoring Commission. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+(4) An order under subsection (2)— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+- (a) may make different provision for different cases (including different provision for different persons), and *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+(5) The Secretary of State— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+- (a) may make payments to the Monitoring Commission or to members of the Monitoring Commission, and *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (b) may provide for the Monitoring Commission such premises and facilities, and the services of such staff, as he thinks appropriate. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+### 2. Commission’s duty to avoid prejudicial effects
+
+(1) The Monitoring Commission shall not do anything in carrying out its functions which might— *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+- (a) prejudice the national security interests of the United Kingdom or Ireland, *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (b) put at risk the safety or life of any person, or *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+- (c) have a prejudicial effect on any present or future legal proceedings. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+(2) The duty under subsection (1) is owed to Her Majesty’s Government in the United Kingdom. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+### 3. Laying of Commission reports before Parliament
+
+Where a report of the Monitoring Commission, or a report made by members of the Commission under the agreement establishing the Commission, is delivered by the Commission, or by members of the Commission, to Her Majesty’s Government in the United Kingdom, the Secretary of State shall lay a copy of the report before each House of Parliament. *(affected by repeal, see note)*[^key-e6373d121f54d739324aad084cfc5044]
+
+## Exclusion from Ministerial office
+
+### 4. Resolutions about exclusion
+
+(1) Section 30 of the Northern Ireland Act 1998 (c. 47) (exclusion of Ministers from office) is amended as follows.
+
+(2) In subsection (1) (exclusion of individual Minister), for “a period of twelve months beginning with the date of the resolution” there is substituted “ such period of not less than three months, and not more than twelve months, beginning with the date of the resolution as the resolution may provide ”.
+
+(3) After that subsection there is inserted—
+
+> (1A) The Assembly may, before a period of exclusion under subsection (1) comes to an end, by resolution extend it until the end of such period of not less than three months, and not more than twelve months, beginning with the date of the resolution as the resolution may provide.
+
+(4) In subsection (2) (exclusion of members of party from holding office as Ministers or junior Ministers), for “a period of twelve months beginning with the date of the resolution” there is substituted “ such period of not less than six months, and not more than twelve months, beginning with the date of the resolution as the resolution may provide ”.
+
+(5) For subsection (3) there is substituted—
+
+> (3) The Assembly may, before a period of exclusion under subsection (2) comes to an end, by resolution extend it until the end of such period of not less than six months, and not more than twelve months, beginning with the date of the resolution as the resolution may provide.
+
+(6) In subsection (4) (ending exclusion), after “A period of exclusion” there is inserted “ under subsection (1) or (2) ”.
+
+(7) For subsections (6) and (7) there is substituted—
+
+> (6) If the Secretary of State is of the opinion that the Assembly ought to consider a resolution under this section, he shall serve a notice on the Presiding Officer requiring him to move a motion for such a resolution.
+>
+> (7) In forming an opinion under subsection (6), the Secretary of State shall in particular take into account—
+>
+> - (a) whether the person or party concerned is committed to the use now and in the future of only democratic and peaceful means to achieve his or its objectives;
+> - (b) whether he or it has ceased to be involved in any acts of violence or of preparation for violence;
+> - (c) whether he or it is directing or promoting acts of violence by other persons;
+> - (d) whether he or it is co-operating fully with any Commission of the kind referred to in section 7 of the Northern Ireland Arms Decommissioning Act 1997 in implementing the Decommissioning section of the Belfast Agreement; and
+> - (e) any recommendation about steps the Assembly might consider taking which is contained in a report—
+>   - (i) made by the Commission mentioned in section 1 of the Northern Ireland (Monitoring Commission etc.) Act 2003, or
+>   - (ii) made under the agreement establishing that Commission by members of that Commission.
+
+(8) At the end there is inserted—
+
+> (9) In this section a reference to a period of exclusion under any provision is, in the case of a period of exclusion under that provision which has been extended, a reference to that period as extended.
+
+### 5. Secretary of State’s powers in relation to exclusion
+
+(1) After section 30 of the Northern Ireland Act 1998 (c. 47) there is inserted—
+
+> **30A. Secretary of State’s powers in relation to exclusion**
+>
+> (1) This section applies if—
+>
+> - (a) the Monitoring Commission has, or members of that Commission have under the agreement establishing it, made a report containing a recommendation about steps the Assembly might consider taking;
+> - (b) the taking of those steps by the Assembly requires the passing by it of a resolution under section 30(1), (1A), (2) or (3) in relation to a Minister, junior Minister or political party; and
+> - (c) the first motion for a resolution under that provision in relation to the Minister, junior Minister or political party concerned that is put to the vote after the making of the report does not attract cross-community support.
+>
+> (2) Where this section applies because of the failure of a motion for a resolution under section 30(1), the Secretary of State may by direction exclude the Minister or junior Minister concerned from holding office as a Minister or junior Minister for such period of not less than three months, and not more than twelve months, beginning with the date of the direction as the direction may provide (subject to subsection (4)).
+>
+> (3) Where this section applies because of the failure of a motion for a resolution under section 30(1A), the Secretary of State may, before the period of exclusion to which the motion related comes to an end, by direction extend it until the end of such period of not less than three months, and not more than twelve months, beginning with the date of the direction as the direction may provide (subject to subsection (4)).
+>
+> (4) The Secretary of State may exercise the power under subsection (2) or (3) only if he is satisfied that the Minister or junior Minister concerned—
+>
+> - (a) is not committed to non-violence and exclusively peaceful and democratic means; or
+> - (b) has failed to observe any other terms of the pledge of office.
+>
+> (5) Where this section applies because of the failure of a motion for a resolution under section 30(2), the Secretary of State may by direction exclude members of the political party concerned from holding office as Ministers or junior Ministers for such period of not less than six months, and not more than twelve months, beginning with the date of the direction as the direction may provide (subject to subsection (7)).
+>
+> (6) Where this section applies because of the failure of a motion for a resolution under section 30(3), the Secretary of State may, before the period of exclusion to which the motion related comes to an end, by direction extend it until the end of such period of not less than six months, and not more than twelve months, beginning with the date of the direction as the direction may provide (subject to subsection (7)).
+>
+> (7) The Secretary of State may exercise the power under subsection (5) or (6) only if he is satisfied that the political party concerned—
+>
+> - (a) is not committed to non-violence and exclusively peaceful and democratic means; or
+> - (b) is not committed to such of its members as are or might become Ministers or junior Ministers observing the other terms of the pledge of office.
+>
+> (8) A period of exclusion under subsection (2) or (5) shall come to an end if—
+>
+> - (a) the Secretary of State by direction so provides; or
+> - (b) the Assembly is dissolved.
+>
+> (9) In subsection (1)(a) “**the Monitoring Commission**” means the Commission mentioned in section 1 of the Northern Ireland (Monitoring Commission etc.) Act 2003.
+>
+> (10) In this section a reference to a period of exclusion under any provision is, in the case of a period of exclusion under that provision which has been extended, a reference to that period as extended.
+
+(2) In section 18 of that Act (which provides for the filling of Ministerial offices), in subsection (1) (occasions when offices are to be filled in accordance with the section), for paragraph (d) there is substituted—
+
+> - (d) a direction which causes one or more Ministerial offices to become vacant is given under section 30A(5);
+> - (da) a period of exclusion under section 30(2) or 30A(5) comes to an end; or.
+
+(3) In subsection (12)(b) of that section (application of section where party excluded under section 30(2)), after “party’s period of exclusion” there is inserted “ under that provision ”.
+
+(4) In that section, after subsection (12) there is inserted—
+
+> (12A) Where—
+>
+> - (a) the Secretary of State has given a direction under section 30A(5) in respect of a political party; and
+> - (b) the party’s period of exclusion under that provision has not come to an end,
+>
+> the party shall be disregarded for the purposes of any application of subsections (2) to (6).
+
+(5) At the end of that section there is inserted—
+
+> (14) In this section, a reference to a period of exclusion under any provision is, in the case of a period of exclusion under that provision which has been extended, a reference to that period as extended.
+
+(6) In section 30 of that Act (exclusion of Ministers from office by resolution of the Assembly)—
+
+- (a) in subsection (1A) (power to extend period of exclusion under subsection (1)), after “subsection (1)” there is inserted “ or section 30A(2) ”, and
+- (b) in subsection (3) (power to extend period of exclusion under subsection (2)), after “subsection (2)” there is inserted “ or section 30A(5) ”.
+
+### 6. Secretary of State’s powers in exceptional circumstances
+
+After section 30A of the Northern Ireland Act 1998 (c. 47) there is inserted—
+
+> **30B. Secretary of State’s powers in exceptional circumstances**
+>
+> (1) Notwithstanding the provisions of section 30A, under exceptional circumstances the Secretary of State may by direction temporarily exclude a Minister or junior Minister.
+>
+> (2) An exclusion under subsection (1) shall only remain in effect until either—
+>
+> - (a) a report from the Commission has been made; or
+> - (b) the Assembly has considered a resolution under section 30(1) or (2); or
+> - (c) a period of two weeks has elapsed.
+>
+> (3) In subsection (1) “exceptional circumstances” include where—
+>
+> - (a) there is insufficient time for the Commission to make a report; and
+> - (b) there is insufficient time for the Assembly to consider a resolution under section 30(1) or (2).
+>
+> (4) A direction made under this section shall be in writing and shall be laid before Parliament after the direction is given.
+
+## Other provisions
+
+### 7. Reduction of remuneration
+
+(1) After section 47 of the Northern Ireland Act 1998 there is inserted—
+
+> **47A. Resolutions about reduction of remuneration**
+>
+> (1) If, in relation to the salary payable under section 47 to a Minister or junior Minister, the Assembly resolves that the whole or a specified part of the salary payable for a specified period shall not be payable—
+>
+> - (a) because he is not committed to non-violence and exclusively peaceful and democratic means, or
+> - (b) because of any failure of his to observe any other terms of the pledge of office,
+>
+> the salary payable to him under that section shall be reduced accordingly.
+>
+> (2) If, in relation to the salaries payable under section 47 to members of the Assembly who are members of a particular political party, the Assembly resolves that the whole or a specified part of the salaries payable for a specified period shall not be payable—
+>
+> - (a) because that party is not committed to non-violence and exclusively peaceful and democratic means, or
+> - (b) because it is not committed to such of its members as are or might become Ministers or junior Ministers observing the other terms of the pledge of office,
+>
+> the salaries payable to them under that section shall be reduced accordingly.
+>
+> (3) The Assembly may, before the end of the period by reference to which a reduction under subsection (1) or (2) falls to be made, by resolution extend that period.
+>
+> (4) The Assembly may, before the end of the period by reference to which provision for non-payability under section 47B(2) or (5) applies, by resolution extend that period.
+>
+> (5) The period by reference to which a reduction under subsection (1) or (2) falls to be made shall come to an end if the Assembly—
+>
+> - (a) is dissolved; or
+> - (b) resolves to bring the reduction to an end.
+>
+> (6) A motion for a resolution under this section shall not be moved unless—
+>
+> - (a) it is supported by at least 30 members of the Assembly;
+> - (b) it is moved by the First Minister and the deputy First Minister acting jointly; or
+> - (c) it is moved by the Presiding Officer in pursuance of a notice under subsection (7).
+>
+> (7) If the Secretary of State is of the opinion that the Assembly ought to consider a resolution under this section, he shall serve a notice on the Presiding Officer requiring him to move a motion for such a resolution.
+>
+> (8) In forming an opinion under subsection (7), the Secretary of State shall in particular take into account the matters listed in section 30(7).
+>
+> (9) A resolution under this section shall not be passed without cross-community support.
+>
+> (10) In this section a reference to—
+>
+> - (a) the period by reference to which a reduction under subsection (1) or (2) falls to be made, or
+> - (b) the period by reference to which provision for non-payability under section 47B(2) or (5) applies,
+>
+> is, where the period has been extended, a reference to the period as extended.
+>
+> **47B. Secretary of State’s powers in relation to reduction of remuneration**
+>
+> (1) This section applies if—
+>
+> - (a) the Monitoring Commission has, or members of that Commission have under the agreement establishing it, made a report containing a recommendation about steps the Assembly might consider taking;
+> - (b) the taking of those steps by the Assembly requires the passing by it of a resolution under section 47A(1), (2), (3) or (4) in relation to a Minister, junior Minister or political party; and
+> - (c) the first motion for a resolution under that provision in relation to the Minister, junior Minister or political party concerned that is put to the vote after the making of the report does not attract cross-community support.
+>
+> (2) Where this section applies because of the failure of a motion for a resolution under section 47A(1), the Secretary of State may, in relation to the salary payable under section 47 to the Minister or junior Minister concerned, by direction provide that the whole or a specified part of the salary payable for a specified period shall not be payable (subject to subsection (4)).
+>
+> (3) Where this section applies because of—
+>
+> - (a) the failure of a motion for a resolution under section 47A(3) to extend a period by reference to which a reduction under section 47A(1) falls to be made, or
+> - (b) the failure of a motion for a resolution under section 47A(4) to extend a period by reference to which provision for non-payability under subsection (2) applies,
+>
+> the Secretary of State may, before the end of that period, by direction extend that period (subject to subsection (4)).
+>
+> (4) The Secretary of State may exercise the power under subsection (2) or (3) only if he is satisfied that the Minister or junior Minister concerned—
+>
+> - (a) is not committed to non-violence and exclusively peaceful and democratic means; or
+> - (b) has failed to observe any other terms of the pledge of office.
+>
+> (5) Where this section applies because of the failure of a motion for a resolution under section 47A(2), the Secretary of State may, in relation to the salaries payable under section 47 to members of the Assembly who are members of the political party concerned, by direction provide that the whole or a specified part of the salaries payable for a specified period shall not be payable (subject to subsection (7)).
+>
+> (6) Where this section applies because of—
+>
+> - (a) the failure of a motion for a resolution under section 47A(3) to extend a period by reference to which a reduction under section 47A(2) falls to be made, or
+> - (b) the failure of a motion for a resolution under section 47A(4) to extend a period by reference to which provision for non-payability under subsection (5) applies,
+>
+> the Secretary of State may, before the end of that period, by direction extend that period (subject to subsection (7)).
+>
+> (7) The Secretary of State may exercise the power under subsection (5) or (6) only if he is satisfied that the political party concerned—
+>
+> - (a) is not committed to non-violence and exclusively peaceful and democratic means; or
+> - (b) is not committed to such of its members as are or might become Ministers or junior Ministers observing the other terms of the pledge of office.
+>
+> (8) The period by reference to which provision for non-payability under subsection (2) or (5) applies shall come to an end if—
+>
+> - (a) the Secretary of State by direction so provides; or
+> - (b) the Assembly is dissolved.
+>
+> (9) In subsection (1)(a) “**the Monitoring Commission**” means the Commission mentioned in section 1 of the Northern Ireland (Monitoring Commission etc.) Act 2003.
+>
+> (10) In this section a reference to—
+>
+> - (a) the period by reference to which provision for non-payability under subsection (2) or (5) applies, or
+> - (b) the period by reference to which a reduction under section 47A(1) or (2) falls to be made,
+>
+> is, where the period has been extended, a reference to the period as extended.
+>
+> **47C. Sections 47A and 47B: specified periods and extensions**
+>
+> (1) A period specified under section 47A(1) or (2) or 47B(2) or (5)—
+>
+> - (a) shall begin no earlier than the end of the day when the resolution or direction specifying it is passed or given;
+> - (b) shall begin no later than the end of the period of one month beginning with that day; and
+> - (c) shall not be longer than 12 months.
+>
+> (2) The power under section 47A(3) or (4) or 47B(3) or (6) to extend a period is a power to extend it until the end of such period of not more than 12 months beginning with the date of the resolution, or direction, by which the power is exercised as the resolution or direction may provide.
+
+(2) In section 48 of that Act (pensions of members), after subsection (2) there is inserted—
+
+> (2A) Where any salary payable to a person under section 47 is not payable because of either or both of sections 47A and 47B, any provision made under this section for the payment of pensions which has effect in relation to him shall apply as if the salary were payable.
+
+### 8. Reduction of financial assistance
+
+After section 51 of the Northern Ireland Act 1998 (c. 47) there is inserted—
+
+> **51A. Resolutions about reduction of financial assistance**
+>
+> (1) If the Assembly resolves that the whole or a specified part of any financial assistance payable for a specified period under the Financial Assistance for Political Parties Act (Northern Ireland) 2000 to a particular political party shall not be payable—
+>
+> - (a) because it is not committed to non-violence and exclusively peaceful and democratic means, or
+> - (b) because it is not committed to such of its members as are or might become Ministers or junior Ministers observing the other terms of the pledge of office,
+>
+> the financial assistance payable to it under that Act shall be reduced accordingly.
+>
+> (2) The Assembly may, before the end of the period by reference to which a reduction under subsection (1) falls to be made, by resolution extend that period.
+>
+> (3) The Assembly may, before the end of the period by reference to which provision for non-payability under section 51B(2) applies, by resolution extend that period.
+>
+> (4) The period by reference to which a reduction under subsection (1) falls to be made shall come to an end if the Assembly—
+>
+> - (a) is dissolved; or
+> - (b) resolves to bring the reduction to an end.
+>
+> (5) A motion for a resolution under this section shall not be moved unless—
+>
+> - (a) it is supported by at least 30 members of the Assembly;
+> - (b) it is moved by the First Minister and the deputy First Minister acting jointly; or
+> - (c) it is moved by the Presiding Officer in pursuance of a notice under subsection (6).
+>
+> (6) If the Secretary of State is of the opinion that the Assembly ought to consider a resolution under this section, he shall serve a notice on the Presiding Officer requiring him to move a motion for such a resolution.
+>
+> (7) In forming an opinion under subsection (6), the Secretary of State shall in particular take into account the matters listed in section 30(7).
+>
+> (8) A resolution under this section shall not be passed without cross-community support.
+>
+> (9) In this section a reference to—
+>
+> - (a) the period by reference to which a reduction under subsection (1) falls to be made, or
+> - (b) the period by reference to which provision for non-payability under section 51B(2) applies,
+>
+> is, where the period has been extended, a reference to the period as extended.
+>
+> **51B. Secretary of State’s powers in relation to reduction of financial assistance**
+>
+> (1) This section applies if—
+>
+> - (a) the Monitoring Commission has, or members of that Commission have under the agreement establishing it, made a report containing a recommendation about steps the Assembly might consider taking;
+> - (b) the taking of those steps by the Assembly requires the passing by it of a resolution under section 51A(1), (2) or (3) in relation to a political party; and
+> - (c) the first motion for a resolution under that provision in relation to the political party concerned that is put to the vote after the making of the report does not attract cross-community support.
+>
+> (2) Where this section applies because of the failure of a motion for a resolution under section 51A(1), the Secretary of State may by direction provide that the whole or a specified part of any financial assistance payable for a specified period under the Financial Assistance for Political Parties Act (Northern Ireland) 2000 to the political party concerned shall not be payable (subject to subsection (5)).
+>
+> (3) Where this section applies because of the failure of a motion for a resolution under section 51A(2) to extend the period by reference to which a reduction under section 51A(1) falls to be made, the Secretary of State may, before the end of that period, by direction extend that period (subject to subsection (5)).
+>
+> (4) Where this section applies because of the failure of a motion for a resolution under section 51A(3) to extend the period by reference to which provision for non-payability under subsection (2) applies, the Secretary of State may, before the end of that period, by direction extend that period (subject to subsection (5)).
+>
+> (5) The Secretary of State may exercise the power under subsection (2), (3) or (4) only if he is satisfied that the political party concerned—
+>
+> - (a) is not committed to non-violence and exclusively peaceful and democratic means; or
+> - (b) is not committed to such of its members as are or might become Ministers or junior Ministers observing the other terms of the pledge of office.
+>
+> (6) The period by reference to which provision for non-payability under subsection (2) applies shall come to an end if—
+>
+> - (a) the Secretary of State by direction so provides; or
+> - (b) the Assembly is dissolved.
+>
+> (7) In subsection (1)(a) “**the Monitoring Commission**” means the Commission mentioned in section 1 of the Northern Ireland (Monitoring Commission etc.) Act 2003.
+>
+> (8) In this section a reference to—
+>
+> - (a) the period by reference to which provision for non-payability under subsection (2) applies, or
+> - (b) the period by reference to which a reduction under section 51A(1) falls to be made,
+>
+> is, where the period has been extended, a reference to the period as extended.
+>
+> **51C. Sections 51A and 51B: specified periods and extensions**
+>
+> (1) A period specified under section 51A(1) or 51B(2)—
+>
+> - (a) shall begin no earlier than the end of the day when the resolution or direction specifying it is passed or given;
+> - (b) shall begin no later than the end of the financial year in which that day falls; and
+> - (c) shall not be longer than 12 months.
+>
+> (2) The power under section 51A(2) or (3) or 51B(3) or (4) to extend a period is a power to extend it until the end of such period of not more than 12 months beginning with the date of the resolution, or direction, by which the power is exercised as the resolution or direction may provide.
+
+### 9. Censure resolutions
+
+After section 51C of the Northern Ireland Act 1998 (c. 47) there is inserted—
+
+> **51D. Censure resolutions**
+>
+> (1) This section applies to the following resolutions of the Assembly—
+>
+> - (a) a resolution censuring a Minister or junior Minister—
+>   - (i) because he is not committed to non-violence and exclusively peaceful and democratic means; or
+>   - (ii) because of any failure of his to observe any other terms of the pledge of office;
+> - (b) a resolution censuring a political party—
+>   - (i) because it is not committed to non-violence and exclusively peaceful and democratic means; or
+>   - (ii) because it is not committed to such of its members as are or might become Ministers or junior Ministers observing the other terms of the pledge of office.
+>
+> (2) A motion for a resolution to which this section applies shall not be moved unless—
+>
+> - (a) it is supported by at least 30 members of the Assembly;
+> - (b) it is moved by the First Minister and the deputy First Minister acting jointly; or
+> - (c) it is moved by the Presiding Officer in pursuance of a notice under subsection (3).
+>
+> (3) If the Secretary of State is of the opinion that the Assembly ought to consider a resolution to which this section applies, he shall serve a notice on the Presiding Officer requiring him to move a motion for such a resolution.
+>
+> (4) In forming an opinion under subsection (3), the Secretary of State shall in particular take into account the matters listed in section 30(7).
+>
+> (5) A resolution to which this section applies shall not be passed without cross-community support.
+
+## General
+
+### 10. Secretary of State’s directions: procedure etc.
+
+(1) After section 95 of the Northern Ireland Act 1998 (c. 47) there is inserted—
+
+> **95A. Directions under sections 30A, 47B and 51B**
+>
+> (1) A direction under section 30A, 47B or 51B shall be in writing.
+>
+> (2) A copy of the document containing a direction under section 30A(8)(a), 47B(8)(a) or 51B(6)(a) shall be laid before Parliament after the direction is given.
+>
+> (3) A direction under section 30A, 47B or 51B, other than one to which subsection (2) above applies, shall not be given unless a draft of the document containing it has been laid before and approved by resolution of each House of Parliament.
+>
+> (4) Subsection (3) does not apply to a direction if the direction declares that the Secretary of State considers it expedient for the direction to be made without the approval mentioned in that subsection, but subsections (5) to (7) apply to the direction instead.
+>
+> (5) A copy of the document containing the direction shall be laid before Parliament after the direction is given.
+>
+> (6) If the direction is not approved by each House of Parliament before the end of the period of 40 days beginning with the date of the direction, it shall cease to have effect at the end of that period if it has not already ceased to have effect under subsection (7).
+>
+> (7) If on any day during that period of 40 days either House of Parliament, in proceedings on a motion that (or to the effect that) the direction be approved, comes to a decision rejecting the direction, the direction shall cease to have effect at the end of that day.
+>
+> (8) In calculating a period of 40 days for purposes of subsections (6) and (7), no account is to be taken of any time during which—
+>
+> - (a) Parliament is dissolved or prorogued; or
+> - (b) both Houses are adjourned for more than four days.
+>
+> (9) If the document, or a draft of the document, containing a direction under section 30A, 47B or 51B would, apart from this subsection, be treated for the purposes of the Standing Orders of either House of Parliament as a hybrid instrument, it shall proceed in that House as if it were not such an instrument.
+>
+> (10) Schedule 12A (effect of application of subsection (6) or (7)) shall have effect.
+>
+> (11) The Documentary Evidence Act 1868 shall apply to a direction given by the Secretary of State under section 30A, 47B or 51B as it applies to an order made by him.
+
+(2) In section 18 of that Act (which provides for the filling of Ministerial offices), after subsection (12A) there is inserted—
+
+> (12B) Where a direction under section 30A(5) ceases to have effect under section 95A(6) or (7), its so ceasing to have effect shall for the purposes of subsection (1)(da) be taken not to involve the coming to an end of a period of exclusion under section 30A(5).
+
+(3) After Schedule 12 to that Act there is inserted—
+
+> **SCHEDULE 12A — Effect of application of section 95A(6) or (7)**
+>
+> Section 95A(10)
+>
+> **Directions under section 30A(5): Northern Ireland Ministers and junior Ministers**
+>
+> **1.** (1) Paragraphs 2 to 4 apply where a direction under section 30A(5) ceases to have effect under section 95A(6) or (7).
+>
+> (2) In those paragraphs “**the relevant time**” means the time when the direction so ceases to have effect.
+>
+> **2.** (1) A person who holds office as a Northern Ireland Minister or junior Minister immediately before the relevant time shall cease at the relevant time to hold that office if another person—
+>
+> - (a) held that office immediately before the direction was given, but
+> - (b) ceased to hold it by reason of his being excluded by the direction.
+>
+> (2) That other person shall fill the vacancy if he remains eligible to hold that office.
+>
+> **3.** If—
+>
+> - (a) an office of Northern Ireland Minister or junior Minister is vacant immediately before the relevant time, and
+> - (b) immediately before the direction was given that office was held by a person who ceased to hold it by reason of his being excluded by the direction,
+>
+> that person shall fill the vacancy if he remains eligible to hold that office.
+>
+> **4.** Section 18(10) (and section 18(11)), and any provision made under section 19(3)(a) for the filling of vacancies, shall have effect subject to paragraphs 2 and 3.
+>
+> **Directions under section 30A(2) or (5): the First Minister and deputy First Minister**
+>
+> **5.** (1) Paragraphs 6 to 8 apply where a direction under section 30A(2) or (5) ceases to have effect under section 95A(6) or (7).
+>
+> (2) In those paragraphs—
+>
+> - “**the relevant time**” means the time when the direction so ceases to have effect;
+> - “**the relevant offices**” means the office of First Minister and the office of deputy First Minister.
+>
+> **6.** (1) Sub-paragraphs (2) to (4) apply where—
+>
+> - (a) as respects each of the relevant offices, the person who holds that office immediately before the relevant time did not hold it immediately before the direction was given, and
+> - (b) as respects at least one of the relevant offices, the person who held that office immediately before the direction was given ceased to hold it by reason of his being excluded by the direction.
+>
+> (2) The persons holding the relevant offices immediately before the relevant time shall cease at that time to hold those offices.
+>
+> (3) As respects each of the relevant offices, the person (if any) who held that office immediately before the direction was given shall fill the vacancy in that office if—
+>
+> - (a) he remains eligible to hold that office, and
+> - (b) the person who held the other of the relevant offices immediately before the direction was given remains eligible to hold it.
+>
+> (4) If the vacancies in the relevant offices are filled under sub-paragraph (3), section 16(8) shall not apply by reason of the operation of sub-paragraph (2).
+>
+> **7.** (1) Sub-paragraphs (2) to (4) apply where—
+>
+> - (a) as respects one of the relevant offices, the person who holds it immediately before the relevant time held it immediately before the direction was given, and
+> - (b) as respects the other of the relevant offices—
+>   - (i) the person who holds it immediately before the relevant time did not hold it immediately before the direction was given, and
+>   - (ii) the person who held it immediately before the direction was given ceased to hold it by reason of his being excluded by the direction.
+>
+> (2) The person who holds the office mentioned in sub-paragraph (1)(b) immediately before the relevant time shall cease at that time to hold that office.
+>
+> (3) The person who held that office immediately before the direction was given shall fill the vacancy in that office if he remains eligible to hold that office.
+>
+> (4) If the vacancy in that office is filled under sub-paragraph (3), section 16(7) shall not apply by reason of the operation of sub-paragraph (2).
+>
+> **8.** (1) Sub-paragraphs (2) to (4) apply where—
+>
+> - (a) each of the relevant offices is vacant immediately before the relevant time as a result of having become vacant within the six weeks ending with that time, and
+> - (b) as respects at least one of the relevant offices, the person who held it immediately before the direction was given ceased to hold it by reason of his being excluded by the direction.
+>
+> (2) As respects each of the relevant offices, the person (if any) who held that office immediately before the direction was given shall fill the vacancy in that office if—
+>
+> - (a) he remains eligible to hold that office, and
+> - (b) the person who held the other of the relevant offices immediately before the direction was given remains eligible to hold it.
+>
+> (3) If the vacancies in the relevant offices are filled under sub-paragraph (2), no proceedings, or further proceedings, shall be taken under section 16 for the purpose of filling them.
+>
+> (4) If those vacancies are not filled under that sub-paragraph, the proceedings for an election under section 16 for the purpose of filling them shall be started afresh with the period of six weeks mentioned in section 16(8) being taken for the purposes of this Act to begin with the relevant time.
+>
+> **Directions under section 47B or 51B**
+>
+> **9.** (1) Sub-paragraphs (2) and (3) apply where a direction under section 47B or 51B ceases to have effect under section 95A(6) or (7).
+>
+> (2) After the direction has so ceased to have effect, any determination—
+>
+> - (a) of the sums payable under section 47 or under the Financial Assistance for Political Parties Act (Northern Ireland) 2000, or
+> - (b) of when any such sums become due,
+>
+> shall be made as though the direction had never had effect.
+>
+> (3) Payment shall be made of any sums which would have been paid but for the direction.
+>
+> **General**
+>
+> **10.** Where a direction under section 30A, 47B or 51B ceases to have effect under section 95A(6) or (7), its so ceasing to have effect does not prejudice—
+>
+> - (a) anything done in reliance on the direction while it had effect;
+> - (b) the making of a new direction.
+
+### 11. Secretary of State’s duty to prepare reports
+
+(1)[^key-b8bf5374c3f8fbd274897a8cbedaf62a] The Secretary of State shall report on the operation of— *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+
+- (a) the agreement mentioned in section 1(1), and *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+- (b) so much of this Act as amends the Northern Ireland Act 1998 (c. 47). *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+
+(2) The first report under this section shall be in respect of the period of twelve months beginning with the passing of this Act. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+
+(3) Subsequent reports under this section shall be in respect of the period of twelve months beginning with the end of the previous reporting period. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+
+(4) Each report under this section shall be prepared as soon as practicable after the end of the period to which it relates. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+
+(5) A report under this section shall include any additional information which the Secretary of State thinks it appropriate for the report to include. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+
+(6) The Secretary of State shall— *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+
+- (a) lay a copy of each report under this section before each House of Parliament, and *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+- (b) publish each such report in such manner as he thinks fit. *(affected by repeal, see note)*[^key-b8bf5374c3f8fbd274897a8cbedaf62a]
+
+### 12. Short title, commencement and repeals
+
+(1) This Act may be cited as the Northern Ireland (Monitoring Commission etc.) Act 2003.
+
+(2)[^c2031685][^c2031687] This Act, other than this section, comes into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be so appointed for different purposes.
+
+(3)[^key-0a5c7c98b4ebc450e18a27485a81911b] Sections 1 to 3 and 11 of this Act, and sections 30A, 47B and 51B of the Northern Ireland Act 1998 (c. 47), shall cease to have effect at the end of such day as the Secretary of State may by order made by statutory instrument appoint.
+
+(4) An order under subsection (3) may include such consequential provision (including provision amending or repealing an enactment) and such transitional provision as the Secretary of State thinks fit.
+
+## Annotations
+
+[^key-e6373d121f54d739324aad084cfc5044]: Textual amendment: Ss. 1-3 cease to have effect (31.3.2011 at the end of the day) by [Northern Ireland (Monitoring Commission etc.) Act 2003 (c. 25)](https://www.legislation.gov.uk/ukpga/2003/25), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/3); [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), [art. 2](https://www.legislation.gov.uk/uksi/2011/978/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/978/article/3))
+
+[^key-b8bf5374c3f8fbd274897a8cbedaf62a]: Textual amendment: S. 11 ceases to have effect (31.3.2011 at the end of the day) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (c. 25)](https://www.legislation.gov.uk/ukpga/2003/25), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/25/section/12/3); [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), [art. 2](https://www.legislation.gov.uk/uksi/2011/978/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/978/article/3))
+
+[^c2031685]: Subordinate legislation: S. 12(2) power partly exercised: 13.10.2003 appointed for specified provision by {[S.I. 2003/2646](https://www.legislation.gov.uk/uksi/2003/2646)}, art. 2
+
+[^c2031687]: Subordinate legislation: S. 12(2) power partly exercised: 7.1.2004 appointed for specified provisions by {[S.I. 2004/83](https://www.legislation.gov.uk/uksi/2004/83)}, art. 2
+
+[^key-0a5c7c98b4ebc450e18a27485a81911b]: Modification: S. 12(3): 31.3.2011 appointed for the purposes of s. 12(3) by [S.I. 2011/978](https://www.legislation.gov.uk/uksi/2011/978), art. 2 (with arts. 2, 3) and accordingly the provisions referred to therein cease to have effect at the end of that day

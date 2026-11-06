@@ -1,0 +1,48 @@
+---
+title: Corporate Insolvency and Governance Act 2020, section 40
+act: Corporate Insolvency and Governance Act 2020
+section: '40'
+status: revised-with-pending-changes
+text_date: '2022-02-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/12/section/40
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporate Insolvency and Governance Act 2020, section 40
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2022-02-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 40. Section 39: the listed provisions
+
+*Extent: E+W+S+N.I.*
+
+The provisions referred to in section 39(1) are—
+
+- (a) section 9 of the Limited Partnerships Act 1907 (registration of changes to a limited partnership);
+- (b) section 466 of the Companies Act 1985 (registration of alteration to a floating charge);
+- (c) section 9 of the Limited Liability Partnerships Act 2000 (notice of membership changes);
+- (d) regulation 80C of the European Public Limited-Liability Company Regulations 2004 (S.I. 2004/2326) (notice of change in members of the supervisory organ);
+- (e) the following sections of the Companies Act 2006—
+  - section 87 (notice of change of address of registered office);
+  - section 114 (notice of place where register of members is kept);
+  - section 162 (notice of place where register of directors is kept);
+  - section 167 (notice of change in directors etc);
+  - section 275 (notice of place where register of secretaries is kept);
+  - section 276 (notice of change in secretaries etc);
+  - section 442 (period allowed for filing accounts);
+  - section 790M (register of people with significant control);
+  - section 790N (notice of place where PSC register is kept);
+  - section 790VA (notice of change to the PSC register);
+  - section 853A(1) (confirmation statements);
+  - section 859A (registration of charge);
+  - section 859B (registration of charge contained in debentures);
+  - section 859Q (notice of place where copies of instruments creating charges are kept);
+- (f) the following provisions of the Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)—
+  - regulation 7 (notice of change to the registration information);
+  - regulation 8 (notice of ceasing to be a Scottish qualifying partnership);
+  - the provisions of Part 5 (duties to deliver information);
+  - regulation 35 (confirmation statements).

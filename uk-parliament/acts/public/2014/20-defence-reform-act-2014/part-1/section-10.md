@@ -1,0 +1,51 @@
+---
+title: Defence Reform Act 2014, section 10
+act: Defence Reform Act 2014
+section: '10'
+status: not-yet-in-force
+text_date: '2024-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/20/section/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Defence Reform Act 2014, section 10
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 10. Transfer schemes
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) The Secretary of State may make one or more schemes for the transfer of property, rights and liabilities (a “transfer scheme”) if—
+
+- (a) a relevant contractor is in breach of a services contract and the breach occurs in specified circumstances or is of a specified kind, or
+- (b) a services contract has come to an end, whether by the expiry of the period for which it was in force or otherwise.
+
+(2) A transfer scheme may provide for the transfer of property, rights and liabilities to—
+
+- (a) the Crown,
+- (b) the Secretary of State, or
+- (c) a company mentioned in section 1(2)(a).
+
+(3) The property, rights and liabilities that may be transferred by a transfer scheme are—
+
+- (a) property, rights and liabilities of a relevant contractor;
+- (b) securities in a relevant contractor;
+- (c) any property or rights of a third party that was or were acquired from a relevant contractor and any liabilities of a third party so far as relating to any such property or rights.
+
+(4) Subsection (3) does not apply to property, rights or liabilities to the extent that an agreement between the Secretary of State and the person entitled to or subject to them provides that they are not to be transferred by a transfer scheme.
+
+(5) Schedule 3 makes further provision about transfer schemes under this section.
+
+(6) In this section—
+
+- “**relevant contractor**”, in relation to a services contract, means a company which is or was a contractor in relation to the arrangements to which that contract relates;
+- “**services contract**” means a contract for a company to provide defence procurement services to the Secretary of State entered into by virtue of arrangements mentioned in section 1;
+- “**specified**”, in relation to a services contract, means specified in the contract for the purposes of this section;
+- “**third party**” means a person other than a relevant contractor.

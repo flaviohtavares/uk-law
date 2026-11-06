@@ -1,0 +1,2225 @@
+---
+title: Maintenance Orders (Reciprocal Enforcement) Act 1972
+id: ukpga/1972/18
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1972-03-23'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1972/18
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1972/18/pdfs/ukpga_19720018_en.pdf
+- http://www.legislation.gov.uk/ukpga/1972/18/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Maintenance Orders (Reciprocal Enforcement) Act 1972
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Maintenance Orders (Reciprocal Enforcement) Act 1972
+
+1972 c. 18
+
+An Act to make new provision, applying throughout the United Kingdom, in place of the Maintenance Orders (Facilities for Enforcement) Act 1920; to make provision with a view to the accession by the United Kingdom to the United Nations Convention on the Recovery Abroad of Maintenance done at New York on 20th June 1956; to make other provision for facilitating the recovery of maintenance by or from persons in the United Kingdom from or by persons in other countries; to extend the jurisdiction of magistrates’ courts to hear complaints by or against persons outside England and Wales; and for purposes connected with the matters aforesaid.
+
+\[23rd March 1972\] [^c14181581][^c14181591][^key-9ee01db3fd2d4d73938bda42c236eec9]
+
+## Part I — Reciprocal Enforcement of Maintenance Orders made in United Kingdom or Reciprocating Country[^c14181611][^key-67ade4c3cf8d52e261e75952ff78187e][^key-6dfdff3e017abf2f548868ce3211304b][^key-4b25d428a3d57b8bc8fe11d7a30c4506][^key-980327fc05c2983853d66389fb2c44ab][^key-3dd9b79ed9eebb4426f3e4865e4ab296]
+
+### Designation of reciprocating countries
+
+#### 1. Orders in Council designating reciprocating countries.
+
+(1) Her Majesty, if satisfied that, in the event of the benefits conferred by this Part of this Act being applied to, or to particular classes of, maintenance orders made by the courts of any country or territory outside the United Kingdom, similar benefits will in that country or territory be applied to, or to those classes of, maintenance orders made by the courts of the United Kingdom, may by Order in Council designate that country or territory as a reciprocating country for the purposes of this Part of this Act; and, subject to subsection (2) below, in this Part of this Act “**reciprocating country**” means a country or territory that is for the time being so designated.
+
+(2) A country or territory may be designated under subsection (1) above as a reciprocating country either as regards maintenance orders generally, or as regards maintenance orders other than those of any specified class, or as regards maintenance orders of one or more specified classes only; and a country or territory which is for the time being so designated otherwise than as regards maintenance orders generally shall for the purposes of this Part of this Act be taken to be a reciprocating country only as regards maintenance orders of the class to which the designation extends.
+
+### Orders made by courts in the United Kingdom
+
+#### 2. Transmission of maintenance order made in United Kingdom for enforcement in reciprocating country.[^c14181641]
+
+(1) Subject to subsection (2) below, where the payer under a maintenance order made, whether before or after the commencement of this Part of this Act, by a court in the United Kingdom is residing or has assets[^c14181651] in a reciprocating country, the payee under the order may apply for the order to be sent to that country for enforcement.
+
+(2) Subsection (1) above shall not have effect in relation to a provisional order or to an order made by virtue of a provision of Part II of this Act.
+
+(3) Every application under this section shall be made in the prescribed manner to the prescribed officer of the court which made the maintenance order to which the application relates.
+
+(4) If, on an application duly made under this section to the prescribed officer of a court in the United Kingdom, that officer is satisfied that the payer under the maintenance order to which the application relates is residing or has assets in a reciprocating country, the following documents, that is to say—
+
+- (a) a certified copy of the maintenance order;
+- (b) a certificate signed by that officer certifying that the order is enforceable in the United Kingdom;
+- (c) a certificate of arrears so signed;
+- (d) a statement giving such information as the officer possesses as to the whereabouts of the payer and the nature and location of his assets in that country[^c14181671];
+- (e) a statement giving such information as the officer possesses for facilitating the identification of the payer; and
+- (f) where available, a photograph of the payer;
+
+shall be sent by that officer to the Secretary of State with a view to their being transmitted by the Secretary of State to the responsible authority in the reciprocating country if he is satisfied that the statement relating to the whereabouts of the payer and the nature and location of his assets in that country gives sufficient information to justify that being done.
+
+(5) Nothing in this section shall be taken as affecting any jurisdiction of a court in the United Kingdom with respect to a maintenance order to which this section applies, and any such order may be enforced, varied or revoked accordingly.
+
+#### 3. Power of ... court to make provisional maintenance order against person residing in reciprocating country.[^key-330145f201f4d1c94c83a783533d9380]
+
+(1)[^c14181741] Where an application is made to the family court[^key-6c77c7b0e870c0149ccd72291f311b36] for a maintenance order against a person residing in a reciprocating country and the court would have jurisdiction to determine the application under the Domestic Proceedings and Magistrates’ Courts Act 1978 or the Children Act 1989 if that person—
+
+- (a) were habitually resident[^key-2ed5bfa6d2b78eeea688cb5fad62adb3] in England and Wales, and
+- (b) received reasonable notice of the date of the hearing of the application,
+
+the court shall (subject to subsection (2) below) have jurisdiction to determine the application.
+
+(2) A maintenance order made by virtue of this section shall be a provisional order.
+
+(3)[^c14181751] If the court hearing a complaint to which subsection (1) above applies is satisfied—
+
+- (a) that there are grounds on which a maintenance order containing a provision requiring the making of payments for the maintenance of a child may be made on that complaint, but
+- (b) that it has no jurisdiction to make that order unless it also makes an order providing for the legal custody of that child,
+
+then, for the purpose of enabling the court to make the maintenance order, the complainant shall be deemed to be the person to whom the legal custody of that child has been committed by an order of the court which is for the time being in force.
+
+(4)[^c14181761] No enactment (or provision made under an enactment) requiring or enabling—
+
+- (za)[^key-314dfc39da9cecf631b6f034abbedbd4] a court to transfer proceedings from the family court to the High Court,
+- (a) a court to transfer proceedings from a magistrates’ court in Northern Ireland[^key-2670f16807473103795e1c2dca79c6be] to a county court or the High Court of Justice in Northern Ireland[^key-61a79dc231515870fb1587fdba89a8ba], or
+- (b) a magistrates’ court in Northern Ireland to refuse to make an order on an application on the ground that any matter in question is one that would be more conveniently dealt with by the High Court of Justice in Northern Ireland,
+
+shall apply in relation to an application to which subsection (1) above applies.
+
+(5) Where a court makes a maintenance order which is by virtue of this section a provisional order, the following documents, that is to say—
+
+- (a) a certified copy of the maintenance order;
+- (b) a document, authenticated in the prescribed manner, setting out or summarising the evidence given in the proceedings;
+- (c) a certificate signed by the prescribed officer of the court certifying that the grounds stated in the certificate are the grounds on which the making of the order might have been opposed by the payer under the order;
+- (d) a statement giving such information as was available to the court as to the whereabouts of the payer;
+- (e) a statement giving such information as the officer possesses for facilitating the identification of the payer; and
+- (f) where available, a photograph of the payer;
+
+shall be sent by that officer to the Secretary of State with a view to their being transmitted by the Secretary of State to the responsible authority in the reciprocating country in which the payer is residing if he is satisfied that the statement relating to the whereabouts of the payer gives sufficient information to justify that being done.
+
+(6) A maintenance order made by virtue of this section which has been confirmed by a competent court in a reciprocating country shall be treated for all purposes as if the [^key-4a295c296f880b2458e1abd38bf5d7fc]... court which made the order had made it in the form in which it was confirmed and as if the order had never been a provisional order, and subject to section 5 of this Act, any such order may be enforced, varied or revoked accordingly.
+
+(7)[^c14181771] In the application of this section to Northern Ireland—
+
+- (a) for subsection (1) there shall be substituted—
+
+> (1) Where an application is made to a magistrates’ court against a person residing in a reciprocating country and the court would have jurisdiction to determine the application under the Domestic Proceedings (Northern Ireland) Order 1980 or the Children (Northern Ireland) Order 1995 if that person—
+>
+> - (a) were habitually resident[^key-561228ffeae83a5d64858a5cd6d74e3f] in Northern Ireland, and
+> - (b) received reasonable notice of the date of the hearing of the application,
+>
+> the court shall (subject to subsection (2) below) have jurisdiction to determine the application.
+
+- (b)[^key-b1076ff27f554ef15a8fd5e6bf59061b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Power of sheriff to make provisional maintenance order against person residing in reciprocating country.
+
+(1)[^key-a6a6b6713bb4ef244484a02e94507e8f] In any action where the sheriff has jurisdiction by virtue of subsection (2) and the defender resides in a reciprocating country, any maintenance order granted by the sheriff shall be a provisional order.
+
+(2)[^key-fb804ec5e70a25be47d299320fb664bf] In matters relating to maintenance, a person may be sued in the courts for the place where the pursuer is domiciled or habitually resident or, if the matter is ancillary to proceedings concerning the status of a person, in the court which has jurisdiction to entertain those proceedings, provided than an action of affiliation and aliment shall be treated as a matter relating to maintenance which is not ancillary to proceedings concerning the status of a person.
+
+(3)[^c14181841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In any action referred to in subsection (1) above—
+
+- (a) it shall not be necessary for the pursuer to obtain a warrant for the citation of any person, and the action may commence and proceed without such citation;
+- (b) no decree shall be granted in favour of the pursuer unless the grounds of action have been substantiated by sufficient evidence, and section 36(3) of the [^c14181851]Sheriff Courts (Scotland) Act 1971 shall not apply in relation to any such action which is a summary cause.
+
+(5) No enactment empowering the sheriff to remit an action to the Court of Session shall apply in relation to proceedings referred to in subsection (1) above.
+
+(6) Section 3(5) and (6) of this Act shall apply for the purposes of this section as they apply for the purposes of that section, with the substitution, for references to a court that are references to the family court or[^key-efaa01e8de794cedeb4878471a288e03] a magistrates’ court, of references to the sheriff.
+
+(7)[^key-5e0b33c713f4f313fab9cdb4c76b51cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Variation and revocation of maintenance order made in United Kingdom.[^key-1131eed2bdef87d5d4eb98900112fa86][^c15932421]
+
+(1) This section applies to a maintenance order a certified copy of which has been sent to a reciprocating country in pursuance of section 2 of this Act and to a maintenance order made by virtue of section 3 or 4 thereof which has been confirmed by a competent court in such a country.
+
+(2) A court in the United Kingdom having power to vary a maintenance order to which this section applies shall have power to vary that order by a provisional order.
+
+(3) Where the court hearing an application for the variation of a maintenance order to which this section applies proposes to vary it by increasing the rate of the payments under the order then, unless either—
+
+- (a) both the payer and the payee under the order appear in the proceedings, or
+- (b) the applicant appears and the appropriate process has been duly served on the other party,
+
+the order varying the order shall be a provisional order.
+
+(3A)[^key-410ea90a82d2c37a3f18cecce0f7b145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3B)[^c14181921] Where paragraph (1) of Article 86 of the Magistrates’ Courts (Northern Ireland) Order 1981 applies in relation to a maintenance order to which this section applies, that paragraph shall have effect as if for the words “by order on complaint,” there were substituted “on an application being made, by order”.
+
+(4) Where a court in the United Kingdom makes a provisional order varying a maintenance order to which this section applies, the prescribed officer of the court shall send in the prescribed manner to the court in a reciprocating country having power to confirm the provisional order a certified copy of the provisional order together with a document, authenticated in the prescribed manner, setting out or summarising the evidence given in the proceedings.
+
+(5) Where a certified copy of a provisional order made by a court in a reciprocating country, being an order varying or revoking a maintenance order to which this section applies, together with a document, duly authenticated, setting out or summarising the evidence given in the proceedings in which the provisional order was made, is received by the court in the United Kingdom which made the maintenance order, that court may confirm or refuse to confirm the provisional order and, if that order is an order varying the maintenance order, confirm it either without alteration or with such alterations as it thinks reasonable.
+
+(6) For the purpose of determining whether a provisional order should be confirmed under subsection (5) above, the court shall proceed as if an application for the variation or revocation, as the case may be, of the maintenance order in question had been made to it.
+
+(7) Where a maintenance order to which this section applies has been varied by an order (including a provisional order which has been confirmed) made by a court in the United Kingdom or by a competent court in a reciprocating country, the maintenance order shall, as from the date on which under the provisions of the order the variation is to take effect[^c14181931], have effect as varied by that order and, where that order was a provisional order, as if that order had been made in the form in which it was confirmed and as if it had never been a provisional order.
+
+(8) Where a maintenance order to which this section applies has been revoked by an order made by a court in the United Kingdom or by a competent court in a reciprocating country, including a provisional order made by the last-mentioned court which has been confirmed by a court in the United Kingdom, the maintenance order shall, as from the date on which under the provisions of the order the revocation is to take effect[^c14181941], be deemed to have ceased to have effect except as respects any arrears due under the maintenance order at that date.
+
+(9) Where before a maintenance order made by virtue of section 3 or 4 of this Act is confirmed a document, duly authenticated, setting out or summarising evidence taken in a reciprocating country for the purpose of proceedings relating to the confirmation of the order is received by the court in the United Kingdom which made the order, or that court, in compliance with a request made to it by a court in such a country, takes the evidence of a person residing in the United Kingdom for the purpose of such proceedings, the court in the United Kingdom which made the order shall consider that evidence and if, having done so, it appears to it that the order ought not to have been made—
+
+- (a) it shall, in such manner as may be prescribed, give to the person on whose application the maintenance order was made an opportunity to consider that evidence, to make representations with respect to it and to adduce further evidence; and
+- (b) after considering all the evidence and any representations made by that person, it may revoke the maintenance order.
+
+(10) In the application of this section to Scotland—
+
+- (a) for subsection (3) there shall be substituted the following subsections:—
+
+  > (3) Where the payer under a maintenance order to which this section applies is for the time being residing in a reciprocating country, the court shall not, on an application made by the payee under the order for the variation of the order, vary the order by increasing the rate of the payments thereunder otherwise than by a provisional order.
+  >
+  > (3A) It shall not be necessary for the payee under a maintenance order to which this section applies to intimate to any person the making by him of an application for a provisional order varying the said maintenance order by increasing the rate of the payments thereunder;
+- (b) for subsection (6) there shall be substituted the following subsection:—
+
+  > (6) Where a certified copy of a provisional order varying or revoking a maintenance order to which this section applies is received by a court as mentioned in subsection (5) above, the prescribed officer of that court shall intimate to the payee under the maintenance order, in the prescribed manner, that the provisional order has been received as aforesaid and that, unless the payee enters appearance within the prescribed period, the court will confirm the provisional order under this section.
+
+### Orders made by courts in reciprocating countries
+
+#### 6. Registration in United Kingdom court of maintenance order made in reciprocating country.[^key-aa6eabcdc387342a2bfc1f8052780f6e][^key-980327fc05c2983853d66389fb2c44ab][^key-3dd9b79ed9eebb4426f3e4865e4ab296][^key-6dfdff3e017abf2f548868ce3211304b][^key-4b25d428a3d57b8bc8fe11d7a30c4506]
+
+(1) This section applies to a maintenance order made, whether before or after the commencement of this Part of this Act, by a court in a reciprocating country, including such an order made by such a court which has been confirmed by a court in another reciprocating country but excluding a provisional order which has not been confirmed.
+
+(2) Where a certified copy of an order to which this section applies is received by the Secretary of State from the responsible authority in a reciprocating country, and it appears to the Secretary of State that the payer under the order is residing or has assets[^c14181951] in the United Kingdom, he shall send the copy of the order to the prescribed officer of the appropriate court.
+
+(3) Where the prescribed officer of the appropriate court receives from the Secretary of State a certified copy of an order to which this section applies, he shall, subject to subsection (4) below, register the order in the prescribed manner in that court.
+
+(4) Before registering an order under this section an officer of a court shall take such steps as he thinks fit for the purpose of ascertaining whether the payer under the order is residing or has assets[^c14181961] within the jurisdiction of the court, and if after taking those steps he is satisfied that the payer is not residing and has no assets within the jurisdiction of the court[^c14181971] he shall return the certified copy of the order to the Secretary of State with a statement giving such information as he possesses as to the whereabouts of the payer and the nature and location of his assets[^c14181981].
+
+#### 7. Confirmation by United Kingdom court of provisional maintenance order made in reciprocating country.
+
+(1) This section applies to a maintenance order made, whether before or after the commencement of this Part of this Act, by a court in a reciprocating country being a provisional order.
+
+(2) Where a certified copy of an order to which this section applies together with—
+
+- (a) a document, duly authenticated, setting out or summarising the evidence given in the proceedings in which the order was made; and
+- (b) a statement of the grounds on which the making of the order might have been opposed by the payer under the order,
+
+is received by the Secretary of State from the responsible authority in a reciprocating country, and it appears to the Secretary of State that the payer under the order is residing in the United Kingdom, he shall send the copy of the order and documents which accompanied it to the prescribed officer of the appropriate court, and that court shall—
+
+- (i) if the payer under the order establishes any grounds on which he might have opposed the making of the order[^c14182131] in the proceedings in which the order was made, refuse to confirm the order; and
+- (ii) in any other case, confirm the order either without alteration or with such alterations as it thinks reasonable.
+
+(3) In any proceedings for the confirmation under this section of a provisional order, the statement received from the court which made the order of the grounds on which the making of the order might have been opposed by the payer under the order shall be conclusive evidence that the payer might have opposed the making of the order on any of those grounds.[^c14182141].
+
+(4) For the purpose of determining whether a provisional order should be confirmed under this section a magistrates’ court in Northern Ireland[^c14182151] shall proceed as if an application for a maintenance order against the payer under the provisional order had been made to it.
+
+(5)[^c15932711] The prescribed officer of a court having power under this section to confirm a provisional order shall, if the court confirms the order, register the order in the prescribed manner in that court, and shall, if the court refuses to confirm the order, return the certified copy of the order and the documents which accompanied it to the Secretary of State.
+
+(5A)[^c14182161] Where the family court[^key-d9303a2c3951c446baac2c0e1c78e69d] confirms a provisional order under this section, it may[^key-54c6d4bae61ace82c815bf6013aa0a9c] at the same time exercise one of its powers under subsection (5B) below.
+
+(5B) The powers of the court are—
+
+- (a) the power to order that payments under the order be made directly to the court[^key-005e0fc356e24307f0fe8c2a69958f39];
+- (b) the power to order that payments under the order be made to the court, by such method of payment falling within section 1(5) of the Maintenance Enforcement Act 1991[^key-6aa1e14ec79501ffe21c917dec497483] (standing order, etc.) as may be specified;
+- (c) the power to make an attachment of earnings order under the Attachment of Earnings Act 1971 to secure payments under the order.
+
+(5C) In deciding whether to exercise any of its[^key-de5a6d67c96b90d0d37520f997ac0e64] powers under subsection (5B) above [^key-1f06225f88290363f4c540746309693c]... , the court shall have regard to any representations made by the payer under the order.
+
+(5D) Subsection (6) of section 1 of the Maintenance Enforcement Act 1991[^key-831d51d601e602a61a3bcaf00c7ec5f9] (power of court to require debtor to open account) shall apply for the purposes of subsection (5B) above as it applies for the purposes of that section but as if for paragraph (a) there were substituted—
+
+> - (a) the court proposes to exercise its power under paragraph (b) of section 7(5B) of the Maintenance Orders (Reciprocal Enforcement ) Act 1972, and
+
+.
+
+(5E)[^c14182191] Where a court of summary jurisdiction in Northern Ireland confirms a provisional order under this section, it shall at the same time exercise one of its powers under subsection (5F) below.
+
+(5F) The powers of the court are—
+
+- (a) the power to order that payments under the order be made directly to the collecting officer;
+- (b) the power to order that payments under the order be made to the collecting officer, by such method of payment falling within Article 85(7) of the Magistrates’ Courts (Northern Ireland) Order 1981 (standing order, etc. ) as may be specified;
+- (c) the power to make an attachment of earnings order under Part IX of the Order of 1981 to secure payments under the order;
+
+and in this subsection “collecting officer” means the officer mentioned in Article 85(4) of the Order of 1981.
+
+(5G) In deciding which of the powers under subsection (5F) above it is to exercise, the court shall have regard to any representations made by the payer under the order.
+
+(5H) Paragraph (5) of Article 85 of the Magistrates’ Courts (Northern Ireland) Order 1981 (power of court to require debtor to open account) shall apply for the purposes of subsection (5F) above as it applies for the purposes of that Article but as if for sub-paragraph (a) there were substituted—
+
+> - (a) the court proposes to exercise its power under paragraph (b) of section 7(5F) of the Maintenance Orders (Reciprocal Enforcement) Act 1972, and
+
+(6) If notice of[^c14182201] the proceedings for the confirmation of the provisional order cannot be duly served on the payer under that order the officer by whom the certified copy of the order was received shall return that copy and the documents which accompanied it to the Secretary of State with a statement giving such information as he possesses as to the whereabouts of the payer.
+
+(7) This section shall apply to Scotland subject to the following modifications:—
+
+- (a) for subsection (4) there shall be substituted the following subsection:—
+
+  > (4) On receiving a certified copy of a provisional order sent to him in pursuance of subsection (2) above the prescribed officer of the appropriate court shall intimate to the payer under the order, in the prescribed manner, that the order has been received as aforesaid and that, unless the payer enters appearance within the prescribed period, the court will confirm the order under this section.
+
+  ;
+- (b) in subsection (6), for the words from the beginning to “that order” there shall be substituted the words “ If such intimation as is mentioned in subsection (4) above cannot be given to the payer under a provisional order in pursuance of that subsection”; and
+- (c) in any proceedings for the confirmation under this section of a provisional order made by a court in a reciprocating country, the sheriff shall apply the law in force in that country with respect to the sufficiency of evidence.
+
+(8)[^c14182211] In the application of this section to Northern Ireland—
+
+- (a) in subsection (2)(i), for the words from “any grounds” to “making of the order” there shall be substituted “any such defence as he might have raised”,
+- (b) in subsection (3), for the words from “opposed the making” to the end there shall be substituted “raised a defence on any of those grounds in the proceedings in which the order was made.”, and
+- (c) in subsection (6), for the words “notice of” there shall be substituted “a summons to appear in”.
+
+#### 8. Enforcement of maintenance order registered in United Kingdom court.[^c15932521][^key-721569b9c92779de02ba2bbf01f6ea05]
+
+(1)[^key-72372fd477cc92e2f0f40f6760ee2613] Subject to subsection (2) below, a registered order may be enforced in the United Kingdom as if it had been made by the registering court and as if that court had had jurisdiction to make it; and proceedings for or with respect to the enforcement of any such order may be taken accordingly.
+
+(2) Subsection (1) above does not apply to an order which is for the time being registered [^key-2f1b7fd266b46629ac7bebaf771c6a48]... in the High Court of Justice in Northern Ireland under Part II of the [^c14182781]Maintenance and Affiliation Orders Act (Northern Ireland) 1966.
+
+(3) Any person for the time being under an obligation to make payments in pursuance of an order registered in a court in Northern Ireland[^key-f8d349de00fe0e6baa0d4c193691f3a9] shall give notice of any change of address to the clerk of that[^key-15370d5567464c24e4e5c2cb3862e329] court, and any person failing without reasonable excuse to give such a notice shall be liable on summary conviction to a fine not exceeding £50[^c14182801].
+
+(3A)[^key-d8b07e8cfaeee05112c392e3ef2c4925] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) An order which by virtue of this section is enforceable by a magistrates’ court shall *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_3cc23b3f-1507-4e33-f6b8-1330b391084e] subject to the modifications of Article 98 of the Magistrates’ Courts (Northern Ireland) Order 1981 specified in subsection (4C) below[^M_F_6e815cf8-7923-4167-87c4-7e03538e05b8] *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_3cc23b3f-1507-4e33-f6b8-1330b391084e] be enforceable as *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_3cc23b3f-1507-4e33-f6b8-1330b391084e] an order made by that court to which that Article applies[^M_F_f3165fb1-bae8-4b5a-d7f0-b4e1fae5000e] *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_3cc23b3f-1507-4e33-f6b8-1330b391084e]
+
+(4A)[^M_F_06f56361-485e-464b-fca5-f1682fa0366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4B)[^M_F_06f56361-485e-464b-fca5-f1682fa0366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4C)[^c14183011] Article 98 of the Magistrates’ Courts (Northern Ireland) Order 1981 (enforcement of sums adjudged to be paid) shall have effect—
+
+- (a) as if for paragraph (7)(a) there were substituted the following paragraph—
+
+  > - (a) if the court is of the opinion that it is appropriate—
+  >   - (i) to make an attachment of earnings order; or
+  >   - (ii) to exercise its power under paragraph (8C)(b)
+- (b) as if for paragraphs (8B) to (8D) there were substituted the following paragraphs—
+
+  > (8B) Upon the appearance of a person or proof of service of the summons on him as mentioned in paragraph (4) for the enforcement of an order to which this Article applies, the court or resident magistrate may vary the order by exercising one of the powers under paragraph (8C).
+  >
+  > (8C) The powers mentioned in paragraph (8B) are—
+  >
+  > - (a) the power to order that payments under the order be made directly to the collecting officer;
+  > - (b) the power to order that payments under the order be made to the collecting officer, by such method of payment falling within Article 85(7) (standing order, etc.) as may be specified;
+  > - (c) the power to make an attachment of earnings order under Part IX to secure payments under the order.
+  >
+  > (8D) In deciding which of the powers under paragraph (8C) is to be exercised, the court or, as the case may be, a resident magistrate shall have regard to any representations made by the debtor (within the meaning of Article 85).
+  >
+  > (8E) Paragraph (5) of Article 85 (power of court to require debtor to open account) shall apply for the purposes of paragraph (8C) as it applies for the purposes of that Article but as if for sub-paragraph (a) there were substituted—
+  >
+  > > - (a) the court proposes to exercise its power under sub-paragraph (b) of Article 98(8C), and
+
+(5) A magistrates' court in Northern Ireland[^key-84911cbb87e378c6049f69bc02e3e637] by which an order is enforceable by virtue of this section, and the officers thereof, shall take all such steps for enforcing or facilitating the enforcement of[^c14182881] the order as may be prescribed.
+
+(6) In any proceedings for or with respect to the enforcement of an order which is for the time being registered in any court under this Part of this Act a certificate of arrears sent to the prescribed officer of the court shall be evidence of the facts stated therein.
+
+(7) Subject to subsection (8) below, sums of money payable under a registered order shall be payable in accordance with the order as from the date on which they are required to be paid under the provisions of the order[^c14182891].
+
+(8) The court having power under section 7 of this Act to confirm a provisional order may, if it decides to confirm the order, direct that the sums of money payable under it shall be deemed to have been payable in accordance with the order as from the date on which they are required to be paid under the provisions of the order or such later date[^c14182901], as it may specify; and subject to any such direction, a maintenance order registered under the said section 7 shall be treated as if it had been made in the form in which it was confirmed and as if it had never been a provisional order.
+
+(9) In the application of this section to Scotland—
+
+- (a) subsections (2) to (5) shall be omitted; and
+- (b) in subsection (6), for the word “evidence” there shall be substituted the words “sufficient evidence”.
+
+(10)[^c14182911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Variation and revocation of maintenance order registered in United Kingdom court.[^c15932551][^key-721569b9c92779de02ba2bbf01f6ea05]
+
+(1) Subject to the provisions of this section, the registering court—
+
+- (a) shall have the like power, on an application made by the payer or payee under a registered order, to vary or revoke the order as if it had been made by the registering court as if that court had had jurisdiction to make it; and
+- (b) shall have power to vary or revoke a registered order by a provisional order.
+
+(1ZA)[^key-d2bd1a49dd1b65552c1c0490935061f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1ZB)[^c14183381] Where the registering court is a court of summary jurisdiction in Northern Ireland, Article 86 of the Magistrates’ Courts (Northern Ireland) Order 1981 (revocation, variation etc., of orders for periodical payment) shall have effect in relation to the registered order—
+
+- (za)[^c14183391] as if in paragraph (1) for the words “by order on complaint,” there were substituted “on an application being made, by order”;
+- (a) as if in paragraph (3) for the words “sub-paragraphs (a) to (d) of Article 85(3)” there were substituted “ paragraph (3A) ” and after that paragraph there were inserted—
+
+  > (3A) The powers of the court are—
+  >
+  > - (a) the power to order that payments under the order be made directly to the collecting officer;
+  > - (b) the power to order that payments under the order be made to the collecting officer by such method of payment falling within Article 85(7) (standing order, etc.) as may be specified;
+  > - (c) the power to make an attachment of earnings order under Part IX to secure payments under the order.
+
+  ;
+- (b) as if in paragraph (4) for sub-paragraph (b) there were substituted—
+
+  > - (b) payments under the order are required to be made to the collecting officer by any method of payment falling within Article 85(7) (standing order, etc.)
+
+  ; [^key-1aaf274556f057eedd052755eb81faf1]...
+- (c) as if in paragraph (5) for the words “to the collecting officer” there were substituted “ in accordance with sub-paragraph (a) of paragraph (3A) ” ;
+- (d) as if in paragraph (7), sub-paragraph (c) and the word “and” immediately preceding it were omitted;
+- (e) as if in paragraph (8) for the words “sub-paragraphs (a) to (d) of Article 85(3)” there were substituted “ paragraph (3A) ” ;
+- (f) as if for paragraphs (9) and (10) there were substituted the following paragraphs—
+
+  > (9) In deciding, for the purposes of paragraphs (3) and (8), which of the powers under paragraph (3A) it is to exercise, the court shall have regard to any representations made by the debtor.
+  >
+  > (10) Paragraph (5) of Article 85 (power of court to require debtor to open account) shall apply for the purposes of paragraph (3A) as it applies for the purposes of that Article but as if for sub-paragraph (a) there were substituted—
+  >
+  > > - (a) the court proposes to exercise its power under sub-paragraph (b) of Article 86(3A),and
+
+(1A)[^c14183291] The powers conferred by subsection (1) above are not exercisable in relation to so much of a registered order as provides for the payment of a lump sum.
+
+(1B)[^c14183301] The registering court shall not vary or revoke a registered order if neither the payer nor the payee under the order is resident in the United Kingdom.
+
+(2) The registering court shall not vary a registered order otherwise than by a provisional order unless—
+
+- (a) both the payer and the payee under the registered order are for the time being residing in the United Kingdom; or
+- (b) the application is made by the payee under the registered order; or
+- (c) the variation consists of a reduction in the rate of the payments under the registered order and is made solely on the ground that there has been a change in the financial circumstances of the payer since the registered order was made or, in the case of an order registered under section 7 of this Act, since the registered order was confirmed, and the courts in the reciprocating country in which the maintenance order in question was made do not have power, according to the law in force in that country, to confirm provisional orders varying maintenance orders.
+
+(3) The registering court shall not revoke a registered order otherwise than by a provisional order unless both the payer and the payee under the registered order are for the time being residing in the United Kingdom.
+
+(4) On an application for the revocation of a registered order the registering court shall, unless both the payer and the payee under the registered order are for the time being residing in the United Kingdom, apply the law applied by the reciprocating country in which the registered order was made; but where by virtue of this subsection the registering court is required to apply that law, that court may make a provisional order if it has reason to believe that the ground on which the application is made is a ground on which the order could be revoked according to the law applied by the reciprocating country, notwithstanding that it has not been established that it is such a ground.
+
+(5) Where the registering court makes a provisional order varying or revoking a registered order the prescribed officer of the court shall send in the prescribed manner to the court in the reciprocating country which made the registered order a certified copy of the provisional order together with a document, authenticated in the prescribed manner, setting out or summarising the evidence given in the proceedings.
+
+(6) Where a certified copy of a provisional order made by a court in a reciprocating country, being an order varying a registered order, together with a document, duly authenticated, setting out or summarising the evidence given in the proceedings in which the provisional order was made, is received by the registering court, that court may confirm the order either without alteration or with such alterations as it thinks reasonable or refuse to confirm the order.
+
+(7) For the purpose of determining whether a provisional order should be confirmed under subsection (6) above the court shall proceed as if an application for the variation of the registered order had been made to it.
+
+(8) Where a registered order has been varied by an order (including a provisional order which has been confirmed) made by a court in the United Kingdom or by a competent court in a reciprocating country, the registered order shall, as from the date on which under the provisions of the order the variation is to take effect[^c14183401], have effect as varied by that order and, where that order was a provisional order, as if that order had been made in the form in which it was confirmed and as if it had never been a provisional order.
+
+(9) Where a registered order has been revoked by an order made by a court in the United Kingdom or by a competent court in a reciprocating country, including a provisional order made by the first-mentioned court which has been confirmed by a competent court in a reciprocating country, the registered order shall, as from the date on which under the provisions of the order the revocation is to take effect[^c14183411], be deemed to have ceased to have effect except as respects any arrears due under the registered order at that date.
+
+(10) The prescribed officer of the registering court shall register in the prescribed manner any order varying a registered order other than a provisional order which is not confirmed.
+
+(11) In the application of this section to Scotland—
+
+- (a) after subsection (4) there shall be inserted the following subsection:—
+
+  > (4A) It shall not be necessary for the payer under a registered order to intimate to any person the making by him of an application for a provisional order varying or revoking the registered order.
+
+  ; and
+- (b) for subsection (7) there shall be substituted the following subsection:—
+
+  > (7) Where a certified copy of a provisional order varying a registered order is received by the registering court as mentioned in subsection (6) above, the prescribed officer of that court shall intimate to the payer under the registered order, in the prescribed manner, that the provisional order has been received as aforesaid and that, unless the payer enters appearance within the prescribed period, the court will confirm the provisional order under this section.
+
+#### 10. Cancellation of registration and transfer of order.[^key-721569b9c92779de02ba2bbf01f6ea05][^c15932561]
+
+(1) Where—
+
+- (a) a registered order is revoked by an order made by the registering court; or
+- (b) a registered order is revoked by a provisional order made by that court which has been confirmed by a court in a reciprocating country and notice of the confirmation is received by the registering court; or
+- (c) a registered order is revoked by an order made by a court in such a country and notice of the revocation is received by the registering court,
+
+the prescribed officer of the registering court shall cancel the registration; but any arrears due under the registered order at the date when its registration is cancelled by virtue of this subsection shall continue to be recoverable as if the registration had not been cancelled.
+
+(2) Where the prescribed officer of the registering court is of opinion that the payer under a registered order, is not residing within the jurisdiction of that court and has no assets within that jurisdiction against which the order can be effectively enforced,[^c14183421] he shall cancel the registration of the order and, subject to subsection (3) below, shall send the certified copy of the order to the Secretary of State.
+
+(3) Where the prescribed officer of the registering court, being a magistrates’ court in Northern Ireland[^key-aeaedd618dcd1e00d5422b51d7e83885], is of opinion that the payer is residing or has assets[^c14183431] within the jurisdiction of another magistrates’ court in Northern Ireland[^key-6d5937f764a4bafd37caca2fe3921e62], he shall transfer the order to that other court by sending the certified copy of the order to the prescribed officer of that other court.
+
+(4) On the transfer of an order under subsection (3) above the prescribed officer of the court to which it is transferred shall, subject to subsection (6) below, register the order in the prescribed manner in that court.
+
+(5) Where the certified copy of an order is received by the Secretary of State under this section and it appears to him that the payer under the order is residing or has assets[^c14183441] in the United Kingdom, he shall transfer the order to the appropriate court by sending the certified copy of the order together with the related documents to the prescribed officer of the appropriate court and, subject to subsection (6) below, that officer shall register the order in the prescribed manner in that court.
+
+(6) Before registering an order in pursuance of subsection (4) or (5) above an officer of a court shall take such steps as he thinks fit for the purpose of ascertaining whether the payer is residing or has assets[^c14183451] within the jurisdiction of the court, and if after taking those steps he is satisfied that the payer is not residing and has no assets within the jurisdiction of the court[^c14183461] he shall send the certified copy of the order to the Secretary of State.
+
+(7) The officer of a court who is required by any of the foregoing provisions of this section to send to the Secretary of State or to the prescribed officer of another court the certified copy of an order shall send with that copy—
+
+- (a) a certificate of arrears signed by him;
+- (b) a statement giving such information as he possesses as to the whereabouts of the payer and the nature and location of his assets[^c14183471]; and
+- (c) any relevant documents in his possession relating to the case.
+
+(8) In the application of this section to Scotland—
+
+- (a) in subsection (2), for the words “within the jurisdiction of that court” there shall be substituted the words “in Scotland”; and
+- (b) subsections (3) and (4) shall be omitted.
+
+#### 11. Steps to be taken by Secretary of State where payer under certain orders is not residing in the United Kingdom.[^key-721569b9c92779de02ba2bbf01f6ea05][^key-aa6eabcdc387342a2bfc1f8052780f6e][^key-980327fc05c2983853d66389fb2c44ab][^key-3dd9b79ed9eebb4426f3e4865e4ab296][^key-6dfdff3e017abf2f548868ce3211304b][^key-4b25d428a3d57b8bc8fe11d7a30c4506][^c15932571]
+
+(1) If at any time[^c14183481] it appears to the Secretary of State that the payer under a maintenance order, a certified copy of which has been received by him from a reciprocating country, is not residing and has no assets in the United Kingdom,[^c14183491] he shall send to the responsible authority in that country or, if having regard to all the circumstances he thinks it proper to do so, to the responsible authority in another reciprocating country—
+
+- (a) the certified copy of the order in question and a certified copy of any order varying that order;
+- (b) if the order has at any time been a registered order, a certificate of arrears signed by the prescribed officer;
+- (c) a statement giving such information as the Secretary of State possesses as to the whereabouts of the payer and the nature and location of his assets[^c14183501]; and
+- (d) any other relevant documents in his possession relating to the case.
+
+(2) Where the documents mentioned in subsection (1) above are sent to the responsible authority in a reciprocating country other than that in which the order in question was made, the Secretary of State shall inform the responsible authority in the reciprocating country in which that order was made of what he has done.
+
+### Appeals
+
+#### 12. Appeals.[^key-721569b9c92779de02ba2bbf01f6ea05][^key-b3e77c3e81da19cd520fc167218e1677][^c15932581][^c15932441]
+
+(1) No appeal shall lie from a provisional order made in pursuance of any provision of this Part of this Act by a court in the United Kingdom.
+
+(2) Where in pursuance of any such provision any such court confirms or refuses to confirm a provisional order made by a court in a reciprocating country, whether a maintenance order or an order varying or revoking a maintenance order, the payer or payee under the maintenance order shall have the like right of appeal (if any) from the confirmation of, or refusal to confirm, the provisional order as he would have if that order were not a provisional order and the court which confirmed or refused to confirm it had made or, as the case may be, refused to make it.
+
+(3) Where in pursuance of any such provision any such court makes, or refuses to make, an order varying or revoking a maintenance order made by a court in a reciprocating country, then, subject to subsection (1) above, the payer or payee under the maintenance order shall have the like right of appeal (if any) from that order or from the refusal to make it as he would have if the maintenance order had been made by the first-mentioned court.
+
+(4) Nothing in this section (except subsection (1)) shall be construed as affecting any right of appeal conferred by any other enactment.
+
+### Evidence
+
+#### 13. Admissibility of evidence given in reciprocating country.[^key-721569b9c92779de02ba2bbf01f6ea05][^key-b3e77c3e81da19cd520fc167218e1677][^c15932591][^c15932451]
+
+(1) A statement contained in—
+
+- (a) a document, duly authenticated, which purports to set out or summarise evidence given in proceedings in a court in a reciprocating country; or
+- (b) a document, duly authenticated, which purports to set out or summarise evidence taken in such a country for the purpose of proceedings in a court in the United Kingdom under this Part of this Act, whether in response to a request made by such a court or otherwise; or
+- (c) a document, duly authenticated, which purports to have been received in evidence in proceedings in a court in such a country or to be a copy of a document so received,
+
+shall in any proceedings in a court in the United Kingdom relating to a maintenance order to which this Part of this Act applies be admissible as evidence of any fact stated therein to the same extent as oral evidence of that fact is admissible in those proceedings.
+
+(2) A document purporting to set out or summarise evidence given as mentioned in subsection (1)(a) above, or taken as mentioned in subsection (1)(b) above, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by the judge, magistrate or other person before whom the evidence was given, or, as the case may be, by whom it was taken, to be the original document containing or recording, or, as the case may be, summarising, that evidence or a true copy of that document.
+
+(3) A document purporting to have been received in evidence as mentioned in subsection (1)(c) above, or to be a copy of a document so received, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by a judge, magistrate or officer of the court in question to have been, or to be a true copy of a document which has been, so received.
+
+(4) It shall not be necessary in any such proceedings to prove the signature or official position of the person appearing to have given such a certificate.
+
+(5) Nothing in this section shall prejudice the admission in evidence of any document which is admissible in evidence apart from this section.
+
+#### 14. Obtaining of evidence needed for purpose of certain proceedings.[^key-721569b9c92779de02ba2bbf01f6ea05][^key-b3e77c3e81da19cd520fc167218e1677][^c15932601][^c15932461]
+
+(1) Where for the purpose of any proceedings in a court in a reciprocating country relating to a maintenance order to which this Part of this Act applies a request is made by or on behalf of that court for the taking in the United Kingdom of the evidence of a person residing therein relating to matters specified in the request, such court in the United Kingdom as may be prescribed shall have power to take that evidence and, after giving notice of the time and place at which the evidence is to be taken to such persons and in such manner as it thinks fit, shall take the evidence in such manner as may be prescribed.
+
+Evidence taken in compliance with such a request shall be sent in the prescribed manner by the prescribed officer of the court to the court in the reciprocating country by or on behalf of which the request was made.
+
+(2) Where any person, not being the payer or the payee under the maintenance order to which the proceedings in question relate, is required by virtue of this section to give evidence before a court in the United Kingdom, the court may order that there shall be paid—
+
+- (a) if the court is a court in England, Wales or Scotland, out of moneys provided by Parliament; and
+- (b) if the court is a court in Northern Ireland, out of moneys provided by the Northern Ireland Assembly[^key-3ade7c55382e8840878895c7172e6820],
+
+such sums as appear to the court reasonably sufficient to compensate that person for the expense, trouble or loss of time properly incurred in or incidental to his attendance.
+
+(3) Articles 118(1), (3) and (4), 119 and 120 of the Magistrates' Courts (Northern Ireland) Order 1981[^key-593cc680be825f374544bb709fa16859] (which provide for compelling the attendance of witnesses, etc.) shall apply in relation to a magistrates’ court in Northern Ireland[^key-5e737e00c880d4081c959618177ef685] having power under subsection (1) above to take the evidence of any person as if the proceedings in the court in a reciprocating country for the purpose of which a request for the taking of the evidence has been made were proceedings in the magistrates’ court and had been begun by complaint.
+
+(4) Paragraphs 71 and 73 of Schedule 1 to the [^c14183541]Sheriff Courts (Scotland) Act 1907 (which provide for the citation of witnesses, etc.) shall apply in relation to a sheriff having power under subsection (1) above to take the evidence of any person as if the proceedings in the court in a reciprocating country for the purpose of which a request for the taking of the evidence has been made were proceedings in the sheriff court.
+
+(5) A court in the United Kingdom may for the purpose of any proceedings in that court under this Part of this Act relating to a maintenance order to which this Part of this Act applies request a court in a reciprocating country to take or provide evidence relating to such matters as may be specified in the request and may remit the case to that court for that purpose.
+
+(6)[^key-571eff952b588012f598f45f882b9d7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Order, etc. made abroad need not be proved.[^key-721569b9c92779de02ba2bbf01f6ea05][^key-b3e77c3e81da19cd520fc167218e1677][^c15932611][^c15932471]
+
+For the purposes of this Part of this Act, unless the contrary is shown—
+
+- (a) any order made by a court in a reciprocating country purporting to bear the seal of that court or to be signed by any person in his capacity as a judge, magistrate or officer of the court, shall be deemed without further proof to have been duly sealed or, as the case may be, to have been signed by that person;
+- (b) the person by whom the order was signed shall be deemed without further proof to have been a judge, magistrate or officer, as the case may be, of that court when he signed it and, in the case of an officer, to have been authorised to sign it; and
+- (c) a document purporting to be a certified copy of an order made by a court in a reciprocating country shall be deemed without further proof to be such a copy.
+
+### Supplemental
+
+#### 16. Payment of sums under orders made abroad: conversion of currency.[^key-721569b9c92779de02ba2bbf01f6ea05][^key-aa6eabcdc387342a2bfc1f8052780f6e][^key-980327fc05c2983853d66389fb2c44ab][^key-3dd9b79ed9eebb4426f3e4865e4ab296][^key-6dfdff3e017abf2f548868ce3211304b][^key-4b25d428a3d57b8bc8fe11d7a30c4506][^c15932621]
+
+(1) Payment of sums due under a registered order shall, while the order is registered in a court in England, Wales or Northern Ireland, be made in such manner and to such person as may be prescribed.
+
+(2) Where the sums required to be paid under a registered order are expressed in a currency other than the currency of the United Kingdom, then, as from the relevant date, the order shall be treated as if it were an order requiring the payment of such sums in the currency of the United Kingdom as, on the basis of the rate of exchange prevailing at that date, are equivalent to the sums so required to be paid.
+
+(3) Where the sum specified in any statement, being a statement of the amount of any arrears due under a maintenance order made by a court in a reciprocating country, is expressed in a currency other than the currency of the United Kingdom, that sum shall be deemed to be such sum in the currency of the United Kingdom as, on the basis of the rate of exchange prevailing at the relevant date, is equivalent to the sum so specified.
+
+(4) For the purposes of this section a written certificate purporting to be signed by an officer of any bank in the United Kingdom certifying that a specified rate of exchange prevailed between currencies at a specified date and that at such rate a specified sum in the currency of the United Kingdom is equivalent to a specified sum in another specified currency shall be evidence of the rate of exchange so prevailing on that date and of the equivalent sums in terms of the respective currencies.
+
+(5) In this section “**the relevant date**” means—
+
+- (a) in relation to a registered order or to a statement of arrears due under a maintenance order made by a court in a reciprocating country, the date on which the order first becomes a registered order (if earlier) the date on which it is confirmed by a court in the United Kingdom;
+- (b) in relation to a registered order which has been varied, the date on which the last order varying that order is registered in a court in the United Kingdom or (if earlier) the date on which the last order varying that order is confirmed by such a court.
+
+(6) In the application of this section to Scotland:—
+
+- (a) subsection (1) shall not apply;
+- (b) in subsection (4), for the word “evidence” there shall be substituted the words “sufficient evidence”.
+
+#### 17. Proceedings in the family court in England and Wales or in magistrates’ courts in Northern Ireland[^c15987701][^key-721569b9c92779de02ba2bbf01f6ea05][^key-43367d31448d2c37f1f878ac70799b98][^c15932631][^key-e13ef451bfef76350ddaf02c4de2cd03]
+
+(1)—(3)[^c14183711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-ef997016343157a17126515db1382d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^c14183721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5A)[^c14183741] Where the respondent to an application for the variation or revocation of—
+
+- (a) a maintenance order made by the family court[^key-560bd2e4b1118cb41a68b304b95591ce], being an order to which section 5 of this Act applies; or
+- (b) a registered order which is registered in the family court,
+
+is residing in a reciprocating country, the family court shall have jurisdiction to hear the application (where it would not have such jurisdiction apart from this subsection) if it would have had jurisdiction to hear it had the respondent been habitually resident[^key-8e5ccf389579fdd7395f9710636c1321] in England and Wales.
+
+(6)[^c14183751] Where the respondent to an application for the variation or revocation of—
+
+- (a) a maintenance order made by a magistrates’ court in Northern Ireland, being an order to which section 5 of this Act applies; or
+- (b) a registered order which is registered in such a court,
+
+is residing in a reciprocating country, a magistrates’ court in Northern Ireland shall have jurisdiction to hear the application (where it would not have jurisdiction apart from this subsection) if it would have had jurisdiction to hear it had the respondent been habitually resident[^key-b8b82b9dc2c18a6c7cf117a36efae5cf] in Northern Ireland.
+
+(7) Where the respondent[^c14183761] to an application[^c14183771] for the variation or revocation—
+
+- (a) of a maintenance order made by the family court in England and Wales or a magistrates' court in Northern Ireland[^key-f6ffbb307f5a878fc1958b0a02a3f790], being an order to which section 5 of this Act applies; or
+- (b) of a registered order registered in the family court in England and Wales or a magistrates' court in Northern Ireland,
+
+does not appear at the time and place appointed for the hearing of the application, but the court is satisfied that the respondent is residing in a reciprocating country, the court may proceed to hear and determine the application at the time and place appointed for the hearing or for any adjourned hearing in like manner as if the respondent had appeared at that time and place.
+
+(7A)[^c14183821] In the application of this section to Northern Ireland, in subsection (7)—
+
+- (a) for the word “respondent”, in each place where it occurs, there shall be substituted “defendant”; and
+- (b) for the words “an application” and “the application”, in each place where they occur, there shall be substituted “a complaint” and “the complaint” respectively.
+
+(8)[^c14183831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18. Rules of court[^key-721569b9c92779de02ba2bbf01f6ea05][^key-f7f59bd49a65d76d4ea63ea6a054547d][^c15932641][^c15932481][^key-75284af1dc4cb59c71f525911d73e626]
+
+(A1)[^key-ca9b3913cf383fd275da6229e576c4bd] Rules of court may make provision with respect to the matters that would be mentioned in any of paragraphs (b), (c), (e) and (f) of subsection (1) if references in those paragraphs to a magistrates' court, or to magistrates' courts, were references to the family court.
+
+(1) The matters referred to in subsections (A1) and (2) are—[^key-fe0a370457bd356c31cf49ced78b1ff8]
+
+- (a) the circumstances in which anything authorised or required by this Part of this Act to be done by, to or before a magistrates’ court acting in a particular[^key-227d015ba73f1a6cae8b09ec4d674ad6] petty sessions district[^key-51b4a542688ff82dd6115a7a7046b021] or by, to or before an officer of that court may be done by, to or before a magistrates’ court acting in such other petty sessions district as the rules may provide or by, to or before an officer of that court;
+- (b) the orders made, or other things done, by a magistrates’ court, or an officer of such a court, under this Part of this Act, or by a court in a reciprocating country, notice of which is to be given to such persons as the rules may provide and the manner in which such notice shall be given;
+- (c) the cases and manner in which courts in reciprocating countries are to be informed of orders made, or other things done, by a magistrates’ court under this Part of this Act;
+- (d) the cases and manner in which a justices’ clerk may take evidence needed for the purpose of proceedings in a court in a reciprocating country relating to a maintenance order to which this Part of this Act applies;
+- (e) the circumstances and manner in which cases may be remitted by magistrates’ courts to courts in reciprocating countries;
+- (f) the circumstances and manner in which magistrates’ courts may for the purposes of this Part of this Act communicate with courts in reciprocating countries.
+
+(1A)[^c14183931] For the purpose of giving effect to this Part of this Act, rules of court[^key-7d92bf430ae52e4ff53bceb8af7a7943] may make, in relation to any proceedings brought under or by virtue of this Part of this Act, any provision not covered by subsection (A1)[^key-d4c7535fb28832ee2412a274bba03921] above which—
+
+- (a) falls within subsection (2) of section 93 of the Children Act 1989, and
+- (b) may be made in relation to relevant proceedings under that section.
+
+(2) Rules with respect to the matters mentioned in subsection (1) above (other than paragraph (a))[^key-624b0c5aabc4f8cc6744be889360f5ec] may be made in accordance with Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981[^c14183941] in relation to proceedings or matters in magistrates’ courts in Northern Ireland under this Part of this Act.
+
+(2A)[^c14183951] For the purpose of giving effect to this Part of this Act, rules made in accordance with Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981 may make, in relation to any proceedings brought under or by virtue of this Part of this Act, any provision not covered by subsection (2) above which—
+
+- (a) falls within paragraph (2) of Article 165 of the Children (Northern Ireland) Order 1995, and
+- (b) may be made in relation to relevant proceedings under that Article.
+
+#### 19. Rules for sheriff court.[^key-721569b9c92779de02ba2bbf01f6ea05][^key-aa6eabcdc387342a2bfc1f8052780f6e][^key-980327fc05c2983853d66389fb2c44ab][^key-3dd9b79ed9eebb4426f3e4865e4ab296][^key-6dfdff3e017abf2f548868ce3211304b][^key-4b25d428a3d57b8bc8fe11d7a30c4506][^c15932651]
+
+Without prejudice to the generality of the powers conferred on the Court of Session by section 32 of the [^c14183961]Sheriff Courts (Scotland) Act 1971 to regulate by act of sederunt the procedure of the sheriff court, the said powers shall include power—
+
+- (a) to prescribe the cases and manner in which courts in by the sheriff, or an officer of the sheriff court, under this Part of this Act, or by a court in a reciprocating country, notice of which is to be given to such persons as the act of sederunt may provide and the manner in which such notice shall be given;
+- (b) to provide that evidence needed for the purpose of proceedings in a court in a reciprocating country relating to a maintenance order to which this Part of this Act applies may, in such cases and manner as the act of sederunt may provide, be taken by a sheriff clerk or sheriff clerk depute;
+- (c) to prescribe the cases and manner in which courts in reciprocating countries are to be informed of decrees granted, or other things done, by the sheriff under this Part of this Act;
+- (d) to prescribe the circumstances and manner in which cases may be remitted by the sheriff to courts in reciprocating countries;
+- (e) to prescribe the circumstances and manner in which the sheriff may for the purposes of this Part of this Act communicate with courts in reciprocating countries.
+
+#### 20. Restriction on enforcement of arrears under maintenance order registered in Scotland.[^key-721569b9c92779de02ba2bbf01f6ea05][^key-aa6eabcdc387342a2bfc1f8052780f6e][^key-980327fc05c2983853d66389fb2c44ab][^key-3dd9b79ed9eebb4426f3e4865e4ab296][^key-6dfdff3e017abf2f548868ce3211304b][^key-4b25d428a3d57b8bc8fe11d7a30c4506][^c15932661]
+
+Where a maintenance order is for the time being registered in the sheriff court under this Part of this Act, a person shall not be entitled, except with the leave of the sheriff, to enforce, whether by diligence or otherwise, the payment of any arrears due under the order, if either—
+
+- (a) the sheriff has made a provisional order under section 9 of this Act revoking the said maintenance order and the arrears accrued after the making of the said provisional order, or
+- (b) the arrears accrued before the commencement of this Part of this Act;
+
+and on any application for leave to enforce the payment of any such arrears, the sheriff may refuse leave, or may grant leave subject to such restrictions and conditions (including conditions as to the allowing of time for payment or the making of payment by instalments) as he thinks appropriate, or may remit the payment of such arrears or of any part thereof.
+
+#### 21. Interpretation of Part I.[^key-721569b9c92779de02ba2bbf01f6ea05][^key-d84ae20f127b983817807330153393d4][^c15932671][^c15932491]
+
+(1) In this Part of this Act—
+
+- “**affiliation order**” means an order (however described) adjudging, finding or declaring a person to be the father of a child, whether or not it also provides for the maintenance of the child;
+- “**the appropriate court**”—[^key-816e400828c41ce2103cbca20ca82b62]
+  - (a) in relation to a person residing or having assets[^c14184091] in England and Wales means the family court; and[^key-060c52de3db131e0b6ace09c4e25e304]
+  - (b) in relation to a person residing or having assets in Northern Ireland means a magistrates’ court, and in relation to a person residing or having assets in Scotland means a sheriff court[^c14184111], within the jurisdiction of which that person is residing or has assets[^c14184121];
+- “**certificate of arrears**”, in relation to a maintenance order, means a certificate certifying that the sum specified in the certificate is to the best of the information or belief of the officer giving the certificate the amount of the arrears due under the order at the date of the certificate or, as the case may be, that to the best of his information or belief there are no arrears due thereunder at that date;
+- “**certified copy**”, in relation to an order of a court, means a copy of the order certified by the proper officer of the court to be a true copy;
+- “**court**” includes any tribunal or person having power to make, confirm, enforce, vary or revoke a maintenance order;
+- [^c14184131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**maintenance order**” means an order (however described) of any of the following descriptions, that is to say—
+  - (a) an order (including an affiliation order or order consequent upon an affiliation order) which provides for the payment of a lump sum or the making of periodical payments[^c14184141] towards the maintenance of any person, being a person whom the person liable to make payments under the order is, according to the law applied in the place where the order was made, liable to maintain;
+  - (aa) an order which has been made in Scotland, on or after the granting of a decree of divorce, for the payment of a periodical allowance by one party to the marriage to the other party;[^c14184151] and
+  - (c) an affiliation order or order consequent upon an affiliation order, being an order which provides for the payment by a person adjudged, found or declared to be a child’s father of expenses incidental to the child’s birth or, where the child has died, of his funeral expenses,
+
+  and, in the case of a maintenance order which has been varied, means that order as varied;
+
+- “order”, as respects Scotland, includes any interlocutor, and any decree or provision contained in an interlocutor;
+- “**payee**”, in relation to a maintenance order, means the person entitled to the payments for which the order provides;
+- “**payer**”, in relation to a maintenance order, means the person liable to make payments under the order;
+- “**prescribed**”, in relation to a magistrates’ court [^key-87e1542f5508b0b865043f4b1ed625fc]... in Northern Ireland, means prescribed [^key-9dba03fd4b837b7e164adf58de4ae5c1]... by rules made in accordance with Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981[^c14184181], [^key-8deee3d0caa1eb3a43f9f18fb9f97e5e]... and in relation to any other court means prescribed by rules of court;
+- “**provisional order**” means (according to the context)—
+- (a) an order made by a court in the United Kingdom which is provisional only and has no effect unless and until confirmed, with or without alteration, by a competent court in a reciprocating country; or
+- (b) an order made by a court in a reciprocating country which is provisional only and has no effect unless and until confirmed, with or without alteration, by a court in the United Kingdom having power under this Part of this Act to confirm it;
+
+- “**reciprocating country**” has the meaning assigned to it by section 1 of this Act;
+- “**registered order**” means a maintenance order which is for the time being registered in a court in the United Kingdom under this Part of this Act;
+- “**registering court**”, in relation to a registered order, means the court in which that order is for the time being registered under this Part of this Act;
+- “**the responsible authority**”, in relation to a reciprocating country, means any person who in that country has functions similar to those of the Secretary of State under this Part of this Act.
+- “[^c14184191]**revoke**” and “**revocation**” include discharge.
+
+(2) For the purposes of this Part of this Act an order shall be taken to be a maintenance order so far (but only so far) as it relates to the payment of a lump sum or the making of periodical payments[^c14184201] as mentioned in paragraph (a) of the definition of “**maintenance order**” in subsection (1) above , to the payment of a periodical allowance as mentioned in paragraph (aa) of that definition[^c14184211], or to the payment by a person adjudged, found or declared to be a child’s father of any such expenses as are mentioned in paragraph (b) of that definition.
+
+(3) Any reference in this Part of this Act to the payment of money for the maintenance of a child shall be construed as including a reference to the payment of money for the child’s education.
+
+### Amendments, repeals and transitional provisions
+
+#### 22. Amendments and repeals.[^c14184271]
+
+(1) The enactments mentioned in the Schedule to this Act shall have effect subject to the minor and consequential amendments specified therein.
+
+(2) The following are hereby repealed—
+
+- (a) [^c14184281] the maintenance orders (Facilities for Enforcement) Act 1920;
+- (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14184291]
+- (c) in [^c14184301] the Maintenance Orders Act 1958, section 19 and in section 23(2), the words “section nineteen”;
+- (d)[^c14184311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 23. Maintenance order registered in High Court under the Maintenance Orders etc. Act 1920.
+
+(1) Where a country or territory, being a country or territory to which at the commencement of section 1 of this Act the [^c14184341]Maintenance Orders (Facilities for Enforcement) Act 1920 extended, becomes a reciprocating country, then, if immediately before the Order in Council made under section 12 of that Act extending that Act to that country or territory was revoked any maintenance order made by a court in that country or territory was registered in the High Court or the High Court of Justice in Northern Ireland[^key-62987441a7fa0332f903752a3ebbd62c] under section 1 of that Act, subsection (1A) applies in relation to the order.[^key-61bcf57b402d6d1b9d5ed21975fda661]
+
+(1A) Where the order was at that time registered in the High Court, that court may, on an application by the payer or the payee under the order or of its own motion, transfer the order to the family court, with a view to the order being registered in the family court under this Part of this Act; and where the order was at that time registered in the High Court of Justice in Northern Ireland, that court may, on an application by the payer or the payee under the order or of its own motion, transfer the order to such magistrates’ court in Northern Ireland[^key-ab7a5868b5a332447d5da86190eb92d3] as having regard to the place where the payer is residing and to all the circumstances it thinks most appropriate, with a view to the order being registered in that magistrates’[^key-45af367b7d39dfc6e68ab7c2ec930079] court under this Part of this Act.
+
+(1B)[^key-776024110985f38881cfd593bd0c7088] Where the High Court transfers an order to the family court under this section it shall—
+
+- (a) cause a certified copy of the order to be sent to an officer of the family court, and
+- (b) cancel the registration of the order in the High Court.
+
+(2) Where the High Court of Justice in Northern Ireland[^key-4577db93cfccb86ec34ec901b91553c3] transfers an order to a magistrates’ court under this section it shall—
+
+- (a) cause a certified copy of the order to be sent to the appropriate officer[^c14184351] of that court, and
+- (b) cancel the registration of the order in the High Court.
+
+(3) The [^key-16c3a8752e5d9e9436c74336d5cbfdf4]... officer of the court who receives a certified copy of an order sent to him under this section shall register the order in the prescribed manner in that court.
+
+(4) On registering a maintenance order in a[^key-45a105c4f3ce3ab26e30e11f2ce3b820] court by virtue of this section the officer registering it[^key-c94aa3307f8cdd705c3868699a35304e] shall, if the order is registered in that court under Part I of the [^c14184381]Maintenance Orders Act 1958, cancel that registration.
+
+(5)[^key-56b414de7b8d2cd22c008eebd1dd862d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^c14184391] In this section “**appropriate officer**”, in relation to a magistrates' court in Northern Ireland, means the clerk of the court.[^key-143d32c2a7f32e58cda8c96ffaa5126c]
+
+#### 24. Application of Part I to certain orders and proceedings under the Maintenance Orders etc. Act 1920.
+
+Where Her Majesty proposes by an Order in Council under section 1 of this Act to designate as a reciprocating country a country or territory to which at the commencement of that section the [^c14184401]Maintenance Orders (Facilities for Enforcement) Act 1920 extended, that Order in Council may contain such provisions as Her Majesty considers expedient for the purpose of securing—
+
+- (a) that the provisions of this Part of this Act apply, subject to such modifications as may be specified in the Order, to maintenance orders, or maintenance orders of a specified class—
+  - (i) made by a court in England, Wales or Northern Ireland against a person residing or having assets[^c14184411] in that country or territory, or
+  - (ii) made by a court in that country or territory against a person residing or having assets in England, Wales or Northern Ireland,
+
+  being orders to which immediately before the date of the coming into operation of the Order in Council the said Act of 1920 applied, except any order which immediately before that date is registered in the High Court or the High Court of Justice in Northern Ireland under section 1 of that Act;
+- (b) that any maintenance order, or maintenance order of a specified class, made by a court in that country or territory which has been confirmed by a court in England, Wales or Northern Ireland under section 4 of the said Act of 1920 and is in force immediately before that date is registered under section 7 of this Act;
+- (c) that any proceedings brought under or by virtue of a provision of the said Act of 1920 in a court in England, Wales or Northern Ireland which are pending at that date, being proceedings affecting a person resident in that country or territory, are continued as if they had been brought under or by virtue of the corresponding provision of this Part of this Act.
+
+## Part II — Reciprocal Enforcement of Claims for the Recovery of Maintenance[^c14184441][^key-eb11452df137bcbb31458c17f555c2b0][^key-2c8a2dae208c19b1f9aba148bf2885ab]
+
+### Convention countries
+
+#### 25. Convention countries.
+
+(1) Her Majesty may by Order in Council declare that any country or territory specified in the Order, being a country or territory outside the United Kingdom to which the Maintenance Convention extends, is a convention country for the purposes of this Part of this Act.
+
+(2) In this section “**the Maintenance Convention**” means the United Nations Convention on the Recovery Abroad of Maintenance done at New York on 20th June 1956.
+
+### Application by person in the United Kingdom for recovery, etc. of maintenance in convention country
+
+#### 26. Application by person in United Kingdom for recovery, etc. of maintenance in convention country.
+
+(1) Where a person in the United Kingdom (“the applicant”) claims to be entitled to recover in a convention country maintenance from another person, and that other person is for the time being subject to the jurisdiction of that country, the applicant may apply to the Secretary of State, in accordance with the provisions of this section, to have his claim for the recovery of maintenance from that other person transmitted to that country.
+
+(2) Where the applicant seeks to vary any provision made in a convention country for the payment by any other person of maintenance to the applicant, and that other person is for the time being subject to the jurisdiction of that country, the applicant may apply to the Secretary of State, in accordance with the provisions of this section, to have his application for the variation of that provision transmitted to that country.
+
+(3) An application to the Secretary of State under subsection (1) or (2) above shall be made through the appropriate officer, and that officer shall assist the applicant in completing an application which will comply with the requirements of the law applied by the convention country and shall send the application to the Secretary of State, together with such other documents, if any, as are required by that law.
+
+(3A)[^c14184471] An application under subsection (1) or (2) above, for the purpose of recovering maintenance from a person in a specified State within the meaning of the Recovery of Maintenance (United States of America) Order 1993, and a certificate signed by a justice of the peace or, where the applicant is residing in Scotland, the sheriff, to the effect that the application sets forthfacts from which it may be determined that the repondent owes a duty to maintain the applicant and any other person named in the application and that a court in the specified State may obtain jurisdiction of the respondent or his property, shall be registered in the court in the prescribed manner by the appropriate officer or, in Scotland, by the sheriff clerk in the Maintenance Orders (Reciprocal Enforcement) Act 1972 register.
+
+(4) On receiving an application from the appropriate officer the Secretary of State shall transmit it, together with any accompanying documents, to the appropriate authority in the convention country, unless he is satisfied that the application is not made in good faith or that it does not comply with the requirements of the law applied by that country.
+
+(5) The Secretary of State may request the appropriate officer to obtain from the court of which he is an officer such information relating to the application as may be specified in the request, and it shall be the duty of the court to furnish the Secretary of State with the information he requires.
+
+(6)[^c14184481] The appropriate officer for the purposes of this section is—
+
+- (a) where the applicant is residing in England and Wales, an officer of the family court[^key-1801802d993f7dc99ab83e3aa12a43e7] ;
+- (b) where the applicant is residing in Northern Ireland, the clerk of petty sessions[^key-09e3e8e3083a6058d9d7d4d7668af499] ; and
+- (c) where the applicant is residing in Scotland, the sheriff clerk or sheriff clerk depute of the sheriff court within the jurisdiction of which the applicant is residing.
+
+### Application by person in convention country for recovery of maintenance in England, Wales or Northern Ireland
+
+#### 27A. Applications for recovery of maintenance in England and Wales.[^c14185071]
+
+(1) This section applies to any application which—
+
+- (a) is received by the Lord Chancellor from the appropriate authority in a convention country, and
+- (b) is an application by a person in that country for the recovery of maintenance from another person who is for the time being residing in England and Wales.
+
+(2) Subject to sections 27B to 28B of this Act, an application to which this section applies shall be treated for the purposes of any enactment as if it were an application for a maintenance order under the relevant Act, made at the time when the application was received by the Lord Chancellor.
+
+This subsection does not confer jurisdiction on a court in England and Wales that it would not otherwise have.[^key-dd85d39788ffc9ee66daac8281c52457]
+
+(3) In the case of an application for maintenance for a child (or children) alone, the relevant Act is the Children Act 1989.
+
+(4) In any other case, the relevant Act is the Domestic Proceedings and Magistrates’ Courts Act 1978.
+
+(5) In subsection (3) above, “**child**” means the same as in Schedule 1 to the Children Act 1989.
+
+#### 27B. Sending application to the family court.[^c14185111][^key-b26f4a134cc706452e6ccc89332d43a4]
+
+(1) On receipt of an application to which section 27A of this Act applies, the Lord Chancellor shall send it, together with any accompanying documents, to the family court[^key-028471b6f4208be9437d3fd2f643d7b6].
+
+(2) If[^key-e9ffa98f60e3a1d42f32b405281ae47e] notice of the hearing of the application by the family court[^key-4881ec0f0d0f0a38f6d38857336c0633] cannot be duly served on the respondent, the family[^key-00bb3c735b78976a077dccb318bacf95] court shall return the application and the accompanying documents to the Lord Chancellor with a statement giving such information as the family court[^key-c1ae6864f68fe0d3817def07981838e5] possesses as to the whereabouts of the respondent.
+
+(3) If the application is returned to the Lord Chancellor under subsection (2) above, then, unless he is satisfied that the respondent is not residing in the United Kingdom, he shall deal with it in accordance with subsection (1) above or section 28D(1)[^c14185141] of this Act or send it to the Secretary of State to be dealt with in accordance with section 31 of this Act (as the circumstances of the case require).
+
+(4)[^key-a64a140d34b1ff3e6e4880765ffe5c16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-a64a140d34b1ff3e6e4880765ffe5c16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 27C. Applications to which section 27A applies: general.[^c14185191]
+
+(1) This section applies where the family[^key-df69d6fa6f42a2ada1242c466fab699e] court makes an order on an application to which section 27A of this Act applies.
+
+(2)[^key-377574f4edc3ccf5c3a04575208779a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The court may[^key-03bc26666bb102ebe9328d8ff05b34db], at the same time that it makes the order, exercise one of its powers under subsection (4) below.
+
+(4) Those powers are—
+
+- (a) the power to order that payments under the order be made directly to the court[^key-25e7aab08ab8d5416658232fcdab441f];
+- (b) the power to order that payments under the order be made to the court, by such method of payment falling within section 1(5) of the Maintenance Enforcement Act 1991[^key-f6cc65fc680fd9490012e071ebdffa35] (standing order, etc.) as may be specified;
+- (c) the power to make an attachment of earnings order under the Attachment of Earnings Act 1971 to secure payments under the order.
+
+(5) In deciding whether to exercise any of its[^key-702070818aa023a0bc904c5a756b74f7] powers under subsection (4) above [^key-5ee81caca7f8e380ca6f857caec489e9]... , the court shall have regard to any representations made by the person liable to make payments under the order.
+
+(6) Subsection (6) of section 1 of the Maintenance Enforcement Act 1991[^key-e6a455a361b6b91fed8f63c7af76a15b] (power of court to require debtor to open account) shall apply for the purposes of subsection (4) above as it applies for the purposes of that section, but as if for paragraph (a) there were substituted—
+
+- ”(a) the court proposes to exercise its power under paragraph (b) of section 27C(4) of the Maintenance Orders (Reciprocal Enforcement) Act 1972, and”.
+
+(7) The [^key-924027e829fab15fba3afac67a1aac4c]... court shall register the order in the prescribed manner [^key-26feffb90d2241c8a6839550ac14a16c]... .
+
+#### 28. Applications by spouses under the Domestic Proceedings and Magistrates’ Courts Act 1978.[^c14185381]
+
+(1) On[^key-52a5f4b1fee5f85b4238560377f4b790] hearing an application which by virtue of section 27A of this Act is to be treated as if it were an application for a maintenance order under the Domestic Proceedings and Magistrates’ Courts Act 1978, the family court[^key-28dd04bb3d4d5af663f5401801cfa750] may make any order on the application which it has power to make under section 2 or 19(1) of that Act.
+
+(2) Part I of that Act shall apply in relation to such an application, and to any order made on such an application, with the following modifications—
+
+- (a) sections 6 to 8, 16 to 18, 20ZA, 25, 26[^key-b66119f8a8f683972ff4fc08fc9a01d2] and 28(2) shall be omitted,
+- (b) [^key-a396bca49ddf12baf9fb84c2d6a5e248]... and
+- (c) section 32(2) shall be omitted.
+
+(3) Subsections (1) and (2) above do not apply where section 28A of this Act applies.
+
+#### 28A. Applications by former spouses under the Domestic Proceedings and Magistrates’ Courts Act 1978.[^c14185651]
+
+(1) This section applies where in the case of any application which by virtue of section 27A of this Act is to be treated as if it were an application for a maintenance order under the Domestic Proceedings and Magistrates’ Courts Act 1978 (“the 1978 Act”)—
+
+- (a) the applicant and respondent were formerly married,
+- (b) their marriage was dissolved or annulled in a country or territory outside the United Kingdom by a divorce or annulment which is recognised as valid by the law of England and Wales,
+- (c) an order for the payment of maintenance for the benefit of the applicant or a child of the family has, by reason of the divorce or annulment, been made by a court in a convention country, and
+- (d) where the order for the payment of maintenance was made by a court of a different country from that in which the divorce or annulment was obtained, either the applicant or the respondent was resident in the convention country whose court made that order at the time that order was applied for.
+
+(2) The family court shall have jurisdiction to hear the application[^key-d2cd970d2f7cd2a848e813e851756ec8] notwithstanding the dissolution or annulment of the marriage.
+
+(3) If the family court[^key-fc40dcd668ebae2ecab55c62745a16a9] is satisfied that the respondent has failed to comply with the provisions of any order such as is mentioned in subsection (1)(c) above, it may (subject to subsections (4) and (5) below) make any order which it has power to make under section 2 or 19(1) of the 1978 Act.
+
+(4) The court shall not make an order for the making of periodical payments for the benefit of the applicant or any child of the family unless the order made in the convention country provides for the making of periodical payments for the benefit of the applicant or, as the case may be, that child.
+
+(5) The court shall not make an order for the payment of a lump sum for the benefit of the applicant or any child of the family unless the order made in the convention country provides for the payment of a lump sum to the applicant or, as the case may be, to that child.
+
+(6) Part I of the 1978 Act shall apply in relation to the application, and to any order made on the application, with the following modifications—
+
+- (a) section 1 shall be omitted,
+- (b) for the reference in section 2(1) to any ground mentioned in section 1 of that Act there shall be substituted a reference to non-compliance with any such order as is mentioned in subsection (1)(c) of this section,
+- (c) for the references in section 3(2) and (3) to the occurrence of the conduct which is alleged as the ground of the application there shall be substituted references to the breakdown of the marriage,
+- (d) the reference in section 4(2) to the subsequent dissolution or annulment of the marriage of the parties affected by the order shall be omitted,
+- (e) sections 6 to 8, 16 to 18, 20ZA 25, 26 and 28[^key-34f5a5a9f08f4bcd41e61b82e6758678] shall be omitted,
+- (f) [^key-2ab41877e42a7d4d1be1242597bb8fec]... and
+- (g) section 32(2) shall be omitted.
+
+(7) A divorce or annulment obtained in a country or territory outside the United Kingdom shall be presumed for the purposes of this section to be one the validity of which is recognised by the law of England and Wales, unless the contrary is proved by the respondent.
+
+(8) In this section, “**child of the family**” has the meaning given in section 88 of the 1978 Act.
+
+#### 28B. Applications under the Children Act 1989.[^key-84d0c92c95631b0d01c4e0751bd46ab0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 28C. Applications for recovery of maintenance in Northern Ireland.[^c14185681]
+
+(1) This section applies to any application which—
+
+- (a) is received by the Lord Chancellor from the appropriate authority in a convention country, and
+- (b) is an application by a person in that country for the recovery of maintenance from another person who is for the time being residing in Northern Ireland.
+
+(2) Subject to sections 28D to 29B of this Act, an application to which this section applies shall be treated for the purposes of any enactment as if it were an application for a maintenance order under the relevant Order, made at the time when the application was received by the Lord Chancellor.
+
+This subsection does not confer jurisdiction on a court in Northern Ireland that it would not otherwise have.[^key-8e9295018b3f06c7a802b2766809014c]
+
+(3) In the case of an application for maintenance for a child (or children) alone, the relevant Order is the Children (Northern Ireland) Order 1995.
+
+(4) In any other case, the relevant Order is the Domestic Proceedings (Northern Ireland) Order 1980.
+
+(5) In subsection (3) above, “child” means the same as in Schedule 1 to the Children (Northern Ireland) Order 1995.
+
+#### 28D. Sending application to the appropriate magistrates’ court.[^c14185691]
+
+(1) On receipt of an application to which section 28C of this Act applies, the Lord Chancellor shall send it, together with any accompanying documents, to the clerk of a magistrates’ court [^key-6e7edf18cce39914943feb2c8bdcc7f6]....
+
+(2) Subject to subsection (4) below, if notice of the hearing of the application by a magistrates’ court having jurisdiction to hear it cannot be duly served on the respondent, the clerk of the court shall return the application and the accompanying documents to the Lord Chancellor with a statement giving such information as he possesses as to the whereabouts of the respondent.
+
+(3) If the application is returned to the Lord Chancellor under subsection (2) above, then, unless he is satisfied that the respondent is not residing in the United Kingdom, he shall deal with it in accordance with subsection (1) above or section 27B of this Act or send it to the Secretary of State to be dealt with in accordance with section 31 of this Act (as the circumstances of the case require).
+
+(4)[^key-6b97e0088802a2b0d02420f20e5dbc2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-6b97e0088802a2b0d02420f20e5dbc2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 28E. Applications to which section 28C applies: general.[^c14185701]
+
+(1) This section applies where a magistrates’ court makes an order on an application to which section 28C of this Act applies.
+
+(2) Article 85 of the Magistrates’ Courts (Northern Ireland) Order 1981 (“the 1981 Order”) (orders for periodical payment: means of payment) shall not apply.
+
+(3) The court shall, at the same time that it makes the order, exercise one of its powers under subsection (4) below.
+
+(4) Those powers are—
+
+- (a) the power to order that payments under the order be made directly to the collecting officer;
+- (b) the power to order that payments under the order be made to the collecting officer, by such method of payment falling within Article 85(7) of the 1981 Order (standing order, etc.) as may be specified;
+- (c) the power to make an attachment of earnings order under Part IX of the 1981 Order to secure payments under the order;
+
+and in this subsection “collecting officer” means the officer mentioned in Article 85(4) of the 1981 Order.
+
+(5) In deciding which of the powers under subsection (4) above it is to exercise, the court shall have regard to any representations made by the person liable to make payments under the order.
+
+(6) Paragraph (5) of Article 85 of the 1981 Order (power of court to require debtor to open account) shall apply for the purposes of subsection (4) above as it applies for the purposes of that Article, but as if for sub-paragraph (a) there were substituted—
+
+- (a) the court proposes to exercise its power under paragraph (b) of section 28E(4) of the Maintenance Orders (Reciprocal Enforcement) Act 1972, and.
+
+(7) The clerk of the court shall register the order in the prescribed manner in the court.
+
+#### 29. Applications by spouses under the Domestic Proceedings (Northern Ireland) Order 1980.[^c14185731]
+
+(1) The magistrates’ court hearing an application which by virtue of section 28C of this Act is to be treated as if it were an application for a maintenance order under the Domestic Proceedings (Northern Ireland) Order 1980 may make any order on the application which it has power to make under Article 4 or 20(1) of that Order.
+
+(2) That Order shall apply in relation to such an application, and to any order made on such an application, with the following omissions—
+
+- (a) Articles 8 to 10, 18, 19, 21, 22A, 25(1), 27 to 29 and 30(1A),
+- (b) in Article 32(1) the words “either the applicant or”, and
+- (c) Article 36(1).
+
+(3) Subsections (1) and (2) above do not apply where section 29A of this Act applies.
+
+#### 29A. Applications by former spouses under the Domestic Proceedings (Northern Ireland) Order 1980.[^c14185961]
+
+(1) This section applies where in the case of any application which by virtue of section 28C of this Act is to be treated as if it were an application for a maintenance order under the Domestic Proceedings (Northern Ireland) Order 1980 (“the 1980 Order”)—
+
+- (a) the applicant and respondent were formerly married,
+- (b) their marriage was dissolved or annulled in a country or territory outside the United Kingdom by a divorce or annulment which is recognised as valid by the law of Northern Ireland;
+- (c) an order for the payment of maintenance for the benefit of the applicant or a child of the family has, by reason of the divorce or annulment, been made by a court in a convention country, and
+- (d) where the order for the payment of maintenance was made by a court of a different country from that in which the divorce or annulment was obtained, either the applicant or the respondent was resident in the convention country whose court made that order at the time that order was applied for.
+
+(2) Any magistrates’ court that would have jurisdiction to hear the application under Article 32 of the 1980 Order (as modified in accordance with subsection (6) below) if the applicant and the respondent were still married shall have jurisdiction to hear it notwithstanding the dissolution or annulment of the marriage.
+
+(3) If the magistrates’ court hearing the application is satisfied that the respondent has failed to comply with the provisions of any order such as is mentioned in subsection (1)(c) above, it may (subject to subsections (4) and (5) below) make any order which it has power to make under Article 4 or 20(1) of the 1980 Order.
+
+(4) The court shall not make an order for the making of periodical payments for the benefit of the applicant or any child of the family unless the order made in the convention country provides for the making of periodical payments for the benefit of the applicant or, as the case may be, that child.
+
+(5) The court shall not make an order for the payment of a lump sum for the benefit of the applicant or any child of the family unless the order made in the convention country provides for the payment of a lump sum to the applicant or, as the case may be, to that child.
+
+(6) The 1980 Order shall apply in relation to the application, and to any order made on the application, with the following modifications—
+
+- (a) Article 3 shall be omitted,
+- (b) for the reference in Article 4(1) to any ground mentioned in Article 3 there shall be substituted a reference to non-compliance with any such order as is mentioned in subsection (1)(c) of this section,
+- (c) for the references in Article 5(2) and (3) to the occurrence of the conduct which is alleged as the ground of the application there shall be substituted references to the breakdown of the marriage,
+- (d) the reference in Article 6(2) to the subsequent dissolution or annulment of the marriage of the parties affected by the order shall be omitted,
+- (e) Articles 8 to 10, 18, 19, 21, 22A, 25(1) and 27 to 30 shall be omitted,
+- (f) in Article 32(1), the words “either the applicant or” shall be omitted, and
+- (g) Article 36(1) shall be omitted.
+
+(7) A divorce or annulment obtained in a country or territory outside the United Kingdom shall be presumed for the purposes of this section to be one the validity of which is recognised by the law of Northern Ireland, unless the contrary is proved by the respondent.
+
+(8) In this section “child of the family” has the meaning given in Article 2(2) of the 1980 Order.
+
+#### 29B. Applications under the Children (Northern Ireland) Order 1995.[^c14185971]
+
+No provision of an order made under Schedule 7 to the Children (Northern Ireland) Order 1995 requiring or enabling a court to transfer proceedings from a magistrates’ court to a county court or the High Court shall apply in relation to an application which by virtue of section 28C of this Act is to be treated as if it were an application for a maintenance order under that Order.
+
+#### 30. Further provisions relating to recovery in England, Wales and Northern Ireland of maintenance for children
+
+.
+
+(1)[^c14186361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c14186361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^c14186381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^c14186381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^c14186381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^c14186361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Application by person in convention country for recovery of maintenance in Scotland
+
+#### 31. Application by person in convention country for recovery of maintenance in Scotland.
+
+(1) Where the Secretary of State receives from the appropriate authority in a convention country an application by a person in that country for the recovery of maintenance from another person who is for the time being residing in Scotland, he shall send the application, together with any accompanying documents, to the Secretary of the Law Society of Scotland who shall send the application and any accompanying documents to a solicitor practising in the sheriff court within the jurisdiction of which that other person resides or to such other solicitor practising in Scotland as appears to the Secretary to be appropriate, for the purposes of enabling the solicitor to take[^c14186541] on behalf of the applicant such steps as appear to the solicitor appropriate in respect of the application.
+
+(1A)[^c14186551] Proceedings arising out of an application under subsection (1) above shall be treated as an action for aliment within the meaning of the Family Law (Scotland) Act 1985 and, subject to subsections (1B) to (1D) below, the provisions of that Act relating to aliment shall apply in relation to claims for maintenance in such proceedings and decrees therein.
+
+(1B) Without prejudice to subsection (2) below, any proceedings mentioned in subsection (1A) above shall be brought in the sheriff court.
+
+(1C) In its application to proceedings mentioned in subsection (1A) above, section 5 of the said Act of 1985 (power to vary or recall decree of aliment) shall be subject to section 34(1) of this Act.
+
+(1D) Where an application under subsection (1) above is for the recovery of maintenance from a person who is a former spouse of the applicant—
+
+- (a) then, for the purposes of the said Act of 1985, there shall be assumed to be an obligation of aliment within the meaning of that Act owed by the former spouse to the applicant;
+- (b) section 2(7) and (8) of that Act shall not apply; and
+- (c) an order for payment of maintenance in proceedings arising out of the application—
+  - (i) shall, if subsisting at the death of the party making the payment, continue to operate against that party’s estate, but without prejudice to the power of the court to vary or recall the order; and
+  - (ii) shall cease to have effect on the remarriage or death of the party receiving payment, except in relation to any arrears due under it
+
+(2) Where in any proceedings arising out of such an application as aforesaid the sheriff ,or (on appeal or remit) the Court of Session,[^c14186561] makes an order containing a provision requiring the payment of maintenance, the order shall be registered forthwith in the prescribed manner in the appropriate sheriff court by the sheriff clerk or sheriff clerk depute of that sheriff court; and where an order of the Court of Session varies or revokes a registered order of the sheriff, the said sheriff clerk or sheriff clerk depute shall amend the register accordingly.[^c14186571]
+
+(2A)In subsection (2) above “[^c14186581]**the appropriate sheriff court**” means the sheriff court making the order or (where the order is an order of the Court of Session) from which the remit or appeal has come.
+
+(3) Without prejudice to the generality of the powers conferred on the Court of Session by section 32 of the [^c14186591]Sheriff Courts (Scotland) Act 1971 to regulate by act of sederunt the procedure of the sheriff court, the said powers shall include power to prescribe the decrees granted, or other things done, by the sheriff, or an officer of the sheriff court, under this Part of this Act, notice of which is to be given to such persons as the act of sederunt may provide and the manner in which such notice shall be given.
+
+(4)[^c14186601] Where an application under subsection (1) above is for the recovery of maintenance from a person who is a former spouse of the applicant an order containing a provision requiring the payment of such maintenance for the benefit of the applicant shall not be made in respect of that application unless—
+
+- (i) the marriage between the applicant and the said former spouse has been dissolved by a divorce which has been granted in a convention country[^c14186611] obtained in a convention country or territory outside the United Kingdom and which is recognised as valid by the law of Scotland;
+- (ii)[^c14186631] an order for the payment of maintenance for the benefit of the applicant has, in or by reason of the divorce proceedings in the convention country, been made by the court which granted the divorce or by any other court in that country; and
+- (ii) an order for the payment of maintenance for the benefit of the applicant as a divorced person has, in or by reason of, or subsequent to, the divorce proceedings, been made by a court in a convention country;
+- (iia) in a case where the order mentioned in paragraph (ii) above was made by a court of a different country from that in which the divorce was obtained, either the applicant or the said former spouse was resident in that different country at the time the application for the order so mentioned was made; and
+- (iii) the court making the order under this section is satisfied that the former spouse of the applicant has failed to comply with the order mentioned in paragraph (ii) above.
+
+(4A)[^c14186671] In subsection (4)(i) above the reference to the dissolution of a marriage by divorce shall be construed as including a reference to the annulment of a purported marriage and any reference to a marriage, a divorce, a divorced person, a former spouse or divorce proceedings shall be construed accordingly.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14186681]
+
+(6) Section 8 of the [^c14186691]Law Reform (Miscellaneous Provisions) (Scotland) Act 1966 (which relates to the variation and recall by the sheriff of certain orders made by the Court of Session) shall not apply to an order of the Court of Session registered under subsection (2) above.
+
+### Transfer, enforcement, variation and revocation of registered orders
+
+#### 32. Transfer of orders.
+
+(1) Where the prescribed officer of the registering court is of opinion that the payer under a registered order has ceased to reside within the jurisdiction of that court, then, unless he is of opinion that the payer has ceased to reside in the United Kingdom, he shall, subject to subsection (2) below, send a certified copy of the order and the related documents to the Secretary of State, and if he is of opinion that the payer has ceased to reside in the United Kingdom he shall send a notice to that effect to the Secretary of State.
+
+(2) Where the clerk[^key-313dfe933590bee6aeccbebb53d6fe0c] of the registering court, being a magistrates’ court in Northern Ireland[^key-e723fe3eb67cdba5d1e38659a8102fe8], is of opinion that the payer is residing within the jurisdiction of another magistrates’ court in Northern Ireland[^key-b5b4a3e18b68b57f6cf628ab3d57c4dd], he shall transfer the order to that other court by sending a certified copy of the order and the related documents to the clerk of that other court and, subject to subsection (4) below, that clerk[^key-9095d236ddcddd7cb70efb683c2781f1] shall register the order in the prescribed manner in that court.
+
+(2A)[^key-3abbfaac4089d7e334857c1ff34ade2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where a certified copy of an order is received by the Secretary of State under this section and it appears to him that the payer under the order is still residing in the United Kingdom, he shall transfer the order to the appropriate court by sending the copy of the order and the related documents to the prescribed officer of the appropriate court and, subject to subsection (4) below, that officer shall register the order in the prescribed manner in that court.
+
+(4) Before registering an order in pursuance of subsection (2) or (3) above an officer of a court shall take such steps as he thinks fit for the purpose of ascertaining whether the payer under the order is residing within the jurisdiction of the court, and if after taking those steps he is satisfied that the payer is not so residing he shall return the certified copy of the order and the related documents to the officer of the court or the Secretary of State, as the case may be, from whom he received them, together with a statement giving such information as he possesses as to the whereabouts of the payer.
+
+(5) Where a certified copy of an order is received by the Secretary of State under this section and it appears to him that the payer under the order has ceased to reside in the United Kingdom he shall return the copy of the order and the related documents to the registering court.
+
+(6) An officer of a court on registering an order in the court in pursuance of subsection (2) or (3) above shall give notice of the registration in the prescribed manner to the prescribed officer of the court in which immediately before its registration under this section the order was registered.
+
+(7) The officer to whom notice is given under subsection (6) above shall on receiving the notice cancel the registration of the order in that court.
+
+(7A)[^c14186761] The Secretary of State on receiving notice under subsection (6) above shall send a copy of the registered order and of the related documents to the Secretary of the Law Society of Scotland who shall send the copy of the order and of the related documents to a solicitor practising in the registering court or to such other solicitor practising in Scotland as appears to the Secretary to be appropriate for the purpose of enabling the solicitor to take, on behalf of the person entitled to the payments for which the order provides, such steps as appear to the solicitor appropriate to enforce the order.
+
+(7B) Where an order is registered in the sheriff court by virtue of subsection (3) above, any provision of the order by virtue of which the payments for which the order provides are required to be made through or to any officer or person on behalf of the person entitled thereto shall be of no effect so long as the order is so registered.
+
+(8) In this section—
+
+- “**the appropriate court**” —[^key-c45bd11d5ee09a796dd46a4594048906]
+  - (a) in relation to a person residing in England and Wales, means the family court; and[^key-7c5aa37a3af28451498e284963e6f9b3]
+  - (b) in relation to a person residing in Northern Ireland, means a magistrates’ court within the jurisdiction of which that person is residing;
+- “**certificate of arrears**” and “**certified copy**” have the same meanings respectively as in Part I of this Act;
+- “**payer**”, in relation to a registered order, means the person liable to make payments under the order; and
+- “**related documents**” means—
+- (a) the application on which the order was made;
+- (b) a certificate of arrears signed by the prescribed officer of the registering court;
+- (c) a statement giving such information as he possesses as to the whereabouts of the payer; and
+- (d) any relevant documents in his possession relating to the case.
+
+(9) In the application of this section to Scotland—
+
+- (a) in subsection (1), for the words “within the jurisdiction of that court” there shall be substituted the words “in Scotland”;
+- (b) subsection (2) shall be omitted;
+- (c) in subsection (4), for the words “the officer of the court or the Secretary of State, as the case may be, from whom he received them” there shall be substituted the words “the Secretary of State”;
+- (d) at the end of subsection (6) there shall be inserted the words “and to the Secretary of State”;
+- (e)[^c14186771] after subsection (7) there shall be inserted the following subsections:—
+
+  > (7A) The Secretary of State on receiving notice under subsection (6) above shall send a copy of the registered order and of the related documents to the secretary of the committee mentioned in section 31(1) of this Act, and the secretary shall thereupon send the copy of the order and of the related documents to a solicitor practising in the registering court, with a view to the solicitor’s taking on behalf of the person entitled to the payments for which the order provides such steps as appear to the solicitor appropriate to enforce the order.
+  >
+  > (7B) Where an order is registered in the sheriff court by virtue of subsection (3) above, any provision of the order by virtue of which the payments for which the order provides are required to be made through or to any officer or person on behalf of the person entitled thereto shall be of no effect so long as the order is so registered
+
+  ;
+- (f) “**appropriate court**”, in relation to a person residing in Scotland, means the sheriff court within the jurisdiction of which that person is residing.
+
+#### 33. Enforcement of orders.
+
+(1)[^key-ab00c7926bfa52ff6a274910f916c0d8] Subject to subsection (2) below, a registered order which is registered in a court other than the court by which the order was made may be enforced as if it had been made by the registering court and as if that court had had jurisdiction to make it; and proceedings for or with respect to the enforcement of any such order may be taken in accordance with this subsection but not otherwise.
+
+(2) Subsection (1) above does not apply to an order which is for the time being registered [^key-6ea1e8c258a44b89a25586f31298ef48]... in the High Court of Justice in Northern Ireland under Part II of the [^c14186981]Maintenance and Affiliation Orders Act (Northern Ireland) 1966.
+
+(3) An order which by virtue of subsection (1) above is enforceable by a magistrates’ court *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_309ea7b8-7157-4a6e-be81-6569b4d1d086] shall, subject to the modifications of Article 98 of the Magistrates’ Courts (Northern Ireland) Order 1981 (enforcement of sums adjudged to be paid and complaint for arrears) specified in subsection (4C) of section 8 of this Act, be enforceable[^M_F_3a2d13bd-439c-4681-8313-19a07fec91ad] *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_309ea7b8-7157-4a6e-be81-6569b4d1d086] as *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_309ea7b8-7157-4a6e-be81-6569b4d1d086] an order made by that court to which that Article applies[^M_F_d5c37a96-90cc-4f2c-8f46-e9754e4f6b0a] *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_309ea7b8-7157-4a6e-be81-6569b4d1d086]. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_309ea7b8-7157-4a6e-be81-6569b4d1d086]
+
+(3A)[^key-812d6ec2e65b06dbe5f98b21e0151eb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3B)[^c14187091] Where, by virtue of being registered in the court of summary jurisdiction in Northern Ireland[^key-7ab3b1989cb098d4a5f27f1a807f780f] in which it was made, a registered order is enforceable as a maintenance order made by a court of summary jurisdiction, Article 98 of the Magistrates’ Courts (Northern Ireland) Order 1981 shall have effect subject to the modifications specified in subsection (4C) of section 8 of this Act.
+
+(4) A magistrates’ court in Northern Ireland[^key-572c30c7714948e26257093983b633aa] in which an order is registered under this Part of this Act, and the officers thereof, shall take all such steps for enforcing the order as may be prescribed.
+
+(5) In any proceedings for or with respect to the enforcement of an order which is for the time being registered in any court under this Part of this Act a certificate of arrears sent under section 32 of this Act to the prescribed officer of the court shall be evidence of the facts stated therein.
+
+(6) Part II of the [^c14187031]Maintenance Orders Act 1950 (enforcement of certain orders throughout the United Kingdom) shall not apply to a registered order.
+
+(7) In the application of this section to Scotland—
+
+- (a) subsections (2) to (4) shall be omitted; and
+- (b) in subsection (5), for the word “evidence” there shall be substituted the words “sufficient evidence”.
+
+#### 34. Variation and revocation of orders.
+
+(1) Subject to[^c14187311] subsection (3B) below and[^c14187321] section 34B of this Act Subject to[^c14187331] [^key-704944ae203fb32ddedd56804eaf8a32]... section 34A of this Act where a registered order is registered in a court other than the court by which the order was made, the registering court shall have the like power to vary or revoke the order as if it had been made by the registering court and as if that court had had jurisdiction to make it; and no court other than the registering court shall have power to vary or revoke a registered order.
+
+(2) Where the registering court revokes a registered order it shall cancel the registration.
+
+(3) Where the Secretary of State receives from the appropriate authority in a convention country an application by a person in that country for the variation of a registered order, he shall—[^key-956b5b623b55eb44a9862883773bc0d6]
+
+- (a) if the registering court is the family court, send the application together with any documents accompanying it to that court;
+- (b) if the registering court is a magistrates' court in Northern Ireland, send the application together with any documents accompanying it to the clerk of that court.
+
+(3A)[^key-7543be11d1fdf81cf47ff32195354a3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3B)[^c14187371] Where paragraph (1) of Article 86 of the Magistrates’ Courts (Northern Ireland) Order 1981 (revocation, variation etc. of orders for periodical payment) applies in relation to a registered order, that paragraph shall have effect as if for the words “by order on complaint,” there were substituted “on an application being made, by order”.
+
+(4) Where a court in a part of the United Kingdom makes, or refuses to make, an order varying or revoking a registered order made by a court in another part thereof, any person shall have the like right of appeal (if any) against the order or refusal as he would have if the registered order had been made by the first-mentioned court.
+
+(5) In the application of this section to Scotland—
+
+- (a)[^c14187381] the words “**and no court other than the registering court shall have power to vary or revoke a registered order** ” in subsection (1) above are subject to any power of the Court of Session on appeal; and
+- (b)[^c14187391] for subsection (3) there shall be substituted the following subsection—
+
+  > (3) Where the Secretary of State receives from the appropriate authority in a convention country an application by a person in that country for the variation of a registered order, he shall, if the registering court is a sheriff court, send the application, together with any documents accompanying it, to the Secretary of the Law Society of Scotland who shall send the application and any accompanying documents to a solicitor practising in the registering court or to such other solicitor practising in Scotland as appears to the Secretary to be appropriate, for the purpose of enabling the solicitor to take on behalf of the applicant such steps as appear to the solicitor appropriate in respect of the application.
+
+#### 34A. Variation of orders by the family court in England and Wales.[^c14187471][^key-314d8cd49aeb66ea29d428275eeee39b]
+
+*Extent: E+W*
+
+(1) The provisions of this section shall have effect in relation to a registered order which is registered in the family court[^key-124f9eb11e455e08b75fa72e913b4290] (whether or not the court made the order) in place of the following enactments, that is to say—
+
+- (a)[^key-1447ee2d6b8a03e0772472777c25e8e6] section 1(3A) of the Maintenance Enforcement Act 1991;
+- (b) section 20ZA of the [^c14187491] Domestic Proceedings and Magistrates’ Courts Act 1978; and
+- (c) paragraph 6A of Schedule 1 to the [^c14187501] Children Act 1989.
+
+(2) The power of the family court[^key-aae99cc2c50f20f57c6549dd1c71e6e6] to vary a registered order shall include power, if the court is satisfied that payment has not been made in accordance with the order, to exercise one of its powers under subsection (3) below.
+
+(3) The powers of the court are—
+
+- (a) the power to order that payments under the order be made directly to the court[^key-5527daa1cca940fc187b55b9f70a64a4];
+- (b) the power to order that payments under the order be made to the court, by such method of payment falling within section 1(5) of the Maintenance Enforcement Act 1991[^key-67b0c5b69656e54442b801e80642edfe] (standing order, etc.) as may be specified;
+- (c) the power to make an attachment of earnings order under the [^c14187531]Attachment of Earnings Act 1971 to secure payments under the order.
+
+(4)[^key-993e117a38b19ba97785da17f71ea4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-993e117a38b19ba97785da17f71ea4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-993e117a38b19ba97785da17f71ea4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-993e117a38b19ba97785da17f71ea4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-993e117a38b19ba97785da17f71ea4fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In deciding, for the purposes of subsection (2)[^key-e74195ac5e2a231c3c5b7a855d109142] above, whether to exercise any of its[^key-c946cde13e263f1e5eb625f0a2d6bca8] powers under subsection (3) above [^key-1b0b2de53143eccac5774c55e279c334]... , the court shall have regard to any representations made by the debtor or the creditor[^key-1ab1b4a248788dd398c2160760cc1ff5].
+
+(10) Subsection (6) of section 1 of the Maintenance Enforcement Act 1991[^key-a75ede274fdca50fda5be892dc7b4ea9] (power of court to require debtor to open account) shall apply for the purposes of subsection (3) above as it applies for the purposes of that section but as if for paragraph (a) there were substituted—
+
+- (a) the court proposes to exercise its power under paragraph (b) of section 34A(3) of the [^c14187561]Maintenance Orders (Reciprocal Enforcement) Act 1972, and
+
+(11) In this section “**creditor**” and “**debtor**” have the same meaning as they have in section 1 of the Maintenance Enforcement Act 1991[^key-cebb553c9b38a11380cedf8e6a1d3d2a].
+
+#### 34B. Variation of orders by courts of summary jurisdiction in Northern Ireland.[^c14187571]
+
+(1) The provisions of this section shall have effect in relation to a registered order which is registered in a court of summary jurisdiction in Northern Ireland (whether or not the court made the order) in place of the following enactments, that is to say—
+
+- (a) paragraphs (3) to (11) of Article 86 of the Magistrates’ Courts (Northern Ireland) Order 1981; and
+- (b) Article 22A of the Domestic Proceedings (Northern Ireland) Order 1980.
+
+(2) The power of a court of summary jurisdiction in Northern Ireland to vary a registered order shall include power, if the court is satisfied that payment has not been made in accordance with the order, to exercise one of its powers under subsection (3) below.
+
+(3) The powers of the court are—
+
+- (a) the power to order that payments under the order be made directly to the collecting officer;
+- (b) the power to order that payments under the order be made to the collecting officer by such method of payment falling within Article 85(7) of the Magistrates’ Courts (Northern Ireland) Order 1981 (standing order, etc.) as may be specified;
+- (c) the power to make an attachment of earnings order under Part IX of the Order of 1981 to secure payments under the order;
+
+and in this subsection “collecting officer” means the officer mentioned in Article 85(4) of the Order of 1981.
+
+(4) In any case where—
+
+- (a) a registered order is registered in a court of summary jurisdiction in Northern Ireland, and
+- (b) payments under the order are required to be made to the collecting officer in Northern Ireland, by any method of payment falling within Article 85(7) of the Magistrates’ Courts (Northern Ireland) Order 1981 (standing order, etc.),
+
+an interested party may apply in writing to the clerk of petty sessions in which the order is registered for the order to be varied as mentioned in subsection (5) below.
+
+(5) Subject to subsection (8) below, where an application has been made under subsection (4) above, the clerk, after giving written notice (by post or otherwise) of the application to any other interested party and allowing that party, within the period of 14 days beginning with the date of the giving of that notice, and opportunity to make written representations, may vary the order to provide that payments under the order shall be made in accordance with paragraph (a) of subsection (3) above.
+
+(6) The clerk may proceed with an application under subsection (4) above notwithstanding that any such interested party as is referred to in subsection (5) above has not received written notice of the application.
+
+(7) In subsections (4) to (6) above “interested party”, in relation to an order, means the debtor or the creditor.
+
+(8) Where an application has been made under subsection (4) above, the clerk may, if he considers it inappropriate to exercise his power under subsection (5) above, refer the matter to the court which may vary the order by exercising one of its powers under subsection (3) above.
+
+(9) In deciding, for the purposes of subsections (2) and (8) above, which of the powers under subsection (3) above it is to exercise, the court shall have regard to any representations made by the debtor.
+
+(10) Paragraph (5) of Article 85 of the Magistrates’ Courts (Northern Ireland) Order 1981 (power of court to require debtor to open account) shall apply for the purposes of subsection (3) above as it applies for the purposes of that Article but as if for sub-paragraph (a) there were substituted—
+
+> - (a) the court proposes to exercise its power under paragraph (b) of section 34B(3) of the Maintenance Orders (Reciprocal Enforcement) Act 1972, and
+
+#### 35. Further provisions with respect to variation etc. of orders by the family court in England and Wales.[^c14187641][^key-8d7720271c61c7e49c278ab8393396a1]
+
+(1)[^key-49b0d9fad3fa6896e53496d8689c7b2a] Subsection (1A) applies in relation to an application for the variation or revocation of a registered order registered in the family court[^key-5127593683afd780fddb74acd4b937b3] (“the registering court”) made—
+
+- (a) by the person against whom or on whose application the registered order was made, and
+- (b) in circumstances where the person by or against whom the application is made is residing outside England and Wales.
+
+(1A) The registering court has jurisdiction to hear the application even though—
+
+- (a) a party to the application is residing outside England and Wales, [^key-e7a6b23f92f2e9ce53b6228a129145c0]...
+- (b)[^key-e7a6b23f92f2e9ce53b6228a129145c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1B)[^key-9a6bb3c6a731ca620cf71e42bd68074c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) None of the powers of the court [^key-922bd342d9acb2a738d45b30734be55e]... under section 34A of this Act shall be exercisable in relation to such an application.
+
+(3) Where the respondent to an application for the variation or revocation of a registered order which is registered in the family court[^key-749234e674a94153f08139661147e53a] does not appear at the time and place appointed for the hearing of the application, but the court is satisfied—
+
+- (a) that the respondent is residing outside England and Wales, and
+- (b) that the prescribed notice of the making of the application and of the time and place appointed for the hearing has been given to the respondent in the prescribed manner,
+
+the court may proceed to hear and determine the application at the time and place appointed for the hearing or for any adjourned hearing in like manner as if the respondent had appeared at that time and place.
+
+(4)[^key-b26dab4b65987c6331c571c644a1254f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 35A. Further provisions with respect to variation etc. of orders by magistrates’ courts in Northern Ireland.[^c14187671]
+
+(1)[^key-373921ad174e0a0d792a86e8abaddd9e] Subsection (1A) applies in relation to an application for the variation or revocation of a registered order registered in a magistrates’ court in Northern Ireland (“the registering court”) made—
+
+- (a) by the person against whom or on whose application the registered order was made, and
+- (b) in circumstances where the person by or against whom the application is made is residing outside Northern Ireland.
+
+(1A) The registering court has jurisdiction to hear the application even though—
+
+- (a) a party to the application is residing outside England and Wales, and
+- (b) the requirement in Article 32 of the Domestic Proceedings (Northern Ireland) Order 1980, as applied by section 29(2) or 29A(6) of this Act, is not satisfied.
+
+(1B)[^key-886068fd566d9a287cfc3f73333bee0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) None of the powers of the court, or of the clerk, under section 34B of this Act shall be exercisable in relation to such an application.
+
+(3) Where the respondent to an application for the variation or revocation of a registered order which is registered in a magistrates’ court in Northern Ireland does not appear at the time and place appointed for the hearing of the application, but the court is satisfied—
+
+- (a) that the respondent is residing outside Northern Ireland, and
+- (b) that the prescribed notice of the making of the application and of the time and place appointed for the hearing has been given to the respondent in the prescribed manner,
+
+the court may proceed to hear and determine the application at the time and place appointed for the hearing or for any adjourned hearing in like manner as if the respondent had appeared at that time and place.
+
+(4)[^key-b16fd0c5cedc776912430eca77e2bfa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplemental
+
+#### 36. Admissibility of evidence given in convention country.
+
+(A1)[^key-da594c4d40f8f3eead1868f513e5f121] A statement contained in a document mentioned in subsection (1) shall—
+
+- (a) in any proceedings in the family court arising out of an application to which section 27A(1) of this Act applies or an application made by any person for the variation or revocation of a registered order, or
+- (b) in proceedings on appeal from proceedings within paragraph (a),
+
+be admissible as evidence of any fact stated to the same extent as oral evidence of that fact is admissible in those proceedings.
+
+(1) The documents referred to in subsections (A1) and (1A) are—[^key-cb36bc090f1b170a10aedd219ede93ed]
+
+- (a) a document, duly authenticated, which purports to set out or summarise evidence given in proceedings in a court in a convention country; [^key-b897e201df8759cc9ebe4378551ca209]...
+- (b) a document, duly authenticated, which purports to set out or summarise evidence taken in such a country for the purpose of proceedings in a court in the United Kingdom under this Part of this Act, whether in response to a request made on behalf of such a court or otherwise; [^key-b897e201df8759cc9ebe4378551ca209]...
+- (c) a document, duly authenticated, which purports to have been received in evidence in proceedings in a court in such a country, or to be a copy of a document so received,
+
+(1A)[^key-8fa166874b9cb1030c7ba8a172a058ba] A statement contained in a document mentioned in subsection (1) shall, in any proceedings in a magistrates’ court in Northern Ireland[^key-ddd475c598dcd1deda7b2a448111bbca] or in, or remitted from, a[^c14187711] sheriff court arising out of [^key-82533caf5214549339b29dec5c34c720]... an application[^c14187721] to which section 28C(1) of this Act applies[^c14187731], an application received by the Secretary of State as mentioned in section 31(1) of this Act or an application made by any person for the variation or revocation of a registered order or in proceedings on appeal from any such proceedings, be admissible as evidence of any fact stated therein to the same extent as oral evidence of that fact is admissible in those proceedings.
+
+(2) A document purporting to set out or summarise evidence given as mentioned in subsection (1)(a) above, or taken as mentioned in subsection (1)(b) above, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by the judge, magistrate or other person before whom the evidence was given or, as the case may be, by whom it was taken, to be the original document containing or recording, or, as the case may be, summarising, that evidence or a true copy of that document.
+
+(3) A document purporting to have been received in evidence as mentioned in subsection (1)(c) above, or to be a copy of a document so received, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by a judge, magistrate or officer of the court in question to have been, or to be a true copy of a document which has been, so received.
+
+(4) It shall not be necessary in any such proceedings to prove the signature or official position of the person appearing to have given such a certificate.
+
+(5) Nothing in this section shall prejudice the admission in evidence of any document which is admissible in evidence apart from this section.
+
+#### 37. Obtaining of evidence for purpose of proceedings in United Kingdom court.
+
+(1) A court in the United Kingdom may for the purpose of any proceedings in that court under this Part of this Act arising out of an application received by the Secretary of State from a convention country request the Secretary of State to make to the appropriate authority or court in the convention country a request for the taking in that country of the evidence of a person residing therein relating to matters connected with the application.
+
+(2) A request made by a court under this section shall—
+
+- (a) give details of the application in question;
+- (b) state the name and address of the person whose evidence is to be taken; and
+- (c) specify the matters relating to which the evidence of that person is required.
+
+(3) If the Secretary of State is satisfied that a request made to him under this section contains sufficient information to enable the evidence of the person named in the request relating to the matters specified therein to be taken by a court or person in the convention country, he shall transmit the request to the appropriate authority or court in that country.
+
+#### 38. Taking of evidence at request of court in convention country.
+
+(1) Where a request is made to the Secretary of State by or on behalf of a court in a convention country to obtain the evidence of a person residing in the United Kingdom relating to matters connected with an application to which section 26 of this Act applies, the Secretary of State shall request such court, or such officer of a court, as he may determine to take the evidence of that person relating to such matters connected with that application as may be specified in the request.
+
+(2) The court by which or officer by whom a request under subsection (1) above is received from the Secretary of State shall have power to take the evidence and, after giving notice of the time and place at which the evidence is to be taken to such persons and in such manner as it or he thinks fit, shall take the evidence of the person named in the request relating to the matters specified therein in such manner as may be prescribed; and the evidence so taken shall be sent in the prescribed manner by the prescribed officer to the court in the convention country by or on behalf of which the request referred to in subsection (1) above was made.
+
+(3) Where any person, not being the person by whom the application mentioned in subsection (1) above was made, is required by virtue of this section to give evidence before a court in the United Kingdom, the court may order that there shall be paid—
+
+- (a) if the court is a court in England, Wales or Scotland, out of moneys provided by Parliament; and
+- (b) if the court is a court in Northern Ireland, out of moneys provided by the Northern Ireland Assembly[^key-8570f6934e78ae678ca30e67c937aa60],
+
+such sums as appear to the court reasonably sufficient to compensate that person for the expense, trouble or loss of time properly incurred in or incidental to his attendance.
+
+(4) Articles 118(1), (3) and (4), 119 and 120 of the Magistrates' Courts (Northern Ireland) Order 1981[^key-11c71a738ff3e893385d966ef6a81909] (which provide for compelling the attendance of witnesses, etc.) shall apply in relation to a magistrates’ court in Northern Ireland[^key-a48f7d4220237123219f37a0e0cbb5c0] to which a request under subsection (1) above is made as if the application to which the request relates were a complaint to be heard by that court.
+
+(5) Paragraphs 71 and 73 of Schedule 1 to the [^c14187771]Sheriff Courts (Scotland) Act 1907 (which provide for the citation of witnesses, etc.) shall apply in relation to a sheriff court to which a request under subsection (1) above is made as if the application to which the request relates were proceedings in that court.
+
+(6)[^key-9ce5609f39dd9003adc975636f043c0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 38A. Rules of court[^c14187811][^key-6f694d1c0d80ebcb3c209bb8a9362379]
+
+(1) Rules of court[^key-1b02300bd7fd881c1b0679fdb4a7aa83] may make provision with respect to the orders made or other things done by the family court or[^key-a3ae6d750bfe1a8ed90de94f620ab28e] a magistrates’ court, or an officer of such a court, by virtue of this Part of this Act, notice of which is to be given to such persons as the rules may provide and the manner in which such notice shall be given.
+
+(2) For the purpose of giving effect to this Part of this Act, rules of court[^key-9bb0625581e631e957504e88cc52be0a] may make, in relation to any proceedings brought under or by virtue of this Part of this Act, any provision not covered by subsection (1) above which—
+
+- (a) falls within subsection (2) of section 93 of the Children Act 1989, and
+- (b) may be made in relation to relevant proceedings under that section.
+
+(3)[^key-d44e68a84a7a2360c57b44d18346bd73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^c14187831] For the purpose of giving effect to this Part of this Act, rules made under Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981 may make, in relation to any proceedings brought under or by virtue of this Part of this Act, any provision not covered by subsection (1) above which—
+
+- (a) falls within paragraph (2) of Article 165 of the Children (Northern Ireland Order) 1995, and
+- (b) may be made in relation to relevant proceedings under that Article.
+
+#### 39. Interpretation of Part II.
+
+In this Part of this Act—
+
+- “maintenance”, as respects Scotland, includes aliment and any sums which are payable, following divorce,[^c14187861] by one former spouse for the support of the other[^c14187871];
+- “[^c14187881]**maintenance order**” has the same meaning as in Part I of this Act;
+- “order”, as respects Scotland, includes any interlocutor, and any decree or provision contained in an interlocutor;
+- “**prescribed**” has the same meaning as in Part I of this Act;
+- “**registered order**” means an order which is for the time being registered in a court in the United Kingdom under this Part of this Act;
+- “**registering court**”, in relation to a registered order, means the court in which that order is for the time being registered under this Part of this Act.
+- “[^c14187891]**revoke**” and “**revocation**” include discharge.
+
+## Part III — Miscellaneous and Supplemental
+
+### Further provisions relating to enforcement of maintenance orders and to applications for recovery of maintenance
+
+#### 40. Power to apply Act to maintenance orders and applications for recovery of maintenance made in certain countries.
+
+Where Her Majesty is satisfied—
+
+- (a) that arrangements have been or will be made in a country or territory outside the United Kingdom to ensure that maintenance orders made by courts in the United Kingdom . . . [^c14187901] can be enforced in that country or territory or that applications by persons in the United Kingdom for the recovery of maintenance from persons in that country or territory can be entertained by courts in that country or territory; and
+- (b) that in the interest of reciprocity it is desirable to ensure that maintenance orders made by courts in that country or territory . . . [^c14187911] can be enforced in the United Kingdom or, as the case may be, that applications by persons in that country or territory for the recovery of maintenance from persons in the United Kingdom can be entertained by courts in the United Kingdom,
+
+Her Majesty may by Order in Council make provision for applying the provisions of this Act, with such exceptions, adaptations and modifications as may be specified in the Order, to such orders or applications as are referred to in paragraphs (a) and (b) above and to maintenance and other orders made in connection with such applications by courts in the United Kingdom or in that country or territory.
+
+### Provisions with respect to certain orders of magistrates’ courts
+
+#### 41. Complaint for variation, etc. of certain orders by or against persons outside England and Wales.[^c15987671]
+
+*Extent: S+N.I.*
+
+(1) The jurisdiction to revoke, revive or vary an order for the periodical payment of money conferred on magistrates’ courts by section 60 of the[^c14188151] [^c14188161]Magistrates’ Courts Act 1980 shall, in the case of an affiliation order[^c14188171] be exercisable notwithstanding that the proceedings for the revocation, revival or variation, as the case may be, of the order are brought by or against a person residing outside England and Wales.
+
+(2)[^c14188181] The jurisdiction to revoke or vary an order for the periodical payment of money conferred on magistrates’ courts by sections 9, 10 or 11 of the [^c14188191]Guardianship of Minors Act 1971 shall be exercisable notwithstanding that the proceedings for the revocation or variation of the order are brought by or against a person residing outside England and Wales.
+
+(2A) Subject to subsection (2B) below, a magistrates’ court may, if it is satisfied that the respondent has been outside the United Kingdom during such period as may be prescribed by rules made under section 144 of the [^c14188211]Magistrates’ Courts Act 1980, proceed on—
+
+- (a) an application made under section 60 of the Magistrates’ Courts Act 1980 for the revocation, revival or variation of an affiliation order, or
+- (b) an application made under section 9, 10, 11 or 12C(5) of the Guardianship of Minors Act 1971 for the revocation, revival or variation of an order for the periodical payment of money made under the said section 9, 10 or 11,
+
+notwithstanding that the respondent has not been served with the summons; and rules may prescribe any other matters as to which the court is to be satisfied before proceeding in such a case.
+
+(2B) A magistrates’ court shall not—
+
+- (a) exercise its powers under section 60 of the Magistrates’ Courts Act 1980 so as to increase the amount of any periodical payments required to be made by any person under an affiliation order; or
+- (b) exercise its powers under section 9, 10 or 11 of the Guardianship of Minors Act 1971 so as to increase the amount of any periodical payments required to be made by any person by an order under one of those sections,
+
+unless those powers are exercised at a hearing at which the person required to make the periodical payment appears or the requirements of section 55(3) of the Magistrates’ Courts Act 1980 with respect to proof of service of summons or appearance on a previous occasion are satisfied in respect of that person.
+
+(3)[^c14188251] In section 15(1) of the [^c14188261] Maintenance Orders Act 1950 (service of process on a person residing in Scotland or Northern Ireland), after the words “Act 1971” there shall be inserted the words “or section 41 of the Maintenance Orders (Reciprocal Enforcement) Act 1972”.
+
+- (4)[^c14188251] Section 3(3) of the said Act of 1950 (jurisdiction in proceedings by or against a person residing in Scotland or Northern Ireland for the revocation, etc., of an affiliation order) is hereby repealed.
+
+#### 42. Provisional order for maintenance of party to marriage made by ... court to cease to have effect on remarriage of party.[^key-5d6d7f96733407198924bd2453c98392]
+
+(1) Where a [^key-2e837d493faa31e3c7798788c242c4b5]... court has, by virtue of section 3 of this Act, made a provisional maintenance order consisting of, or including, a provision such as is mentioned in section 2(1)(a) of the[^c14188291] [^c14188301]Domestic Proceedings and Magistrates’ Courts Act 1978 (making of periodical payments by husband or wife) or Article 4(1)(a) of the[^c14188311] [^c14188321]Domestic Proceedings (Northern Ireland) Order 1980 and the order has been confirmed by a competent court in a reciprocating country, then, if after the making of that order the marriage of the parties to the proceedings in which the order was made is dissolved or annulled but the order continues in force, that order or, as the case may be, that provision thereof shall cease to have effect on the remarriage of the party in whose favour it was made, except in relation to any arrears due under it on the date of such remarriage and shall not be capable of being revived.
+
+(2) For the avoidance of doubt it is hereby declared that references in this section to remarriage include references to a marriage which is by law void or voidable.
+
+(3)[^c14188331] In section 30(2) of the [^c14188341] Matrimonial Proceedings and Property Act 1970 (which makes, in relation to such an order as is referred to in subsection (1) above which was confirmed in accordance with section 3 of the [^c14188351]Maintenance Orders (Facilities for Enforcement) Act 1920, provision to the like effect as that subsection) the words from “but with the modification” to the end are hereby repealed.
+
+### Supplemental provisions
+
+#### 43.
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14188361]
+
+(2),(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14188371]
+
+#### 43A. Eligibility for Legal Aid in Scotland.[^c14188381]
+
+(1) In connection with proceedings under Part I of this Act in relation to a maintenance order made by a court in a reciprocating country, where there is produced a certificate from the responsible authority in that country to the effect that the payee would, in that country, be financially eligible for complete or partial—
+
+- (i) legal aid; or
+- (ii) exemption from costs or expenses, in proceedings there in relation to that maintenance order, section 2(1) and (6)(c), 3 and 4 of the[^c14188391] [^c14188401]Legal Aid (Scotland) Act 1967 sections 15 and 17 of the Legal Aid (Scotland) Act 1986 shall not apply in respect of the payee and, subject to the other provisions of that Act. legal aid shall under that Act be available to the payee without inquiry into the payee’s resources.
+
+(2) In connection with proceedings under Part II of this Act—
+
+- (a) arising out of an application received from a convention country for the recovery of maintenance; or
+- (b) relating to an order made in respect of such an application,
+
+where there is produced a certificate from the appropriate authority in that county to the effect that the applicant would, in that country, be financially eligible for complete or partial—
+
+- (i) legal aid; or
+- (ii) exemption from costs or expenses, in proceedings there for the recovery of maintenance, sections 2(1) and (6)(c), 3 and 4 of the said Act of 1967[^c14188421] sections 15 and 17 of the said Act of 1986 shall not apply in respect of the applicant and, subject to the other provisions of that Act, legal aid shall under that Act be available to the applicant without inquiry into the applicant’s resources.
+
+(3) Where, in connection with proceedings under Part I or II of this Act, a person has received legal aid by virtue of subsection (1) or (2) above, legal advice and assistance under the[^c14188441] [^c14188451]Legal Advice and Assistance Act 1972 shall, notwithstanding—
+
+- (i) any finanacial conditions imposed by, or by virtue of sections 1 and 4(2), (3) and (4); and
+- (ii) in relation to the effect of subsections (1) to (4) and (7) of section 4 of the said Act of 1967, the provisions of section 6(1)(b), of the said Act of 1972 (but subject otherwise to the provisions of the said Act of 1972)advice and assistance under the said Act of 1986, shall, notwithstanding any financial conditions or requirements to make contributions imposed by sections 8 and 11 of that Act,, be available in Scotland for that person, without inquiry into his resources, in connection with any matter incidental to, or arising out of, those proceedings.
+
+(4) In subsection (1) above “**maintenance order**”, “**reciprocating country**”, “**responsible authority**” and “**payee**” have the same meanings respectively as in Part I of this Act; and in subsection (2) above “**convention country**” means a country or territory specified in an Order in Council under section 25(1) of this Act, “**maintenance**” has the same meaning as in Part II of this Act, and “**appropriate authority**” means the authority from which the Secretary of State received the application.
+
+#### 44. Exclusion of certain enactments relating to evidence.
+
+(1) Section 20 of the [^c14188471]Family Law Reform Act 1969 (power of court hearing certain proceedings to require use of blood tests to determine paternity) and any corresponding enactment of the Parliament of Northern Ireland shall not apply to any proceedings under this Act, but the foregoing provision is without prejudice to the power of a court to allow the the report of any person who has carried out such tests to be given in evidence in those proceedings.
+
+(2) The[^c14188481] [^c14188491]Evidence (Proceedings in Other Jurisdictions) Act 1975 shall not apply to the taking of evidence in the United Kingdom for the taking of which section 14 or section 38 of this Act provides.
+
+#### 45. Orders in Council.
+
+(1) An Order in Council under section 1, section 25 or section 40 of this Act may be varied or revoked by a subsequent Order in Council thereunder, and an Order made by virtue of this section may contain such incidental, consequential and transitional provisions as Her Majesty considers expedient for the purposes of that section.
+
+(2) An Order in Council made under the said section 1 or the said section 40 shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 46. Financial provisions.
+
+There shall be paid out of moneys provided by Parliament—
+
+- (a) any sums ordered by a court under section 14(2) or 38(3) of this Act to be paid out of moneys so provided; and
+- (b) any increase attributable to the provisions of this Act in the sums payable under the[^c14188501] [^c14188511]Legal Aid Act 1974 or the [^c14188521]Legal Aid (Scotland) Act 1967 out of moneys so provided.
+
+#### 47. Interpretation: general.[^c14188531]
+
+(1) In this Act—
+
+- “**enactment**” includes an enactment of the Parliament of Northern Ireland;
+- “**magistrates’ court**”, in relation to Northern Ireland, means a court of summary jurisdiction within the meaning of Article 2(2)([^c14188541]*a*) of the Magistrates’ Courts (Northern Ireland) Order 1981.
+
+(2) References in this Act to a part of the United Kingdom are references to England and Wales, to Scotland, or to Northern Ireland.
+
+(3)[^key-955d8381511486c7610ec16fe4e4b9ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Any reference in this Act to any other enactment is a reference thereto as amended, and includes a reference thereto as extended or applied, by or under any other enactment.
+
+#### 48. Special provisions relating to Northern Ireland.[^c14188571]
+
+(1)[^key-979c4cacd0f3c5e179ff5f1ddb942eb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c14188581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any reference in this Act to an enactment of the Parliament of Northern Ireland or to an enactment which that Parliament has power to amend, shall be construed, in relation to Northern Ireland, as a reference to that enactment as amended or extended by any Act of that Parliament, whether passed before or after this Act, and to any enactment of that Parliament passed after this Act and re-enacting the said enactment with or without modifications.
+
+(4) If the Parliament of Northern Ireland passes any enactment for purposes similar to those of any enactment in force in England and Wales which is referred to in this Act, Her Majesty may by Order in Council direct that this Act shall have effect subject to such modifications or adaptations as may be specified in the Order for the purpose of ensuring the continued operation of this Act in, or in relation to, Northern Ireland.
+
+(5) Section 45 of this Act shall apply in relation to an Order in Council under subsection (4) above as it applies in relation to an Order in Council under section 1 or 40 of this Act.
+
+(6)[^key-ccaa3f931526fb60caf8d4906de714ae] In the application of this Act to Northern Ireland, for any reference to the Lord Chancellor (including any reference which is treated as a reference to the Lord Chancellor, but not including any such reference in section 49(2)) there shall be substituted a reference to the Department of Justice in Northern Ireland.
+
+#### 49. Short title and commencement.
+
+(1) This Act may be cited as the Maintenance Orders (Reciprocal Enforcement) Act 1972.
+
+(2)[^c14188591] This Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be so appointed for different provisions of this Act, or for different purposes.
+
+## SCHEDULE — Consequential and Minor Amendments[^c14188601]
+
+Section 22.
+
+**1.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14188611]
+
+### The Army Act 1955 and the Air Force Act 1955[^c14188621]
+
+**2.** Section 150 of the [^c14188631]Army Act 1955 and section 150 of the Air Force Act 1955 (enforcement of maintenance, etc. orders by deduction from pay) shall each be amended by the insertion, in subsection (5), at the end of the first paragraph of the words “ and to an order registered in such a court under Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 ”.
+
+### The Naval Discipline Act 1957[^c14188641]
+
+**3.** In section 101 of the Naval Discipline Act 1957 (service of process in proceedings for maintenance, etc.) in subsection (5), after the words “Act, 1920” there shall be inserted the words “ or registered in such a court under Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 ”.
+
+**4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14188651]
+
+### The Maintenance and Affiliation Orders Act (Northern Ireland) 1966[^c14188661]
+
+**5.** In section 10 of the Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (orders to which Part II of that Act applies)—
+
+- (a) in subsection (2), after the word “means” there shall be inserted the words “ an order made outside the United Kingdom and registered in a court of summary jurisdiction in Northern Ireland under Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 or ”; and
+- (b) at the end there shall be inserted the following subsection:—
+
+  > (5) For the purposes of this Part an order made outside the United Kingdom and registered in a court of summary jurisdiction in Northern Ireland under Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 shall be deemed to be a maintenance order made by that court
+
+### The Administration of Justice Act 1970[^c14188671]
+
+**6.** At the end of Schedule 8 to the Administration of Justice Act 1970 (maintenance orders to which Part I of the Maintenance Orders Act 1958 applies) there shall be inserted the following paragraph:—
+
+> **11.** A maintenance order within the meaning of Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 registered in a magistrates’ court under the said Part I.
+
+### The Attachment of Earnings Act 1971[^c14188681]
+
+**7.** At the end of Schedule 1 to the Attachment of Earnings Act 1971 (maintenance orders to which that Act applies) there shall be inserted the following paragraph:—
+
+> **11.** A maintenance order within the meaning of Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 registered in a magistrates’ court under the said Part I.
+
+## Annotations
+
+[^c14181581]: Modification: Act: certain functions transferred (1.4.1992) by [S.I. 1992/709](https://www.legislation.gov.uk/uksi/1992/709), [art. 4(3)(a)(4)](https://www.legislation.gov.uk/uksi/1992/709/article/4/3/a/4)
+
+[^c14181591]: Modification: Act amended (1.4.1992) by [S.I. 1992/709](https://www.legislation.gov.uk/uksi/1992/709), [art. 4(5)](https://www.legislation.gov.uk/uksi/1992/709/article/4/5)
+
+[^key-9ee01db3fd2d4d73938bda42c236eec9]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1972/18): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 17 para. 4](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^c14181611]: Modification: By [S.I. 1982/159](https://www.legislation.gov.uk/uksi/1982/159), [art. 3](https://www.legislation.gov.uk/uksi/1982/159/article/3) para. (1) it is provided that the functions of the Secretary of State under this Act insofar as relating to any matter concerning a court in Northern Ireland or a person residing or believed to reside there are transferred to the Lord Chancellor and by art. 3(2) it is provided that any reference to the Secretary of State, so far as necessary for giving effect to para. (1) of art. 3, to be construed as a reference to the Lord Chancellor
+
+[^key-67ade4c3cf8d52e261e75952ff78187e]: Modification: Pt. 1 (ss. 1-24) applied (with modifications) (5.4.1993) by [Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993 (S.I. 1993/593)](https://www.legislation.gov.uk/uksi/1993/593), [art. 3(1)(2)](https://www.legislation.gov.uk/uksi/1993/593/article/3/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/593/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) (as amended (1.4.2005) by [S.I. 2005/617](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 160](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/160); (18.6.2011) by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 paras. 25](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25), [26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26); (22.4.2014) by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [30-44](https://www.legislation.gov.uk/uksi/2014/879/article/30); and (31.12.2020) by [S.I. 2019/519](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(3)-(16)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^key-6dfdff3e017abf2f548868ce3211304b]: Modification: Pt. 1 (ss. 1-24) applied (with modifications) (5.4.1993) by [Reciprocal Enforcement of Maintenance Orders (Republic of Ireland) Order 1993 (S.I. 1993/594)](https://www.legislation.gov.uk/uksi/1993/594), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1993/594/article/2/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/594/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/594/schedule/2) (as amended (1.4.2005) by [S.I. 2005/617](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 161](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/161); (18.6.2011) by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 paras. 27](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/27), [28](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/28); and (22.4.2014) by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [47-58](https://www.legislation.gov.uk/uksi/2014/879/article/47))
+
+[^key-4b25d428a3d57b8bc8fe11d7a30c4506]: Modification: Pt. 1 (ss. 1-24) applied (with modifications) (1.12.1995) by [Reciprocal Enforcement of Maintenance Orders (United States of America) Order 1995 (S.I. 1995/2709)](https://www.legislation.gov.uk/uksi/1995/2709), [art. 3](https://www.legislation.gov.uk/uksi/1995/2709/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/2709/schedule/2) (as amended (1.4.2005) by [S.I. 2005/617](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 163](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/163); and (22.4.2014) by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [61-73](https://www.legislation.gov.uk/uksi/2014/879/article/61))
+
+[^key-980327fc05c2983853d66389fb2c44ab]: Modification: Pt. I applied (with modifications) (1.10.2007) by [The Reciprocal Enforcement of Maintenance Orders (United States of America) Order 2007 (S.I. 2007/2005)](https://www.legislation.gov.uk/uksi/2007/2005), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2005/article/1), [4](https://www.legislation.gov.uk/uksi/2007/2005/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2005/schedule/1) (with [arts. 5](https://www.legislation.gov.uk/uksi/2007/2005/article/5), [6](https://www.legislation.gov.uk/uksi/2007/2005/article/6)) (as amended (22.4.2014) by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [106-117](https://www.legislation.gov.uk/uksi/2014/879/article/106))
+
+[^key-3dd9b79ed9eebb4426f3e4865e4ab296]: Modification: Pt. 1 applied (with modifications) (1.10.2007) by [The Reciprocal Enforcement of Maintenance Orders (United States of America) (Scotland) Order 2007 (S.S.I. 2007/354)](https://www.legislation.gov.uk/ssi/2007/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/354/article/1/1), [4](https://www.legislation.gov.uk/ssi/2007/354/article/4), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/354/schedule/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/354/schedule/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2007/354/article/5)) (as amended (22.4.2014) by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [119](https://www.legislation.gov.uk/uksi/2014/879/article/119), [120](https://www.legislation.gov.uk/uksi/2014/879/article/120))
+
+[^c14181641]: Modification: S. 2 extended by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50), [s. 24B(4)(b)](https://www.legislation.gov.uk/ukpga/1986/50/section/24B/4/b) (as inserted by [Social Security Act 1990 (c. 27, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1990/27), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1990/27/section/8/1)
+
+[^c14181651]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 9](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/9)(*a*)
+
+[^c14181671]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 9](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/9)(*b*)
+
+[^key-330145f201f4d1c94c83a783533d9380]: Textual amendment: Word in s. 3 heading omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 30(6)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/30/6); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14181741]: Textual amendment: S. 3(1) substituted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 6(2)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/6/2); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-6c77c7b0e870c0149ccd72291f311b36]: Textual amendment: Words in s. 3(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 30(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/30/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-2ed5bfa6d2b78eeea688cb5fad62adb3]: Textual amendment: Words in s. 3(1)(a) substituted (7.12.2012) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/2), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/2/2/a)
+
+[^c14181751]: Textual amendment: S. 3(3) repealed (E.W.) by [Family Law Reform Act 1987 (c. 42, SIF 49:7)](https://www.legislation.gov.uk/ukpga/1987/42), [s. 33(4)](https://www.legislation.gov.uk/ukpga/1987/42/section/33/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/1987/42/schedule/4) and (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(2)](https://www.legislation.gov.uk/nisi/1995/755/article/185/2), [Sch. 10](https://www.legislation.gov.uk/nisi/1995/755/schedule/10) (with [Sch. 8 paras. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1), [23(4)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/23/4)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14181761]: Textual amendment: S. 3(4) substituted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 6(3)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/6/3); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-314dfc39da9cecf631b6f034abbedbd4]: Textual amendment: S. 3(4)(za) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/30/3/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-2670f16807473103795e1c2dca79c6be]: Textual amendment: Words in s. 3(4)(a)(b) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 30(3)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/30/3/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-61a79dc231515870fb1587fdba89a8ba]: Textual amendment: Words in s. 3(4)(a)(b) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 30(3)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/30/3/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-4a295c296f880b2458e1abd38bf5d7fc]: Textual amendment: Word in s. 3(6) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 30(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/30/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14181771]: Textual amendment: S. 3(7) substituted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 66](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/66) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^key-561228ffeae83a5d64858a5cd6d74e3f]: Textual amendment: Words in s. 3(7)(a) substituted (7.12.2012) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/2), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/2/2/b)
+
+[^key-b1076ff27f554ef15a8fd5e6bf59061b]: Textual amendment: S. 3(7)(b) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 30(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/30/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-a6a6b6713bb4ef244484a02e94507e8f]: Textual amendment: S. 4(1) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/5/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fb804ec5e70a25be47d299320fb664bf]: Textual amendment: S. 4(2) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/5/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c14181841]: Textual amendment: S. 4(3) repealed (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/5), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/36/schedule/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule) Table
+
+[^c14181851]: Marginal citation: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58).
+
+[^key-efaa01e8de794cedeb4878471a288e03]: Textual amendment: Words in s. 4(6) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 31](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/31); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-5e0b33c713f4f313fab9cdb4c76b51cf]: Textual amendment: S. 4(7) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/5/2/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1131eed2bdef87d5d4eb98900112fa86]: Modification: S. 5 applied (19.6.2008) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2008 (S.I. 2008/1202)](https://www.legislation.gov.uk/uksi/2008/1202), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1202/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2008/1202/article/4/3)
+
+[^c15932421]: Modification: Ss. 5, 12-15, 17, 18, 21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/2002/788/article/4/2/3)
+
+[^key-410ea90a82d2c37a3f18cecce0f7b145]: Textual amendment: S. 5(3A) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 32](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/32); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14181921]: Textual amendment: S. 5(3B) inserted (N.I.) (4.11.1996) by 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 67 (with Sch. 8 para. 1(1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14181931]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 54(a)](https://www.legislation.gov.uk/ukpga/1978/22/section/54/a), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14181941]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 54(b)](https://www.legislation.gov.uk/ukpga/1978/22/section/54/b), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^key-aa6eabcdc387342a2bfc1f8052780f6e]: Modification: Pt. I (ss. 1-24) applied (with modifications) (5.4.1993) by [Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993 (S.I. 1993/593)](https://www.legislation.gov.uk/uksi/1993/593), [art. 3(1)(2)](https://www.legislation.gov.uk/uksi/1993/593/article/3/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/593/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) (as amended (1.4.2005) by [S.I. 2005/617](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 160](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/160); and amended (18.6.2011) by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 paras. 25](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25), [26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26); and amended (22.4.2014) by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [30-44](https://www.legislation.gov.uk/uksi/2014/879/article/30))
+
+[^c14181951]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 10](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/10)(*a*)
+
+[^c14181961]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 10](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/10)(*b*)(i)
+
+[^c14181971]: Textual amendment: Words substituted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 10](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/10)(*b*)(ii)
+
+[^c14181981]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 10](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/10)(*b*)(iii)
+
+[^c14182131]: Textual amendment: Words in s. 7(2)(i) substituted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56) , [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1) , [Sch. 1 Pt. II para. 8(2)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/8/2) ; [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618) , [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^c14182141]: Textual amendment: Words in s. 7(3) substituted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56) , [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1) , [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II) , [para. 8(3)](https://www.legislation.gov.uk/ukpga/1992/56/paragraph/8/3) ; [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618) , [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^c14182151]: Textual amendment: Words in s. 7(4) substituted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56) , [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1) , [Sch. 1 Pt. II para. 8(4)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/8/4) ; [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618) , [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^c15932711]: Modification: S. 7(5) extended (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788) , [art. 4(6)(7)](https://www.legislation.gov.uk/uksi/2002/788/article/4/6/7)
+
+[^c14182161]: Textual amendment: S. 7(5A)-(5D) inserted (E.W.)(1.4.1992) by [Maintenance Enforcement Act 1991 (c. 17, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1991/17) , [s. 10](https://www.legislation.gov.uk/ukpga/1991/17/section/10) , [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/1991/17/schedule/1/paragraph/12) , [S.I](https://www.legislation.gov.uk/ukpga/1991/17/section/I) . 1992/455, art. 2
+
+[^key-d9303a2c3951c446baac2c0e1c78e69d]: Textual amendment: Words in s. 7(5A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 33(a)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/33/a/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-54c6d4bae61ace82c815bf6013aa0a9c]: Textual amendment: Word in s. 7(5A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 33(a)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/33/a/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-005e0fc356e24307f0fe8c2a69958f39]: Textual amendment: Words in s. 7(5B)(a)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 33(b)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/33/b/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-6aa1e14ec79501ffe21c917dec497483]: Textual amendment: Words in s. 7(5B)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 33(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/33/b/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-de5a6d67c96b90d0d37520f997ac0e64]: Textual amendment: Words in s. 7(5C) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 33(c)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/33/c/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-1f06225f88290363f4c540746309693c]: Textual amendment: Words in s. 7(5C) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 33(c)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/33/c/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-831d51d601e602a61a3bcaf00c7ec5f9]: Textual amendment: Words in s. 7(5D) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 33(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/33/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14182191]: Textual amendment: S. 7(5E)-(5H) inserted (N.I.) (4.11.1996) by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576) , [art. 11](https://www.legislation.gov.uk/nisi/1993/1576/article/11) , [Sch. 1 para. 7](https://www.legislation.gov.uk/nisi/1993/1576/schedule/1/paragraph/7) ; [S.R. 1996/454](https://www.legislation.gov.uk/nisr/1996/454) , [art. 3](https://www.legislation.gov.uk/nisr/1996/454/article/3)
+
+[^c14182201]: Textual amendment: Words in s. 7(6) substituted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56) , [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1) , [Sch. 1 Pt. II para. 8(5)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/8/5) ; [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618) , [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^c14182211]: Textual amendment: S. 7(8) added (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56) , [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1) , [Sch. 1 Pt. II para. 8(6)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/8/6) ; [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618) , [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2) ; and repealed (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755) , [art. 185(2)](https://www.legislation.gov.uk/nisi/1995/755/article/185/2) , [Sch. 10](https://www.legislation.gov.uk/nisi/1995/755/schedule/10) (with [Sch. 8 paras. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1) , [23(4)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/23/4) ); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297) , [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c15932521]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^key-721569b9c92779de02ba2bbf01f6ea05]: Modification: Ss. 8-21 applied (19.6.2008) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2008 (S.I. 2008/1202)](https://www.legislation.gov.uk/uksi/2008/1202), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1202/article/1), [4(5)](https://www.legislation.gov.uk/uksi/2008/1202/article/4/5)
+
+[^key-72372fd477cc92e2f0f40f6760ee2613]: Modification: S. 8(1) excluded (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [11](https://www.legislation.gov.uk/uksi/2014/605/article/11)
+
+[^key-2f1b7fd266b46629ac7bebaf771c6a48]: Textual amendment: Words in s. 8(2) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [7](https://www.legislation.gov.uk/uksi/2014/605/article/7)
+
+[^c14182781]: Marginal citation: [1966 c. 35(N.I.)](https://www.legislation.gov.uk/apni/1966/35)
+
+[^key-f8d349de00fe0e6baa0d4c193691f3a9]: Textual amendment: Words in s. 8(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 34(a)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/34/a/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-15370d5567464c24e4e5c2cb3862e329]: Textual amendment: Words in s. 8(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 34(a)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/34/a/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14182801]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [s. 89](https://www.legislation.gov.uk/ukpga/1978/22/section/89), [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/33)
+
+[^key-d8b07e8cfaeee05112c392e3ef2c4925]: Textual amendment: S. 8(3A) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 34(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/34/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^M_F_3cc23b3f-1507-4e33-f6b8-1330b391084e]: Textual amendment: S. 8(4) omitted (E.W.) (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 34(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/34/c) (with [s. 61(13)(f)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/13/f)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^M_F_6e815cf8-7923-4167-87c4-7e03538e05b8]: Textual amendment: Words in s. 8(4) inserted (N.I.) (4.11.1996) by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576), [art. 11](https://www.legislation.gov.uk/nisi/1993/1576/article/11), [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/nisi/1993/1576/schedule/1/paragraph/8/a); [S.R. 1996/454](https://www.legislation.gov.uk/nisr/1996/454), [art. 3](https://www.legislation.gov.uk/nisr/1996/454/article/3)
+
+[^M_F_f3165fb1-bae8-4b5a-d7f0-b4e1fae5000e]: Textual amendment: Words in s. 8(4) substituted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 68](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/68) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^M_F_06f56361-485e-464b-fca5-f1682fa0366d]: Textual amendment: S. 8(4A)(4B) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 34(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/34/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14183011]: Textual amendment: S. 8(4C) inserted (4.11.1996) by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576), [art. 11](https://www.legislation.gov.uk/nisi/1993/1576/article/11), [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/nisi/1993/1576/schedule/1/paragraph/8/b); [S.R. 1996/454](https://www.legislation.gov.uk/nisr/1996/454), [art. 3](https://www.legislation.gov.uk/nisr/1996/454/article/3)
+
+[^key-84911cbb87e378c6049f69bc02e3e637]: Textual amendment: Words in s. 8(5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 34(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/34/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14182881]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 11](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/11)
+
+[^c14182891]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 54(c)](https://www.legislation.gov.uk/ukpga/1978/22/section/54/c), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14182901]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 54(d)](https://www.legislation.gov.uk/ukpga/1978/22/section/54/d), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14182911]: Textual amendment: S. 8(10) repealed by [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [Sch. 7](https://www.legislation.gov.uk/nisi/1981/1675/schedule/7)
+
+[^c15932551]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^key-d2bd1a49dd1b65552c1c0490935061f3]: Textual amendment: S. 9(1ZA) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 35](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/35); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14183381]: Textual amendment: S. 9(1ZB) inserted (N.I.) (4.11.1996) by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576), [art. 11](https://www.legislation.gov.uk/nisi/1993/1576/article/11), [Sch. 1 para. 9](https://www.legislation.gov.uk/nisi/1993/1576/schedule/1/paragraph/9); [S.R. 1996/454](https://www.legislation.gov.uk/nisr/1996/454), [art. 3](https://www.legislation.gov.uk/nisr/1996/454/article/3)
+
+[^c14183391]: Textual amendment: S. 9(1ZB)(za) inserted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 69](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/69) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^key-1aaf274556f057eedd052755eb81faf1]: Textual amendment: Words in s. 9(1ZB)(b) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 66(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/66/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^c14183291]: Textual amendment: S. 9(1A) inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 23(1)(c)](https://www.legislation.gov.uk/ukpga/1982/27/section/23/1/c), [37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. I para. 4(1)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/I/paragraph/4/1)
+
+[^c14183301]: Textual amendment: S. 9(1B) inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 23(1)(c)](https://www.legislation.gov.uk/ukpga/1982/27/section/23/1/c), [37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 12](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/12)
+
+[^c14183401]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 54(e)](https://www.legislation.gov.uk/ukpga/1978/22/section/54/e), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14183411]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 54(f)](https://www.legislation.gov.uk/ukpga/1978/22/section/54/f), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c15932561]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c14183421]: Textual amendment: Words substituted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 13(2)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/13/2)
+
+[^key-aeaedd618dcd1e00d5422b51d7e83885]: Textual amendment: Words in s. 10(3) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 36(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/36/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14183431]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [Sch. 11 Pt. III para. 13(3)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/13/3)
+
+[^key-6d5937f764a4bafd37caca2fe3921e62]: Textual amendment: Words in s. 10(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 36(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/36/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14183441]: Textual amendment: Words substituted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 13(4)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/13/4)
+
+[^c14183451]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 13(5)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/13/5)(*a*)
+
+[^c14183461]: Textual amendment: By [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 13(5)(b)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/13/5/b) it is provided that for “so residing” there is inserted “residing and has no assets within the jurisdiction of the court”.
+
+[^c14183471]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 13(6)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/13/6)
+
+[^c15932571]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c14183481]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/paragraph/14)(*a*)
+
+[^c14183491]: Textual amendment: Words substituted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 14](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/14)(*b*)
+
+[^c14183501]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 14](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/14)(*c*)
+
+[^key-b3e77c3e81da19cd520fc167218e1677]: Modification: Ss. 12-15 applied (19.6.2008) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2008 (S.I. 2008/1202)](https://www.legislation.gov.uk/uksi/2008/1202), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1202/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2008/1202/article/4/3)
+
+[^c15932581]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c15932441]: Modification: Ss. 5, 12-15, 17, 18, 21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/2002/788/article/4/2/3)
+
+[^c15932591]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c15932451]: Modification: Ss. 5, 12-15, 17, 18, 21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/2002/788/article/4/2/3)
+
+[^c15932601]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c15932461]: Modification: Ss. 5, 12-15, 17, 18, 21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/2002/788/article/4/2/3)
+
+[^key-3ade7c55382e8840878895c7172e6820]: Textual amendment: Words in s. 14(2)(b) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 5](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^key-593cc680be825f374544bb709fa16859]: Textual amendment: Words in s. 14(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 37(1)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/37/1/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-5e737e00c880d4081c959618177ef685]: Textual amendment: Words in s. 14(3) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 37(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/37/1/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14183541]: Marginal citation: [1907 c. 51](https://www.legislation.gov.uk/ukpga/1907/51).
+
+[^key-571eff952b588012f598f45f882b9d7b]: Textual amendment: S. 14(6) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 37(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/37/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c15932611]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c15932471]: Modification: Ss. 5, 12-15, 17, 18, 21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/2002/788/article/4/2/3)
+
+[^c15932621]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c15987701]: Modification: Ss. 5, 12-15, 17, 18, 21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/2002/788/article/4/2/3)
+
+[^key-43367d31448d2c37f1f878ac70799b98]: Modification: S. 17 applied (19.6.2008) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2008 (S.I. 2008/1202)](https://www.legislation.gov.uk/uksi/2008/1202), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1202/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2008/1202/article/4/3)
+
+[^c15932631]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^key-e13ef451bfef76350ddaf02c4de2cd03]: Textual amendment: Words in s. 17 heading substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [8](https://www.legislation.gov.uk/uksi/2014/605/article/8)
+
+[^c14183711]: Textual amendment: S. 17(1)–(3) repealed by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [s. 89](https://www.legislation.gov.uk/ukpga/1978/22/section/89), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/22/schedule/3)
+
+[^key-ef997016343157a17126515db1382d2b]: Textual amendment: S. 17(4) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 66(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/66/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^c14183721]: Textual amendment: S. 17(5) repealed (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(2)](https://www.legislation.gov.uk/nisi/1995/755/article/185/2), [Sch. 10](https://www.legislation.gov.uk/nisi/1995/755/schedule/10) (with [Sch. 8 paras. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1), [23(4)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/23/4)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14183741]: Textual amendment: S. 17(5A) inserted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 10(3)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/10/3); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-560bd2e4b1118cb41a68b304b95591ce]: Textual amendment: Words in s. 17(5A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 38(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/38/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-8e5ccf389579fdd7395f9710636c1321]: Textual amendment: Words in s. 17(5A) substituted (7.12.2012) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/2), [Sch. 5 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/2/3/a)
+
+[^c14183751]: Textual amendment: S. 17(6) substituted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 70](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/70) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^key-b8b82b9dc2c18a6c7cf117a36efae5cf]: Textual amendment: Words in s. 17(6) substituted (7.12.2012) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/2), [Sch. 5 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/2/3/b)
+
+[^c14183761]: Textual amendment: Words in s. 17(7) substituted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 10(4)(a)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/10/4/a); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^c14183771]: Textual amendment: Words in s. 17(7) substituted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/10/4/b); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-f6ffbb307f5a878fc1958b0a02a3f790]: Textual amendment: Words in s. 17(7) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 38(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/38/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14183821]: Textual amendment: S. 17(7A) added (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 10(5)](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/10/5); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2); and repealed (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(2)](https://www.legislation.gov.uk/nisi/1995/755/article/185/2), [Sch. 10](https://www.legislation.gov.uk/nisi/1995/755/schedule/10) (with [Sch. 8 paras. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1), [23(4)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/23/4)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14183831]: Textual amendment: S. 17(8) repealed by [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [Sch. 7](https://www.legislation.gov.uk/nisi/1981/1675/schedule/7)
+
+[^key-f7f59bd49a65d76d4ea63ea6a054547d]: Modification: S. 18 applied (19.6.2008) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2008 (S.I. 2008/1202)](https://www.legislation.gov.uk/uksi/2008/1202), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1202/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2008/1202/article/4/3)
+
+[^c15932641]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c15932481]: Modification: Ss. 5, 12-15, 17, 18, 21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/2002/788/article/4/2/3)
+
+[^key-75284af1dc4cb59c71f525911d73e626]: Textual amendment: S. 18 heading substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 39(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/39/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-ca9b3913cf383fd275da6229e576c4bd]: Textual amendment: S. 18(A1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 39(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/39/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-fe0a370457bd356c31cf49ced78b1ff8]: Textual amendment: Words in s. 18(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 39(3)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/39/3/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-227d015ba73f1a6cae8b09ec4d674ad6]: Textual amendment: Words in s. 18(1)(a) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 155(2)(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/155/2/b); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^key-51b4a542688ff82dd6115a7a7046b021]: Textual amendment: Words in s. 18(1)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/39/3/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14183931]: Textual amendment: S. 18(1A) inserted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 11](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/11); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-7d92bf430ae52e4ff53bceb8af7a7943]: Textual amendment: Words in s. 18(1A) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 155(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/155/3); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^key-d4c7535fb28832ee2412a274bba03921]: Textual amendment: Word in s. 18(1A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 39(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/39/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-624b0c5aabc4f8cc6744be889360f5ec]: Textual amendment: Words in s. 18(2) inserted (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 66(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/66/3) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^c14183941]: Textual amendment: Words substituted by [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [Sch. 6 Pt. I para. 22](https://www.legislation.gov.uk/nisi/1981/1675/schedule/6/part/I/paragraph/22)
+
+[^c14183951]: Textual amendment: S. 18(2A) inserted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 71](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/71) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c15932651]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c14183961]: Marginal citation: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58).
+
+[^c15932661]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^key-d84ae20f127b983817807330153393d4]: Modification: S. 21 applied (19.6.2008) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2008 (S.I. 2008/1202)](https://www.legislation.gov.uk/uksi/2008/1202), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1202/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2008/1202/article/4/3)
+
+[^c15932671]: Modification: Ss. 8-21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(4)(5)](https://www.legislation.gov.uk/uksi/2002/788/article/4/4/5)
+
+[^c15932491]: Modification: Ss. 5, 12-15, 17, 18, 21 applied (28.5.2002) by [The Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 2002 (S.I. 2002/788)](https://www.legislation.gov.uk/uksi/2002/788), [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/2002/788/article/4/2/3)
+
+[^key-816e400828c41ce2103cbca20ca82b62]: Textual amendment: Word in s. 21(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 40(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/40/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14184091]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 15(i)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/15/i)
+
+[^key-060c52de3db131e0b6ace09c4e25e304]: Textual amendment: Words in s. 21(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 40(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/40/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14184111]: Textual amendment: Words substituted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 15(ii)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/15/ii)
+
+[^c14184121]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 15(iii)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/15/iii)
+
+[^c14184131]: Textual amendment: Definition repealed by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss.55(a)(i)](https://www.legislation.gov.uk/ukpga/1978/22/section/55/a/i), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14184141]: Textual amendment: Words substituted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. I para. 4(2)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/I/paragraph/4/2)(*a*)
+
+[^c14184151]: Textual amendment: Para. (aa) inserted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 55(a)(ii)](https://www.legislation.gov.uk/ukpga/1978/22/section/55/a/ii), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^key-87e1542f5508b0b865043f4b1ed625fc]: Textual amendment: Words in s. 21(1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 156(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/156/a), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^key-9dba03fd4b837b7e164adf58de4ae5c1]: Textual amendment: Words in s. 21(1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 156(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/156/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^c14184181]: Textual amendment: Words substituted by [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [Sch. 6 Pt. I para. 23](https://www.legislation.gov.uk/nisi/1981/1675/schedule/6/part/I/paragraph/23)
+
+[^key-8deee3d0caa1eb3a43f9f18fb9f97e5e]: Textual amendment: Words in s. 21(1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 156(c)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/156/c), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^c14184191]: Textual amendment: Words in s. 21(1) added (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para.12](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/12); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art.2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^c14184201]: Textual amendment: Words substituted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. I para. 4(2)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/I/paragraph/4/2)(*b*)
+
+[^c14184211]: Textual amendment: Words inserted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 55(b)](https://www.legislation.gov.uk/ukpga/1978/22/section/55/b), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14184271]: Editorial: The text of s. 22 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c14184281]: Marginal citation: [1920 c. 33](https://www.legislation.gov.uk/ukpga/1920/33).
+
+[^c14184291]: Textual amendment: S. 22(2)(*b*) repealed by [Magistrates' Courts Act 1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 154](https://www.legislation.gov.uk/ukpga/1980/43/section/154), [Sch. 9](https://www.legislation.gov.uk/ukpga/1980/43/schedule/9)
+
+[^c14184301]: Marginal citation: [1958 c. 39](https://www.legislation.gov.uk/ukpga/1958/39).
+
+[^c14184311]: Textual amendment: S. 22(2)(d) repealed (23.3.1995) by [1995 c. 3](https://www.legislation.gov.uk/ukpga/1995/3), [s. 1](https://www.legislation.gov.uk/ukpga/1995/3/section/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/ukpga/1995/3/schedule/paragraph/7/2)
+
+[^c14184341]: Marginal citation: [1920 c. 33](https://www.legislation.gov.uk/ukpga/1920/33).
+
+[^key-62987441a7fa0332f903752a3ebbd62c]: Textual amendment: Words in s. 23(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/2/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-61bcf57b402d6d1b9d5ed21975fda661]: Textual amendment: Words in s. 23(1)(1A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/2/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-ab7a5868b5a332447d5da86190eb92d3]: Textual amendment: Words in s. 23(1A) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/2/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-45af367b7d39dfc6e68ab7c2ec930079]: Textual amendment: Word in s. 23(1A) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(2)(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/2/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-776024110985f38881cfd593bd0c7088]: Textual amendment: S. 23(1B) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-4577db93cfccb86ec34ec901b91553c3]: Textual amendment: Words in s. 23(2) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14184351]: Textual amendment: Words in s. 23(2)(3)(4) substituted (1.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 90](https://www.legislation.gov.uk/ukpga/1999/22/section/90), [Sch. 13 para. 75](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/75) (with [s. 107](https://www.legislation.gov.uk/ukpga/1999/22/section/107), [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2001/916/article/2/a/ii)
+
+[^key-16c3a8752e5d9e9436c74336d5cbfdf4]: Textual amendment: Word in s. 23(3) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-45a105c4f3ce3ab26e30e11f2ce3b820]: Textual amendment: Word in s. 23(4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(6)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/6/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-c94aa3307f8cdd705c3868699a35304e]: Textual amendment: Words in s. 23(4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(6)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/6/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14184381]: Marginal citation: [1958 c. 39](https://www.legislation.gov.uk/ukpga/1958/39).
+
+[^key-56b414de7b8d2cd22c008eebd1dd862d]: Textual amendment: S. 23(5) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/7); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14184391]: Textual amendment: S. 23(6) inserted (1.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 90](https://www.legislation.gov.uk/ukpga/1999/22/section/90), [Sch. 13 para. 75](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/75) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2001/916/article/2/a/ii)
+
+[^key-143d32c2a7f32e58cda8c96ffaa5126c]: Textual amendment: Words in s. 23(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 41(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/41/8); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14184401]: Marginal citation: [1920 c. 33](https://www.legislation.gov.uk/ukpga/1920/33).
+
+[^c14184411]: Textual amendment: Words inserted by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [Sch. 11 Pt. III para. 16](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/16)
+
+[^c14184441]: Modification: Pt. II (ss. 25-39) applied (with modifications) (5.4.1993) by [The Recovery of Maintenance (United States of America) Order 1993 (S.I. 1993/591)](https://www.legislation.gov.uk/uksi/1993/591), [art.3(1)](https://www.legislation.gov.uk/uksi/1993/591/article/3/1)
+
+[^key-eb11452df137bcbb31458c17f555c2b0]: Modification: Pt. II applied (with modifications) (1.10.2007) by [The Recovery of Maintenance (United States of America) (Scotland) Order 2007 (S.S.I. 2007/355)](https://www.legislation.gov.uk/ssi/2007/355), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/355/article/1/1), [4](https://www.legislation.gov.uk/ssi/2007/355/article/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2007/355/article/5))
+
+[^key-2c8a2dae208c19b1f9aba148bf2885ab]: Modification: Pt. II applied (with modifications) (1.10.2007) by [The Recovery of Maintenance (United States of America) Order 2007 (S.I. 2007/2006)](https://www.legislation.gov.uk/uksi/2007/2006), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/17/article/1/2), [3](https://www.legislation.gov.uk/ukpga/1991/17/article/3) (with [arts. 4](https://www.legislation.gov.uk/ukpga/1991/17/article/4), [5](https://www.legislation.gov.uk/ukpga/1991/17/article/5)) (as amended by [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [118](https://www.legislation.gov.uk/uksi/2014/879/article/118))
+
+[^c14184471]: Textual amendment: S. 26(3A) inserted (5.4.1993) by virtue of [S.I. 1993/591](https://www.legislation.gov.uk/uksi/1993/591), [arts. 3(2)](https://www.legislation.gov.uk/uksi/1993/591/article/3/2), [4(a)](https://www.legislation.gov.uk/uksi/1993/591/article/4/a)
+
+[^c14184481]: Textual amendment: S. 26(6) substituted for s. 26(6)(7) (1.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 90](https://www.legislation.gov.uk/ukpga/1999/22/section/90), [Sch 13 para. 76](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/76) (Sch. 14 para 7(2)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2001/916/article/2/a/ii)
+
+[^key-1801802d993f7dc99ab83e3aa12a43e7]: Textual amendment: Words in s. 26(6)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 42](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/42); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-09e3e8e3083a6058d9d7d4d7668af499]: Textual amendment: Words in [s. 26(6)(b)](https://www.legislation.gov.uk/ukpga/1972/18/section/26/6/b) substituted (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 66(4)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/66/4) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^c14185071]: Textual amendment: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para.13](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/13); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art.2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-dd85d39788ffc9ee66daac8281c52457]: Textual amendment: Words in s. 27A(2) inserted (7.12.2012) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/2), [Sch. 5 para. 2(4)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/2/4)
+
+[^c14185111]: Textual amendment: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 13](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/13); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-b26f4a134cc706452e6ccc89332d43a4]: Textual amendment: Word in s. 27B heading substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 43(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/43/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-028471b6f4208be9437d3fd2f643d7b6]: Textual amendment: Words in s. 27B(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 43(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/43/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-e9ffa98f60e3a1d42f32b405281ae47e]: Textual amendment: Word in s. 27B(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 43(b)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/43/b/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-4881ec0f0d0f0a38f6d38857336c0633]: Textual amendment: Words in s. 27B(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 43(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/43/b/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-00bb3c735b78976a077dccb318bacf95]: Textual amendment: Word in s. 27B(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 43(b)(iii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/43/b/iii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-c1ae6864f68fe0d3817def07981838e5]: Textual amendment: Words in s. 27B(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 43(b)(iv)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/43/b/iv); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14185141]: Textual amendment: Word in s. 27B(3) substituted (4.11.1996) by [S.I. 1995/756](https://www.legislation.gov.uk/uksi/1995/756), [art. 8](https://www.legislation.gov.uk/uksi/1995/756/article/8); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 3](https://www.legislation.gov.uk/nisr/1996/297/article/3)
+
+[^key-a64a140d34b1ff3e6e4880765ffe5c16]: Textual amendment: S. 27B(4)(5) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 43(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/43/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14185191]: Textual amendment: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 13](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/13); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-df69d6fa6f42a2ada1242c466fab699e]: Textual amendment: Words in s. 27C(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-377574f4edc3ccf5c3a04575208779a3]: Textual amendment: S. 27C(2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-03bc26666bb102ebe9328d8ff05b34db]: Textual amendment: Word in s. 27C(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-25e7aab08ab8d5416658232fcdab441f]: Textual amendment: Words in s. 27C(4)(a)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(d)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/d/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-f6cc65fc680fd9490012e071ebdffa35]: Textual amendment: Words in s. 27C(4)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(d)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/d/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-702070818aa023a0bc904c5a756b74f7]: Textual amendment: Words in s. 27C(5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(e)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/e/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-5ee81caca7f8e380ca6f857caec489e9]: Textual amendment: Words in s. 27C(5) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(e)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/e/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-e6a455a361b6b91fed8f63c7af76a15b]: Textual amendment: Words in s. 27C(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(f)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/f); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-924027e829fab15fba3afac67a1aac4c]: Textual amendment: Words in s. 27C(7) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(g)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/g/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-26feffb90d2241c8a6839550ac14a16c]: Textual amendment: Words in s. 27C(7) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 44(g)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/44/g/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14185381]: Textual amendment: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s.1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para.13](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/13), [S.I](https://www.legislation.gov.uk/ukpga/1992/56/section/I). 1993/618, art.2
+
+[^key-52a5f4b1fee5f85b4238560377f4b790]: Textual amendment: Word in s. 28(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 45(a)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/45/a/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-28dd04bb3d4d5af663f5401801cfa750]: Textual amendment: Words in s. 28(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 45(a)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/45/a/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-b66119f8a8f683972ff4fc08fc9a01d2]: Textual amendment: Word in s. 28(2)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 45(b)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/45/b/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-a396bca49ddf12baf9fb84c2d6a5e248]: Textual amendment: S. 28(2)(b) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 45(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/45/b/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14185651]: Textual amendment: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para.13](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/13); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art.2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-d2cd970d2f7cd2a848e813e851756ec8]: Textual amendment: Words in s. 28A(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 46(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/46/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-fc40dcd668ebae2ecab55c62745a16a9]: Textual amendment: Words in s. 28A(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 46(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/46/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-34f5a5a9f08f4bcd41e61b82e6758678]: Textual amendment: Words in s. 28A(6)(e) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 46(c)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/46/c/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-2ab41877e42a7d4d1be1242597bb8fec]: Textual amendment: S. 28A(6)(f) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 46(c)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/46/c/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-84d0c92c95631b0d01c4e0751bd46ab0]: Textual amendment: S. 28B repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 47](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/47); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14185681]: Textual amendment: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 72](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/72) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^key-8e9295018b3f06c7a802b2766809014c]: Textual amendment: Words in s. 28C(2) inserted (7.12.2012) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/2), [Sch. 5 para. 2(5)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/2/5)
+
+[^c14185691]: Textual amendment: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 72](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/72) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^key-6e7edf18cce39914943feb2c8bdcc7f6]: Textual amendment: Words in s. 28D(1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 66(5)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/66/5/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^key-6b97e0088802a2b0d02420f20e5dbc2c]: Textual amendment: S. 28D(4)(5) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 66(5)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/66/5/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^c14185701]: Textual amendment: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 72](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/72) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14185731]: Textual amendment: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 72](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/72) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14185961]: Textual amendment: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 72](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/72) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14185971]: Textual amendment: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 72](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/72) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14186361]: Textual amendment: S. 30(1)(2)(6) repealed (14.10.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [ss. 116](https://www.legislation.gov.uk/ukpga/1990/41/section/116), [125(7)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/7), [Sch. 16 para. 39(3)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/16/paragraph/39/3), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/41/schedule/20); [S.I. 1991/1883](https://www.legislation.gov.uk/uksi/1991/1883), [art. 3](https://www.legislation.gov.uk/uksi/1991/1883/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/1883/schedule)
+
+[^c14186381]: Textual amendment: S. 30(3)(4)(5) repealed (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(2)](https://www.legislation.gov.uk/nisi/1995/755/article/185/2), [Sch. 10](https://www.legislation.gov.uk/nisi/1995/755/schedule/10) (with [Sch. 8 paras. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1), [23(4)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/23/4)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14186541]: Textual amendment: Words substituted by [Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2)](https://www.legislation.gov.uk/ukpga/1986/47), [ss. 45](https://www.legislation.gov.uk/ukpga/1986/47/section/45), [46(4)](https://www.legislation.gov.uk/ukpga/1986/47/section/46/4), [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/1986/47/schedule/3/paragraph/1/1)
+
+[^c14186551]: Textual amendment: S. 31(1A)–(1D) substituted for subsection (1A) by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/1), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1/paragraph/6)
+
+[^c14186561]: Textual amendment: Words inserted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 60(1)(b)(i)](https://www.legislation.gov.uk/ukpga/1978/22/section/60/1/b/i), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14186571]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 60(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1978/22/section/60/1/b/ii),89
+
+[^c14186581]: Textual amendment: S. 31(2A) inserted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c.22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 60(1)(c)](https://www.legislation.gov.uk/ukpga/1978/22/section/60/1/c), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14186591]: Marginal citation: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58).
+
+[^c14186601]: Textual amendment: S. 31(4)-(6) inserted by [Domestic Proceedings and Magiastrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 60(1)(d)](https://www.legislation.gov.uk/ukpga/1978/22/section/60/1/d), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14186611]: Textual amendment: Words commencing “obtained in a” substituted (S.) for words commencing “granted in a” by [Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1984/42), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/1984/42/section/31/2), [48(2)](https://www.legislation.gov.uk/ukpga/1984/42/section/48/2)
+
+[^c14186631]: Textual amendment: S. 31(4)(ii)(iia) substituted (S.) for para. (ii) by [Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1984/42), [s. 31(3)](https://www.legislation.gov.uk/ukpga/1984/42/section/31/3)
+
+[^c14186671]: Textual amendment: S. 31(4A) inserted by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/1), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1/paragraph/6)(*b*)
+
+[^c14186681]: Textual amendment: S. 31(5) repealed by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(1)(2)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/1/2), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1/paragraph/6)(*c*), Sch. 2
+
+[^c14186691]: Marginal citation: [1966 c. 19](https://www.legislation.gov.uk/ukpga/1966/19).
+
+[^key-313dfe933590bee6aeccbebb53d6fe0c]: Textual amendment: Words in s. 32(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 48(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/48/2/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-e723fe3eb67cdba5d1e38659a8102fe8]: Textual amendment: Words in s. 32(2) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 48(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/48/2/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-b5b4a3e18b68b57f6cf628ab3d57c4dd]: Textual amendment: Words in s. 32(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 48(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/48/2/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-9095d236ddcddd7cb70efb683c2781f1]: Textual amendment: Words in s. 32(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 48(2)(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/48/2/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-3abbfaac4089d7e334857c1ff34ade2b]: Textual amendment: S. 32(2A) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 48(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/48/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14186761]: Textual amendment: S. 32(7A)(7B) inserted (S.) by [Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2)](https://www.legislation.gov.uk/ukpga/1986/47) , [ss. 45](https://www.legislation.gov.uk/ukpga/1986/47/section/45) , [46(4)](https://www.legislation.gov.uk/ukpga/1986/47/section/46/4) , [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/1986/47/schedule/3/paragraph/1/2) ( *a* )
+
+[^key-c45bd11d5ee09a796dd46a4594048906]: Textual amendment: Words in s. 32(8) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 48(4)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/48/4/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-7c5aa37a3af28451498e284963e6f9b3]: Textual amendment: Words in s. 32(8) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 48(4)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/48/4/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14186771]: Textual amendment: S. 32(9)( *e* ) repealed (S.) by [Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2)](https://www.legislation.gov.uk/ukpga/1986/47) , [ss. 45](https://www.legislation.gov.uk/ukpga/1986/47/section/45) , [46(4)](https://www.legislation.gov.uk/ukpga/1986/47/section/46/4) , [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/1986/47/schedule/3/paragraph/1/2) ( *b* ), Sch. 5
+
+[^key-ab00c7926bfa52ff6a274910f916c0d8]: Modification: S. 33(1) excluded (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [11](https://www.legislation.gov.uk/uksi/2014/605/article/11)
+
+[^key-6ea1e8c258a44b89a25586f31298ef48]: Textual amendment: Words in s. 33(2) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [9](https://www.legislation.gov.uk/uksi/2014/605/article/9)
+
+[^c14186981]: Marginal citation: [1966 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1966/35)
+
+[^M_F_309ea7b8-7157-4a6e-be81-6569b4d1d086]: Textual amendment: S. 33(3) omitted (E.W.) (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/1991/17/section/61/3), [Sch. 11 para. 49(a)](https://www.legislation.gov.uk/ukpga/1991/17/schedule/11/paragraph/49/a) (with [s. 61(13)(f)](https://www.legislation.gov.uk/ukpga/1991/17/section/61/13/f)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^M_F_3a2d13bd-439c-4681-8313-19a07fec91ad]: Textual amendment: Words in s. 33(3) substituted (N.I.) (4.11.1996) by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576), [art. 11](https://www.legislation.gov.uk/nisi/1993/1576/article/11), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/nisi/1993/1576/schedule/1/paragraph/13/a); [S.R. 1996/454](https://www.legislation.gov.uk/nisr/1996/454), [art. 3](https://www.legislation.gov.uk/nisr/1996/454/article/3)
+
+[^M_F_d5c37a96-90cc-4f2c-8f46-e9754e4f6b0a]: Textual amendment: Words in s. 33(3) substituted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 73](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/73) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^key-812d6ec2e65b06dbe5f98b21e0151eb4]: Textual amendment: S. 33(3A) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 49(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/49/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187091]: Textual amendment: S. 33(3B) inserted (N.I.) (4.11.1996) by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576), [art. 11](https://www.legislation.gov.uk/nisi/1993/1576/article/11), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/nisi/1993/1576/schedule/1/paragraph/13/b); [S.R. 1996/454](https://www.legislation.gov.uk/nisr/1996/454), [art. 3](https://www.legislation.gov.uk/nisr/1996/454/article/3)
+
+[^key-7ab3b1989cb098d4a5f27f1a807f780f]: Textual amendment: Words in s. 33(3B) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 49(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/49/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-572c30c7714948e26257093983b633aa]: Textual amendment: Words in s. 33(4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 49(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/49/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187031]: Marginal citation: [1950 c. 37](https://www.legislation.gov.uk/ukpga/1950/37).
+
+[^c14187311]: Textual amendment: Words in s. 34(1) inserted (N.I.) (4.11.1996) by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576), [art. 11](https://www.legislation.gov.uk/nisi/1993/1576/article/11), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/nisi/1993/1576/schedule/1/paragraph/14/a); [S.R. 1996/454](https://www.legislation.gov.uk/nisr/1996/454), [art. 3](https://www.legislation.gov.uk/nisr/1996/454/article/3)
+
+[^c14187321]: Textual amendment: Words in s. 34(1) inserted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 74(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/74/1) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14187331]: Textual amendment: Words in s. 34(1) inserted (E.W.) (1.4.1992) by [Maintenance Enforcement Act 1991 (c. 17)](https://www.legislation.gov.uk/ukpga/1991/17), [s. 10](https://www.legislation.gov.uk/ukpga/1991/17/section/10), [Sch. 1 para. 19(1)](https://www.legislation.gov.uk/ukpga/1991/17/schedule/1/paragraph/19/1), [S.I](https://www.legislation.gov.uk/ukpga/1991/17/section/I). 1992/455, art. 2
+
+[^key-704944ae203fb32ddedd56804eaf8a32]: Textual amendment: Words in s. 34(1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 50(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/50/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-956b5b623b55eb44a9862883773bc0d6]: Textual amendment: Words in s. 34(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 50(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/50/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-7543be11d1fdf81cf47ff32195354a3b]: Textual amendment: S. 34(3A) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 50(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/50/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187371]: Textual amendment: S. 34(3B) inserted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 74(2)](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/74/2) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14187381]: Textual amendment: Words inserted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/1978/22/section/60/2), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14187391]: Textual amendment: S. 34(5)(b) substituted (S.) by [Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2)](https://www.legislation.gov.uk/ukpga/1986/47), [ss. 45](https://www.legislation.gov.uk/ukpga/1986/47/section/45), [46(4)](https://www.legislation.gov.uk/ukpga/1986/47/section/46/4), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/ukpga/1986/47/schedule/3/paragraph/1/3)
+
+[^c14187471]: Textual amendment: S. 34A inserted (1.4.1992) by [Maintenance Enforcement Act 1991 (c. 17)](https://www.legislation.gov.uk/ukpga/1991/17), [s. 10](https://www.legislation.gov.uk/ukpga/1991/17/section/10), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/ukpga/1991/17/schedule/1/paragraph/19/2); [S.I. 1992/455](https://www.legislation.gov.uk/uksi/1992/455), [art. 2](https://www.legislation.gov.uk/uksi/1992/455/article/2)
+
+[^key-314d8cd49aeb66ea29d428275eeee39b]: Textual amendment: Words in s. 34A heading substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(9)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/9); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-124f9eb11e455e08b75fa72e913b4290]: Textual amendment: Words in s. 34A(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/2/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-1447ee2d6b8a03e0772472777c25e8e6]: Textual amendment: S. 34A(1)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/2/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187491]: Marginal citation: [1978 c. 22](https://www.legislation.gov.uk/ukpga/1978/22).
+
+[^c14187501]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-aae99cc2c50f20f57c6549dd1c71e6e6]: Textual amendment: Words in s. 34A(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-5527daa1cca940fc187b55b9f70a64a4]: Textual amendment: Words in s. 34A(3)(a)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(4)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/4/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-67b0c5b69656e54442b801e80642edfe]: Textual amendment: Words in s. 34A(3)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(4)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/4/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187531]: Marginal citation: [1971 c. 32](https://www.legislation.gov.uk/ukpga/1971/32).
+
+[^key-993e117a38b19ba97785da17f71ea4fb]: Textual amendment: Ss. 34A(4)-(8) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-e74195ac5e2a231c3c5b7a855d109142]: Textual amendment: Words in s. 34A(9) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(6)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/6/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-c946cde13e263f1e5eb625f0a2d6bca8]: Textual amendment: Words in s. 34A(9) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(6)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/6/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-1b0b2de53143eccac5774c55e279c334]: Textual amendment: Words in s. 34A(9) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(6)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/6/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-1ab1b4a248788dd398c2160760cc1ff5]: Textual amendment: Words in s. 34A(9) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(6)(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/6/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-a75ede274fdca50fda5be892dc7b4ea9]: Textual amendment: Words in s. 34A(10) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/7); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187561]: Marginal citation: [1972 c. 18](https://www.legislation.gov.uk/ukpga/1972/18).
+
+[^key-cebb553c9b38a11380cedf8e6a1d3d2a]: Textual amendment: Words in s. 34A(11) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 51(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/51/8); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187571]: Textual amendment: S. 34B inserted (N.I.) (4.11.1996) by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576), [art. 11](https://www.legislation.gov.uk/nisi/1993/1576/article/11), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/nisi/1993/1576/schedule/1/paragraph/14/b); [S.R. 1996/454](https://www.legislation.gov.uk/nisr/1996/454), [art. 3](https://www.legislation.gov.uk/nisr/1996/454/article/3)
+
+[^c14187641]: Textual amendment: Ss. 35, 35A substituted (5.4.1993) for s. 35 by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [ss. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [3](https://www.legislation.gov.uk/ukpga/1992/56/section/3), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II), [para. 16](https://www.legislation.gov.uk/ukpga/1992/56/paragraph/16); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-8d7720271c61c7e49c278ab8393396a1]: Textual amendment: Words in s. 35 heading substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 52(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/52/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-49b0d9fad3fa6896e53496d8689c7b2a]: Textual amendment: S. 35(1)-(1B) substituted for s. 35(1) (7.12.2012) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/2), [Sch. 5 para. 2(6)(a)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/2/6/a)
+
+[^key-5127593683afd780fddb74acd4b937b3]: Textual amendment: Words in s. 35(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 52(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/52/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-e7a6b23f92f2e9ce53b6228a129145c0]: Textual amendment: S. 35(1A)(b) and preceding word omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [10](https://www.legislation.gov.uk/uksi/2014/605/article/10)
+
+[^key-9a6bb3c6a731ca620cf71e42bd68074c]: Textual amendment: S. 35(1B) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/5/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-922bd342d9acb2a738d45b30734be55e]: Textual amendment: Words in s. 35(2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 52(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/52/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-749234e674a94153f08139661147e53a]: Textual amendment: Words in s. 35(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 52(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/52/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-b26dab4b65987c6331c571c644a1254f]: Textual amendment: S. 35(4) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/5/3/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c14187671]: Textual amendment: S. 35A substituted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 75](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/75) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^key-373921ad174e0a0d792a86e8abaddd9e]: Textual amendment: Ss. 35A(1)-(1B) substituted for s. 35A(1) (7.12.2012) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/2), [Sch. 5 para. 2(7)(a)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/2/7/a)
+
+[^key-886068fd566d9a287cfc3f73333bee0e]: Textual amendment: S. 35A(1B) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 5(4)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/5/4/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b16fd0c5cedc776912430eca77e2bfa2]: Textual amendment: S. 35A(4) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 5(4)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/5/4/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-da594c4d40f8f3eead1868f513e5f121]: Textual amendment: S. 36(A1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 53(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/53/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-cb36bc090f1b170a10aedd219ede93ed]: Textual amendment: Words in s. 36(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 53(3)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/53/3/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-b897e201df8759cc9ebe4378551ca209]: Textual amendment: Words in s. 36(1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 53(3)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/53/3/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-8fa166874b9cb1030c7ba8a172a058ba]: Textual amendment: Words in s. 36(1A) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 53(3)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/53/3/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-ddd475c598dcd1deda7b2a448111bbca]: Textual amendment: Words in s. 36(1A) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 53(3)(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/53/3/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187711]: Textual amendment: Words inserted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/1978/22/section/60/3), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^key-82533caf5214549339b29dec5c34c720]: Textual amendment: Words in s. 36(1A) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 53(3)(e)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/53/3/e); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187721]: Textual amendment: Words substituted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 17](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/17); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^c14187731]: Textual amendment: Words substituted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 76](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/76) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^key-8570f6934e78ae678ca30e67c937aa60]: Textual amendment: Words in s. 38(3)(b) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 5](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^key-11c71a738ff3e893385d966ef6a81909]: Textual amendment: Words in s. 38(4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 54(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/54/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-a48f7d4220237123219f37a0e0cbb5c0]: Textual amendment: Words in s. 38(4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 54(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/54/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187771]: Marginal citation: [1907 c. 51](https://www.legislation.gov.uk/ukpga/1907/51).
+
+[^key-9ce5609f39dd9003adc975636f043c0a]: Textual amendment: S. 38(6) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 54(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/54/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14187811]: Textual amendment: S. 38A inserted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para. 18](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/18); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^key-6f694d1c0d80ebcb3c209bb8a9362379]: Textual amendment: Words in s. 38A heading substituted (1.9.2004) by [Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035)](https://www.legislation.gov.uk/uksi/2004/2035), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2004/2035/schedule/paragraph/2/5) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/2))
+
+[^key-1b02300bd7fd881c1b0679fdb4a7aa83]: Textual amendment: Words in s. 38A(1) substituted (1.9.2004) by [Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035)](https://www.legislation.gov.uk/uksi/2004/2035), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2004/2035/schedule/paragraph/2/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/2))
+
+[^key-a3ae6d750bfe1a8ed90de94f620ab28e]: Textual amendment: Words in s. 38A(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 55](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/55); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-9bb0625581e631e957504e88cc52be0a]: Textual amendment: Words in s. 38A(2) substituted (1.9.2004) by [Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035)](https://www.legislation.gov.uk/uksi/2004/2035), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2004/2035/schedule/paragraph/2/3) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/2))
+
+[^key-d44e68a84a7a2360c57b44d18346bd73]: Textual amendment: S. 38A(3) omitted (1.9.2004) by virtue of [Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035)](https://www.legislation.gov.uk/uksi/2004/2035), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2004/2035/schedule/paragraph/2/4) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/2))
+
+[^c14187831]: Textual amendment: S. 38A(4) inserted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 78(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/78/1) (with [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/1/1)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
+
+[^c14187861]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22). ss. 60(4), 89
+
+[^c14187871]: Textual amendment: Words substituted by [Family Law (Scotland) Act 1985 (c. 37, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1985/37), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/1985/37/section/28/1), [29(4)](https://www.legislation.gov.uk/ukpga/1985/37/section/29/4), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1985/37/schedule/1/paragraph/7)
+
+[^c14187881]: Textual amendment: Definition in s. 39 inserted (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para.19](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/19); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art.2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^c14187891]: Textual amendment: Definition in s. 39 added (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 1](https://www.legislation.gov.uk/ukpga/1992/56/section/1), [Sch. 1 Pt. II para.19](https://www.legislation.gov.uk/ukpga/1992/56/schedule/1/part/II/paragraph/19); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art.2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
+
+[^c14187901]: Textual amendment: Words repealed by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [54](https://www.legislation.gov.uk/ukpga/1982/27/section/54), [Sch. 11 Pt. III para. 17](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/17)(*a*), Sch. 14
+
+[^c14187911]: Textual amendment: Words repealed by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/1982/27/section/37/1), [52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [54](https://www.legislation.gov.uk/ukpga/1982/27/section/54), [Sch. 11 Pt. III para. 17](https://www.legislation.gov.uk/ukpga/1982/27/schedule/11/part/III/paragraph/17)(*b*), Sch. 14
+
+[^c15987671]: Textual amendment: S. 41 repealed (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2).
+
+[^c14188151]: Textual amendment: Words substituted by [Magistrates' Courts Act 1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 154](https://www.legislation.gov.uk/ukpga/1980/43/section/154), [Sch. 7 para. 110](https://www.legislation.gov.uk/ukpga/1980/43/schedule/7/paragraph/110)
+
+[^c14188161]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c14188171]: Textual amendment: Words substituted for s. 41(1)(a)(b) by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [s. 89](https://www.legislation.gov.uk/ukpga/1978/22/section/89), [Sch. 2 para. 36(a)](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/36/a)
+
+[^c14188181]: Textual amendment: S. 41(2)(2A)(2B) substituted for s. 41(2) by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [s. 89](https://www.legislation.gov.uk/ukpga/1978/22/section/89), [Sch. 2 para. 36(b)](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/36/b)
+
+[^c14188191]: Marginal citation: [1971 c. 3](https://www.legislation.gov.uk/ukpga/1971/3).
+
+[^c14188211]: Marginal citation: [1980 c. 34](https://www.legislation.gov.uk/ukpga/1980/34).
+
+[^c14188251]: Editorial: The text of ss. 41(3)(4), 42(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c14188261]: Marginal citation: [1950 c. 37](https://www.legislation.gov.uk/ukpga/1950/37).
+
+[^key-5d6d7f96733407198924bd2453c98392]: Textual amendment: Word in [s. 42](https://www.legislation.gov.uk/ukpga/1972/18/section/42) heading omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 56](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/56); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-2e837d493faa31e3c7798788c242c4b5]: Textual amendment: Word in [s. 42(1)](https://www.legislation.gov.uk/ukpga/1972/18/section/42/1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 56](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/56); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c14188291]: Textual amendment: Words substituted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [s. 89](https://www.legislation.gov.uk/ukpga/1978/22/section/89), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/1978/22/schedule/2/paragraph/37)
+
+[^c14188301]: Marginal citation: [1978 c. 22](https://www.legislation.gov.uk/ukpga/1978/22).
+
+[^c14188311]: Textual amendment: Words inserted by [S.I. 1980/564](https://www.legislation.gov.uk/uksi/1980/564), [art. 4(6)](https://www.legislation.gov.uk/uksi/1980/564/article/4/6)
+
+[^c14188321]: Marginal citation: [S.I. 1980/563 (N.I. 15)](https://www.legislation.gov.uk/nisi/1980/563).
+
+[^c14188331]: Editorial: The text of ss. 41(3)(4), 42(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c14188341]: Marginal citation: [1970 c. 45](https://www.legislation.gov.uk/ukpga/1970/45).
+
+[^c14188351]: Marginal citation: [1920 c. 33](https://www.legislation.gov.uk/ukpga/1920/33).
+
+[^c14188361]: Textual amendment: [S. 43(1)](https://www.legislation.gov.uk/ukpga/1972/18/section/43/1) repealed by [Legal Aid Act 1974 (c. 4)](https://www.legislation.gov.uk/ukpga/1974/4), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1974/4/schedule/5/part/I)
+
+[^c14188371]: Textual amendment: [S. 43(2)(3)](https://www.legislation.gov.uk/ukpga/1972/18/section/43/2/3) repealed by [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228), [Sch. 4](https://www.legislation.gov.uk/nisi/1981/228/schedule/4)
+
+[^c14188381]: Textual amendment: [S. 43A](https://www.legislation.gov.uk/ukpga/1972/18/section/43A) inserted by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [ss. 61](https://www.legislation.gov.uk/ukpga/1978/22/section/61), [89](https://www.legislation.gov.uk/ukpga/1978/22/section/89)
+
+[^c14188391]: Textual amendment: Words substituted (S.) by [Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2)](https://www.legislation.gov.uk/ukpga/1986/47), [ss. 45](https://www.legislation.gov.uk/ukpga/1986/47/section/45), [46(4)](https://www.legislation.gov.uk/ukpga/1986/47/section/46/4), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/1986/47/schedule/3/paragraph/2/2)
+
+[^c14188401]: Marginal citation: [1967 c. 43](https://www.legislation.gov.uk/ukpga/1967/43).
+
+[^c14188421]: Textual amendment: Words substituted (S.) by [Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2)](https://www.legislation.gov.uk/ukpga/1986/47), [ss. 45](https://www.legislation.gov.uk/ukpga/1986/47/section/45), [46(4)](https://www.legislation.gov.uk/ukpga/1986/47/section/46/4), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/1986/47/schedule/3/paragraph/2/3)
+
+[^c14188441]: Textual amendment: Words substituted (S.) by [Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2)](https://www.legislation.gov.uk/ukpga/1986/47), [ss. 45](https://www.legislation.gov.uk/ukpga/1986/47/section/45), [46(4)](https://www.legislation.gov.uk/ukpga/1986/47/section/46/4), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/1986/47/schedule/3/paragraph/2/4)
+
+[^c14188451]: Marginal citation: [1972 c. 50](https://www.legislation.gov.uk/ukpga/1972/50)
+
+[^c14188471]: Marginal citation: [1969 c. 48](https://www.legislation.gov.uk/ukpga/1969/48).
+
+[^c14188481]: Textual amendment: Words substituted by [Evidence (Proceedings in Other Jurisdictions) Act 1975 (c. 34)](https://www.legislation.gov.uk/ukpga/1975/34), [Sch. 1](https://www.legislation.gov.uk/ukpga/1975/34/schedule/1)
+
+[^c14188491]: Marginal citation: [1975 c. 34](https://www.legislation.gov.uk/ukpga/1975/34).
+
+[^c14188501]: Textual amendment: Words substituted by virtue of [Legal Aid Act 1974 (c. 4)](https://www.legislation.gov.uk/ukpga/1974/4), [s. 42(3)](https://www.legislation.gov.uk/ukpga/1974/4/section/42/3)
+
+[^c14188511]: Marginal citation: [1974 c. 4](https://www.legislation.gov.uk/ukpga/1974/4).
+
+[^c14188521]: Marginal citation: [1967 c. 43](https://www.legislation.gov.uk/ukpga/1967/43).
+
+[^c14188531]: Modification: Reference to an enactment of the Parliament of Northern Ireland to be construed as including a reference to a Measure of the Northern Ireland Assembly: [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/1973/36/schedule/5/paragraph/1)
+
+[^c14188541]: Textual amendment: Words substituted by [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [Sch. 6 Pt. I para. 26](https://www.legislation.gov.uk/nisi/1981/1675/schedule/6/part/I/paragraph/26)
+
+[^key-955d8381511486c7610ec16fe4e4b9ec]: Textual amendment: S. 47(3) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 66(6)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/66/6), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+
+[^c14188571]: Modification: Reference to an enactment of the Parliament of Northern Ireland to be construed as including a reference to a Measure of the Northern Ireland Assembly: [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch](https://www.legislation.gov.uk/ukpga/1973/36/schedule), [5](https://www.legislation.gov.uk/ukpga/1973/36/schedule/5) para. 1
+
+[^key-979c4cacd0f3c5e179ff5f1ddb942eb0]: Textual amendment: [S. 48(1)](https://www.legislation.gov.uk/ukpga/1972/18/section/48/1) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 6(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/6/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^c14188581]: Textual amendment: S. 48(2) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
+
+[^key-ccaa3f931526fb60caf8d4906de714ae]: Textual amendment: [S. 48(6)](https://www.legislation.gov.uk/ukpga/1972/18/section/48/6) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 6(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/6/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+
+[^c14188591]: Subordinate legislation: Power of appointment conferred by s. 49(2) partly exercised: [S.I. 1974/517](https://www.legislation.gov.uk/uksi/1974/517), 1975/377 (Act wholly in force except for s. 22(2))
+
+[^c14188601]: Editorial: The text of the Schedule is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c14188611]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1972/18/schedule/paragraph/1) repealed by [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), [s. 89](https://www.legislation.gov.uk/ukpga/1978/22/section/89), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/22/schedule/3)
+
+[^c14188621]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
+
+[^c14188631]: Marginal citation: [1955 c. 19](https://www.legislation.gov.uk/ukpga/1955/19).
+
+[^c14188641]: Marginal citation: [1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53).
+
+[^c14188651]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/1972/18/schedule/paragraph/4) repealed by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 52](https://www.legislation.gov.uk/ukpga/1982/27/section/52), [54](https://www.legislation.gov.uk/ukpga/1982/27/section/54), [Sch. 14](https://www.legislation.gov.uk/ukpga/1982/27/schedule/14)
+
+[^c14188661]: Marginal citation: [1966 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1966/35).
+
+[^c14188671]: Marginal citation: [1970 c. 31](https://www.legislation.gov.uk/ukpga/1970/31).
+
+[^c14188681]: Marginal citation: [1971 c. 32](https://www.legislation.gov.uk/ukpga/1971/32).

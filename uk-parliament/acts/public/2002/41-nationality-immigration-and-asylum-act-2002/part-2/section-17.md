@@ -1,0 +1,45 @@
+---
+title: Nationality, Immigration and Asylum Act 2002, section 17
+act: Nationality, Immigration and Asylum Act 2002
+section: '17'
+status: not-yet-in-force
+text_date: '2026-09-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2002/41/section/17
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Nationality, Immigration and Asylum Act 2002, section 17
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 17. Support for destitute asylum-seeker
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) The Secretary of State may arrange for the provision of accommodation for a person in an accommodation centre if—
+
+- (a) the person is an asylum-seeker or the dependant of an asylum-seeker, and
+- (b) the Secretary of State thinks that the person is destitute or is likely to become destitute within a prescribed period.
+
+(2) The Secretary of State may make regulations about procedure to be followed in respect of the provision of accommodation under this section.
+
+(3) The regulations may, in particular, make provision—
+
+- (a) specifying procedure to be followed in applying for accommodation in an accommodation centre;
+- (b) providing for an application to be combined with an application under or in respect of another enactment;
+- (c) requiring an applicant to provide information;
+- (d) specifying circumstances in which an application may not be considered (which provision may, in particular, provide for an application not to be considered where the Secretary of State is not satisfied that the information provided is complete or accurate or that the applicant is co-operating with enquiries under paragraph (e));
+- (e) about the making of enquiries by the Secretary of State;
+- (f) requiring a person to notify the Secretary of State of a change in circumstances.
+
+(4) Sections 18 to 20 define the following expressions for the purpose of this Part—
+
+- (a) asylum-seeker,
+- (b) dependant, and
+- (c) destitute.

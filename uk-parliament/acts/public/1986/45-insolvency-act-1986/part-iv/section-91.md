@@ -1,0 +1,33 @@
+---
+title: Insolvency Act 1986, section 91
+act: Insolvency Act 1986
+section: '91'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1986/45/section/91
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Insolvency Act 1986, section 91
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 91. Appointment of liquidator.[^c15571581][^key-fb819acb2d23bcb4fae1ac0918d6781a]
+
+*Extent: E+W+S*
+
+(1) In a members’ voluntary winding up, the company in general meeting shall appoint one or more liquidators for the purpose of winding up the company’s affairs and distributing its assets.
+
+(2) On the appointment of a liquidator all the powers of the directors cease, except so far as the company in general meeting or the liquidator sanctions their continuance.
+
+## Annotations
+
+[^c15571581]: Modification: S. 91(1)(2) modified (S.) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(2)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2001/128/schedule/3)
+
+    Ss. 91-93 applied (with modifications) (S.) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4](https://www.legislation.gov.uk/ssi/2001/128/regulation/4), [Sch. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2)
+
+[^key-fb819acb2d23bcb4fae1ac0918d6781a]: Modification: [Ss. 91-93](https://www.legislation.gov.uk/ukpga/1986/45/section/91) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))

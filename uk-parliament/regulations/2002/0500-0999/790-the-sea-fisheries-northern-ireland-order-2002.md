@@ -1,0 +1,493 @@
+---
+title: The Sea Fisheries (Northern Ireland) Order 2002
+id: uksi/2002/790
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-03-26'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2002/790
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/790/pdfs/uksi_20020790_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/790/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fisheries (Northern Ireland) Order 2002
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2002 No. 790
+
+NORTHERN IRELAND
+
+SEA FISHERIES
+
+The Sea Fisheries (Northern Ireland) Order 2002
+
+Made
+
+26th March 2002
+
+Coming into force
+
+28th March 2002
+
+At the Court at Buckingham Palace, the 26th day of March 2002
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas a draft of this Order has been laid before, and approved by, a resolution of each House of Parliament in accordance with sections 6(5) and 86(6) of the Northern Ireland Act 1998 [^c133861]:
+
+Now, therefore, Her Majesty, in exercise of the powers conferred by sections 6(4) and 86(1), (3), (4) and (5) of the Northern Ireland Act 1998 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the Sea Fisheries (Northern Ireland) Order 2002.
+
+(2) This Order shall come into force on the second day after the day on which it is made.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “the 1998 Act” means the Northern Ireland Act 1998;
+- “the Northern Ireland zone” means the sea within British fishery limits which is adjacent to Northern Ireland;
+- “the transferor” means, in relation to anything transferred by this Order, the Minister or Ministers from whom it is transferred.
+
+(2) Any reference in this Order to a Northern Ireland fishing boat is to a vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 [^c133871] and whose entry in the register specifies a port in Northern Ireland as the port to which the vessel is to be treated as belonging.
+
+(3) Any reference in this Order to a function of a Minister of the Crown under any enactment includes a reference to the functions of that Minister under any scheme, regulations, Order in Council, order, bye-laws or similar instrument having effect under or in relation to that enactment.
+
+## 3. Modification and transfer of functions
+
+(1) Schedule 1, which makes provision about functions under the Sea Fish (Conservation) Act 1967 [^c133881], shall have effect.
+
+(2) Schedule 2, which makes provision about functions under the Fisheries Act 1981 [^c133891], shall have effect.
+
+(3) Schedule 3, which makes provision about functions under other enactments relating to sea fisheries, shall have effect.
+
+## 4. Transfer of property, rights and liabilities
+
+All property, rights and liabilities to which the transferor is entitled or subject at the coming into force of this Order in connection with any function transferred by this Order are hereby transferred to the Department of Agriculture and Rural Development.
+
+## 5. Transfers: supplementary and consequential
+
+(1) This Order shall not affect the validity of anything done (or having effect as if done) by or in relation to the transferor before the coming into force of this Order.
+
+(2) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the transferor may, so far as it relates to anything transferred by this Order, be continued by or in relation to the Department of Agriculture and Rural Development.
+
+(3) Anything done (or having effect as if done) by or in relation to the transferor for the purposes of or in connection with anything transferred to the Department of Agriculture and Rural Development by this Order shall, if in force at the coming into force of this Order, have effect as if done by or in relation to the Department of Agriculture and Rural Development in so far as that is required for continuing its effect after the coming into force of this Order.
+
+(4) Any enactment or instrument passed or made before the coming into force of this Order shall have effect, so far as may be necessary for the purposes of or in consequence of any transfer effected by this Order as if any references (including references which are to be construed as such references) to the transferor or his department or officers were references to, or (as the context may require) to officers of, the Department of Agriculture and Rural Development.
+
+(5) In this Article “instrument”, without prejudice to the generality of that expression, includes in particular Royal Charters, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, contracts and other agreements, memoranda and articles of association, warrants, certificates and other documents.
+
+## 6. The Northern Ireland zone
+
+(1) In section 16(1)(f) of the Fisheries Act (Northern Ireland) 1966 [^c133901] (definition of boundary of Londonderry area) for “waters within British fishery limits which are adjacent to Northern Ireland” substitute “ the Northern Ireland zone ”.
+
+(2) In section 124(1) of that Act [^c133911] (sea-fishing regulations) for “waters within British fishery limits which are adjacent to Northern Ireland” substitute “ the Northern Ireland zone ”.
+
+(3) In section 206 of that Act [^c133921] (interpretation)—
+
+- (a) in subsection (1), after the definition of “net” insert—
+
+  > “Northern Ireland zone” has the same meaning as in the Northern Ireland Act 1998 [^c133931];
+
+  ;
+- (b) in that subsection, in the definition of “waters” for “consisting of waters within British fishery limits which are adjacent to Northern Ireland” substitute “ within the Northern Ireland zone ”;
+- (c) in that subsection, omit the definition of “waters within British fishery limits which are adjacent to Northern Ireland”; and
+- (d) in subsection (3) for “waters within British fishery limits which are adjacent to Northern Ireland” substitute “ the Northern Ireland zone ”.
+
+(4) In section 40 of the Fisheries Act 1981 [^c133941] (fishery protection in waters adjacent to Northern Ireland) for the words from “waters” to the end substitute “ the Northern Ireland zone within the meaning of the Northern Ireland Act 1998 ”.
+
+## 7. Further amendments relating to sea fisheries
+
+(1) In section 64 of the Sea Fisheries Act 1868 [^c133951] (application of penalties) at the end insert “or, in relation to Northern Ireland, shall be paid into the Consolidated Fund of Northern Ireland”.
+
+(2) Nothing in section 14(1) and 42 of the Sea Fish Industry Act 1970 [^c133961] (restrictions on disclosure of information) shall prohibit the disclosure of any information to the Department of Agriculture and Rural Development.
+
+(3) In section 12(2) of the Fisheries Act 1981 (restriction on disclosure of information), after paragraph (b) insert—
+
+> , or
+>
+> - (c) to the Department of Agriculture and Rural Development for the purposes of any of its functions relating to the sea fish industry in Northern Ireland or to the regulation of sea fishing;
+
+.
+
+(4) In section 43 of that Act (financial provision), at the end add—
+
+> (3) Any sums received by the Department of Agriculture and Rural Development under this Act shall be paid into the Consolidated Fund of Northern Ireland.
+
+## 8. Repeals
+
+The statutory provisions specified in Schedule 4 are hereby repealed to the extent specified in that Schedule.
+
+A. K. Galloway
+
+Clerk of the Privy Council
+
+## SCHEDULE 1 — FUNCTIONS UNDER THE SEA FISH (CONSERVATION) ACT 1967
+
+Article 3(1)
+
+### 1. Interpretation
+
+(1) References in this Schedule to statutory provisions are to provisions of the Sea Fish (Conservation) Act 1967 [^c133971], unless otherwise indicated.
+
+(2) Expressions used in this Schedule which are also used in the Sea Fish (Conservation) Act 1967 shall have the same meaning as in that Act, and cognate expressions shall be construed accordingly, except that references to, or to any of, the Ministers shall be construed without the modification made by section 22A of that Act [^c133981].
+
+(3) Any reference in this Schedule to a function of the Ministers or to a function of one of the Ministers includes a function which has been transferred to the Scottish Ministers or the National Assembly of Wales only if, and only to the extent that, it remains exercisable by the Ministers or (as the case may be) one of the Ministers, as well as by the Scottish Ministers or the National Assembly of Wales.
+
+### 2. Modification of order-making functions
+
+(1) An order under section 1(3) [^c133991] may make provision applying—
+
+- (a) only to Northern Ireland fishing boats;
+- (b) only to relevant British fishing boats other than Northern Ireland fishing boats;
+- (c) only to the Northern Ireland zone.
+
+(2) An order under section 3 [^c134001] may make provision applying—
+
+- (a) only to Northern Ireland fishing boats;
+- (b) only to relevant British fishing boats other than Northern Ireland fishing boats.
+
+(3) Orders under section 4(1) [^c134011] or 4A(1) [^c134021] prohibiting fishing or the receiving of fish may make provision applying only to Northern Ireland fishing boats.
+
+(4) Orders under section 6(1A) [^c134031] prohibiting the trans-shipment of fish may make provision applying only to the Northern Ireland zone.
+
+### 3. Transfer of functions to the Department of Agriculture and Rural Development
+
+(1) The following functions shall be treated as exercisable in or as regards Northern Ireland for the purposes of sections 6 (legislative competence) and 86 (provision for purposes consequential on Act etc.) of the 1998 Act, and shall be transferred to the Department of Agriculture and Rural Development, namely—
+
+- (a) the functions of the Ministers under section 1(3) of—
+  - (i) making an order prescribing the minimum size of fish which may be carried on a Northern Ireland fishing boat, and
+  - (ii) making provision in such an order prohibiting the carrying of fish of less than the prescribed size within the Northern Ireland zone by fishing boats other than Northern Ireland fishing boats;
+- (b) the functions of the Ministers under section 3 of—
+  - (i) making an order requiring nets and other fishing gear carried in Northern Ireland fishing boats to comply with prescribed requirements, and
+  - (ii) making an order requiring nets and other fishing gear carried within the Northern Ireland zone in fishing boats other than Northern Ireland fishing boats to comply with prescribed requirements;
+- (c) the function of the Ministers under section 4(1) of providing by order—
+  - (i) that in the Northern Ireland zone or any area comprised within that zone fishing by fishing boats is prohibited unless authorised by a licence, and
+  - (ii) that in any specified area outside that zone fishing by Northern Ireland fishing boats is prohibited unless authorised by a licence;
+- (d) the function of the Ministers under section 4 [^c134041] of granting—
+  - (i) licences authorising fishing within the Northern Ireland zone,
+  - (ii) licences authorising fishing in any area within that zone, and
+  - (iii) licences authorising fishing outside that zone by Northern Ireland fishing boats,
+
+  and the functions under section 4 in relation to such licences of the Minister who grants the licence;
+- (e) the function of the Ministers under section 4A(1) of providing by order—
+  - (i) that in the Northern Ireland zone or in any area comprised within that zone the receiving by any vessel of trans-shipped fish is prohibited unless authorised by a licence, and
+  - (ii) that within, or in any specified area within, British fishery limits but outside the Northern Ireland zone, the receiving by Northern Ireland fishing boats of trans-shipped fish is prohibited unless authorised by a licence;
+- (f) the function of the Ministers under section 4A [^c134051] of granting—
+  - (i) licences authorising the receiving by any vessel of trans-shipped fish within the Northern Ireland zone,
+  - (ii) licences authorising the receiving by any vessel of trans-shipped fish in an area comprised within that zone, and
+  - (iii) licences authorising the receiving of trans-shipped fish within, or in any specified area within, British fishery limits but outside the Northern Ireland zone by Northern Ireland fishing boats,
+
+  and the functions under section 4A in relation to such licences of the Minister who grants the licence;
+- (g) the function of the Ministers under section 4B [^c134061] of making regulations about licences granted under section 4 or 4A by the Department of Agriculture and Rural Development;
+- (h) the function of the Ministers under section 5 [^c134071] of prohibiting by order fishing within the Northern Ireland zone or in any area within that zone or fishing outside that zone by Northern Ireland fishing boats;
+- (i) the function of the Ministers under section 6 [^c134081] of prohibiting by order the landing of fish in Northern Ireland or the trans-shipment of fish within the Northern Ireland zone;
+- (j) the function of the Secretary of State for Trade and Industry under section 8 [^c134091] of regulating by order the landing of sea fish in Northern Ireland;
+- (k) the functions of one of the Ministers under section 9(2), (3) and (4) [^c134101] of authorising operations in the Northern Ireland zone or operations by Northern Ireland fishing boats outside that zone;
+- (l) the function of the Ministers under section 10 of taking measures within the Northern Ireland zone for the increase or improvement of marine resources, and the function of concurring and assisting in such measures;
+- (m) the function of the Ministers under section 15(3) [^c134111] of conferring on British sea-fishery officers powers relating to—
+  - (i) any fishing boat in the Northern Ireland zone, or
+  - (ii) any Northern Ireland fishing boat outside that zone.
+
+(2) So far as the functions mentioned in sub-paragraph (1)(a) to (f), (h), (i) and (m), and the function mentioned in sub-paragraph (1)(k) of authorising operations by Northern Ireland fishing boats outside the Northern Ireland zone, are exercisable—
+
+- (a) in relation to British fishing boats, other than Northern Ireland fishing boats, within the Northern Ireland zone, and
+- (b) in relation to Northern Ireland fishing boats, within British fishery limits but outside the Northern Ireland zone,
+
+they shall, despite their transfer under sub-paragraph (1), be exercisable by the person by whom they were exercisable immediately before the transfer as well as by the Department of Agriculture and Rural Development.
+
+### 4. Orders and regulations
+
+(1) Section 20(2) shall not apply to any order made under section 1(3), 3 or 15 by the Department of Agriculture and Rural Development, but any such order—
+
+- (a) shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 [^c134121], and
+- (b) shall be laid before the Assembly.
+
+(2) Section 20(2) [^c134131] shall not apply to any order made under section 4(1), 4A(1), 5(1), 6(1) or (1A) or 8 by the Department of Agriculture and Rural Development, but any such order—
+
+- (a) shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979, and
+- (b) shall be subject to negative resolution, within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 [^c134141].
+
+(3) In its application to an order made under section 4(1) or 4A(1) by the Department of Agriculture and Rural Development, section 4(4) and section 4A(4) respectively shall have effect with the substitution of “the Department of Finance and Personnel” for “the Treasury”.
+
+(4) Section 4B(4) shall not apply to any regulations made by the Department of Agriculture and Rural Development under section 4B(1), but such regulations—
+
+- (a) shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979, and
+- (b) shall be subject to negative resolution, within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954.
+
+(5) In their application to an order made by the Department of Agriculture and Rural Development, section 6(1) and (1A) shall have effect with the omission of the reference to consultation with the Secretary of State.
+
+(6) In its application to an order made under section 8 by the Department of Agriculture and Rural Development, section 8(1), (2) and (3) shall have effect with the omission of the references to consultation with the Ministers.
+
+## SCHEDULE 2 — FUNCTIONS UNDER THE FISHERIES ACT 1981
+
+Article 3(2)
+
+### 1. Modification of the Fisheries Act 1981
+
+(1) References in this Schedule to statutory provisions are to provisions of the Fisheries Act 1981 [^c134151], unless otherwise indicated.
+
+(2) Expressions used in this Schedule which are also used in the Fisheries Act 1981 shall have the same meaning as in that Act, and cognate expressions shall be construed accordingly.
+
+### 2. Functions under Part II of the Fisheries Act 1981 (schemes of financial assistance)
+
+(1) A scheme under section 15 [^c134161] may be limited so as to apply only to Northern Ireland fishing boats.
+
+(2)[^key-9327a747c0b53b0ccc6cf459c64378b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Those functions shall, despite their transfer, be exercisable by the person by whom they were exercisable immediately before the transfer as well as by the Department of Agriculture and Rural Development.
+
+(4) Section 15(3) and (4) shall not apply to a scheme made by the Department of Agriculture and Rural Development, but any such scheme—
+
+- (a) shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 [^c134181];
+- (b) shall be laid before the Assembly after being made; and
+- (c) shall cease to have effect (without prejudice to anything previously done thereunder or to the making of a new scheme) after the expiration of the period of three months beginning with the day on which it is made, unless within that period it has been approved by a resolution of the Assembly.
+
+(5) Where Ministers of the Crown propose to make a scheme under section 15, they shall consult the Department of Agriculture and Rural Development if—
+
+- (a) the fishing boats to which the scheme is to apply include Northern Ireland fishing boats, or
+- (b) the area to which the scheme is to extend includes all or part of the Northern Ireland zone.
+
+(6) Section 16(5) shall not apply to a scheme made by the Department of Agriculture and Rural Development, but instead—
+
+- (a) the auditors shall complete the audit of the accounts and send copies of the statement of accounts and of their report on the accounts and the statement to the Department of Agriculture and Rural Development as soon as possible after the end of the financial year to which they relate and in any event not later than 30th September following the end of that year, and
+- (b) the Minister in charge of the Department of Agriculture and Rural Development shall lay copies of the statement and report before the Assembly.
+
+(7) In their application to a scheme made by the Department of Agriculture and Rural Development—
+
+- (a) sections 15(1) and 16(3) shall have effect with the substitution of “the Department of Finance and Personnel” for “the Treasury”, and
+- (b) section 16(6) shall have effect with the substitution for the reference to the Comptroller and Auditor General of a reference to the Comptroller and Auditor General for Northern Ireland.
+
+### 3. Function under section 30 of the Fisheries Act 1981 ...[^key-252b6bbd506b5ec29209557d0feea5d8]
+
+(1) The function conferred by section 30(2) of making provision by order for the enforcement of any assimilated[^key-05c7d0d4ef4622a4912b6b8200c64745][^key-438949f6cef6f6d0cc905a0d89cd9f3e] restriction or assimilated obligation relating to sea fishing—
+
+- (a) within the Northern Ireland zone, and
+- (b) outside that zone in relation to Northern Ireland fishing boats,
+
+shall be treated as exercisable in or as regards Northern Ireland for the purposes of section 6 (legislative competence) and 86 (provision for purposes consequential on Act etc.) of the 1998 Act and shall be transferred to the Department of Agriculture and Rural Development.
+
+(2) That function shall, despite its transfer under paragraph (1), be exercisable by the person by whom it was exercisable immediately before the transfer as well as by the Department of Agriculture and Rural Development.
+
+(3) Section 30(4) shall not apply to an order made by the Department of Agriculture and Rural Development, but any such order—
+
+- (a) shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979, and
+- (b) shall be subject to negative resolution, within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954.
+
+## SCHEDULE 3 — FUNCTIONS UNDER OTHER ENACTMENTS RELATING TO SEA FISHERIES
+
+Article 3(3)
+
+### 1. Sea Fish Industry Act 1962
+
+The function under section 17 of the Sea Fish Industry Act 1962 [^c134191] of authorising operations in the Northern Ireland zone—
+
+- (a) shall be treated as exercisable in or as regards Northern Ireland for the purposes of sections 6 (legislative competence) and 86 (provision for purposes consequential on Act etc.) of the 1998 Act, and
+- (b) shall be transferred to the Department of Agriculture and Rural Development.
+
+### 2. Sea Fisheries Act 1968
+
+Orders under section 5 of the Sea Fisheries Act 1968 [^c134201] may make provision applying only to Northern Ireland fishing boats.
+
+**3.** (1) The function conferred by section 5 of that Act of making provision by order in relation to operations within the Northern Ireland zone or in any area within that zone or operations outside that zone by Northern Ireland fishing boats—
+
+- (a) shall be treated as exercisable in or as regards Northern Ireland for the purposes of sections 6 (legislative competence) and 86 (provision for purposes consequential on Act etc.) of the 1998 Act, and
+- (b) shall be transferred to the Department of Agriculture and Rural Development.
+
+(2) So far as that function is exercisable—
+
+- (a) in relation to British fishing boats other than Northern Ireland fishing boats, within the Northern Ireland zone,
+- (b) in relation to Northern Ireland fishing boats outside the Northern Ireland zone,
+- (c) in relation to any boat, for the purpose of implementing an assimilated[^key-b363b41a90b9fb053608c002b08df6b8][^key-f104b2bb04f4c0c692858f5b66c901e4] obligation,
+
+it shall, despite its transfer under sub-paragraph (1), be exercisable by the person by whom it was exercisable immediately before the transfer as well as by the Department of Agriculture and Rural Development.
+
+(3) Section 18(1) and (2) [^c134211] shall not apply to any order made under section 5 of the Sea Fisheries Act 1968 by the Department of Agriculture and Rural Development, but any such order—
+
+- (a) shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 [^c134221], and
+- (b) shall be subject to negative resolution, within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 [^c134231].
+
+### 4. Fishery Limits Act 1976
+
+(1) The function conferred by section 2 of the Fishery Limits Act 1976 [^c134241] of designating by order a country and areas within the Northern Ireland zone in which fishing boats registered in that country may fish—
+
+- (a) shall be treated as exercisable in or as regards Northern Ireland for the purposes of sections 6 and 86 of the 1998 Act, and
+- (b) shall be transferred to the Department of Agriculture and Rural Development.
+
+(2) Sections 2(7) and 6(1) of the Fishery Limits Act 1976 shall not apply to any order made under section 2 by the Department of Agriculture and Rural Development, but any such order—
+
+- (a) shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979, and
+- (b) shall be subject to negative resolution, within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954.
+
+### 5. British Fishing Boats Act 1983
+
+(1) References in paragraphs 6 and 7 to statutory provisions are to provisions of the British Fishing Boats Act 1983 [^c134251], unless otherwise indicated.
+
+(2) Expressions used in paragraphs 6 and 7 which are also used in the British Fishing Boats Act 1983 shall have the same meaning as in that Act, and cognate expressions shall be construed accordingly.
+
+**6.** (1) Orders under section 1 [^c134261] may make—
+
+- (a) provision applying only to Northern Ireland fishing boats;
+- (b) provision applying only to Northern Ireland.
+
+**7.** (1) The following functions conferred by section 1 shall be treated as exercisable in or as regards Northern Ireland for the purposes of sections 6 (legislative competence) and 86 (provision for purposes consequential on Act etc.) of the 1998 Act, and shall be transferred to the Department of Agriculture and Rural Development, namely—
+
+- (a) making an order under subsection (2) specifying as a restricted fishing area—
+  - (i) the Northern Ireland zone,
+  - (ii) any area within that zone, or
+  - (iii) for the purpose only of prescribing qualifications for Northern Ireland fishing boats, any area;
+- (b) making an order under subsection (1) prescribing the qualifications for boats to be used in carrying out the operations mentioned in subsection (2)(a) or (b)—
+  - (i) in the Northern Ireland zone,
+  - (ii) in any area within that zone, or
+  - (iii) in the case of Northern Ireland fishing boats, in any restricted fishing area;
+- (c) making an order under subsection (1) prescribing the qualifications for—
+  - (i) boats to be used in landing sea fish in Northern Ireland, or
+  - (ii) Northern Ireland fishing boats to be used in landing sea fish anywhere in the United Kingdom;
+- (d) making an order under subsection (5) about the stowing of fishing gear on boats in the Northern Ireland zone or any restricted fishing area within that zone; and
+- (e) making an order under subsection (5) about the stowing of fishing gear on Northern Ireland fishing boats in any restricted fishing area.
+
+(2) So far as those functions are exercisable—
+
+- (a) in relation to British fishing boats other than Northern Ireland fishing boats, in Northern Ireland or within the Northern Ireland zone, or
+- (b) in relation to Northern Ireland fishing boats, outside Northern Ireland and the Northern Ireland zone, or
+- (c) in relation to any boat, for the purpose of implementing an obligation under EU[^M_F_65034688-cee0-44cb-968a-fda588497146] law,
+
+they shall, despite their transfer under sub-paragraph (1), be exercisable by the person by whom they were exercisable immediately before the transfer as well as by the Department of Agriculture and Rural Development.
+
+(3) In relation to any provision made by order by the Department of Agriculture and Rural Development by virtue of section 1(3) prescribing conditions for qualification with respect to nationality, section 1(4) shall have effect with the substitution for the requirement that the conditions be such as appear to the Ministers to be necessary or expedient for the protection of the sea fishing industry in England and Wales and Northern Ireland, of a requirement that the conditions be such as appear to the Department of Agriculture and Rural Development to be necessary or expedient for the protection of the sea fishing industry in Northern Ireland.
+
+(4) Section 1(8) shall not apply to any order made under section 1 by the Department of Agriculture and Rural Development, but any such order—
+
+- (a) shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979, and
+- (b) shall be subject to negative resolution, within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954.
+
+## SCHEDULE 4 — REPEALS
+
+Article 3(3)
+
+| **Chapter or Number** | **Short title** | **Extent of repeal** |
+| --- | --- | --- |
+| 1966 c.17 (N.I.) | The Fisheries Act (Northern Ireland) 1966. | In section 206, the definition of “waters within British fishery limits which are adjacent to Northern Ireland”. |
+| 1981/227 (N.I.7) | The Fisheries Amendment Order (Northern Ireland) 1981. | In Schedule 4, in Part I, under the heading “*Section 206*”, paragraph (a)(vii). |
+
+*(This note is not part of the Order)*
+
+Article 3 of, and Schedules 1 to 3 to, this Order transfer to the Department of Agriculture and Rural Development functions relating to—
+
+**a)** sea fishing in the Northern Ireland zone, and
+
+**b)** sea fishing by Northern Ireland fishing boats.
+
+As a consequence of these functions being transferred to the Department of Agriculture and Rural Development, various statutory provisions related to sea fisheries are amended by articles 6 and 7.
+
+## Annotations
+
+[^c133861]: Marginal citation: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47).
+
+[^c133871]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^c133881]: Marginal citation: [1967 c.84](https://www.legislation.gov.uk/ukpga/1967/84).
+
+[^c133891]: Marginal citation: [1981 c.29](https://www.legislation.gov.uk/ukpga/1981/29).
+
+[^c133901]: Marginal citation: [1966 c.17](https://www.legislation.gov.uk/ukpga/1966/17). Section 16(1)(f) was inserted by [1968 c.31 (N.I.)](https://www.legislation.gov.uk/apni/1968/31) s.7, Sch.2 and amended by the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86) s.9, Sch.2 para.14, and the Fisheries (Amendment) (Northern Ireland) Order 1981 ([S.I. 1981/227](https://www.legislation.gov.uk/uksi/1981/227) (NI 7)) art.10(2), Sch.4.
+
+[^c133911]: Marginal citation: [Section 124](https://www.legislation.gov.uk/uksi/2002/790/section/124) was substituted by the Fisheries (Amendment) (Northern Ireland) Order 1981 ([S.I. 1981/227](https://www.legislation.gov.uk/uksi/1981/227) (NI 7)) art.6.
+
+[^c133921]: Marginal citation: Relevant amendments to section 206 were made by [1968 c.31 (N.I.)](https://www.legislation.gov.uk/apni/1968/31) s.7, Sch.2, the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86) s.9, Sch.2 para.14, and the Fisheries (Amendment) (Northern Ireland) Order 1981 ([S.I. 1981/227](https://www.legislation.gov.uk/uksi/1981/227) (NI 7)) art.10(2), Sch.4.
+
+[^c133931]: Marginal citation: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47).
+
+[^c133941]: Marginal citation: [1981 c.29](https://www.legislation.gov.uk/ukpga/1981/29).
+
+[^c133951]: Marginal citation: [1868 c.45](https://www.legislation.gov.uk/ukpga/1868/45). Section 64 was amended by the [Statute Law Revision Act 1893 and the Scotland Act 1998 (Consequential Modifications) (No.2) Order 1999 (S.I. 1999/1820)](https://www.legislation.gov.uk/uksi/1999/1820) (“the Consequential Modifications Order”) Sch.2, para.2.
+
+[^c133961]: Marginal citation: [1970 c.11](https://www.legislation.gov.uk/ukpga/1970/11). Sections 14 and 42 were amended by the Consequential Modifications Order, art.4, Sch.1, para.49.
+
+[^c133971]: Marginal citation: [1967 c.84](https://www.legislation.gov.uk/ukpga/1967/84). Relevant amendments to the Sea Fish (Conservation) Act 1967 include the transfer of functions under the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), the [Scotland Act 1998 (Concurrent Functions) Order 1999 (S.I. 1999/1592)](https://www.legislation.gov.uk/uksi/1999/1592) art.3 and Sch.1, the [Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. 1999/1756)](https://www.legislation.gov.uk/uksi/1999/1756) art.3, [Consequential Modifications Order, the Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38) the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) art.2, Sch.1, the [Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. 2000/1812)](https://www.legislation.gov.uk/uksi/2000/1812) \[and the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/)\].
+
+[^c133981]: Marginal citation: [Section 22A](https://www.legislation.gov.uk/uksi/2002/790/section/22A) was inserted by the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c133991]: Marginal citation: [Section 1](https://www.legislation.gov.uk/uksi/2002/790/section/1) was substituted by the [Fisheries Act 1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29), [s.19(1)](https://www.legislation.gov.uk/ukpga/1981/29/section/19/1). Section 1(3) was amended by the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134001]: Marginal citation: [Section 3](https://www.legislation.gov.uk/uksi/2002/790/section/3) was amended by the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86) s.9(1) Sch.2, para.16(1) and the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134011]: Marginal citation: [Section 4](https://www.legislation.gov.uk/uksi/2002/790/section/4) was substituted by the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86) s.3. Subsection (1) was amended by Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134021]: Marginal citation: [Section 4A](https://www.legislation.gov.uk/uksi/2002/790/section/4A) was inserted by the [Fisheries Act 1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) s.21(1). Subsection (1) was amended by the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134031]: Marginal citation: [Section 6(1A)](https://www.legislation.gov.uk/uksi/2002/790/section/6/1A) was inserted by the [Fisheries Act 1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) s.23(2) and was amended by the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134041]: Marginal citation: [Section 4](https://www.legislation.gov.uk/uksi/2002/790/section/4) was substituted by the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86) s.3, and was amended by the [Fisheries Act 1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) s.20, the [Sea Fish (Conservation) Act 1992 (c.60)](https://www.legislation.gov.uk/ukpga/1992/60) s.1, and the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134051]: Marginal citation: [Section 4A](https://www.legislation.gov.uk/uksi/2002/790/section/4A) was inserted by the Fisheries Act 1981 s.21(1) and was amended by the Sea Fish (Conservation) Act 1992 s.3 and the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134061]: Marginal citation: [Section 4B](https://www.legislation.gov.uk/uksi/2002/790/section/4B) was inserted by the [Sea Fish (Conservation) Act 1992 (c.60)](https://www.legislation.gov.uk/ukpga/1992/60) s.4.
+
+[^c134071]: Marginal citation: [Section 5](https://www.legislation.gov.uk/uksi/2002/790/section/5) was amended by the Fisheries Act 1981 s.22(1), (2), (3), and the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134081]: Marginal citation: [Section 6](https://www.legislation.gov.uk/uksi/2002/790/section/6) was amended by the [Fisheries Act 1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) s.23, and the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134091]: Marginal citation: [Section 8](https://www.legislation.gov.uk/uksi/2002/790/section/8) was amended by the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134101]: Marginal citation: [Section 9](https://www.legislation.gov.uk/uksi/2002/790/section/9) was amended by the [Fisheries Act 1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) s.19(2)(b), 46(6), 21(2)(a). The enactments to which section 9(4) applies are described in section 9(5), which was amended by Fisheries Act 1981 s.21(2)(a).
+
+[^c134111]: Marginal citation: Subsections (3)–(5) of section 15 were substituted for the original subsections (3)–(7) by the [Sea Fisheries Act 1968 (c.77)](https://www.legislation.gov.uk/ukpga/1968/77) s.22(1), Sch.1 Pt.II. Subsection (3) was amended by the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86) s.9(1), Sch.2, para.16(1), (3), and the Consequential Modifications Order art.4, Sch.2, para.43.
+
+[^c134121]: Marginal citation: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
+
+[^c134131]: Marginal citation: [Section 20(2)](https://www.legislation.gov.uk/uksi/2002/790/section/20/2) was amended by the [Fisheries Act 1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) s.21(2)(b).
+
+[^c134141]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(6) was amended by the Northern Ireland (Modification of Enactments—No.1) Order 1999 (S.I. [1999 No.663](https://www.legislation.gov.uk/ukcm/1999/663)) Sch.1, para.9(18).
+
+[^c134151]: Marginal citation: [1981 c.29](https://www.legislation.gov.uk/ukpga/1981/29). Relevant amendments to the Fisheries Act 1981 include the transfer of functions under that Act by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), the Scotland Act 1998 (Concurrent Functions) Order 1999 [S.I. 1999/1592](https://www.legislation.gov.uk/uksi/1999/1592) art.3, Sch.1, the [Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc.) Order 1999 (S.I.1999/1747)](https://www.legislation.gov.uk/uksi/1999/1747), the [Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. 1999/1756)](https://www.legislation.gov.uk/uksi/1999/1756), the [Consequential Modifications Order, the Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) art.2, Sch.1, the [Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. 2000/1812)](https://www.legislation.gov.uk/uksi/2000/1812) \[and the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/)\].
+
+[^c134161]: Marginal citation: [Section 15](https://www.legislation.gov.uk/uksi/2002/790/section/15) was amended by the Consequential Modifications Order art.4, Sch.2, para.68.
+
+[^key-9327a747c0b53b0ccc6cf459c64378b1]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/2) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(e)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/e) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^c134181]: Marginal citation: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
+
+[^key-252b6bbd506b5ec29209557d0feea5d8]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/3) heading omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-05c7d0d4ef4622a4912b6b8200c64745]: Textual amendment: Word in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/3/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/48/2)
+
+[^key-438949f6cef6f6d0cc905a0d89cd9f3e]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2002/790/schedule/2/paragraph/3/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c134191]: Marginal citation: [1962 c.31](https://www.legislation.gov.uk/ukpga/1962/31). Section 17 was amended by the Sea Fish (Conservation) Act 1967 s.25(1), Sch. and the Fishery Limits Act 1976 s.2(8). \[A\] relevant amendment\[s\] to the definition of “the Ministers” in section 33(2) \[was\] \[were\] made by the Consequential Modifications Order art.4, Sch.2, para.33 \[and the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/)\].
+
+[^c134201]: Marginal citation: [1968 c.77](https://www.legislation.gov.uk/ukpga/1968/77). Relevant amendments to the Sea Fisheries Act 1968 include the transfer of functions under that Act by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), the Scotland Act 1998 (Concurrent Functions) Order 1999 [S.I. 1999/1592](https://www.legislation.gov.uk/uksi/1999/1592) art.3, Sch.1, the [Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. 1999/1756)](https://www.legislation.gov.uk/uksi/1999/1756), the [Consequential Modifications Order, the Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) art.2, Sch.1, the [Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. 2000/1812)](https://www.legislation.gov.uk/uksi/2000/1812) \[and the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I.2002/)\]. Section 5 was amended by the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86) ss.4, 5, 9, Sch.1 para.3, Sch.2, para.17, the [Fisheries Act 1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) s.24(2), and the Consequential Modifications Order art.4, Sch.2, para.48(2).
+
+[^key-b363b41a90b9fb053608c002b08df6b8]: Textual amendment: Words in [Sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2002/790/schedule/3/paragraph/3/2/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 48(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/48/3)
+
+[^key-f104b2bb04f4c0c692858f5b66c901e4]: Textual amendment: Words in [Sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2002/790/schedule/3/paragraph/3/2/c) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/746/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c134211]: Marginal citation: [Section 18](https://www.legislation.gov.uk/uksi/2002/790/section/18) was amended by the [Sea Fish Industry Act 1970 (c.11)](https://www.legislation.gov.uk/ukpga/1970/11) s.61, Sch.6 and the Consequential Modifications Order art.4, Sch.2, para.48(2).
+
+[^c134221]: Marginal citation: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
+
+[^c134231]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(6) was amended by the Northern Ireland (Modification of Enactments—No.1) Order 1999 (S.I. [1999 No.663](https://www.legislation.gov.uk/ukcm/1999/663)) Sch.1, para.9(18).
+
+[^c134241]: Marginal citation: [1976 c.86](https://www.legislation.gov.uk/ukpga/1976/86). Relevant amendments to the Fishery Limits Act 1976 include the transfer of functions under that Act by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), the [Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. 1999/1756)](https://www.legislation.gov.uk/uksi/1999/1756), the [Consequential Modifications Order, the Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) art.2, Sch.1, the [Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. 2000/1812)](https://www.legislation.gov.uk/uksi/2000/1812) \[and the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/)\]. Section 2 was amended by the Consequential Modifications Order art.4, Sch.2, para.57, the Fisheries Act 1981 s.46(2), Sch.5 Pt.II, and the Merchant Shipping Act 1988 s.57(5), Sch.7.
+
+[^c134251]: Marginal citation: [1983 c.8](https://www.legislation.gov.uk/ukpga/1983/8). Relevant amendments to the British Fishing Boats Act 1983 include the transfer of functions under that Act by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), the Scotland Act 1998 (Concurrent Functions) Order 1999 [S.I. 1999/1592](https://www.legislation.gov.uk/uksi/1999/1592) art.3, Sch.1, the [Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. 1999/1756)](https://www.legislation.gov.uk/uksi/1999/1756), the [Consequential Modifications Order, the Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) art.2, Sch.1, the [Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. 2000/1812)](https://www.legislation.gov.uk/uksi/2000/1812) \[and the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/)\].
+
+[^c134261]: Marginal citation: [Section 1](https://www.legislation.gov.uk/uksi/2002/790/section/1) was amended by the Consequential Modifications Order art.4, Sch.2, para.70.
+
+[^M_F_65034688-cee0-44cb-968a-fda588497146]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)

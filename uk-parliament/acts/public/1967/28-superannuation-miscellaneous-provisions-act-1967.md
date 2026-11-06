@@ -1,0 +1,534 @@
+---
+title: Superannuation (Miscellaneous Provisions) Act 1967
+id: ukpga/1967/28
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1967-05-10'
+text_date: '2013-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1967/28
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1967/28/pdfs/ukpga_19670028_en.pdf
+- http://www.legislation.gov.uk/ukpga/1967/28/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Superannuation (Miscellaneous Provisions) Act 1967
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Superannuation (Miscellaneous Provisions) Act 1967
+
+1967 c.28
+
+An Act to amend the law relating to pensions and other similar payments to or in respect of persons who have been in certain employment, and for connected purposes.
+
+\[10th May 1967\]
+
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6682821]
+
+## 2. Minor corrections of Superannuation (Amendment) Act 1965 and Superannuation Act 1965.
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6682831]
+
+(2) - (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6682841]
+
+## 3. Effect of pension in respect of public office on remuneration in judicial or related office.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6682851]
+
+## 4, 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6682861]
+
+## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6682871]
+
+## 7. Extension of superannuation provisions of National Health Service Acts.[^c6682881]
+
+(1) The Secretary of State[^c6682891] (hereafter in this section referred to as “**the Minister**”) may direct that regulations made under section 10 of the[^c6682901] [^c6682911]Superannuation Act 1972 shall, subject to such modifications as may be provided in the direction, apply to any person specified in the direction—
+
+- (a) who is—
+  - (i) wholly or mainly engaged in health services, whether provided under the National Health Service Act 2006, the National Health Service (Wales) Act 2006[^key-2d4862c50e3b806e6c8efe5062c819e5] or otherwise, but not provided by a . . . [^c6682941] local authority; or
+  - (ii) an officer of a government department serving on the medical or nursing staff of that department or at or for the purposes of a hospital maintained by that department,
+
+  and who, if he were in the employment of an employing authority within the meaning of those regulations, would be an officer within the meaning of those regulations; or
+- (b) who is a member of a body constituted under the National Health Service Act 2006 or the National Health Service (Wales) Act 2006, other than an[^key-f6f7ae1106406cf04b43a7a92712bf65] NHS trust or an NHS foundation trust,
+
+or to any class so specified of such persons, as if the person, or any person of the class, so specified were, within the meaning of the said regulations, an officer in the employment of an employing authority, and in that event the regulations shall apply accordingly and any scheme under section 1 of the said Act of 1972, if otherwise applicable, shall not apply, or shall cease to apply, to that person.
+
+(2) Where any person while continuing in or[^c6682971], within twelve months after leaving employment in which he was entitled to participate in superannuation benefits provided under the said section 10[^c6682981] (any period spent by that person on an approved course of study or training within the meaning of regulations made under that section being left out of account), enters such other employment as may be approved by the Minister for the purposes of this subsection, the Minister may direct that regulations so made shall, subject to such modifications as may be provided in the direction, apply to that person as if, while in that other employment, he were, within the meaning of those regulations, an officer in the employment of an employing authority, and in that event those regulations shall apply accordingly.
+
+(3) A direction under subsection (1) or (2) of this section may be expressed to take effect as from the date of a person’s entry into employment notwithstanding that the direction, or the approval of that employment for the purposes of the said subsection (2), was not given until after that date.
+
+(4) A direction given, or deemed under subsection (6) of this section to have been given, under subsection (1) or (2) of this section shall not be varied or revoked by a subsequent direction so as to exclude from the benefits provided under the said section 10 any person previously entitled thereto unless—
+
+- (a) the Minister is satisfied that other suitable superannuation arrangements are available for that person; and
+- (b) that person consents to his being so excluded;
+
+and where the subsequent direction results in such an exclusion of any such person, it may contain provision for the payment of a transfer value in respect of that person.
+
+(5) The foregoing provisions of this section shall apply to Scotland with the substitution for references to the Minister of references to the Secretary of State and for references to the National Health Service Act 2006[^key-0cbe32c8d51e2ea1603aa1aa3cfe714d] . . . [^c6683011] of references . . . [^c6683011] to the National Health Service (Scotland) [^c6683041]Act 1978[^c6683031] . . . [^c6683011]
+
+(6) The following provisions are hereby repealed or revoked, namely—
+
+- (a) section 19 of the [^c6683061]National Health Service (Amendment) Act 1949;
+- (b) regulation 60 of the [^c6683071]National Health Service (Superannuation) Regulations 1961;
+- (c) regulation 57 of the [^c6683081]National Health Service (Superannuation)(Scotland) Regulations 1961;
+
+but any direction or approval given, or having effect as if given, under any of those provisions and in force immediately before the commencement of this section shall be deemed to have been given under and for the purposes of the corresponding provision of this section.
+
+## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6683091]
+
+## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6683101]
+
+## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6683111]
+
+## 11. Pensions of certain persons transferring to different employment.
+
+(1) For the purposes of section 2 of the [^c6683121]Superannuation (Miscellaneous Provisions) Act 1948 (under which rules may be made with respect to the pension payable to or in respect of a person who has been employed in an employment of one of the classes specified in subsection (2) of that section and becomes employed in a different employment), employment in the descriptions of service as teachers referred to in paragraph (e) of that subsection shall be treated as employments of different classes instead of as employment of the same class, and the enactments specified in subsections (2) to (5) of this section shall accordingly have effect subject to the amendments so specified.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6683131]
+
+(3)[^c6683141] In subsection (3) of the said section 2 (which specifies the appropriate Minister for the purposes of any class of employment specified in subsection (2) of that section), as amended by Schedule 1 to the [^c6683151]Overseas Service Act 1958, for paragraphs (v) and (vi) there shall be substituted the following:—
+
+> - (v) in relation to a class specified in paragraph (e), (ee) or (f) of the said subsection (2), the Secretary of State acting with the consent of the Treasury
+
+;
+
+and so much of the said Schedule as amends the said subsection (3) is hereby repealed.
+
+(4)[^c6683141] In subsection (4) of the said section 2, for paragraph (b) there shall be substituted the following:—
+
+> - (b) where either of the employments is such an employment as is mentioned in paragraph (a), (e), (ee) or (f) of subsection (2) of this section, payments out of moneys provided by Parliament
+
+;
+
+and paragraph (d) of the said subsection (4) and so much of Schedule 1 to the said Act of 1958 as amends that subsection are hereby repealed.
+
+(5)[^c6683141] In section 17(1) of the said Act of 1948, for the definition of Scottish Teachers Superannuation Scheme there shall be substituted the following definition— “ “**Scottish Teachers Superannuation Scheme**” means the Teachers Superannuation Scheme and the Teachers (Superannuation) Regulations as those expressions are defined in section 145(47) and (48) of the Education (Scotland) Act 1962. ”
+
+(6)[^c6683141] In section 2(4)(a) of the said Act of 1948 (which, in the case of a person changing his employment who has recieved any payment in respect of his pension rights upon ceasing to be employed in his former employment, enables rules to require payments by that person equal to all or any of the amounts so recieved) at the end there shall be inserted the words “ with or without interest on those amounts for the whole or any part of the period since he received them ”.
+
+(7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6683191]
+
+(8) Where—
+
+- (a) on 1st January 1967 a person was serving in one of the capacities specified in section 10(1) of the [^c6683201]Police Pensions Act 1921; and
+- (b) before that date that person had served in one or more other of those capacities,
+
+then, in lieu of the provision with respect to any pension payable to that person made by paragraph (b) of the proviso to the said section 10(1), there shall be deemed as from that date to have been payable by or to such police pension authority[^key-ab7cdbc1593f1369655ef8faa007fc61], or to the Treasury, or out of moneys provided by Parliament, as the case may require, such transfer value or values as the Treasury may direct, regard being had to the period of service and the pay received by that person in each respectively of those capacities.
+
+(9)[^key-58570d00ebb8e278d6187300465487f2] In this section “ **police pension authority** ” means—
+
+- (a) the chief constable of any police force maintained under section 2 of the Police Act 1996;
+- (b) the Commissioner of Police of the Metropolis;
+- (c) the Common Council of the City of London in its capacity as a police authority; and
+- (d) any police authority within the meaning of the Police (Scotland) Act 1967.
+
+## 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6683211]
+
+## 13. Pensions of police cadets.
+
+(1) Regulations made by the Secretary of State under section 52 of the Police Act 1996[^c6683281] (which relates to regulations for police cadets) may include provision—
+
+- (a) for the application to police cadets appointed under section 28 of that Act[^c6683291], subject to such modifications as may be prescribed by the regulations, of any provisions made by or under any enactment relating to the pensions payable to or in respect of members of police forces; and
+- (b) for any regulations made by virtue of paragraph (a) of this subsection to have effect in relation to any police cadet to the exclusion of any other provision for pension, allowance or gratuity in respect of his service as a police cadet contained in or in force under any other enactment and, for the purpose of a return of any contributions made by the cadet under that other provision, for the cadet to be deemed to have ceased his employment upon the regulations coming into effect in relation to him.
+
+(2) Regulations under subsection (1) of this section may provide for the reduction or withholding of awards under the regulations in cases where awards are provided for in respect of the same matters under any of the enactments relating to . . .[^c6683301] [^c6683311] social security.
+
+(3)[^key-cac0f8edcdc0ec79372d64c895f9310b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Pensions for medical commissioners of Mental Welfare Commission for Scotland.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6683351]
+
+## 15. Superannuation of metropolitan civil staffs.[^c6685131][^c6685141][^c6685151][^c6685161][^c6685171]
+
+*Extent: E+W*
+
+(1) In this section—
+
+- (a) the expression “**member of the metropolitan civil staffs**” means a person—
+  - (i)[^c6685181] who is employed by the Mayor's Office for Policing and Crime or the Commissioner of Police of the Metropolis[^key-8843d7fdb8e3caab15e00933506e94f4];
+  - (ii)[^c6685191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+but does not include any person such as is mentioned in regulation B2(1)(l) of the[^c6685201] [^c6685211]Local Government Superannuation Regulations 1974;
+
+- (b) the expression “**civil service provisions**” means the following as for the time being in force, namely, the principal civil service pension scheme within the meaning of section 2 of the[^c6685221] [^c6685231]Superannuation Act 1972 and any enactment or instrument, being an enactment or instrument relating to pensions or other benefits to or in respect of persons who are or have been in the civil service of the State, whether that enactment or instrument was passed or made before or after the passing of this Act, other than an enactment or instrument relating to transfers between that service and service as a member of the metropolitan civil staffs;
+- (c) the expression “**the appointed day**” means such day as the Secretary of State may by order appoint.
+
+(2)[^c6684881][^key-9d9aa67f025453694b74f39f64e743b5] The Mayor's Office for Policing and Crime shall have power to grant pensions or other benefits to or in respect of persons who are members of the metropolitan civil staffs by virtue of employment by that Office.
+
+(2ZA) The Commissioner of Police of the Metropolis shall have power to grant pensions or other benefits to or in respect of persons who are members of the metropolitan civil staffs by virtue of employment by the Commissioner.
+
+(2A) The Mayor's Office for Policing and Crime, and the Commissioner of Police of the Metropolis,[^key-2b4c26ae526d0756432663b9ec3169fc] may, to such extent and subject to such conditions as that Office or Commissioner[^key-424fac2ec3750fcfc809a21088c09400] thinks fit, authorise the exercise of the function of administering the grant of pensions and other benefits under this section by, or by employees of, any person.
+
+(2B) Where a person is authorised under subsection (2A) above to exercise the function of administering the grant of pensions and other benefits under this section, anything done or omitted to be done by or in relation to him (or an employee of his) in, or in connection with, the exercise or purported exercise of the function shall be treated for all purposes as done or omitted to be done by the person who authorised him.
+
+(2C) Subsection (2B) above does not apply for the purposes of—
+
+- (a) any criminal proceedings against the authorised person (or any employee of his); or
+- (b) any contract between him and the person who authorised him, so far as relating to the function.
+
+(2D) Unless the powers conferred by section 7 of the [^c6685251] Superannuation Act 1972, section 50 of the Justices of the [^c6685261] Peace Act 1997, paragraph 36 of Schedule 14 to the [^c6685271] Access to Justice Act 1999 or Part XII of the Greater London Authority Act 1999 are exercised for the purpose of making provision with respect to the provision of pensions for or in respect of members of the metropolitan civil staffs, the civil service provisions shall have effect (subject to any regulations for the time being i force under subsection (3) of this section) for the purposes of the grant of pensions and other benefits under this section to or in respect of such a member, for the purposes of transfers (whether before, on or after the appointed day) between service as such a member and other service (not being service in the the civil service of the State), or for any connected purpose, as they have effect for the purposes of the grant by the Treasury ou t of moneys provided by Parliament or out of the Consolidated Fund of pensions or other benefits to or in respect of persons in the civil service of the State, for the purposes of transfers between that service and any other service (not being service as a member of the metropolitan civil staffs), or of any corresponding connected purpose, as the caes may be, and as if employment as a member of the metropolitan civil staffs were employment in a public department.
+
+(3) The Secretary of State may with the consent of the Minister for the Civil Service[^c6685281] by regulations provide that any of the civil service provisions shall have effect for the purposes of pensions or other benefits under this section, or of transfers between service as a member of the metropolitan civil staffs and other service, or for any connected purpose, as the case may be—
+
+- (a) subject to any exceptions additions[^c6685291] or modifications specified in the regulations; and
+- (b) subject to any adaptations so specified, being adaptations appearing to the Secretary of State to be necessary or expedient to ensure that those provisions have effect as mentioned in subsection (2D)[^c6685301] of this section,
+
+and any such adaptations may be either general adaptations applicable to all the civil service provisions, whether or not passed or made at the date of the making of the regulations, or particular adaptations of particular provisions.
+
+(4) Regulations under subsection (3) of this section may be made so as to have effect as from any date not earlier than the date of the coming into force of the civil service provision in question, notwithstanding that the regulations are made after that date.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6685311]
+
+(6)[^c6685321] Before making regulations under subsection (3) of this section the Secretary of State shall consult with persons appearing to him to represent the metropolitan civil staffs with the Mayor's Office for Policing and Crime, and with the Commissioner of Police of the Metropolis[^key-922b68dab0e6a41a8a593d4970d30dca], and before any such regulations come into operation the Secretary of State shall lay a copy thereof before Parliament.
+
+(7) Nothing in this section shall affect any pension or other benefit granted under the Metropolitan Police Staff (Superannuation) Acts 1875 to 1931 before the appointed day, and accordingly any such pension or other benefit shall be paid by the[^c6685341] Mayor's Office for Policing and Crime or the Commissioner of Police of the Metropolis[^key-2b4056b2a434b3c6c574bdbc3b43c7c6].
+
+(8)[^c6685351] As from the appointed day the following provisions are hereby repealed or revoked, namely—
+
+- (a) the [^c6685361]Metropolitan Police Staff (Superannuation) Act 1875;
+- (b) the [^c6685371]Metropolitan Staff Superannuation Act 1885;
+- (c) in the [^c6685381]Police Act 1909, section 4;
+- (d) in the [^c6685391]Metropolitan Police (Staff Superannuation and Police Fund) Act 1931, sections 1 to 3;
+- (e) in the [^c6685401]Superannuation (Various Services) Act 1938, in Part I of the Schedule, the entry relating to the Metropolitan Police Staff (Superannuation) Acts 1875 to 1931;
+- (f) in section 2 of the [^c6685411]Superannuation (Miscellaneous Provisions) Act 1948, subsections (2)(b) and (3)(ii) and, in subsection (4), paragraph (c), the words “into the Metrpolitan Police Fund”, and the word “(c)” in the last place where it occurs;
+- (g) the [^c6685421]Superannuation (Transfers between Metrpolitan Police Staffs and Local Government) Rules 1959;
+- (h) the [^c6685431]National Insurance (Modification of the Metropolitan Police Staffs Superannuation Provisions) Regulations 1961;
+- (i) the [^c6685441]National Insurance (Modification of the Metropolitan Polce Staffs Superannuation Provisions) Regulations 1963;
+- (j) in the [^c6685451]Administration of Justice Act 1964, section 24;
+- (k) the [^c6685461]National Insurance (Modification of the Metropolitan Police Staffs Superannuation Provisions) (Amendment) Regulations 1966;
+- (l) the [^c6685471]Superannuation (Transfers between Police and Metropolitan Polce Staffs) Rules 1966.
+
+(9)[^c6685481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Superannuation of metropolitan civil staffs.[^c6684791][^c6684801][^c6684811]
+
+*Extent: S+N.I.*
+
+(1) In this section—
+
+- (a) the expression “**member of the metropolitan civil staffs**” means a person—
+  - (i)[^c6684821] who is employed by the Mayor's Office for Policing and Crime, and the Commissioner of Police of the Metropolis,;
+  - (ii)[^c6684831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+but does not include any person such as is mentioned in regulation B2(1)(l) of the[^c6684841] [^c6684851]Local Government Superannuation Regulations 1974;
+
+- (b) the expression “**civil service provisions**” means the following as for the time being in force, namely, the principal civil service pension scheme within the meaning of section 2 of the[^c6684861] [^c6684871]Superannuation Act 1972 and any enactment or instrument, being an enactment or instrument relating to pensions or other benefits to or in respect of persons who are or have been in the civil service of the State, whether that enactment or instrument was passed or made before or after the passing of this Act, other than an enactment or instrument relating to transfers between that service and service as a member of the metropolitan civil staffs;
+- (c) the expression “**the appointed day**” means such day as the Secretary of State may by order appoint.
+
+(2)[^c6684881] The Mayor's Office for Policing and Crime shall have power to grant pensions or other benefits to or in respect of persons who are members of the metropolitan civil staffs by virtue of employment by that Office.
+
+(2ZA) The Commissioner of Police of the Metropolis shall have power to grant pensions or other benefits to or in respect of persons who are members of the metropolitan civil staffs by virtue of employment by the Commissioner.
+
+(2A) The Mayor's Office for Policing and Crime, and the Commissioner of Police of the Metropolis, may, to such extent and subject to such conditions as that Office or Commissioner thinks fit, authorise the exercise of the function of administering the grant of pensions and other benefits under this section by, or by employees of, any person.
+
+(2B) Where a person is authorised under subsection (2A) above to exercise the function of administering the grant of pensions and other benefits under this section, anything done or omitted to be done by or in relation to him (or an employee of his) in, or in connection with, the exercise or purported exercise of the function shall be treated for all purposes as done or omitted to be done by the person who authorised him.
+
+(2C) Subsection (2B) above does not apply for the purposes of—
+
+- (a) any criminal proceedings against the authorised person (or any employee of his); or
+- (b) any contract between him and the person who authorised him, so far as relating to the function.
+
+(2D) Unless the powers conferred by section 7 of the [^c6684891]Superannuation Act 1972, section 50 of the Justices of the [^c6684901]Peace Act 1997, paragraph 36 of Schedule 14 to the [^c6684911]Access to Justice Act 1999 or Part XII of the Greater London Authority Act 1999 are exercised for the purpose of making provision with respect to the provision of pensions for or in respect of members of the metropolitan civil staffs, the civil service provisions shall have effect (subject to any regulations for the time being in force under subsection (3) of this section) for the purposes of the grant of pensions and other benefits under this section to or in respect of such a member for the purposes of transfers (whether before, on or after the appointed day) between service as such a member and other service (not being service in the civil service of the State), or for any connected purpose, as they have effect for the purposes of the grant by the Treasury out of moneys provided by Parliament or out of the Consolidated Fund of pensions or other benefits to or in respect of persons in the civil service of the State, for the purposes of transfers between that sevice and any other service (not being service as a member of the metropolitan civil staffs), or for any corresponding connected purpose, as the case may be, and as if employment as a memebr of the metropolitan civil staffs were employment in a public department.
+
+(3) The Secretary of State may with the consent of the Minister for the Civil Service[^c6684921] by regulations provide that any of the civil service provisions shall have effect for the purposes of pensions or other benefits under this section, or of transfers between service as a member of the metropolitan civil staffs and other service, or for any connected purpose, as the case may be—
+
+- (a) subject to any exceptions additions[^c6684931] or modifications specified in the regulations; and
+- (b) subject to any adaptations so specified, being adaptations appearing to the Secretary of State to be necessary or expedient to ensure that those provisions have effect as mentioned in subsection (2D)[^c6684941] of this section,
+
+and any such adaptations may be either general adaptations applicable to all the civil service provisions, whether or not passed or made at the date of the making of the regulations, or particular adaptations of particular provisions.
+
+(4) Regulations under subsection (3) of this section may be made so as to have effect as from any date not earlier than the date of the coming into force of the civil service provision in question, notwithstanding that the regulations are made after that date.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6684951]
+
+(6)[^c6684961] Before making regulations under subsection (3) of this section the Secretary of State shall consult with persons appearing to him to represent the metropolitan civil staffs with the Mayor's Office for Policing and Crime, and with the Commissioner of Police of the Metropolis, and before any such regulations come into operation the Secretary of State shall lay a copy thereof before Parliament.
+
+(7) Nothing in this section shall affect any pension or other benefit granted under the Metropolitan Police Staff (Superannuation) Acts 1875 to 1931 before the appointed day, and accordingly any such pension or other benefit shall be paid by the[^c6684981] Mayor's Office for Policing and Crime or the Commissioner of Police of the Metropolis.
+
+(8)[^c6684991] As from the appointed day the following provisions are hereby repealed or revoked, namely—
+
+- (a) the [^c6685001]Metropolitan Police Staff (Superannuation) Act 1875;
+- (b) the [^c6685011]Metropolitan Staff Superannuation Act 1885;
+- (c) in the [^c6685021]Police Act 1909, section 4;
+- (d) in the [^c6685031]Metropolitan Police (Staff Superannuation and Police Fund) Act 1931, sections 1 to 3;
+- (e) in the [^c6685041]Superannuation (Various Services) Act 1938, in Part I of the Schedule, the entry relating to the Metropolitan Police Staff (Superannuation) Acts 1875 to 1931;
+- (f) in section 2 of the [^c6685051]Superannuation (Miscellaneous Provisions) Act 1948, subsections (2)(b) and (3)(ii) and, in subsection (4), paragraph (c), the words “into the Metrpolitan Police Fund”, and the word “(c)” in the last place where it occurs;
+- (g) the [^c6685061]Superannuation (Transfers between Metrpolitan Police Staffs and Local Government) Rules 1959;
+- (h) the [^c6685071]National Insurance (Modification of the Metropolitan Police Staffs Superannuation Provisions) Regulations 1961;
+- (i) the [^c6685081]National Insurance (Modification of the Metropolitan Polce Staffs Superannuation Provisions) Regulations 1963;
+- (j) in the [^c6685091]Administration of Justice Act 1964, section 24;
+- (k) the [^c6685101]National Insurance (Modification of the Metropolitan Police Staffs Superannuation Provisions) (Amendment) Regulations 1966;
+- (l) the [^c6685111]Superannuation (Transfers between Police and Metropolitan Polce Staffs) Rules 1966.
+
+(9)[^c6685121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6685491]
+
+## 17. Expenses.
+
+There shall be paid out of moneys provided by Parliament or out of the Consolidated Fund, as the case may be, any increase attributable to the provisions of this Act in the sums so payable under any other Act.
+
+## 18. Citation and construction of references.
+
+(1) This Act may be cited as the Superannuation (Miscellaneous Provisions) Act 1967.
+
+(2) The [^c6685501]Superannuation Act 1965 and sections 1 and 2(2) and (3) of this Act may be cited together as the Superannuation Acts 1965 and 1967.
+
+(3) The [^c6685511]Governors’ Pensions Act 1957 and section 4 of this Act may be cited together as the Governors’ Pensions Acts 1957 and 1967.
+
+(4) Section 7[^c6685521] of this Act—
+
+- (a) so far as it applies to England and Wales, may be cited together with the National Health Service Acts 1946 to 1966 as the National Health Service Acts 1946 to 1967;
+- (b) so far as it applies to Scotland, may be cited together with the National Health Service (Scotland) Acts 1947 to 1966 as the National Health Service (Scotland) Acts 1947 to 1967.
+
+(5) Save where the context otherwise requires, any reference in this Act to any enactment or instrument shall be construed as a reference to that enactment or instrument as amended, extended or applied by or under any other enactment or instrument, including any enactment contained in this Act.
+
+## Annotations
+
+[^c6682821]: Textual amendment: Ss. 1, 2(2)(3), 6, 8, 11(2), 15(5), 16 repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/1972/11/section/23/1), [Schs. 5](https://www.legislation.gov.uk/ukpga/1972/11/schedule/5), [8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
+
+[^c6682831]: Textual amendment: S. 2(1) repealed by [Judicial Pensions Act 1981 (c. 20,SIF 71:2)](https://www.legislation.gov.uk/ukpga/1981/20), [s. 36](https://www.legislation.gov.uk/ukpga/1981/20/section/36), [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/20/schedule/4)
+
+[^c6682841]: Textual amendment: Ss. 1, 2(2)(3), 6, 8, 11(2), 15(5), 16 repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/1972/11/section/23/1), [Schs. 5](https://www.legislation.gov.uk/ukpga/1972/11/schedule/5), [8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
+
+[^c6682851]: Textual amendment: S. 3 repealed by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [ss. 84(a)](https://www.legislation.gov.uk/ukpga/1990/41/section/84/a), [125(7)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/7), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/41/schedule/20) (subject to a saving for s. 3(3) in s. 125(6), Sch. 19 para. 10(1) of the 1990 Act)
+
+[^c6682861]: Textual amendment: Ss. 4, 5 repealed by [Overseas Pensions Act 1973 (c. 21)](https://www.legislation.gov.uk/ukpga/1973/21), [Sch. 2](https://www.legislation.gov.uk/ukpga/1973/21/schedule/2)
+
+[^c6682871]: Textual amendment: Ss. 1, 2(2)(3), 6, 8, 11(2), 15(5), 16 repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/1972/11/section/23/1), [Schs. 5](https://www.legislation.gov.uk/ukpga/1972/11/schedule/5), [8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
+
+[^c6682881]: Modification: S. 7: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c6682891]: Textual amendment: Words substituted (for words “the Minister of Health”) by virtue of [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699), [arts. 2](https://www.legislation.gov.uk/uksi/1968/1699/article/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/1968/1699/article/5/4/a)
+
+[^c6682901]: Textual amendment: Words substituted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [Sch. 6 para. 66(a)](https://www.legislation.gov.uk/ukpga/1972/11/schedule/6/paragraph/66/a)
+
+[^c6682911]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^key-2d4862c50e3b806e6c8efe5062c819e5]: Textual amendment: Words in s. 7(1)(a)(i) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/29/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c6682941]: Textual amendment: Words repealed by [National Health Service Reorganisation Act 1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), [Sch. 5](https://www.legislation.gov.uk/ukpga/1973/32/schedule/5)
+
+[^key-f6f7ae1106406cf04b43a7a92712bf65]: Textual amendment: Words in s. 7(1)(b) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 29(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/29/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c6682971]: Textual amendment: Words inserted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 10(5)](https://www.legislation.gov.uk/ukpga/1972/11/section/10/5)
+
+[^c6682981]: Textual amendment: Words substituted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [Sch. 6 para. 66(b)](https://www.legislation.gov.uk/ukpga/1972/11/schedule/6/paragraph/66/b)
+
+[^key-0cbe32c8d51e2ea1603aa1aa3cfe714d]: Textual amendment: Words in s. 7(5) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 29(c)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/29/c) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c6683011]: Textual amendment: Words repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [Sch. 8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
+
+[^c6683041]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c6683031]: Textual amendment: Words substituted by [National Health Service (Scotland) Act 1978 (c. 29)](https://www.legislation.gov.uk/ukpga/1978/29), [Sch. 16 para. 24](https://www.legislation.gov.uk/ukpga/1978/29/schedule/16/paragraph/24)
+
+[^c6683061]: Marginal citation: [1949 c. 93](https://www.legislation.gov.uk/ukpga/1949/93).
+
+[^c6683071]: Marginal citation: [S.I. 1961/1441](https://www.legislation.gov.uk/uksi/1961/1441).
+
+[^c6683081]: Marginal citation: [S.I. 1961/1398](https://www.legislation.gov.uk/uksi/1961/1398).
+
+[^c6683091]: Textual amendment: Ss. 1, 2(2)(3), 6, 8, 11(2), 15(5), 16 repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/1972/11/section/23/1), [Schs. 5](https://www.legislation.gov.uk/ukpga/1972/11/schedule/5), [8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
+
+[^c6683101]: Textual amendment: S. 9 repealed by [Employment Protection (Consolidation) Act 1978 (c. 44)](https://www.legislation.gov.uk/ukpga/1978/44), [Sch. 17](https://www.legislation.gov.uk/ukpga/1978/44/schedule/17)
+
+[^c6683111]: Textual amendment: S. 10 repealed by Parliamentary and other [Pensions Act 1972 (c. 48)](https://www.legislation.gov.uk/ukpga/1972/48), [Sch. 4](https://www.legislation.gov.uk/ukpga/1972/48/schedule/4)
+
+[^c6683121]: Marginal citation: [1948 c. 33](https://www.legislation.gov.uk/ukpga/1948/33).
+
+[^c6683131]: Textual amendment: Ss. 1, 2(2)(3), 6, 8, 11(2), 15(5), 16 repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/1972/11/section/23/1), [Schs. 5](https://www.legislation.gov.uk/ukpga/1972/11/schedule/5), [8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
+
+[^c6683141]: Modification: The text of Ss. 11(3)(4)(5)(6)(7), 15(8)(*a*)–(*l*) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c6683151]: Marginal citation: [1958 c. 14](https://www.legislation.gov.uk/ukpga/1958/14)
+
+[^c6683191]: Textual amendment: S. 11(7) repealed by [Police Pensions Act 1976 (c. 35)](https://www.legislation.gov.uk/ukpga/1976/35), [Sch. 3](https://www.legislation.gov.uk/ukpga/1976/35/schedule/3)
+
+[^c6683201]: Marginal citation: [1921 c. 31](https://www.legislation.gov.uk/ukpga/1921/31).
+
+[^key-ab7cdbc1593f1369655ef8faa007fc61]: Textual amendment: Words in s. 11(8) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 87(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/87/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-58570d00ebb8e278d6187300465487f2]: Textual amendment: S. 11(9) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 87(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/87/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/21))
+
+[^c6683211]: Textual amendment: S. 12 repealed by [S.I. 1970/1682](https://www.legislation.gov.uk/uksi/1970/1682), [Sch. 2](https://www.legislation.gov.uk/uksi/1970/1682/schedule/2)
+
+[^c6683281]: Textual amendment: Words in s. 13(1) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103), [105(2)](https://www.legislation.gov.uk/ukpga/1996/16/section/105/2), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II), [para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/1996/16/paragraph/13/2/a)
+
+[^c6683291]: Textual amendment: Words in s. 13(1)(a) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16) ss. 103, 105(2), Sch. 7 Pt. II, para. 13(2)(b)
+
+[^c6683301]: Textual amendment: S. 13(2) substituted by [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [Sch. 27 para. 72](https://www.legislation.gov.uk/ukpga/1973/38/schedule/27/paragraph/72)
+
+[^c6683311]: Textual amendment: Words repealed by [Social Security (Consequential Provisions) Act 1975 (c. 18)](https://www.legislation.gov.uk/ukpga/1975/18), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1975/18/schedule/1/part/I)
+
+[^key-cac0f8edcdc0ec79372d64c895f9310b]: Textual amendment: S. 13(3) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/3) (with [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/2))
+
+[^c6683351]: Textual amendment: S. 14 repealed by [Mental Health (Scotland) Act 1984 (c. 36, SIF 85)](https://www.legislation.gov.uk/ukpga/1984/36), [s. 127(2)](https://www.legislation.gov.uk/ukpga/1984/36/section/127/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1984/36/schedule/5)
+
+[^c6685131]: Modification: S. 15: power to appeal or amend conferred (E.W.)(*prosp.*) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [ss. 82(7)(11)](https://www.legislation.gov.uk/ukpga/1994/29/section/82/7/11) (which said s. 82 was repealed (19.6.1997), without having come into force, by [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25), [s. 73(3)](https://www.legislation.gov.uk/ukpga/1997/25/section/73/3), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1997/25/schedule/6/part/I))
+
+[^c6685141]: Modification: S. 15 modified (E.W.) (*prosp.*) by [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25), [ss. 50(7)(11)](https://www.legislation.gov.uk/ukpga/1997/25/section/50/7/11), [74(2)](https://www.legislation.gov.uk/ukpga/1997/25/section/74/2), (with s. 73(1), Sch. 4 para. 27)
+
+[^c6685151]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland and Northern Ireland only
+
+[^c6685161]: Modification: S. 15: power to extend conferred (27.9.1999) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [ss. 105](https://www.legislation.gov.uk/ukpga/1999/22/section/105), [108(3)](https://www.legislation.gov.uk/ukpga/1999/22/section/108/3), [Sch. 14 Pt. V para. 36(3)(b)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/part/V/paragraph/36/3/b) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)).
+
+[^c6685171]: Modification: By [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(8)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/8) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)) it is provided that s. 15(2)(a) be excluded (3.7.2000); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+    By [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(9)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/9) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)) is is provided that s. 15(2)(b) be applied (with modifications) (3.7.2000); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+[^c6685181]: Textual amendment: S. 15(1)(a)(i) substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(2)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+[^key-8843d7fdb8e3caab15e00933506e94f4]: Textual amendment: Words in s. 15(1)(a)(i) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 88(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/88/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c6685191]: Textual amendment: S. 15(1)(a)(ii) repealed (1.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. V(6)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/6) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2](https://www.legislation.gov.uk/uksi/2001/916/article/2) (with savings in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2001/916/schedule/1/paragraph/4))
+
+[^c6685201]: Textual amendment: Words substituted by [S.I. 1974/520](https://www.legislation.gov.uk/uksi/1974/520), [Sch. 18 para. 6](https://www.legislation.gov.uk/uksi/1974/520/schedule/18/paragraph/6)
+
+[^c6685211]: Marginal citation: [S.I. 1974/520](https://www.legislation.gov.uk/uksi/1974/520).
+
+[^c6685221]: Textual amendment: Words substituted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 14(2)](https://www.legislation.gov.uk/ukpga/1972/11/section/14/2)
+
+[^c6685231]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^c6684881]: Textual amendment: S. 15(2)-(2D) substituted for s 15(2) (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(3)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/3) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+[^key-9d9aa67f025453694b74f39f64e743b5]: Textual amendment: S. 15(2)(2ZA) substituted for s. 15(2) (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 88(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/88/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-2b4c26ae526d0756432663b9ec3169fc]: Textual amendment: Words in s. 15(2A) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 88(4)(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/88/4/a); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-424fac2ec3750fcfc809a21088c09400]: Textual amendment: Words in s. 15(2A) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 88(4)(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/88/4/b); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c6685251]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^c6685261]: Marginal citation: [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25).
+
+[^c6685271]: Marginal citation: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^c6685281]: Textual amendment: Words inserted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 14(3)](https://www.legislation.gov.uk/ukpga/1972/11/section/14/3)
+
+[^c6685291]: Textual amendment: Word inserted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 14(3)](https://www.legislation.gov.uk/ukpga/1972/11/section/14/3)
+
+[^c6685301]: Textual amendment: Words in s. 15(3)(b) substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(4)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/4) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+[^c6685311]: Textual amendment: Ss. 1, 2(2)(3), 6, 8, 11(2), 15(5), 16 repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/1972/11/section/23/1), [Schs. 5](https://www.legislation.gov.uk/ukpga/1972/11/schedule/5), [8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
+
+[^c6685321]: Textual amendment: S. 15(6) substituted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 14(5)](https://www.legislation.gov.uk/ukpga/1972/11/section/14/5)
+
+[^key-922b68dab0e6a41a8a593d4970d30dca]: Textual amendment: Words in s. 15(6) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 88(5)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/88/5); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c6685341]: Textual amendment: Words in s. 15(7) substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(6)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/6) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+[^key-2b4056b2a434b3c6c574bdbc3b43c7c6]: Textual amendment: Words in s. 15(7) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 88(6)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/88/6); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c6685351]: Modification: The text of Ss. 11(3)(4)(5)(6)(7), 15(8)(*a*)–(*l*) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c6685361]: Marginal citation: [1875 c. 28](https://www.legislation.gov.uk/ukpga/1875/28).
+
+[^c6685371]: Marginal citation: [1885 c. 68](https://www.legislation.gov.uk/ukpga/1885/68).
+
+[^c6685381]: Marginal citation: [1909 c. 40](https://www.legislation.gov.uk/ukpga/1909/40).
+
+[^c6685391]: Marginal citation: [1931 c. 12](https://www.legislation.gov.uk/ukpga/1931/12)
+
+[^c6685401]: Marginal citation: [1938 c. 13](https://www.legislation.gov.uk/ukpga/1938/13).
+
+[^c6685411]: Marginal citation: [1948 c. 33](https://www.legislation.gov.uk/ukpga/1948/33).
+
+[^c6685421]: Marginal citation: [S.I. 1959/1243](https://www.legislation.gov.uk/uksi/1959/1243).
+
+[^c6685431]: Marginal citation: [S.I. 1961/439](https://www.legislation.gov.uk/uksi/1961/439).
+
+[^c6685441]: Marginal citation: [S.I. 1963/1610](https://www.legislation.gov.uk/uksi/1963/1610).
+
+[^c6685451]: Marginal citation: [1964 c. 42](https://www.legislation.gov.uk/ukpga/1964/42).
+
+[^c6685461]: Marginal citation: [S.I. 1966/1120](https://www.legislation.gov.uk/uksi/1966/1120).
+
+[^c6685471]: Marginal citation: [S.I. 1966/1589](https://www.legislation.gov.uk/uksi/1966/1589).
+
+[^c6685481]: Textual amendment: S. 15(9) repealed (1.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. V(6)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/6) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2](https://www.legislation.gov.uk/uksi/2001/916/article/2)
+
+[^c6684791]: Extent: This version of this provision extends to Scotland and Northern Ireland only; a separate version has been created for England and Wales only
+
+[^c6684801]: Modification: S. 15: power to extend conferred (27.9.1999) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [ss. 105](https://www.legislation.gov.uk/ukpga/1999/22/section/105), [108(3)](https://www.legislation.gov.uk/ukpga/1999/22/section/108/3), [Sch. 14 Pt. V para. 36(3)(b)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/part/V/paragraph/36/3/b) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2))
+
+[^c6684811]: Modification: By [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(8)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/8) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)) it is provided that s. 15(2)(a) be excluded (3.7.2000); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+    By [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(9)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/9) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)) it is provided that s. 15(2)(b) be applied (with modifications) (3.7.2000); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+[^c6684821]: Textual amendment: S. 15(1)(a)(i) substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(2)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+[^c6684831]: Textual amendment: S. 15(1)(a)(ii) repealed (1.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. V(6)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/6) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2](https://www.legislation.gov.uk/uksi/2001/916/article/2) (with savings in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2001/916/schedule/1/paragraph/4))
+
+[^c6684841]: Textual amendment: Words substituted by [S.I. 1974/520](https://www.legislation.gov.uk/uksi/1974/520), [Sch. 18 para. 6](https://www.legislation.gov.uk/uksi/1974/520/schedule/18/paragraph/6)
+
+[^c6684851]: Marginal citation: [S.I. 1974/520](https://www.legislation.gov.uk/uksi/1974/520).
+
+[^c6684861]: Textual amendment: Words substituted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 14(2)](https://www.legislation.gov.uk/ukpga/1972/11/section/14/2)
+
+[^c6684871]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^c6684891]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^c6684901]: Marginal citation: [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25).
+
+[^c6684911]: Marginal citation: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^c6684921]: Textual amendment: Words inserted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 14(3)](https://www.legislation.gov.uk/ukpga/1972/11/section/14/3)
+
+[^c6684931]: Textual amendment: Word inserted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 14(3)](https://www.legislation.gov.uk/ukpga/1972/11/section/14/3)
+
+[^c6684941]: Textual amendment: Words in s. 15(3)(b) substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(4)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/4) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+[^c6684951]: Textual amendment: Ss. 1, 2(2)(3), 6, 8, 11(2), 15(5), 16 repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/1972/11/section/23/1), [Schs. 5](https://www.legislation.gov.uk/ukpga/1972/11/schedule/5), [8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
+
+[^c6684961]: Textual amendment: S. 15(6) substituted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 14(5)](https://www.legislation.gov.uk/ukpga/1972/11/section/14/5)
+
+[^c6684981]: Textual amendment: Words in s. 15(7) substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [Sch. 27 para. 20(6)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/20/6) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule) (subject to transitional provision in [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule))
+
+[^c6684991]: Modification: The text of Ss. 11(3)(4)(5)(6)(7), 15(8)(*a*)-(*l*) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c6685001]: Marginal citation: [1875 c. 28](https://www.legislation.gov.uk/ukpga/1875/28).
+
+[^c6685011]: Marginal citation: [1885 c. 68](https://www.legislation.gov.uk/ukpga/1885/68).
+
+[^c6685021]: Marginal citation: [1909 c. 40](https://www.legislation.gov.uk/ukpga/1909/40).
+
+[^c6685031]: Marginal citation: [1931 c. 12](https://www.legislation.gov.uk/ukpga/1931/12)
+
+[^c6685041]: Marginal citation: [1938 c. 13](https://www.legislation.gov.uk/ukpga/1938/13).
+
+[^c6685051]: Marginal citation: [1948 c. 33](https://www.legislation.gov.uk/ukpga/1948/33).
+
+[^c6685061]: Marginal citation: [S.I. 1959/1243](https://www.legislation.gov.uk/uksi/1959/1243).
+
+[^c6685071]: Marginal citation: [S.I. 1961/439](https://www.legislation.gov.uk/uksi/1961/439).
+
+[^c6685081]: Marginal citation: [S.I. 1963/1610](https://www.legislation.gov.uk/uksi/1963/1610).
+
+[^c6685091]: Marginal citation: [1964 c. 42](https://www.legislation.gov.uk/ukpga/1964/42).
+
+[^c6685101]: Marginal citation: [S.I. 1966/1120](https://www.legislation.gov.uk/uksi/1966/1120).
+
+[^c6685111]: Marginal citation: [S.I. 1966/1589](https://www.legislation.gov.uk/uksi/1966/1589).
+
+[^c6685121]: Textual amendment: S. 15(9) repealed (1.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. V(6)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/6) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2](https://www.legislation.gov.uk/uksi/2001/916/article/2)
+
+[^c6685491]: Textual amendment: Ss. 1, 2(2)(3), 6, 8, 11(2), 15(5), 16 repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/1972/11/section/23/1), [Schs. 5](https://www.legislation.gov.uk/ukpga/1972/11/schedule/5), [8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
+
+[^c6685501]: Marginal citation: [1965 c. 74](https://www.legislation.gov.uk/ukpga/1965/74).
+
+[^c6685511]: Marginal citation: [1957 c. 62](https://www.legislation.gov.uk/ukpga/1957/62).
+
+[^c6685521]: Textual amendment: Words substituted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [Sch. 6 para. 67](https://www.legislation.gov.uk/ukpga/1972/11/schedule/6/paragraph/67)

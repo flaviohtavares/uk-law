@@ -1,0 +1,23 @@
+---
+title: The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025, section 165
+act: The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025
+section: '165'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2025/1135/section/165
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Carbon Dioxide Transport and Storage (Licensed Operators) Administration (England and Wales) Rules 2025, section 165
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 165. The Gazette: general
+
+(1) A copy of the Gazette containing any notice required by the 1986 Act or these Rules to be gazetted is evidence of any facts stated in the notice.
+
+(2) Where the 1986 Act or these Rules require an order of the court to be gazetted, a copy of the Gazette containing the notice may be produced in any proceedings as conclusive evidence that the order was made on the date specified in the notice.
+
+(3) Where an order of the court which is gazetted has been varied, or any matter has been erroneously or inaccurately gazetted, the person whose responsibility it was to gazette the order or other matter must as soon as is reasonably practicable cause the variation to be gazetted or a further entry to be made in the Gazette for the purpose of correcting the error or inaccuracy.

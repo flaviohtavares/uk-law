@@ -1,0 +1,971 @@
+---
+title: The Plant Protection Products Regulations 2011
+id: uksi/2011/2131
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-08-20'
+text_date: '2023-12-31'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2011/2131
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2131/pdfs/uksiem_20112131_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2131/pdfs/uksi_20112131_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2131/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Plant Protection Products Regulations 2011
+
+> Text as at 2023-12-31.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2011 No. 2131
+
+Pesticides
+
+The Plant Protection Products Regulations 2011
+
+Made
+
+20th August 2011
+
+Laid before Parliament
+
+2nd September 2011
+
+Coming into force
+
+24th September 2011
+
+The Secretary of State is designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy of the European Union[^f00002] and measures in the veterinary and phytosanitary fields for the protection of public health[^f00003].
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2 to, the European Communities Act 1972.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972. It appears to the Secretary of State that it is expedient for references in these Regulations to Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107)[^f00004] of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117)[^f00005] and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414)[^f00006] to be construed as including references to Articles 30(3) and 52(4), and to Annexes I to V of that Regulation as amended from time to time.
+
+## 1. Citation, commencement, extent and review
+
+(1) These Regulations may be cited as the Plant Protection Products Regulations 2011 and come into force on 24th September 2011.
+
+(2) Except as provided in paragraph (3) and subject to paragraphs (4) and (5), these Regulations extend to Great Britain.
+
+(3) Regulation 4 extends to the United Kingdom.
+
+(4) Any amendment made by Schedule 4 has the same extent as that of the enactment, or instrument made by the Scottish Parliament, to which it relates.
+
+(5) Any revocation made by Schedule 5 has the same extent as that of the enactment, or instrument made by the Scottish Parliament, to which it relates.
+
+(6) Before the end of each review period, the Secretary of State must—
+
+- (a) carry out a review of regulations 2 to 31;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(7) The review shall relate to the operation of these Regulations as they have effect in relation to England [^key-1d211b636fd69b5ed655d689e869ac31]... only.
+
+(8) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Regulation 1107/2009 (which is implemented by means of these Regulations) is implemented in other Member States.
+
+(9) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(10) If a report under these Regulations is published before the last day of the review period to which it relates, the following review period is to begin with the day on which that report is published.
+
+(11) “review period” means—
+
+- (a) the period of five years beginning with the day on which these Regulations come into force, and
+- (b) subject to paragraph (10), each successive period of five years.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “the 1986 Regulations” means the Control of Pesticides Regulations 1986[^f00007];
+- “authorised person” means a person authorised under regulation 7(1) or 7(7) of these Regulations;
+- “premises” includes any place and, in particular, includes—[^key-d5c01b04178c2c893853c54eef6ef077]
+  - (a) any vehicle, vessel, aircraft, hovercraft or marine structure; and
+  - (b) any tent or moveable structure;.
+- “Regulation 1107/2009” means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market , as last amended by[^key-1474d40000b417a1a8314c2b2adaea7f] Regulation (EU) 2019/1009 of the European Parliament and of the Council[^key-889a2d22b7b3f73efe05cc8c91504459], of which Annexes 2 and 4[^key-de19c817a36cab113b148d1f51c6bf3a] of that Regulation are to be read as amended from time to time.
+
+(2) Expressions used in both these Regulations and Regulation 1107/2009 have the same meaning in these Regulations as they have in Regulation 1107/2009.
+
+(3) In these Regulations any reference to a numbered Article is to be construed as a reference to the Article so numbered in Regulation 1107/2009.
+
+## 3. Competent Authority[^key-8b2d49d13932f5075a54a3b06c68c7d8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Co-ordinating national authority[^key-e7b25203bdf5bf76ec0c30370ab3a4fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Emergency measures
+
+(1) Where the Secretary of State reasonably considers that treated seeds are likely to constitute a serious risk to human or animal health or to the environment, the Secretary of State may issue a notice in writing restricting or prohibiting their sale or use, or both, in relation to England [^key-4c8eb498355fccc4ca2b294b7a1e7bd5]....
+
+(1A)[^key-186fbea0d140a7d45382204d6f412711] Where the Welsh Ministers reasonably consider that treated seeds are likely to constitute a serious risk to human or animal health or to the environment, they may issue a notice in writing restricting or prohibiting their sale or use, or both, in relation to Wales.
+
+(2) Where the Scottish Ministers reasonably consider that treated seeds are likely to constitute a serious risk to human or animal health or to the environment, they may issue a notice in writing restricting or prohibiting their sale or use, or both, in relation to Scotland.
+
+(3) A notice served pursuant to paragraph (1) , (1A)[^key-bfd52f018382105cedc2d9adcab0b263] or (2) must—
+
+- (a) set out the grounds for issuing the notice; and
+- (b) give a time limit for compliance with the notice.
+
+## 6. Enforcement
+
+(1)[^key-4f42bbeb5d24fa2f1c6dde1679eeebb0] These Regulations are enforced—
+
+- (a) by the Secretary of State in relation to England;
+- (b) by the Welsh Ministers in relation to Wales; and
+- (c) by the Scottish Ministers in relation to Scotland.
+
+(2)[^key-df95ba5c00ea26954fb23af750cfa50a] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of offences under these Regulations in so far as those functions relate to offences committed in England.
+
+## 7. Powers of authorised persons
+
+(1) The Secretary of State (in relation to England), the Welsh Ministers (in relation to Wales) and the Scottish Ministers (in relation to Scotland) may authorise any person to exercise the powers set out in Schedule 1 to these Regulations.
+
+(2) An authorised person, if so authorised by the person authorising him or her, may, although not of counsel or a solicitor, prosecute before a magistrates’ court in England and Wales proceedings for an offence under these Regulations.
+
+(3) A person may be authorised for specified purposes.
+
+(4) An authorisation must be evidenced in writing.
+
+(5) The Secretary of State and the Welsh Ministers acting jointly in relation to local authority officers in England and Wales, and the Scottish Ministers in relation to local authority officers in Scotland, may specify descriptions of local authority officers who may be authorised to exercise enforcement powers and may direct that an officer of a particular description may only be appointed to exercise them for a specified purpose.
+
+(6) Any specification or direction under paragraph (5) must be in writing.
+
+(7) If the Secretary of State and Welsh Ministers or the Scottish Ministers specify a description of local authority officers under paragraph (5), a local authority may authorise any of its officers falling within that description to exercise enforcement powers.
+
+(8) Schedule 1 (Powers of authorised persons) has effect.
+
+(9) In this regulation “enforcement powers” means the powers set out in Schedule 1 to these Regulations.
+
+(10) In this regulation “local authority” means—
+
+- (a) in relation to England—
+  - (i) where there is a unitary authority, within the meaning of the Local Government Changes for England Regulations 1994[^f00008], that authority;
+  - (ii) where there is not a unitary authority—
+    - (aa) in a metropolitan district, the council of that district;
+    - (bb) in a non-metropolitan district, the council of that county or the council of a district within the county area;
+    - (cc) in each London borough, the council of that borough;
+  - (iii) in the City of London, the Common Council; or
+  - (iv) the Council of the Isles of Scilly;
+- (b) in relation to Wales, a county council or a county borough council; and
+- (c) in relation to Scotland, a Council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00009].
+
+## 8. Evidence of authorisation
+
+(1) An authorised person performing functions under these Regulations must produce, on request, evidence of his or her authorisation.
+
+(2) An authorised person shall state, if requested—
+
+- (a) his or her name;
+- (b) the functions to be performed; and
+- (c) the grounds for proposing to perform those functions.
+
+## 9. Placing on the market and use
+
+A person must not place on the market or use a plant protection product in contravention of Article 28, or cause or permit another person to do so.
+
+## 10. Seeds treated with plant protection products
+
+(1)[^key-8badf89974e87ebb323b1ddfff4bb089] A person must not place on the market or use in a constituent territory (“the relevant constituent territory”) seeds treated with a plant protection product, other than an appropriate plant protection product, or cause or permit another person to do so.
+
+(1A) Paragraph (1) does not apply in relation to seeds which a competent authority must not prohibit in accordance with Article 49 as read with paragraph 14 of Schedule 1 to the Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019.
+
+(2) A person must not place on the market treated seeds in contravention of Article 49(4), or cause or permit another person to do so.
+
+(3) In this regulation “treated seeds” means seeds treated with an appropriate plant protection product, or seeds which a competent authority must not prohibit in accordance with Article 49 as read with paragraph 14 of Schedule 1 to the Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019.[^key-867de91124c6922b5775c2d38cbd2a0c]
+
+(4)[^key-cdf488b41df7055ed6d3756b23e8a2a9] In this regulation, “**appropriate plant protection product**” means—
+
+- (a) a plant protection product authorised in relation to the relevant constituent territory for use on such seeds, or
+- (b) a plant protection product authorised in relation to another constituent territory for use on such seeds, where—
+  - (i) every active substance, low-risk active substance or candidate for substitution in that product is approved in relation to the relevant constituent territory, and
+  - (ii) every co-formulant in that product does not appear on the unacceptable co-formulants register in relation to the relevant constituent territory.
+
+## 11. Parallel trade permits and permits for trial purposes
+
+(1) A person must not place on the market or use a plant protection product in contravention of Article 52A(8)[^key-c8573ad777fdc2bf24ab1710fab06e9f], or cause or permit another person to do so.
+
+(2) A person must not place on the market or use a plant protection product in contravention of one or more conditions in a permit granted for trial purposes under Article 54(1), or cause or permit another person to do so.
+
+## 12. Use of plant protection products
+
+A person must use a plant protection product in compliance with the conditions established in accordance with Article 31 and specified on the labelling as required in Article 55.
+
+## 13. The provision of information on potentially harmful or unacceptable effects
+
+An authorisation holder must include in a notification under Article 56(1) the information required by Article 56(2).
+
+## 14. Adjuvants
+
+(1) A person must not place on the market or use an adjuvant in contravention of Article 58, or cause or permit another person to do so.
+
+(2)[^key-e4cbce412727e1037c2884d5951a50fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A person must not use an adjuvant with a plant protection product authorised or permitted, or deemed to be authorised or permitted, in accordance with Regulation 1107/2009 in contravention of a requirement imposed pursuant to paragraph 3(b) of Schedule 2 to these Regulations.
+
+(4) Schedule 2 (Adjuvants) has effect.
+
+## 15. The sharing of tests and studies involving vertebrate animals
+
+(1) A person must not undertake tests on vertebrate animals in contravention of the first sentence of Article 62(1), or cause or permit another person to do so.
+
+(2) A person must comply with a direction issued by the Secretary of State , the Welsh Ministers[^key-9faf73359f682014a98bcbf3d32e255c] or the Scottish Ministers pursuant to Article 62(6).
+
+## 16. Packaging and presentation
+
+(1) A person must not package a plant protection product or an adjuvant in contravention of Article 64(1), or cause or permit another person to do so.
+
+(2) A person must not make available to the general public a plant protection product or adjuvant in contravention of Article 64(2), or cause or permit another person to do so.
+
+## 17. Labelling
+
+A person must not place on the market a plant protection product in contravention of Article 65(1), or cause or permit another person to do so, unless the plant protection product is—
+
+- (a) placed on the market before 14th June 2015;
+- (b) approved under the 1986 Regulations, the Plant Protection Products Regulations 2005[^f00010] or the Plant Protection Products (Scotland) Regulations 2005[^f00011]; and
+- (c) labelled in accordance with Article 16 of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market [^f00012] as it had effect immediately before 14th June 2011[^key-eda38e8bc0b0de7c0c49ec7e4dd2ccdb] .
+
+## 18. Advertising
+
+A person must not advertise a plant protection product in contravention of Article 66(1), (2), (4), (5) or (6), or cause or permit another person to do so.
+
+## 19. Record keeping
+
+(1) Producers, suppliers, distributors, importers, and exporters of plant protection products must not contravene the requirement set out in the first sentence of Article 67(1).
+
+(2) A professional user of plant protection products must not contravene the requirements set out in the second sentence of Article 67(1).
+
+(3) Producers, suppliers, distributors, importers, exporters and professional users of plant protection products must not contravene the second paragraph of Article 67(1).
+
+(4) A producer of a plant protection product must not contravene Article 67(2).
+
+(5) An authorisation holder must not contravene Article 67(3).
+
+## 20. The provision of information
+
+(1) A person listed in paragraph (2) must not—
+
+- (a) make a statement which they know to be false in a material particular;
+- (b) recklessly make a statement which is false in a material particular; or
+- (c) intentionally fail to disclose any material particular,
+
+in relation to the application or request specified in paragraph (2).
+
+(2) Paragraph (1) applies to the following persons in relation to the following applications or requests—
+
+- (a) an applicant, or their representative, in relation to an application under Article 33(1);
+- (b) an authorisation holder, in relation to an application under Article 40(1) as it had effect immediately before IP completion day[^key-1321fa98bd4535539f0a42d27a6c8413] or Article 43(1);
+- (c) a person making an application on behalf of an official or scientific body involved in agricultural activities or on behalf of a professional agricultural organisation, in relation to an application under Article 40(2) as it had effect immediately before IP completion day[^key-a5d33f4abff974afc5679b14b2f2b2b6];
+- (d) an authorisation holder, a person making an application on behalf of an official or scientific body involved in agricultural activities, a person making an application on behalf of a professional agricultural organisation or a professional user, in relation to a request under Article 51(1); or
+- (e) an applicant, or their representative, in relation to an application under Article 52A(2) or[^key-3d797e3125e34ea53f42bdeca557e46a] [^key-d43e51b6eb91b8287cc53aaa1d8653bc]... 54(2).
+
+(3) A prospective applicant must not—
+
+- (a) submit data knowing them to be false in a material particular;
+- (b) recklessly submit data which are false in a material particular; or
+- (c) intentionally fail to disclose data,
+
+in a submission for the purposes of the second paragraph of Article 61(1).
+
+(4) A prospective applicant must not provide samples or mock ups of packaging and drafts of labels and leaflets required by the Secretary of State , the Welsh Ministers[^key-96a10a01c60278707501eff94e3b45d2] or the Scottish Ministers pursuant to Article 65(2)—
+
+- (a) knowing them to be false in a material particular; or
+- (b) recklessly as to whether they are false in a material particular.
+
+(5) A person must not cause or permit any person, in relation to an application under Article [^key-b8894f136a0ec77a59a50b60a3a94df3]... 54(2), to make a statement which the former knows to be false in a material particular.
+
+## 21. Non-compliance with notices
+
+(1) A person must comply with the provisions of a notice served under—
+
+- (a) regulation 5(1) , (1A)[^key-ba7dfe6023d82e82b057037bf5957854] or (2);
+- (b) paragraph 7(1), (3) or (8) of Schedule 1 to these Regulations; or
+- (c) paragraph 8(1), (3) or (6) of Schedule 1 to these Regulations.
+
+(2) The Secretary of State , the Welsh Ministers[^key-64ead9dd233f234bd49f0e4362500f6a], the Scottish Ministers or an authorised person may make arrangements to ensure that the requirements in a notice issued by them are complied with if the person on whom the notice was served fails to comply with the requirements in the notice.
+
+(3) Any costs reasonably incurred by the Secretary of State , the Welsh Ministers[^key-e793af840ba1bf33a912b485cbeca432], the Scottish Ministers or any authorised person in ensuring that the requirements of a notice are complied with may be recovered, on demand, from the person on whom the notice was served.
+
+## 22. Obstruction of an authorised person
+
+(1) A person—
+
+- (a) must not intentionally obstruct any person performing his or her functions under these Regulations; and
+- (b) must comply with any requirement made by an authorised person performing his or her functions under these Regulations.
+
+(2) A person purporting to give information required by an authorised person performing his or her functions under these Regulations must not—
+
+- (a) make a statement which they know to be false in a material particular;
+- (b) recklessly make a statement which is false in a material particular; or
+- (c) intentionally fail to disclose any material particular.
+
+## 23. Offence
+
+A person who contravenes or fails to comply with—
+
+- (a) any paragraph of regulations 9 to 13, 15 to 19, or 22;
+- (b) regulation 14(1) or 14(3);
+- (c) regulation 20(1), 20(3), 20(4) or 20(5);
+- (d) regulation 21(1);
+- (e) Article 56(1);
+- (f) Article 56(4); or
+- (g) the second sentence of Article 62(2),
+
+is guilty of an offence.
+
+## 24. Offences by bodies corporate
+
+(1) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar officer of the body corporate; or
+- (b) any person who was purporting to act in any such capacity,
+
+he or she, as well as the body corporate, shall be guilty of the offence and be liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1) “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(3) Where an offence under these Regulations is committed in Scotland by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of a partner or any person who was purporting to act in any such capacity, he or she as well as the partnership shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+## 25. Defences
+
+(1) In any proceedings for an offence under these Regulations, other than in relation to regulation 15(2), 22(1)(a) or 22(2), it is a defence for the person charged to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(2) A person is to be taken to have established the defence provided by paragraph (1) if they prove—
+
+- (a) that they acted under instructions given to them by their employer; or
+- (b) that they acted in reliance on information supplied by another person without any reason to suppose that the information was false or misleading,
+
+and in either case that they took all such steps as were reasonably open to them to ensure that no offence would be committed.
+
+(3) If, in any case, the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to—
+
+- (a) an act or omission by another person, other than the giving of instructions to the person charged with the offence by their employer; or
+- (b) reliance on information supplied by another person,
+
+the person charged shall not, without leave of the court, be entitled to rely on that defence unless within a period ending seven clear days before the hearing, they have served on the prosecutor a notice giving such information identifying or assisting in the identification of that other person as was then in their possession.
+
+(4) It shall be a defence in proceedings for an offence under section 8(b) of the Protection of Animals Act 1911[^f00013] or under section 7(b) of the Protection of Animals (Scotland) Act 1912[^f00014] (which restrict the placing on land of poison and poisonous substances) for the person charged to show that they acted in accordance with an authorisation or permission granted, or deemed to be granted, in accordance with Regulation 1107/2009.
+
+## 26. Penalties
+
+(1) A person guilty of an offence under these Regulations, other than for contravention of or failure to comply with regulation 13, 19, 21(1) or 22(1)(b), is liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine.
+
+(2) A person guilty of an offence for contravention of or failure to comply with regulation 13, 19, 21(1) or 22(1)(b) is liable on summary conviction to a fine of an amount not exceeding level 5 on the standard scale.
+
+(3) For the purposes of the jurisdiction of a court to try offences under these Regulations, any offence under these Regulations may be treated as having been committed in any place in Great Britain.
+
+## 27. Service of documents
+
+Schedule 3 (Service of documents) has effect.
+
+## 28. Agency arrangements
+
+(1) The Scottish Ministers or Welsh Ministers[^key-75f191c8f50f5c2f48081985225a786a] may arrange, with the agreement of the Secretary of State, for any of their functions under or for the purposes of Regulation 1107/2009 and these Regulations to be exercised on their behalf by the Secretary of State.
+
+(2) An arrangement under these Regulations in respect of any functions may include provisions for any fees and charges payable to the Scottish Ministers or Welsh Ministers[^key-49218dd2755e752e3892941f28173a2b] in respect of that function to be collected by the Secretary of State on behalf of the Scottish Ministers or Welsh Ministers.
+
+(3) An arrangement under these Regulations shall be in writing and be signed by, or on behalf of, the Scottish Ministers or Welsh Ministers, as the case may be,[^key-7d7c9d165395d85965f8b1064a239362] and the Secretary of State and such an arrangement may be subject to such conditions (including conditions as to the costs) as may be agreed.
+
+## 29. Application to the Crown
+
+(1) Subject to paragraph (2), an authorised person may perform any of his or her functions under these Regulations in relation to land in which there is a Crown interest or Duchy interest.
+
+(2) An authorised person shall not perform any functions—
+
+- (a) in relation to land in which there is no interest other than a Crown interest or Duchy interest; or
+- (b) in relation to land which is exclusively in Crown occupation.
+
+(3) In this regulation—
+
+- “Crown interest” means any interest belonging to Her Majesty in right of the Crown or belonging to a government department or an office holder in the Scottish Administration or held in trust for Her Majesty for the purposes of a government department or the Scottish Administration;
+- “Crown occupation” means occupation by Her Majesty in right of the Crown or occupation by a government department or the Scottish Administration; and
+- “Duchy interest” means an interest belonging to Her Majesty in right of the Duchy of Lancaster, or belonging to the Duchy of Cornwall.
+
+## 30. Savings and transitionals
+
+(1) The Plant Protection Products Regulations 2005 and the Plant Protection Products (Scotland) Regulations 2005 are saved for the purposes of deciding applications for approvals of plant protection products referred to in Article 80(5) as it had effect immediately before IP completion day[^key-84bf1f355fba747ff217ab2b3c90aac8]. Any approval granted under either of those sets of Regulations or the 1986 Regulations, following such an application, shall be deemed to be granted under Regulation 1107/2009.
+
+(2) Any plant protection product that has a valid approval granted—
+
+- (a) by, or on behalf of, the Secretary of State or the Scottish Ministers under the 1986 Regulations;
+- (b) by, or on behalf of, the Secretary of State under the Plant Protection Products Regulations 2005; or
+- (c) by, or on behalf of, the Scottish Ministers under the Plant Protection Products (Scotland) Regulations 2005,
+
+when these Regulations come into force is deemed to be authorised in accordance with Regulation 1107/2009.
+
+(3) Any conditions or requirements in an approval referred to in paragraph (2) are deemed to be requirements made under Article 31(2).
+
+(4) Any parallel trade approval granted by, or on behalf of, the Secretary of State or the Scottish Ministers which is valid when these Regulations come into force is deemed to be a parallel trade permit granted in accordance with Article 52.
+
+## 31. Amendments and revocations
+
+(1) The enactments, or instruments made by the Scottish Parliament, specified in the Table in Schedule 4 are amended to the extent specified in the Table.
+
+(2) The enactments, or instruments made by the Scottish Parliament, specified in the Table in Schedule 5 are revoked in accordance with the provisions of that Table.
+
+Signed by the authority of the Secretary of State for Environment, Food and Rural Affairs.
+
+Henley
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — Powers of authorised persons
+
+Regulation 7(8)
+
+### 1. Powers of entry
+
+(1) An authorised person may enter any premises (except any premises used wholly or mainly as a private dwelling)[^key-dd5fa099ce255823470a4ae3c39bf23d] if he or she has reasonable grounds to believe that any plant protection product is being, or has been, applied to or stored on or in them or transported on or applied by means of them[^key-32eb4e835b26859801e9102105c6ab22] and that it is necessary to enter for the purpose of ensuring that these Regulations are complied with.
+
+(2)[^key-a0acd0996c2a8c507795debefaeb9c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-2d9300eff0fc72a51ab8d412a022ccc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-be7b574258ba93b4e2c6b7b7d6f49fd7] An authorised person must exercise powers of entry at a reasonable hour unless it appears to the authorised person that there are grounds for suspecting that the exercise of the power of entry may be frustrated if he or she seeks to exercise them at a reasonable hour.
+
+(3)[^key-38d4156fd12cefb7cf838dd95c3844a0] An authorised person who enters any unoccupied premises[^key-b8b3a39a85c160ec42ac5a3bd38ef3da] must leave it as effectively secured against unauthorised entry as it was before his or her entry.
+
+### 2. Search warrants
+
+(1)[^key-5b1df1124f57e5c2225bfca9781cda8b] A justice of the peace in England and Wales, or a sheriff, stipendiary magistrate or justice of the peace in Scotland, may issue a warrant permitting an authorised person to enter any premises if necessary by reasonable force, for the purposes of the enforcement of these Regulations if satisfied that the authorised person has reasonable grounds for requiring entry and any of the conditions set out in paragraph 2(1A) are satisfied.
+
+(1A)[^key-9d503f8adb6b184898b51232450409c3] The conditions referred to in sub-paragraph (1) are that—
+
+- (a) admission has been refused, or a refusal is expected, and (in either case) that notice to apply for a warrant has been given to the occupier;
+- (b) asking for admission, or the giving of such a notice, would defeat the object of the entry;
+- (c) the case is one of urgency; or
+- (d) the premises are unoccupied or the occupier is temporarily absent.
+
+(2) Where an authorised person applies for a warrant under paragraph 2(1), he or she must state—
+
+- (a) the grounds upon which the application is made;
+- (b) that the warrant would be issued under this Schedule to these Regulations; and
+- (c) what is being sought.
+
+(3) An application for a warrant under paragraph 2(1) must be supported by an information in writing, in England and Wales, or by evidence on oath in Scotland.
+
+(4)[^key-30d3132a38f44ea4ccf81814c40c3b0a] An application for a warrant under paragraph 2(1), where the condition satisfied is set out at paragraph 2(1A)(a), must be made on notice and, where the condition satisfied is set out in paragraph 2(1A)(b), (c) or (d), must be made without notice.
+
+(5) The authorised person shall answer on oath any question that the justice of the peace, sheriff or stipendiary magistrate hearing the application asks him or her.
+
+(6) A warrant shall authorise entry on one occasion only.
+
+(7) A warrant shall specify—
+
+- (a) the name of the person who applies for it;
+- (b) the date on which it is issued;
+- (c) that it is issued under this Schedule to these Regulations;
+- (d)[^key-d15e3df51c13513a3f845a57e2aa83df] the address of the premises to be entered and searched; and
+
+identify, so far as is practicable, what is to be sought.
+
+(8) The court shall provide two copies of the warrant certified as such.
+
+### 3. Execution of warrants
+
+(1) Entry and search under a warrant must be within three months from the date of its issue.
+
+(2) Where the occupier of the premises[^key-27d309d9b0b68eb7e3c41a2546a71c23] to be entered and searched is present at the time when an authorised person seeks to execute a warrant to enter and search it, the authorised person shall—
+
+- (a) identify himself or herself to the occupier and shall produce to the occupier evidence of his or her authority;
+- (b) produce the warrant to the occupier; and
+- (c) supply the occupier with a certified copy of it.
+
+(3) Where the occupier of the premises[^key-50d23cfd1dd9990ee334e335aa821fdc] is not present at the time when an authorised person seeks to execute such a warrant; but some other person who appears to the authorised person to be in charge of the premises is present, sub-paragraph (2) shall have effect as if any reference to the occupier were a reference to that other person.
+
+(4) If there is no person present who appears to the authorised person to be in charge of the premises[^key-356fabab0630cbd80b695118d26395d8] , the authorised person must leave a copy of the warrant in a prominent place on the premises.
+
+(5) A search under a warrant may only be a search to the extent required for the purpose for which the warrant was issued.
+
+(6) An authorised person executing a warrant shall make an endorsement on it stating whether what was sought was found.
+
+(7) A warrant shall be returned to the designated officer for the local justice area in which the justice of the peace, sheriff or stipendiary magistrate was acting when the warrant was issued—
+
+- (a) when it has been executed; or
+- (b) in the case of a warrant which has not been executed, upon the expiry of three months from the date of its issue or sooner.
+
+(8) In Scotland the designated officer is the sheriff’s clerk if the warrant was issued by a sheriff, and the clerk of the justice of the peace’s court if the warrant was issued by a justice of the peace or stipendiary magistrate.
+
+(9) A warrant which is returned under sub-paragraph (7) shall be retained for 12 months from its return by the designated officer for the local justice area.
+
+(10) If during the period for which a warrant is to be retained the occupier of the premises[^key-9224bacda08c341d800e6f8db1520c5f] to which it relates asks to inspect it, such inspection shall be allowed.
+
+### 4. General powers
+
+(1)[^key-5d11bbaa522c13b616219499b2856eaa] An authorised person exercising powers of entry pursuant to paragraph 1(1), or in accordance with a warrant granted under paragraph 2(1), may—
+
+- (a) search for any item, if necessary using reasonable force;
+- (b) open or examine, or both, anything that is on, attached to or otherwise forms part of the premises, if necessary using reasonable force;
+- (c) take with him or her any persons and equipment or materials he or she considers necessary for the enforcement of these Regulations;
+- (d) open any container, if necessary using reasonable force;
+- (e) carry out any searches, inspections, measurements and tests;
+- (f) take samples;
+- (g) have access to, and inspect and copy any documents, books or records (in whatever form they are held) which the authorised person has reason to believe may be relevant in connection with the enforcement of these Regulations and remove them to enable them to be copied;
+- (h) photograph or copy anything which the authorised person has reasonable cause to believe may be relevant in connection with the enforcement of these Regulations; and
+- (i) seize any computers and associated equipment for the purpose of copying documents provided that they are returned as soon as practicable.
+
+(2) Any person who accompanies an authorised person in accordance with paragraph 4(1)(c)[^key-e85f4ffc6c49e8736673c8d176f47534] may perform any of the authorised person’s functions but only under the supervision of that authorised person.
+
+(3) Where an authorised person takes samples under paragraph 4(1)(f)[^key-c3d645460b147a336c1af0e1a86d52de] he or she may only take an amount that is reasonably needed for the performance of his or her functions under these Regulations.
+
+(4) Nothing in paragraph 4(1)(g), (h) or (i)[^key-ef2a33b1ce7edbd9a40574240809c4ce] shall be taken to compel the production by any person of a document which he or she would be entitled to refuse to produce on grounds of legal professional privilege in proceedings in the High Court in England and Wales, or on grounds of confidentiality of communications in proceedings in the Court of Session in Scotland.
+
+(5) An authorised person may require any person to give him or her information as to the formulation, effects or use of any substance.
+
+(6) An authorised person performing functions under these Regulations may require a person whom he or she has reasonable cause to believe is able to give information which will assist in the execution of these Regulations—
+
+- (a) to answer such questions as the authorised person thinks it appropriate to ask; and
+- (b) to sign a declaration of the truth of the answers provided.
+
+(7) Any person to whom questions are put under sub-paragraph (6) may nominate a person to be with him or her when he or she answers.
+
+(8) When a person answers any such questions the only other persons who may be present, apart from the questioner, are—
+
+- (a) the person (if any) nominated under sub-paragraph (7); and
+- (b) any person authorised by the authorised person to be present.
+
+(9) No answer given by a person in pursuance of a requirement imposed under sub-paragraph (6) shall be admissible in evidence in Great Britain against that person, his or her spouse, or his or her civil partner in proceedings for any offence.
+
+### 5. Power of authorised person to use reasonable force[^key-b2c33816bdea0877a5f5e3af01d576ea]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Protection of authorised persons
+
+An authorised person shall not be liable in any civil or criminal proceedings for anything done in the purported performance of his or her functions as an authorised person if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
+
+### 7. Seizure and disposal of products and requirements to recover or export
+
+(1) If an authorised person is of the opinion that a person is committing, has committed or is likely to commit an offence contrary to these Regulations, the authorised person has the power to—
+
+- (a) seize or dispose of the plant protection product or both, or serve a notice on the holder of any approval, authorisation or permission relating to the plant protection product, the owner of the plant protection product or any other person appearing to be in charge of it requiring him or her to dispose of it;
+- (b) seize or dispose of anything treated with the plant protection product (“treated item”) or both, or serve a notice on any person appearing to the authorised person to be the owner or the person in charge of anything so treated requiring him or her to dispose of it; or
+- (c) serve a notice on the holder of any approval, authorisation or permission relating to the plant protection product, the owner of the plant protection product or any other person appearing to the authorised person to be in charge of it requiring him or her to take such remedial action as appears to the authorised person to be necessary, including recovery of the plant protection product from the market in Great Britain.
+
+(2) If an authorised person has exercised his or her power under sub-paragraph (1)(a) or (b) to seize or dispose, or both, he or she must serve a notice on the relevant person informing that person that the power has been exercised.
+
+(3) If any plant protection product has been imported into Great Britain in contravention of Article 28(1) an authorised person may, by notice served on the person appearing to be the owner, the importer or the person in charge of the product, require that it shall be exported from Great Britain.
+
+(4) A notice served under this paragraph must be in writing.
+
+(5) A notice served under sub-paragraph (1) or (3) must give a time limit for compliance with the notice.
+
+(6) A notice served under sub-paragraph (1), (2) or (3) must—
+
+- (a) state that the authorised person is of the opinion that a person is committing, has committed or is likely to commit an offence contrary to these Regulations and specify the offence;
+- (b) specify why the authorised person is of that opinion;
+- (c) identify the plant protection product or treated item seized or disposed of, or both; and
+- (d) state the quantity of the plant protection or treated item seized or disposed of, or both.
+
+(7) An authorised person may withdraw a notice served under this paragraph at any time.
+
+(8) An authorised person may serve a person with a notice under this paragraph even if a previous notice served on that person has been withdrawn.
+
+(9) In sub-paragraph (2) “relevant person” means—
+
+- (a) for the purposes of a notice under sub-paragraph (1)(a), the holder of any approval, authorisation or permission relating to the plant protection product that has been seized, disposed of, or both, the owner of the plant protection product or any other person appearing to be in charge of it;
+- (b) for the purposes of a notice under sub-paragraph (1)(b), any person appearing to the authorised person to be the owner of anything treated with the plant protection product seized, disposed of, or both, or the person appearing to the authorised person to be in charge of anything so treated.
+
+### 8. Enforcement Notices
+
+(1) If an authorised person is of the opinion that a person—
+
+- (a) is committing an offence under regulation 23 by contravening or failing to comply with any paragraph of regulations 9 to 19[^key-2fa1c603f4af5d22501d5f5ade52da6b] ; or
+- (b) has committed such an offence in circumstances that make it likely[^key-1122d59742ba9816d867fc07f0bfdaa6] that the offence will be repeated,
+
+he or she may serve on that person a notice that he or she is of that opinion, specifying the offence as to which he or she is of that opinion and directing them to take either of the steps set out at sub-paragraph (2).
+
+(2) A notice under sub-paragraph (1) may direct—
+
+- (a) that any premises[^key-c50342cbfdcde69ac2a05435844e365e] on or in which it appears that the offence was being committed or anything which is on or in it, shall be left undisturbed (whether generally or in particular respects) for as long as it appears to be reasonably necessary; or
+- (b) that remedial or preventative measures shall be taken.
+
+(3) If an authorised person is of the opinion that a person is committing, or is likely to commit, an offence under regulation 23 by contravening or failing to comply with any paragraph of regulations 9 to 19[^key-ebcb41bccf68cc3ad9278ae629b2edbb] he or she may serve on that person a notice—
+
+- (a) stating that opinion;
+- (b) specifying why he or she is of that opinion; and
+- (c) requiring that person to act in accordance with these Regulations or prohibiting that person from acting in contravention of these Regulations.
+
+(4) A notice served under sub-paragraph (1) or (3) must be in writing and must give a time limit for compliance with the notice.
+
+(5) An authorised person may withdraw a notice served under sub-paragraph (1) or (3) at any time.
+
+(6) An authorised person may serve a person with a notice under sub-paragraph (1) or (3) even if a previous notice served on that person has been withdrawn.
+
+## SCHEDULE 2 — Adjuvants
+
+Regulation 14(4)
+
+**1.** An adjuvant is authorised for use with an authorised plant protection product in England [^key-4fba7031677eec349b4c969df177f559]... if it is included in a list of adjuvants published by the Secretary of State from time to time (in this paragraph referred to as “the English [^key-ef3350c903f811aac4baa72092ddf404]... list”) or, if not included in the English [^key-ef3350c903f811aac4baa72092ddf404]... list, if it is used with an authorised plant protection product for the sole purpose of research and development. A person may apply to the Secretary of State for an adjuvant to be included on the English [^key-ef3350c903f811aac4baa72092ddf404]... list.
+
+**1A.**[^key-1264e4fb9bd9d8485005b8c2a6ab97a0] An adjuvant is authorised for use with an authorised plant protection product in Wales if it is included in a list of adjuvants published by the Welsh Ministers from time to time (in this paragraph referred to as “the Welsh list”) or, if not included in the Welsh list, if it is used with an authorised plant protection product for the sole purpose of research and development. A person may apply to the Welsh Ministers for an adjuvant to be included on the Welsh list.
+
+**2.** An adjuvant is authorised for use with an authorised plant protection product in Scotland if it is included in a list of adjuvants published by the Scottish Ministers from time to time (in this paragraph referred to as “the Scottish list”) or, if not included in the Scottish list, if it is used with an authorised plant protection product for the sole purpose of research and development. A person may apply to the Scottish Ministers for an adjuvant to be included on the Scottish list.
+
+**3.** The Secretary of State , the Welsh Ministers[^key-6f2cafa7e2535739cc28b8e4171b128e] and the Scottish Ministers may, in relation to their respective lists, in relation to any adjuvant for which an application has been made for inclusion on their lists or which is included in their lists, at any time—
+
+- (a) determine data requirements (concerning human safety or environmental protection) to which the inclusion, or the continued inclusion, of that adjuvant in their lists shall be subject;
+- (b) determine requirements to which the use of that adjuvant with authorised plant protection products shall be subject; and
+- (c) for reasons of human safety or environmental protection, or with the consent of the applicant, amend any requirement which has been determined under sub-paragraph (a) or (b).
+
+**4.** The Secretary of State , the Welsh Ministers[^key-3fec3efcb0275209faf7c690eb0b321a] and the Scottish Ministers shall, in relation to any adjuvant included in their respective lists, also state any requirements which they have determined under paragraph 3(b) and any amendments to such requirements that have been made under paragraph 3(c).
+
+**5.** The Secretary of State , the Welsh Ministers[^key-4adf52b5b60fa1f5e8d640205d1027a0] and the Scottish Ministers may, in relation to any adjuvant included in their respective lists, remove that adjuvant from their lists—
+
+- (a) if it appears to the Secretary of State , the Welsh Ministers or the Scottish Ministers that the applicant has failed to comply with any data requirement which has been determined in relation to that adjuvant under paragraph (3)(a) or amended under paragraph 3(c);
+- (b) if it appears to the Secretary of State , the Welsh Ministers or the Scottish Ministers that any literature relating to the adjuvant is not in accordance with any requirement to which the use of that adjuvant is subject, as determined under paragraph (3)(b) or amended under paragraph 3(c);
+- (c) if it appears to the Secretary of State , the Welsh Ministers or the Scottish Ministers that—
+  - (i) any literature relating to the adjuvant refers to a plant protection product; and
+  - (ii) the use of that adjuvant with that plant protection product is not in accordance with the conditions of the authorisation given in relation to that plant protection product;
+- (d) for reasons of human safety or environmental protection; or
+- (e) at the request of the applicant.
+
+**6.** The Secretary of State, the Welsh Ministers[^key-bfa2479114cc6410b76119ead76104a0] and the Scottish Ministers shall, upon a decision to remove an adjuvant from their respective lists, include in their lists—
+
+- (a) that decision; and
+- (b) the date on which, and any conditions in accordance with which, the removal is to take effect.
+
+**7.** (1) In paragraph 5(c)(i), “literature relating to the adjuvant” means—
+
+- (a) the labelling of the packaging in which the adjuvant is contained;
+- (b) any leaflet accompanying that package; or
+- (c) any other material in writing produced by, or on behalf of, the applicant describing the adjuvant or how to use it.
+
+(2) In paragraph 5(c)(ii), “authorisation” means any authorisation or permission granted, or deemed to be granted, in accordance with Regulation 1107/2009 and in paragraphs 1, 2 and 3(b) “authorised” shall be construed accordingly.
+
+## SCHEDULE 3 — Service of documents
+
+Regulation 27
+
+**1.** The provisions of this Schedule apply to the service of a notice or requirement in writing under these Regulations.
+
+**2.** A notice or requirement may be served on, or given to, a person by—
+
+- (a) delivering it to that person in person;
+- (b) leaving it at that person’s proper address; or
+- (c) sending it by post or electronic means to that person’s proper address.
+
+**3.** In the case of a body corporate, a notice or requirement may be served on, or given to, a director of that body.
+
+**4.** In the case of a partnership, a notice or requirement may be served on, or given to, a partner or a person having control or management of the partnership business.
+
+**5.** If a person to be served with, or given, a notice or requirement has specified an address in the United Kingdom (other than that person’s proper address) at which that person or someone on that person’s behalf will accept service, that address must also be treated as that person’s proper address.
+
+**6.** For the purposes of this Schedule, “proper address” means—
+
+- (a) in the case of a body corporate or its director—
+  - (i) the registered or principal office of that body; or
+  - (ii) the email address of the secretary or clerk of that body;
+- (b) in the case of a partnership, a partner or person having control or management of the partnership business—
+  - (i) the principal office of the partnership; or
+  - (ii) the email address of a partner or a person having that control or management;
+- (c) in any other case, a person’s last known address, which includes an email address.
+
+**7.** In this Schedule, “partnership” includes a Scottish partnership.
+
+## SCHEDULE 4 — Amendments
+
+Regulation 31(1)
+
+| Regulations to be amended | Regulation and Schedule to be amended | Amendments to be made |
+| --- | --- | --- |
+| The Control of Pesticides Regulations 1986[^f00015] | Regulation 2(1) | After the definition of “provisional approval” insert— ““Regulation 1107/2009” means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414);” [^f00016]. |
+|  | Regulation 3(2)(d) | Omit the words after<br>“any plant protection product”. |
+|  | Regulation 3(3) | In the definition of “placing on the market” and “plant protection product” omit the words—<br>> “placing on the market and” and for the definition of “plant protection product” substitute—<br>><br>> > - “plant protection product” has the same meaning as in Article 2(1) of Regulation 1107/2009;<br>><br>> . |
+|  | Regulation 8(6) | Omit the words following “the Environmental Information Regulations 1992”. |
+| The Plant Protection Products (Basic Conditions) Regulations 1997[^f00017] | Regulation 2(1) | For the definition of “active substance” substitute—<br>> - “active substances” means substances, including micro-organisms, having general or specific action against harmful organisms or on plants, parts of plants or plant products;<br>.<br>Omit—<br>> - “the Plant Protection Products Regulations” means the Plant Protection Products Regulations 1995;<br>.<br>After the definition of “plant” insert—<br>> - “plant protection product” has the same meaning as in Article 2(1) of Regulation 1107/2009;<br>.<br>For the definition of “prescribed plant protection product” substitute—<br>> - “prescribed plant protection product” means any plant protection product authorised or permitted in accordance with Regulation 1107/2009 or any plant protection product deemed to be authorised or permitted in accordance with that Regulation;<br>.<br>After the definition of “prescribed plant protection product” insert—<br>> - “Regulation 1107/2009” means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414);<br>. |
+|  | Regulation 3 | Omit |
+|  | Regulation 4(1) | Omit. |
+|  | Regulation 5 | Omit. |
+|  | Regulation 6(1) | Omit—<br>“which has been approved under the Plant Protection Product Regulations”. |
+|  | Regulation 6(2) | For sub-paragraph (a) substitute—<br>“an approval, expiring at the end of the period for which the plant protection product has been authorised or permitted in accordance with Regulation 1107/2009 or, where a period of grace has been granted in relation to that authorisation or permission for the disposal, storage, placing on the market and use of existing stocks, at the end of such period; or” |
+|  | Regulation 7 | Omit sub-paragraph (a). |
+|  | Regulation 9 | Omit. |
+|  | Schedule 1 | Omit. |
+|  | Schedule 2 paragraph 1 | For the words “the Plant Protection Products Regulations” substitute—<br>“Regulation 1107/2009”. |
+|  | Schedule 2 paragraph 5(1) | For the words ““approval” means any approval given under the Plant Protection Products Regulations and “approved” shall be construed accordingly” substitute— ““approval” means an authorisation of, or permission for, a plant protection product in accordance with Regulation 1107/2009 or an approval or permission deemed to be authorised or permitted in accordance with that Regulation and “approved” shall be construed accordingly”. |
+|  | Schedule 3 paragraph 1 | For the words “the Plant Protection Product Regulations” substitute— “Regulation 1107/2009”. |
+|  | Schedule 3 paragraph 5 | Omit the entire paragraph. |
+|  | Schedule 3 paragraph 10 | Substitute—<br>“For the purpose of this Schedule “approval” means an authorisation of, or permission for, a plant protection product in accordance with Regulation 1107/2009 or an approval or permission deemed to be authorised or permitted in accordance with that Regulation and “approved” shall be construed accordingly.”. |
+|  | Schedule 4 paragraph 6 | For the definition of “approval” substitute—<br>> - “approval” means an authorisation of, or permission for, a plant protection product in accordance with Regulation 1107/2009 or an approval or permission deemed to be authorised or permitted in accordance with that Regulation and “approved” shall be construed accordingly;<br>. |
+| Biocidal Products Regulations 2001[^f00018] | Regulation 3(3) | Omit. |
+|  | Regulation 3(8) | Omit. |
+|  | Schedule 2(w) | Substitute—<br>“Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414).” |
+|  | Schedule 2(x) | Omit. |
+|  | Schedule 13(1) | For the definition of “Plant protection product” substitute—<br>> - “Plant protection product” has the same meaning as in Article 2(1) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414);<br>. |
+| Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Regulations 2004[^f00019] | Regulation 2 | In the definition of “pesticide residue” for the words “as defined in point 1 of Article 2 of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market” substitute—<br>“which has the same meaning as in Article 2(1) of Regulation[(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414), and “residue” shall be read in accordance with Article 3(1) of that Regulation” |
+| Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003[^f00020] | Regulation 2 | In the definition of “pesticide residue” for the words “as defined in point 1 of Article 2 of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market” substitute—<br>“which has the same meaning as in Article 2 (1) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414), and “residue” shall be read in accordance with Article 3(1) of that Regulation”. |
+| Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004[^f00021] | Regulation 2 | In the definition of “pesticide residue” for the words “as defined in point 1 of Article 2 of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market” substitute—<br>“which has the same meaning as in Article 2 (1) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414), and “residue” shall be read in accordance with Article 3(1) of that Regulation”. |
+| Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008[^f00022] | Regulation 4 | Substitute—<br>“Secretary of State” for “Health and Safety Executive”. |
+|  | Regulation 5 | Substitute—<br>“The functions of the member State in Regulation 396/2005 are to be performed by the Secretary of State.”. |
+|  | Regulation 8(1) | Substitute—<br>“Secretary of State” for “Health and Safety Executive”. |
+|  | Regulation 12(a) | Substitute—<br>“Secretary of State” for “Health and Safety Executive”. |
+| Environmental Damage (Prevention and Remediation) Regulations 2009[^f00023] | Schedule 2, paragraph 7(c) | For the words—<br>“as defined in Article 2 (1) of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market” substitute—<br>“which has the same meaning as in Article 2(1) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414)”. |
+|  | Schedule 3, paragraph 1(f) | Substitute—<br>“an authorisation of, or permission for, a plant protection product granted, or deemed to be granted, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414);”. |
+| Environmental Liability (Scotland) Regulations 2009[^f00024] | Schedule 1, paragraph 7 (c) | For the words—<br>“as defined in Article 2(1) of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) of 15<sup>th</sup> July 1991 concerning the placing of plant protection products on the market” substitute—<br>“which has the same meaning as in Article 2(1) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EC](https://www.legislation.gov.uk/european/directive/1991/0414)” |
+| Environmental Damage (Prevention and Remediation) (Wales) Regulation 2009[^f00025] | Schedule 2, paragraph 7(c) | For the words—<br>“as defined in Article 2(1) of Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market” substitute—<br>“which has the same meaning as in Article 2(1) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414)”. |
+|  | Schedule 3, paragraph 1(f) | Substitute—<br>“an authorisation of, or permission for, a plant protection product granted, or deemed to be granted, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414).” |
+| Chemicals (Hazard Information and Packaging for Supply) Regulations 2009[^f00026] | Regulation 2(1) | For the definition of “plant protection product” substitute—<br>> - “plant protection product” has the same meaning as in Article 2(1) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414);<br>. |
+|  | Regulation 7(4) | For the words “Without prejudice to paragraph 3 of Schedule 3 to the Plant Protection Products Regulations, indications” substitute—<br>“Indications”. |
+|  | Regulation 9(6) | Substitute—<br>“In the case of a plant protection product authorised or permitted, or deemed to be authorised or permitted, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) or a product approved under the Control of Pesticides Regulations 1986 which is not a plant protection product, the labelling information required by these Regulations shall be accompanied by the wording “To avoid risks to man and the environment, comply with the instructions for use”.”. |
+
+## SCHEDULE 5 — Revocations
+
+Regulation 31 (2)
+
+|  |  |  |
+| --- | --- | --- |
+| *Regulation to be revoked* |  | *References* |
+| The Farm and Garden Chemical Regulations 1971 |  | [S.I. 1971/729](https://www.legislation.gov.uk/uksi/1971/729) |
+| Plant Protection Products (Scotland) Regulations 2005 |  | [S.S.I. 2005/331](https://www.legislation.gov.uk/ssi/2005/331) |
+| Plant Protection Products Regulations 2005 |  | [S.I. 2005/1435](https://www.legislation.gov.uk/uksi/2005/1435) |
+| Plant Protection (Amendment) Regulations 2005 |  | [S. I. 2005/3197](https://www.legislation.gov.uk/uksi/2005/3197) |
+| Plant Protection Products (Amendment) Regulations 2006 |  | [S.I. 2006/1295](https://www.legislation.gov.uk/uksi/2006/1295) |
+| Plant Protection Products (Amendment) (No. 2) Regulations 2006 |  | [S.I. 2006/2933](https://www.legislation.gov.uk/uksi/2006/2933) |
+| Plant Protection Products (Scotland) Amendment (No. 2) Regulations 2007 |  | [S.S.I. 2007/410](https://www.legislation.gov.uk/ssi/2007/410) |
+| Plant Protection Products(Amendment) Regulations 2007 |  | [S.I. 2007/636](https://www.legislation.gov.uk/uksi/2007/636) |
+| Plant Protection Products(Amendment) (No.2) Regulations 2007 |  | [S.I. 2007/1941](https://www.legislation.gov.uk/uksi/2007/1941) |
+| Plant Protection Products (Amendment)(No.3) Regulations 2007 |  | [S.I. 2007/2466](https://www.legislation.gov.uk/uksi/2007/2466) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, as respects Great Britain and as respects the United Kingdom in relation to regulation 4, provide for the enforcement of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) (“Regulation 1107/2009”) and of certain provisions of these Regulations.
+
+Regulation 1107/2009 repeals Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) of 15 July 1991 concerning the placing of plant protection products on the market (OJ L 230, 19. 8. 1991, p. 1.), which prohibited the placing on the market and use of plant protection products containing certain active substances. Regulation 1107/2009 lays down harmonised rules for the approval of active substances and the placing on the market of plant protection products and its main purpose is to ensure a high level of protection of both human and animal health and the environment and at the same time to safeguard the competitiveness of agriculture in the European Union.
+
+Regulation 1 requires the Secretary of State to review the operation and effect of these Regulations as they have effect in relation to England and Wales and to publish a report within five years after they come into force and within every five years thereafter. Following each review the Secretary of State will decide whether the Regulations, as they have effect in relation to England and Wales, should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+The terms and expressions used in these Regulations are defined in regulation 2
+
+Regulation 3 provides that the Secretary of State, in relation to England and Wales, and the Scottish Ministers, in relation to Scotland, are designated as the competent authority for the purposes of Article 75(1) of Regulation 1107/2009.
+
+Regulation 4 provides that the Secretary of State is the co-ordinating national authority for the purposes of Article 75(2) of Regulation 1107/2009.
+
+Regulation 5 provides for emergency measures to be taken by the Secretary of State and the Scottish Ministers in circumstances where treated seeds are likely to constitute a serious risk to human or animal health or to the environment.
+
+Regulation 6 provides that these Regulations are enforced by the Secretary of State in England, the Welsh Ministers in Wales and the Scottish Ministers in Scotland.
+
+Regulations 7 and 8 provide for persons to be authorised to exercise the powers set out in Schedule 1 to these Regulations and for such persons to provide evidence of their authorisation on request.
+
+Regulations 9 to 20 make provision for the enforcement of Regulation 1107/2009 by identifying who is responsible for complying with the requirements and prohibitions in that Regulation, and regulation 14 gives effect to Schedule 2 (Adjuvants).
+
+Regulations 21 and 22 provide for the enforcement of these Regulations by creating a requirement to comply with notices issued under these Regulations, and a requirement and prohibitions in relation to preventing an authorised person from performing his or her functions under these Regulations.
+
+Regulation 23 creates the criminal offence for contravention of or failure to comply with regulations 9 to 22, and Articles 56(1), 56(4) and Article 62(2).
+
+Regulation 24 makes provision in relation to offences by bodies corporate. Regulation 25 provides, in relation to certain regulations, the defence of having taken all reasonable precautions and having exercised all due diligence to avoid the commission of the offence.
+
+Regulation 26 sets out the penalties for offences under these Regulations.
+
+Regulation 27 gives effect to Schedule 3 (Service of documents).
+
+Regulation 28 provides that the Scottish Ministers may make agency agreements with the Secretary of State.
+
+Regulation 29 describes the circumstances in which an authorised person may perform his or her function in relation to land in which there is a Crown interest or a Duchy interest.
+
+Regulation 30 provides that the Plant Protection Products Regulations 2005 ([S.I. 2005/1345](https://www.legislation.gov.uk/uksi/2005/1345)) (“the Regulations”) and the Plant Protection Products (Scotland) Regulations 2005 ([S.S.I. 2005/331](https://www.legislation.gov.uk/ssi/2005/331))(“the Scottish Regulations”) are saved for applications set out in Article 80(5) of Regulation 1107/2009 and that approvals granted under either of those Regulations, or under the Control of Pesticide Regulations ([S.I. 1986/1510](https://www.legislation.gov.uk/uksi/1986/1510)) (“the 1986 Regulations”) are deemed granted under Regulation 1107/2009. It also provides that plant protection approvals under the 1986 Regulations, the Regulations or the Scottish Regulations and valid parallel trade approvals that are valid on the date these Regulations come into force are deemed to be authorised in accordance with Regulation 1107/2009.
+
+Regulation 31 provides for the amendments and revocations set out in Schedules 4 and 5 respectively.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs to business and the voluntary sector has also been prepared. Copies of both documents have been placed in the library of each House of Parliament and are available on DEFRA’s website (www.defra.gov.uk). A copy of the regulatory impact assessment is also annexed to the Explanatory Memorandum to the Plant Protection Products (Fees) Regulations 2011 and to these Regulations and is available alongside the instrument on the legislation website (http://www.legislation.gov.uk/).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The power of the Secretary of State, as designated Minister, to make Regulations that (i) extend to Scotland remains exercisable by virtue of section 57(1) of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), (ii) extend to Northern Ireland remains exercisable by virtue of article 3(2) of the European Communities (Designation)(No 3) Order 2000 ([S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)) and article 2(3) of the European Communities (Designation) (No 2) Order 1999 ([S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027)); and (iii) apply in Wales remains exercisable by virtue of article 6(1) of the European Communities (Designation) (No 5) Order 2010 ([S.I. 2010/2690](https://www.legislation.gov.uk/uksi/2010/2690)) and article 5(1) of the European Communities (Designation) (No.2) Order 2008 ([S.I. 2008/1792](https://www.legislation.gov.uk/uksi/2008/1792)).
+
+[^f00002]: Footnote: [S.I 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00003]: Footnote: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027).
+
+[^f00004]: Footnote: OJ No. L309, 24.11.2009, p.1.
+
+[^f00005]: Footnote: OJ No. L33, 8.2.1979, p.36.
+
+[^f00006]: Footnote: OJ No. L230, 19.8.1991, p.1.
+
+[^key-1d211b636fd69b5ed655d689e869ac31]: Textual amendment: Words in [reg. 1(7)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/7) omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^f00007]: Footnote: [S.I. 1986/1510](https://www.legislation.gov.uk/uksi/1986/1510), amended by [S.I. 1997/188](https://www.legislation.gov.uk/uksi/1997/188), [2001/880](https://www.legislation.gov.uk/uksi/2001/880).
+
+[^key-d5c01b04178c2c893853c54eef6ef077]: Textual amendment: Words in reg. 2(1) inserted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-1474d40000b417a1a8314c2b2adaea7f]: Textual amendment: Words in reg. 2(1) substituted (10.11.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2018/942/regulation/18)
+
+[^key-889a2d22b7b3f73efe05cc8c91504459]: Textual amendment: Words in reg. 2(1) substituted (31.10.2019) by [The Pesticides (Amendment) Regulations 2019 (S.I. 2019/1290)](https://www.legislation.gov.uk/uksi/2019/1290), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1290/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/1290/regulation/5)
+
+[^key-de19c817a36cab113b148d1f51c6bf3a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/2/1) substituted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8b2d49d13932f5075a54a3b06c68c7d8]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2131/regulation/3) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e7b25203bdf5bf76ec0c30370ab3a4fa]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/2131/regulation/4) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4c8eb498355fccc4ca2b294b7a1e7bd5]: Textual amendment: Words in reg. 5(1) omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(4)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/4/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-186fbea0d140a7d45382204d6f412711]: Textual amendment: Reg. 5(1A) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(4)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/4/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-bfd52f018382105cedc2d9adcab0b263]: Textual amendment: Word in reg. 5(3) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(4)(c)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/4/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-4f42bbeb5d24fa2f1c6dde1679eeebb0]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/6/1): reg. 6 renumbered as reg. 6(1) (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-df95ba5c00ea26954fb23af750cfa50a]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/6/2) inserted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^f00008]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867), to which there are amendments not relevant to these Regulations.
+
+[^f00009]: Footnote: [1994. c.39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-8badf89974e87ebb323b1ddfff4bb089]: Textual amendment: Reg. 10(1)(1A) substituted for reg. 10(1) (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [26(2)(a)](https://www.legislation.gov.uk/uksi/2019/556/regulation/26/2/a) (with [reg. 27](https://www.legislation.gov.uk/uksi/2019/556/regulation/27)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(19)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-867de91124c6922b5775c2d38cbd2a0c]: Textual amendment: Words in reg. 10(3) substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [26(2)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/26/2/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2019/556/regulation/27)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(19)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cdf488b41df7055ed6d3756b23e8a2a9]: Textual amendment: Reg. 10(4) inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [26(2)(c)](https://www.legislation.gov.uk/uksi/2019/556/regulation/26/2/c) (with [reg. 27](https://www.legislation.gov.uk/uksi/2019/556/regulation/27)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(19)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c8573ad777fdc2bf24ab1710fab06e9f]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/11/1) substituted (31.12.2023) by [The Plant Protection Products (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1321)](https://www.legislation.gov.uk/uksi/2023/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1321/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1321/regulation/2/2)
+
+[^key-e4cbce412727e1037c2884d5951a50fc]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/14/2) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9faf73359f682014a98bcbf3d32e255c]: Textual amendment: Words in reg. 15(2) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^f00010]: Footnote: [S.I. 2005/1435](https://www.legislation.gov.uk/uksi/2005/1435), amended by [S.I. 2007/2466](https://www.legislation.gov.uk/uksi/2007/2466); there is another amending instrument but it is not relevant.
+
+[^f00011]: Footnote: [S.S.I. 2005/331](https://www.legislation.gov.uk/ssi/2005/331), amended by [S.S.I. 2007/410](https://www.legislation.gov.uk/ssi/2007/410).
+
+[^f00012]: Footnote: OJ No. L230, 19.8.1991, p.1.
+
+[^key-eda38e8bc0b0de7c0c49ec7e4dd2ccdb]: Textual amendment: Words in [reg. 17(c)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/17/c) inserted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1321fa98bd4535539f0a42d27a6c8413]: Textual amendment: Words in [reg. 20(2)(b)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/20/2/b) inserted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/5/a/i) (as amended by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [5(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a5d33f4abff974afc5679b14b2f2b2b6]: Textual amendment: Words in [reg. 20(2)(c)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/20/2/c) inserted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/5/a/ii) (as amended by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [5(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3d797e3125e34ea53f42bdeca557e46a]: Textual amendment: Words in [reg. 20(2)(e)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/20/2/e) inserted (31.12.2023) by [The Plant Protection Products (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1321)](https://www.legislation.gov.uk/uksi/2023/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1321/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1321/regulation/2/3)
+
+[^key-d43e51b6eb91b8287cc53aaa1d8653bc]: Textual amendment: Words in [reg. 20(2)(e)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/20/2/e) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/5/a/iii) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/306/regulation/13)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/5/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-96a10a01c60278707501eff94e3b45d2]: Textual amendment: Words in reg. 20(4) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-b8894f136a0ec77a59a50b60a3a94df3]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/20/5) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(5)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/5/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/306/regulation/13)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/5/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ba7dfe6023d82e82b057037bf5957854]: Textual amendment: Word in reg. 21(1)(a) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-64ead9dd233f234bd49f0e4362500f6a]: Textual amendment: Words in reg. 21(2) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(6)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/6/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-e793af840ba1bf33a912b485cbeca432]: Textual amendment: Words in reg. 21(3) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(6)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/6/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^f00013]: Footnote: [1911 c.27](https://www.legislation.gov.uk/ukpga/1911/27).
+
+[^f00014]: Footnote: [1912 c.14](https://www.legislation.gov.uk/ukpga/1912/14).
+
+[^key-75f191c8f50f5c2f48081985225a786a]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/28/1) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(7)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/7/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-49218dd2755e752e3892941f28173a2b]: Textual amendment: Words in [reg. 28(2)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/28/2) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(7)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/7/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-7d7c9d165395d85965f8b1064a239362]: Textual amendment: Words in [reg. 28(3)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/28/3) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(7)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/7/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-84bf1f355fba747ff217ab2b3c90aac8]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/30/1) inserted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [12(6)](https://www.legislation.gov.uk/uksi/2019/306/regulation/12/6) (as amended by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [5(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dd5fa099ce255823470a4ae3c39bf23d]: Textual amendment: Words in Sch. 1 para. 1(1) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-32eb4e835b26859801e9102105c6ab22]: Textual amendment: Words in Sch. 1 para. 1(1) substituted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-a0acd0996c2a8c507795debefaeb9c33]: Textual amendment: Sch. 1 para. 1(2) omitted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-2d9300eff0fc72a51ab8d412a022ccc4]: Textual amendment: Sch. 1 para. 1(3) omitted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-be7b574258ba93b4e2c6b7b7d6f49fd7]: Textual amendment: Sch. 1 para. 1(2): Sch. 1 para. 1(4) renumbered as Sch. 1 para. 1(2) (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-38d4156fd12cefb7cf838dd95c3844a0]: Textual amendment: Sch. 1 para. 1(3): Sch. 1 para. 1(5) renumbered as Sch. 1 para. 1(3) (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-b8b3a39a85c160ec42ac5a3bd38ef3da]: Textual amendment: Word in Sch. 1 para. 1(3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-5b1df1124f57e5c2225bfca9781cda8b]: Textual amendment: [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2011/2131/schedule/1/paragraph/2/1) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-9d503f8adb6b184898b51232450409c3]: Textual amendment: [Sch. 1 para. 2(1A)](https://www.legislation.gov.uk/uksi/2011/2131/schedule/1/paragraph/2/1A) inserted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-30d3132a38f44ea4ccf81814c40c3b0a]: Textual amendment: [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2011/2131/schedule/1/paragraph/2/4) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-d15e3df51c13513a3f845a57e2aa83df]: Textual amendment: [Sch. 1 para. 2(7)(d)](https://www.legislation.gov.uk/uksi/2011/2131/schedule/1/paragraph/2/7/d) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-27d309d9b0b68eb7e3c41a2546a71c23]: Textual amendment: Word in Sch. 1 para. 3(2) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-50d23cfd1dd9990ee334e335aa821fdc]: Textual amendment: Word in Sch. 1 para. 3(3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-356fabab0630cbd80b695118d26395d8]: Textual amendment: Word in Sch. 1 para. 3(4) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-9224bacda08c341d800e6f8db1520c5f]: Textual amendment: Word in Sch. 1 para. 3(10) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-5d11bbaa522c13b616219499b2856eaa]: Textual amendment: Sch. 1 para. 4(1) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-e85f4ffc6c49e8736673c8d176f47534]: Textual amendment: Words in Sch. 1 para. 4(2) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-c3d645460b147a336c1af0e1a86d52de]: Textual amendment: Words in Sch. 1 para. 4(3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-ef2a33b1ce7edbd9a40574240809c4ce]: Textual amendment: Words in Sch. 1 para. 4(4) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-b2c33816bdea0877a5f5e3af01d576ea]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2011/2131/schedule/1/paragraph/5) omitted (18.7.2012) by virtue of [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-2fa1c603f4af5d22501d5f5ade52da6b]: Textual amendment: Words in [Sch. 1 para. 8(1)(a)](https://www.legislation.gov.uk/uksi/2011/2131/schedule/1/paragraph/8/1/a) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-1122d59742ba9816d867fc07f0bfdaa6]: Textual amendment: Word in [Sch. 1 para. 8(1)(b)](https://www.legislation.gov.uk/uksi/2011/2131/schedule/1/paragraph/8/1/b) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-c50342cbfdcde69ac2a05435844e365e]: Textual amendment: Word in [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2011/2131/schedule/1/paragraph/8/2/a) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-ebcb41bccf68cc3ad9278ae629b2edbb]: Textual amendment: Words in [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/uksi/2011/2131/schedule/1/paragraph/8/3) substituted (18.7.2012) by [The Plant Protection Products (Sustainable Use) Regulations 2012 (S.I. 2012/1657)](https://www.legislation.gov.uk/uksi/2012/1657), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/32/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1657/schedule/5)
+
+[^key-4fba7031677eec349b4c969df177f559]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/2131/schedule/2/paragraph/1) omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(8)(a)(i)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/8/a/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-ef3350c903f811aac4baa72092ddf404]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/2131/schedule/2/paragraph/1) omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/8/a/ii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-1264e4fb9bd9d8485005b8c2a6ab97a0]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/2011/2131/schedule/2/paragraph/1A) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(8)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/8/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-6f2cafa7e2535739cc28b8e4171b128e]: Textual amendment: Words in Sch. 2 para. 3 inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(8)(c)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/8/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-3fec3efcb0275209faf7c690eb0b321a]: Textual amendment: Words in Sch. 2 para. 4 inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(8)(c)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/8/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-4adf52b5b60fa1f5e8d640205d1027a0]: Textual amendment: Words in Sch. 2 para. 5 inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(8)(c)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/8/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^key-bfa2479114cc6410b76119ead76104a0]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/2131/schedule/2/paragraph/6) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [5(8)(c)](https://www.legislation.gov.uk/uksi/2019/306/regulation/5/8/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/306/regulation/6))
+
+[^f00015]: Footnote: [S.I 1986/1510](https://www.legislation.gov.uk/uksi/1986/1510) amended by [S.I 1997/188](https://www.legislation.gov.uk/uksi/1997/188), [2001/880](https://www.legislation.gov.uk/uksi/2001/880).
+
+[^f00016]: Footnote: OJ No. L309, 24.11.2009, p.1.
+
+[^f00017]: Footnote: [S.I 1997/189](https://www.legislation.gov.uk/uksi/1997/189).
+
+[^f00018]: Footnote: [S.I. 2001/880](https://www.legislation.gov.uk/uksi/2001/880) amended by [S.I. 2007/293](https://www.legislation.gov.uk/uksi/2007/293), [2010/745](https://www.legislation.gov.uk/uksi/2010/745).
+
+[^f00019]: Footnote: [S.S.I. 2004/8](https://www.legislation.gov.uk/ssi/2004/8), as amended by [S.S.I. 2007/424](https://www.legislation.gov.uk/ssi/2007/424), there are other amending instruments but none is relevant.
+
+[^f00020]: Footnote: [S.I. 2003/3207](https://www.legislation.gov.uk/uksi/2003/3207), amended by [S.I. 2007/2591](https://www.legislation.gov.uk/uksi/2007/2591), there are other amending instruments but none is relevant.
+
+[^f00021]: Footnote: [S.I. 2004/314 (W. 32)](https://www.legislation.gov.uk/wsi/2004/314), amended by [S.I. 2007/2753](https://www.legislation.gov.uk/uksi/2007/2753), there are other amending instruments but none is relevant.
+
+[^f00022]: Footnote: [S.I. 2008/2570](https://www.legislation.gov.uk/uksi/2008/2570).
+
+[^f00023]: Footnote: [S.I. 2009/153](https://www.legislation.gov.uk/uksi/2009/153), to which there are amendments not relevant to these Regulations.
+
+[^f00024]: Footnote: [S.S.I. 2009/266](https://www.legislation.gov.uk/ssi/2009/266), to which there are amendments not relevant to these Regulations.
+
+[^f00025]: Footnote: [S.I. 2009/995 (W. 81)](https://www.legislation.gov.uk/wsi/2009/995).
+
+[^f00026]: Footnote: [S.I. 2009/716](https://www.legislation.gov.uk/uksi/2009/716).

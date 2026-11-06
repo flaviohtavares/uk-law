@@ -1,0 +1,213 @@
+---
+title: Stock Transfer Act 1963
+id: ukpga/1963/18
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1963-07-10'
+text_date: '2017-12-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1963/18
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1963/18/pdfs/ukpga_19630018_en.pdf
+- http://www.legislation.gov.uk/ukpga/1963/18/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Stock Transfer Act 1963
+
+> Text as at 2017-12-08.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Stock Transfer Act 1963
+
+1963 c. 18
+
+An Act to amend the law with respect to the transfer of securities.
+
+\[10th July 1963\][^c7105921][^c7105931][^key-ca7e74ca4960cb05eaac3ac36fc96224]
+
+## 1. Simplified transfer of securities.[^c7106171][^c7106181]
+
+(1) Registered securities to which this section applies may be transferred by means of an instrument under hand in the form set out in Schedule 1 to this Act (in this Act referred to as a stock transfer), executed by the transferor only and specifying (in addition to the particulars of the consideration, of the description and number or amount of the securities, and of the person by whom the transfer is made) the full name and address of the transferee.
+
+(2) The execution of a stock transfer need not be attested; and where such a transfer has been executed for the purpose of a stock exchange transaction, the particulars of the consideration and of the transferee may either be inserted in that transfer or, as the case may require, supplied by means of separate instruments in the form set out in Schedule 2 to this Act (in this Act referred to as brokers transfers), identifying the stock transfer and specifying the securities to which each such instrument relates and the consideration paid for those securities.
+
+(3)[^c7106191] Nothing in this section shall be construed as affecting the validity of any instrument which would be effective to transfer securities apart from this section; and any instrument purporting to be made in any form which was common or usual before the commencement of this Act, or in any other form authorised or required for that purpose apart from this section, shall be sufficient, whether or not it is completed in accordance with the form, if it complies with the requirements as to execution and contents which apply to a stock transfer.
+
+(4) This section applies to fully paid up registered securities of any description, being—
+
+- (a) securities issued by any company as defined in section 1(1) of the Companies Act 2006[^key-92f2e54ae1386c81fa607cc228b8f748] except a company limited by guarantee or an unlimited company;
+- (b) securities issued by any body (other than a company as so defined[^key-b88b18f482614bf77a00744918b28e3f]) incorporated in Great Britain by or under any enactment or by Royal Charter except a building society within the meaning of the [^c7106211]Building Societies Act 1986[^c7106221] or a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014[^key-8a0cf7a6db42420ee606923cf982ca68];
+- (c) securities issued by the Government of the United Kingdom, except stock or bonds in the the National Savings Stock Register[^c7106251] [^c7106261]..., and except national savings certificates;
+- (d) securities issued by any local authority;
+- (e)[^c7106271] units of an authorised unit trust scheme , an authorised contractual scheme[^key-fe404abb2a745ae48b47181bac239b0e] or a recognised scheme within the meaning of Part 17 of the Financial Services and Markets Act 2000;[^c7106281]
+- (f)[^c7106291] shares issued by an open-ended investment company within the meaning of the Open-Ended Investment Companies Regulations 2001;
+- (g)[^key-6891b927a2aee501125e54984723a3f7] shares issued by a protected cell company within the meaning of Part 4 of the Risk Transformation Regulations 2017.
+
+## 2. Supplementary provisions as to simplified transfer.
+
+(1) Section 1 of this Act shall have effect in relation to the transfer of any securities to which that section applies notwithstanding anything to the contrary in any enactment or instrument relating to the transfer of those securities; but nothing in that section affects—
+
+- (a) any right to refuse to register a person as the holder of any securities on any ground other than the form in which those securities purport to be transferred to him: or
+- (b) any enactment or rule of law regulating the execution of documents by companies or other bodies corporate, or any articles of association or other instrument regulating the execution of documents by any particular company or body corporate.
+
+(2) Subject to the provisions of this section, any enactment or instrument relating to the transfer of securities to which section 1 of this Act applies shall, with any necessary modifications, apply in relation to an instrument of transfer authorised by that section as it applies in relation to an instrument of transfer to which it applies apart from this subsection; and without prejudice to the generality of the foregoing provision, the references to an instrument of transfer in section 775 of the Companies Act 2006 (certification of instrument of transfer)[^key-e2c5b5726cf0d9ecd4a67d59ddfc348a] shall be construed as including a reference to a brokers transfer.
+
+(3) In relation to the transfer of securities by means of a stock transfer and a brokers transfer—
+
+- (a) any reference in any enactment or instrument (including in particular section 770(1)(a) of the Companies Act 2006 (registration of transfer)[^key-ec516cdf9c94fcca04c5115ec5945831] [^c7106371]...) to the delivery or lodging of an instrument (or proper instrument) of transfer shall be construed as a reference to the delivery or lodging of the stock transfer and the brokers transfer;
+- (b) any such reference to the date on which an instrument of transfer is delivered or lodged shall be construed as a reference to the date by which the later of those transfers to be delivered or lodged has been delivered or lodged; and
+- (c) subject to the foregoing provisions of this subsection, the brokers transfer (and not the stock transfer ) shall be deemed to be the conveyance or transfer for the purposes of the enactments related to stamp duty.
+
+(4)[^c7106391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Additional provisions as to transfer forms.
+
+(1) References in this Act to the forms set out in Schedule 1 and Schedule 2 include references to forms substantially corresponding to those forms respectively.
+
+(2) The Treasury may by order amend the said Schedules either by altering the forms set out therein or by substituting different forms for those forms or by the addition of forms for use as alternatives to those forms; and references in this Act to the forms set out in those Schedules (including references in this section) shall be construed accordingly.
+
+(3) Any order under subsection (2) of this section which substitutes a different form for a form set out in Schedule 1 to this Act may direct that subsection (3) of section 1 of this Act shall apply, with any necessary modifications, in relation to the form for which that form is substituted as it applies to any form which was common or usual before the commencement of this Act.
+
+(4) Any order of the Treasury under this section shall be made by statutory instrument, and may be varied or revoked by a subsequent order; and any statutory instrument made by virtue of this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5)[^c7106411] An order under subsection (2) of this section may—
+
+- (a) provide for forms on which some of the particulars mentioned in subsection (1) of section 1 of this Act are not required to be specified;
+- (b) provide for that section to have effect, in relation to such forms as are mentioned in the preceding paragraph or other forms specified in the order, subject to such amendments as are so specified (which may include an amendment of the reference in subsection (1) of that section to an instrument under hand);
+- (c) provide for all or any of the provisions of the order to have effect in such cases only as are specified in the order.
+
+## 4. Interpretation.
+
+(1) In this Act the following expressions have the meanings hereby respectively assigned to them, that is to say—
+
+- “**local authority**” means, in relation to England and Wales, any authority being, within the meaning of the Local Loans Act 1875, an authority having power to levy a rate
+  - (a) a billing authority or a precepting authority, as defined in section 69 of the Local Government Finance Act 1992;[^c7106631][^c7106621]
+  - (aa) a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;[^key-938a8345a6aecef59d0a6650526601d3]
+  - (b) a levying body within the meaning of section 74 of the Local Government Finance Act 1988[^key-5b80a66090b56f272f3e3600c277fc94]; and
+  - (c) a body as regards which section 75 of that Act applies.
+
+  and, in relation to Scotland, a county council, a town council and any statutory authority, commissioners or trustees to whom section 270 of the [^c7106681]Local Government (Scotland) Act 1947 applies;
+- “**registered securities**” means transferable securities the holders of which are entered in a register (whether maintained in Great Britain or not);
+- “**securities**” means shares, stock, debentures, debenture stock, loan stock, bonds, units of a collective investment scheme within the meaning of the[^c7106691] Financial Services and Markets Act 2000[^c7106701], and other securities of any description;
+- “**stock exchange transaction**” means a sale and purchase of securities in which each of the parties is a member of a stock exchange acting in the ordinary course of his business as such or is acting through the agency of such a member;
+- “**stock exchange**” means the Stock Exchange, London, and any other stock exchange (whether in Great Britain or not) which is declared by order of the Treasury to be a recognised stock exchange for the purposes of this Act.
+
+(2) Any order of the Treasury under this section shall be made by statutory instrument, and may be varied or revoked by a subsequent order.
+
+## 5. Application to Northern Ireland.
+
+(1)[^c7106711] This Act, so far as it applies to things done outside Great Britain, extends to Northern Ireland.
+
+(2)[^c7106711] Without prejudice to subsection (1) of this section, the provisions of this Act affecting securities issued by the Government of the United Kingdom shall apply to any such securities entered in a register maintained in Northern Ireland.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7106731]
+
+(4) Except as provided by this section, this Act shall not extend to Northern Ireland.
+
+## 6. Short title and commencement.
+
+(1) This Act may be cited as the Stock Transfer Act 1963.
+
+(2)[^c7106741] Subsection (3) of section 5 of this Act shall come into force on the passing of this Act, and the remaining provisions of this Act shall come into force on such date as the Treasury may by order made by statutory instrument direct.
+
+SCHEDULES
+
+## Schedule I
+
+Section 1[^c7106811][^c7106821]
+
+[image: see source](https://www.legislation.gov.uk/ukpga/1963/18/images/ukpga_19630018_en_sld_005)[image: see source](https://www.legislation.gov.uk/ukpga/1963/18/images/ukpga_19630018_en_sld_006)[image: see source](https://www.legislation.gov.uk/ukpga/1963/18/images/ukpga_19630018_en_sld_003)[image: see source](https://www.legislation.gov.uk/ukpga/1963/18/images/ukpga_19630018_en_sld_004)[image: see source](https://www.legislation.gov.uk/ukpga/1963/18/images/ukpga_19630018_en_sld_007)
+
+## Schedule 2
+
+Section 1
+
+[image: see source](https://www.legislation.gov.uk/ukpga/1963/18/images/ukpga_19630018_en_sld_008)
+
+## Annotations
+
+[^c7105921]: Commencement: Act partly in force at Royal Assent see s. 6(2); Act wholly in force at 26.10.1963
+
+[^c7105931]: Modification: Act modified (10.2.2000) by [2000 c. iii](https://www.legislation.gov.uk/ukla/2000/3), [s. 13(3)](https://www.legislation.gov.uk/ukla/2000/3/section/13/3) (with [s. 16](https://www.legislation.gov.uk/ukla/2000/3/section/16))
+
+    Act modified (22.3.2001) by [2001 c. i](https://www.legislation.gov.uk/ukla/2001/1), [s. 10(3)](https://www.legislation.gov.uk/ukla/2001/1/section/10/3) (with [s. 13](https://www.legislation.gov.uk/ukla/2001/1/section/13))
+
+    Act modified (4.12.2001) by [2001 c. v](https://www.legislation.gov.uk/ukla/2001/5), [s. 11(2)](https://www.legislation.gov.uk/ukla/2001/5/section/11/2)
+
+    Act modified (coming into force in accordance with [s. 4](https://www.legislation.gov.uk/ukla/2002/3/section/4) of the amending Act) by [2002 c. iii](https://www.legislation.gov.uk/ukla/2002/3), [s. 10(2)](https://www.legislation.gov.uk/ukla/2002/3/section/10/2)
+
+    Act modified (coming into force in accordance with ss. 4, 5 of the amending Act) by [2002 c. iv](https://www.legislation.gov.uk/ukla/2002/4), [s. 13(3)](https://www.legislation.gov.uk/ukla/2002/4/section/13/3)
+
+[^key-ca7e74ca4960cb05eaac3ac36fc96224]: Modification: Act modified (coming into force in accordance with [s. 9](https://www.legislation.gov.uk/ukla/2006/1/section/9) of the amending Act) by [HBOS Group Reorganisation Act 2006 (c. i)](https://www.legislation.gov.uk/ukla/2006/1), [s. 17(2)](https://www.legislation.gov.uk/ukla/2006/1/section/17/2)
+
+[^c7106171]: Modification: S. 1 amended by [S.I. 1979/277](https://www.legislation.gov.uk/uksi/1979/277), [art. 3](https://www.legislation.gov.uk/uksi/1979/277/article/3)
+
+[^c7106181]: Modification: S. 1 modified by [S.I. 1990/18](https://www.legislation.gov.uk/uksi/1990/18), [art. 4](https://www.legislation.gov.uk/uksi/1990/18/article/4)
+
+[^c7106191]: Modification: S. 1(3) modified by [S.I. 1990/18](https://www.legislation.gov.uk/uksi/1990/18), [art. 3](https://www.legislation.gov.uk/uksi/1990/18/article/3)
+
+[^key-92f2e54ae1386c81fa607cc228b8f748]: Textual amendment: Words in s. 1(4)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/10/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+
+[^key-b88b18f482614bf77a00744918b28e3f]: Textual amendment: Words in s. 1(4)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/10/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+
+[^c7106211]: Marginal citation: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^c7106221]: Textual amendment: Word substituted by [Building Societies Act 1986 (c. 53, SIF 16)](https://www.legislation.gov.uk/ukpga/1986/53), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1986/53/section/54/3)(*a*)(5), 120, Sch. 18 Pt. I para. 5
+
+[^key-8a0cf7a6db42420ee606923cf982ca68]: Textual amendment: Words in s. 1(4) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/21) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+
+[^c7106251]: Textual amendment: Words substituted by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [s. 108(1)(f)](https://www.legislation.gov.uk/ukpga/1969/48/section/108/1/f)
+
+[^c7106261]: Textual amendment: Words repealed by [Finance Act 1964 (c. 49)](https://www.legislation.gov.uk/ukpga/1964/49), [Sch. 9](https://www.legislation.gov.uk/ukpga/1964/49/schedule/9)
+
+[^c7106271]: Textual amendment: S. 1(4)(e) substituted by [Financial Services Act 1986 (c. 60, SIF 69)](https://www.legislation.gov.uk/ukpga/1986/60), [s. 212(2)](https://www.legislation.gov.uk/ukpga/1986/60/section/212/2), [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/1986/60/schedule/16/paragraph/4)(*a*)
+
+[^key-fe404abb2a745ae48b47181bac239b0e]: Textual amendment: Words in s. 1(4)(e) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1388/regulation/4) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^c7106281]: Textual amendment: Words in s. 1(4)(e) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [270](https://www.legislation.gov.uk/uksi/2001/3649/article/270)
+
+[^c7106291]: Textual amendment: S. 1(4)(f) substituted (1.12.2001) by [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2001/1228/regulation/84), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2001/1228/schedule/7/paragraph/2); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
+
+[^key-6891b927a2aee501125e54984723a3f7]: Textual amendment: [S. 1(4)(g)](https://www.legislation.gov.uk/ukpga/1963/18/section/1/4/g) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/1) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+
+[^key-e2c5b5726cf0d9ecd4a67d59ddfc348a]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/1963/18/section/2/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 37(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/37/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+
+[^key-ec516cdf9c94fcca04c5115ec5945831]: Textual amendment: Words in [s. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1963/18/section/2/3/a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 37(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/37/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+
+[^c7106371]: Textual amendment: Words repealed by [Finance Act 1990 (c. 29, SIF 114)](https://www.legislation.gov.uk/ukpga/1990/29), [s. 132](https://www.legislation.gov.uk/ukpga/1990/29/section/132), [Sch. 19 Pt. VI](https://www.legislation.gov.uk/ukpga/1990/29/schedule/19/part/VI) (subject to the provisions at the end of that Part) and expressed to be repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. V(5) of [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16)) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. V(5)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/V/5), Notes 1, 2
+
+[^c7106391]: Textual amendment: S. 2(4) repealed (S.) (1.8.1995) by [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/2), [15(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/15/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/7/schedule/5) (with [ss. 9(3)(5)(7)](https://www.legislation.gov.uk/ukpga/1995/7/section/9/3/5/7), [13](https://www.legislation.gov.uk/ukpga/1995/7/section/13), [14(3)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/3))
+
+[^c7106411]: Textual amendment: [S. 3(5)](https://www.legislation.gov.uk/ukpga/1963/18/section/3/5) inserted by [Stock Exchange (Completion of Bargains) Act 1976 (c. 47)](https://www.legislation.gov.uk/ukpga/1976/47), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1976/47/section/6/1), [7(4)](https://www.legislation.gov.uk/ukpga/1976/47/section/7/4)
+
+[^c7106631]: Textual amendment: S. 4(1): in definition of "local authority" paras. (a)(aa) substituted (2.11.1992) for para. (a) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/1), [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/12); [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 2](https://www.legislation.gov.uk/uksi/1992/2454/article/2).
+
+[^c7106621]: Textual amendment: S. 4(1): in definition of "local authority" paras. (a)(b)(c) substituted (E.W.) (1.4.1990) for words by [S.I. 1990/776](https://www.legislation.gov.uk/uksi/1990/776), [art. 8](https://www.legislation.gov.uk/uksi/1990/776/article/8), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1990/776/schedule/3/paragraph/8)
+
+[^key-938a8345a6aecef59d0a6650526601d3]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1963/18/section/4/1) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/18/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/wsi/2004/2917), [art. 2](https://www.legislation.gov.uk/wsi/2004/2917/article/2)
+
+[^key-5b80a66090b56f272f3e3600c277fc94]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1963/18/section/4/1) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/18/3); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/wsi/2004/2917), [art. 2](https://www.legislation.gov.uk/wsi/2004/2917/article/2)
+
+[^c7106681]: Marginal citation: [1947 c. 43](https://www.legislation.gov.uk/ukpga/1947/43).
+
+[^c7106691]: Textual amendment: Words substituted by [Financial Services Act 1986 (c. 60, SIF 69)](https://www.legislation.gov.uk/ukpga/1986/60), [s. 212(2)](https://www.legislation.gov.uk/ukpga/1986/60/section/212/2), [Sch. 16 para. 4(b)](https://www.legislation.gov.uk/ukpga/1986/60/schedule/16/paragraph/4)
+
+[^c7106701]: Textual amendment: S. 4(1): words in definition of “**securities**” in substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [271](https://www.legislation.gov.uk/uksi/2001/3649/article/271)
+
+[^c7106711]: Modification: [S. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1963/18/section/5/1/2) applied to s. 3(5) of this Act by [Stock Exchange (Completion of Bargains) Act 1976 (c. 47)](https://www.legislation.gov.uk/ukpga/1976/47), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/1976/47/section/6/2), [7(4)](https://www.legislation.gov.uk/ukpga/1976/47/section/7/4)
+
+[^c7106731]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/1963/18/section/5/3) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
+
+[^c7106741]: Modification: 26.10.1963 appointed under s. 6(2) by [S.I. 1963/1592](https://www.legislation.gov.uk/uksi/1963/1592)
+
+[^c7106811]: Textual amendment: Form substituted (15.7.1996) by [S.I. 1996/1571](https://www.legislation.gov.uk/uksi/1996/1571), [art. 3 Sch. 2](https://www.legislation.gov.uk/uksi/1996/1571/article/3/schedule/2)
+
+[^c7106821]: Textual amendment: Form added (15.7.1996) to Sch. 1 by [S.I. 1996/1571](https://www.legislation.gov.uk/uksi/1996/1571), [art. 2 Sch. 1](https://www.legislation.gov.uk/uksi/1996/1571/article/2/schedule/1).

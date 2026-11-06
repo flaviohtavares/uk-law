@@ -1,0 +1,191 @@
+---
+title: The Care and Support (Provision of Health Services) Regulations 2014
+id: uksi/2014/2821
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-10-06'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/2821
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2821/pdfs/uksiem_20142821_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2014/2821/pdfs/uksiem_20142821_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2821/pdfs/uksi_20142821_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2821/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Care and Support (Provision of Health Services) Regulations 2014
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 2821
+
+Social Care, England
+
+The Care and Support (Provision of Health Services) Regulations 2014
+
+Made
+
+6th October 2014
+
+Laid before Parliament
+
+24th October 2014
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 22(4)(a), 22(6) and 125(7) and (8) of the Care Act 2014[^f00001].
+
+## 1. Citation, commencement and interpretation[^key-c30b6c6ff9ae75fcdd9e986f1d496887]
+
+(1) These Regulations may be cited as the Care and Support (Provision of Heath Services) Regulations 2014 and come into force immediately after section 22(1) of the Care Act 2014 comes fully into force.
+
+(2) In these Regulations—
+
+- “the Act” means the Care Act 2014;
+- [^key-4dfbc7aeeb4af879a085dc6aab2a353d]...
+- “healthcare profession” means a profession which is concerned (wholly or partly) with the physical or mental health of individuals (whether or not a person engaged in that profession is regulated by, or by virtue of, any enactment);
+- “health service” means the health service continued under section 1(1) of the National Health Service Act 2006[^f00003];
+- “local authority member” means a person appointed by NHS England[^key-dd343f3a5962551609dbca096d721777] pursuant to regulation 23(1)(b)(ii) of the Standing Rules Regulations;
+- “multi-disciplinary team” means a team consisting of at least—
+  - (a) two professionals who are from different healthcare professions, or
+  - (b) one professional who is from a healthcare profession and one person who is responsible for assessing persons who may have needs for care and support under Part 1 of the Care Act 2014;
+- “National Framework” means the National Framework for NHS Continuing Healthcare and NHS-funded Nursing Care issued by the Secretary of State and dated 1st March 2018[^key-1c62ce3b8d07f2689b4b77d31dd3ef10];
+- “NHS Continuing Healthcare” means a package of care arranged and funded solely by the health service in England for a person aged 18 or over to meet physical or mental health needs which have arisen as a result of disability, accident or illness;
+- “[^key-3fa85a736c6f5b2def50a2031cf908fd]**NHS England**” means the body corporate established under section 1H of the National Health Service Act 2006;
+- “relevant body” means NHS England or an integrated care board[^key-5646709c256398dd60b56c99e37dda23];
+- “review panel” means the panel of members referred to in regulation 23(4) of the Standing Rules Regulations;
+- “Standing Rules Regulations” means the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Responsibilities and Standing Rules) Regulations 2012[^f00006].
+
+## 2. Arrangements for the provision of nursing care by a registered nurse: responsible integrated care board[^key-893a4c74e81c1c1ed58a4ac741701777]
+
+(1) For the purposes of section 22(4) of the Act, the integrated care board from which a local authority[^f00007] must obtain consent for it to arrange for the provision of nursing care by a registered nurse in respect of any person is the responsible integrated care board.
+
+(2) The responsible integrated care board in respect of any person is the integrated care board which has responsibility for arranging for the provision of nursing care by a registered nurse in respect of that person, pursuant to the provisions of section 3(1), (1A) and (1E) of the National Health Service Act 2006 and any regulations made under section 3(1B) or (1D) of that Act[^f00008].
+
+## 3. Requirements on local authorities: joint working with relevant bodies[^key-32b15ef04d12781ea5f71b95caad2cd0]
+
+(1) A local authority must, as far as is reasonably practicable, provide advice and assistance to a relevant body which consults it pursuant to regulation 22(1)(a) of the Standing Rules Regulations (duty of relevant bodies: joint working with social services authorities).
+
+(2) A local authority must, when requested to do so by a relevant body, co-operate with that body in arranging for a person or persons to participate in a multi-disciplinary team for the purposes of that body fulfilling its duty under regulation 21(5) of the Standing Rules Regulations (duty of relevant bodies: assessment and provision of NHS Continuing Healthcare).
+
+(3) Nothing in this regulation affects a local authority’s duty to carry out an assessment of a person’s needs for care and support pursuant to section 9 of the Act (assessment of an adult’s needs for care and support), and if it has carried out such an assessment, it must use the information obtained as a result of that assessment, so far as it is relevant, to comply with its duty under paragraph (1).
+
+(4) In complying with its obligations under this regulation, a local authority must have due regard to the need to promote and secure the continuity of appropriate services for persons—
+
+- (a) whose care and support needs are being met under Part 1 of the Act or who are being provided with aftercare under section 117 of the Mental Health Act 1983[^f00009] on the date on which they are found to be eligible to receive NHS Continuing Healthcare;
+- (b) who have been in receipt of NHS Continuing Healthcare but are determined to be no longer eligible for NHS Continuing Healthcare; or
+- (c) who are otherwise determined to be ineligible for NHS Continuing Healthcare.
+
+(5) Where, pursuant to regulation 24(1) of the Standing Rules Regulations (appointment and term of appointment), NHS England requests that a local authority nominates a person to be appointed as a local authority member of a review panel, the local authority—
+
+- (a) must nominate such a person as soon as is reasonably practicable; and
+- (b) must ensure that local authority members are, so far as is reasonably practicable, available to participate in review panels.
+
+## 4. Requirements on local authorities: dispute resolution[^key-a1f28b8cfdd41967d3b1a49bef478bb7]
+
+Where there is a dispute between a relevant body and a local authority about—
+
+- (a) a decision as to eligibility for NHS Continuing Healthcare; or
+- (b) the contribution of a relevant body or local authority to a joint package of care for a person who is not eligible for NHS Continuing Healthcare,
+
+the local authority must, having regard to the National Framework, agree a dispute resolution procedure with the relevant body, and resolve the dispute in accordance with that procedure.
+
+## 5. Transitional provisions[^key-86836142289eaed2e2d8133338c6e979]
+
+(1) This paragraph applies in a case where, immediately before the coming into force of these Regulations, a local authority—
+
+- (a) was, in accordance with any directions issued in exercise of the powers conferred by section 7A of the Local Authority Social Services Act 1970[^f00010]—
+  - (i) providing advice and assistance to a relevant body which had consulted it pursuant to regulation 22(1)(a) of the Standing Rules Regulations (duty of relevant bodies: joint working with social services authorities); or
+  - (ii) cooperating with a relevant body in arranging for a person to participate in a multi-disciplinary team for the purposes of that body fulfilling its duty under regulation 21(5) of the Standing Rules Regulations (duty of relevant bodies: assessment and provision of NHS Continuing Healthcare);
+- (b) was in receipt of a request from NHS England, pursuant to regulation 24(1) of the Standing Rules Regulations (appointment and term of appointment), that it nominate a person to be appointed as a local authority member of a review panel but had not yet nominated such a person; or
+- (c) was in dispute with a relevant body about—
+  - (i) a decision as to eligibility for NHS Continuing Healthcare; or
+  - (ii) the contribution of a relevant body or local authority to a joint package of care for a person who is not eligible for NHS Continuing Healthcare,
+
+  and had either not yet agreed a dispute resolution procedure with the relevant body, in accordance with any directions issued in exercise of the powers conferred by section 7A of the Local Authority Social Services Act 1970, or had agreed such a dispute resolution procedure with the relevant body but had not yet resolved the dispute in accordance with that procedure.
+
+(2) Where—
+
+- (a) paragraph (1)(a) applies, the local authority is required to continue providing advice and assistance to the relevant body or cooperating with the relevant body as though such obligation had arisen under these Regulations;
+- (b) paragraph (1)(b) applies, the local authority is required to nominate a person to be appointed as a local authority member of a review panel as though the obligation to nominate such a person had arisen under these Regulations;
+- (c) paragraph (1)(c) applies, the local authority is required to—
+  - (i) if necessary, agree a dispute resolution procedure, and
+  - (ii) resolve the dispute in accordance with any procedure agreed with the relevant body,
+
+  as though the obligation to agree such procedure and to resolve the dispute had arisen under these Regulations.
+
+Signed by authority of the Secretary of State for Health.
+
+Dan Poulter
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+6th October 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in respect of three different issues, all of which concern the relationship between, on the one hand, local authorities and, on the other, clinical commissioning groups or, in certain cases, the National Health Service Commissioning Board (“NHS bodies”) at the boundary between their respective areas of responsibilities: the issue of consent to arranging the provision of nursing care by a registered nurse; the issue of joint working between local authorities and NHS bodies and the issue of resolving disputes between local authorities and NHS bodies.
+
+Local authorities are prohibited by section 22 of the Care Act 2014 from meeting needs under the Act by providing or arranging for the provision of services or facilities that it is the responsibility of the National Health Service to provide. However, local authorities are permitted, despite this prohibition, to arrange for the provision of accommodation together with the provision of registered nursing care by a registered nurse if they have obtained consent to arrange for the provision of such nursing care from whichever clinical commissioning group (“CCG”) regulations require.
+
+Regulation 2 imposes a requirement to obtain such consent from the CCG which has the responsibility for arranging for the provision of nursing care by a registered nurse in respect of the person concerned.
+
+That responsibility is established by reference to certain provisions of the National Health Service Act 2006 (“the 2006 Act”) and regulations made under the 2006 Act.
+
+Regulation 3 makes provision about how local authorities must work with NHS bodies in the processes for assessing a person’s needs for health care and for deciding how those needs must be met. It includes requirements regarding participation in review panels. These provisions mirror similar requirements regarding joint working that are imposed on such NHS bodies by the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012 (as amended) (“the Standing Rules Regulations”).
+
+Regulation 4 imposes requirements on local authorities to make arrangements for determining any disputes between themselves and NHS bodies about whether or not something should be provided by the NHS as part of the health service. Again, these requirements mirror similar requirements imposed on NHS bodies by the Standing Rules Regulations.
+
+Regulation 5 makes transitional provisions to provide for continuity in those cases where (in accordance with directions issued under the provisions of section 7A of the Local Authority Social Services Act 1970) the local authority is already working jointly with NHS bodies in a particular case, or is already in receipt of a request to nominate a member to a review panel or is already working with an NHS body to settle a dispute.
+
+A separate impact assessment has not been prepared for these Regulations. These Regulations are part of a package of legislative measures and the relevant impact assessment can be requested via careactconsultation@dh.gsi.gov.uk or Department of Health, Richmond House, 79 Whitehall, London SW1A 2NS and is available online at https://www.gov.uk/government/organisations/department-of-health.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23). The powers to make regulations are exercisable by the Secretary of State, *see* section 125(1).
+
+[^key-c30b6c6ff9ae75fcdd9e986f1d496887]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2821/regulation/1/1)
+
+[^key-4dfbc7aeeb4af879a085dc6aab2a353d]: Textual amendment: Words in reg. 1(2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [76(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/76/2/a)
+
+[^f00003]: Footnote: Section 1 of the 2006 Act was substituted by section 1 of the 2012 Act.
+
+[^key-dd343f3a5962551609dbca096d721777]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-1c62ce3b8d07f2689b4b77d31dd3ef10]: Textual amendment: Words in reg. 1(2) substituted (1.10.2018) by [The Responsibilities and Standing Rules, and Care and Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/283)](https://www.legislation.gov.uk/uksi/2018/283), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/283/regulation/1/4), [3](https://www.legislation.gov.uk/uksi/2018/283/regulation/3)
+
+[^key-3fa85a736c6f5b2def50a2031cf908fd]: Textual amendment: Words in reg. 1(2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [76(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/76/2/b)
+
+[^key-5646709c256398dd60b56c99e37dda23]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^f00006]: Footnote: [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996). Regulation 21 and Schedule 5 (which relates to regulation 23) have been amended by the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2013 ([S.I. 2013/2891](https://www.legislation.gov.uk/uksi/2013/2891), regulation 2) and Schedule 5 has been further amended by the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 ([S.I. 2014/1611](https://www.legislation.gov.uk/uksi/2014/1611), regulation 6).
+
+[^key-893a4c74e81c1c1ed58a4ac741701777]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2821/regulation/1/1)
+
+[^f00007]: Footnote: *See* section 1(4) of the Act as to the meaning of “local authority”; the definition is limited to local authorities in England.
+
+[^f00008]: Footnote: The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012 ([S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996)) have been made under, inter alia, the provisions in section 3(1B) of the 2006 Act. The National Health Service (Clinical Commissioning Groups – Disapplication of Responsibility) Regulations 2013 ([S.I. 2013/350](https://www.legislation.gov.uk/uksi/2013/350)) have been made under the provisions of section 3(1D) of the 2006 Act.
+
+[^key-32b15ef04d12781ea5f71b95caad2cd0]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2821/regulation/1/1)
+
+[^f00009]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). Section 117 is prospectively amended from a date to be appointed by section 75 of the Act.
+
+[^key-a1f28b8cfdd41967d3b1a49bef478bb7]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2821/regulation/1/1)
+
+[^key-86836142289eaed2e2d8133338c6e979]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2821/regulation/1/1)
+
+[^f00010]: Footnote: [1970 c.42](https://www.legislation.gov.uk/ukpga/1970/42). Section 7A was inserted by the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19) section 50. The NHS Continuing Healthcare (Responsibilities of Social Services Authorities) Directions 2013 were issued by the Secretary of State for Health under the powers conferred by section 7A of the Local Authority Social Services Act 1970 on 27th March 2013.

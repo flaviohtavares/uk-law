@@ -1,0 +1,72 @@
+---
+title: Mental Health Act 1983, section 68
+act: Mental Health Act 1983
+section: '68'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/68
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Health Act 1983, section 68
+
+> **Warning: changes not yet applied to this text (398).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/20
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 68. Duty of managers of hospitals to refer cases to tribunal.[^c20071131]
+
+*Extent: E+W*
+
+(1) This section applies in respect of the following patients—
+
+- (a) a patient who is admitted to a hospital in pursuance of an application for admission for assessment;
+- (b) a patient who is admitted to a hospital in pursuance of an application for admission for treatment;
+- (c) a community patient;
+- (d) a patient whose community treatment order is revoked under section 17F above;
+- (e) a patient who is transferred from guardianship to a hospital in pursuance of regulations made under section 19 above.
+
+(2) On expiry of the period of six months beginning with the applicable day, the managers of the hospital shall refer the patient's case to the appropriate tribunal[^c20384531].
+
+(3) But they shall not do so if during that period—
+
+- (a) any right has been exercised by or in respect of the patient by virtue of any of paragraphs (b), (ca), (cb), (e), (g) and (h) of section 66(1) above;
+- (b) a reference has been made in respect of the patient under section 67(1) above, not being a reference made while the patient is or was liable to be detained in pursuance of an application for admission for assessment; or
+- (c) a reference has been made in respect of the patient under subsection (7) below.
+
+(4) A person who applies to a tribunal but subsequently withdraws his application shall be treated for these purposes as not having exercised his right to apply, and if he withdraws his application on a date after expiry of the period mentioned in subsection (2) above, the managers shall refer the patient's case as soon as possible after that date.
+
+(5) In subsection (2) above, “**the applicable day**” means—
+
+- (a) in the case of a patient who is admitted to a hospital in pursuance of an application for admission for assessment, the day on which the patient was so admitted;
+- (b) in the case of a patient who is admitted to a hospital in pursuance of an application for admission for treatment—
+  - (i) the day on which the patient was so admitted; or
+  - (ii) if, when he was so admitted, he was already liable to be detained in pursuance of an application for admission for assessment, the day on which he was originally admitted in pursuance of the application for admission for assessment;
+- (c) in the case of a community patient or a patient whose community treatment order is revoked under section 17F above, the day mentioned in sub-paragraph (i) or (ii), as the case may be, of paragraph (b) above;
+- (d) in the case of a patient who is transferred from guardianship to a hospital, the day on which he was so transferred.
+
+(6) The managers of the hospital shall also refer the patient's case to the appropriate tribunal[^c20384551] if a period of more than three years (or, if the patient has not attained the age of 18 years, one year) has elapsed since his case was last considered by such a tribunal, whether on his own application or otherwise.
+
+(7) If, in the case of a community patient, the community treatment order is revoked under section 17F above, the managers of the hospital shall also refer the patient's case to the appropriate tribunal[^c20384561] as soon as possible after the order is revoked.
+
+(8) For the purposes of furnishing information for the purposes of a reference under this section, a registered medical practitioner or approved clinician authorised by or on behalf of the patient may at any reasonable time—
+
+- (a) visit and examine the patient in private; and
+- (b) require the production of and inspect any records relating to the detention or treatment of the patient in any hospital or any after-care services provided for him under section 117 below.
+
+(9) Reference in this section to the managers of the hospital—
+
+- (a) in relation to a community patient, is to the managers of the responsible hospital;
+- (b) in relation to any other patient, is to the managers of the hospital in which he is liable to be detained.
+
+## Annotations
+
+[^c20071131]: Textual amendment: [Ss. 68](https://www.legislation.gov.uk/ukpga/1983/20/section/68), [68A](https://www.legislation.gov.uk/ukpga/1983/20/section/68A) substituted (3.11.2008) for s. 68 by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2007/12/section/37/3), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10)); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(l)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/l) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
+
+[^c20384531]: Textual amendment: Words in [s. 68(2)](https://www.legislation.gov.uk/ukpga/1983/20/section/68/2) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 6](https://www.legislation.gov.uk/uksi/2008/2833/article/6), [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/48)
+
+[^c20384551]: Textual amendment: Words in [s. 68(6)](https://www.legislation.gov.uk/ukpga/1983/20/section/68/6) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 6](https://www.legislation.gov.uk/uksi/2008/2833/article/6), [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/48)
+
+[^c20384561]: Textual amendment: Words in [s. 68(7)](https://www.legislation.gov.uk/ukpga/1983/20/section/68/7) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 6](https://www.legislation.gov.uk/uksi/2008/2833/article/6), [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/48)

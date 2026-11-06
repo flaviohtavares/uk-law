@@ -1,0 +1,81 @@
+---
+title: Leasehold and Freehold Reform Act 2024, section 10
+act: Leasehold and Freehold Reform Act 2024
+section: '10'
+status: not-yet-in-force
+text_date: '2025-03-03'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Leasehold and Freehold Reform Act 2024, section 10
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 10. Permitted leases: transaction warning conditions[^key-7d8620f66b5ee48837622f374a786dde]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) A person may not, on or after the day on which section 1 comes into force—
+
+- (a) enter into an agreement to grant a permitted lease unless the transaction warning conditions are met in relation to the agreement, or
+- (b) subject to subsection (5), grant a permitted lease unless the transaction warning conditions are met in relation to the lease.
+
+(2) The “transaction warning conditions” are as follows—
+
+- (a) at least 7 days before the relevant date the grantor must give a warning notice relating to the permitted lease—
+  - (i) to the proposed tenant, or
+  - (ii) where there is more than one proposed tenant, to each of them;
+- (b) a notice of receipt of the warning notice must be given to the grantor—
+  - (i) by the proposed tenant, or
+  - (ii) where there is more than one proposed tenant, jointly by all of the proposed tenants;
+- (c) a reference to the warning notice and the notice of receipt must be included in or endorsed on the relevant instrument in the specified manner.
+
+(3) A “warning notice” is a notice provided in a specified form and manner and containing—
+
+- (a) sufficient information to identify the house to be comprised in the lease,
+- (b) if the lease falls within Part 1 of Schedule 1, a copy of the permitted lease certificate,
+- (c) if the lease falls into one or more of the categories set out in Part 2 of Schedule 1, a statement identifying that category or those categories,
+- (d) if both paragraphs (b) and (c) apply to the lease, the information required under both those paragraphs, and
+- (e) such other information as may be specified.
+
+(4) A “notice of receipt” is a notice provided in a specified form and manner and containing such information as may be specified.
+
+(5) A person does not breach subsection (1) in relation to the grant of a lease if—
+
+- (a) the person previously entered into an agreement to grant that lease,
+- (b) the transaction warning conditions were met in relation to that agreement, and
+- (c) a reference to the warning notice and the notice of receipt relating to that agreement is included in or endorsed on the instrument creating the lease.
+
+(6) This section does not apply to the grant of a permitted lease which falls within paragraph 6 of Schedule 1 (leases agreed before commencement).
+
+(7) This section does not affect—
+
+- (a) the validity of a lease granted in breach of subsection (1), and does not affect the powers of a person to grant such a lease (whether under section 23(1) of the Land Registration Act 2002 or otherwise);
+- (b) any contractual rights of a party to an agreement entered into in breach of subsection (1).
+
+(8) In this section—
+
+- “**grantor**”, in relation to a lease, means the person proposing to grant the lease (whether or not that person holds the freehold or leasehold title out of which the lease will be granted);
+- “**proposed tenant**”, in relation to a lease, means the proposed tenant of the house to be comprised in the lease;
+- “**relevant date**” means—
+  - (a) in the case of an agreement to grant a lease, the day on which the agreement is entered into, and
+  - (b) in the case of a grant of a lease, the day on which the lease is granted;
+- “**relevant instrument**” means—
+  - (a) in the case of an agreement to grant a lease, that agreement, and
+  - (b) in the case of a grant of a lease, the instrument creating that lease;
+- “**specified**” means specified or described in regulations made—
+  - (a) in relation to a lease of a house in England, by the Secretary of State;
+  - (b) in relation to a lease of a house in Wales, by the Welsh Ministers.
+
+(9) A statutory instrument containing regulations under this section is subject to the negative procedure.
+
+## Annotations
+
+[^key-7d8620f66b5ee48837622f374a786dde]: Commencement: S. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

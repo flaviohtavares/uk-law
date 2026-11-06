@@ -1,0 +1,124 @@
+---
+title: The Intellectual Property (Unjustified Threats) Act 2017 (Commencement and Transitional Provisions) Regulations 2017
+id: uksi/2017/771
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-07-14'
+text_date: '2021-04-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/771
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/771/pdfs/uksi_20170771_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/771/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Intellectual Property (Unjustified Threats) Act 2017 (Commencement and Transitional Provisions) Regulations 2017
+
+> Text as at 2021-04-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2017 No. 771 (C. 62)
+
+Intellectual Property
+
+The Intellectual Property (Unjustified Threats) Act 2017 (Commencement and Transitional Provisions) Regulations 2017
+
+Made
+
+14th July 2017
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 8 of the Intellectual Property (Unjustified Threats) Act 2017[^f00001].
+
+## 1. Citation and interpretation[^key-64a26c925fcc9e9e335f8daba0f7c219]
+
+(1) These Regulations may be cited as the Intellectual Property (Unjustified Threats) Act 2017 (Commencement and Transitional Provisions) Regulations 2017.
+
+(2) In these Regulations—
+
+- “the 1949 Act” means the Registered Designs Act 1949[^f00002];
+- “the 1977 Act” means the Patents Act 1977[^f00003];
+- “the 1988 Act” means the Copyright, Designs and Patents Act 1988[^f00004];
+- “the 1994 Act” means the Trade Marks Act 1994[^f00005];
+- “the 2005 Regulations” means the Community Design Regulations 2005[^f00006];
+- “the 2006 Regulations” means the Community Trade Mark Regulations 2006[^f00007];
+- “the 2017 Act” means the Intellectual Property (Unjustified Threats) Act 2017;
+- “the appointed day” means the day appointed by regulation 2(1).
+
+## 2. Commencement of the 2017 Act[^key-ea01b1dc3a228f9f76ad3a38fd1bebce]
+
+(1) 1st October 2017 is the day appointed for the coming into force of the following provisions of the 2017 Act—
+
+- (a) section 1(1), (2), (4), (5), (6) and (7);
+- (b) sections 2 to 6;
+- (c) section 7(4).
+
+(2)[^key-cbc3a01098333051d6bceb2a24aeb278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Transitional provisions[^key-f693932f995bafb748b376faa8da9170]
+
+(1) The following transitional provisions have effect notwithstanding the amendments to the 1949 Act, the 1977 Act, the 1988 Act, the 1994 Act, the 2005 Regulations and the 2006 Regulations made by the provisions brought into force by Regulation 2.
+
+(2) Where proceedings are brought under any of the following provisions in respect of an alleged threat made before the appointed day—
+
+- (a) section 70C of the 1977 Act;
+- (b) section 21C of the 1994 Act;
+- (c) regulation 6 of the 2006 Regulations;
+- (d) section 26C of the 1949 Act;
+- (e) section 253C of the 1988 Act; or
+- (f) regulation 2C of the 2005 Regulations,
+
+the proceedings in respect of that alleged threat are to be determined in accordance with the law in force at the time the alleged threat was made.
+
+Joseph Johnson
+
+Minister of State for Universities, Science, Research and Innovation
+
+Department for Business, Energy and Industrial Strategy
+
+14th July 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are the commencement regulations made under the Intellectual Property (Unjustified Threats) Act [2017 (c.14)](https://www.legislation.gov.uk/ukpga/2017/14) (“the 2017 Act”).
+
+Regulation 2(1) brings into force, on 1st October 2017, the provisions of the 2017 Act referred to below. Those which relate to the European patent with unitary effect (which are contained in section 1(3) and (8)) come into force on the date of entry into force of the Agreement on the Unified Patent Court (Regulation 2(2)).
+
+The 2017 Act makes amendments to the law relating to unjustified threats to bring proceedings for infringements contained in the Registered Designs Act 1949, the Patents Act 1977, the Copyright, Designs and Patents Act 1988, the Trade Marks Act 1994, the Community Design Regulations 2005 and the Community Trade Mark Regulations 2006.
+
+Section 1(1), (2), (4), (5), (6) and (7); sections 2 to 6 and section 7(4) are brought into force on 1st October 2017.
+
+Regulation 3 contains a transitional provision relating to the changes made by the 2017 Act, so that they will only have effect in relation to an alleged threat of infringement proceedings which is made on or after 1st October 2017.
+
+## Annotations
+
+[^f00001]: Footnote: [2017 c. 14](https://www.legislation.gov.uk/ukpga/2017/14).
+
+[^key-64a26c925fcc9e9e335f8daba0f7c219]: Commencement: Reg. 1 in force at 14.7.2017
+
+[^f00002]: Footnote: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88). Section 26 is substituted and section 45 is amended by the provisions of the Intellectual Property (Unjustified Threats) Act 2017 which are brought into force by regulation 2 of these Regulations. Section 26 was previously amended by paragraph 15 of Schedule 3 to the Copyright, Designs and Patents Act [1988 (c.48)](https://www.legislation.gov.uk/ukpga/1988/48) and by [SI 2006/1029](https://www.legislation.gov.uk/uksi/2006/1029); section 45 was previously substituted by [SI 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028).
+
+[^f00003]: Footnote: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37). Section 70 is substituted and sections 74, 78 and 106 are amended by the provisions of the Intellectual Property (Unjustified Threats) Act 2017 which are brought into force by regulation 2 of these Regulations. Section 70 was previously amended by sections 12 and 16 of and by paragraphs 1 and 17 of Schedule 2 to the Patents Act [2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16); section 74 by paragraph 3 of the Schedule to the Intellectual Property Act [2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), paragraph 10 of Schedule 5 to the Copyright, Designs and Patents Act [1988 (c.48)](https://www.legislation.gov.uk/ukpga/1988/48) and section 13 of the Patents Act 2004; section 78 by [SI 2004/2357](https://www.legislation.gov.uk/uksi/2004/2357), paragraph 22 of Schedule 5 to the Copyright, Designs and Patents Act 1988, and paragraphs 1 and 3 of Schedule 1 to the Patents Act 2004; section 106 by section 14 of and Schedule 3 to the Patents Act 2004 and by section 59 and paragraph 23 of Part 4 of Schedule 11 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^f00004]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48). Section 253 is substituted and section 262 is amended by the provisions of the Intellectual Property (Unjustified Threats) Act 2017 which are brought into force by regulation 2 of these Regulations.
+
+[^f00005]: Footnote: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26). Section 21 is substituted and sections 52 and 54 are amended by the provisions of the Intellectual Property (Unjustified Threats) Act 2017 which are brought into force by regulation 2 of these Regulations. Section 52 was previously amended by paragraphs 109 and 110 of Schedule 21 to the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29) and [SI 2016/299](https://www.legislation.gov.uk/uksi/2016/299).
+
+[^f00006]: Footnote: [SI 2005/2339](https://www.legislation.gov.uk/uksi/2005/2339). Regulation 2 is substituted and regulation 5A is amended by the provisions of the Intellectual Property (Unjustified Threats) Act 2017 which are brought into force by regulation 2 of these Regulations. Regulation 2 of [SI 2005/2339](https://www.legislation.gov.uk/uksi/2005/2339) was previously amended by [SI 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028), [SI 2007/3378](https://www.legislation.gov.uk/uksi/2007/3378) and [SI 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and Regulation 5A was previously inserted by [SI 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028).
+
+[^f00007]: Footnote: [SI 2006/1027](https://www.legislation.gov.uk/uksi/2006/1027). Regulation 6 is amended by the provisions of the Intellectual Property (Unjustified Threats) Act 2017 which are brought into force by regulation 2 of these Regulations. Regulation 6 was previously amended by [SI 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [SI 2016/299](https://www.legislation.gov.uk/uksi/2016/299).
+
+[^key-ea01b1dc3a228f9f76ad3a38fd1bebce]: Commencement: Reg. 2 in force at 14.7.2017
+
+[^key-cbc3a01098333051d6bceb2a24aeb278]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/2) revoked (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/2)
+
+[^key-f693932f995bafb748b376faa8da9170]: Commencement: Reg. 3 in force at 14.7.2017

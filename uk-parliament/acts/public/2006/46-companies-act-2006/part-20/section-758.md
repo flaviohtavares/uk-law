@@ -1,0 +1,46 @@
+---
+title: Companies Act 2006, section 758
+act: Companies Act 2006
+section: '758'
+status: revised-with-pending-changes
+text_date: '2026-07-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/46/section/758
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 2006, section 758
+
+> **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/46
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 758. Enforcement of prohibition: orders available to the court after contravention
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if it appears to the court—
+
+- (a) on an application under this section, or
+- (b) in proceedings under Part 30 (protection of members against unfair prejudice),
+
+that a company has acted in contravention of section 755 (prohibition of public offers by private companies).
+
+(2) The court must make an order requiring the company to re-register as a public company unless it appears to the court—
+
+- (a) that the company does not meet the requirements for re-registration as a public company, and
+- (b) that it is impractical or undesirable to require it to take steps to do so.
+
+(3) If it does not make an order for re-registration, the court may make either or both of the following—
+
+- (a) a remedial order (see section 759), or
+- (b) an order for the compulsory winding up of the company.
+
+(4) An application under this section may be made by—
+
+- (a) a member of the company who—
+  - (i) was a member at the time the offer was made (or, if the offer was made over a period, at any time during that period), or
+  - (ii) became a member as a result of the offer,
+- (b) a creditor of the company who was a creditor at the time the offer was made (or, if the offer was made over a period, at any time during that period), or
+- (c) the Secretary of State.

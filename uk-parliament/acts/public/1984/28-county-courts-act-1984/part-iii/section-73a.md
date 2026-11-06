@@ -1,0 +1,27 @@
+---
+title: County Courts Act 1984, section 73A
+act: County Courts Act 1984
+section: 73A
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1984/28/section/73A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# County Courts Act 1984, section 73A
+
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/28
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 73A. Provision for register under s.73 to be kept by body under contract to Lord Chancellor
+
+*Extent: E+W*
+
+[^c20590561]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c20590561]: Textual amendment: S. 73A repealed (6.4.2006) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1/3), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 272(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/272/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/3518](https://www.legislation.gov.uk/uksi/2005/3518), [art. 3](https://www.legislation.gov.uk/uksi/2005/3518/article/3)

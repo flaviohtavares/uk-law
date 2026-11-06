@@ -1,0 +1,314 @@
+---
+title: The M62 Motorway (Junctions 25 to 30) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012
+id: uksi/2012/1865
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-07-16'
+text_date: '2013-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2012/1865
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1865/pdfs/uksiem_20121865_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1865/pdfs/uksi_20121865_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1865/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The M62 Motorway (Junctions 25 to 30) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2012 No. 1865
+
+Road Traffic
+
+Special Roads
+
+The M62 Motorway (Junctions 25 to 30) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012
+
+Made
+
+16th July 2012
+
+Laid before Parliament
+
+19th July 2012
+
+Coming into force
+
+20th August 2012
+
+The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by section 17(2) and (3) of the Road Traffic Regulation Act 1984[^f00001].
+
+Representative organisations have been consulted in accordance with section 134(2) of that Act.
+
+## 1. Citation and commencement[^key-a5f034830bafdee6b3b7ec8209881df4]
+
+These Regulations may be cited as the M62 Motorway (Junctions 25 to 30) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012 and come into force on 20th August 2012.
+
+## 2. Interpretation[^key-253664b4e9b67a17bbdc2e48624614a8]
+
+In these Regulations—
+
+- “the 1982 Regulations” means the Motorways Traffic (England and Wales) Regulations 1982[^f00002];
+- “the 2002 Regulations” means the Traffic Signs Regulations and General Directions 2002[^f00003];
+- “carriageway”, “hard shoulder”, “motorway” and “verge” have the same meaning as in the 1982 Regulations;
+- “emergency refuge area” means a part of a motorway—
+  - (a) which is adjacent to and situated on the left-hand or near side of the hard shoulder or carriageway when facing in the direction in which, in accordance with regulation 6 of the 1982 Regulations, vehicles may be driven, and
+  - (b) whose boundary with the hard shoulder or carriageway is indicated by a marking of the type shown in diagram 1010 in Schedule 6 to the 2002 Regulations; and
+- “relevant roads” means the lengths of carriageway specified in Schedule 1 together with the adjacent hard shoulders, emergency refuge areas and verges.
+
+## 3. Modification of the 1982 Regulations to allow for actively managed hard shoulder[^key-b7e77413ee649461995646426f883183]
+
+(1) In relation to the relevant roads, the 1982 Regulations have effect as if they were modified as follows.
+
+(2) Paragraph (1) of regulation 3 (interpretation) has effect as if—
+
+- (a) after sub-paragraph (a), there were inserted—
+
+  > - (aa) “actively managed hard shoulder” means the hard shoulder of the relevant roads;
+
+  ;
+- (b) in sub-paragraph (b)(i) after “the motorway”, there were inserted “, and includes the actively managed hard shoulder when it is treated as a lane of the carriageway in accordance with regulation 5A(3)”;
+- (c) after sub-paragraph (c), there were inserted—
+
+  > - (ca) “emergency refuge area” means a part of a motorway—
+  >   - (i) which is adjacent to and situated on the left-hand or near side of the hard shoulder or carriageway when facing in the direction in which, in accordance with regulation 6, vehicles may be driven, and
+  >   - (ii) whose boundary with the hard shoulder or carriageway is indicated by a marking of the type shown in diagram 1010 in Schedule 6 to the Traffic Signs Regulations 2002;
+
+  ;
+- (d) in sub-paragraph (e) after “hard shoulder”, there were inserted “, subject to regulation 5A,”;
+- (e) after sub-paragraph (f), there were inserted—
+
+  > - (fa) “relevant roads” has the meaning given to it by regulation 2 of the M62 Motorway (Junctions 25 to 30) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012;
+
+  ; and
+- (f) in sub-paragraph (g) after “hard shoulder”, there were inserted “an emergency refuge area,”.
+
+(3) Regulation 4 (application) has effect as if for that regulation there were substituted—
+
+> **4. Application**
+>
+> These Regulations apply to the relevant roads.
+
+(4) The 1982 Regulations have effect as if after regulation 5 (vehicles to be driven on the carriageway only) there were inserted—
+
+> **5A. Use of actively managed hard shoulder**
+>
+> (1) Subject to the following provisions of these Regulations, a vehicle may be driven on a relevant length of the actively managed hard shoulder.
+>
+> (2) The relevant length of the actively managed hard shoulder shall be treated for the purposes of these Regulations as a lane of the carriageway.
+>
+> (3) Accordingly where paragraph (2) applies, references in these Regulations—
+>
+> - (a) to a carriageway shall be treated as including references to the relevant length of the actively managed hard shoulder; and
+> - (b) to a hard shoulder, except in regulation 3(1), shall be treated as excluding references to the relevant length of the actively managed hard shoulder.
+>
+> (4) For the purposes of this regulation “relevant length” in relation to the actively managed hard shoulder means a length of the actively managed hard shoulder that—
+>
+> - (a) begins immediately after an overhead gantry on which directly above the actively managed hard shoulder there is displayed a traffic sign of the type shown in diagram 670 in Schedule 2 to the Traffic Signs Regulations 2002 indicating that a speed limit other than the national speed limit applies to the actively managed hard shoulder; and
+> - (b) ends immediately before—
+>   - (i) an overhead gantry on which directly above the actively managed hard shoulder there is displayed a traffic sign of the type shown in diagram 5003.1 in Schedule 10, or 6031.1 in Schedule 11, to the Traffic Signs Regulations 2002, or
+>   - (ii) a verge mounted traffic sign of the type shown in diagram 820.1 in schedule 4 to the Traffic Signs Regulations 2002 incorporating the non-prescribed text variant “Hard Shoulder ENDS
+
+.
+
+(5) In regulation 7 (restrictions on stopping), paragraph (2) has effect as if at the end, after “carriageway”, there were added “or on any emergency refuge area which is adjacent to that carriageway or hard shoulder”.
+
+(6) Paragraph (3)(a) and (b) of regulation 7, regulation 9 (restriction on the use of hard shoulders), and paragraph (b)(i) of regulation 14 (restrictions affecting animals carried in vehicles) have effect as if, after “hard shoulder” (in each place), there were inserted “or emergency refuge area”.
+
+(7) Paragraph (2) of regulation 12 (restriction on use of right hand or off side lane) has effect as if, after “three or more traffic lanes”, there were inserted “(including the actively managed hard shoulder when it is in use as a lane of the carriageway in accordance with regulation 5A)”.
+
+## 4. Variable speed limits[^key-846831f2fbd4e81cb6ff8f7534f9dc76]
+
+(1) No person shall drive a vehicle on a section of a road which is subject to a variable speed limit at a speed exceeding that indicated by a speed limit sign.
+
+(2) A section of a road is subject to a variable speed limit in relation to a vehicle being driven along it if—
+
+- (a) the road is specified in Schedule 2;
+- (b) the vehicle has passed a speed limit sign; and
+- (c) the vehicle has not passed—
+  - (i) another speed limit sign indicating a different speed limit; or
+  - (ii) a traffic sign which indicates that the national speed limit is in force.
+
+(3) In relation to a vehicle, the speed limit indicated by a speed limit sign is the speed shown at the time the vehicle passes the sign, or, if higher, the speed limit shown by the sign ten seconds before the vehicle passed the sign.
+
+(4) For the purpose of this regulation a speed limit sign is to be taken as not indicating any speed limit if, ten seconds before the vehicle passed it, the sign had indicated no speed limit or that the national speed limit was in force.
+
+(5) In this regulation—
+
+- “national speed limit” has the meaning given by regulation 5(2) of the 2002 Regulations and a traffic sign which indicates that the national speed limit is in force means a traffic sign of the type shown in diagram 671 in Schedule 2 to the 2002 Regulations which is—
+  - (a) placed on or near a road; and
+  - (b) directed at traffic on the carriageway on which the vehicle is being driven;
+- “road” includes the adjacent hard shoulder and verge;
+- “speed limit sign”, in relation to a vehicle, means a traffic sign of the type shown in diagram 670 in Schedule 2 to the 2002 Regulations which is—
+  - (a) situated on or near any part of a road specified in Schedule 2; and
+  - (b) directed at traffic on the carriageway on which the vehicle is being driven.
+
+Signed by authority of the Secretary of State for Transport
+
+Mike Penning
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+16th July 2012
+
+## SCHEDULE 1 — RELEVANT ROADS
+
+Regulation 2
+
+**1.**[^key-bd7abb62cc4e0d2284e808c447cc4094] The relevant roads are—
+
+- (a) the eastbound carriageway of the M62 between junction 26 and junction 27 beginning at a point which is 72 metres after marker post 102/4 and ending at point which is 33 metres after marker post 105/2;
+- (b) the westbound carriageway of the M62 between junction 27 and junction 26 beginning at a point 44 metres after marker post 105/7 and ending at a point 4 metres after marker post 102/1;
+- (c) the eastbound carriageway of the M62 between junction 27 and junction 28 beginning at a point 20 metres after marker post 107/9 and ending at a point 85 metres after marker post 111/0;
+- (d) the westbound carriageway of the M62 between junction 28 and junction 27 beginning at a point 57 metres after marker post 111/2 and ending at a point 81 metres after marker post 108/4; and
+- (e) the eastbound carriageway of the M62 between junction 29 and junction 30 beginning at a point 43 metres after marker post 117/7 and ending at a point 94 metres after marker post 118/9.
+
+**2.**[^key-bb868a2f9d5393fe13162feadb906c22] Any reference in this Schedule to the letter “M” followed by a number is a reference to the motorway known by that name.
+
+## SCHEDULE 2 — SPECIFIED ROADS
+
+Regulation 4(2)(a)
+
+**1.**[^key-979d453dfbcdb67bb15c318fb06693a3] The specified roads are—
+
+- (a)[^key-8354a42765896897316f878b1e0d0e8c] the eastbound carriageway of the M62 from junction 25 to junction 30 beginning at a point 53 metres after marker post 95/5 and ending at a point 31 metres after marker post 120/3;
+- (b) the carriageways of the eastbound slip roads;
+- (c) the carriageways of the eastbound interchange link roads;
+- (d)[^key-1cc1fec441f3d8344b952d30ec6a33ca] the westbound carriageway of the M62 from junction 30 to junction 25 beginning at a point 23 metres after marker post 120/6 and ending at a point 57 metres after marker post 95/6;
+- (e) the carriageways of the westbound slip roads; and
+- (f) the carriageways of the westbound interchange link roads.
+
+**2.**[^key-04e62089490e1f7f74c15e70e68935f8] Any reference in this Schedule to—
+
+- (a) the letter “M” followed by a number is a reference to the motorway known by that name; and
+- (b) the letter “A” followed by a number is a reference to the road known by that name.
+
+**3.**[^key-4a86c4f24f20c7ba17e259e1d7c81ef9] In this Schedule—
+
+- “J slip road” means a road for exiting the eastbound carriageway of the M62 at a junction;
+- “K slip road” means a road for entering the eastbound carriageway of the M62 at a junction;
+- “L slip road” means a road for exiting the westbound carriageway of the M62 at a junction;
+- “M slip road” means a road for entering the westbound carriageway of the M62 at a junction;
+- “W slip road” means a westbound interchange link road joining another road at a junction;
+- “eastbound interchange link roads” is a reference to the lengths of carriageway mentioned in paragraph 4;
+- “westbound interchange link roads” is a reference to the lengths of carriageway mentioned in paragraph 6;
+- “eastbound slip roads” is a reference to the lengths of road specified in paragraph 5;
+- “westbound slip roads” is a reference to the lengths of road specified in paragraph 7; and
+- “zone sign” means a sign authorised by the Secretary of State under section 64 of the Road Traffic Regulation Act 1984[^f00004] for the purpose of indicating that vehicles are entering, have entered or are exiting a specified road.
+
+**4.**[^key-cd907e6e4c68a1cf50bd88080f42eb84] The eastbound interchange link roads are—
+
+- (a) the link road connecting the M62 with the M606 leading to the M606 northbound commencing where it diverges from the M62 eastbound, in the vicinity of junction 26, and ending at the zone sign; and
+- (b) the link road connecting the M62 with the M1, in the vicinity of junction 29, leading to the M1 northbound commencing where it diverges from the M62 eastbound and ending at the zone sign.
+
+**5.**[^key-c3d057d53bca8d22bcc7b6c0a81e8984] The eastbound slip roads are—
+
+- (a) in the vicinity of junction 25 of the M62 the K slip road from the A644 commencing at the zone sign and ending where it merges with the M62 eastbound;
+- (b) in the vicinity of junction 26 of the M62—
+  - (i) the J slip road commencing where it diverges from the M62 eastbound and ending at the zone sign; and
+  - (ii) the K slip road leading from the A58 and the M606 commencing at the zone sign and ending where it merges with the M62 eastbound;
+- (c) in the vicinity of junction 27 of the M62—
+  - (i) the J slip road leading to the A62 and the M621 commencing where it diverges from the M62 eastbound and ending at the zone sign; and
+  - (ii) the K slip road from the A62 commencing at the zone sign and ending where it merges with the M62 eastbound;
+- (d) in the vicinity of junction 28 of the M62—
+  - (i) the J slip road leading to the A653 commencing where it diverges from the M62 eastbound and ending at the zone sign; and
+  - (ii) the K slip road from the A653 commencing at the zone sign and ending where it merges with the M62 eastbound;
+- (e) in the vicinity of junction 29 of the M62—
+  - (i) the J slip road leading to the M1 commencing where it diverges from the M62 eastbound and ending at the zone sign; and
+  - (ii) the K slip road from the M1 commencing at the zone sign and ending where it merges with the M62 eastbound; and
+- (f) in the vicinity of junction 30 of the M62, the J slip road leading to the A642 commencing where it diverges from the M62 eastbound and ending at the zone sign.
+
+**6.**[^key-75eccbbb7305268d6edc54419d9537c4] The westbound interchange link roads are—
+
+- (a) the link road connecting the M606 with the M62, within junction 26, leading from the M606 commencing at the zone sign and ending where it merges with the M62 westbound;
+- (b) the link road from the M621, in the vicinity of junction 27, commencing at the zone sign and ending where it merges with the M62 westbound; and
+- (c) the link road connecting the M1 with the M62, in the vicinity of junction 29, leading from the M1 southbound carriageway at the zone sign and ending where it merges with the M62 westbound.
+
+**7.**[^key-fdae426ed713fe49689738ef058dd686] The westbound slip roads are—
+
+- (a) in the vicinity of junction 25 of the M62, the L slip road leading to the A644 commencing where it diverges from the M62 westbound and ending at the zone sign;
+- (b) in the vicinity of junction 26 of the M62—
+  - (i) the W slip road from the A58 commencing at the zone sign and ending where it merges with M606 link road identified in paragraph 6(a); and
+  - (ii) the L slip road leading to the A58 commencing where it diverges from the M62 westbound and ending at the zone sign;
+- (c) in the vicinity of junction 27 of the M62—
+  - (i) the W slip road connecting to the A62 commencing at the zone sign and ending where it merges with the M621 link road identified in paragraph 6(b); and
+  - (ii) the L slip road leading to the A62 commencing where it diverges from the M62 westbound and ending at the zone sign;
+- (d) in the vicinity of junction 28 of the M62—
+  - (i) the L slip road leading to the A653 commencing where it diverges from the M62 westbound and ending at the zone sign; and
+  - (ii) the M slip road from the A653 commencing at the zone sign and ending where it merges with M62 westbound;
+- (e) in the vicinity of junction 29 of the M62—
+  - (i) the M slip road from the M1 northbound commencing at the zone sign and ending where it merges with M62 westbound; and
+  - (ii) the L slip road leading to the M1 commencing where it diverges from the M62 westbound and ending at the zone sign;
+- (f) in the vicinity of junction 30 of the M62—
+  - (i) the M slip road from the A642 commencing at the zone sign and ending where it merges with M62 westbound; and
+  - (ii) the L slip road leading to the A642 commencing where it diverges from the M62 westbound and ending at the zone sign.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations introduce variable speed limits to the M62 Motorway from junctions 25 to 30 and on associated slip roads and linking carriageways.
+
+The Regulations also modify the way that the Motorways Traffic (England and Wales) Regulations 1982 (“the 1982 Regulations”) apply to the carriageways of the M62 Motorway between junctions 25 and 30 and create the concept of an ‘actively managed hard shoulder’, which is a hard shoulder which, in certain circumstances, may be driven on.
+
+*Regulation 3* provides for the 1982 Regulations to apply as if a new regulation 5A were inserted, which provides that the hard shoulder of a relevant road may be used as a carriageway where a speed limit sign is displayed above the hard shoulder.
+
+*Regulation 3* also provides for the 1982 Regulations to apply as if the concept of the ‘emergency refuge area’ were introduced. Where a hard shoulder is actively managed, this emergency refuge area has the same function as a hard shoulder.
+
+*Regulation 4* provides for variable speed limits to have effect on the roads specified in Schedule 2. Where variable speed limit signs are in operation a vehicle may not be driven at a speed above the maximum indicated by each speed limit sign passed by the vehicle until it passes a sign indicating that the national speed limit applies or the vehicle leaves the roads covered by the regulation. Where a speed limit changes less than 10 seconds before a vehicle passes the sign and the sign had indicated a higher speed limit, the regulation allows the driver to proceed at a speed up to the maximum applicable before the change. Where the speed limit sign indicates a speed limit when it is passed by a vehicle but less than 10 seconds previously it was either giving no indication of a speed limit or that the national speed limit applied, the sign is to be taken as giving no indication of a speed limit to the vehicle passing it.
+
+Contravention of the Regulations is an offence under section 17(4) of the Road Traffic Regulation Act 1984.
+
+A copy of the impact assessment prepared in respect of the Regulations can be obtained from the M42 Active Traffic Management Pilot Team, The Cube, 199 Wharfside Street, Birmingham, B1 1RN. A copy has been placed in the library of each House of Parliament and is also annexed to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1984. c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 17(2) was amended by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. There are other amendments to sections 17 and 134 which are not relevant to these Regulations.
+
+[^key-a5f034830bafdee6b3b7ec8209881df4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^key-253664b4e9b67a17bbdc2e48624614a8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1865/regulation/2) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^f00002]: Footnote: [S. I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163), as amended by [S. I. 1983/374](https://www.legislation.gov.uk/uksi/1983/374), [1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [1992/1364](https://www.legislation.gov.uk/uksi/1992/1364) and [2004/3258](https://www.legislation.gov.uk/uksi/2004/3258).
+
+[^f00003]: Footnote: Part 1 of [S. I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113); as amended by [S. I. 2005/1670](https://www.legislation.gov.uk/uksi/2005/1670). There are other amending instruments but none is relevant.
+
+[^key-b7e77413ee649461995646426f883183]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1865/regulation/3) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^key-846831f2fbd4e81cb6ff8f7534f9dc76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1865/regulation/4) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^key-bd7abb62cc4e0d2284e808c447cc4094]: Textual amendment: Sch. 1 para. 1 substituted (1.4.2013) by [The Managed Motorway (Actively Managed Hard Shoulder and Variable Speed Limits) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/482)](https://www.legislation.gov.uk/uksi/2013/482), [regs. 1](https://www.legislation.gov.uk/uksi/2013/482/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/482/regulation/8)
+
+[^key-bb868a2f9d5393fe13162feadb906c22]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2012/1865/schedule/1/paragraph/2) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^key-979d453dfbcdb67bb15c318fb06693a3]: Commencement: Sch. 2 para. 1 in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^key-8354a42765896897316f878b1e0d0e8c]: Textual amendment: Sch. 2 para. 1(a) substituted (1.4.2013) by [The Managed Motorway (Actively Managed Hard Shoulder and Variable Speed Limits) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/482)](https://www.legislation.gov.uk/uksi/2013/482), [regs. 1](https://www.legislation.gov.uk/uksi/2013/482/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/482/regulation/9)
+
+[^key-1cc1fec441f3d8344b952d30ec6a33ca]: Textual amendment: Sch. 2 para. 1(d) substituted (1.4.2013) by [The Managed Motorway (Actively Managed Hard Shoulder and Variable Speed Limits) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/482)](https://www.legislation.gov.uk/uksi/2013/482), [regs. 1](https://www.legislation.gov.uk/uksi/2013/482/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/482/regulation/10)
+
+[^key-04e62089490e1f7f74c15e70e68935f8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/1865/schedule/2/paragraph/2) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^key-4a86c4f24f20c7ba17e259e1d7c81ef9]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/1865/schedule/2/paragraph/3) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^f00004]: Footnote: [1984. c. 27](https://www.legislation.gov.uk/ukpga/1984/27). There are amendments to section 64 but none of these is relevant.
+
+[^key-cd907e6e4c68a1cf50bd88080f42eb84]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/1865/schedule/2/paragraph/4) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^key-c3d057d53bca8d22bcc7b6c0a81e8984]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2012/1865/schedule/2/paragraph/5) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^key-75eccbbb7305268d6edc54419d9537c4]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2012/1865/schedule/2/paragraph/6) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)
+
+[^key-fdae426ed713fe49689738ef058dd686]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2012/1865/schedule/2/paragraph/7) in force at 20.8.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1865/regulation/1)

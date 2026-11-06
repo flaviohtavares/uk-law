@@ -1,0 +1,102 @@
+---
+title: The Delegation of Additional Functions to the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2015
+id: uksi/2015/127
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-05'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/127
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/127/pdfs/uksiem_20150127_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/127/pdfs/uksi_20150127_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/127/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Delegation of Additional Functions to the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2015
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 127
+
+National Health Service, England
+
+The Delegation of Additional Functions to the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2015
+
+Made
+
+5th February 2015
+
+Laid before Parliament
+
+10th February 2015
+
+Coming into force
+
+1st April 2015
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 7(1) and 273(4)(b)(zi) of the National Health Service Act 2006[^f00001].
+
+The Secretary of State for Health has consulted the National Health Service Commissioning Board[^f00002] in accordance with section 7(1B) of that Act[^f00003].
+
+## 1. Citation and commencement[^key-370b783868257a63b57e43ca1abe97eb]
+
+These Regulations may be cited as the Delegation of Additional Functions to the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2015 and come into force on 1st April 2015.
+
+## 2. Functions of NHS England to be exercisable by the NHS Business Services Authority[^key-67a91540ce6ec11903af658ecfe9dd6e][^key-cf540bb5e04d3b58117022f1234f0166]
+
+The NHS Business Services Authority[^f00004] is directed to exercise the functions of NHS England that NHS England—
+
+- (a) may exercise by virtue of being prescribed as a qualifying person by regulation 3(1)(b) of the Social Security (Information-sharing) (NHS Payments and Remission of Charges etc.) (England) Regulations 2015[^f00005] (qualifying persons for the purposes of information-sharing by the Secretary of State for Work and Pensions), including its functions under regulation 9 of those Regulations (which relates to disclosure of personal data by qualifying persons to the Secretary of State for Work and Pensions);
+- (b) must exercise under regulation 10(9)(a) of the National Health Service (Charges for Drugs and Appliances) Regulations 2015[^key-bffd3d1085c42176d185be241cc8d1ac] (which relates to the recovery of charges for the supply of drugs or appliances where a person’s claim for an exemption from such a charge is not substantiated).
+
+Signed by authority of the Secretary of State for Health.
+
+Earl Howe
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+5th February 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations delegate to the NHS Business Services Authority (“NHSBSA”) certain functions of the National Health Service Commissioning Board (“NHSCB”).
+
+Regulation 2(a) requires the NHSBSA to perform the functions conferred on the NHSCB by virtue of being prescribed as a “qualifying person” by the Social Security (Information-sharing) (NHS Payments and Remission of Charges etc.) (England) Regulations 2015 (“the Information-sharing Regulations”).
+
+Section 131(1) of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) allows the Secretary of State for Work and Pensions (or a person providing services to the Secretary of State for Work and Pensions) to supply relevant information relating to certain social security benefits to “qualifying persons”. Regulation 3(1)(b) of the Information-sharing Regulations prescribes the NHSCB as such a person. Regulations 4 to 7 of the Information-sharing Regulations then prescribe the purposes for which the information may be supplied. These purposes relate essentially to entitlements, based on receipt of relevant social security benefits, to health service benefits such as exemptions from NHS charges, free sight tests, and payments or vouchers towards expenses or appliances – and to related enforcement action. Regulation 9 of the Information-sharing Regulations allows the NHSCB (and other prescribed persons) to share information for purposes connected with those prescribed purposes with both the Secretary of State for Work and Pensions and persons providing services to the Secretary of State for Work and Pensions.
+
+Regulation 2(b) requires the NHSBSA to perform functions conferred on the NHSCB by virtue of regulation 7(7)(a) of the National Health Service (Charges for Drugs and Appliances) Regulations 2000. Regulation 7(7)(a) of those Regulations provides, in terms, that if a person claims an exemption from a prescription charge but the exemption is not substantiated – and as a consequence an NHS chemist or an NHS doctor in general practice has not recovered a prescription charge that should have been paid – the NHSCB (and so now the NHSBSA) must recover that charge from the person concerned.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Subsection (1) of section 7 of the National Health Service Act 2006 (“the 2006 Act”) was substituted by the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”), section 21(2). Subsection (4)(b)(zi) of section 273 of the 2006 Act was inserted by the 2012 Act, section 21(6). By virtue of section 271(1) of the 2006 Act, the functions of the Secretary of State being exercised in the making of these Regulations are exercisable only in relation to England. *See also* section 273(1) of the 2006 Act, which contains a definition of “regulations” that is relevant to the powers being exercised.
+
+[^f00002]: Footnote: The National Health Service Commissioning Board was established under the section 1H of the 2006 Act, which was inserted by the 2012 Act, section 9(1).
+
+[^f00003]: Footnote: Subsection (1B) of section 7 of the 2006 Act was inserted by the 2012 Act, section 21(2).
+
+[^key-370b783868257a63b57e43ca1abe97eb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1)
+
+[^key-67a91540ce6ec11903af658ecfe9dd6e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/127/regulation/2) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1)
+
+[^key-cf540bb5e04d3b58117022f1234f0166]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^f00004]: Footnote: The NHS Business Services Authority was established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005 ([S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414), as amended by [S.I. 2006/632](https://www.legislation.gov.uk/uksi/2006/632), [2007/1201](https://www.legislation.gov.uk/uksi/2007/1201) and [2013/235](https://www.legislation.gov.uk/uksi/2013/235)).
+
+[^f00005]: Footnote: [S.I. 2015/124](https://www.legislation.gov.uk/uksi/2015/124) .
+
+[^key-bffd3d1085c42176d185be241cc8d1ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/127/regulation/2) substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/8)

@@ -1,0 +1,746 @@
+---
+title: Armed Forces Commissioner Act 2025
+id: ukpga/2025/23
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2025-09-03'
+text_date: '2026-11-03'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/23
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2025/23/pdfs/ukpgaen_20250023_en.pdf
+- http://www.legislation.gov.uk/ukpga/2025/23/pdfs/ukpga_20250023_en.pdf
+- http://www.legislation.gov.uk/ukpga/2025/23/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Armed Forces Commissioner Act 2025
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-11-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Armed Forces Commissioner Act 2025
+
+2025 Chapter 23
+
+An Act to establish, and confer functions on, the Armed Forces Commissioner; to abolish the office of Service Complaints Ombudsman; and for connected purposes.
+
+\[3rd September 2025\]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Armed Forces Commissioner
+
+### 1. Armed Forces Commissioner[^key-0626a5150f41aae1b25ea55a039f0dc2]
+
+(1)[^key-f67197cc7bfd13777d97ef04c4c23e32] After section 365A of the Armed Forces Act 2006 (referred to in this Act as “**AFA 2006**”) insert—
+
+> **Armed Forces Commissioner**
+>
+> **365AA. Armed Forces Commissioner**
+>
+> (1) There is to be an Armed Forces Commissioner.
+>
+> (2) The functions of the Commissioner are—
+>
+> - (a) the general function of—
+>   - (i) promoting the welfare of persons subject to service law and relevant family members (as defined by section 340IA(4)), and
+>   - (ii) improving the public’s understanding of the welfare issues faced by persons subject to service law and relevant family members, and
+> - (b) the other functions conferred by or under this Act or by any other enactment.
+>
+> (3) The general function referred to in subsection (2)(a) is to be carried out in whatever ways the Commissioner considers best calculated to advance the objectives mentioned in subsection (2)(a)(i) and (ii).
+>
+> (4) The Commissioner may do anything that the Commissioner considers is calculated to facilitate, or is incidental or conducive to, the carrying out of any of the Commissioner’s functions.
+>
+> (5) The power in subsection (4) is subject to any restrictions imposed by or under this Act or any other enactment.
+>
+> (6) Schedule 14ZA makes further provision with respect to the Commissioner.
+
+(2)[^key-9c2cfc7d1a1743bc90d23b5adcd9de4a] The office of Service Complaints Ombudsman is abolished.
+
+(3)[^key-9c2cfc7d1a1743bc90d23b5adcd9de4a] Accordingly, omit section 365B of AFA 2006 (and the italic heading before it).
+
+(4)[^key-f67197cc7bfd13777d97ef04c4c23e32] Schedule 1 inserts Schedule 14ZA to AFA 2006 and makes amendments of other legislation related to the establishment of the Armed Forces Commissioner.
+
+## Service complaints
+
+### 2. Commissioner’s functions in relation to service complaints[^key-b80055253b70da3ac8559b4125cd8f43][^key-d386c34e2327794ab3df0a559b05f427]
+
+The functions of the Service Complaints Ombudsman under Part 14A of AFA 2006 (redress of service complaints) become functions of the Armed Forces Commissioner.
+
+### 3. Procedure for making service complaints[^key-b9421daa9e520d648f81a90ffba8b7e5][^key-2d4372137d54eb9ba0edf192c028312b]
+
+In section 340B of AFA 2006 (procedure for making a complaint etc)—
+
+- (a) in subsection (2)(a) for “an officer” substitute “a person”;
+- (b) in subsection (4), in each of paragraphs (a), (b) and (c), for “officer” substitute “person”.
+
+## General service welfare
+
+### 4. Commissioner’s functions in relation to general service welfare[^key-59331cd275b294a2a00ea0e16ee1f629][^key-1f877c6974644cbdc477aee876e76e70]
+
+(1) AFA 2006 is amended as follows.
+
+(2) After section 340I insert—
+
+> **Investigations by Armed Forces Commissioner of general service welfare matters**
+>
+> **340IA. Commissioner investigations of general service welfare matters**
+>
+> (1) The Armed Forces Commissioner may investigate such general service welfare matters as the Commissioner considers appropriate, subject to subsection (5).
+>
+> (2) A “general service welfare matter” is a matter which, in the Commissioner’s opinion—
+>
+> - (a) arises in connection with the ongoing service of persons subject to service law, and
+> - (b) may materially affect the welfare of those persons or relevant family members.
+>
+> (3) The Commissioner must consider any request made by a person subject to service law or a relevant family member to carry out an investigation under this section.
+>
+> (4) “**Relevant family members**” means such descriptions of persons connected with a person subject to service law as may be specified.
+>
+> (5) The Commissioner may not under this section investigate—
+>
+> - (a) a particular service complaint (see instead section 340H);
+> - (b) a matter which is or was the subject of a service inquiry (see section 343);
+> - (c) a matter which is or was the subject of a criminal investigation or criminal proceedings;
+> - (d) a matter which is or was the subject of a public inquiry;
+> - (e) a matter of such description as may be specified.
+>
+> (6) Nothing in subsection (5)(a) to (d) prevents the investigation of a general service welfare matter which comes to the attention of the Commissioner in connection with a service complaint, a service inquiry, a criminal investigation or criminal proceedings, or a public inquiry.
+>
+> (7) A description of a matter may be specified under subsection (5)(e) only if the Secretary of State considers that investigation of a matter of that description by the Commissioner—
+>
+> - (a) would be against the interests of national security, or
+> - (b) might jeopardise the safety of any person.
+>
+> (8) The Secretary of State must, in connection with an investigation under this section—
+>
+> - (a) co-operate with the Commissioner so far as is reasonable,
+> - (b) give the Commissioner such reasonable assistance as the Commissioner requests, and
+> - (c) consider any findings or recommendations made by the Commissioner (whether or not contained in a report under section 340LA).
+>
+> (9) In this section—
+>
+> - “**public inquiry**” means an inquiry under the Inquiries Act 2005;
+> - “**specified**” means specified in regulations made by the Secretary of State.
+>
+> **340IB. Power of entry to service premises**
+>
+> (1) The Armed Forces Commissioner may, for the purposes of an investigation under section 340IA, enter service premises and do any of the following—
+>
+> - (a) view the premises;
+> - (b) observe the carrying on of activities on the premises;
+> - (c) inspect and take copies of any document on, or capable of being viewed using equipment on, the premises;
+> - (d) inspect any equipment or other item on the premises;
+> - (e) take measurements and photographs and make recordings;
+> - (f) require any person on the premises to provide an explanation of any document or to state where it can be found;
+> - (g) make such other enquiries as the Commissioner considers appropriate of any person on the premises;
+> - (h) require any person on the premises to give any other assistance that the Commissioner may reasonably require for the purposes of the investigation.
+>
+> (2) The reference in subsection (1)(c) to inspecting and taking copies of any document includes requiring any document kept in electronic form to be produced in a form in which—
+>
+> - (a) it is legible or from which it can readily be produced in a legible form, and
+> - (b) can be taken away.
+>
+> (3) If the Commissioner proposes to exercise the power under subsection (1), the Commissioner must give the Secretary of State notice of the proposal within such period before exercising the power as the Commissioner considers appropriate.
+>
+> (4) Subsection (3) does not apply, so far as relating to service premises in the United Kingdom, if the Commissioner considers that giving notice would defeat the object of exercising the power.
+>
+> (5) When exercising the power under subsection (1), the Commissioner—
+>
+> - (a) may be accompanied by any person and bring anything required for the purposes of the investigation;
+> - (b) must, if requested to do so by a person on the premises, produce evidence of the Commissioner’s identity.
+>
+> (6) The Secretary of State may prevent or restrict the Commissioner’s exercise of the power under subsection (1) (generally or in a particular case) so far as the Secretary of State considers it necessary to do so—
+>
+> - (a) in the interests of national security, or
+> - (b) for the safety of any person.
+>
+> (7) The power under subsection (1) may not be exercised—
+>
+> - (a) in relation to anything that the Commissioner has reasonable grounds for believing to be an item subject to legal privilege;
+> - (b) to require a person to do anything that the person could not be compelled to do in civil proceedings before the High Court (or, in Scotland, the Court of Session).
+>
+> (8) In this section—
+>
+> - “**item subject to legal privilege**”—
+>   - (a) in England and Wales, has the same meaning as in the Police and Criminal Evidence Act 1984;
+>   - (b) in Scotland, has the meaning given by section 412 of the Proceeds of Crime Act 2002;
+>   - (c) in Northern Ireland, has the same meaning as in the Police and Criminal Evidence (Northern Ireland) Order 1989 ([S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341));
+> - “**premises**” includes any place and, in particular, includes—
+>   - (a) any vehicle, ship or aircraft, and
+>   - (b) any tent or movable structure;
+> - “**service living accommodation**” has the meaning given by section 96;
+> - “**service premises**” means any premises which are permanently or temporarily occupied or controlled for the purposes of a regular or reserve force but are not service living accommodation.
+
+(3) After section 340L insert—
+
+> **340LA. Report and recommendations: general service welfare investigations**
+>
+> (1) After carrying out an investigation under section 340IA, the Armed Forces Commissioner may prepare one or more reports setting out—
+>
+> - (a) the Commissioner’s findings, and
+> - (b) the Commissioner’s recommendations (if any) as a result of the findings.
+>
+> (2) Subsection (3) applies if the investigation was carried out wholly or partly in response to a request made by an individual.
+>
+> (3) A report under subsection (1) must not include information which identifies the individual or enables them to be identified, except with their consent.
+>
+> (4) If the Commissioner prepares a report under subsection (1)—
+>
+> - (a) the report must include the Commissioner’s reasons for each of the findings and recommendations, and
+> - (b) the Commissioner must give the report to the Secretary of State as soon as practicable after it has been prepared.
+>
+> (5) On receiving a report under subsection (4)(b), the Secretary of State must lay it before Parliament promptly and, in any event, before the end of 30 sitting days beginning with the day on which the report is received.
+>
+> “**Sitting day**” means a day on which both Houses of Parliament sit.
+>
+> (6) The Secretary of State may exclude from any report laid under subsection (5) any material the publication of which the Secretary of State considers—
+>
+> - (a) would be against the interests of national security, or
+> - (b) might jeopardise the safety of any person.
+
+(4) In section 340O (annual report on system for dealing with service complaints)—
+
+- (a) in the heading, for “on system for dealing with service complaints” substitute “of Armed Forces Commissioner”;
+- (b) after subsection (2) insert—
+
+  > (2A) A report under subsection (1) must also include a summary of any findings and recommendations made by the Commissioner in connection with an investigation under section 340IA during the year to which the report under subsection (1) relates (whether or not contained in a report under section 340LA).
+
+(5) In section 373 (orders, regulations and rules), in subsection (3) after paragraph (eb) insert—
+
+> - (eba) regulations under section 340IA(4) or (5)(e),
+
+.
+
+### 5. Consequential amendments[^key-8f45df9c95dc569357d96906c82023a9][^key-09e59ae299b198ccb96160425bf8f069]
+
+Schedule 2 contains amendments that are consequential on this Act.
+
+## Final provisions
+
+### 6. Extent[^key-6fc9fb21f44cb2d86a783763b32243bc]
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland, subject as follows.
+
+(2) Paragraph 1 of Schedule 1 (and section 1(4), so far as it relates to that paragraph), so far as they insert paragraph 1 of Schedule 14ZA to AFA 2006 (status of Armed Forces Commissioner as corporation sole), extend to England and Wales and Northern Ireland only.
+
+(3) Any other amendment or repeal made by this Act has the same extent within the United Kingdom as the provision amended or repealed.
+
+(4) His Majesty may by Order in Council provide for any provision of this Act to extend, with or without modifications, to a territory mentioned in subsection (5).
+
+(5) The territories are—
+
+- (a) any of the Channel Islands;
+- (b) the Isle of Man;
+- (c) any of the British overseas territories, except Gibraltar.
+
+### 7. Commencement[^key-35ad9e143903d822df488d981eb95e14]
+
+(1) The following provisions come into force on the day on which this Act is passed—
+
+- (a) section 6;
+- (b) this section;
+- (c) section 8.
+
+(2) The remaining provisions of this Act come into force on such day as the Secretary of State may by regulations appoint.
+
+(3) The Secretary of State may by regulations make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
+
+(4) Regulations under this section—
+
+- (a) are to be made by statutory instrument;
+- (b) may make different provision for different purposes.
+
+### 8. Short title[^key-2fae4d594bdcc0725aa000e670e10d6c]
+
+This Act may be cited as the Armed Forces Commissioner Act 2025.
+
+Schedules
+
+## Schedule 1 — Armed Forces Commissioner
+
+Section 1
+
+### 1. Armed Forces Commissioner[^key-c9d8fea557e0a0fe160b2f7715e40c88][^key-a0776a6f45985273c853e92796d951ba]
+
+After Schedule 14 to AFA 2006 insert—
+
+> **Schedule 14ZA — The Armed Forces Commissioner**
+>
+> Section 365AA
+>
+> **1. Status**
+>
+> The Armed Forces Commissioner is a corporation sole.
+>
+> **2.** The Commissioner is not to be regarded—
+>
+> - (a) as the servant or agent of the Crown, or
+> - (b) as enjoying any status, immunity or privilege of the Crown.
+>
+> **3. Appointment**
+>
+> The Commissioner is to be appointed by His Majesty on the recommendation of the Secretary of State.
+>
+> **4. Disqualification**
+>
+> A person is disqualified from being the Commissioner if the person—
+>
+> - (a) is a member of the regular or reserve forces, or
+> - (b) is employed in the civil service of the State.
+>
+> **5. Term of office**
+>
+> (1) The Commissioner holds and vacates office in accordance with the terms of their appointment, subject as follows.
+>
+> (2) The Commissioner’s initial term of office may not be more than five years.
+>
+> (3) The Commissioner may be appointed for no more than one further term of not more than two years, beginning at the end of the initial term.
+>
+> (4) The Commissioner may resign by giving written notice to the Secretary of State.
+>
+> (5) The Secretary of State may dismiss the Commissioner if satisfied that the Commissioner is unable, unwilling or unfit to perform the Commissioner’s functions.
+>
+> (6) If the Secretary of State dismisses the Commissioner, the Secretary of State must make a statement to the House of Parliament of which that Secretary of State is a member setting out the reasons for dismissing the Commissioner.
+>
+> **6. Deputy Commissioners**
+>
+> (1) The Commissioner may appoint one or more Deputy Commissioners.
+>
+> (2) A person may be appointed and serve as a Deputy Commissioner only if the person—
+>
+> - (a) is a member of the Commissioner’s staff, and
+> - (b) is not a member of the regular or reserve forces.
+>
+> **7. Vacancy or incapacity**
+>
+> (1) Sub-paragraph (2) applies if—
+>
+> - (a) the office of the Commissioner becomes vacant, or
+> - (b) it appears to the Secretary of State that the ability of the Commissioner to carry out the Commissioner’s functions is seriously impaired because of ill health (whether mental or physical).
+>
+> (2) The Secretary of State may appoint—
+>
+> - (a) a Deputy Commissioner, or
+> - (b) such other person as the Secretary of State thinks fit,
+>
+> to act as the Commissioner during the vacancy or period of ill health.
+>
+> (3) An acting Commissioner holds and vacates office in accordance with the terms of the acting Commissioner’s appointment.
+>
+> (4) While an acting Commissioner holds office, the acting Commissioner is to be regarded (except for the purposes of paragraphs 3, 4 and 5 and this paragraph) as the Commissioner.
+>
+> **8. Staff**
+>
+> (1) The Commissioner may make arrangements for persons to serve as members of the Commissioner’s staff.
+>
+> (2) The arrangements—
+>
+> - (a) may not provide for persons to be directly employed by the Commissioner, but
+> - (b) may provide for payments to be made directly by the Commissioner to persons serving as members of the Commissioner’s staff.
+>
+> (3) Before making arrangements under this paragraph, the Commissioner must obtain the approval of the Secretary of State as to the Commissioner’s policies on—
+>
+> - (a) the number of the Commissioner’s staff;
+> - (b) payments to be made to or in respect of staff;
+> - (c) the terms and conditions of service of staff.
+>
+> **9. Delegation of functions**
+>
+> (1) The Commissioner may delegate any of their functions to—
+>
+> - (a) a Deputy Commissioner, or
+> - (b) any other person serving as a member of the Commissioner’s staff.
+>
+> (2) A function is delegated under this paragraph to the extent and on the terms that the Commissioner determines.
+>
+> (3) The delegation of a function by the Commissioner under this paragraph does not prevent the Commissioner from exercising that function.
+>
+> (4) Where the Commissioner has delegated the function under section 340IB(1) (power of entry to service premises), the reference in section 340IB(5)(b) to evidence of the Commissioner’s identity is to be read as a reference to evidence of—
+>
+> - (a) the identity of the person exercising the function, and
+> - (b) the person’s authority to exercise the function.
+>
+> **10. Liability**
+>
+> (1) This paragraph applies where a person is serving as a member of the Commissioner’s staff.
+>
+> (2) The Commissioner is liable in respect of unlawful conduct of the person in the carrying out, or purported carrying out, of their functions as a member of the Commissioner’s staff, in the same manner as an employer is liable in respect of unlawful conduct of an employee in the course of their employment.
+>
+> **11. Financial and other assistance from the Secretary of State**
+>
+> (1) The Secretary of State may make payments and provide other financial assistance to the Commissioner.
+>
+> (2) The Secretary of State may—
+>
+> - (a) provide staff in accordance with arrangements made with the Secretary of State by the Commissioner under paragraph 8;
+> - (b) provide premises, facilities or other assistance to the Commissioner.
+
+### 2. Other amendments[^key-82e8c2181f42a437d436a68818dd86d9][^key-96e16b97719051db687b4658ead6f5ef]
+
+In paragraph 3 of Schedule 1 to the Public Records Act 1958 (establishments and organisations whose records are public records), in Part 2 of the Table, at the appropriate place insert—
+
+> - Armed Forces Commissioner.
+
+**3.**[^key-02b12df0e8f46512b37346b65cab0ac3][^key-dfed05c16b4c288b29dafd5574bb63c9] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert—
+
+> - Armed Forces Commissioner.
+
+**4.**[^key-45ecd4184c1977b291bb2ee5fa43868f][^key-0121705be83aadbc7b31f54a9c37bee0] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert—
+
+> - Armed Forces Commissioner.
+
+**5.**[^key-1ab261db20ca84bf4a01386c254bdc98][^key-633c0af8392baa635001fd2f30b37fe6] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities), at the appropriate place insert—
+
+> - The Armed Forces Commissioner.
+
+**6.**[^key-5815fa5ff9391540ef46c65191fe6280][^key-8aadfbe4659e1511eaade7a3e181353f] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities), under the heading “Armed forces”, at the appropriate place insert—
+
+> - Armed Forces Commissioner.
+
+## Schedule 2 — Consequential amendments
+
+Section 5
+
+### 1. Equal Pay Act (Northern Ireland) 1970[^key-015141ce6c4281aaef6fcc16f308b2bb][^key-b294aed885de8fc5bb939af6f76c5976]
+
+In section 6A of the Equal Pay Act (Northern Ireland) [1970 (c. 32 (N.I.))](https://www.legislation.gov.uk/apni/1970/32), in subsection (5A)(b)—
+
+- (a) in sub-paragraph (i) for “Service Complaints Ombudsman” substitute “Armed Forces Commissioner”;
+- (b) in sub-paragraph (ii) for “Ombudsman” substitute “Commissioner”.
+
+### 2. House of Commons Disqualification Act 1975[^key-5a48d561aaab42841bc04aee2c506df5][^key-dd01c02d58533cad52ab5b8c7683807f]
+
+In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975, omit the entry relating to the Service Complaints Ombudsman.
+
+### 3. Sex Discrimination (Northern Ireland) Order 1976[^key-743cf393bc73614f617d587d73092310][^key-fe09a4d4bb0f996a6d8c7a072092781a]
+
+In Article 82 of the Sex Discrimination (Northern Ireland) Order 1976 ([S.I. 1976/1042 (N.I. 15)](https://www.legislation.gov.uk/nisi/1976/1042)), in paragraph (9BA)(b)—
+
+- (a) in head (i) for “Service Complaints Ombudsman” substitute “Armed Forces Commissioner”;
+- (b) in head (ii) for “Ombudsman” substitute “Commissioner”.
+
+### 4. Race Relations (Northern Ireland) Order 1997[^key-54ad5f37a53ac3edc2570d4ed4e948f7][^key-1142861da54e5ff1a5f411da79c8f36f]
+
+In Article 71 of the Race Relations (Northern Ireland) Order 1997 ([S.I. 1997/869 (N.I. 6)](https://www.legislation.gov.uk/nisi/1997/869)), in paragraph (8A)(b)—
+
+- (a) in head (i) for “Service Complaints Ombudsman” substitute “Armed Forces Commissioner”;
+- (b) in head (ii) for “Ombudsman” substitute “Commissioner”.
+
+### 5. Working Time Regulations 1998[^key-71b8dc4115d15a10a9e3a7fce6f3f739][^key-5982248e43de1a0b247880cfafbb2cf1]
+
+In regulation 38 of the Working Time Regulations 1998 ([S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833)), in paragraph (3)(c)—
+
+- (a) in paragraph (i) for “Service Complaints Ombudsman” substitute “Armed Forces Commissioner”;
+- (b) in paragraph (ii) for “Ombudsman” substitute “Commissioner”.
+
+### 6. Freedom of Information Act 2000[^key-ef35cfe46430d681d2aa4e11c9750e54][^key-fa2e213fa4463c8f480f45c45b4751de]
+
+In Part 6 of Schedule 1 to the Freedom of Information Act 2000, omit the entry relating to the Service Complaints Ombudsman.
+
+### 7. Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003[^key-9c61993fcac92aa2c5f4be0e644cabb4][^key-dd83366c89fa2255bcd31e385e8103cf]
+
+In regulation 43 of the Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003 ([S.R. (N.I.) 2003 No. 497](https://www.legislation.gov.uk/nisr/2003/497)), in paragraph (8)(c)—
+
+- (a) in head (i) for “Service Complaints Ombudsman” substitute “Armed Forces Commissioner”;
+- (b) in head (ii) for “Ombudsman” substitute “Commissioner”.
+
+### 8. Armed Forces Act 2006[^key-e79c4d1cc1667cae73e0c274b7173c3b][^key-1e15934922caec8a81a489eafbe7fca3]
+
+AFA 2006 is amended as follows.
+
+**9.**[^key-783a576b30a0c1317abfd21a8ede2496][^key-33ad8c6d55bc832f0c1a73c45186f433] For the heading of Part 14A substitute “Addressing service complaints and general service welfare matters”.
+
+**10.**[^key-3ffbefdf1d5e8f91566b04d5d7d41d94][^key-eecbb4a8aa5ef9fdabb6e22343b76f1f] In each of the following places, for “Service Complaints Ombudsman” substitute “Armed Forces Commissioner”—
+
+- (a) section 340B(4)(b);
+- (b) section 340D(6)(a) and (aa);
+- (c) section 340G(3)(a);
+- (d) the italic heading before section 340H;
+- (e) in section 340H—
+  - (i) subsection (1);
+  - (ii) subsection (9C)(a) and (b);
+- (f) section 340I(1);
+- (g) section 340J(1);
+- (h) section 340L(1);
+- (i) section 340M(1)(b);
+- (j) section 340N(1);
+- (k) the italic heading before section 340O;
+- (l) section 340O(1).
+
+**11.**[^key-2385161e15438ea20f82264b05ef37d5][^key-2f00c936ec7887094b9791a8bcfba6b4] In each of the following places, for “Ombudsman” substitute “Commissioner”—
+
+- (a) section 340D(6)(b);
+- (b) in section 340H—
+  - (i) the heading;
+  - (ii) subsection (1) (in the second, third and fourth places);
+  - (iii) subsection (3)(a)(i);
+  - (iv) subsection (4) (in both places);
+  - (v) subsection (7);
+  - (vi) subsection (8);
+  - (vii) subsection (10);
+  - (viii) subsection (11) (in both places);
+- (c) in section 340I—
+  - (i) the heading;
+  - (ii) subsection (3);
+  - (iii) subsection (4) (in both places);
+  - (iv) subsection (5)(a);
+  - (v) subsection (6) (in both places);
+- (d) section 340J(2);
+- (e) section 340K(2);
+- (f) in section 340L—
+  - (i) subsection (2)(a), (b) and (c);
+  - (ii) subsection (3) (in each place);
+  - (iii) subsection (5);
+  - (iv) subsection (6) (in both places);
+- (g) section 340M(1)(c);
+- (h) in section 340N—
+  - (i) subsection (1) (in the second and third places);
+  - (ii) subsection (2);
+  - (iii) subsection (4)(a);
+- (i) in section 340O—
+  - (i) subsection (2)(b) and (c);
+  - (ii) subsection (3);
+  - (iii) subsection (6).
+
+**12.**[^key-33a42f3572b26dc1966f9f519307ac05][^key-609525cdd81766a676b1c547e040b5fa] In each of the following places, for “Ombudsman’s” substitute “Commissioner’s”—
+
+- (a) section 340B(4)(c);
+- (b) section 340G(3)(b);
+- (c) section 340K(4)(a);
+- (d) in section 340L—
+  - (i) subsection (1)(a);
+  - (ii) subsection (2)(a), (b) and (c);
+  - (iii) subsection (4);
+- (e) in section 340O—
+  - (i) subsection (2)(b);
+  - (ii) subsection (6)(b).
+
+**13.**[^key-fcd2875becc1e5b732de476d9c98635b][^key-5d45e2958425f38ba64a25c0009ea25e] In the italic heading before section 340H, at the end insert “of service complaints”.
+
+**14.**[^key-12412a6ea7d8c77b8388a2ccbf5051bb][^key-0b71b2ef7b22222fb5b8addc955abfb8] In the heading of section 340H, at the end insert “of service complaints”.
+
+**15.**[^key-6c394566d53cfb88a10dec82613e223a][^key-3975ce55a45f22c4d22680dc4e821966] In section 340I—
+
+- (a) in the heading, at the end insert “of service complaints”;
+- (b) in each of subsections (1), (2) and (3), after “investigation” insert “under section 340H”.
+
+**16.**[^key-92c1dd4e2ae890136b1cecd52fbb7e7a][^key-f1c5057d70205c6d1591ea9baeb611a1] Before section 340J insert—
+
+> Armed Forces Commissioner investigations: supplementary matters
+
+.
+
+**17.**[^key-a4ca4f684e3219a62a2432b6e6f866f7][^key-fd474e346b23c85a577d14986a8448e2] In section 340J(1), after “investigation” insert “under section 340H or 340IA”.
+
+**18.**[^key-a53ed357e2aeb223ea7f177024948acf][^key-f9ce72b0eb208f9e0971f357f6f79bf4] In section 340K(1)(a), after “investigation” insert “under section 340H or 340IA”.
+
+**19.**[^key-a76a3371875d325902945355cd3028ef][^key-f46711823914ea3d3e9e34bbf18b33db] In each of the following places, for “Service Complaints Ombudsman’s” substitute “Armed Forces Commissioner’s”—
+
+- (a) section 340K(1)(a);
+- (b) the italic heading before section 340N.
+
+**20.**[^key-13a320496a3a80ff55d9214342b9c83a][^key-a3d0440280023e11657622bb794366ca] In section 340L—
+
+- (a) in the heading, at the end insert “: service complaints investigations”;
+- (b) in subsection (1), after “investigation” insert “under section 340H”.
+
+**21.**[^key-794f943500c8ac6f93a6131c1d1cc18e][^key-5a0f08de9b5bc2cd4a7105483d1d032b] In the heading of section 340M, at the end insert “under section 340L”.
+
+**22.**[^key-ad8ad33fa8909261507ebdec5f2c8598][^M_I_6c234ef7-93da-4840-ef38-6958e0e3f402] In section 340N—
+
+- (a) in subsection (1)—
+  - (i) in the words before paragraph (a), after “the communication” insert “(“**P**”)”;
+  - (ii) in each of paragraphs (a) and (b), for “his or her” substitute “P’s”;
+  - (iii) in paragraph (b), for “the person” substitute “P”;
+  - (iv) in the words after paragraph (b), for “officer” substitute “person”;
+- (b) in subsection (2)—
+  - (i) for “officer”, in each place, substitute “person”;
+  - (ii) for “by the person” substitute “by P”;
+- (c) in subsection (3)—
+  - (i) in the words before paragraph (a), for “officer” substitute “person”;
+  - (ii) in each of paragraphs (a), (b) and (c), for “the person” substitute “P”.
+
+**23.**[^key-bf0f1e273be504544ce4e63c8bc2be21][^key-958f788a32cf30854fa2fe294e3e5118] In section 340O(3), for “the report” substitute “a report under subsection (1)”.
+
+**24.**[^key-31adb0e3442216dd0f6b76bf0d0271e1][^key-7480467bae4240d3ba5def87476d985b] In section 374 omit the definition of “the Service Complaints Ombudsman”.
+
+### 25. Equality Act 2010[^key-59649f37f1fffa8a8ae1a1546ea35b59][^key-91625df73e01512ea9a95751840d8050]
+
+In section 121 of the Equality Act 2010, in subsection (2)(b)—
+
+- (a) in sub-paragraph (i) for “Service Complaints Ombudsman” substitute “Armed Forces Commissioner”;
+- (b) in sub-paragraph (ii) for “Ombudsman” substitute “Commissioner”.
+
+### 26. Working Time Regulations (Northern Ireland) 2016[^key-86e71269515caed353c6c4ad53333596][^key-86994a6eba3b3fc5b9a9bd96f0cc6db4]
+
+In regulation 49 of the Working Time Regulations (Northern Ireland) 2016 ([S.R. (N.I.) 2016 No. 49](https://www.legislation.gov.uk/nisr/2016/49)), in paragraph (3)(c)—
+
+- (a) in head (i) for “Service Complaints Ombudsman” substitute “Armed Forces Commissioner”;
+- (b) in head (ii) for “Ombudsman” substitute “Commissioner”.
+
+## Annotations
+
+[^key-0626a5150f41aae1b25ea55a039f0dc2]: Commencement: S. 1 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-f67197cc7bfd13777d97ef04c4c23e32]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/1)[(4)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/4) in force at 2.3.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-9c2cfc7d1a1743bc90d23b5adcd9de4a]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2025/23/section/1/3) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-b80055253b70da3ac8559b4125cd8f43]: Commencement: S. 2 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-d386c34e2327794ab3df0a559b05f427]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/23/section/2) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-b9421daa9e520d648f81a90ffba8b7e5]: Commencement: S. 3 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-2d4372137d54eb9ba0edf192c028312b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/23/section/3) in force at 3.11.2026 by [S.I. 2026/1067](https://www.legislation.gov.uk/uksi/2026/1067), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/1067/regulation/2/a)
+
+[^key-59331cd275b294a2a00ea0e16ee1f629]: Commencement: S. 4 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-1f877c6974644cbdc477aee876e76e70]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/23/section/4) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(c)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-8f45df9c95dc569357d96906c82023a9]: Commencement: S. 5 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-09e59ae299b198ccb96160425bf8f069]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/23/section/5) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(d)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-6fc9fb21f44cb2d86a783763b32243bc]: Commencement: S. 6 in force at Royal Assent, see [s. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/1/a)
+
+[^key-35ad9e143903d822df488d981eb95e14]: Commencement: S. 7 in force at Royal Assent, see [s. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/1/b)
+
+[^key-2fae4d594bdcc0725aa000e670e10d6c]: Commencement: S. 8 in force at Royal Assent, see [s. 7(1)(c)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/1/c)
+
+[^key-c9d8fea557e0a0fe160b2f7715e40c88]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-a0776a6f45985273c853e92796d951ba]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/23/schedule/1/paragraph/1) in force at 2.3.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-82e8c2181f42a437d436a68818dd86d9]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-96e16b97719051db687b4658ead6f5ef]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/23/schedule/1/paragraph/2) in force at 2.3.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-02b12df0e8f46512b37346b65cab0ac3]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-dfed05c16b4c288b29dafd5574bb63c9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/23/schedule/1/paragraph/3) in force at 2.3.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-45ecd4184c1977b291bb2ee5fa43868f]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-0121705be83aadbc7b31f54a9c37bee0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2025/23/schedule/1/paragraph/4) in force at 2.3.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-1ab261db20ca84bf4a01386c254bdc98]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-633c0af8392baa635001fd2f30b37fe6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2025/23/schedule/1/paragraph/5) in force at 2.3.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-5815fa5ff9391540ef46c65191fe6280]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-8aadfbe4659e1511eaade7a3e181353f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2025/23/schedule/1/paragraph/6) in force at 2.3.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-015141ce6c4281aaef6fcc16f308b2bb]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-b294aed885de8fc5bb939af6f76c5976]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/1) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-5a48d561aaab42841bc04aee2c506df5]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-dd01c02d58533cad52ab5b8c7683807f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/2) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-743cf393bc73614f617d587d73092310]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-fe09a4d4bb0f996a6d8c7a072092781a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/3) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-54ad5f37a53ac3edc2570d4ed4e948f7]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-1142861da54e5ff1a5f411da79c8f36f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/4) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-71b8dc4115d15a10a9e3a7fce6f3f739]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-5982248e43de1a0b247880cfafbb2cf1]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/5) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-ef35cfe46430d681d2aa4e11c9750e54]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-fa2e213fa4463c8f480f45c45b4751de]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/6) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-9c61993fcac92aa2c5f4be0e644cabb4]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-dd83366c89fa2255bcd31e385e8103cf]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/7) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-e79c4d1cc1667cae73e0c274b7173c3b]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-1e15934922caec8a81a489eafbe7fca3]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/8) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-783a576b30a0c1317abfd21a8ede2496]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-33ad8c6d55bc832f0c1a73c45186f433]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/9) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-3ffbefdf1d5e8f91566b04d5d7d41d94]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-eecbb4a8aa5ef9fdabb6e22343b76f1f]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/10) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-2385161e15438ea20f82264b05ef37d5]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-2f00c936ec7887094b9791a8bcfba6b4]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/11) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-33a42f3572b26dc1966f9f519307ac05]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-609525cdd81766a676b1c547e040b5fa]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/12) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-fcd2875becc1e5b732de476d9c98635b]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-5d45e2958425f38ba64a25c0009ea25e]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/13) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-12412a6ea7d8c77b8388a2ccbf5051bb]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-0b71b2ef7b22222fb5b8addc955abfb8]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/14) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-6c394566d53cfb88a10dec82613e223a]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-3975ce55a45f22c4d22680dc4e821966]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/15) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-92c1dd4e2ae890136b1cecd52fbb7e7a]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-f1c5057d70205c6d1591ea9baeb611a1]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/16) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-a4ca4f684e3219a62a2432b6e6f866f7]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-fd474e346b23c85a577d14986a8448e2]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/17) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-a53ed357e2aeb223ea7f177024948acf]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-f9ce72b0eb208f9e0971f357f6f79bf4]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/18) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-a76a3371875d325902945355cd3028ef]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-f46711823914ea3d3e9e34bbf18b33db]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/19) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-13a320496a3a80ff55d9214342b9c83a]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-a3d0440280023e11657622bb794366ca]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/20) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-794f943500c8ac6f93a6131c1d1cc18e]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-5a0f08de9b5bc2cd4a7105483d1d032b]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/21) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-ad8ad33fa8909261507ebdec5f2c8598]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^M_I_6c234ef7-93da-4840-ef38-6958e0e3f402]: Commencement: Sch. 2 para. 22 in force at 3.11.2026 by [S.I. 2026/1067](https://www.legislation.gov.uk/uksi/2026/1067), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1067/regulation/2/b)
+
+[^key-bf0f1e273be504544ce4e63c8bc2be21]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-958f788a32cf30854fa2fe294e3e5118]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/23) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-31adb0e3442216dd0f6b76bf0d0271e1]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-7480467bae4240d3ba5def87476d985b]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/24) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-59649f37f1fffa8a8ae1a1546ea35b59]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-91625df73e01512ea9a95751840d8050]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/25) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+
+[^key-86e71269515caed353c6c4ad53333596]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2)
+
+[^key-86994a6eba3b3fc5b9a9bd96f0cc6db4]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/26) in force at 1.4.2026 by [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))

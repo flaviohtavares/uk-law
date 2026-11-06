@@ -1,0 +1,1484 @@
+---
+title: The Vehicle Drivers (Certificates of Professional Competence) Regulations 2007
+id: uksi/2007/605
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-02-28'
+text_date: '2025-02-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2007/605
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/605/pdfs/uksiem_20070605_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/605/pdfs/uksi_20070605_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/605/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Vehicle Drivers (Certificates of Professional Competence) Regulations 2007
+
+> Text as at 2025-02-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2007 No. 605
+
+road traffic
+
+The Vehicle Drivers (Certificates of Professional Competence) Regulations 2007
+
+Made
+
+28th February *2007*
+
+Laid before Parliament
+
+2nd March *2007*
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c18280211], section 101(2) and (3) of the Road Traffic Act 1988 [^c18280221] and, with the consent of the Treasury, section 56(1) and (2) of the Finance Act 1973 [^c18280231].
+
+The Secretary of State for Transport is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to the regulation and supervision of the qualifications and working conditions of persons engaged in road transport [^c18280241].
+
+He has consulted with such representative organisations as he thinks fit in accordance with section 195(2) of the Road Traffic Act 1988.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Vehicle Drivers (Certificates of Professional Competence) Regulations 2007.
+
+(2) These Regulations shall come into force as follows —
+
+- (a) all regulations other than regulation 15 shall come into force on 27th March 2007;
+- (b) in regulation 15 —
+  - (i) paragraph (4), and paragraphs (1) and (5) so far as they relate to that paragraph, shall come into force on 10th September 2008;
+  - (ii) paragraphs (2) and (3), and paragraphs (1) and (5) so far as they are not already in force, shall come into force on 10th September 2009.
+
+(3) These Regulations extend to Northern Ireland except regulation 15.
+
+## 2. Interpretation
+
+(1) In these Regulations —
+
+- [^key-fcdffe551565e40318c16522dcf762c5]...
+- [^key-d2249395868eb76f9424feefae859543]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**the 1988 Act**” means the Road Traffic Act 1988;
+- “**the 1981 Order**” means the Road Traffic (Northern Ireland) Order 1981 [^c18280271];
+- “**the Driving Licences Regulations**” means the Motor Vehicles (Driving Licences) Regulations 1999 [^c18280281];
+- “[^key-eee00bcb5142ba45e27a6e3805b796b2]**the Trade and Cooperation Agreement**” means the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part (as that agreement is modified or supplemented from time to time in accordance with any provision of it or of any other future relationship agreement);
+- “**the Union code**” in relation to a Community licence or a driver attestation means a licence or attestation which bears Union code “95” provided for in Annex I to [Directive 2006/126/EC](https://www.legislation.gov.uk/european/directive/2006/0126) of the European Parliament and of the Council;
+- “**armed forces**” means the naval, military or air forces of the Crown and includes the reserve forces;
+- “bank holiday” means a day to be observed as such under section 1 of, and Schedule 1 to, the Banking and Financial Dealings Act 1971;[^key-a15a9ca30058ac323aad394d723ca1db]
+- “British external licence” has the same meaning as in section 88(8) of the 1988 Act;[^key-009de2cf7918e291ae8ded524794ba92]
+- “candidate” means a person submitting, or seeking to submit, to an initial CPC test;
+- [^key-599a1b1b941951821817c6c7f71dcd43]...
+- “Community licence”—
+  - (a) in relation to Great Britain, has the same meaning as in section 108(1) of the 1988 Act [^c18280291], and
+  - (b) in relation to Northern Ireland, has the same meaning as in Article 2(2) of the 1981 Order;
+- “**competent authority**” means—
+  - (a) in relation to Great Britain, the Secretary of State, and
+  - (b) in relation to Northern Ireland, the Department for Infrastructure[^key-14330ecf4405a7ffa863e57dc6bf2ac5];
+- “[^key-924a3916cb0b847bd511fb7e7550b3f1]**CPC**” means—
+  - (a) a written record certifying a qualification obtained as a result of either having completed the initial qualification requirements for the purposes of Article 6 (CPC certifying the initial qualification) or having completed the training requirements for the purposes of Article 8(1) (CPC certifying periodic training) of Section 1 (certificate of professional competence) of Part B of Annex 31 to the Trade and Cooperation Agreement, whichever is applicable, or
+  - (b) a written record certifying a qualification obtained in a specified EEA state or Gibraltar, as the case may be, and recognised by the competent authority as equivalent to a written record referred to in sub-paragraph (a);
+- “[^key-c008b0502af03c80684b79db9ce0b2ae]**driver card**” means—
+  - (a) a tachograph card for the purposes of point (d) of Article 2(2) of Section 4 (use of tachographs by drivers: definitions) of Part B of Annex 31 to the Trade and Cooperation Agreement, or
+  - (b) a tachograph card issued by a specified EEA state or Gibraltar, as the case may be, and recognised by the competent authority as equivalent to a tachograph card referred to in sub-paragraph (a);
+- “**driving licence**” means, except in regulation 4(8)(b) and (c)—
+  - (a) in relation to Great Britain, a full licence within the meaning of section 108(1) of the 1988 Act [^c18280301], and
+  - (b) in relation to Northern Ireland, a full licence within the meaning of Article 2(2) of the 1981 Order;
+- “[^key-a1fa79051e9ec31fde78d93adb92aaa4]**driver qualification card**” means a card drawn up in accordance with the model reproduced in Appendix 31-B-1-2 (model of a driver qualification card referred to in Article 9 of Section 1 of Part B of Annex 31) to the Trade and Cooperation Agreement and issued by the competent authority, a member State or Gibraltar as if the reference to “member state/UK” is to “member state/UK/specified EEA state/Gibraltar;
+- “**driving test**” means—
+  - (a) in relation to Great Britain, a test of competence prescribed under section 89(3) of the 1988 Act, and
+  - (b) in relation to Northern Ireland, a test of competence prescribed under Article 5(3) of the 1981 Order;
+- “fire and rescue authority”—
+  - (a) in relation to England and Wales[^key-c2e924a0349d9f48d8fbe43799939a00], has the same meaning as in section 1 of the Fire and Rescue Services Act 2004 [^c18280311], [^key-c61fbf68b53b88b0f9fb4dbf4d811413]...
+  - (b) in relation to Northern Ireland, has the same meaning as in article 3 of the Fire and Rescue Services (Northern Ireland) Order 2006,[^key-a95d2f664426b5824b74f566d03479c4] and[^key-751f79fa6e328696b28868f8ac2ddabd]
+  - (c) in relation to Scotland, means the Scottish Fire and Rescue Service;
+- “Gibraltar licence” means a licence to drive a motor vehicle granted under the law of Gibraltar;[^key-4f16067e22c8f42a6e5fc3b1d2a54065]
+- “[^key-052a59b6216b059bbbb94361beca6827]**initial CPC**” means—
+  - (a) a CPC for the purposes of Article 6 of Section 1 (certificate of professional competence: CPC certifying the initial qualification) of Part B of Annex 31 to the Trade and Cooperation Agreement, or
+  - (b) a written record certifying a qualification obtained in a specified EEA state or Gibraltar, as the case may be, and recognised by the competent authority as equivalent to a CPC referred to in sub-paragraph (a);
+- “[^key-7b14579e1042234f616ea42ceb07a675]**initial CPC test**” means the tests for initial qualification referred to in point (ii) of Article 3(1)(a) of Section 1 (certificate of professional competence: system of initial qualification involving only tests) of Part B of Annex 31 to the Trade and Cooperation Agreement;
+- “[^key-89ca6bca655f6dc9f90c556b4ac85e2c]**national driver qualification card**” means a card drawn up in accordance with the model reproduced in Appendix 31-B-1-2 (model of a driver qualification card referred to in Article 9 of Section 1 of Part B) to the Trade and Cooperation Agreement and issued by the competent authority as if—
+  - (a) the reference to “driver qualification card” is to “national driver qualification card”;
+  - (b) the reference to “member state/UK” is to “UK”;
+  - (c) the reference to “Union code” is omitted;
+- “**national periodic CPC**” means a written record certifying a qualification obtained as a result of having completed 35 hours of—
+  - (a) national periodic training,
+  - (b) a combination of any national periodic training and any periodic training,
+  - (c) a combination of any national periodic training and any Swiss periodic training, or
+  - (d) a combination of any national periodic training, any periodic training and any Swiss periodic training;
+- “**national periodic training**” means training complying with the requirements in regulation 7A;
+- “**national periodic training course**” means a course delivered by a person approved under regulation 6 and complying with the requirements in regulation 7A;
+- “**national return to driving course**” means a course delivered by a person approved under regulation 6 and complying with the requirements in regulation 7B;
+- “NHS ambulance service” means—[^key-0f7b1a731a990b53a4bc589f120035df]
+  - (a) an NHS trust or NHS foundation trust established under the National Health Service Act 2006 which has a function of providing ambulance services;
+  - (b) an NHS trust established under the National Health Service (Wales) Act 2006 which has a function of providing ambulance services;
+  - (c) the Scottish Ambulance Service Board; or
+  - (d) the Northern Ireland Ambulance Service Health and Social Care Trust;
+- ”NVT certificate” means an authorisation issued by the competent authority under regulation 4(5)(d) or[^key-b9deaabe2391df65d9667234ad7a338d] 8B(2)[^key-37d0fba76444d14ae39122398be6f89d];
+- “[^key-03cfd6430982bb81a8e82ce909471d19]**periodic CPC**” means—
+  - (a) a CPC for the purposes of Article 8(1) of Section 1 (certificate of professional competence: CPC certifying periodic training) of Part B of Annex 31 to the Trade and Cooperation Agreement, or
+  - (b) a written record certifying a qualification obtained in a specified EEA state or Gibraltar, as the case may be, and recognised by the competent authority as equivalent to a CPC referred to in sub-paragraph (a);
+- “[^key-09f44333a5fec1b18119ca867f078a18]**periodic training**” means—
+  - (a) the training referred to in point (b) of Article 3(1) of Section 1 (certificate of professional competence: system of periodic training) of Part B of Annex 31 to the Trade and Cooperation Agreement, or
+  - (b) training approved by a specified EEA state or Gibraltar which is recognised by the competent authority as equivalent to the training referred to in sub-paragraph (a);
+- “[^key-b2497330d2627ce144d0175848f2f6dc]**periodic training course**” means a course of at least 7 hours of training for the purposes of Section 4 (compulsory periodic training provided for in point (b) of Article 3(1) of Section 1 of Part B of Annex 31) of Appendix 31-B-1-1 to the Trade and Cooperation Agreement;
+- “prison service”—[^key-849daed7149dc430520238297b608dbd]
+  - (a) in relation to England and Wales means—
+    - (i) Her Majesty’s Prison Service; or
+    - (ii) any person acting under a contract for the running of a contracted out prison within the meaning of section 84 of the Criminal Justice Act 1991;
+  - (b) in relation to Northern Ireland means the Northern Ireland Prison Service; and
+  - (c) in relation to Scotland means—
+    - (i) the Scottish Prison Service; or
+    - (ii) any person acting under a contract for the running of a contracted out prison within the meaning of section 106 of the Criminal Justice and Public Order Act 1994;
+- “[^key-2fd8e3231275683dc3378b88e9455dbc]**relevant day**” is to be construed as referring to one of the days referred to in regulation 8(a) to (e), whichever is applicable;
+- “relevant vehicle” means a vehicle for which is required a driving licence of category C, C+E, D or D+E as defined—[^key-ea313c4041280e3d54c03245fe6fa743]
+  - (a) in relation to Great Britain, in Part 1 of Schedule 2 to the Driving Licences Regulations; and
+  - (b) in relation to Northern Ireland, in Part 1 of Schedule 1 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996;
+
+  or a driving licence recognised as equivalent;.
+- “**reserve forces**” has the same meaning as in section 1 of the Reserve Forces Act 1996 [^c18280331];
+- “**road**” means any road open to the public;
+- “[^key-44d4049097471993ad2cc1178298fa0c]**specified EEA state**” means Iceland, the Principality of Liechtenstein or the Kingdom of Norway;
+- “**test pass certificate**” in relation to Great Britain, has the same meaning as in regulation 3(1) of the Driving Licences Regulations and in relation to Northern Ireland, means the certificate referred to in regulation 37(1) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^key-7e73df6f092d26ddfbd15a8fa38add7b];
+- “**third country**” means a country which is not a member State or the United Kingdom[^key-ab8b117f4aac675cffdc905634f3e0ff];
+- “trainer” means a person who provides training or instruction in relation to the initial CPC test;[^key-e1a2b779cf1ceb00545c97321c10dd85]
+- “**vehicle examiner**” means an examiner appointed under section 66A of the 1988 Act [^c18280341] or under Article 74 of the Road Traffic (Northern Ireland) Order 1995 [^c18280351];
+- “**work permit**” has the same meaning as in section 33 of the Immigration Act 1971 [^c18280361];
+- “working day” means—[^key-7e42cab35ac2b8a9f3119bb61e7519d5]
+  - (a) in relation to Great Britain, save for the purposes of regulation 5(5B), (6ZA)(c), (6ZAD) and (6ZAE), a day other than a Saturday, Sunday, bank holiday, Christmas Day or Good Friday;
+  - (b) in relation to Northern Ireland, a day other than a Saturday, Sunday, bank holiday, Christmas Day or Easter Tuesday.
+
+(2) In these Regulations—
+
+- (a)[^key-7995cf4c4b3a8d2b9814b07c7689ab77] except in regulation 9, a reference to a member State includes a reference to a specified EEA state;
+- (b)[^key-d0d7affeb644e0a2472063484a200ebf] save for the purposes of regulation 5A(2A), a reference to a category of relevant vehicle includes references to its sub-categories as defined—
+  - (i) in relation to Great Britain, in Part 1 of Schedule 2 to the Driving Licences Regulations; and
+  - (ii) in relation to Northern Ireland, in Part 1 of Schedule 1 to the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996.
+
+(3)[^key-12a492aa0dd57af1e05f7c2e49f0b387] In these Regulations—
+
+- “Swiss CPC” means a certificate or other document issued by Switzerland and recognised by the competent authority as equivalent to a CPC;
+- “Swiss initial CPC” means a Swiss CPC recognised by the competent authority as equivalent to an initial CPC;
+- “Swiss initial CPC test” means the tests which entitle a person to a Swiss initial CPC and are recognised by the competent authority as equivalent to an initial CPC test;
+- “Swiss licence” means a licence to drive a motor vehicle granted under the law of Switzerland;
+- “Swiss periodic CPC” means a Swiss CPC recognised by the competent authority as equivalent to a periodic CPC;
+- “Swiss periodic training” means the training which entitles a person to a Swiss periodic CPC and is recognised by the competent authority as equivalent to periodic training.
+
+(3A)[^key-898688da7ef9c4b1e4ae84070da9ac4c] For the purposes of these Regulations, Appendix 31-B-1-1 (minimum qualification and training requirements) to the Trade and Cooperation Agreement is to be read as if modified as follows—
+
+- (a) other than in the words before Section 1 (list of subjects), after “transport of goods”, in each place those words occur, insert “or passengers”;
+- (b) in Section 1 (list of subjects)—
+  - (i) after point 1.5 insert—
+
+    > 1.6. Objective: ability to ensure passenger comfort and safety:
+    >
+    > adjusting longitudinal and sideways movements, road sharing, position on the road, smooth breaking, overhang operation, using specific infrastructures (public areas, dedicated lanes), managing conflicts between safe driving and other roles as a driver, interacting with passengers, specificities of certain groups of passengers (disabled persons, children).
+
+    ;
+  - (ii) after point 2.2 insert—
+
+    > 2.3. Objective: to know the regulations governing the carriage of passengers:
+    >
+    > carriage of specific groups of passengers, safety equipment on board buses, safety belts, vehicle load.
+
+    ;
+  - (iii) after point 3.7 insert—
+
+    > 3.8 Objective: to know the economic environment of the carriage of passengers by road and the organisation of the market:
+    >
+    > carriage of passengers by road in relation to other modes of passenger transport (rail, private car), different activities involving the carriage of passengers by road, disability awareness, crossing borders (international transport), organisation of the main types of companies for the carriage of passengers by road.
+
+    ;
+- (c) in Section 2.2(b) (compulsory initial qualification provided for in point (a) of Article 3(1) of Section 1 of Part B of Annex 31: practical test), in point (ii) after “points 1.5” insert “, 1.6”.
+
+(4) In paragraph (3) and regulations 4(9A), 6(16)(f), 9(7)(b)(ii) and 11(2)(c)(ii)[^key-04b153691c70a821a86c3914ce1a0a4b], “recognised” means recognised by the competent authority for the purposes of the provision in question.
+
+(5) The competent authority—
+
+- (a) must publish what is recognised under paragraph (4);
+- (b) may from time to time revise what is recognised under paragraph (4) and must publish the revised information accordingly.
+
+## 3. Persons to whom these Regulations apply
+
+(1) These Regulations apply to any person who drives a relevant vehicle, other than a vehicle to which paragraph (2) applies, on a road and is —
+
+- (za)[^key-417680cb915738dc1748b679a8a218ab] a national of the United Kingdom;
+- (zb) a national of a third country employed or used by an undertaking established in the United Kingdom;
+- (a) a national of a member State; or
+- (b) a national of a third country employed or used by an undertaking established in a member State.
+
+(2) This paragraph applies to a vehicle—
+
+- (a) which it is an offence for that person to drive on any road at a speed greater than 45 kilometres per hour in Great Britain under section 89 of the Road Traffic Regulation Act 1984 [^c18280371] or in Northern Ireland under the Motor Vehicles (Speed Limits) Regulations (Northern Ireland) 1989 [^c18280381];
+- (b) which is being used by, or is under the control of any of the following —
+  - (i) the armed forces;
+  - (ii) a police force;
+  - (iii) a local authority in the discharge of any function conferred on or exercisable by that authority under an order made under section 5 of the Civil Contingencies Act 2004 [^c18280391] or regulations made under section 20 of that Act, [^key-1e538af331ff0c2730dbb13da06aa325]...
+  - (iv) a fire and rescue authority; [^key-54d32f55cc975f64f5eb455f433b2ca8]...
+  - (v)[^key-5c5a9778ff45e0808e20f12e6b82a541] the prison service ; or[^key-ccc6feeb6e2aeda8043e4697d6cc8dc3]
+  - (vi) an NHS ambulance service;
+
+  when the vehicle is being used as a consequence of a task assigned to an authority, force or service specified in this sub-paragraph;
+- (c)[^key-6c7b90024aed556655e2452f4a5737ab] which—
+  - (i) is undergoing road tests for technical development, repair or maintenance purposes;
+  - (ii) is being used for the purpose of submitting it (by previous arrangement for a specified time on a specified date) for a relevant test, or of bringing it away from such a test; or
+  - (iii) is a new or rebuilt vehicle which has not yet been put into service;
+- (d) which is being used in a state of emergency or is assigned to a rescue mission , including the non-commercial transport of humanitarian aid[^key-a72968d6dc87c6c38f64c9d9ec620727];
+- (e)[^key-7ce0991b71b38abd6553301ce34c0c97] which is being used in the course of a driving lesson, a driving test, or additional driving training during work-based learning, for the purpose of enabling that person to obtain a driving licence , a CPC or a national periodic CPC[^key-653d75c437a1f821f1e4aa4871cc5f39], provided—
+  - (i) it is not also being used for the commercial carriage of goods or passengers; and
+  - (ii) in the case of additional driving training during work-based learning, the driver is accompanied by a person who is a qualified driver of that vehicle for the purposes of regulation 16 of the Motor Vehicles (Driving Licences) Regulations 1999 or, in Northern Ireland, regulation 12 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996;
+- (f) which is being used for the non-commercial carriage of passengers or goods [^key-e66b33a026f843eea12130488fa975ec]...;
+- (g) which is carrying material or equipment , including machinery,[^key-75da2dbc030d3ad4f1dd8c575974e653] to be used by that person in the course of his work, provided that driving that vehicle is not his principal activity;[^key-4a33e7e159677111cb00ee57e388cb98]
+- (h) to which sub-paragraphs (a) to (g) do not apply, but which satisfies all of the conditions in paragraph (3) or (3A)[^key-1b0467de62a40efec6f499a0a6fc53e3] .
+
+(3)[^key-09c6c5898a3c531f9dc4f93e993f8692] The conditions referred to in paragraph (2)(h) are that—
+
+- (a) the vehicle is being driven by a person whose principal activity in the course of his work is not driving relevant vehicles;
+- (b) the vehicle is being driven within a 100[^key-b5699c7bd858fbac30a111ce91114daf] kilometre radius of the driver’s base;
+- (c) the driver is the only person being carried on the vehicle;
+- (d) in so far as the vehicle may be carrying goods or burden, the goods or burden must only be equipment, including machinery, that is permanently fixed to the vehicle.
+
+(3A)[^key-f9256c4c5193c046dd6c08c452d3bd61] The conditions referred to in paragraph (2)(h) are that the vehicle is being—
+
+- (a) used by an agricultural, horticultural, forestry, farming or fishery undertaking;
+- (b) used only for carrying goods in the course of that undertaking’s business;
+- (c) driven by a person whose principal activity in the course of their work is not driving relevant vehicles.
+
+(4) In this regulation—
+
+- “driver’s base” means the address at which the driver came on duty immediately following the last period during which he was off-duty for not less than nine hours;
+- “relevant test” means an inspection or test for the purposes of technical development, repair or maintenance carried out—
+  - (a) in Great Britain, by a vehicle examiner; or
+  - (b) in Northern Ireland, at a vehicle testing centre provided or maintained by the Department for Infrastructure[^key-5d821bb168abcb7c800dafac7b50932a] for Northern Ireland under Article 73 of the Road Traffic (Northern Ireland) Order 1995.
+
+## 4. Persons who must take initial CPC test
+
+(1) Except where paragraph (5) , (9) or (9A)[^key-8766a8a1ffd41d7b0de69aa8f6744801] applies and subject to paragraph (7), a person to whom these Regulations apply is not permitted to drive a relevant vehicle on a road on or after the date specified in paragraph (3) unless he has successfully completed the appropriate initial CPC test or Swiss initial CPC test[^key-a8d189c4bbaca61970042834edaf05b0].
+
+(2) For the purposes of this regulation—
+
+- (a) the appropriate initial CPC test or Swiss initial CPC test[^key-0cdc91f253624c82cee8424432cbd9dd] is the test relating to vehicles of the category into which that particular relevant vehicle falls;
+- (b)[^key-637b57c1a8e065ffed66ed955a893654] where Article 5(4) of Section 1 (certificate of professional competence: initial qualification) of Part B of Annex 31 to the Trade and Cooperation Agreement applies, the appropriate initial CPC test must comply with the last paragraph of Section 2.2 (compulsory initial qualification provided for in point (a) of Article 3(1) of Section 1 of Part B of Annex 31: practical test) of Appendix 31-B-1-1 to the Trade and Cooperation Agreement.
+
+(3) The specified date is 10th September 2008 in respect of vehicles in licence category D or D+E and 10th September 2009 in respect of vehicles in licence category C or C+E.
+
+(4) A person may take the initial CPC test whether or not he has been granted a driving licence for a relevant vehicle.
+
+(5) This paragraph applies where—
+
+- (a) a person is undergoing a vocational training course leading to a professional qualification relevant to the carriage by road of passengers or goods (or both) and which is approved by the competent authority as a course to which this paragraph applies;
+- (b) that course lasts at least six months;
+- (c) that person has produced to the competent authority's satisfaction such evidence as that authority may reasonably require that he is undergoing such a course;
+- (d) the competent authority has issued that person with a document authorising him to drive that relevant vehicle for a specified period of up to 12 months while undertaking such a course; and
+- (e) that person is driving within the United Kingdom.
+
+(5A)[^key-d63db851aebd3256ef9ceae730e61a62] A person who wishes the competent authority to issue an NVT certificate to him under paragraph (5)(d) must make a written application to the competent authority and pay to it a fee of £25.
+
+(5B) The competent authority may waive in whole or in part the fee payable under paragraph (5A).
+
+(6) The competent authority may authorise a person under paragraph (5)(d) in respect of only one specified period.
+
+(7) A person is not required to take an initial CPC test relating to vehicles of the category into which that particular relevant vehicle falls if he holds a document described in paragraph (8) —
+
+- (a) on 10th September 2008, if that vehicle falls into category D or D+E;
+- (b) on 10th September 2009, if that vehicle falls into category C or C+E.
+
+(8) That document may be —
+
+- (a) a current driving licence;
+- (b) a current driving licence issued by a member State[^key-cd9c56550276d5745dd11d023c36c1e7]...;
+- (c) a current driving licence recognised as equivalent to a document described in sub-paragraph (a) or (b); or
+- (d) a current test pass certificate entitling its holder to a driving licence authorising the driving of any relevant vehicle.
+
+(9)[^key-bef609160af455fec949900185f8a1cf] This paragraph applies where a person holds—
+
+- (a) a CPC certifying an initial qualification for the purposes of point (a) of Article 6(1) of Section 1 (certificate of professional competence: CPC certifying the initial qualification awarded on the basis of course attendance and a test) of Part B of Annex 31 to the Trade and Cooperation Agreement, or
+- (b) a written record certifying an initial qualification obtained in a specified EEA state or Gibraltar, as the case may be, and recognised by the competent authority as equivalent to a CPC certifying an initial qualification referred to in sub-paragraph (a).
+
+(9A)[^key-13aca83547927447467d72fa831939da] This paragraph applies where a person holds a Swiss initial CPC certifying a qualification which is recognised by the competent authority as equivalent to the qualification referred to in paragraph (9).
+
+(10) A person who has passed the initial CPC test or Swiss initial CPC test[^key-f8bfbf217e555c7952f14d6be775762c] in respect of a vehicle which falls within—
+
+- (a) category C or C+E, or
+- (b) category D or D+E,
+
+need not take another initial CPC test or Swiss initial CPC test to drive any relevant vehicle that falls within the other category referred to in the same sub-paragraph.
+
+## 5. Initial CPC test
+
+(1) The initial CPC test may be organised by the competent authority or by a person approved by it.
+
+(2) The competent authority may grant approval under paragraph (1) subject to such conditions as it thinks fit and provided it is satisfied that the person will —
+
+- (a) make proper arrangements for the conduct of tests,
+- (b) keep proper records of such tests and their results, and
+- (c) notify the competent authority of those results as required by that authority.
+
+(2A)[^key-80748e0b47772f53601223e796d2ddf5] The competent authority may vary any conditions imposed under paragraph (2) by notice in writing to the person to whom the approval was given.
+
+(3) The competent authority may withdraw approval given by it under paragraph (1) by notice in writing to that person from a date specified in the notice.
+
+(4) A person to whom these Regulations apply may take the initial CPC test under this regulation if that person —
+
+- (za)[^key-e0dabfc0efbe416af99146e6ecf9c0a3] is a national of the United Kingdom,
+- (a) is a national of a member State and normally resident in the United Kingdom, or
+- (b) is a national of a third country, and —
+  - (i) employed or used by an undertaking established in the United Kingdom, or
+  - (ii) has been issued with a work permit in the United Kingdom.
+
+(5) The competent authority or person who organises the initial CPC test may make arrangements that all or part of that test is taken at the same time as all or part of a driving test.
+
+(5A)[^key-932dc3175aeffcd6840af22c12f017e7] A person must pass the theoretical test referred to in the table in paragraph (11)[^key-820b259cc70b84d2cbc2ed721f98251e] before applying to take[^key-4147ed654abb788d9a6c99e924751bfe] the practical test referred to there and must pass the practical test not more than 24 months after passing the theoretical test.
+
+(5B)[^key-76b9f4ec308c8f1603ae857a1b69687e] Where a person has failed to pass the theoretical test or the practical test (both as referred to in the table in paragraph (11)[^key-545fd42e70eb5f3d97509fdca9cbac33]), no application may be made by, or in respect of, that person for a test of the same part to be conducted on a day which falls before the expiry of a period of three clear working days commencing with the day after that on which that part of the test was failed.
+
+(6)[^key-8c26a2656496c6e53932bf27177d960a] Subject to paragraph (6ZA), where an initial CPC test is organised by a competent authority, the candidate shall pay to the competent authority the fee determined in accordance with paragraph (11)[^key-3a17255445949fb000e1ad9a5774771b] for the part of the test for which an application for an appointment is made.
+
+(6ZA)[^key-785009db6f07cfe9049f7b9504883ed3] A trainer may, in respect of a candidate who has received, or will receive, from that trainer, training or instruction in Great Britain in relation to the initial CPC test, apply for an appointment in Great Britain for any part of a test referred to in the table in paragraph (11)[^key-56055e06ebbb65b43b2d532c00e9e90f] if the trainer—
+
+- (a) pays to the Secretary of State the fee determined in accordance with paragraph (11)[^key-5a896e2c5c12d23d8c980d7342ef673b] for that part of the test;
+- (b) provides such details relating to the trainer’s business in Great Britain, the appointment sought or the vehicle on which the test is to be taken as the Secretary of State may reasonably require; and
+- (c) undertakes to provide the relevant details relating to the candidate no later than 1600 hours on the day before the last clear working day before the day for which the appointment is made.
+
+(6ZAB) An application under paragraph (6ZA) may be refused where the appointment specified in that application is unavailable or where, in the opinion of the Secretary of State, it is reasonably necessary to do so in the general interests of candidates in Great Britain.
+
+(6ZAC) Where an appointment (“the booked appointment”) for part of a test has been made by or on behalf of a candidate in respect of a particular category of relevant vehicle, no application for a further appointment shall be made for that candidate in relation to that part of the test in respect of that category of relevant vehicle unless—
+
+- (a) the booked appointment has been cancelled;
+- (b) the part of the test due to take place on the day of the booked appointment does not otherwise take place; or
+- (c) subject to paragraph (5B), the candidate fails to pass the test.
+
+(6ZAD) A fee paid pursuant to paragraph (6) may be repaid if notice to cancel the appointment for the part of the test is given to the competent authority not less than three clear working days before the date of the appointment for that part of the test.
+
+(6ZAE) A fee paid pursuant to paragraph (6ZA) may be repaid if notice to cancel the appointment for the part of the test is given to the Secretary of State not less than three clear working days before the date of the appointment for that part of the test.
+
+(6A)[^key-8421207ae845015456b796b0800a08aa] A person approved under paragraph (1) must, in respect of each test which that person is to conduct, pay to the competent authority a fee determined in accordance with paragraph (6AA).
+
+(6AA) The amount of the fee under paragraph (6A) is—
+
+- (a) for a practical test, £41; and
+- (b) for a theoretical test—
+  - (i) £30 if the test is to be conducted before 1st October 2014;
+  - (ii) £27 if the test is to be conducted during the period beginning with 1st October 2014 and ending on 30th September 2015;
+  - (iii) £26 if the test is to be conducted on or after 1st October 2015.
+
+(6ZB)[^key-01f60b1abe292056046315a4aa8866cf] A fee paid pursuant to paragraph (6A) in respect of the practical test may be repaid if the person approved under paragraph (1) gives notice to the competent authority that the appointment for the conduct of that part of the test has been cancelled and the notice was given to the competent authority at any time before the time of the appointment.
+
+(6B)[^key-b624a816adcc32a1b4e23fa76d0bfeba] The competent authority may waive in whole or in part the fee payable under paragraph (6) or (6A).
+
+(7) The sums referred to in paragraphs (6) and (6A)[^key-71b30c6c5834cc964277fcfaabc20d68] shall be payable in addition to any fee that is payable in respect of a driving test all or part of which is taken at the same time as the initial CPC test.
+
+(8)[^key-30dd49a30c9e1abe2302558cde655c71] For the purposes of this regulation, a test commences during normal hours if the time for which the test appointment is made is at or after 0830 hours but not after 1630 hours on a working day.
+
+(9)[^key-0f7cfe3562ec8ef5551e6af2f2d29761] In paragraphs (5B), (6ZA)(c), (6ZAD) and (6ZAE), “working day” means, in Great Britain, a day other than a Sunday, bank holiday, Christmas Day or Good Friday.
+
+(10)[^key-137727efdef949e822e9fa35f1de77c0] In paragraph (6ZA) “relevant details”, in relation to a candidate, means the name and such further details relating to—
+
+- (a) that candidate,
+- (b) the licence that candidate holds,
+- (c) the nature of the test, and
+- (d) the vehicle on which the test is to be taken,
+
+(11)[^key-42ca566eb7ede24da76f8466ab1f4fc6] For the part of the test—
+
+- (a) specified in column (2) of an item in the table;
+- (b) to be commenced at the time of day (if any) specified in column (2); and
+- (c) to be conducted at the time specified in column (3),
+
+the fee payable under paragraph (6) or (6ZA) is the amount specified in column (4).
+
+Table
+
+| (1) Item | *(2)*<br>*Part of test* | *(3)*<br>*Time to be conducted* | *(4)*<br>*Fee £* |
+| --- | --- | --- | --- |
+| 1\. | Theoretical test | Before 1st October 2014 | 30 |
+| 2\. | Theoretical test | During the period beginning with 1st October 2014 and ending on 30th September 2015 | 24 |
+| 3\. | Theoretical test | On or after 1st October 2015 | 23 |
+| 4\. | Practical test commencing during normal hours | Any time | 55 |
+| 5\. | Practical test not commencing during normal hours | Any time | 63 |
+
+## 5A. Further requirements at tests: initial CPC test[^key-82a632416c8ea88bb5570eb1fe925547]
+
+(1) A person submitting himself for either the theoretical test or the practical test shall before the test commences—
+
+- (a) produce to the person conducting the test an appropriate licence authorising him to drive a motor vehicle of a class included in the category in respect of which the test is to be taken [^key-05eb9f6278e34b1dd29a7d30673b13b4]...
+- (aa)[^key-35f6a8ff19c2a3f0d2cb923c8cd3d53f] produce to the person conducting the test their Northern Ireland counterpart, where that person has a Northern Ireland counterpart, if the test is taking place in Northern Ireland; and
+- (b) except where he has produced an appropriate licence containing his photograph, satisfy the person conducting the test as to his identity in accordance with paragraph (3).
+
+(2) A person submitting himself for either the theoretical test or the practical test who produces a licence which fails to satisfy the person conducting the test, after an examination or otherwise, that it is an appropriate licence as required under paragraph (1) must surrender the licence forthwith to the person conducting the test.
+
+(2A)[^key-bb4c6334be6b95cd7fb97def2b386113] For the purposes of the conduct of the practical test referred to in the table in regulation 5(11)[^key-8627c1d339e599032eb57446067b25dc] the candidate shall provide a relevant vehicle which falls within a category or sub-category shown in column (1) of Table 1 in regulation 37[^key-20c8de4fa3bb29df9685b86ef418732a] of the Driving Licences Regulations and which—
+
+- (a) has a power, mass, size or other specification equivalent to or greater than that shown in column (2) of Table 1 in that regulation 37[^key-d9d4bd19829e7d94625640a9abeb34da] in respect of the category or sub-category within which the vehicle falls;
+- (ab)[^key-dcb1d14279862bb48510b6b55e1d8a17] may, during the period beginning with 15th August 2013 and ending with 14th November 2013, where the relevant vehicle provided is one which falls within a category or sub-category and description shown in column 1 of Table 2 in that regulation 37, carry a load of the nature and weight specified in column 2 in respect of the category or sub-category and description within which the vehicle falls;
+- (ac) shall, on or after 15th November 2013, where the relevant vehicle provided is one which falls within a category or sub-category and description shown in column 1 of Table 2 in that regulation 37, carry a load of the nature and weight specified in column 2 in respect of category or sub-category and description within which the vehicle falls;
+- (b) is reasonably representative of the category or sub-category to which it belongs and is otherwise suitable for the purposes of the test;
+- (c) complies with each requirement specified in column (1) of the following table where the vehicle is one which falls within the category or sub-category specified in relation to that requirement in column (2) of the table.
+
+  Table
+
+  | (1) Requirement | (2) Category or sub-category of vehicle |
+  | --- | --- |
+  | The vehicle shall not be carrying goods or burden other than either or both of the following—[^key-2e9265ab210125a4ae585d0d02e09813]<br>(a) any load carried in accordance with regulation 37(7A) of the Driving Licences Regulations for that category or sub-category and description of vehicle;<br>(b) any fixed items which are characteristic of the category or sub-category to which it belongs. | C1, C1+E, C, C+E, D1, D1+E, D, D+E |
+  | The vehicle shall be fitted with linkage and braking mechanisms which are designed for use when the trailer is fully laden | C1+E, C+E, D1+E, D+E |
+  | The vehicle shall be fitted with an anti-lock braking system and a tachograph | C1, C1+E, C, C+E, D1, D1+E, D, D+E |
+  | [^key-26741bf4426456aa0df18c6080d21cf3]. . . | [^key-26741bf4426456aa0df18c6080d21cf3]. . . |
+
+(3) For the purposes of this regulation, a person conducting a test may be satisfied as to a person’s identity from a valid passport or a valid driver card[^key-f159bbaf2e9af928a326eb1d7dbc7d09] [^key-22b391103b7d63105985e07a8eb284b8]....
+
+(4) In this regulation, “appropriate licence” means a licence authorising the person submitting himself for the test to drive a motor vehicle of a class included in the category in respect of which the test is to be taken which—
+
+- (a) is either—
+  - (i) a driving licence;
+  - (ii) a provisional licence within the meaning of section 108(1) of the 1988 Act or article 19D(1) of the 1981 Order; [^key-5b6a8870b78564022fd788d62e3e89b1]...
+  - (iii) a Community licence;
+  - (iv)[^key-14f7632a6b1bebbe4890be883b855ee1] a British external licence; [^key-4da2a8b9a70822cecfe6d7f0e5c9b414]...
+  - (v) a Gibraltar licence ; or[^key-2476cf761b9771206365b4200d788f8a]
+  - (vi) a Swiss licence.
+- (b) is valid at the date of the test; and
+- (c) bears the signature of the person who has submitted himself for the test.
+
+## 5B. Examiner’s right to refuse to conduct test[^key-083218ce8ac51df7753e1846653124af]
+
+(1) The examiner must refuse to conduct—
+
+- (a) the practical test where—
+  - (i) the vehicle submitted for that purpose does not fall within the category in respect of which the theoretical test referred to in regulation 5(5A) was passed; or
+  - (ii) the candidate fails to comply with regulation 5A(2A);
+- (b) the theoretical test or the practical test where the candidate—
+  - (i) fails to comply with regulation 5A(1); or
+  - (ii) appears to the examiner to be someone other than the person whose details were provided pursuant to an undertaking under regulation 5(6ZA)(c).
+
+(2) The examiner may refuse to conduct the theoretical test or the practical test where a trainer has failed to comply with an undertaking given under regulation 5(6ZA)(c).
+
+(3) Any fee paid pursuant to regulation 5(6) or (6ZA)(a) may be repaid where—
+
+- (a) the examiner refused to conduct the test under paragraph (1)(b)(i) because the candidate did not satisfy the examiner as to the candidate’s identity in accordance with regulation 5A(3) and the candidate subsequently satisfies the competent authority as to the candidate’s identity;
+- (b) the examiner refused to conduct the test under paragraph (1)(b)(ii) and the candidate subsequently appears to the examiner to be the person whose details were provided pursuant to an undertaking under regulation 5(6ZA)(c).
+
+(4) In this regulation—
+
+- “examiner” means the person approved under regulation 5(1), the person conducting the test on behalf of the person so approved or the person conducting the test on behalf of the competent authority;
+- “practical test” means the test of that name referred to in the table in regulation 5(11)[^key-5d4feff3d20dbd3ab906770d54c21c70]; and
+- “theoretical test” means the test of that name referred to in the table in regulation 5(11).
+
+## 6. Persons providing training courses[^key-0d3a752ae9c3a384880920d02a2f571e]
+
+(1) This regulation applies to a person who wishes to provide—
+
+- (a) a periodic training course,
+- (b) a national periodic training course, or
+- (c) a national return to driving course.
+
+(2) A person to whom this regulation applies must—
+
+- (a) apply in writing to the competent authority,
+- (b) pay a fee of £1,500, and
+- (c) for each training course which the person proposes to provide, pay a fee equal to £36 multiplied by the proposed duration of the course in hours.
+
+(3) For the purpose of paragraph (2)(c), part of an hour is treated as an hour.
+
+(4) The competent authority may waive the fee specified in paragraph (2)(b) or (c) or (12)(b) in whole or in part if it thinks fit.
+
+(5) An application under paragraph (2)(a) must be accompanied by—
+
+- (a) the documents specified in Section 5.1 (approval of the initial qualification and periodic training provided for in Section 1 of Part B of Annex 31) of Appendix 31-B-1-1 to the Trade and Cooperation Agreement, and
+- (b) such other documents as the competent authority may reasonably require.
+
+(6) The competent authority may approve in writing—
+
+- (a) that person to provide training courses subject to the conditions specified in Section 5.2 (approval of the initial qualification and periodic training provided for in Section 1 of Part B of Annex 31) of Appendix 31-B-1-1 to the Trade and Cooperation Agreement, including the last two paragraphs of that Section;
+- (b) each training course which that person wishes to provide.
+
+(7) The competent authority’s approval under paragraph (6)(a) is valid for five years beginning with either—
+
+- (a) a date specified by the competent authority in its written approval under that paragraph, or
+- (b) where no date is specified by the competent authority, the day after the date on which the competent authority gives its written approval under that paragraph.
+
+(8) The competent authority’s approval under paragraph (6)(b) is valid for one year beginning with either—
+
+- (a) a date specified by the competent authority in its written approval under that paragraph, or
+- (b) where no date is specified by the competent authority, the day after the date on which the competent authority gives its written approval under that paragraph.
+
+(9) If it appears to the competent authority that—
+
+- (a) any conditions of an approval given under paragraph (6)(a) are not being complied with,
+- (b) a person approved under paragraph (6)(a) is not complying with the requirement in paragraph (15) (approved person to satisfy themselves as to the identity of person taking course),
+- (c) a person approved under paragraph (6)(a) is not complying with the requirement in regulation 7(1) (approved person to notify competent authority of training completed, etc), or
+- (d) an approval under paragraph (6)(a) or (b) or (13) was given in error,
+
+the competent authority may send notice to the person to whom the approval was given that it is minded to withdraw or suspend its approval.
+
+(10) A person who receives a notice under paragraph (9) may make representations to the competent authority within the period of 28 days beginning with the day on which that person received the notice.
+
+(11) The competent authority must—
+
+- (a) take any representations received under paragraph (10) into account, and
+- (b) send a notice to that person stating whether or not its approval is withdrawn or suspended.
+
+(12) A person approved under paragraph (6)(a) who wishes to provide a training course which has not been approved by the competent authority—
+
+- (a) may at any time request that authority’s approval for that course, and
+- (b) must pay to that authority the fee prescribed in paragraph (2)(c).
+
+(13) If the competent authority gives approval in response to a request under paragraph (12), that approval is valid for one year beginning with either a date specified by the competent authority or, where no date is specified by the competent authority, the day after the date on which the competent authority gives its approval under this paragraph.
+
+(14) A person to whom these Regulations apply may take a training course approved under this regulation if that person is—
+
+- (a) a national of the United Kingdom;
+- (b) a national of a member State and normally resident in the United Kingdom;
+- (c) a national of a member State and authorised to work in the United Kingdom;
+- (d) a national of a third country and authorised to work in the United Kingdom.
+
+(15) A person approved to provide a training course under this regulation must satisfy themselves as to the identity of the person taking the course before the course commences.
+
+(16) The means by which a person must satisfy themselves as to the person’s identity under paragraph (15) are—
+
+- (a) an appropriate licence as defined in regulation 5A(4),
+- (b) a valid passport,
+- (c) a valid driver card,
+- (d) a valid driver qualification card,
+- (e) a valid national driver qualification card, or
+- (f) a valid Swiss CPC containing a photograph of its holder and recognised by the competent authority as a valid form of identification for the purposes of this regulation.
+
+(17) In this regulation, “**training course**” means a periodic training course, a national periodic training course or a national return to driving course.
+
+## 6A. Appeals in relation to Great Britain[^key-57adf762dc037de93f03bdbc9d1cca2c]
+
+(1) A person who is aggrieved by a decision of the competent authority in relation to Great Britain—
+
+- (a) not to approve a person to provide training courses under regulation 6(6)(a);
+- (b) not to approve a training course which a person wishes to provide under regulation 6(6)(b);
+- (c) to withdraw or suspend an approval under regulation 6(11);
+- (d) not to approve a training course under regulation 6(13),
+
+may appeal to the First-tier Tribunal.
+
+(2) On the appeal, the Tribunal may make such order for the grant or refusal of an approval for the person or course or for the withdrawal, suspension or continuation of an approval, as the case may be, as it thinks fit.
+
+(3) An order on an appeal under paragraph (1)(a) or (c) may direct that an application by the appellant for an approval to provide training courses under regulation 6(6)(a) shall not be entertained before the expiration of such period, not exceeding four years beginning with the day on which the order is made, as may be specified in the order.
+
+(4) If the Tribunal considers that any evidence adduced on an appeal has not been adduced to the competent authority before it gave the decision to which the appeal relates, the Tribunal may, instead of making the order under paragraph (2), remit the matter to the competent authority for it to reconsider the decision.
+
+(5) In this regulation, “**training course**” means a periodic training course, a national periodic training course or a national return to driving course.
+
+## 6B. Review and appeal of decisions in relation to Northern Ireland[^key-809522b83c2193fd072a0cf020614e77]
+
+(1) A person who is aggrieved by a decision of the competent authority in relation to Northern Ireland—
+
+- (a) not to approve a person to provide training courses under regulation 6(6)(a);
+- (b) not to approve a training course which a person wishes to provide under regulation 6(6)(b);
+- (c) to withdraw or suspend an approval under regulation 6(11);
+- (d) not to approve a training course under regulation 6(13),
+
+may by notice in writing to that competent authority apply for a review of the decision within 28 days beginning with the date on which notice of the decision was sent.
+
+(2) Following a review under paragraph (1) the competent authority may grant, refuse, withdraw, suspend or continue an approval, as the case may be, as it thinks fit.
+
+(3) The competent authority must, within 56 days beginning with the day on which the application for review was made, give notice in writing of the review decision to the aggrieved person setting out the particulars of the reasons for its decision.
+
+(4) A person who is aggrieved by a review decision may appeal to a court of summary jurisdiction.
+
+(5) In this regulation, “**training course**” means a periodic training course, a national periodic training course or a national return to driving course.
+
+## 7. Record to be kept by competent authority of periodic training courses, national periodic training courses and national return to driving courses[^key-8bf3835988f14c4119fbc98ffce935e8]
+
+(1) A person (“**P**”) approved by the competent authority under regulation 6(6)(a) must—
+
+- (a) notify that authority each time a person to whom P has provided training has completed—
+  - (i) a periodic training course,
+  - (ii) a national periodic training course, or
+  - (iii) a national return to driving course, and
+- (b) upon each notification pay to the authority a fee equal to the sum of £1.25 multiplied by the duration of the course in hours.
+
+(2) For the purpose of paragraph (1)(b), part of an hour is treated as an hour.
+
+(3) The competent authority may waive the fee specified in paragraph (1)(b) in whole or in part if it thinks fit.
+
+(4) The competent authority must maintain a record of the training notified to it under paragraph (1).
+
+## 7A. Requirements of national periodic training courses[^key-4ef8d8b27cbb18d16cb60d9fa57a1562]
+
+(1) Subject to paragraphs (2) to (4), a national periodic training course must comply with the requirements of Section 4 (compulsory periodic training provided for in point (b) of Article 3(1) of Section 1 of Part B of Annex 31) of Appendix 31-B-1-1 to the Trade and Cooperation Agreement.
+
+(2) A national periodic training course may be delivered in periods of no less than three and a half hours.
+
+(3) The periods of training referred to in paragraph (2) may be delivered on separate days, which need not be consecutive days.
+
+(4) A national periodic training course must be carried out in the United Kingdom.
+
+## 7B. Eligibility for, and requirements of, national return to driving courses
+
+(1) An eligible person may undertake a national return to driving course.
+
+(2) A person is eligible under paragraph (1) if—
+
+- (a) that person has held a valid driver qualification card, national driver qualification card or Swiss CPC within the two years immediately preceding the start date of the national return to driving course,
+- (b) that driver qualification card, national driver qualification card or Swiss CPC expired a minimum of 60 days prior to the start date of the national return to driving course, and
+- (c) that person has not completed a national return to driving course within the five years immediately preceding the start date of the national return to driving course.
+
+(3) Subject to paragraphs (4) and (5), a national return to driving course must comply with the requirements of Section 4 (compulsory periodic training provided for in point (b) of Article 3(1) of Section 1 of Part B of Annex 31) of Appendix 31-B-1-1 to the Trade and Cooperation Agreement.
+
+(4) A national return to driving course must—
+
+- (a) comprise 7 hours of periodic training which may be delivered over two days provided that those two days are consecutive, and
+- (b) be carried out in the United Kingdom.
+
+(5) A maximum of 2 hours of a national return to driving course may be delivered by e-learning.
+
+(6) A person who completes a national return to driving course under this regulation may, before the expiry of the one-year national driver qualification card issued under regulation 8AC or 8AD, complete an additional 28 hours of—
+
+- (a) periodic training,
+- (b) national periodic training,
+- (c) Swiss periodic training,
+- (d) a combination of any periodic training and any national periodic training,
+- (e) a combination of any periodic training and any Swiss periodic training,
+- (f) a combination of any national periodic training and any Swiss periodic training, or
+- (g) a combination of any national periodic training, any periodic training and any Swiss periodic training.
+
+(7) The completion of a national return to driving course does not count towards a person obtaining a periodic CPC or a national periodic CPC unless the additional 28 hours training needed to obtain that periodic CPC or national periodic CPC is completed in accordance with paragraph (6).
+
+(8) In this regulation, “**e-learning**” means training which—
+
+- (a) is undertaken without the supervision or direction of a person approved under regulation 6 and using information and communication technology tools, and
+- (b) complies with the requirements in Section 4 (compulsory periodic training provided for in point (b) of Article 3(1) of Section 1 of Part B of Annex 31) of Appendix 31-B-1-1 to the Trade and Cooperation Agreement.
+
+## 8. Definition of “relevant day” in regulations 8A, 8AA and 8AC to 9[^key-7a46150ad30b3f22421caf069fac61f8]
+
+In regulations 8A, 8AA and 8AC to 9, “**relevant day**” means—
+
+- (a) the day on which the person obtained an initial CPC or a Swiss initial CPC, if the person holds an initial CPC or a Swiss initial CPC,
+- (b) the day on which the person’s initial CPC or Swiss initial CPC expired, if the person—
+  - (i) holds a periodic CPC, a national periodic CPC or a Swiss periodic CPC, and
+  - (ii) obtained that periodic CPC, national periodic CPC or Swiss periodic CPC before the day on which the person’s initial CPC or Swiss initial CPC expired,
+- (c) the day on which the person obtained a periodic CPC, a national periodic CPC or a Swiss periodic CPC, if the person—
+  - (i) holds a periodic CPC, a national periodic CPC or a Swiss periodic CPC, and
+  - (ii) obtained that periodic CPC, national periodic CPC or Swiss periodic CPC after the day on which the person’s initial CPC or Swiss initial CPC expired,
+- (d) the day on which the person’s last periodic CPC, national periodic CPC or Swiss periodic CPC expired, if the person—
+  - (i) holds a periodic CPC, a national periodic CPC or a Swiss periodic CPC, and
+  - (ii) obtained that periodic CPC, national periodic CPC or Swiss periodic CPC before the day on which the person’s last periodic CPC, national periodic CPC or Swiss periodic CPC expired, or
+- (e) the day on which the person obtained a periodic CPC, a national periodic CPC or a Swiss periodic CPC, if the person—
+  - (i) holds a periodic CPC, a national periodic CPC or a Swiss periodic CPC, and
+  - (ii) obtained that periodic CPC, national periodic CPC or Swiss periodic CPC after the day on which the person’s last periodic CPC, national periodic CPC or Swiss periodic CPC expired.
+
+## 8A. Issue of driver qualification card
+
+(1) This regulation applies to a person who holds a driving licence in the form of a photocard and is—
+
+- (a) a national of the United Kingdom;
+- (b) a national of a member State and normally resident in the United Kingdom;
+- (c) a national of a member State and authorised to work in the United Kingdom;
+- (d) a national of a third country and authorised to work in the United Kingdom.
+
+(2) Subject to paragraph (3), the competent authority must issue a driver qualification card to a person to whom this regulation applies for a period of five years beginning with—
+
+- (a) the relevant day if it is satisfied that—
+  - (i) the person holds an initial CPC as a result of passing the initial CPC test in accordance with regulation 5, or
+  - (ii) the person holds a periodic CPC as a result of completing 35 hours of periodic training and the completion of that training has been notified to the competent authority under regulation 7(1), or
+- (b) the day on which the person completed the national return to driving course if it is satisfied that—
+  - (i) the person holds a periodic CPC as a result of completing a national return to driving course and 28 hours of periodic training in accordance with regulation 7B(6), and
+  - (ii) the completion of that training has been notified to the competent authority under regulation 7(1).
+
+(3) The competent authority must issue a driver qualification card to a person to whom this regulation applies for a period of five years beginning with the day on which the person obtained a periodic CPC if—
+
+- (a) the person holds a valid national driver qualification card,
+- (b) the person requests the issue of a driver qualification card, and
+- (c) it is satisfied that the person—
+  - (i) holds a periodic CPC as a result of completing 35 hours of periodic training, and
+  - (ii) the completion of that training has been notified to the competent authority under regulation 7(1).
+
+(4) The national driver qualification card held by a person referred to in paragraph (3) expires on the day on which the competent authority issues a driver qualification card to that person.
+
+(5) The competent authority must issue a driver qualification card to a person to whom this regulation applies for a period referred to in paragraph (6) if—
+
+- (a) the person held a Community licence bearing the Union code, and
+- (b) exchanged that licence for a driving licence.
+
+(6) The period referred to in paragraph (5) is a period beginning with the date of issue of the driver qualification card and ending with the date of expiry of the Union code.
+
+## 8AA. Application for driver qualification card
+
+(1) This regulation applies to a person other than a person to whom regulation 8A applies who—
+
+- (a) has passed the initial CPC test in accordance with regulation 5,
+- (b) is a qualifying licence holder, has completed the required training and falls within regulation 6(14), or
+- (c) is a qualifying licence holder, has completed a national return to driving course, and—
+  - (i) has completed 28 hours of periodic training or Swiss periodic training in accordance with regulation 7B(6), or
+  - (ii) has completed a combination of 28 hours of any periodic training and any Swiss periodic training in accordance with regulation 7B(6).
+
+(2) To obtain a driver qualification card, a person to whom this regulation applies must—
+
+- (a) make an application to the competent authority, and
+- (b) pay the application fee of £25.
+
+(3) The application must include—
+
+- (a) if requested by the competent authority, a photograph of the applicant;
+- (b) in the case of an application by a person referred to in paragraph (1)(b) or (c), such documents or information—
+  - (i) relating to any training which has not been notified to the competent authority under regulation 7(1), and
+  - (ii) which the competent authority may require.
+
+(4) The competent authority may waive the fee specified in paragraph (2)(b) in whole or in part if it thinks fit.
+
+(5) On receipt of the application and the payment of any fee, the competent authority must issue a driver qualification card to a person to whom this regulation applies for a period of five years beginning with—
+
+- (a) the relevant day if it is satisfied that—
+  - (i) the person holds an initial CPC as a result of passing the initial CPC test in accordance with regulation 5, or
+  - (ii) the person holds a periodic CPC as a result of completing the required training and it has been notified of any training completed by the person which falls within regulation 7(1), or
+- (b) the day on which the person completed the national return to driving course if it is satisfied that—
+  - (i) the person holds a periodic CPC as a result of completing the training referred to in paragraph (1)(c), and
+  - (ii) it has been notified of any training completed by the person which falls within regulation 7(1).
+
+(6) In this regulation—
+
+- “**qualifying licence holder**” means a person who holds—
+  - (a) a Community licence,
+  - (b) a British external licence,
+  - (c) a Gibraltar licence,
+  - (d) a Swiss licence, or
+  - (e) a driving licence where some of the person’s periodic training has not been notified to the competent authority under regulation 7(1);
+- “**required training**” means 35 hours of—
+  - (a) periodic training where at least 7 hours of that training is periodic training undertaken in the United Kingdom,
+  - (b) Swiss periodic training, or
+  - (c) a combination of any periodic training and any Swiss periodic training.
+
+## 8AB. Exchange of a driver qualification card issued outside the United Kingdom or of a Swiss CPC
+
+(1) This regulation applies to a person who—
+
+- (a) is—
+  - (i) a national of the United Kingdom;
+  - (ii) a national of a member State and normally resident in the United Kingdom;
+  - (iii) a national of a member State and authorised to work in the United Kingdom;
+  - (iv) a national of a third country and authorised to work in the United Kingdom,
+- (b) holds—
+  - (i) a valid driver qualification card issued by a member State or Gibraltar;
+  - (ii) a valid Swiss CPC, and
+- (c) holds a driving licence.
+
+(2) To exchange a driver qualification card or a Swiss CPC referred to in paragraph (1)(b) for a driver qualification card issued by the competent authority, a person to whom this regulation applies must—
+
+- (a) make an application to the competent authority, and
+- (b) pay the application fee of £25.
+
+(3) The application must include—
+
+- (a) the name, address and telephone number of the person;
+- (b) the number described as the driver number in the person’s driving licence;
+- (c) the person’s request to exchange the person’s driver qualification card or Swiss CPC for a driver qualification card issued by the competent authority;
+- (d) the person’s driver qualification card or Swiss CPC.
+
+(4) The competent authority may waive the fee specified in paragraph (2)(b) in whole or in part if it thinks fit.
+
+(5) On receipt of the application and the payment of any fee, the competent authority must issue a driver qualification card to a person to whom this regulation applies for a period beginning with the date of issue of the driver qualification card and ending with the date of expiry of the driver qualification card or Swiss CPC referred to in paragraph (1)(b).
+
+## 8AC. Issue of national driver qualification card
+
+(1) This regulation applies to a person who holds a driving licence in the form of a photocard and is—
+
+- (a) a national of the United Kingdom;
+- (b) a national of a member State and normally resident in the United Kingdom;
+- (c) a national of a member State and authorised to work in the United Kingdom;
+- (d) a national of a third country and authorised to work in the United Kingdom.
+
+(2) The competent authority must issue a national driver qualification card to a person to whom this regulation applies for a period of five years beginning with the relevant day if it is satisfied that—
+
+- (a) the person holds a national periodic CPC as a result of completing 35 hours of national periodic training or a combination of any periodic training and national periodic training, and
+- (b) the completion of that training has been notified to the competent authority under regulation 7(1).
+
+(3) The competent authority must issue a national driver qualification card to a person to whom this regulation applies for a period of five years beginning with the day on which the person completed the national return to driving course if it is satisfied that—
+
+- (a) the person holds a national periodic CPC as a result of completing a national return to driving course and 28 hours of national periodic training in accordance with regulation 7B(6), and
+- (b) the completion of that training has been notified to the competent authority under regulation 7(1).
+
+(4) The competent authority must issue a national driver qualification card to a person to whom this regulation applies for a period of five years beginning with the day on which the person completed the national return to driving course if it is satisfied that—
+
+- (a) the person holds a national periodic CPC as a result of completing a national return to driving course and 28 hours of training which is a combination of any periodic training and any national periodic training in accordance with regulation 7B(6), and
+- (b) the completion of that training has been notified to the competent authority under regulation 7(1).
+
+(5) The competent authority must issue a national driver qualification card to a person to whom this regulation applies for a period of one year beginning with the day on which the person completed the national return to driving course if it is satisfied that—
+
+- (a) the person has completed the course, and
+- (b) the completion of that course has been notified to the competent authority under regulation 7(1).
+
+## 8AD. Application for national driver qualification card
+
+(1) This regulation applies to a person other than a person to whom regulation 8AC applies who—
+
+- (a) is a qualifying licence holder, has completed the required training and falls within regulation 6(14),
+- (b) is a qualifying licence holder, has completed a national return to driving course, and—
+  - (i) has completed 28 hours of national periodic training in accordance with regulation 7B(6),
+  - (ii) has completed a combination of 28 hours of any national periodic training and any periodic training in accordance with regulation 7B(6),
+  - (iii) has completed a combination of 28 hours of any national periodic training and any Swiss periodic training in accordance with regulation 7B(6), or
+  - (iv) has completed a combination of 28 hours of any national periodic training, any periodic training and any Swiss periodic training in accordance with regulation 7B(6), or
+- (c) is a qualifying licence holder and has completed a national return to driving course.
+
+(2) To obtain a national driver qualification card, a person to whom this regulation applies must—
+
+- (a) make an application to the competent authority, and
+- (b) pay the application fee of £25.
+
+(3) The application must include—
+
+- (a) if requested by the competent authority, a photograph of the applicant;
+- (b) in the case of an application by a person referred to in paragraph (1)(a) or (b), such documents or information—
+  - (i) relating to any training which has not been notified to the competent authority under regulation 7(1), and
+  - (ii) which the competent authority may require.
+
+(4) The competent authority may waive the fee specified in paragraph (2)(b) in whole or in part if it thinks fit.
+
+(5) On receipt of the application and the payment of any fee, the competent authority must issue a national driver qualification card to a person to whom this regulation applies for a period of five years beginning with—
+
+- (a) the relevant day if it is satisfied that—
+  - (i) the person holds a national periodic CPC as a result of completing the required training, and
+  - (ii) it has been notified of any training completed by the person which falls within regulation 7(1), or
+- (b) the day on which the person completed the national return to driving course if it is satisfied that—
+  - (i) the person holds a national periodic CPC as a result of completing the training referred to in paragraph (1)(b), and
+  - (ii) it has been notified of any training completed by the person which falls within regulation 7(1).
+
+(6) On receipt of the application and the payment of any fee, the competent authority must issue a national driver qualification card to a person to whom this regulation applies for a period of one year beginning with the day on which the person completed the national return to driving course if it is satisfied that—
+
+- (a) the person has completed the course, and
+- (b) the completion of that course has been notified to the competent authority under regulation 7(1).
+
+(7) In this regulation—
+
+- “**combined training**” means training which is—
+  - (a) a combination of any national periodic training and any periodic training,
+  - (b) a combination of any national periodic training and any Swiss periodic training, or
+  - (c) a combination of any national periodic training, any periodic training and any Swiss periodic training;
+- “**qualifying licence holder**” means a person who holds—
+  - (a) a Community licence,
+  - (b) a British external licence,
+  - (c) a Gibraltar licence,
+  - (d) a Swiss licence, or
+  - (e) a driving licence where some of the person’s periodic training has not been notified to the competent authority under regulation 7(1);
+- “**required training**” means 35 hours of—
+  - (a) national periodic training, or
+  - (b) combined training.
+
+## 8B. Damaged, lost or stolen documents[^key-874c12d500eb6d9f2b4e7413fed16ab3]
+
+(1) Where a driver qualification card, a national driver qualification card or an NVT certificate is damaged, lost or stolen, the person to whom that card or certificate was issued must—
+
+- (a) notify the competent authority in writing of that damage, loss or theft as soon as practicable, and
+- (b) provide such information or documents concerning the damage, loss or theft as the competent authority may require.
+
+(2) Where the competent authority is notified that a driver qualification card, a national driver qualification card or an NVT certificate is damaged, lost or stolen under paragraph (1), it must, upon payment to it of a fee of £25, issue a replacement document to the person to whom that document was originally issued.
+
+(3) The competent authority may waive the fee specified in paragraph (2) in whole or in part if it thinks fit.
+
+(4) If a driver qualification card, a national driver qualification card or an NVT certificate reported lost or stolen under paragraph (1) is subsequently found—
+
+- (a) if it is in the possession of the person to whom it was issued, that person must return it to the competent authority as soon as practicable;
+- (b) if it is not in the possession of the person to whom it was issued but that person becomes aware that it has been found, that person—
+  - (i) must take all reasonable steps to take possession of it, and
+  - (ii) if successful, must return it to the competent authority as soon as practicable.
+
+(5) A person who does not comply with the requirements of paragraph (1) or (4) is guilty of an offence.
+
+(6) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+## 9. Requirement to hold, validity and time limits of CPC, national periodic CPC or Swiss CPC[^key-13eb5e495e45b7296ba6319ca0dc125f]
+
+(1) Subject to paragraphs (2) and (3), a CPC, national periodic CPC or a Swiss CPC is valid for a period of five years beginning with the relevant day.
+
+(2) A periodic CPC or a national periodic CPC is valid for a period of five years beginning with the day on which the person completed a national return to driving course if a person to whom these Regulations apply holds that CPC as a result of completing the training referred to in regulations 8A(2)(b), 8AA(5)(b), 8AC(3) and (4) and 8AD(5)(b).
+
+(3) An initial CPC obtained by a relevant licence holder in a member State, a specified EEA state or Gibraltar or a Swiss initial CPC is valid for the relevant period beginning with the relevant day.
+
+(4) Except where paragraph (5) applies, a person to whom these Regulations apply is not permitted to drive a relevant vehicle on a road unless—
+
+- (a) the person holds a valid CPC, national periodic CPC or Swiss CPC, or
+- (b) the person—
+  - (i) has completed a national return to driving course, and
+  - (ii) a period not exceeding one year beginning with the day on which the person completed that national return to driving course has elapsed.
+
+(5) A person is not required to hold a CPC, a national periodic CPC or a Swiss CPC where regulation 4(5) applies to that person.
+
+(6) Where paragraph (4) applies, a person who has completed periodic training, national periodic training or Swiss periodic training in respect of a vehicle which falls within—
+
+- (a) category C or C+E, or
+- (b) category D or D+E,
+
+need not complete further periodic training, national periodic training or Swiss periodic training to drive any relevant vehicle that falls within another category referred to in either sub-paragraph.
+
+(7) In this regulation—
+
+- (a) “**member State**” does not include a reference to a specified EEA state;
+- (b) “**relevant period**” means the period of time which—
+  - (i) for the purpose of Article 8(2)(a) of Section 1 (certificate of professional competence: CPC certifying periodic training) of Part B of Annex 31 to the Trade and Cooperation Agreement, applies in the member State in which the initial CPC was obtained, or
+  - (ii) is recognised by the competent authority as equivalent to the period of time referred to in paragraph (i) and applies in a specified EEA state, Switzerland or Gibraltar;
+- (c) “**relevant licence holder**” means a person who holds—
+  - (i) a Community licence;
+  - (ii) a British external licence;
+  - (iii) a Gibraltar licence;
+  - (iv) a Swiss licence;
+- (d) references to a CPC, a national periodic CPC or a Swiss CPC are to a CPC, a national periodic CPC or a Swiss CPC relating to motor vehicles of the category into which the vehicle the person referred to in paragraph (4) drives falls.
+
+## 10. Offence of driving without a CPC
+
+(1) A person who does not comply with regulation 4(1) or 9(4)[^key-0df633fc64173c806fb5cf561ad7a7ef] is guilty of an offence.
+
+(2) A person who causes or permits another person to drive a relevant vehicle on a road in breach of regulation 4(1) or 9(4)[^key-0b5fa033cb2e504b82ca38f54d8d85c0] is guilty of an offence.
+
+(3) A person guilty of an offence under this regulation shall be liable upon summary conviction to a fine not exceeding level 3 on the standard scale.
+
+## 11. Requirement to carry and produce evidence of CPC or of training exemption in vehicle
+
+(1)[^key-f3ed06a5d38694ba146e7cbe75c4c912] Subject to paragraph (4), a person (“**P**”) who is required by virtue of regulation 9(4)—
+
+- (a) to hold a CPC, a national periodic CPC or a Swiss CPC, or
+- (b) to have completed a national return to driving course,
+
+is guilty of an offence if P does not carry in the relevant vehicle which P is driving evidence of that CPC, national periodic CPC, Swiss CPC or completion of that national return to driving course as specified in paragraph (2).
+
+(2)[^key-116c271c2d9bffe2901e70655c0a4a13] The evidence referred to in paragraph (1) is—
+
+- (a) in the case of a CPC—
+  - (i) a valid driver qualification card;
+  - (ii) a Community licence bearing the Union code;
+  - (iii) a driver attestation, provided for in Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072) of the European Parliament and of the Council as it has effect in EU law as amended from time to time, granted to the driver by a member State and, if issued on or after May 2020, bearing the Union code;
+  - (iv) any other written record obtained by the driver in a member State or Gibraltar certifying an initial CPC or a periodic CPC;
+- (b) in the case of a national periodic CPC, a valid national driver qualification card;
+- (c) in the case of a Swiss CPC—
+  - (i) a Swiss CPC;
+  - (ii) any other document issued to the driver by Switzerland certifying a Swiss initial CPC or a Swiss periodic CPC and recognised by the competent authority as evidence of such for the purposes of this regulation;
+- (d) in the case of having completed a national return to driving course, a valid national driver qualification card.
+
+(3)[^key-0f2baa70f36f65a6c4da2a743d9c40ff] A person (“**P**”) to whom regulation 4(9) applies, or who holds an initial CPC obtained in a member State or Gibraltar, is guilty of an offence if P does not carry in the relevant vehicle P is driving evidence as specified in paragraph (2)(a) of the initial CPC that P holds.
+
+(3A)[^key-1b033984e42c0c7c83d36f52b87aec6d] A person (“**P**”) to whom regulation 4(9A) applies, or who holds a Swiss initial CPC, is guilty of an offence if P does not carry in the relevant vehicle P is driving evidence as specified in paragraph (2)(c) of the Swiss initial CPC that P holds.
+
+(4)[^key-77078593e111b694defee1f2959f5ba1] Paragraph (1) does not apply to a person—
+
+- (a) who has been issued with a driver qualification card or national driver qualification card[^key-5ba7de039dd96d7a955ef8aec78519a7] by the competent authority under whichever of regulations 8A to 8AD applies[^key-7bb490a0209d6f8f1ea03ffb15247aac] but has not yet received it; or
+- (b) whose driver qualification card or national driver qualification card[^key-46adebc649af55542a5f915c659f7a5f] has been damaged, lost or stolen, who has notified the competent authority under regulation 8B(1) and who has paid the fee specified in regulation 8B(2)[^key-06f2f98d4b7e2610fcdce25c23ac18b1] but who has not yet received a replacement card.
+
+(5)[^key-d02f56b504e98467a01624b05c60dd9d] Subject to paragraph (5A), a person (“**P**”) to whom regulation 4(5) applies is guilty of an offence if P does not carry an NVT certificate in the relevant vehicle P is driving.
+
+(5A)[^key-3d870cfd00254ac1f7c5f34793f1d4a7] Paragraph (5) does not apply to a person—
+
+- (a) who has been issued with an NVT certificate by the competent authority but has not yet received it; or
+- (b) whose NVT certificate has been damaged, lost or stolen, who has notified the competent authority under regulation 8B(1) and who has paid the fee specified in regulation 8B(2)[^key-86b9053a30813c88c34e1cd0f2a75575] but who has not yet received a replacement certificate.
+
+(5B) In paragraphs (4)(b) and (5A)(b), the reference to the fee specified in regulation 8B(2)[^key-c48e6dce818f562c95b1138c7469b12c] is a reference to the fee insofar as it has not been waived under regulation 8B(3)[^key-2048046de929a22a79b2b0dc99d276f2].
+
+(5C)[^key-5f1866fac723c1b915a1b9463d4f83ae] Paragraph (5D) applies if it appears to—
+
+- (a) in Great Britain, a stopping officer, or
+- (b) in Northern Ireland, a vehicle examiner,
+
+that the vehicle a person is driving could be a relevant vehicle.
+
+(5D) The stopping officer or vehicle examiner may direct the driver to stop the vehicle for the purpose of enabling a vehicle examiner to exercise the powers under paragraph (6).
+
+(6) A police constable or vehicle examiner may at any time require a person to whom paragraph (1), (3) , (3A)[^key-af4703a6c8de25ff988ed23234619275] or (5) applies to produce [^key-f10a83e457d521520424b7b6ba8cfa1f]... the evidence or document, as the case may be, referred to in that paragraph.
+
+(7)[^key-fad3af708686505c2c59d3554e2083d6] A person who fails to produce that evidence or document when required to do so under paragraph (6) is guilty of an offence.
+
+(8) A person guilty of an offence under this regulation is[^key-eb470398b7090c09bfcd88bbe90ddd72] liable upon summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(9)[^key-0df7c5a46cd9061337dd23d1111542a3] In this regulation “stopping officer” means an officer appointed under section 66B of the 1988 Act.
+
+## 12. Document errors[^key-aeb7a347d0920b9e6882a2418c261b56]
+
+(1) This regulation applies where it appears to the competent authority that—
+
+- (a) an NVT certificate,
+- (b) a driver qualification card issued by it under regulation 8A, 8AA or 8AB, or
+- (c) a national driver qualification card issued by it under regulation 8AC or 8AD,
+
+was granted in error, or with an error or omission in the particulars specified in it.
+
+(2) The competent authority may serve a notice in writing on the person in receipt of a certificate or card to which paragraph (1) applies revoking the NVT certificate, driver qualification card or national driver qualification card, as the case may be, and requiring the person to surrender it to that authority without delay.
+
+(3) A person upon whom a notice is served under paragraph (2) must comply with that notice.
+
+(4) On surrender of a driver qualification card or a national driver qualification card under paragraph (3), the competent authority may issue a new card to that person free of charge subject to paragraph (5).
+
+(5) Where it appears to the competent authority that the driver qualification card or national driver qualification card surrendered to it under paragraph (3) was issued in consequence of an error, omission or other act attributable to the fault of the holder of that card, it may issue a new card upon payment of a fee of £25.
+
+(6) Where the name of the holder of the driver qualification card or national driver qualification card, as the case may be, as specified on that card ceases to be correct, its holder must as soon as reasonably practicable surrender that card to the competent authority.
+
+(7) On surrender of a driver qualification card or a national driver qualification card under paragraph (6), and payment to the competent authority of a fee of £25, the competent authority must issue a new card to that person.
+
+(8) The competent authority may require a person to provide evidence of that person’s name, place and date of birth before issuing a new driver qualification card or national driver qualification card to that person under paragraph (4), (5) or (7).
+
+(9) A person who fails to comply with the duty in paragraph (3) or (6) without reasonable excuse is guilty of an offence.
+
+(10) A person guilty of an offence under this regulation is liable upon summary conviction to a fine not exceeding level 3 on the standard scale.
+
+## 13. Forgery and false statements[^key-4477ebcc2d0fb549dab382246fc84890]
+
+(1) A person (“**P**”) is guilty of offence if, with intent to deceive—
+
+- (a) P forges, alters or uses any document referred to in regulation 11(2),
+- (b) P lends to, or allows to be used by, any other person such a document, or
+- (c) P makes, or has in their possession, any document so closely resembling such a document as to be calculated to deceive.
+
+(2) In the application of paragraph (1) to England and Wales and Northern Ireland, “**forges**” means makes a false document in order that it may be used as genuine.
+
+(3) A person who knowingly makes a false statement for the purpose of obtaining the issue of—
+
+- (a) a driver qualification card under regulation 8A, 8AA or 8AB;
+- (b) a national driver qualification card under regulation 8AC or 8AD;
+- (c) an NVT certificate,
+
+is guilty of an offence.
+
+(4) A person guilty of an offence under paragraph (1) or (3) is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding three months or a fine not exceeding the statutory maximum, or both, or
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
+
+(5) Subject to paragraph (6), summary proceedings for an offence to which this regulation relates may be brought within a period of six months beginning with the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings came to the prosecutor’s knowledge.
+
+(6) No such proceedings may be brought by virtue of this regulation more than three years after the commission of the offence.
+
+(7) For the purposes of this regulation, a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in that prosecutor’s opinion to warrant the proceedings came to that prosecutor’s knowledge is conclusive evidence of that fact.
+
+(8) A certificate stating that matter and purporting to be so signed is to be treated as being so signed unless the contrary is proved.
+
+(9) In relation to proceedings in Scotland, section 136(3) of the Criminal Procedure (Scotland) Act 1995 (date of commencement of proceedings) applies for the purposes of this regulation as it applies for the purposes of that section.
+
+## 14. Power to seize document in respect of which offences may have been committed
+
+(1) If a constable or a vehicle examiner has reasonable cause to believe that a document carried in a motor vehicle or by the driver of the vehicle is a document in relation to which an offence has been committed under regulation 13, he may seize it.
+
+(2) When a document is seized under paragraph (1) and paragraph (3) applies, either the driver or owner of the vehicle shall be summoned before a magistrates' court or, in Scotland, the sheriff to account for his possession of the document.
+
+(3) This paragraph applies where the document is detained and neither the driver nor owner of the vehicle has previously been charged with an offence in relation to the document under regulation 13.
+
+(4) The court or sheriff must make such order respecting the disposal of the document and award such costs as the justice of the case may require.
+
+(5) For the purposes of paragraphs (2) and (3), “**owner**”, in relation to a vehicle which is the subject of a hiring or hire-purchase agreement, means the person in possession of the vehicle under that agreement.
+
+## 14A. Review[^key-6adfbc0727bb5f6cf68ca5ba4559d287]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) A report under paragraph (1) must be published before 16th May 2029.
+
+(3) Subsequent reports must be published at intervals not exceeding five years.
+
+(4) In carrying out a review under this regulation the Secretary of State must, so far as is reasonable, have regard to how the obligations included in Section 1 (certificate of professional competence) of Part B of Annex 31 and Appendices 31-B-1-1 (minimum qualification and training requirements) and 31-B-1-2 (model of a driver qualification card referred to in Article 9 of Section 1 of Part B) to the Trade and Cooperation Agreement are implemented by the other party to such agreement.
+
+(5) A report published under this regulation must—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a),
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way that involves less onerous regulatory provision.
+
+(6) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015.
+
+## 15. Amendment of the Driving Licences Regulations
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+(1) Regulation 9 of the Driving Licences Regulations (minimum ages for holding or obtaining licences) is amended as follows.
+
+(2) Omit paragraph (5).
+
+(3) For paragraphs (7) and (8) substitute—
+
+> (7) In item 7, the age of 18 is substituted for the age of 21 in relation to a motor vehicle of a class included in category C or C+E where the person driving the vehicle —
+>
+> - (a) has an initial qualification authorising him to drive motor vehicles of that class,
+> - (b) is using the vehicle as described in regulation 3(2)(e) of the Vehicle Drivers (Certificates of Professional Competence) Regulations 2007,
+> - (c) is authorised by such document as is referred to in regulation 4(5)(d) of those Regulations to drive motor vehicles of that class, or
+> - (d) by reason of being a person in relation to whom regulation 4(7) of those Regulations applies, is not required to have an initial qualification as described in sub–paragraph (a).
+
+(4) For paragraph (9) substitute—
+
+> (9) In item 7, the age of 18 is substituted for the age of 21 in relation to a motor vehicle of a class included in category D or D+E, other than sub-category D1 or D1+E, where the person driving the vehicle —
+>
+> - (a) has an initial qualification authorising him to drive motor vehicles of that class and is either —
+>   - (i) engaged in the carriage of passengers on a regular service over a route which does not exceed 50 kilometres, or
+>   - (ii) not engaged in the carriage of passengers,
+> - (b) is using the vehicle as described in regulation 3(2)(e) of the Vehicle Drivers (Certificates of Professional Competence) Regulations 2007,
+> - (c) is authorised by such document as is referred to in regulation 4(5)(d) of those Regulations to drive motor vehicles of that class, or
+> - (d) by reason of being a person in relation to whom regulation 4(7) of those Regulations applies, is not required to have an initial qualification relating to motor vehicles of that class.
+>
+> (9A) In item 7, the age of 18 is substituted for the age of 21 in relation to a motor vehicle of a class included in sub-category D1 or D1+E where the person driving the vehicle —
+>
+> - (a) has an initial qualification authorising him to drive motor vehicles of that class,
+> - (b) is using the vehicle as described in regulation 3(2)(e) of the Vehicle Drivers (Certificates of Professional Competence) Regulations 2007,
+> - (c) is authorised by such document as is referred to in regulation 4(5)(d) of those Regulations to drive motor vehicles of that class, or
+> - (d) by reason of being a person to whom regulation 4(7) of those Regulations applies, is not required to have an initial qualification relating to motor vehicles of that class.
+>
+> (9B) In item 7, the age of 20 is substituted for the age of 21 in relation to a motor vehicle of a class include in category D or D+E, other than sub-category D1 or D1+E, where the person driving the vehicle —
+>
+> - (a) has an initial qualification authorising him to drive motor vehicles of that class, and
+> - (b) is engaged in the carriage of passengers otherwise than on such a service as is described in paragraph (9)(a)(i).
+
+(5) Omit paragraph 13(b) and (c) and insert after sub–paragraph (c)—
+
+> - (d) in paragraphs (7), (9), (9A) and (9B), “**initial qualification**” means such initial qualification as is provided for in Article 3(1)(a) of Council Directive [2003/59/EC](https://www.legislation.gov.uk/eudr/2003/59) of the European Parliament and of the Council on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers;
+> - (e) in paragraphs (9) and (9B), expressions which are also used in that Directive have the same meanings as in that Directive.
+
+S.J. Ladyman
+
+Minister of State
+
+Department for Transport
+
+We consent to the making of these Regulations
+
+Frank Roy
+
+Claire Ward
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Council Directive [2003/59/EC](https://www.legislation.gov.uk/european/directive/2003/0059) of the European Parliament and of the Council of 15 July 2003 on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers. In brief, the Directive requires such drivers to take an initial practical and theoretical driving test, valid for five years and 35 hours of periodic training every five years.
+
+These Regulations extend to the United Kingdom, except regulation 15 which extends to Great Britain only.
+
+*Regulation 2* provides that in respect of Great Britain the competent authority is the Secretary of State and in respect of Northern Ireland it is the Department of the Environment.
+
+*Regulation 3* describes the categories of driver in respect of which the Regulations apply. Broadly, these are professional bus and lorry drivers. The main exceptions are those driving emergency vehicles, vehicles used by the police or armed forces, and vehicles used for training or testing purposes.
+
+*Regulation 4* prohibits any new driver from driving a bus on or after 10th September 2008 or a lorry on or after 10th September 2009 (“the relevant implementation date”) on a public road unless that driver has passed a theory and practical driving test, referred to as an “**initial CPC**” test. That test is more extensive than the current driving test and may be taken at the same time as that driving test. Drivers undergoing a vocational training course may be exempted up to 12 months from taking that test by the competent authority. Drivers who hold a bus or lorry driving licence before the relevant implementation date (“drivers with acquired rights”) are also exempt from taking the initial CPC test.
+
+*Regulation 5* allows the competent authority or a person approved by it to organise provision of initial CPC tests. Any person who takes the initial CPC test must pay £30 for the theory part of the test and £41 for the practical part of the test. This is additional to any fee that the applicant must pay for a driving test which he takes for a driving licence.
+
+*Regulation 6* allows the competent authority to approve persons to provide periodic training courses. Such a person must pay a fee of £1,500 for such approval which is valid for five years. In addition he must pay to the competent authority £250 for approval for each course which he proposes to provide. Such approval is valid for one year. Each course must last at least seven hours.
+
+*Regulation 7* requires each person who provides periodic training to notify the competent authority each time a course of periodic training has been completed. The competent authority must keep a record of such courses which have been completed.
+
+*Regulation 8* provides for a person who has passed the initial CPC test or completed 35 hours of periodic training to apply to the competent authority for a driver qualification card. The competent authority must issue such person with a driver qualification card upon payment of a fee of £25.
+
+*Regulation 9* prohibits anyone from driving a bus or lorry unless that person has passed the initial CPC test within the previous 5 years or has completed 35 hours of periodic training within the previous 5 years. Drivers with acquired rights who do not need to take the initial CPC test must complete 35 hours periodic training by 10th September 2013 in respect of bus drivers and by 10th September 2014 in respect of lorry drivers.
+
+*Regulation 10* makes it an offence for a person to drive without a CPC as required by the regulations. This is punishable with a fine up to level 3 on the standard scale.
+
+*Regulation 11* requires a driver who is required to have a CPC or who is exempt because he is undergoing an approved national vocational training course to carry evidence of that entitlement while driving and to produce it on demand by a police constable or vehicle examiner. Failure to do so is an offence punishable with a fine up to level 3 on the standard scale.
+
+*Regulation 12* enables the competent authority to issue a new driver qualification card or a document authorising driving whilst undergoing an approved national vocational training course if that card or document contains any errors, including if the name ceases to be correct. A fee of £25 is payable if the name ceases to be correct or if the error was the card holder's fault. Otherwise issue of a new card is free of charge. Failure to surrender a card or document with errors is an offence punishable with a fine up to level 3 on the standard scale.
+
+*Regulation 13* makes it an offence for a person to forge or make false statements with respect to any document which evidences CPC entitlement or a training exemption. Such an offence is punishable on summary conviction with a fine up to the statutory maximum or on indictment to up to two years imprisonment or a fine or both.
+
+*Regulation 14* allows constables and examiners to seize any documents in respect of which an offence concerning evidence of CPC entitlement or a training exemption may have been committed under the regulations.
+
+*Regulation 15* amends the Motor Vehicles (Driving Licences) Regulations so that the new minimum age requirements in the Directive apply to bus and lorry drivers who have passed the initial CPC test. Broadly, 18 is substituted for the age of 21 in respect of bus drivers and lorry drivers provided that, in the case of the former, the driver is carrying passengers on a route which does not exceed 50 kilometres or does not carry passengers at all. For other bus drivers, age 20 is substituted for 21.
+
+A copy of the regulatory impact assessment prepared in respect of these Regulations is available from the Driving Standards Agency, Policy Branch, Stanley House, 56 Talbot Street, Nottingham, NG1 5EJ or at www.dsa.gov.uk. .It can also be accessed on the Office of Public Information website at www.opsi.gov.uk. A copy of the transposition note is also available from the Driving Standards Agency at the same address or at www.dsa.gov.uk.
+
+## Annotations
+
+[^c18280211]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c18280221]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52); [section 101](https://www.legislation.gov.uk/uksi/2007/605/section/101) was amended by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974).
+
+[^c18280231]: Marginal citation: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51).
+
+[^c18280241]: Marginal citation: [S.I. 1975/1707](https://www.legislation.gov.uk/uksi/1975/1707).
+
+[^key-fcdffe551565e40318c16522dcf762c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) omitted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-d2249395868eb76f9424feefae859543]: Textual amendment: Words in reg. 2(1) omitted (25.1.2016) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2015 (S.I. 2015/2024)](https://www.legislation.gov.uk/uksi/2015/2024), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2024/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2015/2024/regulation/3/1/a)
+
+[^c18280271]: Marginal citation: S.I. [1981 No. 154](https://www.legislation.gov.uk/ukcm/1981/154) (N.I.1).
+
+[^c18280281]: Marginal citation: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864).
+
+[^key-eee00bcb5142ba45e27a6e3805b796b2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-a15a9ca30058ac323aad394d723ca1db]: Textual amendment: Words in reg. 2(1) inserted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2010/865/regulation/3/a/i)
+
+[^key-009de2cf7918e291ae8ded524794ba92]: Textual amendment: Words in reg. 2(1) inserted (18.10.2011) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2011 (S.I. 2011/2324)](https://www.legislation.gov.uk/uksi/2011/2324), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2324/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/2324/regulation/3/a)
+
+[^key-599a1b1b941951821817c6c7f71dcd43]: Textual amendment: Words in reg. 2(1) omitted (22.7.2020) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/2/b)
+
+[^c18280291]: Marginal citation: In section 108, the definition of “Community licence” was amended by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974).
+
+[^key-14330ecf4405a7ffa863e57dc6bf2ac5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(c)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/c) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-924a3916cb0b847bd511fb7e7550b3f1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(d)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/d) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-c008b0502af03c80684b79db9ce0b2ae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(e)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/e) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^c18280301]: Marginal citation: In section 108, the definition of “full licence” was inserted by the [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c.22)](https://www.legislation.gov.uk/ukpga/1989/22), [section 7](https://www.legislation.gov.uk/ukpga/1989/22/section/7) and Schedule 13, paragraph 15(c).
+
+[^key-a1fa79051e9ec31fde78d93adb92aaa4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(f)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/f) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-c2e924a0349d9f48d8fbe43799939a00]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 87(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/87/a)
+
+[^c18280311]: Marginal citation: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21); section 1 was amended by the Civil Contingencies Act 2004(c.36), section 7 and Schedule 2, Part 1, paragraph 10(1) and (2).
+
+[^key-c61fbf68b53b88b0f9fb4dbf4d811413]: Textual amendment: Word in reg. 2(1) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 87(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/87/b)
+
+[^key-a95d2f664426b5824b74f566d03479c4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(g)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/g) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-751f79fa6e328696b28868f8ac2ddabd]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 87(c)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/87/c)
+
+[^key-4f16067e22c8f42a6e5fc3b1d2a54065]: Textual amendment: Words in reg. 2(1) inserted (18.10.2011) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2011 (S.I. 2011/2324)](https://www.legislation.gov.uk/uksi/2011/2324), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2324/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2011/2324/regulation/3/b)
+
+[^key-052a59b6216b059bbbb94361beca6827]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(h)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/h) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-7b14579e1042234f616ea42ceb07a675]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(i)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/i) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-89ca6bca655f6dc9f90c556b4ac85e2c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(j)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/j) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-0f7b1a731a990b53a4bc589f120035df]: Textual amendment: Words in reg. 2(1) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/2/c)
+
+[^key-b9deaabe2391df65d9667234ad7a338d]: Textual amendment: Words in reg. 2(1) inserted (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2008/1965/regulation/4)
+
+[^key-37d0fba76444d14ae39122398be6f89d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(k)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/k) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-03cfd6430982bb81a8e82ce909471d19]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(l)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/l) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-09f44333a5fec1b18119ca867f078a18]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(m)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/m) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-b2497330d2627ce144d0175848f2f6dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(n)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/n) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-849daed7149dc430520238297b608dbd]: Textual amendment: Words in reg. 2(1) inserted (25.1.2016) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2015 (S.I. 2015/2024)](https://www.legislation.gov.uk/uksi/2015/2024), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2024/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2015/2024/regulation/3/1/b)
+
+[^key-2fd8e3231275683dc3378b88e9455dbc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(o)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/o) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-ea313c4041280e3d54c03245fe6fa743]: Textual amendment: Words in reg. 2(1) substituted (25.1.2016) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2015 (S.I. 2015/2024)](https://www.legislation.gov.uk/uksi/2015/2024), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2024/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2015/2024/regulation/3/1/c)
+
+[^c18280331]: Marginal citation: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).
+
+[^key-44d4049097471993ad2cc1178298fa0c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(1)(p)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/1/p) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-7e73df6f092d26ddfbd15a8fa38add7b]: Textual amendment: Words in reg. 2(1) added (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2010/865/regulation/3/a/ii)
+
+[^key-ab8b117f4aac675cffdc905634f3e0ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/1) inserted (31.12.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1004)](https://www.legislation.gov.uk/uksi/2018/1004), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1004/regulation/1), [3(g)](https://www.legislation.gov.uk/uksi/2018/1004/regulation/3/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e1a2b779cf1ceb00545c97321c10dd85]: Textual amendment: Words in reg. 2(1) inserted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2010/865/regulation/3/a/iii)
+
+[^c18280341]: Marginal citation: Section 66A was inserted by the Road Traffic Act 1991 (c .40), section 9(1) and amended by the [Goods Vehicles (Licensing of Operators) Act 1995 (c.23)](https://www.legislation.gov.uk/ukpga/1995/23), [section 60(1)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/1) and Schedule 7, paragraph 11.
+
+[^c18280351]: Marginal citation: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994).
+
+[^c18280361]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77); the definition of “work permit” was amended by the [British Nationality Act 1981 (c. 6)](https://www.legislation.gov.uk/ukpga/1981/6), [Schedule 4](https://www.legislation.gov.uk/ukpga/1981/6/schedule/4), [paragraph 7](https://www.legislation.gov.uk/ukpga/1981/6/paragraph/7). There are other amendments to section 33 which are not relevant to these Regulations.
+
+[^key-7e42cab35ac2b8a9f3119bb61e7519d5]: Textual amendment: Words in reg. 2(1) inserted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [3(a)(iv)](https://www.legislation.gov.uk/uksi/2010/865/regulation/3/a/iv)
+
+[^key-7995cf4c4b3a8d2b9814b07c7689ab77]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/2/a) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/2) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-d0d7affeb644e0a2472063484a200ebf]: Textual amendment: Reg. 2(2)(b) substituted (25.1.2016) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2015 (S.I. 2015/2024)](https://www.legislation.gov.uk/uksi/2015/2024), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2024/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/2024/regulation/3/2)
+
+[^key-12a492aa0dd57af1e05f7c2e49f0b387]: Textual amendment: Reg. 2(3)-(5) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/3)
+
+[^key-898688da7ef9c4b1e4ae84070da9ac4c]: Textual amendment: [Reg. 2(3A)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/3A) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/3) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-04b153691c70a821a86c3914ce1a0a4b]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2007/605/regulation/2/4) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/3/4) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-417680cb915738dc1748b679a8a218ab]: Textual amendment: [Reg. 3(1)(za)](https://www.legislation.gov.uk/uksi/2007/605/regulation/3/1/za)[(zb)](https://www.legislation.gov.uk/uksi/2007/605/regulation/3/1/zb) inserted (31.12.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1004)](https://www.legislation.gov.uk/uksi/2018/1004), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1004/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1004/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c18280371]: Marginal citation: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^c18280381]: Marginal citation: S.R. [1989 No. 203](https://www.legislation.gov.uk/ukcm/1989/203).
+
+[^c18280391]: Marginal citation: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36).
+
+[^key-1e538af331ff0c2730dbb13da06aa325]: Textual amendment: Word in reg. 3(2)(b)(iii) omitted (25.1.2016) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2015 (S.I. 2015/2024)](https://www.legislation.gov.uk/uksi/2015/2024), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2024/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2015/2024/regulation/4/2/a)
+
+[^key-54d32f55cc975f64f5eb455f433b2ca8]: Textual amendment: Word in reg. 3(2)(b)(iv) omitted (22.7.2020) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/4/a/i)
+
+[^key-5c5a9778ff45e0808e20f12e6b82a541]: Textual amendment: Reg. 3(2)(b)(v) inserted (25.1.2016) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2015 (S.I. 2015/2024)](https://www.legislation.gov.uk/uksi/2015/2024), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2024/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2015/2024/regulation/4/2/c)
+
+[^key-ccc6feeb6e2aeda8043e4697d6cc8dc3]: Textual amendment: Reg. 3(2)(b)(vi) and word inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/4/a/ii)
+
+[^key-6c7b90024aed556655e2452f4a5737ab]: Textual amendment: Reg. 3(2)(c) substituted (13.11.2013) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2013 (S.I. 2013/2667)](https://www.legislation.gov.uk/uksi/2013/2667), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2667/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2667/regulation/2/2)
+
+[^key-a72968d6dc87c6c38f64c9d9ec620727]: Textual amendment: Words in reg. 3(2)(d) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/4/b)
+
+[^key-7ce0991b71b38abd6553301ce34c0c97]: Textual amendment: Reg. 3(2)(e) substituted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/4/c)
+
+[^key-653d75c437a1f821f1e4aa4871cc5f39]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2007/605/regulation/3/2/e) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/4/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-e66b33a026f843eea12130488fa975ec]: Textual amendment: Words in reg. 3(2)(f) omitted (22.7.2020) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/4/d)
+
+[^key-75da2dbc030d3ad4f1dd8c575974e653]: Textual amendment: Words in reg. 3(2)(g) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/4/e)
+
+[^key-4a33e7e159677111cb00ee57e388cb98]: Textual amendment: Reg. 3(2)(h) inserted (13.11.2013) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2013 (S.I. 2013/2667)](https://www.legislation.gov.uk/uksi/2013/2667), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2667/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2667/regulation/2/3)
+
+[^key-1b0467de62a40efec6f499a0a6fc53e3]: Textual amendment: Words in reg. 3(2)(h) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/4/f)
+
+[^key-09c6c5898a3c531f9dc4f93e993f8692]: Textual amendment: Reg. 3(3)(4) added (13.11.2013) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2013 (S.I. 2013/2667)](https://www.legislation.gov.uk/uksi/2013/2667), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2667/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/2667/regulation/2/4)
+
+[^key-b5699c7bd858fbac30a111ce91114daf]: Textual amendment: Word in reg. 3(3)(b) substituted (25.1.2016) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2015 (S.I. 2015/2024)](https://www.legislation.gov.uk/uksi/2015/2024), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2024/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/2024/regulation/4/3)
+
+[^key-f9256c4c5193c046dd6c08c452d3bd61]: Textual amendment: Reg. 3(3A) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(4)(g)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/4/g)
+
+[^key-5d821bb168abcb7c800dafac7b50932a]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2007/605/regulation/3/4/b) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/4/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-8766a8a1ffd41d7b0de69aa8f6744801]: Textual amendment: Words in reg. 4(1) substituted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/5/a/i)
+
+[^key-a8d189c4bbaca61970042834edaf05b0]: Textual amendment: Words in reg. 4(1) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/5/a/ii)
+
+[^key-0cdc91f253624c82cee8424432cbd9dd]: Textual amendment: Words in reg. 4(2)(a) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/5/b)
+
+[^key-637b57c1a8e065ffed66ed955a893654]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2007/605/regulation/4/2/b) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/5/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-d63db851aebd3256ef9ceae730e61a62]: Textual amendment: Reg. 4(5A)(5B) inserted (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2008/1965/regulation/5)
+
+[^key-cd9c56550276d5745dd11d023c36c1e7]: Textual amendment: Words in [reg. 4(8)(b)](https://www.legislation.gov.uk/uksi/2007/605/regulation/4/8/b) omitted (31.12.2020) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1004)](https://www.legislation.gov.uk/uksi/2018/1004), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1004/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/1004/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bef609160af455fec949900185f8a1cf]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/uksi/2007/605/regulation/4/9) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/5/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-13aca83547927447467d72fa831939da]: Textual amendment: Reg. 4(9A) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/5/c)
+
+[^key-f8bfbf217e555c7952f14d6be775762c]: Textual amendment: Words in reg. 4(10) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/5/d)
+
+[^key-80748e0b47772f53601223e796d2ddf5]: Textual amendment: Reg. 5(2A) added (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/6/a)
+
+[^key-e0dabfc0efbe416af99146e6ecf9c0a3]: Textual amendment: [Reg. 5(4)(za)](https://www.legislation.gov.uk/uksi/2007/605/regulation/5/4/za) inserted (31.12.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1004)](https://www.legislation.gov.uk/uksi/2018/1004), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1004/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/1004/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-932dc3175aeffcd6840af22c12f017e7]: Textual amendment: Reg. 5(5A) added (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/6/b)
+
+[^key-820b259cc70b84d2cbc2ed721f98251e]: Textual amendment: Words in reg. 5(5A) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/4/2)
+
+[^key-4147ed654abb788d9a6c99e924751bfe]: Textual amendment: Words in reg. 5(5A) substituted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2010/865/regulation/4/a)
+
+[^key-76b9f4ec308c8f1603ae857a1b69687e]: Textual amendment: Reg. 5(5B) inserted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2010/865/regulation/4/b)
+
+[^key-545fd42e70eb5f3d97509fdca9cbac33]: Textual amendment: Words in reg. 5(5B) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/4/3)
+
+[^key-8c26a2656496c6e53932bf27177d960a]: Textual amendment: Reg. 5(6) substituted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2010/865/regulation/4/c)
+
+[^key-3a17255445949fb000e1ad9a5774771b]: Textual amendment: Words in reg. 5(6) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/4/4)
+
+[^key-785009db6f07cfe9049f7b9504883ed3]: Textual amendment: Reg. 5(6ZA)-(6ZAE) inserted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2010/865/regulation/4/d)
+
+[^key-56055e06ebbb65b43b2d532c00e9e90f]: Textual amendment: Words in reg. 5(6ZA) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/4/5/a)
+
+[^key-5a896e2c5c12d23d8c980d7342ef673b]: Textual amendment: Words in reg. 5(6ZA) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/4/5/b)
+
+[^key-8421207ae845015456b796b0800a08aa]: Textual amendment: Reg. 5(6A)(6AA) substituted for reg. 5(6A) (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/4/6)
+
+[^key-01f60b1abe292056046315a4aa8866cf]: Textual amendment: Reg. 5(6ZB) inserted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2010/865/regulation/4/f)
+
+[^key-b624a816adcc32a1b4e23fa76d0bfeba]: Textual amendment: Reg. 5(6A)(6B) inserted (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/6/d)
+
+[^key-71b30c6c5834cc964277fcfaabc20d68]: Textual amendment: Words in reg. 5(7) substituted (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/6/e)
+
+[^key-30dd49a30c9e1abe2302558cde655c71]: Textual amendment: Reg. 5(8)(9) inserted (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [6(f)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/6/f)
+
+[^key-0f7cfe3562ec8ef5551e6af2f2d29761]: Textual amendment: Reg. 5(9) substituted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [4(g)](https://www.legislation.gov.uk/uksi/2010/865/regulation/4/g)
+
+[^key-137727efdef949e822e9fa35f1de77c0]: Textual amendment: Reg. 5(10) added (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [4(h)](https://www.legislation.gov.uk/uksi/2010/865/regulation/4/h)
+
+[^key-42ca566eb7ede24da76f8466ab1f4fc6]: Textual amendment: Reg. 5(11) substituted for table (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/4/7)
+
+[^key-82a632416c8ea88bb5570eb1fe925547]: Textual amendment: Reg. 5A inserted (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2008/1965/regulation/7)
+
+[^key-05eb9f6278e34b1dd29a7d30673b13b4]: Textual amendment: Words in reg. 5A(1)(a) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 13(a)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/13/a)
+
+[^key-35f6a8ff19c2a3f0d2cb923c8cd3d53f]: Textual amendment: Reg. 5A(1)(aa) inserted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 13(b)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/13/b)
+
+[^key-bb4c6334be6b95cd7fb97def2b386113]: Textual amendment: Reg. 5A(2A) inserted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/865/regulation/5)
+
+[^key-8627c1d339e599032eb57446067b25dc]: Textual amendment: Words in reg. 5A(2A) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/1816/regulation/5)
+
+[^key-20c8de4fa3bb29df9685b86ef418732a]: Textual amendment: Words in reg. 5A(2A) substituted (15.8.2013) by [The Motor Vehicles (Driver Testing and Vehicle Load) Regulations 2013 (S.I. 2013/1753)](https://www.legislation.gov.uk/uksi/2013/1753), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/3/2)
+
+[^key-d9d4bd19829e7d94625640a9abeb34da]: Textual amendment: Words in reg. 5A(2A)(a) substituted (15.8.2013) by [The Motor Vehicles (Driver Testing and Vehicle Load) Regulations 2013 (S.I. 2013/1753)](https://www.legislation.gov.uk/uksi/2013/1753), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/3/3)
+
+[^key-dcb1d14279862bb48510b6b55e1d8a17]: Textual amendment: Reg. 5A(2A)(ab)(ac) inserted (15.8.2013) by [The Motor Vehicles (Driver Testing and Vehicle Load) Regulations 2013 (S.I. 2013/1753)](https://www.legislation.gov.uk/uksi/2013/1753), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/3/4)
+
+[^key-2e9265ab210125a4ae585d0d02e09813]: Textual amendment: Words in reg. 5A(2A)(c) table substituted (15.8.2013) by [The Motor Vehicles (Driver Testing and Vehicle Load) Regulations 2013 (S.I. 2013/1753)](https://www.legislation.gov.uk/uksi/2013/1753), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/3/5)
+
+[^key-26741bf4426456aa0df18c6080d21cf3]: Textual amendment: Words in reg. 5A(2)(c) omitted (25.1.2016) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2015 (S.I. 2015/2024)](https://www.legislation.gov.uk/uksi/2015/2024), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2024/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/2024/regulation/5)
+
+[^key-f159bbaf2e9af928a326eb1d7dbc7d09]: Textual amendment: Words in reg. 5A(3) inserted (26.9.2014) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2014 (S.I. 2014/2264)](https://www.legislation.gov.uk/uksi/2014/2264), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2264/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/2264/regulation/4)
+
+[^key-22b391103b7d63105985e07a8eb284b8]: Textual amendment: Words in [reg. 5A(3)](https://www.legislation.gov.uk/uksi/2007/605/regulation/5A/3) omitted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2024/1160/regulation/6) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-5b6a8870b78564022fd788d62e3e89b1]: Textual amendment: Word in reg. 5A(4)(a)(ii) omitted (18.10.2011) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2011 (S.I. 2011/2324)](https://www.legislation.gov.uk/uksi/2011/2324), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2324/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/2324/regulation/4/a)
+
+[^key-14f7632a6b1bebbe4890be883b855ee1]: Textual amendment: Reg. 5A(4)(a)(iv)(v) inserted (18.10.2011) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2011 (S.I. 2011/2324)](https://www.legislation.gov.uk/uksi/2011/2324), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2324/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/2324/regulation/4/b)
+
+[^key-4da2a8b9a70822cecfe6d7f0e5c9b414]: Textual amendment: Word in reg. 5A(4)(a)(iv) omitted (22.7.2020) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/6/a)
+
+[^key-2476cf761b9771206365b4200d788f8a]: Textual amendment: Reg. 5A(4)(a)(vi) and word inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/6/b)
+
+[^key-083218ce8ac51df7753e1846653124af]: Textual amendment: Reg. 5B inserted (21.4.2010) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2010 (S.I. 2010/865)](https://www.legislation.gov.uk/uksi/2010/865), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/865/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2010/865/regulation/6)
+
+[^key-5d4feff3d20dbd3ab906770d54c21c70]: Textual amendment: Words in reg. 5B(4) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/1816/regulation/6)
+
+[^key-0d3a752ae9c3a384880920d02a2f571e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/605/regulation/6) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2024/1160/regulation/7) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-57adf762dc037de93f03bdbc9d1cca2c]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2007/605/regulation/6A) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2024/1160/regulation/8) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-809522b83c2193fd072a0cf020614e77]: Textual amendment: [Reg. 6B](https://www.legislation.gov.uk/uksi/2007/605/regulation/6B) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2024/1160/regulation/9) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-8bf3835988f14c4119fbc98ffce935e8]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/605/regulation/7) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2024/1160/regulation/10) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-4ef8d8b27cbb18d16cb60d9fa57a1562]: Textual amendment: [Regs. 7A](https://www.legislation.gov.uk/uksi/2007/605/regulation/7A), [7B](https://www.legislation.gov.uk/uksi/2007/605/regulation/7B) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2024/1160/regulation/11) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-7a46150ad30b3f22421caf069fac61f8]: Textual amendment: [Regs. 8-8AD](https://www.legislation.gov.uk/uksi/2007/605/regulation/8) substituted for [regs. 8](https://www.legislation.gov.uk/uksi/2007/605/regulation/8), [8A](https://www.legislation.gov.uk/uksi/2007/605/regulation/8A) (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2024/1160/regulation/12) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-874c12d500eb6d9f2b4e7413fed16ab3]: Textual amendment: [Reg. 8B](https://www.legislation.gov.uk/uksi/2007/605/regulation/8B) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2024/1160/regulation/13) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-13eb5e495e45b7296ba6319ca0dc125f]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/605/regulation/9) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [14(1)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/14/1) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-0df633fc64173c806fb5cf561ad7a7ef]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/10/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [15(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/15/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-0b5fa033cb2e504b82ca38f54d8d85c0]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2007/605/regulation/10/2) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [15(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/15/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-f3ed06a5d38694ba146e7cbe75c4c912]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/1) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/2) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-116c271c2d9bffe2901e70655c0a4a13]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/2) substituted for [reg. 11(2)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/2)[(2A)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/2A) (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/3) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-0f2baa70f36f65a6c4da2a743d9c40ff]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/3) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(4)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/4) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-1b033984e42c0c7c83d36f52b87aec6d]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/3A) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(5)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/5) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-77078593e111b694defee1f2959f5ba1]: Textual amendment: Reg. 11(4) substituted (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/14/b)
+
+[^key-5ba7de039dd96d7a955ef8aec78519a7]: Textual amendment: Words in [reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/4/a) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(6)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/6/a/i) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-7bb490a0209d6f8f1ea03ffb15247aac]: Textual amendment: Words in [reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/4/a) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/6/a/ii) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-46adebc649af55542a5f915c659f7a5f]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/4/b) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(6)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/6/b/i) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-06f2f98d4b7e2610fcdce25c23ac18b1]: Textual amendment: Word in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/4/b) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/6/b/ii) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-d02f56b504e98467a01624b05c60dd9d]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/5) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(7)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/7) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-3d870cfd00254ac1f7c5f34793f1d4a7]: Textual amendment: Reg. 11(5A)(5B) inserted (1.9.2008) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) (No. 2) Regulations 2008 (S.I. 2008/1965)](https://www.legislation.gov.uk/uksi/2008/1965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/1/1), [14(d)](https://www.legislation.gov.uk/uksi/2008/1965/regulation/14/d)
+
+[^key-86b9053a30813c88c34e1cd0f2a75575]: Textual amendment: Word in [reg. 11(5A)(b)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/5A/b) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(8)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/8) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-c48e6dce818f562c95b1138c7469b12c]: Textual amendment: Word in [reg. 11(5B)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/5B) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(9)(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/9/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-2048046de929a22a79b2b0dc99d276f2]: Textual amendment: Word in [reg. 11(5B)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/5B) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(9)(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/9/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-5f1866fac723c1b915a1b9463d4f83ae]: Textual amendment: Reg. 11(5C)(5D) inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2011/996/regulation/12/2/a)
+
+[^key-af4703a6c8de25ff988ed23234619275]: Textual amendment: Word in reg. 11(6) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [2(10)(h)](https://www.legislation.gov.uk/uksi/2020/662/regulation/2/10/h)
+
+[^key-f10a83e457d521520424b7b6ba8cfa1f]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/6) omitted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(10)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/10) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-fad3af708686505c2c59d3554e2083d6]: Textual amendment: [Reg. 11(7)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/7) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(11)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/11) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-eb470398b7090c09bfcd88bbe90ddd72]: Textual amendment: Word in [reg. 11(8)](https://www.legislation.gov.uk/uksi/2007/605/regulation/11/8) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [16(12)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/16/12) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-0df7c5a46cd9061337dd23d1111542a3]: Textual amendment: Reg. 11(9) inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2011/996/regulation/12/2/b)
+
+[^key-aeb7a347d0920b9e6882a2418c261b56]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/605/regulation/12) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1160/regulation/17) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-4477ebcc2d0fb549dab382246fc84890]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2007/605/regulation/13) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2024/1160/regulation/18) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+
+[^key-6adfbc0727bb5f6cf68ca5ba4559d287]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2007/605/regulation/14A) substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [19(1)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/19/1) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))

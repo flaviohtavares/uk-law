@@ -1,0 +1,506 @@
+---
+title: The Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022
+id: uksi/2022/859
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-07-20'
+text_date: '2023-08-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2022/859
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/859/pdfs/uksiem_20220859_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/859/pdfs/uksi_20220859_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/859/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022
+
+> Text as at 2023-08-05.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2022 No. 859
+
+Building And Buildings, England
+
+Landlord And Tenant, England
+
+The Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022
+
+Made
+
+20th July 2022
+
+Coming into force
+
+21st July 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 123 of, and paragraphs 12, 13 and 15 of Schedule 8 to, the Building Safety Act 2022[^f00001].
+
+In accordance with section 168(6) of that Act, a draft of this instrument has been laid before Parliament and approved by resolution of each House of Parliament.
+
+## 1. Citation, commencement, extent, application and interpretation[^key-ba6d66c20f3baff6ef3c037babbc0f18]
+
+(1) These Regulations may be cited as the Building Safety (Leaseholder Protections) (Information etc.) (England) Regulations 2022 and come into force on the day after the day on which they are made.
+
+(2) These Regulations extend to England and Wales and apply in England only.
+
+(3) In these Regulations—
+
+- “**the Act**” means the Building Safety Act 2022;
+- “[^key-6ccd3d76d6f65dd8ff16a0d83bd617ce]**current landlord**” means a person who is the landlord under a lease of premises in a relevant building;
+- “**named manager**” means, in relation to a building, a person who is named in a lease as being the party with managing and repairing obligations in relation to the building or part of the building and who is a separate legal person from the freeholder of the building and any landlord of the building or part of the building;
+- “**RMC**” means a body corporate which is party to a lease of a building where—
+  - (a) the body corporate is limited by guarantee and the members of that body are tenants under leases of dwellings in the building (“leaseholders”), or
+  - (b) the majority of the shares of the body corporate are held by leaseholders; and
+- “**RTM company**” has the same meaning as in the Commonhold and Leasehold Reform Act 2002[^f00002].
+- “[^key-5cb7b128640a8591b9fb99d7d3550218]**shared ownership lease**” means a lease—
+  - (a) granted on payment of a premium calculated by reference to a percentage of the value of the demised premises or the cost of providing them, or
+  - (b) under which the tenant (or the tenant’s personal representatives) will or may be entitled to a sum calculated by reference, directly or indirectly, to the value of those premises.
+
+## 2. Remediation orders[^key-50aa6229197c374ce8797e90098f0b14]
+
+(1) For the purposes of section 123 of the Act (remediation orders) the Secretary of State is prescribed as an interested person.
+
+(1A)[^key-62a8d10c0099b4b3b742d7a2f0de8ff2] For the purposes of section 123(5) of the Act (remediation orders) the Homes and Communities Agency (established by section 1 of the Housing and Regeneration Act 2008[^f00004]) is prescribed as an interested person.
+
+(2) The First-tier Tribunal may, on an application made by an interested person[^f00003], make a remediation order under section 123 of the Act.
+
+(3) An application for a remediation order must—
+
+- (a) state it is an application under section 123 of the Act;
+- (b) identify the building to which the application relates;
+- (c) identify the defects to the building for which a remediation order is sought;
+- (d) identify the landlord (as defined in section 123(3) and (4) of the Act) which the applicant considers is responsible for repairing or maintaining anything relating to the relevant defects.
+
+(4) Where the First-tier Tribunal makes a remediation order it must as soon as is reasonably practicable send a copy of the order to—
+
+- (a) the person who made the application; and
+- (b) the relevant landlord[^f00004].
+
+## 2A. Remediation contribution orders[^key-cb9422fa2541b4d4051654762ce7f85f]
+
+For the purposes of section 124(5) of the Act (remediation contribution orders) the following persons are prescribed as an interested person—
+
+- (a) the Homes and Communities Agency;
+- (b) the named manager in relation to the relevant building;
+- (c) the RMC in relation to the relevant building; and
+- (d) the RTM company in relation to the relevant building.
+
+## 3. Recovery of amounts from other landlords: cases under paragraph 2 of Schedule 8[^key-356353aaad31aa38b51fb8509abdd921]
+
+(1) This regulation applies where, in relation to a lease of premises in a relevant building, a landlord (L) has paid or is liable to pay the cost of a relevant measure[^f00005] relating to a relevant defect[^f00006] (“the remediation amount”) which, but for paragraph 2 of Schedule 8 to the Act, would have been payable as a service charge by a tenant under the lease.
+
+(2)[^key-e330952e062aa442da5b634ddd880034] Where this regulation applies the responsible landlord is liable to pay L the remediation amount, and where, in relation to a particular relevant defect, two or more persons are responsible landlords, each person is jointly and severally liable for the remediation amount.
+
+(3) To recover the remediation amount from the responsible landlord or responsible landlords liable under paragraph (2) L must give to at least one responsible landlord a notice which contains the information set out in paragraph (3B).
+
+(3A) Only a responsible landlord to whom L has given a notice under paragraph (3) can be required to pay the remediation amount.
+
+(3B) The information which the notice given under paragraph (3) must contain is—
+
+- (a) the remediation amount that L has paid or the remediation amount that L expects to pay;
+- (b) the time limit for appealing under paragraph (5) to the First-tier Tribunal and for applying under paragraph (5A) for an extension of that time limit;
+- (c) the possible grounds of appeal.
+
+(4) The remediation amount may not include any amount which L is entitled to recover under regulations 4 or 5 but nothing in this regulation prevents L from seeking to recover amounts under regulation 4 or 5[^key-fc12c40f3a2273bf1b9dbc20162ad98a].
+
+(5) A person who is notified by L of a requirement to pay all or part of the remediation amount referred to in paragraph (2) may appeal [^key-7eb054caf17182647fed3d18d9d9cabc]... to the First-tier Tribunal within 30 days of the notification, specifying the grounds of appeal.
+
+(5A)[^key-2b5ee3e1d5a553ca06b7a92443b2aebc] A person who has received a notice under paragraph (3) may apply to the First-tier Tribunal to extend the time limit for lodging an appeal under paragraph (5).
+
+(5B) An application under paragraph (5A) must be made within 30 days of the notification under paragraph (3).
+
+(5C) In response to an application under paragraph (5A) the First-tier Tribunal may grant an extension of the time limit for lodging an appeal by no more than 30 days.
+
+(6) The grounds of appeal are—
+
+- (a) that the remediation amount does not represent the cost of the relevant measure; or
+- (b) that the person sent the notice is not a responsible landlord.
+
+(6A)[^key-8c984355f317dd3cb1e176edeb1a6d60] Where an appeal made on the grounds specified in paragraph (6)(a)—
+
+- (a) is unsuccessful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount set out in the notice unless that person’s liability has been discharged by payment of the remediation amount by another recipient of the notice;
+- (b) is successful, subject to the outcome of an appeal on another ground under this regulation the First-tier Tribunal must substitute the remediation amount it rules is the correct one for the remediation amount in the notice.
+
+(6B) Where an appeal made on the grounds specified in paragraph (6)(b)—
+
+- (a) is unsuccessful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount set out in the notice unless that person’s liability has been discharged by payment of the remediation amount by another recipient of the notice;
+- (b) is successful, the person who was notified by L is not required to pay the remediation amount set out in the notice.
+
+(7) For the purposes of this regulation, the reference to landlord (L) includes a RMC or a RTM company or a named manager[^key-4bbb701d4436f568c6b094018d3adfeb].
+
+(8) In this regulation “**the responsible landlord**” means—
+
+- (a) the person who, at the beginning of 14th February 2022, was the landlord of the tenant referred to in paragraph (1) or any superior landlord and was on that date—
+  - (i) responsible for[^f00007] the particular relevant defect to which the relevant measure relates; or
+  - (ii) associated with[^f00008] a person responsible for that relevant defect; or
+- (b) the person who, on or after 14th February 2022, became the owner of that landlord’s, or superior landlord’s, interest.
+
+(9)[^key-de4177398d8fb22f26b66f34b530743f] Where two or more landlords are liable for remediation costs under the Act, L must give a notice under paragraph (3) to at least one landlord which fulfils the “responsible for” criteria set out in paragraph 2(3) of Schedule 8 to the Act.
+
+(10) An amount payable to L under this regulation is recoverable by L as a civil debt.
+
+## 4. Recovery of amounts from other landlords: cases under paragraph 3 of Schedule 8[^key-1784cf33d2609bb44273e8093043282f]
+
+(1) This regulation applies where, in relation to a qualifying lease[^f00009] of a dwelling in a relevant building, a landlord (L) has paid or is liable to pay the cost of a relevant measure relating to a relevant defect (“the remediation amount”) which, but for paragraph 3 of Schedule 8 to the Act, would have been payable as a service charge by the tenant under the qualifying lease.
+
+(2)[^key-0e660d31c8299efa2d8e14fbe4427968] Where this regulation applies the contributing landlord is liable to pay L the remediation amount.
+
+(2A) To recover the remediation amount from the contributing landlord who is liable under paragraph (2) L must give the contributing landlord a notice which sets out the information listed in paragraph (2B).
+
+(2B) The information which the notice given under paragraph (2A) must contain is—
+
+- (a) the remediation amount that L has paid or the remediation amount which L expects to pay;
+- (b) the time limit for appealing under paragraph (4) to the First-tier Tribunal and for applying for an extension of that time limit under paragraph (4A);
+- (c) the possible grounds of appeal.
+
+(3) The remediation amount may not include any amount which L is entitled to recover under regulations 3 or 5 but nothing in this regulation prevents L from seeking to recover amounts under regulation 3 or 5[^key-61348103685753b3830922d44e159a30].
+
+(4) A person who is notified by L of a requirement to pay the remediation amount may appeal [^key-55cc3c8e33e1d785fde753ce1bb6342b]... to the First-tier Tribunal within 30 days of the notification, specifying the grounds of appeal.
+
+(4A)[^key-9e38f75bd608af1bd2fb880ee2591d2e] A person who has received a notice under paragraph (2A) may apply to the First-tier Tribunal to extend the time limit for lodging an appeal under paragraph (4).
+
+(4B) An application under paragraph (4A) must be made within 30 days of the notification under paragraph (2A).
+
+(4C) In response to an application under paragraph (4A) the First-tier Tribunal may grant an extension of the time limit for lodging an appeal by no more than 30 days.
+
+(5) The grounds of appeal are—
+
+- (a) that the remediation amount does not represent the cost of the relevant measure; or
+- (b) that the person sent the notice is not the contributing landlord.
+
+(5A)[^key-95982032f77166e409ad7ce4c59fa7c0] Where an appeal made on the grounds specified in paragraph (5)(a)—
+
+- (a) is unsuccessful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount set out in the notice;
+- (b) is successful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount determined by the First-tier Tribunal.
+
+(5B) Where an appeal made on the grounds specified in paragraph (5)(b)—
+
+- (a) is unsuccessful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is required to pay the remediation amount set out in the notice;
+- (b) is successful, subject to the outcome of an appeal on another ground under this regulation the person who was notified by L is not required to pay the remediation amount set out in the notice.
+
+(6) For the purposes of this regulation, the reference to landlord (L) includes a RMC or a RTM company or a named manager[^key-9f8eee8b8c12b98411e392eb6c27305d].
+
+(7)[^key-e51c6c6f011b7e15ae532e3e92a08c0b] In this regulation “**the contributing landlord**” means the person who–
+
+- (a) is the landlord under the qualifying lease referred to in paragraph (1) provided that they met the contribution condition in paragraph 3 of Schedule 8 to the Act on 14th February 2022; or
+- (b) after 14th February 2022 became the owner of that landlord’s interest.
+
+(8)[^key-eaf9bcffe909bd21a5a0912d245c56a6] An amount payable to L under this regulation is recoverable by L as a civil debt.
+
+## 5. Recovery of amounts from other landlords: other cases under Schedule 8[^key-53d546151c5639c09eaaed766b40c406]
+
+(1) This regulation applies where, in relation to a relevant building, a landlord (L) under any lease has paid or is liable to pay the cost of a relevant measure relating to a relevant defect (“the remediation amount”) which, but for paragraphs 4 to 9 and 11 of Schedule 8 to the Act, would have been payable as a service charge by the tenant under the lease.
+
+(2) Where this regulation applies, each landlord under any lease in the building is liable to pay L a share of the remediation amount and that share is to be calculated in accordance with paragraphs (4) to (6).
+
+(3) The amount referred to in paragraph (2) may not include any amount which L is entitled to recover under regulations 3 or 4 but nothing in this regulation prevents L from seeking to recover amounts under Regulation 3 or 4[^key-b4482add07742baa6e173d0eac1195b1].
+
+(4) Where the landlord is a type 1 owner, the share of the remediation amount for each such landlord is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2022/859)
+
+where—
+
+- A = the remediation amount for the relevant measure paid (or liable to be paid) by L;
+- N<sub>1 </sub>= the total number of type 1 owners of the building;
+- N<sub>2 </sub>= the total number of type 2 owners of the building;
+- N<sub>3 </sub>= the total number of type 3 owners of the building.
+
+(5) Where the landlord is a type 2 owner, the share of the remediation amount for each such landlord is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2022/859)
+
+where A, N<sub>1</sub>,<sub></sub>N<sub>2 </sub>and N<sub>3 </sub>have the same meaning as in paragraph (4).
+
+(6) Where the landlord is a type 3 owner, the share of the remediation amount for each such landlord is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2022/859)
+
+where A, N<sub>1</sub>,<sub></sub>N<sub>2 </sub>and N<sub>3 </sub>have the same meaning as in paragraph (4).
+
+(7)[^key-3a5b82dd4cb8ddb4548155771f3dbbc6] To recover from each landlord their share of the remediation amount for which each is liable under paragraph (2) L must give to each landlord a notice which contains the information set out in paragraph (7A).
+
+(7A) The information which the notice given under paragraph (7) must contain is—
+
+- (a) the remediation amount that L has paid or the remediation amount which L expects to pay;
+- (b) the amount which the recipient of the notice is required to pay to L (“**the specified amount**”);
+- (c) how the specified amount was calculated;
+- (d) the time limit for appealing under paragraph (8) to the First-tier Tribunal and for applying for an extension of that time limit under paragraph (8A);
+- (e) the possible grounds of appeal.
+
+(8) A person who is notified by L of a requirement to pay a share of the remediation amount referred to in paragraph (2) may appeal [^key-00198ddf12f298e8905993488e5d0d17]... to the First-tier Tribunal within 30 days of the notification, specifying the grounds of appeal.
+
+(8A)[^key-642309e3dff119332b4595ef0a73ece9] A person who has received a notice under paragraph (7) may apply to the First-tier Tribunal to extend the time limit for lodging an appeal under paragraph (8).
+
+(8B) An application under paragraph (8A) must be made within 30 days of the notification under paragraph (7).
+
+(8C) In response to an application under paragraph (8A) the First-tier Tribunal may grant an extension of the time limit for lodging an appeal by no more than 30 days.
+
+(9) The grounds of appeal are—
+
+- (a) that the remediation amount does not represent the cost of the relevant measure;
+- (b) that the person is not a relevant landlord within the meaning of paragraph 12(2) of Schedule 8 to the Act; or
+- (c) that the share of the remediation amount determined for the landlord is incorrect.
+
+(9A)[^key-4aff3e0fcef7fb42ff589f0bc45dbfc4] Where an appeal made on the grounds specified in paragraph (9)(a)—
+
+- (a) is unsuccessful, subject to the outcome of an appeal on another ground under this regulation, the person who was notified by L is required to pay the specified amount set out in the notice;
+- (b) is successful, subject to the outcome of an appeal on another ground under this regulation, the First-tier Tribunal must substitute the remediation amount it rules is the correct one for the specified amount set out in the notice.
+
+(9B) Where an appeal made on the grounds specified in paragraph (9)(b)—
+
+- (a) is unsuccessful, subject to the outcome of an appeal on another ground under this regulation, the person who was notified by L is required to pay the specified amount set out in the notice;
+- (b) is successful, the person who was notified by L is not required to pay the specified amount set out in the notice.
+
+(9C) Where an appeal made on the grounds specified in paragraph (9)(c)—
+
+- (a) is unsuccessful, subject to the outcome of an appeal on another ground under this regulation, the person who was notified by L is required to pay the specified amount set out in the notice;
+- (b) is successful, subject to the outcome of an appeal on another ground under this regulation, the person who was notified by L is required to pay the share of the remediation amount determined by the First-tier Tribunal, calculated in accordance with paragraphs (4) to (6).
+
+(10) For the purposes of this regulation, the reference to landlord (L) includes a RMC or a RTM company or a named manager[^key-677017ac977b0325fd8078f09e64d14d].
+
+(11) In this regulation—
+
+- “**leasehold interest**” means a long lease (which has the same meaning as in section 119 of the Act);
+- “**type 1 owner**” means a landlord who has a freehold interest in the building or a landlord who has or is treated as having a leasehold interest in respect of 90% or more of the storeys in the building as at the date of the notice under paragraph (7);
+- “**type 2 owner**” means a landlord who has or is treated as having a leasehold interest in respect of more than 40% but less than 90% of the storeys in the building as at the date of the notice under paragraph (7);
+- “**type 3 owner**” means a landlord who has or is treated as having a leasehold interest in respect of 40% or less of the storeys in the building as at the date of the notice under paragraph (7),
+
+and where a person owns a leasehold interest in premises which form part only of a storey in the building in question they are, for the purposes of the calculations under this paragraph, to be treated as having an interest in respect of the whole storey.
+
+(12)[^key-f3a3adfa5660e4b948d7dc7dbe8c6ee1] An amount payable to L under this regulation is recoverable by L as a civil debt.
+
+## 6. Leaseholder deed of certificate: landlord’s steps and requirements for leaseholders[^key-1f40a92301d55bfe0bfde4ef330b0ceb]
+
+(1)[^key-6857481b1321627b8397479c5191025e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Subject to paragraph (3), before the notification date a landlord under a lease that meets the conditions in paragraphs (a) to (c) of section 119(2) of the Act must give a notice in writing to the leaseholder which complies with paragraph (4).
+
+(3) The requirement in paragraph (2) does not apply where, before the notification date, the landlord under the lease has received a leaseholder deed of certificate in respect of the lease.
+
+(4) The notice under paragraph (2) must—
+
+- (a) state it is a notice for the purposes of paragraphs 13 and 15 of Schedule 8 to the Act;
+- (b) include a copy of the form of the leaseholder deed of certificate referred to in regulation 7 (leaseholder deed of certificate);
+- (c) include a statement to the effect that failure to provide a completed leaseholder deed of certificate and the evidence referred to in paragraph (7)[^key-f7226d961fce0e593de9ee5e825f142b]—
+  - (i) will result in the lease being treated, for the purposes of sections 116 to 122 of the Act, as if it were not a qualifying lease;
+  - (ii) where the lease is a shared ownership lease, may result in the landlord assuming the leaseholder owns a 100% share; and
+  - (iii) may result in a higher value for the qualifying lease being used under or pursuant to any provision in Schedule 8 to the Act (remediation costs under qualifying leases etc); and
+- (d) provide the date (which must be no less than 8 weeks from the date of receipt of the notice under paragraph (5)(a)) by which a reply to the notice must be received (“the reply date”) and the address of the landlord to which the reply must be sent.
+
+(5) The landlord must give the leaseholder the notice under paragraph (2)—
+
+- (a) by leaving it at the address of the leaseholder or sending it to that address by prepaid first class letter; and
+- (b) where the leaseholder has provided the landlord with an email address, by transmitting it to that email address.
+
+(6) Subject to paragraph (9), where a leaseholder receives a notice under paragraph (2) then by the reply date the leaseholder must—
+
+- (a) provide the landlord under the lease with a leaseholder deed of certificate which complies with the requirements of regulation 7 together with the evidence referred to in paragraph (7); or
+- (b) reply to the landlord in writing stating that the leaseholder will not provide a leaseholder deed of certificate.
+
+(7) The evidence which must accompany a leaseholder deed of certificate is—
+
+- (a) where the dwelling to which the lease relates was disposed of on the open market before 14th February 2022—
+  - (i) evidence of the most recent sale before that date, including an official copy of the register of title at HM Land Registry which shows the date of the sale in question; and
+  - (ii) evidence of the price paid at completion (in pounds sterling to the nearest pound) in respect of that sale;
+- (b) additionally, where the dwelling was owned under a shared ownership lease at the beginning of 14th February 2022—
+  - (i) a copy of the shared ownership lease; and
+  - (ii) evidence of the percentage share under the shared ownership lease held on that date.
+
+(8) If by the date which is 14 days before the reply date the landlord has not received a reply from the leaseholder, the landlord must—
+
+- (a) no later than 7 days before the reply date, give the leaseholder a further notice which, in addition to complying with sub-paragraphs (a), (b) and (c) of paragraph (4) and paragraph (5)—
+  - (i) states that no reply to the notice under paragraph (2) has been received;
+  - (ii) sets out the reply date; and
+  - (iii) states that the leaseholder may make a request under paragraph (9);
+- (b) where the landlord has a telephone number for the leaseholder, telephone the leaseholder to draw the further notice to the leaseholder’s attention.
+
+(9) If requested by the leaseholder before the reply date, the landlord must allow the leaseholder an additional four weeks from the reply date to comply with the requirements under paragraph (6)(a) and (b).
+
+(10) The landlord may not charge the leaseholder for sending any notice under this regulation.
+
+(10A)[^key-6619cb260ccf12c9f8cc5cf0f68f0cc2] Within one week of receiving a leaseholder deed of certificate the current landlord must provide a copy of the certificate to any RMC, RTM company or named manager in relation to the building to which the certificate relates.
+
+(10B) Where a current landlord fails to comply with the requirement in paragraph (10A) the costs of a relevant measure relating to a relevant defect in the building to which the leaseholder deed of certificate relates are prescribed costs under paragraph 16(4) of Schedule 8 to the Act and so are not to be regarded as relevant costs to be taken into account in determining the amount of a service charge payable under a relevant lease of premises in that building and must not be met from a relevant reserve fund as defined in paragraph 10 of Schedule 8 to the Act.
+
+(11) In this regulation “**the notification date**” means the day which is five days after the day on which the landlord becomes aware that—
+
+- (a) the interest in the property owned by the leaseholder is to be sold; or
+- (b) there is a relevant defect in relation to the building in question.
+
+## 7. Leaseholder deed of certificate[^key-4e6891e673bd6f3ce397255540be93cb]
+
+(1) A leaseholder deed of certificate in relation to a lease of a dwelling in a relevant building must be executed as a deed by the person who is the leaseholder under that lease.
+
+(2) The Schedule to these Regulations sets out the information to be provided in the leaseholder deed of certificate and its form.
+
+## 8. Review[^key-5b9d28814baf8af1934f934274d3a360]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before the end of the period of five years beginning with the date on which these Regulations come into force.
+
+(3) Subsequent reports must be published at intervals not exceeding five years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015[^f00011] requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a),
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+
+Marcus Jones
+
+Minister of State
+
+Department for Levelling Up, Housing and Communities
+
+20th July 2022
+
+## SCHEDULE — Building Safety Act 2022[^key-2bfccd9809e20df2c31da5c0ce8a97a3]
+
+Regulation 7
+
+[image: see source](https://www.legislation.gov.uk/uksi/2022/859/images/uksi_20220859_en_004) [image: see source](https://www.legislation.gov.uk/uksi/2022/859/images/uksi_20220859_en_005) [image: see source](https://www.legislation.gov.uk/uksi/2022/859/images/uksi_20220859_en_006) [image: see source](https://www.legislation.gov.uk/uksi/2022/859/images/uksi_20220859_en_007) [image: see source](https://www.legislation.gov.uk/uksi/2022/859/images/uksi_20220859_en_008)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Sections 116 to 125 of, and Schedule 8 to, the Building Safety Act 2022 (“**the Act**”) make provision in relation to remediation of certain defects in buildings. In particular, those provisions include protections from liability for leaseholders in specific circumstances.
+
+These Regulations support those leaseholder protection provisions.
+
+Regulation 2 makes provision for and in connection with remediation orders under section 123 of the Act. In particular, it sets out what an application to the First-tier Tribunal for a remediation order must include.
+
+Regulations 3 to 5 make provision for recovery of amounts as between landlords where, because of paragraphs 2, 3, 4 to 9, and 11 of Schedule 8 to the Act, a service charge cannot be claimed from a leaseholder under a lease.
+
+Regulation 3 provides that where in relation to a lease any landlord (L) pays or is liable to pay an amount in relation to the remediation of a defect and on 14th February 2022 a landlord under the lease or any superior landlord (or an associate) was responsible for the defect (see paragraph 2 of Schedule 8 to the Act), then L may recover the amount from the current landlord under the lease and any superior landlord.
+
+Regulation 4 provides that where in relation to a qualifying lease (see section 119 of the Act) any landlord (L) pays or is liable to pay an amount in relation to the remediation of a defect and on 14th February 2022 a landlord under the qualifying lease met the contribution condition (see paragraph 3 of Schedule 8 to the Act) then L may recover the amount from the current landlord under the qualifying lease.
+
+Regulation 5 provides that where in relation to a lease any landlord (L) pays or is liable to pay an amount in relation to the remediation of a defect and paragraphs 4 to 9, or 11 of Schedule 8 apply then L may recover part of the amount from each landlord with the part of the amount calculated in accordance with the formulas set out.
+
+Regulations 3, 4 and 5 also provide the person sent a notice of liability with a right of appeal to the First-tier Tribunal and they set out the grounds of appeal in each case.
+
+Regulation 6 sets out the steps a landlord must take in relation to identifying whether the lease is a qualifying lease. Regulation 6 also makes provisions in relation to the deed of certificate a leaseholder should provide. The deed of certificate sets out information landlords need in relation to each lease for the purposes of applying the provisions in the leaseholder provisions.
+
+Regulation 7 provides that the leaseholder deed of certificate must be in the form set out in the Schedule to these Regulations and must be executed as a deed.
+
+Regulation 8 provides for a periodic review of regulatory provisions of these Regulations.
+
+An impact assessment is available with the explanatory memorandum for these Regulations at www.legislation.gov.uk. A copy may be inspected at the Department for Levelling Up, Housing and Communities, 2 Marsham Street, London SW1P 4DF.
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 30](https://www.legislation.gov.uk/ukpga/2022/30).
+
+[^key-ba6d66c20f3baff6ef3c037babbc0f18]: Commencement: Reg. 1 in force at 21.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/1)
+
+[^key-6ccd3d76d6f65dd8ff16a0d83bd617ce]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/3) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/895/regulation/3/a)
+
+[^f00002]: Footnote: [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15). See sections 71 to 74.
+
+[^key-5cb7b128640a8591b9fb99d7d3550218]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/3) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/895/regulation/3/b)
+
+[^key-50aa6229197c374ce8797e90098f0b14]: Commencement: Reg. 2 in force at 21.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/1)
+
+[^key-62a8d10c0099b4b3b742d7a2f0de8ff2]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2022/859/regulation/2/1A) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/4/1)
+
+[^f00004]: Footnote: See section 123(3) of the Act for the definition of “relevant landlord”.
+
+[^f00003]: Footnote: See section 123(5) of the Act.
+
+[^key-cb9422fa2541b4d4051654762ce7f85f]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2022/859/regulation/2A) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/4/2)
+
+[^key-356353aaad31aa38b51fb8509abdd921]: Commencement: Reg. 3 in force at 21.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/1)
+
+[^f00005]: Footnote: See paragraph 1 of Schedule 8 to the Act for the definition of “relevant measure”.
+
+[^f00006]: Footnote: See section 120 of the Act for the definition of “relevant defect”.
+
+[^key-e330952e062aa442da5b634ddd880034]: Textual amendment: [Reg. 3(2)-(3B)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/2) substituted for [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/2) (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/3) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/2))
+
+[^key-fc12c40f3a2273bf1b9dbc20162ad98a]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/4) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/4)
+
+[^key-7eb054caf17182647fed3d18d9d9cabc]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/5) omitted (5.8.2023) by virtue of [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/5) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/2))
+
+[^key-2b5ee3e1d5a553ca06b7a92443b2aebc]: Textual amendment: [Reg. 3(5A)-(5C)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/5A) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/6) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/2))
+
+[^key-8c984355f317dd3cb1e176edeb1a6d60]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/6A)[(6B)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/6B) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/7) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/2))
+
+[^key-4bbb701d4436f568c6b094018d3adfeb]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/7) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/8) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/2))
+
+[^f00007]: Footnote: See paragraph 2(3) of Schedule 8 to the Act for the definition of “responsible for”.
+
+[^f00008]: Footnote: See section 121 of the Act for the definition of “associated with”.
+
+[^key-de4177398d8fb22f26b66f34b530743f]: Textual amendment: [Reg. 3(9)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/9)[(10)](https://www.legislation.gov.uk/uksi/2022/859/regulation/3/10) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2023/895/regulation/5/9)
+
+[^key-1784cf33d2609bb44273e8093043282f]: Commencement: Reg. 4 in force at 21.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/1)
+
+[^f00009]: Footnote: See section 119 of the Act for the definition of “qualifying lease”.
+
+[^key-0e660d31c8299efa2d8e14fbe4427968]: Textual amendment: [Reg. 4(2)-(2B)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/2) substituted for [reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/2) (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/3) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/2))
+
+[^key-61348103685753b3830922d44e159a30]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/3) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/4)
+
+[^key-55cc3c8e33e1d785fde753ce1bb6342b]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/4) omitted (5.8.2023) by virtue of [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/5) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/2))
+
+[^key-9e38f75bd608af1bd2fb880ee2591d2e]: Textual amendment: [Reg. 4(4A)-(4C)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/4A) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/6) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/2))
+
+[^key-95982032f77166e409ad7ce4c59fa7c0]: Textual amendment: [Reg. 4(5A)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/5A)[(5B)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/5B) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/7) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/2))
+
+[^key-9f8eee8b8c12b98411e392eb6c27305d]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/6) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [6(8)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/8) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/2))
+
+[^key-e51c6c6f011b7e15ae532e3e92a08c0b]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/7) substituted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [6(9)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/9)
+
+[^key-eaf9bcffe909bd21a5a0912d245c56a6]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/uksi/2022/859/regulation/4/8) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [6(10)](https://www.legislation.gov.uk/uksi/2023/895/regulation/6/10)
+
+[^key-53d546151c5639c09eaaed766b40c406]: Commencement: Reg. 5 in force at 21.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/1)
+
+[^key-b4482add07742baa6e173d0eac1195b1]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2022/859/regulation/5/3) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/3)
+
+[^key-3a5b82dd4cb8ddb4548155771f3dbbc6]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2022/859/regulation/5/7)[(7A)](https://www.legislation.gov.uk/uksi/2022/859/regulation/5/7A) substituted for [reg. 5(7)](https://www.legislation.gov.uk/uksi/2022/859/regulation/5/7) (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/4) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/2))
+
+[^key-00198ddf12f298e8905993488e5d0d17]: Textual amendment: Words in [reg. 5(8)](https://www.legislation.gov.uk/uksi/2022/859/regulation/5/8) omitted (5.8.2023) by virtue of [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/5) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/2))
+
+[^key-642309e3dff119332b4595ef0a73ece9]: Textual amendment: [Reg. 5(8A)-(8C)](https://www.legislation.gov.uk/uksi/2022/859/regulation/5/8A) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/6) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/2))
+
+[^key-4aff3e0fcef7fb42ff589f0bc45dbfc4]: Textual amendment: [Reg. 5(9A)-(9C)](https://www.legislation.gov.uk/uksi/2022/859/regulation/5/9A) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/7) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/2))
+
+[^key-677017ac977b0325fd8078f09e64d14d]: Textual amendment: Words in [reg. 5(10)](https://www.legislation.gov.uk/uksi/2022/859/regulation/5/10) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [7(8)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/8) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/2))
+
+[^key-f3a3adfa5660e4b948d7dc7dbe8c6ee1]: Textual amendment: [Reg. 5(12)](https://www.legislation.gov.uk/uksi/2022/859/regulation/5/12) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [7(9)](https://www.legislation.gov.uk/uksi/2023/895/regulation/7/9)
+
+[^key-1f40a92301d55bfe0bfde4ef330b0ceb]: Commencement: Reg. 6 in force at 21.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/1)
+
+[^key-6857481b1321627b8397479c5191025e]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/6/1) omitted (5.8.2023) by virtue of [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2023/895/regulation/8/2)
+
+[^key-f7226d961fce0e593de9ee5e825f142b]: Textual amendment: Words in [reg. 6(4)(c)](https://www.legislation.gov.uk/uksi/2022/859/regulation/6/4/c) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2023/895/regulation/8/3)
+
+[^key-6619cb260ccf12c9f8cc5cf0f68f0cc2]: Textual amendment: [Reg. 6(10A)](https://www.legislation.gov.uk/uksi/2022/859/regulation/6/10A)[(10B)](https://www.legislation.gov.uk/uksi/2022/859/regulation/6/10B) inserted (5.8.2023) by [The Building Safety (Leaseholder Protections etc.) (England) (Amendment) Regulations 2023 (S.I. 2023/895)](https://www.legislation.gov.uk/uksi/2023/895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/895/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2023/895/regulation/8/4)
+
+[^key-4e6891e673bd6f3ce397255540be93cb]: Commencement: Reg. 7 in force at 21.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/1)
+
+[^key-5b9d28814baf8af1934f934274d3a360]: Commencement: Reg. 8 in force at 21.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/1)
+
+[^f00011]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-2bfccd9809e20df2c31da5c0ce8a97a3]: Commencement: Sch. in force at 21.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/859/regulation/1/1)

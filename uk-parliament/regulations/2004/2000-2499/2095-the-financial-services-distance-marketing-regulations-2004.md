@@ -1,0 +1,1028 @@
+---
+title: The Financial Services (Distance Marketing) Regulations 2004
+id: uksi/2004/2095
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2004-08-04'
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/2095
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/2095/pdfs/uksiem_20042095_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2095/pdfs/uksi_20042095_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2095/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services (Distance Marketing) Regulations 2004
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/uksi/2004/2095
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 2095
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services (Distance Marketing) Regulations 2004
+
+Made
+
+4th August 2004
+
+Laid before Parliament
+
+5th August 2004
+
+Coming into force
+
+31st October 2004
+
+The Treasury, being a government department designated [^c5262431] for the purposes of section 2(2) of the European Communities Act 1972 [^c5262441] in relation to matters concerning the distance marketing of consumer financial services, in the exercise of the powers conferred on them by that section, hereby make the following Regulations:[^key-412a8a5e9042b52fdd9c47902afed8e2]
+
+## 1. Citation, commencement and extent
+
+These Regulations may be cited as the Financial Services (Distance Marketing) Regulations 2004 and come into force on 31st October 2004.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- [^c5262451]“**the 1974 Act**” means the Consumer Credit Act 1974 ;
+- [^c5262461]“**the 2000 Act**” means the Financial Services and Markets Act 2000 ;
+- “**the Authority**” means the Financial Conduct Authority[^key-9fd7ed771ccea8fefa9678fa8ebe5a09];
+- “**appointed representative**” has the same meaning as in section 39(2) of the 2000 Act (exemption of appointed representatives);
+- “authorised non-business overdraft agreement” has the same meaning as in section 189 of the 1974 Act;[^key-be33ba1effb0f4a7ec58bbcbcd0459fe]
+- [^key-1cfad4de9c22d265719a090c6e1123cd]“**authorised person**” has the same meaning as in ... the 2000 Act (authorised persons);
+- “**breach**” means a contravention by a supplier of a prohibition in, or a failure by a supplier to comply with a requirement of, these Regulations;
+- “**business**” includes a trade or profession;
+- “the CMA” means the Competition and Markets Authority;[^key-9b3e9f282296f2048add524e5370e44c]
+- “**consumer**” means any individual who, in contracts to which these Regulations apply, is acting for purposes which are outside any business he may carry on;
+- “consumer credit agreement” has the same meaning as in section 189 of the 1974 Act;[^key-b33ac3ab2822360e45a05620a872fd3e]
+- “**court**” in relation to England and Wales and Northern Ireland means a county court or the High Court, and in relation to Scotland means the Sheriff Court or the Court of Session;
+- “**credit**” includes a cash loan and any other form of financial accommodation, and for this purpose “**cash**” includes money in any form;
+- “**designated professional body**” has the same meaning as in section 326(2) of the 2000 Act (designation of professional bodies);
+- “the Directive” means[^key-4d4595d2c88510000023f0ca441ecc87] [Directive 2002/65/EC](https://www.legislation.gov.uk/eudr/2002/0065) of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive [1990/619/EEC](https://www.legislation.gov.uk/eudr/1990/619) and Directives [1997/7/EC](https://www.legislation.gov.uk/eudr/1997/0007) and [1998/27/EC](https://www.legislation.gov.uk/eudr/1998/0027);
+- “the Disclosure of Information Regulations” means the Consumer Credit (Disclosure of Information) Regulations 2010;[^key-273330f888dbabf24934397c46cb0da2]
+- “**distance contract**” means any contract concerning one or more financial services concluded between a supplier and a consumer under an organised distance sales or service-provision scheme run by the supplier or by an intermediary, who, for the purpose of that contract, makes exclusive use of one or more means of distance communication up to and including the time at which the contract is concluded;
+- “**durable medium**” means any instrument which enables a consumer to store information addressed personally to him in a way accessible for future reference for a period of time adequate for the purposes of the information and which allows the unchanged reproduction of the information stored;
+- [^key-48391f9480ca935c232bfedb12267370]...
+- “**EEA supplier**” means a supplier who is a national of an EEA State, or a company or firm (within the meaning of Article 54 of the Treaty on the Functioning of the European Union[^key-a4518b6cbcd4500ffc45ed8145dd76a1]) formed in accordance with the law of an EEA State;
+- “**EEA State**” means a State which is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992, as adjusted by the Protocol signed at Brussels on 17th March 1993;
+- “**exempt regulated activity**” has the same meaning as in section 325(2) of the 2000 Act;
+- “**financial service**” means any service of a banking, credit, insurance, personal pension, investment or payment nature;
+- “**means of distance communication**” means any means which, without the simultaneous physical presence of the supplier and the consumer, may be used for the marketing of a service between those parties;
+- “[^key-25093f8862ac7b12e2044b3b76f1dda7]**the Pre-Contract Credit Information (Overdrafts) form**” means the form set out in Schedule 3 to the Disclosure of Information Regulations;
+- [^key-1c3d1b71fd8083e2ebfa5aff858aa075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**regulated activity**” has the same meaning as in section 22 of the 2000 Act (the classes of activity and categories of investment);
+- [^c5262481]“**Regulated Activities Order**” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ;
+- “regulated consumer credit agreement” means a consumer credit agreement[^key-acd85e90cedc454efeda88254721d689] which is a regulated agreement (within the meaning given by section 189 of the 1974 Act)[^key-a4cb8ab937fcc90feaf348bb064014ea].
+- “the relevant regulator” means—[^key-b999c76b9cff9a4028102f0e104ba57f]
+  - (a) in relation to a specified contract (within the meaning given in regulation 17) or any alleged breach concerning such a contract, the Authority; and
+  - (b) in relation to any other contract or any alleged breach concerning such a contract, the CMA;
+- “**rule**” means a rule—
+  - (a) made by the Authority under the 2000 Act, or
+  - (b) made by a designated professional body, and approved by the Authority, under section 332 of the 2000 Act,
+
+  as the context requires;
+- “**supplier**” means any person who, acting in his commercial or professional capacity, is the contractual provider of services.
+
+(2) In these Regulations, subject to paragraph (1), any expression used in these Regulations which is also used in the Directive has the same meaning as in the Directive.
+
+## 3. Scope of these Regulations
+
+(1) Regulations 7 to 14 apply, subject to regulations 4 and 5, in relation to distance contracts made on or after 31st October 2004.
+
+(2) Regulation 15 applies in relation to financial services supplied on or after 31st October 2004 under an organised distance sales or service-provision scheme run by the supplier or by an intermediary, who, for the purpose of that supply, makes exclusive use of one or more means of distance communication up to and including the time at which the financial services are supplied.
+
+## 4.
+
+(1)[^key-2a89cb78c0006dc306ce1d8964079afa] Regulations 7 to 11 do not apply in relation to any contract made between an EEA supplier contracting from an establishment in an EEA State and a consumer in the United Kingdom unless the EEA supplier is—
+
+- (a) a payments supplier,
+- (b) a relevant EEA AIFM, or
+- (c) the operator, trustee or depositary of a relevant recognised scheme.
+
+(1A) Regulations 12 and 13 do not apply in relation to any contract made between an EEA supplier contracting from an establishment in an EEA State and a consumer in the United Kingdom unless the EEA supplier is—
+
+- (a) an authorised person, or
+- (b) a payments supplier.
+
+(1B) Regulation 15 does not apply in relation to any supply of financial services by an EEA supplier from an establishment in an EEA State to a consumer in the United Kingdom unless the EEA supplier is—
+
+- (a) a payments supplier,
+- (b) a relevant EEA AIFM, or
+- (c) the operator, trustee or depositary of a relevant recognised scheme
+
+(1C) For the purposes of paragraphs (1) to (1B)—
+
+- “**payments supplier**” means an EEA supplier to whom paragraph 2 or 14 of Schedule 3 to the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 applies;
+- “**relevant EEA AIFM**” means an EEA AIFM (within the meaning given in regulation 78A(1)(b) of the Alternative Investment Fund Managers Regulations 2013) to whom regulation 78B of those Regulations applies.
+
+(2) Subject to paragraph (5) and regulation 6(3) and (4)—
+
+- (a) regulations 7 to 11 do not apply in relation to any contract made by a supplier who is an authorised person, the making or performance of which constitutes or is part of a regulated activity carried on by him;
+- (b) regulation 15 does not apply to any supply of financial services by a supplier who is an authorised person, where that supply constitutes or is part of a regulated activity carried on by him.
+
+(3) Subject to regulation 6(3) and (4)—
+
+- (a) regulations 7 and 8 do not apply in relation to any contract made by a supplier who is an appointed representative, the making or performance of which constitutes or is part of a regulated activity (other than an exempt regulated activity) carried on by him;
+- (b) regulation 15 does not apply to any supply of financial services by a supplier who is an appointed representative, where that supply constitutes or is part of a regulated activity (other than an exempt regulated activity) carried on by him.
+
+(4) Subject to regulation 6(3) and (4)—
+
+- (a) regulations 7 and 8 do not apply in relation to any contract where—
+  - (i) the supplier is bound, or is controlled or managed by one or more persons who are bound, by rules of a designated professional body which are equivalent to those regulations, and
+  - (ii) the making or performance of that contract constitutes or is part of an exempt regulated activity carried on by the supplier;
+- (b) regulation 15 does not apply to any supply of financial services where—
+  - (i) the supplier is bound, or is controlled or managed by one or more persons who are bound, by rules of a designated professional body which are equivalent to that regulation, and
+  - (ii) that supply constitutes or is part of an exempt regulated activity carried on by the supplier.
+
+(5) Paragraph (2) does not apply in relation to any contract or supply of financial services made by a supplier who is the operator, trustee or depositary of a scheme which is a relevant recognised scheme[^key-bab922e03a6b0c2ce22a71eb606083d6], where the making or performance of the contract or the supply of the financial services constitutes or is part of a regulated activity for which he has permission in that capacity , by virtue of regulation 72(2) of the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulation 2019 (“[^key-3b8c0be6432e2e01ddb336abc1266c47]**the 2019 Regulations**”) (temporary authorisation of operator, trustee or depositary of recognised scheme).
+
+(6)[^key-b8238eda124eb1678df77440eddc3d8d] In paragraphs (1), (1B) and (5)[^key-025c5ff62ba22bd8e4e1cefeb6bd7c7c]—
+
+- “**operator**”, “**trustee**” and “**depositary**” have the same meanings as in Part 17 of the 2000 Act (see section 237 of that Act);
+- “**relevant recognised scheme**” means a stand-alone scheme or sub-fund (within the meaning of Part 6 of the 2019 Regulations) that is a recognised scheme by virtue of regulation 62 of the 2019 Regulations (temporary recognition for EEA UCITS or sub-fund of EEA UCITS).
+
+## 5.
+
+(1) Where a consumer and a supplier enter an initial service agreement and—
+
+- (a) successive operations of the same nature, or
+- (b) a series of separate operations of the same nature,
+
+are subsequently performed between them over time and within the framework of that agreement, then, if any of regulations 7 to 14 apply, they apply only to the initial service agreement.
+
+(2) Where a consumer and a supplier do not enter an initial service agreement and—
+
+- (a) successive operations of the same nature, or
+- (b) a series of separate operations of the same nature,
+
+are performed between them over time, then, if regulations 7 and 8 apply, they apply only—
+
+- (i) when the first operation is performed, and
+- (ii) to any operation which is performed more than one year after the previous operation.
+
+(3) For the purposes of this regulation, “**initial service agreement**” includes, for example, an agreement for the provision of—
+
+- (a) a bank account;
+- (b) a credit card; or
+- (c) portfolio management services.
+
+(4) For the purposes of this regulation, “**operations**” includes, for example—
+
+- (a) deposits to or withdrawals from a bank account;
+- (b) payments by a credit card;
+- (c) transactions carried out within the framework of an initial service agreement for portfolio management services; and
+- (d) subscriptions to new units of the same collective investment fund,
+
+but does not include adding new elements to an existing initial service agreement, for example adding the possibility of using an electronic payment instrument together with an existing bank account.
+
+## 6. Financial services marketed by an intermediary
+
+(1) This regulation applies where a financial service is marketed by an intermediary.
+
+(2) These Regulations have effect as if—
+
+- (a) each reference to a supplier in the definition of “breach” in regulation 2(1) were a reference to a supplier or an intermediary;
+- (b) the reference to the supplier in the definition of “means of distance communication” in regulation 2(1), each reference to the supplier in regulations 7, 8(1) and (2), 10 and 11(3)(b), and the first reference to the supplier in regulation 8(4), were a reference to the intermediary;
+- (c) the reference to the supplier in regulation 8(3) were a reference to the supplier or the intermediary;
+- (d) for regulation 11(2) there were substituted—
+
+  > (2) Paragraph (1) does not apply to a distance contract if the intermediary has not complied with regulation 8(1) (and the supplier has not done what the intermediary was required to do by regulation 8(1)), unless—
+  >
+  > - (a) the circumstances fall within regulation 8(1)(b); and
+  > - (b) either—
+  >   - (i) the intermediary has complied with regulation 7(1) and (2) or, if applicable, regulation 7(4)(b), and with regulation 7(5), or
+  >   - (ii) the supplier has done what the intermediary was required to do by regulation 7(1) and (2) or, if applicable, regulation 7(4)(b), and by regulation 7(5).
+
+  ;
+- (e) the reference to a supplier in regulation 22(1) were a reference to an intermediary; and
+- (f) each reference to the supplier in paragraphs 2, 4, 5 and 19 of Schedule 1 were a reference to the supplier and the intermediary.
+
+(3) Notwithstanding paragraphs (2) to (4) of regulation 4, regulations 7 and 8 apply in relation to the intermediary unless—
+
+- (a) the intermediary is an authorised person and the marketing of the financial service constitutes or is part of a regulated activity carried on by him;
+- (b) the intermediary is an appointed representative and the marketing of the financial service constitutes or is part of a regulated activity (other than an exempt regulated activity) carried on by him; or
+- (c) the intermediary is not an authorised person, but—
+  - (i) he is bound, or is controlled or managed by one or more persons who are bound, by rules of a designated professional body which are equivalent to regulations 7 and 8, and
+  - (ii) the marketing of the financial service constitutes or is part of an exempt regulated activity carried on by him.
+
+(4) Notwithstanding paragraphs (2) to (4) of regulation 4, regulation 15 applies to the intermediary unless—
+
+- (a) the intermediary is an authorised person and is acting in the course of a regulated activity carried on by him;
+- (b) the intermediary is an appointed representative and is acting in the course of a regulated activity (other than an exempt regulated activity) carried on by him; or
+- (c) the intermediary is not an authorised person, but—
+  - (i) he is bound, or is controlled or managed by one or more persons who are bound, by rules of a designated professional body which are equivalent to regulation 15, and
+  - (ii) he is acting in the course an exempt regulated activity carried on by him.
+
+## 6A. Intermediaries in relation to certain agreements[^key-13339239bea21210f0d30f7f449d1806]
+
+Neither regulation 7 (information required prior to the conclusion of the contract) nor regulation 8 (written and additional information) applies to an intermediary where—
+
+- (a) the distance contract is an agreement—
+  - (i) which meets each of the conditions set out in article 60F(2)(a) to (d) (exempt agreements: exemptions relating to number of repayments to be made) of the Regulated Activities Order; and
+  - (ii) to which article 60F(7A) of that Order applies; and
+- (b) but for the operation of article 36FB (activities in relation to certain regulated credit agreements) of the Regulated Activities Order, the activity undertaken by the intermediary would be within the scope of article 36A (credit broking) of that Order.
+
+## 7. Information required prior to the conclusion of the contract
+
+(1) Subject to paragraphs (1A), (4), (6) and (7)[^key-b3a899711c77e75f833a69c8098b92b1], in good time prior to the consumer being bound by any distance contract, the supplier shall provide to the consumer the information specified in Schedule 1.
+
+(1A)[^key-f3c3a14debd7c4820d6e7724b3ba243a] Where a distance contract to which paragraph (1) applies is also a contract for payment services to which the Payment Services Regulations 2017[^key-cdab82ddcf4f39c70d0b99cf46efbfc4] apply, the supplier is required to provide to the consumer only the information specified in paragraphs 8 to 13, 16 [^key-1f03f9d7dc8591b6846be23650a9541f]... and 21 of Schedule 1.
+
+(2) The supplier shall provide the information specified in Schedule 1 in a clear and comprehensible manner appropriate to the means of distance communication used, with due regard in particular to the principles of good faith in commercial transactions and the principles governing the protection of those who are unable to give their consent such as minors.
+
+(3) Subject to paragraph (4), the supplier shall make clear his commercial purpose when providing the information specified in Schedule 1.
+
+(4) In the case of a voice telephone communication—
+
+- (a) the supplier shall make clear his identity and the commercial purpose of any call initiated by him at the beginning of any conversation with the consumer; and
+- (b) if the consumer explicitly consents, only the information specified in Schedule 2 need be given.
+
+(5) The supplier shall ensure that the information he provides to the consumer pursuant to this regulation, regarding the contractual obligations which would arise if the distance contract were concluded, accurately reflects the contractual obligations which would arise under the law presumed to be applicable to that contract.
+
+(6)[^key-426e2304233867bcc4bd072afc994752] This regulation shall not apply to a distance contract which is also a consumer credit agreement (other than an authorised non-business overdraft agreement) in respect of which the supplier has disclosed the pre-contract credit information required by regulations 3, 4 or 5, as the case may be, and 7, of the Disclosure of Information Regulations (information to be disclosed to a debtor before a regulated consumer credit agreement is made) in accordance with those Regulations.
+
+(7) This regulation shall not apply to a distance contract which is also an authorised non-business overdraft agreement in respect of which—
+
+- (a) the supplier has disclosed the information required by regulation 10(2) of the Disclosure of Information Regulations (authorised non-business overdraft agreements) by means of the Pre-contract Credit Information (Overdrafts) form[^key-e06b35bef4fd3e90217f40952895506e] in accordance with those Regulations; or
+- (b) in the case of a voice telephone communication, the supplier has—
+  - (i) disclosed the information required by regulation 10(5) of the Disclosure of Information Regulations in accordance with those Regulations; and
+  - (ii) provided a copy of the written agreement in accordance with section 61B(2)(b) of the Consumer Credit Act 1974; or
+- (c) in the case of an agreement made using a means of distance communication, other than voice telephone communication, such that the supplier is unable to provide the information required by regulation 10(2) of the Disclosure of Information Regulations, the supplier has—
+  - (i) provided a copy of the written agreement in accordance with section 61B(2)(c) of the Consumer Credit Act 1974, and
+  - (ii) in relation to the contractual obligations which would arise if the distance contract were concluded, provided information which accurately reflects the contractual obligations which would arise under the law presumed to be applicable to that contract.
+
+## 8. Written and additional information
+
+(1) Subject to[^key-ccefcdd4cb3e4fcbd26c834522a35f6c] paragraphs (1A) to (1C)[^key-5ea9ec23be063c14c04de8e104db6c37], the supplier under a distance contract shall communicate to the consumer on paper, or in another durable medium which is available and accessible to the consumer, all the contractual terms and conditions and the information specified in Schedule 1, either—
+
+- (a) in good time prior to the consumer being bound by that distance contract; or
+- (b) immediately after the conclusion of the contract, where the contract has been concluded at the consumer’s request using a means of distance communication which does not enable provision in accordance with sub-paragraph (a) of the contractual terms and conditions and the information specified in Schedule 1.
+
+(1A)[^key-e9036c3664f307731b9bc7e85baa3103] Where a distance contract to which paragraph (1) applies is also a contract for payment services to which the Payment Services Regulations 2017[^key-244afb35a657f0547b882d6eba24d1ca] apply, the supplier is required to communicate to the consumer all the contractual terms and conditions and the information specified in paragraphs 8 to 13, 16 [^key-19f93fd1581afaf1dc7244525d8817f2]... and 21 of Schedule 1.
+
+(1B)[^key-756d46fec9c6a8accd3451e891dd724f] Paragraph (1) shall not apply to a distance contract which is also a consumer credit agreement (other than an authorised non-business overdraft agreement) in respect of which the supplier has disclosed the pre-contract credit information required by regulations 3, 4 or 5, as the case may be, and 7 of the Disclosure of Information Regulations in accordance with those Regulations.
+
+(1C) Paragraph (1) shall not apply to a distance contract which is also an authorised non-business overdraft agreement in respect of which—
+
+- (a) the supplier has—
+  - (i) disclosed the information required by regulation 10(2) of the Disclosure of Information Regulations (authorised non-business overdraft agreements) by means of the Pre-contract Credit Information (Overdrafts) form[^key-45e227b2391660426210091173daabfc] in accordance with those Regulations; and
+  - (ii) provided a copy of the contractual terms and conditions, or
+- (b) in the case of a voice telephone communication the supplier has—
+  - (i) disclosed the information required by regulation 10(5) of the Disclosure of Information Regulations in accordance with those Regulations; and
+  - (ii) provided a copy of the written agreement in accordance with section 61B(2)(b) of the Consumer Credit Act 1974; or
+- (c) in the case of an agreement made using a means of distance communication, other than voice telephone communication, such that the supplier is unable to provide the information required by regulation 10(2) of the Disclosure of Information Regulations, the supplier has provided a copy of the written agreement in accordance with section 61B(2)(c) of the Consumer Credit Act 1974.
+
+(2) The supplier shall communicate the contractual terms and conditions to the consumer on paper, if the consumer so requests at any time during their contractual relationship.
+
+(3) Paragraph (2) does not apply if the supplier has already communicated the contractual terms and conditions to the consumer on paper during that contractual relationship, and those terms and conditions have not changed since they were so communicated.
+
+(4) The supplier shall change the means of distance communication with the consumer if the consumer so requests at any time during his contractual relationship with the supplier, unless that is incompatible with the distance contract or the nature of the financial service provided to the consumer.
+
+## 9. Right to cancel
+
+(1) Subject to regulation 11, if within the cancellation period set out in regulation 10 notice of cancellation is properly given by the consumer to the supplier, the notice of cancellation shall operate to cancel the distance contract.
+
+(2) Cancelling the contract has the effect of terminating the contract at the time at which the notice of cancellation is given.
+
+(3) For the purposes of these Regulations, a notice of cancellation is a notification given—
+
+- (a) orally (where the supplier has informed the consumer that notice of cancellation may be given orally),
+- (b) in writing, or
+- (c) in another durable medium available and accessible to the supplier,
+
+which, however expressed, indicates the intention of the consumer to cancel the contract by that notification.
+
+(4) Notice of cancellation given under this regulation by a consumer to a supplier is to be treated as having been properly given if the consumer—
+
+- (a) gives it orally to the supplier (where the supplier has informed the consumer that notice of cancellation may be given orally);
+- (b) leaves it at the address of the supplier last known to the consumer and addressed to the supplier by name (in which case it is to be taken to have been given on the day on which it was left);
+- (c) sends it by post to the address of the supplier last known to the consumer and addressed to the supplier by name (in which case it is to be taken to have been given on the day on which it was posted);
+- (d) sends it by facsimile to the business facsimile number of the supplier last known to the consumer (in which case it is to be taken to have been given on the day on which it was sent);
+- (e) sends it by electronic mail to the business electronic mail address of the supplier last known to the consumer (in which case it is to be taken to have been given on the day on which it is sent); or
+- (f) by other electronic means—
+  - (i) sends it to an internet address or web-site which the supplier has notified the consumer may be used for the purpose, or
+  - (ii) indicates it on such a web-site in accordance with instructions which are on the web-site or which the supplier has provided to the consumer,
+
+  (in which case it is to be taken to have been given on the day on which it is sent to that address or web-site or indicated on that web-site).
+
+(5) The references in paragraph (4)(b) and (c) to the address of the supplier shall, in the case of a supplier which is a body corporate, be treated as including a reference to the address of the secretary or clerk of that body.
+
+(6) The references in paragraph (4)(b) and (c) to the address of the supplier shall, in the case of a supplier which is a partnership, be treated as including a reference to the address of a partner or a person having control or management of the partnership business.
+
+(7) In this regulation—
+
+- (a) every reference to the supplier includes a reference to any other person previously notified by or on behalf of the supplier to the consumer as a person to whom notice of cancellation may be given;
+- (b) the references to giving notice of cancellation orally include giving such notice by voice telephone communication, where the supplier has informed the consumer that notice of cancellation may be given in that way; and
+- (c) “**electronic mail**” has the same meaning as in regulation 2(1) of the Privacy and Electronic Communications (EC Directive) Regulations 2003 (interpretation) [^c5262491].
+
+## 10. Cancellation period
+
+(1) For the purposes of regulation 9, the cancellation period begins on the day on which the distance contract is concluded (“conclusion day”) and ends as provided for in paragraphs (2) to (5).
+
+(2) Where the supplier complies with regulation 8(1) on or before conclusion day, the cancellation period ends on the expiry of fourteen calendar days beginning with the day after conclusion day.
+
+(3) Where the supplier does not comply with regulation 8(1) on or before conclusion day, but subsequently communicates to the consumer on paper, or in another durable medium which is available and accessible to the consumer, all the contractual terms and conditions and the information required under regulation 8(1), the cancellation period ends on the expiry of fourteen calendar days beginning with the day after the day on which the consumer receives the last of those terms and conditions and that information.
+
+(4) In the case of a distance contract relating to life insurance, for the references to conclusion day in paragraphs (2) and (3) there are substituted references to the day on which the consumer is informed that the distance contract has been concluded.
+
+(5) In the case of a distance contract relating to life insurance or a personal pension, for the references to fourteen calendar days in paragraphs (2) and (3) there are substituted references to thirty calendar days.
+
+## 11. Exceptions to the right to cancel
+
+(1) Subject to paragraphs (2) and (3), regulation 9 does not confer on a consumer a right to cancel a distance contract which is—
+
+- (a) a contract for a financial service where the price of that service depends on fluctuations in the financial market outside the supplier’s control, which may occur during the cancellation period, such as services related to—
+  - (i) foreign exchange,
+  - (ii) money market instruments,
+  - (iii) transferable securities,
+  - (iv) units in collective investment undertakings,
+  - (v) financial-futures contracts, including equivalent cash-settled instruments,
+  - (vi) forward interest-rate agreements,
+  - (vii) interest-rate, currency and equity swaps,
+  - (viii) options to acquire or dispose of any instruments referred to in sub-paragraphs (i) to (vii), including cash-settled instruments and options on currency and on interest rates;
+- (b) a contract whose performance has been fully completed by both parties at the consumer’s express request before the consumer gives notice of cancellation;
+- (c) a contract which—
+  - (i) is a connected contract of insurance within the meaning of article 72B(1) of the Regulated Activities Order (activities carried on by a provider of relevant goods or services) [^c5262501],
+  - (ii) covers travel risks within the meaning of article 72B(1)(d)(ii) of that Order, and
+  - (iii) has a total duration of less than one month;
+- (d) a contract under which a supplier provides credit to a consumer and the consumer’s obligation to repay is secured by a legal mortgage on land;
+- (e)[^key-6caf03c417f42a03ca11268b07a31270] a credit agreement terminated under regulation 38(1) of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (automatic termination of related agreements);
+- (f)[^key-bc8e4081d2d39828041e0cb0a9ca3b6f] a credit agreement cancelled under regulation 23 of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (automatic termination of credit agreement);
+- (g) a restricted-use credit agreement (within the meaning of the 1974 Act) to finance the purchase of land or an existing building, or an agreement for a bridging loan in connection with the purchase of land or an existing building.
+- (h)[^key-7340314af6070118c2022803cafa1daa] a regulated consumer credit agreement to which the right of withdrawal applies under section 66A of the 1974 Act;
+
+(2) Paragraph (1) does not apply to a distance contract if the supplier has not complied with regulation 8(1), unless—
+
+- (a) the circumstances fall within regulation 8(1)(b); and
+- (b) the supplier has complied with regulation 7(1) and (2) or, if applicable, regulation 7(4)(b), and with regulation 7(5).
+
+(3) Where—
+
+- (a) the conditions in sub-paragraphs (a) and (b) of paragraph (2) are satisfied in relation to a distance contract falling within paragraph (1),
+- (b) the supplier has not complied with regulation 8(1), and
+- (c) the consumer has not, by the end of the sixth day after the day on which the distance contract is concluded, received all the contractual terms and conditions and the information required under regulation 8(1),
+
+the consumer may cancel the contract under regulation 9 during the period beginning on the seventh day after the day on which the distance contract is concluded and ending when he receives the last of the contractual terms and conditions and the information required under regulation 8(1).
+
+## 12. Automatic cancellation of an attached distance contract
+
+(1) For the purposes of this regulation, where there is a distance contract for the provision of a financial service by a supplier to a consumer (“the main contract”) and there is a further distance contract (“the secondary contract”) for the provision to that consumer of a further financial service by—
+
+- (a) the same supplier, or
+- (b) a third party, the further financial service being provided pursuant to an agreement between the third party and the supplier under the main contract,
+
+then the secondary contract (referred to in these Regulations as an “**attached contract**”) is attached to the main contract if any of the conditions in paragraph (2) are satisfied.
+
+(2) The conditions referred to in paragraph (1) are—
+
+- (a) the secondary contract is entered into in compliance with a term of the main contract;
+- (b) the main contract is, or is to be, financed by the secondary contract;
+- (c) the main contract is a debtor-creditor-supplier agreement within the meaning of the 1974 Act, and the secondary contract is, or is to be, financed by the main contract;
+- (d) the secondary contract is entered into by the consumer to induce the supplier to enter into the main contract;
+- (e) performance of the secondary contract requires performance of the main contract.
+
+(3) Where a main contract is cancelled by a notice of cancellation given under regulation 9—
+
+- (a) the cancellation of the main contract also operates to cancel, at the time at which the main contract is cancelled, any attached contract which is not a contract or agreement of a type listed in regulation 11(1); and
+- (b) the supplier under the main contract shall, if he is not the supplier under the attached contract, forthwith on receipt of the notice of cancellation inform the supplier under the attached contract.
+
+(4) Paragraph (3)(a) does not apply to an attached contract if, at or before the time at which the notice of cancellation in respect of the main contract is given, the consumer has given and not withdrawn a notice to the supplier under the main contract that cancellation of the main contract is not to operate to cancel that attached contract.
+
+(5) Where a main contract made by an authorised person, the making or performance of which constitutes or is part of a regulated activity carried on by him, is cancelled under rules made by the Authority corresponding to regulation 9—
+
+- (a) the cancellation of the main contract also operates to cancel, at the time at which the main contract is cancelled, any attached contract which is not a contract or agreement of a type listed in regulation 11(1); and
+- (b) the supplier under the main contract shall, if he is not the supplier under the attached contract, inform the supplier under the attached contract forthwith on receiving notification of the consumer’s intention to cancel the main contract by that notification.
+
+(6) Paragraph (5)(a) does not apply to an attached contract if, at or before the time at which the consumer gives notification of his intention to cancel the main contract by that notification, the consumer has given and not withdrawn a notice to the supplier under the main contract that cancellation of the main contract is not to operate to cancel that attached contract.
+
+## 13. Payment for services provided before cancellation
+
+(1) This regulation applies where a cancellation event occurs in relation to a distance contract.
+
+(2) In this regulation, “**cancellation event**” means the cancellation of a distance contract under regulation 9 or 12.
+
+(3) The supplier shall refund any sum paid by or on behalf of the consumer under or in relation to the contract to the person by whom it was paid, less any charge made in accordance with paragraph (6), as soon as possible and in any event within a period not exceeding 30 calendar days beginning with—
+
+- (a) the day on which the cancellation event occurred; or
+- (b) if the supplier proves that this is later—
+  - (i) in the case of a contract cancelled under regulation 9, the day on which the supplier in fact received the notice of cancellation, or
+  - (ii) in the case of an attached contract under which the supplier is not the supplier under the main contract, the day on which, pursuant to regulation 12(3)(b) or (5)(b), he was in fact informed by the supplier under the main contract of the cancellation of the main contract.
+
+(4) The reference in paragraph (3) to any sum paid on behalf of the consumer includes any sum paid by any other person (“**the creditor**”), who is not the supplier, under an agreement between the consumer and the creditor by which the creditor provides the consumer with credit of any amount.
+
+(5) Where any security has been provided in relation to the contract, the security (so far as it has been provided) shall, on cancellation under regulation 9 or 12, be treated as never having had effect; and any property lodged solely for the purposes of the security as so provided shall be returned forthwith by the person with whom it is lodged.
+
+(6) Subject to paragraphs (7), (8) and (9), the supplier may make a charge for any service actually provided by the supplier in accordance with the contract.
+
+(7) The charge shall not exceed an amount which is in proportion to the extent of the service provided to the consumer prior to the time at which the cancellation event occurred (including the service of arranging to provide the financial service) in comparison with the full coverage of the contract, and in any event shall not be such that it could be construed as a penalty.
+
+(8) The supplier may not make any charge unless he can prove on the balance of probabilities that the consumer was informed about the amount payable in accordance with—
+
+- (a) regulation 7(1) and paragraph 13 of Schedule 1,
+- (b) regulation 7(4) and paragraph 5 of Schedule 2, or
+- (c) rules corresponding to those provisions,
+
+as the case may be.
+
+(9) The supplier may not make any charge if, without the consumer’s prior request, he commenced performance of the contract prior to the expiry of the relevant cancellation period.
+
+(10) In paragraph (9), the relevant cancellation period is the cancellation period which—
+
+- (a) in the case of a main contract, is applicable to that contract, or
+- (b) in the case of an attached contract, would be applicable to that contract if that contract were a main contract,
+
+under regulation 10, or under rules corresponding to that regulation, as the case may be.
+
+(11) The consumer shall, as soon as possible and in any event within a period not exceeding 30 calendar days beginning with the day on which the cancellation event occurred—
+
+- (a) refund any sum paid by or on behalf of the supplier under or in relation to that contract to the person by whom it was paid; and
+- (b) either restore to the supplier any property of which he has acquired possession under that contract, or deliver or send that property to any person to whom, under regulation 9, a notice of cancellation could have been given in respect of that contract.
+
+(12) Breach of a duty imposed by paragraph (11) on a consumer is actionable as a breach of statutory duty.
+
+## 14. Payment by card[^key-9930ae71684bb3c06c425b20af54e372]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Unsolicited services
+
+(1) A person (“**the recipient**”) who receives unsolicited financial services for purposes other than those of his business from another person who supplies those services in the course of his business, shall not thereby become subject to any obligation (to make payment, or otherwise).
+
+(2)[^key-d2a292ae37f7dbf1c674c77d3a20e9ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-d2a292ae37f7dbf1c674c77d3a20e9ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In this regulation, “**unsolicited**” means, in relation to financial services supplied to any person, that they are supplied without any prior request made by or on behalf of that person.
+
+(5)[^key-4fd8a49ca6f465e35cbd0f86625dc7ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-4fd8a49ca6f465e35cbd0f86625dc7ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-4fd8a49ca6f465e35cbd0f86625dc7ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) This regulation is without prejudice to any right a supplier may have at any time, by contract or otherwise, to renew a distance contract with a consumer without any request made by or on behalf of that consumer prior to the renewal of that contract.
+
+## 16. Prevention of contracting-out
+
+(1) A term contained in any contract is void if, and to the extent that, it is inconsistent with the application of a provision of these Regulations to a distance contract or the application of regulation 15 to a supply of unsolicited financial services.
+
+(2) Where a provision of these Regulations specifies a duty or liability of the consumer in certain circumstances, a term contained in a contract is inconsistent with that provision if it purports to impose, directly or indirectly, an additional or greater duty or liability on him in those circumstances.
+
+(3)[^key-a1032f6577a8d5161bd634fa45dd1453] These Regulations apply despite any contract term which applies or purports to apply the law of a country other than the United Kingdom, if the contract or supply has a close connection with the United Kingdom or any part of the United Kingdom.
+
+## 17. Enforcement authorities
+
+(1) For the purposes of regulations 18 to 21—
+
+- (a) in relation to any alleged breach concerning a specified contract—[^key-b10d36073ad07bcde55d363a015cf2b1]
+  - (i) the Authority, and
+  - (ii) where the contract is a consumer credit contract—
+    - (aa) in Great Britain, every local weights and measures authority, and
+    - (bb) in Northern Ireland, the Department of Enterprise, Trade and Investment,
+
+  is an enforcement authority;
+- (b) in relation to any alleged breach concerning a contract under which the supplier is a local authority, but which is not a specified contract, theCMA[^key-899eeacc7a94bf8edc84cb05f02bd797] is the enforcement authority;
+- (c) in relation to any other alleged breach—
+  - (i) the CMA[^key-a4ad981d6cf8eb71dc7def9fc5441037], and
+  - (ii) in Great Britain every local weights and measures authority, and in Northern Ireland the Department of Enterprise, Trade and Investment,
+
+  is an enforcement authority.
+
+(2) For the purposes of paragraph (1) and regulation 22(6), each of the following is a specified contract—
+
+- (a) a contract the making or performance of which constitutes or is part of a regulated activity carried on by the supplier or an activity which would constitute a regulated activity carried on by the supplier but for any of articles 60C to 60H of the Regulated Activities Order[^key-5fdfacddd8349fb6febc4c01c3d31de6];
+- (b) a contract for the provision of a debit card;
+- (c) a contract relating to the issuing of electronic money by an electronic money institution within the meaning of the Electronic Money Regulations 2011[^key-377676c904bcebbf557f99b75e6f15de][^key-e5ed974b6c21fba9b895aa84fa924978]... ;
+- (d) a contract the effecting or carrying out of which is excluded from article 10(1) or (2) of the Regulated Activities Order (effecting and carrying out contracts of insurance) by article 12 of that order (breakdown insurance), where the supplier is a person who does not otherwise carry on an activity of the kind specified by article 10 of that order;
+- (e) a contract under which a supplier provides credit to a consumer and the obligation of the consumer to repay is secured by a first legal mortgage on land;
+- (f) a contract, made before 14th January 2005, for insurance mediation activity other than in respect of a contract of long-term care insurance.
+
+(2A)[^key-88c4edd66e5e00c52c75461668bf537f] For the purposes of paragraph (1) and regulation 22(6), a “consumer credit contract” means a contract the making or performance of which constitutes or is part of a regulated activity of the kind specified by a provision of the Regulated Activities Order listed in paragraph (2B) carried on by the supplier.
+
+(2B) The provisions are—
+
+- (a) article 36A (credit broking);
+- (b) article 36H (operating an electronic system in relation to lending);
+- (c) article 39D (debt adjusting);
+- (d) article 39E (debt-counselling);
+- (e) article 39F (debt-collecting);
+- (f) article 39G (debt administration);
+- (g) article 60B (regulated credit agreements);
+- (h) article 60N (regulated consumer hire agreements);
+- (i) article 89A (providing credit information services);
+- (j) article 89B (providing credit references);
+- (k) article 64 (agreeing to carry on specified kinds of activity) in so far as it relates to an activity of the kind specified by a provision listed in sub-paragraphs (a) to (j).
+
+(3) For the purposes of the application of this regulation and regulations 18 to 22 in relation to breaches of, and offences under, regulation 15, “**contract**”—
+
+- (a) wherever it appears in this regulation other than in the expression “contract of long-term care insurance”, and
+- (b) in regulation 22(6),
+
+is to be taken to mean “supply of financial services”.
+
+(4) For the purposes of this regulation—
+
+- [^c5262571]“**contract of long-term care insurance**” has the same meaning as in the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 ;
+- [^c5262581]“**insurance mediation activity**” means any activity which is not a regulated activity at the time the contract is made but will be a regulated activity of the kind specified by article 21, 25(1) or (2), 39A or 53 of the Regulated Activities Order when the amendments to that order made by the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 come into force ;
+- “**local authority**” means—
+  - (a) [^c5262591]in England and Wales, a local authority within the meaning of the Local Government Act 1972 , the Greater London Authority, the Common Council of the City of London or the Council of the Isles of Scilly,
+  - (b) [^c5262601]in Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 , and
+  - (c) [^c5262611]in Northern Ireland, a district council within the meaning of the Local Government Act (Northern Ireland) 1972 .
+
+## 18. Consideration of complaints
+
+(1) An enforcement authority shall consider any complaint made to it about a breach unless—
+
+- (a) the complaint appears to that authority to be frivolous or vexatious; or
+- (b) that authority is aware that another enforcement authority has agreed, by notifying that authority or the relevant regulator,[^key-dc24eed41039fd38564a6351689f732e] to consider the complaint.
+
+(2) If an enforcement authority notifies another enforcement authority or the relevant regulator[^key-3e03f964f8a782fc57517bd1d109199c] that it agrees to consider a complaint made to another enforcement authority, the first mentioned authority shall be under a duty to consider the complaint.
+
+## 19. Injunctions to secure compliance with these Regulations
+
+(1) Subject to paragraph (2), an enforcement authority may apply for an injunction (including an interim injunction) against any person who appears to that authority to be responsible for a breach.
+
+(2) An enforcement authority, other than the relevant regulator[^key-48db041faa435160b3754756c8fb5b01] [^key-a05df2090e032b29c1fde8e4332e7270]..., may apply for an injunction only where—
+
+- (a) that authority has notified the relevant regulator, at least fourteen days before the date on which the application is to be made, of its intention to apply; or
+- (b) the relevant regulator consents to the application being made within a shorter period.
+
+(3) On an application made under this regulation, the court may grant an injunction on such terms as it thinks fit to secure compliance with these Regulations.
+
+(4) An enforcement authority which has a duty under regulation 18 to consider a complaint shall give reasons for its decision to apply or not to apply, as the case may be, for an injunction.
+
+(5) In deciding whether or not to apply for an injunction in respect of a breach, an enforcement authority may, if it considers it appropriate to do so, have regard to any undertaking as to compliance with these Regulations given to it or to another enforcement authority by or on behalf of any person.
+
+(6) In the application of this regulation to Scotland, for references to an “injunction” or an “interim injunction” there are substituted references to an “ interdict ” or an “ interim interdict ” respectively.
+
+## 20. Notification of undertakings and orders to the relevant regulator[^key-bd3983685af04d8dbb7a5df868a76cb4]
+
+An enforcement authority, other than the relevant regulator[^key-214e0955b5ec082fb09ae5fa2c2836b5] [^key-2ddb85dfefd8514f3e6e0662ed509f25]... , shall notify the relevant regulator of—
+
+- (a) any undertaking given to it by or on behalf of any person who appears to it to be responsible for a breach;
+- (b) the outcome of any application made by it under regulation 19 and the terms of any undertaking given to, or order made by, the court; and
+- (c) the outcome of any application made by it to enforce a previous order of the court.
+
+## 21. Publication, information and advice
+
+(1) The relevant regulator[^key-c950d57f0cc8625114962201cb339ff2] shall arrange for the publication, in such form and manner as it considers appropriate, of details of any undertaking or order notified to it under regulation 20.
+
+(2) Each of the relevant regulator[^key-6cdff8742a57fb8cf05fcf2521197a19] shall arrange for the publication in such form and manner as it considers appropriate of—
+
+- (a) details of any undertaking as to compliance with these Regulations given to it by or on behalf of any person;
+- (b) details of any application made by it under regulation 19, and of the terms of any undertaking given to, or order made by, the court; and
+- (c) details of any application made by it to enforce a previous order of the court.
+
+(3) Each of the relevant regulator[^key-70615f2903ea0a24c6726fc94fbd58fc] may arrange for the dissemination, in such form and manner as it considers appropriate, of such information and advice concerning the operation of these Regulations as may appear to it to be expedient to give to the public and to all persons likely to be affected by these Regulations.
+
+## 22. Offences
+
+(1) A supplier under a distance contract who fails to comply with regulation 7(3) or (4)(a) or regulation 8(2) or (4) is guilty of an offence and liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
+
+(2) If an offence under paragraph (1) [^key-da2addc5c1ef3bcd6e8688e470994557]... committed by a body corporate is shown—
+
+- (a) to have been committed with the consent or connivance of any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, or
+- (b) to be attributable to any neglect on his part,
+
+he as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(3) If the affairs of a body corporate are managed by its members, paragraph (2) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body.
+
+(4) If an offence under paragraph (1) [^key-a9e35e2d8dabf412665391de1991088d]... committed by a partnership is shown—
+
+- (a) to have been committed with the consent or connivance of any partner, or any person who was purporting to act as a partner, or
+- (b) to be attributable to any neglect on his part,
+
+he as well as the partnership is guilty of an offence and liable to be proceeded against and punished accordingly.
+
+(5) If an offence under paragraph (1), [^key-aa75f6510298ab88ee1ba3e61b0004ad]... committed by an unincorporated association (other than a partnership) is shown—
+
+- (a) to have been committed with the consent or connivance of an officer of the association or a member of its governing body, or any person who was purporting to act in any such capacity, or
+- (b) to be attributable to any neglect on his part,
+
+he as well as the association is guilty of an offence and liable to be proceeded against and punished accordingly.
+
+(6) Except in Scotland—
+
+- (a) the Authority may institute proceedings for an offence under these Regulations which relates to a specified contract;
+- (aa)[^key-0c3080c76dfee1228406f7ce3fc0ccb0] in Great Britain, every local weights and measures authority and, in Northern Ireland, the Department of Enterprise, Trade and Investment may institute proceedings for an offence under these Regulations which relates to a consumer credit contract;
+- (b) the CMA[^key-8f68a814b1e83eb9dc0940772c7b9274], and—
+  - (i) in Great Britain, every local weights and measures authority,
+  - (ii) in Northern Ireland, the Department of Enterprise, Trade and Investment,
+
+  may institute proceedings for any other offence under these Regulations.
+
+## 23. Functions of the Authority
+
+The functions conferred on the Authority by these Regulations shall be treated as if they were conferred by the 2000 Act.
+
+## 24. Amendment of the Unfair Terms in Consumer Contracts Regulations 1999
+
+(1) The Unfair Terms in Consumer Contracts Regulations 1999 [^c5262621] are amended as follows.
+
+(2) After regulation 3(1) (interpretation), insert—
+
+> (1A) The references—
+>
+> - (a) in regulation 4(1) to a seller or a supplier, and
+> - (b) in regulation 8(1) to a seller or supplier,
+>
+> include references to a distance supplier and to an intermediary.
+>
+> (1B) In paragraph (1A) and regulation 5(6)—
+>
+> “**distance supplier**” means—
+>
+> - (a) a supplier under a distance contract within the meaning of the Financial Services (Distance Marketing) Regulations 2004, or
+> - (b) a supplier of unsolicited financial services within regulation 15 of those Regulations; and
+>
+> “**intermediary**” has the same meaning as in those Regulations.
+
+.
+
+(3) After regulation 5(5) (unfair terms), insert—
+
+> (6) Any contractual term providing that a consumer bears the burden of proof in respect of showing whether a distance supplier or an intermediary complied with any or all of the obligations placed upon him resulting from the Directive and any rule or enactment implementing it shall always be regarded as unfair.
+>
+> (7) In paragraph (6)—
+>
+> “**the Directive**” means Directive [2002/65/EC](https://www.legislation.gov.uk/european/directive/2002/0065) of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive [90/619/EEC](https://www.legislation.gov.uk/european/directive/1990/0619) and Directives [97/7/EC](https://www.legislation.gov.uk/european/directive/1997/0007) and [98/27/EC](https://www.legislation.gov.uk/european/directive/1998/0027); and
+>
+> “**rule**” means a rule made by the Financial Services Authority under the Financial Services and Markets Act 2000 or by a designated professional body within the meaning of section 326(2) of that Act.
+
+.
+
+## 25. Amendment of the Consumer Protection (Distance Selling) Regulations 2000
+
+(1) The Consumer Protection (Distance Selling) Regulations 2000 [^c5262631] are amended as follows.
+
+(2) In regulation 3(1) (interpretation)—
+
+- (a) before the definition of “breach” insert—
+
+  > “**the 2000 Act**” means the Financial Services and Markets Act 2000;
+  >
+  > “**appointed representative**” has the same meaning as in section 39(2) of the 2000 Act;
+  >
+  > “**authorised person**” has the same meaning as in section 31(2) of the 2000 Act;
+
+  ;
+- (b) after the definition of “excepted contract” insert—
+
+  > “**financial service**” means any service of a banking, credit, insurance, personal pension, investment or payment nature;
+
+  ;
+- (c) after the definition of “personal credit agreement” insert—
+
+  > “**regulated activity**” has the same meaning as in section 22 of the 2000 Act;
+
+  .
+
+(3) In regulation 5(1)(c) (excepted contracts) omit “, a non-exhaustive list of which is contained in Schedule 2”.
+
+(4) After regulation 6(3) (contracts to which only part of those Regulations apply) insert—
+
+> (4) Regulations 7 to 14, 17 to 20 and 25 do not apply to any contract which is made, and regulation 24 does not apply to any unsolicited services which are supplied, by an authorised person where the making or performance of that contract or the supply of those services, as the case may be, constitutes or is part of a regulated activity carried on by him.
+>
+> (5) Regulations 7 to 9, 17 to 20 and 25 do not apply to any contract which is made, and regulation 24 does not apply to any unsolicited services which are supplied, by an appointed representative where the making or performance of that contract or the supply of those services, as the case may be, constitutes or is part of a regulated activity carried on by him.
+
+.
+
+(5) Omit Schedule 2 (non-exhaustive list of financial services).
+
+## 26. Amendment of the Enterprise Act 2002
+
+In Part 1 of Schedule 13 to the Enterprise Act 2002 (listed directives) [^c5262641], after paragraph 9 insert—
+
+> - (9A) Directive [2002/65/EC](https://www.legislation.gov.uk/european/directive/2002/0065) of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive [90/619/EEC](https://www.legislation.gov.uk/european/directive/1990/0619) and Directives [97/7/EC](https://www.legislation.gov.uk/european/directive/1997/0007) and [98/27/EC](https://www.legislation.gov.uk/european/directive/1998/0027).
+
+.
+
+## 27. Amendment of the Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003
+
+In the table in the Schedule to the Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003 (listed directives) [^c5262651], after the entry for Directive [2000/31/EC](https://www.legislation.gov.uk/european/directive/2000/0031) (“Directive on electronic commerce”) insert—
+
+> |  |  |
+> | --- | --- |
+> | Directive [2002/65/EC](https://www.legislation.gov.uk/european/directive/2002/0065) of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive [90/619/EEC](https://www.legislation.gov.uk/european/directive/1990/0619) and Directives [97/7/EC](https://www.legislation.gov.uk/european/directive/1997/0007) and [98/27/EC](https://www.legislation.gov.uk/european/directive/1998/0027). | Financial Services (Distance Marketing) Regulations 2004; rules corresponding to any provisions of those Regulations made by the Financial Services Authority or a designated professional body within the meaning of section 326(2) of the Financial Services and Markets Act 2000. |
+
+.
+
+## 28. Amendment of the Enterprise Act 2002 (Part 8 Notice to OFT of Intended Prosecution Specified Enactments, Revocation and Transitional Provision) Order 2003
+
+In the table in the Schedule to the Enterprise Act 2002 (Part 8 Notice to OFT of Intended Prosecution Specified Enactments, Revocation and Transitional Provision) Order 2003 [^c5262661], after the entry for the Fair Trading Act 1973 [^c5262671] insert—
+
+> |  |  |
+> | --- | --- |
+> | Financial Services (Distance Marketing) Regulations 2004. | All offences under those Regulations. |
+
+.
+
+## 29. Transitional provisions
+
+(1) In relation to any contract made before 31st May 2005 which is a consumer credit agreement within the meaning of the 1974 Act and a regulated agreement within the meaning of that Act—
+
+- (a) regulations 7, 8, 10 and 11 apply subject to the modifications in paragraphs (2) to (5); and
+- (b) references in these Regulations to regulations 7, 8, 10 and 11 or to provisions contained in them shall be construed accordingly.
+
+(2) In regulation 7—
+
+- (a) in paragraphs (1) to (3), before “Schedule 1” at each place where it occurs insert “ paragraph 13 of ”; and
+- (b) in paragraph (4)(b), before “Schedule 2” insert “ paragraph 5 of ”.
+
+(3) In regulation 8(1), for “contractual terms and conditions and the information specified in” at each place where it occurs substitute “ information specified in paragraph 13 of ”.
+
+(4) In regulation 10(3), omit—
+
+- (a) “the contractual terms and conditions and”; and
+- (b) “those terms and conditions and”.
+
+(5) In regulation 11(3), omit “the contractual terms and conditions and” at each place where it occurs.
+
+John Heppell Joan Ryan
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE 1 — Information required prior to the conclusion of the contract
+
+Regulations 7(1) and 8(1)
+
+**1.** The identity and the main business of the supplier, the geographical address at which the supplier is established and any other geographical address relevant to the consumer’s relations with the supplier.
+
+**2.** Where the supplier has a representative established in the United Kingdom[^key-6f354cf81b70fe662e3c574d2fe03b58], the identity of that representative and the geographical address relevant to the consumer’s relations with him.
+
+**3.** Where the consumer’s dealings are with any professional other than the supplier, the identity of that professional, the capacity in which he is acting with respect to the consumer, and the geographical address relevant to the consumer’s relations with that professional.
+
+**4.** Where the supplier is registered in a trade or similar public register, the particulars of the register in which the supplier is entered and his registration number or an equivalent means of identification in that register.
+
+**5.** Where the supplier’s activity is subject to an authorisation scheme, the particulars of the relevant supervisory authority.
+
+**6.** A description of the main characteristics of the financial service.
+
+**7.** The total price to be paid by the consumer to the supplier for the financial service, including all related fees, charges and expenses, and all taxes paid via the supplier or, where an exact price cannot be indicated, the basis for the calculation of the price enabling the consumer to verify it.
+
+**8.** Where relevant, notice indicating that: (i) the financial service is related to instruments involving special risks related to their specific features or the operations to be executed or whose price depends on fluctuations in the financial markets outside the supplier’s control; and (ii) historical performances are no indicators for future performances.
+
+**9.** Notice of the possibility that other taxes or costs may exist that are not paid via the supplier or imposed by him.
+
+**10.** Any limitations of the period for which the information provided is valid.
+
+**11.** The arrangements for payment and for performance.
+
+**12.** Any specific additional cost for the consumer of using the means of distance communication, if such additional cost is charged.
+
+**13.** Whether or not there is a right of cancellation and, where there is a right of cancellation, its duration and the conditions for exercising it, including information on the amount which the consumer may be required to pay in accordance with regulation 13, as well as the consequences of not exercising that right.
+
+**14.** The minimum duration of the distance contract in the case of financial services to be performed indefinitely or recurrently.
+
+**15.** Information on any rights the parties may have to terminate the distance contract early or unilaterally by virtue of the terms of the contract, including any penalties imposed by the contract in such cases.
+
+**16.** Practical instructions for exercising the right to cancel in accordance with regulation 9 indicating, among other things, the address at which the notice of cancellation should be left or to which it should be sent by post, and any facsimile number or electronic mail address to which it should be sent.
+
+**17.**[^key-50f7c613975b01b26f078d4aeeadf6e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.** Any contractual clause on the law applicable to the distance contract or on the competent court.
+
+**19.** In which language, or languages: (i) the contractual terms and conditions, and the prior information specified in this Schedule, are supplied; and (ii) the supplier, with the agreement of the consumer, undertakes to communicate during the duration of the distance contract.
+
+**20.** Whether or not there is an out-of-court complaint and redress mechanism for the consumer and, if so, the methods for having access to it.
+
+**21.** The existence of guarantee funds or other compensation arrangements, as applicable to the contract[^key-67e21c327729b7c99ca94171903bc2c6].
+
+## SCHEDULE 2 — Information required in the case of voice telephone communications
+
+Regulation 7(4)(b)
+
+**1.** The identity of the person in contact with the consumer and his link with the supplier.
+
+**2.** A description of the main characteristics of the financial service.
+
+**3.** The total price to be paid by the consumer to the supplier for the financial service including all taxes paid via the supplier or, if an exact price cannot be indicated, the basis for the calculation of the price enabling the consumer to verify it.
+
+**4.** Notice of the possibility that other taxes or costs may exist that are not paid via the supplier or imposed by him.
+
+**5.** Whether or not there is a right to cancel and, where there is such a right, its duration and the conditions for exercising it, including information on the amount which the consumer may be required to pay in accordance with regulation 13, as well as the consequences of not exercising that right.
+
+**6.** That other information is available on request and the nature of that information.
+
+*(This note is not part of the Regulations)*
+
+These Regulations give effect in the United Kingdom to Directive [2002/65/EC](https://www.legislation.gov.uk/european/directive/2002/0065) of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive [90/619/EEC](https://www.legislation.gov.uk/european/directive/1990/0619) and Directives [97/7/EC](https://www.legislation.gov.uk/european/directive/1997/0007) and [98/27/EC](https://www.legislation.gov.uk/european/directive/1998/0027) (O.J. L 271, 9.10.2002, p.16) (“**the Directive**”) so far as it is not given effect by rules made by the Financial Services Authority under the Financial Services and Markets Act 2000 or made by a professional body designated under that Act.
+
+Regulations 3 to 5 identify the transactions to which the substantive provisions of these Regulations apply. Regulation 3 defines these as “distance contracts”, as defined in regulation 2(1) (or, for the purposes of regulation 15, comparable supplies of financial services) made on or after the date on which the Regulations come into force. Regulation 4 then disapplies certain provisions from various categories of contract and supply where equivalent provision is made by other regimes: paragraph (1) excludes contracts and supplies made by suppliers established in another State within the European Economic Area where the law of that State regulates the contract or supply in accordance with the Directive; paragraphs (2) to (4), taken with paragraphs (5) and (6), exclude contracts and supplies in relation to which effect is given to the Directive by rules made or approved by the Financial Services Authority under the Financial Services and Markets Act 2000. Regulation 5 gives effect to Article 1(2) of the Directive in the light of Recital (17) in the Directive’s preamble, under which the substantive provisions of the Directive only apply to an “initial service agreement” with a financial services supplier or the first in a series of similar operations, and not to every subsequent transaction carried out under that agreement or in that series.
+
+Regulation 6 sets out how the Regulations apply in cases where financial services are marketed through an intermediary, as contemplated by Recital (19) in the preamble to the Directive. Some provisions of the Regulations apply to the intermediary instead of the supplier; others apply to either or both of them; others again still apply only to the supplier.
+
+Regulations 7 and 8 and the Schedules contain the first set of main provisions, requiring suppliers of financial services, where the Regulations apply, to provide consumers with certain information listed in the Schedules. This information generally has to be provided before the consumer is bound by a distance contract for supply of the financial services in question.
+
+Regulations 9 to 13 contain the next set of main provisions, giving consumers a right to cancel most distance contracts for financial services during a set period after commencement of the contract.
+
+Regulation 9 contains the right to cancel, specifying the means by which the right can be exercised and defining the effect of cancellation as termination of the contract at the time at which the notice of cancellation is given. Regulation 10 defines the period during which the cancellation right can be exercised: generally from the time the consumer is bound by the contract until 14 days after that, or until 14 days after the information required by regulation 8 is provided if later, but until 30 days after the later of those dates in the case of a contract for a personal pension and until 30 days after the day on which the consumer is informed that the distance contract has been concluded in the case of a contract for life insurance. Paragraph (1) of regulation 11 lists certain types of contract to which, as permitted by the Directive, the cancellation right does not apply except in the circumstances dealt with in paragraphs (2) and (3) of that regulation.
+
+Regulation 12 provides that, where a distance contract is cancelled under regulation 9, certain other subsidiary distance contracts connected with that contract—defined in paragraph (1) as “attached contracts”—are automatically cancelled too.
+
+Regulation 13 then provides for the consequences of cancellation of distance contracts, whether by notice under regulation 9 or automatically under regulation 12: the supplier must refund any sums received from the consumer under the contract, less a proportionate charge for any services already supplied, and must release and return to the consumer any security taken under the contract; the consumer must repay to the supplier any money paid to the consumer under the contract, and return any property acquired under it.
+
+Regulation 14 provides that, where a plastic card issued to a consumer is used fraudulently by someone else to make a payment in connection with a distance contract (other than where the Consumer Credit Act 1974 (c. 39) covers the matter), the consumer is entitled to cancel the payment and to have all sums paid recredited or returned by the card issuer.
+
+Regulation 15 prevents consumers from being bound by any obligation in respect of financial services supplied to them but for which they have not asked; and makes it a criminal offence to demand or assert a right to payment with any such supply, or to take or threaten enforcement action with a view to obtaining payment for such a supply, without reason to believe payment is legally due.
+
+Regulation 16 is designed to prevent the Regulations being undermined. It renders void any contractual term which is inconsistent with any provision of these Regulations or purports to impose on a consumer additional or greater duties or liabilities than those provided for in the Regulations; and it overrides any contractual term which aims to apply the law of a non-EEA State so as to prevent a contract or supply closely connected with an EEA State from being governed by the provisions of the Directive.
+
+Regulations 17 to 21 and 26 to 28 contain or provide for enforcement mechanisms in relation to the substantive provisions of the Regulations.
+
+Paragraph (1) of regulation 17 specifies for these purposes that the enforcement authority for certain types of distance contract or supply listed in paragraph (2) is the Financial Services Authority, and that the enforcement authorities for other distance contracts and supplies are the Office of Fair Trading with local weights and measures authorities (in Great Britain) or with the Department of Enterprise, Trade and Investment (in Northern Ireland). Regulation 18 requires any such enforcement authority to consider complaints made to it about breaches of the Regulations unless the complaint is frivolous or vexatious or another enforcement authority has agreed to deal with it. Regulation 19 enables enforcement authorities to apply to the courts for injunctions against persons responsible for breaches of the Regulations, and regulations 20 and 21 provide for notification and publication of details about injunctions granted and undertakings given in relation to such breaches.
+
+Regulations 26 and 27 bring the Directive, these Regulations, and relevant rules corresponding to them, within the scope of Part 8 of the Enterprise Act 2002 (c. 40), which contains special powers for the enforcement of certain consumer legislation; regulation 28 brings offences under these Regulations within the scope of section 230 of that Act, so that local weights and measures authorities must notify the OFT of intended prosecutions under these Regulations.
+
+Regulation 22 provides that breaches of certain provisions of the Regulations are criminal offences, provides for personal criminal liability on the part of certain officers or members of corporate and other bodies where they are responsible for the commission by such bodies of offences under the Regulations, and gives the enforcement authorities power to prosecute offences under the Regulations within their respective spheres of responsibility.
+
+Regulation 23 provides that the functions of the FSA under the Regulations are to be treated as functions under the Financial Services and Markets Act 2000 (c. 8) so as to apply for the purposes of these Regulations various general powers and provisions of that Act.
+
+Regulation 24 amends the Unfair Terms in Consumer Contracts Regulations 1999 (S.I. 1999/2083) so as to deem automatically unfair, for the purposes of those Regulations, any contractual term placing on a consumer the burden of proving whether a supplier or intermediary has complied with obligations deriving from the Directive or any provision implementing it.
+
+Regulation 25 makes amendments to the Consumer Protection (Distance Selling) Regulations 2000 (S.I. 2000/2334) consequential upon the provisions of these Regulations.
+
+Regulation 29 contains transitional provisions in connection with the application of these Regulations to regulated consumer credit agreements.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business is available. Copies of it have been placed in the libraries of both Houses of Parliament, and copies are also available from the Savings and Investment Products Team, HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and at www.hm-treasury.gov.uk.
+
+## Annotations
+
+[^c5262431]: Marginal citation: [S.I. 2004/1283](https://www.legislation.gov.uk/uksi/2004/1283).
+
+[^c5262441]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^key-412a8a5e9042b52fdd9c47902afed8e2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2004/2095): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c5262451]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^c5262461]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-9fd7ed771ccea8fefa9678fa8ebe5a09]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 97(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/97/a)
+
+[^key-be33ba1effb0f4a7ec58bbcbcd0459fe]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 86(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/86/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+
+[^key-1cfad4de9c22d265719a090c6e1123cd]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 97(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/97/b)
+
+[^key-9b3e9f282296f2048add524e5370e44c]: Textual amendment: Words in reg. 2 inserted (26.2.2014 for specified purposes, 1.4.2014 insofar as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/208/article/3/2/a)
+
+[^key-b33ac3ab2822360e45a05620a872fd3e]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 86(b)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/86/b), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+
+[^key-4d4595d2c88510000023f0ca441ecc87]: Textual amendment: Words in reg. 2(1) substituted (14.3.2019) by [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/574/regulation/3)
+
+[^key-273330f888dbabf24934397c46cb0da2]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 86(c)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/86/c), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+
+[^key-48391f9480ca935c232bfedb12267370]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/2/1) omitted (31.12.2020) by virtue of [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/2019/574/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a4518b6cbcd4500ffc45ed8145dd76a1]: Textual amendment: Words in reg. 2(1) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+
+[^key-25093f8862ac7b12e2044b3b76f1dda7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/2/1) inserted (31.12.2020) by [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2019/574/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1c3d1b71fd8083e2ebfa5aff858aa075]: Textual amendment: Words in reg. 2 omitted (26.2.2014 for specified purposes, 1.4.2014 insofar as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/208/article/3/2/b)
+
+[^c5262481]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), as amended by [S.I. 2001/3544](https://www.legislation.gov.uk/uksi/2001/3544), [S.I](https://www.legislation.gov.uk/uksi/2001/3544/section/I). 2002/682, [S.I. 2002/1310](https://www.legislation.gov.uk/uksi/2002/1310), [S.I](https://www.legislation.gov.uk/uksi/2002/1310/section/I). 2002/1776, [S.I. 2002/1777](https://www.legislation.gov.uk/uksi/2002/1777), [S.I](https://www.legislation.gov.uk/uksi/2002/1777/section/I). 2003/1475, [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), [S.I](https://www.legislation.gov.uk/uksi/2003/1476/section/I). 2003/2822 and [S.I. 2004/1610](https://www.legislation.gov.uk/uksi/2004/1610).
+
+[^key-acd85e90cedc454efeda88254721d689]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 86(e)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/86/e), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+
+[^key-a4cb8ab937fcc90feaf348bb064014ea]: Textual amendment: Words in reg. 2(1) substituted (26.7.2013 for specified purposes, 1.4.2014 insofar as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 26(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/26/a)
+
+[^key-b999c76b9cff9a4028102f0e104ba57f]: Textual amendment: Words in reg. 2 inserted (26.2.2014 for specified purposes, 1.4.2014 insofar as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(2)(c)](https://www.legislation.gov.uk/uksi/2014/208/article/3/2/c)
+
+[^key-2a89cb78c0006dc306ce1d8964079afa]: Textual amendment: [Reg. 4(1)-(1C)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/4/1) substituted for [reg. 4(1)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/4/1) (31.12.2020) by [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2019/574/regulation/6/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2019/574/regulation/11)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bab922e03a6b0c2ce22a71eb606083d6]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/4/5) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [56(a)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/56/a/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3b8c0be6432e2e01ddb336abc1266c47]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/4/5) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [56(a)(ii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/56/a/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b8238eda124eb1678df77440eddc3d8d]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/4/6) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [56(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/56/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-025c5ff62ba22bd8e4e1cefeb6bd7c7c]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/4/6) substituted (31.12.2020) by [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2019/574/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-13339239bea21210f0d30f7f449d1806]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2004/2095/regulation/6A) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [4](https://www.legislation.gov.uk/uksi/2025/859/article/4)
+
+[^key-b3a899711c77e75f833a69c8098b92b1]: Textual amendment: Words in reg. 7(1) substituted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 87(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/87/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+
+[^key-f3c3a14debd7c4820d6e7724b3ba243a]: Textual amendment: Reg. 7(1A) inserted (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [Sch. 6 para. 5(a)(ii)](https://www.legislation.gov.uk/uksi/2009/209/schedule/6/paragraph/5/a/ii)
+
+[^key-cdab82ddcf4f39c70d0b99cf46efbfc4]: Textual amendment: Word in [reg. 7(1A)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/7/1A) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 10(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/10/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-1f03f9d7dc8591b6846be23650a9541f]: Textual amendment: Word in [reg. 7(1A)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/7/1A) omitted (31.12.2020) by virtue of [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2019/574/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-426e2304233867bcc4bd072afc994752]: Textual amendment: Reg. 7(6)(7) inserted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 87(b)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/87/b), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+
+[^key-e06b35bef4fd3e90217f40952895506e]: Textual amendment: Words in [reg. 7(7)(a)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/7/7/a) substituted (31.12.2020) by [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [7(b)](https://www.legislation.gov.uk/uksi/2019/574/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ccefcdd4cb3e4fcbd26c834522a35f6c]: Textual amendment: Words in reg. 8(1) inserted (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [Sch. 6 para. 5(b)(i)](https://www.legislation.gov.uk/uksi/2009/209/schedule/6/paragraph/5/b/i)
+
+[^key-5ea9ec23be063c14c04de8e104db6c37]: Textual amendment: Words in reg. 8(1) substituted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 88(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/88/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+
+[^key-e9036c3664f307731b9bc7e85baa3103]: Textual amendment: Reg. 8(1A) inserted (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [Sch. 6 para. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2009/209/schedule/6/paragraph/5/b/ii)
+
+[^key-244afb35a657f0547b882d6eba24d1ca]: Textual amendment: Word in [reg. 8(1A)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/8/1A) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 10(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/10/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-19f93fd1581afaf1dc7244525d8817f2]: Textual amendment: Word in [reg. 8(1A)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/8/1A) omitted (31.12.2020) by virtue of [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2019/574/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-756d46fec9c6a8accd3451e891dd724f]: Textual amendment: Reg. 8(1B)(1C) inserted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 88(b)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/88/b), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+
+[^key-45e227b2391660426210091173daabfc]: Textual amendment: Words in [reg. 8(1C)(a)(i)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/8/1C/a/i) substituted (31.12.2020) by [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2019/574/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5262491]: Marginal citation: [S.I. 2003/2426](https://www.legislation.gov.uk/uksi/2003/2426).
+
+[^c5262501]: Marginal citation: Article 72B was inserted by article 11 of [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), and comes into force on 31st October 2004 for certain purposes and on 14th January 2005 for other purposes: see [article 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3) of [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
+
+[^key-6caf03c417f42a03ca11268b07a31270]: Textual amendment: Reg. 11(1)(e) substituted (13.6.2014 with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/4) (as amended by [S.I. 2014/870](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2014/870/regulation/9/5/a)) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+
+[^key-bc8e4081d2d39828041e0cb0a9ca3b6f]: Textual amendment: Reg. 11(1)(f) substituted (23.2.2011) by [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/13) (with [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))
+
+[^key-7340314af6070118c2022803cafa1daa]: Textual amendment: Reg. 11(1)(h) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/26/b)
+
+[^key-9930ae71684bb3c06c425b20af54e372]: Textual amendment: Reg. 14 revoked (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [Sch. 6 para. 5(c)](https://www.legislation.gov.uk/uksi/2009/209/schedule/6/paragraph/5/c)
+
+[^key-d2a292ae37f7dbf1c674c77d3a20e9ff]: Textual amendment: Reg. 15(2)(3) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 110(2)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/110/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+
+[^key-4fd8a49ca6f465e35cbd0f86625dc7ad]: Textual amendment: Reg. 15(5)-(7) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 110(2)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/110/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+
+[^key-a1032f6577a8d5161bd634fa45dd1453]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/2004/2095/regulation/16/3) substituted (31.12.2020) by [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/574/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b10d36073ad07bcde55d363a015cf2b1]: Textual amendment: Words in reg. 17(1)(a) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2014/208/article/3/3/a/i)
+
+[^key-899eeacc7a94bf8edc84cb05f02bd797]: Textual amendment: Word in reg. 17(1)(b) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/208/article/3/3/a/ii)
+
+[^key-a4ad981d6cf8eb71dc7def9fc5441037]: Textual amendment: Word in reg. 17(1)(c)(i) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/208/article/3/3/a/iii)
+
+[^key-5fdfacddd8349fb6febc4c01c3d31de6]: Textual amendment: Words in reg. 17(2)(a) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2014/208/article/3/3/b/i)
+
+[^key-377676c904bcebbf557f99b75e6f15de]: Textual amendment: Words in reg. 17(2)(c) inserted (9.2.2011 for specified purposes, 30.4.2011 in so far as not already in force) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2), [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2011/99/schedule/4/paragraph/15) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3))
+
+[^key-e5ed974b6c21fba9b895aa84fa924978]: Textual amendment: Words in reg. 17(2)(c) omitted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/208/article/3/3/b/ii)
+
+[^key-88c4edd66e5e00c52c75461668bf537f]: Textual amendment: Reg. 17(2A)(2B) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(3)(c)](https://www.legislation.gov.uk/uksi/2014/208/article/3/3/c)
+
+[^c5262571]: Marginal citation: [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), as amended by [S.I. 2004/1610](https://www.legislation.gov.uk/uksi/2004/1610).
+
+[^c5262581]: Marginal citation: Articles 4(1), 5(1), 7 and 9(1) of [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476) amend articles 21 and 25(1), insert article 39A, and amend article 53 of the Regulated Activities Order with effect from 31st October 2004 for certain purposes and from 14th January 2005 for other purposes: see [article 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3).
+
+[^c5262591]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); the definition of “local authority” in section 270 has been repealed in part by section 102(2) of and Schedule 17 to the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and amended by section 1(5) of the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^c5262601]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^c5262611]: Marginal citation: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9).
+
+[^key-dc24eed41039fd38564a6351689f732e]: Textual amendment: Words in reg. 18(1)(b) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(4)(a)](https://www.legislation.gov.uk/uksi/2014/208/article/3/4/a)
+
+[^key-3e03f964f8a782fc57517bd1d109199c]: Textual amendment: Words in reg. 18(2) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(4)(b)](https://www.legislation.gov.uk/uksi/2014/208/article/3/4/b)
+
+[^key-48db041faa435160b3754756c8fb5b01]: Textual amendment: Words in reg. 19(2) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(5)(a)](https://www.legislation.gov.uk/uksi/2014/208/article/3/5/a)
+
+[^key-a05df2090e032b29c1fde8e4332e7270]: Textual amendment: Words in reg. 19(2) omitted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(5)(b)](https://www.legislation.gov.uk/uksi/2014/208/article/3/5/b)
+
+[^key-bd3983685af04d8dbb7a5df868a76cb4]: Textual amendment: Words in reg. 20 heading substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(6)](https://www.legislation.gov.uk/uksi/2014/208/article/3/6)
+
+[^key-214e0955b5ec082fb09ae5fa2c2836b5]: Textual amendment: Words in reg. 20 substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(7)(a)](https://www.legislation.gov.uk/uksi/2014/208/article/3/7/a)
+
+[^key-2ddb85dfefd8514f3e6e0662ed509f25]: Textual amendment: Words in reg. 20 omitted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(7)(b)](https://www.legislation.gov.uk/uksi/2014/208/article/3/7/b)
+
+[^key-c950d57f0cc8625114962201cb339ff2]: Textual amendment: Words in reg. 21(1) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(8)(a)](https://www.legislation.gov.uk/uksi/2014/208/article/3/8/a)
+
+[^key-6cdff8742a57fb8cf05fcf2521197a19]: Textual amendment: Words in reg. 21(2) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(8)(b)](https://www.legislation.gov.uk/uksi/2014/208/article/3/8/b)
+
+[^key-70615f2903ea0a24c6726fc94fbd58fc]: Textual amendment: Words in reg. 21(3) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(8)(b)](https://www.legislation.gov.uk/uksi/2014/208/article/3/8/b)
+
+[^key-da2addc5c1ef3bcd6e8688e470994557]: Textual amendment: Words in reg. 22(2) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 110(3)(a)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/110/3/a), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+
+[^key-a9e35e2d8dabf412665391de1991088d]: Textual amendment: Words in reg. 22(4) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 110(3)(b)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/110/3/b), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+
+[^key-aa75f6510298ab88ee1ba3e61b0004ad]: Textual amendment: Words in reg. 22(5) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 110(3)(c)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/110/3/c), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+
+[^key-0c3080c76dfee1228406f7ce3fc0ccb0]: Textual amendment: Reg. 22(6)(aa) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(9)(a)](https://www.legislation.gov.uk/uksi/2014/208/article/3/9/a)
+
+[^key-8f68a814b1e83eb9dc0940772c7b9274]: Textual amendment: Word in reg. 22(6)(b) substituted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [3(9)(b)](https://www.legislation.gov.uk/uksi/2014/208/article/3/9/b)
+
+[^c5262621]: Marginal citation: [S.I. 1999/2083](https://www.legislation.gov.uk/uksi/1999/2083), amended by [S.I. 2001/1186](https://www.legislation.gov.uk/uksi/2001/1186) and [S.I. 2003/3182](https://www.legislation.gov.uk/uksi/2003/3182).
+
+[^c5262631]: Marginal citation: [S.I. 2000/2334](https://www.legislation.gov.uk/uksi/2000/2334).
+
+[^c5262641]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^c5262651]: Marginal citation: [S.I. 2003/1374](https://www.legislation.gov.uk/uksi/2003/1374).
+
+[^c5262661]: Marginal citation: [S.I. 2003/1376](https://www.legislation.gov.uk/uksi/2003/1376).
+
+[^c5262671]: Marginal citation: [1973 c. 41](https://www.legislation.gov.uk/ukpga/1973/41).
+
+[^key-6f354cf81b70fe662e3c574d2fe03b58]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2004/2095/schedule/1/paragraph/2) substituted (31.12.2020) by [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2019/574/regulation/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-50f7c613975b01b26f078d4aeeadf6e2]: Textual amendment: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2004/2095/schedule/1/paragraph/17) omitted (31.12.2020) by virtue of [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2019/574/regulation/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-67e21c327729b7c99ca94171903bc2c6]: Textual amendment: Words in [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2004/2095/schedule/1/paragraph/21) substituted (31.12.2020) by [The Financial Services (Distance Marketing) (Amendment and Savings Provisions) (EU Exit) Regulations 2019 (S.I. 2019/574)](https://www.legislation.gov.uk/uksi/2019/574), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/574/regulation/1/3), [10(c)](https://www.legislation.gov.uk/uksi/2019/574/regulation/10/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

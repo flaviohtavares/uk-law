@@ -1,0 +1,53 @@
+---
+title: The Friendly Societies (Insurance Business) Regulations 1993, section 10
+act: The Friendly Societies (Insurance Business) Regulations 1993
+section: '10'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/98/section/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Friendly Societies (Insurance Business) Regulations 1993, section 10
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 10. Implicit items: zillmerising
+
+(1) Where zillmerising (as defined in paragraph (7) below) is appropriate but either is not practised or is at a rate less than the loading for acquisition costs included in the premium then, subject to paragraph (6) below, the implicit item relating to zillmerising may be valued at an amount not exceeding the difference between—
+
+- (a) the non-zillmerised or partially zillmerised figure for mathematical reserves maintained by the society concerned, and
+- (b) a figure for mathematical reserves (determined in accordance with Part V of these Regulations) zillmerised at a rate equal to the loading for acquisition costs included or allowed for in the premium.
+
+(2) Where zillmerising is not practised, then subject to paragraph (6) below, the value given by paragraph (1) above (less any amount relating to temporary assurances) shall not exceed 3.5 per cent of the aggregate of the difference between—
+
+- (a) the relevant capital sums for long term business activities, and
+- (b) the mathematical reserves (excluding mathematical reserves for temporary assurances).
+
+(3) Where zillmerising is practised but is at a rate less than the loading for acquisition costs, then, subject to paragraph (6) below, the value given by paragraph (1) above (less any amount relating to temporary assurances) together with the difference between the partially zillmerised mathematical reserves and the non-zillmerised mathematical reserves shall not exceed 3.5 per cent of the aggregate of the difference between—
+
+- (a) the relevant capital sums of long term business activities, and
+- (b) the mathematical reserves (excluding mathematical reserves for temporary assurances).
+
+(4) In paragraphs (2) and (3) above “relevant capital sums” means—
+
+- (a) for whole life assurances, the sum assured,
+- (b) for policies where a sum is payable on maturity (including policies where a sum is also payable on earlier death), the sum payable on maturity,
+- (c) for deferred annuities, the capitalised value of the annuity at the vesting date (or the cash option if it is greater),
+- (d) for capital redemption contracts, the sums payable at the end of the contract period, and
+- (e) for linked long term contracts, notwithstanding subparagraphs (a) to (d) above, the lesser of—
+  - (i) the amount for the time being payable on death, and
+  - (ii) the aggregate of the value for the time being of the units allocated to the contract (or, where entitlement is not denoted by means of units, the value for the time being of any other measure of entitlement under the contract equivalent to units) and the total amount of the premiums remaining to be paid during such part of the term of the contract as is appropriate for zillmerising, or, if such premiums are payable beyond the age of seventy-five, until that age,
+
+  excluding in all cases any vested reversionary bonus and any capital sums for temporary assurances.
+
+(5) Where, under the contract relating to any such business as is mentioned in paragraph (4) above, the payment of premiums is to stop before the sum assured becomes due, then, notwithstanding the said paragraph (4), “relevant capital sums” in paragraphs (1) to (3) above shall be taken to mean the mathematical reserves appropriate for that contract at the end of the premium-paying term.
+
+(6) For the purposes of this regulation—
+
+- (a) reserves for vested reversionary bonuses shall not be regarded as mathematical reserves, and
+- (b) the result given by paragraph (1), (2) or (3) above shall be reduced by the amount of any undepreciated acquisition costs brought into account as an asset.
+
+(7) “Zillmerising” means the method known by that name for modifying the net premium reserve method of valuing a long term policy by increasing the part of the future premiums for which credit is taken so as to allow for initial expenses.

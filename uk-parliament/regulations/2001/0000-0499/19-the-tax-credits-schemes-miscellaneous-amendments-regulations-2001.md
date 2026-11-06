@@ -1,0 +1,119 @@
+---
+title: The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2001
+id: uksi/2001/19
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-01-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/19
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/19/pdfs/uksi_20010019_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/19/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 19
+
+SOCIAL SECURITY
+
+TAXES
+
+The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2001
+
+Made
+
+8th January 2001
+
+Laid before Parliament
+
+9th January 2001
+
+Coming into force
+
+30th January 2001
+
+The Treasury, in exercise of the powers conferred upon them by sections 136(5)(b), 137(1) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001], and section 2(1)(a) and (4) of, and paragraphs 1(g) and 20(a) of Schedule 2 to, the Tax Credits Act 1999[^f00002], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Tax Credits Schemes (Miscellaneous Amendments) Regulations 2001 and shall come into force on 30th January 2001.
+
+(2) In these Regulations—
+
+- “award periods” means award periods of disabled person’s tax credit or, as the case may be, working families' tax credit;
+- “the Disability Working Allowance Regulations” means the Disability Working Allowance (General) Regulations1991[^f00003];
+- “the Family Credit Regulations” means the Family Credit (General) Regulations 1987[^f00004].
+
+## 2. Amendments to the Disability Working Allowance Regulations and the Family Credit Regulations
+
+Amend the Disability Working Allowance Regulations and the Family Credit Regulations as follows.
+
+## 3. Income to be disregarded
+
+(1) Amend Schedule 3 to the Disability Working Allowance Regulations (“Schedule 3”) and Schedule 2 to the Family Credit Regulations (“Schedule 2”) as follows.
+
+(2) Add as paragraph 68 of Schedule 3 and paragraph 70 of Schedule 2[^f00005] the following paragraph—
+
+> £15 of any—
+>
+> - (a) widowed mother’s allowance paid pursuant to section 37 of the Contributions and Benefits Act;
+> - (b) widowed parent’s allowance paid pursuant to section 39A[^f00006] of the Contributions and Benefits Act.
+
+.
+
+(3) This regulation shall have effect in relation to award periods commencing on or after 10th April 2001.
+
+## 4. Capital to be disregarded
+
+(1) Amend Schedule 4 to the Disability Working Allowance Regulations (“Schedule 4”) and Schedule 3 to the Family Credit Regulations (“Schedule 3”) as follows.
+
+(2) Add as paragraph 64 of Schedule 4 and paragraph 65 of Schedule 3[^f00007] the following paragraph—
+
+> Any payment of £10,000 made by the Secretary of State to the claimant as a person who was held prisoner by the Japanese during World War Two or as the spouse of such a person.
+
+.
+
+(3) This regulation shall have effect in relation to award periods commencing on or after 30th January 2001.
+
+Bob Ainsworth
+
+Jim Dowd
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+8th January 2001
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Family Credit (General) Regulations 1987 (S.I. [1987/1973](https://www.legislation.gov.uk/uksi/1987/1973)) (“the Family Credit Regulations”) and the Disability Working Allowance (General) Regulations 1991 (S.I. [1991/2887](https://www.legislation.gov.uk/uksi/1991/2887)) (“the Disability Working Allowance Regulations”).
+
+Regulation 1 provides for citation, commencement and interpretation, and regulation 2 introduces the amendments.
+
+Regulation 3 amends Schedule 2 to the Family Credit Regulations and Schedule 3 to the Disability Working Allowance Regulations (income to be disregarded) so as to add the sum of £15 of any widowed mother’s allowance or widowed parent’s allowance to the categories of income to be disregarded.
+
+Regulation 4 amends Schedule 3 to the Family Credit Regulations and Schedule 4 to the Disability Working Allowance Regulations (capital to be disregarded) so as to add payments of £10,000 made by the Secretary of State for Social Security to persons who were held prisoner by the Japanese during World War Two or to the spouses of such persons.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 137(1) is cited because of the meaning it ascribes to the word “prescribed”. Section 175(1) and (4) was amended by paragraph 29(2) and (4) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^f00002]: Footnote: [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10).
+
+[^f00003]: Footnote: S.I. [1991/2887](https://www.legislation.gov.uk/uksi/1991/2887).
+
+[^f00004]: Footnote: S.I. [1987/1973](https://www.legislation.gov.uk/uksi/1987/1973).
+
+[^f00005]: Footnote: Paragraph 67 of Schedule 3 and paragraph 69 of Schedule 2 were added by regulation 8(4) of S.I. [2000/2978](https://www.legislation.gov.uk/uksi/2000/2978).
+
+[^f00006]: Footnote: Inserted by section 55(2) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^f00007]: Footnote: Paragraph 63 of Schedule 4 and paragraph 64 of Schedule 3 were added by regulation 9 of S.I. [2000/2978](https://www.legislation.gov.uk/uksi/2000/2978).

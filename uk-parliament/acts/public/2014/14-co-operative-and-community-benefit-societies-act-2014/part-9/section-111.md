@@ -1,0 +1,55 @@
+---
+title: Co-operative and Community Benefit Societies Act 2014, section 111
+act: Co-operative and Community Benefit Societies Act 2014
+section: '111'
+status: revised-with-pending-changes
+text_date: '2023-08-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2014/14/section/111
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Co-operative and Community Benefit Societies Act 2014, section 111
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 111. Special resolutions under section 109 or 110[^key-ed9eaefa9d80c314b6ee5a46bc199f07]
+
+*Extent: E+W+S*
+
+(1) This section supplements sections 109 and 110.
+
+(2) A resolution is a “special resolution” if—
+
+- (a) the resolution is passed at a general meeting by at least two-thirds of the eligible members who vote,
+- (b) notice of this meeting (“the first meeting”), specifying the intention to propose the resolution, is duly given in accordance with the society's rules,
+- (c) the resolution is confirmed at a subsequent general meeting by over half of the eligible members who vote,
+- (d) notice of this meeting (“**the second meeting**”) is duly given, and
+- (e) the second meeting is held at least 14 days, and no more than one month, from the day of the first meeting.
+
+(3) In subsection (2)—
+
+- (a) “**eligible member**” means a member entitled under the society's rules to vote;
+- (b) references to voting are to voting in person or, where the rules allow proxies, by proxy.
+
+(4) At a general meeting such as is mentioned in subsection (2), a declaration by the chair that the resolution has been carried is conclusive evidence of that fact.
+
+(5) Within 14 days from the day the special resolution is confirmed at the second meeting, the society must send the FCA a copy of it—
+
+- (a) signed by the chair of the second meeting, and
+- (b) countersigned by the society's secretary.
+
+(6) The FCA must register the copy of the special resolution received under subsection (5).
+
+(7) The special resolution does not take effect until the copy of it has been registered.
+
+(8) Nothing in subsection (5) invalidates registration after the end of the 14 days mentioned there.
+
+(9) If one or more of the societies is a PRA-authorised person, the FCA must send a copy of the special resolution to the PRA.
+
+## Annotations
+
+[^key-ed9eaefa9d80c314b6ee5a46bc199f07]: Modification: S. 111 modified by SI 2014/229 art. 13 (as substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [4](https://www.legislation.gov.uk/uksi/2014/1822/article/4))

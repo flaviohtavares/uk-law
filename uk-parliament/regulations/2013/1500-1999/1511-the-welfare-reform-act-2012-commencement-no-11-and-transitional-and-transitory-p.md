@@ -1,0 +1,985 @@
+---
+title: The Welfare Reform Act 2012 (Commencement No. 11 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2013
+id: uksi/2013/1511
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-06-20'
+text_date: '2020-08-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1511
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1511/pdfs/uksi_20131511_310518_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1511/pdfs/uksi_20131511_310815_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1511/pdfs/uksi_20131511_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1511/pdfs/uksi_20131511_280215_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1511/pdfs/uksi_20131511_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1511/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare Reform Act 2012 (Commencement No. 11 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2013
+
+> Text as at 2020-08-04.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 1511 (C. 60)
+
+Social Security
+
+The Welfare Reform Act 2012 (Commencement No. 11 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2013
+
+Made
+
+20th June 2013
+
+The Secretary of State, in exercise of the powers conferred by section 150(3) and (4)(a), (b)(i) and (c) of the Welfare Reform Act 2012 [^c21828001], makes the following Order:[^key-e2f3e9632481f720fd799d154d4e7e5e][^key-04f574c8ec127a7c2a9be0f44b1276da][^key-0b727935e488f8e55869f3866946a95d][^key-b4f8c5bf7a6fe6195ab5c576a4c7a093][^key-5c4ac9922427283668fbfeedab568a8d][^key-ebff7bd8a7568427d80634533be00e91][^key-44b55eb9af81b541650b02390e09189f][^key-9dfda69fbfb8781906bfa6bd6dc415b4]
+
+## 1. Citation
+
+This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 11 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2013.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “**the Act**” means the Welfare Reform Act 2012;
+- “**the 1995 Act**” means the Jobseekers Act 1995 [^c21828011];
+- “**the 2007 Act**” means the Welfare Reform Act 2007 [^c21828021];
+- “**the amending provisions**” means the provisions referred to in article 4(1)(a) to (c) of the No. 9 Order (day appointed for the abolition of income-related employment and support allowance and income-based jobseeker's allowance);
+- “**appointed day**” means the day appointed for the coming into force of the amending provisions in accordance with article 4(3) of the No. 9 Order;
+- “claimant”—[^M_F_afab34dc-d403-4bd3-ce57-9c2d51961141]
+  - (a) in relation to an employment and support allowance, has the same meaning as in Part 1 of the Welfare Reform Act 2007, save as mentioned in article 5(1A) of the No. 9 Order as applied by article 4(7);
+  - (b) in relation to a jobseeker’s allowance, has the same meaning as in the Jobseekers Act 1995 (as it applies apart from the amendments made by Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker’s allowance), save as mentioned in article 5(1A) of the No. 9 Order as applied by article 4(7);
+  - (c) in relation to universal credit, has the same meaning as in Part 1 of the Act;
+- “**contribution-based jobseeker's allowance**” means a contribution-based allowance under the 1995 Act as it has effect apart from the amendments made by Part 1 of Schedule 14 to the Act that remove references to an income-based allowance;
+- “**contributory employment and support allowance**” means a contributory allowance under Part 1 of the 2007 Act as it has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance;
+- “**employment and support allowance**” means an employment and support allowance under Part 1 of the 2007 Act;
+- “First-tier Tribunal” has the same meaning as in the Social Security Act 1998;[^M_F_bbd949ee-b104-4cc4-d60e-1c6c40481d83]
+- [^M_F_475aa57b-ed52-4376-fb34-fedd55cfb031]...
+- “**jobseeker's allowance**” means an allowance under the 1995 Act;
+- “joint claimants”, in relation to universal credit, has the same meaning as in Part 1 of[^M_F_79008c48-0ca1-4164-b5da-c949e1ee71db] the Act;
+- “**joint-claim couple**” has the meaning given in section 1(4) of the 1995 Act [^c21828031];
+- “**new style ESA award**” means an award of an employment and support allowance under Part 1 of the 2007 Act as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance;
+- “**new style JSA award**” means an award of a jobseeker's allowance under the 1995 Act as amended by the provisions of Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker's allowance;
+- “**No. 2 relevant districts**” means the postcode districts and part-districts specified in Part 1 of the Schedule;
+- “**No. 3 relevant districts**” means the postcode districts and part-districts specified in Part 2 of the Schedule;
+- “**the No. 9 Order**” means the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 [^c21828041];
+- “**old style ESA award**” means an award of an employment and support allowance under Part 1 of the 2007 Act as it has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance;
+- “**old style JSA award**” means an award of a jobseeker's allowance under the 1995 Act as it has effect apart from the amendments made by Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker's allowance;
+- “single claimant”, in relation to universal credit, has the same meaning as in Part 1 of[^M_F_0bca928c-0a2f-4d79-ae96-b054685272d3] the Act;
+- [^M_F_084949d8-d9ae-4192-ced9-16d66bb5f704]...
+  -
+  -
+  -
+  -
+  -
+- [^M_F_9d9b7088-1a3a-4602-b95f-fefc6ac38c28]...
+- “Upper Tribunal” has the same meaning as in the Social Security Act 1998.[^M_F_c981c013-4495-4058-b3d7-7f4892c11751]
+
+(2)[^M_F_b2b4529f-20cc-4aee-e901-2ed707a57b2f] For the purposes of this Order, the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 apply for the purpose of deciding—
+
+- (a) whether a claim for universal credit is made; and
+- (b) the date on which such a claim is made.
+
+(3)[^M_F_c05643a1-9f06-4a99-e063-e98a29c3ca5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Day appointed for commencement of the universal credit provisions in Part 1 of the Act
+
+(1) The day appointed for the coming into force of the provisions of the Act listed in Schedule 2 to the No. 9 Order, in so far as they are not already in force, in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
+
+(2)[^M_F_af7ff9ed-8325-45e4-9e7c-b752da91237d] The claims referred to are—
+
+- (a)[^key-3da93810360e234507fec16cc9a1cbf5][^key-41a0b209538b77b11c17a3eac276ca36] a claim for universal credit where, on the date on which the claim is made, the claimant resides in one of the No. 2 or No. 3 relevant districts [^M_F_3a172990-0e4f-4b94-a879-02f68ce4e26e]...; and
+- (b) a claim for universal credit where—[^M_F_ad752566-ba45-49db-9dcd-65b1ba5b4db3]
+  - (i) in the case of a single claimant, the claimant gives incorrect information regarding the claimant residing in a No. 2 or a No. 3 relevant district [^M_F_cf5f52fd-a2e3-423c-c121-df7fee5a7197]... and the claimant does not reside in such a district [^M_F_cf5f52fd-a2e3-423c-c121-df7fee5a7197]... on the date on which the claim is made;
+  - (ii) in the case of joint claimants, either or both of the joint claimants gives or give incorrect information regarding his or her (or their) residing in such a district [^M_F_4e4f6786-f33c-4eed-8105-957d0c2ccd01]... and one or both of them does not or do not reside in such a district [^M_F_4e4f6786-f33c-4eed-8105-957d0c2ccd01]... on the date on which the claim is made; and
+  - (iii) after a decision is made that the single claimant is, or the joint claimants are, entitled to universal credit and one or more payments have been made in respect of the single claimant or the joint claimants, the Secretary of State discovers that incorrect information has been given regarding residence [^M_F_e5890a36-745d-4e6d-bc3c-a80ebf15d613]....
+
+(3) The day appointed in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the first day of the period in respect of which the claim is made [^key-fd3d94bb024b6f0790c7eb5885ca88d5]....
+
+(4)[^M_F_aad41433-f0c2-4689-d2f0-00af0acceef2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Article 3(6) of the No. 9 Order applies for the purposes of paragraph (3) as it applies for the purposes of article 3(4)(a) of the No. 9 Order.
+
+(6)[^M_F_beb5b608-a20b-4c6f-de6d-4ac90afd4991] Article 3A of the No. 9 Order applies in connection with a claim for universal credit where a single claimant, or, as the case may be, either or both of joint claimants, gives incorrect information regarding his or her (or their) residing in a No. 2 or a No. 3 relevant district [^M_F_541d8020-2ba7-45dc-c28d-0d3ab3274da3]..., as it applies in connection with the giving of incorrect information regarding a claimant residing in a relevant district (as defined in the No. 9 Order) [^M_F_541d8020-2ba7-45dc-c28d-0d3ab3274da3]....
+
+## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker's allowance[^key-946f4c15e727e5596694e44db70b3ed8][^M_F_e0dd71f1-01d6-449a-8362-b49d87ccdf53]
+
+(1) The day appointed for the coming into force of the amending provisions, in relation to the case of a claim referred to in paragraph (2) and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
+
+(2) The claims referred to are—
+
+- (a)[^key-b5136bbd5daffa91ed011ad6f3bb13a3][^key-fec7ea71fc2b6d46aa2fcc74e77fe4c6] a claim for universal credit, an employment and support allowance or a jobseeker’s allowance where, on the date on which the claim is made or treated as made[^M_F_bd55660c-dc9a-4685-bf05-a9e11f35abf9], the claimant—
+  - (i) resides in one of the No. 2 or No. 3 relevant districts; [^M_F_188f02a6-068d-4920-84fc-60673df3a89e]...
+  - (ii)[^M_F_188f02a6-068d-4920-84fc-60673df3a89e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a claim for universal credit where—[^M_F_1a447e6e-18c0-4f34-c861-bc3b1404c358]
+  - (i) in the case of a single claimant, the claimant gives incorrect information regarding the claimant residing in a No. 2 or a No. 3 relevant district [^M_F_4ae5773c-5fea-4816-818f-8a0d7f53a842]... and the claimant does not reside in such a district [^M_F_4ae5773c-5fea-4816-818f-8a0d7f53a842]... on the date on which the claim is made;
+  - (ii) in the case of joint claimants, either or both of the joint claimants gives or give incorrect information regarding his or her (or their) residing in such a district [^M_F_61e295c7-299d-437c-c801-fbc41c52c811]... and one or both of them does not or do not reside in such a district [^M_F_61e295c7-299d-437c-c801-fbc41c52c811]... on the date on which the claim is made; and
+  - (iii) after a decision is made that the single claimant is, or the joint claimants are, entitled to universal credit and one or more payments have been made in respect of the single claimant or the joint claimants, the Secretary of State discovers that incorrect information has been given regarding residence [^M_F_cf3393db-aa2a-4124-c5b9-513f0093c43f]...;
+- (c) a claim for an employment and support allowance or a jobseeker’s allowance other than one referred to in sub-paragraph (a) that is made or treated as made during the relevant period by a single claimant of universal credit or by either of two joint claimants of universal credit who has or have made a claim for universal credit within sub-paragraph (a) or (b).
+
+(3) The day appointed in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the first day of the period in respect of which the claim is made.
+
+(4) For the purposes of paragraph (2)(c), “relevant period” means, in relation to a claim for universal credit referred to in paragraph (2)(a) or (b), any UC claim period, and any period subsequent to any UC claim period in respect of which the claimant is entitled to an award of universal credit in respect of the claim.
+
+(5) For the purposes of paragraph (4), a “UC claim period” is a period when—
+
+- (a) a claim for universal credit as referred to in paragraph (2)(a), (b)(i) or (ii)[^M_F_f0e71d1f-5ded-4bff-93d7-dfb8db5cad2a] has been made but a decision has not yet been made on the claim; or
+- (b) a decision has been made that the claimant is not entitled to universal credit and—
+  - (i) the Secretary of State is considering whether to revise that decision under section 9 of the Social Security Act 1998, whether on an application made for that purpose, or on the Secretary of State’s own initiative; or
+  - (ii) the claimant has appealed against that decision to the First-tier Tribunal and that appeal or any subsequent appeal to the Upper Tribunal or to a court has not been finally determined.
+
+(6) Paragraphs (6) to (9)[^M_F_1b6bc5d0-c224-4c8b-a64a-c8661aceae91] of article 4 of the No. 9 Order apply in relation to the case of a claim for universal credit referred to in paragraph (2) (and any award that is made in respect of the claim) as they apply in relation to the case of a claim for universal credit referred to in sub-paragraphs (a) and (b) of article 4(2) of the No. 9 Order (and any award that is made in respect of the claim).
+
+(7) Paragraphs (1A) and (1B) of article 5 of the[^M_F_784521e2-593d-4d47-fde0-7e88cd8a8f7c] No. 9 Order apply for the purposes of paragraph (2)(a) as they apply for the purposes of article 4(2)(a) of the No. 9 Order (but as if the references in paragraph (1A) to Schedule 5 to the No. 9 Order were omitted).
+
+(8) Paragraphs (5) to (7) of article 5 of the No. 9 Order apply for the purposes of sub-paragraphs (a) and (c) of paragraph (2) as they apply for the purposes of sub-paragraphs (a) and (g) of article 4(2) of the No. 9 Order.
+
+(9) Article 5(8) of the No. 9 Order applies for the purposes of paragraph (3) as it applies for the purposes of article 4(3)(a) of the No. 9 Order.
+
+## 5. Application of the No. 9 Order[^key-b96fdd8cd7195a2417f4df634324945c][^key-26eca624472d3980cb89174abc957505]
+
+Articles[^M_F_f3404aaf-3cca-40b4-f25c-71b3d8411def] 9 to 22 of the No. 9 Order apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in article 4(2), and any award made in respect of the claim, as they apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in sub-paragraphs (a), (b) and (g) of article 4(2)[^M_F_e6316abf-5621-4058-9cd7-20ec76725173] of the No. 9 Order and any award made in respect of the claim.
+
+## 6. Amendment of article 7 of the No. 9 Order – transitional provisions in relation to claimant responsibilities with respect to employment and support allowance and jobseeker's allowance
+
+(1) Paragraph (3) applies in relation to a case where, under any secondary legislation, in relation to a new style JSA award, the 1995 Act applies as though the amending provisions had not come into force (which award therefore continues as an old style JSA award) and where the day with effect from which the 1995 Act so applies occurs on or after 1st July 2013.
+
+(2) Paragraph (4) applies in relation to a case where, under any secondary legislation, in relation to a new style ESA award, Part 1 of the 2007 Act applies as though the amending provisions had not come into force (which award therefore continues as an old style ESA award) and where the day with effect from which Part 1 of the 2007 Act so applies occurs on or after 1st July 2013.
+
+(3) In relation to a case to which this paragraph applies, for article 7(2) of the No. 9 Order substitute—
+
+> (2) Where, under any secondary legislation, in relation to a new style JSA award, the 1995 Act applies as though the amending provisions had not come into force, then, with effect from the day on which the 1995 Act so applies, the 1995 Act, the Social Security Administration Act 1992 [^c21828061] and the Social Security Act 1998 [^c21828071] are to apply in relation to the award as though the provisions referred to in paragraph (1)(a), (b) and (e) had not come into force.
+
+.
+
+(4) In relation to a case to which this paragraph applies, for article 7(3) of the No. 9 Order substitute—
+
+> (3) Where, under any secondary legislation, in relation to a new style ESA award, Part 1 of the 2007 Act applies as though the amending provisions had not come into force, then, with effect from the day on which Part 1 of the 2007 Act so applies, Part 1 of the 2007 Act and the Welfare Reform Act 2009 [^c21828081] are to apply in relation to the award as though the provisions referred to in paragraph (1)(c), (d) and (f) had not come into force.
+
+.
+
+(5) For the purposes of this article, “**secondary legislation**” means an instrument made under an Act.
+
+## 7. Amendment of Schedule 4 to the No. 9 Order
+
+With effect from 1st July 2013, Schedule 4 to the No. 9 Order (modifications of the 2010 Transitional Regulations) is amended as follows—
+
+- (a) for paragraph 21(2)(b)(i) substitute—
+
+  > - (i) for the definition of “contributory allowance” substitute—
+  >
+  >   > employment and support allowance” means an employment and support allowance to which a person is entitled by virtue of the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit)(Existing Awards)(No.2) Regulations 2010 [^c21828091] which was based on an award of incapacity benefit or severe disablement allowance to which the person was entitled.
+  >
+  >   ,
+  >
+  > and for “; and” following that definition substitute “ . ”;
+
+  ; and
+- (b) after paragraph 21(2) insert—
+
+  > (2A) In paragraph 2A—
+  >
+  > - (a) in paragraph (1), omit “contributory”; and
+  > - (b) in paragraph (2), in the substituted section 1A [^c21828101]—
+  >   - (i) in paragraphs (1) and (3) to (5), for “ a contributory allowance” substitute “ an employment and support allowance ”; and
+  >   - (ii) in paragraph (3), omit “Part 1 of”.
+
+  .
+
+## 8. Amendment of the No. 9 Order – transition from old style ESA to new style ESA
+
+(1) Paragraph (2) applies in relation to a case where—
+
+- (a)
+  - (i) a person makes, or is treated as making, a claim for an employment and support allowance;
+  - (ii) under article 4 of the No. 9 Order, Part 1 of the 2007 Act, as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance, applies in relation to the claim; and
+  - (iii) the claim is made or treated as made on or after 1st July 2013; or
+- (b)
+  - (i) a person has an old style ESA award immediately before the appointed day in relation to a case of a claim for universal credit referred to in article 4(2)(a) to (d) of the No. 9 Order (and any award made in respect of the claim), or an award of universal credit referred to in article 4(2)(e) or (f) of the No. 9 Order;
+  - (ii) the old style ESA award consists of or includes a contributory employment and support allowance (which allowance therefore continues as a new style ESA award); and
+  - (iii) the first day on which the person is entitled to an employment and support allowance under the new style ESA award occurs on or after 1st July 2013.
+
+(2) Where this paragraph applies, article 10 of the No. 9 Order is amended as follows—
+
+- (a) for the title substitute “ Transition from old style ESA ”;
+- (b) for paragraph (1) substitute—
+
+  > (1) This article applies where a person—
+  >
+  > - (a) makes, or is treated as making, a claim for an employment and support allowance and, under article 4, Part 1 of the 2007 Act, as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance, applies in relation to the claim; or
+  > - (b)
+  >   - (i) has an old style ESA award immediately before the appointed day in relation to a case of a claim for universal credit referred to in article 4(2)(a) to (d) (and any award made in respect of the claim), or an award of universal credit referred to in article 4(2)(e) or (f); and
+  >   - (ii) the old style ESA award consists of or includes a contributory employment and support allowance (which allowance therefore continues as a new style ESA award),
+  >
+  > and, in the case of sub-paragraph (a), the condition referred to in paragraph (1A) is satisfied.
+  >
+  > (1A) The condition is that—
+  >
+  > - (a) the person previously made, or was treated as having made, a claim for an employment and support allowance and Part 1 of the 2007 Act, as it has effect apart from the provisions of Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance, applied in relation to the claim;
+  > - (b) a notice was issued to the person under regulation 4 of the 2010 Transitional Regulations and Part 1 of the 2007 Act, as that Part has effect apart from the provisions of Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance, applied in relation to the notice; or
+  > - (c) the person previously had a new style ESA award and article 6(2) applied in relation to the award (which award therefore continued as an old style ESA award).
+
+  ;
+- (c) after paragraph (2)(g) omit “and” and insert—
+
+  > - (ga) in regulation 39(6) (exempt work), the reference to an employment and support allowance included a reference to an old style ESA award;
+  > - (gb) in regulation 85(2)(a) (waiting days), where a claimant was entitled to an old style ESA award with effect from the first day of a period of limited capability for work by virtue of regulation 144(2)(a) of the ESA Regulations 2008 [^c21828111] and, with effect from the second or third day of that period, that award continued as a new style ESA award in the circumstances referred to in paragraph (1)(b) of this article, the reference to an employment and support allowance included a reference to the old style ESA award;
+
+  ;
+- (d) after paragraph (2)(h) insert—
+
+  > - (i) in regulation 89 (short absence), where—
+  >   - (i) a claimant had an old style ESA award in the circumstances referred to in paragraph (1)(b) of this article;
+  >   - (ii) a temporary absence from Great Britain commenced when regulation 152 of the ESA Regulations 2008 applied to the claimant; and
+  >   - (iii) the first 4 weeks of the temporary absence had not ended immediately before the first day of entitlement to the new style ESA award,
+  >
+  >   the initial words of regulation 89 included a reference to the claimant being entitled to the new style ESA award during the remainder of the first 4 weeks of the temporary absence that commenced when regulation 152 of the ESA Regulations 2008 applied to the claimant;
+  > - (j) in regulation 90 (absence to receive medical treatment), where—
+  >   - (i) a claimant had an old style ESA award in the circumstances referred to in paragraph (1)(b) of this article;
+  >   - (ii) a temporary absence from Great Britain commenced when regulation 153 of the ESA Regulations 2008 [^c21828121] applied to the claimant; and
+  >   - (iii) the first 26 weeks of the temporary absence had not ended immediately before the first day of entitlement to the new style ESA award,
+  >
+  >   the initial words of paragraph (1) of regulation 90 included a reference to the claimant being entitled to the new style ESA award during the remainder of the first 26 weeks of the temporary absence that commenced when regulation 153 of the ESA Regulations 2008 applied to the claimant;
+  > - (k) in regulation 93 (disqualification for misconduct etc)—
+  >   - (i) in paragraph (3), for “Paragraph (2) does” there were substituted “ Paragraphs (2) and (5) do ”; and
+  >   - (ii) after paragraph (4) there were inserted—
+  >
+  >     > (5) Subject to paragraph (3), a claimant is to be disqualified for receiving an employment and support allowance for any period determined by the Secretary of State under regulation 157(2) of the Employment and Support Allowance Regulations 2008 [^c21828131] less any days during that period on which those Regulations applied to the claimant.
+  >     >
+  >     > (6) Where paragraph (5) applies to a claimant, paragraph (2) is not to apply to that claimant with respect to any matter referred to in paragraph (1) that formed the basis for the claimant's disqualification under regulation 157(2) of the Employment and Support Allowance Regulations 2008.
+  >
+  >     ;
+  > - (l) in regulation 95 (treating a claimant as not having limited capability for work), the existing words became paragraph (1) and—
+  >   - (i) at the beginning of paragraph (1), there were inserted “Subject to paragraph (2),”; and
+  >   - (ii) after paragraph (1), there were inserted—
+  >
+  >     > (2) A claimant is to be treated as not having limited capability for work if—
+  >     >
+  >     > - (a) under Part 1 of the Act as it has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance (“the former law”), the claimant was disqualified for receiving a contributory employment and support allowance during a period of imprisonment or detention in legal custody;
+  >     > - (b) Part 1 of the Act as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance (“the current law”) applied to the claimant with effect from a day that occurred during the period of imprisonment or detention in legal custody referred to in sub-paragraph (a) and during the period of six weeks with effect from the day on which the claimant was first disqualified as referred to in sub-paragraph (a); and
+  >     > - (c) the total of—
+  >     >   - (i) the period for which the claimant was disqualified for receiving a contributory employment and support allowance during the period of imprisonment or detention in legal custody when the former law applied to the claimant; and
+  >     >   - (ii) the period for which the claimant was disqualified for receiving an employment and support allowance during the period of imprisonment or detention in legal custody when the current law applied to the claimant,
+  >     >
+  >     >   amounts to more than six weeks.
+  >
+  >     .
+
+  ; and
+- (e) after paragraph (2) insert—
+
+  > (3) Subject to paragraph (4), where this article applies, the 2007 Act is to be read as though—
+  >
+  > - (a) the reference to an employment and support allowance in section 1A(1) and (4) to (6);
+  > - (b) the first reference to an employment and support allowance in section 1A(3); and
+  > - (c) the first reference to an employment and support allowance in section 1B [^c21828141],
+  >
+  > included a reference to a contributory employment and support allowance.
+  >
+  > (4) Where this article applies and the 2010 Transitional Regulations [^c21828151] apply to a person, paragraph (3)(c) becomes paragraph (3)(b) and, for paragraph (3)(a) and (b), there is substituted—
+  >
+  > > - (a) in section 1A as substituted by the 2010 Transitional Regulations—
+  > >   - (i) the reference to an employment and support allowance in section 1A(1), (4) and (5); and
+  > >   - (ii) the first reference to an employment and support allowance in section 1A(3); and
+  >
+  > .
+  >
+  > (5) Where this article applies and a claimant—
+  >
+  > - (a) had an old style ESA award in the circumstances referred to in paragraph (1)(b); and
+  > - (b) the old style ESA award had not been preceded by a new style ESA award in the circumstances referred to in paragraph (1A)(c),
+  >
+  > the 2007 Act is to be read as if, in section 24(2), the beginning of the assessment phase (subject to section 24(3)) was the first day of the period for which the claimant was entitled to the old style ESA award.
+
+  .
+
+## 9. Transition from new style ESA to old style ESA
+
+(1) Paragraph (2) applies in relation to a case where—
+
+- (a)
+  - (i) a person makes, or is treated as making, a claim for an employment and support allowance;
+  - (ii) Part 1 of the 2007 Act as it has effect apart from the provisions of Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance, applies in relation to the claim; and
+  - (iii) the claim is made or treated as made on or after 1st July 2013; or
+- (b)
+  - (i) a person has a new style ESA award and article 6(2) of the No. 9 Order applies in relation to the award (which award therefore continues as an old style ESA award); and
+  - (ii) the first day on which the person in question is entitled to an employment and support allowance under the old style ESA award occurs on or after 1st July 2013.
+
+(2) Where this paragraph applies, article 11 of the No. 9 Order is amended as follows—
+
+- (a) for the title substitute “ Transition from new style ESA ”;
+- (b) for paragraph (1) substitute—
+
+  > (1) This article applies where a person—
+  >
+  > - (a) makes, or is treated as making, a claim for an employment and support allowance and Part 1 of the 2007 Act, as it has effect apart from the provisions of Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance, applies in relation to the claim; or
+  > - (b) has a new style ESA award and article 6(2) applies in relation to the award (which award therefore continues as an old style ESA award),
+  >
+  > and, in the case of sub-paragraph (a), the condition referred to in paragraph (1A) is satisfied.
+  >
+  > (1A) The condition is that—
+  >
+  > - (a) the person previously made, or was treated as having made, a claim for an employment and support allowance and, under article 4, Part 1 of the 2007 Act, as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance, applied in relation to the claim;
+  > - (b) a notice was issued to the person under regulation 4 of the 2010 Transitional Regulations and, under article 4, Part 1 of the 2007 Act, as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance, applied in relation to the notice; or
+  > - (c) the person previously—
+  >   - (i) had an old style ESA award immediately before the appointed day in relation to a case of a claim for universal credit referred to in article 4(2)(a) to (d) (and any award made in respect of the claim), or an award of universal credit referred to in article 4(2)(e) or (f); and
+  >   - (ii) the old style ESA award consisted of or included a contributory employment and support allowance (which allowance therefore continued as a new style ESA award).
+
+  ;
+- (c) after paragraph (2)(g), omit “and” and insert—
+
+  > - (ga) in regulation 45(10) (exempt work), the reference to an employment and support allowance included a reference to a new style ESA award;
+  > - (gb) in regulation 144(2)(a) (waiting days), where the claimant was entitled to a new style ESA award with effect from the first day of a period of limited capability for work by virtue of regulation 85(2)(a) of the ESA Regulations 2013 and, with effect from the second or third day of that period, that award continued as an old style ESA award in the circumstances referred to in paragraph (1)(c) of this article, the reference to an employment and support allowance included a reference to the new style ESA award;
+
+  ;
+- (d) after paragraph (2)(h), insert—
+
+  > - (i) in regulation 152 (short absence), where—
+  >   - (i) a claimant had a new style ESA award in the circumstances referred to in paragraph (1)(b) of this article;
+  >   - (ii) a temporary absence from Great Britain commenced when regulation 89 of the ESA Regulations 2013 applied to the claimant; and
+  >   - (iii) the first 4 weeks of the temporary absence had not ended immediately before the first day of entitlement to the old style ESA award,
+  >
+  >   the initial words of regulation 152 included a reference to the claimant being entitled to the old style ESA award during the remainder of the first 4 weeks of the temporary absence that commenced when regulation 89 of the ESA Regulations 2013 applied to the claimant;
+  > - (j) in regulation 153 (absence to receive medical treatment)—
+  >   - (i) a claimant had a new style ESA award in the circumstances referred to in paragraph (1)(b) of this article;
+  >   - (ii) a temporary absence from Great Britain commenced when regulation 90 of the ESA Regulations 2013 applied to the claimant; and
+  >   - (iii) the first 26 weeks of the temporary absence had not ended immediately before the first day of entitlement to the old style ESA award,
+  >
+  >   the initial words of paragraph (1) of regulation 153 included a reference to the claimant being entitled to the old style ESA award during the remainder of the first 26 weeks of the temporary absence that commenced when regulation 90 of the ESA Regulations 2013 applied to the claimant;
+  > - (k) in regulation 157 (disqualification for misconduct etc)—
+  >   - (i) in paragraph (3), for “Paragraph (2) does” there were substituted “ Paragraphs (2) and (4) do ”; and
+  >   - (ii) after paragraph (3) there were inserted—
+  >
+  >     > (4) Subject to paragraph (3), a claimant is to be disqualified for receiving an employment and support allowance for any period determined by the Secretary of State under regulation 93(2) of the Employment and Support Allowance Regulations 2013 less any days during that period on which those Regulations applied to the claimant.
+  >     >
+  >     > (5) Where paragraph (4) applies to a claimant, paragraph (2) is not to apply to that claimant with respect to any matter referred to in paragraph (1) that formed the basis for the claimant's disqualification under regulation 93(2) of the Employment and Support Allowance Regulations 2013.
+  >
+  >     ; and
+  > - (l) in regulation 159 (treating a claimant as not having limited capability for work), the existing words became paragraph (1) and—
+  >   - (i) at the beginning of paragraph (1), there were inserted “Subject to paragraph (2),”; and
+  >   - (ii) after paragraph (1), there were inserted—
+  >
+  >     > (2) A claimant is to be treated as not having limited capability for work if—
+  >     >
+  >     > - (a) under Part 1 of the Act as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance (“the former law”), the claimant was disqualified for receiving an employment and support allowance during a period of imprisonment or detention in legal custody;
+  >     > - (b) Part 1 of the Act as it has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance (“the current law”) applied to the claimant with effect from a day that occurred during the period of imprisonment or detention in legal custody referred to in sub-paragraph (a) and during the period of six weeks with effect from the day on which the claimant was first disqualified as referred to in sub-paragraph (a); and
+  >     > - (c) the total of—
+  >     >   - (i) the period for which the claimant was disqualified for receiving an employment and support allowance during the period of imprisonment or detention in legal custody when the former law applied to the claimant; and
+  >     >   - (ii) the period for which the claimant was disqualified for receiving a contributory employment and support allowance during the period of imprisonment or detention in legal custody when the current law applied to the claimant,
+  >     >
+  >     > amounts to more than six weeks.
+  >
+  >     .
+
+  ; and
+- (e) after paragraph (2) insert—
+
+  > (3) Subject to paragraph (4), where this article applies, the 2007 Act is to be read as though—
+  >
+  > - (a) the reference to a contributory allowance in section (1A)(1) and (4) to (6);
+  > - (b) the first reference to a contributory allowance in section (1A)(3); and
+  > - (c) the first reference to a contributory allowance in section 1B,
+  >
+  > included a reference to a new style ESA award.
+  >
+  > (4) Where this article applies and the 2010 Transitional Regulations [^c21828161] apply to a person, paragraph (3)(c) becomes paragraph (3)(b) and, for paragraph (3)(a) and (b), there is substituted—
+  >
+  > > - (a) in section 1A as substituted by the 2010 Transitional Regulations—
+  > >   - (i) the reference to a contributory allowance in section 1A(1), (4) and (5); and
+  > >   - (ii) the first reference to a contributory allowance in section 1A(3); and
+  >
+  > .
+  >
+  > (5) Where this article applies and a claimant—
+  >
+  > - (a) had a new style ESA award in the circumstances referred to in paragraph (1)(b); and
+  > - (b) the new style ESA award had not been preceded by an old style ESA award in the circumstances referred to in paragraph (1A)(c),
+  >
+  > section 24(2) of the 2007 Act is to be read as if the beginning of the assessment phase (subject to section 24(3)) was the first day of the period for which the claimant was entitled to the new style ESA award.
+
+  .
+
+## 10. Transition from old style JSA to new style JSA
+
+(1) Paragraph (2) applies in relation to the case where—
+
+- (a)
+  - (i) a person makes, or is treated as making, a claim for a jobseeker's allowance;
+  - (ii) under article 4 of the No. 9 Order, the 1995 Act as amended by the provisions of Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker's allowance, applies in relation to the claim; and
+  - (iii) the claim is made or treated as made on or after 1st July 2013; or
+- (b)
+  - (i) a person has an old style JSA award (whether or not the award was made to the person as a member of a joint-claim couple) immediately before the appointed day in relation to a case of a claim for universal credit referred to in article 4(2)(a) to (d) of the No. 9 Order (and any award made in respect of the claim) or an award of universal credit referred to in article 4(2)(e) or (f) of the No. 9 Order;
+  - (ii) the old style JSA award consists of or includes a contributory employment and support allowance (which allowance therefore continues as a new style JSA award); and
+  - (iii) the first day on which the person in question is entitled to a jobseeker's allowance under the new style JSA award occurs on or after 1st July 2013.
+
+(2) Where this paragraph applies, for article 12 of the No. 9 Order substitute—
+
+> **12. Transition from old style JSA**
+>
+> (1) This article applies where a person—
+>
+> - (a) makes, or is treated as making, a claim for a jobseeker's allowance and, under article 4, the 1995 Act, as amended by the provisions of Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker's allowance, applies in relation to the claim; or
+> - (b)
+>   - (i) has an old style JSA award (whether or not the award was made to the person as a member of a joint-claim couple) immediately before the appointed day in relation to a case of a claim for universal credit referred to in article 4(2)(a) to (d) (and any award made in respect of the claim), or an award of universal credit referred to in article 4(2)(e) or (f); and
+>   - (ii) the old style JSA award consists of or includes a contribution-based jobseeker's allowance (which allowance therefore continues as a new style JSA award),
+>
+> and, in the case of sub-paragraph (a), the condition referred to in paragraph (2) is satisfied.
+>
+> (2) The condition is that the person previously—
+>
+> - (a) made, or was treated as having made, a claim for a jobseeker's allowance (whether or not as a member of a joint-claim couple) and the 1995 Act, as it has effect apart from the provisions of Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker's allowance, applied in relation to the claim; or
+> - (b) had a new style JSA award and article 6(2) applied in relation to the award (which award therefore continued as an old style JSA award).
+>
+> (3) Where this article applies, the JSA Regulations 2013 are to be read as if—
+>
+> - (a) in regulation 15(3)(b) (victims of domestic violence), the reference to regulation 15 applying to the claimant included a reference to the claimant having been treated as being available for employment under regulation 14A(2) or (6) of the JSA Regulations 1996 [^c21828171];
+> - (b) in regulation 36(1) (waiting days), where a person was entitled to an old style JSA award with effect from the first day of a jobseeking period by virtue of regulation 46(1)(a) of the JSA Regulations 1996 [^c21828181] and, with effect from the second or third day of that period, that award continued as a new style JSA award in the circumstances referred to in paragraph (1)(b) of this article, the reference to a jobseeker's allowance included a reference to the old style JSA award;
+> - (c) in regulation 37 (jobseeking period)—
+>   - (i) the jobseeking period in relation to a claimant included any period that, under regulation 47 of the JSA Regulations 1996 (jobseeking period) [^c21828191], forms part of the jobseeking period for the purposes of the 1995 Act; and
+>   - (ii) in paragraph (3), the reference to a day that is to be treated as a day in respect of which the claimant was entitled to a jobseeker's allowance included a reference to any day that, under regulation 47(4) of the JSA Regulations 1996, is to be treated as a day in respect of which the claimant was entitled to a contribution-based jobseeker's allowance;
+> - (d) in regulation 41 (persons temporarily absent from Great Britain), where a person had an old style JSA award in the circumstances referred to in paragraph (1)(b) of this article, the reference in paragraph (2)(b), (3)(a) and (c), (5)(a) and (6)(b) to entitlement to a jobseeker's allowance included a reference to the old style JSA award; and
+> - (e) in regulation 46 (short periods of sickness), after paragraph (5) there were inserted—
+>
+>   > (6) Where—
+>   >
+>   > - (a) a person has been treated under regulation 55(1) of the Jobseeker's Allowance Regulations 1996 [^c21828201] as capable of work or as not having limited capability for work for a certain period; and
+>   > - (b) these Regulations apply to that person with effect from a day (“**the relevant day**”) within that period,
+>   >
+>   > the person is to be treated for the part of that period that begins with the relevant day as capable of work or as not having limited capability for work.
+>   >
+>   > (7) Where paragraph (6) applies to a person and the conditions in paragraph (1)(a) to (c) are fulfilled in relation to that person on any day within the part of a period referred to in paragraph (6), the requirement of paragraph (1) to treat the person as capable of work or as not having limited capability for work is to be regarded as satisfied with respect to the fulfilment of those conditions on that day.
+>   >
+>   > (8) For the purposes of paragraph (3), where paragraph (6) applies to a person, paragraph (3) is to apply to the person as though the preceding provisions of this regulation had applied to the person with respect to the person having been treated for a period, under regulation 55(1) of the Jobseeker's Allowance Regulations 1996 and paragraph (6), as capable of work or as not having limited capability for work.
+>
+>   .
+>
+> (4) Where this article applies, the 1995 Act is to be read as though, in section 5 of the 1995 Act [^c21828211], the reference to a jobseeker's allowance in subsection (1) and the first reference to a jobseeker's allowance in subsection (2) included a reference to a contribution-based jobseeker's allowance.
+>
+> (5) For the purposes of this article, “**joint-claim couple**” has the meaning given in section 1(4) of the 1995 Act.
+
+.
+
+## 11. Transition from new style JSA to old style JSA
+
+(1) Paragraph (2) applies in relation to a case where—
+
+- (a)
+  - (i) a person makes, or is treated as making, a claim for a jobseeker's allowance (whether or not as a member of a joint-claim couple);
+  - (ii) the 1995 Act, as it has effect apart from the provisions of Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker's allowance, applies in relation to the claim; and
+  - (iii) the claim is made or treated as made on or after 1st July 2013; or
+- (b)
+  - (i) a person has a new style JSA award and article 6(2) of the No. 9 Order applies in relation to the award (which award therefore continues as an old style JSA award); and
+  - (ii) the first day on which the person in question is entitled to a jobseeker's allowance under the old style JSA award occurs on or after 1st July 2013.
+
+(2) Where this paragraph applies, for article 13 of the No. 9 Order substitute—
+
+> **13. Transition from new style JSA**
+>
+> (1) This article applies where a person—
+>
+> - (a) makes, or is treated as making, a claim for a jobseeker's allowance (whether or not as a member of a joint-claim couple) and the 1995 Act, as it has effect apart from the provisions of Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker's allowance, applies in relation to the claim; or
+> - (b) has a new style JSA award and article 6(2) applies in relation to the award such that it continues as an old style JSA award,
+>
+> and, in the case of sub-paragraph (a), the condition referred to in paragraph (2) is satisfied.
+>
+> (2) the condition is that the person previously—
+>
+> - (a) made, or was treated as having made, a claim for a jobseeker's allowance and, under article 4, the 1995 Act, as amended by the provisions of Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker's allowance, applied in relation to the claim; or
+> - (b)
+>   - (i) had an old style JSA award immediately before the appointed day in relation to a case of a claim for universal credit referred to in article 4(2)(a) to (d) (and any award made in respect of the claim), or an award of universal credit referred to in article 4(2)(e) or (f); and
+>   - (ii) the old style JSA award consisted of or included a contributory employment and support allowance (which allowance therefore continued as a new style JSA award).
+>
+> (3) Where this article applies, the JSA Regulations 1996 are to be read as if—
+>
+> - (a) in regulation 14A (victims of domestic violence), for the purposes of paragraph (3)(b) of that regulation, a person had been treated as available for employment on a day (under paragraph (2) of that regulation) where regulation 15 of the JSA Regulations 2013 applied to that person on that day;
+> - (b) in regulation 46 (waiting days)—
+>   - (i) where a person was entitled to a new style JSA award with effect from the first day of a jobseeking period by virtue of regulation 36(1) of the JSA Regulations 2013 and, with effect from the second or third day of that period, that award continued as an old style JSA award in the circumstances referred to in paragraph (1)(b) of this article, the reference to a jobseeker's allowance in paragraph (1)(a) included a reference to the new style JSA award; and
+>   - (ii) the second reference to a jobseeker's allowance in paragraph (1)(d) included a reference to a new style JSA award;
+> - (c) in regulation 47 (jobseeking period)—
+>   - (i) the jobseeking period in relation to a claimant included any period that, under regulation 37 of the JSA Regulations 2013 (jobseeking period) forms part of the jobseeking period for the purposes of the 1995 Act; and
+>   - (ii) in paragraph (4), the reference to any day that is to be treated as a day in respect of which the claimant was entitled to a contribution-based jobseeker's allowance included a reference to a day that, under regulation 37(3) of the JSA Regulations 2013 (jobseeking period), is to be treated as a day in respect of which the claimant was entitled to a jobseeker's allowance;
+> - (d) in regulation 50 (persons temporarily absent from Great Britain), where a person had a new style JSA award in the circumstances referred to in paragraph (1)(b) of this article, the reference in paragraph (2)(b), (3)(a) and (c), (5)(a) and (c), (6AA)(a) and (6D)(b) to entitlement to a jobseeker's allowance included a reference to the new style JSA award [^c21828221]; and
+> - (e) in regulation 55 (short periods of sickness), after paragraph (5) there were inserted—
+>
+>   > (6) Where—
+>   >
+>   > - (a) a person has been treated under regulation 46(1) of the Jobseeker's Allowance Regulations 2013 as capable of work or as not having limited capability for work for a certain period; and
+>   > - (b) these Regulations apply to that person with effect from a day (“**the relevant day**”) within that period,
+>   >
+>   > the person is to be treated for the part of that period that begins with the relevant day as capable of work or as not having limited capability for work.
+>   >
+>   > (7) Where paragraph (6) applies to a person and the conditions in paragraph (1)(a) to (c) are fulfilled in relation to that person on any day within the part of a period referred to in paragraph (6), the requirement of paragraph (1) to treat the person as capable of work or as not having limited capability for work is to be regarded as satisfied with respect to the fulfilment of those conditions on that day.
+>   >
+>   > (8) For the purposes of paragraph (3), where paragraph (6) applies to a person, paragraph (3) is to apply to the person as though the preceding provisions of this regulation had applied to the person with respect to the person having been treated for a period, under regulation 46(1) of the Jobseeker's Allowance Regulations 2013 and paragraph (6), as capable of work or as not having limited capability for work.
+>
+>   .
+>
+> (4) Where this article applies, the 1995 Act is to be read as though, in section 5 of the 1995 Act [^c21828231], the reference to a contribution-based jobseeker's allowance in subsection (1) and the first reference to a contribution-based jobseeker's allowance in subsection (2) included a reference to a new style JSA award.
+>
+> (5) For the purposes of this article, “**joint-claim couple**” has the meaning given in section 1(4) of the 1995 Act.
+
+.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Freud
+
+Parliamentary Under-Secretary of State
+
+Department for Work and Pensions
+
+## SCHEDULE
+
+Article 2(1)
+
+### PART 1 — The No.2 relevant districts
+
+**1.** WN1 1 and WN1 2.
+
+**2.** WN2 1 to WN2 5.
+
+**3.** WN3 0.
+
+**4.** WN3 4 to WN3 6.
+
+**5.** WN5 0.
+
+**6.** WN5 6 to WN5 9.
+
+**7.** WN6 0.
+
+**8.** WN6 7 to WN6 9.
+
+### PART 2 — The No.3 relevant districts
+
+**1.** M35 0 to M35 4.
+
+**2.** M35 6 and M35 7.
+
+**3.** M35 9.
+
+**4.** OL1 0 to OL1 6.
+
+**5.** OL1 8 and OL1 9.
+
+**6.** OL2 1.
+
+**7.** OL2 3 to OL2 9.
+
+**8.** OL3 1.
+
+**9.** OL3 5 to OL3 7.
+
+**10.** OL3 9.
+
+**11.** OL4 0 to OL4 5.
+
+**12.** OL8 and OL9.
+
+**13.** WA1 and WA2.
+
+**14.** WA3 4 to WA3 7.
+
+**15.** WA4 and WA5.
+
+**16.** WA13 0.
+
+**17.** WA13 9.
+
+*(This note is not part of the Order)*
+
+This Order commences provisions of the Welfare Reform Act 2012 (c.5) (“**the Act**”) that relate to universal credit (“UC”) and the abolition of income-related employment and support allowance and of income-based jobseeker's allowance, by reference to the cases set out in articles 3 and 4. It also amends certain transitional provisions in the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/ 983, C.41) (“**the No. 9 Order**”).
+
+An award of an employment and support allowance (“ESA”) under Part 1 of the Welfare Reform Act 2007 (c.5) in a case where income-related employment and support allowance has been abolished is referred to as a “**new style ESA award**” and an award of a jobseeker's allowance (“JSA”) under the Jobseekers Act 1995 (c.18) (“**the 1995 Act**”) in a case where income-based jobseeker's allowance has been abolished is referred to as a “**new style JSA award**”.
+
+An award of ESA under Part 1 of the Welfare Reform Act 2007 (“**the 2007 Act**”) in a case where income-related employment and support allowance has not been abolished is referred to as an “**old style ESA award**” and an award of JSA under the Jobseekers Act 1995 in a case where income-based jobseeker's allowance has not been abolished is referred to as an “**old style JSA award**”.
+
+Article 3 brings into force provisions relating to UC in Part 1 of the Act, as set out in Schedule 2 to the No. 9 Order (“**the UC provisions**”) in relation to four different cases.
+
+The case in article 3(2)(a) relates to the making of a claim for UC on or after 1st July 2013 in respect of a period that begins on or after 1st July 2013 where a person resides in a “No. 2 relevant district” at the time that the claim is made (the “No. 2 relevant districts” are described in Part 1 of the Schedule). Other conditions (“Pathfinder Group conditions”) for making a claim for UC are set out in the Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386).
+
+The case in article 3(2)(b) relates to the making of a claim for UC where a person claims UC on or after 1st July 2013 in respect of a period that begins on or after 1st July 2013 and provides incorrect information as to their residence in a No. 2 relevant district, but this is only discovered once payments of UC have been made.
+
+The cases in article 3(2)(c) and (d) relate, respectively, to the making of a claim for UC on or after 29th July 2013 in respect of a period that begins on or after 29th July 2013 where a person resides in a “No. 3 relevant district” at the time that the claim is made (the “No. 3 relevant districts” are described in Part 2 of the Schedule) and to the making of a claim for UC on or after 29th July 2013 where a person claims UC in respect of a period that begins on or after 29th July 2013 and provides incorrect information as to their residence in a No. 3 relevant district.
+
+Under article 3(3), the day appointed for the commencement of the UC provisions in the above cases is the first day of the period in respect of which the claim is made or treated as made.
+
+Article 3(4) and (5) applies the provisions of article 3(5) and (6) of the No. 9 Order to the cases in article 3(2)(a) to (d) of this Order.
+
+Article 4(1) brings into force provisions relating to the abolition of income-related employment and support allowance and of income-based jobseeker's allowance (“**the amending provisions**”), where one of four different cases applies.
+
+Under article 4(2)(a), the amending provisions come into force in relation to a claim for UC, ESA or JSA, and any award that is made in respect of the claim, where a person claims UC, ESA or JSA on or after 1st July 2013 in respect of a period that begins on or after 1st July 2013 and, at the time that the claim is made, resides in a No. 2 relevant district and meets the Pathfinder Group conditions.
+
+Under article 4(2)(b), the amending provisions come into force in relation to a claim for UC and any award that is made in respect of the claim where a person claims UC on or after 1st July 2013 in respect of a period that begins on or after 1st July 2013 and provides incorrect information as to their residence in a No. 2 relevant district, or as to their meeting the Pathfinder Group conditions, but this is only discovered once payments of UC have been made.
+
+Articles 4(2)(c) and (d) make identical provision to articles 4(2)(a) and (b) with respect to claims that are made on or after 29th July 2013 in respect of a period that begins on or after 29th July 2013 and with respect to residence in a No. 3 relevant district.
+
+Under article 4(3), the day appointed for the coming into force of the amending provisions in the above cases is the first day of the period in respect of which the claim is made or treated as made.
+
+Article 4(4) to (6) applies the provisions of article 4(4) and (5) and article 5 of the No. 9 Order to the cases in article 4(2).
+
+Article 5 provides that articles 6 and 9 to 22 of the No. 9 Order apply in relation to the case of a claim referred to in article 4(2), and any award made in respect of the claim, as they apply in relation to the case of a claim referred to in article 4(2)(a) and (b) of the No. 9 Order, and any award made in respect of the claim.
+
+Article 6 amends article 7 of the No. 9 Order (claimant responsibilities with respect to ESA and JSA) with respect to certain cases that are to occur after the Order is made. In relation to the case where, under any secondary legislation, Part 1 of the 2007 Act or the 1995 Act applies in relation to a new style ESA award or a new style JSA award respectively as though the amending provisions had not come into force, the amendments clarify the Acts that are to apply in relation to such an award as though the provisions referred to in article 7(1) of the No. 9 Order had not come into force.
+
+Article 7 amends Schedule 4 to the No. 9 Order to ensure consistency between the wording of section 1 and 1A of the Welfare Reform Act 2007 (c.5) as modified by the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit)(Existing Awards)(No.2) Regulations 2010, and the wording of that Act as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance.
+
+Articles 8 to 11 amend articles 10 and 11 of the No. 9 Order, and substitute new articles 12 and 13 of the No. 9 Order (transition from old style ESA to new style ESA and vice versa, and old style JSA to new style JSA and vice versa) with respect to claims that are made on or after 1st July 2013 and awards of old style ESA or JSA that continue as awards of new style ESA or JSA (or vice versa) on or after that date. The amendments clarify the cases to which the modifications made by those articles apply and provide for additional modifications of legislation relating to ESA and JSA.
+
+*(This note is not part of the Order)*
+
+The following provisions of the Welfare Reform Act 2012 (c.5) were brought into force by a Statutory Instrument which was made before this Order was made.
+
+| *Provision* | *Date of commencement* | *S.I. Number* |
+| --- | --- | --- |
+| Section 1 (partially) | 29th April 2013 | 2013/983 |
+| Section 2(1) (partially) | 29th April 2013 | 2013/983 |
+| Section 2(2) | 25th February 2013 | 2013/358 |
+| Section 3 (partially) | 29th April 2013 | 2013/983 |
+| Section 4(2), (3) and (5) to (7) | 25th February 2013 | 2013/358 |
+| Section 4(1) and (4) (partially) | 29th April 2013 | 2013/983 |
+| Section 5 (partially) | 25th February 2013 | 2013/358 |
+| Section 5 (partially) | 29th April 2013 | 2013/983 |
+| Section 6(1)(a) and (3) (partially) | 25th February 2013 | 2013/358 |
+| Section 6 (partially) | 29th April 2013 | 2013/983 |
+| Section 7(2) and (3) | 25th February 2013 | 2013/358\` |
+| Section 7(1) and (4) (partially) | 29th April 2013 | 2013/983 |
+| Section 8 (partially) | 29th April 2013 | 2013/983 |
+| Section 8(3) (partially) | 25th February 2013 | 2013/358 |
+| Section 9(1) (partially) | 29th April 2013 | 2013/983 |
+| Sections 9(2) and (3), 10(2) to (5) and 11(3) to (5) | 25th February 2013 | 2013/358 |
+| Section 10(1) (partially) | 29th April 2013 | 2013/983 |
+| Section 11(1) and (2) (partially) | 29th April 2013 | 2013/983 |
+| Section 12(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 12(1) and (2) (partially) | 29th April 2013 | 2013/983 |
+| Section 12(3) and (4) | 25th February 2013 | 2013/358 |
+| Section 13 (partially) | 29th April 2013 | 2013/983 |
+| Section 14 (partially) | 29th April 2013 | 2013/983 |
+| Section 14(5) (partially) | 25th February 2013 | 2013/358 |
+| Section 15(1) and (4) (partially) | 29th April 2013 | 2013/983 |
+| Sections 15(2) and (3) and 17(3)(f) | 25th February 2013 | 2013/358 |
+| Section 16 (partially) | 29th April 2013 | 2013/983 |
+| Section 17(1), (2), (3)(a) to (e), (4) and (5) (partially) | 29th April 2013 | 2013/983 |
+| Section 17(4) and (5) (partially) | 25th February 2013 | 2013/358 |
+| Section 18 (partially) | 29th April 2013 | 2013/983 |
+| Section 18(3) and (5) (partially) | 25th February 2013 | 2013/358 |
+| Section 19(1), (2)(a) to (c), (5) and (6) (partially) | 29th April 2013 | 2013/983 |
+| Section 19(2)(d), (3) and (4) | 25th February 2013 | 2013/358 |
+| Section 20 (partially) | 29th April 2013 | 2013/983 |
+| Section 20(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 21 (partially) | 29th April 2013 | 2013/983 |
+| Section 22 (partially) | 29th April 2013 | 2013/983 |
+| Section 22(2) (partially) | 25th February 2013 | 2013/358 |
+| Section 23 (partially) | 29th April 2013 | 2013/983 |
+| Section 24(2), (3) and (4) (partially) | 29th April 2013 | 2013/983 |
+| Sections 24(1), (5) and (6) and 25 | 25th February 2013 | 2013/358 |
+| Section 26(1) to (5) (partially) | 29th April 2013 | 2013/983 |
+| Section 26(2)(a) (partially) | 25th February 2013 | 2013/358 |
+| Sections 26(6) to (8), 27(4), (5) and (9) and 28 | 25th February 2013 | 2013/358 |
+| Section 27(1) to (3) and (6) to (8) (partially) | 29th April 2013 | 2013/983 |
+| Section 29 | 29th April 2013 | 2013/983 |
+| Sections 30 and 31 (partially) | 25th February 2013 | 2013/358 |
+| Section 31 (partially) | 1st April 2013 | 2013/358 |
+| Section 31 (partially) | 29th April 2013 | 2013/358 |
+| Section 31 (partially) | 29th April 2013 | 2013/983 |
+| Section 32 | 25th February 2013 | 2013/358 |
+| Section 33(1)(a) and (b), (2) and (3) (partially) | 29th April 2013 | 2013/983 |
+| Section 33(1)(e) | 1st April 2013 | 2013/358 |
+| Sections 33(3) and 35 (partially) | 25th February 2013 | 2013/358 |
+| Section 35 (partially) | 29th April 2013 | 2013/983 |
+| Section 36 (partially) | 25th February 2013 | 2013/358 |
+| Sections 37(3) to (7) and 39(3)(a) | 25th February 2013 | 2013/358 |
+| Section 37 (for all remaining purposes) | 29th April 2013 | 2013/983 |
+| Section 38 | 29th April 2013 | 2013/983 |
+| Section 39 (for all remaining purposes) | 29th April 2013 | 2013/983 |
+| Sections 40, 42 and 43 | 25th February 2013 | 2013/358 |
+| Section 44(1) (partially) | 29th April 2013 | 2013/983 |
+| Section 44(2) (partially) | 29th April 2013 | 2013/983 |
+| Section 44(5) | 10th June 2012 | 2012/1246 |
+| Section 45 | 8th October 2012 | 2012/2530 |
+| Section 46(1) and (3) (partially) | 10th June 2012 | 2012/1246 |
+| Section 46(1) (partially) | 22nd October 2012 | 2012/2530 |
+| Section 46(2) | 10th June 2012 | 2012/1246 |
+| Section 46(3) (for all remaining purposes) | 22nd October 2012 | 2012/2530 |
+| Section 46(4) | 22nd October 2012 | 2012/2530 |
+| Section 47 | 20th March 2012 | 2012/863 |
+| Section 48 (partially) | 22nd October 2012 | 2012/2530 |
+| Section 49(1) and (3) (partially) | 25th February 2013 | 2013/358 |
+| Section 49(1), (2) and (3) to (5) (partially) | 29th April 2013 | 2013/983 |
+| Section 49(6) | 25th February 2013 | 2013/358 |
+| Section 51 (partially) | 20th March 2012 | 2012/863 |
+| Section 51 (for all remaining purposes) | 1st May 2012 | 2012/863 |
+| Sections 52 and 53 | 1st May 2012 | 2012/863 |
+| Section 54(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 54(1) and (2) (partially) | 29th April 2013 | 2013/983 |
+| Section 54(6) | 25th February 2013 | 2013/358 |
+| Section 55 | 3rd December 2012 | 2012/2530 |
+| Section 56 | 26th November 2012 | 2012/2530 |
+| Section 57(1) and (2) (partially) | 25th February 2013 | 2013/358 |
+| Section 57(1), (2), (4), (5) and (9) (partially) | 29th April 2013 | 2013/983 |
+| Section 57(6) | 25th February 2013 | 2013/358 |
+| Section 58(1) and (2) | 20th March 2012 | 2012/863 |
+| Section 64 (partially) | 30th October 2012 | 2012/2530 |
+| Section 64 (for all remaining purposes) | 5th December 2012 | 2012/2530 |
+| Section 65 | 5th December 2012 | 2012/2530 |
+| Section 66 (partially) | 30th October 2012 | 2012/2530 |
+| Sections 67 and 68 | 5th December 2012 | 2012/2530 |
+| Section 69 (partially) | 27th November 2012 | 2012/2946 |
+| Section 69 (for all remaining purposes) | 1st January 2013 | 2012/2946 |
+| Section 70(1) and (3) to (10) | 1st April 2013 | 2012/3090 |
+| Section 70(2) | 1st August 2013 | 2012/3090 |
+| Section 73 | 1st April 2013 | 2012/3090 |
+| Section 77(3) (partially) | 25th February 2013 | 2013/358 |
+| Section 77(1) to (3) (partially) | 8th April 2013 | 2013/358 |
+| Section 77(1) to (3) (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 78(1), (2), (5) and (6) (partially) | 8th April 2013 | 2013/358 |
+| Section 78(1), (2), (5) and (6) (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 78(3) and (4) | 25th February 2013 | 2013/358 |
+| Section 79(1), (2), (5) and (6) (partially) | 8th April 2013 | 2013/358 |
+| Section 79(1), (2), (5) and (6) (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 79(3), (4) and (7) | 25th February 2013 | 2013/358 |
+| Sections 80 and 81 | 25th February 2013 | 2013/358 |
+| Section 82 (partially) | 8th April 2013 | 2013/358 |
+| Section 82 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 83(3) (partially) | 25th February 2013 | 2013/358 |
+| Section 83(1) to (3) and 84 (partially) | 8th April 2013 | 2013/358 |
+| Section 83(1) to (3) and 84 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Sections 85 and 86 | 25th February 2013 | 2013/358 |
+| Section 87 (partially) | 25th February 2013 | 2013/358 |
+| Section 87 (partially) | 8th April 2013 | 2013/358 |
+| Section 87 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Sections 88 and 89 (partially) | 8th April 2013 | 2013/358 |
+| Sections 88 and 89 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 91 (partially) | 25th February 2013 | 2013/358 |
+| Section 91 (partially) | 8th April 2013 | 2013/358 |
+| Section 91 (partially) | 10th June 2013 | 2013/1250 |
+| Sections 92, 93 and 94 | 25th February 2013 | 2013/358 |
+| Section 95 (partially) | 25th February 2013 | 2013/358 |
+| Section 95 (partially) | 8th April 2013 | 2013/358 |
+| Section 95 (for all remaining purposes) | 10th June 2013 | 2013/1250 |
+| Section 96 (partially) | 27th November 2012 | 2012/2946 |
+| Section 96 (for all remaining purposes) | 15th April 2013 | 2012/2946 |
+| Section 97(1) to (4) | 27th November 2012 | 2012/2946 |
+| Section 97(5) and (6) | 15th April 2013 | 2012/2946 |
+| Sections 98 and 99 | 25th February 2013 | 2013/358 |
+| Section 100 | 25th February 2013 | 2013/358 |
+| Section 101(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 101(2) | 1st April 2013 | 2013/358 |
+| Section 102(1) (partially) | 25th February 2013 | 2013/358 |
+| Section 102(2) to (5) | 25th February 2013 | 2013/358 |
+| Section 102(6) (partially) | 25th February 2013 | 2013/358 |
+| Section 102(6) (partially) | 29<sup>th</sup> April 2013 | 2013/983 |
+| Section 104 | 25th February 2013 | 2013/358 |
+| Section 105(1) (partially) | 1st July 2012 | 2012/1246 |
+| Section 105(1) (partially) | 1st October 2012 | 2012/1246 |
+| Section 105(1) (partially) | 29th April 2013 | 2013/358 |
+| Section 105(3), (5) and (6) | 29th April 2013 | 2013/358 |
+| Section 105(4) | 1st October 2012 | 2012/1246 |
+| Section 105(7) (partially) | 29th April 2013 | 2013/358 |
+| Section 106 | 1st July 2012 | 2012/1246 |
+| Section 110 (partially) | 17th June 2013 | 2013/1250 |
+| Section 110 | 1st October 2013 | 2013/1250 |
+| Sections 113 to 115 | 8th May 2012 | 2012/863 |
+| Section 116(1) (partially) | 10th May 2012 | 2012/1246 |
+| Section 116(1) (for all remaining purposes) | 1st October 2012 | 2012/1246 |
+| Section 116(2) | 10th May 2012 | 2012/1246 |
+| Section 117(1) (partially) | 1st April 2013 | 2013/358 |
+| Section 117(1) (for all remaining purposes) | 6th April 2013 | 2013/358 |
+| Section 117(2) | 1st April 2013 | 2013/358 |
+| Section 117(3) | 6th April 2013 | 2013/358 |
+| Section 118(1), (2), (5) and (8)(b) (partially) | 25th February 2013 | 2013/358 |
+| Section 118(1), (2), (5) and (8)(b) (for all remaining purposes) | 1st April 2013 | 2013/358 |
+| Sections 118(3), (4), (6), (7) and (8)(a) and (c) and 119 | 1st April 2013 | 2013/358 |
+| Section 120 (partially) | 1st February 2013 | 2013/178 |
+| Section 120 (for all remaining purposes) | 6th April 2013 | 2013/178 |
+| [^c21828241]Sections 122, 123 and 125 | 6th June 2012 | 2012/1246 |
+| Sections 128 and 129 | 20th March 2012 | 2012/863 |
+| Section 130 (partially) | 20th March 2012 | 2012/863 |
+| Section 130 (for all remaining purposes) | 8th May 2012 | 2012/863 |
+| Section 131 (partially) | 20th March 2012 | 2012/863 |
+| Section 131 (for all remaining purposes) | 8th May 2012 | 2012/863 |
+| Section 132(8) | 20th March 2012 | 2012/863 |
+| Section 132 (for all remaining purposes) | 8th May 2012 | 2012/863 |
+| Section 133(1) to (4) | 20th March 2012 | 2012/863 |
+| Section 133(6) | 2nd July 2012 | 2012/1651 |
+| Sections 143, 144 and 146 | 8th May 2012 | 2012/863 |
+| Schedule 1 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 2 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 2 (partially) | 1st April 2013 | 2013/358 |
+| Schedule 2 (partially) | 29th April 2013 | 2013/358 |
+| Schedule 2 (partially) | 29th April 2013 | 2013/983 |
+| Schedule 3 (partially) | 1st April 2013 | 2013/358 |
+| Schedule 3 (partially) | 29th April 2013 | 2013/983 |
+| Schedule 5 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 5 (partially) | 29th April 2013 | 2013/983 |
+| Schedule 6 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 7 (partially) | 22nd October 2012 | 2012/2530 |
+| Schedule 8 (partially) | 1st April 2013 | 2012/3090 |
+| Schedule 8 (for all remaining purposes) | 1st August 2013 | 2012/3090 |
+| Schedule 9 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 9 (partially) | 8th April 2013 | 2013/358 |
+| Schedule 9 (partially) | 10th June 2013 | 2013/1250 |
+| Schedule 10 | 25th February 2013 | 2013/358 |
+| Schedule 11 (partially) | 25th February 2013 | 2013/358 |
+| Schedule 11 (partially) | 29th April 2013 | 2013/983 |
+| Part 1 of Schedule 14 (partially) | 1st April 2013 | 2013/358 |
+| Part 1 of Schedule 14 (partially) | 29th April 2013 | 2013/983 |
+| Part 3 of Schedule 14 (partially) | 22nd October 2012 | 2012/2530 |
+| Parts 4 and 5 of Schedule 14 (partially) | 29th April 2013 | 2013/983 |
+| Part 8 of Schedule 14 (partially) | 1st April 2013 | 2012/3090 |
+| Part 8 of Schedule 14 (partially) | 1st August 2013 | 2012/3090 |
+| Part 11 of Schedule 14 (partially) | 1st April 2013 | 2013/358 |
+| Part 11 of Schedule 14 (partially) | 29th April 2013 | 2013/358 |
+| Part 14 of Schedule 14 | 8th May 2012 | 2012/863 |
+
+## Annotations
+
+[^c21828001]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-e2f3e9632481f720fd799d154d4e7e5e]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/1511) amended (30.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1661)](https://www.legislation.gov.uk/uksi/2014/1661), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1661/article/3), [4(5)](https://www.legislation.gov.uk/uksi/2014/1661/article/4/5)
+
+[^key-04f574c8ec127a7c2a9be0f44b1276da]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/1511) amended (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [5](https://www.legislation.gov.uk/uksi/2014/1923/article/5)
+
+[^key-0b727935e488f8e55869f3866946a95d]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/1511) modified (24.11.2014) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/3067)](https://www.legislation.gov.uk/uksi/2014/3067), [art. 7(b)](https://www.legislation.gov.uk/uksi/2014/3067/article/7/b)
+
+[^key-b4f8c5bf7a6fe6195ab5c576a4c7a093]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/1511) modified (26.1.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2015/32/article/3/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/32/article/6/2)
+
+[^key-5c4ac9922427283668fbfeedab568a8d]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/1511) modified (26.1.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2015/32/article/3/1), [6(1)](https://www.legislation.gov.uk/uksi/2015/32/article/6/1)
+
+[^key-ebff7bd8a7568427d80634533be00e91]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/1511) amended (10.3.2015) by [The Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/634)](https://www.legislation.gov.uk/uksi/2015/634), [art. 8(1)](https://www.legislation.gov.uk/uksi/2015/634/article/8/1)[(3)](https://www.legislation.gov.uk/uksi/2015/634/article/8/3)
+
+[^key-44b55eb9af81b541650b02390e09189f]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/1511) modified (6.4.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), [arts. 3(3)](https://www.legislation.gov.uk/uksi/2015/32/article/3/3), [6(4)](https://www.legislation.gov.uk/uksi/2015/32/article/6/4)
+
+[^key-9dfda69fbfb8781906bfa6bd6dc415b4]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/1511) amended (20.7.2015) by [The Welfare Reform Act 2012 (Commencement No. 24 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/1537)](https://www.legislation.gov.uk/uksi/2015/1537), [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1537/article/5/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2015/1537/article/5/2/b)
+
+[^c21828011]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^c21828021]: Marginal citation: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^M_F_afab34dc-d403-4bd3-ce57-9c2d51961141]: Textual amendment: Words in art. 2(1) substituted (24.11.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/3067)](https://www.legislation.gov.uk/uksi/2014/3067), [arts. 3](https://www.legislation.gov.uk/uksi/2014/3067/article/3), [6(3)](https://www.legislation.gov.uk/uksi/2014/3067/article/6/3)
+
+[^M_F_bbd949ee-b104-4cc4-d60e-1c6c40481d83]: Textual amendment: Words in art. 2 inserted (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), arts. 3, 18(1)(2)(a)(ii)
+
+[^M_F_475aa57b-ed52-4376-fb34-fedd55cfb031]: Textual amendment: Words in art. 2(1) omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 14(1)](https://www.legislation.gov.uk/uksi/2017/57/article/14/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/a)
+
+[^M_F_79008c48-0ca1-4164-b5da-c949e1ee71db]: Textual amendment: Words in art. 2(1) inserted (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2014/1923/article/6/2/a)
+
+[^c21828031]: Marginal citation: The definition was inserted by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [Schedule 7](https://www.legislation.gov.uk/ukpga/1999/30/schedule/7), [paragraphs 1](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/1), [2(1)](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/2/1) and 4(b). Section 1(4) is repealed by Part 1 of Schedule 14 to the Act and the repeal (which forms part of the “amending provisions”) is commenced for certain cases by article 4 of the No. 9 Order and article 4 of this Order.
+
+[^c21828041]: Marginal citation: [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983) (C. 41).
+
+[^M_F_0bca928c-0a2f-4d79-ae96-b054685272d3]: Textual amendment: Words in art. 2(1) inserted (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2014/1923/article/6/2/b)
+
+[^M_F_084949d8-d9ae-4192-ced9-16d66bb5f704]: Textual amendment: Words in art. 2(1) omitted (26.1.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), arts. 3(1), 7(a)(ii)
+
+[^M_F_9d9b7088-1a3a-4602-b95f-fefc6ac38c28]: Textual amendment: Words in art. 2 omitted (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), arts. 3, 18(1)(2)(a)(iii)
+
+[^M_F_c981c013-4495-4058-b3d7-7f4892c11751]: Textual amendment: Words in art. 2 inserted (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), arts. 3, 18(1)(2)(a)(iv)
+
+[^M_F_b2b4529f-20cc-4aee-e901-2ed707a57b2f]: Textual amendment: Art. 2(2) substituted (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), arts. 3, 18(1)(2)(b)
+
+[^M_F_c05643a1-9f06-4a99-e063-e98a29c3ca5b]: Textual amendment: Art. 2(3) omitted (26.1.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), arts. 3(1), 7(b)
+
+[^M_F_af7ff9ed-8325-45e4-9e7c-b752da91237d]: Textual amendment: Art. 3(2) substituted (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1452/article/3), [18(1)](https://www.legislation.gov.uk/uksi/2014/1452/article/18/1)[(3)(a)](https://www.legislation.gov.uk/uksi/2014/1452/article/18/3/a)
+
+[^key-3da93810360e234507fec16cc9a1cbf5]: Modification: Art. 3(2)(a) modified (26.4.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 13](https://www.legislation.gov.uk/uksi/2017/57/article/13), [Sch.](https://www.legislation.gov.uk/uksi/2017/57/schedule)
+
+[^key-41a0b209538b77b11c17a3eac276ca36]: Modification: Art. 3(2)(a) modified (18.4.2018) by [The Welfare Reform Act 2012 (Commencement No. 9, 21 and 23 (Amendment), Commencement No. 11, 13, 17, 19, 22, 23 and 24 (Modification), Transitional and Transitory Provisions) Order 2018 (S.I. 2018/138)](https://www.legislation.gov.uk/uksi/2018/138), [art. 4](https://www.legislation.gov.uk/uksi/2018/138/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/138/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2018/138/article/5))
+
+[^M_F_3a172990-0e4f-4b94-a879-02f68ce4e26e]: Textual amendment: Words in art. 3(2)(a) omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 5](https://www.legislation.gov.uk/uksi/2017/57/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2017/57/schedule)
+
+[^M_F_ad752566-ba45-49db-9dcd-65b1ba5b4db3]: Textual amendment: Art. 3(2)(b) substituted (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2014/1923/article/6/3/a)
+
+[^M_F_cf5f52fd-a2e3-423c-c121-df7fee5a7197]: Textual amendment: Words in art. 3(2)(b)(i) omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 14(1)](https://www.legislation.gov.uk/uksi/2017/57/article/14/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/b/i)[(c)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/c)
+
+[^M_F_4e4f6786-f33c-4eed-8105-957d0c2ccd01]: Textual amendment: Words in art. 3(2)(b)(ii) omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 14(1)](https://www.legislation.gov.uk/uksi/2017/57/article/14/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/b/ii)[(c)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/c)
+
+[^M_F_e5890a36-745d-4e6d-bc3c-a80ebf15d613]: Textual amendment: Words in art. 3(2)(b)(iii) omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 14(1)](https://www.legislation.gov.uk/uksi/2017/57/article/14/1)[(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/b/iii)[(c)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/c)
+
+[^key-fd3d94bb024b6f0790c7eb5885ca88d5]: Textual amendment: Words in art. 3(3) omitted (30.6.2014) by virtue of [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1661)](https://www.legislation.gov.uk/uksi/2014/1661), [art. 5](https://www.legislation.gov.uk/uksi/2014/1661/article/5), [(b)](https://www.legislation.gov.uk/uksi/2014/1661/article/5/b)
+
+[^M_F_aad41433-f0c2-4689-d2f0-00af0acceef2]: Textual amendment: Art. 3(4) omitted (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1452/article/3), [18(1)](https://www.legislation.gov.uk/uksi/2014/1452/article/18/1)[(3)(b)](https://www.legislation.gov.uk/uksi/2014/1452/article/18/3/b)
+
+[^M_F_beb5b608-a20b-4c6f-de6d-4ac90afd4991]: Textual amendment: Art. 3(6) substituted (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [6(3)(b)](https://www.legislation.gov.uk/uksi/2014/1923/article/6/3/b)
+
+[^M_F_541d8020-2ba7-45dc-c28d-0d3ab3274da3]: Textual amendment: Words in art. 3(6) omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 14(1)](https://www.legislation.gov.uk/uksi/2017/57/article/14/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/c)[(c)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/c)
+
+[^key-946f4c15e727e5596694e44db70b3ed8]: Modification: Art. 4 modified (22.7.2020 (as amended 4.8.20)) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/2)); (S.I. 2020/826) [2(2)](https://www.legislation.gov.uk/uksi/2020/826/regulation/2/2)
+
+[^M_F_e0dd71f1-01d6-449a-8362-b49d87ccdf53]: Textual amendment: Art. 4 substituted (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1452/article/3), [18(1)](https://www.legislation.gov.uk/uksi/2014/1452/article/18/1)[(4)](https://www.legislation.gov.uk/uksi/2014/1452/article/18/4)
+
+[^key-b5136bbd5daffa91ed011ad6f3bb13a3]: Modification: Art. 4(2)(a) modified (26.4.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 13](https://www.legislation.gov.uk/uksi/2017/57/article/13), [Sch.](https://www.legislation.gov.uk/uksi/2017/57/schedule)
+
+[^key-fec7ea71fc2b6d46aa2fcc74e77fe4c6]: Modification: Art. 4(2)(a) modified (18.4.2018) by [The Welfare Reform Act 2012 (Commencement No. 9, 21 and 23 (Amendment), Commencement No. 11, 13, 17, 19, 22, 23 and 24 (Modification), Transitional and Transitory Provisions) Order 2018 (S.I. 2018/138)](https://www.legislation.gov.uk/uksi/2018/138), [art. 4](https://www.legislation.gov.uk/uksi/2018/138/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/138/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2018/138/article/5))
+
+[^M_F_bd55660c-dc9a-4685-bf05-a9e11f35abf9]: Textual amendment: Words in art. 4(2)(a) inserted (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [6(4)(a)](https://www.legislation.gov.uk/uksi/2014/1923/article/6/4/a)
+
+[^M_F_188f02a6-068d-4920-84fc-60673df3a89e]: Textual amendment: Art. 4(2)(a)(ii) and word omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 5](https://www.legislation.gov.uk/uksi/2017/57/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2017/57/schedule)
+
+[^M_F_1a447e6e-18c0-4f34-c861-bc3b1404c358]: Textual amendment: Art. 4(2)(b)(c) substituted (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [6(4)(b)](https://www.legislation.gov.uk/uksi/2014/1923/article/6/4/b)
+
+[^M_F_4ae5773c-5fea-4816-818f-8a0d7f53a842]: Textual amendment: Words in art. 4(2)(b)(i) omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 14(1)](https://www.legislation.gov.uk/uksi/2017/57/article/14/1)[(2)(d)(i)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/d/i)
+
+[^M_F_61e295c7-299d-437c-c801-fbc41c52c811]: Textual amendment: Words in art. 4(2)(b)(ii) omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 14(1)](https://www.legislation.gov.uk/uksi/2017/57/article/14/1)[(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/d/ii)
+
+[^M_F_cf3393db-aa2a-4124-c5b9-513f0093c43f]: Textual amendment: Words in art. 4(2)(b)(iii) omitted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 14(1)](https://www.legislation.gov.uk/uksi/2017/57/article/14/1)[(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/d/iii)
+
+[^M_F_f0e71d1f-5ded-4bff-93d7-dfb8db5cad2a]: Textual amendment: Words in art. 4(5)(a) substituted (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [6(4)(a)](https://www.legislation.gov.uk/uksi/2014/1923/article/6/4/a)
+
+[^M_F_1b6bc5d0-c224-4c8b-a64a-c8661aceae91]: Textual amendment: Words in art. 4(6) substituted (26.1.2015 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015 (S.I. 2015/32)](https://www.legislation.gov.uk/uksi/2015/32), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2015/32/article/3/1), [9](https://www.legislation.gov.uk/uksi/2015/32/article/9)
+
+[^M_F_784521e2-593d-4d47-fde0-7e88cd8a8f7c]: Textual amendment: Art. 4(7) substituted (22.2.2017) by [The Welfare Reform Act 2012 (Commencement No. 11, 13, 16, 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2017 (S.I. 2017/57)](https://www.legislation.gov.uk/uksi/2017/57), [art. 14(1)](https://www.legislation.gov.uk/uksi/2017/57/article/14/1)[(e)](https://www.legislation.gov.uk/uksi/2017/57/article/14/2/e)
+
+[^key-b96fdd8cd7195a2417f4df634324945c]: Modification: Art. 5 modified (29.10.2013) by [The Welfare Reform Act 2012 (Commencement No. 13 and Transitional and Transitory Provisions) Order 2013 (S.I. 2013/2657)](https://www.legislation.gov.uk/uksi/2013/2657), [art. 5(b)](https://www.legislation.gov.uk/uksi/2013/2657/article/5/b)
+
+[^key-26eca624472d3980cb89174abc957505]: Modification: Art. 5 amended (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [art. 17](https://www.legislation.gov.uk/uksi/2014/1452/article/17)
+
+[^M_F_f3404aaf-3cca-40b4-f25c-71b3d8411def]: Textual amendment: Word in art. 5 substituted (16.6.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14 and 16 and Transitional and Transitory Provisions (Amendment)) Order 2014 (S.I. 2014/1452)](https://www.legislation.gov.uk/uksi/2014/1452), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1452/article/3), [18(1)](https://www.legislation.gov.uk/uksi/2014/1452/article/18/1)[(5)](https://www.legislation.gov.uk/uksi/2014/1452/article/18/5)
+
+[^M_F_e6316abf-5621-4058-9cd7-20ec76725173]: Textual amendment: Words in art. 5 substituted (28.7.2014 for specified purposes) by [The Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16 and 17 and Transitional and Transitory Provisions (Amendment) (No. 2)) Order 2014 (S.I. 2014/1923)](https://www.legislation.gov.uk/uksi/2014/1923), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1923/article/3), [6(5)](https://www.legislation.gov.uk/uksi/2014/1923/article/6/5)
+
+[^c21828061]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^c21828071]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^c21828081]: Marginal citation: [2009 c. 24](https://www.legislation.gov.uk/ukpga/2009/24).
+
+[^c21828091]: Marginal citation: [S.I. 2010/1907](https://www.legislation.gov.uk/uksi/2010/1907). Paragraph 2A of Schedule 2 was inserted by [S.I. 2012/913](https://www.legislation.gov.uk/uksi/2012/913).
+
+[^c21828101]: Marginal citation: [Section 1A](https://www.legislation.gov.uk/uksi/2013/1511/section/1A) of the [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5) was inserted by section 51(1) of the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) (“**the Act**”) and amended by paragraph 26 of Schedule 3 to the Act and Part 1 of Schedule 14 to the Act. These amendments (which form part of the “amending provisions”) are commenced for certain cases by article 4 of the No. 9 Order and article 4 of this Order.
+
+[^c21828111]: Marginal citation: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794). Regulation 144(2) was amended by 2008/2848, 2010/1907 and 2012/913.
+
+[^c21828121]: Marginal citation: [Regulation 153](https://www.legislation.gov.uk/uksi/2013/1511/regulation/153) was amended by [S.I. 2009/2655](https://www.legislation.gov.uk/uksi/2009/2655).
+
+[^c21828131]: Marginal citation: [Regulation 157](https://www.legislation.gov.uk/uksi/2013/1511/regulation/157) was amended by [S.I. 2010/1160](https://www.legislation.gov.uk/uksi/2010/1160).
+
+[^c21828141]: Marginal citation: [Section 1B](https://www.legislation.gov.uk/uksi/2013/1511/section/1B) was inserted by section 52(1) of the Act and amended by paragraph 26 of Schedule 3, and Part 1 of Schedule 14, to the Act. These amendments (which form part of the “amending provisions”) are commenced for certain cases by article 4 of the No. 9 Order and article 4 of this Order.
+
+[^c21828151]: Marginal citation: [Section 1A](https://www.legislation.gov.uk/uksi/2013/1511/section/1A) is substituted for the purposes of the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit)(Existing Awards)(No.2) Regulations 2010 ([S.I. 2010/1907](https://www.legislation.gov.uk/uksi/2010/1907)) (referred to in the No. 9 Order as “**the 2010 Transitional Regulations**”) by paragraph 2A of Schedule 2 to those Regulations and further modified by article 7 of this Order.
+
+[^c21828161]: Marginal citation: [Section 1A](https://www.legislation.gov.uk/uksi/2013/1511/section/1A) is substituted for the purposes of the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit)(Existing Awards)(No.2) Regulations 2010 ([S.I. 2010/1907](https://www.legislation.gov.uk/uksi/2010/1907)) (referred to in the No. 9 Order as “**the 2010 Transitional Regulations**”) by paragraph 2A of Schedule 2 to those Regulations.
+
+[^c21828171]: Marginal citation: [Regulation 14A](https://www.legislation.gov.uk/uksi/2013/1511/regulation/14A) was inserted by [S.I. 2012/853](https://www.legislation.gov.uk/uksi/2012/853) and amended by [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
+
+[^c21828181]: Marginal citation: [Regulation 46](https://www.legislation.gov.uk/uksi/2013/1511/regulation/46) was amended by [S.I. 1998/71](https://www.legislation.gov.uk/uksi/1998/71), 2000/1978, 2003/511 and 2008/1554.
+
+[^c21828191]: Marginal citation: [Regulation 47](https://www.legislation.gov.uk/uksi/2013/1511/regulation/47) was amended by [S.I. 1996/1517](https://www.legislation.gov.uk/uksi/1996/1517), 1996/2538, 1999/714, 1999/2226, 2001/518, 2001/1711, 2010/424, 2010/1160 and 2012/2568.
+
+[^c21828201]: Marginal citation: [Regulation 55](https://www.legislation.gov.uk/uksi/2013/1511/regulation/55) was amended by [S.I. 1996/1517](https://www.legislation.gov.uk/uksi/1996/1517), 1999/2860, 2004/1869, 2008/1554, 2010/1907, 2011/674 and 2012/2568.
+
+[^c21828211]: Marginal citation: [Section 5](https://www.legislation.gov.uk/uksi/2013/1511/section/5) was amended by Part 1 of Schedule 14 to the Act; and the amendment (which forms part of the “amending provisions”) is commenced for certain cases by article 4 of the No. 9 Order and article 4 of this Order.
+
+[^c21828221]: Marginal citation: Paragraph (6AA) was inserted by [S.I. 2004/1869](https://www.legislation.gov.uk/uksi/2004/1869) and amended by [S.I. 2008/2767](https://www.legislation.gov.uk/uksi/2008/2767). Paragraph (6D) was inserted by 2012/2575.
+
+[^c21828231]: Marginal citation: [Section 5](https://www.legislation.gov.uk/uksi/2013/1511/section/5) was amended by Part 1 of Schedule 14 to the Act; and the amendment (which forms part of the “amending provisions”) is commenced for certain cases by article 4 of the No. 9 Order and article 4 of this Order.
+
+[^c21828241]: Marginal citation: [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) was amended by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440) and 2530.

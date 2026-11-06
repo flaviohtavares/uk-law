@@ -1,0 +1,58 @@
+---
+title: Corporation Tax Act 2009, section 1244A
+act: Corporation Tax Act 2009
+section: 1244A
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/1244A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 1244A
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 1244A. Contributions to flood and coastal erosion risk management projects[^key-dfd116eda727b58469b3ab80a7e74867]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if a company with investment business (“**the contributor**”) incurs expenses in making a qualifying contribution to a qualifying flood or coastal erosion risk management project.
+
+(2) The expenses are treated for the purposes of Chapter 2 as expenses of management.
+
+(3) But if, in connection with the making of the contribution, the contributor or a connected person—
+
+- (a) receives a disqualifying benefit, or
+- (b) is entitled to receive such a benefit,
+
+no deduction is allowed under section 1219.
+
+(4) For the purposes of subsection (3) it does not matter whether a person receives, or is entitled to receive, the benefit—
+
+- (a) from the carrying out of the project, or
+- (b) from any person.
+
+(5) In this section “**disqualifying benefit**” means a benefit consisting of money or other property, but it does not include—
+
+- (a) a refund of the contribution, if the contribution is a sum of money;
+- (b) compensation for the contribution, if the contribution is the provision of services;
+- (c) a structure that—
+  - (i) is or is to be used for the purposes of flood or coastal erosion risk management, and
+  - (ii) is put in place in carrying out the project;
+- (d) an addition to a structure where—
+  - (i) the structure is or is to be used for the purposes of flood or coastal erosion risk management, and
+  - (ii) the addition is made in carrying out the project;
+- (e) land, plant or machinery that is or is to be used, in the realization of the project, for the purposes of flood or coastal erosion risk management;
+- (f) a right over land that is or is to be used, in the realization of the project, for the purposes of flood or coastal erosion risk management.
+
+(6) In subsection (5) “**structure**” includes road, path, pipe, earthwork, plant and machinery.
+
+(7) Section 86B applies for the purposes of this section as it applies for the purposes of section 86A.
+
+## Annotations
+
+[^key-dfd116eda727b58469b3ab80a7e74867]: Textual amendment: S. 1244A and cross-heading inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/6)

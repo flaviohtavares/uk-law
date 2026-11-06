@@ -1,0 +1,2037 @@
+---
+title: Pension Schemes Act 2017
+id: ukpga/2017/17
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2017-04-27'
+text_date: '2026-07-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2017/17
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2017/17/pdfs/ukpgaen_20170017_en.pdf
+- http://www.legislation.gov.uk/ukpga/2017/17/pdfs/ukpga_20170017_en.pdf
+- http://www.legislation.gov.uk/ukpga/2017/17/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pension Schemes Act 2017
+
+> Text as at 2026-07-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Pension Schemes Act 2017
+
+2017 c. 17
+
+An Act to make provision about pension schemes.
+
+\[27th April 2017\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b34aedb0e4deb6cc8e057632b9b4c895]
+
+## Part 1 — Master Trusts[^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-fa7ba3c99fc0daad5e02cb70c986ae75]
+
+### Definition of a Master Trust scheme
+
+#### 1. Master Trust schemes: definition[^c22725601][^key-96ba39d692096ecf579b6908b87d9547][^key-92da74cdf3aa4af01b8263f888a29d81][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) In this Act, “**Master Trust scheme**” means an occupational pension scheme which—
+
+- (a) provides money purchase benefits (whether alone or in conjunction with other benefits),
+- (b) is used, or intended to be used, by two or more employers,
+- (c) is not used, or intended to be used, only by employers which are connected with each other, [^key-6d85973e08077cf0fec4fca7e046c239]...
+- (d) is not a relevant public service pension scheme , and[^key-cad57ab3aee94820a3654619d232a4b3]
+- (e)[^key-163313faea8f3cd8036b4fe2089788c5] is not a collective money purchase scheme.
+
+(1A)[^key-73a9ae92d447669351de569fdbd1254e] Where a Master Trust scheme has a section which is a collective money purchase scheme by virtue of section 1(2)(b) of the Pension Schemes Act 2021, references in the following provisions of this Act to a Master Trust scheme do not include any such section, except as provided in section 39(4A) to (4C).
+
+(2)[^key-7f164a31b84ac181d313594056e84a27] Where a Master Trust scheme provides money purchase benefits in conjunction with other benefits, references in the following provisions of this Act to a Master Trust scheme are to a Master Trust scheme only to the extent that it provides money purchase benefits, except as provided in section 39(2) to (4).
+
+(3) For the purposes of this section, an employer (“A”) is connected with another employer (“B”)—
+
+- (a) where A is, or has been, a group undertaking in relation to B within the meaning of section 1161(5) of the Companies Act 2006, or
+- (b) in circumstances specified in regulations made by the Secretary of State.
+
+(4) In this section—
+
+- “**employer**”, in relation to an occupational pension scheme, means a person who employs or engages persons who are, or are entitled to become, members of the scheme;
+- “**money purchase benefits**” has the same meaning as in the Pension Schemes Act 1993 (see section 181 of that Act);
+- “**occupational pension scheme**” has the same meaning as in the Pension Schemes Act 1993 (see section 1(1) of that Act);
+- “**relevant public service pension scheme**” has the meaning given in section 2.
+
+(5) Regulations under this section are subject to affirmative resolution procedure.
+
+#### 2. Relevant public service pension schemes[^c22725611][^key-0ee0cab79a429b20ef62a53758235966][^key-d78db49681f5620ef2055793413c0d47][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) For the purposes of section 1, a pension scheme is a relevant public service pension scheme if it falls within subsection (2) or (3).
+
+(2) A scheme falls within this subsection if it is a public service pension scheme within the meaning of the Pension Schemes Act 1993 (see section 1(1) of that Act).
+
+(3) A scheme falls within this subsection if it is—
+
+- (a) a scheme under section 1 of the Public Service Pensions Act 2013 (new public service schemes),
+- (b) a new public body pension scheme (as defined in section 30 of that Act), or
+- (c) a statutory pension scheme which is connected with a scheme referred to in paragraph (a) or (b) (and for this purpose “statutory pension scheme” and “connected” have the meanings given in that Act; see sections 37 and 4(6) of that Act).
+
+(4) But a scheme does not fall within subsection (3) if it is a scheme specified in an order made under section 318(6)(b) of the Pensions Act 2004 (schemes excluded from definition of “public service pension scheme”).
+
+### Authorisation: applications etc
+
+#### 3. Prohibition on operating a scheme unless authorised[^key-d34e9f0897f1bb7edbf289eda9ab7cb3][^key-bed9e804d92fab32585ab678b73f5631][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) A person may not operate a Master Trust scheme unless the scheme is authorised.
+
+(2) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who breaches subsection (1).
+
+(3) If the Pensions Regulator becomes aware that a Master Trust scheme is operating without authorisation, it must notify the trustees of the scheme that the scheme is not authorised.
+
+(4) The notification must include an explanation that it is a triggering event for the purposes of sections 20 to 33 and of the trustees' duties under those sections.
+
+(5) For the purposes of this Part, a person “operates” a Master Trust scheme if the person—
+
+- (a) accepts money from members or employers (or prospective members or employers), in respect of fees, charges, contributions or otherwise, in relation to the scheme, or
+- (b) enters into an agreement with an employer that relates to the provision of pension savings for employees or other workers,
+
+and references to a scheme that is “operating” or “in operation” are to be construed accordingly.
+
+#### 4. Application for authorisation[^key-61c4e71d5ebd50569ff4ddfa9ccfcd83][^key-c36ae4ffde30205bfeb9657c7250d01d][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) The trustees of a Master Trust scheme may apply to the Pensions Regulator for authorisation.
+
+(2) The application must include the following—
+
+- (a) the scheme's latest accounts;
+- (b) the latest accounts of each scheme funder;
+- (c) the scheme's business plan (see section 9);
+- (d) the scheme's continuity strategy (see section 12).
+
+(3) In considering an application, the Pensions Regulator may take into account any matters it considers appropriate, including—
+
+- (a) additional information provided by the applicant, and
+- (b) subsequent changes to the application or to any information provided by the applicant.
+
+(4) The application must be made in the manner and form specified by the Pensions Regulator.
+
+(5) The Secretary of State may make regulations setting out—
+
+- (a) other information to be included in an application, and
+- (b) the application fee payable to the Pensions Regulator.
+
+(6) Regulations under this section are subject to negative resolution procedure.
+
+#### 5. Decision on application[^key-2daf132cfa522cd3d0fc89810d0499d5][^key-7c25a883a4cf73ede9d082cd04f10b0a][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) Where an application is made for authorisation of a Master Trust scheme under section 4, the Pensions Regulator must decide whether it is satisfied that the scheme meets the authorisation criteria.
+
+(2) The Pensions Regulator must make that decision within the period of six months beginning with the day on which it received the application.
+
+(3) The authorisation criteria are—
+
+- (a) that the persons involved in the scheme are fit and proper persons (see section 7),
+- (b) that the scheme is financially sustainable (see section 8),
+- (c) that each scheme funder meets the requirements set out in section 10,
+- (d) that the systems and processes used in running the scheme are sufficient to ensure that it is run effectively (see section 11), [^key-42b277fa4f67f7a3aa5689499ceadf81]...
+- (e) that the scheme has an adequate continuity strategy (see section 12).
+- (f)[^key-29cfee2ea393045d3eec7ebfc14c2d52] that it has sufficient investment capability (see section 12A), and
+- (g) (in the case of an applicant that has its main administration in the United Kingdom) that the scheme meets Condition 1 of section 20(1A) (scale requirement) of the Pensions Act 2008.
+
+(4) If the Pensions Regulator is satisfied that the Master Trust scheme meets the authorisation criteria, it must—
+
+- (a) grant the authorisation,
+- (b) notify the applicant of its decision, and
+- (c) add the scheme to its list of authorised Master Trust schemes (see section 13).
+
+(5) If the Pensions Regulator is not satisfied that the Master Trust scheme meets the authorisation criteria, it must—
+
+- (a) refuse to grant the authorisation, and
+- (b) notify the applicant of its decision.
+
+(6) A notification under subsection (5) must also include—
+
+- (a) the reasons for the decision, and
+- (b) details of the right of referral to the First-tier Tribunal or Upper Tribunal (see section 6).
+
+#### 6. Referral to Tribunal of refusal to grant authorisation[^key-ac59e8c9b4ad2703a16201c9e12210ff][^key-f47db79923dfc1dcf922660c1a0265b1][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) If the Pensions Regulator refuses to grant authorisation to a Master Trust scheme, the decision may be referred to the Tribunal by—
+
+- (a) the trustees, or
+- (b) any other person who appears to the Tribunal to be directly affected by the decision.
+
+(2) In this section “**the Tribunal**”, in relation to a referral under subsection (1), means—
+
+- (a) the First-tier Tribunal, in any case where it is determined by or under Tribunal Procedure Rules that the First-tier Tribunal is to hear the reference;
+- (b) the Upper Tribunal, in any other case.
+
+### Authorisation criteria
+
+#### 7. Fit and proper persons requirement[^key-4c85e66d0bb814f11dc2c03f92887f80][^key-4f7ea2f769c2843916b9ff2a4d11c350][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the persons involved in a Master Trust scheme are fit and proper persons (see section 5(3)(a)).
+
+(2) The Pensions Regulator must assess whether each of the following is a fit and proper person to act in relation to the scheme in the capacity mentioned—
+
+- (a) a person who establishes the scheme;
+- (b) a trustee;
+- (c) a person who (alone or with others) has power to appoint or remove a trustee;
+- (d) a person who (alone or with others) has power to vary the terms of the trust under which the scheme is established (where the scheme is established under a trust);
+- (e) a person who (alone or with others) has power to vary the scheme (where the scheme is not established under a trust);
+- (f) a scheme funder;
+- (g) a scheme strategist;
+- (h) a person acting in a capacity specified in regulations made by the Secretary of State.
+
+(3) The Pensions Regulator may also assess whether each of the following is a fit and proper person to act in relation to the scheme in the capacity mentioned—
+
+- (a) a person who promotes or markets the scheme;
+- (b) a person acting in a capacity specified in regulations made by the Secretary of State.
+
+(4) In assessing whether a person is a fit and proper person to act in a particular capacity, the Pensions Regulator—
+
+- (a) must take into account any matters specified in regulations made by the Secretary of State, and
+- (b) may take into account such other matters as it considers appropriate (including, in particular, matters relating to a person connected with that person).
+
+(5) For the purposes of this section a person (“A”) is connected with another person (“B”) if—
+
+- (a) A is an associate of B;
+- (b) where B is a company, A is a director or shadow director of B or an associate of a director or shadow director of B;
+- (c) A is a trustee of an occupational pension scheme established under a trust and—
+  - (i) the beneficiaries of the trust include B or an associate of B, or
+  - (ii) the terms of the trust confer a power that may be exercised for the benefit of B or an associate of B.
+
+(6) In this section—
+
+- “**associate**” has the meaning given by section 435 of the Insolvency Act 1986;
+- “director” and “shadow director” have the meanings given by section 251 of that Act.
+
+(7) The first regulations that are made under subsection (4) are subject to affirmative resolution procedure.
+
+(8) Any subsequent regulations under subsection (4), and regulations under subsections (2) and (3), are subject to negative resolution procedure.
+
+#### 8. Financial sustainability requirement[^key-1e4445d8d3607d2cedf899cfe40771b5][^key-f03258f0f2c41915539323cba98606f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a Master Trust scheme is financially sustainable (see section 5(3)(b)).
+
+(2) In order to be satisfied that a Master Trust scheme is financially sustainable, the Regulator must be satisfied—
+
+- (a) that the business strategy relating to the scheme is sound, and
+- (b) that the scheme has sufficient financial resources to meet the costs mentioned in subsection (3).
+
+(3) The costs are—
+
+- (a) the costs of setting up and running the scheme, and
+- (b) in the event of a triggering event occurring—
+  - (i) the costs of complying with the duties in sections 20 to 33, and
+  - (ii) the costs of continuing to run the scheme for such period (which must be at least six months and no more than two years) as the Regulator thinks appropriate for the scheme.
+
+(4) In deciding whether it is satisfied about the matters mentioned in subsection (2)(a) and (b), the Pensions Regulator must take into account any matters specified in regulations made by the Secretary of State.
+
+(5) The regulations may include provision specifying—
+
+- (a) the information that the Regulator must take into account, such as—
+  - (i) the scheme's business plan and supporting documents and information (see section 9);
+  - (ii) the scheme's accounts and the accounts of a scheme funder;
+- (b) requirements to be met by the scheme or by a scheme funder relating to its financing, such as requirements relating to assets, capital or liquidity.
+
+(6) The first regulations that are made under this section are subject to affirmative resolution procedure.
+
+(7) Any subsequent regulations under this section are subject to negative resolution procedure.
+
+#### 9. Financial sustainability requirement: business plan[^key-c410533e54f6b83ea8484d1536d87446][^key-c63a5bf1601c269e0fc36e5fdc14a474][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) A scheme strategist of a Master Trust scheme must prepare a business plan for the scheme.
+
+(2) The Secretary of State may make regulations setting out—
+
+- (a) information that must be included in a business plan, and
+- (b) any other requirements with which a business plan must comply.
+
+(3) The scheme strategist must review the business plan at least once a year, and revise it if appropriate.
+
+(4) The scheme strategist must revise the business plan at any time if there is any significant change to the information included in it.
+
+(5) The business plan, and any revisions to it, must be approved by each scheme funder, any other scheme strategist and the trustees.
+
+(6) The scheme strategist or the trustees must provide the Pensions Regulator with the most recent business plan, and any supporting information or documents required by the Regulator—
+
+- (a) on application for authorisation (see section 4);
+- (b) within three months of the plan being revised;
+- (c) at any other time, on request from the Regulator.
+
+(7) The first regulations that are made under this section are subject to affirmative resolution procedure.
+
+(8) Any subsequent regulations under this section are subject to negative resolution procedure.
+
+#### 10. Scheme funder requirements[^key-084a66f5b953b5798660121e18caf3f6][^key-c0804ef26ea442cb7aab0821931bdb49][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) This section makes provision about the requirements that a scheme funder must meet in order for the scheme to meet the authorisation criterion mentioned in section 5(3)(c).
+
+(2) The first requirement is that the scheme funder is a body corporate or a partnership that is a legal person under the law by which it is governed.
+
+(3)[^key-bae2442f0962ec3bc5d657a882bbee89] The second requirement is that the scheme funder only carries out activities that relate directly to Master Trust schemes in relation to which it is a scheme funder or prospective scheme funder.
+
+(4) The Secretary of State may make regulations providing for exceptions from the second requirement.
+
+(5) The regulations may include provision excepting a scheme funder from the second requirement—
+
+- (a) where the scheme funder meets additional requirements specified in the regulations (such as requirements relating to a scheme funder's financial position, its financial arrangements with the Master Trust scheme in question or its business activities);
+- (b) where the scheme funder applies to the Regulator and provides the Regulator with information specified in the regulations, or such other information as the Regulator may require in order to satisfy the Regulator that the Master Trust scheme is financially sustainable.
+
+(6) The Secretary of State may make regulations setting out requirements relating to a scheme funder's accounts.
+
+(7) The regulations may include provision—
+
+- (a) setting out requirements relating to the audit of accounts;
+- (b) applying some or all of the provisions of Parts 15 and 16 of the Companies Act 2006 (accounts and reports; audit), with or without modifications.
+
+(8) The first regulations that are made under subsection (4) are subject to affirmative resolution procedure.
+
+(9) Any subsequent regulations under subsection (4), and regulations under subsection (6), are subject to negative resolution procedure.
+
+#### 11. Systems and processes requirements[^key-280f5aba75b7eea6ea7e2528ffe32689][^key-c7b9d4381a636a4e57fce647909a9436][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the systems and processes used in running the scheme are sufficient to ensure that it is run effectively (see section 5(3)(d)).
+
+(2) In deciding whether it is satisfied that the systems and processes used in running the scheme are sufficient for those purposes, the Pensions Regulator must take into account any matters specified in regulations made by the Secretary of State.
+
+(3) Regulations about the systems used in running a scheme may include provision about—
+
+- (a) the features and functionality required of the IT systems used in running the scheme;
+- (b) standards that those IT systems must meet (for example, in relation to quality and security of data);
+- (c) the maintenance of those IT systems.
+
+(4) Regulations about the processes used in running a scheme may include provision about—
+
+- (a) records management;
+- (b) risk management;
+- (c) resource planning;
+- (d) processes relating to transactions and investment decisions;
+- (e) processes relating to the appointment and removal of trustees, and their professional development;
+- (f) processes relating to the roles and responsibilities of a scheme strategist and a scheme funder;
+- (g) processes relating to the appointment, removal, roles and responsibilities of—
+  - (i) persons (other than those mentioned in paragraphs (e) and (f)) involved in running the scheme, and
+  - (ii) persons providing services in relation to the scheme.
+
+(5) The first regulations that are made under this section are subject to affirmative resolution procedure.
+
+(6) Any subsequent regulations under this section are subject to negative resolution procedure.
+
+#### 12. Continuity strategy requirement[^key-3656710fa67b3ff42f54492430e8e6b0][^key-e51ea6ccf59da41a2a11929c234c73cf][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a Master Trust scheme has an adequate continuity strategy (see section 5(3)(e)).
+
+(2) A continuity strategy is a document addressing how the interests of members of the scheme are to be protected if a triggering event occurs in relation to the scheme (see section 21).
+
+(3) A continuity strategy must be prepared by a scheme strategist.
+
+(4) A continuity strategy must include a section setting out the levels of administration charges that apply in relation to members of the scheme.
+
+(5) The strategy must set out those levels of charges in the manner specified in regulations made by the Secretary of State.
+
+(6) A continuity strategy must—
+
+- (a) contain such other information as may be specified in regulations made by the Secretary of State, and
+- (b) be prepared in accordance with regulations made by the Secretary of State.
+
+(7) A scheme strategist must keep the continuity strategy under review and revise it if appropriate.
+
+(8) The continuity strategy, and any revisions to it, must be approved by each scheme funder, any other scheme strategist and the trustees.
+
+(9) A scheme strategist or the trustees must provide the continuity strategy to the Pensions Regulator—
+
+- (a) on application for authorisation (see section 4),
+- (b) within three months of the strategy being revised, and
+- (c) at any other time, on request from the Regulator.
+
+(10) The first regulations that are made under this section are subject to affirmative resolution procedure.
+
+(11) Any subsequent regulations under this section are subject to negative resolution procedure.
+
+#### 12A. Investment capability[^key-f8424e10e968d021c58d4f0e082a830a]
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a Master Trust scheme (that has its main administration in the United Kingdom) has sufficient investment capability (see section 5(3)(f)).
+
+(2) In order to be satisfied that the Master Trust scheme has sufficient investment capability the Pensions Regulator must be satisfied—
+
+- (a) that appropriate systems are in place for managing the investment strategy and monitoring outcomes,
+- (b) that the scheme has appropriate systems for delivering effective governance, and
+- (c) that there are appropriate strategies for recruiting and retaining expert staff.
+
+(3) In deciding whether it is satisfied about the matters mentioned in subsection (1), the Pensions Regulator must take account of any factors specified in subsection (2).
+
+(4) The Secretary of State may by regulations—
+
+- (a) make provision about the meaning of terms used in subsection (2);
+- (b) specify further factors that the Pensions Regulator must take into account in deciding whether it is satisfied about the matters mentioned in subsection (1).
+
+(5) The first regulations that are made under this section are subject to affirmative resolution procedure.
+
+(6) Any other regulations under this section are subject to negative resolution procedure.
+
+#### 12B. Scale requirement
+
+(1) The Secretary of State may by regulations make provision about how the Pensions Regulator is to decide whether it is satisfied that a Master Trust scheme that has its main administration in the United Kingdom meets Condition 1 in section 20(1A) (scale requirement) of the Pensions Act 2008.
+
+(2) The regulations may, among other things, specify matters which the Pensions Regulator must take into account in making its assessment.
+
+(3) The first regulations under this section are subject to affirmative resolution procedure.
+
+(4) Any subsequent regulations under this section are subject to negative resolution procedure.
+
+### Ongoing supervision of Master Trust schemes
+
+#### 13. List of authorised schemes[^key-d49b4cb1366f6ca57ea0e3ca37525c70][^key-eed9bbd4eb7b7dabff1a58e5f5705f70][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) The Pensions Regulator must maintain and publish a list of authorised Master Trust schemes.
+
+(2) The list—
+
+- (a) must identify each authorised Master Trust scheme by name, and
+- (b) may include any other information that the Pensions Regulator considers appropriate.
+
+#### 14. Requirement to submit annual accounts[^key-b1966a2721e84cdb677f46a2c4e44451][^key-a3794a5df8822e6e2561fbf31290fdbb][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) The trustees of an authorised Master Trust scheme must send the scheme's accounts to the Pensions Regulator.
+
+(2) The accounts must be sent to the Regulator no later than two months after they are obtained by the trustees.
+
+(3) A scheme funder of a Master Trust scheme must send its accounts to the Pensions Regulator.
+
+(4) The scheme funder's accounts must be sent to the Regulator—
+
+- (a) no later than nine months after the end of the financial year to which they relate, or
+- (b) within such other period as may be specified in regulations made by the Secretary of State.
+
+(5) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(6) Regulations under this section are subject to negative resolution procedure.
+
+#### 15. Requirement to submit supervisory return[^key-be21fe54e22958798828662a11c48524][^key-50520f42b3e96b90168b36781382e3f7][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) The Pensions Regulator may by notice in writing require the trustees of an authorised Master Trust scheme to submit a supervisory return.
+
+(2) The Secretary of State may make regulations setting out the information that the Regulator may require in a supervisory return.
+
+(3) The notice must specify—
+
+- (a) the information required to be included in the return,
+- (b) the manner and form in which the return must be submitted, and
+- (c) the time period (of at least 28 days) within which the return must be submitted.
+
+(4) The trustees of an authorised Master Trust scheme may not be required to submit a supervisory return more than once in any 12 month period.
+
+(5) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to submit a supervisory return when required to do so.
+
+(6) Regulations under this section are subject to negative resolution procedure.
+
+#### 16. Duty to notify Regulator of significant events[^key-47cbae70c8f7aa0aed88eebfa96bce23][^key-6ecf17d0046626124466c53f717bb9b3][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) Where a person mentioned in subsection (2) becomes aware of the fact that a significant event has occurred in relation to an authorised Master Trust scheme, the person must give notice of that fact, in writing, to the Pensions Regulator as soon as reasonably practicable.
+
+(2) The persons are—
+
+- (a) a trustee of the scheme;
+- (b) a person who (alone or with others) has power to appoint or remove a trustee;
+- (c) a person who (alone or with others) has power to vary the terms of the trust under which the scheme is established (where the scheme is established under a trust);
+- (d) a person who (alone or with others) has power to vary the scheme (where the scheme is not established under a trust);
+- (e) a scheme funder;
+- (f) a scheme strategist;
+- (g) a person who provides legal, financial or actuarial advice in relation to the scheme;
+- (h) a person who manages the scheme administration services;
+- (i) a person acting in a capacity specified in regulations made by the Secretary of State.
+
+(3) The Secretary of State must make regulations setting out the events that constitute significant events for the purposes of this section.
+
+(4) No duty to which a person is subject is to be regarded as contravened merely because of any information provided to the Pensions Regulator under this section.
+
+(5) A person is not required by this section to disclose anything in respect of which a claim to legal professional privilege (or, in Scotland, to confidentiality of communications) could be maintained in legal proceedings.
+
+(6) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with subsection (1).
+
+(7) The first regulations that are made under subsection (3) are subject to affirmative resolution procedure.
+
+(8) Any subsequent regulations under subsection (3), and regulations under subsection (2), are subject to negative resolution procedure.
+
+#### 17. Fixed penalty notice for failure to comply with request for information etc[^c22725621][^key-ba1cb8d4439772abf9d2f2790de39dcf][^key-fdb4b15b06e7164de9279fb69118a069][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-9d13d40aeabae23a2c37fd4e6c104f11]
+
+(1) The Pensions Regulator may issue a fixed penalty notice to a person if it considers that the person has failed to comply with—[^key-df2f5c205d454282e03f79679625a108]
+
+- (a) a notice issued under section 72 of the Pensions Act 2004 (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part , or[^key-696e84c3034776861fc66d3554395776]
+- (b) a notice issued under section 72A of that Act (interviews), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part
+
+(2) A fixed penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
+
+(3) The penalty—
+
+- (a) is to be determined in accordance with regulations made by the Secretary of State, and
+- (b) must not exceed £50,000.
+
+(4) A fixed penalty notice must—
+
+- (a) state the amount of the penalty;
+- (b) state the date, which must be at least 28 days after the date on which the notice is issued, by which the penalty must be paid;
+- (c) state the period to which the penalty relates;
+- (d) specify the failure to which the penalty relates;
+- (e) notify the person to whom the notice is issued of the review process under section 43 of the Pensions Act 2008 and the right of referral to a tribunal under section 44 of that Act (as applied by subsection (5)).
+
+(5) The following sections of the Pensions Act 2008 apply to a penalty notice under this section as they apply to a penalty notice under section 40 of that Act—
+
+- (a) section 42 (penalty notices: recovery);
+- (b) section 43 (review of penalty notices);
+- (c) section 44 (references to First-tier Tribunal or Upper Tribunal).
+
+(6) Regulations under this section are subject to negative resolution procedure.
+
+#### 18. Escalating penalty notice for failure to comply with request for information etc[^c22725631][^key-3de4f79e7ba8136bf8e739bee5354564][^key-89163b96e5ff750ae149f3bce916d10f][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-9c3ed43a571d60b4f52c7c6c61b5e6f8]
+
+(1) The Pensions Regulator may issue an escalating penalty notice to a person if it considers that the person has failed to comply with—[^key-f7e43cba4fdf2757acaf5e2000978b6a]
+
+- (a) a notice issued under section 72 of the Pensions Act 2004 (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part (a “section 72 notice”) , or[^key-1255d88b3e5f6ccbd848082c4a793a5d]
+- (b) a notice issued under section 72A of that Act (interviews), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part (a “section 72A notice”)
+
+(2) But the Regulator may not issue an escalating penalty notice to a person if—
+
+- (a) the person has exercised the right of referral to a tribunal under section 44 of the Pensions Act 2008 (as applied by section 17(5)) in respect of a fixed penalty notice issued under section 17 in relation to the section 72 notice or the section 72A notice[^key-4feeaff8ced5a57fa8e7f27a0bd0b32a], and
+- (b) the reference has not been determined.
+
+(3) An escalating penalty notice is a notice requiring the person to whom it is issued to pay an escalating penalty if the person fails to comply with a section 72 notice or a section 72A notice[^key-bbdd60b72959bf434793148b0c6deada].
+
+(4) An escalating penalty is a penalty which is calculated by reference to a daily rate.
+
+(5) The daily rate—
+
+- (a) is to be determined in accordance with regulations made by the Secretary of State, and
+- (b) must not exceed £10,000.
+
+(6) An escalating penalty notice must—
+
+- (a) specify the failure to which the penalty relates;
+- (b) state that, if the person fails to comply with the section 72 notice or the section 72A notice[^key-084eb196334224c3739c9f9445718738] before a specified date, the person will be liable to pay an escalating penalty;
+- (c) state the daily rate of the escalating penalty and the way in which the penalty is calculated;
+- (d) state the date from which the escalating penalty will be payable, which must not be earlier than the date specified in the fixed penalty notice under section 17(4)(b);
+- (e) state that the escalating penalty will continue to be payable at the daily rate until the date on which the person complies with the section 72 notice or the section 72A notice[^key-36d41dbbd27962469320e6c51fc28063] or such earlier date as the Regulator may determine;
+- (f) notify the person to whom the notice is issued of the review process under section 43 of the Pensions Act 2008 and the right of referral to a tribunal under section 44 of that Act (as applied by subsection (7)).
+
+(7) The following sections of the Pensions Act 2008 apply to an escalating penalty notice under this section as they apply to an escalating penalty notice under section 41 of that Act—
+
+- (a) section 42 (penalty notices: recovery);
+- (b) section 43 (review of penalty notices);
+- (c) section 44 (references to First-tier Tribunal or Upper Tribunal).
+
+(8) Regulations under this section are subject to negative resolution procedure.
+
+#### 19. Withdrawal of authorisation[^key-a4006f002ae1b29c3b4c9d752c2dbf55][^key-c1ba306c3484dc1d5632159999c6b360][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) If the Pensions Regulator stops being satisfied that an authorised Master Trust scheme meets the authorisation criteria, it may decide to withdraw the scheme's authorisation.
+
+(2) A warning notice under the standard procedure or a determination notice under the special procedure given in relation to a decision under subsection (1) must—
+
+- (a) explain that the issue of the notice is a triggering event for the purposes of sections 20 to 33, and
+- (b) include an explanation of the trustees' duties under those sections.
+
+(3) On withdrawal of a scheme's authorisation, the Pensions Regulator must—
+
+- (a) notify the trustees that the scheme is no longer authorised, and
+- (b) remove the scheme from the list of authorised Master Trust schemes.
+
+(4) In this section—
+
+- “**determination notice**” has the meaning given by section 98(2)(a) of the Pensions Act 2004;
+- “**special procedure**” has the meaning given by section 98 of that Act;
+- “**standard procedure**” has the meaning given by section 96 of that Act;
+- “**warning notice**” has the meaning given by section 96(2)(a) of that Act.
+
+### Triggering events: continuity
+
+#### 20. Triggering event: duties of trustees[^c22725651][^key-7cc7ab786da9cc6cef6cd916b1409f3d][^key-68a2a6f782b326c4269be6353e4d42cd][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+If a triggering event occurs in relation to a Master Trust scheme, the trustees must—
+
+- (a) comply with the notification requirements applicable to them (see section 22),
+- (b) comply with the requirements of section 23 (continuity options), and
+- (c) comply with the requirements of section 26 (implementation strategy).
+
+#### 21. Triggering events[^c22725661][^key-aff356793aace89435d94b154b0ae1d5][^key-6f59692deeca44682ef82b7bffb9273a][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) A triggering event occurs in relation to a Master Trust scheme if—
+
+- (a) an event within the second column of the table in subsection (6) occurs in relation to it, and
+- (b) the event does not occur within an existing triggering event period for the scheme (subject to subsection (2)).
+
+(2) An event within item 1, 2 or 3 of the table (notice of decision to withdraw authorisation; notification that scheme is not authorised) is a triggering event even if it occurs within an existing triggering event period.
+
+(3) A triggering event occurs on the date specified in relation to the event in the third column of the table.
+
+(4) A “triggering event period” for a Master Trust scheme is a period—
+
+- (a) starting with the date on which a triggering event occurs in relation to the scheme, and
+- (b) ending with the earliest of the dates given by subsection (5).
+
+(5) The dates are—
+
+- (a) the date on which the scheme is wound up;
+- (b) the date on which the trustees receive notification from the Pensions Regulator that the Regulator is satisfied that the triggering event has been resolved (see section 25);
+- (c) in the case of an event within item 1 or 2 of the table (notice of decision to withdraw authorisation), the date on which it becomes clear that authorisation is not to be withdrawn (see section 34).
+
+(6) The table is—
+
+| *Item* | *Triggering event* | *Date event occurs* |
+| --- | --- | --- |
+| 1\. | The Pensions Regulator issues a warning notice under the standard procedure in respect of a decision to withdraw the scheme's authorisation. | The date on which the notice is issued. |
+| 2\. | The Pensions Regulator issues a determination notice under the special procedure in respect of a decision to withdraw the scheme's authorisation. | The date on which the notice is issued. |
+| 3\. | The Pensions Regulator gives a notification under section 3(3) (scheme not authorised). | The date on which the notification is given. |
+| 4\. | An insolvency event occurs in relation to a scheme funder. | The date on which the insolvency event occurs. |
+| 5\. | A scheme funder becomes unlikely to continue as a going concern, where the scheme funder is a person or body of a kind that meets requirements prescribed under section 129(1)(b) of the Pensions Act 2004. | The date on which—<br>- (a) the scheme funder notifies the Pensions Regulator of that fact, or<br>- (b) (if earlier) the trustees or a scheme strategist become aware of that fact. |
+| 6\. | A scheme funder decides to end the relationship or arrangement with the Master Trust scheme by virtue of which it is a scheme funder. | The date of the decision. |
+| 7\. | A scheme funder ends the relationship or arrangement with the Master Trust scheme by virtue of which it is a scheme funder. | The date on which—<br>- (a) the scheme funder notifies the Pensions Regulator of that fact, or<br>- (b) (if earlier) the trustees or a scheme strategist become aware of that fact. |
+| 8\. | A scheme funder, scheme strategist or the trustees decide that the Master Trust scheme should be wound up, where the person making the decision has power to do so under the scheme or the rules of the scheme. | The date of the decision. |
+| 9\. | An event occurs which is required or permitted by the scheme or the rules of the scheme to result in the winding up of the Master Trust scheme. | The date on which the event occurs. |
+| 10\. | The trustees decide that the Master Trust scheme is at risk of failure and so it is necessary for one of the continuity options to be pursued (see section 23). | The date of the decision. |
+
+(7) A Master Trust scheme is to be taken to permit the trustees of the scheme to make the decision referred to in item 10 of the table, to the extent that it would not otherwise do so.
+
+(8) In this section—
+
+- “**determination notice**” has the meaning given by section 98(2)(a) of the Pensions Act 2004;
+- “**special procedure**” has the meaning given by section 98 of that Act;
+- “**standard procedure**” has the meaning given by section 96 of that Act;
+- “**warning notice**” has the meaning given by section 96(2)(a) of that Act.
+
+#### 22. Notification requirements[^c22725671][^key-42b33eeb5f42ef7888c539c8f3dc55d9][^key-4666d3d0bd737cf6cc9fb28762071ce0][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) Subsection (2) applies if an event within an item of the table in section 21(6) that is listed in the first column of the table in subsection (3) occurs in relation to a Master Trust scheme.
+
+(2) Each person specified in relation to the event in the second column of the table must notify the Pensions Regulator.
+
+(3) The table is—
+
+| *Event* | *Person under duty to notify Pensions Regulator* |
+| --- | --- |
+| Item 4 (insolvency event in relation to a scheme funder) | The scheme funder. |
+| Item 5 (scheme funder unlikely to continue as a going concern) | The scheme funder. |
+| Item 6 (scheme funder decides to end relationship or arrangement) | The scheme funder. |
+| Item 7 (scheme funder ends relationship or arrangement) | The scheme funder. |
+| Item 8 (scheme funder, scheme strategist or trustees decide that scheme should be wound up) | The person or persons who take the decision. |
+| Item 10 (trustees decide that it is necessary to pursue continuity option) | The trustees. |
+
+(4) If—
+
+- (a) an event within an item of the table in section 21(6) that is listed in the first column of the table in subsection (5) occurs in relation to a Master Trust scheme, and
+- (b) a person specified in relation to the event in the second column of the table becomes aware that the event has occurred,
+
+the person must notify the Pensions Regulator.
+
+(5) The table is—
+
+| *Event* | *Persons under duty to notify Pensions Regulator if become aware of event* |
+| --- | --- |
+| Item 4 (insolvency event in relation to a scheme funder) | The trustees. A scheme strategist. |
+| Item 5 (scheme funder unlikely to continue as a going concern) | The trustees. A scheme strategist. |
+| Item 6 (scheme funder decides to end relationship or arrangement) | The trustees. A scheme strategist. |
+| Item 7 (scheme funder ends relationship or arrangement) | The trustees. A scheme strategist. |
+| Item 8 (scheme funder, scheme strategist or trustees decide that scheme should be wound up) | The trustees. A scheme funder. A scheme strategist. |
+| Item 9 (event required or permitted to lead to winding up of scheme) | The trustees. A scheme funder. A scheme strategist. |
+| Item 10 (trustees decide that it is necessary to pursue continuity option) | A scheme funder. A scheme strategist. |
+
+(6) If a triggering event occurs in relation to a Master Trust scheme, the trustees must notify the employers—
+
+- (a) of the occurrence of the event, and
+- (b) of such other matters as may be specified in regulations made by the Secretary of State.
+
+(7) A notification under this section must be given before the end of the period specified in regulations made by the Secretary of State.
+
+(8) No duty to which a person is subject is to be regarded as contravened merely because of any information provided to the Pensions Regulator under this section.
+
+(9) A person is not required by this section to disclose anything in respect of which a claim to legal professional privilege (or, in Scotland, to confidentiality of communications) could be maintained in legal proceedings.
+
+(10) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(11) Regulations under this section are subject to negative resolution procedure.
+
+#### 23. Continuity options[^key-898a1eb5d9fa3aa086cd9a3ae4412b8e][^key-7768b1d86179c77e7fe4ea1f056dca90][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) If a triggering event occurs in relation to a Master Trust scheme, the trustees must comply with the requirements of this section.
+
+(2) In the following cases, the trustees must pursue continuity option 1—
+
+- (a) the triggering event is within item 1 or 2 of the table in section 21(6), and the decision to withdraw authorisation has become final (see section 35);
+- (b) the triggering event is within item 3 of that table.
+
+(3) In those cases, the trustees must pursue continuity option 1 even if—
+
+- (a) the triggering event within item 1, 2 or 3 occurs within the triggering event period for an earlier triggering event, and
+- (b) the trustees have already decided to pursue continuity option 2 in respect of the earlier triggering event.
+
+(4) In any other case, the trustees must decide whether to pursue continuity option 1 or continuity option 2.
+
+(5) “Continuity option 1” is for—
+
+- (a) the accrued rights and benefits under the Master Trust scheme of all members of the scheme to be transferred out of the scheme, and
+- (b) the Master Trust scheme to be wound up,
+
+in accordance with regulations under section 24.
+
+(6) “Continuity option 2” is for the triggering event to be resolved (see section 25).
+
+(7) This section overrides any provision of the Master Trust scheme, to the extent that there is a conflict.
+
+(8) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+#### 24. Continuity option 1: transfer out and winding up[^key-f41c195e608e9ac7ed47fb67c5527b9a][^key-5f9ec584387ad5f893d7ae91a5647132][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) Where the trustees of a Master Trust scheme are required, or decide, to pursue continuity option 1 they must—
+
+- (a) identify one or more pension schemes to which (subject to Part 4ZA of the Pension Schemes Act 1993 and to provision made by regulations under subsections (2)(b) and(4)) members' accrued rights and benefits under the Master Trust scheme are proposed to be transferred, and
+- (b) notify employers and members of the proposed transfer and of such other matters as may be specified in regulations made by the Secretary of State.
+
+(2) Each pension scheme proposed under subsection (1)(a) must be—
+
+- (a) a Master Trust scheme, or
+- (b) in such circumstances as may be specified in regulations made by the Secretary of State, a pension scheme that has characteristics specified in regulations made by the Secretary of State (“an alternative scheme”).
+
+(3) Notification under subsection (1)(b) must be given—
+
+- (a) in the manner specified in regulations made by the Secretary of State, and
+- (b) before the end of the time period specified in regulations made by the Secretary of State.
+
+(4) The Secretary of State—
+
+- (a) must make regulations about how continuity option 1 is to be pursued, in a case where a proposed transfer is to a Master Trust scheme;
+- (b) may make regulations about how continuity option 1 is to be pursued, in a case where a proposed transfer is to an alternative scheme;
+- (c) may make regulations for the purpose of otherwise giving effect to continuity option 1, in either case.
+
+(5) Regulations under subsection (4)(a) must include provision—
+
+- (a) for the purpose of ensuring that members of the Master Trust scheme stop accruing rights and receiving benefits under the scheme;
+- (b) conferring rights on all or a specified description of members to opt out of the proposed transfer;
+- (c) conferring rights on all or a specified description of employers to opt out of the proposed transfer;
+- (d) conferring rights on all or a specified description of members to require the trustees to transfer the members' accrued rights and benefits to alternative schemes;
+- (e) conferring rights on all or a specified description of employers to propose the transfer of members' accrued rights to one or more alternative schemes;
+- (f) imposing duties on employers and the trustees to inform members of any such proposal;
+- (g) about how rights conferred by the regulations may be exercised (including the time periods within which they may be exercised);
+- (h) specifying requirements to be met by a scheme proposed by the trustees or an employer (which may include approval or authorisation by the Pensions Regulator in accordance with the regulations);
+- (i) requiring a scheme proposed by the trustees or an employer to provide the Pensions Regulator with a document setting out the levels of administration charges that applied in relation to members of the scheme, in the manner and as at the date specified or described in the regulations;
+- (j) imposing duties on the trustees to notify all or a specified description of employers and members of their rights under the regulations and of members' rights under Part 4ZA of the Pension Schemes Act 1993 (transfers and contribution refunds);
+- (k) about the exercise by the trustees of their power to transfer members' accrued rights and benefits out of a Master Trust scheme in cases where employers and members do not exercise their rights under the regulations or Part 4ZA of the Pension Schemes Act 1993;
+- (l) about the exercise by the trustees of their power to transfer members' accrued rights and benefits out of a Master Trust scheme other than by a transfer to a scheme in a specified description of cases;
+- (m) imposing conditions on the exercise by the trustees of their power to transfer members' accrued rights and benefits out of a Master Trust scheme in a specified description of cases;
+- (n) about the winding up of the Master Trust scheme in circumstances where the accrued rights and benefits of the members are, or are to be, transferred out of the scheme;
+- (o) conferring power on the Pensions Regulator to direct the trustees to do things permitted or required by the regulations.
+
+(6) Regulations under subsection (4)(b) may include—
+
+- (a) any provision mentioned in subsection (5);
+- (b) provision deeming any member whose accrued rights or benefits are to be transferred to an alternative scheme to have entered into an agreement with a person of a description specified in the regulations.
+
+(7) In this section references to a transfer of members' accrued rights and benefits out of a Master Trust scheme include references to the trustees complying with obligations imposed on them under Part 4ZA of the Pension Schemes Act 1993.
+
+(8) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(9) Regulations under this section may provide for the application of section 10 of the Pensions Act 1995 to a person who fails to comply with a requirement imposed by the regulations.
+
+(10) Regulations under subsections (2)(b) and (4) are subject to affirmative resolution procedure.
+
+(11) Other regulations under this section are subject to negative resolution procedure.
+
+#### 25. Continuity option 2: resolving triggering event[^c22725681][^key-f56ffece86cc335b2c476ec2923d66c4][^key-ed7d12f7a02e58a670ffdd3ef705af44][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) Where the trustees of a Master Trust scheme decide to pursue continuity option 2, they must attempt to resolve the triggering event.
+
+(2) The trustees must notify the Pensions Regulator when they consider that the triggering event has been resolved.
+
+(3) The notification must set out how the trustees consider that the triggering event has been resolved.
+
+(4) The notification must be given before the end of the period specified in regulations made by the Secretary of State.
+
+(5) After receiving the notification, the Pensions Regulator must notify the trustees of whether it is satisfied that the triggering event has been resolved.
+
+(6) The Pensions Regulator may not form the view that a triggering event has been resolved unless it is satisfied that any other event within the table in section 21(6) that has occurred in relation to the Master Trust scheme since the occurrence of the triggering event has also been resolved.
+
+(7) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to comply with a requirement imposed by this section.
+
+(8) Regulations under this section are subject to negative resolution procedure.
+
+#### 26. Approval of implementation strategy[^key-3a8c95313a671b773ea52d90b31f0f34][^key-0e78f181d2e4d922eb2db9b4f4bb9ed7][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) If a triggering event occurs in relation to a Master Trust scheme, the trustees must submit an implementation strategy to the Pensions Regulator for approval.
+
+(2) But in the case of a triggering event within item 1 or 2 of the table in section 21(6), the trustees must submit an implementation strategy only if the decision to withdraw authorisation has become final (see section 35).
+
+(3) If a triggering event within item 1, 2 or 3 of the table in section 21(6) occurs within the triggering event period for an earlier triggering event—
+
+- (a) the trustees are not required to submit an implementation strategy in respect of the earlier triggering event, if they have not done so when the later triggering event occurs;
+- (b) any implementation strategy approved by the Pensions Regulator in respect of the earlier triggering event ceases to have effect when the later triggering event occurs.
+
+(4) The Pensions Regulator may approve an implementation strategy only if it is satisfied that the strategy is adequate (see section 27).
+
+(5) Where the trustees are required to submit an implementation strategy to the Pensions Regulator for approval, the strategy must be submitted before the end of a period specified in regulations made by the Secretary of State.
+
+(6) The procedure for approval of an implementation strategy is to be specified by the Pensions Regulator.
+
+(7) The Pensions Regulator may direct the trustees to comply with the requirements of this section.
+
+(8) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a direction under subsection (7).
+
+(9) This section overrides any provision of the Master Trust scheme, to the extent that there is a conflict.
+
+(10) Regulations under this section are subject to negative resolution procedure.
+
+#### 27. Content of implementation strategy[^key-13e2d45e82b3bd0d3e23ac1623a139b7][^key-7734ed4aafb8e153736bc9be86ee9c32][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that an implementation strategy for a Master Trust scheme is adequate (see section 26(4)).
+
+(2) An implementation strategy is a document setting out how the interests of members of the scheme are to be protected following the occurrence of the triggering event.
+
+(3) An implementation strategy must include a section setting out the levels of administration charges that applied in relation to members of the scheme.
+
+(4) The strategy must set out those levels of administration charges in the manner and as at the date specified or described in regulations made by the Secretary of State.
+
+(5) An implementation strategy must include information about the following matters—
+
+- (a) the continuity option that the trustees are required, or decide, to pursue (see section 23);
+- (b) where the trustees are required, or decide, to pursue continuity option 1 (transfer of members' accrued rights and benefits and winding up)—
+  - (i) the scheme or schemes to which it is proposed that the accrued rights and benefits be transferred (if known), and
+  - (ii) when the accrued rights and benefits are expected to be transferred (where employers and members do not exercise their rights under section 24 of this Act and Part 4ZA of the Pension Schemes Act 1993);
+- (c) where the trustees intend to pursue continuity option 2 (resolving the triggering event), how it is proposed that the triggering event should be resolved.
+
+(6) An implementation strategy must—
+
+- (a) contain such other information as may be specified in regulations made by the Secretary of State, and
+- (b) be prepared in accordance with regulations made by the Secretary of State.
+
+(7) Regulations under this section are subject to negative resolution procedure.
+
+#### 28. Duty to pursue continuity option[^key-157c3933239f7f6cd48abed5fef345cd][^key-184728ef41e33b5d91116dac0549fd86][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) When the Pensions Regulator has notified the trustees of a Master Trust scheme that the implementation strategy is approved, the trustees must—
+
+- (a) pursue the continuity option identified in the strategy;
+- (b) take such other steps as are identified in the strategy in order to carry it out.
+
+(2) The trustees must also make the strategy available to the employers before the end of a period specified in regulations made by the Secretary of State.
+
+(3) If—
+
+- (a) a triggering event within item 1, 2 or 3 of the table in section 21(6) occurs within the triggering event period for an earlier triggering event, and
+- (b) an implementation strategy has been approved by the Pensions Regulator in respect of the earlier triggering event,
+
+the trustees are not required to comply with subsections (1) and (2) in respect of the strategy approved in respect of the earlier triggering event.
+
+(4) The Pensions Regulator may direct the trustees to comply with the requirements of subsection (1), if they fail to do so.
+
+(5) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a direction under subsection (4).
+
+(6) This section overrides any provision of—
+
+- (a) the Master Trust scheme, and
+- (b) a Master Trust scheme contract,
+
+to the extent that there is a conflict.
+
+(7) Regulations under this section are subject to negative resolution procedure.
+
+#### 29. Prohibition on winding up except in accordance with continuity option 1[^key-e8656f3711410f201048745b5485eb1b][^key-4779049b337419136341615ea353dfcb][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) A person may only wind up a Master Trust scheme in accordance with continuity option 1 (see section 24).
+
+(2) Subsection (1) overrides any provision of a Master Trust scheme to the extent that there is a conflict.
+
+(3) But subsection (1) does not prevent a Master Trust scheme from being wound up in pursuance of an order under section 11 of the Pensions Act 1995 (power to wind up occupational pension schemes).
+
+(4) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with subsection (1).
+
+#### 30. Periodic reporting requirement[^key-da0293de0f97ba90876b79ff096c6261][^key-2e6517938985f095554efa0139a2dfac][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) During a triggering event period for a Master Trust scheme, the trustees must submit periodic reports to the Pensions Regulator.
+
+(2) The first report must be submitted before the end of a period specified in regulations made by the Secretary of State.
+
+(3) Subsequent reports must be submitted at intervals specified by the Pensions Regulator.
+
+(4) The reports must—
+
+- (a) report on progress in carrying out the implementation strategy,
+- (b) record events or decisions of a description specified in regulations made by the Secretary of State,
+- (c) contain such other information as is specified in regulations made by the Secretary of State, and
+- (d) be made in the manner and form specified by the Pensions Regulator.
+
+(5) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
+
+(6) Regulations under this section are subject to negative resolution procedure.
+
+#### 31. Pause orders[^key-6962e402c72a28ce50e868bd3dd0a8fc][^key-d6d36e0c7377624a0f07382f820a5a03][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) This section applies during a triggering event period for a Master Trust scheme.
+
+(2) The Pensions Regulator may make a pause order in relation to the scheme if either of the following two conditions is met.
+
+(3) Condition 1 is that the Pensions Regulator is satisfied that making a pause order will help the trustees to carry out the implementation strategy.
+
+(4) Condition 2 is that the Pensions Regulator is satisfied that—
+
+- (a) there is, or is likely to be if a pause order is not made, an immediate risk to the interests of members under the scheme or the assets of the scheme, and
+- (b) it is necessary to make a pause order to protect the interests of the generality of the members of the scheme.
+
+(5) A pause order is an order that during the period for which it has effect one or more of the following directions has effect—
+
+- (a) a direction that no new members (or no specified classes of new members) are to be admitted to the scheme;
+- (b) a direction that no further contributions or payments (or no further specified contributions or payments) are to be paid towards the scheme by or on behalf of any employers or members (or any specified employers or members);
+- (c) a direction that any amount (or any specified amount) which—
+  - (i) corresponds to any contribution which would be due to be paid towards the scheme on behalf of a member but for a direction under paragraph (b), and
+  - (ii) has been deducted from a payment of any earnings in respect of an employment,
+
+  is to be repaid to the member in question by the employer;
+- (d) a direction that no benefits (or no specified benefits) are to be paid to or in respect of any members (or any specified members) under the scheme rules;
+- (e) a direction that—
+  - (i) no transfers (or no specified transfers) of any member's rights under the scheme rules are to be made from the scheme,
+  - (ii) no transfer payments (or no specified transfer payments) in respect of any member's rights under the scheme rules are to be made from the scheme, or
+  - (iii) no other steps (or no specified other steps) are to be taken to discharge any liability of the scheme to or in respect of a member of the scheme in respect of pensions or other benefits.
+
+(6) In subsection (5)(b)—
+
+- (a) the references to contributions do not include contributions due to be paid before the order takes effect, and
+- (b) the references to payments towards a scheme include payments in respect of pension credits where the person entitled to the credit is a member of the scheme.
+
+(7) A direction under subsection (5)(e) may provide that transfers or specified transfers of, or transfer payments or specified transfer payments in respect of, any member's rights under the scheme rules may not be made from the scheme unless the amounts paid out from the scheme in respect of the transfers or transfer payments are determined in a specified manner and the transfers or transfer payments satisfy such other conditions as may be specified.
+
+(8) Schedule 1 makes further provision about pause orders.
+
+(9) In this section—
+
+- “**earnings**” has the meaning given by section 181(1) of the Pension Schemes Act 1993;
+- “**pension credit**” means a credit under section 29(1)(b) of the Welfare Reform and Pensions Act 1999 or under corresponding Northern Ireland legislation;
+- “**specified**” means specified in the pause order.
+
+#### 32. Prohibition on new employers during triggering event period[^key-2688ae393964c6930ff9199abca09de0][^key-e43d0451f67d9e04b1c4cab9c4b3456c][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) During a triggering event period for a Master Trust scheme, neither the trustees nor a scheme funder nor a scheme strategist may—
+
+- (a) permit a new person to become an employer in relation to the scheme, or
+- (b) enter into an agreement under which a new person will become an employer in relation to the scheme after the end of the triggering event period.
+
+(2) A “new person” is a person who was not an employer in relation to the scheme on the date on which the triggering event occurred.
+
+(3) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with subsection (1).
+
+#### 33. Prohibition on increasing charges etc during triggering event period[^c22725691][^key-b0dce105fa3114014061ae22379c9d6f][^key-8e5bd46e2236fcab80f62fe25c650f39][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) During a triggering event period for a Master Trust scheme, the trustees must not—
+
+- (a) impose any administration charges on or in respect of members at levels above those set out in the implementation strategy,
+- (b) impose any new administration charges on or in respect of members, or
+- (c) impose any administration charges on or in respect of a member in consequence of the member leaving, or deciding to leave, the scheme during that period.
+
+(2) The trustees of a receiving scheme that is a Master Trust scheme must not—
+
+- (a) impose any administration charges on or in respect of members at levels above those set out in the document provided to the Regulator by virtue of regulations under section 24(5)(i), or
+- (b) impose any new administration charges on or in respect of members,
+
+for the purposes of meeting any of the costs mentioned in subsection (3).
+
+(3) The costs are costs for which a receiving scheme is liable which—
+
+- (a) were incurred by the transferring scheme, or
+- (b) relate directly to the transfer of members' accrued rights or benefits from the transferring scheme.
+
+(4) The Secretary of State may by regulations make provision about—
+
+- (a) how levels of administration charges are to be calculated for the purposes of this section;
+- (b) how to determine for the purposes of subsection (2) the purposes for which charges are increased or imposed;
+- (c) how to determine whether costs for which a receiving scheme is liable fall within subsection (3)(a) or (b).
+
+(5) This section overrides any provision of—
+
+- (a) the Master Trust scheme, and
+- (b) a Master Trust scheme contract,
+
+to the extent that there is a conflict.
+
+(6) The Secretary of State may by regulations apply some or all of the provisions of this section to a receiving scheme that has characteristics specified in regulations under section 24(2)(b).
+
+(7) Section 10 of the Pensions Act 1995 (civil penalties) applies to a trustee who fails to comply with subsection (1) or (2).
+
+(8) In this section—
+
+- “**receiving scheme**” means a pension scheme that—
+  - (a) receives a transfer of the accrued rights or benefits of members of a transferring scheme during a triggering event period for the transferring scheme, and
+  - (b) was proposed by the trustees of the transferring scheme, or by employers in relation to that scheme, as a scheme to which those rights or benefits should be transferred;
+- “**transferring scheme**” means a Master Trust scheme the trustees of which, following a triggering event, are pursuing continuity option 1.
+
+(9) Regulations under subsection (6) are subject to affirmative resolution procedure.
+
+(10) Other regulations under this section are subject to negative resolution procedure.
+
+### Decisions on withdrawal of authorisation: timing
+
+#### 34. When it becomes clear that authorisation not to be withdrawn[^key-b116f9710707294e05f62721764e88f8][^key-f9d054f0ff9757fc0a2d9f944c3f10a7][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) Where a triggering event within item 1 or 2 of the table in section 21(6) occurs in relation to a Master Trust scheme, this section applies for determining the date on which it becomes clear that authorisation is not to be withdrawn (see section 21(5)(c)).
+
+(2) That date is the date given in relation to the event by the third column of the table in subsection (3), in the circumstances set out in relation to the event in the second column of that table.
+
+(3) The table is—
+
+| *Triggering event* | *Circumstances* | *Date* |
+| --- | --- | --- |
+| Item 1 (issue of warning notice under the standard procedure) | - 1 The Pensions Regulator makes a determination not to withdraw the scheme's authorisation, and<br>- 2 there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Regulator's determination. |
+| Item 2 (issue of determination notice under the special procedure) | - 1 The Pensions Regulator, on a review under section 99 of the Pensions Act 2004, makes a determination that the scheme's authorisation should not be withdrawn, and<br>- 2 there is no referral of the Regulator's determination to the Tribunal within the time period allowed for doing so. | The date of the Regulator's determination. |
+| Item 1 or 2 | - 1 There is a referral of the Regulator's determination to the Tribunal, and<br>- 2 the Tribunal makes a determination the effect of which is that the scheme's authorisation should not be withdrawn, and<br>- 3 either—<br>  - (a) no appeal is brought against the Tribunal's determination within the time period allowed for doing so, or<br>  - (b) an appeal is brought within that time period but is later withdrawn. | The date of the Tribunal's determination. |
+| Item 1 or 2 | - 1 There is an appeal against the Tribunal's determination, and<br>- 2 the effect of the appeal is that the scheme's authorisation should not be withdrawn. | The date on which the appeal is finally disposed of. |
+
+(4) In this section “**the Tribunal**” has the meaning given by—
+
+- (a) section 96(7) of the Pensions Act 2004, in a case where the standard procedure applies;
+- (b) section 99(13) of that Act, in a case where the special procedure applies.
+
+#### 35. When a decision to withdraw authorisation becomes final[^key-7ef48e4014c0223b8c3a053a7195543f][^key-c9aaa276d6d2fbbfac1c734cc7a31d5c][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) Where a triggering event within item 1 or 2 of the table in section 21(6) occurs in relation to a Master Trust scheme, this section applies for the purposes of determining the date on which a decision to withdraw authorisation becomes final (see sections 23(2)(a) and 26(2)).
+
+(2) That date is the date given in relation to the event by the third column of the table in subsection (3), in the circumstances set out in relation to the event in the second column of that table.
+
+(3) The table is—
+
+| *Triggering event* | *Circumstances* | *Date* |
+| --- | --- | --- |
+| Item 1 (issue of warning notice under the standard procedure) | - 1 The Pensions Regulator makes a determination to withdraw the scheme's authorisation, and<br>- 2 there is no referral of the determination to the Tribunal within the time period allowed for doing so. | The date of the Regulator's determination. |
+| Item 2 (issue of determination notice under the special procedure) | - 1 The Pensions Regulator, on a review under section 99 of the Pensions Act 2004, makes a determination the effect of which is that the scheme's authorisation should be withdrawn, and<br>- 2 there is no referral of the Regulator's determination to the Tribunal within the time period allowed for doing so. | The date of the Regulator's determination. |
+| Item 1 or 2 | - 1 There is a referral to the Tribunal, and<br>- 2 the Tribunal makes a determination the effect of which is that the scheme's authorisation should be withdrawn, and<br>- 3 either—<br>  - (a) no appeal is brought against the Tribunal's determination within the time period allowed for doing so, or<br>  - (b) an appeal is brought within that time period but is later withdrawn. | The date of the Tribunal's determination. |
+| Item 1 or 2 | - 1 There is an appeal against the Tribunal's determination, and<br>- 2 the effect of the appeal is that the scheme's authorisation should be withdrawn. | The date on which the appeal is finally disposed of. |
+
+(4) In this section “**the Tribunal**” has the meaning given by—
+
+- (a) section 96(7) of the Pensions Act 2004, in a case where the standard procedure applies;
+- (b) section 99(13) of that Act, in a case where the special procedure applies.
+
+### Supplementary
+
+#### 36. Fraud compensation[^key-ca913db1029d12ee8055f0366619a5c3][^key-14517800d6e2632b483fbb5a960f9a6b][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) The Secretary of State may by regulations modify sections 182 to 187 of the Pensions Act 2004 (fraud compensation) as they apply in relation to—
+
+- (a) Master Trust schemes;
+- (b) schemes to which some or all of the provisions of this Part apply by virtue of section 40.
+
+(2) Regulations under this section are subject to negative resolution procedure.
+
+#### 37. Master trusts in operation on commencement: transitional provision[^c22725051][^key-776b3ffe6457b3cc9730cef046a9b32c][^key-d9ba2a3743063ed5c2e57e9a6b3b1674][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+Schedule 2 makes provision about the application of this Part in relation to Master Trust schemes that are in operation before the date on which section 3 comes into force.
+
+#### 38. Minor and consequential amendments[^c22725721][^key-ffa63bac73e17ef141d60206e95f5c07][^key-8983fda4cd1443d6c9ab03da98416072][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) Schedule 3 makes minor and consequential amendments relating to this Part.
+
+(2) The Secretary of State may by regulations make provision that is consequential upon any provision of this Part.
+
+(3) Regulations under this section may amend, repeal or revoke any provision of—
+
+- (a) an Act passed before or in the same session as this Act;
+- (b) subordinate legislation (within the meaning of the Interpretation Act 1978) made before the passing of this Act.
+
+(4) Regulations under this section that contain provision mentioned in subsection (3)(a) are subject to affirmative resolution procedure.
+
+(5) Otherwise, regulations under this section are subject to negative resolution procedure.
+
+#### 39. Interpretation of Part 1[^c22726271][^key-d793cbc93721cb78edffe54ecb19e792][^key-ea8f36a005ddd3a6eaaa181421f1b5a7][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) In this Part—
+
+- the “accounts” of a Master Trust scheme means the accounts audited by the auditor of the scheme (and see subsections (2) and (4A[^key-51da660ec9b081bd24032319f5f7f6fc]);
+- the “accounts” of a scheme funder means—
+  - (a) in a case where regulations under section 10(6) apply to the scheme funder, its accounts prepared in accordance with those regulations;
+  - (b) in any other case, its accounts prepared in accordance with the requirements of the Companies Act 2006;
+- “**accrued rights**” has the meaning given by section 100D of the Pension Schemes Act 1993;
+- “**administration charge**” has the meaning given by paragraph 1 of Schedule 18 to the Pensions Act 2014;
+- “**authorisation**” means authorisation under section 5;
+- “**authorisation criteria**” has the meaning given in section 5(3);
+- “[^key-01cbf4f60e057850ddb6ab7ac94bbeb3]**collective money purchase scheme**” has the meaning given in section 1(2) of the Pension Schemes Act 2021;
+- “continuity option 1” and “continuity option 2” have the meanings given in section 23;
+- “**employer**” has the meaning given in section 1;
+- “**implementation strategy**” has the meaning given in section 27;
+- “**insolvency event**” has the meaning given by section 121 of the Pensions Act 2004;
+- “**Master Trust scheme**” has the meaning given in section 1;
+- “**Master Trust scheme contract**” means a contract between the trustees of the scheme and a person providing services in relation to the scheme;
+- “**member**” has the meaning given by section 124 of the Pensions Act 1995 (read with regulations made under section 125(4) of that Act);
+- “**occupational pension scheme**” has the meaning given in section 1;
+- “**operate**”, in relation to a Master Trust scheme, has the meaning given in section 3;
+- “**pause order**” means an order under section 31;
+- “**pension scheme**” has the meaning given by section 1(5) of the Pension Schemes Act 1993;
+- “**scheme funder**”, in relation to a Master Trust scheme, means a person who—
+  - (a) is liable to provide funds to or in respect of the scheme in circumstances where administration charges received from or in respect of members are not sufficient to cover the costs of establishing or running the scheme, or
+  - (b) is entitled to receive the profits of the scheme in circumstances where those charges exceed those costs;
+- “**scheme rules**” has the meaning given by section 318(2) and (3) of the Pensions Act 2004;
+- “**scheme strategist**”, in relation to a Master Trust scheme, means a person who is responsible for making business decisions relating to the commercial activities of the scheme;
+- “**triggering event**” has the meaning given in section 21;
+- “**triggering event period**” has the meaning given in section 21(4);
+- “**trustee**”, in relation to a Master Trust scheme which is not a scheme established under a trust, means a manager of the scheme.
+
+(2) In relation to a Master Trust scheme which provides money purchase benefits in conjunction with other benefits, references in this Part to the scheme's accounts are to be read as references to the accounts of the scheme as a whole.
+
+(3) The reference in section 10(3) to activities that relate directly to Master Trust schemes is, in its application to a Master Trust scheme which provides money purchase benefits in conjunction with other benefits, to be read as a reference to activities that relate directly to the scheme as a whole.
+
+(4) This Part applies to a Master Trust scheme—
+
+- (a) which provides money purchase benefits in conjunction with other benefits, and
+- (b) for which there is no power to wind up the scheme to the extent only that it provides money purchase benefits,
+
+as if references to winding up the scheme, or to the scheme being wound up, were to ceasing to operate the scheme, or the scheme ceasing to operate, to the extent that it provides money purchase benefits.
+
+(4A)[^key-647ecc11df5bcca148d8e1254252bc89] In relation to a Master Trust scheme, a section of which is a collective money purchase scheme, references in this Part to the scheme’s accounts are to be read as references to the accounts of the scheme as a whole.
+
+(4B) The reference in section 10(3) to activities that relate directly to Master Trust schemes is, in its application to a Master Trust scheme a section of which is a collective money purchase scheme, to be read as a reference to activities that relate directly to the scheme as a whole.
+
+(4C) This Part applies to a Master Trust scheme—
+
+- (a) a section of which is a collective money purchase scheme, and
+- (b) for which there is no power to wind up the scheme to the extent only that it is not a collective money purchase scheme,
+
+as if references to winding up the scheme, or to the scheme being wound up, were to ceasing to operate the scheme, or the scheme ceasing to operate, to the extent that it is not a collective money purchase scheme.
+
+(5) The Secretary of State may make regulations providing—
+
+- (a) that other descriptions of person may be treated as scheme funders for the purposes of this Part;
+- (b) that a person who would otherwise be a scheme funder may be treated as not being one, either generally or in circumstances specified in the regulations.
+
+(6) Regulations under this section are subject to affirmative resolution procedure.
+
+#### 40. Regulations modifying application of Part 1[^key-b3d24f3024715e69ffedd2c6972202bf][^key-533b5786fbc05a2b9b441e8dc7fc3ae8][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+
+(1) The Secretary of State may make regulations—
+
+- (a) applying some or all of the provisions of this Part to pension schemes (other than Master Trust schemes) that have the characteristics set out in the regulations, or
+- (b) disapplying some or all of those provisions from Master Trust schemes that have the characteristics set out in the regulations.
+
+(2) The Secretary of State may make regulations which provide for two or more pension schemes to be treated as a single Master Trust scheme for the purposes of this Part, in the circumstances set out in the regulations.
+
+(3) Those circumstances may include—
+
+- (a) the schemes being under common control;
+- (b) the schemes being subject to common rules;
+- (c) the schemes being provided by the same service provider.
+
+(4) Regulations under this section are subject to affirmative resolution procedure.
+
+## Part 2 — Administration charges
+
+### 41. Power to override contract terms
+
+(1) Paragraph 6 of Schedule 18 to the Pensions Act 2014 (power to restrict charges or impose requirements in relation to schemes: overriding provision) is amended as follows.
+
+(2) After sub-paragraph (1) insert—
+
+> (1A) The Secretary of State may by regulations provide that specified provisions override any term of a relevant contract to the extent that it conflicts with them.
+
+(3) In sub-paragraph (2), at the end insert “ or (1A) ”.
+
+(4) After sub-paragraph (2) insert—
+
+> (3) “**Relevant contract**” means a contract between the trustees or managers of a relevant scheme and a person providing services in relation to the scheme.
+
+## Part 3 — General
+
+### 42. Regulations: general provisions
+
+(1) A power to make regulations under this Act is exercisable by statutory instrument.
+
+(2) Regulations under Part 1 may—
+
+- (a) make different provision for different purposes;
+- (b) include incidental, supplementary, consequential, transitional, transitory or saving provision;
+- (c) confer a discretion on a person.
+
+(3) Where regulations under Part 1 are subject to “negative resolution procedure” the statutory instrument containing the regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Where regulations under Part 1 are subject to “affirmative resolution procedure” the regulations may not be made unless a draft of the instrument containing them has been laid before and approved by a resolution of each House of Parliament.
+
+(5) Any provision that may be made by regulations under Part 1 subject to negative resolution procedure may be made by regulations under Part 1 subject to affirmative resolution procedure.
+
+### 43. Extent
+
+This Act extends to England and Wales and Scotland.
+
+### 44. Commencement
+
+(1) The following provisions come into force on the day this Act is passed—
+
+- (a) the following provisions as they apply to existing Master Trust schemes within the meaning of Schedule 2—
+  - (i) sections 1 and 2 (definition of a Master Trust scheme);
+  - (ii) sections 17 and 18 (penalty notices);
+  - (iii) sections 20 to 22, 25 and 33, as modified by Schedule 2 (triggering events: notification requirements and prohibition on increasing charges);
+  - (iv) paragraphs 5 and 8 of Schedule 3 (power of Regulator to request information), and section 38 as it applies to those paragraphs;
+  - (v) section 39 (interpretation);
+- (b) paragraphs 1 to 7 of Schedule 2, and section 37 as it applies to those paragraphs (Master Trusts operating before commencement: transitional provisions);
+- (c) paragraphs 1 to 4, 5 and 12 of Schedule 3, and section 38 as it applies to those paragraphs (amendments to definitions of “scheme rules”);
+- (d) section 41 (power to override contract terms);
+- (e) this Part.
+
+(2) To the extent not already commenced by subsection (1), Part 1 comes into force on such day or days as the Secretary of State may by regulations appoint.
+
+(3) The Secretary of State may by regulations make transitional, transitory and saving provision in connection with the coming into force of any provision of this Act.
+
+(4) Regulations under this section may make—
+
+- (a) incidental and supplementary provision, and
+- (b) different provision for different purposes.
+
+### 45. Short title
+
+(1) This Act may be cited as the Pension Schemes Act 2017.
+
+SCHEDULES
+
+## SCHEDULE 1 — Pause orders
+
+Section 31
+
+### Consequences of a pause order
+
+**1.**[^key-0f8883a622b1405a3337735ac7a44ce5][^key-ba9e9d43e4fac6ae9f38dd8ee7e942f1] (1) If a pause order is made in relation to a Master Trust scheme, any action taken in contravention of the order is void, except to the extent that the action is validated by an order under paragraph 3.
+
+(2) A pause order in relation to a Master Trust scheme does not prevent the scheme being wound up in pursuance of an order under section 11 of the Pensions Act 1995 (power to wind up occupational pension schemes).
+
+(3) If a pause order contains a direction under section 31(5)(b) that no further contributions (or no further specified contributions) are to be paid towards a scheme during the period for which the order has effect—
+
+- (a) any contributions which are the subject of the direction and which would otherwise be due to be paid towards the scheme during that period are to be treated as if they do not fall due, and
+- (b) any obligation to pay those contributions (including any obligation under section 49(8) of the Pensions Act 1995 to pay amounts deducted corresponding to such contributions) is to be treated as if it does not arise.
+
+(4) If a pause order contains a direction under section 31(5)(e) (no transfers etc of members' rights) it does not prevent—
+
+- (a) a pension sharing order or provision having effect, or
+- (b) a pension earmarking order having effect in a case where—
+  - (i) the order requires a payment to be made if a payment in respect of any benefits under the scheme becomes due to a person, and
+  - (ii) a direction under section 31(5)(d) does not prevent the payment becoming due.
+
+(5) In sub-paragraph (4)—
+
+- “**pension sharing order or provision**” means an order or provision falling within section 28(1) of the Welfare Reform and Pensions Act 1999 (activation of pension sharing);
+- “**pension earmarking order**” means—
+  - (a) an order under section 23 of the Matrimonial Causes Act 1973 (financial provision orders in connection with divorce etc) so far as it includes provision made by virtue of section 25B or 25C of that Act (powers to include provision about pensions),
+  - (b) an order under Part 1 of Schedule 5 to the Civil Partnership Act 2004 (financial provision in connection with dissolution, nullity or separation) so far as it includes provision made by virtue of paragraphs 25 and 26 of Part 6 of that Schedule (powers to include provision about pensions),
+  - (c) an order under section 12A(2) or (3) of the Family Law (Scotland) Act 1985 (powers in relation to pension lump sums when making a capital sum order),
+  - (d) an order under Article 25 of the Matrimonial Causes (Northern Ireland) Order 1978 (S.I. 1978/1045 (N.I. 15)) so far as it includes provision made by virtue of Article 27B or 27C of that Order (Northern Ireland powers corresponding to those mentioned in paragraph (a)), or
+  - (e) an order under Part 1 of Schedule 15 to the Civil Partnership Act 2004 (financial provision in connection with dissolution, nullity or separation) so far as it includes provision made by virtue of paragraphs 20 and 21 of Part 5 of that Schedule (powers to include provision about pensions).
+
+(6) The Secretary of State may make regulations modifying any provision of—
+
+- (a) Chapter 1 of Part 4ZA of the Pension Schemes Act 1993 (transfer rights: general), or
+- (b) Chapter 2 of that Part (early leavers: cash transfer sums and contribution refunds),
+
+in their application to a Master Trust scheme in relation to which a pause order has effect containing a direction under section 31(5)(e) (no transfers etc of members' rights).
+
+(7) Regulations under sub-paragraph (6) override any provision of the Master Trust scheme, to the extent that there is a conflict.
+
+(8) Disregarding sub-paragraph (1), if a pause order made in relation to a scheme is not complied with, section 10 of the Pensions Act 1995 (civil penalties) applies to any trustee of the Master Trust scheme who has failed to take all reasonable steps to secure compliance.
+
+(9) Sub-paragraph (8) does not apply in the case of non-compliance with a direction under section 31(5)(c) (direction that certain deducted contributions are to be repaid by employer).
+
+(10) In such a case, section 10 of the Pensions Act 1995 (civil penalties) applies to an employer who, without reasonable excuse, fails to repay an amount as required by the direction.
+
+(11) Regulations under this paragraph are subject to negative resolution procedure.
+
+### Period of effect etc of pause order
+
+**2.**[^key-0258caf8df95114422e73109d8c92467][^key-474a7ab95a61be9756bd0db62e61986c] (1) A pause order must specify the period for which it has effect, which must not exceed three months.
+
+(2) The Pensions Regulator may on one or more occasions by order extend the period for which the pause order has effect for a further three months.
+
+(3) A pause order that is in effect at the end of the triggering event period ceases to have effect at the end of that period.
+
+### Validation of action in contravention of pause order
+
+**3.**[^key-a403840573b36c1e652a1cb3a564d43a][^key-3d81a90479d2e3e859cec69450c6a62d] (1) If a pause order is made in relation to a Master Trust scheme, the Pensions Regulator may by order validate action taken in contravention of the order.
+
+(2) Any of the following persons may apply to the Regulator for an order under this paragraph validating particular action—
+
+- (a) the trustees of the scheme;
+- (b) any person directly affected by the action.
+
+### Notification of trustees, scheme funders, scheme strategists, employers and members
+
+**4.**[^key-92266a8bd87260c16bc46f01991be0a3][^key-958c930063aeff8c927b51c9c34f23dd] (1) This paragraph applies where—
+
+- (a) a pause order is made in relation to a Master Trust scheme, or
+- (b) an order is made under paragraph 3 validating action taken in contravention of a pause order made in relation to a scheme.
+
+(2) The Pensions Regulator must, as soon as reasonably practicable after the order has been made, notify the following persons of the fact that the order has been made and of its effect—
+
+- (a) the trustees of the scheme;
+- (b) the scheme funders and scheme strategists.
+
+(3) The Pensions Regulator may by order direct the trustees of the scheme to notify the following persons of the fact that the order has been made and of its effect—
+
+- (a) all of the members of the scheme or such members as are specified in the order;
+- (b) all employers by which the scheme is used, or such employers as are specified in the order.
+
+(4) The trustees must give a notification under sub-paragraph (3) within the period and in the manner specified in the order under that sub-paragraph.
+
+(5) If the trustees of a scheme fail to comply with a direction to them contained in an order made under sub-paragraph (3), section 10 of the Pensions Act 1995 (civil penalties) applies to any trustee who has failed to take all reasonable steps to secure compliance.
+
+### Supplementary provision
+
+**5.**[^key-7ae98a548d1f5f5c7617e9b8a5bb06d6][^key-f69be7f080c1760ee4b0a6c638bc54b4] (1) A pause order, or an order made under any of paragraphs 2, 3 or 4, may be made in relation to a Master Trust scheme—
+
+- (a) in spite of any enactment or rule of law, or any rule of the scheme, which would otherwise operate to prevent the order being made, and
+- (b) without regard to any such enactment, rule of law or rule of the scheme as would otherwise require, or might otherwise be taken to require, the implementation of any procedure or the obtaining of any consent, with a view to making the order.
+
+(2) Sub-paragraph (1) does not have effect to authorise the Pensions Regulator to make an order as mentioned in that sub-paragraph if its doing so would be unlawful as a result of section 6(1) of the Human Rights Act 1998 (unlawful for public authority to act in contravention of a Convention right).
+
+## SCHEDULE 2 — Master Trusts operating before commencement: transitional provision
+
+Section 37
+
+### Overview of Schedule
+
+**1.** (1) This Schedule modifies the application of Part 1 as it applies in relation to existing Master Trust schemes.
+
+(2) The modifications in paragraphs 2 to 7 have effect from the date on which this Act is passed.
+
+(3) The modifications in paragraphs 8 to 15 have effect from the commencement date.
+
+(4) In this Schedule—
+
+- the “**commencement date**” means the date on which section 3 (prohibition on operating scheme unless authorised) comes into force;
+- “**existing Master Trust scheme**” means a Master Trust scheme in operation before the commencement date.
+
+### Modifications having effect from the date on which this Act is passed
+
+**2.** Section 20 (triggering event: duties of trustees) has effect as if—
+
+- (a) the existing text were numbered subsection (1);
+- (b) before that subsection there were inserted—
+
+  > (A1) If a triggering event occurs in relation to an existing Master Trust scheme on or after 20 October 2016 but before the commencement date, the trustees must comply with the notification requirements applicable to them (see sections 22 and 25).
+
+  ;
+- (c) in subsection (1), for “a Master Trust scheme” there were substituted “ an existing Master Trust scheme on or after the commencement date ”.
+
+**3.** Section 21 (triggering events) has effect as if, in subsection (5)(b) after “resolved” there were inserted “ , or, in a case where the Regulator is satisfied that the triggering event was resolved before the date on which this Act is passed, the date specified in that notification ”.
+
+**4.** Section 22 (notification requirements) has effect as if—
+
+- (a) for subsection (7) there were substituted—
+
+  > (7) A notification under this section must be given—
+  >
+  > - (a) in a case where the triggering event occurs on or after 20 October 2016 but before the commencement date, before the end of the period of seven days beginning with the date on which the triggering event occurred;
+  > - (b) in a case where the triggering event occurs on or after the commencement date, before the end of the period specified in regulations made by the Secretary of State.
+
+  ;
+- (b) in subsection (10), at the end there were inserted “including in the period between 20 October 2016 and the date on which this Act is passed”.
+
+**5.** Section 25 (continuity option 2: resolving triggering event) has effect as if—
+
+- (a) for subsections (1) and (2) there were substituted—
+
+  > (1) Where—
+  >
+  > - (a) a triggering event occurs in relation to an existing Master Trust scheme on or after 20 October 2016 but before the commencement date, and
+  > - (b) the trustees consider that the triggering event has been resolved,
+  >
+  > the trustees must notify the Pensions Regulator that they consider that the triggering event has been resolved.
+  >
+  > (2) Where—
+  >
+  > - (a) a triggering event occurs in relation to an existing Master Trust scheme on or after the commencement date, and
+  > - (b) the trustees decide to pursue continuity option 2,
+  >
+  > the trustees must attempt to resolve the triggering event and must notify the Pensions Regulator when they consider that the triggering event has been resolved.
+
+  ;
+- (b) in subsection (3), for “The notification” there were substituted “ A notification under subsection (1) or (2) ”;
+- (c) for subsection (4) there were substituted—
+
+  > (4) The notification must be given—
+  >
+  > - (a) in a case where the trustees consider that the triggering event was resolved before the date on which this Act is passed, before the end of the period of 14 days beginning with that date (but the trustees may notify the Regulator before that date);
+  > - (b) in a case where the trustees consider that the triggering event was resolved on or after the date on which this Act is passed but before the commencement date, before the end of the period of 14 days beginning with the date on which the triggering event was, in the opinion of the trustees, resolved;
+  > - (c) in a case where the triggering event occurred before the commencement date and the trustees consider that it was resolved on or after that date, before the end of the period of 14 days beginning with the date on which the triggering event was, in the opinion of the trustees, resolved;
+  > - (d) in a case where the triggering event occurred on or after the commencement date, before the end of the period specified in regulations made by the Secretary of State.
+
+  ;
+- (d) in subsection (5) at the end there were inserted “and, in a case where the Regulator is satisfied that the triggering event was resolved before the date on which this Act is passed, must specify in the notification the date on which the Regulator considers that the triggering event was resolved.
+
+**6.** Section 33 (prohibition on increasing charges etc during triggering event period) has effect as if—
+
+- (a) at the beginning there were inserted—
+
+  > (A1) Subsections (B1) and (C1) apply where a triggering event occurs in relation to an existing Master Trust scheme on or after 20 October 2016 but before the commencement date.
+  >
+  > (B1) The trustees must, before the end of the period of seven days beginning with the date on which the triggering event occurred, provide the Pensions Regulator with a statement under subsection (1F).
+  >
+  > (C1) The trustees must not, during the triggering event period—
+  >
+  > - (a) impose any administration charges on or in respect of members at levels above those set out in the statement under subsection (1F),
+  > - (b) impose any new administration charges on or in respect of members, or
+  > - (c) impose any administration charges on or in respect of a member in consequence of the member leaving, or deciding to leave, the scheme during the triggering event period.
+
+  ;
+- (b) in subsection (1), for “a Master Trust scheme” there were substituted “ an existing Master Trust scheme, where the triggering event occurred on or after the commencement date, ”;
+- (c) after that subsection, there were inserted—
+
+  > (1A) Subsections (1B) to (1E) have effect where—
+  >
+  > - (a) a triggering event occurs in relation to an existing Master Trust scheme on or after 20 October 2016 but before the commencement date, and
+  > - (b) the accrued rights of members of that scheme (the “transferring scheme”) have been transferred to one or more other Master Trust schemes under section 73(2)(a) of the Pensions Act 1993 (a “receiving scheme”).
+  >
+  > (1B) The trustees of a receiving scheme must provide the Pensions Regulator with a statement under subsection (1F) and a statement under subsection (1G).
+  >
+  > (1C) In a case where the accrued rights are transferred before the date on which this Act is passed, the statements must be provided to the Pensions Regulator before the end of the period of seven days beginning with the date on which this Act is passed.
+  >
+  > (1D) In a case where the accrued rights are transferred on or after the date on which this Act is passed but before the commencement date, the statements must be provided to the Pensions Regulator before the end of the period of seven days beginning with the date on which the rights are transferred.
+  >
+  > (1E) The trustees of a receiving scheme must not—
+  >
+  > - (a) impose any administration charges on or in respect of members at levels above those set out in the statement under subsection (1F), or
+  > - (b) impose any new administration charges on or in respect of members,
+  >
+  > for the purposes of meeting any of the costs mentioned in subsection (3).
+  >
+  > (1F) A statement under this subsection must state the annual levels of administration charges that applied in relation to members of the scheme on 20 October 2016, for each arrangement or fund within the scheme.
+  >
+  > (1G) A statement under this subsection is a statement explaining how the receiving scheme has complied with subsection (1E), and must include—
+  >
+  > - (a) an explanation of whether the receiving scheme is liable for the costs mentioned in subsection (3)(a) or (b), and
+  > - (b) in a case where the receiving scheme is so liable, how it is to meet those costs.
+
+  ;
+- (d) in subsection (2), at the beginning there were inserted “Where a triggering event occurs in relation to an existing Master Trust scheme on or after the commencement date,”;
+- (e) in subsection (4)(b), after “subsection” there were inserted “ (1E) or ”;
+- (f) in subsection (7)—
+  - (i) for “subsection (1)” there were substituted “ subsection (B1), (C1), (1), (1B), (1E) ”;
+  - (ii) at the end there were inserted “, including in the period between 20 October 2016 and the date on which this Act is passed”;
+- (g) in subsection (8), before the definition of “receiving scheme” there were inserted—
+
+  > “**arrangement**” means an allocation of contributions towards an investment or investments according to a strategy adopted by the trustees;
+
+  ;
+- (h) in that subsection—
+  - (i) in the definition of “receiving scheme”, before “means” there were inserted “, other than in subsections (1A), (1B) and (1E), and subsection (3) as it applies to subsection (1E),”;
+  - (ii) in the definition of “transferring scheme”, before “means” there were inserted “, other than in subsection (1A), and subsection (3) as it applies to subsection (1E),”.
+
+**7.** Part 1 applies in relation to an existing Master Trust scheme as if after section 33 there were inserted—
+
+> **33A. Existing unauthorised schemes: liability for costs of winding up**
+>
+> (1) This section applies where—
+>
+> - (a) a triggering event occurs on or after 20 October 2016 in relation to an existing Master Trust scheme that has not been authorised when the event occurs, and
+> - (b) a decision is taken that the scheme should be wound up, or the trustees are required to secure that the scheme is wound up.
+>
+> (2) A scheme funder of the Master Trust scheme is liable for the costs incurred by the scheme during the triggering event period, to the extent that liability for those costs does not lie elsewhere (taking into account, in particular, the prohibitions in section 33).
+
+### Modifications having effect from the commencement date
+
+**8.**[^key-8eb3af03237fe9f776c730e70fd0952d][^key-df8311ab420e74b2b5b7043605842ca0] Section 3 (prohibition on operating a Master Trust scheme unless authorised) has effect as if for the existing text there were substituted—
+
+> **3. Existing Master Trust schemes: need for authorisation**
+>
+> (1) A person may not operate an existing Master Trust scheme at any time after the end of the application period unless—
+>
+> - (a) the scheme is authorised, or
+> - (b) the trustees have applied for authorisation of the scheme under section 4 and the decision on the application has not yet become final (see section 35).
+>
+> (2) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who breaches subsection (1).
+>
+> (3) The trustees of an existing Master Trust scheme must, before the end of the application period—
+>
+> - (a) apply for authorisation of the scheme under section 4, or
+> - (b) decide to wind up the scheme.
+>
+> For the consequences of a decision to wind up the scheme, see sections 20 to 33A (as modified by paragraphs 2 to 7 of Schedule 2).
+>
+> (4) If—
+>
+> - (a) the Pensions Regulator becomes aware that an existing Master Trust scheme is operating after the end of the application period without authorisation, and
+> - (b) the Regulator has not received either—
+>   - (i) an application for authorisation, or
+>   - (ii) a notification under section 22 of a decision to wind up the scheme,
+>
+> the Regulator must notify the trustees of the scheme that it is not authorised.
+>
+> (5) A notification under subsection (4) must include an explanation that it is a triggering event for the purposes of sections 20 to 33A, and of the trustees' duties under those sections.
+>
+> (6) The application period is the period of six months beginning with the commencement date.
+>
+> (7) But if, before the end of that six month period, the trustees satisfy the Pensions Regulator that they have a good reason for needing an extension to the period, the Regulator may extend the application period by up to six weeks.
+>
+> (8) For the purposes of this Part, a person “operates” a Master Trust scheme if the person—
+>
+> - (a) accepts money from members or employers (or prospective members or employers), in respect of fees, charges, contributions or otherwise, in relation to the scheme, or
+> - (b) enters into an agreement with an employer that relates to the provision of pension savings for employees or other workers,
+>
+> and references to a scheme that is “operating” or “in operation” are to be construed accordingly.
+>
+> **3A. Existing Master Trust schemes: pause orders**
+>
+> (1) This section applies where the trustees of an existing Master Trust scheme have applied for authorisation of the scheme under section 4 and the decision on the application has not yet become final (see section 35).
+>
+> (2) The Pensions Regulator may make a pause order in relation to the scheme if it is satisfied that—
+>
+> - (a) there is, or is likely to be if a pause order is not made, an immediate risk to the interests of members under the scheme or the assets of the scheme, and
+> - (b) it is necessary to make a pause order to protect the interests of the generality of members of the scheme.
+>
+> (3) A pause order under this section is to be treated as if it is made under section 31.
+>
+> (4) But in its application to a pause order under this section, paragraph 2 of Schedule 1 is to be read as if sub-paragraph (3) were omitted.
+
+**9.**[^key-0051006e89bbdb666d84f9f7b4b4e97e][^key-f8d7054f47df8cc2edf038f1abff03e8] Section 5 (decision on application) has effect as if at the end there were inserted—
+
+> (7) In the case of a notification under subsection (5) relating to an existing Master Trust scheme, the notification must also include an explanation that the decision is a triggering event for the purposes of sections 20 to 33A, and of the trustees' duties under those sections.
+>
+> (8) In relation to an application received under section 4 from the trustees of an existing Master Trust scheme, the functions of the Regulator under this section are to be exercised by the Determinations Panel on behalf of the Regulator.
+>
+> (9) In subsection (8), “**the Determinations Panel**” means the committee established under section 9 of the Pensions Act 2004.
+
+**10.**[^key-caa75145e6734ac2a18f4116d73c3887][^key-9f12cec6612b8bbac16d23a04e1c1959] Section 21 (triggering events) has effect as if—
+
+- (a) in subsection (2)—
+  - (i) after “2” there were inserted “ , 2A ”;
+  - (ii) after “withdraw” there were inserted “ or refuse ”;
+- (b) in subsection (5)(c)—
+  - (i) after “2” there were inserted “ or 2A ”;
+  - (ii) after “withdraw” there were inserted “ or refuse ”;
+  - (iii) after “withdrawn” there were inserted “ or refused ”;
+- (c) in the table in subsection (6), after the row for item 2 there were inserted—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 2A. | The Pensions Regulator notifies the trustees of an existing Master Trust scheme of the Regulator's decision to refuse to grant the scheme authorisation. | The date on which the notification is given. |
+
+  ;
+- (d) in that table, in the triggering event described in item 3, for “3(3)” there were substituted “ 3(4) ”.
+
+**11.**[^key-8519e2f76ad460531b92ef498dbad95d][^key-666dba6a7cf4980c5b5b1950bbf7cf94] Section 23 (continuity options) has effect as if—
+
+- (a) in subsection (2)(a)—
+  - (i) after “2” there were inserted “ or 2A ”;
+  - (ii) after “withdraw” there were inserted “ or refuse ”;
+- (b) in subsection (3)(a), after “2” there were inserted “ , 2A ”.
+
+**12.**[^key-7d1a1dd10891fd090a26a8dc70a1f459][^key-9211bcc7a337e8fd4532f98705cd3fad] Section 26 (approval of implementation strategy) has effect as if—
+
+- (a) in subsection (2)—
+  - (i) after “2” there were inserted “ or 2A ”;
+  - (ii) after “withdraw” there were inserted “ or refuse ”;
+- (b) in subsection (3), after “2” there were inserted “ , 2A ”.
+
+**13.**[^key-ca855887ed8df4892f3c11fdfe3a2360][^key-2c26bbc98378e7ce62f5db6d97bd7ac5] Section 28 (duty to pursue continuity option) has effect as if, in subsection (3)(a), after “2” there were inserted “ , 2A ”.
+
+**14.**[^key-e6b47af1d2f3742943988ac6d813c025][^key-c784b88796077af55592753cf86ce3f2] Section 34 (when it becomes clear that authorisation is not to be withdrawn) has effect as if—
+
+- (a) in subsection (1)—
+  - (i) after “2” there were inserted “ or 2A ”;
+  - (ii) after “withdrawn” there were inserted “ or refused ”;
+- (b) in the table in subsection (3), in the first column (triggering event) for “Item 1 or 2” (in both places) there were substituted “ Item 1 or 2 or 2A (decision to refuse to authorise existing Master Trust scheme) ”;
+- (c) in that table, in the first row for item 1 or 2 or 2A, in the second column (circumstances)—
+  - (i) in point 1, after “determination” there were inserted “ or decision ”;
+  - (ii) in point 2, after “withdrawn” there were inserted “ or refused ”;
+- (d) in that table, in the second row for item 1 or 2 or 2A, in the second column (circumstances), in point 2, after “withdrawn” there were inserted “ or refused ”;
+- (e) in subsection (4), at the end there were inserted—
+
+  > - (c) section 6(2), in a case where that section applies.
+
+  ;
+- (f) in the section heading, at the end there were inserted “or refused”.
+
+**15.**[^key-b306d05a793e5423208691b32f5cccf5][^key-aa6b28ad960514aab1f9e8c420620eb8] Section 35 (when decision to withdraw authorisation becomes final) has effect as if—
+
+- (a) in subsection (1)—
+  - (i) after “2” there were inserted “ or 2A ”;
+  - (ii) after “withdraw” there were inserted “ or refuse ”;
+- (b) after subsection (1) there were inserted—
+
+  > (1A) This section also applies for the purposes of determining the date on which the decision on an application for authorisation of an existing Master Trust scheme becomes final for the purposes of section 3(1)(b).
+
+  ;
+- (c) in the table in subsection (3), after the row for item 2 there were inserted—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Item 2A (notification of decision to refuse to grant authorisation to existing Master Trust scheme) | - 1 The Pensions Regulator decides to refuse to grant authorisation to an existing Master Trust scheme, and<br>- 2 there is no referral of the Regulator's decision to the Tribunal within the time period allowed for doing so. | The date of the Regulator's decision. |
+
+  ;
+- (d) in that table—
+  - (i) in the first column, for “Item 1 or 2” (in both places) there were substituted “ Item 1 or 2 or 2A ”;
+  - (ii) in the first row for item 1 or 2 or 2A, in the second column, in point 2, after “withdrawn” there were inserted “ or refused ”;
+  - (iii) in the second row for item 1 or 2 or 2A, in the second column, in point 2, after “withdrawn” there were inserted “ or refused ”;
+- (e) in subsection (4), at the end there were inserted—
+
+  > - (c) section 6(2), in a case where that section applies.
+
+  ;
+- (f) in the section heading, after “withdraw” there were inserted “ or refuse ”.
+
+## SCHEDULE 3 — Minor and consequential amendments
+
+Section 38
+
+### Pension Schemes Act 1993 (c. 48)
+
+**1.** The Pension Schemes Act 1993 is amended as follows.
+
+**2.** In section 100B(2) (meaning of “scheme rules”: occupational pension schemes)—
+
+- (a) in paragraph (a), at the end insert—
+
+  > - (xiv) sections 21, 23, 26, 28, 29 and 33 of and Schedule 1 to the Pension Schemes Act 2017;
+
+  ;
+- (b) in paragraph (b), at the end insert—
+
+  > - (xi) sections 21(7), 23(7), 26(9), 28(6), 29(2) and 33(5) of and paragraph 1(7) of Schedule 1 to the Pension Schemes Act 2017.
+
+**3.** In section 101AI(8) (rights under section 101AB: further provision)—
+
+- (a) in paragraph (a), at the end insert—
+
+  > - (xii) sections 21, 23, 26, 28, 29 and 33 of and Schedule 1 to the Pension Schemes Act 2017;
+
+  ;
+- (b) in paragraph (b), at the end insert—
+
+  > - (x) sections 21(7), 23(7), 26(9), 28(6), 29(2) and 33(5) of and paragraph 1(7) of Schedule 1 to the Pension Schemes Act 2017.
+
+### Pensions Act 1995 (c. 26)
+
+**4.** In section 67A(9) of the Pensions Act 1995 (subsisting rights provisions: meaning of “scheme rules”)—
+
+- (a) in paragraph (a), at the end insert—
+
+  > - (xiii) sections 21, 23, 26, 28, 29 and 33 of and Schedule 1 to the Pension Schemes Act 2017;
+
+  ;
+- (b) in paragraph (b), at the end insert—
+
+  > - (xi) sections 21(7), 23(7), 26(9), 28(6), 29(2) and 33(5) of and paragraph 1(7) of Schedule 1 to the Pension Schemes Act 2017.
+
+### Pensions Act 2004 (c. 35)
+
+**5.** The Pensions Act 2004 is amended as follows.
+
+**6.**[^key-8c62907914f19cac6da75fba63fcfefd][^key-024944b6d22c0fa6acf4ada07db48846] In section 13 (improvement notices), in subsection (7) (meaning of “pensions legislation”)—
+
+- (a) in the opening words, after “by virtue of” insert “ any of the following ”;
+- (b) omit the “or” at the end of paragraph (f);
+- (c) after paragraph (g) insert—
+
+  > - (h) Part 1 of the Pension Schemes Act 2017.
+
+**7.**[^key-5921132bdc4321ed06fd5595172c8799][^key-08799d2390e60b2bae18e41b9e8310b6] In section 70 (duty to report breaches of the law), in subsection (1), at the end insert—
+
+> - (f) a scheme strategist or scheme funder of a Master Trust scheme within the meaning of Part 1 of the Pension Schemes Act 2017 (see section 39 of that Act).
+
+**8.**[^c22725711][^key-cf896935e2574a3cbd948eae7513fe95][^key-209b77a577d40f23d5d422a46d3f9de1] In section 72 (provision of information), in subsection (1A), after “2008” insert “ or Part 1 of the Pension Schemes Act 2017 ”.
+
+**9.**[^key-8b22f122d94395229d4467f2e0fc1b7e] (1) Section 90 (codes of practice) is amended as follows.
+
+(2) In subsection (2) (matters on which the Pensions Regulator must issue codes of practice), after paragraph (j) insert—
+
+> - (ja) the process for making an application for authorisation of a Master Trust scheme under Part 1 of the Pension Schemes Act 2017;
+> - (jb) the matters that the Pensions Regulator expects to take into account in deciding whether it is satisfied that a Master Trust scheme meets the authorisation criteria under that Part (see section 5 of the Pension Schemes Act 2017);
+
+.
+
+(3) In subsection (6), in the definition of “the pensions legislation”—
+
+- (a) omit the “or” at the end of paragraph (e), and
+- (b) after paragraph (f) insert
+
+  > , or
+  >
+  > - (g) the Pension Schemes Act 2017.
+
+**10.**[^key-eb9bf26f4a2a2a6ab1e22ad82761c993][^key-1d05d7c6d78ad1a6a72cc443c2736622] In section 93(2) (“regulatory functions” of the Regulator subject to procedure), omit the “and” at the end of paragraph (p) and after that paragraph insert—
+
+> - (pa) the power to give a direction under section 26(7) of the Pension Schemes Act 2017 (direction to submit implementation strategy), and
+
+.
+
+**11.**[^key-2a1e3a1b2514242da74bfcaa0ea0100f][^key-618a3354b85b6fe60e6b763a55de8a9a] In section 97(5) (special procedure: applicable cases), after paragraph (ta) insert—
+
+> - (tb) the power to withdraw authorisation of a Master Trust scheme under section 19 of the Pension Schemes Act 2017;
+> - (tc) the power to make a pause order under section 31 of that Act;
+> - (td) the power to make an order under paragraph 2(2) of Schedule 1 to that Act extending the period for which a pause order has effect;
+> - (te) the power to make an order under paragraph 3 of that Schedule validating action taken in contravention of a pause order;
+> - (tf) the power to make an order under paragraph 4(3) of that Schedule directing the notification of members or employers;
+
+.
+
+**12.** In section 318(3) (interpretation: scheme rules)—
+
+- (a) in paragraph (a), at the end insert—
+
+  > - (xiii) sections 21, 23, 26, 28, 29 and 33 of and Schedule 1 to the Pension Schemes Act 2017;
+
+  ;
+- (b) in paragraph (b), at the end insert—
+
+  > - (xi) sections 21(7), 23(7), 26(9), 28(6), 29(2) and 33(5) of and paragraph 1(7) of Schedule 1 to the Pension Schemes Act 2017.
+
+**13.**[^key-a1a86f74c0aab73b5cac6775e4b3f84e][^key-0e0d809c21b3d70d700ed158f009d365] In Schedule 2 (functions exercisable by the Determinations Panel), after Part 4 insert—
+
+> **Part 4A — Functions under the Pension Schemes Act 2017**
+>
+> **44A.** The power to withdraw authorisation of a Master Trust scheme under section 19.
+>
+> **44B.** The power to give a direction under section 28(4) (direction to pursue continuity option).
+>
+> **44C.** The power to make a pause order under section 31.
+>
+> **44D.** The power to make an order under paragraph 2(2) of Schedule 1 extending the period for which a pause order has effect.
+>
+> **44E.** The power to make an order under paragraph 3 of that Schedule validating action taken in contravention of a pause order.
+>
+> **44F.** The power to make an order under paragraph 4(3) of that Schedule directing the notification of members or employers.
+>
+> **44G.** Terms used in this Part have the same meaning as in Part 1 of the Pension Schemes Act 2017.
+
+### Pensions Act 2008 (c. 30)
+
+**14.**[^key-624ac21c2f76eb880f7dd06087938833][^key-f666cc0b064978a08cc0c5d508fdde93] In section 31 of the Pensions Act 2008 (effect of freezing order or assessment period: qualifying schemes)—
+
+- (a) in subsection (3), in the definition of “freezing event”, after paragraph (b) insert
+
+  > , or
+  >
+  > - (c) the making of a pause order under section 31 of the Pension Schemes Act 2017;
+
+  ;
+- (b) in subsection (3), in the definition of “relevant provision”, after paragraph (b) insert—
+
+  > - (c) in relation to a pause order, provision contained in the order or the provision made with respect to the order by section 31 of the Pension Schemes Act 2017.
+
+  ;
+- (c) in the section heading, for “or assessment period” substitute “ , assessment period or pause order ”.
+
+## Annotations
+
+[^key-b34aedb0e4deb6cc8e057632b9b4c895]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/17) excluded in part (18.3.2026) by 2004 c. 12, s. 274ZZA(2) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
+
+[^key-3f1a3d64843f7362bd84c6afdfd1c4e5]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) excluded (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2018/1030/regulation/27)
+
+[^key-7367a14e60ef560c1dd41ab327f0227a]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) excluded (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2018/1030/regulation/26)
+
+[^key-5906e965c107dcc499f8b8a60787e2a1]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/2)
+
+[^key-f1819720851a3deb8c68af20b65646f2]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/4/a)[(b)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/4/b)
+
+[^key-fa7ba3c99fc0daad5e02cb70c986ae75]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1): power to disapply conferred (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/47/3/b), [131(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+
+[^c22725601]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/17/section/1) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/i)
+
+[^key-96ba39d692096ecf579b6908b87d9547]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/17/section/1) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-92da74cdf3aa4af01b8263f888a29d81]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/17/section/1) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-6d85973e08077cf0fec4fca7e046c239]: Textual amendment: Word in [s. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1/c) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/a)
+
+[^key-cad57ab3aee94820a3654619d232a4b3]: Textual amendment: Word in [s. 1(1)(d)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1/d) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/b)
+
+[^key-163313faea8f3cd8036b4fe2089788c5]: Textual amendment: [S. 1(1)(e)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1/e) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/c)
+
+[^key-73a9ae92d447669351de569fdbd1254e]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(d)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/d)
+
+[^key-7f164a31b84ac181d313594056e84a27]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/2) excluded (18.3.2026) by 2004 c. 12, s. 274ZZA(3) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
+
+[^c22725611]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/17/section/2) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/i)
+
+[^key-0ee0cab79a429b20ef62a53758235966]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/17/section/2) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-d78db49681f5620ef2055793413c0d47]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/17/section/2) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-d34e9f0897f1bb7edbf289eda9ab7cb3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/17/section/3) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-bed9e804d92fab32585ab678b73f5631]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/17/section/3) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-61c4e71d5ebd50569ff4ddfa9ccfcd83]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/17/section/4) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-c36ae4ffde30205bfeb9657c7250d01d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/17/section/4) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-2daf132cfa522cd3d0fc89810d0499d5]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/17/section/5) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-7c25a883a4cf73ede9d082cd04f10b0a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/17/section/5) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-42b277fa4f67f7a3aa5689499ceadf81]: Textual amendment: Word in [s. 5(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/5/3) omitted (29.4.2026 for specified purposes) by virtue of [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 41(7)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/41/7/a), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c/ii)
+
+[^key-29cfee2ea393045d3eec7ebfc14c2d52]: Textual amendment: [S. 5(3)(f)](https://www.legislation.gov.uk/ukpga/2017/17/section/5/3/f)[(g)](https://www.legislation.gov.uk/ukpga/2017/17/section/5/3/g) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 41(7)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/41/7/b), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c/ii)
+
+[^key-ac59e8c9b4ad2703a16201c9e12210ff]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/17/section/6) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-f47db79923dfc1dcf922660c1a0265b1]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/17/section/6) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-4c85e66d0bb814f11dc2c03f92887f80]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/17/section/7) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-4f7ea2f769c2843916b9ff2a4d11c350]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/17/section/7) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-1e4445d8d3607d2cedf899cfe40771b5]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/17/section/8) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-f03258f0f2c41915539323cba98606f2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/17/section/8) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-c410533e54f6b83ea8484d1536d87446]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/17/section/9) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-c63a5bf1601c269e0fc36e5fdc14a474]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/17/section/9) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-084a66f5b953b5798660121e18caf3f6]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/17/section/10) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-c0804ef26ea442cb7aab0821931bdb49]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/17/section/10) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-bae2442f0962ec3bc5d657a882bbee89]: Modification: [S. 10(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/10/3) restricted (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/1030/regulation/8)
+
+[^key-280f5aba75b7eea6ea7e2528ffe32689]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/17/section/11) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-c7b9d4381a636a4e57fce647909a9436]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/17/section/11) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-3656710fa67b3ff42f54492430e8e6b0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/17/section/12) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-e51ea6ccf59da41a2a11929c234c73cf]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/17/section/12) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-f8424e10e968d021c58d4f0e082a830a]: Textual amendment: [Ss. 12A](https://www.legislation.gov.uk/ukpga/2017/17/section/12A), [12B](https://www.legislation.gov.uk/ukpga/2017/17/section/12B) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 41(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/41/8), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c/ii)
+
+[^key-d49b4cb1366f6ca57ea0e3ca37525c70]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/17/section/13) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-eed9bbd4eb7b7dabff1a58e5f5705f70]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/17/section/13) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-b1966a2721e84cdb677f46a2c4e44451]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/17/section/14) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-a3794a5df8822e6e2561fbf31290fdbb]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/17/section/14) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-be21fe54e22958798828662a11c48524]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/17/section/15) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-50520f42b3e96b90168b36781382e3f7]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/17/section/15) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-47cbae70c8f7aa0aed88eebfa96bce23]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/17/section/16) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-6ecf17d0046626124466c53f717bb9b3]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/17/section/16) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22725621]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/ii)
+
+[^key-ba1cb8d4439772abf9d2f2790de39dcf]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-fdb4b15b06e7164de9279fb69118a069]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-9d13d40aeabae23a2c37fd4e6c104f11]: Textual amendment: Word in [s. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) title inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 19(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/19/2); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^key-df2f5c205d454282e03f79679625a108]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/17/1) substituted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/19/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^key-696e84c3034776861fc66d3554395776]: Textual amendment: [S. 17(1)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/17/1/b) and word inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 19(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/19/3/b); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^c22725631]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/ii)
+
+[^key-3de4f79e7ba8136bf8e739bee5354564]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-89163b96e5ff750ae149f3bce916d10f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-9c3ed43a571d60b4f52c7c6c61b5e6f8]: Textual amendment: Word in [s. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) title inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/2); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^key-f7e43cba4fdf2757acaf5e2000978b6a]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/1) substituted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^key-1255d88b3e5f6ccbd848082c4a793a5d]: Textual amendment: [S. 18(1)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/1/b) and word inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/3/b); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^key-4feeaff8ced5a57fa8e7f27a0bd0b32a]: Textual amendment: Words in [s. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/2/a) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(4)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/4); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^key-bbdd60b72959bf434793148b0c6deada]: Textual amendment: Words in [s. 18(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/3) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(5)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/5); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^key-084eb196334224c3739c9f9445718738]: Textual amendment: Words in [s. 18(6)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/6/b) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(6)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/6/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^key-36d41dbbd27962469320e6c51fc28063]: Textual amendment: Words in [s. 18(6)(e)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/6/e) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(6)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/6/b); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+
+[^key-a4006f002ae1b29c3b4c9d752c2dbf55]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/17/section/19) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-c1ba306c3484dc1d5632159999c6b360]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/17/section/19) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22725651]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/17/section/20) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
+
+[^key-7cc7ab786da9cc6cef6cd916b1409f3d]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/17/section/20) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-68a2a6f782b326c4269be6353e4d42cd]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/17/section/20) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22725661]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/17/section/21) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
+
+[^key-aff356793aace89435d94b154b0ae1d5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/17/section/21) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-6f59692deeca44682ef82b7bffb9273a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/17/section/21) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22725671]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/17/section/22) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
+
+[^key-42b33eeb5f42ef7888c539c8f3dc55d9]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/17/section/22) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-4666d3d0bd737cf6cc9fb28762071ce0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/17/section/22) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-898a1eb5d9fa3aa086cd9a3ae4412b8e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/17/section/23) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-7768b1d86179c77e7fe4ea1f056dca90]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/17/section/23) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-f41c195e608e9ac7ed47fb67c5527b9a]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/17/section/24) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-5f9ec584387ad5f893d7ae91a5647132]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/17/section/24) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22725681]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/17/section/25) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
+
+[^key-f56ffece86cc335b2c476ec2923d66c4]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/17/section/25) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-ed7d12f7a02e58a670ffdd3ef705af44]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/17/section/25) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-3a8c95313a671b773ea52d90b31f0f34]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/17/section/26) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-0e78f181d2e4d922eb2db9b4f4bb9ed7]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/17/section/26) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-13e2d45e82b3bd0d3e23ac1623a139b7]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/17/section/27) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-7734ed4aafb8e153736bc9be86ee9c32]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/17/section/27) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-157c3933239f7f6cd48abed5fef345cd]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/17/section/28) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-184728ef41e33b5d91116dac0549fd86]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/17/section/28) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-e8656f3711410f201048745b5485eb1b]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/17/section/29) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-4779049b337419136341615ea353dfcb]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/17/section/29) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-da0293de0f97ba90876b79ff096c6261]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/17/section/30) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-2e6517938985f095554efa0139a2dfac]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/17/section/30) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-6962e402c72a28ce50e868bd3dd0a8fc]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/17/section/31) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-d6d36e0c7377624a0f07382f820a5a03]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/17/section/31) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-2688ae393964c6930ff9199abca09de0]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/17/section/32) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-e43d0451f67d9e04b1c4cab9c4b3456c]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/17/section/32) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22725691]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/17/section/33) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
+
+[^key-b0dce105fa3114014061ae22379c9d6f]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/17/section/33) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-8e5bd46e2236fcab80f62fe25c650f39]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/17/section/33) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-b116f9710707294e05f62721764e88f8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/17/section/34) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-f9d054f0ff9757fc0a2d9f944c3f10a7]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/17/section/34) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-7ef48e4014c0223b8c3a053a7195543f]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/17/section/35) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-c9aaa276d6d2fbbfac1c734cc7a31d5c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/17/section/35) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-ca913db1029d12ee8055f0366619a5c3]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/17/section/36) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-14517800d6e2632b483fbb5a960f9a6b]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/17/section/36) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22725051]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/17/section/37) in force at Royal Assent for specified purposes, see [s. 44(1)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/b)
+
+[^key-776b3ffe6457b3cc9730cef046a9b32c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/17/section/37) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-d9ba2a3743063ed5c2e57e9a6b3b1674]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/17/section/37) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22725721]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/17/section/38) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iv)(c)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iv/c)
+
+[^key-ffa63bac73e17ef141d60206e95f5c07]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/17/section/38) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-8983fda4cd1443d6c9ab03da98416072]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/17/section/38) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22726271]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/17/section/39) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(v)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/v)
+
+[^key-d793cbc93721cb78edffe54ecb19e792]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/17/section/39) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-ea8f36a005ddd3a6eaaa181421f1b5a7]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/17/section/39) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-51da660ec9b081bd24032319f5f7f6fc]: Textual amendment: Words in [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/39/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/3/a/i)
+
+[^key-01cbf4f60e057850ddb6ab7ac94bbeb3]: Textual amendment: Words in [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/39/1) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/3/a/ii)
+
+[^key-647ecc11df5bcca148d8e1254252bc89]: Textual amendment: [S. 39(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2017/17/section/39/4A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(3)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/3/b)
+
+[^key-b3d24f3024715e69ffedd2c6972202bf]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/17/section/40) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-533b5786fbc05a2b9b441e8dc7fc3ae8]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/17/section/40) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-0f8883a622b1405a3337735ac7a44ce5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/1) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-ba9e9d43e4fac6ae9f38dd8ee7e942f1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/1) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-0258caf8df95114422e73109d8c92467]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/2) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-474a7ab95a61be9756bd0db62e61986c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/2) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-a403840573b36c1e652a1cb3a564d43a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/3) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-3d81a90479d2e3e859cec69450c6a62d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/3) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-92266a8bd87260c16bc46f01991be0a3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/4) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-958c930063aeff8c927b51c9c34f23dd]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/4) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-7ae98a548d1f5f5c7617e9b8a5bb06d6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/5) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-f69be7f080c1760ee4b0a6c638bc54b4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/5) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-8eb3af03237fe9f776c730e70fd0952d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/8) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-df8311ab420e74b2b5b7043605842ca0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/8) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-0051006e89bbdb666d84f9f7b4b4e97e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/9) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-f8d7054f47df8cc2edf038f1abff03e8]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/9) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-caa75145e6734ac2a18f4116d73c3887]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/10) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-9f12cec6612b8bbac16d23a04e1c1959]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/10) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-8519e2f76ad460531b92ef498dbad95d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/11) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-666dba6a7cf4980c5b5b1950bbf7cf94]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/11) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-7d1a1dd10891fd090a26a8dc70a1f459]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/12) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-9211bcc7a337e8fd4532f98705cd3fad]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/12) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-ca855887ed8df4892f3c11fdfe3a2360]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/13) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-2c26bbc98378e7ce62f5db6d97bd7ac5]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/13) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-e6b47af1d2f3742943988ac6d813c025]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/14) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-c784b88796077af55592753cf86ce3f2]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/14) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-b306d05a793e5423208691b32f5cccf5]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/15) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-aa6b28ad960514aab1f9e8c420620eb8]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/15) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-8c62907914f19cac6da75fba63fcfefd]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/6) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-024944b6d22c0fa6acf4ada07db48846]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/6) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-5921132bdc4321ed06fd5595172c8799]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/7) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-08799d2390e60b2bae18e41b9e8310b6]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/7) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^c22725711]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/8) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iv)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iv)
+
+[^key-cf896935e2574a3cbd948eae7513fe95]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/8) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-209b77a577d40f23d5d422a46d3f9de1]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/8) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-8b22f122d94395229d4467f2e0fc1b7e]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/9) in force at 1.2.2018 by [S.I. 2018/62](https://www.legislation.gov.uk/uksi/2018/62), [reg. 2](https://www.legislation.gov.uk/uksi/2018/62/regulation/2)
+
+[^key-eb9bf26f4a2a2a6ab1e22ad82761c993]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/10) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-1d05d7c6d78ad1a6a72cc443c2736622]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/10) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-2a1e3a1b2514242da74bfcaa0ea0100f]: Commencement: Sch. 3 para. 11 in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-618a3354b85b6fe60e6b763a55de8a9a]: Commencement: Sch. 3 para. 11 in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-a1a86f74c0aab73b5cac6775e4b3f84e]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/13) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-0e0d809c21b3d70d700ed158f009d365]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/13) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+
+[^key-624ac21c2f76eb880f7dd06087938833]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/14) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+
+[^key-f666cc0b064978a08cc0c5d508fdde93]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/14) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)

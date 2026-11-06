@@ -1,0 +1,48 @@
+---
+title: Environment Act 1995, section 1
+act: Environment Act 1995
+section: '1'
+status: revised-with-pending-changes
+text_date: '2026-07-16'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1995/25/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environment Act 1995, section 1
+
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 1. The Environment Agency.[^key-de013a65491ceaeab7cb7d923131252f]
+
+*Extent: E+W+S*
+
+(1) There shall be a body corporate to be known as the Environment Agency or, in Welsh, Asiantaeth yr Amgylchedd (in this Act referred to as “**the Agency**”), for the purpose of carrying out the functions transferred or assigned to it by or under this Act.
+
+(2) The Agency shall consist of not less than eight nor more than fifteen members of whom—
+
+- (a) three shall be appointed by the Minister; and
+- (b) the others shall be appointed by the Secretary of State.
+
+(3) The Secretary of State shall designate—
+
+- (a) one of the members as the chairman of the Agency, and
+- (b) another of them as the deputy chairman of the Agency.
+
+(4) In appointing a person to be a member of the Agency, the Secretary of State or, as the case may be, the Minister shall have regard to the desirability of appointing a person who has experience of, and has shown capacity in, some matter relevant to the functions of the Agency.
+
+(5) Subject to the provisions of section 38 below, the Agency shall not be regarded—
+
+- (a) as the servant or agent of the Crown, or as enjoying any status, immunity or privilege of the Crown; or
+- (b) by virtue of any connection with the Crown, as exempt from any tax, duty, rate, levy or other charge whatsoever, whether general or local;
+
+and the Agency’s property shall not be regarded as property of, or property held on behalf of, the Crown.
+
+(6) The provisions of Schedule 1 to this Act shall have effect with respect to the Agency.
+
+## Annotations
+
+[^key-de013a65491ceaeab7cb7d923131252f]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1995/25/section/1): transfer of functions (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [5](https://www.legislation.gov.uk/uksi/2013/1821/article/5) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))

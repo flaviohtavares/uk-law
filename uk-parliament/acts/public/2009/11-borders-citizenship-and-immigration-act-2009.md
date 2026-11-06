@@ -1,0 +1,1743 @@
+---
+title: Borders, Citizenship and Immigration Act 2009
+id: ukpga/2009/11
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2009-07-21'
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/11
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2009/11/pdfs/ukpgaen_20090011_en.pdf
+- http://www.legislation.gov.uk/ukpga/2009/11/pdfs/ukpga_20090011_en.pdf
+- http://www.legislation.gov.uk/ukpga/2009/11/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Borders, Citizenship and Immigration Act 2009
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Borders, Citizenship and Immigration Act 2009
+
+2009 c. 11
+
+An Act to provide for customs functions to be exercisable by the Secretary of State, the Director of Border Revenue and officials designated by them; to make provision about the use and disclosure of customs information; to make provision for and in connection with the exercise of customs functions and functions relating to immigration, asylum or nationality; to make provision about citizenship and other nationality matters; to make further provision about immigration and asylum; and for connected purposes.
+
+\[21st July 2009\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-3fb839774235d1b8b4f976196b6bdd77][^key-62911b71228bd54348e1eeb527bf2aa8][^key-4a47c5dd209983ff6c7bd3c9d43b37da]
+
+## Part 1 — Border functions
+
+### General customs functions of the Secretary of State
+
+#### 1. General customs functions of the Secretary of State
+
+(1) The functions of the Commissioners for Her Majesty's Revenue and Customs that are exercisable in relation to general customs matters are exercisable by the Secretary of State concurrently with the Commissioners.
+
+(2) For the purposes of this Part, a “general customs matter” is a matter in relation to which the Commissioners, or officers of Revenue and Customs, have functions, other than—
+
+- (a) a matter listed in Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (c. 11),
+- (b) any tax, duty or levy not mentioned in that Schedule,
+- (c) a matter in respect of which functions were transferred to the Commissioners from the Paymaster General under the Transfer of Functions (Office of Her Majesty's Paymaster General) Order 2006 (S.I. 2006/607),
+- (d) the subject matter of [Directive 2015/849/EU](https://www.legislation.gov.uk/eudr/2015/0849)[^key-7fd8ab107b7ca8d7136e9432f2c48498] of the European Parliament and of the Council of 20th May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing (as amended from time to time), and
+- (e) the subject matter of Regulation ([^key-21070d2a14f97f2fcdb428181c1e3e72]EU) 2015/847 of the European Parliament and of the Council of 20th May 2015 on information accompanying transfers of funds (as amended from time to time).
+
+(3) If a function is exercisable by the Commissioners—
+
+- (a) in relation to a general customs matter, and
+- (b) in relation to any other matter,
+
+the function is exercisable by the Secretary of State in relation to the general customs matter only.
+
+(4) So far as is appropriate for the purposes of or in connection with this section, references to the Commissioners for Her Majesty's Revenue and Customs, or to Her Majesty's Revenue and Customs, in an enactment, instrument or document to which this section applies are to be construed as including a reference to the Secretary of State.
+
+(5) References in this section (other than in subsection (8))—
+
+- (a) to functions of the Commissioners are to functions conferred by an enactment to which this section applies;
+- (b) to functions of officers of Revenue and Customs are to functions conferred by an enactment to which section 3 (designation of general customs officials) applies.
+
+(6) This section applies to—
+
+- (a) an enactment passed or made before the end of the session in which this Act is passed,
+- (aa)[^key-f27a8d1929d677f3d9fc874ff82b7f55] sections 98 and 99 of the Energy Act 2013 (HMRC functions in relation to Office for Nuclear Regulation etc.), and
+- (b) an instrument or document issued before the passing of this Act.
+
+(7) This includes—
+
+- (a) section 5(2)(b) of the Commissioners for Revenue and Customs Act 2005 (c. 11) (Commissioners' initial functions),
+- (b) section 9 of that Act (ancillary powers),
+- (c) section 25A(2) of that Act (certificates of debt),
+- (d) section 31 of that Act (obstruction), and
+- (e) section 33 of that Act (power of arrest) other than in its application to an offence under section 30 of that Act (impersonation),
+
+but does not include any other enactment contained in that Act.
+
+(8) In this Part “**general customs function**” means—
+
+- (a) a function that is exercisable—
+  - (i) by the Secretary of State by virtue of this section, or
+  - (ii) by general customs officials by virtue of section 3,
+- (b) a function that is conferred on general customs officials or the Secretary of State by or by virtue of any of section 23 or[^key-43fbdc32b16036c52fcf18e028888525] 24 (investigations and detention), or
+- (c) a function under assimilated[^key-5e31bd69037e2fb9d3a4fcb0ed26396d][^key-aeee5dfaa4bb5f433b339f9bf933fd19] law that is exercisable by the Secretary of State or general customs officials in relation to a matter—
+  - (i) in relation to which functions under assimilated law are exercisable by the Commissioners or officers of Revenue and Customs, and
+  - (ii) that is not listed in paragraphs (a) to (e) of subsection (2).
+
+#### 2. Power of Secretary of State to modify functions
+
+(1) The Secretary of State may by order—
+
+- (a) amend section 1(2) (matters that are general customs matters) so as to add, modify or remove a matter;
+- (b) amend that section so as to exclude its application in relation to a function of the Commissioners for Her Majesty's Revenue and Customs or to modify or remove a reference to a function previously so excluded;
+- (c) make provision for that section to apply in relation to a function conferred on the Commissioners by an enactment passed or made after the end of the session in which this Act is passed;
+- (d) modify any enactment (including an enactment passed or made after the passing of this Act) in consequence of provision made under any of paragraphs (a) to (c);
+- (e) make provision for a function of the Secretary of State or general customs officials to be treated, or not to be treated, as a general customs function.
+
+(2) The power under subsection (1)(a) may not be exercised to add any of the following to section 1(2)—
+
+- (a) a matter listed in Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (c. 11),
+- (b) value added tax,
+- (c) a customs revenue matter (as to which, see section 7), or
+- (d) a matter listed at section 7(2)(e).
+
+(3) The Secretary of State must consult the Treasury before exercising the power under this section.
+
+### General customs officials
+
+#### 3. Designation of general customs officials
+
+(1) The Secretary of State by whom general customs functions are exercisable may designate—
+
+- (a) an immigration officer, or
+- (b) any other official in that Secretary of State's department,
+
+as a general customs official.
+
+(2) A general customs official—
+
+- (a) has, in relation to a general customs matter, the same functions as an officer of Revenue and Customs would have, and
+- (b) may exercise the functions conferred on the Secretary of State by section 1 (general customs functions of the Secretary of State).
+
+(3) This does not prevent the exercise of the Secretary of State's functions by any other official of the Secretary of State.
+
+(4) If a function within subsection (2) is exercisable—
+
+- (a) in relation to a general customs matter, and
+- (b) in relation to any other matter,
+
+the function is exercisable by a general customs official in relation to the general customs matter only.
+
+(5) So far as is appropriate for the purposes of or in connection with this section, references to an officer of Revenue and Customs, or to Her Majesty's Revenue and Customs, in an enactment, instrument or document to which this section applies are to be construed as including a reference to a general customs official.
+
+(6) References in this section to functions of an officer of Revenue and Customs are to functions conferred by an enactment to which this section applies.
+
+(7) This section applies to—
+
+- (a) an enactment passed or made, or an instrument or document issued, before this Act is passed, and
+- (b) subject to express provision to the contrary, an enactment passed or made, or an instrument or document issued, after this Act is passed.
+
+(8) This includes—
+
+- (a) section 2(4) of the Commissioners for Revenue and Customs Act 2005 (c. 11) (continuation of anything begun by one officer by another),
+- (b) section 6 of that Act (officers' initial functions),
+- (c) section 25(1) and (5) of that Act (conduct of civil proceedings in a magistrates' court or in the sheriff court),
+- (d) section 25A(1) of that Act (certificates of debt),
+- (e) section 31 of that Act (obstruction),
+- (f) section 32 of that Act (assault), and
+- (g) section 33 of that Act (power of arrest) other than in its application to an offence under section 30 of that Act (impersonation),
+
+but does not otherwise include any enactment contained in that Act.
+
+(9) This section has effect subject to—
+
+- (a) any limitation specified in the official's designation under section 4 (supplementary provisions about designation), and
+- (b) any designation of the official under section 11 (designation of customs revenue officials).
+
+#### 4. Designation: supplementary
+
+(1) A designation under section 3 is subject to such limitations as may be specified in the designation.
+
+(2) A limitation specified under subsection (1) may, in particular, relate to—
+
+- (a) the functions that are exercisable by virtue of the designation, or
+- (b) the purposes for which those functions are exercisable.
+
+(3) A designation under section 3—
+
+- (a) may be permanent or for a specified period,
+- (b) may (in either case) be withdrawn, and
+- (c) may be varied.
+
+(4) The power to designate, or to withdraw or vary a designation, is exercised by the Secretary of State giving notice to the official in question.
+
+(5) The Secretary of State may designate an official under section 3 only if the Secretary of State is satisfied that the official—
+
+- (a) is capable of effectively carrying out the functions that are exercisable by virtue of the designation,
+- (b) has received adequate training in respect of the exercise of those functions, and
+- (c) is otherwise a suitable person to exercise those functions.
+
+#### 5. Directions by the Secretary of State
+
+A general customs official must comply with the directions of the Secretary of State in the exercise of general customs functions.
+
+### The Director of Border Revenue
+
+#### 6. The Director of Border Revenue
+
+(1) The Secretary of State must designate an official in the department of the Secretary of State by whom general customs functions are exercisable as the Director of Border Revenue.
+
+(2) Before making a designation under this section, the Secretary of State must obtain the consent of the Treasury to the designation.
+
+#### 7. Customs revenue functions of the Director
+
+(1) The functions of the Commissioners for Her Majesty's Revenue and Customs that are exercisable in relation to customs revenue matters are exercisable by the Director of Border Revenue concurrently with the Commissioners.
+
+(2) For the purposes of this Part, each of the following is a “customs revenue matter”—
+
+- (a)[^key-b268c15b0a2ab96cc5323c76d9761f23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) anti-dumping duty (within the meaning it has in Union customs legislation[^key-2c658fe4c1553a3e4b1cac5f153684bd]);
+- (c) countervailing duty (within the meaning it has in Union customs legislation[^key-96f1c00dd6675dd1edc4fe712fa419c5]);
+- (d) customs duties;
+- (e) duties of excise other than—
+  - (i)[^key-bc07a5b84d303dc398050a4e7de8f004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^key-152173689dace108bfe8cf84202e442a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) gaming duty,
+  - (iv) general betting duty,
+  - (v) lottery duty,
+  - (vi) pool betting duty, [^key-688ea60c1c8519a825b0ab671cd3177d]...
+  - (vii) remote gaming duty; and[^key-651d24fbc246dfcb3c660f0a6faecefb]
+  - (viii) machine games duty;
+- (f) value added tax so far as relating to the export of goods from, or the import of goods into, the United Kingdom.
+
+(3) Subsection (1) does not apply to—
+
+- (a) any function of making, by statutory instrument, any regulations, rules or an order;
+- (b) any function of issuing notices, directions or conditions that relate to value added tax and that apply generally to any person falling within their terms.
+
+(4) If a function is exercisable by the Commissioners—
+
+- (a) in relation to a customs revenue matter, and
+- (b) in relation to any other matter,
+
+the function is exercisable by the Director in relation to the customs revenue matter only.
+
+(5) So far as is appropriate for the purposes of or in connection with this section, references to the Commissioners for Her Majesty's Revenue and Customs, or to Her Majesty's Revenue and Customs, in an enactment, instrument or document to which this section applies are to be construed as including a reference to the Director.
+
+(6) References in this section to functions of the Commissioners are to functions conferred by an enactment to which this section applies.
+
+(7) This section applies to—
+
+- (a) an enactment passed or made before the end of the session in which this Act is passed,
+- (aa)[^key-cabd0ec376436c418b1555e152df6ed3] sections 98 and 99 of the Energy Act 2013 (HMRC functions in relation to Office for Nuclear Regulation etc.), [^key-eec1241b6e2beb24472a09a79ff38d14]...
+- (ab)[^key-4a1d9ba9f9863c3e9692c416ebc92f13] Part 1 and sections 40A and 40B of the Taxation (Cross-border Trade) Act 2018, and
+- (b) an instrument or document issued before the passing of this Act.
+
+(8) This includes—
+
+- (a) section 5(1)(b) and (2)(b) of the Commissioners for Revenue and Customs Act 2005 (c. 11) (Commissioners' initial functions),
+- (b) section 9 of that Act (ancillary powers),
+- (c) section 24(1), (2), (3)(e) and (4) to (7) of that Act (evidence),
+- (d) section 25(1), (1A), (5) and (6) of that Act (conduct of civil proceedings),
+- (e) section 25A(2) of that Act (certificates of debt),
+- (f) section 26 of that Act (rewards),
+- (g) section 31 of that Act (obstruction), and
+- (h) section 33 of that Act (power of arrest) other than in its application to an offence under section 30 of that Act (impersonation),
+
+but does not include any other enactment contained in that Act.
+
+(9) In this Part “**customs revenue function**” means—
+
+- (a) a function that is exercisable—
+  - (i) by the Director by virtue of this section, or
+  - (ii) by customs revenue officials by virtue of section 11,
+- (b) a function that is conferred on customs revenue officials or the Director by or by virtue of any of section 23 or[^key-0b1767d49fa5f5fb39fc5f7e5394002c] 24 (investigations and detention), or
+- (c) a function under assimilated[^key-21245f729be39dccb0207cc9368067d6][^key-fcdea07d8a42c6f2e0cf83444df7a7ef] law, or Union customs legislation, that is exercisable by the Director or customs revenue officials in relation to a customs revenue matter.
+
+(10)[^key-60d3b4dc3b2cdec6329450632e4e20dd] In this section “**Union customs legislation**” has the meaning it has in Part 1 of the Taxation (Cross-border Trade) Act 2018.
+
+#### 8. Power of Treasury to modify Director's functions
+
+The Treasury may by order—
+
+- (a) amend section 7(2) (matters that are customs revenue matters) so as to add, modify or remove a matter;
+- (b) amend section 7(3) (functions to which that section does not apply) so as to add, modify or remove a function;
+- (c) make provision for that section to apply in relation to a function conferred on the Commissioners for Her Majesty's Revenue and Customs by an enactment passed or made after the end of the session in which this Act is passed;
+- (d) modify any enactment (including an enactment passed or made after the passing of this Act) in consequence of provision made under any of paragraphs (a) to (c).
+
+#### 9. Delegation of Director's functions
+
+(1) The Director of Border Revenue may make arrangements to delegate a function of the Director.
+
+(2) The delegation of a function under this section—
+
+- (a) does not prevent the exercise of the function by the Director, and
+- (b) does not prevent the exercise of the function by a customs revenue official (see section 11).
+
+(3) Where the Director delegates a function under this section—
+
+- (a) the Director must monitor the exercise of the function by the person to whom it is delegated, and
+- (b) the person must comply with the directions of the Director in exercising that function.
+
+#### 10. Compliance with directions etc.
+
+(1) This section applies to—
+
+- (a) the Director of Border Revenue in the exercise of the Director's customs revenue functions, and
+- (b) a person to whom such functions are delegated under section 9.
+
+(2) A person to whom this section applies must comply with any directions of a general nature given by the Treasury.
+
+(3) A person to whom this section applies must apply—
+
+- (a) any concession published by the Commissioners for Her Majesty's Revenue and Customs and available generally to any person falling within its terms, and
+- (b) any interpretation of the law issued by the Commissioners (whether or not published).
+
+(4) A person to whom this section applies must also—
+
+- (a) comply with any other guidance issued by the Commissioners (whether or not published), and
+- (b) take account of any other material published by the Commissioners.
+
+### Customs revenue officials
+
+#### 11. Designation of customs revenue officials
+
+(1) The Director of Border Revenue may designate—
+
+- (a) an immigration officer, or
+- (b) any other official in the department of the Secretary of State by whom general customs functions are exercisable,
+
+as a customs revenue official.
+
+(2) A customs revenue official—
+
+- (a) has, in relation to a customs revenue matter, the same functions as an officer of Revenue and Customs would have, and
+- (b) may exercise the functions conferred on the Director by section 7 (customs revenue functions).
+
+(3) If a function within subsection (2) is exercisable—
+
+- (a) in relation to a customs revenue matter, and
+- (b) in relation to any other matter,
+
+the function is exercisable by a customs revenue official in relation to the customs revenue matter only.
+
+(4) So far as is appropriate for the purposes of or in connection with this section, references to an officer of Revenue and Customs, or to Her Majesty's Revenue and Customs, in an enactment, instrument or document to which this section applies are to be construed as including a reference to a customs revenue official.
+
+(5) References in this section to functions of an officer of Revenue and Customs are to functions conferred by an enactment to which this section applies.
+
+(6) This section applies to—
+
+- (a) an enactment passed or made, or an instrument or document issued, before this Act is passed, and
+- (b) subject to express provision to the contrary, an enactment passed or made, or an instrument or document issued, after this Act is passed.
+
+(7) This includes—
+
+- (a) section 2(4) of the Commissioners for Revenue and Customs Act 2005 (c. 11) (continuation of anything begun by one officer by another),
+- (b) section 6 of that Act (officers' initial functions),
+- (c) section 25(1), (1A) and (5) of that Act (conduct of civil proceedings),
+- (d) section 25A(1) of that Act (certificates of debt),
+- (e) section 26 of that Act (rewards),
+- (f) section 31 of that Act (obstruction),
+- (g) section 32 of that Act (assault), and
+- (h) section 33 of that Act (power of arrest) other than in its application to an offence under section 30 of that Act (impersonation),
+
+but does not otherwise include any enactment contained in that Act.
+
+(8) This section has effect subject to—
+
+- (a) any limitation specified in the official's designation under section 12 (supplementary provisions about designation), and
+- (b) any designation of the official under section 3 (designation of general customs officials).
+
+#### 12. Designation: supplementary
+
+(1) A designation under section 11 is subject to such limitations as may be specified in the designation.
+
+(2) A limitation specified under subsection (1) may, in particular, relate to—
+
+- (a) the functions that are exercisable by virtue of the designation, or
+- (b) the purposes for which those functions are exercisable.
+
+(3) A designation under section 11—
+
+- (a) may be permanent or for a specified period,
+- (b) may (in either case) be withdrawn, and
+- (c) may be varied.
+
+(4) The power to designate, or to withdraw or vary a designation, is exercised by the Director of Border Revenue giving notice to the official in question.
+
+(5) The Director may designate an official under section 11 only if the Director is satisfied that the official—
+
+- (a) is capable of effectively carrying out the functions that are exercisable by virtue of the designation,
+- (b) has received adequate training in respect of the exercise of those functions, and
+- (c) is otherwise a suitable person to exercise those functions.
+
+#### 13. Directions by the Director
+
+A customs revenue official must comply with the directions of the Director of Border Revenue in the exercise of customs revenue functions.
+
+### Use and disclosure of information
+
+#### 14. Use and disclosure of customs information
+
+(1) A person to whom this section applies may—
+
+- (a) use customs information acquired by that person in connection with a function exercisable by that person for the purpose of any other function exercisable by that person, and
+- (b) disclose customs information to any other person to whom this section applies for the purpose of a function exercisable by that person.
+
+(2) The persons to whom this section applies are—
+
+- (a) a designated customs official,
+- (b) an immigration officer,
+- (c) the Secretary of State by whom general customs functions are exercisable,
+- (d) any other Minister of the Crown in the department of that Secretary of State,
+- (e) the Director of Border Revenue, and
+- (f) a person acting on behalf of a person mentioned in paragraphs (a) to (e).
+
+(3) This section is subject to any provision that restricts or prohibits the use or disclosure of information and that is contained in—
+
+- (a) this Part,
+- (b) any other enactment, or
+- (c) an international or other agreement to which the United Kingdom or Her Majesty's Government is party.
+
+(4) In subsection (3) the reference to an enactment does not include an enactment contained in, or in an instrument made under—
+
+- (a) an Act of the Scottish Parliament,
+- (b) a Measure or Act of the National Assembly for Wales, or
+- (c) Northern Ireland legislation.
+
+(5) This section is without prejudice to—
+
+- (a) the use by a person to whom it applies of information other than customs information;
+- (b) the disclosure by or to a person to whom it applies of information other than customs information.
+
+(6) In this Part—
+
+- “**customs function**” means a general customs function or a customs revenue function;
+- “**customs information**” means information acquired or capable of being acquired as a result of the exercise of a customs function;
+- “**customs revenue information**” means information acquired or capable of being acquired as a result of the exercise of a customs revenue function;
+- “**designated customs official**” means a general customs official or a customs revenue official.
+
+(7) It is immaterial for the purposes of subsection (6)—
+
+- (a) whether the information was acquired or is capable of being acquired by the person by whom it is held or another person;
+- (b) whether the information was also acquired or is also capable of being acquired in the exercise of any other function.
+
+#### 15. Prohibition on disclosure of personal customs information
+
+(1) A person who is or was a relevant official, the Secretary of State by whom general customs functions are exercisable or another Minister of the Crown in that Secretary of State's department may not disclose personal customs information to a person who is not—
+
+- (a) a relevant official, or
+- (b) a Minister of the Crown in that department.
+
+(2) A person who is or was a relevant official may not disclose personal customs revenue information to a Minister of the Crown.
+
+(3) In this Part “**relevant official**” means—
+
+- (a) a designated customs official,
+- (b) an immigration officer,
+- (c) the Director of Border Revenue, or
+- (d) a person acting on behalf of—
+  - (i) the Secretary of State by whom general customs functions are exercisable, or
+  - (ii) a person mentioned in paragraphs (a) to (c).
+
+(4) In this Part—
+
+- “**personal customs information**” means customs information relating to a person that—
+  - (a) identifies that person, or
+  - (b) enables that person to be identified (either by itself or in combination with other information);
+- “**personal customs revenue information**” means customs revenue information relating to a person that—
+  - (a) identifies that person, or
+  - (b) enables that person to be identified (either by itself or in combination with other information).
+
+(5) A person—
+
+- (a) does not breach subsection (1) by disclosing information the person knows was acquired otherwise than as the result of the exercise of a customs function;
+- (b) does not breach subsection (2) by disclosing information the person knows was acquired otherwise than as the result of the exercise of a customs revenue function.
+
+(6) Subsections (1) and (2) are also subject to—
+
+- (a) section 16 (exceptions to the prohibition in this section), and
+- (b) any enactment (other than an enactment contained in this Part) permitting disclosure, where the disclosure in question does not contravene any restriction imposed by the Commissioners for Her Majesty's Revenue and Customs on the disclosure of customs revenue information.
+
+(7) This section does not apply to information supplied by or on behalf of Her Majesty's Revenue and Customs or to information supplied by or on behalf of the Crown Prosecution Service under section 40 or 41A of the[^key-34c9c7e1e31499c13d6a82807172358d] UK Borders Act 2007.
+
+This is without prejudice to any other restriction on the disclosure of such information.
+
+(8) In subsection (6) the reference to an enactment does not include an enactment contained in, or in an instrument made under—
+
+- (a) an Act of the Scottish Parliament,
+- (b) a Measure or Act of the National Assembly for Wales, or
+- (c) Northern Ireland legislation.
+
+#### 16. Exceptions to section 15 prohibition
+
+(1) A person does not breach section 15(1) or (2) by making a disclosure—
+
+- (a) to which any of subsections (3) to (8) applies, and
+- (b) which, in the case of a disclosure of customs revenue information, does not contravene any restriction imposed by the Commissioners for Her Majesty's Revenue and Customs.
+
+(2) Subsection (1)(b) does not apply if the person making the disclosure knows that the information was acquired otherwise than as the result of the exercise of a customs revenue function.
+
+(3) This subsection applies to a disclosure which is made for the purposes of—
+
+- (a) a customs function,
+- (b) a function relating to immigration, asylum or nationality,
+- (c) a function relating to national security, or
+- (d) a function relating to the prevention or detection of crime.
+
+(4) This subsection applies to a disclosure which is made to a person exercising public functions (whether or not within the United Kingdom) for the purposes of any of those functions.
+
+(5) This subsection applies to a disclosure which—
+
+- (a) is made for the purposes of civil proceedings (whether or not within the United Kingdom) relating to a function within subsection (3),
+- (b) is made for the purposes of a criminal investigation or criminal proceedings (whether or not within the United Kingdom), or
+- (c) is made in pursuance of an order of a court.
+
+(6) This subsection applies to a disclosure which is made with the consent of each person to whom the information relates.
+
+(7) This subsection applies to a disclosure which is made in order to comply with an obligation of the United Kingdom, or Her Majesty's Government, under an international or other agreement.
+
+(8) This subsection applies to a disclosure—
+
+- (a) to a person specified in regulations made jointly by the Treasury and the Secretary of State, or
+- (b) of a kind specified in such regulations.
+
+#### 17. Prohibition on further disclosure
+
+(1) A person to whom information is disclosed in reliance on section 16 or this section may not disclose that information without the consent of a relevant official (which may be general or specific).
+
+(2) A person does not breach subsection (1) by making a disclosure—
+
+- (a) to which any of subsections (3) to (8) of section 16 applies, and
+- (b) which, in the case of a disclosure of customs revenue information, does not contravene any restriction imposed by the Commissioners for Her Majesty's Revenue and Customs.
+
+(3) Subsection (2)(b) does not apply if the person making the disclosure knows that the information was acquired otherwise than as the result of the exercise of a customs revenue function.
+
+(4) This section is also subject to any other enactment permitting disclosure.
+
+(5) In subsection (4) the reference to an enactment does not include an enactment contained in, or in an instrument made under—
+
+- (a) an Act of the Scottish Parliament,
+- (b) a Measure or Act of the National Assembly for Wales, or
+- (c) Northern Ireland legislation.
+
+#### 18. Offence of wrongful disclosure
+
+(1) A person commits an offence if the person breaches section 15(1) or (2) or 17(1).
+
+(2) It is a defence for a person charged with an offence under this section to prove that the person reasonably believed—
+
+- (a) that the disclosure was lawful, or
+- (b) that the information had already and lawfully been made available to the public.
+
+(3) A prosecution for an offence under this section—
+
+- (a) may be brought in England and Wales only with the consent of the Director of Public Prosecutions [^key-9a99fa2f753b4df411811bcbde0d1423]...;
+- (b) may be brought in Northern Ireland only with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+(4) This section is without prejudice to the pursuit of any remedy or the taking of any action in relation to a breach of section 15(1) or (2) or 17(1) (whether or not this section applies to the breach).
+
+(5) A person guilty of an offence under this section is liable—
+
+- (a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or to a fine, or to both;
+- (b) on summary conviction—
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-f57c62bfc7fd734c6e7f1e64d7b4f527], or to a fine not exceeding the statutory maximum, or to both;
+  - (ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
+  - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding the statutory maximum, or to both.
+
+(6) In relation to an offence under this section committed before 2 May 2022[^key-a505b7ff312ebfdeda7970d27069a2a3], the reference in subsection (5)(b)(i) to the general limit in a magistrates’ court[^key-29a26c782a4074fb6dd9e33f22c57c7f] has effect as if it were a reference to 6 months.
+
+#### 19. Application of statutory provisions
+
+(1) Nothing in sections 14 to 17 authorises the making of a disclosure which—
+
+- (a) contravenes the data protection legislation[^key-206e8398f40d2fdd4867222fb14c9d5e], or
+- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^key-e87e972cc89a7e12c18290d59e055b7c].
+
+(2) Information whose disclosure is prohibited by section 15(1) or (2) or 17(1) is exempt information by virtue of section 44(1)(a) of the Freedom of Information Act 2000 (c. 36).
+
+(3) Sections 15(6), 16 and 17(2) and (4) are to be disregarded in determining for the purposes of subsection (2) whether the disclosure of personal customs information is prohibited by section 15(1) or (2) or 17(1).
+
+(4) In section 23 of the Commissioners for Revenue and Customs Act 2005 (c. 11) (freedom of information), after subsection (1) insert—
+
+> (1A) Subsections (2) and (3) of section 18 are to be disregarded in determining for the purposes of subsection (1) of this section whether the disclosure of revenue and customs information relating to a person is prohibited by subsection (1) of that section.
+
+(5)[^key-2ee4a5138e584a87aa7e57a0ed5d2222] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+
+#### 20. Supply of Revenue and Customs information
+
+(1) After section 41 of the UK Borders Act 2007 (c. 30) insert—
+
+> **41A. Supply of information to UK Border Agency**
+>
+> (1) HMRC and the RCPO may each supply a person to whom this section applies with information for use for the purpose of the customs functions exercisable by that person.
+>
+> (2) This section applies to—
+>
+> - (a) a designated customs official,
+> - (b) the Secretary of State by whom general customs functions are exercisable,
+> - (c) the Director of Border Revenue, and
+> - (d) a person acting on behalf of a person mentioned in paragraphs (a) to (c).
+>
+> (3) This section applies to a document or article which comes into the possession of, or is discovered by, HMRC or the RCPO, or a person acting on behalf of HMRC or the RCPO, as it applies to information.
+>
+> (4) A person to whom this section applies—
+>
+> - (a) may retain for a purpose within subsection (1) a document or article supplied by virtue of subsection (3);
+> - (b) may dispose of a document or article supplied by virtue of subsection (3).
+>
+> (5) A power conferred by this section on HMRC or the RCPO may be exercised on behalf of HMRC or the RCPO by a person who is authorised (generally or specifically) for the purpose.
+>
+> (6) In this section and section 41B “customs function” and “general customs function” have the meanings given by Part 1 of the Borders, Citizenship and Immigration Act 2009.
+>
+> **41B. UK Border Agency: onward disclosure**
+>
+> (1) A person to whom information is supplied under section 41A may not disclose that information.
+>
+> (2) But subsection (1) does not apply to a disclosure—
+>
+> - (a) which is made for the purpose of a customs function, where the disclosure does not contravene any restriction imposed by the Commissioners for Her Majesty's Revenue and Customs;
+> - (b) which is made for the purposes of civil proceedings (whether or not within the United Kingdom) relating to a customs function;
+> - (c) which is made for the purpose of a criminal investigation or criminal proceedings (whether or not within the United Kingdom);
+> - (d) which is made in pursuance of an order of a court;
+> - (e) which is made with the consent (which may be general or specific) of HMRC or the RCPO, depending on by whom or on whose behalf the information was supplied;
+> - (f) which is made with the consent of each person to whom the information relates.
+>
+> (3) Subsection (1) is subject to any other enactment permitting disclosure.
+>
+> (4) The reference in subsection (1) to information supplied under section 41A includes a reference to documents or articles supplied by virtue of subsection (3) of that section.
+>
+> (5) The reference in that subsection to a person to whom information is supplied includes a reference to a person who is or was acting on behalf of that person.
+>
+> (6) In subsection (3) “**enactment**” does not include—
+>
+> - (a) an Act of the Scottish Parliament,
+> - (b) an Act of the Northern Ireland Assembly, or
+> - (c) an instrument made under an Act within paragraph (a) or (b).
+
+(2) In section 42(1) of that Act (wrongful disclosure) after “section 41” insert “ or 41B ”.
+
+#### 21. Duty to share information
+
+(1) In section 36 of the Immigration, Asylum and Nationality Act 2006 (c. 13) (duty to share information), in subsection (1), for paragraph (a) substitute—
+
+> - (a) designated customs officials,
+> - (aa) immigration officers,
+> - (ab) the Secretary of State in so far as the Secretary of State has general customs functions,
+> - (ac) the Secretary of State in so far as the Secretary of State has functions relating to immigration, asylum or nationality,
+> - (ad) the Director of Border Revenue and any person exercising functions of the Director,
+
+.
+
+(2) In subsection (6)(a) of that section, after “persons” insert “ or descriptions of persons ”.
+
+(3) In subsection (9) of that section, at the appropriate place insert—
+
+> “designated customs official” and “general customs function” have the meanings given by Part 1 of the Borders, Citizenship and Immigration Act 2009,
+
+.
+
+### Investigations and detention
+
+#### 22. Application of the PACE orders[^key-2e4f7f2a08288d7d2662798a0449d413]
+
+*Extent: E+W+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 23. Investigations and detention: England and Wales and Northern Ireland
+
+*Extent: E+W+N.I.*
+
+(1) The Secretary of State may by order provide for any provision of an enactment listed in subsection (2) that relates to investigations of offences conducted by police officers or to persons detained by the police to apply, subject to such modifications as the order may specify, in relation to—
+
+- (a) investigations conducted by designated customs officials,
+- (b) persons detained by designated customs officials,
+- (c) investigations conducted by immigration officers, or
+- (d) persons detained by immigration officers.
+
+(2) Those enactments are—
+
+- (a) the Police and Criminal Evidence Act 1984 (c. 60), and
+- (b) the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)).
+
+(3) An order under this section may make, in relation to designated customs officials, immigration officers, the Secretary of State or the Director of Border Revenue, provision similar to that which may be made in relation to officers of Revenue and Customs or the Commissioners for Her Majesty's Revenue and Customs under—
+
+- (a) section 114 of the Police and Criminal Evidence Act 1984, or
+- (b) article 85 of the Police and Criminal Evidence (Northern Ireland) Order 1989.
+
+(4) If an order under this section provides that a function may be exercised only by a person acting with the authority of the Secretary of State or the Director of Border Revenue, a certificate of the Secretary of State or (as the case may be) the Director that the person had authority to exercise the function is conclusive evidence of that fact.
+
+(5) An order under this section may amend or repeal section 22 (application of the PACE orders).
+
+#### 24. Investigations and detention: Scotland
+
+(1) After section 26B of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) insert—
+
+> **26C. Investigations by designated customs officials**
+>
+> (1) In the application of this Part of this Act to investigations conducted by designated customs officials—
+>
+> - (a) references to an officer are to a designated customs official;
+> - (b) references to an authorised officer are to a designated customs official acting with the authority (which may be general or specific) of—
+>   - (i) the Secretary of State in relation to investigations relating to general customs matters, or
+>   - (ii) the Director of Border Revenue in relation to investigations relating to customs revenue matters;
+> - (c) references to the Commissioners for Her Majesty's Revenue and Customs are to—
+>   - (i) the Secretary of State in relation to investigations relating to general customs matters, or
+>   - (ii) the Director of Border Revenue in relation to investigations relating to customs revenue matters;
+> - (d) references to an office of Revenue and Customs are to premises wholly or partly occupied by designated customs officials;
+> - (e) references to a superior officer are to—
+>   - (i) an immigration officer not below the grade of Inspector,
+>   - (ii) a person of the grade of Senior Executive Officer, or
+>   - (iii) a person of a grade equivalent to that within sub-paragraph (i) or (ii).
+>
+> (2) In this section “**customs revenue matter**”, “**designated customs official**” and “**general customs matter**” have the meanings given by Part 1 of the Borders, Citizenship and Immigration Act 2009.
+
+(2) The amendment made by this section does not affect the generality of sections 1(4), 3(5), 7(5) and 11(4) (construction of statutory etc. references to the Commissioners for Her Majesty's Revenue and Customs, officers of Revenue and Customs and Her Majesty's Revenue and Customs).
+
+#### 25. Short-term holding facilities
+
+In section 147 of the Immigration and Asylum Act 1999 (c. 33) (removal centres and detained persons: interpretation), in the definition of “short-term holding facility”—
+
+- (a) after “used” insert “ —(a) ”, and
+- (b) at the end insert
+
+  > , or
+  >
+  > - (b) for the detention of—
+  >   - (i) detained persons for a period of not more than seven days or for such other period as may be prescribed, and
+  >   - (ii) persons other than detained persons for any period.
+
+### Transfer of property etc.
+
+#### 26. Transfer schemes
+
+(1) The Commissioners for Her Majesty's Revenue and Customs may make one or more schemes for the transfer of specified property, rights or liabilities or property, rights or liabilities of a specified description between—
+
+- (a) the Commissioners or officers of Revenue and Customs, and
+- (b) the Secretary of State, the Director of Border Revenue or designated customs officials.
+
+(2) A scheme under subsection (1) may, in particular—
+
+- (a) create interests or rights, or impose liabilities, in relation to property, rights or liabilities transferred by virtue of the scheme or retained by a transferor;
+- (b) apportion property, rights or liabilities between a transferor and a transferee.
+
+(3) A scheme under subsection (1) may—
+
+- (a) provide for anything done by or in relation to a transferor in connection with anything transferred to have effect as if done by or in relation to a transferee;
+- (b) permit anything (including any legal proceedings) relating to anything transferred by the scheme which is in the process of being done by or in relation to a transferor when the transfer takes effect to be continued by or in relation to a transferee;
+- (c) provide for references to a transferor in an agreement (whether written or not), instrument or other document relating to anything transferred by the scheme to be treated as references to a transferee;
+- (d) include other incidental, supplementary, consequential, transitional or transitory provision or savings.
+
+(4) A scheme under subsection (1) may provide for a transfer of property, rights or liabilities—
+
+- (a) whether or not they would otherwise be capable of being transferred,
+- (b) without any instrument or other formality being required, and
+- (c) irrespective of any requirement for consent that would otherwise apply.
+
+(5) The Commissioners may make one or more schemes providing for—
+
+- (a) any specified thing or anything of a specified description done by or in relation to the Commissioners or an officer of Revenue and Customs in connection with a relevant function to have effect as if done by or in relation to the Secretary of State, the Director or a designated customs official;
+- (b) any specified thing or anything of a specified description (including any legal proceedings) relating to a relevant function done by or in relation to the Commissioners or an officer of Revenue and Customs to be continued by or in relation to the Secretary of State, the Director or a designated customs official.
+
+(6) A scheme under this section—
+
+- (a) comes into force in accordance with its terms;
+- (b) may be amended or revoked.
+
+(7) In this section—
+
+- “**relevant function**” means a function which before the passing of this Act was exercisable by the Commissioners or officers of Revenue and Customs (whether or not it remains so exercisable) and that—
+  - (a) is conferred by or by virtue of this Part on the Secretary of State, the Director or a designated customs official, or
+  - (b) is a function under assimilated[^key-ca87863e9bb748bcdc421bd10f87c22c][^key-01ed7b7273c2659181b2880502fe4fff] law that is exercisable by the Secretary of State, the Director or a designated customs official;
+- “**specified**” means specified in the scheme.
+
+#### 27. Facilities and services
+
+(1) Her Majesty's Revenue and Customs may make facilities and services available to any person by whom functions relating to immigration, asylum or nationality, or customs functions, are exercisable for the purposes of the exercise of any of those functions.
+
+(2) A person by whom functions relating to immigration, asylum or nationality, or customs functions, are exercisable may make facilities and services available to Her Majesty's Revenue and Customs for the purposes of the exercise of a function of Her Majesty's Revenue and Customs.
+
+### Inspection and oversight
+
+#### 28. Inspections by the Chief Inspector of the UK Border Agency
+
+(1) In section 48 of the UK Borders Act 2007 (c. 30) (establishment of the Border and Immigration Inspectorate), in subsection (1) for “the Border and Immigration Agency” substitute “ the UK Border Agency ”.
+
+(2) After that subsection insert—
+
+> (1A) The Chief Inspector shall monitor and report on the efficiency and effectiveness of the performance of functions by the following—
+>
+> - (a) designated customs officials, and officials of the Secretary of State exercising customs functions;
+> - (b) immigration officers, and officials of the Secretary of State exercising functions relating to immigration, asylum or nationality;
+> - (c) the Secretary of State in so far as the Secretary of State has general customs functions;
+> - (d) the Secretary of State in so far as the Secretary of State has functions relating to immigration, asylum or nationality;
+> - (e) the Director of Border Revenue and any person exercising functions of the Director.
+>
+> (1B) The Chief Inspector shall monitor and report on the efficiency and effectiveness of the services provided by a person acting pursuant to arrangements relating to the discharge of a function within subsection (1A).
+
+(3) In subsection (2) of that section—
+
+- (a) omit the words from the beginning to “Agency;”,
+- (b) in paragraph (a), for “within the Border and Immigration Agency” substitute “ among the persons listed in subsections (1A) and (1B) (the “listed persons”) ”,
+- (c) in paragraph (b), for “the Border and Immigration Agency” substitute “ the listed persons ”, and
+- (d) after paragraph (g) insert—
+
+  > - (ga) practice and procedure in relation to the prevention, detection and investigation of offences,
+  > - (gb) practice and procedure in relation to the conduct of criminal proceedings,
+  > - (gc) whether customs functions have been appropriately exercised by the Secretary of State and the Director of Border Revenue,
+
+  .
+
+(4) After that subsection insert—
+
+> (2A) Unless directed to do so by the Secretary of State, the Chief Inspector shall not monitor and report on the exercise by the listed persons of—
+>
+> - (a) functions at removal centres and short term holding facilities, and under escort arrangements, in so far as Her Majesty's Chief Inspector of Prisons has functions under section 5A of the Prison Act 1952 in relation to such functions, and
+> - (b) functions at detention facilities, in so far as Her Majesty's Inspectors of Constabulary, the Scottish inspectors or the Northern Ireland inspectors have functions by virtue of section 29 of the Borders, Citizenship and Immigration Act 2009 in relation to such functions.
+
+(5) Omit subsection (3) of that section.
+
+(6) After that subsection insert—
+
+> (3A) In this section “**customs function**”, “**designated customs official**” and “**general customs function**” have the meanings given by Part 1 of the Borders, Citizenship and Immigration Act 2009.
+
+(7) In section 53 of that Act (relationship with other bodies), in subsection (1)—
+
+- (a) in paragraph (a), for “the Border and Immigration Agency” substitute “ a person listed in section 48(1A) or (1B) ”, and
+- (b) in paragraph (b), for “the Agency” substitute “ such a person ”.
+
+(8) In subsection (3) of that section, for “the Agency” insert “ a person listed in section 48(1A) or (1B) ”.
+
+(9) In section 56(2)(a) of that Act (Senior President of Tribunals), for “the Border and Immigration Agency” substitute “ the UK Border Agency ”.
+
+(10) The person holding the office of the Chief Inspector of the Border and Immigration Agency immediately before the day on which this section comes into force is to be treated, on and after that day, as if appointed as the Chief Inspector of the UK Border Agency under section 48(1) of the UK Borders Act 2007 (c. 30).
+
+#### 29. Inspections by Her Majesty's Inspectors of Constabulary etc.
+
+(1) The Secretary of State may make regulations conferring functions on Her Majesty's Inspectors of Constabulary, the Scottish inspectors or the Northern Ireland inspectors in relation to—
+
+- (a) designated customs officials, and officials of the Secretary of State exercising customs functions;
+- (b) immigration officers, and officials of the Secretary of State exercising functions relating to immigration, asylum or nationality;
+- (c) the Secretary of State in so far as the Secretary of State has general customs functions;
+- (d) the Secretary of State in so far as the Secretary of State has functions relating to immigration, asylum or nationality;
+- (e) the Director of Border Revenue and any person exercising functions of the Director;
+- (f) persons providing services pursuant to arrangements relating to the discharge of a function of a person mentioned in paragraphs (a) to (e).
+
+(2) Regulations under subsection (1) may—
+
+- (a) in relation to Her Majesty's Inspectors of Constabulary, apply (with or without modification) or make provision similar to any provision of sections 54 to 56 of the Police Act 1996 (c. 16) (inspection);
+- (b) in relation to the Scottish inspectors, apply (with or without modification) or make provision similar to any provision of Chapter 11 of Part 1 of the Police and Fire Reform (Scotland) Act 2012 (Her Majesty’s inspectors of constabulary)[^key-c0177d487cc66ac4810262cf20ad96aa];
+- (c) in relation to the Northern Ireland inspectors, apply (without or without modification) or make provision similar to any provision of section 41 or 42 of the Police (Northern Ireland) Act 1998 (c. 32) (inspection).
+
+(3) Regulations under subsection (1)—
+
+- (a) may enable a Minister of the Crown to require an inspection to be carried out;
+- (b) must provide for a report of an inspection to be made and, subject to any exceptions required or permitted by the regulations, published;
+- (c) must provide for an annual report by Her Majesty's Inspectors of Constabulary;
+- (d) may make provision for payment to or in respect of Her Majesty's Inspectors of Constabulary, the Scottish inspectors or the Northern Ireland inspectors.
+
+(4) An inspection carried out by virtue of this section may not address a matter of a kind which the Comptroller and Auditor General may examine under section 6 of the National Audit Act 1983 (c. 44).
+
+(5) An inspection carried out by virtue of this section must be carried out jointly by Her Majesty's Inspectors of Constabulary and the Scottish inspectors—
+
+- (a) if it is carried out wholly in Scotland, or
+- (b) in a case where it is carried out partly in Scotland, to the extent that it is carried out there.
+
+(6) In this section—
+
+- (a) “**the Scottish inspectors**” means the inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^key-3384e1668c595809d06371371e0a1580];
+- (b) “**the Northern Ireland inspectors**” means the inspectors of constabulary appointed under section 41(1) of the Police (Northern Ireland) Act 1998.
+
+#### 30. Complaints and misconduct
+
+(1) In section 41 of the Police and Justice Act 2006 (c. 48) (power to confer functions on the Independent Police Complaints Commission in respect of the exercise of immigration functions)—
+
+- (a) after subsection (1)(b) insert—
+
+  > - (c) the provision of services pursuant to arrangements relating to the discharge of a function within paragraph (a) or (b).
+
+  , and
+- (b) after subsection (2) insert—
+
+  > (2A) The Secretary of State may make regulations conferring functions on the Independent Police Complaints Commission in relation to—
+  >
+  > - (a) the exercise by designated customs officials, and officials of the Secretary of State, of customs functions within the meaning of Part 1 of the Borders, Citizenship and Immigration Act 2009;
+  > - (b) the exercise by the Director of Border Revenue, and any person exercising functions of the Director, of customs revenue functions within the meaning of that Part of that Act;
+  > - (c) the provision of services pursuant to arrangements relating to the discharge of a function within paragraph (a) or (b).
+
+(2) In each of subsections (4) and (7) of that section, after “subsection (1)” insert “ or (2A) ”.
+
+(3) In the title to that section, after “functions” insert “ and customs functions ”.
+
+### Other provisions
+
+#### 31. Prosecution of offences[^key-167484b8c251912db5887129eb560f49]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 32. Payment of revenue to the Commissioners
+
+(1) The Director of Border Revenue must pay money received by way of revenue or security for revenue in the exercise of the Director's customs revenue functions to the Commissioners for Her Majesty's Revenue and Customs.
+
+(2) The Secretary of State must pay money received by way of revenue in the exercise of the Secretary of State's general customs functions to the Commissioners.
+
+(3) A payment under subsection (1) or (2) must be made—
+
+- (a) at such times and in such manner as the Treasury directs, and
+- (b) after deduction of payments in connection with drawback and repayments.
+
+(4) If the Commissioners think that the funds available to the Director or the Secretary of State may be insufficient to make a payment in connection with drawback or a repayment, the Commissioners may—
+
+- (a) pay money to the Director or the Secretary of State (as the case may be) to enable the payment or repayment to be made, or
+- (b) make the payment or repayment on behalf of the Director or the Secretary of State (as the case may be).
+
+(5) Subsection (4) applies whether or not the reason for a deficiency is or may be that an amount has been paid or retained on the basis of an estimate that has proved or may prove to be inaccurate.
+
+(6) A payment by the Commissioners under that subsection is to be treated for the purposes of the Commissioners for Revenue and Customs Act 2005 (c. 11) as a disbursement of a kind specified in section 44(3) of that Act.
+
+(7) In this section—
+
+- “**repayments**” includes—
+  - (a) payments in respect of actual or deemed credits relating to any tax, duty or levy, and
+  - (b) payments of interest (or repayment supplement) on—
+    - (i) repayments, or
+    - (ii) payments treated as repayments;
+- “**revenue**” means—
+  - (a) taxes, duties and levies,
+  - (b) the proceeds of forfeitures made and penalties imposed under the customs and excise Acts (within the meaning of section 1 of the Customs and Excise Management Act 1979 (c. 2)),
+  - (c) a sum paid, or the proceeds of sale, under paragraph 16 of Schedule 3 to that Act, and
+  - (d) the proceeds of penalties imposed in accordance with Regulation [(EC) No 1889/2005](https://www.legislation.gov.uk/european/regulation/2005/1889) on controls of cash entering or leaving the European Union[^key-dbcbbb189bbb4b25077ebe317eb5fda3] (including penalties imposed under that Regulation as amended from time to time);
+- “**security for revenue**” means any sum paid as security for a tax or duty.
+
+#### 33. Power to require payment into the Consolidated Fund
+
+(1) The Treasury may by order make provision for—
+
+- (a) requiring the payment of sums received by the Secretary of State or the Director in the exercise of their functions into the Consolidated Fund;
+- (b) permitting the deduction of disbursements before such payments are made;
+- (c) requiring the Secretary of State or the Director to provide accounts of the receipt and disposal of revenue;
+- (d) permitting the Treasury to make payments to the Secretary of State or the Director out of the Consolidated Fund to enable them to make disbursements.
+
+(2) An order under this section may amend or repeal section 32 (payment of revenue to the Commissioners).
+
+#### 34. Children
+
+(1) In section 21 of the UK Borders Act 2007 (c. 30) (code of practice relating to children), in subsection (1), for “the Border and Immigration Agency takes” substitute “ the persons listed in subsection (4A) take ”.
+
+(2) In subsection (2) of that section—
+
+- (a) for “The Agency” substitute “ Those persons ”,
+- (b) in paragraph (a), for “its” substitute “ their ”, and
+- (c) in paragraph (b), for “it makes” substitute “ they make ”.
+
+(3) After subsection (4) of that section insert—
+
+> (4A) The persons are—
+>
+> - (a) designated customs officials, and officials of the Secretary of State exercising customs functions,
+> - (b) immigration officers, and officials of the Secretary of State exercising functions relating to immigration, asylum or nationality,
+> - (c) the Secretary of State in so far as the Secretary of State has general customs functions,
+> - (d) the Secretary of State in so far as the Secretary of State has functions relating to immigration, asylum or nationality, and
+> - (e) the Director of Border Revenue and any person exercising functions of the Director.
+
+(4) In subsection (5) of that section omit paragraph (a).
+
+(5) After that subsection insert—
+
+> (5A) In this section “**customs function**”, “**designated customs official**” and “**general customs function**” have the meanings given by Part 1 of the Borders, Citizenship and Immigration Act 2009.
+
+(6) This section ceases to have effect on the coming into force of section 55 (duty regarding welfare of children).
+
+### Supplementary
+
+#### 35. Power to modify enactments
+
+(1) The Secretary of State may by order provide for an enactment (or a description of enactments) to apply in relation to—
+
+- (a) relevant persons, or
+- (b) the exercise of functions by relevant persons,
+
+with such modifications as the Secretary of State considers necessary or expedient.
+
+(2) In this section—
+
+- (a) “**relevant persons**” means—
+  - (i) the Secretary of State by whom general customs functions are exercisable,
+  - (ii) the Director of Border Revenue, and
+  - (iii) designated customs officials, immigration officers and officials in the department of that Secretary of State, and
+- (b) a reference to relevant persons includes a reference to any description of relevant persons.
+
+(3) An order under this section may, in particular, include provision for or in connection with—
+
+- (a) extending to relevant persons an exemption or protection afforded by an enactment to any other description of persons;
+- (b) providing for the disclosure of information to, or the doing of other things in relation to, relevant persons.
+
+(4) The Secretary of State must consult the Commissioners for Her Majesty's Revenue and Customs before making an order under this section that—
+
+- (a) makes provision in relation to a general customs matter or a customs revenue matter, or
+- (b) makes provision in relation to the exercise of a customs function.
+
+#### 36. Power to make supplementary etc. provision
+
+(1) The Secretary of State may by order make—
+
+- (a) such incidental, supplementary or consequential provision, or
+- (b) such transitional or transitory provision or savings,
+
+as the Secretary of State considers appropriate for the general purposes, or any particular purpose, of this Part, or in consequence of, or for giving full effect to, any provision made by or under this Part.
+
+(2) An order under subsection (1) may amend, repeal, revoke or otherwise modify any enactment (including this Act).
+
+(3) The power to make an order under subsection (1) includes power to repeal or revoke an enactment which is spent.
+
+(4) Nothing in this Part affects the generality of the power conferred by this section.
+
+#### 37. Subordinate legislation
+
+(1) Orders and regulations under this Part must be made by statutory instrument.
+
+(2) An order or regulations under this Part may—
+
+- (a) include incidental, supplementary and consequential provision;
+- (b) make transitional or transitory provision or savings;
+- (c) make different provision for different cases or circumstances.
+
+(3) A statutory instrument containing an order or regulations to which subsection (4) applies may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(4) This subsection applies to—
+
+- (a) an order under section 2 (power of Secretary of State to modify functions);
+- (b) an order under section 8 (power of Treasury to modify Director's functions);
+- (c) regulations under section 16(8) (power to permit disclosure);
+- (d) an order under section 23 (application of provisions about investigations and detention: England and Wales and Northern Ireland);
+- (e) an order under section 35 (power to modify enactments);
+- (f) an order under section 36 (power to make supplementary etc. provision) that amends or repeals primary legislation.
+
+(5) A statutory instrument containing only—
+
+- (a) regulations under section 29 (inspections by Her Majesty's Inspectors of Constabulary etc.), or
+- (b) an order under section 36 that does not amend or repeal primary legislation,
+
+is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) A statutory instrument containing an order under section 33 (power to require payment into the Consolidated Fund) is subject to annulment in pursuance of a resolution of the House of Commons.
+
+(7) In this section “**primary legislation**” means—
+
+- (a) an Act of Parliament,
+- (b) an Act of the Scottish Parliament,
+- (c) a Measure or Act of the National Assembly for Wales, or
+- (d) Northern Ireland legislation.
+
+(8)[^key-1958ffef30e359ae529a0138f8f7d2d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 38. Interpretation
+
+In this Part—
+
+- [^key-6843f13212b4a8f695a66600a654370a]...
+- “**customs function**” has the meaning given by section 14(6);
+- “**customs information**” has the meaning given by section 14(6);
+- “**customs revenue function**” has the meaning given by section 7(9);
+- “**customs revenue information**” has the meaning given by section 14(6);
+- “**customs revenue matter**” has the meaning given by section 7(2);
+- “**customs revenue official**” means a customs revenue official designated under section 11(1);
+- “**designated customs official**” has the meaning given by section 14(6);
+- “**enactment**” includes—
+  - (a) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978 (c. 30);
+  - (b) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament;
+  - (c) an enactment contained in, or in instrument made under, Northern Ireland legislation;
+  - (d) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales;
+- “**function**” means any power or duty (including a power or duty that is ancillary to another power or duty);
+- “**general customs function**” has the meaning given by section 1(8);
+- “**general customs matter**” has the meaning given by section 1(2);
+- “**general customs official**” means a general customs official designated under section 3(1);
+- “**personal customs information**” has the meaning given by section 15(4);
+- “**personal customs revenue information**” has the meaning given by section 15(4);
+- “**relevant official**” has the meaning given by section 15(3).
+
+## Part 2 — Citizenship
+
+### Acquisition of British citizenship by naturalisation
+
+#### 39. Application requirements: general[^key-f54b9d38a93828a99f208b4329b28de9]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 40. Application requirements: family members etc.[^key-5bc1dfe46b048f03ba8c18e881cedaac]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 41. The qualifying period
+
+(1)[^key-7eb0f514886e2a72a209b50e1cc94581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-7eb0f514886e2a72a209b50e1cc94581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-7eb0f514886e2a72a209b50e1cc94581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In subsection (7) of section 41 of the British Nationality Act 1981 (regulations)[^key-acf13f5381a9292cf0be33d086d49f6f], after “this section” insert “ (other than regulations referred to in subsection (8)) ”.
+
+(5)[^key-d2d61a5ed584de41981f1d80f08aba2d] After subsection (7) of that section insert—
+
+> (8) Any regulations (whether alone or with other provision)—
+>
+> - (a) under subsection (1)(a) for prescribing activities for the purposes of paragraph 4B(5)(a) of Schedule 1; or
+> - (b) under subsection (1)(bc), (bd) or (be),
+>
+> may not be made unless a draft has been laid before and approved by a resolution of each House of Parliament.
+
+### Acquisition of British citizenship by birth
+
+#### 42. Children born in UK etc. to members of the armed forces[^key-ec13da6fae45e85fcf7eca010031266a]
+
+(1) Section 1 of the British Nationality Act 1981 (c. 61) (acquisition of British citizenship by birth or adoption) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) A person born in the United Kingdom or a qualifying territory on or after the relevant day shall be a British citizen if at the time of the birth his father or mother is a member of the armed forces.
+
+(3) In subsection (3), after “subsection (1)” insert “ , (1A) ”.
+
+(4) After subsection (3) insert—
+
+> (3A) A person born in the United Kingdom on or after the relevant day who is not a British citizen by virtue of subsection (1), (1A) or (2) shall be entitled to be registered as a British citizen if, while he is a minor—
+>
+> - (a) his father or mother becomes a member of the armed forces; and
+> - (b) an application is made for his registration as a British citizen
+
+.
+
+(5) In subsection (4), after “subsection (1)” insert “ , (1A) ”.
+
+(6) After subsection (8) insert—
+
+> (9) The relevant day for the purposes of subsection (1A) or (3A) is the day appointed for the commencement of section 42 of the Borders, Citizenship and Immigration Act 2009 (which inserted those subsections).
+
+### Acquisition of British citizenship etc. by registration
+
+#### 43. Minors[^key-021410baa7b11ca4eeeb2d0a9b1d94c4]
+
+(1) Section 3 of the British Nationality Act 1981 (c. 61) (acquisition by registration: minors) is amended as follows.
+
+(2) In subsection (2), for “within the period of twelve months from the date of the birth” substitute “ while he is a minor ”.
+
+(3) Omit subsection (4).
+
+#### 44. British Nationals (Overseas) without other citizenship[^key-9d8cb68506709833b2a2ce799baf5001]
+
+(1) Section 4B of the British Nationality Act 1981 (acquisition by registration: certain persons without other citizenship) is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) omit “or” immediately before paragraph (c), and
+- (b) after that paragraph insert
+
+  > , or
+  >
+  > - (d) British National (Overseas)
+
+  .
+
+(3) In subsection (2)(c), for “4th July 2002” substitute “ the relevant day ”.
+
+(4) After subsection (2), insert—
+
+> (3) For the purposes of subsection (2)(c), the “**relevant day**” means—
+>
+> - (a) in the case of a person to whom this section applies by virtue of subsection (1)(d) only, 19th March 2009, and
+> - (b) in any other case, 4th July 2002.
+
+#### 45. Descent through the female line[^key-d0ff63c474bee38ef89c4989b124067f]
+
+(1) Section 4C of the British Nationality Act 1981 (the title to which becomes “Acquisition by registration: certain persons born before 1983”) is amended as follows.
+
+(2) In subsection (2), omit “after 7th February 1961 and”.
+
+(3) For subsection (3) substitute—
+
+> (3) The second condition is that the applicant would at some time before 1st January 1983 have become a citizen of the United Kingdom and Colonies—
+>
+> - (a) under section 5 of, or paragraph 3 of Schedule 3 to, the 1948 Act if assumption A had applied,
+> - (b) under section 12(3), (4) or (5) of that Act if assumption B had applied and as a result of its application the applicant would have been a British subject immediately before 1st January 1949, or
+> - (c) under section 12(2) of that Act if one or both of the following had applied—
+>   - (i) assumption A had applied;
+>   - (ii) assumption B had applied and as a result of its application the applicant would have been a British subject immediately before 1st January 1949.
+>
+> (3A) Assumption A is that—
+>
+> - (a) section 5 or 12(2) of, or paragraph 3 of Schedule 3 to, the 1948 Act (as the case may be) provided for citizenship by descent from a mother in the same terms as it provided for citizenship by descent from a father, and
+> - (b) references in that provision to a father were references to the applicant's mother.
+>
+> (3B) Assumption B is that—
+>
+> - (a) a provision of the law at some time before 1st January 1949 which provided for a nationality status to be acquired by descent from a father provided in the same terms for its acquisition by descent from a mother, and
+> - (b) references in that provision to a father were references to the applicant's mother.
+>
+> (3C) For the purposes of subsection (3B), a nationality status is acquired by a person (“P”) by descent where its acquisition—
+>
+> - (a) depends, amongst other things, on the nationality status of one or both of P's parents, and
+> - (b) does not depend upon an application being made for P's registration as a person who has the status in question.
+>
+> (3D) For the purposes of subsection (3), it is not to be assumed that any registration or other requirements of the provisions mentioned in that subsection or in subsection (3B) were met.
+
+(4) After subsection (4) insert—
+
+> (5) For the purposes of the interpretation of section 5 of the 1948 Act in its application in the case of assumption A to a case of descent from a mother, the reference in the proviso to subsection (1) of that section to “**a citizen of the United Kingdom and Colonies by descent only**” includes a reference to a female person who became a citizen of the United Kingdom and Colonies by virtue of—
+>
+> - (a) section 12(2), (4) or (6) only of the 1948 Act,
+> - (b) section 13(2) of that Act,
+> - (c) paragraph 3 of Schedule 3 to that Act, or
+> - (d) section 1(1)(a) or (c) of the British Nationality (No. 2) Act 1964.
+
+#### 46. Children born outside UK etc. to members of the armed forces[^key-6eba8e0efda58108d9471b4bb7bdcee3]
+
+After section 4C of the British Nationality Act 1981 (c. 61) insert—
+
+> **4D. Acquisition by registration: children of members of the armed forces**
+>
+> (1) A person (“P”) born outside the United Kingdom and the qualifying territories on or after the relevant day is entitled to be registered as a British citizen if—
+>
+> - (a) an application is made for P's registration under this section; and
+> - (b) each of the following conditions is satisfied.
+>
+> (2) The first condition is that, at the time of P's birth, P's father or mother was—
+>
+> - (a) a member of the armed forces; and
+> - (b) serving outside the United Kingdom and the qualifying territories.
+>
+> (3) The second condition is that, if P is a minor on the date of the application, the consent of P's father and mother to P's registration as a British citizen has been signified in the prescribed manner.
+>
+> (4) But if P's father or mother has died on or before the date of the application, the reference in subsection (3) to P's father and mother is to be read as a reference to either of them.
+>
+> (5) The Secretary of State may, in the special circumstances of a particular case, waive the need for the second condition to be satisfied.
+>
+> (6) The relevant day for the purposes of this section is the day appointed for the commencement of section 46 of the Borders, Citizenship and Immigration Act 2009 (which inserted this section).
+
+#### 47. Good character requirement[^key-cbe1e6c8bb32a9d9e444531fbad4b4e7]
+
+(1) After section 41 of the British Nationality Act 1981 insert—
+
+> **41A. Registration: requirement to be of good character**
+>
+> (1) An application for registration of an adult or young person as a British citizen under section 1(3), (3A) or (4), 3(1), (2) or (5), 4(2) or (5), 4A, 4C, 4D, 5, 10(1) or (2) or 13(1) or (3) must not be granted unless the Secretary of State is satisfied that the adult or young person is of good character.
+>
+> (2) An application for registration of an adult or young person as a British overseas territories citizen under section 15(3) or (4), 17(1) or (5), 22(1) or (2) or 24 must not be granted unless the Secretary of State is satisfied that the adult or young person is of good character.
+>
+> (3) An application for registration of an adult or young person as a British Overseas citizen under section 27(1) must not be granted unless the Secretary of State is satisfied that the adult or young person is of good character.
+>
+> (4) An application for registration of an adult or young person as a British subject under section 32 must not be granted unless the Secretary of State is satisfied that the adult or young person is of good character.
+>
+> (5) In this section, “**adult or young person**” means a person who has attained the age of 10 years at the time when the application is made.
+
+(2) In section 1 of the Hong Kong (War Wives and Widows) Act 1996 (c. 41) (acquisition of British citizenship), in subsection (1)—
+
+- (a) omit “and” immediately before paragraph (b), and
+- (b) after that paragraph insert
+
+  > ; and
+  >
+  > - (c) the Secretary of State is satisfied that she is of good character
+
+  .
+
+(3) In section 1 of the British Nationality (Hong Kong) Act 1997 (c. 20) (acquisition of British citizenship), after subsection (5) insert—
+
+> (5A) An adult or young person shall not be registered under subsection (1) unless the Secretary of State is satisfied that the adult or young person is of good character.
+>
+> (5B) In subsection (5A), “**adult or young person**” means a person who has attained the age of 10 years at the time when the application for registration is made.
+
+(4) In section 131 of the Nationality, Immigration and Asylum Act 2002 (c. 41) (supply of police information), for paragraph (b) substitute—
+
+> - (b) determining whether, for the purposes of an application referred to in section 41A of the British Nationality Act 1981, the person for whose registration the application is made is of good character;
+> - (ba) determining whether, for the purposes of an application under section 1 of the Hong Kong (War Wives and Widows) Act 1996, the woman for whose registration the application is made is of good character;
+> - (bb) determining whether, for the purposes of an application under section 1 of the British Nationality (Hong Kong) Act 1997 for the registration of an adult or young person within the meaning of subsection (5A) of that section, the person is of good character;
+
+.
+
+(5) In section 40 of the UK Borders Act 2007 (c. 30) (supply of Revenue and Customs information), in subsection (1), for paragraph (h) substitute—
+
+> - (h) determining whether, for the purposes of an application referred to in section 41A of the British Nationality Act 1981, the person for whose registration the application is made is of good character;
+> - (ha) determining whether, for the purposes of an application under section 1 of the Hong Kong (War Wives and Widows) Act 1996, the woman for whose registration the application is made is of good character;
+> - (hb) determining whether, for the purposes of an application under section 1 of the British Nationality (Hong Kong) Act 1997 for the registration of an adult or young person within the meaning of subsection (5A) of that section, the person is of good character;
+
+.
+
+### Interpretation etc.
+
+#### 48. Meaning of references to being in breach of immigration laws[^key-4427270d00c670215107ac112a2bdf5f]
+
+(1) After section 50 of the British Nationality Act 1981 (c. 61) insert—
+
+> **50A. Meaning of references to being in breach of immigration laws**
+>
+> (1) This section applies for the construction of a reference to being in the United Kingdom “in breach of the immigration laws” in—
+>
+> - (a) section 4(2) or (4);
+> - (b) section 50(5); or
+> - (c) Schedule 1.
+>
+> (2) It applies only for the purpose of determining on or after the relevant day—
+>
+> - (a) whether a person born on or after the relevant day is a British citizen under section 1(1),
+> - (b) whether, on an application under section 1(3) or 4(2) made on or after the relevant day, a person is entitled to be registered as a British citizen, or
+> - (c) whether, on an application under section 6(1) or (2) made on or after the relevant day, the applicant fulfils the requirements of Schedule 1 for naturalisation as a British citizen under section 6(1) or (2).
+>
+> (3) But that is subject to section 48(3)(d) and (4) of the Borders, Citizenship and Immigration Act 2009 (saving in relation to section 11 of the Nationality, Immigration and Asylum Act 2002).
+>
+> (4) A person is in the United Kingdom in breach of the immigration laws if (and only if) the person—
+>
+> - (a) is in the United Kingdom;
+> - (b) does not have the right of abode in the United Kingdom within the meaning of section 2 of the Immigration Act 1971;
+> - (c) does not have leave to enter or remain in the United Kingdom (whether or not the person previously had leave);
+> - (d) does not have a qualifying CTA entitlement;
+> - (e) is not entitled to reside in the United Kingdom by virtue of any provision made under section 2(2) of the European Communities Act 1972 (whether or not the person was previously entitled);
+> - (f) is not entitled to enter and remain in the United Kingdom by virtue of section 8(1) of the Immigration Act 1971 (crew) (whether or not the person was previously entitled); and
+> - (g) does not have the benefit of an exemption under section 8(2) to (4) of that Act (diplomats, soldiers and other special cases) (whether or not the person previously had the benefit of an exemption).
+>
+> (5) For the purposes of subsection (4)(d), a person has a qualifying CTA entitlement if the person—
+>
+> - (a) is a citizen of the Republic of Ireland,
+> - (b) last arrived in the United Kingdom on a local journey (within the meaning of the Immigration Act 1971) from the Republic of Ireland, and
+> - (c) on that arrival, was a citizen of the Republic of Ireland and was entitled to enter without leave by virtue of section 1(3) of the Immigration Act 1971 (entry from the common travel area).
+>
+> (6) Section 11(1) of the Immigration Act 1971 (person deemed not to be in the United Kingdom before disembarkation, while in controlled area or while under immigration control) applies for the purposes of this section as it applies for the purposes of that Act.
+>
+> (7) This section is without prejudice to the generality of—
+>
+> - (a) a reference to being in a place outside the United Kingdom in breach of immigration laws, and
+> - (b) a reference in a provision other than one specified in subsection (1) to being in the United Kingdom in breach of immigration laws.
+>
+> (8) The relevant day for the purposes of subsection (2) is the day appointed for the commencement of section 48 of the Borders, Citizenship and Immigration Act 2009 (which inserted this section).
+
+(2) Section 11 of the Nationality, Immigration and Asylum Act 2002 (c. 41) (“**the 2002 Act**”) (unlawful presence in the United Kingdom) ceases to have effect.
+
+(3) Notwithstanding its repeal, section 11 of the 2002 Act is to continue to have effect for the purpose of determining on or after the relevant day—
+
+- (a) whether a person born before the relevant day is a British citizen under section 1(1) of the British Nationality Act 1981 (c. 61),
+- (b) whether, on an application under section 1(3) or 4(2) of that Act made but not determined before the relevant day, a person is entitled to be registered as a British citizen,
+- (c) whether, on an application under section 6(1) or (2) of that Act made but not determined before the relevant day, the applicant fulfils the requirements of Schedule 1 for naturalisation as a British citizen under section 6(1) or (2) of that Act, or
+- (d) whether, in relation to an application under section 1(3) or 6(1) or (2) of that Act made on or after the relevant day, a person was in the United Kingdom “in breach of the immigration laws” at a time before 7 November 2002 (the date of commencement of section 11 of the 2002 Act).
+
+(4) Where section 11 of the 2002 Act continues to have effect by virtue of paragraph (d) of subsection (3) for the purpose of determining on or after the relevant day the matter mentioned in that paragraph, section 50A of the British Nationality Act 1981 is not to apply for the purpose of determining that matter.
+
+(5) The relevant day for the purposes of subsection (3) is the day appointed for the commencement of this section.
+
+(6) In paragraph 7(a) of Schedule 3 to the 2002 Act (definition of persons unlawfully in the UK who are ineligible for support), for “section 11” substitute “ section 50A of the British Nationality Act 1981 ”.
+
+#### 49. Other interpretation etc.
+
+(1)[^key-ad86618cb4d7a28e723900bcf9c8af3b] In section 50 of the British Nationality Act 1981 (c. 61) (interpretation), after subsection (1), insert—
+
+> (1A) Subject to subsection (1B), references in this Act to being a member of the armed forces are references to being—
+>
+> - (a) a member of the regular forces within the meaning of the Armed Forces Act 2006, or
+> - (b) a member of the reserve forces within the meaning of that Act subject to service law by virtue of paragraph (a), (b) or (c) of section 367(2) of that Act.
+>
+> (1B) A person is not to be regarded as a member of the armed forces by virtue of subsection (1A) if the person is treated as a member of a regular or reserve force by virtue of—
+>
+> - (a) section 369 of the Armed Forces Act 2006, or
+> - (b) section 4(3) of the Visiting Forces (British Commonwealth) Act 1933.
+
+(2)[^key-bd80cc10fa5fa402734f43881adf2fbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-240a169b4e1b29c4bfeaa9211410d207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — Immigration
+
+### Studies
+
+#### 50. Restriction on studies
+
+(1) In section 3(1)(c) of the Immigration Act 1971 (c. 77) (conditions that may be imposed on limited leave to enter or remain in the United Kingdom), after sub-paragraph (i) insert—
+
+> - (ia) a condition restricting his studies in the United Kingdom;
+
+.
+
+(2) A condition under section 3(1)(c)(ia) of that Act may be added as a condition to leave given before the passing of this Act (as well as to leave given on or after its passing).
+
+### Fingerprinting
+
+#### 51. Fingerprinting of foreign criminals liable to automatic deportation[^key-0c6f9c607f5b88ca2ce6805346297138]
+
+(1) Section 141 of the Immigration and Asylum Act 1999 (c. 33) (persons from whom fingerprints may be taken) is amended as follows.
+
+(2) In subsection (7)(f), after “persons” insert “ , other than a dependant of a person who falls within paragraph (c) by reason of a relevant immigration decision within subsection (16)(b) having been made in respect of that person ”.
+
+(3)[^key-a783ed437100f0841e8c161a2373f616] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Detention at ports in Scotland
+
+#### 52. Extension of sections 1 to 4 of the UK Borders Act 2007 to Scotland[^key-f8cb1e3c18e04aec08da007c9b8cdf37]
+
+(1) In section 2 of the UK Borders Act 2007 (c. 30) (detention at ports), after subsection (1), insert—
+
+> (1A) A designated immigration officer at a port in Scotland may detain an individual if the immigration officer thinks that the individual is subject to a warrant for arrest.
+
+(2) In section 3 of that Act (enforcement of detention at ports), after subsection (4), insert—
+
+> (4A) In the application of this section to Scotland, the references in subsections (2)(a) and (3)(a) to 51 weeks shall be treated as references to 12 months.
+
+(3) In section 60(1) of that Act (provisions which do not extend to Scotland), omit “1 to 4,”.
+
+## Part 4 — Miscellaneous and general
+
+### Judicial review
+
+#### 53. Transfer of certain immigration judicial review applications[^key-b14b1bc422c75c8518570fa38c606105]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Trafficking people for exploitation
+
+#### 54. Trafficking people for exploitation[^key-a263bb03d963ceaec013e1f1d3fb21a4]
+
+In section 4(4) of the Asylum and Immigration (Treatment of Claimants, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8] etc. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]) Act 2004 (c. 19) (trafficking people for exploitation: meaning of exploitation), for paragraph (d) substitute— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]
+
+> - (d (Extent: N.I.) (affected by repeal, see note))[^key-121453d3cc5413fb950367140249d2e8] a person uses or attempts to use him for any purpose within sub-paragraph (i), (ii) or (iii) of paragraph (c), having chosen him for that purpose on the grounds that— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]
+>   - (i (Extent: N.I.) (affected by repeal, see note))[^key-121453d3cc5413fb950367140249d2e8] he is mentally or physically ill or disabled, he is young or he has a family relationship with a person, and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]
+>   - (ii (Extent: N.I.) (affected by repeal, see note))[^key-121453d3cc5413fb950367140249d2e8] a person without the illness, disability, youth or family relationship would be likely to refuse to be used for that purpose. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]
+
+### Children
+
+#### 54A. Independent Family Returns Panel[^key-8fe8517daffc564a5b08af1b32002145]
+
+(1) The Independent Family Returns Panel is established.
+
+(2) The Secretary of State must consult the Independent Family Returns Panel—
+
+- (a) in each family returns case, on how best to safeguard and promote the welfare of the children of the family, and
+- (b) in each case where the Secretary of State proposes to detain a family in pre-departure accommodation, on the suitability of so doing, having particular regard to the need to safeguard and promote the welfare of the children of the family.
+
+(3) A family returns case is a case where—
+
+- (a) a child who is living in the United Kingdom is to be removed from or required to leave the United Kingdom, and
+- (b) an individual who—
+  - (i) is a parent of the child or has care of the child, and
+  - (ii) is living in a household in the United Kingdom with the child,
+
+  is also to be removed from or required to leave the United Kingdom.
+
+(4) The Secretary of State may by regulations make provision about—
+
+- (a) additional functions of the Independent Family Returns Panel,
+- (b) its status and constitution,
+- (c) the appointment of its members,
+- (d) the payment of remuneration and allowances to its members, and
+- (e) any other matters in connection with its establishment and operation.
+
+(5) Regulations under this section must be made by statutory instrument.
+
+(6) An instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this section—
+
+- “**child**” means a person who is under the age of 18;
+- “**pre-departure accommodation**” has the same meaning as in Part 8 of the Immigration and Asylum Act 1999;
+- references to a person being removed from or required to leave the United Kingdom are to the person being removed or required to leave in accordance with a provision of the Immigration Acts.
+
+#### 55. Duty regarding the welfare of children[^key-90a2ad60b1f0a621ed456b2523e89322]
+
+(1) The Secretary of State must make arrangements for ensuring that—
+
+- (a) the functions mentioned in subsection (2) are discharged having regard to the need to safeguard and promote the welfare of children who are in the United Kingdom, and
+- (b) any services provided by another person pursuant to arrangements which are made by the Secretary of State and relate to the discharge of a function mentioned in subsection (2) are provided having regard to that need.
+
+(2) The functions referred to in subsection (1) are—
+
+- (a) any function of the Secretary of State in relation to immigration, asylum or nationality;
+- (b) any function conferred by or by virtue of the Immigration Acts on an immigration officer;
+- (c) any general customs function of the Secretary of State;
+- (d) any customs function conferred on a designated customs official.
+
+(3) A person exercising any of those functions must, in exercising the function, have regard to any guidance given to the person by the Secretary of State for the purpose of subsection (1).
+
+(4) The Director of Border Revenue must make arrangements for ensuring that—
+
+- (a) the Director's functions are discharged having regard to the need to safeguard and promote the welfare of children who are in the United Kingdom, and
+- (b) any services provided by another person pursuant to arrangements made by the Director in the discharge of such a function are provided having regard to that need.
+
+(5) A person exercising a function of the Director of Border Revenue must, in exercising the function, have regard to any guidance given to the person by the Secretary of State for the purpose of subsection (4).
+
+(6) In this section—
+
+- “**children**” means persons who are under the age of 18;
+- “**customs function**”, “**designated customs official**” and “**general customs function**” have the meanings given by Part 1.
+
+(7) A reference in an enactment (other than this Act) to the Immigration Acts includes a reference to this section.
+
+(8) Section 21 of the UK Borders Act 2007 (c. 30) (children) ceases to have effect.
+
+### General
+
+#### 56. Repeals[^c19853981][^key-4f2ddaf6ec5316a9a51610a9a9dd4a32][^key-b9d936a5f630d734c6274c509b0d9b1e]
+
+The Schedule contains repeals.
+
+#### 57. Extent
+
+(1) Subject to the following provisions of this section, this Act extends to—
+
+- (a) England and Wales,
+- (b) Scotland, and
+- (c) Northern Ireland.
+
+(2) Section[^key-a3cc18876eec6322d51d793aa75c2597] 23 (investigations and detention: England and Wales and Northern Ireland) extends[^key-74dba79a2ef52536bbb0d926a6308608] to England and Wales and Northern Ireland only.
+
+(3) An amendment, modification or repeal by this Act has the same extent as the enactment or relevant part of the enactment to which it relates (ignoring extent by virtue of an Order in Council under any of the Immigration Acts).
+
+(4) Subsection (3) does not apply to—
+
+- (a) the amendments made by section 52 (detention at ports in Scotland);
+- (b) the amendment made by section 54 (trafficking people for exploitation), which extends to England and Wales and Northern Ireland only.
+
+(5)[^key-95484cfef45ea41fdaf46dc406e978c4] Her Majesty may by Order in Council provide for any of the provisions of this Act, other than any provision of Part 1 (border functions) or section 53 (transfer of certain immigration judicial review applications), to extend, with or without modifications, to any of the Channel Islands or the Isle of Man.
+
+(6) Subsection (5) does not apply in relation to the extension to a place of a provision which extends there by virtue of subsection (3).
+
+#### 58. Commencement
+
+(1) Part 1 (border functions) comes into force on the day this Act is passed.
+
+(2) The provisions of Part 2 (citizenship) come into force on such day as the Secretary of State may by order appoint.
+
+(3) In Part 3 (immigration)—
+
+- (a) section 50 (restriction on studies) comes into force on the day this Act is passed;
+- (b) sections 51 (fingerprinting of foreign criminals) and 52 (detention at ports in Scotland) come into force on such day as the Secretary of State may by order appoint.
+
+(4) In this Part—
+
+- (a) section 53 (transfer of certain immigration judicial review applications) comes into force on such day as the Lord Chancellor may by order appoint;
+- (b) sections 54 (trafficking people for exploitation) and 55 (duty regarding the welfare of children) come into force on such day as the Secretary of State may by order appoint.
+
+(5) Any repeal in the Schedule (and section 56 so far as relating to the repeal) comes into force in the same way as the provisions of this Act to which the repeal relates.
+
+(6) The other provisions of this Part come into force on the day this Act is passed.
+
+(7) An order under this section must be made by statutory instrument.
+
+(8) An order under this section—
+
+- (a) may appoint different days for different purposes;
+- (b) may include transitional or incidental provision or savings.
+
+(9) An order commencing sections 39 to 41 (acquisition of British citizenship by naturalisation) must include provision that the amendments made by those sections do not have effect in relation to an application for naturalisation as a British citizen if—
+
+- (a) the date of the application is before the date on which those sections come into force in accordance with the order (“the date of commencement”), or
+- (b) the date of the application is before the end of the period of 24 months beginning with the date of commencement and the application is made by a person who falls within subsection (10) or (11).
+
+(10) A person falls within this subsection if on the date of commencement the person has indefinite leave to remain in the United Kingdom.
+
+(11) A person falls within this subsection if the person is given indefinite leave to remain in the United Kingdom on an application—
+
+- (a) the date of which is before the date of commencement, and
+- (b) which is decided after the date of commencement.
+
+(12) The reference in subsection (9) to an order commencing sections 39 to 41 does not include an order commencing those sections for the purpose only of enabling regulations to be made under the British Nationality Act 1981 (c. 61).
+
+(13) In the case of an order commencing sections 39 to 41, transitional provision may, in particular—
+
+- (a) provide that the qualifying period for the purposes of paragraph 1 or 3 of Schedule 1 to the British Nationality Act 1981 includes time before that commencement;
+- (b) provide for leave to enter or remain in the United Kingdom granted before that commencement to be treated as qualifying temporary residence leave or probationary citizenship leave for the purposes of that Schedule.
+
+(14) In the case of an order commencing section 45 (acquisition of British citizenship through the female line), transitional provision may, in particular, provide that section 45 is to apply to an application made, but not determined, under section 4C of the British Nationality Act 1981 before that commencement.
+
+(15) No order may be made commencing section 52 (detention at ports in Scotland) unless the Secretary of State has consulted the Scottish Ministers.
+
+(16) No order may be made commencing section 53 (transfer of certain immigration judicial review applications) unless the functions of the Asylum and Immigration Tribunal in relation to appeals under Part 5 of the Nationality, Immigration and Asylum Act 2002 (c. 41) have been transferred under section 30(1) of the Tribunals, Courts and Enforcement Act 2007 (c. 15).
+
+#### 59. Short title
+
+This Act may be cited as the Borders, Citizenship and Immigration Act 2009.
+
+## SCHEDULE — Repeals[^c19853971]
+
+Section 56
+
+### Part 1 — Border functions
+
+| *Reference* | *Extent of repeal* |
+| --- | --- |
+| UK Borders Act 2007 (c. 30) | Section 21(5)(a).<br>In section 48—<br>- (a) in subsection (2), the words from the beginning to “Agency;”, and<br>- (b) subsection (3). |
+
+### Part 2 — Citizenship[^key-79fcbd66061984f6723dcab210c57f49]
+
+| *Reference* | *Extent of repeal* |
+| --- | --- |
+| British Nationality Act 1981 (c. 61) | Section 3(4).<br>In section 4B(1), the word “or” immediately before paragraph (c).<br>In section 4C(2), the words “after 7th February 1961 and”.<br>In Schedule 1—<br>- (a) in paragraph 1(1)(a), the words from “, or the” to “this paragraph”,<br>- (b) paragraph 1(3), and<br>- (c) paragraph 2(1)(c). |
+| Hong Kong (War Wives and Widows) Act 1996 (c. 41) | In section 1(1), the word “and” immediately before paragraph (b). |
+| Nationality, Immigration and Asylum Act 2002 (c. 41) | Section 11. |
+| Immigration, Asylum and Nationality Act 2006 (c. 13) | Section 58. |
+
+### Part 3 — Immigration
+
+| *Reference* | *Extent of repeal* |
+| --- | --- |
+| UK Borders Act 2007 (c. 30) | In section 60(1), the words “1 to 4,”. |
+
+### Part 4 — Miscellaneous[^key-86d5ecb84c39adbc0de679219d1a45af]
+
+| *Reference* | *Extent of repeal* |
+| --- | --- |
+| UK Borders Act 2007 (c. 30) | Section 21. |
+
+## Annotations
+
+[^key-3fb839774235d1b8b4f976196b6bdd77]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/11) continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+
+[^key-62911b71228bd54348e1eeb527bf2aa8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/11) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [art. 11](https://www.legislation.gov.uk/uksi/2021/1281/article/11), [Sch. 9](https://www.legislation.gov.uk/uksi/2021/1281/schedule/9), [Sch. 9A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/9A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
+
+[^key-4a47c5dd209983ff6c7bd3c9d43b37da]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/11): power to amend conferred (28.6.2022 in so far as not already in force, 28.4.2022 for specified purposes) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(l)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/l), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+
+[^key-7fd8ab107b7ca8d7136e9432f2c48498]: Textual amendment: Words in s. 1(2)(d) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 8(a)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/8/a) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+
+[^key-21070d2a14f97f2fcdb428181c1e3e72]: Textual amendment: Words in s. 1(2)(e) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 8(b)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/8/b) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+
+[^key-f27a8d1929d677f3d9fc874ff82b7f55]: Textual amendment: S. 1(6)(aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 101(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/101/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+
+[^key-43fbdc32b16036c52fcf18e028888525]: Textual amendment: Words in [s. 1(8)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/8/b) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/2)
+
+[^key-5e31bd69037e2fb9d3a4fcb0ed26396d]: Textual amendment: Word in [s. 1(8)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/8/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 69(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/69/2/a)
+
+[^key-aeee5dfaa4bb5f433b339f9bf933fd19]: Textual amendment: Words in [s. 1(8)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/8/c) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b268c15b0a2ab96cc5323c76d9761f23]: Textual amendment: S. 7(2)(a) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2c658fe4c1553a3e4b1cac5f153684bd]: Textual amendment: Words in s. 7(2)(b) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(2)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/2/b) (as substituted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+
+[^key-96f1c00dd6675dd1edc4fe712fa419c5]: Textual amendment: Words in s. 7(2)(c) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(2)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/2/a) (as substituted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+
+[^key-bc07a5b84d303dc398050a4e7de8f004]: Textual amendment: S. 7(2)(e)(i) omitted (with effect in accordance with Sch. 24 para. 66(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 58](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/58) (with [Sch. 24 para. 62](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/62))
+
+[^key-152173689dace108bfe8cf84202e442a]: Textual amendment: [S. 7(2)(e)(ii)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/2/e/ii) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/14) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+
+[^key-688ea60c1c8519a825b0ab671cd3177d]: Textual amendment: Word in s. 7(2)(e)(vi) omitted (with effect in accordance with Sch. 24 para. 66(2) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 49(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/49/a)
+
+[^key-651d24fbc246dfcb3c660f0a6faecefb]: Textual amendment: S. 7(2)(e)(viii) and word inserted (with effect in accordance with Sch. 24 para. 66(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 49(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/49/b)
+
+[^key-cabd0ec376436c418b1555e152df6ed3]: Textual amendment: S. 7(7)(aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 101(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/101/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+
+[^key-eec1241b6e2beb24472a09a79ff38d14]: Textual amendment: Word in s. 7(7)(aa) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 156(3)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/3/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a))
+
+[^key-4a1d9ba9f9863c3e9692c416ebc92f13]: Textual amendment: S. 7(7)(ab) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 156(3)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/3/b) (as amended by [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/b)) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a))
+
+[^key-0b1767d49fa5f5fb39fc5f7e5394002c]: Textual amendment: Words in [s. 7(9)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/9/b) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/3)
+
+[^key-21245f729be39dccb0207cc9368067d6]: Textual amendment: Word in [s. 7(9)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/9/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 69(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/69/2/b)
+
+[^key-fcdea07d8a42c6f2e0cf83444df7a7ef]: Textual amendment: Words in s. 7(9)(c) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/4) (as substituted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+
+[^key-60d3b4dc3b2cdec6329450632e4e20dd]: Textual amendment: S. 7(10) inserted by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/5) (as substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)))
+
+[^key-34c9c7e1e31499c13d6a82807172358d]: Textual amendment: Words in [s. 15(7)](https://www.legislation.gov.uk/ukpga/2009/11/section/15/7) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/66)
+
+[^key-9a99fa2f753b4df411811bcbde0d1423]: Textual amendment: Words in [s. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/3/a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/67)
+
+[^key-f57c62bfc7fd734c6e7f1e64d7b4f527]: Textual amendment: Words in [s. 18(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/5/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-a505b7ff312ebfdeda7970d27069a2a3]: Textual amendment: Words in [s. 18(6)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+
+[^key-29a26c782a4074fb6dd9e33f22c57c7f]: Textual amendment: Words in [s. 18(6)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-206e8398f40d2fdd4867222fb14c9d5e]: Textual amendment: Words in s. 19(1)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 157(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/157/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-e87e972cc89a7e12c18290d59e055b7c]: Textual amendment: Words in s. 19(1)(b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 23](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/23) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+
+[^key-2ee4a5138e584a87aa7e57a0ed5d2222]: Textual amendment: S. 19(5) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 157(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/157/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-2e4f7f2a08288d7d2662798a0449d413]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2009/11/section/22) repealed (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2026/117/regulation/31)
+
+[^key-ca87863e9bb748bcdc421bd10f87c22c]: Textual amendment: Word in [s. 26(7)](https://www.legislation.gov.uk/ukpga/2009/11/section/26/7) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 69(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/69/2/c)
+
+[^key-01ed7b7273c2659181b2880502fe4fff]: Textual amendment: Words in [s. 26(7)](https://www.legislation.gov.uk/ukpga/2009/11/section/26/7) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(4)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c0177d487cc66ac4810262cf20ad96aa]: Textual amendment: Words in [s. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/29/2/b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 61(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/61/a)
+
+[^key-3384e1668c595809d06371371e0a1580]: Textual amendment: Words in [s. 29(6)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/29/6/a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 61(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/61/b)
+
+[^key-167484b8c251912db5887129eb560f49]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2009/11/section/31) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 68](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/68) (with [art. 8](https://www.legislation.gov.uk/uksi/2014/834/article/8))
+
+[^key-dbcbbb189bbb4b25077ebe317eb5fda3]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+
+[^key-1958ffef30e359ae529a0138f8f7d2d9]: Textual amendment: [S. 37(8)](https://www.legislation.gov.uk/ukpga/2009/11/section/37/8) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 69](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/69)
+
+[^key-6843f13212b4a8f695a66600a654370a]: Textual amendment: Words in s. 38 omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f54b9d38a93828a99f208b4329b28de9]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/2009/11/section/39) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+
+[^key-5bc1dfe46b048f03ba8c18e881cedaac]: Textual amendment: [S. 40](https://www.legislation.gov.uk/ukpga/2009/11/section/40) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+
+[^key-7eb0f514886e2a72a209b50e1cc94581]: Textual amendment: [S. 41(1)-(3)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/1) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+
+[^key-acf13f5381a9292cf0be33d086d49f6f]: Textual amendment: Words in [s. 41(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/4) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/b), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+
+[^key-d2d61a5ed584de41981f1d80f08aba2d]: Commencement: [S. 41(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/5) in force at 27.10.2014 for specified purposes by [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/a)
+
+[^key-ec13da6fae45e85fcf7eca010031266a]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2009/11/section/42) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/a)
+
+[^key-021410baa7b11ca4eeeb2d0a9b1d94c4]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2009/11/section/43) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/b)
+
+[^key-9d8cb68506709833b2a2ce799baf5001]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2009/11/section/44) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/c)
+
+[^key-d0ff63c474bee38ef89c4989b124067f]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2009/11/section/45) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(d)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/d)
+
+[^key-6eba8e0efda58108d9471b4bb7bdcee3]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2009/11/section/46) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(e)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/e)
+
+[^key-cbe1e6c8bb32a9d9e444531fbad4b4e7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2009/11/section/47) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/f)
+
+[^key-4427270d00c670215107ac112a2bdf5f]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2009/11/section/48) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(g)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/g)
+
+[^key-ad86618cb4d7a28e723900bcf9c8af3b]: Commencement: S. 49(1) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/h)
+
+[^key-bd80cc10fa5fa402734f43881adf2fbc]: Textual amendment: [S. 49(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/49/2) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+
+[^key-240a169b4e1b29c4bfeaa9211410d207]: Textual amendment: [S. 49(3)](https://www.legislation.gov.uk/ukpga/2009/11/section/49/3) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+
+[^key-0c6f9c607f5b88ca2ce6805346297138]: Commencement: S. 51 in force at 10.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/3/a)
+
+[^key-a783ed437100f0841e8c161a2373f616]: Textual amendment: S. 51(3) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 60](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/60) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+
+[^key-f8cb1e3c18e04aec08da007c9b8cdf37]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2009/11/section/52) in force at 27.10.2014 by [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/b)
+
+[^key-b14b1bc422c75c8518570fa38c606105]: Textual amendment: S. 53 repealed (1.11.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/22/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 5](https://www.legislation.gov.uk/uksi/2013/2200/article/5)
+
+[^key-a263bb03d963ceaec013e1f1d3fb21a4]: Commencement: S. 54 in force at 10.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/2731/article/3/b)
+
+[^key-121453d3cc5413fb950367140249d2e8]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/2009/11/section/54) repealed (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+
+[^key-8fe8517daffc564a5b08af1b32002145]: Textual amendment: [S. 54A](https://www.legislation.gov.uk/ukpga/2009/11/section/54A) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 3](https://www.legislation.gov.uk/ukpga/2014/22/section/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/b); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/b)
+
+[^key-90a2ad60b1f0a621ed456b2523e89322]: Commencement: S. 55 in force at 2.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/a)
+
+[^c19853981]: Commencement: S. 56 partly in force; s. 56 in force for certain purposes at Royal Assent see s. 58
+
+[^key-4f2ddaf6ec5316a9a51610a9a9dd4a32]: Commencement: S. 56 in force at 2.11.2009 for specified purposes by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/b)
+
+[^key-b9d936a5f630d734c6274c509b0d9b1e]: Commencement: S. 56 in force at 13.1.2010 for specified purposes by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/i)
+
+[^key-a3cc18876eec6322d51d793aa75c2597]: Textual amendment: Word in [s. 57(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/57/2) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(4)(a)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/4/a)
+
+[^key-74dba79a2ef52536bbb0d926a6308608]: Textual amendment: Word in [s. 57(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/57/2) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(4)(b)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/4/b)
+
+[^key-95484cfef45ea41fdaf46dc406e978c4]: Modification: [S. 57(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/57/5) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)(6)(k)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/k), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+
+[^c19853971]: Commencement: [Sch.](https://www.legislation.gov.uk/ukpga/2009/11/schedule) partly in force; [Sch.](https://www.legislation.gov.uk/ukpga/2009/11/schedule) in force for certain purposes at Royal Assent see [s. 58](https://www.legislation.gov.uk/ukpga/2009/11/section/58)
+
+[^key-79fcbd66061984f6723dcab210c57f49]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/2) in force at 13.1.2010 for specified purposes by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(j)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/j)
+
+[^key-86d5ecb84c39adbc0de679219d1a45af]: Commencement: [Sch. Pt. 4](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/4) in force at 2.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/c)

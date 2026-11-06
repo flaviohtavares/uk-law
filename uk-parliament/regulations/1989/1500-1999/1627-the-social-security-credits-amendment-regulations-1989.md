@@ -1,0 +1,137 @@
+---
+title: The Social Security (Credits) Amendment Regulations 1989
+id: uksi/1989/1627
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-09-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/1627
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/1627/pdfs/uksi_19891627_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/1627/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Credits) Amendment Regulations 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 1627
+
+SOCIAL SECURITY
+
+The Social Security (Credits) Amendment Regulations 1989
+
+Made
+
+5th September 1989
+
+Laid before Parliament
+
+8th September 1989
+
+Coming into force
+
+1st October 1989
+
+The Secretary of State for Social Security, in exercise of the powers conferred by sections 13(4) and 166 of, and Schedule 20[^f00001] to, the Social Security Act 1975[^f00002] and of all other powers enabling him in that behalf, hereby makes the following regulations, the Social Security Advisory Committee having agreed that proposals to make them should not be referred to it[^f00003]:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Social Security (Credits) Amendment Regulations 1989 and shall come into force on 1st October 1989.
+
+## 2. Amendment of the Social Security (Credits) Regulations 1975
+
+The Social Security (Credits) Regulations 1975[^f00004] (in these Regulations called “the principal regulations”) shall be amended in accordance with the provisions of regulations 3 and 4 of these Regulations.
+
+## 3. Amendment of regulation 8
+
+For paragraph (1) of regulation 8 of the principal regulations (credits on termination of full-time education, training or apprenticeship) there shall be substituted the following paragraph–
+
+> (1) For the purposes of his entitlement to unemployment benefit or sickness benefit a person shall be entitled to be credited with earnings equal to the lower earnings limit then in force for either one of the last two complete years before the beginning of the relevant benefit year if–
+>
+> - (a) during any part of that year he was–
+>   - (i) undergoing a course of full-time education; or
+>   - (ii) undergoing–
+>     - (a) a course of training which was full-time and which was arranged under section 2(1) of the Employment and Training Act 1973[^f00005]; or
+>     - (b) any other full-time course the sole or main purpose of which was the acquisition of occupational or vocational skills; or
+>     - (c) if he is a disabled person within the meaning of the Disabled Persons (Employment) Act 1944[^f00006], a part-time course attended for at least 15 hours a week which, if it was full-time, would fall within either of heads (a) or (b) above; or
+>   - (iii) an apprentice; and
+> - (b) the other year is, in his case, a reckonable year; and
+> - (c) that course or, as the case may be, his apprenticeship has terminated.
+
+## 4. Amendment of regulation 9
+
+Regulation 9 of the principal regulations (credits for unemployment or incapacity for work) shall be amended as follows–
+
+- (a) at the beginning of sub-paragraph (a) of paragraph (3) of that regulation there are inserted the words “in accordance with section 17[^f00007] and regulations made under that section”;
+- (b) at the beginning of sub-paragraph (a) of paragraph (5) of that regulation there are inserted the words “in accordance with section 17 and regulations made under that section”;
+- (c) for sub-paragraph (c) of paragraph (9) of that regulation there shall be substituted the following sub-paragraph–
+
+  > - (c) that person has claimed (“the earlier claim”) unemployment benefit, sickness benefit or maternity allowance in respect of a day, or in respect of which the maternity allowance period includes a day, falling within the relevant past year, and has satisfied, or may by virtue of any enactment or regulations be treated as having satisfied, in relation to the earlier claim–
+  >   - (i) for the purposes of a later claim for unemployment benefit or maternity allowance, the contribution conditions for such benefit; and
+  >   - (ii) for the purposes of a later claim for sickness benefit, the contribution conditions for that benefit;
+
+  ;
+- (d) at the end of sub-paragraph (e) of paragraph 9 of that regulation there shall be added the words “, but this sub-paragraph shall not apply in respect of any day after 30th September 1989 and falling within a period of interruption of employment which begins after 1st October 1988”.
+
+## 5. Amendment of the Social Security (Credits) Amendment (No. 4) Regulations 1988
+
+For regulation 3 of the Social Security (Credits) Amendment (No. 4) Regulations 1988[^f00008] there shall be substituted the following regulation–
+
+> **3.** If, on the day that this regulation comes into force, regulation 2 (transitional provisions) of the Social Security (Contribution Conditions for Unemployment and Sickness Benefit) Transitional Regulations 1988[^f00009] applies to a person (or would apply if a claim for benefit for that day had been made within the prescribed time) so that Schedule 3 to the Social Security Act 1975[^f00010] continues to apply to him as though the amendments made to it by section 6 of the Social Security Act 1988[^f00011] (contribution conditions for short-term benefits) had not been enacted, then, until the end of the period of interruption of employment in his case which is mentioned in that regulation, the provisions of the principal Regulations shall apply to him as if regulation 2(3)(b)(ii) of these Regulations had not come into force.
+
+.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Nicholas Scott
+
+Minister of State,
+
+Department of Social Security
+
+5th September 1989
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Security (Credits) Regulations 1975.
+
+Regulation 8, which provides for the crediting of earnings on termination of full-time education, training or apprenticeship, is amended so that credits may be awarded in respect of a tax year only if the person concerned was undergoing full-time (part-time in the case of a disabled person) education or training, or was an apprentice for at least part of that year.
+
+Regulation 9(3) and (5) is amended so that “day of unemployment” and “day of incapacity for work” are to be construed in accordance with section 17 of the Social Security Act 1975 and regulations made under it.
+
+The amendment to regulation 9(9)(c) extends the circumstances in which credits for a period of unemployment may be used to satisfy the second contribution condition on a later claim for sickness benefit.
+
+Regulation 9(9)(e) is amended to provide that it is not to apply in respect of any day after these Regulations come into force which falls within a period of interruption of employment which begins after 1st October 1988.
+
+The Regulations also amend the Social Security (Credits) Amendment (No. 4) Regulations 1988 so as to extend the period of operation of the transitional provision in regulation 3 of those Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: See the definitions of “Prescribe” and “Regulations” in Schedule 20.
+
+[^f00002]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14). Section 13(4) was amended by the Schedule to the Social Security (No. 2) Act [1980 (c. 39)](https://www.legislation.gov.uk/ukpga/1980/39) and by paragraph 2(3) of Schedule 8 to the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50).
+
+[^f00003]: Footnote: See section 61(1)(b) of the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), and paragraph 12(4) and (5) of Schedule 8 to the Social Security Act [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24).
+
+[^f00004]: Footnote: S.I. [1975/556](https://www.legislation.gov.uk/uksi/1975/556). The relevant amending instruments are S.I.s [1977/788](https://www.legislation.gov.uk/uksi/1977/788), [1983/197](https://www.legislation.gov.uk/uksi/1983/197), [1987/414](https://www.legislation.gov.uk/uksi/1987/414), [1988/516](https://www.legislation.gov.uk/uksi/1988/516), [1230](https://www.legislation.gov.uk/uksi/1988/1230) and [1545](https://www.legislation.gov.uk/uksi/1988/1545).
+
+[^f00005]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by the Employment Act [1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19), section 25.
+
+[^f00006]: Footnote: [1944 c. 10](https://www.legislation.gov.uk/ukpga/1944/10).
+
+[^f00007]: Footnote: Section 17 of the Social Security Act 1975 was amended with effect from 9th October 1989 by section 10 of, and paragraph 3 of Schedule 8 to the Social Security Act [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24).
+
+[^f00008]: Footnote: S.I. [1988/1545](https://www.legislation.gov.uk/uksi/1988/1545).
+
+[^f00009]: Footnote: S.I. [1988/1363](https://www.legislation.gov.uk/uksi/1988/1363).
+
+[^f00010]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14). Other relevant amendments to Schedule 3 were made by the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), Schedule 8, paragraph 3(1) to 3(3).
+
+[^f00011]: Footnote: [1988 c. 7](https://www.legislation.gov.uk/ukpga/1988/7).

@@ -1,0 +1,665 @@
+---
+title: The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999
+id: uksi/1999/1540
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1999-06-03'
+text_date: '1999-06-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1999/1540
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1540/pdfs/uksi_19991540_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/1540/data.pdf
+pending_changes: 198
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999
+
+> **Warning: changes not yet applied to this text (198).** Text as at 1999-06-30. See https://www.legislation.gov.uk/changes/affected/uksi/1999/1540
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1999 No. 1540
+
+FOOD
+
+The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999
+
+Made
+
+3rd June 1999
+
+Laid before Parliament
+
+7th June 1999
+
+Coming into force
+
+30th June 1999
+
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Health and the Secretary of State for Wales, acting jointly in relation to England and Wales, and the Secretary of State for Scotland in relation to Scotland, in exercise of the powers conferred on them by sections 6(4), 16(1), 17(1), 26(1)(a) and (3), 31 and 48(1) of the Food Safety Act 1990[^c16603551] after consultation in accordance with section 48(4) with such organisations as appear to them to be representative of interests likely to be substantially affected by the Regulations; the Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^c16603561] for the purposes of section 2(2) of the European Communities Act 1972[^c16603571] in relation to the exploitation and marketing of natural mineral waters, acting jointly, in exercise (so far as is required for revocations effected by these Regulations) of the powers conferred on them by the said section 2(2); and in exercise of all other powers enabling them in that behalf hereby make the following Regulations:
+
+## Part I — Introductory
+
+### 1. Title and commencement
+
+These Regulations may be cited as the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999 and shall come into force on 30th June 1999.
+
+### 2. Interpretation
+
+(1) In these Regulations, unless the context otherwise requires–
+
+- “the Act" means the Food Safety Act 1990;
+- “bottle", the noun, means a closed container of any kind in which water is sold for human consumption or from which water sold for human consumption is derived, and “bottle", the verb, and cognate expressions, shall be construed accordingly;
+- “bottled drinking water" means drinking water which is bottled;
+- “Directive 80/777" means Council Directive [80/777/EEC](https://www.legislation.gov.uk/european/directive/1980/0777) on the approximation of the laws of the Member States relating to the exploitation and marketing of natural mineral waters [^c16603581] as amended by Directive [96/70/EC](https://www.legislation.gov.uk/european/directive/1996/0070) of the European Parliament and of the Council [^c16603591];
+- “Directive 80/778" means Council Directive [80/778/EEC](https://www.legislation.gov.uk/european/directive/1980/0778) relating to the quality of water intended for human consumption [^c16603601];
+- “drinking water" means water intended for sale for human consumption other than–
+  - (a) natural mineral water; or
+  - (b) water which is marked or labelled “spring water" in accordance with regulation 11;
+- “EEA Agreement" means the Agreement on the European Economic Area [^c16603611] signed at Oporto on 2nd May 1992, as adjusted by the Protocol [^c16603621] signed at Brussels on 17th March 1993;
+- “EEA State" means a State which is a Contracting Party to the EEA Agreement;
+- “effervescent natural mineral water" means natural mineral water which conforms with the supplementary qualifications in Section III of Annex I;
+- “the exploitation and bottling requirements" means–
+  - (a) the requirements in the first and second unlettered sub-paragraphs of paragraph 2 of Annex II; and
+  - (b) the requirement in regulation 8(5);
+- “the Minister" means the Minister of Agriculture, Fisheries and Food;
+- “natural mineral water" means water which–
+  - (a) is microbiologically wholesome;
+  - (b) originates in an underground water table or deposit and emerges from a spring tapped at one or more natural or bore exits;
+  - (c) can be clearly distinguished from ordinary drinking water by the characteristics referred to in paragraph 1 of Section I of Annex I; and
+  - (d) is for the time being recognised for the purposes of Article 1 pursuant to regulation 4;
+- “parameter" means a property, element, organism or substance listed in the second column of the Tables in Part II of Schedule 3;
+- “prescribed concentration or value", in relation to any parameter, means the concentration or value specified in relation to that parameter in the Tables in Part II of Schedule 3 as measured by reference to the unit of measurement so specified;
+- “recognised" means recognised in Great Britain;
+- “relevant authority" means–
+  - (a) in England, the council of a district or London Borough;
+  - (b) in Wales, the council of each county or county borough; and
+  - (c) in Scotland, each council constituted by section 2 of the Local Government etc. (Scotland) Act 1994 [^c16603631]; and
+- “sell" includes possess for sale and offer, expose or advertise for sale, and “sale" shall be construed accordingly.
+
+(2) Other expressions used both in these Regulations and in Council Directive 80/777 or 80/778 have, in so far as the context admits, the same meaning in these Regulations as they bear in that Directive.
+
+(3) Any reference in these Regulations to a numbered Article or Annex is, save where the contrary intention appears, a reference to the Article or Annex so numbered in Directive 80/777.
+
+(4) Any reference in these Regulations to a numbered regulation or Schedule is, save where the contrary intention appears, a reference to the regulation or Schedule so numbered in these Regulations.
+
+### 3. Exemptions
+
+These Regulations do not apply to any water which–
+
+- (a) has a product licence issued under the provisions of the Medicines Act 1968 [^c16603641] or a marketing authorisation to which the Marketing Authorisations for Veterinary Medicinal Products Regulations 1994 [^c16603651] apply, or a marketing authorisation within the meaning of the Medicines for Human Use (Marketing Authorisations etc.) Regulations 1994 [^c16603661];
+- (b) is a natural mineral water which is used at source for curative purposes in thermal or hydromineral establishments;
+- (c) is not intended for sale for human consumption; or
+- (d) is a natural mineral water intended for export to a country other than an EEA State.
+
+## Part II — Natural mineral water
+
+### 4. Recognition as natural mineral water
+
+(1) Water is recognised for the purposes of Article 1 where–
+
+- (a) in the case of water extracted from the ground in Great Britain, it is recognised for those purposes by the relevant authority, such recognition having been granted in accordance with Part I of Schedule 1;
+- (b) in the case of water extracted from the ground in Northern Ireland, it is recognised there for those purposes by a responsible authority of Northern Ireland;
+- (c) in the case of water extracted from the ground in an EEA State other than the United Kingdom, it is recognised there for those purposes by a responsible authority of that EEA State; and
+- (d) in the case of water extracted from the ground in a country other than an EEA State–
+  - (i) it is recognised for those purposes by the Minister, such recognition having been granted in accordance with Part II of Schedule 1; or
+  - (ii) it has an equivalent recognition, given by a responsible authority, in–
+    - (aa) Northern Ireland; or
+    - (bb) an EEA State other than the United Kingdom.
+
+(2) Where, in relation to any water after it has been recognised for the purposes of Article 1 in accordance with Schedule 1, it is found–
+
+- (a) that, by analysis in accordance with Section II of Annex I, the requirements as to demonstration and determination in paragraph 1.3 of that Section are not met; or
+- (b) that the exploitation and bottling requirements are not met,
+
+the relevant authority or, as the case may be, the Minister, may withdraw that recognition until such time as the said requirements are met.
+
+(3) Where the relevant authority decides either not to grant or to withdraw recognition of a water for the purposes of Article 1 the person who exploits the relevant spring, or if different, the person who owns land on which the relevant spring is situated, may apply, in the case of a water extracted from the ground in England or Wales, to the Minister or, in the case of a water extracted from the ground in Scotland, to the Secretary of State for Scotland, for a review of that decision.
+
+(4) Upon an application for review of a decision being made pursuant to paragraph (3) above the Minister or Secretary of State, as the case may be, shall make such inquiry into the matter as may seem to him appropriate, and, having considered the results of that inquiry and any relevant facts elicited by it, shall either confirm the decision or direct the relevant authority to grant or restore, as appropriate, recognition of the water in question for the purposes of Article 1, and in the case of such a direction the relevant authority shall thereupon comply with the said direction.
+
+(5) Upon the grant or withdrawal of recognition for the purposes of Article 1 pursuant to this regulation the person who grants or withdraws it shall inform the Commission of the European Community of such grant or withdrawal.
+
+(6) A person who exploits a spring in Great Britain or in a country other than an EEA State from which there is extracted water which is recognised for the purposes of Article 1, such recognition having been granted in accordance with Schedule 1, may apply to the Minister or relevant authority, as appropriate, to have that recognition withdrawn.
+
+(7) The publication in the Official Journal of the European Community of the name of any water as that of a natural mineral water recognised in the Community for the purposes of Article 1 shall, save where recognition was granted in accordance with Schedule 1, be conclusive evidence that that water is recognised for the purposes of that Article.
+
+(8) For the purposes of paragraph (3) above “relevant spring" means the spring from which, pursuant to a permission given under regulation 6(1)(b) or to the seeking of recognition under the Natural Mineral Waters Regulations 1985 [^c16603671], there is extracted water in respect of which–
+
+- (a) an application for recognition for the purposes of Article 1 in accordance with Part I of Schedule 1 has been made but not granted; or
+- (b) recognition for the purposes of Article 1 has been withdrawn.
+
+(9) Schedule 2 shall have effect for the purposes specified for it in Schedule 1.
+
+### 5. Prohibition on sale
+
+No person shall sell any water the marking or labelling of which uses the name “natural mineral water" in, or as, the name of the water unless the water is natural mineral water.
+
+### 6. Exploitation of natural mineral water springs
+
+(1) No person shall exploit any natural mineral water spring or bottle any water extracted from such a spring unless–
+
+- (a) the water extracted from that spring is natural mineral water;
+- (b) the relevant authority has given permission for that spring to be exploited; and
+- (c) subject to the final unlettered sub-paragraph of paragraph 2 of Annex II, the exploitation and bottling requirements are met.
+
+(2) No person shall sell any water extracted from a spring which is exploited in contravention of paragraph (1) above.
+
+### 7. Treatments and additions
+
+(1) Subject to paragraph (3) below no person shall subject natural mineral water in its state at source to–
+
+- (a) any treatment other than a treatment referred to in sub-paragraph (a) or (d) of Article 4.1; or
+- (b) any addition other than the introduction or the reintroduction of carbon dioxide under the conditions laid down in Section III of Annex I.
+
+(2) No person shall sell any natural mineral water which, in its state at source, has been subjected to any treatment or addition in contravention of paragraph (1) above.
+
+(3) Paragraph (1) above shall not prevent the utilisation of natural mineral water in the manufacture of soft drinks.
+
+### 8. Colony count and organoleptic defects
+
+(1) No person shall bottle any natural mineral water the revivable total colony count of which, determined under the conditions laid down in paragraph 1.3.3. of Section II of Annex I–
+
+- (a) does not conform to the normal viable colony count of that water; or
+- (b) shows that the source of that water is contaminated.
+
+(2) No person shall bottle or sell any natural mineral water which contains any of the organisms or substances referred to in Article 5.2.
+
+(3) No person shall sell any bottled natural mineral water–
+
+- (a) which was bottled in contravention of paragraph (1) above;
+- (b) the total colony count of which fails, or has failed, to comply with the limits specified in paragraph (4)(a) below;
+- (c) in respect of which the requirement in paragraph (4)(b) below has not been met; or
+- (d) if–
+  - (i) its revivable total colony count is in excess of that which would result from the normal increase in the bacteria content which it had at source; or
+  - (ii) it contains any organoleptic defect.
+
+(4) For the period of 12 hours following bottling–
+
+- (a) the total colony count of water at source shall not exceed–
+  - (i) 100 per ml at 20 to 22°C in 72 hours on agar-agar or an agar-gelatine mixture; and
+  - (ii) 20 per ml at 37°C in 24 hours on agar-agar; and
+- (b) water shall be maintained at a temperature of 4°C +/- 1°C.
+
+(5) Where it is found during exploitation that natural mineral water is polluted and the bottling or sale, as appropriate, of the water would be in contravention of paragraph (1), (2) or (3) above, the spring from which the water is extracted shall not be exploited nor shall the water be bottled until the cause of the pollution is eradicated and the bottling and sale of the water does not contravene paragraph (1), (2) or (3) above.
+
+### 9. Bottling of natural mineral water
+
+No person shall bottle a natural mineral water, or sell a natural mineral water which is bottled, in any container other than a container which is fitted with closures designed to avoid any possibility of adulteration or contamination.
+
+### 10. Labelling of natural mineral water
+
+(1) No person shall cause a natural mineral water to be marked or labelled with–
+
+- (a) any sales description other than a sales description referred to in paragraph (2) below;
+- (b) a trade description which–
+  - (i) includes the name of a locality, hamlet or place where the inclusion of that name is not in accordance with Article 8.1; or
+  - (ii) is different from the name of the spring or the place of its exploitation other than in accordance with the requirements of Article 8.3;
+- (c) any designation, proprietary name, trade mark, brand name, illustration or other sign, whether emblematic or not, the use of which is forbidden by Article 9.1(a);
+- (d) any indication (other than those specified in sub-paragraphs (f) and (g) below) attributing to the natural mineral water properties relating to the prevention, treatment or cure of a human illness;
+- (e) any indication listed in column 1 of Annex III if a criterion appears in column 2 of that Annex opposite the indication and the natural mineral water does not meet that criterion;
+- (f) the indication “may be diuretic" or “may be laxative" unless the natural mineral water has been assessed as possessing the property attributed by the indication in accordance with physico-chemical analysis and pharmacological, physiological or clinical examination, as appropriate; or
+- (g) the indication “stimulates digestion" or “may facilitate the hepato-biliary functions" unless the natural mineral water has been assessed as possessing the property attributed by the indication in accordance with physico-chemical analysis and pharmacological, physiological and clinical examination.
+
+(2) The sales description of natural mineral water shall be–
+
+- (a) in the case of a natural mineral water other than an effervescent natural mineral water, “natural mineral water"; and
+- (b) in the case of an effervescent natural mineral water, the description in sub-paragraph (a), (b) or (c) of Section III of Annex I within which the water falls.
+
+(3) Natural mineral water shall be marked or labelled with–
+
+- (a) where it has undergone the treatment of total or partial elimination of free carbon dioxide by exclusively physical methods, the indication “fully de-carbonated" or “partially de-carbonated" as appropriate; and
+- (b) the mandatory information referred to in paragraph (4) below.
+
+(4) The mandatory information for natural mineral waters is–
+
+- (a) a statement of the analytical composition which statement shall indicate the characteristic constituents of the water; and
+- (b) the name of the place where the spring is exploited and the name of the spring.
+
+(5) No person shall sell any natural mineral water which–
+
+- (a) is marked or labelled in contravention of paragraph (1) above;
+- (b) has undergone any of the treatments referred to in paragraph (3)(a) above unless it is marked or labelled with the appropriate indication in accordance with that paragraph;
+- (c) is not marked or labelled with the mandatory information referred to in paragraph (4) above; or
+- (d) is marked or labelled with a trade description which is different from the trade description with which any other natural mineral water from the same spring is marked or labelled.
+
+## Part III — Spring water and bottled drinking water
+
+### 11. Spring water
+
+(1) No person shall cause any water to be marked or labelled with the description “spring water" unless–
+
+- (a) that water is extracted from a spring;
+- (b) subject to paragraph (2) below, that water would, if it were natural mineral water, meet the exploitation and bottling requirements;
+- (c) that water would, if it were natural mineral water, be capable of being bottled or sold, as appropriate, without contravening the provisions of regulation 8;
+- (d) that water is or has been bottled at source and, if it has not undergone any treatment, is intended for consumption in its natural state;
+- (e) that water is marked or labelled with the name of the place where the spring is exploited and the name of the spring;
+- (f) where that water is marked or labelled with any trade description, the water would, if it were natural mineral water, comply with the requirements of Article 8; and
+- (g) that water satisfies the requirements of Schedule 3.
+
+(2) Water marked or labelled with the description “spring water" which is transported from the spring to the bottling plant in containers other than those for distribution to the ultimate consumer shall not, for that reason, be taken to have failed to meet the exploitation and bottling requirements if, on or before 23rd November 1996, the water from that spring was so transported to the bottling plant.
+
+(3) No person shall sell any water which is marked or labelled in contravention of paragraph (1) above.
+
+### 12. Bottled drinking water
+
+(1) No person shall bottle any drinking water or sell any bottled drinking water unless it satisfies the requirements of Schedule 3.
+
+(2) No person shall cause any water which does not satisfy the provisions of Section 1 of Annex I, and which is bottled, to be marked or labelled with any designation, proprietary name, trade mark, brand name, illustration or other sign, whether emblematic or not, the use of which is forbidden by Article 9.1(b).
+
+## Part IV — Miscellaneous and supplemental
+
+### 13. Enforcement
+
+(1) Subject to paragraphs (2) and (3) below, each food authority shall enforce and execute these Regulations within its area.
+
+(2) The relevant authority shall, within its area–
+
+- (a) carry out periodic checks on any water which, for the purposes of Article 1.1 and in accordance with Part I of Schedule 1, has been recognised as a natural mineral water to ensure–
+  - (i) that the water is natural mineral water which complies with paragraph 3 of Section I of Annex I and has had its characteristics assessed in accordance with paragraph 2 of that Section as called for by paragraph 4(b) of Annex II; and
+  - (ii) that, subject as specified in regulation 6(1)(c), the exploitation and bottling requirements are met in relation to the water; and
+- (b) enforce and execute the provisions of regulations 6, 7 and 8.
+
+(3) For the purposes of the enforcement and execution of regulations 5, 10 and 11(1)(e) and (f) “food authority" does not include–
+
+- (a) the council of a district in a non-metropolitan county in England except where the county functions have been transferred to that council pursuant to a structural change; or
+- (b) the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and the Middle Temple).
+
+### 14. Analysis
+
+(1) An authorised officer of a food authority who has procured a sample under section 29 of the Act and who considers that it should be analysed for the purposes of these Regulations shall deal with the sample in accordance with this regulation and for the purposes of this regulation “sample" includes one or more bottles of any water.
+
+(2) The authorised officer shall forthwith divide the sample into three parts, each part to be marked and sealed or fastened up in such manner as its nature will permit, and shall–
+
+- (a) with respect to one part of the sample comply with paragraphs (3) to (6) below, and
+- (b) deal with the remaining parts in accordance with paragraph (7) below.
+
+(3) If the sample was purchased by the authorised officer, he shall give the part of the sample to the person from whom it was purchased.
+
+(4) If the sample is a sample of water brought into Great Britain and was taken by the authorised officer before delivery to a person who intends to sell that water in Great Britain, the officer shall give the part of the sample to that person.
+
+(5) If neither paragraph (3) nor paragraph (4) above applies, the authorised officer shall give the part of the sample to the person appearing to be the owner of the water from which the sample was taken.
+
+(6) In every case to which paragraphs (3) to (5) above apply the authorised officer shall inform the person to whom the part of the sample is given that the sample was purchased or taken, as appropriate, for the purpose of analysis by a public analyst.
+
+(7) Of the remaining parts of the sample, the authorised officer shall, unless he decides not to have an analysis made, submit one for analysis in accordance with section 30 of the Act, and retain the other.
+
+(8) Any part of a sample which under this regulation is to be given to any person may be given by delivering it to him or to his agent or by sending it to him by registered post or the recorded delivery service; but where after reasonable enquiry the authorised officer is unable to ascertain the name and address of the person to whom the part of the sample is to be given he may, in lieu of giving the part to that person, retain it.
+
+(9) If it appears to the authorised officer that any water, of which he has procured a sample for the purpose of analysis by a public analyst, was exploited or bottled by a person (not being a person to whom one part of the sample is required to be given by this regulation) having his name and an address in the United Kingdom displayed on the bottle or any other container thereof, the officer shall, unless he decides not to have an analysis made, within three days of procuring the sample send to that person a notice informing him–
+
+- (a) that the sample has been procured by the officer, and
+- (b) where the sample was taken or, as the case may be, from whom it was purchased.
+
+(10) Where a sample taken or purchased, as appropriate, by an authorised officer has been analysed by a public analyst, any person to whom a part of the sample was given under this regulation shall be entitled, upon request to the relevant food authority, to be supplied with a copy of the certificate of analysis by that authority.
+
+### 15.
+
+An authorised officer who has retained part of a sample shall submit it to the Government Chemist (or such other food analyst as the Government Chemist may direct) for analysis if–
+
+- (a) he and the person to whom a part of the sample was given under this regulation so agree (which agreement may include who is to pay the analysis fees), or
+- (b) a court so orders.
+
+### 16.
+
+Methods of analysis which accord with Article 12.5 of Directive 80/778 shall be used for the purposes of determining whether water satisfies the provisions of Schedule 3.
+
+### 17. Offences and penalties
+
+A person shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale if he contravenes regulation 5, 6, 7, 8, 9, 10(1) or (5), 11(1) or (3), 12 or 19(3).
+
+### 18. Defences
+
+(1) In any proceedings for an offence under these Regulations, other than in relation to natural mineral water, it shall be a defence for the person charged to prove–
+
+- (a) that the water in respect of which the offence was alleged to have been committed was intended for export to a country which has legislation analogous to these Regulations and that it complies with that legislation; and
+- (b) if the water was intended for export to an EEA State, that–
+  - (i) in the case of water marked or labelled with the term “spring water", the legislation complies with the provisions of Directives 80/777 and 80/778; and
+  - (ii) in the case of bottled drinking water, the legislation complies with the provisions of Directive 80/778.
+
+(2) In any proceedings for an offence under these Regulations in relation to the sale of any water other than drinking water it shall be a defence for the person charged to prove that–
+
+- (a) the water in respect of which the offence is alleged to have been committed was placed on the market or labelled, as the case may be, before 28th October 1998; and
+- (b) if it had been committed before the date these Regulations came into force the act alleged to constitute the offence would not have constituted an offence under–
+  - (i) in the case of natural mineral water, the Natural Mineral Waters Regulations 1985 [^c16603681]; or
+  - (ii) in the case of water marked or labelled with the description “spring water", the Drinking Water in Containers Regulations 1994 [^c16603691].
+
+(3) In any proceedings for an offence under these Regulations in which it is alleged that any natural mineral water is marked or labelled in contravention of sub-paragraph (d), (f) or (g) of regulation 10(1) it shall be a defence for the person charged to show–
+
+- (a) where the natural mineral water is recognised in Great Britain, that–
+  - (i) the water is intended for export to an EEA State; and
+  - (ii) the water is marked or labelled with no indication within the meaning of Article 9.2 other than one which is authorised in that State in accordance with that Article for use in relation to that water; and
+- (b) where the natural mineral water is recognised in an EEA State other than the United Kingdom, the water is marked or labelled with no indication within the meaning of Article 9.2 other than one which is authorised in that State in accordance with that Article for use in relation to that water.
+
+### 19. Application of other provisions
+
+(1) The following provisions of the Act shall apply for the purposes of these Regulations and, unless the context otherwise requires, any reference in those provisions to the Act or Part thereof shall be construed for the purposes of these Regulations as a reference to these Regulations–
+
+- (a) section 2 (extended meaning of “sale" etc.);
+- (b) section 3 (presumption that food is intended for human consumption);
+- (c) section 20 (offences due to fault of another person);
+- (d) section 21 (defence of due diligence) as it applies for the purposes of section 8, 14 or 15;
+- (e) section 22 (defence of publication in the course of business);
+- (f) section 30(8) (which relates to documentary evidence);
+- (g) section 33 (obstruction etc. of officers);
+- (h) section 35(1) to (3) (punishment of offences) in so far as it relates to offences under section 33(1) and (2) as applied by paragraph (g) above;
+- (i) section 36 (offences by bodies corporate); and
+- (j) section 44 (protection of officers acting in good faith).
+
+(2) In so far as regulation 38 (intelligibility) of the Food Labelling Regulations 1996 [^c16603701] would not otherwise cover any name, description, indication, information or other wording with which water is required or permitted by these Regulations to be marked or labelled, it shall apply for the purposes of these Regulations with the modification that the words “the particulars with which a food is required to be marked or labelled by these Regulations" shall be construed so as to cover them.
+
+(3) No person shall sell any water to which these Regulations apply if it is not marked or labelled in accordance with regulation 38 of the Food Labelling Regulations 1996 as applied by paragraph (2) above.
+
+### 20. Amendments
+
+(1) In the Food Safety (Sampling and Qualifications) Regulations 1990 [^c16603711] in Schedule 1 (provisions to which those Regulations do not apply) the title of the Natural Mineral Waters Regulations 1985 in the left hand column and their reference in the right hand column shall be omitted and at the end of that Schedule there shall be added in the left hand column the title of these Regulations and in the right hand column their reference.
+
+(2) In the Food Safety (General Food Hygiene) Regulations 1995 [^c16603721] in paragraph (1) of regulation 2 (interpretation) in the definition of “water"–
+
+- (a) for sub-paragraph (a) there shall be substituted–
+
+  > - (a) natural mineral water or drinking water within the meaning of the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999; or
+
+  ;
+- (b) the word “or" at the end of sub-paragraph (b) shall be omitted; and
+- (c) sub-paragraph (c) shall be omitted.
+
+(3) In the Food Labelling Regulations 1996 in paragraph (1) of regulation 2 (interpretation) in the definition of “natural mineral water" for the words “Natural Mineral Waters Regulations 1985" there shall be substituted the words “ Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999 ”.
+
+### 21. Revocations
+
+The Regulations specified in columns 1 and 2 of Schedule 4 shall be revoked to the extent specified in column 3 of that Schedule.
+
+Jeff Rooker
+
+Minister of State, Ministry of Agriculture, Fisheries and Food
+
+27th May 1999
+
+Signed by authority of the Secretary of State for Health
+
+Tessa Jowell
+
+Minister of State for Public Health,
+
+Department of Health
+
+27th May 1999
+
+Signed by authority of the Secretary of State for Wales
+
+Jon Owen Jones
+
+Parliamentary Under Secretary of State, Welsh Office
+
+3rd June 1999
+
+Sewel
+
+Parliamentary Under Secretary of State, Scottish Office
+
+27th May 1999
+
+## SCHEDULE 1 — Recognition of natural mineral waters
+
+Regulation 4
+
+### Part I — Natural mineral waters extracted from the ground in Great Britain
+
+**1.** A person seeking to have water which is extracted from the ground in Great Britain recognised as a natural mineral water for the purposes of Article 1 shall make application in writing to the relevant authority within whose area the water is extracted, giving the particulars set out in paragraph 2 below.
+
+**2.** The particulars to be given are–
+
+- (a) the particulars in paragraph 1.1 of Section II of Annex I;
+- (b) any other information showing that the requirements in paragraph 1.2 and 1.3 of the said Section II are established by analysis in accordance with that Section; and
+- (c) such evidence as is satisfactory to show that the water contains no substance named in column 2 (parameters) of Table B in Schedule 3 opposite any of item numbers 1 to 9 in column 1 of the said Table in an amount, expressed in the unit of measurement specified opposite that substance in column 3 of that Table, which exceeds the maximum concentration specified opposite that substance in column 4 of that Table.
+
+**3.** In so far as particulars of any of the anions, cations, non-ionised compounds or trace elements specified in column 1 of Schedule 2 are required to be given pursuant to sub-paragraph (b) of paragraph 2 above, the concentration of each such anion, cation, non-ionised compound or trace element shall, in those particulars, be expressed in the unit of measurement specified opposite it in column 2 of that Schedule.
+
+**4.** Where such particulars have been so given, the relevant authority shall assess them and shall, for the purposes of Article 1, recognise the water to which those particulars relate if it is satisfied that–
+
+- (a) the water is natural mineral water which complies with paragraph 3 of Section I of Annex I; and
+- (b) the characteristics of the water have been assessed in accordance with–
+  - (i) the points set out in paragraph (a) of the first unlettered sub-paragraph of paragraph 2 of Section I of Annex I;
+  - (ii) the requirements and criteria listed in Section II of Annex I; and
+  - (iii) recognised scientific methods.
+
+**5.** The relevant authority shall, on recognising a natural mineral water for the purposes of Article 1 in accordance with paragraph 4 above, publish an announcement of such recognition, and the grounds on which it has been granted, in the London Gazette and the Edinburgh Gazette.
+
+### Part II — Natural mineral waters extracted from the ground in a country other than an EEA State
+
+**1.** A person seeking to have a water which is extracted from the ground in a country other than an EEA State recognised as a natural mineral water for the purposes of Article 1 shall make application in writing to the Minister, giving the particulars set out in paragraph 2 below.
+
+**2.** The particulars to be given are–
+
+- (a) the particulars in paragraph 1.1 of Section II of Annex I;
+- (b) any other information showing that the requirements in paragraph 1.2 and 1.3 of the said Section II are established in accordance with that Section; and
+- (c) such evidence as is satisfactory to show that the water contains no substance named in column 2 (parameters) of Table B in Schedule 3 opposite any of item numbers 1 to 9 in column 1 of the said Table in an amount, expressed in the unit of measurement specified opposite that substance in column 3 of that Table, which exceeds the maximum concentration specified opposite that substance in column 4 of that Table.
+
+**3.** In so far as particulars of any of the anions, cations, non-ionised compounds or trace elements specified in column 1 of Schedule 2 are required to be given pursuant to paragraph 2 above the concentration of each such anion, cation, non-ionised compound or trace element shall, in those particulars, be expressed in the unit of measurement specified opposite it in column 2 of that Schedule.
+
+**4.** The Minister shall not recognise such a water unless the responsible authority of the country in which the water is extracted has certified that–
+
+- (a) it is satisfied–
+  - (i) that the requirements in paragraph 1.2 and 1.3 of Section II of Annex I are established by analysis in accordance with that Section; and
+  - (ii) with the evidence given pursuant to sub-paragraph (c) of paragraph 2 above; and
+- (b) periodic checks are made to ascertain that–
+  - (i) the water is natural mineral water which complies with paragraph 3 of Section I of Annex I;
+  - (ii) the characteristics of the water are assessed in accordance with–
+    - (aa) the points set out in paragraph (a) of the first unlettered sub-paragraph of paragraph 2 of Section I of Annex I;
+    - (bb) the requirements and criteria listed in Section II of Annex I; and
+    - (cc) recognised scientific methods; and
+  - (iii) the provisions of paragraphs 2 and 3 of Annex II are being applied by the person exploiting the spring.
+
+**5.** Recognition of such a water shall lapse after a period of five years unless the responsible authority of the country in which the water is extracted has renewed the certification required by paragraph 4 above.
+
+**6.** The Minister shall, on recognising a water in accordance with this Part of this Schedule, publish an announcement of such recognition in the London Gazette and the Edinburgh Gazette.
+
+## SCHEDULE 2 — Particulars of anions, cations, non-ionised compounds and trace elements
+
+Regulation 4(9)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1999/1540/images/uksi_19991540_en_sld_001)[image: see source](https://www.legislation.gov.uk/uksi/1999/1540/images/uksi_19991540_en_sld_002)
+
+## SCHEDULE 3 — Requirements for spring water and drinking water including prescribed concentrations or values of parameters
+
+Regulations 11, 12 and 16
+
+### Part I — Requirements for spring water and drinking water
+
+**1.** Water satisfies the requirements of this Schedule if–
+
+- (a) the water does not contain any property, element, organism, or substance–
+  - (i) (other than a parameter) at a concentration or value which would be injurious to health;
+  - (ii) (whether or not a parameter) at a concentration or value which in conjunction with any other property, element, organism or substance it contains (whether or not a parameter) would be injurious to health;
+- (b) the water does not contain–
+  - (i) concentrations or values of any of the parameters listed in Tables A to D in Part II of this Schedule in excess of the prescribed concentrations or values;
+  - (ii) concentrations of trihalomethanes (being the aggregate of the concentrations of trichloromethane, dichlorobromomethane, dibromochloromethane and tribromomethane) in excess of 100μg/l; and
+- (c) in the case of water prepared from water which has been softened or desalinated, its hardness is not below a minimum concentration of 60 mg Ca/l and its alkalinity is not below a minimum concentration of 30 mg HCO<sub>3</sub>/l.
+
+**2.** The concentrations or values of the parameters listed in Tables A to D in Part II of this Schedule shall be read in conjunction with the notes thereto.
+
+### Part II — Prescribed concentrations or values
+
+**TABLE A**
+
+<table>
+<tfoot>
+<tr><td colspan="4">{s001} Note<strong>(i)</strong> If silver is used in a water treatment process, 80 may be substituted for 10.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr>
+<tr><th><em>Item</em></th><th><em>Parameters</em></th><th><em>Units of Measurement</em></th><th><em>Concentration or Value (maximum unless otherwise stated)</em></th></tr>
+<tr><td>1.</td><td>Colour</td><td>mg/l Pt/Co scale</td><td>20</td></tr>
+<tr><td>2.</td><td>Turbidity (including suspended solids)</td><td>Formazin turbidity units</td><td>4</td></tr>
+<tr><td>3.</td><td>Odour (including hydrogen sulphide)</td><td>Dilution number</td><td>3 at 25°C</td></tr>
+<tr><td>4.</td><td>Taste</td><td>Dilution number</td><td>3 at 25°C</td></tr>
+<tr><td>5.</td><td>Temperature</td><td>°C</td><td>25</td></tr>
+<tr><td>6.</td><td>Sulphate</td><td>Mg SO<sub>4</sub>/l</td><td>250</td></tr>
+<tr><td>7.</td><td>Magnesium</td><td>Mg Mg/l</td><td>50</td></tr>
+<tr><td>8.</td><td>Sodium</td><td>Mg Na/l</td><td>150</td></tr>
+<tr><td>9.</td><td>Potassium</td><td>Mg K/l</td><td>12</td></tr>
+<tr><td>10.</td><td>Dry residues</td><td>Mg/l</td><td>1500 (after drying at 180°C)</td></tr>
+<tr><td>11.</td><td>Nitrate</td><td>Mg NO<sub>3</sub>/l</td><td>50</td></tr>
+<tr><td>12.</td><td>Nitrite</td><td>Mg NO<sub>2</sub>/l</td><td>0.1</td></tr>
+<tr><td>13.</td><td>Ammonium (ammonia and ammonium ions)</td><td>Mg NH<sub>4</sub>/l</td><td>0.5</td></tr>
+<tr><td>14.</td><td>Kjeldahl nitrogen</td><td>Mg N/l</td><td>1</td></tr>
+<tr><td>15.</td><td>Oxidizability (permanganate value)</td><td>Mg O<sub>2</sub>/l</td><td>5</td></tr>
+<tr><td>16.</td><td>Total organic carbon</td><td>Mg C/l</td><td>No significant increase over that normally observed</td></tr>
+<tr><td>17.</td><td>Dissolved or emulsified hydrocarbons (after extraction with petroleum ether); mineral oils</td><td>μg/l</td><td>10</td></tr>
+<tr><td>18.</td><td>Phenols</td><td>μg C<sub>6</sub>H<sub>5</sub>OH/l</td><td>0.5</td></tr>
+<tr><td>19.</td><td>Surfactants</td><td>μg/l (as lauryl sulphate)</td><td>200</td></tr>
+<tr><td>20.</td><td>Aluminium</td><td>μg A1/l</td><td>200</td></tr>
+<tr><td>21.</td><td>Iron</td><td>μg Fe/l</td><td>200</td></tr>
+<tr><td>22.</td><td>Manganese</td><td>μg Mn/l</td><td>50</td></tr>
+<tr><td>23.</td><td>Copper</td><td>μg Cu/l</td><td>3000</td></tr>
+<tr><td>24.</td><td>Zinc</td><td>μg Zn/l</td><td>5000</td></tr>
+<tr><td>25.</td><td>Phosphorus</td><td>μg P/l</td><td>2200</td></tr>
+<tr><td>26.</td><td>Fluoride</td><td>μg F/l</td><td>1500</td></tr>
+<tr><td>27.</td><td>Silver</td><td>μg Ag/l</td><td>10 {s001}<strong>(i)</strong></td></tr>
+</tbody>
+</table>
+
+**TABLE B**
+
+<table>
+<tfoot>
+<tr><td colspan="4">{s002}<strong>(i)</strong> The sum of the detected concentrations of individual substances.<br>{s003}<strong>(ii)</strong> The sum of the detected concentrations of fluoranthene, benzo 3.4 fluoranthene, benzo 11.12 fluoranthene, benzo 3.4 pyrene, benzo 1.12 perylene and indeno (1,2,3–cd) pyrene.</td></tr>
+</tfoot>
+<tbody>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr>
+<tr><th><em>Item</em></th><th><em>Parameters</em></th><th><em>Units of Measurement</em></th><th><em>Maximum Concentration</em></th></tr>
+<tr><td>1.</td><td>Arsenic</td><td>μg As/l</td><td>50</td></tr>
+<tr><td>2.</td><td>Cadmium</td><td>μg Cd/l</td><td>5</td></tr>
+<tr><td>3.</td><td>Cyanide</td><td>μg CN/l</td><td>50</td></tr>
+<tr><td>4.</td><td>Chromium</td><td>μg Cr/l</td><td>50</td></tr>
+<tr><td>5.</td><td>Mercury</td><td>μg Hg/l</td><td>1</td></tr>
+<tr><td>6.</td><td>Nickel</td><td>μg Ni/l</td><td>50</td></tr>
+<tr><td>7.</td><td>Selenium</td><td>μg Se/l</td><td>10</td></tr>
+<tr><td>8.</td><td>Antimony</td><td>μg Sb/l</td><td>10</td></tr>
+<tr><td>9.</td><td>Lead</td><td>μg Pb/l</td><td>10</td></tr>
+<tr><td>10.</td><td>Pesticides and related products:<br>(a)individual substances</td><td>μg/l</td><td>0.1</td></tr>
+<tr><td></td><td>(b)total substances {s002}<strong>(i)</strong></td><td>μg/l</td><td>0.5</td></tr>
+<tr><td>11.</td><td>Polycyclic aromatic Hydrocarbons {s003}<strong>(ii)</strong></td><td>μg/l</td><td>0.2</td></tr>
+</tbody>
+</table>
+
+[image: see source](https://www.legislation.gov.uk/uksi/1999/1540/images/uksi_19991540_en_sld_003)
+
+**TABLE D**
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| *Item* | *Parameters* | *Units of Measurement* | *Maximum Concentration or Value* |
+| 1\. | Conductivity | μS/cm | 1500 at 20°C |
+| 2\. | Chloride | mg Cl/l | 400 |
+| 3\. | Calcium | mg Ca/l | 250 |
+| 4\. | Substances extractable in chloroform | mg/l dry residue | 1 |
+| 5\. | Boron | μg B/l | 2000 |
+| 6\. | Barium | μg Ba/l | 1000 |
+| 7\. | Benzo 3.4 pyrene | ng/l | 10 |
+| 8\. | Tetrachloromethane | μg/l | 3 |
+| 9\. | Trichloroethene | μg/l | 30 |
+| 10\. | Tetrachloroethene | μg/l | 10 |
+
+## SCHEDULE 4 — Revocations
+
+Regulation 21
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| *Regulations revoked* | *References* | *Extent of revocation* |
+| The Natural Mineral Waters Regulations 1985 | S.I. 1985/73 | The whole Regulations |
+| The Food Safety Act 1990 (Consequential Modifications) (No. 2) (Great Britain) Order 1990 | S.I. 1990/2487 | Article 3(1) |
+| The Food Safety (Exports) Regulations 1991 | S.I. 1991/1476 | In Schedule 1 Part II the reference in column 2 to the Natural Mineral Waters Regulations 1985 and the entries corresponding thereto in columns 1 and 3 |
+| The Food (Forces Exemptions) (Revocations) Regulations 1992 | S.I. 1992/2596 | In the Schedule Part III the reference in column 2 to the Natural Mineral Waters Regulations 1985 and the entries corresponding thereto in columns 1 and 3 |
+| The Drinking Water in Containers Regulations 1994 | S.I. 1994/743 | The whole Regulations |
+| The Marketing Authorisations for Veterinary Medicinal Products Regulations 1994 | S.I. 1994/3142 | Schedule 5 paragraph 13 |
+| The Medicines for Human Use (Marketing Authorisations etc.) Regulations 1994 | S.I. 1994/3144 | Schedule 7 paragraphs 12 and 19 |
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 30th June 1999, implement Council Directive [80/777/EEC](https://www.legislation.gov.uk/european/directive/1980/0777) on the approximation of the laws of the Member States relating to the exploitation and marketing of natural mineral waters (OJ No. L229, 30.8.80, p. 1) as amended by Directive [96/70/EC](https://www.legislation.gov.uk/european/directive/1996/0070) of the European Parliament and of the Council (OJ No. L229, 23.11.96, p. 26).
+
+These Regulations also implement Council Directive [80/778/EEC](https://www.legislation.gov.uk/european/directive/1980/0778) (OJ No. L229, 30.8.80, p. 11) relating to the quality of water intended for human consumption, in relation to other drinking water which is bottled or sold in a bottle (as defined in regulation 2).
+
+These Regulations revoke the Natural Mineral Waters Regulations 1985 (S.I. 1985/71) and the Drinking Waters in Containers Regulations 1994 (S.I. 1994/743), which previously implemented Directives [80/777/EEC](https://www.legislation.gov.uk/european/directive/1980/0777) and [80/778/EEC](https://www.legislation.gov.uk/european/directive/1980/0778). These Regulations also cover production of spring waters, which was not covered by S.I. 1985/71 in so far as they were not classifiable as natural mineral waters.
+
+These Regulations–
+
+**a)** provide specified exemptions (regulation 3);
+
+**b)** prescribe the conditions for recognition of natural mineral water (regulation 4);
+
+**c)** prohibit the sale, as natural mineral water, of water which is not natural mineral water (regulation 5);
+
+**d)** prescribe the conditions for the exploitation of natural mineral water springs and the bottling of water therefrom and prohibit the sale of water extracted from them but not exploited or bottled in accordance with those conditions (regulation 6);
+
+**e)** prohibit the subjecting of natural mineral water to any treatment or addition other than those specified and prohibit the sale of natural mineral water which has been subjected to any treatment or addition other than one so specified (regulation 7);
+
+**f)** prohibit the bottling, and sale, of natural mineral water which does not comply with specified requirements as to colony counts or which contains any organoleptic defect (regulation 8);
+
+**g)** prohibit the bottling, and sale, of natural mineral water in other than a specified type of container (regulation 9);
+
+**h)** impose labelling requirements on natural mineral water and prohibit the sale thereof unless those requirements are met (regulation 10);
+
+**i)** prohibit the labelling of water as spring water, or the sale of water so labelled, unless specified requirements are met (regulation 11);
+
+**j)** prohibit the bottling or sale of bottled drinking water which does not satisfy specified requirements and the use of specified labelling (regulation 12 and Schedule 2);
+
+**k)** make provision for enforcement and analysis (regulations 13 to 16);
+
+**l)** provide for offences and prescribe penalties (regulation 17);
+
+**m)** provide specific defences in relation to exports, imports and water placed on the market or labelled before the Regulations come into force (regulation 18);
+
+**n)** apply provisions of the Food Safety Act 1990 (including the defence of due diligence) and the Food Labelling Regulations 1996 (regulation 19); and
+
+**o)** amend and revoke other legislation (regulations 20 and 21 and Schedule 4).
+
+A Regulatory Impact Assessment has been prepared and placed in the library of each House of Parliament. Copies can be obtained from the Food Labelling and Standards Division of the Ministry of Agriculture, Fisheries and Food, Ergon House, 17, Smith Square, London SW1P 3JR.
+
+## Annotations
+
+[^c16603551]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16): “the Ministers" is defined in section 4(1) of the Act; [section 6(4)(a)](https://www.legislation.gov.uk/uksi/1999/1540/section/6/4/a) was amended by paragraph 6 of Schedule 9 to the [Deregulation and Contracting Out Act 1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40).
+
+[^c16603561]: Marginal citation: [S.I. 1973/1889](https://www.legislation.gov.uk/uksi/1973/1889).
+
+[^c16603571]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c16603581]: Marginal citation: OJ No. L229, 30.8.80, p. 1; as amended by Directive 96/70/EC of the European Parliament and of the Council.
+
+[^c16603591]: Marginal citation: OJ No. L229, 23.11.96, p. 26.
+
+[^c16603601]: Marginal citation: OJ No. L229, 30.8.80, p. 11.
+
+[^c16603611]: Marginal citation: OJ No. L1, 3.1.94, p. 1.
+
+[^c16603621]: Marginal citation: OJ No. L1, 3.1.94, p. 571.
+
+[^c16603631]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^c16603641]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^c16603651]: Marginal citation: [S.I. 1994/3142](https://www.legislation.gov.uk/uksi/1994/3142); to which there are amendments not relevant to these Regulations.
+
+[^c16603661]: Marginal citation: [S.I. 1994/3144](https://www.legislation.gov.uk/uksi/1994/3144); to which there are amendments not relevant to these Regulations.
+
+[^c16603671]: Marginal citation: [S.I. 1985/71](https://www.legislation.gov.uk/uksi/1985/71); amended by [S.I. 1990/2486](https://www.legislation.gov.uk/uksi/1990/2486), 1991/1476, 1992/2596, 1994/3142 and 1994/3144.
+
+[^c16603681]: Marginal citation: [S.I. 1985/71](https://www.legislation.gov.uk/uksi/1985/71); amended by [S.I. 1990/2486](https://www.legislation.gov.uk/uksi/1990/2486), 1991/1476, 1992/2596, 1994/3142 and 1994/3144.
+
+[^c16603691]: Marginal citation: [S.I. 1994/743](https://www.legislation.gov.uk/uksi/1994/743); amending instrument is [S.I. 1994/3144](https://www.legislation.gov.uk/uksi/1994/3144).
+
+[^c16603701]: Marginal citation: [S.I. 1996/1499](https://www.legislation.gov.uk/uksi/1996/1499); to which there are amendments not relevant to these Regulations.
+
+[^c16603711]: Marginal citation: [S.I. 1990/2463](https://www.legislation.gov.uk/uksi/1990/2463); to which there are amendments not relevant to these Regulations.
+
+[^c16603721]: Marginal citation: [S.I. 1995/1763](https://www.legislation.gov.uk/uksi/1995/1763); to which there are amendments not relevant to these Regulations.

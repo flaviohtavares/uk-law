@@ -1,0 +1,147 @@
+---
+title: The Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008
+id: uksi/2008/386
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-02-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/386
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/386/pdfs/uksiem_20080386_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/386/pdfs/uksi_20080386_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/386/made/data.pdf
+pending_changes: 8
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 386
+
+Rating And Valuation, England
+
+The Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008
+
+Made
+
+18th February 2008
+
+Laid before Parliament
+
+26th February 2008
+
+Coming into force
+
+1st April 2008
+
+The Secretary of State, in exercise of the powers conferred by sections 45(1)(d), (9) and 10, 143(2) and 146(6) of the Local Government Finance Act 1988[^f00001], makes the following Regulations:
+
+## 1. Citation, application and commencement
+
+These Regulations, which apply in relation to England only, may be cited as the Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008 and shall come into force on 1st April 2008.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “qualifying industrial hereditament” means any hereditament other than a retail hereditament in relation to which all buildings comprised in the hereditament are—
+  - (a) constructed or adapted for use in the course of a trade or business; and
+  - (b) constructed or adapted for use for one or more of the following purposes, or one or more such purposes and one or more purposes ancillary thereto—
+    - (i) the manufacture, repair or adaptation of goods or materials, or the subjection of goods or materials to any process;
+    - (ii) storage (including the storage or handling of goods in the course of their distribution);
+    - (iii) the working or processing of minerals; and
+    - (iv) the generation of electricity;
+- “relevant non-domestic hereditament” means any non-domestic hereditament consisting of, or of part of, any building, together with any land ordinarily used or intended for use for the purposes of the building or part;
+- “retail hereditament” means any hereditament where any building or part of a building comprised in the hereditament is constructed or adapted for the purpose of the retail provision of—
+  - (a) goods, or
+  - (b) services, other than storage for distribution services, where the services are to be provided on or from the hereditament; and
+- “the Act” means the Local Government Finance Act 1988.
+
+## 3. Hereditaments prescribed for the purposes of section 45(1)(d) of the Act
+
+The class of non-domestic hereditaments prescribed for the purposes of section 45(1)(d) of the Act consists of all relevant non-domestic hereditaments other than those described in regulation 4.
+
+## 4. Hereditaments not prescribed for the purposes of section 45(1)(d) of the Act
+
+The relevant non-domestic hereditaments described in this regulation are any hereditament—
+
+- (a) which, subject to regulation 5, has been unoccupied for a continuous period not exceeding three months;
+- (b) which is a qualifying industrial hereditament that, subject to regulation 5, has been unoccupied for a continuous period not exceeding six months;
+- (c) whose owner is prohibited by law from occupying it or allowing it to be occupied;
+- (d) which is kept vacant by reason of action taken by or on behalf of the Crown or any local or public authority with a view to prohibiting the occupation of the hereditament or to acquiring it;
+- (e) which is the subject of a building preservation notice within the meaning of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00002] or is included in a list compiled under section 1 of that Act;
+- (f) which is included in the Schedule of monuments compiled under section 1 of the Ancient Monuments and Archaeological Areas Act 1979[^f00003];
+- (g) whose rateable value is less than £2,200;
+- (h) whose owner is entitled to possession only in his capacity as the personal representative of a deceased person;
+- (i) where, in respect of the owner’s estate, there subsists a bankruptcy order within the meaning of section 381(2) of the Insolvency Act 1986[^f00004];
+- (j) whose owner is entitled to possession of the hereditament in his capacity as trustee under a deed of arrangement to which the Deeds of Arrangement Act 1914[^f00005] applies;
+- (k) whose owner is a company which is subject to a winding-up order made under the Insolvency Act 1986 or which is being wound up voluntarily under that Act;
+- (l) whose owner is a company in administration within the meaning of paragraph 1 of Schedule B1 to the Insolvency Act 1986 or is subject to an administration order made under the former administration provisions within the meaning of article 3 of the Enterprise Act 2002 (Commencement No. 4 and Transitional Provisions and Savings) Order 2003[^f00006];
+- (m) whose owner is entitled to possession of the hereditament in his capacity as liquidator by virtue of an order made under section 112 or section 145 of the Insolvency Act 1986.
+
+## 5. Continuous occupation
+
+A hereditament which has been unoccupied and becomes occupied on any day shall be treated as having been continuously unoccupied for the purposes of regulation 4(a) and (b) if it becomes unoccupied again on the expiration of a period of less than six weeks beginning with that day.
+
+## 6. Hereditaments not previously occupied
+
+For the purposes of regulation 4(a) and (b), a hereditament which has not previously been occupied shall be treated as becoming unoccupied—
+
+- (a) on the day determined under paragraph 8 of Schedule 1 to the General Rate Act 1967[^f00007], or on the day determined under Schedule 4A to the Act[^f00008], whichever day first occurs; or
+- (b) where paragraph (a) does not apply, on the day for which the hereditament is first shown in a local rating list.
+
+## 7. Revocation and saving
+
+(1) Subject to paragraph (2), the Non-Domestic Rating (Unoccupied Property) Regulations 1989[^f00009] are revoked in their application to England.
+
+(2) Those Regulations shall continue to apply for the purposes of calculating liability for rates in respect of financial years beginning before 1st April 2008.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+John Healey
+
+Minister of State
+
+Department for Communities and Local Government
+
+18th February 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 45 of the Local Government Finance Act 1988 provides that owners of empty non-domestic properties are liable to pay non-domestic rates if certain conditions apply. One of those conditions is that the property must fall within a class prescribed by regulations made, in relation to England, by the Secretary of State.
+
+These Regulations prescribe that class as consisting of all buildings or parts of buildings except those listed in regulation 4 (regulation 3). Those exceptions include all properties which have been continuously empty for three months or less.
+
+The exceptions largely replicate those in regulation 2(2) of the Non-Domestic Rating (Unoccupied Property) Regulations 1989 (“the 1989 Regulations”), which are revoked in their application to England by these Regulations (regulation 7). However, the exception for certain industrial properties which have been continuously empty for six months or less (regulation 4(b)) replaces the previous permanent exception for those properties and the exception for companies in administration (regulation 4(l)) is new.
+
+Regulations 5 and 6 contain similar provisions to those in the 1989 Regulations dealing with when a property will be considered to have been continuously empty for three or six months or less and the application of the Regulations to properties which have never been occupied.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Department for Communities and Local Government’s Business Rates and Valuation Division (telephone 020 7944 4224) and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website (www.ospi.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41); section 45(1)(d) was amended, and subsections (9) and (10) inserted, by the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraphs 23(2) and (3) and 79(3). These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the entry in Schedule 1 for the Local Government Finance Act 1988. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
+
+[^f00002]: Footnote: [1990 c.9](https://www.legislation.gov.uk/ukpga/1990/9). “Building preservation notice” is defined in section 91(1).
+
+[^f00003]: Footnote: [1976 c.46](https://www.legislation.gov.uk/ukpga/1976/46).
+
+[^f00004]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00005]: Footnote: [1914 c.47](https://www.legislation.gov.uk/ukpga/1914/47).
+
+[^f00006]: Footnote: [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), to which there are amendments not relevant to these Regulations.
+
+[^f00007]: Footnote: [1967 c.9](https://www.legislation.gov.uk/ukpga/1967/9).
+
+[^f00008]: Footnote: Schedule 4A was inserted by paragraph 36 of Schedule 5 to the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^f00009]: Footnote: [S.I. 1989/2261](https://www.legislation.gov.uk/uksi/1989/2261), to which there are amendments not relevant to these Regulations.

@@ -1,0 +1,23 @@
+---
+title: Towns Improvement Clauses Act 1847, section 197
+act: Towns Improvement Clauses Act 1847
+section: '197'
+status: revised
+text_date: '2016-10-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/10-11/34/section/197
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Towns Improvement Clauses Act 1847, section 197
+
+> Text as at 2016-10-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 197. Occupier not to be required to pay more than the amount of rent owing by him.
+
+*Extent: E+W+S+N.I.*
+
+Provided always, that no such occupier shall be required to pay, nor shall his goods and chattels be distrained for, any further sum than the amount of rent due from him at the time of the demand made upon him for such amount or rate, or which after such demand, and after notice not to pay the same to his landlord, at any time accrues and becomes payable by him, unless he refuse, on application being made to him for that purpose by or on behalf of the commissioners, truly to disclose the amount of his rent, and the name and address of the person to whom such rent is payable; but the burden of proof that the sum demanded from any such occupier is greater than the rent due by him at the time of such notice, or which has since accrued, shall lie upon such occupier.

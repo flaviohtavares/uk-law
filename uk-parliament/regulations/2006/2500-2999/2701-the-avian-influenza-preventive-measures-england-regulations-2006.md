@@ -1,0 +1,453 @@
+---
+title: The Avian Influenza (Preventive Measures) (England) Regulations 2006
+id: uksi/2006/2701
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-10-10'
+text_date: '2024-04-25'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2006/2701
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/2701/pdfs/uksiem_20062701_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2701/pdfs/uksi_20062701_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2701/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Avian Influenza (Preventive Measures) (England) Regulations 2006
+
+> Text as at 2024-04-25.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2006 No. 2701
+
+animals, england
+
+animal health
+
+The Avian Influenza (Preventive Measures) (England) Regulations 2006
+
+Made
+
+10th October 2006
+
+Laid before Parliament
+
+16th October 2006
+
+Coming into force
+
+13th November 2006
+
+The Secretary of State is designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy of the European Community[^f00002].
+
+Exercising the powers conferred upon him by that section, he makes the following Regulations:
+
+## 1. Title, application and commencement
+
+(1) These Regulations may be cited as the Avian Influenza (Preventive Measures) (England) Regulations 2006.
+
+(2) These Regulations apply in England only and come into force on 13<sup>th </sup>November 2006.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the Act” means the Animal Health Act 1981[^f00003];
+- “avian influenza” means an infection of poultry or other captive birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
+- “disinfect” means disinfect with a disinfectant approved by the Secretary of State under the Diseases of Animals (Approved Disinfectants) Order 1978[^f00004] for use under the Diseases of Poultry Order[^f00005];
+- “inspector” means an inspector appointed by the Secretary of State or by a local authority for the purposes of these Regulations or under the Act and, unless the context otherwise requires, includes a veterinary inspector;
+- “keeper” means the person with day to day responsibility for poultry or other captive birds at any premises;
+- “local authority” means—
+  - (a) in any part of England where there is, within the meaning of the Local Government Changes for England Regulations 1994[^f00006], a unitary authority for that local government area, that authority;
+  - (b) where there is not a unitary authority—
+    - (i) in a metropolitan district, the council of that district;
+    - (ii) in a non-metropolitan county, the council of that county;
+    - (iii) in each London borough, the council of that borough;
+    - (iv) in the city of London, the Common Council;
+- “occupier” means, in relation to any premises, the person in charge of those premises;
+- “other captive bird” means any bird kept in captivity which is not poultry and includes a pet bird and any bird kept for shows, races, exhibitions, competitions, breeding or for sale;
+- “poultry” means all birds that are reared or kept in captivity for the production of meat or eggs for consumption, the production of other commercial products, for restocking supplies of game or for the purposes of any breeding programme for the production of these categories of birds;
+- “premises” includes any land, building or place;
+- “vaccinate” means treat poultry or other captive birds with vaccine against avian influenza;
+- “vehicle” includes—
+  - (a) a trailer, semi-trailer or other thing designed or adapted to be towed by another vehicle;
+  - (b) a detachable part of any vehicle; and
+  - (c) a container or other structure designed or adapted to be carried on a vehicle;
+- “veterinary inspector” means a person appointed as such by the Secretary of State for the purposes of these Regulations or under the Act;
+- “zoo” means either—
+  - (a) a permanent establishment where animals of wild species are kept for exhibition to the public for seven or more days a year, with the exception of circuses and pet shops; or
+  - (b) an approved body, institute or centre, as defined in point (c) of Article 2(1) of Council Directive 92/65 EC laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(I)) to Directive [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425)[^f00007].
+
+## 3. Licences and notices
+
+(1) Licences and notices under these Regulations must be in writing and may be amended, suspended or revoked in writing at any time.
+
+(2) Licences under these Regulations may be general or specific and subject to such conditions as the person granting them considers necessary.
+
+## 4. Licences granted in Scotland or Wales
+
+Licences granted in Scotland or Wales for activities that could be licensed in England under these Regulations have effect in England as if they were granted under these Regulations, but an inspector acting under the direction of the Secretary of State may serve a notice on any person moving any thing under the authority of such a licence, directing him to move it to and keep it on premises specified in the notice or move it out of England.
+
+## 5. Production of licences
+
+(1) A person moving any thing under the authority of a specific licence granted under these Regulations must—
+
+- (a) keep the licence or a copy of it with him at all times during the licensed movement;
+- (b) on demand by an inspector, veterinary inspector or other officer of the Secretary of State, produce the licence or copy and allow a copy or extract of it to be taken; and
+- (c) on such demand, provide his name and address.
+
+(2) A person moving any thing under the authority of a general licence granted under these Regulations must—
+
+- (a) keep with him, at all times during the licensed movement, a consignment note that contains details of—
+  - (i) what is moved, including its quantity;
+  - (ii) the date of the movement;
+  - (iii) the name of the consignor;
+  - (iv) the address of the premises from which the thing was moved;
+  - (v) the name of the consignee; and
+  - (vi) the address of the premises to which the thing is being moved.
+- (b) on demand by an inspector, veterinary inspector or other officer of the Secretary of State, produce the consignment note and allow a copy or extract to be taken; and
+- (c) on such demand, provide his name and address.
+
+## 6. Prohibition of bird gatherings
+
+(1) No person shall arrange any fair, market, show, exhibition or other gathering involving the collecting together of poultry or other captive birds unless the Secretary of State licenses him to do so.
+
+(2) No person shall bring any poultry or other captive bird to such a gathering if he knows or suspects that the gathering is not so licensed.
+
+(3) The Secretary of State must not grant a licence under paragraph (1) unless—
+
+- (a) a veterinary risk assessment has been carried out; and
+- (b) he is satisfied that such a gathering and the transit of birds to and from such a gathering would not significantly increase the risk of the transmission of avian influenza virus.
+
+## 7. Notification of premises where poultry or other captive birds are kept[^key-f4d454d0d4afc2f675e08568e956dc20]
+
+(1) A person who keeps poultry or other captive birds at any premises must notify the Secretary of State in writing of the following information in relation to the premises—
+
+- (a) the address and (if there is one) the holding number of the premises;
+- (b) that person’s name and address and, if different from that person’s, those of—
+  - (i) the owner of the poultry or other captive birds; and
+  - (ii) the occupier of the premises;
+- (c) the species of poultry or other captive birds kept at the premises;
+- (d) the number of birds of each species of poultry or other captive birds kept at the premises; and
+- (e) the purpose or purposes for which the poultry or other captive birds are kept.
+
+(2) A person who keeps 50 or more poultry birds or other captive birds at any premises must notify the Secretary of State in writing of the following information in addition to the requirements set out in paragraph (1)—
+
+- (a) in relation to poultry—
+  - (i) the husbandry system or systems in use at the premises;
+  - (ii) the purposes for which poultry is kept, whether for the production of meat, hatching eggs, eggs for consumption or any other purpose;
+- (b) details of any seasonal stocking variations which are likely to result in a significant variation in the number or species of poultry or other captive birds on the premises at any time during any given 12-month period; and
+- (c) details of the number and species of poultry or other captive birds with access to open air on the premises.
+
+(3) The notification made under paragraph (1) or (2) must be—
+
+- (a) made in writing on or before 1 October 2024;
+- (b) updated online—
+  - (i) before 1 October 2025; and
+  - (ii) in each subsequent calendar year, within 12 months of the update last made under this paragraph or paragraph (5).
+
+(4) A person who, after 1 September 2024 becomes the keeper of any poultry or other captive birds at any premises, must—
+
+- (a) within 30 days of becoming the keeper, notify the Secretary of State in writing of the information mentioned in paragraph (1), and where 50 or more such birds are kept at the premises, paragraph (2); and
+- (b) update that notification online in each subsequent calendar year, within 12 months of the update last made under this paragraph or paragraph (5).
+
+(5) A person who has made a notification under this regulation must update the notification within 30 days of any change of the following kinds—
+
+- (a) a change in any of the matters required to be notified under paragraph (1)(a), (b), (c ), (e), or (2);
+- (b) in relation to premises where 50 or more poultry birds or captive birds are kept, an increase or decrease of 20% or more in the number of poultry or other captive birds specified under paragraph (2) unless this change is due to—
+  - (i) the emptying of poultry houses or hatcheries for immediate restocking; or
+  - (ii) seasonal stocking.
+
+(6) The Secretary of State may by notice, require a person making a notification under paragraph (1) or (2) to notify information additional to that required under the paragraph in question.
+
+(7) A person required to notify information under paragraph (6) must do so within 30 days of receiving notice from the Secretary of State.
+
+(8) In this regulation and regulation 7A, “**access to open air**” means—
+
+- (a) permanent or temporary housing of poultry or other captive birds in a fully or partially meshed, netted or caged outdoor structure, whether fixed or mobile, which is not fully enclosed within a building; or
+- (b) temporary removal of poultry or other captive birds from their housing in order to be flown freely outdoors;
+
+## 7A. Notification of premises where birds are kept: exceptions[^key-6dc080279b48cb881bd9b067865684b5]
+
+The requirement to notify the Secretary of State under regulation 7 does not apply to keepers of captive birds at any premises where the only captive birds kept—
+
+- (a) belong to the order Psittaciformes or Passeriformes; and
+- (b) are housed on the premises fully within a dwelling or within a bird house with no access to open air
+
+## 8. Restriction on vaccination of zoo birds
+
+(1) No person shall vaccinate any zoo bird unless he is required or licensed to do so by the Secretary of State.
+
+(2) Paragraph (1) does not apply to—
+
+- (a) anything done under the authority of a licence granted under article 4 of the Specified Animal Pathogens Order 1998[^f00011]; or
+- (b) administration of a vaccine for research purposes in accordance with an animal test certificate granted under regulation 8 of the Veterinary Medicines Regulations 2005[^f00012].
+
+## 9. Vaccination of zoo birds
+
+(1) If the condition in paragraph (2) is fulfilled, the Secretary of State may—
+
+- (a) vaccinate such birds in such zoos as he considers necessary (after giving written notice to the occupier of such zoos);
+- (b) require (by written notice to the occupier of any zoo) the vaccination of any bird in the zoo; or
+- (c) license the occupier of a zoo to vaccinate any bird in the zoo.
+
+(2) The condition is that the Secretary of State has carried out a risk assessment and considers there is a risk that avian influenza will be transmitted to zoo birds or to categories of such birds.
+
+(3) As part of his risk assessment, the Secretary of State must consider whether a zoo is—
+
+- (a) on a migratory flyway;
+- (b) close to any body of water where migratory birds may gather;
+- (c) located in an area with a high density of migratory birds.
+
+(4) The Secretary of State must specify, in a notice or licence under this regulation—
+
+- (a) the number and species of birds to be vaccinated;
+- (b) biosecurity conditions to be met at the zoo or any part of the zoo;
+- (c) conditions relating to the storage and administration of vaccine.
+
+(5) The Secretary of State must ensure that vaccination is carried out in accordance with the preventive vaccination plan [^key-6903ed4c69c1b026afc760ae5a71e0fd]...
+
+## 10. Extension of the power to cause vaccination
+
+The following provisions of the Act apply as if vaccination under these Regulations was carried out in exercise of the power to vaccinate in section 16(1) of the Act—
+
+- (a) section 16(2) to (17)[^f00014] (treatment after exposure to infection);
+- (b) section 16A[^f00015] (slaughter of vaccinated animals);
+- (c) section 62A[^f00016] (slaughter: power of entry).
+
+## 11. Restrictions relating to vaccinated zoo birds
+
+(1) No person shall move any vaccinated zoo bird unless he is licensed to do so by a veterinary inspector or by an inspector acting under the direction of a veterinary inspector.
+
+(2) A veterinary inspector or inspector acting under his direction may only license the movement of vaccinated zoo birds—
+
+- (a) to a zoo in the United Kingdom or in a[^key-df03d22bd24dc1badedc4d74edd25694] member State; or
+- (b) directly to a third country.
+
+(3) A veterinary inspector or inspector acting under his direction must not license a movement to a[^key-f70a4ce166e92fc1b3b62fec48ff44f3] member State or to a third country unless its competent authority has authorised the movement.
+
+(4) An inspector must supervise any movement licensed under paragraph (2) while the bird is in England.
+
+(5) No person shall release any vaccinated zoo bird into the wild unless he is licensed to do so by a veterinary inspector.
+
+(6) No person shall supply or sell, for human consumption, a product from a vaccinated zoo bird.
+
+(7) In this regulation, “competent authority” means—
+
+- (a) in relation to a member State, the authority in that member State authorised to carry out physical checks or administrative formalities in accordance with Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza and repealing Directive [92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040)[^f00017]; and
+- (b) in relation to third countries, the authority in that third country authorised to regulate the importation of zoo birds.
+
+## 12. Surveillance at zoos
+
+The Secretary of State must ensure that such surveillance for avian influenza as he considers necessary to limit the spread of avian influenza is carried out at any zoo where birds have been vaccinated under these Regulations.
+
+## 13. Failure to vaccinate birds
+
+Any person who knows or suspects that any bird has not been vaccinated as required by the Secretary of State must immediately notify the Secretary of State[^key-63ff23c3f96a9a03f56a8779d8114503] .
+
+## 14. General duties relating to execution of these Regulations
+
+(1) Any person required to give reasonable assistance or information to a person performing a function under these Regulations must, unless he has reasonable cause, do so without delay.
+
+(2) No person shall deface, obscure or remove any mark applied by an inspector under regulation 18(1).
+
+(3) No person shall provide information which he knows to be false or misleading to a person performing a function under these Regulations.
+
+(4) The costs incurred by any person in taking action required, or in refraining from taking action prohibited, under these Regulations must be met by that person unless the Secretary of State directs otherwise in writing.
+
+## 15. Production of records
+
+(1) A person required to produce a record by a person performing a function under these Regulations must do so without delay.
+
+(2) On production of the record, the person performing the function may—
+
+- (a) copy the record, in whatever form it is held;
+- (b) require any computer record to be produced in a form which can be taken away; and
+- (c) take any record away and retain it until he has carried out his functions under these Regulations.
+
+## 16. Change of occupation of premises under restriction
+
+(1) This regulation applies if the keeper of any poultry or other captive bird is unable to move it from premises on the termination of his right of occupation because of a movement restriction imposed under these Regulations and continues to apply for seven days after any such restriction has been removed.
+
+(2) The person entitled to occupation of the premises following that termination must—
+
+- (a) provide such facilities for feeding, tending or otherwise using the poultry or other captive bird (including selling it) as the keeper may reasonably require; and
+- (b) allow entry to the premises to that keeper and any person authorised by him at reasonable times for feeding, tending or otherwise using the poultry or other captive bird.
+
+(3) If the keeper is unable or unwilling to feed or tend the poultry or other captive bird, the person entitled to occupation of the premises must take such steps as are necessary to ensure it is properly fed and tended.
+
+(4) The keeper of the poultry or other captive bird is liable to pay the reasonable costs incurred under this regulation by any person feeding or tending it, or providing facilities for feeding, tending or otherwise using it.
+
+## 17. Disapplication of provisions to a person performing a function under these Regulations
+
+Provisions in these Regulations which prohibit or restrict the movement or use of any thing do not apply to the following in their performance of any function under these Regulations—
+
+- (a) the Secretary of State;
+- (b) an inspector;
+- (c) any other person authorised by the Secretary of State or by the local authority to perform a function under these Regulations.
+
+## 18. Powers of inspectors
+
+(1) An inspector performing a function under these Regulations may—
+
+- (a) mark any bird or other thing for identification purposes; and
+- (b) require, by notice, the person in charge of any vehicle or equipment to cleanse and disinfect it.
+
+(2) A veterinary inspector or an inspector acting under his direction may, when performing his functions under these Regulations—
+
+- (a) cleanse and disinfect any part of premises or any thing on those premises;
+- (b) require, by notice, the occupier of any premises to cleanse and disinfect any part of those premises or any thing on those premises;
+- (c) require, by notice, the occupier of any premises or the keeper of any poultry or other captive bird—
+  - (i) to keep or isolate any poultry, other captive bird or animal in a specified place;
+  - (ii) to separate any poultry, other captive bird or animal from any other animal or bird.
+
+(3) The following provisions of the Act apply as if these Regulations were an Order made under the Act—
+
+- (a) section 63 (general powers of inspectors);
+- (b) section 64 (powers of inspectors as to poultry);
+- (c) section 64A[^f00018] (powers of inspectors relating to EU[^M_F_fed8c742-5e86-4acd-8d4f-a66a75f2a71e] obligations), and
+- (d) section 65(1) to (3) (power to detain vessels and aircraft).
+
+## 19. Powers of inspectors in case of default
+
+(1) If any person fails to comply with a requirement in or under these Regulations, an inspector may take such steps he considers necessary to ensure the requirement is met, at the expense of that person.
+
+(2) An inspector’s powers under paragraph (1) include powers—
+
+- (a) to require, by notice, any person to take or refrain from specified action in respect of any place, animal, bird, vehicle, or other thing; and
+- (b) to seize and detain any thing.
+
+## 20. Offences
+
+(1) The following provisions of the Act apply as if these Regulations were an Order made under the Act—
+
+- (a) sections 66 and 66A[^f00019] (refusal and obstruction);
+- (b) section 67 (issue of false licences etc.);
+- (c) section 68 (issue of licences etc. in blank);
+- (d) section 71 (other offences as to licences);
+- (e) section 71A[^f00020] (prosecutions: time limit);
+- (f) section 73 (general offences);
+- (g) section 77 (money recoverable summarily); and
+- (h) section 79(1) to (4) (evidence and procedure).
+
+(2) Section 69 of the Act (falsely obtaining licences etc.) applies as if licences granted under these Regulations were granted under an Order made under the Act.
+
+(3) Section 75 of the Act[^f00021] (penalties for certain summary offences) applies as if these Regulations were an Order made under the Act except that any term of imprisonment on summary conviction must not exceed three months.
+
+## 21. Offences by bodies corporate
+
+(1) If an offence committed by a body corporate is shown—
+
+- (a) to have been committed with the consent or connivance of an officer; or
+- (b) to be attributable to any neglect on his part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body.
+
+(3) “Officer”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+## 22. Enforcement
+
+(1) Subject to paragraph (2), these Regulations must be enforced by the local authority.
+
+(2) The Secretary of State may direct, in relation to cases of a particular description or to a particular case, that he will enforce these Regulations instead.
+
+(3)[^key-08e94207d18fecc9a2c97b166c17e5ca] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Act relating to these Regulations.
+
+## 23. Revocations and savings
+
+(1) The Avian Influenza (Preventive Measures) (No 2) Regulations 2005[^f00022] are revoked.
+
+(2) The general licence for bird gatherings issued by the Secretary of State under regulation 5 of those Regulations remains in force as if it were granted under regulation 6(1) of these Regulations.
+
+Ben Bradshaw
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations—
+
+- (a) revoke and replace the Avian Influenza (Preventive Measures) (No 2) Regulations 2005 ([S.I. 2005/3394](https://www.legislation.gov.uk/uksi/2005/3394)) (“the 2005 Regulations”);
+- (b) continue to give effect to paragraph 2 of Article 2a of Commission Decision [2005/734/EC](https://www.legislation.gov.uk/european/decision/2005/0734) laying down biosecurity measures to reduce the risk of transmission of highly pathogenic avian influenza caused by influenza A virus of subtype H5N1 from birds living in the wild to poultry and other captive birds and providing for an early detection system in areas at particular risk (OJ No L 274, 20.10.2005, p. 105), as last amended by Commission Decision [2006/574/EC](https://www.legislation.gov.uk/european/decision/2006/0574) (OJ No L 228, 22.8.2006, p. 24);
+- (c) give effect to Commission Decision [2006/474/EC](https://www.legislation.gov.uk/european/decision/2006/0474) concerning measures to prevent the spread of highly pathogenic avian influenza caused by influenza A virus of subtype H5N1 to birds kept in zoos and approved bodies, institutes and centres in the Member States and repealing Decision [2005/744/EC](https://www.legislation.gov.uk/european/decision/2005/0744) (OJ No L 187, 8.7.2006, p. 37); and
+- (d) implement provisions requiring or dependant on the identification of poultry premises under Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza and repealing Directive [92/40/EC](https://www.legislation.gov.uk/european/directive/1992/0040) (OJ No L10, 14.1.2006, p16).
+
+**2.** Regulations 1 to 5 contain introductory provisions on definitions, licences and notices.
+
+**3.** Regulation 6 prohibits any person from arranging an unlicensed gathering of poultry or other captive birds. It also prohibits any person from bringing such birds to a bird gathering which he knows or suspects is unlicensed.
+
+**4.** Regulation 7 requires the keeper of 50 or more poultry on any one premises to notify the Secretary of State of specified information relating to those poultry. This requirement now applies to all premises, not just to commercial premises as was the case under the 2005 Regulations. Regulation 7 also imposes a new obligation to inform the Secretary of State of specified changes to this information.
+
+**5.** Regulations 8 to 13 relate to the vaccination of zoo birds. Regulation 8 contains a general prohibition on the unauthorised vaccination of zoo birds. Regulation 9 allows the Secretary of State to vaccinate zoo birds, to require their vaccination or to license their vaccination. Regulation 11 sets out restrictions on the movement of vaccinated zoo birds.
+
+**6.** Regulations 14 to 16 place general obligations on those bound by these Regulations. Regulations 17 to 19 relate to the powers of those performing a function under these Regulations. Regulations 20 to 22 relate to offences and enforcement. Regulation 23 revokes the 2005 Regulations but provides that the general licence for bird gatherings issued under those Regulations continues to have effect.
+
+**7.** A regulatory impact assessment of the effect that these Regulations will have on business has not been prepared because of the need to implement the measures referred to in paragraph 1(c) and (d) above as quickly as possible.
+
+## Annotations
+
+[^f00001]: Footnote: [1972, c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00003]: Footnote: [1981, c 22](https://www.legislation.gov.uk/ukpga/1981/22), as amended by the [Animal Health Act 2002, c. 42](https://www.legislation.gov.uk/ukpga/2002/42), [S.I. 1992/3293](https://www.legislation.gov.uk/uksi/1992/3293) and [S.I. 2003/1734](https://www.legislation.gov.uk/uksi/2003/1734). Other amendments are not relevant to these Regulations.
+
+[^f00004]: Footnote: [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), amended by [S.I. 2005/1908](https://www.legislation.gov.uk/uksi/2005/1908) and [S.I. 2006/1197](https://www.legislation.gov.uk/uksi/2006/1197). Other amending instruments are not relevant to these Regulations.
+
+[^f00005]: Footnote: The Diseases of Poultry Order is defined in [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32) as the Diseases of Poultry Order 2003 ([S.I. 2003/1078](https://www.legislation.gov.uk/uksi/2003/1078)) and the Avian Influenza and Influenza of Avian Origin in Mammals (England) Order 2006 ([S.I. 2006/1197](https://www.legislation.gov.uk/uksi/2006/1197)).
+
+[^f00006]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867) to which there are amendments not relevant to these Regulations.
+
+[^f00007]: Footnote: OJ No L 268, 14.9.1992, p. 54, as last amended by Council Directive [2004/68/EC](https://www.legislation.gov.uk/european/directive/2004/0068) (OJ No L 139, 30.4.2004, p. 321).
+
+[^key-f4d454d0d4afc2f675e08568e956dc20]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2701/regulation/7) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/558/article/4/2)
+
+[^key-6dc080279b48cb881bd9b067865684b5]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2006/2701/regulation/7A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/558/article/4/3)
+
+[^f00011]: Footnote: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463), to which there is an amendment not relevant to these Regulations.
+
+[^f00012]: Footnote: [S.I. 2005/2745](https://www.legislation.gov.uk/uksi/2005/2745).
+
+[^key-6903ed4c69c1b026afc760ae5a71e0fd]: Textual amendment: Words in reg. 9(5) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00014]: Footnote: Section 16 was amended by section 7 of the Animal Health Act [2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42).
+
+[^f00015]: Footnote: Section 16A was inserted by section 5 of the Animal Health Act 2002. It was extended to apply to avian influenza by [S.I. 2003/1734](https://www.legislation.gov.uk/uksi/2003/1734).
+
+[^f00016]: Footnote: Section 62A was inserted by section 8 of the Animal Health Act 2002.
+
+[^key-df03d22bd24dc1badedc4d74edd25694]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/11/2/a) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f70a4ce166e92fc1b3b62fec48ff44f3]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/11/3) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00017]: Footnote: OJ No. L10, 14.1.2006, p. 16.
+
+[^key-63ff23c3f96a9a03f56a8779d8114503]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2006/2701/regulation/13) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2712/regulation/4)
+
+[^f00018]: Footnote: Section 64A was inserted by the Animal Health Act 1981 (Amendment) Regulations 1992 ([S.I. 1992/3293](https://www.legislation.gov.uk/uksi/1992/3293)), regulation 2.
+
+[^M_F_fed8c742-5e86-4acd-8d4f-a66a75f2a71e]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+
+[^f00019]: Footnote: Section 66A was inserted by section 8(2) of the [Animal Health Act 2002(c.42)](https://www.legislation.gov.uk/ukpga/2002/42).
+
+[^f00020]: Footnote: Section 71A was inserted by the Animal Health Act [2002 (c.42)](https://www.legislation.gov.uk/ukpga/2002/42), section 14.
+
+[^f00021]: Footnote: Section 75 was amended by the Animal Health Act [2002 (c.42)](https://www.legislation.gov.uk/ukpga/2002/42), section13.
+
+[^key-08e94207d18fecc9a2c97b166c17e5ca]: Textual amendment: Reg. 22(3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [10](https://www.legislation.gov.uk/uksi/2012/2897/article/10)
+
+[^f00022]: Footnote: [S.I. 2005/3394](https://www.legislation.gov.uk/uksi/2005/3394).

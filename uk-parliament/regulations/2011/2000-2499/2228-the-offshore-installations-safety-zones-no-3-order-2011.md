@@ -1,0 +1,99 @@
+---
+title: The Offshore Installations (Safety Zones) (No.3) Order 2011
+id: uksi/2011/2228
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-09-06'
+text_date: '2024-12-24'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/2228
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2228/pdfs/uksi_20112228_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2228/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Offshore Installations (Safety Zones) (No.3) Order 2011
+
+> Text as at 2024-12-24.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 2228
+
+Offshore Installations
+
+The Offshore Installations (Safety Zones) (No.3) Order 2011
+
+Made
+
+6th September 2011
+
+Coming into force
+
+1st October 2011
+
+The Secretary of State makes this Order —
+
+- (a) in exercise of the powers conferred by sections 22(1) and (2) of the Petroleum Act 1987[^f00001] (“the Act”); and
+- (b) for the purpose of giving effect to proposals submitted to him by the Health and Safety Executive under section 24(2A) of the Act.
+
+## 1. Citation and commencement[^key-9c48d251e4912848821218605ff313e7]
+
+This Order may be cited as the Offshore Installations (Safety Zones) (No.3) Order 2011 and comes into force on 1st October 2011.
+
+## 2. Establishment of safety zones[^key-b05060129266df2fdae341ae16fbd730]
+
+A safety zone is established around each installation specified in column 1 of the Schedule (being installations stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00002] specified in columns 2 and 3 of the Schedule.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+C Grayling
+
+Minister of State,
+
+Department for Works and Pensions
+
+6th September 2011
+
+## SCHEDULE — SAFETY ZONE[^key-c20669d1dbce63bd723f7a36fcbfa3f6]
+
+Article 2
+
+| *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude* | *(3)*<br>*Longitude* |
+| --- | --- | --- |
+| [^key-8e8fe764b63ce8043072f4f25f848813]. . . | [^key-8e8fe764b63ce8043072f4f25f848813]. . . | [^key-8e8fe764b63ce8043072f4f25f848813]. . . |
+| Laggan Manifold,<br>Block 206/1A,<br>Laggan Tormore Field | 60°56.67’North[^key-50d998dbe6667c9c0c4657b5df4e2d75] | 2°53.62’West |
+| Tormore Manifold,<br>Block 205/5A,<br>Laggan Tormore Field | 60°52.28’North[^key-bf863d1814306f7f790b6e7574ad92a4] | 3°8.23’West |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order establishes, under section 22 of the Petroleum Act 1987, a safety zone having a radius of 500 metres from the specified point, around each installation specified in the Schedule to this Order and stationed in waters to which section 21(7) of that Act applies (these include territorial waters and waters in areas designated under section 1(7) of the Continental Shelf Act [1964 (c.29)](https://www.legislation.gov.uk/ukpga/1964/29)).
+
+Vessels, which for this purpose include hovercraft, submersible apparatus and installations in transit, are prohibited from entering or remaining in a safety zone except with the consent of the Health and Safety Executive or in accordance with regulations made under section 23(1) of the Act (currently the Offshore Installations (Safety Zones) Regulations 1987 ([S.I. 1987/1331](https://www.legislation.gov.uk/uksi/1987/1331))).
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c.12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and is amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
+
+[^key-9c48d251e4912848821218605ff313e7]: Commencement: Art. 1 in force at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2228/article/1)
+
+[^key-b05060129266df2fdae341ae16fbd730]: Commencement: Art. 2 in force at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2228/article/1)
+
+[^f00002]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
+
+[^key-c20669d1dbce63bd723f7a36fcbfa3f6]: Commencement: Sch. in force at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/2228/article/1)
+
+[^key-8e8fe764b63ce8043072f4f25f848813]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2011/2228/schedule) omitted (24.12.2024) by virtue of [The Offshore Installations (Safety Zones) (No. 2) Order 2024 (S.I. 2024/1278)](https://www.legislation.gov.uk/uksi/2024/1278), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/1278/article/5/2)
+
+[^key-50d998dbe6667c9c0c4657b5df4e2d75]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2011/2228/schedule) substituted (14.11.2011) by [The Offshore Installations (Safety Zones) (No. 4) Order 2011 (S.I. 2011/2492)](https://www.legislation.gov.uk/uksi/2011/2492), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2492/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/2492/article/4/a)
+
+[^key-bf863d1814306f7f790b6e7574ad92a4]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2011/2228/schedule) substituted (14.11.2011) by [The Offshore Installations (Safety Zones) (No. 4) Order 2011 (S.I. 2011/2492)](https://www.legislation.gov.uk/uksi/2011/2492), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2492/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/2492/article/4/b)

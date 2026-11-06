@@ -1,0 +1,277 @@
+---
+title: The Charities Act 2006 (Charitable Companies Audit and Group Accounts Provisions) Order 2008
+id: uksi/2008/527
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2008-02-27'
+text_date: '2008-02-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2008/527
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/527/pdfs/uksiem_20080527_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/527/pdfs/uksi_20080527_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/527/data.pdf
+pending_changes: 8
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Charities Act 2006 (Charitable Companies Audit and Group Accounts Provisions) Order 2008
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2008-02-28. See https://www.legislation.gov.uk/changes/affected/uksi/2008/527
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 527
+
+Charities, England And Wales
+
+The Charities Act 2006 (Charitable Companies Audit and Group Accounts Provisions) Order 2008
+
+Made
+
+27th February 2008
+
+Coming into force in accordance with article 1
+
+This Order is made in exercise of the powers conferred by sections 74(2) and 77 of the Charities Act 2006[^f00001].
+
+A draft of this instrument has been approved by a resolution of each House of Parliament pursuant to section 74(5) of that Act.
+
+Accordingly the Minister for the Cabinet Office makes the following Order:
+
+## 1. Citation, commencement, application and extent[^key-6f8f658a2d12d82d9a93329f50581801]
+
+(1) This Order may be cited as the Charities Act 2006 (Charitable Companies Audit and Group Accounts Provisions) Order 2008 and, subject to paragraph (2), comes into force on 1st April 2008.
+
+(2) This article and article 3 come into force on the day after the day on which this Order is made.
+
+(3) The amendments made by this Order have effect in relation to financial years of charities beginning on or after 1st April 2008.
+
+(4) In paragraph (3) “financial year” has the same meaning as in the Charities Act 1993[^f00002].
+
+(5) This Order extends to England and Wales only.
+
+## 2. Amendments of the Charities Act 1993[^key-74ea75bff345219561932dc7820af019]
+
+**Not yet in force.**
+
+(1) Section 43 of the Charities Act 1993 (annual audit or examination of charity accounts) is amended as follows.
+
+(2) In subsection (2)(a)[^f00003], for “charity were a company” substitute “accounts of the charity were required to be audited in accordance with Part 7 of the Companies Act 1985”.
+
+(3) In subsection (3A)[^f00004], for paragraphs (a) to (c) substitute—
+
+> - (a) a member of one of the bodies listed in subsection (3B) below; or
+> - (b) a Fellow of the Association of Charity Independent Examiners.
+
+.
+
+(4) After subsection (3A) insert—
+
+> (3B) The bodies referred to in subsection (3A)(a) above are—
+>
+> - (a) the Institute of Chartered Accountants in England and Wales;
+> - (b) the Institute of Chartered Accountants of Scotland;
+> - (c) the Institute of Chartered Accountants in Ireland;
+> - (d) the Association of Chartered Certified Accountants;
+> - (e) the Association of Authorised Public Accountants;
+> - (f) the Association of Accounting Technicians;
+> - (g) the Association of International Accountants;
+> - (h) the Chartered Institute of Management Accountants;
+> - (i) the Institute of Chartered Secretaries and Administrators;
+> - (j) the Chartered Institute of Public Finance and Accountancy.
+
+.
+
+(5) After subsection (8)(b)[^f00005] insert—
+
+> - (c) amend subsection (3B) by adding or removing a body to or from the list in that subsection or by varying any entry for the time being included in that list.
+
+.
+
+(6) For subsection (9) substitute—
+
+> (9) Nothing in this section applies in relation to the accounts of a charity for a financial year if those accounts are required to be audited in accordance with Part 7 of the Companies Act 1985.
+
+.
+
+**3.**[^key-1227c8dfeb33c7207d4eb6c115db152a] In section 44(1)(b)[^f00006] of the Charities Act 1993 (supplementary provisions relating to audits etc.), at the end of sub-paragraph (ii) insert—
+
+> or
+>
+> - (iii) the accounts so prepared under section 226 of the Companies Act 1985 (duty to prepare individual accounts),
+
+.
+
+**4.**[^key-27a0375853cbb8590a6995c6992abb00] In section 45(5)[^f00007] of the Charities Act 1993(annual reports), for the words from “a copy of any auditors’ report” to the end substitute—
+
+> - (a) where the accounts of the charity for that year have been audited under that Part of that Act, a copy of the report made by the auditor on those accounts;
+> - (b) where the accounts of the charity for that year have been audited under section 43 above, a copy of the report made by the auditor on those accounts;
+> - (c) where the accounts of the charity for that year have been examined under that section, a copy of the report made by the person carrying out the examination.
+
+.
+
+**5.**[^key-dcc27c6d3729572249390eac5452451a] In section 47(3)(c)[^f00008]of the Charities Act 1993 (public inspection of annual reports etc.)—
+
+- (a) for sub-paragraph (ii) substitute—
+
+  > - (ii) they have been examined by an independent examiner under section 43(3)(a) above;
+
+  ; and
+- (b) in sub-paragraph (iii) for “by virtue of section 249A(1) of that Act;” substitute “under Part 7 of the Companies Act 1985 and neither section 43(2) nor section 43(3) above applied to them;”.
+
+**6.**[^key-9dcddafd686a704381cdc655a9bf538b] In section 68A(1)[^f00009] of the Charities Act 1993 (duty of charity’s auditors etc. to report matters to Commission), for the words from “acting as” to “as they apply” substitute “acting as an auditor of a charitable company appointed under Chapter 2 of Part 16 of the Companies Act 2006 (appointment of auditors) as they apply”.
+
+**7.**[^key-d5c0aefa39b926bb02ed7e1563d3537a] (1) Section 69 of the Charities Act 1993[^f00010] (investigation of accounts) is amended as follows.
+
+(2) In subsection (1) before “accounts of the charity” insert “relevant”.
+
+(3) After subsection (1) insert –
+
+> (1A) “Relevant accounts” means accounts required to be audited under Part 7 of the Companies Act 1985.
+
+.
+
+**8.**[^key-0314a4ca9f3495a1163f2400638d1df3] (1) Schedule 5A[^f00011] to the Charities Act 1993 (group accounts) is amended as follows.
+
+(2) In paragraph 1 (interpretation) for sub-paragraph (2) substitute—
+
+> (2) A charity is a “parent charity” if it is (or is to be treated as) a parent undertaking in relation to one or more other undertakings in accordance with the provisions of section 258 of, and Schedule 10A to, the Companies Act 1985.
+
+.
+
+(3) In paragraph 2 (accounting records)—
+
+- (a) in sub-paragraph (1) after “of this Act” insert “or, as the case may be, section 221 of the Companies Act 1985 (duty to keep accounting records)”; and
+- (b) in sub-paragraph (2) after “of this Act” insert “or section 221 of the Companies Act 1985”.
+
+(4) In paragraph 3 (preparation of group accounts) for sub-paragraph (1) substitute—
+
+> (1) This paragraph applies in relation to a financial year of a charity if–
+>
+> - (a) the charity is a parent charity at the end of that year; and
+> - (b) (where it is a company) it is not required to prepare consolidated accounts for that year under section 227 of the Companies Act 1985 (duty to prepare group accounts), whether or not such accounts are in fact prepared.
+
+.
+
+(5) In paragraph 3(6), after “parent charity”, insert “(other than a parent charity which is a company)”.
+
+(6) After paragraph 3(6) insert—
+
+> (6A) If the requirement in sub-paragraph (2) applies to the charity trustees of a parent charity in relation to a financial year and the charity is a company, that requirement so applies in addition to the requirement in section 226 of the Companies Act 1985 (duty to prepare individual accounts).
+
+.
+
+(7) In paragraph 5 (preservation of group accounts) after sub-paragraph (2) insert—
+
+> (3) For the purposes of sub-paragraph (2), section 41 applies as if subsection (5) of that section were omitted.
+
+.
+
+(8) In paragraph 6 (audit of accounts of larger groups) for sub-paragraph (8) substitute—
+
+> (8) If this paragraph applies in relation to a financial year of a parent charity by virtue of sub-paragraph (1)—
+>
+> - (a) (subject to paragraph (b) below) the appropriate audit provision shall apply in relation to the parent charity’s own accounts for that year (whether or not it would otherwise so apply);
+> - (b) where the parent charity is a company and its own accounts for that year are not required to be audited in accordance with Part 7 of the Companies Act 1985, section 43(2) of this Act shall apply in relation to those accounts (whether or not it would otherwise so apply).
+
+.
+
+(9) In paragraph 6(9)(a), for “(b) or (c)” substitute “(b), (c) or (d)”.
+
+(10) After paragraph 6(9)(c) insert –
+
+> - (d) if the parent charity is a company, section 43(2) of this Act or Part 7 of the Companies Act 1985 (as the case may be).
+
+.
+
+Phil Hope
+
+Parliamentary Secretary of State
+
+Cabinet Office
+
+27 February 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order, which (with the exception of articles 1 and 3) comes into force on 1st April 2008, amends the Charities Act 1993 (“the 1993 Act”), including some provisions which are prospectively inserted into that Act by the Charities Act 2006 (“the 2006 Act”). Articles 1 and 3 come into force on the day after the day on which this Order is made.
+
+The Order only extends to England and Wales since matters relating to charities are devolved in both Scotland and Northern Ireland.
+
+Article 1 provides that the amendments made by this Order will only apply in relation to financial years of charities which begin on or after 1st April 2008.
+
+Articles 2 to 7 of the Order make amendments to the 1993 Act in consequence of changes made by section 1175 of and Schedule 9 to the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) to provisions of company law relating to the auditing of accounts of charitable companies and the preparation of reports in respect of such accounts.
+
+Section 1175 and Schedule 9 to the Companies Act 2006 remove from company law special rules about the audit of companies that are charities. The purpose of those changes to company law is to change the treatment of small charitable companies, so that, as far as their accounts scrutiny is concerned, they will be required to comply with the requirements of charity law, rather than those of company law. That in turn also requires amendments to charity law so as to bring small charitable companies within the accounts scrutiny provisions relating to charities. Those amendments to charity law are made by means of Articles 2 to 7 of this Order.
+
+Article 2(3) substitutes new paragraphs (a) and (b) in section 43(3A). That subsection, which has been added to the 1993 Act by the 2006 Act, specifies persons who are qualified to act as independent examiner of a charity’s accounts. It does so in part by reference to membership of bodies specified in section 249D(3) of the Companies Act 1985. However section 249D is prospectively repealed by the Companies Act 2006; accordingly the new provisions list the bodies specified in section 249D(3). Article 2(4) inserts new subsection (3B) in section 43. This subsection lists the bodies referred to in new section 43(3A)(a).
+
+Article 2(5) inserts new paragraph (c) in section 43(8). This amendment enables the Minister for the Cabinet Office to make amendments to section 43(3B).
+
+Article 2(6) substitutes a new section 43(9) in the 1993 Act. Section 43 provides for the annual audit or examination of the accounts of a charity and section 43(9), as originally enacted, disapplied the whole section in the case of a charity that is a company. The new section 43(9) provides that the audit and examination requirements in section 43 do not apply to a charity that is a company if the accounts are required to be audited in accordance with company law.
+
+Article 3 amends section 44(1)(b) of the 1993 Act. Section 44 makes supplementary provision relating to the audit and examination of accounts of charities. The amendment is consequential on the amendment made by article 2(6) described above.
+
+Article 4 amends section 45(5) of the 1993 Act. Section 45 makes provision in relation to the annual report of a charity. Section 45(5), as amended by the 2006 Act, requires a charity which is a company, when it transmits to the Charity Commission a copy of an annual report under section 45, to have attached to it a copy of the charity’s relevant annual accounts and a copy of any auditor’s or reporting accountant’s report on the accounts. Article 4 makes amendments consequential on the removal of the reporting accountant regime for small charitable companies by the provisions of the Companies Act 2006 mentioned above.
+
+Article 5 makes amendments to section 47(3)(c) of the 1993 Act, which are consequential on the amendment made by article 2(6) described above. Section 47 deals with the public inspection of annual reports and subsection (2) requires charity trustees of a charity to supply a person on request with a copy of the charity’s most recent accounts, subject to conditions set out in the subsection. Subsection (3) specifies what qualifies as a charity’s most recent accounts and paragraph (c) deals with the case of a charity which is a company.
+
+Article 6 makes a consequential amendment to section 68A(1) of the 1993 Act. Section 68A is prospectively inserted in the 1993 Act by the 2006 Act and imposes on an auditor or reporting accountant of a charity which is a company a “whistle-blowing duty” (i.e. a duty to report certain matters to the Charity Commission). The amendment made by article 6 is again consequential on the removal of the reporting accountant regime by the Companies Act 2006.
+
+Article 7 amends section 69 of the 1993 Act, which gives the Charity Commission the power to order an auditor to investigate and audit the accounts of a charity which is a company. The amendment is consequential on the amendment made by article 2(6) described above. Since under section 43, as amended by this Order, the Charity Commission has the power to order the audit of the accounts of a charity which is a company, in the circumstances set out in subsection (4), section 69 is amended so as only to apply where the accounts of the charity are required to be audited under Part 7 of the Companies Act 1985.
+
+Article 8 of the Order makes amendments to Schedule 5A to the 1993 Act, as prospectively inserted by the 2006 Act, for the purposes of or in connection with applying provisions of Schedule 5A to the 1993 Act (which deals with group accounts) to charitable companies that are not required to produce group accounts under company law.
+
+Article 8(2) substitutes a new paragraph 1(2) of Schedule 5A, which omits the current exclusion of companies from the definition of “parent charity” for the purposes of the Schedule. Article 8(4) amends paragraph 3(1) of the Schedule, which relates to the preparation of group accounts. Paragraph 3(1), as amended, provides that the duty to prepare group accounts will apply to a parent charity which is a company if the charity is not required to prepare consolidated accounts for the year under section 227 of the Companies Act 1985. This duty will continue to apply even if the charity chooses to prepare consolidated accounts under the Companies Act 1985.
+
+The remaining paragraphs of article 8 make amendments to Schedule 5A consequential on the application of that Schedule to charitable companies in the circumstances described above.
+
+A full regulatory impact assessment of the effect that this Order will have on the costs of business and the voluntary sector is available from the Office of the Third Sector, 35 Great Smith Street, London. SW1P 3BQ and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 50](https://www.legislation.gov.uk/ukpga/2006/50); section 78(6) defines “the Minister” for the purposes of the Act; section 74(7) defines “relevant Minister” for the purposes of section 74.
+
+[^key-6f8f658a2d12d82d9a93329f50581801]: Commencement: Art. 1 in force at 28.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/527/article/1/2)
+
+[^f00002]: Footnote: [1993 c.10](https://www.legislation.gov.uk/ukpga/1993/10); section 43 was amended by the Deregulation and Contracting Out Act [1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), section 28, the Charities Act 1993 (Substitution of Sums) Order 1995 ([S.I. 1995/2696](https://www.legislation.gov.uk/uksi/1995/2696)), the Regulatory Reform (National Health Service Charitable and Non-Charitable Trust Accounts and Audit) Order 2005 ([S.I. 2005/1074](https://www.legislation.gov.uk/uksi/2005/1074)) and the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), section 28 and Schedule 8, paragraph 134. Section 44 was amended by the Charities Act 2006, Schedule 8, paragraph 137. Section 45 was amended by the Deregulation and Contracting Out Act 1994, section 29, the Companies Act 1985 (Audit Exemption) Regulations 1994 ([S.I. 1994/1935](https://www.legislation.gov.uk/uksi/1994/1935)), the Regulatory Reform (National Health Service Charitable and Non-charitable Trust Accounts and Audit) Order 2005 and the Charities Act 2006, Schedule 7 and Schedule 8, paragraph 138. The amendments made to section 45 by Schedule 7 to the Charities Act 2006 are not yet in force. The functions exercisable by the Secretary of State under sections 43 to 45 of the Charities Act 1993 were transferred to the Minister for the Cabinet Office by the Transfer of Functions (Third Sector, Communities and Equality) Order 2006 ([S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951)). Section 47 was amended by the Deregulation and Contracting Out Act 1994, Schedule 11, paragraph 12, and Schedule 17, the Companies Act 1985 (Audit Exemption) Regulations 1994 and the Charities Act 2006, Schedule 8, paragraphs 96 and 140. Section 68A was inserted by the Charities Act 2006, section 33 and amended by the Companies Act 2006 (Commencement No.3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194)). Section 69 was amended by the Charities Act 2006, Schedule 8, paragraph 154. Schedule 5A was inserted by the Charities Act 2006, Schedule 6. There are other amendments to the Charities Act 1993 not relevant to this Order.
+
+[^key-74ea75bff345219561932dc7820af019]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+
+[^f00003]: Footnote: Section 43(2)(a) was substituted by the Charities Act 2006, section 28(3).
+
+[^f00004]: Footnote: Section 43(3A) was substituted by the Charities Act 2006, section 28(5).
+
+[^f00005]: Footnote: Section 43(8) was substituted by the Charities Act 2006, section 28(6).
+
+[^key-1227c8dfeb33c7207d4eb6c115db152a]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+
+[^f00006]: Footnote: Section 44(1)(b) was amended by the Charities Act 2006, Schedule 8, paragraph 137.
+
+[^key-27a0375853cbb8590a6995c6992abb00]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+
+[^f00007]: Footnote: Section 45(5) was amended by the Deregulation and Contracting Out Act [1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), section 29, the Companies Act 1985 (Audit Exemption) Regulations 1994 ([S.I. 1994/1935](https://www.legislation.gov.uk/uksi/1994/1935)) and the Charities Act 2006, Schedule 8, paragraph 138.
+
+[^key-dcc27c6d3729572249390eac5452451a]: Commencement: Art. 5 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+
+[^f00008]: Footnote: Section 47(3)(c) was substituted by the Companies Act 1985 (Audit Exemption) Regulations 1994 ([S.I. 1994/1935](https://www.legislation.gov.uk/uksi/1994/1935)).
+
+[^key-9dcddafd686a704381cdc655a9bf538b]: Commencement: Art. 6 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+
+[^f00009]: Footnote: Section 68A was inserted by the Charities Act 2006, section 33. Section 68A was amended by the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194)).
+
+[^key-d5c0aefa39b926bb02ed7e1563d3537a]: Commencement: Art. 7 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+
+[^f00010]: Footnote: Section 69 was amended by the Charities Act 2006, Schedule 8, paragraph 154.
+
+[^key-0314a4ca9f3495a1163f2400638d1df3]: Commencement: Art. 8 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/527/article/1/1)
+
+[^f00011]: Footnote: Schedule 5A was inserted by the Charities Act 2006, Schedule 6.

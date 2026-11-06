@@ -1,0 +1,53 @@
+---
+title: Housing Act 2004, section 106
+act: Housing Act 2004
+section: '106'
+status: revised-with-pending-changes
+text_date: '2026-06-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2004/34/section/106
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 2004, section 106
+
+> **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 106. Local housing authority’s duties once interim management order in force[^c2052254]
+
+*Extent: E+W*
+
+(1) A local housing authority who have made an interim management order in respect of a house must comply with the following provisions as soon as practicable after the order has come into force.
+
+(2) The authority must first take any immediate steps which they consider to be necessary for the purpose of protecting the health, safety or welfare of persons occupying the house, or persons occupying or having an estate or interest in any premises in the vicinity.
+
+(3) The authority must also take such other steps as they consider appropriate with a view to the proper management of the house pending—
+
+- (a) the grant of a licence or the making of a final management order in respect of the house as mentioned in subsection (4) or (5), or
+- (b) the revocation of the interim management order as mentioned in subsection (5).
+
+(4) If the house would (but for the order being in force) be required to be licensed under Part 2 or 3 of this Act (see section 61(1) or 85(1)), the authority must, after considering all the circumstances of the case, decide to take one of the following courses of action—
+
+- (a) to grant a licence under that Part in respect of the house, or
+- (b) to make a final management order in respect of it under section 113(1).
+
+(5) If subsection (4) does not apply to the house, the authority must, after considering all the circumstances of the case, decide to take one of the following courses of action—
+
+- (a) to make a final management order in respect of the house under section 113(3), or
+- (b) to revoke the order under section 112 without taking any further action.
+
+(6) In the following provisions, namely—
+
+- (a) subsections (3) and (4), and
+- (b) section 101(3)(b),
+
+the reference to the grant of a licence under Part 2 or 3 in respect of the house includes a reference to serving a temporary exemption notice under section 62 or section 86 in respect of it (whether or not a notification is given under subsection (1) of that section).
+
+(7) For the avoidance of doubt, the authority’s duty under subsection (3) includes taking such steps as are necessary to ensure that, while the order is in force, reasonable provision is made for insurance of the house against destruction or damage by fire or other causes.
+
+## Annotations
+
+[^c2052254]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2004/34/section/106) wholly in force at 16.6.2006; [s. 106](https://www.legislation.gov.uk/ukpga/2004/34/section/106) not in force at Royal Assent see [s. 270(4)(5)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4/5); [s. 106](https://www.legislation.gov.uk/ukpga/2004/34/section/106) in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [s. 106](https://www.legislation.gov.uk/ukpga/2004/34/section/106) in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))

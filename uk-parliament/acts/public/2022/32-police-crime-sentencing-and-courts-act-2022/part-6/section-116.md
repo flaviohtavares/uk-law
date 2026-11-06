@@ -1,0 +1,57 @@
+---
+title: Police, Crime, Sentencing and Courts Act 2022, section 116
+act: Police, Crime, Sentencing and Courts Act 2022
+section: '116'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2022/32/section/116
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police, Crime, Sentencing and Courts Act 2022, section 116
+
+> **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 116. Code of practice[^key-f2cb35edf421aab2ef674cf2ed3990a2]
+
+*Extent: E+W*
+
+(1) The Secretary of State must prepare a code of practice in relation to diversionary and community cautions.
+
+(2) The code may, in particular, include provision as to—
+
+- (a) the circumstances in which diversionary and community cautions may be given;
+- (b) the procedure to be followed in connection with the giving of diversionary and community cautions;
+- (c) the conditions which may be attached to diversionary and community cautions and the time for which they may have effect;
+- (d) the category of constable or investigating officer by whom diversionary and community cautions may be given;
+- (e) the persons whom a prosecution authority may authorise as authorised persons for the purposes of this Part;
+- (f) the form which diversionary and community cautions are to take and the manner in which they are to be given and recorded;
+- (g) the places where diversionary and community cautions may be given;
+- (h) the provision which may be made in a condition under section 102(2)(b) or 111(2)(b);
+- (i) the monitoring of compliance with conditions attached to diversionary and community cautions;
+- (j) the exercise of the power of arrest conferred by section 106(1);
+- (k) who is to decide how a person should be dealt with under section 106(2) and (3).
+
+(3) After preparing a draft of the code the Secretary of State—
+
+- (a) must publish the draft,
+- (b) must consider any representations made to the Secretary of State about the draft, and
+- (c) may amend the draft accordingly,
+
+but may not publish or amend the draft without the consent of the Attorney General.
+
+(4) After complying with subsection (3) the Secretary of State must lay the code before each House of Parliament.
+
+(5) After complying with subsection (4) the Secretary of State may bring the code into force by regulations.
+
+(6) The Secretary of State may from time to time revise a code of practice brought into force under this section.
+
+(7) Subsections (3) to (6) apply (with appropriate modifications) to a revised code as they apply to the original code.
+
+## Annotations
+
+[^key-f2cb35edf421aab2ef674cf2ed3990a2]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2022/32/section/116) in force at 24.5.2023 by [S.I. 2023/573](https://www.legislation.gov.uk/uksi/2023/573), [reg. 2](https://www.legislation.gov.uk/uksi/2023/573/regulation/2)

@@ -1,0 +1,567 @@
+---
+title: The Community Design Regulations 2005
+id: uksi/2005/2339
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-08-15'
+text_date: '2023-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2005/2339
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2339/pdfs/uksiem_20052339_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2339/pdfs/uksi_20052339_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2339/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Community Design Regulations 2005
+
+> Text as at 2023-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2005 No. 2339
+
+DESIGNS
+
+The Community Design Regulations 2005
+
+Made
+
+15th August 2005
+
+Laid before Parliament
+
+23rd August 2005
+
+Coming into force
+
+1st October 2005
+
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c12292731] in relation to measures relating to the legal protection of designs [^c12292741], in exercise of the powers conferred on him by that section makes the following Regulations:
+
+## 1. Introductory and interpretation
+
+(1) These Regulations may be cited as the Community Design Regulations 2005 and shall come into force on 1st October 2005.
+
+(2) In these Regulations—
+
+- “[^key-4d2f5619f5641900b5139c7c57681807]**design court**” has the meaning given by Article 81 of the Design Regulation;
+- “**Design Regulation**” means Council Regulation [(EC) No 6/2002](https://www.legislation.gov.uk/eur/2002/6) of 12th December 2001 on Community Designs as amended by regulation 4(1) of, and Part 1 of Schedule 1 to, the Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2018; and
+- “**supplementary unregistered design**” has the meaning given by Article 1 of the Design Regulation.
+
+(3)[^key-47c830053f830ce69bc818e7f8860d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 1A. Infringement proceedings[^key-54ce4a54578d8cd9c1a50653fe70ef26]
+
+(1) This regulation and regulations 1B to 1D are without prejudice to the duties of the [^key-d1f3458dc2aa34dbba228f43572fce78]... design court under the provisions of Article 89(1)(a) to (c) of the [^key-d1f3458dc2aa34dbba228f43572fce78]... Design Regulation.
+
+(2) Subject to[^key-a3048b06a5d60224d1a2f04486a28fdf] paragraph[^key-a2cde555bb65d8c1110f00a27a3b7f12] (5), in an action for infringement of a supplementary unregistered[^key-a0fc6acab571e33c1eb5e9d4057a818d] design all such relief by way of damages, injunctions, accounts or otherwise is available to the holder of the supplementary unregistered design as is available in respect of the infringement of any other property right.
+
+(3)[^key-2b94e0b7ac477bbdeac347c4cc59bb5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-ab06d909c89e6acb3e5924030d901351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^M_F_3b4ba446-df21-482f-af98-03a31a4cb758] In an action for the infringement of a supplementary[^key-afd9757ca569c9b521debcd3ef66cbf3] unregistered [^key-8e4a1f60a2ad39c15bc1eeee15fee1ab]... design, damages shall not be awarded against a person who proves that at the date of the infringement that they were not aware, and had no reason to believe, that the design to which the action relates was protected as a supplementary unregistered [^key-8e4a1f60a2ad39c15bc1eeee15fee1ab]... design.
+
+## 1B. Order for delivery up
+
+(1) Where a person—
+
+- (a) has in his possession, custody or control for commercial purposes an infringing article, or
+- (b) has in his possession, custody or control anything specifically designed or adapted for making articles to a particular design which is a supplementary unregistered[^key-83fb4e2af5723ce2962b9d9cfebd3396] design, knowing or having reason to believe that it has been or is to be used to make an infringing article,
+
+the holder of the supplementary unregistered design in question may apply to the [^key-a66b33ad68e0f6f2a0112727574980c4]... design court for an order that the infringing article or other thing be delivered up to him or to such other person as the design[^key-b14abf24baf5f31584eccfc9bfc13d6a] court may direct.
+
+(2) An application shall not be made after the end of the period specified in the following provisions of this regulation; and no order shall be made unless the design[^key-c1af6f5d11129e25f8a57813535ad6c0] court also makes, or it appears to the design court that there are grounds for making, an order under regulation 1C (order as to disposal of infringing articles, &c.).
+
+(3) An application for an order under this regulation may not be made after the end of the period of six years from the date on which the article or thing in question was made, subject to paragraph (4).
+
+(4) If during the whole or any part of that period the holder of the supplementary unregistered[^key-de8c3f6adb2b35edc3cfddcbcc698ecc] design—
+
+- (a) is under a disability, or
+- (b) is prevented by fraud or concealment from discovering the facts entitling him to apply for an order,
+
+an application may be made at any time before the end of the period of six years from the date on which he ceased to be under a disability or, as the case may be, could with reasonable diligence have discovered those facts.
+
+(5) In paragraph (4) “disability”—
+
+- (a) in England and Wales, has the same meaning as in the Limitation Act 1980;
+- (b) in Scotland, means legal disability within the meaning of the Prescription and Limitation (Scotland) Act 1973;
+- (c) in Northern Ireland, has the same meaning as in the Statute of Limitations (Northern Ireland) 1958.
+
+(6) A person to whom an infringing article or other thing is delivered up in pursuance of an order under this regulation shall, if an order under regulation 1C is not made, retain it pending the making of an order, or the decision not to make an order, under that regulation.
+
+(7) The reference in paragraph (1) to an act being done in relation to an article for “commercial purposes” are to its being done with a view to the article in question being sold or hired in the course of a business.
+
+(8) Nothing in this regulation affects any other power of the design[^key-8cbfa53eb1c5060c975d3716f6849917] court.
+
+## 1C. Order as to disposal of infringing articles, &c
+
+(1) An application may be made to the [^key-eda0825017b2b18ef2dd8aa22417a2ec]... design court for an order that an infringing article or other thing delivered up in pursuance of an order under regulation 1B shall be—
+
+- (a) forfeited to the holder of the supplementary unregistered[^key-4321b476e0f7e01b75400b72d7fc670d] design, or
+- (b) destroyed or otherwise dealt with as the design[^key-576ed775669dd1be0b21948d8a64814e] court may think fit,
+
+or for a decision that no such order should be made.
+
+(2) In considering what order (if any) should be made, the design[^key-b84529e092f8908035ab2e850543d9ed] court shall consider whether other remedies available in an action for infringement of the right in a supplementary unregistered[^key-6550f254d68dad05d17efa2375e4789b] design would be adequate to compensate the holder and to protect his interests.
+
+(3) Where there is more than one person interested in an article or other thing, the design[^key-e0a9e98f6646ab7042004906c5e7b572] court shall make such order as it thinks just and may (in particular) direct that the thing be sold, or otherwise dealt with, and the proceeds divided.
+
+(4) If the design[^key-c749779bef9a4284d0196eb69aa37370] court decides that no order should be made under this regulation, the person in whose possession, custody or control the article or other thing was before being delivered up is entitled to its return.
+
+(5) References in this regulation to a person having an interest in an article or other thing include any person in whose favour an order could be made in respect of it—
+
+- (a) under this regulation;
+- (b) under section 24D of the Registered Designs Act 1949;
+- (c) under section 114, 204 or 231 of the Copyright, Designs and Patents Act 1988; or
+- (d) under section 19 of the Trade Marks Act 1994 [^key-968c94be2b081ce0832a9776b00238a7]...
+
+## 1D. Meaning of “infringing article”
+
+(1) In these Regulations “infringing article”, in relation to a design, shall be construed in accordance with this regulation.
+
+(2) An article is an infringing article if its making to that design was an infringement of a supplementary unregistered[^key-7b04059e5f02eb012f03137e98a5e3fa] design.
+
+(3) An article is also an infringing article if—
+
+- (a) it has been or is proposed to be imported into the United Kingdom, and
+- (b) its making to that design in the United Kingdom would have been an infringement of a supplementary unregistered[^key-3be8d9cca4f70baf0f2bc3ed841bdc4b] design or a breach of an exclusive licensing agreement relating to that supplementary unregistered design.
+
+(4) Where it is shown that an article is made to a design which is or has been a supplementary unregistered[^key-8a17904dd6ab0f2ee23c5399317be319] design, it shall be presumed until the contrary is proved that the article was made at a time when the right in the supplementary unregistered design subsisted.
+
+(5) Nothing in paragraph (3) shall be construed as applying to an article which—
+
+- (a)[^key-d63a77da7bb16ecbf841f2dacea3af19] may be lawfully imported into the United Kingdom by virtue of anything which forms part of assimilated law as a result of section 3 of the European Union (Withdrawal) Act 2018, or
+- (b) has been or is proposed to be imported into the United Kingdom after being put on the market in the European Economic Area by or with the consent of the holder of the supplementary unregistered design.
+
+(5A)[^key-9e45d2ab778104880dda47ba04abd187] In subsection (5)(a), the reference to assimilated law is to be read, until the coming into force of paragraph 2(6) of Schedule 2 to the Retained EU Law (Revocation and Reform) Act 2023, as a reference to retained EU law.
+
+## 2. Unjustified threats: threats of infringement proceedings[^key-59e67c3c597ff21046ba0908c16ad4a0]
+
+(1) A communication contains a “threat of infringement proceedings” if a reasonable person in the position of a recipient would understand from the communication that—
+
+- (a) a supplementary unregistered[^key-1dbbf4901fd8c6e59df4c765a1442f6c] design exists, and
+- (b) a person intends to bring proceedings (whether in a court in the United Kingdom or elsewhere) against another person for infringement of the supplementary unregistered design by—
+  - (i) an act done in the United Kingdom, or
+  - (ii) an act which, if done, would be done in the United Kingdom.
+
+(2) References in this regulation and in regulation 2C to a “recipient” include, in the case of a communication directed to the public or a section of the public, references to a person to whom the communication is directed.
+
+## 2A. Unjustified threats: actionable threats
+
+(1) Subject to paragraphs (2) to (5), a threat of infringement proceedings made by any person is actionable by any person aggrieved by the threat.
+
+(2) A threat of infringement proceedings is not actionable if the infringement is alleged to consist of—
+
+- (a) making an article for disposal, or
+- (b) importing an article for disposal.
+
+(3) A threat of infringement proceedings is not actionable if the infringement is alleged to consist of an act which, if done, would constitute an infringement of a kind mentioned in paragraph (2)(a) or (b).
+
+(4) A threat of infringement proceedings is not actionable if the threat—
+
+- (a) is made to a person who has done, or intends to do, an act mentioned in paragraph (2)(a) or (b) in relation to an article, and
+- (b) is a threat of proceedings for an infringement alleged to consist of doing anything else in relation to that article.
+
+(5) A threat of infringement proceedings which is not an express threat is not actionable if it is contained in a permitted communication.
+
+(6) In regulations 2C and 2D an “**actionable threat**” means a threat of infringement proceedings that is actionable in accordance with this regulation.
+
+## 2B. Unjustified threats: permitted communications
+
+(1) For the purposes of regulation 2A(5), a communication containing a threat of infringement proceedings is a “permitted communication” if—
+
+- (a) the communication, so far as it contains information that relates to the threat, is made for a permitted purpose;
+- (b) all of the information that relates to the threat is information that—
+  - (i) is necessary for that purpose (see paragraph (5)(a) to (c) for some examples of necessary information), and
+  - (ii) the person making the communication reasonably believes is true.
+
+(2) Each of the following is a “permitted purpose”—
+
+- (a) giving notice that a supplementary unregistered[^key-72a347710478825a56c919441e1b1205] design exists;
+- (b) discovering whether, or by whom, a supplementary unregistered design has been infringed by an act mentioned in regulation 2A(2)(a) or (b);
+- (c) giving notice that a person has a right in or under a supplementary unregistered design, where another person's awareness of the right is relevant to any proceedings that may be brought in respect of the supplementary unregistered design.
+
+(3) The design[^key-a8cadcfd38bd90f83a6e599234f56758] court may, having regard to the nature of the purposes listed in paragraph (2)(a) to (c), treat any other purpose as a “permitted purpose” if it considers that it is in the interests of justice to do so.
+
+(4) But the following may not be treated as a “permitted purpose”—
+
+- (a) requesting a person to cease doing, for commercial purposes, anything in relation to an article made to a design, in which a design is incorporated or to which it is applied,
+- (b) requesting a person to deliver up or destroy an article made to a design, in which a design is incorporated or to which it is applied, or
+- (c) requesting a person to give an undertaking relating to an article made to a design, in which a design is incorporated or to which it is applied.
+
+(5) If any of the following information is included in a communication made for a permitted purpose, it is information that is “necessary for that purpose” (see paragraph (1)(b)(i))—
+
+- (a) a statement—
+  - (i)[^key-9bfea60e0b74dd3934ea430c7b637a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^key-833f70c56f0bb5fab8e3bf1b14fdf519] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) that a design is protected as a supplementary[^key-54c28246d68b84f45c49fda0752fea63] unregistered [^key-bf1c91c5e4682187cbfeb5266d5082a5]... design;
+- (b) details of the supplementary unregistered[^key-d7754482b2948ad0ff7f40c81383333e] design, or of a right in or under the supplementary unregistered design, which—
+  - (i) are accurate in all material respects, and
+  - (ii) are not misleading in any material respect; and
+- (c) information enabling the identification of the article that is alleged to be infringing an article in relation to the design.
+
+## 2C. Unjustified threats: remedies and defences
+
+(1) Proceedings in respect of an actionable threat may be brought against the person who made the threat for—
+
+- (a) a declaration that the threat is unjustified;
+- (b) an injunction against the continuance of the threat;
+- (c) damages in respect of any loss sustained by the aggrieved person by reason of the threat.
+
+(2) It is a defence for the person who made the threat to show that the act in respect of which proceedings were threatened constitutes (or if done would constitute) an infringement of the supplementary unregistered[^key-fc955e35bf3d7246fcc96c7b3b321d2c] design.
+
+(3) It is a defence for the person who made the threat to show—
+
+- (a) that, despite having taken reasonable steps, the person has not identified anyone who has done an act mentioned in regulation 2A(2)(a) or (b) in relation to the article which is the subject of the threat, and
+- (b) that the person notified the recipient, before or at the time of making the threat, of the steps taken.
+
+## 2D. Unjustified threats: professional advisers
+
+(1) Proceedings in respect of an actionable threat may not be brought against a professional adviser (or any person vicariously liable for the actions of that professional adviser) if the conditions in paragraph (3) are met.
+
+(2) In this section “**professional adviser**” means a person who, in relation to the making of the communication containing the threat—
+
+- (a) is acting in a professional capacity in providing legal services or the services of a trade mark attorney or a patent attorney, and
+- (b) is regulated in the provision of legal services, or the services of a trade mark attorney or a patent attorney, by one or more regulatory bodies (whether through membership of a regulatory body, the issue of a licence to practise or any other means).
+
+(3) The conditions are that—
+
+- (a) in making the communication the professional adviser is acting on the instructions of another person, and
+- (b) when the communication is made the professional adviser identifies the person on whose instructions the adviser is acting.
+
+(4) This section does not affect any liability of the person on whose instructions the professional adviser is acting.
+
+(5) It is for a person asserting that paragraph (1) applies to prove (if required) that at the material time—
+
+- (a) the person concerned was acting as a professional adviser, and
+- (b) the conditions in paragraph (3) were met.
+
+## 2E. Unjustified threats: supplementary: pending registration[^key-24400932098f8e50d5180cce5a4e11c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2F. Unjustified threats: supplementary: proceedings for delivery up etc.
+
+In regulation 2(1)(b) the reference to proceedings for infringement of the supplementary unregistered[^key-29fa9924e51a605c9d57edbbb2068db0] design includes a reference to—
+
+- (a) proceedings for an order under regulation 1B (order for delivery up), and
+- (b) proceedings for an order under regulation 1C (order as to disposal of infringing articles).
+
+## 3. Falsely representing a design as a registered Community design[^key-7b512e5fea58747832f8568f9ee32110]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Privilege for communications with those on the special list of professional design representatives
+
+(1) This regulation applies to communications as to any matter relating to the protection of a supplementary unregistered[^key-cae31d4ef6ba523634a1781980eb47d5] design.
+
+(2) Any such communication—
+
+- (a) between a person and his professional designs representative, or
+- (b) for the purposes of obtaining, or in response to a request for, information which a person is seeking for the purpose of instructing his professional designs representative,
+
+is privileged from, or in Scotland protected against, disclosure in legal proceedings in the same way as a communication between a person and his solicitor or, as the case may be, a communication for the purpose of obtaining, or in response to a request for, information which a person is seeking for the purpose of instructing his solicitor.
+
+(3)[^key-5ac1528724f7740c0a42082860bf3c5a] In paragraph (2) “**professional designs representative**” means a person whose name appears on the special list of professional representatives for design matters maintained by the European Union Intellectual Property Office referred to in Article 78(4) of Council Regulation [(EC) 6/2002](https://www.legislation.gov.uk/eur/2002/6) of 12th December 2001 on Community designs as it had effect immediately before IP completion day.
+
+## 5. Use of supplementary unregistered design for services of the Crown[^key-3b31e3323cbd5e1b61875c187d46dfcc]
+
+The provisions of the Schedule to these Regulations shall have effect with respect to the use of [^key-2d095b5eb0d34318bcd0549287dbde7c]... supplementary[^key-c979372666bf15e368fd43bf86dfbe3c] unregistered [^key-4e0bbf80240934f1c91bfc7c220e73e1]... designs for the services of the Crown and the rights of third parties in respect of such use.
+
+## 5A. Application to Scotland and Northern Ireland[^key-bd0de417a1aee51ab2aa8dd2c3caa2e4]
+
+(1) In the application of these Regulations to Scotland—
+
+- “accounts” means count, reckoning and payment;
+- “claimant” means pursuer;
+- “[^key-bda9dc09a82ed02f9eb9788998c68a0a]**declaration**” means “declarator”;
+- “defendant” means defender;
+- “delivery up” means delivery;
+- “injunction” means interdict.
+
+(2) In the application of these Regulations to Northern Ireland, “claimant” includes plaintiff.
+
+## 6. Amendment of section 35 of the Registered Designs Act 1949
+
+In section 35 of the Registered Designs Act 1949 [^c12292751] (fine for falsely representing a design as registered), after subsection (2) there shall be inserted—
+
+> (3) For the purposes of this section, the use in the United Kingdom in relation to a design—
+>
+> - (a) of the word “registered”, or
+> - (b) of any other word or symbol importing a reference (express or implied) to registration,
+>
+> shall be deemed to be a representation as to registration under this Act unless it is shown that the reference is to registration elsewhere than in the United Kingdom and that the design is in fact so registered.
+
+.
+
+Gerry Sutcliffe
+
+Parliamentary Under Secretary of State for
+
+Employment Relations and Consumer Affairs
+
+Department of Trade and Industry
+
+## SCHEDULE — USE OF supplementary unregistered DESIGNS FOR SERVICES OF THE CROWN[^key-d2e88e8c8cd8a88d5fcb64cd7f969040]
+
+Regulation 5
+
+### 1. Use of supplementary unregistered design for services of the Crown
+
+(1) A government department, or a person authorised in writing by a government department, may without the consent of the holder of a supplementary unregistered design—
+
+- (a) do anything for the purpose of supplying products for the services of the Crown, or
+- (b) dispose of products no longer required for the services of the Crown;
+
+and nothing done by virtue of this paragraph infringes the supplementary unregistered design.
+
+(2) References in this Schedule to “the services of the Crown” are limited to those which are necessary for essential defence or security needs.
+
+(3) In this Schedule—
+
+- “**Crown use**”, in relation to a supplementary unregistered design, means the doing of anything by virtue of this paragraph which would otherwise be an infringement of the supplementary unregistered design; and
+- “**the government department concerned**”, in relation to such use, means the government department by whom or on whose authority the act was done.
+
+(4) The authority of a government department in respect of Crown use of a supplementary unregistered design may be given to a person either before or after the use and whether or not he is authorised, directly or indirectly, by the holder of the supplementary unregistered design to do anything in relation to the design.
+
+(5) A person acquiring anything sold in the exercise of powers conferred by this paragraph, and any person claiming under him, may deal with it in the same manner as if the Crown was the holder of the supplementary unregistered design.
+
+### 2. Settlement of terms for Crown use
+
+(1) Where Crown use is made of a supplementary unregistered design, the government department concerned shall—
+
+- (a) notify the holder of the supplementary unregistered design as soon as practicable, and
+- (b) give him such information as to the extent of the use as he may from time to time require,
+
+unless it appears to the department that it would be contrary to the public interest to do so or the identity of the holder of the supplementary unregistered design cannot be ascertained on reasonable inquiry.
+
+(2) Crown use of a supplementary unregistered design shall be on such terms as, either before or after the use, are agreed between the government department concerned and the holder of the supplementary unregistered design with the approval of the Treasury or, in default of agreement, are determined by the design[^key-e374ac27494a68e85f1b977afbba9d72] court.
+
+(3) In the application of sub-paragraph (2) to Northern Ireland the reference to the Treasury shall, where the government department referred to in that sub-paragraph is a Northern Ireland department, be construed as a reference to the Department of Finance and Personnel.
+
+(4) In the application of sub-paragraph (2) to Scotland, where the government department referred to in that sub-paragraph is any part of the Scottish Administration, the words “with the approval of the Treasury” are omitted.
+
+(5) Where the identity of the holder of the supplementary unregistered design cannot be ascertained on reasonable inquiry, the government department concerned may apply to the design court who may order that no royalty or other sum shall be payable in respect of Crown use of the supplementary unregistered design until the holder agrees terms with the department or refers the matter to the design court for determination.
+
+### 3. Rights of third parties in case of Crown use
+
+(1) The provisions of any licence, assignment or agreement made between the holder of the supplementary unregistered design (or anyone deriving title from him or from whom he derives title) and any person other than a government department are of no effect in relation to Crown use of a supplementary unregistered design, or any act incidental to Crown use, so far as they—
+
+- (a) restrict or regulate anything done in relation to the supplementary unregistered design, or the use of any model, document or other information relating to it, or
+- (b) provide for the making of payments in respect of, or calculated by reference to such use;
+
+and the copying or issuing to the public of copies of any such model or document in connection with the thing done, or any such use, shall be deemed not to be an infringement of any copyright in the model or document.
+
+(2) Sub-paragraph (1) shall not be construed as authorising the disclosure of any such model, document or information in contravention of the licence, assignment or agreement.
+
+(3) Where an exclusive licence is in force in respect of the supplementary unregistered design—
+
+- (a) if the licence was granted for royalties—
+  - (i) any agreement between the holder of the supplementary unregistered design and a government department under paragraph 2 (settlement of terms for Crown use) requires the consent of the licensee, and
+  - (ii) the licensee is entitled to recover from the holder of the supplementary unregistered design such part of the payment for Crown use as may be agreed between them or, in default of agreement, determined by the design court;
+- (b) if the licence was granted otherwise than for royalties—
+  - (i) paragraph 2 applies in relation to anything done which but for paragraph 1 (Crown use) and sub-paragraph (1) would be an infringement of the rights of the licensee with the substitution for references to the holder of the supplementary unregistered design of references to the licensee, and
+  - (ii) paragraph 2 does not apply in relation to anything done by the licensee by virtue of an authority given under paragraph 1.
+
+(4) Where the supplementary unregistered design has been assigned to the holder of the supplementary unregistered design in consideration of royalties—
+
+- (a) paragraph 2 applies in relation to Crown use of the supplementary unregistered design as if the references to the holder of the supplementary unregistered design included the assignor, and any payment for Crown use shall be divided between them in such proportion as may be agreed or, in default of agreement, determined by the design court; and
+- (b) paragraph 2 applies in relation to any act incidental to Crown use as it applies in relation to Crown use of the supplementary unregistered design.
+
+(5) Where any model, document or other information relating to a supplementary unregistered design is used in connection with Crown use of the design, or any act incidental to Crown use, paragraph 2 applies to the use of the model, document or other information with the substitution for the references to the holder of the supplementary unregistered design of references to the person entitled to the benefit of any provision of an agreement rendered inoperative by sub-paragraph (1).
+
+(6) In this paragraph—
+
+- “**act incidental to Crown use**” means anything done for the services of the Crown to the order of a government department by the holder of the supplementary unregistered design in respect of a design;
+- “**payment for Crown use**” means such amount as is payable by the government department concerned by virtue of paragraph 2; and
+- “**royalties**” includes any benefit determined by reference to the use of the supplementary unregistered design.
+
+### 4. Crown use: compensation for loss of profit
+
+(1) Where Crown use is made of a supplementary unregistered design, the government department concerned shall pay—
+
+- (a) to the holder of the supplementary unregistered design, or
+- (b) if there is an exclusive licence in force in respect of the supplementary unregistered design, to the exclusive licensee,
+
+compensation for any loss resulting from his not being awarded a contract to supply the products to which the supplementary unregistered design is applied or in which it is incorporated.
+
+(2) Compensation is payable only to the extent that such a contract could have been fulfilled from his existing manufacturing capacity; but is payable notwithstanding the existence of circumstances rendering him ineligible for the award of such a contract.
+
+(3) In determining the loss, regard shall be had to the profit which would have been made on such a contract and to the extent to which any manufacturing capacity was under-used.
+
+(4) No compensation is payable in respect of any failure to secure contracts for the supply of products to which the supplementary unregistered design is applied or in which it is incorporated otherwise than for the services of the Crown.
+
+(5) The amount payable shall, if not agreed between the holder of the supplementary unregistered design or licensee and the government department concerned with the approval of the Treasury, be determined by the design court on a reference under paragraph 5; and it is in addition to any amount payable under paragraph 2 or 3.
+
+(6) In the application of this paragraph to Northern Ireland, the reference in sub-paragraph (5) to the Treasury shall, where the government department concerned is a Northern Ireland department, be construed as a reference to the Department of Finance and Personnel.
+
+(7) In the application of this paragraph to Scotland, where the government department referred to in sub-paragraph (5) is any part of the Scottish Administration, the words “with the approval of the Treasury” in that sub-paragraph are omitted.
+
+### 5. Reference of disputes relating to Crown use
+
+(1) A dispute as to any matter which falls to be determined by the design court in default of agreement under—
+
+- (a) paragraph 2 (settlement of terms for Crown use),
+- (b) paragraph 3 (rights of third parties in case of Crown use), or
+- (c) paragraph 4(Crown use: compensation for loss of profit),
+
+may be referred to the design court by any party to the dispute.
+
+(2) In determining a dispute between a government department and any person as to the terms for Crown use of a supplementary unregistered design the design court shall have regard to—
+
+- (a) any sums which that person or a person from whom he derives title has received or is entitled to receive, directly or indirectly, from any government department in respect of the supplementary unregistered design; and
+- (b) whether that person or a person from whom he derives title has in the court's opinion without reasonable cause failed to comply with a request of the department for the use of the supplementary unregistered design on reasonable terms.
+
+(3) One of two or more joint holders of the supplementary unregistered design may, without the concurrence of the others, refer a dispute to the design court under this paragraph, but shall not do so unless the others are made parties; and none of those others is liable for any costs unless he takes part in the proceedings.
+
+(4) Where the consent of an exclusive licensee is required by paragraph 3(3)(a)(i) to the settlement by agreement of the terms for Crown use of a supplementary unregistered design, a determination by the design court of the amount of any payment to be made for such use is of no effect unless the licensee has been notified of the reference and given an opportunity to be heard.
+
+(5) On the reference of a dispute as to the amount recoverable as mentioned in paragraph 3(3)(a)(ii) (right of exclusive licensee to recover part of amount payable to holder of supplementary unregistered design) the design court shall determine what is just having regard to any expenditure incurred by the licensee—
+
+- (a) in developing the design, or
+- (b) in making payments to the holder of the supplementary unregistered design in consideration of the licence (other than royalties or other payments determined by reference to the use of the design).
+
+(6)[^key-025c03376483c53c98d3d6faa0f51839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for the operation of Council Regulation [(EC) No. 6/2002](https://www.legislation.gov.uk/european/regulation/2002/0006) of 12th December 2001 (O.J. No. L 3, 5.1.2002, p.1) on the Community design (“**the Community Design Regulation**”).
+
+*Regulation* 2 provides a remedy for any person who is aggrieved by groundless threats being made to bring infringement proceedings in relation to Community designs.
+
+*Regulation* 3 creates two new offences related to falsely representing a design as a registered Community design.
+
+*Regulation* 4 creates a privilege for communications between a person who is on the special list of professional design representatives maintained in pursuance of Article 78 of the Community Design Regulation and his client.
+
+*Regulation* 5 in conjunction with the Schedule to these Regulations provides for the Crown use of Community designs in accordance with Article 23 of the Community Designs Regulation. Similar provisions are applied to national unregistered designs under sections 240 to 244 and section 252 of the Copyright, Designs and Patents Act 1988 (c. 48) and to registered designs in accordance with the First Schedule to the Registered Designs Act 1949 (c. 88).
+
+*Regulation* 6 amends section 35 of the Registered Designs Act 1949 so that the use of the term “**registered**” in relation to a design is deemed to mean registered under that Act unless it is shown that it is registered elsewhere than the United Kingdom.
+
+A Regulatory Impact Assessment is available. Copies of the assessment have been placed in the libraries of both Houses of Parliament and are also available from the Intellectual Property and Innovation Directorate, The Patent Office, Concept House, Cardiff Road, Newport NP10 8QQ.
+
+## Annotations
+
+[^c12292731]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c12292741]: Marginal citation: [S.I. 2000/1813](https://www.legislation.gov.uk/uksi/2000/1813).
+
+[^key-4d2f5619f5641900b5139c7c57681807]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1/2) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 54(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/54/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-47c830053f830ce69bc818e7f8860d07]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1/3) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 54(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/54/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-54ce4a54578d8cd9c1a50653fe70ef26]: Textual amendment: Regs. 1A-1D inserted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/9)
+
+[^key-d1f3458dc2aa34dbba228f43572fce78]: Textual amendment: Word in [reg. 1A(1)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1A/1) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 55(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/55/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a3048b06a5d60224d1a2f04486a28fdf]: Textual amendment: Words in reg. 1A(2) substituted (1.10.2014) by [The Community Design (Amendment) Regulations 2014 (S.I. 2014/2400)](https://www.legislation.gov.uk/uksi/2014/2400), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2400/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/2400/regulation/3/a)
+
+[^key-a2cde555bb65d8c1110f00a27a3b7f12]: Textual amendment: Word in [reg. 1A(2)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1A/2) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 55(b)(i)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/55/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a0fc6acab571e33c1eb5e9d4057a818d]: Textual amendment: Words in [reg. 1A(2)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1A/2) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 55(b)(ii)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/55/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2b94e0b7ac477bbdeac347c4cc59bb5e]: Textual amendment: [Reg. 1A(3)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1A/3) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 55(c)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/55/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ab06d909c89e6acb3e5924030d901351]: Textual amendment: [Reg. 1A(4)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1A/4) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 55(c)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/55/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_3b4ba446-df21-482f-af98-03a31a4cb758]: Textual amendment: Reg. 1A(3)-(5) inserted (1.10.2014) by [The Community Design (Amendment) Regulations 2014 (S.I. 2014/2400)](https://www.legislation.gov.uk/uksi/2014/2400), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2400/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/2400/regulation/3/b)
+
+[^key-afd9757ca569c9b521debcd3ef66cbf3]: Textual amendment: Words in [reg. 1A(5)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1A/5) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 55(d)(i)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/55/d/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8e4a1f60a2ad39c15bc1eeee15fee1ab]: Textual amendment: Word in [reg. 1A(5)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1A/5) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 55(d)(ii)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/55/d/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-83fb4e2af5723ce2962b9d9cfebd3396]: Textual amendment: Words in [reg. 1B(1)(b)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1B/1/b) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 56(a)(i)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/56/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a66b33ad68e0f6f2a0112727574980c4]: Textual amendment: Word in [reg. 1B(1)(b)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1B/1/b) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 56(a)(ii)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/56/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b14abf24baf5f31584eccfc9bfc13d6a]: Textual amendment: Word in [reg. 1B(1)(b)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1B/1/b) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 56(a)(iii)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/56/a/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c1af6f5d11129e25f8a57813535ad6c0]: Textual amendment: Word in [reg. 1B(2)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1B/2) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 56(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/56/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-de8c3f6adb2b35edc3cfddcbcc698ecc]: Textual amendment: Words in [reg. 1B(4)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1B/4) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 56(c)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/56/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8cbfa53eb1c5060c975d3716f6849917]: Textual amendment: Word in [reg. 1B(8)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1B/8) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 56(d)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/56/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eda0825017b2b18ef2dd8aa22417a2ec]: Textual amendment: Word in [reg. 1C(1)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1C/1) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 57(a)(i)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/57/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4321b476e0f7e01b75400b72d7fc670d]: Textual amendment: Words in [reg. 1C(1)(a)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1C/1/a) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 57(a)(ii)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/57/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-576ed775669dd1be0b21948d8a64814e]: Textual amendment: Word in [reg. 1C(1)(b)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1C/1/b) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 57(a)(iii)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/57/a/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b84529e092f8908035ab2e850543d9ed]: Textual amendment: Word in [reg. 1C(2)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1C/2) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 57(b)(i)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/57/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6550f254d68dad05d17efa2375e4789b]: Textual amendment: Words in [reg. 1C(2)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1C/2) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 57(b)(ii)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/57/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e0a9e98f6646ab7042004906c5e7b572]: Textual amendment: Word in [reg. 1C(3)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1C/3) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 57(c)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/57/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c749779bef9a4284d0196eb69aa37370]: Textual amendment: Word in [reg. 1C(4)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1C/4) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 57(c)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/57/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-968c94be2b081ce0832a9776b00238a7]: Textual amendment: Words in [reg. 1C(5)(d)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1C/5/d) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7b04059e5f02eb012f03137e98a5e3fa]: Textual amendment: Words in [reg. 1D(2)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1D/2) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 58(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/58/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3be8d9cca4f70baf0f2bc3ed841bdc4b]: Textual amendment: Words in [reg. 1D(3)(b)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1D/3/b) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 58(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/58/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8a17904dd6ab0f2ee23c5399317be319]: Textual amendment: Words in [reg. 1D(4)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1D/4) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 58(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/58/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d63a77da7bb16ecbf841f2dacea3af19]: Textual amendment: [reg. 1D(5)(a)(b)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1D/5) substituted for words (31.12.2023 immediately before the end of 2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [6(a)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/6/a)
+
+[^key-9e45d2ab778104880dda47ba04abd187]: Textual amendment: [Reg. 1D(5A)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1D/5A) inserted (31.12.2023 immediately before the end of 2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [6(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/6/b)
+
+[^key-59e67c3c597ff21046ba0908c16ad4a0]: Textual amendment: [Regs. 2-2F](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2) substituted for [reg. 2](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2) (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/6/2), [8(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/8/2); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+
+[^key-1dbbf4901fd8c6e59df4c765a1442f6c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2/1) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/59) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-72a347710478825a56c919441e1b1205]: Textual amendment: Words in [reg. 2B(2)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2B/2) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 60(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/60/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a8cadcfd38bd90f83a6e599234f56758]: Textual amendment: Word in [reg. 2B(3)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2B/3) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 60(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/60/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9bfea60e0b74dd3934ea430c7b637a39]: Textual amendment: [Reg. 2B(5)(a)(i)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2B/5/a/i) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 60(c)(i)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/60/c/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-833f70c56f0bb5fab8e3bf1b14fdf519]: Textual amendment: [Reg. 2B(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2B/5/a/ii) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 60(c)(i)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/60/c/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-54c28246d68b84f45c49fda0752fea63]: Textual amendment: Words in [reg. 2B(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2B/5/a/iii) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 60(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/60/c/ii/aa) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bf1c91c5e4682187cbfeb5266d5082a5]: Textual amendment: Word in [reg. 2B(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2B/5/a/iii) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 60(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/60/c/ii/bb) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d7754482b2948ad0ff7f40c81383333e]: Textual amendment: Words in [reg. 2B(5)(b)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2B/5/b) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 60(c)(iii)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/60/c/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fc955e35bf3d7246fcc96c7b3b321d2c]: Textual amendment: Words in [reg. 2C(2)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2C/2) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 61(1)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/61/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-24400932098f8e50d5180cce5a4e11c3]: Textual amendment: [Reg. 2E](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2E) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 61(2)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/61/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-29fa9924e51a605c9d57edbbb2068db0]: Textual amendment: Words in [reg. 2F](https://www.legislation.gov.uk/uksi/2005/2339/regulation/2F) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 61(3)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/61/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7b512e5fea58747832f8568f9ee32110]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2339/regulation/3) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/62) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cae31d4ef6ba523634a1781980eb47d5]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/4/1) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 63(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/63/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5ac1528724f7740c0a42082860bf3c5a]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/4/3) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 63(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/63/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [18](https://www.legislation.gov.uk/uksi/2020/1050/regulation/18), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3b31e3323cbd5e1b61875c187d46dfcc]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2005/2339/regulation/5) heading substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 64(1)(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/64/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2d095b5eb0d34318bcd0549287dbde7c]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2005/2339/regulation/5) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 64(1)(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/64/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c979372666bf15e368fd43bf86dfbe3c]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2005/2339/regulation/5) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 64(1)(c)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/64/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4e0bbf80240934f1c91bfc7c220e73e1]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2005/2339/regulation/5) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 64(1)(d)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/64/1/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bd0de417a1aee51ab2aa8dd2c3caa2e4]: Textual amendment: Reg. 5A inserted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/10)
+
+[^key-bda9dc09a82ed02f9eb9788998c68a0a]: Textual amendment: Words in [reg. 5A(1)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/5A/1) inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/6/3), [8(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/8/2); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+
+[^c12292751]: Marginal citation: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88).
+
+[^key-d2e88e8c8cd8a88d5fcb64cd7f969040]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2005/2339/schedule) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 64(2)(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/64/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e374ac27494a68e85f1b977afbba9d72]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2005/2339/schedule) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 64(2)(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/64/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-025c03376483c53c98d3d6faa0f51839]: Textual amendment: [Sch. para. 5(6)](https://www.legislation.gov.uk/uksi/2005/2339/schedule/paragraph/5/6) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 64(2)(c)](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/64/2/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/2)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [20](https://www.legislation.gov.uk/uksi/2020/1050/regulation/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

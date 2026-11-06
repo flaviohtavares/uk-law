@@ -1,0 +1,270 @@
+---
+title: The Tax Credits (Immigration) Regulations 2003
+id: uksi/2003/653
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-03-11'
+text_date: '2021-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/653
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/653/pdfs/uksi_20030653_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/653/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tax Credits (Immigration) Regulations 2003
+
+> Text as at 2021-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 653
+
+TAX CREDITS
+
+The Tax Credits (Immigration) Regulations 2003
+
+Made
+
+11th March 2003
+
+Laid before Parliament
+
+11th March 2003
+
+Coming into force
+
+6th April 2003
+
+The Treasury, in exercise of the powers conferred upon them by sections 42 and 65(1), (3), (7) and (9) of the Tax Credits Act 2002 [^c6066531], hereby make the following Regulations:[^key-1c7f7bf40604621ae565e20669bec7ec]
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Tax Credits (Immigration) Regulations 2003 and shall come into force on 6th April 2003.
+
+## 2. Interpretation
+
+In these Regulations–
+
+- “**the Act**” means the Tax Credits Act 2002;
+- “**the Child Tax Credit Regulations**” means the Child Tax Credit Regulations 2002 [^c6066541];
+-  “couple” has the meaning given by section 3(5A) of the Act;[^key-d915f2103d7da98a3686cdfb337b6471]
+- “**immigration rules**” has the meaning given by section 33 of the Immigration Act 1971 [^c6066551];
+- “**joint claim**” has the meaning given by section 3(8) of the Act;
+- “**limited leave**” has the meaning given by section 33 of the Immigration Act 1971;
+- [^key-6f4df0a0a3eeb677223c29fd8e22e54b]...
+- “**person subject to immigration control**” has the meaning in section 115(9) of the Immigration and Asylum Act 1999 [^c6066561];
+- “**refugee**” means a person who has been recorded by the Secretary of State as a refugee within the definition in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967 [^c6066571];
+- “**tax credit**” refers to either child tax credit or working tax credit and references to tax credits are to both of them;
+- “**the Working Tax Credit Regulations**” means the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 [^c6066581].
+
+## 3. Exclusion of persons subject to immigration control from entitlement to tax credits
+
+(1) No person is entitled to child tax credit or working tax credit while he is a person subject to immigration control, except in the following Cases, and subject to paragraphs (2) to (9).
+
+*Case 1*
+
+He is a person who–
+
+- (a) has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon the undertaking of another person or persons, pursuant to the immigration rules, to be responsible for his maintenance and accommodation, and
+- (b) has been resident in the United Kingdom for a period of at least 5 years commencing on or after the date of his entry into the United Kingdom, or the date on which the undertaking was given in respect of him, whichever is the later.
+
+*Case 2*
+
+He is a person who—
+
+- (a) falls within the terms of paragraph (a) of Case 1, and
+- (b) has been resident in the United Kingdom for less than the 5 years mentioned in paragraph (b) of Case 1,
+
+but the person giving the undertaking has died or, where the undertaking was given by more than one person, they have all died.
+
+*[^key-fb0710a0e0bee71d6227d0aedaf5b184]...*
+
+*Case 4*
+
+Where the claim is for working tax credit, he is—
+
+- (a) a national of a state which has ratified the European Convention on Social and Medical Assistance (done in Paris on 11th December 1953) [^c6066591] or of a state which has ratified the Council of Europe Social Charter (signed in Turin on 18th October 1961), and
+- (b) lawfully present in the United Kingdom.
+
+The Case so described also applies where—
+
+- (a) the claim is for child tax credit,
+- (b) the award of child tax credit would be made on or after 6th April 2004, and
+- (c) immediately before the award is made (and as part of the transition of claimants entitled to elements of income support and income-based jobseeker’s allowance, to child tax credit) the person is, or will on the making of a claim be, entitled to any of the amounts in relation to income support or income-based jobseeker’s allowance which are described in section 1(3)(d) of the Act.
+
+*Case 5*
+
+Where the claim is for child tax credit, he is a person who is lawfully working in the United Kingdom and—[^key-28b016e9db0feb2da33fd3af28d88916]
+
+- (a) who—
+  - (i) made a claim before 1st January 2021; and
+  - (ii) is a national of a State with which the European Union had, before 1st January 2021, concluded an agreement under Article 217 of the Treaty on the Functioning of the European Union providing in the field of social security for the equal treatment of workers who are nationals of the signatory State and their families; or
+- (b) who is a national of a State with which the United Kingdom has concluded an agreement which replaces, in whole or in part, an agreement under Article 217 of the Treaty on the Functioning of the European Union which either—
+  - (i) makes provision in the field of social security for the equal treatment of workers who are nationals of the State with which the agreement has been concluded and their families, or
+  - (ii) makes provision for receipt of family allowances by members of a worker’s family who are legally resident in the United Kingdom.
+
+(2) Where one member of a [^key-1eb292b556ed3c47dc68fb1014fb891c]... couple is a person subject to immigration control, and the other member is not or is within any of Cases 1 to 5 or regulation 5—
+
+- (a) the calculation of the amount of tax credit under the Act, the Child Tax Credit Regulations and the Working Tax Credit Regulations (including any second adult element or other element in respect of, or determined by reference to, that person),
+- (b) the method of making (or proceeding with) a joint claim by the couple, and
+- (c) the method of payment of the tax credit,
+
+shall, subject to paragraph (3), be determined in the same way as if that person were not subject to such control.
+
+(3) Where the other member is within Case 4 or 5 or regulation 5, paragraph (2) shall only apply to the tax credit to which he (in accordance with those provisions) is entitled.
+
+(4) Where a person has submitted a claim for asylum as a refugee and in consequence is a person subject to immigration control, in the first instance he is not entitled to tax credits, subject to paragraphs (5) to (9).
+
+(5) If that person—
+
+- (a) is notified that he has been recorded by the Secretary of State as a refugee or has been granted section 67 leave[^key-3e86e381b485e2e45a6f47455d15a263], and
+- (b) claims tax credit within one month[^key-d279f6aa368b194ed8a0f75ab46ee2a1] of receiving that notification,
+
+paragraphs (6) to (9) and regulation 4 shall apply to him.
+
+(6) He shall be treated as having claimed tax credits—
+
+- (a) on the date when he submitted his claim for asylum, and
+- (b) on every 6th April (if any) intervening between the date in sub-paragraph (a) and the date of the claim referred to in paragraph (5)(b),
+
+rather than on the date on which he makes the claim referred to in paragraph (5)(b).
+
+(7) Regulations 7, 7A and 8[^key-d22a97af65faf1e48067679e6ec148b8] of the Tax Credits (Claims and Notifications) Regulations 2002 [^c6066611] shall not apply to claims treated as made by virtue of paragraph (6).
+
+(8) He shall have his claims for tax credits determined as if he had been recorded as a refugee on the date when he submitted his claim for asylum.
+
+(9) The amount of support provided under—
+
+- (a) section 95 or 98 of the Immigration and Asylum Act 1999,
+- (b) regulations made under Schedule 9 to that Act, by the Secretary of State in respect of essential living needs of the claimant and his dependants (if any), or
+- (c) regulations made under paragraph 3 of Schedule 8 to that Act,
+
+(after allowing for any deduction for that amount under regulation 21ZB(3) of the Income Support (General) Regulations 1987 [^c6066621]) shall be deducted from any award of tax credits due to the claimant by virtue of paragraphs (6) and (8).
+
+(10)[^key-33fdd819f6274b493a2300d6d5272f9e] In this regulation “section 67 leave” means leave to remain in the United Kingdom granted by the Secretary of State to a person who has been relocated to the United Kingdom pursuant to arrangements made by the Secretary of State under section 67 of the Immigration Act 2016.
+
+## 4. Modifications of Part 1 of the Act for refugees whose asylum claims have been accepted
+
+(1) For the purposes of claims falling within paragraph (2), Part 1 of the Act shall apply subject to the modifications set out in paragraphs (3) to (5).
+
+(2) A claim falls within this paragraph if it is a claim for tax credits which a person is treated as having made by virtue of regulation 3(6), other than a claim which he is treated as having made in the tax year in which he made his claim under regulation 3(5).
+
+(3) Omit sections 14 to 17 (initial decisions, revised decisions and final notices).
+
+(4) In section 18 (decisions after final notices)—
+
+- (a) in subsection (1) for “After giving a notice under section 17” substitute “ In relation to each claim for a tax credit made by a person or persons for the whole or part of a tax year ”;
+- (b) omit subsections (2) to (9);
+- (c) for subsection (10) substitute—
+
+  > (10) Before making their decision the Board may by notice—
+  >
+  > - (a) require the person, or either or both of the persons, by whom the claim is made to provide any information or evidence which the Board consider they may need for making their decision, or
+  > - (b) require any person of a prescribed description to provide any information or evidence of a prescribed description which the Board consider they may need for that purpose,
+  >
+  > by the date specified in the notice.
+
+  ;
+- (d) in subsection (11) omit—
+  - (i) “any revision under subsection (5) or (9) and”;
+  - (ii) paragraph (a);
+  - (iii) in paragraph (b), “in any other case,”.
+
+(5) In section 19 (enquiries)—
+
+- (a) in subsection (4), for paragraphs (a) and (b) substitute
+
+  > one year after that decision or, if—
+  >
+  > - (a) the person, or either of the persons, to whom the enquiry relates is required by section 8 of the Taxes Management Act 1970 [^c6066631] to make a return, and
+  > - (b) the return becomes final on a day more than one year after that decision,
+  >
+  > with that day (or, if both of the persons are so required and their returns become final on different days, with the later of those days).
+
+  ;
+- (b) in subsection (5) omit paragraph (a) and, in paragraph (b) “in any other case,”;
+- (c) omit subsection (6).
+
+## 5. Transitional relief – claimants moving from income support and income-based jobseeker’s allowance to child tax credit
+
+In relation to child tax credit, a person is not treated for the purposes of these Regulations as subject to immigration control where—
+
+- (a) the award of child tax credit would be made on or after 6th April 2004;
+- (b) immediately before the award of child tax credit is made, he is, or will on the making of a claim be, entitled to any of the amounts in relation to income support or income-based jobseeker’s allowance which are described in section 1(3)(d) of the Act; and
+- (c) he is a person who, immediately before the award of child tax credit is made —
+  - (i) was receiving or entitled to income support by virtue of regulation 12(1) of the Social Security (Persons From Abroad) Miscellaneous Amendments Regulations 1996 [^c6066641], and his claim for asylum has not been recorded by the Secretary of State as having been decided (other than on appeal) or abandoned; or
+  - (ii) was receiving or entitled to income support or income-based jobseeker’s allowance by virtue of regulation 12(3) of the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 [^c6066651], and his claim for asylum has not been so recorded as having been decided (other than on appeal) or abandoned.
+
+John Heppell
+
+Philip Woolas
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+*(This note is not part of the Regulations)*
+
+The Tax Credits Act 2002 (“**the Act**”) introduces new tax credits – child tax credit and working tax credit – which will be available from 6th April 2003.
+
+Section 42 of the Act provides that regulations may exclude persons subject to immigration control from entitlement to or elements of tax credits, and modify Part 1 of the Act for such persons.
+
+Regulation 1 provides for citation and commencement and regulation 2 for interpretation.
+
+Regulation 3 provides for a general exclusion of persons subject to immigration control from entitlement to tax credits, subject to excepted cases described in that regulation (and regulation 5). Regulation 3(2) provides that where only one member of a married or unmarried couple is a person subject to immigration control and the other is not (or is within one of the excepted cases) entitlement to tax credits is determined in the same way as if neither of them were so subject. Regulation 3(4) to (9) provide for back-dated claims where an asylum claim has been accepted.
+
+Regulation 4 modifies the provisions of Part 1 of the Act for refugees whose asylum claims have been accepted.
+
+Regulation 5 provides for transitional relief (on or after 6th April 2004) for claimants moving over from certain elements of income support or income-based jobseeker’s allowance to child tax credit.
+
+## Annotations
+
+[^c6066531]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^key-1c7f7bf40604621ae565e20669bec7ec]: Modification: Regulations modified (6.4.2003) by [The Tax Credits (Polygamous Marriages) Regulations 2003 (S.I. 2003/742)](https://www.legislation.gov.uk/uksi/2003/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/1), [53-56](https://www.legislation.gov.uk/uksi/2003/742/regulation/53) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/2))
+
+[^c6066541]: Marginal citation: [S.I. 2002/2007](https://www.legislation.gov.uk/uksi/2002/2007).
+
+[^key-d915f2103d7da98a3686cdfb337b6471]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/653/regulation/2) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2005/2919/article/7/2/a)
+
+[^c6066551]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^key-6f4df0a0a3eeb677223c29fd8e22e54b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/653/regulation/2) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2005/2919/article/7/2/b)
+
+[^c6066561]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^c6066571]: Marginal citation: TS 39 (1954); Cmd 9171, as amended by TS 15 (1969); Cmd 3906.
+
+[^c6066581]: Marginal citation: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
+
+[^key-fb0710a0e0bee71d6227d0aedaf5b184]: Textual amendment: Reg. 3(1) Case 3 omitted (6.4.2014) by virtue of [The Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/658)](https://www.legislation.gov.uk/uksi/2014/658), [regs. 1](https://www.legislation.gov.uk/uksi/2014/658/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/658/regulation/3)
+
+[^c6066591]: Marginal citation: Cmd 9512.
+
+[^key-28b016e9db0feb2da33fd3af28d88916]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2003/653/regulation/3/1) substituted (1.1.2021) by [The Social Security, Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1505)](https://www.legislation.gov.uk/uksi/2020/1505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/4/2)
+
+[^key-1eb292b556ed3c47dc68fb1014fb891c]: Textual amendment: Words in reg. 3(2) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2005/2919/article/7/3)
+
+[^key-3e86e381b485e2e45a6f47455d15a263]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2003/653/regulation/3/5/a) inserted (20.7.2018) by [The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (S.I. 2018/788)](https://www.legislation.gov.uk/uksi/2018/788), [regs. 1](https://www.legislation.gov.uk/uksi/2018/788/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/788/regulation/5/2/a)
+
+[^key-d279f6aa368b194ed8a0f75ab46ee2a1]: Textual amendment: Words in reg. 3(5)(b) substituted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/848/regulation/7)
+
+[^key-d22a97af65faf1e48067679e6ec148b8]: Textual amendment: Words in reg. 3(7) substituted (6.4.2015) by [The Tax Credits (Claims and Notifications) (Amendment) Regulations 2015 (S.I. 2015/669)](https://www.legislation.gov.uk/uksi/2015/669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/669/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/669/regulation/5)
+
+[^c6066611]: Marginal citation: [S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014).
+
+[^c6066621]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); regulation 21ZB was inserted by regulation 3(5) of [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636).
+
+[^key-33fdd819f6274b493a2300d6d5272f9e]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/uksi/2003/653/regulation/3/10) inserted (20.7.2018) by [The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (S.I. 2018/788)](https://www.legislation.gov.uk/uksi/2018/788), [regs. 1](https://www.legislation.gov.uk/uksi/2018/788/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/788/regulation/5/2/b)
+
+[^c6066631]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^c6066641]: Marginal citation: [S.I. 1996/30](https://www.legislation.gov.uk/uksi/1996/30).
+
+[^c6066651]: Marginal citation: [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636).

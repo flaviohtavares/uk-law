@@ -1,0 +1,547 @@
+---
+title: The Operation of Air Services ... (Pricing etc.) Regulations 2013
+id: uksi/2013/486
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-05'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/486
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/486/pdfs/uksiem_20130486_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/486/pdfs/uksi_20130486_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/486/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Operation of Air Services ... (Pricing etc.) Regulations 2013
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 486
+
+Civil Aviation
+
+Consumer Protection
+
+The Operation of Air Services [^key-16aacbf9d33a16daee9379396eebc769]... (Pricing etc.) Regulations 2013
+
+Made
+
+5th March 2013
+
+Laid before Parliament
+
+8th March 2013
+
+Coming into force
+
+6th April 2013
+
+The Secretary of State is designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to air transport[^f00002], consumer protection[^f00003] and advertising[^f00004].
+
+In exercise of the powers conferred by that section, and after consultation with the Administrative Justice and Tribunals Council in accordance with paragraph 24(1) of Part 3 of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007[^f00005], the Secretary of State makes the following Regulations.
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-3233fd5a3b4a1724f023e3d72b7f4a3f]
+
+These Regulations may be cited as the Operation of Air Services [^key-ac895a8943ba492b999414548619ede8]... (Pricing etc.) Regulations 2013 and come into force on 6th April 2013.
+
+### 2. Review[^key-ad448890ba1e9a7f62e335835683a995]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of regulations 3 to 36,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Chapter IV of the EC Regulation (which is implemented by means of regulations 3 to 36) is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the enforcement system established by regulations 3 to 36,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+### 3. Interpretation[^key-e31c9b3011542e2501050df8f7bb9514]
+
+(1) In these Regulations—
+
+- “Article 23” means Article 23 of the EC Regulation;
+- “the CAA” means the Civil Aviation Authority;
+- “the[^key-0f7b7643323655667ad05566a46334c9] CMA” means the Competition and Markets Authority;
+- “the Directive” means Directive [2000/31/EC](https://www.legislation.gov.uk/european/directive/2000/0031) of the European Parliament and of the Council of 8th June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce)[^f00006];
+- “the EC Regulation” means Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the Community[^f00007];
+- [^key-ff13843f84adadd7b3550320a7d54bcc]...
+- [^key-63e7297b58bbb0a5357cc33679059091]...
+- [^key-c2eafe8f2b1965991efdbde271556ce0]...
+- [^key-cebeb03c80df97b7108664db28fe2dda]...
+- [^key-7a3691d236378482af933747b9f6653b]...
+- “information society services”—
+  - (a) has the meaning set out in Article 2(a) of the Directive (which refers to Article 1(2) of Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council of 22nd June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations[^f00009]); and
+  - (b) is summarised in recital 17 of the Directive which refers to “any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data, and at the individual request of a recipient of a service”;
+- [^key-a76283ae83b111a30c4bfcaad42cbb9b]...
+- [^key-6b6b86a5ac424654bedf2c7ae4f7d3fd]...
+- “recipient” means a person who (whether for professional purposes or not) uses an information society service, in particular for seeking information or making it accessible;
+- “service provider” means any person providing information society services.
+
+(2)[^key-2d01c40b06d1931afa661a27efff2619] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Enforcement of provisions on pricing
+
+### 4. Enforcers[^key-fc76d90ccd31dde3e205d46e9f573406]
+
+Each of the following is an enforcer for the purpose of enforcing Article 23—
+
+- (a) the CAA;
+- (b) the CMA[^key-a205747b826c30bc879ce0ca8a78a86f].
+
+### 5. Duty and power to enforce[^key-fc72fd09bada2b8d873ea926c711707c][^key-d4a38b92607c469557a45f0fa307e898]
+
+(1) It is the duty of the[^key-ed00401d18741b85cc2a70ed5c4843ae] CAA to enforce Article 23.
+
+(1A)[^key-40c887fbd2fd663964dc3ad513d6a22a] The CMA may also enforce Article 23.
+
+(2) Nothing in these Regulations authorises an enforcer to bring proceedings in Scotland for an offence.
+
+### 6. Consultation[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Request for consultation[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Person to whom a request for consultation is to be made[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Address for service[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Date of receipt of request[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Applications[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Enforcement orders[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Interim enforcement orders[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Undertakings to an enforcer[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Further proceedings[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Bodies corporate: accessories[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Bodies corporate: orders[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Information[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Notices: procedure[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Notices: enforcement[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Power to enter premises without warrant[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Powers exercisable on the premises[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Power to enter premises with warrant[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Ancillary provisions about powers of entry[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Obstructing, or failing to co-operate with, powers of entry[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Retention of documents and goods[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Evidence[^key-a063eabad595ebc932140d30393d94cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Information society services
+
+### 28. Service providers[^key-9c444e39374e50b9c725204420df6779]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Exceptions for mere conduits[^key-35768fed8a38d0f25df88db9d3ed0ba1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Exception for caching[^key-35768fed8a38d0f25df88db9d3ed0ba1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Exception for hosting[^key-35768fed8a38d0f25df88db9d3ed0ba1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Information[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+
+**No longer in force.**
+
+### 32. General restriction[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 33. Consent[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Information sharing[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Civil proceedings[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Criminal proceedings[^key-9eb1020d7a6b4eed73dfbdb639e19b92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Amendments
+
+### 37. The Operation of Air Services in the Community Regulations 2009[^key-66a95eb75f93cd7ea5f063f53d7a93a3]
+
+(1) The Operation of Air Services in the Community Regulations 2009[^f00020] are amended as follows.
+
+(2) After regulation 1, insert—
+
+> **1A. Review**
+>
+> (1) The Secretary of State must from time to time—
+>
+> - (a) carry out a review of regulations 3 to 32,
+> - (b) set out the conclusions of the review in a report, and
+> - (c) publish the report.
+>
+> (2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Chapters I to III of the EC Regulation (which is implemented by means of regulations 3 to 32) is implemented in the other member States.
+>
+> (3) The report must in particular—
+>
+> - (a) set out the objectives intended to be achieved by the regulatory system established by those regulations,
+> - (b) assess the extent to which those objectives are achieved, and
+> - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+>
+> (4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which the Operation of Air Services in the Community (Pricing etc.) Regulations 2013[^f00021] come into force.
+>
+> (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+(3) Regulation 15 is renumbered as paragraph (1) of that regulation.
+
+(4) After regulation 15(1), insert—
+
+> (2) The provisions of Schedule 3 apply in relation to an appeal against a decision of the Secretary of State made pursuant to paragraph (1) as to whether one of the conditions in Article 13(3)(b) of the EC Regulation is fulfilled.
+
+(5) Regulation 16 is renumbered as paragraph (1) of that regulation.
+
+(6) After regulation 16(1), insert—
+
+> (2) The provisions of Schedule 4 apply to the conduct and procedure of the CAA for the purposes of exercising the functions conferred on it by paragraph (1).
+
+(7) After Schedule 2, insert—
+
+> **SCHEDULE 3 — Appeal against Secretary of State decisions under regulation 15**
+>
+> Regulation 15
+>
+> **1.** Subject to paragraphs 3 and 4, an applicant may appeal to a county court from any determination of the Secretary of State under regulation 15 as to whether one of the conditions set out in Article 13(3)(b) of the EU Regulation is fulfilled.
+>
+> **2.** If the court is satisfied that on the evidence submitted to the Secretary of State, the Secretary of State’s determination was wrong, the court may reverse the Secretary of State’s determination and the Secretary of State must give effect to the court’s determination.
+>
+> **3.** If the appellant resides or has a registered or principal office in Scotland the appeal may be made to the sheriff court within whose sheriffdom the appellant resides or, as the case may be, has a registered or principal office and the appeal must be brought within 21 days from the date of the Secretary of State’s determination, or within such further period as the sheriff may allow.
+>
+> **4.** If the appellant resides or has a registered or principal office in Northern Ireland the appeal may be made to the county court held under the County Courts (Northern Ireland) Order 1980[^f00022] for the division in which the appellant resides or, as the case may be, has a registered or principal office.
+>
+> **5.** For the purposes of any provision relating to the time within which an appeal may be brought, the Secretary of State’s determination is deemed to have been taken on the date on which the Secretary of State furnished a statement of the reasons for the determination to the applicant for an approval for operation of an aircraft under a wet lease agreement.
+>
+> **SCHEDULE 4 — Conduct and procedure of the CAA for purposes of regulation 16**
+>
+> Regulation 16
+>
+> **1.** (1) In this Schedule—
+>
+> - “CAA Member” means a person appointed under section 2 of the Civil Aviation Act 1982[^f00023] to be a member of the CAA;
+> - “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa) by means of an electronic communications network (within the meaning set out in section 32(1) of the Communications Act 2003[^f00024]);
+> - “equivalent safety decision” means a decision of the CAA as to whether the condition in Article 13(3)(a) of the EC Regulation is satisfied;
+> - “hearing” means a hearing at which oral evidence or argument may be heard and “to hear” is construed accordingly;
+> - “lease approval” means an approval—
+>   - (a) under regulation 17; or
+>   - (b) under OPS 1-165 of Annex III of [Council Regulation (EEC) No 3922/91](https://www.legislation.gov.uk/european/regulation/1991/3922) of 16th September 1991 on the harmonisation of technical requirements and administrative procedures in the field of civil aviation[^f00025].
+>
+> (2) Any period of time specified in this Schedule by reference to days—
+>
+> - (a) where such period is expressed to begin after a particular date, is to begin on the first day after that date, and is inclusive of the last day unless that day falls on a day which is not a business day, in which case the period runs to the next business day; and
+> - (b) where such period is expressed to run to or expire before a particular date or event, the period is to be calculated to expire on the last business day before the particular date or the date of that event.
+>
+> (3) A business day is a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in any part of the United Kingdom under the Banking and Financial Dealings Act 1971[^f00026].
+>
+> **2.** A notice or other document required to be served by the CAA under this Schedule must be served in accordance with paragraph 3.
+>
+> **3.** (1) A notice or other document is served on a person in accordance with this paragraph if it is set out in writing and—
+>
+> - (a) is delivered personally to a person specified in sub-paragraph (2); or
+> - (b) is delivered by posting or transmitting the notice or document by means of electronic communication to, or leaving it at, an address for service set out in sub-paragraph (3) appropriate to the method of communication addressed to the person specified in sub-paragraph (2).
+>
+> (2) The person to whom the notice or document should be addressed or delivered is—
+>
+> - (a) for an individual, that person;
+> - (b) for a body corporate, a director, secretary, chief execute, treasurer, manager or other similar officer of the body corporate;
+> - (c) for a limited liability partnership, any designated member as defined by section 18 of the Limited Liability Partnerships Act 2000[^f00027];
+> - (d) for a partnership, a partner or any person having control or management of the business;
+> - (e) for an unincorporated body or association, the proprietor or a person concerned in the management or control of the body or association.
+>
+> (3) Any notice or document may be sent to one of the following addresses as appropriate—
+>
+> - (a) in the case of an individual, that person’s usual or last known place of business, employment or residence;
+> - (b) in the case of a body corporate, its principal or registered office or its principal place of business;
+> - (c) in the case of a limited liability partnership, the address of its principal or registered office;
+> - (d) in the case of a partnership or an unincorporated body or association, its principal office or principal place of business;
+> - (e) in any case, an electronic address which the person on whom the notice or document is to be served has held out as an address at which that person can be contacted.
+>
+> (4) An “electronic address” includes a fax number and an email address.
+>
+> **4.** A decision or proposal to grant, refuse to grant, revoke, suspend or vary a lease approval or an equivalent safety decision may be made on behalf of the CAA by a CAA employee unless paragraph 7 applies.
+>
+> **5.** If a CAA employee—
+>
+> - (a) refuses an application for a lease approval,
+> - (b) grants an approval but in terms other than those requested by the applicant, or
+> - (c) makes an equivalent safety decision against the applicant,
+>
+> the CAA must serve on the applicant a notice stating the reasons for the decision, and the applicant may within 14 days after the date of service of that notice request that the case be reviewed by CAA Members.
+>
+> **6.** If a CAA employee proposes to revoke, suspend or vary a lease approval, the CAA must serve on the approval holder notice of the proposal together with the reasons for it, and the approval holder may within 14 days after the date of service of that notice, serve on the CAA a request that the case be decided by CAA Members.
+>
+> **7.** Where a request for a decision by the CAA Members has been served on the CAA under paragraph 5 or 6, the decision must be made by at least two CAA Members who were not involved in the original decision or proposal made by the CAA employee.
+>
+> **8.** Before making a decision the CAA Members must consider—
+>
+> - (a) any brief supplied by the CAA employee responsible for the proposal or decision; and
+> - (b) any representations by the applicant or approval holder, served on the CAA Members within 21 days after the date of service of the notice under paragraphs 5 or 6 or such additional period as the CAA Members may determine.
+>
+> **9.** Within 21 days after the date of service of the notice under paragraphs 5 or 6 the applicant or approval holder may request a hearing.
+>
+> **10.** If the applicant or the approval holder has requested a hearing under paragraph 9, the CAA Members must before making a decision, conduct a hearing and consider any representations made or evidence submitted at such a hearing.
+>
+> **11.** (1) All hearings must be in public except—
+>
+> - (a) where the CAA is satisfied that a private hearing is required—
+>   - (i) in the interests of morals, public order or national security in a democratic society,
+>   - (ii) in the interests of juveniles or the protection of the private life of the parties, or
+>   - (iii) to the extent strictly necessary in the opinion of the CAA in special circumstances if publicity would prejudice the interests of justice; or
+> - (b) where the applicant or the approval holder has requested in writing that the hearing be in private and the CAA is satisfied that there is no important public interest consideration that calls for the public to be present.
+>
+> (2) The CAA may decide under sub-paragraph (1) that part only of the hearing is to be in private or that information about the proceedings before the CAA, the names and identifying characteristics of persons concerned in the proceedings or specified evidence given in the proceedings must not be made public or disclosed to a party or parties.
+>
+> (3) The following persons are entitled to attend a hearing, whether or not it is in private—
+>
+> - (a) a member of the Administrative Justice and Tribunals Council or of the Scottish Committee of that Council; and
+> - (b) any person whom the CAA, with the consent of the applicant or the approval holder permits to attend the hearing.
+>
+> **12.** (1) The CAA must serve on all persons having a right to be heard and all person whom the CAA proposes to hear at least 14 days’ notice of the date, time and place of the hearing.
+>
+> (2) The notice must clearly identify the matter to which it relates.
+>
+> (3) A similar notice must be published not less than 7 days before the date of the hearing on the CAA’s website.
+>
+> (4) On the day of a hearing, a similar notice must be posted in a visible and accessible place at the venue where the hearing is scheduled to take place.
+>
+> **13.** The applicant or approval holder and the CAA employee who made the decision or proposal to be reviewed have a right to be heard at the hearing.
+>
+> **14.** At the hearing every person with a right to be heard may appear in person or be represented by any other person whom they have authorised to represent them and may produce oral and written evidence and the person with a right to be heard or their representative may examine any other person being heard and any witness produced by that person.
+>
+> **15.** The CAA Members conducting a hearing may sit with such technical assessors to advise them as they may appoint, but the CAA Members must not appoint as an assessor any person who participated in the decision or proposal or the development of any notice or decision which is to be the subject of the hearing.
+>
+> **16.** When the CAA makes a decision it must—
+>
+> - (a) serve notice of the decision and a statement of its reasons for the decision on the applicant or approval holder; and
+> - (b) publish the decision and a statement of its reasons for the decision.
+>
+> **17.** Paragraphs 5 and 6 do not apply where the CAA refuses to grant an approval or grants an approval in terms other than those requested by the applicant or proposes to vary, suspend or revoke an approval pursuant to a direction given by the Secretary of State under section 6 of the Civil Aviation Act 1982[^f00028] (Secretary of State’s directions in national interest, etc.).
+
+## PART 6 — Revocation
+
+### 38. The Licensing of Air Carriers Regulations 1999[^key-16cf36115471cfc0886bbf302b25a1f0]
+
+The Licensing of Air Carriers Regulations 1999[^f00029] are revoked.
+
+Signed by authority of the Secretary of State
+
+Simon Burns
+
+Minister of State
+
+Department for Transport
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for implementing Chapter IV of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.08, p.3). These Regulations also amend the Operation of Air Services in the Community Regulations 2009 and revoke the Licensing of Air Carriers Regulations 1999.
+
+Regulation 2 requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+Article 24 of the EC Regulation requires the member States to ensure compliance with the rules set out in Chapter IV and lay down penalties for infringements of those rules. Regulations 3 to 36 provide for an enforcement system to meet this obligation.
+
+Regulation 4 specifies the CAA and the OFT as enforcers for the purpose of enforcing Article 23 of the EC Regulation.
+
+The enforcement regime provides for—
+
+- (a) power for the courts to make an enforcement order on application of an enforcer: regulation 12;
+- (b) power for the courts to make an interim enforcement order on application of an enforcer: regulation 13;
+- (c) power for an enforcer to accept an undertaking instead of seeking an enforcement order: regulation 14;
+- (d) further proceedings to be taken by an enforcer following breach of an undertaking, enforcement order or an interim enforcement order: regulation 15;
+- (e) power for enforcers to seek information for the purpose of ascertaining whether there is an infringement of Article 23 or whether a person has complied with an order: regulation 18;
+- (f) power for officers of an enforcer to enter premises with or without warrant: regulations 21, 23 and 24;
+- (g) power for officers of an enforcer to observe the business and inspect goods and documents on the premises, to require the production of goods or documents, to seize goods or documents, and to seize, remove and retain goods and documents: regulations 22.
+
+Regulation 25 creates a new criminal offence of obstructing or failing to cooperate with powers of entry.
+
+Regulations 28 to 31 make provision so that the Regulations do not conflict with the requirements of European Directive [2000/31/EC](https://www.legislation.gov.uk/european/directive/2000/0031) of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society service, in particular electronic commerce in the Internal Market (OJ L 178, 17.07.2000, p.1), known as the E-Commerce Directive. Regulation 28 provides that where a service provider is established in the United Kingdom, to the extent these Regulations are concerned with the enforcement of Article 23, they apply to anything done by that service provider in providing the information society service in another EEA state. It also provides that where the service provider is established in an EEA state other than the United Kingdom, they do not apply to anything done by the service provider in providing the information society service. Regulations 29 to 31 provide for various exceptions in respect of intermediary internet service providers in accordance with Articles 12 to 14 of the E-Commerce Directive.
+
+Regulations 32 to 36 provide for sharing of information between enforcers and for disclosure of information with consent, and for the purpose of civil and criminal proceedings.
+
+Regulation 37 amends the Operation of Air Services in the Community Regulations 2009 by adding a requirement for the Secretary of State to review the operation and effect of those regulations and to publish a report within five years after such requirement comes into force and within every five years after that. Regulation 37 also provides for appeal procedures in respect of decisions of the Secretary of State and the CAA relating to approvals for leased aircraft pursuant to regulations 15 and 16 of the 2009 regulations.
+
+The Licensing of Air Carriers Regulations 1999 are revoked: regulation 38. The process set out in the 1999 regulations is replaced by the procedure set out in regulation 37.
+
+An impact assessment of the effect that the instrument will have on the costs of business, the voluntary sector and the public sector is available from the Department for Transport, Great Minster House, 33 Horseferry Road, London SW1P 4DR and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk. A copy has also been placed in the Library of each House of Parliament.
+
+## Annotations
+
+[^key-16aacbf9d33a16daee9379396eebc769]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/486) title omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00002]: Footnote: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^f00003]: Footnote: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^f00004]: Footnote: [S.I. 1985/749](https://www.legislation.gov.uk/uksi/1985/749).
+
+[^f00005]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). The Civil Aviation Authority is a “listed tribunal” for the purposes of Schedule 7 to that Act by virtue of the Administrative Justice and Tribunals Council (Listed Tribunals) Order 2007 ([S.I. 2007/2951](https://www.legislation.gov.uk/uksi/2007/2951)).
+
+[^key-3233fd5a3b4a1724f023e3d72b7f4a3f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+
+[^key-ac895a8943ba492b999414548619ede8]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad448890ba1e9a7f62e335835683a995]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/486/regulation/2) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+
+[^key-e31c9b3011542e2501050df8f7bb9514]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/486/regulation/3) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+
+[^key-0f7b7643323655667ad05566a46334c9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^f00006]: Footnote: OJ L 178, 17.07.00, p.1.
+
+[^f00007]: Footnote: OJ L 293, 31.10.08, p.3.
+
+[^key-ff13843f84adadd7b3550320a7d54bcc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^key-63e7297b58bbb0a5357cc33679059091]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^key-c2eafe8f2b1965991efdbde271556ce0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^key-cebeb03c80df97b7108664db28fe2dda]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/d) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^key-7a3691d236378482af933747b9f6653b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(e)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/e) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^f00009]: Footnote: OJ L 204, 21.7.1998, p.37, as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048) of 20th July 1998 (OJ L 217, 5.8.98, p.18).
+
+[^key-a76283ae83b111a30c4bfcaad42cbb9b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(2)(f)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/2/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^key-6b6b86a5ac424654bedf2c7ae4f7d3fd]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/1) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-2d01c40b06d1931afa661a27efff2619]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2013/486/regulation/3/2) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^key-fc76d90ccd31dde3e205d46e9f573406]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/486/regulation/4) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+
+[^key-a205747b826c30bc879ce0ca8a78a86f]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2013/486/regulation/4) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-fc72fd09bada2b8d873ea926c711707c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/486/regulation/5) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+
+[^key-d4a38b92607c469557a45f0fa307e898]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2013/486/regulation/5) heading inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(4)(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-ed00401d18741b85cc2a70ed5c4843ae]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2013/486/regulation/5/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(4)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-40c887fbd2fd663964dc3ad513d6a22a]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2013/486/regulation/5/1A) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 49(4)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/49/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-a063eabad595ebc932140d30393d94cc]: Textual amendment: [Regs. 6-27](https://www.legislation.gov.uk/uksi/2013/486/regulation/6) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^key-9c444e39374e50b9c725204420df6779]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/486/regulation/28) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-35768fed8a38d0f25df88db9d3ed0ba1]: Textual amendment: [Regs. 29-31](https://www.legislation.gov.uk/uksi/2013/486/regulation/29) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^key-9eb1020d7a6b4eed73dfbdb639e19b92]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2013/486/part/4) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2020/484/regulation/6/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+
+[^key-66a95eb75f93cd7ea5f063f53d7a93a3]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2013/486/regulation/37) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+
+[^f00020]: Footnote: [S.I. 2009/41](https://www.legislation.gov.uk/uksi/2009/41).
+
+[^f00021]: Footnote: [S.I. 2013/486](https://www.legislation.gov.uk/uksi/2013/486).
+
+[^f00022]: Footnote: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397), to which there are amendments not relevant to these regulations.
+
+[^f00023]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). Section 2 was amended by section 72 of the Airports Act [1986 (c.31)](https://www.legislation.gov.uk/ukpga/1986/31) and section 95 of the Civil Aviation Act [2012 (c.19)](https://www.legislation.gov.uk/ukpga/2012/19).
+
+[^f00024]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32(1) was amended by regulation 2(1) and paragraph 9 of schedule 1 of the Electronic Communications and Wireless Telegraphy Regulations 2011 ([S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210)).
+
+[^f00025]: Footnote: OJ No. L 373, 31.12.91, p.4. Annex III was inserted by [Commission Regulation (EC) No 8/2008](https://www.legislation.gov.uk/european/regulation/2008/0008) of 11th December 2007 amending [Council Regulation (EEC) No 3922/91](https://www.legislation.gov.uk/european/regulation/1991/3922) as regards common technical requirements and administrative procedures applicable to commercial transportation by aeroplane, OJ No. L 10, 12.1.08, p.1.
+
+[^f00026]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^f00027]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12). Section 18 cross-refers to section 8 of the Limited Liability Partnerships Act 2000 and section 8 has been amended by regulation 85 of the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 ([S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804)).
+
+[^f00028]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). Section 6 was amended by section 97 of the Transport Act [2000 (c.38)](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^key-16cf36115471cfc0886bbf302b25a1f0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2013/486/regulation/38) in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/486/regulation/1)
+
+[^f00029]: Footnote: [S.I. 1999/2245](https://www.legislation.gov.uk/uksi/1999/2245).

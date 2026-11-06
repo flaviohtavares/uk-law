@@ -1,0 +1,818 @@
+---
+title: The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011
+id: uksi/2011/2298
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-09-15'
+text_date: '2020-12-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/2298
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2298/pdfs/uksiem_20112298_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2298/pdfs/uksi_20112298_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2298/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011
+
+> Text as at 2020-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 2298
+
+Constitutional Law
+
+Devolution, Scotland
+
+Criminal Law
+
+The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011
+
+Made
+
+15th September 2011
+
+Coming into force in accordance with article 1
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 104, 112(1) and 113(2), (4) and (5) of the Scotland Act 1998[^f00001].
+
+In accordance with section 115(1) of, and paragraphs 1, 2 and 3 of Schedule 7 to, that Act, a draft of this Order was laid before and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-b49e2419bdac59e05befe081a43b7d50]
+
+(1) This Order may be cited as the Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011.
+
+(2) Except as provided in paragraph (3) below, this Order comes into force on the day after the day on which it is made.
+
+(3) Part 1 of the Schedule, article 3 (so far as it gives effect to Part 1 of the Schedule) and article 4(1) come into force on whichever is the later of—
+
+- (a) 1<sup>st</sup> August 2011, and
+- (b) the day after the day on which this Order is made.
+
+## 2. Extent[^key-7b09e104649e7c1442390e7741835549]
+
+(1) Except as provided in paragraphs (2) to (6) below this Order extends to Scotland, England and Wales and Northern Ireland.
+
+(2) Article 4(1) and Part 1 of the Schedule extend to Scotland only.
+
+(3) Article 4(3) and paragraph 15 of the Schedule extend to Northern Ireland only.
+
+(4) Paragraphs 7(a), 16 and 17 of the Schedule extend to England and Wales only.
+
+(5) Paragraphs 10 and 12 of the Schedule extend to Scotland and to England and Wales only.
+
+(6) Part 2 and paragraphs 7(b) and 13 of the Schedule extend to England and Wales and Northern Ireland only.
+
+## 3. Modifications of enactments[^key-b66496081fc10fee5b6cc9f1c3cd52b7]
+
+The Schedule to this Order has effect.
+
+## 4. Savings and transitional provisions[^key-32109eed7a4a01a59138af2bc4bf96d2]
+
+*Extent: S*
+
+(1) The modifications made by Part 1 of the Schedule have effect in relation to relevant physical data, samples and information derived from samples whenever taken or provided.
+
+(2) The repeal of sections 234(4) to (11) and 244 of the Criminal Procedure (Scotland) Act 1995[^f00002] made by paragraph 7 of the Schedule and the modifications made by Part 4 of the Schedule are of no effect in respect of an offence committed before this Order comes into force or in relation to any probation order or community service order made under that Act.
+
+*Extent: N.I.*
+
+(3) The amendments to the Juries (Northern Ireland) Order 1996[^f00003] made by paragraph 15 of the Schedule are of no effect in respect of a person given notice under Article 4(3) of that Order before the commencement of that paragraph.
+
+(4) Where an offence is found to have been committed over a period of two or more days, or at some time during a period of two or more days, it shall be taken for the purposes of paragraph (2) to have been committed on the first of those days.
+
+Signed by authority of the Secretary of State
+
+David Mundell
+
+Parliamentary Under Secretary of State
+
+Scotland Office
+
+Dover House
+
+London
+
+15th September 2011
+
+## SCHEDULE — MODIFICATIONS
+
+Article 3
+
+### PART 1 — RETENTION AND USE OF SAMPLES
+
+*Extent: S*
+
+#### 1. The Criminal Procedure (Scotland) Act 1995[^key-a8801508c7b679603b34cb714052a8f0]
+
+Section 19C (sections 18 and 19 to 19AA: use of samples etc.) of the Criminal Procedure (Scotland) Act 1995[^f00004] is amended as follows—
+
+- (a) in subsection (1), at the end of paragraphs (a) and (b) insert “(including any taken or provided by virtue of paragraph 20 of Schedule 8 to the Terrorism Act 2000[^f00005])”;
+- (b) in subsection (2)—
+  - (i) omit the word “or” at the end of paragraph (a),
+  - (ii) after paragraph (b) insert—
+
+    > - (c) in the interests of national security, or
+    > - (d) for the purposes of a terrorist investigation
+
+    ; and
+- (c) in subsection (6)—
+  - (i) omit the word “and” at the end of paragraph (b),
+  - (ii) after paragraph (c) insert—
+
+    > , and
+    >
+    > - (d) “terrorist investigation” has the meaning given by section 32 of the Terrorism Act 2000.
+
+    .
+
+#### 2. The Criminal Justice (Scotland) Act 2003[^key-ea83944671fd7a7a3c80096eabb72e66]
+
+Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scotland) Act 2003[^f00006] is amended as follows—
+
+- (a) in subsection (2)—
+  - (i) omit the word “or” at the end of paragraph (a),
+  - (ii) after paragraph (b) insert—
+
+    > - (c) in the interests of national security, or
+    > - (d) for the purposes of a terrorist investigation
+
+    ; and
+- (b) in subsection (8)—
+  - (i) omit the word “and” at the end of the definition of “sample”,
+  - (ii) after the definition of “relevant physical data” insert—
+
+    > - ; and
+    > - “terrorist investigation” has the meaning given by section 32 of the Terrorism Act 2000.
+
+    .
+
+### PART 2 — SEXUAL OFFENCES
+
+*Extent: E+W+N.I.*
+
+#### 3. Sexual Offences Act 2003[^key-e85dd560618a76efe4fdedac0715ad02]
+
+(1) Section 122(1B)(b) (breach of foreign travel order) of the Sexual Offences Act 2003[^f00007] shall extend to England and Wales and Northern Ireland.
+
+(2) Paragraph 44A of Schedule 3 (list of sexual offences for the purposes of Part 2) to the Sexual Offences Act 2003[^f00008] shall extend to England and Wales and Northern Ireland.
+
+### PART 3 — TRANSFER OF COMMUNITY PAYBACK ORDERS
+
+**4.**[^key-dd705bfbc4b839782e3af236d4b4e1b3] The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+
+**5.**[^key-f5349b7c58fcd9fbea2fcd8cc74faacf] After section 227ZN insert:—
+
+> **227ZO. Community payback orders: persons residing in England and Wales or Northern Ireland**
+>
+> Schedule 13 to this Act, which makes provision for the transfer of community payback orders to England and Wales or Northern Ireland, has effect.
+
+.
+
+**6.**[^key-91c8cd72455ef498cfc148de34795136] After Schedule 12 insert:—
+
+> **SCHEDULE 13 — TRANSFER OF COMMUNITY PAYBACK ORDERS TO ENGLAND AND WALES OR NORTHERN IRELAND**
+>
+> Section 227ZO
+>
+> **PART 1 — ENGLAND AND WALES**
+>
+> **1.** (1) This paragraph applies where the court is considering imposing a community payback order under section 227A of this Act on an offender who—
+>
+> - (a) resides in England and Wales, or
+> - (b) when the order takes effect, will reside in England and Wales.
+>
+> (2) The court must not impose the order unless—
+>
+> - (a) the offender has attained the age of 16 years, and
+> - (b) the court is satisfied that arrangements have been, or can be, made in the relevant area—
+>   - (i) for the offender to comply with the requirements imposed by the order in accordance with arrangements that exist in the relevant area for offenders to comply with the same or broadly similar requirements imposed by the corresponding order, and
+>   - (ii) for the appointment of a responsible officer.
+>
+> **2.** (1) This paragraph applies where—
+>
+> - (a) an offender on whom a community payback order has been imposed under section 227A of this Act proposes to change, or has changed, residence to a locality in England and Wales (“the new locality”), and
+> - (b) the court is considering varying the order so as to specify the relevant area in which the offender resides or will reside.
+>
+> (2) The court must not vary the order unless—
+>
+> - (a) the offender has attained the age of 16 years, and
+> - (b) the court is satisfied as mentioned in paragraph 1(2)(b).
+>
+> (3) If the court considers that a requirement (“the requirement concerned”) imposed by the order cannot be complied with if the offender resides in the new locality, the court must not vary the order so as to specify the relevant area unless it also varies the order so as to—
+>
+> - (a) revoke or discharge the requirement concerned, or
+> - (b) substitute for the requirement concerned another requirement that can be so complied with.
+>
+> (4) The court must not make a variation under sub-paragraph (3) unless it is satisfied as mentioned in paragraph 1(2)(b) (reading the reference there to the order as a reference to the order as proposed to be varied).
+>
+> **3.** (1) This paragraph applies where the court is considering—
+>
+> - (a) imposing a community payback order by virtue of paragraph 1, or
+> - (b) varying a community payback order by virtue of paragraph 2.
+>
+> (2) Before imposing or, as the case may be, varying the order, the court must explain to the offender in ordinary language—
+>
+> - (a) the requirements of the legislation relating to the corresponding order,
+> - (b) the powers of the home court under that legislation and this Schedule, and
+> - (c) the court’s powers under this Act.
+>
+> (3) The court must not impose or, as the case may be, vary the order unless the offender has, after the court has explained those matters, confirmed that the offender—
+>
+> - (a) understands those matters, and
+> - (b) is willing to comply with the requirements referred to in sub-paragraph (2)(a).
+>
+> (4) Sub-paragraphs (2) and (3) do not affect sections 227B(8) and (9) and 227ZA(6) and (7) of this Act.
+>
+> (5) Sections 227B(4), 227ZA(2), 227ZG(2) and 227ZH(2) of this Act have effect as if the references in them to a report by an officer of a local authority or a report by the responsible officer included references to a report by an officer of a relevant service.
+>
+> (6) Sections 227R and 227S of this Act have effect as if the references in them to an approved medical practitioner (within the meaning of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00009]) included references to a registered medical practitioner approved for the purposes of section 12 of the Mental Health Act 1983[^f00010].
+>
+> **4.** (1) The court may not, in a community payback order imposed by virtue of paragraph 1, impose a compensation requirement.
+>
+> (2) Where the court would, but for sub-paragraph (1), have imposed a compensation requirement, the court must instead make a compensation order under section 249(1) of this Act.
+>
+> (3) Sub-paragraph (4) applies where—
+>
+> - (a) the court varies a community payback order by virtue of paragraph 2, and
+> - (b) the order imposes a compensation requirement.
+>
+> (4) The court must—
+>
+> - (a) also vary the order so as to revoke the compensation requirement, and
+> - (b) make a compensation order under section 249(1) of this Act in respect of the amount remaining to be paid under the compensation requirement.
+>
+> (5) Sub-paragraphs (2) and (4)(b) are subject to sub-paragraph (8).
+>
+> (6) Paragraph (ab) of section 249(2) of this Act does not apply to the making of a compensation order by virtue of this paragraph.
+>
+> (7) Before making a compensation order by virtue of this paragraph, the court must explain to the offender in ordinary language—
+>
+> - (a) the purpose and effect of the compensation order, and
+> - (b) the consequences which may follow if the offender fails to comply with the order in England and Wales.
+>
+> (8) The court must not make the compensation order unless the offender has, after the court has explained those matters, confirmed that the offender—
+>
+> - (a) understands those matters, and
+> - (b) is willing to comply with the order.
+>
+> **5.** (1) This paragraph applies where the court—
+>
+> - (a) imposes a community payback order by virtue of paragraph 1, or
+> - (b) varies a community payback order by virtue of paragraph 2.
+>
+> (2) The court must, in the order—
+>
+> - (a) specify the relevant area in which the offender resides or will reside,
+> - (b) specify, in relation to each requirement imposed by the order, the requirement of the corresponding order which the court considers to be the same as or broadly similar to those imposed by the community payback order,
+> - (c) where—
+>   - (i) the order imposes a restricted movement requirement, and
+>   - (ii) a corresponding order imposing the same or broadly similar requirement would also impose an electronic monitoring requirement,
+>
+>   specify in accordance with sub-paragraph (3) the person responsible for monitoring compliance with the restricted movement requirement.
+>
+> (3) The person specified under sub-paragraph (2)(c) must be of a description specified in an order made by the Secretary of State by virtue of section 215(3) of the 2003 Act.
+>
+> (4) The clerk of the court must ensure that a copy of the order, and such other documents and information relating to the case as may be useful, are given to—
+>
+> - (a) the clerk of the home court,
+> - (b) the relevant service in the area in which the offender resides or will reside, and
+> - (c) if a person is specified under sub-paragraph (2)(c), that person.
+>
+> (5) Sections 227C and 227D(4)(a)(ii) and (b) of this Act do not apply in relation to a community payback order imposed by virtue of paragraph 1.
+>
+> **6.** (1) This paragraph applies where the court has—
+>
+> - (a) imposed a community payback order by virtue of paragraph 1, or
+> - (b) varied a community payback order by virtue of paragraph 2.
+>
+> (2) The order has effect in England and Wales as if it were a corresponding order made by a court in that jurisdiction.
+>
+> (3) The home court may exercise in relation to the order any power under the legislation relating to the corresponding order that the home court could exercise, other than—
+>
+> - (a) a power to discharge or revoke the order (other than in circumstances where the offender is convicted of a further offence and the court imposes a custodial sentence),
+> - (b) a power to deal with the offender in respect of the offence in relation to which the order was imposed as the offender could have been dealt with had the order not been imposed,
+> - (c) where the order imposes an unpaid work or other activity requirement, a power to vary the order by substituting for the number of hours of work specified in it a greater number than the court which imposed the order could have specified,
+> - (d) where the order imposed a restricted movement requirement, a power to vary the order by substituting for the period specified in it a longer period than the court which imposed it could have specified.
+>
+> (4) Sub-paragraph (5) applies where it appears to the home court—
+>
+> - (a) on information from the responsible officer, that the offender has failed to comply with any of the requirements of the order, or
+> - (b) on the application of the offender or the responsible officer, that it would be in the interests of justice to—
+>   - (i) discharge the order, or
+>   - (ii) revoke the order and deal with the offender as mentioned in sub-paragraph (3)(b).
+>
+> (5) The home court may—
+>
+> - (a) refer the matter to the appropriate Scottish court, and
+> - (b) require the offender to appear before that court.
+>
+> (6) Where the matter is referred under sub-paragraph (5) to the appropriate Scottish court, that court may—
+>
+> - (a) if the offender fails to appear as required under sub-paragraph (5)(b), issue a warrant for the offender’s arrest, and
+> - (b) deal with the matter—
+>   - (i) where it is referred by virtue of sub-paragraph (4)(a), in accordance with section 227ZC of this Act, or
+>   - (ii) where it is referred by virtue of sub-paragraph (4)(b), as if it were an application under section 227Y of this Act to vary, revoke or discharge the order.
+>
+> (7) Where the matter is referred by virtue of sub-paragraph (4)(a), the home court must also send to the appropriate Scottish court—
+>
+> - (a) a certificate signed by the clerk of the home court certifying that the offender has failed to comply with such requirements of the order as are specified in the certificate, and
+> - (b) such other documents and information relating to the case as may be useful.
+>
+> (8) The certificate mentioned in sub-paragraph (7)(a) is, for the purposes of any proceedings before the appropriate Scottish court, sufficient evidence of the failure mentioned in the certificate.
+>
+> (9) Where, in dealing with the matter by virtue of sub-paragraph (6)(b), the appropriate Scottish court is considering varying the order (or has varied the order) the provisions of this Part apply in relation to the proposed variation (or the order as varied) as they apply where the court is considering imposing a community payback order (or has imposed a community payback order) by virtue of paragraph 1.
+>
+> (10) Section 227G(3) of this Act does not apply where the appropriate Scottish court is considering imposing a restricted movement requirement by virtue of sub-paragraph (6)(b)(i).
+>
+> **7.** (1) In this Part—
+>
+> - “the 2003 Act” means the Criminal Justice Act 2003[^f00011];
+> - “the 2008 Act” means the Criminal Justice and Immigration Act 2008[^f00012];
+> - “the appropriate Scottish court” means, in relation to an order to which paragraph 6 applies—
+>   - (a) the court in Scotland which imposed the order by virtue of paragraph 1, or
+>   - (b) where the order has been varied by virtue of paragraph 2 or 6(6)(b), the court in Scotland which made the last such variation;
+> - “corresponding order” means—
+>   - (a) in relation to an offender who is under the age of 18, a youth rehabilitation order within the meaning of Part 1 of the 2008 Act,
+>   - (b) in relation to any other offender, a community order within the meaning of Part 12 of the 2003 Act;
+> - “the home court” means the magistrates’ court acting for the local justice area in which the offender resides or will reside;
+> - “relevant area” means—
+>   - (a) in relation to an offender who is under the age of 18, the area of the local authority (within the meaning given by section 7(1) of the 2008 Act) where the offender resides or will reside,
+>   - (b) in relation to any other offender, the local justice area where the offender resides or will reside;
+> - “relevant service” means—
+>   - (a) in relation to an offender who is under the age of 18, a youth offending team within the meaning given by section 7(1) of the 2008 Act,
+>   - (b) in relation to any other offender, a provider of a probation service within the meaning of Part 1 of the Offender Management Act 2007[^f00013];
+> - “responsible officer”—
+>   - (a) in relation to an offender who is under the age of 18, has the meaning given in section 4 of the 2008 Act,
+>   - (b) in relation to any other offender, has the meaning given in section 197 of the 2003 Act.
+>
+> (2) Subject to sub-paragraph (1), any word or expression used in this Part which is also used in any of sections 227A to 227ZK of this Act has the same meaning as it has for the purposes of those sections.
+>
+> **PART 2 — NORTHERN IRELAND**
+>
+> **8.** (1) This paragraph applies where the court is considering imposing a community payback order under section 227A of this Act on an offender who—
+>
+> - (a) resides in Northern Ireland, or
+> - (b) when the order takes effect, will reside in Northern Ireland.
+>
+> (2) The court must not impose the order unless—
+>
+> - (a) the offender has attained the age of 16 years, and
+> - (b) the court is satisfied that arrangements have been, or can be, made in the relevant area—
+>   - (i) for the offender to comply with the requirements imposed by the order in accordance with arrangements that exist in the relevant area for offenders to comply with the same or broadly similar requirements imposed by the corresponding order, and
+>   - (ii) for the supervision of the offender by the relevant service.
+>
+> **9.** (1) This paragraph applies where—
+>
+> - (a) an offender on whom a community payback order has been imposed under section 227A of this Act proposes to change, or has changed, residence to a locality in Northern Ireland (“the new locality”), and
+> - (b) the court is considering varying the order so as to specify the relevant area in which the offender resides or will reside.
+>
+> (2) The court must not vary the order unless—
+>
+> - (a) the offender has attained the age of 16 years, and
+> - (b) the court is satisfied as mentioned in paragraph 8(2)(b).
+>
+> (3) If the court considers that a requirement (“the requirement concerned”) imposed by the order cannot be complied with if the offender resides in the new locality, the court must not vary the order so as to specify the relevant area unless it also varies the order so as to—
+>
+> - (a) revoke or discharge the requirement concerned, or
+> - (b) substitute for the requirement concerned another requirement that can be so complied with.
+>
+> (4) The court must not make a variation under sub-paragraph (3) unless it is satisfied as mentioned in paragraph 8(2)(b) (reading the reference there to the order as a reference to the order as proposed to be varied).
+>
+> **10.** (1) This paragraph applies where the court is considering—
+>
+> - (a) imposing a community payback order by virtue of paragraph 8, or
+> - (b) varying a community payback order by virtue of paragraph 9.
+>
+> (2) Before imposing or, as the case may be, varying the order, the court must explain to the offender in ordinary language—
+>
+> - (a) the requirements of the legislation relating to the corresponding order,
+> - (b) the powers of the home court under that legislation and this Schedule, and
+> - (c) the court’s powers under this Act.
+>
+> (3) The court must not impose or, as the case may be, vary the order unless the offender has, after the court has explained those matters, confirmed that the offender—
+>
+> - (a) understands those matters, and
+> - (b) is willing to comply with the requirements referred to in sub-paragraph (2)(a).
+>
+> (4) Sub-paragraphs (2) and (3) do not affect sections 227B(8) and (9) and 227ZA(6) and (7) of this Act.
+>
+> (5) Sections 227B(4), 227ZA(2), 227ZG(2) and 227ZH(2) of this Act have effect as if the references in them to a report by an officer of a local authority or a report by the responsible officer included references to a report by a relevant service or an officer of a relevant service.
+>
+> (6) Sections 227R and 227S of this Act have effect as if the references in them to an approved medical practitioner (within the meaning of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00014]) included references to a registered medical practitioner approved by the Health and Social Care Regulation and Quality Improvement Authority for the purposes of Part 2 of the Mental Health (Northern Ireland) Order 1986[^f00015].
+>
+> **11.** (1) The court may not, in a community payback order imposed by virtue of paragraph 8, impose a compensation requirement.
+>
+> (2) Where the court would, but for sub-paragraph (1), have imposed a compensation requirement, the court must instead make a compensation order under section 249(1) of this Act.
+>
+> (3) Sub-paragraph (4) applies where—
+>
+> - (a) the court varies a community payback order by virtue of paragraph 9, and
+> - (b) the order imposes a compensation requirement.
+>
+> (4) The court must—
+>
+> - (a) also vary the order so as to revoke the compensation requirement, and
+> - (b) make a compensation order under section 249(1) of this Act in respect of the amount remaining to be paid under the compensation requirement.
+>
+> (5) Sub-paragraphs (2) and (4)(b) are subject to sub-paragraph (8).
+>
+> (6) Paragraph (ab) of section 249(2) of this Act does not apply to the making of a compensation order by virtue of this paragraph.
+>
+> (7) Before making a compensation order by virtue of this paragraph, the court must explain to the offender in ordinary language—
+>
+> - (a) the purpose and effect of the compensation order, and
+> - (b) the consequences which may follow if the offender fails to comply with the order in Northern Ireland.
+>
+> (8) The court must not make the compensation order unless the offender has, after the court has explained those matters, confirmed that the offender—
+>
+> - (a) understands those matters, and
+> - (b) is willing to comply with the order.
+>
+> **12.** (1) This paragraph applies where the court—
+>
+> - (a) imposes a community payback order by virtue of paragraph 8, or
+> - (b) varies a community payback order by virtue of paragraph 9.
+>
+> (2) The court must, in the order—
+>
+> - (a) specify the relevant area in which the offender resides or will reside,
+> - (b) specify, in relation to each requirement imposed by the order, the requirement of the corresponding order which the court considers to be the same as or broadly similar to those imposed by the community payback order,
+> - (c) where—
+>   - (i) the order imposes a restricted movement requirement, and
+>   - (ii) a corresponding order imposing the same or broadly similar requirement would also impose an electronic monitoring requirement,
+>
+>   specify in accordance with sub-paragraph (3) the person responsible for monitoring compliance with the restricted movement requirement.
+>
+> (3) The person specified under sub-paragraph (2)(c) must be of a description specified in an order made by virtue of article 40(3) of the Criminal Justice (Northern Ireland) Order 2008[^f00016].
+>
+> (4) The clerk of the court must ensure that a copy of the order, and such other documents and information relating to the case as may be useful, are given to—
+>
+> - (a) the clerk of the home court,
+> - (b) the relevant service in the area in which the offender resides or will reside, and
+> - (c) if a person is specified under sub-paragraph (2)(c), that person.
+>
+> (5) Sections 227C and 227D(4)(a)(ii) and (b) of this Act do not apply in relation to a community payback order imposed by virtue of paragraph 8.
+>
+> **13.** (1) This paragraph applies where the court has—
+>
+> - (a) imposed a community payback order by virtue of paragraph 8, or
+> - (b) varied a community payback order by virtue of paragraph 9.
+>
+> (2) The order has effect in Northern Ireland as if it were a corresponding order made by a court in that jurisdiction.
+>
+> (3) The home court may exercise in relation to the order any power under the legislation relating to the corresponding order that the home court could exercise, other than—
+>
+> - (a) a power to discharge or revoke the order (other than in circumstances where the offender is convicted of a further offence and the court imposes a custodial sentence),
+> - (b) a power to deal with the offender in respect of the offence in relation to which the order was imposed as the offender could have been dealt with had the order not been imposed,
+> - (c) where the order imposes an unpaid work or other activity requirement, a power to vary the order by substituting for the number of hours of work specified in it a greater number than the court which imposed the order could have specified,
+> - (d) where the order imposed a restricted movement requirement, a power to vary the order by substituting for the period specified in it a longer period than the court which imposed it could have specified.
+>
+> (4) Sub-paragraph (5) applies where it appears to the home court—
+>
+> - (a) on information from the responsible officer, that the offender has failed to comply with any of the requirements of the order, or
+> - (b) on the application of the offender or the responsible officer, that it would be in the interests of justice to—
+>   - (i) discharge the order, or
+>   - (ii) revoke the order and deal with the offender as mentioned in sub-paragraph (3)(b).
+>
+> (5) The home court may—
+>
+> - (a) refer the matter to the appropriate Scottish court, and
+> - (b) require the offender to appear before that court.
+>
+> (6) Where the matter is referred under sub-paragraph (5) to the appropriate Scottish court, that court may—
+>
+> - (a) if the offender fails to appear as required under sub-paragraph (5)(b), issue a warrant for the offender’s arrest, and
+> - (b) deal with the matter—
+>   - (i) where it is referred by virtue of sub-paragraph (4)(a), in accordance with section 227ZC of this Act, or
+>   - (ii) where it is referred by virtue of sub-paragraph (4)(b), as if it were an application under section 227Y of this Act to vary, revoke or discharge the order.
+>
+> (7) Where the matter is referred by virtue of sub-paragraph (4)(a), the home court must also send to the appropriate Scottish court—
+>
+> - (a) a certificate signed by the clerk of the home court certifying that the offender has failed to comply with such requirements of the order as are specified in the certificate, and
+> - (b) such other documents and information relating to the case as may be useful.
+>
+> (8) The certificate mentioned in sub-paragraph (7)(a) is, for the purposes of any proceedings before the appropriate Scottish court, sufficient evidence of the failure mentioned in the certificate.
+>
+> (9) Where, in dealing with the matter by virtue of sub-paragraph (6)(b), the appropriate Scottish court is considering varying the order (or has varied the order) the provisions of this Part apply in relation to the proposed variation (or the order as varied) as they apply where the court is considering imposing a community payback order (or has imposed a community payback order) by virtue of paragraph 1.
+>
+> (10) Section 227G(3) of this Act does not apply where the appropriate Scottish court is considering imposing a restricted movement requirement by virtue of sub-paragraph (6)(b)(i).
+>
+> **14.** (1) In this Part—
+>
+> - “the 1996 Order” means the Criminal Justice (Northern Ireland) Order 1996[^f00017];
+> - “the appropriate Scottish court” means, in relation to an order to which paragraph 13 applies—
+>   - (a) the court in Scotland which imposed the order by virtue of paragraph 8, or
+>   - (b) where the order has been varied by virtue of paragraph 9 or 13(6)(b), the court in Scotland which made the last such variation;
+> - “corresponding order” means a community order, within the meaning of article 2 of the 1996 Order”;
+> - “the home court” means a court of summary jurisdiction acting for the petty sessions district in which an offender resides or proposes to reside;
+> - “relevant area” means the petty sessions district in Northern Ireland where the offender resides or will reside;
+> - “relevant service” means the Probation Board for Northern Ireland;
+> - “responsible officer” has the meaning given in article 17(3) of the 1996 Order;
+>
+> (2) Subject to sub-paragraph (1), any word or expression used in this Part which is also used in any of sections 227A to 227ZK of this Act has the same meaning as it has for the purposes of those sections.
+
+.
+
+**7.**[^key-9da4da77a5fb55b24ee1660d330f09f5] The following provisions are repealed:—
+
+*Extent: E+W*
+
+- (a) Section 234(4) to (11)[^f00018];
+
+*Extent: E+W+N.I.*
+
+- (b) Section 244[^f00019].
+
+**8.**[^key-cfb73da1398f961fdd294701a815f630] In section 309(4), insert at the relevant place “Part 1 of Schedule 13 (and section 227ZO)”.
+
+**9.**[^key-0513a7de5c5d7f6d8250451052805930] In section 309(5), insert at the relevant place “Part 2 of Schedule 13 (and section 227ZO)”.
+
+### PART 4 — COMMUNITY PAYBACK ORDER CONSEQUENTIAL MODIFICATIONS
+
+#### PUBLIC GENERAL ACTS
+
+##### 10. Public Passenger Vehicles Act 1981[^key-8cb274e3166f6ac11cc8c85b841b220f]
+
+*Extent: E+W+S*
+
+(1) In Schedule 3 (supplementary provision as to qualifications for PSV operator’s licence) to the Public Passenger Vehicles Act 1981[^f00020], paragraph 1 is amended as follows.
+
+(2) In sub-paragraph (4)(a)—
+
+- (a) for “scale or a” substitute “scale, a”; and
+- (b) after “hours” insert “or a community payback order requiring the offender to undertake unpaid work, or unpaid work and other activity, for more than sixty hours”.
+
+(3) In sub-paragraph (6)—
+
+- (a) for “health and “a community order”” substitute “health, “a community order””; and
+- (b) after “2006” insert “ and “a community payback order” means a community payback order under section 227A or 227M of the Criminal Procedure (Scotland) Act 1995 imposing an unpaid work or other activity requirement”.
+
+##### 11. Criminal Justice Act 1982[^key-4550fd8d874abdf9d101d89d08348cbe]
+
+(1) Part 3 of Schedule 13 (reciprocal arrangements (Northern Ireland) – persons residing in England and Wales or Scotland) to the Criminal Justice Act 1982[^f00021] is amended as follows.
+
+(2) In paragraph 8—
+
+- (a) in sub-paragraph (1), for paragraph (b) and (c) of the Article 13(4) that is to be treated as substituted by that provision, substitute—
+
+  > - (b) it appears to the court that provision can be made for the offender to perform work in the locality in Scotland where the offender resides, or will reside, under arrangements for persons to comply with a community payback order in the locality.
+
+  ;
+- (b) in sub-paragraph (2), for paragraphs (b) and (c) substitute—
+
+  > - (b) it appears to the court that provision can be made for the offender to perform work in the locality in Scotland where the offender resides, or will reside, under arrangements for persons to comply with a community payback order in the locality,
+
+  ;
+- (c) in sub-paragraph (3)(b)—
+  - (i) for “regional or islands council” substitute “local authority (meaning a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994)”; and
+  - (ii) for “community service orders conferred on the local authority officer by the Community Service by Offenders (Scotland) Act 1978” substitute “community payback orders conferred on the responsible officer by the Criminal Procedure (Scotland) Act 1995”;
+- (d) after sub-paragraph (3) insert—
+
+  > (4) In this paragraph “community payback order” means a community payback order imposed under section 227A of the Criminal Procedure (Scotland) Act 1995.
+
+  .
+
+(3) In paragraph 9—
+
+- (a) in sub-paragraph (3)(b)—
+  - (i) for “community service order” in the second place the expression appears substitute “community payback order”; and
+  - (ii) for “community service orders” substitute “community payback orders”;
+- (b) in sub-paragraph (4)(a), for “community service orders or, as the case may be, community orders or youth rehabilitation orders” substitute “community orders or youth rehabilitation orders (in England and Wales) or community payback orders (in Scotland)”;
+- (c) in sub-paragraph (5), for “community service order or, as the case may be, a community order or youth rehabilitation order” substitute “community order or youth rehabilitation order (in England and Wales) or a community payback order (in Scotland)”;
+- (d) in sub-paragraph (6)—
+  - (i) for “community service orders or, as the case may be, community orders or youth rehabilitation orders” substitute “community orders or youth rehabilitation orders (in England and Wales) or community payback orders (in Scotland)”,
+  - (ii) in paragraph (a)(ii), for the words from “on oath” to the end substitute “from an officer appointed or assigned under paragraph 8(3)(b)”,
+  - (iii) in paragraph (b)(ii), for the words “the local authority officer” substitute “an officer appointed or assigned under paragraph 8(3)(b)”;
+- (e) after paragraph (7) insert—
+
+  > (8) In this paragraph “community payback order” means a community payback order imposed under section 227A of the Criminal Procedure (Scotland) Act 1995.
+
+  .
+
+##### 12. Goods Vehicles (Licensing of Operators) Act 1995[^key-6670c93a46bbead28aed32c1b3e42262]
+
+*Extent: E+W+S*
+
+(1) In Schedule 3 (qualifications for standard licence) to the Goods Vehicles (Licensing of Operators) Act 1995[^f00022], paragraph 3 is amended as follows.
+
+(2) In sub-paragraph (2)(c), after “hours” insert “or a community payback order requiring him to undertake unpaid work, or unpaid work and other activity, for more than 60 hours”.
+
+(3) In sub-paragraph (3)—
+
+- (a) the word “and” immediately following paragraph (a) is repealed; and
+- (b) after paragraph (b) insert—
+
+  > ; and
+  >
+  > - (c) “community payback order” means a community payback order under section 227A or 227M of the Criminal Procedure (Scotland) Act 1995 imposing an unpaid work or other activity requirement.
+
+  .
+
+##### 13. Social Security Fraud Act 2001[^key-67050ed552c9d33ab494ca502f5b50cf]
+
+*Extent: E+W+N.I.*
+
+(1) The Social Security Fraud Act 2001[^f00023] is amended as follows.
+
+(2) In section 6C(5)(b)(i)[^f00024] (section 6B: supplementary provisions), the words “or a court in Scotland makes a probation order” are repealed.
+
+(3) In section 7(9)(b)(i)[^f00025] (loss of benefit for second or subsequent benefit offence), the words “or a court in Scotland makes a probation order” are repealed.
+
+##### 14. Criminal Justice Act 2003[^key-3d00a7866d74c73c58e4d701fd8b05dc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 5 — COMMUNITY PAYBACK ORDER CONSEQUENTIAL MODIFICATIONS
+
+#### SECONDARY LEGISLATION
+
+##### 15. Juries (Northern Ireland) Order 1996[^key-21195575899ce600eaeae0dc4e3ae33b]
+
+*Extent: N.I.*
+
+(1) Schedule 1 to the Juries (Northern Ireland) Order 1996[^f00027] (persons disqualified for jury service) is amended as follows.
+
+(2) In paragraph 2, in sub-paragraph (d), after “community service order”, insert “or a community payback order with an unpaid work or other activity requirement imposed under section 227A or 227M of the Criminal Procedure (Scotland) Act 1995[^f00028]”.
+
+(3) In paragraph 3, after “probation”, insert “or had made in respect of him a community payback order under section 227A of the Criminal Procedure (Scotland) Act 1995 which did not include an unpaid work or other activity requirement under section 227A(2)(c)”.
+
+##### 16. Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2009[^key-becc43a2be86c99165936e49ebf299fb]
+
+*Extent: E+W*
+
+In the Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2009[^f00029], in Schedule 1 (persons excluded from direct payments) for paragraph (f) substitute—
+
+> - (f) either—
+>   - (i) required to submit to treatment for their drug or alcohol dependency by virtue of a requirement of a probation order within the meaning of sections 228 to 230 of the Criminal Procedure (Scotland) Act 1995;
+>   - (ii) subject to a drug treatment and testing order within the meaning of section 234B of that Act; or
+>   - (iii) subject to a community payback order under section 227A of that Act imposing requirements relating to drug or alcohol treatment[^f00030]; or
+
+.
+
+##### 17. National Health Service (Direct Payments) Regulations 2010[^key-59a031707dbd8b3877f145f0dd154dd2]
+
+*Extent: E+W*
+
+In the National Health Service (Direct Payments) Regulations 2010[^f00031], in the Schedule (persons excluded from direct payments), for paragraph (i), substitute—
+
+> - (i) either—
+>   - (i) required to submit to treatment for their drug or alcohol dependency by virtue of a requirement of a probation order within the meaning of sections 228 to 230 of the Criminal Procedure (Scotland) Act 1995 (probation orders); or
+>   - (ii) subject to a drug treatment and testing order within the meaning of section 234B of that Act (drug treatment and testing order); or
+>   - (iii) subject to a community payback order under section 227A of that Act imposing requirements relating to drug or alcohol treatment[^f00032]; or
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made in consequence of the Criminal Justice and Licensing (Scotland) Act 2010 (“the 2010 Act”). The Order has UK wide extent, except as provided for in paragraphs (2) to (6) of article 2.
+
+Article 4 contains savings and transitional provisions.
+
+The Schedule contains modifications of primary and secondary legislation. Part 1 of the Schedule amends the Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”) and the Criminal Justice (Scotland) Act 2003 (“the 2003 Act”) in consequence of section 82 of the 2010 Act.
+
+Section 82(1) of the 2010 Act inserts new section 19C into the 1995 Act, which sets out the general purposes for which relevant physical data, samples and information derived from samples which fall within the scope of new section 19C(1) can be used. Paragraph 1(a) of the Schedule amends new section 19C(1)(a) and (b) to clarify that the references to any relevant physical data, sample or any information derived from a sample which is taken or provided under section 18 of the 1995 Act includes any relevant physical data, sample or information derived from a sample which is taken or provided by virtue of paragraph 20 of Schedule 8 to the Terrorism Act 2000. Paragraph 20 of Schedule 8 to the Terrorism Act 2000 applies section 18 of the 1995 Act as modified to persons who are detained under Schedule 7 to or section 41 of the Terrorism Act 2000 at a police station in Scotland as it applies to a person arrested or a person detained under section 14 of the 1995 Act. Paragraph 1(b) of the Schedule extends new section 19C(2) to allow relevant physical data, samples and information derived from a sample to be used in the interests of national security and for the purposes of a terrorist investigation.
+
+Section 82(2) of the 2010 Act amends section 56 of the 2003 Act, which makes provision in respect of the retention and use of relevant physical data, samples and information derived from samples which are given voluntarily. Paragraph 2 of the Schedule amends section 56 of the 2003 Act to allow such data, samples and information to be used in the interests of national security and for the purposes of a terrorist investigation.
+
+Part 2 of the Schedule amends the Sexual Offences Act 2003. Section 101(6) of the 2010 Act inserted section 122(1B) into the Sexual Offences Act 2003 to make it an offence to breach a foreign travel order. Paragraph 3(1) of the Schedule extends section 122(1B) of the Sexual Offences Act 2003 to England and Wales and Northern Ireland.
+
+Section 42(3) of the 2010 Act inserted paragraph 44A into Schedule 3 to the Sexual Offences Act 2003 so that a person convicted of the offence of possession of extreme pornography may be made subject to sex offender notification requirements. Paragraph 3(2) extends paragraph 44A of Schedule 3 to the Sexual Offences Act 2003 to England and Wales and Northern Ireland.
+
+Part 3 of the Schedule amends the 1995 Act in consequence of section 14 of the 2010 Act. Section 14 of the 2010 Act amended the 1995 Act by inserting new sections 227A to 227ZN, which set out the framework for a new type of community disposal called a community payback order (“CPO”). CPOs replace probation orders and community service orders.
+
+Paragraph 5 of the Schedule inserts new section 227ZO and Schedule 13 into the 1995 Act. Section 227ZO introduces Schedule 13. Part 1 of inserted Schedule 13 makes provision to allow for the transfer of a CPO to England and Wales. Paragraph 1 applies where the court is considering imposing a CPO under section 227A of the 1995 Act on an offender who resides, or will reside in England and Wales. The court may not impose the order unless: the offender is aged 16 or older; the court is satisfied that arrangements have been or can be made for the offender to comply with the requirements imposed by the CPO in the area in England and Wales where the offender will reside; and that a responsible officer has been or can be appointed.
+
+Paragraph 2 applies where a CPO has been imposed under section 227A of the 1995 Act and the offender proposes to move or has moved to England and Wales. The court must not vary the order to specify the new locality in England and Wales unless: the offender is aged 16 or older; and the court is satisfied as set out in paragraph 1(2)(b). If the court considers that a requirement cannot be complied with it must not vary the order to specify the new locality unless it revokes or discharges that requirement or substitutes another requirement. The court must be satisfied as set out in paragraph 1(2)(b) if it is to make such a variation.
+
+Paragraph 3 applies where the court is considering imposing a CPO by virtue of paragraph 1 or varying a CPO by virtue of paragraph 2. Before imposing or varying the order the court must explain to the offender in ordinary language the requirements of the legislation relating to the corresponding order in England and Wales; the powers of the court in England and Wales under that legislation and Schedule 13 to the 1995 Act; and the Scottish court’s powers under the 1995 Act. The court may not impose or vary the order unless the offender has confirmed that the offender understands those matters and is willing to comply.
+
+Paragraph 4 provides that the court may not impose a compensation requirement in a CPO imposed by virtue of paragraph 1, instead the court must impose a compensation order under section 249(1) of the 1995 Act. Where the court varies a CPO by virtue of paragraph 2 and that order imposes a compensation requirement, the court must revoke the compensation requirement and impose a compensation order for the outstanding amount. Before making a compensation order the court must explain to the offender in ordinary language the purpose and effect of the compensation order and the consequences which may follow if the offender fails to comply with it in England and Wales. The court may not make the compensation order unless the offender has confirmed the offender understands those matters and is willing to comply.
+
+Paragraph 5 applies where the court imposes a CPO by virtue of paragraph 1 or varies a CPO by virtue of paragraph 2. In the order the court must: specify the area where the offender resides or will reside; specify for each requirement what the court considers is an equivalent requirement of a corresponding order in England and Wales; and where the order imposes a restricted movement requirement and the equivalent requirement would impose electronic monitoring, specify the person responsible for monitoring compliance with that requirement.
+
+Paragraph 6 applies where the court imposes a CPO by virtue of paragraph 1 or varies a CPO by virtue of paragraph 2. The order has effect in England and Wales as if it were a corresponding order made by a court there.
+
+Paragraph 6(3) provides that the court in England and Wales may exercise any power in relation to the order which it could exercise in relation to a corresponding order, apart from: a power to discharge or revoke the order (unless the offender is convicted of a further offence and a custodial sentence imposed); a power to deal with the offender for the original offence as if the order had not been imposed; substitute a greater number of hours of unpaid work than the court which imposed the order could have specified; and substitute a longer period in a restricted movement requirement than the court which imposed the order could have specified.
+
+Paragraph 6(4) to (11) makes provision for the home court to refer a breach of the order to the appropriate Scottish court; and to refer the order to the appropriate Scottish court where it would be in the interests of justice to discharge the order or revoke the order and deal with the offender as mentioned in sub-paragraph (3)(b).
+
+Part 2 of inserted Schedule 13 makes almost identical provision in relation to offenders who reside or will reside in Northern Ireland, with a number of necessary modifications.
+
+Parts 4 and 5 of the Schedule make a number of consequential amendments to update references in both primary and secondary legislation to reflect the introduction of the new community payback order.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-b49e2419bdac59e05befe081a43b7d50]: Commencement: Art. 1 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^key-7b09e104649e7c1442390e7741835549]: Commencement: Art. 2 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^key-b66496081fc10fee5b6cc9f1c3cd52b7]: Commencement: Art. 3 in force at 16.9.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/3)
+
+[^key-32109eed7a4a01a59138af2bc4bf96d2]: Commencement: Art. 4 in force at 16.9.2011, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00002]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46) (“the 1995 Act”).
+
+[^f00003]: Footnote: [S.I. 1996/1141 (N.I. 6)](https://www.legislation.gov.uk/nisi/1996/1141).
+
+[^key-a8801508c7b679603b34cb714052a8f0]: Commencement: Sch. para. 1 in force at 16.9.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/3)
+
+[^f00004]: Footnote: Section 19C was inserted by section 82(1) of the Criminal Justice and Licensing (Scotland) Act 2010 (“the 2010 Act”).
+
+[^f00005]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
+
+[^key-ea83944671fd7a7a3c80096eabb72e66]: Commencement: Sch. para. 2 in force at 16.9.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/3)
+
+[^f00006]: Footnote: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7), section 56 was amended by section 82(2) of the 2010 Act.
+
+[^key-e85dd560618a76efe4fdedac0715ad02]: Commencement: Sch. para. 3 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00007]: Footnote: [2003 c.42](https://www.legislation.gov.uk/ukpga/2003/42). Section 122(1B) was inserted by section 101(6) of the 2010 Act, but only so far as it extends to Scotland.
+
+[^f00008]: Footnote: Paragraph 44A was inserted by section 42(3) of the 2010 Act, but only so far as it extends to Scotland.
+
+[^key-dd705bfbc4b839782e3af236d4b4e1b3]: Commencement: Sch. para. 4 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^key-f5349b7c58fcd9fbea2fcd8cc74faacf]: Commencement: Sch. para. 5 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^key-91c8cd72455ef498cfc148de34795136]: Commencement: Sch. para. 6 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00009]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
+
+[^f00010]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^f00011]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^f00012]: Footnote: [2008 c.4](https://www.legislation.gov.uk/ukpga/2008/4).
+
+[^f00013]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
+
+[^f00014]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
+
+[^f00015]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595).
+
+[^f00016]: Footnote: [S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216).
+
+[^f00017]: Footnote: [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160).
+
+[^key-9da4da77a5fb55b24ee1660d330f09f5]: Commencement: Sch. para. 7 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00018]: Footnote: Section 234 of the 1995 Act was repealed by paragraph 17 of schedule 2 to the 2010 Act, but only so far as it extends to Scotland.
+
+[^f00019]: Footnote: Section 244 of the 1995 Act was repealed by paragraph 20 of schedule 2 to the 2010 Act, but only so far as it extends to Scotland.
+
+[^key-cfb73da1398f961fdd294701a815f630]: Commencement: Sch. para. 8 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^key-0513a7de5c5d7f6d8250451052805930]: Commencement: Sch. para. 9 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^key-8cb274e3166f6ac11cc8c85b841b220f]: Commencement: Sch. para. 10 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00020]: Footnote: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^key-4550fd8d874abdf9d101d89d08348cbe]: Commencement: Sch. para. 11 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00021]: Footnote: [1982 c.48](https://www.legislation.gov.uk/ukpga/1982/48), relevant amendments were made by [S.I. 1996/3160 (N.I.24)](https://www.legislation.gov.uk/nisi/1996/3160) Schedule 5 paragraph 12(b).
+
+[^key-6670c93a46bbead28aed32c1b3e42262]: Commencement: Sch. para. 12 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00022]: Footnote: [1995 c.23](https://www.legislation.gov.uk/ukpga/1995/23).
+
+[^key-67050ed552c9d33ab494ca502f5b50cf]: Commencement: Sch. para. 13 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00023]: Footnote: [2001. c.11](https://www.legislation.gov.uk/ukpga/2001/11).
+
+[^f00024]: Footnote: Section 6C, along with sections 6A and 6B, was inserted by section 24(1) of the Welfare Reform Act [2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24). Section 6C(5)(b)(i) of the Social Security Fraud Act 2001 was repealed in so far as it extends to Scotland by paragraph 45 (1) and (2) of schedule 2 to the 2010 Act.
+
+[^f00025]: Footnote: Section 7(9)(b) was substituted by paragraph 2(3)(b) of Schedule 4 to, the Welfare Reform Act 2009. Section 7(9)(b)(i) of the Social Security Fraud Act 2001 was repealed in so far as it extends to Scotland by paragraph 45(1) and (3) of schedule 2 to the 2010 Act.
+
+[^key-3d00a7866d74c73c58e4d701fd8b05dc]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/14) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-21195575899ce600eaeae0dc4e3ae33b]: Commencement: Sch. para. 15 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00027]: Footnote: [S.I. 1996/1141 (N.I. 6)](https://www.legislation.gov.uk/nisi/1996/1141).
+
+[^f00028]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-becc43a2be86c99165936e49ebf299fb]: Commencement: Sch. para. 16 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00029]: Footnote: [S.I. 2009/1887](https://www.legislation.gov.uk/uksi/2009/1887).
+
+[^f00030]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 228 was amended by paragraph 21 of Schedule 1 to the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48), by paragraph 1 of Schedule 6 to the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), by paragraph 122 of Schedule 7 to the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), by sections 42(11) and 89 of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) and by [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [2001/919](https://www.legislation.gov.uk/uksi/2001/919), [2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [2003/288](https://www.legislation.gov.uk/uksi/2003/288) and [2008/912](https://www.legislation.gov.uk/uksi/2008/912). Section 229 was amended by section 49(4) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6). Section 229A was inserted by sections 12(2) and 24 of the Management of Offenders etc (Scotland) Act [2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14) and amended by [S.S.I. 2006/48](https://www.legislation.gov.uk/ssi/2006/48). Section 230 was amended by Schedule 6 to the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), by sections 135, 331 and 333 and paragraph 8 of Schedule 4 and Part 1 of Schedule 5 to the Mental Health (Care and Treatment) Scotland Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13) and by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161) and [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182). Section 234B was inserted by section 89 of the Crime and Disorder Act 1998 and amended by [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327). Section 227A was inserted into the Criminal Procedure (Scotland) Act 1995 by section 14 of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13). Section 227A(2)(g) and (h) provide for the imposition of requirements relating to drug and alcohol treatment respectively.
+
+[^key-59a031707dbd8b3877f145f0dd154dd2]: Commencement: Sch. para. 17 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+
+[^f00031]: Footnote: [S. I. 2010/1000](https://www.legislation.gov.uk/uksi/2010/1000).
+
+[^f00032]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 228 was amended by paragraph 21 of Schedule 1 to the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48), by paragraph 1 of Schedule 6 to the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), by paragraph 122 of Schedule 7 to the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), by sections 42(11) and 89 of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) and by [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [2001/919](https://www.legislation.gov.uk/uksi/2001/919), [2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [2003/288](https://www.legislation.gov.uk/uksi/2003/288) and [2008/912](https://www.legislation.gov.uk/uksi/2008/912). Section 229 was amended by section 49(4) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6). Section 229A was inserted by sections 12(2) and 24 of the Management of Offenders etc (Scotland) Act [2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14) and amended by [S.S.I. 2006/48](https://www.legislation.gov.uk/ssi/2006/48). Section 230 was amended by Schedule 6 to the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), by sections 135, 331 and 333 and paragraph 8 of Schedule 4 and Part 1 of Schedule 5 to the Mental Health (Care and Treatment) Scotland Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13) and by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161) and [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182). Section 234B was inserted by section 89 of the Crime and Disorder Act 1998 and amended by [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327). Section 227A was inserted into the Criminal Procedure (Scotland) Act 1995 by section 14 of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13). Section 227A(2)(g) and (h) provide for the imposition of requirements relating to drug and alcohol treatment respectively.

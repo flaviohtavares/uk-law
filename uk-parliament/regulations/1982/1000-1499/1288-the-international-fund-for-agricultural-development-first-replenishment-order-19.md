@@ -1,0 +1,82 @@
+---
+title: The International Fund for Agricultural Development (First Replenishment) Order 1982
+id: uksi/1982/1288
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1982-08-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1982/1288
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1982/1288/pdfs/uksi_19821288_en.pdf
+- http://www.legislation.gov.uk/uksi/1982/1288/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The International Fund for Agricultural Development (First Replenishment) Order 1982
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1982 No. 1288
+
+OVERSEAS DEVELOPMENT AND CO-OPERATION
+
+The International Fund for Agricultural Development (First Replenishment) Order 1982
+
+Laid before the House of Commons in draft
+
+Made
+
+20th August 1982
+
+Coming into Operation
+
+20th August 1982
+
+Whereas it is provided in section 4(1) of the Overseas Development and Co-operation Act 1980 (“the Act”) that if the Government of the United Kingdom becomes bound by any arrangements for the making of any further payment to an international development bank beyond the initial subscription or other initial contribution to its capital stock, the Secretary of State may with the approval of the Treasury by order made by statutory instrument make provision for any of the purposes specified in that subsection;
+
+And whereas a draft of this Order has been laid before the House of Commons in accordance with section 4(3) of the Act and has been approved by a resolution of that House;
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred upon him by section 4 of the Act and with the approval of the Treasury, hereby makes the following Order:—
+
+**1.** (1) This Order may be cited as the International Fund for Agricultural Development (First Replenishment) Order 1982 and shall come into operation forthwith.
+
+(2) In this Order—
+
+- “**the Agreement**” means the Agreement establishing the International Fund for Agricultural Development dated 13th June 1976 and ratified by the Government of the United Kingdom on 9th September 1977[^f00001];
+- “**the Fund**” means the International Fund for Agricultural Development established by the Agreement;
+- “**the Resolution**” means Resolution No 22/V of the Governing Council of the Fund entitled Replenishment of the Resources of IFAD adopted on 19th January 1982.
+
+**2.** The Secretary of State may make payment on behalf of the Government of the United Kingdom out of money provided by Parliament of an additional contribution to the Fund of a sum not exceeding £12,901,127 in accordance with arrangements made between the Government and the Fund in accordance with the terms of the Resolution.
+
+**3.** The Secretary of State may out of money provided by Parliament make payment of sums required to redeem any non-interest-bearing and non-negotiable notes or other obligations which may be issued or created by him and accepted by the Fund in accordance with the Agreement or the said arrangements.
+
+**4.** Any sums received by the Government of the United Kingdom from the Fund in pursuance of the Agreement or the said arrangements shall be paid into the Consolidated Fund.
+
+Francis Pym
+
+One of Her Majesty's Principal Secretaries of State
+
+17th August 1982
+
+We approve,
+
+Alastair Goodlad
+
+John Selwyn Gummer
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+20th August 1982
+
+EXPLANATORY NOTE
+
+This Order provides for the payment to the International Fund for Agricultural Development of additional sums not exceeding £12,901,127 as representing the contribution of the Government of the United Kingdom to the First Replenishment of the resources of the Fund, and for the redemption of non-interest-bearing and non-negotiable notes issued by the Secretary of State in payment of the contribution. The Order further provides that certain sums which may be received by the Government of the United Kingdom from the Fund shall be paid into the Consolidated Fund.
+
+## Annotations
+
+[^f00001]: Footnote: Cmnd. 7195.

@@ -1,0 +1,149 @@
+---
+title: The National Health Service Pension Scheme (Amendment) Regulations 1997
+id: uksi/1997/1888
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-07-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/1888
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/1888/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service Pension Scheme (Amendment) Regulations 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 1888
+
+NATIONAL HEALTH SERVICE, ENGLAND AND WALES
+
+The National Health Service Pension Scheme (Amendment) Regulations 1997
+
+Made
+
+30th July 1997
+
+Laid before Parliament
+
+11th August 1997
+
+Coming into force
+
+1st September 1997
+
+The Secretary of State for Health, in exercise of his powers under sections 10(1) and (2) of, and Schedule 3 to, the Superannuation Act 1972[^f00001] and of all other powers enabling him in that behalf, after consulting such representatives of persons likely to be affected by these Regulations as appear to him to be appropriate[^f00002], and with the consent of the Treasury[^f00003], hereby makes the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the National Health Service Pension Scheme (Amendment) Regulations 1997 and shall come into force on 1st September 1997.
+
+## 2. Amendment of the National Health Service Pension Scheme Regulations 1995
+
+The National Health Service Pension Scheme Regulations 1995[^f00004] shall be amended in accordance with regulations 3 to 7 below.
+
+## 3. Amendment to regulation A2—interpretation
+
+(1) After the definition of “the previous regulations” in regulation A2 insert the following definition—
+
+> - “the 1977 Act” means the National Health Service Act 1977;
+
+.
+
+(2) In the definition of “employing authority”—
+
+- (a) in sub-paragraph (c) delete “and” where it last appears;
+- (b) in sub-paragraph (d) after “scheme” delete “;” and insert “, and”;
+- (c) after sub-paragraph (d) insert the following sub-paragraph—
+
+  > - (e) a registered medical practitioner whose name is included in a list kept pursuant to regulations made under section 29 of the 1977 Act, working either as a sole practitioner, or a group of such practitioners acting jointly, whether or not practising in a partnership, in respect of the employment of practice staff;
+
+  .
+
+(3) After the definition of “personal pension scheme” insert the following definition—
+
+> - “practice staff” means persons (other than assistants, associates or trainee practitioners) employed by a registered medical practitioner whose name is included in a list kept pursuant to regulations made under section 29 of the 1977 Act, working as a sole practitioner, or by a group of such practitioners acting jointly, whether or not practising in a partnership, to assist with the provision of general medical services in accordance with arrangements made under section 29 of the 1977 Act;
+
+.
+
+## 4. Amendment to regulation E3—early retirement pension (redundancy etc)
+
+After regulation E3(2) insert the following paragraph—
+
+> (3) This regulation shall not apply to practice staff.
+
+.
+
+## 5. Amendment to regulation E4—early retirement pension (employer’s consent)
+
+After regulation E4(2) insert the following paragraph—
+
+> (3) This regulation shall not apply to practice staff.
+
+.
+
+## 6. Amendment to regulation R5—part-time employment
+
+After regulation R5(4) insert the following paragraph—
+
+> (4A) “A single comparable whole-time employment” in paragraph 4 means the number of hours, half-days or sessions which the Secretary of State determines would constitute a single comparable whole-time pensionable employment.
+
+.
+
+## 7. Amendment of Schedule 2
+
+(1) In the definition of “assistant practitioner” in paragraph 1 of Schedule 2, delete the words from “and” to “required” inclusive, and insert “or who is participating in the Doctors' Retainer Scheme”.
+
+(2) After the definition of “Dental Practice Board” in paragraph 1 of Schedule 2, insert the following definition—
+
+> - “Doctors' Retainer Scheme” has the same meaning as given at paragraph 39 of the Statement published in accordance with regulation 34 of the National Health Service (General Medical Services) Regulations 1992;
+
+.
+
+Signed by authority of the Secretary of State for Health.
+
+Alan Milburn
+
+Minister of State,
+
+Department of Health
+
+28th July 1997
+
+We consent to the making of these Regulations
+
+Jim Dowd
+
+Bob Ainsworth
+
+Lords Commissioners of Her Majesty’s Treasury
+
+30th July 1997
+
+(This note is not part of the Regulations)
+
+These regulations amend the National Health Service Pension Scheme Regulations 1995 (the Regulations) by bringing NHS general practitioners within the definition of an “employing authority” and thereby enabling persons employed by them to join the NHS Pension Scheme for England and Wales (though periods of non-NHS work will not count as pensionable service).
+
+Regulation E3 (entitlement to early retirement pension in situations such as redundancy), and regulation E4 (entitlement to early retirement pension with the employer’s consent after a member has reached age 50) of the Regulations are disapplied to persons employed by NHS general practitioners.
+
+Paragraph 1 of Schedule 2 to the Regulations is amended to provide scheme membership for unapproved assistant practitioners and assistant practitioners who are participating in the Doctors' Retainer Scheme.
+
+In addition regulation R5(4) is amended to provide that the Secretary of State shall determine what constitutes single comparable whole-time employment.
+
+These regulations do not impose any costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11). Section 10(1)(a) was amended by Schedule 5 to the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32).
+
+[^f00002]: Footnote: *See* section 10(4) of the Superannuation Act 1972.
+
+[^f00003]: Footnote: *See* section 10(1) of the Superannuation Act 1972, and article 2 of the Transfer of Functions (Minister for Civil Service and Treasury) Order 1981 (S.I. [1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)).
+
+[^f00004]: Footnote: S.I. [1995/300](https://www.legislation.gov.uk/uksi/1995/300), to which there are amendments not relevant to these Regulations.

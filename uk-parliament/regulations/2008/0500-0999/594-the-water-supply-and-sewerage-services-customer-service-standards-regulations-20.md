@@ -1,0 +1,1541 @@
+---
+title: The Water Supply and Sewerage Services (Customer Service Standards) Regulations 2008
+id: uksi/2008/594
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-03-04'
+text_date: '2025-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2008/594
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/594/pdfs/uksiem_20080594_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/594/pdfs/uksi_20080594_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/594/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Supply and Sewerage Services (Customer Service Standards) Regulations 2008
+
+> Text as at 2025-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 594
+
+Water Industry, England And Wales
+
+The Water Supply and Sewerage Services (Customer Service Standards) Regulations 2008
+
+Made
+
+4th March 2008
+
+Laid before Parliament
+
+10th March 2008
+
+Laid before the National Assembly for Wales
+
+10th March 2008
+
+Coming into force
+
+1st April 2008
+
+The Secretary of State, in relation to water undertakers and sewerage undertakers whose areas are not wholly or mainly in Wales, and the Welsh Ministers, in relation to water undertakers and sewerage undertakers whose areas are wholly or mainly in Wales[^f00001], make these Regulations in exercise of the powers conferred by sections 38(2) to (4), 95(2) to (4) and paragraphs (2)(d) and (e), (2A)(a), (b) and (c), and (2B) of section 213, of the Water Industry Act 1991[^f00002] (“the WIA”).
+
+The Water Services Regulation Authority (“the Authority”), acting pursuant to sections 39(1A) and 96(1A) of the WIA, has arranged for such research as it considers appropriate with a view to discovering the views of a representative sample of persons likely to be affected by these Regulations, and has considered the results.
+
+The Authority has made written applications complying with sections 39(2) and 96(2) of the WIA to the Secretary of State and the Welsh Ministers.
+
+The Secretary of State and the Welsh Ministers are satisfied that the Authority has served copies of the applications on every water undertaker and sewerage undertaker specified in the applications and on persons or bodies appearing to them to be representative of persons likely to be affected by these Regulations.
+
+The Secretary of State and the Welsh Ministers have allowed such period as they consider appropriate for any affected water or sewerage undertaker or person or body on whom a copy of an application has been served to make representations or objections with respect to the Authority’s proposals.
+
+The Secretary of State and the Welsh Ministers have considered a written summary of the results of the research carried out, the Authority’s reasons for its proposals and every representation or objection duly made with respect to those proposals and not withdrawn.
+
+The only provisions of these Regulations (other than provisions representing the consolidation of the Water Supply and Sewerage Services (Customer Service Standards) Regulations 1989[^f00003]) are the provisions proposed by the Authority in its applications.
+
+## PART 1 — Introduction[^key-9414c60e325e79218a624ea36ecb2ee7]
+
+### 1. Citation
+
+These Regulations may be cited as the Water Supply and Sewerage Services (Customer Service Standards) Regulations 2008.
+
+### 2. Commencement
+
+These Regulations come into force on 1st April 2008.
+
+### 3. Extent
+
+These Regulations extend to England and Wales only.
+
+### 4. Interpretation
+
+(1) In these Regulations—
+
+- [^key-2615661514000bd94abd0a71b8591b1d]...
+- “**domestic premises**” means premises used wholly or partly as a dwelling or intended for that use;
+- “**outbuilding**” means a shed, garage or similar building that is not attached to any other building other than another outbuilding;
+- “**the WIA**” means the Water Industry Act 1991[^f00004]; and
+- “**working day**” means any day that is not a Saturday, a Sunday, Christmas Day, Good Friday nor a bank holiday under the Banking and Financial Dealings Act 1971[^f00005].
+
+(2)[^key-18dcda519f5a8855c9873f5dfd897a34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Customer service standards for Welsh undertakers[^key-ba2f9b9464775330565d0d3d7392da6b]
+
+### 4A. Interpretation of Part 2
+
+(1) In this Part—
+
+- “customer” includes—
+  - (a) a potential customer; and
+  - (b) an occupier of premises whose supply of water or sewerage services is the subject of a separate charge for which a person other than the occupier is liable;
+
+  but does not include a customer of a water supply licensee;
+- “Welsh undertaker” means a water or sewerage undertaker whose area is wholly or mainly in Wales and a “Welsh water undertaker” and “Welsh sewerage undertaker” is to be construed accordingly.
+
+(2) For the purposes of this Part, a water supply licensee is not a customer of a water undertaker that supplies water to it.
+
+### 5. Exclusions
+
+(1) Nothing in this Part[^key-529334619cbff7be0c15614e8fc81dc3] requires a relevant Welsh undertaker[^key-ddc51ade794c984d2e9fc9badec24a4c]—
+
+- (a) to give notice to more than one person in respect of the same premises; or
+- (b) to make a payment to more than one person in respect of any one claim.
+
+(2) Nothing in this Part, and nothing done by a relevant Welsh undertaker in consequence of this Part, determines who is beneficially entitled to a payment made under this Part, or in respect of any one act or omission relating to the same premises.
+
+### 6. Keeping of appointments
+
+(1) This regulation applies if a representative of a relevant Welsh undertaker is to visit a customer’s premises in connection with the provision of water supply services or sewerage services.
+
+(2) If the representative requires access to the premises, or it would otherwise be reasonable to expect the customer or a person acting on the customer’s behalf to be on the premises, the Welsh undertaker must—
+
+- (a) consult the customer orally or in writing to try to agree on a day to attend the premises; and
+- (b) give the customer notice, orally or in writing, of when the representative will attend the premises.
+
+(3) The undertaker’s notice must specify—
+
+- (a) the premises;
+- (b) the date that the representative will attend them;
+- (c) either—
+  - (i) if the customer so requests, a period of two hours during which the visit will be made; or
+  - (ii) otherwise, whether the visit will be made during the morning or the afternoon; and
+- (d) if the notice specifies that the visit will be made during the morning or afternoon, at what times the Welsh undertaker regards the morning or the afternoon, as the case requires, as beginning and ending.
+
+(4) Subject to paragraph (6), the Welsh undertaker must pay the customer £20 if—
+
+- (a) the Welsh undertaker gives a notice that is not in accordance with paragraph (3);
+- (b) a representative does not attend the premises on the date specified in the notice; or
+- (c) a representative does attend the premises on that date, but—
+  - (i) if the notice specified a two-hour period for the attendance, the representative does not attend during the specified period; or
+  - (ii) if the notice specified that the representative would attend during the morning or afternoon, the representative does not attend during the period specified in the notice as being the period of the morning or the afternoon, as the case requires.
+
+(5) No application by the customer for the payment is necessary.
+
+(6) However, the Welsh undertaker need not pay the customer under paragraph (4) if—
+
+- (a) the customer cancels the appointment;
+- (b) the Welsh undertaker cancels the appointment by giving the customer at least 24 hours’ notice, orally or in writing, of the cancellation; or
+- (c) it became impracticable, for a reason mentioned in paragraph (7), for the representative to keep the appointment, and the Welsh undertaker could not reasonably have so foreseen in time to enable it—
+  - (i) to cancel the appointment giving 24 hours’ notice; or
+  - (ii) to make other suitable arrangements for a representative to attend the premises at the arranged time.
+
+(7) The reasons are—
+
+- (a) severe weather;
+- (b) industrial action by employees of the Welsh undertaker; and
+- (c) the act or default of a person who is not—
+  - (i) an officer, employee or agent of the Welsh undertaker; or
+  - (ii) a person acting on behalf of the Welsh undertaker or of an agent of the Welsh undertaker.
+
+(8) The representative of an Welsh undertaker who attended a customer’s premises may make and sign a written record stating that the representative attended the premises and the time and date of attendance.
+
+(9) Unless the customer establishes that the record is incorrect, it is taken to confirm that the representative attended the premises as stated in the record.
+
+### 7. Complaints, account queries and requests about payment arrangements
+
+(1) This regulation applies where a customer of a relevant Welsh undertaker—
+
+- (a) complains in writing about the supply of water or the provision of sewerage services by the Welsh undertaker;
+- (b) queries, in writing, the correctness of an account for the supply of water or the provision of sewerage services; or
+- (c) asks, in writing, for a change to payment arrangements.
+
+(2) The Welsh undertaker must provide a substantive reply to the customer—
+
+- (a) in the cases of a reply to a complaint or a query, within 10 working days; or
+- (b) if the request is for a change to payment arrangements and the request cannot be met, within 5 working days.
+
+(3) The first day of the period for reply is the day after the day when the Welsh undertaker receives the complaint, query or request.
+
+(4) Subject to paragraph (6), if the Welsh undertaker does not comply with paragraph (2), it must pay the customer £20.
+
+(5) No application by the customer for the payment is necessary.
+
+(6) However, the Welsh undertaker need not pay the customer under paragraph (4) if—
+
+- (a) the address that the customer wrote to was not a notified address of the Welsh undertaker for a complaint, query or request of that kind;
+- (b) the customer does not wish to pursue the complaint, query, or request and has so informed the Welsh undertaker;
+- (c) it was impracticable for the Welsh undertaker to send a reply within the required period because of—
+  - (i) industrial action by employees of the Welsh undertaker; or
+  - (ii) the act or default of a person who is not—
+    - (aa) an officer, employee or agent of the Welsh undertaker; or
+    - (bb) a person acting on behalf of the Welsh undertaker or of an agent of the Welsh undertaker; or
+- (d) in the case of a reply to a complaint or query—
+  - (i) the complaint or query was frivolous or vexatious; or
+  - (ii) the Welsh undertaker reasonably considered that a visit was necessary before replying, and severe weather made that visit impracticable.
+
+(7) For the purposes of paragraph (6)(a), an address of an Welsh undertaker is a notified address of the Welsh undertaker for a complaint, query or request of a particular kind if the Welsh undertaker has notified that address to its customers as the appropriate address for a complaint, query or request of that kind by—
+
+- (a) publishing it in a telephone directory;
+- (b) notifying it on the undertaker’s website; or
+- (c) showing it on the undertaker’s publicity material.
+
+(8) For the purposes of this regulation—
+
+- (a) “Welsh undertaker” includes a service provider that is carrying out sewerage functions on behalf of an Welsh undertaker under arrangements entered into, or to be treated as entered into, for the purposes of section 97 of the WIA; and
+- (b) a complaint, query or request to such a service provider is taken, for the purposes of paragraph (2), to have been received by the Welsh undertaker on whose behalf the service provider provides services on the date on which the Welsh undertaker received it from the service provider.
+
+(9) In this regulation—
+
+- “payment arrangements” means the arrangements by which a customer makes payments (including instalment payments) to the Welsh undertaker; and
+- “a change to payment arrangements” includes a change to the frequency of payments (including instalment payments).
+
+### 8. Notice of interruption of supply
+
+(1) This regulation applies where a Welsh water undertaker[^key-4a94a5734cee6c28ac8fc71e3180920e] exercises its power under section 60(1) of the WIA (disconnections for the carrying out of necessary works).
+
+(2) If under section 60(3) of the WIA the Welsh undertaker is required to serve a notice, the Welsh undertaker must—
+
+- (a) specify in the notice—
+  - (i) the earliest date and time after which the Welsh undertaker reasonably expects that the supply will be interrupted or cut off; and
+  - (ii) the latest date and time by which the Welsh undertaker reasonably expects that the supply will be restored; and
+- (b) if the water is to be cut off for more than four hours, give at least 48 hours’ notice before the supply is interrupted or cut off.
+
+(3) Paragraph (4) applies if, because of an emergency, a Welsh water undertaker—
+
+- (a) interrupts or cuts off the supply of water to the premises of a customer; and
+- (b) is excused from the requirement under section 60(3) of the WIA to serve a notice.
+
+(4) If this paragraph applies the Welsh undertaker must, as soon as is reasonably practicable, take all reasonable steps to notify each affected customer—
+
+- (a) that the supply has been interrupted or cut off;
+- (b) where an alternative supply can be obtained;
+- (c) of the time by which it is proposed the supply should be restored; and
+- (d) of the telephone number of an office from which further information may be obtained.
+
+(5) Subject to paragraph (6), if the Welsh undertaker fails to comply with paragraph (2)(b), it must pay each customer whose supply of water was disconnected or cut off—
+
+- (a) if the supply is to domestic premises, £20; and
+- (b) if the supply is to premises of any other kind, £50.
+
+(6) No application by the customer for the payment is necessary unless the Welsh undertaker could not practicably have identified the customer as having been affected.
+
+(7) However, the Welsh undertaker need not pay the customer under paragraph (5)—
+
+- (a) if it was impracticable to give notice by the time required because of—
+  - (i) industrial action by employees of the Welsh undertaker; or
+  - (ii) the act or default of a person who is not—
+    - (aa) an officer, employee or agent of the Welsh undertaker; or
+    - (bb) a person acting on behalf of the Welsh undertaker or of an agent of the Welsh undertaker; or
+- (b) if—
+  - (i) the Welsh undertaker could not practicably have identified the customer as having been affected, and
+  - (ii) the customer does not claim (orally or in writing) a payment under this regulation within the 3 months following the date on which the supply was cut off.
+
+### 9. Entitlement to payment or credit where supply not restored as promised
+
+(1) This regulation applies if a Welsh water undertaker interrupts or cuts off the supply of water to premises, as described in regulation 8.
+
+(2) However, this regulation does not apply if the Welsh undertaker interrupts or cuts off the supply because of drought.
+
+(3) The Welsh undertaker must restore the supply—
+
+- (a) by the time and date specified in the notice, if the Welsh undertaker has served a notice stating when the supply is to be restored;
+- (b) within 48 hours after it first became aware that the supply was interrupted or cut off, if the supply was interrupted or cut off in an emergency because of a leak or burst in a strategic main; or
+- (c) within 12 hours after it first became aware that the supply was interrupted or cut off, if the supply was interrupted or cut off in an emergency, but not because of a leak or burst in a strategic main.
+
+(4) Subject to paragraph (6), if the Welsh undertaker fails to restore the supply by the time by which the Welsh undertaker should, under paragraph (3), have done so, the Welsh undertaker must pay the customer—
+
+- (a) where the supply is to domestic premises, £20;
+- (b) where the supply is to premises of any other kind, £50; and
+- (c) for each subsequent full period of 24 hours during which the supply has not been restored—
+  - (i) where the supply is to domestic premises, £10; and
+  - (ii) where the supply is to premises of any other kind, £25.
+
+(5) No application by the customer for the payment is necessary unless the Welsh undertaker could not practicably have identified the customer as having been affected.
+
+(6) The Welsh undertaker need not pay the customer under paragraph (4)—
+
+- (a) if (or, as the case may be, so long as) the Welsh undertaker was prevented from restoring the supply by—
+  - (i) severe weather;
+  - (ii) industrial action by employees of the Welsh undertaker; or
+  - (iii) the act or default of a person who is not—
+    - (aa) an officer, employee or agent of the Welsh undertaker; or
+    - (bb) a person acting on behalf of the Welsh undertaker or of an agent of the Welsh undertaker;
+- (b) in a case described in paragraph (3)(b) or (c), if the circumstances are so exceptional that it is unreasonable to expect the supply to be restored within the relevant period; or
+- (c) if—
+  - (i) the Welsh undertaker could not practicably have identified the customer as having been affected, and
+  - (ii) the customer does not claim (orally or in writing) a payment under this regulation within the 3 months following the date on which the supply was cut off.
+
+(7) In this regulation, “strategic main” means a main that conveys water in bulk to centres of population that have no other supply that can fully meet normal demand.
+
+### 10. Pressure standard
+
+(1) A Welsh water undertaker must maintain, in a communication pipe serving premises supplied with water, a minimum water pressure of seven metres static head.
+
+(2) If in a period of 28 days the pressure in the communication pipe serving a customer’s premises falls below seven metres static head on two occasions each lasting one hour or longer, the Welsh undertaker must, except in the circumstances described in paragraph (3), pay the customer £25.
+
+(3) Paragraph (2) does not apply if the pressure falls below seven metres static head in connection with the carrying out of necessary works or because of drought.
+
+(4) No application by the customer for the payment is necessary unless the Welsh undertaker could not practicably have identified the customer as having been affected.
+
+(5) However, the Welsh undertaker need not pay the customer under paragraph (2) where—
+
+- (a) the Welsh undertaker has already made a payment under this regulation to the customer in respect of another such failure in the same financial year;
+- (b) if—
+  - (i) the Welsh undertaker could not practicably have identified the customer as having been affected, and
+  - (ii) the customer does not claim (orally or in writing) a payment under this regulation within the 3 months following the date of the second relevant occasion on which the pressure fell below seven metres static head for an hour or more; or
+- (c) it was impracticable to maintain the pressure referred to in paragraph (1) because of—
+  - (i) industrial action by employees of the Welsh undertaker; or
+  - (ii) the act or default of a person who is not—
+    - (aa) an officer, employee or agent of the Welsh undertaker; or
+    - (bb) a person acting on behalf of the Welsh undertaker or an agent of the Welsh undertaker.
+
+(6) In this regulation, “communication pipe” means—
+
+- (a) the part of a service pipe between a Welsh water undertaker’s water main and the boundary of the street in which the water main is laid; or
+- (b) if the premises supplied with water abut on the part of the street in which the water main is laid, and the service pipe—
+  - (i) enters those premises otherwise than through the outer wall of a building abutting on the street; and
+  - (ii) has a stopcock in those premises as near to the boundary of the street as reasonably practicable;
+
+  the part of the service pipe between the water main and that stopcock.
+
+### 11. Flooding from sewers—internal flooding of buildings
+
+(1) Effluent from a sewer that is vested in a Welsh sewerage undertaker[^key-14faa376f40dcf2e2b3509c039b22805] must not enter a customer’s building.
+
+(2) Subject to paragraphs (3) and (5), if effluent from a sewer that is vested in a Welsh sewerage undertaker enters a building (other than an outbuilding) of a customer, the Welsh undertaker must pay the customer, in respect of each incident of such entry, the lesser of—
+
+- (a) a sum equal to the sewerage charges payable by the customer to the Welsh undertaker for the financial year in which the incident occurs; and
+- (b) £1,000.
+
+(3) If the amount that an Welsh undertaker would be required to pay a particular customer for an incident, worked out in accordance with paragraph (2), would be less than £150, the Welsh undertaker must pay the customer £150.
+
+(4) No application by the customer for the payment is necessary unless the Welsh undertaker could not practicably have identified the customer as having been affected.
+
+(5) The Welsh undertaker need not pay the customer under paragraph (2) if—
+
+- (a) the entry of effluent was caused by one or more of the following—
+  - (i) exceptional weather;
+  - (ii) industrial action by employees of the Welsh undertaker;
+  - (iii) an action of the customer;
+  - (iv) a defect, inadequacy or blockage in the customer’s drain or sewer; or
+- (b) if—
+  - (i) the Welsh undertaker could not practicably have identified the customer as having been affected, and
+  - (ii) the customer does not claim (orally or in writing) a payment under this regulation within the 3 months following the date on which the effluent entered the building.
+
+(6) For the purposes of this regulation—
+
+- (a) in the case of a building that has a suspended floor, the space beneath that floor is part of the building;
+- (b) effluent is not taken to have entered a building while it is in a drain or sewer.
+
+### 12. Flooding from sewers—external flooding
+
+(1) Effluent from a sewer that is vested in a Welsh sewerage undertaker must not enter a customer’s land or property.
+
+(2) Subject to paragraphs (3) and (5), if effluent from a sewer that is vested in a Welsh sewerage undertaker enters the land or property (including any outbuilding) of a customer, the Welsh undertaker must pay the customer, for each incident of such entry, the lesser of—
+
+- (a) a sum equal to 50% of the sewerage charges payable by the customer to the Welsh undertaker for the financial year in which the incident occurs; or
+- (b) £500.
+
+(3) If the amount that an Welsh undertaker would be required to pay a particular customer for an incident, worked out in accordance with paragraph (2), would be less than £75, the Welsh undertaker must pay the customer £75.
+
+(4) However, the Welsh undertaker need not pay the customer under paragraph (2) if—
+
+- (a) the entry of effluent was caused by one or more of the following—
+  - (i) exceptional weather;
+  - (ii) industrial action by employees of the Welsh undertaker;
+  - (iii) an action of the customer;
+  - (iv) a defect, inadequacy or blockage in the customer’s drain or sewer;
+- (b) the Welsh undertaker was required, by regulation 11, to make a payment to the same customer in respect of the same incident;
+- (c) the customer was not materially affected by the incident; or
+- (d) the customer does not claim the payment in accordance with paragraph (5) within the 3 months following the date on which the effluent entered the customer’s land or property.
+
+(5) With the customer’s claim for the payment the customer must provide a written statement showing the effect of the entry of effluent on the customer’s land or property.
+
+(6) In deciding whether a customer was materially affected by the entry of effluent during an incident of flooding, an Welsh undertaker must take into account—
+
+- (a) what parts of the customer’s land or property the effluent entered;
+- (b) the duration of the flooding;
+- (c) the extent of the flooding;
+- (d) whether the flooding restricted the access to the land or property;
+- (e) whether the flooding restricted the use of the land or property; and
+- (f) any other relevant considerations of which the Welsh undertaker is aware.
+
+(7) For the purposes of this regulation, effluent is not taken to have entered land while it is in a drain or sewer.
+
+### 13. Timing of payments
+
+(1) If regulation 6 or 7 requires a relevant Welsh undertaker to make a payment to a customer, the Welsh undertaker must make it within 10 working days of its becoming payable.
+
+(2) If the Welsh undertaker fails to make the payment in accordance with paragraph (1), the Welsh undertaker must pay the customer a further £10 if the customer makes a written claim for payment under this paragraph within 3 months after the payment referred to in paragraph (1) becomes payable.
+
+(3) If regulation 8, 9, 11 or 12 requires a relevant Welsh undertaker to make a payment to a customer, the Welsh undertaker must make it within 20 working days of its becoming payable.
+
+(4) If the Welsh undertaker fails to make the payment in accordance with paragraph (3), the Welsh undertaker must pay the customer—
+
+- (a) in the case of a payment in relation to the supply of water to domestic premises, a further £20; and
+- (b) in any other case, a further £50.
+
+(5) For the purposes of this regulation, a payment payable under any of regulations 6 to 9, 11 or 12 becomes payable—
+
+- (a) if the customer concerned must make an application for the payment, at the end of the day on which the Welsh undertaker receives that application; or
+- (b) if no such application is necessary, at the end of the day on which the relevant breach of a service standard occurred.
+
+### 14. Means of payment, including where customer is in arrears
+
+(1) Subject to paragraph (2), a customer who is entitled to payment under this Part may ask the relevant Welsh undertaker concerned to make the payment directly to the customer.
+
+(2) If the customer has not asked for direct payment, the Welsh undertaker may make the payment directly to the customer or by credit to the customer’s account.
+
+(3) If—
+
+- (a) a customer of a relevant Welsh undertaker is entitled to a payment under this Part but owes money to the Welsh undertaker; and
+- (b) at the material time, the customer’s debt to the Welsh undertaker has been outstanding for more than 6 weeks;
+
+the Welsh undertaker must make the payment, or so much of it as does not exceed the amount that the customer owes, by credit to the customer’s account.
+
+(4) For the purposes of paragraph (3)(3)(b), “the material time” is—
+
+- (a) if the payment is payable without a written claim being made, the time when it becomes payable; or
+- (b) otherwise, the time when the customer makes a written claim for it.
+
+### 15. Payments not to affect other legal liabilities
+
+(1) The making of a payment by a relevant Welsh undertaker to a customer in consequence of a claim or potential claim for a payment under this Part is not an admission by that Welsh undertaker of any liability other than an obligation to comply with this Part.
+
+(2) The acceptance by a customer of a payment or credit made in consequence of this Part does not affect any liability of the Welsh undertaker to the customer other than its liability under this Part.
+
+### 16. Notice of rights to be given to customers
+
+(1) A relevant Welsh undertaker must, at least once in every financial year, give every customer to whom it sends an account in that year a detailed statement of the rights provided by this Part.
+
+(2) If a relevant Welsh undertaker is aware that accounts to a customer cover the supply of water or sewerage services to other customers, it must—
+
+- (a) give the customer enough copies of the statement referred to in paragraph (1) to enable the customer to give a copy to each of those other customers; or
+- (b) send a copy of the statement to each of those other customers directly.
+
+### 17. Reference of disputes to the Authority
+
+(1) If a dispute arises between a relevant Welsh undertaker and a customer as to the right of the customer to a payment or a credit to the customer’s account under this Part, either party may refer the matter to the Authority for determination.
+
+(2) The parties to a dispute that has been referred to the Authority must give it any evidence or information that it reasonably requires to enable it to determine the dispute.
+
+(3) If the Authority determines the dispute in the customer’s favour but the Welsh undertaker fails to give effect to the determination, the customer may set off the amount in question against any liability that he has to the Welsh undertaker.
+
+## PART 3 — Customer service standards for English service providers and English wholesalers[^key-d6749476f4dd9db8aa683d141a125a64]
+
+### 17A. Interpretation of Part 3
+
+In this Part—
+
+- “customer” includes—
+  - (a) in cases of self-supply, the relevant water supply licensee, sewerage licensee or person associated with a licensee; and
+  - (b) in all other cases, customers or potential customers of water supply licensees or sewerage licensees that are operating in accordance with a retail authorisation, but does not include a person associated with the relevant licensee;
+- “[^key-f35bb5b998113cba4d91df0bb2dc9e67]**English duty-holder**” means—
+  - (a) an English service provider, or
+  - (b) an English wholesaler;
+- “English service provider” means—
+  - (a) in cases of self-supply, the English wholesaler whose water supply system or sewerage system is used to supply water or provide sewerage services to the customer; and
+  - (b) in all other cases—
+    - (i) the water supply licensee or sewerage licensee, as appropriate, who supplies water or provides sewerage services to the customer under a retail authorisation; or
+    - (ii) the English undertaker who supplies water or provides sewerage services to the customer;
+- “English undertaker” means a water undertaker or sewerage undertaker whose area is wholly or mainly in England;
+- “English wholesaler” means an English undertaker acting in their capacity of providing, developing, maintaining, improving or extending a water supply system or sewerage system, as appropriate, and “English water wholesaler” and “English sewerage wholesaler” are to be construed accordingly;
+- “[^key-1d282d2ec1b280765c28598fc09fe290]**EW sewer**” means a sewer which is vested in an English sewerage wholesaler;
+- “**non-domestic outbuilding**” means an outbuilding which is not part of domestic premises;
+- “person associated with a licensee” has the meaning given—
+  - (a) for a water supply licence, in paragraph 11 of Schedule 2A to the WIA; and
+  - (b) for a sewerage licence, in paragraph 1 of Schedule 2B to the WIA;
+
+  and “person associated with the relevant licensee” means a person associated with, in relation to water supply, the water licensee or, in relation to the provision of sewerage services, the sewerage licensee;
+- “retail authorisation” has the meaning given—
+  - (a) for a water supply licence, in paragraph 3 of Schedule 2A to the WIA;
+  - (b) for a sewerage licence, in paragraph 1 of Schedule 2B to the WIA;
+- “self-supply” means situations where a water supply licensee or sewerage licensee supplies water or provides sewerage services, as appropriate, to the premises of the relevant licensee or a person associated with the relevant licensee;
+- “sewerage system”, in relation to an English sewerage undertaker or English sewerage wholesaler, has the meaning given by section 17BA(7) of the WIA;
+- “[^key-65d90935953889eb24c993c48ffa40c9]**valid claim**” means a claim by a customer (however made) for a payment under regulation 17E, 17F, 17G or 17H which—
+  - (a) includes the name of the customer and at least one of the following—
+    - (i) an address for correspondence;
+    - (ii) an email address for correspondence;
+    - (iii) a contact telephone number;
+  - (b) includes, if not given as an address for correspondence in accordance with paragraph (a)(i)—
+    - (i) in the case of a claim for a payment under regulation 17E, 17F or 17G, the address of the premises in respect of which the customer is supplied with water;
+    - (ii) in the case of a claim for a payment under regulation 17H, the address of, or other means of identifying, the premises to which the claim relates,
+  - (c) describes the event which is, or events which are, considered to trigger the requirement for a payment, and
+  - (d) states when the event or events occurred**;**
+- “water supply system”, in relation to an English water undertaker or English water wholesaler, has the same meaning as “supply system” in section 17B(4A) of the WIA.
+
+### 17B. Exclusions
+
+(1) Nothing in this Part requires an English duty-holder[^key-9a2b0ee3692e573a1917634cd64ac4c9]—
+
+- (a) to give notice to more than one person in respect of the same premises; or
+- (b) to make a payment to more than one person in respect of any one claim.
+
+(2) Nothing in this Part, and nothing done by an English duty-holder in consequence of this Part, determines who is beneficially entitled to a payment made under this Part, or in respect of any particular act or omission relating to the same premises.
+
+### 17C. Keeping of appointments
+
+(1)[^key-57d9e799b1a774ed42ac42f58bde9e45] This regulation applies if a representative of an English duty-holder is to visit a customer’s premises in connection with the provision of water supply services or sewerage services other than in emergency circumstances.
+
+(1A) A representative of an English duty-holder is to visit a customer’s premises in emergency circumstances if—
+
+- (a) the issue must be resolved urgently or outside the English duty-holder’s normal working hours (or both), and
+- (b) to enable the issue to be so resolved, the visit must take place—
+  - (i) with less than 24 hours’ notice;
+  - (ii) on a day which is not a working day; or
+  - (iii) during any period on a working day which is outside the English duty-holder’s normal working hours.
+
+(1B) For the purposes of paragraph (1A), an English duty-holder’s normal working hours on a working day include the periods that the duty-holder specifies as the morning and the afternoon for a visit on that working day in accordance with paragraph (3)(d).
+
+(2) If the representative requires access to the premises, or it would otherwise be reasonable to expect the customer or a person acting on the customer’s behalf to be on the premises, the English duty-holder[^key-6feb1b96d94f86da3d05a9339bf86264] must—
+
+- (a) consult the customer orally or in writing to try to agree on a day to attend the premises; and
+- (b) give the customer notice, orally or in writing, of when the representative will attend the premises.
+
+(3) The notice in paragraph (2) must specify—
+
+- (a) the premises;
+- (b) the date that the representative will attend them;
+- (c) either—
+  - (i) if the customer so requests, a period of two hours during which the visit will be made; or
+  - (ii) otherwise, whether the visit will be made during the morning or the afternoon; and
+- (d) if the notice specifies that the visit will be made during the morning or afternoon, at what times the English duty-holder[^key-c1264296c103fa4f534dc7583122e610] regards the morning or afternoon, as the case requires, as beginning and ending.
+
+(4) Subject to paragraph (6)—
+
+- (a)[^key-90c0d5395a2708fd00ecb1d93a15c875] the English service provider must pay the customer £40, if the English duty-holder gives a notice that is not in accordance with paragraph (3);
+- (aa) the English service provider must pay the customer £50 if—
+  - (i) a representative does not attend the premises on the date specified in the notice; or
+  - (ii) a representative attends the premises on the date specified in the notice but not during (as the case may be)—
+    - (aa) the period of two hours specified in the notice;
+    - (bb) the period specified in the notice as “the morning”; or
+    - (cc) the period specified in the notice as “the afternoon”;
+- (b) if the English wholesaler is responsible for a breach that gives rise to a payment obligation on the English service provider under sub-paragraph (a) or (aa)[^key-798ce34287493a1b387b07f8bbfd0971] it must pay the English service provider in accordance with regulation 17K.
+
+(5)[^key-0a1687cdd6dccd41c97874c1feca77b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (4) if—
+
+- (a) the customer cancels the appointment;
+- (b) the English duty-holder[^key-2cd73e5cd724fc3877dfd249e922442b] cancels the appointment by giving the customer at least 24 hours’ notice, orally or in writing, of the cancellation; or
+- (c) it became impracticable, for a reason mentioned in paragraph (7), for the representative to keep the appointment, and the English duty-holder[^key-4df480348945d95cd74a48c13559ccf4] could not reasonably have so foreseen in time to enable it—
+  - (i) to cancel the appointment giving 24 hours’ notice; or
+  - (ii) to make other suitable arrangements for a representative to attend the premises at the arranged time.
+
+(7) The reasons are—
+
+- (a) severe weather;
+- (b) where the appointment is made by the English service provider—
+  - (i) industrial action by employees of the English duty-holder[^key-f557877e829df94d991d85d7b01dfda0];
+  - (ii) the act or default of a person who is not an officer, employee or agent of the English service provider; or
+  - (iii) the act or default of a person who is not a person acting on behalf of the English service provider or of an agent of the English service provider; and
+- (c) where the appointment is made by the English wholesaler who is not the English service provider—
+  - (i) industrial action by employees of the English duty-holder[^key-2e1763102f9b558cf1e2f879462d3659];
+  - (ii) the act or default of a person who is not an officer, employee or agent of the English wholesaler; or
+  - (iii) the act or default of a person who is not a person acting on behalf of the English wholesaler or of an agent of the English wholesaler.
+
+(8) The representative of an English duty-holder[^key-2a8b78308db32f17f066b8782e687dcb] who attended a customer’s premises may make and sign a written record stating that the representative attended the premises and the time and date of attendance.
+
+(9) Unless the customer establishes that the record is incorrect, it is to be treated as confirming that the representative attended the premises as stated in the record.
+
+### 17D. Complaints, account queries and requests about payment arrangements
+
+(1) This regulation applies where—
+
+- (a)[^key-cc134486f79908bd90b0474d0043e2fa] an English service provider receives a valid complaint from a customer about the supply of water or the provision of sewerage services by the provider;
+- (b) an English wholesaler receives a valid complaint from a customer about the water supply system or sewerage system of the wholesaler; or
+- (c) an English service provider, apart from in cases of self-supply, receives—
+  - (i) a valid query from a customer about the correctness of an account for the supply of water or the provision of sewerage services; or
+  - (ii) a valid request from a customer for a change to payment arrangements.
+
+(1A)[^key-ce8cf4f5359e964fd3275cb307a170bf] In this regulation—
+
+- “**valid complaint**” means a complaint (however made) which—
+  - (a) includes the name of the customer and at least one of the following—
+    - (i) an address for correspondence;
+    - (ii) an email address for correspondence;
+    - (iii) a contact telephone number;
+  - (b) includes, if not given as an address for correspondence under paragraph (a), the address of the premises in respect of which the customer is supplied with water or, as the case may be, provided with sewerage services; and
+  - (c) describes the particular event or issue to which it relates;
+- “**valid query**” means a query (however made) which—
+  - (a) includes the name of the customer and at least one of the following—
+    - (i) an address for correspondence;
+    - (ii) an email address for correspondence;
+    - (iii) a contact telephone number;
+  - (b) includes, if not given as an address for correspondence under paragraph (a) the address of, or other means of identifying, the premises to which it relates; and
+  - (c) describes what is being queried;
+- “**valid request**” means a request (however made) which—
+  - (a) includes the name of the customer and at least one of the following—
+    - (i) an address for correspondence;
+    - (ii) an email address for correspondence;
+    - (iii) a contact telephone number;
+  - (b) includes, if not given as an address for correspondence under paragraph (a), the address of the premises in respect of which the customer is supplied with water or, as the case may be, provided with sewerage services, and
+  - (c) identifies the particular payment arrangements to which it relates; and
+  - (d) describes the change that the customer wants to make to the arrangements.
+
+(2)[^key-df33f59c1f6c75f55876640f81890336] An English duty-holder who receives a valid complaint must provide a substantive reply to the complaint to the customer within 10 working days.
+
+(3) The English service provider must provide a substantive reply to the customer—
+
+- (a) to a valid query[^key-7e32e4ab92907c18cdd9a9603cf7fb78], within 10 working days; or
+- (b) to a valid request[^key-d23b7eb805b2eb16e478d26b58082521] for a change to payment arrangements that cannot be met, within 5 working days.
+
+(4)[^key-b7e4f933a56200ba26241a171d0f0289] The first day of the period for reply is the day after the day on which the English duty-holder receives the valid complaint, valid query or valid request.
+
+(5) Subject to paragraph (7)—
+
+- (a) the English service provider must pay the customer £40[^key-0af2d1e0d052365c0c8aed7d6cb4a56b] if—
+  - (i) the English wholesaler does not comply with paragraph (2); or
+  - (ii) the English service provider does not comply with paragraph (2) or (3); and
+- (b) if the English wholesaler does not comply with paragraph (2) it must pay the English service provider in accordance with regulation 17K.
+
+(6)[^key-611c25bd76f3f1e76f8c2340f6a155dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (5) if—
+
+- (a)[^key-bd1b80e9243a1479daf763ab63dc8f9e] the customer makes the complaint, query or request using an alternative means of communication, the means used by the consumer is not a valid alternative means of communication;
+- (aa) a customer makes a complaint, query or request to an English duty-holder by post or other similar service or email, the customer did not make the complaint to the English duty-holder at a valid address or a valid email address;
+- (ab) a complaint, query or request is made orally by telephone, the telephone number used to make the complaint was not a valid telephone number;
+- (b) the customer does not wish to pursue the complaint, query or request and has so informed the English service provider or English wholesaler, as appropriate;
+- (c) in the case of a complaint, query or request to the English service provider, it was impracticable to send a reply within the required period because of—
+  - (i) industrial action by employees of the English service provider or the English wholesaler;
+  - (ii) the act or default of a person who is not an officer, employee or agent of the English service provider; or
+  - (iii) the act or default of a person who is not a person acting on behalf of the English service provider or of an agent of the English service provider; or
+- (d) in the case of a complaint to the English wholesaler who is not the English service provider, it was impracticable to send a reply within the required period because of—
+  - (i) industrial action by employees of the English wholesaler or the English service provider;
+  - (ii) the act or default of a person who is not an officer, employee or agent of the English wholesaler; or
+  - (iii) the act or default of a person who is not a person acting on behalf of the English wholesaler or of an agent of the English wholesaler; or
+- (e)[^key-c685c6ecab26013d97aa9d798fa3f922] the complaint, query or request was frivolous or vexatious;
+- (ea) in the case of a reply to a complaint or query, the English duty-holder reasonably considered that a visit was necessary before replying, and severe weather made that visit impracticable.
+
+(7A)[^key-6566202bba4ddba38d7cee257105c868] For the purposes of this regulation—
+
+- (a) an alternative means of communication is a means of communication other than—
+  - (i) post or a similar service;
+  - (ii) email;
+  - (iii) telephone;
+  - (iv) a website provided by or on behalf of the English duty-holder, and
+
+  includes in particular communication via a social media service, SMS or other messaging service;
+- (b) an alternative means of communication is a valid alternative means of communication if that means of communication has been specified by the English duty-holder to the customer as a means by which a complaint, request or query (as the case may be) may be made to it.
+
+(8)[^key-a2728fcbec5e0cf0cdae59d855d2cd9d] For the purposes of this regulation—
+
+- (a) an address is a valid address if it is an address notified by the English duty-holder as an address to which a complaint, query or request (as the case may be) may be sent;
+- (b) an email address is a valid email address if it is an email address notified by the English duty-holder as an email address to which a complaint, query or request (as the case may be) may be sent;
+- (c) a telephone number is a valid telephone number if it is a telephone number notified by the English duty-holder as a telephone number which may be used to make a complaint, query or request (as the case may be).
+
+(9) For the purposes of this regulation—
+
+- (a) “English wholesaler” includes a relevant authority that is carrying out sewerage functions on behalf of an English undertaker under arrangements entered into, or to be treated as entered into, for the purposes of section 97 of the WIA (performance of sewerage undertaker’s functions by local authorities etc.); and
+- (b) a complaint to such a relevant authority is taken, for the purposes of paragraph (2), to have been received by the English undertaker on whose behalf the relevant authority provides services on the date on which the undertaker received it from the relevant authority.
+
+(10) In this regulation—
+
+- “a change to payment arrangements” includes a change to the frequency of payments (including instalment payments);
+- “payment arrangements” means the arrangements by which a customer makes payments (including instalment payments) to the English service provider; and
+- “relevant authority” has the meaning given by section 97(5) of the WIA.
+
+### 17E. Notice of interruption of supply
+
+(1)[^key-43eaee112c87ced49ba66b4953c97637] This regulation applies where the supply of water to premises is, or is to be, interrupted or cut off for any reason.
+
+(1A) Paragraph (2) applies where an English wholesaler—
+
+- (a) exercises its power under section 60(1) of the WIA (disconnections for the carrying out of necessary works), and
+- (b) is required to serve a notice under section 60(3) of the WIA.
+
+(2) If this paragraph applies[^key-7c667dfda8c01420b5a07c5a7ed88db4], the English wholesaler must—
+
+- (a) specify in the notice—
+  - (i) the earliest date and time after which the English wholesaler reasonably expects that the supply will be interrupted or cut off; and
+  - (ii) the latest date and time by which the English wholesaler reasonably expects that the supply will be restored; and
+- (b) if the water is to be cut off for more than four hours, give at least 48 hours’ notice before the supply is interrupted or cut off.
+
+(3)[^key-49ac32c1b79da58fbf5eddc277c24ab4] Paragraph (4) applies if—
+
+- (a) because of an emergency, an English wholesaler—
+  - (i) interrupts or cuts off the supply of water to the premises of a customer in exercise of its powers under section 60(1) of the WIA, and
+  - (ii) is excused from the requirement under section 60(3) of the WIA to serve a notice, or
+- (b) the supply of water to the premises of a customer is interrupted or cut off otherwise than by an English wholesaler in exercise of any of its powers under the WIA.
+
+(4) If this paragraph applies the English wholesaler must, as soon as is reasonably practicable, take all reasonable steps to notify each affected customer—
+
+- (a) that the supply has been interrupted or cut off;
+- (b) where an alternative supply can be obtained;
+- (c) of the time by which it is proposed that the supply should be restored; and
+- (d) of the telephone number of an office from which further information may be obtained.
+
+(5) Subject to paragraph (7), if the English wholesaler fails to comply with paragraph (2)(b)—
+
+- (a) the English service provider must pay each customer whose supply of water was interrupted or cut off—
+  - (i) if the supply is to domestic premises, £50[^key-686131ed55f99c10fc5b74b7bc42583a]; and
+  - (ii) if the supply is to premises of any other kind, £100[^key-23cc2c627c7234374bf13b75c7dc01d0]; and
+- (b) the English wholesaler must pay the English service provider in accordance with regulation 17K.
+
+(6)[^key-bb959c3dbfc76cb02a4b2f815b4812b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (5)—
+
+- (a) if it was impracticable to give notice by the time required because of—
+  - (i) industrial action by employees of the English wholesaler or the English service provider;
+  - (ii) the act or default of a person who is not an officer, employee or agent of the English wholesaler; or
+  - (iii) the act or default of a person who is not a person acting on behalf of the English wholesaler or of an agent of the English wholesaler; or
+- (b) if—
+  - (i) the English service provider could not practicably have identified the customer as having been affected; and
+  - (ii) the customer does not make a claim (orally or in writing) to the English service provider for a payment under this regulation within the 3 months following the date on which the supply was interrupted or cut off.
+
+### 17F. Entitlement to payment or credit where supply not restored as promised or as required[^key-77fbc49ab35cc52688e76e62e88cb500]
+
+(1)[^key-be6d2e7f744e94275f5a38e1e4d45163] This regulation applies where the supply of water to premises is interrupted or cut off otherwise than—
+
+- (a) because of drought; or
+- (b) by the English water wholesaler in exercise of its powers under section 61 or 62 of the WIA.
+
+(1A) Such an incident is referred to in this regulation as a “**supply incident**”.
+
+(2)[^key-38cb090c91cb5d0f220aff50432c3b7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-ef2f889dccde83dcccedfbe20a311771] The English wholesaler must restore the supply following a supply incident—
+
+- (a) if it was required to serve a notice under 60(3) of the WIA, by the date and time specified in the notice;
+- (b) in any other case, within the period of 12 hours beginning when it interrupted or cut off the supply or, as the case may be**,** it first became aware of the supply incident.
+
+(4) Subject to paragraphs (6) and (6A)[^key-0faea7f6c00a3b3591e5c50d90652a37], if the English wholesaler fails to restore the supply following the supply incident by[^key-ab89e6682624d100d2424e4159f5c2f6] the time by which the English wholesaler should, under paragraph (3), have done so—
+
+- (a) the English service provider must pay the customer—
+  - (i) where the supply is to domestic premises, £50[^key-087142f50c02ce96eb83f71dde1fdbd9];
+  - (ii) where the supply is to premises of any other kind, £100[^key-ccbc00e0c3b060a960cd868cf86f23ba]; and
+  - (iii) for each subsequent full period of 12[^key-135665108d9015dfd2d7e39bf932361f] hours during which the supply has not been restored—
+    - (aa) where the supply is to domestic premises, £50[^key-cfa12b4e536302ff47bc85c000c992f3]; and
+    - (bb) where the supply is to premises of any other kind, £100[^key-40d2b132a7904a9ad7efd34280dd6a34]; and
+- (b) the English wholesaler must pay the English service provider in accordance with regulation 17K.
+
+(5)[^key-e73f8acb9d006c2b932bebbd1d49de8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (4)—
+
+- (a) if (or, as the case may be, so long as) the English wholesaler was prevented from restoring the supply by—
+  - (i)[^key-27dc753f296eab477e483de3dea158ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) industrial action by the employees of the English wholesaler;
+  - (iii) the act or default of a person who is not an officer, employee or agent of the English wholesaler; or
+  - (iv) the act or default of a person who is not a person acting on behalf of the English wholesaler or of an agent of the English wholesaler;
+- (b) in a case described in paragraph (3)(b) or (c), if the circumstances are so exceptional that it is unreasonable to expect the supply to be restored within the relevant period; or
+- (c) if—
+  - (i) the English service provider could not practicably have identified the customer has having been affected; and
+  - (ii) the customer does not make a claim (orally or in writing) to the English service provider for a payment under this regulation within the 3 months following the date on which the supply was interrupted or cut off.
+
+(6A)[^key-f4847f52ebd8094e1faaf7a3fba352d0] An English wholesaler is not required to make payments under paragraph (4) to a customer in respect of a particular supply incident which, in total, exceed twice the water supply charge amount.
+
+(6B) The “**water supply charge amount**”, in relation to a customer, is a sum equal to the charges payable by the customer for the relevant supply period for the supply of water to the affected premises.
+
+(6C) For the purposes of paragraph (6B), the relevant supply period, in relation to a particular supply incident, is the period of 12 months beginning with the day on which the supply was interrupted or cut off.
+
+(7)[^key-9d7e70b971bb627aa17894145d98c6cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17G. Pressure standard
+
+(1)[^key-74cb1034502d8c7fa15c590d4cf227b2] An English water wholesaler must maintain, in a communication pipe serving premises supplied with water, a minimum water pressure of seven metres static head (the “MW pressure”)[^key-023a692e1b384ec412ffd42531d70502].
+
+(2)[^key-6518a1b342439150b2d77ee129259e8b] Subject to paragraph (5), if the pressure failure conditions are satisfied—
+
+- (a) the English service provider must pay the customer £50; and
+- (b) the English wholesaler must pay the English service provider in accordance with regulation 17K.
+
+(3) The pressure failure conditions are that—
+
+- (a) the pressure in the communication pipe serving a customer’s premises falls below the MW pressure for an hour or more other than—
+  - (i) in connection with the carrying out of necessary works; or
+  - (ii) because of drought; and
+- (b) before the end of the period of 28 days beginning with the day on which the failure mentioned in sub-paragraph (a) occurs, the pressure in the communication pipe serving a customer’s premises again falls below the MW pressure for an hour or more other than—
+  - (i) in connection with the carrying out of necessary works; or
+  - (ii) because of drought.
+
+(4)[^key-ab9f935df0a26aed4af4febfd964db46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (2) where—
+
+- (a)[^key-7e5db0d156dfa5275d2ec2d4f6a11c0a] the English service provider has already made payments totalling £250 to the customer in respect of occasions on which the pressure failure conditions were satisfied in the same financial year;
+- (b) if—
+  - (i) the English service provider could not practicably have identified the customer as having been affected; and
+  - (ii) the customer does not make a claim (orally or in writing) to the English service provider for a payment under this regulation within the 3 months following the date of the second relevant occasion on which the pressure fell below MW pressure[^key-f2b7469b555398edc1a5fa1bdfa1598c] for an hour or more; or
+- (c) it was impracticable to maintain the MW pressure[^key-fcfa2504544b236e6804da81c9f7946c] because of—
+  - (i) industrial action by employees of the English wholesaler;
+  - (ii) the act or default of a person who is not an officer, employee or agent of the English wholesaler; or
+  - (iii) the act or default of a person who is not a person acting on behalf of the English wholesaler or an agent of the English wholesaler.
+
+(6) In this regulation, “communication pipe” means—
+
+- (a) the part of a service pipe between an English wholesaler’s water main and the boundary of the street in which the water main is laid; or
+- (b) if the premises supplied with water abut on the part of the street in which the water main is laid, and the service pipe—
+  - (i) enters those premises otherwise than through the outer wall of a building abutting on the street; and
+  - (ii) has a stopcock in those premises as near to the boundary of the street as reasonably practicable
+
+  the part of the service pipe between the water main and the relevant stopcock.
+
+### 17H. Flooding from sewers – internal flooding of buildings
+
+(1)[^key-3dff5b5489fd1ea1b668a92151dd724e] Effluent from an EW sewer must not enter a customer’s building.
+
+(2) Subject to paragraph (5), if effluent from an EW sewer enters a customer’s building (other than a non-domestic outbuilding) (an “incident of entry”)—
+
+- (a) the English service provider must pay the customer, in respect of each incident of entry, the lesser of—
+  - (i) the sewerage charge amount; and
+  - (ii) the maximum payment amount; and
+- (b) the English wholesaler must pay the English service provider in accordance with regulation 17K.
+
+(2A) The sewerage charge amount is the greater of—
+
+- (a) a sum equal to the sewerage charges payable by the customer to the English wholesaler for the period of 12 months beginning with the entry date for the incident; and
+- (b) the minimum payment amount.
+
+(2B) For the purposes of paragraph (2A)(b), the minimum payment amount is—
+
+- (a) £300; or
+- (b) if the incident of entry occurs within the relevant period of a previous incident of entry, the sum of £300 + (£100 × IN).
+
+(2C) The maximum payment amount is—
+
+- (a) £2,000; or
+- (b) if the incident of entry occurs within the relevant period of a previous incident of entry, the sum of £2,000 + (£500 × IN).
+
+(2D) For the purposes of paragraphs (2B) and (2C)—
+
+- (a) an incident of entry (the “new incident”) occurs within the relevant period of a previous incident of entry (the “old incident”) if the entry date for the new incident occurs during the period of 12 months beginning with the end date for the old incident;
+- (b) “**IN**”, in relation to a customer, means the total number of incidents of entry occurring in the period of 12 months mentioned in sub-paragraph (a) in respect of which the English service provider has already made a payment to the customer under this regulation;
+
+(2E) For the purposes of paragraph (2D), it does not matter whether the old incident occurs before, on or after 2nd July 2025.
+
+(2F) For the purposes of paragraphs (2A) to (2E)—
+
+- (a) the “entry date” for an incident of entry is the day on which the effluent enters the building;
+- (b) the “end date” for such an incident is the day on which effluent stops entering the particular building as a result of the incident (whether or not any effluent remains in the building).
+
+(3)[^key-f20e551afdb267b94a71af3fb1178430] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-92cbc24b616cccee9bd051c01ef6bb6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The English service provider need not pay the customer, and the English wholesaler need not pay the English service provider, under paragraph (2) [^key-183e3fb6797d4ca0aee47593962e3550]...—
+
+- (a) if the entry of effluent was caused by one or more of the following—
+  - (i)[^key-f19e820b85f8aeef1016822e5276c9c3] an abnormal or unforeseeable event, including a natural event, outside the control of the English wholesaler, the consequences of which could not have been avoided by the exercise of all due care by the English wholesaler;
+  - (ii) industrial action by employees of the English wholesaler;
+  - (iii) an action of the customer;
+  - (iv) a defect, inadequacy or blockage in the customer’s drain or sewer; or
+- (b) if—
+  - (i) the English service provider could not practicably have identified the customer as having been affected; and
+  - (ii) the customer does not make a claim (orally or in writing) to the English service provider for a payment under this regulation within the 3 months following the date on which the effluent entered the building.
+
+(6) For the purposes of this regulation—
+
+- (a) in the case of a building that has a suspended floor, the space beneath that floor is part of the building;
+- (b) effluent is not taken to have entered a building while it is in a drain or sewer.
+
+### 17I. Flooding from sewers – external flooding and flooding of non-domestic outbuildings[^key-88e3aded2dea9e44da280425467e9844]
+
+(1)[^key-5b4a2492aa9ffcaf8a43fd4e72a56027] Effluent from an EW sewer must not enter a customer’s land or property.
+
+(2) Subject to paragraph (4), if effluent from an EW sewer enters a customer’s land or property (including a non-domestic outbuilding) (an “incident of entry”)—
+
+- (a) the English service provider must pay the customer, for each incident of entry, the lesser of—
+  - (i) the sewerage charge amount; and
+  - (ii) the maximum payment amount; and
+- (b) the English wholesaler must pay the English service provider in accordance with regulation 17K.
+
+(2A) The sewerage charge amount is the greater of—
+
+- (a) a sum equal to 50% of the sewerage charges payable by the customer to the English service provider for the financial year in which the entry date for the incident falls; and
+- (b) the minimum payment amount.
+
+(2B) The maximum payment amount is—
+
+- (a) £1,000; or
+- (b) if the incident of entry occurs within the relevant period of a previous incident of entry, the sum of £1,000 + (£250 × IN).
+
+(2C) For the purposes of paragraph (2A)(b), the minimum payment amount is—
+
+- (a) £150; or
+- (b) if the incident of entry occurs within the relevant period of a previous incident of entry, the sum of £150 + (£50 × IN).
+
+(2D) For the purposes of paragraphs (2B) and (2C)—
+
+- (a) an incident of entry (the “new incident”) occurs within the relevant period of a previous incident of entry (the “old incident”) if the entry date for the new incident occurs during the period of 12 months beginning with the end date for the old incident;
+- (b) “**IN**”, in relation to a customer, means the total number of incidents of entry in the period of 12 months mentioned in sub-paragraph (a) in respect of which the English service provider has already made a payment to the customer under this regulation.
+
+(2E) For the purposes of paragraph (2D), it does not matter whether the old incident occurs before, on or after 2nd July 2025.
+
+(2F) For the purposes of paragraphs (2A) to (2E)—
+
+- (a) the “entry date” for an incident of entry is the day on which effluent enters the land or property;
+- (b) the “end date” for an incident of entry is the day on which effluent stops entering the particular land or property as a result of that incident (whether or not any effluent remains on the land or property).
+
+(3)[^key-7a5d15ab56fdcd94c8449be966258c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The English service provider need not pay the customer, and an English wholesaler need not pay the English service provider, under paragraph (2) [^key-1b9f19ea22d9d91860a22db8101dd64e]... if—
+
+- (a) the entry of effluent was caused by one or more of the following—
+  - (i)[^key-bff4ed0506301ece62d6aa21c9aadb32] an abnormal or unforeseeable event, including a natural event, outside the control of the English wholesaler, the consequences of which could not have been avoided by the exercise of all due care by the English wholesaler;
+  - (ii) industrial action by the employees of the English wholesaler;
+  - (iii) an action of the customer;
+  - (iv) a defect, inadequacy or blockage in the customer’s drain or sewer;
+- (b) the English service provider was required by regulation 17H to make a payment to the same customer in respect of the same incident;
+- (c) the customer was not materially affected by the incident; or
+- (d) the customer does not make a claim to the English service provider for the payment, in accordance with paragraph (5), within the 3 months following the date on which the effluent entered the customer’s land or property.
+
+(5) With the customer’s claim for the payment the customer must provide a written statement showing the effect of effluent on the customer’s land or property.
+
+(6) In deciding whether a customer was materially affected by the entry of effluent during an incident of flooding, an English service provider must take into account—
+
+- (a) what parts of the customer’s land or property the effluent entered;
+- (b) the duration of the flooding;
+- (c) the extent of the flooding;
+- (d) whether the flooding restricted the access to the land or property;
+- (e) whether the flooding restricted the use of the land or property; and
+- (f) any other relevant considerations of which the English service provider is aware.
+
+(7) For the purposes of this regulation, effluent is not taken to have entered land or property while it is in a drain or sewer.
+
+### 17IA. Domestic customers in arrears[^key-6398f269a3ed52c585242a89dd67053f]
+
+(1) This regulation applies where an English service provider considers that a domestic customer has failed to pay any charges due to them for which the customer is liable in respect of the supply of water to a premises falling within Schedule 4A to the WIA (such charges are referred to in this regulation as the “**outstanding charges**”).
+
+(2) The English service provider must, before taking a relevant step, give the customer—
+
+- (a) a notice (an “outstanding charges notice”), and
+- (b) an opportunity to make arrangements for the payment of the outstanding charges or to otherwise make representations in connection with them (including, but not limited to, disputing their liability to pay those charges or to correct an error in the information provided by the English service provider).
+
+(3) For the purposes of this regulation, an English service provider takes a relevant step in relation to outstanding charges if it does either or both of the following in relation to those charges—
+
+- (a) gives information to a credit reference agency in relation to the customer’s failure to pay them;
+- (b) begins legal proceedings for the purposes of recovering them (whether in whole or in part).
+
+(4) An outstanding charges notice must contain—
+
+- (a) the amount of the outstanding charges, and how that amount has been calculated,
+- (b) the period to which the outstanding charges relate,
+- (c) the address of the domestic premises to which the outstanding charges relate,
+- (d) where a meter is installed in relation to the domestic premises, the serial number of that meter,
+- (e) a statement of how the customer may contact the English service provider to confirm that they have received the notice,
+- (f) a statement of how the customer may contact the English service provider to make arrangements for the payment of the outstanding charges or to dispute, or otherwise make representations in connection with, those charges,
+- (g) the period within which the customer must take any such step, and
+- (h) the relevant steps that the English service provider may take in relation to the outstanding charges.
+
+(5) The period specified for the purposes of paragraph (4)(g) must—
+
+- (a) not be less than 30 days beginning with the day on which the outstanding charges notice is given to the customer, and
+- (b) in any event, take account of whether or not the customer is included in a Core Priority Services Register (see regulation 17ID).
+
+(6) If a customer who is given an outstanding charges notice—
+
+- (a) neither confirms that they have received the outstanding charges notice nor contacts the English service provider to make arrangements for the payment of the outstanding charges or otherwise make representations in connection with them, or
+- (b) confirms they have received the outstanding charges notice but does not contact the English service provider to make such arrangements or representations,
+
+the English service provider must, before taking a relevant step, attempt to contact the customer about the outstanding charges and, where sub-paragraph (a) applies, the English service provider must use at least one means of communication other than that used to give the notice to the customer.
+
+(7) For the purposes of paragraph (6), the English service provider must, when contacting the customer, give the customer—
+
+- (a) the information mentioned in paragraph (4)(a) to (d), (f) and (h),
+- (b) the information mentioned in paragraph (4)(e), unless the English service provider is contacting the customer by telephone, and
+- (c) a reasonable period within which to contact the English service provider to make arrangements for the payment of the charges or to dispute, or otherwise make representations in connection with, them.
+
+(8) If an English service provider—
+
+- (a) before taking a relevant step, fails—
+  - (i) to give a domestic customer an outstanding charges notice;
+  - (ii) to make a second attempt to contact a domestic customer who does not confirm receipt of the notice;
+  - (iii) to make a second attempt to contact a domestic customer who confirms they have received the outstanding charges notice, but does not contact the English service provider to make arrangements for the payment of the outstanding charges or otherwise make representations in connection with them;
+  - (iv) when making a second attempt to contact the customer, to give the customer all of the information required under paragraph (7),
+- (b) takes a relevant step before the end of the period specified in accordance with paragraph (4)(g) or given under paragraph (7)(b), or
+- (c) takes a relevant step without taking account of any steps taken, or representations or payments made, by the customer in connection with the payment of the outstanding charges,
+
+the English service provider must pay the customer £150.
+
+(9) In this regulation—
+
+- (a) “**credit reference agency**” has the meaning given by section 145(8) of the [Consumer Credit Act 1974](https://www.legislation.gov.uk/ukpga/1974/39);
+- (b) “**domestic customer**” has the meaning given by regulation 17ID(10).
+
+### 17IB. Moving to measured charging for supply of water
+
+(1) This regulation applies where a customer gives an English service provider a measured charges notice (an “MC notice”) on or after 1st October 2025.
+
+(2) The English service provider must give the customer a voluntary measured charging notice if the English service provider—
+
+- (a) is not obliged to give effect to the MC notice (see section 144A(3) of the WIA), but
+- (b) agrees to fix charges in respect of the supply of water to the MC premises by reference to the volume of water supplied.
+
+(3) A “voluntary measured charging notice” is a notice which—
+
+- (a) sets out any actions which the customer and the English service provider agree must be taken by or on behalf of the customer to enable charges for the supply of water in respect of the MC premises to be fixed by reference to the volume of water supplied (each an “agreed action”),
+- (b) sets out any payments which the customer is required to make towards the cost of installing a meter in respect of the MC premises,
+- (c) if the customer is required to make any such payments, sets out whether any of those payments must be made before any work to the install the meter, or in connection with such installation, begins (each an “advance payment”), and
+- (d) specifies the period before the end of which the supply of water to the MC premises will begin to be measured by volume of water supplied.
+
+(4) The period specified for the purposes of paragraph (3)(d) must begin with—
+
+- (a) if there are any agreed actions or advance payments, the date on which the last of those actions is taken or payments made (as the case may be), or
+- (b) if there are no such actions or payments, the day after the day on which the voluntary measured charging notice is given to the customer.
+
+(5) The English service provider must pay the relevant amount to the customer if the English service provider does not begin to measure the supply of water in respect of the MC premises by volume for charging purposes on or before the anticipated measured charging date.
+
+(6) But the English service provider need not pay the relevant amount to the customer if—
+
+- (a) where the English service provider is not obliged to give effect to the MC notice (see section 144A(3) of the WIA), the customer notifies the English service provider, before the anticipated measured charging date, that they no longer want charges in respect of the supply to be fixed by reference to the volume of water supplied;
+- (b) the English service provider was prevented from beginning to measure the supply by volume for charging purposes before the anticipated measured charging date by—
+  - (i) industrial action by any of its employees, or
+  - (ii) the act or default of a person other than—
+    - (aa) the customer;
+    - (bb) an officer of the English service provider;
+    - (cc) an employee of the English service provider;
+    - (dd) an agent of the English service provider;
+    - (ee) a person acting on behalf of the customer;
+    - (ff) a person acting on behalf of the English service provider;
+    - (gg) a person acting on behalf of an agent of the English service provider.
+
+(7) The “relevant amount” is a sum equal to the charges payable by the customer for the supply of water in respect of the MC premises for the period—
+
+- (a) beginning with the day after the anticipated measured charging date, and
+- (b) ending when the English service provider begins to measure the supply by volume for charging purposes.
+
+(8) The “anticipated measured charging date” is—
+
+- (a) where the English service provider is obliged to give effect to the MC notice under section 144A(2) of the WIA—
+  - (i) the last day of the section 144A(2) period, or
+  - (ii) if earlier, the last day of the period of eight weeks beginning with the relevant date;
+- (b) where the English service provider is not obliged to give effect to the MC notice under section 144A(2) of the WIA, the last day of the period specified for the purposes of paragraph (3)(d).
+
+(9) For the purposes of paragraph (8)(a)(ii), the relevant date is—
+
+- (a) the day on which the customer gives the MC notice to the English service provider, or
+- (b) if a dispute between the customer and the English service provider about the application of section 144A(3)(a) or (b) of the WIA is referred to the Authority for determination under section 30A of that Act, the day on which—
+  - (i) the Authority makes its determination, or
+  - (ii) if the party referring the dispute to the Authority withdraws their referral, the referral is withdrawn.
+
+(10) In this regulation—
+
+- “**MC premises**” means the premises in relation to which a customer gives an MC notice;
+- “**measured charges notice**” has the meaning given for the purposes of section 144A of the WIA (see subsection (1) of that section);
+- the “**section 144A(2) period**” means the period determined in accordance with the English undertaker’s charges scheme for the purposes of section 144A(2) of the WIA.
+
+### 17IC. Reading of meters
+
+(1) The English service provider must read a customer’s relevant meter—
+
+- (a) at least once before the end of the period of 13 months beginning with the relevant date, and
+- (b) at least once in each successive period of 13 months.
+
+(2) If the English service provider fails, without a reasonable excuse, to read a customer’s relevant meter in a 13-month period as required by paragraph (1), it must pay the customer—
+
+- (a) £40, if it is the first time that the English service provider has failed, without a reasonable excuse, to read the customer’s meter as required by that paragraph;
+- (b) £80, if it is the second or subsequent time that the English service provider has failed, without a reasonable excuse, to read the customer’s meter as required by that paragraph.
+
+(3) For the purposes of this regulation, an English service provider has a reasonable excuse for failing to read a customer’s relevant meter as required by paragraph (1) if, in particular, it is prevented from doing so in the 13-month period by—
+
+- (a) the customer—
+  - (i) refusing it, or any person acting on its behalf, admission to the premises for the purposes of reading the meter, or
+  - (ii) obstructing it, or any person acting in its behalf, in their attempts to read the meter,
+- (b) industrial action by any of its employees, or
+- (c) the act or default of a person other than—
+  - (i) the customer;
+  - (ii) an officer of the English service provider;
+  - (iii) an employee of the English service provider;
+  - (iv) an agent of the English service provider;
+  - (v) a person acting on behalf of the customer;
+  - (vi) a person acting on behalf of the English service provider;
+  - (vii) a person acting on behalf of an agent of the English service provider.
+
+(4) For the purposes of this regulation—
+
+- “**relevant date**”—
+  - (a) in relation to a meter installed before 1st October 2025, means 1st October 2025;
+  - (b) in relation to a meter installed on or after that date, means the day on which the meter is installed;
+- “**relevant meter**” means a meter, other than a smart meter, for measuring the volume of water supplied to any premises;
+- “**smart meter**” means a meter that is installed to record water supplied to any premises, that can be read without having direct access to the meter installation and that can record data at least every 24 hours.
+
+### 17ID. Core priority services
+
+(1) An English service provider must keep and maintain a register (a “Core Priority Services Register”) of the domestic customers whose circumstances are such that they require one or more core priority services to be provided to them by the English service provider.
+
+(2) The “core priority services” are—
+
+- (a) delivery of an alternative water supply during any supply interruption;
+- (b) use of alternative formats of communication, such as braille, audio information or large print;
+- (c) allowing a person appointed by, or on behalf of, the customer to manage their account on their behalf.
+
+(3) The English service provider must ensure that a customer can request inclusion in the Core Priority Services Register if they wish to do so.
+
+(4) But the English service provider must not make such a request a condition of inclusion in the Core Priority Services Register.
+
+(5) If, before 1st October 2025, an English service provider provides one or more core priority services to any of its domestic customers, it must—
+
+- (a) include those customers in the Core Priority Services Register on 1st October 2025, and
+- (b) give each of those customers a CPSR inclusion notice before the end of the relevant period.
+
+(6) If an English service provider receives a request from a domestic customer, on or after 1st October 2025, to be included on the Core Priority Services Register, it must, before the end of the relevant period, give the customer—
+
+- (a) a CPSR inclusion notice, or
+- (b) if it decides not to include the customer in the Core Priority Services Register, a statement of the reasons for its decision.
+
+(7) A “CPSR inclusion notice” is a notice which includes the following information—
+
+- (a) a statement of the reasons for which a domestic customer is being included in the Core Priority Services Register,
+- (b) the core priority services which will be provided to the domestic customer whilst they remain included in the Core Priority Services Register (each a “relevant core priority service”), and
+- (c) where the English service provider indicates that it will provide a particular core priority service in response to an incident or type of incident (including emergencies), the latest time by which it expects to provide that service following such an incident.
+
+(8) The English service provider must pay a domestic customer £100 if—
+
+- (a) it includes the customer in the Core Priority Services Register, but
+- (b) does not give the customer a CPSR inclusion notice before the end of the relevant period.
+
+(9) The English service provider must pay a domestic customer £100 if it—
+
+- (a) fails to provide one or more relevant core priority services to the customer in response to an incident, or
+- (b) provides one or more relevant core priority services in response to an incident, but provides any of those services after the time included in the CPSR notice in accordance with paragraph (7)(c) for that service.
+
+(10) For the purposes of this regulation—
+
+- (a) a “domestic customer” is a customer who is supplied with water or sewerage services (or both) at domestic premises (but excludes such a customer to the extent they are provided with any such services at premises other than domestic premises);
+- (b) “the relevant period” is the period of 30 days beginning with—
+  - (i) in relation to a domestic customer who makes a request to be included in the Core Priority Services Register, the day on which the English service provider receives that request;
+  - (ii) otherwise, the day on which the domestic customer is included in the Core Priority Services Register.
+
+### 17IE. Water quality notices: restrictions on consumption etc. of water
+
+(1) This regulation applies where an English wholesaler serves a notice (a “water quality notice”) on a customer on or after 1st October 2025 for the purposes of section 75(2)(b) of the WIA in relation to any premises which requires the customer to take one or more of the following steps—
+
+- (a) not to consume any water supplied to the premises;
+- (b) not to use for any purpose any water supplied to the premises;
+- (c) to boil any water supplied to the premises before it is consumed;
+- (d) to boil any water supplied to the premises before it is used for any purpose.
+
+(2) If the quality of supply is not restored by the end of the initial 48 hour period—
+
+- (a) the English service provider must pay the customer an amount which is equal to the lesser of—
+  - (i) the sum of the water supply charges payable by the customer to the English service provider for the financial year in which the notice is served, and
+  - (ii) the water quality amount, and
+- (b) the English wholesaler must pay the English service provider in accordance with regulation 17K.
+
+(3) For the purposes of this regulation, the quality of supply is restored only if all of the steps specified in the water quality notice no longer need to be taken.
+
+(4) The water quality amount is a sum equal to BA + (SA × P), where—
+
+- (a) “BA” is the base amount;
+- (b) “SA” is the supplementary amount; and
+- (c) “P” is the number of complete periods of 24 hours after the end of the initial 48 hour period during which the quality of supply to the affected premises is not restored.
+
+(5) For the purposes of paragraph (4)—
+
+- (a) the base amount is—
+  - (i) £40, if the affected premises are domestic premises;
+  - (ii) £60, if the affected premises are not domestic premises;
+- (b) the supplementary amount is—
+  - (i) £20, if the affected premises are domestic premises;
+  - (ii) £40, if the affected premises are not domestic premises.
+
+(6) But the English service provider is not required to make a payment under paragraph (2)(a) if—
+
+- (a) the water used for the supply was polluted, or contaminated, by the customer contrary to section 72 or 73 of the WIA;
+- (b) the water quality notice was served due to drought or immediately following a period of drought;
+- (c) the water supply to the premises is interrupted or cut-off by the English wholesaler in exercise of its powers under section 75(7) of the WIA.
+
+(7) In this regulation “**the initial 48 hour period**” means the period of 48 hours beginning when the water quality notice is served.
+
+### 17IF. Indexation
+
+(1) This regulation applies where there is a relevant increase in the consumer prices index in relation to a payment change date.
+
+(2) There is a relevant increase in the consumer prices index in relation to a payment change date if there is a percentage increase of at least 10% in the consumer prices for the reference month compared to the consumer prices index for September 2025.
+
+(3) Where this regulation applies, the specified amounts—
+
+- (a) are to be adjusted by the relevant increase in the consumer prices index, and
+- (b) rounded to the nearest £5.
+
+(4) The increase in a specified amount in accordance with paragraph (3) applies only in respect of a breach of a service standard which occurs on or after the payment change date on which the specified amounts are increased.
+
+(5) For the purposes of this regulation, “the specified amounts” are each of the amounts payable under regulations 17C to 17IE, 17J and 17JA.
+
+(6) In this regulation—
+
+- “**consumer prices index**” means the all items consumer prices index published by the Statistics Board;
+- “**payment change date**” means—
+  - (a) 1st April 2026, or
+  - (b) 1st April in any subsequent year;
+- “**the reference month**”, in relation to a payment change date, means the September immediately preceding that date.
+
+### 17J. Timing etc. of payments under regulations 17C to 17H and 17IA to 17IE[^key-fb4aabeb1393a649e2a848b3f1df1fb6][^key-4d6e1eb14613bdbf8a47c050eb5e7426]
+
+(1) Where an English service provider is required to make a payment to a customer under a provision of this Part (other than regulation 17I), the English service provider must make that payment—
+
+- (a) before the end of the initial payment period, and
+- (b) whether or not the customer has made a claim for the payment.
+
+(2) The initial payment period is—
+
+- (a) in the case of a payment under regulation 17C or 17D, the period of 10 working days beginning with the breach date;
+- (b) in the case of a payment under regulation 17E, 17F, 17G, 17H, 17IA, 17IB, 17IC, 17ID or 17IE, the period of 20 working days beginning with the breach date.
+
+(3) For the purposes of this regulation “the breach date” is the day on which the breach of the service standard occurred.
+
+(4) The English service provider must pay the customer the further amount if the English service provider fails to make the payment to the customer in accordance with paragraph (1).
+
+(5) The further amount is—
+
+- (a) £100, where the payment is required under regulation 17E(5)(a)(ii) or 17F(4)(a)(ii) or (iii)(bb) or under regulation 17H in respect of premises other than domestic premises;
+- (b) £40, in any other case.
+
+(6) The English service provider need not pay the further amount to a customer if—
+
+- (a) the payment to be made to the customer was required under regulation 17E, 17F, 17G or 17H,
+- (b) the English service provider could not practicably have identified the customer as having been affected by the breach of the service standard without a claim being made for that payment, and
+- (c) the customer does not make a valid claim for the original payment before the end of the period of three months beginning with the breach date.
+
+### 17JA. Timing of payments under regulation 17I
+
+(1) Where an English service provider is required to make a payment to a customer under regulation 17I, the English service provider must make the payment to the customer before the end of the period of 20 working days beginning with the day on which the customer makes a claim under paragraph (5) of that regulation.
+
+(2) If the English service provider fails to make the payment to the customer in accordance with paragraph (1), it must pay the customer £40.
+
+### 17K. Payments by English wholesalers to English service providers
+
+(1) This regulation applies where—
+
+- (a) an English wholesaler is responsible for a breach of a service standard that gives rise to a payment obligation on the English service provider under any of regulations 17C to 17IE[^key-12540c9437ab49d4bc075350eb978ecc]; and
+- (b) the English wholesaler is not the English service provider.
+
+(2) Where this regulation applies the English wholesaler must pay the English service provider the sum required to be paid by the English service provider to the customer for the breach of the service standard specified in the relevant regulation.
+
+(3) The English wholesaler must make any payment required by paragraph (2) by the payment deadline.
+
+(4) For the purposes of this regulation “the payment deadline” means the day by which the English service provider must pay the customer under regulation 17J(1) or 17JA(1)[^key-a67fa5d06ca66c697c93cda3a461688d] as appropriate.
+
+### 17L. Means of payment, including where customer is in arrears
+
+(1) A customer who is entitled to payment under this Part may ask the English service provider concerned to make the payment directly to the customer.
+
+(2) If the customer has not asked for direct payment, the English service provider may make the payment directly to the customer or by credit to the customer’s account.
+
+(3) If—
+
+- (a) a customer of an English service provider is entitled to a payment under this Part but owes money to the English service provider; and
+- (b) at the material time, the customer’s debt to the English service provider has been outstanding for more than 6 weeks;
+
+the English service provider must make the payment, or so much of it as does not exceed the amount that the customer owes, by credit to the customer’s account.
+
+(4) For the purposes of paragraph (3)(b), “the material time” is—
+
+- (a) if the payment is payable without a written claim being made, the time when it becomes payable; or
+- (b) otherwise, the time when the customer makes a written claim for it.
+
+### 17M. Payments not to affect other legal liabilities
+
+(1) The making of a payment by an English service provider to a customer in consequence of a claim or potential claim for payment under this Part is not an admission by that English service provider of any liability other than an obligation to comply with these Regulations.
+
+(2) The acceptance by a customer of a payment or credit made in consequence of this Part does not affect any liability of the English service provider to the customer other than its liability under these Regulations.
+
+### 17N. Notice of rights to be given to customers
+
+(1) An English service provider must, at least once in every financial year, give every customer to whom it sends an account in that year a detailed statement of the rights provided by this Part.
+
+(1A)[^key-00f39a0b9c524d6a2e715ed46edda289] The statement referred to in paragraph (1) for each financial year beginning on or after 1st April 2026, must include—
+
+- (a) a statement as to whether the English service provider accepts relevant communications from customers made using either or both of the following—
+  - (i) an alternative means of communication;
+  - (ii) email;
+- (b) a statement as to how the relevant addresses will be notified to customers by the English service provider;
+- (c) a statement as to whether the English wholesaler accepts relevant communications from customers made using either or both of the following—
+  - (i) an alternative means of communication;
+  - (ii) email; and
+- (d) a statement as to how the relevant addresses will be notified to customers by the English wholesaler.
+
+(1B) For the purposes of paragraph (1A)—
+
+- (a) “**an alternative means of communication**” has the meaning given for the purposes of regulation 17D(7A);
+- (b) “relevant communication”—
+  - (i) in relation to an English service provider, means—
+    - (aa) a complaint about the supply of water or the provision of sewerage services by the provider,
+    - (bb) a query about the correctness of an account for the supply of water or the provision of sewerage services, or
+    - (cc) a request for a change to payment arrangements;
+  - (ii) in relation to an English wholesaler, means a complaint about the water supply system or sewerage system of the wholesaler;
+- (c) “**relevant addresses**”, in relation to an English duty-holder, means—
+  - (i) an address that may be used to make relevant communications to the duty-holder;
+  - (ii) a telephone number that may be used to make such communications;
+  - (iii) the relevant website (if any) that may be used to make such communications;
+  - (iv) the alternative means of communication (if any) that may be used to make such communications; and
+  - (v) the email address (if any) that may be used to make such communications;
+- (d) “**relevant website**” means a website provided by or on behalf of an English duty-holder.
+
+(2) If an English service provider is aware that accounts to a customer cover the supply of water or sewerage services to other customers it must—
+
+- (a) give the customer enough copies of the statement referred to in paragraph (1) to enable the customer to give a copy to each of those other customers; or
+- (b) send a copy of the statement to each of those other customers directly.
+
+### 17O. Reference of disputes to the Authority
+
+(1) In this regulation, “dispute” means—
+
+- (a) a dispute between an English service provider and a customer as to the right of the customer to a payment or a credit to the customer’s account; or
+- (b) a dispute between an English service provider and an English wholesaler as to the right of the English service provider to a payment under regulation 17K or the right of a customer to a payment or credit to the customer’s account.
+
+(2) If a dispute arises under this Part either party to the dispute may refer the matter to the Authority for determination.
+
+(3) The Authority may require an English service provider, an English wholesaler or a customer to provide information or other assistance for the purpose of enabling the Authority to make a determination under paragraph (2).
+
+(4) A requirement imposed on an English service provider or an English wholesaler under paragraph (3) is enforceable under section 18 of the WIA (orders for securing compliance with certain provisions) by the Authority.
+
+(5) If a dispute under paragraph (1)(a) is determined by the Authority in the customer’s favour but the English service provider fails to give effect to the determination, the customer may set off the amount in question against any liability that he has to the English service provider.
+
+### 17P. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in this Part, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 1st April 2022.
+
+(3) Subsequent reports must be published at intervals not exceeding five years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a) above;
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation, “regulatory provision” has the meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+## PART 4 — Revocation[^key-33c440ddfb58b25e3da70ee194ed2c3c]
+
+### 18. Revocation
+
+The Regulations set out in the Schedule are revoked.
+
+Signed by authority of the Secretary of State
+
+Phil Woolas
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+3rd March 2008
+
+Jane Davidson
+
+Minister for Environment, Sustainability and Housing, one of the Welsh Ministers
+
+4th March 2008
+
+## THE SCHEDULE — Regulations revoked
+
+Regulation 18
+
+| Regulations | References | Extent of revocation |
+| --- | --- | --- |
+| The Water Supply and Sewerage Services (Customer Service Standards) Regulations 1989 | [S. I. 1989/1159](https://www.legislation.gov.uk/uksi/1989/1159) | The whole |
+| The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 1989 | [S. I. 1989/1383](https://www.legislation.gov.uk/uksi/1989/1383) | The whole |
+| The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 1993 | [S. I. 1993/500](https://www.legislation.gov.uk/uksi/1993/500) | The whole |
+| The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 1996 | [S. I. 1996/3065](https://www.legislation.gov.uk/uksi/1996/3065) | The whole |
+| The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2000 | [S. I. 2000/2301](https://www.legislation.gov.uk/uksi/2000/2301) | The whole |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Sections 38 and 39 of the Water Industry Act 1991 (“the Act”) authorise the Secretary of State to make regulations by statutory instrument setting out service standards that must be met by water undertakers, and sections 95 and 96 make similar provision in relation to sewerage undertakers. The regulations may provide for payments to be made to customers for failure to meet the prescribed standards. The power to make such standards in relation to water undertakers and sewerage undertakers whose areas are wholly or mainly in Wales was devolved to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, [SI 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2(a), Schedule 1 (as amended by the National Assembly for Wales (Transfer of Functions) Order 2000, [SI 2000/253](https://www.legislation.gov.uk/uksi/2000/253), article 4, Schedule 3(e)). By virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), functions conferred on the National Assembly for Wales are exercisable by the Welsh Ministers.
+
+The new Regulations revoke the existing Water Supply and Sewerage Services (Customer Service Standards) Regulations 1989. The new Regulations provide a consolidated text, in revised language, of the revoked Regulations, but extend the rights of customers to payments for flooding of customers’ land or property by sewer overflowing. In addition, the standards of performance to be met and the payments to be made by undertakers whose areas are wholly or mainly in England have also now been applied to undertakers whose areas are wholly or mainly in Wales. Formerly there were different standards of performance for, and payments by, undertakers whose areas are wholly or mainly in Wales.
+
+## Annotations
+
+[^f00001]: Footnote: The functions under sections 38 and 95 of the Water Industry Act 1991 in relation to water undertakers and sewerage undertakers whose areas are wholly or mainly in Wales were conferred on the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, [SI 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2(a), Schedule 1 (as amended by the National Assembly for Wales (Transfer of Functions) Order 2000, [SI 2000/253](https://www.legislation.gov.uk/uksi/2000/253), article 4, Schedule 3(e)). By virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), functions conferred on the National Assembly for Wales are now exercisable by the Welsh Ministers.
+
+[^f00002]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^f00003]: Footnote: [S.I. 1989/1159](https://www.legislation.gov.uk/uksi/1989/1159).
+
+[^key-9414c60e325e79218a624ea36ecb2ee7]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2008/594/part/1) heading inserted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/246/regulation/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+
+[^key-2615661514000bd94abd0a71b8591b1d]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2008/594/regulation/4) omitted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/246/regulation/4/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+
+[^f00004]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-18dcda519f5a8855c9873f5dfd897a34]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/4/2) omitted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/246/regulation/4/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+
+[^key-ba2f9b9464775330565d0d3d7392da6b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2008/594/part/2) heading and reg. 4A inserted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/246/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+
+[^key-529334619cbff7be0c15614e8fc81dc3]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+
+[^key-ddc51ade794c984d2e9fc9badec24a4c]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+
+[^key-4a94a5734cee6c28ac8fc71e3180920e]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/c) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+
+[^key-14faa376f40dcf2e2b3509c039b22805]: Textual amendment: Words in [regs. 5-17](https://www.legislation.gov.uk/uksi/2008/594/regulation/5) substituted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2017/246/regulation/6/d) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+
+[^key-d6749476f4dd9db8aa683d141a125a64]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2008/594/part/3) inserted (1.4.2017) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2017/246/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))
+
+[^key-f35bb5b998113cba4d91df0bb2dc9e67]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2008/594/regulation/17A) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/4/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-1d282d2ec1b280765c28598fc09fe290]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2008/594/regulation/17A) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/4/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-65d90935953889eb24c993c48ffa40c9]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2008/594/regulation/17A) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/a), [4(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/4/c) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-9a2b0ee3692e573a1917634cd64ac4c9]: Textual amendment: Words in [reg. 17B](https://www.legislation.gov.uk/uksi/2008/594/regulation/17B) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/662/regulation/5) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-57d9e799b1a774ed42ac42f58bde9e45]: Textual amendment: [Reg. 17C(1)-(1B)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/1) substituted for [reg. 17C(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/1) (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/b), [6(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-6feb1b96d94f86da3d05a9339bf86264]: Textual amendment: Words in [reg. 17C(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/2) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-c1264296c103fa4f534dc7583122e610]: Textual amendment: Words in [reg. 17C(3)(d)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/3/d) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-90c0d5395a2708fd00ecb1d93a15c875]: Textual amendment: [Reg. 17C(4)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/a)[(aa)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/aa) substituted for [reg. 17C(4)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/a) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-798ce34287493a1b387b07f8bbfd0971]: Textual amendment: Words in [reg. 17C(4)(b)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/4/b) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-0a1687cdd6dccd41c97874c1feca77b5]: Textual amendment: [Reg. 17C(5)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/5) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/6) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-2cd73e5cd724fc3877dfd249e922442b]: Textual amendment: Words in [reg. 17C(6)(b)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/6/b) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(7)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/7/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-4df480348945d95cd74a48c13559ccf4]: Textual amendment: Words in [reg. 17C(6)(c)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/6/c) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(7)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/7/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-f557877e829df94d991d85d7b01dfda0]: Textual amendment: Words in [reg. 17C(7)(b)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/7/b/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(8)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/8/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-2e1763102f9b558cf1e2f879462d3659]: Textual amendment: Words in [reg. 17C(7)(c)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/7/c/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(8)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/8/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-2a8b78308db32f17f066b8782e687dcb]: Textual amendment: Words in [reg. 17C(8)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17C/8) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [6(9)](https://www.legislation.gov.uk/uksi/2025/662/regulation/6/9) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-cc134486f79908bd90b0474d0043e2fa]: Textual amendment: [Reg. 17D(1)(a)-(c)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/1/a) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(2)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/2/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-ce8cf4f5359e964fd3275cb307a170bf]: Textual amendment: [Reg. 17D(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/1A) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-df33f59c1f6c75f55876640f81890336]: Textual amendment: [Reg. 17D(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/2) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-7e32e4ab92907c18cdd9a9603cf7fb78]: Textual amendment: Words in [reg. 17D(3)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/3/a) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-d23b7eb805b2eb16e478d26b58082521]: Textual amendment: Words in [reg. 17D(3)(b)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/3/b) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-b7e4f933a56200ba26241a171d0f0289]: Textual amendment: [Reg. 17D(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/4) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(6)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/6) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-0af2d1e0d052365c0c8aed7d6cb4a56b]: Textual amendment: Sum in reg. 17D(5)(a) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [7(7)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/7) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-611c25bd76f3f1e76f8c2340f6a155dd]: Textual amendment: [Reg. 17D(6)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/6) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [7(8)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/8) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-bd1b80e9243a1479daf763ab63dc8f9e]: Textual amendment: [Reg. 17D(7)(a)-(ab)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/a) substituted for [reg. 17D(7)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/a) (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(9)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/9/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-c685c6ecab26013d97aa9d798fa3f922]: Textual amendment: [Reg. 17D(7)(e)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/e)[(ea)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/ea) substituted for [reg. 17D(7)(e)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7/e) (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(9)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/9/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-6566202bba4ddba38d7cee257105c868]: Textual amendment: [Reg. 17D(7A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/7A) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(10)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/10) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-a2728fcbec5e0cf0cdae59d855d2cd9d]: Textual amendment: [Reg. 17D(8)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17D/8) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/c), [7(11)](https://www.legislation.gov.uk/uksi/2025/662/regulation/7/11) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-43eaee112c87ced49ba66b4953c97637]: Textual amendment: [Reg. 17E(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/1)[(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/1A) substituted for [reg. 17E(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/1) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-7c667dfda8c01420b5a07c5a7ed88db4]: Textual amendment: Words in [reg. 17E(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/2) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-49ac32c1b79da58fbf5eddc277c24ab4]: Textual amendment: [Reg. 17E(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/3) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-686131ed55f99c10fc5b74b7bc42583a]: Textual amendment: Sum in reg. 17E(5)(a)(i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-23cc2c627c7234374bf13b75c7dc01d0]: Textual amendment: Sum in reg. 17E(5)(a)(ii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-bb959c3dbfc76cb02a4b2f815b4812b8]: Textual amendment: [Reg. 17E(6)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17E/6) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [8(6)](https://www.legislation.gov.uk/uksi/2025/662/regulation/8/6) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-77fbc49ab35cc52688e76e62e88cb500]: Textual amendment: Words in [reg. 17F](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F) heading inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-be6d2e7f744e94275f5a38e1e4d45163]: Textual amendment: [Reg. 17F(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/1)[(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/1A) substituted for [reg. 17F(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/1) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-38cb090c91cb5d0f220aff50432c3b7b]: Textual amendment: [Reg. 17F(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/2) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-ef2f889dccde83dcccedfbe20a311771]: Textual amendment: [Reg. 17F(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/3) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(5)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/5) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-0faea7f6c00a3b3591e5c50d90652a37]: Textual amendment: Words in [reg. 17F(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/4) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-ab89e6682624d100d2424e4159f5c2f6]: Textual amendment: Words in [reg. 17F(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/4) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-087142f50c02ce96eb83f71dde1fdbd9]: Textual amendment: Sum in reg. 17F(4)(a)(i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(i)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/i) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-ccbc00e0c3b060a960cd868cf86f23ba]: Textual amendment: Sum in reg. 17F(4)(a)(ii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/ii) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-135665108d9015dfd2d7e39bf932361f]: Textual amendment: Word in [reg. 17F(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/4/a/iii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/iii) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-cfa12b4e536302ff47bc85c000c992f3]: Textual amendment: Sum in reg. 17F(4)(a)(iii)(aa) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(iv)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/iv) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-40d2b132a7904a9ad7efd34280dd6a34]: Textual amendment: Sum in reg. 17F(4)(a)(iii)(bb) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(6)(c)(v)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/6/c/v) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-e73f8acb9d006c2b932bebbd1d49de8e]: Textual amendment: [Reg. 17F(5)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/5) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(7)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/7) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-27dc753f296eab477e483de3dea158ae]: Textual amendment: [Reg. 17F(6)(a)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/6/a/i) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(8)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/8) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-f4847f52ebd8094e1faaf7a3fba352d0]: Textual amendment: [Reg. 17F(6A)-(6C)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/6A) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(9)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/9) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-9d7e70b971bb627aa17894145d98c6cf]: Textual amendment: [Reg. 17F(7)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17F/7) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [9(10)](https://www.legislation.gov.uk/uksi/2025/662/regulation/9/10) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-74cb1034502d8c7fa15c590d4cf227b2]: Modification: [Reg. 17G(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/1) modified (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2025/662/regulation/19)
+
+[^key-023a692e1b384ec412ffd42531d70502]: Textual amendment: Words in [reg. 17G(1)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/1) inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-6518a1b342439150b2d77ee129259e8b]: Textual amendment: [Reg. 17G(2)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/2)[(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/3) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-ab9f935df0a26aed4af4febfd964db46]: Textual amendment: [Reg. 17G(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/4) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-7e5db0d156dfa5275d2ec2d4f6a11c0a]: Textual amendment: [Reg. 17G(5)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/5/a) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-f2b7469b555398edc1a5fa1bdfa1598c]: Textual amendment: Words in [reg. 17G(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/5/b/ii) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-fcfa2504544b236e6804da81c9f7946c]: Textual amendment: Words in [reg. 17G(5)(c)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17G/5/c) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [10(5)(c)](https://www.legislation.gov.uk/uksi/2025/662/regulation/10/5/c) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-3dff5b5489fd1ea1b668a92151dd724e]: Textual amendment: [Reg. 17H(1)-(2F)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/1) substituted for reg. 17H(1)(2) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-f20e551afdb267b94a71af3fb1178430]: Textual amendment: [Reg. 17H(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/3) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-92cbc24b616cccee9bd051c01ef6bb6a]: Textual amendment: [Reg. 17H(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/4) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-183e3fb6797d4ca0aee47593962e3550]: Textual amendment: Words in [reg. 17H(5)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/5) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(4)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/4/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-f19e820b85f8aeef1016822e5276c9c3]: Textual amendment: [Reg. 17H(5)(a)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17H/5/a/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [11(4)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/11/4/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-88e3aded2dea9e44da280425467e9844]: Textual amendment: Words in [reg. 17I](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I) heading inserted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-5b4a2492aa9ffcaf8a43fd4e72a56027]: Textual amendment: [Reg. 17I(1)-(2F)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/1) substituted for reg. 17I(1)(2) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/3) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-7a5d15ab56fdcd94c8449be966258c70]: Textual amendment: [Reg. 17I(3)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/3) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/4) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-1b9f19ea22d9d91860a22db8101dd64e]: Textual amendment: Words in [reg. 17I(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/4) omitted (2.7.2025) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(5)(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/5/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-bff4ed0506301ece62d6aa21c9aadb32]: Textual amendment: [Reg. 17I(4)(a)(i)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17I/4/a/i) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [12(5)(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/12/5/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-6398f269a3ed52c585242a89dd67053f]: Textual amendment: [Regs. 17IA-17IF](https://www.legislation.gov.uk/uksi/2008/594/regulation/17IA) inserted (2.7.2025 for specified purposes, 1.10.2025 in so far as not already in force) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/d)[(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [13(1)](https://www.legislation.gov.uk/uksi/2025/662/regulation/13/1) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-fb4aabeb1393a649e2a848b3f1df1fb6]: Modification: [Reg. 17J](https://www.legislation.gov.uk/uksi/2008/594/regulation/17J) modified (temp.) (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [14(2)](https://www.legislation.gov.uk/uksi/2025/662/regulation/14/2) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-4d6e1eb14613bdbf8a47c050eb5e7426]: Textual amendment: [Regs. 17J](https://www.legislation.gov.uk/uksi/2008/594/regulation/17J), [17JA](https://www.legislation.gov.uk/uksi/2008/594/regulation/17JA) substituted for reg. 17J (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [14(1)](https://www.legislation.gov.uk/uksi/2025/662/regulation/14/1) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-12540c9437ab49d4bc075350eb978ecc]: Textual amendment: Word in [reg. 17K(1)(a)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17K/1/a) substituted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/e), [15(a)](https://www.legislation.gov.uk/uksi/2025/662/regulation/15/a) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-a67fa5d06ca66c697c93cda3a461688d]: Textual amendment: Words in [reg. 17K(4)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17K/4) substituted (2.7.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/3), [15(b)](https://www.legislation.gov.uk/uksi/2025/662/regulation/15/b) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-00f39a0b9c524d6a2e715ed46edda289]: Textual amendment: [Reg. 17N(1A)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17N/1A)[(1B)](https://www.legislation.gov.uk/uksi/2008/594/regulation/17N/1B) inserted (1.10.2025) by [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2025 (S.I. 2025/662)](https://www.legislation.gov.uk/uksi/2025/662), [regs. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/662/regulation/1/2/f), [16](https://www.legislation.gov.uk/uksi/2025/662/regulation/16) (with [regs. 17](https://www.legislation.gov.uk/uksi/2025/662/regulation/17), [18](https://www.legislation.gov.uk/uksi/2025/662/regulation/18))
+
+[^key-33c440ddfb58b25e3da70ee194ed2c3c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2008/594/part/4) heading inserted (1.4.2017) by virtue of [The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2017 (S.I. 2017/246)](https://www.legislation.gov.uk/uksi/2017/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/246/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/246/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/246/regulation/9))

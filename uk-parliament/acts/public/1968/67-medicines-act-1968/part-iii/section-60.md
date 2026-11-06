@@ -1,0 +1,27 @@
+---
+title: Medicines Act 1968, section 60
+act: Medicines Act 1968
+section: '60'
+status: revised-with-pending-changes
+text_date: '2025-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1968/67/section/60
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Medicines Act 1968, section 60
+
+> **Warning: changes not yet applied to this text (15).** Text as at 2025-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/67
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 60. Restricted sale, supply and administration of certain medicinal products.[^key-1560684867ab4084c23c7793638e1532]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-1560684867ab4084c23c7793638e1532]: Textual amendment: Ss. 59-61 repealed (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

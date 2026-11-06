@@ -1,0 +1,396 @@
+---
+title: The Pension (Non-Taxable Payments Following Death) (Real Time Information) Regulations 2021
+id: uksi/2021/506
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-04-26'
+text_date: '2024-11-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2021/506
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/506/pdfs/uksiem_20210506_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/506/pdfs/uksi_20210506_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/506/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pension (Non-Taxable Payments Following Death) (Real Time Information) Regulations 2021
+
+> Text as at 2024-11-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2021 No. 506
+
+Income Tax
+
+The Pension (Non-Taxable Payments Following Death) (Real Time Information) Regulations 2021
+
+Made
+
+26th April 2021
+
+Laid before the House of Commons
+
+27th April 2021
+
+Coming into force
+
+6th April 2022
+
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 132 of the Finance Act 1999[^f00001], section 135 of the Finance Act 2002[^f00002] and section 251(1), (2)(a), (b) and (d) and (6) of the Finance Act 2004[^f00003].
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-57bb7c31880b3fdef3ad8f560ea11409]
+
+These Regulations may be cited as the Pension (Non-Taxable Payments Following Death) (Real Time Information) Regulations 2021 and come into force on 6th April 2022.
+
+### 2. Interpretation[^key-6abbeb52066cfd0c6302f12ff0b594b0]
+
+In these Regulations—
+
+- “approved method of electronic communications”, in relation to the delivery of information in accordance with a provision of these Regulations, means a method of electronic communications which has been approved, by specific or general directions issued by the Commissioners, for the delivery of information of that kind or the making of a payment of that kind under that provision,
+- “the Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs,
+- “electronic communications” has the meaning given in section 132(10) of the Finance Act 1999,
+- “HMRC” means Her Majesty’s Revenue and Customs,
+- “national insurance number” means the national insurance number allocated within the meaning of regulation 9 of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations 2001[^f00004],
+- “official computer system” means a computer system maintained by or on behalf of HMRC,
+- “pension payer” means a person making a relevant payment,
+- “pension scheme” and “registered pension scheme” have the meanings given in section 150(1) and (2) respectively of the Finance Act 2004,
+- “relevant beneficiary” means a person to whom a relevant payment is made,
+- “relevant payment” has the meaning given in regulation 3, and
+- “tax year” means a year for which any Act provides for income tax to be charged.
+
+### 3. Relevant payments[^key-39d58dd9316f8a8c13f1a7ce387aebb3]
+
+(1) In these Regulations, any reference to a relevant payment means a payment of—
+
+- (a) pension that is payable after the death of a member of a pension scheme under pension rule 2 within the meaning of section 165(1) of the Finance Act 2004[^f00005],
+- (b) pension death benefit within the meaning of section 167(2) of that Act[^f00006], or
+- (c) lump sum death benefit within the meaning of section 168(2) of that Act[^f00007] other than—
+  - (i) defined benefits lump sum death benefit within the meaning of paragraph 13 of Schedule 29 to that Act[^f00008], [^key-8067f280223ebb7a9a0b8cf7ba2f5ddc]...
+  - (ii) uncrystallised funds lump sum death benefit within the meaning of paragraph 15 of Schedule 29 to that Act[^f00009],or[^key-ea47ab7e6e9215eef018e9e33b12fba9]
+  - (iii) charity lump sum death benefit within the meaning of paragraph 18 of Schedule 29 to that Act,
+
+that is not PAYE pension income within the meaning of section 683(3) of the Income Tax (Earnings and Pensions) Act 2003[^f00010].
+
+(2) In this regulation, “member” has the meaning given in section 151 of the Finance Act 2004.
+
+## PART 2 — Real time returns
+
+### 4. Real time returns of information about relevant payments[^key-1b77ce78125aa71561f0300218b51910]
+
+(1) On or before making a relevant payment, the pension payer must deliver to HMRC the information specified in the Schedule in accordance with this regulation.
+
+(2) The information must be included in a return.
+
+(3) Subject to paragraph (4), if relevant payments are made to more than one relevant beneficiary at the same time, the return under paragraph (2) must include the information required by the Schedule in respect of each relevant beneficiary to whom a relevant payment is made at that time.
+
+(4) If relevant payments are made to more than one relevant beneficiary at the same time but the pension payer operates more than one payroll, the pension payer must make a return in respect of each payroll.
+
+(5) The return must be made using an approved method of electronic communications.
+
+### 5. Returns under regulation 4: amendments[^key-70c3589c3aa9e80bb2a4e34c8d6ba7c0]
+
+(1) This regulation applies where there is an inaccuracy in a return made under regulation 4, whether careless or deliberate, and paragraph (2), (3) or (4) applies.
+
+(2) This paragraph applies where the inaccuracy relates to the information given in the return in respect of a relevant beneficiary under paragraph 16 of the Schedule.
+
+(3) This paragraph applies where the inaccuracy is the omission of details of a relevant payment made to a relevant beneficiary.
+
+(4) This paragraph applies where the inaccuracy arises because, as a result of a retrospective tax provision, the total amount of the relevant payment made by a pension payer to a relevant beneficiary increases for any tax year.
+
+(5) Where a pension payer becomes aware of an inaccuracy in a return submitted under regulation 4 the pension payer may provide the correct information in the next return for the tax year in question.
+
+(6) But if the information has not been corrected before 20th April following the end of the tax year in question, the pension payer may make a return under this paragraph.
+
+(7) A return under paragraph (6)—
+
+- (a) must include the following—
+  - (i) the information specified in paragraphs 2 to 4, 7 to 12 and 15 of the Schedule,
+  - (ii) the amount which should have been given under paragraph 16 of the Schedule in the final return under regulation 4 containing information in respect of the relevant beneficiary in the tax year in question, and
+  - (iii) the tax code used by the pension payer in respect of the relevant beneficiary in the tax year in question,
+- (b) must be made as soon as reasonably practicable after the pension payer becomes aware of the inaccuracy, and
+- (c) must be made by an approved method of electronic communications.
+
+### 6. Failure to make a return under regulation 4[^key-de3d5ec6f453624a1d2b0c624773592f]
+
+(1) This regulation applies where a pension payer does not make a return as required by regulation 4.
+
+(2) The pension payer must provide the information in the next return made under regulation 4 for the tax year in question.
+
+(3) If the pension payer does not provide the information before 20th April following the end of the tax year in question, the pension payer must make a return under this paragraph.
+
+(4) A return under paragraph (3) must—
+
+- (a) include the information specified in the Schedule,
+- (b) be made as soon as reasonably practicable after the discovery of the failure to make the return, and
+- (c) be made using an approved method of electronic communications.
+
+### 7. Penalty: failure to comply with regulation 4[^key-1a7ec0af238fbf8ca6b97d8036292998]
+
+(1) A pension payer which does not deliver a return in accordance with regulation 4 is liable to a penalty of the amount set out in paragraph (2).
+
+(2) Where a pension payer fails to deliver such a return and the number of relevant beneficiaries in the period to which the return relates is—
+
+- (a) no more than 9, the penalty is £100,
+- (b) at least 10 but no more than 49, the penalty is £200,
+- (c) at least 50 but no more than 249, the penalty is £300, and
+- (d) at least 250, the penalty is £400.
+
+(3) Paragraphs 6C(1) to (6), 6D, 16, 18(1) to (4), 19 to 23, 26 and 27 of Schedule 55 to the Finance Act 2009[^f00011] apply in relation to penalties under this regulation.
+
+## PART 3 — Electronic communications
+
+### 8. Whether relevant information has been delivered electronically[^key-22a740688ebfa0541695c1b855a24c6e]
+
+(1) For the purposes of these Regulations, information is taken to have been delivered to an official computer system by an approved method of electronic communications only if it is accepted by that official computer system.
+
+(2) But information which is delivered to an official computer system must meet the standards of accuracy and completeness set by specific or general directions given by the Commissioners.
+
+(3) Information which fails to meet those standards is treated as not having been delivered.
+
+### 9. Proof of content of electronic delivery[^key-19b7e800f9c05897213b6b909958f1d9]
+
+(1) A document certified by HMRC to be a printed-out version of information delivered by an approved method of electronic communications is evidence, unless the contrary is proved, that the information—
+
+- (a) was delivered by an approved method of electronic communications on that occasion, and
+- (b) constitutes everything which was delivered on that occasion.
+
+(2) A document which purports to be a certificate given in accordance with paragraph (1) is presumed, unless the contrary is proved, to be such a certificate.
+
+### 10. Proof of identity of person sending or receiving electronic delivery[^key-3e1d12e04b92de423d8a4749924c7ac0]
+
+The identity of—
+
+- (a) the person sending any information delivered by an approved method of electronic communications to HMRC, or
+- (b) the person receiving any information delivered by an approved method of electronic communications by HMRC,
+
+is presumed, unless the contrary is proved, to be the person recorded as such on an official computer system.
+
+### 11. Information sent electronically on behalf of a person[^key-780d423f8579750010882eade9716537]
+
+(1) Any information delivered by an approved method of electronic communications–
+
+- (a) to HMRC, or
+- (b) to an official computer system,
+
+on behalf of a person is taken to have been delivered by that person.
+
+(2) But this does not apply if the person proves that the information was delivered without the person’s knowledge or connivance.
+
+### 12. Proof of delivery of information sent electronically[^key-7e31d197c656df78e59fa5c933613abe]
+
+(1) The use of an approved method of electronic communications is presumed, unless the contrary is proved, to have resulted in the delivery of information—
+
+- (a) to HMRC, if the delivery of the information has been recorded on an official computer system,
+- (b) by HMRC, if the despatch of the information has been recorded on an official computer system.
+
+(2) The use of an approved method of electronic communications is presumed, unless the contrary is proved, not to have resulted in the delivery of information—
+
+- (a) to HMRC, if the delivery of the information has not been recorded on an official computer system,
+- (b) by HMRC, if the despatch of the information has not been recorded on an official computer system.
+
+(3) The time of receipt or despatch of any information delivered by an approved method of electronic communications is presumed, unless the contrary is proved, to be the time recorded on an official computer system.
+
+(4) The Commissioners may by a general or specific direction provide for information to be treated as delivered upon a different date (whether earlier or later) than that given by paragraph (3).
+
+### 13. Use of unauthorised method of electronic communications[^key-b4a012db948004e93900abf3423733a6]
+
+The use of a method of electronic communications for the purpose of delivering information which is required to be delivered to HMRC under a provision of these Regulations is conclusively presumed not to have resulted in the delivery of that information, unless that method of electronic communications is for the time being approved for delivery of information of that kind under that provision.
+
+Angela MacDonald
+
+Justin Holliday
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+26th April 2021
+
+## SCHEDULE — Real time returns – specified information
+
+Regulations 4, 5 and 6
+
+**1.**[^key-4e5c421c58cb6e7a06cae2a4da6431d5] The information specified in this Schedule is as follows.
+
+**2.**[^key-a1b8a9e7f28d016ad4c4cacacd7e3d39] The number allocated by HMRC as the pension payer’s HMRC office number.
+
+**3.**[^key-2c4871da0a8b322dd09574a0a97c248b] The number allocated by HMRC as the pension payer’s PAYE reference.
+
+**4.**[^key-e09a549b6d76491329046cef12e09999] The number allocated by HMRC as the pension payer’s accounts office reference.
+
+**5.**[^key-81b74894c124e334722f711d1be76404] If applicable, an indication that this is the final return under regulation 4 that the pension payer expects to make because this PAYE scheme has ceased (and, in that case, the date of cessation).
+
+**6.**[^key-4ba80a1a3fd3ae8372d869c506a7e409] If applicable, an indication that this is the final return under regulation 4 that the pension payer expects to make for the tax year.
+
+**7.**[^key-0fbf3bcb49db5318fdb5896acef71aac] The relevant beneficiary’s name.
+
+**8.**[^key-bc7a96bcebaa2ca22248c9a285f02ba0] The relevant beneficiary’s date of birth.
+
+**9.**[^key-dc9d8b028ddb7ae4be958a7741886f73] The relevant beneficiary’s current gender.
+
+**10.**[^key-b170d369bbc686b8f56859c31c4cefc5] If known, the relevant beneficiary’s national insurance number.
+
+**11.**[^key-50e7e81749f3868d9ffea762b68bcab6] If the relevant beneficiary’s national insurance number is not known, or if the return is the first return in respect of the relevant beneficiary following the commencement of the relevant beneficiary’s entitlement to a relevant payment under the pension scheme, the relevant beneficiary’s address.
+
+**12.**[^key-6714a4050ac52bb6014d00d3b9b13f22] The number used by the pension payer to identify the relevant beneficiary in this pension scheme.
+
+**13.**[^key-8ac899c12259244d300c210b1518adbd] If applicable, an indication that the payment to which the return relates is a payment to any one of—
+
+- (a) a body corporate,
+- (b) a trustee of a trust of which the relevant beneficiary is a beneficiary,
+- (c) the relevant beneficiary’s personal representative.
+
+**14.**[^key-308f166b7407f05d07ed33096883799e] Where the return relates to a payment within paragraph 13, the information required by paragraphs 7 to 11 need not be provided.
+
+**15.**[^key-bfd8ddcea22732f54b57ec257c98dd4d] The tax year to which the return relates.
+
+**16.**[^key-bba8e734aa1d737c28542f0935b39dac] The total tax deducted in relation to the total relevant payments made to date.
+
+**17.**[^key-dd83c06194f7ed9c66039f74c45e4031] The relevant beneficiary’s pay frequency or an indication that payments are made to the relevant beneficiary on an irregular basis.
+
+**18.**[^key-d151ebd208ce895b08b1355c802aaec7] The date of the payment the return relates to.
+
+**19.**[^key-af004feeb74b741e9f0f474fec75a1d2] The tax week number or tax month number in which the payment is made, where—
+
+- (a) “tax month” means the period beginning on the 6th day of a calendar month and ending on the 5th day of the following calendar month, and
+- (b) “tax week” means 6th April to 12th April (inclusive) and each successive period of 7 days, except that the final tax week in a tax year is just the last day of the tax year (or last 2 days in a leap year).
+
+**20.**[^key-fb9d45971d8481d5031b83df73206fc5] The value of the payment the return relates to.
+
+**21.**[^key-7511e5c96901f7f6e54033af49fad9f3] The tax code operated on the payment the return relates to.
+
+**22.**[^key-32de5a02792845957895bc324205d858] If applicable, an indication that the relevant beneficiary’s tax code is being operated on a non-cumulative basis.
+
+**23.**[^key-c872215b47feebd51b83a6310228c113] The total net tax deducted from the payment the return relates to.
+
+**24.**[^key-b7b6f825359a4fb4147993a7139228c0] The date on which the relevant beneficiary’s entitlement to the relevant payment under the pension scheme commenced or will commence.
+
+**25.**[^key-7dd64108346fd7b480bd71a25ea4c26b] If the relevant beneficiary’s entitlement to the relevant payment under the pension scheme has ceased, the date of cessation.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the information that a pension payer must send to HMRC under the Real Time Information system, in relation to certain payments made in respect of a member of a registered pension scheme under Part 4 of the Finance Act 2004 following the death of that member, where such payments are not taxable as pay as you earn (PAYE) pension income (i.e. the payments are non-taxable). The Regulations come into force on 6th April 2022.
+
+Currently, pension payers making payments of PAYE pension income are already required to send to HMRC similar information in respect of such payments, using the Real Time Information system. The Regulations will extend this requirement to payments of such non-taxable payments, which do not fall within the scope of the current requirements.
+
+Part 1 deals with citation and commencement, and interpretation.
+
+Part 2 deals with information that is required to be sent to HMRC by an approved method of electronic communications. The information falling within this Part is set out in the Schedule to the Regulations.
+
+Part 3 deals with evidential matters related to the sending of information to HMRC under the Regulations.
+
+A Tax Information and Impact Note covering this instrument will be published on the GOV.UK website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16). Section 132 was amended by paragraph 156 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21) and article 6(2)(b) of [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^f00002]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23). Section 135 was amended by paragraph 95(1) of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), section 93(2) and (3) of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) and article 6(2)(b) of [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^f00003]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-57bb7c31880b3fdef3ad8f560ea11409]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-6abbeb52066cfd0c6302f12ff0b594b0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/506/regulation/2) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^f00004]: Footnote: [S.I. 2001/769](https://www.legislation.gov.uk/uksi/2001/769). Regulation 9 was amended by [S.I. 2006/2897](https://www.legislation.gov.uk/uksi/2006/2897), [S.I. 2008/223](https://www.legislation.gov.uk/uksi/2008/223), [S.I. 2015/67](https://www.legislation.gov.uk/uksi/2015/67) and [S.I. 2015/1828](https://www.legislation.gov.uk/uksi/2015/1828).
+
+[^key-39d58dd9316f8a8c13f1a7ce387aebb3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/506/regulation/3) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^f00005]: Footnote: Section 165(1) was amended by paragraph 2(2)(a) and (b) of Schedule 19 to the Finance Act 2007 and paragraph 41 of Schedule 1 to the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30). There are other amendments to section 165(1) that are not relevant to this instrument.
+
+[^f00006]: Footnote: Section 167(2) was amended by paragraph 22(1) of Schedule 20 to the Finance Act 2007 and paragraph 2(5) of Schedule 2 to the Taxation of Pensions Act 2014.
+
+[^f00007]: Footnote: Section 168(2) was amended by section 22(9) of the Finance (No. 2) Act [2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33).
+
+[^f00008]: Footnote: Paragraph 13 was amended by paragraph 33(2) and (3)(a) and (b) of Schedule 16 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) and section 21(8) of the Finance (No. 2) Act 2015.
+
+[^key-8067f280223ebb7a9a0b8cf7ba2f5ddc]: Textual amendment: Word in [reg. 3(1)(c)(i)](https://www.legislation.gov.uk/uksi/2021/506/regulation/3/1/c/i) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [31(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/31/a)
+
+[^f00009]: Footnote: Paragraph 15 was amended by paragraphs 35(2)(a) and (b) and 79(4) of Schedule 16 to the Finance Act 2011, paragraph 19(1) of Schedule 2 to the Taxation of Pensions Act 2014, paragraph 15 of Schedule 4 to the Finance Act [2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11) and paragraph 10(1) of Schedule 5 to the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24).
+
+[^key-ea47ab7e6e9215eef018e9e33b12fba9]: Textual amendment: [Reg. 3(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2021/506/regulation/3/1/c/iii) and word inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [31(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/31/b)
+
+[^f00010]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Section 683(3) was amended by paragraph 14(2) and (3) of Schedule 31 to the Finance Act 2004, paragraph 60 of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), paragraph 60(2) of Schedule 16 to the Finance Act 2011 and section 22(8)(a) of the Finance (No. 2) Act 2015.
+
+[^key-1b77ce78125aa71561f0300218b51910]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/506/regulation/4) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-70c3589c3aa9e80bb2a4e34c8d6ba7c0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/506/regulation/5) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-de3d5ec6f453624a1d2b0c624773592f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/506/regulation/6) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-1a7ec0af238fbf8ca6b97d8036292998]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/506/regulation/7) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^f00011]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10). Paragraphs 6C and 6D were inserted by paragraph 6 of Schedule 50 to the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) and paragraphs 19 and 27 were amended respectively by paragraphs 8(2) and 9(2) and (3) of that Schedule.
+
+[^key-22a740688ebfa0541695c1b855a24c6e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/506/regulation/8) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-19b7e800f9c05897213b6b909958f1d9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/506/regulation/9) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-3e1d12e04b92de423d8a4749924c7ac0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/506/regulation/10) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-780d423f8579750010882eade9716537]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2021/506/regulation/11) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-7e31d197c656df78e59fa5c933613abe]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2021/506/regulation/12) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-b4a012db948004e93900abf3423733a6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2021/506/regulation/13) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-4e5c421c58cb6e7a06cae2a4da6431d5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/1) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-a1b8a9e7f28d016ad4c4cacacd7e3d39]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/2) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-2c4871da0a8b322dd09574a0a97c248b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/3) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-e09a549b6d76491329046cef12e09999]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/4) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-81b74894c124e334722f711d1be76404]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/5) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-4ba80a1a3fd3ae8372d869c506a7e409]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/6) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-0fbf3bcb49db5318fdb5896acef71aac]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/7) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-bc7a96bcebaa2ca22248c9a285f02ba0]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/8) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-dc9d8b028ddb7ae4be958a7741886f73]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/9) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-b170d369bbc686b8f56859c31c4cefc5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/10) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-50e7e81749f3868d9ffea762b68bcab6]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/11) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-6714a4050ac52bb6014d00d3b9b13f22]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/12) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-8ac899c12259244d300c210b1518adbd]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/13) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-308f166b7407f05d07ed33096883799e]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/14) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-bfd8ddcea22732f54b57ec257c98dd4d]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/15) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-bba8e734aa1d737c28542f0935b39dac]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/16) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-dd83c06194f7ed9c66039f74c45e4031]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/17) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-d151ebd208ce895b08b1355c802aaec7]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/18) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-af004feeb74b741e9f0f474fec75a1d2]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/19) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-fb9d45971d8481d5031b83df73206fc5]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/20) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-7511e5c96901f7f6e54033af49fad9f3]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/21) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-32de5a02792845957895bc324205d858]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/22) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-c872215b47feebd51b83a6310228c113]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/23) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-b7b6f825359a4fb4147993a7139228c0]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/24) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)
+
+[^key-7dd64108346fd7b480bd71a25ea4c26b]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2021/506/schedule/paragraph/25) in force at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/506/regulation/1)

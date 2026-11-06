@@ -1,0 +1,611 @@
+---
+title: The Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021
+id: uksi/2021/1458
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-12-14'
+text_date: '2025-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2021/1458
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/1458/pdfs/uksiem_20211458_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/1458/pdfs/uksi_20211458_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/1458/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021
+
+> Text as at 2025-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2021 No. 1458
+
+Constitutional Law
+
+Devolution, Scotland
+
+Children And Young Persons
+
+The Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021
+
+Made
+
+14th December 2021
+
+Coming into force
+
+17th December 2021
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 104, 112(1) and 113(5), (9A), (9B) and (10) of the Scotland Act 1998[^f00001].
+
+In accordance with paragraphs 1, 2 and 3 of Schedule 7 to that Act a draft of this Order has been laid before and approved by a resolution of each House of Parliament.
+
+## PART 1
+
+### Introduction
+
+#### 1. Citation, commencement and extent[^key-ec12ff7d38e6051083b49d1515a0f982]
+
+(1) This Order may be cited as the Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021 and comes into force on 17th December 2021.
+
+(2) Each amendment made by this Order has the same extent as the provision being amended.
+
+#### 2. Interpretation[^key-7df565e9db3d46f29075a5ac46a6ab06]
+
+In this Order “**the 2019 Act**” means the Age of Criminal Responsibility (Scotland) Act 2019[^f00002].
+
+## PART 2
+
+### Disclosure of convictions and other information relating to time when person under 12
+
+#### 3. Interpretation of Part 2[^key-376c017a62c23f23c44a0604cf786fc2]
+
+In this Part—
+
+- [^key-93c8896bb140a7b95f94e5a74dd27426]...
+- “**the 2007 Act**” means the Protection of Vulnerable Groups (Scotland) Act 2007[^f00004],
+- [^key-1b999b24a9814a331311b2e67cc7867b]...
+- “**chief officer**” means—
+  - (a) the chief constable of—
+    - (i) a police force in England and Wales,
+    - (ii) the Police Service of Northern Ireland,
+    - (iii) the Ministry of Defence Police,
+    - (iv) the British Transport Police,
+    - (v) the Civil Nuclear Constabulary,
+  - (b) the Provost Marshal of—
+    - (i) the Royal Navy Police,
+    - (ii) the Royal Military Police,
+    - (iii) the Royal Air Force Police,
+  - (c) the Director General of the National Crime Agency,
+  - (d) the Provost Marshal for serious crime.[^key-8b7b291499910a32fcfe23145b89442b]
+- [^key-1e7977cf7af0e772a4ffa9ef41bfb45a]...
+- “**independent reviewer**” means the independent reviewer appointed under section 12 of the 2019 Act,
+- “**regulated role[^key-d40a75373f225ca9a79f9e92dbdf706e]**” has the meaning given by section 91 of the 2007 Act,
+- “**scheme member**” has the meaning given by section 45(1)[^key-43345302a1fee4396da72b1e2731e2de] of the 2007 Act,
+- “**scheme record**” has the meaning given by section 48 of the 2007 Act,
+- “**the scheme**” has the meaning given by section 44 of the 2007 Act.
+
+#### 4. Limitation on disclosure of information relating to time when person under 12[^key-26df83ffde7b986ecd6e86206487ba2a]
+
+(1)[^key-73dee74abc269cb3a8cd438051e33d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In article 3 (provision of police information to the Scottish Ministers) of the Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010[^f00006] —
+
+- (a) after paragraph (2) insert—
+
+  > (2A) But a chief officer mentioned in paragraph (2B) may, in response to a request for information of the type described in section 49(1)(c) of the 2007 Act, provide under paragraph (1) information relating to a time when the scheme member was under 12 years of age only where—
+  >
+  > - (a) the independent reviewer determines, on a review under section 18 of the 2019 Act, that the information ought to be included in the scheme member’s scheme record and—
+  >   - (i) no appeal under section 20 of the 2019 Act is taken, or
+  >   - (ii) such an appeal having been taken, the sheriff confirms the determination under subsection (3)(a) of that section, or
+  > - (b) the sheriff, on an appeal under section 20 of the 2019 Act, determines under subsection (3)(b) of that section that the information ought to be included in the scheme member’s scheme record.
+  >
+  > (2B) The chief officers referred to in paragraph (2A) are the chief officers of the following police forces—
+  >
+  > - (a) a police force in England and Wales,
+  > - (b) the Police Service of Northern Ireland,
+  > - (c) the Royal Navy Police,
+  > - (d) the Royal Military Police,
+  > - (e) the Royal Air Force Police,
+  > - (f) the Ministry of Defence Police,
+  > - (g) the British Transport Police,
+  > - (h) the Civil Nuclear Constabulary,
+  > - (i) the National Crime Agency.
+
+  ,
+- (b) after paragraph (4) insert—
+
+  > (4A) In paragraph (2A)—
+  >
+  > - “**the 2019 Act**” means the Age of Criminal Responsibility (Scotland) Act 2019,
+  > - “**independent reviewer**” means the independent reviewer appointed under section 12 of the Age of Criminal Responsibility (Scotland) Act 2019.
+
+  .
+
+#### 5. Referral of information to independent reviewer[^key-441d1957a404ee85d577be60838437f0]
+
+(1) This article applies where—
+
+- (a) a chief officer, having been requested to do so by the Scottish Ministers under section 14A of the Disclosure Act[^key-e47fcbae9a7eb9aa7dcd196f029405e5], has identified information which relates to a time when the applicant was under 12 years of age and which, in the chief officer’s opinion, ought to be included in a Level 2 disclosure[^key-63bb6caa402595c35feae27f26f847c3], [^key-1bb5c38a4ac4496b0a08d77c8620544b]...
+- (b)[^key-1bb5c38a4ac4496b0a08d77c8620544b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The chief officer must, before providing that information to the Scottish Ministers, refer that information to the independent reviewer together with the following—
+
+- (a) in the case of information falling within paragraph (1)(a), information about the purpose of the disclosure[^key-60ab7627ee108652b72cf792780029de],
+- (b)[^key-9c311910e36827916d55186a518b5165] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) an explanation of why the chief officer considers the information ought to be included in the Level 2 disclosure[^key-8b04e32bff6053f27a54dc3a3dc55ff8] [^key-ce44806e787e5d45241d8f178d7823ec]..., and
+- (d) any other information the chief officer considers relevant to the exercise of the independent reviewer’s functions.
+
+(3) If provision of the type mentioned in section 23(2)(a) of the 2019 Act is in force, the chief officer must refer the information that the chief officer has identified and considers ought to be included in a Level 2 disclosure[^key-3498c0ef6f05f8d6ebbe6e0b9dc91701] [^key-98b93b1cd76dc4832b8b46f4895b8e91]... to the independent reviewer within the time period specified by virtue of that section.
+
+(4)[^key-ee56dd409fa74530f37a8b3c3eae6e03] In this article—
+
+- “**the applicant**” means the person whose application for a disclosure led to the request by the Scottish Ministers mentioned in paragraph (1)(a);
+- “**the Disclosure Act**” means the Disclosure (Scotland) Act 2020;
+- “**Level 2 disclosure**” has the meaning given in section 8 of the Disclosure Act;
+- “**purpose of the disclosure**” has the meaning given in section 69 of the Disclosure Act.
+
+#### 6. Notification of referral[^key-bc7fae08b97ceff6c351029e57ceb738]
+
+Where a chief officer refers information to the independent reviewer under article 5, the chief officer must, at the same time as doing so, notify the Scottish Ministers of that fact.
+
+#### 7. Provision of information to the independent reviewer[^key-46eb50f02c854eb9f55baad44639883b]
+
+(1) The independent reviewer may by notice require any person mentioned in paragraph (3) to provide the reviewer with information which the reviewer believes the person holds and which the reviewer considers is necessary to carry out a review under section 18 of the 2019 Act.
+
+(2) A notice under paragraph (1) must specify the information sought and the period within which it must be provided.
+
+(3) The persons referred to in paragraph (1) are—
+
+- (a) a chief officer,
+- (b) a local authority,
+- (c) Her Majesty’s Courts and Tribunals Service,
+- (d) the Disclosure and Barring Service,
+- (e) the Department of Justice in Northern Ireland,
+- (f) any other person the independent reviewer considers appropriate.
+
+(4) If provision of the type mentioned in section 23(2)(d) of the 2019 Act is in force, a person required under paragraph (1) to provide information to the independent reviewer must do so within the time period specified by virtue .of that section.
+
+(5) In paragraph (3), “**local authority**” means a local authority in England and Wales as defined (in relation to England and Wales) in section 1 of the Local Authorities (Goods and Services) Act 1970[^f00008].
+
+#### 8. Amendment of the Data Protection Act 2018[^key-4d269c157c421679efb3b36d54c86b8d]
+
+In paragraph 4 of Schedule 18 to the Data Protection Act 2018[^f00009] (relevant records relating to statutory functions)—
+
+- (a) after sub-paragraph (2)(e)insert—
+
+  > - (f) the independent reviewer appointed under section 12 of the Age of Criminal Responsibility (Scotland) Act 2019.
+
+  ,
+- (b) after sub-paragraph (7) insert—
+
+  > (8) In relation to the independent reviewer mentioned in sub-paragraph (2)(f), the “relevant functions” are the reviewer’s functions under Part 2 of the Age of Criminal Responsibility (Scotland) Act 2019.
+
+  .
+
+## PART 3 — Police powers etc.
+
+### Cross-border enforcement by constables of territorial police forces
+
+#### 9. Interpretation of Part 3[^key-0b0e0e6c52e54bd9ba1a78a470fbba50]
+
+(1) In this Part—
+
+- “**constable**” means a constable of—
+  - (a) the Police Service of Scotland,
+  - (b) a police force in England or Wales,
+  - (c) the Police Service of Northern Ireland,
+- “**Scottish constable**” means a constable of the Police Service of Scotland.
+
+(2) In this Part—
+
+- (a) the following terms have the meanings given by section 76 of the 2019 Act—
+
+- “child”,
+- “child interview order”,
+- “intimate sample”,
+- “investigative interview”,
+- “relevant physical data”,
+- “relevant sample”,
+  - (a) “**parent**” has the meaning given, for the purposes of Part 4 of the 2019 Act (other than section 40(7) of that Act), by section 76 of that Act,
+  - (b) the following terms have the meanings given by section 36 of the 2019 Act—
+- “premises”,
+- “vehicle”,
+  - (a) “**registered dentist**” has the meaning given by section 53(1) of the Dentists Act 1984[^f00010],
+  - (b) “**registered medical practitioner**” means a fully registered person within the meaning of the Medical Act 1983[^f00011] who holds a licence to practice under that Act,
+  - (c) “**registered nurse**” means a person registered in the register maintained under article 5 of the Nursing and Midwifery Order 2001[^f00012] by virtue of qualifications in nursing.
+
+#### 10. Search[^key-bc3d56fa213c011dc674f810f39f5e5d]
+
+(1) Paragraph (2) applies where an order is made under section 36 of the 2019 Act in respect of a child and—
+
+- (a) the child is in England, Wales or Northern Ireland, or
+- (b) the order authorises the search of—
+  - (i) premises in England, Wales or Northern Ireland, or
+  - (ii) a vehicle which is for the time being in England, Wales or Northern Ireland.
+
+(2) A constable may, for the purposes of the order, take any action which a Scottish constable would be entitled to take for those purposes if the child was in Scotland, the premises were in Scotland or, as the case may be, the vehicle was in Scotland.
+
+(3) Except where section 37 of the 2019 Act has already been complied with, a constable who intends to act under paragraph (2) must, before doing so—
+
+- (a) provide a copy of the order to—
+  - (i) the child, and
+  - (ii) in so far as practicable, a parent of the child, and
+- (b) at the same time, explain the order to the child in a way that is appropriate to the child’s age and maturity.
+
+(4) A constable who enters any unoccupied premises by virtue of paragraph (2) must leave the premises as effectively secured against unauthorised entry as the constable found them.
+
+#### 11. Interviews[^key-fa4cc71a2dbd0822d909afe759d668a4]
+
+(1) Paragraph (2) applies where a child in respect of whom an application for a child interview order is being made is in England, Wales or Northern Ireland.
+
+(2) Any child interview order made as a result of that application may, in addition to doing anything permitted to be done in the order by virtue of section 44 of the 2019 Act—
+
+- (a) require any person in England, Wales or Northern Ireland in a position to do so to produce the child to a person specified in the order for the purpose of ensuring the child’s attendance at the investigative interview authorised by the order,
+- (b) authorise—
+  - (i) the transporting of the child to and from the place where the interview is to take place (by the person specified in the order or another person),
+  - (ii) any other action (including action to safeguard and promote the wellbeing of the child) required in connection with such transportation.
+
+(3) Paragraph (4) applies where—
+
+- (a) a child interview order has been made in respect of a child, and
+- (b) the child is in England, Wales or Northern Ireland.
+
+(4) A constable may, for the purposes of ensuring the child’s attendance at an investigative interview authorised by the order and planned by virtue of section 47 of the 2019 Act, take any action which a Scottish constable would be entitled to take for that purpose if the child was in Scotland.
+
+#### 12. Taking of prints and samples from child[^key-adfe7d12f48347905e74dd82d9aadea4]
+
+(1) Paragraph (2) applies where a child in respect of whom an application for an order under section 63 of the 2019 Act is being made is in England, Wales or Northern Ireland.
+
+(2) Any order under that section made as a result of that application may, in addition to doing anything permitted to be done in the order by virtue of that section, require any person in England, Wales or Northern Ireland in a position to do so to produce the child to a constable.
+
+(3) Paragraphs (4) and (5) apply where—
+
+- (a) an order under section 63 of the 2019 Act has been made in respect of a child, and
+- (b) the child is in England, Wales or Northern Ireland.
+
+(4) A constable may, for the purposes of the order and subject to paragraph (7), take any action which a Scottish constable would be entitled to take for those purposes if the child was in Scotland.
+
+(5) Where the order authorises the taking of an intimate sample from the child, the sample may be taken from the child—
+
+- (a) where the sample is a dental impression, only by a registered dentist,
+- (b) in any other case, only by—
+  - (i) a registered medical practitioner, or
+  - (ii) a registered nurse.
+
+(6) Paragraph (7) applies where—
+
+- (a) relevant physical data or a relevant sample is taken from a child under paragraph (4) by a constable other than a Scottish constable,
+- (b) an intimate sample is taken from a child under paragraph (5).
+
+(7) The data or, as the case may be, sample must be transferred, as soon as possible after the data or sample is taken, to—
+
+- (a) a Scottish constable, or
+- (b) a person specified by a Scottish constable.
+
+(8) Except where section 64 of the 2019 Act has already been complied with, a constable who intends to carry out an action of the type mentioned in paragraph (4) in England, Wales or Northern Ireland must, before doing so—
+
+- (a) provide a copy of the order to—
+  - (i) the child, and
+  - (ii) in so far as practicable, a parent of the child, and
+- (b) at the same time, explain the order to the child in a way that is appropriate to the child’s age and maturity.
+
+#### 13. Taking of prints and samples from child: urgent cases[^key-9daba7ac42a58e7c16a96b782ed3f60c]
+
+(1) A constable may, subject to paragraph (2), take relevant physical data or a relevant sample from a child who is in England, Wales or Northern Ireland if authorised to do so by a relevant senior officer under section 69(2) of the 2019 Act.
+
+(2) Intimate samples may not be taken from a child under paragraph (1).
+
+(3) A constable may, for the purpose of taking relevant physical data or a relevant sample from a child under paragraph (1), take any action which a Scottish constable would be entitled to take for the purpose of taking, under section 69 of the 2019 Act, relevant data or a relevant sample from a child who is in Scotland.
+
+(4) Where relevant physical data or a relevant sample is taken from a child under paragraph (1) by a constable other than a Scottish constable, the data or sample must be transferred, as soon as possible after the data or sample is taken, to—
+
+- (a) a Scottish constable, or
+- (b) a person specified by a Scottish constable.
+
+(5) No other steps may be taken in relation to the relevant physical data or relevant sample (other than holding and preserving the data or sample) unless and until an order under section 63 of the 2019 Act authorising the taking of the data or sample is obtained.
+
+(6) An application for an order under section 63 of the 2019 Act authorising the taking of the relevant physical data or relevant sample must be made before the end of the period of 7 days beginning with the day on which the data or sample was taken.
+
+(7) Such an application must, in addition to the matters mentioned in section 61(2) of the 2019 Act, specify the data or sample taken under this article.
+
+(8) The relevant senior officer who authorised the taking of the relevant physical data or relevant samples under section 69(2) of the 2019 Act must ensure that all record of any data taken and all samples taken are destroyed as soon as possible after the earliest of the following events—
+
+- (a) a decision by the responsible Scottish constable not to apply for an order under section 63,
+- (b) the end of the period mentioned in paragraph (6), no application having been made,
+- (c) where such an application is made but the sheriff refuses the application—
+  - (i) the end of the period for an appeal against the sheriff’s decision, no appeal having been taken, or
+  - (ii) if an appeal is taken and the sheriff’s decision is upheld, the conclusion of the appeal.
+
+(9) In this article—
+
+- a “relevant senior officer” is (regardless of which of the police forces mentioned in article 9(1) the constable acting under paragraph (1) is a constable of) a Scottish constable—
+  - (a) of the rank of superintendent or above,
+  - (b) who has not been involved in the investigation in connection with which the taking of the relevant physical data or relevant sample is sought,
+- “the responsible Scottish constable” is the Scottish constable—
+  - (a) who took the relevant physical data or relevant sample under paragraph (1),
+  - (b) to whom the data or sample was transferred under paragraph (4)(a), or, as the case may be,
+  - (c) who specified the person to whom the data or sample was transferred under paragraph (4)(b).
+
+#### 14. Destruction of prints and samples[^key-43bf1d98a489a915529e735d7041264b]
+
+(1) This article applies where an order made under section 63 of the 2019 Act authorises the taking of any relevant physical data or a relevant sample from a child, including where—
+
+- (a) the data or sample is then taken by virtue of article 12(4), or
+- (b) the order is made following the making of an application in accordance with section 70(3) of the 2019 Act or article 13(6) (the data or sample having been taken by virtue of section 69 of that Act or, as the case may be, article 13(1)).
+
+(2) Paragraph (3) applies where—
+
+- (a) the child is not resident in Scotland, and
+- (b) a Scottish constable concludes, before the expiry of the maximum retention period, that, if the child was resident in Scotland, a decision would be made not to pass information about the child to the Principal Reporter under section 61 of the Children’s Hearings (Scotland) Act 2011[^f00013].
+
+(3) The constable who applied for the order under section 63 of the 2019 Act authorising the taking of the relevant physical data or relevant sample must ensure that all record of any data taken, all samples taken, and all information derived from any samples are destroyed as soon as possible after that conclusion is reached.
+
+(4) Paragraph (5) applies where, on the day on which the maximum retention period expires, the child is not resident in Scotland.
+
+(5) The constable who applied for the order under section 63 of the 2019 Act authorising the taking of the relevant physical data or relevant sample must ensure that all record of any data taken, all samples taken, and all information derived from any samples are destroyed as soon as possible after the expiry of the maximum retention period.
+
+(6) Paragraphs (3) and (5) do not apply where the destruction of a sample, or the information derived from it, could have the effect of destroying any sample, or any information derived from it, lawfully held in relation to a person other than the child from whom the sample was taken.
+
+(7) In this article, “**maximum retention period**” means the period of 6 months beginning with the day on which the data or sample was taken.
+
+#### 15. Wellbeing of child[^key-b758921f0c7d6788bafd64c5c4dacecd]
+
+A person acting under this Part must, in doing so, treat the need to safeguard and promote the wellbeing of the child as a primary consideration.
+
+#### 16. Offences[^key-84ab2f67fbef1f8360b475298448037c]
+
+(1) A person commits an offence if the person, without reasonable excuse, intentionally—
+
+- (a) obstructs a person mentioned in paragraph (2), or
+- (b) otherwise interferes with a police investigation into an incident in Scotland in relation to which a Scottish constable has grounds to suspect that a child, while under 12 years of age—
+  - (i) by behaving in a violent or dangerous way, has caused or risked causing serious physical harm to another person, or
+  - (ii) by behaving in a sexually violent or sexually coercive way, has caused or risked causing harm (whether physical or not) to another person.
+
+(2) The person is a constable or other person acting—
+
+- (a) under article 10,
+- (b) in pursuance of a child interview order or under article 11,
+- (c) under article 12,
+- (d) under article 13.
+
+(3) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### Exercise of functions by constables and members of non-territorial police organisations
+
+#### 17. Application of 2019 Act to non-territorial forces[^key-4a76618e0539fcd40f6e834a4fca73d9]
+
+After section 2D of the Ministry of Defence Police Act 1987[^f00014] insert—
+
+> **2E. Exercise of functions in relation to children under the Scottish age of criminal responsibility**
+>
+> (1) The following apply, in Scotland, in relation to a member of the Ministry of Defence Police as they apply in relation to a constable of the Police Service of Scotland—
+>
+> - (a) Part 4 of the Age of Criminal Responsibility (Scotland) Act 2019 (in this section, “the 2019 Act”),
+> - (b) any regulations made or guidance issued under that Part.
+>
+> (2) Subsections (3) to (6) make further provision in relation to the application of Part 4 of the 2019 Act to members of the Ministry of Defence Police.
+>
+> (3) References in Part 4 of the 2019 Act (however expressed) to constables of a particular rank are to be read, in relation to action taken or proposed to be taken by a member of the Ministry of Defence Police, as references to a member of the Ministry of Defence Police of the rank referred to.
+>
+> (4) References in the following sections of the 2019 Act to the chief constable are to be read as including reference to the chief constable of the Ministry of Defence Police—
+>
+> - (a) section 29(2)(a),
+> - (b) section 31(3)(a) and (5)(a),
+> - (c) section 57(4)(a).
+>
+> (5) The reference in section 33(1) of the 2019 Act to an enactment includes reference to an enactment which confers a power of the type described in that section on members of the Ministry of Defence Police (whether or not the enactment also confers that power on constables of the Police Service of Scotland).
+>
+> (6) The reference in section 75(2) of the 2019 Act to a constable is to be read as including reference to a member of the Ministry of Defence Police.
+
+.
+
+**18.**[^key-380351e517cb600fb8569698edd77546] After section 31A of the Railways and Transport Safety Act 2003[^f00015] insert—
+
+> **31B. Exercise of functions in relation to children under the Scottish age of criminal responsibility**
+>
+> (1) The following apply, in Scotland, in relation to a constable of the Police Force as they apply in relation to a constable of the Police Service of Scotland—
+>
+> - (a) Part 4 of the Age of Criminal Responsibility (Scotland) Act 2019 (in this section, “the 2019 Act”),
+> - (b) any regulations made or guidance issued under that Part.
+>
+> (2) Subsections (3) to (6) make further provision in relation to the application of Part 4 of the 2019 Act to constables of the Police Force.
+>
+> (3) References in Part 4 of the 2019 Act (however expressed) to constables of a particular rank are to be read, in relation to action taken or proposed to be taken by constable of the Police Force, as references to a constable of the Police Force of the rank referred to.
+>
+> (4) References in the following sections of the 2019 Act to the chief constable are to be read as including reference to the chief constable of the Police Force—
+>
+> - (a) section 29(2)(a),
+> - (b) section 31(3)(a) and (5)(a),
+> - (c) section 57(4)(a).
+>
+> (5) The reference in section 33(1) of the 2019 Act to an enactment includes reference to an enactment which confers a power of the type described in that section on constables of the Police Force (whether or not the enactment also confers that power on constables of the Police Service of Scotland).
+>
+> (6) The reference in section 75(2) of the 2019 Act to a constable is to be read as including reference to a constable of the Police Force.
+
+.
+
+**19.**[^key-47dc7e3925eff2d2bed385eb8db3f03f] After section 56A of the Energy Act 2004[^f00016] insert—
+
+> **56B. Exercise of functions in relation to children under the Scottish age of criminal responsibility**
+>
+> (1) The following apply, in Scotland, in relation to a member of the Constabulary as they apply in relation to a constable of the Police Service of Scotland—
+>
+> - (a) Part 4 of the Age of Criminal Responsibility (Scotland) Act 2019 (in this section, “the 2019 Act”),
+> - (b) any regulations made or guidance issued under that Part.
+>
+> (2) Subsections (3) to (6) make further provision in relation to the application of Part 4 of the 2019 Act to members of the Constabulary.
+>
+> (3) References in Part 4 of the 2019 Act (however expressed) to constables of a particular rank are to be read, in relation to action taken or proposed to be taken by a member of the Constabulary, as references to a member of the Constabulary of the rank referred to.
+>
+> (4) References in the following sections of the 2019 Act to the chief constable are to be read as including reference to the chief constable of the Constabulary—
+>
+> - (a) section 29(2)(a),
+> - (b) section 31(3)(a) and (5)(a),
+> - (c) section 57(4)(a).
+>
+> (5) The reference in section 33(1) of the 2019 Act to an enactment includes reference to an enactment which confers a power of the type described in that section on members of the Constabulary (whether or not the enactment also confers that power on constables of the Police Service of Scotland).
+>
+> (6) The reference in section 75(2) of the 2019 Act to a constable is to be read as including reference to a member of the Constabulary.
+
+.
+
+Alister Jack
+
+Secretary of State for Scotland
+
+Office of the Secretary of State for Scotland Office
+
+Dover House,
+
+London
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision in consequence of the Age of Criminal Responsibility (Scotland) Act 2019 (“**the 2019 Act**”), which raises the age of criminal responsibility in Scotland to 12 years.
+
+Part 2 of the 2019 Act makes provision relating to the disclosure of criminal records and information which relates to a time when a person was under the age of 12. It amends the definition of “conviction” in the Rehabilitation of Offenders Act [1974 (c. 53)](https://www.legislation.gov.uk/ukpga/1974/53) to remove behaviour which took place when a person was under the age of 12. It also establishes a new office of “the independent reviewer” to review information concerning behaviour of persons when under the age of 12 before such information is disclosed in an enhanced criminal record certificate as defined by section 113B of the Police Act 1997 (“**the 1997 Act**”) or a scheme record under section 52 of the Protection of Vulnerable Groups (Scotland) Act 2007 (“**the 2007 Act**”).
+
+Part 4 of the Act makes provision for new police powers to investigate alleged seriously harmful behaviour by children under the age of 12, once they can no longer be treated as criminal suspects. The relevant powers include power to apply for a court order authorising search (of the child or any premises or vehicle), interview of the child or the taking of forensic samples from the child. Section 69 also confers an emergency power to take samples on the authority of a senior officer where there would be a risk of loss of evidence by the time a court order could be obtained (such an order must be sought subsequently). These powers are only available where it is suspected that the child, by behaving violently or dangerously, has caused or risked causing serious physical harm to another person, or where it is suspected that the child, by behaving in a sexually violent or sexually coercive way, has caused or risked causing harm to another person. The 2019 Act confers these powers only on constables of the Police Service of Scotland (see section 80).
+
+This Order makes provision to ensure the proper cross-border operation of provisions in the 2019 Act.
+
+Part 2 deals with the disclosure of convictions and other information which relate to a time when a person was under the age of 12.
+
+Before issuing an enhanced criminal record certificate or a scheme record, the Scottish Ministers can request certain information from chief officers, under section 113B(4) of the 1997 Act and section 75(2) of the 2007 Act, for inclusion on that certificate or scheme record. As a result of changes made by the 2019 Act, if such information relates to a time when the person was under the age of 12, the chief constable of Police Scotland can only provide the information to the Scottish Ministers where the independent reviewer has determined that it ought to be included. Article 4 of the Order places the same requirement on certain chief officers of police forces elsewhere in the United Kingdom, so that the information can only be sent to the Scottish Ministers when the independent reviewer has determined it ought to be included on the enhanced criminal record certificate or scheme record. The chief officers covered by article 4 are listed in article 4(4).
+
+Article 5 applies when one of those chief officers has identified information which relates to a time when the person was under the age of 12, and the chief officer is of the opinion that it ought to be included in the enhanced criminal record certificate or scheme record. Article 5 places a requirement on that chief officer to refer the information to the independent reviewer, together with (a) where the information is for an enhanced criminal record certificate, information about the purpose in relation to which the certificate is required (b) where the information is for a scheme record, information about the regulated work in relation to which the scheme member participates in the scheme (c) an explanation as to why the chief officer considers the information ought to be included and (d) any other information the chief officer considers to be relevant to the exercise of the independent reviewer’s functions.
+
+Article 6 of the Order places a requirement on chief officers to notify the Scottish Ministers when they have sent information to the independent reviewer.
+
+Article 7 creates a power for the independent reviewer to require certain persons to provide information. These persons include; chief officers, local authorities, Her Majesty’s Courts and Tribunals Service, the Disclosure and Barring Service, the Department of Justice in Northern Ireland and any other person the independent reviewer considers appropriate.
+
+Article 8 amends paragraph 4 of schedule 18 of the Data Protection Act 2018 to add certain records in connection with the independent reviewer to the definition of “relevant records” for the purpose of the offence under section 184 of that Act (requiring a person to produce relevant records).
+
+Part 3 provides for the enforcement of court orders obtained under Part 4 of the 2019 Act in other parts of the United Kingdom. It also confers police powers on constables of non-territorial forces operating in Scotland corresponding to those conferred on Police Scotland constables by Part 4 of the Act, extends the emergency power to take samples under section 69 of the Act where the child is in another part of the UK and creates a new obstruction offence.
+
+Article 10 deals with the situation where a search order has been made under section 36 of the 2019 Act and the child, or the premises or vehicle to be searched, is in England, Wales or Northern Ireland. It enables a constable of Police Scotland (“a Scottish constable”), of the Police Service of Northern Ireland (“a PSNI constable”) or of a police force in England and Wales to take any action to enforce a search order which a Scottish constable could take if the child, premises or vehicle was in Scotland. The constable executing the order is under obligations corresponding to those which a Scottish constable acting in Scotland would have as regards communication and explanation of the order and securing of premises searched.
+
+Article 11 makes provision relating to applications for a child interview order where the child is in England, Wales or Northern Ireland, enabling the court to require a person in the other jurisdiction to produce the child for interview and to make transportation arrangements to be implemented in the other jurisdiction. Article 11 also empowers a Scottish or PSNI constable or a constable of a police force in England and Wales to take any action to secure the child’s attendance at interview which could have been taken by a Scottish constable if the child was in Scotland.
+
+Article 12 applies where an order is made for the taking of forensic samples and the child is in another UK jurisdiction. The order may require a person in the other jurisdiction to produce the child to a constable for the purposes of the order. The article enables a Scottish or PSNI constable or a constable of a police force in England and Wales to take any action for the purposes of the order which a Scottish constable would have been entitled to take if the child was in Scotland, subject to corresponding duties to communicate and explain the order. It regulates the taking of samples, and provides for their transfer to Police Scotland custody where they have not been taken by a Scottish constable.
+
+Article 13 creates an emergency power to take forensic samples from a child in England, Wales or Northern Ireland. The power may be exercised by a Scottish or PSNI constable or a constable of a police force in England and Wales, but only where authorised by a relevant senior officer under section 69(2) of the 2019 Act (i.e. an officer of at least the rank of superintendent, who has not been involved in the investigation). Similar provision is made to that contained in article 12, for instance for the transfer of samples to Police Scotland custody. Paragraphs (5) to (7) require and regulate the making of an application for a court order after the event authorising the taking of the relevant samples. Paragraph (8) contains time limits by which samples must be destroyed where a successful application is not made.
+
+Article 14 makes provision for the destruction of samples where the taking of these has been authorised by a court order under section 63 of the 2019 Act and the child is not resident in Scotland.
+
+Article 16 creates an offence of obstructing a constable or other person exercising functions under articles 10 to 13 or acting in pursuance of a child interview order, or of interfering with a Scottish police investigation into suspected seriously harmful behaviour by a child under the age of 12.
+
+Article 17 relates to constables of non-territorial forces (Ministry of Defence Police. British Transport Police and Civil Nuclear Constabulary). It amends the legislation governing those forces so as to confer the same powers on those constables when acting in Scotland, and impose the same restrictions on their use, as are conferred and imposed on Scottish constables by Part 4 of the 2019 Act, and makes various consequential adjustments.
+
+An impact assessment has not been produced for this instrument as no additional impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46); section 113(9A) to (10) was substituted for section 113(10) by section 39(2) of the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11). There are other amendments to sections 104, 112 and 113 which are not relevant to this Order.
+
+[^key-ec12ff7d38e6051083b49d1515a0f982]: Commencement: Art. 1 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-7df565e9db3d46f29075a5ac46a6ab06]: Commencement: Art. 2 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^f00002]: Footnote: [2019 asp 7](https://www.legislation.gov.uk/asp/2019/7).
+
+[^key-376c017a62c23f23c44a0604cf786fc2]: Commencement: Art. 3 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-93c8896bb140a7b95f94e5a74dd27426]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/2/a)
+
+[^f00004]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
+
+[^key-1b999b24a9814a331311b2e67cc7867b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/2/b)
+
+[^key-8b7b291499910a32fcfe23145b89442b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/21/2)
+
+[^key-1e7977cf7af0e772a4ffa9ef41bfb45a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/2/c)
+
+[^key-d40a75373f225ca9a79f9e92dbdf706e]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/2/a)
+
+[^key-43345302a1fee4396da72b1e2731e2de]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2021/1458/article/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/2/b)
+
+[^key-26df83ffde7b986ecd6e86206487ba2a]: Commencement: Art. 4 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-73dee74abc269cb3a8cd438051e33d68]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/4/1) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/3)
+
+[^f00006]: Footnote: [S.I. 2010/2660](https://www.legislation.gov.uk/uksi/2010/2660).
+
+[^key-441d1957a404ee85d577be60838437f0]: Commencement: Art. 5 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-e47fcbae9a7eb9aa7dcd196f029405e5]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/1/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/a/i)
+
+[^key-63bb6caa402595c35feae27f26f847c3]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/1/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/a/ii)
+
+[^key-1bb5c38a4ac4496b0a08d77c8620544b]: Textual amendment: [Art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/1/b) and word omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/a)
+
+[^key-60ab7627ee108652b72cf792780029de]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/b/i)
+
+[^key-9c311910e36827916d55186a518b5165]: Textual amendment: [Art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/b) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/b/i)
+
+[^key-8b04e32bff6053f27a54dc3a3dc55ff8]: Textual amendment: Words in [art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/c) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/b/ii)
+
+[^key-ce44806e787e5d45241d8f178d7823ec]: Textual amendment: Words in [art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/2/c) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/b/ii)
+
+[^key-3498c0ef6f05f8d6ebbe6e0b9dc91701]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(c)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/c)
+
+[^key-98b93b1cd76dc4832b8b46f4895b8e91]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/3) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 2 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2025/423/schedule/2/paragraph/7/3/c)
+
+[^key-ee56dd409fa74530f37a8b3c3eae6e03]: Textual amendment: [Art. 5(4)](https://www.legislation.gov.uk/uksi/2021/1458/article/5/4) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 2(4)(d)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/2/4/d)
+
+[^key-bc7fae08b97ceff6c351029e57ceb738]: Commencement: Art. 6 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-46eb50f02c854eb9f55baad44639883b]: Commencement: Art. 7 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^f00008]: Footnote: [1970 c. 39](https://www.legislation.gov.uk/ukpga/1970/39).
+
+[^key-4d269c157c421679efb3b36d54c86b8d]: Commencement: Art. 8 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^f00009]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^key-0b0e0e6c52e54bd9ba1a78a470fbba50]: Commencement: Art. 9 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^f00010]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
+
+[^f00011]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
+
+[^f00012]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253); article 5 was amended by [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182), Schedule 4, paragraph 38(a) and [S.I. 2018/838](https://www.legislation.gov.uk/uksi/2018/838), Schedule 1, paragraph 4.
+
+[^key-bc3d56fa213c011dc674f810f39f5e5d]: Commencement: Art. 10 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-fa4cc71a2dbd0822d909afe759d668a4]: Commencement: Art. 11 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-adfe7d12f48347905e74dd82d9aadea4]: Commencement: Art. 12 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-9daba7ac42a58e7c16a96b782ed3f60c]: Commencement: Art. 13 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-43bf1d98a489a915529e735d7041264b]: Commencement: Art. 14 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^f00013]: Footnote: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1); section 61 was amended by the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), schedule 7, paragraph 44.
+
+[^key-b758921f0c7d6788bafd64c5c4dacecd]: Commencement: Art. 15 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-84ab2f67fbef1f8360b475298448037c]: Commencement: Art. 16 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^key-4a76618e0539fcd40f6e834a4fca73d9]: Commencement: Art. 17 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^f00014]: Footnote: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4); section 2D was added [S.I. 2018/46](https://www.legislation.gov.uk/uksi/2018/46), Schedule 2, paragraph 1.
+
+[^key-380351e517cb600fb8569698edd77546]: Commencement: Art. 18 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^f00015]: Footnote: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20); section 31A was added by [S.I. 2018/46](https://www.legislation.gov.uk/uksi/2018/46), Schedule 2, paragraph 2.
+
+[^key-47dc7e3925eff2d2bed385eb8db3f03f]: Commencement: Art. 19 in force at 17.12.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1)
+
+[^f00016]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20); section 56A was added by [S.I. 2018/46](https://www.legislation.gov.uk/uksi/2018/46), Schedule 2, paragraph 3.

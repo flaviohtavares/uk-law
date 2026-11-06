@@ -1,0 +1,314 @@
+---
+title: The Rehabilitation Courses (Relevant Drink Offences) Regulations 2012
+id: uksi/2012/2939
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-11-22'
+text_date: '2015-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2012/2939
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2939/pdfs/uksiem_20122939_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2939/pdfs/uksi_20122939_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2939/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rehabilitation Courses (Relevant Drink Offences) Regulations 2012
+
+> Text as at 2015-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2012 No. 2939
+
+Road Traffic
+
+The Rehabilitation Courses (Relevant Drink Offences) Regulations 2012
+
+Made
+
+22nd November 2012
+
+Laid before Parliament
+
+27th November 2012
+
+Coming into force
+
+Regulations 1 to 4, 5(1) and (2), 7(1) and (4)(a) and 12 in so far as it relates to regulation 3
+
+21st December 2012
+
+All other regulations and regulation 12 for remaining purposes
+
+24th June 2013
+
+The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by sections 34B(3) and (10), 34BA(5) and 34C(4) of the Road Traffic Offenders Act 1988[^f00001].
+
+## Introductory
+
+### 1. Citation, commencement and application[^key-f249a69b3f853cdfb4d41981854daf64]
+
+(1) These Regulations may be cited as the Rehabilitation Courses (Relevant Drink Offences) Regulations 2012.
+
+(2) Regulations 1 to 4, 5(1) and (2), 7(1) and (4)(a) and 12, in so far as it relates to regulation 3, come into force on 21st December 2012.
+
+(3) All the other regulations, and regulation 12 for remaining purposes, come into force on 24th June 2013.
+
+(4) Regulations 2 to 12 apply in relation to England and Scotland only.
+
+### 2. Interpretation[^key-cd1980378bdbab32a8c0c7462298182f]
+
+*Extent: E+S*
+
+In these Regulations—
+
+- “the Act” means the Road Traffic Offenders Act 1988; and
+- “course” means a course for the purposes of section 34A of the Act[^f00002] in relation to the conviction of a person for a relevant drink offence.
+
+## Approval of courses
+
+*Extent: E+S*
+
+### 3. Applications for approval[^key-1aa91e00369e5cc9a387b09b9445ec5e]
+
+(1) An application for approval of a course must be in writing and be accompanied by such information as the Secretary of State may reasonably require and the fee specified in regulation 5(1).
+
+(2) The Secretary of State may refuse to consider an application if the applicant fails to comply with the requirements of paragraph (1).
+
+### 4. Secretary of State’s decision[^key-3b72c34a9afe4b2bf816877f654e80b5]
+
+(1) The Secretary of State must give a decision in writing on each application for approval.
+
+(2) Where the Secretary of State decides to refuse to grant approval of a course or to grant approval subject to a condition, the decision must be accompanied by the reasons for the refusal or the imposition of the condition.
+
+### 5. Fees[^key-2c0e3c49d6fdd904dd8881492355d3c5][^key-34bb914b07c07c122c91e7d665a858b9]
+
+(1)[^key-2c0e3c49d6fdd904dd8881492355d3c5] Except where paragraph (2) applies, the fee payable on an application for approval of a course is £1000.
+
+(2)[^key-2c0e3c49d6fdd904dd8881492355d3c5] Where an approved course is subject to a condition relating to the area in respect of which that course is to be provided and an application is made for the approval of that course in respect of its provision in another or a different area, the fee payable upon that application is not to exceed the sum of the costs reasonably incurred in carrying out the work to assess the application or £1000, whichever is the lower.
+
+(3)[^key-34bb914b07c07c122c91e7d665a858b9] If the Secretary of State grants approval of a course a fee (a “continuing approval fee”) calculated in accordance with paragraph (4) is payable by the course provider to the Secretary of State in accordance with paragraph (5) and if not paid is immediately recoverable as a civil debt.
+
+(4)[^key-34bb914b07c07c122c91e7d665a858b9] The continuing approval fee is an amount equal to £7 multiplied by the number of relevant offenders.
+
+(5)[^key-34bb914b07c07c122c91e7d665a858b9] The continuing approval fee is payable on the relevant day whilst a course is approved and, where a course ceases to be approved, is payable on the fourteenth day after approval ceases.
+
+(6)[^key-34bb914b07c07c122c91e7d665a858b9] For the purposes of this regulation—
+
+- “relevant day” means the day which falls upon each of the dates of 14th January, 14th April, 14th July and 14th October in any particular year;
+- “relevant offender” means—[^key-ac0e4cb4dc574efe995e7f07a4f204fd]
+  - (a) in relation to an approved course, a person who has completed that course during the relevant period; or
+  - (b) in relation to a course which ceased during a relevant period to be approved, a person who has completed that course during the period commencing with the start of the relevant period and ending on the date on which approval ceased; and
+- “relevant period” means the period of three months ending on 31st March, 30th June, 30th September or 31st December which falls immediately before the relevant day.
+
+### 6. Withdrawal of approval[^key-b893719a5a27dc2805ad4b5dd5d35563]
+
+(1) The Secretary of State may withdraw approval of a course if satisfied that the course provider has—
+
+- (a) failed to observe a condition imposed on approval of the course;
+- (b) disregarded guidance given under section 34C(1) of the Act; or
+- (c) ceased to be an appropriate person to provide the course and to administer its provision efficiently or effectively.
+
+(2) If the Secretary of State proposes to withdraw approval of a course, written notice of the proposal must be given to the course provider stating—
+
+- (a) the reasons for the proposal; and
+- (b) the course provider’s right to make representations concerning it.
+
+(3) Where the Secretary of State gives notice to a course provider under paragraph (2)—
+
+- (a) that person may, not later than the period of 28 days beginning with the day on which notice under paragraph (2) is given, make representations in writing to the Secretary of State concerning the proposal;
+- (b) the Secretary of State must not decide whether or not to withdraw approval until after the expiration of the period referred to in sub-paragraph (a); and
+- (c) if any such representations are made within the period referred to in sub-paragraph (a) the Secretary of State must take those representations into consideration before deciding whether or not to withdraw approval.
+
+(4) The Secretary of State must, on making a decision to withdraw the approval of a course, give notice in writing to the course provider and the notice must state—
+
+- (a) the date, not being less than 14 days after the date on which the notice is given, on which the withdrawal is, subject to regulation 7(3), to take effect;
+- (b) the reasons for the decision to withdraw; and
+- (c) the course provider’s right to appeal to the First-tier Tribunal under regulation 7(2)(a).
+
+(5) Paragraphs (2) to (4) do not apply if the Secretary of State—
+
+- (a) is satisfied that, by reason of serious misconduct on the part of the course provider or a person acting on behalf or under the direction of the course provider, the approval must be withdrawn without delay; and
+- (b) gives notice in writing to the course provider to that effect which states—
+  - (i) the nature of the misconduct; and
+  - (ii) the course provider’s right to—
+    - (aa) appeal to the First-tier Tribunal under regulation 7(2)(b); and
+    - (bb) apply to that Tribunal for the reinstatement of approval.
+
+(6) A notice under paragraph (2), (4) or (5)(b) may be given by delivering it to a course provider, leaving it at the last known address of a course provider or sending it to the course provider by first class post.
+
+### 7. Appeals[^key-b2fd2500b9b1d028c1fe6340b613b207][^key-3d06c460efc8840549b7ce1667ab3280]
+
+(1)[^key-b2fd2500b9b1d028c1fe6340b613b207] Where a person has made an application for approval of a course and the application—
+
+- (a) is refused, or
+- (b) is approved subject to conditions,
+
+that person may appeal to the First-tier Tribunal against the Secretary of State’s decision.
+
+(2)[^key-3d06c460efc8840549b7ce1667ab3280] A course provider may appeal to the First-tier Tribunal against the Secretary of State’s decision where a notice withdrawing approval of a course has been given under—
+
+- (a) regulation 6(4); or
+- (b) regulation 6(5)(b).
+
+(3)[^key-3d06c460efc8840549b7ce1667ab3280] Where an appeal is made under paragraph (2)(a) within 14 days of the date on which notice is given under regulation 6(4), the notice of withdrawal of approval is suspended pending the decision of the Tribunal in the matter.
+
+(4) On the appeal the First-tier Tribunal may make such order as it thinks fit—
+
+- (a)[^key-b2fd2500b9b1d028c1fe6340b613b207] if the appeal is under paragraph (1), granting (whether or not subject to conditions) or refusing an application, or
+- (b)[^key-3d06c460efc8840549b7ce1667ab3280] if the appeal is under paragraph (2), withdrawing, reinstating or continuing (whether or not subject to conditions) an approval.
+
+## Conduct of courses
+
+*Extent: E+S*
+
+### 8. Fees for courses[^key-d1e90461f9add8cd04c8d26584f1e4b3]
+
+(1) The maximum fee (an “attendance fee”) which a course provider may require a person to pay for attendance on a course is £250.
+
+(2) A course provider may require payment of an attendance fee in advance of attendance or in instalments.
+
+(3) An attendance fee must be paid in full before a person attending a course has completed it.
+
+### 9. Monitoring of courses and course providers[^key-85aa34e1637676da752c8bc4b395364a]
+
+(1) A course provider must, on a request from the Secretary of State, provide to the Secretary of State—
+
+- (a) such information concerning the course provider’s administrative arrangements and the conduct of courses as the Secretary of State may reasonably require and in such manner as the Secretary of State may reasonably require; and
+- (b) records or other documents (in whatever form they are held) which are kept for the purposes of compliance with sections 34A to 34C of the Act and these Regulations.
+
+(2) Information or documents (as the case may be) requested under paragraph (1) must be provided by the course provider within such time limit as the Secretary of State may reasonably stipulate or, where no time limit is stipulated, as soon as reasonably possible.
+
+### 10. Course completion[^key-5762df6ad57d9be1596a812e1e43e13b]
+
+The certificate referred to in section 34B(1) of the Act is one which is in the form set out in Schedule 1.
+
+**11.**[^key-69ced0d30a04b87c2f878d62ef869804] A notice under section 34B(5) of the Act—
+
+- (a) is one which is in the form set out in Schedule 2; and
+- (b) is to be treated as given to a person if—
+  - (i) addressed to that person at that person’s last known address,
+  - (ii) sent by post to that address, and
+  - (iii) such posting is certified by the carrier,
+
+  notwithstanding that it was returned as undelivered or was for any other reason not received by that person.
+
+## Publication of information
+
+### 12. Information about courses and course providers[^key-4cfdf7bd5e0ed5c9a9e549e6610acef0][^key-c9d8ed98d410c953c911bba0bb163a9c]
+
+*Extent: E+S*
+
+The Secretary of State may publish information about course providers, the content or cost of courses or the methods by which courses are conducted which was obtained by the Secretary of State as the appropriate national authority whether under regulation 3 or 9 or otherwise.
+
+### 13. Revocation[^key-50408d98b0d7516ebdb1a9b6d76e8964]
+
+The Road Traffic (Courses for Drink-Drive Offenders) Regulations 1992[^f00003] are revoked.
+
+Signed by authority of the Secretary of State for Transport
+
+Stephen Hammond
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+22nd November 2012
+
+*Extent: E+S*
+
+## SCHEDULE 1 — Certificate of Completion[^key-f1905342e178b69ec6e1de48398cf80a]
+
+Regulation 10
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2939/images/uksi_20122939_en_epp_007.gif)
+
+## SCHEDULE 2 — Form of Notice of Non-completion of Course[^key-105fe2c1a0d7c220929eadba28656794]
+
+Regulation 11(a)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2939/images/uksi_20122939_en_epp_008.gif)[image: see source](https://www.legislation.gov.uk/uksi/2012/2939/images/uksi_20122939_en_epp_009.gif)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision about drink-drive rehabilitation courses and, save in respect of the revocation of regulations, apply to England and Scotland only. These are courses which may be the subject of an order of a court under which a period of disqualification for drink-drive offences may be reduced if the offender successfully completes an approved course. The relevant statutory provisions are sections 34A to 34C of the Road Traffic Offenders Act 1988 as substituted by the Road Safety Act 2006, section 35.
+
+Regulations relating to applications for approval, approval and appeals against refusal of approval or conditional approval of courses are commenced on 21st December 2012 in advance of the remainder of the Regulations so that approved courses are available to be the subject of court orders made on and after 24th June 2013.
+
+*Regulation 3* provides for application to the Secretary of State for approval of a rehabilitation course.
+
+*Regulation 4* makes provision about the Secretary of State’s decision on such an application.
+
+*Regulation 5* provides for the payment of fees. A fee of £1000 is payable on each application. Where a course provider applies to provide an approved course in another, or a different, area the application fee must not exceed £1000. A continuing approval fee is payable by successful applicants following the grant of approval. The continuing approval fee is payable quarterly in arrears and calculated according to the number of persons (“offenders”) successfully completing the course during the previous quarter. The fee is set at £7 per offender.
+
+*Regulation 6* provides for withdrawal of approval of courses in the event of a course provider failing to observe a condition of approval, disregarding guidance or ceasing to be an appropriate person to provide the course and administer its provision efficiently or effectively. Save where the Secretary of State believes the course provider, or a person acting with the provider’s authority, has been guilty of serious misconduct meriting immediate withdrawal, a warning notice must first be given allowing the provider an opportunity to reply to the proposal to withdraw approval. Every withdrawal notice given by the Secretary of State must state the reason for the withdrawal and, if appropriate, the nature of any serious misconduct.
+
+*Regulation 7* provides for appeals against the refusal of an application for approval, the imposition of a condition on the grant of approval or the withdrawal of an approval. Appeals must be made within a specified period to the First-tier Tribunal, which has the power to make such orders as it thinks fit.
+
+*Regulation 8* prescribes a maximum course attendance fee of £250 and specifies when and how attendance fees are to be paid.
+
+*Regulation 9* allows the Secretary of State to require information from course providers about their administration and conduct of courses and also their compliance with sections 34A to 34C of the Road Traffic Offenders Act 1988 and these Regulations.
+
+*Regulations 10 and 11* prescribe the form of a certificate of completion of a course and of a notice of non-completion and also the circumstances in which such a notice is to be treated as having been given.
+
+*Regulation 12* empowers the Secretary of State to publish information about courses, including their cost.
+
+*Regulation 13* revokes the Road Traffic (Courses for Drink-Drive Offenders) Regulations 1992.
+
+A full Impact Assessment of the effect this instrument will have on the costs of business and the voluntary sector is available at www.gov.uk. The impact assessment is also attached to the Explanatory Memorandum and available alongside the instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53); sections 34B, 34BA and 34C were substituted by the Road Safety Act [2006 (c.49)](https://www.legislation.gov.uk/ukpga/2006/49), section 35.
+
+[^key-f249a69b3f853cdfb4d41981854daf64]: Commencement: Reg. 1 in force at 21.12.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/2)
+
+[^key-cd1980378bdbab32a8c0c7462298182f]: Commencement: Reg. 2 in force at 21.12.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/2)
+
+[^f00002]: Footnote: Section 34A was substituted by the Road Safety Act 2006, section 35.
+
+[^key-1aa91e00369e5cc9a387b09b9445ec5e]: Commencement: Reg. 3 in force at 21.12.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/2)
+
+[^key-3b72c34a9afe4b2bf816877f654e80b5]: Commencement: Reg. 4 in force at 21.12.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/2)
+
+[^key-2c0e3c49d6fdd904dd8881492355d3c5]: Commencement: Reg. 5(1)(2) in force at 21.12.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/2)
+
+[^key-34bb914b07c07c122c91e7d665a858b9]: Commencement: Reg. 5(3)-(6) in force at 24.6.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/3)
+
+[^key-ac0e4cb4dc574efe995e7f07a4f204fd]: Textual amendment: Words in reg. 5(6) substituted (6.4.2015) by [The Rehabilitation Courses (Relevant Drink Offences) (Amendment) Regulations 2015 (S.I. 2015/366)](https://www.legislation.gov.uk/uksi/2015/366), [regs. 1](https://www.legislation.gov.uk/uksi/2015/366/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/366/regulation/2/2)
+
+[^key-b893719a5a27dc2805ad4b5dd5d35563]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2939/regulation/6) in force at 24.6.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/3)
+
+[^key-b2fd2500b9b1d028c1fe6340b613b207]: Commencement: Reg. 7(1)(4)(a) in force at 21.12.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/2)
+
+[^key-3d06c460efc8840549b7ce1667ab3280]: Commencement: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/7/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/7/4/b) in force at 24.6.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/3)
+
+[^key-d1e90461f9add8cd04c8d26584f1e4b3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2939/regulation/8) in force at 24.6.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/3)
+
+[^key-85aa34e1637676da752c8bc4b395364a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2939/regulation/9) in force at 24.6.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/3)
+
+[^key-5762df6ad57d9be1596a812e1e43e13b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2939/regulation/10) in force at 24.6.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/3)
+
+[^key-69ced0d30a04b87c2f878d62ef869804]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/2939/regulation/11) in force at 24.6.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/3)
+
+[^key-4cfdf7bd5e0ed5c9a9e549e6610acef0]: Commencement: Reg. 12 in force at 21.12.2012 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/2)
+
+[^key-c9d8ed98d410c953c911bba0bb163a9c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/2939/regulation/12) in force at 24.6.2013 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/3)
+
+[^key-50408d98b0d7516ebdb1a9b6d76e8964]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/2939/regulation/13) in force at 24.6.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2939/regulation/1/3)
+
+[^f00003]: Footnote: [S.I. 1992/3013](https://www.legislation.gov.uk/uksi/1992/3013).
+
+[^key-f1905342e178b69ec6e1de48398cf80a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2939/schedule/1) substituted (6.4.2015) by [The Rehabilitation Courses (Relevant Drink Offences) (Amendment) Regulations 2015 (S.I. 2015/366)](https://www.legislation.gov.uk/uksi/2015/366), [reg. 1](https://www.legislation.gov.uk/uksi/2015/366/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/366/schedule/1)
+
+[^key-105fe2c1a0d7c220929eadba28656794]: Textual amendment: Sch. 2 substituted (6.4.2015) by [The Rehabilitation Courses (Relevant Drink Offences) (Amendment) Regulations 2015 (S.I. 2015/366)](https://www.legislation.gov.uk/uksi/2015/366), [reg. 1](https://www.legislation.gov.uk/uksi/2015/366/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/366/schedule/2)

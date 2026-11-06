@@ -1,0 +1,56 @@
+---
+title: Crime and Policing Act 2026, section 161
+act: Crime and Policing Act 2026
+section: '161'
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/161
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crime and Policing Act 2026, section 161
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 161. Climbing on memorials[^key-8330ba64c43a7fdf020a3b38f0275aeb][^key-0a1c200d448ad49cabe8fd43cf1e30b4]
+
+*Extent: E+W*
+
+(1) A person who climbs on a specified memorial commits an offence.
+
+(2) It is a defence for a person charged with an offence under this section to prove that they—
+
+- (a) had a good reason for climbing on the specified memorial,
+- (b) were the owner or occupier of the specified memorial, or
+- (c) had the consent of the owner or occupier of the specified memorial, or other lawful authority, to climb on it.
+
+(3) In this section “**specified memorial**” means—
+
+- (a) a war memorial specified in Part 1 of Schedule 17,
+- (b) a part of a war memorial specified in Part 2 of Schedule 17, or
+- (c) a memorial or a part of a memorial specified in Part 3 of Schedule 17.
+
+(4) The Secretary of State may by regulations amend Schedule 17.
+
+(5) The Secretary of State may make regulations adding a memorial, or a part of a memorial, to Schedule 17 only if the Secretary of State considers that there is a significant public interest in it being a specified memorial for the purposes of this section.
+
+(6) A person who commits an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 3 on the standard scale (or both).
+
+(7) In this section “**memorial**” means a building or other structure, or any other thing, erected or installed on land (or in or on any building or other structure on land) which has a commemorative purpose.
+
+(8) Something has a commemorative purpose if at least one of its purposes is to commemorate—
+
+- (a) one or more individuals or animals, or a description of individuals or animals (whether living or dead and whether or not capable of being identified), or
+- (b) an event or series of events (such as an armed conflict).
+
+(9) In subsection (7) references to a building or structure include part of a building or structure.
+
+## Annotations
+
+[^key-8330ba64c43a7fdf020a3b38f0275aeb]: Commencement: S. 161 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+
+[^key-0a1c200d448ad49cabe8fd43cf1e30b4]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2026/20/section/161) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(n)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/n)

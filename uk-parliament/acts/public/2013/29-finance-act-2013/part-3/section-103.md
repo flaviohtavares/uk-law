@@ -1,0 +1,44 @@
+---
+title: Finance Act 2013, section 103
+act: Finance Act 2013
+section: '103'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/103
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 103
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 103. Section 102: “substantial” acquisitions and disposals
+
+*Extent: E+W+S+N.I.*
+
+(1) For the purposes of section 102—
+
+- (a) the acquisition of a chargeable interest in a dwelling is a “substantial acquisition” only if the chargeable consideration for the acquisition is £40,000 or more;
+- (b) the disposal of part (but not the whole) of a single-dwelling interest is a “substantial disposal” only if the chargeable consideration for the acquisition of the chargeable interest by the person acquiring it is £40,000 or more.
+
+(2) If the acquisition mentioned in subsection (1)(a) is a transaction between persons who are connected with each other or not acting at arm's length, subsection (1)(a) applies as if the reference to the chargeable consideration for the acquisition were to the market value of the chargeable interest acquired.
+
+(3) If the disposal mentioned in subsection (1)(b) is a transaction between persons who are connected with each other or not acting at arm's length, subsection (1)(b) applies as if the reference to the chargeable consideration for the acquisition in question were to the market value of the part of the single-dwelling interest disposed of.
+
+(4) The chargeable consideration for the acquisition mentioned in subsection (1)(a) is taken to include the chargeable consideration for any linked acquisition of a chargeable interest in or over the same dwelling.
+
+(5) The chargeable consideration for the transaction mentioned in subsection (1)(b) is taken to include the chargeable consideration for any linked disposal of part (but not the whole) of the single-dwelling interest concerned.
+
+(6) For the purposes of subsection (2) the market value of the chargeable interest acquired is taken to be the sum of the market values of that chargeable interest and any chargeable interest in or over the same dwelling that is acquired in a linked transaction.
+
+(7) For the purposes of subsection (3) the market value of the part of the single-dwelling interest disposed of is taken to be the sum of the market values of that chargeable interest and any chargeable interest in or over the same dwelling that is disposed of in a linked transaction.
+
+(8) For the purposes of this section two or more transactions are “linked” if they form part of a single scheme, arrangement or series of transactions between the same vendor and purchaser or, in either case, persons connected with them.
+
+(9) In this section “**chargeable consideration**”, “**purchaser**” and “**vendor**” have the same meaning as in Part 4 of FA 2003.
+
+(10) In this section references to a disposal of part of a single-dwelling interest include the grant of a chargeable interest out of the single-dwelling interest.

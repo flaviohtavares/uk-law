@@ -1,0 +1,1497 @@
+---
+title: Compulsory Purchase (Vesting Declarations) Act 1981
+id: ukpga/1981/66
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1981-10-30'
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1981/66
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1981/66/pdfs/ukpga_19810066_en.pdf
+- http://www.legislation.gov.uk/ukpga/1981/66/data.pdf
+pending_changes: 6
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Compulsory Purchase (Vesting Declarations) Act 1981
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/66
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Compulsory Purchase (Vesting Declarations) Act 1981
+
+1981 c. 66
+
+An Act to consolidate the provisions of the Town and Country Planning Act 1968 concerning general vesting declarations, and related enactments.
+
+\[30th October 1981\][^c4904001][^c4903991][^c4903981][^c5008021][^c5008031][^key-745dcdd6afcdd3897b7eebdd6ca767da][^key-bd0370020e6a4f0731924967413ff541][^key-eea21dde0952e74be7a5a2cdcb1da7e5][^key-003a1161f95c4f72443c3c54f32ee076][^key-c3b85fef034b1b2033d32b883df1a880][^key-d1f7bd95725be8dfba2f6ee9f4a421a1][^key-9c5e56fbe41b953b47e9289dc81444e6][^key-a9f63a0e418082b1281e40aa06e1c271][^key-d941dd27c8a692040cd48808cbdd5717][^key-49607c4489fa612b750e1f6fa9c7e017][^key-d7042e00288f07bfc4fecf80ccc2db90][^key-365354dea3ffd9e0e8935503bdce6c7f][^key-bb00efbcfbe91ca92817ec049f613d89][^key-2221f5bb1867ee9e3a10f2bd06b33e24][^key-13952d394e704b1d58bd4fd119de549f][^key-0be21a6e0ea3cd61c412c5aa075a5c1f][^key-bb4815fff8ee5e71a863144285347973][^key-0047e119a56c6b9d5c73185c8e5b1020][^key-afc3b538119bf4ec4146db6e586e3925][^key-a5504f0d05eb487eeba8c5ecf5df5e49][^key-876819b0aaf337db4718ad2124c54d05][^key-4c3418d0965866d698f9551bc65ac76d][^key-55fb62683db60c0227b081c2a76a479e][^key-e8756200444759868390de76f1f732cd][^key-6400ffd5195474f7cea2522949e6821d][^key-7da51e3cf1d2258b5ef7dfcdcf7130f3][^key-270cabe71c1688abe68dc8ad6cee5ca4][^key-fa15a5b434f2f3d3a3389079027f2421][^key-b15a11747306aad4a52453efe500a521][^key-3074928517fb0350f15b91a130a8eab7][^key-ad3eb52537094bc6f51159b5b09eb018][^key-41046e791d2560481c2be7f93477a5ce][^key-ca938f98d3babf7b32aac6bb8e6d43e9][^key-87f965c8cbbea81f8dc81470e9fe600e][^key-ee87e860a5272ea632dfce8a07e5e6b0][^key-c3886985e8c84c0d65f137ae02cfb845][^key-16ecb57e2324ff5da061335e5ebf70cd][^key-42e40838bbd4afb129951be13765f3d6][^key-41b296b9535b465a66773563b91241a5][^key-79f089822ac56555edbc4c30da4b9ff2][^key-8a6adbcf03fb194a035aa1efdb38c2ba][^key-93c5ed479642f6836f3047fe64ef3274][^key-83901704d68930d5f5e6a90f27d5c0c6][^key-19d64190bbb131d3b4a51bdbac26784f][^key-6261e65ae8339845d9f5c34ecb71e9f9][^key-13529d0db927483a0cbdf68064cdede3][^key-ecd5c09c95b22f87dbbe4dacd845fa25][^key-a1911d747139a64918ac26bd03c78cec][^key-b7addf1dd277f0890f30cda58f9af6c6][^key-4e7b33f2d4dd2e46768180e45f4158e2][^key-33ba9e352569e822af343980c1bde661][^key-d0574b10a5c68820d5de7866ab8bd45c][^key-ca5523f5de4be950a2d9dea9e0e44375][^key-4c934b7d657af499435128ec71694430][^key-8dc0436db9d8b5901f671a32bb53f6a7][^key-fd65f4e809145fc46aedcf4909147f93][^key-db8ae6bb888a3eac753edc392c965fdd][^key-fc63e5ac503392ddb359117cb76443dd][^key-4fd37cef80e0ffa6abf0e1d49fadb582][^key-f311e2d5d4932a3d0253fbabfca9ab3d][^key-0278a4e7063718f707f2f7077bf4b25b][^key-12731a9e239f28b598c6df9216cb34c5][^key-79e0fc9504a14538d936732f305da7b1][^key-a3ad18a82d7ca23d627aa9b2650c95cb][^key-c66298c895fbc86920743f81ad41a74c][^key-7109784c0181b6e9790fbe157e9a5618][^key-bde7ae5cb09e79afd716714089c5b3f6][^key-fe063d17a5a286ad7b748b4510f0f26a][^key-a45ac8071ee88e6d7a3562e710c3838b][^key-152fe69ed73ab3e905e76d657a4f8adc][^key-07217b9597d999608b826ca5e2c9440e][^key-ef74cdb745bce7897e2a722f2414e558][^key-475d1750a9bd1c23c4ce393f58d1768d][^key-5e150a1329109ffd5a309f2713e0c608][^key-5e61ed9378c884430915336cd9586162][^key-5ecd63f57996a83f1dc7fdbfa24d51dc][^key-c3949681ba753e40cd002fea67f0780c][^key-34f9df6b3450863785e0dcccd6018a99][^key-4eec1a75de60575dad53fd38b4c53bbd][^key-11d8286dde34324a47791ebee02151d9][^key-671153c0163fb3d87403623ed08af5ef][^key-d25b61f9e86488d9495db36e78bf60ba][^key-322f864a18bbff62d09f590f3f208db7][^key-4a961165ea5ad8b0f88d3cf660f9b104][^key-89a800e337b212d1d2f496be42d76787][^key-ae8f8c3b9365ec7fcbafa5006a9d7659][^key-4f28e612b59a775c181fc0e62df0a5fd][^key-092d3ef1cfff3b94b6d645f17ec1ce89][^key-9b1bb2aafa81d59195d2f5fde06b82ad][^key-53a844a779cadabbc6b60fa3f22d1e46][^key-3d33dfa48639cddd280fe52399237786][^key-9aa3c381de68e9d5fa37ed993fbeeb6c][^key-97bcd0edd0eb2a4ded7123b236d7cfd2][^key-8044c2294bf11209fdb034a222789167][^key-03066d60102a80d33d1c9ab4e1849a51][^key-c97a5951d2e85d704c86f7c549ea80f2][^key-52c6c39f649bb7efdeeb199ba6f2698b][^key-f057020c14262231e18c9affbf58ac72][^key-28c9348ae710e2b5b7216c85a42a687e][^key-beafd72191a04ee5290a9e3e6188e9d8][^key-96ab1d0f6589fd8cf3e9ff0b55b17b22][^key-138dcc1d4edb6a8ad3e7f8f5caf64488][^key-c0bfab1572e4c0a16652efed6d54420d][^key-4add512e828acc6412d1cf60ef88e233][^key-b36454c5b719a0f11a4187995669e3de][^key-6f60991491afd996303107fd3e76b9f4][^key-c876e7695c40835fc153133003e55e42][^key-f9d13b29311102edb2e68d3ade75fbbd][^key-b23fec386214a9ef2d0783bdf294cd3e][^key-b584916c07d770b5f8d845c7cd64cf1c][^key-bdb4b6951b54008a3b56dea83b699a1f][^key-fcb71e88afe80b392281a9397a2a7a31][^key-1338c9c4f7d9245381bba3f12db5c42f][^key-0d568b88295c06e2f7a9f3f097bf2cc2][^key-b0db868ac02b172f06d0e4cbe2a9df31][^key-0800e341948ed39e8eef1ec6d3766293][^key-53b897e7af3ccbc2cc2bb64a9fb82c34][^key-3f436a6f83c1acb36dcfc56759c54ad8][^key-22011e75b7bd398705254061f25edb39][^key-8c28f9b4adfcb331dc6709dcb11795b8][^key-c1d5f10fd491b26264aa5b5dec5078c7][^key-eda22c8e51fbf4c73d3c577d6679faae][^key-c1c125768e69306cde648db015980633][^key-bf4e39feb3e50fd3493dfcc63d9f839c][^key-0977a8af6eec7ee3eab706af0de9df56][^key-ae6b5e17789acffdf79223090ca41f40][^key-1948ce6f7e9d32c60b115f207c6b9c8e][^key-37ec20ed77f4a89ca95c95b0b79b66a7][^key-8f40450e453d3b7b3afcf7f067bdf613][^key-077730fe4ba4ee4e79bc8b7d17f2b580][^key-6555ffdc22da9209cc178565a250d4f2][^key-036c83887729974ac00aada144df5c58][^key-f876d12a189342ac85167b34505d38b7][^key-e1e16b437223525debfb03548f110c3b][^key-a87035ccceade9396a6dd90347135b34][^key-61572e6ea0f1d4fba952b620735cc148][^key-33f44d78c2b9fa791f65453c8d81b7b0][^key-e9527dd2db121bac701b62741aa1ac93][^key-b9e74eea52ad80a274c63999e7dd4784][^key-a6d0ae4e947b259af7b9f68b1db0da78][^key-6002b46815fbdc277023b6ba1c6576b6][^key-e8376738b190ca941c6d4598e40c7037][^key-c5b86e55439b93f6f0417f45f8b0c3e9][^key-0558ff62ea3eb232cd0ca306f45805e4][^key-af368cfafbaf7ef5d49575f9f630544e][^key-f465e31ca9a0f57d7d2db2b4b9f9052a][^key-06df00c4e844430dff8f210b9cbcd379][^key-e7e33db488c4c9fcef957bbc0653e23d][^key-d9db775a8362a14d149d605bcfbbe473][^key-efb261d3f0160df97500c5df2ffce71e][^key-2637009a4561c826f1665e5718fe0219][^key-5a64f957ecac762711e75292ffd7adb3][^key-8bb581712a234a20cf1cf69973505f80][^key-63c3810c339b5860ddbbc007f0d05d44][^key-f0669550cdb4d3ac1ade8947d1984c17][^key-eadbddc5d0c763256e8ea27d45559357][^key-e46362a9f79da69f1ca32d94475e037e][^key-e3317ff54acf17cddfad528afe880de2][^key-46f5fcb57378487239ac8ee2f408b01a][^key-9bb18539c289654bed9a4b1fb06568f7][^key-7a8c1bdfa01836dbf3d8304625cb04ae][^key-ec8a8f4e011dc5095afeddeaa958175a][^key-8d2f1a69c296ee0c6f3957675719d5f1][^key-dc2f9fa667f3e25431e95bf9cf1ebc73][^key-7d220d545660b8e3cd7bda3bc6ca0049][^key-a52e9ac2e2c2b71a48bc499103cf5441][^key-a49beb9ab38cc7dfa64ff5464fd0242c][^key-13e4782c90f966a3682f139b526b63c2][^key-39e094cf1621fa03ef3fae8b9c2ee833][^key-5c04891fa440ecf1b795dfdcd15c7a1f][^key-823137d814dc1f924817ed6341f88274][^key-04c722e69a92b90a594f8e48c576bb3d][^M_C_6e3070b2-4805-44d8-877e-de2baf374c65][^key-c42e37adad9394d9cb88da5b0bf1ea0b][^key-21c6edade7a16fb8139c8768d01c1a0c][^key-da86fcc36e17ac25c6077fab8d1a6b72][^key-2c73fd8b242775c27fa5d0888498b2db][^key-03df0dd33cb720669577f58d95e4c103][^key-0bd9e7708726417f4344ad9f3fcc3946][^key-34176ea6fc86732476f53c87d32ff300][^key-93636591ac3ac96980845fcdd7d420ef][^key-be1556ec1c37a8a87341a6aedf996277][^key-db2c0883bd48c27e093c2a28aa566967][^key-8c4d6e0f36e9c30cd33a7e9795946a83][^key-3805dca73317a695cbb2139cd11a2aa3][^key-5e751b484a61a1b401fb0237d4fb917f][^key-cc215ce45d99ef279e1333a25f6f7d72][^key-13d90e31cecaf31d080afb8207a35992][^key-76ae7125b624bdf18dab01e551638341][^key-765d5371d4bccbf431c9e824faa35524][^key-8839ab64d03b2c0c7363aa815371005b][^key-7c8372e72792d0e7740d17bd6461f5eb][^key-99996ca6f7365d5b3719f32132d63267][^key-af6613efdea1c3dd1456bdc8d1d9ebbc][^key-3a63dd15d8d39ab648b2e28c9c4c1e0c][^key-f2f07d8511139634b208c92d2ceea754][^key-6c654539aa628d2d71cc60d2f9e7f734][^key-beeeb634845d9f87a5b0c8303ccdc08c][^key-c09158423ca13f2a85090a53b0606e06][^key-26747b1abe1fc7fcd4bfd1cff4a242a1][^key-46c0fb8d8038195a1d5131920791deb4][^key-a8e362880043792220d6387d7db75500][^key-7f34b177f083eb679b996988442a3d72][^key-fadef86d52d8f02820bbf0cc568dac0c][^key-f7b5e389198260e75b6e5cdb281a7434][^M_C_d8b996d7-2a74-45d3-e342-9729095be2ed][^key-72f52eede83e56c2c5a360517bc1ce7e][^key-875e41b0e307206bf9c345bc437bcc38][^key-40e9c149713bff3ab02b00907e24a326][^key-f8acc1fe1a5991f70a84e6fb2868bdb8][^key-b8fd4ea3bcc2cd123a83aae3d706ce1e][^key-0bb78b58789a69fc75b6cb05cf0b5d2c][^key-a9fb90baa35106e3bcad9a27df078c4a][^key-476ec096375e4bc12bf46ea67feab393][^key-b7cecd66b6d888db0fd6032105ad31bc][^key-468f5067bdb365287539745bfae4cf47][^key-fb017ffbedf1958cac21553f81297e1c][^key-00c5723b8f749c2ec8bbb83534d0adaa][^key-0c9b6a311dc969bf0d281f453e5c024c][^key-2519d7d8be88bcd4934d25f95bd47621][^key-a10fb496d1e9048f5adec64eb1aebc6f][^key-a8a6f6b911abfba6238094a914efbe6e][^key-1901e067e01c0f22ea57bf4f947ea9a1][^key-7d365f35c335bac707a573ee7b608c3b][^key-e80f23ee570e84ed242c0ad13ed06f1a][^key-9ff21ba00c35f3d8efaef7f3a9d7e46a][^key-0d18caac7ed340cba5e986ae25c747a6][^key-77871afbcfb26f0c25c69a599c5613e2][^key-46a7717aac395531fb8978095f5d7109][^key-c286a613a7de69df3e1c8e687d6daacd][^key-2ec8deac82dcecbcbd8331c4663161f5][^key-8d6bda512b259ba1f984767d06f54ee2][^key-7d779a9dda09dc357d12087efa164c28][^key-7a51cf472839f6ca978c20f83bd55fa6][^key-018b43d45aec8bdf7f41594a4d8ed7bc]
+
+## Part I — General
+
+### 1. Application of Act.
+
+(1) This Act has effect for the purpose of enabling any authority to whom this section applies to vest in themselves by a declaration land which they are authorised by a compulsory purchase order to acquire, and with respect to connected matters.
+
+(2) This section applies to any Minister of local or other public authority authorised to acquire land by means of a compulsory purchase order.
+
+### 2. Interpretation and construction.
+
+(1) In this Act—
+
+- “**acquiring authority**” means a Minister or other authority to whom section 1 above applies,
+- “[^key-5928c0e10f8c718bc0c0f0f3ed578242]**expedited procedure**” means the procedure (available in respect of unoccupied land etc or where there is no identifiable interest holder) whereby a general vesting declaration may vest the land in the acquiring authority less than three months from the date on which the service of notices required by section 6 is completed (see section 4(1ZA)(a) and sections 4A and 4B),
+- “**general vesting declaration**” means a declaration executed under section 4 below,
+- “**land**”, in relation to compulsory acquisition by an acquiring authority, has the same meaning as in the relevant enactments,
+- “**long tenancy which is about to expire**” has the meaning given by subsection (2) below,
+- “**minor tenancy**” means a tenancy for a year or from year to year, or any lesser interest,
+- “**prescribed**” means prescribed by regulations made by the Secretary of State which shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament,
+- “**relevant enactments**”, in relation to an acquiring authority, means the enactments under which that authority may acquire or be authorised to acquire land compulsorily and which prescribe a procedure for effecting the compulsory acquisition by them by means of a compulsory purchase order,
+- “**tenancy**” has the same meaning as in the [^c4904011]Landlord and Tenant Act 1954,
+- “**vesting date**”, in relation to a general vesting declaration, has the meaning given by section 4(3) below.
+
+(2) In this Act “**long tenancy which is about to expire**”, in relation to a general vesting declaration, means a tenancy granted for an interest greater than a minor tenancy, but having on the vesting date a period still to run which is not more than the specified period (that is to say, such period, longer than one year, as may for the purposes of this definition be specified in the declaration in relation to the land in which the tenancy subsists).
+
+In determining for the purposes of this subsection what period a tenancy still has to run on the vesting date it shall be assumed—
+
+- (a) that the tenant will exercise any option to renew the tenancy, and will not exercise any option to terminate the tenancy, then or thereafter available to him,
+- (b) that the landlord will exercise any option to terminate the tenancy then or thereafter available to him.
+
+(3) Section 330 of the[^c4904021] [^c4904031]Town and Country Planning Act 1990 (information as to interests in land) shall have effect as if this Act were part of that Act.
+
+## Part II — Execution of Declaration
+
+### 3. Preliminary notices.[^key-5d32b830347d5e5c1f41a0e49d877aaa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Execution of declaration.[^key-557b19675f18c81eb84ff2b9a4fba80c][^key-32aabf74e7d5b2f6b92c5f2b66d6ce0b][^key-f6deeb770bfb09b4efd50127bd90a43c][^key-a7703021da48dbc84c56eea8b55d1a65][^key-f944c485ad70026c0fcfe93d09b19713][^key-9a43cafd89a642b6c212d7ccfc8eb126][^key-8100c9048af25a665ae6e80d850f320e][^key-95d011f67dc753ef7c35644ed713da99][^key-acad0190317eb28a06f4b23aaf2947e1][^key-5d21eb72a034074463f601ef5d059171][^key-572b0bd13b3db56fb1ad0bbfca4ed4ab][^key-3592fc73e0d9f5e3b6c6bdd197bed40f][^key-fb80e9ec2f1c808c13c2711b733dc41e][^key-4c94c5a4dabe440fa54f61858e50d091][^key-89a7033bc1b83f4eb463908e1d54495d][^key-aaf099f39eb5711757219ca165dd9c98][^key-8bb553d06dc222330c2e98f90f8dce8e][^key-b21ef2c3b520ae4af1c6921178633199][^M_C_6c5c9296-d57c-4e85-e226-160bae4ecf90]
+
+(1) The acquiring authority may execute in respect of any of the land which they are authorised to acquire by the compulsory purchase order a declaration in the prescribed form vesting the land in themselves from the end of such period as may be specified in the declaration [^key-3b15980bd8f2f3b2fd94dde9af867947]....
+
+(1ZA)[^key-63ded085a39d4c1f44b427013e3afba1] That period must be—
+
+- (a) where the expedited procedure is available (see section 4A), not less than six weeks from the date on which the service of notices required by section 6 is completed;
+- (b) otherwise not less than three months from that date.
+
+(1A)[^key-04500d9cdb90ff41e5e8e33a4fade41f] But an acquiring authority may not execute a declaration in respect of land if they have served a notice to treat in respect of that land and have not withdrawn it.
+
+(1B) In subsection (1A) the reference to an authority having “served” a notice does not include cases in which the authority is deemed to have served a notice.
+
+(2) For the purposes of this Act a certificate by the acquiring authority that the service of notices required by section 6 below was completed on a date specified in the certificate shall be conclusive evidence of the fact so stated.
+
+(3)[^key-d3b91d4889b5fac5a20c59e4780a927f] For the purposes of this Act the “**vesting date**” in relation to any land that is actually specified in a general vesting declaration is—
+
+- (a) the first day after the end of the period specified in the declaration in accordance with subsection (1) above, or
+- (b) if a counter-notice is served under paragraph 2 of Schedule A1 within that period in relation to land, the day determined as the vesting date for the land in accordance with that Schedule.
+
+(4) For the purposes of this Act, the “vesting date” for any land that is deemed to have been specified in a general vesting declaration by Schedule A1 is the day determined as the vesting date for the land in accordance with that Schedule.
+
+### 4A. Vesting date: expedited procedure[^key-de6457d8960fb1467ebd896ceb82d26f]
+
+(1) The expedited procedure is available in relation to a general vesting declaration if—
+
+- (a) the specified land is unoccupied,
+- (b) the acquiring authority considers that, by reason of disrepair, neglect, contamination, or risk to health or safety, the specified land is unfit for its ordinary use, and
+- (c) Schedule A1 does not apply to the declaration.
+
+(2) The expedited procedure is also available in relation to a general vesting declaration if the acquiring authority has been unable to identify any person with an interest in the specified land.
+
+(3) Land is not to be regarded as occupied for the purposes of subsection (1)(a)—
+
+- (a) if it is occupied only by persons who do not have a right to occupy it;
+- (b) because of the presence of chattels on the land if the chattels appear to the acquiring authority to be of no significant value.
+
+(4) The ordinary use of land is to be taken for the purposes of subsection (1)(b) to be—
+
+- (a) so far as the land comprises buildings or other features designed or adapted for a particular use, that use, and
+- (b) so far as the land does not comprise such buildings or features, its most recent lawful use.
+
+(5) If the specified land includes one or more dwellings, the acquiring authority may decide that it is unfit for its ordinary use only if it considers that the dwelling, or each of those dwellings, is unfit for human habitation within the meaning of the Landlord and Tenant Act 1985 (see section 10 of that Act).
+
+(6) In this section—
+
+- “**dwelling**” means a building or part of a building designed or adapted for occupation as a separate dwelling;
+- “**the specified land**” means the land specified in the general vesting declaration.
+
+### 4B. Expedited procedure: process
+
+(1) This section applies where the acquiring authority has executed a general vesting declaration under the expedited procedure.
+
+(2) A person may, at any time before the end of the period of four weeks beginning with the date on which the general vesting declaration is executed, make representations to the acquiring authority that the expedited procedure is not available in relation to the declaration.
+
+(3) The representations need not be in writing.
+
+(4) The acquiring authority must provide a written response to the representations before the end of the period of seven days beginning with the day on which it received them.
+
+(5) If, at any time between the execution of the general vesting declaration and the vesting date, the acquiring authority becomes aware of a reason why the expedited procedure is not available (whether as a result of representations or otherwise), the authority must amend the general vesting declaration so that the period specified in it complies with section 4(1ZA)(b) (period of at least three months from service of notices).
+
+(6) If the acquiring authority amends the general vesting declaration under subsection (5), it must serve notice of the amendment on—
+
+- (a) every person who has made representations under subsection (2), and
+- (b) every person who was served a notice about the declaration under section 6.
+
+### 5. Earliest date for execution of declaration.[^key-332061eb5dbb4273c28c6b8dcbd4976a]
+
+(1)[^key-437a4b91d6e36e91fa75cc0f0ceb645c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A declaration under section 4 above shall not be executed before the compulsory purchase order has come into operation, and this subsection applies in particular where the compulsory purchase order is subject to special parliamentary procedure and therefore does not come into operation in accordance with section 26(1)[^key-f97979fdac444d1959e8453e297a20b0] 26 of the [^c4904051]Acquisition of Land Act 1981 or any corresponding provision of the relevant enactments.
+
+### 5A. Time limit for general vesting declaration[^key-a618a63b2fa9680d145a745315afdffd]
+
+(1)[^key-7e5bf09457f5e67d7041ee798545d378] A general vesting declaration may not be executed after the end of the applicable period[^key-ee517bca1407623224193ceedc8ffd46] beginning with the day on which the compulsory purchase order becomes operative.
+
+(2)[^key-d0ecbe65da3a4d2252d943fe98c95900] The applicable period is—
+
+- (a) 3 years, or
+- (b) such longer period as is specified in the order for the purposes of this section.
+
+### 5B. Extension of time limit during challenge[^key-df6c60580865dc6dcd4570db54f66b87]
+
+(1) If an application is made under section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the applicable period for the purposes of[^key-e28e9d6b09eb012e2f628801dc35e20c] section 5A is to be extended by—
+
+- (a) a period equivalent to the period beginning with the day the application is made and ending on the day it is withdrawn or finally determined, or
+- (b) if shorter, one year.
+
+(2) An application is not finally determined for the purposes of subsection (1)(a) if an appeal in respect of the application—
+
+- (a) could be brought (ignoring any possibility of an appeal out of time with permission), or
+- (b) has been made and not withdrawn or finally determined.
+
+### 6. Notices after execution of declaration.
+
+(1) As soon as may be after executing a general vesting declaration the acquiring authority shall serve—
+
+- (a) on every occupier of any of the land specified in the declaration (other than land in which there subsists a minor tenancy or a long tenancy which is about to expire), and
+- (b) on every other person who has given information to the acquiring authority with respect to any of that land in pursuance of the invitation published and served under section 15 of, or paragraph 6 of Schedule 1 to, the Acquisition of Land Act 1981[^key-8966fa0c1cd749760a35dc8fa8b3ad08],
+
+a notice in the prescribed form specifying the land and stating the effect of the declaration.
+
+(1A)[^key-f4d5a0c47341562cde44f9e140f75ee4] In a case where the period specified in the declaration under section 4(1) is less than three months, the notice must also state—
+
+- (a) that the acquiring authority considers that the expedited procedure is available under section 4A(1) or (2) (as the case may be);
+- (b) the vesting date;
+- (c) that any person who disagrees that the expedited procedure is available may make representations to the acquiring authority under section 4B(2);
+- (d) that if, before the vesting date, the acquiring authority no longer considers that the expedited procedure is available, the authority will amend the general vesting declaration so that the period specified in it complies with section 4(1ZA)(b) (period of at least three months from service of notices).
+
+(2) Section 329 of the[^c4904061] [^c4904071]Town and Country Planning Act 1990 (service of notices) shall apply as if this section formed part of that Act.
+
+## Part III — Effect of Declaration
+
+### 7. Constructive notice to treat.[^key-0fbc4153756ea9c6d6d201c7939ea7df]
+
+(1)[^key-a10457824f6c024a5d01f2caf803a9b7] Subject to[^key-e7e9d51b5439462cf3fa301df27614e0] sections 8A and 8B[^M_F_aa4a38fa-9b55-474b-95a4-70e5452c34f2], on the vesting date the provisions of—
+
+- (a) the Land Compensation Act 1961 (as modified by section 4 of the Acquisition of Land Act 1981),
+- (b) the Compulsory Purchase Act 1965, and
+- (c) Schedule A1 to this Act,
+
+shall apply as if, on the date on which the general vesting declaration was executed, a notice to treat had been served on every person on whom, under section 5 of the Compulsory Purchase Act 1965, the acquiring authority could have served such a notice, other than any person entitled to a minor tenancy or a long tenancy which is about to expire.
+
+(2) For the purposes of subsection (1) above it shall be assumed that the acquiring authority required to take the whole of the land specified in the declaration and had knowledge of all the parties referred to in section 5 of the Compulsory Purchase Act 1965.
+
+(3) The power conferred by section 31 of the [^c4904111]Land Compensation Act 1961 to withdraw a notice to treat shall not be exercisable in respect of a notice to treat which is deemed to be served under this section.
+
+### 8. Vesting, and right to enter and take possession.
+
+(1) Any land specified in the general vesting declaration, together with the right to enter upon and take possession of it, shall, subject to[^key-a76f4e8f603c275951c746d149853123] sections 8A[^key-da17358f0671d92624631d458a6ad76f] , 8B[^key-47c50c313fba69c4d1becbcfdeb61d92] and 9 below, vest in the acquiring authority on the vesting date in relation to that land as if—
+
+- (a) the circumstances in which under Part I of the [^c4904121]Compulsory Purchase Act 1965 an authority authorised to purchase land compulsorily have any power to execute a deed poll had arisen in respect of all the land, and all interests therein, and
+- (b) the acquiring authority had duly exercised that power accordingly on the vesting date.
+
+(2) Subsection (1)(a) above applies to any deed poll whether for vesting land or any interest in land in the acquiring authority, or for extinguishing the whole or any part of any rent-service, rentcharge, chief or other rent, or other payment or incumbrance.
+
+(3) Section 11(1) of the [^c4904131]Compulsory Purchase Act 1965 (power to enter upon land after service of notice to treat) shall not apply to land specified in a general vesting declaration.
+
+### 8A. Postponement of vesting by agreement[^key-893f6482d3eda531a1e9eecb1c310142]
+
+(1) The acquiring authority may agree in writing with the owner of any interest which is to vest in the authority under section 8 that the interest is to vest on a date after the vesting date.
+
+(2) If such an agreement is in force on the vesting date, sections 7 and 8 operate in relation to the interest as if the vesting date were—
+
+- (a) the agreed date, or
+- (b) any date subsequently agreed under subsection (1).
+
+(3) If an interest subject to an agreement under this section entitles the owner to possession of the land concerned, the right to enter upon and take possession of the land given by section 8 does not arise until the interest vests in accordance with this section.
+
+### 8B. Advancement of vesting by agreement[^key-704dfbf835170e27400ced30a2d16a99]
+
+(1) The acquiring authority may agree in writing with the owner of any interest which is to vest in the authority under section 8 that the interest is to vest on a date before the vesting date.
+
+(2) The agreed date may not be before the day after the last day on which a person may bring proceedings for questioning the compulsory purchase order.
+
+(3) If an agreement under subsection (1) is in force—
+
+- (a) section 7 (other than section 7(1)(c)) and section 8 operate in relation to the interest as if the vesting date were the agreed date;
+- (b) an owner of an interest who is a party to the agreement may not serve a counter-notice under paragraph 2 of Schedule A1 (counter-notice requiring purchase of additional land).
+
+(4) But if the interest subject to the agreement does not entitle the owner to possession of the land concerned, subsection (3)(a) does not advance the date on which the right to enter on and take possession of the land arises under section 8.
+
+### 9. Minor tenancies and tenancies about to expire.
+
+(1) This section applies where any land specified in a general vesting declaration is land in which there subsists a minor tenancy or a long tenancy which is about to expire.
+
+(2) The right of entry conferred by section 8(1) above shall not be exercisable in respect of that land unless, after serving a notice to treat in respect of that tenancy, the acquiring authority have served on every occupier of any of the land in which the tenancy subsists a notice stating that, at the end of such period as is specified in the notice (not being less than 3 months[^key-8060561167b6fad9fc271d87f1a832ae]) from the date on which the notice is served, they intend to enter upon and take possession of such land as is specified in the notice, and that period has expired.
+
+(3) The vesting of the land in the acquiring authority shall be subject to the tenancy until the period specified in a notice under subsection (2) above expires, or the tenancy comes to an end, whichever first occurs.
+
+## Part IV — Supplementary
+
+### 10. Acquiring authority’s liability arising on vesting of the land.
+
+(1) Where any of the land specified in a general vesting declaration has become vested in an acquiring authority by virtue of Part III of this Act, the acquiring authority shall be liable to pay the like compensation, and the like interest on the compensation agreed or awarded, as they would have been required to pay if they had taken possession of the land under section 11(1) of the [^c4904141]Compulsory Purchase Act 1965.
+
+(1A)[^key-c469b990775deba633121f14fd258ee9] Where by virtue of an agreement under section 8A or 8B different interests in the land vest in the acquiring authority on different dates, subsection (1) does not give rise to any liability in relation to an interest until that interest becomes vested.
+
+(2) Section 22 of the Compulsory Purchase Act 1965 and Schedule 2 to that Act (absent and untraced owners) shall not apply to the compensation to be paid for any interest in land in respect of which a notice to treat is deemed to have been served by virtue of Part III of this Act.
+
+(3) The time within which a question of disputed compensation arising out of an acquisition of an interest in land in respect of which a notice to treat is deemed to have been served by virtue of Part III of this Act may be referred to the Upper Tribunal[^key-2508ceb46770be9cdd036fe830e31abe] shall be 6 years from the date at which the person claiming compensation, or a person under whom he derives title, first knew, or could reasonably be expected to have known, of the vesting of the interest by virtue of Part III of this Act.
+
+This subsection shall be construed as one with Part I of the [^c4904151]Limitation Act 1980.
+
+### 11. Recovery of compensation overpaid.
+
+(1) This section applies where after the execution of a general vesting declaration a person (“the claimant”) claims compensation in respect of the acquisition by the acquiring authority of an interest in land by virtue of the declaration, and the authority pay compensation in respect of that interest.
+
+(2) If it is shown that—
+
+- (a) the land, or the claimant’s interest in it, was subject to an incumbrance which was not disclosed in the particulars of his claim, and
+- (b) that by reason of that incumbrance the compensation paid exceeded the compensation to which the claimant was entitled in respect of that interest,
+
+the acquiring authority may recover from the claimant the amount of the excess.
+
+(3) If it is shown that the claimant was not entitled to the interest, either in the whole or in part of the land to which the claim related, the acquiring authority may recover from the claimant an amount equal to the compensation paid, or as the case may be an amount equal to so much of that compensation as, on a proper apportionment, is attributable to that part of the land.
+
+(4) Any question arising under subsection (2) or (3) above as to—
+
+- (a) the amount of the compensation to which the claimant was entitled in respect of an interest in land, or
+- (b) the apportionment of any compensation paid,
+
+shall be referred to and determined by the Upper Tribunal.[^key-8116b3e9ec51cc520f676f68b80f4cb8]
+
+(5) Subject to subsection (4) above, any amount recoverable by the acquiring authority under this section shall be recoverable in any court of competent jurisdiction.
+
+(6) If the acquiring authority are a local authority (as defined in section 336(1) of the[^c4904171] [^c4904181]Town and Country Planning Act 1990) any sum recovered by them under this section shall be applied towards the repayment of any debt incurred in acquiring or redeveloping the land, or if no debt was so incurred shall be paid into the account out of which sums incurred in the acquisition of that land were paid.
+
+### 12. Divided land.
+
+Schedules A1 and 1[^key-c291b42375276ddacbc3c8721dde7bdb] to this Act shall have effect.
+
+### 13. Right of recovery of mistaken payment of rent, etc.
+
+Where any of the land specified in a general vesting declaration has become vested in an acquiring authority under Part III of this Act, any person who, in consequence thereof, is relieved from any liability (whether in respect of a rentcharge, rent under a tenancy mortgage interest or any other matter) and makes any payment as in satisfaction or in part satisfaction of that liability shall, if he shows that when he made the payment he did not know of the facts which constituted the cause of his being so relieved, or of one or more of those facts, be entitled to recover the sum paid as money had and received to his use by the person to whom it was paid.
+
+### 14. Documents of title.
+
+Where, after land has become vested in an acquiring authority under Part III of this Act, a person retains possession of any document relating to the title to the land, he shall be deemed to have given to the acquiring authority an acknowledgment in writing of the right of the authority to production of that document and to delivery of copies thereof and (except where he retains possession of the document as mortgagee or trustee or otherwise in a fiduciary capacity) an undertaking for safe custody thereof; and section 64 of the [^c4904191]Law of Property Act 1925 shall have effect accordingly, and on the basis that the acknowledgment and undertaking did not contain any such expression of contrary intention as is mentioned in that section.
+
+### 15. Application to orders under section 141 of the Local Government, Planning and Land Act 1980.[^c4904201]
+
+In relation to any order under section 141 of the [^c4904211]Local Government, Planning and Land Act 1980 (which provides that such an order shall have the same effect as a general vesting declaration) this Act shall have effect subject to the modifications specified in Schedule 2 to this Act.
+
+### 16. Consequential amendments and repeals.
+
+(1)[^c4904221] The enactments specified in Schedule 3 to this Act shall have effect subject to the amendments specified in that Schedule, being amendments consequential upon the provisions of this Act.
+
+(2) The transitional provisions in Schedule 4 to this Act shall have effect.
+
+(3)[^c4904221] The enactments specified in Schedule 5 to this Act shall be repealed to the extent specified in the third column of that Schedule.
+
+### 17. Short title, commencement and extent.
+
+(1) This Act may be cited as the Compulsory Purchase (Vesting Declarations) Act 1981.
+
+(2) This Act shall come into force at the expiration of a period of three months beginning with the date on which this Act is passed.
+
+(3) This Act shall not extend to Scotland or Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE A1 — Counter-notice requiring purchase of land not in general vesting declaration[^key-eb5b1355cce68d575012dddc93a0833d][^key-f01a4d65a5ce0f1d2cf4b1e8dc605260][^key-c65e001cc9bf14791a4e6bdd8dc00408][^key-80f7f72bb390599e79510111073788d9][^key-407bd7444d0550e9f8375f7d1e952e0b][^key-1521f7bc72223c708ef464eea14c5116][^key-4dd5bab2741682264e9691bc30291229][^key-c7e094547157222d1a39a981191613a7][^key-e6681c970031e5b6630dad2f69e7b296][^key-27a2b2e9bf6c424fa524e35ba4d7d7c6][^M_C_ec0bb776-22cf-4a36-fd9b-287f067260c9][^key-6069a72bb770fbbc948f72c16499c5e7][^key-5b95a966f917ec985db25acfe5932ab3][^key-c1f43dad7289c3b00c65bd391bf092e4][^key-6c42a56cc7a135386ee3f8c8f7ace9da][^key-7e561b46b4735b060a15757c4a3f7c52][^key-728b544bfcf604a5939c02404de1f105][^key-7da920f8af4f9ed89164b4f25311c85f][^key-06013cfa9007f134f099e5774b2131ef][^key-87c098fc5bd9674879f69d2b27e5e81a][^key-ad528ed0976941f290bccc6fc2c1f75f][^key-26266a55a71fdc8f26e202776f427c7d][^key-4562c8701d5ddddb24e5ef8957fc636b][^key-4404fe22d5a76c355559025cfe892092][^key-d8379a8139c23cf3a2cf22c2aafd96b5][^key-993dc8812b6527332336db9987c941f8][^key-28e5062c0b18b22baf41f59b3726cbde][^key-e5636ae83bf32a3b05d3e32412ea50ed][^key-dc3c91c9e073a932b2d642f2eb4aad4b][^key-c0cb9853d8df6e823fb587a354adcc57][^key-0745469cae1ece205874092df023ec77][^key-ee63a56644c38d82614b2df7431f13cf][^key-bd165cc9e18779cd38256d5a17797f40][^key-244ff74a7b92a3377a31184a9e5e2974][^key-cb872d819056fdeb9ab50024ee57e7fc][^key-75cac1908fb2c55abd43d2ca3a05afc1][^key-22aa814b29353de7a894c56d80614422][^key-f5def9d87aed87b056b2a856ef26c95f][^key-6694fafe0f64e932a1bbd13fd3635fbb][^key-9d0fc092f0e1e9125a0bb56a7f4df427][^key-083d706bd289975cd34b4c9622386de5][^key-cc2cb0cd331a65498911386d4a54aa83][^key-4f60987491793ec0edfc6425ae130b77][^key-14d69bb3daca35a952fd36e6b55b3c2a][^key-c4651b5ccc7472811ee127c481d751e2][^M_C_2a7b07de-4000-49f5-fbd7-9d2905633d4d][^key-260011331ec020fb43c06c39f48ed375][^key-b602dde89e9669cbc99ef354adb8a230][^key-36757438b85882d1436217c8bcb68f36][^key-0074c85061dff49f8fdb75e57af1fc31][^M_F_813802be-f509-468e-c9ec-e3ccd09b0732][^key-0b827d497aa2c9e011ec26775d62180e][^key-a4c43f41989b0245f50d8a67a037ad5a][^key-c25f370693859ec17716d73bc0bc298c][^key-e63324ec3ae21a406c96eb5f94d0fff0][^key-55c8dc48da1d5f3e1021dadc04278e6d][^key-15308a3b6c6c9535a2cc8487561b1990][^key-aaf792d6fb903ca00a3bc92ce57ae512][^key-0c4d08579fa29a2761db47e59f423241][^key-8f3004f5e1fe51c31a355eaa16a1ed07][^key-8f8df012673f3640c073559e41bc0ba3][^key-e461d833700d988fad0160db2541c8f2][^key-a74bb1fbf76ad2b4c42d3e9ab2562177][^key-be78598e23d1cb24f6e7d46111ab642c][^key-81bcb15c7a87655dd37798393166bb36][^key-a3fbb719f10e1f90d2eec73647c0ff0b][^key-372398b18db3e1a028ac6d18485b8e48][^key-2ffbb1f07eb7204cad735bd3291563bf][^key-b6b6edca8f7ac18226adccc8583f072c][^key-1b9d4b820f9d1c09036bea81c2803f83][^key-22200d21c848ea46b03926c9b609bead][^key-501d32b428b38f632bd15c57b31babb8][^key-d6a5f7fc865954d3d985cc4cbdf387cd][^key-d08be97ea83a18f42c23cfa4903ee202][^key-91d0eb72fa48136806b7f95a897b0261][^key-1ff2fd81278e38674ab08c4ebde534b9][^key-c1712cb9de9d3106f71f80260eb811cc][^key-a1678a58010cc6a1530a913893f3e9dc][^key-6e02d63aba572f28b5cecdafdf69bfe5][^key-719621f67d022f9bd666bbd07aca1a95][^key-f89827d90fc22dc0a9084240908fcc5c][^key-262bafc31823ca7d7c00489dec834c3f][^key-339c9a90eb4602114fb5d173614ec42b][^key-4536a435a105d57ac03e14a85f8cb407][^key-0e981fd69b0aea6b3bbe2406b082299b][^key-431007763c2be5056f50e9d80583392f][^key-78b5a3262427ee0c55ec3ab5076e2a2e][^key-699bfbc926e3a349091d80cddb6fcc14][^key-74fede28bcde38548aab9008cb52754a][^key-60c35dca8af1c9ac587fa08cabe6fc20][^key-ba07ce386ff8b2aba55b487850c3cd23][^key-ec5a7d0dd2b17028610d2ce52d6a99a3][^key-bbd7366d4eb1b5861e5bb7e73f8cd760][^key-6b6a09de5737902116240a17c0fbb10f][^key-65b006df0e565ecdb8124c4c7414a781][^key-bd06eb57ea93587d678abdeb3efd37fe][^key-531091bb1bcfd47a6a459747953f1a8e][^key-8eaf7b024ccca3b5f9c0ad12ad0ca43d][^key-fa9b64eaf454b85ec08b9c1f420d507b][^key-e8c81862f0267a3cc7eb13fe79f500d4][^key-361f337f566ce0af96c56ad5b99ebe59][^key-cad25194e9976d8eb101b1ef737b8a89][^key-14257b668cddc19e41c6f9d3a70b140b][^key-2ffce9acea9bbb4332d0c5d9dcb47a54][^key-f49136ba6cead76c885ed19a24fa233c][^key-8f2522ff5a90e6794baf952c08f8fd0e]
+
+Section 12
+
+### PART 1 — Counter-notice requiring purchase of additional land
+
+**1.** (1) This Schedule applies where an acquiring authority have executed a general vesting declaration in respect of part only of a house, building or factory.
+
+(2) But see section 2A of the Acquisition of Land Act 1981 (under which a compulsory purchase order can exclude from this Schedule land that is 9 metres or more below the surface).
+
+**2.** A person able to sell the whole of the house, building or factory (“**the owner**”) may serve a counter-notice requiring the authority to purchase the owner's interest in the whole (but this is subject to section 8B(3)(b)).[^key-1e1cd11a3c169ff9a9c904055c525dc2]
+
+**3.** A counter-notice under paragraph 2 must be served before the end of the period of 28 days beginning with the day the owner first had knowledge of the general vesting declaration.
+
+**4.** In a case where this Schedule applies by virtue of a general vesting declaration executed after a counter-notice has been served under paragraph 4 or 17 of Schedule 2A to the Compulsory Purchase Act 1965, that counter-notice is to have effect as a counter-notice served under this Schedule.
+
+**5.** (1)[^key-1f7a8fe54ec7f2847b5306bd89182d83] In this Schedule—
+
+- “**additional land**” means the part of the house, building or factory not specified in the general vesting declaration;
+- “**house**” includes any park or garden belonging to a house;
+- “**land proposed to be acquired**” means the part of the house, building or factory specified in the general vesting declaration;
+- “**notice to treat**” means a notice to treat deemed to have been served under section 7(1);
+- “original vesting date” is , subject to sub-paragraph (2)[^key-741564b6c74a3e5f194e8ef113759254] the first day after the end of the period specified in the general vesting declaration in accordance with section 4(1).
+
+(2)[^key-74167b54355f85881be8ecd57e8c0700] If an agreement under section 8A is in force in respect of the interest which gives the owner the ability to sell the land proposed to be acquired, the “original vesting date” is the date on which the interest is to vest as a result of the agreement.
+
+### PART 2 — Consequences of counter-notice
+
+#### Acquiring authority must respond to counter-notice within three months
+
+**6.** (1) On receiving a counter-notice the acquiring authority must decide whether to—
+
+- (a) withdraw the notice to treat in relation to the land proposed to be acquired,
+- (b) accept the counter-notice, or
+- (c) refer the counter-notice to the Upper Tribunal.
+
+(2) But the acquiring authority may not decide to withdraw the notice to treat if the counter-notice was served on or after the original vesting date.
+
+**7.** The authority must serve notice of their decision on the owner within the period of 3 months beginning with the day on which the counter-notice is served (“the decision period”).
+
+**8.** If the authority decide to refer the counter-notice to the Upper Tribunal they must do so within the decision period.
+
+**9.** (1) This paragraph applies if the acquiring authority do not serve notice of a decision within the decision period.
+
+(2) If the counter-notice was served before the original vesting date, the authority are to be treated as if they had served notice of a decision to withdraw the notice to treat in relation to the land proposed to be acquired.
+
+(3) If the counter-notice was served on or after the original vesting date, they are to be treated as if they had served notice of a decision to accept it.
+
+#### No vesting if notice to treat withdrawn
+
+**10.** If the acquiring authority serve notice of a decision to withdraw the notice to treat in relation to the land proposed to be acquired the general vesting declaration is to have effect as if it did not include that land.
+
+#### Effects of accepting counter-notice
+
+**11.** (1) This paragraph applies where the acquiring authority serve notice of a decision to accept the counter-notice.
+
+(2) The general vesting declaration and the notice to treat (and, where applicable, the compulsory purchase order) are to have effect as if they included the owner's interest in the additional land as well as in the land proposed to be acquired.
+
+(3) The authority must serve on the owner a notice specifying the vesting date or dates for—
+
+- (a) the land proposed to be acquired (if the counter-notice was served before the original vesting date), and
+- (b) the additional land.
+
+(4) The new vesting date for the land proposed to be acquired must not be before the original vesting date.
+
+(5) The vesting date for the additional land must be after the period of 3 months beginning with the day on which the notice under sub-paragraph (3) is served.
+
+#### Effects of referring counter-notice to the Upper Tribunal
+
+**12.** (1) This paragraph applies where—
+
+- (a) the acquiring authority refer the counter-notice to the Upper Tribunal, and
+- (b) the counter-notice was served before the original vesting date.
+
+(2) At any time before the Upper Tribunal make a determination under paragraph 14, the acquiring authority may serve notice on the owner specifying a new vesting date for the land proposed to be acquired.
+
+(3) The new vesting date for the land proposed to be acquired must not be before the original vesting date.
+
+### PART 3 — Determination by the Upper Tribunal
+
+#### Introduction
+
+**13.** This Part applies where, in accordance with paragraph 8, the acquiring authority refer a counter-notice to the Upper Tribunal.
+
+#### Role of the Upper Tribunal
+
+**14.** (1) The Upper Tribunal must determine whether the severance of the land proposed to be acquired would—
+
+- (a) in the case of a house, building or factory, cause material detriment to the house, building or factory, or
+- (b) in the case of a park or garden, seriously affect the amenity or convenience of the house to which the park or garden belongs.
+
+(2) In making its determination, the Upper Tribunal must take into account—
+
+- (a) the effect of the severance,
+- (b) the proposed use of the land proposed to be acquired, and
+- (c) if that land is proposed to be acquired for works or other purposes extending to other land, the effect of the whole of the works and the use of the other land.
+
+**15.** If the Upper Tribunal determines that the severance of the land proposed to be acquired would have either of the consequences described in paragraph 14(1) it must determine how much of the additional land the acquiring authority ought to be required to take in addition to the land proposed to be acquired.
+
+#### Effect of determination that more land should be acquired
+
+**16.** (1) This paragraph applies where the Upper Tribunal specifies in its determination that the acquiring authority ought to be required to take the whole or part of the additional land (“the specified land”).
+
+(2) The general vesting declaration and any notice to treat (and, where applicable, the compulsory purchase order) are to have effect as if they included the owner's interest in the specified land.
+
+(3) The Upper Tribunal must order a vesting date for—
+
+- (a) the specified land, and
+- (b) any land proposed to be acquired which has not vested in the authority and for which no vesting date has been specified under paragraph 12.
+
+(4)[^key-8e2700320b35fedf48f3b4e9d931dd6f] If the vesting date for the specified land is after the vesting date for any land proposed to be acquired, the Upper Tribunal's power to award compensation under section 7 of the Compulsory Purchase Act 1965 includes power to award compensation for any loss suffered by the owner by reason of the temporary severance of the land proposed to be acquired from the specified land.
+
+#### Withdrawal of notice to treat following determination
+
+**17.** (1) This paragraph applies where—
+
+- (a) the Upper Tribunal has specified in its determination that the acquiring authority ought to be required to take the whole or part of the additional land (“the specified land”), and
+- (b) the vesting date in relation to the land proposed to be acquired has not passed, and
+- (c) the vesting date in relation to the specified land has not passed.
+
+(2) The acquiring authority may, within the period of 6 weeks beginning with the day on which the Upper Tribunal made its determination, withdraw the notice to treat in relation to the land proposed to be acquired together with the specified land.
+
+(3) If the acquiring authority withdraws the notice to treat, the general vesting declaration is to have effect as if it did not include that land.
+
+(4) If the acquiring authority withdraws the notice to treat under this paragraph they must pay the person on whom the notice was served compensation for any loss or expense caused by the giving and withdrawal of the notice.
+
+(5) Any dispute as to the compensation is to be determined by the Upper Tribunal.
+
+## Schedule 1 — Divided Land[^key-a58e3a785cc7453fd63020546af03665][^key-375bb9d7b22a23e6b139350f19ace977]
+
+Section 8.
+
+### Part I — Buildings and Gardens Etc.[^key-1f66b9c57d90a79da52002517c67546c]
+
+**No longer in force.**
+
+#### Interpretation of Part I[^key-1f66b9c57d90a79da52002517c67546c]
+
+**1.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Objection to severance[^key-1f66b9c57d90a79da52002517c67546c]
+
+**2.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Response by acquiring authority to objection to severance[^key-1f66b9c57d90a79da52002517c67546c]
+
+**4.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Late service of notice of objection to severance[^key-1f66b9c57d90a79da52002517c67546c]
+
+**10.**[^key-1f66b9c57d90a79da52002517c67546c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Rentcharges and Tenancies
+
+**11.** (1) Where land specified in a general vesting declaration is, together with other land not so specified, charged with a rentcharge, such proportion of the rentcharge as may be apportioned under section 18 of the [^c4904251]Compulsory Purchase Act 1965 to the first-mentioned land shall, subject to sub-paragraph (3) below, be treated as having been extinguished by virtue of Part III of this Act on the vesting of that land in an acquiring authority under that Part.
+
+(2) Where by virtue of sub-paragraph (1) above a portion of the rentcharge is treated as having been extinguished, the provisions of section 18 of the [^c4904261]Compulsory Purchase Act 1965 shall have effect as if the extinguishment had taken place under that section.
+
+(3) If, in the circumstances described in sub-paragraph (1) above, the person entitled to the rent charge and the owner of the land subject thereto enter into an agreement to that effect, the said section 18 shall have effect as if, at the time of the vesting of the land in the acquiring authority under Part III of this Act, the person entitled to the rentcharge had released that land from the rentcharge on the condition mentioned in subsection (2) of that section; and in that case no part of the rentcharge shall be treated as having been extinguished as regards the remaining part of the land charged therewith.
+
+(4) In this paragraph “**rentcharge**” has the same meaning as in section 18 of the [^c4904271]Compulsory Purchase Act 1965.
+
+**12.** Where land specified in a general vesting declaration is, together with other land not so specified, comprised in a tenancy for a term of years unexpired, section 19 of the [^c4904281]Compulsory Purchase Act 1965 shall have effect in relation thereto as if for references to the time of the apportionment of rent therein mentioned there were substituted references to the time of vesting of the tenancy in the acquiring authority.
+
+## SCHEDULE 2 — Vesting of Land in Urban Development Corporation
+
+Section 15.
+
+**1.**[^c4904291] In relation to an order (“the order”) under section 141 of the [^c4904301]Local Government, Planning and Land Act 1980 (subsection (4) of which provides that an order under that section shall have the same effect as a general vesting declaration) this Act shall have effect subject to the modifications in this Schedule.
+
+**2.** (1) Any reference in Part III or IV to a general vesting declaration shall be treated as a reference to the order.
+
+(2) Any reference in Part III or IV to the vesting date shall be treated as a reference to the date on which the order comes into force, and the reference in section 11(1) to the execution of a general vesting declaration shall be treated as a reference to the order having come into force.
+
+**3.**[^c4904311] In section 7(1)—
+
+- (a)[^c4904321] the reference to every person on whom, under section 5 of the Compulsory Purchase Act 1965, the acquiring authority could have served a notice to treat shall be treated as a reference to every person whose interest in the land to which the order relates is vested by the order in the Urban Development Corporation,
+- (b) paragraph (i) shall be omitted.
+
+**4.**[^key-5d6f2b6b9e8f72699a4bf2f3fb3c4821] In Schedule A1, for paragraph 3 there is to be substituted—
+
+> **3.** A counter-notice under paragraph 2 must be served within the period of 28 days beginning with the day on which the order comes into force.
+
+## SCHEDULE 3 — Consequential Amendments
+
+Section 16(1).
+
+### Land Compensation Act 1973 (c. 26)
+
+**1.**[^c4904331] In the Land Compensation Act 1973, in sections 50(4), 53(5) and 57(1) for “Schedule 3 to the Town and Country Planning Act 1968” substitute “Part III of the Compulsory Purchase (Vesting Declarations) Act 1981”.
+
+**2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c4904341]
+
+### Development Land Tax Act 1976 (c. 24)
+
+**3.**[^c4904351] In section 45(5)(a) of the Development Land Tax Act 1976 for “Schedule 3 to the Town and Country Planning Act 1968” substitute “the Compulsory Purchase (Vesting Declarations) Act 1981”.
+
+### Local Government, Planning and Land Act 1980 (c. 65)
+
+**4.**[^c4904361] In section 141(4) of the Local Government, Planning and Land Act 1980 for “section 30 of the Town and Country Planning Act 1968” substitute “the Compulsory Purchase (Vesting Declarations) Act 1981”.
+
+## SCHEDULE 4 — Transitional
+
+Section 16(2).
+
+### References to old law to include new law
+
+**1.** (1) This paragraph is without prejudice to section 17(2)(a) of the [^c4904371]Interpretation Act 1978 as extended to the interpretation of subordinate legislation and instruments and documents by section 23(2) and (3) of that Act.
+
+(2) Any document made, served or issued before the passing of this Act or at any time thereafter (whether before or after the commencement of this Act) and containing a reference to an enactment repealed by this Act shall, except in so far as a contrary intention appears, be construed as referring, or as the context requires, as including a reference, to the corresponding provision of this Act.
+
+### References to new law to include old law
+
+**2.** Any reference, whether express or implied, in any enactment, instrument or document (including this Act and any enactment amended by Schedule 3 to this Act) to, or to things done or falling to be done under or for the purposes of, any provision of this Act shall, if and so far as the nature of the reference permits, be construed as including, in relation to the circumstances or purposes in relation to which the corresponding provision in the enactments repealed by this Act has or had effect, a reference to, as the case may be to things done or falling to be done under or for the purpose of, that corresponding provision.
+
+### Periods of time
+
+**3.** Where a period of time specified in any enactment repealed by this Act is current at the commencement of this Act, this Act has effect as if the corresponding provision of this Act had been in force when that period began to run.
+
+### Successor authorities
+
+**4.** (1) Any reference in this Act (whether express or implied) to a thing done by a Minister, or by a local authority, under a provision of this Act includes, except where the context otherwise requires, a reference to the corresponding thing done by a predecessor authority under the corresponding enactment repealed by this Act.
+
+(2) In this paragraph “**predecessor authority**” means—
+
+- (a) where the relevant function has been transferred from one Minister to another, the Minister from whom the function was transferred.
+- (b) where the relevant function has been transferred from one local authority to another, under any enactment (including in particular the [^c4904381]London Government Act 1963, the [^c4904391]Local Government Act 1972 and the [^c4904401]Water Act 1973), the authority from whom the function was transferred.
+
+### Exclusion of compulsory purchase order in force before 1st April 1969
+
+**5.** This Act shall not apply to the compulsory acquisition of land with respect to which a compulsory purchase order was in force before 1st April 1969.
+
+## SCHEDULE 5 — Repeals[^c4904411]
+
+Sectiion 16(3).
+
+| Chapter | Short title | Extent of repeal |
+| --- | --- | --- |
+| 1968 c. 72. | Town and Country Planning Act 1968. | Section 30. |
+|  |  | In section 104, in subsection (1) the definitions of “Act of 1946”, “prescribed” and “the principal Act”, and subsection (3). |
+|  |  | Schedule 3. |
+|  |  | Schedule 3A. |
+|  |  | In Schedule 10 paragraph 14. |
+| 1971 c. 18. | Land Commission (Dissolution) Act 1971. | In Schedule 2 paragraph 2 and Appendix A. |
+| 1973 c. 26. | Land Compensation Act 1973. | In section 58(1) the words “paragraph 10 of Schedule 3A to the Town and Country Planning Act 1968”. |
+| 1980 c. 65. | Local Government, Planning and Land Act 1980. | In Schedule 27 paragraphs 1 to 8. |
+
+## Annotations
+
+[^c4904001]: Commencement: Act wholly in force at 30.1.1982, see [s. 17(2)](https://www.legislation.gov.uk/ukpga/1981/66/section/17/2)
+
+[^c4903991]: Modification: Act applied (16.3.1992) by [Avon Weir Act 1992 (c. v)](https://www.legislation.gov.uk/ukla/1992/5), [s. 4(3)](https://www.legislation.gov.uk/ukla/1992/5/section/4/3)
+
+[^c4903981]: Modification: Act applied (with modifications) (7.3.1995) by S.I 1995/519, art. 22(3)
+
+    Act applied (with modifications) (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/1996/61/section/4/3), [6](https://www.legislation.gov.uk/ukpga/1996/61/section/6), [Sch. 4 Pt. II paras. 4](https://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/II/paragraph/4), [5](https://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/II/paragraph/5), [14(5)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/II/paragraph/14/5), [15](https://www.legislation.gov.uk/ukpga/1996/61/schedule/4/part/II/paragraph/15), [Sch. 5 para. 3(b)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/5/paragraph/3/b)
+
+    Act applied (with modifications) (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 45(5)(6)](https://www.legislation.gov.uk/ukpga/1996/61/section/45/5/6), [Sch. 4 para. 5(2)-(7)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/4/paragraph/5/2)
+
+    Act applied (with modifications) (27.8.1998) by [S.I. 1998/1936](https://www.legislation.gov.uk/uksi/1998/1936), [art. 28](https://www.legislation.gov.uk/uksi/1998/1936/article/28)
+
+    Act applied (with modifications) (13.1.1999) by [S.I. 1998/3269](https://www.legislation.gov.uk/uksi/1998/3269), [art. 22(1)(2)](https://www.legislation.gov.uk/uksi/1998/3269/article/22/1/2)
+
+    Act applied (with modifications) (19.2.1999) by [S.I. 1999/537](https://www.legislation.gov.uk/uksi/1999/537), [arts. 6(3)(4)](https://www.legislation.gov.uk/uksi/1999/537/article/6/3/4), [7(2)](https://www.legislation.gov.uk/uksi/1999/537/article/7/2), [11](https://www.legislation.gov.uk/uksi/1999/537/article/11)
+
+    Act applied (with modifications) (23.8.1999) by [S.I. 1999/2981](https://www.legislation.gov.uk/uksi/1999/2981), [art. 19](https://www.legislation.gov.uk/uksi/1999/2981/article/19)
+
+    Act applied (with modifications) (24.12.1999) by [S.I. 2000/428](https://www.legislation.gov.uk/uksi/2000/428), [art. 12](https://www.legislation.gov.uk/uksi/2000/428/article/12)
+
+    Act applied (with modifications) (29.3.2001) by [S.I. 2001/1347](https://www.legislation.gov.uk/uksi/2001/1347), [arts. 24](https://www.legislation.gov.uk/uksi/2001/1347/article/24), [33(1)(2)](https://www.legislation.gov.uk/uksi/2001/1347/article/33/1/2)
+
+    Act applied (with modifications) (29.3.2001) by [S.I. 2001/1348](https://www.legislation.gov.uk/uksi/2001/1348), [art. 5](https://www.legislation.gov.uk/uksi/2001/1348/article/5)
+
+    Act applied (with modifications) (2.3.2001) by [S.I. 2001/1367](https://www.legislation.gov.uk/uksi/2001/1367), [art. 8](https://www.legislation.gov.uk/uksi/2001/1367/article/8)
+
+    Act applied (with modifications) (2.3.2001) by [S.I. 2001/1369](https://www.legislation.gov.uk/uksi/2001/1369), [art. 5](https://www.legislation.gov.uk/uksi/2001/1369/article/5)
+
+    Act applied (with modifications) (22.3.2001) by [S.I. 2001/1451](https://www.legislation.gov.uk/uksi/2001/1451), [arts. 9(3)(4)](https://www.legislation.gov.uk/uksi/2001/1451/article/9/3/4), [13(b)](https://www.legislation.gov.uk/uksi/2001/1451/article/13/b)
+
+    Act applied (with modifications) (24.7.2001) by [S.I. 2001/3627](https://www.legislation.gov.uk/uksi/2001/3627), [art. 37](https://www.legislation.gov.uk/uksi/2001/3627/article/37)
+
+    Act applied (with modifications) (9.11.2001) by [S.I. 2001/3682](https://www.legislation.gov.uk/uksi/2001/3682), [art. 20](https://www.legislation.gov.uk/uksi/2001/3682/article/20)
+
+    Act applied (with modifications) (14.3.2002) by [The Chester Guided Busway Order 2002 (S.I. 2002/412)](https://www.legislation.gov.uk/uksi/2002/412), [arts. 16](https://www.legislation.gov.uk/uksi/2002/412/article/16), [23](https://www.legislation.gov.uk/uksi/2002/412/article/23) (with saving in [art. 38](https://www.legislation.gov.uk/uksi/2002/412/article/38))
+
+    Act applied (with modifications) (30.4.2002) by [The Docklands Light Railway (Silvertown and London City Airport Extension) Order 2002 (S.I. 2002/1066)](https://www.legislation.gov.uk/uksi/2002/1066), [arts. 22](https://www.legislation.gov.uk/uksi/2002/1066/article/22), [32](https://www.legislation.gov.uk/uksi/2002/1066/article/32) (with [art. 26](https://www.legislation.gov.uk/uksi/2002/1066/article/26), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/1066/schedule/8))
+
+    Act applied (with modifications) (31.5.2002) by [The Greater Manchester (Light Rapid Transit System) (Trafford Depot) Order 2002 (S.I. 2002/1327)](https://www.legislation.gov.uk/uksi/2002/1327), [art. 20](https://www.legislation.gov.uk/uksi/2002/1327/article/20)
+
+    Act applied (with modifications) (12.8.2002) by [The Channel Tunnel Rail Link (Thames Tunnel Approach) Order 2002 (S.I. 2002/1943)](https://www.legislation.gov.uk/uksi/2002/1943), [arts. 4(3)(4)](https://www.legislation.gov.uk/uksi/2002/1943/article/4/3/4), [10](https://www.legislation.gov.uk/uksi/2002/1943/article/10)
+
+[^c5008021]: Modification: Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c5008031]: Modification: Act modified (25.11.1998 for specified purposes and otherwise 3.7.2000) by [1998 c. 45](https://www.legislation.gov.uk/ukpga/1998/45), [s. 19(6)](https://www.legislation.gov.uk/ukpga/1998/45/section/19/6), [Sch. 4 paras. 6-9](https://www.legislation.gov.uk/ukpga/1998/45/schedule/4/paragraph/6) ; [S.I. 1998/2952](https://www.legislation.gov.uk/uksi/1998/2952), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/2952/article/2/2); [S.I. 2000/1173](https://www.legislation.gov.uk/uksi/2000/1173), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/1173/article/2/2/c)
+
+[^key-745dcdd6afcdd3897b7eebdd6ca767da]: Modification: Act applied (with modifications) (2.4.2004) by [The Docklands Light Railway (Woolwich Arsenal Extension) Order 2004 (S.I. 2004/757)](https://www.legislation.gov.uk/uksi/2004/757), [arts. 25](https://www.legislation.gov.uk/uksi/2004/757/article/25), [37](https://www.legislation.gov.uk/uksi/2004/757/article/37)
+
+[^key-bd0370020e6a4f0731924967413ff541]: Modification: Act applied (with modifications) (11.2.2005) by [The Merseytram (Liverpool City Centre to Kirkby) Order 2005 (S.I. 2005/120)](https://www.legislation.gov.uk/uksi/2005/120), [arts. 31](https://www.legislation.gov.uk/uksi/2005/120/article/31), [41](https://www.legislation.gov.uk/uksi/2005/120/article/41) (with [arts. 65](https://www.legislation.gov.uk/uksi/2005/120/article/65), [66](https://www.legislation.gov.uk/uksi/2005/120/article/66))
+
+[^key-eea21dde0952e74be7a5a2cdcb1da7e5]: Modification: Act applied (with modifications) (22.3.2005) by [The Midland Metro (Wednesbury to Brierley Hill and Miscellaneous Amendments) Order 2005 (S.I. 2005/927)](https://www.legislation.gov.uk/uksi/2005/927), [art. 31](https://www.legislation.gov.uk/uksi/2005/927/article/31) (with [art. 51](https://www.legislation.gov.uk/uksi/2005/927/article/51))
+
+[^key-003a1161f95c4f72443c3c54f32ee076]: Modification: Act applied (with modifications) (22.7.2005) by [The Midland Metro (Birmingham City Centre Extension, etc.) Order 2005 (S.I. 2005/1794)](https://www.legislation.gov.uk/uksi/2005/1794), [art. 27](https://www.legislation.gov.uk/uksi/2005/1794/article/27) (with [art. 47](https://www.legislation.gov.uk/uksi/2005/1794/article/47))
+
+[^key-c3b85fef034b1b2033d32b883df1a880]: Modification: Act applied (with modifications) (26.8.2005) by [The River Tyne (Tunnels) Order 2005 (S.I. 2005/2222)](https://www.legislation.gov.uk/uksi/2005/2222), [art. 26](https://www.legislation.gov.uk/uksi/2005/2222/article/26) (with [arts. 45(1)](https://www.legislation.gov.uk/uksi/2005/2222/article/45/1), [48](https://www.legislation.gov.uk/uksi/2005/2222/article/48), [Sch. 10 paras. 21](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/21), [29](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/29))
+
+[^key-d1f7bd95725be8dfba2f6ee9f4a421a1]: Modification: Act applied (with modifications) (25.11.2005) by [The Docklands Light Railway (Capacity Enhancement) Order 2005 (S.I. 2005/3105)](https://www.legislation.gov.uk/uksi/2005/3105), [arts. 26](https://www.legislation.gov.uk/uksi/2005/3105/article/26), [36](https://www.legislation.gov.uk/uksi/2005/3105/article/36) (with [arts. 3(5)](https://www.legislation.gov.uk/uksi/2005/3105/article/3/5), [15(3)](https://www.legislation.gov.uk/uksi/2005/3105/article/15/3))
+
+[^key-9c5e56fbe41b953b47e9289dc81444e6]: Modification: Act applied (with modifications) (11.1.2006) by [The Cambridgeshire Guided Busway Order 2005 (S.I. 2005/3523)](https://www.legislation.gov.uk/uksi/2005/3523), [arts. 24](https://www.legislation.gov.uk/uksi/2005/3523/article/24), [33](https://www.legislation.gov.uk/uksi/2005/3523/article/33) (with [art. 52](https://www.legislation.gov.uk/uksi/2005/3523/article/52))
+
+[^key-a9f63a0e418082b1281e40aa06e1c271]: Modification: Act applied (with modifications) (14.9.2006) by [The Borough of Poole (Poole Harbour Opening Bridges) Order 2006 (S.I. 2006/2310)](https://www.legislation.gov.uk/uksi/2006/2310), [art. 20](https://www.legislation.gov.uk/uksi/2006/2310/article/20) (with [art. 40](https://www.legislation.gov.uk/uksi/2006/2310/article/40), [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2006/2310/schedule/7/paragraph/12))
+
+[^key-d941dd27c8a692040cd48808cbdd5717]: Modification: Act applied (with modifications) (22.11.2006) by [The Docklands Light Railway (Stratford International Extension) Order 2006 (S.I. 2006/2905)](https://www.legislation.gov.uk/uksi/2006/2905), [arts. 22](https://www.legislation.gov.uk/uksi/2006/2905/article/22), [33](https://www.legislation.gov.uk/uksi/2006/2905/article/33) (with [art. 43](https://www.legislation.gov.uk/uksi/2006/2905/article/43))
+
+[^key-49607c4489fa612b750e1f6fa9c7e017]: Modification: Act applied (with modifications) (13.12.2006) by [The Luton Dunstable Translink Order 2006 (S.I. 2006/3118)](https://www.legislation.gov.uk/uksi/2006/3118), [arts. 21](https://www.legislation.gov.uk/uksi/2006/3118/article/21), [28](https://www.legislation.gov.uk/uksi/2006/3118/article/28)
+
+[^key-d7042e00288f07bfc4fecf80ccc2db90]: Modification: Act applied (with modifications) (19.3.2007) by [The Ouseburn Barrage Order 2007 (S.I. 2007/608)](https://www.legislation.gov.uk/uksi/2007/608), [arts. 25](https://www.legislation.gov.uk/uksi/2007/608/article/25), [32](https://www.legislation.gov.uk/uksi/2007/608/article/32) (with [arts. 46-48](https://www.legislation.gov.uk/uksi/2007/608/article/46), [Sch. 6 para. 23](https://www.legislation.gov.uk/uksi/2007/608/schedule/6/paragraph/23))
+
+[^key-365354dea3ffd9e0e8935503bdce6c7f]: Modification: Act applied (with modifications) (23.8.2007) by [The Docklands Light Railway (Capacity Enhancement and 2012 Games Preparation) Order 2007 (S.I. 2007/2297)](https://www.legislation.gov.uk/uksi/2007/2297), [arts. 22](https://www.legislation.gov.uk/uksi/2007/2297/article/22), [31](https://www.legislation.gov.uk/uksi/2007/2297/article/31) (with [arts. 3(6)](https://www.legislation.gov.uk/uksi/2007/2297/article/3/6), [12(3)](https://www.legislation.gov.uk/uksi/2007/2297/article/12/3))
+
+[^key-bb00efbcfbe91ca92817ec049f613d89]: Modification: Act applied (with modifications) (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 6 paras. 4](https://www.legislation.gov.uk/ukpga/2008/18/schedule/6/paragraph/4), [5](https://www.legislation.gov.uk/ukpga/2008/18/schedule/6/paragraph/5)
+
+[^key-2221f5bb1867ee9e3a10f2bd06b33e24]: Modification: Act applied (with modifications) (14.10.2008) by [The Felixstowe Branch Line and Ipswich Yard Improvement Order 2008 (S.I. 2008/2512)](https://www.legislation.gov.uk/uksi/2008/2512), [arts. 24](https://www.legislation.gov.uk/uksi/2008/2512/article/24), [33(1)](https://www.legislation.gov.uk/uksi/2008/2512/article/33/1) (with [art. 36(3)](https://www.legislation.gov.uk/uksi/2008/2512/article/36/3))
+
+[^key-13952d394e704b1d58bd4fd119de549f]: Modification: Act applied (with modifications) (29.12.2008) by [The Network Rail (Thameslink) (Land Acquisition) Order 2008 (S.I. 2008/3163)](https://www.legislation.gov.uk/uksi/2008/3163), [art. 5](https://www.legislation.gov.uk/uksi/2008/3163/article/5) (with [art. 13](https://www.legislation.gov.uk/uksi/2008/3163/article/13))
+
+[^key-0be21a6e0ea3cd61c412c5aa075a5c1f]: Modification: Act applied (with modifications) (9.6.2009) by [The Nottingham Express Transit System Order 2009 (S.I. 2009/1300)](https://www.legislation.gov.uk/uksi/2009/1300), [art. 31](https://www.legislation.gov.uk/uksi/2009/1300/article/31) (with [art. 45(1)](https://www.legislation.gov.uk/uksi/2009/1300/article/45/1), [Sch. 13 para. 14(2)](https://www.legislation.gov.uk/uksi/2009/1300/schedule/13/paragraph/14/2), [Sch. 14 para. 19](https://www.legislation.gov.uk/uksi/2009/1300/schedule/14/paragraph/19))
+
+[^key-bb4815fff8ee5e71a863144285347973]: Modification: Act applied (with modifications) (18.9.2009) by [The London Underground (Victoria Station Upgrade) Order 2009 (S.I. 2009/2364)](https://www.legislation.gov.uk/uksi/2009/2364), [arts. 19](https://www.legislation.gov.uk/uksi/2009/2364/article/19), [30](https://www.legislation.gov.uk/uksi/2009/2364/article/30)
+
+[^key-0047e119a56c6b9d5c73185c8e5b1020]: Modification: Act applied (with modifications) (28.10.2009) by [The Network Rail (Reading) (Land Acquisition) Order 2009 (S.I. 2009/2728)](https://www.legislation.gov.uk/uksi/2009/2728), [arts. 5](https://www.legislation.gov.uk/uksi/2009/2728/article/5), [17](https://www.legislation.gov.uk/uksi/2009/2728/article/17)
+
+[^key-afc3b538119bf4ec4146db6e586e3925]: Modification: Act applied (with modifications) (20.7.2010) by [The Network Rail (Nuneaton North Chord) Order 2010 (S.I. 2010/1721)](https://www.legislation.gov.uk/uksi/2010/1721), [arts. 18](https://www.legislation.gov.uk/uksi/2010/1721/article/18), [25](https://www.legislation.gov.uk/uksi/2010/1721/article/25)
+
+[^key-a5504f0d05eb487eeba8c5ecf5df5e49]: Modification: Act applied (with modifications) (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [arts. 23](https://www.legislation.gov.uk/uksi/2011/41/article/23), [34](https://www.legislation.gov.uk/uksi/2011/41/article/34) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
+
+[^key-876819b0aaf337db4718ad2124c54d05]: Modification: Act applied (with modifications) (21.4.2011) by [The Network Rail (Hitchin (Cambridge Junction)) Order 2011 (S.I. 2011/1072)](https://www.legislation.gov.uk/uksi/2011/1072), [arts. 19](https://www.legislation.gov.uk/uksi/2011/1072/article/19), [31](https://www.legislation.gov.uk/uksi/2011/1072/article/31)
+
+[^key-4c3418d0965866d698f9551bc65ac76d]: Modification: Act applied (with modifications) (1.7.2011) by [The Saundersfoot Harbour Empowerment Order 2011 (S.I. 2011/1565)](https://www.legislation.gov.uk/uksi/2011/1565), [art. 18](https://www.legislation.gov.uk/uksi/2011/1565/article/18)
+
+[^key-55fb62683db60c0227b081c2a76a479e]: Modification: Act applied (with modifications) (7.8.2012) by [The Ipswich Barrier Order 2012 (S.I. 2012/1867)](https://www.legislation.gov.uk/uksi/2012/1867), [arts. 23](https://www.legislation.gov.uk/uksi/2012/1867/article/23), [33](https://www.legislation.gov.uk/uksi/2012/1867/article/33) (with [arts. 46-48](https://www.legislation.gov.uk/uksi/2012/1867/article/46), [Sch. 8 para. 18](https://www.legislation.gov.uk/uksi/2012/1867/schedule/8/paragraph/18))
+
+[^key-e8756200444759868390de76f1f732cd]: Modification: Act applied (with modifications) (26.9.2012) by [The Network Rail (Ipswich Chord) Order 2012 (S.I. 2012/2284)](https://www.legislation.gov.uk/uksi/2012/2284), [art. 20](https://www.legislation.gov.uk/uksi/2012/2284/article/20) (with [art. 26(2)](https://www.legislation.gov.uk/uksi/2012/2284/article/26/2))
+
+[^key-6400ffd5195474f7cea2522949e6821d]: Modification: Act applied (with modifications) (6.11.2012) by [The Network Rail (North Doncaster Chord) Order 2012 (S.I. 2012/2635)](https://www.legislation.gov.uk/uksi/2012/2635), [art. 26](https://www.legislation.gov.uk/uksi/2012/2635/article/26) (with [art. 35(2)](https://www.legislation.gov.uk/uksi/2012/2635/article/35/2))
+
+[^key-7da51e3cf1d2258b5ef7dfcdcf7130f3]: Modification: Act applied (with modifications) (13.11.2012) by [The Chiltern Railways (Bicester to Oxford Improvements) Order 2012 (S.I. 2012/2679)](https://www.legislation.gov.uk/uksi/2012/2679), [arts. 24](https://www.legislation.gov.uk/uksi/2012/2679/article/24), [36](https://www.legislation.gov.uk/uksi/2012/2679/article/36) (with [art. 42(2)](https://www.legislation.gov.uk/uksi/2012/2679/article/42/2))
+
+[^key-270cabe71c1688abe68dc8ad6cee5ca4]: Modification: Act applied (with modifications) (28.3.2013) by [The Network Rail (Seaham Level Crossing) Order 2013 (S.I. 2013/533)](https://www.legislation.gov.uk/uksi/2013/533), [arts. 7](https://www.legislation.gov.uk/uksi/2013/533/article/7), [13](https://www.legislation.gov.uk/uksi/2013/533/article/13)
+
+[^key-fa15a5b434f2f3d3a3389079027f2421]: Modification: Act applied (with modifications) (9.4.2013) by [The Lancashire County Council (Torrisholme to the M6 Link (A683 Completion of Heysham to M6 Link Road)) Order 2013 (S.I. 2013/675)](https://www.legislation.gov.uk/uksi/2013/675), [art. 24](https://www.legislation.gov.uk/uksi/2013/675/article/24)
+
+[^key-b15a11747306aad4a52453efe500a521]: Modification: Act applied (with modifications) (9.4.2013) by [The Hinkley Point C (Nuclear Generating Station) Order 2013 (S.I. 2013/648)](https://www.legislation.gov.uk/uksi/2013/648), [art. 29](https://www.legislation.gov.uk/uksi/2013/648/article/29) (with [arts. 48](https://www.legislation.gov.uk/uksi/2013/648/article/48), [68](https://www.legislation.gov.uk/uksi/2013/648/article/68), [79](https://www.legislation.gov.uk/uksi/2013/648/article/79))
+
+[^key-3074928517fb0350f15b91a130a8eab7]: Modification: Act applied (with modifications) (16.4.2013) by [The Network Rail (Pont Briwet) (Land Acquisition) Order 2013 (S.I. 2013/767)](https://www.legislation.gov.uk/wsi/2013/767), [art. 5](https://www.legislation.gov.uk/wsi/2013/767/article/5) (with [arts. 20](https://www.legislation.gov.uk/wsi/2013/767/article/20), [21](https://www.legislation.gov.uk/wsi/2013/767/article/21))
+
+[^key-ad3eb52537094bc6f51159b5b09eb018]: Modification: Act applied (with modifications) (15.6.2013) by [The Galloper Wind Farm Order 2013 (S.I. 2013/1203)](https://www.legislation.gov.uk/uksi/2013/1203), [art. 20](https://www.legislation.gov.uk/uksi/2013/1203/article/20) (with [arts. 11](https://www.legislation.gov.uk/uksi/2013/1203/article/11), [12](https://www.legislation.gov.uk/uksi/2013/1203/article/12))
+
+[^key-41046e791d2560481c2be7f93477a5ce]: Modification: Act applied (with modifications) (21.8.2013) by [The Croxley Rail Link Order 2013 (S.I. 2013/1967)](https://www.legislation.gov.uk/uksi/2013/1967), [art. 18](https://www.legislation.gov.uk/uksi/2013/1967/article/18)
+
+[^key-ca938f98d3babf7b32aac6bb8e6d43e9]: Modification: Act applied (with modifications) (22.8.2013) by [The Leeds Railway Station (Southern Entrance) Order 2013 (S.I. 2013/1933)](https://www.legislation.gov.uk/uksi/2013/1933), [arts. 23](https://www.legislation.gov.uk/uksi/2013/1933/article/23), [33](https://www.legislation.gov.uk/uksi/2013/1933/article/33)
+
+[^key-87f965c8cbbea81f8dc81470e9fe600e]: Modification: Act applied (with modifications) (6.11.2013) by [The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013 (S.I. 2013/2587)](https://www.legislation.gov.uk/uksi/2013/2587), [art. 28](https://www.legislation.gov.uk/uksi/2013/2587/article/28) (with [arts. 38(1)](https://www.legislation.gov.uk/uksi/2013/2587/article/38/1), [42](https://www.legislation.gov.uk/uksi/2013/2587/article/42), [43](https://www.legislation.gov.uk/uksi/2013/2587/article/43))
+
+[^key-ee87e860a5272ea632dfce8a07e5e6b0]: Modification: Act applied (with modifications) (20.11.2013) by [The M1 Junction 10a (Grade Separation) Order 2013 (S.I. 2013/2808)](https://www.legislation.gov.uk/uksi/2013/2808), [art. 22](https://www.legislation.gov.uk/uksi/2013/2808/article/22)
+
+[^key-c3886985e8c84c0d65f137ae02cfb845]: Modification: Act applied (with modifications) (21.11.2013) by [The Network Rail (Redditch Branch Enhancement) Order 2013 (S.I. 2013/2809)](https://www.legislation.gov.uk/uksi/2013/2809), [art. 19](https://www.legislation.gov.uk/uksi/2013/2809/article/19) (with [arts. 16(1)](https://www.legislation.gov.uk/uksi/2013/2809/article/16/1), [27(2)](https://www.legislation.gov.uk/uksi/2013/2809/article/27/2), [39](https://www.legislation.gov.uk/uksi/2013/2809/article/39), [Sch. 10 para. 4](https://www.legislation.gov.uk/uksi/2013/2809/schedule/10/paragraph/4))
+
+[^key-16ecb57e2324ff5da061335e5ebf70cd]: Modification: Act applied (with modifications) (9.1.2014) by [The National Grid (King’s Lynn B Power Station Connection) Order 2013 (S.I. 2013/3200)](https://www.legislation.gov.uk/uksi/2013/3200), [art. 21](https://www.legislation.gov.uk/uksi/2013/3200/article/21) (with [art. 20(1)](https://www.legislation.gov.uk/uksi/2013/3200/article/20/1))
+
+[^key-42e40838bbd4afb129951be13765f3d6]: Modification: Act applied (with modifications) (9.1.2014) by [The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order 2013 (S.I. 2013/3244)](https://www.legislation.gov.uk/uksi/2013/3244), [arts. 25](https://www.legislation.gov.uk/uksi/2013/3244/article/25), [35](https://www.legislation.gov.uk/uksi/2013/3244/article/35) (with [arts. 57](https://www.legislation.gov.uk/uksi/2013/3244/article/57), [58](https://www.legislation.gov.uk/uksi/2013/3244/article/58), [Sch. 11 para. 19](https://www.legislation.gov.uk/uksi/2013/3244/schedule/11/paragraph/19))
+
+[^key-41b296b9535b465a66773563b91241a5]: Modification: Act applied (with modifications) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 10](https://www.legislation.gov.uk/uksi/2014/310/article/10), [17](https://www.legislation.gov.uk/uksi/2014/310/article/17)
+
+[^key-79f089822ac56555edbc4c30da4b9ff2]: Modification: Act applied (with modifications) (21.4.2014) by [The Network Rail (Norton Bridge Area Improvements) Order 2014 (S.I. 2014/909)](https://www.legislation.gov.uk/uksi/2014/909), [art. 24](https://www.legislation.gov.uk/uksi/2014/909/article/24) (with [art. 34(2)](https://www.legislation.gov.uk/uksi/2014/909/article/34/2))
+
+[^key-8a6adbcf03fb194a035aa1efdb38c2ba]: Modification: Act applied (with modifications) (7.5.2014) by [The National Grid (North London Reinforcement Project) Order 2014 (S.I. 2014/1052)](https://www.legislation.gov.uk/uksi/2014/1052), [art. 27](https://www.legislation.gov.uk/uksi/2014/1052/article/27)
+
+[^key-93c5ed479642f6836f3047fe64ef3274]: Modification: Act applied (with modifications) (7.7.2014) by [The East Anglia ONE Offshore Wind Farm Order 2014 (S.I. 2014/1599)](https://www.legislation.gov.uk/uksi/2014/1599), [art. 19](https://www.legislation.gov.uk/uksi/2014/1599/article/19) (with [arts. 37](https://www.legislation.gov.uk/uksi/2014/1599/article/37), [38](https://www.legislation.gov.uk/uksi/2014/1599/article/38), [Sch. 9 para. 19](https://www.legislation.gov.uk/uksi/2014/1599/schedule/9/paragraph/19))
+
+[^key-83901704d68930d5f5e6a90f27d5c0c6]: Modification: Act applied (with modifications) (24.7.2014) by [The Daventry International Rail Freight Interchange Alteration Order 2014 (S.I. 2014/1796)](https://www.legislation.gov.uk/uksi/2014/1796), [art. 21](https://www.legislation.gov.uk/uksi/2014/1796/article/21) (with [art. 24(2)](https://www.legislation.gov.uk/uksi/2014/1796/article/24/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2014/1796/schedule/6/paragraph/3))
+
+[^key-19d64190bbb131d3b4a51bdbac26784f]: Modification: Act applied (with modifications) (29.7.2014) by [The Felixstowe Branch Line (Land Acquisition) Order 2014 (S.I. 2014/1821)](https://www.legislation.gov.uk/uksi/2014/1821), [arts. 5](https://www.legislation.gov.uk/uksi/2014/1821/article/5), [14](https://www.legislation.gov.uk/uksi/2014/1821/article/14)
+
+[^key-6261e65ae8339845d9f5c34ecb71e9f9]: Modification: Act applied (with modifications) (6.8.2014) by [The Rampion Offshore Wind Farm Order 2014 (S.I. 2014/1873)](https://www.legislation.gov.uk/uksi/2014/1873), [art. 27](https://www.legislation.gov.uk/uksi/2014/1873/article/27) (with [arts. 12](https://www.legislation.gov.uk/uksi/2014/1873/article/12), [13](https://www.legislation.gov.uk/uksi/2014/1873/article/13), Sch. 12 Pt. 1 para. 19, Pt. 2 para. 6, Pt. 3 para. 5, Pt. 4 para. 4, Pt. 5 para. 4)
+
+[^key-13529d0db927483a0cbdf68064cdede3]: Modification: Act applied (with modifications) (19.8.2014) by [The Network Rail (Huyton) Order 2014 (S.I. 2014/2027)](https://www.legislation.gov.uk/uksi/2014/2027), [art. 18](https://www.legislation.gov.uk/uksi/2014/2027/article/18) (with [art. 31(2)](https://www.legislation.gov.uk/uksi/2014/2027/article/31/2))
+
+[^key-ecd5c09c95b22f87dbbe4dacd845fa25]: Modification: Act applied (with modifications) (18.9.2014) by [The A556 (Knutsford to Bowdon Improvement) Development Consent Order 2014 (S.I. 2014/2269)](https://www.legislation.gov.uk/uksi/2014/2269), [arts. 19](https://www.legislation.gov.uk/uksi/2014/2269/article/19), [22](https://www.legislation.gov.uk/uksi/2014/2269/article/22)
+
+    Act applied (with modifications) (24.9.2014) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) Order 2014 (S.I. 2014/2384)](https://www.legislation.gov.uk/uksi/2014/2384), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1), [34](https://www.legislation.gov.uk/uksi/2014/2384/article/34)
+
+[^key-a1911d747139a64918ac26bd03c78cec]: Modification: Act applied (with modifications) (2.10.2014) by [The North Killingholme (Generating Station) Order 2014 (S.I. 2014/2434)](https://www.legislation.gov.uk/uksi/2014/2434), [arts. 19(1)(b)](https://www.legislation.gov.uk/uksi/2014/2434/article/19/1/b), [21](https://www.legislation.gov.uk/uksi/2014/2434/article/21) (with [arts. 6](https://www.legislation.gov.uk/uksi/2014/2434/article/6), [13](https://www.legislation.gov.uk/uksi/2014/2434/article/13), [16(4)](https://www.legislation.gov.uk/uksi/2014/2434/article/16/4), Sch. 8 Pt. 1 para. 6, Sch. 8 Pt. 3 paras. 4(3), 6, 17, Sch. 8 Pt. 5 para. 9)
+
+[^key-b7addf1dd277f0890f30cda58f9af6c6]: Modification: Act applied (2.10.2014) by [The Clocaenog Forest Wind Farm Order 2014 (S.I. 2014/2441)](https://www.legislation.gov.uk/uksi/2014/2441), [art. 25](https://www.legislation.gov.uk/uksi/2014/2441/article/25) (with [art. 33](https://www.legislation.gov.uk/uksi/2014/2441/article/33))
+
+[^key-4e7b33f2d4dd2e46768180e45f4158e2]: Modification: Act applied (with modifications) (21.10.2014) by [The Central Bedfordshire Council (Woodside Link Houghton Regis) Development Consent Order 2014 (S.I. 2014/2637)](https://www.legislation.gov.uk/uksi/2014/2637), [art. 23](https://www.legislation.gov.uk/uksi/2014/2637/article/23)
+
+[^key-33ba9e352569e822af343980c1bde661]: Modification: Act applied (with modifications) (29.10.2014) by [The Able Marine Energy Park Development Consent Order 2014 (S.I. 2014/2935)](https://www.legislation.gov.uk/uksi/2014/2935), [art. 36](https://www.legislation.gov.uk/uksi/2014/2935/article/36) (with [arts. 30(4)](https://www.legislation.gov.uk/uksi/2014/2935/article/30/4), [53](https://www.legislation.gov.uk/uksi/2014/2935/article/53))
+
+[^key-d0574b10a5c68820d5de7866ab8bd45c]: Modification: Act applied (with modifications) (28.11.2014) by [The Walney Extension Offshore Wind Farm Order 2014 (S.I. 2014/2950)](https://www.legislation.gov.uk/uksi/2014/2950), [art. 23](https://www.legislation.gov.uk/uksi/2014/2950/article/23) (with [arts. 38](https://www.legislation.gov.uk/uksi/2014/2950/article/38), [39](https://www.legislation.gov.uk/uksi/2014/2950/article/39))
+
+[^key-ca5523f5de4be950a2d9dea9e0e44375]: Modification: Act applied (with modifications) (15.12.2014) by [The London Underground (Northern Line Extension) Order 2014 (S.I. 2014/3102)](https://www.legislation.gov.uk/uksi/2014/3102), [art. 25](https://www.legislation.gov.uk/uksi/2014/3102/article/25) (with [Sch. 8 para. 45](https://www.legislation.gov.uk/uksi/2014/3102/schedule/8/paragraph/45))
+
+[^key-4c934b7d657af499435128ec71694430]: Modification: Act applied (with modifications) (31.12.2014) by [The Hornsea One Offshore Wind Farm Order 2014 (S.I. 2014/3331)](https://www.legislation.gov.uk/uksi/2014/3331), [art. 19](https://www.legislation.gov.uk/uksi/2014/3331/article/19) (with [arts. 37](https://www.legislation.gov.uk/uksi/2014/3331/article/37), [38](https://www.legislation.gov.uk/uksi/2014/3331/article/38))
+
+[^key-8dc0436db9d8b5901f671a32bb53f6a7]: Modification: Act applied (with modifications) (7.1.2015) by [The Willington C Gas Pipeline Order 2014 (S.I. 2014/3328)](https://www.legislation.gov.uk/uksi/2014/3328), [art. 21](https://www.legislation.gov.uk/uksi/2014/3328/article/21)
+
+[^key-fd65f4e809145fc46aedcf4909147f93]: Modification: Act applied (with modifications) (2.2.2015) by [The Northumberland County Council (A1 – South East Northumberland Link Road (Morpeth Northern Bypass)) Development Consent Order 2015 (S.I. 2015/23)](https://www.legislation.gov.uk/uksi/2015/23), [art. 25](https://www.legislation.gov.uk/uksi/2015/23/article/25)
+
+[^key-db8ae6bb888a3eac753edc392c965fdd]: Modification: Act applied (with modifications) (25.2.2015) by [The A160/A180 (Port of Immingham Improvement) Development Consent Order 2015 (S.I. 2015/129)](https://www.legislation.gov.uk/uksi/2015/129), [art. 24](https://www.legislation.gov.uk/uksi/2015/129/article/24)
+
+[^key-fc63e5ac503392ddb359117cb76443dd]: Modification: Act applied (with modifications) (26.2.2015) by [The Cornwall Council (A30 Temple to Higher Carblake Improvement) Order 2015 (S.I. 2015/147)](https://www.legislation.gov.uk/uksi/2015/147), [art. 24](https://www.legislation.gov.uk/uksi/2015/147/article/24)
+
+[^key-4fd37cef80e0ffa6abf0e1d49fadb582]: Modification: Act applied (with modifications) (11.3.2015) by [The Dogger Bank Creyke Beck Offshore Wind Farm Order 2015 (S.I. 2015/318)](https://www.legislation.gov.uk/uksi/2015/318), [art. 26](https://www.legislation.gov.uk/uksi/2015/318/article/26) (with [arts. 40](https://www.legislation.gov.uk/uksi/2015/318/article/40), [41](https://www.legislation.gov.uk/uksi/2015/318/article/41), Sch. 12 Pt. 1 paras. 4, 9(2), 10, Sch. 12 Pt. 2 paras. 4(2)(3), 19, Sch. 12 Pt. 4 paras. 3, 4, 16)
+
+[^key-f311e2d5d4932a3d0253fbabfca9ab3d]: Modification: Act applied (with modifications) (1.4.2015) by [The Knottingley Power Plant Order 2015 (S.I. 2015/680)](https://www.legislation.gov.uk/uksi/2015/680), [art. 23](https://www.legislation.gov.uk/uksi/2015/680/article/23) (with [Sch. 8 para. 10](https://www.legislation.gov.uk/uksi/2015/680/schedule/8/paragraph/10))
+
+[^key-0278a4e7063718f707f2f7077bf4b25b]: Modification: Act applied (with modifications) (21.4.2015) by [The Network Rail (Ordsall Chord) Order 2015 (S.I. 2015/780)](https://www.legislation.gov.uk/uksi/2015/780), [art. 23](https://www.legislation.gov.uk/uksi/2015/780/article/23) (with [art. 36(2)](https://www.legislation.gov.uk/uksi/2015/780/article/36/2))
+
+[^key-12731a9e239f28b598c6df9216cb34c5]: Modification: Act applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 10(2)](https://www.legislation.gov.uk/uksi/2015/781/article/10/2)
+
+[^key-79e0fc9504a14538d936732f305da7b1]: Modification: Act applied (with modifications) (9.6.2015) by [The White Moss Landfill Order 2015 (S.I. 2015/1317)](https://www.legislation.gov.uk/uksi/2015/1317), [art. 17](https://www.legislation.gov.uk/uksi/2015/1317/article/17) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/1317/article/5))
+
+[^key-a3ad18a82d7ca23d627aa9b2650c95cb]: Modification: Act applied (with modifications) (23.6.2015) by [The Norfolk County Council (Norwich Northern Distributor Road (A1067 to A47(T))) Order 2015 (S.I. 2015/1347)](https://www.legislation.gov.uk/uksi/2015/1347), [art. 25](https://www.legislation.gov.uk/uksi/2015/1347/article/25)
+
+[^key-c66298c895fbc86920743f81ad41a74c]: Modification: Act applied (with modifications) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [art. 29](https://www.legislation.gov.uk/uksi/2015/1386/article/29) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
+
+[^key-7109784c0181b6e9790fbe157e9a5618]: Modification: Act applied (with modifications) (7.8.2015) by [The Preesall Underground Gas Storage Facility Order 2015 (S.I. 2015/1561)](https://www.legislation.gov.uk/uksi/2015/1561), [art. 22](https://www.legislation.gov.uk/uksi/2015/1561/article/22) (with [art. 44](https://www.legislation.gov.uk/uksi/2015/1561/article/44))
+
+[^key-bde7ae5cb09e79afd716714089c5b3f6]: Modification: Act applied (with modifications) (14.8.2015) by [The Hirwaun Generating Station Order 2015 (S.I. 2015/1574)](https://www.legislation.gov.uk/uksi/2015/1574), [art. 22](https://www.legislation.gov.uk/uksi/2015/1574/article/22) (with [art. 30](https://www.legislation.gov.uk/uksi/2015/1574/article/30))
+
+[^key-fe063d17a5a286ad7b748b4510f0f26a]: Modification: Act applied (with modifications) (14.8.2015) by [The Progress Power (Gas Fired Power Station) Order 2015 (S.I. 2015/1570)](https://www.legislation.gov.uk/uksi/2015/1570), [art. 23](https://www.legislation.gov.uk/uksi/2015/1570/article/23)
+
+[^key-a45ac8071ee88e6d7a3562e710c3838b]: Modification: Act applied (with modifications) (26.8.2015) by [The Dogger Bank Teesside A and B Offshore Wind Farm Order 2015 (S.I. 2015/1592)](https://www.legislation.gov.uk/uksi/2015/1592), [art. 27](https://www.legislation.gov.uk/uksi/2015/1592/article/27) (with [arts. 40](https://www.legislation.gov.uk/uksi/2015/1592/article/40), [41](https://www.legislation.gov.uk/uksi/2015/1592/article/41))
+
+[^key-152fe69ed73ab3e905e76d657a4f8adc]: Modification: Act applied (with modifications) (30.9.2015) by [The Network Rail (Blackthorn and Piddington) (Land Acquisition) Order 2015 (S.I. 2015/1684)](https://www.legislation.gov.uk/uksi/2015/1684), [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/1684/article/5/2)
+
+[^key-07217b9597d999608b826ca5e2c9440e]: Modification: Act applied (with modifications) (16.12.2015) by [The Network Rail (Tinsley Chord) Order 2015 (S.I. 2015/1876)](https://www.legislation.gov.uk/uksi/2015/1876), [art. 15](https://www.legislation.gov.uk/uksi/2015/1876/article/15) (with [art. 24(1)(b)](https://www.legislation.gov.uk/uksi/2015/1876/article/24/1/b))
+
+[^key-ef74cdb745bce7897e2a722f2414e558]: Modification: Act applied (with modifications) (30.12.2015) by [The Port Talbot Steelworks Generating Station Order 2015 (S.I. 2015/1984)](https://www.legislation.gov.uk/uksi/2015/1984), [art. 13](https://www.legislation.gov.uk/uksi/2015/1984/article/13) (with [art. 26](https://www.legislation.gov.uk/uksi/2015/1984/article/26))
+
+[^key-475d1750a9bd1c23c4ce393f58d1768d]: Modification: Act applied (with modifications) (12.1.2016) by [The London Underground (Bank Station Capacity Upgrade) Order 2015 (S.I. 2015/2044)](https://www.legislation.gov.uk/uksi/2015/2044), [art. 22](https://www.legislation.gov.uk/uksi/2015/2044/article/22)
+
+[^key-5e150a1329109ffd5a309f2713e0c608]: Modification: Act applied (with modifications) (2.2.2016) by [The East Midlands Gateway Rail Freight Interchange and Highway Order 2016 (S.I. 2016/17)](https://www.legislation.gov.uk/uksi/2016/17), [art. 29](https://www.legislation.gov.uk/uksi/2016/17/article/29)
+
+[^key-5e61ed9378c884430915336cd9586162]: Modification: Act applied (with modifications) (9.2.2016) by [The National Grid (Hinkley Point C Connection Project) Order 2016 (S.I. 2016/49)](https://www.legislation.gov.uk/uksi/2016/49), [art. 25](https://www.legislation.gov.uk/uksi/2016/49/article/25) (with [arts. 21(1)](https://www.legislation.gov.uk/uksi/2016/49/article/21/1), [32](https://www.legislation.gov.uk/uksi/2016/49/article/32))
+
+[^key-5ecd63f57996a83f1dc7fdbfa24d51dc]: Modification: Act applied (with modifications) (18.2.2016) by [The A19/A1058 Coast Road (Junction Improvement) Development Consent Order 2016 (S.I. 2016/73)](https://www.legislation.gov.uk/uksi/2016/73), [art. 23](https://www.legislation.gov.uk/uksi/2016/73/article/23) (with [art. 37](https://www.legislation.gov.uk/uksi/2016/73/article/37))
+
+[^key-c3949681ba753e40cd002fea67f0780c]: Modification: Act applied (with modifications) (25.3.2016) by [The Thorpe Marsh Gas Pipeline Order 2016 (S.I. 2016/297)](https://www.legislation.gov.uk/uksi/2016/297), [art. 25](https://www.legislation.gov.uk/uksi/2016/297/article/25) (with [art. 39](https://www.legislation.gov.uk/uksi/2016/297/article/39))
+
+[^key-34f9df6b3450863785e0dcccd6018a99]: Modification: Act applied (with modifications) (1.6.2016) by [The A14 Cambridge to Huntingdon Improvement Scheme Development Consent Order 2016 (S.I. 2016/547)](https://www.legislation.gov.uk/uksi/2016/547), [art. 26](https://www.legislation.gov.uk/uksi/2016/547/article/26) (with [arts. 4](https://www.legislation.gov.uk/uksi/2016/547/article/4), [5(3)](https://www.legislation.gov.uk/uksi/2016/547/article/5/3))
+
+[^key-4eec1a75de60575dad53fd38b4c53bbd]: Modification: Act applied (with modifications) (14.6.2016) by [The Midland Metro (Birmingham City Centre Extension, etc.) (Land Acquisition and Variation) Order 2016 (S.I. 2016/545)](https://www.legislation.gov.uk/uksi/2016/545), [art. 22](https://www.legislation.gov.uk/uksi/2016/545/article/22) (with [art. 39](https://www.legislation.gov.uk/uksi/2016/545/article/39))
+
+[^key-11d8286dde34324a47791ebee02151d9]: Modification: Act applied (with modifications) (2.8.2016) by [The Meaford Gas Fired Generating Station Order 2016 (S.I. 2016/779)](https://www.legislation.gov.uk/uksi/2016/779), [art. 19](https://www.legislation.gov.uk/uksi/2016/779/article/19)
+
+[^key-671153c0163fb3d87403623ed08af5ef]: Modification: Act applied (with modifications) (2.8.2016) by [The Midland Metro (Wolverhampton City Centre Extension) Order 2016 (S.I. 2016/684)](https://www.legislation.gov.uk/uksi/2016/684), [art. 29](https://www.legislation.gov.uk/uksi/2016/684/article/29) (with [arts. 39](https://www.legislation.gov.uk/uksi/2016/684/article/39), [46](https://www.legislation.gov.uk/uksi/2016/684/article/46), [47](https://www.legislation.gov.uk/uksi/2016/684/article/47), [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2016/684/schedule/9/paragraph/4), [Sch. 10 para. 12(2)](https://www.legislation.gov.uk/uksi/2016/684/schedule/10/paragraph/12/2))
+
+[^key-d25b61f9e86488d9495db36e78bf60ba]: Modification: Act applied (with modifications) (10.8.2016) by [The York Potash Harbour Facilities Order 2016 (S.I. 2016/772)](https://www.legislation.gov.uk/uksi/2016/772), [art. 28](https://www.legislation.gov.uk/uksi/2016/772/article/28) (with [arts. 35](https://www.legislation.gov.uk/uksi/2016/772/article/35), [36](https://www.legislation.gov.uk/uksi/2016/772/article/36))
+
+[^key-322f864a18bbff62d09f590f3f208db7]: Modification: Act applied (with modifications) (19.8.2016) by [The North Wales Wind Farms Connection Order 2016 (S.I. 2016/818)](https://www.legislation.gov.uk/uksi/2016/818), [art. 24](https://www.legislation.gov.uk/uksi/2016/818/article/24) (with [art. 35](https://www.legislation.gov.uk/uksi/2016/818/article/35))
+
+[^key-4a961165ea5ad8b0f88d3cf660f9b104]: Modification: Act applied (with modifications) (7.9.2016) by [The Hornsea Two Offshore Wind Farm Order 2016 (S.I. 2016/844)](https://www.legislation.gov.uk/uksi/2016/844), [art. 22](https://www.legislation.gov.uk/uksi/2016/844/article/22) (with [arts. 37](https://www.legislation.gov.uk/uksi/2016/844/article/37), [38](https://www.legislation.gov.uk/uksi/2016/844/article/38))
+
+[^key-89a800e337b212d1d2f496be42d76787]: Modification: Act applied (with modifications) (15.9.2016) by [The River Humber Gas Pipeline Replacement Order 2016 (S.I. 2016/853)](https://www.legislation.gov.uk/uksi/2016/853), [art. 26](https://www.legislation.gov.uk/uksi/2016/853/article/26) (with [art. 43](https://www.legislation.gov.uk/uksi/2016/853/article/43))
+
+[^key-ae8f8c3b9365ec7fcbafa5006a9d7659]: Modification: Act applied (with modifications) (23.9.2016) by [The M4 Motorway (Junctions 3 to 12) (Smart Motorway) Development Consent Order 2016 (S.I. 2016/863)](https://www.legislation.gov.uk/uksi/2016/863), [art. 24](https://www.legislation.gov.uk/uksi/2016/863/article/24)
+
+[^key-4f28e612b59a775c181fc0e62df0a5fd]: Modification: Act applied (with modifications) (27.9.2016) by [The Triton Knoll Electrical System Order 2016 (S.I. 2016/880)](https://www.legislation.gov.uk/uksi/2016/880), [art. 20](https://www.legislation.gov.uk/uksi/2016/880/article/20) (with [arts. 39](https://www.legislation.gov.uk/uksi/2016/880/article/39), [40](https://www.legislation.gov.uk/uksi/2016/880/article/40), [Sch. 8 para. 19](https://www.legislation.gov.uk/uksi/2016/880/schedule/8/paragraph/19))
+
+[^key-092d3ef1cfff3b94b6d645f17ec1ce89]: Modification: Act applied (with modifications) (28.10.2016) by [The Brechfa Forest Wind Farm Connection Order 2016 (S.I. 2016/987)](https://www.legislation.gov.uk/uksi/2016/987), [arts. 22](https://www.legislation.gov.uk/uksi/2016/987/article/22), [25](https://www.legislation.gov.uk/uksi/2016/987/article/25) (with [art. 37](https://www.legislation.gov.uk/uksi/2016/987/article/37))
+
+[^key-9b1bb2aafa81d59195d2f5fde06b82ad]: Modification: Act applied (with modifications) (24.11.2016) by [The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016 (S.I. 2016/1035)](https://www.legislation.gov.uk/uksi/2016/1035), [art. 29](https://www.legislation.gov.uk/uksi/2016/1035/article/29) (with [arts. 43](https://www.legislation.gov.uk/uksi/2016/1035/article/43), [44](https://www.legislation.gov.uk/uksi/2016/1035/article/44))
+
+[^key-53a844a779cadabbc6b60fa3f22d1e46]: Modification: Act applied (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 4(4)](https://www.legislation.gov.uk/ukpga/2017/7/section/4/4), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/6/paragraph/3), [Sch. 9 paras. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/9/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/9/paragraph/4) (as amended (24.2.2017) by [2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 paras. 6](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/7), [9](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/9); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2))
+
+[^key-3d33dfa48639cddd280fe52399237786]: Modification: Act applied (with modifications) (18.3.2017) by [The North London Heat and Power Generating Station Order 2017 (S.I. 2017/215)](https://www.legislation.gov.uk/uksi/2017/215), [art. 23](https://www.legislation.gov.uk/uksi/2017/215/article/23)
+
+[^key-9aa3c381de68e9d5fa37ed993fbeeb6c]: Modification: Act applied (with modifications) (5.4.2017) by [The Keuper Underground Gas Storage Facility Order 2017 (S.I. 2017/433)](https://www.legislation.gov.uk/uksi/2017/433), [art. 26](https://www.legislation.gov.uk/uksi/2017/433/article/26)
+
+[^key-97bcd0edd0eb2a4ded7123b236d7cfd2]: Modification: Act applied (with modifications) (8.8.2017) by [The Wrexham Gas Fired Generating Station Order 2017 (S.I. 2017/766)](https://www.legislation.gov.uk/uksi/2017/766), [art. 19](https://www.legislation.gov.uk/uksi/2017/766/article/19)
+
+[^key-8044c2294bf11209fdb034a222789167]: Modification: Act applied (with modifications) (24.8.2017) by [The National Grid (Richborough Connection Project) Development Consent Order 2017 (S.I. 2017/817)](https://www.legislation.gov.uk/uksi/2017/817), [art. 25](https://www.legislation.gov.uk/uksi/2017/817/article/25) (with [art. 22](https://www.legislation.gov.uk/uksi/2017/817/article/22))
+
+[^key-03066d60102a80d33d1c9ab4e1849a51]: Modification: Act applied (29.8.2017) by [The East Anglia THREE Offshore Wind Farm Order 2017 (S.I. 2017/826)](https://www.legislation.gov.uk/uksi/2017/826), [art. 19](https://www.legislation.gov.uk/uksi/2017/826/article/19) (with [arts. 36](https://www.legislation.gov.uk/uksi/2017/826/article/36), [37](https://www.legislation.gov.uk/uksi/2017/826/article/37), [Sch. 8 para. 34](https://www.legislation.gov.uk/uksi/2017/826/schedule/8/paragraph/34))
+
+[^key-c97a5951d2e85d704c86f7c549ea80f2]: Modification: Act applied (with modifications) (5.9.2017) by [The London Overground (Barking Riverside Extension) Order 2017 (S.I. 2017/830)](https://www.legislation.gov.uk/uksi/2017/830), [art. 23](https://www.legislation.gov.uk/uksi/2017/830/article/23) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/uksi/2017/830/schedule/8/paragraph/20))
+
+[^key-52c6c39f649bb7efdeeb199ba6f2698b]: Modification: Act applied (with modifications) (8.12.2017) by [The Network Rail (Closure of Abbots Ripton Level Crossing) Order 2017 (S.I. 2017/1074)](https://www.legislation.gov.uk/uksi/2017/1074), [Sch. 1 paras. 4](https://www.legislation.gov.uk/uksi/2017/1074/schedule/1/paragraph/4), [5](https://www.legislation.gov.uk/uksi/2017/1074/schedule/1/paragraph/5)
+
+[^key-f057020c14262231e18c9affbf58ac72]: Modification: Act applied (with modifications) (19.12.2017) by [The Network Rail (Buxton Sidings Extension) Order 2017 (S.I. 2017/1150)](https://www.legislation.gov.uk/uksi/2017/1150), [art. 20](https://www.legislation.gov.uk/uksi/2017/1150/article/20) (with [arts. 28(1)(b)](https://www.legislation.gov.uk/uksi/2017/1150/article/28/1/b), [32(2)](https://www.legislation.gov.uk/uksi/2017/1150/article/32/2))
+
+[^key-28c9348ae710e2b5b7216c85a42a687e]: Modification: Act applied (with modifications) (22.12.2017) by [The M20 Junction 10a Development Consent Order 2017 (S.I. 2017/1202)](https://www.legislation.gov.uk/uksi/2017/1202), [art. 28](https://www.legislation.gov.uk/uksi/2017/1202/article/28) (with [arts. 4](https://www.legislation.gov.uk/uksi/2017/1202/article/4), [23](https://www.legislation.gov.uk/uksi/2017/1202/article/23), [37](https://www.legislation.gov.uk/uksi/2017/1202/article/37))
+
+[^key-beafd72191a04ee5290a9e3e6188e9d8]: Modification: Act applied (with modifcations) (2.1.2018) by [The Boston Barrier Order 2017 (S.I. 2017/1329)](https://www.legislation.gov.uk/uksi/2017/1329), [art. 33](https://www.legislation.gov.uk/uksi/2017/1329/article/33) (with [arts. 43(1)](https://www.legislation.gov.uk/uksi/2017/1329/article/43/1), [55-57](https://www.legislation.gov.uk/uksi/2017/1329/article/55), [Sch. 8 para. 13](https://www.legislation.gov.uk/uksi/2017/1329/schedule/8/paragraph/13))
+
+[^key-96ab1d0f6589fd8cf3e9ff0b55b17b22]: Modification: Act applied (with modifications) (4.1.2018) by [The Blackpool Tramway (Blackpool North Extension) Order 2017 (S.I. 2017/1214)](https://www.legislation.gov.uk/uksi/2017/1214), [art. 28](https://www.legislation.gov.uk/uksi/2017/1214/article/28) (with [arts. 58](https://www.legislation.gov.uk/uksi/2017/1214/article/58), [59](https://www.legislation.gov.uk/uksi/2017/1214/article/59))
+
+[^key-138dcc1d4edb6a8ad3e7f8f5caf64488]: Modification: Act applied (with modifications) (18.4.2018) by [The Network Rail (Hope Valley Capacity) Order 2018 (S.I. 2018/446)](https://www.legislation.gov.uk/uksi/2018/446), [arts. 19](https://www.legislation.gov.uk/uksi/2018/446/article/19), [29](https://www.legislation.gov.uk/uksi/2018/446/article/29) (with [arts. 24(8)](https://www.legislation.gov.uk/uksi/2018/446/article/24/8), [33(2)](https://www.legislation.gov.uk/uksi/2018/446/article/33/2))
+
+[^key-c0bfab1572e4c0a16652efed6d54420d]: Modification: Act applied (with modifications) (31.5.2018) by [The Silvertown Tunnel Order 2018 (S.I. 2018/574)](https://www.legislation.gov.uk/uksi/2018/574), [arts. 21](https://www.legislation.gov.uk/uksi/2018/574/article/21), [26](https://www.legislation.gov.uk/uksi/2018/574/article/26)
+
+[^key-4add512e828acc6412d1cf60ef88e233]: Modification: Act applied (with modifications) (4.6.2018) by [The Network Rail (Kings Mill No. 1 Level Crossing) (Land Acquisition and Closure) Order 2018 (S.I. 2018/571)](https://www.legislation.gov.uk/uksi/2018/571), [arts. 7](https://www.legislation.gov.uk/uksi/2018/571/article/7), [14](https://www.legislation.gov.uk/uksi/2018/571/article/14)
+
+[^key-b36454c5b719a0f11a4187995669e3de]: Modification: Act applied (with modifications) (28.6.2018) by [The High Speed Rail (London West Midlands) (Greatmoor Railway Sidings Etc.) Order 2018 (S.I. 2018/693)](https://www.legislation.gov.uk/uksi/2018/693), [arts. 9](https://www.legislation.gov.uk/uksi/2018/693/article/9), [15](https://www.legislation.gov.uk/uksi/2018/693/article/15)
+
+[^key-6f60991491afd996303107fd3e76b9f4]: Modification: Act applied (with modifications) (24.8.2018) by [The Network Rail (Werrington Grade Separation) Order 2018 (S.I. 2018/923)](https://www.legislation.gov.uk/uksi/2018/923), [arts. 20(1)](https://www.legislation.gov.uk/uksi/2018/923/article/20/1), [28(1)(b)](https://www.legislation.gov.uk/uksi/2018/923/article/28/1/b) (with [art. 31(2)](https://www.legislation.gov.uk/uksi/2018/923/article/31/2))
+
+[^key-c876e7695c40835fc153133003e55e42]: Modification: Act applied (with modifications) (26.9.2018) by [The Network Rail (Felixstowe Branch Line Improvements Level Crossings Closure) Order 2018 (S.I. 2018/937)](https://www.legislation.gov.uk/uksi/2018/937), [arts. 12](https://www.legislation.gov.uk/uksi/2014/2384/article/12), [18(1)(b)](https://www.legislation.gov.uk/uksi/2014/2384/article/18/1/b)
+
+[^key-f9d13b29311102edb2e68d3ade75fbbd]: Modification: Act applied (with modifications) (3.10.2018) by [The A19/A184 Testos Junction Alteration Development Consent Order 2018 (S.I. 2018/994)](https://www.legislation.gov.uk/uksi/2018/994), [art. 26](https://www.legislation.gov.uk/uksi/2018/994/article/26) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2018/994/article/3/3), [5](https://www.legislation.gov.uk/uksi/2018/994/article/5), [22](https://www.legislation.gov.uk/uksi/2018/994/article/22))
+
+[^key-b23fec386214a9ef2d0783bdf294cd3e]: Modification: Act applied (with modifications) (12.10.2018) by [The Eggborough Gas Fired Generating Station Order 2018 (S.I. 2018/1020)](https://www.legislation.gov.uk/uksi/2018/1020), [art. 22(10)](https://www.legislation.gov.uk/uksi/2018/1020/article/22/10) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/1020/article/6))
+
+[^key-b584916c07d770b5f8d845c7cd64cf1c]: Modification: Act applied (with modifications) (13.3.2019) by [The Port of Tilbury (Expansion) Order 2019 (S.I. 2019/359)](https://www.legislation.gov.uk/uksi/2019/359), [arts. 1](https://www.legislation.gov.uk/uksi/2019/359/article/1), [31](https://www.legislation.gov.uk/uksi/2019/359/article/31) (with [arts. 55](https://www.legislation.gov.uk/uksi/2019/359/article/55), [56](https://www.legislation.gov.uk/uksi/2019/359/article/56))
+
+[^key-bdb4b6951b54008a3b56dea83b699a1f]: Modification: Act applied (with modifications) (3.4.2019) by [The Millbrook Gas Fired Generating Station Order 2019 (S.I. 2019/578)](https://www.legislation.gov.uk/uksi/2019/578), [arts. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1), [23](https://www.legislation.gov.uk/uksi/2019/578/article/23)
+
+[^key-fcb71e88afe80b392281a9397a2a7a31]: Modification: Act applied (with modifications) (7.5.2019) by [The Midland Metro (Birmingham City Centre Extension, etc.) (Edgbaston Extension Land Acquisition) Order 2019 (S.I. 2019/882)](https://www.legislation.gov.uk/uksi/2019/882), [art. 6](https://www.legislation.gov.uk/uksi/2019/882/article/6) (with [arts. 12(1)](https://www.legislation.gov.uk/uksi/2019/882/article/12/1), [18](https://www.legislation.gov.uk/uksi/2019/882/article/18))
+
+[^key-1338c9c4f7d9245381bba3f12db5c42f]: Modification: Act applied (with modifications) (10.10.2019) by [The Abergelli Power Gas Fired Generating Station Order 2019 (S.I. 2019/1268)](https://www.legislation.gov.uk/uksi/2019/1268), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1), [24](https://www.legislation.gov.uk/uksi/2019/1268/article/24)
+
+[^key-0d568b88295c06e2f7a9f3f097bf2cc2]: Modification: Act applied (with modifications) (25.10.2019) by [The Drax Power (Generating Stations) Order 2019 (S.I. 2019/1315)](https://www.legislation.gov.uk/uksi/2019/1315), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1), [24](https://www.legislation.gov.uk/uksi/2019/1315/article/24)
+
+[^key-b0db868ac02b172f06d0e4cbe2a9df31]: Modification: Act applied (with modifications) (30.10.2019) by [The Northampton Gateway Rail Freight Interchange Order 2019 (S.I. 2019/1358)](https://www.legislation.gov.uk/uksi/2019/1358), [art. 31](https://www.legislation.gov.uk/uksi/2019/1358/article/31) (with [Sch. 13 Pt. 1 para. 19](https://www.legislation.gov.uk/uksi/2019/1358/schedule/13/part/1/paragraph/19))
+
+[^key-0800e341948ed39e8eef1ec6d3766293]: Modification: Act applied (with modifications) (25.2.2020) by [The Network Rail (East West Rail) (Bicester to Bedford Improvements) Order 2020 (S.I. 2020/114)](https://www.legislation.gov.uk/uksi/2020/114), [arts. 1](https://www.legislation.gov.uk/uksi/2020/114/article/1), [24](https://www.legislation.gov.uk/uksi/2020/114/article/24) (with [art. 37(2)](https://www.legislation.gov.uk/uksi/2020/114/article/37/2))
+
+[^key-53b897e7af3ccbc2cc2bb64a9fb82c34]: Modification: Act applied (with modifications) (27.2.2020) by [The A30 Chiverton to Carland Cross Development Consent Order 2020 (S.I. 2020/121)](https://www.legislation.gov.uk/uksi/2020/121), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/121/article/1/1), [30](https://www.legislation.gov.uk/uksi/2020/121/article/30) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/121/article/3/1))
+
+[^key-3f436a6f83c1acb36dcfc56759c54ad8]: Modification: Act applied (with modifications) (4.3.2020) by [The Midland Metro (Birmingham Eastside Extension) Order 2020 (S.I. 2020/141)](https://www.legislation.gov.uk/uksi/2020/141), [art. 30](https://www.legislation.gov.uk/uksi/2020/141/article/30) (with [arts. 47](https://www.legislation.gov.uk/uksi/2020/141/article/47), [48](https://www.legislation.gov.uk/uksi/2020/141/article/48), [Sch. 10 para. 19](https://www.legislation.gov.uk/uksi/2020/141/schedule/10/paragraph/19))
+
+[^key-22011e75b7bd398705254061f25edb39]: Modification: Act applied (with modifications) (14.4.2020) by [The Reinforcement to the North Shropshire Electricity Distribution Network Order 2020 (S.I. 2020/325)](https://www.legislation.gov.uk/uksi/2020/325), [art. 22](https://www.legislation.gov.uk/uksi/2020/325/article/22) (with [art. 7](https://www.legislation.gov.uk/uksi/2020/325/article/7))
+
+[^key-8c28f9b4adfcb331dc6709dcb11795b8]: Modification: Act applied (with modifications) (30.4.2020) by [The A585 Windy Harbour to Skippool Highway Development Consent Order 2020 (S.I. 2020/402)](https://www.legislation.gov.uk/uksi/2020/402), [art. 26](https://www.legislation.gov.uk/uksi/2020/402/article/26) (with [arts. 5](https://www.legislation.gov.uk/uksi/2020/402/article/5), [22](https://www.legislation.gov.uk/uksi/2020/402/article/22), [44](https://www.legislation.gov.uk/uksi/2020/402/article/44))
+
+[^key-c1d5f10fd491b26264aa5b5dec5078c7]: Modification: Act applied (with modifications) (1.5.2020) by [The Riverside Energy Park Order 2020 (S.I. 2020/419)](https://www.legislation.gov.uk/uksi/2020/419), arts. 1, [28](https://www.legislation.gov.uk/uksi/2020/419/article/28) (with [art. 7](https://www.legislation.gov.uk/uksi/2020/419/article/7))
+
+[^key-eda22c8e51fbf4c73d3c577d6679faae]: Modification: Act applied (with modifications) (21.5.2020) by [The Lake Lothing (Lowestoft) Third Crossing Order 2020 (S.I. 2020/474)](https://www.legislation.gov.uk/uksi/2020/474), [arts. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1), [31](https://www.legislation.gov.uk/uksi/2020/474/article/31) (with [arts. 51](https://www.legislation.gov.uk/uksi/2020/474/article/51), [57](https://www.legislation.gov.uk/uksi/2020/474/article/57))
+
+[^key-c1c125768e69306cde648db015980633]: Modification: Act applied (with modifications) (25.5.2020) by [The West Midlands Rail Freight Interchange Order 2020 (S.I. 2020/511)](https://www.legislation.gov.uk/uksi/2020/511), [arts. 1](https://www.legislation.gov.uk/uksi/2020/511/article/1), [31](https://www.legislation.gov.uk/uksi/2020/511/article/31)
+
+[^key-bf4e39feb3e50fd3493dfcc63d9f839c]: Modification: Act applied (with modifications) (11.6.2020) by [The M42 Junction 6 Development Consent Order 2020 (S.I. 2020/528)](https://www.legislation.gov.uk/uksi/2020/528), [arts. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1), [30](https://www.legislation.gov.uk/uksi/2020/528/article/30) (with [art. 37](https://www.legislation.gov.uk/uksi/2020/528/article/37))
+
+[^key-0977a8af6eec7ee3eab706af0de9df56]: Modification: Act applied (with modifications) (18.6.2020) by [The A63 (Castle Street Improvement, Hull) Development Consent Order 2020 (S.I. 2020/556)](https://www.legislation.gov.uk/uksi/2020/556), [arts. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1), [26](https://www.legislation.gov.uk/uksi/2020/556/article/26) (with [arts. 5](https://www.legislation.gov.uk/uksi/2020/556/article/5), [44](https://www.legislation.gov.uk/uksi/2020/556/article/44))
+
+[^key-ae6b5e17789acffdf79223090ca41f40]: Modification: Act applied (with modifications) (19.6.2020) by [The Cleve Hill Solar Park Order 2020 (S.I. 2020/547)](https://www.legislation.gov.uk/uksi/2020/547), [arts. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1), [20](https://www.legislation.gov.uk/uksi/2020/547/article/20) (with [art. 37](https://www.legislation.gov.uk/uksi/2020/547/article/37))
+
+[^key-1948ce6f7e9d32c60b115f207c6b9c8e]: Modification: Act applied (with modifications) (22.7.2020) by [The Norfolk Vanguard Offshore Wind Farm Order 2020 (S.I. 2020/706)](https://www.legislation.gov.uk/uksi/2020/706), [arts. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1), [22](https://www.legislation.gov.uk/uksi/2020/706/article/22) (with [arts. 41](https://www.legislation.gov.uk/uksi/2020/706/article/41), [42](https://www.legislation.gov.uk/uksi/2020/706/article/42), [Sch. 16 para. 66](https://www.legislation.gov.uk/uksi/2020/706/schedule/16/paragraph/66))
+
+[^key-37ec20ed77f4a89ca95c95b0b79b66a7]: Modification: Act applied (with modifications) (6.8.2020) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [art. 26](https://www.legislation.gov.uk/uksi/2020/746/article/26) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
+
+[^key-8f40450e453d3b7b3afcf7f067bdf613]: Modification: Act applied (with modifications) (1.9.2020) by [The Immingham Open Cycle Gas Turbine Order 2020 (S.I. 2020/847)](https://www.legislation.gov.uk/uksi/2020/847), [art. 23](https://www.legislation.gov.uk/uksi/2020/847/article/23) (with [Sch. 9 para. 144](https://www.legislation.gov.uk/uksi/2020/847/schedule/9/paragraph/144))
+
+[^key-077730fe4ba4ee4e79bc8b7d17f2b580]: Modification: Act applied (with modifications) (23.9.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) Order 2020 (S.I. 2020/1067)](https://www.legislation.gov.uk/uksi/2020/1067), [art. 5](https://www.legislation.gov.uk/uksi/2020/1067/article/5) (with [art. 11(1)(b)](https://www.legislation.gov.uk/uksi/2020/1067/article/11/1/b))
+
+[^key-6555ffdc22da9209cc178565a250d4f2]: Modification: Act applied (with modifications) (15.10.2020) by [The Great Yarmouth Third River Crossing Development Consent Order 2020 (S.I. 2020/1075)](https://www.legislation.gov.uk/uksi/2020/1075), [art. 32](https://www.legislation.gov.uk/uksi/2020/1075/article/32)
+
+[^key-036c83887729974ac00aada144df5c58]: Modification: Act applied (with modifications) (29.10.2020) by [The Southampton to London Pipeline Development Consent Order 2020 (S.I. 2020/1099)](https://www.legislation.gov.uk/uksi/2020/1099), [art. 27](https://www.legislation.gov.uk/uksi/2020/1099/article/27) (with [arts. 24(1)(b)](https://www.legislation.gov.uk/uksi/2020/1099/article/24/1/b), [32](https://www.legislation.gov.uk/uksi/2020/1099/article/32), [Sch. 9 para. 36](https://www.legislation.gov.uk/uksi/2020/1099/schedule/9/paragraph/36))
+
+[^key-f876d12a189342ac85167b34505d38b7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (2.12.2020) by [The Network Rail (London to Corby) (Land Acquisition) Order 2020 (S.I. 2020/1259)](https://www.legislation.gov.uk/uksi/2020/1259), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1259/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1259/article/6) (with [art. 16(1)](https://www.legislation.gov.uk/uksi/2020/1259/article/16/1))
+
+[^key-e1e16b437223525debfb03548f110c3b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (31.12.2020) by [The Network Rail (Cambridgeshire Level Crossing Reduction) Order 2020 (S.I. 2020/1485)](https://www.legislation.gov.uk/uksi/2020/1485), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1485/article/1), [21](https://www.legislation.gov.uk/uksi/2020/1485/article/21), [29](https://www.legislation.gov.uk/uksi/2020/1485/article/29)
+
+[^key-a87035ccceade9396a6dd90347135b34]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (19.1.2021) by [The Network Rail (Suffolk Level Crossing Reduction) Order 2020 (S.I. 2020/1663)](https://www.legislation.gov.uk/uksi/2020/1663), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1663/article/1), [20](https://www.legislation.gov.uk/uksi/2020/1663/article/20)
+
+[^key-61572e6ea0f1d4fba952b620735cc148]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (22.1.2021) by [The Hornsea Three Offshore Wind Farm Order 2020 (S.I. 2020/1656)](https://www.legislation.gov.uk/uksi/2020/1656), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1), [22](https://www.legislation.gov.uk/uksi/2020/1656/article/22) (with [arts. 40](https://www.legislation.gov.uk/uksi/2020/1656/article/40), [41](https://www.legislation.gov.uk/uksi/2020/1656/article/41), [Sch. 9 Pt. 5 para. 18](https://www.legislation.gov.uk/uksi/2020/1656/schedule/9/part/5/paragraph/18))
+
+[^key-33f44d78c2b9fa791f65453c8d81b7b0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (9.2.2021) by [The A1 Birtley to Coal House Development Consent Order 2021 (S.I. 2021/74)](https://www.legislation.gov.uk/uksi/2021/74), [arts. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1), [29](https://www.legislation.gov.uk/uksi/2021/74/article/29) (with [art. 5](https://www.legislation.gov.uk/uksi/2021/74/article/5), [Sch. 27 para. 36](https://www.legislation.gov.uk/uksi/2021/74/schedule/27/paragraph/36))
+
+[^key-e9527dd2db121bac701b62741aa1ac93]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 9 paras. 3](https://www.legislation.gov.uk/ukpga/2021/2/schedule/9/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/9/paragraph/4) (with [s. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2021/2/section/9/1/b))
+
+[^key-b9e74eea52ad80a274c63999e7dd4784]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2021/2/schedule/7/paragraph/3) (with [s. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2021/2/section/9/1/b))
+
+[^key-a6d0ae4e947b259af7b9f68b1db0da78]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2021/2/section/4/4), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1) (with [s. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2021/2/section/9/1/b))
+
+[^key-6002b46815fbdc277023b6ba1c6576b6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (19.2.2021) by [The A303 Sparkford to Ilchester Dualling Development Consent Order 2021 (S.I. 2021/125)](https://www.legislation.gov.uk/uksi/2021/125), [arts. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1), [30](https://www.legislation.gov.uk/uksi/2021/125/article/30) (with [arts. 4](https://www.legislation.gov.uk/uksi/2021/125/article/4), [47](https://www.legislation.gov.uk/uksi/2021/125/article/47))
+
+[^key-e8376738b190ca941c6d4598e40c7037]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (1.4.2021) by [The Network Rail (Ferryboat Lane Footbridge Reconstruction) (Land Acquisition) Order 2021 (S.I. 2021/299)](https://www.legislation.gov.uk/uksi/2021/299), [arts. 1](https://www.legislation.gov.uk/uksi/2021/299/article/1), [5](https://www.legislation.gov.uk/uksi/2021/299/article/5) (with [art. 11](https://www.legislation.gov.uk/uksi/2021/299/article/11))
+
+[^key-c5b86e55439b93f6f0417f45f8b0c3e9]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (16.4.2021) by [The Network Rail (Chart Leacon) Order 2021 (S.I. 2021/419)](https://www.legislation.gov.uk/uksi/2021/419), [arts. 1](https://www.legislation.gov.uk/uksi/2021/419/article/1), [5](https://www.legislation.gov.uk/uksi/2021/419/article/5) (with [art. 12(1)(b)](https://www.legislation.gov.uk/uksi/2021/419/article/12/1/b))
+
+[^key-0558ff62ea3eb232cd0ca306f45805e4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (1.9.2021) by [The Network Rail (Teddington Station Access for All) Order 2021 (S.I. 2021/937)](https://www.legislation.gov.uk/uksi/2021/937), [arts. 1](https://www.legislation.gov.uk/uksi/2021/937/article/1), [7](https://www.legislation.gov.uk/uksi/2021/937/article/7)
+
+[^key-af368cfafbaf7ef5d49575f9f630544e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (22.12.2021) by [The Morlais Demonstration Zone Order 2021 (S.I. 2021/1478)](https://www.legislation.gov.uk/wsi/2021/1478), [arts. 1](https://www.legislation.gov.uk/wsi/2021/1478/article/1), [25](https://www.legislation.gov.uk/wsi/2021/1478/article/25) (with [arts. 15](https://www.legislation.gov.uk/wsi/2021/1478/article/15), [50](https://www.legislation.gov.uk/wsi/2021/1478/article/50), [Sch. 11 para. 29](https://www.legislation.gov.uk/wsi/2021/1478/schedule/11/paragraph/29))
+
+[^key-f465e31ca9a0f57d7d2db2b4b9f9052a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (22.12.2021) by [The Morlais Demonstration Zone Order 2021 (S.I. 2021/1478)](https://www.legislation.gov.uk/wsi/2021/1478), [art. 1](https://www.legislation.gov.uk/wsi/2021/1478/article/1), [Sch. 7 paras. 6](https://www.legislation.gov.uk/wsi/2021/1478/schedule/7/paragraph/6), [7](https://www.legislation.gov.uk/wsi/2021/1478/schedule/7/paragraph/7) (with [arts. 15](https://www.legislation.gov.uk/wsi/2021/1478/article/15), [50](https://www.legislation.gov.uk/wsi/2021/1478/article/50), [Sch. 11 para. 29](https://www.legislation.gov.uk/wsi/2021/1478/schedule/11/paragraph/29))
+
+[^key-06df00c4e844430dff8f210b9cbcd379]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (1.1.2022) by [The Norfolk Boreas Offshore Wind Farm Order 2021 (S.I. 2021/1414)](https://www.legislation.gov.uk/uksi/2021/1414), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1), [22](https://www.legislation.gov.uk/uksi/2021/1414/article/22) (with [arts. 41](https://www.legislation.gov.uk/uksi/2021/1414/article/41), [42](https://www.legislation.gov.uk/uksi/2021/1414/article/42), [Sch. 17 para. 66](https://www.legislation.gov.uk/uksi/2021/1414/schedule/17/paragraph/66))
+
+[^key-e7e33db488c4c9fcef957bbc0653e23d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (5.3.2022) by [The Norfolk Vanguard Offshore Wind Farm Order 2022 (S.I. 2022/138)](https://www.legislation.gov.uk/uksi/2022/138), [arts. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1), [22](https://www.legislation.gov.uk/uksi/2022/138/article/22) (with [arts. 41](https://www.legislation.gov.uk/uksi/2022/138/article/41), [42](https://www.legislation.gov.uk/uksi/2022/138/article/42), [Sch. 16](https://www.legislation.gov.uk/uksi/2022/138/schedule/16))
+
+[^key-d9db775a8362a14d149d605bcfbbe473]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (10.3.2022) by [The Thurrock Flexible Generation Plant Development Consent Order 2022 (S.I. 2022/157)](https://www.legislation.gov.uk/uksi/2022/157), [arts. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1), [24](https://www.legislation.gov.uk/uksi/2022/157/article/24) (with [Sch. 8 Pt. 6 para. 19](https://www.legislation.gov.uk/uksi/2022/157/schedule/8/part/6/paragraph/19))
+
+[^key-efb261d3f0160df97500c5df2ffce71e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (25.3.2022) by [The Bridgwater Tidal Barrier Order 2022 (S.I. 2022/299)](https://www.legislation.gov.uk/uksi/2022/299), [arts. 1](https://www.legislation.gov.uk/uksi/2022/299/article/1), [34](https://www.legislation.gov.uk/uksi/2022/299/article/34) (with [art. 55](https://www.legislation.gov.uk/uksi/2022/299/article/55))
+
+[^key-2637009a4561c826f1665e5718fe0219]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied with modificatiions (22.4.2022) by [The East Anglia ONE North Offshore Wind Farm Order 2022 (S.I. 2022/432)](https://www.legislation.gov.uk/uksi/2022/432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2), [22](https://www.legislation.gov.uk/uksi/2022/432/article/22) (with [arts. 40](https://www.legislation.gov.uk/uksi/2022/432/article/40), [41](https://www.legislation.gov.uk/uksi/2022/432/article/41))
+
+[^key-5a64f957ecac762711e75292ffd7adb3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (22.4.2022) by [The East Anglia TWO Offshore Wind Farm Order 2022 (S.I. 2022/433)](https://www.legislation.gov.uk/uksi/2022/433), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2), [22](https://www.legislation.gov.uk/uksi/2022/433/article/22) (with [arts. 40](https://www.legislation.gov.uk/uksi/2022/433/article/40), [41](https://www.legislation.gov.uk/uksi/2022/433/article/41))
+
+[^key-8bb581712a234a20cf1cf69973505f80]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (12.5.2022) by [The M54 to M6 Link Road Development Consent Order 2022 (S.I. 2022/475)](https://www.legislation.gov.uk/uksi/2022/475), [arts. 1](https://www.legislation.gov.uk/uksi/2022/475/article/1), [26](https://www.legislation.gov.uk/uksi/2022/475/article/26)
+
+[^key-63c3810c339b5860ddbbc007f0d05d44]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (2.6.2022) by [The M25 Junction 10/A3 Wisley Interchange Development Consent Order 2022 (S.I. 2022/549)](https://www.legislation.gov.uk/uksi/2022/549), [arts. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1), [29](https://www.legislation.gov.uk/uksi/2022/549/article/29) (with [arts. 6](https://www.legislation.gov.uk/uksi/2022/549/article/6), [34](https://www.legislation.gov.uk/uksi/2022/549/article/34))
+
+[^key-f0669550cdb4d3ac1ade8947d1984c17]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (6.6.2022) by [The M25 Junction 28 Development Consent Order 2022 (S.I. 2022/573)](https://www.legislation.gov.uk/uksi/2022/573), [arts. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1), [31](https://www.legislation.gov.uk/uksi/2022/573/article/31) (with [arts. 5](https://www.legislation.gov.uk/uksi/2022/573/article/5), [27](https://www.legislation.gov.uk/uksi/2022/573/article/27), [36](https://www.legislation.gov.uk/uksi/2022/573/article/36))
+
+[^key-eadbddc5d0c763256e8ea27d45559357]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (30.6.2022) by [The Network Rail (Essex and Others Level Crossing Reduction) Order 2022 (S.I. 2022/651)](https://www.legislation.gov.uk/uksi/2022/651), [arts. 1](https://www.legislation.gov.uk/uksi/2022/651/article/1), [19](https://www.legislation.gov.uk/uksi/2022/651/article/19)
+
+[^key-e46362a9f79da69f1ca32d94475e037e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (13.7.2022) by [The A47 Blofield to North Burlingham Development Consent Order 2022 (S.I. 2022/738)](https://www.legislation.gov.uk/uksi/2022/738), [arts. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1), [31](https://www.legislation.gov.uk/uksi/2022/738/article/31) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/738/article/4), [50](https://www.legislation.gov.uk/uksi/2022/738/article/50))
+
+[^key-e3317ff54acf17cddfad528afe880de2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (1.8.2022) by [The Northumberland Line Order 2022 (S.I. 2022/820)](https://www.legislation.gov.uk/uksi/2022/820), [arts. 1](https://www.legislation.gov.uk/uksi/2022/820/article/1), [16](https://www.legislation.gov.uk/uksi/2022/820/article/16) (with [Sch. 10 paras. 21](https://www.legislation.gov.uk/uksi/2022/820/schedule/10/paragraph/21), [43](https://www.legislation.gov.uk/uksi/2022/820/schedule/10/paragraph/43))
+
+[^key-46f5fcb57378487239ac8ee2f408b01a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (2.8.2022) by [The Network Rail (Oxford Station Phase 2 Improvements (Land Only)) (No. 2) Order 2022 (S.I. 2022/872)](https://www.legislation.gov.uk/uksi/2022/872), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/872/article/1/1), [5](https://www.legislation.gov.uk/uksi/2022/872/article/5)
+
+[^key-9bb18539c289654bed9a4b1fb06568f7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (2.8.2022) by [The Network Rail (Oxford Station Phase 2 Improvements (Land Only)) Order 2022 (S.I. 2022/871)](https://www.legislation.gov.uk/uksi/2022/871), [arts. 1](https://www.legislation.gov.uk/uksi/2022/871/article/1), [5](https://www.legislation.gov.uk/uksi/2022/871/article/5)
+
+[^key-7a8c1bdfa01836dbf3d8304625cb04ae]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [arts. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [34](https://www.legislation.gov.uk/uksi/2022/853/article/34) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
+
+[^key-ec8a8f4e011dc5095afeddeaa958175a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (2.9.2022) by [The A47 North Tuddenham to Easton Development Consent Order 2022 (S.I. 2022/911)](https://www.legislation.gov.uk/uksi/2022/911), [arts. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1), [30](https://www.legislation.gov.uk/uksi/2022/911/article/30) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/911/article/4), [53](https://www.legislation.gov.uk/uksi/2022/911/article/53))
+
+[^key-8d2f1a69c296ee0c6f3957675719d5f1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (8.9.2022) by [The A428 Black Cat to Caxton Gibbet Development Consent Order 2022 (S.I. 2022/934)](https://www.legislation.gov.uk/uksi/2022/934), [arts. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1), [34](https://www.legislation.gov.uk/uksi/2022/934/article/34)
+
+[^key-dc2f9fa667f3e25431e95bf9cf1ebc73]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (8.9.2022) by [The Manston Airport Development Consent Order 2022 (S.I. 2022/922)](https://www.legislation.gov.uk/uksi/2022/922), [arts. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1), [26](https://www.legislation.gov.uk/uksi/2022/922/article/26) (with [arts. 5](https://www.legislation.gov.uk/uksi/2022/922/article/5), [40](https://www.legislation.gov.uk/uksi/2022/922/article/40))
+
+[^key-7d220d545660b8e3cd7bda3bc6ca0049]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [28](https://www.legislation.gov.uk/uksi/2022/1067/article/28) (with [arts. 40](https://www.legislation.gov.uk/uksi/2022/1067/article/40), [46(2)](https://www.legislation.gov.uk/uksi/2022/1067/article/46/2), [Sch. 19 para. 61](https://www.legislation.gov.uk/uksi/2022/1067/schedule/19/paragraph/61))
+
+[^key-a52e9ac2e2c2b71a48bc499103cf5441]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (4.11.2022) by [The A47/A11 Thickthorn Junction Development Consent Order 2022 (S.I. 2022/1070)](https://www.legislation.gov.uk/uksi/2022/1070), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1), [31](https://www.legislation.gov.uk/uksi/2022/1070/article/31) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/1070/article/4), [26](https://www.legislation.gov.uk/uksi/2022/1070/article/26), [52](https://www.legislation.gov.uk/uksi/2022/1070/article/52), [Sch. 9 para. 82](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/82))
+
+[^key-a49beb9ab38cc7dfa64ff5464fd0242c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (5.12.2022) by [The Portishead Branch Line (MetroWest Phase 1) Order 2022 (S.I. 2022/1194)](https://www.legislation.gov.uk/uksi/2022/1194), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1), [30](https://www.legislation.gov.uk/uksi/2022/1194/article/30) (with [art. 51](https://www.legislation.gov.uk/uksi/2022/1194/article/51))
+
+[^key-13e4782c90f966a3682f139b526b63c2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (7.12.2022) by [The A57 Link Roads Development Consent Order 2022 (S.I. 2022/1206)](https://www.legislation.gov.uk/uksi/2022/1206), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1), [28](https://www.legislation.gov.uk/uksi/2022/1206/article/28) (with [arts. 5](https://www.legislation.gov.uk/uksi/2022/1206/article/5), [24(1)(b)](https://www.legislation.gov.uk/uksi/2022/1206/article/24/1/b))
+
+[^key-39e094cf1621fa03ef3fae8b9c2ee833]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (7.12.2022) by [The A417 Missing Link Development Consent Order 2022 (S.I. 2022/1248)](https://www.legislation.gov.uk/uksi/2022/1248), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1248/article/1), [31](https://www.legislation.gov.uk/uksi/2022/1248/article/31) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/1248/article/4), [26](https://www.legislation.gov.uk/uksi/2022/1248/article/26))
+
+[^key-5c04891fa440ecf1b795dfdcd15c7a1f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (29.12.2022) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) Order 2022 (S.I. 2022/1396)](https://www.legislation.gov.uk/uksi/2022/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1), [23(1)-(10)](https://www.legislation.gov.uk/uksi/2022/1396/article/23/1) (with [art. 32](https://www.legislation.gov.uk/uksi/2022/1396/article/32), [Sch. 10 paras. 26(2)](https://www.legislation.gov.uk/uksi/2022/1396/schedule/10/paragraph/26/2), [68](https://www.legislation.gov.uk/uksi/2022/1396/schedule/10/paragraph/68))
+
+[^key-823137d814dc1f924817ed6341f88274]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (11.1.2023) by [The Network Rail (Cambridge South Infrastructure Enhancements) Order 2022 (S.I. 2022/1406)](https://www.legislation.gov.uk/uksi/2022/1406), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1406/article/1), [21](https://www.legislation.gov.uk/uksi/2022/1406/article/21) (with [arts. 23](https://www.legislation.gov.uk/uksi/2022/1406/article/23), [30](https://www.legislation.gov.uk/uksi/2022/1406/article/30), [34(2)](https://www.legislation.gov.uk/uksi/2022/1406/article/34/2), [Sch. 12 paras. 5](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/5), [47](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/47), [79](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/79))
+
+[^key-04c722e69a92b90a594f8e48c576bb3d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (10.3.2023) by [The A47 Wansford to Sutton Development Consent Order 2023 (S.I. 2023/218)](https://www.legislation.gov.uk/uksi/2023/218), [arts. 1](https://www.legislation.gov.uk/uksi/2023/218/article/1), [31](https://www.legislation.gov.uk/uksi/2023/218/article/31) (with [arts. 4](https://www.legislation.gov.uk/uksi/2023/218/article/4), [26](https://www.legislation.gov.uk/uksi/2023/218/article/26), [50](https://www.legislation.gov.uk/uksi/2023/218/article/50))
+
+[^M_C_6e3070b2-4805-44d8-877e-de2baf374c65]: Modification: Act applied (with modifications) (18.7.2023) by [The Longfield Solar Farm Order 2023 (S.I. 2023/734)](https://www.legislation.gov.uk/uksi/2023/734), [arts. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1), [22](https://www.legislation.gov.uk/uksi/2023/734/article/22) (with [art. 19](https://www.legislation.gov.uk/uksi/2023/734/article/19))
+
+[^key-c42e37adad9394d9cb88da5b0bf1ea0b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (27.7.2023) by [The Boston Alternative Energy Facility Order 2023 (S.I. 2023/778)](https://www.legislation.gov.uk/uksi/2023/778), [arts. 1](https://www.legislation.gov.uk/uksi/2023/778/article/1), [30](https://www.legislation.gov.uk/uksi/2023/778/article/30) (with [arts. 5](https://www.legislation.gov.uk/uksi/2023/778/article/5), [27](https://www.legislation.gov.uk/uksi/2023/778/article/27), [53](https://www.legislation.gov.uk/uksi/2023/778/article/53), [Sch. 8 paras. 6](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/6), [64](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/64))
+
+[^key-21c6edade7a16fb8139c8768d01c1a0c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (2.8.2023) by [The Rother Valley Railway (Bodiam to Robertsbridge Junction) Order 2023 (S.I. 2023/815)](https://www.legislation.gov.uk/uksi/2023/815), [arts. 1](https://www.legislation.gov.uk/uksi/2023/815/article/1), [20](https://www.legislation.gov.uk/uksi/2023/815/article/20) (with [art. 42](https://www.legislation.gov.uk/uksi/2023/815/article/42))
+
+[^key-da86fcc36e17ac25c6077fab8d1a6b72]: Modification: Act applied (with modifications) (3.8.2023) by [The Hornsea Four Offshore Wind Farm Order 2023 (S.I. 2023/800)](https://www.legislation.gov.uk/uksi/2023/800), [arts. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1), [23](https://www.legislation.gov.uk/uksi/2023/800/article/23) (with [arts. 20](https://www.legislation.gov.uk/uksi/2023/800/article/20), [42](https://www.legislation.gov.uk/uksi/2023/800/article/42), [43](https://www.legislation.gov.uk/uksi/2023/800/article/43), [Sch. 9 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2023/800/schedule/9/part/1/paragraph/4), [Sch. 9 Pt. 3 para. 6(1)](https://www.legislation.gov.uk/uksi/2023/800/schedule/9/part/3/paragraph/6/1), [Sch. 9 Pt. 4 para. 20](https://www.legislation.gov.uk/uksi/2023/800/schedule/9/part/4/paragraph/20), [Sch. 9 Pt. 9 para. 4](https://www.legislation.gov.uk/uksi/2023/800/schedule/9/part/9/paragraph/4))
+
+[^key-2c73fd8b242775c27fa5d0888498b2db]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (4.8.2023) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (S.I. 2023/834)](https://www.legislation.gov.uk/uksi/2023/834), [arts. 1](https://www.legislation.gov.uk/uksi/2023/834/article/1), [26](https://www.legislation.gov.uk/uksi/2023/834/article/26) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2023/834/article/6/2), [18](https://www.legislation.gov.uk/uksi/2023/834/article/18), [21](https://www.legislation.gov.uk/uksi/2023/834/article/21), [Sch. 11 paras. 5](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/5), [30](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/30))
+
+[^key-03df0dd33cb720669577f58d95e4c103]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (7.9.2023) by [The A38 Derby Junctions Development Consent Order 2023 (S.I. 2023/923)](https://www.legislation.gov.uk/uksi/2023/923), [arts. 1](https://www.legislation.gov.uk/uksi/2023/923/article/1), [30](https://www.legislation.gov.uk/uksi/2023/923/article/30) (with [arts. 4](https://www.legislation.gov.uk/uksi/2023/923/article/4), [25(1)(b)](https://www.legislation.gov.uk/uksi/2023/923/article/25/1/b), [45](https://www.legislation.gov.uk/uksi/2023/923/article/45), [Sch. 9 paras. 6](https://www.legislation.gov.uk/uksi/2023/923/schedule/9/paragraph/6), [32(1)](https://www.legislation.gov.uk/uksi/2023/923/schedule/9/paragraph/32/1), [46](https://www.legislation.gov.uk/uksi/2023/923/schedule/9/paragraph/46), [54(1)](https://www.legislation.gov.uk/uksi/2023/923/schedule/9/paragraph/54/1))
+
+[^key-0bd9e7708726417f4344ad9f3fcc3946]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (11.10.2023) by [The Awel y Môr Offshore Wind Farm Order 2023 (S.I. 2023/1033)](https://www.legislation.gov.uk/uksi/2023/1033), [arts. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1), [23](https://www.legislation.gov.uk/uksi/2023/1033/article/23)
+
+[^key-34176ea6fc86732476f53c87d32ff300]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-93636591ac3ac96980845fcdd7d420ef]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (7.2.2024) by [The Drax Power Station Bioenergy with Carbon Capture and Storage Extension Order 2024 (S.I. 2024/70)](https://www.legislation.gov.uk/uksi/2024/70), [arts. 1](https://www.legislation.gov.uk/uksi/2024/70/article/1), [21](https://www.legislation.gov.uk/uksi/2024/70/article/21) (with [arts. 18(1)(b)](https://www.legislation.gov.uk/uksi/2024/70/article/18/1/b), [43](https://www.legislation.gov.uk/uksi/2024/70/article/43), [Sch. 12 paras. 5](https://www.legislation.gov.uk/uksi/2024/70/schedule/12/paragraph/5), [24](https://www.legislation.gov.uk/uksi/2024/70/schedule/12/paragraph/24))
+
+[^key-be1556ec1c37a8a87341a6aedf996277]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (9.2.2024) by [The A12 Chelmsford to A120 Widening Development Consent Order 2024 (S.I. 2024/60)](https://www.legislation.gov.uk/uksi/2024/60), [arts. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1), [37](https://www.legislation.gov.uk/uksi/2024/60/article/37) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/60/article/4), [29](https://www.legislation.gov.uk/uksi/2024/60/article/29), [52](https://www.legislation.gov.uk/uksi/2024/60/article/52), [Sch. 11 paras. 6](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/6), [24](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/24), [39(1)](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/39/1), [55(1)](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/55/1), [84](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/84))
+
+[^key-db2c0883bd48c27e093c2a28aa566967]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (11.3.2024) by [The Net Zero Teesside Order 2024 (S.I. 2024/174)](https://www.legislation.gov.uk/uksi/2024/174), [arts. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1), [27](https://www.legislation.gov.uk/uksi/2024/174/article/27) (with [arts. 24(1)(b)](https://www.legislation.gov.uk/uksi/2024/174/article/24/1/b), [42](https://www.legislation.gov.uk/uksi/2024/174/article/42), [43](https://www.legislation.gov.uk/uksi/2024/174/article/43), [Sch. 12](https://www.legislation.gov.uk/uksi/2024/174/schedule/12))
+
+[^key-8c4d6e0f36e9c30cd33a7e9795946a83]: Modification: Act applied (with modifications) (13.3.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility Order 2024 (S.I. 2024/230)](https://www.legislation.gov.uk/uksi/2024/230), [arts. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1), [29](https://www.legislation.gov.uk/uksi/2024/230/article/29) (with [art. 24](https://www.legislation.gov.uk/uksi/2024/230/article/24), [Sch. 11](https://www.legislation.gov.uk/uksi/2024/230/schedule/11))
+
+[^key-3805dca73317a695cbb2139cd11a2aa3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (28.3.2024) by [The A66 Northern Trans-Pennine Development Consent Order 2024 (S.I. 2024/360)](https://www.legislation.gov.uk/uksi/2024/360), [arts. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1), [26](https://www.legislation.gov.uk/uksi/2024/360/article/26) (with [arts. 18](https://www.legislation.gov.uk/uksi/2024/360/article/18), [21](https://www.legislation.gov.uk/uksi/2024/360/article/21), [35](https://www.legislation.gov.uk/uksi/2024/360/article/35), [Sch. 9](https://www.legislation.gov.uk/uksi/2024/360/schedule/9))
+
+[^key-5e751b484a61a1b401fb0237d4fb917f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (5.4.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) Development Consent Order 2024 (S.I. 2024/393)](https://www.legislation.gov.uk/uksi/2024/393), [arts. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1), [33](https://www.legislation.gov.uk/uksi/2024/393/article/33) (with [arts. 24](https://www.legislation.gov.uk/uksi/2024/393/article/24), [44](https://www.legislation.gov.uk/uksi/2024/393/article/44), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/393/schedule/15))
+
+[^key-cc215ce45d99ef279e1333a25f6f7d72]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (11.4.2024) by [The HyNet Carbon Dioxide Pipeline Order 2024 (S.I. 2024/436)](https://www.legislation.gov.uk/uksi/2024/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2), [30](https://www.legislation.gov.uk/uksi/2024/436/article/30) (with [arts. 21](https://www.legislation.gov.uk/uksi/2024/436/article/21), [25](https://www.legislation.gov.uk/uksi/2024/436/article/25), [41](https://www.legislation.gov.uk/uksi/2024/436/article/41), [Sch. 10](https://www.legislation.gov.uk/uksi/2024/436/schedule/10))
+
+[^key-13d90e31cecaf31d080afb8207a35992]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (25.4.2024) by [The Network Rail (Church Fenton Level Crossing Reduction) Order 2024 (S.I. 2024/526)](https://www.legislation.gov.uk/uksi/2024/526), [arts. 1](https://www.legislation.gov.uk/uksi/2024/526/article/1), [20](https://www.legislation.gov.uk/uksi/2024/526/article/20) (with [art. 27(1)](https://www.legislation.gov.uk/uksi/2024/526/article/27/1))
+
+[^key-76ae7125b624bdf18dab01e551638341]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (9.5.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm Order 2024 (S.I. 2024/564)](https://www.legislation.gov.uk/uksi/2024/564), [arts. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1), [21](https://www.legislation.gov.uk/uksi/2024/564/article/21) (with [arts. 18(1)](https://www.legislation.gov.uk/uksi/2024/564/article/18/1), [35](https://www.legislation.gov.uk/uksi/2024/564/article/35), [36](https://www.legislation.gov.uk/uksi/2024/564/article/36), [Sch. 14](https://www.legislation.gov.uk/uksi/2024/564/schedule/14))
+
+[^key-765d5371d4bccbf431c9e824faa35524]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (13.6.2024) by [The Network Rail (Cambridge Re-Signalling) Order 2024 (S.I. 2024/724)](https://www.legislation.gov.uk/uksi/2024/724), [arts. 1](https://www.legislation.gov.uk/uksi/2024/724/article/1), [6](https://www.legislation.gov.uk/uksi/2024/724/article/6) (with [arts. 12(1)(b)](https://www.legislation.gov.uk/uksi/2024/724/article/12/1/b), [13](https://www.legislation.gov.uk/uksi/2024/724/article/13))
+
+[^key-8839ab64d03b2c0c7363aa815371005b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (14.6.2024) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent Order 2024 (S.I. 2024/733)](https://www.legislation.gov.uk/uksi/2024/733), [arts. 1](https://www.legislation.gov.uk/uksi/2024/733/article/1), [33](https://www.legislation.gov.uk/uksi/2024/733/article/33) (with [arts. 6](https://www.legislation.gov.uk/uksi/2024/733/article/6), [29(1)(b)](https://www.legislation.gov.uk/uksi/2024/733/article/29/1/b), [Sch. 10](https://www.legislation.gov.uk/uksi/2024/733/schedule/10))
+
+[^key-7c8372e72792d0e7740d17bd6461f5eb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (3.8.2024) by [The Gate Burton Energy Park Order 2024 (S.I. 2024/807)](https://www.legislation.gov.uk/uksi/2024/807), [arts. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1), [22](https://www.legislation.gov.uk/uksi/2024/807/article/22) (with [arts. 19(1)(b)](https://www.legislation.gov.uk/uksi/2024/807/article/19/1/b), [45](https://www.legislation.gov.uk/uksi/2024/807/article/45), [Sch. 14](https://www.legislation.gov.uk/uksi/2024/807/schedule/14))
+
+[^key-99996ca6f7365d5b3719f32132d63267]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (3.8.2024) by [The Mallard Pass Solar Farm Order 2024 (S.I. 2024/796)](https://www.legislation.gov.uk/uksi/2024/796), [arts. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1), [24](https://www.legislation.gov.uk/uksi/2024/796/article/24) (with [art. 20(1)](https://www.legislation.gov.uk/uksi/2024/796/article/20/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/796/schedule/15))
+
+[^key-af6613efdea1c3dd1456bdc8d1d9ebbc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (3.8.2024) by [The Sunnica Energy Farm Order 2024 (S.I. 2024/802)](https://www.legislation.gov.uk/uksi/2024/802), [arts. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1), [21](https://www.legislation.gov.uk/uksi/2024/802/article/21) (with [arts. 18](https://www.legislation.gov.uk/uksi/2024/802/article/18), [44](https://www.legislation.gov.uk/uksi/2024/802/article/44), [Sch. 12](https://www.legislation.gov.uk/uksi/2024/802/schedule/12))
+
+[^key-3a63dd15d8d39ab648b2e28c9c4c1e0c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (27.9.2024) by [The Cottam Solar Project Order 2024 (S.I. 2024/943)](https://www.legislation.gov.uk/uksi/2024/943), [arts. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1), [24](https://www.legislation.gov.uk/uksi/2024/943/article/24) (with [arts. 21(1)(b)](https://www.legislation.gov.uk/uksi/2024/943/article/21/1/b), [48](https://www.legislation.gov.uk/uksi/2024/943/article/48), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/943/schedule/15))
+
+[^key-f2f07d8511139634b208c92d2ceea754]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (4.10.2024) by [The National Grid (Bramford to Twinstead Reinforcement) Order 2024 (S.I. 2024/958)](https://www.legislation.gov.uk/uksi/2024/958), [arts. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1), [34](https://www.legislation.gov.uk/uksi/2024/958/article/34) (with [arts. 32(1)(b)](https://www.legislation.gov.uk/uksi/2024/958/article/32/1/b), [40](https://www.legislation.gov.uk/uksi/2024/958/article/40), [Sch. 14](https://www.legislation.gov.uk/uksi/2024/958/schedule/14))
+
+[^key-6c654539aa628d2d71cc60d2f9e7f734]: Modification: Act applied (with modifications) (9.10.2024) by [The M3 Junction 9 Development Consent Order 2024 (S.I. 2024/752)](https://www.legislation.gov.uk/uksi/2024/752), [arts. 1](https://www.legislation.gov.uk/uksi/2024/752/article/1), [31](https://www.legislation.gov.uk/uksi/2024/752/article/31) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/752/article/4), [26(1)](https://www.legislation.gov.uk/uksi/2024/752/article/26/1), [Sch. 10](https://www.legislation.gov.uk/uksi/2024/752/schedule/10)) (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+
+    [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (25.10.2024) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent Order 2024 (S.I. 2024/1014)](https://www.legislation.gov.uk/uksi/2024/1014), [arts. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1), [15](https://www.legislation.gov.uk/uksi/2024/1014/article/15) (with [arts. 11(b)](https://www.legislation.gov.uk/uksi/2024/1014/article/11/b), [36](https://www.legislation.gov.uk/uksi/2024/1014/article/36), [40](https://www.legislation.gov.uk/uksi/2024/1014/article/40), [Sch. 4](https://www.legislation.gov.uk/uksi/2024/1014/schedule/4))
+
+[^key-beeeb634845d9f87a5b0c8303ccdc08c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (18.12.2024) by [The Network Rail (Leeds to Micklefield Enhancements) Order 2024 (S.I. 2024/1284)](https://www.legislation.gov.uk/uksi/2024/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2024/1284/article/1), [24](https://www.legislation.gov.uk/uksi/2024/1284/article/24) (with [art. 33(1)](https://www.legislation.gov.uk/uksi/2024/1284/article/33/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1284/schedule/15))
+
+[^key-c09158423ca13f2a85090a53b0606e06]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (15.2.2025) by [The West Burton Solar Project Order 2025 (S.I. 2025/116)](https://www.legislation.gov.uk/uksi/2025/116), [arts. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1), [24](https://www.legislation.gov.uk/uksi/2025/116/article/24) (with [art. 47](https://www.legislation.gov.uk/uksi/2025/116/article/47), [Sch. 15](https://www.legislation.gov.uk/uksi/2025/116/schedule/15))
+
+[^key-26747b1abe1fc7fcd4bfd1cff4a242a1]: Modification: Act applied (with modifications) (17.2.2025) by [The Heckington Fen Solar Park Order 2025 (S.I. 2025/85)](https://www.legislation.gov.uk/uksi/2025/85), [arts. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1), [21](https://www.legislation.gov.uk/uksi/2025/85/article/21) (with [arts. 18(1)(b)](https://www.legislation.gov.uk/uksi/2025/85/article/18/1/b), [43](https://www.legislation.gov.uk/uksi/2025/85/article/43), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/85/schedule/13))
+
+[^key-46c0fb8d8038195a1d5131920791deb4]: Modification: Act applied (with modifications) (27.2.2025) by [The Associated British Ports (Immingham Green Energy Terminal) Order 2025 (S.I. 2025/165)](https://www.legislation.gov.uk/uksi/2025/165), [arts. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1), [29](https://www.legislation.gov.uk/uksi/2025/165/article/29) (with [arts. 23(1)(b)](https://www.legislation.gov.uk/uksi/2025/165/article/23/1/b), [48](https://www.legislation.gov.uk/uksi/2025/165/article/48), [59](https://www.legislation.gov.uk/uksi/2025/165/article/59), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/165/schedule/14))
+
+[^key-a8e362880043792220d6387d7db75500]: Modification: Act applied (with modifications) (4.4.2025) by [The North Lincolnshire Green Energy Park Order 2025 (S.I. 2025/362)](https://www.legislation.gov.uk/uksi/2025/362), [arts. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1), [28](https://www.legislation.gov.uk/uksi/2025/362/article/28) (with [art. 25(1)(b)](https://www.legislation.gov.uk/uksi/2025/362/article/25/1/b), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/362/schedule/14))
+
+[^key-7f34b177f083eb679b996988442a3d72]: Modification: Act applied (with modifications) (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [31](https://www.legislation.gov.uk/uksi/2025/462/article/31) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [27(1)(b)](https://www.legislation.gov.uk/uksi/2025/462/article/27/1/b), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14)) (as amended (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule))
+
+[^key-fadef86d52d8f02820bbf0cc568dac0c]: Modification: Act applied (with modifications) (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [arts. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [33](https://www.legislation.gov.uk/uksi/2025/452/article/33)
+
+[^key-f7b5e389198260e75b6e5cdb281a7434]: Modification: Act applied (with modifications) (24.4.2025) by [The London Luton Airport Expansion Development Consent Order 2025 (S.I. 2025/463)](https://www.legislation.gov.uk/uksi/2025/463), [arts. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1), [30](https://www.legislation.gov.uk/uksi/2025/463/article/30) (with [Sch. 8 paras. 36(3)](https://www.legislation.gov.uk/uksi/2025/463/schedule/8/paragraph/36/3), [87](https://www.legislation.gov.uk/uksi/2025/463/schedule/8/paragraph/87))
+
+[^M_C_d8b996d7-2a74-45d3-e342-9729095be2ed]: Modification: Act applied (with modifications) (28.4.2025) by The Rampion 2 [Offshore Wind Farm Order 2025 (S.I. 2025/468)](https://www.legislation.gov.uk/uksi/2025/468), [arts. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1), [27](https://www.legislation.gov.uk/uksi/2025/468/article/27) (with [arts. 23(1)(b)](https://www.legislation.gov.uk/uksi/2025/468/article/23/1/b), [47](https://www.legislation.gov.uk/uksi/2025/468/article/47), [48](https://www.legislation.gov.uk/uksi/2025/468/article/48), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/468/schedule/10)) (as amended (24.4.2026) by [S.I. 2026/465](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule))
+
+[^key-72f52eede83e56c2c5a360517bc1ce7e]: Modification: Act applied (with modifications) (1.5.2025) by [The Viking CCS Carbon Dioxide Pipeline Order 2025 (S.I. 2025/509)](https://www.legislation.gov.uk/uksi/2025/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2), [28](https://www.legislation.gov.uk/uksi/2025/509/article/28) (with [arts. 23(1)(b)](https://www.legislation.gov.uk/uksi/2025/509/article/23/1/b), [41](https://www.legislation.gov.uk/uksi/2025/509/article/41), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/509/schedule/9))
+
+[^key-875e41b0e307206bf9c345bc437bcc38]: Modification: Act applied (with modifications) (31.5.2025) by [The East Yorkshire Solar Farm Order 2025 (S.I. 2025/585)](https://www.legislation.gov.uk/uksi/2025/585), [arts. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1), [24](https://www.legislation.gov.uk/uksi/2025/585/article/24) (with [arts. 21(1)](https://www.legislation.gov.uk/uksi/2025/585/article/21/1), [49](https://www.legislation.gov.uk/uksi/2025/585/article/49), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/585/schedule/14))
+
+[^key-40e9c149713bff3ab02b00907e24a326]: Modification: Act applied (with modifications) (25.6.2025) by [The M5 Junction 10 Development Consent Order 2025 (S.I. 2025/795)](https://www.legislation.gov.uk/uksi/2025/795), [arts. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1), [28](https://www.legislation.gov.uk/uksi/2025/795/article/28) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/795/article/4), [23(1)(b)](https://www.legislation.gov.uk/uksi/2025/795/article/23/1/b), [43](https://www.legislation.gov.uk/uksi/2025/795/article/43), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/795/schedule/9))
+
+[^key-f8acc1fe1a5991f70a84e6fb2868bdb8]: Modification: Act applied (with modifications) (11.7.2025) by [The Oaklands Farm Solar Park Order 2025 (S.I. 2025/739)](https://www.legislation.gov.uk/uksi/2025/739), [arts. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1), [21](https://www.legislation.gov.uk/uksi/2025/739/article/21) (with [art. 18(1)(b)](https://www.legislation.gov.uk/uksi/2025/739/article/18/1/b), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/739/schedule/10))
+
+[^key-b8fd4ea3bcc2cd123a83aae3d706ce1e]: Modification: Act applied (with modifications) (28.7.2025) by [The Mona Offshore Wind Farm Order 2025 (S.I. 2025/870)](https://www.legislation.gov.uk/uksi/2025/870), [arts. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1), [24](https://www.legislation.gov.uk/uksi/2025/870/article/24) (with [arts. 20(1)(b)](https://www.legislation.gov.uk/uksi/2025/870/article/20/1/b), [37](https://www.legislation.gov.uk/uksi/2025/870/article/37), [38](https://www.legislation.gov.uk/uksi/2025/870/article/38), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/870/schedule/10))
+
+[^key-0bb78b58789a69fc75b6cb05cf0b5d2c]: Modification: Act applied (with modifications) (14.8.2025) by [The Byers Gill Solar Order 2025 (S.I. 2025/934)](https://www.legislation.gov.uk/uksi/2025/934), [arts. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1), [26](https://www.legislation.gov.uk/uksi/2025/934/article/26) (with [arts. 22(1)(b)](https://www.legislation.gov.uk/uksi/2025/934/article/22/1/b), [43](https://www.legislation.gov.uk/uksi/2025/934/article/43), [Sch. 11](https://www.legislation.gov.uk/uksi/2025/934/schedule/11))
+
+[^key-a9fb90baa35106e3bcad9a27df078c4a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (30.9.2025) by [The M60/M62/M66 Simister Island Interchange Development Consent Order 2025 (S.I. 2025/1018)](https://www.legislation.gov.uk/uksi/2025/1018), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1), [27](https://www.legislation.gov.uk/uksi/2025/1018/article/27) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/1018/article/5), [23(1)(b)](https://www.legislation.gov.uk/uksi/2025/1018/article/23/1/b), [34](https://www.legislation.gov.uk/uksi/2025/1018/article/34), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1018/schedule/9))
+
+[^key-476ec096375e4bc12bf46ea67feab393]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (12.10.2025) by [The Gatwick Airport (Northern Runway Project) Development Consent Order 2025 (S.I. 2025/1054)](https://www.legislation.gov.uk/uksi/2025/1054), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1), [33](https://www.legislation.gov.uk/uksi/2025/1054/article/33) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/1054/article/5), [9(6)](https://www.legislation.gov.uk/uksi/2025/1054/article/9/6), [30(b)](https://www.legislation.gov.uk/uksi/2025/1054/article/30/b), [43](https://www.legislation.gov.uk/uksi/2025/1054/article/43), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1054/schedule/9))
+
+[^key-b7cecd66b6d888db0fd6032105ad31bc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (22.10.2025) by [The A46 Newark Bypass Development Consent Order 2025 (S.I. 2025/1090)](https://www.legislation.gov.uk/uksi/2025/1090), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1), [36](https://www.legislation.gov.uk/uksi/2025/1090/article/36) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/1090/article/4), [9](https://www.legislation.gov.uk/uksi/2025/1090/article/9), [28(1)(b)](https://www.legislation.gov.uk/uksi/2025/1090/article/28/1/b), [51](https://www.legislation.gov.uk/uksi/2025/1090/article/51), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1090/schedule/9))
+
+[^key-468f5067bdb365287539745bfae4cf47]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (5.11.2025) by [The Tillbridge Solar Order 2025 (S.I. 2025/1105)](https://www.legislation.gov.uk/uksi/2025/1105), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1), [25](https://www.legislation.gov.uk/uksi/2025/1105/article/25) (with [arts. 22(2)](https://www.legislation.gov.uk/uksi/2025/1105/article/22/2), [49](https://www.legislation.gov.uk/uksi/2025/1105/article/49), [Sch. 15](https://www.legislation.gov.uk/uksi/2025/1105/schedule/15))
+
+[^key-fb017ffbedf1958cac21553f81297e1c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [27](https://www.legislation.gov.uk/uksi/2025/1175/article/27) (with [arts. 24(b)](https://www.legislation.gov.uk/uksi/2025/1175/article/24/b), [40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
+
+[^key-00c5723b8f749c2ec8bbb83534d0adaa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (27.11.2025) by [The Cory Decarbonisation Project Order 2025 (S.I. 2025/1227)](https://www.legislation.gov.uk/uksi/2025/1227), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1), [34](https://www.legislation.gov.uk/uksi/2025/1227/article/34) (with [art. 29(1)](https://www.legislation.gov.uk/uksi/2025/1227/article/29/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1227/schedule/12))
+
+[^key-0c9b6a311dc969bf0d281f453e5c024c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (29.12.2025) by [The Helios Renewable Energy Project Order 2025 (S.I. 2025/1372)](https://www.legislation.gov.uk/uksi/2025/1372), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1372/article/1), [24](https://www.legislation.gov.uk/uksi/2025/1372/article/24) (with [art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2025/1372/article/21/1/a), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1372/schedule/9))
+
+[^key-2519d7d8be88bcd4934d25f95bd47621]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (8.1.2026) by [The Five Estuaries Offshore Wind Farm Order 2025 (S.I. 2025/1376)](https://www.legislation.gov.uk/uksi/2025/1376), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1), [26](https://www.legislation.gov.uk/uksi/2025/1376/article/26) (with [arts. 22(1)(b)](https://www.legislation.gov.uk/uksi/2025/1376/article/22/1/b), [39](https://www.legislation.gov.uk/uksi/2025/1376/article/39), [40](https://www.legislation.gov.uk/uksi/2025/1376/article/40), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1376/schedule/9))
+
+[^key-a10fb496d1e9048f5adec64eb1aebc6f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 4 paras. 15](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/16) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+
+[^key-a8a6f6b911abfba6238094a914efbe6e]: Modification: Act applied (with modifications) (25.2.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent Order 2026 (S.I. 2026/125)](https://www.legislation.gov.uk/uksi/2026/125), [arts. 1](https://www.legislation.gov.uk/uksi/2026/125/article/1), [35](https://www.legislation.gov.uk/uksi/2026/125/article/35) (with [arts. 28(1)(b)](https://www.legislation.gov.uk/uksi/2026/125/article/28/1/b), [40](https://www.legislation.gov.uk/uksi/2026/125/article/40), [45](https://www.legislation.gov.uk/uksi/2026/125/article/45), [Sch. 9](https://www.legislation.gov.uk/uksi/2026/125/schedule/9))
+
+[^key-1901e067e01c0f22ea57bf4f947ea9a1]: Modification: Act applied (with modifications) (3.3.2026) by [The Network Rail (Kettering to Wigston South Junction and Napsbury Lane) (Land Acquisition) Order 2026 (S.I. 2026/141)](https://www.legislation.gov.uk/uksi/2026/141), [arts. 1](https://www.legislation.gov.uk/uksi/2026/141/article/1), [5](https://www.legislation.gov.uk/uksi/2026/141/article/5) (with [art. 13](https://www.legislation.gov.uk/uksi/2026/141/article/13))
+
+[^key-7d365f35c335bac707a573ee7b608c3b]: Modification: Act applied (with modifications) (4.3.2026) by [The Outer Dowsing Offshore Wind Farm Order 2026 (S.I. 2026/138)](https://www.legislation.gov.uk/uksi/2026/138), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/138/article/1/2), [22](https://www.legislation.gov.uk/uksi/2026/138/article/22) (with [arts. 19(1)(b)](https://www.legislation.gov.uk/uksi/2026/138/article/19/1/b), [42](https://www.legislation.gov.uk/uksi/2026/138/article/42), [43](https://www.legislation.gov.uk/uksi/2026/138/article/43), [Sch. 18](https://www.legislation.gov.uk/uksi/2026/138/schedule/18))
+
+[^key-e80f23ee570e84ed242c0ad13ed06f1a]: Modification: Act applied (with modifications) (11.3.2026) by [The Fenwick Solar Farm Order 2026 (S.I. 2026/151)](https://www.legislation.gov.uk/uksi/2026/151), [arts. 1](https://www.legislation.gov.uk/uksi/2026/151/article/1), [25](https://www.legislation.gov.uk/uksi/2026/151/article/25) (with [art. 22(2)](https://www.legislation.gov.uk/uksi/2026/151/article/22/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2026/151/schedule/14))
+
+[^key-9ff21ba00c35f3d8efaef7f3a9d7e46a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (30.4.2026) by [The Springwell Solar Farm Order 2026 (S.I. 2026/419)](https://www.legislation.gov.uk/uksi/2026/419), [arts. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1), [25](https://www.legislation.gov.uk/uksi/2026/419/article/25) (with [arts. 22(2)](https://www.legislation.gov.uk/uksi/2026/419/article/22/2), [48](https://www.legislation.gov.uk/uksi/2026/419/article/48))
+
+[^key-0d18caac7ed340cba5e986ae25c747a6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (5.6.2026) by [The Dogger Bank South East and West Offshore Wind Farms Order 2026 (S.I. 2026/577)](https://www.legislation.gov.uk/uksi/2026/577), [arts. 1](https://www.legislation.gov.uk/uksi/2026/577/article/1), [24](https://www.legislation.gov.uk/uksi/2026/577/article/24) (with [arts. 21](https://www.legislation.gov.uk/uksi/2026/577/article/21), [40](https://www.legislation.gov.uk/uksi/2026/577/article/40), [41](https://www.legislation.gov.uk/uksi/2026/577/article/41), [Sch. 15](https://www.legislation.gov.uk/uksi/2026/577/schedule/15))
+
+[^key-77871afbcfb26f0c25c69a599c5613e2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (5.6.2026) by [The North Falls Offshore Wind Farm Order 2026 (S.I. 2026/567)](https://www.legislation.gov.uk/uksi/2026/567), [arts. 1](https://www.legislation.gov.uk/uksi/2026/567/article/1), [25](https://www.legislation.gov.uk/uksi/2026/567/article/25) (with [arts. 22(2)](https://www.legislation.gov.uk/uksi/2026/567/article/22/2), [44](https://www.legislation.gov.uk/uksi/2026/567/article/44), [45](https://www.legislation.gov.uk/uksi/2026/567/article/45), [Sch. 14](https://www.legislation.gov.uk/uksi/2026/567/schedule/14))
+
+[^key-46a7717aac395531fb8978095f5d7109]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (24.6.2026) by [The Network Rail (Old Oak Common Great Western Mainline Track Access) Order 2026 (S.I. 2026/591)](https://www.legislation.gov.uk/uksi/2026/591), [arts. 1](https://www.legislation.gov.uk/uksi/2026/591/article/1), [5](https://www.legislation.gov.uk/uksi/2026/591/article/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/591/article/10))
+
+[^key-c286a613a7de69df3e1c8e687d6daacd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (23.7.2026) by [The Peartree Hill Solar Farm Order 2026 (S.I. 2026/869)](https://www.legislation.gov.uk/uksi/2026/869), [arts. 1](https://www.legislation.gov.uk/uksi/2026/869/article/1), [27](https://www.legislation.gov.uk/uksi/2026/869/article/27) (with [arts. 23(1)](https://www.legislation.gov.uk/uksi/2026/869/article/23/1), [37](https://www.legislation.gov.uk/uksi/2026/869/article/37), [Sch. 11](https://www.legislation.gov.uk/uksi/2026/869/schedule/11))
+
+[^key-2ec8deac82dcecbcbd8331c4663161f5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (24.7.2026) by [The Dean Moor Solar Farm Order 2026 (S.I. 2026/754)](https://www.legislation.gov.uk/uksi/2026/754), [arts. 1](https://www.legislation.gov.uk/uksi/2026/754/article/1), [27](https://www.legislation.gov.uk/uksi/2026/754/article/27) (with [art. 23(1)](https://www.legislation.gov.uk/uksi/2026/754/article/23/1), [Sch. 13](https://www.legislation.gov.uk/uksi/2026/754/schedule/13))
+
+[^key-8d6bda512b259ba1f984767d06f54ee2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (30.7.2026) by [The One Earth Solar Farm Order 2026 (S.I. 2026/934)](https://www.legislation.gov.uk/uksi/2026/934), [arts. 1](https://www.legislation.gov.uk/uksi/2026/934/article/1), [24](https://www.legislation.gov.uk/uksi/2026/934/article/24) (with [arts. 21(2)](https://www.legislation.gov.uk/uksi/2026/934/article/21/2), [47](https://www.legislation.gov.uk/uksi/2026/934/article/47))
+
+[^key-7d779a9dda09dc357d12087efa164c28]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (14.9.2026) by [The Beacon Fen Energy Park Order 2026 (S.I. 2026/1025)](https://www.legislation.gov.uk/uksi/2026/1025), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1025/article/1), [29](https://www.legislation.gov.uk/uksi/2026/1025/article/29) (with [arts. 26(2)](https://www.legislation.gov.uk/uksi/2026/1025/article/26/2), [39](https://www.legislation.gov.uk/uksi/2026/1025/article/39), [Sch. 11 para. 131](https://www.legislation.gov.uk/uksi/2026/1025/schedule/11/paragraph/131))
+
+[^key-7a51cf472839f6ca978c20f83bd55fa6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (30.10.2026) by [The Green Hill Solar Farm Order 2026 (S.I. 2026/1074)](https://www.legislation.gov.uk/uksi/2026/1074), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1074/article/1), [26](https://www.legislation.gov.uk/uksi/2026/1074/article/26) (with [art. 22](https://www.legislation.gov.uk/uksi/2026/1074/article/22), [Sch. 15](https://www.legislation.gov.uk/uksi/2026/1074/schedule/15))
+
+[^key-018b43d45aec8bdf7f41594a4d8ed7bc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/66) applied (with modifications) (31.10.2026) by [The Steeple Renewables Project Order 2026 (S.I. 2026/1086)](https://www.legislation.gov.uk/uksi/2026/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1086/article/1), [22](https://www.legislation.gov.uk/uksi/2026/1086/article/22) (with [art. 19(2)](https://www.legislation.gov.uk/uksi/2026/1086/article/19/2), [Sch. 10](https://www.legislation.gov.uk/uksi/2026/1086/schedule/10))
+
+[^key-5928c0e10f8c718bc0c0f0f3ed578242]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1981/66/section/2/1) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 108(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/108/2), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/b), [4(1)(i)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/6/3))
+
+[^c4904011]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
+
+[^c4904021]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 52(1)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/52/1)
+
+[^c4904031]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^key-5d32b830347d5e5c1f41a0e49d877aaa]: Textual amendment: S. 3 omitted (3.2.2017 for specified purposes, 6.4.2017 in so far as not already in force) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/15/paragraph/5); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5)); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/j) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/281/regulation/8/2))
+
+[^key-557b19675f18c81eb84ff2b9a4fba80c]: Modification: S. 4 excluded (2.10.2014) by [The Clocaenog Forest Wind Farm Order 2014 (S.I. 2014/2441)](https://www.legislation.gov.uk/uksi/2014/2441), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2441/article/1), [21(b)](https://www.legislation.gov.uk/uksi/2014/2441/article/21/b) (with [art. 33](https://www.legislation.gov.uk/uksi/2014/2441/article/33))
+
+[^key-32aabf74e7d5b2f6b92c5f2b66d6ce0b]: Modification: S. 4 excluded (26.2.2015) by [The Cornwall Council (A30 Temple to Higher Carblake Improvement) Order 2015 (S.I. 2015/147)](https://www.legislation.gov.uk/uksi/2015/147), [arts. 1](https://www.legislation.gov.uk/uksi/2015/147/article/1), [20(1)](https://www.legislation.gov.uk/uksi/2015/147/article/20/1)
+
+[^key-f6deeb770bfb09b4efd50127bd90a43c]: Modification: S. 4 restricted (1.4.2015) by [The Knottingley Power Plant Order 2015 (S.I. 2015/680)](https://www.legislation.gov.uk/uksi/2015/680), [arts. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1), [20(1)(b)](https://www.legislation.gov.uk/uksi/2015/680/article/20/1/b) (with [Sch. 8 para. 10](https://www.legislation.gov.uk/uksi/2015/680/schedule/8/paragraph/10))
+
+[^key-a7703021da48dbc84c56eea8b55d1a65]: Modification: S. 4 excluded (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [arts. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [16(b)](https://www.legislation.gov.uk/uksi/2015/781/article/16/b)
+
+[^key-f944c485ad70026c0fcfe93d09b19713]: Modification: S. 4 excluded (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [27(1)(b)](https://www.legislation.gov.uk/uksi/2015/1386/article/27/1/b) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
+
+[^key-9a43cafd89a642b6c212d7ccfc8eb126]: Modification: S. 4 excluded (7.8.2015) by [The Preesall Underground Gas Storage Facility Order 2015 (S.I. 2015/1561)](https://www.legislation.gov.uk/uksi/2015/1561), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1), [31(1)(b)](https://www.legislation.gov.uk/uksi/2015/1561/article/31/1/b) (with [art. 44](https://www.legislation.gov.uk/uksi/2015/1561/article/44))
+
+[^key-8100c9048af25a665ae6e80d850f320e]: Modification: S. 4 excluded (14.8.2015) by [The Hirwaun Generating Station Order 2015 (S.I. 2015/1574)](https://www.legislation.gov.uk/uksi/2015/1574), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1), [19(1)(b)](https://www.legislation.gov.uk/uksi/2015/1574/article/19/1/b) (with [art. 30](https://www.legislation.gov.uk/uksi/2015/1574/article/30))
+
+[^key-95d011f67dc753ef7c35644ed713da99]: Modification: S. 4 excluded (14.8.2015) by [The Progress Power (Gas Fired Power Station) Order 2015 (S.I. 2015/1570)](https://www.legislation.gov.uk/uksi/2015/1570), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1), [20(1)(b)](https://www.legislation.gov.uk/uksi/2015/1570/article/20/1/b)
+
+[^key-acad0190317eb28a06f4b23aaf2947e1]: Modification: S. 4 excluded (30.9.2015) by [The Network Rail (Blackthorn and Piddington) (Land Acquisition) Order 2015 (S.I. 2015/1684)](https://www.legislation.gov.uk/uksi/2015/1684), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1684/article/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2015/1684/article/12/1/b)
+
+[^key-5d21eb72a034074463f601ef5d059171]: Modification: S. 4 excluded (30.12.2015) by [The Port Talbot Steelworks Generating Station Order 2015 (S.I. 2015/1984)](https://www.legislation.gov.uk/uksi/2015/1984), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1), [15(b)](https://www.legislation.gov.uk/uksi/2015/1984/article/15/b) (with [art. 26](https://www.legislation.gov.uk/uksi/2015/1984/article/26))
+
+[^key-572b0bd13b3db56fb1ad0bbfca4ed4ab]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/66/section/4) excluded (3.4.2019) by [The Millbrook Gas Fired Generating Station Order 2019 (S.I. 2019/578)](https://www.legislation.gov.uk/uksi/2019/578), [arts. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1), [20(1)(b)](https://www.legislation.gov.uk/uksi/2019/578/article/20/1/b)
+
+[^key-3592fc73e0d9f5e3b6c6bdd197bed40f]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/66/section/4) excluded (16.4.2020) by [The Reinforcement to the North Shropshire Electricity Distribution Network Order 2020 (S.I. 2020/325)](https://www.legislation.gov.uk/uksi/2020/325), [arts. 3](https://www.legislation.gov.uk/uksi/2020/325/article/3), [20(1)(b)](https://www.legislation.gov.uk/uksi/2020/325/article/20/1/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2020/325/article/7), [20(2)](https://www.legislation.gov.uk/uksi/2020/325/article/20/2))
+
+[^key-fb80e9ec2f1c808c13c2711b733dc41e]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/66/section/4) excluded (21.5.2020) by [The Lake Lothing (Lowestoft) Third Crossing Order 2020 (S.I. 2020/474)](https://www.legislation.gov.uk/uksi/2020/474), [arts. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1), [25(1)(b)](https://www.legislation.gov.uk/uksi/2020/474/article/25/1/b) (with [arts. 51](https://www.legislation.gov.uk/uksi/2020/474/article/51), [57](https://www.legislation.gov.uk/uksi/2020/474/article/57))
+
+[^key-4c94c5a4dabe440fa54f61858e50d091]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/66/section/4) excluded (11.6.2020) by [The M42 Junction 6 Development Consent Order 2020 (S.I. 2020/528)](https://www.legislation.gov.uk/uksi/2020/528), [arts. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1), [26(b)](https://www.legislation.gov.uk/uksi/2020/528/article/26/b) (with [art. 37](https://www.legislation.gov.uk/uksi/2020/528/article/37))
+
+[^key-89a7033bc1b83f4eb463908e1d54495d]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/66/section/4) excluded (18.6.2020) by [The A63 (Castle Street Improvement, Hull) Development Consent Order 2020 (S.I. 2020/556)](https://www.legislation.gov.uk/uksi/2020/556), [arts. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1), [22(1)(b)](https://www.legislation.gov.uk/uksi/2020/556/article/22/1/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2020/556/article/5), [44](https://www.legislation.gov.uk/uksi/2020/556/article/44))
+
+[^key-aaf099f39eb5711757219ca165dd9c98]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/66/section/4) restricted (30.6.2022) by [The Network Rail (Essex and Others Level Crossing Reduction) Order 2022 (S.I. 2022/651)](https://www.legislation.gov.uk/uksi/2022/651), [arts. 1](https://www.legislation.gov.uk/uksi/2022/651/article/1), [27(1)(b)](https://www.legislation.gov.uk/uksi/2022/651/article/27/1/b) (with [art. 27(2)](https://www.legislation.gov.uk/uksi/2022/651/article/27/2))
+
+[^key-8bb553d06dc222330c2e98f90f8dce8e]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/66/section/4) excluded (13.7.2022) by [The A47 Blofield to North Burlingham Development Consent Order 2022 (S.I. 2022/738)](https://www.legislation.gov.uk/uksi/2022/738), [arts. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1), [26(1)(b)](https://www.legislation.gov.uk/uksi/2022/738/article/26/1/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/738/article/4), [50](https://www.legislation.gov.uk/uksi/2022/738/article/50))
+
+[^key-b21ef2c3b520ae4af1c6921178633199]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/66/section/4) restricted (2.8.2022) by [The Network Rail (Oxford Station Phase 2 Improvements (Land Only)) (No. 2) Order 2022 (S.I. 2022/872)](https://www.legislation.gov.uk/uksi/2022/872), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/872/article/1/1), [13(1)(b)](https://www.legislation.gov.uk/uksi/2022/872/article/13/1/b)
+
+[^M_C_6c5c9296-d57c-4e85-e226-160bae4ecf90]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1981/66/section/4) restricted (2.8.2022) by The Network Rail (Oxford Station Phase 2 Improvements (Land Only)) Order 2022 ([S.I. 2022/871](https://www.legislation.gov.uk/uksi/2022/871)), arts. 1(1), 13(1)(b)
+
+[^key-3b15980bd8f2f3b2fd94dde9af867947]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1981/66/section/4/1) omitted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 108(3)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/108/3/a), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/b), [4(1)(i)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/6/3))
+
+[^key-63ded085a39d4c1f44b427013e3afba1]: Textual amendment: [S. 4(1ZA)](https://www.legislation.gov.uk/ukpga/1981/66/section/4/1ZA) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/108/3/b), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/b), [4(1)(i)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/6/3))
+
+[^key-04500d9cdb90ff41e5e8e33a4fade41f]: Textual amendment: [S. 4(1A)](https://www.legislation.gov.uk/ukpga/1981/66/section/4/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1981/66/section/4/1B) inserted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 185](https://www.legislation.gov.uk/ukpga/2016/22/section/185), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+
+[^key-d3b91d4889b5fac5a20c59e4780a927f]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1981/66/section/4/3)[(4)](https://www.legislation.gov.uk/ukpga/1981/66/section/4/4) substituted for [s. 4(3)](https://www.legislation.gov.uk/ukpga/1981/66/section/4/3) (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/2); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+
+[^key-de6457d8960fb1467ebd896ceb82d26f]: Textual amendment: [Ss. 4A](https://www.legislation.gov.uk/ukpga/1981/66/section/4A), [4B](https://www.legislation.gov.uk/ukpga/1981/66/section/4B) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 108(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/108/4), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/b), [4(1)(i)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/6/3))
+
+[^key-332061eb5dbb4273c28c6b8dcbd4976a]: Modification: S. 5 applied (with modifications) (28.2.2013) by [The Rookery South (Resource Recovery Facility) Order 2011 2013 (S.I. 2013/680)](https://www.legislation.gov.uk/uksi/2013/680), [art. 21(6)](https://www.legislation.gov.uk/uksi/2013/680/article/21/6)
+
+[^key-437a4b91d6e36e91fa75cc0f0ceb645c]: Textual amendment: S. 5(1) omitted (3.2.2017 for specified purposes, 6.4.2017 in so far as not already in force) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/15/paragraph/6); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5)); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/j) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/281/regulation/8/2))
+
+[^key-f97979fdac444d1959e8453e297a20b0]: Textual amendment: Word in [s. 5(2)](https://www.legislation.gov.uk/ukpga/1981/66/section/5/2) substituted (18.2.2026 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/18/paragraph/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
+
+[^c4904051]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
+
+[^key-a618a63b2fa9680d145a745315afdffd]: Textual amendment: S. 5A inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 182(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/182/2), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2016/733/regulation/7))
+
+[^key-7e5bf09457f5e67d7041ee798545d378]: Textual amendment: Words in s. 5A renumbered as s. 5A(1) (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/3/a/i), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
+
+[^key-ee517bca1407623224193ceedc8ffd46]: Textual amendment: Words in s. 5A(1) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/3/a/ii), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
+
+[^key-d0ecbe65da3a4d2252d943fe98c95900]: Textual amendment: S. 5A(2) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/3/a/iii), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
+
+[^key-df6c60580865dc6dcd4570db54f66b87]: Textual amendment: S. 5B inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 202(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/202/2), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/l) (with [reg. 9](https://www.legislation.gov.uk/uksi/2016/733/regulation/9))
+
+[^key-e28e9d6b09eb012e2f628801dc35e20c]: Textual amendment: Words in s. 5B(1) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/3/b), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
+
+[^key-8966fa0c1cd749760a35dc8fa8b3ad08]: Textual amendment: Words in s. 6(1)(b) substituted (3.2.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/15/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5)); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/j) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/281/regulation/8/2))
+
+[^key-f4d5a0c47341562cde44f9e140f75ee4]: Textual amendment: [S. 6(1A)](https://www.legislation.gov.uk/ukpga/1981/66/section/6/1A) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 108(5)](https://www.legislation.gov.uk/ukpga/2025/34/section/108/5), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/b), [4(1)(i)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/6/3))
+
+[^c4904061]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 52(2)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/52/2)
+
+[^c4904071]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^key-0fbc4153756ea9c6d6d201c7939ea7df]: Modification: S. 7 applied (with modifications) (28.2.2013) by [The Rookery South (Resource Recovery Facility) Order 2011 2013 (S.I. 2013/680)](https://www.legislation.gov.uk/uksi/2013/680), [art. 21(7)](https://www.legislation.gov.uk/uksi/2013/680/article/21/7)
+
+[^key-a10457824f6c024a5d01f2caf803a9b7]: Textual amendment: S. 7(1) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/3); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+
+[^key-e7e9d51b5439462cf3fa301df27614e0]: Textual amendment: Words in s. 7(1) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 186(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/186/2), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/m) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/2))
+
+[^M_F_aa4a38fa-9b55-474b-95a4-70e5452c34f2]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/1981/66/section/7/1) substituted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/109/3), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/c), [4(1)(j)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/j)
+
+[^c4904111]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
+
+[^key-a76f4e8f603c275951c746d149853123]: Textual amendment: Words in s. 8(1) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/4); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+
+[^key-da17358f0671d92624631d458a6ad76f]: Textual amendment: Words in s. 8(1) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 186(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/186/3), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/m) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/2))
+
+[^key-47c50c313fba69c4d1becbcfdeb61d92]: Textual amendment: Word in [s. 8(1)](https://www.legislation.gov.uk/ukpga/1981/66/section/8/1) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 109(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/109/4), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/c), [4(1)(j)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/j)
+
+[^c4904121]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^c4904131]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^key-893f6482d3eda531a1e9eecb1c310142]: Textual amendment: S. 8A inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 186(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/186/4), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/m) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/2))
+
+[^key-704dfbf835170e27400ced30a2d16a99]: Textual amendment: [S. 8B](https://www.legislation.gov.uk/ukpga/1981/66/section/8B) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/109/2), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/c), [4(1)(j)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/j)
+
+[^key-8060561167b6fad9fc271d87f1a832ae]: Textual amendment: Words in s. 9(2) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 191](https://www.legislation.gov.uk/ukpga/2016/22/section/191), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/f) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+
+[^c4904141]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^key-c469b990775deba633121f14fd258ee9]: Textual amendment: [S. 10(1A)](https://www.legislation.gov.uk/ukpga/1981/66/section/10/1A) substituted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 109(5)](https://www.legislation.gov.uk/ukpga/2025/34/section/109/5), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/c), [4(1)(j)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/j)
+
+[^key-2508ceb46770be9cdd036fe830e31abe]: Textual amendment: Words in s. 10(3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 146](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/146) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^c4904151]: Marginal citation: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58).
+
+[^key-8116b3e9ec51cc520f676f68b80f4cb8]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/ukpga/1981/66/section/11/4) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 147](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/147) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^c4904171]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 52(3)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/52/3)
+
+[^c4904181]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^key-c291b42375276ddacbc3c8721dde7bdb]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/1981/66/section/12) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/5); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+
+[^c4904191]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^c4904201]: Modification: S. 15 modified (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 161(4)](https://www.legislation.gov.uk/ukpga/1993/28/section/161/4), [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/1993/28/schedule/19/paragraph/6); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3); which modification was repealed (1.12.2008) by 2008 c. 17, s. 325(1), Sch. 8 para. 33(2), Sch. 16; S.I. 2008/3068, arts. 2(1)(w)(3), 5, Sch. (with arts. 6-13)
+
+[^c4904211]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
+
+[^c4904221]: Modification: The text of s. 16(1)(3), Sch. 3 paras. 1, 3, 4 and Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^key-eb5b1355cce68d575012dddc93a0833d]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded by [2017 c. 7](https://www.legislation.gov.uk/ukpga/2017/7), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/7/2) (as amended (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/2); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2))
+
+[^key-f01a4d65a5ce0f1d2cf4b1e8dc605260]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded by [2017 c. 7](https://www.legislation.gov.uk/ukpga/2017/7), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/8/2) (as amended (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/3); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2))
+
+[^key-c65e001cc9bf14791a4e6bdd8dc00408]: Modification: Sch. A1 excluded (19.12.2017) by [The Network Rail (Buxton Sidings Extension) Order 2017 (S.I. 2017/1150)](https://www.legislation.gov.uk/uksi/2017/1150), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1150/article/1), [22(3)](https://www.legislation.gov.uk/uksi/2017/1150/article/22/3) (with [arts. 22(4)](https://www.legislation.gov.uk/uksi/2017/1150/article/22/4), [32(2)](https://www.legislation.gov.uk/uksi/2017/1150/article/32/2))
+
+[^key-80f7f72bb390599e79510111073788d9]: Modification: Sch. A1 excluded (22.12.2017) by [The M20 Junction 10a Development Consent Order 2017 (S.I. 2017/1202)](https://www.legislation.gov.uk/uksi/2017/1202), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1), [29(3)(b)](https://www.legislation.gov.uk/uksi/2017/1202/article/29/3/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2017/1202/article/4), [29(4)](https://www.legislation.gov.uk/uksi/2017/1202/article/29/4), [37](https://www.legislation.gov.uk/uksi/2017/1202/article/37))
+
+[^key-407bd7444d0550e9f8375f7d1e952e0b]: Modification: Sch. A1 excluded (4.1.2018) by [The Blackpool Tramway (Blackpool North Extension) Order 2017 (S.I. 2017/1214)](https://www.legislation.gov.uk/uksi/2017/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1214/article/1), [30(3)(b)](https://www.legislation.gov.uk/uksi/2017/1214/article/30/3/b) (with [arts. 30(4)](https://www.legislation.gov.uk/uksi/2017/1214/article/30/4), [58](https://www.legislation.gov.uk/uksi/2017/1214/article/58), [59](https://www.legislation.gov.uk/uksi/2017/1214/article/59))
+
+[^key-1521f7bc72223c708ef464eea14c5116]: Modification: Sch. A1 excluded (18.4.2018) by [The Network Rail (Hope Valley Capacity) Order 2018 (S.I. 2018/446)](https://www.legislation.gov.uk/uksi/2018/446), [arts. 1](https://www.legislation.gov.uk/uksi/2018/446/article/1), [21(4)(b)](https://www.legislation.gov.uk/uksi/2018/446/article/21/4/b) (with [arts. 24(8)](https://www.legislation.gov.uk/uksi/2018/446/article/24/8), [33(2)](https://www.legislation.gov.uk/uksi/2018/446/article/33/2))
+
+[^key-4dd5bab2741682264e9691bc30291229]: Modification: Sch. A1 excluded (31.5.2018) by [The Silvertown Tunnel Order 2018 (S.I. 2018/574)](https://www.legislation.gov.uk/uksi/2018/574), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/574/article/1/2), [27(4)(b)](https://www.legislation.gov.uk/uksi/2018/574/article/27/4/b) (with [art. 27(5)](https://www.legislation.gov.uk/uksi/2018/574/article/27/5))
+
+[^key-c7e094547157222d1a39a981191613a7]: Modification: Sch. A1 excluded (24.8.2018) by [The Network Rail (Werrington Grade Separation) Order 2018 (S.I. 2018/923)](https://www.legislation.gov.uk/uksi/2018/923), [arts. 1](https://www.legislation.gov.uk/uksi/2018/923/article/1), [22(3)(b)](https://www.legislation.gov.uk/uksi/2018/923/article/22/3/b) (with [arts. 22(4)](https://www.legislation.gov.uk/uksi/2018/923/article/22/4), [31(2)](https://www.legislation.gov.uk/uksi/2018/923/article/31/2))
+
+[^key-e6681c970031e5b6630dad2f69e7b296]: Modification: Sch. A1 excluded (3.10.2018) by [The A19/A184 Testos Junction Alteration Development Consent Order 2018 (S.I. 2018/994)](https://www.legislation.gov.uk/uksi/2018/994), [arts. 1](https://www.legislation.gov.uk/uksi/2018/994/article/1), [27](https://www.legislation.gov.uk/uksi/2018/994/article/27) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2018/994/article/3/3), [5](https://www.legislation.gov.uk/uksi/2018/994/article/5))
+
+[^key-27a2b2e9bf6c424fa524e35ba4d7d7c6]: Modification: Sch. A1 excluded (13.3.2019) by [The Port of Tilbury (Expansion) Order 2019 (S.I. 2019/359)](https://www.legislation.gov.uk/uksi/2019/359), [arts. 1](https://www.legislation.gov.uk/uksi/2019/359/article/1), [26(3)(b)](https://www.legislation.gov.uk/uksi/2019/359/article/26/3/b)[(4)](https://www.legislation.gov.uk/uksi/2019/359/article/26/4) (with [arts. 55](https://www.legislation.gov.uk/uksi/2019/359/article/55), [56](https://www.legislation.gov.uk/uksi/2019/359/article/56))
+
+[^M_C_ec0bb776-22cf-4a36-fd9b-287f067260c9]: Modification: Sch. A1 excluded (3.4.2019) by [The Millbrook Gas Fired Generating Station Order 2019 (S.I. 2019/578)](https://www.legislation.gov.uk/uksi/2019/578), [arts. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1), [24(3)(b)](https://www.legislation.gov.uk/uksi/2019/578/article/24/3/b) (with [art. 24(4)](https://www.legislation.gov.uk/uksi/2019/578/article/24/4))
+
+[^key-6069a72bb770fbbc948f72c16499c5e7]: Modification: Sch. A1 excluded (10.10.2019) by [The Abergelli Power Gas Fired Generating Station Order 2019 (S.I. 2019/1268)](https://www.legislation.gov.uk/uksi/2019/1268), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1), [25(3)(b)](https://www.legislation.gov.uk/uksi/2019/1268/article/25/3/b) (with [art. 25(4)](https://www.legislation.gov.uk/uksi/2019/1268/article/25/4))
+
+[^key-5b95a966f917ec985db25acfe5932ab3]: Modification: Sch. A1 excluded (25.10.2019) by [The Drax Power (Generating Stations) Order 2019 (S.I. 2019/1315)](https://www.legislation.gov.uk/uksi/2019/1315), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1), [25(3)(b)](https://www.legislation.gov.uk/uksi/2019/1315/article/25/3/b) (with [art. 25(4)](https://www.legislation.gov.uk/uksi/2019/1315/article/25/4))
+
+[^key-c1f43dad7289c3b00c65bd391bf092e4]: Modification: Sch. A1 excluded (27.2.2020) by [The A30 Chiverton to Carland Cross Development Consent Order 2020 (S.I. 2020/121)](https://www.legislation.gov.uk/uksi/2020/121), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/121/article/1/1), [31(3)(b)](https://www.legislation.gov.uk/uksi/2020/121/article/31/3/b) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2020/121/article/3/1), [31(4)](https://www.legislation.gov.uk/uksi/2020/121/article/31/4))
+
+[^key-6c42a56cc7a135386ee3f8c8f7ace9da]: Modification: Sch. A1 excluded (14.4.2020) by [The Reinforcement to the North Shropshire Electricity Distribution Network Order 2020 (S.I. 2020/325)](https://www.legislation.gov.uk/uksi/2020/325), [arts. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1), [23(3)(b)](https://www.legislation.gov.uk/uksi/2020/325/article/23/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2020/325/article/7), [23(4)](https://www.legislation.gov.uk/uksi/2020/325/article/23/4))
+
+[^key-7e561b46b4735b060a15757c4a3f7c52]: Modification: Sch. A1 excluded (30.4.2020) by [The A585 Windy Harbour to Skippool Highway Development Consent Order 2020 (S.I. 2020/402)](https://www.legislation.gov.uk/uksi/2020/402), [arts. 1](https://www.legislation.gov.uk/uksi/2020/402/article/1), [27(3)(b)](https://www.legislation.gov.uk/uksi/2020/402/article/27/3/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2020/402/article/5), [27(4)](https://www.legislation.gov.uk/uksi/2020/402/article/27/4), [44](https://www.legislation.gov.uk/uksi/2020/402/article/44))
+
+[^key-728b544bfcf604a5939c02404de1f105]: Modification: Sch. A1 excluded (1.5.2020) by [The Riverside Energy Park Order 2020 (S.I. 2020/419)](https://www.legislation.gov.uk/uksi/2020/419), arts. 1, [25(3)(b)](https://www.legislation.gov.uk/uksi/2020/419/article/25/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2020/419/article/7), [25(4)](https://www.legislation.gov.uk/uksi/2020/419/article/25/4))
+
+[^key-7da920f8af4f9ed89164b4f25311c85f]: Modification: Sch. A1 excluded (21.5.2020) by [The Lake Lothing (Lowestoft) Third Crossing Order 2020 (S.I. 2020/474)](https://www.legislation.gov.uk/uksi/2020/474), [arts. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1), [27(4)(b)](https://www.legislation.gov.uk/uksi/2020/474/article/27/4/b) (with [arts. 51](https://www.legislation.gov.uk/uksi/2020/474/article/51), [57](https://www.legislation.gov.uk/uksi/2020/474/article/57))
+
+[^key-06013cfa9007f134f099e5774b2131ef]: Modification: Sch. A1 excluded (11.6.2020) by [The M42 Junction 6 Development Consent Order 2020 (S.I. 2020/528)](https://www.legislation.gov.uk/uksi/2020/528), [arts. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1), [31(3)(b)](https://www.legislation.gov.uk/uksi/2020/528/article/31/3/b) (with [arts. 31(4)](https://www.legislation.gov.uk/uksi/2020/528/article/31/4), [37](https://www.legislation.gov.uk/uksi/2020/528/article/37))
+
+[^key-87c098fc5bd9674879f69d2b27e5e81a]: Modification: Sch. A1 excluded (18.6.2020) by [The A63 (Castle Street Improvement, Hull) Development Consent Order 2020 (S.I. 2020/556)](https://www.legislation.gov.uk/uksi/2020/556), [arts. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1), [27(3)(b)](https://www.legislation.gov.uk/uksi/2020/556/article/27/3/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2020/556/article/5), [27(4)](https://www.legislation.gov.uk/uksi/2020/556/article/27/4), [44](https://www.legislation.gov.uk/uksi/2020/556/article/44))
+
+[^key-ad528ed0976941f290bccc6fc2c1f75f]: Modification: Sch. A1 excluded (19.6.2020) by [The Cleve Hill Solar Park Order 2020 (S.I. 2020/547)](https://www.legislation.gov.uk/uksi/2020/547), [arts. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1), [21(3)(b)](https://www.legislation.gov.uk/uksi/2020/547/article/21/3/b) (with [arts. 21(4)](https://www.legislation.gov.uk/uksi/2020/547/article/21/4), [37](https://www.legislation.gov.uk/uksi/2020/547/article/37))
+
+[^key-26266a55a71fdc8f26e202776f427c7d]: Modification: Sch. A1 excluded (6.8.2020) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [arts. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [27(3)(b)](https://www.legislation.gov.uk/uksi/2020/746/article/27/3/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5), [27(4)](https://www.legislation.gov.uk/uksi/2020/746/article/27/4))
+
+[^key-4562c8701d5ddddb24e5ef8957fc636b]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (1.9.2020) by [The Immingham Open Cycle Gas Turbine Order 2020 (S.I. 2020/847)](https://www.legislation.gov.uk/uksi/2020/847), [arts. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1), [24(3)(b)](https://www.legislation.gov.uk/uksi/2020/847/article/24/3/b) (with [art. 24(4)](https://www.legislation.gov.uk/uksi/2020/847/article/24/4), [Sch. 9 para. 144](https://www.legislation.gov.uk/uksi/2020/847/schedule/9/paragraph/144))
+
+[^key-4404fe22d5a76c355559025cfe892092]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (15.10.2020) by [The Great Yarmouth Third River Crossing Development Consent Order 2020 (S.I. 2020/1075)](https://www.legislation.gov.uk/uksi/2020/1075), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1), [33(4)(b)](https://www.legislation.gov.uk/uksi/2020/1075/article/33/4/b) (with [art. 33(5)](https://www.legislation.gov.uk/uksi/2020/1075/article/33/5))
+
+[^key-d8379a8139c23cf3a2cf22c2aafd96b5]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (29.10.2020) by [The Southampton to London Pipeline Development Consent Order 2020 (S.I. 2020/1099)](https://www.legislation.gov.uk/uksi/2020/1099), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1099/article/1), [28(3)(b)](https://www.legislation.gov.uk/uksi/2020/1099/article/28/3/b) (with [arts. 28(4)](https://www.legislation.gov.uk/uksi/2020/1099/article/28/4), [32](https://www.legislation.gov.uk/uksi/2020/1099/article/32), [Sch. 9 para. 36](https://www.legislation.gov.uk/uksi/2020/1099/schedule/9/paragraph/36))
+
+[^key-993dc8812b6527332336db9987c941f8]: Modification: Sch. A1 excluded (22.1.2021) by [The Hornsea Three Offshore Wind Farm Order 2020 (S.I. 2020/1656)](https://www.legislation.gov.uk/uksi/2020/1656), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1), [23(3)](https://www.legislation.gov.uk/uksi/2020/1656/article/23/3) (with [arts. 23(4)](https://www.legislation.gov.uk/uksi/2020/1656/article/23/4), [40](https://www.legislation.gov.uk/uksi/2020/1656/article/40), [41](https://www.legislation.gov.uk/uksi/2020/1656/article/41), [Sch. 9 Pt. 5 para. 18](https://www.legislation.gov.uk/uksi/2020/1656/schedule/9/part/5/paragraph/18))
+
+[^key-28e5062c0b18b22baf41f59b3726cbde]: Modification: Sch. A1 excluded (9.2.2021) by [The A1 Birtley to Coal House Development Consent Order 2021 (S.I. 2021/74)](https://www.legislation.gov.uk/uksi/2021/74), [arts. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1), [30(3)(b)](https://www.legislation.gov.uk/uksi/2021/74/article/30/3/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2021/74/article/5), [30(4)](https://www.legislation.gov.uk/uksi/2021/74/article/30/4), [Sch. 27 para. 36](https://www.legislation.gov.uk/uksi/2021/74/schedule/27/paragraph/36))
+
+[^key-e5636ae83bf32a3b05d3e32412ea50ed]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2021/2/section/7/2/b), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1) (with [s. 7(3)](https://www.legislation.gov.uk/ukpga/2021/2/section/7/3))
+
+[^key-dc3c91c9e073a932b2d642f2eb4aad4b]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2021/2/section/6/2/b), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+
+[^key-c0cb9853d8df6e823fb587a354adcc57]: Modification: Sch. A1 excluded (19.2.2021) by [The A303 Sparkford to Ilchester Dualling Development Consent Order 2021 (S.I. 2021/125)](https://www.legislation.gov.uk/uksi/2021/125), [arts. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1), [31(3)(b)](https://www.legislation.gov.uk/uksi/2021/125/article/31/3/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2021/125/article/4), [31(4)](https://www.legislation.gov.uk/uksi/2021/125/article/31/4), [47](https://www.legislation.gov.uk/uksi/2021/125/article/47))
+
+[^key-0745469cae1ece205874092df023ec77]: Modification: Sch. A1 excluded (22.12.2021) by [The Morlais Demonstration Zone Order 2021 (S.I. 2021/1478)](https://www.legislation.gov.uk/wsi/2021/1478), [arts. 1](https://www.legislation.gov.uk/wsi/2021/1478/article/1), [26(3)(b)](https://www.legislation.gov.uk/wsi/2021/1478/article/26/3/b) (with [arts. 15](https://www.legislation.gov.uk/wsi/2021/1478/article/15), [50](https://www.legislation.gov.uk/wsi/2021/1478/article/50), [Sch. 11 para. 29](https://www.legislation.gov.uk/wsi/2021/1478/schedule/11/paragraph/29))
+
+[^key-ee63a56644c38d82614b2df7431f13cf]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (1.1.2022) by [The Norfolk Boreas Offshore Wind Farm Order 2021 (S.I. 2021/1414)](https://www.legislation.gov.uk/uksi/2021/1414), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1), [24(3)(b)](https://www.legislation.gov.uk/uksi/2021/1414/article/24/3/b) (with [arts. 41](https://www.legislation.gov.uk/uksi/2021/1414/article/41), [42](https://www.legislation.gov.uk/uksi/2021/1414/article/42), [Sch. 17 para. 66](https://www.legislation.gov.uk/uksi/2021/1414/schedule/17/paragraph/66))
+
+[^key-bd165cc9e18779cd38256d5a17797f40]: Modification: Sch. A1 excluded (5.3.2022) by [The Norfolk Vanguard Offshore Wind Farm Order 2022 (S.I. 2022/138)](https://www.legislation.gov.uk/uksi/2022/138), [arts. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1), [24(3)(b)](https://www.legislation.gov.uk/uksi/2022/138/article/24/3/b) (with [arts. 24(4)](https://www.legislation.gov.uk/uksi/2022/138/article/24/4), [41](https://www.legislation.gov.uk/uksi/2022/138/article/41), [42](https://www.legislation.gov.uk/uksi/2022/138/article/42), [Sch. 16](https://www.legislation.gov.uk/uksi/2022/138/schedule/16))
+
+[^key-244ff74a7b92a3377a31184a9e5e2974]: Modification: Sch. A1 excluded (10.3.2022) by [The Thurrock Flexible Generation Plant Development Consent Order 2022 (S.I. 2022/157)](https://www.legislation.gov.uk/uksi/2022/157), [arts. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1), [25(b)](https://www.legislation.gov.uk/uksi/2022/157/article/25/b) (with [Sch. 8 Pt. 6 para. 19](https://www.legislation.gov.uk/uksi/2022/157/schedule/8/part/6/paragraph/19))
+
+[^key-cb872d819056fdeb9ab50024ee57e7fc]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (25.3.2022) by [The Bridgwater Tidal Barrier Order 2022 (S.I. 2022/299)](https://www.legislation.gov.uk/uksi/2022/299), [arts. 1](https://www.legislation.gov.uk/uksi/2022/299/article/1), [35](https://www.legislation.gov.uk/uksi/2022/299/article/35) (with [art. 55](https://www.legislation.gov.uk/uksi/2022/299/article/55))
+
+[^key-75cac1908fb2c55abd43d2ca3a05afc1]: Modification: Sch. A1 excluded (22.4.2022) by [The East Anglia ONE North Offshore Wind Farm Order 2022 (S.I. 2022/432)](https://www.legislation.gov.uk/uksi/2022/432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2022/432/article/24/3/b) (with [arts. 40](https://www.legislation.gov.uk/uksi/2022/432/article/40), [41](https://www.legislation.gov.uk/uksi/2022/432/article/41))
+
+[^key-22aa814b29353de7a894c56d80614422]: Modification: Sch. A1 excluded (22.4.2022) by [The East Anglia TWO Offshore Wind Farm Order 2022 (S.I. 2022/433)](https://www.legislation.gov.uk/uksi/2022/433), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2022/433/article/24/3/b) (with [arts. 24(4)](https://www.legislation.gov.uk/uksi/2022/433/article/24/4), [40](https://www.legislation.gov.uk/uksi/2022/433/article/40), [41](https://www.legislation.gov.uk/uksi/2022/433/article/41))
+
+[^key-f5def9d87aed87b056b2a856ef26c95f]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (12.5.2022) by [The M54 to M6 Link Road Development Consent Order 2022 (S.I. 2022/475)](https://www.legislation.gov.uk/uksi/2022/475), [arts. 1](https://www.legislation.gov.uk/uksi/2022/475/article/1), [27(3)(b)](https://www.legislation.gov.uk/uksi/2022/475/article/27/3/b) (with [art. 27(4)](https://www.legislation.gov.uk/uksi/2022/475/article/27/4))
+
+[^key-6694fafe0f64e932a1bbd13fd3635fbb]: Modification: Sch. A1 excluded (2.6.2022) by [The M25 Junction 10/A3 Wisley Interchange Development Consent Order 2022 (S.I. 2022/549)](https://www.legislation.gov.uk/uksi/2022/549), [arts. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1), [30(3)(b)](https://www.legislation.gov.uk/uksi/2022/549/article/30/3/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2022/549/article/6), [30(4)](https://www.legislation.gov.uk/uksi/2022/549/article/30/4), [34](https://www.legislation.gov.uk/uksi/2022/549/article/34))
+
+[^key-9d0fc092f0e1e9125a0bb56a7f4df427]: Modification: Sch. A1 excluded (6.6.2022) by [The M25 Junction 28 Development Consent Order 2022 (S.I. 2022/573)](https://www.legislation.gov.uk/uksi/2022/573), [arts. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1), [32(3)(b)](https://www.legislation.gov.uk/uksi/2022/573/article/32/3/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2022/573/article/5), [32(4)](https://www.legislation.gov.uk/uksi/2022/573/article/32/4), [36](https://www.legislation.gov.uk/uksi/2022/573/article/36))
+
+[^key-083d706bd289975cd34b4c9622386de5]: Modification: Sch. A1 excluded (13.7.2022) by [The A47 Blofield to North Burlingham Development Consent Order 2022 (S.I. 2022/738)](https://www.legislation.gov.uk/uksi/2022/738), [arts. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1), [32(3)(b)](https://www.legislation.gov.uk/uksi/2022/738/article/32/3/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/738/article/4), [32(4)](https://www.legislation.gov.uk/uksi/2022/738/article/32/4), [50](https://www.legislation.gov.uk/uksi/2022/738/article/50))
+
+[^key-cc2cb0cd331a65498911386d4a54aa83]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [arts. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [35](https://www.legislation.gov.uk/uksi/2022/853/article/35) (with [arts. 35(4)](https://www.legislation.gov.uk/uksi/2022/853/article/35/4), [62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
+
+[^key-4f60987491793ec0edfc6425ae130b77]: Modification: Sch. A1 excluded (2.9.2022) by [The A47 North Tuddenham to Easton Development Consent Order 2022 (S.I. 2022/911)](https://www.legislation.gov.uk/uksi/2022/911), [arts. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1), [31(3)(b)](https://www.legislation.gov.uk/uksi/2022/911/article/31/3/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/911/article/4), [31(4)](https://www.legislation.gov.uk/uksi/2022/911/article/31/4), [53](https://www.legislation.gov.uk/uksi/2022/911/article/53))
+
+[^key-14d69bb3daca35a952fd36e6b55b3c2a]: Modification: Sch. A1 excluded (8.9.2022) by [The A428 Black Cat to Caxton Gibbet Development Consent Order 2022 (S.I. 2022/934)](https://www.legislation.gov.uk/uksi/2022/934), [arts. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1), [35(3)(b)](https://www.legislation.gov.uk/uksi/2022/934/article/35/3/b)
+
+[^key-c4651b5ccc7472811ee127c481d751e2]: Modification: Sch. A1 excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [30-32](https://www.legislation.gov.uk/uksi/2022/1067/article/30) (with [art. 46(2)](https://www.legislation.gov.uk/uksi/2022/1067/article/46/2), [Sch. 19 para. 61](https://www.legislation.gov.uk/uksi/2022/1067/schedule/19/paragraph/61))
+
+[^M_C_2a7b07de-4000-49f5-fbd7-9d2905633d4d]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (4.11.2022) by [The A47/A11 Thickthorn Junction Development Consent Order 2022 (S.I. 2022/1070)](https://www.legislation.gov.uk/uksi/2022/1070), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1), [32(3)](https://www.legislation.gov.uk/uksi/2022/1070/article/32/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/1070/article/4), [52](https://www.legislation.gov.uk/uksi/2022/1070/article/52), [Sch. 9 para. 82](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/82))
+
+[^key-260011331ec020fb43c06c39f48ed375]: Modification: Sch. A1 excluded (5.12.2022) by [The Portishead Branch Line (MetroWest Phase 1) Order 2022 (S.I. 2022/1194)](https://www.legislation.gov.uk/uksi/2022/1194), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1), [31(3)(b)](https://www.legislation.gov.uk/uksi/2022/1194/article/31/3/b) (with [arts. 31(4)](https://www.legislation.gov.uk/uksi/2022/1194/article/31/4), [51](https://www.legislation.gov.uk/uksi/2022/1194/article/51))
+
+[^key-b602dde89e9669cbc99ef354adb8a230]: Modification: Sch. A1 excluded (7.12.2022) by [The A57 Link Roads Development Consent Order 2022 (S.I. 2022/1206)](https://www.legislation.gov.uk/uksi/2022/1206), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1), [29(3)(b)](https://www.legislation.gov.uk/uksi/2022/1206/article/29/3/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2022/1206/article/5), [29(4)](https://www.legislation.gov.uk/uksi/2022/1206/article/29/4))
+
+[^key-36757438b85882d1436217c8bcb68f36]: Modification: Sch. A1 excluded (7.12.2022) by [The A417 Missing Link Development Consent Order 2022 (S.I. 2022/1248)](https://www.legislation.gov.uk/uksi/2022/1248), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1248/article/1), [32(3)](https://www.legislation.gov.uk/uksi/2022/1248/article/32/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2022/1248/article/4), [32(4)](https://www.legislation.gov.uk/uksi/2022/1248/article/32/4))
+
+[^key-0074c85061dff49f8fdb75e57af1fc31]: Modification: Sch. A1 excluded (10.3.2023) by [The A47 Wansford to Sutton Development Consent Order 2023 (S.I. 2023/218)](https://www.legislation.gov.uk/uksi/2023/218), [arts. 1](https://www.legislation.gov.uk/uksi/2023/218/article/1), [32(3)](https://www.legislation.gov.uk/uksi/2023/218/article/32/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2023/218/article/4), [50](https://www.legislation.gov.uk/uksi/2023/218/article/50))
+
+[^M_F_813802be-f509-468e-c9ec-e3ccd09b0732]: Modification: Sch. A1 excluded (29.12.2022) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) Order 2022 (S.I. 2022/1396)](https://www.legislation.gov.uk/uksi/2022/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1), [24(3)(b)](https://www.legislation.gov.uk/uksi/2022/1396/article/24) (with [arts. 24(4)](https://www.legislation.gov.uk/uksi/2022/1396/article/24), [32](https://www.legislation.gov.uk/uksi/2022/1396/article/32), [Sch. 10 paras. 26(2)](https://www.legislation.gov.uk/uksi/2022/1396/schedule/10/paragraph/26), [68](https://www.legislation.gov.uk/uksi/2022/1396/schedule/10/paragraph/68))
+
+[^key-0b827d497aa2c9e011ec26775d62180e]: Modification: Sch. A1 excluded (18.7.2023) by [The Longfield Solar Farm Order 2023 (S.I. 2023/734)](https://www.legislation.gov.uk/uksi/2023/734), [arts. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1), [23(3)](https://www.legislation.gov.uk/uksi/2023/734/article/23/3) (with [art. 23(4)](https://www.legislation.gov.uk/uksi/2023/734/article/23/4))
+
+[^key-a4c43f41989b0245f50d8a67a037ad5a]: Modification: Sch. A1 excluded (27.7.2023) by [The Boston Alternative Energy Facility Order 2023 (S.I. 2023/778)](https://www.legislation.gov.uk/uksi/2023/778), [arts. 1](https://www.legislation.gov.uk/uksi/2023/778/article/1), [32(3)(b)](https://www.legislation.gov.uk/uksi/2023/778/article/32/3/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/2023/778/article/5), [32(4)](https://www.legislation.gov.uk/uksi/2023/778/article/32/4), [53](https://www.legislation.gov.uk/uksi/2023/778/article/53), [Sch. 8 paras. 6](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/6), [64](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/64))
+
+[^key-c25f370693859ec17716d73bc0bc298c]: Modification: Sch. A1 excluded (3.8.2023) by [The Hornsea Four Offshore Wind Farm Order 2023 (S.I. 2023/800)](https://www.legislation.gov.uk/uksi/2023/800), [arts. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1), [25(3)](https://www.legislation.gov.uk/uksi/2023/800/article/25/3) (with [arts. 25(4)](https://www.legislation.gov.uk/uksi/2023/800/article/25/4), [42](https://www.legislation.gov.uk/uksi/2023/800/article/42), [43](https://www.legislation.gov.uk/uksi/2023/800/article/43), [Sch. 9 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2023/800/schedule/9/part/1/paragraph/4), [Sch. 9 Pt. 3 para. 6(1)](https://www.legislation.gov.uk/uksi/2023/800/schedule/9/part/3/paragraph/6/1), [Sch. 9 Pt. 4 para. 20](https://www.legislation.gov.uk/uksi/2023/800/schedule/9/part/4/paragraph/20), [Sch. 9 Pt. 9 para. 4](https://www.legislation.gov.uk/uksi/2023/800/schedule/9/part/9/paragraph/4))
+
+[^key-e63324ec3ae21a406c96eb5f94d0fff0]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (4.8.2023) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (S.I. 2023/834)](https://www.legislation.gov.uk/uksi/2023/834), [arts. 1](https://www.legislation.gov.uk/uksi/2023/834/article/1), [27(4)](https://www.legislation.gov.uk/uksi/2023/834/article/27/4) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2023/834/article/6/2), [18](https://www.legislation.gov.uk/uksi/2023/834/article/18), [27(5)](https://www.legislation.gov.uk/uksi/2023/834/article/27/5), [Sch. 11 paras. 5](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/5), [30](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/30))
+
+[^key-55c8dc48da1d5f3e1021dadc04278e6d]: Modification: Sch. A1 excluded (7.9.2023) by [The A38 Derby Junctions Development Consent Order 2023 (S.I. 2023/923)](https://www.legislation.gov.uk/uksi/2023/923), [arts. 1](https://www.legislation.gov.uk/uksi/2023/923/article/1), [31(3)](https://www.legislation.gov.uk/uksi/2023/923/article/31/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2023/923/article/4), [31(4)](https://www.legislation.gov.uk/uksi/2023/923/article/31/4), [45](https://www.legislation.gov.uk/uksi/2023/923/article/45), [Sch. 9 paras. 6](https://www.legislation.gov.uk/uksi/2023/923/schedule/9/paragraph/6), [46](https://www.legislation.gov.uk/uksi/2023/923/schedule/9/paragraph/46), [54(1)](https://www.legislation.gov.uk/uksi/2023/923/schedule/9/paragraph/54/1))
+
+[^key-15308a3b6c6c9535a2cc8487561b1990]: Modification: Sch. A1 excluded (11.10.2023) by [The Awel y Môr Offshore Wind Farm Order 2023 (S.I. 2023/1033)](https://www.legislation.gov.uk/uksi/2023/1033), [arts. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1), [24](https://www.legislation.gov.uk/uksi/2023/1033/article/24)
+
+[^key-aaf792d6fb903ca00a3bc92ce57ae512]: Modification: Sch. A1 excluded (7.2.2024) by [The Drax Power Station Bioenergy with Carbon Capture and Storage Extension Order 2024 (S.I. 2024/70)](https://www.legislation.gov.uk/uksi/2024/70), [arts. 1](https://www.legislation.gov.uk/uksi/2024/70/article/1), [22(3)](https://www.legislation.gov.uk/uksi/2024/70/article/22/3) (with [arts. 22(4)](https://www.legislation.gov.uk/uksi/2024/70/article/22/4), [43](https://www.legislation.gov.uk/uksi/2024/70/article/43), [Sch. 12 paras. 5](https://www.legislation.gov.uk/uksi/2024/70/schedule/12/paragraph/5), [24](https://www.legislation.gov.uk/uksi/2024/70/schedule/12/paragraph/24))
+
+[^key-0c4d08579fa29a2761db47e59f423241]: Modification: Sch. A1 excluded (9.2.2024) by [The A12 Chelmsford to A120 Widening Development Consent Order 2024 (S.I. 2024/60)](https://www.legislation.gov.uk/uksi/2024/60), [arts. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1), [38(3)](https://www.legislation.gov.uk/uksi/2024/60/article/38/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/60/article/4), [38(4)](https://www.legislation.gov.uk/uksi/2024/60/article/38/4), [52](https://www.legislation.gov.uk/uksi/2024/60/article/52), [Sch. 11 paras. 6](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/6), [24](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/24), [39(1)](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/39/1), [55(1)](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/55/1), [84](https://www.legislation.gov.uk/uksi/2024/60/schedule/11/paragraph/84))
+
+[^key-8f3004f5e1fe51c31a355eaa16a1ed07]: Modification: Sch. A1 excluded (11.3.2024) by [The Net Zero Teesside Order 2024 (S.I. 2024/174)](https://www.legislation.gov.uk/uksi/2024/174), [arts. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1), [28(3)](https://www.legislation.gov.uk/uksi/2024/174/article/28/3) (with [arts. 28(4)](https://www.legislation.gov.uk/uksi/2024/174/article/28/4), [42](https://www.legislation.gov.uk/uksi/2024/174/article/42), [43](https://www.legislation.gov.uk/uksi/2024/174/article/43), [Sch. 12](https://www.legislation.gov.uk/uksi/2024/174/schedule/12))
+
+[^key-8f8df012673f3640c073559e41bc0ba3]: Modification: Sch. A1 excluded (13.3.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility Order 2024 (S.I. 2024/230)](https://www.legislation.gov.uk/uksi/2024/230), [arts. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1), [26(3)](https://www.legislation.gov.uk/uksi/2024/230/article/26/3) (with [art. 26(4)](https://www.legislation.gov.uk/uksi/2024/230/article/26/4), [Sch. 11](https://www.legislation.gov.uk/uksi/2024/230/schedule/11))
+
+[^key-e461d833700d988fad0160db2541c8f2]: Modification: Sch. A1 excluded (28.3.2024) by [The A66 Northern Trans-Pennine Development Consent Order 2024 (S.I. 2024/360)](https://www.legislation.gov.uk/uksi/2024/360), [arts. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1), [27(3)](https://www.legislation.gov.uk/uksi/2024/360/article/27/3) (with [arts. 18](https://www.legislation.gov.uk/uksi/2024/360/article/18), [27(4)](https://www.legislation.gov.uk/uksi/2024/360/article/27/4), [35](https://www.legislation.gov.uk/uksi/2024/360/article/35), [Sch. 9](https://www.legislation.gov.uk/uksi/2024/360/schedule/9))
+
+[^key-a74bb1fbf76ad2b4c42d3e9ab2562177]: Modification: Sch. A1 excluded (5.4.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) Development Consent Order 2024 (S.I. 2024/393)](https://www.legislation.gov.uk/uksi/2024/393), [arts. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1), [34(3)](https://www.legislation.gov.uk/uksi/2024/393/article/34/3) (with [art. 44](https://www.legislation.gov.uk/uksi/2024/393/article/44), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/393/schedule/15))
+
+[^key-be78598e23d1cb24f6e7d46111ab642c]: Modification: Sch. A1 excluded (11.4.2024) by [The HyNet Carbon Dioxide Pipeline Order 2024 (S.I. 2024/436)](https://www.legislation.gov.uk/uksi/2024/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2024/436/article/31/4) (with [arts. 21](https://www.legislation.gov.uk/uksi/2024/436/article/21), [41](https://www.legislation.gov.uk/uksi/2024/436/article/41), [Sch. 10](https://www.legislation.gov.uk/uksi/2024/436/schedule/10))
+
+[^key-81bcb15c7a87655dd37798393166bb36]: Modification: Sch. A1 excluded (9.5.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm Order 2024 (S.I. 2024/564)](https://www.legislation.gov.uk/uksi/2024/564), [arts. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1), [22(4)](https://www.legislation.gov.uk/uksi/2024/564/article/22/4) (with [arts. 22(5)](https://www.legislation.gov.uk/uksi/2024/564/article/22/5), [35](https://www.legislation.gov.uk/uksi/2024/564/article/35), [36](https://www.legislation.gov.uk/uksi/2024/564/article/36), [Sch. 14](https://www.legislation.gov.uk/uksi/2024/564/schedule/14))
+
+[^key-a3fbb719f10e1f90d2eec73647c0ff0b]: Modification: Sch. A1 excluded (14.6.2024) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent Order 2024 (S.I. 2024/733)](https://www.legislation.gov.uk/uksi/2024/733), [arts. 1](https://www.legislation.gov.uk/uksi/2024/733/article/1), [34(3)](https://www.legislation.gov.uk/uksi/2024/733/article/34/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2024/733/article/6), [Sch. 10](https://www.legislation.gov.uk/uksi/2024/733/schedule/10))
+
+[^key-372398b18db3e1a028ac6d18485b8e48]: Modification: Sch. A1 excluded (3.8.2024) by [The Gate Burton Energy Park Order 2024 (S.I. 2024/807)](https://www.legislation.gov.uk/uksi/2024/807), [arts. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1), [23(3)](https://www.legislation.gov.uk/uksi/2024/807/article/23/3) (with [arts. 23(4)](https://www.legislation.gov.uk/uksi/2024/807/article/23/4), [45](https://www.legislation.gov.uk/uksi/2024/807/article/45), [Sch. 14](https://www.legislation.gov.uk/uksi/2024/807/schedule/14))
+
+[^key-2ffbb1f07eb7204cad735bd3291563bf]: Modification: Sch. A1 excluded (3.8.2024) by [The Mallard Pass Solar Farm Order 2024 (S.I. 2024/796)](https://www.legislation.gov.uk/uksi/2024/796), [arts. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1), [25(3)](https://www.legislation.gov.uk/uksi/2024/796/article/25/3) (with [art. 25(4)](https://www.legislation.gov.uk/uksi/2024/796/article/25/4), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/796/schedule/15))
+
+[^key-b6b6edca8f7ac18226adccc8583f072c]: Modification: Sch. A1 excluded (3.8.2024) by [The Sunnica Energy Farm Order 2024 (S.I. 2024/802)](https://www.legislation.gov.uk/uksi/2024/802), [arts. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1), [22(3)](https://www.legislation.gov.uk/uksi/2024/802/article/22/3) (with [arts. 22(4)](https://www.legislation.gov.uk/uksi/2024/802/article/22/4), [44](https://www.legislation.gov.uk/uksi/2024/802/article/44), [Sch. 12](https://www.legislation.gov.uk/uksi/2024/802/schedule/12))
+
+[^key-1b9d4b820f9d1c09036bea81c2803f83]: Modification: Sch. A1 excluded (27.9.2024) by [The Cottam Solar Project Order 2024 (S.I. 2024/943)](https://www.legislation.gov.uk/uksi/2024/943), [arts. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1), [25(3)](https://www.legislation.gov.uk/uksi/2024/943/article/25/3) (with [arts. 25(4)](https://www.legislation.gov.uk/uksi/2024/943/article/25/4), [48](https://www.legislation.gov.uk/uksi/2024/943/article/48), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/943/schedule/15))
+
+[^key-22200d21c848ea46b03926c9b609bead]: Modification: Sch. A1 excluded (4.10.2024) by [The National Grid (Bramford to Twinstead Reinforcement) Order 2024 (S.I. 2024/958)](https://www.legislation.gov.uk/uksi/2024/958), [arts. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1), [24(3)](https://www.legislation.gov.uk/uksi/2024/958/article/24/3) (with [art. 40](https://www.legislation.gov.uk/uksi/2024/958/article/40), [Sch. 14](https://www.legislation.gov.uk/uksi/2024/958/schedule/14))
+
+[^key-501d32b428b38f632bd15c57b31babb8]: Modification: Sch. A1 excluded (9.10.2024) by [The M3 Junction 9 Development Consent Order 2024 (S.I. 2024/752)](https://www.legislation.gov.uk/uksi/2024/752), [arts. 1](https://www.legislation.gov.uk/uksi/2024/752/article/1), [32(3)](https://www.legislation.gov.uk/uksi/2024/752/article/32/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2024/752/article/4), [32(4)](https://www.legislation.gov.uk/uksi/2024/752/article/32/4), [Sch. 10](https://www.legislation.gov.uk/uksi/2024/752/schedule/10)) (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+
+    Sch. A1 excluded (18.12.2024) by [The Network Rail (Leeds to Micklefield Enhancements) Order 2024 (S.I. 2024/1284)](https://www.legislation.gov.uk/uksi/2024/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2024/1284/article/1), [26(3)](https://www.legislation.gov.uk/uksi/2024/1284/article/26/3) (with [art. 26(4)](https://www.legislation.gov.uk/uksi/2024/1284/article/26/4), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1284/schedule/15))
+
+[^key-d6a5f7fc865954d3d985cc4cbdf387cd]: Modification: Sch. A1 excluded (15.2.2025) by [The West Burton Solar Project Order 2025 (S.I. 2025/116)](https://www.legislation.gov.uk/uksi/2025/116), [arts. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1), [25](https://www.legislation.gov.uk/uksi/2025/116/article/25) (with [art. 47](https://www.legislation.gov.uk/uksi/2025/116/article/47), [Sch. 15](https://www.legislation.gov.uk/uksi/2025/116/schedule/15))
+
+[^key-d08be97ea83a18f42c23cfa4903ee202]: Modification: Sch. A1 excluded (27.2.2025) by [The Associated British Ports (Immingham Green Energy Terminal) Order 2025 (S.I. 2025/165)](https://www.legislation.gov.uk/uksi/2025/165), [arts. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1), [25](https://www.legislation.gov.uk/uksi/2025/165/article/25) (with [arts. 48](https://www.legislation.gov.uk/uksi/2025/165/article/48), [59](https://www.legislation.gov.uk/uksi/2025/165/article/59), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/165/schedule/14))
+
+[^key-91d0eb72fa48136806b7f95a897b0261]: Modification: Sch. A1 excluded (4.4.2025) by [The North Lincolnshire Green Energy Park Order 2025 (S.I. 2025/362)](https://www.legislation.gov.uk/uksi/2025/362), [arts. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1), [30(3)](https://www.legislation.gov.uk/uksi/2025/362/article/30/3) (with [art. 30(4)](https://www.legislation.gov.uk/uksi/2025/362/article/30/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/362/schedule/14))
+
+[^key-1ff2fd81278e38674ab08c4ebde534b9]: Modification: Sch. A1 excluded (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [33(4)](https://www.legislation.gov.uk/uksi/2025/462/article/33/4) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [33(5)](https://www.legislation.gov.uk/uksi/2025/462/article/33/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
+
+[^key-c1712cb9de9d3106f71f80260eb811cc]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [arts. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [29(3)(b)](https://www.legislation.gov.uk/uksi/2025/452/article/29/3/b), [30(6)(b)](https://www.legislation.gov.uk/uksi/2025/452/article/30/6/b)
+
+[^key-a1678a58010cc6a1530a913893f3e9dc]: Modification: Sch. A1 excluded (24.4.2025) by [The London Luton Airport Expansion Development Consent Order 2025 (S.I. 2025/463)](https://www.legislation.gov.uk/uksi/2025/463), [arts. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1), [31(3)(b)](https://www.legislation.gov.uk/uksi/2025/463/article/31/3/b)[(4)](https://www.legislation.gov.uk/uksi/2025/463/article/31/4) (with [Sch. 8 paras. 36(3)](https://www.legislation.gov.uk/uksi/2025/463/schedule/8/paragraph/36/3), [87](https://www.legislation.gov.uk/uksi/2025/463/schedule/8/paragraph/87))
+
+[^key-6e02d63aba572f28b5cecdafdf69bfe5]: Modification: Sch. A1 excluded (28.4.2025) by [The Rampion 2 Offshore Wind Farm Order 2025 (S.I. 2025/468)](https://www.legislation.gov.uk/uksi/2025/468), [arts. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1), [29(3)](https://www.legislation.gov.uk/uksi/2025/468/article/29/3) (with [arts. 47](https://www.legislation.gov.uk/uksi/2025/468/article/47), [48](https://www.legislation.gov.uk/uksi/2025/468/article/48), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/468/schedule/10))
+
+[^key-719621f67d022f9bd666bbd07aca1a95]: Modification: Sch. A1 excluded (1.5.2025) by [The Viking CCS Carbon Dioxide Pipeline Order 2025 (S.I. 2025/509)](https://www.legislation.gov.uk/uksi/2025/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2), [29(4)](https://www.legislation.gov.uk/uksi/2025/509/article/29/4) (with [art. 41](https://www.legislation.gov.uk/uksi/2025/509/article/41), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/509/schedule/9))
+
+[^key-f89827d90fc22dc0a9084240908fcc5c]: Modification: Sch. A1 excluded (31.5.2025) by [The East Yorkshire Solar Farm Order 2025 (S.I. 2025/585)](https://www.legislation.gov.uk/uksi/2025/585), [arts. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1), [25(3)](https://www.legislation.gov.uk/uksi/2025/585/article/25/3) (with [arts. 25(4)](https://www.legislation.gov.uk/uksi/2025/585/article/25/4), [49](https://www.legislation.gov.uk/uksi/2025/585/article/49), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/585/schedule/14))
+
+[^key-262bafc31823ca7d7c00489dec834c3f]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (25.6.2025) by [The M5 Junction 10 Development Consent Order 2025 (S.I. 2025/795)](https://www.legislation.gov.uk/uksi/2025/795), [arts. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1), [29(3)](https://www.legislation.gov.uk/uksi/2025/795/article/29/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/795/article/4), [29(4)](https://www.legislation.gov.uk/uksi/2025/795/article/29/4), [43](https://www.legislation.gov.uk/uksi/2025/795/article/43), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/795/schedule/9))
+
+[^key-339c9a90eb4602114fb5d173614ec42b]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (11.7.2025) by [The Oaklands Farm Solar Park Order 2025 (S.I. 2025/739)](https://www.legislation.gov.uk/uksi/2025/739), [arts. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1), [22(3)](https://www.legislation.gov.uk/uksi/2025/739/article/22/3) (with [art. 22(4)](https://www.legislation.gov.uk/uksi/2025/739/article/22/4), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/739/schedule/10))
+
+[^key-4536a435a105d57ac03e14a85f8cb407]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (28.7.2025) by [The Mona Offshore Wind Farm Order 2025 (S.I. 2025/870)](https://www.legislation.gov.uk/uksi/2025/870), [arts. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1), [25(3)](https://www.legislation.gov.uk/uksi/2025/870/article/25/3) (with [arts. 37](https://www.legislation.gov.uk/uksi/2025/870/article/37), [38](https://www.legislation.gov.uk/uksi/2025/870/article/38), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/870/schedule/10))
+
+[^key-0e981fd69b0aea6b3bbe2406b082299b]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (14.8.2025) by [The Byers Gill Solar Order 2025 (S.I. 2025/934)](https://www.legislation.gov.uk/uksi/2025/934), [arts. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1), [25(4)](https://www.legislation.gov.uk/uksi/2025/934/article/25/4) (with [art. 43](https://www.legislation.gov.uk/uksi/2025/934/article/43), [Sch. 11](https://www.legislation.gov.uk/uksi/2025/934/schedule/11))
+
+[^key-431007763c2be5056f50e9d80583392f]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (30.9.2025) by [The M60/M62/M66 Simister Island Interchange Development Consent Order 2025 (S.I. 2025/1018)](https://www.legislation.gov.uk/uksi/2025/1018), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1), [28](https://www.legislation.gov.uk/uksi/2025/1018/article/28) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/1018/article/5), [34](https://www.legislation.gov.uk/uksi/2025/1018/article/34), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1018/schedule/9))
+
+[^key-78b5a3262427ee0c55ec3ab5076e2a2e]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (12.10.2025) by [The Gatwick Airport (Northern Runway Project) Development Consent Order 2025 (S.I. 2025/1054)](https://www.legislation.gov.uk/uksi/2025/1054), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1), [34(3)](https://www.legislation.gov.uk/uksi/2025/1054/article/34/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/1054/article/5), [9(6)](https://www.legislation.gov.uk/uksi/2025/1054/article/9/6), [43](https://www.legislation.gov.uk/uksi/2025/1054/article/43), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1054/schedule/9))
+
+[^key-699bfbc926e3a349091d80cddb6fcc14]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (22.10.2025) by [The A46 Newark Bypass Development Consent Order 2025 (S.I. 2025/1090)](https://www.legislation.gov.uk/uksi/2025/1090), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1), [37(3)](https://www.legislation.gov.uk/uksi/2025/1090/article/37/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/1090/article/4), [9](https://www.legislation.gov.uk/uksi/2025/1090/article/9), [37(4)](https://www.legislation.gov.uk/uksi/2025/1090/article/37/4), [51](https://www.legislation.gov.uk/uksi/2025/1090/article/51), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1090/schedule/9))
+
+[^key-74fede28bcde38548aab9008cb52754a]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (5.11.2025) by [The Tillbridge Solar Order 2025 (S.I. 2025/1105)](https://www.legislation.gov.uk/uksi/2025/1105), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1), [26(3)](https://www.legislation.gov.uk/uksi/2025/1105/article/26/3) (with [arts. 26(4)](https://www.legislation.gov.uk/uksi/2025/1105/article/26/4), [49](https://www.legislation.gov.uk/uksi/2025/1105/article/49), [Sch. 15](https://www.legislation.gov.uk/uksi/2025/1105/schedule/15))
+
+[^key-60c35dca8af1c9ac587fa08cabe6fc20]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [28(3)](https://www.legislation.gov.uk/uksi/2025/1175/article/28/3) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
+
+[^key-ba07ce386ff8b2aba55b487850c3cd23]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (27.11.2025) by [The Cory Decarbonisation Project Order 2025 (S.I. 2025/1227)](https://www.legislation.gov.uk/uksi/2025/1227), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1), [31(3)](https://www.legislation.gov.uk/uksi/2025/1227/article/31/3) (with [art. 31(4)](https://www.legislation.gov.uk/uksi/2025/1227/article/31/4), [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1227/schedule/12))
+
+[^key-ec5a7d0dd2b17028610d2ce52d6a99a3]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (29.12.2025) by [The Helios Renewable Energy Project Order 2025 (S.I. 2025/1372)](https://www.legislation.gov.uk/uksi/2025/1372), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1372/article/1), [25(3)](https://www.legislation.gov.uk/uksi/2025/1372/article/25/3) (with [art. 25(4)](https://www.legislation.gov.uk/uksi/2025/1372/article/25/4), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1372/schedule/9))
+
+[^key-bbd7366d4eb1b5861e5bb7e73f8cd760]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (8.1.2026) by [The Five Estuaries Offshore Wind Farm Order 2025 (S.I. 2025/1376)](https://www.legislation.gov.uk/uksi/2025/1376), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1), [27(3)](https://www.legislation.gov.uk/uksi/2025/1376/article/27/3) (with [arts. 39](https://www.legislation.gov.uk/uksi/2025/1376/article/39), [40](https://www.legislation.gov.uk/uksi/2025/1376/article/40), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1376/schedule/9))
+
+[^key-6b6a09de5737902116240a17c0fbb10f]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (25.2.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent Order 2026 (S.I. 2026/125)](https://www.legislation.gov.uk/uksi/2026/125), [arts. 1](https://www.legislation.gov.uk/uksi/2026/125/article/1), [36(3)](https://www.legislation.gov.uk/uksi/2026/125/article/36/3) (with [arts. 36(4)](https://www.legislation.gov.uk/uksi/2026/125/article/36/4), [40](https://www.legislation.gov.uk/uksi/2026/125/article/40), [45](https://www.legislation.gov.uk/uksi/2026/125/article/45), [Sch. 9](https://www.legislation.gov.uk/uksi/2026/125/schedule/9))
+
+[^key-65b006df0e565ecdb8124c4c7414a781]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (4.3.2026) by [The Outer Dowsing Offshore Wind Farm Order 2026 (S.I. 2026/138)](https://www.legislation.gov.uk/uksi/2026/138), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/138/article/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2026/138/article/24/3) (with [arts. 24(4)](https://www.legislation.gov.uk/uksi/2026/138/article/24/4), [42](https://www.legislation.gov.uk/uksi/2026/138/article/42), [43](https://www.legislation.gov.uk/uksi/2026/138/article/43), [Sch. 18](https://www.legislation.gov.uk/uksi/2026/138/schedule/18))
+
+[^key-bd06eb57ea93587d678abdeb3efd37fe]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (11.3.2026) by [The Fenwick Solar Farm Order 2026 (S.I. 2026/151)](https://www.legislation.gov.uk/uksi/2026/151), [arts. 1](https://www.legislation.gov.uk/uksi/2026/151/article/1), [26(3)](https://www.legislation.gov.uk/uksi/2026/151/article/26/3) (with [Sch. 14](https://www.legislation.gov.uk/uksi/2026/151/schedule/14))
+
+[^key-531091bb1bcfd47a6a459747953f1a8e]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (30.4.2026) by [The Springwell Solar Farm Order 2026 (S.I. 2026/419)](https://www.legislation.gov.uk/uksi/2026/419), [arts. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1), [26(3)](https://www.legislation.gov.uk/uksi/2026/419/article/26/3) (with [arts. 26(4)](https://www.legislation.gov.uk/uksi/2026/419/article/26/4), [48](https://www.legislation.gov.uk/uksi/2026/419/article/48))
+
+[^key-8eaf7b024ccca3b5f9c0ad12ad0ca43d]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (5.6.2026) by [The Dogger Bank South East and West Offshore Wind Farms Order 2026 (S.I. 2026/577)](https://www.legislation.gov.uk/uksi/2026/577), [arts. 1](https://www.legislation.gov.uk/uksi/2026/577/article/1), [26(4)](https://www.legislation.gov.uk/uksi/2026/577/article/26/4) (with [arts. 26(5)](https://www.legislation.gov.uk/uksi/2026/577/article/26/5), [40](https://www.legislation.gov.uk/uksi/2026/577/article/40), [41](https://www.legislation.gov.uk/uksi/2026/577/article/41), [Sch. 15](https://www.legislation.gov.uk/uksi/2026/577/schedule/15))
+
+[^key-fa9b64eaf454b85ec08b9c1f420d507b]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (5.6.2026) by [The North Falls Offshore Wind Farm Order 2026 (S.I. 2026/567)](https://www.legislation.gov.uk/uksi/2026/567), [arts. 1](https://www.legislation.gov.uk/uksi/2026/567/article/1), [27(3)](https://www.legislation.gov.uk/uksi/2026/567/article/27/3) (with [arts. 44](https://www.legislation.gov.uk/uksi/2026/567/article/44), [45](https://www.legislation.gov.uk/uksi/2026/567/article/45), [Sch. 14](https://www.legislation.gov.uk/uksi/2026/567/schedule/14))
+
+[^key-e8c81862f0267a3cc7eb13fe79f500d4]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (23.7.2026) by [The Peartree Hill Solar Farm Order 2026 (S.I. 2026/869)](https://www.legislation.gov.uk/uksi/2026/869), [arts. 1](https://www.legislation.gov.uk/uksi/2026/869/article/1), [28(3)](https://www.legislation.gov.uk/uksi/2026/869/article/28/3) (with [art. 37](https://www.legislation.gov.uk/uksi/2026/869/article/37), [Sch. 11](https://www.legislation.gov.uk/uksi/2026/869/schedule/11))
+
+[^key-361f337f566ce0af96c56ad5b99ebe59]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (24.7.2026) by [The Dean Moor Solar Farm Order 2026 (S.I. 2026/754)](https://www.legislation.gov.uk/uksi/2026/754), [arts. 1](https://www.legislation.gov.uk/uksi/2026/754/article/1), [28(3)](https://www.legislation.gov.uk/uksi/2026/754/article/28/3) (with [Sch. 13](https://www.legislation.gov.uk/uksi/2026/754/schedule/13))
+
+[^key-cad25194e9976d8eb101b1ef737b8a89]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (30.7.2026) by [The One Earth Solar Farm Order 2026 (S.I. 2026/934)](https://www.legislation.gov.uk/uksi/2026/934), [arts. 1](https://www.legislation.gov.uk/uksi/2026/934/article/1), [25(3)](https://www.legislation.gov.uk/uksi/2026/934/article/25/3) (with [arts. 25(4)](https://www.legislation.gov.uk/uksi/2026/934/article/25/4), [47](https://www.legislation.gov.uk/uksi/2026/934/article/47))
+
+[^key-14257b668cddc19e41c6f9d3a70b140b]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (14.9.2026) by [The Beacon Fen Energy Park Order 2026 (S.I. 2026/1025)](https://www.legislation.gov.uk/uksi/2026/1025), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1025/article/1), [30(3)](https://www.legislation.gov.uk/uksi/2026/1025/article/30/3) (with [arts. 30(4)](https://www.legislation.gov.uk/uksi/2026/1025/article/30/4), [39](https://www.legislation.gov.uk/uksi/2026/1025/article/39), [Sch. 11 para. 131](https://www.legislation.gov.uk/uksi/2026/1025/schedule/11/paragraph/131))
+
+[^key-2ffce9acea9bbb4332d0c5d9dcb47a54]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (30.10.2026) by [The Green Hill Solar Farm Order 2026 (S.I. 2026/1074)](https://www.legislation.gov.uk/uksi/2026/1074), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1074/article/1), [29(3)](https://www.legislation.gov.uk/uksi/2026/1074/article/29/3) (with [art. 29(4)](https://www.legislation.gov.uk/uksi/2026/1074/article/29/4), [Sch. 15](https://www.legislation.gov.uk/uksi/2026/1074/schedule/15))
+
+[^key-f49136ba6cead76c885ed19a24fa233c]: Modification: [Sch. A1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1) excluded (31.10.2026) by [The Steeple Renewables Project Order 2026 (S.I. 2026/1086)](https://www.legislation.gov.uk/uksi/2026/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1086/article/1), [23(3)](https://www.legislation.gov.uk/uksi/2026/1086/article/23/3) (with [art. 23(4)](https://www.legislation.gov.uk/uksi/2026/1086/article/23/4), [Sch. 10](https://www.legislation.gov.uk/uksi/2026/1086/schedule/10))
+
+[^key-8f2522ff5a90e6794baf952c08f8fd0e]: Textual amendment: Sch. A1 inserted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/6); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+
+[^key-1e1cd11a3c169ff9a9c904055c525dc2]: Textual amendment: Words in [Sch. A1 para. 2](https://www.legislation.gov.uk/ukpga/1981/66/schedule/A1/paragraph/2) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 109(6)](https://www.legislation.gov.uk/ukpga/2025/34/section/109/6), [118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/c), [4(1)(j)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/j)
+
+[^key-1f7a8fe54ec7f2847b5306bd89182d83]: Textual amendment: Words in Sch. A1 para. 5 renumbered as Sch. A1 para. 5(1) (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 186(6)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/186/6/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/m) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/2))
+
+[^key-741564b6c74a3e5f194e8ef113759254]: Textual amendment: Words in Sch. A1 para. 5(1) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 186(6)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/186/6/b), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/m) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/2))
+
+[^key-74167b54355f85881be8ecd57e8c0700]: Textual amendment: Sch. A1 para. 5(2) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 186(6)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/186/6/c), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/m) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/2))
+
+[^key-8e2700320b35fedf48f3b4e9d931dd6f]: Textual amendment: Sch. A1 para. 16(4) inserted (19.7.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 41](https://www.legislation.gov.uk/ukpga/2017/20/section/41), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/j)
+
+[^key-a58e3a785cc7453fd63020546af03665]: Modification: Sch. 1 excluded (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 6 para. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/6/paragraph/11/3/b)
+
+[^key-375bb9d7b22a23e6b139350f19ace977]: Modification: Sch. 1 excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/8/2), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/8/3))
+
+[^key-1f66b9c57d90a79da52002517c67546c]: Textual amendment: Sch. 1 Pt. I omitted (3.2.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+
+[^c4904251]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56)
+
+[^c4904261]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^c4904271]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^c4904281]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^c4904291]: Modification: Sch. 2 para. 1 modified: by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 76(5)](https://www.legislation.gov.uk/ukpga/1988/50/section/76/5), [Sch. 9 Pt. II para. 12(1)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/9/part/II/paragraph/12/1); (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 161(4)](https://www.legislation.gov.uk/ukpga/1993/28/section/161/4), [Sch. 19 para. 7(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/19/paragraph/7/1); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3); which modification was repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/33/3/a), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts.](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+
+[^c4904301]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
+
+[^c4904311]: Modification: Sch. 2 para. 3 modified by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 76(5)](https://www.legislation.gov.uk/ukpga/1988/50/section/76/5), [Sch. 9 Pt. II para. 12(2)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/9/part/II/paragraph/12/2)
+
+[^c4904321]: Modification: Sch. 2 para. 3(a) modified (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 161(4)](https://www.legislation.gov.uk/ukpga/1993/28/section/161/4), [Sch. 19 para. 7(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/19/paragraph/7/2); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3); which modification was amended (1.12.2008) by [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 33(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/33/2); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 2(1)(w)(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+
+[^key-5d6f2b6b9e8f72699a4bf2f3fb3c4821]: Textual amendment: Sch. 2 para. 4 substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/8); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+
+[^c4904331]: Modification: The text of s. 16(1)(3), Sch. 3 paras. 1, 3, 4 and Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c4904341]: Textual amendment: Sch. 3 para. 2 repealed by [Capital Transfer Tax Act 1984 (c. 51, SIF 65)](https://www.legislation.gov.uk/ukpga/1984/51), [Sch. 9](https://www.legislation.gov.uk/ukpga/1984/51/schedule/9)
+
+[^c4904351]: Modification: The text of s. 16(1)(3), Sch. 3 paras. 1, 3, 4 and Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c4904361]: Modification: The text of s. 16(1)(3), Sch. 3 paras. 1, 3, 4 and Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c4904371]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c4904381]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
+
+[^c4904391]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c4904401]: Marginal citation: [1973 c. 37](https://www.legislation.gov.uk/ukpga/1973/37).
+
+[^c4904411]: Modification: The text of s. 16(1)(3), Sch. 3 paras. 1, 3, 4 and Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991

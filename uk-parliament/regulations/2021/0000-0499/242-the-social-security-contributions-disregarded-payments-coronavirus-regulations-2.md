@@ -1,0 +1,124 @@
+---
+title: The Social Security Contributions (Disregarded Payments) (Coronavirus) Regulations 2021
+id: uksi/2021/242
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-03-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/242
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/242/pdfs/uksiem_20210242_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/242/pdfs/uksi_20210242_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/242/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Contributions (Disregarded Payments) (Coronavirus) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 242
+
+Social Security
+
+The Social Security Contributions (Disregarded Payments) (Coronavirus) Regulations 2021
+
+Made
+
+8th March 2021
+
+Laid before Parliament
+
+9th March 2021
+
+Coming into force
+
+6th April 2021
+
+The Treasury make the following Regulations in exercise of the powers conferred by section 3(2)(b) and (3) of the Social Security Contributions and Benefits Act 1992[^f00001], and section 3(2)(b) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002].
+
+The Secretary of State and the Department for Communities[^f00003] concur in the making of these Regulations.
+
+## 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Social Security Contributions (Disregarded Payments) (Coronavirus) Regulations 2021.
+
+(2) These Regulations come into force on 6th April 2021 and have effect for the tax year 2021-22.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+- “coronavirus related home office expenses” means expenses incurred by the employed earner in respect of equipment where—
+  - (a) that equipment was obtained for the sole purpose of enabling the employed earner to work from home as a result of the coronavirus outbreak; and
+  - (b) the provision of the equipment would have been exempt from income tax under section 316 of the Income Tax (Earnings and Pensions) Act 2003[^f00004] if it had been provided directly to the employed earner by or on behalf of a secondary contributor[^f00005].
+- “coronavirus test” means a test which detects the presence of a viral antigen or viral ribonucleic acid (RNA) specific to coronavirus; and
+- “earnings-related contributions” means contributions payable under the Social Security Contributions and Benefits Act 1992 or the Social Security Contributions and Benefits (Northern Ireland) Act 1992 in respect of earnings paid to or for the benefit of an earner in respect of an employed earner’s employment.
+
+## 3. Payments to be disregarded in the calculation of earnings for the purposes of earnings-related contributions
+
+(1) A payment mentioned in paragraph (2) or paragraph (3) is to be disregarded in the calculation of earnings from an earner’s[^f00006] employment for the purposes of earnings-related contributions.
+
+(2) A payment that is an amount reimbursed to an employed earner in respect of coronavirus related home office expenses.
+
+(3) A payment that is made to an employed earner in respect of the cost of a coronavirus test taken, or to be taken, by that employed earner.
+
+David Rutley
+
+James Morris
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+8th March 2021
+
+The Secretary of State concurs.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Justin Tomlinson
+
+Minister for Disabled People, Health and Work
+
+Department for Work and Pensions
+
+8th March 2021
+
+The Department for Communities concurs.
+
+Sealed with the Official Seal of the Department for Communities on 8th March 2021.
+
+Anne McCleary
+
+A senior officer of the Department for Communities
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide that amounts reimbursed to an employed earner in respect of expenses that the employed earner has incurred in obtaining office equipment to enable home working necessitated by the coronavirus outbreak will be disregarded when calculating the amount of earnings for the purposes of calculating any liability to pay primary and secondary Class 1 contributions (“NICs”).
+
+These Regulations also provide that amounts paid to an employed earner for the cost of a coronavirus antigen test will be disregarded when calculating the amount of earnings for the same purposes.
+
+These Regulations come into force on 6th April 2021 and will take effect for payments and reimbursements made during the tax year 2021-22.
+
+Tax Information and Impact Notes covering this instrument will be published on the gov.uk website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) (“the 1992 Act”). Section 3(2) was amended by paragraph 3 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^f00002]: Footnote: [1992 c. 7 (N.I.)](https://www.legislation.gov.uk/ukpga/1992/7) (“the 1992 NI Act”). Section 3(2) was amended by paragraph 4 of Schedule 3 to [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671) so that the power to make regulations became exercisable by the Treasury with the concurrence of the Department of Health and Social Services for Northern Ireland.
+
+[^f00003]: Footnote: The functions of the Department of Health and Social Services for Northern Ireland under the 1992 NI Act were transferred to the Department for Social Development by Article 8(b) of, and Part 2 of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No.481](https://www.legislation.gov.uk/nisr/1999/481)). The Department for Social Development was renamed the Department for Communities by section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)).
+
+[^f00004]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^f00005]: Footnote: “Secondary contributor” is defined in section 7 of the 1992 Act and section 7 of the 1992 NI Act.
+
+[^f00006]: Footnote: “Earnings” and “earner” are defined in section 3(1) of the 1992 Act and section 3(1) of the 1992 NI Act.

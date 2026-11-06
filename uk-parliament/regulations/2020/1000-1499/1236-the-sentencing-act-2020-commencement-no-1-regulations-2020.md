@@ -1,0 +1,111 @@
+---
+title: The Sentencing Act 2020 (Commencement No. 1) Regulations 2020
+id: uksi/2020/1236
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-11-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/1236
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1236/pdfs/uksi_20201236_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1236/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sentencing Act 2020 (Commencement No. 1) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 1236 (C. 35)
+
+Criminal Law
+
+The Sentencing Act 2020 (Commencement No. 1) Regulations 2020
+
+Made
+
+2nd November 2020
+
+Coming into force
+
+1st December 2020
+
+The Secretary of State, in exercise of the powers conferred by section 416(1) of the Sentencing Act 2020[^f00001] and section 104 of the Deregulation Act 2015[^f00002], makes the following Regulations.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Sentencing Act 2020 (Commencement No. 1) Regulations 2020 and come into force on 1st December 2020.
+
+## 2. Commencement of the Sentencing Act 2020
+
+The date specified for the purposes of section 416(1) of the Sentencing Act 2020 is 1st December 2020.
+
+## 3. Amendment of the Sentencing Act 2020
+
+The Sentencing Act 2020 is amended in accordance with regulation 4.
+
+**4.** (1) In subsection (1) of section 2 (application of Code), for “the commencement date” substitute “1 December 2020”.
+
+(2) In subsection (3) of section 120 (general power of Crown Court to fine offender convicted on indictment), for “the commencement date” substitute “1 December 2020”.
+
+(3) In subsections (1) and (5) of section 244 (offender subject concurrently to detention and training order and sentence of detention in a young offender institution), for “the commencement date” substitute “1 December 2020”.
+
+(4) In subsections (1) and (4) of section 245 (offender subject concurrently to detention and training order and other sentence of detention), for “the commencement date” substitute “1 December 2020”.
+
+(5) In section 416 (commencement)—
+
+- (a) in subsection (1), for “a date specified by the Secretary of State by regulations” substitute “1 December 2020”;
+- (b) in subsection (5), for “the commencement date” substitute “1 December 2020”;
+- (c) in subsection (7), for “the commencement date” substitute “1 December 2020”.
+
+(6) In section 417 (commencement of Schedule 22)—
+
+- (a) in subsection (4), for “the commencement date”, in each place it occurs, substitute “1 December 2020”;
+- (b) in subsection (9) omit “or, if later, on the commencement date”.
+
+(7) In Schedule 24 (consequential amendments)—
+
+- (a) in paragraph 33(1)(a), for “the commencement date” substitute “1 December 2020”;
+- (b) in paragraph 220(2)(b), for “the commencement date within the meaning of the Sentencing Act 2020” substitute “1 December 2020”;
+- (c) in paragraph 312, for “the commencement date” substitute “1 December 2020”;
+- (d) in paragraph 447, for “the commencement date” substitute “1 December 2020”.
+
+(8) In Schedule 27 (transitional provisions and savings)—
+
+- (a) in paragraph 7(1)(b), for “the commencement date” substitute “1 December 2020”;
+- (b) in paragraph 10(1)(b), for “the commencement date” substitute “1 December 2020”;
+- (c) in paragraph 11(1), for “the commencement date” substitute “1 December 2020”;
+- (d) in paragraph 12(1)(a), for “the commencement date” substitute “1 December 2020”;
+- (e) in paragraph 14(a), for “the commencement date” substitute “1 December 2020”;
+- (f) in paragraph 15(1)(c), (2) and (3), for “the commencement date” substitute “1 December 2020”;
+- (g) in paragraph 16(1)(c), (2) and (3), for “the commencement date” substitute “1 December 2020”;
+- (h) in paragraph 23(2), for “the commencement date” substitute “1 December 2020”.
+
+Robert Buckland
+
+Secretary of State
+
+Ministry of Justice
+
+2nd November 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17) (“the Act”) comes into force, by virtue of section 416(1), on 1st December 2020. As a result, the Sentencing Code (Parts 2 to 13 of the Act) will come into force on that date. But section 416(1) is subject to the exceptions in section 416(4), by virtue of which Schedules 22 and 26, which reproduce uncommenced amendments of legislation reproduced in the Sentencing Code and the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), will not come into force on 1st December 2020 and instead will come into force in accordance with sections 417 and 418.
+
+Regulations 3 and 4 amend the Act so that references to the commencement date are replaced with the actual date on which the Act comes into force where appropriate. The power to do this is in section 104 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
+
+A full impact assessment has not been produced for this instrument as no impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
+
+[^f00002]: Footnote: [2015 c. 20](https://www.legislation.gov.uk/ukpga/2015/20).

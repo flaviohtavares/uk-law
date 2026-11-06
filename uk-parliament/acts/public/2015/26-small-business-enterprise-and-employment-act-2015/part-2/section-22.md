@@ -1,0 +1,29 @@
+---
+title: Small Business, Enterprise and Employment Act 2015, section 22
+act: Small Business, Enterprise and Employment Act 2015
+section: '22'
+status: revised-with-pending-changes
+text_date: '2026-05-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2015/26/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Small Business, Enterprise and Employment Act 2015, section 22
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 22. Sections 21 and 23 to 25: “qualifying regulatory provisions” etc[^key-6c4754df866dd8439eca3f8a96be310c][^key-3054a9a3029988ba2c4a90458f2b6f87]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-6c4754df866dd8439eca3f8a96be310c]: Textual amendment: [Ss. 21-27](https://www.legislation.gov.uk/ukpga/2015/26/section/21) omitted (29.8.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/18/1), [22(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/2)
+
+[^key-3054a9a3029988ba2c4a90458f2b6f87]: Modification: S. 22 modified (29.3.2017) by [The Business Impact Target (Relevant Regulators) Regulations 2017 (S.I. 2017/344)](https://www.legislation.gov.uk/uksi/2017/344), [regs. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/344/regulation/2)

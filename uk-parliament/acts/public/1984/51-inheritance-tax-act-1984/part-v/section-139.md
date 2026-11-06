@@ -1,0 +1,35 @@
+---
+title: Inheritance Tax Act 1984, section 139
+act: Inheritance Tax Act 1984
+section: '139'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1984/51/section/139
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Inheritance Tax Act 1984, section 139
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/51
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 139. Other property.
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the transferred property is neither shares nor an interest in land and the condition mentioned in subsection (2) below is not satisfied in relation to it, then, subject to subsections (3) and (4) below, the market value of the property on the relevant date shall for the purposes of section 131 above be taken to be increased by an amount equal to the difference between—
+
+- (a) the market value of the property at the time of the chargeable transfer, and
+- (b) what that value would have been if the circumstances prevailing at the relevant date and by reason of which the condition is not satisfied had prevailed at the time of the chargeable transfer.
+
+(2) The condition referred to in subsection (1) above is that the transferred property was the same in all respects at the time of the chargeable transfer and on the relevant date.
+
+(3) Where the market value of the transferred property at the time of the chargeable transfer is less than it would have been as mentioned in subsection (1) above, that subsection shall apply as if, instead of providing for an increase, it provided for the market value on the relevant date to be reduced to what it would have been if the property had remained the same in all respects as it was at the time of the chargeable transfer.
+
+(4) Where the transferred property is neither shares nor an interest in land and during the period between the time of the chargeable transfer and the relevant date benefits in money or money’s worth are derived form it which exceed a reasonable return on its market value at the time of the chargeable transfer, then—
+
+- (a) any effect of the benefits on the transferred property shall be ignored for the purposes of the preceding provisions of this section, but
+- (b) the market value of the transferred property on the relevant date shall be taken for the purposes of section 131 above to be increased by an amount equal to the said excess.

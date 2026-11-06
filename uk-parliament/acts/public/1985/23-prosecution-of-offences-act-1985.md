@@ -1,0 +1,1884 @@
+---
+title: Prosecution of Offences Act 1985
+id: ukpga/1985/23
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1985-05-23'
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1985/23
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1985/23/pdfs/ukpga_19850023_en.pdf
+- http://www.legislation.gov.uk/ukpga/1985/23/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Prosecution of Offences Act 1985
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/23
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Prosecution of Offences Act 1985
+
+1985 c. 23
+
+[^c3182131][^c19238051]An Act to provide for the establishment of a Crown Prosecution Service for England and Wales; to make provision as to costs in criminal cases; to provide for the imposition of time limits in relation to preliminary stages of criminal proceedings; to amend section 42 of the Supreme Court Act 1981 and section 3 of the Children and Young Persons Act 1969; to make provision with respect to consents to prosecutions; to repeal section 9 of the Perjury Act 1911; and for connected purposes.
+
+\[23rd May 1985\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — The Crown Prosecution Service
+
+### Constitution and functions of Service
+
+#### 1. The Crown Prosecution Service.
+
+(1) There shall be a prosecuting service for England and Wales (to be known as the “**Crown Prosecution Service** ”) consisting of—
+
+- (a) the Director of Public Prosecutions, who shall be head of the Service;
+- (b) the Chief Crown Prosecutors, designated under subsection (4) below, each of whom shall be the member of the Service responsible to the Director for supervising the operation of the Service in his area; and
+- (c) the other staff appointed by the Director under this section.
+
+(2) The Director shall appoint such staff for the Service as, with the approval of the Treasury as to numbers, remuneration and other terms and conditions of service, he considers necessary for the discharge of his functions.
+
+(3) The Director may designate any member of the Service [^key-062e09940603512d644e07fa68a2eaaf]... for the purposes of this subsection, and any person so designated shall be known as a Crown Prosecutor.
+
+(4) The Director shall divide England and Wales into areas and, for each of those areas, designate a Crown Prosecutor for the purposes of this subsection and any person so designated shall be known as a Chief Crown Prosecutor.
+
+(5) The Director may, from time to time, vary the division of England and Wales made for the purposes of subsection (4) above.
+
+(6) Without prejudice to any functions which may have been assigned to him in his capacity as a member of the Service, every Crown Prosecutor shall have all the powers of the Director as to the institution and conduct of proceedings but shall exercise those powers under the direction of the Director.
+
+(7)[^c19197801] Where any enactment (whenever passed)—
+
+- (a) prevents any step from being taken without the consent of the Director or without his consent or the consent of another; or
+- (b) requires any step to be taken by or in relation to the Director;
+
+any consent given by or, as the case may be, taken by or in relation to, a Crown Prosecutor shall be treated, for the purposes of that enactment, as given by or, as the case may be, taken by or in relation to the Director.
+
+(8)[^key-7c698c14358dd67bb370b6292e458328] Nothing in this section confers on a person designated for the purposes of subsection (3) who does not have a general qualification (within the meaning given by section 71 of the Courts and Legal Services Act 1990)—
+
+- (a) any rights of audience, or
+- (b) any right to conduct litigation,
+
+for the purposes of [Part 3](https://www.legislation.gov.uk/ukpga/2007/29/part/3) of the [Legal Services Act 2007](https://www.legislation.gov.uk/ukpga/2007/29/contents) (reserved legal activities).
+
+(9) The following provisions of the Legal Services Act 2007 accordingly do not apply to such a person—
+
+- (a) paragraph 1(3) of Schedule 3 (exemption for persons with statutory rights of audience), and
+- (b) paragraph 2(3) of that Schedule (exemption for persons with statutory right to conduct litigation).
+
+#### 2. The Director of Public Prosecutions
+
+(1) The Director of Public Prosecutions shall be appointed by the Attorney General.
+
+(2) The Director must be a person who has a ten year general qualification, within the meaning of section 71 of the Courts and Legal Services Act 1990[^c3182221].
+
+(3) There shall be paid to the Director such remuneration as the Attorney General may, with the approval of the Treasury, determine.
+
+#### 3. Functions of the Director.
+
+(1) The Director shall discharge his functions under this or any other enactment under the superintendence of the Attorney General.
+
+(2)[^c3182621] It shall be the duty of the Director , subject to any provisions contained in the Criminal Justice Act 1987[^c3182631]—
+
+- (a)[^c3182641] to take over the conduct of all criminal proceedings, other than specified proceedings, instituted on behalf of a police force (whether by a member of that force or by any other person);
+- (aa)[^c3182651] to take over the conduct of any criminal proceedings instituted by an immigration officer (as defined for the purposes of the [^c3182661]Immigration Act 1971) acting in his capacity as such an officer;
+- (ab)[^key-b812c8b5b97aaa6b6d168bd6d5fa4a04] to take over the conduct of any criminal proceedings instituted in England and Wales by the Revenue and Customs;
+- (ac)[^key-1a2bf80cf196e16763f8638f3c4b9548] to take over the conduct of any criminal proceedings instituted on behalf of the National Crime Agency;
+- (ad)[^key-d60688e38a15e114ff894529f47a3a75] to take over the conduct of any criminal proceedings instituted in England and Wales by the ICRIR;
+- (b)[^c3182641] to institute and have the conduct of criminal proceedings in any case where it appears to him that—
+  - (i) the importance or difficulty of the case makes it appropriate that proceedings should be instituted by him; or
+  - (ii) it is otherwise appropriate for proceedings to be instituted by him;
+- (ba)[^c3654921] to institute and have the conduct of any criminal proceedings in any case where the proceedings relate to the subject-matter of a report a copy of which has been sent to him under paragraph 23 or 24 of Schedule 3 to the Police Reform Act 2002 (c. 30)(reports on investigations into conduct of persons serving with the police);
+- (bb)[^key-f866ba9e0a28904e1dad043cf84e3afd] where it appears to him appropriate to do so, to institute and have the conduct of any criminal proceedings in England and Wales relating to a criminal investigation by the Revenue and Customs;
+- (bc)[^key-c8e308699bfe677ef90f93001db9cb0c] where it appears to him appropriate to do so, to institute and have the conduct of any criminal proceedings relating to a criminal investigation by the National Crime Agency;
+- (bd)[^key-2dd9fb277e045cfa872d5b14ee8b32f8] where it appears to the Director appropriate to do so, to institute and have the conduct of any criminal proceedings in England and Wales relating to a review by the ICRIR;
+- (c)[^c3182641] to take over the conduct of all binding over proceedings instituted on behalf of a police force (whether by a member of that force or by any other person);
+- (d)[^c3182641] to take over the conduct of all proceedings begun by summons issued under section 3 of the [^c3182701]Obscene Publications Act 1959 (forfeiture of obscene articles);
+- (e) to give, to such extent as he considers appropriate, advice to police forces on all matters relating to criminal offences;
+- (ea)[^c19197991] to have the conduct of any extradition proceedings;
+- (eb) to give, to such extent as he considers appropriate, and to such persons as he considers appropriate, advice on any matters relating to extradition proceedings or proposed extradition proceedings;
+- (ec)[^c19203981] to give, to such extent as he considers appropriate, advice to immigration officers on matters relating to criminal offences;
+- (ed)[^key-d73bf3088b8359b89ef74303a320be03] to give advice, to such extent as he considers appropriate and to such person as he considers appropriate, in relation to—
+  - (i) criminal investigations by the National Crime Agency, or
+  - (ii) criminal proceedings arising out of such investigations;
+- (ee)[^key-a89d4e3c1f6b971c553e1caae8982f05] to give, to such extent as he considers appropriate, and to such persons as he considers appropriate, advice on matters relating to—
+  - (i) a criminal investigation by the Revenue and Customs; or
+  - (ii) criminal proceedings instituted in England and Wales relating to a criminal investigation by the Revenue and Customs;
+- (ef)[^key-907e7539ec1bb6700f55e27a16818b83] to give, to such extent as he considers appropriate, and to such persons as he considers appropriate, advice on matters relating to—
+  - (i) a review by the ICRIR; or
+  - (ii) criminal proceedings instituted in England and Wales relating to a review by the ICRIR;
+- (f) to appear for the prosecution, when directed by the court to do so, on any appeal under—
+  - (i) section 1 of the [^c3182711]Administration of Justice Act 1960 (appeal from the High Court in criminal cases);
+  - (ii) Part I or Part II of the [^c3182721]Criminal Appeal Act 1968 (appeals from the Crown Court to the criminal division of the Court of Appeal and thence to the Supreme Court[^key-3a946b5db8b6ba19d4ba33bebc7d9d03]); or
+  - (iii) section 108 of the [^c3182731]Magistrates’ Courts Act 1980 (right of appeal to Crown Court) as it applies, by virtue of subsection (5) of section 12 of the [^c3182741]Contempt of Court Act 1981, to orders made under section 12 (contempt of magistrates’ courts); [^c19198841]. . .
+- (fa)[^c19198851] to have the conduct of applications for orders under Chapter 1 of Part 11 of the Sentencing Code[^key-e61c9926f9c2bae3ef6ed3e010f3d3da][^key-e97fa5d1a18189bbd0d9b405e5463d32] (criminal behaviour orders made on conviction) and section 14A of the Football Spectators Act 1989 (banning orders made on conviction of certain offences);
+- (faa)[^c19237751] where it appears to him appropriate to do so, to have the conduct of applications made by him for orders under section 14B of the Football Spectators Act 1989 (banning orders made on complaint);
+- (fb)[^c19227321] where it appears to him appropriate to do so, to have the conduct of applications under section 336 of the Sentencing Code[^key-6a336d434d5b66f8a5efd5313d540d3a] for the variation or discharge of orders made under Chapter 1 of Part 11 of that Code[^key-5b0f33b47a68ea7e7a29e19404b40444];
+- (fc) where it appears to him appropriate to do so, to appear on any application under section 27[^key-7e298e1c7b17842507715df413099dbb] of that Act made by a person subject to an order under section 22[^key-a34d837e9f8d5f10b50145ce3d45ea4a] of that Act for the variation or discharge of the order.
+- (fd)[^key-498f244fa570dc664a5b604a03072d65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (fe)[^key-498f244fa570dc664a5b604a03072d65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ff)[^key-598477840d0a2e1f9daa0d36efe26388] to discharge such duties as are conferred on him by, or in relation to, Part 5 or 8 of the Proceeds of Crime Act 2002 (c. 29) (civil recovery of the proceeds etc. of unlawful conduct, civil recovery investigations and disclosure orders in relation to confiscation investigations);
+- (fg)[^key-7e3352b8dabe73f5a78ebd1c91549caa] to have the conduct of applications for orders under section 19 of the Offensive Weapons Act 2019 (knife crime prevention orders made on conviction);
+- (fh)[^key-3da418be5f4bef878c2961d47fe0994d] to have the conduct of applications for orders under section 342A of the Sentencing Code (serious violence reduction orders);
+- (fi)[^key-055224e4ed9d29ad770234987f021f0e] to have the conduct of applications for orders under section 20(1)(b) of the Public Order Act 2023 (serious disruption prevention orders on conviction);
+- (g) to discharge such other functions as may from time to time be assigned to him by the Attorney General in pursuance of this paragraph.
+
+(2A)[^c19198811] Subsection (2)(ea) above does not require the Director to have the conduct of any extradition proceedings in respect of a person if he has received a request not to do so and—
+
+- (a) in a case where the proceedings are under Part 1 of the Extradition Act 2003, the request is made by the authority which issued the Part 1 warrant in respect of the person;
+- (b) in a case where the proceedings are under Part 2 of that Act, the request is made on behalf of the territory to which the person’s extradition has been requested.
+
+(3) In this section—
+
+- “**the court** ” means—
+- (a) in the case of an appeal to or from the criminal division of the Court of Appeal, that division;
+- (b) in the case of an appeal from a Divisional Court of the Queen’s Bench Division, the Divisional Court; and
+- (c) in the case of an appeal against an order of a magistrates’ court, the Crown Court;
+
+- “[^key-9f0d52bc980e8e3e84b69b628096bdc6]**ICRIR**” means the Independent Commission for Reconciliation and Information Recovery;
+
+- “criminal investigation” means any process—[^key-82e1082661e09c2ea9db50243df47610]
+  - (i) for considering whether an offence has been committed;
+  - (ii) for discovering by whom an offence has been committed; or
+  - (iii) as a result of which an offence is alleged to have been committed;
+
+- “**police force** ” means any police force maintained by a local policing body[^key-eae3f0efa757c4c5ea23b880c0a97ee4] [^M_F_a6f83034-2449-4fd8-a39f-2db9125340b2]. . . and any other body of constables for the time being specified by order made by the Secretary of State for the purposes of this section; and
+- “**specified proceedings** ” means proceedings which fall within any category for the time being specified by order made by the Attorney General for the purposes of this section.
+
+(3A)[^key-04512bf9343e1b5a8c25cdec50c016fb] In this section a reference to the Revenue and Customs is a reference to—
+
+- (a) the Commissioners for Her Majesty’s Revenue and Customs;
+- (b) an officer of Revenue and Customs; or
+- (c) a person acting on behalf of the Commissioners or an officer of Revenue and Customs.
+
+(4) The power to make orders under subsection (3) above shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 4. Crown Prosecutors.
+
+(1)[^c3182811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c3182811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^c3182811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^c3182811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3B)[^c3182811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3C)[^c3182811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3D)[^c3182811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3E)[^c3182811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 88 of the [^c3182891]Solicitors Act 1974 (which, amongst other things, provides that solicitors in public departments are not required to hold practising certificates) the following subsection shall be inserted after subsection (1)—
+
+> (1A) The exemption from the requirement to hold a practising certificate conferred by subsection (1) above shall not apply to solicitors who are Crown Prosecutors.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c3182901]
+
+(6)[^key-89f4e9fdc55aa2591978e5d4658e0570] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Conduct of prosecutions on behalf of the Service.
+
+(1) The Director may at any time appoint a person who is not a Crown Prosecutor [^key-8524bfce163ae6cef006a39c41a77187]... to institute or take over the conduct of such criminal proceedings or extradition proceedings[^c19204451] as the Director may assign to him.
+
+(1A)[^key-a357670c7dfe03154c9886706b2ae75c] The Director may at any time appoint such a person—
+
+- (a) to exercise a function of the Director under section 3(2)(ab) or (bb) in relation to a class or description of criminal proceedings specified in the appointment;
+- (b) to exercise a function of the Director under section 3(2)(ee) in relation to—
+  - (i) such criminal proceedings as are specified in the appointment, or
+  - (ii) a class or description of criminal proceedings specified in the appointment; or
+- (c) to appear in—
+  - (i) Revenue and Customs cash recovery proceedings specified in the appointment, or
+  - (ii) a class or description of Revenue and Customs cash recovery proceedings specified in the appointment.
+
+(1B) In subsection (1A)—
+
+- “Revenue and Customs cash recovery proceedings” means proceedings in which the Director or a Crown Prosecutor would otherwise appear by virtue of section 302A(2) of the Proceeds of Crime Act 2002 (cash recovery proceedings relating to revenue and customs matters).
+
+(2) Any person conducting proceedings assigned to him under subsection (1) or exercising functions by virtue of an appointment made under subsection (1A)[^key-5e417ebcd6c17f6f63b891fc0fb42bec] shall have all the powers of a Crown Prosecutor but shall exercise those powers subject to any instructions given to him by a Crown Prosecutor.
+
+(3)[^key-b8d5c3f99481ed367d90568f1ffe30f0] Nothing in this section confers on a person appointed under subsection (1) who does not have a general qualification (within the meaning given by section 71 of the Courts and Legal Services Act 1990)—
+
+- (a) any rights of audience, or
+- (b) any right to conduct litigation,
+
+for the purposes of [Part 3](https://www.legislation.gov.uk/ukpga/2007/29/part/3) of the [Legal Services Act 2007](https://www.legislation.gov.uk/ukpga/2007/29/contents) (reserved legal activities).
+
+(4) The following provisions of the Legal Services Act 2007 accordingly do not apply to such a person—
+
+- (a) paragraph 1(3) of Schedule 3 (exemption for persons with statutory rights of audience), and
+- (b) paragraph 2(3) of that Schedule (exemption for persons with statutory right to conduct litigation).
+
+#### 6. Prosecutions instituted and conducted otherwise than by the Service.
+
+(1) Subject to subsection (2) below, nothing in this Part shall preclude any person from instituting any criminal proceedings or conducting any criminal proceedings to which the Director’s duty to take over the conduct of proceedings does not apply.
+
+(2) Where criminal proceedings are instituted in circumstances in which the Director is not under a duty to take over their conduct, he may nevertheless do so at any stage.
+
+#### 7. Delivery of recognizances etc. to Director.
+
+(1) Where the Director or any Crown Prosecutor gives notice to any justice of the peace that he has instituted, or is conducting, any criminal proceedings, the justice shall—
+
+- (a) at the prescribed time and in the prescribed manner; or
+- (b) in a particular case, at the time and in the manner directed by the Attorney General;
+
+send him every recognizance, information, certificate, deposition, document and thing connected with those proceedings which the justice is required by law to deliver to the appropriate officer of the Crown Court.
+
+(2) The Attorney General may make regulations for the purpose of supplementing this section; and in subsection (1) above “**prescribed** ” means prescribed by the regulations.
+
+(3) The Director or, as the case may be, Crown Prosecutor shall—
+
+- (a) subject to the regulations, cause anything which is sent to him under subsection (1) above to be delivered to the appropriate officer of the Crown Court; and
+- (b) be under the same obligation (on the same payment) to deliver to an applicant copies of anything so sent as that officer.
+
+(4) It shall be the duty of the designated officer for every magistrates' court[^c19204591] to send to the Director, in accordance with the regulations, a copy of the information and of any depositions and other documents relating to any case in which—
+
+- (a) a prosecution for an offence before the magistrates' court[^c19204601] is withdrawn or is not proceeded with within a reasonable time;
+- (b) the Director does not have the conduct of the proceedings; and
+- (c) there is some ground for suspecting that there is no satisfactory reason for the withdrawal or failure to proceed.
+
+#### 7A. Powers of non-legal staff.[^c13001131]
+
+(1) The Director may designate under this subsection[^key-293e2c03ccdd11b744464df4b50316ce] members of the staff of the Crown Prosecution Service who are not Crown Prosecutors.
+
+(2) Subject to such exceptions (if any) as may be specified in the designation under subsection (1)[^key-3a8371053fd80bcd5c149e09c5576adc] , a person so designated shall have such of the following as may be so specified, namely—
+
+- (a) the powers and rights of audience of a Crown Prosecutor in relation to—
+  - (i) applications for, or relating to, bail in criminal proceedings;
+  - (ii) the conduct of criminal proceedings in magistrates’ courts other than trials of offences triable either way or offences which are punishable with imprisonment in the case of persons aged 21 or over[^key-0f2b5737ef40bcaa3d214eaa511bf386] ;
+  - (iii)[^key-af3e7750b37185ae5f6a342a57758919] the conduct of applications or other proceedings relating to preventative civil orders;
+  - (iv) the conduct of proceedings (other than criminal proceedings) in, or in connection with, the discharge of functions assigned to the Director under section 3(2)(g) above.
+- (b)[^key-acdd2ddfd869b60e268a1f6e82b47b75] any powers of a Crown Prosecutor that do not involve the exercise of such rights of audience as are mentioned in paragraph (a) above but are exercisable in relation to the conduct of—
+  - (i) criminal proceedings in magistrates' courts, or
+  - (ii) applications or proceedings falling within paragraph (a)(iii) or (iv).
+
+(2A)[^key-d1496f6a5c9393e881d0662c6b8d9fc4] The Director may designate under this subsection members of the staff of the Crown Prosecution Service who are not Crown Prosecutors.
+
+(2B) A person designated under subsection (2A) has the powers and rights of audience of a Crown Prosecutor in relation to—
+
+- (a) Revenue and Customs cash recovery proceedings specified in the designation under subsection (2A), or
+- (b) a class or description of Revenue and Customs cash recovery proceedings specified in the designation under subsection (2A).
+
+(3) A person designated under subsection (1) or (2A)[^key-fb53f3b2521c7824a97de29b39916b38] shall exercise any powers so conferred[^key-822578600c414bbed236a8f0e7310d47] subject to instructions given to him by the Director.
+
+(4) Any such instructions may be given so as to apply generally.
+
+(5)[^key-9d90e08a6a4f4a645c75fe0f4da69851] In this section—
+
+- “**bail in criminal proceedings**” has the same meaning as in the Bail Act 1976 (see section 1 of that Act);
+- “**preventative civil orders**” means—
+  - (a) orders within section 3(2)(fa) to (fe) above;
+  - (b) orders under section 360 of the Sentencing Code or section[^key-5f75719869e42a46365af7bb30b47ca1] 5A of the Protection from Harassment Act 1997 (restraining orders); or
+  - (c) orders under section 8 of the Crime and Disorder Act 1998 or section 366 or 369 of the Sentencing Code[^key-6af5d0216e7006d4c84f7ebc2984c792] (parenting orders).
+- “Revenue and Customs cash recovery proceedings” has the meaning given by section 5(1B).[^key-ce833ee8be1ebfacf698333f47144f8b]
+
+(5A) For the purposes of this section a trial begins with the opening of the prosecution case after the entry of a plea of not guilty and ends with the conviction or acquittal of the accused.
+
+(6)[^key-a3a7e1bfc2f319a5e37669dd2ac11584][^c19204631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Details of the following for any year, namely—
+
+- (a) the criteria applied by the Director in determining whether to designate persons under subsection (1) or (2A)[^key-b7c62783525570ada5e661194ef343c2] ;
+- (b) the training undergone by persons so designated; and
+- (c) any general instructions given by the Director under subsection (4) above,
+
+shall be set out in the Director’s report under section 9 of this Act for that year.
+
+(8)[^key-d7bb81cd8c7e3662dd5504517979d80f] As from 1 May 2011 nothing in this section confers on persons designated under subsection (1) or (2A)[^key-81726908fdfc363264397aa04c0c9247] —
+
+- (a) any rights of audience, or
+- (b) any right to conduct litigation,
+
+for the purposes of Part 3 of the Legal Services Act 2007 (reserved legal activities).
+
+(9) As from that date the following provisions of that Act accordingly do not apply to persons designated under subsection (1) or (2A)[^key-405734b30b29ee027314d7ea3d7be8d7] —
+
+- (a) paragraph 1(3) of Schedule 3 (exemption for persons with statutory rights of audience), and
+- (b) paragraph 2(3) of that Schedule (exemption for persons with statutory right to conduct litigation).
+
+(10) The Attorney General may by order make such modifications in the application of any enactment (including this section) in relation to persons designated under subsection (1) or (2A)[^key-8b7bcf1135bf776304901b3ac99321d2] as the Attorney General considers appropriate in consequence of, or in connection with, the matters provided for by subsections (8) and (9).
+
+(11) The Attorney General may also by order amend subsection (2)(a)(ii) so as to omit the words “or offences which are punishable with imprisonment in the case of persons aged 21 or over”.
+
+(12) The power to make an order under subsection (10) or (11) is exercisable by statutory instrument, but a statutory instrument containing such an order may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+### Reports
+
+#### 8. Reports to Director by chief officers of police.
+
+(1) The Attorney General may make regulations requiring the chief officer of any police force to which the regulations are expressed to apply to give to the Director information with respect to every offence of a kind prescribed by the regulations which is alleged to have been committed in his area and in respect of which it appears to him that there is a prima facie case for proceedings.
+
+(2) The regulations may also require every such chief officer to give to the Director such information as the Director may require with respect to such cases or classes of case as he may from time to time specify.
+
+#### 9. Reports by Director to Attorney General.
+
+(1) As soon as practicable after 4th April in any year the Director shall make to the Attorney General a report on the discharge of his functions during the year ending with that date.
+
+(2) The Attorney General shall lay before Parliament a copy of every report received by him under subsection (1) above and shall cause every such report to be published.
+
+(3) The Director shall, at the request of the Attorney General, report to him on such matters as the Attorney General may specify.
+
+### Guidelines
+
+#### 10. Guidelines for Crown Prosecutors.
+
+(1) The Director shall issue a Code for Crown Prosecutors giving guidance on general principles to be applied by them—
+
+- (a) in determining, in any case—
+  - (i) whether proceedings for an offence should be instituted or, where proceedings have been instituted, whether they should be discontinued; or
+  - (ii) what charges should be preferred; and
+- (b) in considering, in any case, representations to be made by them to any magistrates’ court about the mode of trial suitable for that case.
+
+(2)[^key-087a8cc09761ec36d2d04adc33201846] The Director may from time to time make alterations in the Code.
+
+(3)[^key-087a8cc09761ec36d2d04adc33201846] The provisions of the Code shall be set out in the Director’s report under section 9 of this Act for the year in which the Code is issued; and any alteration in the Code shall be set out in his report under that section for the year in which the alteration is made.
+
+### Transfer of staff, etc.
+
+#### 11. Transfer of staff.
+
+(1) The Attorney General may, with the approval of the Treasury, by regulations make such provision as he considers appropriate in relation to the transfer to the staff of the Director of such persons employed by any authority wholly or mainly in connection with the discharge of prosecution functions as may be specified in the regulations.
+
+(2) The regulations may, in particular, make provision—
+
+- (a) as to the method by which any staff or group of staff are transferred;
+- (b) as to the terms and conditions of the transfer; and
+- (c) for the termination of the employment with the authorities concerned of persons to whom the regulations apply (whether or not they are transferred in accordance with the regulations) and as to the consequences of that termination;
+
+and (without prejudice to section 29(2) of this Act) may make different provision with respect to staff employed in different areas.
+
+(3) The regulations may include provision for the determination of questions arising under them and may make such modifications in the application of any enactment as the Attorney General considers appropriate in connection with any provision of the regulations of a kind mentioned in subsection (2)(c) above.
+
+(4) Staff transferred in accordance with the regulations shall be exempt from any requirement to the effect that before a person is appointed to Her Majesty’s Home Civil Service a certificate of qualification must be issued in respect of him by the Civil Service Commissioners.
+
+(5) For the purposes of Chapter I of Part XIV of the[^c3183041] [^c3183051]Employment Rights Act 1996 (as it applies for the purposes of computing an employee’s period and continuity of employment for the purposes of that Act and any other enactment) in its application to a person who is transferred to the staff of the Director as a result of this Part—
+
+- (a) the period of his employment in the employment from which he is transferred shall count as a period of Crown employment; and
+- (b) the change of employment shall not break the continuity of his employment.
+
+(6) Where a person ceases to be a member of the staff of an authority—
+
+- (a) on becoming a member of the staff of the Service in consequence of any regulations made under this section; or
+- (b) having unreasonably refused to be transferred in pursuance of the regulations;
+
+he shall not, on ceasing to be a member of the staff of the authority, be treated for the purposes of any regulations or scheme made under the [^c3183061]Superannuation Act 1972 as having ceased to hold his employment by reason of redundancy.
+
+(7) In this section “**authority** ” means any police authority or other authority or body mentioned in section 17(6)(c) or (d) of this Act; and “**police authority** ”, in relation to the metropolitan police district, means the Commissioner of Police of the Metropolis.
+
+#### 12. Staff commission.[^key-2d4792a70d5ab8c6cece075342d6adcf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. Premises formerly used in connection with Director’s new functions.[^key-985b2203c29d279c3d85469354419e55]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### 14. Control of certain fees and expenses etc. paid by the Service.[^c3183151][^key-12e3d0dc8bab5cee7ffe1381bdce8749]
+
+(1) The Attorney General may, with the approval of the Treasury, by regulations make such provision as he considers appropriate in relation to—
+
+- (a) the fees of any legal representative[^c3183161] briefed to appear on behalf of the Service in any criminal proceedings or extradition proceedings[^c19221151] ; and
+- (b) the costs and expenses of witnesses attending to give evidence at the instance of the Service and, subject to subsection (1A) below, of any other person who in the opinion of the Service necessarily attends for the purpose of the case otherwise than to give evidence[^c3183171].
+
+(1A)[^c3183181] The power conferred on the Attorney General by subsection (1)(b) above only relates to the costs and expenses of an interpreter if the interpreter is required because of the lack of English of a person attending to give evidence at the instance of the Service.
+
+(1B) In subsection (1)(b) above “**attending** ” means attending at the court or elsewhere.
+
+(2) The regulations may, in particular—
+
+- (a) prescribe scales or rates of fees, costs or expenses; and
+- (b) specify conditions for the payment of fees, costs or expenses.
+
+(3)[^c3183201] Regulations made under subsection (1)(b) above may provide that scales or rates of costs and expenses shall be determined by the Attorney General with the consent of the Treasury.
+
+#### 15. Interpretation of Part I.
+
+(1) In this Part—
+
+- “**binding over proceedings** ” means any proceedings instituted (whether by way of complaint under section 115 of the [^c3183381]Magistrates’ Courts Act 1980 or otherwise) with a view to obtaining from a magistrates’ court an order requiring a person to enter into a recognizance to keep the peace or to be of good behaviour;
+- “**Director** ” means the Director of Public Prosecutions;
+- “[^c19221291]**extradition proceedings**” means proceedings under the Extradition Act 2003;
+- “[^c3183391]**legal representative** ” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act);[^key-468ae08a99e3df0d72ed99febca8a352]
+- “**police force** ” has the same meaning as in section 3 of this Act;
+- “**prosecution functions** ” means functions which by virtue of this Part become functions of the Director;
+- “**public authority** ” has the same meaning as in section 17 of this Act;
+- “[^key-a80715f0825a9e7971eb240e8fdfda62][^c19221351] **relevant prosecutor** ”, “**requisition**” , “[^key-95e4db52b0edadbd93f4db7d9d54f65d]**single justice procedure notice**” and “**written charge**” have the same meaning as in section 29 of the Criminal Justice Act 2003;
+- “**Service** ” means the Crown Prosecution Service; . . .[^c3183401]
+- [^c3183401] . . ..
+
+(2) For the purposes of this Part, proceedings in relation to an offence are instituted—
+
+- (a) where a justice of the peace issues a summons under section 1 of the [^c3183421]Magistrates’ Courts Act 1980, when the information for the offence is laid before him;
+- (b) where a justice of the peace issues a warrant for the arrest of any person under that section, when the information for the offence is laid before him;
+- (ba)[^c19221371] where a relevant prosecutor[^key-0dd3f76ab1754678d605676a2a04c773] issues a written charge and requisition for the offence, when the written charge and requisition are issued;
+- (bb)[^key-4ae5ea93a3a19964d9f6ef6d43ccc3a9] where a relevant prosecutor issues a written charge and single justice procedure notice, when the written charge and single justice procedure notice are issued;
+- (c) where a person is charged with the offence after being taken into custody without a warrant, when he is informed on the particulars of the charge;
+- (d) where a bill of indictment is preferred under section 2 of the [^c3183431]Administration of Justice (Miscellaneous Provisions) Act 1933 in a case falling within paragraph (b) or (ba)[^key-33a84b4da26b700383bd1ec612997749] of subsection (2) of that section, when the bill of indictment is preferred before the court;
+
+and where the application of this subsection would result in there being more than one time for the institution of the proceedings, they shall be taken to have been instituted at the earliest of those times.
+
+(3) For the purposes of this Part, references to the conduct of any proceedings include references to the proceedings being discontinued and to the taking of any steps (including the bringing of appeals and making of representations in respect of applications for bail) which may be taken in relation to them.
+
+(4) For the purposes of sections 3(2)(b), 5, 6 , 7(1) and 7A[^key-c34832355fd781c91cc4f7977cc49fd7] of this Act, binding over proceedings shall be taken to be criminal proceedings.
+
+(5) For the purposes of section 5 of this Act, proceedings begun by summons issued under section 3 of the [^c3183441]Obscene Publications Act 1959 (forfeiture of obscene articles) shall be taken to be criminal proceedings.
+
+(6) The functions which become functions of the Director by virtue of this Part shall not be treated as transferred functions[^c3183451] for the purposes of paragraph 1(2) of Schedule 3 to the [^c3183461]Pensions (Increase) Act 1971 (meaning of “last employing authority ”).
+
+(7)[^key-40af88af389aa88f3bae6fb8f387e44e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Defence, prosecution and third party Costs in Criminal Cases[^key-691c3fc4f15e42804caa6b628ae758f6]
+
+### Award of costs out of central funds
+
+#### 16. Defence costs.[^c3183851]
+
+(1) Where—
+
+- (a) an information laid before a justice of the peace for any area, charging any person with an offence, is not proceeded with;
+- (b)[^key-779876d47313a70de33e7a37186312c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c3183861][^key-e148e1d3f4d5aba00ff614dd45a22b27] a magistrates’ court dealing summarily with an offence dismisses the information;
+
+that court or, in a case falling within paragraph (a) above, a magistrates’ court for that area, may make an order in favour of the accused for a payment to be made out of central funds in respect of his costs (a “defendant’s costs order ”).
+
+(2) Where—
+
+- (a) any person is not tried for an offence for which he has been indicted or sent[^c19219511] for trial; or
+- (aa)[^key-5cc9a171343952b9ca043ce1959df5c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any person is tried on indictment and acquitted on any count in the indictment;
+
+the Crown Court may make a defendant’s costs order in favour of the accused.
+
+(3) Where a person convicted of an offence by a magistrates’ court appeals to the Crown Court under section 108 of the [^c3183891]Magistrates’ Courts Act 1980 (right of appeal against conviction or sentence) and, in consequence of the decision on appeal—
+
+- (a) his conviction is set aside; or
+- (b) a less severe punishment is awarded;
+
+the Crown Court may make a defendant’s costs order in favour of the accused.
+
+(4) Where the Court of Appeal—
+
+- (a) allows an appeal under Part I of the [^c3183901]Criminal Appeal Act 1968 against—
+  - (i) conviction;
+  - (ii) a verdict of not guilty by reason of insanity; or
+  - (iii)[^c3183911] a finding under the Criminal Procedure (Insanity) Act 1964 that the appellant is under a disability, or that he did the act or made the omission charged against him;
+- (aa)[^c3183921] directs under section 8(1B) of the Criminal Appeal Act 1968 the entry of a judgment and verdict of acquittal;
+- (b) on an appeal under that Part against conviction—
+  - (i) substitutes a verdict of guilty of another offence;
+  - (ii) in a case where a special verdict has been found, orders a different conclusion on the effect of that verdict to be recorded; or
+  - (iii) is of the opinion that the case falls within paragraph (a) or (b) of section 6(1) of that Act (cases where the court substitutes a finding of insanity or unfitness to plead); [^c19219141]. . .
+- (c) on an appeal under that Part against sentence, exercises its powers under section 11(3) of that Act (powers where the court considers that the appellant should be sentenced differently for an offence for which he was dealt with by the court below);
+
+or[^c19219241]
+
+- (d) allows, to any extent, an appeal under section 16A of that Act (appeal against order made in cases of insanity or unfitness to plead);
+
+the court may make a defendant’s costs order in favour of the accused.
+
+(4A)[^c3183931] The court may also make a defendant’s costs order in favour of the accused on an appeal under section 9(11) of the Criminal Justice Act 1987 (appeals against orders or rulings at preparatory hearings) or section 35(1) of the Criminal Procedure and Investigations Act 1996[^c19219491] or under Part 9 of the Criminal Justice Act 2003[^c19219451] .
+
+(5) Where—
+
+- (a) any proceedings in a criminal cause or matter are determined before a Divisional Court of the Queen’s Bench Division;
+- (b) the Supreme Court[^key-efe92ba4f83b1b8cdad558e1908009d4] determines an appeal, or application for leave to appeal, from such a Divisional Court in a criminal cause or matter;
+- (c) the Court of Appeal determines an application for leave to appeal to the Supreme Court under Part II of the [^c3183941]Criminal Appeal Act 1968; or
+- (d) the Supreme Court determines an appeal, or application for leave to appeal, under Part II of that Act;
+
+the court may make a defendant’s costs order in favour of the accused.
+
+(6) A defendant’s costs order shall, subject to the following provisions of this section, be for the payment out of central funds, to the person in whose favour the order is made, of such amount as the court considers reasonably sufficient to compensate him for any expenses properly incurred by him in the proceedings.
+
+(6A)[^key-9ee1e78e9a7d2b24cb9328d301b1af04] Where the court considers that there are circumstances that make it inappropriate for the accused to recover the full amount mentioned in subsection (6), a defendant's costs order must be for the payment out of central funds of such lesser amount as the court considers just and reasonable.
+
+(6B) Subsections (6) and (6A) have effect subject to—
+
+- (a) section 16A, and
+- (b) regulations under section 20(1A)(d).
+
+(6C) When making a defendant's costs order, the court must fix the amount to be paid out of central funds in the order if it considers it appropriate to do so and—
+
+- (a) the accused agrees the amount, or
+- (b) subsection (6A) applies.
+
+(6D) Where the court does not fix the amount to be paid out of central funds in the order—
+
+- (a) it must describe in the order any reduction required under subsection (6A), and
+- (b) the amount must be fixed by means of a determination made by or on behalf of the court in accordance with procedures specified in regulations made by the Lord Chancellor.
+
+(7)[^key-3efa0b99581530a820af0498079ccfec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c3183951]
+
+(9)[^key-b9252afa875f8a1049bdab56d623ffd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) Subsection (6) above shall have effect, in relation to any case falling within subsection (1)(a) or (2)(a) above, as if for the words “in the proceedings ” there were substituted the words “in or about the defence ”.
+
+(11) Where a person ordered to be retried is acquitted at his retrial, the costs which may be ordered to be paid out of central funds under this section shall include—
+
+- (a) any costs which, at the original trial, could have been ordered to be so paid under this section if he had been acquitted; and
+- (b) if no order was made under this section in respect of his expenses on appeal, any sums for the payment of which such an order could have been made.
+
+(12)[^key-dbbf22e6380ca049a6bb291737ac88e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16A. Legal costs[^key-48339204d5971b19d7794a593b317254]
+
+(1) A defendant's costs order may not require the payment out of central funds of an amount that includes an amount in respect of the accused's legal costs, subject to the following provisions of this section.
+
+(2) Subsection (1) does not apply where condition A, B , C or D[^key-ff9219ade8044a41351643b63b58db3c] is met.
+
+(3) Condition A is that the accused is an individual and the order is made under—
+
+- (a) section 16(1),
+- (b) section 16(3), or
+- (c) section 16(4)(a)(ii) or (iii) or (d).
+
+(4) Condition B is that the accused is an individual and the legal costs were incurred in proceedings in a court below which were—
+
+- (a) proceedings in a magistrates' court, or
+- (b) proceedings on an appeal to the Crown Court under section 108 of the Magistrates' Courts Act 1980 (right of appeal against conviction or sentence).
+
+(5) Condition C is that the legal costs were incurred in proceedings in the Supreme Court.
+
+(5A)[^key-617dae0a039c630ffca036b6703a5d71] Condition D is that—
+
+- (a) the accused is an individual,
+- (b) the order is made under section 16(2),
+- (c) the legal costs were incurred in relevant Crown Court proceedings, and
+- (d) the Director of Legal Aid Casework has made a determination of financial ineligibility in relation to the accused and those proceedings
+
+  (and condition D continues to be met if the determination is withdrawn).
+
+(6) The Lord Chancellor may by regulations make provision about exceptions from the prohibition in subsection (1), including—
+
+- (a) provision amending this section by adding, modifying or removing an exception, and
+- (b) provision for an exception to arise where a determination has been made by a person specified in the regulations.
+
+(7) Regulations under subsection (6) may not remove or limit the exception provided by condition C.
+
+(8) Where a court makes a defendant's costs order requiring the payment out of central funds of an amount that includes an amount in respect of legal costs, the order must include a statement to that effect.
+
+(9) Where, in a defendant's costs order, a court fixes an amount to be paid out of central funds that includes an amount in respect of legal costs incurred in proceedings in a court other than the Supreme Court, the latter amount must not exceed an amount specified by regulations made by the Lord Chancellor.
+
+(10) In this section—
+
+- “**legal costs**” means fees, charges, disbursements and other amounts payable in respect of advocacy services or litigation services including, in particular, expert witness costs;
+- “**advocacy services**” means any services which it would be reasonable to expect a person who is exercising, or contemplating exercising, a right of audience in relation to any proceedings, or contemplated proceedings, to provide;
+- “**expert witness costs**” means amounts payable in respect of the services of an expert witness, including amounts payable in connection with attendance by the witness at court or elsewhere;
+- “**litigation services**” means any services which it would be reasonable to expect a person who is exercising, or contemplating exercising, a right to conduct litigation in relation to proceedings, or contemplated proceedings, to provide.
+
+(11)[^key-28c611cc84efb04168aec80d546a9a91] In subsection (5A)—
+
+- “determination of financial ineligibility”, in relation to an individual and proceedings, means a determination under section 21 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 that the individual’s financial resources are such that the individual is not eligible for representation under section 16 of that Act for the purposes of the proceedings;
+- “Director of Legal Aid Casework” means the civil servant designated under section 4(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+- “relevant Crown Court proceedings” means any of the following—
+  - (a) proceedings in the Crown Court in respect of an offence for which the accused has been sent by a magistrates’ court to the Crown Court for trial;
+  - (b) proceedings in the Crown Court relating to an offence in respect of which a bill of indictment has been preferred by virtue of section 2(2)(b) of the Administration of Justice (Miscellaneous Provisions) Act 1933;
+  - (c) proceedings in the Crown Court following an order by the Court of Appeal or the Supreme Court for a retrial.
+
+#### 17. Prosecution costs.[^c3183971]
+
+(1) Subject to subsection (2)[^key-bd5c8efe9ca14155445c82c9b37ecd1c] below, the court may—
+
+- (a) in any proceedings in respect of an indictable offence; and
+- (b) in any proceedings before a Divisional Court of the Queen’s Bench Division or the Supreme Court[^key-6c2ca5e3befda051462ee0934f8eee4a] in respect of a summary offence;
+
+make an order in favour of the prosecutor for a payment to be made out of central funds in respect of the prosecutor’s expenses.[^key-1cc4beaaacd1fb04aa9b7010094e8151]
+
+(2) No order under this section may be made in favour of—
+
+- (a) a public authority; or
+- (b) a person acting—
+  - (i) on behalf of a public authority; or
+  - (ii) in his capacity as an official appointed by such an authority.
+
+(2ZA)[^key-8be7c83c65678c7b72462be68a032312] An order under this section is, subject to the following provisions of this section, to be for the payment out of central funds to the prosecutor of such amount as the court considers reasonably sufficient to compensate the prosecutor for any expenses properly incurred by them in the proceedings.
+
+(2A)[^key-0573ef34f99c8b98e3ebbef063d6de83] Where the court considers that there are circumstances that make it inappropriate for the prosecution to recover the full amount mentioned in subsection (2ZA)[^key-5240eb98652008cd711f1ef8fdbc6353], an order under this section must be for the payment out of central funds of such lesser amount as the court considers just and reasonable.
+
+(2AA)[^key-5c822a8ec46b4adf78512bb76b770fb5] Subsections (2ZA) and (2A) have effect subject to regulations under section 20(1A)(d).
+
+(2B) When making an order under this section, the court must fix the amount to be paid out of central funds in the order if it considers it appropriate to do so and—
+
+- (a) the prosecutor agrees the amount, or
+- (b) subsection (2A) applies.
+
+(2C) Where the court does not fix the amount to be paid out of central funds in the order—
+
+- (a) it must describe in the order any reduction required under subsection (2A), and
+- (b) the amount must be fixed by means of a determination made by or on behalf of the court in accordance with procedures specified in regulations made by the Lord Chancellor.
+
+(3)[^key-7b4adb825b70af177f982491c059dffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-7b4adb825b70af177f982491c059dffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where the conduct of proceedings to which subsection (1) above applies is taken over by the Crown Prosecution Service, that subsection shall have effect as if it referred to the prosecutor who had the conduct of the proceedings before the intervention of the Service and to expenses incurred by him up to the time of intervention.
+
+(6) In this section “public authority ” means—
+
+- (a) a police force within the meaning of section 3 of this Act;
+- (b) the Crown Prosecution Service or any other government department;
+- (c) a local authority or other authority or body constituted for purposes of—
+  - (i) the public service or of local government; or
+  - (ii) carrying on under national ownership any industry or undertaking or part of an industry or undertaking; or
+- (d) any other authority or body whose members are appointed by Her Majesty or by any Minister of the Crown or government department or whose revenues consist wholly or mainly of money provided by Parliament.
+
+### Award of costs against accused
+
+#### 18. Award of costs against accused.[^c3184011]
+
+(1) Where—
+
+- (a) any person is convicted of an offence before a magistrates’ court;
+- (b) the Crown Court dismisses an appeal against such a conviction or against the sentence imposed on that conviction; or
+- (c) any person is convicted of an offence before the Crown Court;
+
+the court may make such order as to the costs to be paid by the accused to the prosecutor as it considers just and reasonable.
+
+(2) Where the Court of Appeal dismisses—
+
+- (a) an appeal or application for leave to appeal under Part I of the [^c3184021]Criminal Appeal Act 1968; or
+- (b) an application by the accused for leave to appeal to the Supreme Court[^key-10dfad4271cc9afff3166005ac7ab27e] under Part II of that Act;
+
+it may make such order as to the costs to be paid by the accused, to such person as may be named in the order, as it considers just and reasonable or[^c3184031]
+
+- (c) an appeal or application for leave to appeal under section 9(11) of the Criminal Justice Act 1987;
+
+or[^c19221391]
+
+- (d) an appeal or application for leave to appeal under section 35(1) of the Criminal Procedure and Investigations Act 1996.
+
+(2A)[^c19221411] Where the Court of Appeal reverses or varies a ruling on an appeal under Part 9 of the Criminal Justice Act 2003, it may make such order as to the costs to be paid by the accused, to such person as may be named in the order, as it considers just and reasonable.
+
+(3) The amount to be paid by the accused in pursuance of an order under this section shall be specified in the order.
+
+(4) Where any person is convicted of an offence before a magistrates’ court and—
+
+- (a) under the conviction the court orders payment of any sum as a fine, penalty, forfeiture or compensation; and
+- (b) the sum so ordered to be paid does not exceed £5;
+
+the court shall not order the accused to pay any costs under this section unless in the particular circumstances of the case it considers it right to do so.
+
+(5) Where any person under the age of eighteen[^c3184041] is convicted of an offence before a magistrates’ court, the amount of any costs ordered to be paid by the accused under this section shall not exceed the amount of any fine imposed on him.
+
+(6) Costs ordered to be paid under subsection (2) or (2A)[^c19221431] above may include the reasonable cost of any transcript of a record of proceedings made in accordance with rules of court made for the purposes of section 32 of the Act of 1968.
+
+### Other awards
+
+#### 19. Provision for orders as to costs in other circumstances.
+
+(1) The Lord Chancellor may by regulations make provision empowering magistrates’ courts, the Crown Court and the Court of Appeal, in any case where the court is satisfied that one party to criminal proceedings has incurred costs as a result of an unnecessary or improper act or omission by, or on behalf of, another party to the proceedings, to make an order as to the payment of those costs.
+
+(2) Regulations made under subsection (1) above may, in particular—
+
+- (a) allow the making of such an order at any time during the proceedings;
+- (b) make provision as to the account to be taken, in making such an order, of any other order as to costs . . . [^c3184601] which has been made in respect of the proceedings or[^c3184611] of whether, for the purposes of the proceedings, representation has been provided under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-f4de3d05d6dd2b5a79cc652d34fc4f6b] ;
+- (c) make provision as to the account to be taken of any such order in the making of any other order as to costs in respect of the proceedings; and
+- (d) contain provisions similar to those in section 18(4) and (5) of this Act.
+
+(3) The Lord Chancellor may by regulations make provision for the payment out of central funds, in such circumstances and in relation to such criminal proceedings as may be specified, of such sums as appear to the court to be reasonably necessary—
+
+- (a) to compensate any witness in the proceedings , and any other person who in the opinion of the court necessarily attends for the purpose of the proceedings otherwise than to give evidence,[^c3184631] for the expense, trouble or loss of time properly incurred in or incidental to his attendance;
+- (b) to cover the proper expenses of an interpreter who is required because of the accused’s lack of English;
+- (c) to compensate a duly qualified medical practitioner who—
+  - (i) makes a report otherwise than in writing for the purpose of section 11 of the[^c3184641] [^c3184651]Powers of Criminal Courts (Sentencing) Act 2000 (remand for medical examination); or
+  - (ii) makes a written report to a court in pursuance of a request within subsection (3B) below;[^key-1053212efd2efe2db450bf0859d8d25b]
+
+  for the expenses properly incurred in or incidental to his reporting to the court.
+- (d)[^c3184671] to cover the proper fee or costs of a person appointed by the Crown Court under section 4A of the Criminal Procedure (Insanity) Act 1964 to put the case for the defence.
+- (e)[^c3184621] to cover the proper fee or costs of a legal representative appointed under section 38(4) of the Youth Justice and Criminal Evidence Act 1999 (defence representation for purposes of cross-examination) and any expenses properly incurred in providing such a person with evidence or other material in connection with his appointment.
+
+(3ZA)[^key-8eabe686965ab4d9e5e9a929ec4715b2] In relation to a sum that may be required by a court other than the Supreme Court to be paid out of central funds under regulations under subsection (3)—
+
+- (a) the requirement under that subsection for the sum to be such sum as the court considers reasonably necessary to cover or compensate for expenses, fees, costs, trouble or losses is subject to regulations made under section 20(1A)(d), and
+- (b) regulations under subsection (3) may make provision accordingly.
+
+(3A)[^c3184681] In subsection (3)(a) above “**attendance** ” means attendance at the court or elsewhere.
+
+(3B)[^key-88f16761fe27b3ddfa530488f9c405e5] A request is within this subsection if—
+
+- (a) it is a request to a registered medical practitioner to make a written or oral report on the medical condition of an offender or defendant; and
+- (b) it is made by a court—
+  - (i) for the purpose of determining whether or not to include a mental health treatment requirement in a community order or youth rehabilitation order[^key-9f6e5ee7f3b6728242dc12ce1239b43d] or make an order under section 37 of the Mental Health Act 1983 (hospital orders and guardianship orders) or otherwise for the purpose of determining the most suitable method of dealing with an offender; or
+  - (ii) in exercise of the powers conferred by section 11 of the Powers of Criminal Courts (Sentencing) Act 2000 (remand of a defendant for medical examination).
+
+(3C)[^key-9884d62b4a986f4e6923677d42d6ae3d] For the purposes of subsection (3B)(b)(i)—
+
+- “[^key-ab4725b14a2d2b4c1ade77a965345b5e]**community order**” has the meaning given by section 200 of the Sentencing Code;
+- “**mental health treatment requirement**” means—
+  - (a) in relation to a community order, a mental health treatment requirement within the meaning given by paragraph 16 of Schedule 9 to the Sentencing Code[^key-d7957c0afe837c415df362dec2048f59], and
+  - (b) in relation to a youth rehabilitation order, a mental health treatment requirement within the meaning given by paragraph 28 of Schedule 6 to that Code[^key-3e79c2e4d989cc08dd7f68ad80e9162c];
+- “**youth rehabilitation order**” has the meaning given by section 173 of the Sentencing Code[^key-7bbd5f4e4a7ab0dbabc84152ce66521f].
+
+(3D)[^key-e9af7ecbdec2e99a942ba5e742d0d01a] Regulations under subsection (3) may make provision generally or only in relation to particular descriptions of persons, expenses, fees, costs, trouble or losses.
+
+(4) The Court of Appeal may order the payment out of central funds of such sums as appear to it to be reasonably sufficient to compensate an appellant who is not in custody and who appears before it on, or in connection with, his appeal under Part I of the [^c3184691]Criminal Appeal Act 1968.
+
+(4A)[^key-1a9eecf0aa4ed4a8a73c7e870112f785] Subsection (4) has effect subject to regulations under section 20(1A)(d).
+
+(4B) An order under subsection (4) may not require the payment out of central funds of a sum that includes a sum in respect of legal costs (as defined in section 16A), except where regulations made by the Lord Chancellor provide otherwise.
+
+(4C) Regulations under subsection (4B) may, in particular, include—
+
+- (a) provision for an exception to arise where a determination has been made by a person specified in the regulations,
+- (b) provision requiring the court, when it orders the payment of a sum that includes a sum in respect of legal costs, to include a statement to that effect in the order, and
+- (c) provision that the court may not order the payment of a sum in respect of legal costs exceeding an amount specified in the regulations.
+
+(5) The Lord Chancellor may by regulations provide that any provision made by or under this Part which would not otherwise apply in relation to any category of proceedings in which an offender is before a magistrates’ court or the Crown Court shall apply in relation to proceedings of that category, subject to any specified modifications.
+
+#### 19A. Costs against legal representatives etc.[^c3184741][^c3184731]
+
+(1) In any criminal proceedings—
+
+- (a) the Court of Appeal;
+- (b) the Crown Court; or
+- (c) a magistrates’ court,
+
+may disallow, or (as the case may be) order the legal or other representative concerned to meet, the whole of any wasted costs or such part of them as may be determined in accordance with regulations.
+
+(2) Regulations shall provide that a legal or other representative against whom action is taken by a magistrates’ court under subsection (1) may appeal to the Crown Court and that a legal or other representative against whom action is taken by the Crown Court under subsection (1) may appeal to the Court of Appeal.
+
+(3) In this section—
+
+- “**legal or other representative** ”, in relation to any proceedings, means a person who is exercising a right of audience, or a right to conduct litigation, on behalf of any party to the proceedings;
+- “**regulations** ” means regulations made by the Lord Chancellor; and
+- “**wasted costs** ” means any costs incurred by a party—
+  - (a) as a result of any improper, unreasonable, or negligent act or omission on the part of any representative or any employee of a representative; or
+  - (b) which, in the light of any such act or omission occurring after they were incurred, the court considers it is unreasonable to expect that party to pay.
+
+#### 19B. Provision for award of costs against third parties[^c19223461]
+
+(1) The Lord Chancellor may by regulations make provision empowering magistrates' courts, the Crown Court and the Court of Appeal to make a third party costs order if the condition in subsection (3) is satisfied.
+
+(2) A “third party costs order” is an order as to the payment of costs incurred by a party to criminal proceedings by a person who is not a party to those proceedings (“**the third party**”).
+
+(3) The condition is that—
+
+- (a) there has been serious misconduct (whether or not constituting a contempt of court) by the third party, and
+- (b) the court considers it appropriate, having regard to that misconduct, to make a third party costs order against him.
+
+(4) Regulations made under this section may, in particular—
+
+- (a) specify types of misconduct in respect of which a third party costs order may not be made;
+- (b) allow the making of a third party costs order at any time;
+- (c) make provision for any other order as to costs which has been made in respect of the proceedings to be varied on, or taken account of in, the making of a third party costs order;
+- (d) make provision for account to be taken of any third party costs order in the making of any other order as to costs in respect of the proceedings.
+
+(5) Regulations made under this section in relation to magistrates' courts must provide that the third party may appeal to the Crown Court against a third party costs order made by a magistrates' court.
+
+(6) Regulations made under this section in relation to the Crown Court must provide that the third party may appeal to the Court of Appeal against a third party costs order made by the Crown Court.
+
+### Supplemental
+
+#### 20. Regulations.[^c3184971]
+
+(1)[^c19204021] The Lord Chancellor may make regulations for carrying this Part into effect [^key-3f77b5f1a3a4f7761acd152c9f5ce3e3]...
+
+(1A)[^key-4f9373731dc3340f91b303b05d4c53e0][^key-7a25c8b29a545e696ba5bf31389bfcaa][^key-38d4e8e903898825ececce693243cdc6][^key-d047181e98724a4ab0d80241767374d4][^key-caecb740eec3e95c9c5efb320c92c180] The Lord Chancellor may by regulations—
+
+- (a) make provision as to the amounts that may be ordered to be paid out of central funds in pursuance of a costs order, whether by specifying rates or scales or by making other provision as to the calculation of the amounts,
+- (b) make provision as to the circumstances in which and conditions under which such amounts may be paid or ordered to be paid,
+- (c) make provision requiring amounts required to be paid out of central funds by a costs order to be calculated having regard to regulations under paragraphs (a) and (b),
+- (d) make provision requiring amounts required to be paid to a person out of central funds by a relevant costs order to be calculated in accordance with such regulations (whether or not that results in the fixing of an amount that the court considers reasonably sufficient or necessary to compensate the person), and
+- (e) make provision as to the review of determinations of amounts required to be paid out of central funds by costs orders.
+
+(1B) In subsection (1A)(d) “**relevant costs order**” means a costs order other than—
+
+- (a)[^key-bbe7460a5492e62442c21bebf5aa1324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) so much of a costs order made by the Supreme Court as relates to expenses, fees, costs, trouble or losses incurred in proceedings in that court.
+
+(1C) Regulations under subsection (1A) may, in particular—
+
+- (a) make different provision in relation to amounts to be paid in respect of different expenses, fees, costs, trouble and losses,
+- (b) make different provision in relation to different costs orders and different areas, and
+- (c) make different provision in relation to the fixing of an amount in a costs order and the fixing of an amount by means of a determination.
+
+(2) The Lord Chancellor may by regulations make provision for the recovery of sums paid by the Lord Chancellor under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 or out of central funds in accordance with a costs order[^key-f5b081579c78d360d94d47473a89dd3c] in cases where—
+
+- (a) a costs order has been made against a person[^c3185001]; and
+- (b) the person in whose favour the order was made is a legally assisted person or a person in whose favour a defendant’s costs order or, as the case may be, an order under section 17 of this Act has been made.
+
+(3)[^c19204021][^key-61d222709ea028329ccbb9246f0f1488][^key-d1512410480f4a343dc22b74207f6799][^key-57c60b36462cd09c9c82a7314c3b1613][^key-6ec63213b3b6854b3b14256443ea1823] Regulations made under subsection (1A)[^key-7e8cc15c4415954e08be3e38f6a35c8c] above may provide that provision as to the calculation of amounts[^key-1d82cb8620ecf170c6c89be0f87d6fc9] payable out of central funds under a costs order (whether in the form of rates or scales or other provision)[^key-5d8ccceb2b217113128f75cc94766a44] shall be determined by the Lord Chancellor with the consent of the Treasury.
+
+(4) Regulations made under subsection (2) above may, in particular—
+
+- (a) require the person mentioned in paragraph (a) of that subsection to pay sums due under the costs order in accordance with directions given by the Lord Chancellor (either generally or in respect of the particular case); and
+- (b) enable the Lord Chancellor to enforce those directions in cases to which they apply.
+
+(4A)[^key-3e7a9502b72e4c4e214fe2d0844d4613] Before making regulations under subsection (1A) that relate to costs orders under section 17, the Lord Chancellor must—
+
+- (a) consult—
+  - (i) the Law Society,
+  - (ii) the General Council of the Bar, and
+  - (iii) such other persons as the Lord Chancellor considers appropriate, and
+- (b) publish an impact assessment in respect of the regulations.
+
+(5)[^c19204111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Any regulations under this Part may contain such incidental , supplemental and transitional[^c19204051] provisions as the Lord Chancellor considers appropriate.
+
+(7) Before making any regulations under section 19(1) , 19A or 19B[^c19204071] of this Act which affect the procedure of any court, the Lord Chancellor shall so far as is reasonably practicable consult any rule committee by whom, or on whose advice, rules of procedure for the court may be made or whose concurrence is required to any such rules.
+
+(8) In this section “**costs order** ” means—
+
+- (a) an order made under or by virtue of this Part for payment to be made—
+  - (i) out of central funds; or
+  - (ii) by any person[^c19204091]; or
+- (b) an order made in a criminal case by the Supreme Court[^key-754937fefd08f70bb165fd5c98c9f7a6] for the payment of costs by a party to proceedings.
+
+#### 21. Interpretation, etc.
+
+(1) In this Part—
+
+- “[^c3185281]**accused** ” and “**appellant** ”, in a case where section 44A of the Criminal Appeal Act 1968 (death of convicted person) applies, include the person approved under that section;
+- “**defendant’s costs order** ” has the meaning given in section 16 of this Act;
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c3185291]
+- “[^c3185301]**legally assisted person** ”, in relation to any proceedings, means a person for whom advice, assistance or representation is provided under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-b827e42c508f65b806fdff0859fc2540] ;
+- “proceedings ” includes—
+- (a) proceedings in any court below; and
+- (b) in relation to the determination of an appeal by any court, any application made to that court for leave to bring the appeal; and
+
+“**witness** ” means any person properly attending to give evidence, whether or not he gives evidence or is called at the instance of one of the parties or of the court, but does not include a person attending as a witness to character only unless the court has certified that the interests of justice required his attendance.
+
+(2) Except as provided by or under this Part no costs shall be allowed on the hearing or determination of, or of any proceedings preliminary or incidental to, an appeal to the Court of Appeal under Part I of the [^c3185321]Criminal Appeal Act 1968.
+
+(3) Subject to rules of court made under section 53(1) of the [^c3185331] Senior Courts Act 1981[^key-a66d76c3aae357b8a1f80cfead92cb62] (power by rules to distribute business of Court of Appeal between its civil and criminal divisions), the jurisdiction of the Court of Appeal under this Part, or under regulations made under this Part, shall be exercised by the criminal division of that Court; and references in this Part to the Court of Appeal shall be construed as references to that division.
+
+(4) For the purposes of sections 16 , 16A[^key-42c5c261dd782937cc193654335d9248] and 17 of this Act, the costs of any party to proceedings shall be taken to include the expense of compensating any witness for the expenses, trouble or loss of time properly incurred in or incidental to his attendance.
+
+(4A)[^c3185341] Where one party to any proceedings is a legally assisted person then—
+
+- (a) for the purposes of sections 16 , 16A[^key-b9991f6bb09ef492c590dd1f0a2540b5] and 17 of this Act, his costs shall be taken not to include the cost of advice, assistance or representation provided to the person under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-1f91f307046be35a0099a53b982aabc0] ; and
+- (b) for the purposes of sections 18 ,[^c3185361] to 19B[^c19204121] of this Act, his costs shall be taken to include the cost of such advice, assistance or representation[^key-9899745d97da7844af7c8a846ba9e377] ;
+
+(5) Where, in any proceedings in a criminal cause or matter or in either of the cases mentioned in subsection (6) below, an interpreter is required because of the accused’s lack of English, the expenses properly incurred on his employment shall not be treated as costs of any party to the proceedings.
+
+(6) The cases are—
+
+- (a) where an information charging the accused with an offence is laid before a justice of the peace [^c3185371]. . . but not proceeded with and the expenses are incurred on the employment of the interpreter for the proceedings on the information; and
+- (b) where the accused is sent[^c19204141] for trial but not tried and the expenses are incurred on the employment of the interpreter for the proceedings in the Crown Court.
+
+## PART 2A — Court costs in criminal cases[^key-800474ab6b3faf05c74623e322e122f6]
+
+### 21A. Criminal courts charge[^key-8d9f040d83b5ad21022b51ec634f8083]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21B. Criminal courts charge: courts and times[^key-8d9f040d83b5ad21022b51ec634f8083]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21C. Amount of criminal courts charge[^key-8d9f040d83b5ad21022b51ec634f8083]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21D. Interest on criminal courts charge[^key-8d9f040d83b5ad21022b51ec634f8083]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21E. Power to remit criminal courts charge[^key-8d9f040d83b5ad21022b51ec634f8083]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21F. Regulations under this Part[^key-8d9f040d83b5ad21022b51ec634f8083]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part III — Miscellaneous
+
+### 22. Power of Secretary of State to set time limits in relation to preliminary stages of criminal proceedings.[^c3186881]
+
+(1)[^c3186891] The Secretary of State may by regulations make provision, with respect to any specified preliminary stage of proceedings for an offence, as to the maximum period—
+
+- (a) to be allowed to the prosecution to complete that stage;
+- (b) during which the accused may, while awaiting completion of that stage, be—
+  - (i) in the custody of a magistrates’ court; or
+  - (ii) in the custody of the Crown Court;
+
+  in relation to that offence.
+
+(2)[^c3186891] The regulations may, in particular—
+
+- (a)[^c3186911] be made so as to apply only in relation to proceedings instituted in specified areas, or proceedings of, or against persons of, specified classes or descriptions;
+- (b) make different provision with respect to proceedings instituted in different areas, or different provision with respect to proceedings of, or against persons of, different classes or descriptions;
+- (c) make such provision with respect to the procedure to be followed in criminal proceedings as the Secretary of State considers appropriate in consequence of any other provision of the regulations;
+- (d) provide for the [^c3186921]Magistrates’ Court Act 1980 and the [^c3186931]Bail Act 1976 to apply in relation to cases to which custody or overall time limits apply subject to such modifications as may be specified (being modifications which the Secretary of State considers necessary in consequence of any provision made by the regulations); and
+- (e) make such transitional provision in relation to proceedings instituted before the commencement of any provision of the regulations as the Secretary of State considers appropriate.
+
+(3)[^c3186941] The appropriate court may, at any time before the expiry of a time limit imposed by the regulations, extend, or further extend, that limit; but the court shall not do so unless it is satisfied—
+
+- (a) that the need for the extension is due to—
+  - (i) the illness or absence of the accused, a necessary witness, a judge or a magistrate;
+  - (ii) a postponement which is occasioned by the ordering by the court of separate trials in the case of two or more accused or two or more offences; or
+  - (iii) some other good and sufficient cause; and
+- (b) that the prosecution has acted with all due diligence and expedition.
+
+(4) Where, in relation to any proceedings for an offence, an overall time limit has expired before the completion of the stage of the proceedings to which the limit applies, the appropriate court shall stay the proceedings[^c3186951].
+
+(5) Where—
+
+- (a) a person escapes from the custody of a magistrates’ court or the Crown Court before the expiry of a custody time limit which applies in his case; or
+- (b) a person who has been released on bail in consequence of the expiry of a custody time limit—
+  - (i) fails to surrender himself into the custody of the court at the appointed time; or
+  - (ii) is arrested by a constable on a ground mentioned in section 7(3)(b) of the Bail Act 1976 (breach, or likely breach, of conditions of bail);
+
+  the regulations shall, so far as they provide for any custody time limit in relation to the preliminary stage in question, be disregarded.
+
+(6) Subsection (6A) below applies where[^c3186961]—
+
+- (a) a person escapes from the custody of a magistrates’ court or the Crown Court; or
+- (b) a person who has been released on bail fails to surrender himself into the custody of the court at the appointed time;
+
+and is accordingly unlawfully at large for any period.
+
+(6A)[^c3186981] The following, namely—
+
+- (a) the period for which the person is unlawfully at large; and
+- (b) such additional period (if any) as the appropriate court may direct, having regard to the disruption of the prosecution occasioned by—
+  - (i) the person’s escape or failure to surrender; and
+  - (ii) the length of the period mentioned in paragraph (a) above,
+
+  shall be disregarded, so far as the offence in question is concerned, for the purposes of the overall time limit which applies in his case in relation to the stage which the proceedings have reached at the time of the escape or, as the case may be, at the appointed time.
+
+(6B)[^c19222021] Any period during which proceedings for an offence are adjourned pending the determination of an appeal under Part 9 of the Criminal Justice Act 2003 shall be disregarded, so far as the offence is concerned, for the purposes of the overall time limit and the custody time limit which applies to the stage which the proceedings have reached when they are adjourned.
+
+(7) Where a magistrates’ court decides to extend, or further extend, a custody or overall time limit, or to give a direction under subsection (6A) above,[^c3186991] the accused may appeal against the decision to the Crown Court.
+
+(8) Where a magistrates’ court refuses to extend, or further extend, a custody or overall time limit , or to give a direction under subsection (6A) above,[^c3187001] the prosecution may appeal against the refusal to the Crown Court.
+
+(9) An appeal under subsection (8) above may not be commenced after the expiry of the limit in question; but where such an appeal is commenced before the expiry of the limit the limit shall be deemed not to have expired before the determination or abandonment of the appeal.
+
+(10) Where a person is convicted of an offence in any proceedings, the exercise, in relation to any preliminary stage of those proceedings, of the power conferred by subsection (3) above shall not be called into question in any appeal against that conviction.
+
+(11) In this section—
+
+- “**appropriate court** ” means—
+- (a) where the accused has been sent for trial[^c19222141] or indicted for the offence, the Crown Court; and
+- (b) in any other case, the magistrates’ court specified in the summons or warrant in question or, where the accused has already appeared or been brought before a magistrates’ court, a magistrates’ court for the same area;
+
+- [^c3187031]“**custody** ” includes local authority accommodation or youth detention accommodation to which a person is remanded under section 91 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-32a2d7dffbe0bb189280c8c98456da3c] , and references to a person being committed to custody shall be construed accordingly;
+- “[^c19222181]**custody of the Crown Court**” includes custody to which a person is committed in pursuance of—
+  - (a) section 43A of the Magistrates' Courts Act 1980 (magistrates' court dealing with a person brought before it following his arrest in pursuance of a warrant issued by the Crown Court); or
+  - (b) section 52 of the Crime and Disorder Act 1998 (provisions supplementing section 51);
+- “**custody of a magistrates’ court** ” means custody to which a person is committed in pursuance of section 128 of the [^c3187081]Magistrates’ Courts Act 1980 (remand);
+- “**custody time limit** ” means a time limit imposed by regulations made under subsection (1)(b) above or, where any such limit has been extended by a court under subsection (3) above, the limit as so extended;
+- “[^c3187091]**preliminary stage** ”, in relation to any proceedings, does not include any stage after the start of the trial (within the meaning given by subsections (11A) and (11B) below);
+- “**overall time limit** ” means a time limit imposed by regulations made under subsection (1)(a) above or, where any such limit has been extended by a court under subsection (3) above, the limit as so extended; and
+- “**specified** ” means specified in the regulations.
+
+(11ZA)[^c3187101] For the purposes of this section, proceedings for an offence shall be taken to begin when the accused is charged with the offence or, as the case may be, an information is laid charging him with the offence.
+
+(11A)[^c3187111] For the purposes of this section, the start of a trial on indictment shall be taken to occur at the time when a jury is sworn[^c19222301] to consider the issue of guilt or fitness to plead or, if the court accepts a plea of guilty before the time when a jury is sworn[^c19222341], when that plea is accepted; but this is subject to section 8 of the [^c3187121]Criminal Justice Act 1987 and section 30 of the [^c3187131]Criminal Procedure and Investigations Act 1996 (preparatory hearings).
+
+(11B)[^c3187111][^c3187151] For the purposes of this section, the start of a summary trial shall be taken to occur—
+
+- (a) when the court begins to hear evidence for the prosecution at the trial or to consider whether to exercise its power under section 37(3) of the [^c3187161]Mental Health Act 1983 (power to make hospital order without convicting the accused), or
+- (b) if the court accepts a plea of guilty without proceeding as mentioned above, when that plea is accepted.
+
+(11AA)[^c19222361] The references in subsection (11A) above to the time when a jury is sworn include the time when that jury would be sworn but for the making of an order under Part 7 of the Criminal Justice Act 2003.
+
+(12) For the purposes of the application of any custody time limit in relation to a person who is in the custody of a magistrates’ court or the Crown Court—
+
+- (a) all periods during which he is in the custody of a magistrates’ court in respect of the same offence shall be aggregated and treated as a single continuous period; and
+- (b) all periods during which he is in the custody of the Crown Court in respect of the same offence shall be aggregated and treated similarly.
+
+(13) For the purposes of section 29(3) of the [^c3187171] Senior Courts Act 1981 (High Court to have power to make prerogative orders in relation to jurisdiction of Crown Court in matters which do not relate to trial on indictment) the jurisdiction conferred on the Crown Court by this section shall be taken to be part of its jurisdiction in matters other than those relating to trial on indictment.
+
+### 22A. Additional time limits for persons under 18.[^key-276e7d9c3664400efa5b295e218055b3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22B. Re-institution of proceedings stayed under section 22(4) or 22A(5).[^c3185561][^c3185551]
+
+(1) This section applies where proceedings for an offence (“**the original proceedings** ”) are stayed by a court under section 22(4) or 22A(5) of this Act.
+
+(2) If—
+
+- (a) in the case of proceedings conducted by the Director, the Director or a Chief Crown Prosecutor so directs;
+- (b) in the case of proceedings conducted by the Director of the Serious Fraud Office, the Commissioners of Inland Revenue or the Commissioners of Customs and Excise, that Director or those Commissioners so direct; or
+- (c) in the case of proceedings not conducted as mentioned in paragraph (a) or (b) above, a person designated for the purpose by the Secretary of State so directs,
+
+fresh proceedings for the offence may be instituted within a period of three months (or such longer period as the court may allow) after the date on which the original proceedings were stayed by the court.
+
+(3) Fresh proceedings shall be instituted as follows—
+
+- (a) where the original proceedings were stayed by the Crown Court, by preferring a bill of indictment;
+- (b) where the original proceedings were stayed by a magistrates’ court, by laying an information.
+
+(4) Fresh proceedings may be instituted in accordance with subsections (2) and (3)(b) above notwithstanding anything in section 127(1) of the [^c3187211]Magistrates’ Courts Act 1980 (limitation of time).
+
+(5) Where fresh proceedings are instituted, anything done in relation to the original proceedings shall be treated as done in relation to the fresh proceedings if the court so directs or it was done—
+
+- (a) by the prosecutor in compliance or purported compliance with section 3, 4 or 7A[^c19223511] or 9 of the [^c3187221]Criminal Procedure and Investigations Act 1996; or
+- (b) by the accused in compliance or purported compliance with section 5 or 6 of that Act.
+
+(6) Where a person is convicted of an offence in fresh proceedings under this section, the institution of those proceedings shall not be called into question in any appeal against that conviction.
+
+### 23. Discontinuance of proceedings in magistrates’ courts.[^c19223031][^c19222781]
+
+(1) Where the Director of Public Prosecutions has the conduct of proceedings for an offence, this section applies in relation to the preliminary stages of those proceedings.
+
+(2) In this section, “**preliminary stage** ” in relation to proceedings for an offence does not include—
+
+- (a)[^c19222821] any stage of the proceedings after the court has begun to hear evidence for the prosecution at a summary trial of the offence; or
+- (b) any stage of the proceedings after the accused has been sent for trial for the offence.
+
+(3) Where, at any time during the preliminary stages of the proceedings, the Director gives notice under this section to the designated officer for[^c19222551] the court that he does not want the proceedings to continue, they shall be discontinued with effect from the giving of that notice but may be revived by notice given by the accused under subsection (7) below.
+
+(4) Where, in the case of a person charged with an offence after being taken into custody without a warrant, the Director gives him notice, at a time when no magistrates’ court has been informed of the charge, that the proceedings against him are discontinued, they shall be discontinued with effect from the giving of that notice.
+
+(5) The Director shall, in any notice given under subsection (3) above, give reasons for not wanting the proceedings to continue.
+
+(6) On giving any notice under subsection (3) above the Director shall inform the accused of the notice and of the accused’s right to require the proceedings to be continued; but the Director shall not be obliged to give the accused any indication of his reasons for not wanting the proceedings to continue.
+
+(7) Where the Director has given notice under subsection (3) above, the accused shall, if he wants the proceedings to continue, give notice to that effect to the designated officer for the court within the prescribed period; and where notice is so given the proceedings shall continue as if no notice had been given by the Director under subsection (3) above.
+
+(8) Where the designated officer for the court has been so notified by the accused he shall inform the Director.
+
+(9) The discontinuance of any proceedings by virtue of this section shall not prevent the institution of fresh proceedings in respect of the same offence.
+
+(10) In this section “**prescribed** ” means prescribed by Criminal Procedure Rules[^c19222511] .
+
+### 23A. Discontinuance of proceedings after accused has been sent for trial.[^c19227061][^c19229751][^c3185571]
+
+(1) This section applies where—
+
+- (a) the Director of Public Prosecutions, or a public authority (within the meaning of section 17 of this Act), has the conduct of proceedings for an offence; and
+- (b) the accused has been sent for trial [^c19227231]. . . for the offence.
+
+(2) Where, at any time before the indictment is preferred, the Director or authority gives notice under this section to the Crown Court sitting at the place specified in the notice under section 51D(1)[^c19227181] of the Crime and Disorder Act 1998 that he or it does not want the proceedings to continue, they shall be discontinued with effect from the giving of that notice.
+
+(3) The Director or authority shall, in any notice given under subsection (2) above, give reasons for not wanting the proceedings to continue.
+
+(4) On giving any notice under subsection (2) above the Director or authority shall inform the accused of the notice; but the Director or authority shall not be obliged to give the accused any indication of his reasons for not wanting the proceedings to continue.
+
+(5) The discontinuance of any proceedings by virtue of this section shall not prevent the institution of fresh proceedings in respect of the same offence.
+
+### 24. Restriction of vexatious prosecutions.
+
+(1) Section 42 of the [^c3187331] Senior Courts Act 1981 (restriction of vexatious civil proceedings) shall be amended as follows.
+
+(2) In subsection (1)—
+
+- (a) in paragraphs (a) and (b) for the word “legal ” there shall be substituted, in each case, “civil ”;
+- (b) at the end of paragraph (b) there shall be inserted—
+
+  > or
+  >
+  > - (c) instituted vexatious prosecutions (whether against the same person or different persons),
+
+  ; and
+- (c) for the words from “order ” to the end of the subsection there shall be substituted—
+
+  > make a civil proceedings order, a criminal proceedings order or an all proceedings order.
+
+  .
+
+(3) After subsection (1) there shall be inserted—
+
+> (1A) In this section—
+>
+> - “**civil proceedings order** ” means an order that—
+> - (a) no civil proceedings shall without the leave of the High Court be instituted in any court by the person against whom the order is made;
+> - (b) any civil proceedings instituted by him in any court before the making of the order shall not be continued by him without the leave of the High Court; and
+> - (c) no application (other than one for leave under this section) shall be made by him, in any civil proceedings instituted in any court by any person, without the leave of the High Court;
+>
+> - “**criminal proceedings order** ” means an order that—
+> - (a) no information shall be laid before a justice of the peace by the person against whom the order is made without the leave of the High Court; and
+> - (b) no application for leave to prefer a bill of indictment shall be made by him without the leave of the High Court; and
+>
+> “**all proceedings order** ” means an order which has the combined effect of the two other orders.
+
+.
+
+(4) In subsection (3), for the word “legal ” there shall be substituted “civil ”.
+
+(5) After subsection (3) there shall be inserted—
+
+> (3A) Leave for the laying of an information or for an application for leave to prefer a bill of indictment by a person who is the subject of an order for the time being in force under subsection (1) shall not be given unless the High Court is satisfied that the institution of the prosecution is not an abuse of the criminal process and that there are reasonable grounds for the institution of the prosecution by the applicant.
+
+(6) In subsection (4), for the words from “for the institution ” to the end there shall be substituted “required by virtue of this section ”.
+
+(7) An order made under section 42 before the commencement of this section and in force at the time of that commencement shall, for the purposes of that section as amended by this section, be treated as a civil proceedings order.
+
+### 25. Consents to prosecutions etc.
+
+(1) This section applies to any enactment which prohibits the institution or carrying on of proceedings for any offence except—
+
+- (a) with the consent (however expressed)— of a Law Officer of the Crown or the Director; or
+- (b) where the proceedings are instituted or carried on by or on behalf of a Law Officer of the Crown or the Director;
+
+and so applies whether or not there are other exceptions to the prohibition (and in particular whether or not the consent is an alternative to the consent of any other authority or person).
+
+(2) An enactment to which this section applies—
+
+- (a) shall not prevent the arrest without warrant, or the issue or execution of a warrant for the arrest, of a person for any offence, or the remand in custody or on bail of a person charged with any offence; and
+- (b) shall be subject to any enactment concerning the apprehension or detention of children or young persons.
+
+(2A)[^key-b56e5ab34531c40ef9c1c33dc578452d] Subsection (2)(a) is subject to section 1(4A) of the Magistrates' Courts Act 1980.
+
+(3) In this section “**enactment** ” includes any provision having effect under or by virtue of any Act; and this section applies to enactments whenever passed or made.
+
+### 26. Consents to be admissible in evidence.
+
+Any document purporting to be the consent of a Law Officer of the Crown, the Director or a Crown Prosecutor for, or to—
+
+- (a) the institution of any criminal proceedings; or
+- (b) the institution of criminal proceedings in any particular form;
+
+and to be signed by a Law Officer of the Crown, the Director or, as the case may be, a Crown Prosecutor shall be admissible as prima facie evidence without further proof.
+
+### 27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13001101]
+
+### 28. Repeal of s. 9 of Perjury Act 1911.[^key-3958c52c941622cc202036bf066693b2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — Supplemental
+
+### 29. Regulations.[^c3187371]
+
+(1)[^key-9354ee0f679659f8ab47d17f48666059] A power to make regulations under this Act is exercisable by statutory instrument.
+
+(1A) A statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament, subject to subsection (1B).
+
+(1B) A statutory instrument containing (whether alone or with other provision) regulations under section 16A(6) or 19(4B) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(2)[^c3187381] Regulations under this Act[^key-96b3c7040ac2ac14213bdb14eb0c95e1] may make different provisions with respect to different cases or classes of case.
+
+### 30. Expenses.
+
+(1) There shall be paid out of money provided by Parliament such sums as the Attorney General may, with the consent of the Treasury, direct in respect of the expenditure incurred by the Director of Public Prosecutions in the discharge of his functions under this Act.
+
+(2) Any expenditure incurred by the Secretary of State or the Attorney General which is attributable to this Act shall be payable out of money provided by Parliament.
+
+### 31. Short title, commencement and extent etc.
+
+(1) This Act may be cited as the Prosecution of Offences Act 1985.
+
+(2)[^c3187391] The following provisions of this Act come into force on its passing—
+
+- (a) this Part (other than subsections (5) and (6) below);
+- (b) sections 11 to 13; and
+- (c) section 15, so far as it applies in relation to sections 11 to 13;
+
+and the remaining provisions of this Act shall come into force on such day as the Lord Chancellor or Secretary of State may by order made by statutory instrument appoint.
+
+(3)[^c3187391] An order under subsection (2) above may—
+
+- (a) appoint different days for different purposes and in relation to proceedings instituted in different areas; and
+- (b) contain such transitional and supplementary provisions as appear to the Lord Chancellor or, as the case may be, Secretary of State to be necessary or expedient.
+
+(4)[^key-c3dd51a577e2cee07c1c6d52a8b8b7f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Schedule 1 to this Act shall have effect for the purpose of making minor and consequential amendments in other enactments.
+
+(6) The enactments specified in Schedule 2 to this Act (which include certain provisions which are already spent) are hereby repealed to the extent set out in the third column of that Schedule.
+
+(7) This Act does not extend to Scotland or Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE 1 — Minor and Consequential Amendments
+
+Section 31(5).
+
+### Part I — Amendments Relating to Part I
+
+#### The Magistrates’ Courts Act 1980 (c. 43)
+
+**1.**[^c3187411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.** In section 19 of that Act (in cases triable either way, court to begin by considering which mode of trial appears more suitable) the following subsection shall be added at the end— *(affected by repeal, see note)*[^key-a41f15e2db9a588c5b866913c63ddc09]
+
+> (5) The power of the Director of Public Prosecutions under subsection (4) above to apply for an offence to be tried on indictment shall not be exercised except with the consent of the Attorney General. *(affected by repeal, see note)*[^key-a41f15e2db9a588c5b866913c63ddc09]
+
+**3.** In section 25 of that Act (power to change from summary trial to committal proceedings and vice versa), in subsection (3) before the word “proceed ” there shall be inserted “subject to subsection (3A) below ” and after subsection (3) there shall be inserted the following subsection— *(affected by repeal, see note)*[^key-d9232d7ccc2fc8dd44211cddc4aff842]
+
+> (3A) Where the prosecution is being carried on by the Attorney General or the Solicitor General, the court shall not exercise the power conferred by subsection (3) above without his consent and, where the prosecution is being carried on by the Director of Public Prosecutions, shall not exercise that power if the Attorney General directs that it should not be exercised. *(affected by repeal, see note)*[^key-d9232d7ccc2fc8dd44211cddc4aff842]
+
+#### The Contempt of Court Act 1981 (c. 49)
+
+**4.** In paragraph 7 of Schedule 1 to the Contempt of Court Act 1981 (meaning of “discontinuance ” in relation to criminal proceedings), the following sub-paragraph shall be inserted after sub-paragraph (a)—
+
+> - (aa) in England and Wales, if they are discontinued by virtue of section 23 of the Prosecution of Offences Act 1985;
+
+.
+
+**5.** After paragraph 9 of Schedule 1 to that Act there shall be inserted the following paragraph—
+
+> **9A.** Where proceedings in England and Wales have been discontinued by virtue of section 23 of the Prosecution of Offences Act 1985, but notice is given by the accused under subsection (7) of that section to the effect that he wants the proceedings to continue, they become active again with the giving of that notice.
+
+### Part II — Amendments Relating to Part II
+
+#### The Criminal Justice Act 1967 (c. 80)
+
+**6.** In section 32 of the Criminal Justice Act 1967 (which provides that the costs of a medical practitioner reporting to a court are to be recoverable as witness costs), in subsection (2)—
+
+- (a) the words from “and ”, where it first appears, to “funds ”, and the words from “and ”, where it next appears, to the end of the subsection, shall be omitted; and
+- (b) for the words “they apply ” there shall be substituted “it applies ”.
+
+#### The Administration of Justice Act 1970 (c. 31)
+
+**7.** (1) Schedule 9 to the Administration of Justice Act 1970 shall be amended as follows.
+
+(2) After paragraph 1 there shall be inserted—
+
+> **1A.** Where a magistrates’ court makes an order as to costs to be paid by the accused in exercise of any power in that behalf conferred by regulations made under section 19(1) of the Prosecution of Offences Act 1985.
+
+(3) In paragraph 4, for the words “orders him to pay the whole or part of the costs incurred in or about the prosecution and conviction ” there shall be substituted “makes an order as to costs to be paid by him ”.
+
+(4) After paragraph 4 there shall be inserted—
+
+> **4A.** Where the Crown Court makes an order as to costs to be paid by the accused in exercise of any power in that behalf conferred by regulations made under section 19(1) of the Prosecution of Offences Act 1985.
+
+(5) For paragraphs 6 and 7 there shall be substituted the following—
+
+> **6.** Where the criminal division of the Court of Appeal makes an order as to costs to be paid by—
+>
+> - (a) an appellant;
+> - (b) an applicant for leave to appeal to that court; or
+> - (c) in the case of an application for leave to appeal to the House of Lords, an applicant who was the appellant before the criminal division.
+
+.
+
+(6) In paragraph 9, for “section 18 of the Costs in Criminal Cases Act 1973 ” there shall be substituted “regulations made under section 19(5) of the Prosecution of Offences Act 1985 ”.
+
+(7) For paragraph 13 there shall be substituted the following—
+
+> **13.** Where a magistrates’ court makes an order as to costs to be paid by the prosecutor in exercise of any power in that behalf conferred by regulations made under section 19(1) of the Prosecution of Offences Act 1985.
+
+(8) Paragraph 15 shall be omitted.
+
+(9) After paragraph 16 there shall be inserted—
+
+> **Costs awarded by Court of Appeal (criminal division)**
+>
+> **16A.** Where the criminal division of the Court of Appeal makes an order as to costs to be paid by the respondent or, in the case of an application for leave to appeal to the House of Lords, an applicant who was the respondent before the criminal division, and does so in exercise of any power in that behalf conferred by regulations made under section 19(1) of the Prosecution of Offences Act 1985.
+
+#### The Criminal Justice Act 1972 (c. 71)
+
+**8.**[^key-bcd94b801c4d64b24348fdea80d53f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Senior Courts Act 1981 (c. 54)
+
+**9.** In section 52(3) of the Senior Courts Act 1981 (ambit of Crown Court rules in relation to awards of costs) for the words “Costs in Criminal Cases Act 1973 ” there shall be substituted “Part II of the Prosecution of Offences Act 1985 ” and for the words from “is ” to the end of the subsection there shall be substituted “in relation to costs of proceedings in the Crown Court, is contained in section 18 of that Act or in regulations made under section 19 of that Act (awards of party and party costs in criminal proceedings) ”.
+
+**10.** In section 52(4) of that Act, for the words “Costs in Criminal Cases Act 1973 ” there shall be substituted “Part II of the Prosecution of Offences Act 1985 ”.
+
+### Part III — Miscellaneous
+
+**Not yet in force.**
+
+#### The Senior Courts Act 1981 (c. 54)
+
+**11.** In section 77 of the Senior Courts Act 1981 (Crown Court rules to prescribe minimum and maximum period which may elapse between committal and beginning of trial), for the words “and maximum periods ”, in subsection (3), there shall be substituted “period ”.
+
+## SCHEDULE 2 — Repeals
+
+Section 31(6).
+
+| Chapter | Short title | Extent of repeal |
+| --- | --- | --- |
+| 1911 c. 6. | The Perjury Act 1911. | Section 9. |
+| 1915 c. 90. | The Indictments Act 1915. | In section 5, in subsection (1) the words from “and may make such order ” to the end and in paragraph (c) of subsection (5), the words “as to costs and ”. |
+|  |  | Section 6. |
+| 1933 c. 36. | The Administration of Justice (Miscellaneous Provisions) Act 1933. | In section 2(2)(b), the words from “or pursuant ” to “Act 1911 ”. |
+| 1966 c. 34. | The Industrial Development Act 1966. | In section 8(12), the words “the Director of Public Prosecutions ”. |
+| 1967 c. 80. | The Criminal Justice Act 1967. | In section 32(2), the words from “and ” where it first appears to “funds ” and from “and ” where it next appears to the end. |
+| 1968 c. 19. | The Criminal Appeal Act 1968. | In Schedule 2, paragraph 3. |
+| 1968 c. 73. | The Transport Act 1968. | In paragraph 10 of Schedule 8, the words “the Director of Public Prosecutions ”. |
+| 1970 c. 31. | The Administration of Justice Act 1970. | In Schedule 9, paragraph 15. |
+| 1972 c. 68. | The European Communities Act 1972. | In section 11(1), the words “in England or Wales or ” and “section 9 of the Perjury Act 1911 or ”. |
+| 1973 c. 14. | The Costs in Criminal Cases Act 1973. | The whole Act. |
+| 1973 c. 15. | The Administration of Justice Act 1973. | Section 17. |
+| 1976 c. 63. | The Bail Act 1976. | In Schedule 2, paragraph 6. |
+| 1979 c. 31. | The Prosecution of Offences Act 1979. | The whole Act. |
+| 1980 c. 43. | The Magistrates’ Courts Act 1980. | In section 25(3), the words from “but ” to the end. |
+|  |  | Section 30(3). |
+| 1981 c. 54. | The Senior Courts Act 1981 . | In section 77, in subsection (1) the words “and the maximum ” and, in subsection (2), paragraph (b) and the word “and ” before it. |
+| 1982 c. 44. | The Legal Aid Act 1982. | In section 13, subsections (1) to (4). |
+| 1983 c. 2. | The Representation of the People Act 1983. | In section 181, subsections (4) and (8). |
+
+## Annotations
+
+[^c3182131]: Modification: By [Criminal Justice Act 1991 (c.53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 101(1)](https://www.legislation.gov.uk/ukpga/1991/53/section/101/1), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/23); [S.I. 1991/2208](https://www.legislation.gov.uk/uksi/1991/2208), [art. 2(1)](https://www.legislation.gov.uk/uksi/1991/2208/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2208/schedule/1) it is provided (14.10.1991) that in relation to any time before the commencement of s. 70 of that 1991 Act (which came into force on 1.10.1992 by [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2)) references in any enactment amended by that 1991 Act, to youth courts shall be construed as references to juvenile courts.
+
+[^c19238051]: Textual amendment: Act: for the words "Supreme Court Act 1981" wherever they occur there is substituted (prosp.) the words "Senior Courts Act 1981" by virtue of [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2) \[Editorial Note: this amendment will be carried through into the text of the Act at the same time as any other effects on the Act for the year in which the relevant commencement order (or first such order) is made\]
+
+[^key-062e09940603512d644e07fa68a2eaaf]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/1985/23/section/1/3) omitted (29.6.2026) by virtue of [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2026/19/section/11/2/a), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^c19197801]: Modification: S. 1(7) excluded (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 92(1)](https://www.legislation.gov.uk/ukpga/2003/44/section/92/1), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/5) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as amended by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), [art. 2](https://www.legislation.gov.uk/uksi/2005/2122/article/2) and [S.I. 2007/391](https://www.legislation.gov.uk/uksi/2007/391), [art. 2](https://www.legislation.gov.uk/uksi/2007/391/article/2))
+
+[^key-7c698c14358dd67bb370b6292e458328]: Textual amendment: [S. 1(8)](https://www.legislation.gov.uk/ukpga/1985/23/section/1/8)[(9)](https://www.legislation.gov.uk/ukpga/1985/23/section/1/9) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2026/19/section/11/2/b), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^c3182221]: Textual amendment: Words substituted by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 71(2)](https://www.legislation.gov.uk/ukpga/1990/41/section/71/2), [Sch. 10 para. 60](https://www.legislation.gov.uk/ukpga/1990/41/schedule/10/paragraph/60)
+
+[^c3182621]: Modification: S. 3(2) excluded by [Criminal Justice Act 1987 (c. 38, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1987/38), [s. 5(1)](https://www.legislation.gov.uk/ukpga/1987/38/section/5/1)
+
+[^c3182631]: Textual amendment: Words inserted by [Criminal Justice Act 1987 (c. 38, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1987/38), [s. 15](https://www.legislation.gov.uk/ukpga/1987/38/section/15), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1987/38/schedule/2/paragraph/13)
+
+[^c3182641]: Modification: S. 3(2)(a)(d) restricted by [S.I. 1986/1029](https://www.legislation.gov.uk/uksi/1986/1029), [art. 5](https://www.legislation.gov.uk/uksi/1986/1029/article/5)
+
+[^c3182651]: Textual amendment: S. 3(2)(aa) inserted (1.12.2004) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [ss. 164](https://www.legislation.gov.uk/ukpga/1999/33/section/164), [170(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/4); [S.I. 2004/2997](https://www.legislation.gov.uk/uksi/2004/2997), [art. 2](https://www.legislation.gov.uk/uksi/2004/2997/article/2)
+
+[^c3182661]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^key-b812c8b5b97aaa6b6d168bd6d5fa4a04]: Textual amendment: S. 3(2)(ab) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/2/2)
+
+[^key-1a2bf80cf196e16763f8638f3c4b9548]: Textual amendment: S. 3(2)(ac) inserted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 30(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/30/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-d60688e38a15e114ff894529f47a3a75]: Textual amendment: [S. 3(2)(ad)](https://www.legislation.gov.uk/ukpga/1985/23/section/3/2/ad) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/1/2/a) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+
+[^c3654921]: Textual amendment: S. 3(2)(ba) inserted (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) ss. 107, 108(2), {Sch. 7 para. 10}; [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/913/article/2/e)
+
+[^key-f866ba9e0a28904e1dad043cf84e3afd]: Textual amendment: S. 3(2)(bb) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/2/3)
+
+[^key-c8e308699bfe677ef90f93001db9cb0c]: Textual amendment: S. 3(2)(bc) inserted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 30(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/30/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-2dd9fb277e045cfa872d5b14ee8b32f8]: Textual amendment: [S. 3(2)(bd)](https://www.legislation.gov.uk/ukpga/1985/23/section/3/2/bd) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/1/2/b) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+
+[^c3182701]: Marginal citation: [1959 c. 66](https://www.legislation.gov.uk/ukpga/1959/66).
+
+[^c19197991]: Textual amendment: S. 3(2)(ea)(eb) inserted (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 190(2)](https://www.legislation.gov.uk/ukpga/2003/41/section/190/2), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to savings in Order (as amended by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3312/article/2/2) and [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3258/article/3/2)))
+
+[^c19203981]: Textual amendment: S. 3(2)(ec) inserted (1.12.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 7](https://www.legislation.gov.uk/ukpga/2004/19/section/7), [48(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/1); [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule)
+
+[^key-d73bf3088b8359b89ef74303a320be03]: Textual amendment: S. 3(2)(ed) inserted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 30(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/30/c); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-a89d4e3c1f6b971c553e1caae8982f05]: Textual amendment: S. 3(2)(ee) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/2/4)
+
+[^key-907e7539ec1bb6700f55e27a16818b83]: Textual amendment: [S. 3(2)(ef)](https://www.legislation.gov.uk/ukpga/1985/23/section/3/2/ef) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/1/2/c) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+
+[^c3182711]: Marginal citation: [1960 c. 65](https://www.legislation.gov.uk/ukpga/1960/65).
+
+[^c3182721]: Marginal citation: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
+
+[^key-3a946b5db8b6ba19d4ba33bebc7d9d03]: Textual amendment: Words in s. 3(2)(f)(ii) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 41(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/41/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^c3182731]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c3182741]: Marginal citation: [1981 c. 49](https://www.legislation.gov.uk/ukpga/1981/49).
+
+[^c19198841]: Textual amendment: Word in s. 3(2)(f) repealed (20.1.2004) by Anti-social [Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 86(6)](https://www.legislation.gov.uk/ukpga/2003/38/section/86/6), [92](https://www.legislation.gov.uk/ukpga/2003/38/section/92), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/38/schedule/3); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(f)(ii)(g)(ii)(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/f/ii/g/ii/b)
+
+[^c19198851]: Textual amendment: S. 3(2)(fa) inserted (20.1.2004) by Anti-social [Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38). {ss. 86(6)}, 93; [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/f/ii)
+
+[^key-e61c9926f9c2bae3ef6ed3e010f3d3da]: Textual amendment: Words in s. 3(2)(fa) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 81(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/81/a) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-e97fa5d1a18189bbd0d9b405e5463d32]: Textual amendment: Words in s. 3(2)(fa) substituted (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/5/2) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(i)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/i)
+
+[^c19237751]: Textual amendment: S. 3(2)(faa) inserted (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/38/section/52), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/15); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+
+[^c19227321]: Textual amendment: S. 3(2)(fb)(fc) inserted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 140(5)](https://www.legislation.gov.uk/ukpga/2005/15/section/140/5), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(s)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/s) (subject to [art. 3(4)(5)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/4/5))
+
+[^key-6a336d434d5b66f8a5efd5313d540d3a]: Textual amendment: Words in s. 3(2)(fb) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 81(b)(i)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/81/b/i) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-5b0f33b47a68ea7e7a29e19404b40444]: Textual amendment: Words in s. 3(2)(fb) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 81(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/81/b/ii) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-7e298e1c7b17842507715df413099dbb]: Textual amendment: Words in s. 3(2)(fc) substituted (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/5/4/a) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(i)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/i)
+
+[^key-a34d837e9f8d5f10b50145ce3d45ea4a]: Textual amendment: Words in s. 3(2)(fc) substituted (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/5/4/b) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(i)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/i)
+
+[^key-498f244fa570dc664a5b604a03072d65]: Textual amendment: S. 3(2)(fd)(fe) omitted (20.10.2014) by virtue of [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 5(5)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/5/5) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(i)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/i)
+
+[^key-598477840d0a2e1f9daa0d36efe26388]: Textual amendment: S. 3(2)(ff) inserted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 149](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/149); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+
+[^key-7e3352b8dabe73f5a78ebd1c91549caa]: Textual amendment: [S. 3(2)(fg)](https://www.legislation.gov.uk/ukpga/1985/23/section/3/2/fg) inserted (5.7.2021 in relation to the metropolitan police district for the specified period) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/32/1), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1); [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/1)
+
+[^key-3da418be5f4bef878c2961d47fe0994d]: Textual amendment: [S. 3(2)(fh)](https://www.legislation.gov.uk/ukpga/1985/23/section/3/2/fh) inserted (28.4.2022 for specified purposes, 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 165(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/3), [166](https://www.legislation.gov.uk/ukpga/2022/32/section/166), [208(4)(u)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/u); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/c)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))
+
+[^key-055224e4ed9d29ad770234987f021f0e]: Textual amendment: [S. 3(2)(fi)](https://www.legislation.gov.uk/ukpga/1985/23/section/3/2/fi) inserted (5.4.2024) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 33(1)](https://www.legislation.gov.uk/ukpga/2023/15/section/33/1), [35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5); [S.I. 2024/472](https://www.legislation.gov.uk/uksi/2024/472), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/472/regulation/2/l)
+
+[^c19198811]: Textual amendment: S. 3(2A) inserted (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 190(3)](https://www.legislation.gov.uk/ukpga/2003/41/section/190/3), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to savings in Order (as amended by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3312/article/2/2) and [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3258/article/3/2)))
+
+[^key-9f0d52bc980e8e3e84b69b628096bdc6]: Textual amendment: Words in [s. 3(3)](https://www.legislation.gov.uk/ukpga/1985/23/section/3/3) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 1(3)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/1/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+
+[^key-82e1082661e09c2ea9db50243df47610]: Textual amendment: Words in s. 3(3) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/2/5)
+
+[^key-eae3f0efa757c4c5ea23b880c0a97ee4]: Textual amendment: Words in s. 3(3) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 171](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/171); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^M_F_a6f83034-2449-4fd8-a39f-2db9125340b2]: Textual amendment: S. 3(3): words in definition of "police force" repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [174](https://www.legislation.gov.uk/ukpga/2005/15/section/174), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/47), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
+
+[^key-04512bf9343e1b5a8c25cdec50c016fb]: Textual amendment: S. 3(3A) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/2/6)
+
+[^c3182811]: Textual amendment: S. 4(1)-(3E) repealed (31.7.2000) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch.15 Pt II](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2000/1920](https://www.legislation.gov.uk/uksi/2000/1920), [art. 2(c)](https://www.legislation.gov.uk/uksi/2000/1920/article/2/c)
+
+[^c3182891]: Marginal citation: [1974 c. 47](https://www.legislation.gov.uk/ukpga/1974/47).
+
+[^c3182901]: Textual amendment: S. 4(5) repealed by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 125(7)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/7), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/41/schedule/20)
+
+[^key-89f4e9fdc55aa2591978e5d4658e0570]: Textual amendment: S. 4(6) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(iii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/iii)
+
+[^key-8524bfce163ae6cef006a39c41a77187]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1985/23/section/5/1) omitted (29.6.2026) by virtue of [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2026/19/section/11/3/a), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^c19204451]: Textual amendment: Words in s. 5(1) inserted (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 190(4)](https://www.legislation.gov.uk/ukpga/2003/41/section/190/4), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to savings in Order (as amended by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3312/article/2/2) and [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3258/article/3/2)))
+
+[^key-a357670c7dfe03154c9886706b2ae75c]: Textual amendment: S. 5(1A)(1B) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/3/2)
+
+[^key-5e417ebcd6c17f6f63b891fc0fb42bec]: Textual amendment: Words in s. 5(2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/3/3)
+
+[^key-b8d5c3f99481ed367d90568f1ffe30f0]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/1985/23/section/5/3)[(4)](https://www.legislation.gov.uk/ukpga/1985/23/section/5/4) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2026/19/section/11/3/b), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^c19204591]: Textual amendment: Words in s. 7(4) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 287(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/287/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^c19204601]: Textual amendment: Words in s. 7(4) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 287(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/287/b); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^c13001131]: Textual amendment: S. 7A substituted (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s.53](https://www.legislation.gov.uk/ukpga/1998/37/section/53); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/n).
+
+[^key-293e2c03ccdd11b744464df4b50316ce]: Textual amendment: Words in s. 7A(1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/2)
+
+[^key-3a8371053fd80bcd5c149e09c5576adc]: Textual amendment: Words in s. 7A(2) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/3)
+
+[^key-0f2b5737ef40bcaa3d214eaa511bf386]: Textual amendment: Words in s. 7A(2)(a)(ii) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 55(2)(a)](https://www.legislation.gov.uk/ukpga/2008/4/section/55/2/a), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) (with [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/21)); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/29)
+
+[^key-af3e7750b37185ae5f6a342a57758919]: Textual amendment: S. 7A(2)(a)(iii)(iv) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 55(2)(b)](https://www.legislation.gov.uk/ukpga/2008/4/section/55/2/b), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) (with [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/21)); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/29)
+
+[^key-acdd2ddfd869b60e268a1f6e82b47b75]: Textual amendment: S. 7A(2)(b) substituted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 55(2)(c)](https://www.legislation.gov.uk/ukpga/2008/4/section/55/2/c), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) (with [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/21)); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/29)
+
+[^key-d1496f6a5c9393e881d0662c6b8d9fc4]: Textual amendment: S. 7A(2A)(2B) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/4)
+
+[^key-fb53f3b2521c7824a97de29b39916b38]: Textual amendment: Words in s. 7A(3) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/5/a)
+
+[^key-822578600c414bbed236a8f0e7310d47]: Textual amendment: Words in s. 7A(3) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/5/b)
+
+[^key-9d90e08a6a4f4a645c75fe0f4da69851]: Textual amendment: S. 7A(5)(5A) substituted for s. 7A(5) (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2008/4/section/55/3), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) (with [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/21)); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/29)
+
+[^key-5f75719869e42a46365af7bb30b47ca1]: Textual amendment: Words in [s. 7A(5)](https://www.legislation.gov.uk/ukpga/1985/23/section/7A/5) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 82(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/82/a) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-6af5d0216e7006d4c84f7ebc2984c792]: Textual amendment: Words in [s. 7A(5)](https://www.legislation.gov.uk/ukpga/1985/23/section/7A/5) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 82(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/82/b) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-ce833ee8be1ebfacf698333f47144f8b]: Textual amendment: Words in s. 7A(5) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/6)
+
+[^key-a3a7e1bfc2f319a5e37669dd2ac11584]: Textual amendment: S. 7A(6) repealed (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 55(4)](https://www.legislation.gov.uk/ukpga/2008/4/section/55/4), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) (with [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/21)); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 paras. 29](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/29), [50(4)(b)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50/4/b)
+
+[^c19204631]: Textual amendment: S. 7A(6) substituted (9.5.2005 for certain purposes and otherwise prosp.) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 41](https://www.legislation.gov.uk/ukpga/2003/44/section/41), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 3 para. 57(2)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/2); [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2](https://www.legislation.gov.uk/uksi/2005/1267/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1267/schedule/part/1)
+
+[^key-b7c62783525570ada5e661194ef343c2]: Textual amendment: Words in s. 7A(7)(a) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/7)
+
+[^key-d7bb81cd8c7e3662dd5504517979d80f]: Textual amendment: Ss. 7A(8)-(12) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 55(5)](https://www.legislation.gov.uk/ukpga/2008/4/section/55/5), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) (with [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/21)); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/29)
+
+[^key-81726908fdfc363264397aa04c0c9247]: Textual amendment: Words in s. 7A(8) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(8)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/8)
+
+[^key-405734b30b29ee027314d7ea3d7be8d7]: Textual amendment: Words in s. 7A(9) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(9)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/9)
+
+[^key-8b7bcf1135bf776304901b3ac99321d2]: Textual amendment: Words in s. 7A(10) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 4(10)](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/4/10)
+
+[^key-087a8cc09761ec36d2d04adc33201846]: Modification: S. 10(2)(3) modified (1.3.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/27/schedule/2/paragraph/4); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/219/article/3/c)
+
+[^c3183041]: Textual amendment: Words in s. 11(5) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 25(2)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/25/2)
+
+[^c3183051]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c3183061]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^key-2d4792a70d5ab8c6cece075342d6adcf]: Textual amendment: S. 12 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+
+[^key-985b2203c29d279c3d85469354419e55]: Textual amendment: S. 13 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+
+[^c3183151]: Subordinate legislation: S. 14; power conferred by s. 14 previously exercised by [S.I. 1986/405](https://www.legislation.gov.uk/uksi/1986/405), 842, 1250, 1818, 1987/902, 1636, 1851, 1988/807, 1054, 1862
+
+[^key-12e3d0dc8bab5cee7ffe1381bdce8749]: Modification: S. 14 applied (6.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/2/paragraph/5); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/h)
+
+[^c3183161]: Textual amendment: Words in s. 14(1) substituted (1. 4. 1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 125(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/3), [Sch. 18 para. 52(1)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/52/1); [S.I.1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule)
+
+[^c19221151]: Textual amendment: Words in s. 14(1)(a) inserted (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 190(5)](https://www.legislation.gov.uk/ukpga/2003/41/section/190/5), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to savings in Order (as amended by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3312/article/2/2) and [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3258/article/3/2)))
+
+[^c3183171]: Textual amendment: Words added by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 166(a)](https://www.legislation.gov.uk/ukpga/1988/33/section/166/a), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16)
+
+[^c3183181]: Textual amendment: S. 14(1A)(1B) inserted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 166(1)(b)](https://www.legislation.gov.uk/ukpga/1988/33/section/166/1/b), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16)
+
+[^c3183201]: Textual amendment: S. 14(3) inserted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 166(1)(c)](https://www.legislation.gov.uk/ukpga/1988/33/section/166/1/c), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16)
+
+[^c3183381]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c19221291]: Textual amendment: Definition in s. 15(1) inserted (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 190(6)](https://www.legislation.gov.uk/ukpga/2003/41/section/190/6), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to savings in Order (as amended by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3312/article/2/2) and [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3258/article/3/2)))
+
+[^c3183391]: Textual amendment: Definition in s. 15(1) inserted (1.4.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 125(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/3), [Sch. 18 para. 52(2)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/52/2); [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule)
+
+[^key-468ae08a99e3df0d72ed99febca8a352]: Textual amendment: Words in s. 15(1) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 64](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/64) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
+
+[^key-a80715f0825a9e7971eb240e8fdfda62]: Textual amendment: Words in s. 15(1) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/7/2/a); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)
+
+[^c19221351]: Textual amendment: Definition in s. 15(1) inserted (1.10.2007) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 36 para. 10(1)(2)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/paragraph/10/1/2); [S.I. 2007/2874](https://www.legislation.gov.uk/uksi/2007/2874), [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/2874/article/2/4)
+
+[^key-95e4db52b0edadbd93f4db7d9d54f65d]: Textual amendment: Words in s. 15(1) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/7/2/b); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)
+
+[^c3183401]: Textual amendment: Word and definition in s. 15(1) repealed (1. 4. 1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 125(7)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/7), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/41/schedule/20); [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule)
+
+[^c3183421]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c19221371]: Textual amendment: S. 15(2)(ba) inserted (1.10.2007) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 36 para. 10(1)(3)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/paragraph/10/1/3); [S.I. 2007/2874](https://www.legislation.gov.uk/uksi/2007/2874), [art. 2(4)](https://www.legislation.gov.uk/uksi/2007/2874/article/2/4)
+
+[^key-0dd3f76ab1754678d605676a2a04c773]: Textual amendment: Words in s. 15(2)(ba) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/7/3/a); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)
+
+[^key-4ae5ea93a3a19964d9f6ef6d43ccc3a9]: Textual amendment: S. 15(2)(bb) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 11 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11/paragraph/7/3/b); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/77)
+
+[^c3183431]: Marginal citation: [1933 c. 36](https://www.legislation.gov.uk/ukpga/1933/36).
+
+[^key-33a84b4da26b700383bd1ec612997749]: Textual amendment: Words in s. 15(2)(d) inserted (24.2.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 17 para. 35](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/35) (with [Sch. 17 para. 39](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/39)); [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+
+[^key-c34832355fd781c91cc4f7977cc49fd7]: Textual amendment: Words in s. 15(4) substituted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 55(6)](https://www.legislation.gov.uk/ukpga/2008/4/section/55/6), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/29)
+
+[^c3183441]: Marginal citation: [1959 c. 66](https://www.legislation.gov.uk/ukpga/1959/66).
+
+[^c3183451]: Textual amendment: Words in s. 15(6) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 25(3)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/25/3)
+
+[^c3183461]: Marginal citation: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
+
+[^key-40af88af389aa88f3bae6fb8f387e44e]: Textual amendment: S. 15(7) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+
+[^key-691c3fc4f15e42804caa6b628ae758f6]: Textual amendment: Words in Pt. 2 heading inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2015/2/schedule/12/paragraph/5); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/78)
+
+[^c3183851]: Modification: S. 16 applied by [S.I. 1986/1335](https://www.legislation.gov.uk/uksi/1986/1335), [art. 14(4)](https://www.legislation.gov.uk/uksi/1986/1335/article/14/4)
+
+[^key-779876d47313a70de33e7a37186312c3]: Textual amendment: S. 16(1)(b) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 57(3)(a)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/3/a), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(c)(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(d)(2)(3) (with arts. 3, 4)
+
+[^c3183861]: Modification: S. 16(1)(c) applied (with modifications): (15.3.1996) by [S.I. 1996/716](https://www.legislation.gov.uk/uksi/1996/716), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1996/716/article/1/2), [24(1)(a)](https://www.legislation.gov.uk/uksi/1996/716/article/24/1/a); (1.4.1997) by [1989 c. 33](https://www.legislation.gov.uk/ukpga/1989/33), [s. 9(2)](https://www.legislation.gov.uk/ukpga/1989/33/section/9/2), [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/ukpga/1989/33/schedule/1/paragraph/6/1) (as amended by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [ss. 158(5)(a)](https://www.legislation.gov.uk/ukpga/1994/33/section/158/5/a), [158(8)(a)](https://www.legislation.gov.uk/ukpga/1994/33/section/158/8/a)) and [S.I. 1997/882](https://www.legislation.gov.uk/uksi/1997/882), [art.3](https://www.legislation.gov.uk/uksi/1997/882/article/3) (with savings in [art. 3(2)](https://www.legislation.gov.uk/uksi/1997/882/article/3/2))
+
+    S. 16(1)(c) applied (with modifications) (1.9.2001) by [2001 c. 17](https://www.legislation.gov.uk/ukpga/2001/17), [s. 6(2)(d)](https://www.legislation.gov.uk/ukpga/2001/17/section/6/2/d); [S.I. 2001/2161](https://www.legislation.gov.uk/uksi/2001/2161), [art. 2](https://www.legislation.gov.uk/uksi/2001/2161/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/2161/article/3))
+
+[^key-e148e1d3f4d5aba00ff614dd45a22b27]: Modification: [S. 16(1)(c)](https://www.legislation.gov.uk/ukpga/1985/23/section/16/1/c) applied (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [29(1)(a)](https://www.legislation.gov.uk/uksi/2018/187/article/29/1/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
+
+[^c19219511]: Textual amendment: Word in s. 16(2)(a) substituted (9.5.2005 for specified purposes, 18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 57(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/3/b/i); [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1267/schedule/part/1); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(c)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+
+[^key-5cc9a171343952b9ca043ce1959df5c8]: Textual amendment: S. 16(2)(aa) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 57(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/3/b/ii), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(c)(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(d)(2)(3) (with arts. 3, 4)
+
+[^c3183891]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c3183901]: Marginal citation: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
+
+[^c3183911]: Textual amendment: S. 16(4)(a)(iii) substituted (1.1.1992) by [Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/25), [s. 7](https://www.legislation.gov.uk/ukpga/1991/25/section/7), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1991/25/schedule/3/paragraph/7); [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art. 2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
+
+[^c3183921]: Textual amendment: S. 16(4)(aa) inserted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 170](https://www.legislation.gov.uk/ukpga/1988/33/section/170), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 15 para. 103](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15/paragraph/103)
+
+[^c19219141]: Textual amendment: Word in s. 16(4) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2004/28/section/58/2), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(h)(i)(vii)](https://www.legislation.gov.uk/uksi/2005/579/article/3/h/i/vii)
+
+[^c19219241]: Textual amendment: S. 16(4) and preceding word inserted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/58/1), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10/paragraph/25); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(f)(g)](https://www.legislation.gov.uk/uksi/2005/579/article/3/f/g)
+
+[^c3183931]: Textual amendment: S. 16(4A) added by [Criminal Justice Act 1987 (c. 38, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1987/38), [s. 15](https://www.legislation.gov.uk/ukpga/1987/38/section/15), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1987/38/schedule/2/paragraph/15)
+
+[^c19219491]: Textual amendment: Words in s. 16(4A) inserted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 312](https://www.legislation.gov.uk/ukpga/2003/44/section/312), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/25) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as amended by 2005/2122, art. 2 and 2007/391, art. 2)
+
+[^c19219451]: Textual amendment: Words in s. 16(4A) inserted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/69/2), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/4) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as amended by 2005/2122, art. 2 and 2007/391, art. 2)
+
+[^key-efe92ba4f83b1b8cdad558e1908009d4]: Textual amendment: Words in s. 16(5) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 41(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/41/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^c3183941]: Marginal citation: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
+
+[^key-9ee1e78e9a7d2b24cb9328d301b1af04]: Textual amendment: S. 16(6A)-(6D) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/2/2) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-3efa0b99581530a820af0498079ccfec]: Textual amendment: S. 16(7) omitted (1.10.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/2/3) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^c3183951]: Textual amendment: S. 16(8) repealed by [Legal Aid Act 1988 (c. 34, SIF 77:1)](https://www.legislation.gov.uk/ukpga/1988/34), [s. 45](https://www.legislation.gov.uk/ukpga/1988/34/section/45), [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/34/schedule/6)
+
+[^key-b9252afa875f8a1049bdab56d623ffd4]: Textual amendment: S. 16(9) omitted (1.10.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/2/3) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-dbbf22e6380ca049a6bb291737ac88e7]: Textual amendment: S. 16(12) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 57(3)(c)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/3/c), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(c)(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(d)(2)(3) (with arts. 3, 4)
+
+[^key-48339204d5971b19d7794a593b317254]: Textual amendment: S. 16A inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/3) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-ff9219ade8044a41351643b63b58db3c]: Textual amendment: Words in s. 16A(2) substituted (27.1.2014) by [The Costs in Criminal Cases (Legal Costs) (Exceptions) Regulations 2014 (S.I. 2014/130)](https://www.legislation.gov.uk/uksi/2014/130), [regs. 1](https://www.legislation.gov.uk/uksi/2014/130/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/130/regulation/2/2)
+
+[^key-617dae0a039c630ffca036b6703a5d71]: Textual amendment: S. 16A(5A) inserted (27.1.2014) by [The Costs in Criminal Cases (Legal Costs) (Exceptions) Regulations 2014 (S.I. 2014/130)](https://www.legislation.gov.uk/uksi/2014/130), [regs. 1](https://www.legislation.gov.uk/uksi/2014/130/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/130/regulation/2/3)
+
+[^key-28c611cc84efb04168aec80d546a9a91]: Textual amendment: S. 16A(11) inserted (27.1.2014) by [The Costs in Criminal Cases (Legal Costs) (Exceptions) Regulations 2014 (S.I. 2014/130)](https://www.legislation.gov.uk/uksi/2014/130), [regs. 1](https://www.legislation.gov.uk/uksi/2014/130/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/130/regulation/2/4)
+
+[^c3183971]: Modification: S. 17 applied by [S.I. 1986/1335](https://www.legislation.gov.uk/uksi/1986/1335), [art. 14(1)](https://www.legislation.gov.uk/uksi/1986/1335/article/14/1)
+
+[^key-bd5c8efe9ca14155445c82c9b37ecd1c]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/1985/23/section/17/1) substituted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 12(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/19/section/12/2/a/i), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^key-6c2ca5e3befda051462ee0934f8eee4a]: Textual amendment: Words in s. 17(1)(b) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 41(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/41/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^key-1cc4beaaacd1fb04aa9b7010094e8151]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/1985/23/section/17/1) substituted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 12(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/19/section/12/2/a/ii), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^key-8be7c83c65678c7b72462be68a032312]: Textual amendment: [S. 17(2ZA)](https://www.legislation.gov.uk/ukpga/1985/23/section/17/2ZA) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2026/19/section/12/2/b), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^key-0573ef34f99c8b98e3ebbef063d6de83]: Textual amendment: S. 17(2A)-(2C) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/4/3) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-5240eb98652008cd711f1ef8fdbc6353]: Textual amendment: Words in [s. 17(2A)](https://www.legislation.gov.uk/ukpga/1985/23/section/17/2A) substituted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 12(2)(c)](https://www.legislation.gov.uk/ukpga/2026/19/section/12/2/c), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^key-5c822a8ec46b4adf78512bb76b770fb5]: Textual amendment: [S. 17(2AA)](https://www.legislation.gov.uk/ukpga/1985/23/section/17/2AA) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 12(2)(d)](https://www.legislation.gov.uk/ukpga/2026/19/section/12/2/d), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^key-7b4adb825b70af177f982491c059dffd]: Textual amendment: S. 17(3)(4) omitted (1.10.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/4/4) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^c3184011]: Modification: S. 18 applied by [S.I. 1986/1335](https://www.legislation.gov.uk/uksi/1986/1335), [art. 14(1)(2)(3)](https://www.legislation.gov.uk/uksi/1986/1335/article/14/1/2/3)
+
+[^c3184021]: Marginal citation: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
+
+[^key-10dfad4271cc9afff3166005ac7ab27e]: Textual amendment: Words in s. 18(2)(b) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 41(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/41/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^c3184031]: Textual amendment: S. 18(2)(c) added by [Criminal Justice Act 1987 (c. 38, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1987/38), [s. 15](https://www.legislation.gov.uk/ukpga/1987/38/section/15), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1987/38/schedule/2/paragraph/16)
+
+[^c19221391]: Textual amendment: S. 18(2)(d) and preceding word inserted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 312(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/312/3), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/25) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as amended by 2005/2122, art. 2 and 2007/391, art. 2)
+
+[^c19221411]: Textual amendment: S. 18(2A) inserted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 69(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/69/3), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/4) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as amended by 2005/2122, art. 2 and 2007/391, art. 2)
+
+[^c3184041]: Textual amendment: Words in s. 18(5) substituted (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(3)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/3), [Sch. 9 para. 26](https://www.legislation.gov.uk/ukpga/1994/33/schedule/9/paragraph/26); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1995/127/schedule) Appendix A
+
+[^c19221431]: Textual amendment: Words in s. 18(6) inserted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 69(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/69/4), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/4) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as amended by 2005/2122, art. 2 and 2007/391, art. 2)
+
+[^c3184601]: Textual amendment: Words repealed by [Legal Aid Act 1988 (c. 34, SIF 77:1)](https://www.legislation.gov.uk/ukpga/1988/34), [s. 45](https://www.legislation.gov.uk/ukpga/1988/34/section/45), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/1988/34/schedule/5/paragraph/12), [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/34/schedule/6)
+
+[^c3184611]: Textual amendment: Words in s. 19(2)(b) substituted (2.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 24](https://www.legislation.gov.uk/ukpga/1999/22/section/24), [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/1999/22/schedule/4/paragraph/28) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2001/916/article/3/a/ii)
+
+[^key-f4de3d05d6dd2b5a79cc652d34fc4f6b]: Textual amendment: Words in s. 19(2)(b) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/23); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+
+[^c3184631]: Textual amendment: Words inserted (retrospectively) (1.10.1986) by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 166(2)(4)](https://www.legislation.gov.uk/ukpga/1988/33/section/166/2/4), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16)
+
+[^c3184641]: Textual amendment: Words in s. 19(3)(c) substituted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/1), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 99](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/99)
+
+[^c3184651]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6)
+
+[^key-1053212efd2efe2db450bf0859d8d25b]: Textual amendment: Words in s. 19(3)(c)(ii) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 107(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/107/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c3184671]: Textual amendment: S. 19(3)(d) inserted (01. 01. 1992) by [Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/25), [s. 7](https://www.legislation.gov.uk/ukpga/1991/25/section/7), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1991/25/schedule/3/paragraph/8); [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art. 2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
+
+[^c3184621]: Textual amendment: S. 19(3)(e) inserted (27.7.1999) by [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23), [ss. 40(1)](https://www.legislation.gov.uk/ukpga/1999/23/section/40/1), [68(4)(c)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4/c) (with [s. 63(2)](https://www.legislation.gov.uk/ukpga/1999/23/section/63/2), [Sch. 7 paras. 3(3)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/3/3), [4](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/4), [5(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/5/2))
+
+[^key-8eabe686965ab4d9e5e9a929ec4715b2]: Textual amendment: S. 19(3ZA) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/5/2) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^c3184681]: Textual amendment: S. 19(3A) inserted (retrospectively) (1.10.1986) by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 166(3)(4)](https://www.legislation.gov.uk/ukpga/1988/33/section/166/3/4), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16)
+
+[^key-88f16761fe27b3ddfa530488f9c405e5]: Textual amendment: S. 19(3B) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 107(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/107/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^key-9f6e5ee7f3b6728242dc12ce1239b43d]: Textual amendment: Words in s. 19(3B)(b)(i) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/32/2) (with [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+
+[^key-9884d62b4a986f4e6923677d42d6ae3d]: Textual amendment: S. 19(3C) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 4 para. 32(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/32/3) (with [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/v)
+
+[^key-ab4725b14a2d2b4c1ade77a965345b5e]: Textual amendment: Words in s. 19(3C) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 83(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/83/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-d7957c0afe837c415df362dec2048f59]: Textual amendment: Words in s. 19(3C) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 83(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/83/3/a) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-3e79c2e4d989cc08dd7f68ad80e9162c]: Textual amendment: Words in s. 19(3C) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 83(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/83/3/b) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-7bbd5f4e4a7ab0dbabc84152ce66521f]: Textual amendment: Words in s. 19(3C) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 83(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/83/4) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-e9af7ecbdec2e99a942ba5e742d0d01a]: Textual amendment: S. 19(3D) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/5/3) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^c3184691]: Marginal citation: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
+
+[^key-1a9eecf0aa4ed4a8a73c7e870112f785]: Textual amendment: S. 19(4A)-(4C) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 5(4)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/5/4) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^c3184741]: Subordinate legislation: S. 19A: s. 20 (with s. 19A) power exercised (21.3.1991) by [S.I. 1991/789](https://www.legislation.gov.uk/uksi/1991/789).
+
+[^c3184731]: Textual amendment: S. 19A inserted (1.5.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 111](https://www.legislation.gov.uk/ukpga/1990/41/section/111); [S.I. 1991/985](https://www.legislation.gov.uk/uksi/1991/985), [art. 2(a)](https://www.legislation.gov.uk/uksi/1991/985/article/2/a)
+
+[^c19223461]: Textual amendment: S. 19B inserted (1.2.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 93](https://www.legislation.gov.uk/ukpga/2003/39/section/93), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110); [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/174/article/2/a)
+
+[^c3184971]: Subordinate legislation: S. 20: power previously exercised by [S.I. 1986/1335](https://www.legislation.gov.uk/uksi/1986/1335);
+
+    S. 20 (with s. 19A) power exercised by [S.I. 1991/789](https://www.legislation.gov.uk/uksi/1991/789).
+
+[^c19204021]: Modification: S. 20(1)(3) applied (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 62(1)(2)](https://www.legislation.gov.uk/ukpga/2003/41/section/62/1/2), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to savings in Order (as amended by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3312/article/2/2) and [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3258/article/3/2)))
+
+    S. 20(1)(3) applied (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 135(1)(2)](https://www.legislation.gov.uk/ukpga/2003/41/section/135/1/2), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to savings in Order (as amended by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3312/article/2/2) and [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3258/article/3/2)))
+
+[^key-3f77b5f1a3a4f7761acd152c9f5ce3e3]: Textual amendment: Words in s. 20(1) omitted (1.10.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/6/2) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-4f9373731dc3340f91b303b05d4c53e0]: Modification: S. 20(1A)-(1C) applied by 1972 c. 51, s. 36(5C) (as inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 9(4)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/9/4) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g))
+
+[^key-7a25c8b29a545e696ba5bf31389bfcaa]: Modification: S. 20(1A)-(1C) applied by 1988 c. 33, Sch. 3 para. 11(4) (as inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 11(2)(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/11/2/c) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g))
+
+[^key-38d4e8e903898825ececce693243cdc6]: Modification: S. 20(1A)-(1C) applied by 2003 c. 41, s. 62A(6) (as inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/15) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g))
+
+[^key-d047181e98724a4ab0d80241767374d4]: Modification: S. 20(1A)-(1C) applied by 2003 c. 41, s. 134A(6) (as inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/18) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g))
+
+[^key-caecb740eec3e95c9c5efb320c92c180]: Textual amendment: S. 20(1A)-(1C) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/6/3) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-bbe7460a5492e62442c21bebf5aa1324]: Textual amendment: [S. 20(1B)(a)](https://www.legislation.gov.uk/ukpga/1985/23/section/20/1B/a) and word omitted (29.6.2026) by virtue of [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2026/19/section/12/3/a), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^key-f5b081579c78d360d94d47473a89dd3c]: Textual amendment: Words in s. 20(2) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/24); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+
+[^c3185001]: Textual amendment: Words in s. 20(2)(a) substituted (1.5.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 125(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/3), [Sch. 18 para. 53](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/53); [S.I. 1991/985](https://www.legislation.gov.uk/uksi/1991/985), [art. 2(b)](https://www.legislation.gov.uk/uksi/1991/985/article/2/b)
+
+[^key-61d222709ea028329ccbb9246f0f1488]: Modification: S. 20(3) applied by 1972 c. 51, s. 36(5C) (as inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 9(4)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/9/4) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g))
+
+[^key-d1512410480f4a343dc22b74207f6799]: Modification: S. 20(3) applied by 1988 c. 33, Sch. 3 para. 11(4) (as inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 11(2)(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/11/2/c) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g))
+
+[^key-57c60b36462cd09c9c82a7314c3b1613]: Modification: S. 20(3) applied by 2003 c. 41, s. 62A(6) (as inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/15) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g))
+
+[^key-6ec63213b3b6854b3b14256443ea1823]: Modification: S. 20(3) applied by 2003 c. 41, s. 134A(6) (as inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/18) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g))
+
+[^key-7e8cc15c4415954e08be3e38f6a35c8c]: Textual amendment: Words in s. 20(3) substituted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 6(4)(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/6/4/a) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-1d82cb8620ecf170c6c89be0f87d6fc9]: Textual amendment: Words in s. 20(3) substituted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 6(4)(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/6/4/b) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-5d8ccceb2b217113128f75cc94766a44]: Textual amendment: Words in s. 20(3) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 6(4)(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/6/4/c) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-3e7a9502b72e4c4e214fe2d0844d4613]: Textual amendment: [S. 20(4A)](https://www.legislation.gov.uk/ukpga/1985/23/section/20/4A) inserted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2026/19/section/12/3/b), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+
+[^c19204111]: Textual amendment: S. 20(5) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 288(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/288/2), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y/aa)
+
+[^c19204051]: Textual amendment: Words in s. 20(6) substituted (1.2.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 288(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/288/3); [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/174/article/2/b)
+
+[^c19204071]: Textual amendment: Words in s. 20(7) inserted (1.2.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 288(4)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/288/4); [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/174/article/2/b)
+
+[^c19204091]: Textual amendment: Words in s. 20(8)(a)(ii) substituted (1.2.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 288(5)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/288/5); [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/174/article/2/b)
+
+[^key-754937fefd08f70bb165fd5c98c9f7a6]: Textual amendment: Words in s. 20(8)(b) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 41(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/41/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^c3185281]: Textual amendment: Definitions of "accused" and "appellant" in s. 21(1) inserted (1.1.1996) by [1995 c. 35](https://www.legislation.gov.uk/ukpga/1995/35), [s. 29(1)](https://www.legislation.gov.uk/ukpga/1995/35/section/29/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1995/35/schedule/2/paragraph/15); [S.I. 1995/3061](https://www.legislation.gov.uk/uksi/1995/3061), [art. 3(d)(h)](https://www.legislation.gov.uk/uksi/1995/3061/article/3/d/h)
+
+[^c3185291]: Textual amendment: Definition of “legal aid order ” repealed by [Legal Aid Act 1988 (c. 34, SIF 77:1)](https://www.legislation.gov.uk/ukpga/1988/34), [s. 45](https://www.legislation.gov.uk/ukpga/1988/34/section/45), [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/34/schedule/6)
+
+[^c3185301]: Textual amendment: Definition substituted by [Legal Aid Act 1988 (c. 34, SIF 77:1)](https://www.legislation.gov.uk/ukpga/1988/34), [s. 45](https://www.legislation.gov.uk/ukpga/1988/34/section/45), [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/1988/34/schedule/5/paragraph/14)
+
+[^key-b827e42c508f65b806fdff0859fc2540]: Textual amendment: Words in s. 21(1) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 25(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/25/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+
+[^c3185321]: Marginal citation: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
+
+[^c3185331]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
+
+[^key-a66d76c3aae357b8a1f80cfead92cb62]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^key-42c5c261dd782937cc193654335d9248]: Textual amendment: Words in s. 21(4) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/7/2) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^c3185341]: Textual amendment: S. 21(4A) inserted by [Legal Aid Act 1988 (c. 34, SIF 77:1)](https://www.legislation.gov.uk/ukpga/1988/34), [s. 45](https://www.legislation.gov.uk/ukpga/1988/34/section/45), [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/1988/34/schedule/5/paragraph/15)
+
+[^key-b9991f6bb09ef492c590dd1f0a2540b5]: Textual amendment: Words in s. 21(4A) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 7(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/7/3) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^key-1f91f307046be35a0099a53b982aabc0]: Textual amendment: Words in s. 21(4A)(a) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 25(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/25/3); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+
+[^c3185361]: Textual amendment: Words in s. 21(4A)(b) substituted (2.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 4 para. 30(3)(b)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/4/paragraph/30/3/b) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2001/916/article/3/a/ii)
+
+[^c19204121]: Textual amendment: Words in s. 21(4A)(b) substituted (1.2.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 289](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/289); [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/174/article/2/b)
+
+[^key-9899745d97da7844af7c8a846ba9e377]: Textual amendment: Words in s. 21(4A)(b) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 25(4)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/25/4); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+
+[^c3185371]: Textual amendment: Words in 21(6)(a) repealed (31.8.2000) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 pt. V(3)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/3) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2000/1920](https://www.legislation.gov.uk/uksi/2000/1920), [art. 3(c)](https://www.legislation.gov.uk/uksi/2000/1920/article/3/c)
+
+[^c19204141]: Textual amendment: Word in s. 21(6)(b) substituted (9.5.2005 for certain purposes, 18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 41](https://www.legislation.gov.uk/ukpga/2003/44/section/41), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 3 para. 57(4)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/4); [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2](https://www.legislation.gov.uk/uksi/2005/1267/article/2), [Sch. Pt. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2005/1267/schedule/part/1/paragraph/1/m); S.I. 2012/1320, art. 4(1)(c)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(1)(c)(2)(3), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+
+[^key-800474ab6b3faf05c74623e322e122f6]: Textual amendment: Pt. 2A inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/54/1), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 54(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/54/4)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/44)
+
+[^key-8d9f040d83b5ad21022b51ec634f8083]: Textual amendment: Ss. 21A-21F repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c3186881]: Subordinate legislation: S. 22: power previously exercised by [S.I. 1987/299](https://www.legislation.gov.uk/uksi/1987/299), 1988/164, 1989/767, 1989/1107.
+
+[^c3186891]: Subordinate legislation: S. 22(1)(2): s. 22(1)(with ss. 22(2) and 29(2)) power exercised by [S.I. 1991/1515](https://www.legislation.gov.uk/uksi/1991/1515).
+
+[^c3186911]: Textual amendment: S. 22(2)(a)(b) substituted (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 43(1)](https://www.legislation.gov.uk/ukpga/1998/37/section/43/1); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/n).
+
+[^c3186921]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c3186931]: Marginal citation: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63).
+
+[^c3186941]: Textual amendment: S. 22(3) substituted (1.6.1999) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 43(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/43/2); [S.I. 1999/1279](https://www.legislation.gov.uk/uksi/1999/1279), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1279/article/2/a)
+
+[^c3186951]: Textual amendment: Words in s. 22(4) substituted (1.6.1999) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/1998/37/section/43/3); [S.I. 1999/1279](https://www.legislation.gov.uk/uksi/1999/1279), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1279/article/2/a)
+
+[^c3186961]: Textual amendment: Words in s. 22(6) substituted (1.6.1999) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/1998/37/section/43/4); [S.I. 1999/1279](https://www.legislation.gov.uk/uksi/1999/1279), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1279/article/2/a)
+
+[^c3186981]: Textual amendment: S. 22(6A) inserted (1.6.1999) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 43(5)](https://www.legislation.gov.uk/ukpga/1998/37/section/43/5); [S.I. 1999/1279](https://www.legislation.gov.uk/uksi/1999/1279), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1279/article/2/a)
+
+[^c19222021]: Textual amendment: S. 22(6B) inserted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 70](https://www.legislation.gov.uk/ukpga/2003/44/section/70), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/4) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as amended by 2005/2122, art. 2 and 2007/391, art. 2)
+
+[^c3186991]: Textual amendment: Words in s. 22(7) inserted (1.6.1999) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 43(6)](https://www.legislation.gov.uk/ukpga/1998/37/section/43/6); [S.I. 1999/1279](https://www.legislation.gov.uk/uksi/1999/1279), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1279/article/2/a)
+
+[^c3187001]: Textual amendment: Words in s. 22(8) inserted (1.6.1999) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 43(7)](https://www.legislation.gov.uk/ukpga/1998/37/section/43/7); 1999/1279, art. 2(a)
+
+[^c19222141]: Textual amendment: S. 22(11): words in definition of “appropriate court” substituted (9.5.2005 for specified purposes, 18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5 2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 57(5)(a)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/5/a); [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/1267/schedule/part/2); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(1)(2)(c)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+
+[^c3187031]: Textual amendment: Definition of "custody" in s. 22(11) inserted (14. 10. 1991) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 100](https://www.legislation.gov.uk/ukpga/1991/53/section/100), [Sch. 11 para. 36](https://www.legislation.gov.uk/ukpga/1991/53/schedule/11/paragraph/36); [S.I. 1991/2208](https://www.legislation.gov.uk/uksi/1991/2208), [art. 2(1)](https://www.legislation.gov.uk/uksi/1991/2208/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2208/schedule/1).
+
+[^key-32a2d7dffbe0bb189280c8c98456da3c]: Textual amendment: Words in s. 22(11) substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 22](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/22); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j)
+
+[^c19222181]: Textual amendment: S. 22(11): definition of "custody of the Crown Court" substituted (9.5.2005 for specified purposes, 18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5 2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 57(5)(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/5/b); [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1267/schedule/part/1); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(1)(2)(c)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+
+[^c3187081]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c3187091]: Textual amendment: Definition of "preliminary stage" in s. 22(11) substituted (4.7.1996 with effect as mentioned in s. 71(5)(a)(b)(6) of the substituting Act) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(2)(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/2/5) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+
+[^c3187101]: Textual amendment: S. 22(11ZA) inserted (1.6.1999) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 43(8)](https://www.legislation.gov.uk/ukpga/1998/37/section/43/8); [S.I. 1999/1279](https://www.legislation.gov.uk/uksi/1999/1279), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1279/article/2/a)
+
+[^c3187111]: Textual amendment: S. 22(11A)(11B) inserted (4.7.1996 with effect as mentioned in s. 71(5)(a)(b)(6) of the inserting Act) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(3)(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/3/5) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+
+[^c19222301]: Textual amendment: Words in s. 22(11A) substituted (24.7.2006) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 36 para. 51(2)(a)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/paragraph/51/2/a); [S.I. 2006/1835](https://www.legislation.gov.uk/uksi/2006/1835), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/1835/article/2/h) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2006/1835/article/3))
+
+[^c19222341]: Textual amendment: Words in s. 22(11A) substituted (24.7.2006) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 36 para. 51(2)(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/paragraph/51/2/b); [S.I. 2006/1835](https://www.legislation.gov.uk/uksi/2006/1835), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/1835/article/2/h) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2006/1835/article/3))
+
+[^c3187121]: Marginal citation: [1987 c. 38](https://www.legislation.gov.uk/ukpga/1987/38).
+
+[^c3187131]: Marginal citation: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
+
+[^c3187151]: Modification: S. 22(11B) applied (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 47(1)](https://www.legislation.gov.uk/ukpga/1998/37/section/47/1); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/k).
+
+[^c3187161]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^c19222361]: Textual amendment: S. 22(11AA) inserted (24.7.2006) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 36 para. 51(3)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/paragraph/51/3); [S.I. 2006/1835](https://www.legislation.gov.uk/uksi/2006/1835), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/1835/article/2/h) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2006/1835/article/3))
+
+[^c3187171]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
+
+[^key-276e7d9c3664400efa5b295e218055b3]: Textual amendment: S. 22A repealed (12.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(a)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/a), [Sch. 7 para. 129](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/129), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+
+[^c3185561]: Textual amendment: S. 22B inserted (1.6.1999) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss.45](https://www.legislation.gov.uk/ukpga/1998/37/section/45); [S.I. 1999/1279](https://www.legislation.gov.uk/uksi/1999/1279), [art. 2(c)](https://www.legislation.gov.uk/uksi/1999/1279/article/2/c)
+
+[^c3185551]: Textual amendment: S. 22A inserted (1.6.1999) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss.44](https://www.legislation.gov.uk/ukpga/1998/37/section/44), [S.I](https://www.legislation.gov.uk/ukpga/1998/37/section/I). 1999/1279, art. 2(b)
+
+[^c3187211]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c19223511]: Textual amendment: Words in s. 22B(5)(a) substituted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [337](https://www.legislation.gov.uk/ukpga/2003/44/section/337), [Sch. 36 Pt. 3 para. 17](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/part/3/paragraph/17); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 43(a)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/43/a) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as amended by 2005/2122, art. 2 and 2007/391, art. 2)
+
+[^c3187221]: Marginal citation: [1996 c.25](https://www.legislation.gov.uk/ukpga/1996/25).
+
+[^c19223031]: Modification: S. 23 applied (with modifications) (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 38(5)](https://www.legislation.gov.uk/ukpga/2005/15/section/38/5), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/5) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
+
+[^c19222781]: Modification: S. 23 applied (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2005/11/section/36/3), [53](https://www.legislation.gov.uk/ukpga/2005/11/section/53); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/g)
+
+[^c19222821]: Textual amendment: S. 23(2)(a)(b) substituted for words (9.5.2005 for specified purposes, 18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5 2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 57(6)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/6); [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/1267/schedule/part/2); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(1)(2)(c)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+
+[^c19222551]: Textual amendment: Words in s. 23(3)(7)(8) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 290(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/290/2); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+
+[^c19222511]: Textual amendment: Words in s. 23(10) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 290(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/290/3); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xiii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xiii) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
+
+[^c19227061]: Modification: S. 23A applied (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2005/11/section/36/3), [53](https://www.legislation.gov.uk/ukpga/2005/11/section/53); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/g)
+
+[^c19229751]: Modification: S. 23A applied (with modifications) (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 38(5)](https://www.legislation.gov.uk/ukpga/2005/15/section/38/5), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/5) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
+
+[^c3185571]: Textual amendment: S. 23A inserted (4.1.1999 for specified purposes and otherwise 15.1.2001) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 119](https://www.legislation.gov.uk/ukpga/1998/37/section/119), [Sch. 8 para.64](https://www.legislation.gov.uk/ukpga/1998/37/schedule/8/paragraph/64); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 4(2)(c)](https://www.legislation.gov.uk/uksi/1998/2327/article/4/2/c); [S.I. 2000/3283](https://www.legislation.gov.uk/uksi/2000/3283), [art. 2(c)](https://www.legislation.gov.uk/uksi/2000/3283/article/2/c) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2000/3283/article/3))
+
+[^c19227231]: Textual amendment: Words in s. 23A(1)(b) repealed (9.5.2005 for specified purposes, 18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5 2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 57(7)(a)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/7/a), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1267/schedule/part/1); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(1)(c)(d)(2)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(d)(2)(3) (with arts. 3, 4)
+
+[^c19227181]: Textual amendment: Word in s. 23A(2) substituted (9.5.2005 for specified purposes, 18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5 2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 57(7)(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/57/7/b); [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2005/1267/article/2/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/1267/schedule/part/2); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(1)(c)(2)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+
+[^c3187331]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
+
+[^key-b56e5ab34531c40ef9c1c33dc578452d]: Textual amendment: S. 25(2A) inserted (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 153(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/153/2), [157(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/3/b)
+
+[^c13001101]: Textual amendment: S. 27 repealed (14.10.1991 ) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch. 15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
+
+[^key-3958c52c941622cc202036bf066693b2]: Textual amendment: S. 28 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+
+[^c3187371]: Subordinate legislation: S. 29: power previously exercised by [S.I.1985/1846](https://www.legislation.gov.uk/uksi/1985/1846), 1987/299, 1988/164, 1989/767, 1989/1105.
+
+[^key-9354ee0f679659f8ab47d17f48666059]: Textual amendment: S. 29(1)-(1B) substituted for s. 29(1) (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 8(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/8/2) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^c3187381]: Subordinate legislation: S. 29(2): s. 22(1)(with ss. 22(2) and 29(2)) power exercised by [S.I.1991/1515](https://www.legislation.gov.uk/uksi/1991/1515).
+
+[^key-96b3c7040ac2ac14213bdb14eb0c95e1]: Textual amendment: Words in s. 29(2) substituted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 8(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/8/3) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)
+
+[^c3187391]: Modification: Power of appointment conferred by s. 31(2)(3) partly exercised: [S.I. 1985/1849](https://www.legislation.gov.uk/uksi/1985/1849), 1986/1029, 1334
+
+[^key-c3dd51a577e2cee07c1c6d52a8b8b7f9]: Textual amendment: S. 31(4) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+
+[^c3187411]: Textual amendment: Sch. 1 para. 1 repealed (4.9.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(3)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/3), [Sch.11](https://www.legislation.gov.uk/ukpga/1994/33/schedule/11); [S.I. 1995/1957](https://www.legislation.gov.uk/uksi/1995/1957), [art.6](https://www.legislation.gov.uk/uksi/1995/1957/article/6)
+
+[^key-a41f15e2db9a588c5b866913c63ddc09]: Textual amendment: Sch. 1 para. 2 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5 2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(1)(d)(2)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(d)(2)(3) (with arts. 3, 4)
+
+[^key-d9232d7ccc2fc8dd44211cddc4aff842]: Textual amendment: Sch. 1 para. 3 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5 2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(1)(d)(2)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); S.I. 2013/1103, art. 2(1)(c)(d)(2)(3) (with arts. 3, 4)
+
+[^key-bcd94b801c4d64b24348fdea80d53f71]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1985/23/schedule/1/paragraph/8) omitted (1.10.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/paragraph/10) (with [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/7/part/4)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/g)

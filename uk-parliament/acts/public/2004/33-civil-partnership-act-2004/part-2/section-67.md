@@ -1,0 +1,52 @@
+---
+title: Civil Partnership Act 2004, section 67
+act: Civil Partnership Act 2004
+section: '67'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2004/33/section/67
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Civil Partnership Act 2004, section 67
+
+> **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 67. Applications under section 66 where property not in possession etc.
+
+*Extent: E+W*
+
+(1) The right of a civil partner (“A”) to make an application under section 66 includes the right to make such an application where A claims that the other civil partner (“B”) has had in his possession or under his control—
+
+- (a) money to which, or to a share of which, A was beneficially entitled, or
+- (b) property (other than money) to which, or to an interest in which, A was beneficially entitled,
+
+and that either the money or other property has ceased to be in B’s possession or under B’s control or that A does not know whether it is still in B’s possession or under B’s control.
+
+(2) For the purposes of subsection (1)(a) it does not matter whether A is beneficially entitled to the money or share—
+
+- (a) because it represents the proceeds of property to which, or to an interest in which, A was beneficially entitled, or
+- (b) for any other reason.
+
+(3) Subsections (4) and (5) apply if, on such an application being made, the court is satisfied that B—
+
+- (a) has had in his possession or under his control money or other property as mentioned in subsection (1)(a) or (b), and
+- (b) has not made to A, in respect of that money or other property, such payment or disposition as would have been appropriate in the circumstances.
+
+(4) The power of the court to make orders under section 66 includes power to order B to pay to A—
+
+- (a) in a case falling within subsection (1)(a), such sum in respect of the money to which the application relates, or A’s s share of it, as the court considers appropriate, or
+- (b) in a case falling within subsection (1)(b), such sum in respect of the value of the property to which the application relates, or A’s interest in it, as the court considers appropriate.
+
+(5) If it appears to the court that there is any property which—
+
+- (a) represents the whole or part of the money or property, and
+- (b) is property in respect of which an order could (apart from this section) have been made under section 66,
+
+the court may (either instead of or as well as making an order in accordance with subsection (4)) make any order which it could (apart from this section) have made under section 66.
+
+(6) Any power of the court which is exercisable on an application under section 66 is exercisable in relation to an application made under that section as extended by this section.

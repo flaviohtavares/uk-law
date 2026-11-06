@@ -1,0 +1,1307 @@
+---
+title: The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019
+id: uksi/2019/680
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2019-03-26'
+text_date: '2026-01-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/680
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/680/pdfs/uksiem_20190680_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/680/pdfs/uksi_20190680_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/680/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-01-19. See https://www.legislation.gov.uk/changes/affected/uksi/2019/680
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 680
+
+Exiting The European Union
+
+Financial Services
+
+The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019
+
+Made
+
+26th March 2019
+
+Coming into force in accordance with regulation 1
+
+[^c23666211]A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018 .
+
+The Treasury make the following Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, that Act.[^key-33620ea593000fdfbbe0086248cb73b7]
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and interpretation[^key-b71ccf66ea0e4cbb23c823b7fb1399a4]
+
+(1) These Regulations may be cited as the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019.
+
+(2) Regulations 2, 3, 4, 5, 11 and Schedules 1 and 2 come into force on exit day.
+
+(3) The other provisions in these Regulations come into force immediately before exit day.
+
+(4) In these Regulations—
+
+- (a) the “**CIIU (EU Exit) Regulations 2019**” means the Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 [^c23666221];
+- (b) “**Gibraltarian insurer**” means an undertaking pursuing the activity of direct insurance (within the meaning of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council on the taking up and pursuit of the business of Insurance and Reinsurance (“Solvency 2 Directive”) which has received authorisation under the law of Gibraltar which was relied on by Gibraltar before IP completion day[^key-02b7912be7cfb1a62be644d597584981] to implement Article 14 or Article 162 of the Solvency 2 Directive from the Gibraltarian regulator.
+
+## PART 2 — Gibraltar related amendments
+
+### 2. The Insurers (Reorganisation and Winding Up) Regulations 2004[^key-fc1012afc8b15604aaef870073b215a5]
+
+(1) The Insurers (Reorganisation and Winding Up) Regulations 2004 [^c23666231] apply in relation to the winding up or reorganisation of Gibraltarian insurers, or the determination of Gibraltarian rights in relation to the winding-up or reorganisation of UK insurers—
+
+- (a) as if the amendments made by the CIIU (EU Exit) Regulations 2019 had not been made; and
+- (b) subject to the modifications set out in Schedule 1.
+
+### 3. The Credit Institutions (Reorganisation and Winding Up) Regulations 2004[^key-042821e9136abfd24223258ea2d29fca]
+
+The Credit Institutions (Reorganisation and Winding Up) Regulations 2004 [^c23666241] apply in relation to the winding up or reorganisation of Gibraltarian credit institutions, investment firms and group companies[^key-8f5456c7a9d394b479abca6ae6f65079] or the determination of Gibraltarian rights in relation to the winding-up or reorganisation of UK credit institutions—
+
+- (a) as if the amendments made by the CIIU (EU Exit) Regulations 2019 had not been made; and
+- (b) subject to the modifications set out in Schedule 2.
+
+### 4. The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005[^key-bbc4ca17a749daea020d887135aeda6d]
+
+(1) The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 [^c23666251] apply in relation to the winding up or reorganisation of Gibraltarian insurers, or the determination of Gibraltarian rights in relation to the winding-up or reorganisation of UK insurers—
+
+- (a) as if the amendments made by the CIIU (EU Exit) Regulations 2019 had not been made; and
+- (b) subject to the modifications set out in paragraphs (2) to (8).
+
+(2) Regulation 2 [^c23666261] applies as if, in paragraph (1)—
+
+- (a) in the definition of “the association of underwriters known as Lloyd's”, at the end there were inserted “as it had effect immediately before IP completion day[^key-d68c43cd3c404b89463a0f5229125393]”;
+- (b) in the definition of “overseas insurance business”, for “an EEA State” there were substituted “ the United Kingdom or Gibraltar ”.
+
+(3) Regulation 10 [^c23666271] applies as if, in paragraph (2)—
+
+- (a) for “the EEA regulators” there were substituted “ the Gibraltarian regulators ”;
+- (b) “in every EEA State” was omitted.
+
+(4) Regulation 34 applies as if, in the heading, for “EEA regulators” there were substituted “ Gibraltarian regulators ”.
+
+(5) Regulation 37 applies as if—
+
+- (a) in the heading, for “EEA creditor”, there were substituted “ Gibraltarian creditor ”;
+- (b) for “EEA creditors”, there were substituted “ Gibraltarian creditors ”;
+- (c) for “an EEA creditor”, each time it occurs, there were substituted “ a Gibraltarian creditor ”.
+
+(6) Regulation 45 [^c23666281] applies as if, in paragraph (1), for “EEA” there were substituted “ Gibraltarian ”.
+
+(7) Regulation 46 applies as if, in paragraph (4), for “EEA” there were substituted “ Gibraltarian ”.
+
+(8) Regulation 48 is to be ignored.
+
+### 5. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-d8f690143fdcd68350eb7463237c4f62]
+
+In Part 1 of Schedule 3 to the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 [^c23666291]—
+
+- (a) in the heading to the Part, after “EEA” insert “ or Gibraltar ”;
+- (b) in sub-paragraph (a), after “an EEA State” insert “ or in Gibraltar ”;
+- (c) in sub-paragraph (b), after “situated” insert “ or (where its head office is situated in Gibraltar), in Gibraltar ”.
+
+### 6. The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018[^key-e67b7846c50fb6bf117faa2825992d79]
+
+In Regulation 6(2) of the Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 [^c23666301], in point (A2) of the inserted text—
+
+- (a) in point (a), at the end, omit “and”;
+- (b) at the end of point (b), insert—
+
+  > and
+  >
+  > - (c) Gibraltar;
+
+  .
+
+### 7. The Friendly Societies (Amendment) (EU Exit) Regulations 2018[^key-7ceeca6f7a4605fa8aa9c0c9853a9cd0]
+
+(1) The Friendly Societies (Amendment) (EU Exit) Regulations 2018 [^c23666311] are amended as follows.
+
+(2) In regulation 9, in the new paragraph (a), after “United Kingdom” insert “ or Gibraltar ”.
+
+(3) In regulation 10, in the new paragraph (a), after “United Kingdom” insert “ or Gibraltar ”.
+
+(4) In regulation 12(a)(i), in the new text, after “the United Kingdom” insert “ or Gibraltar ”.
+
+### 8. The Market Abuse (Amendment) (EU Exit) Regulations 2019[^key-650a19d0e9f3e22e1f348fb2d925dff9]
+
+(1) The Market Abuse (Amendment) (EU Exit) Regulations 2019 are amended as follows.
+
+(2) In regulation 9(2)—
+
+- (a) in sub-paragraph (a)(i)—
+  - (i) in paragraph (aa), after “UK regulated market” insert “ , Gibraltar regulated market ”;
+  - (ii) in paragraph (bb), after “UK MTF” insert “ , Gibraltar MTF ”;
+  - (iii) in paragraph (cc), after “UK OTF” insert “ , Gibraltar OTF ”;
+- (b)[^key-c9838421412e2f4df84603b3f02e8ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In regulation 10(2)—
+
+- (a) in paragraph (e), in the inserted text—
+  - (i) after point (6B), insert—
+
+    > (6C) ‘Gibraltar regulated market’ means a regulated market which is authorised and functions regularly and in accordance with Part 3 of the Financial Services (Markets in Financial Instruments) Act 2018 of Gibraltar [^c23666321];
+
+    ;
+  - (ii) after point (7B), insert—
+
+    > (7C) ‘Gibraltar multilateral trading facility’ or ‘Gibraltar MTF’ means a multilateral system, operated by an investment firm or a market operator, which brings together multiple third-party buying and selling interests in financial instruments (in the system and in accordance with non-discretionary rules) in a way which results in a contract in accordance with Part 2 of the Financial Services (Markets in Financial Instruments) Act 2018 of Gibraltar;
+
+    ;
+  - (iii) after point (8B), insert—
+
+    > (8C) ‘Gibraltar organised trading facility’ or ‘Gibraltar OTF’ means a multilateral system—
+    >
+    > - (a) which is not a regulated market or an MTF;
+    > - (b) in which multiple third-party buying and selling interests in bonds, structured finance products, emission allowances or derivatives are able to interact in the system in a way that results in a contract, in accordance with Part 2 of the Financial Services (Markets in Financial Instruments) Act 2018 of Gibraltar;
+
+    ;
+- (b) in paragraph (g), in the inserted text, after point (10B), insert—
+
+  > (10C) ‘Gibraltar trading venue’ means a Gibraltar regulated market, a Gibraltar MTF or a Gibraltar OTF;
+
+  ;
+- (c) in paragraph (j)—
+  - (i) after “the United Kingdom”, the first time it occurs, insert “ or Gibraltar ”;
+  - (ii) after “the United Kingdom” the second time it occurs, insert “ or Gibraltar respectively ”;
+- (d) in paragraph (q), in the inserted text, after point (36), insert—
+
+  > (36A) ‘GFSC’ means the Financial Services Commission of Gibraltar;
+
+  .
+
+(4) In regulation 10(3), after “UK trading venue” insert “ , Gibraltar trading venue ”.
+
+(5) In regulation 10(5)—
+
+- (a) in sub-paragraph (a)(i), after “FCA” insert “ , GFSC ”;
+- (b) in sub-paragraph (b), after point (b) of the new paragraph 3, insert—
+
+  > - (c) where shares have been admitted to trading or are traded on a Gibraltar trading venue, the issuer must report to the GFSC each transaction relating to the buy-back programme, including the information referred to in Article 5(3) of Regulation (EU) No 596/2014 of the European Parliament and of the Council on market abuse (as it applies in Gibraltar after IP completion day[^key-c4edfbe8f4638ee942423bb7a0cad990]).
+
+  ;
+- (c) in sub-paragraph (c)(i), after point (ii) of the new point (b), insert—
+
+  > - (iii) where the securities or associated instruments are traded on a Gibraltar trading venue, to the GFSC in accordance with Article 5(5) of Regulation (EU) No 596/2014 of the European Parliament and of the Council on market abuse (as it applies in Gibraltar after IP completion day[^key-ff981725e75fe451eef8fb93614b9a31]).
+
+  ;
+- (d) in sub-paragraph (e), in the new paragraph 6—
+  - (i) in point (a), after point (ii), insert—
+
+    > - (iii) as that Regulation forms part of the law of Gibraltar, where the trading takes place on a Gibraltar trading venue;
+  - (ii) after point (c), insert—
+
+    > - (d) any equivalent provisions made by the GFSC which specify the conditions which buy-back programmes and stabilisation measures referred to in paragraphs 1 and 4 must meet, including conditions for trading, restrictions regarding time and volume, disclosure and reporting obligations and price conditions, where the trading takes place on a Gibraltar trading venue.
+
+(6) In regulation 10(6)(a)(iv), after new point (d) insert—
+
+> - (e) the Government of Gibraltar;
+> - (f) any special purpose vehicle of the Government of Gibraltar;
+> - (g) any special purpose vehicle created by the Government of Gibraltar and the United Kingdom or one or more Member States.
+
+(7) In regulation 11—
+
+- (a) in paragraph (1)(a), after “United Kingdom,” insert “ Gibraltar, ”;
+- (b) in paragraph (5), in sub-paragraph (a)(i), after “UK trading venue”, both times it occurs, insert “ , Gibraltar trading venue ”;
+- (c) in paragraph (6), in sub-paragraph (a), in the inserted text—
+  - (i) at the end of point (a), omit “or”;
+  - (ii) after point (b), insert—
+
+    > or
+    >
+    > - (c) in relation to a market in Gibraltar, in accordance with Article 13 of Regulation (EU) No 596/2014 of the European Parliament and of the Council on market abuse as it applies in Gibraltar after IP completion day[^key-5c6c70920bfe775b01e4dfbcb12aa188].
+
+    .
+
+(8) In regulation 12(4), in paragraph 3(2) of the inserted text, in the words after point (b), after “United Kingdom” insert “ , in Gibraltar ”.
+
+(9) In regulation 13—
+
+- (a) in paragraph (3)(d), after “the FCA” insert “ , the GFSC ”;
+- (b) in paragraph (5)(b)(i), after paragraph (aa), insert—
+
+  > - (aba) after “regulatory authorities” insert “ (including authorities in Gibraltar) ”;
+
+  ;
+
+### 9. The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019[^key-34607a5b4f30e88c70049cce69349b1a]
+
+(1) The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 [^c23666331] are amended as follows.
+
+(2) In regulation 32(2)(b), after “United Kingdom”, insert “ or Gibraltar ”.
+
+(3) In regulation 53—
+
+- (a) in paragraph (a), after “United Kingdom”, insert “ or Gibraltar ”;
+- (b) in paragraph (b), in the opening words of the new paragraph (b), after “Kingdom)” insert “ or of Gibraltar ”.
+
+(4) In regulation 56, after paragraph (b), insert—
+
+> - (c) in the appropriate place, insert—
+>
+>   > “**qualifying credit institution**” includes a credit institution which is authorised under the law of Gibraltar relied on immediately before IP completion day[^key-f856b5dbaab3944b0a222d927c68549c] to implement the capital requirements directive.
+
+.
+
+(5) In regulation 88, for paragraph (f), substitute—
+
+> - (f) for subsection (10), substitute—
+>
+>   > (10) For the purposes of this section “**qualifying credit institution**” includes a credit institution which is authorised under the law of Gibraltar relied on immediately before IP completion day[^key-17d447d1288e9f1abd8f6ed9bd11e266] to implement the capital requirements directive.
+
+.
+
+(6) In regulation 106, omit paragraph (2).
+
+(7) In regulation 184(3), after “United Kingdom” insert “ or Gibraltar ”.
+
+### 10. The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^key-ecd52dc0157a56a6b2f5b84eddc59456]
+
+(1) The Solvency 2 and Insurance (Amendment, etc) (EU Exit) Regulations 2019 [^c23666341] are amended as follows.
+
+(2) In regulation 7(2), in the new paragraph (1)—
+
+- (a) insert, at the appropriate places—
+
+  > “**financial conglomerate**” has the meaning given in regulation 1(2) of the Financial Conglomerates and Other Financial Groups Regulations 2004 [^c23666351], as amended by the Financial Conglomerates and Other Financial Groups (Amendments etc.) (EU Exit) Regulations 2019 [^c23666361];
+  >
+  > “**FSC**” means the Financial Services Commission of Gibraltar”;
+  >
+  > “**Gibraltarian insurance undertaking**” means an undertaking which—
+  >
+  > - (a) has its head office in Gibraltar;
+  > - (b) is authorised by the FSC to carry on one or more classes of insurance business within the meaning of section 2(1) of the Financial Services (Insurance Companies) Act of Gibraltar [^c23666371]; and
+  > - (c) would require authorisation in accordance with Article 14 of the Solvency 2 Directive if the United Kingdom were a member State;
+
+  ;
+
+  > “**Gibraltarian reinsurance undertaking**” means an undertaking which—
+  >
+  > - (a) has its head office in Gibraltar;
+  > - (b) is authorised by the FSC to carry on insurance business limited to reinsurance within the meaning of section 2(1A) of the Financial Services (Insurance Companies) Act of Gibraltar; and
+  > - (c) would require authorisation in accordance with Article 14 of the Solvency 2 Directive if the United Kingdom were a member State;
+
+  ;
+
+  > “**mixed financial holding company**” means a parent undertaking other than a regulated entity, which, together with its subsidiaries, at least one of which is a regulated entity which has its head office in the United Kingdom or in Gibraltar, constitutes a financial conglomerate;
+
+  ;
+- (b) in the definition of “insurance holding company”—
+  - (i) after “reinsurance undertakings, the first time it occurs, insert “ or Gibraltarian insurance or reinsurance undertakings, ”;
+  - (ii) at the end insert “ or a Gibraltarian insurance or reinsurance undertaking ”;
+- (c) in the definition of “mixed-activity insurance holding company”—
+  - (i) after “reinsurance undertaking”, the first time it occurs, insert “ or Gibraltarian insurance or reinsurance undertaking ”;
+  - (ii) at the end insert “ or a Gibraltarian insurance or reinsurance undertaking ”;
+- (d) in the definition of “non-UK solvency 2 parent”, in paragraph (b), at the end insert “ and Gibraltar ”;
+- (e) in the definition of “regulated entity” insert at the end “ (as amended by the Financial Conglomerates and Other Financial Groups (Amendments etc.) (EU Exit) Regulations 2019), read as if the reference in paragraph (b) of that definition to insurance undertakings and reinsurance undertakings included a reference to Gibraltarian insurance undertakings and Gibraltarian reinsurance undertakings ”;
+- (f) in the definition of “third country”, at the end, insert “ or Gibraltar ”;
+- (g) in the definition of “third country insurance undertaking”, at the end insert “ but does not include a Gibraltarian insurance undertaking ”;
+- (h) in the definition of “third country reinsurance undertaking”, at the end insert “ but does not include a Gibraltarian reinsurance undertaking ”;
+- (i) in the definition of “UK solvency 2 parent”, after “United Kingdom” insert “ or Gibraltar ”.
+
+(3) In regulation 8(3), after new regulation 4B, insert—
+
+> **4C. Powers in relation to Gibraltar undertakings**
+>
+> (1) If this regulation applies, the PRA may impose any requirement in relation to a Gibraltarian insurance undertaking or a Gibraltarian reinsurance undertaking (the Gibraltarian undertaking) which it could impose if—
+>
+> - (a) the undertaking's permission was a Part 4A permission (as defined by section 55A(5) of FSMA [^c23666381]); and
+> - (b) the PRA was entitled to exercise its power under section 55M(3) of FSMA.
+>
+> (2) This regulation applies if—
+>
+> - (a) the Gibraltarian undertaking is contravening, or is at material risk of contravening, in respect of its activities in the United Kingdom, any requirement applying to that undertaking in or under these Regulations, the Solvency 2 Regulation, or UK law which implemented the Solvency 2 directive (“a relevant requirement”);
+> - (b) the undertaking has, in purported compliance with any relevant requirement imposed on it, knowingly or recklessly given the PRA information which is false or misleading in a material particular; or
+> - (c) subject to paragraph (3), it is desirable to impose the requirement in order to advance any of the PRA's objectives.
+>
+> (3) The PRA may not impose a requirement in reliance on paragraph (2)(c) if doing so would, before IP completion day[^key-62245dd17a4b7ace4a2e42858a97a916], have been considered to constitute financial supervision of the undertaking unless the conditions in paragraph (4) are satisfied.
+>
+> (4) The conditions in this paragraph are satisfied if—
+>
+> - (a) the requirement to be imposed is necessary and appropriate to protect against the risk of disruption to the continuity of financial services that could, in the opinion of the PRA, threaten financial stability in the United Kingdom;
+> - (b) the FSC has not, in the opinion of the PRA, taken measures to ensure the contravention or risk of contravention is remedied; and
+> - (c) no reorganisation measures have been commenced by the FSC or other authorities in Gibraltar in relation to the undertaking.
+>
+> (5) For the purposes of this regulation, “**reorganisation measures**” means any measures by the FSC or other Gibraltarian authorities which are intended to preserve or restore the financial situation of the Gibraltar insurance or reinsurance undertaking concerned (“the relevant undertaking”) and which affect pre-existing rights of parties other than the relevant undertaking itself, including but not limited to measures involving the possibility of a suspension of payments, suspension or enforcement measures or reduction of claims.
+>
+> (6) Nothing in this regulation affects the powers of the FSC or any other Gibraltarian authority.
+>
+> **4D. Procedure on the exercise of powers under regulation 4C**
+>
+> (1) A requirement takes effect—
+>
+> - (a) immediately, if the notice given under paragraph (3) states that that is the case;
+> - (b) on such date as may be specified in the notice; or
+> - (c) if no date is specified in the notice, when the matter to which it relates is no longer open to review.
+>
+> (2) A requirement may be expressed to take effect immediately (or on a specified date) only if the PRA, having regard to the ground on which it is exercising the power under regulation 4C, considers that it is necessary for the requirement to take effect immediately (or on that date).
+>
+> (3) If the PRA proposes to impose a requirement under regulation 4C on a Gibraltar insurance or reinsurance undertaking, or imposes such a requirement with immediate effect, it must give the undertaking written notice.
+>
+> (4) The notice must—
+>
+> - (a) give details of the requirement;
+> - (b) inform the undertaking of when the requirement takes effect;
+> - (c) state the PRA's reasons for imposing the requirement and for its determination as to when the requirement takes effect;
+> - (d) inform the undertaking that it may make representations to the PRA within such period as may be specified in the notice (whether or not it has referred the matter to the Upper Tribunal); and
+> - (e) inform it of its right to refer the matter to the Upper Tribunal.
+>
+> (5) The PRA may extend the period allowed under the notice for making representations.
+>
+> (6) If, having considered any representations made by the undertaking, the PRA decides—
+>
+> - (a) to impose the requirement proposed, or
+> - (b) if it has been imposed, not to rescind the requirement,
+>
+> it must give the undertaking written notice.
+>
+> (7) If, having considered any representations made by the undertaking, the PRA decides—
+>
+> - (a) not to impose the requirement proposed,
+> - (b) to impose a different requirement from that proposed, or
+> - (c) to rescind a requirement which has effect,
+>
+> it must give it written notice.
+>
+> (8) A notice given under paragraph (6) must inform the undertaking of its right to refer the matter to the Upper Tribunal.
+>
+> (9) A notice under paragraph (7)(b) must comply with paragraph (4).
+>
+> (10) If a notice informs a person of the person's right to refer a matter to the Upper Tribunal, it must give an indication of the procedure on such a reference.
+
+(4) In regulation 9—
+
+- (a) in paragraph (2), in the new regulation 9A—
+  - (i) for paragraph (a), substitute—
+
+    > - (a) insurance or reinsurance undertakings—
+    >   - (i) which are a participating undertaking in at least one insurance undertaking, reinsurance undertaking, Gibraltarian insurance undertaking, Gibraltarian reinsurance undertaking, third-country insurance undertaking or third-country reinsurance undertaking; or
+    >   - (ii) the parent undertaking of which is a Gibraltarian insurance undertaking or a Gibraltarian reinsurance undertaking;
+  - (ii) in paragraph (b), after “United Kingdom” insert “ or Gibraltar ”;
+- (b) in paragraph (2), in the new regulation 9B—
+  - (i) in the opening words, after “reinsurance undertaking” insert “ , or participating Gibraltarian insurance or reinsurance undertaking ”;
+  - (ii) after sub-paragraph (a), insert—
+
+    > - (aa) another Gibraltar insurance or reinsurance undertaking;
+
+    ;
+  - (iii) in the words after sub-paragraph (c)—
+    - (aa) after “United Kingdom” the first time it occurs, insert “ or Gibraltar ”;
+    - (bb) for the words from “ultimate” to the end of the regulation, substitute “ ultimate UK solvency 2 parent which has its head office in the United Kingdom or in Gibraltar. ”.
+- (c) in paragraph (3)—
+  - (i) for sub-paragraph (b)(i), substitute—
+
+    > - (i) in the first paragraph—
+    >   - (aa) in sub-paragraphs (a) and (b), for “insurance undertaking or reinsurance undertaking” both times it appears, substitute “ insurance undertaking, Gibraltarian insurance undertaking, reinsurance undertaking or Gibraltarian reinsurance undertaking ”;
+    >   - (bb) in sub-paragraph (a), for “an EEA State” substitute “ the United Kingdom or Gibraltar ”;
+    >   - (cc) in sub-paragraph (b), after “reinsurance undertaking,” insert “ Gibraltarian insurance undertaking, Gibraltarian reinsurance undertaking, ”
+
+    ;
+  - (ii) for sub-paragraph (c), substitute—
+
+    > - (c) in Table 1, in the second row—
+    >   - (i) for “EEA solvency 2 parent” both times it occurs, substitute “ UK solvency 2 parent ”;
+    >   - (ii) after “in accordance with” insert “ the law of the United Kingdom or of Gibraltar which was relied on by the United Kingdom or Gibraltar respectively immediately before IP completion day[^key-3cf62e0827458aed632bf04bee6061bc] to implement ”
+
+    ;
+- (d) for paragraph (5), substitute—
+
+  > (5) Omit regulation 12 (exclusion of undertaking from group supervision).
+- (e) after paragraph (5) insert—
+
+  > (5A) For regulation 13, substitute—
+  >
+  > > **13.**
+  > >
+  > > The PRA may supervise an ultimate UK solvency 2 parent at group level in the United Kingdom where—
+  > >
+  > > - (a) the ultimate UK solvency 2 parent has its head office in Gibraltar; and
+  > > - (b) the PRA is not the group supervisor.
+  >
+  > (5B) For regulation 14, substitute—
+  >
+  > > **14.**
+  > >
+  > > (1) The PRA must follow the procedure set out in this regulation when supervising an ultimate UK solvency 2 parent under regulation 13(1).
+  > >
+  > > (2) Before deciding to exercise supervision, the PRA must consult the FSC and the ultimate UK solvency 2 parent.
+  > >
+  > > (3) If the PRA decides to exercise supervision, the PRA must explain its decision to both the FSC and the ultimate UK solvency 2 parent.
+  > >
+  > > (4) The PRA must recognise and apply any permission granted pursuant to the laws of Gibraltar which were relied on immediately before IP completion day[^key-a1af25045535aab3a4011ab6dbfc3fa8] to implement Article 231 or 233(5) of the Solvency 2 Directive, as those laws are amended from time to time, to the ultimate UK solvency 2 parent to calculate the group solvency capital requirement for insurance undertakings, reinsurance undertakings, Gibraltarian insurance undertakings and Gibraltarian reinsurance undertakings in the group on the basis of an internal model.
+- (f) in paragraph (6), in new regulation 15(1)(c), for “that is authorised by the PRA” substitute “ , Gibraltarian insurance undertaking or Gibraltarian reinsurance undertaking ”;
+- (g) in paragraph (7), substitute—
+
+  > (7) In regulation 16 (choice of method)—
+  >
+  > - (a) in paragraph (1), for “and the other supervisory authorities” substitute “ and the FSC, if the FSC is ”;
+  > - (b) in paragraph (2)—
+  >   - (i) in the opening words, for “EEA” substitute “ UK ”;
+  >   - (ii) omit sub-paragraph (b).
+
+  ;
+- (h) in paragraph (8)—
+  - (i) for sub-paragraphs (a) and (b), substitute—
+
+    > - (a) in paragraph (2)(b)(ii) and (iii), for “a supervisory authority” substitute “the PRA (or, if paragraph (5) applies, the FSC);
+    > - (b) in paragraph (3), for “and the other supervisory authorities concerned in the supervision of the group”, substitute “ and, if paragraph (5) applies, the FSC ”;
+
+    ;
+  - (ii) in sub-paragraph (c), in the text inserted by that sub-paragraph, insert after paragraph (4)—
+
+    > (5) This paragraph applies if—
+    >
+    > - (a) the FSC is concerned in the supervision of the group; or
+    > - (b) the group contains a Gibraltarian insurance undertaking or a Gibraltarian reinsurance undertaking.
+
+    ;
+- (i) for paragraph (9), substitute—
+
+  > (9) In regulation 18 (related undertakings: calculation of group solvency)—
+  >
+  > - (a) in paragraph (1)—
+  >   - (i) in sub-paragraph (b), after “reinsurance undertakings” insert “ Gibraltarian insurance undertakings, Gibraltarian reinsurance undertakings ”;
+  >   - (ii) in sub-paragraph (e), for “an EEA State other than the United Kingdom” substitute “ Gibraltar ”;
+  > - (b) in paragraph (2)(a), for “that EEA State” substitute “ Gibraltar ”.
+
+  ;
+- (j) in paragraph (10)—
+  - (i) for sub-paragraph (a), substitute—
+
+    > - (a) in paragraph (1)(b)—
+    >   - (i) for “or reinsurance undertaking” substitute “ , reinsurance undertaking, Gibraltarian insurance undertaking or Gibraltarian reinsurance undertaking ”;
+    >   - (ii) for “which is a participating undertaking in” substitute “ for which the calculation of the group solvency includes ”;
+
+    ;
+  - (ii) in sub-paragraph (d), in the new paragraph (3)(b), after “or reinsurance undertaking” insert “ or Gibraltarian insurance or reinsurance undertaking ”;
+- (k) after paragraph (10) insert—
+
+  > (10A) After regulation 19, insert—
+  >
+  > > **19A. Gibraltar undertakings: calculation of group solvency**
+  > >
+  > > (1) This regulation applies where—
+  > >
+  > > - (a) the PRA is the group supervisor of a group;
+  > > - (b) the group contains—
+  > >   - (i) a Gibraltarian insurance undertaking,
+  > >   - (ii) a Gibraltarian reinsurance undertaking, or
+  > >   - (iii) an insurance undertaking or a reinsurance undertaking for which the calculation of the group solvency includes an undertaking in paragraph (i) or (ii).
+  > >
+  > > (2) The PRA must permit the group to take into account laws adopted by Gibraltar in respect of the group's solvency capital requirement and the own funds eligible to satisfy the solvency capital requirement in the calculation of the group's solvency.
+  >
+  > .
+
+  ;
+- (l) in paragraph (11)—
+  - (i) in sub-paragraph (a)(ii), for sub-paragraph (aa), substitute—
+
+    > - (aa) for “supervisory authorities concerned” substitute “ PRA or, where there is a Gibraltarian insurance undertaking or a Gibraltarian reinsurance undertaking, the FSC ”;
+  - (ii) for sub-paragraph (d), substitute—
+
+    > - (d) in paragraph (5), for the words from the beginning to “supervising a group,” substitute “ Where the FSC is the group supervisor ”.
+
+    ;
+- (m) in paragraph (13)—
+  - (i) after sub-paragraph (a), insert—
+
+    > - (aa) after paragraph (1), insert—
+    >
+    >   > (1A) For the purposes of paragraph (1), references to insurance undertakings and reinsurance undertakings include a reference to Gibraltarian insurance undertakings and Gibraltarian reinsurance undertakings.
+  - (ii) for sub-paragraph (b), substitute—
+
+    > - (b) in paragraph (2), for “and the other supervisory authorities concerned in the supervision of the group” substitute “ and, where the FSC is concerned in the supervision of the group, the FSC ”;
+
+    ;
+  - (iii) for sub-paragraph (c), substitute—
+
+    > - (c) in paragraph (3)—
+    >   - (i) for “PRA is not” substitute “ FSC is ”;
+    >   - (ii) for “PRA is consulted by the group supervisor” substitute “ the FSC consults the PRA ”.
+
+    ;
+- (n) in paragraph (15), in the new regulation 26—
+  - (i) renumber the existing provision as 26(1);
+  - (ii) at the beginning of the paragraph, insert “ Subject to paragraph (2), ”;
+  - (iii) after the renumbered paragraph (1), insert—
+
+    > (2) The FSC is the group supervisor and must supervise that group where the group includes a Gibraltarian insurance undertaking or a Gibraltarian reinsurance undertaking and—
+    >
+    > - (a) the FSC was designated as the group supervisor under Article 247 of the Solvency 2 Directive before IP completion day[^key-1ce8586d97beb7324c7284cf653fab53]; or
+    > - (b) the PRA and the FSC have agreed that the FSC is to be the group supervisor.
+
+(5) In regulation 10(2), for sub-paragraph (b), substitute—
+
+> - (b) in paragraph (1)—
+>   - (i) omit “and in Schedules 4 and 5”;
+>   - (ii) in sub-paragraph (i) of the definition of “group application”, for “and reinsurance undertakings” substitute “ , reinsurance undertakings, Gibraltarian insurance undertakings and Gibraltarian reinsurance undertakings ”.
+
+## PART 3 — Saving provisions for Gibraltar
+
+### 11. Saving for certain financial services legislation relating to Gibraltar[^key-89b98fbfc18096d3725c916c4c403c91]
+
+(1) In so far as Regulations specified in paragraph (5)—
+
+- (a) are made before IP completion day[^key-eefce5a2c23640ec7a72551d2982994b] under the European Union (Withdrawal) Act 2018, and
+- (b) on or after IP completion day, amend, repeal or revoke an enactment that, before IP completion day, applies to—
+  - (i) activities in connection with Gibraltar of a person regulated by the Prudential Regulation Authority, the Bank of England, the Financial Conduct Authority or the Payment Systems Regulator;
+  - (ii) Gibraltar trading venue or financial instruments admitted to trading or traded on a Gibraltar trading venue;
+  - (iii) activities of a Gibraltar-based firm;
+  - (iv) the charging of interchange fees (as defined by Article 2(10) of Regulation (EU) 2015/751 of the European Parliament and of the Council of 29 April 2015 on interchange fees for card-based payment transactions) in relation to transactions between the UK and Gibraltar; or
+  - (v) functions of the Financial Services Commission of Gibraltar,
+
+the Regulations are to be read as if the amendment, repeal or revocation had not been made in relation to the matters referred to in paragraphs (i) to (v) (“the relevant matters”), and paragraph (4) applies.
+
+(2) In so far as an enactment specified in the Schedule to the Financial Regulators' Powers (Technical Standards etc) (Amendment etc.) (EU Exit) Regulations 2018—
+
+- (a) applies to the relevant matters, and
+- (b) has been amended, repealed or revoked under those Regulations,
+
+unless this paragraph is disapplied (in whole or in part) in the instrument which amended, repealed or revoked the enactment, the enactment is to be read if the amendment, repeal or revocation had not been made in relation to the relevant matters, and paragraph (4) applies.
+
+(3) In so far as an enactment specified in paragraph (6)—
+
+- (a) applies to the relevant matters, and
+- (b) has been amended, repealed or revoked by regulations made under the European Union (Withdrawal) Act 2018,
+
+the enactment is to be read if the amendment, repeal or revocation had not been made in relation to the relevant matters, and paragraph (4) applies.
+
+(4) If this paragraph applies, an enactment referred to in paragraph (1)(b), (2) or (3) is to be read with any modifications necessary to ensure that the enactment continues to apply to the relevant matters after exit day as it applied to them before IP completion day[^key-679194efa52fc986c6adc0e19b981461].
+
+(5) The Regulations are—
+
+- (a) the Trade Repositories (Amendment and Transitional Provision) (EU Exit) Regulations 2018 [^c23666391];
+- (b) the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018 [^c23666401];
+- (c) the Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 [^c23666411];
+- (d)[^key-0894a6142bdbd7ad0d5d3765913eae4b] the Short Selling (Amendment) (EU Exit) Regulations 2018 *(affected by repeal, see note)*[^key-0894a6142bdbd7ad0d5d3765913eae4b] [^c23666421] (except for regulation 8(1))[^key-e21d76bc9553d0f9d1eb1f982059c8e7] *(affected by repeal, see note)*[^key-0894a6142bdbd7ad0d5d3765913eae4b];
+- (e) the Capital Requirements (Amendment) (EU Exit) Regulations 2018 [^c23666431];
+- (f) the Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 [^c23666441] (except for Part 2, Chapter 3 of Part 3, and regulations 28(7), (8)(a) and (c), and (10),[^key-5f455dc4f05880a455f7705493e8f972] 29(3) and 30(1));
+- (g) the Credit Transfers and Direct Debits in Euro (Amendment)(EU Exit) Regulations 2018 [^c23666451] (except for regulation 6(2));
+- (h) the Financial Markets and Insolvency (Amendment and Transitional) (EU Exit) Regulations 2019 [^c23666461] (except for regulations 5(7), 8(3)(a), 8(4)(b), 8(6) and 9);
+- (i) the Payment Accounts (Amendment) (EU Exit) Regulations 2019 [^c23666471];
+- (j) the Interchange Fee (Amendment) (EU Exit) Regulations 2019 [^c23666481];
+- (k) the Social Entrepreneurship Funds (Amendment) (EU Exit) Regulations 2019 [^c23666491];
+- (l) the Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 [^c23666501]
+- (m)[^key-2d3d01cd5958bb1cba5f9d5007524cb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n) the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 [^c23666521];
+- (o) the Money Market Funds (Amendment) (EU Exit) Regulations 2019 [^c23666531];
+- (p) the Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 [^c23666541];
+- (q) the Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 [^c23666551];
+- (r) the Financial Conglomerates and Other Financial Groups (Amendments etc.) (EU Exit) Regulations 2019 [^c23666561];
+- (s) the Securitisation (Amendment) (EU Exit) Regulations 2019 [^c23666571];
+- (t) the Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 [^c23666581];
+- (u) the Benchmarks (Amendment and Transitional Provision) (EU Exit) Regulations 2019 [^c23666591];
+- (v) the Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 [^c23666601];
+- (w)[^M_F_f4f7c0ce-a591-4c78-d836-88e5665a6f66] the Packaged Retail and Insurance-based Investment Products (Amendment) (EU Exit) Regulations 2019 *(affected by repeal, see note)*[^M_F_f4f7c0ce-a591-4c78-d836-88e5665a6f66] (except for regulations 7(2) and (3), and 8)[^M_F_b931101b-9b6f-4966-cfb6-55d5eb8ee660] *(affected by repeal, see note)*[^M_F_f4f7c0ce-a591-4c78-d836-88e5665a6f66];
+- (x) the Credit Rating Agencies (Amendments etc) (EU Exit) Regulations 2019 [^c23666621];
+- (y)[^key-08615f4784def2cf7c8d66b78e84c182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (z) regulation 12, and Parts 3 to 6 of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (except for regulations 126, 127, 154, 179(2), 187 and 190[^key-e57b696be0731413c43a4dd0376946fd]).
+- (z1)[^key-11f5cbe6c607ba3caf551b9083fe9054] the Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019;
+- (z2)[^key-c41e65ee0ce37b78c2ac7d0183383f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (z3)[^key-8af5fa7b92fef067d4b0b2e7c17c93b1] the Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (except for regulation 34(a)(i) and (b));
+- (z4) regulations 18 to 21 of the Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020.
+- (z5)[^key-551bea7519014f27d1714bcec2a893e6] the Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020.
+
+(6) The enactments are—
+
+- (a) paragraphs 15BB and 15C of Schedule 6 to the Insolvency Act 1986;
+- (b) sections 213(10) and (11), 214(5) and 224(4) of the Financial Services and Markets Act 2000;
+- (c) the Financial Services and Markets Act 2000 (Compensation Scheme: Electing Participants) Regulations 2001 [^c23666641].
+
+(7) For the purposes of this regulation—
+
+- (a) an “**enactment**” includes an instrument which is direct EU legislation;
+- (b) a “**Gibraltar-based firm**” has the same meaning as in article 1(2) of the Financial Services and Markets Act 2000 (Gibraltar) Order 2001 [^c23666651];
+- (c) “**Gibraltar trading venue**” has the meaning given in Article 2 of Regulation (EU) 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse as that regulation forms part of domestic law under section 3 of the European Union (Withdrawal) Act 2018.
+- (d)[^M_F_c920d961-0a84-4dbc-c8d8-d1c58ec9316d][^key-bc5cb2fdf3910a527a98cce013f971a2] for the purposes of the Regulations specified in sub-paragraphs (5)(a), (b), (p) and (z3) (which amend Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”)), “firm” in paragraph (1)(b)(iii) of this regulation is to include a “pension scheme arrangement” within the meaning given by Article 2(10) of EMIR (as it has effect in EU law and as if the United Kingdom were a Member State);
+
+(8) Nothing in this regulation saves any obligation of the Prudential Regulation Authority, the Bank of England, the Financial Conduct Authority or the Payment Systems Regulator after IP completion day[^key-beb57157e424c35668d906b43b47d689]—
+
+- (a) to act in accordance with, or to take any account of—
+  - (i) guidelines, guidance, opinions, recommendations or decisions issued by any of the European Supervisory Authorities whether before or after exit day;
+  - (ii) technical standards adopted by the European Commission after exit day;
+- (b) to provide information to, or co-operate with—
+  - (i) a European Supervisory Authority or any other EU institution, agency or body (an “EU entity”); or
+  - (ii) a competent authority of a member State.
+
+(9) Where the effect of this regulation would be to make a right or obligation of any person dependent on a decision from an EU entity in circumstances where that right or obligation would after IP completion day[^key-dec09a47474385caeb1a09fa720354db], apart from this regulation, be dependent on a decision from a UK regulator, any reference to the EU entity in relation to that decision is to be treated as a reference to the relevant UK regulator.
+
+(10) For the purposes of paragraph (9)—
+
+- (a) “**decision**” includes any form of permission, authorisation, designation, recognition or registration required for the exercise of the right or the imposition of the obligation;
+- (b) “**UK regulator**” means the Prudential Regulation Authority, the Financial Conduct Authority, the Bank of England, the Payment Systems Regulator or HM Treasury;
+- (c) the “relevant UK regulator” is the UK regulator to which the functions of the EU entity in relation to the decision in question have been transferred under the European Union (Withdrawal) Act 2018.
+
+Rebecca Harris
+
+Paul Maynard
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — Modifications to the Insurers (Reorganisation and Winding Up) Regulations 2004
+
+Regulation 2
+
+**1.**[^key-548a2f24a6ea4fa0a46056a9b9a8d2e5] The modifications to the Insurers (Reorganisation and Winding Up) Regulations are as follows.
+
+**2.**[^key-4db5fcd5ccf8761023f4b9592a1f0dba] Regulation 2 [^c23666661] applies as if—
+
+- (a)[^key-ecc9b0f69c5704bcdadb3e23f0312a08] in paragraph (1)—
+- (i)[^key-2e0e843f1bba47f9e2c9b091512a8b93] for the definition of “branch” there were substituted—
+
+  > “**branch**” means a permanent presence of a UK insurer or a Gibraltarian insurer which is located in the territory of a country other than—
+  >
+  > - (a) the United Kingdom (in the case of a UK insurer);
+  > - (b) Gibraltar (in the case of a Gibraltarian insurer);
+
+  ;
+- (ii) in the definition of “directive reorganisation measure”, the reference in Article 268(1)(c) of the Solvency 2 Directive to competent authorities were a reference to competent authorities in the United Kingdom or in Gibraltar;
+- (iii) in the definition of “directive winding up proceedings”, the reference in Article 268(1)(d) of the Solvency 2 Directive to competent authorities were a reference to competent authorities in the United Kingdom or in Gibraltar;
+- (iv) the definitions of “EEA creditor”, “EEA insurer”, “EEA regulator” and “EEA State” were omitted;
+- (v) in the appropriate places there were inserted—
+
+  > “**Gibraltarian insurer**” means an undertaking pursuing the activity of direct insurance (within the meaning of the Solvency 2 Directive) which has received authorisation under the law of Gibraltar which was relied on by Gibraltar before IP completion day[^key-f39d9be94a04f6c7791f1f0054f6e431] to implement Article 14 or Article 162 of the Solvency 2 Directive from the Gibraltarian regulator;
+  >
+  > “**Gibraltarian regulator**” means the Gibraltar Financial Services Commission;
+
+  ;
+- (vi) for the definition of “home state regulator” there were substituted—
+
+  > “**home state regulator**” in relation to a Gibraltarian insurer, means the Gibraltar Financial Services Commission;
+
+  ;
+- (vii) the definition of “official language” were omitted;
+- (viii) in the definition of “the Solvency 2 Directive”, at the end there were inserted “as it had effect immediately before IP completion day[^key-bf89015047cca89f33db6beef7970ad3]”.
+- (b)[^key-03415a277bd6d22bee556b69fe4235ba] in paragraph (2)—
+  - (i) in sub-paragraphs (a) and (b), for “the relevant EEA State” both times it occurs, there were substituted “Gibraltar”;
+  - (ii) the words after sub-paragraph (b) were omitted.
+
+**3.**[^key-3d0bacb3fb67beba1df378598846cca2] Regulation 4 [^c23666671] applies as if—
+
+- (a) in the heading, for “EEA insurers”, there were substituted “ Gibraltarian insurers ”;
+- (b) for “an EEA insurer” each time it occurs, there were substituted “ a Gibraltarian insurer ”.
+
+**4.**[^key-6a5524e26d1b8e082139692252cf76d0] Regulation 5 [^c23666681] applies as if—
+
+- (a) in the heading, for “EEA insurers”, there were substituted “ Gibraltarian insurers ”;
+- (b) for “an EEA insurer” each time it occurs, there were substituted “ a Gibraltarian insurer ”;
+- (c) for “the EEA insurer”, each time it occurs, there were substituted “ the Gibraltarian insurer ”;
+- (d) in paragraph (6), in each of the definitions, the references to competent authorities in the provisions of the Solvency 2 Directive referred to were references to the competent authorities of the United Kingdom or Gibraltar.
+
+**5.**[^key-d184bb9519cad5f02482b777fb3c706e] Regulation 6 [^c23666691] applies as if—
+
+- (a) for “an EEA insolvency measure” each time it occurs, there were substituted “ a Gibraltar insolvency measure ”;
+- (b) for “an EEA insurer” each time it occurs, there were substituted “ a Gibraltarian insurer ”;
+- (c) for “the relevant EEA State” each time it occurs, there were substituted “ Gibraltar ”;
+- (d) in paragraph (2), in the words after sub-paragraph (b), for “the EEA insurer” there were substituted “ the Gibraltarian insurer ”;
+- (e) in paragraph (3)(b), for “the EEA insolvency measure” there were substituted “ the Gibraltar insolvency measure ”;
+- (f) in paragraph (6)—
+  - (i) in the definition of “EEA insolvency measure” for “EEA insolvency measure” there were substituted “ Gibraltar insolvency measure ”;
+  - (ii) the definition of “relevant EEA State” were omitted.
+
+**6.**[^key-8607b03cc59f3204825880490b2e9c71][^key-746a25db877f88621bb246f54ac86fcc] Regulation 10 applies as if—
+
+- (a) in the heading, for “EEA regulators”, there were substituted “the Gibraltarian regulator”;
+- (b) for “EEA regulators in every EEA State”, both times it occurs, there were substituted “Gibraltarian regulator”.
+
+**7.**[^key-faf8db2ee1dc88fe049a259276f0150c] Regulation 11 [^c23666711] applies as if, in paragraph (3), for the words from “the relevant officer” to the end, there were substituted “ if the UK insurer has a branch in Gibraltar, the relevant officer must publish, or cause to be published, in two newspapers circulating in Gibraltar, the information mentioned in paragraph (4) and (if applicable) paragraphs (5), (6) or (7). ”.
+
+**8.**[^key-95ed9f584ed97e92225deba7b7c7275d] Regulation 12 applies as if—
+
+- (a) in paragraph (7), the words from “, and that heading” to the end were omitted;
+- (b) paragraph (8) were omitted.
+
+**9.**[^key-ecff730f09224485eccbf95ee66e0729] Regulations 13 and 16 are to be ignored.
+
+**10.**[^key-b9899567c375c39d1a80f79caaa0e6e1] Regulation 17 [^c23666721] applies as if in paragraph (1)—
+
+- (a) in the definition of “composite insurer”, “, in accordance with Article 73(2) of the Solvency 2 Directive” were omitted;
+- (b) in the definition of “general business assets”, the words from “, in accordance with” to the end were omitted;
+- (c) in the definition of “long term business assets”, the words from “, in accordance with” to the end were omitted.
+
+**11.**[^key-6179900341fab51bbcd6fc07ee12fe8c] The heading to Part V is to be read as if, for “EEA rights”, there were substituted “ Gibraltarian rights ”.
+
+**12.**[^key-a05ccc25464df7a2a580fd1aa62d1906] The heading to regulation 37 is to be read as if, for “EEA rights”, there were substituted “ Gibraltarian rights ”.
+
+**13.**[^key-c060c9aa3bf472335a9ef790f6620370] Regulation 38 applies as if—
+
+- (a) in paragraph (1)—
+  - (i) for “EEA employment contract”, there were substituted “ Gibraltar employment contract ”;
+  - (ii) for “EEA employment relationship”, there were substituted “ Gibraltar employment relationship ”;
+  - (iii) for “the EEA State” there were substituted “ Gibraltar ”;
+- (b) in paragraph (2)—
+  - (i) for “an EEA employment contract”, there were substituted “ a Gibraltar employment contract ”;
+  - (ii) for “an EEA employment relationship”, there were substituted “ a Gibraltar employment relationship ”;
+  - (iii) for “an EEA State” there were substituted “ Gibraltar ”.
+
+**14.**[^key-cd72a668dde91b64d94186bb488e4b87] Regulation 39 applies as if—
+
+- (a) for “an EEA State” there were substituted “ Gibraltar ”; and
+- (b) for “that State” there were substituted “ Gibraltar ”.
+
+**15.**[^key-15fd51235fd0d3702a4a2907d330f3d0] Regulation 40 applies as if—
+
+- (a) for “an EEA State” there were substituted “ Gibraltar ”; and
+- (b) for “that State” there were substituted “ Gibraltar ”.
+
+**16.**[^key-3a92fa9408931bc3c51425d941b860f9] Regulation 41 applies as if, in paragraph (1), for “an EEA State” there were substituted “ Gibraltar ”.
+
+**17.**[^key-ce1e4713d988e71f96578c3f260b48ea] Regulation 42 applies as if, for “an EEA State”, both times it occurs, there were substituted “ Gibraltar ”.
+
+**18.**[^key-7cf38b1456c2dacb802a5083c340ab6a] Regulation 43 applies as if—
+
+- (a) in paragraph (1), for “the applicable EEA law” there were substituted “ the law applicable to the affected insurer's claim ”;
+- (b) paragraph (2) were omitted.
+
+**19.**[^key-616878235e09e3a1b4fd28d4e8063f03] Regulation 44 [^c23666731] applies as if—
+
+- (a) in paragraph (1), for “regulated market operating in an EEA State” there were substituted “ UK regulated market, or a regulated market operating in Gibraltar ”;
+- (b) for paragraph (3), there were substituted—
+
+  > (3) For the purposes of this regulation, “UK regulated market” and “regulated market” have the meanings given in points 2.1.13A and 2.1.13 respectively of Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012, as that Regulation forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 [^c23666741], as modified by domestic law from time to time.
+
+**20.**[^key-e7ed0d33357f9a17c68a427061727ff3] Regulation 45 applies as if, in the heading and in paragraph (1)(a), for “an EEA State” there were substituted “ Gibraltar ”.
+
+**21.**[^key-f213e655c370335e7e0e31dc4166b936] Regulation 46 applies as if—
+
+- (a) in paragraph (1), for “an EEA State”, each time it occurs, there were substituted “ Gibraltar ”;
+- (b) in paragraph (2), for words from “the EEA State” to the end, there were substituted “ Gibraltar ”.
+
+**22.**[^key-888f7c096ff5a83e14ca190e6f012c40] Regulation 47 applies as if, in paragraph (1), for “an EEA State” and “that EEA State”, there were substituted in each case “ Gibraltar ”.
+
+**23.**[^key-97c673bc5c74f520a44eb9945f460018] Regulations 48 to 50 are to be ignored.
+
+## SCHEDULE 2 — Modifications to the Credit Institutions (Reorganisation and Winding Up) Regulations 2004
+
+Regulation 3
+
+**1.**[^key-d315f5ed1f08828f0c66313d33b3d94c] The modifications to the Credit Institutions (Reorganisation and Winding Up) Regulations 2004 are as follows.
+
+**2.**[^key-b8cf245385b4c63833f629fb61b0f109] Regulation 2 [^c23666751] applies as if—
+
+- (a) in paragraph (1)—
+  - (i) in the definition of “branch”, for “an EEA or UK” there were substituted “ a UK or Gibraltar ”;
+  - (ii) in the definition of “capital requirements directive”, at the end, there were inserted “as it had effect immediately before IP completion day[^key-2d3817120ffa1dbd766ea706280d8f4f]”;
+  - (iii) in the definition of “capital requirements regulation”, at the end, there were inserted “as it forms part of domestic law under section 3 of the European Union (Withdrawal) Act 2018”;
+  - (iv) in the definition of “directive reorganisation measure”, at the end, there were inserted “but does not include any “third-country resolution action” within the meaning of section 89H of the Banking Act 2009 [^c23666761]”;
+  - (v) in the definition of “directive winding-up proceedings”, the reference in the definition in Article 2 of the reorganisation and winding-up directive to “a Member State” were a reference to “Gibraltar”;
+  - (vi) the definitions of “EEA credit institution”, “EEA creditor”, “EEA regulator” and “EEA State” were omitted;
+  - (vii) in the appropriate places there were inserted—
+
+    > “**Gibraltarian credit institution**” means a Gibraltar undertaking of the kind mentioned in Article 4(1)(1) and 4(1)(17) of the capital requirements regulation and subject to the exclusion of the undertakings referred to in Article 2(5)(2) to (23) of the capital requirements directive;
+    >
+    > “**Gibraltarian regulator**” means the Gibraltar Financial Services Commission;
+
+    ;
+  - (viii) for the definition of “home state regulator” there were substituted—
+
+    > “**home state regulator**” means the Gibraltar Financial Services Commission;
+
+    ;
+  - (ix) the definition of “official language” were omitted;
+  - (x) in the definition of “recovery and resolution directive”, at the end, there were inserted “as it had effect immediately before IP completion day”;
+  - (xi) in the definition of “the reorganisation and winding up directive”, at the end, there were inserted “as it had effect immediately before IP completion day”;
+- (b) in paragraph (2)—
+  - (i) in sub-paragraphs (a) and (b), for “the relevant EEA State” both times it occurs, there were substituted “ Gibraltar ”;
+  - (ii) the words after sub-paragraph (b) were omitted.
+
+**3.**[^key-e221a131fe1cdf3dc68f553fc5856b5d] Regulation 3 [^c23666771] applies as if—
+
+- (a) for “an EEA credit institution”, each time it occurs, there were substituted “ a Gibraltarian credit institution ”;
+- (b) in paragraph (7), for “an incorporated EEA credit institution”, there were substituted “ an incorporated Gibraltarian credit institution ”.
+- (c)[^key-c1df72d833c01d5821e8dd0b20551563] paragraph (7A) were omitted.
+
+**4.**[^key-3cc3c3b78435a25a05c26b01b7053ccb] Regulation 4 [^c23666781] applies as if—
+
+- (a) in paragraphs (1) and (2), for “an EEA credit institution”, each time it occurs, there were substituted “ a Gibraltarian credit institution ”;
+- (b) in paragraphs (5) and (6), for “the EEA credit institution”, each time it occurs, there were substituted “ the Gibraltarian credit institution ”.
+
+**5.**[^key-f66c472121a8bb6b5ae1407b741ae935] Regulation 5 [^c23666791] applies as if—
+
+- (a) in the heading, for “EEA credit institutions” there were substituted “ Gibraltarian credit institutions ”;
+- (b) for “an EEA insolvency measure” each time it occurs, there were substituted “ a Gibraltar insolvency measure ”;
+- (c) for “an EEA credit institution” each time it occurs, there were substituted “ a Gibraltarian credit institution ”;
+- (d) for “the relevant EEA State” each time it occurs, there were substituted “ Gibraltar ”;
+- (e) in paragraph (2), in the words after sub-paragraph (b), for “the EEA credit institution” there were substituted “ the Gibraltarian credit institution ”;
+- (f) in paragraph (3)(b), for “the EEA insolvency measure” there were substituted “ the Gibraltar insolvency measure ”;
+- (g) in paragraph (6)—
+  - (i) in the definition of “EEA insolvency measure” for “EEA insolvency measure” there were substituted “ Gibraltar insolvency measure ”;
+  - (ii) the definition of “relevant EEA State” were omitted.
+
+**6.**[^key-92683c7a9b73a9c95e56cd25d613bf6e] Regulation 6 applies as if, in paragraphs (2) and (3), in the inserted text, the words from “for the purposes of Articles 10[^key-072a4791bde949bf3b513edffde6b347]” to the end of the inserted text were omitted.
+
+**7.**[^key-5996b32708e17ec93e8dcbfa4515f6af] [^c23666801]Regulation 10 applies as if—
+
+- (a) in the heading, for “EEA regulators” there were substituted “ the Gibraltar regulator ”;
+- (b) in paragraph (3)—
+  - (i) for “an EEA credit institution” there were substituted “ a Gibraltarian credit institution ”,
+  - (ii) for “the home state regulator” there were substituted “ the Gibraltarian regulator ”;
+- (c)[^key-2b24207b8650e7111725a5742a248b51] for paragraph (4), there were substituted—
+
+  > (4) In this regulation, the “relevant person” means, if the UK credit institution has a branch in Gibraltar, the Gibraltarian regulator.
+
+**8.**[^key-f4625b287233352da9565850d3b4a001] Regulation 12 [^c23666811] applies as if—
+
+- (a) in paragraph (3), for the words from “the relevant officer” to the end, there were substituted “ if the UK credit institution has a branch in Gibraltar, the relevant officer must publish, or cause to be published, in two newspapers circulating in Gibraltar, the information mentioned in paragraph (4) and (if applicable) paragraphs (5) or (6). ”.
+- (b) paragraph (12) were omitted.
+
+**9.**[^key-66dff8c591784dc86a5c797b129fb791] Regulation 13 applies as if, in paragraph (3)(c)(i), for “an EEA State” there were substituted “ Gibraltar ”.
+
+**10.**[^key-aef96ad85e229973013fa476005a3a72] Regulation 14 applies as if, in paragraph (6), the words from “and that heading” to the end were omitted.
+
+**11.**[^key-dbb38d065df8ef44537cbc31239da768] Regulations 15 and 18 are to be ignored.
+
+**12.**[^key-6ca923738e0842b1693b5a89ee2f5a0c] The heading to Part 4 is to be read as if, for “EEA rights” there were substituted “ Gibraltarian rights ”.
+
+**13.**[^key-357b6d4b4083b58685e8e3d17be0a103] Regulation 22 applies as if, in the heading, for “EEA rights” there were substituted “ Gibraltarian rights ”.
+
+**14.**[^key-bc1cbc9f51a67c7988d3fb7b2763f7a6] Regulation 23 applies as if—
+
+- (a) in paragraph (1)—
+  - (i) for “EEA employment contracts”, there were substituted “ Gibraltar employment contracts ”;
+  - (ii) for “EEA employment relationships” there were substituted “ Gibraltar employment relationships ”;
+  - (iii) for “the EEA State” there were substituted “ Gibraltar ”;
+- (b) in paragraph (2)—
+  - (i) for “an EEA employment contract”, there were substituted “ a Gibraltar employment contract ”;
+  - (ii) for “an EEA employment relationship” there were substituted “ Gibraltar employment relationship ”;
+  - (iii) for “an EEA State” there were substituted “ Gibraltar ”.
+
+**15.**[^key-9416361e13f642817524b1e4a439e1d9] Regulation 24 applies as if—
+
+- (a) in paragraph (1)—
+  - (i) for “an EEA State” there were substituted “ Gibraltar ”; and
+  - (ii) for “that State” there were substituted “ Gibraltar ”;
+- (b) in paragraph (2), for “the EEA State in whose territory the property is situated” substitute “ Gibraltar ”.
+
+**16.**[^key-c354f9d8e39789f93e2e3cbeb797afec] Regulation 25 applies as if—
+
+- (a) for “an EEA State” there were substituted “ Gibraltar ”; and
+- (b) for “that State” there were substituted “ Gibraltar ”.
+
+**17.**[^key-cd95b4145e8b459fdb48fcbb71420ce7] Regulation 26 applies as if, in paragraph (1), for “an EEA State”, there were substituted “ Gibraltar ”.
+
+**18.**[^key-ec3a30ac9dca383d765058405cbb887b] Regulation 27 applies as if, for “an EEA State” both times it occurs, there were substituted “ Gibraltar ”.
+
+**19.**[^key-9d906949e1723037cd421f80089c1cda] Regulation 29 [^c23666821] applies as if—
+
+- (a) in paragraph (1), for “regulated market operating in an EEA State” there were substituted “ UK regulated market, or a regulated market operating in Gibraltar ”;
+- (b) for paragraph (2), there were substituted—
+
+  > (2) For the purposes of this regulation, “UK regulated market” and “regulated market” have the meanings given in points 2.1.13A and 2.1.13 respectively of Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012, as that Regulation forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018, as modified by domestic law from time to time.
+
+**20.**[^key-7f76bd7809460048948bb15c73a22fa6] Regulation 30 applies as if in the heading and in paragraph (1)(a), for “an EEA State” there were substituted “ Gibraltar ”.
+
+**21.**[^key-ce27983513c10a3560b9087808ec6e94] Regulation 31 [^c23666831] applies as if—
+
+- (a) in paragraph (1), for “an EEA State”, each time it occurs, there were substituted “ Gibraltar ”;
+- (b) in paragraph (2), for “the EEA State” there were substituted “ Gibraltar ”;
+- (c) in paragraph (3), insert at the end “ as that Directive has effect immediately before IP completion day[^key-015da47fed5e91c003c34574ccb1cc42]”.
+
+**22.**[^key-d679d813a2f4a662810a76edc05e0ac0] Regulation 32 applies as if, in paragraph (1), for “an EEA State” and “that EEA State”, there were substituted in each case “ Gibraltar ”.
+
+**23.**[^key-95affb50670f26312f68080674ada2f9] Regulation 33 applies as if—
+
+- (a) in paragraph (1), for “the relevant EEA State”, there were substituted “ Gibraltar ”;
+- (b) in paragraph (2)—
+  - (i) in the definition of “relevant proprietary right” for “an EEA state” there were substituted “ Gibraltar ”;
+  - (ii) the definition of “relevant EEA State” were omitted.
+
+**24.**[^key-9d1ce46ad15ca8c95ef8e2f9cd35ff68] Regulation 34 [^c23666841] applies as if, in paragraph (2)(c), for the words “any EEA State” to the end, there were substituted “ Gibraltar which was relied on before IP completion day[^key-7643cacde7b6bef0be819f0872f1fd2d] to implement these provisions; or ”.
+
+**25.**[^key-17852b590ea74a2dc57cce7a9971e1ed] Regulation 35 [^c23666851] applies as if, in paragraph (2)(c), for the words “any EEA State” to the end, there were substituted “ Gibraltar which was relied on before IP completion day[^key-9234ba2440b999f7d5a93937dc09df9b] to implement these provisions; or ”.
+
+**26.**[^key-be8cec8a731aefa35603caef323f38c4] Regulations 36 to 38 are to be ignored.
+
+**27.**[^key-001f6e01b0892071f103f77330c6442e] Regulation 39 [^c23666861] applies as if, for the definition of “EEA investment firm”, there were substituted—
+
+> - (a) “**Gibraltarian investment firm**” means an investment firm as defined in point (2) of Article 4(1) of the capital requirements regulation (as that regulation forms part of domestic law under section 3 of the European Union (Withdrawal) Act 2018) whose head office is in Gibraltar;
+
+.
+
+**28.**[^key-bfc1340105826a73653870e37e2b7557] Regulation 41 applies as if—
+
+- (a) in the heading and in the regulation, for “EEA investment firms” there were substituted “ Gibraltarian investment firms ”; and
+- (b) for “EEA credit institutions” there were substituted “ Gibraltarian credit institutions ”.
+
+**29.**[^key-6aebaebeae714ea2c0f919284cac9d04] Regulation 43 is to be ignored.
+
+**30.**[^key-6fd784314069d557f8145d860ed20a3d] Regulation 44 applies as if, in paragraph (a)—
+
+- (a) in the opening words, for “EEA” there were substituted “ Gibraltar ”;
+- (b) in the words after paragraph (iii), for “an EEA State other than the United Kingdom” there were substituted “ Gibraltar ”.
+
+**31.**[^key-541851372ec3c3febf28bcb4d3ec4fe9] Regulation 46 applies as if, in the heading and in the regulation, for “EEA”, each time it occurs, there were substituted “ Gibraltar ”.
+
+**32.**[^key-c84cd94dbb78c5d63f6cc96ddf2fcfb7] Regulations 47 to 49 are to be ignored.
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union (including deficiencies under paragraphs (a), (b), (c), (d), (e) and (g) of section 8(2) of that Act).
+
+Part 2 and Schedules 1 and 2 modify the Insurers (Reorganisation and Winding Up) Regulations 2004, the Credit Institutions (Reorganisation and Winding Up Regulations 2004 and the Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 as they apply to Gibraltarian insurers and credit institutions, and to the determination of Gibraltarian rights in relation to the winding-up or reorganisation of UK insurers and credit institutions. They amend the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 to make appropriate provision for Gibraltar following exit day, and also amend the Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations, the Friendly Societies (Amendment) (EU Exit) Regulations 2018, the Market Abuse (Amendment) (EU Exit) Regulations 2018, the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 and the Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019 to ensure that the amendments made by these EU Exit instruments are capable of applying, where relevant, to Gibraltar, in order, for example, to preserve rights of Gibraltarian firms in relation to the United Kingdom, and of UK firms in relation to Gibraltar.
+
+Part 3 saves the effect of certain legislation in relation to Gibraltar-based firms and activities. The legislation concerned forms part of retained EU law is otherwise revoked or amended by specified regulations made under the European Union (Withdrawal) Act 2018
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c23666211]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-33620ea593000fdfbbe0086248cb73b7]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/680): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-b71ccf66ea0e4cbb23c823b7fb1399a4]: Commencement: Reg. 1 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23666221]: Marginal citation: [S.I. 2019/38](https://www.legislation.gov.uk/uksi/2019/38).
+
+[^key-02b7912be7cfb1a62be644d597584981]: Textual amendment: Words in reg. 1(4)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/a)
+
+[^key-fc1012afc8b15604aaef870073b215a5]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666231]: Marginal citation: [S.I. 2004/353](https://www.legislation.gov.uk/uksi/2004/353).
+
+[^key-042821e9136abfd24223258ea2d29fca]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666241]: Marginal citation: [S.I. 2004/1045](https://www.legislation.gov.uk/uksi/2004/1045).
+
+[^key-8f5456c7a9d394b479abca6ae6f65079]: Textual amendment: Words in reg. 3 inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [60(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60/2)
+
+[^key-bbc4ca17a749daea020d887135aeda6d]: Commencement: Reg. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666251]: Marginal citation: [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998).
+
+[^c23666261]: Marginal citation: Regulation 2 was amended by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575). There are other amendments to this regulation which are not relevant to this instrument.
+
+[^key-d68c43cd3c404b89463a0f5229125393]: Textual amendment: Words in reg. 4(2)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/b)
+
+[^c23666271]: Marginal citation: Regulation 10 was amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472).
+
+[^c23666281]: Marginal citation: Regulation 45 was amended by [S.I. 2007/851](https://www.legislation.gov.uk/uksi/2007/851).
+
+[^key-d8f690143fdcd68350eb7463237c4f62]: Commencement: Reg. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666291]: Marginal citation: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529).
+
+[^key-e67b7846c50fb6bf117faa2825992d79]: Commencement: Reg. 6 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23666301]: Marginal citation: [S.I. 2018/1199](https://www.legislation.gov.uk/uksi/2018/1199).
+
+[^key-7ceeca6f7a4605fa8aa9c0c9853a9cd0]: Commencement: Reg. 7 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23666311]: Marginal citation: [S.I. 2018/1039](https://www.legislation.gov.uk/uksi/2018/1039).
+
+[^key-650a19d0e9f3e22e1f348fb2d925dff9]: Commencement: Reg. 8 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-c9838421412e2f4df84603b3f02e8ce4]: Textual amendment: Reg. 8(2)(b) omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/2)
+
+[^c23666321]: Marginal citation: Act. No. 2006/32 of Gibraltar, as last amended by L.N. 2017/135.
+
+[^key-c4edfbe8f4638ee942423bb7a0cad990]: Textual amendment: Words in reg. 8(5)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(c)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/c/i)
+
+[^key-ff981725e75fe451eef8fb93614b9a31]: Textual amendment: Words in reg. 8(5)(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/c/ii)
+
+[^key-5c6c70920bfe775b01e4dfbcb12aa188]: Textual amendment: Words in reg. 8(7)(c)(ii) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/c/iii)
+
+[^key-34607a5b4f30e88c70049cce69349b1a]: Commencement: Reg. 9 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23666331]: Marginal citation: [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^key-f856b5dbaab3944b0a222d927c68549c]: Textual amendment: Words in reg. 9(4) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(d)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/d/i)
+
+[^key-17d447d1288e9f1abd8f6ed9bd11e266]: Textual amendment: Words in reg. 9(5) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/d/ii)
+
+[^key-ecd52dc0157a56a6b2f5b84eddc59456]: Commencement: Reg. 10 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23666341]: Marginal citation: [S.I. 2019/407](https://www.legislation.gov.uk/uksi/2019/407).
+
+[^c23666351]: Marginal citation: [S.I. 2004/1862](https://www.legislation.gov.uk/uksi/2004/1862).
+
+[^c23666361]: Marginal citation: [S.I. 2019/264](https://www.legislation.gov.uk/uksi/2019/264).
+
+[^c23666371]: Marginal citation: Act. No. 1987-10.
+
+[^c23666381]: Marginal citation: Section 55A was substituted, with ss. 55B to 55Z4, for ss. 40 to 55 of the [Financial Services and Markets Act 2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8) by s. 11(2) of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^key-62245dd17a4b7ace4a2e42858a97a916]: Textual amendment: Words in reg. 10(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(e)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/e/i)
+
+[^key-3cf62e0827458aed632bf04bee6061bc]: Textual amendment: Words in reg. 10(4)(c)(ii) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/e/ii/aa)
+
+[^key-a1af25045535aab3a4011ab6dbfc3fa8]: Textual amendment: Words in reg. 10(4)(e) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/e/ii/bb)
+
+[^key-1ce8586d97beb7324c7284cf653fab53]: Textual amendment: Words in reg. 10(4)(n)(iii) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(e)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/e/iii)
+
+[^key-89b98fbfc18096d3725c916c4c403c91]: Commencement: Reg. 11 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-eefce5a2c23640ec7a72551d2982994b]: Textual amendment: Words in reg. 11(1)(a)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f/i)
+
+[^key-679194efa52fc986c6adc0e19b981461]: Textual amendment: Words in reg. 11(4) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f/ii)
+
+[^c23666391]: Marginal citation: [S.I. 2018/1318](https://www.legislation.gov.uk/uksi/2018/1318).
+
+[^c23666401]: Marginal citation: [S.I. 2018/1184](https://www.legislation.gov.uk/uksi/2018/1184).
+
+[^c23666411]: Marginal citation: [S.I. 2018/1320](https://www.legislation.gov.uk/uksi/2018/1320).
+
+[^key-0894a6142bdbd7ad0d5d3765913eae4b]: Textual amendment: [Reg. 11(5)(d)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5/d) omitted (14.1.2025 for specified purposes) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/9)
+
+[^c23666421]: Marginal citation: [S.I. 2018/1321](https://www.legislation.gov.uk/uksi/2018/1321).
+
+[^key-e21d76bc9553d0f9d1eb1f982059c8e7]: Textual amendment: Words in reg. 11(5)(d) inserted (31.12.2022 at. 11.00 p.m.) by [The Financial Services (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1223)](https://www.legislation.gov.uk/uksi/2022/1223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/2/a)
+
+[^c23666431]: Marginal citation: [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
+
+[^c23666441]: Marginal citation: [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^key-5f455dc4f05880a455f7705493e8f972]: Textual amendment: Words in reg. 11(5)(f) substituted (31.12.2022 at. 11.00 p.m.) by [The Financial Services (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1223)](https://www.legislation.gov.uk/uksi/2022/1223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/2/b)
+
+[^c23666451]: Marginal citation: [S.I. 2018/1199](https://www.legislation.gov.uk/uksi/2018/1199).
+
+[^c23666461]: Marginal citation: [S.I. 2019/341](https://www.legislation.gov.uk/uksi/2019/341).
+
+[^c23666471]: Marginal citation: [S.I. 2019/661](https://www.legislation.gov.uk/uksi/2019/661).
+
+[^c23666481]: Marginal citation: [S.I. 2019/284](https://www.legislation.gov.uk/uksi/2019/284).
+
+[^c23666491]: Marginal citation: [S.I. 2019/343](https://www.legislation.gov.uk/uksi/2019/343).
+
+[^c23666501]: Marginal citation: [S.I. 2019/333](https://www.legislation.gov.uk/uksi/2019/333).
+
+[^key-2d3d01cd5958bb1cba5f9d5007524cb9]: Textual amendment: Reg. 11(5)(m) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1410/regulation/15)
+
+[^c23666521]: Marginal citation: [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325).
+
+[^c23666531]: Marginal citation: [S.I. 2019/394](https://www.legislation.gov.uk/uksi/2019/394).
+
+[^c23666541]: Marginal citation: [S.I. 2019/335](https://www.legislation.gov.uk/uksi/2019/335).
+
+[^c23666551]: Marginal citation: [S.I. 2019/662](https://www.legislation.gov.uk/uksi/2019/662).
+
+[^c23666561]: Marginal citation: [S.I. 2019/264](https://www.legislation.gov.uk/uksi/2019/264).
+
+[^c23666571]: Marginal citation: [S.I. 2019/660](https://www.legislation.gov.uk/uksi/2019/660).
+
+[^c23666581]: Marginal citation: [S.I. 2019/542](https://www.legislation.gov.uk/uksi/2019/542).
+
+[^c23666591]: Marginal citation: [S.I. 2019/657](https://www.legislation.gov.uk/uksi/2019/657).
+
+[^c23666601]: Marginal citation: [S.I. 2019/253](https://www.legislation.gov.uk/uksi/2019/253).
+
+[^M_F_f4f7c0ce-a591-4c78-d836-88e5665a6f66]: Textual amendment: Reg. 11(5)(w) omitted (22.11.2024 for specified purposes) by virtue of [The Consumer Composite Investments (Designated Activities) Regulations 2024 (S.I. 2024/1198)](https://www.legislation.gov.uk/uksi/2024/1198), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/9)
+
+[^M_F_b931101b-9b6f-4966-cfb6-55d5eb8ee660]: Textual amendment: Words in reg. 11(5)(w) inserted (31.12.2022 at. 11.00 p.m.) by [The Financial Services (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1223)](https://www.legislation.gov.uk/uksi/2022/1223), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/2/c)
+
+[^c23666621]: Marginal citation: [S.I. 2019/266](https://www.legislation.gov.uk/uksi/2019/266).
+
+[^key-08615f4784def2cf7c8d66b78e84c182]: Textual amendment: Reg. 11(5)(y) omitted (31.12.2024) by virtue of [The Insurance and Reinsurance Undertakings (Overseas Insurance Regime, Transitional Provisions, etc.) Regulations 2024 (S.I. 2024/1116)](https://www.legislation.gov.uk/uksi/2024/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1116/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/1116/regulation/3)
+
+[^key-e57b696be0731413c43a4dd0376946fd]: Textual amendment: Words in reg. 11(5)(z) substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-11f5cbe6c607ba3caf551b9083fe9054]: Textual amendment: Reg. 11(5)(z1)(z2) inserted (31.12.2020 immediately before IP completion day) by [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/3), [29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c41e65ee0ce37b78c2ac7d0183383f60]: Textual amendment: [Reg. 11(5)(z2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5/z2) omitted (19.1.2026) by virtue of [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/22); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-8af5fa7b92fef067d4b0b2e7c17c93b1]: Textual amendment: Reg. 11(5)(z3)(z4) inserted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/3), [13(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/13/2)
+
+[^key-551bea7519014f27d1714bcec2a893e6]: Textual amendment: Reg. 11(5)(z5) inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [12(2)](https://www.legislation.gov.uk/uksi/2020/646/regulation/12/2)
+
+[^c23666641]: Marginal citation: [S.I. 2001/1783](https://www.legislation.gov.uk/uksi/2001/1783).
+
+[^c23666651]: Marginal citation: [S.I. 2001/3084](https://www.legislation.gov.uk/uksi/2001/3084); the definition of “Gibraltar-based firm” was substituted by [S.I. 2014/1292](https://www.legislation.gov.uk/uksi/2014/1292).
+
+[^M_F_c920d961-0a84-4dbc-c8d8-d1c58ec9316d]: Textual amendment: Reg. 11(7)(d): By [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/12/3), it is provided that the words “, (z4) and (z5)” are substituted (31.12.2020) for “and (z4)”
+
+[^key-bc5cb2fdf3910a527a98cce013f971a2]: Textual amendment: Reg. 11(7)(d) inserted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/3), [13(3)](https://www.legislation.gov.uk/uksi/2020/628/regulation/13/3)
+
+[^key-beb57157e424c35668d906b43b47d689]: Textual amendment: Words in reg. 11(8) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f/iii)
+
+[^key-dec09a47474385caeb1a09fa720354db]: Textual amendment: Words in reg. 11(9) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)(iv)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f/iv)
+
+[^key-548a2f24a6ea4fa0a46056a9b9a8d2e5]: Commencement: Sch. 1 para. 1 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-4db5fcd5ccf8761023f4b9592a1f0dba]: Commencement: Sch. 1 para. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666661]: Marginal citation: Regulation 2 was amended by [S.I. 2007/108](https://www.legislation.gov.uk/uksi/2007/108) and 2015/575. There are other amendments which are not relevant to this instrument.
+
+[^key-ecc9b0f69c5704bcdadb3e23f0312a08]: Textual amendment: Words in Sch. 1 para. 2 inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [60(3)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60/3/a)
+
+[^key-2e0e843f1bba47f9e2c9b091512a8b93]: Textual amendment: Sch. 1 para. 2(a)-(h) renumbered as Sch. 1 para. 2(a)(i)-(viii) (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [60(3)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60/3/b)
+
+[^key-f39d9be94a04f6c7791f1f0054f6e431]: Textual amendment: Words in Sch. 1 para. 2(e) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(g)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/g/i)
+
+[^key-bf89015047cca89f33db6beef7970ad3]: Textual amendment: Words in Sch. 1 para. 2(h) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(g)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/g/ii)
+
+[^key-03415a277bd6d22bee556b69fe4235ba]: Textual amendment: Sch. 1 para. 2(b) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [60(3)(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60/3/c)
+
+[^key-3d0bacb3fb67beba1df378598846cca2]: Commencement: Sch. 1 para. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666671]: Marginal citation: Regulation 4 was amended by [S.I. 2007/851](https://www.legislation.gov.uk/uksi/2007/851).
+
+[^key-6a5524e26d1b8e082139692252cf76d0]: Commencement: Sch. 1 para. 4 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666681]: Marginal citation: Regulation 5 was amended by [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265) and 2015/575.
+
+[^key-d184bb9519cad5f02482b777fb3c706e]: Commencement: Sch. 1 para. 5 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666691]: Marginal citation: Regulation 6 was amended by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
+
+[^key-8607b03cc59f3204825880490b2e9c71]: Commencement: Sch. 1 para. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-746a25db877f88621bb246f54ac86fcc]: Textual amendment: Sch. 1 para. 6 substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [60(3)(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60/3/d)
+
+[^key-faf8db2ee1dc88fe049a259276f0150c]: Commencement: Sch. 1 para. 7 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666711]: Marginal citation: Regulation 11(3) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^key-95ed9f584ed97e92225deba7b7c7275d]: Commencement: Sch. 1 para. 8 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-ecff730f09224485eccbf95ee66e0729]: Commencement: Sch. 1 para. 9 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-b9899567c375c39d1a80f79caaa0e6e1]: Commencement: Sch. 1 para. 10 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666721]: Marginal citation: Regulation 17 was amended by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575). There are other amendments to regulation 17 which are not relevant to this instrument.
+
+[^key-6179900341fab51bbcd6fc07ee12fe8c]: Commencement: Sch. 1 para. 11 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-a05ccc25464df7a2a580fd1aa62d1906]: Commencement: Sch. 1 para. 12 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-c060c9aa3bf472335a9ef790f6620370]: Commencement: Sch. 1 para. 13 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-cd72a668dde91b64d94186bb488e4b87]: Commencement: Sch. 1 para. 14 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-15fd51235fd0d3702a4a2907d330f3d0]: Commencement: Sch. 1 para. 15 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-3a92fa9408931bc3c51425d941b860f9]: Commencement: Sch. 1 para. 16 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-ce1e4713d988e71f96578c3f260b48ea]: Commencement: Sch. 1 para. 17 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-7cf38b1456c2dacb802a5083c340ab6a]: Commencement: Sch. 1 para. 18 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-616878235e09e3a1b4fd28d4e8063f03]: Commencement: Sch. 1 para. 19 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666731]: Marginal citation: Regulation 44 was amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and 2017/701.
+
+[^c23666741]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-e7ed0d33357f9a17c68a427061727ff3]: Commencement: Sch. 1 para. 20 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-f213e655c370335e7e0e31dc4166b936]: Commencement: Sch. 1 para. 21 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-888f7c096ff5a83e14ca190e6f012c40]: Commencement: Sch. 1 para. 22 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-97c673bc5c74f520a44eb9945f460018]: Commencement: Sch. 1 para. 23 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-d315f5ed1f08828f0c66313d33b3d94c]: Commencement: Sch. 2 para. 1 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-b8cf245385b4c63833f629fb61b0f109]: Commencement: Sch. 2 para. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666751]: Marginal citation: Regulation 2 was amended by [S.I. 2007/108](https://www.legislation.gov.uk/uksi/2007/108); 2013/3115; 2014/3348. There are other amendments to regulation 2 which are not relevant to this instrument.
+
+[^key-2d3817120ffa1dbd766ea706280d8f4f]: Textual amendment: Words in Sch. 2 para. 2(a)(x)(xi) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(h)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/h/i)
+
+[^c23666761]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1). Section 89H was inserted by [S.I. 2014/3329](https://www.legislation.gov.uk/uksi/2014/3329).
+
+[^key-e221a131fe1cdf3dc68f553fc5856b5d]: Commencement: Sch. 2 para. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666771]: Marginal citation: Regulation 3 was amended by [S.I. 2007/830](https://www.legislation.gov.uk/uksi/2007/830) and 2014/3348.
+
+[^key-c1df72d833c01d5821e8dd0b20551563]: Textual amendment: Sch. 2 para. 3(c) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [60(4)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60/4/a)
+
+[^key-3cc3c3b78435a25a05c26b01b7053ccb]: Commencement: Sch. 2 para. 4 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666781]: Marginal citation: Regulation 4 was amended by [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265).
+
+[^key-f66c472121a8bb6b5ae1407b741ae935]: Commencement: Sch. 2 para. 5 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666791]: Marginal citation: Regulation 5 was amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
+
+[^key-92683c7a9b73a9c95e56cd25d613bf6e]: Commencement: Sch. 2 para. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-072a4791bde949bf3b513edffde6b347]: Textual amendment: Words in Sch. 2 para. 6 substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [60(4)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60/4/b)
+
+[^key-5996b32708e17ec93e8dcbfa4515f6af]: Commencement: Sch. 2 para. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666801]: Marginal citation: Regulation 10(3) was amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); 2014/3348; 2017/80.
+
+[^key-2b24207b8650e7111725a5742a248b51]: Textual amendment: Sch. 2 para. 7(c) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [60(4)(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60/4/c)
+
+[^key-f4625b287233352da9565850d3b4a001]: Commencement: Sch. 2 para. 8 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666811]: Marginal citation: Regulation 12(3) and (12) were amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^key-66dff8c591784dc86a5c797b129fb791]: Commencement: Sch. 2 para. 9 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-aef96ad85e229973013fa476005a3a72]: Commencement: Sch. 2 para. 10 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-dbb38d065df8ef44537cbc31239da768]: Commencement: Sch. 2 para. 11 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-6ca923738e0842b1693b5a89ee2f5a0c]: Commencement: Sch. 2 para. 12 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-357b6d4b4083b58685e8e3d17be0a103]: Commencement: Sch. 2 para. 13 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-bc1cbc9f51a67c7988d3fb7b2763f7a6]: Commencement: Sch. 2 para. 14 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-9416361e13f642817524b1e4a439e1d9]: Commencement: Sch. 2 para. 15 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-c354f9d8e39789f93e2e3cbeb797afec]: Commencement: Sch. 2 para. 16 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-cd95b4145e8b459fdb48fcbb71420ce7]: Commencement: Sch. 2 para. 17 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-ec3a30ac9dca383d765058405cbb887b]: Commencement: Sch. 2 para. 18 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-9d906949e1723037cd421f80089c1cda]: Commencement: Sch. 2 para. 19 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666821]: Marginal citation: Regulation 29 was amended by [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348).
+
+[^key-7f76bd7809460048948bb15c73a22fa6]: Commencement: Sch. 2 para. 20 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-ce27983513c10a3560b9087808ec6e94]: Commencement: Sch. 2 para. 21 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666831]: Marginal citation: Regulation 31 was amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and 2017/701.
+
+[^key-015da47fed5e91c003c34574ccb1cc42]: Textual amendment: Words in Sch. 2 para. 21(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/h/ii)
+
+[^key-d679d813a2f4a662810a76edc05e0ac0]: Commencement: Sch. 2 para. 22 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-95affb50670f26312f68080674ada2f9]: Commencement: Sch. 2 para. 23 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-9d1ce46ad15ca8c95ef8e2f9cd35ff68]: Commencement: Sch. 2 para. 24 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666841]: Marginal citation: Regulation 34 was substituted by [S.I. 2014/332](https://www.legislation.gov.uk/uksi/2014/332); 2014/3348.
+
+[^key-7643cacde7b6bef0be819f0872f1fd2d]: Textual amendment: Words in Sch. 2 para. 24 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(h)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/h/iii)
+
+[^key-17852b590ea74a2dc57cce7a9971e1ed]: Commencement: Sch. 2 para. 25 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23666851]: Marginal citation: Regulation 35 was substituted by [S.I. 2014/3329](https://www.legislation.gov.uk/uksi/2014/3329); 2014/3348.
+
+[^key-9234ba2440b999f7d5a93937dc09df9b]: Textual amendment: Words in Sch. 2 para. 25 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(h)(iv)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/h/iv)
+
+[^key-be8cec8a731aefa35603caef323f38c4]: Commencement: Sch. 2 para. 26 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-001f6e01b0892071f103f77330c6442e]: Commencement: Sch. 2 para. 27 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c23666861]: Marginal citation: Regulation 39 was inserted, with regulations 40 to 49, by [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348).
+
+[^key-bfc1340105826a73653870e37e2b7557]: Commencement: Sch. 2 para. 28 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-6aebaebeae714ea2c0f919284cac9d04]: Commencement: Sch. 2 para. 29 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-6fd784314069d557f8145d860ed20a3d]: Commencement: Sch. 2 para. 30 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-541851372ec3c3febf28bcb4d3ec4fe9]: Commencement: Sch. 2 para. 31 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-c84cd94dbb78c5d63f6cc96ddf2fcfb7]: Commencement: Sch. 2 para. 32 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)

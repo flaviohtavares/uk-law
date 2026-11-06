@@ -1,0 +1,217 @@
+---
+title: The Civil Aviation (Insurance) Regulations 2005
+id: uksi/2005/1089
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-04-02'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2005/1089
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/1089/pdfs/uksiem_20051089_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1089/pdfs/uksi_20051089_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1089/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Aviation (Insurance) Regulations 2005
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2005 No. 1089
+
+CIVIL AVIATION
+
+The Civil Aviation (Insurance) Regulations 2005
+
+Made
+
+2nd April 2005
+
+Laid before Parliament
+
+5th April 2005
+
+Coming into force
+
+30th April 2005
+
+The Secretary of State for Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to air transport, in exercise of the powers conferred upon him by that section, hereby makes the following Regulations:
+
+## 1. Citation and Commencement[^key-91b8510c8c079bf4c2a8984443ab3cea]
+
+These Regulations may be cited as the Civil Aviation (Insurance) Regulations 2005 and shall come into force on 30th April 2005.
+
+## 2. Interpretation[^key-87eab13ddb4b0e06032c64350cf031a6]
+
+(1) In these Regulations—
+
+- “aerodrome” means any area of land or water designed, equipped, set apart or commonly used for affording facilities for the landing and departure of aircraft and includes any area or space, whether on the ground, on the roof of a building or elsewhere, which is designed, equipped or set apart for affording facilities for the landing and departure of aircraft capable of descending or climbing vertically, but shall not include any area the use of which for affording facilities for the landing and departure of aircraft has been abandoned and has not been resumed;
+- “the CAA” means the Civil Aviation Authority;
+- “the Insurance Regulation” means Regulation [(EC) No 785/2004](https://www.legislation.gov.uk/european/regulation/2004/0785) of the European Parliament and of the Council of 21 April 2004 on insurance requirements for air carriers and aircraft operators[^f00003];
+- “the Order” means the Air Navigation Order 2000[^f00004].
+
+(2) Other expressions used in these Regulations have, in so far as the context admits, the same meaning as in the Insurance Regulation.
+
+## 3. Competent Authority[^key-54ed8f18ee7bc1d03317b952815e77b5]
+
+(1) Subject to paragraph (2) the CAA shall perform the functions that are required by Article 5[^key-c45baf1ccf56130295f56f052fdaf1be] of the Insurance Regulation to be performed by the United Kingdom or by the competent authorities of the United Kingdom.
+
+(2) The Secretary of State or a person authorised by him to act on his behalf shall perform these functions in relation to an aircraft in respect of which a permit under article 113 or 115 of the Order is required or has been granted.
+
+## 4. Offence of failing to comply with the Insurance Regulation[^key-cdedd2c7a0d87e73ba2f498314e063f0]
+
+(1) An[^key-ad4b10153a3e7daddd5bc725a08c302e] air carrier or aircraft operator shall be guilty of an offence if he fails to comply with any requirement imposed on him by paragraphs 1 and 2 of Article 4 of the Insurance Regulation.
+
+(2)[^key-9f8a5f160d48d8f6d3a9f78366e9b157] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Minimum insurance in respect of liability for passengers[^key-7ebfeb2c40053523e92aa43ebc4c9984]
+
+For the purposes of paragraph 1 of Article 6 of the Insurance Regulation the level of minimum insurance cover set in respect of liability for passengers in the case of non-commercial operations by aircraft with an MTOM of 2,700 kg or less, shall be 100,000 SDRs per passenger.
+
+## 6. Provision of information[^key-080b8676ac9637378a92f66d40496666]
+
+(1) This regulation applies if—
+
+- (a) the CAA, in exercise of its functions under regulation 3(1), requires an air carrier or aircraft operator to provide it with an insurance certificate or any other evidence of insurance relating to an aircraft operated by the air carrier or aircraft operator for aviation-specific liability in respect of passengers, baggage, cargo or third parties; and
+- (b) the air carrier or aircraft operator fails to provide within a reasonable period—
+  - (i) the evidence referred to in sub-paragraph (a); or
+  - (ii) a declaration in writing that he will not permit that aircraft to be flown other than as a State aircraft unless he has first provided the CAA with such a certificate or such other evidence of insurance.
+
+(2) In a case referred to in paragraph (1)—
+
+- (a) where the aircraft is registered under article 4 of the Order and is not an aircraft to which article 4(17) of the Order applies, the CAA shall cancel the registration of the aircraft; and
+- (b) where the aircraft is not so registered or is an aircraft to which article 4(17) of the Order applies the air carrier or aircraft operator shall be guilty of an offence.
+
+**7.**[^key-09e9997dde9d5987612e095a7f5c8080] (1) On applying for the registration of an aircraft in the United Kingdom under article 4(6) of the Order, the following shall be provided to the CAA—
+
+- (a) an insurance certificate or any other evidence of insurance relating to the aircraft for aviation-specific liability in respect of passengers, baggage, cargo or third parties; or
+- (b) a declaration in writing that the applicant will not permit the aircraft to be flown other than as a State aircraft unless he has first provided to the CAA such a certificate or such evidence of insurance.
+
+(2) If the applicant fails to comply with paragraph (1), the CAA shall refuse the application.
+
+(3) The requirement in article 4(11)(a) of the Order to inform the CAA in writing of changes in particulars shall not extend to changes in particulars furnished pursuant to paragraph (1).
+
+**8.**[^key-bb6923bc6b721df119dca21b9733f1df] (1) This regulation applies in relation to an aircraft for which a permit under article 113 or 115 of the Order is required or has been granted.
+
+(2) If—
+
+- (a) the Secretary of State, or an authorised person, in exercise of the functions referred to in regulation 3(2) requires the air carrier or aircraft operator who is operating, or appears to him to be intending to operate, an aircraft to which this regulation applies to provide an insurance certificate or any other evidence of insurance relating to that aircraft for aviation-specific liability in respect of passengers, baggage, cargo or third parties; and
+- (b) the air carrier or aircraft operator fails to provide within a reasonable period—
+  - (i) the evidence referred to in sub-paragraph (a); or
+  - (ii) a declaration in writing that he will not permit that aircraft to be flown other than as a State aircraft unless he has first provided the Secretary of State or that authorised person with such a certificate or such other evidence of insurance,
+
+the air carrier or aircraft operator shall be guilty of an offence.
+
+## 9. Provision of false information[^key-436b6530b846e3004891c0f9e375ab79]
+
+Any person who for the purpose of demonstrating compliance with the requirements of paragraphs 1 and 2 of Article 4 of the Insurance Regulation knowingly or recklessly provides an insurance certificate or other evidence of insurance which is false in a material respect shall be guilty of an offence.
+
+## 10. Prevention of take off[^key-b5d16f829ee8d741a68271e03c216854]
+
+(1) Where the relevant authority has reason to believe that an aircraft is intended or likely to be flown in such circumstances that the requirements of paragraphs 1 or 2 of Article 4 of the Insurance Regulation will be contravened he—
+
+- (a) shall give to the person appearing to him to be in command of the aircraft a direction that he shall not permit the aircraft to take off until further notice; and
+- (b) shall take such steps as may be necessary to detain the aircraft.
+
+(2) A person who fails to comply with a direction given to him under paragraph (1)(a) shall be guilty of an offence.
+
+(3) For the purposes of carrying out its functions under this regulation the relevant authority may enter an aerodrome or aircraft.
+
+(4) For the purposes of this regulation the expression “the relevant authority” shall mean—
+
+- (a) in the case of an aircraft in respect of which a permit is required under article 113 or 115 of the Order, the Secretary of State or a person authorised to act on his behalf for this purpose; and
+- (b) in the case of any other aircraft, the CAA .
+
+## 11. Obstruction of officers of the competent authority[^key-aac941527de485a3f37877cba67b2fdf]
+
+A person who intentionally obstructs or impedes a relevant authority acting in exercise of his functions under regulation 10 shall be guilty of an offence.
+
+## 12. Penalties[^key-ab307dafc41d3750bec1d8166172ae5d]
+
+(1) A person guilty of an offence under regulation 4(1), 9, 10(2) or 11 shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; and
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+(2) A person guilty of an offence under regulation 6(2)(b) or 8(2) shall be liable on summary conviction to a fine not exceeding Level 3 on the standard scale.
+
+(3) Where an offence under these Regulations has been committed by a body corporate and is proved to have been committed with the consent or connivance of or to have been attributable to any neglect on the part of any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
+
+(4) Where the affairs of a body corporate are managed by its members, paragraph (2) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(5) Where a Scottish partnership commits an offence under these Regulations in Scotland and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+Signed by authority of the Secretary of State for Transport
+
+Charlotte Atkins
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+(This note is not part of the Regulations)
+
+These Regulations make provision to comply with obligations of the United Kingdom under Regulation 785/04 of the European Parliament and of the Council of 21 April 2004 on insurance requirements for air carriers and aircraft operators (“the Insurance Regulation”). The Insurance Regulation obliges air carriers and other aircraft operators to take out insurance meeting minimum levels of cover in respect of liability for passengers, baggage, cargo and third parties. Member States must ensure that these requirements are complied with.
+
+Regulation 3 provides that the Civil Aviation Authority is to act as the competent authority for the purposes of enforcement of the Insurance Regulation, except in relation to holders of permits under articles 113 or 115 of the Air Navigation Order 2000 (permits to fly certain aircraft registered outside the United Kingdom), where the Secretary of State will exercise the relevant functions.
+
+Regulation 4 makes it a criminal offence for air carriers and other aircraft operators to fail to take out insurance meeting the requirements of the Insurance Regulation. This offence does not extend to air carriers or aircraft operators regulated by other Member States of the European Community.
+
+Regulation 5 sets the level of minimum insurance in respect of liability for passengers in the case of non-commercial operations using aircraft with a maximum take off mass of 2700kg or less.
+
+Regulations 6 to 8 place obligations on air carriers and other aircraft operators to provide the CAA or the Secretary of State with information relating to their insurance for liability in respect of passengers, baggage, cargo and third parties. Regulation 9 makes it a criminal offence in certain circumstances to provide false insurance details.
+
+Regulation 10 provides for aircraft to be prevented from taking off where it appears that requirements of the Insurance Regulation will be contravened. It is an offence under regulation 11 to obstruct or impede a relevant authority who is seeking to prevent take off.
+
+Regulation 12 specifies the maximum penalties which will apply in the case of the criminal offences created by the preceding provisions. At present the maximum fines referred to in paragraphs (1)(a) and (2) of this regulation are £5000 and £1000 respectively.
+
+A Regulatory Impact Assessment has been produced and a copy placed in the library of both Houses of Parliament. Copies may be obtained from the Department for Transport, Great Minster House, 76 Marsham Street, London SW1P 4DR. Alternatively copies can be obtained from the Department’s website which is at www.dft.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-91b8510c8c079bf4c2a8984443ab3cea]: Commencement: Reg. 1 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-87eab13ddb4b0e06032c64350cf031a6]: Commencement: Reg. 2 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^f00003]: Footnote: O.J. No L 138, 30.4.2004, p 1.
+
+[^f00004]: Footnote: S.I. [2000/1562](https://www.legislation.gov.uk/uksi/2000/1562), to which there are amendments not relevant to these Regulations.
+
+[^key-54ed8f18ee7bc1d03317b952815e77b5]: Commencement: Reg. 3 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-c45baf1ccf56130295f56f052fdaf1be]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/1089/regulation/3/1) substituted (31.12.2020) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1363)](https://www.legislation.gov.uk/uksi/2018/1363), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1363/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cdedd2c7a0d87e73ba2f498314e063f0]: Commencement: Reg. 4 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-ad4b10153a3e7daddd5bc725a08c302e]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2005/1089/regulation/4/1) substituted (31.12.2020) by [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1363)](https://www.legislation.gov.uk/uksi/2018/1363), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1363/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9f8a5f160d48d8f6d3a9f78366e9b157]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2005/1089/regulation/4/2) omitted (31.12.2020) by virtue of [The Civil Aviation (Insurance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1363)](https://www.legislation.gov.uk/uksi/2018/1363), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1363/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1363/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7ebfeb2c40053523e92aa43ebc4c9984]: Commencement: Reg. 5 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-080b8676ac9637378a92f66d40496666]: Commencement: Reg. 6 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-09e9997dde9d5987612e095a7f5c8080]: Commencement: Reg. 7 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-bb6923bc6b721df119dca21b9733f1df]: Commencement: Reg. 8 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-436b6530b846e3004891c0f9e375ab79]: Commencement: Reg. 9 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-b5d16f829ee8d741a68271e03c216854]: Commencement: Reg. 10 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-aac941527de485a3f37877cba67b2fdf]: Commencement: Reg. 11 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)
+
+[^key-ab307dafc41d3750bec1d8166172ae5d]: Commencement: Reg. 12 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1089/regulation/1)

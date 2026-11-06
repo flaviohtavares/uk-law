@@ -1,0 +1,39 @@
+---
+title: The Animal Feed (Amendment) (EU Exit) Regulations 2019, section 105
+act: The Animal Feed (Amendment) (EU Exit) Regulations 2019
+section: '105'
+status: revised
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/654/section/105
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Animal Feed (Amendment) (EU Exit) Regulations 2019, section 105
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 105.[^key-c41533f580a171b027bbdaa1fd921be1]
+
+*Extent: E+W+S+N.I.*
+
+For Article 20, substitute—
+
+> **Additional mandatory labelling requirements for non-compliant feed**
+>
+> **1.**
+>
+> In addition to the requirements laid down in Articles 15, 16, 17 and 18, feed which does not comply with the requirements set out in Annex 8, such as contaminated materials, must bear the labelling particulars laid down in that Annex.
+>
+> **2.**
+>
+> The appropriate authority may prescribe amendments to Annex 8 in order to bring it into line with the development of standards.
+
+.
+
+## Annotations
+
+[^key-c41533f580a171b027bbdaa1fd921be1]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

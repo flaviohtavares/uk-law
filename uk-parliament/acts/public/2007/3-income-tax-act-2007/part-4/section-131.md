@@ -1,0 +1,45 @@
+---
+title: Income Tax Act 2007, section 131
+act: Income Tax Act 2007
+section: '131'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/3/section/131
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax Act 2007, section 131
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 131. Share loss relief
+
+*Extent: E+W+S+N.I.*
+
+(1) An individual is eligible for relief under this Chapter (“share loss relief”) if—
+
+- (a) the individual incurs an allowable loss for capital gains tax purposes on the disposal of any shares in any tax year (“the year of the loss”), and
+- (b) the shares are qualifying shares.
+
+This is subject to subsections (3) and (4) and section 136(2).
+
+(2) Shares are qualifying shares for the purposes of this Chapter if—
+
+- (a) EIS relief is attributable to them, or
+- (b) if EIS relief is not attributable to them, they are shares in a qualifying trading company which have been subscribed for by the individual.
+
+(3) Subsection (1) applies only if the disposal of the shares is—
+
+- (a) by way of a bargain made at arm's length,
+- (b) by way of a distribution in the course of dissolving or winding up the company,
+- (c) a disposal within section 24(1) of TCGA 1992 (entire loss, destruction dissipation or extinction of asset), or
+- (d) a deemed disposal under section 24(2) of that Act (claim that value of the asset has become negligible).
+
+(4) Subsection (1) does not apply to any allowable loss incurred on the disposal if—
+
+- (a) the shares are the subject of an exchange or arrangement of the kind mentioned in section 135 or 136 of TCGA 1992 (company reconstructions etc), and
+- (b) because of section 137 of that Act, the exchange or arrangement involves a disposal of the shares.

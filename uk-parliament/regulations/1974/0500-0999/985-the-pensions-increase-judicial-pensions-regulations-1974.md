@@ -1,0 +1,149 @@
+---
+title: The Pensions Increase (Judicial Pensions) Regulations 1974
+id: uksi/1974/985
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1974-06-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1974/985
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1974/985/pdfs/uksi_19740985_en.pdf
+- http://www.legislation.gov.uk/uksi/1974/985/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Pensions Increase (Judicial Pensions) Regulations 1974
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1974 No. 985
+
+PENSIONS
+
+The Pensions Increase (Judicial Pensions) Regulations 1974
+
+Made
+
+6th June 1974
+
+Laid before Parliament
+
+18th June 1974
+
+Coming into Operation
+
+10th July 1974
+
+The Minister for the Civil Service, in exercise of the powers conferred on him by sections 1(1), (2) and (4) and 4(1) and (3)(a) of the Pensions (Increase) Act 1974 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+**1.** These Regulations may be cited as the Pensions Increase (Judicial Pensions) Regulations 1974, and shall come into operation on 10th July 1974.
+
+**2.** (1) In these Regulations—
+
+- “**the 1974 Act**” means the Pensions (Increase) Act 1974;
+- “**judicial pension**” means any of the pensions specified in the Schedule to these Regulations.
+
+(2) Any reference in these Regulations to any enactment shall be construed as a reference to that enactment as amended by any other enactment.
+
+(3) The Interpretation Act 1889 shall apply for the interpretation of these Regulations as it applies for the interpretation of an Act of Parliament.
+
+**3.** The pensions specified in the Schedule to these Regulations are hereby prescribed for the purposes of section 1(1) of the 1974 Act.
+
+**4.** The pensions specified in paragraphs 2, 3, 4, 5, 6, 8, 9, 10 and 11 of the Schedule to these Regulations are pensions as respects which, in the opinion of the Minister for the Civil Service, increases in the emoluments relevant for the purpose of calculating the pensions were deferred during the period beginning with 6th November 1972 and ending with 31st March 1973 in consequences of provisions of the Counter-Inflation (Temporary Provisions) Act 1972, and accordingly paragraph (a) of section 1(2) of the 1974 Act applies to those pensions.
+
+**5.** The date on which, in the opinion of the Minister for the Civil Service, the emoluments relevant for the purpose of calculating a judicial pension were, or are expected to be, increased by the principal pay increase made or expected to be made, during the year ending with 6th November 1974, in accordance with the code in force under section 2 of the Counter-Inflation Act 1973 at the time of the increase, is—
+
+- (a) in the case of a pension specified in paragraphs 2, 3, 4, 5, 6, 8, 9, 10 or 11 of the Schedule to these Regulations, 1st January 1974;
+- (b) in the case of a pension specified in paragraph 7 of the Schedule to these Regulations, 17th July 1974; and
+- (c) in the case of a pension specified in paragraph 1 of the Schedule to these Regulations, 26th July 1974;
+
+and accordingly those dates shall respectively be the relevant dates for those pensions.
+
+**6.** The Schedule to the 1974 Act shall have effect in relation to any judicial pension as if—
+
+- (a) in paragraph 5 thereof, for the words “1st April 1974” there were substituted the words “1st January 1974”, and
+- (b) paragraphs 6, 7 and 16 thereof were omitted.
+
+**7.** Any increase of pension payable by virtue of these Regulations shall have effect in respect of any period beginning on or after 1st December 1973.
+
+Given under the official seal of the Minister for the Civil Service on 6th June 1974.
+
+Robert Sheldon
+
+Minister of State
+
+Civil Service Department
+
+## SCHEDULE — JUDICIAL PENSIONS TO WHICH THE 1974 ACT IS TO APPLY
+
+**1.** A pension payable under—
+
+- (a) Schedule 4 to the Administration of Justice Act 1973 (higher judiciary in England and Wales and Northern Ireland); or
+- (b) the Judges' Pensions (Scotland) Act 1808 (higher judiciary in Scotland); or
+- (c) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person in which that person became or might have become eligible for a pension specified in sub-paragraph (a) or (b) above.
+
+**2.** A pension payable under—
+
+- (a) section 19 of the Courts Act 1971 (Circuit judges); or
+- (b) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person as a Circuit judge.
+
+**3.** A pension payable under—
+
+- (a) section 1 of the Sheriffs' Pensions (Scotland) Act 1961 (sheriffs principal and salaried sheriffs); or
+- (b) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person as a sheriff principal or salaried sheriff.
+
+**4.** A pension payable under—
+
+- (a) the Superannuation Acts 1965 and 1967, as applied by section 128 of the Supreme Court of Judicature (Consolidation) Act 1925 (Masters, Registrars, Lord Chancellor's Legal Visitor, Clerks of Assize, President of the Transport Tribunal); or
+- (b) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person in which that person became or might have become eligible for a pension specified in sub-paragraph (a) above.
+
+**5.** A pension payable under—
+
+- (a) section 2(6) of the Lands Tribunal Act 1949 (members of the Lands Tribunal); or
+- (b) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person in the office of member of the Lands Tribunal.
+
+**6.** A pension payable under—
+
+- (a) the Superannuation Acts 1965 and 1967, as applied by section 21 of the County Courts Act 1934 (county court registrars); or
+- (b) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person in the office of county court registrar.
+
+**7.** A pension payable under—
+
+- (a) the Police Magistrates (Superannuation) Acts 1915 and 1929 (metropolitan police magistrates); or
+- (b) section 33 of the Justices of the Peace Act 1949 (stipendiary magistrates); or
+- (c) Part I of Schedule 1 to the Administration of Justice Act 1973 (metropolitan and other stipendiary magistrates);
+- (d) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person as a metropolitan police magistrate or stipendiary magistrate.
+
+**8.** A pension payable under—
+
+- (a) section 79 of the National Insurance Act 1965 (National Insurance Commissioners); or
+- (b) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person as National Insurance Commissioner.
+
+**9.** A pension payable under—
+
+- (a) the Superannuation (President of Industrial Court) Act 1954 (President of the Industrial Arbitration Board); or
+- (b) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person as President of the Industrial Arbitration Board.
+
+**10.** A pension payable under—
+
+- (a) section 9 of the Superannuation (Miscellaneous Provisions) Act 1967 (whole-time presidents or chairman of industrial tribunals); or
+- (b) Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person in which that person became or might have become eligible for a pension specified in sub-paragraph (a) above.
+
+**11.** A pension payable under Part I of the Administration of Justice (Pensions) Act 1950 in respect of service of any person as Chairman or Deputy Chairman of the Monopolies Commission.
+
+EXPLANATORY NOTE
+
+These Regulations apply the Pensions (Increase) Act 1974 to the judicial and other pensions described in the Schedule.
+
+The Regulations:—
+
+- (1) specify, in paragraphs 2-6 and 8-11 of the Schedule, those classes of pensions based on a salary an increase of which was deferred during the period 6th November 1972 to 31st March 1973; pensions of these classes which begin after 1st January 1973 will consequently be increased in accordance with Part I of the Schedule to the 1974 Act. The pensions specified in paragraphs 1 and 7 of the Schedule to the Regulations will be increased in accordance with Part II of the Schedule to the 1974 Act;
+- (2) specify the “relevant date”—the date of the principal pay increase made or expected to be made during the year ending 6th November 1974—for the pensions to which the Regulations apply;
+- (3) modify the provisions of the 1974 Act in relation to these pensions so that no increase is payable on pensions which begin after the specified relevant date. The modification is required because the pensions are calculated by reference to the annual rate of salary in force on the last day of service rather than on the salary paid over a period of 12 months.
+
+Under the powers in section 4(3) of the 1974 Act the Regulations provide for increases payable by virtue of the Regulations to take effect from 1st December 1973.

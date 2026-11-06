@@ -1,0 +1,29 @@
+---
+title: The Venezuela (Sanctions) (EU Exit) Regulations 2019, section 1
+act: The Venezuela (Sanctions) (EU Exit) Regulations 2019
+section: '1'
+status: revised
+text_date: '2026-05-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/135/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Venezuela (Sanctions) (EU Exit) Regulations 2019, section 1
+
+> Text as at 2026-05-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 1. Citation and commencement[^key-483162049ccea707247a10db6f2defd3]
+
+*Extent: E+W+S+N.I.*
+
+(1) These Regulations may be cited as the Venezuela (Sanctions) (EU Exit) Regulations 2019.
+
+(2) These Regulations come into force in accordance with regulations made under section 56 of the Act.
+
+## Annotations
+
+[^key-483162049ccea707247a10db6f2defd3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/135/regulation/1) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/a)

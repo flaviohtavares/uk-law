@@ -1,0 +1,148 @@
+---
+title: The Environmental Protection (Controls on Injurious Substances) Regulations 1993
+id: uksi/1993/1
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-01-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/1
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/1/made/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Protection (Controls on Injurious Substances) Regulations 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 1
+
+ENVIRONMENTAL PROTECTION
+
+The Environmental Protection (Controls on Injurious Substances) Regulations 1993
+
+Made
+
+4th January 1993
+
+Laid before Parliament
+
+8th January 1993
+
+Coming into force
+
+31st January 1993
+
+The Secretary of State for the Environment, as respects England, the Secretary of State for Wales, as respects Wales, and the Secretary of State for Scotland, as respects Scotland—
+
+- having consulted the committee constituted under section 140(5) of the -Environmental Protection Act 1990([^f00001]);
+- having published notices in pursuance of section 140(6)(b) of that Act;
+- having considered any representations made to them in accordance with the notices;
+- considering it appropriate to make these Regulations for the purpose of preventing the substance specified in them from causing pollution of the environment or harm to human health or to the health of animals and plants;
+
+in exercise of the powers conferred on them by section 140(1), (2)(b) and (9) of the Environmental Protection Act 1990, and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Environmental Protection (Controls on Injurious Substances) Regulations 1993 and shall come into force on 31st January 1993.
+
+(2) In these Regulations—
+
+- “CAS Number” means a number described in the CAS Registry Handbook, ISSN 0093-058X, published in instalments from 1965 to 1971 with supplements for 1972 to 1976, 1977 to 1981, 1982 to 1986 and 1987 to 1991 by the Chemical Abstracts Service,
+- American Chemical Society, Columbus, Ohio, USA;
+- “H<sub>6</sub>CDD” means all the isomers of hexachlorodibenzoparadioxin;
+- “industrial installation” means an industrial installation not permitting the emission and/or discharge of PCP in quantities greater than those prescribed by existing legislation;
+- “PCP” means Pentachlorophenol CAS Number 87-86-5 and its salts and esters.
+
+## 2. Scope of the Regulations
+
+The restrictions in these Regulations shall not apply—
+
+- (a) to the marketing of PCP, or any substance containing PCP, approved for sale or supply under regulation 5(1) of the Control of Pesticides Regulations 1986([^f00002]) and sold or supplied in accordance with that approval, or
+- (b) to the use of PCP, or any substance containing PCP, approved for use under regulation 5(1) of the Control of Pesticides Regulations 1986 and used in accordance with that approval.
+
+## 3. Marketing PCP
+
+mdash;
+
+(1) Subject to paragraph (2), no person shall market, other than for research and development or analysis purposes, PCP, or any substance containing PCP, in a concentration equal to or greater than 0.1 per cent by weight.
+
+(2) Paragraph (1) shall not apply to the marketing of PCP, or any substance containing PCP, which has a total H<sub>6</sub>CDD content below 4 parts per million and which—
+
+- (a) is marketed solely for use in industrial installations—
+  - (i) for the impregnation of fibres or heavy duty textiles not intended for clothing or for decorative furnishings, or
+  - (ii) as a synthesizing and/or processing agent in industrial processes,
+- (b) is placed on the market in packages of 20 litres or more marked clearly and indelibly with the words “Reserved for industrial and professional use”,
+- (c) is not sold to the general public, and
+- (d) is not waste to which Council Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442)([^f00003]) or Council Directive [78/319/EEC](https://www.legislation.gov.uk/european/directive/1978/0319)([^f00004]) applies.
+
+## 4. Using PCP
+
+(1) Subject to paragraph (2), no person shall use, other than for research and development or analysis purposes, PCP, or any substance containing PCP, in a concentration equal to or greater than 0.1 per cent by weight.
+
+(2) Paragraph (1) shall not apply to the use of PCP, or any substance containing PCP, which has a total H<sub>6</sub>CDD content below 4 parts per million—
+
+- (a) in industrial installations for the impregnation of fibres or heavy duty textiles not intended in any case for clothing or for decorative furniture, or
+- (b) in industrial installations as a synthesizing and/or processing agent in industrial processes.
+
+## 5. Using articles containing PCP
+
+No person shall, other than for research and development or analysis purposes—
+
+- (a) use wood treated with PCP, other than structural timbers, inside buildings whether for decorative purposes or not and whatever the purpose of the buildings, or
+- (b) use wood treated with PCP for the manufacture of—
+  - (i) containers intended for growing products for human or animal consumption, or
+  - (ii) packaging or other materials which may come into contact with or contaminate raw, intermediate and/or finished products intended for human or animal consumption,
+
+  or for the re-treatment of such containers, packaging or other materials.
+
+## 6. Offences and penalties
+
+A person who contravenes regulation 3, 4 or 5, or causes or permits another person to contravene one of those regulations, shall be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding level 5 on the standard scale and, on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
+
+Michael Howard
+
+Secretary of State for the Environment
+
+22nd December 1992
+
+David Hunt
+
+Secretary of State for Wales
+
+4th January 1993
+
+Hector Monro
+
+Parliamentary Under Secretary of State,
+
+23rd December 1992
+
+(This note is not part of the Regulations)
+
+These Regulations give effect in part to Council Directive [91/173/EEC](https://www.legislation.gov.uk/european/directive/1991/0173) (OJ No. L85, 5.4.1991, p 34) which amended for the ninth time Directive [76/769/EEC](https://www.legislation.gov.uk/european/directive/1976/0769) (OJ No. L262, 27.9.1976, p 201) on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations.
+
+Regulation 2 provides that the Regulations do not apply to marketing or use which is authorised under the Control of Pesticides Regulations 1986 (S.I. [1986/1510](https://www.legislation.gov.uk/uksi/1986/1510)).
+
+Regulation 3 prohibits the marketing of PCP other than its marketing, under certain conditions, for use in industrial installations for the impregnation of fibres or heavy duty textiles or as a synthesizing and/or processing agent.
+
+Regulation 4 prohibits the use of PCP other than for the purposes for which it may be marketed. Regulation 5 prohibits the use of wood treated with PCP inside buildings or for certain containers.
+
+Regulation 6 makes it a criminal offence to contravene regulations 3, 4 or 5 and specifies the penalties for such offences.
+
+The CAS Registry Handbook may be inspected at the Royal Society of Chemistry, Burlington House, Piccadilly, London W1V OBN.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^f00002]: Footnote: S.I. [1986/1510](https://www.legislation.gov.uk/uksi/1986/1510).
+
+[^f00003]: Footnote: OJ No. L194, 25.7.1975, p 39.
+
+[^f00004]: Footnote: OJ No. L84, 31.3.1978, p 43.

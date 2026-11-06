@@ -1,0 +1,624 @@
+---
+title: The Buckinghamshire (Structural Changes) Order 2019
+id: uksi/2019/957
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-05-22'
+text_date: '2020-05-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/957
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/957/pdfs/uksiem_20190957_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/957/pdfs/uksi_20190957_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/957/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Buckinghamshire (Structural Changes) Order 2019
+
+> Text as at 2020-05-08.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 957
+
+Local Government, England
+
+The Buckinghamshire (Structural Changes) Order 2019
+
+Made
+
+22nd May 2019
+
+Coming into force in accordance with article 1
+
+The Secretary of State for Housing, Communities and Local Government makes this Order in exercise of the powers conferred by sections 7, 11, 12 and 13 of the Local Government and Public Involvement in Health Act 2007 [^c23757711] (“**the 2007 Act**”).
+
+This Order implements a proposal, submitted to the Secretary of State under section 2 [^c23757721] of the Local Government and Public Involvement in Health Act 2007, that there should be a single tier of local government for Buckinghamshire. That proposal was made by Buckinghamshire County Council.
+
+A draft of this Order was laid before and approved by a resolution of each House of Parliament in accordance with section 240(6) of the 2007 Act.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement
+
+This Order may be cited as the Buckinghamshire (Structural Changes) Order 2019 and comes into force on the day after the day on which the Order is made.
+
+### 2. Interpretation
+
+In this Order
+
+- “**the 1972 Act**” means the Local Government Act 1972 [^c23757731];
+- “**the 1989 Act**” means the Local Government and Housing Act 1989 [^c23757741];
+- “**the 2000 Act**” means the Local Government Act 2000 [^c23757751];
+- “**the 2007 Act**” means the Local Government and Public Involvement in Health Act 2007;
+- “Buckinghamshire” except in the first mention of that word in article 3(1) and in the mention in articles 3(3), 18(2)(a) and 19(a) means the county of Buckinghamshire;
+- “**the county council**” means the council of the county of Buckinghamshire;
+- “[^key-e8f764a2c444ab5968eb77065e189022]**the 2021 election**” means the election required by article 18(1) to be held in 2021;
+- “the 2021 election day” means the ordinary day of election of councillors in 2021[^key-409098c715e244078a9212685959b425] [^c23757761];
+- “**the districts**” means the districts of Aylesbury Vale, Chiltern, South Bucks and Wycombe;
+- “**the district councils**” means Aylesbury Vale District Council, Chiltern District Council, South Bucks District Council and Wycombe District Council;
+- “**the Implementation Team**” means the team required to be formed under article 17(1);
+- “**shadow authority**” means an authority (not being a local authority) which will become a local authority on 1st April 2020;
+- “**shadow executive**” has the meaning given in article 6(1)(b);
+- “**the shadow period**” means the period beginning with the day on which this Order comes into force and ending on 11th May 2020[^key-6ed95239b666133c019f34033c63d80c].
+
+## PART 2 — ESTABLISHMENT OF SINGLE TIER OF LOCAL GOVERNMENT IN BUCKINGHAMSHIRE
+
+### 3. Single tier of local government in Buckinghamshire
+
+(1) A new non-metropolitan district to be known as Buckinghamshire is constituted, being coterminous with Buckinghamshire and comprising the areas of the district councils.
+
+(2) In relation to Buckinghamshire section 2(1) of the 1972 Act (which provides that every county shall have a council) does not apply.
+
+(3) A new district council, to be known as Buckinghamshire Council, is established as the sole principal authority for the non-metropolitan district of Buckinghamshire.
+
+(4) Except for the purposes of Part 4 of this Order (electoral matters), until 1st April 2020—
+
+- (a) Buckinghamshire Council is not a local authority for the purposes of the 1972 Act or for any other enactment relating to local government; and
+- (b) subsection (2) of section 2 of the 1972 Act (constitution of principal councils in England) has effect in relation to that council, as if the words from “and the council” to the end of that subsection were omitted.
+
+(5)[^key-b79656fa767f8a793a8880349d29e144] Immediately after the end of the shadow period those persons who are members of Buckinghamshire Council (having been members of the shadow authority) immediately before the end of that period are to continue to be the members of that council.
+
+(6) The term of office of those members referred to in paragraph (5) ends on the fourth day after the 2021 election day.
+
+(7) Until the fourth day after the 2021 election day, a meeting of Buckinghamshire Council is to be deemed quorate for the purposes of paragraph 6 of Schedule 12 to the 1972 Act where there are present at least twenty members of the council.
+
+### 4. Buckinghamshire County Council, the District Councils and their councillors
+
+(1) On 1st April 2020—
+
+- (a) the districts are abolished as local government areas; and
+- (b) the county council and the district councils are wound up and dissolved.
+
+(2) The term of office of persons serving as councillors of the county council and the district councils immediately before 1st April 2020 ends on that date.
+
+(3) Subject to paragraph (4), nothing in section 89 of the 1972 Act (filling of casual vacancies in case of councillors) authorises the holding of an election to fill a casual vacancy in the office of councillor of the county council or district councils where that vacancy arises after 30th September 2019 and before 1st April 2020.
+
+(4) Where, on the occurrence of a vacancy mentioned in paragraph (3) or in the case of a number of simultaneous vacancies, the total number of unfilled vacancies in the membership of the county council or district council (as the case may be) exceeds one third of the whole number of members of that council an election to fill the vacancy shall be held in accordance with section 89 of the 1972 Act.
+
+(5) Where, in the circumstances mentioned in paragraph (4), the declaration mentioned in section 89(1)(a) has been made or the notice in writing mentioned in section 89(1)(b) of the 1972 Act has been given within thirty-five days of 1st April 2020 (computed in accordance with section 243(4) of the 1972 Act) an election shall not be held and any proceedings required by the Local Elections (Principal Areas) (England and Wales) Rules 2006 [^c23757771] shall not be commenced.
+
+## PART 3 — SHADOW AUTHORITY, ITS TRANSITIONAL FUNCTIONS AND THEIR DISCHARGE
+
+### 5. Buckinghamshire Council as Shadow Authority
+
+(1) During the shadow period Buckinghamshire Council is a shadow authority for the purposes of the following provisions of this Part.
+
+(2) Subject to paragraph (6), the members of the shadow authority are the persons who, on the coming into force of this Order, are—
+
+- (a) councillors of the county council; and
+- (b) councillors of the district councils.
+
+(3) Those persons are to be members of the shadow authority throughout the shadow period notwithstanding the dissolution of the county council and the district councils on 1st April 2020.
+
+(4) The proper officer of the county council must convene, and make all necessary arrangements for, the first meeting of the shadow authority, which is to be held not later than 14 days after the coming into force of this Order.
+
+(5) The proper officer of Wycombe District Council shall act as the deputy to the proper officer of the county council in relation to the discharge of the duty under paragraph (4), discharging such functions as the proper officer of the county council may delegate.
+
+(6) Where, after the coming into force of this Order and before 1st<sup></sup>October 2019 or in the circumstances mentioned in article 4(4), a casual vacancy arises in any electoral division of the county council or any ward of the district councils, the person elected at a by-election held to fill the vacancy is to be a member of the shadow authority.
+
+(7) All questions coming or arising before the shadow authority shall be decided by a majority of the members of the authority present and voting at a meeting of the authority.
+
+### 6. Duties of shadow authority: executive arrangements, code of conduct and members' allowances
+
+(1) At its first meeting, the shadow authority must—
+
+- (a) elect the chairman of the shadow authority;
+- (b) in accordance with paragraphs (2) to (12), create a leader and cabinet executive within the meaning of Part 1A of the Local Government Act 2000 [^c23757781] (arrangements with respect to local authority governance) (“the shadow executive”).
+
+(2) Section 9C of the 2000 Act (local authority executives) has effect, for the purposes of paragraph (1), as if subsection (5) were omitted; and the shadow executive is to consist of—
+
+- (a) the person who is the leader for the time being of the county council's executive;
+- (b) eight persons nominated by the county council, each of whom is for the time being a councillor of that council;
+- (c) two persons nominated by each of the district councils, each of whom is for the time being a member of the nominating council.
+
+(3) The leader of the shadow executive is the person who is the leader for the time being of the county council's executive unless the shadow executive decides that another member of the shadow executive is to be the leader of that executive.
+
+(4) Subsection (3)(a) of section 9C of the 2000 Act has effect, for the purposes of paragraph (3), as if, for the words “elected as leader of the executive by the authority” there were substituted “ who is the leader for the time being of Buckinghamshire County Council's executive, unless the shadow executive created under article 6 of the Buckinghamshire (Structural Changes) Order 2019 [^c23757791] decides that another member of the shadow executive is to be the leader of that executive ”.
+
+(5) Section 9IA of the 2000 Act has effect, for the purposes of paragraph (3), as if, in each place in which it occurs, for “council” there were substituted “ executive ”.
+
+(6) At the first meeting of the shadow executive the members of that executive nominated by the district councils in accordance with paragraph (2)(c) must elect one person from among their number to act as the deputy leader of the shadow executive.
+
+(7) Except for the election of the deputy leader in accordance with paragraph (6), all questions coming or arising before the shadow executive shall be decided by a majority of the members of the shadow executive (including the leader of the shadow executive) present and voting at a meeting of the executive and the leader shall not have a second or casting vote.
+
+(8) The following provisions of the 2000 Act shall not apply to the executive arrangements of the shadow authority—
+
+- (a) section 9I; and
+- (b) with the exception of sub-paragraphs (7) and (8) of that paragraph, paragraph 2 of Schedule A1.
+
+(9) The county council must nominate nine persons, each of whom is for the time being a member of that council, to act as members of the shadow executive in the absence of the leader or the members nominated in accordance with paragraph (2)(b) (“the substitute members”).
+
+(10) Each of the district councils must nominate two persons, each of whom is for the time being a member of the council by which they are nominated, to act as members of the shadow executive in the absence of the members nominated in accordance with paragraph (2)(c) (“the substitute members”).
+
+(11) When acting as a member of the shadow executive in the absence of a member of that executive a substitute member is permitted to vote on all questions coming or arising before the shadow executive.
+
+(12) Where a vacancy arises as a result of a member or substitute member of the shadow executive ceasing to be a councillor of the council by which they were nominated in accordance with paragraph (2)(b) to (c), or a vacancy otherwise arises in the membership or substitute membership of the shadow executive, the county council or district council which nominated the person to whom the vacancy relates must nominate another person, who is for the time being a member of that council, to act as a member or substitute member of the shadow executive.
+
+(13) The persons who, immediately before 1st April 2020, are the members or substitute members of the shadow executive shall—
+
+- (a) continue as members or substitute members of that executive; and
+- (b) on and after 1st April 2020, shall be the members or substitute members of Buckinghamshire Council's executive for the purposes of Part 1A of the Local Government Act 2000,
+
+until the end of the shadow period, notwithstanding the dissolution on that date of the county council or district councils by which they were nominated.
+
+(14) If a member or substitute member of the executive constituted as mentioned in paragraph (13)(b) ceases to be a member of that executive before the end of the shadow period, Buckinghamshire Council may in accordance with the terms of the constitution of the council nominate another member of the council to be a member or substitute member of its executive.
+
+(15) Members or substitute members of the shadow executive nominated in accordance with paragraphs (2), (9) or (10) shall not be appointed to any overview and scrutiny committee established by the shadow authority in accordance with section 9F of the 2000 Act and shall not participate as members of such an overview and scrutiny committee of the council by which they are nominated where that committee is considering matters relating to the exercise of any of the functions of the shadow authority.
+
+(16) The county council and the district councils must co-operate in the establishment of the shadow executive.
+
+(17) With the exception of Chapter 4 (changing governance arrangements) and except as otherwise provided in this article the provisions of Part 1A of the 2000 Act, to the extent that they relate to a leader and cabinet executive, have effect in relation to the shadow authority as if—
+
+- (a) its executive were a leader and cabinet executive of a district council;
+- (b) the executive arrangements that it makes were executive arrangements of a district council;
+- (c) section 9E authorised its executive to delegate functions not only to officers of the shadow authority but also to officers of the county council and the district councils.
+
+(18) Chapter 7 of the Localism Act 2011 [^c23757801] (standards) applies in relation to the shadow authority as if—
+
+- (a) it were a district council (but not a principal authority in relation to a parish council); and
+- (b) references to co-opted members were omitted.
+
+(19) The shadow authority must prepare and adopt a scheme for the payment of allowances to its members; and the Local Authorities (Members' Allowances) (England) Regulations 2003 [^c23757811], other than regulations 6 and 17 and Part 5, apply in relation to the shadow authority and its members as they apply in relation to district councils and their members.
+
+### 6A. Executive arrangements for Buckinghamshire Council from the end of the shadow period[^key-e2bdc1edf80a9d937e071419f9357f85]
+
+(1) This article applies during the period beginning immediately after the end of the shadow period and ending on the fourth day after the 2021 election day.
+
+(2) Subject to the following provisions those persons who are members of the shadow executive immediately before the end of the shadow period are the members of the executive of Buckinghamshire Council.
+
+(3) Section 9C of the 2000 Act (local authority executives) has effect, for the purposes of paragraph (2), as if subsection (5) were omitted.
+
+(4) Immediately after the end of the shadow period the requirements at paragraphs (9) and (10) of article 6 to nominate substitute members of the executive cease to apply and those persons who were substitute members immediately before the end of the shadow period cease to be such members.
+
+(5) The leader of the executive is the person who is the leader of the shadow executive immediately before the end of the shadow period.
+
+(6) Subsection (3)(a) of section 9C of the 2000 Act has effect, for the purposes of paragraph (5) as if for the words “elected as leader of the executive by the authority” there were substituted “who is leader of the Buckinghamshire Council executive”.
+
+(7) Section 9IA of the 2000 Act has effect, for the purposes of paragraph (5), as if—
+
+- (a) in subsection (1) for “council” there were substituted “executive”; and
+- (b) in subsection (2) for “a council” there were substituted “an executive”.
+
+(8) Where a vacancy occurs in the membership of the executive the leader must appoint another member of Buckinghamshire Council to act as a member of the executive.
+
+(9) The executive is to have two deputy leaders who are to be—
+
+- (a) the person who is the deputy leader of the executive immediately before the end of the shadow period; and
+- (b) one other person appointed by the leader at the first meeting of the executive after the end of the shadow period from among the members of the executive.
+
+(10) Where a vacancy occurs in the office of deputy leader of the executive the leader must appoint a replacement.
+
+(11) Where the office of leader becomes vacant the executive must elect a new leader from among the members of the executive.
+
+(12) Subject to paragraph (13), the following provisions of the 2000 Act do not apply to the executive arrangements of Buckinghamshire Council—
+
+- (a) section 9I; and
+- (b) with the exception of sub-paragraphs (7) and (8) of that paragraph, paragraph 2 of Schedule A1.
+
+(13) Sub-paragraph (7) of paragraph 2 of Schedule A1 to the 2000 Act is to be read as if for the words from “the deputy” to the end there were substituted “where the executive leader has designated a deputy executive leader to act in place of the leader, that deputy executive leader must so act, but where no such designation has been made the deputy executive leaders must act jointly”.
+
+(14) Notwithstanding any provision made under, or by virtue of, sections 9D (functions which are the responsibility of an executive), 9DA (functions of an executive: further provision) or 13 [^c23757951] (functions which are the responsibility of an executive) of the 2000 Act or made under or by virtue of any other enactment, the function of appointment of members of the following committees which have been established pursuant to the resolution of Buckinghamshire Council made on 27th February 2020 [^c23757961] is, in each case, to be a function which is the responsibility of the executive—
+
+- (a) the Strategic Planning Committee and the Area Planning Committees established under sections 101 (arrangements for discharge of functions by local authorities) and 102 (appointment of committees) of the 1972 Act;
+- (b) the Licensing Committee established under section 101 of the 1972 Act and in accordance with section 6 of the Licensing Act 2003 [^c23757971] (licensing committees);
+- (c) the Health and Wellbeing Board established in accordance with section 194 of the Health and Social Care Act 2012 [^c23757981] (establishment of Health and Wellbeing Boards);
+- (d) the Pensions Committee established under section 101 of the 1972 Act;
+- (e) the Senior Appointments and Pay Committee established under sections 101 and 102 of the 1972 Act;
+- (f) the Standards and General Purposes Committee established under sections 101 and 102 of the 1972 Act;
+- (g) the Audit and Governance Committee established under sections 101 and 102 of the 1972 Act.
+
+(15) Notwithstanding any provision made under, or by virtue of, sections 9D, 9DA or 13 of the 2000 Act or made under or by virtue of any other enactment, the function of appointment of members of an overview and scrutiny committee established in accordance with section 9F of the 2000 Act (overview and scrutiny committees: functions) is to be exercised by the head of paid service of Buckinghamshire Council, following consultation with the leader of each political group.
+
+(16) Notwithstanding any provision made under, or by virtue of, sections 9D , 9DA or 13 of the 2000 Act or made under or by virtue of any other enactment, the function of appointment of an independent person in accordance with section 28(7) of the Localism Act 2011 (codes of conduct) is to be exercised by the chair of Buckinghamshire Council’s Audit and Governance Committee, following consultation with the head of paid service.
+
+### 7. Duties of shadow authority: appointment of certain officers, etc.
+
+(1) The shadow authority must designate in the cases below, on an interim basis, an officer of the county council or one of the district councils—
+
+- (a) to be responsible for performing, in relation to the shadow authority, the duties imposed by—
+  - (i) subsections (2) and (3) of section 5 (designation and reports of monitoring officer) of the 1989 Act [^c23757821]; and
+  - (ii) subsections (2) and (5) of section 5A of the 1989 Act (reports of monitoring officer - local authorities operating executive arrangements), as applied by paragraph (4) (the “interim monitoring officer”);
+- (b) to be responsible for the administration of the financial affairs of the shadow authority (the “interim chief finance officer”);
+- (c) to be head of the shadow authority's paid service and, accordingly, to be responsible for performing, in relation to the shadow authority, the duties imposed by subsections (2) and (4) of section 4 (designation and reports of head of paid service) of the 1989 Act (the “interim head of paid service”).
+
+(2) The shadow authority must before 1st April 2020 in the cases below appoint a person to become, on and after that date—
+
+- (a) the Buckinghamshire Council's monitoring officer;
+- (b) that council's chief finance officer;
+- (c) that council's head of paid service.
+
+(3) A designation under paragraph (1) ceases to have effect on the day on which a person (who may be the same person as the designated officer) is appointed under paragraph (2) to discharge responsibilities equivalent to those of the designated officer.
+
+(4) Subsections (2) to (7) of section 5 of the 1989 Act and subsections (2) and (5) of section 5A of that Act apply in relation to—
+
+- (a) the shadow authority;
+- (b) its interim monitoring officer; and
+- (c) its executive arrangements,
+
+as they apply in relation to a relevant authority and the monitoring officer and executive arrangements of a relevant authority as if references in those subsections were references to the shadow authority, its interim monitoring officer and the executive arrangements that it adopts pursuant to this Order.
+
+(5) Sections 114 to 115, 115B and 116 of the Local Government Finance Act 1988 [^c23757831] apply in relation to the shadow authority and its interim chief finance officer as if—
+
+- (a) references to the chief finance officer of a relevant authority included references to the interim chief finance officer of the shadow authority;
+- (b) references to a relevant authority included references to the shadow authority; and
+- (c) references to joint committees were omitted.
+
+(6) Subsections (2) to (5) and (6) of section 4 of the 1989 Act apply in relation to the shadow authority and its interim head of paid service as they apply in relation to a relevant authority and its head of paid service as if references in those subsections to a relevant authority and its head of paid service were references to the shadow authority and its interim head of paid service.
+
+(7)[^key-7408cadef9d554f935e282e833f0651e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Duties of shadow authority: proposals for executive arrangements, code of conduct and members' allowances relating to Buckinghamshire Council
+
+(1) The shadow authority must formulate proposals for the executive arrangements that are to be operated by Buckinghamshire Council.
+
+(2) In formulating proposals under paragraph (1) the shadow authority must comply with section 9B(2) of the 2000 Act and for that purpose is to assume that the Council's executive is to be a leader and cabinet executive within the meaning of section 9C(3) of that Act.
+
+(3) The shadow authority must formulate proposals for the code of conduct to be adopted by Buckinghamshire Council.
+
+(4) In formulating proposals under paragraph (3) the shadow authority must have regard to section 27 (duty to promote and maintain high standards of conduct) and section 28 (codes of conduct) of the Localism Act 2011.
+
+(5) The shadow authority must formulate proposals for the scheme of members' allowances to be adopted by Buckinghamshire Council.
+
+### 9. Functions of shadow authority: Implementation Plan
+
+(1) The shadow authority must prepare, keep under review, and revise as necessary, an Implementation Plan which must include—
+
+- (a) such plans and timetables as are in its opinion necessary to secure the effective, efficient and timely discharge of its functions; and
+- (b) such budgets and plans as it considers necessary or desirable to facilitate the economic, effective, efficient and timely discharge, on or after 1st April 2020, of the functions that, before that date, are functions of the county council or of the district councils.
+
+(2) For the purposes of—
+
+- (a) preparing, reviewing and revising the Implementation Plan; and
+- (b) discharging its functions,
+
+the shadow authority is to have regard to—
+
+- (i) the Business Case dated September 2016 submitted by the County Council to the Secretary of State in support of its proposal for a single tier of local government in Buckinghamshire [^c23757841];
+- (ii) any advice in relation to children's services which is provided by Hampshire County Council pursuant to the direction dated 12th July 2018 of the Secretary of State for Education under section 497A(4B) of the Education Act 1996 [^c23757851]; and
+- (iii) the Report into Children's Services in Buckinghamshire dated June 2018 prepared for the Secretary of State for Education by the Chief Executive of Hampshire County Council [^c23757861].
+
+(3) The shadow authority may, by written notice to—
+
+- (a) the proper officer of the county council; or
+- (b) the proper officer of any of the district councils,
+
+require the council referred to in the notice to take such action relevant to any of the functions referred to in articles 6 to 15 of this Order as may be specified in the notice.
+
+### 10. Other functions of shadow authority
+
+During the shadow period the shadow authority has, in addition to the functions specified or referred to in articles 6 to 9, the functions referred to or specified in articles 11 to 15.
+
+### 11.
+
+The shadow authority must take all such practicable steps as are necessary or expedient—
+
+- (a) to commence and sustain its running as a shadow authority;
+- (b) to prepare the authority for the assumption, as Buckinghamshire Council, of local government functions and full local authority powers on 1st April 2020;
+- (c) to prepare any budgets or plans required by Buckinghamshire Council when those functions are assumed; and
+- (d) to liaise with the county council and the district councils for the purpose of ensuring continuity of the delivery of public services on and after 1st April 2020.
+
+### 12.
+
+The shadow authority has all the other powers of a non-metropolitan county council or a non-metropolitan district council.
+
+### 13.
+
+The powers conferred by article 12 may be exercised by the shadow authority only—
+
+- (a) in the discharge of the functions specified or referred to in articles 6 to 9, 11 and 15;
+- (b) in the same manner, and subject to the same conditions and limitations, as if it were a non-metropolitan county council or a non-metropolitan district council; and
+- (c) where the exercise of the power would involve incurring expenditure or acquiring a liability—
+  - (i) with the prior consent of the county council, where the expenditure or liability relates to a matter which, before 1st April 2020, is the responsibility of that council; or
+  - (ii) where the expenditure or liability relates to a matter which, before 1st April 2020, is the responsibility of a district council, with the prior consent of that council.
+
+### 14.
+
+The total of the expenditure properly incurred by the shadow authority is to be divided among, and paid by, the county council and the district councils in such proportion as may be agreed between those councils; but, where the shadow authority notifies the Secretary of State that there is no such agreement, the Secretary of State may—
+
+- (a) determine the proportion in which that expenditure is to be divided and paid; or
+- (b) appoint an arbitrator for that purpose.
+
+### 15.
+
+(1) The following provisions of the 1972 Act apply in relation to the shadow authority, notwithstanding that it does not have the functions and full powers of a local authority:
+
+Table 1
+
+| *Part or section of 1972 Act* | *Description* |
+| --- | --- |
+| Section 3 | Chairman |
+| Section 5 | Vice-chairman |
+| Parts 5 and 5A | General provisions as to members and proceedings of local authorities, access to meetings and documents of certain authorities, committees and sub-committees |
+| Section 103 | Expenses of joint committees |
+| Section 106 | Standing orders |
+| Section 146 | Transfer of securities on alteration of area, etc |
+| Section 178 | Regulations as to allowances |
+| Section 245 | Status of certain districts, parishes and communities |
+
+(2) The shadow authority, notwithstanding that it does not have the functions and full powers of a local authority, is to be treated—
+
+- (a) for the purposes of the Local Audit and Accountability Act 2014 [^c23757871] and any regulations made under that Act as if it were a district council;
+- (b) for the purposes of section 101 of the 2000 Act (indemnification of members and officers of relevant authorities), as a relevant authority;
+- (c) for the purposes of Part 1 of the Local Government Act 2003 [^c23757881] (capital finance etc and accounts), as a local authority;
+- (d) for the purposes of the Local Authorities (Standing Orders) (England) Regulations 2001 [^c23757891], as a relevant authority;
+- (e) for the purposes of the Data Protection Act 2018 [^c23757901], as a public authority; and
+- (f) for the purposes of the Freedom of Information Act 2000 [^c23757911], as a public authority.
+
+### 16. Discharge of shadow authority's functions by shadow executive
+
+(1) Except to the extent that any provision of any Act, this Order or regulations under section 9D (functions which are the responsibility of an executive), 9DA (functions of an executive: further provision) or 13 [^c23757921] (functions which are responsibility of an executive) of the 2000 Act requires otherwise, the functions conferred on the shadow authority by or under this Order are to be delegated to, and discharged by, the shadow executive.
+
+(2) Before discharging the function mentioned in article 7(1) the shadow executive must consult the members of the shadow authority on the proposed designations of interim officers, such proposed designations to be decided at the first meeting of the shadow executive.
+
+(3) Paragraph (1) does not prevent the shadow executive from requesting the shadow authority to discharge any function specified in a notice given by the shadow executive to the proper officer of the shadow authority, and the shadow authority must comply with any such request within such period as the shadow executive may specify.
+
+### 17. Implementation Team
+
+(1) Not later than 21 days after the coming into force of this Order, the shadow executive must form a team of officers (“the Implementation Team”) for the purposes of assisting it and, if so required by the shadow authority, that authority.
+
+(2) The members of the Implementation Team are to comprise officers from the county council and each of the district councils.
+
+(3) The leader of the Implementation Team is to be the Chief Executive of the county council.
+
+(4) The deputy leader of the Implementation Team is to be an officer of one of the district councils.
+
+## PART 4 — ELECTORAL MATTERS
+
+### 18. Election to the Buckinghamshire Council in 2020 and subsequent years
+
+(1) A whole council election of councillors of Buckinghamshire Council is to be held—
+
+- (a) on the 2021 election day[^key-40bfc7ff6f5fe77286a3e58817b54f75];
+- (b) on the ordinary day of election of councillors in 2025;
+- (c) every fourth year thereafter.
+
+(2) For the purposes of the elections of councillors of Buckinghamshire Council—
+
+- (a) Buckinghamshire is to be divided into wards;
+- (b) the names of the new wards are those indicated in column 1 of the Table set out in the Schedule to this Order;
+- (c) the area of each new ward is to be the same as that of the county council electoral division, as that electoral division existed on 31st March 2020, and as indicated in column 2 of that Table;
+- (d) each new ward is to return the number of councillors indicated in column 3 of that Table.
+
+(3)[^key-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) All councillors elected in 2021[^key-2ef7d7ceff12da0a8342b92c62449b02] or any later year are to retire on the fourth day after the ordinary day of election of councillors in the year of retirement and the newly-elected councillors are to come into office on the day on which their predecessors retire.
+
+(8) In this article “the year of retirement” —
+
+- (a) in relation to councillors elected in 2021[^key-d3c7e98958a2472a591cdc4d1bb23563] means 2025;
+- (b) in relation to councillors elected in 2025 or in any later year means the fourth year after the year of election of those councillors.
+
+### 19. Cancellation of parish council elections in Buckinghamshire, etc
+
+Notwithstanding section 16(3) of the 1972 Act (election of parish councillors)—
+
+- (a) elections are not to be held in 2023 or in 2027 for the return of councillors to the council of any parish within Buckinghamshire;
+- (b) the term of office of parish councillors elected in 2021[^key-22bb63e8edc48aa71c3bfe391cde2101] or at any subsequent by-election held before the ordinary day of election of councillors in 2025 ends on the fourth day after the ordinary day of elections in 2025 [^c23757941];
+- (c) elections of parish councillors for those parishes in which, but for paragraph (a), elections would have been held in 2023 are to be held on the ordinary day of election of councillors in 2025;
+- (d) the term of office of parish councillors elected in 2025 or at any subsequent by-election held before the ordinary day of election of councillors in 2029 ends on the fourth day after the ordinary day of elections in 2029; and
+- (e) elections of parish councillors for those parishes in which, but for paragraph (a), elections would have been held in 2027 are to be held on the ordinary day of election of councillors in 2029 and every fourth year thereafter.
+
+## PART 5 — GENERAL TRANSITIONAL DUTIES OF COUNTY AND DISTRICT COUNCILS AND SHADOW AUTHORITY
+
+### 20. General transitional duties
+
+(1) The county council and each of the district councils must—
+
+- (a) take, whether alone or together, such steps as may be necessary to prepare for the transfer to Buckinghamshire Council of their respective functions, property, rights and liabilities;
+- (b) consult and co-operate with one another and with the shadow authority in order to secure the economic, effective, efficient and timely transfer of the county council's and district councils' functions, property, rights and liabilities; and
+- (c) generally exercise their functions so as to further the purposes of this Order.
+
+(2) The county council and each of the district councils must co-operate in the formation of the Implementation Team, and release the officers concerned from their normal duties at such times or for such periods as the shadow authority may reasonably require.
+
+(3) A relevant authority must provide such information relating to its functions as any other relevant authority may reasonably request for the purpose of giving effect to this Order.
+
+(4) A relevant authority must, on request by a person authorised by another relevant authority in that behalf, at all reasonable times allow that person—
+
+- (a) to inspect any record belonging to or under the control of the authority providing the information and relating to the authority or its functions; and
+- (b) to take, or be supplied with, a copy of any such record or part of it.
+
+(5) A relevant authority to whom a request is made under paragraph (4) may, before complying with the request, require the person making the request to produce evidence of the authorisation given by the other relevant authority.
+
+(6) The rights conferred by paragraph (4) include the right to require any record which is not in legible form to be made available in legible form so that the authorised person may inspect or copy it or be supplied with copies.
+
+(7) The information referred to in paragraph (3) shall, in particular, include any information necessary for the exercise during the shadow period of any of the functions of the shadow authority.
+
+(8) In this article “**relevant authority**” means—
+
+- (a) the county council;
+- (b) each of the district councils;
+- (c) the shadow authority.
+
+Signed by authority of the Secretary of State for Housing, Communities and Local Government
+
+Rishi Sunak
+
+Parliamentary Under Secretary of State
+
+Ministry of Housing, Communities and Local Government
+
+## SCHEDULE — Wards of Buckinghamshire
+
+Article 18
+
+| *New ward**Column 1* | *Existing electoral division**Column 2* | *Number of Councillors**Column 3* |
+| --- | --- | --- |
+| Abbey | Abbey | 3 |
+| Amersham and Chesham Bois | Amersham and Chesham Bois | 3 |
+| Aston Clinton and Bierton | Aston Clinton and Bierton | 3 |
+| Aylesbury East | Aylesbury East | 3 |
+| Aylesbury North | Aylesbury North | 3 |
+| Aylesbury North West | Aylesbury North West | 3 |
+| Aylesbury South East | Aylesbury South East | 3 |
+| Aylesbury South West | Aylesbury South West | 3 |
+| Aylesbury West | Aylesbury West | 3 |
+| Beaconsfield | Beaconsfield | 3 |
+| Bernwood | Bernwood | 3 |
+| Booker, Cressex and Castlefield | Booker, Cressex and Castlefield | 3 |
+| Buckingham East | Buckingham East | 3 |
+| Buckingham West | Buckingham West | 3 |
+| Chalfont St Giles | Chalfont St Giles | 3 |
+| Chalfont St Peter | Chalfont St Peter | 3 |
+| Chesham | Chesham | 3 |
+| Chess Valley | Chess Valley | 3 |
+| Chiltern Ridges | Chiltern Ridges | 3 |
+| Chiltern Villages | Chiltern Villages | 3 |
+| Cliveden | Cliveden | 3 |
+| Denham | Denham | 3 |
+| Downley | Downley | 3 |
+| Farnham Common and Burnham Beeches | Farnham Common and Burnham Beeches | 3 |
+| Flackwell Heath, Little Marlow and Marlow South East | Flackwell Heath, Little Marlow and Marlow South East | 3 |
+| Gerrards Cross | Gerrards Cross | 3 |
+| Great Brickhill | Great Brickhill | 3 |
+| Great Missenden | Great Missenden | 3 |
+| Grendon Underwood | Grendon Underwood | 3 |
+| Hazlemere | Hazlemere | 3 |
+| Iver | Iver | 3 |
+| Ivinghoe | Ivinghoe | 3 |
+| Little Chalfont and Amersham Common | Little Chalfont and Amersham Common | 3 |
+| Marlow | Marlow | 3 |
+| Penn Wood and Old Amersham | Penn Wood and Old Amersham | 3 |
+| Ridgeway East | Ridgeway East | 3 |
+| Ridgeway West | Ridgeway West | 3 |
+| Ryemead and Micklefield | Ryemead and Micklefield | 3 |
+| Stoke Poges and Wexham | Stoke Poges and Wexham | 3 |
+| Stone and Waddesdon | Stone and Waddesdon | 3 |
+| Terriers and Amersham Hill | Terriers and Amersham Hill | 3 |
+| The Risboroughs | The Risboroughs | 3 |
+| The Wooburns, Bourne End and Hedsor | The Wooburns, Bourne End and Hedsor | 3 |
+| Totteridge and Bowerdean | Totteridge and Bowerdean | 3 |
+| Tylers Green and Loudwater | Tylers Green and Loudwater | 3 |
+| Wendover, Halton and Stoke Mandeville | Wendover, Halton and Stoke Mandeville | 3 |
+| West Wycombe | West Wycombe | 3 |
+| Wing | Wing | 3 |
+| Winslow | Winslow | 3 |
+
+*(This note is not part of the Order)*
+
+This Order provides for the establishment, on 1st April 2020, of a single tier of local government in the county of Buckinghamshire. The area of the county remains unchanged. A new district is created, with the same area as the county.
+
+The county council of Buckinghamshire and the district councils of Aylesbury Vale, Chiltern, South Bucks and Wycombe are abolished on 1st April 2020. A new district council, Buckinghamshire Council, is created for the new district. With effect from 1st April 2020 the new district council will be the sole principal authority for the district. There will be no county council for Buckinghamshire.
+
+The term of office of councillors of Buckinghamshire County Council and the existing district councils will end on 1st April 2020.
+
+Part 3 of the Order contains arrangements for Buckinghamshire Council to operate as a shadow authority, before the full local authority functions are transferred to the new district council on 1st April 2020. The members of the shadow authority are the councillors of Buckinghamshire County Council and the existing district councils. Article 6 provides for the creation of a shadow executive to discharge the functions of the shadow authority. Article 17 provides for the creation of an Implementation Team to support the shadow executive. The shadow authority and shadow executive are tasked with making all necessary arrangements in advance of 1st April 2020 (including preparing and keeping under review an implementation plan and appointment of key officers); the costs of the shadow authority and shadow executive are to be met by the existing county council and district councils (articles 6 to 17).
+
+Part 4 of the Order deals with electoral matters. A whole council election will take place on the ordinary day of elections in 2020, 2025 and every fourth year thereafter. Elections for parish councillors in Buckinghamshire will take place on the same day as the elections to Buckinghamshire Council and follow the same cycle.
+
+Part 5 of the Order imposes general transitional duties on the county council and the existing district councils, in particular to cooperate with each other and the shadow authority and shadow executive.
+
+The schedule sets out the electoral wards of Buckinghamshire Council.
+
+A full regulatory impact assessment has not been prepared as this instrument will have no impact on the costs of business and the voluntary sector.
+
+## Annotations
+
+[^c23757711]: Marginal citation: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28)
+
+[^c23757721]: Marginal citation: Section 2 was modified, in its application to Buckinghamshire County Council, Aylesbury Vale District Council, Chiltern District Council, South Bucks District Council and Wycombe District Council by [S.I. 2019/332](https://www.legislation.gov.uk/uksi/2019/332).
+
+[^c23757731]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c23757741]: Marginal citation: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^c23757751]: Marginal citation: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Parts 2 and 3 of that Act were amended by Part 3 of the [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28). Part 1A and Schedule A1 were inserted by Schedule 2 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^key-e8f764a2c444ab5968eb77065e189022]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/3/a)
+
+[^key-409098c715e244078a9212685959b425]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/3/b)
+
+[^c23757761]: Marginal citation: See section 37 of the [Representation of the People Act 1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
+
+[^key-6ed95239b666133c019f34033c63d80c]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/3/c)
+
+[^key-b79656fa767f8a793a8880349d29e144]: Textual amendment: Art. 3(5)-(7) inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/426/regulation/4)
+
+[^c23757771]: Marginal citation: [S.I. 2006/3304](https://www.legislation.gov.uk/uksi/2006/3304).
+
+[^c23757781]: Marginal citation: Part 1A was inserted by the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 21 and Schedule 2.
+
+[^c23757791]: Marginal citation: [S.I. 2019/957](https://www.legislation.gov.uk/uksi/2019/957).
+
+[^c23757801]: Marginal citation: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^c23757811]: Marginal citation: [S.I. 2003/1021](https://www.legislation.gov.uk/uksi/2003/1021).
+
+[^key-e2bdc1edf80a9d937e071419f9357f85]: Textual amendment: Art. 6A inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/426/regulation/5)
+
+[^c23757951]: Marginal citation: Section 13 was amended by Schedule 3 to the [Localism Act 2011](https://www.legislation.gov.uk/ukpga/2011/20) so that it applies to Wales only from 4th May 2012. The Local Authorities (Functions and Responsibilities) (England) Regulations ([S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853)) made under section 13 continue to apply in relation to England.
+
+[^c23757961]: Marginal citation: The resolution may be obtained in hard copy from Buckinghamshire Council, The Gateway, Gatehouse Road, Aylesbury, HP19 8FF and online at https://buckinghamshire.moderngov.co.uk/documents/g143/printed%20minutes%2027th-Feb-2020%2016.00%20Shadow%20Authority.pdf?T=1.
+
+[^c23757971]: Marginal citation: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17).
+
+[^c23757981]: Marginal citation: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7). Section 194(11) provides that a Health and Wellbeing Board is a committee of the local authority which established it and is to be treated as if it were a committee appointed by the authority under section 102 of the 1972 Act.
+
+[^c23757821]: Marginal citation: Relevant amendments, including the insertion of section 5A, were made by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), article 23.
+
+[^c23757831]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Relevant amendments were made by the [Local Government and Housing Act 1989](https://www.legislation.gov.uk/ukpga/1989/42), section 139 and Schedule 5, and by the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), section 30 and [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237).
+
+[^key-7408cadef9d554f935e282e833f0651e]: Textual amendment: Art. 7(7) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/426/regulation/6)
+
+[^c23757841]: Marginal citation: “Modernising Local Government in Buckinghamshire” Business Case September 2016. The document is available at https://www.buckscc.gov.uk/media/1314/mlg-in-bucks\_final\_low-res.pdf or in hard copy from the Secretary of State on request.
+
+[^c23757851]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). The Secretary of State for Education issued a Direction to Buckinghamshire County Council on 5th March 2018 with a further Direction being issued on 12th July 2018. The Directions were issued under section 497A(4B) of the Education Act 1996 in relation to concerns surrounding the provision of children's social care functions within Buckinghamshire. Copies of the Directions are available at https://www.gov.uk/government/publications/direction-issued-to-buckinghamshire-county-council--2 or in hard copy from the Secretary of State on request.
+
+[^c23757861]: Marginal citation: The Report following an inspection by the Commissioner for Children's Services appointed by the Secretary of State for Education by direction dated 5th March 2018. The report is available at https://www.gov.uk/government/publications/buckinghamshire-county-council-report-on-childrens-social-care or in hard copy from the Secretary of State on request.
+
+[^c23757871]: Marginal citation: [2014 c.2](https://www.legislation.gov.uk/ukpga/2014/2).
+
+[^c23757881]: Marginal citation: [2003 c.26](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^c23757891]: Marginal citation: [S.I. 2001/3384](https://www.legislation.gov.uk/uksi/2001/3384)
+
+[^c23757901]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^c23757911]: Marginal citation: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^c23757921]: Marginal citation: Section 13 was amended by Schedule 3 of the [Localism Act 2011](https://www.legislation.gov.uk/ukpga/2011/20) so that it applies to Wales only from 4th May 2012. The Local Authorities (Functions and Responsibilities) (England) Regulations ([S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853)) made under section 13 continue to apply to England.
+
+[^key-40bfc7ff6f5fe77286a3e58817b54f75]: Textual amendment: Words in art. 18(1)(a) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/a)
+
+[^key-895e61e04bf255d87bc3ebfdc8624a6d]: Textual amendment: Art. 18(3)-(6) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/b)
+
+[^key-2ef7d7ceff12da0a8342b92c62449b02]: Textual amendment: Word in art. 18(7) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/c)
+
+[^key-d3c7e98958a2472a591cdc4d1bb23563]: Textual amendment: Word in art. 18(8)(a) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/c)
+
+[^key-22bb63e8edc48aa71c3bfe391cde2101]: Textual amendment: Word in art. 19(b) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/426/regulation/8)
+
+[^c23757941]: Marginal citation: Under section 16(3) of the [Local Government Act 1972](https://www.legislation.gov.uk/ukpga/1972/70), the term of office of parish councillors is four years and elections of councillors for parish councils within Buckinghamshire were due to be held on the ordinary day of election in 2019. The Districts of Aylesbury Vale, Chiltern, South Bucks and Wycombe (Changes to Years of Elections) Order 2018 [S.I. 2018/1355](https://www.legislation.gov.uk/uksi/2018/1355) changed the year of elections of the district and parish councils within Buckinghamshire from 2019 to 2020.

@@ -1,0 +1,210 @@
+---
+title: The Wireless Telegraphy (Mobile Spectrum Trading) Regulations 2011
+id: uksi/2011/1507
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-06-16'
+text_date: '2025-11-24'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1507
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1507/pdfs/uksi_20111507_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1507/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Wireless Telegraphy (Mobile Spectrum Trading) Regulations 2011
+
+> Text as at 2025-11-24.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 1507
+
+Electronic Communications
+
+The Wireless Telegraphy (Mobile Spectrum Trading) Regulations 2011
+
+Made
+
+16th June 2011
+
+Coming into force
+
+4th July 2011
+
+The Office of Communications (“OFCOM”), in exercise of the powers conferred by section 30(1) and (3) and section 122(7) of the Wireless Telegraphy Act 2006 [^c20900171] (“**the Act**”), make the following Regulations.
+
+Before making the Regulations, OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
+
+## 1. Citation, commencement and extent
+
+These Regulations may be cited as the Wireless Telegraphy (Mobile Spectrum Trading) Regulations 2011 and shall come into force on 4th July 2011.
+
+## 2.
+
+These Regulations shall not extend to the Bailiwick of Guernsey.
+
+## 3. Interpretation
+
+In these Regulations “**concurrent holders**” means persons who concurrently hold the rights and obligations under a wireless telegraphy licence by virtue of a transfer authorised by these Regulations which has that effect.
+
+## 4. Transfer of all of the rights and obligations arising by virtue of a wireless telegraphy licence
+
+(1) Subject to regulation 6, a transfer by the holder of a wireless telegraphy licence to which this paragraph applies of all of the rights and obligations arising by virtue of that wireless telegraphy licence is authorised if it satisfies one of the two conditions set out in paragraph (2).
+
+(2) Those conditions are —
+
+- (a) that the rights and obligations of the person making the transfer become rights and obligations of the transferee to the exclusion of the person making the transfer;
+- (b) that the transferred rights and obligations become rights and obligations of the transferee while continuing, concurrently, to be rights and obligations of the person making the transfer.
+
+(3) Paragraph (1) shall apply to wireless telegraphy licences which are within one of the licence classes listed in Column 1 of the Schedule and which authorise the operation of a wireless telegraphy station or wireless telegraphy apparatus on frequencies in any of the frequency bands listed in Column 2 of the Schedule.[^key-e20433a31fa97c40bc71df05db57bf2d]
+
+## 5. Partial transfer of rights and obligations arising by virtue of a wireless telegraphy licence
+
+Subject to regulation 6, transfers satisfying one of the two conditions set out in regulation 4(2) are also authorised where the transfer is of —
+
+- (a) all of the rights arising by virtue of a wireless telegraphy licence which relate to—
+  - (i) a part of the range of frequencies under a wireless telegraphy licence which is within one of the licence classes listed in Column 1 of the Schedule and which authorises the operation of a wireless telegraphy station or wireless telegraphy apparatus on frequencies in any of the frequency bands listed in Column 2 of the Schedule;[^key-96d90c86a611285c125f70a9b368eee5]
+  - (ii) a geographical area being part of the total geographical area in which the holder is authorised to establish, install and use radio transmitting and receiving stations or apparatus under a wireless telegraphy licence which is within one of the licence classes listed in Column 1 of the Schedule and which authorises the operation of a wireless telegraphy station or wireless telegraphy apparatus on frequencies in any of the frequency bands listed in Column 2 of the Schedule; or[^key-4f28ee641eba3a85fa686f6b506c0805]
+  - (iii) both of the situations set out in sub-paragraphs (i) and (ii); and
+- (b) the corresponding part of each of the obligations under the licence.
+
+## 6. Circumstances in which a transfer is not authorised
+
+A transfer of rights and obligations arising under a wireless telegraphy licence is not authorised where —
+
+- (a) any of the licence holder, or all of the concurrent holders, and the transferee have not consented to the transfer;
+- (b)[^key-9fe65c4323342f4e1a08776add538d2e] any sum payable in respect of that licence under—
+  - (i) the Wireless Telegraphy (Licence Charges for the 900 MHz Frequency Band and the 1800 MHz Frequency Band) Regulations 2025; or
+  - (ii) the Wireless Telegraphy (Licence Charges for the 2100 MHz Frequency Band) Regulations 2025;
+
+  is owing to OFCOM because it has not been paid by the time it became due;
+- (c)[^key-b49b3a35fd233a92b4f4b3466844d366] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) OFCOM has served notice under paragraph 7(1) of Schedule 1 of the Wireless Telegraphy Act 2006 on the holder, or the concurrent holders, of that licence of a proposal to revoke or vary that licence but that revocation or variation has not yet been made;
+- (e) the holder has, or all of the concurrent holders have, requested OFCOM to revoke or vary the licence or have consented to a revocation or variation proposed by OFCOM but that revocation or variation has not yet been made; or
+- (f) OFCOM have not given their consent, under regulation 7(3)(a), to the transfer being made.
+
+## 7. Transfer procedure
+
+(1) The holder, or concurrent holders, of a wireless telegraphy licence who wishes, or who wish, to make a transfer authorised by regulations 4(1) or 5 must provide to OFCOM —
+
+- (a) the reference number of the wireless telegraphy licence under which rights and obligations are to be transferred;
+- (b) the name and address of the holder or concurrent holders of the wireless telegraphy licence;
+- (c) the name and address of the proposed transferee;
+- (d) a description of which type of transfer authorised by regulation 4(1) or regulation 5 is proposed;
+- (e) a document signed by or on behalf of the holder, or each concurrent holder, of the licence and signed by or on behalf of the transferee, under which each of those persons warrants to OFCOM that he has consented to the proposed transfer;
+- (f) all information necessary for OFCOM to determine whether or not they shall consent to the transfer; and
+- (g) in the case of a transfer authorised by regulation 5, a description of which rights and obligations under the licence are to be transferred.
+
+(2) OFCOM shall, after determining that the requirements of paragraph (1) have been met, publish a notice stating —
+
+- (a) the name of the wireless telegraphy licence holder or concurrent holders and the name of the transferee to whom it is proposed that the rights and obligations arising under the licence shall be transferred;
+- (b) the date when OFCOM determined that the requirements of paragraph (1) were met;
+- (c) the licence class and the reference number of the wireless telegraphy licence under which rights and obligations are to be transferred; and
+- (d) in the case of a transfer authorised by regulation 5, a description of which rights under the licence are proposed to be transferred.
+
+(3) After publishing a notice under paragraph (2) OFCOM shall decide —
+
+- (a) if they consent to the transfer in accordance with regulation 8; and
+- (b) if they shall give any directions under regulation 9.
+
+(4) OFCOM shall notify the parties to the proposed transfer of their decisions under paragraph (3).
+
+(5) A transfer shall be effected by the holder or concurrent holders of the wireless telegraphy licence under which rights and obligations are to be transferred surrendering that licence and by OFCOM granting a new one to the transferee and —
+
+- (a) in the case of a transfer which satisfies the condition set out in regulation 4(2)(b), the holder or concurrent holders who made the transfer; and
+- (b) in the case of a transfer authorised by regulation 5, to the holder or concurrent holders who made the transfer.
+
+(6) OFCOM shall publish the information specified in paragraph (2) in relation to transfers that have been effected pursuant to paragraph (5).
+
+## 8. Consent by OFCOM
+
+In determining whether or not to consent to a proposed transfer OFCOM shall take into account whether —
+
+- (a) the holder is, or the concurrent holders are, in breach of the terms of the wireless telegraphy licence under which the rights and obligations are to be transferred;
+- (b) the transferee is able to meet the terms, provisions and limitations of the wireless telegraphy licence which is to be granted as a result of the transfer;
+- (c) in the case of a transfer authorised by regulation 5 the transferor is able to meet the terms, provisions and limitations of the wireless telegraphy licence which is to be granted as a result of the transfer;
+- (d) the transferee is able to meet any criteria relating to the persons to whom a wireless telegraphy licence of the class under which rights and obligations are to be transferred may be granted;
+- (e) competition is likely to be distorted as a result of the transfer; and
+- (f) it is requisite or expedient to refuse consent to the transfer —
+  - (i) in the interests of national security;
+  - (ii) for the purposes of complying with a Community obligation of the United Kingdom or with any international agreement or arrangements to which the United Kingdom is party; or
+  - (iii) for the purposes of complying with a direction by the Secretary of State given to OFCOM under section 5 of the Communications Act 2003 [^c20900191] or section 5 of the Wireless Telegraphy Act 2006.
+
+## 9. Directions by OFCOM
+
+(1) If OFCOM consent to a transfer they may also direct that a transfer shall only be put into effect in accordance with regulation 7(5) after compliance with conditions which may relate to any matter mentioned in any of the paragraphs of regulation 8.
+
+(2) A transfer may not be put into effect in accordance with regulation 7(5) until after compliance with the conditions set out in any such direction.
+
+Ed Richards
+
+Chief Executive of the Office of Communications
+
+For and by authority of the Office of Communications
+
+## SCHEDULE — Licence Classes and Frequency Bands[^key-53501b9cb7df869c3666d10edf60db56]
+
+Regulations 4 and 5
+
+| **Column 1** | **Column 2** |
+| --- | --- |
+| ***Licence Classes*** | ***Frequency bands*** |
+| Public Wireless Network | 703–733 MHz |
+| Spectrum Access | 738–788 MHz |
+|  | 791–821 MHz |
+|  | 832–862 MHz |
+|  | 880–915 MHz |
+|  | 925–960 MHz |
+|  | 1452–1492 MHz |
+|  | 1710–1781.7 MHz |
+|  | 1805–1876.7 MHz |
+|  | 1899.9–1980 MHz |
+|  | 2110–2170 MHz |
+|  | 2350–2390 MHz |
+|  | 2500–2690 MHz |
+|  | 3410–3800 MHz |
+| Spectrum Access High Density[^key-8cdde8a38716cf026e2ab1d9b425a979] | 25100–27500 MHz[^key-e0b0d657c3d225fc16ebe6762bf6a95b]<br>40500–43500 MHz |
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made under section 30(1) and (3) and section 122(7) of the Wireless Telegraphy Act 2006. Section 30 implements Article 9b(1) of the Council Directive [2002/21/EC](https://www.legislation.gov.uk/european/directive/2002/0021) (OJ No L 108, 24.4.2002, p33), as amended by Council Directive [2009/140/EC](https://www.legislation.gov.uk/european/directive/2009/0140) (OJ No L 337, 18.12.2009, p37).
+
+Regulation 4(1) (subject to the exceptions in regulation 6) authorises the transfer of all rights and obligations arising by virtue of a wireless telegraphy licence within the Public Wireless Network licence class which authorises the operation of a wireless telegraphy station or wireless telegraphy apparatus on any of the frequency bands specified in the Schedule.
+
+Under regulation 5 (subject to the exceptions in regulation 6) certain transfers of rights and obligations relating to parts of the licensed range of frequencies are authorised. The transfer of the rights and obligations relating to a part of the licensed geographical area is also authorised.
+
+Two types of transfer are authorised by regulation 4(1) and 5. Firstly, a transfer may be one in which the rights and obligations of the person making the transfer become rights and obligations of the transferee to the exclusion of the person making the transfer. Secondly, a transfer may be one in which the transferred rights and obligations become rights and obligations of the transferee while continuing, concurrently, to be rights and obligations of the person making the transfer.
+
+Regulation 6 specifies circumstances in which transfers are not authorised which include where OFCOM has not given its consent. Regulation 8 sets out the matters which OFCOM shall take into account in determining whether or not to consent. If OFCOM consents to a transfer they may also direct that a transfer shall only be put into effect after compliance with conditions. Regulation 7 sets out the procedure for making transfers.
+
+A full impact assessment of the effect that this instrument will have on the costs to business and the voluntary sector is available to the public from OFCOM at Riverside House, 2a Southwark Bridge Road, London SE1 9HA (Tel: 020 7981 3000) or on the OFCOM internet website at www.ofcom.org.uk. Copies of the report have also been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^c20900171]: Marginal citation: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36).
+
+[^key-e20433a31fa97c40bc71df05db57bf2d]: Textual amendment: Words in reg. 4(3) substituted (5.4.2013) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2013 (S.I. 2013/646)](https://www.legislation.gov.uk/uksi/2013/646), [regs. 1](https://www.legislation.gov.uk/uksi/2013/646/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/646/regulation/2/2)
+
+[^key-96d90c86a611285c125f70a9b368eee5]: Textual amendment: Words in reg. 5(a)(i) substituted (5.4.2013) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2013 (S.I. 2013/646)](https://www.legislation.gov.uk/uksi/2013/646), [regs. 1](https://www.legislation.gov.uk/uksi/2013/646/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/646/regulation/2/3/a)
+
+[^key-4f28ee641eba3a85fa686f6b506c0805]: Textual amendment: Words in reg. 5(a)(ii) substituted (5.4.2013) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2013 (S.I. 2013/646)](https://www.legislation.gov.uk/uksi/2013/646), [regs. 1](https://www.legislation.gov.uk/uksi/2013/646/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/646/regulation/2/3/b)
+
+[^key-9fe65c4323342f4e1a08776add538d2e]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2011/1507/regulation/6/b) substituted (24.11.2025) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1149)](https://www.legislation.gov.uk/uksi/2025/1149), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/2/a)
+
+[^key-b49b3a35fd233a92b4f4b3466844d366]: Textual amendment: [Reg. 6(c)](https://www.legislation.gov.uk/uksi/2011/1507/regulation/6/c) omitted (24.11.2025) by virtue of [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1149)](https://www.legislation.gov.uk/uksi/2025/1149), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/2/b)
+
+[^c20900191]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-53501b9cb7df869c3666d10edf60db56]: Textual amendment: Sch. substituted (10.6.2019) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2019 (S.I. 2019/951)](https://www.legislation.gov.uk/uksi/2019/951), [regs. 1](https://www.legislation.gov.uk/uksi/2019/951/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/951/regulation/4)
+
+[^key-8cdde8a38716cf026e2ab1d9b425a979]: Textual amendment: Words in Sch. inserted (7.7.2025) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2025 (S.I. 2025/700)](https://www.legislation.gov.uk/uksi/2025/700), [regs. 1](https://www.legislation.gov.uk/uksi/2025/700/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/700/regulation/2/2)
+
+[^key-e0b0d657c3d225fc16ebe6762bf6a95b]: Textual amendment: Words in Sch. inserted (7.7.2025) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2025 (S.I. 2025/700)](https://www.legislation.gov.uk/uksi/2025/700), [regs. 1](https://www.legislation.gov.uk/uksi/2025/700/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/700/regulation/2/3)

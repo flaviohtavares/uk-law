@@ -1,0 +1,54 @@
+---
+title: Corporation Tax Act 2009, section 251
+act: Corporation Tax Act 2009
+section: '251'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/251
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 251
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 251. Deduction for expenditure on energy-saving items
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) a company carries on a property business in relation to land which consists of or includes a dwelling-house,
+- (b) the company incurs expenditure in acquiring and installing an energy-saving item in the dwelling-house or in a building containing the dwelling-house (see subsections (5) to (7)),
+- (c) the expenditure is incurred before 1 April 2015,
+- (d) a deduction for the expenditure is not prohibited by the wholly and exclusively rule but would otherwise be prohibited by the capital prohibition rule (see subsection (8)), and
+- (e) no allowance under CAA 2001 may be claimed in respect of the expenditure.
+
+(2) In calculating the profits of the business, a deduction for the expenditure is allowed.
+
+(3) But any deduction is subject to—
+
+- (a) section 252 (restrictions on relief), and
+- (b) any provision made by regulations under section 253.
+
+(4) If, on a just and reasonable apportionment of any expenditure, part of the expenditure would qualify for the relief (but the remainder would not), a deduction is allowed for that part.
+
+(5) “**Energy-saving item**” means an item of an energy-saving nature of such description as is for the time being specified in regulations made by the Treasury.
+
+(6) The Treasury may by regulations provide for an item to be an energy-saving item only if it satisfies such conditions as may be—
+
+- (a) specified in, or
+- (b) determined in accordance with,
+
+the regulations.
+
+(7) The conditions may include conditions imposed by reference to information or documents issued by any body, person or organisation.
+
+(8) In this section—
+
+- “**the capital prohibition rule**” means the rule in section 53 (capital expenditure), as applied by section 210, and
+- “**the wholly and exclusively rule**” means the rule in section 54 (expenses not wholly and exclusively for trade and unconnected losses), as applied by section 210.

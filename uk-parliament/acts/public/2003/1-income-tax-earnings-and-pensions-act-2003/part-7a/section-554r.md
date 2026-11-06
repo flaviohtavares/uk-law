@@ -1,0 +1,61 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 554R
+act: Income Tax (Earnings and Pensions) Act 2003
+section: 554R
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/554R
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 554R
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 554R. Exclusions: acquisitions out of sums or assets[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) a sum of money or asset (“sum or asset S”) is held by or on behalf of a person (“P”),
+- (b) a sum of money or asset (“sum or asset T”) is acquired by or on behalf of P wholly out of sum or asset S,
+- (c) sum or asset T is not acquired (directly or indirectly) from A or any person linked with A, and
+- (d) subsection (2) does not apply.
+
+(2) This subsection applies if it is reasonable to suppose that, in essence—
+
+- (a) at the time of the acquisition of sum or asset T, the value of sum or asset T is greater or less than the value of sum or asset S, and
+- (b) the difference (or any part of the difference) in the values might not have been expected applying the assumption that all relevant connected persons are acting at arm's length of each other.
+
+(3) In subsection (2)—
+
+- (a) the reference to sum or asset S is to sum or asset S so far as sum or asset T is acquired out of it, and
+- (b) “**relevant connected person**” means a person with a connection (direct or indirect) to the arrangement under which sum or asset T is acquired.
+
+(4) The cases covered by subsection (1)(b) include (in particular) cases in which sum or asset T represents the proceeds of the disposal of sum or asset S.
+
+(5) Subsection (6) applies if, on its acquisition, sum or asset T is the subject of a relevant step within section 554B taken by P.
+
+(6) Chapter 2 does not apply by reason of the relevant step if—
+
+- (a) before the acquisition, sum or asset S was the subject of a relevant step within section 554B taken by P,
+- (b) Chapter 2 applied by reason of the relevant step mentioned in paragraph (a) in respect of A's employment with B or would have applied apart from this section or section 554Q or 554T, and
+- (c) immediately before the acquisition, sum or asset S is still earmarked or otherwise held on the basis mentioned in section 554B(1)(a) or (b).
+
+(7) Subsection (8) applies if—
+
+- (a) on its acquisition, sum or asset T—
+  - (i) is the subject of a relevant step within section 554B taken by P by reason of which Chapter 2 applies or would apply apart from subsection (6) above or any of sections 554H to 554M, 554Q or 554T, or
+  - (ii) if sub-paragraph (i) does not apply, is held by or on behalf of P on the same basis as that on which sum or asset S was held by or on behalf of P immediately before the acquisition, and
+- (b) for the sole purpose of the acquisition, sum or asset S or sum or asset T is the subject of a relevant step within section 554C(1)(a) to (c).
+
+(8) Chapter 2 does not apply by reason of the relevant step mentioned in subsection (7)(b).
+
+## Annotations
+
+[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)

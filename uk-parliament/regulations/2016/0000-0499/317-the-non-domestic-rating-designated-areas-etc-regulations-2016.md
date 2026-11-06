@@ -1,0 +1,404 @@
+---
+title: The Non-Domestic Rating (Designated Areas etc.) Regulations 2016
+id: uksi/2016/317
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-09'
+text_date: '2017-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/317
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/317/pdfs/uksiem_20160317_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/317/pdfs/uksi_20160317_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/317/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating (Designated Areas etc.) Regulations 2016
+
+> Text as at 2017-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 317
+
+Rating And Valuation, England
+
+The Non-Domestic Rating (Designated Areas etc.) Regulations 2016
+
+Made
+
+9th March 2016
+
+Laid before Parliament
+
+10th March 2016
+
+Coming into force
+
+1st April 2016
+
+The Secretary of State for Communities and Local Government makes these Regulations in exercise of the powers conferred by section 143(1) and paragraphs 8 and 39 of Schedule 7B to the Local Government Finance Act 1988[^f00001].
+
+These Regulations are made with the consent of the Treasury in accordance with paragraphs 8(3) and 39(13) of that Schedule.
+
+## 1. Citation and commencement[^key-d0ebc12852dde860b9dc94a630a33a56]
+
+(1) These Regulations may be cited as the Non-Domestic Rating (Designated Areas etc.) Regulations 2016.
+
+(2) These Regulations come into force on 1st April 2016.
+
+## 2. Application[^key-99d927c45b0344bcafbc670ed8ead46f]
+
+These Regulations apply in relation to England only.
+
+## 3. Interpretation[^key-ae3ae54ab1fad1683f5e534a99600743]
+
+In these Regulations—
+
+- “the 1988 Act” means the Local Government Finance Act 1988;
+- “baseline amount”, in relation to a billing authority, means the amount calculated under Part 3 of Schedule 2 in respect of a designated area for a specified year;
+- “billing authority” means a billing authority in England all or part of whose area falls within a designated area;
+- “Birmingham City Centre Curzon Extension Designated Area” means the area designated in Schedule[^key-4566050b1c6b2d456646ffa92a8a3ecc] 1 by reference to the areas bounded externally by the outer edge of the blue line shown on maps 87 to 102;
+- “designated area” means an area designated under regulation 4(1);
+- “local list” means a local non-domestic rating list[^f00002];
+- “non-domestic rating income”, in relation to a billing authority, means the amount calculated under Part 2 of Schedule 2 in respect of a designated area for a specified year;
+- “period of designation” means—[^key-e46a70b9484604a7f118648ffb680c21]
+  - (a) for the Birmingham City Centre Curzon Extension Designated Area, the period of 30 years specified in regulation 4(3);
+  - (b) for any other designated area, the period of 25 years specified in regulation 4(2);
+
+- “preceding year” means the chargeable financial year[^f00003] immediately preceding the specified year for which a calculation under Part 3 of Schedule 2 is made;
+- “revaluation year” means a year in which a local list must be compiled under section 41 of the 1988 Act;
+- “Schedule 7B” means Schedule 7B to the 1988 Act;
+- “small business non-domestic rating multiplier”, in relation to a chargeable financial year, means the small business non-domestic rating multiplier for that year determined under Part 1 of Schedule 7 to the 1988 Act[^f00004]; and
+- “specified year” means a chargeable financial year falling within the period of designation.
+
+## 4. Designation of areas[^key-c73ac8a6ac9bb4d5076a6efc1f701fcf]
+
+(1) The areas listed in Schedule 1 are designated for the purposes of these Regulations.
+
+(2) The designation of those areas takes effect on 1st April 2016 and subject to paragraph (3)[^key-7c42eaf8a007e062fedb1f633147eacb] has effect for the period of 25 years beginning on that date [^key-7f292958f8fb5d329f501d9e82904831]....
+
+(3)[^key-196cf409a50049cecdca404935784723] The designation of the Birmingham City Centre Curzon Extension Designated Area has effect for the period of 30 years which comprises—
+
+- (a) the period of 25 years specified in paragraph (2); and
+- (b) a further period of 5 years beginning immediately after the end of the period specified in paragraph (2).
+
+## 5. Proportion of non-domestic rating income for a designated area to be disregarded[^key-6107bd16404b9815a2f97b42bdf6ff8c]
+
+(1) Part 1 of Schedule 2 provides rules for calculating the proportion of a billing authority’s non-domestic rating income in respect of a designated area for a specified year.
+
+(2) The proportion is to be disregarded for the purpose of calculations under—
+
+- (a) any of the following provisions of Schedule 7B—
+  - (i) paragraph 6 (payments in respect of the central share);
+  - (ii) paragraph 13 (calculations following local government finance report);
+  - (iii) paragraph 16 (calculations following amending report);
+  - (iv) paragraph 23 (calculations of levy payments)[^f00005];
+  - (v) paragraph 26 (calculations of safety net payments)[^f00006];
+  - (vi) paragraph 30 (calculations relating to distribution of remaining balance)[^f00007]; or
+- (b) regulations made under any of the following provisions of Schedule 7B—
+  - (i) paragraph 7 (administrative arrangements for payments in respect of the central share);
+  - (ii) paragraph 9 (payments by billing authorities to major precepting authorities);
+  - (iii) paragraph 10 (administrative arrangements for payments by billing authorities to major precepting authorities);
+  - (iv) paragraph 28 (calculations of payments on account).
+
+## 6. Amendment of Non-Domestic Rating (Rates Retention) Regulations 2013[^key-06a925a4e159d14991218a89afb974ba]
+
+(1) The Non-Domestic Rating (Rates Retention) Regulations 2013[^f00008] are amended as follows.
+
+(2) In paragraph 1(1) of Schedule 2 (qualifying relief for deduction from central share), in the definition of “red area” for “maps numbered 1 to 86” substitute “maps numbered 1 to 29, 31 to 46 and 48 to 178”.
+
+We consent
+
+David Evennett
+
+George Hollingbery
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+7th March 2016
+
+Marcus Jones
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+9th March 2016
+
+## SCHEDULE 1 — Local retention of non-domestic rates: designation of areas
+
+Regulation 4
+
+**1.**[^key-0a17de48ed01003ec62af0346378b043] Each of the areas listed in column 2 of the table in this Schedule is designated by reference to the area or areas bounded externally by the outer edge of the blue line shown on the map specified in column 1 of the table.
+
+**2.**[^key-cf9010389b03294cf3d991ae30599817] A reference in this Schedule to a map is to one of the maps numbered 1 to 113 and entitled “Maps referred to in Schedule 1 to the Non-Domestic Rating (Designated Areas etc.) Regulations 2016”, of which prints, signed by a member of the Senior Civil Service in the Department for Communities and Local Government, are deposited and available for inspection at the offices of the Secretary of State for Communities and Local Government and, in relation to each map, at the offices of the billing authority to which the map relates.
+
+**3.**[^key-57f10a07fb371486d103b255c86ef8d9] For the purposes of determining a designated area, where part only of a hereditament is situated within an area shown on a map, the whole of the hereditament is taken to be included within that designated area.
+
+| Numbered map<br>(Column 1) | Designated area<br>(Column 2) | Billing authority<br>(Column 3) | Value of J (£)<br>(see paragraph 3(2) of Schedule 2)<br>(Column 4) |
+| --- | --- | --- | --- |
+| 1 | Luton Airport | Luton Borough Council | 4,741,488 |
+| 2 | MIRA | Hinkley and Bosworth District Council | 0 |
+| 3 | Tees Valley Growth Extension: Central Park | Darlington Borough Council | 30,538 |
+| 4 | Tees Valley Growth Extension: Middlesborough historic Quarter | Middlesbrough Borough Council | 3,275,726 |
+| 5 | Tees Valley Growth Extension: Northshore | Stockton-on-Tees Borough Council | 117,821 |
+| 6 | Wirral Waters Enterprise Site | Wirral Metropolitan Borough Council | 848,833 |
+| 7 | Greater Manchester Life Sciences: MSP Central Campus | Manchester City Council | 658,978 |
+| 8 | Greater Manchester Life Sciences: CMFT Site | Manchester City Council | 4,928,358 |
+| 9 | Ceramic Valley: Chatterley Valley West | Newcastle-under-Lyme Borough Council | 0 |
+| 10 | Ceramic Valley: Chatterley Valley East | Stoke-on-Trent City Council | 335,099 |
+| 11 | Ceramic Valley: Tunstall Arrow | Stoke-on-Trent City Council | 0 |
+| 12 | Ceramic Valley: Highgate/Ravensdale | Stoke-on-Trent City Council | 41,905 |
+| 13 | Ceramic Valley: Etruria Valley | Stoke-on-Trent City Council | 20,090 |
+| 14 | Ceramic Valley: Cliffe Vale | Stoke-on-Trent City Council | 30,603 |
+| 15 | New Anglia: Sproughton Road | Mid Suffolk District Council | 0 |
+| 16 | New Anglia: Futura Park | Ipswich Borough Council | 0 |
+| 17 | New Anglia: Mill Lane | Mid Suffolk District Council | 0 |
+| 18 | New Anglia: Nar Ouse | Borough Council of Kings Lynn & West Norfolk | 0 |
+| 19 | New Anglia: Norwich Research Park | South Norfolk District Council | 193,777 |
+| 20 | New Anglia: Princes Street | Ipswich Borough Council | 184,678 |
+| 21 | New Anglia: Scottow Enterprise Park | North Norfolk District Council | 0 |
+| 22 | New Anglia: Suffolk Business Park | St Edmundsbury Borough Council | 0 |
+| 23 | New Anglia: Waterfront Island | Ipswich Borough Council | 0 |
+| 24 | New Anglia: Egmere Business Zone | North Norfolk District Council | 0 |
+| 25 | Carlisle Kingmoor Park | Carlisle City Council | 1,524,084 |
+| 26 | Humber Enterprise Zone: Bird’s Eye | Hull City Council | 0 |
+| 27 | Humber Enterprise Zone: Priory Park | Hull City Council | 0 |
+| 28 | Humber Enterprise Zone: Former Cavaghan and Gray | Hull City Council | 0 |
+| 29 | Humber Enterprise Zone: Benchmark Pods | Hull City Council | 17,255 |
+| 30 | Humber Enterprise Zone: Energy Works | Hull City Council | 0 |
+| 31 | Humber Enterprise Zone: Rix Stoneferry | Hull City Council | 9,860 |
+| 32 | Humber Enterprise Zone: Foster Street | Hull City Council | 22,580 |
+| 33 | Humber Enterprise Zone: Ashcourt | Hull City Council | 4,930 |
+| 34 | Humber Enterprise Zone: Former Two Wheel Centre | Hull City Council | 7,641 |
+| 35 | Humber Enterprise Zone: St Mark Street | Hull City Council | 3,105 |
+| 36 | Humber Enterprise Zone: Former LA Site | Hull City Council | 18,610 |
+| 37 | Humber Enterprise Zone: Sammy’s Point | Hull City Council | 0 |
+| 38 | Humber Enterprise Zone: Albert Dock | Hull City Council | 4,930 |
+| 39 | Humber Enterprise Zone: John Street Car Park | Hull City Council | 8,257 |
+| 40 | Humber Enterprise Zone: Pepi’s | Hull City Council | 0 |
+| 41 | Humber Enterprise Zone: Osborne Street | Hull City Council | 0 |
+| 42 | Humber Enterprise Zone: Albion Street | Hull City Council | 20,826 |
+| 43 | Humber Enterprise Zone: Former Bonus Site | Hull City Council | 3,053 |
+| 44 | Humber Enterprise Zone: Somerden Road | Hull City Council | 49,300 |
+| 45 | Humber Enterprise Zone: Queen Elizabeth Dock | Hull City Council | 0 |
+| 46 | Humber Enterprise Zone: Stallingborough Interchange | North East Lincolnshire | 0 |
+| 47 | Humber Enterprise Zone: Great Coates Business Park | North East Lincolnshire | 0 |
+| 48 | Humber Enterprise Zone: King’s Road | North East Lincolnshire | 0 |
+| 49 | Humber Enterprise Zone: Queen’s Road | North East Lincolnshire | 0 |
+| 50 | Humber Enterprise Zone: Abengoa | North East Lincolnshire | 0 |
+| 51 | Humber Enterprise Zone: Huntsman Tioxide | North East Lincolnshire | 0 |
+| 52 | Humber Enterprise Zone: Capital Park Goole | East Riding of Yorkshire | 0 |
+| 53 | Humber Enterprise Zone: Goole 36 | East Riding of Yorkshire | 0 |
+| 54 | Humber Enterprise Zone: Goole Intermodal Terminal | East Riding of Yorkshire | 0 |
+| 55 | Humber Enterprise Zone: Melton Park | East Riding of Yorkshire | 0 |
+| 56 | Humber Enterprise Zone: Melton West | East Riding of Yorkshire | 0 |
+| 57 | Humber Enterprise Zone: Humberside Airport | North Lincolnshire Council | 17,406 |
+| 58 | Lancashire - Hillhouse Chemicals and Energy | Wyre Borough Council | 2,505,740 |
+| 59 | Cheshire & Warrington Science Corridor: Birchwood Sites | Warrington | 1,164,329 |
+| 60 | Cheshire & Warrington Science Corridor: South Road | Cheshire West and Chester Council | 145,435 |
+| 61 | Cheshire & Warrington Science Corridor: Alderley Park | Cheshire East | 2,447,304 |
+| 62 | Cheshire & Warrington Science Corridor: Cloister Way (Andrews) | Cheshire West and Chester Council | 0 |
+| 63 | Cheshire & Warrington Science Corridor: Cloister Way (CWAC) | Cheshire West and Chester Council | 0 |
+| 64 | Cheshire & Warrington Science Corridor: (Dutton Green) | Cheshire West and Chester Council | 0 |
+| 65 | Cheshire & Warrington Science Corridor: Former DSM Land | Cheshire West and Chester Council | 0 |
+| 66 | Cheshire & Warrington Science Corridor: New Port Business Park | Cheshire West and Chester Council | 0 |
+| 67 | Cheshire & Warrington Science Corridor: Stanney Mill Lane | Cheshire West and Chester Council | 0 |
+| 68 | Cheshire & Warrington Science Corridor: Thornton Science Park | Cheshire West and Chester Council | 24,183 |
+| 69 | Cheshire & Warrington Science Corridor: Hooton Park | Cheshire West and Chester Council | 0 |
+| 70 | Cheshire & Warrington Science Corridor: Ince Park | Cheshire West and Chester Council | 0 |
+| 71 | Buckinghamshire Thames Valley: Silverstone | Aylesbury Vale District Council | 0 |
+| 72 | Buckinghamshire Thames Valley: Aria/Woodlands | Aylesbury Vale District Council | 0 |
+| 73 | Buckinghamshire Thames Valley: Westcott | Aylesbury Vale District Council | 25,370 |
+| 74 | Cambridge Compass: Haverhill Research Park | St Edmundsbury Borough Council | 0 |
+| 75 | Cambridge Compass: Lancaster Way | East Cambridgeshire District Council | 189,805 |
+| 76 | Cambridge Compass: Cambourne Business Park | South Cambridgeshire District Council | 0 |
+| 77 | Cambridge Compass: Cambridge Research Park | South Cambridgeshire District Council | 0 |
+| 78 | Cambridge Compass: Northstowe | South Cambridgeshire District Council | 0 |
+| 79 | Oxford Didcot Growth Accelerator: Diageo Site | Vale of White Horse District Council | 540,610 |
+| 80 | Oxford Didcot Growth Accelerator: Didcot A (South Oxfordshire) | South Oxfordshire District Council | 0 |
+| 81 | Oxford Didcot Growth Accelerator: Didcot A (Vale of White Horse) | Vale of White Horse District Council | 0 |
+| 82 | Oxford Didcot Growth Accelerator: Didcot Park | Vale of White Horse District Council | 0 |
+| 83 | Oxford Didcot Growth Accelerator: Milton Interchange | Vale of White Horse District Council | 0 |
+| 84 | Oxford Didcot Growth Accelerator: Southmead 1 | South Oxfordshire District Council | 44,863 |
+| 85 | Oxford Didcot Growth Accelerator: Southmead 2 | South Oxfordshire District Council | 0 |
+| 86 | Oxford Didcot Growth Accelerator: Southmead 3 | South Oxfordshire District Council | 140,618 |
+| 87 – 102 | Birmingham City Centre Curzon Extension | Birmingham City Council | 6,525,287 |
+| 103 – 106 | Greater Manchester Airport City | Manchester City Council | 804,068 |
+| 107 | Cornwall Aerohub+ - Goonhilly Earth Station | Cornwall Council | 70,145 |
+| 108 | Milton Park Extension - Site A | Vale of White Horse District Council | 1,152 |
+| 109 | Milton Park Extension - Site B | Vale of White Horse District Council | 46,254 |
+| 110 | Milton Park Extension - Site C | Vale of White Horse District Council | 368,037 |
+| 111 | Milton Park Extension - Site D | Vale of White Horse District Council | 49,793 |
+| 112 | Milton Park Extension - Site E | Vale of White Horse District Council | 147,900 |
+| 113 | Milton Park Extension - Site F | Vale of White Horse District Council | 44,617 |
+
+## SCHEDULE 2 — Calculations for designated areas
+
+Regulation 5
+
+### PART 1 — Proportion of non-domestic rating income to be disregarded
+
+**1.**[^key-15282ebecdbd8e79d2b2d474d3fd1110] (1) Unless sub-paragraph (2) applies, the proportion of a billing authority’s non-domestic rating income in respect of a designated area for a specified year is the difference between the authority’s—
+
+- (a) non-domestic rating income in respect of the designated area for that year; and
+- (b) baseline amount in respect of the designated area for that year.
+
+(2) If the baseline amount is greater than or equal to the non-domestic rating income, the proportion is zero.
+
+### PART 2 — Calculation of non-domestic rating income
+
+**2.**[^key-ce3bbe482e31e8939599f3b614a2adcd] (1) A billing authority’s non-domestic rating income in respect of a designated area for a specified year is the amount calculated in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/317)
+
+where—
+
+- A is the total of the amounts credited to the authority’s collection fund income and expenditure account in that year in accordance with proper practices[^f00009] in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of hereditaments situated in the designated area;
+- B is the total of the amounts charged to the authority’s collection fund income and expenditure account in that year in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of hereditaments situated in the designated area;
+- C is the amount of any transitional protection payments under paragraph 33(1) of Schedule 7B made to the authority in that year in respect of hereditaments situated in the designated area;
+- D is the amount of any transitional protection payments under paragraph 33(1) of Schedule 7B made by the authority in that year in respect of hereditaments situated in the designated area;
+- E is the total of the amounts credited to the authority’s collection fund income and expenditure account in that year in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of hereditaments situated in the designated area to which sub-paragraph (2) applies;
+- F is the total of the amounts charged to the authority’s collection fund income and expenditure account in that year in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of hereditaments situated in the designated area to which sub-paragraph (2) applies;
+- G is the amount of transitional protection payments under paragraph 33(1) of Schedule 7B made by the authority in that year in respect of hereditaments situated in the designated area to which sub-paragraph (2) applies;
+- H is the amount of transitional protection payments under paragraph 33(1) of Schedule 7B made to the authority in that year in respect of hereditaments situated in the designated area to which sub-paragraph (2) applies.
+
+(2) This sub-paragraph applies to a hereditament which—
+
+- (a) is to be treated as one hereditament by virtue of regulations under section 64(3)(b) of the 1988 Act; and
+- (b) would have constituted three or more separate hereditaments had regulations under section 64(3)(b) not been made.
+
+(3) In this paragraph, references to an authority’s collection fund income and expenditure account is a reference to a revenue account to which, in accordance with proper practices, are credited or charged amounts in respect of the authority’s income or expenditure relating to sums paid or to be paid into or payments met or to be met from the authority’s collection fund.
+
+### PART 3 — Calculation of the baseline amount
+
+#### 3. For a specified year that is not a revaluation year[^key-21dce6082590dd68e2dd3660bac81d5b]
+
+(1) If a specified year is not a revaluation year, a billing authority’s baseline amount in respect of a designated area for the specified year is the amount calculated under sub-paragraph (2) or (3).
+
+(2) For the specified year beginning on 1st April 2016, the baseline amount is calculated in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/317)
+
+where—
+
+- J is the amount provided in column 4 of the table in Schedule 1 in relation to the designated area;
+- K<sub>2</sub> is the small business non-domestic rating multiplier for the specified year; and
+- K<sub>1</sub> is the small business non-domestic rating multiplier for the preceding year.
+
+(3) For a subsequent specified year which is not a revaluation year, the baseline amount is calculated in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/317)
+
+where—
+
+- L is the amount calculated under sub-paragraph (2), this sub-paragraph or paragraph 4(1) for the preceding year;
+- M<sub>2</sub> is the small business non-domestic rating multiplier for the specified year; and
+- M<sub>1</sub> is the small business non-domestic rating multiplier for the preceding year.
+
+#### 4. For a specified year that is a revaluation year[^key-0108432826b871dfe0c707558d5abf76]
+
+(1) If a specified year is a revaluation year, a billing authority’s baseline amount in respect of a designated area for the specified year is the amount calculated in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2016/317)
+
+where—
+
+- N is the amount calculated in accordance with paragraph 3(2) or 3(3) for the preceding year;
+- P is the aggregate rateable values shown in the billing authority’s local list for 1st April in the specified year for the hereditaments, other than those hereditaments to which paragraph 2(2) applies, falling within the designated area;
+- Q is the aggregate rateable values shown in the billing authority’s local list for 31st March in the preceding year for the hereditaments, other than those hereditaments to which paragraph 2(2) applies, falling within the designated area;
+- R<sub>2</sub> is the small business non-domestic rating multiplier for the specified year;
+- R<sub>1</sub> is the small business non-domestic rating multiplier for the preceding year.
+
+(2) For the purposes of this paragraph, the rateable value of a hereditament shown in the billing authority’s local list for 31st March in the preceding year is taken to be the rateable value that would have been shown in that list for that day had the circumstances relating to that hereditament been as they were on 1st April in the specified year.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations designate areas in England (“designated areas”) for the purpose of paragraph 39(1)(a) of Schedule 7B to the Local Government Finance Act 1988 (“the 1988 Act”) (local retention of non-domestic rates). They provide rules for calculating in respect of a billing authority in England all or part of whose area falls within a designated area—
+
+- (a) the billing authority’s non-domestic rating income in respect of the designated area for a specified year; and
+- (b) the proportion of that non-domestic rating income that is to be disregarded for the purpose of specified calculations under Schedule 7B to the 1988 Act.
+
+The calculations are to be made separately for each designated area within which a billing authority’s area falls.
+
+Regulation 4(1) and Schedule 1 designate the areas. The designation of the areas is made by reference to maps which are available for inspection at the offices of the Secretary of State for Communities and Local Government or the office of the billing authority.
+
+Regulation 4(2) provides that the designation of the areas takes effect on 1st April 2016 and has effect for a period of 25 years beginning on that date (designation period). The effect of specifying the designation period is to trigger paragraph 39(9) of Schedule 7B to the 1988 Act which prevents the revocation of the Regulations and certain kinds of amendments to the Regulations until after the end of that period.
+
+Regulation 5 and Schedule 2 provide the rules for the calculations.
+
+- Part 1 of Schedule 2 provides rules for calculating the proportion of non-domestic rating income in respect of a designated area for a specified year that is to be disregarded for specified calculations under Schedule 7B to the 1988 Act. The proportion is calculated by subtracting the baseline amount in respect of the designated area for the specified year (calculated under Part 3 of Schedule 2) from the non-domestic rating income in respect of that area for that year (calculated under Part 2 of Schedule 2).
+- Non-domestic rating income in respect of a designated area for a specified year is essentially the amounts payable to a billing authority under sections 43 and 45 of the 1988 Act for that year in respect of hereditaments situated in the designated area, subject to a number of adjustments.
+- The baseline amount in respect of a designated area for the specified year beginning on 1st April 2016 is the amount specified in column 4 of the table in Schedule 1 (this amount represents the existing non-domestic rating income for the designated area) as uprated in accordance with the formula in paragraph 3(2) of Schedule 2. For each subsequent specified year, the baseline amount is an uprated amount representing growth in the billing authority’s income in the designated area.
+
+Regulation 6 amends the Non-Domestic Rating (Rates Retention) Regulations 2013 ([S.I. 2013/452](https://www.legislation.gov.uk/uksi/2013/452)) in respect of the areas for which billing authorities are compensated for business rates relief they give to ratepayers. The amendment adds the new areas designated under regulation 4 of these Regulations and makes changes to two areas in respect of which billing authorities have previously been compensated.
+
+No separate impact assessment has been prepared for these Regulations, but the impact assessment prepared for the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17) is relevant:
+
+https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/8470/2054063.pdf
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Schedule 7B was inserted into the Local Government Finance Act 1988 by section 1 of, and Schedule 1 to, the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17).
+
+[^key-d0ebc12852dde860b9dc94a630a33a56]: Commencement: Reg. 1 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^key-99d927c45b0344bcafbc670ed8ead46f]: Commencement: Reg. 2 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^key-ae3ae54ab1fad1683f5e534a99600743]: Commencement: Reg. 3 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^key-4566050b1c6b2d456646ffa92a8a3ecc]: Textual amendment: Words in reg. 3 inserted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2017/318/regulation/8/2/a)
+
+[^f00002]: Footnote: See section 41(1) of the 1988 Act for the meaning of “local non-domestic rating list”.
+
+[^key-e46a70b9484604a7f118648ffb680c21]: Textual amendment: Words in reg. 3 substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2017/318/regulation/8/2/b)
+
+[^f00003]: Footnote: See section 145(1) of the 1988 Act for the meaning of “chargeable financial year”.
+
+[^f00004]: Footnote: Relevant amendments were made to Schedule 7 by section 62 of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^key-c73ac8a6ac9bb4d5076a6efc1f701fcf]: Commencement: Reg. 4 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^key-7c42eaf8a007e062fedb1f633147eacb]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/4/2) inserted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2017/318/regulation/8/3/a)
+
+[^key-7f292958f8fb5d329f501d9e82904831]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/4/2) omitted (1.4.2017) by virtue of [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2017/318/regulation/8/3/b)
+
+[^key-196cf409a50049cecdca404935784723]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/317/regulation/4/3) inserted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2017/318/regulation/8/4)
+
+[^key-6107bd16404b9815a2f97b42bdf6ff8c]: Commencement: Reg. 5 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^f00005]: Footnote: The calculation under paragraph 23 must be made in accordance with regulations under paragraph 22.
+
+[^f00006]: Footnote: The calculation under paragraph 26 must be made in accordance with regulations under paragraph 25.
+
+[^f00007]: Footnote: The calculation under paragraph 30 must be made in accordance with the basis of distribution specified in the regulations under that paragraph.
+
+[^key-06a925a4e159d14991218a89afb974ba]: Commencement: Reg. 6 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^f00008]: Footnote: [S.I. 2013/452](https://www.legislation.gov.uk/uksi/2013/452). Amended by [S.I. 2014/96](https://www.legislation.gov.uk/uksi/2014/96) and [2015/628](https://www.legislation.gov.uk/uksi/2015/628).
+
+[^key-0a17de48ed01003ec62af0346378b043]: Commencement: Sch. 1 para. 1 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^key-cf9010389b03294cf3d991ae30599817]: Commencement: Sch. 1 para. 2 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^key-57f10a07fb371486d103b255c86ef8d9]: Commencement: Sch. 1 para. 3 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^key-15282ebecdbd8e79d2b2d474d3fd1110]: Commencement: Sch. 2 para. 1 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^key-ce3bbe482e31e8939599f3b614a2adcd]: Commencement: Sch. 2 para. 2 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^f00009]: Footnote: The meaning of proper practices is given in section 21 of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26), which applies to these Regulations by virtue of subsection (4)(e) of that section.
+
+[^key-21dce6082590dd68e2dd3660bac81d5b]: Commencement: Sch. 2 para. 3 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)
+
+[^key-0108432826b871dfe0c707558d5abf76]: Commencement: Sch. 2 para. 4 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2)

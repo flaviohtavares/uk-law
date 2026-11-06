@@ -1,0 +1,53 @@
+---
+title: Postal Services Act 2011, section 48
+act: Postal Services Act 2011
+section: '48'
+status: revised
+text_date: '2025-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2011/5/section/48
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Postal Services Act 2011, section 48
+
+> Text as at 2025-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 48. Notification by postal operators[^key-e85c3629f21c76a1a0be20b0d51cd7e0]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may make regulations requiring persons to notify OFCOM before they carry on business as postal operators.
+
+(2) The Secretary of State must consult OFCOM before making the regulations.
+
+(3) The regulations may make provision corresponding, with such modifications as appear to the Secretary of State to be appropriate, to any of the provisions of sections 33 to 37 of the Communications Act 2003 (requirements to notify before carrying on a regulated activity).
+
+(4) The maximum penalty which may be imposed by the regulations for failure to comply with any of its provisions must not exceed the maximum penalty for the time being specified in section 37(6) of that Act.
+
+(5) OFCOM must establish and maintain a register which records every notification given to them under the regulations.
+
+(6) Information recorded in the register must be recorded in such manner as OFCOM consider appropriate.
+
+(7) OFCOM must publish a notice setting out—
+
+- (a) the times at which the register is for the time being available for public inspection, and
+- (b) the fees that must be paid for, or in connection with, an inspection of the register.
+
+(8) The notice must be published in such manner as OFCOM consider appropriate for bringing it to the attention of the persons who, in their opinion, are likely to be affected by it.
+
+(9) OFCOM must make the register available for public inspection—
+
+- (a) during such hours, and
+- (b) on payment of such fees,
+
+as are set out in the notice for the time being in force under subsection (7).
+
+(10) Regulations under this section are subject to negative resolution procedure.
+
+## Annotations
+
+[^key-e85c3629f21c76a1a0be20b0d51cd7e0]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2011/5/section/48) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

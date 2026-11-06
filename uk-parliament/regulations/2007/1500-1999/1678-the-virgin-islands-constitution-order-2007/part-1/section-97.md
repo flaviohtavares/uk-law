@@ -1,0 +1,27 @@
+---
+title: The Virgin Islands Constitution Order 2007, section 97
+act: The Virgin Islands Constitution Order 2007
+section: '97'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1678/section/97
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Virgin Islands Constitution Order 2007, section 97
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 97. Power to appoint, etc, to offices in the Police Force
+
+(1) Power to make appointments to offices in the Police Force and to remove and to exercise disciplinary control over persons holding or acting in such offices shall vest in the Governor, acting in accordance with the advice of the Police Service Commission; but the Governor, acting in his or her discretion, may act otherwise than in accordance with that advice if he or she determines that compliance with that advice would prejudice Her Majesty’s service.
+
+(2) Where the Police Service Commission advises that any person should be appointed to an office in the Police Force of a rank superior to Chief Inspector, that advice shall require the approval of the National Security Council before being submitted to the Governor; but the Governor, acting in his or her discretion, may act without the approval of the National Security Council if he or she determines that to do otherwise would prejudice Her Majesty’s service.
+
+(3) Before exercising the powers vested in the Governor by subsection (1), the Governor may, acting in his or her discretion, once refer the advice of the Police Service Commission back to the Commission for reconsideration by it.
+
+(4) If the Police Service Commission, having reconsidered its original advice under subsection (3), substitutes for it different advice, subsection (3) shall apply to that different advice as it applies to the original advice.
+
+(5) The Governor, acting after consultation with the Police Service Commission, may, by regulations published in the *Gazette*, delegate to any member of the Commission or any public officer or class of public officer, to such extent and subject to such conditions as may be prescribed in the regulations, any of the powers vested in the Governor to make appointments to offices in the Police Force and to remove or exercise disciplinary control over persons holding or acting in such offices; and except in so far as regulations made under this subsection otherwise provide, any power delegated by such regulations may be exercised by any person to whom it is delegated without reference to the Police Service Commission.

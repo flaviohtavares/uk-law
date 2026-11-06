@@ -1,0 +1,388 @@
+---
+title: The Amendments to Law (Resolution of Dunfermline Building Society) Order 2009
+id: uksi/2009/814
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-03-30'
+text_date: '2013-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/814
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/814/pdfs/uksiem_20090814_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/814/pdfs/uksi_20090814_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/814/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Amendments to Law (Resolution of Dunfermline Building Society) Order 2009
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+This instrument is being reprinted following approval by both Houses of Parliament but also includes a number of minor corrections to the original Order laid before Parliament on 30th March 2009 and is therefore being issued free of charge to all recipients of the original instrument.
+
+2009 No. 814
+
+Building Societies
+
+The Amendments to Law (Resolution of Dunfermline Building Society) Order 2009
+
+Approved by both Houses of Parliament
+
+Made
+
+9.45 a.m. on 30th March 2009
+
+Laid before Parliament
+
+30th March 2009
+
+Coming into force
+
+8.00 a.m. on 30th March 2009
+
+This Order is made in the exercise of the powers conferred by sections 75 (as applied by section 84) and 259(1) of the Banking Act 2009.[^f00001]
+
+This Order is made for the purpose of enabling the powers of Part 1 of that Act to be used effectively, in connection with the transfer of part of the business of Dunfermline Building Society to Nationwide and part of its business to the Dunfermline Bridge Bank.[^f00002]
+
+In accordance with section 75(1) of that Act, the Treasury have had regard to the special resolution objectives.[^f00003]
+
+In accordance with section 75(3) of the Act, the Treasury consider it necessary and desirable to make this Order with retrospective effect for giving effect to the transfer of part of the business of Dunfermline Building Society to Nationwide and part of its business to the Dunfermline Bridge Bank, and in so doing the Treasury have had regard to the fact that it is in the public interest to avoid retrospective legislation.
+
+In accordance with section 75(8) of that Act, the Treasury think it necessary to make this Order without a draft of it having been approved by a resolution of each House of Parliament.
+
+Accordingly, the Treasury make the following Order:
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-d08cd6be238f89c64a54462d926e0fe7]
+
+(1) This order may be cited as the Amendments to Law (Resolution of Dunfermline Building Society) Order 2009.
+
+(2) This order comes into force on 30th March 2009 at 8 a.m.[^f00004]
+
+### 2. Interpretation[^key-3af2b907342756b1d94ef79d8874f767]
+
+In this Order—
+
+- “the 2006 Act” means the Companies Act 2006;[^f00005]
+- “the 1985 Act” means the Companies Act 1985;[^f00006]
+- “the Building Societies Act” means the Building Societies Act 1986;[^f00007]
+- “FSMA” means the Financial Services and Markets Act 2000;[^f00008]
+- “the Dunfermline Bridge Bank” means PT Shelfco (Scot) Limited, company registered number SC356970, while its only member is the Bank of England;
+- “Dunfermline Building Society” means Dunfermline Building Society, a building society incorporated (or deemed to be incorporated) under the Building Societies Act and authorised and regulated by the FSA (Reg no: 158765);
+- “Dunfermline Nominees” means Dunfermline BS Nominees Limited, company registered number SC113202;
+- “Nationwide” has the meaning given in paragraph 2 of the Property Transfer Instrument;
+- “the Nationwide transfer” means the transfer made by paragraph 2 of the Property Transfer Instrument;
+- “the Property Transfer Instrument” means the Dunfermline Building Society Property Transfer Instrument 2009, made by the Bank of England;
+- “subsidiary” has the meaning given in section 1159 of the 2006 Act;
+- “the transfer time” has the meaning given in paragraph 2 of the Property Transfer Instrument.
+
+## PART 2 — THE TRANSFER
+
+### 3. Transfer of shares of Dunfermline Nominees[^key-91af8c5e03d863481f011ab4776a3dc0]
+
+(1) This article applies in connection with the transfer, by paragraph 3(1) of the Property Transfer Instrument, of shares owned by Dunfermline Building Society which were issued by Dunfermline Nominees, and references in this article to “the transfer” are to be construed accordingly.
+
+(2) Nationwide enjoys the entitlement mentioned in paragraph 3(4) of the Property Transfer Instrument whether or not it is entered in the company register of members of Dunfermline Nominees, notwithstanding any provision of the 2006 Act, the 1985 Act, any other enactment or any rule of law.
+
+(3) Section 776 of the 2006 Act (duty of company as to issue of certificates etc on transfer) has effect in relation to the transfer with the modifications specified in paragraph (4).
+
+(4) The transfer is to be treated as—
+
+- (a) a transfer under subsection (2)(a), and
+- (b) lodged with Dunfermline Nominees at the transfer time.
+
+(5) The following provisions of the 2006 Act are disapplied in relation to the transfer—
+
+- (a) section 776(3) and (4) (qualifications as to duty to issue certificates);
+- (b) section 777 (issue of certificates etc: cases within the Stock Transfer Act 1982);
+- (c) section 778 (issue of certificates etc: allotment or transfer to a financial institution).
+
+### 4. Employees[^key-1588f8f9b03f5f88fa36d0004e61e900]
+
+(1) The Transfer of Undertakings (Protection of Employment) Regulations 2006[^f00009] (“the Transfer Regulations”) and sections 257 and 258 of the Pensions Act 2004[^f00010] apply on the Nationwide transfer as if any individual who is employed by Dunfermline Building Society is assigned to the organised grouping of resources or employees that is subject to the relevant transfer.
+
+(2) Paragraph (1) applies whether or not the Nationwide transfer would otherwise be regarded for the purposes of the Transfer Regulations as giving rise to a relevant transfer.
+
+(3) In this article—
+
+- (a) “organised grouping of resources or employees” is to be construed in accordance with the Transfer Regulations;
+- (b) “relevant transfer” is to be construed in accordance with Regulation 2 of the Transfer Regulations.
+
+### 5. Pensions[^key-245630561225ad381d50a48013d2f3b9]
+
+(1) No relevant person is to be treated as a person connected with, or an associate of, Dunfermline Building Society for the purposes of the following provisions of the Pensions Act 2004[^f00011]—
+
+- (a) section 38 (contribution notices where avoidance of employer debt);[^f00012]
+- (b) section 43 (financial support directions).
+
+(2) Relevant persons are—
+
+- (a) the Bank of England;
+- (b) persons employed by or under, or acting on the behalf of, the Bank of England.
+
+(3) From the transfer time Dunfermline Nominees is to have no liability, including any liability arising by virtue of sections 38 and 43 of the Pensions Act 2004, with regard to the liabilities of the pension scheme by reason of any fact, matter or circumstance occurring or existing prior to the transfer time and accordingly no proceedings may be brought in respect of such matters.
+
+(4) In paragraph (3), “pension scheme” has the meaning given in paragraph 2 of the Property Transfer Instrument.
+
+## PART 3 — THE DUNFERMLINE BRIDGE BANK
+
+### 6. Proceedings against directors[^key-5a1d641ec34bd8bf20f5826dcd6aa29d]
+
+(1) This article applies in respect of “relevant acts or omissions”, which are the acts or omissions of one or more directors (in their capacity as such) of—
+
+- (a) the Dunfermline Bridge Bank, or
+- (b) any subsidiary of the Dunfermline Bridge Bank.
+
+(2) No directors are liable for their relevant acts or omissions or those of other directors.
+
+(3) No proceedings may (at any time) be brought against directors in respect of their relevant acts or omissions or those of other directors.
+
+(4) Paragraphs (2) and (3) do not apply—
+
+- (a) in relation to proceedings brought by the Financial Conduct Authority or the Prudential Regulation Authority[^key-6f88a651952379830169d842cb6d9e73];
+- (b) to relevant acts or omissions shown to have been fraudulent, dishonest or in bad faith.
+
+(5) In this article—
+
+- (a) “director” includes an alternate director;
+- (b) “proceedings” includes proceedings under Part 11 of the 2006 Act (derivative claims and proceedings by members);
+- (c) references to the bringing of proceedings are, in the application of this article to Scotland, references to the raising of proceedings.
+
+(6) For the purposes of paragraphs (2) and (3) it does not matter that a person later ceases to be a director.
+
+### 7. Shadow directorship, &c.[^key-a9dd78ad29f4e4d0743da670dbb858c4]
+
+(1) A relevant person is not to be treated as—
+
+- (a) a shadow director of the Dunfermline Bridge Bank for the purposes of the provisions listed in the Schedule;
+- (b) a person discharging managerial responsibilities in respect of the Dunfermline Bridge Bank for the purposes of the provisions listed in the Schedule (unless that person has been appointed as a director).
+
+(2) Nor is a relevant person to be treated as a director of the Dunfermline Bridge Bank by virtue of paragraph (b) of the definition of director in section 417(1) of FSMA (certain persons in accordance with whose directions or instructions the directors of the body corporate are accustomed to act).
+
+(3) Relevant persons are—
+
+- (a) the Bank of England;
+- (b) a Minister of the Crown;
+- (c) the Treasury;
+- (d) UK Financial Investments Limited (company registered number 06720891);
+- (e) persons—
+  - (i) employed by or under, or
+  - (ii) acting on the behalf of,
+
+  any of the persons in paragraph (3)(a) to (d).
+
+(4) This article applies in relation to any subsidiary of the Dunfermline Bridge Bank as it applies in relation to the Dunfermline Bridge Bank
+
+### 8. Freedom of information[^key-51309853a2244c508e29dd5013840fdc]
+
+(1) The Dunfermline Bridge Bank is not to be treated as—
+
+- (a) a publicly owned company for the purposes of section 3(1)(b) of the Freedom of Information Act 2000;[^f00013]
+- (b) holding information on behalf of the Bank of England or the Treasury for the purposes of section 3(2)(b) of that Act.
+
+(2) Paragraph (1) applies to any subsidiary of the Dunfermline Bridge Bank as it applies to the Dunfermline Bridge Bank.
+
+## PART 4 — MISCELLANEOUS
+
+### 9. Modification of the regulators’ rule making powers[^key-d38f76640dc1035beca73fbbf29e0295][^key-58a8d624b3e6553c88a18b30384f2b1b]
+
+(1)[^key-fda2be385a9fad90a8e34cba6ca95398] Section 137A(1) of FSMA (the FCA’s general rules) has effect as if at the end there were inserted “or for the purposes of, to facilitate or in consequence of the Dunfermline Building Society Property Transfer Instrument 2009”.
+
+(1A) Section 137G(1) of FSMA (the PRA’s general rules) has effect as if at the end there were inserted “or for the purposes of, to facilitate or in consequence of the Dunfermline Building Society Property Transfer Instrument 2009”.
+
+(2) Section 138A(1)[^key-b68ec5ff7d1aed53dd1a50cbbf5e1be8] of FSMA (modification or waiver of rules) is modified so it applies in relation to a relevant person—
+
+- (a) in the absence of an application by the relevant person, and
+- (b) without any requirement for consent by the relevant person.
+
+(3) Section 138A(4)[^key-c9687ece7978ab9ec3348f5f1ac4670b] of FSMA is to have effect such that it does not prevent the FCA[^key-14b939e9215642315ff644fc55f585bd] or the PRA from modifying or waiving rules in relation to a relevant person under section 138A[^key-816097af3e833adc155e3a44d4f27310] where the following condition is satisfied.
+
+(4) The condition is that that regulator[^key-84b4771f54aa3e55b31f35f77ea8b020] is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the Property Transfer Instrument.
+
+(5) In this article, relevant persons are Dunfermline Building Society and the Dunfermline Bridge Bank.
+
+### 10. Modification to the regulators’ duties to consult on rule changes[^key-217f62fcede0fc8872d31258c8c7b1b1][^key-c1109db8b55518cc7383c7add488d88d]
+
+(1) Subsections (1) and (2) of section 138L[^key-14d694f73920675cbce90c0a4193f337] of FSMA (consultation) has effect as if modified by adding at the end—
+
+> or if it is making rules for the purposes of, to facilitate or in consequence of the Dunfermline Building Society Property Transfer Instrument 2009.
+
+(2) Section 139A of[^key-8e9401cb9a6ca7d67e6cdc650e1bb2ae] FSMA (power of the FCA to give guidance) has effect as if modified by adding after subsection (3)—
+
+> (3A) Section 138L(1)[^key-2012513e22d526775abd5bbcad77b1a2] applies to proposed guidance with the modification made by article 10(1) of the Amendments to Law (Resolution of Dunfermline Building Society) Order 2009.
+
+### 11. Liabilities to Treasury: treatment in insolvency proceedings[^key-9a36e2a2f5b5a7378bd2f107e5132d54]
+
+(1) This article makes provision in relation to the treatment in insolvency proceedings of the first and second liabilities assumed by Dunfermline by virtue of paragraph 11 of the Property Transfer Instrument.
+
+(2) In insolvency proceedings—
+
+- (a) the first liability ranks pari passu with the claims of unsecured and unsubordinated creditors of Dunfermline;
+- (b) the second liability ranks pari passu with the claims that shareholding members of Dunfermline would have had in respect of the value of their shares but for their transfer.
+
+(3) The reference in paragraph (2)(b) to shareholding members does not include the holders of deferred shares within the meaning of section 119(1) of the Building Societies Act.
+
+(4) In this article—
+
+- (a) the reference to insolvency proceedings is a reference to—
+  - (i) liquidation;
+  - (ii) administration;
+  - (iii) building society special administration (within the meaning of Part 3 of the Banking Act 2009 as applied by section 90C of the Building Societies Act);
+- (b) “shareholding member” and the reference to the value of shares are to be construed in accordance with section 119 of the Building Societies Act.
+
+Alistair Darling
+
+Bob Blizzard
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+30th March 2009
+
+## SCHEDULE
+
+Article 7
+
+**1.**[^key-0640457b9d76ea6539e9a49735cde658] Section 288 of the 1985 Act (register of directors).
+
+**2.**[^key-52d19ea32b01a8d30a709ef477325ef1] The following provisions of the 2006 Act—
+
+- (a) section 84 (criminal consequences of failure to make required disclosure);
+- (b) section 162 (register of directors);
+- (c) section 165 (register of directors’ residential addresses);
+- (d) section 167 (duty to notify registrar of changes);
+- (e) sections 170 to 177 (general duties of directors);
+- (f) sections 182 to 186 (declaration of interest in existing transactions) as applied to shadow directors by section 187;
+- (g) sections 188 and 189 (directors’ service contracts);
+- (h) sections 190 to 196 (substantial property transactions);
+- (i) sections 197 to 214 (loans etc to directors);
+- (j) sections 215 to 222 (payments for loss of office) as applied to shadow directors by section 223(2);
+- (k) sections 227 to 230 (directors’ service contracts);
+- (l) section 231 (contracts with sole members who are directors);
+- (m) sections 260 to 269 (derivative claims in England and Wales and Northern Ireland);
+- (n) sections 854 to 859 (annual return);
+- (o) section 1255 (offences by bodies corporate, partnerships and unincorporated associations).
+
+**3.**[^key-bdd8b406523479aea8a5cada948cc35b] The following provisions of the Insolvency Act 1986[^f00017]—
+
+- (a) section 214 (wrongful trading);
+- (b) section 249 (“connected” with a company).
+
+**4.**[^key-3ef639c13cf84b2ba66c13955ef39089] The following provisions of FSMA—
+
+- (a) section 96A (disclosure of information requirements);[^f00018]
+- (b) section 96B (disclosure rules: persons responsible for compliance).[^f00019]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made for the purpose of enabling Part 1 of the Banking Act 2009 to be used effectively in connection with the transfer of Dunfermline Building Society to Nationwide and the Dunfermline Bridge Bank.
+
+Article 3 makes provision in the relation of the transfer of shares by the Dunfermline Building Society Property Transfer Instrument 2009.
+
+Article 4 makes provision in relation to the transfer of employees.
+
+Article 5 disapplies certain provisions of the Pensions Act 2004 in relation to the Bank of England and a subsidiary of Dunfermline Building Society in connection with the transfer.
+
+Articles 6 to 8 make provision in relation to the Dunfermline Bridge Bank, in relation to proceedings against directors during the existence of the Dunfermline Bridge Bank, disapplying certain provisions relating to shadow directorship in relation to the Dunfermline Bridge Bank, and providing that the Dunfermline Bridge Bank is not amongst other things a public authority for the purposes of the Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36).
+
+Articles 9 and 10 modify the FSA’s rule making powers in relation to the Dunfermline Building Society.
+
+Article 11 provides for the treatment of liabilities arising for the purposes of, in connection with and in consequence of the transfer in insolvency proceedings.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^f00002]: Footnote: Effected by the Dunfermline Building Society Property Transfer Instrument 2009. The Instrument is published on the Bank of England’s internet website: www.bankofengland.co.uk.
+
+[^f00003]: Footnote: Provided in section 4 of the Banking Act 2009.
+
+[^key-d08cd6be238f89c64a54462d926e0fe7]: Commencement: Art. 1 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^f00004]: Footnote: Being the time at which the Dunfermline Building Society Property Transfer Instrument 2009 comes into force.
+
+[^key-3af2b907342756b1d94ef79d8874f767]: Commencement: Art. 2 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^f00005]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00006]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
+
+[^f00007]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^f00008]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-91af8c5e03d863481f011ab4776a3dc0]: Commencement: Art. 3 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^key-1588f8f9b03f5f88fa36d0004e61e900]: Commencement: Art. 4 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^f00009]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246).
+
+[^f00010]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^key-245630561225ad381d50a48013d2f3b9]: Commencement: Art. 5 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^f00011]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^f00012]: Footnote: As amended by the Pensions Act [2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), section 126; section 148; Schedule 9, paragraphs 1, 2(1), 6, 7(1), 7(2), 7(3)(a), 7(3)(b), 7(4), 8(1) and 15(1); and Schedule 11, Part 6.
+
+[^key-5a1d641ec34bd8bf20f5826dcd6aa29d]: Commencement: Art. 6 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^key-6f88a651952379830169d842cb6d9e73]: Textual amendment: Word in art. 6(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/a)
+
+[^key-a9dd78ad29f4e4d0743da670dbb858c4]: Commencement: Art. 7 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^key-51309853a2244c508e29dd5013840fdc]: Commencement: Art. 8 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^f00013]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^key-d38f76640dc1035beca73fbbf29e0295]: Commencement: Art. 9 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^key-58a8d624b3e6553c88a18b30384f2b1b]: Textual amendment: Words in art. 9 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(b)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/b/v)
+
+[^key-fda2be385a9fad90a8e34cba6ca95398]: Textual amendment: Art. 9(1)(1A) substituted for art. 9(1) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/b/i)
+
+[^key-b68ec5ff7d1aed53dd1a50cbbf5e1be8]: Textual amendment: Words in art. 9(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/b/ii)
+
+[^key-c9687ece7978ab9ec3348f5f1ac4670b]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2009/814/article/9/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/b/iii/aa)
+
+[^key-14b939e9215642315ff644fc55f585bd]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2009/814/article/9/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/b/iii/bb)
+
+[^key-816097af3e833adc155e3a44d4f27310]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2009/814/article/9/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/b/iii/cc)
+
+[^key-84b4771f54aa3e55b31f35f77ea8b020]: Textual amendment: Words in art. 9(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(b)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/b/iv)
+
+[^key-217f62fcede0fc8872d31258c8c7b1b1]: Commencement: Art. 10 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^key-c1109db8b55518cc7383c7add488d88d]: Textual amendment: Words in [art. 10](https://www.legislation.gov.uk/uksi/2009/814/article/10) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(c)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/c/iii)
+
+[^key-14d694f73920675cbce90c0a4193f337]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2009/814/article/10/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/c/i)
+
+[^key-8e9401cb9a6ca7d67e6cdc650e1bb2ae]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2009/814/article/10/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(c)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/c/aa), [(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/c/ii)
+
+[^key-2012513e22d526775abd5bbcad77b1a2]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2009/814/article/10/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 167(c)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/c/bb), [(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/167/c/ii)
+
+[^key-9a36e2a2f5b5a7378bd2f107e5132d54]: Commencement: Art. 11 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^key-0640457b9d76ea6539e9a49735cde658]: Commencement: Sch. para. 1 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^key-52d19ea32b01a8d30a709ef477325ef1]: Commencement: Sch. para. 2 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^key-bdd8b406523479aea8a5cada948cc35b]: Commencement: Sch. para. 3 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^f00017]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^key-3ef639c13cf84b2ba66c13955ef39089]: Commencement: Sch. para. 4 in force at 30.3.2009 at 8.00 a.m., see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2)
+
+[^f00018]: Footnote: Inserted by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381).
+
+[^f00019]: Footnote: Inserted by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381) and amended by the 2006 Act, Schedule 15, paragraphs 1 and 7(b).

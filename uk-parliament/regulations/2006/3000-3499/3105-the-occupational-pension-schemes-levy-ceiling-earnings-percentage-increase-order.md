@@ -1,0 +1,65 @@
+---
+title: The Occupational Pension Schemes (Levy Ceiling - Earnings Percentage Increase) Order 2006
+id: uksi/2006/3105
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: repealed
+made_date: '2006-11-21'
+text_date: '2012-04-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/3105
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/3105/pdfs/uksiem_20063105_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/3105/pdfs/uksi_20063105_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/3105/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Levy Ceiling - Earnings Percentage Increase) Order 2006
+
+> This law has been repealed or revoked.
+
+2006 No. 3105
+
+Pensions
+
+The Occupational Pension Schemes (Levy Ceiling - Earnings Percentage Increase) Order 2006
+
+Made
+
+21st November 2006
+
+Laid before Parliament
+
+27th November 2006
+
+Coming into force
+
+18th December 2006
+
+[^key-262007780e3591516d029b493edb9a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 1. Citation and commencement[^key-262007780e3591516d029b493edb9a68][^key-262007780e3591516d029b493edb9a68]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. The earnings percentage[^key-262007780e3591516d029b493edb9a68][^key-262007780e3591516d029b493edb9a68]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-262007780e3591516d029b493edb9a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-262007780e3591516d029b493edb9a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-262007780e3591516d029b493edb9a68]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2006/3105) revoked (1.4.2012) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012 (S.I. 2012/528)](https://www.legislation.gov.uk/uksi/2012/528), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/528/article/1/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2012/528/schedule)

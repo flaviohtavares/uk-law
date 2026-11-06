@@ -1,0 +1,60 @@
+---
+title: Corporation Tax Act 2009, section 40A
+act: Corporation Tax Act 2009
+section: 40A
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/40A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 40A
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 40A. Payments to company directors[^key-43a8085e3d36184b39c39ce5ac3055c3]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where—
+
+- (a) a company (“the paying company”) makes a payment to, or for the benefit of, a director of the paying company in respect of the director’s employment as a director of the paying company,
+- (b) the payment would otherwise be employment income of the director chargeable to tax under Part 2 of ITEPA 2003,
+- (c) the director was or is a member of a firm, or was appointed by a company (“the appointing company”) other than the paying company, and
+- (d) condition A or B is met.
+
+(2) The payment is to be treated for corporation tax purposes as a receipt of—
+
+- (a) a trade carried on by the firm, or
+- (b) a trade carried on by the appointing company.
+
+(3) Condition A applies where the director is a member of a firm, and is that—
+
+- (a) the director carries on a profession,
+- (b) being a director of a company is a normal incident of that profession and of membership of the firm,
+- (c) the director is required by the terms of the partnership agreement to account to the firm for the payment, and
+- (d) the amount of the payment is insubstantial, compared with the total amount brought into account as receipts when calculating the firm’s profits.
+
+(4) Condition B applies where the director is appointed by a company, and is that—
+
+- (a) the profits of the appointing company are within the charge to corporation tax,
+- (b) by virtue of an agreement with the appointing company, the director is required to account for the payment to that company, and
+- (c) either subsection (5) or subsection (6) applies to the appointing company.
+
+(5) This subsection applies if the appointing company had the right to appoint the director by virtue of its shareholding in, or an agreement with, the paying company.
+
+(6) This subsection applies if the appointing company is not one over which—
+
+- (a) the director has control, or
+- (b) any person connected with the director has control, or
+- (c) the director and any persons connected with him together have control.
+
+(7) For the purposes of subsection (6) the following persons are connected with the director: the spouse, civil partner, parent, child, son-in-law or daughter-in-law of the director.
+
+## Annotations
+
+[^key-43a8085e3d36184b39c39ce5ac3055c3]: Textual amendment: Ss. 40A, 40B inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/282/article/6/2)

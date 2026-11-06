@@ -1,0 +1,84 @@
+---
+title: Planning Act 2008, section 218
+act: Planning Act 2008
+section: '218'
+status: revised-with-pending-changes
+text_date: '2026-07-24'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2008/29/section/218
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning Act 2008, section 218
+
+> **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 218. Enforcement
+
+*Extent: E+W*
+
+(1) CIL regulations must include provision about enforcement of CIL.
+
+(2) The regulations must make provision about the consequences of late payment and failure to pay.
+
+(3) The regulations may make provision about the consequences of failure to assume liability, to give a notice or to comply with another procedure under CIL regulations in connection with CIL.
+
+(4) The regulations may, in particular, include provision—
+
+- (a) for the payment of interest;
+- (b) for the imposition of a penalty or surcharge;
+- (c) for the suspension or cancellation of a decision relating to planning permission;
+- (d) enabling an authority to prohibit development pending assumption of liability for CIL or pending payment of CIL;
+- (e) conferring a power of entry onto land;
+- (f) requiring the provision of information;
+- (g) creating a criminal offence (including, in particular, offences relating to evasion or attempted evasion or to the provision of false or misleading information or failure to provide information, and offences relating to the prevention or investigation of other offences created by the regulations);
+- (h) conferring power to prosecute an offence;
+- (i) for enforcement of sums owed (whether by action on a debt, by distraint against goods or in any other way);
+- (j) conferring jurisdiction on a court to grant injunctive or other relief to enforce a provision of the regulations (including a provision included in reliance on this section);
+- (k) for enforcement in the case of death or insolvency of a person liable for CIL.
+
+(5) CIL regulations may include provision (whether or not in the context of late payment or failure to pay) about registration or notification of actual or potential liability to CIL; and the regulations may include provision—
+
+- (a) for the creation of local land charges;
+- (b) for the registration of local land charges;
+- (c) for enforcement of local land charges (including, in particular, for enforcement—
+  - (i) against successive owners, and
+  - (ii) by way of sale or other disposal with consent of a court);
+- (d) for making entries in statutory registers;
+- (e) for the cancellation of charges and entries.
+
+(6) Regulations under this section may—
+
+- (a) replicate or apply (with or without modifications) any enactment relating to the enforcement of a tax;
+- (b) provide for appeals.
+
+(7) Regulations under this section may provide that any interest, penalty or surcharge payable by virtue of the regulations is to be treated for the purposes of sections 216 to 220 as if it were CIL.
+
+(8) The regulations providing for a surcharge or penalty must ensure that no surcharge or penalty in respect of an amount of CIL exceeds the higher of—
+
+- (a) 30% of that amount, and
+- (b) £20,000.
+
+(9) But the regulations may provide for more than one surcharge or penalty to be imposed in relation to a CIL charge.
+
+(10) The regulations may not authorise entry to a private dwelling without a warrant issued by a justice of the peace.
+
+(11)[^key-50038081ceff5951493c5424bda845ac] Regulations under this section creating a criminal offence may not provide for—
+
+- (a) imprisonment for a term exceeding the maximum term for summary offences, on summary conviction for an offence triable summarily only,
+- (b) imprisonment for a term exceeding the general limit in a magistrates’ court, on summary conviction for an offence triable either way, or
+- (c) imprisonment for a term exceeding 2 years, on conviction on indictment.
+
+(12) In subsection (11)(a), “**the maximum term for summary offences**” means—
+
+- (a) in relation to an offence committed before the time when section 281(5) of the Criminal Justice Act 2003 comes into force, 6 months;
+- (b) in relation to an offence committed after that time, 51 weeks.
+
+(13) In this Part a reference to administrative expenses in connection with CIL includes a reference to enforcement expenses.
+
+## Annotations
+
+[^key-50038081ceff5951493c5424bda845ac]: Textual amendment: [S. 218(11)](https://www.legislation.gov.uk/ukpga/2008/29/section/218/11)[(12)](https://www.legislation.gov.uk/ukpga/2008/29/section/218/12) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 140(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/140/1), [255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/h)

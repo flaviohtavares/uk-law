@@ -1,0 +1,42 @@
+---
+title: Land Drainage Act 1991, section 19
+act: Land Drainage Act 1991
+section: '19'
+status: revised-with-pending-changes
+text_date: '2026-07-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1991/59/section/19
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Drainage Act 1991, section 19
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-07-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/59
+>
+> Extent: England, Wales.
+
+## 19. Arrangements as to works etc. with navigation and conservancy authorities.
+
+*Extent: E+W*
+
+(1) Subject to subsections (2) and (3) below, an internal drainage board, with a view to improving the drainage of any land situated in their district, may enter into an arrangement with a navigation authority or conservancy authority for any of the following purposes, that is to say—
+
+- (a) the transfer to the board of—
+  - (i) the whole or any part of the undertaking of the navigation authority or conservancy authority or of any of the rights, powers, duties, liabilities and obligations of that authority; or
+  - (ii) any property vested in that authority as such;
+- (b) the alteration or improvement by the board of any of the works of the navigation authority or conservancy authority;
+- (c) the making of payments by the board to the navigation authority or conservancy authority or by that authority to the board in respect of any matter for which provision is made by the arrangement.
+
+(2) An internal drainage board shall not enter into any arrangement under this section in relation to a main river or the banks of a main river or in relation to any drainage works in connection with a main river.
+
+(3) The exercise by an internal drainage board of their power to enter into an arrangement under this section shall require the approval of the relevant Minister and the Secretary of State.
+
+(4) Where an internal drainage board are intending to enter into an arrangement under this section, they shall publish a notice of their intention in such manner as may be directed by the relevant Minister.
+
+(5) Where an arrangement has been made under this section, an internal drainage board shall cause a notice under subsection (6) below to be published in the London Gazette in such form as may be prescribed by regulations made by the relevant Minister.
+
+(6) A notice under this subsection is a notice—
+
+- (a) stating that the arrangement has been made; and
+- (b) specifying the place at which a copy of the arrangement may be inspected by persons interested.

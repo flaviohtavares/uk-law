@@ -1,0 +1,56 @@
+---
+title: Police and Criminal Evidence Act 1984, section 45ZB
+act: Police and Criminal Evidence Act 1984
+section: 45ZB
+status: revised-with-pending-changes
+text_date: '2026-04-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1984/60/section/45ZB
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police and Criminal Evidence Act 1984, section 45ZB
+
+> **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 45ZB. Warrants for further detention: use of live links[^key-24c33310d05d4a2981f49b0076beaa77]
+
+*Extent: E+W*
+
+(1) A magistrates’ court may give a live link direction for the purpose of the hearing of an application under section 43 for a warrant authorising further detention of a person, or the hearing of an application under section 44 for an extension of such a warrant, if—
+
+- (a) a custody officer considers that the use of a live link for that purpose is appropriate,
+- (b) the person to whom the application relates has had legal advice on the use of the live link,
+- (c) the appropriate consent to the use of the live link has been given, and
+- (d) it is not contrary to the interests of justice to give the direction.
+
+(2) In subsection (1)(c), “the appropriate consent” means—
+
+- (a) in relation to a person who has attained the age of 18, the consent of that person;
+- (b) in relation to a person who has not attained that age but has attained the age of 14, the consent of that person and of his or her parent or guardian;
+- (c) in relation to a person who has not attained the age of 14, the consent of his or her parent or guardian.
+
+(3) Where a live link direction is given, the requirement under section 43(2)(b) for the person to whom the application relates to be brought before the court for the hearing does not apply.
+
+(4) In this section—
+
+- “live link direction” means a direction that a live link be used for the purposes of the hearing;
+- “live link” means an arrangement by which a person (when not in the place where the hearing is being held) is able to see and hear, and to be seen and heard by, the court during a hearing (and for this purpose any impairment of eyesight or hearing is to be disregarded);
+- “vulnerable adult” means a person aged 18 or over who may have difficulty understanding the purpose of the hearing or what occurs at it (whether because of a mental disorder or for any other reason);
+- “appropriate adult”, in relation to a person aged under 18, means—
+  - (a) the person’s parent or guardian or, if the person is in the care of a local authority or voluntary organisation, a person representing that authority or organisation,
+  - (b) a social worker of a local authority, or
+  - (c) if no person falling within paragraph (a) or (b) is available, any responsible person aged 18 or over who is not a police officer or a person employed for, or engaged on, police purposes;
+- “appropriate adult”, in relation to a vulnerable adult, means—
+  - (a) a relative, guardian or other person responsible for the appropriate adult’s care,
+  - (b) a person who is experienced in dealing with vulnerable adults but who is not a police officer or a person employed for, or engaged on, police purposes, or
+  - (c) if no person falling within paragraph (a) or (b) is available, any responsible person aged 18 or over who is not a police officer or a person employed for, or engaged on, police purposes.
+
+(5) In subsection (4), in both definitions of “appropriate adult”, “police purposes” has the meaning given by section 101(2) of the Police Act 1996.
+
+## Annotations
+
+[^key-24c33310d05d4a2981f49b0076beaa77]: Textual amendment: Ss. 45ZA, 45ZB and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/74/2), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/23)

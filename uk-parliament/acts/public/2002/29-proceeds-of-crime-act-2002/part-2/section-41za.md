@@ -1,0 +1,51 @@
+---
+title: Proceeds of Crime Act 2002, section 41ZA
+act: Proceeds of Crime Act 2002
+section: 41ZA
+status: revised-with-pending-changes
+text_date: '2026-06-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2002/29/section/41ZA
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Proceeds of Crime Act 2002, section 41ZA
+
+> **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41ZA. Exception for legal expenses in respect of offence with which confiscation proceedings concerned[^key-21ba061bb960dc5d0982552a23457761]
+
+*Extent: E+W*
+
+(1) Where the court makes an exception to a restraint order under section 41(3) to which this section applies, it must ensure that the exception—
+
+- (a) is limited to legal expenses that the specified person has reasonably incurred or that the person reasonably incurs,
+- (b) specifies the total amount that may be released for legal expenses in pursuance of the exception, and
+- (c) is made subject to the required conditions (in addition to any conditions imposed under section 41(3)(c)).
+
+(2) The Lord Chancellor may by regulations specify the required conditions for the purposes of subsection (1).
+
+(3) A required condition may, in particular—
+
+- (a) restrict who may receive sums released in pursuance of the exception (by, for example, requiring released sums to be paid to professional legal advisers), or
+- (b) be made for the purpose of controlling the amount of any sum released in pursuance of the exception in respect of an item of expenditure.
+
+(4) A required condition made for the purpose mentioned in subsection (3)(b) may, for example, provide for a sum to be released in respect of an item of expenditure only if—
+
+- (a) the court has assessed the amount allowed by the regulations in respect of that item, and
+- (b) the sum is released for payment of the assessed amount.
+
+(5) For the purposes of subsection (4), the regulations may, in particular, make provision—
+
+- (a) limiting the amount of remuneration allowable to representatives for a unit of time worked;
+- (b) limiting the total amount of remuneration allowable to representatives for work done in connection with proceedings or a step in proceedings;
+- (c) limiting the amount allowable in respect of an item of expenditure incurred by a representative or incurred, otherwise than in respect of the remuneration of a representative, by a party to proceedings.
+
+(6) Before making regulations under this section, the Lord Chancellor must consult such persons as the Lord Chancellor considers appropriate.
+
+## Annotations
+
+[^key-21ba061bb960dc5d0982552a23457761]: Textual amendment: S. 41ZA inserted (29.6.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 26(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/26/3); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/2)

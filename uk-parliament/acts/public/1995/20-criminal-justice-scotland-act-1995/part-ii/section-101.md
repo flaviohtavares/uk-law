@@ -1,0 +1,53 @@
+---
+title: Criminal Justice (Scotland) Act 1995, section 101
+act: Criminal Justice (Scotland) Act 1995
+section: '101'
+status: repealed
+text_date: '1997-08-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1995/20/section/101
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice (Scotland) Act 1995, section 101
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 101. Recognition and enforcement of orders made in England and Wales.
+
+*Extent: S*
+
+**No longer in force (ended 1996-04-01).**
+
+(1) An order to which this section applies shall, subject to this section and section 102 of this Act, have effect in the law of Scotland but shall be enforced in Scotland only in accordance with this section and that section.
+
+(2) A receiver’s functions under or for the purposes of section 77, 80 or 81 of the 1988 Act shall, subject to this section and section 102 of this Act, have effect in the law of Scotland.
+
+(3) If an order to which this section applies is registered under this section—
+
+- (a) the Court of Session shall have, in relation to its enforcement, the same power;
+- (b) proceedings for or with respect to its enforcement may be taken, and
+- (c) proceedings for or with respect to any contravention of such an order (whether before or after such registration) may be taken,
+
+as if the order had originally been made in that Court.
+
+(4) Nothing in this section enables any provision of an order which empowers a receiver to do anything in Scotland under section 80(3)(a) of the 1988 Act to have effect in the law of Scotland.
+
+(5) The orders to which this section applies are orders of the High Court—
+
+- (a) made under section 77, 78 or 81 of the 1988 Act;
+- (b) relating to the exercise by that Court of its powers under those sections; or
+- (c) relating to receivers in the performance of their functions under the said section 77, 78 or 81,
+
+but not including an order in proceedings for enforcement of any such order.
+
+(6) References in this section to an order under section 77 of the 1988 Act include references to a discharge under section 76(4) of that Act of such an order.
+
+(7) In this section and in section 102 of this Act, “**order**” means any order, direction or judgment (by whatever name called).
+
+(8) Nothing in any order of the High Court under section 80(6) of the 1988 Act prejudices any enactment or rule of law in respect of the recording of deeds relating to heritable property in Scotland or the registration of interests in such property.
+
+(9) In this Chapter, “**High Court**” means the High Court of England and Wales.

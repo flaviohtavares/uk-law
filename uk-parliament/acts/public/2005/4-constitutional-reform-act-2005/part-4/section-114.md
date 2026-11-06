@@ -1,0 +1,45 @@
+---
+title: Constitutional Reform Act 2005, section 114
+act: Constitutional Reform Act 2005
+section: '114'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/4/section/114
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Constitutional Reform Act 2005, section 114
+
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 114. Reports on references
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the Ombudsman carries out an investigation under section 113 he must prepare a draft of a report of the investigation.
+
+(2) If the investigation relates to a matter which is the subject of a review on an application under section 110, subsection (1) applies only when the Ombudsman has sent a copy of the final report on that review to the Lord Chancellor, the Lord Chief Justice and the applicant.
+
+(3) The draft report must state the Ombudsman's proposals as to—
+
+- (a) the findings he will make;
+- (b) any recommendations he will make for action to be taken by any person in relation to the matter subject to investigation.
+
+(4) Those findings and recommendations are referred to in this section as the Ombudsman's response on the investigation.
+
+(5) The Ombudsman must submit the draft report to the Lord Chancellor and the Lord Chief Justice.
+
+(6) If the Lord Chancellor or the Lord Chief Justice makes a proposal that the Ombudsman's response on the investigation should be changed, the Ombudsman must consider whether or not to change it to give effect to that proposal.
+
+(7) The Ombudsman must produce a final report that sets out—
+
+- (a) the Ombudsman's response on the investigation, including any changes made to it to give effect to a proposal under subsection (6);
+- (b) a statement of any proposal under subsection (6) that is not given effect to.
+
+(8) The Ombudsman must send a copy of the final report to each of the Lord Chancellor and the Lord Chief Justice.
+
+(9) Each copy must be signed by the Ombudsman.

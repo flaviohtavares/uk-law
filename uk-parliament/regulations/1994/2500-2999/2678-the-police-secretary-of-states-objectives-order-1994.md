@@ -1,0 +1,69 @@
+---
+title: The Police (Secretary of State’s Objectives) Order 1994
+id: uksi/1994/2678
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-10-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/2678
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/2678/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police (Secretary of State’s Objectives) Order 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 2678
+
+POLICE
+
+The Police (Secretary of State’s Objectives) Order 1994
+
+Made
+
+15th October 1994
+
+Laid before Parliament
+
+19th October 1994
+
+Coming into force
+
+1st November 1994
+
+In exercise of the powers conferred upon me by section 28A of the Police Act 1964[^f00001], I hereby make the following Order:
+
+**1.** This Order may be cited as the Police (Secretary of State’s Objectives) Order 1994 and shall come into force on 1st November 1994.
+
+**2.** The objectives for the policing of the areas of all police authorities established under section 3 of the Police Act 1964[^f00002]are—
+
+- (a) to maintain and, if possible, increase the number of detections for violent crimes;
+- (b) to increase the number of detections for burglaries of people’s homes;
+- (c) to target and prevent crimes which are a particular local problem, including drug-related criminality, in partnership with the public and local agencies;
+- (d) to provide high visibility policing so as to reassure the public; and
+- (e) to respond promptly to emergency calls from the public.
+
+Michael Howard
+
+One of Her Majesty’s Principal Secretaries of State
+
+15th October 1994
+
+(This note is not part of the Order)
+
+This Order sets out the Secretary of State’s objectives for the police authorities established by the amendments made by the Police and Magistrates' Courts Act 1994 to the Police Act 1964. The provisions of the 1994 Act establishing those authorities were brought into force by the Police and Magistrates' Courts Act 1994 (Commencement No. 1 and Transitional Provisions) Order 1994 (S.I. [1994/2025 (C.38)](https://www.legislation.gov.uk/uksi/1994/2025)). Certain provisions of that Act conferring functions on the new authorities were brought into force for limited purposes by that Order.
+
+Amongst those provisions are the amendments made by section 4 of the 1994 Act. Section 4(2)(a) of the 1964 Act, as substituted by section 4 of the 1994 Act, requires every new authority to have regard to these objectives in the discharge of its functions. Section 4B of the 1964 Act, as substituted, requires every new authority to issue a local policing plan which (under section 4A(2)(a), as substituted) must give particulars of these objectives.
+
+## Annotations
+
+[^f00001]: Footnote: [1964 c. 48](https://www.legislation.gov.uk/ukpga/1964/48); section 28A was inserted by section 15 of the Police and Magistrates' Courts Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29). It has been brought into force for the limited purposes set out in article 6(1) of the Police and Magistrates' Courts Act 1994 (Commencement No. 1 and Transitional Provisions) Order 1994 (S.I. [1994/2025 (C.38)](https://www.legislation.gov.uk/uksi/1994/2025)) and, by virtue of article 6(4), section 28A(2) does not apply for those purposes.
+
+[^f00002]: Footnote: Section 3 was substituted by section 2 of the Police and Magistrates' Courts Act 1994.

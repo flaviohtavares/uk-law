@@ -1,0 +1,160 @@
+---
+title: The National Assistance (Sums for Personal Requirements and Assessment of Resources) Amendment (England) Regulations 2010
+id: uksi/2010/211
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2010-02-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/211
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/211/pdfs/uksiem_20100211_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/211/pdfs/uksi_20100211_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/211/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Assistance (Sums for Personal Requirements and Assessment of Resources) Amendment (England) Regulations 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 211
+
+National Assistance Services, England
+
+The National Assistance (Sums for Personal Requirements and Assessment of Resources) Amendment (England) Regulations 2010
+
+Made
+
+3rd February 2010
+
+Laid before Parliament
+
+9th February 2010
+
+Coming into force
+
+for the purposes of regulation 5
+
+6th April 2010
+
+for all other purposes
+
+12th April 2010
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by section 22(4) and (5) of the National Assistance Act 1948[^f00001].
+
+## 1. Citation, commencement, interpretation and application
+
+(1) These Regulations may be cited as the National Assistance (Sums for Personal Requirements and Assessment of Resources) Amendment (England) Regulations 2010 and shall come into force on—
+
+- (a) 6th April 2010 for the purposes of regulation 5; and
+- (b) 12th April 2010 for all other purposes.
+
+(2) In these Regulations, “the Assessment Regulations” means the National Assistance (Assessment of Resources) Regulations 1992[^f00002].
+
+(3) These Regulations apply in relation to England.
+
+## 2. Increase in sum needed for personal requirements
+
+In regulation 2 (sum needed for personal requirements) of the National Assistance (Sums for Personal Requirements) (England) Regulations 2003[^f00003], for “£21.90” substitute “£22.30”.
+
+## 3. Increase in capital limits
+
+(1) The Assessment Regulations are amended in accordance with the following paragraphs.
+
+(2) In regulation 20 (capital limit), for “£23,000” substitute “£23,250”.
+
+(3) In regulation 28 (calculation of tariff income from capital), in paragraph (1)—
+
+- (a) for “£14,000”, in both places where it occurs, substitute “£14,250”; and
+- (b) for “£23,000” substitute “£23,250”.
+
+## 4. Increase in amount of savings credit to be disregarded
+
+In Schedule 3 to the Assessment Regulations (sums to be disregarded in the calculation of income other than earnings), in paragraph 28H[^f00004]—
+
+- (a) in sub-paragraphs (1) and (2), for “£5.65”, in each place where it occurs, substitute “£5.75”; and
+- (b) in sub-paragraphs (3) and (4), for “£8.45” in each place where it occurs, substitute “£8.60”.
+
+## 5. Other amendments to the Assessment Regulations
+
+(1) The Assessment Regulations are further amended in accordance with the following paragraphs.
+
+(2) In regulation 2(1) (interpretation) after “prospective resident” insert—
+
+> - “qualifying age” has the same meaning as in section 1(6) of the State Pension Credit Act 2002[^f00005];
+> - “relative” has the same meaning as in the Income Support Regulations;
+
+[^f00006].
+
+(3) In Schedule 2 (sums to be disregarded in the calculation of earnings), in sub-paragraph (2) of paragraph 3—
+
+- (a) in paragraph (b), for “the age of 60” substitute “the qualifying age”; and
+- (b) in paragraph (c), for “the age of 60”, in each place where it occurs, substitute “the qualifying age”.
+
+(4) In Schedule 3 (sums to be disregarded in the calculation of income other than earnings), in sub-paragraph (6) of paragraph 28H, omit paragraph (b).
+
+(5) In Schedule 4 (capital to be disregarded), in paragraph 2[^f00007], for sub-paragraphs (1) and (2) substitute—
+
+> (1) The value of any premises—
+>
+> - (a) which would be disregarded under paragraph 2 or 4(b) of Schedule 10 to the Income Support Regulations (premises acquired for occupation, and premises occupied by a former partner); or
+> - (b) occupied in whole or in part as their home by the resident’s—
+>   - (i) partner,
+>   - (ii) other family member or relative who is aged 60 or over or is incapacitated, or
+>   - (iii) child.
+
+.
+
+Signed by authority of the Secretary of State for Health
+
+Phil Hope
+
+Minister of State,
+
+Department of Health
+
+3rd February 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply in relation to England, amend the National Assistance (Sums for Personal Requirements) (England) Regulations 2003 (“the Personal Requirements Regulations”) and the National Assistance (Assessment of Resources) Regulations 1992 (“the Assessment Regulations”). They come into force on 6th April 2010 for the purposes of regulation 5 and on 12th April 2010 for all other purposes.
+
+Regulation 2 amends the Personal Requirements Regulations so that the weekly sum which local authorities in England are to assume, in the absence of special requirements, that residents in accommodation arranged under Part 3 of the National Assistance Act 1948 (“the 1948 Act”) will need for their personal requirements is increased to £22.30.
+
+Regulations 3 to 5 amend the Assessment Regulations, which concern the assessment of the liability of a person to pay for residential accommodation that is provided, or proposed to be provided, to that person by a local authority under Part 3 of the 1948 Act.
+
+Regulation 3 increases the capital limit set out in regulation 20 to £23,250. It also increases the capital limits set out in regulation 28(1) to £14,250 and £23,250.
+
+Regulation 4 provides for an increase to £5.75 (£8.60 if a resident has a partner) in the amount of any savings credit to be disregarded in accordance with paragraph 28H of Schedule 3 to the Assessment Regulations.
+
+Regulation 5 makes two further amendments to the Assessment Regulations.
+
+Paragraph (3) is a consequential amendment made as a result of amendments (“the amendments”) to the Income Support (General) Regulations 2007 which come into force on 6th April 2010. The earnings disregard for claimants in receipt of a disability premium is linked to retirement age and, prior to the amendments coming into force, ceased when the claimant reached the age of 60. As a result of the amendments, the age at which a disability premium is paid has changed so that entitlement will be aligned with the qualifying age for state pension credit. Regulation 5(3) makes the changes necessary to align the provisions.
+
+Paragraph (5) amends the Assessment Regulations so that the capital disregard for the value of premises occupied by a partner or family member of a resident applies in relation to all partners (and not just those who are aged 60 or over or are incapacitated) and only in relation to other family members and relatives who are aged 60 or over or are incapacitated.
+
+A full impact assessment has not been produced for this instrument as no impact on business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1948 c.29](https://www.legislation.gov.uk/ukpga/1948/29). See section 35(1) of that Act for the definition of “the Minister” and section 64(1) for the definition of “prescribed”. Article 2 of the Secretary of State for Social Services Order 1968 ([S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699)) transferred all functions of the Minister of Health to the Secretary of State. Section 22(5) was amended by paragraph 2(1) of Schedule 4 to the Social Security Act [1980 (c. 30)](https://www.legislation.gov.uk/ukpga/1980/30) and by paragraph 32(2) of Schedule 10 to the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50).
+
+[^f00002]: Footnote: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977); relevant amending instruments are [S.I. 1993/964](https://www.legislation.gov.uk/uksi/1993/964), [1996/602](https://www.legislation.gov.uk/uksi/1996/602), [1998/1730](https://www.legislation.gov.uk/uksi/1998/1730) and [2009/462](https://www.legislation.gov.uk/uksi/2009/462) and [597](https://www.legislation.gov.uk/uksi/2009/597).
+
+[^f00003]: Footnote: [S.I. 2003/628](https://www.legislation.gov.uk/uksi/2003/628), amended by [S.I. 2009/597](https://www.legislation.gov.uk/uksi/2009/597), regulation 2; there are other amending instruments but none is relevant.
+
+[^f00004]: Footnote: Paragraph 28H was inserted by [S.I. 2003/2343](https://www.legislation.gov.uk/uksi/2003/2343) and amended by [S.I. 2009/597](https://www.legislation.gov.uk/uksi/2009/597).
+
+[^f00005]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^f00006]: Footnote: A definition of “relative” in the same terms was inserted for Scotland only by [S.S.I. 2009/381](https://www.legislation.gov.uk/ssi/2009/381), regulation 2(1).
+
+[^f00007]: Footnote: Paragraph 2 was substituted by [S.I. 1993/964](https://www.legislation.gov.uk/uksi/1993/964) and amended by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462).

@@ -1,0 +1,167 @@
+---
+title: The Animal Gatherings (Fees) (England) Order 2018
+id: uksi/2018/663
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-05-24'
+text_date: '2024-12-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2018/663
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/663/pdfs/uksiem_20180663_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/663/pdfs/uksi_20180663_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/663/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Animal Gatherings (Fees) (England) Order 2018
+
+> Text as at 2024-12-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 663
+
+Animals, England
+
+Animal Health
+
+The Animal Gatherings (Fees) (England) Order 2018
+
+Made
+
+24th May 2018
+
+Laid before the House of Commons
+
+1st June 2018
+
+Coming into force
+
+30th June 2018
+
+The Secretary of State makes this Order with the approval of the Treasury in exercise of the powers conferred by section 84(1) of the Animal Health Act 1981[^f00001], and now vested in the Secretary of State[^f00002].
+
+## 1. Title and commencement[^key-7e130a70e0e1880cee0a7f34315e480d]
+
+This Order may be cited as the Animal Gatherings (Fees) (England) Order 2018 and comes into force on 30th June 2018.
+
+## 2. Interpretation[^key-2b91fafeab7c50aa87c8abc0c772651e]
+
+In this Order—
+
+- “the 2010 Order” means the Animal Gatherings Order 2010[^f00003];
+- “collection centre” means premises[^key-9e152c246b72a096a94dba26221b4b62] where animals are collected for onward consignment within Great Britain;
+- “licensed premises” means premises licensed under article 5(1) of the 2010 Order.
+
+## 3. Fees payable[^key-1fcf86c9ab06432b6483022631112850]
+
+(1) The fees payable to the Secretary of State for the issue, amendment or renewal of a licence under the 2010 Order are to be determined in accordance with Table 1 of the Schedule.
+
+(2) The fees payable to the Secretary of State for the issue and renewal of a licence to organise shows or exhibitions under the 2010 Order are to be determined in accordance with Table 2 of the Schedule.
+
+(3) Additional fees related to travel time and extra veterinary visits payable to the Secretary of State are to be determined in accordance with Table 3 of the Schedule.
+
+(4) A person is exempt from a licence fee where the animal gathering on premises, or on the part of premises[^key-3e417ba3a1747d46ab4e2c3c9c7802fc] to which the licence relates, involves—
+
+- (a) only shows or exhibitions that are open to the public for not more than one day at a time, in circumstances where no public sale or auction of animals takes place;
+- (b) a gathering solely for the purpose of an inspection to confirm that animals possess specific breed characteristics.
+
+Gardiner of Kimble
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+23rd May 2018
+
+We consent
+
+Andrew Stephenson
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+24th May 2018
+
+## SCHEDULE[^key-3a282ce28ce4015d93e3ab98c7390d50]
+
+Article 3
+
+Table 1
+
+Fees payable for the licensing of premises for animal sales or collection centres that are not exempt under article 3(4) of this Order
+
+| **Column 1** | **Column 2** |
+| --- | --- |
+| ***Activity*** | ***Fee (£) for applications received, and renewals undertaken*** |
+| Application for the issue or (where the premises have been radically changed) amendment of a licence for sale premises or a collection centre where such premises are assessed by a veterinary inspector as presenting a low risk of disease. This fee includes up to 90 minutes of inspection time | 433 |
+| Application for the issue or (where the premises have been radically changed) amendment of a licence for sale premises or for use as a collection centre, where such premises are assessed by a veterinary inspector as presenting more than a low risk of disease. This fee includes up to 2 x 90 minutes of inspection time | 780 |
+| Annual licence renewal fee for premises used for animal sales or for use as a collection centre, where such premises are assessed by a veterinary inspector as presenting a low disease risk requiring only one inspection visit for the determination of the renewal. This fee includes up to 75 minutes of inspection time | 387 |
+| Annual licence renewal fee for premises used for animal sales or for use as a collection centre, where such premises are assessed by a veterinary inspector as presenting more than a low disease risk, and therefore requiring two inspection visits for the determination of the renewal. This fee includes up to 2 x 75 minutes of inspection time | 550 |
+
+Table 2
+
+Fees payable for the licensing of premises for shows or exhibitions that are not exempt under article 3(4) of this Order
+
+| **Column 1** | **Column 2** |
+| --- | --- |
+| ***Activity*** | ***Fee (£) for applications received, and renewals undertaken*** |
+| Application for a licence to organise shows or exhibitions on premises assessed by a veterinary inspector as presenting a low risk of disease. This fee includes up to 60 minutes of inspection time | 283 |
+| Application for a licence to organise shows or exhibitions on premises assessed by a veterinary inspector as presenting more than a low risk of disease. This fee includes up to 90 minutes of inspection time | 467 |
+| Annual licence renewal of show or exhibition premises where a veterinary inspector assesses no inspection visit is required | 201 |
+| Annual licence renewal of a show or exhibition premises where a veterinary inspector assesses a basic inspection visit is required. This fee includes up to 60 minutes of inspection time | 329 |
+| Annual licence renewal of show or exhibition premises where a veterinary inspector assesses more than a basic inspection visit is required. This fee includes up to 60 minutes of inspection time | 329 |
+
+Table 3
+
+Additional fees payable for the licensing of premises
+
+| **Column 1** | **Column 2** |
+| --- | --- |
+| ***Activity*** | ***Fee (£) for veterinary visits undertaken*** |
+| Extra veterinary visit for the purpose of consideration of an application for a licence, annual renewal of a licence or follow-up non-compliance visit, that includes up to 75 minutes of veterinary inspector time for such visit | 362 |
+| A veterinary visit for the purpose of consideration of a request for an in-year operational change, that includes up to 75 minutes of veterinary inspector time for such visit | 362 |
+| Additional charge on any visit where the veterinary inspection time exceeds the fixed time provided in this Schedule | 24 per quarter hour or part quarter hour spent |
+| Time spent by a veterinary inspector travelling to and from the licensed premises, or premises proposed to be licensed, for the purpose of licensing activities that are not exempt from fees under article 3(4) of this Order | 24 per quarter hour or part quarter hour spent, up to a maximum of 144 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for the introduction of fees payable to the Secretary of State for services provided by the Animal and Plant Health Agency, an executive agency of the Department for Environment, Food and Rural Affairs.
+
+The fees introduced by article 3 relate to the licensing of certain types of animal gatherings for cattle, deer, goats, sheep and pigs as provided for under the Animal Gatherings Order 2010 ([S.I. 2010/460](https://www.legislation.gov.uk/uksi/2010/460)).
+
+The fees set out in column 2 in all three tables in the Schedule (other than travel time) are set at 50% of the full cost recovery for applications received and licensing related activities and veterinary visits undertaken by the Animal and Plant Health Agency on or before 30th June 2019.
+
+The fees set out in column 3 in all three tables in the Schedule are set at 100% of the full cost recovery for applications received and licensing related activities and veterinary visits undertaken after 30th June 2019.
+
+A full impact assessment has not been produced for this instrument as no, or no significant impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^f00002]: Footnote: Functions conferred under this Act on the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^key-7e130a70e0e1880cee0a7f34315e480d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1)
+
+[^key-2b91fafeab7c50aa87c8abc0c772651e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2018/663/article/2) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1)
+
+[^f00003]: Footnote: [S.I. 2010/460](https://www.legislation.gov.uk/uksi/2010/460). There are amendments not relevant to this Order.
+
+[^key-9e152c246b72a096a94dba26221b4b62]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2018/663/article/2) substituted (1.12.2022) by [The Animal Health (Poultry Compartments, Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2022 (S.I. 2022/1121)](https://www.legislation.gov.uk/uksi/2022/1121), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/4/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/1121/article/5))
+
+[^key-1fcf86c9ab06432b6483022631112850]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2018/663/article/3) in force at 30.6.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2018/663/article/1)
+
+[^key-3e417ba3a1747d46ab4e2c3c9c7802fc]: Textual amendment: Word in [art. 3(4)](https://www.legislation.gov.uk/uksi/2018/663/article/3/4) substituted (1.12.2022) by [The Animal Health (Poultry Compartments, Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2022 (S.I. 2022/1121)](https://www.legislation.gov.uk/uksi/2022/1121), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/1121/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/1121/article/5))
+
+[^key-3a282ce28ce4015d93e3ab98c7390d50]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/663/schedule) substituted (1.12.2024) by [The Animal Health (Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2024 (S.I. 2024/1140)](https://www.legislation.gov.uk/uksi/2024/1140), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1140/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1140/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1140/article/4))

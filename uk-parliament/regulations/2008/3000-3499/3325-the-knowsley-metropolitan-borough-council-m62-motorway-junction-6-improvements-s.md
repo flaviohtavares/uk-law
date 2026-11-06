@@ -1,0 +1,87 @@
+---
+title: The Knowsley Metropolitan Borough Council (M62 Motorway, Junction 6 Improvements) Scheme 2008 Confirmation Instrument 2008
+id: uksi/2008/3325
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-12-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/3325
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/3325/pdfs/uksi_20083325_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/3325/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Knowsley Metropolitan Borough Council (M62 Motorway, Junction 6 Improvements) Scheme 2008 Confirmation Instrument 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 3325
+
+HIGHWAYS, ENGLAND
+
+The Knowsley Metropolitan Borough Council (M62 Motorway, Junction 6 Improvements) Scheme 2008 Confirmation Instrument 2008
+
+Made
+
+30 December 2008
+
+Coming into force in accordance with article 1
+
+The Secretary of State for Transport makes this Instrument in exercise of powers conferred by section 16 of the Highways Act 1980[^f00001] and now vested in the Secretary of State for Transport[^f00002]:
+
+**1.** This Instrument may be cited as “The Knowsley Metropolitan Borough Council (M62 Motorway, Junction 6 Improvements) Scheme 2008 Confirmation Instrument 2008” and shall come into force on the date on which notice that it has been confirmed is first published in accordance with paragraph 1 of Schedule 2 to the Highways Act 1980.
+
+**2.** The Knowsley Metropolitan Borough Council (M62 Motorway, Junction 6 Improvements) Scheme 2008 (“the Scheme”) is hereby confirmed without modifications.
+
+**3.** The Scheme as confirmed is set out in the Schedule hereto (including the plan) and copies of the Scheme with its accompanying plan are deposited at the offices of the Department for Transport, Floor 13 (IMD), Ashdown House, St Leonards on Sea, Hastings, East Sussex, TN37 7GA, and at the offices of the Knowsley Metropolitan Borough Council, Corporate Services, PO Box 21, Archway Road, Huyton, Knowsley, Merseyside L36 9YU.
+
+Signed by authority of the Secretary of State for Transport,
+
+J Blackie
+
+Regional Director Government Office for the North East
+
+30 December 2008
+
+## THE SCHEDULE — The Knowsley Metropolitan Borough Council (M62 Motorway, Junction 6 Improvements) Scheme 2008
+
+Knowsley Metropolitan Borough Council make this Scheme in exercise of their powers under section 16 and 17 of the Highways Act 1980, and all other powers enabling them in that behalf–
+
+**1.** The Council are authorised to provide along the route described in the Schedule to this Scheme a special road for the use of traffic of Classes I and II of the classes of traffic set out in Schedule 4 of the Highways Act 1980.
+
+**2.** The centre line of the special road is indicated by a heavy black line on the plan.
+
+**3.** In this Scheme—
+
+- (a) “the Council” means the Knowsley Metropolitan Borough Council
+- (b) “the plan” means the plan numbered HW700710-C01, marked “The Knowsley Metropolitan Borough Council (M62 Motorway, Junction 6 Improvements) Scheme 2008”, sealed with the Common Seal of the Council and deposited at the offices of the Council at Knowsley Metropolitan Borough Council, Corporate Services, PO Box 21, Archway Road, Huyton, Knowsley, Merseyside L36 9YU; a duplicate has been deposited in the offices of the Secretary of State for Transport.
+- (c) “the special road” means the special road which the Council are authorised by this Scheme to provide as mentioned in article 1 of this Scheme.
+
+**4.** This Scheme may be cited as the Knowsley Metropolitan Borough Council (M62 Motorway, Junction 6 Improvements) Scheme 2008.
+
+- Given under the Common Seal of the Council the 20th day of August 2008.
+- The Common Seal of the Council was hereunto affixed in the presence of:
+- *Mike Dearing*
+- Authorised Signatory
+
+## THE SCHEDULE TO THE SCHEME — The Route of the Special Road
+
+The route, about 800 metres in length, starting at a point 400 metres north of the centre of Tarbock Island and proceeding in a generally southern direction to a point 400 metres south of the centre of Tarbock Island in the Metropolitan Borough of Knowsley in the County of Merseyside.
+
+(This note is not part of the Instrument)
+
+This Instrument confirms a Scheme to provide a special road from part of the A5300 Expressway within Knowsley Metropolitan Borough for the use of traffic of Classes I and II of the classes of traffic set out in Schedule 4 of the Highways Act 1980.
+
+[image: see source](https://www.legislation.gov.uk/uksi/2008/3325/images/uksi_20083325_en_001)
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00002]: Footnote: [SI 1981/238](https://www.legislation.gov.uk/uksi/1981/238)

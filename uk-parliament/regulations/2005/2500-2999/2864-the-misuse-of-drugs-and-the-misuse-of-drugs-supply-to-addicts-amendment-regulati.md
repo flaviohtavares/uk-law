@@ -1,0 +1,188 @@
+---
+title: The Misuse of Drugs and the Misuse of Drugs (Supply to Addicts) (Amendment) Regulations 2005
+id: uksi/2005/2864
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-10-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2864
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2864/pdfs/uksiem_20052864_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2864/pdfs/uksi_20052864_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2864/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Misuse of Drugs and the Misuse of Drugs (Supply to Addicts) (Amendment) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 2864
+
+DANGEROUS DRUGS
+
+The Misuse of Drugs and the Misuse of Drugs (Supply to Addicts) (Amendment) Regulations 2005
+
+Made
+
+12th October 2005
+
+Laid before Parliament
+
+19th October 2005
+
+Coming into force
+
+14th November 2005
+
+The Secretary of State makes the following regulations in exercise of the powers conferred by sections 7, 10, 22 and 31 of the Misuse of Drugs Act 1971[^f00001].
+
+In accordance with section 31(3) of that Act he has consulted with the Advisory Council on the Misuse of Drugs.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Misuse of Drugs and the Misuse of Drugs (Supply to Addicts) (Amendment) Regulations 2005 and shall come into force on 14th November 2005.
+
+(2) In these Regulations “the 2001 Regulations” means the Misuse of Drugs Regulations 2001[^f00002].
+
+## 2. Amendment of the Misuse of Drugs Regulations 2001
+
+The 2001 Regulations shall be amended in accordance with regulations 3 to 13.
+
+**3.** (1) For the definition of “extended formulary nurse prescriber”[^f00003] in regulation 2(1) (interpretation) substitute—
+
+> - “extended formulary nurse prescriber” has the same meaning as in the Prescription Only Medicines (Human Use) Order 1997[^f00004], and such a person may only prescribe controlled drugs in accordance with regulation 6B;
+
+.
+
+(2) For the definition of “register” in regulation 2(1) substitute—
+
+> - “register” means either a bound book, which does not include any form of loose leaf register or card index, or a computerised system which is in accordance with best practice guidance endorsed by the Secretary of State under section 2 of the National Health Service Act 1977[^f00005];
+
+.
+
+**4.** In regulation 6A(1)[^f00006] (supply of articles for administering or preparing controlled drugs) after paragraph (e) insert—
+
+> - (f) ascorbic acid
+
+.
+
+**5.** After regulation 6A there shall be inserted—
+
+> **6B. Authority for Extended Formulary Nurse Prescribers to prescribe**
+>
+> An extended formulary nurse prescriber may only prescribe—
+>
+> - (a) diamorphine, diazepam, lorazepam, midazolam, morphine or oxycodone for use in palliative care;
+> - (b)  buprenorphine or fentanyl for transdermal use in palliative care;
+> - (c) diamorphine or morphine for pain relief in respect of suspected myocardial infarction or for relief of acute or severe pain after trauma including in either case post-operative pain relief;
+> - (d) chlordiazepoxide hydrochloride or diazepam for treatment of initial or acute withdrawal symptoms caused by the withdrawal of alcohol from persons habituated to it;
+> - (e) codeine phosphate, dihydrocodeine tartrate or co-phenotrope.
+
+**6.** For regulation 7(4) and (5)[^f00007] (administration of drugs in Schedules 2, 3, 4 and 5) substitute—
+
+> (4) Notwithstanding the provisions of paragraph (3), an extended formulary nurse prescriber may administer to a patient, without the directions of a doctor or dentist, any controlled drug which she may prescribe under regulation 6B provided it is administered for a purpose for which it may be prescribed under that regulation.
+>
+> (5) Notwithstanding the provisions of paragraph (3), any person may administer to a patient in accordance with the specific directions of an extended formulary nurse prescriber any controlled drug which the extended formulary nurse prescriber may prescribe under regulation 6B provided it is administered for a purpose for which it may be prescribed under that regulation.
+
+**7.** For regulation 8(7)[^f00008] (production and supply of drugs in Schedules 2 and 5) substitute—
+
+> (7) Notwithstanding the provisions of section 4(1)(b) of the Act, an extended formulary nurse prescriber may, when acting in her capacity as such, supply or offer to supply—
+>
+> - (a) codeine phosphate, dihydrocodeine tartrate and co-phenotrope;
+> - (b) diamorphine and morphine for pain relief in respect of suspected myocardial infarction or for relief of acute or severe pain after trauma including in either case post-operative pain relief;
+> - (c) diamorphine, morphine and oxycodone for use in palliative care; and
+> - (d) fentanyl for transdermal use in palliative care,
+>
+> to any person who may lawfully have any of these drugs in his possession.
+
+**8.** For regulation 9(7)[^f00009] (production and supply of drugs in Schedules 3 and 4) substitute—
+
+> (7) Notwithstanding the provisions of section 4(1)(b) of the Act, an extended formulary nurse prescriber may, when acting in her capacity as such, supply or offer to supply—
+>
+> - (a) diazepam, lorazepam and midazolam for use in palliative care;
+> - (b)  buprenorphine for transdermal use in palliative care; and
+> - (c) chlordiazepoxide hydrochloride and diazepam for treatment of initial or acute withdrawal symptoms caused by the withdrawal of alcohol from persons habituated to it,
+>
+> to any person who may lawfully have any of these drugs in his possession.
+
+**9.** (1) For regulation 15(1)(a) (form of prescriptions) substitute—
+
+> - (a) be written so as to be indelible, be dated and be signed by the person issuing it with his usual signature;
+
+.
+
+(2) Paragraphs (1)(b) and (2) of regulation 15 are revoked.
+
+**10.** (1) For regulation 20(d) (requirements as to registers) substitute—
+
+> - (d) every such entry and every correction of such an entry shall be made in ink or otherwise so as to be indelible or shall be in a computerised form in which every such entry is attributable and capable of being audited and which is in accordance with best practice guidance endorsed by the Secretary of State under section 2 of the National Health Service Act 1977;
+
+.
+
+(2) In regulation 20(g) after “relates” insert “and, where the register is in computerised form, be accessible from those premises”.
+
+**11.** After regulation 24 (preservation of records relating to drugs in Schedules 3 and 5) insert—
+
+> **24A. Preservation of records: supplementary**
+>
+> For the purposes of regulations 23 and 24(6), “preserved” means kept in its original form, or copied and kept in a computerised form which is in accordance with best practice guidance endorsed by the Secretary of State under section 2 of the National Health Service Act 1977.
+
+**12.** In Regulation 26 (furnishing of information with respect to controlled drugs) after paragraph (1) insert—
+
+> (1A) For the purposes of paragraph (1)(c), the Secretary of State or any person authorised in writing by the Secretary of State in that behalf may request that a register which is kept in computerised form be produced by sending a copy of it, in computerised or other form, to the appropriate person.
+
+**13.** In Schedule 5, paragraph 2 is revoked.
+
+## 14. Amendment of the Misuse of Drugs (Supply to Addicts) Regulations 1997
+
+For regulation 3(3)(a) of the Misuse of Drugs (Supply to Addicts) Regulations 1997[^f00010] substitute—
+
+> - (a) cocaine, its salts and any preparation or other product containing cocaine or its salts;
+
+.
+
+Paul Goggins
+
+Parliamentary Under-Secretary of State
+
+Home Office
+
+12th October 2005
+
+(This note is not part of the Regulations)
+
+Regulations 2 to 13 of these Regulations amend the Misuse of Drugs Regulations 2001 (the 2001 Regulations). Regulation 3 amends the definition of extended formulary nurse prescriber (EFNPs) and the definition of register. Regulation 4 inserts a new regulation 6A(1)(f) into the 2001 Regulations, enabling certain persons to supply ascorbic acid for the purpose of administering or preparing controlled drugs. Regulation 5 inserts a new regulation 6B into the 2001 Regulations and specifies which controlled drugs EFNPs can prescribe in which circumstances. Regulation 6 substitutes new regulation 7(4) and (5) into the 2001 Regulations and provides that EFNPs can administer, and persons can administer in accordance with the directions of an EFNP, any drug which EFNPs are permitted to prescribe under new Regulation 6B of the 2001 Regulations so long as it is administered for a purpose for which it may be prescribed under that Regulation. Regulations 7 and 8 substitute new regulations 8(7) and 9(7) into the 2001 Regulations and specify which controlled drugs EFNPs can supply in which circumstances.
+
+Regulation 9 amends regulation 15 of the 2001 Regulations to enable prescriptions to be written in any form, including typing, printing and any other mode of reproducing words in a visible form, with only the signature necessarily being handwritten.
+
+Regulation 10 amends regulation 20 of the 2001 Regulations to provide that registers can be kept in a computerised form which is in accordance with specified best practice guidance. Regulation 11 inserts a new regulation 24A into the 2001 Regulations to provides that records may be preserved in a computerised form which is in accordance with specified best practice guidance. Regulation 12 amends regulation 26 of the 2001 Regulations to enable the Secretary of State or an authorised person to request that a register which is kept in computerised form be produced by sending a copy of it in computerised form to the appropriate person.
+
+Regulation 13 revokes paragraph 2 of Schedule 5 to the 2001 Regulations, removing any preparation of cocaine containing not more than 0.1% of cocaine from the exception from the prohibition on importation, exportation and possession. Regulation 14 makes a consequential amendment to the Misuse of Drugs (Supply to Addicts) Regulations 1997.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38). Section 22 of that Act was amended by section 177(1) of, and paragraph 12 of Schedule 4 to, the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^f00002]: Footnote: S.I. [2001/3998](https://www.legislation.gov.uk/uksi/2001/3998), to which there are a number of amendments, the relevant ones being made by S.I. [2003/1653](https://www.legislation.gov.uk/uksi/2003/1653) and S.I. [2003/2429](https://www.legislation.gov.uk/uksi/2003/2429).
+
+[^f00003]: Footnote: The definition of “extended formulary nurse prescriber” was inserted by the Misuse of Drugs (Amendment) (No. 3) Regulations 2003, S.I. [2003/2429](https://www.legislation.gov.uk/uksi/2003/2429), regulation 2(1) and (2)(a).
+
+[^f00004]: Footnote: S.I. [1997/1830](https://www.legislation.gov.uk/uksi/1997/1830), to which there are a number of amendments which are not relevant to these regulations.
+
+[^f00005]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^f00006]: Footnote: Regulation 6A was inserted by S.I. [2003/1653](https://www.legislation.gov.uk/uksi/2003/1653).
+
+[^f00007]: Footnote: Regulation 7(4) and (5) was inserted by S.I. [2003/2429](https://www.legislation.gov.uk/uksi/2003/2429).
+
+[^f00008]: Footnote: Regulation 8(7) was inserted by S.I. [2003/2429](https://www.legislation.gov.uk/uksi/2003/2429).
+
+[^f00009]: Footnote: Regulation 9(7) was inserted by S.I. [2003/2429](https://www.legislation.gov.uk/uksi/2003/2429).
+
+[^f00010]: Footnote: S.I. [1997/1001](https://www.legislation.gov.uk/uksi/1997/1001).

@@ -1,0 +1,56 @@
+---
+title: Licensing Act 2003, section 96
+act: Licensing Act 2003
+section: '96'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2003/17/section/96
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Licensing Act 2003, section 96
+
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
+>
+> Extent: England, Wales, Northern Ireland.
+
+## 96. Inspection of premises before grant of certificate etc.[^c21019571]
+
+*Extent: E+W*
+
+(1) Subsection (2) applies where—
+
+- (a) a club applies for a club premises certificate in respect of any premises,
+- (b) a club applies under section 84 for the variation of a club premises certificate held by it, or
+- (c) an application is made under section 87 for review of a club premises certificate.
+
+(2) On production of his authority—
+
+- (a) an authorised person, or
+- (b) a constable authorised by the chief officer of police,
+
+may enter and inspect the premises.
+
+(3) Any entry and inspection under this section must take place at a reasonable time on a day—
+
+- (a) which is not more than 14 days after the making of the application in question, and
+- (b) which is specified in the notice required by subsection (4).
+
+(4) Before an authorised person or constable enters and inspects any premises under this section, at least 48 hours' notice must be given to the club.
+
+(5) Any person obstructing an authorised person in the exercise of the power conferred by this section commits an offence.
+
+(6) A person guilty of an offence under subsection (5) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(7) The relevant licensing authority may, on the application of a responsible authority, extend by not more than 7 days the time allowed for carrying out an entry and inspection under this section.
+
+(8) The relevant licensing authority may allow such an extension of time only if it appears to the authority that—
+
+- (a) reasonable steps had been taken for an authorised person or constable authorised by the applicant to inspect the premises in good time, but
+- (b) it was not possible for the inspection to take place within the time allowed.
+
+## Annotations
+
+[^c21019571]: Commencement: S. 96(1)(a)(2)-(8) in force at 7.2.2005 and s. 96(1)(b) in force for certain purposes at 7.2.2005 and 24.11.2005 otherwise by [S.I. 2004/2360](https://www.legislation.gov.uk/uksi/2004/2360), [art. 2](https://www.legislation.gov.uk/uksi/2004/2360/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2360/schedule); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2](https://www.legislation.gov.uk/uksi/2005/3056/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2005/3056/schedule))

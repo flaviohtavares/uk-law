@@ -1,0 +1,62 @@
+---
+title: Crime and Courts Act 2013, section 34
+act: Crime and Courts Act 2013
+section: '34'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2013/22/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crime and Courts Act 2013, section 34
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 34. Awards of exemplary damages[^M_I_92be1a91-9810-44fa-cf2f-c4369871d239]
+
+*Extent: E+W*
+
+(1) This section applies where—
+
+- (a) a relevant claim is made against a person (“**the defendant**”),
+- (b) the defendant was a relevant publisher at the material time,
+- (c) the claim is related to the publication of news-related material, and
+- (d) the defendant is found liable in respect of the claim.
+
+(2) Exemplary damages may not be awarded against the defendant in respect of the claim if the defendant was a member of an approved regulator at the material time.
+
+(3) But the court may disregard subsection (2) if—
+
+- (a) the approved regulator imposed a penalty on the defendant in respect of the defendant's conduct or decided not to do so,
+- (b) the court considers, in light of the information available to the approved regulator when imposing the penalty or deciding not to impose one, that the regulator was manifestly irrational in imposing the penalty or deciding not to impose one, and
+- (c) the court is satisfied that, but for subsection (2), it would have made an award of exemplary damages under this section against the defendant.
+
+(4) Where the court is not prevented from making an award of exemplary damages by subsection (2) (whether because that subsection does not apply or the court is permitted to disregard that subsection as a result of subsection (3)), the court—
+
+- (a) may make an award of exemplary damages if it considers it appropriate to do so in all the circumstances of the case, but
+- (b) may do so only under this section.
+
+(5) Exemplary damages may be awarded under this section only if they are claimed.
+
+(6) Exemplary damages may be awarded under this section only if the court is satisfied that—
+
+- (a) the defendant's conduct has shown a deliberate or reckless disregard of an outrageous nature for the claimant's rights,
+- (b) the conduct is such that the court should punish the defendant for it, and
+- (c) other remedies would not be adequate to punish that conduct.
+
+(7) Exemplary damages may be awarded under this section whether or not another remedy is granted.
+
+(8) The decision on the question of—
+
+- (a) whether exemplary damages are to be awarded under this section, or
+- (b) the amount of such damages,
+
+must not be left to a jury.
+
+## Annotations
+
+[^M_I_92be1a91-9810-44fa-cf2f-c4369871d239]: Commencement: Ss. 34-39 in force at 3.11.2015 by virtue of s. 61(7) of this Act (and see explanatory note to [S.I. 2015/1837](https://www.legislation.gov.uk/uksi/2015/1837))

@@ -1,0 +1,59 @@
+---
+title: Automated Vehicles Act 2024, section 9
+act: Automated Vehicles Act 2024
+section: '9'
+status: not-yet-in-force
+text_date: '2026-05-15'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2024/10/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Automated Vehicles Act 2024, section 9
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 9. Further provision about variation, suspension and withdrawal[^key-cfdc0400bb25760ecbd577250ce9a43f]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
+
+(1) References in this Part to varying an automated vehicle authorisation include varying, adding to or omitting authorisation conditions attached to the authorisation.
+
+(2) The variation of an authorisation may be temporary or permanent.
+
+(3) An authorisation as varied must be such as the Secretary of State could grant anew.
+
+(4) The suspension or temporary variation of an authorisation—
+
+- (a) may be for a fixed period or indefinite, and
+- (b) may be lifted or reversed by the Secretary of State at any time.
+
+(5) The suspension of an authorisation means that—
+
+- (a) the authorised automated vehicle in question is no longer to be considered such for the purposes of sections 46, 78 and 79, and
+- (b) an authorised no-user-in-charge feature identified in the authorisation is no longer to be considered such for the purposes of section 34B(2) of the Road Traffic Act 1988,
+
+but does not otherwise affect the authorisation.
+
+(6) A relevant authorisation measure takes effect—
+
+- (a) when notice of it is issued to the authorised self-driving entity for the authorised automated vehicle concerned, or
+- (b) at such later time as is specified in the notice.
+
+(7) In subsection (6), “**relevant authorisation measure**” means—
+
+- (a) the variation, suspension or withdrawal of an automated vehicle authorisation,
+- (b) the reversal of a variation,
+- (c) the lifting of a suspension, or
+- (d) the restoration of a withdrawn authorisation (further to a direction under paragraph 3(3) or 4(5) of Schedule 1).
+
+(8) The Secretary of State must impose authorisation requirements designed to reduce the likelihood of a person’s unknowingly using a vehicle in a way that is no longer in accordance with an automated vehicle authorisation as a result of a variation, suspension or withdrawal.
+
+## Annotations
+
+[^key-cfdc0400bb25760ecbd577250ce9a43f]: Commencement: S. 9 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

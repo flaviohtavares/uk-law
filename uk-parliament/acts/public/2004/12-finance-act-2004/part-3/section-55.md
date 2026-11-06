@@ -1,0 +1,51 @@
+---
+title: Finance Act 2004, section 55
+act: Finance Act 2004
+section: '55'
+status: revised-with-pending-changes
+text_date: '2026-07-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2004/12/section/55
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2004, section 55
+
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 55. Duty of company to give notice of coming within charge to corporation tax
+
+*Extent: E+W+S+N.I.*
+
+(1) A company must give notice to the Board—
+
+- (a) of the beginning of its first accounting period, and
+- (b) of the beginning of any subsequent accounting period that does not immediately follow the end of a previous accounting period.
+
+(2) The notice required by this section—
+
+- (a) must be in writing;
+- (b) must state when the accounting period began;
+- (c) must contain such other information as may be prescribed;
+- (d) may be given to any officer of the Board; and
+- (e) must be given not later than three months after the beginning of the accounting period.
+
+(3) “Prescribed” in subsection (2)(c) means prescribed by regulations made by the Board.
+
+(4) A company that has a reasonable excuse for failing to give notice as required by this section—
+
+- (a) is not to be regarded as having failed to comply with this section until the excuse ceases, and
+- (b) after the excuse ceases is not to be regarded as having failed to comply with this section if the required notice is given without unreasonable delay after the excuse ceases.
+
+(5) In this section—
+
+- (a) “**accounting period**” means an accounting period for the purposes of corporation tax;
+- (b) “**company**” means a body corporate and does not include an unincorporated association or a partnership; and
+- (c) “**the Board**” means the Commissioners of Inland Revenue.
+
+(6) In the second column of the Table in section 98 of the Taxes Management Act 1970 (c. 9) (penalty for failure to provide information), at the appropriate place insert— “ section 55 of the Finance Act 2004 ”.
+
+(7) This section applies in relation to accounting periods beginning on or after the day on which this Act is passed.

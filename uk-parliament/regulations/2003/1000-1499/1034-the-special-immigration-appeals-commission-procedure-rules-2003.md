@@ -1,0 +1,1523 @@
+---
+title: The Special Immigration Appeals Commission (Procedure) Rules 2003
+id: uksi/2003/1034
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2003-04-01'
+text_date: '2023-05-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/1034
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1034/pdfs/uksi_20031034_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1034/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Special Immigration Appeals Commission (Procedure) Rules 2003
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2023-05-10. See https://www.legislation.gov.uk/changes/affected/uksi/2003/1034
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 1034
+
+IMMIGRATION
+
+The Special Immigration Appeals Commission (Procedure) Rules 2003
+
+Made
+
+1st April 2003
+
+Coming into force in accordance with rule 1
+
+The Lord Chancellor, in exercise of the powers conferred by sections 5 and 8 of the Special Immigration Appeals Commission Act 1997[^f00001] and sections 24(3) and 27(5) of the Anti-terrorism, Crime and Security Act 2001[^f00002], makes the following Rules a draft of which has, in accordance with sections 5(9) and 8(4) of the Special Immigration Appeals Commission Act 1997, been laid before and approved by resolution of each House of Parliament:
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation and commencement[^key-bbe2a4a805a9bfdc0e768c5ad1dc432e]
+
+These Rules may be cited as the Special Immigration Appeals Commission (Procedure) Rules 2003 and shall come into force forthwith.
+
+### 2. Interpretation[^key-740c3de9991121395703cb066a344bf7]
+
+(1) In these Rules—
+
+- “[^key-a4e004b5cdadd8ac0dccc392a727a11d]**1981 Act**” means the British Nationality Act 1981;
+- “the 1997 Act” means the Special Immigration Appeals Commission Act 1997[^f00003];
+- [^key-88b25d6d2c186ac029dc0e667d2ae2f5]...
+- “the 2002 Act” means the Nationality, Immigration and Asylum Act 2002[^f00004];
+- “the[^key-70d4fac9a79153a22948588daf96d24f] 2004 Act” means the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004;
+- “the 2006 Act” means the Immigration, Asylum and Nationality Act 2006;
+- “the 2016 Act” means the Immigration Act 2016;[^key-2a4060df33dd4b900532067a84d73ef9]
+- “[^key-c08a0b2afe90a3c27b69c3a036694ed8]**the 2020 Regulations**” means the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020;
+- “application by the Secretary of State under Schedule 4A to the 1981 Act” means an application by the Secretary of State to the Commission under paragraph 1(1), (2) or (6) or 2(5) of Schedule 4A to the 1981 Act to consider a decision of the Secretary of State to make a conducive grounds deprivation order without notice;
+- “appellant” means a person appealing to the Commission or, as the case may be, making an application to the Commission for review under section 2C[^key-41055445d78f38a497e8f91041286fd2] , 2D[^key-b52023ad6422317264e994c13766064b] , 2E or 2F[^key-70f2852c913c01e31bf09c11c0e419e3] of the 1997 Act, and in Part 7 is to be interpreted as additionally including—
+  - (i) in relation to applications for bail, permission to appeal or a certificate under section 7B of the 1997 Act[^key-484d63e02a3515095fa974894f340e81], the applicant; [^key-7602202418931ebe3b70b2c6c582379f]...
+  - (ii) [^key-7602202418931ebe3b70b2c6c582379f]...
+- “[^key-b138be2e2dd977a2051bf15e1adaff84]**application to the Commission for review under section 2C, 2D, 2E or 2F of the 1997 Act**” means an application to the Commission under, as the case may be, subsection (2) of section 2C, 2D, 2E or 2F of the 1997 Act to set aside a decision to which that subsection applies, and, unless the contrary intention appears, “**applying for review**” and “**application for review**” are to be read accordingly;
+- [^key-ec9c2f279c3531c0c9485ed3a5261a54]...
+- “chairman” means the chairman of the Commission;
+- “Commission” means the Special Immigration Appeals Commission;
+- “**conducive grounds deprivation order without notice**” has the same meaning as in paragraph 3 of Schedule 4A to the 1981 Act;
+- “exculpatory material” means material which adversely affects the Secretary of State’s case or supports the appellant’s case;[^key-5cad0001c45d3636c8d0bf383346f4a0]
+- “financial condition” has the meaning given in paragraph 5 of Schedule 10 to the 2016 Act;
+- “Immigration Acts” means the Acts referred to in[^key-0083b8b6fd51dabaa27cba1422c458ea] section 61(2) of the[^key-0c8d73cd31eb4d11a1594f7ed4e30c5e] UK Borders Act 2007;
+- “proceedings” means any appeal or application to[^key-97bf14369840d6fae8ea402003e2fd86]... the Commission;
+- “relevant law officer” has the meaning given by section 6(2) of the 1997 Act;
+- [^key-d9c031235fae7705e9b0f78150a49701]...
+- “special advocate” means a person appointed under section 6(1) of the 1997 Act to represent the interests of a party to proceedings;
+- “United Kingdom Representative” means the United Kingdom Representative of the United Nations High Commissioner for Refugees.
+
+(2) In relation to an appeal to the Commission under section 2B of the 1997 Act[^f00005] against a decision which was made by a person exercising the functions of the Secretary of State pursuant to section 43 of the British Nationality Act 1981[^f00006], references in these Rules to the Secretary of State are to be read as if they referred to the person who made the decision.
+
+### 3. Scope of these Rules[^key-aee2860989937ad63876845db3e8d8d7]
+
+These Rules apply to the following proceedings—
+
+- (a) appeals to the Commission;
+- (aa)[^key-249681ca375b81da90cff37112ebc8d0] applications to the Commission for review under section 2C , 2D[^key-9b0ce46580fbf81545b6755379a93614] , 2E or 2F[^key-23471493fd1f3a7cf0d9c4133d6e1115] of the 1997 Act;
+- (ab)[^key-7764e9a983c6f10a5d55fa1803ec68eb] applications to the Commission for a certificate under section 7B of the 1997 Act ;
+- (ac)[^key-290d187497afef3a399c5e5a71a0e76b] applications by the Secretary of State under Schedule 4A to the 1981 Act;
+- (b)[^key-362e975f6e4e6d9fa9c085ef2fadabe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) applications to the Commission for leave to appeal to the Court of Appeal, the Court of Session or the Court of Appeal in Northern Ireland; and
+- (d) applications to the Commission for bail.
+
+### 4. General duty of Commission[^key-4c9d5365e79c37fb7aba108f27597f64]
+
+(1) When exercising its functions, the Commission shall secure that information is not disclosed contrary to the interests of national security, the international relations of the United Kingdom, the detection and prevention of crime, or in any other circumstances where disclosure is likely to harm the public interest.
+
+(2) Where these Rules require information not to be disclosed contrary to the public interest, that requirement is to be interpreted in accordance with paragraph (1).
+
+(3) Subject to paragraphs (1) and (2), the Commission must satisfy itself that the material available to it enables it properly to determine proceedings.
+
+### 5. Delegated powers[^key-a3444def3323a8bb86494aa04aa288cc]
+
+(1) The powers of the Commission under the following provisions of these Rules may be exercised by the chairman or by any other member of the Commission who falls within paragraph 5(a) or (b) of Schedule 1 to the 1997 Act[^f00007]—
+
+- (a) rule 8(5) (extensions of time for appealing or applying for review[^key-86d402f06eceffb185788ce425c25abc]);
+- (aa)[^key-55b25320ec9db96df8caa3b642b1e0de] rule 9A (directions hearing);
+- (b) rule 11(1)[^key-777ea232cb96ba9109f0b43edf450bd4] (applications for leave to vary grounds of appeal or review[^key-64a56341635c9ef412d3fa7a53d1d888]);
+- (ba)[^key-e231e08f893a78c32f09a56c7236a0e5] Part 4A (applications to the Commission by the Secretary of State under Schedule 4A to the 1981 Act);
+- (c)[^key-3b549c3be5f67d1cdbcf6261174d4ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) Part 5 (applications for leave to appeal to Court of Appeal, Court of Session or Court of Appeal in Northern Ireland);
+- (e) Part 6 (bail);
+- (f) rule 37(5) (applications for leave to amend or supplement material filed by Secretary of State);
+- (g) rule 39 (directions);
+- (h) rule 40(1) (orders upon failure to comply with directions);
+- (i) rule 45 (issue of witness summons); and
+- (j) rule 46 (orders that two or more proceedings be heard together).
+
+(2) Anything of an administrative nature which is required or permitted to be done by the Commission under these Rules may be done by a member of the Commission’s staff.
+
+## PART 2 — APPEALS TO AND REVIEWS BY THE COMMISSION UNDER THE 1997 ACT[^key-1a9661f25026e291d0bfa0123231fd14]
+
+### 6. Scope of this Part[^key-213682405f976a9f0d3f4d77f9659d1b]
+
+This Part applies to—
+
+- (a) appeals to the Commission under section 2 or 2B of the 1997 Act and section 97A(3) of the 2002 Act; [^key-48ccd824b6940c9887f8707f34c7adab]...
+- (aa)[^key-08645b221fd6218705152d4a8f26bb45] appeals to the Commission under regulation 7 of the 2020 Regulations; and
+- (b) applications to the Commission for review under section 2C , 2D[^key-4b72643530a039298da835dd96f9ffa5] , 2E or 2F[^key-65e80dcf86d69ab5473ec84b1aa929ad] of the 1997 Act.
+
+### 7. Starting an appeal or application for review[^key-5f6de81d4001daacfdce53f809daa683][^key-6b17d7299e72efb5570e97c81c6e3657]
+
+(1) An appeal to the Commission under the 1997 Act or section 97A(3) of the 2002 Act[^key-4e28f8e50a7dc6b85fa9e85ee1e5d327] or regulation 7 of the 2020 Regulations[^key-44e21a1c5136733157b1ac5da300747e] must be made by giving notice of appeal in accordance with these Rules.
+
+(1A)[^key-b6eabe339126cc8af8498d77b04bdffc] An application to the Commission for review under the 1997 Act must be made by giving notice of application in accordance with these Rules.
+
+(2) Subject to paragraph (3), notice of appeal or notice of application for review[^key-10c64662d8eeae671fb781bdb5220346] must be given by filing it with the Commission.
+
+(3) A person who is in detention under the Immigration Acts [^key-ee2bc83dc2d3c8579861329095364aba]... may give notice of appeal or notice of application for review[^key-0c3de4ba1a0c639fd2b46f472e5fbbd6] either—
+
+- (a) in accordance with paragraph (2); or
+- (b) by serving it on the person having custody of him.
+
+(4) When a person files a notice of appeal or notice of application for review[^key-89a1b55719f397f530fa8592b632a18a] in accordance with paragraph (2), he must at the same time serve a copy of the notice and any accompanying documents on the Secretary of State.
+
+(5) Where notice of appeal or notice of application for review[^key-45e0b16f4135dcc61a4b6db974706e84] is given in accordance with paragraph (3)(b)—
+
+- (a) the person having custody of the appellant must endorse on the notice the date that it is served on him and forward it to the Commission; and
+- (b) the Commission must serve a copy of the notice and any accompanying documents on the Secretary of State.
+
+### 8. Time limit for appealing or for applying for review[^key-4891c01b225ff97e0e0fc0ada50f9826][^key-bfb95b3595f0be8b4f1cdf3b80ea4fd7]
+
+(1) Subject to the following paragraphs of this rule, a notice of appeal to the Commission under the 1997 Act , section 97A(3) of the 2002 Act or regulation 7 of the 2020 Regulations[^key-7aa48df92694bdc96fee55fa37e90c0d] or a notice of application for review under the 1997 Act[^key-70435a519b3ec0fe39b1e5ede28c8eb6] must be given—
+
+- (a) if the appellant is in detention under the Immigration Acts [^key-af872feb5832561059cdbc061b538171]... when he is served with notice of the decision against which he wishes to appeal or direction or decision in respect of which he wishes to apply for review[^key-d82dc319bd59d54895dc17fd38651ccd], not later than 5 days after he is served with that notice;
+- (b) otherwise—
+  - (i) if the appellant is in the United Kingdom, not later than 10 days; or
+  - (ii) if the appellant is outside the United Kingdom, not later than 28 days,
+
+  after the appellant is served with notice of the decision against which he wishes to appeal or direction or decision in respect of which he wishes to apply for review[^key-bfc99717450e6bc488761b3731b05f16].
+
+(2) Where the appellant—
+
+- (a) is in the United Kingdom when he is served with notice of the decision against which he wishes to appeal; and
+- (b) may not appeal against the decision while in the United Kingdom by reason of section 2(5) of the 1997 Act[^f00009] or regulation 15 of the 2020 Regulations[^key-183975093dce2679e16892aca6caf769],
+
+a notice of appeal against the decision must be given not later than 28 days after his departure from the United Kingdom.
+
+(3) Paragraph (4) applies where—
+
+- (a) the appellant has given notice of appeal under Part 5 of the 2002 Act against a decision (“the previous appeal”); and
+- (b) the previous appeal has lapsed due to a certificate being issued under section 97 of the 2002 Act while the appeal was pending.
+
+(4) Where this paragraph applies, a notice of appeal to the Commission against the decision which was the subject of the previous appeal must be given—
+
+- (a) if the appellant is in detention under the Immigration Acts [^key-791a3752799a411dfcc11046763f54fe]... when he is served with notice that the previous appeal has lapsed, not later than 5 days after he is served with that notice;
+- (b) otherwise—
+  - (i) if the appellant is in the United Kingdom, not later than 10 days; or
+  - (ii) if the appellant is outside the United Kingdom, not later than 28 days,
+
+  after the appellant is served with notice that the previous appeal has lapsed.
+
+(4A)[^key-f00245426513edef7a899c59ba795e14] Where a person is served with notice of certification under section 2C(1)(a) , section 2D(1)(b) or section 2F(1)(c)[^key-888edd0144a74b64092e233d141921f3] of the 1997 Act, the date from which the time limit for giving a notice of application for review under paragraph (1) begins is the later of the following—
+
+- (a) the date he is served with that notice of certification; or
+- (b) the date on which this paragraph came into force.
+
+(4B)[^key-de3234f7d823b571c3616da29f74362d] Paragraph (4C) applies where—
+
+- (a) an appellant (“A”) applies for an administrative review of an appealable decision (“**the original decision**”) under the relevant rules, and
+- (b) A had not, before A receives notice of the decision on administrative review, given a notice of appeal to the Commission under regulation 7 of the 2020 Regulations against the original decision.
+
+(4C) Where this paragraph applies, A must give a notice of appeal to the Commission under regulation 7 of the 2020 Regulations against the original decision—
+
+- (a) if A is in detention under the Immigration Acts, not later than 5 days after A receives the notice of the decision on administrative review;
+- (b) otherwise—
+  - (i) if A is in the United Kingdom, not later than 10 days after A receives the notice of the decision on administrative review, or
+  - (ii) if A is outside the United Kingdom, subject to paragraph (4D), not later than 28 days after A receives the notice of the decision on administrative review.
+
+(4D) Where A—
+
+- (a) is in the United Kingdom when A receives the notice of the decision on administrative review, and
+- (b) may not appeal against the original decision while in the United Kingdom by reason of regulation 15 of the 2020 Regulations,
+
+a notice of appeal against the original decision must be given not later than 28 days after A's departure from the United Kingdom.
+
+(4E) In this rule—
+
+- “**appealable decision**” has the meaning given in regulation 2 of the 2020 Regulations;
+- “[^key-1a0fee256c8320747e7334f7d8a176d8]**relevant rules**” means—
+  - (a) Appendix AR(EU) and Appendix AR (administrative review) to the immigration rules,[^key-5b9e41234dd0ba03c0c336b339380763]
+  - (b) the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020 (see regulations 21 to 23 of those Regulations).
+
+(5) The Commission may extend the time limits in this rule if satisfied that by reason of special circumstances it would be unjust not to do so.
+
+### 9. Contents of notice of appeal or notice of application for review[^key-85e0bf1b01f3c1342850bdab6b72c90d][^key-1bddeb5f7dc7f3be0bd8b7a44c90b328]
+
+(1) The notice of appeal must set out the grounds for the appeal and give reasons in support of those grounds.
+
+(1A)[^key-14f00a98874d0b42bea0a5b5dd6a7b82] The notice of application for review must—
+
+- (a) specify, by reference to the principles which would be applied in an application for judicial review, the grounds for applying for a review;
+- (b) give reasons in support of those grounds; and
+- (c) specify the order or relief sought.
+
+(2) The notice of appeal or application for review[^key-dbdb15d3b213f28fb671978df5a55ff5] must state the name and address of—
+
+- (a) the appellant; and
+- (b) any representative of the appellant.
+
+(3) The notice of appeal or application for review[^key-1e6968ace6eb31e183ef6b02ce0594f5] must be signed by the appellant or his representative, and dated.
+
+(4) If the notice of appeal or application for review[^key-c3b2c3311d7c0d902fad7ebd16929885] is signed by the appellant’s representative, the representative must certify in the notice of appeal or application for review that he has completed the notice of appeal or application for review in accordance with the appellant’s instructions.
+
+(5)[^key-4749724ab9a5228de775f0b706563a29] The appellant must attach to the notice of appeal or application for review a copy of the notice of direction or decision against which he is appealing, or in respect of which he is applying for review, and any other document which was served on him containing reasons for that direction or decision.
+
+### 9A. Directions hearing[^key-d87b3119358a43d7e898aebd404baa2a]
+
+(1) The Commission must, unless it orders otherwise, fix a directions hearing as soon as reasonably practicable after notice of appeal or notice of application for review[^key-f6477f9eab213994bfc9033ac14e10af] is filed under rule 7, at which the parties and their representatives, and any special advocate, may be present.
+
+(2) At a directions hearing the Commission may give directions as to the order in which, and the time within which, the following documents are to be filed and served—
+
+- (a) the statement and any material to be filed by the Secretary of State under rule 10(1);
+- (b) any statement to be filed and served by the appellant under rule 10A(1);
+- (c) any application to be made by the appellant or the special advocate under rule 10A(5);
+- (d) any statement or material to be filed under rule 10A(2) or pursuant to a direction under rule 10A(7), or served under rule 10A(8), by the Secretary of State;
+- (e) closed material, to be served by the Secretary of State on the special advocate under rule 10(4), 10A(8)(a) or 37(3);
+- (f) any reply by the special advocate under rule 38(4)(a) to any objection by the Secretary of State to disclosure;
+- (g) any response by the Secretary of State under rule 38(4)(b) to the special advocate’s reply;
+- (h) any skeleton arguments on behalf of the parties and the special advocate.
+
+(3) The Commission may also give directions as to the date of—
+
+- (a) any hearing of an application for bail under Part 6 of these Rules;
+- (b) any hearing under rule 38;
+- (c) the hearing of the appeal or application for review[^key-21c95471f5ea7d175acbf6356a2fcf0b] under rule 12.
+
+### 10. Secretary of State’s reply to an appeal[^key-8b1a750dc8201f97390e69b1b9bcac85][^key-8fd344b215ad6a3e8cae3c8f556458a7]
+
+(A1)[^key-8104931e33a7ecba595c1be20ed253cd] This rule does not apply to an application to the Commission for review under section 2C , 2D[^key-301c71bae4055318ae703edf42e5c5db] , 2E or 2F[^key-68b23dd5e0e640c7fce0f2524b1be72d] of the 1997 Act.
+
+(1)[^key-dc40bebbabbb69bc8abb9667466946ad] Where the Secretary of State intends to oppose an appeal, he must file with the Commission—
+
+- (a) a statement of the evidence on which he relies in opposition to the appeal; and
+- (b) any exculpatory material of which he is aware.
+
+(2) Unless the Secretary of State objects to the statement being disclosed to the appellant or his representative, he must serve a copy of the statement of evidence on the appellant at the same time as filing it.
+
+(3) Where the Secretary of State objects to a statement filed under paragraph (1) being disclosed to the appellant or his representative, rules 37 and 38 shall apply.
+
+(4)[^key-3e66e806d3cf23c5565c173b8a4a32b5] Where a special advocate is appointed, the Secretary of State must serve on him a copy of the statement and material filed under paragraph (1).
+
+### 10A. Further material in relation to an appeal[^key-d62ee5e245143fdb3b5ab79e17e6898b][^key-217ad39d4c0f87efe4c190d99fc8580a]
+
+(A1)[^key-fd7ec4f8337acc2c0d2376a76b0bd4b5] This rule does not apply to an application to the Commission for review under section 2C , 2D[^key-acef3a2170a41a80a00b3c0d67699303] , 2E or 2F[^key-661a1861a9a20b367642069eb1f3bdca] of the 1997 Act.
+
+(1) Where the appellant wishes to rely on evidence in support of his appeal, he must file with the Commission and serve on the Secretary of State and on any special advocate a statement of that evidence.
+
+(2) Where the appellant serves a statement under paragraph (1), the Secretary of State must—
+
+- (a) make a reasonable search for exculpatory material;
+- (b) notify the appellant of the extent of that search, subject to paragraph (4);
+- (c) file with the Commission any exculpatory material; and
+- (d) if he wishes to rely on further evidence, file with the Commission a statement of that evidence.
+
+(3) The factors relevant in deciding the reasonableness of a search include the following—
+
+- (a) the number of documents involved;
+- (b) the nature and complexity of the proceedings;
+- (c) whether the documents are in the control of the Secretary of State;
+- (d) the ease and expense of retrieval of any particular document;
+- (e) the significance of any document which is likely to be located during the search.
+
+(4) Where the Secretary of State considers that the disclosure of particular information in the notification under paragraph (2)(b) would be contrary to the public interest, he must—
+
+- (a) omit that information from the notification to be served on the appellant; and
+- (b) serve a copy of the notification, including that information, on the special advocate.
+
+(5) Both the appellant and any special advocate may apply to the Commission for a direction requiring the Secretary of State to file further information about his case, or other information.
+
+(6) An applicant under paragraph (5) must indicate why the information sought is necessary for the determination of the appeal.
+
+(7) The Commission may make a direction on an application under paragraph (5) where it considers that the information sought—
+
+- (a) is necessary for the determination of the appeal; and
+- (b) may be provided without disproportionate cost, time or effort.
+
+(8) The Secretary of State must serve a copy of any statement or material filed under paragraph (2) or of information filed pursuant to a direction under paragraph (7), at the same time as filing it, on—
+
+- (a) any special advocate; and
+- (b) the appellant, unless he objects to the disclosure of the statement, material or information to the appellant or his representative.
+
+(9) Where the Secretary of State objects to any such disclosure, rules 37 and 38 apply.
+
+(10) Any duty to file material or a statement of evidence continues until the appeal has been determined.
+
+(11) Where material or a statement to which that duty extends comes to a party’s attention before the appeal has been determined, he must immediately—
+
+- (a) file it with the Commission; and
+- (b) serve it on the other party and on any special advocate, except that paragraphs (8) and (9) apply to that material or statement as they apply to the material and statement referred to in those paragraphs.
+
+### 10B. Secretary of State’s reply to an application for review[^key-95d124d0017d6bce31e9dbb0c2ff1970]
+
+(1) Where the Secretary of State intends to oppose an application for review, he must file with the Commission—
+
+- (a) a statement of the evidence on which he relies in opposition to the application for review; and
+- (b) material relevant to the issues in the application for review.
+
+(2) Unless the Secretary of State objects to the statement and material filed under paragraph (1), or to part thereof, being disclosed to the appellant or his representative, he must serve a copy of the statement and material, or as much of the statement and material as he does not object to disclosing to the appellant or his representative, on the appellant at the same time as filing it.
+
+(3) Where the Secretary of State objects to the statement and material filed under paragraph (1), or to part thereof, being disclosed to the appellant or his representative, rules 37 and 38 shall apply in respect of the statement and material, or the part thereof which the Secretary of State objects to disclosing to the appellant or his representative.
+
+(4) Where a special advocate is appointed, the Secretary of State must serve on him a copy of the statement and material filed under paragraph (1).
+
+### 11. Variation of grounds of appeal or application for review[^key-da5112fc4321e4a887ec0c810f730321][^key-3d0f4514ba34247116a63f1b6caeba83]
+
+(1) Subject to section 85(2) of the 2002 Act[^f00010], the appellant may vary the grounds of appeal or application for review[^key-96fc0cf51a21a068addf5942b8425bd3] only with the leave of the Commission.
+
+(2) The appellant must file any proposed variation of the grounds of appeal or application for review[^key-9722ca2a88d60725e09457c9d29b1299] with the Commission and serve a copy on the Secretary of State.
+
+### 11A. Withdrawal of appeal or application for review[^key-5bdf156e56a2c5f8b38cf150d06a022f][^key-e38f9418d4cc8d0fb5ba08b99dc45fd4]
+
+(1) An appellant may withdraw an appeal or application for review[^key-6ff17d354be66983a851ea89d7f29797]—
+
+- (a) orally, at a hearing; or
+- (b) at any time, by filing written notice with the Commission.
+
+(2) An appeal or application for review[^key-d56ae377ec8a435492a82d49af060a0f] shall be treated as withdrawn if the Secretary of State notifies the Commission that the decision to which the appeal or application for review relates has been withdrawn.
+
+(3) If an appeal or application for review[^key-b857ad847a9ba1b38ddcd22c638c3592] is withdrawn or treated as withdrawn, the Commission must serve on the parties and on any special advocate a notice that the appeal or application for review has been recorded as having been withdrawn.
+
+### 11B. Striking out[^key-d9175f2593f33a2c2b6792f8266fd219]
+
+The Commission may strike out—
+
+- (a) a notice of appeal, a notice of application for review or a reply by the Secretary of State, if it appears to the Commission that it discloses no reasonable grounds for bringing or defending the appeal or for seeking or opposing the application for review, as the case may be; or
+- (b) a notice of appeal or a notice of application for review, if it appears to the Commission that it is an abuse of the Commission’s process.
+
+### 12. Hearing of appeal or application for review[^key-f7ab4f1c9859272b16832601c437b5c8][^key-8af62c432047b47a4b67b23bf8faa6f1]
+
+(1)[^key-27e3abf7dbbb2d01df998587d562ae00] Every appeal and every application for review[^key-8c49bc4b4d4b897426b0ecc6c1ba1299] must be determined at a hearing before the Commission, except where—
+
+- (a) the appeal—
+  - (i) is treated as abandoned pursuant to section 2(4) of the 1997 Act[^f00011] or section[^key-90c9caf79f82af4d8079e64c1c047c42] 104(4A) or (4B)[^key-d51dd234cb39608066c88f5fbe5d1c25] of the 2002 Act[^f00012] or regulation 13(3) of the 2020 Regulations[^key-547bc1c2c648ed61946528a2ceefd223];
+  - (ii)[^key-b510255eb95163914119ab6ddc4f4cee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) is withdrawn by the appellant;
+- (aa)[^key-25402a4f30814dd141e1ae35f2a7bedb] the application for review is withdrawn by the appellant;
+- (b)[^key-77960e5937b5eb909ccdd230efebeaf7] the Secretary of State consents to—
+  - (i) the appeal being allowed; or
+  - (ii) the granting of the order or the relief sought in an application for review; or
+- (c) the appellant is outside the United Kingdom or it is impracticable to give him notice of a hearing and, in either case, he is unrepresented.
+
+(2)[^key-907db54ff9c802ef902113963c891bd0] A party to an appeal under the 2020 Regulations must notify the Commission if they are aware that the appeal is to be treated as abandoned under regulation 13 of those Regulations.
+
+(3) Where an appeal would otherwise be treated as abandoned under regulation 13(3) of the 2020 Regulations but the appellant wishes to pursue their appeal, the appellant must provide a notice to the Commission and to each other party within the relevant period.
+
+(4) For the purposes of paragraph (3), “the relevant period” is the period of 28 days beginning with the day on which the appellant was sent notice of the grant of leave to enter or remain in the United Kingdom.
+
+## PART 3 — CERTIFICATION: APPEALS
+
+### 13. Scope of this Part[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Notice of appeal[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Time limit for appealing[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Secretary of State’s reply[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Variation of grounds of appeal[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Hearing of appeal[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Determination of appeal[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — CERTIFICATION: REVIEWS
+
+### 20. Scope of this Part[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Commencement of first review[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Application for review[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Method of conducting review[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Evidence and written submissions[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Determination of review[^key-234cbf13ce313d264a18cad660cc630c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4A — Applications to the Commission by the Secretary of State under Schedule 4A to the 1981 Act[^key-fc465a0e5c5c986ecafc081ed4c31c3f]
+
+### 25A. Scope
+
+This Part applies to an application by the Secretary of State under Schedule 4A to the 1981 Act.
+
+### 25B. Contents of application
+
+(1) The application must set out the following information.
+
+(2) The following information about the person who is the subject of the relevant conducive grounds deprivation order—
+
+- (a) the person’s name,
+- (b) the person’s date of birth,
+- (c) the person’s nationality or nationalities, and
+- (d) the relevant Home Office reference.
+
+(3) If any of the information mentioned in paragraph (2)(a) to (d) is not known to the Secretary of State, the Secretary of State does not have to provide that information.
+
+(4) Whether the application relates to a conducive grounds deprivation order—
+
+- (a) which the Secretary of State proposes to make, or
+- (b) which the Secretary of State has made.
+
+(5) If the application relates to a conducive grounds deprivation order which the Secretary of State has made, the date on which that order was made.
+
+(6) If the application is for fresh consideration of a decision the Secretary of State has made, pursuant to paragraph 1(6) of Schedule 4A to the 1981 Act, the date of the Commission’s previous determination relating to that decision and whether—
+
+- (a) in the opinion of the Secretary of State, circumstances have changed materially since that previous determination, or
+- (b) the Secretary of State wishes to provide further evidence to the Commission.
+
+(7) Whether the application is made pursuant to paragraph 2(5) of Schedule 4A to the 1981 Act (expiry of final review period).
+
+(8) The grounds for the Secretary of State’s decision by reference to—
+
+- (a) section 40(5A)(a) (the Secretary of State does not have the information needed to be able to give the notice),
+- (b) section 40(5A)(b)(i) (national security),
+- (c) section 40(5A)(b)(ii) (the investigation or prosecution of organised or serious crime),
+- (d) section 40(5A)(b)(iii) (preventing or reducing a risk to the safety of any person), or
+- (e) section 40(5A)(b)(iv) (the relationship between the United Kingdom and another country).
+
+### 25C. Variation of application
+
+The Secretary of State may do any of the following by filing written notice with the Commission—
+
+- (a) vary the grounds for the Secretary of State’s decision (see rule 25B(8));
+- (b) file new documents in support of the Secretary of State’s decision;
+- (c) amend, add to or withdraw any document filed in support of the Secretary of State’s decision.
+
+### 25D. Withdrawal of application
+
+The Secretary of State may withdraw an application by filing written notice to the Commission.
+
+### 25E. Determinations on paper
+
+(1) The Commission must determine the application on paper without a hearing before the Commission.
+
+(2) The Commission must determine the application no later than 14 days after the Commission receives the application.
+
+(3) Where the Secretary of State varies an application under rule 25C, the Commission may fix a new date within which the Commission must determine the application, being no later than 14 days after the Commission receives notice of the variation.
+
+(4) The Commission must notify the Secretary of State in writing of any new date fixed in accordance with paragraph (3).
+
+## PART 5 — APPLICATIONS FOR LEAVE TO APPEAL ETC FROM COMMISSION[^key-0f97d6427a25554aa1ed2a97f112f137]
+
+### 26. Scope of this Part[^key-cb617a2d3a275a03ea88217d842a4d8a]
+
+This Part applies to—
+
+- (a) applications to the Commission for leave to appeal to the Court of Appeal, the Court of Session or the Court of Appeal in Northern Ireland from a final determination by the Commission—
+  - (i) of an appeal, on a question of law, [^key-f68ec9711fc5d0c58e15df3b8a904d53]...
+  - (ii) of an application for review under section 2C, 2D , 2E or 2F[^key-91c20319741c45f709973efd79a92699] of the 1997 Act, [^key-0f91bbe4ab41ab80048e0b395f858999]... , or[^key-e5861a49277e57645bc1d6785ad2c701]
+  - (iii) of an application by the Secretary of State under Schedule 4A to the 1981 Act, and
+- (b) applications to the Commission for a certificate under section 7B of the 1997 Act.
+
+### 27. Application for leave to appeal[^key-ae9e3610909633f86614e402b992532e]
+
+(1) An application for leave to appeal must be made by filing with the Commission an application in writing.
+
+(2)[^key-00d5414fe7d4f03fdd6573cd8079537c] Subject to paragraph (2B), the applicant must file any application for leave to appeal with the Commission within 14 days of being served with the Commission’s determination under rule 47(3) or (3A), as the case may be[^key-70b43271110698a281b7400d1d31d010].
+
+(2A)[^key-7a6926a9e6b6362c674377f80c127889] An applicant who wishes to apply for a certificate under section 7B of the 1997 Act must file an application under rule 27A with the Commission on the same day as filing an application for leave to appeal.
+
+(2B) The Commission may accept an application filed after the expiry of the relevant period in paragraph (2) [^key-806aa6756fc226b777d0887e54e0628a]... if it is satisfied that, by reason of special circumstances, it would be unjust not to do so.
+
+(3) The application must—
+
+- (a) state the grounds of appeal; and
+- (b) be signed by the applicant or his representative, and dated.
+
+(4) The applicant must serve a copy of the application notice on every other party.
+
+(5) The Commission may decide an application for leave without a hearing unless it considers that there are special circumstances which make a hearing necessary or desirable.
+
+### 27A. Application for a certificate under section 7B[^key-5653004872b31cdf8a67edfead0b0974]
+
+(1) An application for a certificate under section 7B of the 1997 Act must be made by filing with the Commission an application in writing.
+
+(2) Subject to paragraph (3), the applicant must file any application for a certificate with the Commission not later than 14 days after being served with the Commission’s determination under rule 47(3).
+
+(3) The Commission may accept an application filed after the expiry of the relevant period in paragraph (2) if it is satisfied that, by reason of special circumstances, it would be unjust not to do so.
+
+(4) The application must—
+
+- (a) state the grounds on which the applicant believes the conditions in subsection (4) or (5) of section 7B of the 1997 Act are met; and
+- (b) be signed by the applicant or their representative, and dated.
+
+(5) The applicant must serve a copy of the application notice on every other party.
+
+(6) When an applicant files the application for a certificate with the Commission, the applicant must on the same day also file with the Commission an application for leave to appeal under rule 27.
+
+(7) On receipt of an application for a certificate the Commission must first decide that application before deciding the application for leave to appeal.
+
+(8) The Commission may decide an application for a certificate without a hearing unless it considers that there are special circumstances which make a hearing necessary or desirable.
+
+## PART 6 — BAIL
+
+### 28. Scope of this Part and interpretation[^key-bba414cdaba92bd1ddb4ab74cc27b79f]
+
+This Part applies to applications to the Commission under—
+
+- (a) the Immigration Acts; [^key-689a1515fa62ce72c5f7301ff6bdc2dd]...
+- (b)[^key-689a1515fa62ce72c5f7301ff6bdc2dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+by persons detained under those Acts, to be released on bail.
+
+### 29. Application for bail[^key-ad5bcbea71029088b566d7fa8d1edbf2]
+
+(1) An application to be released on bail must be made by filing with the Commission an application in writing.
+
+(2) The application must contain the following details—
+
+- (a) the applicant's—
+  - (i) full name;
+  - (ii) date of birth; and
+  - (iii) date of arrival in the United Kingdom;
+- (b) the address of the place where the applicant is detained;
+- (c) whether there are pending before the Commission any proceedings to which the applicant is a party;
+- (d) the address where the applicant will reside if his application for bail is granted or, if he is unable to give such an address, the reason why an address is not given;
+- (e)[^key-d677681f603cca8bc8fafa3a4e4a8f67] the amount of the financial condition that the applicant proposes as a condition of bail;
+- (f)[^key-2e7de08d987fe625e21a2156be855524] the full names, addresses, occupations and dates of birth of any persons, other than the applicant, who have agreed to propose a financial condition as a condition of the applicant’s bail, and the amount that they propose.
+- (fa)[^key-3fa382bfeaebe84facd16fa4d0319841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) the grounds on which the application is made and, where a previous application has been refused, full details of any change in circumstances which has occurred since the refusal; and
+- (h) whether the applicant requires an interpreter at the hearing and, if so, for what language and dialect.
+
+(3) The application must be signed by the applicant or his representative or, in the case of an applicant who is a child or is for any other reason incapable of acting, by a person acting on his behalf.
+
+### 30. Bail hearing and decision[^key-ff5592ddd3d1b4ad6a2e4e11cb348929]
+
+(1) Where an application for bail is filed, the Commission must—
+
+- (a) as soon as reasonably practicable, serve a copy of the application on the Secretary of State; and
+- (b) fix a hearing , unless a hearing has already been fixed under rule 9A(3)(a)[^key-7318fbe43fd36d3c8a317dadba45886b] or it has determined in accordance with rule 30A that there has not been a material change in circumstances[^key-b66e3157e900db7d31b75726c280612a].
+
+(2) If the Secretary of State wishes to contest the application, he must file with the Commission a written statement of his reasons for doing so—
+
+- (a) not later than 2.00 p.m. the day before the hearing; or
+- (b) where he received notice of the hearing less than 24 hours before that time, as soon as reasonably practicable.
+
+(3) If the Secretary of State objects to a statement filed under paragraph (2) being disclosed to the applicant or his representative, rules 37 and 38 shall apply.
+
+(4) The Commission must serve written notice of—
+
+- (a) its decision upon an application for bail; and
+- (b) if and to the extent that it is possible to do so without disclosing information contrary to the public interest, the reasons for its decision,
+
+on the applicant, the Secretary of State, and the person having custody of the applicant.
+
+(5) Where bail is granted, the notice must include—
+
+- (a) the conditions of bail; and
+- (b)[^key-59ec2fa4bdb80c096ffe66e6c1e0060f] the amount of any financial condition which the Commission has imposed on the applicant or on any other person as a condition of bail.
+
+(6)[^key-db183eead9108e263624276460839e90] Details of the financial condition must be in writing and must state—
+
+- (a) the sum of money that is required to be paid; and
+- (b) that the person on whom the Commission has imposed the financial condition has read and understood the bail decision, and that he or she agrees to pay the amount of money stated in it if the applicant fails to comply with the conditions set out in the bail decision.
+
+(7)[^key-4b920f349d992b5236f9e39eef71af2e] The document referred to in rule 30(6) must be—
+
+- (a) signed by the person on whom it has been imposed; and
+- (b) filed with the Commission.
+
+(8) The person having custody of an applicant must release him upon—
+
+- (a) being served with a copy of the decision to grant bail; and
+- (b)[^key-8f60beba72ffe44e4abe873c7440c14f] being satisfied that rule 30(7) has been complied with in respect of any financial condition imposed as a condition of bail.
+
+### 30A. Repeat applications for bail[^key-df2432e6834b881b48e188048623a6cd]
+
+(1) Where the Commission has decided not to release a person on bail under Schedule 10 to the 2016 Act[^key-89507bf2d9faa8c20fa284b115088f31], the Commission must dismiss any further application by the person for release on bail that is made during the period of 28 days starting with the date of the Commission’s decision, unless the Commission determines that there has been a material change in circumstances.
+
+(2) The Commission may determine whether there has been a material change in circumstances without a hearing.
+
+### 30B. Power to vary bail conditions[^key-6e6094221ba64d10751d57330751677c]
+
+(1) Subject to paragraph (2), where bail is granted by the Commission, the Commission may direct that the Secretary of State has the power to amend or remove bail conditions or impose new bail conditions.
+
+(2) The Commission may not give a direction under paragraph (1) without first giving the person being granted bail and any other person subject to a financial condition an opportunity to make representations.
+
+(3) Where the Commission has made a direction under paragraph (1), it may not amend or remove bail conditions or impose new bail conditions in relation to the person who has been granted bail.
+
+### 31. Application of this Part to Scotland[^key-145c2bf8172272f7dc1376cff51759cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — GENERAL PROVISIONS
+
+### 32. Parties[^key-26c07d063b5db33ee9ee339866bd7364]
+
+(1) Subject to rule 2(2) and to paragraph (2) of this rule, the parties to proceedings shall be the appellant and the Secretary of State.
+
+(2) The United Kingdom Representative may give written notice to the Commission that he wishes to be treated as a party to proceedings, and where he gives such notice he shall be treated as a party from the date of the notice.
+
+(3) Any restriction imposed by or under these Rules in relation to the appellant as to—
+
+- (a) the disclosure of material;
+- (b) attendance at hearings;
+- (c) notification of orders, directions or determinations; and
+- (d) communication from the special advocate,
+
+shall also apply to the United Kingdom Representative where he is a party.
+
+(4)[^key-6179a48571a3098aad9dfdf74659e985] Paragraphs (1) to (3) do not apply to an application by the Secretary of State under Schedule 4A to the 1981 Act.
+
+(5) For an application by the Secretary of State under Schedule 4A to the 1981 Act, the Secretary of State is the only party to proceedings.
+
+### 33. Representation of parties[^key-012779a8d59f0cfa98df5a92d7346adc]
+
+(1) The appellant may act in person or be represented by—
+
+- (a) a person having a qualification referred to in section 6(3) of the 1997 Act;
+- (b)[^key-f59071db0ee80979fdcfdb39b413d450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) with the leave of the Commission, any other person,
+
+provided that the person referred to in sub-paragraph (a) or (c)[^key-bfce6718b136d5393e482cd299ed66ac] is not prohibited from providing immigration services by section 84 of the Immigration and Asylum Act 1999[^f00014].
+
+(2) The Secretary of State and the United Kingdom Representative may be represented by any person authorised by them to act on their behalf.
+
+### 34. Appointment of special advocate[^key-1083674ac81231a8ed37da4be441b0c2]
+
+(1) Subject to paragraph (2), the Secretary of State must, upon being served with a copy of a notice of appeal, application for review or other application[^key-8562b668f94ce48a4d2b8796c39873be] under these Rules, give notice of the proceedings to the relevant law officer.
+
+(2) Paragraph (1) applies unless—
+
+- (a) the Secretary of State does not intend to—
+  - (i) oppose the appeal or application; or
+  - (ii) object to the disclosure of any material to the appellant; or
+- (b) a special advocate has already been appointed to represent the interests of the appellant in the proceedings.
+
+(3) Where notice is given to the relevant law officer under paragraph (1), the relevant law officer may appoint a special advocate to represent the interests of the appellant in proceedings before the Commission.
+
+(4) Where any proceedings before the Commission are pending but no special advocate has been appointed, the appellant or the Secretary of State may at any time request the relevant law officer to appoint a special advocate.
+
+### 35. Functions of special advocate[^key-863c6114f15622b8f5be84146b238df9]
+
+The functions of a special advocate are to represent the interests of the appellant by—
+
+- (a) making submissions to the Commission at any hearings from which the appellant and his representatives are excluded;
+- (b) adducing evidence and[^key-c2f40db2db49f0cafeb4644110f54130] cross-examining witnesses at any such hearings; and
+- (c) making written submissions to the Commission.
+
+### 36. Special advocate: communicating about proceedings[^key-999e9326812055ec64f9d2c6726129c6]
+
+(1) The special advocate may communicate with the appellant or his representative at any time before the Secretary of State serves material on him which he objects to being disclosed to the appellant.
+
+(2) After the Secretary of State serves material on the special advocate as mentioned in paragraph (1), the special advocate must not communicate with any person about any matter connected with the proceedings, except in accordance with paragraph (3) or (6)(b)[^key-315ed7841dce4cd3fefff2b44d086f33] or a direction of the Commission pursuant to a request under paragraph (4).
+
+(3) The special advocate may, without directions from the Commission, communicate about the proceedings with—
+
+- (a) the Commission;
+- (b) the Secretary of State, or any person acting for him;
+- (c) the relevant law officer, or any person acting for him;
+- (d) any other person, except for the appellant or his representative, with whom it is necessary for administrative purposes for him to communicate about matters not connected with the substance of the proceedings.
+
+(4) The special advocate may request directions from the Commission authorising him to communicate with the appellant or his representative or with any other person.
+
+(5) Where the special advocate makes a request for directions under paragraph (4)—
+
+- (a) the Commission must notify the Secretary of State of the request; and
+- (b) the Secretary of State must, within a period specified by the Commission, file with the Commission and serve on the special advocate notice of any objection which he has to the proposed communication, or to the form in which it is proposed to be made.
+
+(6) Paragraph (2) does not prohibit the appellant from communicating with the special advocate after the Secretary of State has served material on him as mentioned in paragraph (1), but—
+
+- (a) the appellant may only communicate with the special advocate through a legal representative in writing; and
+- (b) the special advocate must not reply to the communication other than in accordance with directions of the Commission, except that he may without such directions send a written acknowledgment of receipt to the appellant’s legal representative.
+
+### 37. Closed material[^key-7103f3597ae5a3234b8dc0ce8d629bf0]
+
+(1)[^key-74e3a836c07055c4bd62e3e0674d1e3a] In this rule, “**closed material**” means material which the Secretary of State would otherwise be required to disclose to the appellant or his representative under rule 10, 10A or 10B, but which the Secretary of State objects to disclosing to the appellant or his representative.
+
+(2) The Secretary of State may not rely upon closed material unless a special advocate has been appointed to represent the interests of the appellant.
+
+(3) Where the Secretary of State is required by rule[^key-b112b954d6657afdf7779b45112f4126] 10(2), 10A(8) or 10B(2)[^key-fc309593927d793c5d28f5cd2fc9ca8d] to serve on the appellant, or wishes to rely upon, closed material and a special advocate has been appointed, the Secretary of State must file with the Commission and serve on the special advocate—
+
+- (a) a copy of the closed material , if he has not already done so[^key-645ffe107a5f0f4a1eefca9af7da68ae];
+- (b) a statement of his reasons for objecting to its disclosure; and
+- (c) if and to the extent that it is possible to do so without disclosing information contrary to the public interest, a statement of the material in a form which can be served on the appellant.
+
+(4) The Secretary of State must, at the same time as filing it, serve on the appellant any statement filed under paragraph (3)(c).
+
+(4A)[^key-71706934042742bed7bda694d768a97c] Where the Secretary of State serves on the special advocate any closed material which he has redacted on grounds other than those of legal professional privilege—
+
+- (a) he must file the material with the Commission in an unredacted form, together with an explanation of the redactions; and
+- (b) the Commission must give a direction to the Secretary of State as to what he may redact.
+
+(5) The Secretary of State may, with the leave of the Commission or the agreement of the special advocate[^key-7992e899865437325ba30fe2d55748ab], at any time amend or supplement material filed under this rule.
+
+### 38. Consideration of Secretary of State’s objection[^key-8723e7b75a69f684cd66dd2332e3b2f7]
+
+(1) Where the Secretary of State makes an objection under rule 36(5)(b) or rule 37, the Commission must decide in accordance with this rule whether to uphold the objection.
+
+(2) The Commission must fix a hearing for the Secretary of State and the special advocate to make oral representations, unless—
+
+- (a) the special advocate gives notice to the Commission that he does not challenge the objection;
+- (b) the Commission has previously considered an objection by the Secretary of State relating to the same or substantially the same communication or material[^key-54e7c980ffccd6f7daf3e77ecc4dfcbe], and is satisfied that it would be just to uphold the objection without a hearing; or
+- (c) the Secretary of State and the special advocate consent to the Commission deciding the issue without an oral hearing.
+
+(3) If the special advocate does not challenge the objection, he must give notice of that fact to the Commission and the Secretary of State within 14 days after the Secretary of State serves on him a notice under rule 36(5)(b) or material under rule 37(3).
+
+(4)[^key-25bb29a3f438049d44a040147878b6e4] Where the Commission fixes a hearing under this rule—
+
+- (a) the special advocate may file with the Commission and serve on the Secretary of State a reply to the Secretary of State’s objection;
+- (b) the Secretary of State may file with the Commission and serve on the special advocate a response to the special advocate’s reply;
+- (c) the Secretary of State and the special advocate must file with the Commission a schedule identifying the issues which cannot be agreed between them, which must—
+  - (i) list the items or issues in dispute;
+  - (ii) give brief reasons for their contentions on each; and
+  - (iii) set out any proposals for the Commission to resolve the issues in dispute.
+
+(5) A hearing under this rule shall take place in the absence of the appellant and his representative.
+
+(6)[^key-78210266bab2d5f36e8d8aa2c6ab4abb] The Commission may uphold or overrule the Secretary of State’s objection.
+
+(7) The Commission must uphold the Secretary of State’s objection under rule 37 where it considers that the disclosure of the material would be contrary to the public interest.
+
+(8) Where the Commission upholds the Secretary of State’s objection under rule 37, it must—
+
+- (a) consider whether to direct the Secretary of State to serve a summary of the closed material on the appellant; and
+- (b) approve any such summary, to secure that it does not contain any information or other material the disclosure of which would be contrary to the public interest.
+
+(9) Where the Commission overrules the Secretary of State’s objection under rule 37 or directs him to serve a summary of the closed material on the appellant—
+
+- (a) the Secretary of State shall not be required to serve that material or summary; but
+- (b) if he does not do so, the Commission may at a hearing at which the Secretary of State and the special advocate may make representations —
+  - (i) if it considers that the material or anything that is required to be summarised might adversely affect the Secretary of State’s case or support the appellant’s case, direct that the Secretary of State shall not rely on such points in his case, or shall make such concessions or take such other steps, as the Commission may specify; or
+  - (ii) in any other case, direct that the Secretary of State shall not rely in the proceedings on that material or (as the case may be) on that which is required to be summarised.
+
+### 38A. Other redactions[^key-22a600f74a3be6b2f9f320f58dab4298]
+
+In any proceedings before the Commission, where the Secretary of State serves on the appellant any statement or material which he has redacted on grounds other than those of legal professional privilege, he must—
+
+- (a) notify the appellant that the statement or material has been redacted and on what grounds it has been redacted; and
+- (b) file the statement or material with the Commission in an unredacted form, together with an explanation of the redactions.
+
+### 39. Directions[^key-76a887cf121324381b30b526ec929b9b]
+
+(1) The Commission may , in addition to its power to give directions under rule 9A(2),[^key-5e422a2e6ce7a310d72942b4c3a467fb] give directions relating to the conduct of any proceedings.
+
+(2) The power to give directions is to be exercised subject to—
+
+- (a)[^key-ac01f2e3b673a5a68a174a8013c1270c] these Rules, including in particular—
+  - (i) the obligation in rule 4(1) to ensure that information is not disclosed contrary to the public interest; and
+  - (ii) in the case of an application by the Secretary of State under Schedule 4A to the 1981 Act, the obligations in rule 25E to determine the application on paper without a hearing before the Commission and within a particular time; and
+- (b) any decision which the Commission makes under rule 38(6).
+
+(3) Directions under this rule may be given orally or in writing.
+
+(4) Subject to rule 48, the Commission must serve notice of any written directions on every party.
+
+(5) Directions given under this rule may in particular—
+
+- (a) specify the length of time allowed for anything to be done;
+- (b) vary any time limit;
+- (c) require any party to file and serve—
+  - (i) further details of his case, or any other information which appears to be necessary for the determination of the appeal or application;
+  - (ii) witness statements;
+  - (iii) written submissions;
+  - (iv) a statement of any interpretation requirements; or
+  - (v) any other document;
+- (d) provide for—
+  - (i) a particular matter to be dealt with as a preliminary issue; or
+  - (ii) a pre-hearing review to be held;
+- (e) relate to any matter concerning the preparation for a hearing;
+- (f) specify—
+  - (i) the manner in which any evidence is to be given; and
+  - (ii) the witnesses, if any, to be heard;
+- (g) provide for a hearing to be conducted or evidence given or representations made by video link or by other electronic means; and
+- (h) make provision to secure the anonymity of the appellant or a witness.
+
+(6) The power to give directions may be exercised in the absence of the parties.
+
+### 40. Failure to comply with directions[^key-380c42f4c4250ea643d5ab78f933dad2]
+
+(1) Where a party or the special advocate fails to comply with a direction, the Commission may serve on him a notice which states—
+
+- (a) the respect in which he has failed to comply with the direction;
+- (b) a time limit for complying with the direction; and
+- (c)[^key-02ee99f9130bab48858f591215ada0fb] that the Commission may—
+  - (i) proceed to determine the appeal , application for review or application by the Secretary of State under Schedule 4A to the 1981 Act[^key-6b743e16c9f9cf8fe9bff5bcd641911e] on the material available to it if the party or special advocate fails to comply with the direction within the time specified; or
+  - (ii) in the case of a notice of appeal, notice of application for review or the Secretary of State’s reply, strike out that appeal, application for review or reply, as the case may be.[^key-4efd6b0c37a8a52ba052d6d182b6025c]
+
+(2) Where a party or special advocate who has been served with such a notice fails to comply with a direction[^key-1ae6719811d004d164652e8bafd338ef], the Commission may proceed in accordance with paragraph (1)(c).
+
+(3)[^key-ab3b99d73cdc21dfff5e3a93ae24dd26] Where the Commission has struck out a notice of appeal, notice of application for review or the Secretary of State’s reply under paragraph (1)(c)(ii), it may subsequently reinstate the notice or reply if it is satisfied that circumstances outside the control of the appellant or the Secretary of State (as the case may be) made it impracticable for the appellant or the Secretary of State to comply with the direction.
+
+### 41. Notification of hearing[^key-e8136f29b51695d917528963f601d59d]
+
+Unless the Commission orders otherwise, it must serve notice of the date, time and place fixed for any hearing on—
+
+- (a) every party, whether or not entitled to attend that hearing; and
+- (b) the special advocate, if one has been appointed.
+
+### 42. Adjournment of hearing[^key-2a0704e4c41cc39ca910ae79a9494ee8]
+
+The Commission may adjourn the hearing of any proceedings.
+
+### 43. Hearings in private[^key-94aa9211a5b0b661f024e3df8aa1347c]
+
+(1) If the Commission considers it necessary for the appellant and his representative to be excluded from a hearing or part of a hearing in order to secure that information is not disclosed contrary to the public interest, it must—
+
+- (a) direct accordingly; and
+- (b) conduct the hearing, or that part of it from which the appellant and his representative are excluded, in private.
+
+(2) The Commission may conduct a hearing or part of a hearing in private for any other good reason.
+
+### 43A. Interpreters[^key-c77a743f2397a57f2b5cbe7b8c0e7b9c]
+
+An appellant is entitled to the services of an interpreter for bringing his appeal or application for review[^key-cb9d6baa213538a94a7cbb0448134fbd]—
+
+- (a) when giving evidence; and
+- (b) in such other circumstances as the Commission considers necessary.
+
+### 44. Evidence[^key-3278790354f938d4fbcf1add08fda11b]
+
+(1) Subject to these Rules, the evidence of witnesses may be given either—
+
+- (a) orally, before the Commission;
+- (b) in writing, in which case it shall be given in such a manner and at such time as the Commission directs.
+
+(2) The Commission may also receive evidence in documentary or any other form.
+
+(3) The Commission may receive evidence that would not be admissible in a court of law.
+
+(4) No person shall be compelled to give evidence or produce a document which he could not be compelled to give or produce on the trial of a civil claim in the part of the United Kingdom in which the proceedings before the Commission are taking place.
+
+(5) Every party shall be entitled to adduce evidence and to cross-examine witnesses during any part of a hearing from which he and his representative are not excluded.
+
+(5A)[^key-730e11d631df1dd82ef21e3aa1cbb673] The special advocate shall be entitled to adduce evidence and to cross-examine witnesses.
+
+(6) The Commission may require a witness to give evidence on oath.
+
+### 45. Summoning of witnesses[^key-cdbed09f910e0877ccb7d33bc70cd293]
+
+(1) Subject to these Rules, the Commission may, by issuing a summons, require any person in the United Kingdom—
+
+- (a) to attend as a witness at the hearing of any proceedings before the Commission; and
+- (b) at the hearing, to answer any questions or produce any documents in his custody or under his control which relate to any matter in issue in the proceedings.
+
+(2) No person shall be required to attend a hearing in compliance with a summons issued under paragraph (1) unless—
+
+- (a) the summons is served on him; and
+- (b) the necessary expenses of his attendance are paid or tendered to him.
+
+(3) Where a summons is issued at the request of a party, that party must pay or tender the expenses of the witness.
+
+### 46. Hearing two or more proceedings together[^key-80115a15107068620633d5ebe6e682ef]
+
+(1) Where two or more appeals or applications[^key-6c29eb7df4fad2c4a95baf56415860af] are pending at the same time, the Commission may direct them to be heard together if—
+
+- (a) some common question of law or fact arises in each of them;
+- (b) they relate to decisions or action taken in respect of persons who are members of the same family; or
+- (c) for some other reason it is desirable for the proceedings to be heard together.
+
+(2) Except where paragraph (3)[^key-78c6509140518e287ac91e6196b799cb] applies, the Commission must give all the parties who would be entitled to attend the hearing of the proceedings an opportunity to make representations before hearing proceedings together under this rule.
+
+(3)[^key-9250e6db73a3d280215c35aa8ed4ac0f] Where two or more appeals which relate to decisions or action taken in respect of the same person are pending at the same time, the Commission must so far as is reasonably practicable hear the appeals together, unless to do so would cause unreasonable delay to any of the appeals.
+
+### 47. Giving of determination[^key-37ff1157d5cbf2efd56533929ce82815]
+
+(1) This rule applies when the Commission determines any proceedings.
+
+(2) The Commission must record its decision and the reasons for it.
+
+(3) The Commission must , within a reasonable time,[^key-ee2eff9725fa057b782cb587431105b9] serve on the parties a written determination containing its decision and, if and to the extent that it is possible to do so without disclosing information contrary to the public interest, the reasons for it , subject to paragraph (3A)[^key-814329fafad5a5b325ff24c42472a634].
+
+(3A)[^key-bb53bb0a45084d1ecd6084dccf5f9616] In the case of an application by the Secretary of State under Schedule 4A to the 1981 Act, the Commission must serve on the Secretary of State a written determination no later than—
+
+- (a) 14 days after the Commission receives the application; or
+- (b) if the Commission determines a new date under rule 25E within which the Commission must determine the application, that date.
+
+(4) Where the determination under paragraph (3) does not include the full reasons for its decision, the Commission must serve on the Secretary of State and the special advocate a separate determination including those reasons.
+
+(5)[^key-681ee82d069aa71b19439e6718ae8f05] Where the Commission serves a separate determination under paragraph (4), the special advocate may apply to the Commission to amend that determination and the determination under paragraph (3) on the grounds that the separate determination contains material the disclosure of which would not be contrary to the public interest.
+
+(6) The special advocate must serve a copy of an application under paragraph (5) on the Secretary of State.
+
+(7) The Commission must give the special advocate and the Secretary of State an opportunity to make representations and may determine the application with or without a hearing.
+
+### 48. Application by Secretary of State to amend determination etc.[^key-3a620f863e38d17b16e436eff3161315][^key-fb0a1523ddc679efa0bd1931813cd7c3]
+
+(1) This rule applies where the Commission proposes to serve on the appellant[^key-45df70ab83c7ca00bbfea119fbdc9ae2]—
+
+- (a) notice of[^key-c53b0bd120f9a4a098ea53fb0d57568e] any order or direction made or given in the absence of the Secretary of State; or
+- (b) its determination of the proceedings.
+
+(2) Before the Commission serves any such document[^key-44e6f2143fc59191385d73e4dda63a50] on the appellant, it must first serve notice on the Secretary of State and any special advocate[^key-953f9a8aaa95936c9419fa1e5bff71ad] of its intention to do so.
+
+(3) The Secretary of State may, within 5 days of being served with notice under paragraph (2), apply to the Commission to amend the order, direction or proposed determination[^key-ed6aa91f8904140937cec50c80eb3fc7] if he considers that—
+
+- (a) his compliance with the order or direction; or
+- (b) the notification to the appellant of any matter contained in the order, direction or determination,
+
+would cause information to be disclosed contrary to the public interest.
+
+(4) Where the Secretary of State makes an application under paragraph (3), he must at the same time serve a copy of it on the special advocate, if one has been appointed.
+
+(5)[^key-0bb88df35ff9fafae9c6ce175aac1680] The Commission must give the special advocate and the Secretary of State an opportunity to make representations and may determine the application with or without a hearing.
+
+(6) The Commission must not serve any document[^key-86be2bc72b2c1b92c9eb3e645f3b62a5] on the appellant as mentioned in paragraph (1) before the time for the Secretary of State to make an application under paragraph (3) has expired or, where such an application is made, before it has been determined[^key-e85e0d26899914c9df835a32e49b014d].
+
+### 49. Filing and service of documents[^key-398142344551f2b4dfe7463192d78d4a]
+
+(1) Any document which is required or permitted by these Rules or by an order of the Commission to be filed with the Commission or served on any person may be—
+
+- (a) delivered or sent by post to a postal address[^key-d2d3de746fda43a86bf3d056dd7be160];
+- (b) sent by fax to a fax number; [^key-d30d05fe626376f1670cb13c9164df24]...
+- (c) sent by e-mail to an e-mail address; or[^key-f3ad0bc6a3534323c22dae4386308bcc]
+- (d) sent through a document exchange to a document exchange number or address,
+
+specified for that purpose by the Commission or the person to which the document is directed.
+
+(2) A document to be served on an individual may be served personally by leaving it with that individual.
+
+(3) Subject to paragraph (4), if any document is served on a person who has notified the Commission that he is acting as the representative of a party, it shall be deemed to have been served on that party.
+
+(4) Paragraph (3) does not apply if the Commission directs that a document is to be served on both a party and his representative.
+
+(5) Any document that is served on a person in accordance with this rule shall, unless the contrary is proved, be deemed to be served—
+
+- (a) where the document is sent by post or through a document exchange[^key-b1a6fdb8cf1f82a3d3ef47e91438891e] from and to a place within the United Kingdom, on the second day after it was sent;
+- (b) where the document is sent by post from or to a place outside the United Kingdom, on the twenty-eighth day after it was sent; and
+- (c) in any other case, on the day on which the document was sent or delivered to, or left with, that person.
+
+(6) Any document which is filed with the Commission shall be treated as being filed on the day on which it is received by the Commission.
+
+### 50. Address for service[^key-3d99631a7560bb92ebad3eeeb6a4a1c9]
+
+(1) Every party, and any person representing a party or acting as special advocate, must notify the Commission of a postal address at which documents may be served on him and of any changes to that address.
+
+(2) Until a party, representative or special advocate notifies the Commission of a change of address, any document served on him at the most recent postal[^key-4855c66fcd768943daa371692bd2566e] address he has given to the Commission shall be deemed to have been properly served on him.
+
+### 51. Calculation of time[^key-3c596c259e1e010545a78032a3635321]
+
+(1) Where a period of time for doing any act is specified by these Rules or by a direction of the Commission, that period is to be calculated—
+
+- (a) excluding the day on which the period begins; and
+- (b) where the period is 10 days or less, excluding any day which is not a business day.
+
+(2) Where the time specified by these Rules or by a direction of the Commission for doing any act ends on a day which is not a business day, that act is done in time if it is done on the next business day.
+
+(3) In this rule, “business day” means any day other than a Saturday or Sunday, a bank holiday, Christmas Day, 27th to 31st December or Good Friday.
+
+### 52. Signature of documents[^key-ad1818403e648e7cec264bc07145fb3b]
+
+Any requirement in these Rules for a document to be signed shall be satisfied, in the case of a document which is filed or served by e-mail in accordance with these Rules, by the person who is required to sign the document typing his name in it or producing it by computer or other mechanical means[^key-3f5970200251994f7cb0df08286db3c6].
+
+### 53. Errors of procedure[^key-f1a4021432ba8f6bdcea4a202e6659ab]
+
+Where in any proceedings, before they have been determined by the Commission, there has been an error of procedure such as a failure to comply with a rule—
+
+- (a) subject to these Rules, the error does not invalidate any step taken in the proceedings unless the Commission so orders; and
+- (b) the Commission may make an order or take any other step that it considers appropriate to remedy the error.
+
+### 54. Correction of orders and determinations[^key-0d5530db74203ed623863ce5bf1d299b]
+
+(1) The Commission may at any time amend an order or determination to correct a clerical error or other accidental slip or omission.
+
+(2) Where an order or determination is amended under this rule—
+
+- (a) subject to rule 48(1)(b) and (2),[^key-6eebf4f4ad089dafa101f2b05ec73021] the Commission must serve the amended order or determination on every person on whom the original order or determination was served; and
+- (b) the time within which a party may apply for permission to appeal against an amended determination runs from the date on which the party is served with the amended determination.
+
+## PART 8 — REVOCATIONS AND TRANSITIONAL PROVISIONS
+
+### 55. Revocations[^key-219e3b187d7d90a9cbf2bb9a03d00fb0]
+
+The following Rules are revoked—
+
+- (a) the Special Immigration Appeals Commission (Procedure) Rules 1998[^f00015] (“the 1998 Rules”); and
+- (b) the Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2000[^f00016].
+
+### 56. Transitional provisions[^key-a0ff1d6a7e636890e640afeb92aa5264]
+
+(1) These Rules shall apply—
+
+- (a) with appropriate modifications, to any proceedings pending on the date on which they come into force, to which immediately before that date the 1998 Rules applied; and
+- (b) to any appeal under section 2B of the 1997 Act[^f00017] pending on the date on which these Rules come into force.
+
+(2) In relation to any proceedings pending on the date on which these Rules come into force, anything done or any direction given before that date under the 1998 Rules or under any other powers of the Commission shall be treated as if done or given under these Rules.
+
+(3) If—
+
+- (a) a notice of appeal is given or an application is made to the Commission within 5 days of the date on which these Rules come into force; and
+- (b) the notice of appeal or application would have been given or made in time if these Rules had not come into force,
+
+the notice of appeal or application shall be treated as being given or made in time, notwithstanding any time limit in these Rules.
+
+Irvine of Lairg, *C.*
+
+Dated 1st April 2003
+
+(This note is not part of the Rules)
+
+These Rules prescribe the procedure to be followed in proceedings before the Special Immigration Appeals Commission (“the Commission”).
+
+Part 1 of these Rules contains introductory provisions. In particular, rule 4(1) sets out the general duty of the Commission, when exercising its functions, to secure that information is not disclosed contrary to the public interest.
+
+Part 2 contains rules about appeals to the Commission under section 2 or 2B of the Special Immigration Appeals Commission Act 1997. Section 2 of the 1997 act, as substituted by Schedule 7 to the Nationality, Immigration and Asylum Act 2002, provides that a person may appeal to the Commission against an immigration decision or a decision to reject an asylum claim, where he is prevented from bringing or continuing an appeal to an adjudicator or the Immigration Appeal Tribunal by reason of a certificate of the Secretary of State that the decision was taken on national security or other public interest grounds. Section 2B of the 1997 Act, as inserted by section 4 of the 2002 Act, provides that a person may appeal against a decision by the Secretary of State to make an order depriving him of a British citizenship status, where he is not entitled to appeal to an adjudicator or the Immigration Appeal Tribunal by reason of such a certificate.
+
+Part 3 contains rules about appeals to the Commission under section 25 of the Anti-terrorism, Crime and Security Act 2001 against certificates by the Secretary of State under section 21(1) of that Act that a person is a suspected international terrorist, and Part 4 contains rules about reviews of such certificates under section 26 of that Act.
+
+Part 5 contains rules about applications to the Commission for leave to appeal on a question of law to the Court of Appeal, the Court of Session or the Court of Appeal in Northern Ireland.
+
+Part 6 contains rules about applications to the Commission for bail. Such applications may be made under Schedule 2 to the Immigration Act 1971 as applied with modifications by section 3 of and Schedule 3 to the 1997 Act, and under section 24 of the 2001 Act.
+
+Part 7 contains general provisions which apply to proceedings before the Commission. In particular it includes provisions:
+
+- permitting parties to be legally represented;
+- enabling the Commission to exclude an appellant and his representative from a hearing or part of a hearing, if it considers that it is necessary to do so to secure that information is not disclosed contrary to the public interest;
+- relating to special advocates, whom a law officer may appoint under section 6(1) of the 1997 Act to represent the interests of an appellant in any proceedings before the Commission from which the appellant and his legal representative are excluded; and
+- prescribing the procedure to be followed where the Secretary of State wishes to rely on any material in proceedings before the Commission but objects to it being disclosed to the appellant or his representative.
+
+Part 8 revokes the Special Immigration Appeals Commission (Procedure) Rules 1998 and contains transitional provisions for appeals and applications pending on the date on which these Rules come into force.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68). Section 5 is amended by section 4(3) of, and paragraph 23 of Schedule 7 to, the Nationality, Immigration and Asylum Act 2002.
+
+[^f00002]: Footnote: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24).
+
+[^key-bbe2a4a805a9bfdc0e768c5ad1dc432e]: Commencement: Rule 1 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-740c3de9991121395703cb066a344bf7]: Commencement: Rule 2 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-a4e004b5cdadd8ac0dccc392a727a11d]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/article/2/1) inserted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/4/2); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^f00003]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68). The 1997 Act is amended by section 35 of the 2001 Act and by section 4 of and Schedule 7 to the 2002 Act.
+
+[^key-88b25d6d2c186ac029dc0e667d2ae2f5]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2007/1285/rule/2/a) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^f00004]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^key-70d4fac9a79153a22948588daf96d24f]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/2/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-2a4060df33dd4b900532067a84d73ef9]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) inserted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2018/736/rule/2/a)
+
+[^key-c08a0b2afe90a3c27b69c3a036694ed8]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2003/1034/rule/2) inserted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/2)
+
+[^key-41055445d78f38a497e8f91041286fd2]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/2/a)
+
+[^key-b52023ad6422317264e994c13766064b]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) substituted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/867/rule/2/a)
+
+[^key-70f2852c913c01e31bf09c11c0e419e3]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) substituted (28.6.2022) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2022 (S.I. 2022/571)](https://www.legislation.gov.uk/uksi/2022/571), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/571/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/571/regulation/2/2/a)
+
+[^key-484d63e02a3515095fa974894f340e81]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2018/736/rule/2/b)
+
+[^key-7602202418931ebe3b70b2c6c582379f]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2007/1285/rule/2/c) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-b138be2e2dd977a2051bf15e1adaff84]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) substituted (28.6.2022) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2022 (S.I. 2022/571)](https://www.legislation.gov.uk/uksi/2022/571), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/571/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/571/regulation/2/2/b)
+
+[^key-ec9c2f279c3531c0c9485ed3a5261a54]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2007/1285/rule/2/d) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-5cad0001c45d3636c8d0bf383346f4a0]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2007/1285/rule/2/e) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-0083b8b6fd51dabaa27cba1422c458ea]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [2(f)](https://www.legislation.gov.uk/uksi/2007/1285/rule/2/f) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-0c8d73cd31eb4d11a1594f7ed4e30c5e]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) substituted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/867/rule/2/c)
+
+[^key-97bf14369840d6fae8ea402003e2fd86]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [2(g)](https://www.legislation.gov.uk/uksi/2007/1285/rule/2/g) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-d9c031235fae7705e9b0f78150a49701]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/2/1) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [2(h)](https://www.legislation.gov.uk/uksi/2007/1285/rule/2/h) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^f00005]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68). Section 2B is inserted by section 4(2) of the 2002 Act.
+
+[^f00006]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^key-aee2860989937ad63876845db3e8d8d7]: Commencement: Rule 3 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-249681ca375b81da90cff37112ebc8d0]: Textual amendment: [Rule 3(aa)](https://www.legislation.gov.uk/uksi/2003/1034/rule/3/aa) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2995/rule/3)
+
+[^key-9b0ce46580fbf81545b6755379a93614]: Textual amendment: Words in [rule 3(aa)](https://www.legislation.gov.uk/uksi/2003/1034/rule/3/aa) substituted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2015/867/rule/3)
+
+[^key-23471493fd1f3a7cf0d9c4133d6e1115]: Textual amendment: Words in [rule 3(aa)](https://www.legislation.gov.uk/uksi/2003/1034/rule/3/aa) substituted (28.6.2022) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2022 (S.I. 2022/571)](https://www.legislation.gov.uk/uksi/2022/571), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/571/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/571/regulation/2/3/a)
+
+[^key-7764e9a983c6f10a5d55fa1803ec68eb]: Textual amendment: [Rule 3(ab)](https://www.legislation.gov.uk/uksi/2003/1034/rule/3/ab) inserted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2018/736/rule/3)
+
+[^key-290d187497afef3a399c5e5a71a0e76b]: Textual amendment: [Rule 3(ac)](https://www.legislation.gov.uk/uksi/2003/1034/article/3/ac) inserted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [5(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/5/2); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-362e975f6e4e6d9fa9c085ef2fadabe2]: Textual amendment: [Rule 3(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/3/b) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2007/1285/rule/3) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-4c9d5365e79c37fb7aba108f27597f64]: Commencement: Rule 4 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-a3444def3323a8bb86494aa04aa288cc]: Commencement: Rule 5 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^f00007]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68). Paragraph 5 of Schedule 1 is amended by paragraph 25 of Schedule 7 to the 2002 Act.
+
+[^key-86d402f06eceffb185788ce425c25abc]: Textual amendment: Words in [rule 5(1)(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/5/1/a) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/4/a)
+
+[^key-55b25320ec9db96df8caa3b642b1e0de]: Textual amendment: [Rule 5(1)(aa)](https://www.legislation.gov.uk/uksi/2003/1034/rule/5/1/aa) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/1285/rule/4/a) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-777ea232cb96ba9109f0b43edf450bd4]: Textual amendment: Words in [rule 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/5/1/b) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/4/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-64a56341635c9ef412d3fa7a53d1d888]: Textual amendment: Words in [rule 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/5/1/b) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2013/2995/rule/4/b)
+
+[^key-e231e08f893a78c32f09a56c7236a0e5]: Textual amendment: [Rule 5(1)(ba)](https://www.legislation.gov.uk/uksi/2003/1034/article/5/1/ba) inserted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [6(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/6/2); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-3b549c3be5f67d1cdbcf6261174d4ad4]: Textual amendment: [Rule 5(1)(c)](https://www.legislation.gov.uk/uksi/2003/1034/rule/5/1/c) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2007/1285/rule/4/c) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-1a9661f25026e291d0bfa0123231fd14]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2003/1034/part/2) heading substituted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2995/rule/5)
+
+[^key-213682405f976a9f0d3f4d77f9659d1b]: Textual amendment: [Rule 6](https://www.legislation.gov.uk/uksi/2003/1034/rule/6) substituted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2013/2995/rule/6)
+
+[^key-48ccd824b6940c9887f8707f34c7adab]: Textual amendment: Word in [rule 6(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/6/a) omitted (31.1.2020) by virtue of [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/3/a)
+
+[^key-08645b221fd6218705152d4a8f26bb45]: Textual amendment: [Rule 6(aa)](https://www.legislation.gov.uk/uksi/2003/1034/rule/6/aa) inserted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/3/b)
+
+[^key-4b72643530a039298da835dd96f9ffa5]: Textual amendment: Words in [rule 6(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/6/b) substituted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2015/867/rule/4)
+
+[^key-65e80dcf86d69ab5473ec84b1aa929ad]: Textual amendment: Words in [rule 6(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/6/b) substituted (28.6.2022) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2022 (S.I. 2022/571)](https://www.legislation.gov.uk/uksi/2022/571), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/571/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/571/regulation/2/3/b)
+
+[^key-5f6de81d4001daacfdce53f809daa683]: Commencement: Rule 7 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-6b17d7299e72efb5570e97c81c6e3657]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2003/1034/rule/7) heading inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [7](https://www.legislation.gov.uk/uksi/2013/2995/rule/7)
+
+[^key-4e28f8e50a7dc6b85fa9e85ee1e5d327]: Textual amendment: Words in [rule 7(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/7/1) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2007/1285/rule/6/a) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-44e21a1c5136733157b1ac5da300747e]: Textual amendment: Words in [rule 7(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/7/1) inserted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/4)
+
+[^key-b6eabe339126cc8af8498d77b04bdffc]: Textual amendment: [Rule 7(1A)](https://www.legislation.gov.uk/uksi/2003/1034/rule/7/1A) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/8/a)
+
+[^key-10c64662d8eeae671fb781bdb5220346]: Textual amendment: Words in [rule 7(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/7/2) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2013/2995/rule/8/b)
+
+[^key-ee2bc83dc2d3c8579861329095364aba]: Textual amendment: Words in [rule 7(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/7/3) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/6/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-0c3de4ba1a0c639fd2b46f472e5fbbd6]: Textual amendment: Words in [rule 7(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/7/3) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2013/2995/rule/8/c)
+
+[^key-89a1b55719f397f530fa8592b632a18a]: Textual amendment: Words in [rule 7(4)](https://www.legislation.gov.uk/uksi/2003/1034/rule/7/4) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2013/2995/rule/8/d)
+
+[^key-45e0b16f4135dcc61a4b6db974706e84]: Textual amendment: Words in [rule 7(5)](https://www.legislation.gov.uk/uksi/2003/1034/rule/7/5) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [8(e)](https://www.legislation.gov.uk/uksi/2013/2995/rule/8/e)
+
+[^key-4891c01b225ff97e0e0fc0ada50f9826]: Commencement: Rule 8 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-bfb95b3595f0be8b4f1cdf3b80ea4fd7]: Textual amendment: Words in [rule 8](https://www.legislation.gov.uk/uksi/2003/1034/rule/8) heading inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2013/2995/rule/9)
+
+[^key-7aa48df92694bdc96fee55fa37e90c0d]: Textual amendment: Words in [rule 8(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/1) substituted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/5/a)
+
+[^key-70435a519b3ec0fe39b1e5ede28c8eb6]: Textual amendment: Words in [rule 8(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/1) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/10/a)
+
+[^key-af872feb5832561059cdbc061b538171]: Textual amendment: Words in [rule 8(1)(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/1/a) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/7/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-d82dc319bd59d54895dc17fd38651ccd]: Textual amendment: Words in [rule 8(1)(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/1/a) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2013/2995/rule/10/b)
+
+[^key-bfc99717450e6bc488761b3731b05f16]: Textual amendment: Words in [rule 8(1)(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/1/b) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2013/2995/rule/10/c)
+
+[^f00009]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68). Section 2 is substituted by paragraph 20 of Schedule 7 to the 2002 Act.
+
+[^key-183975093dce2679e16892aca6caf769]: Textual amendment: Words in [rule 8(2)(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/2/b) inserted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/5/b)
+
+[^key-791a3752799a411dfcc11046763f54fe]: Textual amendment: Words in [rule 8(4)(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/4/a) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/7/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-f00245426513edef7a899c59ba795e14]: Textual amendment: [Rule 8(4A)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/4A) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2013/2995/rule/10/d)
+
+[^key-888edd0144a74b64092e233d141921f3]: Textual amendment: Words in [rule 8(4A)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/4A) substituted (28.6.2022) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2022 (S.I. 2022/571)](https://www.legislation.gov.uk/uksi/2022/571), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/571/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/571/regulation/2/4)
+
+[^key-de3234f7d823b571c3616da29f74362d]: Textual amendment: [Rule 8(4B)-(4E)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/4B) inserted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(5)(c)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/5/c)
+
+[^key-1a0fee256c8320747e7334f7d8a176d8]: Textual amendment: Words in [rule 8(4E)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/4E) substituted (4.11.2020) by [The Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/25/2)
+
+[^key-5b9e41234dd0ba03c0c336b339380763]: Textual amendment: Words in [rule 8(4E)](https://www.legislation.gov.uk/uksi/2003/1034/rule/8/4E/a) substituted (31.12.2020) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/3/2/a)
+
+[^key-85e0bf1b01f3c1342850bdab6b72c90d]: Commencement: Rule 9 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-1bddeb5f7dc7f3be0bd8b7a44c90b328]: Textual amendment: Words in [rule 9](https://www.legislation.gov.uk/uksi/2003/1034/rule/9) heading inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [11](https://www.legislation.gov.uk/uksi/2013/2995/rule/11)
+
+[^key-14f00a98874d0b42bea0a5b5dd6a7b82]: Textual amendment: [Rule 9(1A)](https://www.legislation.gov.uk/uksi/2003/1034/rule/9/1A) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/12/a)
+
+[^key-dbdb15d3b213f28fb671978df5a55ff5]: Textual amendment: Words in [rule 9(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/9/2) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2013/2995/rule/12/b)
+
+[^key-1e6968ace6eb31e183ef6b02ce0594f5]: Textual amendment: Words in [rule 9(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/9/3) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2013/2995/rule/12/c)
+
+[^key-c3b2c3311d7c0d902fad7ebd16929885]: Textual amendment: Words in [rule 9(4)](https://www.legislation.gov.uk/uksi/2003/1034/rule/9/4) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2013/2995/rule/12/d)
+
+[^key-4749724ab9a5228de775f0b706563a29]: Textual amendment: [Rule 9(5)](https://www.legislation.gov.uk/uksi/2003/1034/rule/9/5) substituted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2015/867/rule/5)
+
+[^key-d87b3119358a43d7e898aebd404baa2a]: Textual amendment: [Rule 9A](https://www.legislation.gov.uk/uksi/2003/1034/rule/9A) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2007/1285/rule/8) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-f6477f9eab213994bfc9033ac14e10af]: Textual amendment: Words in [rule 9A(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/9A/1) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/13/a)
+
+[^key-21c95471f5ea7d175acbf6356a2fcf0b]: Textual amendment: Words in [rule 9A(3)(c)](https://www.legislation.gov.uk/uksi/2003/1034/rule/9A/3/c) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2013/2995/rule/13/b)
+
+[^key-8b1a750dc8201f97390e69b1b9bcac85]: Commencement: Rule 10 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-8fd344b215ad6a3e8cae3c8f556458a7]: Textual amendment: Words in [rule 10](https://www.legislation.gov.uk/uksi/2003/1034/rule/10) heading inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2013/2995/rule/14)
+
+[^key-8104931e33a7ecba595c1be20ed253cd]: Textual amendment: [Rule 10(A1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/10/A1) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [15](https://www.legislation.gov.uk/uksi/2013/2995/rule/15)
+
+[^key-301c71bae4055318ae703edf42e5c5db]: Textual amendment: Words in [rule 10(A1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/10/A1) substituted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2015/867/rule/6)
+
+[^key-68b23dd5e0e640c7fce0f2524b1be72d]: Textual amendment: Words in [rule 10(A1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/10/A1) substituted (28.6.2022) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2022 (S.I. 2022/571)](https://www.legislation.gov.uk/uksi/2022/571), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/571/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/571/regulation/2/3/c)
+
+[^key-dc40bebbabbb69bc8abb9667466946ad]: Textual amendment: [Rule 10(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/10/1) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2007/1285/rule/9/a) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-3e66e806d3cf23c5565c173b8a4a32b5]: Textual amendment: [Rule 10(4)](https://www.legislation.gov.uk/uksi/2003/1034/rule/10/4) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/9/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-d62ee5e245143fdb3b5ab79e17e6898b]: Textual amendment: [Rule 10A](https://www.legislation.gov.uk/uksi/2003/1034/rule/10A) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2007/1285/rule/10) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-217ad39d4c0f87efe4c190d99fc8580a]: Textual amendment: Words in [rule 10A](https://www.legislation.gov.uk/uksi/2003/1034/rule/10A) heading inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/article/1/1), [16](https://www.legislation.gov.uk/uksi/2013/2995/article/16)
+
+[^key-fd7ec4f8337acc2c0d2376a76b0bd4b5]: Textual amendment: [Rule 10A(A1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/10A/A1) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/article/1/1), [17](https://www.legislation.gov.uk/uksi/2013/2995/article/17)
+
+[^key-acef3a2170a41a80a00b3c0d67699303]: Textual amendment: Words in [rule 10A(A1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/10A/A1) substituted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [7](https://www.legislation.gov.uk/uksi/2015/867/rule/7)
+
+[^key-661a1861a9a20b367642069eb1f3bdca]: Textual amendment: Words in [rule 10A(A1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/10A/A1) substituted (28.6.2022) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2022 (S.I. 2022/571)](https://www.legislation.gov.uk/uksi/2022/571), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/571/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2022/571/regulation/2/3/d)
+
+[^key-95d124d0017d6bce31e9dbb0c2ff1970]: Textual amendment: [Rule 10B](https://www.legislation.gov.uk/uksi/2003/1034/rule/10B) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [18](https://www.legislation.gov.uk/uksi/2013/2995/rule/18)
+
+[^key-da5112fc4321e4a887ec0c810f730321]: Commencement: Rule 11 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-3d0f4514ba34247116a63f1b6caeba83]: Textual amendment: Words in [rule 11](https://www.legislation.gov.uk/uksi/2003/1034/rule/11) heading inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [19](https://www.legislation.gov.uk/uksi/2013/2995/rule/19)
+
+[^f00010]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 85(2) applies in relation to an appeal to the Commission against an immigration decision by virtue of section 2(2)(f) of the 1997 Act as substituted by paragraph 20 of Schedule 7 to the 2002 Act.
+
+[^key-96fc0cf51a21a068addf5942b8425bd3]: Textual amendment: Words in [rule 11(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/11/1) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/20/a)
+
+[^key-9722ca2a88d60725e09457c9d29b1299]: Textual amendment: Words in [rule 11(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/11/2) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2013/2995/rule/20/b)
+
+[^key-5bdf156e56a2c5f8b38cf150d06a022f]: Textual amendment: [Rules 11A](https://www.legislation.gov.uk/uksi/2003/1034/rule/11A), [11B](https://www.legislation.gov.uk/uksi/2003/1034/rule/11B) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [11](https://www.legislation.gov.uk/uksi/2007/1285/rule/11) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-e38f9418d4cc8d0fb5ba08b99dc45fd4]: Textual amendment: Words in [rule 11A](https://www.legislation.gov.uk/uksi/2003/1034/rule/11A) heading inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [21](https://www.legislation.gov.uk/uksi/2013/2995/rule/21)
+
+[^key-6ff17d354be66983a851ea89d7f29797]: Textual amendment: Words in [rule 11A(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/11A/1) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/22/a)
+
+[^key-d56ae377ec8a435492a82d49af060a0f]: Textual amendment: Words in [rule 11A(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/11A/2) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [22(b)](https://www.legislation.gov.uk/uksi/2013/2995/rule/22/b)
+
+[^key-b857ad847a9ba1b38ddcd22c638c3592]: Textual amendment: Words in [rule 11A(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/11A/3) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [22(c)](https://www.legislation.gov.uk/uksi/2013/2995/rule/22/c)
+
+[^key-d9175f2593f33a2c2b6792f8266fd219]: Textual amendment: [Rule 11B](https://www.legislation.gov.uk/uksi/2003/1034/rule/11B) substituted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [23](https://www.legislation.gov.uk/uksi/2013/2995/rule/23)
+
+[^key-f7ab4f1c9859272b16832601c437b5c8]: Commencement: Rule 12 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-8af62c432047b47a4b67b23bf8faa6f1]: Textual amendment: Words in [rule 12](https://www.legislation.gov.uk/uksi/2003/1034/rule/12) heading inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [24](https://www.legislation.gov.uk/uksi/2013/2995/rule/24)
+
+[^key-27e3abf7dbbb2d01df998587d562ae00]: Textual amendment: Rule 12 renumbered as rule 12(1) (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(6)(a)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/6/a)
+
+[^key-8c49bc4b4d4b897426b0ecc6c1ba1299]: Textual amendment: Words in [rule 12](https://www.legislation.gov.uk/uksi/2003/1034/rule/12) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [25(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/25/a)
+
+[^f00011]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68). Section 2 is substituted by paragraph 20 of Schedule 7 to the 2002 Act.
+
+[^key-90c9caf79f82af4d8079e64c1c047c42]: Textual amendment: Words in [rule 12(a)(i)](https://www.legislation.gov.uk/uksi/2003/1034/rule/12/a/i) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [12](https://www.legislation.gov.uk/uksi/2007/1285/rule/12) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-d51dd234cb39608066c88f5fbe5d1c25]: Textual amendment: Words in [rule 12(a)(i)](https://www.legislation.gov.uk/uksi/2003/1034/rule/12/a/i) substituted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/867/rule/8/a)
+
+[^f00012]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104(4) applies in relation to an appeal to the Commission against an immigration decision by virtue of section 2(2)(j) of the 1997 Act as substituted by paragraph 20 of Schedule 7 to the 2002 Act.
+
+[^key-547bc1c2c648ed61946528a2ceefd223]: Textual amendment: Words in [rule 12(1)(a)(i)](https://www.legislation.gov.uk/uksi/2003/1034/rule/12/1/a/i) inserted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(6)(b)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/6/b)
+
+[^key-b510255eb95163914119ab6ddc4f4cee]: Textual amendment: [Rule 12(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1034/rule/12/a/ii) omitted (14.4.2015) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/867/rule/8/b)
+
+[^key-25402a4f30814dd141e1ae35f2a7bedb]: Textual amendment: [Rule 12(aa)](https://www.legislation.gov.uk/uksi/2003/1034/rule/12/aa) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [25(b)](https://www.legislation.gov.uk/uksi/2013/2995/rule/25/b)
+
+[^key-77960e5937b5eb909ccdd230efebeaf7]: Textual amendment: [Rule 12(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/12/b) substituted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [25(c)](https://www.legislation.gov.uk/uksi/2013/2995/rule/25/c)
+
+[^key-907db54ff9c802ef902113963c891bd0]: Textual amendment: [Rule 12(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1034/rule/12/2) inserted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 4(6)(c)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/4/6/c)
+
+[^key-234cbf13ce313d264a18cad660cc630c]: Textual amendment: [Rules 13-25](https://www.legislation.gov.uk/uksi/2003/1034/rule/13) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [13](https://www.legislation.gov.uk/uksi/2007/1285/rule/13) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-fc465a0e5c5c986ecafc081ed4c31c3f]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2003/1034/part/4A) inserted (10.5.2023) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [7](https://www.legislation.gov.uk/uksi/2023/355/rule/7); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-0f97d6427a25554aa1ed2a97f112f137]: Textual amendment: Word in [Pt. 5](https://www.legislation.gov.uk/uksi/2003/1034/part/5) heading inserted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2018/736/rule/4)
+
+[^key-cb617a2d3a275a03ea88217d842a4d8a]: Textual amendment: [Rule 26](https://www.legislation.gov.uk/uksi/2003/1034/rule/26) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2018/736/rule/5)
+
+[^key-f68ec9711fc5d0c58e15df3b8a904d53]: Textual amendment: Word in [rule 26(a)(i)](https://www.legislation.gov.uk/uksi/2003/1034/article/26/a) omitted (10.5.2023) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2023/355/rule/8/2/a); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-91c20319741c45f709973efd79a92699]: Textual amendment: Words in [rule 26(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1034/rule/26/a/ii) substituted (28.6.2022) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2022 (S.I. 2022/571)](https://www.legislation.gov.uk/uksi/2022/571), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/571/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2022/571/regulation/2/3/e)
+
+[^key-0f91bbe4ab41ab80048e0b395f858999]: Textual amendment: Word in [rule 26(a)](https://www.legislation.gov.uk/uksi/2003/1034/article/26/a) omitted (10.5.2023) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2023/355/rule/8/2/b); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-e5861a49277e57645bc1d6785ad2c701]: Textual amendment: [Rule 26(a)(iii)](https://www.legislation.gov.uk/uksi/2003/1034/article/26/a/iii) and word inserted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2023/355/rule/8/2/b); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-ae9e3610909633f86614e402b992532e]: Commencement: Rule 27 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-00d5414fe7d4f03fdd6573cd8079537c]: Textual amendment: [Rule 27(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/27/2) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2018/736/rule/6/a)
+
+[^key-70b43271110698a281b7400d1d31d010]: Textual amendment: Words in [rule 27(2)](https://www.legislation.gov.uk/uksi/2003/1034/article/27/2) inserted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/9/2); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-7a6926a9e6b6362c674377f80c127889]: Textual amendment: [Rule 27(2A)](https://www.legislation.gov.uk/uksi/2003/1034/rule/27/2A) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2018/736/rule/6/b)
+
+[^key-806aa6756fc226b777d0887e54e0628a]: Textual amendment: Words in [rule 27(2B)](https://www.legislation.gov.uk/uksi/2003/1034/rule/27/2B) omitted (28.6.2018) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2018/736/rule/6/c)
+
+[^key-5653004872b31cdf8a67edfead0b0974]: Textual amendment: [Rule 27A](https://www.legislation.gov.uk/uksi/2003/1034/rule/27A) inserted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [7](https://www.legislation.gov.uk/uksi/2018/736/rule/7)
+
+[^key-bba414cdaba92bd1ddb4ab74cc27b79f]: Commencement: Rule 28 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-689a1515fa62ce72c5f7301ff6bdc2dd]: Textual amendment: [Rule 28(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/28/b) and word omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [16](https://www.legislation.gov.uk/uksi/2007/1285/rule/16) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-ad5bcbea71029088b566d7fa8d1edbf2]: Commencement: Rule 29 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-d677681f603cca8bc8fafa3a4e4a8f67]: Textual amendment: [Rule 29(2)(e)](https://www.legislation.gov.uk/uksi/2003/1034/rule/29/2/e) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [8](https://www.legislation.gov.uk/uksi/2018/736/rule/8)
+
+[^key-2e7de08d987fe625e21a2156be855524]: Textual amendment: [Rule 29(2)(f)](https://www.legislation.gov.uk/uksi/2003/1034/rule/29/2/f) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2018/736/rule/9)
+
+[^key-3fa382bfeaebe84facd16fa4d0319841]: Textual amendment: [Rule 29(2)(fa)](https://www.legislation.gov.uk/uksi/2003/1034/rule/29/2/fa) omitted (28.6.2018) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [10](https://www.legislation.gov.uk/uksi/2018/736/rule/10)
+
+[^key-ff5592ddd3d1b4ad6a2e4e11cb348929]: Commencement: Rule 30 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-7318fbe43fd36d3c8a317dadba45886b]: Textual amendment: Words in [rule 30(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/30/1) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [18](https://www.legislation.gov.uk/uksi/2007/1285/rule/18) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-b66e3157e900db7d31b75726c280612a]: Textual amendment: Words in [rule 30(1)(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/30/1/b) inserted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2015/867/rule/10)
+
+[^key-59ec2fa4bdb80c096ffe66e6c1e0060f]: Textual amendment: [Rule 30(5)(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/30/5/b) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2018/736/rule/11)
+
+[^key-db183eead9108e263624276460839e90]: Textual amendment: [Rule 30(6)](https://www.legislation.gov.uk/uksi/2003/1034/rule/30/6) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [12](https://www.legislation.gov.uk/uksi/2018/736/rule/12)
+
+[^key-4b920f349d992b5236f9e39eef71af2e]: Textual amendment: [Rule 30(7)](https://www.legislation.gov.uk/uksi/2003/1034/rule/30/7) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2018/736/rule/13)
+
+[^key-8f60beba72ffe44e4abe873c7440c14f]: Textual amendment: [Rule 30(8)(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/30/8/b) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2018/736/rule/14)
+
+[^key-df2432e6834b881b48e188048623a6cd]: Textual amendment: [Rule 30A](https://www.legislation.gov.uk/uksi/2003/1034/rule/30A) inserted (14.4.2015) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2015 (S.I. 2015/867)](https://www.legislation.gov.uk/uksi/2015/867), [rules 1(1)](https://www.legislation.gov.uk/uksi/2015/867/rule/1/1), [11](https://www.legislation.gov.uk/uksi/2015/867/rule/11)
+
+[^key-89507bf2d9faa8c20fa284b115088f31]: Textual amendment: Words in [rule 30A(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/30A/1) substituted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [15](https://www.legislation.gov.uk/uksi/2018/736/rule/15)
+
+[^key-6e6094221ba64d10751d57330751677c]: Textual amendment: [Rule 30B](https://www.legislation.gov.uk/uksi/2003/1034/rule/30B) inserted (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2018/736/rule/16)
+
+[^key-145c2bf8172272f7dc1376cff51759cc]: Textual amendment: [Rule 31](https://www.legislation.gov.uk/uksi/2003/1034/rule/31) revoked (28.6.2018) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2018 (S.I. 2018/736)](https://www.legislation.gov.uk/uksi/2018/736), [rules 1(2)](https://www.legislation.gov.uk/uksi/2018/736/rule/1/2), [17](https://www.legislation.gov.uk/uksi/2018/736/rule/17)
+
+[^key-26c07d063b5db33ee9ee339866bd7364]: Commencement: Rule 32 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-6179a48571a3098aad9dfdf74659e985]: Textual amendment: [Rule 32(4)(5)](https://www.legislation.gov.uk/uksi/2003/1034/rule/32/4/5) inserted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [10(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/10/2); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-012779a8d59f0cfa98df5a92d7346adc]: Commencement: Rule 33 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-f59071db0ee80979fdcfdb39b413d450]: Textual amendment: [Rule 33(1)(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/33/1/b) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2007/1285/rule/19/a) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-bfce6718b136d5393e482cd299ed66ac]: Textual amendment: Words in [rule 33(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/33/1) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/19/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^f00014]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-1083674ac81231a8ed37da4be441b0c2]: Commencement: Rule 34 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-8562b668f94ce48a4d2b8796c39873be]: Textual amendment: Words in [rule 34(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/34/1) substituted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [27](https://www.legislation.gov.uk/uksi/2013/2995/rule/27)
+
+[^key-863c6114f15622b8f5be84146b238df9]: Commencement: Rule 35 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-c2f40db2db49f0cafeb4644110f54130]: Textual amendment: Words in [rule 35(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/35/b) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [20](https://www.legislation.gov.uk/uksi/2007/1285/rule/20) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-999e9326812055ec64f9d2c6726129c6]: Commencement: Rule 36 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-315ed7841dce4cd3fefff2b44d086f33]: Textual amendment: Words in [rule 36(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/36/2) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [21](https://www.legislation.gov.uk/uksi/2007/1285/rule/21) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-7103f3597ae5a3234b8dc0ce8d629bf0]: Commencement: Rule 37 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-74e3a836c07055c4bd62e3e0674d1e3a]: Textual amendment: [Rule 37(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/37/1) substituted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2013/2995/rule/28/a)
+
+[^key-b112b954d6657afdf7779b45112f4126]: Textual amendment: Words in [rule 37(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/37/3) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [22(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/22/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-fc309593927d793c5d28f5cd2fc9ca8d]: Textual amendment: Words in [rule 37(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/37/3) substituted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2013/2995/rule/28/b)
+
+[^key-645ffe107a5f0f4a1eefca9af7da68ae]: Textual amendment: Words in [rule 37(3)(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/37/3/a) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [22(c)](https://www.legislation.gov.uk/uksi/2007/1285/rule/22/c) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-71706934042742bed7bda694d768a97c]: Textual amendment: [Rule 37(4A)](https://www.legislation.gov.uk/uksi/2003/1034/rule/37/4A) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [22(d)](https://www.legislation.gov.uk/uksi/2007/1285/rule/22/d) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-7992e899865437325ba30fe2d55748ab]: Textual amendment: Words in [rule 37(5)](https://www.legislation.gov.uk/uksi/2003/1034/rule/37/5) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [22(e)](https://www.legislation.gov.uk/uksi/2007/1285/rule/22/e) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-8723e7b75a69f684cd66dd2332e3b2f7]: Commencement: Rule 38 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-54e7c980ffccd6f7daf3e77ecc4dfcbe]: Textual amendment: Words in [rule 38(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/38/2) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2007/1285/rule/23/a) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-25bb29a3f438049d44a040147878b6e4]: Textual amendment: [Rule 38(4)](https://www.legislation.gov.uk/uksi/2003/1034/rule/38/4) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/23/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-78210266bab2d5f36e8d8aa2c6ab4abb]: Textual amendment: [Rule 38(6)-(9)](https://www.legislation.gov.uk/uksi/2003/1034/rule/38/6) substituted for rule 38(6)(7) (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [23(c)](https://www.legislation.gov.uk/uksi/2007/1285/rule/23/c) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-22a600f74a3be6b2f9f320f58dab4298]: Textual amendment: [Rule 38A](https://www.legislation.gov.uk/uksi/2003/1034/rule/38A) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [24](https://www.legislation.gov.uk/uksi/2007/1285/rule/24) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-76a887cf121324381b30b526ec929b9b]: Commencement: Rule 39 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-5e422a2e6ce7a310d72942b4c3a467fb]: Textual amendment: Words in [rule 39(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/39/1) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [25](https://www.legislation.gov.uk/uksi/2007/1285/rule/25) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-ac01f2e3b673a5a68a174a8013c1270c]: Textual amendment: [Rule 39(2)(a)](https://www.legislation.gov.uk/uksi/2003/1034/article/39/2/a) substituted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [11(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/11/2); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-380c42f4c4250ea643d5ab78f933dad2]: Commencement: Rule 40 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-02ee99f9130bab48858f591215ada0fb]: Textual amendment: [Rule 40(1)(c)](https://www.legislation.gov.uk/uksi/2003/1034/rule/40/1/c) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2007/1285/rule/26/a) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-6b743e16c9f9cf8fe9bff5bcd641911e]: Textual amendment: Words in [rule 40(1)(c)(i)](https://www.legislation.gov.uk/uksi/2003/1034/article/40/1/c/i) substituted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2023/355/rule/12/2/a); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-4efd6b0c37a8a52ba052d6d182b6025c]: Textual amendment: [Rule 40(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1034/article/40/1/c/ii) substituted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2023/355/rule/12/2/b); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-1ae6719811d004d164652e8bafd338ef]: Textual amendment: Words in [rule 40(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/40/2) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/26/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-ab3b99d73cdc21dfff5e3a93ae24dd26]: Textual amendment: [Rule 40(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/40/3) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [29(c)](https://www.legislation.gov.uk/uksi/2013/2995/rule/29/c)
+
+[^key-e8136f29b51695d917528963f601d59d]: Commencement: Rule 41 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-2a0704e4c41cc39ca910ae79a9494ee8]: Commencement: Rule 42 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-94aa9211a5b0b661f024e3df8aa1347c]: Commencement: Rule 43 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-c77a743f2397a57f2b5cbe7b8c0e7b9c]: Textual amendment: [Rule 43A](https://www.legislation.gov.uk/uksi/2003/1034/rule/43A) inserted (1.12.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment No. 2) Rules 2007 (S.I. 2007/3370)](https://www.legislation.gov.uk/uksi/2007/3370), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/3370/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2007/3370/rule/3)
+
+[^key-cb9d6baa213538a94a7cbb0448134fbd]: Textual amendment: Words in [rule 43A](https://www.legislation.gov.uk/uksi/2003/1034/rule/43A) inserted (28.11.2013) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2013 (S.I. 2013/2995)](https://www.legislation.gov.uk/uksi/2013/2995), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/2995/rule/1/1), [30](https://www.legislation.gov.uk/uksi/2013/2995/rule/30)
+
+[^key-3278790354f938d4fbcf1add08fda11b]: Commencement: Rule 44 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-730e11d631df1dd82ef21e3aa1cbb673]: Textual amendment: [Rule 44(5A)](https://www.legislation.gov.uk/uksi/2003/1034/rule/44/5A) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [27](https://www.legislation.gov.uk/uksi/2007/1285/rule/27) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-cdbed09f910e0877ccb7d33bc70cd293]: Commencement: Rule 45 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-80115a15107068620633d5ebe6e682ef]: Commencement: Rule 46 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-6c29eb7df4fad2c4a95baf56415860af]: Textual amendment: Words in [rule 46(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/46/1) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2007/1285/rule/28/a) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-78c6509140518e287ac91e6196b799cb]: Textual amendment: Words in [rule 46(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/46/2) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/28/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-9250e6db73a3d280215c35aa8ed4ac0f]: Textual amendment: [Rule 46(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/46/3) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [28(c)](https://www.legislation.gov.uk/uksi/2007/1285/rule/28/c) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-37ff1157d5cbf2efd56533929ce82815]: Commencement: Rule 47 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-ee2eff9725fa057b782cb587431105b9]: Textual amendment: Words in [rule 47(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/47/3) inserted (1.12.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment No. 2) Rules 2007 (S.I. 2007/3370)](https://www.legislation.gov.uk/uksi/2007/3370), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/3370/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2007/3370/rule/4)
+
+[^key-814329fafad5a5b325ff24c42472a634]: Textual amendment: Words in [rule 47(3)](https://www.legislation.gov.uk/uksi/2003/1034/article/47/3) inserted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [13(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/13/2); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-bb53bb0a45084d1ecd6084dccf5f9616]: Textual amendment: [Rule 47(3A)](https://www.legislation.gov.uk/uksi/2003/1034/article/47/3A) inserted (10.5.2023) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2023 (S.I. 2023/355)](https://www.legislation.gov.uk/uksi/2023/355), [rules 2(2)](https://www.legislation.gov.uk/uksi/2023/355/rule/2/2), [13(3)](https://www.legislation.gov.uk/uksi/2023/355/rule/13/3); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-681ee82d069aa71b19439e6718ae8f05]: Textual amendment: [Rule 47(5)-(7)](https://www.legislation.gov.uk/uksi/2003/1034/rule/47/5) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [29](https://www.legislation.gov.uk/uksi/2007/1285/rule/29) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-3a620f863e38d17b16e436eff3161315]: Commencement: Rule 48 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-fb0a1523ddc679efa0bd1931813cd7c3]: Textual amendment: [Rule 48](https://www.legislation.gov.uk/uksi/2003/1034/rule/48) heading substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [30(a)](https://www.legislation.gov.uk/uksi/2007/1285/rule/30/a) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-45df70ab83c7ca00bbfea119fbdc9ae2]: Textual amendment: Words in [rule 48(1)](https://www.legislation.gov.uk/uksi/2003/1034/rule/48/1) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [30(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/30/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-c53b0bd120f9a4a098ea53fb0d57568e]: Textual amendment: Words in [rule 48(1)(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/48/1/a) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [30(c)](https://www.legislation.gov.uk/uksi/2007/1285/rule/30/c) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-44e6f2143fc59191385d73e4dda63a50]: Textual amendment: Words in [rule 48(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/48/2) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [30(d)](https://www.legislation.gov.uk/uksi/2007/1285/rule/30/d) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-953f9a8aaa95936c9419fa1e5bff71ad]: Textual amendment: Words in [rule 48(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/48/2) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [30(e)](https://www.legislation.gov.uk/uksi/2007/1285/rule/30/e) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-ed6aa91f8904140937cec50c80eb3fc7]: Textual amendment: Words in [rule 48(3)](https://www.legislation.gov.uk/uksi/2003/1034/rule/48/3) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [30(f)](https://www.legislation.gov.uk/uksi/2007/1285/rule/30/f) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-0bb88df35ff9fafae9c6ce175aac1680]: Textual amendment: [Rule 48(5)](https://www.legislation.gov.uk/uksi/2003/1034/rule/48/5) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [30(g)](https://www.legislation.gov.uk/uksi/2007/1285/rule/30/g) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-86be2bc72b2c1b92c9eb3e645f3b62a5]: Textual amendment: Words in [rule 48(6)](https://www.legislation.gov.uk/uksi/2003/1034/rule/48/6) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [30(h)](https://www.legislation.gov.uk/uksi/2007/1285/rule/30/h) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-e85e0d26899914c9df835a32e49b014d]: Textual amendment: Words in [rule 48(6)](https://www.legislation.gov.uk/uksi/2003/1034/rule/48/6) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [30(i)](https://www.legislation.gov.uk/uksi/2007/1285/rule/30/i) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-398142344551f2b4dfe7463192d78d4a]: Commencement: Rule 49 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-d2d3de746fda43a86bf3d056dd7be160]: Textual amendment: Words in [rule 49(1)(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/49/1/a) substituted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [31(a)(i)](https://www.legislation.gov.uk/uksi/2007/1285/rule/31/a/i) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-d30d05fe626376f1670cb13c9164df24]: Textual amendment: Word in [rule 49(1)(b)](https://www.legislation.gov.uk/uksi/2003/1034/rule/49/1/b) omitted (7.5.2007) by virtue of [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [31(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1285/rule/31/a/ii) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-f3ad0bc6a3534323c22dae4386308bcc]: Textual amendment: [Rule 49(1)(d)](https://www.legislation.gov.uk/uksi/2003/1034/rule/49/1/d) and word inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [31(a)(iii)](https://www.legislation.gov.uk/uksi/2007/1285/rule/31/a/iii) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-b1a6fdb8cf1f82a3d3ef47e91438891e]: Textual amendment: Words in [rule 49(5)(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/49/5/a) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2007/1285/rule/31/b) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-3d99631a7560bb92ebad3eeeb6a4a1c9]: Commencement: Rule 50 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-4855c66fcd768943daa371692bd2566e]: Textual amendment: Word in [rule 50(2)](https://www.legislation.gov.uk/uksi/2003/1034/rule/50/2) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [32](https://www.legislation.gov.uk/uksi/2007/1285/rule/32) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-3c596c259e1e010545a78032a3635321]: Commencement: Rule 51 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-ad1818403e648e7cec264bc07145fb3b]: Commencement: Rule 52 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-3f5970200251994f7cb0df08286db3c6]: Textual amendment: Words in [rule 52](https://www.legislation.gov.uk/uksi/2003/1034/rule/52) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [33](https://www.legislation.gov.uk/uksi/2007/1285/rule/33) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-f1a4021432ba8f6bdcea4a202e6659ab]: Commencement: Rule 53 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-0d5530db74203ed623863ce5bf1d299b]: Commencement: Rule 54 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^key-6eebf4f4ad089dafa101f2b05ec73021]: Textual amendment: Words in [rule 54(2)(a)](https://www.legislation.gov.uk/uksi/2003/1034/rule/54/2/a) inserted (7.5.2007) by [The Special Immigration Appeals Commission (Procedure) (Amendment) Rules 2007 (S.I. 2007/1285)](https://www.legislation.gov.uk/uksi/2007/1285), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1285/rule/1/1), [34](https://www.legislation.gov.uk/uksi/2007/1285/rule/34) (with [rule 35](https://www.legislation.gov.uk/uksi/2007/1285/rule/35))
+
+[^key-219e3b187d7d90a9cbf2bb9a03d00fb0]: Commencement: Rule 55 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^f00015]: Footnote: [S.I. 1998/1881](https://www.legislation.gov.uk/uksi/1998/1881), as amended by [S.I. 2000/1849](https://www.legislation.gov.uk/uksi/2000/1849).
+
+[^f00016]: Footnote: [S.I. 2000/1849](https://www.legislation.gov.uk/uksi/2000/1849).
+
+[^key-a0ff1d6a7e636890e640afeb92aa5264]: Commencement: Rule 56 in force at 1.4.2003, see [rule 1](https://www.legislation.gov.uk/uksi/2003/1034/rule/1)
+
+[^f00017]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68). Section 2B is inserted by section 4(2) of the Nationality, Immigration and Asylum Act 2002.

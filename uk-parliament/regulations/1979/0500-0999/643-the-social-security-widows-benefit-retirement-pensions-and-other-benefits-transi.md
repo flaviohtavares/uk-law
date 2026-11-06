@@ -1,0 +1,362 @@
+---
+title: The Social Security (Widow's Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations 1979
+id: uksi/1979/643
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1979-06-11'
+text_date: '2014-12-16'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1979/643
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1979/643/pdfs/uksi_19790643_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1979/643/pdfs/uksi_19790643_en.pdf
+- http://www.legislation.gov.uk/uksi/1979/643/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Widow's Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations 1979
+
+> Text as at 2014-12-16.
+
+1979 No. 643
+
+SOCIAL SECURITY
+
+The Social Security (Widow'S Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations 1979
+
+Made
+
+11th June 1979
+
+Laid before Parliament
+
+19th June 1979
+
+Coming into Operation
+
+10th July 1979
+
+The Secretary of State for Social Services, in exercise of the powers conferred upon him by section 2 of, and paragraphs 3, 4, 5, 7 and 9 of Shedule 3 to, the Social Security (Consequential Provisions) Act 1975 and section 63 of the Social Security Pensions Act 1975 and of all other powers enabling him in that behalf, hereby makes the following regulations which only consolidate other regulations herein revoked and which, accordingly, by virtue of paragraph 20 of Schedule 15 to the Social Security Act 1975, are not subject to the requirement of section 139(1) of that Act for prior reference to the National Insurance Advisory Committee:—
+
+## 1. Citation and commencement
+
+These regulations may be cited as the Social Security (Widow's Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations 1979 and shall come into operation on 10th July 1979.
+
+## 2. Interpretation
+
+(1) In these regulations, unless the context otherwise requires:—
+
+- “the 1992 Act” means the Social Security Contributions and Benefits Act 1992;[^key-2cf1fd46aef6f605ca194010e194f15e]
+- “**the Act**” means the Social Security Act 1975;
+- “**the former principal Act**” means the National Insurance Act 1965;
+- “**the Pensions Act**” means the Social Security Pensions Act 1975;
+- “**contribution week**” means a period of 7 days beginning with midnight between Sunday and Monday;
+- “**the Contributory Pensions Acts**” means the Widows', Orphans' and Old Age Contributory Pensions Acts 1936 to 1941;
+- “**pre-1975 beneficiary**” means—
+  - (a) a person to or in respect of whom benefit under the former principal Act (including such benefit, pension or allowance as is mentioned in paragraph 17(2)(b) of Schedule 11 to that Act is, or but for a disqualification or forfeiture would be, payable immediately before 6th April 1975; and
+  - (b) a person who immediately before that date had a prospective right to, or expectation of, such benefit;
+- “**pre-1975 contribution**” means a contribution of any class paid under the former principal Act in respect of a week before the contributor concerned attained pensionable age and also means—
+  - (a) in relation to widowed mother's allowance, widow's pension, child's special allowance and a Category B retirement pension to which a woman is entitled by virtue of section 29(5) of the Act, a contribution paid under the Contributory Pensions Acts by a pre-1948 contributor in respect of a period between the date of the contributor's last entry into insurance under those Acts and 5th July 1948 and paid for purposes which included widows' and orphans' pensions purposes; and
+  - (b) in relation to a Category A retirement pension or a Category B retirement pension, other than such a pension as is referred to in the preceding sub-paragraph, a contribution paid under the Contributory Pensions Acts by a pre-1948 contributory in respect of a period between the date of his last entry into insurance under those Acts and 5th July 1948 and paid for purposes which included old age pensions purposes;
+- “**pre-1975 contributor**” means a person who was insured under the former principal Act;
+- “**pre-1948 contributor**” means a person who, within the prescribed time referred to in paragraph 17(1)(a) of Schedule 11 to the former principal Act, was, or was deemed to be, or was treated as insured under the Contributory Pensions Acts;
+- “**reckonable year**” for the purposes of the contribution conditions for any benefit means a tax year before 6th April 1978 in which the contributor concerned paid or was credited with contributions of a relevant class and the earnings factor derived from those contributions amounted to not less than that year's lower earnings limit multiplied by 50;
+- “**year**” means tax year.
+
+(2) Any reference in these regulations to a pre-1975 beneficiary who is entitled to benefit under the former principal Act shall include a person who but for any disqualification or forfeiture would be entitled to such benefit; and where, on or after 6th April 1975, a person is, by virtue of these regulations, entitled to benefit under the Act or the Pensions Act, such entitlement shall be subject to any disqualification or forfeiture and subject to any reduction in the rate of benefit payable to which that person's entitlement to benefit under the former principal Act would have been subject if that Act had continued on or after 6th April 1975.
+
+(3) For the purposes of these regulations a person who has obtained a decree absolute of presumption of death and dissolution of marriage under the Matrimonial Causes Act 1973 shall, notwithstanding that the spouse whose death has been presumed is dead, be treated as a person whose marriage has been terminated otherwise than by the death of his spouse unless the date of his death is established to the satisfaction of the Secretary of State, a Commissioner, or an appeal tribunal constituted under Chapter I of Part I of the Social Security Act 1998[^key-1ea9c1a5e0d2c0909858271de1ea559c], whichever is appropriate; and, in relation to a person who is so treated, the marriage in question shall be treated as having been terminated on the date of the decree absolute.
+
+## 3. Modifications of pensions legislation in its application to pre-1975 beneficiaries and pre-1975 contributors[^key-1295adeeb3078a7297e58aaa5baaf70a]
+
+In relation to pre-1975 beneficiaries and pre-1975 contributors the provisions of the Act, the Pensions Act and the 1992 Act[^key-de5b7a1f96f775bd24b781e537d56770] and the orders and regulations for the time being in force thereunder shall have effect subject to the modifications made by these regulations.
+
+## 4. Benefit in respect of events or for periods commencing before 6th April 1975
+
+Where, on or after 6th April 1975, a person claims, in respect of an event falling or for a period commencing before 6th April 1975, benefit under the former principal Act of a description specified in Column (1) of Schedule 1 to these regulations, the claim shall, subject to the provisions of regulation 5, be determined as respects such event or for such period as if the provisions of the former principal Act and the enactments specified in the third column of Schedule 1 to the Social Security (Consequential Provisions) Act 1975 covering entitlement to such benefit had continued in force in place of the provisions of the Act and the Pensions Act covering entitlement to benefit of a corresponding description.
+
+## 5. Provision of alternative rights to benefit
+
+(1) Subject to regulation 2(2) where, immediately before 6th April 1975, a pre-1975 beneficiary was entitled to benefit under the former principal Act of a description specified in Column (1) of Schedule 1 to these regulations or to any increase of such benefit for a child or adult dependant, he shall as from that date be entitled, without any claim being made therefore, or award being made thereof, to benefit under the Act or the Pensions Act of a description set out in Column (2) of that Schedule opposite the said benefit under the former principal Act specified in Column (1) as if such benefit had been claimed and awarded under the Act or the Pensions Act, and to any increase of such benefit for a child or adult dependant to which he may be entitled under or by virtue of those Acts.
+
+(2) Where, immediately before 6th April 1975, a woman was entitled to a widow's pension under the former principal Act by virtue of regulation 13 of the National Insurance (Widow's Benefit and Retirement Pensions) Regulations 1972 as being incapable of self-support by reason of an infirmity, she shall, subject to regulation 2(2), be entitled as from 6th April 1975 to a widow's pension under the Act for any period for which she would have been entitled to such a pension under the former principal Act if the said regulation 13 and the provisions referred to in that regulation had continued in force.
+
+## 6. Modifications relating to the first contribution condition for widowed mother's allowance, widow's pension and Category A and B retirement pension
+
+(1) The first contribution condition for a widowed mother's allowance, a widow's pension or a Category A or Category B retirement pension specified in paragraph 5(2) of Schedule 3 to the Act shall be deemed to be satisfied in any case where the contributor concerned is, or was, a pre-1975 contributor who had paid not less than 50 pre-1975 contributions.
+
+(2) The said contribution condition for a Category A retirement pension shall be deemed to be satisfied in the case of a woman who attains pensionable age on or after 6th April 1975 if—
+
+- (a) she was a widow who was entitled to a widow's allowance or a widowed mother's allowance under the former principal Act at any time before 6th April 1975 and has not re-married before attaining pensionable age; or
+- (b) her marriage was terminated before 6th April 1975 otherwise than by the death of her husband and she has not re-married before attaining pensionable age and her husband had paid not less than 50 pre-1975 contributions before the termination of the marriage.
+
+## 7. Modifications relating to the second contribution condition for widowed mother's allowance, widow's pension and Category A and B retirement pension and to the contribution condition for Category A and B retirement pension for those attaining pensionable age on or after 6th April 2010[^key-41c3793df459e81bbaf65f04c0001445]
+
+(1) The following provisions of this regulation shall, except where expressly provided otherwise, have effect for the purposes of—[^key-8bed866f76154cb41ab383579ac268ec]
+
+- (a) the second contribution condition for a widowed mother’s allowance, a widow’s pension or a Category A or Category B retirement pension specified in paragraph 5(3) of Schedule 3 to the 1992 Act; and
+- (b) the contribution condition for a Category A or Category B retirement pension specified in paragraph 5A(2) of that Schedule.
+
+(2) Subject to paragraph (3), where the contributor concerned is, or was, a pre-1975 contributor he shall, in respect of that part of his working life falling before 6th April 1975, have the number of reckonable years obtained by taking the total number of contributions of any class paid by or credited to him, in accordance with the provisions of the former principal Act or regulations made thereunder, for each week in the said part of his working life or credited to him by any provision of these regulations and dividing it by 50 and, if the resultant quotient is not a whole number, by rounding it up to the nearest whole number;
+
+provided that the number of reckonable years so obtained shall not exceed the number of years of a person's working life falling before 6th April 1975.
+
+(3) For the purposes of a Category B retirement pension under section 29(2) or (3) of the Act where the contributor concerned was a pre-1975 contributor who attained pensionable age before 6th April 1975, the second contribution condition shall be deemed to be satisfied to the same extent as it was satisfied in relation to that contributor for the purposes of his Category A retirement pension; so however that this paragraph shall not apply where that contributor died on or after that date.
+
+(4) A contribution as payable by a non-employed person under the former principal Act shall be credited to a pre-1975 contributor—
+
+- (a) if he was a pre-1948 contributor, for each contribution week during the period from 6th April 1936, or if later, 6th April of the year in which he last entered into insurance under the Contributory Pensions Acts, to 4th July 1948; or
+- (b) if he was not a pre-1948 contributor but was insured under the former principal Act and—
+  - (i) he was over the age of 16 on 5th July 1948, for each contribution week in the period from 6th April 1948 to 4th July 1948; or
+  - (ii) he attained the age of 16 on or after 5th July 1948, for each contribution week in the period from 6th April of the year in which he attained the age of 16 up to the contribution week immediately before that in which he reached the upper limit of compulsory school age or, if later, the contribution week immediately before that in which he attained the age of 16;
+
+provided that a contribution credited to a pre-1975 contributor under this paragraph for any contribution week specified therein shall be treated as credited in place of any contribution under the Contributory Pensions Acts or a contribution of any class under the former principal Act that may have been paid by, or otherwise credited to, that contributor in respect of such a week.
+
+(5) In any case where the contributor concerned attained the age of 16 before 6th April 1975 and is not a pre-1975 contributor, a contribution as payable by a non-employed person under the former principal Act shall be credited to him—
+
+- (a) if he attained the age of 16 before 5th July 1948, for each contribution week in the period from 6th April 1948 to 4th July 1948;
+- (b) if he attained the age of 16 on or after 5th July 1948, for each contribution week from 6th April of the year in which he attained the age of 16 up to the contribution week immediately before that in which he attained that age;
+
+provided that the maximum number of weeks for which a contribution may be credited to any person by virtue of the provisions of this paragraph shall be 50.
+
+(6) For the purposes of paragraphs (4) and (5), if the period for which contributions are to be credited does not commence with midnight between Sunday and Monday, the days from the beginning of such period up to the first such midnight shall be treated as constituting a contribution week and if the period for which contributions are to be credited does not cease with midnight between Sunday and Monday, the days from the last such midnight to the end of such period shall be disregarded.
+
+(7) Subject to paragraph (8), the working life of a person who attained the age of 16 before 5th July 1948 shall—
+
+- (a) if he was a pre-1948 contributor, be the period between 6th April 1936 or, if later, 6th April of the year in which he last entered into insurance under the Contributory Pensions Acts, and the end of the year immediately before that in which he attains pensionable age or dies under that age; or
+- (b) if he was not a pre-1948 contributor, be the period between 6th April 1948 and the end of the year immediately before that in which he attains pensionable age or dies under that age.
+
+(8) Where the contributor concerned has died on or after 6th April 1975 and he was—
+
+- (a) a pre-1948 contributor whose last date of entry into insurance under the Contributory Pensions Acts was before 30th September 1946 and who at that date of entry was within 5 years of pensionable age; or
+- (b) a pre-1948 contributor whose last date of entry into insurance under the Contributory Pensions Acts was on or after 30th September 1946 and who at that date of entry was within 10 years of pensionable age; or
+- (c) a person who was not a pre-1948 contributor and who was, immediately before 5th July 1948, within 10 years of pensionable age,
+
+his working life shall be—
+
+- (d) where the contributor concerned is a person to whom paragraph (a) or (b) applies, the period from 6th April of the year in which he last entered into insurance under the Contributory Pensions Acts to 5th April immediately before the date on which he completed—
+  - (i) where paragraph (a) applies, the said period of 5 years;
+  - (ii) where paragraph (b) applies, the said period of 10 years;
+- (e) where the contributor concerned is a person to whom paragraph (c) applies, the period from 6th April 1948 to 5th April 1958,
+
+and the provisions of paragraph (2) shall apply as if any employer's contribution paid in respect of any person to whom this paragraph applies for any period after such person reached pensionable age were a contribution paid by that person.
+
+(9) If a pre-1948 contributor's last dates of entry into insurance under the Contributory Pensions Acts were different dates for widows' and orphans' pensions purposes and old age pensions purposes, his date of entry into insurance under those Acts for the purposes of the second contribution condition for a widowed mother's allowance, a widow's pension or a Category B retirement pension for a widow by virtue of her husband's contributions shall be his last date of entry into insurance for widows' and orphans' pensions purposes, and for the purpose of the said contribution condition for a Category A retirement pension shall be his last date of entry into insurance for old age pensions purposes.
+
+(10) In the case of a person (hereinafter called “**the beneficiary**” ) whose former spouse or former civil partner[^key-d6aec4cc177e3efedbe574553bdd6aa0] was a pre-1975 contributor and who has the contributions of his said spouse or civil partner[^key-1ab66def8d99d2e446ec3cfa15d5ed6b] treated, by virtue of regulation 8 of, and Schedule 1 to, the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979 as if they were contributions of his own so as to entitle him to a Category A retirement pension—
+
+- (a) the number of any qualifying years before 6th April 1975 which, by virtue of regulations 7(2) and 13, were or could have been obtained by his former spouse or former civil partner and which may be taken into account towards the beneficiary's said entitlement, shall be ascertained by reference to the number of contributions of any class paid by or credited to his former spouse or former civil partner in respect of[^key-23a0a97cbd95241f43dbbefb90f2273a] the period of the former spouse's or former civil partner’s[^key-cf0ea53efc4304ecafb85a8cd49f9c16] working life between (inclusive) the first year of his working life and (exclusive) the year in which the marriage terminated or the year 1975/76, whichever is the earlier (or, in the case of a civil partnership, the year 1975/76)[^key-95d5ae8f520d08f45e32cd749b44c381], and shall not exceed the number of years in that period; and
+- (b) the number of any qualifying years before 6th April 1975 which, by virtue of regulations 7(2) and 13, are obtained by the beneficiary by virtue of paragraph 2(b) or, as the case may be, paragraph 3(b) of the said Schedule and which may be taken into account towards his said entitlement shall be ascertained by reference to the number of contributions of any class paid by or credited to him during the period or periods specified in the said paragraphs which fell before 6th April 1975 and shall not exceed the number of years in that period or in each of those periods, as the case may be;
+- (c) where the beneficiary is a woman, if her husband died on or after 5th July 1948 and immediately before that date he was insured under the Contributory Pensions Acts for purposes which included widows' and orphans' pensions purposes, the working life of her said husband may, if it would be more favourable to her, be treated as the period between 6th April 1936 or, if later, 6th April of the year in which he last entered into insurance for widows' and orphans' pensions purposes and the end of the year immediately before that in which he attained pensionable age or died under that age.
+
+## 8. Modifications relating to the contribution condition for child's special allowance
+
+The contribution condition for a child's special allowance specified in paragraph 6(1) of Schedule 3 to the Act shall be deemed to be satisfied in any case where the contributor concerned is, or was, a pre-1975 contributor who attained pensionable age or died under that age on or after 6th April 1975 and had paid not less than 50 pre-1975 contributions.
+
+## 9. Modifications in respect of claims and questions relating to persons who attained pensionable age before 6th April 1975 but who retire thereafter
+
+Where a person who, having attained pensionable age before 6th April 1975, retires on or after that date or, having made an election before that date under section 35 of the former principal Act, retires on or after that date—
+
+- (a) any question under the former principal Act relating to that person's entitlement to a retirement pension determined in advance of a claim before 6th April 1975 shall be treated, for the purpose of facilitating the determination of a subsequent claim to a Category A or a Category B retirement pension, as a question determined under the Act in relation to that person's entitlement to such a pension; and
+- (b) subject to regulation 4, any claim for, or question relating to, that person's entitlement to a retirement pension that has not been determined before 6th April 1975 shall be for determination as a claim for, or a question under the Act relating to that person's entitlement to, a Category A or, as the case may be, a Category B retirement pension.
+
+## 10. Modifications relating to increases of retirement pension for deferred retirement
+
+(1) In this regulation and in regulations 11 and 12—
+
+- “**a pre-1975 increment**” means an increase of retirement pension under section 31(1) or 34(1) of the former principal Act;
+- “**a post-1975 increment**” means an increase of a Category A or B retirement pension which accrued under section 28(4), 28(5) or 29(10) of the Act between 6th April 1975 and 5th April 1979 (both dates inclusive);
+
+and the pre-1975 beneficiaries to whom the said regulations relate are those who, immediately before 6th April 1975, were, or but for any disqualification or forfeiture would be, entitled to, or who have prospective rights to, or expectation of, a pre-1975 increment.
+
+(2) The weekly rate of a Category A or B retirement pension payable to a pre-1975 beneficiary to whom this regulation relates shall, in addition to any post-1975 increments that fall to be made, be increased by the amount of any pre-1975 increments to which, immediately before 6th April 1975 he was, or but for any disqualification or forfeiture would have been, entitled or to which he had a prospective right or expectation, together with increases (if any) of the said amount calculated in accordance with the provisions of section 124 of the Act and section 23(3) of the Pensions Act.
+
+(3) The weekly rate of a Category B retirement pension payable to the widow of a pre-1975 beneficiary to whom this regulation applies, whom she married on or after 6th April 1975 shall, in addition to any post-1975 increments that fall to be made, be increased by one half of the amount of any pre-1975 increments by which the Category A retirement pension of her husband would, if were still alive, be increased for him by the provisions of paragraph (2).
+
+(4) Where a pre-1975 beneficiary to whom this regulation relates has, immediately before 6th April 1979, entitlement, or a prospective right, to at least one pre-1975 increment, paragraph 1 of Schedule 1 to the Pensions Act shall apply to his case as if—
+
+- (a) the words “but only if that amount is enough to increase the rate of the pension by at least 1 per cent” were omitted from that paragraph, and
+- (b) any contribution as an employed or self-employed person, paid by him under the former principal Act in respect of any period after he attained pensionable age and not taken into account for a pre-1975 or a post-1975 increment, were treated as an incremental period for the purposes of Schedule 1 to the Pensions Act.
+
+(5) Where a pre-1975 beneficiary to whom this regulation relates is a woman who has attained pensionable age but has not yet attained the age of 65, any Category B retirement pension payable to her by virtue of regulation 18 for any day before the day on which she attains the age of 65 or retires before attaining that age shall be disregarded for the purposes of regulation 4 of the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979.
+
+## 11. Modifications in respect of increases of retirement pension relating to persons who attained pensionable age before 6th April 1979 but who retire thereafter
+
+(1) The following provisions of this regulation relate to a person who, having attained pensionable age before 6th April 1979, retires from regular employment on or after that date or, having made an election before that date under section 30(3) of the Act or section 35 of the former principal Act, retires on or after that date.
+
+(2) Where a person, before 6th April 1979, satisfied the condition in section 28(4) of the Act that the number of days of increment was at least 48, paragraph 1 of Schedule 1 to the Pensions Act shall apply to his case as if the words “but only if that amount is enough to increase the rate of the pension by at least 1 per cent” were omitted from that paragraph.
+
+(3) Where a person, before 6th April 1979, did not satisfy the condition in section 28(4) of the Act that the number of days of increment was at least 48, then, subject to the condition specified in paragraph 1 of Schedule 1 to the Pensions Act (that an increase under that paragraph is payable only if its amount would increase the retirement pension by at least 1 per cent)—
+
+- (a) that person's retirement pension shall be increased by 1/8th per cent of its rate for each period of six days of increment which fell before 6th April 1979, and
+- (b) any such day of increment which does not form part of a period as aforesaid shall be treated as a day of increment for the purposes of Schedule 1 to the Pensions Act.
+
+(4) For the sole purpose of determining whether the condition specified in paragraph 1 of Schedule 1 to the Pensions Act (referred to in paragraph (3) above) has been satisfied by a married woman whose husband's days of increment before 6th April 1979 amounted to less than 48, her entitlement to an increase of a Category B retirement pension in respect of the period before 6th April 1979 shall be calculated on the basis of an increase of 1/8th per cent for each incremental period which fell within the period beginning with the day on which her husband attained pensionable age, she attained pensionable age or they were married, whichever is the latest, and ending on 5th April 1979.
+
+## 12. Provision relating to increase of retirement pension where pensioner's deceased spouse or deceased civil partner had deferred retirement[^key-f0dda2251e442692e80a23a0e0246368]
+
+For the purpose of calculating entitlement to an increase of retirement pension under paragraph 4 of Schedule 1 to the Pensions Act (increase of Category A or Category B retirement pension by amount to which deceased spouse or deceased civil partner[^key-8494015278b606b64fc480ff2f88df4b] was entitled) in the case of a person whose spouse dies on or after 6th April 1979 or whose civil partner dies on or after 5th December 2005[^key-93f7b129532b5e930b7d0492dcfe43b4], or, in the case of a widow, who attains pensionable age on or after 6th April 1979[^key-16674aea528dabced7ad843f608cea44], any pre-1975 increment or post-1975 increment to which the deceased spouse or deceased civil partner was entitled or would at his death have been entitled if his entitlement had not been deferred[^key-c488ca4551ce3b8d2bd9271c3573d4ff] shall be treated as an increase to which he was entitled under the said Schedule.
+
+## 12A. Provision relating to increase of a woman's Category A or B retirement pension on termination of marriage[^key-38cbc57f4035c43ebb77f19f3c8837d9]
+
+In the case of a woman—
+
+- (a) who before 6th April 1979 was or, if both she and her husband had retired immediately before that date, would have been entitled under section 29(10)(a) of the Act (increase of a woman's Category B retirement pension where her husband deferred his retirement) to an increase of the weekly rate of her Category B retirement pension, and
+- (b) whose marriage has terminated on or after 6th April 1979,
+
+the weekly rate of her Category B retirement pension or, where by virtue of section 9 or section 20 of the Pensions Act she has become entitled to a Category A retirement pension, the weekly rate of her Category A retirement pension shall be increased, with effect from the date on which this regulation comes into operation or of the said termination or, in the case of a Category A retirement pension, her retirement, whichever is the latest, by the amount by which her Category B retirement pension was, or would have been, increased under the said section 29(10)(a) together with any increase of that amount by virtue of section 124 of the Act (increase of rates of benefit).
+
+## 13. Provision relating to treatment of reckonable years
+
+(1) For the purposes of paragraph 5(2)(b) and (3)(b) and paragraph 5A(2)(b) of Schedule 3 to the 1992 Act[^key-19771ca956416e8358db232f5114cf58] and Schedule 1 to the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979 any reckonable year or years shall be treated as a qualifying year or years.
+
+(2) In this regulation “**qualifying year**” means a year in which a person's earnings factor is sufficient for satisfaction of paragraph (b) of the second contribution condition specified in paragraph 5(3) of Schedule 3 to the 1992 Act or paragraph (b) of the contribution condition specified in paragraph 5A(2) of that Schedule[^key-a8b4b5998ef3c88ae264a572b2e92833].
+
+## 14. Provision relating to Category B retirement pension for widowers
+
+The condition in section 8(1)(c) of the Pensions Act (that the deceased wife satisfied the contribution conditions in paragraph 5 of Schedule 3 to the Act) shall not be satisfied by virtue of any contributions of a woman's former husband which were treated as her own by virtue of section 28(3) of, and Schedule 7 to, the Act or regulation 4(1) of, and the Schedule to, the Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations 1974 as in force immediately before 6th April 1979.
+
+## 15. Provision relating to widow's election to be treated as not having retired
+
+Where a woman who became entitled to a Category B retirement pension under section 29(4) of the Act before 6th April 1979, has, on or after that date, made an election under section 30(3) of the Act and has not revoked it then, for the purpose only of determining her right to increments under Schedule 1 to the Pensions Act, her election shall be treated as if it took effect from 6th April 1975 or, if later, the date of the death of her husband by virtue of whose contributions she is so entitled.
+
+## 16. Provision relating to increase under Schedule 1 to the Pensions Act of married woman's Category B retirement pension
+
+In relation to a woman who—
+
+- (a) attained pensionable age before 6th April 1979, and
+- (b) is married to a man who attained pensionable age before 6th April 1979, and
+- (c) on or after 6th April 1979 is entitled to a Category B retirement pension under section 29(2) or 29(3) of the Act,
+
+regulation 4(1)(b)(i) of the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979 (days of deferred retirement not to be treated as days of increment when certain benefits have been received) shall not apply by reason only of the fact that the woman has received graduated retirement benefit by virtue of her having paid graduated contributions as an insured person.
+
+## 17. Alternative benefit rights in place of widow's basic pension
+
+(1) Subject to regulation 2(2) where, immediately before 6th April 1975, a pre-1975 beneficiary was entitled to a widow's basic pension under the former principal Act, she shall be entitled, as from that date and until she either attains pensionable age and is entitled to a Category A or Category B retirement pension[^key-a44514b7fc52ea8f9697a06a6cc3cf4d], to a widow's pension under the Act as through she had been 40 years of age at her husband's death.
+
+(2) A person entitled to a widow's pension by virtue of this regulation shall be treated as having not been so entitled immediately before attaining pensionable age for the purposes of any regulations under the Act disqualifying a widow, not ordinarily resident in Great Britain, for receiving a retirement pension at a rate higher than the rate of widow's pension to which she was entitled immediately before attaining pensionable age.
+
+## 18. Alternative benefit rights in place of contributory old age pension
+
+(1) Subject to regulation 2(2) where, immediately before 6th April 1975, a pre-1975 beneficiary was entitled to a contributory old age pension under the former principal Act, such beneficiary shall, as from that date, be entitled—
+
+- (a) if entitled to a contributory old age pension by virtue of his or her own insurance, to a Category A retirement pension;
+- (b) if she is a woman who was entitled to a contributory old age pension by virtue of her husband's insurance, to a Category B retirement pension;
+
+and, in either case, the rate of retirement pension to which any such person becomes entitled on 6th April 1975 shall, subject to the provisions of regulation 5, be at the same rate as the contributory old age pension to which that person was entitled immediately before that date.
+
+(2)[^key-0c31633528fae4254e96eba0d8e87765] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. Provision relating to widow's pension for certain widows incapable of self-support by reason of an infirmity
+
+(1) Where before 7th January 1957 a widow ceased to be entitled to a widow's benefit under the former principal Act and when she so ceased she was incapable of self-support by reason of an infirmity, she shall for any subsequent period during which she is under the age of 65 and is incapable of self-support by reason of that infirmity have the same right (if any) to a widow's pension in respect of the marriage in respect of which she was entitled to the widow's benefit as if she was over the age of 50 when her husband died.
+
+(2)[^key-c873244d0110b4f0e6b4ccdb6f91e39f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Revocations
+
+The regulations specified in column (1) of Schedule 2 to these regulations are hereby revoked to the extent mentioned in Column (3) of that Schedule.
+
+Patrick Jenkin
+
+Secretary of State for Social Services
+
+## SCHEDULE 1 — ALTERNATIVE RIGHTS TO BENEFIT
+
+Regulations 4 and 5
+
+|  |  |
+| --- | --- |
+| Column (1) | Column (2) |
+| Benefits under the former principal Act | Benefits under the Act or the Pensions Act |
+| widowed mother's allowance | widowed mother's allowance |
+| widow's pension | widow's pension |
+| retirement pension by virtue of own insurance | Category A retirement pension |
+| retirement pension by virtue of husband's insurance whilst husband alive | Category B retirement pension at the rate specified in paragraph 9 of Part I of Schedule 4 to the Act |
+| retirement pension by virtue of husband's insurance and husband no longer alive | Category B retirement pension at the rate specified in section 6(1)(a) of the Pensions Act for the basic pension[^key-b43a18299a86c40048edb63435bf7bf9] of a Category A retirement pension |
+| retirement pension for, or in respect of, person over pensionable age on 5th July 1948 | Category C retirement pension at rate determined in accordance with section 39(2) of the Act |
+| retirement pension for person over 80 years of age | Category D retirement pension |
+| age addition | age addition |
+| invalidity increase of retirement pension | invalidity increase of Category A retirement pension |
+| widow's basic pension | widow's pension as provided for by regulation 17 |
+| contributory old age pension | Category A or B retirement pension as provided for by regulation 18 |
+| child's special allowance | child's special allowance |
+| death grant | death grant |
+| widow's pension by virtue of section 1(1) of the National Insurance Act 1970 | benefit by virtue of section 39(4) of the Act corresponding to a widow's pension |
+| widowed mother's allowance by virtue of the said section 1(1) | benefit by virtue of the said section 39(4) corresponding to a widowed mother's allowance |
+
+## SCHEDULE 2 — REGULATIONS REVOKED
+
+Regulation 20
+
+<table>
+<thead>
+<tr><th>Regulations revoked</th><th>Reference</th><th>Extent of revocation</th></tr>
+<tr><th>(1)</th><th>(2)</th><th>(3)</th></tr>
+</thead>
+<tbody>
+<tr><td>The Widow's Benefit, Retirement Pension and Other Benefits (Transitional) Regulations 1974</td><td>S.I. 1974/1757</td><td>The whole of the regulations</td></tr>
+<tr><td>The Social Security (Widow's Benefit and Retirement Pensions) Regulations 1974</td><td>S.I. 1974/2059</td><td>Regulations 16 and 17</td></tr>
+<tr><td>The Social Security (Miscellaneous Amendments and Transitional Provisions) Regulations 1975</td><td>S.I. 1975/566</td><td>Regulation 2</td></tr>
+<tr><td>The Social Security (Transitional) Amendment Regulations 1976</td><td>S.I. 1976/533</td><td>Regulation 2</td></tr>
+<tr><td>The Social Security (Benefit) (Transitional) Regulations 1979</td><td>S.I. 1979/345</td><td>Regulations 2, 3 and 4</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+These Regulations are made for the purpose only of consolidating the regulations hereby revoked and, accordingly, no reference of them has been made to the National Insurance Advisory Committee.
+
+These Regulations make provision for transitional matters connected with the coming into force of the Social Security Act 1975 and the Social Security Pensions Act 1975. They contain modifications of certain provisions of those Acts in their application to persons who, immediately before 6th April 1975, were insured under the National Insurance Act 1965; to persons who, immediately before 6th April 1979, were contributors under the Social Security Act 1975; and to persons who were entitled to, or had a prospective right to, or expectation of, benefit under those Acts. The modifications relate to entitlement to Category A and Category B retirement pensions, widowed mother's allowance, widow's pension, child's special allowance and increase of Category A and Category B retirement pensions on account of deferred retirement.
+
+## Annotations
+
+[^key-2cf1fd46aef6f605ca194010e194f15e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1979/643/regulation/2/1) inserted (6.4.2010) by [The Social Security (State Pension and National Insurance Credits) Regulations 2009 (S.I. 2009/2206)](https://www.legislation.gov.uk/uksi/2009/2206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2206/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2009/2206/regulation/17)
+
+[^key-1ea9c1a5e0d2c0909858271de1ea559c]: Textual amendment: Words in reg. 2(3) substituted (6.9.1999) by [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [art. 3(1)](https://www.legislation.gov.uk/uksi/1999/2422/article/3/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/1999/2422/schedule/4/paragraph/1)
+
+[^key-1295adeeb3078a7297e58aaa5baaf70a]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1979/643/regulation/3) heading substituted (6.4.2010) by [The Social Security (State Pension and National Insurance Credits) Regulations 2009 (S.I. 2009/2206)](https://www.legislation.gov.uk/uksi/2009/2206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2206/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2009/2206/regulation/18)
+
+[^key-de5b7a1f96f775bd24b781e537d56770]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1979/643/regulation/3) substituted (6.4.2010) by [The Social Security (State Pension and National Insurance Credits) Regulations 2009 (S.I. 2009/2206)](https://www.legislation.gov.uk/uksi/2009/2206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2206/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2009/2206/regulation/19)
+
+[^key-41c3793df459e81bbaf65f04c0001445]: Textual amendment: Words in reg. 7 heading inserted (6.4.2010) by [The Social Security (State Pension and National Insurance Credits) Regulations 2009 (S.I. 2009/2206)](https://www.legislation.gov.uk/uksi/2009/2206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2206/regulation/1/3), [20](https://www.legislation.gov.uk/uksi/2009/2206/regulation/20)
+
+[^key-8bed866f76154cb41ab383579ac268ec]: Textual amendment: Reg. 7(1)(a)(b) and words substituted for words (6.4.2010) by [The Social Security (State Pension and National Insurance Credits) Regulations 2009 (S.I. 2009/2206)](https://www.legislation.gov.uk/uksi/2009/2206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2206/regulation/1/3), [21](https://www.legislation.gov.uk/uksi/2009/2206/regulation/21)
+
+[^key-d6aec4cc177e3efedbe574553bdd6aa0]: Textual amendment: Words in [reg. 7(10)](https://www.legislation.gov.uk/uksi/1979/643/regulation/7/10) inserted (10.12.2014 for E.W., 16.12.2014 for S.) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/5/a)
+
+[^key-1ab66def8d99d2e446ec3cfa15d5ed6b]: Textual amendment: Words in [reg. 7(10)](https://www.legislation.gov.uk/uksi/1979/643/regulation/7/10) inserted (10.12.2014 for E.W., 16.12.2014 for S.) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/5/b)
+
+[^key-23a0a97cbd95241f43dbbefb90f2273a]: Textual amendment: Words in reg. 7(10)(a) substituted (14.12.1981) by [The Social Security (Widow's Benefit, Retirement Pensions and Other Benefits) (Transitional) Amendment Regulations 1981 (S.I. 1981/1627)](https://www.legislation.gov.uk/uksi/1981/1627), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1627/regulation/1), [2](https://www.legislation.gov.uk/uksi/1981/1627/regulation/2)
+
+[^key-cf0ea53efc4304ecafb85a8cd49f9c16]: Textual amendment: Words in [reg. 7(10)](https://www.legislation.gov.uk/uksi/1979/643/regulation/7/10) inserted (10.12.2014 for E.W., 16.12.2014 for S.) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/5/c)
+
+[^key-95d5ae8f520d08f45e32cd749b44c381]: Textual amendment: Words in [reg. 7(10)](https://www.legislation.gov.uk/uksi/1979/643/regulation/7/10) inserted (10.12.2014 for E.W., 16.12.2014 for S.) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/3), [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/5/d)
+
+[^key-f0dda2251e442692e80a23a0e0246368]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1979/643/regulation/12) heading inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/11/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-8494015278b606b64fc480ff2f88df4b]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1979/643/regulation/12) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/11/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-93f7b129532b5e930b7d0492dcfe43b4]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1979/643/regulation/12) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 11(2)(c)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/11/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-16674aea528dabced7ad843f608cea44]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1979/643/regulation/12) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 11(2)(d)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/11/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-c488ca4551ce3b8d2bd9271c3573d4ff]: Textual amendment: Words in reg. 12 substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/12/2)
+
+[^key-38cbc57f4035c43ebb77f19f3c8837d9]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1979/643/regulation/12A) inserted (14.12.1981) by [The Social Security (Widow's Benefit, Retirement Pensions and Other Benefits) (Transitional) Amendment Regulations 1981 (S.I. 1981/1627)](https://www.legislation.gov.uk/uksi/1981/1627), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1627/regulation/1), [3](https://www.legislation.gov.uk/uksi/1981/1627/regulation/3)
+
+[^key-19771ca956416e8358db232f5114cf58]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1979/643/regulation/13/1) substituted (6.4.2010) by [The Social Security (State Pension and National Insurance Credits) Regulations 2009 (S.I. 2009/2206)](https://www.legislation.gov.uk/uksi/2009/2206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2206/regulation/1/3), [22(2)](https://www.legislation.gov.uk/uksi/2009/2206/regulation/22/2)
+
+[^key-a8b4b5998ef3c88ae264a572b2e92833]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/1979/643/regulation/13/2) substituted (6.4.2010) by [The Social Security (State Pension and National Insurance Credits) Regulations 2009 (S.I. 2009/2206)](https://www.legislation.gov.uk/uksi/2009/2206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2206/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2009/2206/regulation/22/3)
+
+[^key-a44514b7fc52ea8f9697a06a6cc3cf4d]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1979/643/regulation/17/1) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/12/3)
+
+[^key-0c31633528fae4254e96eba0d8e87765]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1979/643/regulation/18/2) omitted (1.10.1989) by virtue of [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [12(4)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/12/4)
+
+[^key-c873244d0110b4f0e6b4ccdb6f91e39f]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/1979/643/regulation/19/2) revoked (6.9.1999) by [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [art. 3(1)](https://www.legislation.gov.uk/uksi/1999/2422/article/3/1), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/1999/2422/schedule/4/paragraph/2)
+
+[^key-b43a18299a86c40048edb63435bf7bf9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1979/643/schedule/1) substituted (6.4.1987) by [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), [reg. 1](https://www.legislation.gov.uk/ukpga/1986/50/regulation/1), [s. 18(1)](https://www.legislation.gov.uk/ukpga/1986/50/section/18/1)

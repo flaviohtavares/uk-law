@@ -1,0 +1,59 @@
+---
+title: Taxation of Chargeable Gains Act 1992, section 198C
+act: Taxation of Chargeable Gains Act 1992
+section: 198C
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/12/section/198C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation of Chargeable Gains Act 1992, section 198C
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 198C. Provisional application of sections 198A and 198B[^key-b5860f8d292feb332d076a83451242de]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where a person (“P”) carrying on a ring fence trade who for a consideration disposes of, or of an interest in, any assets (“the old assets”) declares, in P's return for the chargeable period in which the disposal takes place—
+
+- (a) that the whole or any specified part of the consideration will be applied in the acquisition of, or of an interest in, other assets (“the new assets”),
+- (b) that the acquisition will take place as mentioned in section 152(3),
+- (c) that the disposal and acquisition will be a ring fence reinvestment,
+- (d) that P intends to make a claim under section 198A or 198B in relation to the disposal and acquisition, and
+- (e) that P has not made, and will not make, a declaration under section 153A in relation to the disposal and acquisition.
+
+(2) Until the declaration ceases to have effect, section 198A or 198B applies as if the acquisition had taken place and the person had made a claim under that section.
+
+(3) The declaration ceases to have effect as follows—
+
+- (a) if and to the extent that it is withdrawn before the relevant day, or is superseded before that day by a valid claim made under section 198A or 198B, on the day on which it is so withdrawn or superseded, and
+- (b) if and to the extent that it is not so withdrawn or superseded, on the relevant day.
+
+(4) On the declaration ceasing to have effect in whole or in part, all necessary adjustments—
+
+- (a) are to be made by making or amending assessments or by repayment or discharge of tax, and
+- (b) are to be so made despite any limitation on the time within which assessments or amendments may be made.
+
+(5) If—
+
+- (a) P makes a declaration under this section, and
+- (b) the disposal and acquisition is not a ring fence reinvestment, but qualifies for roll-over relief or section 153 relief,
+
+on P making a claim, the declaration is to have effect as also a declaration under section 153A.
+
+(6) In this section “**the relevant day**” means—
+
+- (a) in relation to capital gains tax, the third anniversary of the 31st January next following the year of assessment in which the disposal of, or of the interest in, the old assets took place, and
+- (b) in relation to corporation tax, the fourth anniversary of the last day of the accounting period in which that disposal took place.
+
+(7) Section 152(6), (10) and (11) apply for the purposes of this section as they apply for the purposes of section 152.
+
+## Annotations
+
+[^key-b5860f8d292feb332d076a83451242de]: Textual amendment: Ss. 198A-198G inserted (with effect in accordance with Sch. 40 para. 13 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/12)

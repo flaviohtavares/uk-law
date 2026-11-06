@@ -1,0 +1,71 @@
+---
+title: Roads (Scotland) Act 1984, section 140
+act: Roads (Scotland) Act 1984
+section: '140'
+status: revised-with-pending-changes
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1984/54/section/140
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Roads (Scotland) Act 1984, section 140
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/54
+>
+> Extent: Scotland.
+
+## 140. Powers of entry.
+
+*Extent: S*
+
+(1) A person authorised by a roads authority shall, on producing, if so required, some duly authenticated document showing his authority in that regard, have a right to enter any land at all reasonable hours for the purpose of—
+
+- (a) surveying that or any other land in connection with the exercise of the functions of the roads authority under this Act;
+- (b) laying and leaving on the land apparatus for the purpose of the survey or removing such apparatus;
+- (c) searching or boring to ascertain for the purpose of the survey—
+  - (i) the nature of the subsoil or the presence of minerals; or
+  - (ii) the nature of any mining operations or other activity taking place beneath the surface of the land which may affect the stability of a public road;
+- (d) inspecting anything which any person is under a duty to maintain under this Act;
+- (e) ascertaining whether any work required to be done by or under this Act by any person in relation to any land has been done;
+- (f) inspecting any work to which a consent or authorisation granted by the authority under this Act relates;
+- (g) carrying out anything which is required, by a notice served by the authority under this Act, to be done by any person in relation to any land and which the person has failed to do in accordance with the notice; or
+- (h) taking any other action, or executing any work, authorised or required by, under or by virtue of this Act to be taken or executed by the roads authority.
+
+(2) Without prejudice to subsection (8) below, and subject to any provision of this Act which allows an authority to act in an emergency, entry to land shall not be demanded as of right under or by virtue of this Act unless at least 7 days notice of the intended entry has been given to the occupier.
+
+(3) Without prejudice to any other provision of this Act which requires notice of proposed works to be given, works shall not be carried out on any land in pursuance of subsection (1)(b) or (c) above by a person unless at least 7 days notice of the intention to do so has been given by that person—
+
+- (a) to the owner and occupier of the land; and
+- (b) in the case referred to in subsection (1)(c) above, to the Coal Authority, any licensed operator (within the meaning of the Coal Industry Act 1994), and[^c1610931], and any other proprietor of underground mineral workings, where the Coal Authority, any licensed operator (within the meaning of the Coal Industry Act 1994), and the other proprietor’s interests are liable to be affected by the searching or boring.
+
+(4) Statutory undertakers [^c1610933]. . .may object to the roads authority about the carrying out of works proposed to be carried out under subsection (1)(b), (c) or (h) above on the grounds that the carrying out thereof would be seriously detrimental to the carrying on of their undertaking; and in that event the works shall not be carried out except with the authority of the Secretary of State after consultation with the Minister responsible for the undertaking.
+
+(5) A person contravening subsection (3) or (4) above commits an offence.
+
+(6) A roads authority shall be entitled to recover the expenses reasonably incurred by them in doing anything in relation to any land under—
+
+- (a) subsection (1)(e) above from the person who has been required to do the work;
+- (b) subsection (1)(f) above, from the person to whom the consent or authorisation has been granted,
+
+but may remit any sum, or any part of that sum, due to them under this subsection as they think fit.
+
+(7) Where such expense as is mentioned in subsection (6) above is recoverable under that subsection from more than one person, the roads authority may apportion such expense among them.
+
+(8) If it is shown to the satisfaction of the sheriff, or of a magistrate or justice of the peace having jurisdiction in the place where the land is situated, on evidence on oath—
+
+- (a) that admission to land which any person is entitled to enter by virtue of this section has been refused to that person, or that refusal is apprehended, or that the land is unoccupied, or the occupier is temporarily absent, or that the case is one of urgency, and
+- (b) that there are reasonable grounds for entry to the land for any purpose for which the right of entry is exercisable,
+
+the sheriff, magistrate or justice may by warrant authorise the person to enter the land.
+
+(9) A person who wilfully obstructs a person upon whom a right of entry has been conferred by any of the provisions of this section or by a warrant issued thereunder commits an offence.
+
+(10) Where, in the exercise of a power of entry conferred by this section, damage has been caused to land or to corporeal moveables, any person having an interest in the land or moveables may recover compensation in respect of that damage from the roads authority by whom or on whose behalf the power was exercised; and where in consequence of the exercise of such power a person is disturbed in his enjoyment of land or corporeal moveables, he may recover from the roads authority compensation in respect of the disturbance.
+
+## Annotations
+
+[^c1610931]: Textual amendment: Words in s. 140(3)(b) substituted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 9 para. 31(a)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/31/a) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
+
+[^c1610933]: Textual amendment: Words in s. 140(4) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9), [para. 31(b)](https://www.legislation.gov.uk/ukpga/1994/21/paragraph/31/b), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)

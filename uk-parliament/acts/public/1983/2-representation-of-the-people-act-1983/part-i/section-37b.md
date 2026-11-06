@@ -1,0 +1,29 @@
+---
+title: Representation of the People Act 1983, section 37B
+act: Representation of the People Act 1983
+section: 37B
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/37B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Representation of the People Act 1983, section 37B
+
+> **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 37B. Power to change date of local elections to date of European Parliamentary general election: Wales[^key-0f209001cb841b70c0894a59e94f477a][^c14479931]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-0f209001cb841b70c0894a59e94f477a]: Textual amendment: S. 37B repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), regs. 1, 2(2))
+
+[^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

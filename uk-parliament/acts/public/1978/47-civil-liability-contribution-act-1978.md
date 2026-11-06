@@ -1,0 +1,301 @@
+---
+title: Civil Liability (Contribution) Act 1978
+id: ukpga/1978/47
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1978-07-31'
+text_date: '2021-04-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1978/47
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1978/47/pdfs/ukpga_19780047_en.pdf
+- http://www.legislation.gov.uk/ukpga/1978/47/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Civil Liability (Contribution) Act 1978
+
+> Text as at 2021-04-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W+N.I.*
+
+Civil Liability (Contribution) Act 1978
+
+1978 c.47
+
+An Act to make new provision for contribution between persons who are jointly or severally, or both jointly and severally, liable for the same damage and in certain other similar cases where two or more persons have paid or may be required to pay compensation for the same damage; and to amend the law relating to proceedings against persons jointly liable for the same debt or jointly or severally, or both jointly and severally, liable for the same damage.
+
+\[31st July 1978\][^c982664][^c982665][^c982666][^c982667][^c982668][^c982669][^key-05d8654174a5be43c27385179c47af33]
+
+## Proceedings for contribution
+
+*Extent: E+W+N.I.*
+
+### 1. Entitlement to contribution.[^c982671][^c2155717][^key-252150f60ce816d3bbf38e85259bc550][^key-68ae7fd6222ac6e97dffc193d22ae216][^c982670]
+
+(1) Subject to the following provisions of this section, any person liable in respect of any damage suffered by another person may recover contribution from any other person liable in respect of the same damage (whether jointly with him or otherwise).
+
+(2) A person shall be entitled to recover contribution by virtue of subsection (1) above notwithstanding that he has ceased to be liable in respect of the damage in question since the time when the damage occurred, provided that he was so liable immediately before he made or was ordered or agreed to make the payment in respect of which the contribution is sought.
+
+(3) A person shall be liable to make contribution by virtue of subsection (1) above notwithstanding that he has ceased to be liable in respect of the damage in question since the time when the damage occurred, unless he ceased to be liable by virtue of the expiry of a period of limitation or prescription which extinguished the right on which the claim against him in respect of the damage was based.
+
+(4) A person who has made or agreed to make any payment in bona fide settlement or compromise of any claim made against him in respect of any damage (including a payment into court which has been accepted) shall be entitled to recover contribution in accordance with this section without regard to whether or not he himself is or ever was liable in respect of the damage, provided, however, that he would have been liable assuming that the factual basis of the claim against him could be established.
+
+(5) A judgment given in any action brought in any part of the United Kingdom by or on behalf of the person who suffered the damage in question against any person from whom contribution is sought under this section shall be conclusive in the proceedings for contribution as to any issue determined by that judgment in favour of the person from whom the contribution is sought.
+
+(6) References in this section to a person’s liability in respect of any damage are references to any such liability which has been or could be established in an action brought against him in England and Wales by or on behalf of the person who suffered the damage; but it is immaterial whether any issue arising in any such action was or would be determined (in accordance with the rules of private international law) by reference to the law of a country outside England and Wales.
+
+### 2. Assessment of contribution.[^c2156112]
+
+(1)[^key-19675d445f6d660e210dac8e85db4cfc][^key-7f4e8b4b44ffc6e0d02e7bab251a311e] Subject to subsection (3) below, in any proceedings for contribution under section 1 above the amount of the contribution recoverable from any person shall be such as may be found by the court to be just and equitable having regard to the extent of that person’s responsibility for the damage in question.
+
+(2) Subject to subsection (3) below, the court shall have power in any such proceedings to exempt any person from liability to make contribution, or to direct that the contribution to be recovered from any person shall amount to a complete indemnity.
+
+(3) Where the amount of the damages which have or might have been awarded in respect of the damage in question in any action brought in England and Wales by or on behalf of the person who suffered it against the person from whom the contribution is sought was or would have been subject to—
+
+- (a) any limit imposed by or under any enactment or by any agreement made before the damage occurred;
+- (b) any reduction by virtue of section 1 of the [^c982672]Law Reform (Contributory Negligence) Act 1945 or section 5 of the [^c982673]Fatal Accidents Act 1976; or
+- (c) any corresponding limit or reduction under the law of a country outside England and Wales;
+
+the person from whom the contribution is sought shall not by virtue of any contribution awarded under section 1 above be required to pay in respect of the damage a greater amount than the amount of those damages as so limited or reduced.
+
+## Proceedings for the same debt or damage
+
+*Extent: E+W+N.I.*
+
+### 3. Proceedings against persons jointly liable for the same debt or damage.
+
+Judgment recovered against any person liable in respect of any debt or damage shall not be a bar to an action, or to the continuance of an action, against any other person who is (apart from any such bar) jointly liable with him in respect of the same debt or damage.
+
+### 4. Successive actions against persons liable (jointly or otherwise) for the same damage.
+
+If more than one action is brought in respect of any damage by or on behalf of the person by whom it was suffered against persons liable in respect of the damage (whether jointly or otherwise) the plaintiff shall not be entitled to costs in any of those actions, other than that in which judgment is first given, unless the court is of the opinion that there was reasonable ground for bringing the action.
+
+## Supplemental
+
+### 5. Application to the Crown.
+
+*Extent: E+W+N.I.*
+
+Without prejudice to section 4(1) of the [^c982674]Crown Proceedings Act 1947 (indemnity and contribution), this Act shall bind the Crown, but nothing in this Act shall be construed as in any way affecting Her Majesty in Her private capacity (including in right of Her Duchy of Lancaster) or the Duchy of Cornwall.
+
+### 6. Interpretation.
+
+*Extent: E+W+N.I.*
+
+(1) A person is liable in respect of any damage for the purposes of this Act if the person who suffered it (or anyone representing his estate or dependants) is entitled to recover compensation from him in respect of that damage (whatever the legal basis of his liability, whether tort, breach of contract, breach of trust or otherwise).
+
+(2) References in this Act to an action brought by or on behalf of the person who suffered any damage include references to an action brought for the benefit of his estate or dependants.
+
+(3) In this Act “**dependants**” has the same meaning as in the [^c982675]Fatal Accidents Act 1976.
+
+(4) In this Act, except in section 1(5) above, “**action**” means an action brought in England and Wales.
+
+### 7. Savings.
+
+*Extent: E+W+N.I.*
+
+(1) Nothing in this Act shall affect any case where the debt in question became due or (as the case may be) the damage in question occurred before the date on which it comes into force.
+
+(2) A person shall not be entitled to recover contribution or liable to make contribution in accordance with section 1 above by reference to any liability based on breach of any obligation assumed by him before the date on which this Act comes into force.
+
+(3) The right to recover contribution in accordance with section 1 above supersedes any right, other than an express contractual right, to recover contribution (as distinct from indemnity) otherwise than under this Act in corresponding circumstances; but nothing in this Act shall affect—
+
+- (a) any express or implied contractual or other right to indemnity; or
+- (b) any express contractual provision regulating or excluding contribution;
+
+which would be enforceable apart from this Act (or render enforceable any agreement for indemnity or contribution which would not be enforceable apart from this Act).
+
+### 8. Application to Northern Ireland.
+
+*Extent: E+W+N.I.*
+
+In the application of this Act to Northern Ireland—
+
+- (a) the reference in section 2(3)(b) to section 1 of the [^c982676]Law Reform (Contributory Negligence) Act 1945 or section 5 of the [^c982677]Fatal Accidents Act 1976 shall be construed as a reference to section 2 of the [^c982678]Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1948 or Article 7 of the [^c982679]Fatal Accidents (Northern Ireland) Order 1977;
+- (b) the reference in section 5 to section 4(1) of the [^c982680]Crown Proceedings Act 1947 shall be construed as a reference to section 4(1) of that Act as it applies in Northern Ireland;
+- (c) the reference in section 6(3) to the [^c982681]Fatal Accidents Act 1976 shall be construed as a reference to the Fatal Accidents (Northern Ireland) Order 1977;
+- (d) references to England and Wales shall be construed as references to Northern Ireland; and
+- (e) any reference to an enactment shall be construed as including a reference to an enactment of the Parliament of Northern Ireland and a Measure of the Northern Ireland Assembly.
+
+### 9. Consequential amendments and repeals.[^c982682]
+
+(1) The enactments specified in Schedule 1 to this Act shall have effect subject to the amendments set out in that Schedule, being amendments consequential on the preceding provisions of this Act.
+
+(2) The enactments specified in Schedule 2 to this Act are hereby repealed to the extent specified in column 3 of that Schedule.
+
+### 10. Short title, commencement and extent.
+
+*Extent: E+W+N.I.*
+
+(1) This Act may be cited as the Civil Liability (Contribution) Act 1978.
+
+(2) This Act shall come into force on 1st January next following the date on which it is passed.
+
+(3) This Act, with the exception of paragraph 1 of Schedule 1 thereto, does not extend to Scotland.
+
+## SCHEDULE 1 — Consequential Amendments
+
+Section 9(1).
+
+### The Law Reform (Contributory Negligence) Act 1945[^c982683]
+
+**1.**[^c982684] For section 5(b) of the Law Reform (Contributory Negligence) Act 1945 (application to Scotland) there shall be substituted—
+
+> (b) section 3 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1940 (contribution among joint wrongdoers) shall apply in any case where two or more persons are liable, or would if they had all been sued be liable, by virtue of section 1(1) of this Act in respect of the damage suffered by any person.
+
+### The Public Utilities Street Works Act 1950[^c982685]
+
+*Extent: E+W+N.I.*
+
+**2.**[^c982687] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Statute of Limitations (Northern Ireland) 1958[^c982688]
+
+*Extent: E+W+N.I.*
+
+**3&4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c982689]
+
+### The Carriage by Air Act 1961[^c982690]
+
+*Extent: E+W+N.I.*
+
+**5.**[^c982691] (1) In section 4(1) of the Carriage by Air Act 1961 (limitation of liability) paragraph (a) shall be omitted.
+
+(2) In section 5(2) of that Act, for the word “tortfeasors” there shall be substituted the words “persons liable for any damage to which the Convention relates”.
+
+### The Limitation Act 1963[^c982692]
+
+*Extent: E+W+N.I.*
+
+**6.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c982693]
+
+### The Carriage of Goods by Road Act 1965[^c982694]
+
+*Extent: E+W+N.I.*
+
+**7.**[^c982695] In section 5(1) of the Carriage of Goods by Road Act 1965 (exclusion, as respects carriers of the general laww with respect to contribution between persons liable for the same damage), for the words from “section 6(1)(c)” to “(Northern Ireland) 1937” there shall be substituted the words “section 1 of the Civil Liability (Contribution) Act 1978”.
+
+### The Carriage by Railway Act 1972[^c982696]
+
+*Extent: E+W+N.I.*
+
+**8.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c982697]
+
+## SCHEDULE 2 — Repeals[^c982698]
+
+*Extent: E+W+N.I.*
+
+Section 9(2).
+
+| Chapter | Short Title | Extent of Repeal |
+| --- | --- | --- |
+| 25 & 26 Geo. 5. c. 30. | The Law Reform (Married Women and Tortfeasors) Act 1935. | Section 6. |
+| 1 Edw. 8 & 1 Geo. 6. c. 9 (N.I). | The Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1937. | Section 16. |
+| 8 & 9 Geo. 6 c. 28. | The Law Reform (Contributory Negligence) Act 1945. | Section 13. |
+|  |  | In section 1(5) the words “or contrbutions” |
+| 10 & 11 Geo. 6. c. 44. | The Crown Proceedings Act 1947. | Section 4(2) (including that section as it applies in Northern Ireland). |
+| 1948 c. 23 (N.I.). | The Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1948. | Section 2(3). |
+|  |  | In section 2(5) the words “or contributions”. |
+| 1958 c. 10 (N.I.). | The Statute of Limitations (Northern Ireland) 1958. | Section 74(5). |
+| 7 & 8 Eliz. 2. c. 65. | The Fatal Accidents Act 1959. | Section 1(4). |
+| 1959 c. 18. (N.I.). | The Fatal Accidents Act (Northern Ireland) 1959. | Sections 1(4) and 3(1). |
+| 9 & 10 Eliz. 2. c. 27. | The Carriage by Air Act 1961. | Section 4(1)(a). |
+| 10 & 11 Eliz. 2. c. 43. | The Carriage by Air (Supplementary Provisions) Act 1962. | In section 3(1), the words from “paragraph” to “and in”. |
+| 1964 c. 1 (N.I.). | The Limitation Act (Northern Ireland) 1964. | Section 4. |
+| 1972 c. 33. | The Carriage by Railway Act 1972. | Section 6(6)(a). |
+| S.I. 1977/1251 (N.I. 18.). | The Fatal Accidents (Northern Ireland) Order 1977. | In schedule 1, paragraph 1(2). |
+
+## Annotations
+
+[^c982664]: Modification: Act modified by [Water Act 1981 (c. 12, SIF 130)](https://www.legislation.gov.uk/ukpga/1981/12), [s. 6(5)](https://www.legislation.gov.uk/ukpga/1981/12/section/6/5)
+
+[^c982665]: Commencement: Act wholly in force at 1. 1. 1979 see [s. 10(2)](https://www.legislation.gov.uk/ukpga/1978/47/section/10/2)
+
+[^c982666]: Modification: Act modified (E.W.) (1.12.1991) by [Water Industry Act 1991 (c. 56, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/56), [ss. 209(5)](https://www.legislation.gov.uk/ukpga/1991/56/section/209/5), [223(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/223/2) (with [ss. 82(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/82/3), [186(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/186/1), [222(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/222/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1991/56/schedule/14/paragraph/6))
+
+    Act modified (E.W.) (1.12.1991) by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [ss. 208(5)](https://www.legislation.gov.uk/ukpga/1991/57/section/208/5), [225(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/2) (with [ss. 16(6)](https://www.legislation.gov.uk/ukpga/1991/57/section/16/6), [179](https://www.legislation.gov.uk/ukpga/1991/57/section/179), [222(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/222/3), [224(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/224/1), [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/1991/57/schedule/22/paragraph/1), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1991/57/schedule/23/paragraph/6))
+
+[^c982667]: Modification: Act modified (E.W.) (1.1.1996) by [1995 c. 30](https://www.legislation.gov.uk/ukpga/1995/30), [s. 13(3)](https://www.legislation.gov.uk/ukpga/1995/30/section/13/3) (with [ss. 1(1)](https://www.legislation.gov.uk/ukpga/1995/30/section/1/1), [26(1)](https://www.legislation.gov.uk/ukpga/1995/30/section/26/1)); [S.I. 1995/2963](https://www.legislation.gov.uk/uksi/1995/2963), [art. 2](https://www.legislation.gov.uk/uksi/1995/2963/article/2)
+
+[^c982668]: Modification: Act modified (28.2.2000 for E.W. and 6.1.2010 for N.I.) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [s. 3(8)](https://www.legislation.gov.uk/ukpga/1996/31/section/3/8) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2)); [S.I. 2000/222](https://www.legislation.gov.uk/uksi/2000/222), [art. 3(a)](https://www.legislation.gov.uk/uksi/2000/222/article/3/a); [S.I. 2009/2858](https://www.legislation.gov.uk/uksi/2009/2858), art. {3(a)}
+
+[^c982669]: Modification: Act modified (2.10.2000) by [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42), [s. 8(5)(b)](https://www.legislation.gov.uk/ukpga/1998/42/section/8/5/b) (with [ss. 7(8)](https://www.legislation.gov.uk/ukpga/1998/42/section/7/8), [22(5)](https://www.legislation.gov.uk/ukpga/1998/42/section/22/5)); [S.I. 2000/1851](https://www.legislation.gov.uk/uksi/2000/1851), [art. 2](https://www.legislation.gov.uk/uksi/2000/1851/article/2)
+
+[^key-05d8654174a5be43c27385179c47af33]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1978/47) excluded (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2018/18/section/6/5), [21](https://www.legislation.gov.uk/ukpga/2018/18/section/21); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+
+[^c982671]: Modification: S. 1 restricted by [S.I. 1989/1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339), [arts. 13(1)](https://www.legislation.gov.uk/nisi/1989/1339/article/13/1), [76](https://www.legislation.gov.uk/nisi/1989/1339/article/76), [Sch. 2 paras. 1](https://www.legislation.gov.uk/nisi/1989/1339/schedule/2/paragraph/1), [6](https://www.legislation.gov.uk/nisi/1989/1339/schedule/2/paragraph/6), [7](https://www.legislation.gov.uk/nisi/1989/1339/schedule/2/paragraph/7)
+
+[^c2155717]: Modification: S. 1 excluded (E.W.) (25.6.2010) by [The Rail Passengers' Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/5/1)
+
+[^key-252150f60ce816d3bbf38e85259bc550]: Modification: S. 1 excluded (25.4.2013 coming into force in accordance with s. 61(7)) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/38/3), [61(7)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/7)
+
+[^key-68ae7fd6222ac6e97dffc193d22ae216]: Modification: S. 1 applied by Competition Act 1998 (c. 41), Sch. 8A para. 41(3)(a) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
+
+[^c982670]: Modification: S. 1 amended by [Limitation Act 1980 (c.58, SIF 79)](https://www.legislation.gov.uk/ukpga/1980/58), [s. 10](https://www.legislation.gov.uk/ukpga/1980/58/section/10)
+
+[^c2156112]: Modification: S. 2 excluded (E.W.) (25.6.2010) by [The Rail Passengers' Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/5/1)
+
+[^key-19675d445f6d660e210dac8e85db4cfc]: Modification: S. 2(1) modified by Competition Act 1998 (c. 41), Sch. 8A paras. 16(3), 38(4) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
+
+[^key-7f4e8b4b44ffc6e0d02e7bab251a311e]: Modification: S. 2(1) applied by Competition Act 1998 (c. 41), Sch. 8A para. 38(4)(a) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
+
+[^c982672]: Marginal citation: [1945 c. 28](https://www.legislation.gov.uk/ukpga/1945/28).
+
+[^c982673]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30).
+
+[^c982674]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
+
+[^c982675]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30).
+
+[^c982676]: Marginal citation: [1945 c. 28](https://www.legislation.gov.uk/ukpga/1945/28).
+
+[^c982677]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30).
+
+[^c982678]: Marginal citation: [1948 c. 23 (N.I.)](https://www.legislation.gov.uk/apni/1948/23)
+
+[^c982679]: Marginal citation: [S.I. 1977/1251 (N.I. 18)](https://www.legislation.gov.uk/nisi/1977/1251)
+
+[^c982680]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
+
+[^c982681]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30).
+
+[^c982682]: Modification: The text of S. 9 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c982683]: Marginal citation: [1945 c. 28](https://www.legislation.gov.uk/ukpga/1945/28).
+
+[^c982684]: Modification: The text of Sch.1 paras.1,2,5,7 and Sch.2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c982685]: Marginal citation: [1950 c. 39](https://www.legislation.gov.uk/ukpga/1950/39).
+
+[^c982687]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1978/47/schedule/1/paragraph/2) repealed (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22, SIF 59)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/2), [Sch.9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); [S.I. 1992/2984](https://www.legislation.gov.uk/uksi/1992/2984), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2984/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2984/schedule/2)
+
+[^c982688]: Marginal citation: [1958 c. 10(N.I)](https://www.legislation.gov.uk/apni/1958/10).
+
+[^c982689]: Textual amendment: [Sch. 1 paras. 3](https://www.legislation.gov.uk/ukpga/1978/47/schedule/1/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/1978/47/schedule/1/paragraph/4) repealed by [S.I. 1989/1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339), [art. 76](https://www.legislation.gov.uk/nisi/1989/1339/article/76), [Sch. 2 paras. 1](https://www.legislation.gov.uk/nisi/1989/1339/schedule/2/paragraph/1), [3](https://www.legislation.gov.uk/nisi/1989/1339/schedule/2/paragraph/3), [7](https://www.legislation.gov.uk/nisi/1989/1339/schedule/2/paragraph/7), [Sch. 4](https://www.legislation.gov.uk/nisi/1989/1339/schedule/4)
+
+[^c982690]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27).
+
+[^c982691]: Modification: The text of Sch.1 paras.1,2,5,7 and Sch.2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c982692]: Marginal citation: [1963 c. 47](https://www.legislation.gov.uk/ukpga/1963/47).
+
+[^c982693]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1978/47/schedule/1/paragraph/6) repealed by [Limitation Act 1980 (c.58, SIF 79)](https://www.legislation.gov.uk/ukpga/1980/58), [s. 40(3)](https://www.legislation.gov.uk/ukpga/1980/58/section/40/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1980/58/schedule/4)
+
+[^c982694]: Marginal citation: [1965 c. 37](https://www.legislation.gov.uk/ukpga/1965/37).
+
+[^c982695]: Modification: The text of Sch.1 paras.1,2,5,7 and Sch.2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c982696]: Marginal citation: [1972 c. 33](https://www.legislation.gov.uk/ukpga/1972/33).
+
+[^c982697]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1978/47/schedule/1/paragraph/8) repealed by [International Transport Conventions Act 1983 (c.14, SIF 102)](https://www.legislation.gov.uk/ukpga/1983/14), [s. 11(2)](https://www.legislation.gov.uk/ukpga/1983/14/section/11/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1983/14/schedule/3)
+
+[^c982698]: Modification: The text of Sch.1 paras.1,2,5,7 and Sch.2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

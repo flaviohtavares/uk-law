@@ -1,0 +1,1367 @@
+---
+title: The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014
+id: uksi/2014/107
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-01-20'
+text_date: '2024-09-16'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/107
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/107/pdfs/uksiem_20140107_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/107/pdfs/uksi_20140107_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/107/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014
+
+> Text as at 2024-09-16.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 107
+
+Marriage
+
+Civil Partnership
+
+The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014
+
+Made
+
+20th January 2014
+
+Laid before Parliament
+
+23rd January 2014
+
+Coming into force
+
+13th March 2014
+
+This Order is made in exercise of the powers conferred by sections 17(2) and (3) and 18(10) of the Marriage (Same Sex Couples) Act 2013[^f00001] and by section 259(1) and (4) of the Civil Partnership Act 2004[^f00002].
+
+The Secretary of State, in exercise of those powers, makes the following Order:
+
+## 1. Citation, commencement, interpretation and extent[^key-04a44ea692c82b6f2e0f56cd6e8ec11e]
+
+(1) This Order may be cited as the Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014.
+
+(2) This Order comes into force on 13th March 2014.
+
+(3) In this Order “the Act” means the Marriage (Same Sex Couples) Act 2013.
+
+(4) Subject to paragraph (5), this Order extends to England and Wales only.
+
+(5) Paragraphs 18(2)(b) and (3)(b) and 19 of Schedule 1 extend also to Scotland.
+
+## 2. Amendments to subordinate legislation[^key-6a2ab5d245c90e5525e4608f0d840258]
+
+Schedule 1 (which amends subordinate legislation in consequence of the Act and the Civil Partnership Act 2004) has effect.
+
+## 3. Amendments to Welsh subordinate legislation[^key-efda888b7ec0c1edcd9ce5b066f9c668]
+
+Schedule 2 (which amends Welsh subordinate legislation in consequence of the Act and the Civil Partnership Act 2004) has effect.
+
+Maria Miller
+
+Secretary of State for Culture, Media and Sport and
+
+Minister for Women and Equalities
+
+20th January 2014
+
+## SCHEDULE 1 — Consequential Amendments to Subordinate Legislation
+
+Article 2
+
+### 1. London Cab Order 1934[^key-257273a971dc4a1bc2463526e2661dee]
+
+In article 20 of the London Cab Order 1934[^f00003] (transfer of cab licences on death, etc.)—
+
+- (a) for “his” in the second place it occurs, substitute “the licensee’s”,
+- (b) for “widow” in both places it occurs, substitute “surviving spouse, surviving civil partner”, and
+- (c) omit from “In like manner”, in the first place it occurs, to “husband.”.
+
+### 2. Marriage (Authorised Persons) Regulations 1952[^key-7ac3bc17ba2276cbc10454e99412358e]
+
+(1) The Marriage (Authorised Persons) Regulations 1952[^f00004] are amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “authorised person” for “43” substitute “43 or 43B”.
+
+(3) In the heading to regulation 4 (time and manner of certification of authorised person), for the words “authorised person” substitute “person authorised under section 43(1) of the Act”.
+
+(4) In regulation 15 (details of name and surname), for “the man” to the end substitute “each of the parties to the marriage.”.
+
+(5) In regulation 16[^f00005] (details of age), for “of the man in completed years followed by the age of the woman in completed years” substitute “in completed years of each of the parties to the marriage”.
+
+(6) In regulation 17[^f00006] (details of condition), in the opening words, for “the man followed by the marital condition of the woman” substitute “each of the parties to the marriage”.
+
+(7) In regulation 18 (details of rank or profession), for “the man” to the end substitute “each of the parties to the marriage.”.
+
+(8) In regulation 19[^f00007] (details of residence), for “the man” to the end substitute “each of the parties to the marriage at the time of the marriage.”.
+
+(9) In regulation 20 (details of father’s name and surname), for “the man, followed by the like particulars of the father of the woman” substitute “each of the parties to the marriage”.
+
+(10) In regulation 21 (details of rank or profession of father), for “the man” to the end substitute “each of the parties to the marriage.”.
+
+### 3. Probation (Compensation) Regulations 1965[^key-f52cb89b4ae4c0ce77a9ecf10e7634cd]
+
+(1) The Probation (Compensation) Regulations 1965[^f00008] are amended as follows.
+
+(2) In regulation 24 (compensation payable to dependants etc. on the death of a claimant), for “widow” in each place it occurs, substitute “surviving spouse, surviving civil partner”.
+
+(3) In regulation 25 (compensation payable to personal representative on the death of a claimant), in paragraph (3), for “widow” substitute “surviving spouse, surviving civil partner”.
+
+(4) In the heading to regulation 26 (balances payable to deceased claimant’s widow and personal representative), for “widow” substitute “surviving spouse or surviving civil partner”.
+
+### 4. Courts (Compensation to Officers) Regulations 1971[^key-a05341ef4123ca1a952be357b2c2529f]
+
+(1) The Courts (Compensation to Officers) Regulations 1971[^f00009] are amended as follows.
+
+(2) In regulation 26 (compensation payable to family of claimant), in the heading and in each place it occurs, for “widow” substitute “surviving spouse, surviving civil partner”.
+
+(3) In regulation 27 (compensation where death grant would have been payable)—
+
+- (a) in paragraph (1)—
+  - (i) for “widow” substitute “surviving spouse, surviving civil partner”, and
+  - (ii) for “she or they” substitute “the surviving spouse or surviving civil partner or the personal representatives or trustees”, and
+- (b) in paragraphs (3) and (4), for “widow” in each place it occurs, substitute “surviving spouse, surviving civil partner”.
+
+(4) In regulation 28 (balance due to claimant’s widow or personal representatives)—
+
+- (a) in the heading, for “widow” substitute “surviving spouse, surviving civil partner”,
+- (b) in paragraph (1), for “the widow” substitute “a surviving spouse, surviving civil partner”, and
+- (c) for paragraph (2) substitute—
+
+  > (2) If an annual sum becomes payable to a surviving spouse or a surviving civil partner under either paragraph (2)(a) or paragraph (7)(a) of regulation 26 and on that person’s re-marriage, subsequent entry into a civil partnership or death, the sum ceases to be payable, and any sum payable to a child or other dependant under either of those paragraphs has ceased to be payable, and if the aggregate amount of the payments which were made as aforesaid to the deceased person by way of retirement compensation and to the surviving spouse or surviving civil partner, personal representatives or trustees under regulation 27 is less than a sum equivalent to the amount which would have been payable to the personal representatives under that regulation if no annual sum had been payable under either of the said paragraph 2(a) or paragraph (7)(a), there shall be paid to the surviving spouse or surviving civil partner or that person’s personal representatives, the difference between such aggregate amount and the said equivalent sum.
+
+  .
+
+(5) In regulation 33 (reduction of compensation in certain cases), in paragraphs (4) and (5), for “his widow” in both places it occurs, substitute “that person’s surviving spouse, surviving civil partner”.
+
+(6) In regulation 36 (compounding of awards), in paragraph (2), for “widow” substitute “surviving spouse, surviving civil partner”.
+
+### 5. Merchant Shipping (Maintenance of Seamen’s Dependants) Regulations 1972[^key-078053488d5a8f15c9cc8e2fa3364ed8][^key-7bad121291996489381e102e00cf80e0]
+
+In the Merchant Shipping (Maintenance of Seamen’s Dependants) Regulations 1972[^f00010], in regulation 4(a) (expenses in respect of which a retention notice may be served), after “spouse” insert “, civil partner”.
+
+### 6. Social Security Benefit (Dependency) Regulations 1977[^key-2d6a1b18609931c15491c199b97d6db1]
+
+In paragraph 2C of Schedule 2 to the Social Security Benefit (Dependency) Regulations 1977[^f00011] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 7. Merchant Shipping (Returns of Births and Deaths) Regulations 1979[^key-fea5fa838c8c0f5399343cb8d67f9c5a][^key-47d1916ee5232da9c13f1fd19025ce60]
+
+In regulation 11 of the Merchant Shipping (Returns of Births and Deaths) Regulations 1979[^f00012] (rules for ascertaining appropriate Registrar General)—
+
+- (a) in paragraph (2)(a), for the words in brackets substitute “which relates to treatment provided to a woman who at the time of treatment is married to another woman, or in certain circumstances is a party to a void marriage with another woman, or party to a civil partnership or in certain circumstances a void civil partnership”, and
+- (b) for paragraph (2)(b) substitute—
+
+  > - (b) section 43 of that Act (which relates to treatment provided to a woman where she agrees a second woman is to be the parent of the child) where the woman—
+  >   - (i) is married to, or the civil partner of, the child’s mother at the time of the child’s birth, or
+  >   - (ii) was married to, or the civil partner of, the child’s mother at any time during the period beginning with the time mentioned in section 43(b) of that Act and ending with the child’s birth.
+
+  .
+
+### 8. Registration of Marriages Regulations 1986[^key-a0bb1d6de6b8a11c81723ed8d58fb756]
+
+(1) The Registration of Marriage Regulations 1986[^f00013] are amended as follows.
+
+(2) In regulation 5 (statements and particulars for intended marriage of house-bound or detained person) after “section 26(1)(dd)” insert “or section 26B(6)”.
+
+(3) In regulation 12[^f00014] (entry of attestation), in paragraph (d), after “section 26(1)(dd)” insert “or section 26B(6)”.
+
+(4) In Schedule 1 (prescribed forms)—
+
+- (a) in forms 1A[^f00015], 1C[^f00016] and 3[^f00017], after “widower/widow” in both places it occurs, insert “/surviving civil partner”,
+- (b) in forms 5 and 6—
+  - (i) after “Name and surname” in the first place it occurs, omit “of man”, and
+  - (ii) after “Name and surname” in the second place it occurs, omit “of woman”, and
+- (c) in form 8[^f00018]—
+  - (i) after “Name and surname” in the first place it occurs, omit “of man”, and
+  - (ii) after “Name and surname” in the second place it occurs, omit “of woman”.
+
+### 9. Income Support (General) Regulations 1987[^key-eb08b1c3a0ddda24b2882f4209bfec8e]
+
+In regulation 2(1) of the Income Support (General) Regulations 1987[^f00019] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 10. Social Security (Claims and Payments) Regulations 1987[^key-f51ce2ee28c57a7c2a90a129a5bb96ab]
+
+In regulation 2(1) of the Social Security (Claims and Payments) Regulations 1987[^f00020] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 11. Registration of Births and Deaths Regulations 1987[^key-c8f865e3254734c799c7ea9127918286]
+
+(1) The Registration of Births and Deaths Regulations 1987[^f00021] are amended as follows.
+
+(2) In regulation 9 (entry of particulars on registration), for paragraph (7) substitute—
+
+> (7) With respect to space 9(b) (mother’s surname at marriage or civil partnership if different from maiden surname) the surname to be entered shall be—
+>
+> - (a) the name in which the mother contracted her marriage with the father; or
+> - (b) the name in which she contracted her marriage with, or in which she entered into a civil partnership with, the other parent of the child.
+
+.
+
+(3) In regulation 19 (attendance and particulars on re-registration)—
+
+- (a) in paragraph (b)(ii), for “after” to the end substitute “after her marriage to the father, or her marriage to, or civil partnership with, the other parent, and”, and
+- (b) in paragraph (b)(iii), omit “(respectively)”.
+
+(4) In regulation 42 (registration within twelve months from date of death where no report to coroner)—
+
+- (a) in paragraph (3)(b), for “husband” in both places it occurs, substitute “spouse”, and
+- (b) in paragraph (3)(ba), for “wife” in both places it occurs, substitute “spouse”.
+
+### 12. Judicial Pensions (Preservation of Benefits) Order 1988[^key-16eea39d40d0753bf510f59f80070b98]
+
+In article 9 of the Judicial Pensions (Preservation of Benefits) Order 1988[^f00022] (inalienability), for “widow” substitute “surviving spouse, surviving civil partner”.
+
+### 13. Judicial Pensions (Requisite Benefits) Order 1988[^key-427794ca3ba1e4223e13ab1c6b129512]
+
+(1) The Judicial Pensions (Requisite Benefits) Order 1988[^f00023] is amended as follows.
+
+(2) In article 4 (office-holders to whom Order applies), for “his widow” substitute “that person’s surviving spouse or surviving civil partner”.
+
+(3) In article 7 (widow’s benefits)—
+
+- (a) in the heading, for “Widow’s” substitute “Surviving spouse’s or surviving civil partner’s”,
+- (b) in paragraph (1), for “his widow” substitute “that person’s surviving spouse or surviving civil partner”, and
+- (c) in paragraph (2), for “widow’s” substitute “surviving spouse’s or surviving civil partner’s”.
+
+(4) In article 9 (widow’s guaranteed minimum pension)—
+
+- (a) for the heading, substitute “Guaranteed minimum pension for surviving spouse or surviving civil partner”,
+- (b) in paragraph (1)—
+  - (i) for “his widow” substitute “that person’s surviving spouse or surviving civil partner”, and
+  - (ii) for “her” substitute “that person’s”, and
+- (c) in paragraph (3), for “widow’s” substitute “surviving spouse’s or surviving civil partner’s”.
+
+(5) Omit article 10 (widower’s or surviving civil partner’s guaranteed pension).
+
+(6) In article 11(3) (ascertainment of salary for requisite benefits), for “widow’s” substitute “surviving spouse’s or surviving civil partner’s”.
+
+(7) In article 12 (contribution in event of marriage during retirement)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) Where on the date when an office-holder (“O”) ceases to hold office, O is neither married, nor in a civil partnership, O may be required to undertake, in return for payment to O of a lump sum under or by virtue of whichever of the enactments mentioned in paragraph (2) below is applicable to O, that the first time O—
+  >
+  > - (a) marries (and where O has not previously entered into a civil partnership), or
+  > - (b) enters into a civil partnership (and where O has not previously married),
+  >
+  > O will pay a contribution in respect of the benefits that may become payable to O’s surviving spouse or surviving civil partner by virtue of articles 7 and 9.
+
+  , and
+- (b) for paragraph (3) substitute—
+
+  > (3) The contribution referred to in paragraph (1) above shall be equal to 1 7/8 per cent of O’s final salary multiplied by the number of whole years of relevant service of O’s prior to the Principal Appointed Day which were—
+  >
+  > - (a) completed by O before O attained pensionable age, and
+  > - (b) not years—
+  >   - (i) during any part of which O was married or in a civil partnership, or
+  >   - (ii) preceding a marriage of O’s contracted, or a civil partnership of O’s entered into, before O ceased to hold office.
+
+  .
+
+(8) For article 13 (marriage shortly before death), substitute—
+
+> **13. Marriage or entry into a civil partnership shortly before death**
+>
+> Where an office-holder (“O”) marries or enters into a civil partnership after O has ceased to hold office, and not more than six months before O’s death, any pension paid to O’s surviving spouse or surviving civil partner by virtue of this Order shall be limited to the guaranteed minimum pension due to that person.
+
+.
+
+### 14. Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^key-515d8e8eb893e7270bf8b24bba385db6]
+
+In regulation 1(2) of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^f00024] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 15. Child Support (Collection and Enforcement) Regulations 1992[^key-1ff6a763d49a705bb6c00ff7471e2baa]
+
+In regulation 3(9) of the Child Support (Collection and Enforcement) Regulations 1992[^f00025] (methods of payment), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 16. Jobseeker’s Allowance Regulations 1996[^key-2d88dd55334df47bc230e119ea0f9217]
+
+In regulation 1(3) of the Jobseeker’s Allowance Regulations 1996[^f00026] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 17. Occupational Pension Schemes (Contracting-out) Regulations 1996[^key-bea46b26e019834d1e29561503dee1b6]
+
+(1) The Occupational Pension Schemes (Contracting-out) Regulations 1996[^f00027] are amended as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), omit paragraph (1A)[^f00028].
+
+(3) In regulation 26[^f00029] (reference scheme: circumstances in which widows’, widowers’ or surviving civil partners’ pensions need not be payable)—
+
+- (a) in paragraph (1)(b), after paragraph (ii) insert “or” and for paragraphs (iii) and (iv) substitute—
+
+  > - (iii) lives together as a married couple with another person whom he or she is not married to or in a civil partnership with,
+
+  ,
+- (b) in paragraph (1)(c), for paragraphs (i) and (ii) substitute “living together as a married couple with another person whom he or she is not married to or in a civil partnership with.”, and
+- (c) for paragraph (2) substitute—
+
+  > (2) The following provisions do not apply where the scheme member died before 5th December 2005—
+  >
+  > - (a) paragraph (1)(b)(i) so far as it relates to a marriage or remarriage involving two people of the same sex,
+  > - (b) paragraph (1)(b)(ii), and
+  > - (c) paragraphs (1)(b)(iii) and (1)(c) so far as they relate to the living together of two people of the same sex.
+
+  .
+
+(4) In regulation 57[^f00030] (circumstances in which widower’s or surviving civil partner’s guaranteed minimum pension is to be payable)—
+
+- (a) in the heading—
+  - (i) after “Circumstances” insert “for the purposes of section 17(6) of the 1993 Act”, and
+  - (ii) after “widower’s” insert “, widow’s”,
+- (b) in the opening words, after “widower’s” insert “, widow’s”, and
+- (c) in paragraphs (a), (b) and (c), after “widower” in each place it occurs, insert “, widow”.
+
+(5) In regulation 58[^f00031] (period for which widower’s or surviving civil partner’s guaranteed minimum pension is to be payable)—
+
+- (a) in the heading—
+  - (i) after “Period” insert “for the purposes of section 17(6) of the 1993 Act”, and
+  - (ii) after “widower’s” insert “, widow’s”,
+- (b) in paragraph (1)(a) and (c), after “widower’s” insert “, widow’s”,
+- (c) in paragraph (2)(a), after “widower’s” insert “or widow’s”,
+- (d) in paragraph (2)(b), after “widower” insert “or widow”,
+- (e) in paragraph (2)(c)—
+  - (i) after “widower” insert “, widow”, and
+  - (ii) for paragraphs (i) and (ii) substitute “he or she and another person are living together as a married couple;”,
+- (f) in paragraph (2)(d)—
+  - (i) after “widower” insert “or widow”,
+  - (ii) for “he attained” substitute “he or she attained”, and
+  - (iii) for paragraphs (i) and (ii) substitute “he or she and another person whom he or she was not married to, or in a civil partnership with, were living together as a married couple; or”,
+- (g) in paragraph (2)(e), for paragraphs (i) and (ii) substitute “he or she and another person whom he or she was not married to, or in a civil partnership with, were living together as a married couple.”, and
+- (h) for paragraph (3) substitute—
+
+  > (3) The following provisions do not apply where a man became a widower before 5th December 2005—
+  >
+  > - (a) paragraph (2)(a) so far as it relates to a marriage or remarriage involving two people of the same sex,
+  > - (b) paragraph (2)(b), and
+  > - (c) paragraphs (2)(c) and (2)(d) so far as they relate to the living together of two people of the same sex.
+
+  .
+
+(6) In regulation 59[^f00032] (statutory references to persons entitled to guaranteed minimum pensions: application to widowers and surviving civil partners)—
+
+- (a) in the heading, for “widowers” substitute “widowers, widows of female earners”, and
+- (b) for the words from “so entitled” to the end substitute—
+
+  > so entitled—
+  >
+  > - (a) by virtue of being a widower of an earner only in the case where the earner and the widower were both over pensionable age when the earner died,
+  > - (b) by virtue of being a widow of a female earner only in the case where the earner and the widow were both over pensionable age when the earner died, or
+  > - (c) by virtue of being the surviving civil partner of an earner only in the case where the earner and the surviving civil partner were both over pensionable age when the earner died.
+
+  .
+
+(7) In regulation 69B[^f00033] (conversion of guaranteed minimum pensions into other benefits: survivors’ benefits)—
+
+- (a) in paragraph (2)(b)(ii), for “such a widower” substitute “in a case where section 17(6) of the 1993 Act applies, such a widower’s, widow’s”,
+- (b) in paragraph (3)(b)(i), for sub-paragraphs (aa) and (bb) (but not the “nor” following sub-paragraph (bb)) substitute “another person are living together as a married couple,”, and
+- (c) for paragraph (4) substitute—
+
+  > (4) The following provisions do not apply where the earner died before 5th December 2005—
+  >
+  > - (a) paragraph (3)(b)(i) so far as it relates to the living together of two people of the same sex,
+  > - (b) paragraph (3)(b)(ii)(aa) so far as it relates to a marriage involving two people of the same sex, and
+  > - (c) paragraph (3)(b)(ii)(bb).
+
+  .
+
+### 18. Contracting-out (Transfer and Transfer Payment) Regulations 1996[^key-f66d985b998fda4ddc1db1f90758673e]
+
+(1) Schedule 2 to the Contracting-out (Transfer and Transfer Payment) Regulations 1996[^f00034] (modifications of Part 3 of the 1993 Act) is amended as follows.
+
+(2) In paragraph 1, in the substituted definition of “guaranteed minimum pension”—
+
+- (a) for “or widower’s” substitute “, widower’s or surviving same sex spouse’s”, and
+- (b) for “guaranteed minimum,” substitute “or surviving civil partner’s guaranteed minimum,”.
+
+(3) In paragraph 6, in the substituted definition of “guaranteed minimum pension”—
+
+- (a) for “or widower’s” substitute “, widower’s or surviving same sex spouse’s”, and
+- (b) for “guaranteed minimum,” substitute “or surviving civil partner’s guaranteed minimum,”.
+
+### 19. Occupational Pension Schemes (Scheme Administration) Regulations 1996[^key-4c3e4c35f60975b2fe7f35aec4359dc9]
+
+In regulation 7(d) of the Occupational Pension Schemes (Scheme Administration) Regulations 1996[^f00035] (ineligibility to act as actuary or auditor), for “or wife” substitute “, wife or civil partner”.
+
+### 20. Social Security Benefit (Computation of Earnings) Regulations 1996[^key-cc0c51f100eb6585f0df3d86b6ff8123]
+
+In regulation 2(1) of the Social Security Benefit (Computation of Earnings) Regulations 1996[^f00036] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 21. Housing Renewal Grants Regulations 1996[^key-bea403997e4baffbee5cb64820bde453]
+
+In regulation 2(1) of the Housing Renewal Grants Regulations 1996[^f00037] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 22. Social Security (Child Maintenance Bonus) Regulations 1996[^key-c9bfdb388f7b51a320e7226431a3cc99]
+
+In regulation 1(2) of the Social Security (Child Maintenance Bonus) Regulations 1996[^f00038] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 23. Teachers (Compensation for Redundancy and Premature Retirement) Regulations 1997[^key-aec9fbc6d9a9ea7024cdaa9aeda29f1c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Occupational Pension Schemes (Discharge of Liability) Regulations 1997[^key-c4698ab70d2cd33e14ae9ccf7dee9850]
+
+(1) The Occupational Pension Schemes (Discharge of Liability) Regulations 1997[^f00040] are amended as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), omit paragraph (1A).
+
+(3) In regulation 11 (conditions on which liability to provide pensions under a relevant scheme may be discharged)—
+
+- (a) in paragraph (4)(b)—
+  - (i) for paragraphs (iii) and (iv) substitute—
+
+    > - (iii) lives together as a married couple with another person whom he or she is not married to or in a civil partnership with; or
+
+    , and
+  - (ii) in paragraph (v), for sub-paragraphs (a) and (b) substitute “is living together as a married couple with another person whom he or she is not married to or in a civil partnership with.”, and
+- (b) for paragraph (7) substitute—
+
+  > (7) The following provisions do not apply where the beneficiary died before 5th December 2005—
+  >
+  > - (a) paragraph (4)(b)(i) so far as it relates to a marriage or remarriage involving two people of the same sex,
+  > - (b) paragraph (4)(b)(ii), and
+  > - (c) paragraphs (iii) and (v) of paragraph (4)(b) so far as they relate to the living together of two people of the same sex.
+
+  .
+
+### 25. Working Time Regulations 1998[^key-ffd0bb23f2f3f1ef10ccb5834ff17cba]
+
+In Schedule 3 (enforcement) to the Working Time Regulations 1998[^f00041], in paragraph 2(3), for “husband or wife” substitute “spouse or civil partner”.
+
+### 26. Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-fcece7e86430a2e6de17328359bd96fc]
+
+In regulation 1(3) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00042] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 27. Registration of Marriages (Welsh Language) Regulations 1999[^key-faf37b9ee5cb17b5754fb60ef1c9cdf6]
+
+(1) Schedule 1 (prescribed forms) to the Registration of Marriages (Welsh Language) Regulations 1999[^f00043] is amended as follows.
+
+(2) In forms 1A, 1C and 1D—
+
+- (i) after “widower/widow” in both places they occur, insert “/surviving civil partner”, and
+- (ii) after “ŵr gweddw/wraig weddw”, in both places they occur, insert “/bartner sifil goroesol”.
+
+(3) In forms 3A and 3B—
+
+- (a) after “name and surname” in the first place it occurs, omit “of man”,
+- (b) after “enw a chyfenw” in the first place it occurs, omit “’r gŵr”,
+- (c) after “name and surname” in the second place it occurs, omit “of woman”, and
+- (d) after “enw a chyfenw” in the second place it occurs, omit “’r wraig”.
+
+(4) In form 5—
+
+- (a) after “Name and surname” in the first place it occurs, omit “of man”,
+- (b) after “Enw a chyfenw” in the first place it occurs, omit “’r dyn”,
+- (c) after “Name and surname” in the second place it occurs, omit “of woman”, and
+- (d) after “Enw a chyfenw” in the second place it occurs, omit “’r ferch”.
+
+### 28. Social Fund Winter Fuel Payment Regulations 2000[^key-29796e3d0b644cc2e6bbefca64778f03]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Child Support (Maintenance Calculations and Special Cases) Regulations 2000[^key-f51e65395f4593ec622b1f411a9a78a2]
+
+In regulation 1(2) of the Child Support (Maintenance Calculations and Special Cases) Regulations 2000[^f00045] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 30. Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^key-8eefceb23d6ae2a436fb30d3c804b794]
+
+In regulation 1(2) of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^f00046] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 31. Open-Ended Investment Companies Regulations 2001[^key-c28148b6a35cf66271f4f2fd9f0df7ea][^key-17154bd59c34f498542d076f5652cb5b]
+
+In regulation 13 of the Open-Ended Investment Companies Regulations 2001[^f00047] (particulars of directors), for paragraph (4)(b)(iii) substitute—
+
+> - (iii) in the case of a married person, the name by which that person was known previous to the marriage; and
+
+.
+
+### 32. State Pension Credit Regulations 2002[^key-19bc53afdbcce393cd7905f065297bdf]
+
+In regulation 1(2) of the State Pension Credit Regulations 2002[^f00048] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 33. Education (Mandatory Awards) Regulations 2003[^key-9804d8df5228b7287399980b83d01d2c]
+
+In Schedule 3 to the Education (Mandatory Awards) Regulations 2003[^f00049] (resources), in the opening words of paragraph 7, for “male” to the end of the opening words substitute “student ordinarily living with that student’s spouse except”.
+
+### 34. Armed Forces Pension Scheme Order 2005[^key-ac2f0d001e0d04f8ad878417240ab221]
+
+In Part E of Schedule 1 to the Armed Forces Pension Scheme Order 2005[^f00050] (death benefits), for rule E.2(3)(b) substitute—
+
+> - (b) the person and the member were not prevented from—
+>   - (i) marrying, or prior to the date on which section 1 of the Marriage (Same Sex Couples) Act 2013 came fully into force would not have been so prevented apart from both being of the same sex, or
+>   - (ii) forming a civil partnership, or would not have been so prevented apart from being of the opposite sex to each other, and
+
+.
+
+### 35. Pension Protection Fund (Compensation) Regulations 2005[^key-9ab98660b7ad6712b76dc7bee52c5225]
+
+In regulation 1(2) of the Pension Protection Fund (Compensation) Regulations 2005[^f00051] (interpretation), for the definition of “relevant partner” substitute—
+
+> - “relevant partner” means a person who was not married to, or in a civil partnership with, the member but who was living with the member as if that person and the member were a married couple;
+
+.
+
+### 36. Financial Assistance Scheme Regulations 2005[^key-b6386dba2f8cba75b434c75428d81012]
+
+In regulation 2(1) of the Financial Assistance Scheme Regulations 2005[^f00052] (interpretation), for the definition of “partner” substitute—
+
+> - “partner” means a person who was not married to, or in a civil partnership with, the qualifying member but who was living with that member as if that person and the qualifying member were a married couple;
+
+.
+
+### 37. Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^key-072949fa1d383f25f29ddcbb9fc7d5d8]
+
+In regulation 3(1) of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^f00053] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 38. Civil Partnership (Registration Provisions) Regulations 2005[^key-eacc53abcc4b20dc4ba2307aae74b66e]
+
+(1) Schedule 2 to the Civil Partnership (Registration Provisions) Regulations 2005[^f00054] (forms) is amended as follows.
+
+(2) In forms 2, 4 and 5—
+
+- (a) before “surviving civil partner” in both places it occurs, insert “\*”, and
+- (b) after “surviving civil partner” in both places it occurs, insert “/widower/widow”.
+
+(3) In forms 2(w), 4(w) and 5(w)—
+
+- (a) before “surviving civil partner” in both places it occurs, insert “\*”,
+- (b) after “surviving civil partner” in both places it occurs, insert “/widower/widow”,
+- (c) before “bartner sifil goroesol” in both places it occurs, insert “\*”, and
+- (d) after “bartner sifil goroesol” in both places it occurs, insert “/ŵr gweddw/wraig weddw”.
+
+### 39. Reserve Forces Pension Scheme Regulations 2005[^key-7e55c3bff1f6126d67189f0f5f7969b8]
+
+In Part E of Schedule 1 to the Reserve Forces Pension Scheme Regulations 2005[^f00055], for paragraph E.2(3)(b) (other adult dependants’ pensions ) substitute—
+
+> - (b) the person and the member were not prevented from—
+>   - (i) marrying, or prior to the date on which section 1 of the Marriage (Same Sex Couples) Act 2013 came fully into force would not have been so prevented apart from both being of the same sex, or
+>   - (ii) forming a civil partnership, or would not have been so prevented apart from being of the opposite sex to each other, and
+
+.
+
+### 40. Housing Benefit Regulations 2006[^key-2ea032572fe3f8c774fab507949472d3]
+
+In regulation 2(1) of the Housing Benefit Regulations 2006[^f00056] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 41. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-a9a59bf221fcca45b16dcf5b99ab751b]
+
+In regulation 2(1) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00057] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 42. Pension Protection Fund (General and Miscellaneous Amendments) Regulations 2006[^key-7e695d891f567209db45ce0497aba12e]
+
+In regulation 1(2) of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations 2006[^f00058] (interpretation), for the definition of “relevant partner” substitute—
+
+> - “relevant partner” means a person who is not married to, or in a civil partnership with, the member but who is living with the member as if that person and the member were a married couple;
+
+.
+
+### 43. Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006[^key-438ec5c8556fe0fe0be19c174fb3449d]
+
+In Part 2 of Schedule 6 to the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006[^f00059] (interpretation)—
+
+- (a) in paragraph (a) of the definition of “dependant living as a spouse”—
+  - (i) omit “of the opposite sex”, and
+  - (ii) after “who is not married to,” insert “or in a civil partnership with,”, and
+- (b) in the definition of “dependant living as a civil partner”, after “who has not” insert “married or”.
+
+### 44. Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^key-51240240fe698bd5a60877231e39abe3]
+
+(1) The Occupational Pension Schemes (Modification of Schemes) Regulations 2006[^f00060] are amended as follows.
+
+(2) In regulation 3 (non-application of the subsisting rights provisions)—
+
+- (a) omit “or” after paragraph (h),
+- (b) at the end of paragraph (i) insert “or”, and
+- (c) after paragraph (i) insert—
+
+  > - (j) which provides in relation to all or part of a member’s subsisting rights that after the member’s death—
+  >   - (i) a surviving same sex spouse is treated in the same way as a woman whose deceased spouse was a man, or a man whose deceased spouse was a woman, and
+  >   - (ii) the rights of any other survivor of the member are determined as if the surviving same sex spouse were a woman whose deceased spouse was a man, or a man whose deceased spouse was a woman.
+
+  .
+
+(3) After regulation 7 insert—
+
+> **7ZA. Modification of schemes: surviving same sex spouses**
+>
+> (1) Subject to paragraph (2), the trustees of a trust scheme may by resolution modify the scheme in relation to all or part of a member’s subsisting rights so that after the member’s death—
+>
+> - (a) a surviving same sex spouse is treated in the same way as a woman whose deceased spouse was a man, or a man whose deceased spouse was a woman, and
+> - (b) the rights of any other survivor are determined as if the surviving same sex spouse were a woman whose deceased spouse was a man, or a man whose deceased spouse was a woman.
+>
+> (2) A modification under paragraph (1) which confers rights on surviving same sex spouses which are in excess of what is required to comply with the relevant requirements of the Marriage (Same Sex Couples) Act 2013 shall not be made unless—
+>
+> - (a) the employer in relation to the scheme consents; or
+> - (b) in the case of a scheme where there is more than one employer—
+>   - (i) a person nominated by the employers, or otherwise in accordance with the scheme rules, to act as the employers’ representative (the “nominee”) consents; or
+>   - (ii) where there is no such nominee, all of the employers in relation to the scheme consent other than any employer who has waived his right to give such consent.
+
+.
+
+### 45. Employment and Support Allowance Regulations 2008[^key-829e4762aa089cf7648b8e624fb3bd64]
+
+In regulation 2(1) of the Employment and Support Allowance Regulations 2008[^f00061] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 46. Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) (No. 2) Order 2010[^key-6fa793c4cebb129e43bf221f0913a48c]
+
+In the Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) (No. 2) Order 2010[^f00062], in article 23 (surviving eligible partner), for paragraph (c) substitute—
+
+> - (c) the person and the deceased were not prevented from—
+>   - (i) marrying, or prior to the date on which section 1 of the Marriage (Same Sex Couples) Act 2013 came fully into force would not have been so prevented apart from both being of the same sex, or
+>   - (ii) forming a civil partnership, or would not have been so prevented apart from being of the opposite sex to each other; and
+
+.
+
+### 47. Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^key-660440477274b0f19b6950749289dbde]
+
+(1) Part E of Schedule 1 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00063] (death benefits) is amended as follows.
+
+(2) In rule E.1(13) (surviving spouse’s or civil partner’s pensions), for sub-paragraph (c) substitute—
+
+> - (c) had that person been the member’s surviving spouse or the member’s surviving civil partner, one of conditions A to C would be met,
+
+.
+
+(3) In rule E.9 (suspension of pension on marriage etc.), for paragraph (3) substitute—
+
+> (3) This paragraph applies while the surviving spouse or civil partner and another person are living together as if they are a married couple.
+
+.
+
+(4) In rule E.30(4) (death attributable to service), for “widow’s pension” in each place it occurs, substitute “surviving spouse’s or civil partner’s pension”.
+
+**48.**[^key-e611002c23b918d78d16bafd7deb74a3] (1)[^key-496a5926301403f79150134593cc9de1] Part C of Schedule 2 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable to surviving adult dependants) is amended as follows.
+
+(2) In rule C.3 (meaning of “surviving eligible partner”), for paragraphs (b) and (c) substitute—
+
+> - (b) the person and the deceased were living together as a married couple and the person and the deceased were not prevented from marrying or, prior to the date on which section 1 of the Marriage (Same Sex Couples) Act 2013 came fully into force would not have been so prevented apart from both being of the same sex, or
+> - (c) the person and the deceased were living together as civil partners and were not prevented from forming a civil partnership, or would not have been so prevented, apart from being of the opposite sex to each other, and
+
+.
+
+(3)[^key-6175829d491620b99e24c13778fdabdb] In the heading to rule C.4 (persons regarded as living together) and in paragraph (1) of that rule, for “husband and wife” substitute “a married couple”.
+
+(4)[^key-0ddcacb985e64f2dc95f2163176a1408] In rule C.12 (level of compensation for post service marriages and civil partnerships), for “husband and wife” substitute “a married couple”.
+
+(5)[^key-6e6b6b69507f87e11b18a55a764bace9] In rule C.19 (restoration of long term compensation to surviving adult dependant)—
+
+- (a) in paragraph (2), for “widow or widower” in both places it occurs, substitute “spouse”, and
+- (b) for paragraph (7) substitute—
+
+  > (7) Where no long term compensation has been payable to a surviving spouse by virtue of the operation of paragraph (1)(b) to (e) because of that surviving spouse having lived with another person as if they were a married couple, the long term compensation will be restored where the Defence Council is satisfied that the surviving spouse has ceased to live with that other person as if they were a married couple.
+
+  .
+
+### 49. Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^key-a724cc98ffa642658cd8bc178683eea7]
+
+(1) Part E of Schedule 1 to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^f00064] (death benefits) is amended as follows.
+
+(2) In rule E.1(13) (surviving spouse’s or civil partner’s pensions), for sub-paragraph (c) substitute—
+
+> - (c) had that person been the member’s surviving spouse or the member’s surviving civil partner, one of conditions A to C would be met,
+
+.
+
+(3) In rule E.9 (suspension of pension on marriage etc.), for paragraph (3) substitute—
+
+> (3) This paragraph applies while the surviving spouse or civil partner and another person are living together as if they are a married couple.
+
+.
+
+(4) In rule E.30(4) (death attributable to service), for “widow’s pension” in each place it occurs, substitute “surviving spouse’s or civil partner’s pension”.
+
+**50.**[^key-c0bfb2e83ea9e7029eab24ea5413a938] (1)[^key-1988709601e00aa011f733d68650ac86] Part C of Schedule 2 to the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010 (benefits payable to surviving adult dependants) is amended as follows.
+
+(2) In rule C.3 (meaning of “surviving eligible partner”), for paragraphs (b) and (c) substitute—
+
+> - (b) the person and the deceased were living together as a married couple and were not prevented from marrying or, prior to the date on which section 1 of the Marriage (Same Sex Couples) Act 2013 came fully into force would not have been so prevented, apart from both being of the same sex, or
+> - (c) the person and the deceased were living together as civil partners and were not prevented from forming a civil partnership, or would not have been so prevented, apart from being of the opposite sex to each other, and
+
+.
+
+(3)[^key-226c961e2a8162658e44db25f7316f39] In the heading to rule C.4 (persons regarded as living together) and in paragraph (1) of that rule, for “husband and wife” substitute “a married couple”.
+
+(4)[^key-31c1074a1864ccd1574c491f9bd8f570] In rule C.12 (level of compensation for post service marriages and civil partnerships), for “husband and wife” substitute “a married couple”.
+
+(5)[^key-8438ccef1be05c5e98fbc1c587a5109c] In rule C.19 (restoration of long term compensation to surviving adult dependant)—
+
+- (a) in paragraph (2), for “widow or widower” in both places it occurs, substitute “spouse”, and
+- (b) for paragraph (7), substitute—
+
+  > (7) Where no long term compensation has been payable to a surviving spouse by virtue of the operation of paragraph (1)(b) to (e) because of that surviving spouse having lived with another person as if they were a married couple, the long term compensation will be restored where the Defence Council is satisfied that the surviving spouse has ceased to live with that other person as if they were a married couple.
+
+  .
+
+### 51. Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^key-0d7da942a5529d3f2921b857b97f0626]
+
+(1) Part E of Schedule 1 to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00065] (death benefits) is amended as follows.
+
+(2) In rule E.1(13) (surviving spouse’s or civil partner’s pensions), for sub-paragraph (c) substitute—
+
+> - (c) had that person been the member’s surviving spouse or the member’s surviving civil partner, one of conditions A to C would be met,
+
+.
+
+(3) In rule E.9 (suspension of pension on marriage etc.), for paragraph (3) substitute—
+
+> (3) This paragraph applies while the surviving spouse or civil partner and another person are living together as if they are a married couple.
+
+.
+
+(4) In rule E.30(4) (death attributable to service), for “widow’s pension” in each place it occurs, substitute “surviving spouse’s or civil partner’s pension”.
+
+**52.**[^key-82392261f0a2ba4fa325af021ee2a496] (1)[^key-865c6f56bde4b6569f056b9754d7b256] Part C of Schedule 2 to the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 (benefits payable to surviving adult dependants) is amended as follows.
+
+(2) In rule C.3 (meaning of “surviving eligible partner”), for paragraphs (b) and (c) substitute—
+
+> - (b) the person and the deceased were living together as a married couple and were not prevented from marrying or, prior to the date on which section 1 of the Marriage (Same Sex Couples) Act 2013 came fully into force would not have been so prevented, apart from both being of the same sex, or
+> - (c) the person and the deceased were living together as civil partners and were not prevented from forming a civil partnership, or would not have been so prevented, apart from being of the opposite sex to each other, and
+
+.
+
+(3)[^key-e75d49ac7555c3cd2cb6fc8a9a528c41] In the heading to rule C.4 (persons regarded as living together), and in paragraph (1) of that rule, for “husband and wife” substitute “a married couple”.
+
+(4)[^key-8f455dd421a344ec39ec4d51bad84e33] In rule C.12 (level of compensation for post service marriages and civil partnerships), for “husband and wife” substitute “a married couple”.
+
+(5)[^key-9e6c889697bb77a3356a2b78f4448e38] In rule C.19 (restoration of long term compensation to surviving adult dependant)—
+
+- (a) in paragraph (2), for “widow or widower” in both places it occurs, substitute “spouse”, and
+- (b) for paragraph (7), substitute—
+
+  > (7) Where no long term compensation has been payable to a surviving spouse by virtue of the operation of paragraph (1)(b) to (e) because of that surviving spouse having lived with another person as if they were a married couple, the long term compensation will be restored where the Defence Council is satisfied that the surviving spouse has ceased to live with that other person as if they were a married couple.
+
+  .
+
+### 53. Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^key-76505077e3da4f7c3f6067849b45af19]
+
+In Schedule 1 to the Reserve Forces Non Regular Permanent Staff (Pension and Attributable Benefits Schemes) Regulations 2011[^f00066] (non regular permanent staff pension scheme), in paragraph D.8 (suspension and restoration of pensions), for paragraph (4) substitute—
+
+> (4) This paragraph applies while the surviving spouse or civil partner and another person are living together as if they were married.
+
+.
+
+### 54. Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^key-d27c3b418f3f1d9a120ec7850f48c5ab]
+
+In the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^f00067], for regulation 4 (meaning of “couple”) substitute—
+
+> **4. Meaning of “couple”**
+>
+> In these Regulations, “couple” means—
+>
+> - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+> - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple.
+
+.
+
+### 55. Employment and Support Allowance Regulations 2013[^key-437c6412a86f7eb53452aed7db0d5ce6]
+
+In regulation 2 of the Employment and Support Allowance Regulations 2013[^f00068] (interpretation), for the definition of “couple” substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
+>   - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple;
+
+.
+
+### 56. Pensions Increase (Review) Orders 1991 to 2009 and 2011 to 2013[^key-b55ae6c536ae8aa4a015d97a3ef23a45]
+
+In each of—
+
+- (a) the Pensions Increase (Review) Order 1991[^f00069],
+- (b) the Pensions Increase (Review) Order 1992[^f00070],
+- (c) the Pensions Increase (Review) Order 1993[^f00071],
+- (d) the Pensions Increase (Review) Order 1994[^f00072],
+- (e) the Pensions Increase (Review) Order 1995[^f00073],
+- (f) the Pensions Increase (Review) Order 1996[^f00074],
+- (g) the Pensions Increase (Review) Order 1997[^f00075],
+- (h) the Pensions Increase (Review) Order 1998[^f00076],
+- (i) the Pensions Increase (Review) Order 1999[^f00077],
+- (j) the Pensions Increase (Review) Order 2000[^f00078],
+- (k) the Pensions Increase (Review) Order 2001[^f00079],
+- (l) the Pensions Increase (Review) Order 2002[^f00080],
+- (m) the Pensions Increase (Review) Order 2003[^f00081],
+- (n) the Pensions Increase (Review) Order 2004[^f00082],
+- (o) the Pensions Increase (Review) Order 2005[^f00083],
+- (p) the Pensions Increase (Review) Order 2006[^f00084],
+- (q) the Pensions Increase (Review) Order 2007[^f00085],
+- (r) the Pensions Increase (Review) Order 2008[^f00086],
+- (s) the Pensions Increase (Review) Order 2009[^f00087],
+- (t) the Pensions Increase (Review) Order 2011[^f00088],
+- (u) the Pensions Increase (Review) Order 2012[^f00089], and
+- (v) the Pensions Increase (Review) Order 2013[^f00090],
+
+for article 6 (reductions in respect of guaranteed minimum pensions) substitute—
+
+> **6.** The amount by reference to which any increase in the rate of a surviving spouse’s or surviving civil partner’s pension provided for by this Order is to be calculated shall, where the pensioner becomes entitled on the death of the deceased spouse or deceased civil partner to a guaranteed minimum pension, be reduced in accordance with section 59(5ZA) of the 1975 Act.
+
+.
+
+## SCHEDULE 2 — Consequential Amendments to Welsh Subordinate Legislation
+
+Article 3
+
+### 1. Council Tax (Prescribed Classes of Dwellings) (Wales) Regulations 1998[^key-c71eb51063021ab92f93e4a678546a07]
+
+In paragraph 3 of the Schedule to the Council Tax (Prescribed Classes of Dwellings) (Wales) Regulations 1998[^f00091] (job-related dwellings), for “references to the spouse of a person” to “wife” substitute “references to the spouse of a person shall be taken to include references to a person who is living with the other as if they were that person’s spouse”.
+
+### 2. Care Homes (Wales) Regulations 2002[^key-25c614bf5e045e6de8ca126ff857d6d4]
+
+(1) In regulation 2(1) of the Care Homes (Wales) Regulations 2002[^f00092] (interpretation), in the definition of “relative”, for “husband and wife” substitute “a married couple”.
+
+(2) In the Welsh text, in regulation 2(1) of the Care Homes (Wales) Regulations 2002 (dehongli), in the definition of “perthynas” (“*relative*”), for “ŵr a gwraig” substitute “gwpl priod”.
+
+### 3. Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^key-5f9df8b90af10096d27cff45aa98795f]
+
+In regulation 2(1) of the Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^f00093] (interpretation), in the definition of “relative”, for “husband or wife” substitute “a married couple”.
+
+### 4. Leasehold Valuation Tribunals (Fees) (Wales) Regulations 2004[^key-8c30f302d06d752a04d3aca3f1040b92]
+
+(1) In regulation 8(4)(b) of the Leasehold Valuation Tribunals (Fees) (Wales) Regulations 2004[^f00094] (waiver and reduction of fees)—
+
+- (a) at the end of paragraph (i) insert “or”, and
+- (b) for paragraphs (ii) and (iii) substitute—
+
+  > - (ii) a person living with that person as if they were a married couple;
+
+  .
+
+(2) In the Welsh text, in regulation 8(4)(b) of the Leasehold Valuation Tribunals (Fees) Wales Regulations 2004 (hepgor a lleihau ffioedd)—
+
+- (a) at the end of paragraph (i) insert “neu”, and
+- (b) for paragraphs (ii) and (iii) substitute—
+
+  > - (ii) person sy’n byw gyda’r person hwnnw fel petaent yn gwpl priod;
+
+  .
+
+### 5. Service Charges (Consultation Requirements) (Wales) Regulations 2004[^key-d6197fbd8f166347000da869dfb191ad]
+
+(1) In regulation 2 of the Service Charges (Consultation Requirements) (Wales) Regulations 2004[^f00095] (interpretation), for the definition of “cohabitee” substitute “cohabitee (“*un sy’n cyd-fyw*”) in relation to a person, means a person living with that person as if they were a married couple;”.
+
+(2) In the Welsh text, in regulation 2 of the Service Charges (Consultation Requirements) (Wales) Regulations 2004 (dehongli), for the definition of “un sy’n cyd-fyw”(“*cohabitee*”) substitute “ystyr “un sy’n cyd-fyw” (“*cohabitee*”) mewn perthynas â pherson, yw person sy’n byw gyda’r person hwnnw fel pe baent yn gwpl priod;”.
+
+### 6. Adult Placement Schemes (Wales) Regulations 2004[^key-5926900fe95864b0c9bb748f28ad3f87]
+
+(1) In regulation 2(1) of the Adult Placement Schemes (Wales) Regulations 2004[^f00096] (interpretation), in the definition of “relative”, for “husband and wife” substitute “a married couple”.
+
+(2) In the Welsh text, in regulation 2(1) of the Adult Placement Schemes (Wales) Regulations 2004 (dehongli), in the definition of “perthynas” (“*relative*”), for “ŵr a gwraig” substitute “gwpl priod”.
+
+### 7. Selective Licensing of Houses (Specified Exemptions) (Wales) Order 2006[^key-d004cdeda9cb78a034b98b2667abc147]
+
+(1) In article 2 of the Selective Licensing of Houses (Specified Exemptions) (Wales) Order 2006[^f00097] (exempt tenancies or licences), for paragraph (2)(b) substitute—
+
+> - (b) “couple” (“*cwpl*”) means two people who are married to, or civil partners of, each other or who live together as if they are a married couple;
+
+.
+
+(2) In the Welsh text, in article 2 of the Selective Licensing of Houses (Specified Exemptions) (Wales) Order 2006 (tenantiaethau esempt neu drwyddedau esempt), for paragraph (2)(b) substitute—
+
+> - (b) ystyr “cwpl” (“*couple*”) yw dau berson sy’n briod â’i gilydd neu sy’n bartneriaid sifil i’w gilydd neu sy’n byw gyda’i gilydd fel pe baent yn gwpl priod;
+
+.
+
+### 8. Child Minding and Day Care (Wales) Regulations 2010[^key-2b7708d0c286b43b3e9f40e8bcc90285]
+
+(1) In Part 2 of Schedule 2 to the Child Minding and Day Care (Wales) Regulations 2010[^f00098] (information and documentation required for registration: provider of day care), in the definition of “relative” in paragraph 21, for “as husband or wife” substitute “as if they were a married couple”.
+
+(2) In the Welsh text, in Part 2 of Schedule 2 to the Child Minding and Day Care (Wales) Regulations 2010 (gwybodaeth a dogfennau sy’n ofynnol ar gyfer cofrestru: darparydd gofal dydd), in the definition of “perthynas” (“*relative*”) in paragraph 21, for “fel gŵr neu wraig” substitute “fel pe baent yn gwpl priod”.
+
+### 9. Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^key-00959388aa0eafb8c121568c80bbe44c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes amendments to subordinate legislation as a consequence of the coming into force of the majority of the provisions of the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30) (“the Act”). The Order also makes consequential amendments to subordinate legislation which should have been made as part of the implementation of the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33). The Order corrects these omissions. The Order comes into force on 13th March 2014. A separate Order (the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014) making consequential amendments to primary legislation, as well as other provision, is also coming into force on the same day as this Order.
+
+Schedule 1 makes amendments to subordinate legislation. Apart from the amendments made by paragraphs 18(2)(b) and (3)(b) and 19, the amendments only extend to England and Wales. The amendments made by the above mentioned paragraphs also extend to Scotland. Schedule 2 makes amendments to secondary legislation applying in Wales only.
+
+Paragraph 1 of Schedule 1 amends article 20 of the London Cab Order 1934 ([S.I. 1934/1346](https://www.legislation.gov.uk/uksi/1934/1346)) to ensure that it applies as appropriate to all surviving spouses. Due to the statutory gloss contained in section 11(1) and (2) of, and Schedule 3 to, the Act, any reference to a married person in legislation is to be read as including a reference to someone married to a person of the same sex but does not affect gender-specific drafting applying to opposite sex couples. Paragraph 1(c) omits the provision in article 20 enabling a married woman to transfer her Hackney Carriage Licence to her husband.
+
+Paragraph 2 makes a consequential amendment to the Marriage (Authorised Persons) Regulations 1952 ([S.I. 1952/1869](https://www.legislation.gov.uk/uksi/1952/1869)) to recognise that marriages can now take place between two people of the same sex. Other enactments concerned with registration are amended by paragraphs 7, 8, 11, 27 and 38. These are updated to recognise that same sex couples may now marry and to recognise that the parents of a child who are both of the same sex may now be married or in a civil partnership. The amendment made by paragraph 8(2) and (3) follows on from amendments made in the Act.
+
+Paragraph 3 amends the Probation (Compensation) Regulations 1965 ([S.I. 1965/620](https://www.legislation.gov.uk/uksi/1965/620)) to ensure it applies as appropriate to all surviving spouses. Similar amendments are made in paragraphs 4, 12, 13, 47(4), 49(4) and 51(4). Some legislative provisions reflect the historical position up to now that only opposite sex couples can marry. The amendments made by paragraphs 6, 9, 10, 14 to 16, 17(2), (3), (5)(e)(ii), (f)(iii), (g) and (h), and (7)(b) and (c), 20 to 24, 26, 28 to 33, 35 to 37, 40 to 43, 45, 47(2) and (3), 48(3) to (5), 49(2) and (3), 50(3) to (5), 51(2) and (3), 52(3) to (5), and 53 to 55 amend various provisions so that it is clear on the face of those enactments that same sex couples can marry or, if they are living together, can now be treated as if they are married.
+
+Various provisions which refer to cohabiting couples who have chosen not to marry or enter into a civil partnership are amended. These amendments are found in paragraphs 34, 39, 46, 48(2), 50(2) and 52(2).
+
+The amendments at paragraphs 5, 19 and 25 insert references to civil partners into the Merchant Shipping (Maintenance of Seamen’s Dependants) Regulations 1972 ([S.I. 1972/1635](https://www.legislation.gov.uk/uksi/1972/1635)), the Occupational Pension Schemes (Scheme Administration) Regulations 1996 ([S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715)) and the Working Time Regulations 1998 ([S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833)). References to civil partners are also inserted by paragraphs 3, 4, 12, 13, 18(2)(b) and (3)(b), 47(4), 49(4), 51(4) and 56.
+
+The Act provides that in certain cases same sex married couples are not to be treated in exactly the same way as opposite sex married couples. The amendments made by paragraphs 17(4), (5)(a) to (d), (e)(i), and (f)(i) and (ii), (6) and (7)(a), and 18(2)(a) and (3)(a) have this effect. Paragraph 44 ensures provision about same sex married couples is made in the Occupational Pension Schemes (Modification of Schemes) Regulations 2006 ([S.I. 2006/759](https://www.legislation.gov.uk/uksi/2006/759)). Paragraph 56 makes amendments to ensure that increases in the annual rate of the pensions of survivors of same sex spouses in public service pension schemes are correctly calculated.
+
+Schedule 2 makes similar amendments to statutory instruments which only apply to Wales. These make amendments to provisions referring to persons living together to reflect the fact that same sex couples can now marry, and the amendment made by paragraph 7 also inserts a reference to civil partners in article 2 of the Selective Licensing of Houses (Specified Exemptions) (Wales) Order 2006 ([S.I. 2006/2824 (W. 247)](https://www.legislation.gov.uk/wsi/2006/2824)).
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c. 30](https://www.legislation.gov.uk/ukpga/2013/30).
+
+[^f00002]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-04a44ea692c82b6f2e0f56cd6e8ec11e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/107/article/1) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^key-6a2ab5d245c90e5525e4608f0d840258]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/107/article/2) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^key-efda888b7ec0c1edcd9ce5b066f9c668]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/107/article/3) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^key-257273a971dc4a1bc2463526e2661dee]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/1) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00003]: Footnote: [S.I. 1934/1346](https://www.legislation.gov.uk/uksi/1934/1346); article 20 was amended by [S.I. 2000/1666](https://www.legislation.gov.uk/uksi/2000/1666) and modified by [S.I. 1986/566](https://www.legislation.gov.uk/uksi/1986/566). There are other amending instruments but none is relevant.
+
+[^key-7ac3bc17ba2276cbc10454e99412358e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/2) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00004]: Footnote: [S.I. 1952/1869](https://www.legislation.gov.uk/uksi/1952/1869); relevant amending instruments are [S.I. 1971/1216](https://www.legislation.gov.uk/uksi/1971/1216), [1986/1444](https://www.legislation.gov.uk/uksi/1986/1444), [2000/3164](https://www.legislation.gov.uk/uksi/2000/3164) and [2005/3177](https://www.legislation.gov.uk/uksi/2005/3177).
+
+[^f00005]: Footnote: Regulation 16 was amended by [S.I. 1986/1444](https://www.legislation.gov.uk/uksi/1986/1444).
+
+[^f00006]: Footnote: Regulation 17 was amended by [S.I. 1971/1216](https://www.legislation.gov.uk/uksi/1971/1216), [1986/1444](https://www.legislation.gov.uk/uksi/1986/1444) and [2005/3177](https://www.legislation.gov.uk/uksi/2005/3177).
+
+[^f00007]: Footnote: Regulation 19 was amended by [S.I. 2000/3164](https://www.legislation.gov.uk/uksi/2000/3164).
+
+[^key-f52cb89b4ae4c0ce77a9ecf10e7634cd]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/3) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00008]: Footnote: [S.I. 1965/620](https://www.legislation.gov.uk/uksi/1965/620); amended by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114). There are other amending instruments but none is relevant.
+
+[^key-a05341ef4123ca1a952be357b2c2529f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/4) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00009]: Footnote: [S.I. 1971/2008](https://www.legislation.gov.uk/uksi/1971/2008), to which there are amendments not relevant to this Order.
+
+[^key-078053488d5a8f15c9cc8e2fa3364ed8]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/5) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^key-7bad121291996489381e102e00cf80e0]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/5) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^f00010]: Footnote: [S.I. 1972/1635](https://www.legislation.gov.uk/uksi/1972/1635); regulation 4(a) was substituted by [S.I. 1972/1875](https://www.legislation.gov.uk/uksi/1972/1875) and amended by [S.I. 1988/479](https://www.legislation.gov.uk/uksi/1988/479). There are other amending instruments but none is relevant.
+
+[^key-2d6a1b18609931c15491c199b97d6db1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/6) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00011]: Footnote: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343); paragraph 2C was inserted by [S.I. 1984/1699](https://www.legislation.gov.uk/uksi/1984/1699), and the definition of “couple” was inserted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877). There are other amending instruments but none is relevant.
+
+[^key-fea5fa838c8c0f5399343cb8d67f9c5a]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/7) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^key-47d1916ee5232da9c13f1fd19025ce60]: Modification: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/7) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^f00012]: Footnote: [S.I. 1979/1577](https://www.legislation.gov.uk/uksi/1979/1577); paragraph 2 was inserted by [S.I. 2009/1892](https://www.legislation.gov.uk/uksi/2009/1892). There are other amending instruments but none is relevant.
+
+[^key-a0bb1d6de6b8a11c81723ed8d58fb756]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/8) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00013]: Footnote: [S.I. 1986/1442](https://www.legislation.gov.uk/uksi/1986/1442), amended by [S.I. 1995/744](https://www.legislation.gov.uk/uksi/1995/744), [2000/3164](https://www.legislation.gov.uk/uksi/2000/3164), [2005/3177](https://www.legislation.gov.uk/uksi/2005/3177), [2009/2806](https://www.legislation.gov.uk/uksi/2009/2806) and [2011/1172](https://www.legislation.gov.uk/uksi/2011/1172). There are other amending instruments but none is relevant.
+
+[^f00014]: Footnote: Regulation 12 was amended by [S.I. 1995/744](https://www.legislation.gov.uk/uksi/1995/744) and [2000/3164](https://www.legislation.gov.uk/uksi/2000/3164).
+
+[^f00015]: Footnote: Form 1A was substituted, together with form 1, for form 1 as originally enacted by [S.I. 2000/3164](https://www.legislation.gov.uk/uksi/2000/3164) and was then substituted by [S.I. 2009/2806](https://www.legislation.gov.uk/uksi/2009/2806).
+
+[^f00016]: Footnote: Form 1C was substituted by [S.I. 2011/1172](https://www.legislation.gov.uk/uksi/2011/1172).
+
+[^f00017]: Footnote: Form 3 was substituted by [S.I. 2009/2806](https://www.legislation.gov.uk/uksi/2009/2806).
+
+[^f00018]: Footnote: Form 8 was substituted by [S.I. 2005/3177](https://www.legislation.gov.uk/uksi/2005/3177).
+
+[^key-eb08b1c3a0ddda24b2882f4209bfec8e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/9) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00019]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); the definition of “couple” was substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877). There are other amending instruments but none is relevant.
+
+[^key-f51ce2ee28c57a7c2a90a129a5bb96ab]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/10) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00020]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); the definition of “couple” was inserted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877); regulation 2 has been revoked for certain purposes by [S.I. 2003/492](https://www.legislation.gov.uk/uksi/2003/492). There are other amending instruments but none is relevant.
+
+[^key-c8f865e3254734c799c7ea9127918286]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00021]: Footnote: [S.I. 1987/2088](https://www.legislation.gov.uk/uksi/1987/2088); the heading to regulation 9 was substituted by [S.I. 2012/1203](https://www.legislation.gov.uk/uksi/2012/1203). Regulation 9(7) was substituted by [S.I. 2009/2165](https://www.legislation.gov.uk/uksi/2009/2165). Regulation 19(b)(ii) and (iii) was amended by [S.I. 2009/2165](https://www.legislation.gov.uk/uksi/2009/2165). Regulation 42(3)(ba) was inserted by [S.I. 2005/3177](https://www.legislation.gov.uk/uksi/2005/3177). There are other amending instruments but none is relevant.
+
+[^key-16eea39d40d0753bf510f59f80070b98]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/12) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00022]: Footnote: [S.I. 1988/1418](https://www.legislation.gov.uk/uksi/1988/1418), to which there are amendments not relevant to this Order.
+
+[^key-427794ca3ba1e4223e13ab1c6b129512]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/13) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00023]: Footnote: [S.I. 1988/1420](https://www.legislation.gov.uk/uksi/1988/1420); article 10 was amended by [S.I. 2005/3325](https://www.legislation.gov.uk/uksi/2005/3325). Article 12 was amended by [S.I. 1995/2647](https://www.legislation.gov.uk/uksi/1995/2647). There are other amending instruments but none is relevant.
+
+[^key-515d8e8eb893e7270bf8b24bba385db6]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/14) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00024]: Footnote: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815); the definition of “couple” was inserted by [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913) and substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877). These Regulations have been revoked for certain purposes by [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155) and [2012/2785](https://www.legislation.gov.uk/uksi/2012/2785) but are subject to saving provisions in [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947). There are other amendments to the Regulations but none is relevant.
+
+[^key-1ff6a763d49a705bb6c00ff7471e2baa]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/15) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00025]: Footnote: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989); paragraphs (3) to (9) of regulation 3 were inserted by [S.I. 2008/2544](https://www.legislation.gov.uk/uksi/2008/2544). There are other amending instruments but none is relevant.
+
+[^key-2d88dd55334df47bc230e119ea0f9217]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/16) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00026]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); the definition of “couple” was substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877). There are other amending instruments but none is relevant.
+
+[^key-bea46b26e019834d1e29561503dee1b6]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/17) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00027]: Footnote: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172); relevant amending instruments are [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050) and [2009/846](https://www.legislation.gov.uk/uksi/2009/846).
+
+[^f00028]: Footnote: Regulation 1(1A) was inserted by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050).
+
+[^f00029]: Footnote: Regulation 26 was substituted by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050).
+
+[^f00030]: Footnote: Regulation 57 was amended by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050).
+
+[^f00031]: Footnote: Regulation 58 was amended by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050).
+
+[^f00032]: Footnote: Regulation 59 was amended by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050).
+
+[^f00033]: Footnote: Regulation 69B was inserted by [S.I. 2009/846](https://www.legislation.gov.uk/uksi/2009/846).
+
+[^key-f66d985b998fda4ddc1db1f90758673e]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/18) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00034]: Footnote: [S.I. 1996/1462](https://www.legislation.gov.uk/uksi/1996/1462), amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786); there are other amending instruments but none is relevant.
+
+[^key-4c3e4c35f60975b2fe7f35aec4359dc9]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/19) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00035]: Footnote: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715); regulation 7(d) was inserted by [S.I. 1997/819](https://www.legislation.gov.uk/uksi/1997/819). There are other amending instruments but none is relevant.
+
+[^key-cc0c51f100eb6585f0df3d86b6ff8123]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/20) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00036]: Footnote: [S.I. 1996/2745](https://www.legislation.gov.uk/uksi/1996/2745); the definition of “couple” was substituted by [S.I. 2005/2919](https://www.legislation.gov.uk/uksi/2005/2919). There are other amending instruments but none is relevant.
+
+[^key-bea403997e4baffbee5cb64820bde453]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/21) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00037]: Footnote: [S.I. 1996/2890](https://www.legislation.gov.uk/uksi/1996/2890); the definition of “couple” was inserted in relation to England by [S.I. 2005/3323](https://www.legislation.gov.uk/uksi/2005/3323) and in relation to Wales by [S.I. 2006/2801](https://www.legislation.gov.uk/uksi/2006/2801). There are other amending instruments but none is relevant.
+
+[^key-c9bfdb388f7b51a320e7226431a3cc99]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/22) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00038]: Footnote: [S.I. 1996/3195](https://www.legislation.gov.uk/uksi/1996/3195); the definition of “couple” was substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877). There are other amending instruments but none is relevant.
+
+[^key-aec9fbc6d9a9ea7024cdaa9aeda29f1c]: Textual amendment: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/23) revoked (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [reg. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/601/schedule/4) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+
+[^key-c4698ab70d2cd33e14ae9ccf7dee9850]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/24) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00040]: Footnote: [S.I. 1997/784](https://www.legislation.gov.uk/uksi/1997/784), amended by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050). There are other amending instruments but none is relevant.
+
+[^key-ffd0bb23f2f3f1ef10ccb5834ff17cba]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/25) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00041]: Footnote: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833); Schedule 3 was inserted by [S.I. 2003/1684](https://www.legislation.gov.uk/uksi/2003/1684). There are other amending instruments but none is relevant.
+
+[^key-fcece7e86430a2e6de17328359bd96fc]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/26) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00042]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); the definition of “couple” was inserted by [S.I. 2005/2878](https://www.legislation.gov.uk/uksi/2005/2878). There are other amending instruments but none is relevant.
+
+[^key-faf37b9ee5cb17b5754fb60ef1c9cdf6]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/27) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00043]: Footnote: [S.I. 1999/1621](https://www.legislation.gov.uk/uksi/1999/1621); form 1A was substituted together with form 1 by [S.I. 2000/3164](https://www.legislation.gov.uk/uksi/2000/3164) and [2009/2806](https://www.legislation.gov.uk/uksi/2009/2806). Form 1C was substituted by [S.I. 2011/1172](https://www.legislation.gov.uk/uksi/2011/1172). Form 1D was inserted by [S.I. 2009/2806](https://www.legislation.gov.uk/uksi/2009/2806). Forms 3A and 3B were inserted by [S.I. 2005/3177](https://www.legislation.gov.uk/uksi/2005/3177). Form 5 was substituted by [S.I. 2005/3177](https://www.legislation.gov.uk/uksi/2005/3177). There are other amending instruments but none is relevant.
+
+[^key-29796e3d0b644cc2e6bbefca64778f03]: Textual amendment: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/28) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+
+[^key-f51e65395f4593ec622b1f411a9a78a2]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/29) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00045]: Footnote: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155); the definition of “couple” was substituted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877). These Regulations have been revoked by [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785) but are subject to saving provisions in [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947). There are other amending instruments but none is relevant.
+
+[^key-8eefceb23d6ae2a436fb30d3c804b794]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/30) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00046]: Footnote: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002); the definition of “couple” was inserted by [S.I. 2005/2878](https://www.legislation.gov.uk/uksi/2005/2878). There are other amending instruments but none is relevant.
+
+[^key-c28148b6a35cf66271f4f2fd9f0df7ea]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/31) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^key-17154bd59c34f498542d076f5652cb5b]: Modification: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/31) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/iii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^f00047]: Footnote: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228); regulation 13(4) was amended by [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265). There are other amending instruments but none is relevant.
+
+[^key-19bc53afdbcce393cd7905f065297bdf]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/32) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00048]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792); the definition of “couple” was inserted by [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877). There are other amending instruments but none is relevant.
+
+[^key-9804d8df5228b7287399980b83d01d2c]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/33) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00049]: Footnote: [S.I. 2003/1994](https://www.legislation.gov.uk/uksi/2003/1994), to which there are amendments not relevant to this Order.
+
+[^key-ac2f0d001e0d04f8ad878417240ab221]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/34) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00050]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438), to which there are amendments not relevant to this Order.
+
+[^key-9ab98660b7ad6712b76dc7bee52c5225]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/35) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00051]: Footnote: [S.I. 2005/670](https://www.legislation.gov.uk/uksi/2005/670); the definition of “relevant partner” was substituted by [S.I. 2006/580](https://www.legislation.gov.uk/uksi/2006/580). There are other amending instruments but none is relevant.
+
+[^key-b6386dba2f8cba75b434c75428d81012]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/36) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00052]: Footnote: [S.I. 2005/1986](https://www.legislation.gov.uk/uksi/2005/1986); the definition of “partner” was inserted by [S.I. 2009/1851](https://www.legislation.gov.uk/uksi/2009/1851). There are other amending instruments but none is relevant.
+
+[^key-072949fa1d383f25f29ddcbb9fc7d5d8]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/37) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00053]: Footnote: [S.I. 2005/3061](https://www.legislation.gov.uk/uksi/2005/3061), to which there are amendments not relevant to this Order.
+
+[^key-eacc53abcc4b20dc4ba2307aae74b66e]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/38) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00054]: Footnote: [S.I. 2005/3176](https://www.legislation.gov.uk/uksi/2005/3176); in Schedule 2, forms 4 and 4(w) were amended by [S.I. 2011/1171](https://www.legislation.gov.uk/uksi/2011/1171).
+
+[^key-7e55c3bff1f6126d67189f0f5f7969b8]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/39) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00055]: Footnote: These Regulations are not statutory instruments. These Regulations were amended by the Reserve Forces Pension Scheme Amendment Regulations 2006, the Reserve Forces Pension Scheme (Amendment) Regulations 2009 and the Reserve Forces Pension Scheme 2005 (Amendment) Regulations 2012. These instruments can be found at www.gov.uk/government/publications/reserve-forces-pension-scheme-regulations. Hard copies can be obtained from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
+
+[^key-2ea032572fe3f8c774fab507949472d3]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/40) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00056]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213), to which there are amendments not relevant to this Order.
+
+[^key-a9a59bf221fcca45b16dcf5b99ab751b]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/41) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00057]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214), to which there are amendments not relevant to this Order.
+
+[^key-7e695d891f567209db45ce0497aba12e]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/42) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00058]: Footnote: [S.I. 2006/580](https://www.legislation.gov.uk/uksi/2006/580), to which there are amendments not relevant to this Order.
+
+[^key-438ec5c8556fe0fe0be19c174fb3449d]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/43) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00059]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606); the definition of “dependant living as a spouse” was amended by [S.I. 2006/1455](https://www.legislation.gov.uk/uksi/2006/1455). There are other amending instruments but none is relevant.
+
+[^key-51240240fe698bd5a60877231e39abe3]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/44) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00060]: Footnote: [S.I. 2006/759](https://www.legislation.gov.uk/uksi/2006/759), to which there are amendments not relevant to this Order.
+
+[^key-829e4762aa089cf7648b8e624fb3bd64]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/45) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00061]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794), to which there are amendments not relevant to this Order.
+
+[^key-6fa793c4cebb129e43bf221f0913a48c]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/46) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00062]: Footnote: [S.I. 2010/832](https://www.legislation.gov.uk/uksi/2010/832), to which there are amendments not relevant to this Order.
+
+[^key-660440477274b0f19b6950749289dbde]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/47) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00063]: Footnote: Order in Council made pursuant to section 3 of the Naval and Marine Pay and Pensions Act 1865 (28 and 29 Vict c. 73). This Order in Council and its amending orders are not statutory instruments. Schedule 1 was substituted in its entirety by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and subsequently amended by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012. Copies can be obtained from www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations. Hard copies are available from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
+
+[^key-e611002c23b918d78d16bafd7deb74a3]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/48) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^key-496a5926301403f79150134593cc9de1]: Modification: [Sch. 1 para. 48(1)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/48/1) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(iv)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/iv) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-6175829d491620b99e24c13778fdabdb]: Modification: [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/48/3) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(iv)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/iv) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-0ddcacb985e64f2dc95f2163176a1408]: Modification: [Sch. 1 para. 48(4)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/48/4) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(iv)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/iv) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-6e6b6b69507f87e11b18a55a764bace9]: Modification: [Sch. 1 para. 48(5)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/48/5) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(iv)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/iv) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-a724cc98ffa642658cd8bc178683eea7]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/49) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00064]: Footnote: Royal Warrant made under section 2 of the Pensions and Yeomanry Pay Act 1884 (47 and 48 Vict c. 55) and prerogative powers. This Warrant and the warrants which amend it are not statutory instruments. Schedule 1 was substituted in its entirety by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Warrant 2010 and was subsequently amended by the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme (Amendment) Warrant 2012. Copies can be obtained from www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations. Hard copies are available from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
+
+[^key-c0bfb2e83ea9e7029eab24ea5413a938]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/50) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^key-1988709601e00aa011f733d68650ac86]: Modification: [Sch. 1 para. 50(1)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/50/1) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(v)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/v) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-226c961e2a8162658e44db25f7316f39]: Modification: [Sch. 1 para. 50(3)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/50/3) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(v)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/v) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-31c1074a1864ccd1574c491f9bd8f570]: Modification: [Sch. 1 para. 50(4)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/50/4) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(v)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/v) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-8438ccef1be05c5e98fbc1c587a5109c]: Modification: [Sch. 1 para. 50(5)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/50/5) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(v)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/v) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-0d7da942a5529d3f2921b857b97f0626]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/51) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00065]: Footnote: Queen’s Order made under section 2(1) of the Air Force (Constitution) Act 1917 (7 and 8 Geo 5 c. 51). This Order and its amending orders are not statutory instruments. Schedule 1 was substituted by the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010 and subsequently amended by the Air Force Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012. Copies can be obtained from www.gov.uk/government/publications/armed-forces-pension-scheme-1975-regulations. Hard copies are available from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
+
+[^key-82392261f0a2ba4fa325af021ee2a496]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/52) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^key-865c6f56bde4b6569f056b9754d7b256]: Modification: [Sch. 1 para. 52(1)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/52/1) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(vi)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/vi) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-e75d49ac7555c3cd2cb6fc8a9a528c41]: Modification: [Sch. 1 para. 52(3)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/52/3) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(vi)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/vi) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-8f455dd421a344ec39ec4d51bad84e33]: Modification: [Sch. 1 para. 52(4)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/52/4) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(vi)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/vi) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-9e6c889697bb77a3356a2b78f4448e38]: Modification: [Sch. 1 para. 52(5)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/52/5) extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(a)(vi)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/a/vi) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-76505077e3da4f7c3f6067849b45af19]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/53) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00066]: Footnote: These Regulations are not statutory instruments. Copies can be found at http://www.gov.uk/government/publications/reserve-forces-pension-scheme-regulations. Hard copies can be obtained from CDP-Remuneration, Armed Forces Pensions, Level 6 Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
+
+[^key-d27c3b418f3f1d9a120ec7850f48c5ab]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/54) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00067]: Footnote: [S.I. 2012/2885](https://www.legislation.gov.uk/uksi/2012/2885), to which there are amendments not relevant to this Order.
+
+[^key-437c6412a86f7eb53452aed7db0d5ce6]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/55) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00068]: Footnote: [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379), to which there are amendments not relevant to this Order.
+
+[^key-b55ae6c536ae8aa4a015d97a3ef23a45]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/56) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00069]: Footnote: [S.I. 1991/684](https://www.legislation.gov.uk/uksi/1991/684).
+
+[^f00070]: Footnote: [S.I. 1992/198](https://www.legislation.gov.uk/uksi/1992/198).
+
+[^f00071]: Footnote: [S.1. 1993/779](https://www.legislation.gov.uk/uksi/1993/779).
+
+[^f00072]: Footnote: [S.I. 1994/776](https://www.legislation.gov.uk/uksi/1994/776).
+
+[^f00073]: Footnote: [S.I. 1995/708](https://www.legislation.gov.uk/uksi/1995/708).
+
+[^f00074]: Footnote: [S.I. 1996/800](https://www.legislation.gov.uk/uksi/1996/800).
+
+[^f00075]: Footnote: [S.I. 1997/634](https://www.legislation.gov.uk/uksi/1997/634).
+
+[^f00076]: Footnote: [S.I. 1998/503](https://www.legislation.gov.uk/uksi/1998/503).
+
+[^f00077]: Footnote: [S.I. 1999/522](https://www.legislation.gov.uk/uksi/1999/522).
+
+[^f00078]: Footnote: [S.I. 2000/672](https://www.legislation.gov.uk/uksi/2000/672).
+
+[^f00079]: Footnote: [S.I. 2001/664](https://www.legislation.gov.uk/uksi/2001/664).
+
+[^f00080]: Footnote: [S.I. 2002/699](https://www.legislation.gov.uk/uksi/2002/699).
+
+[^f00081]: Footnote: [S.I. 2003/681](https://www.legislation.gov.uk/uksi/2003/681).
+
+[^f00082]: Footnote: [S.I. 2004/758](https://www.legislation.gov.uk/uksi/2004/758).
+
+[^f00083]: Footnote: [S.I. 2005/858](https://www.legislation.gov.uk/uksi/2005/858).
+
+[^f00084]: Footnote: [S.I. 2006/741](https://www.legislation.gov.uk/uksi/2006/741).
+
+[^f00085]: Footnote: [S.I. 2007/801](https://www.legislation.gov.uk/uksi/2007/801).
+
+[^f00086]: Footnote: [S.I. 2008/711](https://www.legislation.gov.uk/uksi/2008/711).
+
+[^f00087]: Footnote: [S.I. 2009/692](https://www.legislation.gov.uk/uksi/2009/692).
+
+[^f00088]: Footnote: [S.I. 2011/827](https://www.legislation.gov.uk/uksi/2011/827).
+
+[^f00089]: Footnote: [S.I. 2012/782](https://www.legislation.gov.uk/uksi/2012/782).
+
+[^f00090]: Footnote: [S.I. 2013/604](https://www.legislation.gov.uk/uksi/2013/604).
+
+[^key-c71eb51063021ab92f93e4a678546a07]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/1) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00091]: Footnote: [S.I. 1998/105](https://www.legislation.gov.uk/uksi/1998/105); paragraph 3 of the Schedule was amended by [S.I. 2004/452 (W. 43)](https://www.legislation.gov.uk/wsi/2004/452) and [2005/3302 (W. 256)](https://www.legislation.gov.uk/wsi/2005/3302). There are other amending instruments but none is relevant.
+
+[^key-25c614bf5e045e6de8ca126ff857d6d4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/2) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00092]: Footnote: [S.I. 2002/324 (W.37)](https://www.legislation.gov.uk/wsi/2002/324); the definition of “relative” and the definition of “perthynas” were amended by [S.I. 2002/2935 (W. 277)](https://www.legislation.gov.uk/wsi/2002/2935) and [2005/3302 (W. 256)](https://www.legislation.gov.uk/wsi/2005/3302). There are other amending instruments but none is relevant.
+
+[^key-5f9df8b90af10096d27cff45aa98795f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/3) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00093]: Footnote: [S.I. 2002/919 (W. 107)](https://www.legislation.gov.uk/wsi/2002/919); the definition of “relative” was amended by [S.I. 2005/3302 (W. 256)](https://www.legislation.gov.uk/wsi/2005/3302). There are other amending instruments but none is relevant.
+
+[^key-8c30f302d06d752a04d3aca3f1040b92]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/4) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00094]: Footnote: [S.I. 2004/683 (W. 71)](https://www.legislation.gov.uk/wsi/2004/683); regulation 8(4)(b) was amended by [S.I. 2005/3302 (W. 256)](https://www.legislation.gov.uk/wsi/2005/3302). There are other amending instruments but none is relevant.
+
+[^key-d6197fbd8f166347000da869dfb191ad]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/5) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00095]: Footnote: [S.I. 2004/684 (W. 72)](https://www.legislation.gov.uk/wsi/2004/684), to which there are amendments not relevant to this Order.
+
+[^key-5926900fe95864b0c9bb748f28ad3f87]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/6) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00096]: Footnote: [S.I. 2004/1756 (W. 188)](https://www.legislation.gov.uk/wsi/2004/1756); the definition of “relative” and the definition of “perthynas” were amended by [S.I. 2005/3302 (W. 256)](https://www.legislation.gov.uk/wsi/2005/3302) and [2010/2585 (W. 217)](https://www.legislation.gov.uk/wsi/2010/2585). There are other amending instruments but none is relevant.
+
+[^key-d004cdeda9cb78a034b98b2667abc147]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/7) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00097]: Footnote: [S.I. 2006/2824 (W. 247)](https://www.legislation.gov.uk/wsi/2006/2824).
+
+[^key-2b7708d0c286b43b3e9f40e8bcc90285]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/8) in force at 13.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2)
+
+[^f00098]: Footnote: [S.I. 2010/2574 (W. 214)](https://www.legislation.gov.uk/wsi/2010/2574).
+
+[^key-00959388aa0eafb8c121568c80bbe44c]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2014/107/schedule/2/paragraph/9) revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/uksi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/1), [52(f)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/52/f) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/2))

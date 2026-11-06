@@ -1,0 +1,99 @@
+---
+title: The Police Act 1997 (Criminal Records) (Amendment) Regulations 2008
+id: uksi/2008/2143
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-08-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/2143
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2143/pdfs/uksiem_20082143_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2143/pdfs/uksi_20082143_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2143/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Act 1997 (Criminal Records) (Amendment) Regulations 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 2143
+
+Police, England And Wales
+
+The Police Act 1997 (Criminal Records) (Amendment) Regulations 2008
+
+Made
+
+7th August 2008
+
+Laid before Parliament
+
+11th August 2008
+
+Coming into force
+
+1st September 2008
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 113B(2)(b), 113D(4)(d) and 125 of the Police Act 1997[^f00001]:
+
+## 1. Citation, commencement, extent and interpretation
+
+(1) These Regulations may be cited as the Police Act 1997 (Criminal Records) (Amendment) Regulations 2008 and shall come into force on 1st September 2008.
+
+(2) These Regulations extend to England and Wales.
+
+(3) In these Regulations—
+
+- “the 2002 Regulations” means the Police Act 1997 (Criminal Records) Regulations 2002[^f00002].
+
+## 2. Amendment of the 2002 Regulations
+
+(1) Regulation 5A of the 2002 Regulations (Enhanced criminal record certificates: prescribed purposes)[^f00003] is amended as follows.
+
+(2) After paragraph (g) insert—
+
+> - (ga) registration under Chapters 2, 3 or 4 of Part 3 of the Childcare Act 2006[^f00004] (regulation of provision of childcare in England);
+
+.
+
+**3.** For regulation 8A of the 2002 Regulations[^f00005] substitute—
+
+> **8A. Criminal record certificates: suitability relating to adults: prescribed positions**
+>
+> The following positions are prescribed for the purposes of section 113D(4) of the Act (criminal record certificates: suitability relating to adults), namely the positions referred to in regulation 5A(ba) above (position concerned with the provision of care services to vulnerable adults or with representing, or providing advocacy services to, such adults) and regulation 5A(v) above (position of Commissioner for Older People in Wales[^f00006], or that of his deputy or persons appointed by the Commissioner to assist in the discharge of his functions or authorised to discharge his functions on his behalf).
+
+.
+
+West of Spithead
+
+Parliamentary Under Secretary of State
+
+Home Office
+
+7th August 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations amend regulations 5A and 8A of the Police Act 1997 (Criminal Records) Regulations 2002 to extend the purposes in respect of which applications for enhanced criminal record certificates can be made and to extend the positions in respect of which suitability relating to adults may be disclosed on criminal record certificates or enhanced criminal record certificates.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50). Sections 113B and 113D were inserted in Part V of that Act by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15).
+
+[^f00002]: Footnote: [S.I. 2002/233](https://www.legislation.gov.uk/uksi/2002/233).
+
+[^f00003]: Footnote: Regulation 5A was inserted by [S.I. 2006/748](https://www.legislation.gov.uk/uksi/2006/748) and amended by [S.I. 2006/2181](https://www.legislation.gov.uk/uksi/2006/2181), [S.I. 2007/1892](https://www.legislation.gov.uk/uksi/2007/1892) and [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224).
+
+[^f00004]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^f00005]: Footnote: Regulation 8A was inserted by [S.I. 2006/2181](https://www.legislation.gov.uk/uksi/2006/2181).
+
+[^f00006]: Footnote: The Commissioner for Older People in Wales is established by section 1 of the Commissioner fro Older People (Wales) Act [2006 (c.30)](https://www.legislation.gov.uk/ukpga/2006/30).

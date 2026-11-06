@@ -1,0 +1,58 @@
+---
+title: The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022, section 132
+act: The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022
+section: '132'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/634/section/132
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022, section 132
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 132. Amendment of the Adoption Agencies (Wales) Regulations 2005 (Welsh language text)
+
+(1) The Welsh language text of the Adoption Agencies (Wales) Regulations 2005 (Rheoliadau Asiantaethau Mabwysiadu (Cymru) 2005) is amended as follows.
+
+(2) In Schedule 3, in Part 1—
+
+- (a) under the heading “Tramgwyddau yng Nghymru a Lloegr”, after paragraph 1 insert—
+
+  > **1A.** Unrhyw un neu ragor o’r tramgwyddau a ganlyn—
+  >
+  > - (a) tramgwydd profi gwyryfdod o dan adran 136 o Ddeddf Iechyd a Gofal 2022,
+  > - (b) tramgwydd cynnig cynnal prawf gwyryfdod o dan adran 137 o’r Ddeddf honno,
+  > - (c) tramgwydd helpu neu annog etc person i gynnal prawf gwyryfdod o dan adran 138 o’r Ddeddf honno,
+  > - (d) tramgwydd cynnal hymenoplasti o dan adran 148 o’r Ddeddf honno,
+  > - (e) tramgwydd cynnig cynnal hymenoplasti o dan adran 149 o’r Ddeddf honno, ac
+  > - (f) tramgwydd helpu neu annog etc person i gynnal hymenoplasti o dan adran 150 o’r Ddeddf honno.
+
+  ;
+- (b) under the heading “Tramgwyddau yn yr Alban”, before paragraph 7 insert—
+
+  > **6A.** Unrhyw un neu ragor o’r tramgwyddau a ganlyn—
+  >
+  > - (a) tramgwydd profi gwyryfdod o dan adran 140 o Ddeddf Iechyd a Gofal 2022,
+  > - (b) tramgwydd cynnig cynnal prawf gwyryfdod o dan adran 141 o’r Ddeddf honno,
+  > - (c) tramgwydd helpu neu annog etc person i gynnal prawf gwyryfdod o dan adran 142 o’r Ddeddf honno,
+  > - (d) tramgwydd cynnal hymenoplasti o dan adran 152 o’r Ddeddf honno,
+  > - (e) tramgwydd cynnig cynnal hymenoplasti o dan adran 153 o’r Ddeddf honno, ac
+  > - (f) tramgwydd helpu neu annog etc person i gynnal hymenoplasti o dan adran 154 o’r Ddeddf honno.
+
+  ;
+- (c) under the heading “Tramgwyddau yng Ngogledd Iwerddon”, after paragraph 12 insert—
+
+  > **13.** Unrhyw un neu ragor o’r tramgwyddau a ganlyn
+  >
+  > - (a) tramgwydd profi gwyryfdod o dan adran 144 o Ddeddf Iechyd a Gofal 2022,
+  > - (b) tramgwydd cynnig cynnal prawf gwyryfdod o dan adran 145 o’r Ddeddf honno,
+  > - (c) tramgwydd helpu neu annog etc person i gynnal prawf gwyryfdod o dan adran 146 o’r Ddeddf honno,
+  > - (d) tramgwydd cynnal hymenoplasti o dan adran 156 o’r Ddeddf honno,
+  > - (e) tramgwydd cynnig cynnal hymenoplasti o dan adran 157 o’r Ddeddf honno, ac
+  > - (f) tramgwydd helpu neu annog etc person i gynnal hymenoplasti o dan adran 158 o’r Ddeddf honno.
+
+  .

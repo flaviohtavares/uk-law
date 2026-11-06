@@ -1,0 +1,286 @@
+---
+title: The Council Tax (Additional Provisions for Discount Disregards) Regulations 1992
+id: uksi/1992/552
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1992-03-09'
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1992/552
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/552/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Additional Provisions for Discount Disregards) Regulations 1992
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1992 No. 552
+
+COUNCIL TAX, ENGLAND AND WALES
+
+The Council Tax (Additional Provisions for Discount Disregards) Regulations 1992
+
+Made
+
+9th March 1992
+
+Laid before Parliament
+
+10th March 1992
+
+Coming into force
+
+31st March 1992
+
+[^M_C_241f3543-0d40-41a8-9908-bcb245ff1bb7]The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by section 116(1) of and paragraphs 9 and 11 of Schedule 1 to the Local Government Finance Act 1992[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations–
+
+**1.**[^key-043ec85c08e862ba73e6bb966b322fa0] (1) These Regulations may be cited as the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992 and shall come into force on 31st March 1992.
+
+(2) For the purposes of these Regulations, “the Act” means the Local Government Finance Act 1992.
+
+(3)[^key-ce4cb7911bf4f8cd20de10fd89515feb] These Regulations apply in relation to England.
+
+## 2. Care Workers[^key-62d74ff75b58fc9851e512345c84663d]
+
+The condition prescribed for the purposes of paragraph 9 of Schedule 1 to the Act is that, on the day in question the person fulfils either the requirements set out in Part I of the Schedule to these Regulations or those set out in Part II of that Schedule.
+
+## 3. Persons of other descriptions: England[^key-b2382f69f9322d83da3018c2b02a6228][^key-95d0f992402c7edf655a5bfcde8d6ad1]
+
+(1) In relation to dwellings in England,[^key-f875014f3f7113145c7f59453e463992] the descriptions prescribed for the purposes of paragraph 11 of Schedule 1 to the Act and the conditions to be fulfilled in respect of those descriptions on a particular day are, subject to paragraph (2), that a person is within one of the following classes—
+
+*International Headquarters and Defence Organisations*
+
+|  |  |
+| --- | --- |
+| Class A | a member or a dependent of a member, within the meanings given by the Schedule to the International Headquarters and Defences Organisations Act 1964[^f00002], of a headquarters or organisation which is on that day the subject of a designation by an Order in Council under section 1 of that Act; |
+
+*Religious Communities*
+
+|  |  |
+| --- | --- |
+| Class B | a person who— |
+|  | (a) is a member of a religious community the principal occupation of which consists of prayer, contemplation, education, the relief of suffering, or any combination of these; and |
+|  | (b) has no income or capital of his own (disregarding any income by way of a pension in respect of former employment) and is dependent on the community to provide for his material needs; |
+
+*School leavers[^key-b5b3cb98c991a170a4eb0f5ec60a7747]*
+
+|  |  |
+| --- | --- |
+| Class C | a person who— |
+|  | (a) is under the age of 20; and |
+|  | (b) has within a relevant period ceased to undertake a qualifying course of education or a full time course of education. |
+
+*Visiting forces[^key-1997c4dce971d34893007032efa24b38]*
+
+|  |  |
+| --- | --- |
+| Class D | a person who has a relevant association, within the meaning of Part I of the Visiting Forces Act 1952, with a body, contingent or detachment of the forces of a country, to which any provision in that Part applies on that day. |
+
+*Spouses of students[^key-992c93854ab22de6014f6df7b0583691]*
+
+|  |  |
+| --- | --- |
+| Class E | a person who is— |
+|  | (a) the spouse or civil partner[^M_F_e43b4bb2-8fa4-42bb-d7df-7c3909a4b554] or dependant of a student within the meaning of paragraph 4 of Schedule 1 to the Act; and |
+|  | (b) not a British citizen and who is prevented, by the terms of his leave to enter or remain in the United Kingdom, from taking paid employment or from claiming benefits. |
+
+|  |  |
+| --- | --- |
+| Class F[^key-cf9d57ee3eb9beb2dae74b5f23a399a9] | a person who is— |
+|  | (a) a person on whom privileges and immunities are conferred by the Diplomatic Privileges Act 1964, or |
+|  | (b) a person on whom privileges and immunities are conferred under paragraph 5(1) of Part II of the Schedule to the Commonwealth Secretariat Act 1966, or |
+|  | (c) a person on whom privileges and immunities are conferred by section 1 of the Consular Relations Act 1968, or |
+|  | (d) in relation to any organisation specified in an Order in Council made under section 1(2) of the International Organisations Act 1968, within a class of persons mentioned in section 1(3) of that Act to which the relevant Order extended relief from rates as specified in paragraph 9 of Schedule 1 to that Act, or |
+|  | (e) a person on whom privileges and immunities are conferred by article 3 or 4 of the Commonwealth Countries and Republic of Ireland (Immunities and Privileges) Order 1985, or |
+|  | (f) the head of any office established as described in section 1(1) of the Hong Kong Economic Trade Act 1996, |
+|  | and is not— |
+|  | (i) a British citizen, a British Dependent Territories citizen, a British National (Overseas) or a British Overseas citizen; or |
+|  | (ii) a person who under the British Nationality Act 1981 is a British subject; or |
+|  | (iii) a British protected person (within the meaning of that Act); or |
+|  | (iv) a permanent resident of the United Kingdom. |
+
+*Ukraine visa schemes[^key-0493aa0c10b7dc3982016ae52ad32110]*
+
+|  |  |
+| --- | --- |
+| Class G: | a person— |
+|  | (a) who holds permission to enter or to stay in the United Kingdom granted under the Homes for Ukraine Sponsorship Scheme route in Appendix Ukraine Scheme of the Immigration Rules; or |
+|  | (b) in respect of whom another person is eligible for a thank you payment in accordance with guidance entitled “Homes for Ukraine: Ukraine Permission Extension scheme - guidance for councils” published by the Ministry of Housing, Communities and Local Government on 24th February 2025. |
+
+(2)[^key-fd80f466ed977d6019258be0d4ae5b04] In relation to Class C in paragraph (1)—
+
+- (a) “**relevant period**” means the period after 30th April and before 1st November in any year;
+- (b) “**qualifying course of education**” and “**full time course of education**” have the same meaning as in Part II of Schedule 1 to the Council Tax (Discount Disregards) Order 1992; and
+- (c) the day in question must be within the same relevant period as that in which the cessation takes place.
+
+## 4. Persons of other descriptions: Wales[^key-892a125050ac2eef28df7a7bfca0edcb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-693f57c403ec6736ac489fb1ade0e917] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Michael Heseltine
+
+Secretary of State for the Environment
+
+9th March 1992
+
+David Hunt
+
+Secretary of State for Wales
+
+9th March 1992
+
+## SCHEDULE
+
+Regulation 2
+
+### PART I
+
+**1.**[^key-d4b54fd6fcf7fd9f1256f6b1ee65f621] The requirements set out in this Part of this Schedule are that the person is–
+
+- (a) either–
+  - (i) providing the care or support in question on behalf of a relevant body; or
+  - (ii) employed to provide such care or support by the person to whom it is provided and to whom he was introduced by a relevant body falling within paragraph 2(e) below;
+- (b) engaged or employed to do so for at least 24 hours a week;
+- (c) in receipt under his engagement or employment of not more than [^M_F_58b57d74-5dde-4c0e-9dd2-b7185bc8e1a3]£44 *(Extent: E)*[^key-0160e1e99064efd9a1b23950c95a78fd] remuneration a week; and
+- (d) resident in premises provided by or on behalf of the relevant body (in a case to which subparagraph (a)(i) applies) or by his employer, (in a case to which subparagraph (a)(ii) applies), for the better performance of his work.
+
+**2.**[^key-fb28056513462eecdab6357bcc128cc6] In paragraph 1 above, “relevant body” means–
+
+- (a) a local authority within the meaning of the Local Government Act 1972[^f00004]
+- (b) the Common Council of the City of London;
+- (c) the Council of the Isles of Scilly;
+- (d) the Crown;
+- (e) a body established for charitable purposes only.
+
+### PART II
+
+**3.**[^key-a0b25d3ff70e1e835be22ae93f6d1f30] The requirements set out in this Part of this Schedule are that the person is—
+
+- (a) providing care to a person who is entitled to[^key-369406934ce07adabf7f340c36b9804a]—
+  - (i) [^key-00e33531b098e44a9b4afec3040516a4]an[^key-b700c377e199c395fb3d9614fe547aa9] attendance allowance under section 65 of the Social Security Contributions and Benefits Act 1992[^f00005];
+  - (ii) the highest [^key-7c6fee7ecab5b47ea9f97b5439dc8e7e]or middle[^key-e76cf72d67bd885c153243f42b0dd3fa] rate of the care component of a disability living allowance under section 72(4)(a) [^key-297d77109daba0a970982605f9aa56e7]or section 72(4)(b) of that Act;
+  - (iii)[^key-ee6ed4c3b9a78d87b118fab991a7dde4] an increase in the rate of his disablement pension under section 104 of that Act by an amount which is the highest amount determined in accordance with paragraph (a) of regulation 19 of the Social Security (General Benefit) Regulations 1982 or, in a case to which paragraph (b) of that regulation applies, the amount determined in accordance with that paragraph; [^key-c5dd2b790cd3c9fd448683cb4174db35][^key-a1fddad415859ad8a3cd15f7cc6081bd]...
+  - (iv) an increase in a constant attendance allowance under the proviso to article 14 of the Personal Injuries (Civilians) Scheme 1983[^f00006], or under article 14(1)(b) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983[^f00007] (including that provision as applied, whether with or without modifications, by any other instrument); [^key-30334df79698b7e58d6c1c7ac047d338][^key-579acac16df6d76fd3da1cb5c5d016de][^key-1b2f942d706930c64def5ac783c4cd5d]...[^key-46722a254919322f7078417ce32057b1]
+  - (v) the standard or enhanced rate of the daily living component of personal independence payment under section 78(3) of the Welfare Reform Act 2012; [^key-3482d134ce0baabccf403e906b9589b4]or *(Extent: E)*[^key-3b696fd041d5d62bfd616ba8535dadb6]
+
+  *Extent: E*
+
+  - (vi) armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;
+- (b) resident in the same dwelling as the person to whom he is providing care;
+- (c) providing that care for at least 35 hours a week on average; and
+- (d) not a disqualified relative of that person.
+
+**4.**[^key-8b77659e15359adf98dc218ab59c77cc] (1) For the purposes of paragraph 3 above, a person is a disqualified relative of another if—
+
+- (a)[^key-2b302b45cbc857a40dfc4f371e37263a] he is the spouse or civil partner of the other or they live together as if they were a married couple or civil partners; or
+- (b) he is the parent of the other, who is a child below the age of 18 years.
+
+(This note is not part of the Regulations)
+
+Under Part I of the Local Government Finance Act 1992, the council tax becomes payable with effect from 1st April 1993. The amount payable for the tax is reduced where a person resident in a dwelling qualifies to be disregarded for the purposes of discount. Schedule 1 to the 1992 Act provides for classes of persons to qualify for the purposes of discount. These Regulations make additional provisions in relation to certain of those classes.
+
+Under paragraph 9 of Schedule 1 to the Local Government Finance Act 1992 care workers are to be disregarded for discount, if they fulfil prescribed conditions. Regulation 2 and the Schedule to these Regulations set out the conditions in question.
+
+Paragraph 11 of Schedule 1 gives the Secretary of State power to prescribe additional classes of persons to be disregarded for discount. Regulation 3 sets out three such classes – members of international headquarters and defence organisations, members of religious communities, and school leavers.
+
+## Annotations
+
+[^M_C_241f3543-0d40-41a8-9908-bcb245ff1bb7]: Modification: Regulations: any reference to British Dependent Territories citizenship, or a British Dependent Territories citizen, shall be read as a reference to British overseas territories citizenship, or a British overseas territories citizen (26.2.2002) by virtue of [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2002/8/section/2/3)
+
+[^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14): in section 116(1), see the definition of “prescribed”.
+
+[^key-043ec85c08e862ba73e6bb966b322fa0]: Commencement: Reg. 1 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/1/1)
+
+[^key-ce4cb7911bf4f8cd20de10fd89515feb]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/1992/552/regulation/1/3) inserted (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/3/2)
+
+[^key-62d74ff75b58fc9851e512345c84663d]: Commencement: Reg. 2 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/1/1)
+
+[^key-b2382f69f9322d83da3018c2b02a6228]: Commencement: Reg. 3 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/1/1)
+
+[^key-95d0f992402c7edf655a5bfcde8d6ad1]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1992/552/regulation/3) heading substituted (1.4.2019) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2019 (S.I. 2019/431)](https://www.legislation.gov.uk/wsi/2019/431), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/431/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2019/431/regulation/2/2)
+
+[^key-f875014f3f7113145c7f59453e463992]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1992/552/regulation/3) inserted (1.4.2019) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2019 (S.I. 2019/431)](https://www.legislation.gov.uk/wsi/2019/431), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/431/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/431/regulation/2/3)
+
+[^f00002]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
+
+[^key-b5b3cb98c991a170a4eb0f5ec60a7747]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/3/1) Class C substituted (24.2.1993) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) Regulations 1993 (S.I. 1993/149)](https://www.legislation.gov.uk/uksi/1993/149), [regs. 1](https://www.legislation.gov.uk/uksi/1993/149/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1993/149/regulation/2/a)
+
+[^key-1997c4dce971d34893007032efa24b38]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/552/regulation/3) Class D added (27.11.1992) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) Regulations 1992 (S.I. 1992/2942)](https://www.legislation.gov.uk/uksi/1992/2942), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2942/regulation/1), [2](https://www.legislation.gov.uk/uksi/1992/2942/regulation/2)
+
+[^key-992c93854ab22de6014f6df7b0583691]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/552/regulation/3) Class E inserted (1.4.1995) by [The Council Tax (Liability for Owners and Additional Provisions for Discount Disregards) (Amendment) Regulations 1995 (S.I. 1995/620)](https://www.legislation.gov.uk/uksi/1995/620), [regs. 1](https://www.legislation.gov.uk/uksi/1995/620/regulation/1), [4](https://www.legislation.gov.uk/uksi/1995/620/regulation/4)
+
+[^M_F_e43b4bb2-8fa4-42bb-d7df-7c3909a4b554]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/3/1) Class E inserted (E.) (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/3/2); and corresponding amendment made (W.) (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments to Subordinate Legislation) (Wales) Order 2005 (S.I. 2005/3302)](https://www.legislation.gov.uk/wsi/2005/3302), [art. 1(2)](https://www.legislation.gov.uk/wsi/2005/3302/article/1/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/wsi/2005/3302/schedule/paragraph/7/a)
+
+[^key-cf9d57ee3eb9beb2dae74b5f23a399a9]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/552/regulation/3) Class F inserted (1.4.1997) by [The Council Tax (Additional Provisions for Discount Disregards) Amendment Regulations 1997 (S.I. 1997/657)](https://www.legislation.gov.uk/uksi/1997/657), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/657/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/1997/657/regulation/2)
+
+[^key-0493aa0c10b7dc3982016ae52ad32110]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/3/1) Class G substituted (25.3.2025) by [The Council Tax (Discount Disregards and Exempt Dwellings) (Amendment) (England) Regulations 2025 (S.I. 2025/242)](https://www.legislation.gov.uk/uksi/2025/242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/242/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/242/regulation/2)
+
+[^key-fd80f466ed977d6019258be0d4ae5b04]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/1992/552/regulation/3/2) substituted (24.2.1993) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) Regulations 1993 (S.I. 1993/149)](https://www.legislation.gov.uk/uksi/1993/149), [regs. 1](https://www.legislation.gov.uk/uksi/1993/149/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1993/149/regulation/2/b)
+
+[^key-892a125050ac2eef28df7a7bfca0edcb]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/552/regulation/4) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/3/3)
+
+[^key-693f57c403ec6736ac489fb1ade0e917]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/552/regulation/5) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/3/3)
+
+[^key-d4b54fd6fcf7fd9f1256f6b1ee65f621]: Commencement: Sch. para. 1 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/1/1)
+
+[^M_F_58b57d74-5dde-4c0e-9dd2-b7185bc8e1a3]: Textual amendment: Sum in Sch. para. 1(c) substituted (W.) (1.4.2007) by [Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2007 (S.I. 2007/581)](https://www.legislation.gov.uk/uksi/2007/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/581/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2007/581/regulation/2)
+
+[^key-0160e1e99064efd9a1b23950c95a78fd]: Textual amendment: Sum in [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/1/c) substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1.4.2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/4/2)
+
+[^key-fb28056513462eecdab6357bcc128cc6]: Commencement: Sch. para. 2 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/1/1)
+
+[^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70), see the definition of local authority in section 270(1), which has been amended by the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 17.
+
+[^key-a0b25d3ff70e1e835be22ae93f6d1f30]: Commencement: Sch. para. 3 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/1/1)
+
+[^key-369406934ce07adabf7f340c36b9804a]: Textual amendment: Words in [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a) substituted (1.4.1996) by [The Council Tax (Additional Provisions for Discount Disregards) Amendment Regulations 1996 (S.I. 1996/637)](https://www.legislation.gov.uk/uksi/1996/637), [regs. 1](https://www.legislation.gov.uk/uksi/1996/637/regulation/1), [2](https://www.legislation.gov.uk/uksi/1996/637/regulation/2)
+
+[^key-00e33531b098e44a9b4afec3040516a4]: Textual amendment: Word in [Sch. para. 3(a)(i)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/i) substituted (E.) (8.4.2013) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (England) Regulations 2013 (S.I. 2013/725)](https://www.legislation.gov.uk/uksi/2013/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/725/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/725/regulation/2/2)
+
+[^key-b700c377e199c395fb3d9614fe547aa9]: Textual amendment: Word in [Sch. para. 3(a)(i)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/i) substituted (W.) (8.4.2013) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2013 (S.I. 2013/639)](https://www.legislation.gov.uk/wsi/2013/639), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/639/regulation/1/1), [2(a)](https://www.legislation.gov.uk/wsi/2013/639/regulation/2/a)
+
+[^f00005]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-7c6fee7ecab5b47ea9f97b5439dc8e7e]: Textual amendment: Words in [Sch. para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/ii) inserted (E.) (8.4.2013) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (England) Regulations 2013 (S.I. 2013/725)](https://www.legislation.gov.uk/uksi/2013/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/725/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/725/regulation/2/3/a)
+
+[^key-e76cf72d67bd885c153243f42b0dd3fa]: Textual amendment: Words in [Sch. para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/ii) inserted (W.) (8.4.2013) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2013 (S.I. 2013/639)](https://www.legislation.gov.uk/wsi/2013/639), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/639/regulation/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2013/639/regulation/2/b)
+
+[^key-297d77109daba0a970982605f9aa56e7]: Textual amendment: Words in [Sch. para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/ii) inserted (E.) (8.4.2013) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (England) Regulations 2013 (S.I. 2013/725)](https://www.legislation.gov.uk/uksi/2013/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/725/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/725/regulation/2/3/b)
+
+[^key-ee6ed4c3b9a78d87b118fab991a7dde4]: Textual amendment: [Sch. para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/iii) substituted (1.4.1994) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) Regulations 1994 (S.I. 1994/540)](https://www.legislation.gov.uk/uksi/1994/540), [regs. 1](https://www.legislation.gov.uk/uksi/1994/540/regulation/1), [2](https://www.legislation.gov.uk/uksi/1994/540/regulation/2)
+
+[^key-c5dd2b790cd3c9fd448683cb4174db35]: Textual amendment: Word in [Sch. para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/iii) omitted (E.) (8.4.2013) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/3/a)
+
+[^key-a1fddad415859ad8a3cd15f7cc6081bd]: Textual amendment: Word in [Sch. para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/iii) omitted (W.) (8.4.2013) by virtue of [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2013 (S.I. 2013/639)](https://www.legislation.gov.uk/wsi/2013/639), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/639/regulation/1/1), [2(c)](https://www.legislation.gov.uk/wsi/2013/639/regulation/2/c)
+
+[^f00006]: Footnote: S.I. [1983/686](https://www.legislation.gov.uk/uksi/1983/686) to which there are amendments not relevant to these Regulations.
+
+[^f00007]: Footnote: S.I. [1983/883](https://www.legislation.gov.uk/uksi/1983/883) to which there are amendments not relevant to these Regulations.
+
+[^key-30334df79698b7e58d6c1c7ac047d338]: Textual amendment: [Sch. para. 3(a)(v)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/v) and word inserted (E.) (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/3/b)
+
+[^key-579acac16df6d76fd3da1cb5c5d016de]: Textual amendment: Word in [Sch. para. 3(a)(iv)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/iv) omitted (W.) (24.5.2013) by virtue of [The Council Tax (Additional Provisions for Discount Disregards) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/1049)](https://www.legislation.gov.uk/wsi/2013/1049), [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1049/article/1/1), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2013/1049/regulation/2/a)
+
+[^key-1b2f942d706930c64def5ac783c4cd5d]: Textual amendment: Word in [Sch. para. 3(a)(iv)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/iv) omitted (E.) (8.4.2013) by virtue of [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/6/2/a)
+
+[^key-46722a254919322f7078417ce32057b1]: Textual amendment: [Sch. para. 3(a)(v)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/v) and word inserted (W.) (8.4.2013) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2013 (S.I. 2013/639)](https://www.legislation.gov.uk/wsi/2013/639), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/639/regulation/1/1), [2(d)](https://www.legislation.gov.uk/wsi/2013/639/regulation/2/d)
+
+[^key-3482d134ce0baabccf403e906b9589b4]: Textual amendment: [Sch. para. 3(a)(vi)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/vi) and word inserted (W.) (24.5.2013) by [The Council Tax (Additional Provisions for Discount Disregards) (Amendment No. 2) (Wales) Regulations 2013 (S.I. 2013/1049)](https://www.legislation.gov.uk/wsi/2013/1049), [art. 1(1)](https://www.legislation.gov.uk/wsi/2013/1049/article/1/1), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2013/1049/regulation/2/b)
+
+[^key-3b696fd041d5d62bfd616ba8535dadb6]: Textual amendment: Words in [Sch. para. 3(a)(vi)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/3/a/vi) and word inserted (E.) (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/6/2/b)
+
+[^key-8b77659e15359adf98dc218ab59c77cc]: Commencement: Sch. para. 4 in force at 31.3.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/552/regulation/1/1)
+
+[^key-2b302b45cbc857a40dfc4f371e37263a]: Textual amendment: [Sch. para. 4(1)(a)](https://www.legislation.gov.uk/uksi/1992/552/schedule/paragraph/4/1/a) substituted for Sch. para. 4(1)(a)(aa) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 42](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/42)

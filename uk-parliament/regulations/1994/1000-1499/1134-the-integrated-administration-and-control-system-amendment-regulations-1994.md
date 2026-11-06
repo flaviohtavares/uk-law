@@ -1,0 +1,157 @@
+---
+title: The Integrated Administration and Control System (Amendment) Regulations 1994
+id: uksi/1994/1134
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-04-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/1134
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/1134/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Integrated Administration and Control System (Amendment) Regulations 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 1134
+
+AGRICULTURE
+
+The Integrated Administration and Control System (Amendment) Regulations 1994
+
+Made
+
+21st April 1994
+
+Laid before Parliament
+
+22nd April 1994
+
+Coming into force
+
+15th May 1994
+
+The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting jointly in exercise of the powers conferred on them by that section, and of all other powers enabling them in that behalf, hereby make the following Regulations:—
+
+## 1. Title, extent and commencement
+
+These Regulations may be cited as the Integrated Administration and Control System (Amendment) Regulations 1994, shall apply throughout the United Kingdom and shall come into force on 15th May 1994.
+
+## 2. Amendments to the Integrated Administration and Control System Regulations 1993
+
+(1) The Integrated Administration and Control System Regulations 1993[^f00003] shall be amended in accordance with the following paragraphs of this regulation.
+
+(2) The definition of “agricultural parcel” in regulation 2(1) shall be replaced by the following:
+
+> - “agricultural parcel” has the same meaning as in Article 1(4) of Council Regulation 3508/92;
+
+.
+
+(3) The following definition shall be inserted after the definition of “Commission Regulation 3887/92” in regulation 2(1):
+
+> - “Commission Regulation 762/94” means Commission Regulation [(EC) No. 762/94](https://www.legislation.gov.uk/european/regulation/1994/0762) laying down detailed rules for the application of Council Regulation 1765/92 with regard to the set-aside scheme[^f00004];
+
+.
+
+(4) In the definition of Council Regulation 805/68 in regulation 2(1), replace “as amended by Council Regulation [(EEC) No. 2066/92](https://www.legislation.gov.uk/european/regulation/1992/2066)[^f00005]” by “as amended by Council Regulations (EEC) Nos. 2066/92 and 125/93[^f00006] and Council Regulation [(EC) No. 3611/93](https://www.legislation.gov.uk/european/regulation/1993/3611)[^f00007]”.
+
+(5) The following definitions shall be inserted after the definition of “Council Regulation 805/68” in regulation 2(1):
+
+> - “Council Regulation 3013/89” means Council Regulation [(EEC) No. 3013/89](https://www.legislation.gov.uk/european/regulation/1989/3013) on the common organisation of the market in sheepmeat and goatmeat[^f00008], as amended by Council Regulation [(EEC) No. 2069/92](https://www.legislation.gov.uk/european/regulation/1992/2069)[^f00009];
+> - “Council Regulation 2328/91” means Council Regulation [(EEC) No. 2328/91](https://www.legislation.gov.uk/european/regulation/1991/2328)[^f00010] on improving the efficiency of agricultural structures, as amended by Council Regulation [(EEC) No. 870/93](https://www.legislation.gov.uk/european/regulation/1993/0870)[^f00011];
+> - “Council Regulation 1765/92” means Council Regulation [(EEC) No. 1765/92](https://www.legislation.gov.uk/european/regulation/1992/1765) establishing a support system for producers of certain arable crops[^f00012], as amended by Council Regulations (EEC) Nos. 364/93[^f00013] and 1552/93[^f00014] and Council Regulations (EC) Nos. 231/94[^f00015] and 232/94[^f00016], as read with Commission Regulation [(EEC) No. 3738/92](https://www.legislation.gov.uk/european/regulation/1992/3738)[^f00017];
+
+.
+
+(6) In the definition of “specified payment” in regulation 2(1), substitute “Council Regulation 1765/92” for “Council Regulation [(EEC) No. 1765/92](https://www.legislation.gov.uk/european/regulation/1992/1765) establishing a support system for producers of arable crops, as read with Commission Regulation 3738/92”, substitute “805/68, the” for “805/68 and the”, and insert at the end “, the premium in respect of sheep under Article 5 of Council Regulation 3013/89 and the compensatory allowance under Article 17 of Council Regulation 2328/91”.
+
+(7) Regulation 4 shall be replaced by the following:
+
+> **4. Minimum size of agricultural parcel**
+>
+> For the purposes of Article 4(7) of Commission Regulation 3887/92, the minimum size of an agricultural parcel in respect of which an application may be made shall be—
+>
+> - (a) where that agricultural parcel consists of land set aside pursuant either to the obligation to set land aside set out in Article 2(5) of Council Regulation 1765/92, or to the option to set land aside set out in Article 7(6) of that Regulation, the size of the minimum area of land permitted to be set-aside under Article 3(1) of Commission Regulation 762/94;
+> - (b) where the agricultural parcel as defined in regulation 2(1) of these Regulations also constitutes an agricultural parcel as defined in regulation 2(1) of the Arable Area Payments Regulations 1994[^f00018], the minimum size parcel for which an arable compensatory payment (as defined in regulation 2(1) of those Regulations) may be made in respect of that parcel in conformity with regulation 5 of those Regulations;
+> - (c) where the agricultural parcel is sown with linseed and is used for seed production or research, 0.01 hectare; and
+> - (d) in all other cases, 0.1 hectare.
+
+.
+
+(8) The following regulation shall be inserted after regulation 4:
+
+> **4A. Reimbursement of specified payments**
+>
+> In any case where a farmer is obliged to reimburse all or part of any specified payment in accordance with Article 14(1) of Commission Regulation 3887/92, the amount so falling to be reimbursed shall be recoverable as a debt.
+
+.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on
+
+Gillian Shephard
+
+Minister of Agriculture, Fisheries and Food
+
+21st April 1994.
+
+Hector Monro
+
+Parliamentary Under Secretary of State, Scottish Office
+
+(This note is not part of the Regulations)
+
+These Regulations (“the Regulations”) amend the Integrated Administration and Control System Regulations 1993 (“the 1993 Regulations”), which make provision for the implementation in part of Council Regulation 3508/92 and Commission Regulation 3887/92 (as defined in Regulation 2(1) of the 1993 Regulations), by making further provision for the implementation of the Community Instruments referred to above.
+
+The Regulations—
+
+- (a) amend the definition of “specified payment” in regulation 2(1) of the 1993 Regulations, so that a “specified payment” now includes a payment of sheep annual premium and of the compensatory allowance payable for certain hill livestock;
+- (b) amend the definition of Council Regulation 1765/92 in the same regulation to include amendments made to that Regulation since the 1993 Regulations were made;
+- (c) insert into the same regulation a definition of Commission Regulation 762/94 and amend the drafting of “agricultural parcel” in the same regulation, and of regulation 4, to conform with the drafting of the Arable Area Payments Regulations 1994 and to bring up to date the references to Community Instruments; and
+- (d) insert regulation 4A to define any sum falling to be reimbursed under Article 14(1) of Commission Regulation 3887/92 as a debt.
+
+A compliance cost assessment has been prepared and has been deposited in the Libraries of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [S.I. 1993/1317](https://www.legislation.gov.uk/uksi/1993/1317).
+
+[^f00004]: Footnote: OJ No. L90, 7.4.94, p. 8.
+
+[^f00005]: Footnote: OJ No. L215, 30.7.92, p. 49.
+
+[^f00006]: Footnote: OJ No. L18, 27.1.93, p. 1.
+
+[^f00007]: Footnote: OJ No. L328, 29.12.93, p. 7.
+
+[^f00008]: Footnote: OJ No. L289, 7.10.89, p. 1.
+
+[^f00009]: Footnote: OJ No. L215, 30.7.92, p. 59.
+
+[^f00010]: Footnote: OJ No. L218, 6.8.91, p. 1.
+
+[^f00011]: Footnote: OJ No. L91, 15.4.93, p. 10.
+
+[^f00012]: Footnote: OJ No. L181, 1.7.92, p. 12.
+
+[^f00013]: Footnote: OJ No. L42, 19.2.93, p. 3.
+
+[^f00014]: Footnote: OJ No. L154, 25.6.93, p. 19.
+
+[^f00015]: Footnote: OJ No. L30, 3.2.94, p. 2.
+
+[^f00016]: Footnote: OJ No. L30, 3.2.94, p. 7.
+
+[^f00017]: Footnote: OJ No. L380, 24.12.92, p. 24.
+
+[^f00018]: Footnote: [S.I. 1994/947](https://www.legislation.gov.uk/uksi/1994/947).

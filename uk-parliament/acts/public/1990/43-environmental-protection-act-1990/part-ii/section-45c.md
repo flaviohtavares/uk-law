@@ -1,0 +1,61 @@
+---
+title: Environmental Protection Act 1990, section 45C
+act: Environmental Protection Act 1990
+section: 45C
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1990/43/section/45C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environmental Protection Act 1990, section 45C
+
+> **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 45C. Separate collection of dry recyclable waste and food waste: Scotland[^key-21c5861341a989f3414d575309341aa1]
+
+*Extent: S*
+
+(1) This section applies to a waste collection authority whose area is in Scotland (an “authority”) when the authority is making an arrangement in accordance with section 45(1)(a).
+
+(2) An authority must, from 1st January 2014, arrange for there to be provided to the occupier of every domestic property in its area such receptacles as will enable the separate collection of dry recyclable waste from the property.
+
+(3) An authority need not arrange for a receptacle to be provided under subsection (2) if—
+
+- (a) the property is in a rural area, and the authority considers that the separate collection of dry recyclable waste from the property would not be environmentally or economically practicable; or
+- (b) the authority considers that dry recyclable waste if not presented in a receptacle will be deposited at a bring site.
+
+(4)[^key-8470d3f96562d9e01e30211d7a64f437] An authority need not comply with subsection (2) to the extent that—
+
+- (a) it considers that—
+  - (i) such non-compliance will not affect the potential of the waste to undergo preparing for re-use, recycling or other recovery operations, and
+  - (ii) the resulting output will be of comparable quantity and quality to that achieved if subsection (2) were complied with, and
+- (b) it is satisfied that dry recyclable waste will not be mixed with other waste that cannot be recycled.
+
+(5) An authority must, from 1st January 2016, arrange for there to be provided to the occupier of every domestic property in its area (apart from a property in a rural area)—
+
+- (a) a receptacle which enables the separate collection of food waste from the property; or
+- (b) where an authority is satisfied that the amount of food waste that will be collected is not significantly less than would be collected in a receptacle provided under paragraph (a), a receptacle which enables the occupier to present food waste and other biodegradable waste for collection.
+
+(6) An authority must, from 1st January 2014, take such steps as the authority considers reasonable to—
+
+- (a) promote separate collection (including the making of arrangements for the provision of a food waste receptacle); and
+- (b) promote recycling in any other manner.
+
+(7) In this section—
+
+- “bring site” means any site (supervised or otherwise) where—
+  - (a) an occupier of domestic property can deposit dry recyclable waste produced on that property in receptacles for one or more dry waste streams; and
+  - (b) waste so deposited is collected and transported separately by an authorised person (for which see section 34(3));
+- “receptacle” has the same meaning as in section 46(10); and
+- “rural area” has the same meaning as in section 34(4B).
+
+## Annotations
+
+[^key-21c5861341a989f3414d575309341aa1]: Textual amendment: S. 45C inserted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/5)
+
+[^key-8470d3f96562d9e01e30211d7a64f437]: Textual amendment: [S. 45C(4)](https://www.legislation.gov.uk/ukpga/1990/43/section/45C/4) substituted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/314/regulation/2/4)

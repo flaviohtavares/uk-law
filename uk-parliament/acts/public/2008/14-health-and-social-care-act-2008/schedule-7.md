@@ -1,0 +1,135 @@
+---
+title: Health and Social Care Act 2008, SCHEDULE 7
+act: Health and Social Care Act 2008
+section: schedule-7
+status: not-yet-in-force
+text_date: '2023-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/14/schedule/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Health and Social Care Act 2008, SCHEDULE 7
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 7 — Adjudication functions under Medical Act 1983 and Opticians Act 1989
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+Section 99
+
+### ... — ...[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2]
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### ... — ...[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2]
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**....**[^key-725680b3f60a8fb9f52f87954cf8bab2][^key-725680b3f60a8fb9f52f87954cf8bab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-725680b3f60a8fb9f52f87954cf8bab2]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/7) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 231(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/231/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [Sch. 15 para. 76](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/76)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

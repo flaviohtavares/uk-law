@@ -1,0 +1,249 @@
+---
+title: The Industrial Training Levy (Engineering Board) Order 1987
+id: uksi/1987/607
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-03-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/607
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/607/pdfs/uksi_19870607_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/607/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Industrial Training Levy (Engineering Board) Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 607
+
+INDUSTRIAL TRAINING
+
+The Industrial Training Levy (Engineering Board) Order 1987
+
+Made
+
+30th March 1987
+
+Coming into force on the fourteenth day after the day on which it is made.
+
+Whereas proposals made by the Engineering Industry Training Board for the raising and collection of a levy have been submitted to, and approved by, the Manpower Services Commission under section 11(1) of the Industrial Training Act 1982[^f00001] (“the 1982 Act”) and thereafter submitted by the said Commission to the Secretary of State under that subsection;
+
+And whereas in pursuance of section 11(3) of the 1982 Act the said proposals include provision for the exemption from the levy of employers who, in view of the small number of their employees, ought in the opinion of the Secretary of State to be exempted from it;
+
+And whereas the Secretary of State is satisfied that proposals made in pursuance of section 11(4)(a) of the 1982 Act and falling within section 11(5)(a) of the said Act (“the relevant proposals”) are necessary as mentioned in the said section 11(5), and that the condition mentioned in section 11(6)(a) of the 1982 Act is satisfied in the case of the relevant proposals;
+
+And whereas the Secretary of State considers that the amount which, disregarding any exemption, will be payable by virtue of the following Order by certain employers in the engineering industry and which he estimates will exceed an amount which he estimates as equal to one per cent. of relevant emoluments, is appropriate in all the circumstances, and the following Order therefore falls within section 11(7)(b) of the Act;
+
+And whereas a draft of the following Order was laid before Parliament in accordance with section 12(6) of the 1982 Act and approved by resolution of each House of Parliament;
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred by sections 11(2), 12(3) and 12(4) of the 1982 Act and of all other powers enabling him in that behalf, hereby makes the following Order:—
+
+## 1. Citation and commencement
+
+This Order may be cited as the Industrial Training Levy (Engineering Board) Order 1987 and shall come into force on the fourteenth day after the day on which it is made.
+
+## 2. Interpretation
+
+(1) In this Order unless the context otherwise requires:—
+
+- (a) “agriculture” has the same meaning as in section 109(3) of the Agriculture Act 1947[^f00002] or, in relation to Scotland, as in section 86(3) of the Agriculture (Scotland) Act 1948[^f00003];
+- (b) “assessment” means an assessment of an employer to the levy;
+- (c) “the Board” means the Engineering Industry Training Board;
+- (d) “business” means any activities of industry or commerce;
+- (e) “charity” has the same meaning as in section 360 of the Income and Corporation Taxes Act 1970[^f00004];
+- (f) “the twenty-third base period” means the period of twelve months that commenced on 6th April 1986;
+- (g) “the twenty-third levy period” means the period commencing with the day upon which this Order comes into force and ending on 31st August 1987;
+- (h) “emoluments” means all emoluments assessable to income tax under Schedule E of the Income and Corporation Taxes Act 1970, (other than pensions), being emoluments from which tax under that Schedule is deductible, whether or not tax in fact falls to be deducted from any particular payment thereof and any emoluments or payments intended to be disbursed as emoluments payable under any agreement (whether or not a contract of service) for the preparation of engineering drawings in connection with engineering construction activities;
+- (i) “employer” (except in Article 2(2) of this Order) means a person who is an employer in the engineering industry at any time in the twenty-third levy period;
+- (j) “engineering establishment” means an establishment in Great Britain engaged in the twenty-third base period wholly or mainly in the engineering industry for a total of twenty-seven or more weeks or, being an establishment that commenced to carry on business in the twenty-third base period, for a total number of weeks exceeding one half of the number of weeks in the part of the said period commencing with the day on which business was commenced and ending on the last day thereof;
+- (k) “the engineering industry” does not include any activities of an establishment which have been transferred from the industry of the Board to the industry of another industrial training board by one of the transfer orders but save as aforesaid means any one or more of the activities which, subject to the provisions of paragraph 2 of Schedule 1 to the industrial training order, are specified in paragraph 1 of that Schedule as activities of the engineering industry or, in relation to an establishment whose activities have been transferred to the industry of the Board by one of the transfer orders, any activities so transferred;
+- (l) “engineering construction activities” means any one or more of the activities which, subject to the provisions of paragraph 2 of Schedule 1 to the industrial training order, are activities of the engineering industry by virtue of paragraph 1(j) of that Schedule and any related or administrative activities of a kind to which paragraph 1(m) of that Schedule applies undertaken in relation thereto;
+- (m) “exemption certificate” means a certificate issued by the Board under section 14 of the Industrial Training Act 1982;
+- (n) “the industrial training order” means the Industrial Training (Engineering Board) Order 1964[^f00005];
+- (o) “the levy” means the levy imposed by the Board in respect of the twenty-third levy period;
+- (p) “notice” means a notice in writing;
+- (q) “site employee” means an employee the activities of whose employment take place wholly or mainly at a site where activities falling under paragraph 1(j) of Schedule 1 to the industrial training order are carried on;
+- (r) “the transfer orders” means—
+  - (i) the Industrial Training (Transfer of the Activities of Establishments) Order 1974[^f00006];
+  - (ii) the Industrial Training (Transfer of the Activities of Establishments) (No. 2) Order 1974[^f00007];
+  - (iii) the Industrial Training (Transfer of the Activities of Establishments) Order 1975[^f00008];
+  - (iv) the Industrial Training (Transfer of the Activities of Establishments) (No. 2) Order 1975[^f00009];
+  - (v) the Industrial Training (Transfer of the Activities of Establishments) Order 1976[^f00010];
+  - (vi) the Industrial Training (Transfer of the Activities of Establishments) (No. 2) Order 1976[^f00011];
+  - (vii) the Industrial Training (Transfer of the Activities of Establishments) Order 1977[^f00012];
+  - (viii) the Industrial Training (Transfer of the Activities of Establishments) Order 1978[^f00013];
+  - (ix) the Industrial Training (Transfer of the Activities of Establishments) (No. 2) Order 1978[^f00014];
+  - (x) the Industrial Training (Transfer of the Activities of Establishments) (No. 3) Order 1978[^f00015];
+  - (xi) the Industrial Training (Transfer of the Activities of Establishments) Order 1979[^f00016];
+  - (xii) the Industrial Training (Transfer of the Activities of Establishments) Order 1980[^f00017];
+  - (xiii) the Industrial Training (Transfer of the Activities of Establishments) (No. 2) Order 1980[^f00018]; and
+  - (xiv) the Industrial Training (Transfer of the Activities of Establishments) Order 1981[^f00019].
+
+(2) In reckoning the amount of emoluments for the purpose of this Order no regard shall be had to the emoluments of any person—
+
+- (a) undergoing a course of training as a seagoing officer or rating under an agreement in writing with an employer in the shipping industry, or with any organisation of employers in that industry or with any association of such organisations;
+- (b) employed by London Regional Transport or its subsidiaries wholly in activities specified in paragraph 1(m) of Schedule 1 to the industrial training order, not being design or drawing or the training of employees or apprentices;
+- (c) engaged wholly in agriculture; or
+- (d) engaged wholly in the supply of food or drink for immediate consumption.
+
+(3) Any reference in this Order to an establishment that commences to carry on business or that ceases to carry on business shall not be taken to apply where the location of the establishment is changed but its business is continued wholly or mainly at or from the new location, or where the suspension of activities is of a temporary or seasonal nature.
+
+(4) In this Order an establishment shall be taken to be wholly or mainly engaged in engineering construction activities if it is so engaged during the twenty-third base period for a total of twenty-seven or more weeks, or, being an establishment that commenced to carry on business in the twenty-third base period, for a total number of weeks exceeding one half of the number of weeks in the part of the said period commencing with the day on which business was commenced and ending on the last day thereof.
+
+(5) In this Order employees shall be taken to be wholly or mainly engaged in or in connection with engineering construction activities during any week in the twenty-third base period in which they are so engaged if but only if they are so engaged for more than half the total number of weeks in which they are employed by the employer during the twenty-third base period.
+
+## 3. Imposition of the levy
+
+(1) Subject to the provisions of Article 11 of this Order, the levy to be imposed by the Board on employers in respect of the twenty-third levy period shall be assessed in accordance with the provisions of this Article.
+
+(2) The levy shall be assessed by the Board separately in respect of each relevant establishment (that is to say, each engineering establishment other than an establishment of an employer who is exempt by virtue of the provisions of Article 4 or Article 5 of this Order, or, subject to the provisions of Article 6, one which is an establishment in respect of which an exemption certificate has been issued to the employer) but in agreement with the employer one assessment may be made in respect of any number of establishments, in which case such establishments shall be deemed for the purposes of that assessment to constitute one establishment.
+
+(3) The levy assessed in respect of an establishment which is not wholly or mainly engaged in engineering construction activities shall be an amount equal to 1 per cent. of the sum of the emoluments of all persons employed in the twenty-third base period at or from the establishment by the employer.
+
+(4) The levy assessed in respect of an establishment wholly or mainly engaged in engineering construction activities shall be the aggregate of—
+
+- (a) an amount equal to 1.12 per cent. of the sum of the emoluments of all site employees employed in the twenty-third base period at or from the establishment by the employer in so far as that sum exceeds £50,000; and
+- (b) an amount equal to 1 per cent. of the sum of the emoluments of all employees other than site employees employed in the twenty-third base period at or from the establishment by the employer.
+
+## 4. Exemption of charities
+
+A charity shall be exempted from the levy.
+
+## 5. Exemption of small employers
+
+(1) An employer shall be exempted from the levy in respect of any establishment of his which is not wholly or mainly engaged in engineering construction activities where the number of all the persons employed by him at or from the establishment on 2nd April 1987 does not exceed 40.
+
+(2) An employer shall be exempted from the levy in respect of any establishment of his which is wholly or mainly engaged in engineering construction activities in respect of any portion of the levy attributable to the emoluments of any employees of his, other than site employees, who were wholly or mainly engaged in engineering construction activities where the total number of such employees employed by him at or from any engineering establishment or establishments of his in the twenty-third base period does not exceed 30.
+
+## 6. Disapplication of exemption certificate
+
+(1) An exemption certificate issued by the Board shall not exempt any employer from—
+
+- (a) any portion of the levy which is to be assessed under Article 3(4)(a) above or
+- (b) that portion of the levy which is equal to 0.15 per cent. of the sum of the emoluments upon which the levy is to be assessed under Article 3(4)(b) above.
+
+(2) An exemption certificate issued by the Board shall not exempt any employer, in respect of an establishment where the number of relevant employees does not exceed 1,000, from that portion of the levy which is equal to 0.08 per cent. of the sum of the emoluments upon which the levy is to be assessed under Article 3(3) above.
+
+(3) An exemption certificate issued by the Board shall not exempt any employer, in respect of an establishment where the number of relevant employees does exceed 1,000, from—
+
+- (a) that portion of the levy which is equal to 0.072 per cent. of the sum obtained by multiplying the average emoluments of an employee by the number by which the number of relevant employees exceeds 1,000 or
+- (b) that portion of the levy which is equal to 0.08 per cent. of the sum obtained by multiplying the average emoluments of an employee by 1,000.
+
+(4) For the purposes of this Article “relevant employees” means employees employed by the employer in the twenty-third base period at or from the establishment by the employer and “the average emoluments of an employee” means the sum obtained by dividing the total emoluments upon which the levy is to be assessed under Article 3(3) above in respect of the establishment by the total number of relevant employees.
+
+## 7. Assessment notices
+
+(1) The Board shall serve an assessment notice on every employer assessed to the levy, but one notice may comprise two or more assessments.
+
+(2) The amount of any assessment payable under an assessment notice shall be rounded down to the nearest £1.
+
+(3) An assessment notice shall state the Board’s address for the service of a notice of appeal or of an application for an extension of time for appealing.
+
+(4) An assessment notice may be served on the person assessed to the levy either by delivering it to him personally or by leaving it, or sending it to him by post, at his last known address or place of business in the United Kingdom, or if that person is a corporation, by leaving it, or sending it by post to the corporation, at such address or place of business or at its registered or principal office.
+
+## 8. Payment of the levy
+
+(1) Subject to the following provisions of this Order, the amount of each assessment appearing in an assessment notice served by the Board (the date of which shall not be earlier than 31st August 1987) shall be due and payable by the employer to the Board one month after the date of the notice.
+
+(2) The amount of an assessment shall not be recoverable by the Board until there has expired the time allowed for appealing against the assessment by Article 10(1) of this Order and any further period or periods of time that the Board or an industrial tribunal may have allowed for appealing under paragraph (2) or (3) of that Article or where an appeal is brought, until the appeal is decided or withdrawn.
+
+## 9. Withdrawal of assessment
+
+(1) The Board may, by a notice served on the person assessed to the levy in the same manner as an assessment notice, withdraw an assessment if that person has appealed against that assessment under the provisions of Article 10 of this Order and the appeal has not been entered in the Register of Appeals kept under the appropriate Regulations specified in paragraph (4) of that Article.
+
+(2) The withdrawal of an assessment shall be without prejudice to the power of the Board to serve a further assessment notice in respect of any establishment to which that assessment relates.
+
+## 10. Appeals
+
+(1) A person assessed to the levy may appeal to an industrial tribunal against the assessment within one month from the date of the service of the assessment notice or within any further period or periods of time that may be allowed by the Board or an industrial tribunal under the following provisions of this Article.
+
+(2) The Board by notice may for good cause allow a person assessed to the levy to appeal to an industrial tribunal against the assessment at any time within the period of four months from the date of the service of the assessment notice or within such further period or periods as the Board may allow before such time as may then be limited for appealing has expired.
+
+(3) If the Board shall not allow an application for extension of time for appealing, an industrial tribunal shall upon application made to the tribunal by the person assessed to the levy have the like powers as the Board under the last foregoing paragraph.
+
+(4) An appeal or an application to an industrial tribunal under this Article shall be made in accordance with the Industrial Tribunals (England and Wales) Regulations 1965[^f00020] except where the establishment to which the relevant assessment relates is wholly in Scotland in which case the appeal or application shall be made in accordance with the Industrial Tribunals (Scotland) Regulations 1965[^f00021].
+
+(5) The powers of an industrial tribunal under paragraph (3) of this Article may be exercised by the President of the Industrial Tribunals (England and Wales) or by the President of the Industrial Tribunals (Scotland) as the case may be.
+
+## 11. Cessation of business
+
+(1) The provisions of this Article shall apply in relation to an establishment that ceases to carry on business in the twenty-third levy period on or before 30th August 1987.
+
+(2) The amount of the levy imposed in respect of the establishment shall be in the same proportion to the amount that would otherwise be due under the provisions of Article 3 of this Order as the number of days between the commencement of the twenty-third levy period and the date of cessation of business (both dates inclusive) bears to the number of days in the said levy period.
+
+(3) Article 8(1) of this Order shall have effect as if the words in parenthesis were omitted.
+
+## 12. Evidence
+
+(1) Upon the discharge by a person assessed to the levy of his liability under an assessment the Board shall if so requested issue to him a certificate to that effect.
+
+(2) The production in any proceedings of a document purporting to be certified by the Secretary of the Board or any other person, being a member, officer or servant of the Board authorised to act in that behalf, to be a true copy of an assessment or other notice issued by the Board or purporting to be a certificate such as is mentioned in the foregoing paragraph of this Article shall, unless the contrary is proved, be sufficient evidence of the document and of the facts stated therein.
+
+Signed by order of the Secretary of State
+
+David Trippier
+
+Parliamentary Under Secretary of State
+
+Department of Employment
+
+30th March 1987
+
+(This note is not part of the Order)
+
+This Order gives effect to proposals of the Engineering Industry Training Board which were submitted to and approved by the Manpower Services Commission and thereafter submitted by the Manpower Services Commission to the Secretary of State. The proposals are for the imposition of a levy on employers in the engineering industry for the purpose of raising money towards meeting the expenses of the Board.
+
+The levy is to be imposed in respect of the twenty-third levy period commencing on the day upon which this Order comes into force and ending on 31st August 1987.
+
+The levy will be assessed by the Board and there will be a right of appeal against an assessment to an industrial tribunal.
+
+## Annotations
+
+[^f00001]: Footnote: [1982 c. 10](https://www.legislation.gov.uk/ukpga/1982/10).
+
+[^f00002]: Footnote: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
+
+[^f00003]: Footnote: [1948 c. 45](https://www.legislation.gov.uk/ukpga/1948/45).
+
+[^f00004]: Footnote: [1970 c. 10](https://www.legislation.gov.uk/ukpga/1970/10).
+
+[^f00005]: Footnote: [S.I. 1964/1086](https://www.legislation.gov.uk/uksi/1964/1086), amended by [S.I. 1980/1273](https://www.legislation.gov.uk/uksi/1980/1273).
+
+[^f00006]: Footnote: [S.I. 1974/1154](https://www.legislation.gov.uk/uksi/1974/1154).
+
+[^f00007]: Footnote: [S.I. 1974/1495](https://www.legislation.gov.uk/uksi/1974/1495).
+
+[^f00008]: Footnote: [S.I. 1975/434](https://www.legislation.gov.uk/uksi/1975/434).
+
+[^f00009]: Footnote: [S.I. 1975/1157](https://www.legislation.gov.uk/uksi/1975/1157).
+
+[^f00010]: Footnote: [S.I. 1976/396](https://www.legislation.gov.uk/uksi/1976/396).
+
+[^f00011]: Footnote: [S.I. 1976/1635](https://www.legislation.gov.uk/uksi/1976/1635).
+
+[^f00012]: Footnote: [S.I. 1977/1951](https://www.legislation.gov.uk/uksi/1977/1951).
+
+[^f00013]: Footnote: [S.I. 1978/448](https://www.legislation.gov.uk/uksi/1978/448).
+
+[^f00014]: Footnote: [S.I. 1978/1225](https://www.legislation.gov.uk/uksi/1978/1225).
+
+[^f00015]: Footnote: [S.I. 1978/1643](https://www.legislation.gov.uk/uksi/1978/1643).
+
+[^f00016]: Footnote: [S.I. 1979/793](https://www.legislation.gov.uk/uksi/1979/793).
+
+[^f00017]: Footnote: [S.I. 1980/586](https://www.legislation.gov.uk/uksi/1980/586).
+
+[^f00018]: Footnote: [S.I. 1980/1753](https://www.legislation.gov.uk/uksi/1980/1753).
+
+[^f00019]: Footnote: [S.I. 1981/1041](https://www.legislation.gov.uk/uksi/1981/1041).
+
+[^f00020]: Footnote: [S.I. 1965/1101](https://www.legislation.gov.uk/uksi/1965/1101), amended by [S.I. 1967/301](https://www.legislation.gov.uk/uksi/1967/301).
+
+[^f00021]: Footnote: [S.I. 1965/1157](https://www.legislation.gov.uk/uksi/1965/1157), amended by [S.I. 1967/302](https://www.legislation.gov.uk/uksi/1967/302).

@@ -1,0 +1,265 @@
+---
+title: The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019
+id: uksi/2019/74
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-01-16'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/74
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/74/pdfs/uksiem_20190074_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/74/pdfs/uksi_20190074_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/74/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 74
+
+Exiting The European Union
+
+Environmental Protection
+
+The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019
+
+Sift requirements satisfied
+
+10th December 2018
+
+Made
+
+16th January 2019
+
+Laid before Parliament
+
+21st January 2019
+
+Coming into force in accordance with regulation 2
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c23520851] and section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23520861].
+
+The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to the environment [^c23520871].
+
+## PART 1 — Introductory
+
+### 1. Citation[^key-32d4ee3f62d4c9507ef9afe82e6e3053]
+
+These Regulations may be cited as the Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019.
+
+### 2. Commencement and extent[^key-b99d3138d9c204eeefbd555cd75344e4]
+
+These Regulations come into force—
+
+- (a) for the purposes of regulations 1, 2, and 3, 21 days after the day on which the Regulations are laid, and
+- (b) for all other purposes, on exit day.
+
+(2) Any provision of these Regulations amending a provision in an enactment has the same extent as the provision being amended.
+
+## PART 2 — Amendment of secondary legislation under the European Communities Act 1972
+
+### 3. Amendment of the Air Quality Standards Regulations 2010[^key-5a29f812f2261b6cbf68749c925d8763]
+
+(1) The Air Quality Standards Regulations 2010 [^c23520891] are amended as follows.
+
+(2) After regulation 17(2) insert—
+
+> (3) Where, in accordance with Article 20 of Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50), the Commission has been informed that a limit value has been exceeded for a reason attributable to natural sources, that limit value will not be considered to be exceeded for the purposes of these Regulations.
+
+.
+
+(3) After regulation 26(1), insert—
+
+> (1A) Where, in accordance with Article 21 of Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50), the Secretary of State has designated zones within which limit values for PM<sub>10</sub> are exceeded due to the re-suspension of particulates following winter sanding or salting of roads, the Secretary of State's duty under paragraph (1) applies to those zones only in so far as the excess is attributable to other sources of PM<sub>10</sub>.
+
+.
+
+## PART 3 — Amendment of secondary legislation under the European Union (Withdrawal) Act 2018
+
+### 4. Amendment of the Air Quality Standards Regulations 2010[^key-41b7bbb8d3a6193c8dcfa0e3aaf46f56]
+
+(1) The Air Quality Standards Regulations 2010 are amended as follows.
+
+(2) After regulation 2 insert the following—
+
+> **2A. Interpretation**
+>
+> (1) When interpreting Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50) for the purposes of these Regulations—
+>
+> - (a) Article 3(f) is to be read as if for “other Member States” there were substituted “ member States ”;
+> - (b) in Annex 1—
+>   - (i) in section A, footnote (1) is to be read as if—
+>     - (aa) for “Member States” there were substituted “ the Secretary of State ”;
+>     - (bb) for “they” there were substituted “ the Secretary of State ”;
+>     - (cc) the words “to the Commission” were omitted;
+>   - (ii) section C is to be read as if—
+>     - (aa) at each place it occurs, a reference to “harmonised” there were substituted a reference to “designated”;
+>     - (bb) in paragraph 1, for “appropriate competent authorities and bodies designated pursuant to Article 3” there were substituted “ the Secretary of State ”;
+>     - (cc) in point (i), the words “pursuant to Articles 6 and 9” were omitted;
+>     - (dd) in point (iii), the words from “and that institutions” to the end of that point were omitted;
+>     - (ee) in point (iv), in the first sentence, the words from “by the appropriate” to “Article 3” were omitted;
+>     - (ff) in point (iv), in the first sentence, the words from “the reference to” to “the European Union” were omitted;
+>     - (gg) in point (iv), the second sentence, the words from “for the coordination” to “be responsible” were omitted;
+>     - (hh) points (v) and (vi) were omitted;
+>     - (ii) in paragraph 2 for “All reported data under Article 27” there were substituted “ all data ”;
+> - (c) in Annex 2, in section B, the second paragraph is to be read as if for “Member States” there were substituted “ the Secretary of State ”;
+> - (d) in Annex 3, in section A, paragraph 2(b) is to be read as if the words “In accordance with Article 2(1)” were omitted;
+> - (e) in Annex 5, in section A, footnotes (1) and (2) are to be read as if for “Member State”, in each place where the words occur, there were substituted “ the United Kingdom ”;
+> - (f) in Annex 6, section B is to be read as if—
+>   - (i) in point 1—
+>     - (aa) for “A Member State” there were substituted “ the Secretary of State ”;
+>     - (bb) for “it” there were substituted “ the Secretary of State ”;
+>     - (cc) for “the Member State concerned” there were substituted “ the Secretary of State ”;
+>   - (ii) points 2, 3 and 4 were omitted;
+> - (g) in Annex 8, in section A, the paragraph after the table is to be read as if after the words “in the Community” there were inserted “ in so far as it forms part of retained EU law ”.
+>
+> (2) When interpreting Directive [2004/107/EC](https://www.legislation.gov.uk/eudr/2004/107) for the purposes of these Regulations—
+>
+> - (a) in Annex 2, in section 2 (determination of exceedances of upper and lower assessment thresholds), the second paragraph is to be read as if for “Member States” there were substituted “ the Secretary of State ”;
+> - (b) in Annex 3, in section 4, point (b) is to be read as if the words “as defined by Article 2(11) of Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61)” were omitted;
+> - (b) in Annex 4—
+>   - (i) in section I (data quality objectives), the fifth and sixth paragraphs are to be read as if—
+>     - (aa) for “Member State”, in each place where the words occur, there were substituted “ the Secretary of State ”;
+>     - (bb) for “they”, in each place where the words occur, there were substituted “ the Secretary of State ”;
+> - (c) Annex 5 is to be read as if—
+>   - (i) in section 1 (reference method for the sampling and analysis of arsenic, cadmium and nickel in ambient air), in the second paragraph, for “A Member State” there were substituted “ The Secretary of State ”;
+>   - (ii) in section 2 (reference method for the sampling and analysis of polycyclic aromatic hydrocarbons in ambient air)—
+>     - (aa) in the first paragraph, for “Member States are allowed to” there were substituted “ the Secretary of State may ”;
+>     - (bb) in the second paragraph, for “A Member State” there were substituted “ The Secretary of State ”;
+>   - (iii) in section 3 (reference method for the sampling and analysis of mercury in ambient air), in the second paragraph, for “A Member State” there were substituted “ The Secretary of State ”;
+>   - (iv) section 5 were omitted.
+
+.
+
+(3) For regulation 17(3) substitute—
+
+> (3) Where the Secretary of State considers that a limit value has been exceeded for a reason attributable to natural sources, that limit value will not be considered to be exceeded for the purposes of these Regulations.
+>
+> (4) Where the Secretary of State considers that a limit value has been exceeded for a reason attributable to natural sources in accordance with paragraph (3), the Secretary of State must publish information, for the relevant zones and agglomerations, demonstrating that the exceedances are attributable to natural sources.
+
+.
+
+(4) In regulation 18(4), for “Directive [2008/1/EC](https://www.legislation.gov.uk/eudr/2008/1) of the European Parliament and of the Council concerning integrated pollution prevention and control” substitute “ the Environmental Permitting (England and Wales) Regulations 2016 [^c23520901] ”.
+
+(5) In regulation 26—
+
+- (a) in paragraph (1A), omit “, in accordance with Article 21 of Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50),”.
+- (b) in paragraph (5), for the words from “other plans drawn” to the end substitute “ relevant environmental plans ”.
+- (c) after paragraph (7), insert—
+
+  > (8) In paragraph (5) “**relevant environmental plans**” means—
+  >
+  > - (a) the Transitional National Plan, which has the meaning given in regulation 2(1) of the Large Combustion Plants (Transitional National Plan) Regulations 2015 [^c23520911];
+  > - (b) a national air pollution control programme drawn up in accordance with regulation 9 of the National Emission Ceilings Regulations 2018 [^c23520921];
+  > - (c) an action plan drawn up in accordance with Part 4 of the Environmental Noise (England) Regulations 2006 [^c23520931].
+
+  .
+
+(6) In regulation 29(3) —
+
+- (a) after “comprehensible manner” insert “ , including the applicable methodology in relation to that information where appropriate, ”;
+- (b) after “the European Community” insert “ in so far as it has been transposed into the law that applies in England ”.
+
+(7) In regulation 31(1), for the words from “of the United” to “the member States” substitute “ under these Regulations or under Commission Decision [2011/850/EC](https://www.legislation.gov.uk/eud/2011/850) as regards the reciprocal exchange of information and reporting on ambient air quality ”.
+
+(8) In regulation 32—
+
+- (a) in paragraph (1)—
+  - (i) after “within any part of” insert “ the United Kingdom or ”;
+  - (ii) for “any other member State” substitute “ any other part of those territories ”;
+- (b) in paragraph (3)—
+  - (i) in sub-paragraph (c), for “another” substitute “ a ”;
+  - (ii) after “consult the relevant” insert “ administration and may consult the relevant ”;
+- (c) in paragraph (4), for “another” substitute “ a ”;
+- (d) in paragraph (5)—
+  - (i) in sub-paragraph (b), for “any relevant neighbouring member State.” substitute “ any other relevant administration; ”;
+  - (ii) after sub-paragraph (b) insert—
+
+    > - (c) the Secretary of State may provide information provided under this paragraph to any member State as is considered appropriate.
+
+    .
+
+### 5. Amendment of the Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012[^key-6514136ec99eae543435062f8c01a1c2][^key-6c6234f1e65cd092e923768b84d81c70]
+
+For regulation 3(2) of the Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012, substitute—
+
+> (2) These Regulations apply to relevant products that—
+>
+> - (a) are to be used in any part of the United Kingdom, and
+> - (b) in Northern Ireland are to be used in a country or territory in the customs territory of the European Union.
+
+.
+
+### 6. Amendment of the National Emission Ceilings Regulations 2018[^key-507ecb856a82c8308054b54ee1efb384]
+
+After regulation 2(3) of the National Emission Ceilings Regulations 2018 [^c23520951] insert—
+
+> (4) When interpreting the Directive for the purposes of these Regulations—
+>
+> - (a) in Annex 3, Part 2 is to be read as if for “Member States”, in each place where the words occur, there were substituted “ the Secretary of State ”;
+> - (b) in Annex 4, Part 1 is to be read as if—
+>   - (i) for “Member States”, in each place where the words occur, there were substituted “ the Secretary of State ”;
+>   - (ii) “in the Member State concerned” and “in the Member State” were omitted.
+
+.
+
+Thérèse Coffey
+
+Parliamentary Under Secretary of State
+
+Department of Environment Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 2(2) of the European Communities Act 1972 (c. 68) and section 8 of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 (c. 16).
+
+These Regulations make amendments to environmental legislation, and in particular amend subordinate legislation in the field of air quality. Part 2 amends the Air Quality Standards Regulations 2010 to transpose provisions of the EU Ambient Air Quality Directive ([2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050)) concerning the contribution made by natural sources and winter sanding or salting of roads. Part 3 amends subordinate legislation in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen. An Explanatory Memorandum is available alongside the instrument on the UK legislation website, www.legislation.gov.uk.
+
+## Annotations
+
+[^c23520851]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c23520861]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23520871]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^key-32d4ee3f62d4c9507ef9afe82e6e3053]: Commencement: Reg. 1 in force at 11.2.2019, see reg. 2(a)
+
+[^key-b99d3138d9c204eeefbd555cd75344e4]: Commencement: Reg. 2 in force at 11.2.2019, see reg. 2(a)
+
+[^key-5a29f812f2261b6cbf68749c925d8763]: Commencement: Reg. 3 in force at 11.2.2019, see reg. 2(a)
+
+[^c23520891]: Marginal citation: [S.I. 2010/1001](https://www.legislation.gov.uk/uksi/2010/1001), to which there are amendments not relevant to these Regulations.
+
+[^key-41b7bbb8d3a6193c8dcfa0e3aaf46f56]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2/b)
+
+[^c23520901]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), to which there are amendments not relevant to these Regulations.
+
+[^c23520911]: Marginal citation: [S.I. 2015/1973](https://www.legislation.gov.uk/uksi/2015/1973), to which there are amendments not relevant to these Regulations.
+
+[^c23520921]: Marginal citation: [S.I. 2018/129](https://www.legislation.gov.uk/uksi/2018/129).
+
+[^c23520931]: Marginal citation: [S.I. 2006/2238](https://www.legislation.gov.uk/uksi/2006/2238), relevant amending instrument [S.I. 2009/1610](https://www.legislation.gov.uk/uksi/2009/1610).
+
+[^key-6514136ec99eae543435062f8c01a1c2]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2/b)
+
+[^key-6c6234f1e65cd092e923768b84d81c70]: Textual amendment: Reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1352)](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/3/2)
+
+[^key-507ecb856a82c8308054b54ee1efb384]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2/b)
+
+[^c23520951]: Marginal citation: [S.I. 2018/129](https://www.legislation.gov.uk/uksi/2018/129).

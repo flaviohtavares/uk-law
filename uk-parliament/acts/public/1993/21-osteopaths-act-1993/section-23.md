@@ -1,0 +1,63 @@
+---
+title: Osteopaths Act 1993, section 23
+act: Osteopaths Act 1993
+section: '23'
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1993/21/section/23
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Osteopaths Act 1993, section 23
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 23. Consideration of allegations by the Health Committee.
+
+*Extent: E+W+S+N.I.*
+
+(1) Where an allegation has been referred to the Health Committee under section 20 or by virtue of any rule made under section 26(2)(a), it shall be the duty of the Committee to consider the allegation.
+
+(2) If, having considered it, the Committee is satisfied that the allegation is well founded, it shall—
+
+- (a) make an order imposing conditions with which the osteopath concerned must comply while practising as an osteopath (a “**conditions of practice order**”); or
+- (b) order the Registrar to suspend the osteopath’s registration for such period as may be specified in the order (a “**suspension order**”).
+
+(3) Any condition in a conditions of practice order under this section shall be imposed so as to have effect for a period specified in the order.
+
+(4) At any time while a conditions of practice order is in force under this section or under section 30 or by virtue of a decision of a court on an appeal under section 31[^key-ca380a13e2624a84bc61cd501c8ab282] , the Committee may (whether or not of its own motion)—
+
+- (a) extend, or further extend, the period for which the order has effect; or
+- (b) make a suspension order with respect to the osteopath concerned.
+
+(5) At any time while a suspension order is in force with respect to an osteopath under this section or under section 30 or by virtue of a decision of a court on an appeal under section 31 , the Committee may (whether or not of its own motion)—
+
+- (a) extend, or further extend, the period of suspension;
+- (b) replace the order with a conditions of practice order having effect for the remainder of the period of suspension; or
+- (c) make a conditions of practice order with which the osteopath must comply if he resumes the practice of osteopathy after the end of his period of suspension.
+
+(6) On the application of the osteopath with respect to whom a conditions of practice order or a suspension order is in force under this section or under section 30 or by virtue of a decision of a court on an appeal under section 31[^key-138a2289851734da805e8606b5f2455b] , the Committee may—
+
+- (a) revoke the order;
+- (b) vary the order by reducing the period for which it has effect; or
+- (c) in the case of a conditions of practice order, vary the order by removing or altering any of the conditions.
+
+(7) Where an osteopath has made an application under subsection (6) which has been refused (“the previous application”), the Committee shall not entertain a further such application unless it is made after the end of the period of twelve months beginning with the date on which the previous application was received by the Committee.
+
+(8) The period specified in a conditions of practice order or in a suspension order under this section, and any extension of a specified period under subsection (4) or (5), shall not in each case exceed three years.
+
+(9) Before exercising its powers under subsection (2), (4), (5) or (6), the Committee shall give the osteopath concerned an opportunity to appear before it and to argue his case.
+
+(10) At any such hearing the osteopath shall be entitled to be legally represented.
+
+(11) In exercising any of its powers under this section, the Committee shall ensure that any conditions imposed on the osteopath concerned are, or any period of suspension imposed on him is, the minimum which it considers necessary for the protection of members of the public.
+
+## Annotations
+
+[^key-ca380a13e2624a84bc61cd501c8ab282]: Textual amendment: Words in s. 23(4)(5) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/4), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))
+
+[^key-138a2289851734da805e8606b5f2455b]: Textual amendment: Words in s. 23(6) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/4), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))

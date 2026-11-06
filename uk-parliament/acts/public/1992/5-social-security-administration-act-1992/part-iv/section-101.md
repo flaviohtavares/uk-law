@@ -1,0 +1,27 @@
+---
+title: Social Security Administration Act 1992, section 101
+act: Social Security Administration Act 1992
+section: '101'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/5/section/101
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Security Administration Act 1992, section 101
+
+> **Warning: changes not yet applied to this text (192).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 101. Persons in Northern Ireland
+
+*Extent: E+W+S+N.I.*
+
+[^c24145131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c24145131]: Textual amendment: Pt. 4 repealed (6.10.1997) by [Social Security (Recovery of Benefits) Act 1997 (c. 27)](https://www.legislation.gov.uk/ukpga/1997/27), [s. 33](https://www.legislation.gov.uk/ukpga/1997/27/section/33), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1997/27/schedule/3/paragraph/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/27/schedule/4); [S.I. 1997/2085](https://www.legislation.gov.uk/uksi/1997/2085), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2085/article/2/2)

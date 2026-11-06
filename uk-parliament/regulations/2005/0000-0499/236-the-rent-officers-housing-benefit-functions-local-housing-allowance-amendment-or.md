@@ -1,0 +1,171 @@
+---
+title: The Rent Officers (Housing Benefit Functions) (Local Housing Allowance) Amendment Order 2005
+id: uksi/2005/236
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-02-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/236
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/236/pdfs/uksiem_20050236_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/236/pdfs/uksi_20050236_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/236/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rent Officers (Housing Benefit Functions) (Local Housing Allowance) Amendment Order 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 236
+
+HOUSING
+
+SOCIAL SECURITY
+
+The Rent Officers (Housing Benefit Functions) (Local Housing Allowance) Amendment Order 2005
+
+Made
+
+7th February 2005
+
+Laid before Parliament
+
+14th February 2005
+
+Coming into force in accordance with article 1(2) and (3)
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 122(1) and (6) of the Housing Act 1996[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This order may be cited as the Rent Officers (Housing Benefit Functions) (Local Housing Allowance) Amendment Order 2005.
+
+(2) This article and articles 2, 3, 5 and 6 shall come into force on 13th March 2005.
+
+(3) Articles 4 and 7 shall come into force in relation to the area of a local authority specified in the Schedule to this Order on the date specified in that Schedule in relation to that local authority.
+
+(4) In this Order—
+
+- (a) “local authority” has the same meaning as in the Social Security Administration Act 1992[^f00002]; and
+- (b) “the 2003 Order” means the Rent Officers (Housing Benefit Functions) (Local Housing Allowance) Amendment Order 2003[^f00003].
+
+## 2. Amendment of the Rent Officers (Housing Benefit Functions) Order 1997: pathfinder authorities
+
+(1) Paragraph (9) of article 2 of the 2003 Order is revoked.
+
+(2) For the list of local authorities and dates specified in the table in Part II of Schedule 3A to the Rent Officers (Housing Benefit Functions) Order 1997[^f00004], substitute the following list—
+
+|  |  |
+| --- | --- |
+| Blackpool | 17th November 2003 |
+| Brighton and Hove | 2nd February 2004 |
+| Conwy | 9th February 2004 |
+| Coventry | 12th January 2004 |
+| East Riding of Yorkshire | 18th April 2005 |
+| Guildford | 4th July 2005 |
+| Leeds | 9th February 2004 |
+| Lewisham | 1st December 2003 |
+| North East Lincolnshire | 9th February 2004 |
+| Norwich | 13th June 2005 |
+| Pembrokeshire | 20th June 2005 |
+| St Helens | 23rd May 2005 |
+| Salford | 25th July 2005 |
+| South Norfolk | 6th June 2005 |
+| Teignbridge | 12th January 2004 |
+| Wandsworth | 11th April 2005. |
+
+## 3. Amendment of the Rent Officers (Housing Benefit Functions) Order 1997
+
+In sub-paragraph (3) of paragraph 5 of Schedule 1 to the Rent Officers (Housing Benefit Functions) Order 1997 (determinations - single room rents)—
+
+- (a) for the words “(3) to (5)” substitute “(3) and (5)”; and
+- (b) for the words “this sub-paragraph” substitute “this paragraph”.
+
+## 4. The Rent Officers (Housing Benefit Functions) Order 1997: additional pathfinder authorities
+
+The Rent Officers (Housing Benefit Functions) Order 1997 shall apply in relation to the area of a local authority in England and Wales specified in the Schedule to this Order as it applies in relation to the area of a local authority in England and Wales specified in Schedule 1 to the 2003 Order.
+
+## 5. Amendment of the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997: pathfinder authorities
+
+(1) Paragraphs (4) and (9) of article 3 of the 2003 Order are revoked.
+
+(2) The Rent Officers (Housing Benefit Functions) (Scotland) Order 1997[^f00005] shall have effect subject to the following amendments—
+
+- (a) in sub-paragraph (a) of paragraph (2) of article 3 (determinations) after the words “in the registration area” insert “except in relation to the area of a local authority which is a pathfinder authority”.
+- (b) for the list of local authorities and dates specified in the table in Part II of Schedule 3A, substitute the following list—
+
+  |  |  |
+  | --- | --- |
+  | Argyll and Bute | 30th May 2005 |
+  | Edinburgh | 9th February 2004. |
+
+## 6. Amendment of the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997
+
+In sub-paragraph (3) of paragraph 5 of Schedule 1 to the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997 (determinations - single room rents)—
+
+- (a) for the words “(3) to (5)” substitute “(3) and (5)”; and
+- (b) for the words “this sub-paragraph” substitute “this paragraph”.
+
+## 7. The Rent Officers (Housing Benefit Functions) (Scotland) Order 1997: additional pathfinder authorities
+
+The Rent Officers (Housing Benefit Functions) (Scotland) Order 1997 shall apply in relation to the area of a local authority in Scotland specified in the Schedule to this Order as it applies in relation to the area of a local authority in Scotland specified in Schedule 1 to the 2003 Order.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Chris Pond
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+7 February 2005
+
+## SCHEDULE — DATE ON WHICH ARTICLES 4 AND 7 COME INTO FORCE FOR LOCAL AUTHORITY AREAS
+
+Article 1(5)
+
+| Relevant authority | Date |
+| --- | --- |
+| Argyll and Bute | 25th April 2005 |
+| East Riding of Yorkshire | 21st March 2005 |
+| Guildford | 6th June 2005 |
+| Norwich | 16th May 2005 |
+| Pembrokeshire | 23rd May 2005 |
+| St Helens | 25th April 2005 |
+| Salford | 20th June 2005 |
+| South Norfolk | 9th May 2005 |
+| Wandsworth | 14th March 2005. |
+
+(This note is not part of the Order)
+
+This order amends the Rent Officers (Housing Benefit Functions) Order 1997 (“the Rent Officers Order”) and the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997 (the Rent Officers (Scotland) Order”) which confer functions on rent officers in connection with housing benefit and rent allowance subsidy. The amendments provide that that the new arrangements for rent officer determinations introduced by the Rent Officers (Housing Benefit Functions) (Local Housing Allowance) Amendment Order 2003 for the areas of specified local authorities (“pathfinder authorities”) will apply in the areas of 9 additional local authorities which will become pathfinder authorities.
+
+Article 2 makes two amendments to the Rent Officers Order as it applies to pathfinder authorities in England and Wales. It substitutes a list of the original and additional pathfinder authorities in England and Wales, with the date on which each such authority became or is to become a pathfinder authority, for the list of authorities and dates in the table in Part II of Schedule 3A to the Rent Officers Order. It also revokes minor drafting amendments to paragraph 5 of Schedule 1.
+
+Article 3 makes these minor drafting amendments for all local authorities to which the Rent Officers Order applies.
+
+Article 4 provides that the Rent Officers Order shall apply to the additional local authorities in England and Wales as it applies to pathfinder authorities in England and Wales from the date specified in the Schedule for each of those additional local authorities.
+
+Article 5(1) and (2)(a) makes amendments relating to the removal of the requirement for rent officers to make indicative rent determinations for the areas of pathfinder authorities in Scotland. (Indicative rent determinations are used to calculate payments on account of entitlement to a rent allowance and the amount of rent allowance subsidy a local authority should receive in certain cases where it has made such a payment).
+
+Articles 5(1) and (2)(b), 6 and 7 make provision equivalent to that in articles 2, 3 and 4 in relation to the Rent Officers (Scotland) Order and the additional local authority in Scotland.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
+
+[^f00002]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). *See* section 191 which has been amended by paragraph 94 of Schedule 16 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19) and paragraph 175(5) of Schedule 13 to the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00003]: Footnote: S.I. [2003/2398](https://www.legislation.gov.uk/uksi/2003/2398).
+
+[^f00004]: Footnote: S.I. [1997/1984](https://www.legislation.gov.uk/uksi/1997/1984). Relevant amending instruments are S.I. [2000/1](https://www.legislation.gov.uk/uksi/2000/1), [2001/1325](https://www.legislation.gov.uk/uksi/2001/1325) and [3561](https://www.legislation.gov.uk/uksi/2001/3561), [2003/478](https://www.legislation.gov.uk/uksi/2003/478) and [2398](https://www.legislation.gov.uk/uksi/2003/2398) and [2004/2101](https://www.legislation.gov.uk/uksi/2004/2101).
+
+[^f00005]: Footnote: S.I. [1997/1995](https://www.legislation.gov.uk/uksi/1997/1995). Relevant amending instruments are S.I. [2000/3](https://www.legislation.gov.uk/uksi/2000/3), [2001/1326](https://www.legislation.gov.uk/uksi/2001/1326) and [3561](https://www.legislation.gov.uk/uksi/2001/3561), [2003/478](https://www.legislation.gov.uk/uksi/2003/478) and [2398](https://www.legislation.gov.uk/uksi/2003/2398) and [2004/2101](https://www.legislation.gov.uk/uksi/2004/2101).

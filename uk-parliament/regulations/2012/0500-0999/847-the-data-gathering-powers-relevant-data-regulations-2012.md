@@ -1,0 +1,449 @@
+---
+title: The Data-gathering Powers (Relevant Data) Regulations 2012
+id: uksi/2012/847
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-03-14'
+text_date: '2017-12-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/847
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/847/pdfs/uksiem_20120847_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/847/pdfs/uksi_20120847_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/847/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Data-gathering Powers (Relevant Data) Regulations 2012
+
+> Text as at 2017-12-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 847
+
+Taxes
+
+The Data-gathering Powers (Relevant Data) Regulations 2012
+
+Made
+
+14th March 2012
+
+Coming into force
+
+1st April 2012
+
+A draft of these Regulations was laid before, and approved by a resolution of, the House of Commons under paragraph 44(2) of Schedule 23 to the Finance Act 2011[^f00001].
+
+Accordingly the Treasury make the following Regulations in exercise of the power conferred by paragraph 1(3) of Schedule 23 to the Finance Act 2011.
+
+## 1. Citation, commencement and interpretation[^key-dcf3140368ba232b2276ba27e682feec]
+
+These Regulations may be cited as the Data-gathering Powers (Relevant Data) Regulations 2012 and come into force on 1st April 2012.
+
+**2.**[^key-4e3c2abc8a0cfde9064b2a16802da9cc] In these Regulations—
+
+- “company registration number” has the same meaning as “registered number” in section 1066 of the Companies Act 2006;
+- “identifying information” means information which identifies a person or an account and includes—
+  - (a) any unique or generic identifier or reference number allocated by, or used by, the data-holder for the purposes of identifying a person or account, or classifying the trade of a person or account;
+  - (b) name, address (including email, website, and any other electronic address), and telephone number associated with a person or account;
+  - (c) company registration number or national insurance number, unique taxpayer reference, VAT number, any other unique government-issued identifier associated with a person or account;
+  - (d) in relation to a person, whether that person is an individual, partnership, limited company, or has any other legal status;
+- “Schedule 23” means Schedule 23 to the Finance Act 2011;
+- “VAT number” has the same meaning as “registration number” in paragraph (1) of regulation 2 of the Value Added Tax Regulations 1995.
+
+## 3. Salaries, fees, commission etc[^key-5c319a0710fde63394b0ea6c8ed63560]
+
+(1) The relevant data for a data-holder of the type described in paragraph 9(1)(a) of Schedule 23 are information relating to all payments made by the employer that relate to the employment (referred to in this regulation as “employment related payments”).
+
+(2) The relevant data for a data-holder of the type described in paragraph 9(1)(b) are information relating to payments by any other person who has made employment related payments to the employer’s employees or to the employees of another person.
+
+(3) Information relating to apportioned expenses incurred partly in respect of employment related payments and partly in, or in connection with, other matters are relevant data for the purposes of paragraph 9(1)(a) and 9(1)(b).
+
+(4) The relevant data for a data-holder of the type described in paragraph 9(1)(c) are information and documents relating to the donations made under Part 12 of the Income Tax (Earnings and Pensions) Act 2003 (payroll giving)[^f00002].
+
+(5) For the purposes of paragraph 9(1)(d) and, where relevant, paragraph 9(4)—
+
+- (a) the relevant data are information relating to relevant payments made in connection with a business, or a part of a business;
+- (b) particulars of the following payments are not relevant data—
+  - (i) payments from which income tax is deductible; and
+  - (ii) payments made to any one person where the total of those payments, particulars of which would otherwise fall to be provided, does not exceed £500.
+
+**4.**[^key-9978e9bfbbd9bab86f75bb865da1f6cd] The relevant data for a data-holder of the type described in paragraph 11 of Schedule 23 are the data described in paragraph 11(2)(b).
+
+## 5. Interest etc[^key-85c2d1af9122dd368d463e2bd849b535]
+
+(1) The relevant data for a data-holder of the type described in paragraph 12 of Schedule 23 are information and documents relating to accounts or sums on which relevant interest is payable, including but not limited to the data in regulations 8, 9 and 10.
+
+(2) “Relevant interest” means interest paid or credited—
+
+- (a) on money received or retained in the United Kingdom; and
+- (b) either without deduction of income tax or after deduction of income tax.
+
+**6.**[^key-a67ae90577e6be2e6e0638434de837ff] Information relating to the following payments is not relevant data for the purposes of a data-holder of the type described in paragraph 12—
+
+- (a) a payment in respect of a certificate of deposit within the meaning given by section 1019 of the Income Tax Act 2007[^f00003];
+- (b) a payment in respect of an investment or a deposit held by a branch of a person to whom a data-holder notice is issued, where the branch is situated in a territory other than the United Kingdom;
+- (c)[^key-3b81ae95d98fe7c2d8f17b4529662864] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) a payment in respect of an investment under a plan provided for by regulations made under Chapter 3 of Part 6 of the Income Tax (Trading and Other Income) Act 2005[^f00004];
+- (e) a payment to or a receipt for a person other than an individual (in whatever capacity the individual is acting), except where the case falls within regulation 9(c) or 10(d) or where the relevant data-holder is carrying on a trade or business and, in the ordinary course of the operations thereof, receives or retains money in such circumstances that interest becomes payable thereon[^key-fdb4b02b76c34002e980afffbbe0536b];
+- (f) any other payment not falling within any of paragraphs (a) to (e) which is specified in the data-holder notice as being a payment in respect of which information is not required.
+
+**7.**[^key-e597cf670b739aa7b4ffd7608e49a0f3] (1) Information is not relevant data for the purposes of a data-holder of the type described in paragraph 12 if it is in respect of a relevant dormant account before the balance of the account is paid out to the account-holder following a repayment claim (such payment being referred to in this regulation as the repayment claim being “settled”).
+
+(2) Where a repayment claim to the balance of a dormant account is settled, all interest paid, credited or included in the balance of the account, during and at the end of the relevant dormant period, is relevant data for the purposes of paragraph 12 and shall be treated—
+
+- (a) as paid at the time the repayment claim is settled; and
+- (b) as if the bank or building society in question had retained the balance of the account, in the ordinary course of the operations of its trade or business.
+
+(3) If the data-holder notice specifies the year of assessment in which the relevant dormant period for any account ends, the notice shall (unless it states otherwise) be deemed to require as relevant data the inclusion of information for all relevant dormant accounts, in respect of which repayment claims were settled in that year.
+
+(4) Information in respect of a relevant dormant account which, at the time it first became a relevant dormant account, was a plan provided for by regulations made under Chapter 3 of Part 6 of the Income Tax (Trading and Other Income) Act 2005 (individual investment plans) is not relevant data for the purpose of paragraph 12.
+
+(5) In this regulation—
+
+- “relevant dormant account” has the meaning in section 39(2) of the Finance Act 2008[^f00005];
+- “relevant dormant period” means the period between the time when a dormant account becomes a relevant dormant account and the time at which a repayment claim is settled; and
+- “repayment claim” means a repayment claim mentioned in section 5(6) of the Dormant Bank and Building Society Accounts Act 2008[^f00006] (“the Dormant Accounts Act”).
+
+Other terms used have the same meaning as in the Dormant Accounts Act.
+
+**8.**[^key-218958cf4ef173420de8204a3718a0af] If a payment is made in circumstances in which a certificate has been supplied under regulation 4 of the Income Tax (Deposit-takers and Building Societies) (Interest Payments) Regulations 2008[^f00007] [^key-f217257aa531dfbdef015201458f4c32]... the relevant data are—
+
+- (a) the name and address of the person or persons by or on behalf of whom a certificate has been given in connection with the payment (“the beneficiary”) if other than the person or persons to whom the payment was made;
+- (b) the date of birth of the beneficiary;
+- (c) the national insurance number or tax identification number of the beneficiary (or confirmation that a national insurance number or tax identification number is not held) for any account in respect of which the payment was made opened on or after 6th April 2013, and for any account opened earlier if such number is provided to the deposit-taker or building society;
+- (d) notification of the fact that the account in respect of which the payment was made is or was one in connection with which a certificate or certificates had been given which had not ceased to be valid at the 5th April in the year in which the payment was made or at the date of closure of the account, if earlier in that year;
+- (e) the reference number of the account referred to in paragraph (d) and, where necessary for identifying the account, the branch of the payer where the account is held;
+- (f) where the payment was made to two or more account-holders each of whom was beneficially entitled to the payment, notification of that fact and, if known, the number of such persons;
+- (g) the national insurance numbers or tax identification numbers of persons referred to in paragraph (f) other than the beneficiary referred to in paragraphs (b) and (c) (or confirmation that a national insurance number or tax identification number is not held) for any account opened on or after 6th April 2013, and for any account opened earlier if such number is provided to the deposit-taker or building society;
+- (h) where a certificate was given by or on behalf of one, or more, but not all, of the persons referred to in paragraph (f) and had not ceased to be valid at the 5th April in the year in which the payment was made or at the date of closure of the account, if earlier in that year, notification of those facts;
+- (i) where the payment was the first payment made in respect of an account, notification of that fact;
+- (j) where the payment was in a currency other than sterling and the amount of the payment is recorded in that currency in the data provided under a data-holder notice notification of the fact that the amount is so recorded and the specification of the currency concerned.
+
+**9.**[^key-c3ca6f32fc45e0cedd549408d983a0fe] In cases to which regulation 8 does not apply, the relevant data relating to payments in respect of deposits are—
+
+- (a) the reference number of the account in respect of which a payment was made and, where necessary for identifying the account, the branch of the payer where the account is held;
+- (b) where a payment was made to two or more account holders, notification of that fact and, if known, the number of such persons;
+- (c) where the payment was made without deduction of tax by virtue of a declaration made after 5th April 2001 under section 858, 859, 860 or 861 of the Income Tax Act 2007—
+  - (i) the name and principal residential address of the individual beneficially entitled to the payment or, if more than one, of each individual entitled to the payment; or
+  - (ii) where the person beneficially entitled to the payment is a Scottish partnership, all the partners in which are individuals, the name and principal residential address of each of the partners;
+- (d) in a case falling within paragraph (c) notification of the fact that the account in respect of which the payment was made was one in respect of which a declaration had been made as mentioned in that paragraph;
+- (e) the national insurance number or tax identification number (or confirmation that a national insurance number or tax identification number is not held) of the person or, where paragraph (b) applies, each person to whom a payment was made for any account opened on or after 6th April 2013, and for any account opened earlier if such number is provided to the deposit-taker or building society;
+- (f) where a payment made in the course of the year was the first payment in respect of an account, notification of that fact;
+- (g) where a payment was in a currency other than sterling and the amount of the payment is recorded in that currency in the data provided under a data-holder notice notification of the fact that the amount is so recorded and the specification of the currency concerned.
+
+**10.**[^key-08c585fc5c9011bd4c3b9b738bd6e55f] In cases to which regulation 8 does not apply, the relevant data relating to payments and receipts of interest other than payments in respect of deposits are—
+
+- (a) identification of the security or investment in respect of which the payment was made or received;
+- (b) where a payment or receipt was in a currency other than sterling and the amount of the payment is recorded in that currency in the data provided under a data-holder notice notification of the fact that the amount is so recorded and the specification of the currency concerned;
+- (c) where a payment was made to, or the receipt was for, two or more persons, notification of that fact and, if known, the number of such persons;
+- (d) where a payment was made without deduction of tax by virtue of a declaration made under regulation 31 of the Authorised Investment Funds (Tax) Regulations 2006[^f00008], the name and principal residential address of the person beneficially entitled to the payment, or if more than one, of each person beneficially entitled to the payment;
+- (e) in a case falling within paragraph (d), notification of the fact that the account in respect of which the payment was made was one in respect of which the declaration had been made.
+
+## 11. Income, assets etc belonging to others[^key-26eb9a7a5e9760ab7584328197ebc71d]
+
+The relevant data for a data-holder of the type described in paragraph 13 of Schedule 23 are—
+
+- (a) information relating to the money or value received; and
+- (b) the name and address of the beneficial owner of the money or value.
+
+## 11A. Merchant acquirers etc[^key-d4ae90d0b48d587905d61e4345b93b7a]
+
+(1) The relevant data for a data-holder of the type described in paragraph 13A of Schedule 23 are—
+
+- (a) in relation to a retailer, information relating to payment card transactions recorded against a merchant account, including the currency these payment card transactions were made in;
+- (b)[^key-82db517954ebc3623e0840f3f91bf756] identifying information relating to a retailer to whom the data-holder has a contractual obligation to make payments, including any identifying information about the retailer’s merchant account; and
+- (c) identifying information relating to an account or system into which payments are made by the data-holder to the retailer.
+
+(2) In this regulation—
+
+- “merchant account” means an account held by a retailer with the relevant data-holder, by reference to which the amount due to be paid by the relevant data-holder to the retailer in settlement of payment card transactions is calculated; and
+- [^key-fe4d5b6c166b5b4716a8108df579077e]...
+- “payment card transaction” and “retailer” have the meanings given by paragraph 13A of Schedule 23[^key-2b28da4465fc13574bb7387a31db0864]
+
+## 11B. Electronic stored-value payment service providers[^key-47c278d259711a2b1365822adedd603d]
+
+(1) The relevant data for a data-holder of the type described in paragraph 13B of Schedule 23 are—
+
+- (a) in relation to a payment recipient, information relating to transactions, including the currency the transactions were made in;
+- (b) identifying information relating to a payment recipient; and
+- (c) identifying information relating to an account or system into which payments are credited to, or on behalf of, a payment recipient by the data-holder.
+
+(2) In this regulation—
+
+- “electronic stored-value payment services” has the meaning given by paragraph 13B of Schedule 23;
+- “payment recipient” means the recipient of a payment from a transaction for which the data-holder provided electronic stored-value payment services.
+
+## 11C. Business intermediaries
+
+(1) The relevant data for a data-holder of the type described in paragraph 13C of Schedule 23 are—
+
+- (a) in relation to suppliers—
+  - (i) information relating to transactions that the data-holder enabled or facilitated; and
+  - (ii) information that the Commissioners consider is likely to assist them to quantify or otherwise determine the quantity or value of transactions of suppliers, whether or not the data-holder processed the payment for those transactions;
+- (b) identifying information relating to suppliers for whom the data-holder enables or facilitates transactions; and
+- (c) identifying information relating to an account or system into which payments are credited to, or on behalf of, suppliers by the data-holder.
+
+(2) In this regulation “suppliers” has the meaning given by paragraph 13C of Schedule 23.
+
+## 11D. Money service businesses[^key-6ec1a8bcba8fa3c5c0a7c499fcd6ff60]
+
+(1) The relevant data for a data-holder of the type described in paragraph 13D of Schedule 23 are—
+
+- (a) records required to be kept by the data-holder under regulation 40 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017;
+- (b) the quantity and value of transactions carried out by the data-holder for a customer during any period;
+- (c) identifying information relating to a customer; and
+- (d) where, in a transaction carried out by the data-holder for a customer, there is a beneficial owner who is not the customer, identifying information relating to the beneficial owner.
+
+(2) In this regulation “beneficial owner” has the meaning given by regulations 5 and 6 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017.
+
+## 12. Payments derived from securities[^key-a14904488ec186038f2c914cad31fc78]
+
+The relevant data for a data-holder of the type described in paragraph 14 of Schedule 23 are—
+
+- (a) whether the relevant data-holder is the beneficial owner (or sole beneficial owner) of the securities or payment in question;
+- (b) if not—
+  - (i) details of the beneficial owner (or other beneficial owners); and
+  - (ii) if those details are not known or if different, details of the person for whom the securities are held or to whom the payment is or may be paid on; and
+- (c) if there is more than one beneficial owner or more than one person of the kind mentioned in paragraph (b)(ii), their respective interests in the securities or payment.
+
+**13.**[^key-b3cfcc882d72ceff95fa5390ba7276b1] The relevant data for a data-holder of the type described in paragraph 15 of Schedule 23 are details of the amounts paid that were received from or paid on behalf of another person including the name and address of each such person.
+
+## 14. Grants and subsidies out of public funds[^key-9b6604085c26a6a0f68969a87bf32fd7]
+
+The relevant data for a data-holder of the type described in paragraph 16 of Schedule 23 are—
+
+- (a) the name and address of the person to whom the payment has been made or on whose behalf the payment has been received;
+- (b) the amount of the payment so made or received; and
+- (c) the address of any property in respect of which the payment has been made.
+
+## 15. Licences, approvals etc[^key-ce4fc40054913c591eaf44373d7b3e0f]
+
+The relevant data for a data-holder of the type described in paragraph 17 of Schedule 23 are—
+
+- (a) the name and address of anyone who is or has been the holder of a licence or approval or to whom an entry in the register relates or related;
+- (b) particulars of the licence, approval or entry;
+- (c) information relating to any application for such a licence or approval or for entry on that register.
+
+## 16. Rent and other payments arising from land[^key-dc86d67a9b7352593a86f6946c4c5dd2]
+
+(1) The relevant data for a data-holder of the type described in paragraph 18 of Schedule 23 are—
+
+- (a) information relating to the terms applying to the lease, occupation or use of land;
+- (b) information relating to any consideration given for the grant or assignment of the tenancy;
+- (c) information relating to any person on whose behalf the land is managed or the payments received, including particulars of payments arising from the land.
+
+(2) In this regulation—
+
+- (a) “lease” includes an agreement for a lease, and any tenancy, but does not include a mortgage or heritable security;
+- (b) “lessee” includes a successor in title of a lease; and
+- (c) in relation to Scotland, “assignment” means an assignation.
+
+## 17. Dealing etc in securities[^key-6859fafa092dcb2309d617711264dfca]
+
+(1) The relevant data for a data-holder of the type described in paragraph 19 of Schedule 23 are—
+
+- (a) information and documents relating to securities transactions in respect of which that person is a relevant data-holder; and
+- (b) in relation to a person who carries on a business of effecting public issues or placings or otherwise effects public issues or placings, information relating to the issue, allotment or placing of the public issues or placings.
+
+(2) In this regulation—
+
+- (a) “placing” means a placing of shares or securities in a company; and
+- (b) “public issue” means a public issue of shares or securities in a company.
+
+## 18. Dealing in other property[^key-32a440f2d1afad6195c5bbe7e286ad17]
+
+The relevant data for a data-holder of the type described in paragraph 20 of Schedule 23 are—
+
+- (a) particulars of any transactions effected through a clearing house or a central securities depository[^key-fdd3d4c10dbf50e3f7d8913044cf972c];
+- (b) particulars of any transaction which meets the following conditions—
+  - (i) the transaction is effected by or through that person;
+  - (ii) in the transaction, an asset which is tangible moveable property is disposed of; and
+  - (iii) the amount or value of the consideration for the disposal exceeds, in the hands of the recipient, £6,000.
+
+## 19. Lloyd’s[^key-d95f6729414d6abd45f3fed6a284b844]
+
+The relevant data for a data-holder of the type described in paragraph 21 of Schedule 23 are information and documents relating to, and to the activities of, the syndicate of underwriting members of Lloyd’s.
+
+## 20. Investment plans etc[^key-1d3b00272f7e93339da3b885741b8af0]
+
+The relevant data for a data-holder of the type described in paragraph 22 of Schedule 23 are—
+
+- (a) information and documents relating to the plan, including investments which are or have been held under the plan;
+- (b) information and documents relating to the child trust fund including investments which are or have been held under the fund.
+
+## 21. Petroleum activities[^key-37bcb73c884bf8ea862ba2d4b0d5f8d5]
+
+The relevant data for a data-holder of the type described in paragraph 23 of Schedule 23 are—
+
+- (a) particulars of transactions in connection with any activities authorised by a petroleum licence as a result of which any person is or might be liable to tax by virtue of section 276 of the Taxation of Chargeable Gains Act 1992[^f00009], section 1313 of the Corporation Tax Act 2009[^f00010] or section 874 of the Income Tax (Trading and Other Income) Act 2005[^f00011];
+- (b) particulars of earnings or money treated as earnings, which constitute employment income (see section 7(2)(a) or (b) of the Income Tax (Earnings and Pensions) Act 2003[^f00012]) or other payments paid or payable in respect of duties or services performed in an area in which those activities may be carried on under the petroleum licence;
+- (c) particulars of the persons to whom such earnings, money or other payments were paid and are payable;
+- (d) information and documents relating to the oil field.
+
+## 22. Insurance activities[^key-2503e884ca4302e3215417c9ef3ab3e5]
+
+The relevant data for a data-holder of the type described in paragraph 24 of Schedule 23 are—
+
+- (a) information and documents relating to contracts of insurance entered into in the course of an insurance business;
+- (b) if paragraph 24(b) or (c) applies, information and documents relating to the contracts of insurance.
+
+## 23. Environmental activities[^key-ad17d134c055374bd23a1eda75f9f7bd]
+
+The relevant data for a data-holder of the type described in paragraph 25 of Schedule 23 are—
+
+- (a) information and documents relating to aggregates levy matters in which the person is or has been involved;
+- (b) information and documents relating to climate change levy matters in which the person is or has been involved;
+- (c) information and documents relating to any landfill disposal.
+
+## 24. Settlements[^key-a0475885a7993eaed6247be8450172f2]
+
+The relevant data for a data-holder of the type described in paragraph 26 of Schedule 23 are information and documents relating to the settlement in question and to income or gains arising to the settlement.
+
+## 25. Charities[^key-9484a3b758e6dcd0c8615b77a3eeea4d]
+
+The relevant data for a data-holder of the type described in paragraph 27 of Schedule 23 are information relating to donations to the charity that are eligible for tax relief under any of the following provisions—
+
+- (a) section 257 of the Taxation of Chargeable Gains Act 1992 (gifts to charities etc)[^f00013];
+- (b) section 63(2)(a) or (aa) of the Capital Allowances Act 2001(cases in which disposal value is nil)[^f00014];
+- (c) Part 12 of the Income Tax (Earnings and Pensions) Act 2003 (payroll giving)[^f00015];
+- (d) section 108 of the Income Tax (Trading and Other Income) Act 2005 (gifts of trading stock to charities etc)[^f00016];
+- (e) Chapter 2 or 3 of Part 8 of the Income Tax Act 2007 (gift aid, gifts of shares, securities and real property to charities etc)[^f00017];
+- (f) section 105 of the Corporation Tax Act 2009 (gifts of trading stock to charities etc)[^f00018]; and
+- (g) Part 6 of the Corporation Tax Act 2010 (charitable donations relief)[^f00019].
+
+Michael Fabricant
+
+James Duddridge
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+14th March 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations specify the data (“relevant data”) that data-holders may be required to provide to an officer of Her Majesty’s Revenue and Customs under the provisions of Schedule 23 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) (“Schedule 23”).
+
+Paragraph 1 of Schedule 23 provides that an officer of Her Majesty’s Revenue and Customs may, by notice in writing, require a relevant data-holder to provide relevant data. Part 2 of Schedule 23 sets out different types of data-holder. These Regulations specify the relevant data to be provided by each type of relevant data-holder.
+
+A Tax Information and Impact Note covering this instrument was published on 9th December 2010 alongside the draft legislation and is available on the HMRC website at http://www.hmrc.gov.uk/the library/tiins.htm. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^key-dcf3140368ba232b2276ba27e682feec]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-4e3c2abc8a0cfde9064b2a16802da9cc]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/847/regulation/2) substituted (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/979/regulation/3)
+
+[^key-5c319a0710fde63394b0ea6c8ed63560]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/847/regulation/3) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^f00002]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); Part 12 was amended by paragraphs 103(a) and 118 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11); section 96 of the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [S.I 2009/56](https://www.legislation.gov.uk/uksi/2009/56), [S.I. 209/3054](https://www.legislation.gov.uk/uksi/2009/3054) and paragraph 5 of Schedule 3 of the Finance Act 2011.
+
+[^key-9978e9bfbbd9bab86f75bb865da1f6cd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/847/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-85c2d1af9122dd368d463e2bd849b535]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/847/regulation/5) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-a67ae90577e6be2e6e0638434de837ff]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/847/regulation/6) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^f00003]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^key-3b81ae95d98fe7c2d8f17b4529662864]: Textual amendment: [Reg. 6(c)](https://www.legislation.gov.uk/uksi/2012/847/regulation/6/c) omitted (1.9.2013) by virtue of [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2013 (S.I. 2013/1811)](https://www.legislation.gov.uk/uksi/2013/1811), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1811/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1811/regulation/3)
+
+[^f00004]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5); Chapter 3 was amended by section 50 of and paragraphs 131 and 132 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), section 40 of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) and section 40 of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^key-fdb4b02b76c34002e980afffbbe0536b]: Textual amendment: Words in [reg. 6(e)](https://www.legislation.gov.uk/uksi/2012/847/regulation/6/e) added (1.9.2013) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2013 (S.I. 2013/1811)](https://www.legislation.gov.uk/uksi/2013/1811), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1811/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1811/regulation/4)
+
+[^key-e597cf670b739aa7b4ffd7608e49a0f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/847/regulation/7) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^f00005]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^f00006]: Footnote: [2008 c. 31](https://www.legislation.gov.uk/ukpga/2008/31).
+
+[^key-218958cf4ef173420de8204a3718a0af]: Commencement: Reg. 8 in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^f00007]: Footnote: [S.I. 2008/2682](https://www.legislation.gov.uk/uksi/2008/2682), to which there are amendments not relevant to these Regulations.
+
+[^key-f217257aa531dfbdef015201458f4c32]: Textual amendment: Words in reg. 8 omitted (6.4.2015) by virtue of [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2015 (S.I. 2015/672)](https://www.legislation.gov.uk/uksi/2015/672), [regs. 1](https://www.legislation.gov.uk/uksi/2015/672/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/672/regulation/2)
+
+[^key-c3ca6f32fc45e0cedd549408d983a0fe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/847/regulation/9) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-08c585fc5c9011bd4c3b9b738bd6e55f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/847/regulation/10) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^f00008]: Footnote: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964), to which there are amendments not relevant to these Regulations.
+
+[^key-26eb9a7a5e9760ab7584328197ebc71d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/847/regulation/11) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-d4ae90d0b48d587905d61e4345b93b7a]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A) inserted (1.9.2013) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2013 (S.I. 2013/1811)](https://www.legislation.gov.uk/uksi/2013/1811), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1811/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/1811/regulation/5)
+
+[^key-82db517954ebc3623e0840f3f91bf756]: Textual amendment: [Reg. 11A(1)(b)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/1/b)[(c)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/1/c) substituted for reg. 11A(1)(b)-(f) (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/979/regulation/4/a)
+
+[^key-fe4d5b6c166b5b4716a8108df579077e]: Textual amendment: Words in [reg. 11A(2)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/2) omitted (1.11.2016) by virtue of [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2016/979/regulation/4/b/i)
+
+[^key-2b28da4465fc13574bb7387a31db0864]: Textual amendment: Words in [reg. 11A(2)](https://www.legislation.gov.uk/uksi/2012/847/regulation/11A/2) inserted (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2016/979/regulation/4/b/ii)
+
+[^key-47c278d259711a2b1365822adedd603d]: Textual amendment: [Regs. 11B](https://www.legislation.gov.uk/uksi/2012/847/regulation/11B), [11C](https://www.legislation.gov.uk/uksi/2012/847/regulation/11C) inserted (1.11.2016) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2016 (S.I. 2016/979)](https://www.legislation.gov.uk/uksi/2016/979), [regs. 1](https://www.legislation.gov.uk/uksi/2016/979/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/979/regulation/5)
+
+[^key-6ec1a8bcba8fa3c5c0a7c499fcd6ff60]: Textual amendment: [Reg. 11D](https://www.legislation.gov.uk/uksi/2012/847/regulation/11D) inserted (21.12.2017) by [The Data-gathering Powers (Relevant Data) (Amendment) Regulations 2017 (S.I. 2017/1175)](https://www.legislation.gov.uk/uksi/2017/1175), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1175/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1175/regulation/3)
+
+[^key-a14904488ec186038f2c914cad31fc78]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/847/regulation/12) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-b3cfcc882d72ceff95fa5390ba7276b1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/847/regulation/13) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-9b6604085c26a6a0f68969a87bf32fd7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/847/regulation/14) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-ce4fc40054913c591eaf44373d7b3e0f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/847/regulation/15) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-dc86d67a9b7352593a86f6946c4c5dd2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/847/regulation/16) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-6859fafa092dcb2309d617711264dfca]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/847/regulation/17) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-32a440f2d1afad6195c5bbe7e286ad17]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/847/regulation/18) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-fdd3d4c10dbf50e3f7d8913044cf972c]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2012/847/regulation/18) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/38) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-d95f6729414d6abd45f3fed6a284b844]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/847/regulation/19) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-1d3b00272f7e93339da3b885741b8af0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/847/regulation/20) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-37bcb73c884bf8ea862ba2d4b0d5f8d5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/847/regulation/21) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^f00009]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12). Section 276 was amended by paragraph 10 of Schedule 38 to the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), paragraph 35 of Schedule 29 to the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17) and paragraphs 225 and 262 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^f00010]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
+
+[^f00011]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
+
+[^f00012]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^key-2503e884ca4302e3215417c9ef3ab3e5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/847/regulation/22) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-ad17d134c055374bd23a1eda75f9f7bd]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/847/regulation/23) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-a0475885a7993eaed6247be8450172f2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/847/regulation/24) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^key-9484a3b758e6dcd0c8615b77a3eeea4d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/847/regulation/25) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/847/regulation/1)
+
+[^f00013]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12); Section 257 was amended by section 72 of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), paragraphs 294 and 328 of Schedule 1 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3) and paragraphs 225 and 258 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^f00014]: Footnote: [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2); Subsection (2)(a) was amended and subsection (2)(aa) inserted by paragraphs 323 and 328 of the Corporation Tax Act 2010.
+
+[^f00015]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); Part 12 was amended by paragraphs 103(a) and 118 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11); section 96 of the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [S.I 2009/56](https://www.legislation.gov.uk/uksi/2009/56), [S.I. 209/3054](https://www.legislation.gov.uk/uksi/2009/3054) and paragraph 5 of Schedule 3 of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^f00016]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5). Section 108 was amended by paragraphs 492 and 500 of Schedule 1 to, and Part 1 of Schedule 3 to, the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), paragraphs 444 and 446 of Schedule 1 of the Corporation Tax Act 2010 and paragraph 6 of Schedule 3 to the Finance Act 2011.
+
+[^f00017]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3); Chapters 2 and 3 were amended by section 60 of and paragraphs 10 and 12 of Schedule 26 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), paragraphs 1 and 20 of Schedule 1 and paragraphs 23 and 24 of Schedule 12 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), paragraphs 1 and 6 of Schedule 2 to the Finance Act [2009 (c.10)](https://www.legislation.gov.uk/ukpga/2009/10), paragraphs 524 to 529 of the Corporation Tax Act 2010, paragraphs 71 and 79 of the Taxation (International and Other Provisions) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), paragraphs 1 to 3 of Schedule 7, paragraphs 3 and 4 of Schedule 8 and Part 2 of Schedule 27 to the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13) and section 41 of and paragraphs 7, 10 and 11 of Schedule 3 to the Finance Act 2011.
+
+[^f00018]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4); Section 105 was amended by paragraph 597 of Schedule 1 to the Corporation Tax Act 2010.
+
+[^f00019]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4); Part 6 was amended by paragraphs 5 to 7 of Schedule 7 to the Finance Act 2010 and section 41 of and paragraphs 19 and 21 of Schedule 3 to the Finance Act 2011.

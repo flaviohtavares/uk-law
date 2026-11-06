@@ -1,0 +1,63 @@
+---
+title: Wildlife and Countryside Act 1981, section 35A
+act: Wildlife and Countryside Act 1981
+section: 35A
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1981/69/section/35A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Wildlife and Countryside Act 1981, section 35A
+
+> **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 35A. Power to call in subtidal declarations[^c20667921]
+
+*Extent: E+W+S*
+
+(1) This section applies where—
+
+- (a) the appropriate conservation body propose to declare land to be a national nature reserve under section 35(1), and
+- (b) the land to which the proposed declaration relates includes, by virtue of section 35(1B), land lying below mean low water mark (“the subtidal land”).
+
+(2) The appropriate conservation body may not declare the reserve unless, at least 21 days before doing so, they have given notice of their intention to the ministerial authority.
+
+(3) At any time before the reserve is declared the ministerial authority may give notice to the appropriate conservation body that the ministerial authority is considering whether to give a direction under subsection (5) regarding the subtidal land.
+
+(4) If the ministerial authority gives notice under subsection (3), the appropriate conservation body may not declare the reserve until the ministerial authority has given a direction under subsection (5).
+
+(5) The ministerial authority may direct—
+
+- (a) that the reserve (if declared) must include all of the subtidal land;
+- (b) that the reserve (if declared) must not include any of the subtidal land;
+- (c) that the reserve (if declared) must, or must not, include such part of that land as is specified in the direction;
+- (d) that the decision whether the reserve (if declared) should include the subtidal land is to be taken by the appropriate conservation body.
+
+(6) The ministerial authority may, before deciding whether to give a direction under subsection (5), give to any person the opportunity of—
+
+- (a) appearing before and being heard by a person appointed by the ministerial authority for that purpose;
+- (b) providing written representations to such a person.
+
+(7) A person appointed under subsection (6) must make a report to the ministerial authority of any oral or written representations made under that subsection.
+
+(8) The ministerial authority may make regulations providing for the procedure to be followed (including decisions as to costs) at hearings held under subsection (6).
+
+(9) The power to make regulations under subsection (8) is exercisable by statutory instrument.
+
+(10) A statutory instrument containing regulations made under subsection (8) by the Secretary of State shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(11) A statutory instrument containing regulations made under subsection (8) by the Welsh Ministers shall be subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+(12) In this section “**the ministerial authority**” means—
+
+- (a) in relation to England, the Secretary of State;
+- (b) in relation to Wales, the Welsh Ministers.
+
+## Annotations
+
+[^c20667921]: Textual amendment: S. 35A inserted (E.W.) (12.11.2009 for certain purposes, 12.1.2010 for E., 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 148](https://www.legislation.gov.uk/ukpga/2009/23/section/148), [324(1)(c)(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c/2/b/ii), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/11); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)

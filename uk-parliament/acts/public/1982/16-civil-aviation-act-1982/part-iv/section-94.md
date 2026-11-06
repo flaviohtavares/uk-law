@@ -1,0 +1,83 @@
+---
+title: Civil Aviation Act 1982, section 94
+act: Civil Aviation Act 1982
+section: '94'
+status: revised-with-pending-changes
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1982/16/section/94
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Civil Aviation Act 1982, section 94
+
+> **Warning: changes not yet applied to this text (29).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/16
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 94. Powers of commander of aircraft.[^key-390cb37bbb72c25948a6e46b40e07e81]
+
+*Extent: E+W+S+N.I.*
+
+(1) The provisions of subsections (2) to (5) below shall have effect for the purposes of any proceedings before any court in the United Kingdom.
+
+(2) If the commander of an aircraft in flight, wherever that aircraft may be, has reasonable grounds to believe in respect of any person on board the aircraft—
+
+- (a) that the person in question has done or is about to do any act on the aircraft while it is in flight which jeopardises or may jeopardise—
+  - (i) the safety of the aircraft or of persons or property on board the aircraft, or
+  - (ii) good order and discipline on board the aircraft, or
+- (b) that the person in question has done on the aircraft while in flight any act which in the opinion of the commander is a serious offence under any law in force in the country in which the aircraft is registered, not being a law of a political nature or based on racial or religious discrimination,
+
+then, subject to subsection (4) below, the commander may take with respect to that person such reasonable measures, including restraint of his person, as may be necessary—
+
+- (i) to protect the safety of the aircraft or of persons or property on board the aircraft; or
+- (ii) to maintain good order and discipline on board the aircraft; or
+- (iii) to enable the commander to disembark or deliver that person in accordance with subsection (5) below,
+
+and for the purposes of paragraph (b) of this subsection any British-controlled aircraft shall be deemed to be registered in the United Kingdom whether or not it is in fact so registered and whether or not it is in fact registered in some other country.
+
+(3) Any member of the crew of an aircraft and any other person on board the aircraft may, at the request or with the authority of the commander of the aircraft, and any such member shall if so required by that commander, render assistance in restraining any person whom the commander is entitled under subsection (2) above to restrain; and at any time when the aircraft is in flight any such member or other person may, without obtaining the authority of the commander, take with respect to any person on board the aircraft any measures such as are mentioned in that subsection which he has reasonable grounds to believe are immediately necessary to protect the safety of the aircraft or of persons or property on board the aircraft.
+
+(4) Any restraint imposed on any person on board an aircraft under the powers conferred by the preceding provisions of this section shall not be continued after the time when the aircraft first thereafter ceases to be in flight unless before or as soon as is reasonably practicable after that time the commander of the aircraft causes notification of the fact that a person on board the aircraft is under restraint and of the reasons therefor to be sent to an appropriate authority of the country in which the aircraft so ceases to be in flight, but subject to such notification may be continued after that time—
+
+- (a) for any period (including the period of any further flight) between that time and the first occasion thereafter on which the commander is able with any requisite consent of the appropriate authorities to disembark or deliver the person under restraint in accordance with subsection (5) below; or
+- (b) if the person under restraint agrees to continue his journey under restraint on board that aircraft.
+
+(5) The commander of an aircraft—
+
+- (a) if in the case of any person on board the aircraft he has reasonable grounds—
+  - (i) to believe as mentioned in subsection (2)(a) above, and
+  - (ii) to believe that it is necessary so to do in order to protect the safety of the aircraft or of persons or property on board the aircraft or to maintain good order and discipline on board the aircraft,
+
+  may disembark that person in any country in which that aircraft may be; and
+- (b) if in the case of any person on board the aircraft he has reasonable grounds to believe as mentioned in subsection (2)(b) above, may deliver that person—
+  - (i) in the United Kingdom, to a constable or immigration officer; or
+  - (ii) in any other country which is a Convention country, to an officer having functions corresponding to the functions in the United Kingdom either of a constable or of an immigration offier.
+
+(6) The commander of an aircraft—
+
+- (a) if he disembarks any person in pursuance of subsection (5)(a) above, in the case of a British-controlled aircraft, in any country or, in the case of any other aircraft, in the United Kingdom, shall report the fact of, and the reasons for, that disembarkation to—
+  - (i) an appropriate authority in the country of disembarkation; and
+  - (ii) the appropriate diplomatic or consular office of the country of nationality of that person;
+- (b) if he intends to deliver any person in accordance with subsection (5)(b) above in the United Kingdom or, in the case of a British-controlled aircraft, in any other country which is a Convention country, shall before or as soon as reasonably practicable after landing give notification of his intention and of the reasons therefor—
+  - (i) where the country in question is the United Kingdom, to a constable or immigration officer or, in the case of any other country, to an officer having functions corresponding to the functions in the United Kingdom either of a constable or of an immigration officer;
+  - (ii) in either case to the appropriate diplomatic or consular office of the country of nationality of that person;
+
+and any commander of an aircraft who without reasonable cause fails to comply with the requirements of this subsection shall be liable on summary conviction to a fine not exceeding £100.
+
+(7) In this section—
+
+- “**commander**” in relation to an aircraft, means the member of the crew designated as commander of that aircraft by the operator thereof, or, failing such a person, the person who is for the time being the pilot in command of the aircraft; and
+- “**pilot in command**” in relation to an aircraft, means a person who for the time being is in charge of the piloting of the aircraft without being under the direction of any other pilot in the aircraft;
+
+and, subject to subsection (8) below, subsections (4) and (5) of section 92 above shall apply for the purposes of this section as they apply for the purposes of that section.
+
+(8) The time during which an aircraft is in flight shall, for the purposes of this section, be deemed to include, in addition to such a period as is mentioned in subsection (4) of section 92 above—
+
+- (a) any further period from the moment when all external doors, if any, of the aircraft are closed following embarkation for a flight until the moment when any such door is opened for disembarkation after that flight; and
+- (b) if the aircraft makes a forced landing, any period thereafter until the time when competent authorities of the country in which the forced landing takes place take over the responSibility for the aircraft and for the persons and property on board the aircraft (being, if the forced landing takes place in the United Kingdom, the time when a constable arrives at the place of landing).
+
+## Annotations
+
+[^key-390cb37bbb72c25948a6e46b40e07e81]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/1982/16/section/94): power to apply conferred (with modifications) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 52(2)(a)](https://www.legislation.gov.uk/ukpga/2018/5/section/52/2/a), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ss)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ss)

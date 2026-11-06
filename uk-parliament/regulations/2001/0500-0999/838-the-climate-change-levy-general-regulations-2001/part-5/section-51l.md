@@ -1,0 +1,25 @@
+---
+title: The Climate Change Levy (General) Regulations 2001, section 51L
+act: The Climate Change Levy (General) Regulations 2001
+section: 51L
+status: revised
+text_date: '2024-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/838/section/51L
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Climate Change Levy (General) Regulations 2001, section 51L
+
+> Text as at 2024-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**51L.**[^key-803aa9fa3f649411679cf9cd7eb6114a] The exemption provided for by paragraph 20A(1) of the Act (indirect supplies) shall only be given effect if the supplier, and each other person (if any) who is an operator in relation to any CHP electricity allocated by the supplier to supplies under the CHP declaration contract in question, has delivered a copy of the notice referred to in paragraph 20A(1)(d) of the Act (agreement to fulfil conditions) to the relevant Authority.
+
+## Annotations
+
+[^key-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)

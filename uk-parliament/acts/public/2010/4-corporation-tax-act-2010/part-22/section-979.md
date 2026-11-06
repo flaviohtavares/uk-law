@@ -1,0 +1,39 @@
+---
+title: Corporation Tax Act 2010, section 979
+act: Corporation Tax Act 2010
+section: '979'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/979
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 979
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 979. Amount payable in consortium case
+
+*Extent: E+W+S+N.I.*
+
+(1) In a consortium case, the amount that the related company may be required to pay by notice under this Chapter is the proportion of the unpaid tax corresponding—
+
+- (a) if the company is only within section 976(1)(b), to the share which the company has had in the consortium for the relevant period,
+- (b) if the company is only within section 976(1)(c), to the share which companies that have been members of the same group of companies as the company have had in the consortium for the relevant period, or
+- (c) if the company is within section 976(1)(b) and (c), to whichever is the greater of the amounts given by paragraphs (a) and (b).
+
+(2) For the purposes of this section, a member's share in a consortium, in relation to the relevant period, is whichever is the lowest in that period of the percentages specified in subsection (3).
+
+(3) Those percentages are—
+
+- (a) the percentage of the ordinary share capital of the taxpayer company which is beneficially owned by the member,
+- (b) the percentage to which the member is beneficially entitled of any profits available for distribution to equity holders of the taxpayer company, and
+- (c) the percentage to which the member would be beneficially entitled of any assets of the taxpayer company available for distribution to its equity holders on a winding up.
+
+(4) If any of the percentages mentioned in subsection (3) has fluctuated in the relevant period, the average percentage over the period is to be taken.
+
+(5) Chapter 6 of Part 5 (equity holders and profits or assets available for distribution) applies for the purposes of subsection (3) as it applies for the purposes of sections 143(3)(b) and (c) and 144(3)(b) and (c).

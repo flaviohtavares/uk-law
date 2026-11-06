@@ -1,0 +1,181 @@
+---
+title: The Motor Cycles (Eye Protectors) Regulations 1999
+id: uksi/1999/535
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-03-03'
+text_date: '2000-06-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1999/535
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/535/pdfs/uksi_19990535_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/535/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Cycles (Eye Protectors) Regulations 1999
+
+> Text as at 2000-06-30.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1999 No. 535
+
+ROAD TRAFFIC
+
+The Motor Cycles (Eye Protectors) Regulations 1999
+
+Made
+
+3rd March 1999
+
+Laid before Parliament
+
+10th March 1999
+
+Coming into force
+
+1st April 1999
+
+The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by section 18 of the Road Traffic Act 1988[^f00001], and of all other powers enabling him in that behalf, and after consultation with representative organisations in accordance with section 195(2) of that Act, hereby makes the following Regulations:–
+
+## 1. Citation and commencement[^key-6338eaca6f912ea5808b630366ab6d32]
+
+These Regulations may be cited as the Motor Cycles (Eye Protectors) Regulations 1999 and shall come into force on 1st April 1999.
+
+## 2. Interpretation[^key-440646954ece7d0e1c2d324c90f6b8ad]
+
+In these Regulations–
+
+- (aa)[^key-03093256a5075b70500658d29b8fb0bd] “ECE Regulation 22” means Regulation No. 22 set out in Addendum 21 to the UNECE Agreement;
+- (aaa) “ECE Regulation 22.05” means ECE Regulation 22 as amended by the 05 series of amendments and all previous amendments in force on 30th June 2000;
+- (aaaa) “the UNECE Agreement” means the Agreement of the United Nations Economic Commission for Europe concluded at Geneva on 20th March 1958 as amended concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or used on wheeled vehicles and the conditions for the reciprocal recognition of approvals granted on the basis of these prescriptions, to which the United Kingdom is a party by virtue of an instrument of accession dated 14th January 1963 deposited with the Secretary General of the United Nations on 15th January 1963;
+- (a) “EEA State” means a State which is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00002];
+- (b) “eye protector” means an appliance designed or adapted for use with any headgear or by being attached to or placed upon the head by a person driving or riding on a motor bicycle and intended for the protection of the eyes;
+- (c) “motor bicycle” means a two-wheeled motor cycle, whether or not having a side-car attached, and for the purposes of this definition, where the distance measured between the centre of the area of contact with the road surface of any two wheels of a motor cycle is less than 460 millimetres, those wheels shall be counted as one wheel.
+
+## 3. Revocation[^key-f2ea94991dd2c973202b6314da94f33e]
+
+The Regulations specified in the Schedule to these Regulations are hereby revoked.
+
+## 4. Prescribed types of authorised eye protector[^key-b68cb22bfa416f9bfa8045896ead29e2]
+
+(1) Subject to paragraph (3), the types of eye protector hereby prescribed as authorised for use by persons driving or riding (otherwise than in a side-car) on a motor bicycle are–
+
+- (a) those which conform–
+  - (i) to the requirements relating to Grade X in British Standard BS 4110:1979 and are marked with that Grade and the number of that standard,
+  - (ii) to the requirements relating to Grades XA, YA or ZA in British Standard BS 4110:1979 as amended by Amendment No. 1 (AMD 3368), Amendment No. 2 (AMD 4060) and Amendment No. 3 (AMD 4630) and are marked with the number of that standard and the Grade to which they conform, or
+  - (iii) to any other standard accepted by an EEA State, which offers in use levels of safety, suitability and fitness for purpose equivalent to those offered by the standards referred to in paragraph (i) or (ii) above, and are marked with a mark to indicate that standard,
+
+  and in each case are marked with an approved certification mark of an approved body (whether or not they are required to be so marked by the standard in point);
+- (aa)[^key-ba6c770e8c9df8ccfd8702da2d4c0754] those which conform with ECE Regulation 22.05 including the approval, marking and conformity of production requirements of that Regulation;
+- (b) those which comply with the requirements of Council Directive [89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686)[^f00003] of the 21st December 1989 on the approximation of the laws of the Member States relating to personal protective equipment as amended by Council Directives [93/68/EEC](https://www.legislation.gov.uk/european/directive/1993/0068)[^f00004] of 22nd July 1993, [93/95/EEC](https://www.legislation.gov.uk/european/directive/1993/0095)[^f00005] of 29th October 1993 and [96/58/EEC](https://www.legislation.gov.uk/european/directive/1996/0058)[^f00006] of 3rd September 1996; or
+- (c) those which were first used before 1st April 1989 and fulfil all of the following requirements–
+  - (i) they are fitted with lenses that are designed to correct a defect in sight,
+  - (ii) they transmit 50 per cent or more of the light, and
+  - (iii) they do not fly into fragments if fractured.
+
+(2) For the purposes of this regulation:
+
+- (a) an approved certification mark is–
+  - (i) the certification mark of the British Standards Institution; or
+  - (ii) a certification mark which indicates that a conformity assessment equivalent to that of the British Standards Institution has been undertaken, and
+- (b) an approved body is–
+  - (i) the British Standards Institution; or
+  - (ii) any body approved by an EEA State to undertake conformity assessments equivalent to those undertaken by the British Standards Institution.
+
+(3) The types of eye protector prescribed by paragraph (1) are not prescribed as authorised for use by persons to whom paragraph (4) applies.
+
+(4) This paragraph applies to any person driving or riding on a motor bicycle if–
+
+- (a) it is a mowing machine;
+- (b) it is for the time being propelled by a person on foot;
+- (c) it is a vehicle brought temporarily into Great Britain by a person resident outside the United Kingdom which has not remained in the United Kingdom for a period of more than one year from the date it was last brought into the United Kingdom; or
+- (d) that person is in the armed forces of the Crown, is on duty and is wearing an eye protector supplied to him as part of his service equipment.
+
+Signed by authority of the Secretary of State
+
+Larry Whitty
+
+Parliamentary Under Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+3rd March 1999
+
+## SCHEDULE — REVOCATIONS[^key-7a6a9ffc1a23445adbe826e690f1338d]
+
+Regulation 3
+
+<table>
+<thead>
+<tr><th>(1)</th><th>(2)</th></tr>
+<tr><th>Regulations revoked</th><th>References</th></tr>
+</thead>
+<tbody>
+<tr><td>The Motor Cycles (Eye Protectors) Regulations 1985</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1985/1593">1985/1593</a></td></tr>
+<tr><td>The Motor Cycles (Eye Protectors) (Amendment) Regulations 1987</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1987/675">1987/675</a></td></tr>
+<tr><td>The Motor Cycles (Eye Protectors) (Amendment) Regulations 1988</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1988/1031">1988/1031</a></td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and consolidate with amendments the Motor Cycles (Eye Protectors) Regulations 1985 and their amending instruments (the “1985 Regulations”).
+
+Regulation 4 prescribes certain types of eye protectors as authorised for use by persons driving or riding on a motor bicycle. The eye protectors are so prescribed by reference to–
+
+- (a) conformity with certain grades within certain British Standards;
+- (b) conformity with any other standard accepted by a European Economic Area (“EEA”) State which offers in use equivalent levels of safety, suitability and fitness for purpose;
+- (c) conformity with the requirements of Council Directive [89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) as amended by Council Directives [93/68/EEC](https://www.legislation.gov.uk/european/directive/1993/0068), [93/95/EEC](https://www.legislation.gov.uk/european/directive/1993/0095) and [96/58/EEC](https://www.legislation.gov.uk/european/directive/1996/0058) (the relevant technical specification either being the harmonised European Standard (EN 1938: 1998 *Personal eye protection—Goggles for motorcycle and moped users*), or a technical specification verified as meeting the requirements of the Directive by a body approved to do so under the Directive); or
+- (d) in relation to eye protectors first used before 1st April 1989 conformity with the requirements specified in regulation 4(1)(c).
+
+In the context of (b) “equivalent levels” means levels which are the same or greater in respect of the factors specified.
+
+An eye protector that conforms to the prescribed British standard or any other standard accepted by an EEA State must be marked with the relevant standard with which it conforms and an approved certification mark of an approved body. The 1985 Regulations did not prescribe types of eye protector by reference to standards accepted by EEA States, or by reference to Council Directive [89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) (as amended).
+
+The types of eye protector specified in paragraph (1) of regulation 4 are not prescribed for use by persons falling within paragraph (4) and no type is prescribed for these persons.
+
+These Regulations have been notified to the European Commission pursuant to Directive [83/189/EEC](https://www.legislation.gov.uk/european/directive/1983/0189) of 28th March 1983 laying down a procedure for the provision of information in the field of technical standards and regulations (O.J. 1983 No. L109, p.9) as amended by Council Directive [88/182/EEC](https://www.legislation.gov.uk/european/directive/1988/0182) of 22nd March 1988 (O.J. 1988 No. L81, p.75) and European Parliament and Council Directive [94/10/EEC](https://www.legislation.gov.uk/european/directive/1994/0010) of 23rd March 1994 (O.J. 1994 No. L100, p.30). Since notification to the European Commission in accordance with this procedure, Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of 22nd June 1998 laying down a procedure for the provision of information in the field of technical standards and regulation (O.J. 1998 No. L204, p.37) has come into force. By virtue of article 13 and Part A of Annex III to Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034), Directive [83/189/EEC](https://www.legislation.gov.uk/european/directive/1983/0189) and its amendments have been repealed. As the required notification to the European Commission has already taken place, notification pursuant to the new Directive is not necessary.
+
+The requirements set out in sub-paragraph (1)(b) of regulation 4 apply only to motorcyclists' goggles. The Personal Protective Equipment (EC Directive) Regulations 1992 (S.I. [1992/3139](https://www.legislation.gov.uk/uksi/1992/3139)) amended by [1993/3074](https://www.legislation.gov.uk/uksi/1993/3074), [1994/2326](https://www.legislation.gov.uk/uksi/1994/2326) and [1996/3039](https://www.legislation.gov.uk/uksi/1996/3039) have the effect of requiring all motorcyclists' goggles which are placed on the market to meet these requirements.
+
+The requirements for every person driving or riding (otherwise than in a side-car) on a motor bicycle on a road to wear protective headgear are contained in the Motor Cycles (Protective Helmets) Regulations 1998 (S.I. [1998/1807](https://www.legislation.gov.uk/uksi/1998/1807)).
+
+The British Standards and amendments may be obtained from any outlet operated by the British Standards Institution (BSI) or by post from BSI at 389 Chiswick High Road, London W4 4AL (Telephone number: 0181 996 9000).
+
+Copies of the Council Directives and Regulations referred to in these Regulations and this Explanatory Note can be obtained from the Stationery Office.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^key-6338eaca6f912ea5808b630366ab6d32]: Commencement: Reg. 1 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
+
+[^key-440646954ece7d0e1c2d324c90f6b8ad]: Commencement: Reg. 2 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
+
+[^key-03093256a5075b70500658d29b8fb0bd]: Textual amendment: Reg. 2(aa)-(aaaa) inserted (30.6.2000) by [The Motor Cycles (Eye Protectors) (Amendment) Regulations 2000 (S.I. 2000/1489)](https://www.legislation.gov.uk/uksi/2000/1489), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1489/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2000/1489/regulation/2)
+
+[^f00002]: Footnote: Cm 2073 and 2183.
+
+[^key-f2ea94991dd2c973202b6314da94f33e]: Commencement: Reg. 3 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
+
+[^key-b68cb22bfa416f9bfa8045896ead29e2]: Commencement: Reg. 4 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
+
+[^key-ba6c770e8c9df8ccfd8702da2d4c0754]: Textual amendment: Reg. 4(1)(aa) inserted (30.6.2000) by [The Motor Cycles (Eye Protectors) (Amendment) Regulations 2000 (S.I. 2000/1489)](https://www.legislation.gov.uk/uksi/2000/1489), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1489/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/1489/regulation/3/2)
+
+[^f00003]: Footnote: O.J. No. L399, 30.12.89, p. 18.
+
+[^f00004]: Footnote: O.J. No. L220, 30.8.93, p. 1.
+
+[^f00005]: Footnote: O.J. No. L276, 9.11.93, p. 11.
+
+[^f00006]: Footnote: O.J. No. L236, 18.9.96, p. 44.
+
+[^key-7a6a9ffc1a23445adbe826e690f1338d]: Commencement: Sch. in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)

@@ -1,0 +1,952 @@
+---
+title: The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006
+id: uksi/2006/207
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-02-01'
+text_date: '2024-11-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/207
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/207/pdfs/uksiem_20060207_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/207/pdfs/uksi_20060207_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/207/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006
+
+> Text as at 2024-11-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2006 No. 207
+
+INCOME TAX
+
+The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006
+
+Made
+
+1st February 2006
+
+Laid before the House of Commons
+
+2nd February 2006
+
+Coming into force
+
+6th April 2006
+
+The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the powers conferred upon them by paragraphs 3(2), (5) and (6), 4(2) and (4), 7, 12 and 19 of Schedule 34 to the Finance Act 2004[^f00001], make the following Regulations:
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and interpretation[^key-e18639a29277578b76e242cdb2494fb4]
+
+(1) These Regulations may be cited as the Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 and shall come into force on 6<sup>th</sup> April 2006.
+
+(2) In these Regulations—
+
+- “the Act” means the Finance Act 2004 any reference (without more) to a numbered section or Schedule is a reference, as the case requires, to the section of, or Schedule to, the Act which bears that number;
+- [^key-cedfe1510ee95bd33e666308348886c0]...
+- “recognised overseas pension scheme” has the meaning given by section 150(8); and
+- “relevant non-UK scheme” has the same meaning given by paragraph 1(5) of Schedule 34.
+- “Ring-fenced transfer fund” and “ring-fenced taxable asset transfer fund” have the meaning given in regulations 3B and 3C respectively.[^key-b03f3e2dc0889aeb965013f3d7a4b8f3]
+- “taxable property” has the meaning in Schedule 29A to the Act;[^key-d8672d39bfd66e26b358788a11aa228a]
+- “taxable property provisions” has the meaning in paragraph 1(3) of that Schedule; and
+- “transfer member” of a scheme has the meaning in paragraph 1(8) of Schedule 34 to the Act.
+
+## PART 2 — Application and computation of UK tax charges
+
+### 2. Computation of a member’s UK tax-relieved fund under a relevant non-UK scheme[^key-c22c2cf13a0dce47c5626cd3ca7ffeb1]
+
+The amount of a member’s UK tax-relieved fund under a relevant non-UK scheme is the aggregate of—
+
+- (a) the amounts which, for each tax year before that in which the computation falls to be made, would have been arrived at in relation to arrangements under the relevant non-UK scheme relating to the individual as pension input amounts under sections 230 to 238 of the Act (annual allowance) as they apply by virtue of paragraph 8 of Schedule 34 to the Act, and
+- (b) the amount which would be so arrived at if the period beginning with 6<sup>th</sup> April of the tax year in which the computation falls to be made; and ending immediately before the making of the computation, were a tax year,
+
+assuming that section 229(3) did not apply.
+
+### 3. Computation of a member’s relevant transfer fund[^key-b85ca6595871188654d9d63ea20ddff9]
+
+(1)[^key-37d81d8e60ed31b3f29763da28c7b689] The amount of a member’s relevant transfer fund under a relevant non-UK scheme (that scheme being referred to here as “the RNUKS”) is the sum of—
+
+- (a) the amount crystallised [^key-0a95c5e14462863f434f3897a82e7a8f]... on the transfer from a UK registered pension[^key-c1020085074ed56d530d8e4734fc56a4] scheme to the RNUKS; and
+- (b) so much of the member’s UK tax-relieved fund under any other relevant non-UK scheme as has been transferred to the RNUKS but has not been subject to the unauthorised payments charge; and
+- (c) so much of the member’s relevant transfer fund under any other relevant non-UK scheme as has been transferred to the RNUKS—
+  - (i) without being subject to the unauthorised payments charge; [^key-d14f104bc680e8cfe66d02e866893c57]...
+  - (ii)[^key-d14f104bc680e8cfe66d02e866893c57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-42b66b53f86913510085bf09c04bd335] For the purposes of this regulation, the “amount crystallised” on a transfer from a UK registered scheme to a relevant non-UK scheme is the aggregate of the amount of any sums transferred and the market value of any assets transferred.
+
+### 3A. Computation of a member’s taxable asset transfer fund[^key-e0a95b5e05ad6b406003feb9f462a4c5]
+
+(1) The amount of a member’s taxable asset transfer fund under a relevant non-UK scheme (“the RNUKS”) is the sum of—
+
+- (a) the amount crystallised [^key-f34dd1a903649bbff683e193de8a398f]... on the transfer from a UK registered pension scheme to the RNUKS; and
+- (b) so much of the member’s taxable asset transfer fund under any other relevant non-UK scheme as has been transferred to the RNUKS without being subject to the unauthorised payments charge.
+
+(2) Accordingly, the member’s taxable asset transfer fund (“TATF”) shall form part of the member’s relevant transfer fund (“RTF”), except in a case where the member’s RTF consists solely of a UK tax-relieved fund which has been transferred to the RNUKS.
+
+(3)[^key-4b86c2864b80644b559d8351c83f3440] For the purposes of this regulation, the “amount crystallised” on a transfer from a UK registered pension scheme to a relevant non-UK scheme is the aggregate of the amount of any sums transferred and the market value of any assets transferred.
+
+### 3B. Computation of the member’s ring-fenced transfer fund[^key-b62d57edf54de264b37801eaa8d3b10a]
+
+The amount of a member’s ring-fenced transfer fund (“RFTF”) under a RNUKS is the aggregate of the sums and market value of the assets transferred as a result of the original relevant transfer or subsequent relevant transfer as has been transferred to the RNUKS without being subject to the unauthorised payments charge.
+
+### 3C. Computation of the member’s ring-fenced taxable asset transfer fund
+
+The amount of the member’s ring-fenced taxable asset transfer fund (“RFTATF”) under a RFTF in a RNUKS is the sum of—
+
+- (a) the aggregate of the sums and market value of the assets transferred as a result of an original relevant transfer from a registered pension scheme to that RNUKS, and
+- (b) so much of the member’s RFTATF under any other RNUKS as has been transferred to that RNUKS without being subject to the unauthorised payments charge.
+
+### 4. Attributing payments to particular funds under a relevant non-UK scheme[^key-55f72bb784911956d7339a3410e87e87]
+
+(1) This regulation applies to determine to which part of a relevant non-UK scheme a payment to, or in respect of, a member made before 6th April 2017[^key-62d02957acb87b7c9d28f5ecd83d6f39] is referable.
+
+(2) It shall be assumed that—
+
+- (a) payments made by the scheme to or in respect of the member are made out of the member’s UK tax-relieved fund in priority to any other fund under that scheme; and
+- (b) the amount of the member’s UK tax-relieved fund is reduced (but not below nil)[^key-3f238f440e44094ef12b259a36ea6666] by the amount paid out of the scheme.
+
+(3) If the member’s UK tax-relieved fund is nil, or has been reduced to nil, the following Rules apply (with an earlier Rule applying in preference to a later Rule).[^M_F_2288226e-41ee-4180-eb31-c8dd27a1f971]
+
+- *Rule 1*
+
+  Where an unauthorised payment is treated as made by the scheme to the transfer member by virtue of section 174A—
+
+  - (a) the payment shall be treated as made out of the member’s RTF and TATF, but
+  - (b) the interest in taxable property, in respect of which the unauthorised payment is treated as made, shall represent the payment and form part of the member’s RTF and TATF (an “appropriated asset”), up to an amount equal to the amount of that payment.
+- *Rule 2*
+
+  Accordingly, if a scheme transfers that appropriated asset (or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly), or part of it, to another pension scheme, that transfer shall be treated as a transfer of the whole or part, as the case may be, of the member’s RTF and TATF (limited to the amount of the unauthorised payment) to that other scheme, falling (if appropriate) within regulation 3A(1)(b).
+- *Rule 3*
+
+  If a scheme disposes of (other than to another pension scheme) an appropriated asset (or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly), or part of it, any other property which directly or indirectly represents proceeds of either of those interests (limited to the amount of the unauthorised payment) shall form part of the member’s RTF and TATF.
+- *Rule 4*
+
+  This Rule applies to payments made by the scheme to or in respect of the member, other than—
+
+  - (a) a transfer of an interest in taxable property or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly, and
+  - (b) payments treated as made by virtue of section 174A.
+
+  So far as the member’s RTF and TATF are not represented by appropriated assets—
+
+  - (a) where the member has both an RTF and a TATF, and the amount of his RTF exceeds the amount of his TATF, such payments shall, to the extent of that excess, be treated as made out of his RTF (but not his TATF) and as reducing the RTF, and subject thereto
+  - (b) such payments are made out of the member’s RTF and TATF in priority to any other fund under that scheme, and reduce (but not below nil) the amount of the RTF and TATF.
+
+(3A)[^key-59ff431bf41231bf6935ffccab2996fa] If both the member’s UK tax-relieved fund and RTF are nil, or have been reduced to nil, the following Rules apply (with an earlier Rule applying in preference to a later Rule), subject to the provisions in paragraph (3B).
+
+Rule 1
+
+Where an unauthorised payment is treated as made by the scheme to the transfer member by virtue of section 174A—
+
+- (a) the payment shall be treated as made out of the member’s RFTF and RFTATF, but
+- (b) the interest in taxable property, in respect of which the unauthorised payment is treated as made, shall represent the payment and form part of the member’s RFTF and RFTATF (an “appropriated asset”), up to an amount equal to the amount of that payment.
+
+Rule 2
+
+Accordingly, if a scheme transfers that appropriated asset (or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly), or part of it, to another pension scheme, that transfer shall be treated as a transfer of the whole or part, as the case may be, of the member’s RFTF and RFTATF (limited to the amount of the unauthorised payment) to that other scheme, falling (if appropriate) within regulation 3C(b).
+
+Rule 3
+
+If a scheme disposes of (other than to another pension scheme) an appropriated asset (or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly), or part of it, any other property which directly or indirectly represents proceeds of either of those interests (limited to the amount of the unauthorised payment) shall form part of the member’s RFTF and RFTATF.
+
+Rule 4
+
+This rule applies to payments made by the scheme to or in respect of the member, other than—
+
+- (a) a transfer of an interest in taxable property or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly, and
+- (b) payments treated as made by virtue of section 174A.
+
+So far as the member’s RFTF and RFTATF are not represented by appropriated assets—
+
+- (a) where the member has both an RFTF and RFTATF, and the amount of their RFTF exceeds the amount of his RFTATF, such payments shall, to the extent of that excess, be treated as made out of their RFTF (but not their RFTATF) and as reducing the RFTF, and subject thereto
+- (b) such payments are made out of the member’s RFTF and RFTATF in priority to any other fund under that scheme, and reduce (but not below nil) the amount of the RFTF and RFTATF.
+
+(3B) Where a member has more than one RFTF under the RNUKS, paragraph (3A) applies in order of priority from the RFTF with the earliest key date to the RFTF with the latest key date.
+
+(4)[^M_F_55ebabba-98db-4438-d6e3-507521e0d989] In paragraphs (3) and (3A)[^key-538c0d6694a489a40a8c0c58546fb2b8], references to payments made or treated as made by virtue of section 174A include references to payments treated as made by regulations under paragraph 37 of Schedule 29A, or paragraph 7A of Schedule 34, to the Act.
+
+### 4ZA. Fund depletion[^key-8965ea426b5b7fcd9cddcef5629e2693]
+
+(1) This regulation applies to determine when a member’s UK tax-relieved fund, RTF, taxable asset transfer fund (“TATF)”, RFTF and RFTATF will be reduced.
+
+(2) In this regulation, and in regulations 4ZB to 4ZF, for the purposes of determining if a payment is of a particular type, a RNUKS is to be treated as a registered pension scheme.
+
+(3) The funds referred to in paragraph (1) will be reduced when—
+
+- (a) the following payments are made (or treated as made under Part 4 of the Act) on or after 6th April 2017 to or in respect of a member—
+  - (i) an unauthorised payment,
+  - (ii) a recognised transfer,
+  - (iii) the purchase of a lifetime annuity where the member has reached normal minimum pension age or meets the ill-health condition,
+  - (iv) the purchase of a lifetime annuity where the member has not reached normal minimum pension age and does not meet the ill-health condition and the contract does not provide for payment, and is not able to be amended to provide for payment before normal minimum pension age (unless the ill-health condition is met),
+  - (v) the purchase of a dependants’ or nominees’ annuity,
+  - (vi) a payment pursuant to a pension sharing order or provision,
+  - (vii) a defined benefits lump sum death benefit,
+  - (viii) an uncrystallised funds lump sum death benefit,
+  - (ix) so much of a charity lump sum death benefit paid from a relevant uncrystallised fund as defined in paragraph 15(2) of Schedule 29,
+  - (x) a payment that is an authorised lump sum payment under section 166,
+  - (xi) an authorised lump sum under regulations 11, 11A or 12 of the Registered Pension Schemes (Authorised Payments) Regulations 2009,
+  - (xii) a tax liability of the scheme manager, and
+- (b) the following crystallisation events occur on or after 6th April 2017—
+  - (i) an individual, who has reached normal minimum pension age or meets the ill-health condition, designates sums or assets held for the purposes of a money purchase arrangement as available for payment of a drawdown pension to that individual,
+  - (ii) the designation of sums or assets as available for the payment of dependants’ drawdown pension or nominees’ drawdown pension following the death of the member,
+  - (iii) an individual, who has reached normal minimum pension age or meets the ill-health condition, becomes entitled to a scheme pension the member’s funds will be reduced on the first date of payment of that scheme pension,
+  - (iv) an individual becoming entitled to a dependants’ scheme pension following the death of a member.
+
+### 4ZB. Payment and crystallisation valuation
+
+(1) The member’s funds will be reduced by the amount of the payment set out in regulation 4ZA(3)(a), subject to paragraphs (2) to (4).
+
+(2) Where the payment is the purchase of a dependants’ or nominees’ annuity, the amount of the payment that reduces the member’s funds is the amount of such of the sums and market value of such of the assets applied to purchase the annuity that are unused uncrystallised funds as defined in paragraphs 27E(4) and (5) of Schedule 28.
+
+(3) Where the payment is a—
+
+- (a) trivial commutation lump sum,
+- (b) winding-up lump sum, or
+- (c) lump sum authorised under regulations 11, 11A or 12 of the Registered Pension Schemes (Authorised Payments) Regulations 2009,
+
+the amount of the payment that reduces the member’s funds is so much of that lump sum as was provided from uncrystallised rights under the scheme.
+
+(4) Where the payment is made pursuant to a pension sharing order or provision, the amount of the payment that reduces the member’s funds is so much of the pension debit that derives from uncrystallised rights as defined by section 212.
+
+(5) For a crystallisation event described in regulation 4ZA(3)(b)(i), the member’s funds are reduced by the aggregate of the amount of the sums and market value of the assets so designated.
+
+(6) For a crystallisation event described in regulation 4ZA(3)(b)(ii), the member’s funds are reduced by the amount of newly-designated dependant funds or newly-designated nominee funds that are unused uncrystallised funds (as defined in paragraphs 27E(4) and (5) of Schedule 28).
+
+(7) Where an individual becomes entitled to a scheme pension the amount of the reduction is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2006/207)
+
+where P is the amount of the pension which will be payable to the individual in the period of 12 months beginning with the day on which the individual becomes entitled to it (assuming it remains payable throughout that period at the rate at which it is payable on that day).
+
+(8) Where the individual becomes entitled to a dependants’ scheme pension, subject to paragraphs (9) and (10), the amount of the reduction is the aggregate of—
+
+- (a) the amount of such of the sums held for the purposes of the pension scheme; and
+- (b) the market value of such of the assets held for the purposes of the pension scheme
+
+as are applied in (or in connection with) the purchase or provision of a dependants’ scheme pension.
+
+(9) If the dependants’ scheme pension is related to the member’s scheme pension (in accordance with section 278B[^key-52629a0034aa63965487f374767e429f]) then the amount of the deduction is nil.
+
+(10) If the dependants’ scheme pension is funded (in whole or in part) by the application of sums or assets representing the whole or part of—
+
+- (a) the member’s drawdown pension fund,
+- (b) the member’s flexi-access drawdown fund,
+- (c) the dependant’s drawdown fund, or
+- (d) the dependant’s flexi-access drawdown fund
+
+the aggregate of the amount of those sums and the market value of those assets is to be deducted from the amount found at paragraph (8).
+
+### 4ZC. Order of attributing payments
+
+(1) This regulation applies to determine which part of a RNUKS a payment to, or in respect of, a member, or a crystallisation event referred to in regulation 4ZA(3)(b) is referable.
+
+(2) In this regulation a references to “payment” includes payments treated as made under Part 4 of the Act.
+
+(3) It is assumed that, subject to the provisions in paragraphs (4) and (5), payments made by the scheme to or in respect of the member, and crystallisation events described in regulation 4ZA(3)(b), are made out of the member’s funds in the following order of priority—
+
+- (a) so much of the member’s UK tax-relieved funds made under the scheme before 6th April 2017,
+- (b) the member’s RTF,
+- (c) the member’s RFTF with a key date of 5th April 2017 or earlier and where the member has more than one such fund the payment is referable in priority of the RFTF with the earliest key date to the latest key date,
+- (d) so much of the member’s UK tax-relieved funds made under the scheme on or after 6th April 2017,
+- (e) the member’s RFTF with a key date of 6th April 2017 or later, in priority of the RFTF with the earliest key date to the latest key date,
+- (f) any other funds under the scheme.
+
+(4) If the payment is a transfer, to the extent that the transfer is not a payment treated as made by virtue of section 174A, it is made out of the member’s fund in the following order of priority—
+
+- (a) the member’s RFTF made under the scheme (including such funds with a key date of before 6th April 2017) in priority of the latest key date to the earliest key date of the fund,
+- (b) so much of the member’s UK tax-relieved funds’ made under the scheme before 6th April 2017,
+- (c) the member’s RTF,
+- (d) so much of the member’s UK tax-relieved funds’ made under the scheme on or after 6th April 2017,
+- (e) any other funds under that scheme.
+
+(5) If the payment is a transfer, to the extent that the transfer is a payment treated as made by virtue of section 174A, it is attributed in the following order of priority—
+
+- (a) the member’s RFTATF and RFTF in priority of the RFTF with the latest key date to the earliest key date of the fund,
+- (b) if the RFTATF is nil, the member’s RTF and TATF.
+
+(6) If the payment is an unauthorised payment by virtue of section 174A, or a payment other than a transfer, treated as made by virtue of section 174A, it is treated as referable to the member’s funds in the following order of priority—
+
+- (a) the payment shall first be treated as referable to the member’s RTF and TATF,
+- (b) if the member’s TATF is nil, or has been reduced to nil, the payment shall be treated as referable to the member’s RFTF, in priority of the RFTF with the earliest key date to the latest key date, and the RFTATF.
+
+(7) Where a payment or crystallisation event described in regulation 4ZA(3)(b) is referable to the member’s RTF or TATF, the funds will be reduced in accordance with the following Rules (with an earlier Rule applying in preference to a later Rule).
+
+Rule 1
+
+Where an unauthorised payment is made by the scheme by virtue of section 174A—
+
+- (a) the payment shall be treated as made out of the member’s RTF and TATF, but
+- (b) the interest in taxable property, in respect of which the unauthorised payment is treated as made, shall represent the payment and form part of the member’s RTF and TATF (an “appropriated asset”), up to an amount equal to the amount of the payment.
+
+Rule 2
+
+Accordingly, if a scheme transfers that appropriated asset (or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly), or part of it, to another pension scheme, that transfer will be treated as a transfer of the whole or part, as the case may be, of the member’s RTF and TATF (limited to the amount of the unauthorised payment) to that other scheme, falling (if appropriate) within regulation 3A(1)(b).
+
+Rule 3
+
+If a scheme disposes of (other than to a pension scheme) an appropriated asset (or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly), or part of it, any other property which directly or indirectly represents proceeds of either of those interests (limited to the amount of the unauthorised payment) will form part of the member’s RTF and TATF.
+
+Rule 4
+
+This rule applies to crystallisation events and payments made by the scheme to or in respect of the member, other than—
+
+- (a) a transfer of an interest in taxable property or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly, and
+- (b) payments treated as made by virtue of section 174A.
+
+So far as the member’s RTF and TATF are not represented by appropriated assets—
+
+- (a) where the member has both an RTF and a TATF, and the amount of his RTF exceeds the amount of his TATF, such payments shall, to the extent of that excess, be treated as made out of his RTF (but not his TATF) and as reducing his RTF, and subject thereto
+- (b) such payments are made out of the member’s RTF and TATF in priority to any other fund under that scheme, and reduce (but not below nil) the amount of the RTF and TATF.
+
+(8) Where the payment or crystallisation event described at regulation 4ZA(3)(b) is referable to a member’s RFTF or RFTATF, the funds shall be reduced in accordance with the following Rules (with an earlier Rule applying in preference to a later Rule).
+
+Rule 1
+
+Where an unauthorised payment is treated as made by the scheme by virtue of section 174A—
+
+- (a) the payment will be treated as made out of the member’s RFTF and RFTATF, but
+- (b) the interest in taxable property, in respect of which the unauthorised payment is treated as made, will represent the payment and form part of the member’s RFTF and RFTATF (an “appropriated asset”), up to an amount equal to the amount of that payment.
+
+Rule 2
+
+Accordingly, if a scheme transfers that appropriated asset (or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly), or part of it, to another pension scheme, that transfer shall be treated as a transfer of the whole or part, as the case may be, of the member’s RFTF and RFTATF (limited to the amount of the unauthorised payment) to that other scheme, falling (if appropriate) within regulation 3C(b).
+
+Rule 3
+
+If a scheme disposes (other than to another pension scheme) of an appropriated asset (or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly), or part of it, any other property which directly or indirectly represents proceeds of either of those interests (limited to the amount of the unauthorised payment) will form part of the member’s RFTF and RFTATF.
+
+Rule 4
+
+This Rule applies to crystallisation events and payments made by the scheme to or in respect of the member, other than—
+
+- (a) a transfer of an interest in taxable property or an interest in a vehicle through which the scheme holds the interest in the taxable property indirectly, and
+- (b) payments treated as made by virtue of section 174A.
+
+So far as the member’s RFTF and RFTATF are not represented by appropriated assets—
+
+- (a) where the member has both an RFTF and RFTATF, and the aggregate amount of his RFTFs exceeds the amount of his RFTATF, such payments will, to the extent of that excess, be treated as made out of his RFTF (but not his RFTATF) and as reducing the RFTF, and subject thereto
+- (b) such payments are made out of the member’s RFTF and RFTATF and reduce (but not below nil) the amount of the RFTF and RFTATF.
+
+(9) References to “payments treated as made by virtue of section 174A” include references to payments treated as made by regulations under paragraph 37 of Schedule 29A and paragraph 7A of Schedule 34.
+
+### 4ZD. Reversal of fund depletion
+
+(1) Where—
+
+- (a) a scheme makes a transfer, and
+- (b) the member’s funds have been previously reduced by a crystallisation event described in regulation 4ZA(3)(b),
+
+then immediately before the transfer the amount calculated in accordance with paragraph (3) will be attributed back to the member’s funds in accordance with the order provided by regulation 4ZC(4).
+
+(2) Where—
+
+- (a) the scheme receives a transfer,
+- (b) after receipt of that transfer the member’s funds have been reduced by a crystallisation event set out in regulation 4ZA(3)(b), and
+- (c) the transfer is one required by section 244B and 244C to be initially assumed to be excluded by that section but, after the member’s funds have been reduced by a crystallisation event set out in regulation 4ZA(3)(b), an event occurring before the end of the relevant period means that the transfer is not so excluded
+
+then immediately before the event causing the transfer to be not excluded from the overseas transfer charge the amount to be calculated in accordance with paragraph (3) will be attributed back to the member’s funds in accordance with the order provided by regulation 4ZC(4).
+
+(3) The amount to be attributed back to the member’s funds under paragraphs (1) and (2) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2006/207)
+
+- Where
+
+A is the amount (being not less than nil) found under regulation 4ZB(5) less the aggregate amount of drawdown pension paid from that flexi-access drawdown fund,
+
+B is the amount (being not less than nil) found under regulation 4ZB(7) less the aggregate amount of the scheme pension payments made to the member, and
+
+C is the amount of any pension debit paid from that flexi-access drawdown fund, or sums and assets that have been applied towards the provision of scheme pension, on or after 6th April 2017.
+
+(4) Where—
+
+- (a) the scheme is treated as making an unauthorised payment in accordance with paragraph 2A of Schedule 28, and
+- (b) the member’s funds have previously been reduced in accordance with regulation 4ZA(3)(b)(iii)
+
+then immediately before the payment the amount calculated in accordance with paragraph (6) will be attributed back to the member’s funds in accordance with paragraph (7).
+
+(5) Where—
+
+- (a) the member’s funds have been reduced in accordance with regulation 4ZA(3)(b)(iii), and
+- (b) no scheme pension has been paid in a period of 12 months for any reason, other than the death of the member or a recognised transfer
+
+the amount calculated in accordance with paragraph (6) will be attributed back to the member’s funds in accordance with paragraph (7) on the first anniversary of the last payment of the scheme pension.
+
+(6) The amount to be attributed back to the member’s funds under paragraphs (4) and (5)—
+
+- (a) is the amount found in regulation 4ZB(7) less the aggregate amount of the scheme pension payments made to the member and the amount of any pension debit paid from sums and assets that had been applied towards the provision of that scheme pension, but
+- (b) this amount cannot be below nil.
+
+(7) The amount calculated in accordance with paragraph (6) will, subject to paragraph (9), be attributed back in the following order of priority—
+
+- (a) to the member’s RFTF, in priority of the RFTF with the latest key date to the earliest key date. The aggregate amount attributed back to the member’s RFTF will also be attributed back to the member’s RFTATF,
+- (b) to so much of the member’s UK tax-relieved funds made under the scheme on or after 6th April 2017,
+- (c) to the member’s RTF and TATF,
+- (d) to so much of the member’s UK tax-relieved funds made under the scheme before 6th April 2017.
+
+(8) Where a person is temporarily non-resident and the total amount of withdrawals as set out in section 576A(2) of the Income Tax (Earnings and Pensions) Act 2003 in a temporary period of non-residence exceeds £100,000, for the purposes of section 576A, regulation 4ZA(3)(b) does not apply.
+
+(9) The amount attributed back to a fund will not increase the value of the relevant fund found in accordance regulations 2, 3, 3A, 3B and 3C.
+
+### 4ZE. Order of attributing repayment of an overseas transfer charge
+
+Any repayment of an overseas transfer charge to a scheme manager will be attributed back to the particular fund or funds from which it was referable.
+
+### 4ZF. Transitional Provisions
+
+(1) This regulation applies where the member designated sums and assets as available for payment of a drawdown pension, or became entitled to a scheme pension, before 6th April 2017.
+
+(2) The payment of the drawdown pension made on or after 6th April 2017 from a flexi-access drawdown fund or drawdown pension fund, to the extent that it relates to the designation made before 6th April 2017, is to be treated as included in the list of payments in regulation 4ZA(3)(a).
+
+(3) The payment of the scheme pension made on or after 6th April 2017 and from sums and assets applied before 6th April 2017 towards the provision of the scheme pension is to be treated as included in the list of payments in regulation 4ZA(3)(a).
+
+(4) Where a payment described in paragraphs (2) or (3) is made, the member’s funds will be reduced by the amount of the payment in the order provided by regulation 4ZC(3).
+
+(5) Where a pension debit is made in respect of sums and assets—
+
+- (a) designated before 6th April 2017 as available for payment of a drawdown pension, or
+- (b) applied before 6th April 2017 towards the provision of a scheme pension,
+
+regulation 4ZB(4) is treated as including the amount of the pension debit that derives from those funds.
+
+(6) Regulation 4ZD does not apply in respect of any sums and assets—
+
+- (a) designated before 6th April 2017 for the payment of a drawdown pension, or
+- (b) applied before 6th April 2017 towards the provision of a scheme pension.
+
+### 4A. Taxable property provisions to apply to a transfer member of a relevant non-UK scheme (to payments referable to his taxable asset transfer fund or ring-fenced taxable asset transfer fund)[^key-7c320de21dcbcfb089c7c2ebbf44fe5f][^key-e06475e70c9363a9bdf519f4b627b7f6]
+
+The—
+
+- (a) taxable property provisions, and
+- (b) regulations made under paragraph 37 of Schedule 29A or paragraph 7A of Schedule 34,
+
+apply to a transfer member of a relevant non-UK scheme, in relation to payments treated as made by those provisions or regulations which are referable to the member’s taxable asset transfer fund or RFTATF[^key-33827b1ad598fcf855ec84208d6f3c97] under the scheme, but subject to the modifications in regulations 4B to 4D.
+
+### 4B. Unauthorised payments charge to apply (in lieu of scheme chargeable payment)
+
+(1) The scheme chargeable payment provisions in sections 185A to 185I shall not apply to a relevant non-UK scheme.
+
+(2) But, during such time as an appropriated asset forms the whole or part of a transfer member’s TATF or RFTATF[^key-20e8074854caa8af67aab17c3a9569ee]—
+
+- (a) the scheme shall be treated as making unauthorised payments to that member equal in amount to the scheme chargeable payments (in respect of income and gains) which would have been computed in accordance with those sections, and
+- (b) the transfer member shall be liable to pay the unauthorised payments charge in respect of such payments.
+
+(3) Where the scheme’s interest in taxable property is not wholly referable to the transfer member’s TATF or RFTATF[^key-17f308aadcfc425a1d2e1565e348de63], the amount of the unauthorised payment shall be proportionately reduced.
+
+### 4C. Modification of paragraph 15 of Schedule 29A
+
+Paragraph 15 of Schedule 29A applies to the transfer member of a relevant non-UK scheme as if “insurance company” included any person—
+
+- (a) resident in a country or territory outside the European Economic Area,
+- (b) whose business consists of, or includes, the effecting or carrying out of contracts of long-term insurance (within the meaning in Part 2 of Schedule 1 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001), and
+- (c) who is regulated in the conduct of that business by—
+  - (i) the government of that country or territory, or
+  - (ii) a body established under the law of that country or territory for the purpose of regulating such business.
+
+### 4D. Modifications of paragraphs 29 and 31 of Schedule 29A
+
+(1) This regulation applies where—
+
+- (a) a relevant non-UK scheme acquires an interest in taxable property;
+- (b) the interest is acquired in the circumstances mentioned in paragraph 32(3), (5) (excluding paragraphs (a) and (b)) or (6) (excluding paragraphs (a) and (b)) of Schedule 29A; and
+- (c) the whole or part of the consideration for the acquisition is rent.
+
+(2) The amount of the consideration (or the part that is rent) shall not be the relevant rental value of the property (as provided by paragraph 34(2) of Schedule 29A).
+
+(3) Each payment of rent (or the aggregate of such payments during a year, if there are more than one) shall be treated, for the purposes of the taxable property provisions, as if the pension scheme or other person who acquired the interest were being granted a lease for the period for which the rent is paid, in consideration of the rent (or aggregate) so paid.
+
+## PART 3
+
+### 5. Modifications to Part 4 of the Finance Act 2004 in respect of relevant non-UK schemes[^key-8773a78fd17c7296ebbf11faf26b1ae6]
+
+Part 4 of the Finance Act 2004 shall be modified in respect of relevant non-UK schemes, within the meaning of paragraph 1(5) of Schedule 34, in accordance with the following provisions of this Part[^key-426117c2b43bc4bc7e6fb399983422f1] .
+
+### 6. Modification of section 165[^key-fe2221b6f0258aa095f560b96056d3c9]
+
+In section 165 (pension rules)—
+
+- (a) in subsection (1), in pension rule 4 omit from “but a scheme pension” to the end, [^key-6ef6c391fcf51ddf6dd3106ac6255adf]...
+- (b)[^key-6ef6c391fcf51ddf6dd3106ac6255adf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Modification of section 167[^key-6a79c085694f3daebfe40015ebcd63b8]
+
+In section 167 (pension death benefit rules)—
+
+- (a) in subsection (1), in pension death benefit rule 3 omit from “but a dependants’ scheme pension” to the end, [^key-eb055a40e4d15e0af4559eb7b6568d98]...
+- (b)[^key-eb055a40e4d15e0af4559eb7b6568d98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Modification of section 227[^key-00cbb723694f0c3a83cb6f06c050ecd7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Modification of section 231[^key-3b85fe1d6e29b0dfe9f255ce9f3f0e32]
+
+In section 231—
+
+- (a)[^key-658976a115d13870ced0a40734aa15bf] in subsection (3) for “the consumer prices index” substitute “the relevant index”; and
+- (b) at the end add—
+
+  > (4)[^key-aaa6b1ab161450f65b2fe0d566c2edc9] In this section “the relevant index” means—
+  >
+  > - (a) if there is an index of the movement of consumer prices maintained, or officially recognised, by the government of the country or territory in which the recognised overseas scheme is established, that index, or
+  > - (b) if there is no such index, the consumer prices index.
+
+  .
+
+### 10. Modification of section 235[^key-eda6927245a0cc36a963d275b65367d9]
+
+In section 235—
+
+- (a)[^key-7b8631d371571d05b55ce738c879b879] in subsection (3) for “the consumer prices index” substitute “the relevant index”; and
+- (b) at the end of the section add—
+
+  > (4)[^key-99521ce665734481303d72be49d640e2] In this section “the relevant index” means—
+  >
+  > - (a) if there is an index of the movement of consumer prices maintained, or officially recognised, by the government of the country or territory in which the recognised overseas scheme is established, that index, or
+  > - (b) if there is no such index, the consumer prices index.
+
+  .
+
+### 11. Modification of section 275[^key-a9a02fb7c4aec7f059d7dcd9810cee53]
+
+(1) In the heading of section 275 at the end add “and Non-EEA annuity provider”.
+
+(2) At the end of the section add—
+
+> (3) In this Part “non-EEA annuity provider” means a person resident in a country or territory outside the European Economic Area—
+>
+> - (a) whose normal business includes the provision of annuities; and
+> - (b) who is regulated in the conduct of that business—
+>   - (i) by the government of that country or territory; or
+>   - (ii) a body established under the law of that country or territory for the purpose of regulating such business.
+
+.
+
+### 12. Modification of section 276[^key-8e57b74da2a9620ccf0126f5f152a987]
+
+In section 276(2) for “scheme administrator” substitute “scheme manager”.
+
+### 13. Modification of section 279[^key-e1a53c68a72a785086f514132efb9cbd]
+
+(1) Section 279(1) shall be modified as follows.
+
+(2) At the appropriate points in the alphabetical list insert—
+
+> - “applicable pension scheme”, in relation to a pension sharing order in respect of a member’s spouse, ex-spouse, civil partner or former civil partner[^key-064b49e8e3a7aaaf747a499b25db9ef8], means a scheme which is—
+>   - (a) a recognised overseas pension scheme within the meaning of this Part; or
+>   - (b) a scheme which is recognised for tax purposes under the law of either the country or territory in which it is situate or that of the country or territory in which the pension sharing order is made;
+
+;[^f00002] and
+
+> - “ex-spouse”, in relation to a member, means the other party to a marriage with the member that has been dissolved or annulled;
+> - “former civil partner” in relation to a member means the other party to a civil partnership with the member that has been dissolved or annulled.[^key-b8abff74f9f6b6f1da9a6d46a69a1dbf]
+
+;
+
+(3) For the definitions of “pension credit” and “pension debit” substitute—
+
+> - “pension credit” and “pension debit” mean respectively the amount by which—
+>   - (a) the entitlement of a member’s spouse, ex-spouse, civil partner or former civil partner[^key-cea9e55318bf1e1c071d0a6f63637248] under an applicable pension scheme, is increased; and
+>   - (b) the entitlement of a member under a qualifying recognised overseas pension scheme is decreased,
+>
+>   pursuant to a pension sharing order;.
+
+.
+
+(4) For the definition of “pension sharing order or provision” substitute—
+
+> - “pension sharing order” means an order of a court, by virtue of which amounts are transferred from a recognised overseas pension scheme of a member to an applicable pension scheme of that member’s spouse, ex-spouse, civil partner or former civil partner[^key-43abcdc582024f86c5584e296e9091d0], in or in connection with proceedings relating to the dissolution or annulment of the marriage or civil partnership[^key-1582475d27b889bfa217c340e94996e5] of the parties;
+
+.
+
+### 14. Modification of Schedule 28[^key-9e4c181933e5c0c0b6678f1489e68b0d]
+
+(1) Schedule 28 is modified as follows.
+
+(2) In paragraph 1—
+
+- (a) in sub-paragraph (a) after “registered medical practitioner” insert “or a recognised medical practitioner”;
+- (b) at the end of the paragraph add—
+
+  > - In this paragraph “recognised medical practitioner” means a medical practitioner practising outside the United Kingdom who is authorised, licensed or registered to practise medicine in the country or territory, outside the United Kingdom, in which either the scheme or the member is resident.
+
+  .
+
+(3) In the following provisions for “scheme administrator” substitute “scheme manager”.
+
+The provisions are—
+
+- (a) paragraph 1(a);
+- (b) paragraph 2 (in each place where the expression occurs);
+- (ba)[^key-5efbe24f9d7d6992b47b4eb214fbb7b7] paragraphs 8C and 8D (in each place where the expression occurs);
+- (c)[^key-16aa92b541513e53e0ab3188a2003373] paragraph 10 (in each place where the expression occurs);
+- (ca)[^key-dd043a87fc776d2ca249ced4b5f7b178] paragraph 10A (in each place where the expression occurs);
+- (cb) paragraph 10B (in each place where the expression occurs);
+- (d) paragraph 13(3);
+- (da)[^key-1d9e9221d3f01f18818b8fdb829f69e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) paragraph 16(1) and (2);
+- (ea)[^key-c36e357139b4241c612308bfa966419b] paragraphs 22C and 22D (in each place where the expression occurs);
+- (f)[^key-76ac1439cae6a39431b775505563ff7d] paragraph 24 (in each place where the expression occurs);
+- (fa)[^key-6f4f75b2f6c72053e3151511bf8031d7] paragraph 24A (in each place where the expression occurs);
+- (fb) paragraph 24B (in each place where the expression occurs);
+- (fc)[^key-d2cb84bfe31cd1c430cf453069ac1107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) paragraph 27(3).
+
+(4) Omit paragraphs 3(1)(b), 6(1)(c), 17(1)(b) and 20(1)(c).
+
+(5) In paragraph 15(2)(b) and (3) omit “, in the opinion of the scheme administrator”.
+
+(6) At the end of the Schedule add—
+
+> **PART 3 — Relevant Non UK Schemes- interpretation**
+>
+> **28. Construction of references to insurance companies**
+>
+> (1) In this Schedule, in its application to a scheme established in a country or territory outside the European Economic Area, any reference to an insurance company includes a non-EEA annuity provider.
+>
+> (2) Section 275(3) defines “non-EEA annuity provider”.
+
+.
+
+### 15. Modification of Schedule 29[^key-11ffec1dbbef10c9e4556f56e9448930]
+
+(1) Schedule 29 is modified as follows.
+
+(1A)[^key-c6259f83772bfbe62352c1eb92497e92] In paragraph 3C (pension commencement excess lump sum)—
+
+- (a) in sub-paragraph (1), after paragraph (c) insert—
+
+  > - (ca) it is not paid from the relevant transfer fund , or ring-fenced transfer fund,[^key-a7f6181744c0cef2e278e4f36f8533f3] of a qualifying recognised overseas pension scheme;
+  > - (cb) it is not paid from the UK tax-relieved fund of a relevant non-UK scheme.
+
+  ;
+- (b) after sub-paragraph (5)[^key-17f00ddfdf91439f880dd5a2a47e3db0] insert—
+
+  > (6)[^key-d298376135617d255c26bb115c1974bf] Expressions used in sub-paragraph (1)(ca) and (cb) have the same meaning as in Schedule 34 (non-UK schemes: application of certain charges).
+
+(1B) In paragraph 4 (serious ill-health lump sum)—
+
+- (a) in sub-paragraph (1)(a)—
+  - (i) for “scheme administrator” substitute “scheme manager”;
+  - (ii) after “registered medical practitioner” insert “or a recognised medical practitioner”;
+- (b) at the end insert—
+
+  > (4) In sub-paragraph (1) “**recognised medical practitioner**” means a medical practitioner practising outside the United Kingdom who is authorised, licensed or registered to practise medicine in the country or territory, outside the United Kingdom, in which either the scheme or the member is resident.
+
+(1C) In paragraph 12A (references to availability of allowances) after sub-paragraph (4) insert—
+
+> (5) Sub-paragraph (6) applies in any case in which it is necessary to determine, for the purposes of—
+>
+> - (a) paragraph 1 (pension commencement lump sum),
+> - (b) paragraph 7 (trivial commutation lump sum), or
+> - (c) paragraph 10 (winding-up lump sum),
+>
+> whether all or part of a transfer member’s lump sum allowance or lump sum and death benefit allowance is available when a lump sum is paid by a recognised overseas pension scheme.
+>
+> (6) Sections 637Q and 637S of ITEPA 2003 (availability of allowances) have effect as if references in those sections to relevant benefit crystallisation events were only to relevant benefit crystallisation events—
+>
+> - (a) occurring in relation to the recognised overseas pension scheme, and
+> - (b) in respect of lump sums referable to the member’s relevant transfer fund (within the meaning given by paragraph 4 of Schedule 34 to FA 2004).
+>
+> (7) In sub-paragraph (5) “**transfer member**” has the meaning given by paragraph 1(8) of Schedule 34 (non-UK schemes).
+
+(2)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4A)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9A)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-d0ea40b9909f76ac78664865c4af7d2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Modification of Schedule 32[^key-509e535eba092a1033bc561ab5fe281e]
+
+In paragraph 11(6) of Schedule 32—
+
+- (a) for “the retail prices index” (in both places) substitute “a relevant index”; and
+- (b) at the end add—
+
+  > - Here “relevant index” means—
+  >   - (a) an index of the movement of retail prices maintained, or officially recognised, by the government of the country or territory in which the recognised overseas scheme is established; or
+  >   - (b) if there is no such index as is mentioned in paragraph (a) of this definition, the retail prices index.
+
+  .
+
+### 17. Modification of Schedule 34[^key-5aa125880ca3708f0b5f318081a29233]
+
+In Schedule 34 after paragraph 19 add—
+
+> **19A. Revenue and Customs discretion**
+>
+> (1) Sub-paragraph (2) applies to—
+>
+> - (a) the member payment provisions to a payment made (or treated by this Part as made) to or in respect of—
+>   - (i) a relieved member of a relevant non-UK scheme, or
+>   - (ii) a transfer member of such a scheme; and[^key-a812785a311cef8b56f016d5046c88d7]
+> - (b) the annual allowance provisions in relation to an individual who is a currently-relieved member of a currently-relieved non-UK scheme; [^key-e43de81519ba59beba100db9cd38a193]...
+> - (c)[^key-e43de81519ba59beba100db9cd38a193] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (2) If it appears to an officer of Revenue and Customs that, by reason of some non-compliance with the requirements set out in this Part, which in the officer’s view does not materially affect the nature of a payment, the payment, or the member in respect of whom it is payable, would be treated less favourably by the strict application of the provisions mentioned in paragraph (1) than in the officer’s view is appropriate, sub-paragraph (3) applies.
+>
+> (3) If this sub-paragraph applies, an officer of Revenue and Customs—
+>
+> - (a) may decide, and
+> - (b) if requested to do so by a member falling within any of the descriptions in paragraphs (a) and (b)[^key-f16188c07870527349a609ffadd21bfc] of sub-paragraph (1), shall decide,
+>
+> whether, notwithstanding the non-compliance referred to in sub-paragraph (2), the treatment which, but for that non-compliance, would have applied under this Part should apply to the payment or the member (as the case may be).
+>
+> This is subject to the qualification in sub-paragraph (4).
+>
+> (4) An officer of Revenue and Customs shall not make a decision under sub-paragraph (3) that, notwithstanding the difference referred to in sub-paragraph (2), the provisions of this Part shall apply to the payment or the member unless—
+>
+> - (a) it appears to the officer that the effect of the decision would be to reduce the total cumulative tax liability in respect of the charges mentioned in subparagraph (1) of the member whose tax liability would be affected by it, taking one year with another;
+> - (b) the officer has first given at least 28 days' notice of his intention to make the decision to the member whose tax liability would be[^key-63e629dbc25798f78dcbde2ae70c0c74] affected by it; and
+> - (c) the member has—
+>   - (i) consented to the making of the decision; or
+>   - (ii) failed to respond to the notice within the period specified in paragraph (b).
+>
+> (5) If an officer of Revenue and Customs decides under sub-paragraph (3) that—
+>
+> - (a) the conditions for the exercise of his discretion under that paragraph are not met; or
+> - (b) the conditions for its exercise are met, but that it is otherwise inappropriate for him to exercise it in favour of the member,
+>
+> the member may appeal against the decision.
+>
+> (6) Subsections (3) to (5) of section 170 apply for the purposes of a decision by an officer of Revenue and Customs under sub-paragraph (3) as they apply to a decision under section 169(5).
+>
+> (7) The Commissioners before whom an appeal under paragraph (5) is brought must consider—
+>
+> - (a) whether the conditions for the exercise of the discretion of an officer of Revenue and Customs have been met; and
+> - (b) if they are satisfied that those conditions have been met, whether the discretion ought to have been exercised in favour of the member.
+>
+> (8) If they decide that the conditions for the exercise of that discretion have not been met, they must dismiss the appeal.
+>
+> (9) If they decide that the conditions for the exercise of that discretion have been met, they must decide whether the discretion ought to have been exercised in favour of the member.
+>
+> (10) If they decide that although the conditions are met, the discretion ought not to have been exercised in favour of the member, they must dismiss the appeal.
+>
+> (11) If they decide that the discretion ought to have been exercised in favour of the member they may so decide and the provisions of this Part shall apply accordingly to the member or the payment in question (as the case may be).
+>
+> (12) A decision under sub-paragraph (8) or (10) is final but subject to any further appeal or any determination on, or in consequence of, a case stated.
+
+.
+
+## Part 4[^key-a69256e2a4ef89370d2c62b0d47c3648]
+
+### 18. Modifications of Chapter 15A of ITEPA 2003 in respect of relevant non-UK schemes[^key-e8f4bad6a3768c1fef0b4b437e558f87]
+
+(1) Paragraph (2) applies where an uncrystallised funds pension lump sum is paid to a transfer member of a recognised overseas pension scheme.
+
+(2) In determining the amount of “**the permitted maximum**” for the purposes of section 637D of ITEPA 2003 (income tax treatment of uncrystallised funds pension lump sums), sections 637Q and 637S of that Act (availability of allowances) have effect as if references to relevant benefit crystallisation events were only to relevant benefit crystallisation events—
+
+- (a) occurring in relation to the recognised overseas pension scheme, and
+- (b) in respect of lump sums referable to the member’s relevant transfer fund (within the meaning given by paragraph 4 of Schedule 34 to FA 2004).
+
+(3) In sub-paragraph (1) “**transfer member**” has the meaning given by paragraph 1(8) of Schedule 34 to FA 2004 (non-UK schemes).
+
+David Varney
+
+Steve Lamey
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+1st February 2006
+
+(This note is not part of the Regulations)
+
+These Regulations serve two purposes. First, they provide a method of computing the amount to be charged to UK tax in respect of a payment by a relevant non-UK pension scheme which is referable to a member’s UK tax-relieved funds and secondly they modify the provisions of Part 4 of the Finance Act 2004 (“the Act”) in its application to relevant non-UK schemes.
+
+Regulation 1 provides for the citation and commencement of the instrument and the interpretation of certain terms used in it.
+
+Regulation 2 provides the method of computing the amount of a member’s UK tax-relieved fund under a relevant non-UK scheme.
+
+Regulation 3 provides the method of computing the amount of a member’s relevant transfer fund under a relevant non-UK scheme.
+
+Regulation 4 provides the rule for attributing payments out of a relevant non-UK scheme which are made to, or in respect of, a member to the member’s UK tax-relieved fund and the relevant transfer fund.
+
+Regulation 5 introduces the modifications to the Part 4 of the Act.
+
+Regulations 6 to 17 make the modifications. The purpose of the modifications is to ensure that the new regime for pensions which are subject to UK taxation set out in Part 4 of the Act works in the context of relevant non-UK schemes as defined in paragraph 1(5) of Schedule 34 to the Act.
+
+Regulation 17 makes a modification to Schedule 34 by inserting a notional paragraph 19A. This provides the Inland Revenue with a discretionary power to mitigate, in relation to relevant non-UK schemes, the charges to tax which would otherwise arise under Part 4 of the Act, if it appears to them that any difference in the operation of the relevant non-UK scheme from that prescribed by Part of the Act is not material, and that it is appropriate to mitigate the effect of the strict rules.
+
+A regulatory impact assessment in respect of the provisions of Part 4 of the Finance Act 2004 and subordinate legislation under it was published by the Board of Inland Revenue on 8 April 2004, and is available on the Inland Revenue website at www.inlandrevenue.gov.uk/ria/simplifying-pensions.pdf or obtained by writing to Inland Revenue, Capital & Savings Ministerial Correspondence Unit, 1st Floor, Ferrers House, PO Box 38, Castle Meadow Road, Nottingham, NG2 1BB.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). The functions of the Commissioners of Inland Revenue, including those under which this instrument is made, were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5 of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^key-e18639a29277578b76e242cdb2494fb4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/207/regulation/1) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-cedfe1510ee95bd33e666308348886c0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/2) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-b03f3e2dc0889aeb965013f3d7a4b8f3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/2) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [5](https://www.legislation.gov.uk/uksi/2018/373/regulation/5)
+
+[^key-d8672d39bfd66e26b358788a11aa228a]: Textual amendment: Words in reg. 1(2) inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [3](https://www.legislation.gov.uk/uksi/2006/1960/regulation/3)
+
+[^key-c22c2cf13a0dce47c5626cd3ca7ffeb1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/207/regulation/2) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-b85ca6595871188654d9d63ea20ddff9]: Commencement: Reg. 3 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-37d81d8e60ed31b3f29763da28c7b689]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-0a95c5e14462863f434f3897a82e7a8f]: Textual amendment: Words in reg. 3(1)(a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/b/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-c1020085074ed56d530d8e4734fc56a4]: Textual amendment: Word in reg. 3(1)(a) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/b/ii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-d14f104bc680e8cfe66d02e866893c57]: Textual amendment: Reg. 3(c)(ii) and word omitted (retrospective to 6.4.2006) by virtue of [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [4](https://www.legislation.gov.uk/uksi/2006/1960/regulation/4/made)
+
+[^key-42b66b53f86913510085bf09c04bd335]: Textual amendment: Reg. 3(2) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(3)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/3/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-e0a95b5e05ad6b406003feb9f462a4c5]: Textual amendment: Reg. 3A inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [5](https://www.legislation.gov.uk/uksi/2006/1960/regulation/5/made)
+
+[^key-f34dd1a903649bbff683e193de8a398f]: Textual amendment: Words in reg. 3A(1)(a) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/4/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-4b86c2864b80644b559d8351c83f3440]: Textual amendment: Reg. 3A(3) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/4/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-b62d57edf54de264b37801eaa8d3b10a]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/uksi/2006/207/regulation/3B) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [6](https://www.legislation.gov.uk/uksi/2018/373/regulation/6)
+
+[^key-55f72bb784911956d7339a3410e87e87]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/207/regulation/4) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-62d02957acb87b7c9d28f5ecd83d6f39]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/1) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [7(a)](https://www.legislation.gov.uk/uksi/2018/373/regulation/7/a)
+
+[^key-3f238f440e44094ef12b259a36ea6666]: Textual amendment: Words in [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4) inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [6](https://www.legislation.gov.uk/uksi/2006/1960/regulation/6/made)
+
+[^M_F_2288226e-41ee-4180-eb31-c8dd27a1f971]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/1) substituted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1), [7](https://www.legislation.gov.uk/uksi/2006/1960/regulation/7)
+
+[^key-59ff431bf41231bf6935ffccab2996fa]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/3A)[(3B)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/3B) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [7(b)](https://www.legislation.gov.uk/uksi/2018/373/regulation/7/b)
+
+[^M_F_55ebabba-98db-4438-d6e3-507521e0d989]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4) inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1), [8](https://www.legislation.gov.uk/uksi/2006/1960/regulation/8)
+
+[^key-538c0d6694a489a40a8c0c58546fb2b8]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4/4) substituted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [7(c)](https://www.legislation.gov.uk/uksi/2018/373/regulation/7/c)
+
+[^key-8965ea426b5b7fcd9cddcef5629e2693]: Textual amendment: [Regs. 4ZA-4ZF](https://www.legislation.gov.uk/uksi/2006/207/regulation/4ZA) inserted (retrospective to 6.4.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/373/regulation/3), [8](https://www.legislation.gov.uk/uksi/2018/373/regulation/8)
+
+[^key-52629a0034aa63965487f374767e429f]: Textual amendment: Words in [reg. 4ZB(9)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4ZB/9) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-7c320de21dcbcfb089c7c2ebbf44fe5f]: Textual amendment: Regs. 4A-4D inserted (retrospective to 6.4.2006) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1960/regulation/1/made), [9](https://www.legislation.gov.uk/uksi/2006/1960/regulation/9/made)
+
+[^key-e06475e70c9363a9bdf519f4b627b7f6]: Textual amendment: Words in [reg. 4A](https://www.legislation.gov.uk/uksi/2006/207/regulation/4A) title inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [9(a)](https://www.legislation.gov.uk/uksi/2018/373/regulation/9/a)
+
+[^key-33827b1ad598fcf855ec84208d6f3c97]: Textual amendment: Words in [reg. 4A](https://www.legislation.gov.uk/uksi/2006/207/regulation/4A) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [9(b)](https://www.legislation.gov.uk/uksi/2018/373/regulation/9/b)
+
+[^key-20e8074854caa8af67aab17c3a9569ee]: Textual amendment: Words in [reg. 4B(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4B/2) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/373/regulation/10)
+
+[^key-17f308aadcfc425a1d2e1565e348de63]: Textual amendment: Words in [reg. 4B(3)](https://www.legislation.gov.uk/uksi/2006/207/regulation/4B/3) inserted (retrospective to 9.3.2017) by [The Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2018 (S.I. 2018/373)](https://www.legislation.gov.uk/uksi/2018/373), [regs. 1](https://www.legislation.gov.uk/uksi/2018/373/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/373/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/373/regulation/10)
+
+[^key-8773a78fd17c7296ebbf11faf26b1ae6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/207/regulation/5) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-426117c2b43bc4bc7e6fb399983422f1]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2006/207/regulation/5) substituted (with effect in accordance with Sch. 1 para. 96(16)(a) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 96(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/2) (with [Sch. 1 para. 96(16)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/16/b))
+
+[^key-fe2221b6f0258aa095f560b96056d3c9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/207/regulation/6) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1795/regulation/3)
+
+[^key-6ef6c391fcf51ddf6dd3106ac6255adf]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/6/b) and word omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
+
+[^key-6a79c085694f3daebfe40015ebcd63b8]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/207/regulation/7) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/1795/regulation/4)
+
+[^key-eb055a40e4d15e0af4559eb7b6568d98]: Textual amendment: [Reg. 7(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/7/b) and word omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
+
+[^key-00cbb723694f0c3a83cb6f06c050ecd7]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/207/regulation/8) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/2)
+
+[^key-3b85fe1d6e29b0dfe9f255ce9f3f0e32]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/207/regulation/9) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-658976a115d13870ced0a40734aa15bf]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2006/207/regulation/9) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/3/a)
+
+[^key-aaa6b1ab161450f65b2fe0d566c2edc9]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2006/207/regulation/9) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/3/b)
+
+[^key-eda6927245a0cc36a963d275b65367d9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/207/regulation/10) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-7b8631d371571d05b55ce738c879b879]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/207/regulation/10) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/4/a)
+
+[^key-99521ce665734481303d72be49d640e2]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/207/regulation/10) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/1751)](https://www.legislation.gov.uk/uksi/2011/1751), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/12/4/b)
+
+[^key-a9a02fb7c4aec7f059d7dcd9810cee53]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/207/regulation/11) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-8e57b74da2a9620ccf0126f5f152a987]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/207/regulation/12) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-e1a53c68a72a785086f514132efb9cbd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/207/regulation/13) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-064b49e8e3a7aaaf747a499b25db9ef8]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/2) substituted for word (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/2/a)
+
+[^f00002]: Footnote: *See*, in relation to overseas schemes recognised for the purposes of Part 4, the Pension Schemes (Categories of Country and Requirements for Overseas Pension Schemes and Recognised Overseas Pension Schemes) Regulations 2004.
+
+[^key-b8abff74f9f6b6f1da9a6d46a69a1dbf]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/2) added (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/2/b)
+
+[^key-cea9e55318bf1e1c071d0a6f63637248]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/3/a) substituted for word (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/3)
+
+[^key-43abcdc582024f86c5584e296e9091d0]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/4) substituted for word (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/4/a)
+
+[^key-1582475d27b889bfa217c340e94996e5]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2006/207/regulation/13/4) inserted (22.2.2007) by [The Tax and Civil Partnership Regulations 2007 (S.I. 2007/493)](https://www.legislation.gov.uk/uksi/2007/493), [regs. 1](https://www.legislation.gov.uk/uksi/2007/493/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2007/493/regulation/3/4/b)
+
+[^key-9e4c181933e5c0c0b6678f1489e68b0d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/207/regulation/14) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-5efbe24f9d7d6992b47b4eb214fbb7b7]: Textual amendment: [Reg. 14(3)(ba)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/ba) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/a), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4) (with [Sch. 1 para. 33(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/5))
+
+[^key-16aa92b541513e53e0ab3188a2003373]: Textual amendment: [Reg. 14(3)(c)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/c) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/2)
+
+[^key-dd043a87fc776d2ca249ced4b5f7b178]: Textual amendment: [Reg. 14(3)(ca)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/ca)[(cb)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/cb) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/3)
+
+[^key-1d9e9221d3f01f18818b8fdb829f69e9]: Textual amendment: [Reg. 14(3)(da)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/da) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/b), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
+
+[^key-c36e357139b4241c612308bfa966419b]: Textual amendment: [Reg. 14(3)(ea)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/ea) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(c)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/c), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4) (with [Sch. 1 para. 33(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/5))
+
+[^key-76ac1439cae6a39431b775505563ff7d]: Textual amendment: [Reg. 14(3)(f)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/f) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/5)
+
+[^key-6f4f75b2f6c72053e3151511bf8031d7]: Textual amendment: [Reg. 14(3)(fa)-(fc)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/fa) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2012 (S.I. 2012/1795)](https://www.legislation.gov.uk/uksi/2012/1795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2012/1795/regulation/5/6)
+
+[^key-d2cb84bfe31cd1c430cf453069ac1107]: Textual amendment: [Reg. 14(3)(fc)](https://www.legislation.gov.uk/uksi/2006/207/regulation/14/3/fc) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 33(3)(d)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/3/d), [(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/33/4)
+
+[^key-11ffec1dbbef10c9e4556f56e9448930]: Commencement: Reg. 15 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-c6259f83772bfbe62352c1eb92497e92]: Textual amendment: Reg. 15(1A)-(1C) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(6)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/6/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-a7f6181744c0cef2e278e4f36f8533f3]: Textual amendment: Words in [reg. 15(1A)(a)](https://www.legislation.gov.uk/uksi/2006/207/regulation/15/1A/a) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [22(2)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/22/2/a)
+
+[^key-17f00ddfdf91439f880dd5a2a47e3db0]: Textual amendment: Word in [reg. 15(1A)(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/15/1A/b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [22(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/22/2/b/i)
+
+[^key-d298376135617d255c26bb115c1974bf]: Textual amendment: Words in [reg. 15(1A)(b)](https://www.legislation.gov.uk/uksi/2006/207/regulation/15/1A/b) renumbered (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [22(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/22/2/b/ii)
+
+[^key-d0ea40b9909f76ac78664865c4af7d2b]: Textual amendment: Reg. 15(2)-(10) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(6)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/6/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-509e535eba092a1033bc561ab5fe281e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/207/regulation/16) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-5aa125880ca3708f0b5f318081a29233]: Commencement: Reg. 17 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/207/regulation/1/1)
+
+[^key-a812785a311cef8b56f016d5046c88d7]: Textual amendment: Word in reg. 17 inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/a/i), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-e43de81519ba59beba100db9cd38a193]: Textual amendment: Words in reg. 17 omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/a/ii), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-f16188c07870527349a609ffadd21bfc]: Textual amendment: Words in reg. 17 substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-63e629dbc25798f78dcbde2ae70c0c74]: Textual amendment: Word in reg. 17 substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(7)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/7/c), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+
+[^key-a69256e2a4ef89370d2c62b0d47c3648]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2006/207/part/4) inserted (with effect in accordance with Sch. 1 para. 96(16)(a) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 96(15)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/15) (with [Sch. 1 para. 96(16)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/96/16/b))
+
+[^key-e8f4bad6a3768c1fef0b4b437e558f87]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/207/regulation/18) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 62(8)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/62/8), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))

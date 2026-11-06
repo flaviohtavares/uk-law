@@ -1,0 +1,224 @@
+---
+title: Official Listing of Securities (Change of Competent Authority) Regulations 2000
+id: uksi/2000/968
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2000-04-04'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2000/968
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/968/pdfs/uksi_20000968_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/968/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Official Listing of Securities (Change of Competent Authority) Regulations 2000
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2000/968
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2000 No. 968
+
+FINANCIAL SERVICES
+
+Official Listing of Securities (Change of Competent Authority) Regulations 2000
+
+Made
+
+4th April 2000
+
+Coming into force
+
+for the purposes of regulation 8
+
+5th April 2000
+
+for all other purposes
+
+1st May 2000
+
+Whereas the Treasury are a government department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to listing of securities on a stock exchange and information concerning listed securities;
+
+And whereas a draft of these Regulations has been approved by a resolution of each House of Parliament pursuant to section 2(2) of, and paragraph 2(2) of Schedule 2 to, that Act;
+
+Now therefore the Treasury in exercise of the powers conferred on them by section 2(2) of that Act and of all other powers enabling them in that behalf hereby make the following Regulations:—[^key-88fda3f0275a490d4d972cf024d3d646]
+
+## 1. Citation, commencement and extent[^key-2bbca7ce599aea477468084cac17d20a][^key-6455b1e9a7f22672a8b6442574b39595]
+
+(1) These Regulations may be cited as the Official Listing of Securities (Change of Competent Authority) Regulations 2000.
+
+(2) These Regulations shall come into force for the purposes of regulation 8 on the day after these Regulations are made, and for all other purposes on 1st May 2000.
+
+(3) These Regulations extend to Northern Ireland.
+
+## 2. Interpretation[^key-d316a3e525897275ca4a37cf21c4d78b][^key-37e722e460ef0b77558fb06c1102f797]
+
+(1) In these Regulations—
+
+- “the Act” means the Financial Services Act 1986[^f00003];
+- “Part IV” means Part IV of the Act; and
+- “enactment” includes an enactment contained within subordinate legislation within the meaning of the Interpretation Act 1978[^f00004].
+
+(2) In these Regulations—
+
+- “the old competent authority” means The London Stock Exchange Limited[^f00005] in its capacity as the competent authority for the purposes of Part IV; and
+- “the new competent authority” means the Financial Services Authority in its capacity as the competent authority for the purposes of Part IV as amended by these Regulations.
+
+(3) In these Regulations—
+
+- “the transfer date” means the day on which these Regulations (other than regulation 8) come into force;
+- “the transferred functions”, in relation to the old competent authority, means the functions of the old competent authority under Part IV, together with all rights and obligations of the old competent authority arising out of the admission by it of investments to the Official List otherwise than in accordance with Part IV[^f00006];
+- “the transferred functions”, in relation to the new competent authority, means the functions of the new competent authority under Part IV as amended by these Regulations, together with the rights and obligations transferred to the new competent authority by regulation 5;
+
+and references to the exercise of the transferred functions include references to the exercise and enforcement of such rights and the discharge of such obligations.
+
+(4) No reference in these Regulations to the Official List maintained for the purposes of Part IV by the old competent authority shall be construed as extending to the Daily Official List published by The London Stock Exchange Limited.
+
+## 3. Change of competent authority for the purposes of Part IV of the Act[^key-4556c16edd0896a5ea703c17357f2972][^key-0a1d4a11adf7aef70007779895d7b6d7]
+
+In section 142(6) of the Act, for the words “The International Stock Exchange of the United Kingdom and the Republic of Ireland Limited”, there shall be substituted the words “The Financial Services Authority”.
+
+## 4. References to the old competent authority[^key-9fb2d45bb04accb1069d009536845041][^key-db0f420b1d83b1c683b919df8e19375c]
+
+(1) Any reference in an enactment to the old competent authority shall have effect as a reference to the new competent authority.
+
+(2) Any reference in an enactment to the Official List maintained for the purposes of Part IV by the old competent authority shall have effect as a reference to the Official List maintained for those purposes by the new competent authority.
+
+(3) Paragraphs (1) and (2) apply however the reference is expressed.
+
+(4) If a reference in a relevant provision is predicated on the continuing exercise by the old competent authority of any of the transferred functions, paragraphs (1) to (3) shall, in relation to any time after the transfer date, apply to the reference in the same way as they apply to a reference in an enactment.
+
+(5) In paragraph (4), “relevant provision” means a provision which—
+
+- (a) has effect before, as well as after, the transfer date, and
+- (b) is contained in a document other than an enactment.
+
+## 5. Transfer of rights and obligations in relation to non-Part IV investments[^key-8827f8e000eced33132bcf3abe0bbde4][^key-c4645cfb708026d831c34d8c806dc997]
+
+All rights and obligations of the old competent authority arising out of the admission by it of investments to the Official List otherwise than in accordance with Part IV are transferred to the new competent authority.
+
+## 6. Transitional provisions[^key-d73e4375edd254c5dd7e4ee20c78de94][^key-5dd7ca2fb87acc6e273ff45e17c83011]
+
+(1) These Regulations shall not affect the validity of anything done before the transfer date—
+
+- (a) by the old competent authority in the exercise of the transferred functions, or
+- (b) by another person in relation to the exercise of the transferred functions by the old competent authority,
+
+but subject to paragraph (2) any such thing shall have effect for all purposes as if done by the new competent authority in the exercise of those functions or (as the case may be) as if done in relation to the exercise by the new competent authority of those functions.
+
+(2) Paragraph (1) shall not affect any liability in damages of the old competent authority for anything done or omitted in the discharge or purported discharge of the transferred functions where such act or omission is shown to have been in bad faith.
+
+(3) Where any issue as to such liability arises in legal proceedings against the old competent authority, the new competent authority shall provide the old competent authority with such assistance, including access to staff and records, as is reasonably necessary in order to enable the old competent authority to deal with the proceedings.
+
+(4) The new competent authority shall be substituted for the old competent authority in all legal proceedings to which the old competent authority is, at the transfer date, a party in relation to its exercise of the transferred functions, other than proceedings in relation to any liability of the kind mentioned in paragraph (2).
+
+(5) Anything which, immediately before the transfer date, is in the process of being done—
+
+- (a) by the old competent authority in the exercise of the transferred functions, or
+- (b) by another person in relation to the exercise of the transferred functions by the old competent authority,
+
+may be carried on and completed by the new competent authority in the exercise of those functions or (as the case may be) carried on and completed in relation to the exercise by the new competent authority of those functions.
+
+(6) Without prejudice to paragraph (1), listing rules made by the old competent authority or by any committee or sub-committee of the old competent authority in the exercise of the transferred functions shall be treated and have effect for all purposes as if made in the exercise of the transferred functions by the governing body of the new competent authority or, as the case may be, by a committee or sub-committee of that governing body.
+
+(7) Without prejudice to paragraph (1), investments which at the transfer date are listed on the Official List maintained for the purposes of Part IV by the old competent authority shall be treated for all purposes as if they were listed on the Official List maintained for those purposes by the new competent authority.
+
+(8) Securities the listing of which is suspended under section 145(2) of the Act, or in pursuance of rights of the old competent authority in relation to investments admitted to the Official List otherwise than in accordance with Part IV, shall nevertheless be regarded as listed for the purposes of paragraph (7).
+
+## 7. Transfer of staff[^key-593bf7a316654a6d6b2659ea74146d6a][^key-8952807d45a4f1c078f36f87004edf58]
+
+The transfer of functions effected by these Regulations shall be regarded for the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 1981[^f00007] as the transfer of part of an undertaking, whether or not it would be so regarded apart from this regulation.
+
+## 8. Anticipatory exercise of power to make listing rules[^key-608db7da2e73622172087fa66a093345][^key-963997a375a0133c1abd13e36afa2709]
+
+For the purpose of bringing listing rules under section 142(6) of the Act into effect on the transfer date, the new competent authority may, prior to that date, exercise the power to make such rules as if these Regulations were fully in force, and may do anything which is necessary or expedient to enable it to exercise that power.
+
+## 9. Repeals[^key-a6eb2d3aae82a43906c6c3b227cdc054][^key-9de21e7f6e1c3532ab6d3760486a54be]
+
+Paragraph 2(3) of Schedule 4 to the Act is repealed.
+
+Clive Betts
+
+Bob Ainsworth
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+4th April 2000
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) (“the Act”) so as to change the competent authority for the purposes of Part IV of the Act (official listing of securities). The competent authority for the purposes of Part IV was originally the Council of The Stock Exchange, but was changed by the Official Listing of Securities (Change of Competent Authority) Regulations 1991 ([S.I. 1991/2000](https://www.legislation.gov.uk/uksi/1991/2000)) to The International Stock Exchange of the United Kingdom and the Republic of Ireland Limited (since 9 December 1995 known simply as The London Stock Exchange Limited).
+
+Regulation 3 of these Regulations substitutes the Financial Services Authority as the new competent authority, with effect from the transfer date of 1st May 2000 when these Regulations (apart from regulation 8) come into force.
+
+Regulation 4 updates references to the competent authority or to the Official List maintained for the purposes of Part IV by the competent authority, whether those references appear in primary and secondary legislation or other documents. This applies however the references are expressed but has no effect on references to the Daily Official List published by The London Stock Exchange Limited (see regulation 2(4)).
+
+Regulation 5 transfers to the new competent authority all rights and obligations of the old competent authority in relation to investments admitted to the Official List otherwise than in accordance with Part IV (the power to admit certain investments to the Official List otherwise than under Part IV is preserved by section 142(9) of the Act).
+
+Regulation 6 makes a number of transitional provisions. These carry forward existing listings and listing rules, and anything done or in the process of being done at the time of the transfer. They also substitute the new competent authority in legal proceedings (except in relation to liabilities for things done or omitted in bad faith). Regulation 7 has the effect of tranferring staff to the new competent authority. Regulation 8 (which comes into force on the day after the Regulations are made) allows the new competent authority to make listing rules in advance of the transfer date, to come into force on that date.
+
+Consequential upon the transfer, regulation 9 repeals one provision in the Act concerning the conditions for recognition of an investment exchange.
+
+Part IV of the Act implements Council Directive No. [79/279/EEC](https://www.legislation.gov.uk/european/directive/1979/0279) (OJ No. L66, 16.3.1979, p.21), Council Directive No. [80/390/EEC](https://www.legislation.gov.uk/european/directive/1980/0390) (OJ No. L 100, 17.4.1980, p.1) and Council Directive No. [82/121/EEC](https://www.legislation.gov.uk/european/directive/1982/0121) (OJ No. L 48, 20.2.1982, p.26), and partly implements Council Directive No. [89/298/EEC](https://www.legislation.gov.uk/european/directive/1989/0298) (OJ No. L124, 5.5.1989, p.8). Council Directive No. [80/390/EEC](https://www.legislation.gov.uk/european/directive/1980/0390) has been amended by Council Directives [82/148/EEC](https://www.legislation.gov.uk/european/directive/1982/0148), [87/345/EEC](https://www.legislation.gov.uk/european/directive/1987/0345) and [90/211/EEC](https://www.legislation.gov.uk/european/directive/1990/0211) (OJ Nos. L62, 5.3.1982, p.22, L185, 4.7.1987 p.81, and L112, 3.5.1990, p.24) and Parliament Directive [94/18/EC](https://www.legislation.gov.uk/european/directive/1994/0018) (OJ No. L135, 31.5.1994, p.1).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1981/206](https://www.legislation.gov.uk/uksi/1981/206) designates the Secretary of State; the Treasury is designated in place of the Secretary of State by virtue of article 9(a) of the Transfer of Functions (Financial Services) Order 1992 ([S.I. 1992/1315](https://www.legislation.gov.uk/uksi/1992/1315)).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51), regulations may be made under section 2(2) of the European Communities Act for the purposes of implementing rights, powers, liabilities, obligations and restrictions of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) as adjusted by the Protocol signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^key-88fda3f0275a490d4d972cf024d3d646]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-2bbca7ce599aea477468084cac17d20a]: Commencement: Reg. 1 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-6455b1e9a7f22672a8b6442574b39595]: Commencement: Reg. 1 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-d316a3e525897275ca4a37cf21c4d78b]: Commencement: Reg. 2 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-37e722e460ef0b77558fb06c1102f797]: Commencement: Reg. 2 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^f00003]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60); section 142 was amended, and section 157 repealed, by the Official Listing of Securities (Change of Competent Authority) Regulations 1991 ([S.I. 1991/2000](https://www.legislation.gov.uk/uksi/1991/2000)).
+
+[^f00004]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^f00005]: Footnote: Until 9 December 1995 The London Stock Exchange Limited was known as The International Stock Exchange of the United Kingdom and the Republic of Ireland Limited.
+
+[^f00006]: Footnote: Section 142(9) of the Act preserves the power of the competent authority in respect of the investments to which section 142 (and therefore Part IV) does not apply, and such investments may be admitted to the Official List otherwise than in accordance with Part IV of the Act.
+
+[^key-4556c16edd0896a5ea703c17357f2972]: Commencement: Reg. 3 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-0a1d4a11adf7aef70007779895d7b6d7]: Commencement: Reg. 3 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-9fb2d45bb04accb1069d009536845041]: Commencement: Reg. 4 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-db0f420b1d83b1c683b919df8e19375c]: Commencement: Reg. 4 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-8827f8e000eced33132bcf3abe0bbde4]: Commencement: Reg. 5 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-c4645cfb708026d831c34d8c806dc997]: Commencement: Reg. 5 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-d73e4375edd254c5dd7e4ee20c78de94]: Commencement: Reg. 6 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-5dd7ca2fb87acc6e273ff45e17c83011]: Commencement: Reg. 6 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-593bf7a316654a6d6b2659ea74146d6a]: Commencement: Reg. 7 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-8952807d45a4f1c078f36f87004edf58]: Commencement: Reg. 7 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^f00007]: Footnote: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794) as amended by section 33 of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19) and by [S.I. 1987/442](https://www.legislation.gov.uk/uksi/1987/442), [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587) and [S.I. 1999/1925](https://www.legislation.gov.uk/uksi/1999/1925).
+
+[^key-608db7da2e73622172087fa66a093345]: Commencement: Reg. 8 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-963997a375a0133c1abd13e36afa2709]: Commencement: Reg. 8 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-a6eb2d3aae82a43906c6c3b227cdc054]: Commencement: Reg. 9 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+
+[^key-9de21e7f6e1c3532ab6d3760486a54be]: Commencement: Reg. 9 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)

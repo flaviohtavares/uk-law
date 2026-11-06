@@ -1,0 +1,39 @@
+---
+title: Equality Act 2006, section 30
+act: Equality Act 2006
+section: '30'
+status: revised
+text_date: '2024-10-26'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2006/3/section/30
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Equality Act 2006, section 30
+
+> Text as at 2024-10-26.
+>
+> Extent: England, Wales, Scotland.
+
+## 30. Judicial review and other legal proceedings
+
+*Extent: E+W+S*
+
+(1) The Commission shall have capacity to institute or intervene in legal proceedings, whether for judicial review or otherwise, if it appears to the Commission that the proceedings are relevant to a matter in connection with which the Commission has a function.
+
+(2) The Commission shall be taken to have title and interest in relation to the subject matter of any legal proceedings in Scotland which it has capacity to institute, or in which it has capacity to intervene, by virtue of subsection (1).
+
+(3) The Commission may, in the course of legal proceedings for judicial review which it institutes (or in which it intervenes), rely on section 7(1)(b) of the Human Rights Act 1998 (c. 42) (breach of Convention rights); and for that purpose—
+
+- (a) the Commission need not be a victim or potential victim of the unlawful act to which the proceedings relate,
+- (b) the Commission may act only if there is or would be one or more victims of the unlawful act,
+- (c) section 7(3) and (4) of that Act shall not apply, and
+- (d) no award of damages may be made to the Commission (whether or not the exception in section 8(3) of that Act applies);
+
+and an expression used in this subsection and in section 7 of the Human Rights Act 1998 has the same meaning in this subsection as in that section.
+
+(4) Subsections (1) and (2)—
+
+- (a) do not create a cause of action, and
+- (b) are, except as provided by subsection (3), subject to any limitation or restriction imposed by virtue of an enactment (including an enactment in or under an Act of the Scottish Parliament) or in accordance with the practice of a court.

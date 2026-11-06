@@ -1,0 +1,73 @@
+---
+title: Economic Crime (Transparency and Enforcement) Act 2022, section 45
+act: Economic Crime (Transparency and Enforcement) Act 2022
+section: '45'
+status: revised
+text_date: '2024-03-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/10/section/45
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Economic Crime (Transparency and Enforcement) Act 2022, section 45
+
+> Text as at 2024-03-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 45. Imposition of unexplained wealth orders on officers etc of property holder: England and Wales and Northern Ireland[^key-dda2cd4b84a23e7f0e4b116975c47ad0][^key-6e9a00e546cb91fd85d8db00c48d1ee4]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Proceeds of Crime Act 2002 is amended as follows.
+
+(2) Section 362A (unexplained wealth orders) is amended in accordance with subsections (3) to (7).
+
+(3) After subsection (2) insert—
+
+> (2A) In a case where the respondent is not an individual, the application may also specify a person who is a responsible officer of the respondent (and a person specified may include a person outside the United Kingdom).
+
+(4) In subsection (3), in the words before paragraph (a), after “the respondent” insert “or any responsible officer specified in the order (a “specified responsible officer”)”.
+
+(5) In subsection (5)—
+
+- (a) after “requiring the respondent” insert “or any specified responsible officer”;
+- (b) for “require the respondent” substitute “require them”.
+
+(6) In subsection (6), after “respondent” insert “or any specified responsible officer”.
+
+(7) After subsection (7) insert—
+
+> (8) For the purposes of this Chapter, each of the following is a “responsible officer” of the respondent (in a case where the respondent is not an individual)—
+>
+> - (a) any director of the respondent, including any person occupying the position of a director, by whatever name called;
+> - (b) any member of a body of the respondent equivalent to a board of directors;
+> - (c) any other manager, secretary or similar officer of the respondent;
+> - (d) where the respondent is a partnership, a partner or a member of the partnership;
+> - (e) any person in accordance with whose directions or instructions the board of directors or equivalent body of the respondent are accustomed to act.
+
+(8) In section 362C (effect of unexplained wealth order in case of non-compliance)—
+
+- (a) in subsection (1), for “the respondent fails” substitute “the respondent and the specified responsible officer (if any), between them, fail”;
+- (b) in subsection (5)(a), after “a respondent” insert “or a specified responsible officer”;
+- (c) in subsection (5)(b)—
+  - (i) omit “on the respondent”;
+  - (ii) for “the respondent is” substitute “the respondent and the specified responsible officer (if any) are”.
+
+(9) In section 362D (effect of unexplained wealth order in case of compliance or purported compliance)—
+
+- (a) in subsection (1), for “the respondent complies, or purports to comply, with the” substitute “the respondent and the specified responsible officer (if any) between them comply, or purport to comply, with all of the”;
+- (b) in subsection (7)—
+  - (i) omit paragraph (a);
+  - (ii) in the words after paragraph (c), for “(a) to (c)” substitute “(b) and (c)”.
+
+(10) In section 362G(3) (disclosure of information, copying of documents etc), after “the respondent” insert “or any specified responsible officer”.
+
+(11) In section 362I(3)(b) (application to vary or discharge unexplained wealth order), after “respondent” insert “or any specified responsible officer”.
+
+## Annotations
+
+[^key-dda2cd4b84a23e7f0e4b116975c47ad0]: Commencement: S. 45 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+
+[^key-6e9a00e546cb91fd85d8db00c48d1ee4]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/10/section/45) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)

@@ -1,0 +1,800 @@
+---
+title: The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001
+id: uksi/2001/1060
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-03-19'
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/1060
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1060/pdfs/uksi_20011060_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1060/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 1060
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001
+
+Made
+
+19th March 2001
+
+Laid before Parliament
+
+19th March 2001
+
+Coming into force in accordance with article 1
+
+The Treasury in the exercise of the powers conferred on them by section 238(6) and (7) of the Financial Services and Markets Act 2000[^f00001] and of all other powers enabling them in that behalf hereby make the following Order:—
+
+## PART I — GENERAL AND INTERPRETATION
+
+### 1. Citation and commencement[^key-4106b4ebea8bad5243ab05b25c184250]
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001.
+
+(2) This Order comes into force on the day on which section 19 of the Act comes into force.
+
+### 2. Interpretation: general[^key-8459b1f1bbc0ec1732d3c4e891a202bc]
+
+(1) In this Order—
+
+- “the Act” means the Financial Services and Markets Act 2000;
+- “authorised contractual scheme” and “authorised unit trust scheme” have the meaning given in section 237(3) of the Act;[^key-afa08241f8801736279a7e2254185ac2]
+- “close relative”, in relation to a person means—
+  - (a) his spouse or civil partner[^key-98ebfef200564b8ee0f266d45772fff8];
+  - (b) his children and step-children, his parents and step-parents, his brothers and sisters and his step-brothers and step-sisters; and
+  - (c) the spouse or civil partner of any person within sub-paragraph (b);
+- “[^key-cbb1ba704cc2e30f2a5b2c10ecb4e966]**Full name**”, in relation to a person, means the name under which that person carries on business and, if different, that person’s corporate name.
+- “overseas scheme” means an unregulated scheme which is operated and managed in a country or territory outside the United Kingdom;
+- “publication” means—
+  - (a) a newspaper, journal, magazine or other periodical publication;
+  - (b) a web site or similar system for the electronic display of information[^key-7516c1b9cd0064b3246d2d4126c6eb43];
+  - (c) any programme forming part of a service consisting of the broadcast or transmission of television or radio programmes; and
+  - (d) any teletext service, that is to say a service consisting of television transmissions consisting of a succession of visual displays (with or without accompanying sound) capable of being selected and held for separate viewing or other use;
+- “qualifying contract of insurance” has the meaning given in the Regulated Activities Order;
+- “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00002];
+- “relevant scheme activities” means—
+  - (i) any activity specified by article 51ZA, 51ZB, 51ZD or 51ZE[^key-53b2df6631b369c853b761164e960552] of the Regulated Activities Order; or
+  - (ii) any activity specified by article 14, 21, 25, 37 or 53 of that Order when carried on in relation to units;
+- “solicited real time communication” has the meaning given by article 5;
+- “units” has the meaning given by section 237(2) of the Act;
+- “unregulated scheme” means a collective investment scheme which is not an authorised unit trust scheme nor an authorised contractual scheme[^key-e12dca25ac47fd657ec08c216621c15b] nor a scheme constituted by an authorised open-ended investment company nor a recognised scheme for the purposes of Part XVII of the Act;
+- “unsolicited real time communication” has the meaning given by article 5.
+
+(2) In this Order, any reference to the “scheme promotion restriction” means the restriction imposed by section 238(1) of the Act.
+
+### 3. Interpretation: communications[^key-debe9b8b314fa622cbdd483025b05212]
+
+In this Order—
+
+- (a) any reference to a communication is a reference to the communication, by an authorised person in the course of business, of an invitation or inducement to participate in an unregulated scheme;
+- (b) any reference to a communication being made to another person is a reference to a communication being addressed, whether verbally or in legible form, to a particular person or persons (for example where it is contained in a telephone call or letter);
+- (c) any reference to a communication being directed at persons is a reference to a communication being addressed to persons generally (for example where it is contained in a television broadcast or web site);
+- (d) “communicate” includes causing a communication to be made;
+- (e) a “recipient” of a communication is a person to whom the communication is made or, in the case of a non-real time communication which is directed at persons generally, any person who reads or hears the communication.
+- (f)[^key-9ff7876425875298c50a497737e02190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-9ff7876425875298c50a497737e02190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^key-9ff7876425875298c50a497737e02190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Interpretation: real time communications[^key-be0cd332d43d9a8d33f98e0f73a1d9f7]
+
+(1) In this Order, references to a real time communication are references to any communication made in the course of a personal visit, telephone conversation or other interactive dialogue.
+
+(2) A non-real time communication is a communication not falling within paragraph (1).
+
+(3) For the purposes of this Order, non-real time communications include communications made by letter or e-mail or contained in a publication.
+
+(4) For the purposes of this Order, the factors in paragraph (5) are to be treated as indications that a communication is a non-real time communication.
+
+(5) The factors are that—
+
+- (a) the communication is made to or directed at more than one recipient in identical terms (save for details of the recipient’s identity);
+- (b) the communication is made or directed by way of a system which in the normal course constitutes or creates a record of the communication which is available to the recipient to refer to at a later time;
+- (c) the communication is made or directed by way of a system which in the normal course does not enable or require the recipient to respond immediately to it.
+
+### 5. Interpretation: solicited and unsolicited real time communications[^key-0e24d7c1c54b4f8447211df648a28368]
+
+(1) A real time communication is solicited where it is made in the course of a personal visit, telephone call or other interactive dialogue if that call, visit or dialogue—
+
+- (a) was initiated by the recipient of the communication; or
+- (b) takes place in response to an express request from the recipient of the communication.
+
+(2) A real time communication is unsolicited where it is made otherwise than as described in paragraph (1).
+
+(3) For the purposes of paragraph (1)—
+
+- (a) a person is not to be treated as expressly requesting a call, visit or dialogue—
+  - (i) because he omits to indicate that he does not wish to receive any or any further visits or calls or to engage in any or any further dialogue;
+  - (ii) because he agrees to standard terms that state that such visits, calls or dialogue will take place, unless he has signified clearly that, in addition to agreeing to the terms, he is willing for them to take place;
+- (b) a communication is solicited only if it is clear from all the circumstances when the call, visit or dialogue is initiated or requested that during the course of the visit, call or dialogue communications will be made concerning the kind of activities or investments to which the communications in fact made relate;
+- (c) it is immaterial whether the express request is made before or after this Order comes into force.
+
+(4) Where a real time communication is solicited by a recipient (“R”), it is treated as having also been solicited by any other person to whom it is made at the same time as it is made to R if that other recipient is—
+
+- (a) a close relative of R; or
+- (b) expected to participate in the unregulated scheme jointly with R.
+
+### 5A. Interpretation: outgoing electronic commerce communications[^key-73e7c032e6eb46aeaf16e5d26d99d774]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Degree of prominence to be given to required indications[^key-a46b9b1a8b54f4d491cc4963cc7ef944]
+
+Where a communication must, if it is to fall within any provision of this Order, be accompanied by an indication of any matter, the indication must be presented to the recipient—
+
+- (a) in a way that can be easily understood; and
+- (b) in such manner as, depending on the means by which the communication is made or directed, is best calculated to bring the matter in question to the attention of the recipient and to allow him to consider it.
+
+### 7. Combination of different exemptions[^key-351a69227633e3f446cdbd8d464193da]
+
+Nothing in this Order is to be construed as preventing a person from relying on more than one exemption in respect of the same communication.
+
+## PART II — TERRITORIAL SCOPE
+
+### 8. Communications to overseas recipients[^key-f837a2e54311b5fdb88666e563845f4f]
+
+(1) Subject to paragraph (2)[^key-98d91736814fd2a239e352ad6d9265ae], the scheme promotion restriction does not apply to any communication—
+
+- (a) which is made (whether from inside or outside the United Kingdom) to a person who receives the communication outside the United Kingdom; or
+- (b) which is directed (whether from inside or outside the United Kingdom) only at persons outside the United Kingdom.
+
+(2) Paragraph (1) does not apply to an unsolicited real time communication unless—
+
+- (a) it is made from a place outside the United Kingdom; and
+- (b) it relates to an overseas scheme.
+
+(3) For the purposes of paragraph (1)(b)—
+
+- (a) if the conditions set out in paragraph (4)(a), (b), (c) and (d) are met, a communication directed from a place inside the United Kingdom is to be regarded as directed only at persons outside the United Kingdom;
+- (b) if the conditions set out in paragraph (4)(c) and (d) are met, a communication directed from a place outside the United Kingdom is to be regarded as directed only at persons outside the United Kingdom;
+- (c) in any other case where one or more of the conditions in paragraph (4)(a) to (e) are met, that fact shall be taken into account in determining whether the communication is to be regarded as directed only at persons outside the United Kingdom (but a communication may still be regarded as directed only at persons outside the United Kingdom even if none of the conditions in paragraph (4) is met).
+
+(4) The conditions are that—
+
+- (a) the communication is accompanied by an indication that it is directed only at persons outside the United Kingdom;
+- (b) the communication is accompanied by an indication that it must not be acted upon by persons in the United Kingdom;
+- (c) the communication is not referred to in, or directly accessible from, any other communication which is made to a person or directed at persons in the United Kingdom by or on behalf of the same person;
+- (d) there are in place proper systems and procedures to prevent recipients in the United Kingdom (other than those to whom the communication might otherwise lawfully have been made or directed) acquiring from the person directing the communication, a close relative of his or a company in the same group, units in the scheme to which the communication relates;
+- (e) the communication is included in—
+  - (i) a web site, newspaper, journal, magazine or periodical publication which is principally accessed in or intended for a market outside the United Kingdom;
+  - (ii) a radio or television broadcast or teletext service transmitted principally for reception outside the United Kingdom.
+
+(5) For the purposes of paragraph (1)(b), a communication may be treated as directed only at persons outside the United Kingdom even if—
+
+- (a) it is also directed, for the purposes of article 14(1)(b), at investment professionals falling within article 14(5) (but disregarding paragraph (6) of that article for this purpose);
+- (b) it is also directed, for the purposes of article 22(1)(b), at high net worth persons to whom article 22 applies (but disregarding paragraph (2)(e) of that article for this purpose).
+
+(6) Where a communication falls within paragraph (5)—
+
+- (a) the condition in paragraph (4)(a) is to be construed as requiring an indication that the communication is directed only at persons outside the United Kingdom or persons having professional experience in matters relating to investments or high net worth persons (as the case may be);
+- (b) the condition in paragraph (4)(b) is to be construed as requiring an indication that the communication must not be acted upon by persons in the United Kingdom or by persons who do not have professional experience in matters relating to investments or who are not high net worth persons (as the case may be).
+
+(7)[^key-90c853b414c334febd2e850b44eda932] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Solicited real time communications from overseas[^key-4af8dd26031938fa7482bbcd007aac1e]
+
+The scheme promotion restriction does not apply to any solicited real time communication which is made from outside the United Kingdom and which relates to units in an overseas scheme.
+
+### 10. Communications from overseas to previously overseas customers[^key-80bdb6895a13e65f3338a73606f4b993]
+
+(1) The scheme promotion restriction does not apply to a non-real time or unsolicited real time communication which—
+
+- (a) is made from outside the United Kingdom by an authorised person to a previously overseas customer of his; and
+- (b) relates to units in an overseas scheme.
+
+(2) In this article—
+
+- “previously overseas customer” means a person with whom the authorised person has done business within the period of twelve months ending with the day on which the communication was made (“the earlier business”) and where—
+  - (a) at the time that the earlier business was done, the customer was neither resident in the United Kingdom nor had a place of business there; or
+  - (b) at the time the earlier business was done, the authorised person had on a former occasion done business with the customer, being business of the same description as the business to which the communication relates, and on that former occasion the customer was neither resident in the United Kingdom nor had a place of business there.
+
+(3) For the purposes of this article, an authorised person has done business with a customer if, in the course of his overseas business, he has—
+
+- (a) effected a transaction, or arranged for a transaction to be effected, with the customer in respect of units in an overseas scheme; or
+- (b) given, outside the United Kingdom, any advice on the merits of the customer buying or selling units in an overseas scheme.
+
+### 10A. Incoming electronic commerce communications[^key-eda57505f7673fe02da0c12e092cf42f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART III — OTHER EXEMPTIONS
+
+### 11. Follow up non-real time communications and solicited real time communications[^key-fbc1e1c8233a9b9efa9377bb800ecb72]
+
+(1) Where an authorised person makes or directs a communication (“the first communication”) which is exempt from the scheme promotion restriction because, in compliance with the requirements of another provision of this Order, it is accompanied by certain indications or contains certain information, then the scheme promotion restriction does not apply to any subsequent communication which complies with the requirements of paragraph (2).
+
+(2) The requirements of this paragraph are that the subsequent communication—
+
+- (a) is a non-real time communication or a solicited real time communication;
+- (b) is made by the same person who made the first communication;
+- (c) is made to a recipient of the first communication;
+- (d) relates to the same unregulated scheme as the first communication; and
+- (e) is made within 12 months of the recipient receiving the first communication.
+
+(3) A communication made or directed before this Order comes into force is to be treated as a first communication falling within paragraph (1) if it would have fallen within that paragraph had it been made or directed after this Order comes into force.
+
+### 12. Introductions[^key-1dcd5b8082aa85d993441b27ac1dbba9]
+
+(1) If the requirements of paragraph (2) are met, the scheme promotion restriction does not apply to any real time communication which is made with a view to or for the purposes of introducing the recipient to—
+
+- (a) an authorised person who carries on one or more relevant scheme activities in relation to units in unregulated schemes; or
+- (b) a person who is exempt, as a result of an exemption order made under section 38(1) of the Act, in relation to one or more relevant scheme activities.
+
+(2) The requirements of this paragraph are that—
+
+- (a) the maker of the communication (“A”) is not a close relative of, nor a member of the same group as, the person to whom the introduction is, or is to be, made;
+- (b) A does not carry on business in relevant scheme activities in relation to units in unregulated schemes;
+- (c) A does not receive from any person other than the recipient any pecuniary reward or other advantage arising out of his making the introduction; and
+- (d) it is clear in all the circumstances that the recipient, in his capacity as an investor, is not seeking and has not sought advice from A as to the merits of participating in an unregulated scheme (or, if the client has sought such advice, A has declined to give it, but has recommended that the recipient seek such advice from an authorised person specialising in that kind of investment).
+
+### 13. Generic promotions[^key-1870472616d34914b13634196aa6d71f]
+
+The scheme promotion restriction does not apply to any communication which—
+
+- (a) does not relate to units of a particular unregulated scheme identified (directly or indirectly) in the communication; and
+- (b) does not identify (directly or indirectly) any person who operates a collective investment scheme or sells units.
+
+### 14. Investment professionals[^key-f509fcdf354f923badd24c101f367e24]
+
+(1) The scheme promotion restriction does not apply to any communication which—
+
+- (a) is made only to recipients whom the person making the communication believes on reasonable grounds to be investment professionals; or
+- (b) may reasonably be regarded as directed only at such recipients.
+
+(2) For the purposes of paragraph (1)(b), if all the conditions set out in paragraph (4)(a) to (c) are met in relation to the communication, it is to be regarded as directed only at investment professionals.
+
+(3) In any other case in which one or more of the conditions set out in paragraph (4)(a) to (c) are met, that fact shall be taken into account in determining whether the communication is directed only at investment professionals (but a communication may still be regarded as so directed even if none of the conditions in paragraph (4) is met).
+
+(4) The conditions are that—
+
+- (a) the communication is accompanied by an indication that it is directed at persons having professional experience of participating in unregulated schemes and that the units to which the communication relates are available only to such persons;
+- (b) the communication is accompanied by an indication that persons who do not have professional experience in participating in unregulated schemes should not rely on it;
+- (c) there are in place proper systems and procedures to prevent recipients other than investment professionals from acquiring from the person directing the communication, a close relative of his or a company in the same group, units in the scheme to which the communication relates.
+
+(5) “Investment professionals” means—
+
+- (a) an authorised person;
+- (b) a person who is exempt, as a result of an exemption order made under section 38(1) of the Act, in relation to one or more relevant scheme activities;
+- (c) any other person—
+  - (i) whose ordinary activities involve him in participating in unregulated schemes for the purposes of a business carried on by him; or
+  - (ii) who it is reasonable to expect will so participate for the purposes of a business carried on by him;
+- (d) a government, local authority (whether in the United Kingdom or elsewhere) or an international organisation;
+- (e) a person (“A”) who is a director, officer or employee of a person (“B”) falling within any of sub-paragraphs (a) to (d), when the communication is made to A in that capacity and where A’s responsibilities when acting in that capacity involve him in B’s participation in unregulated schemes.
+
+(6) For the purposes of paragraph (1), a communication is to be treated as made only to or directed only at investment professionals even if it also made to or directed at other persons to whom it may lawfully be communicated.
+
+(7) In this article—
+
+- “government” means the government of the United Kingdom, the Scottish Administration, the Executive Committee of the Northern Ireland Assembly, the National Assembly for Wales and any government of any country or territory outside the United Kingdom;
+- “international organisation” means any body the members of which comprise—
+  - (a) states including the United Kingdom or another EEA State; or
+  - (b) bodies whose members comprise states including the United Kingdom or another EEA State.
+
+### 15. One off non-real time communications and solicited real time communications[^key-5c467522570a15e75d1cc31337c27cb7]
+
+(1) The scheme promotion restriction does not apply to a one off communication which is either a non-real time communication or a solicited real time communication.
+
+(2) If both the conditions set out in paragraph (3) are met in relation to a communication it is to be regarded as a one off communication. In any other case in which either of those conditions is met, that fact is to be taken into account in determining whether the communication is a one off communication (but a communication may still be regarded as a one off communication even if neither of the conditions in paragraph (3) is met).
+
+(3) The conditions are that—
+
+- (a) the communication is made only to one recipient or only to one group of recipients in the expectation that they would engage in any investment activity jointly;
+- (b) the communication is not part of an organised marketing campaign.
+
+### 15A. One off unsolicited real time communications[^key-e016d8f9bc41a091fbbf78846a9ab1bd]
+
+(1) The scheme promotion restriction does not apply to an unsolicited real time communication if the conditions in paragraph (2) are met.
+
+(2) The conditions in this paragraph are that—
+
+- (a) the communication is a one off communication;
+- (b) the communicator believes on reasonable grounds that the recipient understands the risks associated with engaging in the investment activity to which the communication relates;
+- (c) at the time the communication is made, the communicator believes on reasonable grounds that the recipient would expect to be contacted by him in relation to the investment activity to which the communication relates.
+
+(3) Paragraphs (2) and (3) of article 15 apply in determining whether a communication is a one off communication for the purposes of this article as they apply for the purposes of article 15.
+
+### 16. Communications required or authorised by enactments[^key-4f3b071c93abceb4a9ab0ae7064af11a]
+
+(1)[^key-232132bed216557f435653bef3cbca35] The scheme promotion restriction does not apply to any communication which is required or authorised to be communicated by or under any enactment other than the Act.
+
+(2)[^key-50fc02cee36cb6ad5077151bfb466303] A communication which may be made because a condition imposed by regulation 49 or 50 of the Alternative Investment Fund Managers Regulations 2013 has been met, is to be treated as authorised by those Regulations for the purposes of paragraph (1) in so far as it is made to a professional investor (as defined in regulation 2(1) of those Regulations).
+
+(3) A communication permitted by Article 2.2, 4 or 14.3 of Regulation (EU) [No 345/2013](https://www.legislation.gov.uk/eur/2013/345) of the European Parliament and the Council of 17 April 2013 on European venture capital funds as it had effect on the day on which the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 were made[^key-ae60805723c1eaaf65f939b1cf74edfd], or by Article 2.2, 4 or 15.3 of Regulation (EU) [No 346/2013](https://www.legislation.gov.uk/eur/2013/346) of the European Parliament and the Council of 17 April 2013 on European social entrepreneurship funds as it had effect on the day on which the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 were made[^key-15b8373cddb63b27577e4798ae6afc62], is to be treated as authorised by another enactment for the purposes of paragraph (1).
+
+(4)[^key-f29c33c38b8992efca516c34c8c41fd5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Persons in the business of placing promotional material[^key-802e0cad35c2805d80f674a3b7863d64]
+
+The scheme promotion restriction does not apply to any communication which is made to a person whose business it is to place, or arrange for the placing of, promotional material provided that it is communicated so that he can place or arrange for placing it.
+
+### 18. Existing participants in an unregulated scheme[^key-1ab6f253570b10b6356f982d53238094]
+
+The scheme promotion restriction does not apply to any communication which is—
+
+- (a) a non-real time communication or a solicited real time communication;
+- (b) communicated by the operator of an unregulated scheme; and
+- (c) communicated to persons whom the person making the communication believes on reasonable grounds to be persons who are entitled to units in that scheme.
+
+### 19. Group companies[^key-6a459adb79ba7e818af29f68455607b5]
+
+The scheme promotion restriction does not apply to any communication made by one body corporate in a group to another body corporate in the same group.
+
+### 20. Persons in the business of disseminating information[^key-688125c7a6bbbf2538effb8821f6421b]
+
+(1) The scheme promotion restriction does not apply to any communication which is made only to recipients whom the person making the communication believes on reasonable grounds to be persons to whom paragraph (2) applies.
+
+(2) This paragraph applies to—
+
+- (a) a person who receives the communication in the course of a business which involves the dissemination through a publication of information concerning investments;
+- (b) a person whilst acting in the capacity of director, officer or employee of a person falling within sub-paragraph (a) being a person whose responsibilities when acting in that capacity involve him in the business referred to in that sub-paragraph;
+- (c) any person to whom the communication may otherwise lawfully be made.
+
+### 21. ... High net worth individuals[^key-f82318c6844a22a1b1be98e3b8ef4163][^key-208b85630e09a47489fc3d72c2e4b7c2]
+
+(1) If the requirements of paragraphs (4) and (7) are met, the scheme promotion restriction does not apply to any communication which—
+
+- (a) is a non-real time communication or a solicited real time communication;
+- (b) is made to an individual whom the person making the communication believes on reasonable grounds to be a [^key-df684da3f9f81bc9ac7d2ece46a0d73b]... high net worth individual;
+- (c) relates only to units falling within paragraph (8); and
+- (d) does not invite or induce the recipient to enter into an agreement under the terms of which he can incur a liability or obligation to pay or contribute more than he commits by way of investment.
+
+(2)[^key-0f8f6183de29967fc9fb5c98fde6bd83] “**High net worth individual**” means an individual—
+
+- (a) who has completed and signed, within the period of twelve months ending with the day on which the communication is made, a statement complying with Part 1 of the Schedule; and
+- (b) whose completion of that statement indicates that they satisfy the conditions set out in the statement to be classified as a high net worth individual.
+
+(3) The validity of a statement completed and signed[^key-e899b02cecf52ffb36f28038cba1c5cc] for the purposes of paragraph (2) is not affected by a defect in the form or wording of the statement, provided that the defect does not alter the statement’s meaning and that the words shown in bold type in Part I of the Schedule are so shown in the statement.
+
+(4) The requirements of this paragraph are that either the communication is accompanied by the giving of a warning and information[^key-1dd4d98e7b4f7871922e0edeb02a2b2b] in accordance with paragraphs (5) , (5A)[^key-494aad9fb2598126a28c869139fcce2b] and (6) or, where because of the nature of the communication this is not reasonably practicable,—
+
+- (a) a warning in accordance with paragraph (5) is given to the recipient orally at the beginning of the communication together with an indication that he will receive the warning in legible form and that, before receipt of that warning, he should consider carefully any decision to participate in a collective investment scheme to which the communication relates; and
+- (b) a warning and information[^key-6076b1c7856a130ca2f692bf2153ac72] in accordance with paragraphs (5) , (5A)[^key-c36b4a74342160c7deb9c9ba4e9c1b07] and (6) (d) to (h) is sent to the recipient of the communication within two business days of the day on which the communication is made.
+
+(5) The warning must be in the following terms—
+
+> - Reliance on this promotion for the purpose of buying the units to which the promotion relates may expose an individual to a significant risk of losing all of the property or other assets invested.
+
+.
+
+- But, where a warning is sent pursuant to paragraph (4)(b), for the words “this promotion” in both places where they occur there must be substituted wording which clearly identifies the promotion which is the subject of the warning.
+
+(5A)[^key-cae7f1d71bd8190f962df7ebcba9a0ad] The warning must be accompanied by the following information—
+
+- (a) the full name of the person making the communication, or on whose behalf the communication is made;
+- (b) a postal or electronic address to which a person should send requests for further information or any other enquiry regarding the matters to which the communication relates; and
+- (c) if applicable—
+  - (i) the country or territory in which the person making the communication, or on whose behalf the communication is made, is incorporated;
+  - (ii) where different from the information provided under (b), the address of the registered office of the person making the communication, or on whose behalf the communication is made; and
+  - (iii) the company number, or unique identification equivalent to a registered number required by the law of the state in which it is incorporated, of the person making the communication, or on whose behalf the communication is made.
+
+(6) The warning and information[^key-140bcb0068cd02cbcc3efa3cb09fbab5] must—
+
+- (a) be given at the beginning of the communication;
+- (b) precede any other written or pictorial matter;
+- (c) be in a font size consistent with the text forming the remainder of the communication;
+- (d) be indelible;
+- (e) be legible;
+- (f) be printed in black, bold type;
+- (g) be surrounded by a black border which does not interfere with the text of the warning; and
+- (h) not be hidden, obscured or interrupted by any other written or pictorial matter.
+
+(7) The requirements of this paragraph are that the communication is accompanied by an indication—
+
+- (a) that it is exempt from the restriction on the promotion of unregulated schemes (in section 238 of the Act) on the grounds that the communication is made to a [^key-434d4761fe03c955170ca73cc3b08e10]... high net worth individual;
+- (b) of the requirements that must be met for an individual to qualify as a [^key-57301172715f360881df392a8544779c]... high net worth individual;
+- (c) that any individual who is in any doubt about the units to which the communication relates should consult an authorised person specialising in advising in participation in unregulated schemes.
+
+(8) A unit falls within this paragraph if it is in an unregulated scheme which invests wholly or predominantly in the shares in or debentures of one or more unlisted companies.
+
+(9) “Business day” means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
+
+(10) “Unlisted company” has the meaning given in the Financial Services and Markets Act 2000 (Financial Promotion) Order 2001.
+
+### 22. High net worth companies, unincorporated associations etc.[^key-d3e8a5c018617bf0aad41a94e070f60c]
+
+(1) The scheme promotion restriction does not apply to any communication which—
+
+- (a) is made only to recipients whom the person making the communication believes on reasonable grounds to be persons to whom paragraph (2) applies; or
+- (b) may reasonably be regarded as directed only at persons to whom paragraph (2) applies.
+
+(2) This paragraph applies to—
+
+- (a)[^key-d247b6af61d032fadfccc8e889929695] any body corporate which has, or which is a member of the same group as an undertaking which has, a called-up share capital or net assets of not less than—
+  - (i) if the body corporate has more than 20 members or is a subsidiary undertaking of an undertaking which has more than 20 members, £500,000;
+  - (ii) otherwise, £5 million;
+- (b) any unincorporated association or partnership which has net assets of not less than £5 million;
+- (c) the trustee of a high value trust;
+- (d) any person (“A”) whilst acting in the capacity of director, officer or employee of a person (“B”) falling within any of sub-paragraphs (a) to (c), where A’s responsibilities, when acting in that capacity, involve him in B’s participation in unregulated schemes;
+- (e) any person to whom the communication might otherwise lawfully be made.
+
+(3) For the purposes of paragraph (1)(b)—
+
+- (a) if all the conditions set out in paragraph (4)(a) to (c) are met in relation to the communication, it is to be regarded as directed at persons to whom paragraph (2) applies;
+- (b) in any other case in which one or more of those conditions are met, that fact is to be taken into account in determining whether the communication is directed at persons to whom paragraph (2) applies (but a communication may still be regarded as so directed even if none of the conditions in paragraph (4) is met).
+
+(4) The conditions are that—
+
+- (a) the communication includes an indication of the description of persons to whom it is directed and an indication of the fact that the units to which it relates are available only to such persons;
+- (b) the communication includes an indication that persons of any other description should not rely upon it;
+- (c) there are in place proper systems and procedures to prevent recipients other than persons to whom paragraph (2) applies from acquiring from the person directing the communication, a close relative of his or a company in the same group, units in the scheme to which the communication relates.
+
+(5) In this article—
+
+- “called-up share capital” has the meaning given in section 547 of the Companies Act 2006[^key-7045436ba9dcf022f7b32436a592cc37];
+- “high value trust” means a trust where the aggregate value of the cash and investments which form part of the trust’s assets (before deducing the amount of its liabilities)—
+  - (a) is £10 million or more; or
+  - (b) has been £10 million or more at any time during the year immediately preceding the date on which communication in question was first made or directed;
+- “net assets” has the meaning given in section 831 of the Companies Act 2006[^key-7607c9f0d3185f53be09c93ed47f9d19].
+
+### 23. Sophisticated investors[^key-be619be5c430dc3abf7b41fd1d1c55a1]
+
+(1) “Certified sophisticated investor” means a person—
+
+- (a) who has a current certificate in writing or other legible form signed by an authorised person to the effect that he is sufficiently knowledgeable to understand the risks associated with participating in unregulated schemes; and
+- (b) who has signed, within the period of twelve months ending with the day on which the communication is made, a statement in the following terms:
+
+  > - I make this statement so that I can receive promotions which are exempt from the restriction on promotion of unregulated schemes in the Financial Services and Markets Act 2000. The exemption relates to certified sophisticated investors and I declare that I qualify as such. I accept that the schemes to which the promotions will relate are not authorised or recognised for the purposes of that Act. I am aware that it is open to me to seek advice from an authorised person who specialises in advising on this kind of investment
+
+  .
+
+(1A)[^key-af3d87ac629aa60332fdce5388478d76] The validity of a statement signed in accordance with paragraph (1)(b) is not affected by a defect in the wording of the statement, provided that the defect does not alter the statement’s meaning.
+
+(2) If the requirements of paragraph (3) are met, the scheme promotion restriction does not apply to any communication which—
+
+- (a) is made to a certified sophisticated investor; and
+- (b) does not invite or induce the recipient to participate in an unregulated scheme operated by the person who has signed the certificate referred to in paragraph (1)(a) or to acquire units from that person.
+
+(3) The requirements of this paragraph are that the communication is accompanied by an indication—
+
+- (a) that it is exempt from the scheme promotion restriction (in section 238 of the Financial Services and Markets Act 2000) on the communication of invitations or inducements to participate in unregulated schemes on the ground that it is made to a certified sophisticated investor;
+- (b) of the requirements that must be met for a person to qualify as a certified sophisticated investor;
+- (c) that buying the units to which the communication relates may expose the individual to a significant risk of losing all of the property invested;
+- (d) that any individual who is in any doubt about the investment to which the invitation or inducement relates should consult an authorised person specialising in advising on investments of the kind in question.
+
+(4) For the purposes of paragraph (1)(a), a certificate is current if it is signed and dated not more than three years before the date on which the communication is made.
+
+### 23A. Self-certified sophisticated investors[^key-965ccf479aa1e9a55a4a0fc95c68628a]
+
+(1)[^key-bf95189dc6ae84afa42b322be021388c] “**Self-certified sophisticated investor**” means an individual—
+
+- (a) who has completed and signed, within the period of twelve months ending with the day on which the communication is made, a statement complying with Part 2 of the Schedule; and
+- (b) whose completion of that statement indicates that they satisfy the conditions set out in the statement to be classified as a self-certified sophisticated investor.
+
+(2) The validity of a statement completed and signed[^key-5acc4b0346a80c44622fbe8372145941] for the purposes of paragraph (1) is not affected by a defect in the form or wording of the statement, provided that the defect does not alter the statement’s meaning and that the words shown in bold type in Part II of the Schedule are so shown in the statement.
+
+(3) If the requirements of paragraphs (4) and (7) are met, the scheme promotion restriction does not apply to any communication which—
+
+- (a) is made to an individual whom the person making the communication believes on reasonable grounds to be a self-certified sophisticated investor;
+- (b) relates only to units falling within paragraph (8); and
+- (c) does not invite or induce the recipient to enter into an agreement under the terms of which he can incur a liability or obligation to pay or contribute more than he commits by way of investment.
+
+(4) The requirements of this paragraph are—
+
+- (a)[^key-3a9d1e749c3c3af86ad097ef1ab104ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^key-0539a2bab47d25198328a1da44d2623a]... that either the communication is accompanied by the giving of a warning and information[^key-cfa119929ffa95389b9ff8929f9baa65] in accordance with paragraphs (5) , (5A)[^key-2c00ebe7b6e73262db09e3dcf068eb11] and (6) or, where because of the nature of the communication this is not reasonably practicable,—
+  - (i) a warning in accordance with paragraph (5) is given to the recipient orally at the beginning of the communication together with an indication that he will receive the warning in legible form and that, before receipt of that warning, he should consider carefully any decision to participate in a collective investment scheme to which the communication relates; and
+  - (ii) a warning and information[^key-ede2b8d6ded6c0f46358f76e5bc2d1aa] in accordance with paragraphs (5) , (5A)[^key-8d5208208cc0c207968f65497d17bdd2] and (6) (d) to (h) is sent to the recipient of the communication within two business days of the day on which the communication is made.
+
+(5) The warning must be in the following terms—
+
+> - Reliance on this promotion for the purpose of buying the[^key-1eb579db0b3e26f04a25622e89b1365e] units to which the promotion relates may expose an individual to a significant risk of losing all of the property or other assets invested.
+
+.
+
+- But, where a warning is sent pursuant to paragraph (4)(b), for the words “this promotion” in both places where they occur there must be substituted wording which clearly identifies the promotion which is the subject of the warning.
+
+(5A)[^key-ab76218bccff6858f7a93b64205d523c] The warning must be accompanied by the following information—
+
+- (a) the full name of the person making the communication, or on whose behalf the communication is made;
+- (b) a postal or electronic address to which a person should send requests for further information or any other enquiry regarding the matters to which the communication relates; and
+- (c) if applicable—
+  - (i) the country or territory in which the person making the communication, or on whose behalf the communication is made, is incorporated;
+  - (ii) where different from the information provided under (b), the address of the registered office of the person making the communication, or on whose behalf the communication is made; and
+  - (iii) the company number, or unique identification equivalent to a registered number required by the law of the state in which it is incorporated, of the person making the communication, or on whose behalf the communication is made.
+
+(6) The warning and information[^key-686d0d18b8c40a4b61f724812af74f1b] must—
+
+- (a) be given at the beginning of the communication;
+- (b) precede any other written or pictorial matter;
+- (c) be in a font size consistent with the text forming the remainder of the communication;
+- (d) be indelible;
+- (e) be legible;
+- (f) be printed in black, bold type;
+- (g) be surrounded by a black border which does not interfere with the text of the warning; and
+- (h) not be hidden, obscured or interrupted by any other written or pictorial matter.
+
+(7) The requirements of this paragraph are that the communication is accompanied by an indication—
+
+- (a) that it is exempt from the scheme promotion restriction (in section 238 of the Act) on the communication of invitations or inducements to participate in unregulated schemes on the ground that it is made to a self-certified sophisticated investor;
+- (b) of the requirements that must be met for an individual to qualify as a self-certified sophisticated investor;
+- (c) that any individual who is in any doubt about the investment to which the invitation or inducement relates should consult an authorised person specialising in advising on investments of the kind in question.
+
+(8) A unit falls within this paragraph if it is in an unregulated scheme which invests wholly or predominantly in the shares in or debentures of one or more an unlisted companies.
+
+(9) “Business day” means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
+
+(10) “Unlisted company” has the meaning given in the Financial Services and Markets Act 2000 (Financial Promotion) Order 2001.
+
+### 24. Associations of high net worth or sophisticated investors[^key-f76daee8e077d74d7aadefd7bce4de9f]
+
+The scheme promotion restriction does not apply to any non-real time communication or solicited real time communication which—
+
+- (a) is made to an association , or to a member of an association,[^key-a979fd9b629640fa7fb9aea9ab9490d3] the membership of which the person making the communication believes on reasonable grounds comprises wholly or predominantly persons who are—
+  - (i) [^key-2d5e29e0489aaa897bf40242a81e3da9]... high net worth individuals within the meaning of article 21;
+  - (ii) high net worth persons falling within article 22(2)(a) to (d);
+  - (iii) certified sophisticated investors within the meaning of article 23 or 23A; and
+- (b) does not invite or induce the recipient to enter into an agreement under the terms of which he can incur a liability or obligation to pay or contribute more than he commits by way of investment.
+
+### 25. Settlors, trustees and personal representatives[^key-b513d8e3ab85a7cf575435b139ed1a5b]
+
+The scheme promotion restriction does not apply to any communication which is made—
+
+- (a) by an authorised person when acting as a settlor or grantor of a trust, a trustee or a personal representative;
+- (b) to a trustee of the trust, a fellow trustee or a fellow personal representative (as the case may be),
+
+if the communication is made for the purposes of the trust or estate.
+
+### 26. Beneficiaries of trust, will or intestacy[^key-8670dad2f609524b9e47a86d1fa7dd8e]
+
+The scheme promotion restriction does not apply to any communication which is made—
+
+- (a) by an authorised person when acting as a settlor of a trust, trustee or personal representative to a beneficiary under the trust, will or intestacy; or
+- (b) by an authorised person who is a beneficiary under a trust, will or intestacy to another beneficiary under the same trust, will or intestacy,
+
+if the communication relates to the management or distribution of that trust fund or estate.
+
+### 27. Remedy following report by Parliamentary Commissioner for Administration[^key-bf2915d5aa696dd83e0dec6d56e67c76]
+
+The scheme promotion restriction does not apply to any communication made or directed by a person for the purpose of enabling any injustice, stated by the Parliamentary Commissioner for Administration in a report under section 10 of the Parliamentary Commissioner Act 1967[^f00006] to have occurred, to be remedied with respect to the recipient.
+
+### 28. Persons placing promotional material in particular publications[^key-37bbd81048df80e5288db0ced2a39986]
+
+The scheme promotion restriction does not apply to any communication received by a person who receives the publication in which the communication is contained because he has himself placed an advertisement in that publication.
+
+### 29. Open-ended investment companies authorised in Northern Ireland[^key-865136959aeb711362dc6d1c518cec73]
+
+(1) The scheme promotion restriction does not apply in relation to a scheme constituted by an authorised Northern Ireland open-ended investment company.
+
+(2) In this article—
+
+- (a) “authorised Northern Ireland open-ended investment company” means a body incorporated by virtue of regulations made under section 1 of the Open-Ended Investment Companies Act (Northern Ireland) 2002 in respect of which an authorisation order is in force; and
+- (b) “authorisation order” means an order made under (or having effect as made under) any provision of those regulations which is made by virtue of section 1(2)(1) of that Act (provision corresponding to Chapter 3 of Part 17 of the Act).
+
+### 30. EEA management companies[^key-912808835bae88f56950fc8e5e6ebcdd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Communications required by the PRIIPs regulation: key information document[^key-6a00be50a0102594f9d48fbb7ac97e4e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Greg Pope
+
+Jim Dowd
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE — STATEMENTS FOR ... HIGH NET WORTH INDIVIDUALS AND SELF-CERTIFIED SOPHISTICATED INVESTORS[^key-64d44acb0eadc66d97394ac0165ab0da][^key-7310e7453eb14cc8159a378577fbf639]
+
+Articles 21 and 23A
+
+### PART I — STATEMENT FOR ... HIGH NET WORTH INDIVIDUALS[^key-cdab959153e119ed56dbc4bd8f056ade]
+
+**1.**[^key-faba8e0318a3ce1a979a391e82b745e2] The statement to be completed and signed for the purposes of article 21(2) (definition of high net worth individual) must be in the following form and contain the following information—[^key-7af3b1045ca63cf2a3f61f583e558c8d]
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/1060/images/uksi_20011060_en_epp_010.gif)
+
+.
+
+### PART II — STATEMENT FOR SELF-CERTIFIED SOPHISTICATED INVESTORS
+
+**2.**[^key-20f07442f1f489cc5313c6ac5fb3c84d] The statement to be completed and signed for the purposes of article 23A(1) (definition of self-certified sophisticated investor) must be in the following form and contain the following information—[^key-e76f04513f16d29f8c945e9c9a8a2027]
+
+[image: see source](https://www.legislation.gov.uk/uksi/2001/1060/images/uksi_20011060_en_epp_011.gif)
+
+.
+
+(This note does not form part of the Order)
+
+This Order sets out the circumstances in which a person who is authorised for the purposes of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (“the Act”) can promote collective investment schemes which are not authorised or regulated under the Act. Section 238 of the Act precludes an authorised person from inviting or inducing someone to participate in a collective investment scheme unless that scheme is an authorised unit trust scheme, a scheme constituted by an open ended investment company authorised pursuant to regulations made under section 262 of the Act or an overseas scheme recognised pursuant to section 264, 270 or 272 of the Act. Section 238(6) provides for the Treasury to disapply that prohibition.
+
+Part I of the Order provides for the commencement and citation of the Order and defines certain terms used in the subsequent articles.
+
+Part II of the Order sets the territorial scope of the prohibition. Section 238(3) of the Act states that the prohibition applies to a communication originating outside the United Kingdom if it is capable of having an effect in the United Kingdom. Article 8 exempts all communications made to people outside the United Kingdom except for unsolicited real time communications which are only exempt if they are made from outside the United Kingdom and relate to an overseas scheme. Article 9 exempts all non-real time communications and solicited real time communications which are made from outside the United Kingdom and which relate to an overseas scheme. Article 10 exempts unsolicited real time communications made from outside the United Kingdom if they are made to a previously overseas customer and relate to an overseas scheme.
+
+Part III of the Order sets out further exemptions for the promotion of unregulated schemes. These mirror some of the exemptions conferred on promotions by unauthorised people in the Financial Services and Markets Act 2000 (Financial Promotion) Order 2001 (S.I. [2001/1335](https://www.legislation.gov.uk/uksi/2001/1335)).
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-4106b4ebea8bad5243ab05b25c184250]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/1060/article/1) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-8459b1f1bbc0ec1732d3c4e891a202bc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/1060/article/2) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-afa08241f8801736279a7e2254185ac2]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/1060/article/2/1) substituted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/10/2/a) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-98ebfef200564b8ee0f266d45772fff8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/1060/article/2/1) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/16), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/2005/2114/schedule/16/paragraph/2)
+
+[^key-cbb1ba704cc2e30f2a5b2c10ecb4e966]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/1060/article/2/1) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [11](https://www.legislation.gov.uk/uksi/2023/1411/article/11)
+
+[^key-7516c1b9cd0064b3246d2d4126c6eb43]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/1060/article/2/1) inserted (5.6.2002) by [The Financial Services and Markets Act 2000 (Financial Promotion and Miscellaneous Amendments) Order 2002 (S.I. 2002/1310)](https://www.legislation.gov.uk/uksi/2002/1310), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1310/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/1310/article/3/2)
+
+[^f00002]: Footnote: S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^key-53b2df6631b369c853b761164e960552]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/1060/article/2/1) substituted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/5/2)
+
+[^key-e12dca25ac47fd657ec08c216621c15b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/1060/article/2/1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/10/2/b) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-debe9b8b314fa622cbdd483025b05212]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/1060/article/3) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-9ff7876425875298c50a497737e02190]: Textual amendment: [Art. 3(f)-(h)](https://www.legislation.gov.uk/uksi/2001/1060/article/3/f) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [50(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/50/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-be0cd332d43d9a8d33f98e0f73a1d9f7]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/1060/article/4) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-0e24d7c1c54b4f8447211df648a28368]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2001/1060/article/5) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-73e7c032e6eb46aeaf16e5d26d99d774]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2001/1060/article/5A) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [50(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/50/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a46b9b1a8b54f4d491cc4963cc7ef944]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2001/1060/article/6) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-351a69227633e3f446cdbd8d464193da]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2001/1060/article/7) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-f837a2e54311b5fdb88666e563845f4f]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2001/1060/article/8) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-98d91736814fd2a239e352ad6d9265ae]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/2001/1060/article/8/1) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [50(4)(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/50/4/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-90c853b414c334febd2e850b44eda932]: Textual amendment: [Art. 8(7)](https://www.legislation.gov.uk/uksi/2001/1060/article/8/7) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [50(4)(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/50/4/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4af8dd26031938fa7482bbcd007aac1e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2001/1060/article/9) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-80bdb6895a13e65f3338a73606f4b993]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2001/1060/article/10) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-eda57505f7673fe02da0c12e092cf42f]: Textual amendment: [Art. 10A](https://www.legislation.gov.uk/uksi/2001/1060/article/10A) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [50(5)](https://www.legislation.gov.uk/uksi/2019/325/regulation/50/5) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fbc1e1c8233a9b9efa9377bb800ecb72]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2001/1060/article/11) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-1dcd5b8082aa85d993441b27ac1dbba9]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2001/1060/article/12) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-1870472616d34914b13634196aa6d71f]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2001/1060/article/13) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-f509fcdf354f923badd24c101f367e24]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2001/1060/article/14) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-5c467522570a15e75d1cc31337c27cb7]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2001/1060/article/15) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-e016d8f9bc41a091fbbf78846a9ab1bd]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/uksi/2001/1060/article/15A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2001 (S.I. 2001/2633)](https://www.legislation.gov.uk/uksi/2001/2633), [arts. 1](https://www.legislation.gov.uk/uksi/2001/2633/article/1), [3](https://www.legislation.gov.uk/uksi/2001/2633/article/3)
+
+[^key-4f3b071c93abceb4a9ab0ae7064af11a]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2001/1060/article/16) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-232132bed216557f435653bef3cbca35]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/uksi/2001/1060/article/16) renumbered as art. 16(1) (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/5/3/a)
+
+[^key-50fc02cee36cb6ad5077151bfb466303]: Textual amendment: [Art. 16(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/16/2)[(3)](https://www.legislation.gov.uk/uksi/2001/1060/article/16/3) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/5/3/b)
+
+[^key-ae60805723c1eaaf65f939b1cf74edfd]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/uksi/2001/1060/article/16/3) inserted (20.2.2019) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [50(6)(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/50/6/a)
+
+[^key-15b8373cddb63b27577e4798ae6afc62]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/uksi/2001/1060/article/16/3) inserted (20.2.2019) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [50(6)(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/50/6/b)
+
+[^key-f29c33c38b8992efca516c34c8c41fd5]: Textual amendment: [Art. 16(4)](https://www.legislation.gov.uk/uksi/2001/1060/article/16/4) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1410/regulation/6)
+
+[^key-802e0cad35c2805d80f674a3b7863d64]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2001/1060/article/17) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-1ab6f253570b10b6356f982d53238094]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2001/1060/article/18) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-6a459adb79ba7e818af29f68455607b5]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2001/1060/article/19) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-688125c7a6bbbf2538effb8821f6421b]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2001/1060/article/20) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-f82318c6844a22a1b1be98e3b8ef4163]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/uksi/2001/1060/article/21) substituted (3.3.2005) by [The Financial Services and Markets Act 2000 (Financial Promotion and Promotion of Collective Investment Schemes) (Miscellaneous Amendments) Order 2005 (S.I. 2005/270)](https://www.legislation.gov.uk/uksi/2005/270), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/270/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/270/schedule/2/paragraph/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/270/article/5))
+
+[^key-208b85630e09a47489fc3d72c2e4b7c2]: Textual amendment: Word in [art. 21](https://www.legislation.gov.uk/uksi/2001/1060/article/21) heading omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/2)
+
+[^key-df684da3f9f81bc9ac7d2ece46a0d73b]: Textual amendment: Word in [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/1/b) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/3)
+
+[^key-0f8f6183de29967fc9fb5c98fde6bd83]: Textual amendment: [Art. 21(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/2) substituted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/4)
+
+[^key-e899b02cecf52ffb36f28038cba1c5cc]: Textual amendment: Words in [art. 21(3)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/3) substituted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(5)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/5)
+
+[^key-1dd4d98e7b4f7871922e0edeb02a2b2b]: Textual amendment: Words in [art. 21(4)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/4) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(6)(a)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/6/a)
+
+[^key-494aad9fb2598126a28c869139fcce2b]: Textual amendment: Word in [art. 21(4)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/4) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(6)(b)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/6/b)
+
+[^key-6076b1c7856a130ca2f692bf2153ac72]: Textual amendment: Words in [art. 21(4)(b)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/4/b) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(6)(a)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/6/a)
+
+[^key-c36b4a74342160c7deb9c9ba4e9c1b07]: Textual amendment: Word in [art. 21(4)(b)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/4/b) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(6)(b)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/6/b)
+
+[^key-cae7f1d71bd8190f962df7ebcba9a0ad]: Textual amendment: [Art. 21(5A)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/5A) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(7)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/7)
+
+[^key-140bcb0068cd02cbcc3efa3cb09fbab5]: Textual amendment: Words in [art. 21(6)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/6) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/8)
+
+[^key-434d4761fe03c955170ca73cc3b08e10]: Textual amendment: Word in [art. 21(7)(a)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/7) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/3)
+
+[^key-57301172715f360881df392a8544779c]: Textual amendment: Word in [art. 21(7)(b)](https://www.legislation.gov.uk/uksi/2001/1060/article/21/7) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2023/1411/article/12/3)
+
+[^key-d3e8a5c018617bf0aad41a94e070f60c]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2001/1060/article/22) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-d247b6af61d032fadfccc8e889929695]: Textual amendment: [Art. 22(2)(a)](https://www.legislation.gov.uk/uksi/2001/1060/article/22/2/a) substituted (5.6.2002) by [The Financial Services and Markets Act 2000 (Financial Promotion and Miscellaneous Amendments) Order 2002 (S.I. 2002/1310)](https://www.legislation.gov.uk/uksi/2002/1310), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1310/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/1310/article/3/3)
+
+[^key-7045436ba9dcf022f7b32436a592cc37]: Textual amendment: Words in [art. 22(5)](https://www.legislation.gov.uk/uksi/2001/1060/article/22/5) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [14(3)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/14/3/a)
+
+[^key-7607c9f0d3185f53be09c93ed47f9d19]: Textual amendment: Words in [art. 22(5)](https://www.legislation.gov.uk/uksi/2001/1060/article/22/5) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [14(3)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/14/3/b)
+
+[^key-be619be5c430dc3abf7b41fd1d1c55a1]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2001/1060/article/23) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-af3d87ac629aa60332fdce5388478d76]: Textual amendment: [Art. 23(1A)](https://www.legislation.gov.uk/uksi/2001/1060/article/23/1A) inserted (3.3.2005) by [The Financial Services and Markets Act 2000 (Financial Promotion and Promotion of Collective Investment Schemes) (Miscellaneous Amendments) Order 2005 (S.I. 2005/270)](https://www.legislation.gov.uk/uksi/2005/270), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/270/article/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/270/schedule/2/paragraph/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/270/article/5))
+
+[^key-965ccf479aa1e9a55a4a0fc95c68628a]: Textual amendment: [Art. 23A](https://www.legislation.gov.uk/uksi/2001/1060/article/23A) inserted (3.3.2005) by [The Financial Services and Markets Act 2000 (Financial Promotion and Promotion of Collective Investment Schemes) (Miscellaneous Amendments) Order 2005 (S.I. 2005/270)](https://www.legislation.gov.uk/uksi/2005/270), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/270/article/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/270/schedule/2/paragraph/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/270/article/5))
+
+[^key-bf95189dc6ae84afa42b322be021388c]: Textual amendment: [Art. 23A(1)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/1) substituted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/13/2)
+
+[^key-5acc4b0346a80c44622fbe8372145941]: Textual amendment: Words in [art. 23A(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/2) substituted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2023/1411/article/13/3)
+
+[^key-3a9d1e749c3c3af86ad097ef1ab104ae]: Textual amendment: [Art. 23A(4)(a)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/4/a) and word revoked (1.7.2005) by [The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) (Amendment) Order 2005 (S.I. 2005/1532)](https://www.legislation.gov.uk/uksi/2005/1532), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1532/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2005/1532/article/2/2/a)
+
+[^key-0539a2bab47d25198328a1da44d2623a]: Textual amendment: Words in [art. 23A(4)(b)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/4/b) revoked (1.7.2005) by [The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) (Amendment) Order 2005 (S.I. 2005/1532)](https://www.legislation.gov.uk/uksi/2005/1532), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1532/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2005/1532/article/2/2/b)
+
+[^key-cfa119929ffa95389b9ff8929f9baa65]: Textual amendment: Words in [art. 23A(4)(b)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/4/b) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2023/1411/article/13/4/a)
+
+[^key-2c00ebe7b6e73262db09e3dcf068eb11]: Textual amendment: Word in [art. 23A(4)(b)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/4/b) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [13(4)(b)](https://www.legislation.gov.uk/uksi/2023/1411/article/13/4/b)
+
+[^key-ede2b8d6ded6c0f46358f76e5bc2d1aa]: Textual amendment: Words in [art. 23A(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/4/b/ii) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2023/1411/article/13/4/a)
+
+[^key-8d5208208cc0c207968f65497d17bdd2]: Textual amendment: Word in [art. 23A(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/4/b/ii) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [13(4)(b)](https://www.legislation.gov.uk/uksi/2023/1411/article/13/4/b)
+
+[^key-1eb579db0b3e26f04a25622e89b1365e]: Textual amendment: Word in [art. 23A(5)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/5) inserted (1.7.2005) by [The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) (Amendment) Order 2005 (S.I. 2005/1532)](https://www.legislation.gov.uk/uksi/2005/1532), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1532/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2005/1532/article/2/2/c)
+
+[^key-ab76218bccff6858f7a93b64205d523c]: Textual amendment: [Art. 23A(5A)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/5A) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [13(5)](https://www.legislation.gov.uk/uksi/2023/1411/article/13/5)
+
+[^key-686d0d18b8c40a4b61f724812af74f1b]: Textual amendment: Words in [art. 23A(6)](https://www.legislation.gov.uk/uksi/2001/1060/article/23A/6) inserted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [13(6)](https://www.legislation.gov.uk/uksi/2023/1411/article/13/6)
+
+[^key-f76daee8e077d74d7aadefd7bce4de9f]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2001/1060/article/24) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-a979fd9b629640fa7fb9aea9ab9490d3]: Textual amendment: Words in [art. 24(a)](https://www.legislation.gov.uk/uksi/2001/1060/article/24/a) inserted (1.7.2005) by [The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) (Amendment) Order 2005 (S.I. 2005/1532)](https://www.legislation.gov.uk/uksi/2005/1532), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1532/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/1532/article/2/3)
+
+[^key-2d5e29e0489aaa897bf40242a81e3da9]: Textual amendment: Word in [art. 24(a)(i)](https://www.legislation.gov.uk/uksi/2001/1060/article/24/a/i) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [14](https://www.legislation.gov.uk/uksi/2023/1411/article/14)
+
+[^key-b513d8e3ab85a7cf575435b139ed1a5b]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2001/1060/article/25) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-8670dad2f609524b9e47a86d1fa7dd8e]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2001/1060/article/26) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-bf2915d5aa696dd83e0dec6d56e67c76]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2001/1060/article/27) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^f00006]: Footnote: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13). This Act has been amended by the Parliamentary Commissioner Act [1994 (c. 14)](https://www.legislation.gov.uk/ukpga/1994/14).
+
+[^key-37bbd81048df80e5288db0ced2a39986]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2001/1060/article/28) in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1060/article/1/2)
+
+[^key-865136959aeb711362dc6d1c518cec73]: Textual amendment: [Art. 29](https://www.legislation.gov.uk/uksi/2001/1060/article/29) inserted (5.9.2003) by [The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes etc.) (Exemptions) (Amendment) Order 2003 (S.I. 2003/2067)](https://www.legislation.gov.uk/uksi/2003/2067), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2003/2067/article/1/2/a), [2(3)](https://www.legislation.gov.uk/uksi/2003/2067/article/2/3)
+
+[^key-912808835bae88f56950fc8e5e6ebcdd]: Textual amendment: [Art. 30](https://www.legislation.gov.uk/uksi/2001/1060/article/30) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [50(7)](https://www.legislation.gov.uk/uksi/2019/325/regulation/50/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6a00be50a0102594f9d48fbb7ac97e4e]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/uksi/2001/1060/article/31) omitted (22.11.2024 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Consumer Composite Investments (Designated Activities) Regulations 2024 (S.I. 2024/1198)](https://www.legislation.gov.uk/uksi/2024/1198), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/1198/schedule/1/paragraph/3); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/7/b)
+
+[^key-64d44acb0eadc66d97394ac0165ab0da]: Textual amendment: Sch. inserted (3.3.2005) by [The Financial Services and Markets Act 2000 (Financial Promotion and Promotion of Collective Investment Schemes) (Miscellaneous Amendments) Order 2005 (S.I. 2005/270)](https://www.legislation.gov.uk/uksi/2005/270), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/270/article/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2005/270/schedule/2/paragraph/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/270/article/5))
+
+[^key-7310e7453eb14cc8159a378577fbf639]: Textual amendment: Word in Sch. heading omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2023/1411/article/15/1)
+
+[^key-cdab959153e119ed56dbc4bd8f056ade]: Textual amendment: Word in Sch. Pt. 1 heading omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/15/2)
+
+[^key-faba8e0318a3ce1a979a391e82b745e2]: Textual amendment: Sch. Pt. 1 para. 1 substituted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2023/1411/article/15/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1411/schedule/3)
+
+[^key-7af3b1045ca63cf2a3f61f583e558c8d]: Textual amendment: Sch. Pt. 1 para. 1 form substituted (27.3.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment and Transitional Provision) Order 2024 (S.I. 2024/301)](https://www.legislation.gov.uk/uksi/2024/301), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/301/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/301/article/3/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/301/schedule/1) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2024/301/article/5/1)[(5)](https://www.legislation.gov.uk/uksi/2024/301/article/5/5))
+
+[^key-20f07442f1f489cc5313c6ac5fb3c84d]: Textual amendment: Sch. Pt. 2 para. 2 substituted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2023/1411/article/15/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2023/1411/schedule/4)
+
+[^key-e76f04513f16d29f8c945e9c9a8a2027]: Textual amendment: Sch. Pt. 2 para. 2 form substituted (27.3.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment and Transitional Provision) Order 2024 (S.I. 2024/301)](https://www.legislation.gov.uk/uksi/2024/301), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/301/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/301/article/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/301/schedule/2) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2024/301/article/5/2)[(5)](https://www.legislation.gov.uk/uksi/2024/301/article/5/5))

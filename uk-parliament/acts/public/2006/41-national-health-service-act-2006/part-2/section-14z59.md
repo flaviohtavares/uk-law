@@ -1,0 +1,49 @@
+---
+title: National Health Service Act 2006, section 14Z59
+act: National Health Service Act 2006
+section: 14Z59
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2006/41/section/14Z59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Health Service Act 2006, section 14Z59
+
+> **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 14Z59. Performance assessment of integrated care boards[^key-0977b6b7f4c41c860f11375ed30d35ad]
+
+*Extent: E+W*
+
+(1) NHS England must conduct a performance assessment of each integrated care board in respect of each financial year.
+
+(2) A performance assessment is an assessment of how well the integrated care board has discharged its functions during that year.
+
+(3) The assessment must, in particular, include an assessment of how well the integrated care board has discharged its duties under—
+
+- (a) section 14Z34 (improvement in quality of services),
+- (b) section 14Z35 (reducing inequalities),
+- (c) section 14Z38 (obtaining appropriate advice),
+- (d) section 14Z40 (duty in respect of research),
+- (e) section 14Z43 (duty to have regard to effect of decisions),
+- (f) section 14Z45 (public involvement and consultation),
+- (g) sections 223GB to 223N (financial duties), and
+- (h) section 116B(1) of the Local Government and Public Involvement in Health Act 2007 (duty to have regard to assessments and strategies).
+
+(4) In conducting a performance assessment, NHS England must consult each relevant Health and Wellbeing Board as to its views on any steps that the board has taken to implement any joint local health and wellbeing strategy to which the board was required to have regard under section 116B(1) of that Act of 2007.
+
+(5) In conducting a performance assessment, NHS England must, in particular, have regard to—
+
+- (a) any guidance published by the Secretary of State for the purposes of this section, and
+- (b) any guidance published under section 14Z51.
+
+(6) NHS England must publish a report in respect of each financial year containing a summary of the results of each performance assessment conducted by NHS England in respect of that year.
+
+## Annotations
+
+[^key-0977b6b7f4c41c860f11375ed30d35ad]: Textual amendment: [Ss. 14Z32-14Z64](https://www.legislation.gov.uk/ukpga/2006/41/section/14Z32) and cross-headings inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/25/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30), [33](https://www.legislation.gov.uk/uksi/2022/734/regulation/33))

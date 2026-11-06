@@ -1,0 +1,72 @@
+---
+title: Water Industry Act 1991, section 105B
+act: Water Industry Act 1991
+section: 105B
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1991/56/section/105B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Water Industry Act 1991, section 105B
+
+> **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 105B. Adoption schemes: appeals[^c19838871]
+
+*Extent: E+W*
+
+(1) Any person falling within subsection (2) below may appeal to the Authority if he is aggrieved by—
+
+- (a) the proposal of a sewerage undertaker to make a declaration under section 102 above in relation to a sewer, lateral drain or sewage disposal works, pursuant to the undertaker’s duty to do so under section 105A(4) above (the “relevant duty”); or
+- (b) the failure of a sewerage undertaker to make such a proposal pursuant to that duty.
+
+(2) The persons referred to are—
+
+- (a) an owner of a sewer, lateral drain or sewage disposal works;
+- (b) any other person affected by the proposal, or the failure, in question.
+
+(3) The grounds upon which a person may appeal are—
+
+- (a) in a subsection (1)(a) case, that the relevant duty is not owed in relation to the sewer, lateral drain or sewage disposal works, or that the making of the proposed declaration would be seriously detrimental to him;
+- (b) in a subsection (1)(b) case, that the relevant duty is owed in relation to the sewer, lateral drain or sewage disposal works; or
+- (c) any other prescribed ground.
+
+(4) An appeal under subsection (1)(a) above shall be made within two months after notice of the proposal is—
+
+- (a) served on the owner of the sewer, lateral drain or sewage disposal works; or
+- (b) published in accordance with section 102(4) above as modified by section 105A(6) above,
+
+(or, if both occur, within two months after whichever is the later).
+
+(5) An appeal under subsection (1)(b) above shall be made within such period as is specified in the scheme (not being less than two months).
+
+(6) On the hearing of an appeal under subsection (1) above, the Authority may—
+
+- (a) in a subsection (1)(a) case, allow or disallow the proposal of the sewerage undertaker; or
+- (b) in a subsection (1)(b) case, determine that the undertaker was not under the relevant duty in relation to the sewer, lateral drain or sewage disposal works in question,
+
+or, in either case, make any declaration that the sewerage undertaker might have made, unless the proposal is disallowed.
+
+(7) If, in a subsection (1)(a) case, the Authority finds that the making of the proposed declaration would be seriously detrimental to the appellant, it shall disregard any duty on the part of the sewerage undertaker to make the proposal for the purpose of determining whether to allow or disallow the proposal.
+
+(8) If, in a subsection (1)(a) case, the Authority disallows the proposal of the sewerage undertaker, the scheme pursuant to which it was made shall have effect as if there were no duty under section 105A(4) above on the sewerage undertaker in relation to the sewer, lateral drain or sewage disposal works in question.
+
+(9) Where the Authority makes a declaration under subsection (6) above, it may, if it thinks fit—
+
+- (a) specify conditions, including conditions as to the payment of compensation by the sewerage undertaker; and
+- (b) direct that its declaration shall not take effect unless any conditions so specified are accepted.
+
+(10) A declaration made under subsection (6) above shall have the same effect as if it had been made by the undertaker.
+
+(11) The Secretary of State may by regulations make further provision in connection with appeals under this section.
+
+(12) The regulations may, in particular, require the Authority to have regard to prescribed matters when determining an appeal under this section.
+
+## Annotations
+
+[^c19838871]: Textual amendment: Ss. 105A-105C inserted (1.4.2007) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 98](https://www.legislation.gov.uk/ukpga/2003/37/section/98), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/b)

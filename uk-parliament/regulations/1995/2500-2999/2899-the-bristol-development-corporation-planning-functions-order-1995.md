@@ -1,0 +1,106 @@
+---
+title: The Bristol Development Corporation (Planning Functions) Order 1995
+id: uksi/1995/2899
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-11-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/2899
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/2899/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bristol Development Corporation (Planning Functions) Order 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 2899
+
+URBAN DEVELOPMENT
+
+TOWN AND COUNTRY PLANNING, ENGLAND AND WALES
+
+ACQUISITION OF LAND, ENGLAND AND WALES
+
+The Bristol Development Corporation (Planning Functions) Order 1995
+
+Made
+
+6th November 1995
+
+Laid before Parliament
+
+15th November 1995
+
+Coming into force
+
+18th December 1995
+
+The Secretary of State for the Environment, in exercise of the powers conferred on him by sections 148(2) and 149(1), (3) and (11) of the Local Government, Planning and Land Act 1980[^f00001] and sections 59 and 333(7) of the Town and Country Planning Act 1990[^f00002], and of all other powers enabling him in that behalf, hereby makes the following Order —
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Bristol Development Corporation (Planning Functions) Order 1995 and shall come into force on 18th December 1995.
+
+(2) In this Order—
+
+- “the 1990 Act” means the Town and Country Planning Act 1990;
+- “the authority” means the authority which, but for the Bristol Development Corporation (Planning Functions) Order 1989[^f00003], would be the local planning authority, within the meaning of section 336(1) of the 1990 Act;
+- “the development area” means the area designated as an urban development area by the Bristol Development Corporation (Area and Constitution) Order 1988[^f00004]; and
+- “the development corporation” means the Bristol Development Corporation.
+
+## 2. Revocation of the planning functions and special development orders
+
+The Bristol Development Corporation (Planning Functions) Order 1989 and the Town and Country Planning (Bristol Urban Development Area) Special Development Order 1989[^f00005] are hereby revoked.
+
+## 3. Transitional provisions in connection with planning functions
+
+Anything which before the date of the coming into force of this Order was in the process of being done by, to or in relation to the development corporation in connection with any of the functions transferred to it under article 3 of the Bristol Development Corporation (Planning Functions) Order 1989 (planning functions of the development corporation) may be continued after that date by, to or in relation to the authority.
+
+## 4. Liability for compensation in connection with planning functions; section 106 planning obligations
+
+(1) Where a right to compensation arises under section 107, 108, 115, 186, 203 or 204 of the 1990 Act[^f00006] or section 28 or 29 of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00007] in consequence of action taken in relation to land within the development area by the development corporation, the Secretary of State shall be liable for any compensation which is payable.
+
+(2) Where the Secretary of State makes an order or serves a notice, as the case may be, under section 100, 104, 185 or 202 of, or paragraph 11 of Schedule 9 to, the 1990 Act[^f00008] in respect of a matter arising before the date of the coming into force of this Order, which relates to land within the development area, the Secretary of State shall be liable to pay any compensation arising from the order or notice.
+
+(3) A planning obligation entered into by agreement or otherwise under section 106 of the 1990 Act[^f00009] before the date of the coming into force of this Order which identifies the development corporation as the local planning authority by whom the obligation is enforceable shall after that date be enforceable by the authority.
+
+Signed by authority of the Secretary of State for the Environment
+
+David Curry
+
+Minister of State,
+
+Department of the Environment
+
+1995
+
+(This note is not part of the Order)
+
+This Order revokes the Bristol Development Corporation (Planning Functions) Order 1989 and the Town and Country Planning (Bristol Urban Development Area) Special Development Order 1989 and makes transitional provisions in connection with the transfer of planning functions from the Bristol Development Corporation to the councils of the City of Bristol and the County of Avon.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65); subsections (1) and (3) of section 149 were amended, respectively, by Part I of Schedule 1 and paragraph 44(6) of Schedule 2 to the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11). Section 149(1) enables the Secretary of State to provide that an urban development corporation shall be the local planning authority for the whole or any portion of its area for such purposes of Part III of the 1990 Act, and in relation to such kinds of development, as may be prescribed; *see*section 149(13) for the definition of “prescribed”.
+
+[^f00002]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00003]: Footnote: S.I. [1989/93](https://www.legislation.gov.uk/uksi/1989/93).
+
+[^f00004]: Footnote: S.I. [1989/91](https://www.legislation.gov.uk/uksi/1989/91), amended by S.I. [1989/92](https://www.legislation.gov.uk/uksi/1989/92).
+
+[^f00005]: Footnote: S.I. [1989/2205](https://www.legislation.gov.uk/uksi/1989/2205), to which there are amendments not relevant to this Order.
+
+[^f00006]: Footnote: Section 107 was amended by paragraph 8 of Schedule 1 and paragraph 13 of Schedule 6 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34); section 108 was amended by section 13(4) of that Act; and section 186 was amended by sections 9(3) and 84(6) of, and paragraph 29 of Schedule 7 and Part I of Schedule 19 to, that Act.
+
+[^f00007]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).
+
+[^f00008]: Footnote: Section 100 was amended by paragraph 5 of Schedule 1 to the Planning and Compensation Act 1991.
+
+[^f00009]: Footnote: Section 106 was substituted by section 12 of the Planning and Compensation Act 1991.

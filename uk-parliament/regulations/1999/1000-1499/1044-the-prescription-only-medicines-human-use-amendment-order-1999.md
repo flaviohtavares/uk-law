@@ -1,0 +1,190 @@
+---
+title: The Prescription Only Medicines (Human Use) Amendment Order 1999
+id: uksi/1999/1044
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-03-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/1044
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1044/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Prescription Only Medicines (Human Use) Amendment Order 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 1044
+
+MEDICINES
+
+The Prescription Only Medicines (Human Use) Amendment Order 1999
+
+Made
+
+30th March 1999
+
+Laid before Parliament
+
+31st March 1999
+
+Coming into force
+
+22nd April 1999
+
+The Secretaries of State concerned with health in England, in Wales and in Scotland respectively and the Department of Health and Social Services for Northern Ireland, acting jointly, in exercise of the powers conferred upon them by sections 58(1), (4) and (5) and 129(4) of the Medicines Act 1968[^f00001] or, as the case may be, those conferred by the said provisions and now vested in them[^f00002], and of all other powers enabling them in that behalf, after consulting such organisations as appear to them to be representative of interests likely to be substantially affected by this Order pursuant to section 129(6) of that Act, after consulting and taking into account the advice of the Committee on Safety of Medicines pursuant to sections 58(6) and 129(7) of that Act[^f00003], and after taking into account the advice of the Medicines Commission pursuant to section 129(7) of that Act, hereby make the following Order:—
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Prescription Only Medicines (Human Use) Amendment Order 1999 and shall come into force on 22nd April 1999.
+
+(2) In this Order, “the principal Order” means the Prescription Only Medicines (Human Use) Order 1997[^f00004].
+
+## 2. Amendment of Schedule 1 to the principal Order
+
+In Schedule 1 to the principal Order (which specifies substances which if included in medicinal products make those products prescription only medicines and exemptions from restrictions on the sale and supply of prescription only medicines)—
+
+- (a) in relation to the substance Aspirin[^f00005], the entries in columns 2, 3 and 5 numbered “(1)” are re-numbered “(2)”, the entry in column 3 numbered “(2)” is re-numbered “(3)”; and, before those entries re-numbered “(2)”, there are inserted the following entries—
+  - in column 2—
+
+    > (1) 75mg
+
+    ,
+  - in column 3—
+
+    > (1) Non-effervescent tablets and capsules
+
+    ,
+  - in column 5—
+
+    > (1) The quantity sold or supplied in one container or package shall not exceed 100
+    >
+    > - The quantity of non-effervescent tablets, capsules or a combination of both sold or supplied to a person at any one time shall not exceed 100
+
+    ;
+- (b) in relation to the substance Beclomethasone Dipropionate[^f00006], in the entry in column 5, for “5,600 mcg” there is substituted “20,000 mcg”;
+- (c) in relation to the substance Hydrocortisone[^f00007], the entry in each of columns 2 and 5 is, and the entries in column 3 are, numbered “(2)”; and, before the entries in columns 2, 3 and 5, there are inserted the following entries—
+  - in column 2—
+
+    > (1) 0.5 per cent
+
+    ,
+  - in column 3—
+
+    > (1) External
+    >
+    > - For use in combination with Nystatin of maximum strength 3.0 per cent for intertrigo
+    > - For use in adults and children not less than 10 years
+
+    ,
+  - in column 5—
+
+    > (1) Container or package containing not more than 15g of medicinal product
+
+    ;
+- (d) in relation to the substance Nystatin, there are inserted the following entries—
+  - in column 2—
+
+    > - 3.0 per cent
+
+    ,
+  - in column 3—
+
+    > **External**
+    >
+    > - For use in combination with Hydrocortisone of maximum strength 0.5 per cent for intertrigo
+    > - For use in adults and children not less than 10 years
+
+    ,
+  - in column 5—
+
+    > Container or package containing not more than 15g of medicinal product
+
+    ; and
+- (e) there is inserted in column 1, at the appropriate place in the alphabetical order of the entries in that column, each of the following substances—
+
+  > Candesartan Cilexetil
+
+  > Lornoxicam
+
+  > Losartan Potassium
+
+  > Nebivolol Hydrochloride
+
+  > Nisoldipine
+
+  > Propiverine Hydrochloride
+
+  > Quetiapine Fumarate
+
+  > Tacalcitol Monohydrate
+
+  .
+
+Signed by authority of the Secretary of State for Health
+
+Hayman
+
+Parliamentary Under Secretary of State
+
+Department of Health
+
+24th March 1999
+
+Signed by authority of the Secretary of State for Wales
+
+Jon Owen Jones
+
+Parliamentary Under Secretary of State Welsh Office
+
+29th March 1999
+
+Signed by authority of the Secretary of State for Scotland
+
+Sam Galbraith
+
+Parliamentary Under Secretary of State Scottish Office
+
+25th March 1999
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
+
+D. C. Gowdy
+
+Permanent Secretary
+
+30th March 1999.
+
+(This note is not part of the Order)
+
+This Order amends the Prescription Only Medicines (Human Use) Order 1997 (“the principal Order”) which specifies descriptions and classes of prescription only medicines (i.e. medicinal products which, subject to exemptions, may be sold or supplied by retail only with a prescription given by an appropriate practitioner and which may be administered only by or in accordance with the directions of such a practitioner). Under the principal Order, products are included in a class of medicines by reason of the substances contained in them, subject to their being excluded in specified circumstances.
+
+The amendments made by this Order are as follows—
+
+- Amendments to the conditions under which Aspirin may be sold or supplied otherwise than as a prescription only medicine (to permit containers or packages holding up to 100 tablets or capsules of non-effervescent Aspirin, at 75 mg strength, to be so sold or supplied), and the insertion of conditions under which Hydrocortisone in combination with Nystatin may be so sold or supplied (for the treatment of intertrigo).
+- Amendment to the conditions under which Beclomethasone Dipropionate may be sold or supplied otherwise than as a prescription only medicine, correcting an error in the principal Order;
+- The inclusion in Schedule 1 to the principal Order of the substances Candesartan Cilexetil, Lornoxicam, Losartan Potassium, Nebivolol Hydrochloride, Nisoldipine, Propiverine Hydrochloride, Quetiapine Fumarate and Tacalcitol Monohydrate.
+
+An assessment of the cost to business of complying with this Order has been made, copies of which have been placed in the libraries of both Houses of Parliament. Further copies may be obtained from the Department of Health, Medicines Control Agency, Information Centre, Room 1207 Market Towers, 1 Nine Elms Lane, London SW8 5NQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67). The expressions “the appropriate Ministers” and “the Health Ministers” are defined in section 1 of that Act as amended by S.I. [1969/388](https://www.legislation.gov.uk/uksi/1969/388), Schedule 1.
+
+[^f00002]: Footnote: In the case of the Secretaries of State concerned with health in England and Wales, by virtue of article 2(2) of, and Schedule 1 to, the Transfer of Functions (Wales) Order 1969, and in the case of the Department of Health and Social Services for Northern Ireland, by virtue of section 40 of, and Schedule 5 to, the Northern Ireland Constitution Act [1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36) and section 1(3) of, and paragraph 2(1)(b) of Schedule 1 to, the Northern Ireland Act [1974 (c. 28)](https://www.legislation.gov.uk/ukpga/1974/28).
+
+[^f00003]: Footnote: The “appropriate committee”, as referred to in section 58(6), is defined in section 4(6) of the 1968 Act; the Committee on Safety of Medicines was established under section 4, by S.I. [1970/1257](https://www.legislation.gov.uk/uksi/1970/1257), for the purposes set out in that instrument.
+
+[^f00004]: Footnote: S.I. [1997/1830](https://www.legislation.gov.uk/uksi/1997/1830), amended by S.I. [1997/2044](https://www.legislation.gov.uk/uksi/1997/2044), [1998/108](https://www.legislation.gov.uk/uksi/1998/108), [1178](https://www.legislation.gov.uk/uksi/1998/1178) and [2081](https://www.legislation.gov.uk/uksi/1998/2081).
+
+[^f00005]: Footnote: The entry was inserted by S.I. [1997/2044](https://www.legislation.gov.uk/uksi/1997/2044) and amended by S.I. [1998/2081](https://www.legislation.gov.uk/uksi/1998/2081).
+
+[^f00006]: Footnote: The entry was amended by S.I. [1998/2081](https://www.legislation.gov.uk/uksi/1998/2081).
+
+[^f00007]: Footnote: The entry was amended by S.I. [1998/108](https://www.legislation.gov.uk/uksi/1998/108).

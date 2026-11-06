@@ -1,0 +1,1481 @@
+---
+title: Agricultural Tenancies Act 1995
+id: ukpga/1995/8
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1995-05-09'
+text_date: '2025-05-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/8
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1995/8/pdfs/ukpga_19950008_en.pdf
+- http://www.legislation.gov.uk/ukpga/1995/8/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Agricultural Tenancies Act 1995
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W*
+
+Agricultural Tenancies Act 1995
+
+1995 c. 8
+
+An Act to make further provision with respect to tenancies which include agricultural land.
+
+\[9th May 1995\]
+
+[^c831797][^c831798][^c831799][^c831800]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-45c6fec1f7c3839878e5d6e790ae25a7]
+
+*Extent: E+W*
+
+## Part I — GENERAL PROVISIONS
+
+### Farm business tenancies
+
+#### 1. Meaning of “farm business tenancy”.[^c831801]
+
+(1) A tenancy is a “**farm business tenancy**” for the purposes of this Act if—
+
+- (a) it meets the business conditions together with either the agriculture condition or the notice conditions, and
+- (b) it is not a tenancy which, by virtue of section 2 of this Act, cannot be a farm business tenancy.
+
+(2) The business conditions are—
+
+- (a) that all or part of the land comprised in the tenancy is farmed for the purposes of a trade or business, and
+- (b) that, since the beginning of the tenancy, all or part of the land so comprised has been so farmed.
+
+(3) The agriculture condition is that, having regard to—
+
+- (a) the terms of the tenancy,
+- (b) the use of the land comprised in the tenancy,
+- (c) the nature of any commercial activities carried on on that land, and
+- (d) any other relevant circumstances,
+
+the character of the tenancy is primarily or wholly agricultural.
+
+(4) The notice conditions are—
+
+- (a) that, on or before the relevant day, the landlord and the tenant each gave the other a written notice—
+  - (i) identifying (by name or otherwise) the land to be comprised in the tenancy or proposed tenancy, and
+  - (ii) containing a statement to the effect that the person giving the notice intends that the tenancy or proposed tenancy is to be, and remain, a farm business tenancy, and
+- (b) that, at the beginning of the tenancy, having regard to the terms of the tenancy and any other relevant circumstances, the character of the tenancy was primarily or wholly agricultural.
+
+(5) In subsection (4) above “**the relevant day**” means whichever is the earlier of the following—
+
+- (a) the day on which the parties enter into any instrument creating the tenancy, other than an agreement to enter into a tenancy on a future date, or
+- (b) the beginning of the tenancy.
+
+(6) The written notice referred to in subsection (4) above must not be included in any instrument creating the tenancy.
+
+(7) If in any proceedings—
+
+- (a) any question arises as to whether a tenancy was a farm business tenancy at any time, and
+- (b) it is proved that all or part of the land comprised in the tenancy was farmed for the purposes of a trade or business at that time,
+
+it shall be presumed, unless the contrary is proved, that all or part of the land so comprised has been so farmed since the beginning of the tenancy.
+
+(8) Any use of land in breach of the terms of the tenancy, any commercial activities carried on in breach of those terms, and any cessation of such activities in breach of those terms, shall be disregarded in determining whether at any time the tenancy meets the business conditions or the agriculture condition, unless the landlord or his predecessor in title has consented to the breach or the landlord has acquiesced in the breach.
+
+#### 2. Tenancies which cannot be farm business tenancies.
+
+(1) A tenancy cannot be a farm business tenancy for the purposes of this Act if—
+
+- (a) the tenancy begins before 1st September 1995, or
+- (b) it is a tenancy of an agricultural holding beginning on or after that date with respect to which, by virtue of section 4 of this Act, the [^c831802]Agricultural Holdings Act 1986 applies.
+
+(2) In this section “**agricultural holding**” has the same meaning as in the [^c831803]Agricultural Holdings Act 1986.
+
+#### 3. Compliance with notice conditions in cases of surrender and re-grant.
+
+(1) This section applies where—
+
+- (a) a tenancy (“**the new tenancy**”) is granted to a person who, immediately before the grant, was the tenant under a farm business tenancy (“the old tenancy”) which met the notice conditions specified in section 1(4) of this Act,
+- (b) the condition in subsection (2) below or the condition in subsection (3) below is met, and
+- (c) except as respects the matters mentioned in subsections (2) and (3) below and matters consequential on them, the terms of the new tenancy are substantially the same as the terms of the old tenancy.
+
+(2) The first condition referred to in subsection (1)(b) above is that the land comprised in the new tenancy is the same as the land comprised in the old tenancy, apart from any changes in area which are small in relation to the size of the holding and do not affect the character of the holding.
+
+(3) The second condition referred to in subsection (1)(b) above is that the old tenancy and the new tenancy are both fixed term tenancies, but the term date under the new tenancy is earlier than the term date under the old tenancy.
+
+(4) Where this section applies, the new tenancy shall be taken for the purposes of this Act to meet the notice conditions specified in section 1(4) of this Act.
+
+(5) In subsection (3) above, “**the term date**”, in relation to a fixed term tenancy, means the date fixed for the expiry of the term.
+
+### Exclusion of Agricultural Holdings Act 1986
+
+#### 4. Agricultural Holdings Act 1986 not to apply in relation to new tenancies except in special cases.
+
+(1) The [^c831804]Agricultural Holdings Act 1986 (in this section referred to as “**the 1986 Act**”) shall not apply in relation to any tenancy beginning on or after 1st September 1995 (including any agreement to which section 2 of that Act would otherwise apply beginning on or after that date), except(subject to subsection (2B) below)[^key-c67c26379547856e66ade1c55310a1d8] any tenancy of an agricultural holding which—
+
+- (a) is granted by a written contract of tenancy entered into before 1st September 1995 and indicating (in whatever terms) that the 1986 Act is to apply in relation to the tenancy,
+- (b) is obtained by virtue of a direction [^key-37f457adb8c9f10f1c0bb5c1c3e35183]... under section 39 or 53 of the 1986 Act,
+- (c) is granted (following a direction under section 39 of that Act) in circumstances falling within section 45(6) of that Act,
+- (d) is granted on an agreed succession by a written contract of tenancy indicating (in whatever terms) that Part IV of the 1986 Act is to apply in relation to the tenancy,
+- (e) is created by the acceptance of a tenant, in accordance with the provisions as to compensation known as the “**Evesham custom**” and set out in subsections (3) to (5) of section 80 of the 1986 Act, on the terms and conditions of the previous tenancy, [^key-65acdb9215b1bcc3ea07cf38bd50c63b]...
+- (f) is granted to a person who, immediately before the grant of the tenancy, was the tenant of the holding, or of any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding, under a tenancy in relation to which the 1986 Act applied , and is so granted because an agreement between the parties (not being an agreement expressed to take effect as a new tenancy between the parties) has effect as an implied surrender followed by the grant of the tenancy, or[^key-b427b93e8f9ba2d0ff20e14f0b3ca0da]
+- (g)[^key-02a7df0463a69898333bdf7018729343] is granted to a person who, immediately before the grant of the tenancy, was the tenant of the holding, or of any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding, under a tenancy in relation to which the 1986 Act applied, and is so granted by a written contract of tenancy indicating (in whatever terms) that the 1986 Act is to apply in relation to the tenancy.
+
+(2) For the purposes of subsection (1)(d) above, a tenancy (“**the current tenancy**”) is granted on an agreed succession if, and only if,—
+
+- (a) the previous tenancy of the holding or a related holding was a tenancy in relation to which Part IV of the 1986 Act applied, [^key-fdffcc7b82ed2c66c9298f86bc79d787]...
+- (b)[^key-3c329f3dd9d02e0f594e42c59c26f706] the current tenancy is granted to a person (alone or jointly with other persons) who, if the tenant under that previous tenancy (“the previous tenant”) had died immediately before the grant, would have been his close relative, and
+- (c) either of the conditions in subsection (2A) below is satisfied.
+
+(2A)[^key-f95740d69ba23993b867b39ef6d78ee0] The conditions referred to in subsection (2)(c) above are—
+
+- (a) the current tenancy is granted to a person (alone or jointly with other persons) who was or had become the sole or sole remaining applicant for a direction under section 39 or 53 of the 1986 Act[^key-1f30d5e8392e6926f3a224226031e06e] for a tenancy, and
+- (b) the current tenancy—
+  - (i) is granted as a result of an agreement between the landlord and the previous tenant, and
+  - (ii) is granted, and begins, before the date of the giving of any retirement notice by the previous tenant, or if no retirement notice is given, before the date of death of the previous tenant.
+
+(2B)[^key-c9da21a0b96595eb0b155bd829fc507b] The 1986 Act shall not apply by virtue of subsection (1)(f) or (g) above in relation to the tenancy of an agricultural holding (“the current holding”) where—
+
+- (a) the whole or a substantial part of the land comprised in the current holding was comprised in an agricultural holding (“the previous holding”) which was subject to a tenancy granted after the commencement of this subsection in relation to which the 1986 Act applied by virtue of subsection (1)(f) or (g) above;
+- (b) the whole or a substantial part of the land comprised in the previous holding was comprised in an agricultural holding (“the original holding”) which was at the commencement of this subsection subject to a tenancy in relation to which the 1986 Act applied; and
+- (c) the land comprised in the original holding does not, on the date of the grant of the tenancy of the current holding, comprise the whole or a substantial part of the land comprised in the current holding.
+
+(2C)[^key-dfcf561e4dc1de9c2efca6d6fb37501e] The references in subsections (1)(g) and (2B) above to a substantial part of the land comprised in the holding mean a substantial part determined by reference to either area or value.
+
+(3) In this section—
+
+- (a) “**agricultural holding**” and “**contract of tenancy**” have the same meaning as in the 1986 Act, [^key-47f95d0bfe9e7b9cfc4a71f89c74af26]...
+- (b) “**close relative**” and “**related holding**” have the meaning given by section 35(2) of that Act, and[^key-1fc3380ab259ae88f573b7401914a322]
+- (c) “retirement notice” has the meaning given by section 49(3) of that Act.
+
+### Termination of the tenancy
+
+#### 5. Tenancies for more than two years to continue from year to year unless terminated by notice.
+
+(1) A farm business tenancy for a term of more than two years shall, instead of terminating on the term date, continue (as from that date) as a tenancy from year to year, but otherwise on the terms of the original tenancy so far as applicable, unless at least twelve months [^key-3bc634ad684e150690841dd4b72de530]... before the term date a written notice has been given by either party to the other of his intention to terminate the tenancy.
+
+(2) In subsection (1) above “**the term date**”, in relation to a fixed term tenancy, means the date fixed for the expiry of the term.
+
+(3) For the purposes of section 140 of the [^c831805]Law of Property Act 1925 (apportionment of conditions on severance of reversion), a notice under subsection (1) above shall be taken to be a notice to quit.
+
+(4) This section has effect notwithstanding any agreement to the contrary.
+
+#### 6. Length of notice to quit.
+
+(1) Where a farm business tenancy is a tenancy from year to year, a notice to quit the holding or part of the holding shall (notwithstanding any provision to the contrary in the tenancy) be invalid unless—
+
+- (a) it is in writing,
+- (b) it is to take effect at the end of a year of the tenancy, and
+- (c) it is given at least twelve months [^key-b278b9d977359814f007d9a6a2da0674]... before the date on which it is to take effect.
+
+(2) Where, by virtue of section 5(1) of this Act, a farm business tenancy for a term of more than two years is to continue (as from the term date) as a tenancy from year to year, a notice to quit which complies with subsection (1) above and which is to take effect on the first anniversary of the term date shall not be invalid merely because it is given before the term date; and in this subsection “**the term date**” has the meaning given by section 5(2) of this Act.
+
+(3) Subsection (1) above does not apply in relation to a counter-notice given by the tenant by virtue of subsection (2) of section 140 of the [^c831806]Law of Property Act 1925 (apportionment of conditions on severance of reversion).
+
+#### 7. Notice required for exercise of option to terminate tenancy or resume possession of part.
+
+(1) Where a farm business tenancy is a tenancy for a term of more than two years, any notice to quit the holding or part of the holding given in pursuance of any provision of the tenancy shall (notwithstanding any provision to the contrary in the tenancy) be invalid unless it is in writing and is given at least twelve months [^key-09651e0060af03ab2220d0b1db20334b]... before the date on which it is to take effect.
+
+(2) Subsection (1) above does not apply in relation to a counter-notice given by the tenant by virtue of subsection (2) of section 140 of the [^c831807]Law of Property Act 1925 (apportionment of conditions on severance of reversion).
+
+(3) Subsection (1) above does not apply to a tenancy which, by virtue of subsection (6) of section 149 of the [^c831808]Law of Property Act 1925 (lease for life or lives or for a term determinable with life or lives or on the marriage of , or formation of a civil partnership by,[^key-128db76737a188ae4b623c6518e2cec9] the lessee), takes effect as such a term of years as is mentioned in that subsection.
+
+### Tenant’s right to remove fixtures and buildings
+
+#### 8. Tenant’s right to remove fixtures and buildings.
+
+(1) Subject to the provisions of this section—
+
+- (a) any fixture (of whatever description) affixed, whether for the purposes of agriculture or not, to the holding by the tenant under a farm business tenancy, and
+- (b) any building erected by him on the holding,
+
+may be removed by the tenant at any time during the continuance of the tenancy or at any time after the termination of the tenancy when he remains in possession as tenant (whether or not under a new tenancy), and shall remain his property so long as he may remove it by virtue of this subsection.
+
+(2) Subsection (1) above shall not apply—
+
+- (a) to a fixture affixed or a building erected in pursuance of some obligation,
+- (b) to a fixture affixed or a building erected instead of some fixture or building belonging to the landlord,
+- (c) to a fixture or building in respect of which the tenant has obtained compensation under section 16 of this Act or otherwise, or
+- (d) to a fixture or building in respect of which the landlord has given his consent under section 17 of this Act on condition that the tenant agrees not to remove it and which the tenant has agreed not to remove.
+
+(3) In the removal of a fixture or building by virtue of subsection (1) above, the tenant shall not do any avoidable damage to the holding.
+
+(4) Immediately after removing a fixture or building by virtue of subsection (1) above, the tenant shall make good all damage to the holding that is occasioned by the removal.
+
+(5) This section applies to a fixture or building acquired by a tenant as it applies to a fixture or building affixed or erected by him.
+
+(6) Except as provided by subsection (2)(d) above, this section has effect notwithstanding any agreement or custom to the contrary.
+
+(7) No right to remove fixtures that subsists otherwise than by virtue of this section shall be exercisable by the tenant under a farm business tenancy.
+
+#### 8A. Reference of certain requests for consent or variation to arbitration: Wales[^key-38110a6b80769e78dfa672c9e9d54f5f]
+
+(1) This section applies to a farm business tenancy where the land comprised in the tenancy is in Wales.
+
+(2) A tenant may, by notice in writing given to the landlord, refer to arbitration under this Act a request made by the tenant to the landlord where—
+
+- (a) the request falls within subsection (3), and
+- (b) no agreement has been reached with the landlord on the request.
+
+(3) A request falls within this subsection if—
+
+- (a) it is a request for—
+  - (i) the landlord’s consent to a matter which under the terms of the tenancy requires such consent, or
+  - (ii) a variation of the terms of the tenancy, and
+- (b) it is made for the purposes of—
+  - (i) enabling the tenant to request or apply for relevant financial support, or
+  - (ii) complying with a statutory duty applicable to the tenant.
+
+(4) Subsection (5) applies where the tenant has given notice under subsection (2) but an arbitrator has not been appointed by agreement before the end of the period of two months beginning with the day on which the notice was given.
+
+(5) The tenant or the landlord may apply to a professional authority for the appointment of an arbitrator by that authority, but once either party has made such an application the other may no longer do so.
+
+(6) An arbitrator, on a reference made under subsection (2), may—
+
+- (a) determine that the landlord must comply with the request (either in full or in part),
+- (b) determine that the landlord may refuse to comply with the request, or
+- (c) make any other award or determination permitted by regulations.
+
+(7) The Welsh Ministers may by regulations make provision—
+
+- (a) about conditions to be met before a reference may be made under subsection (2);
+- (b) about the awards or determinations that may be made by an arbitrator, which may include making an order for a variation in the rent payable under the tenancy or for the payment of compensation or costs;
+- (c) about the time at which, or the conditions subject to which, an award or determination may be expressed to take effect;
+- (d) restricting a tenant’s ability to make subsequent references to arbitration where a reference to arbitration has already been made under subsection (2) in relation to the same tenancy.
+
+(8) In this section—
+
+- “**relevant financial support**” means financial support under—
+  - (a) section 8 of the Agriculture (Wales) Act 2023 (“**the 2023 Act**”) (Welsh Ministers’ power to provide support),
+  - (b) a scheme of the sort mentioned in section 9(7) of the 2023 Act (meaning of “third party scheme” for purposes of power to provide support),
+  - (c) the basic payment scheme, as defined in section 16 of the 2023 Act (power to modify legislation governing the basic payment scheme),
+  - (d) legislation relating to the financing, management and monitoring of the common agricultural policy, as defined in section 17 of the 2023 Act (power to modify legislation relating to the common agricultural policy),
+  - (e) legislation relating to support for apiculture, as defined in section 18 of the 2023 Act (power to modify legislation relating to support for apiculture),
+  - (f) legislation relating to support for rural development, as defined in section 19 of the 2023 Act (support for rural development), or
+  - (g) section 22 of the 2023 Act (powers of Welsh Ministers to give financial assistance in exceptional market conditions);
+- “**statutory duty**” means a duty imposed by or under—
+  - (a) an Act of Parliament;
+  - (b) an Act of Senedd Cymru or an Assembly Measure;
+  - (c) retained direct EU legislation.
+
+## Part II — RENT REVIEW UNDER FARM BUSINESS TENANCY
+
+### 9. Application of Part II.
+
+This Part of this Act applies in relation to a farm business tenancy (notwithstanding any agreement to the contrary) unless the tenancy is created by an instrument which—
+
+- (a) expressly states that the rent is not to be reviewed during the tenancy, [^key-951d303c13fc263f9794e587314f0587]...
+- (b) provides that the rent is to be varied, at a specified time or times during the tenancy—
+  - (i) by or to a specified amount, or
+  - (ii) in accordance with a specified formula which does not preclude a reduction and which does not require or permit the exercise by any person of any judgment or discretion in relation to the determination of the rent of the holding,
+
+  but otherwise is to remain fixed, or[^key-0110a9fb8a55a5e30518613e7c126f3d]
+- (c) does not contain any provision which precludes a reduction in the rent during the tenancy, and—
+  - (i) expressly states that this Part of this Act does not apply, or
+  - (ii) makes provision for the reference of rent reviews to an independent expert whose decision is final.
+
+### 10. Notice requiring statutory rent review.
+
+(1) The landlord or tenant under a farm business tenancy in relation to which this Part of this Act applies may by notice in writing given to the other (in this Part of this Act referred to as a “statutory review notice”) require that the rent to be payable in respect of the holding as from the review date shall be referred to arbitration in accordance with this Act.
+
+(2) In this Part of this Act “**the review date**”, in relation to a statutory review notice, means a date which—
+
+- (a) is specified in the notice, and
+- (b) complies with subsections (3) to (6) below.
+
+(3) The review date must be at least twelve months but less than twenty-four months after the day on which the statutory review notice is given.
+
+(4) If the parties have agreed in writing that the rent is to be, or may be, varied as from a specified date or dates, or at specified intervals, the review date must be a date as from which the rent could be varied under the agreement.
+
+(5) If the parties have agreed in writing that the review date for the purposes of this Part of this Act is to be a specified date or dates, the review date must be that date or one of those dates.
+
+(6) If the parties have not agreed as mentioned in subsection (4) or (5) above, the review date—
+
+- (a) must be an anniversary of the beginning of the tenancy or, where the landlord and the tenant have agreed in writing that the review date for the purposes of this Act is to be some other day of the year, that day of the year, and
+- (b) must not fall before the end of the period of three years beginning with the latest of any of the following dates—
+  - (i) the beginning of the tenancy,
+  - (ii) any date as from which there took effect a previous direction of an arbitrator as to the amount of the rent,
+  - (iii) any date as from which there took effect a previous determination as to the amount of the rent made, otherwise than as arbitrator, by a person appointed under an agreement between the landlord and the tenant, and
+  - (iv) any date as from which there took effect a previous agreement in writing between the landlord and the tenant, entered into since the grant of the tenancy, as to the amount of the rent.
+
+### 11. Review date where new tenancy of severed part of reversion.
+
+(1) This section applies in any case where a farm business tenancy (“the new tenancy”) arises between—
+
+- (a) a person who immediately before the date of the beginning of the tenancy was entitled to a severed part of the reversionary estate in the land comprised in a farm business tenancy (“the original tenancy”) in which the land to which the new tenancy relates was then comprised, and
+- (b) the person who immediately before that date was the tenant under the original tenancy,
+
+and the rent payable under the new tenancy at its beginning represents merely the appropriate portion of the rent payable under the original tenancy immediately before the beginning of the new tenancy.
+
+(2) In any case where this section applies—
+
+- (a) references to the beginning of the tenancy in subsection (6) of section 10 of this Act shall be taken to be references to the beginning of the original tenancy, and
+- (b) references to rent in that subsection shall be taken to be references to the rent payable under the original tenancy,
+
+until the first occasion following the beginning of the new tenancy on which any such direction, determination or agreement with respect to the rent of the new holding as is mentioned in that subsection takes effect.
+
+### 12. Appointment of arbitrator.
+
+(1)[^key-2ba8990276ff639fea017d79314833c8] Where a statutory review notice has been given in relation to a farm business tenancy, but—
+
+- (a) no arbitrator has been appointed under an agreement made since the notice was given, and
+- (b) no person has been appointed under such an agreement to determine the question of the rent (otherwise than as arbitrator) on a basis agreed by the parties,
+
+either party may, at any time during the period of six months ending with the review date, apply to a professional authority for the appointment of an arbitrator by that authority[^key-ba70e32d865340334d01ad06bd2ae1f8].
+
+(2)[^key-27f5d3720ac62475d5640c4b290d4afd] A party may not make an application to a professional authority under subsection (1) in any case if the other party has already made an application to a professional authority under that subsection in that case.
+
+### 13. Amount of rent.[^c831809]
+
+(1)[^c831810] On any reference made in pursuance of a statutory review notice, the arbitrator shall determine the rent properly payable in respect of the holding at the review date and accordingly shall, with effect from that date, increase or reduce the rent previously payable or direct that it shall continue unchanged.
+
+(2)[^c831810] For the purposes of subsection (1) above, the rent properly payable in respect of a holding is the rent at which the holding might reasonably be expected to be let on the open market by a willing landlord to a willing tenant, taking into account (subject to subsections (3) and (4) below) all relevant factors, including (in every case) the terms of the tenancy (including those which are relevant for the purposes of section 10(4) to (6) of this Act, but not those which (apart from this section) preclude a reduction in the rent during the tenancy)[^key-aecf86de4d31311c6e756254274f11cb].
+
+(3) The arbitrator shall disregard any increase in the rental value of the holding which is due to tenant’s improvements other than—
+
+- (a) any tenant’s improvement provided under an obligation which was imposed on the tenant by the terms of his tenancy or any previous tenancy and which arose on or before the beginning of the tenancy in question,
+- (b) any tenant’s improvement to the extent that any allowance or benefit has been made or given by the landlord in consideration of its provision, and
+- (c) any tenant’s improvement to the extent that the tenant has received any compensation from the landlord in respect of it.
+
+(4) The arbitrator—
+
+- (a) shall disregard any effect on the rent of the fact that the tenant who is a party to the arbitration is in occupation of the holding, and
+- (b) shall not fix the rent at a lower amount by reason of any dilapidation or deterioration of, or damage to, buildings or land caused or permitted by the tenant.
+
+(5) In this section “**tenant’s improvement**”, and references to the provision of such an improvement, have the meaning given by section 15 of this Act.
+
+### 14. Interpretation of Part II.
+
+In this Part of this Act, unless the context otherwise requires—
+
+- “**the review date**”, in relation to a statutory review notice, has the meaning given by section 10(2) of this Act;
+- “**statutory review notice**” has the meaning given by section 10(1) of this Act.
+
+## Part III — COMPENSATION ON TERMINATION OF FARM BUSINESS TENANCY[^c831812]
+
+### Tenant’s entitlement to compensation
+
+#### 15. Meaning of “tenant’s improvement”.
+
+For the purposes of this Part of this Act a “**tenant’s improvement**”, in relation to any farm business tenancy, means—
+
+- (a) any physical improvement which is made on the holding by the tenant by his own effort or wholly or partly at his own expense, or
+- (b) any intangible advantage which—
+  - (i) is obtained for the holding by the tenant by his own effort or wholly or partly at his own expense, and
+  - (ii) becomes attached to the holding,
+
+and references to the provision of a tenant’s improvement are references to the making by the tenant of any physical improvement falling within paragraph (a) above or the obtaining by the tenant of any intangible advantage falling within paragraph (b) above.
+
+#### 16. Tenant’s right to compensation for tenant’s improvement.
+
+(1) The tenant under a farm business tenancy shall, subject to the provisions of this Part of this Act, be entitled on the termination of the tenancy, on quitting the holding, to obtain from his landlord compensation in respect of any tenant’s improvement.
+
+(2) A tenant shall not be entitled to compensation under this section in respect of—
+
+- (a) any physical improvement which is removed from the holding, or
+- (b) any intangible advantage which does not remain attached to the holding.
+
+(3) Section 13 of, and Schedule 1 to, the [^c831813]Agriculture Act 1986 (compensation to outgoing tenants for milk quota) shall not apply in relation to a farm business tenancy.
+
+### Conditions of eligibility
+
+#### 17. Consent of landlord as condition of compensation for tenant’s improvement.
+
+(1) A tenant shall not be entitled to compensation under section 16 of this Act in respect of any tenant’s improvement unless the landlord has given his consent in writing to the provision of the tenant’s improvement.
+
+(2) Any such consent may be given in the instrument creating the tenancy or elsewhere.
+
+(3) Any such consent may be given either unconditionally or on condition that the tenant agrees to a specified variation in the terms of the tenancy.
+
+(4) The variation referred to in subsection (3) above must be related to the tenant’s improvement in question.
+
+(5) This section does not apply in any case where the tenant’s improvement consists of planning permission.
+
+#### 18. Conditions in relation to compensation for planning permission.
+
+(1) A tenant shall not be entitled to compensation under section 16 of this Act in respect of a tenant’s improvement which consists of planning permission unless—
+
+- (a) the landlord has given his consent in writing to the making of the application for planning permission,
+- (b) that consent is expressed to be given for the purpose—
+  - (i) of enabling a specified physical improvement falling within paragraph (a) of section 15 of this Act lawfully to be provided by the tenant, or
+  - (ii) of enabling the tenant lawfully to effect a specified change of use, and
+- (c) on the termination of the tenancy, the specified physical improvement has not been completed or the specified change of use has not been effected.
+
+(2) Any such consent may be given either unconditionally or on condition that the tenant agrees to a specified variation in the terms of the tenancy.
+
+(3) The variation referred to in subsection (2) above must be related to the physical improvement or change of use in question.
+
+#### 19. Reference to arbitration of refusal or failure to give consent or of condition attached to consent.
+
+(1) Where, in relation to any tenant’s improvement, the tenant under a farm business tenancy is aggrieved by—
+
+- (a) the refusal of his landlord to give his consent under section 17(1) of this Act,
+- (b) the failure of his landlord to give such consent within two months of a written request by the tenant for such consent, or
+- (c) any variation in the terms of the tenancy required by the landlord as a condition of giving such consent,
+
+the tenant may by notice in writing given to the landlord demand that the question shall be referred to arbitration under this section; but this subsection has effect subject to subsections (2) and (3) below.
+
+(2) No notice under subsection (1) above may be given in relation to any tenant’s improvement which the tenant has already provided or begun to provide, unless that improvement is a routine improvement.
+
+(3) No notice under subsection (1) above may be given—
+
+- (a) in a case falling within paragraph (a) or (c) of that subsection, after the end of the period of two months beginning with the day on which notice of the refusal or variation referred to in that paragraph was given to the tenant, or
+- (b) in a case falling within paragraph (b) of that subsection, after the end of the period of four months beginning with the day on which the written request referred to in that paragraph was given to the landlord.
+
+(4) Where the tenant has given notice under subsection (1) above but no arbitrator has been appointed under an agreement made since the notice was given, the tenant or the landlord may apply to a professional authority, subject to subsections (9) and (9A) below, for the appointment of an arbitrator by that authority[^key-5ca0a40d3dc8065f763fbe5aeb29c010].
+
+(5) The arbitrator shall consider whether, having regard to the terms of the tenancy and any other relevant circumstances (including the circumstances of the tenant and the landlord), it is reasonable for the tenant to provide the tenant’s improvement.
+
+(6) Subject to subsection (9) below, the arbitrator may unconditionally approve the provision of the tenant’s improvement or may withhold his approval, but may not give his approval subject to any condition or vary any condition required by the landlord under section 17(3) of this Act.
+
+(7) If the arbitrator gives his approval, that approval shall have effect for the purposes of this Part of this Act and for the purposes of the terms of the farm business tenancy as if it were the consent of the landlord.
+
+(8) In a case falling within subsection (1)(c) above, the withholding by the arbitrator of his approval shall not affect the validity of the landlord’s consent or of the condition subject to which it was given.
+
+(9) Where, at any time after giving a notice under subsection (1) above in relation to any tenant’s improvement which is not a routine improvement, the tenant begins to provide the improvement—
+
+- (a) no application may be made under subsection (4) above after that time,
+- (b) where such an application has been made but no arbitrator has been appointed before that time, the application shall be ineffective, and
+- (c) no award may be made by virtue of subsection (6) above after that time except as to the costs of the reference and award in a case where the arbitrator was appointed before that time.
+
+(9A)[^key-0f6f93312a4dc665faa9ed7af21da271] An application may not be made to a professional authority under subsection (4) above in any case by the landlord or the tenant if the other of them has already made an application to a professional authority under that subsection in that case.
+
+(10) For the purposes of this section—
+
+- “**fixed equipment**” includes any building or structure affixed to land and any works constructed on, in, over or under land, and also includes anything grown on land for a purpose other than use after severance from the land, consumption of the thing grown or its produce, or amenity;
+- “**routine improvement**”, in relation to a farm business tenancy, means any tenant’s improvement which—
+  - (a) is a physical improvement made in the normal course of farming the holding or any part of the holding, and
+  - (b) does not consist of fixed equipment or an improvement to fixed equipment,
+
+  but does not include any improvement whose provision is prohibited by the terms of the tenancy.
+
+### Amount of compensation
+
+#### 20. Amount of compensation for tenant’s improvement not consisting of planning permission.
+
+(1) Subject to subsection (4A) below,[^key-864fcec823483f14cafdc2f48cef6448]The amount of compensation payable to the tenant under section 16 of this Act in respect of any tenant’s improvement shall be an amount equal to the increase attributable to the improvement in the value of the holding at the termination of the tenancy as land comprised in a tenancy.
+
+(2) Where the landlord and the tenant have entered into an agreement in writing whereby any benefit is given or allowed to the tenant in consideration of the provision of a tenant’s improvement, the amount of compensation otherwise payable in respect of that improvement shall be reduced by the proportion which the value of the benefit bears to the amount of the total cost of providing the improvement.
+
+(3) Where a grant has been or will be made to the tenant out of public money in respect of a tenant’s improvement, the amount of compensation otherwise payable in respect of that improvement shall be reduced by the proportion which the amount of the grant bears to the amount of the total cost of providing the improvement.
+
+(4) Where a physical improvement which has been completed or a change of use which has been effected is authorised by any planning permission granted on an application made by the tenant, section 18 of this Act does not prevent any value attributable to the fact that the physical improvement or change of use is so authorised from being taken into account under this section in determining the amount of compensation payable in respect of the physical improvement or in respect of any intangible advantage obtained as a result of the change of use.
+
+(4A)[^key-1b4b60cb4ce4432094984a790a7b90c4] Where the landlord and the tenant have agreed in writing, after the commencement of this subsection, to limit the amount of compensation payable under section 16 of this Act in respect of any tenant’s improvement, that amount shall be the lesser of—
+
+- (a) the amount determined in accordance with subsections (1) to (4) above, and
+- (b) the compensation limit.
+
+(4B) In subsection (4A) above, “the compensation limit” means—
+
+- (a) an amount agreed by the parties in writing, or
+- (b) where the parties are unable to agree on an amount, an amount equal to the cost to the tenant of making the improvement.
+
+(5) This section does not apply where the tenant’s improvement consists of planning permission.
+
+#### 21. Amount of compensation for planning permission.
+
+(1) The amount of compensation payable to the tenant under section 16 of this Act in respect of a tenant’s improvement which consists of planning permission shall be an amount equal to the increase attributable to the fact that the relevant development is authorised by the planning permission in the value of the holding at the termination of the tenancy as land comprised in a tenancy.
+
+(2) In subsection (1) above, “**the relevant development**” means the physical improvement or change of use specified in the landlord’s consent under section 18 of this Act in accordance with subsection (1)(b) of that section.
+
+(3) Where the landlord and the tenant have entered into an agreement in writing whereby any benefit is given or allowed to the tenant in consideration of the obtaining of planning permission by the tenant, the amount of compensation otherwise payable in respect of that permission shall be reduced by the proportion which the value of the benefit bears to the amount of the total cost of obtaining the permission.
+
+#### 22. Settlement of claims for compensation.
+
+(1) Any claim by the tenant under a farm business tenancy for compensation under section 16 of this Act shall, subject to the provisions of this section, be determined by arbitration under this section.
+
+(2)[^c831814] No such claim for compensation shall be enforceable unless before the end of the period of two months beginning with the date of the termination of the tenancy the tenant has given notice in writing to his landlord of his intention to make the claim and of the nature of the claim.
+
+(3) Where—
+
+- (a) the landlord and the tenant have not settled the claim by agreement in writing, and
+- (b) no arbitrator has been appointed under an agreement made since the notice under subsection (2) above was given,
+
+either party may, after the end of the period of four months beginning with the date of the termination of the tenancy, apply to a professional authority for the appointment of an arbitrator by that authority[^key-1de982d57213a9bb9c8fb6e46f4b677d].
+
+(3A)[^key-ae1496473b89e9fb3d07ae3e3c36349c] A party may not make an application to a professional authority under subsection (3) above in relation to a claim if the other party has already made an application to a professional authority under that subsection in relation to that claim.
+
+(4) Where—
+
+- (a) an application under subsection (3) above relates wholly or partly to compensation in respect of a routine improvement (within the meaning of section 19 of this Act) which the tenant has provided or has begun to provide, and
+- (b) that application is made at the same time as an application to the same professional authority[^key-3ec07a55afa1087955d758da1143a9e3] under section 19(4) of this Act relating to the provision of that improvement,
+
+the professional authority[^key-c7e166a4587ea4df453956f0eb975d9f] shall appoint the same arbitrator on both applications and, if both applications are made by the same person, only one fee shall be payable by virtue of section 30(2) of this Act in respect of them.
+
+(5) Where a tenant lawfully remains in occupation of part of the holding after the termination of a farm business tenancy, references in subsections (2) and (3) above to the termination of the tenancy shall, in the case of a claim relating to that part of the holding, be construed as references to the termination of the occupation.
+
+### Supplementary provisions with respect to compensation
+
+#### 23. Successive tenancies.
+
+(1) Where the tenant under a farm business tenancy has remained in the holding during two or more such tenancies, he shall not be deprived of his right to compensation under section 16 of this Act by reason only that any tenant’s improvement was provided during a tenancy other than the one at the termination of which he quits the holding.
+
+(2) The landlord and tenant under a farm business tenancy may agree that the tenant is to be entitled to compensation under section 16 of this Act on the termination of the tenancy even though at that termination the tenant remains in the holding under a new tenancy.
+
+(3) Where the landlord and the tenant have agreed as mentioned in subsection (2) above in relation to any tenancy (“the earlier tenancy”), the tenant shall not be entitled to compensation at the end of any subsequent tenancy in respect of any tenant’s improvement provided during the earlier tenancy in relation to the land comprised in the earlier tenancy.
+
+#### 24. Resumption of possession of part of holding.
+
+(1) Where—
+
+- (a) the landlord under a farm business tenancy resumes possession of part of the holding in pursuance of any provision of the tenancy, or
+- (b) a person entitled to a severed part of the reversionary estate in a holding held under a farm business tenancy resumes possession of part of the holding by virtue of a notice to quit that part given to the tenant by virtue of section 140 of the [^c831815]Law of Property Act 1925,
+
+the provisions of this Part of this Act shall, subject to subsections (2) and (3) below, apply to that part of the holding (in this section referred to as “**the relevant part**”) as if it were a separate holding which the tenant had quitted in consequence of a notice to quit and, in a case falling within paragraph (b) above, as if the person resuming possession were the landlord of that separate holding.
+
+(2) The amount of compensation payable to the tenant under section 16 of this Act in respect of any tenant’s improvement provided for the relevant part by the tenant and not consisting of planning permission shall, subject to section 20(2) to (4A)[^key-7c2103273a69bd3c1968602e5263e62e] of this Act, be an amount equal to the increase attributable to the tenant’s improvement in the value of the original holding on the termination date as land comprised in a tenancy.
+
+(3) The amount of compensation payable to the tenant under section 16 of this Act in respect of any tenant’s improvement which consists of planning permission relating to the relevant part shall, subject to section 21(3) of this Act, be an amount equal to the increase attributable to the fact that the relevant development is authorised by the planning permission in the value of the original holding on the termination date as land comprised in a tenancy.
+
+(4) In a case falling within paragraph (a) or (b) of subsection (1) above, sections 20 and 21 of this Act shall apply(subject to subsection (4A) below)[^key-e9a0b0eaed42e5afce7cced9abea6962] on the termination of the tenancy, in relation to the land then comprised in the tenancy, as if the reference in subsection (1) of each of those sections to the holding were a reference to the original holding.
+
+(4A)[^key-a95d3aae024d67acd44153ae1e25da8e] Where—
+
+- (a) the landlord and the tenant have agreed in writing, after the commencement of this subsection, to limit the amount of compensation payable under section 16 of this Act in respect of any tenant’s improvement not consisting of planning permission,
+- (b) that improvement is provided for both the relevant part and the land comprised in the tenancy after the termination date,
+- (c) the case falls within paragraph (a) or (b) of subsection (1) above,
+- (d) the tenant has already received compensation in respect of the improvement, determined in accordance with subsection (2) above, and
+- (e) further compensation in respect of the improvement is payable under section 16 of this Act on termination of the tenancy,
+
+the compensation limit referred to in section 20(4A) of this Act shall, for the purposes of determining that further compensation, be reduced by an amount equal to the amount of compensation already received by the tenant in respect of the improvement.
+
+(5) In subsections (2) to (4A)[^key-67d42584d9a7cfcaf1dbf43dd2943b0a] above—
+
+- “**the original holding**” means the land comprised in the farm business tenancy—
+  - (a) on the date when the landlord gave his consent under section 17 or 18 of this Act in relation to the tenant’s improvement, or
+  - (b) where approval in relation to the tenant’s improvement was given by an arbitrator, on the date on which that approval was given,
+- “**the relevant development**”, in relation to any tenant’s improvement which consists of planning permission, has the meaning given by section 21(2) of this Act, and
+- “**the termination date**” means the date on which possession of the relevant part was resumed.
+
+#### 25. Compensation where reversionary estate in holding is severed.
+
+(1) Where the reversionary estate in the holding comprised in a farm business tenancy is for the time being vested in more than one person in several parts, the tenant shall be entitled, on quitting the entire holding, to require that any compensation payable to him under section 16 of this Act shall be determined as if the reversionary estate were not so severed.
+
+(2) Where subsection (1) applies, the arbitrator shall, where necessary, apportion the amount awarded between the persons who for the purposes of this Part of this Act together constitute the landlord of the holding, and any additional costs of the award caused by the apportionment shall be directed by the arbitrator to be paid by those persons in such proportions as he shall determine.
+
+#### 26. Extent to which compensation recoverable under agreements.
+
+(1) In any case for which apart from this section the provisions of this Part of this Act provide for compensation, a tenant shall be entitled to compensation in accordance with those provisions and not otherwise, and shall be so entitled notwithstanding any agreement to the contrary.
+
+(2) Nothing in the provisions of this Part of this Act, apart from this section, shall be construed as disentitling a tenant to compensation in any case for which those provisions do not provide for compensation.
+
+#### 27. Interpretation of Part III.
+
+In this Part of this Act, unless the context otherwise requires—
+
+- “**planning permission**” has the meaning given by section 336(1) of the [^c831816]Town and Country Planning Act 1990;
+- “**tenant’s improvement**”, and references to the provision of such an improvement, have the meaning given by section 15 of this Act.
+
+## Part IV — MISCELLANEOUS AND SUPPLEMENTAL
+
+### Resolution of disputes
+
+#### 28. Resolution of disputes.
+
+(1) Subject to subsections (4) and (5) below and to section 29 of this Act, any dispute between the landlord and the tenant under a farm business tenancy, being a dispute concerning their rights and obligations under this Act, under the terms of the tenancy or under any custom, shall be determined by arbitration.
+
+(2) Where such a dispute has arisen, the landlord or the tenant may give notice in writing to the other specifying the dispute and stating that, unless before the end of the period of two months beginning with the day on which the notice is given the parties have appointed an arbitrator by agreement, he proposes to apply to a professional authority for the appointment of an arbitrator by that authority[^key-6bed71aefb8d95e28868e840507ff6c4].
+
+(3) Where a notice has been given under subsection (2) above, but no arbitrator has been appointed by agreement, either party may, after the end of the period of two months referred to in that subsection, apply to a professional authority for the appointment of an arbitrator by that authority[^key-488605946a1ead9201ebc094872121a2].
+
+(3A)[^key-d4b44e87ebb897dd95f1f213f088a398] A party may not make an application to a professional authority under subsection (3) above in relation to a dispute if the other party has already made an application to a professional authority under that subsection in relation to that dispute.
+
+(4)[^c831818] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Subsections (1) to (3) above do not apply in relation to—
+
+- (za)[^key-7400c04bd25fc88ea298c6b96dcf90f7] a request made under section 8A(2) of this Act,
+- (a) the determination of rent in pursuance of a statutory review notice (as defined in section 10(1) of this Act),
+- (b) any case falling within section 19(1) of this Act, [^key-cd1f1318cd283e3fa0e5211421050ed8]...
+- (c) any claim for compensation under Part III of this Act , or[^key-1b1a1349bc580a028efcd0014e346634]
+- (d) any dispute relating to rent review, in any case where Part II of this Act is excluded by virtue of section 9(c)(ii) of this Act.
+
+#### 29. Cases where right to refer claim to arbitration under section 28 does not apply.
+
+(1) Section 28 of this Act does not apply in relation to any dispute if—
+
+- (a) the tenancy is created by an instrument which includes provision for disputes to be resolved by any person other than—
+  - (i) the landlord or the tenant, or
+  - (ii) a third party appointed by either of them without the consent or concurrence of the other, and
+- (b) either of the following has occurred—
+  - (i) the landlord and the tenant have jointly referred the dispute to the third party under the provision, or
+  - (ii) the landlord or the tenant has referred the dispute to the third party under the provision and notified the other in writing of the making of the reference, the period of four weeks beginning with the date on which the other was so notified has expired and the other has not given a notice under section 28(2) of this Act in relation to the dispute before the end of that period.
+
+(2) For the purposes of subsection (1) above, a term of the tenancy does not provide for disputes to be “resolved” by any person unless that person (whether or not acting as arbitrator) is enabled under the terms of the tenancy to give a decision which is binding in law on both parties.
+
+#### 30. General provisions applying to arbitrations under Act.
+
+(1) Any matter which is required to be determined by arbitration under this Act shall be determined by the arbitration of a sole arbitrator.
+
+(2) Any application under this Act to a professional authority[^key-f88dd8a0c29d16b6924e9a1d36c93d50] for the appointment of an arbitrator by that authority[^key-275c560c57a0180ef87a77d02ce7a38e] must be made in writing and must be accompanied by such reasonable fee as that authority[^key-8c87dfffda429f8dbf393e2929ee175d] may determine in respect of the costs of making the appointment.
+
+(3) Where an arbitrator appointed by a professional authority[^key-370b4579893b9def20fa051d15f9bf4b] for the purposes of this Act dies or is incapable of acting and no new arbitrator has been appointed by agreement, either party may apply to that authority[^key-2f9f47557d84491d1afc3cdec9a0bbf9] for the appointment of a new arbitrator by that authority[^key-60831a9e744b7ad300948fbfcf14d3b2].
+
+### Miscellaneous
+
+#### 31. Mortgages of agricultural land.
+
+(1) Section 99 of the [^c831819]Law of Property Act 1925 (leasing powers of mortgagor and mortgagee in possession) shall be amended in accordance with subsections (2) and (3) below.
+
+(2) At the beginning of subsection (13), there shall be inserted “ Subject to subsection (13A) below, ”.
+
+(3) After that subsection, there shall be inserted—
+
+> (13A) Subsection (13) of this section—
+>
+> - (a) shall not enable the application of any provision of this section to be excluded or restricted in relation to any mortgage of agricultural land made after 1st March 1948 but before 1st September 1995, and
+> - (b) shall not enable the power to grant a lease of an agricultural holding to which, by virtue of section 4 of the Agricultural Tenancies Act 1995, the Agricultural Holdings Act 1986 will apply, to be excluded or restricted in relation to any mortgage of agricultural land made on or after 1st September 1995.
+>
+> (13B) In subsection (13A) of this section—
+>
+> - “**agricultural holding**” has the same meaning as in the Agricultural Holdings Act 1986; and
+> - “**agricultural land**” has the same meaning as in the Agriculture Act 1947.
+
+(4) Paragraph 12 of Schedule 14 to the Agricultural Holdings Act 1986 (which excludes the application of subsection (13) of section 99 of the [^c831820]Law of Property Act 1925 in relation to a mortgage of agricultural land and is superseded by the amendments made by subsections (1) to (3) above) shall cease to have effect.
+
+#### 32. Power of limited owners to give consents etc.
+
+The landlord under a farm business tenancy, whatever his estate or interest in the holding, may, for the purposes of this Act, give any consent, make any agreement or do or have done to him any other act which he might give, make, do or have done to him if he were owner in fee simple or, if his interest is an interest in a leasehold, were absolutely entitled to that leasehold.
+
+#### 33. Power to apply and raise capital money.
+
+(1) The purposes authorised by section 73 of the Settled Land Act 1925 [^c831823]... [^key-b33c4b4964c635855e75692cd98e9e87]... for the application of capital money shall include—
+
+- (a) the payment of expenses incurred by a landlord under a farm business tenancy in, or in connection with, the making of any physical improvement on the holding,
+- (b) the payment of compensation under section 16 of this Act, and
+- (c) the payment of the costs, charges and expenses incurred by him on a reference to arbitration under section 19 or 22 of this Act.
+
+(2) The purposes authorised by section 71 of the Settled Land Act 1925 [^c831823]... as purposes for which money may be raised by mortgage shall include the payment of compensation under section 16 of this Act.
+
+(3) Where the landlord under a farm business tenancy—
+
+- (a) is a tenant for life or in a fiduciary position, and
+- (b) is liable to pay compensation under section 16 of this Act,
+
+he may require the sum payable as compensation and any costs, charges and expenses incurred by him in connection with the tenant’s claim under that section to be paid out of any capital money held on the same trusts as the settled land.
+
+(4) In subsection (3) above—
+
+- “**capital money**” includes any personal estate held on the same trusts as the land; [^c831826]...
+- [^c831826]...
+
+#### 34. Estimation of best rent for purposes of Acts and other instruments.
+
+(1) In estimating the best rent or reservation in the nature of rent of land comprised in a farm business tenancy for the purposes of a relevant instrument, it shall not be necessary to take into account against the tenant any increase in the value of that land arising from any tenant’s improvements.
+
+(2) In subsection (1) above—
+
+- “**a relevant instrument**” means any Act of Parliament, deed or other instrument which authorises a lease to be made on the condition that the best rent or reservation in the nature of rent is reserved;
+- “**tenant’s improvement**” has the meaning given by section 15 of this Act.
+
+#### 35. Preparation of documents etc. by valuers and surveyors.[^key-c7b0efb8e3a5111d60f838bd3c9749ea]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplemental
+
+#### 36. Service of notices.
+
+(1) This section applies to any notice or other document required or authorised to be given under this Act.
+
+(2) A notice or other document to which this section applies is duly given to a person if—
+
+- (a) it is delivered to him,
+- (b) it is left at his proper address, or
+- (c) it is given to him in a manner authorised by a written agreement made, at any time before the giving of the notice, between him and the person giving the notice.
+
+(3) A notice or other document to which this section applies is not duly given to a person if its text is transmitted to him by facsimile or other electronic means otherwise than by virtue of subsection (2)(c) above.
+
+(4) Where a notice or other document to which this section applies is to be given to a body corporate, the notice or document is duly given if it is given to the secretary or clerk of that body.
+
+(5) Where—
+
+- (a) a notice or other document to which this section applies is to be given to a landlord under a farm business tenancy and an agent or servant of his is responsible for the control of the management of the holding, or
+- (b) such a document is to be given to a tenant under a farm business tenancy and an agent or servant of his is responsible for the carrying on of a business on the holding,
+
+the notice or document is duly given if it is given to that agent or servant.
+
+(6) For the purposes of this section, the proper address of any person to whom a notice or other document to which this section applies is to be given is—
+
+- (a) in the case of the secretary or clerk of a body corporate, the registered or principal office of that body, and
+- (b) in any other case, the last known address of the person in question.
+
+(7) Unless or until the tenant under a farm business tenancy has received—
+
+- (a) notice that the person who before that time was entitled to receive the rents and profits of the holding (“the original landlord”) has ceased to be so entitled, and
+- (b) notice of the name and address of the person who has become entitled to receive the rents and profits,
+
+any notice or other document given to the original landlord by the tenant shall be deemed for the purposes of this Act to have been given to the landlord under the tenancy.
+
+#### 36A. Regulations[^key-c813e6a3fff7c5344208b2186b0d21bf]
+
+(1) A power to make regulations under this Act is exercisable by statutory instrument.
+
+(2) The Welsh Ministers’ power to make regulations under section 8A(7) includes power to make different provision for different purposes.
+
+(3) A statutory instrument containing regulations made under section 8A(7) is subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+#### 37. Crown land.
+
+(1) This Act shall apply in relation to land in which there subsists, or has at any material time subsisted, a Crown interest as it applies in relation to land in which no such interest subsists or has ever subsisted.
+
+(2) For the purposes of this Act—
+
+- (a) where an interest belongs to Her Majesty in right of the Crown and forms part of the Crown Estate, the Crown Estate Commissioners shall be treated as the owner of the interest,
+- (b) where an interest belongs to Her Majesty in right of the Crown and does not form part of the Crown Estate, the government department having the management of the land or, if there is no such department, such person as Her Majesty may appoint in writing under the Royal Sign Manual shall be treated as the owner of the interest,
+- (c) where an interest belongs to Her Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy shall be treated as the owner of the interest,
+- (d) where an interest belongs to a government department or is held in trust for Her Majesty for the purposes of a government department, that department shall be treated as the owner of the interest, and
+- (e) where an interest belongs to the Duchy of Cornwall, such person as the Duke of Cornwall or the possessor for the time being of the Duchy of Cornwall appoints shall be treated as the owner of the interest and, in the case where the interest is that of landlord, may do any act or thing which a landlord is authorised or required to do under this Act.
+
+(3) If any question arises as to who is to be treated as the owner of a Crown interest, that question shall be referred to the Treasury, whose decision shall be final.
+
+(4) In subsections (1) and (3) above “**Crown interest**” means an interest which belongs to Her Majesty in right of the Crown or of the Duchy of Lancaster or to the Duchy of Cornwall, or to a government department, or which is held in trust for Her Majesty for the purposes of a government department.
+
+(5) Any compensation payable under section 16 of this Act by the Chancellor of the Duchy of Lancaster may be raised and paid under section 25 of the [^c831829]Duchy of Lancaster Act 1817 (application of monies) as an expense incurred in improvement of land belonging to Her Majesty in right of the Duchy.
+
+(6) In the case of land belonging to the Duchy of Cornwall, the purposes authorised by section 8 of the [^c831830]Duchy of Cornwall Management Act 1863 (application of monies) for the advancement of parts of such gross sums as are there mentioned shall include the payment of compensation under section 16 of this Act.
+
+(7) Nothing in subsection (6) above shall be taken as prejudicing the operation of the [^c831831]Duchy of Cornwall Management Act 1982.
+
+#### 38. Interpretation.
+
+(1) In this Act, unless the context otherwise requires—
+
+- “**agriculture**” includes horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping, the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds, and the use of land for woodlands where that use is ancillary to the farming of land for other agricultural purposes, and “**agricultural**” shall be construed accordingly;
+- “**building**” includes any part of a building;
+- “**fixed term tenancy**” means any tenancy other than a periodic tenancy;
+- “**holding**”, in relation to a farm business tenancy, means the aggregate of the land comprised in the tenancy;
+- “**landlord**” includes any person from time to time deriving title from the original landlord;
+- “**livestock**” includes any creature kept for the production of food, wool, skins or fur or for the purpose of its use in the farming of land;
+- “[^key-ca25186d841748dfb25afd94798a32f5]**professional authority**” has the same meaning as it has for the time being for the purposes of section 84 of the Agricultural Holdings Act 1986;
+- “**tenancy**” means any tenancy other than a tenancy at will, and includes a sub-tenancy and an agreement for a tenancy or sub-tenancy;
+- “**tenant**” includes a sub-tenant and any person deriving title from the original tenant or sub-tenant;
+- “**termination**”, in relation to a tenancy, means the cesser of the tenancy by reason of effluxion of time or from any other cause.
+
+(2) References in this Act to the farming of land include references to the carrying on in relation to land of any agricultural activity.
+
+(3) A tenancy granted pursuant to a contract shall be taken for the purposes of this Act to have been granted when the contract was entered into.
+
+(4) For the purposes of this Act a tenancy begins on the day on which, under the terms of the tenancy, the tenant is entitled to possession under that tenancy; and references in this Act to the beginning of the tenancy are references to that day.
+
+(5) The designations of landlord and tenant shall continue to apply until the conclusion of any proceedings taken under this Act in respect of compensation.
+
+#### 39. Index of defined expressions.
+
+In this Act the expressions listed below are defined by or otherwise fall to be construed in accordance with the provisions indicated—
+
+|  |  |
+| --- | --- |
+| agriculture, agricultural | section 38(1) |
+| begins, beginning (in relation to a tenancy) | section 38(4) |
+| building | section 38(1) |
+| farm business tenancy | section 1 |
+| farming (of land) | section 38(2) |
+| fixed term tenancy | section 38(1) |
+| grant (of a tenancy) | section 38(3) |
+| holding (in relation to a farm business tenancy) | section 38(1) |
+| landlord | section 38(1) and (5) |
+| livestock | section 38(1) |
+| planning permission (in Part III) | section 27 |
+| professional authority[^key-d6bfed2558a298d517361418b1786bb5] | section 38(1) |
+| provision (of a tenant’s improvement) (in Part III) | section 15 |
+| the review date (in Part II) | section 10(2) |
+| [^key-29bf5e5edc0af8e165352273dac69871]. . . | [^key-29bf5e5edc0af8e165352273dac69871]. . . |
+| statutory review notice (in Part II) | section 10(1) |
+| tenancy | section 38(1) |
+| tenant | section 38(1) and (5) |
+| tenant’s improvement (in Part III) | section 15 |
+| termination (of a tenancy) | section 38(1). |
+
+#### 40. Consequential amendments.
+
+The Schedule to this Act (which contains consequential amendments) shall have effect.
+
+#### 41. Short title, commencement and extent.
+
+(1) This Act may be cited as the Agricultural Tenancies Act 1995.
+
+(2) This Act shall come into force on 1st September 1995.
+
+(3) Subject to subsection (4) below, this Act extends to England and Wales only.
+
+(4) The amendment by a provision of the Schedule to this Act of an enactment which extends to Scotland or Northern Ireland also extends there, except that paragraph 9 of the Schedule does not extend to Northern Ireland.
+
+## Schedule — CONSEQUENTIAL AMENDMENTS
+
+Section 40.
+
+### The Small Holdings and Allotments Act 1908 (c. 36)
+
+*Extent: E+W*
+
+**1.** (1) Section 47 of the Small Holdings and Allotments Act 1908 (compensation for improvements) shall be amended as follows.
+
+(2) In subsection (1), after “to any tenant” there shall be inserted “ otherwise than under a farm business tenancy ”.
+
+(3) In subsection (2), after “small holdings or allotments” there shall be inserted “ otherwise than under a farm business tenancy ”.
+
+(4) In subsection (3), after “if” there shall be inserted “ he is not a tenant under a farm business tenancy and ”.
+
+(5) In subsection (4), after “allotment” there shall be inserted “ who is not a tenant under a farm business tenancy ”.
+
+(6) After that subsection, there shall be inserted—
+
+> (5) In this section, “**farm business tenancy**” has the same meaning as in the Agricultural Tenancies Act 1995.
+
+### The Law of Distress Amendment Act 1908 (c. 53)
+
+*Extent: E+W+N.I.*
+
+**2.** In section 4(1) of the Law of Distress Amendment Act 1908 (exclusion of certain goods), for “to which that section applies” there shall be substituted “ on land comprised in a tenancy to which that Act applies ”.
+
+### The Allotments Act 1922 (c. 51)
+
+*Extent: E+W*
+
+**3.** In section 3(7) of the Allotments Act 1922 (provision as to cottage holdings and certain allotments), after “landlord” there shall be inserted “ otherwise than under a farm business tenancy (within the meaning of the Agricultural Tenancies Act 1995) ”.
+
+**4.** In section 6(1) of that Act (assessment and recovery of compensation), after “contract of tenancy” there shall be inserted “ (not being a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995) ”.
+
+### The Landlord and Tenant Act 1927 (c. 36)
+
+*Extent: E+W*
+
+**5.** In section 17(1) of the Landlord and Tenant Act 1927 (holdings to which Part I applies), for the words from “not being” to the end there is substituted
+
+> not being—
+>
+> - (a) agricultural holdings within the meaning of the Agricultural Holdings Act 1986 held under leases in relation to which that Act applies, or
+> - (b) holdings held under farm business tenancies within the meaning of the Agricultural Tenancies Act 1995.
+
+**6.** In section 19(4) of that Act (provisions as to covenants not to assign etc. without licence or consent), after “the Agricultural Holdings Act 1986” there shall be inserted “ which are leases in relation to which that Act applies, or to farm business tenancies within the meaning of the Agricultural Tenancies Act 1995 ”.
+
+### The Agricultural Credits Act 1928 (c. 43)
+
+*Extent: E+W*
+
+**7.** In section 5(7) of the Agricultural Credits Act 1928 (agricultural charges on farming stock and assets) in the definition of “other agricultural assets”, after “otherwise” there shall be inserted “ a tenant’s right to compensation under section 16 of the Agricultural Tenancies Act 1995, ”.
+
+### The Leasehold Property (Repairs) Act 1938 (c. 34)
+
+*Extent: E+W*
+
+**8.** In section 7(1) of the Leasehold Property (Repairs) Act 1938 (interpretation), at the end there shall be added “ which is a lease in relation to which that Act applies and not being a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995 ”.
+
+### The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+
+*Extent: E+W+S*
+
+**9.** (1) Section 27 of the Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (renewal of tenancy expiring during period of service or within two months thereafter) shall be amended as follows.
+
+(2) In subsection (1), for the words from “are an agricultural holding” onwards there shall be substituted—
+
+> - (a) are an agricultural holding (within the meaning of the Agricultural Holdings Act 1986) held under a tenancy in relation to which that Act applies,
+> - (b) are a holding (other than a holding excepted from this provision) held under a farm business tenancy, or
+> - (c) consist of or comprise premises (other than premises excepted from this provision) licensed for the sale of intoxicating liquor for consumption on the premises.
+
+(3) In subsection (5), after paragraph (b) there shall be inserted—
+
+> - (bb) the expressions “**farm business tenancy**” and “**holding**”, in relation to such a tenancy, have the same meaning as in the Agricultural Tenancies Act 1995;
+
+.
+
+(4) After that subsection, there shall be inserted—
+
+> (5A) In paragraph (b) of the proviso to subsection (1) of this section the reference to a holding excepted from the provision is a reference to a holding held under a farm business tenancy in which there is comprised a dwelling-house occupied by the person responsible for the control (whether as tenant or servant or agent of the tenant) of the management of the holding.
+
+(5) In subsection (6), for the words from the beginning to “liquor” there shall be substituted “ In paragraph (c) of the proviso to subsection (1) of this section, the reference to premises excepted from the provision ”.
+
+### The Landlord and Tenant Act 1954 (c. 56)
+
+*Extent: E+W*
+
+**10.** In section 43(1) of the Landlord and Tenant Act 1954 (tenancies excluded from Part II)—
+
+- (a) in paragraph (a), for the words from “or a tenancy” to “1986” there shall be substituted “ which is a tenancy in relation to which the Agricultural Holdings Act 1986 applies or a tenancy which would be a tenancy of an agricultural holding in relation to which that Act applied if subsection (3) of section 2 of that Act ”, and
+- (b) after that paragraph there shall be inserted—
+
+  > - (aa) to a farm business tenancy;
+
+  .
+
+**11.** In section 51(1) of that Act (extension of Leasehold Property (Repairs) Act 1938), for paragraph (c) there shall be substituted—
+
+> - (c) that the tenancy is neither a tenancy of an agricultural holding in relation to which the Agricultural Holdings Act 1986 applies nor a farm business tenancy
+
+.
+
+**12.** In section 69(1) of that Act (interpretation), after the definition of “development corporation” there shall be inserted—
+
+> “**farm business tenancy**” has the same meaning as in the Agricultural Tenancies Act 1995;
+
+.
+
+### The Opencast Coal Act 1958 (c. 69)
+
+*Extent: E+W+S*
+
+**13.** (1) Section 14 of the Opencast Coal Act 1958 (provisions as to agricultural tenancies in England and Wales) shall be amended as follows.
+
+(2) In subsection (1)(b), for “or part of an agricultural holding” there shall be substituted “ held under a tenancy in relation to which the Agricultural Holdings Act 1986 (in this Act referred to as “**the Act of 1986**”) applies or part of such an agricultural holding ”.
+
+(3) In subsection (2), for the words from “Agricultural” to “of 1986)” there shall be substituted “ Act of 1986 ”.
+
+*Extent: E+W*
+
+**14.** After section 14A of that Act, there shall be inserted—
+
+> **14B. Provisions as to farm business tenancies.**
+>
+> (1) Without prejudice to the provisions of Part III of this Act as to matters arising between landlords and tenants in consequence of compulsory rights orders, the provisions of this section shall have effect where—
+>
+> - (a) opencast planning permission has been granted subject to a restoration condition, and
+> - (b) immediately before that permission is granted, any of the land comprised therein consists of the holding or part of the holding held under a farm business tenancy,
+>
+> whether any of that land is comprised in a compulsory rights order or not.
+>
+> (2) For the purposes of section 1 of the Agricultural Tenancies Act 1995 (in this Act referred to as “**the Act of 1995**”), the land shall be taken, while it is occupied or used for the permitted activities, to be used for the purposes for which it was used immediately before it was occupied or used for the permitted activities.
+>
+> (3) For the purposes of the Act of 1995, nothing done or omitted by the tenant or by the landlord under the tenancy by way of permitting any of the land in respect of which opencast planning permission has been granted to be occupied for the purpose of carrying on any of the permitted activities, or by way of facilitating the use of any of that land for that purpose, shall be taken to be a breach of any term or condition of the tenancy, either on the part of the tenant or on the part of the landlord.
+>
+> (4) In determining under subsections (1) and (2) of section 13 of the Act of 1995 the rent which should be properly payable for the holding, in respect of any period for which the person with the benefit of the opencast planning permission is in occupation of the holding, or of any part thereof, for the purpose of carrying on any of the permitted activities, the arbitrator shall disregard any increase or diminution in the rental value of the holding in so far as that increase or diminution is attributable to the occupation of the holding, or of that part of the holding, by that person for the purpose of carrying on any of the permitted activities.
+>
+> (5) In this section “**holding**”, in relation to a farm business tenancy, has the same meaning as in the Act of 1995.
+>
+> (6) This section does not extend to Scotland.
+
+*Extent: E+W*
+
+**15.** (1) Section 24 of that Act (tenant’s right to compensation for improvements and other matters) shall be amended as follows.
+
+(2) In subsection (1)(a), after “holding” there shall be inserted “ held under a tenancy in relation to which the Act of 1986 applies ”.
+
+(3) In subsection (10), after “Scotland” there shall be inserted “ the words “held under a tenancy in relation to which the Act of 1986 applies” in subsection (1)(a) of this section shall be omitted and ”.
+
+*Extent: E+W*
+
+**16.** After section 25 of that Act, there shall be inserted—
+
+> **25A. Tenant’s right to compensation for improvements etc.: farm business tenancies.**
+>
+> (1) The provisions of this section shall have effect where—
+>
+> - (a) any part of the land comprised in a compulsory rights order is held, immediately before the date of entry, under a farm business tenancy;
+> - (b) there have been provided in relation to the land which is both so comprised and so held (“the tenant”s land’) tenant’s improvements in respect of which, immediately before that date, the tenant had a prospective right to compensation under section 16 of the Act of 1995 on quitting the holding on the termination of the tenancy;
+> - (c) at the end of the period of occupation, the tenant’s land has lost the benefit of any such improvement; and
+> - (d) immediately after the end of that period, the tenant’s land is comprised in the same tenancy as immediately before the date of entry, or is comprised in a subsequent farm business tenancy at the end of which the tenant is not deprived, by virtue of section 23(3) of that Act, of his right to compensation under section 16 of that Act in respect of any tenant’s improvement provided during the earlier tenancy in relation to the tenant’s land.
+>
+> (2) For the purposes of subsection (1) of this section, subsection (2) of section 22 of the Act of 1995 (which requires notice to be given of the intention to make a claim) shall be disregarded.
+>
+> (3) Subject to subsection (4) of this section, Part III of the Act of 1995 shall apply as if—
+>
+> - (a) the tenant’s land were in the state in which it was immediately before the date of entry, and
+> - (b) the tenancy under which that land is held at the end of the period of occupation had terminated immediately after the end of that period and the tenant had then quitted the holding.
+>
+> (4) Where the tenant’s land has lost the benefit of some tenant’s improvements but has not lost the benefit of all of them, Part III of the Act of 1995 shall apply as mentioned in subsection (3) above, but as if the improvements of which the tenant’s land has not lost the benefit had not been tenant’s improvements.
+>
+> (5) For the purposes of subsections (1) and (4) of this section, the tenant’s land shall be taken to have lost the benefit of a tenant’s improvement if the benefit of that improvement has been lost (wholly or in part) without being replaced by another improvement of comparable benefit to the land.
+>
+> (6) In this section “**holding**”, in relation to a farm business tenancy, “**tenant’s improvement**”, “**termination**”, in relation to a tenancy, and references to the provision of a tenant’s improvement have the same meaning as in the Act of 1995.
+>
+> (7) This section does not extend to Scotland.
+
+**17.** (1) Section 26 of that Act (compensation for short-term improvements and related matters) shall be amended as follows.
+
+(2) In subsection (1), after “agricultural land” there shall be inserted “ and was not comprised in a farm business tenancy ”.
+
+(3) In subsection (6), after “Scotland” there shall be inserted—
+
+> - (za) in subsection (1) of this section, the words “and was not comprised in a farm business tenancy” shall be omitted;
+
+.
+
+**18.** (1) Section 28 of that Act (special provision as to market gardens) shall be amended as follows.
+
+(2) In subsection (1), after “market garden” there shall be inserted “ and was not comprised in a farm business tenancy. ”
+
+(3) In subsection (6), after “Scotland” there shall be inserted “ in subsection (1) of this section, the words “and was not comprised in a farm business tenancy” shall be omitted; and ”.
+
+**19.** In section 51 of that Act (interpretation) in subsection (1)—
+
+- (a) after the definition of “the Act of 1986” there shall be inserted—
+
+  > “**the Act of 1995**” means the Agricultural Tenancies Act 1995;
+
+  and
+- (b) after the definition of “emergency powers” there shall be inserted—
+
+  > “**farm business tenancy**” has the same meaning as in the Act of 1995;
+
+  .
+
+**20.** (1) Schedule 7 to that Act (adjustments between landlords and tenants and in respect of mortgages and mining leases and orders) shall be amended as follows.
+
+(2) After paragraph 1, there shall be inserted—
+
+> **1A.** (1) The provisions of this paragraph shall have effect where—
+>
+> - (a) paragraphs (a) and (b) of subsection (1) of section 25A of this Act apply, and
+> - (b) the farm business tenancy at the end of which the tenant could have claimed compensation for tenant’s improvements terminates on or after the date of entry, but before the end of the period of occupation, without being succeeded by another such subsequent tenancy.
+>
+> (2) In the circumstances specified in sub-paragraph (1) of this paragraph, the provisions of Part III of the Act of 1995—
+>
+> - (a) shall apply, in relation to the tenancy mentioned in that sub-paragraph, as if, at the termination of that tenancy, the land in question were in the state in which it was immediately before the date of entry, and
+> - (b) if the tenant under that tenancy quitted the holding before the termination of his tenancy, shall so apply as if he had quitted the holding on the termination of his tenancy.
+>
+> (3) In sub-paragraph (2) of this paragraph, “**holding**”, in relation to a farm business tenancy, and “**termination**”, in relation to a tenancy, have the same meaning as in the Act of 1995.
+
+(3) In paragraph 2, in sub-paragraph (1), after “agricultural holding” there shall be inserted “ held under a tenancy in relation to which the Act of 1986 applies ”.
+
+(4) After that paragraph there shall be inserted—
+
+> **2A.** (1) The provisions of this paragraph shall have effect where land comprised in a farm business tenancy is comprised in a compulsory rights order (whether any other land is comprised in the holding, or comprised in the order, or not), and—
+>
+> - (a) before the date of entry there had been provided in relation to the land in question tenant’s improvements (in this paragraph referred to as “**the former tenant**”s improvements’) in respect of which, immediately before that date, the tenant had a prospective right to compensation under section 16 of the Act of 1995 on quitting the holding on the termination of the tenancy, and
+> - (b) at the end of the period of occupation the circumstances are such that Part III of that Act would have applied as mentioned in subsections (3) and (4) of section 25A of this Act, but for the fact that the benefit of the former tenant’s improvements has been replaced, on the restoration of the land, by other improvements (in this paragraph referred to as “**the new improvements**”) of comparable benefit to the land.
+>
+> (2) In the circumstances specified in sub-paragraph (1) of this paragraph, Part III of the Act of 1995 shall have effect in relation to the new improvements as if those improvements were tenant’s improvements.
+>
+> (3) Subsections (2) and (6) of section 25A of this Act shall apply for the purposes of this paragraph as they apply for the purposes of that section.
+
+(5) After paragraph 3 there shall be inserted—
+
+> **3A.** Where by virtue of section 25A of this Act a tenant is entitled to compensation for tenant’s improvements as mentioned in that section and—
+>
+> - (a) after the end of the period of occupation expenses are incurred in replacing the benefit of the tenant’s improvements by other improvements of comparable benefit to the land, and
+> - (b) the person incurring those expenses (whether he is the landlord or not) is entitled to compensation in respect of those expenses under section 22 of this Act,
+>
+> section 13 of the Act of 1995 shall apply as if the works in respect of which those expenses are incurred were not tenant’s improvements, if apart from this paragraph they would constitute such improvements.
+
+(6) At the end of paragraph 4, there shall be added—
+
+> (7) In this paragraph “**agricultural holding**” does not include an agricultural holding held under a farm business tenancy.
+
+(7) After that paragraph there shall be inserted—
+
+> **4A.** (1) The provisions of this paragraph shall apply where—
+>
+> - (a) immediately before the operative date of a compulsory rights order, any of the land comprised in the order is subject to a farm business tenancy, and
+> - (b) that tenancy continues until after the end of the period of occupation.
+>
+> (2) The landlord or tenant under the tenancy may, by notice in writing served on his tenant or landlord, demand a reference to arbitration of the question whether any of the terms and conditions of the tenancy (including any term or condition relating to rent) should be varied in consequence of any change in the state of the land resulting from the occupation or use of the land in the exercise of rights conferred by the order; and subsection (3) of section 28 of the Act of 1995 shall apply in relation to a notice under this sub-paragraph as it applies in relation to a notice under subsection (2) of that section.
+>
+> (3) On a reference by virtue of this paragraph, the arbitrator shall determine what variations (if any) should be made in the terms and conditions of the tenancy, and the date (not being earlier than the end of the period of occupation) from which any such variations are to take effect or to be treated as having taken effect; and as from that date the tenancy shall have effect, or, as the case may be, shall be treated as having had effect, subject to any variations determined by the arbitrator under this paragraph.
+>
+> (4) The provisions of this paragraph shall not affect any right of the landlord or the tenant, or the jurisdiction of the arbitrator, under Part II of the Act of 1995; but where—
+>
+> - (a) there is a reference by virtue of this paragraph and a reference under Part II of that Act in respect of the same tenancy, and
+> - (b) it appears to the arbitrator that the reference under Part II of that Act relates wholly or mainly to the consequences of the occupation or use of the land in the exercise of rights conferred by the order,
+>
+> he may direct that proceedings on the two references shall be taken concurrently.
+
+(8) In paragraph 5(1), after “agricultural holding” there shall be inserted “held under a tenancy in relation to which the Act of 1986 applies”.
+
+(9) In paragraph 6—
+
+- (a) in sub-paragraph (1), for “an agricultural holding” there shall be substituted
+
+  > —
+  >
+  > - (a) an agricultural holding held under a tenancy in relation to which the Act of 1986 applies, or
+  > - (b) a holding under a farm business tenancy,
+
+  ; and
+- (b) after sub-paragraph (2) there shall be added—
+
+  > (2A) In sub-paragraph (1) of this paragraph, “**holding**”, in relation to a farm business tenancy, has the same meaning as in the Act of 1995.
+
+(10) In paragraph 7—
+
+- (a) after “The provisions of” there shall be inserted “ sub-paragraphs (1) to (6) of ”;
+- (b) for “that paragraph” there shall be substituted “ those sub-paragraphs ”; and
+- (c) after “subject to a mortgage” there shall be inserted “ but not comprised in a farm business tenancy ”.
+
+(11) After that paragraph there shall be inserted—
+
+> **7A.** The provisions of paragraph 4A of this Schedule shall apply in relation to mortgages of land comprised in farm business tenancies as they apply in relation to such tenancies, as if any reference in that paragraph to such a tenancy were a reference to such a mortgage, and any reference to a landlord or to a tenant were a reference to a mortgagee or to a mortgagor, as the case may be.
+
+(12) In paragraph 12(1)(a), for the words from “did” to “holding” there shall be substituted “ was not comprised in a tenancy in relation to which the Act of 1986 applies or in a farm business tenancy ”.
+
+(13) In paragraph 13, after “or to a tenancy” there shall be inserted “ (other than a reference to a tenancy in relation to which the Act of 1986 applies or a farm business tenancy) ”.
+
+(14) In paragraph 25—
+
+- (a) in sub-paragraph (a), at the beginning there shall be inserted “ subject to sub-paragraphs (ba), (bc), (bd)(i) and (be) of this paragraph, ”;
+- (b) after sub-paragraph (b), there shall be inserted—
+
+  > - (ba) in sub-paragraph (1) of paragraph 2, the words “held under a tenancy in relation to which the Act of 1986 applies” shall be omitted;
+  > - (bb) sub-paragraph (7) of paragraph 4 shall be omitted;
+  > - (bc) in sub-paragraph (1) of paragraph 5, the words “held under a tenancy in relation to which the Act of 1986 applies” shall be omitted;
+  > - (bd) in paragraph (6)—
+  >   - (i) for paragraphs (a) and (b) of sub-paragraph (1) there shall be substituted the words “an agricultural holding”; and
+  >   - (ii) sub-paragraph (2A) shall be omitted;
+  > - (be) in sub-paragraph (1)(a) of paragraph 12, for the words “was not comprised in a tenancy in relation to which the Act of 1986 applies or in a farm business tenancy” there shall be substituted the words “did not constitute or form part of an agricultural holding”;
+
+  and
+- (c) in sub-paragraph (c), for “7” there shall be substituted “ 1A, 2A, 3A, 4A, 7, 7A ”.
+
+### The Agriculture (Miscellaneous Provisions) Act 1963 (c. 11)
+
+**21.** (1) Section 22 of the Agriculture (Miscellaneous Provisions) Act 1963 (allowances to persons displaced from agricultural land) shall be amended as follows.
+
+(2) In subsection (1), for paragraph (a) there shall be substituted—
+
+> - (a) the land—
+>   - (i) is used for the purposes of agriculture (within the meaning of the Agricultural Tenancies Act 1995) and is so used by way of a trade or business, or
+>   - (ii) is not so used but is comprised in a farm business tenancy (within the meaning of the Agricultural Tenancies Act 1995) and used for the purposes of a trade or business,
+
+.
+
+(3) In subsection (6)(c), for “the Agricultural Holdings Act 1986” there shall be substituted “ , the Agricultural Tenancies Act 1995 ”.
+
+### The Leasehold Reform Act 1967 (c. 88)
+
+*Extent: E+W*
+
+**22.** In section 1(3) of the Leasehold Reform Act 1967 (tenants entitled to enfranchisement or extension), for paragraph (b) there shall be substituted—
+
+> - (b) it is comprised in—
+>   - (i) an agricultural holding within the meaning of the Agricultural Holdings Act 1986 held under a tenancy in relation to which that Act applies, or
+>   - (ii) the holding held under a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995.
+
+### The Agriculture (Miscellaneous Provisions) Act 1968 (c. 34)
+
+*Extent: E+W+S*
+
+**23.** In section 12 of the Agriculture (Miscellaneous Provisions) Act 1968 (additional payments in consequence of compulsory acquisition etc of agricultural holdings), after subsection (1) there shall be inserted—
+
+> (1A) No sum shall be payable by virtue of subsection (1) of this section in respect of any land comprised in a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995.
+
+### The Land Compensation Act 1973 (c. 26)
+
+*Extent: E+W+S*
+
+**24.** In section 48 of the Land Compensation Act 1973 (compensation in respect of agricultural holdings) at the beginning of subsection (1) there shall be inserted “Subject to subsection (1A) below” and after subsection (1) there shall be inserted—
+
+> (1A) This section does not have effect where the tenancy of the agricultural holding is a tenancy to which, by virtue of section 4 of the Agricultural Tenancies Act 1995, the Agricultural Holdings Act 1986 does not apply.
+
+### The Rent (Agriculture) Act 1976 (c. 80)
+
+*Extent: E+W*
+
+**25.** (1) Section 9 of the Rent (Agriculture) Act 1976 (effect of determination of superior tenancy, etc) shall be amended as follows.
+
+(2) In subsection (3), after “the Agricultural Holdings Act 1986” there shall be inserted “ held under a tenancy in relation to which that Act applies and land comprised in a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995. ”
+
+(3) In subsection (4), for the words from “or” at the end of paragraph (b) onwards there shall be substituted—
+
+> - (c) a tenancy of an agricultural holding within the meaning of the Agricultural Holdings Act 1986 which is a tenancy in relation to which that Act applies; or
+> - (d) a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995.
+
+**26.** In Schedule 2 to that Act (meaning of “relevant licence” and “relevant tenancy”), in paragraph 2 for the words from “and a tenancy” to the end there shall be substituted “ , a tenancy of an agricultural holding within the meaning of the Agricultural Holdings Act 1986 which is a tenancy in relation to which that Act applies, and a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995. ”
+
+### The Rent Act 1977 (c. 42)
+
+*Extent: E+W*
+
+**27.** For section 10 of the Rent Act 1977 there shall be substituted—
+
+> **10. Agricultural holdings etc.**
+>
+> (1) A tenancy is not a protected tenancy if—
+>
+> - (a) the dwelling-house is comprised in an agricultural holding and is occupied by the person responsible for the control (whether as tenant or as servant or agent of the tenant) of the farming of the holding, or
+> - (b) the dwelling-house is comprised in the holding held under a farm business tenancy and is occupied by the person responsible for the control (whether as tenant or as servant or agent of the tenant) of the management of the holding.
+>
+> (2) In subsection (1) above—
+>
+> - “**agricultural holding**” means any agricultural holding within the meaning of the Agricultural Holdings Act 1986 held under a tenancy in relation to which that Act applies, and
+> - “**farm business tenancy**”, and “**holding**” in relation to such a tenancy, have the same meaning as in the Agricultural Tenancies Act 1995.
+
+**28.** (1) Section 137 of that Act (effect on sub-tenancy of determination of superior tenancy) shall be amended as follows.
+
+(2) In subsection (3), after “the Agricultural Holdings Act 1986” there shall be inserted “ held under a tenancy to which that Act applies and land comprised in a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995. ”
+
+(3) In subsection (4), in paragraph (c), for the words from “applies” onwards there shall be substituted
+
+> applies—
+>
+> - (i) a tenancy of an agricultural holding within the meaning of the Agricultural Holdings Act 1986 which is a tenancy in relation to which that Act applies, or
+> - (ii) a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995.
+
+### The Protection from Eviction Act 1977 (c. 43)
+
+*Extent: E+W*
+
+**29.** In section 8(1) of the Protection from Eviction Act 1977 (interpretation)—
+
+- (a) in paragraph (d), after “Agricultural Holdings Act 1986” there shall be inserted “ which is a tenancy in relation to which that Act applies ”, and
+- (b) at the end there shall be added—
+
+  > - (g) a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995.
+
+### The Housing Act 1985 (c. 68)
+
+*Extent: E+W*
+
+**30.** In Schedule 1 to the Housing Act 1985 (tenancies which are not secure tenancies), for paragraph 8 there shall be substituted—
+
+> **Agricultural holdings etc.**
+>
+> **8.** (1) A tenancy is not a secure tenancy if—
+>
+> - (a) the dwelling-house is comprised in an agricultural holding and is occupied by the person responsible for the control (whether as tenant or as servant or agent of the tenant) of the farming of the holding, or
+> - (b) the dwelling-house is comprised in the holding held under a farm business tenancy and is occupied by the person responsible for the control (whether as tenant or as servant or agent of the tenant) of the management of the holding.
+>
+> (2) In sub-paragraph (1) above—
+>
+> - “**agricultural holding**” means any agricultural holding within the meaning of the Agricultural Holdings Act 1986 held under a tenancy in relation to which that Act applies, and
+> - “**farm business tenancy**”, and “**holding**” in relation to such a tenancy, have the same meaning as in the Agricultural Tenancies Act 1995.
+
+### The Landlord and Tenant Act 1985 (c. 70)
+
+*Extent: E+W*
+
+**31.** In section 14(3) of the Landlord and Tenant Act 1985 (leases to which section 11 does not apply), at the end there shall be added “ and in relation to which that Act applies or to a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995. ”
+
+### The Agricultural Holdings Act 1986 (c. 5)
+
+*Extent: E+W*
+
+**32.** In Schedule 6 to the Agricultural Holdings Act 1986 (eligibility to apply for a new tenancy under Part IV of that Act), in paragraph 6 (occupation to be disregarded for purposes of occupancy condition), in sub-paragraph (1) after paragraph (d) there shall be inserted—
+
+> - (dd) under a farm business tenancy, within the meaning of the Agricultural Tenancies Act 1995, for less than five years (including a farm business tenancy which is a periodic tenancy),
+
+.
+
+### The Housing Act 1988 (c. 50)
+
+*Extent: E+W*
+
+**33.**[^c831832] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34.** In Schedule 1 to that Act (tenancies which cannot be assured tenancies), for paragraph 7 there shall be substituted—
+
+> **Tenancies of agricultural holdings etc**
+>
+> **7.** (1) A tenancy under which the dwelling-house—
+>
+> - (a) is comprised in an agricultural holding, and
+> - (b) is occupied by the person responsible for the control (whether as tenant or as servant or agent of the tenant) of the farming of the holding.
+>
+> (2) A tenancy under which the dwelling-house—
+>
+> - (a) is comprised in the holding held under a farm business tenancy, and
+> - (b) is occupied by the person responsible for the control (whether as tenant or as servant or agent of the tenant) of the management of the holding.
+>
+> (3) In this paragraph—
+>
+> - “**agricultural holding**” means any agricultural holding within the meaning of the Agricultural Holdings Act 1986 held under a tenancy in relation to which that Act applies, and
+> - “**farm business tenancy**” and “**holding**”, in relation to such a tenancy, have the same meaning as in the Agricultural Tenancies Act 1995.
+
+### The Town and Country Planning Act 1990 (c. 8)
+
+*Extent: E+W*
+
+**35.** (1) Section 65 of the Town and Country Planning Act 1990 (notice etc. of applications for planning permissions) shall be amended as follows.
+
+(2) In subsection (2), for “a tenant of any agricultural holding any part of which is comprised in that land” there shall be substituted “ an agricultural tenant of that land ”.
+
+(3) In subsection (8), for the definition of “agricultural holding” there shall be substituted—
+
+> “**agricultural tenant**”, in relation to any land, means any person who—
+>
+> - (a) is the tenant, under a tenancy in relation to which the Agricultural Holdings Act 1986 applies, of an agricultural holding within the meaning of that Act any part of which is comprised in that land; or
+> - (b) is the tenant, under a farm business tenancy (within the meaning of the Agricultural Tenancies Act 1995), of land any part of which is comprised in that land;
+
+.
+
+### The Coal Mining Subsidence Act 1991 (c. 45)
+
+*Extent: E+W+S*
+
+**36.** In section 21 of the Coal Mining Subsidence Act 1991 (property belonging to protected tenants) in subsection (3), after paragraph (a) there shall be inserted—
+
+> - (aa) a tenant under a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995;
+
+.
+
+**37.** In Schedule 3 to that Act (property belonging to protected tenants) in paragraph 1(2), after paragraph (b) there shall be inserted—
+
+> - (bb) section 20 of the Agricultural Tenancies Act 1995;
+
+.
+
+## Annotations
+
+[^c831797]: Extent: Act extends mainly to England and Wales for exceptions see s. 41(4)
+
+[^c831798]: Commencement: Act wholly in force at 1.9.1995 see s. 41(2)
+
+[^c831799]: Modification: Act modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/14) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted s. 14B into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69))
+
+[^c831800]: Modification: Act applied (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 31](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/31) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted definition of “farm business tenancy” into [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70), [s. 14(3)](https://www.legislation.gov.uk/ukpga/1985/70/section/14/3)).
+
+[^key-45c6fec1f7c3839878e5d6e790ae25a7]: Modification: Act excluded by 1983 gsm1 s. 56(2G)(c) (as inserted) (E.) (1.1.2007) by [Pastoral (Amendment) Measure 2006 (No. 2)](https://www.legislation.gov.uk/ukcm/2006/2), [ss. 1(b)](https://www.legislation.gov.uk/ukcm/2006/2/section/1/b), [2(2)](https://www.legislation.gov.uk/ukcm/2006/2/section/2/2); [2006 No. 3](https://www.legislation.gov.uk/ukci/2006/3), Instrument made by Archbishops)
+
+[^c831801]: Modification: S. 1 modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 34](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/34) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted s. 14B into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
+
+[^c831802]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
+
+[^c831803]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
+
+[^c831804]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
+
+[^key-c67c26379547856e66ade1c55310a1d8]: Textual amendment: Words in s. 4(1) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(2)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-37f457adb8c9f10f1c0bb5c1c3e35183]: Textual amendment: Words in s. 4(1)(b) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 216(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/216/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-65acdb9215b1bcc3ea07cf38bd50c63b]: Textual amendment: Word in s. 4(1)(e) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-b427b93e8f9ba2d0ff20e14f0b3ca0da]: Textual amendment: Words in s. 4(1)(f) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(4)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/4) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-02a7df0463a69898333bdf7018729343]: Textual amendment: S. 4(1)(g) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(5)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/5) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-fdffcc7b82ed2c66c9298f86bc79d787]: Textual amendment: Word in s. 4(2)(a) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(6)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-3c329f3dd9d02e0f594e42c59c26f706]: Textual amendment: S. 4(2)(b)(c) substituted for s. 4(2)(b) (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(7)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/7) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-f95740d69ba23993b867b39ef6d78ee0]: Textual amendment: S. 4(2A) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(8)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/8) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-1f30d5e8392e6926f3a224226031e06e]: Textual amendment: Words in s. 4(2A)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 216(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/216/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-c9da21a0b96595eb0b155bd829fc507b]: Textual amendment: S. 4(2B) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(9)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/9) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-dfcf561e4dc1de9c2efca6d6fb37501e]: Textual amendment: S. 4(2C) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(10)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/10) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-47f95d0bfe9e7b9cfc4a71f89c74af26]: Textual amendment: Word in s. 4(3)(a) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(11)(a)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/11/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-1fc3380ab259ae88f573b7401914a322]: Textual amendment: S. 4(3)(c) and word inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [12(11)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/11/b) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [12(12)](https://www.legislation.gov.uk/uksi/2006/2805/article/12/12))
+
+[^key-3bc634ad684e150690841dd4b72de530]: Textual amendment: Words in s. 5(1) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [13](https://www.legislation.gov.uk/uksi/2006/2805/article/13) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^c831805]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^key-b278b9d977359814f007d9a6a2da0674]: Textual amendment: Words in s. 6(1)(c) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [13](https://www.legislation.gov.uk/uksi/2006/2805/article/13) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^c831806]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^key-09651e0060af03ab2220d0b1db20334b]: Textual amendment: Words in s. 7(1) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [13](https://www.legislation.gov.uk/uksi/2006/2805/article/13) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^c831807]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^c831808]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^key-128db76737a188ae4b623c6518e2cec9]: Textual amendment: Words in s. 7(3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/49); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^key-38110a6b80769e78dfa672c9e9d54f5f]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1995/8/section/8A) inserted (15.7.2024) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 24(4)](https://www.legislation.gov.uk/asc/2023/4/section/24/4), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
+
+[^key-951d303c13fc263f9794e587314f0587]: Textual amendment: Word in s. 9(a) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(1)(a)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/1/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
+
+[^key-0110a9fb8a55a5e30518613e7c126f3d]: Textual amendment: S. 9(c) and word inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/1/b) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
+
+[^key-2ba8990276ff639fea017d79314833c8]: Textual amendment: S. 12 renumbered as s. 12(1) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b/c/6), [Sch. 3 para. 23(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/23/2)
+
+[^key-ba70e32d865340334d01ad06bd2ae1f8]: Textual amendment: Words in s. 12(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 23(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/23/3)
+
+[^key-27f5d3720ac62475d5640c4b290d4afd]: Textual amendment: S. 12(2) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 23(4)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/23/4)
+
+[^c831809]: Modification: S. 13 modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 20(5)](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/20/5) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted Sch. 7 para. 3A into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
+
+[^c831810]: Modification: S. 13(1)(2) modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/14) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted s. 14B into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
+
+[^key-aecf86de4d31311c6e756254274f11cb]: Textual amendment: Words in s. 13(2) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [15](https://www.legislation.gov.uk/uksi/2006/2805/article/15) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^c831812]: Modification: Pt. III (ss. 15-27) modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/16) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted s. 25A into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
+
+    Pt. III (ss. 15-27) modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 20(2)](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/20/2) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted Sch. 7 para. 1A into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
+
+    Pt. III (ss. 15-27) modified (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 20(4)](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/20/4) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)) (which Act inserted Sch. 7 para. 2A into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
+
+[^c831813]: Marginal citation: [1986 c. 49](https://www.legislation.gov.uk/ukpga/1986/49).
+
+[^key-5ca0a40d3dc8065f763fbe5aeb29c010]: Textual amendment: Words in s. 19(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/24/2)
+
+[^key-0f6f93312a4dc665faa9ed7af21da271]: Textual amendment: S. 19(9A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 24(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/24/3)
+
+[^key-864fcec823483f14cafdc2f48cef6448]: Textual amendment: Words in s. 20(1) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [16(1)](https://www.legislation.gov.uk/uksi/2006/2805/article/16/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^key-1b4b60cb4ce4432094984a790a7b90c4]: Textual amendment: S. 20(4A)(4B) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [16(2)](https://www.legislation.gov.uk/uksi/2006/2805/article/16/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^c831814]: Modification: S. 22 restricted (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2) Sch. para. 16 (with s. 37) (which Act inserted s. 25A into [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69)).
+
+[^key-1de982d57213a9bb9c8fb6e46f4b677d]: Textual amendment: Words in s. 22(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/2)
+
+[^key-ae1496473b89e9fb3d07ae3e3c36349c]: Textual amendment: S. 22(3A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/3)
+
+[^key-3ec07a55afa1087955d758da1143a9e3]: Textual amendment: Words in s. 22(4)(b) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(4)(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/4/a)
+
+[^key-c7e166a4587ea4df453956f0eb975d9f]: Textual amendment: Words in s. 22(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 25(4)(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/25/4/b)
+
+[^c831815]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^key-7c2103273a69bd3c1968602e5263e62e]: Textual amendment: Word in s. 24(2) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(1)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^key-e9a0b0eaed42e5afce7cced9abea6962]: Textual amendment: Words in s. 24(4) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(2)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^key-a95d3aae024d67acd44153ae1e25da8e]: Textual amendment: S. 24(4A) inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^key-67d42584d9a7cfcaf1dbf43dd2943b0a]: Textual amendment: Word in s. 24(5) substituted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [17(4)](https://www.legislation.gov.uk/uksi/2006/2805/article/17/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+
+[^c831816]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^key-6bed71aefb8d95e28868e840507ff6c4]: Textual amendment: Words in s. 28(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/26/2)
+
+[^key-488605946a1ead9201ebc094872121a2]: Textual amendment: Words in s. 28(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 26(3)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/26/3)
+
+[^key-d4b44e87ebb897dd95f1f213f088a398]: Textual amendment: S. 28(3A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 26(4)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/26/4)
+
+[^c831818]: Textual amendment: S. 28(4) repealed (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/23/schedule/4) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3).
+
+[^key-7400c04bd25fc88ea298c6b96dcf90f7]: Textual amendment: [S. 28(5)(za)](https://www.legislation.gov.uk/ukpga/1995/8/section/28/5/za) inserted (15.7.2024) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 24(5)](https://www.legislation.gov.uk/asc/2023/4/section/24/5), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
+
+[^key-cd1f1318cd283e3fa0e5211421050ed8]: Textual amendment: Word in s. 28(5)(b) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(2)(a)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/2/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
+
+[^key-1b1a1349bc580a028efcd0014e346634]: Textual amendment: S. 28(5)(d) and word inserted (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [14(2)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/2/b) (with [arts. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10), [14(3)](https://www.legislation.gov.uk/uksi/2006/2805/article/14/3))
+
+[^key-f88dd8a0c29d16b6924e9a1d36c93d50]: Textual amendment: Words in s. 30(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/2/a)
+
+[^key-275c560c57a0180ef87a77d02ce7a38e]: Textual amendment: Words in s. 30(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/2/b)
+
+[^key-8c87dfffda429f8dbf393e2929ee175d]: Textual amendment: Words in s. 30(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(2)(c)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/2/c)
+
+[^key-370b4579893b9def20fa051d15f9bf4b]: Textual amendment: Words in s. 30(3) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/3/a)
+
+[^key-2f9f47557d84491d1afc3cdec9a0bbf9]: Textual amendment: Words in s. 30(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/3/b)
+
+[^key-60831a9e744b7ad300948fbfcf14d3b2]: Textual amendment: Words in s. 30(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/27/3/c)
+
+[^c831819]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^c831820]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
+
+[^c831823]: Textual amendment: Words in s. 33(1)(2) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2).
+
+[^key-b33c4b4964c635855e75692cd98e9e87]: Textual amendment: Words in s. 33(1) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/19); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+
+[^c831826]: Textual amendment: Definition of “settled land” and the word preceding it in s. 33(4) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2).
+
+[^key-c7b0efb8e3a5111d60f838bd3c9749ea]: Textual amendment: S. 35 repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(ix)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/ix)
+
+[^key-c813e6a3fff7c5344208b2186b0d21bf]: Textual amendment: [S. 36A](https://www.legislation.gov.uk/ukpga/1995/8/section/36A) inserted (15.7.2024) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 24(6)](https://www.legislation.gov.uk/asc/2023/4/section/24/6), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
+
+[^c831829]: Marginal citation: [1817 c. 97](https://www.legislation.gov.uk/ukpga/1817/97).
+
+[^c831830]: Marginal citation: [1863 c. 49](https://www.legislation.gov.uk/ukpga/1863/49).
+
+[^c831831]: Marginal citation: [1982 c. 47](https://www.legislation.gov.uk/ukpga/1982/47).
+
+[^key-ca25186d841748dfb25afd94798a32f5]: Textual amendment: Words in s. 38(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/28)
+
+[^key-d6bfed2558a298d517361418b1786bb5]: Textual amendment: Words in s. 39 inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 29(a)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/29/a)
+
+[^key-29bf5e5edc0af8e165352273dac69871]: Textual amendment: Words in s. 39 omitted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by virtue of [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 29(b)](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/29/b)
+
+[^c831832]: Textual amendment: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/33) repealed (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [Sch. 19 Pt. IX](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/IX); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3)

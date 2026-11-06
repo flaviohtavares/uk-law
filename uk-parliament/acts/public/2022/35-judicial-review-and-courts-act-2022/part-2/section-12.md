@@ -1,0 +1,93 @@
+---
+title: Judicial Review and Courts Act 2022, section 12
+act: Judicial Review and Courts Act 2022
+section: '12'
+status: not-yet-in-force
+text_date: '2026-09-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/35/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Judicial Review and Courts Act 2022, section 12
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 12. Powers of youth court to transfer cases if accused turns 18[^key-0785adcc5b078f1bbce8b501a7758876]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) Section 47 of the Crime and Disorder Act 1998 (powers of youth courts) is amended as follows.
+
+(2) Before subsection (1) insert—
+
+> (A1) This section applies where a person who appears or is brought before a youth court charged with an offence attains the age of 18 before the start of the trial of the person for the offence.
+
+(3) For subsection (1) substitute—
+
+> (1) In the case of a summary offence or an offence triable either way, the youth court may, at any time before the start of the trial, remit the person for trial to a magistrates’ court (other than a youth court).
+>
+> (1A) In the case of an indictable offence, the youth court may, at any time before the start of the trial, send the person for trial to the Crown Court.
+>
+> (1B) In subsections (A1) to (1A), “**the start of the trial**” is to be read in accordance with section 22(11B)(a) and (b) of the 1985 Act.
+>
+> (1C) If the youth court is proposing to exercise the power under subsection (1) to remit a person to a magistrates’ court for trial for an offence triable either way, the youth court—
+>
+> - (a) must give the person the opportunity of electing to be tried by the Crown Court for the offence, and
+> - (b) if the person elects to be so tried, must exercise the power under subsection (1A) to send the person for trial to the Crown Court.
+>
+> (1D) A remission or sending under subsection (1) or (1A) does not have to be done in open court in the presence of the accused; but if it is not the youth court must first serve on the person one or more documents which—
+>
+> - (a) state the charge against the accused;
+> - (b) explain that the court proposes to remit the accused for trial to a magistrates’ court (other than a youth court) or (as the case may be) to send the accused for trial to the Crown Court; and
+> - (c) set out any other information—
+>   - (i) that is required by Criminal Procedure Rules, or
+>   - (ii) that is authorised by Criminal Procedure Rules and which the court decides to include.
+>
+> (1E) Criminal Procedure Rules may make provision about situations where—
+>
+> - (a) a person is sent for trial under subsection (1A) in relation to an alleged offence, and
+> - (b) any other alleged offence is, or appears to be, related (in such a way as is specified in the Rules) to the alleged offence referred to in paragraph (a).
+>
+> (1F) The provision that may be made as described in subsection (1E) includes provision—
+>
+> - (a) for a person to be sent to the Crown Court for trial for the other alleged offence—
+>   - (i) whether or not this section applies in relation to it;
+>   - (ii) whether or not it is alleged to have been committed by the same person as the offence referred to in paragraph (a) of that subsection;
+>   - (iii) even if it is a summary offence;
+> - (b) applying any other provision made by or under an Act about the sending of a person to the Crown Court for trial;
+> - (c) disapplying any other provision made by or under an Act about how a magistrates’ court is to deal with the other alleged offence.
+
+(4) In subsection (2)—
+
+- (a) in the words before paragraph (a), for “under subsection (1)” substitute “or sent under subsection (1) or (1A)”;
+- (b) in paragraph (a), for “of remission” substitute “for the remission or sending”;
+- (c) in paragraph (b), for “remitting” substitute “youth”.
+
+(5) In subsection (3)—
+
+- (a) for “remitting” substitute “youth”;
+- (b) after “remitted” insert “or sent”.
+
+(6) In subsection (4)—
+
+- (a) the words from “all” to the end become paragraph (a);
+- (b) in that paragraph, for “remitting” substitute “youth”;
+- (c) at the end of that paragraph insert
+
+  > ; and
+  >
+  > - (b) the person remitted or sent had attained the age of 18 before the start of those proceedings.
+
+(7) After subsection (4) insert—
+
+> (4A) For the purposes of this section a person is to be taken to be the age which that person appears to the court to be after considering any available evidence.
+
+## Annotations
+
+[^key-0785adcc5b078f1bbce8b501a7758876]: Commencement: S. 12 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

@@ -1,0 +1,61 @@
+---
+title: Land Compensation Act 1973, section 6
+act: Land Compensation Act 1973
+section: '6'
+status: revised-with-pending-changes
+text_date: '2026-09-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1973/26/section/6
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Compensation Act 1973, section 6
+
+> **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 6. Reduction of compensation where land is benefited.
+
+*Extent: E+W*
+
+(1) The compensation payable on a claim shall be reduced by an amount equal to any increase in the value of—
+
+- (a) the claimant’s interest in the land in respect of which the claim is made; and
+- (b) any interest in other land contiguous or adjacent to the land mentioned in paragraph (a) above to which the claimant was entitled in the same capacity on the relevant date,
+
+which is attributable to the existence of or the use or prospective use of the public works to which the claim relates.
+
+(2) Sections 4 and 5 above shall not apply to the assessment, for the purposes of subsection (1) above, of the value of the interest mentioned in paragraph (a) of that subsection.
+
+(3) Where, for the purpose of assessing compensation on a claim in respect of any interest in land, an increase in the value of an interest in other land has been taken into account under subsection (1) above, then, in connection with any subsequent acquisition to which this subsection applies, that increase shall not be left out of account by virtue of section 6A[^key-bea0286e9991a51e8f460f3fba024cd5] of the [^c776076]Land Compensation Act 1961 or taken into account by virtue of section 6B[^key-944d6a1d6cd4261c3ea5442ef126ccce] of that Act or any corresponding enactment, in so far as it was taken into account in connection with that claim.
+
+(4) Subsection (3) above applies to any subsequent acquisition, not being an acquisition of the land in respect of which the claim is made, where either—
+
+- (a) the interest acquired by the subsequent acquisition is the same as the interest previously taken into account (whether the acquisition extends to the whole of the land in which that interest previously subsisted or only to part of that land); or
+- (b) the person entitled to the interest acquired is, or directly or indirectly derives title to that interest from, the person who at the time of the claim mentioned in that subsection was entitled to the interest previously taken into account;
+
+and in this subsection “**the interest previously taken into account**” means the interest the increased value of which was taken into account as mentioned in the said subsection (3).
+
+(5) For the purposes of this section a person entitled to two interests in land shall be taken to be entitled to them in the same capacity if, but only if, he is entitled—
+
+- (a) to both of them beneficially; or
+- (b) to both of them as trustee of one particular trust; or
+- (c) to both of them as personal representative of one particular person;
+
+and in this section references to a person deriving title from another person include references to any successor in title of that other person.
+
+(6) In subsection (3) above “**corresponding enactment**” has the same meaning as in section 8 of the said Act of 1961.
+
+(7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c776077]
+
+## Annotations
+
+[^key-bea0286e9991a51e8f460f3fba024cd5]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1973/26/section/6/3) substituted (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 32(5)(a)](https://www.legislation.gov.uk/ukpga/2017/20/section/32/5/a), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))
+
+[^c776076]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
+
+[^key-944d6a1d6cd4261c3ea5442ef126ccce]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1973/26/section/6/3) substituted (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 32(5)(b)](https://www.legislation.gov.uk/ukpga/2017/20/section/32/5/b), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))
+
+[^c776077]: Textual amendment: Ss. 2(8), 4(6), 5(6), 6(7), 8(8), 10(5), 11(6) repealed by [Land Compensation (Scotland) Act 1973 (c. 56)](https://www.legislation.gov.uk/ukpga/1973/56), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1973/56/schedule/2/part/I)

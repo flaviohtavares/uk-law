@@ -1,0 +1,1283 @@
+---
+title: The Quarries Regulations 1999
+id: uksi/1999/2024
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-07-12'
+text_date: '2015-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1999/2024
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/2024/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Quarries Regulations 1999
+
+> Text as at 2015-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1999 No. 2024
+
+HEALTH AND SAFETY
+
+The Quarries Regulations 1999
+
+Made
+
+12th July 1999
+
+Laid before Parliament
+
+27th July 1999
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State, in exercise of the powers conferred upon him by sections 15(1), (2), (3)(a), (5)(b) and 82(3)(a) of, and paragraphs 1(1) and (2), 3(1) and (2), 6, 8, 9, 12, 14, 15(1), 16, 18, 20 and 21(b) of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] and of all other powers enabling him in that behalf for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
+
+## PART I — INTERPRETATION AND GENERAL
+
+### 1. Citation and commencement[^key-e4a00d369f5e9d504108a0b2f0806b16]
+
+(1) These Regulations may be cited as the Quarries Regulations 1999 and subject to paragraphs (2) and (3) shall come into force on 1st January 2000.
+
+(2) Regulation 32, with the exception of paragraph (4), shall come into force on 1st January 2001 with respect to any tip which was not a classified tip for the purposes of regulation 2(1) of the 1971 Regulations.
+
+(3) Regulation 32(4) shall come into force on 1st January 2002 with respect to any notifiable tip which was not a classified tip for the purposes of regulation 2(1) of the 1971 Regulations.
+
+### 2. Interpretation[^key-37e6b8229c34d50174e77cb511809644]
+
+(1) In these Regulations, unless the context otherwise requires—
+
+- “the 1954 Act” means the Mines and Quarries Act 1954[^f00002];
+- “the 1969 Act” means the Mines and Quarries (Tips) Act 1969[^f00003];
+- “the 1971 Regulations” means the Mines and Quarries (Tips) Regulations 1971[^f00004];
+- “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999;[^key-ae9e109ce95f53517bf52c087d6faf84]
+- “appoint” in relation to a person means appoint in writing with a written statement summarising his duties and authority, and “appointed” shall be construed accordingly;
+- “competent” in relation to a person means a person with sufficient training, experience, knowledge and other qualities to enable him properly to undertake the duties assigned to him, and “competence” shall be construed accordingly;
+- “detonator” means an initiator for explosives that contains a charge of high explosive fired by means of a flame, spark, electric current or shock tube;
+- “excavation” means any place at the quarry where minerals are or have been extracted and includes the ground, faces or sides of the quarry and any other incline;
+- “excavations and tips rules” means the rules referred to at regulation 31;
+- “the Executive” means the Health and Safety Executive;
+- “exploder” means a device designed for firing detonators;
+- “explosive article” means an article containing one or more explosive substances;[^key-f731de60d10f508f73e669fb99ad7d85]
+- “explosive substance” means—
+  - (a) a solid or liquid substance; or
+  - (b) a mixture of solid or liquid substances or both, which is capable by chemical reaction in itself of producing gas at such a temperature and pressure and at such a speed as could cause damage to surroundings or which is designed to produce an effect by heat, light, sound, gas or smoke or a combination of these as a result of non-detonative self-sustaining exothermic chemical reactions;
+- “explosives” means explosive articles or explosive substances;
+- “explosives store” means a building, enclosed area or metal structure where explosives are stored under a licence granted[^key-dca1b1e33bc71971098c9a833d1b788e] under the Explosives Regulations 2014[^key-da01fab918762706b2c43a9691334f33];
+- “geotechnical assessment” has the meaning given to it in regulation 33(1);
+- “geotechnical specialist” means a chartered engineer or chartered geologist who has—
+  - (a) three or more years relevant experience in soil mechanics, rock mechanics or excavation engineering; and
+  - (b) is competent to perform a geotechnical analysis to determine the hazard and risk arising from the excavation or tip being assessed,
+- “hazard” in relation to an excavation or tip means having the potential to cause harm to the health and safety of any person;
+- “health and safety document” shall be construed in accordance with regulation 7;
+- “maintained” with respect to the quarry and its plant means maintained, where necessary to secure the health and safety of any person, in an efficient state, in efficient working order and in good repair, and “maintenance” shall be construed accordingly;
+- “management structure” shall be construed in accordance with regulation 8;
+- “mine” means any mine within the meaning of the 1954 Act;
+- “minerals” includes stone, slate, clay, gravel, sand and other natural deposits except peat;
+- “misfire” means an occurrence in relation to the firing of shots where—
+  - (a) testing before firing reveals broken continuity which cannot be rectified; or
+  - (b) a shot or any part of a shot fails to explode when an attempt is made to fire it;
+- “notifiable excavation” and “notifiable tip” shall be construed in accordance with regulation 34(3);
+- “operator” in relation to a quarry means the person in overall control of the working of the quarry;
+- “preparation for sale” includes the crushing, screening, washing, drying and bagging of minerals;
+- “public road” means (in England and Wales) a highway maintainable at public expense within the meaning of section 329 of the Highways Act 1980[^f00008] and (in Scotland) a public road within the meaning assigned to that term by section 151 of the Roads (Scotland) Act 1984[^f00009];
+- “quarry” has the meaning given to it by regulation 3;
+- “railway company” means any person authorised by an enactment to construct, work or carry on a railway and for the purposes of this definition the expression “enactment” includes a provision of an order or scheme made under or confirmed by an Act;
+- “safety fuse” means a flexible cord that contains an internal burning medium by which fire is conveyed at a continuous and uniform rate for the purpose of firing plain detonators or blackpowder, without initiating burning in a similar fuse that may be in lateral contact alongside;
+- “shot” means a single shot or a series of shots fired as part of one blast;
+- “shotfirer” means a person appointed pursuant to regulation 25(2)(a)(ii) to be responsible for shotfiring operations;
+- “shotfiring operations” includes—
+  - (a) checking to ensure that the blasting specification is still appropriate for the site conditions at the time the blasting is to take place;
+  - (b) mixing explosives;
+  - (c) priming a cartridge;
+  - (d) charging and stemming a shothole;
+  - (e) linking or connecting a round of shots;
+  - (f) withdrawal and sheltering of persons;
+  - (g) inspecting and testing a shotfiring circuit;
+  - (h) firing a shot; and
+  - (i) checking for misfires;
+- “tip” means an accumulation or deposit of any substance at a quarry (whether in a solid or liquid state or in solution or suspension) and includes, but is not limited to, overburden dumps, backfill, spoil heaps, stock piles and lagoons, and where any wall or other structure retains or confines a tip then it shall be deemed to form part of the tip;
+- “trainee shotfirer” means a person appointed pursuant to regulation 25(2)(a)(ii) to undergo training in shotfiring operations under the close personal supervision of a shotfirer;
+- “vehicle” means any mechanically propelled vehicle (including mechanically propelled plant);
+- “vehicle rules” means the rules referred to at regulation 14.
+
+(2) Unless the context otherwise requires, any reference in these Regulations to—
+
+- (a) a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered;
+- (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which that reference occurs; and
+- (c) any specified document shall operate as a reference to that document as revised or reissued from time to time.
+
+### 3. Meaning of quarry[^key-dff7deb753b3ec8e64b16ec9fdd0f87e]
+
+(1) In these Regulations “quarry” means—
+
+- (a) subject to paragraph (2), an excavation or system of excavations made for the purpose of, or in connection with, the extraction of minerals (whether in their natural state or in solution or suspension) or products of minerals, being neither a mine nor merely a well or borehole or a well and borehole combined;
+- (b) any reclamation site (and for this purpose “reclamation site” means a site where the extraction of minerals forms part of the process whereby that site is restored for agricultural, industrial or domestic use) from which minerals are being extracted for sale or further use; or
+- (c) any disused tip which is not at a mine being worked within the meaning of regulation 2(2) of the Mines Regulations 2014[^key-9c42c0b28f300bb9d56e74c927efcafd] from which minerals are being extracted for sale or further use.
+
+(2) Notwithstanding paragraph (1)(a), in these Regulations “quarry” does not include—
+
+- (a) an excavation or system of excavations made for the purpose of or in connection with the extraction of such minerals or products of minerals where the exclusive purpose of that extraction is to enable the minerals or products of minerals so extracted to be used for the purpose of carrying out any building, civil engineering or engineering construction work on the site at which the extraction has taken place;
+- (b) a public road; or
+- (c) a railway line which is exclusively under the control of—
+  - (i) a railway company, or
+  - (ii) a person who carries on an undertaking which consists of, or the main activity or one of the main activities of which consists of, the management of a network within the meaning of subsection (1) of section 83 of the Railways Act 1993[^f00011].
+
+(3) For the purposes of these Regulations, the following shall be deemed to form part of a quarry—
+
+- (a) so much of the surface (including buildings, structures and works thereon) surrounding or adjacent to the quarry as is occupied for the purpose of, or in connection with—
+  - (i) the working of the quarry,
+  - (ii) the consumption, use, storage or preparation for sale of the minerals or products thereof extracted from the quarry, or
+  - (iii) the removal from the quarry of any substance extracted from the quarry; and
+- (b) any tip—
+  - (i) for the time being used in conjunction or connection with the operation of the quarry, or
+  - (ii) subject to paragraph (4)(a), (whether or not it is for the time being in use) situated on premises occupied by the operator of the quarry;
+
+(4) For the purposes of these Regulations, where
+
+- (a) a tip is for the time being used in conjunction or connection with the operation of two or more quarries and is situated on premises occupied exclusively by the operator of one of those quarries, it shall be treated as forming part of that quarry unless—
+  - (i) the operator of one of the other quarries in conjunction or connection with which the tip is for the time being used has agreed that the tip should be treated as forming part of the quarry of which he is the operator, and
+  - (ii) notice to that effect has been given to the Executive by that operator;
+- (b) a tip is for the time being used in conjunction or connection with the operation of two or more quarries and is situated on premises occupied jointly by the operators of two or more of those quarries, the last-named operators shall, for the purposes of these Regulations, be treated as being in joint and several control of that tip and as being jointly and severally responsible therefore unless—
+  - (i) the said operators have agreed that one of their number should be treated as being in control of that tip and responsible therefore, and
+  - (ii) notice to that effect has been given to the Executive by the operator who is to be so treated;
+
+(5) Upon receipt of a notice given in accordance with paragraphs (4)(a)(ii) or (4)(b)(ii), the tip named in that notice shall be treated as forming part of the quarry specified in the said notice.
+
+### 4. Application[^key-1a891972b5ed462093cacb1a620f6208]
+
+(1) Subject to paragraph (2) and save where the contrary intention appears, these Regulations shall apply to all quarries where persons work.
+
+(2) These Regulations shall not apply to any—
+
+- (a) quarry at which there has been no extraction or preparation for sale of minerals within the previous 12 months;
+- (b) quarry in relation to which notice of abandonment or ceasing of operations has been given to the Executive in accordance with regulation 45(1), provided that the quarry is no longer being used for the extraction or preparation for sale of minerals; or
+- (c) part of a quarry which is being used exclusively by a person for a work activity unconnected with—
+  - (i) the extraction of minerals, or
+  - (ii) the preparation for sale of minerals,
+
+  provided that no work activity set out in paragraph (3) is being carried on at that quarry.
+
+(3) The work activities mentioned in paragraph (2) are any work carried on—
+
+- (a) with a view to abandoning that quarry; or
+- (b) for the purpose of preventing the flow from that quarry into an adjacent quarry of water or material that flows when wet.
+
+(4) These Regulations shall apply to a self-employed person as they apply to an employer and as if that self-employed person were both an employer and a person at work.
+
+## PART II — HEALTH AND SAFETY MANAGEMENT
+
+### 5. Duties of the person entitled to work the quarry[^key-d5f8f9320aa5915a4729ccdca6131701]
+
+(1) The person entitled to work a quarry shall not permit another person to be the operator of that quarry unless that person is suitable and has sufficient resources to be able to operate the quarry safely.
+
+(2) Where the person entitled to work a quarry permits another person to be the operator of that quarry, he shall make a written record of that permission which record shall be signed by the person so entitled and the operator and a copy of which shall be provided to the operator.
+
+(3) The said record and copy shall be kept by the person so entitled and the operator respectively for the duration of the said permission.
+
+(4) The person so entitled shall provide the operator with any relevant information available to him which might affect the health and safety of persons at work at the quarry.
+
+### 6. General duties of the operator[^key-d645fb71e25e9fe3db8ef087c4f452b8]
+
+(1) It shall be the duty of the operator of every quarry to take the necessary measures to ensure, so far as is reasonably practicable, that the quarry and its plant are designed, constructed, equipped, commissioned, operated and maintained in such a way that persons at work can perform the work assigned to them without endangering their own health and safety or the health and safety of others.
+
+(2) The operator shall co-ordinate the implementation of all measures relating to the health and safety of persons at work at the quarry.
+
+(3) Without prejudice to the generality of paragraph (1), where necessary to ensure the health and safety of any person the operator shall ensure that any building (whether temporary or permanent) or structure—
+
+- (a) is designed, constructed, erected, operated, supervised and maintained so as to withstand any reasonably foreseeable environmental forces; and
+- (b) has a construction and solidity which is appropriate to the nature of its use.
+
+(4) The operator shall ensure that in the event of the abandonment of or ceasing of operations at a quarry, the quarry is left, so far as is reasonably practicable, in a safe condition.
+
+### 7. The health and safety document[^key-713f3d87d5d49a6f7ce618249d553ad5]
+
+(1) The operator shall ensure that no work is carried out at the quarry unless a document (in these Regulations referred to as the “health and safety document”) has been prepared which—
+
+- (a) demonstrates that the risks to which persons at work at the quarry are exposed have been assessed in accordance with regulation 3 of the Management of Health and Safety at Work Regulations 1999[^key-117ae187cdcac505e3bf99e32589e33d];
+- (b) demonstrates that adequate measures, including measures concerning the design, use and maintenance of the quarry and of its plant, will be taken to safeguard the health and safety of persons—
+  - (i) at the quarry, and
+  - (ii) in the area immediately surrounding the quarry who are directly affected by the activities of the quarry;
+- (c) includes a statement of how the measures referred to in sub-paragraph (b) will be co-ordinated;
+- (d) gives details of the management structure and sets out the authority and duties of each person in the management structure; and
+- (e) records the following information—
+  - (i) the rules required by regulation 10(1)(a),
+  - (ii) the arrangements for the review of safety measures in accordance with regulation 11,
+  - (iii) details of the inspection, maintenance and testing schemes prepared in accordance with regulation 12,
+  - (iv) the rules controlling risks from vehicles required by regulation 14,
+  - (v) details of the permit to work system required by regulation 18,
+  - (vi) the shotfiring rules required by regulation 25(2),
+  - (vii) the excavations and tips rules required by regulation 31,
+  - (viii) the conclusions of any appraisal or assessment of an excavation or tip undertaken in accordance with regulation 32, and
+  - (ix) the arrangements for health surveillance required by regulation 43.
+
+(2) In addition to the matters referred to in paragraph (1), the health and safety document shall where appropriate also include—
+
+- (a) a plan detailing the equipment and measures required to protect persons at work at the quarry from the risk of explosion;
+- (b) where toxic gases are or may be present in the atmosphere at the quarry in such concentration that the atmosphere may be harmful to the health of persons at work, a plan detailing the protective equipment and measures required to protect persons at work at the quarry from the harmful atmosphere; and
+- (c) a diagram of the quarry indicating those areas to which these Regulations do not apply by virtue of regulation 4(2)(c).
+
+(3) The operator shall ensure that the health and safety document, including any information recorded therein pursuant to paragraph (1)(e), is—
+
+- (a) kept up to date; and
+- (b) made available to each employer of persons at work at the quarry and to all persons at work at the quarry.
+
+(4) The operator shall ensure—
+
+- (a) that the measures identified in the health and safety document are taken; and
+- (b) that any plans included in that document are followed.
+
+(5) Each person in the management structure shall carry out the duties assigned to him in the health and safety document so as to protect the health and safety of persons at work at the quarry.
+
+### 8. Management structure[^key-92f9ad748a2f5fb2ea39a240c5b0b94c]
+
+(1) With a view to ensuring the health, safety and welfare of those persons identified in regulation 7(1)(b)(i) and (ii), it shall be the duty of the operator to—
+
+- (a) establish a management structure which enables the quarry to be operated in accordance with the health and safety document;
+- (b) make a record of the management structure and the extent of the authority and duties of persons in the said structure;
+- (c) appoint a competent individual to take charge of the operation of the quarry at all times when persons are working in the quarry, provided that where the operator is an individual and is suitably qualified and competent he may appoint himself;
+- (d) ensure that when, for whatever reason, the individual appointed in accordance with paragraph (1)(c) is not readily available, a competent individual is nominated as a substitute to hold the authority and perform the duties of the first named individual; and
+- (e) ensure that a sufficient number of competent persons are appointed to manage the quarry safely.
+
+(2) Without prejudice to the generality of paragraph (1), the management structure shall be established to provide in particular that all persons working at the quarry come under the authority of a competent person in the management structure who shall have a duty to exercise such supervision of those persons as is appropriate to ensure the health and safety of those persons and of all others who may be affected by their activities.
+
+(3) The operator shall ensure that the management structure is reviewed regularly and revised where necessary and in particular if the quarry undergoes significant changes (including natural changes), extensions or conversions.
+
+(4) The operator shall ensure that each person who forms part of the management structure is provided with a copy of those parts of the health and safety document which describe his authority and duties.
+
+(5) The reference to a competent individual taking charge in paragraph (1)(c) is a reference to that individual taking charge subject to the overall control exercised by the operator.
+
+### 9. Training and competence[^key-5e0cecff334214c94c7c8b0ea808e74a]
+
+The operator shall ensure that no person undertakes any work at the quarry unless—
+
+- (a) that person is either competent to do that work or he does so under the instruction and supervision of some other person who is competent to give instruction in and to supervise the doing of that work for the purpose of training him; and
+- (b) a sufficient number of persons with the requisite competence to perform the tasks assigned to them are present.
+
+### 10. Instructions, rules and schemes[^key-3b1dad92da4031e961791a4e0eb0ae10]
+
+(1) It shall be the duty of the operator to—
+
+- (a) ensure that rules are in place at the quarry with a view to securing—
+  - (i) the health and safety of those persons identified in regulation 7(1)(b)(i) and (ii), and
+  - (ii) the safe use of equipment;
+- (b) ensure that copies of all current instructions, rules and schemes required to be made under these Regulations are kept at the quarry and are—
+  - (i) given to any person at work at the quarry upon whom they impose duties; and
+  - (ii) comprehensible to all persons at work at the quarry to whom they apply; and
+- (c) take all reasonable measures to ensure that each person at work at the quarry understands any rules required to be made under these Regulations which are relevant to that person.
+
+(2) The operator shall ensure, so far as is reasonably practicable, that any instructions, rules and schemes required to be made under these Regulations are followed, or as the case may be, complied with, by persons at work at the quarry.
+
+### 11. Review of health and safety measures[^key-b9e0fc4560b959adbfbe6464713fc69b]
+
+The operator shall ensure that—
+
+- (a) the measures taken to protect the health and safety of those persons identified in regulation 7(1)(b)(i) and (ii) are reviewed—
+  - (i) on a regular basis to ensure compliance with the relevant statutory provisions, and
+  - (ii) whenever the circumstances require it, including where there has been a significant change in the way that the quarry operates; and
+- (b) the regularity with which such reviews are to take place is specified in the health and safety document.
+
+## PART III — RISK CONTROL
+
+### 12. Inspection[^key-e900bd1465663ec467496f50912ddedb]
+
+(1) The operator shall—
+
+- (a) prepare and keep up to date a suitable written scheme for the systematic inspection, maintenance and, where appropriate, testing of—
+  - (i) all parts of the quarry,
+  - (ii) all buildings (whether temporary or permanent) at the quarry, and
+  - (iii) any plant at the quarry,
+
+  with a view to securing the health and safety of those persons identified in regulation 7(1)(b)(i) and (ii);
+- (b) ensure that, where appropriate, suitable written reports are made of inspections, maintenance and tests carried out in pursuance of sub-paragraph (a) and that each report records significant defects and the steps taken to remedy them and—
+  - (i) is signed by the person making it, and
+  - (ii) countersigned by an appropriate person in the management structure; and
+- (c) ensure that a sufficient number of competent persons are appointed to undertake the activities referred to in sub-paragraphs (a) and (b).
+
+(2) Without prejudice to the generality of paragraphs (1)(a) and (b), the said written scheme shall specify that faces above—
+
+- (a) every place of work at the quarry; and
+- (b) every road used by persons at work at the quarry for the purpose of their work or of getting to or from their place of work,
+
+are inspected for loose ground or loose rocks before any work at the quarry commences or re-commences.
+
+(3) In this regulation, “inspection” means such visual or more rigorous inspection by a competent person as is appropriate for the purpose.
+
+### 13. Benches and haul roads[^key-c6393ef927e4638756ec765fa27fd685]
+
+The operator shall ensure, so far as is reasonably practicable, that—
+
+- (a) benches and haul roads are designed, constructed and maintained so as to allow vehicles and plant to be used and moved upon them safely; and
+- (b) where necessary, effective precautions are taken, by the installation of barriers or otherwise, to prevent vehicles or plant accidentally leaving any bench or haul road.
+
+### 14. Rules controlling risk from vehicles[^key-0556fa038c9d2c5b80e442963cb9fa0b]
+
+The operator shall make suitable and sufficient rules (known in these Regulations as the “vehicles rules”) which shall lay down in writing measures designed to control the risks to persons at the quarry arising from the use of vehicles at the quarry.
+
+### 15. Escape and rescue facilities at the quarry[^key-53d3d9f6ebf53ccb563ee2baa0e2ee6e]
+
+The operator shall ensure that—
+
+- (a) adequate means of escape and rescue are provided and maintained so as to permit persons in the quarry to leave the quarry promptly and safely in the event of danger;
+- (b) adequate means of communication and warning are provided to enable assistance, escape and rescue operations to be launched at once when required;
+- (c) written instructions concerning the use of emergency equipment and the action to be taken in the event of an emergency at or near the quarry are prepared;
+- (d) persons at work at the quarry are trained in appropriate action to be taken in the event of an emergency; and
+- (e) rescue equipment is provided at readily accessible, appropriately sited and clearly sign-posted places and kept ready for use.
+
+### 16. Barriers[^key-bf06ee92c5ce9e0e409b6bb53e81d44a]
+
+The operator shall ensure that, where appropriate, a barrier suitable for the purpose of discouraging trespass is placed around the boundary of the quarry and is properly maintained.
+
+## PART IV — ADDITIONAL HEALTH AND SAFETY REQUIREMENTS
+
+### 17. Compliance with Part IV[^key-ee82152eb73d1188b27c1b437fa520e0]
+
+The operator shall ensure that regulations 18 to 23 are in each case complied with as appropriate having regard to the features of the quarry, the nature and circumstances of the work carried on there or to a specific risk.
+
+### 18. Permits to work[^key-31995e22aff2b7feb5d8e1cba13fb592]
+
+(1) The operator shall ensure that a system is in place so as to ensure that any work involving—
+
+- (a) the carrying out of hazardous operations; or
+- (b) usually straightforward operations which may interact with other activities to cause serious hazards,
+
+is not carried out unless a permit to carry out that work has been issued.
+
+(2) Such permits to work shall specify—
+
+- (a) the conditions to be fulfilled; and
+- (b) the precautions to be taken before, during and after the operation concerned,
+
+in order to ensure, so far as is reasonably practicable, the health and safety of any person affected by that operation.
+
+(3) Such permits to work shall be—
+
+- (a) issued, signed and dated by a suitable person in the management structure; and then
+- (b) accepted, signed and dated by a further suitable person.
+
+### 19. Safety drills[^key-f433f8dc991374977cad7f64ab587607]
+
+(1) The operator shall ensure that safety drills are held at regular intervals for persons at work at the quarry.
+
+(2) Such safety drills shall be for the following purposes—
+
+- (a) to train the persons who work at the quarry in the appropriate actions to be taken in an emergency including, where appropriate, the correct use, handling or operation of emergency equipment; and
+- (b) to train and check the skills of such persons to whom specific duties involving the use, handling or operation of such equipment have been assigned in the event of an emergency.
+
+### 20. Fire and explosion hazards[^key-83db88755f3d33b5943d1b1423c85371]
+
+(1) The operator shall ensure that no person at work at the quarry uses a naked flame or carries out any work which could give rise to a risk of an unintended explosion or fire unless sufficient measures to prevent such an explosion or fire are taken.
+
+(2) No person shall smoke in any part of a quarry where there is a risk of fire or explosion.
+
+### 21. Control of harmful and explosive atmospheres[^key-6cc4fdd9117d067d54fbbcf2da7e75d1]
+
+(1) It shall be the duty of the operator to ensure that—
+
+- (a) steps are taken in order to determine whether potentially explosive substances are present in the atmosphere and, where such substances are present, to measure the concentration of such substances in the atmosphere;
+- (b) automatic devices designed to—
+  - (i) monitor continuously the concentration of explosive or flammable gases in the atmosphere,
+  - (ii) trigger an alarm if such concentration reaches a dangerous level, and
+  - (iii) cut off power to any plant which, because of the concentration of such gases in the atmosphere, gives rise to a risk to the health and safety of any person,
+
+  are provided;
+- (c) where devices are provided in accordance with paragraph (b)(i), a record of the levels of concentration of such gases in the atmosphere shall be made at such intervals as are specified in the health and safety document;
+- (d) at any place in the quarry where there is a risk of the occurrence or accumulation of an explosive atmosphere, all necessary measures are taken with a view to—
+  - (i) preventing such occurrence and accumulation, or, where this is not practicable,
+  - (ii) preventing the ignition of such an atmosphere; and
+- (e) at any place in the quarry where there is a risk of the occurrence or accumulation of a substance harmful to health in the atmosphere, appropriate measures are taken in order to—
+  - (i) prevent such occurrence and accumulation, or, where this is not practicable,
+  - (ii) extract or disperse that harmful substance,
+
+  in such a way that persons are not placed at risk.
+
+(2) Without prejudice to the requirements of the Personal Protective Equipment Regulations 1992[^f00012], the operator shall ensure that whenever persons at work are present at any place in the quarry where they may be exposed to a substance harmful to health in the atmosphere—
+
+- (a) appropriate and sufficient breathing and resuscitation equipment is available; and
+- (b) a sufficient number of persons trained in the use of such equipment is present.
+
+(3) The operator shall ensure that the equipment referred to at paragraph (2)(a) is suitably stored and maintained.
+
+### 22. Danger areas[^key-96028a25e409632c3a20340532674105]
+
+The operator shall ensure that—
+
+- (a) any danger areas in the quarry are clearly marked;
+- (b) equipment or barriers designed to prevent inadvertent entry by any unauthorised person are installed at any danger area in the quarry in which, because of the nature of the work being carried out there or for any other reason there is—
+  - (i) risk of a person falling a distance likely to cause personal injury,
+  - (ii) risk of a person being struck by a falling object likely to cause personal injury, or
+  - (iii) a significant risk to the health and safety of persons; and
+- (c) where any person at work is authorised to enter a danger area, appropriate measures are taken to protect his health and safety.
+
+### 23. Lighting[^key-c6c36982b7ef1810d332428f4e6c412e]
+
+The operator shall ensure that every part of a quarry in which a person is likely to be exposed to risks in the event of the failure of artificial lighting is provided with emergency lighting of adequate intensity and where that is impractical persons at work in that place shall be provided with a personal lamp.
+
+## PART V — EXPLOSIVES
+
+### 24. Application of this Part[^key-ffdf3134c16ff42f66ba650600692138]
+
+This Part shall apply to the storage, transport and use of explosives at a quarry.
+
+### 25. Operator’s duties[^key-ff48b018101cfd4b210a00146cc9bdea]
+
+(1) The operator shall—
+
+- (a) ensure, so far as is reasonably practicable, that all explosives are stored, transported and used safely and securely;
+- (b) appoint one or more competent individuals to organise and supervise all work at the quarry involving the use of explosives (“the Explosives Supervisor”); and
+- (c) ensure that at no time is there more than one person acting as the Explosives Supervisor at the quarry.
+
+(2) It shall be the duty of the operator to ensure that—
+
+- (a) suitable and sufficient rules are made which lay down in writing procedures for—
+  - (i) shotfiring operations at the quarry,
+  - (ii) appointing shotfirers, trainee shotfirers and storekeepers,
+  - (iii) authorising other persons who will be involved with the storage, transport or use of explosives,
+  - (iv) dealing with misfires, and
+  - (v) ensuring, so far as is reasonably practicable, that such rules are complied with;
+- (b) an adequate written specification (whether produced by him or not) is prepared for each shotfiring operation at the quarry to ensure, so far as is reasonably practicable, that when such firing occurs it will not give rise to danger; and
+- (c) a copy of the specification referred to in sub-paragraph (b) is given to any person upon whom it imposes duties.
+
+(3) The operator shall ensure that operations involving the storage, transport or use of explosives are carried out by—
+
+- (a) a duly authorised and competent person; or
+- (b) a trainee under the close supervision of a duly authorised and competent person.
+
+(4) The operator shall ensure that—
+
+- (a) such facilities and equipment as are necessary to enable shotfiring operations to be carried out safely are provided;
+- (b) any vehicle which is provided for use in relation to shotfiring operations is so marked as to be readily identifiable from a distance;
+- (c) detonators are stored in separate containers from other explosives; and
+- (d) explosives are kept at all times either in a locked explosives store or under the constant supervision of a suitable person.
+
+(5) The operator shall ensure, so far as is reasonably practicable, that each shotfiring operation is carried out safely and in accordance with the rules required to be made in pursuance of paragraph (2)(a) and any specification required to be prepared in pursuance of paragraph (2)(b).
+
+### 26. Supervision of shotfiring operations and trainee shotfirers and records of appointment[^key-a997d5a4678b323046b8a06d7ebcd09d]
+
+(1) The operator shall take all reasonable steps to ensure that—
+
+- (a) a trainee shotfirer at the quarry does not fire shots and is not required to fire shots, except when he is under the close personal supervision of a shotfirer, until the operator is satisfied that he has completed a suitable period of training and has appropriate practical experience; and
+- (b) all shotfiring operations are carried out under the close personal supervision of the shotfirer.
+
+(2) The operator shall ensure that a record of the appointment at the quarry of any shotfirer or trainee shotfirer is kept at a suitable place until three years after that shotfirer’s or, as the case may be, trainee shotfirer’s employment at the quarry ends.
+
+### 27. Shotfirer’s duties[^key-a4c85a3b6818c18112edc65b64f624b0]
+
+Before a shot is fired, a shotfirer shall—
+
+- (a) check the shotfiring system or circuit to ensure that it has been connected correctly;
+- (b) where electrical detonators are used, ensure that they have been correctly connected to the shotfiring system or circuit and that the shotfiring system or circuit is tested with an instrument suitable for the purpose from a position of safety;
+- (c) where appropriate, ensure that the electrical integrity of the shotfiring system or circuit is such as to make a misfire unlikely; and
+- (d) ensure that the shot is fired from a safe place.
+
+### 28. Misfires[^key-c081d8fe9ce974f5071069c28bae526f]
+
+In the event of a misfire the operator shall (if this is not the same person) consult the individual appointed under regulation 8(1)(c) and shall ensure, so far as is reasonably practicable, that—
+
+- (a) apart from himself, no person other than the Explosives Supervisor, shotfirer, trainee shotfirer or any other person authorised by him enters the danger area—
+  - (i) where the shot was fired by means of safety fuse, until a period of 30 minutes has elapsed since the misfire, or
+  - (ii) where the shot was fired by other means, until a period of 5 minutes has elapsed since the misfire and any shotfiring apparatus has been disconnected from the shot;
+- (b) appropriate steps are taken to determine the cause of and to deal with the misfire; and
+- (c) a suitable record is kept of the misfire.
+
+### 29. Prohibited activities[^key-c6e0a07a0e293beae13fdcea4be749a0]
+
+(1) No person (other than a person engaged in the transport of explosives to or from the quarry, a shotfirer, trainee shotfirer, a person authorised to handle explosives at a quarry, or a person appointed to be in charge of the explosives store) shall handle explosives at a quarry.
+
+(2) No person shall bring any substance or article (other than explosives) likely to cause an unintended explosion or fire within 10 metres of any explosives or (except for the purpose of lighting igniter cord or safety fuse) take any naked flame within 10 metres of any explosives.
+
+(3) No person shall forcibly remove any detonator lead, safety fuse or other system for initiating shots from a shothole after the shothole has been charged and primed.
+
+(4) No person shall charge or fire a shot—
+
+- (a) unless there is sufficient visibility to ensure that work preparatory to shotfiring, the shotfiring operation and any site inspection after the shot is fired can be carried out safely;
+- (b) in a shothole which has previously been fired, unless he is dealing with a misfire in accordance with action taken in pursuance of regulation 28(b); or
+- (c) in any tunnel or other excavation (not being merely a shothole) in the face or side of the quarry for the purpose of extracting minerals or products of minerals.
+
+(5) No person shall fire a shot—
+
+- (a) unless he is a shotfirer or trainee shotfirer; and
+- (b) other than by means of a suitable exploder or suitable safety fuse.
+
+(6) No person shall cap a safety fuse with a detonator unless he is using equipment designed for the purpose and he is in a suitably sheltered place designated by the operator for the purpose.
+
+## PART VI — EXCAVATIONS AND TIPS
+
+### 30. General duty to ensure safety of excavations and tips[^key-c7199e3e2731a54cd2d203c379bb2b7c]
+
+The operator shall ensure that excavations and tips are designed, constructed, operated and maintained so as to ensure that—
+
+- (a) instability; or
+- (b) movement,
+
+which is likely to give rise to a risk to the health and safety of any person is avoided.
+
+### 31. Excavations and tips rules[^key-8bfb7028b46450524fbe2d17c1650979]
+
+The operator shall ensure that suitable and sufficient rules (known in these Regulations as the “excavations and tips rules”) are made to ensure the safe construction and operation of excavations and tips and such rules shall in particular specify the following matters—
+
+- (a) the manner in which such activities are to be carried out;
+- (b) the nature and extent of supervision of such activities; and
+- (c) the precautions to be taken during such activities to ensure the health and safety of any person and the safety and stability of the excavation or tip.
+
+### 32. Appraisal of excavations and tips[^key-4a91d053ef8ce7178c5fd31b691755c8][^key-2e2029edf69bc7a2a57a594f4b25ccfe][^key-85428d66caca7828864a1c67ca6becdc][^key-19a5b832d501b0f90b3b7601e4ed9795]
+
+(1)[^key-4a91d053ef8ce7178c5fd31b691755c8][^key-2e2029edf69bc7a2a57a594f4b25ccfe] The operator shall ensure that a suitable and sufficient appraisal of all proposed or existing excavations or tips at the quarry is undertaken by a competent person in order to determine whether any such excavation or tip is a significant hazard.
+
+(2)[^key-4a91d053ef8ce7178c5fd31b691755c8][^key-2e2029edf69bc7a2a57a594f4b25ccfe] The operator shall ensure that—
+
+- (a) any significant findings made during an appraisal, any conclusions reached in accordance with paragraph (1) and the reasons for those conclusions are recorded by the competent person undertaking the appraisal;
+- (b) the said competent person signs and dates any such record; and
+- (c) the record made in accordance with sub-paragraph (a) is made available to each employer of persons at work at the quarry and to all persons at work at the quarry.
+
+(3)[^key-4a91d053ef8ce7178c5fd31b691755c8][^key-2e2029edf69bc7a2a57a594f4b25ccfe] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip presents no significant hazard, the operator shall ensure that a competent person carries out further such appraisals—
+
+- (a) at appropriate intervals;
+- (b) whenever there is any reason to suspect that there has been or will be a significant change to—
+  - (i) the matters to which the appraisal relates, or
+  - (ii) any neighbouring land which may be affected by movement by or instability of the excavation or tip to which the appraisal relates; and
+- (c) whenever there is any reason to doubt the validity of the conclusion of the current appraisal.
+
+(4)[^key-85428d66caca7828864a1c67ca6becdc][^key-19a5b832d501b0f90b3b7601e4ed9795] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip represents a significant hazard, the operator shall ensure that a geotechnical assessment is carried out in accordance with the requirements of regulation 33 as soon as is reasonably practicable.
+
+### 33. Meaning of “geotechnical assessment” and operator’s duties in relation to geotechnical assessments[^key-29ebb8b91bbbb82b4af51f36a8286074]
+
+(1) For the purposes of these Regulations, a “geotechnical assessment” means an assessment carried out by a geotechnical specialist identifying and assessing all factors liable to affect the stability and safety of a proposed or existing excavation or tip and shall include—
+
+- (a) preparation by or under the supervision of the said geotechnical specialist or, as appropriate, consideration by the said geotechnical specialist of the documents and particulars specified at Schedule 1;
+- (b) the conclusion of the said geotechnical specialist as to the safety and stability of the proposed or existing excavation or tip being assessed, including his conclusions as to whether the said excavation or tip represents a significant hazard by way of instability or movement;
+- (c) where appropriate, the conclusion of the said geotechnical specialist as to whether any remedial work is required in relation to the excavation or tip being assessed and the date by which such work should be completed;
+- (d) where appropriate, the conclusion of the said geotechnical specialist as to the date by which the next geotechnical assessment should take place; and
+- (e) consideration by the said geotechnical specialist of the excavations and tips rules.
+
+(2) The operator shall ensure that—
+
+- (a) any significant findings made during a geotechnical assessment and any conclusions reached in accordance with paragraphs (1)(b), (c) or (d) and the reasons for those conclusions are recorded by the geotechnical specialist undertaking the assessment; and
+- (b) the said geotechnical specialist signs and dates any such record and records his professional qualifications thereon.
+
+(3) The operator shall ensure that any information available to him which may be relevant for the purposes of a geotechnical assessment is made available to the geotechnical specialist undertaking that assessment.
+
+(4) The operator shall ensure that any remedial works identified during the geotechnical assessment in accordance with paragraph (1)(c) are completed[^key-85457ad04a5b6f9b9a75f94746e8aeb6] by the date specified.
+
+### 34. Operator’s duties in relation to excavations and tips which are a significant hazard (“notifiable” excavations and tips)[^key-1b7990c4e4a1cb6849e2154d9b1a1f70]
+
+(1) Where the conclusion recorded by a geotechnical specialist in accordance with regulation 33(1)(b) following a geotechnical assessment of a proposed or existing excavation or tip is that the excavation or tip represents a significant hazard by way of instability or movement, the operator shall ensure, subject to regulation 33(1)(d), that the said excavation or tip is subject to a further geotechnical assessment at least every two years.
+
+(2) Without prejudice to paragraph (1), where, in relation to an excavation or tip which falls within paragraph (1) there is any reason—
+
+- (a) to suspect that there has been or will be a significant change to—
+  - (i) the matters to which the geotechnical assessment relates, or
+  - (ii) any neighbouring land which may be affected by movement by or instability of the excavation or tip; or
+- (b) to doubt the validity of the conclusion of the current assessment,
+
+the operator shall ensure that a further geotechnical assessment is undertaken as soon as is reasonably practicable.
+
+(3) For the purposes of these Regulations, excavations and tips falling within paragraph (1) shall be known as “notifiable excavations” and “notifiable tips” respectively.
+
+### 35. Operator’s duties in relation to excavations and tips which are not a significant hazard[^key-3bab1afe7ee025a28ae9c80697d2118e]
+
+Where the conclusion reached by a geotechnical specialist in accordance with regulation 33(1)(b) following a geotechnical assessment of a proposed or existing excavation or tip is that it presents no significant hazard, the operator shall ensure that—
+
+- (a) the said geotechnical specialist specifies the frequency with which appraisals pursuant to regulation 32 are to be conducted in order to ensure the continued safety and stability of the excavation or tip; and
+- (b) a record of that specification is made.
+
+### 36. Duty to keep record of substances tipped[^key-27c7354112bc10063aeb341407366ed4]
+
+The operator shall ensure that sufficient records are kept of the nature, quantity and location of all substances accumulated or deposited at a notifiable tip to enable an accurate assessment of the stability of that tip to be made.
+
+### 37. Notification of excavations and tips[^key-c25adcd247609a7b329448ba4c108f88]
+
+(1) Subject to paragraph (2), the operator shall in relation to any—
+
+- (a) proposed excavation or tip which it is reasonable to expect will be a significant hazard;
+- (b) notifiable excavation; or
+- (c) notifiable tip other than a notifiable tip which was—
+  - (i) a classified tip within the meaning of regulation 2(1) of the 1971 Regulations, and
+  - (ii) in respect of which notice has been given in accordance with regulation 8(1) of those Regulations,
+
+  give not less than 30 days notice (or such shorter period as the Executive may permit) to the Executive of his intention to commence or, in relation to excavations and tips falling within sub-paragraphs (b) and (c), continue, operations.
+
+(2) Paragraphs (1)(b) and (1)(c) shall not apply to an excavation or tip in relation to which notice of intention to commence operations has previously been given.
+
+(3) The 30 days notice referred to in paragraph (1) shall be given—
+
+- (a) in the case of excavations and tips falling within paragraph (1)(a), before the commencement of operations; and
+- (b) in the case of excavations and tips falling within paragraphs (1)(b) and (1)(c), as soon as possible after the date on which the operator is notified of the geotechnical specialist’s conclusions, reached in accordance with regulation 33(1)(b).
+
+(4) The following information shall be included in any notice given by the operator in accordance with paragraph (1)—
+
+- (a) a brief description of the excavation or tip, including its location, size, and the material to be excavated or tipped; and
+- (b) in relation to excavations and tips falling within paragraphs (1)(b) and (1)(c), the conclusions reached by the geotechnical specialist carrying out the geotechnical assessment in accordance with paragraphs (1)(b), (c) and (d) of regulation 33.
+
+(5) Where the conclusion reached by a geotechnical specialist during the geotechnical assessment of an excavation or tip which has, in accordance with regulation 34(1), been subject to a geotechnical assessment at least every two years is that the excavation or tip no longer presents a significant hazard by way of instability or movement, the operator shall give notice of that conclusion and the reasons for that conclusion to the Executive within two months of the geotechnical assessment.
+
+### 38. Transitional provisions[^key-ab83ff072279f1e8d5a6ebe1457d4ffa]
+
+Where, at the coming into force of these Regulations, a report has been obtained in accordance with regulations 9(2)(a), 12(1) or 18(1) of the 1971 Regulations and is less than two years old, that report shall be treated as a geotechnical assessment for the purpose of regulation 32(4) of these Regulations and shall remain valid for a maximum of two years from the date when it was first made.
+
+## PART VII — DUTIES OF EMPLOYERS AND PARTICIPATION AND DUTIES OF PERSONS AT WORK
+
+### 39. Co-operation[^key-5c8a758fc412de93379728010385b8f6]
+
+Every employer of persons at work at a quarry and every person at work at the quarry shall co-operate with the operator to the extent requisite to enable the operator to comply with the relevant statutory provisions.
+
+### 40. Participation of persons at work[^key-0df885a54a58993e5370cde528852d65]
+
+(1) It shall be the duty of the operator to make and maintain arrangements which will enable him and those persons who regularly work at the quarry to co-operate effectively in promoting and developing measures to ensure the health, safety and welfare of persons who regularly work at the quarry and in checking the effectiveness of such measures.
+
+(2) For the purposes described in paragraph (1), a committee of persons with suitable practical experience of quarrying operations may be appointed for the quarry—
+
+- (a) in a case where there is an association or body representative of a majority of the total number of persons working at the quarry, by that association or body; or
+- (b) jointly by associations or bodies which are together representative of such a majority.
+
+(3) Where an injury or dangerous occurrence which is notifiable under the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013[^key-f993fe44871054351110a8a0f949dac1] occurs at a quarry, the operator shall permit two members of the committee appointed under paragraph (2) to inspect together the place where the injury or dangerous occurrence occurred and, so far as is necessary for ascertaining its cause, any other part of the quarry and any plant, and to take samples of the atmosphere, dust or water at that place.
+
+(4) The operator of a quarry shall permit sufficient inspections to be carried out by members of the committee appointed under paragraph (2) to enable every part of the quarry and any plant and equipment at the quarry to be inspected once a month by two of those committee members together.
+
+(5) The operator of a quarry shall permit members of a committee appointed under paragraph (2) who are carrying out an inspection under paragraph (4) to—
+
+- (a) scrutinise any documents which are kept at the quarry in compliance with the relevant statutory provisions;
+- (b) review the risk assessment referred to in regulation 7(1)(a) and the measures referred to in regulation 7(1)(b) and to suggest improvements thereto; and
+- (c) be accompanied by their advisers.
+
+(6) The operator of a quarry shall ensure that any improvements suggested under paragraph (5)(b) are considered and, if they are not accepted, written reasons for this are given to the members of the committee who made the inspection.
+
+(7) The operator of a quarry and any person nominated by him shall be entitled to accompany the two committee members appointed under paragraph (2) who are carrying out an inspection under paragraph (4) during that inspection.
+
+(8) Where any two committee members appointed under paragraph (2) have carried out an inspection under paragraph (4), they may make a written report of the matters ascertained as a result of the inspection and, if such a report is made, the two committee members and the operator or any person nominated by him shall sign the report.
+
+(9) Where a written report is made, a copy of the report signed in accordance with paragraph (8) shall be posted in a conspicuous position at the quarry and kept posted there for 28 days.
+
+### 41. Duty of employers of employees at work at a quarry[^key-54d196f5e1a54aeb515a103b8e1b2c26]
+
+(1) No employer shall employ any person to work at a quarry unless there is an operator.
+
+(2) Without prejudice to regulation 6, where the employees of more than one employer are at work at a quarry, it shall be the duty of each employer to comply with those relevant statutory provisions which apply to the quarry.
+
+### 42. Duty of persons at work at a quarry[^key-715ada7b220ccdf884c65afacc8c1cbc]
+
+Every person at work at a quarry shall—
+
+- (a) to the extent of his responsibility and authority, carry out the duties allocated to him with reasonable care for the health and safety of himself and other persons who may be affected by his acts or omissions; and
+- (b) comply with the rules put in place at the quarry by the operator in accordance with regulation 10.
+
+### 43. Health surveillance[^key-36843f180a1f0c880cf254d3ae72db1b]
+
+An employer of a person at work at a quarry shall ensure, where health surveillance under regulation 6 of the 1999 Regulations[^key-a590b00b9c6366b2d0dd85b16e7e686e] is required in respect of any work to which that person is to be assigned, that the health surveillance commences before that person begins to carry out such work.
+
+## PART VIII — MISCELLANEOUS AND GENERAL
+
+### 44. Record keeping[^key-c418b768431b6749af18a1f480f4580b]
+
+(1) It shall be the duty of the operator to ensure that—
+
+- (a) every report or record which is required to be made under these Regulations is in a suitable form and is kept at the quarry or at some other suitable place for at least three years from the date on which the report or record was made unless the provision concerned expressly imposes some other requirement; and
+- (b) a copy of the written statement of duties of all persons appointed at the quarry under these Regulations is kept at the quarry or at some other suitable place for at least 12 months after the date on which the appointment ceased to have effect.
+
+(2) Paragraph (1)(a) shall apply to copies of information notified to the Executive under these Regulations but shall not apply to the record made in accordance with regulation 5(2) by the person entitled to work the quarry.
+
+### 45. Notification of quarrying operations[^key-96ec4fac1dc2c7caa2ee17bfd41913d9]
+
+(1) It shall be the duty of the operator to ensure that within 14 days of any of the events specified at paragraphs (a) to (c) of paragraph (2), written notice thereof is given to the Executive.
+
+(2) The events referred to at paragraph (1) are—
+
+- (a) the beginning of operations for the purpose of opening a quarry;
+- (b) the abandonment of or ceasing of operations at a quarry; and
+- (c) the appointment or change of the operator of a quarry.
+
+(3) Without prejudice to the duty to give notice under paragraph (1) in respect of an event specified at paragraph (2)(b), the operator of every quarry of coal shall, within three months of the date on which the quarry of coal is abandoned, send to the Executive, or a body approved by it, an accurate plan of that quarry.
+
+(4) Where, in pursuance of paragraph (3)[^key-a85eeba3d2d28673cdac82166b37caf9], a plan has been sent to the Executive or a body approved by it, that plan shall be retained by the Executive or that body in accordance with arrangements approved by the Executive.
+
+### 46. Exemptions[^key-64da8dbb8db35f5f4c9fb08a4ebb847c]
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any quarry, part of a quarry or class of quarries, any person or class of persons, any plant or class of plant or any operation or class of operations from all or any of the prohibitions and requirements of these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by a certificate in writing.
+
+(2) The Executive shall not grant any such exemption unless, having regard to the circumstances of the case and in particular to—
+
+- (a) the conditions, if any, it proposes to attach to the exemption; and
+- (b) any other requirements imposed by or under any enactment which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+
+## PART IX — REPEALS, MODIFICATIONS AND REVOCATIONS
+
+### 47. Repeals and modifications[^key-3e999290d6ce9a0676723f9216ea6a36]
+
+(1) The provisions of the 1954 Act specified in column 1 of Part 1 of Schedule 2 are repealed to the extent specified in the corresponding entry in column 3 of that Part.
+
+(2) The provisions of the 1954 Act specified in column 1 of Part II of Schedule 2 shall not apply to quarries and accordingly those provisions shall be modified to the extent specified in the corresponding entry in column 2 of that Part.
+
+(3) The provision of the Factories Act 1961[^f00014] specified in column 1 of Schedule 3 shall be modified to the extent specified in the corresponding entry in column 2 of that Schedule.
+
+(4) The provisions of the 1969 Act specified in column 1 of Part I of Schedule 4 shall be modified to the extent specified in the corresponding entry in column 2 of that Part.
+
+(5) The provisions of the 1969 Act specified in column 1 of Part II of Schedule 4 shall not apply to quarries and accordingly those provisions shall be modified to the extent specified in column 2 of that Part.
+
+### 48. Revocations and modifications to instruments[^key-efdd736ddf921fa7bebb15bd42c95b6b]
+
+(1) The instruments specified in column 1 of Part I of Schedule 5 shall be revoked to the extent specified in the corresponding entry in column 3 of that Part.
+
+(2) The provisions of the instruments specified in column 1 of Part II of Schedule 5 shall be modified to the extent specified in the corresponding entry in column 2 of that Part.
+
+Signed by authority of the Secretary of State
+
+Alan Meale
+
+Parliamentary Under Secretary of State,
+
+Department of Environment, Transport and the Regions
+
+12th July 1999
+
+## SCHEDULE 1 — CONTENT OF GEOTECHNICAL ASSESSMENTS
+
+Regulation 33(1)(a)
+
+### 1. Site survey[^key-3642c1351cf4596c5de7b8d35d10b88f]
+
+An accurate plan which should be prepared on a scale not less detailed than 1 2500 showing—
+
+- (a) the boundaries of the quarry or premises upon which the excavation or tip or proposed excavation or tip is or is to be situated;
+- (b) the site of the excavation or tip or proposed excavation or tip;
+- (c) any contiguous land or structures which might be affected by the excavation or tip or proposed excavation or tip; and
+- (d) all mine workings (whether abandoned or not), buried quarry workings, known cave systems, active or former landslips, springs, artesian wells, watercourses and other natural or man-made features including tunnel pipes or culverts which might affect the safety of the excavation or tip or proposed excavation or tip or which might be relevant for the purpose of determining whether excavation or tipping operations can be carried out safely,
+
+which plan shall be contoured to Ordnance Datum Newlyn at a vertical interval not greater than 5 metres and orientated to and correlated with the Ordnance Survey National Grid and marked with squares corresponding to the 100 metre squares shown on Ordnance Survey sheets on the scale of 1:2500.
+
+### 2. Site investigation[^key-933a1939eb9495ac4831afbb9e547def]
+
+A record of all relevant site investigation information including surveys, tests, boreholes and groundwater measurements made for the purpose of the geotechnical assessment together with the results of any testing including the strength of materials within and beneath the tip or within the excavated slope. The record shall include any known historical information relevant to the site investigation.
+
+### 3. Cross-sections based on site investigation[^key-1f97bd3897d70538c23dd8b1de4f6494]
+
+Sufficient accurate cross-sections on a scale not less detailed than 1:1250 of the site of the excavation or tip or proposed excavation or tip showing the existing ground surface and all relevant superficial materials and bedrock underlying the said site and—
+
+- (a) any variation in the thickness, level or character of the superficial deposits and bedrock materials based on the site investigation; and
+- (b) the position of any surface whether natural or manmade which may affect the safety of the excavation or tip or proposed excavation or tip.
+
+### 4. Plans based on site investigation[^key-ba0e3017f307385e674e5431ba903cac]
+
+Plans showing the position of all boreholes, wells and trial pits used in the site investigation and the location and levels of all materials and surfaces which may affect the safety of the excavation or tip or proposed excavation or tip.
+
+### 5. Assumptions made before analysis[^key-1ad14e7cb43d9a8fb0f9321eff87c993]
+
+A record of any assumptions relevant to the assessment of ground conditions relating to the safety of the excavation or tip made by the geotechnical specialist including a record of any relevant information which was not available when undertaking the assessment.
+
+### 6. Findings of analysis[^key-6d86d0edec8f0b4b5970c5099321ec3d]
+
+A record of the calculations carried out in order to determine the safety of the excavation or tip, including any variables or parameters used in those calculations and the reasons for using them and the findings of those calculations expressed as the factor of safety or the probability of failure or other recognised basis of assessing stability.
+
+### 7. Design coming out of analysis[^key-16c0870fbea24afbfb5f8cf00cbbd730]
+
+An accurate plan on a scale not less detailed than 1:2500 recording—
+
+- (a) in relation to tips or proposed tips, the design of the tip, including the area of land covered or to be covered, the gradients of that land, the designed contours at vertical intervals of not more than 2 metres, the side slopes and boundaries of the tip and the designed position and nature of construction of any wall or other structure retaining or confining the tip; and
+- (b) in relation to excavations or proposed excavations, the design of the excavation, including the height or proposed height of the slope, the position and width of any benches and representative contours of the excavation at vertical intervals of not more than 5 metres.
+
+### 8. Requirements during and after construction[^key-30f363ef751c4b6293698a1a797483e1]
+
+A record of the nature and extent of inspection, supervision and safety measures necessary to ensure the safety of the excavation or tip and a specification of necessary engineering works and safety measures. A record of the action to be taken regarding defects specified in the report.
+
+## SCHEDULE 2 — REPEALS AND MODIFICATIONS OF THE 1954 ACT
+
+Regulation 47(1) and (2)
+
+### PART I — REPEALS[^key-6c3e293dd0a2483fcf1432765922e659]
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th>Provision</th><th>Description</th><th>Extent of repeal</th></tr>
+</thead>
+<tbody>
+<tr><td>Section 1</td><td>General duties of quarry owners</td><td>The whole section</td></tr>
+<tr><td>Section 98</td><td>Appointment of quarry managers</td><td>The whole section</td></tr>
+<tr><td>Section 99</td><td>General powers and duties of quarry managers</td><td>The whole section</td></tr>
+<tr><td>Section 100</td><td>Power of quarry owner to exclude matters from manager’s control</td><td>The whole section</td></tr>
+<tr><td>Section 101</td><td>Rights of quarry manager with respect to instructions given by or on behalf of owner</td><td>The whole section</td></tr>
+<tr><td>Section 102</td><td>Temporary appointments during vacancy in office of quarry manager</td><td>The whole section</td></tr>
+<tr><td>Section 103</td><td>Supervision by quarry managers</td><td>The whole section</td></tr>
+<tr><td>Section 105</td><td>Duties of quarry managers and owners with respect to reading of reports, &amp; c.</td><td>The whole section</td></tr>
+<tr><td>Section 107</td><td>Notification to district inspector of appointments by quarry owners</td><td>The whole section</td></tr>
+<tr><td>Section 108</td><td>Provisions for securing safe methods of working</td><td>The whole section</td></tr>
+<tr><td>Section 109</td><td>Safe means of access to working places</td><td>The whole section</td></tr>
+<tr><td>Section 110</td><td>Provisions relating to use of ropeways and vehicles</td><td>The whole section</td></tr>
+<tr><td>Section 111</td><td>Lighting</td><td>The whole section</td></tr>
+<tr><td>Section 113</td><td>Withdrawal of workmen in cases of danger</td><td>The whole section</td></tr>
+<tr><td>Section 115</td><td>Application of certain provisions of Part III of this Act</td><td>The whole section</td></tr>
+<tr><td>Section 123</td><td>Inspections of mines and quarries on behalf of workmen employed thereat</td><td>Paragraph (b)(ii) of subsection (5) Paragraph (b) of subsection (6)</td></tr>
+<tr><td>Section 133</td><td>Form of official books and preservation and inspection of entries therein</td><td>The whole section</td></tr>
+<tr><td>Section 134</td><td>Records of certain appointments</td><td>The whole section</td></tr>
+<tr><td>Section 135</td><td>Provision of copies of this Act and other instruments</td><td>The whole section</td></tr>
+<tr><td>Section 136</td><td>Posting of notices</td><td>The whole section</td></tr>
+<tr><td>Section 139</td><td>Notification of beginning and ending of certain mining and quarrying operations</td><td>The whole section</td></tr>
+<tr><td>Section 140</td><td>Notification of change of ownership or name of mine or quarry</td><td>The whole section</td></tr>
+<tr><td>Section 152</td><td>Offences</td><td>Subsection (2)</td></tr>
+<tr><td>Section 162</td><td>Removal or defacement of notices, &amp; c.</td><td>The whole section</td></tr>
+<tr><td>Section 169</td><td>Demarcation of quarries</td><td>The whole section</td></tr>
+<tr><td>Section 180</td><td>Meaning of “mine” and “quarry”</td><td>Subsection (2) Paragraph (b) of subsection (3)</td></tr>
+<tr><td>Section 181</td><td>Meaning of “owner”</td><td>Subsections (2) and (3)</td></tr>
+<tr><td>Section 182</td><td>General interpretation provisions</td><td>Paragraphs (b) and (c) of subsection (3)</td></tr>
+<tr><td>Section 184</td><td>Relationship of Factories Act and this Act in case of certain premises</td><td>The whole section</td></tr>
+</tbody>
+</table>
+
+### PART II — PROVISIONS OF THE 1954 ACT NOT TO APPLY TO QUARRIES AND EXTENT OF CONSEQUENT MODIFICATIONS[^key-c171ec9c38acf4047f5a3e1d5265690b]
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Provision</th><th>Extent of modification</th></tr>
+</thead>
+<tbody>
+<tr><td>Sections 123(2), 123(3), 123(4), 123(5), 123(7), 123(8), 150(3), 154(1), 157, 159, 160, 165, 171, 181(1), 181(4) and 193</td><td>Omit the words “or quarry” wherever they occur.</td></tr>
+<tr><td>Section 123</td><td>In subsection (1), omit the words “or quarry” wherever they occur and the words “or, as the case may be, of quarrying”.</td></tr>
+<tr><td></td><td>In subsection (5), omit the words “or quarry” wherever they occur.</td></tr>
+<tr><td></td><td>In subsection (6), omit the words “or quarry” wherever they occur and in paragraph (a), omit the word “and”.</td></tr>
+<tr><td>Section 137</td><td>Omit the words “or quarries”, “and quarry” and “or quarry” wherever they occur.</td></tr>
+<tr><td>Section 152</td><td>In subsection (3), the words—<br>and in the event of a contravention, in relation to a quarry, by a person other than one mentioned in subsection (2) of this section, of such a provision as is mentioned in paragraph (a) of that subsection, or such a requirement or prohibition as is mentioned in paragraph (d) of that subsection, whereby there is expressly imposed on that person or on persons of a class to which he belongs a duty or requirement or he or persons of a class to which he belongs or all persons are expressly prohibited from doing a specified act, the person who contravened that provision, as well as the persons mentioned in the said subsection (2), shall be guilty of an offence<br>shall be omitted.</td></tr>
+<tr><td></td><td>In subsection (4), omit the words “or quarry” wherever they appear and omit the words “nor a manager of a quarry as such,”, “or a manager of a quarry”, “or (2)” and “or of a contravention of section three or one hundred and one of this Act”.</td></tr>
+<tr><td></td><td>In paragraph (a) of subsection (4), omit the word “or” appearing after the semi-colon.</td></tr>
+<tr><td></td><td>In paragraph (b) of subsection (4), insert the word “or” after the semi-colon.</td></tr>
+<tr><td></td><td>In paragraph (c) of subsection (4), for the word “subsections”, substitute the word “subsection” nd omit the words “and (2)”.</td></tr>
+<tr><td>Section 156</td><td>The words “or (2)” shall be omitted.</td></tr>
+<tr><td></td><td>In paragraph (c), omit the words “or quarry” and “or quarries”.</td></tr>
+<tr><td>Section 166</td><td>Omit the words “and quarries” wherever they occur and after the word “factories”, insert the word “and”.</td></tr>
+<tr><td>Section 170</td><td>In subsection (1), omit the words “or the owner or manager of a quarry”.</td></tr>
+<tr><td></td><td>In paragraph (c) of subsection (3), omit the words “or quarry”.</td></tr>
+<tr><td>Section 176</td><td>In subsection (1), omit the words “or quarries” and “or quarry” wherever they occur.</td></tr>
+<tr><td>Section 179</td><td>In this section, omit the words “and quarries”.</td></tr>
+<tr><td>Section 180</td><td>In subsection (3), omit the words “or quarry” wherever they occur.</td></tr>
+<tr><td></td><td>In subsections (4), (5) and (6), omit the words “or quarry” and “or quarries” wherever they occur.</td></tr>
+<tr><td>Section 182</td><td>In subsection (1), in paragraph (d) of the definition of “contravention”, omit the words “or quarries” and “or quarry”.</td></tr>
+<tr><td></td><td>In the definition of “inspector”, omit the words “or quarry” wherever they appear.</td></tr>
+<tr><td></td><td>In the definition of “responsible person”, omit the words “and, in relation to a quarry, the owner thereof”.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 3 — MODIFICATIONS OF THE FACTORIES ACT 1961[^key-bb05a36747a0a63b0a67dedd9352085b]
+
+Regulation 47(3)
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Provision</th><th>Extent of modification</th></tr>
+</thead>
+<tbody>
+<tr><td>Section 174</td><td>Subsection (1) shall be omitted and replaced with the following—<br>None of the provisions of this Act shall apply to any premises forming part of a quarry.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 4 — MODIFICATIONS OF THE 1969 ACT
+
+Regulation 47(4)
+
+### PART I — MODIFICATIONS[^key-ea49776f65fab2b756e5db03396e7898]
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Provision</th><th>Extent of modification</th></tr>
+</thead>
+<tbody>
+<tr><td>Section 2</td><td>In subsection (1), after the words “In this Act”, insert the words “except in this Part where the words “or quarry” shall be omitted,”.</td></tr>
+<tr><td></td><td>In subsection (2), the words “this Part of” shall be omitted.</td></tr>
+<tr><td></td><td>In paragraph (a) of subsection (2), before the word “quarry” insert the words “for the purposes of Part II of this Act” and, at the end of the paragraph, insert the words “as in force immediately before the coming into force of the Quarries Regulations 1999”.</td></tr>
+<tr><td></td><td>In paragraph (b) of subsection (2), before the word “quarry” wherever it occurs, insert the words “for the purposes of Part II of this Act”.</td></tr>
+<tr><td>Section 10</td><td>In this section, omit the words “or quarry” and “or quarries” wherever they occur.</td></tr>
+<tr><td></td><td>In subsection (3), insert the words “Subject to subsection (4)” before the words “Any reference in”.</td></tr>
+<tr><td></td><td>The following subsection shall be inserted after subsection (3)—<br>(4) For the purposes of Part II of this Act, subsection (2) shall be read as applying to quarries as it does to mines and references to “the principal Act” in paragraphs (a) and (b) of that subsection shall be read as references to that Act as in force immediately before the coming into force of the Quarries Regulations 1999.<br>.</td></tr>
+</tbody>
+</table>
+
+### PART II — PROVISIONS OF THE 1969 ACT NOT TO APPLY TO QUARRIES AND EXTENT OF CONSEQUENT MODIFICATIONS[^key-30de2f6fb37014fbcb80def86cd1a11a]
+
+Regulation 47(5)
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Provision</th><th>Extent of modification</th></tr>
+</thead>
+<tbody>
+<tr><td>Section 2</td><td>In subsections (3) and (5), omit the words “or quarry” wherever they occur.</td></tr>
+<tr><td>Section 3</td><td>In subsection (1), omit the words “and of the owner and of any manager of every quarry”.</td></tr>
+<tr><td></td><td>In subsection (2), omit the words “Neither”, “nor a manager of a quarry as such”, “or subsection (2)” and, wherever they occur, “or quarry” and “or quarries” and insert after the words “the manager of a mine as such shall” the word “not”.</td></tr>
+<tr><td></td><td>In subsection (3), omit the words “and the expression “manager”, in relation to a quarry, includes any person who is for the time being treated for the purposes of that Act as a manager of the quarry”.</td></tr>
+<tr><td></td><td>In subsection (4), omit the words “or quarry”.</td></tr>
+<tr><td></td><td>In subsection (5), omit the words “or, as the case may be, the manager of the quarry”.</td></tr>
+<tr><td>Section 4</td><td>Omit the words “or quarry” wherever they occur.</td></tr>
+<tr><td>Section 5</td><td>In subsection (1), omit the words “or quarry” and “or, as the case may be, the owner of the quarry”.</td></tr>
+<tr><td></td><td>In subsection (2), omit the words “or quarry” and “or the owner of the quarry”.</td></tr>
+<tr><td></td><td>In subsection (3), omit the words “or, as the case may be, the owner of the quarry concerned,”.</td></tr>
+<tr><td></td><td>In subsection (6), omit the words “or quarry” wherever they occur and the words “and the owner of every quarry”.</td></tr>
+<tr><td></td><td>In subsection (7), omit the words “or the owner of a quarry” and “or quarry”.</td></tr>
+<tr><td>Section 6</td><td>In subsection (1), omit the words “or quarry”.</td></tr>
+<tr><td></td><td>In subsection (3), omit the words “or quarry”.</td></tr>
+<tr><td></td><td>In subsection (4), omit paragraph (a).</td></tr>
+<tr><td>Section 7</td><td>In this section, omit the words “or quarry” wherever they occur.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 5 — REVOCATIONS AND MODIFICATIONS OF INSTRUMENTS
+
+Regulation 48(1)
+
+### PART I — REVOCATIONS[^key-4d457da9a843a60da465d3f5c95f2931]
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th>Description of Instrument</th><th></th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Quarries (General) Regulations 1956</td><td>S.I.<a href="https://www.legislation.gov.uk/uksi/1956/1780">1956/1780</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Mines and Quarries (References) Rules 1956</td><td>S.I.<a href="https://www.legislation.gov.uk/uksi/1956/1784">1956/1784</a></td><td>The whole Regulations</td></tr>
+<tr><td>The China Clay and China Stone Quarries (Employment of Young Persons) Order 1957</td><td>S.I.<a href="https://www.legislation.gov.uk/uksi/1957/410">1957/410</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Gravel and Sand Quarries (Overhanging) (Exemption) Regulations 1958</td><td>S.I.<a href="https://www.legislation.gov.uk/uksi/1958/1533">1958/1533</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Quarries (Ropeways and Vehicles) Regulations 1958</td><td>S.I.<a href="https://www.legislation.gov.uk/uksi/1958/2110">1958/2110</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Quarries Vehicles Regulations 1970</td><td>S.I.<a href="https://www.legislation.gov.uk/uksi/1970/168">1970/168</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Quarries (Metrication) Regulations 1983</td><td>S.I.<a href="https://www.legislation.gov.uk/uksi/1983/1026">1983/1026</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Quarries (Explosives) Regulations 1988</td><td>S.I.<a href="https://www.legislation.gov.uk/uksi/1988/1930">1988/1930</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Quarries Miscellaneous Health and Safety Provisions Regulations 1995</td><td>S.I.<a href="https://www.legislation.gov.uk/uksi/1995/2036">1995/2036</a></td><td>The whole Regulations</td></tr>
+</tbody>
+</table>
+
+### PART II — MODIFICATIONS[^key-cc64218e20df7639f54f72db1362f174]
+
+Regulation 48(2)
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Provision</th><th>Extent of modification</th></tr>
+</thead>
+<tbody>
+<tr><td colspan="2"><em>The Mines and Quarries (Tips) Regulations 1971</em></td></tr>
+<tr><td>Regulations 3, 5(4), 5(5), 8, 12, 17, 18(1), 19(1), 20(1), 21(1), 22(1), 24 and 25</td><td>Omit the words “or quarry” wherever they occur.</td></tr>
+<tr><td>Regulation 2</td><td>In paragraph (1), in the definition of “the person having responsibility for a tip”, omit sub-paragraph (a).</td></tr>
+<tr><td>Regulation 4</td><td>In paragraph (1), omit the words “and quarry”.</td></tr>
+<tr><td>Regulation 6</td><td>In paragraph (1), omit the words “and of the owner of every quarry”.</td></tr>
+<tr><td></td><td>In paragraph (2), omit the words “and quarry”.</td></tr>
+<tr><td>Regulation 7</td><td>Omit the words “mines and quarries are” and insert the words “mine is” in their place.</td></tr>
+<tr><td>Regulation 9</td><td>In paragraph (1), omit the words “or quarry” wherever they occur and omit the words “or the owner of the quarry”.</td></tr>
+<tr><td></td><td>In paragraphs (2) and (3), omit the words “or quarry” wherever they occur.</td></tr>
+<tr><td>Regulation 10</td><td>In paragraph (1), omit the words “or quarry” wherever they occur and omit the words “or, as the case may be, the owner of the quarry”.</td></tr>
+<tr><td>Regulation 11</td><td>Omit the words “or quarry” wherever they occur.</td></tr>
+<tr><td></td><td>In paragraph (a), omit the words “or, as the case may be, the owner of the quarry” and “or, as the case may be, by the owner of the quarry”.</td></tr>
+<tr><td>Regulation 13</td><td>Omit the words “or quarry” wherever they occur and omit the words “or, as the case may be, of the owner of the quarry”.</td></tr>
+<tr><td>Regulation 14</td><td>Omit the words “or quarry” and “or, as the case may be, of the owner of the quarry” wherever they occur.</td></tr>
+<tr><td>Regulation 15</td><td>Omit the words “or of the owner of the quarry”.</td></tr>
+<tr><td colspan="2"><em>The Mines and Quarries (Tipping Plans) Rules 1971</em></td></tr>
+<tr><td>Regulation 3</td><td>Omit the words “and quarries”.</td></tr>
+<tr><td colspan="2"><em>The Safety Representatives and Safety Committees Regulations 1977</em></td></tr>
+<tr><td>Regulation 5</td><td>In paragraph (4), after the words “Mines and Quarries Act 1954” insert the words “or regulation 40 of the Quarries Regulations 1999”.</td></tr>
+<tr><td colspan="2"><em>The Electricity at Work Regulations 1989</em></td></tr>
+<tr><td>Regulation 3</td><td>For sub-paragraph (b) of paragraph (1) substitute the following sub-paragraph—<br>(b) (i) manager, in relation to a mine within the meaning of the Mines and Quarries Act 1954, and<br>(ii) operator, in relation to a quarry within the meaning of regulation 3 of the Quarries Regulations 1999, to ensure that all requirements or prohibitions imposed by or under these Regulations are complied with in so far as they relate to the mine of which he is the manager or quarry of which he is the operator and to matters which are within his control.<br>.</td></tr>
+<tr><td colspan="2">...</td></tr>
+<tr><td>...</td><td>...</td></tr>
+<tr><td colspan="2"><em>The Pressure System and Transportable Gas Containers Regulations 1989</em></td></tr>
+<tr><td>Regulation 2</td><td>In paragraph (1) in the definition of “user”, omit the words “a mine or any part of a quarry (both within the meaning of section 180 of the Mines and Quarries Act 1954), it means the manager for the time being of that mine or that part of the quarry” and substitute the following words—<br>(a) a mine within the meaning of section 180 of the Mines and Quarries Act 1954 it means the manager for the time being of that mine;<br>(b) a quarry within the meaning of regulation 3 of the Quarries Regulations 1999 it means the operator for the time being of that quarry.<br>.</td></tr>
+<tr><td colspan="2"><em>The Workplace (Health, Safety and Welfare) Regulations 1992</em></td></tr>
+<tr><td>Regulation 2</td><td>In paragraph (1), omit the definition of “quarry” and substitute the following definition—<br>“quarry” means a quarry within the meaning of the Quarries Regulations 1999;<br>.</td></tr>
+<tr><td><em>The Ionising Radiations (Outside Workers) Regulations 1993</em></td></tr>
+<tr><td>Regulation 2</td><td>Omit paragraph (4) and substitute the following paragraph—<br>Duties under these Regulations imposed on the operator shall also be imposed upon—<br>(a) in a mine within the meaning of section 180 of the Mines and Quarries Act 1954, the manager; and<br>(b) in a quarry within the meaning of regulation 3 of the Quarries Regulations 1999, the operator,<br>in so far as those duties relate to the mine or part of the mine of which he is the manager or the quarry of which he is the operator and to matters under his control.<br>.</td></tr>
+<tr><td><em>The Railways (Safety Case) Regulations 1994</em></td></tr>
+<tr><td>Regulation 2</td><td>In paragraph (1), omit the definitions of “mine” and “quarry” and insert the following definitions—<br>“mine” has the meaning assigned to it by section 180 of the Mines and Quarries Act 1954;<br>. and<br>“quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations 1999;<br>.</td></tr>
+<tr><td><em>The Railways (Safety Critical Work) Regulations 1994</em></td></tr>
+<tr><td>Regulation 2</td><td>In paragraph (1), omit the definitions of “mine” and “quarry” and substitute the following definitions—<br>“mine” has the meaning assigned to it by section 180 of the Mines and Quarries Act 1954;<br>and<br>“quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations 1999;<br>.</td></tr>
+<tr><td colspan="2">...</td></tr>
+<tr><td>...</td><td>...</td></tr>
+<tr><td></td></tr>
+<tr><td colspan="2"><em>The Carriage of Dangerous Goods by Rail Regulations 1996</em></td></tr>
+<tr><td>Regulation 1</td><td>In paragraph (2), omit the definitions of “mine” and “quarry” and substitute the following definitions—<br>“mine” has the meaning assigned to it by section 180 of the Mines and Quarries Act 1954;<br>and<br>“quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations 1999;</td></tr>
+<tr><td colspan="2">...</td></tr>
+<tr><td>...</td><td>...</td></tr>
+<tr><td colspan="2">...</td></tr>
+<tr><td>...</td><td>...</td></tr>
+<tr><td colspan="2"><em>The Railways Safety (Miscellaneous Provisions) Regulations 1997</em></td></tr>
+<tr><td>Regulation 2</td><td>In paragraph (1), omit the definitions of “mine” and “quarry” and substitute the following definitions—<br>“mine” has the meaning assigned to it by section 180 of the Mines and Quarries Act 1954;<br>and<br>“quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations 1999;</td></tr>
+<tr><td colspan="2"><em>The Health and Safety (Enforcing Authority) Regulations 1998</em></td></tr>
+<tr><td>Regulation 2</td><td>In paragraph (1), omit the definition of “quarry” and substitute the following definition—<br>“quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations 1999;<br>.</td></tr>
+<tr><td>Schedule 2</td><td>In paragraph 1, omit the words “section 139(2) of the Mines and Quarries Act 1954” and substitute the following—<br>regulation 45(1) of the Quarries Regulations 1999<br>.</td></tr>
+<tr><td colspan="2"><em>The Gas Safety (Installation and Use) Regulations 1998</em></td></tr>
+<tr><td>Regulation 2</td><td>For sub-paragraph (a) of paragraph (4), substitute the following sub-paragraph—<br>(a) (i) a mine within the meaning of the Mines and Quarries Act 1954 or any place deemed to form part of a mine for the purposes of that Act, or<br>(ii) a quarry within the meaning of the Quarries Regulations 1999 or any place deemed to form part of a quarry for the purposes of those Regulations.</td></tr>
+<tr><td colspan="2"><em>The Transport of Dangerous Goods (Safety Advisers) Regulations 1999</em></td></tr>
+<tr><td>Regulation 2</td><td>In paragraph (1), omit the definitions of “mine” and “quarry” and substitute the following definitions—<br>“mine” has the meaning assigned to it by section 180 of the Mines and Quarries Act 1954;<br>and<br>“quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations 1999;</td></tr>
+<tr><td colspan="2">...</td></tr>
+<tr><td>...</td><td>...</td></tr>
+</tbody>
+</table>
+
+[^f00015][^f00016][^f00017][^f00018][^key-0226ae005a89c96721dea18b14d94263][^key-0226ae005a89c96721dea18b14d94263][^key-0226ae005a89c96721dea18b14d94263][^f00020][^f00021][^f00022][^f00023][^f00024][^key-1d5c449b6132f89abc3250a4304543da][^key-1d5c449b6132f89abc3250a4304543da][^key-1d5c449b6132f89abc3250a4304543da][^f00026][^key-154c390be068f5269726b8ea35772b3f][^key-154c390be068f5269726b8ea35772b3f][^key-154c390be068f5269726b8ea35772b3f][^key-87392851cca8c4955ce02acb77145448][^key-87392851cca8c4955ce02acb77145448][^key-87392851cca8c4955ce02acb77145448][^f00029][^f00030][^f00031][^f00032][^key-f84e1e272d92c1471b42271e285d006d][^key-f84e1e272d92c1471b42271e285d006d][^key-f84e1e272d92c1471b42271e285d006d]
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations impose requirements with respect to health and safety in quarries, as defined at regulation 3, and supersede certain provisions formerly imposed by or under the Mines and Quarries Act 1954, the Mines and Quarries (Tips) Act 1969 and in certain other health and safety regulations.
+
+**2.** The Regulations give effect in relation to quarries to Council Directive [92/104/EEC](https://www.legislation.gov.uk/european/directive/1992/0104) (OJ No. L404, 31.12.92, p.10) concerning minimum requirements for improving the health and safety protection of workers in surface and underground mineral extracting industries with respect to—
+
+- (a) Articles 3.1(a), (b), (c), (d), and (f), 3.2 and 3.3, 4 (except in relation to general fire precautions), 5 to 7 and 8.2;
+- (b) in Part A of the Annex, Points 1.1.3, 1.2 to 1.6, 1.8, 1.9, 3.1, 4.1 to 4.3, Section 5, Point 6.6, Section 8, Point 9.1, Sections 10 and 11, Point 13.4, Section 15, and Point 16.1;
+- (c) in Part B of the Annex, Sections 1 and 2.
+
+**3.** The Regulations apply to all quarries where persons work and impose duties on the operator (as defined at regulation 2(1)) with respect to persons at or in the area immediately surrounding the quarry (regulation 7(1)).
+
+**4.** A duty to ensure the suitability of the operator and to keep specified records is placed on the person entitled to work a quarry (regulation 5).
+
+**5.** The Regulations—
+
+- (a) impose a duty on the operator to take the measures necessary to ensure, so far as is reasonably practicable, that the quarry can be worked without risks to health and safety (regulation 6);
+- (b) impose duties on the operator with respect to preparing a health and safety document and establishing a management structure (regulations 7 and 8);
+- (c) require the operator to ensure that workers are competent (as defined at regulation 2(1)), that rules designed to secure health and safety are in place and to review health and safety measures on a regular basis (regulations 9, 10 and 11);
+- (d) in Part III, which relates to risk control, require the operator to—
+  - (i) prepare a written scheme for the systematic inspection of the quarry, buildings and plant (regulation 12),
+  - (ii) ensure, so far as is reasonably practicable, the safety of benches and haul roads and to make vehicles rules (regulations 13 and 14),
+  - (iii) ensure that there are adequate escape and rescue facilities and, where appropriate, place a barrier around the quarry (regulations 15 and 16);
+- (e) in Part IV, require the operator to—
+  - (i) ensure a permit to work system is in place and that regular safety drills are held (regulations 18 and 19),
+  - (ii) control the risk of explosions or fires and harmful or explosive atmospheres (regulations 20 and 21),
+  - (iii) take specified safety measures regarding danger areas and ensure that adequate emergency lighting is provided (regulations 22 and 23);
+- (f) in Part V, which applies to the storage, transport and use of explosives—
+  - (i) require the operator to ensure the safe storage, transport and use of explosives; appoint an Explosives Supervisor; ensure that suitable shotfiring rules and specifications are drawn up and followed; that explosives workers are competent, that appropriate facilities and equipment are provided and that explosives are stored safely (regulation 25),
+  - (ii) require the operator to ensure that shotfiring operations and trainee shotfirers are closely supervised and that records of appointment are made (regulation 26),
+  - (iii) impose duties on the shotfirer (regulation 27),
+  - (iv) require the operator to take specified steps in relation to misfires and prohibit specified activities in relation to explosives (regulations 28 and 29);
+- (g) in Part VI, which relates to excavations and tips (both as defined at regulation 2(1)), require the operator to—
+  - (i) ensure that excavations and tips are designed, constructed, operated and maintained so as to ensure health and safety and that excavations and tips rules are made (regulations 30 and 31),
+  - (ii) ensure that all proposed or existing excavations or tips are appraised by a competent person and, where required by regulation 32, subjected to a geotechnical assessment as defined at regulation 33; that specified records are made and that remedial work is undertaken (regulations 32 and 33),
+  - (iii) ensure that excavations and tips are subject to further geotechnical assessments at specified intervals and in specified circumstances (regulations 34 and 35),
+  - (iv) ensure that records of substances tipped at notifiable tips (as defined at regulation 34) are kept and give notice to the Executive with respect to specified tips and excavations (regulations 36 and 37);
+- (h) contain a transitional provision (regulation 38);
+- (i) in Part VII—
+  - (i) require employers of persons at work at the quarry to co-operate with the operator with respect to health and safety and require the operator to make arrangements to facilitate co-operation with persons at work at the quarry in promoting health and safety, including the appointment of a committee with powers of inspection (regulations 39 and 40),
+  - (ii) prohibit employers from employing persons to work at the quarry unless there is an operator; impose duties on employers with respect to the relevant statutory provisions and health surveillance and impose duties on persons at work at the quarry (regulations 41, 42 and 43);
+- (j) in Parts VIII and IX—
+  - (i) impose duties on the operator with respect to record keeping and notification (regulations 44 and 45),
+  - (ii) provide that the Executive may grant exemptions from any requirement or prohibition of the Regulations in specified circumstances (regulation 46),
+  - (iii) repeal certain provisions of the Mines and Quarries Act 1954 and modify certain provisions of that Act, the Factories Act 1961 and the Mines and Quarries (Tips) Act 1969 (regulation 47), and
+  - (iv) revoke and modify specified instruments (regulation 48).
+
+**6.** A copy of the regulatory impact assessment prepared in respect of these Regulations can be obtained from the Health and Safety Executive, Safety Policy Division, Branch C2, 4SW, Rose Court, 2 Southwark Bridge, London SW1 9HS. Copies have been placed in the library of each House of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15 and 50 were amended by Schedule 15 of the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) paragraphs 6 and 16 respectively. The general purposes of Part I referred to in section 15(1) were extended by section 117(2) of the Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^key-e4a00d369f5e9d504108a0b2f0806b16]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-37e6b8229c34d50174e77cb511809644]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^f00002]: Footnote: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70), extended by the Mines and Quarries (Tips) Act [1969 (c. 10)](https://www.legislation.gov.uk/ukpga/1969/10) and the Mines Management Act [1971 (c. 20)](https://www.legislation.gov.uk/ukpga/1971/20): relevant amending instruments are S.I. [1974/2013](https://www.legislation.gov.uk/uksi/1974/2013), [1976/2063](https://www.legislation.gov.uk/uksi/1976/2063), [1993/1897](https://www.legislation.gov.uk/uksi/1993/1897).
+
+[^f00003]: Footnote: [1969 c. 10](https://www.legislation.gov.uk/ukpga/1969/10) to which there are amendments not relevant to these Regulations.
+
+[^f00004]: Footnote: S.I. [1971/1377](https://www.legislation.gov.uk/uksi/1971/1377).
+
+[^key-ae9e109ce95f53517bf52c087d6faf84]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+
+[^key-f731de60d10f508f73e669fb99ad7d85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/9/a)
+
+[^key-dca1b1e33bc71971098c9a833d1b788e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/42) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+
+[^key-da01fab918762706b2c43a9691334f33]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 19](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/19)
+
+[^f00008]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66) to which there are amendments not relevant to these Regulations.
+
+[^f00009]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^key-dff7deb753b3ec8e64b16ec9fdd0f87e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1999/2024/regulation/3) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-9c42c0b28f300bb9d56e74c927efcafd]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/3/1/c) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+
+[^f00011]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^key-1a891972b5ed462093cacb1a620f6208]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/2024/regulation/4) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-d5f8f9320aa5915a4729ccdca6131701]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1999/2024/regulation/5) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-d645fb71e25e9fe3db8ef087c4f452b8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1999/2024/regulation/6) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-713f3d87d5d49a6f7ce618249d553ad5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/2024/regulation/7) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-117ae187cdcac505e3bf99e32589e33d]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/7/1/a) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+
+[^key-92f9ad748a2f5fb2ea39a240c5b0b94c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1999/2024/regulation/8) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-5e0cecff334214c94c7c8b0ea808e74a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/2024/regulation/9) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-3b1dad92da4031e961791a4e0eb0ae10]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1999/2024/regulation/10) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-b9e0fc4560b959adbfbe6464713fc69b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1999/2024/regulation/11) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-e900bd1465663ec467496f50912ddedb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1999/2024/regulation/12) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-c6393ef927e4638756ec765fa27fd685]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1999/2024/regulation/13) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-0556fa038c9d2c5b80e442963cb9fa0b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1999/2024/regulation/14) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-53d3d9f6ebf53ccb563ee2baa0e2ee6e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1999/2024/regulation/15) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-bf06ee92c5ce9e0e409b6bb53e81d44a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1999/2024/regulation/16) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-ee82152eb73d1188b27c1b437fa520e0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1999/2024/regulation/17) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-31995e22aff2b7feb5d8e1cba13fb592]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1999/2024/regulation/18) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-f433f8dc991374977cad7f64ab587607]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/2024/regulation/19) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-83db88755f3d33b5943d1b1423c85371]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1999/2024/regulation/20) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-6cc4fdd9117d067d54fbbcf2da7e75d1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1999/2024/regulation/21) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^f00012]: Footnote: S.I. [1992/3139](https://www.legislation.gov.uk/uksi/1992/3139); amended by S.I. [1993/3074](https://www.legislation.gov.uk/uksi/1993/3074), [1994/2326](https://www.legislation.gov.uk/uksi/1994/2326), [1996/3039](https://www.legislation.gov.uk/uksi/1996/3039).
+
+[^key-96028a25e409632c3a20340532674105]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1999/2024/regulation/22) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-c6c36982b7ef1810d332428f4e6c412e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1999/2024/regulation/23) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-ffdf3134c16ff42f66ba650600692138]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1999/2024/regulation/24) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-ff48b018101cfd4b210a00146cc9bdea]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1999/2024/regulation/25) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-a997d5a4678b323046b8a06d7ebcd09d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1999/2024/regulation/26) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-a4c85a3b6818c18112edc65b64f624b0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1999/2024/regulation/27) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-c081d8fe9ce974f5071069c28bae526f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1999/2024/regulation/28) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-c6e0a07a0e293beae13fdcea4be749a0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1999/2024/regulation/29) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-c7199e3e2731a54cd2d203c379bb2b7c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1999/2024/regulation/30) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-8bfb7028b46450524fbe2d17c1650979]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1999/2024/regulation/31) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-4a91d053ef8ce7178c5fd31b691755c8]: Commencement: [Reg. 32(1)-(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/1) in force at 1.1.2000 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-2e2029edf69bc7a2a57a594f4b25ccfe]: Commencement: [Reg. 32(1)-(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/1) in force at 1.1.2001 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/2)
+
+[^key-85428d66caca7828864a1c67ca6becdc]: Commencement: [Reg. 32(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/4) in force at 1.1.2000 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-19a5b832d501b0f90b3b7601e4ed9795]: Commencement: [Reg. 32(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/4) in force at 1.1.2002 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/3)
+
+[^key-29ebb8b91bbbb82b4af51f36a8286074]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1999/2024/regulation/33) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-85457ad04a5b6f9b9a75f94746e8aeb6]: Textual amendment: Word in [reg. 33(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/33/4) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/9/b)
+
+[^key-1b7990c4e4a1cb6849e2154d9b1a1f70]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1999/2024/regulation/34) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-3bab1afe7ee025a28ae9c80697d2118e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1999/2024/regulation/35) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-27c7354112bc10063aeb341407366ed4]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1999/2024/regulation/36) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-c25adcd247609a7b329448ba4c108f88]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1999/2024/regulation/37) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-ab83ff072279f1e8d5a6ebe1457d4ffa]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1999/2024/regulation/38) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-5c8a758fc412de93379728010385b8f6]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1999/2024/regulation/39) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-0df885a54a58993e5370cde528852d65]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1999/2024/regulation/40) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-f993fe44871054351110a8a0f949dac1]: Textual amendment: Words in [reg. 40(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/40/3) substituted (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) Table 2 (with [reg. 19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+
+[^key-54d196f5e1a54aeb515a103b8e1b2c26]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1999/2024/regulation/41) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-715ada7b220ccdf884c65afacc8c1cbc]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1999/2024/regulation/42) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-36843f180a1f0c880cf254d3ae72db1b]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1999/2024/regulation/43) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-a590b00b9c6366b2d0dd85b16e7e686e]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/uksi/1999/2024/regulation/43) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+
+[^key-c418b768431b6749af18a1f480f4580b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1999/2024/regulation/44) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-96ec4fac1dc2c7caa2ee17bfd41913d9]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1999/2024/regulation/45) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-a85eeba3d2d28673cdac82166b37caf9]: Textual amendment: Word in [reg. 45(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/45/4) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/9/c)
+
+[^key-64da8dbb8db35f5f4c9fb08a4ebb847c]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1999/2024/regulation/46) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-3e999290d6ce9a0676723f9216ea6a36]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1999/2024/regulation/47) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^f00014]: Footnote: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34) to which there are amendments not relevant to these Regulations.
+
+[^key-efdd736ddf921fa7bebb15bd42c95b6b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1999/2024/regulation/48) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-3642c1351cf4596c5de7b8d35d10b88f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/1) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-933a1939eb9495ac4831afbb9e547def]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/2) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-1f97bd3897d70538c23dd8b1de4f6494]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/3) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-ba0e3017f307385e674e5431ba903cac]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/4) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-1ad14e7cb43d9a8fb0f9321eff87c993]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/5) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-6d86d0edec8f0b4b5970c5099321ec3d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/6) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-16c0870fbea24afbfb5f8cf00cbbd730]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/7) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-30f363ef751c4b6293698a1a797483e1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/8) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-6c3e293dd0a2483fcf1432765922e659]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1999/2024/schedule/2/part/I) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-c171ec9c38acf4047f5a3e1d5265690b]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1999/2024/schedule/2/part/II) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-bb05a36747a0a63b0a67dedd9352085b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1999/2024/schedule/3) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-ea49776f65fab2b756e5db03396e7898]: Commencement: [Sch. 4 Pt. I](https://www.legislation.gov.uk/uksi/1999/2024/schedule/4/part/I) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-30de2f6fb37014fbcb80def86cd1a11a]: Commencement: [Sch. 4 Pt. II](https://www.legislation.gov.uk/uksi/1999/2024/schedule/4/part/II) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-4d457da9a843a60da465d3f5c95f2931]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/I) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^key-cc64218e20df7639f54f72db1362f174]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+
+[^f00015]: Footnote: S.I. [1971/1377](https://www.legislation.gov.uk/uksi/1971/1377).
+
+[^f00016]: Footnote: S.I. [1971/1378](https://www.legislation.gov.uk/uksi/1971/1378).
+
+[^f00017]: Footnote: S.I. [1977/500](https://www.legislation.gov.uk/uksi/1977/500); amended by S.I. [1992/2051](https://www.legislation.gov.uk/uksi/1992/2051), [1996/1513](https://www.legislation.gov.uk/uksi/1996/1513).
+
+[^f00018]: Footnote: S.I. [1989/635](https://www.legislation.gov.uk/uksi/1989/635); amended by S.I. [1995/2005](https://www.legislation.gov.uk/uksi/1995/2005), [1996/192](https://www.legislation.gov.uk/uksi/1996/192), [1997/1993](https://www.legislation.gov.uk/uksi/1997/1993).
+
+[^key-0226ae005a89c96721dea18b14d94263]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1643/schedule/3) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
+
+[^f00020]: Footnote: S.I. [1989/2169](https://www.legislation.gov.uk/uksi/1989/2169); amended by S.I. [1992/743](https://www.legislation.gov.uk/uksi/1992/743), [1996/1656](https://www.legislation.gov.uk/uksi/1996/1656), [1996/2092](https://www.legislation.gov.uk/uksi/1996/2092), [1997/2776](https://www.legislation.gov.uk/uksi/1997/2776).
+
+[^f00021]: Footnote: S.I. [1992/3004](https://www.legislation.gov.uk/uksi/1992/3004); amended by S.I. [1995/2036](https://www.legislation.gov.uk/uksi/1995/2036), [1996/1592](https://www.legislation.gov.uk/uksi/1996/1592).
+
+[^f00022]: Footnote: S.I. [1993/2379](https://www.legislation.gov.uk/uksi/1993/2379).
+
+[^f00023]: Footnote: S.I. [1994/237](https://www.legislation.gov.uk/uksi/1994/237); amended by S.I. [1996/1592](https://www.legislation.gov.uk/uksi/1996/1592).
+
+[^f00024]: Footnote: S.I. [1994/299](https://www.legislation.gov.uk/uksi/1994/299); amended by S.I. [1996/1592](https://www.legislation.gov.uk/uksi/1996/1592).
+
+[^key-1d5c449b6132f89abc3250a4304543da]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5) revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) Table 1 (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+
+[^f00026]: Footnote: S.I. [1996/2089](https://www.legislation.gov.uk/uksi/1996/2089), amended by S.I. [1998/2885](https://www.legislation.gov.uk/uksi/1998/2885).
+
+[^key-154c390be068f5269726b8ea35772b3f]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (2.9.2002) by [The Packaging, Labelling and Carriage of Radioactive Material by Rail Regulations 2002 (revoked) 2002 (S.I. 2002/2099)](https://www.legislation.gov.uk/uksi/2002/2099), [reg. 1](https://www.legislation.gov.uk/uksi/2002/2099/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2099/schedule/2)
+
+[^key-87392851cca8c4955ce02acb77145448]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+
+[^f00029]: Footnote: S.I. [1997/553](https://www.legislation.gov.uk/uksi/1997/553).
+
+[^f00030]: Footnote: S.I. [1998/494](https://www.legislation.gov.uk/uksi/1998/494).
+
+[^f00031]: Footnote: S.I. [1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
+
+[^f00032]: Footnote: S.I. [1999/257](https://www.legislation.gov.uk/uksi/1999/257).
+
+[^key-f84e1e272d92c1471b42271e285d006d]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (20.8.2001) by [The Health and Safety (Fees) Regulations 2001 (S.I. 2001/2626)](https://www.legislation.gov.uk/uksi/2001/2626), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2626/regulation/1/1), [Sch. 20](https://www.legislation.gov.uk/uksi/2001/2626/schedule/20)

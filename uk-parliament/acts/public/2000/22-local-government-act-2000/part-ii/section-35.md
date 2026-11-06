@@ -1,0 +1,48 @@
+---
+title: Local Government Act 2000, section 35
+act: Local Government Act 2000
+section: '35'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/22/section/35
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Act 2000, section 35
+
+> **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 35. Referendum following direction.[^c1427888]
+
+*Extent: E+W*
+
+(1) The Welsh Ministers[^key-8542627958ff3681297f5a54cbf80120] may by regulations make provision for or in connection with enabling them[^key-22b7bc602fb3ae932b4ac3e466151e14], in such circumstances as may be prescribed in the regulations, to direct a local authority to hold a referendum on whether they should operate executive arrangements involving an executive which takes such form permitted by or under section 11 as may be specified in the direction.
+
+(2) The provision which may be made by regulations under this section includes provision—
+
+- (a) as to the date on which, or the time by which, a referendum must be held,
+- (b) as to the action which may, may not or must be taken by a local authority before or in connection with a referendum,
+- (c) as to the action which may, may not or must be taken by a local authority after a referendum, and
+- (d) for or in connection with enabling the Welsh Ministers[^key-dccfb9a5f2435f5afe7ed5325a62dbdb], in the event of any failure by a local authority to take any action permitted or required by virtue of the regulations, to take that action.
+
+(3) The provision which may be made by virtue of subsection (2) includes provision which applies or reproduces (with or without modifications) any provisions of section 25, 27, 28, 29 or 33 *(affected by repeal, see note)*[^key-6f114677ce163d799fefa6369aa65cd6] or 29 [^key-a8d7b9eff648e8d69036799de21abc52]....
+
+(4) Nothing in subsection (2) or (3) affects the generality of the power under subsection (1).
+
+## Annotations
+
+[^c1427888]: Commencement: S. 35 wholly in force at 1.11.2000; s. 35 not in force at Royal Assent see s. 108; s. 35 in force at 7.8.2000 in relation to England only by [S.I. 2000/2187](https://www.legislation.gov.uk/uksi/2000/2187), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2187/article/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2000/2187/article/2/a); s. 35 in force at 1.11.2000 in relation to Wales by [S.I. 2000/2948](https://www.legislation.gov.uk/uksi/2000/2948), [art. 2](https://www.legislation.gov.uk/uksi/2000/2948/article/2)
+
+[^key-8542627958ff3681297f5a54cbf80120]: Textual amendment: Words in s. 35(1) substituted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 52(2)(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/52/2/a); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+
+[^key-22b7bc602fb3ae932b4ac3e466151e14]: Textual amendment: Word in s. 35(1) substituted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 52(2)(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/52/2/b); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+
+[^key-dccfb9a5f2435f5afe7ed5325a62dbdb]: Textual amendment: Words in s. 35(2)(d) substituted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 52(3)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/52/3); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+
+[^key-6f114677ce163d799fefa6369aa65cd6]: Textual amendment: Words in s. 35(3) substituted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 36(1)(f)](https://www.legislation.gov.uk/mwa/2011/4/section/36/1/f), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 36(5)-(8)](https://www.legislation.gov.uk/mwa/2011/4/section/36/5))
+
+[^key-a8d7b9eff648e8d69036799de21abc52]: Textual amendment: Words in s. 35(3) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 52(4)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/52/4), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/c)[(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

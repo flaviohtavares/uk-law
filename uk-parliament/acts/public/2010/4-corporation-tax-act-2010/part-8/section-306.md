@@ -1,0 +1,30 @@
+---
+title: Corporation Tax Act 2010, section 306
+act: Corporation Tax Act 2010
+section: '306'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/306
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 306
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 306. Capital allowances
+
+*Extent: E+W+S+N.I.*
+
+(1) A capital allowance may not to any extent be given effect under section 259 or 260 of CAA 2001 (special leasing) by deduction from a company's ring fence profits.
+
+(2) But subsection (1) does not apply to a capital allowance which falls to be made to a company for any accounting period in respect of an asset which—
+
+- (a) is used in the relevant accounting period by a company associated with it, and
+- (b) is so used in carrying on oil extraction activities.
+
+(3) “**The relevant accounting period**” means that for which the allowance in question first falls to be made to the company (whether or not it can to any extent be given effect in that period under section 259 of CAA 2001).

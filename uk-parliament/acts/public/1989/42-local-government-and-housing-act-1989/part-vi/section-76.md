@@ -1,0 +1,61 @@
+---
+title: Local Government and Housing Act 1989, section 76
+act: Local Government and Housing Act 1989
+section: '76'
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1989/42/section/76
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government and Housing Act 1989, section 76
+
+> **Warning: changes not yet applied to this text (36).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
+>
+> Extent: England, Wales, Scotland.
+
+## 76. Duty to prevent debit balance on Housing Revenue Account.[^c15273961]
+
+*Extent: E+W*
+
+(1) This section applies where for any year (“the relevant year”) a local housing authority who are required to keep a Housing Revenue Account possess any houses or other property within the account.
+
+(2) The authority shall, during the months of January and February immediately preceding the relevant year, formulate proposals which satisfy the requirements of subsection (3) below and relate to—
+
+- (a) the income of the authority for the year from rents and other charges in respect of houses and other property within their Housing Revenue Account;
+- (b) the expenditure of the authority for the year in respect of the repair,maintenance, supervision and management of such property; and
+- (c) such other matters connected with the exercise of the authority’s functions in relation to such property as the Secretary of State may direct.
+
+(3) Proposals formulated by the authority under subsection (2) above satisfy the requirements of this subsection at any time if, on the assumption that thefollowing will prove correct, namely—
+
+- (a) the best assumptions that they are able to make at that time as to all matters which may affect the amounts falling to be credited or debited to their Housing Revenue Account for the relevant year; and
+- (b) the best estimates that they are able to make at that time of the amounts which, on those assumptions, will fall to be so credited or debited,
+
+implementation of the proposals will secure that the account for that year does not show a debit balance.
+
+(4) No assumptions shall be made under subsection (3) above as to the exerciseby the Secretary of State of any power except on the basis of information published by him or on his behalf or supplied by him to the authority.
+
+(5) Subject to subsections (6) and (7) below, the authority shall implement the proposals formulated by them under subsection (2) above.
+
+(6) The authority shall from time to time determine whether the proposals formulated under subsection (2) above satisfy the requirements of subsection(3) above; and—
+
+- (a) termine that question in the affirmative, they may make such revisions of the proposals as they think fit, so long as the proposals (as so revised) continue to satisfy those requirements;
+- (b) if they determine that question in the negative, they shall make such revisions of the proposals as are reasonably practicable towards securing that the proposals (as so revised) satisfy those requirements.
+
+(7) Where the proposals formulated under subsection (2) above are revised under subsection (6) above, subsections (3) to (6) above shall apply inrelation to the proposals as so revised as they applied in relation to the proposals as originally formulated.
+
+(8) The authority shall, within one month of formulating their proposals under subsection (2) above, or of revising those proposals under subsection (6)above, prepare a statement setting out—
+
+- (a) those proposals as so formulated or so revised;
+- (b) the estimates made by them under subsection (3)(b) above on the basis of which those proposals were so formulated or so revised; and
+- (c) such other particulars relating to those proposals and estimates as the Secretary of State may direct;
+
+and a direction under paragraph (c) above may specify the manner in which the particulars are to be set out in the statement.
+
+(9) The authority shall, until the end of the year next following the relevant year, keep copies of the statement which is for the time being the latest statement prepared by them under subsection (8) above available for inspection by the public without charge at all reasonable hours at one or more of their offices; and any person shall be entitled to take copies of, or extracts from,that statement when so made available.
+
+## Annotations
+
+[^c15273961]: Modification: S. 76 modified (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [reg. 39](https://www.legislation.gov.uk/uksi/1994/2825/regulation/39)

@@ -1,0 +1,133 @@
+---
+title: The Waste (Household Waste Duty of Care) (England and Wales) Regulations 2005
+id: uksi/2005/2900
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-10-17'
+text_date: '2012-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2005/2900
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2900/pdfs/uksiem_20052900_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2900/pdfs/uksi_20052900_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2900/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waste (Household Waste Duty of Care) (England and Wales) Regulations 2005
+
+> Text as at 2012-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2005 No. 2900
+
+ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
+
+The Waste (Household Waste Duty of Care) (England and Wales) Regulations 2005
+
+Made
+
+17th October 2005
+
+Laid before Parliament
+
+18th October 2005
+
+Coming into force
+
+21st November 2005
+
+The Secretary of State, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the prevention, reduction and elimination of pollution caused by waste, in the exercise of the powers conferred upon her by that section, makes the following Regulations:
+
+## 1. Citation, commencement, extent and interpretation
+
+(1) These Regulations may be cited as the Waste (Household Waste Duty of Care) (England and Wales) Regulations 2005 and come into force on 21st November 2005.
+
+(2) These Regulations extend to England and Wales only.
+
+(3) In these Regulations “the 1990 Act” means the Environmental Protection Act 1990[^f00003].
+
+## 2. Amendment of the Environmental Protection Act 1990
+
+(1) Section 34 (duty of care etc. as respects waste) of the 1990 Act is amended as follows.
+
+(2) After subsection 2 insert—
+
+> (2A) It shall be the duty of the occupier of any domestic property in England to take all such measures available to him as are reasonable in the circumstances to secure that any transfer by him of household waste produced on the property is only to an authorised person or to a person for authorised transport purposes.
+
+(3) In subsection (3), for “purpose of subsection (1)(c)” substitute “purposes of subsections (1)(c) and (2A)”.
+
+(4) In subsection (3A), for “subsection (1)(c)” substitute “subsections (1)(c) and (2A)”.
+
+(5) In subsection (4), for “subsection (1)(c)” substitute “subsections (1)(c) and (2A)”.
+
+(6) In subsection (6), after “subsection (1)” insert “or (2A)”.
+
+## 3. Amendment of the Clean Neighbourhoods and Environment Act 2005
+
+(1) In section 46(1) of the Clean Neighbourhoods and Environment Act 2005[^f00004] (power to search and seize vehicles etc.), the new section 34B to be inserted in the 1990 Act is amended as follows.
+
+(2) In subsections (2)(a) and (3)(a), for “an offence under section 33 or 34 above” substitute “a relevant offence”.
+
+(3) In subsection (11), after the definition of “enforcement authority” insert—
+
+> - “relevant offence” means—
+>   - (a) an offence under section 33 above, or
+>   - (b) an offence under section 34 above consisting of a failure to comply with the duty imposed by subsection (1) of that section;
+
+.
+
+## 4. Amendment of the Controlled Waste Regulations 1992[^key-c39b44e101ed711ff3a53dffb3c26d50]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Waste Management Licensing Regulations 1994
+
+In Schedule 3 to the Waste Management Licensing Regulations 1994[^f00006] (activities exempt from waste management licensing), in paragraph 38(e), for “section 34” substitute “section 34(1)”.
+
+Ben Bradshaw
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+(This note is not part of the Regulations)
+
+These Regulations are made under section 2(2) of the European Communities Act 1972. They implement, in relation to England, Article 8 of Council Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste[^f00007] (the “Waste Framework Directive”) as respects an occupier of domestic property in relation to the household waste produced on the property.
+
+Regulation 1 (citation, commencement, extent and interpretation) provides that these Regulations extend only to England and Wales and that they come into force on 21st November 2005.
+
+Regulation 2 amends section 34 of the Environmental Protection Act 1990 (the “1990 Act”). Regulation 2(2) inserts a new section 34(2A) into the 1990 Act so as to impose a duty on an occupier of domestic property as respects the household waste produced on the property. The duty imposed is to take all such measures available to him as are reasonable in the circumstances to secure that any transfer by him of household waste produced on the property is only to an authorised person or to a person for authorised transport purposes.
+
+The amendments in regulations 2(3) to (6) are consequential on the amendment in regulation 2(2). In particular, the amendment in regulation 2(6) makes it a criminal offence for any person to fail to comply with the new duty imposed by the amendment in regulation 2(2). On summary conviction, the penalty for the offence will be a fine not exceeding the statutory maximum (at the date of these Regulations £5000) and, on conviction on indictment, a fine.
+
+The amendments in regulations 3, 4 and 5 are also consequential on the amendment in regulation 2(2). In particular, the amendments in regulation 3 ensure that section 34B of the 1990 Act (power to search and seize vehicles etc), which is not in force at the date of these Regulations, will not apply where an offence has been committed as a result of a failure to comply with the duty imposed by the amendment in regulation 2(2). Section 34B is to be inserted into the 1990 Act by section 46 of the Clean Neighbourhoods and Environment Act 2005 (in accordance with a commencement order under that Act).
+
+A transposition note has been prepared, explaining the transposition into law by the Government of Article 8 of the Waste Framework Directive as respects an occupier of domestic property in England in relation to the household waste produced on the property.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business has also been prepared.
+
+Copies of the transposition note and the regulatory impact assessment are available in the libraries of both Houses of Parliament, and from WM Licensing and Enforcement Unit, Department for Environment, Food and Rural Affairs, Zone 7/H11, Ashdown House, 123 Victoria Street, London SW1E 6DE.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1992/2870](https://www.legislation.gov.uk/uksi/1992/2870).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^f00004]: Footnote: [2005 c. 16](https://www.legislation.gov.uk/ukpga/2005/16).
+
+[^key-c39b44e101ed711ff3a53dffb3c26d50]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/2900/regulation/4) omitted (6.4.2012) by virtue of [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2012/811/regulation/6), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/811/schedule/2/paragraph/1)
+
+[^f00006]: Footnote: S.I. [1994/1056](https://www.legislation.gov.uk/uksi/1994/1056); relevant amending instruments are S.I. [2005/894](https://www.legislation.gov.uk/uksi/2005/894) and S.I. [2005/1806](https://www.legislation.gov.uk/uksi/2005/1806).
+
+[^f00007]: Footnote: O.J. No. L194, 25.7.1975, p. 39 (as amended by Council Directives [91/156/EEC](https://www.legislation.gov.uk/european/directive/1991/0156) (O.J. No. L78, 26.3.1991, p. 32), [91/692/EEC](https://www.legislation.gov.uk/european/directive/1991/0692) (O.J. No. L377, 31.12.1991, p. 48 (as corrected by Corrigendum, O.J. No. L146, 13.6.2003, p. 52)), Commission Decision [96/350/EC](https://www.legislation.gov.uk/european/decision/1996/0350) (O.J. No. L135, 6.6.1996, p. 32) and Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (O.J. No. L284, 31.10.2003, p. 1)).

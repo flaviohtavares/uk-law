@@ -1,0 +1,56 @@
+---
+title: Cultural Property (Armed Conflicts) Act 2017, section 4
+act: Cultural Property (Armed Conflicts) Act 2017
+section: '4'
+status: revised
+text_date: '2023-02-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2017/6/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Cultural Property (Armed Conflicts) Act 2017, section 4
+
+> Text as at 2023-02-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 4. Ancillary offences[^key-3d2eb038cccca438dee557f09213411c]
+
+*Extent: E+W+S+N.I.*
+
+(1) An offence ancillary to an offence under section 3 is capable of being committed in the United Kingdom or elsewhere.
+
+(2) An offence ancillary to an offence under section 3 in respect of an act of a kind described in paragraph 1(a), (b) or (c) of Article 15 of the Second Protocol is capable of being committed by any person, whether a UK national or not.
+
+(3) An offence ancillary to an offence under section 3 in respect of an act done outside the United Kingdom of a kind described in paragraph 1(d) or (e) of Article 15 of the Second Protocol is capable of being committed by a person outside the United Kingdom only if the person is—
+
+- (a) a UK national, or
+- (b) a person subject to UK service jurisdiction.
+
+(4) In the application of this Part to England and Wales, references to an offence that is ancillary to an offence under section 3 are to—
+
+- (a) attempting or conspiring to commit that offence, or
+- (b) an offence under section 4(1) or 5(1) of the Criminal Law Act 1967 (assisting an offender or concealing the commission of an offence) where the relevant offence mentioned there is an offence under section 3 of this Act.
+
+(5) In the application of this Part to Northern Ireland, references to an offence that is ancillary to an offence under section 3 are to—
+
+- (a) attempting or conspiring to commit that offence, or
+- (b) an offence under section 4(1) or 5(1) of the Criminal Law Act (Northern Ireland) 1967 (c. 18 (N.I.)) (assisting an offender or concealing the commission of an offence) where the relevant offence mentioned there is an offence under section 3 of this Act.
+
+(6) In the application of this Part to Scotland, references to an offence that is ancillary to an offence under section 3 are to—
+
+- (a) being art and part in the commission of that offence,
+- (b) aiding, abetting, counselling, procuring or inciting a person to commit that offence,
+- (c) attempting or conspiring to commit that offence,
+- (d) perverting, or attempting to pervert, the course of justice in connection with that offence, or
+- (e) defeating, or attempting to defeat, the ends of justice in connection with that offence.
+
+(7) A reference in this Part to an offence that is ancillary to an offence under section 3 includes a reference to an offence that is ancillary to such an ancillary offence, and so on.
+
+(8) Subsections (4) to (6) apply for the purposes of subsection (7) as if any reference to an offence under section 3 included a reference to an offence that is ancillary to an offence under section 3, and so on.
+
+## Annotations
+
+[^key-3d2eb038cccca438dee557f09213411c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/6/section/4) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

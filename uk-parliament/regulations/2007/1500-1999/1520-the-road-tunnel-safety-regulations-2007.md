@@ -1,0 +1,639 @@
+---
+title: The Road Tunnel Safety Regulations 2007
+id: uksi/2007/1520
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-05-22'
+text_date: '2021-05-28'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2007/1520
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/1520/pdfs/uksiem_20071520_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1520/pdfs/uksi_20071520_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1520/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Tunnel Safety Regulations 2007
+
+> Text as at 2021-05-28.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2007 No. 1520
+
+HIGHWAYS
+
+Tunnels
+
+The Road Tunnel Safety Regulations 2007
+
+Made
+
+22nd May 2007
+
+Laid before Parliament
+
+25th May 2007
+
+Coming into force
+
+22nd June 2007
+
+The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001].
+
+He has been designated[^f00002] for the purposes of section 2(2) in relation to measures relating to road tunnel safety and the safety of roads accessing road tunnels.
+
+## PART 1 — Preliminary
+
+### 1. Citation and commencement[^key-221ddcc6da6956c0ee8cc66571b6d9a9]
+
+These Regulations may be cited as the Road Tunnel Safety Regulations 2007 and shall come into force on 22nd June 2007.
+
+### 2. Interpretation etc.[^key-ac21866306269ff41f85f3b1487549c3]
+
+(1) In these Regulations “the Road Tunnel Directive” means Directive No. [2004/54/EC](https://www.legislation.gov.uk/european/directive/2004/0054) of the European Parliament and of the Council of 29th April 2004 on the minimum safety requirements for tunnels in the Trans-European Road Network[^f00003], and any reference in the Schedule to “the Directive” shall be construed accordingly.
+
+(2) In these Regulations references to “Annex I” and “Annex II” are references to those Annexes as set out in the Road Tunnel Directive and modified by regulation 2A[^key-a357e555e59e6605f9b6ec87ab3a9f05], and the reference in paragraph 2.12 of Annex I to “Annex III” should be read as a reference to the Schedule, which sets out Annex III of the Road Tunnel Directive [^key-67432d36ce856c6061aa316d34ca2bd4]... in a modified form.
+
+(3) In these Regulations—
+
+- “administrative authority” means a body designated in relation to a road tunnel pursuant to regulation 4;
+- “commissioning procedure” means the procedure for authorising the opening of a road tunnel to public traffic set out in paragraph 3 of Annex II;
+- “construction stage” means the period after the design stage has been completed but before that tunnel is open to traffic;
+- “design stage” means the stage after a feasibility study has been conducted in relation to a tunnel but before any construction of that tunnel has commenced;
+- “emergency services” means all local services, whether public or private or any of the road tunnel staff, which intervene in the event of an accident or incident in a road tunnel, including police services, fire brigades, highway authority traffic officers and rescue teams;
+- “inspection entity” means an entity appointed pursuant to regulation 12;
+- “modification” means a substantial change in the structure, construction, equipment or operation of a road tunnel which significantly alters any of the constituent components of the safety documentation, and cognate expressions shall be construed accordingly;
+- “national authority” means in relation to—[^key-9d03d464d498ac51113930d5bd8068f3]
+  - (i) England, the Secretary of State;
+  - (ii) Wales, the Welsh Ministers;
+  - (iii) Scotland, the Scottish Ministers;
+  - (iv) Northern Ireland, the Department for Infrastructure established by article 3(1) of the Departments (Northern Ireland) Order 1999 and renamed by section 1(6) of the Departments Act (Northern Ireland) 2016;
+- “operational schemes” means the schemes relating to a road tunnel drawn up pursuant to regulation 5(3);
+- “risk analysis” means an analysis prepared pursuant to regulation 18;
+- “risk reduction measure” means a measure to be used instead of adoption of a structural requirement set out in the safety requirements;
+- “road tunnel” means a tunnel to which these Regulations apply;
+- “safety documentation” means the documentation compiled pursuant to regulation 9;
+- “Safety Officer” means an officer designated pursuant to regulation 10;
+- “safety requirements” means the safety measures specified in Annex I and the Schedule;
+- “significant incident” has the same meaning as “emergency” in section 1 of the Civil Contingencies Act 2004[^f00004];
+- “technical approval authority” means the person appointed pursuant to regulation 14;
+- “traffic authority” in relation to England, Wales and Scotland has the meaning given in section 121A of the Road Traffic Regulation Act 1984.[^key-c001fc879f1ed0d3a7b4f4fe1e98699f]
+- “trans-European road network” means the road network identified in Section 2 of Annex I to Decision No. [1692/96/EC](https://www.legislation.gov.uk/european/decision/1996/1692) of the European Parliament and of the Council of 23 July 1996 on Community guidelines for the development of the trans-European transport network[^f00005] and illustrated by maps and described in Annex II to that Decision; and
+- “Tunnel Manager” means a person designated pursuant to regulation 8.
+
+### 2A. Modification of the Road Tunnel Directive[^key-84ef6b01412ac1b96dceeafcd9d870fe]
+
+(1) For the purposes of these Regulations, references to Annex I and Annex II of the Road Tunnel Directive must be read with the following modifications.
+
+(2) In Annex I—
+
+- (a) in paragraph 1.1.3. for “Article 13” substitute “regulation 18 of the Road Tunnel Safety Regulations 2007”;
+- (b) in paragraph 1.2.1. —
+  - (i) in the first sub-paragraph, for “Member States” substitute “The Tunnel Manager”;
+  - (ii) in each place where it occurs for “Commission” substitute “national authority”;
+  - (iii) omit the second sub-paragraph (beginning “The Commission shall transmit”);
+  - (iv) for the third paragraph, substitute—
+
+“If, following a period of three months after receipt of the request by the national authority, no recommendation is made and notified to the Administrative authority, the limited derogation request shall be deemed refused. During the three month period, the national authority may make a recommendation to grant or refuse the request and notify it to the Administrative authority, setting out its reasons. Where the recommendation is positive, the request is deemed to have been granted. Where the recommendation is negative the Administrative authority must decide whether to grant or refuse the request within one month of the recommendation, taking into account the recommendation of the national authority.”;
+
+- (c) in paragraph 2.9.3. for “Article 13” substitute “regulation 18 of the Road Tunnel Safety Regulations 2007”;
+- (d) in paragraph 3.2. omit the second sentence;
+- (e) in paragraph 3.4. for “Article 13” substitute “regulation 18 of the Road Tunnel Safety Regulations 2007”;
+- (f) in paragraph 3.5. omit “, including those starting and finishing in different Member States,”;
+- (g) in paragraph 3.6. omit the last sub-paragraph;
+- (h) in paragraph 3.7. for “Article 13” substitute “regulation 18 of the Road Tunnel Safety Regulations 2007”.
+
+(3) In Annex II —
+
+- (a) in paragraph 2.2. for “Article 2 of the Directive” substitute “regulation 2(3) of the Road Tunnel Safety Regulations 2007”;
+- (b) in paragraph 2.3. for “risk analysis requested by point 3.7. of Annex I” substitute “risk analysis required by regulation 18 of the Road Tunnel Safety Regulations 2007”;
+- (c) in paragraph 2.5. for “the entry into force of this Directive,” substitute “30th April 2004”.
+
+### 3. Application of the Regulations[^key-7da08f64a2c296e6bb31302a745b0775]
+
+(1)  These Regulations apply in relation to—
+
+- (a) the following road tunnels—
+  - (i) A282 Dartford Tunnel, Essex and Kent;
+  - (ii) A1(M) Hatfield Tunnel, Hertfordshire;
+  - (iii) M25 Bell Common Tunnel, Essex;
+  - (iv) M25 Holmesdale Tunnel, Hertfordshire;
+  - (v) A299 Ramsgate Tunnel, Kent;
+  - (vi) A55 Conwy Tunnel, Conwy;
+  - (vii) A55 Pen-y-Clip Tunnel, Conwy;
+  - (viii) A55 Penmaenbach Tunnel, Conwy; and
+- (b) any proposed road tunnel in the United Kingdom that immediately before IP completion day—
+  - (i) formed part of the trans-European road network;
+  - (ii) was at the construction stage or the design stage; and
+  - (iii) would be over 500 metres in length.
+
+(2) For the purpose of paragraph (1)(b), a road tunnel would be over 500 metres in length if the longest traffic lane on the fully enclosed part of that tunnel would be over 500 metres in length.
+
+## PART 2 — General Requirements
+
+### 4. Designation of administrative authority[^key-3bdd8aeb56dda7624c9a0d820f8b5851]
+
+(1) For each road tunnel in England, Scotland or Wales, the national authority for the jurisdiction in which the road tunnel is situated, shall designate a traffic authority as the administrative authority.
+
+(2) The Department for Regional Development[^f00006] is the administrative authority for each road tunnel in Northern Ireland.
+
+(3) Where a road tunnel is situated in more than one jurisdiction, the national authorities for those jurisdictions shall jointly appoint a traffic authority as the administrative authority for that road tunnel.
+
+(4) A designation made under paragraph (1) or (3)—
+
+- (a) shall be in writing;
+- (b) may provide that it is to remain in force (unless it is withdrawn or otherwise ceases to have effect) for a specified period; and
+- (c) shall be made—
+  - (i) in relation to a road tunnel that is at the design stage, construction stage or in the operation stage at the time these Regulations come into force, as soon as is practicable after that time; and
+  - (ii) in any other case, at the beginning of the design stage.
+
+(5)[^key-5b3b7a4cdbe61354e69d9747be3afec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Duties of administrative authority[^key-60670cb87c85482fba5cf8d67f10fd68]
+
+(1) The administrative authority shall ensure that a road tunnel for which it is the administrative authority is subject to the commissioning procedure before it is opened to traffic—
+
+- (a) for the first time; or
+- (b) after any modification has been carried out in relation to it.
+
+(2) The administrative authority in relation to a road tunnel for which it is the administrative authority shall—
+
+- (a) ensure that the tests and inspections required by regulation 13 are carried out;
+- (b) following an inspection pursuant to regulation 13, draw up such additional safety requirements it considers appropriate;
+- (c)[^key-e2a4094e5eafdfa5d16a2814cb01003e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) ensure the procedure for that tunnel’s immediate closure in the event of an emergency is established; and
+- (e) ensure the risk reduction measures permitted pursuant to regulation 17 are implemented within the timetable specified pursuant to that regulation.
+
+(3) The administrative authority shall ensure that such operational and organisational schemes (including emergency response plans) are drawn up as are necessary for the training and equipping of the emergency services in the event of an emergency in relation to a road tunnel for which it is the administrative authority, and it shall ensure that—
+
+- (a) the schemes are in writing;
+- (b) a copy of the schemes is held as part of the safety documentation;
+- (c) the schemes are sent to the relevant emergency services; and
+- (d) the schemes are updated from time to time.
+
+(4) If the administrative authority finds that a road tunnel for which it is the administrative authority is not in compliance with the provisions of these Regulations, it shall—
+
+- (a) notify the Tunnel Manager and the Safety Officer of the measures to increase tunnel safety that must be adopted; and
+- (b) define the conditions for, where appropriate, continuing to operate that tunnel or re-opening that tunnel.
+
+### 6. Administrative authority – duty to compile accident and fire reports[^key-18ef011e2619335884888664b93ed01c]
+
+(1) The administrative authority shall, for the two year period ending on 31 March 2008 and every two year period thereafter for which it is the administrative authority, compile a report containing the information set out in paragraph (2) in respect of fires and accidents which have occurred in the road tunnel, and which affect the safety of road users of that tunnel.
+
+(2) The report compiled under paragraph (1) shall—
+
+- (a) evaluate the frequency and causes of those fires and accidents; and
+- (b) provide information on the role and effectiveness of the safety facilities and measures found in the road tunnel in question including any failures of safety-critical equipment.
+
+(3) The administrative authority shall send each report to the national authority[^key-1ac698699d8c2a455ce066e0e9f41b16] within 22 weeks of the expiry of the period to which it relates.
+
+### 7. Administrative authority – suspension or restriction of use of a road tunnel[^key-3d63ed5e2a8632796ebfe0211930f42e]
+
+(1) The administrative authority may, in relation to a road tunnel for which it is the administrative authority, suspend or restrict the operation of the road tunnel if safety requirements, (including any additional safety requirement drawn up pursuant to regulation 5(2)(b), and any risk reduction measures permitted pursuant to regulation 17), or minimum operating requirements have not been met in relation to that tunnel.
+
+(2) The administrative authority may, in relation to a road tunnel for which it is the administrative authority suspend or restrict the operation of a road tunnel in order to carry out periodic exercises pursuant to Annex II.
+
+(3) In relation to a road tunnel located in Great Britain, sections 14 and 16 of the Road Traffic Regulation Act 1984 and the Road Traffic (Temporary Restrictions) Procedure Regulations 1992[^f00008], subject to the modifications set out in paragraph (7), shall apply to an order made under paragraphs (1) or (2) as if it were an order made under section 14(1) of that Act.
+
+(4) In relation to a road tunnel located in Northern Ireland, Article 7 of, and Schedule 3 to, the Road Traffic Regulation (Northern Ireland) Order 1997[^f00009], subject to the modifications set out in paragraph (8), shall apply to a suspension or restriction made under paragraphs (1) or (2) as if it were a restriction or prohibition made under Article 7 of that Order.
+
+(5) Where the administrative authority suspends or restricts the operation of a road tunnel pursuant to paragraph (1), it shall specify the conditions to be met in order for the suspension or restriction to be lifted and shall—
+
+- (a) ensure that those conditions have been met before the suspension or restriction is lifted; and
+- (b) when those conditions have been met, in relation to—
+  - (i) an order relating to a road tunnel made in Great Britain, revoke that order, or
+  - (ii) a suspension or restriction relating to a road tunnel made in Northern Ireland, lift the suspension or restriction.
+
+(6) The administrative authority shall only suspend the operation of a road tunnel pursuant to paragraph (2) if satisfied that suitable arrangements can be made to divert traffic from that tunnel.
+
+(7) In relation to an order made in relation to a road tunnel in Great Britain under paragraph (1) or (2), the Road Traffic (Temporary Restrictions) Procedure Regulations 1992 shall have effect subject to the following modifications—
+
+- (a) in regulation 2(1) after the definition of ““the 1991 Act” insert the following definition ““the 2007 Regulations” means the Road Tunnel Safety Regulations 2007”;
+- (b) in regulation 3—
+  - (i) at the end of paragraph (1) insert “or regulation 7 of the 2007 Regulations”,
+  - (ii) in paragraph (3)(a) after “section 14(1) of the 1984 Act” insert “or regulation 7(1) or (2) of the 2007 Regulations”,
+  - (iii) in paragraph (3)(c) after “and its maximum duration” insert “ or the conditions to be met before the order will be revoked”,
+  - (iv) in paragraph (6)(a) after “section 14(1) of the 1984 Act” insert “or regulation 7(1) or (2) of the 2007 Regulations”, and
+  - (v) in paragraph (6)(c) after “and its maximum duration” insert “or the conditions to be met before the order will be revoked”; and
+- (c) in regulation 15—
+  - (i) in paragraph (2)(d) after “shall state the reason or purpose mentioned in section 14(1) of the 1984 Act” insert “or regulation 7(1) or (2) of the 2007 Regulations”, and
+  - (ii) in paragraph 2(d) after “and its maximum duration” insert “or the conditions to be met before the order will be revoked”.
+
+(8) In relation to a suspension or a restriction made under paragraph (1) or (2) in relation to a road tunnel in Northern Ireland, Article 7(5) of the Road Traffic Regulation (Northern Ireland) Order 1997 shall have effect with the substitution of the words “when the conditions imposed pursuant to regulation 7(5) of the Road Tunnel Safety 2007 Regulations have been met” for the words “at the end of the period of 18 months from the date on which the provision comes into force”.
+
+### 8. Designation of the Tunnel Manager[^key-bd39cf3c32200d060fd0ae2f52555ef4]
+
+(1) The administrative authority shall, in relation to every road tunnel for which it is the administrative authority, designate a person to be the Tunnel Manager for (as appropriate) the design stage, the construction stage, and the operating stage.
+
+(2) The administrative authority may undertake the role of the Tunnel Manager.
+
+### 9. Duties of the Tunnel Manager[^key-2f3e1ed9e258f92edff338769ebc6be7]
+
+(1) The Tunnel Manager shall, in relation to a road tunnel, for which it is the Tunnel Manager—
+
+- (a) be responsible for that tunnel’s management;
+- (b) designate the Safety Officer pursuant to regulation 10;
+- (c) compile the safety documentation in accordance with Annex II and ensure that in addition to the requirements of Annex II it includes—
+  - (i) the operational schemes,
+  - (ii) the risk analysis (if any), and
+  - (iii) inspection reports prepared under regulation 13;
+- (d) organise periodic exercises for tunnel staff and the emergency services in accordance with the requirements of paragraph 5 of Annex II;
+- (e) prepare and forward incident reports in accordance with paragraph (3); and
+- (f) forward investigation reports in accordance with paragraph (4).
+
+(2) The Tunnel Manager for a road tunnel that has been subject to modification, shall ensure that the provisions of paragraph 4 of Annex II are complied with.
+
+(3) The Tunnel Manager shall, within one month of an accident or significant incident occurring within a road tunnel for which it is the Tunnel Manager—
+
+- (a) prepare a report on that accident or incident, (an incident report) that records the circumstances of the accident or incident; and
+- (b)[^key-5ee6cded17080e0ee90edba0df9129b7]  send the incident report to the administrative authority, the safety officer and such of the emergency services as are appropriate.
+
+(4) If the Tunnel Manager prepares an investigation report, that analyses the circumstances of the incident or accident referred to in paragraph (3) or the conclusions that can be drawn from it, he shall forward that report to the administrative authority, Safety Officer and such of the emergency services as are appropriate within one month of the preparation or receipt of that report.
+
+### 10. Designation of the Safety Officer[^key-55d847f0e46fd12d45352bd8aeea1f9e]
+
+(1) The Tunnel Manager shall, in relation to the road tunnel for which it is the Tunnel Manager, and with the prior approval of the administrative authority, designate a Safety Officer for (as appropriate) the design stage, the construction stage, and the operating stage.
+
+(2) The Safety Officer shall be independent in respect of road tunnel safety issues and shall not be under instructions from his employer in respect of those issues.
+
+### 11. Duties of Safety Officers[^key-eaea5d9d990c33c4350639ea8c125f0d]
+
+The Safety Officer shall, in respect of a road tunnel for which it is the Safety Officer—
+
+- (a) ensure there is co-ordination with the emergency services, and take part in the preparation of the operational schemes;
+- (b) take part in the planning, implementation and evaluation of emergency operations;
+- (c) take part in the formulation of safety schemes and the specification of the structure, equipment and operation of new or modified road tunnels;
+- (d) verify that operational staff and relevant emergency services are trained in relation to the operational schemes, take part in the organisation of training exercises for this purpose, and ensure that such exercises are held at regular intervals;
+- (e) give advice on the commissioning of the structure, equipment and operation of that tunnel;
+- (f) verify that the tunnel’s structure and equipment is maintained and repaired; and
+- (g) take part in the evaluation of any significant incident or accident.
+
+### 12. Appointment of inspection entity[^key-31f896e3af37b53196a1645fa7ba258a]
+
+(1) The administrative authority shall, in relation to a road tunnel for which it is the administrative authority appoint a person to be the inspection entity.
+
+(2) The person appointed as the inspection entity must be—
+
+- (a) a Chartered Engineer or headed by a Chartered Engineer;
+- (b) competent to carry out its functions; and
+- (c) functionally independent of the Tunnel Manager.
+
+(3)[^key-96333212aa9dfda990f6b32150543464] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For the purpose of this regulation a “chartered engineer” means a person who has been designated a Chartered Engineer by the Engineering Council UK.
+
+### 13. Duties of inspection entity[^key-437f9cee66e3636aaa447a88671e07e7]
+
+(1)[^key-6fc46c559da2b4b1cff7fe53b0d3a5dc] In order to verify whether the road tunnel for which it is the inspection entity complies with the provisions of these Regulations, the inspection entity shall carry out in relation to the road tunnel the following inspections, examinations and tests—
+
+- (a) a thorough visual inspection of the fabric of the road tunnel;
+- (b) a thorough visual inspection of the mechanical and electrical equipment of the road tunnel;
+- (c) a detailed examination of all the accessible parts of the road tunnel; and
+- (d) a detailed examination and test of the mechanical and electrical equipment of the road tunnel.
+
+(2) The inspections, examinations and tests referred to in paragraph (1) shall be carried out at the following intervals—
+
+- (a) an inspection under paragraph (1)(a), within two years of these Regulations coming into force, or within two years of the road tunnel coming into operation, whichever is the later, and thereafter every two years;
+- (b) an inspection under paragraph (1)(b) annually;
+- (c) an examination under paragraph (1)(c), within six years of these Regulations coming into force, or within six years of the road tunnel coming into operation, whichever is the later and thereafter every six years and;
+- (d) an examination and test under paragraph (1)(d) within three years of these Regulations coming into force, or within three years of the road tunnel coming into operation, whichever is the later, and thereafter every three years.
+
+(3) The inspection entity shall compile a report containing details of all inspections and examinations and tests carried out under this regulation and shall forward that report to the administrative authority, tunnel manager and safety officer.
+
+(4) A report compiled pursuant to paragraph (3) shall include information on whether or not the part of the road tunnel inspected comply with the provisions of these Regulations and if those parts of the road tunnel do not comply with the provisions of these Regulations—
+
+- (a) a description of how that tunnel fails to so comply; and
+- (b) a recommendation of the measures (if any) to be adopted in order to increase that tunnel’s safety.
+
+### 14. Appointment and duties of the technical approval authority[^key-2e26a6b9dd3de7dec2a7684f4f0333a4]
+
+(1) The relevant highway authority or, in relation to Scotland, the roads authority shall at the design stage of a proposed road tunnel, appoint in relation to that tunnel, such persons as they think fit to be the technical approval authority.
+
+(2) The technical approval authority shall be the responsible authority for the purposes of approving the design of the road tunnel under Annex II.
+
+(3) For the purpose of this regulation—
+
+- (a) “highway authority” in relation to—
+  - (i) England and Wales has the same meaning as in the Highways Act 1980[^f00010], and
+  - (ii) Northern Ireland means the Department for Regional Development[^f00011]; and
+- (b) “roads authority” has the same meaning as in section 151 of the Roads (Scotland) Act 1984[^f00012];
+
+### 15. Road Tunnels already in operation[^key-ec1b4b22e5b0a6dd2e4cc61d6be0795f]
+
+(1) This regulation only applies to road tunnels that were open to public traffic prior to 30th April 2006.
+
+(2) The administrative authority shall ensure that the road tunnel has been assessed by means of an inspection, in order to ascertain whether the requirements of these Regulations have been met.
+
+(3) Where necessary, the Tunnel Manager for a road tunnel shall ensure that proposals have been put to the administrative authority for a plan for adapting the road tunnel to the provisions of these Regulations, including the remedial measures so required.
+
+(4) The administrative authority shall—
+
+- (a) approve the plan and remedial measures proposed under paragraph (3) or request changes to the plan and remedial measures proposed under paragraph (3), and then if satisfied with those changes approve the plan and measures; and
+- (b) ensure that the approved plan or remedial measures are followed and any works required by the plan or remedial measures are completed by 30<sup>th</sup> April 2014.
+
+(5) If the remedial measures approved by the administrative authority under paragraph (4) result in modification to the construction or operation of the road tunnel, the administrative authority shall ensure that once the measures have been adopted the commissioning procedure and the requirements of paragraph 4 of Annex II have been followed.
+
+(6) The administrative authority shall by 20th July 2007 provide the Secretary of State with a report in respect of the road tunnel that provides information on—
+
+- (a) how the requirements of these Regulations will be met;
+- (b) the measures and plans approved under paragraph (4); and
+- (c) the consequences (if any) of opening or closing the main access roads to that tunnel.
+
+(7) The administrative authority shall provide the Secretary of State with a plan, including a timetable, for the gradual compliance of the road tunnel to the requirements of these Regulations as soon as practicable, and report on the state of the plan and any changes to it by 1st October 2010[^key-e5fa75e6df7e2a274df4102e270919d4] and by 1st October in every second year thereafter until 2014.
+
+### 16. Safety Requirements to be met by road tunnels[^key-705badd6870418c3f3f0a96ab6a06c0c]
+
+Except where a risk reduction measure is to be used pursuant to regulation 17 or where a derogation has been granted pursuant to regulation 19 or permitted pursuant to paragraph 1.2.1 of Annex 1, the administrative authority shall ensure that a road tunnel that was—
+
+- (a) put into operation for the first time on or after the coming into force of these Regulations, meets the safety requirements; or
+- (b) in operation prior to 30th April 2006 meets the safety requirements by 30<sup>th</sup> April 2014.
+
+### 17. Risk Reduction Measures[^key-7dbb3a133840c6af00b28cf397386e24]
+
+(1) Where the safety requirements specify a structural requirement that can only be satisfied by means of a technical solution that is not possible to achieve, or only achievable at disproportionate cost, the Tunnel Manager may apply to the administrative authority for authority to use a risk reduction measure.
+
+(2) Where the same body is both the administrative authority and the Tunnel Manager, an application referred to in paragraph (1) shall be considered by a person who is functionally independent from the persons acting on behalf of the body in its capacity as Tunnel Manager.
+
+(3) The administrative authority shall not permit the use of a risk reduction measure unless a risk analysis demonstrates that the measure will result in equivalent or improved protection for users of the road tunnel, compared to the relevant structural requirement in the safety requirements.
+
+(4) Where the administrative authority permits the use of a risk reduction measure it shall—
+
+- (a) specify a timetable for implementation of that measure; and
+- (b) notify the national authority[^key-3e1b212746d275c5dddd0c540bff4637] of the risk reduction measure to be used and the structural requirement that it replaces.
+
+(5) This Regulation does not apply in relation to a road tunnel that is at the design stage but the design of which had not been approved by the technical approval authority by 1<sup>st</sup> May 2006.
+
+### 18. Risk Analysis[^key-7bd954c4f6c5c0d93a50c364e3613f95]
+
+(1) A risk analysis shall be carried out by a person that is functionally independent from the Tunnel Manager.
+
+(2) The person carrying out the risk analysis shall produce a report in relation to the proposed risk reduction measure which includes the following matters—
+
+- (a) consideration of the risks for the safety of users of the road tunnel taking into account all design factors and traffic conditions that affect safety, including traffic characteristics and type, the length of the road tunnel, that tunnel’s geometry and the forecast of the number of heavy goods vehicles which are likely to use that tunnel each day;
+- (b) evaluation of whether the proposed measure will result in equivalent or improved protection for users of the road tunnel, to the safety requirement that it is to replace;
+- (c) identification of the potential hazards arising from the use of the proposed risk reduction measure;
+- (d) identification of the users of the road tunnel who could be affected by the hazards referred to in sub paragraph (c);
+- (e) evaluation of the probabilities of harm occurring to the persons identified in sub paragraph (d); and
+- (f) evaluation of the adequacy of the safety requirement that the proposed measure is to replace.
+
+(3) The risk analysis shall be included in the safety documentation.
+
+### 19. Derogations for innovative techniques[^key-9de0e01576b539992d9be146885fc3ef]
+
+(1) The Tunnel Manager may at any time during the design, construction or operation of a road tunnel make a request in writing to the administrative authority for a derogation from the requirements of these Regulations in relation to the—
+
+- (a) installation and use of innovative safety equipment; or
+- (b) use of innovative safety procedures,
+
+which provide an equivalent or higher level of protection than current technologies as prescribed in these Regulations.
+
+(2) A request made pursuant to paragraph (1) shall be accompanied by the following information—
+
+- (a) a description of the road tunnel in relation to which the derogation is sought including a description of any physical or operational features relevant to the request;
+- (b) a description of the proposed procedure or equipment;
+- (c) an explanation of why the proposed procedures or equipment are innovative;
+- (d) a description, and where appropriate a demonstration, of—
+  - (i) how the proposed procedure or equipment will provide equivalent or higher level of protection than the procedures or equipment required by these Regulations, and
+  - (ii) why the procedures or equipment required by these Regulations cannot or should not be used in the road tunnel; and
+- (e) a written report prepared by the inspection entity setting out its opinion of the request and stating whether or not the proposed procedure or equipment will provide an equivalent or higher level of protection than that provided by the procedures or equipment prescribed by these Regulations.
+
+(3) If the administrative authority considers that the information provided by the Tunnel Manager with a request made under paragraph (1) is insufficient to enable it to make a decision the administrative authority shall notify the Tunnel Manager in writing of the additional information it requires in order to make that decision.
+
+(4) On receiving a notification under paragraph (3) the Tunnel Manager shall provide the administrative authority with such of the additional information specified in that notification as the Tunnel Manager is reasonably able to supply and, where any of that additional information so specified is not provided, a written explanation as to why the Tunnel Manager is unable to provide it.
+
+(5) If the administrative authority considers that the use or installation of the proposed innovative safety equipment or the use of the proposed innovative safety procedures will not provide equivalent or higher level of protection to users of the road tunnel it shall refuse the request.
+
+(6) If the administrative authority decides that the request for a derogation should not be granted it shall give the Tunnel Manager reasons for that decision in writing.
+
+(7)[^key-82fd65423f95d2e4e33667051049b981] If the administrative authority considers that a derogation should, subject to the view of the national authority, be granted it shall—
+
+- (a) forward the request made and information sent under paragraphs (1), (2) and (4) to the national authority within one month after the date of receipt of that information; and
+- (b) notify the Tunnel Manager in writing.
+
+(8)[^key-4498cefed0d96b0bfd00d940bf4c0e00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-653bc285cbca7a5973aa7663cfe6f234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-d5a9f486aee4277d44949ea81b20ae56] The administrative authority must notify the Tunnel Manager in writing whether the request made under paragraph (1) has been granted or refused—
+
+- (a) where there has been a deemed refusal pursuant to paragraph 1.2.1 of Annex I, within two weeks after the date of expiry of the three month period;
+- (b) where there has been a deemed approval pursuant to paragraph 1.2.1 of Annex I, within two weeks after the date of receipt of the recommendation of the national authority;
+- (c) where the national authority’s recommendation pursuant to paragraph 1.2.1 of Annex I was negative, within two weeks after the date of the decision of the administrative authority.
+
+(11)[^key-a51f1c99b61eff997d2006c8724023cc] For the purpose of this regulation “innovative” in relation to safety equipment and safety procedures means safety equipment or safety procedures that are not provided for in these Regulations.
+
+### 20. Application of Regulations where the same person undertakes functions of different authorities[^key-c5e6ffd4cfad1d81e90010be90f2775b][^key-bc261c0b15ec3c63f3ffffbb00528f84]
+
+(1) Where these Regulations impose on one of the authorities specified in paragraph (2) any obligation to send information or documentation to another such authority, and the same person acts as both authorities, that person shall instead ensure that a complete set of records is maintained in relation to each role.
+
+(2)[^key-be641f3d82d066db1f9fafe075564261] Those authorities are—
+
+- (a) an administrative authority;
+- (b) a Tunnel Manager; and
+- (c) a national authority.
+
+### 21. Notification to the Commission[^key-015ad0a13e07571b93050808f1c3ea94]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Transport
+
+S.J. Ladyman
+
+Minister of State
+
+22nd May 2007
+
+## SCHEDULE — Signing for tunnels[^key-82a6d44a695a86801811f862a2b2f370]
+
+Regulation 2, Annex I (2.12)
+
+<table>
+<tfoot>
+<tr><td colspan="3">(a)<br><a href="https://www.legislation.gov.uk/uksi/2002/3113">S.I. 2002/3113</a>, (to which there are amendments not relevant to these Regulations).</td></tr>
+<tr><td colspan="3">(b)<br><a href="https://www.legislation.gov.uk/nisr/1997/386">S.R. 1997/386</a>.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>1.</td><td colspan="2">General requirements<br>The following are road signs and symbols to be used for road tunnels.<br>In order to facilitate international understanding of signs, the system of signs and signals prescribed in this Schedule is based on the use of shapes and colours characteristic of each class of sign and, wherever possible, on the use of graphic symbols rather than words.</td></tr>
+<tr><td>1.1</td><td colspan="2">Road signs shall be used to designate the following safety facilities in tunnels (where they have been provided):<br>lay-bys,<br>emergency exits: the same sign shall be used for all kinds of emergency exits,<br>escape routes: the two nearest emergency exits shall be signed on the sidewalls at distances of no more than 25 metres, at a height of 1.0 to 1.5 metres above escape route level, with an indication of the distances to the exits,<br>emergency stations: signs to indicate the presence of emergency phones and fire extinguishers.</td></tr>
+<tr><td>1.2</td><td colspan="2">Radio:<br>In road tunnels where users can receive information via their radio, appropriate signs placed before the entrance shall inform users on how to receive this information.</td></tr>
+<tr><td>1.3</td><td colspan="2">Signs and markings shall be designed and positioned so that they are clearly visible.</td></tr>
+<tr><td>2.</td><td colspan="2">Description of signs and panels<br>Appropriate signs shall be used, if necessary, in the advance warning area of the road tunnel, inside the tunnel and after the end of the tunnel. When designing the signs for a road tunnel, local traffic and construction conditions as well as other local conditions shall be considered.</td></tr>
+<tr><td>2.1</td><td colspan="2">Road Tunnel Sign<br>The traffic sign shown in diagram 529.1 in Schedule 1 to the TSRGD shall be used in combination with the traffic sign shown in diagram 570 in Schedule 1 to the TSRGD (with the distance varied as appropriate) at the entrance to the road tunnel.<br>For road tunnels over 3,000 metres in length, the remaining length of the tunnel shall be indicated approximately every 1,000 m.<br>The name of the tunnel may be indicated in the manner shown below.<br><a href="https://www.legislation.gov.uk/uksi/2007/1520/images/uksi_20071520_en_001">image: see source</a></td></tr>
+<tr><td>2.2</td><td colspan="2">Horizontal signing<br>Horizontal delineation should be used at the roadside edge.<br>In the case of bi-directional road tunnels, clearly visible means should be used along the median line (single or twin) separating the two directions.</td></tr>
+<tr><td>2.3</td><td colspan="2">Signs and panels for signing of facilities:</td></tr>
+<tr><td>2.3.1</td><td colspan="2">Emergency stations<br>Emergency stations shall bear informative signs which indicate the equipment available to road users, such as:</td></tr>
+<tr><td>(a)</td><td colspan="2">For an emergency telephone: the traffic signs to be used shall be those shown in diagrams 2714 and 2715 in Schedule 7 to the TSRGD;</td></tr>
+<tr><td>(b)</td><td colspan="2">The symbol to be used for a fire extinguisher shall be that shown in diagram F001 in International Standard ISO 7010:2003 relating to safety colours and safety signs - safety sings used in workplaces and public areas; and</td></tr>
+<tr><td>(c)</td><td colspan="2">In emergency stations which are separated from the road tunnel by a door, a clearly legible text, written in appropriate languages, shall indicate that the emergency station does not ensure protection in case of fire. An example is given below:<br>‘THIS AREA DOES NOT PROVIDE PROTECTION FROM FIRE<br>Follow signs to emergency exits’</td></tr>
+<tr><td>2.3.2</td><td colspan="2">Lay-bys<br>The signs to indicate lay-bys shall be the traffic sign shown in diagram 2713.1 in Schedule 7 to the TSRGD with the ‘P’ symbol omitted. Telephones and fire extinguishers shall be indicated by an additional panel or incorporated in the sign itself.</td></tr>
+<tr><td>2.3.3</td><td colspan="2">Emergency exits<br>The signs to be used to indicate ‘Emergency exits’ shall be the sign shown in diagram 2711 of Schedule 7 to the TSRGD; and<br>The sign shown in diagram 2711 in of Schedule 7 to the TSRGD shall also be used to sign the two nearest exits on the sidewalls, with the distance to those exits shown below the arrow where appropriate. This sign shall be internally illuminated.</td></tr>
+<tr><td>2.3.4</td><td colspan="2">Lane signal<br>The signs shown in diagrams 5001.1, 5001.2, 5003, 5003.1, 5005 and 5005.1 in Schedule 10 to the TSRGD shall be used for lane signals.</td></tr>
+<tr><td>2.3.5</td><td colspan="2">Variable message signing<br>Any variable message signs shall have clear indications to inform tunnel users of congestion, breakdown, accident, fire or any other hazards.</td></tr>
+<tr><td>3.</td><td colspan="2">In this Schedule “the TSRGD” means the Traffic Signs Regulations and General Directions.</td></tr>
+<tr><td>3.1</td><td colspan="2">For the purposes of the application of these Regulations to Northern Ireland-</td></tr>
+<tr><td></td><td>(a)</td><td>references in paragraphs 2.1 and 2.3.4 to the traffic signs shown in diagrams 529.1, 570, 5001.1, 5001.2, 5003, 5003.1, 5005 and 5005.1 of the TSRGD are references to signs shown in diagrams of corresponding numbers in the Traffic Signs Regulations (Northern Ireland) 1997 (“the 1997 Regulations”);</td></tr>
+<tr><td></td><td>(b)</td><td>the traffic signs shown in diagrams 2711, 2713.1, 2714 and 2715 of the TSRGD shall be deemed to be incorporated with those numbers in Schedule 7 to the 1997 Regulations together with the untitled Table below each diagram, and references in these regulations to those diagrams in the TSRGD shall be deemed to be references to those diagrams as so incorporated; and</td></tr>
+<tr><td></td><td>(c)</td><td>in relation to the Tables below each diagram referred to in sub-paragraph (b)-</td></tr>
+<tr><td></td><td>(d)</td><td>items 1, 2 and 3 shall be omitted;</td></tr>
+<tr><td></td><td>(e)</td><td>items 4 and 5 shall be renumbered 3 and 4;</td></tr>
+<tr><td></td><td>(f)</td><td>in item 3 as so renumbered (permitted variants) the items in Schedule 16 to TSRGD shall be deemed to be incorporated with those numbers in Schedule 16 to the 1997 Regulations; and</td></tr>
+<tr><td></td><td>(g)</td><td>in item 4 as so renumbered (illumination requirements) the items in Schedule 17 to TSRGD shall be deemed to incorporated with those numbers in Schedule 17 to the 1997 Regulations.</td></tr>
+</tbody>
+</table>
+
+[^key-867657981230d6656920b0b174d9efd0][^f01000][^f01001]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations implement in relation to the whole of the United Kingdom, the European Parliament and Council Directive [2004/54/EC](https://www.legislation.gov.uk/european/directive/2004/0054) on minimum safety requirements for tunnels in the trans-European road network (O.J. No. L 167, 30.4.24, p.39. A corrigendum to the Directive can be found in O.J. L.201, 7.6.2004, p. 56). The purpose of that Directive is to ensure a minimum level of safety for road users in tunnels in the trans-European road network. The Regulations apply to all United Kingdom road tunnels that are over 500 metres in length and form part of the trans-European road network.
+
+In Part I, *Regulation 1* provides for the Regulations to come into force on 22nd June 2007. *Regulation 2* deals with interpretation and definitions and introduces *the Schedule* which prescribes road signs to be used in regulated road tunnels.
+
+*Regulation 3* provides for the Regulations to apply to road tunnels that are in operation, under construction or at the design stage.
+
+Part II sets out the main requirements of the Regulations.
+
+*Regulations 4 - 14* define the role and duties of the administrative authority (regulations 4 - 7), the tunnel manager (regulations 8 - 9), the safety officer (regulations 10 - 11), inspection entities (regulations 12 - 13) and the technical approval authority (regulation 14).
+
+*Regulation 15* specifies actions to be taken to bring existing tunnels into compliance with the regulations.
+
+*Regulation 16* requires that tunnels must meet the safety requirements specified in the Regulations.
+
+*Regulations 17 - 19* set out provisions for alternative risk reduction measures, risk analyses and derogations applicable where it would otherwise not be possible to implement the Regulations.
+
+*Regulation 20* provides for good record keeping in cases where one individual occupies two roles in the management of a tunnel.
+
+*Regulation 21* provides for the UK to meets the Directive’s requirements to notify the European Commission of progress in implementing safety measures.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from Department for Transport, RLTSF3, zone 3/19, Great Minster House, 76 Marsham Street, London SW1P 4DR. A copy has been placed in the library of each House of Parliament and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website.
+
+A copy of the Transposition Note is available from Department for Transport, RLTSF3, zone 3/19, Great Minster House, 76 Marsham Street, London SW1P 4DR.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: [S.I 2005/1971](https://www.legislation.gov.uk/uksi/2005/1971).
+
+[^key-221ddcc6da6956c0ee8cc66571b6d9a9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-ac21866306269ff41f85f3b1487549c3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/1520/regulation/2) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^f00003]: Footnote: O.J. No. L 167, 30.4.2004, p 39, the corrigendum to the Road Tunnels Directive is in O.J. No. L 201, 7.6.2004, p. 56.
+
+[^key-a357e555e59e6605f9b6ec87ab3a9f05]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/2/2) inserted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/552/regulation/3)
+
+[^key-67432d36ce856c6061aa316d34ca2bd4]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/2/2) omitted (20.2.2009) by virtue of [The Road Tunnel Safety (Amendment) Regulations 2009 (S.I. 2009/64)](https://www.legislation.gov.uk/uksi/2009/64), [regs. 1](https://www.legislation.gov.uk/uksi/2009/64/regulation/1), [3](https://www.legislation.gov.uk/uksi/2009/64/regulation/3)
+
+[^key-9d03d464d498ac51113930d5bd8068f3]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/2/3) inserted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/552/regulation/4/a)
+
+[^f00004]: Footnote: [2004 c. 36](https://www.legislation.gov.uk/ukpga/2004/36).
+
+[^key-c001fc879f1ed0d3a7b4f4fe1e98699f]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/2/3) inserted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/552/regulation/4/b)
+
+[^f00005]: Footnote: O.J. L. 228, 9.9.1996, p.1 as amended by Decision [884/2004/EC](https://www.legislation.gov.uk/european/decision/2004/0884) of the European Parliament and of the Counsel (O.J.L. 167, 30.4.2004, p. 1.).
+
+[^key-84ef6b01412ac1b96dceeafcd9d870fe]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2007/1520/regulation/2A) inserted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [5](https://www.legislation.gov.uk/uksi/2021/552/regulation/5)
+
+[^key-7da08f64a2c296e6bb31302a745b0775]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/1520/regulation/3) substituted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [6](https://www.legislation.gov.uk/uksi/2021/552/regulation/6)
+
+[^key-3bdd8aeb56dda7624c9a0d820f8b5851]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/1520/regulation/4) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^f00006]: Footnote: Established by article 3(1) of the Departments (Northern Ireland) Order 1999, [S.I. 1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283).
+
+[^key-5b3b7a4cdbe61354e69d9747be3afec0]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/4/5) omitted (28.5.2021) by virtue of [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/552/regulation/7)
+
+[^key-60670cb87c85482fba5cf8d67f10fd68]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/1520/regulation/5) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-e2a4094e5eafdfa5d16a2814cb01003e]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/5/2/c) omitted (20.2.2009) by virtue of [The Road Tunnel Safety (Amendment) Regulations 2009 (S.I. 2009/64)](https://www.legislation.gov.uk/uksi/2009/64), [regs. 1](https://www.legislation.gov.uk/uksi/2009/64/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/64/regulation/4)
+
+[^key-18ef011e2619335884888664b93ed01c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/1520/regulation/6) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-1ac698699d8c2a455ce066e0e9f41b16]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/6/3) substituted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [8](https://www.legislation.gov.uk/uksi/2021/552/regulation/8)
+
+[^key-3d63ed5e2a8632796ebfe0211930f42e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/1520/regulation/7) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^f00008]: Footnote: [S.I. 1992/1215](https://www.legislation.gov.uk/uksi/1992/1215).
+
+[^f00009]: Footnote: [S.I. 1997/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276)
+
+[^key-bd39cf3c32200d060fd0ae2f52555ef4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/1520/regulation/8) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-2f3e1ed9e258f92edff338769ebc6be7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/1520/regulation/9) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-5ee6cded17080e0ee90edba0df9129b7]: Textual amendment: [Reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/9/3/b) substituted (20.2.2009) by [The Road Tunnel Safety (Amendment) Regulations 2009 (S.I. 2009/64)](https://www.legislation.gov.uk/uksi/2009/64), [regs. 1](https://www.legislation.gov.uk/uksi/2009/64/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/64/regulation/5)
+
+[^key-55d847f0e46fd12d45352bd8aeea1f9e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/1520/regulation/10) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-eaea5d9d990c33c4350639ea8c125f0d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/1520/regulation/11) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-31f896e3af37b53196a1645fa7ba258a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/1520/regulation/12) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-96333212aa9dfda990f6b32150543464]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/12/3) omitted (20.2.2009) by virtue of [The Road Tunnel Safety (Amendment) Regulations 2009 (S.I. 2009/64)](https://www.legislation.gov.uk/uksi/2009/64), [regs. 1](https://www.legislation.gov.uk/uksi/2009/64/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/64/regulation/6)
+
+[^key-437f9cee66e3636aaa447a88671e07e7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2007/1520/regulation/13) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-6fc46c559da2b4b1cff7fe53b0d3a5dc]: Textual amendment: [Reg. 13(1)-(3)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/13/1) substituted (20.2.2009) by [The Road Tunnel Safety (Amendment) Regulations 2009 (S.I. 2009/64)](https://www.legislation.gov.uk/uksi/2009/64), [regs. 1](https://www.legislation.gov.uk/uksi/2009/64/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/64/regulation/7)
+
+[^key-2e26a6b9dd3de7dec2a7684f4f0333a4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2007/1520/regulation/14) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^f00010]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00011]: Footnote: Established by article 3(1) of the Departments (Northern Ireland) Order 1999, [S.I. 1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283)
+
+[^f00012]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^key-ec1b4b22e5b0a6dd2e4cc61d6be0795f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2007/1520/regulation/15) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-e5fa75e6df7e2a274df4102e270919d4]: Textual amendment: Words in [reg. 15(7)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/15/7) substituted (20.2.2009) by [The Road Tunnel Safety (Amendment) Regulations 2009 (S.I. 2009/64)](https://www.legislation.gov.uk/uksi/2009/64), [regs. 1](https://www.legislation.gov.uk/uksi/2009/64/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/64/regulation/8)
+
+[^key-705badd6870418c3f3f0a96ab6a06c0c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2007/1520/regulation/16) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-7dbb3a133840c6af00b28cf397386e24]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2007/1520/regulation/17) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-3e1b212746d275c5dddd0c540bff4637]: Textual amendment: Words in [reg. 17(4)(b)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/17/4/b) substituted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [9](https://www.legislation.gov.uk/uksi/2021/552/regulation/9)
+
+[^key-7bd954c4f6c5c0d93a50c364e3613f95]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2007/1520/regulation/18) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-9de0e01576b539992d9be146885fc3ef]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/1520/regulation/19) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-82fd65423f95d2e4e33667051049b981]: Textual amendment: [Reg. 19(7)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/19/7) substituted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/552/regulation/10/a)
+
+[^key-4498cefed0d96b0bfd00d940bf4c0e00]: Textual amendment: [Reg. 19(8)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/19/8) omitted (28.5.2021) by virtue of [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/552/regulation/10/b)
+
+[^key-653bc285cbca7a5973aa7663cfe6f234]: Textual amendment: [Reg. 19(9)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/19/9) omitted (28.5.2021) by virtue of [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2021/552/regulation/10/c)
+
+[^key-d5a9f486aee4277d44949ea81b20ae56]: Textual amendment: [Reg. 19(10)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/19/10) substituted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2021/552/regulation/10/d)
+
+[^key-a51f1c99b61eff997d2006c8724023cc]: Textual amendment: [Reg. 19(11)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/19/11) substituted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/2021/552/regulation/10/e)
+
+[^key-c5e6ffd4cfad1d81e90010be90f2775b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/1520/regulation/20) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-bc261c0b15ec3c63f3ffffbb00528f84]: Textual amendment: [Reg. 20(1)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/20/1) substituted (20.2.2009) by [The Road Tunnel Safety (Amendment) Regulations 2009 (S.I. 2009/64)](https://www.legislation.gov.uk/uksi/2009/64), [regs. 1](https://www.legislation.gov.uk/uksi/2009/64/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/64/regulation/9)
+
+[^key-be641f3d82d066db1f9fafe075564261]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/20/2) substituted (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [11](https://www.legislation.gov.uk/uksi/2021/552/regulation/11)
+
+[^key-015ad0a13e07571b93050808f1c3ea94]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/1520/regulation/21) omitted (28.5.2021) by virtue of [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [12](https://www.legislation.gov.uk/uksi/2021/552/regulation/12)
+
+[^key-82a6d44a695a86801811f862a2b2f370]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2007/1520/schedule) in force at 22.6.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1520/regulation/1)
+
+[^key-867657981230d6656920b0b174d9efd0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2007/1520/schedule) substituted (20.2.2009) by [The Road Tunnel Safety (Amendment) Regulations 2009 (S.I. 2009/64)](https://www.legislation.gov.uk/uksi/2009/64), [regs. 1](https://www.legislation.gov.uk/uksi/2009/64/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/64/regulation/10)
+
+[^f01000]: Footnote: (a)
+
+    [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113), (to which there are amendments not relevant to these Regulations).
+
+[^f01001]: Footnote: (b)
+
+    [S.R. 1997/386](https://www.legislation.gov.uk/nisr/1997/386).

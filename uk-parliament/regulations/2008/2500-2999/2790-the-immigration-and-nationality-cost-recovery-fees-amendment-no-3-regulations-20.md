@@ -1,0 +1,155 @@
+---
+title: The Immigration and Nationality (Cost Recovery Fees) (Amendment No. 3) Regulations 2008
+id: uksi/2008/2790
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-10-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/2790
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2790/pdfs/uksiem_20082790_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2790/pdfs/uksi_20082790_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2790/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration and Nationality (Cost Recovery Fees) (Amendment No. 3) Regulations 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 2790
+
+Immigration
+
+Nationality
+
+The Immigration and Nationality (Cost Recovery Fees) (Amendment No. 3) Regulations 2008
+
+Made
+
+22nd October 2008
+
+Laid before Parliament
+
+28th October 2008
+
+Coming into force in accordance with regulation 2
+
+The Secretary of State makes the following Regulations with the consent of the Treasury in exercise of the powers conferred on her by sections 51(3) and 52(3) of the Immigration, Asylum and Nationality Act 2006[^f00001].
+
+## 1. Citation and Commencement
+
+These Regulations may be cited as the Immigration and Nationality (Cost Recovery Fees) (Amendment No. 3) Regulations 2008.
+
+**2.** (1) Subject to paragraph (2), these Regulations shall come into force on 27th November 2008.
+
+(2) Regulation 3(3) and regulation 3(4), in so far as it inserts a new Regulation 10A(1)(c), shall come into force on 1st February 2009.
+
+**3.** (1) The Immigration and Nationality (Cost Recovery Fees) Regulations 2007[^f00002] shall be amended as follows.
+
+(2) In regulation 3 (fees for leave to remain applications), for paragraph (2), substitute—
+
+> (2) The fee referred to in paragraph (1) does not apply to applications for limited leave to remain in the United Kingdom—
+>
+> - (a) for work permit employment;
+> - (b) for the purposes of employment under the Sectors-Based Scheme;
+> - (c) for Home Office approved training;
+> - (d) as a seasonal agricultural worker;
+> - (e) of a kind identified as requiring to be considered under a “Points Based System”;
+> - (f) as a retired person of independent means; or
+> - (g) as a sole representative,
+>
+> under the immigration rules.
+
+.
+
+(3) In regulation 4 (fees for leave to remain applications)—
+
+- (a) in paragraph (1)—
+  - (i) after sub-paragraph (d), omit “or”; and
+  - (ii) after sub-paragraph (e) insert—
+
+    > ;or
+    >
+    > - (f) as a Tier 4 migrant,
+
+    and
+- (b) in paragraph (2)(a), after “Home Office”, insert “where applicable”.
+
+(4) For regulation 10A (fees for entry clearance) substitute—
+
+> **10A.** (1) In the case of an application to which article 3(2)(aa) of the 2007 Order applies,
+>
+> - (a) subject to sub-paragraph (b), where the application is for entry clearance as a visitor under the immigration rules for a period of—
+>   - (i) twelve months or less in the case of an academic visitor, or
+>   - (ii) six months or less in the case of a visitor other than an academic visitor,
+>
+>     the fee is £65;
+> - (b) the fee referred to at sub-paragraph (a) will be reduced to £45 where the Secretary of State decides that the application is one to which the operation of a scheme for such a reduced fee applies;
+> - (c) where the application is for entry clearance as a Tier 4 migrant, the fee is £99;
+> - (d) subject to sub-paragraph (e), where the application is for entry clearance as a Tier 5 migrant, the fee is £99;
+> - (e) where the application is for entry clearance as a Tier 5 (Temporary Worker) migrant and is in respect of a person who is a national of a state that has ratified the Council of Europe Social Charter, the fee is £90;
+> - (f) where the application is for entry clearance as a student under the immigration rules, the fee is £99;
+> - (g) where the application is for entry clearance for passing through the United Kingdom, the fee is £45.
+>
+> (2) This regulation is subject to regulations 10B and 10C.
+
+(5) In regulation 10B (exceptions and waivers in respect of fees for entry clearance applications)—
+
+- (a) after sub-paragraph (b), insert “or”; and
+- (b) omit sub-paragraph (d) and the “or” before it.
+
+(6) For regulation 16, substitute—
+
+> **16.** Where an application to which these Regulations refer is to be accompanied by a specified fee, the application will not be considered to have been validly made unless it has been accompanied by that fee.
+
+.
+
+Phil Woolas
+
+Minister of State
+
+Home Office
+
+14th October 2008
+
+We consent
+
+Steve McCabe
+
+Dave Watts
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+22nd October 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Secretary of State specified in the Immigration and Nationality (Fees) Order 2007 ([S.I.2007/807](https://www.legislation.gov.uk/uksi/2007/807)), as amended by the Immigration and Nationality (Fees) (Amendment) Order 2008 ([S.I. 2008/166](https://www.legislation.gov.uk/uksi/2008/166)), (the “Fees Order 2007”) applications and processes in connection with immigration or nationality in respect of which she was going to charge a fee. These Regulations, which amend the Immigration and Nationality (Cost Recovery Fees) Regulations 2007 ([S.I. 2007/936](https://www.legislation.gov.uk/uksi/2007/936)), as amended by the Immigration and Nationality (Cost Recovery Fees) (Amendment) Regulations 2008 ([S.I. 2008/218](https://www.legislation.gov.uk/uksi/2008/218)) and the Immigration and Nationality (Cost Recovery Fees) (Amendment No.2) Regulations 2008 ([S.I. 2008/1337](https://www.legislation.gov.uk/uksi/2008/1337)) (the “2007 Regulations”), specify the fee for an application for:
+
+- (a) leave to remain as a Tier 4 migrant (as defined in these Regulations) (regulation 4 as amended by regulation 3(3));
+- (b) entry clearance as a Tier 4 migrant (regulation 10A, as substituted by regulation 3(4));
+- (c) entry clearance as a Tier 5 (Temporary Worker) migrant (as defined in the 2007 Regulations) made in respect of a person who is a national of a state which has ratified the Council of Europe Social Charter (a “CESC national”) (regulation 10A)
+- (d) entry clearance as an academic visitor under the immigration rules (regulation 10A); and
+- (e) entry clearance as a visitor where the Secretary of State decides that the application is one to which the operation of a scheme for a reduced entry clearance fee applies (regulation 10A).
+
+The Regulations remove the fees for the following applications (regulation 10A):
+
+- (a) entry clearance outside the immigration rules on an application by entertainers as referred to in Chapter 17 Section 3 of the Immigration Directorate’s Instructions dated April 2007;
+- (b) entry clearance outside the immigration rules on an application by sportsmen and sportswomen as referred to in Chapter 17 Section 8 of the Immigration Directorate’s Instructions dated August 2001; and
+- (c) entry clearance outside the immigration rules on an application by voluntary workers as referred to in Chapter 17 Section 9 of the Immigration Directorate’s Instructions dated July 2003.
+
+The Regulations also remove the exemption from the requirement to pay a fee for an application for entry clearance as a Tier 5 (Temporary Worker) migrant which is made in respect a CESC national or a national of a state which has ratified the Council of Europe Revised Social Charter (“CERSC national”) (regulation 10B as amended by regulation 3(5)).
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.13](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^f00002]: Footnote: [S.I. 2007/936](https://www.legislation.gov.uk/uksi/2007/936), as amended by [S.I. 2008/218](https://www.legislation.gov.uk/uksi/2008/218) and [S.I. 2008/1337](https://www.legislation.gov.uk/uksi/2008/1337).

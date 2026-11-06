@@ -1,0 +1,257 @@
+---
+title: The Single European Sky (National Supervisory Authority) Regulations 2013
+id: uksi/2013/2620
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-10-23'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/2620
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2620/pdfs/uksiem_20132620_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2620/pdfs/uksi_20132620_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2620/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Single European Sky (National Supervisory Authority) Regulations 2013
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 2620
+
+Civil Aviation
+
+The Single European Sky (National Supervisory Authority) Regulations 2013
+
+Made
+
+23rd October 2013
+
+Laid before Parliament
+
+29th October 2013
+
+Coming into force
+
+12th December 2013
+
+The Secretary of State is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to air transport.
+
+In exercise of the powers conferred by that section the Secretary of State makes the following Regulations.
+
+## 1. Citation, commencement and revocation[^key-413a75bf6ac31a9e923babf25b2516b7]
+
+(1) These Regulations may be cited as the Single European Sky (National Supervisory Authority) Regulations 2013 and come into force on 12th December 2013.
+
+(2) The Single European Sky (National Supervisory Authority) Regulations 2004[^f00003] are revoked.
+
+(3) The Single European Sky (Functions of the National Supervisory Authority) Regulations 2006[^f00004] are revoked.
+
+## 2. Interpretation[^key-6d4ecd477964f1a5597959bb14a80ecc]
+
+In these Regulations—
+
+- “the CAA” means the Civil Aviation Authority;
+- “the framework Regulation” means Regulation [(EC) No 549/2004](https://www.legislation.gov.uk/european/regulation/2004/0549)[^f00005] of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the Single European Sky;
+- “the interoperability Regulation” means Regulation [(EC) No 552/2004](https://www.legislation.gov.uk/european/regulation/2004/0552)[^f00006] of the European Parliament and of the Council of 10 March 2004 on the interoperability of the European Air Traffic Management network;
+- “the service provision Regulation” means Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/european/regulation/2004/0550)[^f00007] of the European Parliament and of the Council of 10 March 2004 on the provision of air navigation services in the Single European Sky;
+- [^key-0bf492513945dc51856997dda2dd47d0]...
+
+## 3. National Supervisory Authority[^key-2f5777619dbc1c016f82027697c8d1d0]
+
+(1) The CAA is the national supervisory authority for the purpose of performing the tasks and functions assigned to such an authority under the measures listed in Schedule 1.
+
+(2) Section 4 of the Civil Aviation Act 1982[^f00008] (general objectives of the CAA) does not apply to the tasks and functions to which paragraph (1) applies or to which Article 12(4) of the service provision Regulation applies[^key-279f057dd2d6962e6cd5d3aa85b7ee2e].
+
+## 4. Designation of the competent authority[^key-e39bb8fce864d290cbcebbb0c03c7205]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Tasks and functions of the CAA under the service provision Regulation[^key-36fa1ed9ddfcc893b7b4a2952092ebce]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Tasks and functions of the CAA under the interoperability Regulation[^key-3f5dc63ddd3dd3a3382964b485d8ed20]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Regional cooperation[^key-c8f504e33da80c18a5807789401fa639]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Review[^key-05a9c4bd187589d205d5972e81ff1633]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2)[^key-0122348d8499a51c4239bd4dad18f8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State
+
+Robert Goodwill
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE 1 — List of measures for which the CAA is the National Supervisory Authority
+
+Regulation 3(1)
+
+**1.**[^key-4cb9c9c32f0299701d873c8cd1d78c32] The framework Regulation.
+
+**2.**[^key-c211935d9b788a1cca2978e070e72fee] The service provision Regulation.
+
+**3.**[^key-43db91c2333826d9fd59c3cb60aef374] Regulation [(EC) No 551/2004](https://www.legislation.gov.uk/european/regulation/2004/0551)[^f00009] of the European Parliament and of the Council of 10 March 2004 on the organisation and use of the airspace in the Single European Sky (the airspace Regulation).
+
+**4.**[^key-5152892c683a29c5320fd17e9dabf454] The interoperability Regulation.
+
+## SCHEDULE 2 — List of implementing rules made under Article 3 of the interoperability Regulation for which the CAA is the enforcing authority[^key-929ee7dd876dfe362ef02dd8b4019618]
+
+**No longer in force.**
+
+Regulation 6(1)
+
+**1.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23.**[^key-929ee7dd876dfe362ef02dd8b4019618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Single European Sky (National Supervisory Authority) Regulations 2004 ([S.I. 2004/1958](https://www.legislation.gov.uk/uksi/2004/1958)) (the 2004 Regulations) and the Single European Sky (Functions of the National Supervisory Authority) Regulations 2006 ([S.I. 2006/3104](https://www.legislation.gov.uk/uksi/2006/3104)) (the 2006 Regulations) reflecting the updates introduced by Regulation [(EC) 1070/2009](https://www.legislation.gov.uk/european/regulation/2009/1070) (OJ L 300, 14.11.2009, p.34).
+
+The legislative basis for the European Single European Sky initiative consists of four high-level EU Regulations: the framework Regulation (No 549/2004) OJ L 96, 31.3.2004, p.1, the service provision Regulation (No 550/2004) OJ L 96, 31.3.2004, p.10, the airspace Regulation (No 551/2004) OJ L 96, 31.3.2004, p.20 and the interoperability Regulation (No 552/2004) OJ L 96, 31.3.2004, p.26. The 2004 Regulations and the 2006 Regulations implemented certain provisions of the EU Regulations. The EU Regulations have since been amended by Regulation [(EC) 1070/2009](https://www.legislation.gov.uk/european/regulation/2009/1070) of the European Parliament and of the Council of 21 October 2009. These Regulations reflect the changes made by those amending EU Regulations.
+
+Regulation 1 revokes the 2004 Regulations and the 2006 Regulations.
+
+Regulation 3(1) provides for the continuation of the Civil Aviation Authority (CAA) as the United Kingdom’s national supervisory authority for the purpose of performing the tasks and functions assigned to such an authority under the measures listed in Schedule 1 to these Regulations. By virtue of regulation 3(2), section 4 of the Civil Aviation Act 1982 does not apply to the tasks and functions to which regulations 3(1) and 4 apply.
+
+Regulation 4 provides for the continuation of the CAA as the competent authority for the purpose of Article 12(4) of the service provision Regulation. As such a competent authority, the CAA has a right of access to the accounts of those providing air navigation services in the United Kingdom.
+
+Regulation 5 requires the CAA to perform the tasks and functions specified in Table 1. Those relate to the mutual recognition of certification, the designation of air traffic services and meteorological services in the United Kingdom and its airspace, informing the Commission and other Member States of any decisions relating to such designations, and the approval of working relationships between air traffic service providers and between certain meteorological service providers.
+
+Regulation 6 requires the CAA to perform the tasks and functions in and arising under the interoperability Regulation. The first entry in Table 2 confers responsibility on the CAA for enforcement of implementing rules made under Article 3 of the interoperability Regulation that are listed in Schedule 2. The second entry relates to the declaration by the CAA of systems and constituents of the European Air Traffic Management Network (EATMN) as compliant with the essential requirements and exempt from the requirements of EU declarations on conformity and verification under the interoperability Regulation.
+
+Regulation 7 authorises the CAA to conclude arrangements with other national supervisory authorities regarding the division of responsibilities in relation to supervisory tasks and functions.
+
+Regulation 8 requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+A regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Department for Transport, Great Minster House, 33 Horseferry Road, London, SW1P 4DR and is annexed to the Explanatory Memorandum which is available alongside this instrument at http://www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51), regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^key-413a75bf6ac31a9e923babf25b2516b7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1) in force at 12.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 2004/1958](https://www.legislation.gov.uk/uksi/2004/1958).
+
+[^f00004]: Footnote: [S.I. 2006/3104](https://www.legislation.gov.uk/uksi/2006/3104).
+
+[^key-6d4ecd477964f1a5597959bb14a80ecc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2620/regulation/2) in force at 12.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1)
+
+[^f00005]: Footnote: OJ L 96, 31.3.2004, p.1. This Regulation was amended by Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/european/regulation/2009/1070) of the European Parliament and of the Council of 21 October 2009 (OJ No L 300, 14.11.2009, p.34.)
+
+[^f00006]: Footnote: OJ L 96, 31.3.2004, p.26. This Regulation was amended by Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/european/regulation/2009/1070) of the European Parliament and of the Council of 21 October 2009 (OJ No L 300, 14.11.2009, p.34).
+
+[^f00007]: Footnote: OJ L 96, 31.3.2004, p.10. This Regulation was amended by Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/european/regulation/2009/1070) of the European Parliament and of the Council of 21 October 2009 (OJ No L 300, 14.11.2009, p.34).
+
+[^key-0bf492513945dc51856997dda2dd47d0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2620/regulation/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [392(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/392/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2f5777619dbc1c016f82027697c8d1d0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2620/regulation/3) in force at 12.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1)
+
+[^f00008]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). Section 4 has been amended but those amendments are not relevant to these Regulations.
+
+[^key-279f057dd2d6962e6cd5d3aa85b7ee2e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/3/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [392(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/392/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e39bb8fce864d290cbcebbb0c03c7205]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/2620/regulation/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [392(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/392/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-36fa1ed9ddfcc893b7b4a2952092ebce]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2620/regulation/5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [392(5)](https://www.legislation.gov.uk/uksi/2019/459/regulation/392/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3f5dc63ddd3dd3a3382964b485d8ed20]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/2620/regulation/6) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [392(6)](https://www.legislation.gov.uk/uksi/2019/459/regulation/392/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c8f504e33da80c18a5807789401fa639]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/2620/regulation/7) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [392(7)](https://www.legislation.gov.uk/uksi/2019/459/regulation/392/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-05a9c4bd187589d205d5972e81ff1633]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/2620/regulation/8) in force at 12.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1)
+
+[^key-0122348d8499a51c4239bd4dad18f8b7]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/8/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [392(8)](https://www.legislation.gov.uk/uksi/2019/459/regulation/392/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4cb9c9c32f0299701d873c8cd1d78c32]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/2620/schedule/1/paragraph/1) in force at 12.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1)
+
+[^key-c211935d9b788a1cca2978e070e72fee]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/2620/schedule/1/paragraph/2) in force at 12.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1)
+
+[^key-43db91c2333826d9fd59c3cb60aef374]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/2620/schedule/1/paragraph/3) in force at 12.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1)
+
+[^f00009]: Footnote: OJ L 96, 31.3.2004, p.20. This Regulation was amended by Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/european/regulation/2009/1070) of the European Parliament and of the Council of 21 October 2009 (OJ No L300, 14.11.2009, p.34.)
+
+[^key-5152892c683a29c5320fd17e9dabf454]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/2620/schedule/1/paragraph/4) in force at 12.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2620/regulation/1/1)
+
+[^key-929ee7dd876dfe362ef02dd8b4019618]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2620/schedule/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [392(9)](https://www.legislation.gov.uk/uksi/2019/459/regulation/392/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

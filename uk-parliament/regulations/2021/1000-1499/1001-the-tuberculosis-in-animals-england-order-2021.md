@@ -1,0 +1,1203 @@
+---
+title: The Tuberculosis in Animals (England) Order 2021
+id: uksi/2021/1001
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-09-06'
+text_date: '2025-07-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2021/1001
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/1001/pdfs/uksi_20211001_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/1001/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tuberculosis in Animals (England) Order 2021
+
+> Text as at 2025-07-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2021 No. 1001
+
+Animals, England
+
+Animal Health
+
+The Tuberculosis in Animals (England) Order 2021
+
+Made
+
+6th September 2021
+
+Coming into force
+
+1st October 2021
+
+The Secretary of State makes this Order in exercise of the powers conferred by sections 1, 7(1), 8(1), 15(4), 25 and 88(2) of the Animal Health Act 1981[^f00001] and now vested in the Secretary of State[^f00002].
+
+## PART 1 — Introductory provisions
+
+### 1. Citation, commencement, extent and application[^key-2cdbe312cc49086c44d4a2fc10935091]
+
+(1) This Order may be cited as the Tuberculosis in Animals (England) Order 2021 and comes into force on 1st October 2021.
+
+(2) This Order extends to England and Wales.
+
+(3) This Order applies in England only.
+
+(4) Part 2 of this Order applies in relation to—
+
+- (a) any bovine animal or porcine animal;
+- (b) any animal of a caprine or ovine species;
+- (c) any camelid; and
+- (d) any deer.
+
+(5) Part 3 of this Order applies only in relation to bovine animals.
+
+### 2. Interpretation[^key-7a27d5d130e02dc5ff1e18afd052692d]
+
+(1) In this Order—
+
+- “the Act” means the Animal Health Act 1981;
+- “approved collecting centre” has the meaning given by article 22(1)(c);
+- “approved disinfectant” means a disinfectant that is approved for use against bovine tuberculosis in accordance with the Diseases of Animals (Approved Disinfectants) (England) Order 2007[^f00003];
+- “approved finishing unit” has the meaning given by article 22(1)(b);
+- “approved TB slaughter gathering” means a slaughter market or a slaughter collection that is additionally approved for the sale of TB restricted cattle to slaughter;
+- “approved veterinary surgeon” means a veterinary surgeon who has been approved by the Secretary of State under article 3;
+- “bovine animal” means domestic cattle of the genus *Bos*, as well as captive bovines of the genera *Bubalus* and *Bison*;
+- “camelid” means any species of South American camelid including llama, alpaca, vicuna and guanaco;
+- “carcase” includes—
+  - (a) any part of an animal to which Part 2 applies;
+  - (b) any part of any other farmed or pet mammal; and
+  - (c) for the purposes of article 6 only, any part of a wild deer;
+- “collecting centre” means premises, other than a market, used for the intermediate reception of animals intended to be moved elsewhere;
+- “deer” means a deer of any species that is managed by a keeper (including deer that are managed on enclosed park land), and, for the purposes of article 6 only, includes wild deer;
+- “exempt finishing unit” has the meaning given by article 22(1)(a);
+- “exempt market” has the meaning given by article 21(1);
+- “finishing unit” means premises where bovine animals are fattened in readiness for being sent to slaughter;
+- “inconclusive reactor” means an animal which has revealed a non-negative reading when tested for tuberculosis, but is not a reactor;
+- “keeper”, in relation to an animal, means any person who owns or is responsible for the animal, whether on a permanent or temporary basis;
+- “licensed finishing unit” means a discrete, self-contained holding in the low-risk area—
+  - (a) where all the bovine animals are permanently housed on the unit under movement restriction until they can be moved to slaughter either directly or through an approved TB slaughter gathering; and
+  - (b) which is licensed by a veterinary inspector for the fattening and finishing of bovine animals that do not come from restricted herds;
+- “low-risk area” means any of the counties listed in Schedule 1;
+- “officially tuberculosis-free status”, in relation to a bovine herd, means the status derived from satisfying the conditions laid down by the Secretary of State to enable cattle to be traded without restrictions on movement relating to tuberculosis;
+- “porcine animal” does not include wild boar;
+- “[^key-aa81fbbe68c75dc98c8806db89ae4daa]**post-movement skin test**” means a skin test carried out in accordance with article 20;
+- “premises” includes any land or building;
+- “pre-movement test” means a skin test carried out in accordance with article 19;
+- “reactor” means an animal that produces a reaction to a relevant test which is consistent with its being infected with tuberculosis;
+- “relevant test” means a skin test or any other diagnostic test for tuberculosis approved by the Secretary of State for use on a particular species of animal;
+- “restricted herd” means a herd that is under a movement restriction imposed under this Order or any Order revoked by this Order;
+- “show” means an event at which animals are exhibited but not for the purpose of sale;
+- “skin test” means a single intradermal comparative tuberculin test for tuberculosis using bovine and avian tuberculin;
+- “slaughter collection” means an event at which animals are gathered for the purpose of onward consignment directly to slaughter in Great Britain;
+- “slaughter market” means an event at which animals are gathered for the purpose of a sale before onward consignment directly to slaughter in Great Britain;
+- “[^key-2edd52999e9f03234bffa987ea21cec3]**specified area**” means any of the counties or civil parishes and non-civil parish areas[^key-f90c5781b98faa949e556637bb6113f1] listed in Schedule 3;
+- “suspected animal” means an animal that is suspected of being infected with tuberculosis, and includes a reactor;
+- “TB restricted cattle” means cattle that are under a movement restriction imposed under this Order;
+- “tuberculosis” means infection with *Mycobacterium bovis* (*M.* *bovis*);
+
+(2) For the purposes of articles 19 and 20, a skin test is applied on the date bovine and avian tuberculin is injected into a bovine animal.
+
+### 3. Approval of veterinary surgeons[^key-b5a83d0e334672d5d68c8705d011284e]
+
+(1) The Secretary of State may approve a veterinary surgeon where—
+
+- (a) the veterinary surgeon has undertaken any training as required by the Secretary of State; and
+- (b) the Secretary of State is of the opinion that the veterinary surgeon is suitable to carry out functions conferred on an approved veterinary surgeon by this Order.
+
+(2) The Secretary of State may by notice revoke any approval of a veterinary surgeon approved under this article, giving reasons for the revocation.
+
+### 4. Extension of definition of “disease” and power to slaughter animals affected with tuberculosis[^key-b69b6f74d07a14b1e5288bffa534e7d1][^key-3b70b6334c77ffa33f5e088e986863e3]
+
+(1)[^key-62db145864a0c6a13a9022184aaf34aa] For the purposes of the Act, the definition of “disease” in section 88 of the Act is extended so as to include tuberculosis.
+
+(2)[^key-0914346b87e45f1a13cb67d2fabdfcbb] Section 32 of the Act (power to slaughter animals) applies to that disease.
+
+## PART 2 — Measures applicable to animals specified in article 1(4)
+
+### 5. Notification of suspected disease[^key-acc67fc29526b2982a87c1b3e333daca]
+
+(1) Any of the following who suspects that an animal has or may have tuberculosis must give immediate notice of that suspicion to the Secretary of State—
+
+- (a) the keeper of an animal;
+- (b) a person who, in the course of practice as a veterinary surgeon, examines or inspects an animal; or
+- (c) a person who, in the course of their duty, inspects an animal for any purpose.
+
+(1A)[^key-1b89da57f9050906350878bbb1b8be23] A person, other than the keeper, who is making a notification under paragraph (1) must also notify the keeper of their suspicion.
+
+(2) Pending the conclusion of the veterinary inquiry in accordance with article 7, including the service of a notice under that article, a keeper who has either[^key-fb1027f2a22df6a96f4fa3e5c7057c0f] made a notification under paragraph (1) or received a notification under paragraph (1A)[^key-bece95508c748d4a33bd57dac7769891] must not move the animal to which the notification relates, or allow it to be moved, from the premises on which it is located, and must immediately after that notification—
+
+- (a) isolate it as far as practicable from other animals; and
+- (b) adopt precautions with respect to milk produced by that animal as if a notice under article 7(3) had already been served.
+
+### 6. Notification of suspected disease in a carcase[^key-5c61ae8436668503a9dd1494cd540776]
+
+(1) Any of the following who suspects that a carcase is or may be infected with tuberculosis must give immediate notice of such suspicion to the Secretary of State—
+
+- (a) a person in possession or charge of the carcase;
+- (b) a veterinary surgeon who examines the carcase;
+- (c) a person who inspects the carcase for any purpose, whilst acting in the course of their duty.
+
+(2) Following the giving of a notice under paragraph (1), the carcase must be detained on the premises on which it was located at the time when the notification was given by—
+
+- (a) the person who gave the notification; or, where it is not practicable for that person to do so,
+- (b) the person in occupation of the premises on which the carcase was located at the time when the notification was given,
+
+unless a veterinary inspector otherwise directs[^f00004].
+
+(3) A person who suspects that a carcase is or may be infected with tuberculosis must not move it from the location where it was found, examined or inspected, and—
+
+- (a) that person; or, where it is not practicable for that person to do so,
+- (b) the person in occupation of the premises on which the carcase was found, examined or inspected,
+
+must isolate it as far as practicable from any animal or other farmed or pet mammal, until it has been examined by a veterinary inspector.
+
+### 7. Veterinary inquiry[^key-b084388a3fea0f783f0bdc7bde1bd82e]
+
+(1) Where a veterinary inspector has reason to believe that there is present on any premises—
+
+- (a) an animal which is, or might have been, exposed to infection by tuberculosis, infected with tuberculosis or a suspected animal (other than a reactor), or
+- (b) the carcase of an animal that is infected with or suspected of being infected with tuberculosis or has been exposed to infection by tuberculosis,
+
+the veterinary inspector must, with all practicable speed, carry out a veterinary inquiry as to the existence of tuberculosis.
+
+(2) For the purpose of such an inquiry a veterinary inspector may—
+
+- (a) examine any animal or carcase;
+- (b) carry out such tests and take such samples from any animal or carcase as the veterinary inspector considers necessary for the purpose of diagnosis; and
+- (c) paint, stamp, clip, tag or otherwise mark any animal or carcase.
+
+(3) Where tuberculosis cannot be discounted following the veterinary inquiry, the veterinary inspector must serve a notice requiring the keeper—
+
+- (a) to detain the animal in accordance with the requirements of the notice and keep it isolated from other animals;
+- (b) where appropriate, to take steps to ensure that any milk produced by the animal is not mixed with other milk or fed untreated to any mammal, and—
+  - (i) is discarded; or
+  - (ii) is treated by being boiled, pasteurised or sterilized;
+- (c) thoroughly to cleanse and scald with steam or boiling water any utensil with which untreated milk has been in contact before the utensil is used again; and
+- (d) to ensure that no animal is moved onto or off such part of the premises as the notice may specify except under the authority of a licence issued by a veterinary inspector.
+
+(4) A notice served under paragraph (3) must also specify what use may be made of milk which has been treated by being boiled, pasteurised or sterilized.
+
+### 8. Tuberculosis testing[^key-823a331fa58d20693ea40752f31bd82e]
+
+(1) The Secretary of State may, by notice served on the keeper of any animal, require the keeper to have that animal tested for tuberculosis with a relevant test by a specified date.
+
+(2) Where there has been a failure to test an animal in accordance with a notice served under paragraph (1), the Secretary of State may, by notice served on the keeper of that animal, prohibit the movement of animals, or of such animals as are specified in the notice, onto or off the premises or any part of them, except under the authority of a licence issued by a veterinary inspector.
+
+(3) The keeper of an animal must comply with all reasonable requirements of an inspector or an approved veterinary surgeon with a view to facilitating—
+
+- (a) the examination of that animal by that inspector or approved veterinary surgeon;
+- (b) the application to that animal of any relevant test or the reading of any skin test; or
+- (c) the valuation of that animal (if appropriate);
+
+and in particular must arrange at the keeper’s own expense for the collection, penning and securing of any such animal if so required by the inspector or approved veterinary surgeon.
+
+(4) The keeper of an animal must comply with all reasonable requirements of a person certified by the Secretary of State under article 5(3)(a) of the Veterinary Surgery (Exemptions) Order 2015[^f00005] who operates under the direction of an inspector or approved veterinary surgeon.
+
+(5) Without prejudice to any proceedings for an offence under this Order, [^key-b665cc1ed4da2aafae350848cc857f33]... where there has been a failure to test an animal in accordance with a notice issued under paragraph (1)—
+
+- (a) the Secretary of State may take or cause to be taken all the steps that may be necessary to facilitate the examination, testing and, if appropriate, the valuation of that animal (including the removal of the animal from the premises on which it is being kept), and
+- (b) the amount of any expenses reasonably incurred by the Secretary of State for the purpose of making good the default is recoverable by the Secretary of State from the person in default.
+
+(6) The keeper of a bovine animal is subject to the requirements specified in paragraph (7) where—
+
+- (a) a relevant test has been administered to the animal;
+- (b) the result of that test has been read by an inspector or an approved veterinary surgeon and communicated to the keeper; and
+- (c) the inspector or the approved veterinary surgeon is satisfied that the test reading reveals the animal to be a reactor, or an inconclusive reactor.
+
+(7) The requirements are—
+
+- (a) that no bovine animal be moved on or off the premises on which the reactor, or inconclusive reactor, is being kept except under the authority of a licence issued by an inspector;
+- (b) to ensure that every reactor, or inconclusive reactor, is isolated from other animals;
+- (c) to permit every reactor to be marked by the person who read the relevant test or by an officer of the Secretary of State;
+- (d) not to place any milk from a reactor in any bulk milk tank; and
+- (e) where the reactor resides on premises with a milking herd, to inform every buyer who buys milk from that herd of the loss of officially tuberculosis-free status.
+
+(8) An inspector may at any time by notice amend or disapply the requirement referred to in paragraph (7)(a) or (b).
+
+(9) The Secretary of State may treat a bovine animal as a suspected animal where the keeper has failed to have that animal tested as required by a notice served under paragraph (1).
+
+(10) The Secretary of State may treat a bovine animal (other than a bison or buffalo) as a suspected animal where for reasons of practicability the person allocated to carry out the test does not consider it safe to test the animal due to—
+
+- (a) the animal’s wild or aggressive propensity; or
+- (b) the lack of adequate testing facilities.
+
+(11) The inspector or approved veterinary surgeon reading the result of a relevant test which reveals a reactor, or inconclusive reactor, must report such test result to the Secretary of State as soon as reasonably practicable.
+
+### 9. Tuberculosis test records[^key-820ffe76dc45d245246f1dcec05809b6]
+
+(1) Where a skin test has been applied to an animal, the Secretary of State must, as soon as practicable after the results of the test have been read by an inspector or approved veterinary surgeon, give the keeper of that animal a written record of the results.
+
+(2) Paragraph (1) does not apply in relation to an animal the movement of which is, or remains, prohibited under this Order following the test.
+
+(3) The keeper of any animal to which paragraph (1) relates must—
+
+- (a) retain the record of the results of the test for a period of three years and 60 days following the date on which bovine and avian tuberculin is injected; and
+- (b) produce such record when requested to do so by an inspector.
+
+### 10. Prohibitions[^key-eb02bd04e922267c64b0ac19864b91a5]
+
+(1) A person must not vaccinate an animal against tuberculosis without the written consent of the Secretary of State.
+
+(2) A person must not treat an animal for tuberculosis without the written consent of the Secretary of State.
+
+(3) A person must not perform a test for tuberculosis on an animal except with the written consent of the Secretary of State, and a person to whom any such consent is given must, as soon as that person knows the result of the test, report that result immediately to the Secretary of State.
+
+(4) A person must not interfere with or obstruct the application or the reading of a relevant test.
+
+(5) Where a relevant test has been applied to an animal, a person must not, except under the authority of a licence issued by a veterinary inspector, move that animal from the premises at which the test was administered until a negative result has been read by an inspector or approved veterinary surgeon and the keeper has been informed of that result.
+
+### 11. Notification of intended slaughter of animals[^key-763879086931441083eda96c90335b64]
+
+(1) Where the Secretary of State exercises powers conferred by section 32(1) of the Act to slaughter an animal infected with tuberculosis or a suspected animal, the Secretary of State may—
+
+- (a) by notice require the keeper to detain the animal prior to removal and slaughter;
+- (b) arrange for the disposal of the animal’s carcase.
+
+(2) Where a notice has been served under paragraph (1), a person must not move the animal, or cause or permit it to be moved, off the part of the premises on which it is required by the notice to be detained, other than to remove it to slaughter, except under the authority of a licence issued by an inspector.
+
+### 12. Precautions against the spread of infection[^key-a0b9b865ba4816ff4ac04e3795c51ea8]
+
+(1) Where a veterinary inspector is satisfied that any animal kept on any premises is infected with tuberculosis or is a suspected animal, or where tuberculosis has been identified on any premises, the veterinary inspector may by notice require the keeper of that animal or the person in occupation of the premises (as appropriate)—
+
+- (a) to treat and store manure or slurry from any place which has been used by any such animal, in accordance with the requirements of the notice;
+- (b) not to spread any manure or to spray or spread any slurry from any place which has been used by any such animal, otherwise than in accordance with the requirements of the notice;
+- (c) not to remove manure, slurry or other animal waste from the premises except under the authority of a licence issued by an inspector;
+- (d) to take such steps as may be reasonably practicable to prevent any animal kept on the premises from infecting any animal being kept on any adjoining premises;
+- (e) to arrange for the isolation of any animal specified in the notice on any specified part of the premises;
+- (f) to ensure that any part of the premises specified in the notice is not used by any animal on the premises, or by any such animal as may be specified;
+- (g) to cleanse and disinfect with an approved disinfectant within such time and in such manner as may be specified—
+  - (i) such part of the premises as may be specified in the notice; and
+  - (ii) all utensils and other articles used for or about an animal to which the notice relates;
+- (h) to adopt precautions with respect to the risk of spreading tuberculosis through—
+  - (i) the feeding of unpasteurised milk from a restricted herd to any mammal;
+  - (ii) keeping milk from herds that are subject to restrictions under this Order separate from milk from animals not so restricted.
+
+(2) If any person on whom a notice is served under paragraph (1) fails to comply with the requirements of the notice, the Secretary of State may—
+
+- (a) delay the lifting of movement restrictions imposed under article 7(3), 8(2) or 8(7) until the requirements of the notice have been completed to the satisfaction of a veterinary inspector;
+- (b) without prejudice to any proceedings arising out of such default, carry out the requirements of the notice or cause them to be carried out, and the amount of any expenses reasonably incurred by the Secretary of State for the purpose of making good the default is recoverable by the Secretary of State from the person in default.
+
+### 13. Suspected animals in markets, shows etc[^key-589b157f17af113f37fc73f1f1e954c4]
+
+(1) Where a veterinary inspector reasonably believes that an animal on any premises at which a show, exhibition, market, sale or fair is being held is infected with tuberculosis, is a suspected animal or has been exposed to infection by tuberculosis, that veterinary inspector may—
+
+- (a) by notice served on the keeper of the animal, require that animal to be removed from those premises and taken—
+  - (i) to a slaughterhouse for immediate slaughter;
+  - (ii) back to the premises from which the animal was brought to the show, exhibition, market, sale or fair; or
+  - (iii) to such other premises as may be approved by the veterinary inspector for the purpose; and
+- (b) by notice served on the person in charge of the premises—
+  - (i) require that person to ensure that any part of the premises specified in the notice is not used by any other animal for such period as may be specified in the notice; and
+  - (ii) require that person within such time and in such manner as may be specified in the notice—
+    - (aa) to cleanse and disinfect with an approved disinfectant such part of the premises as may be specified in the notice; and
+    - (bb) to dispose of any manure, slurry or other animal waste, straw, litter or other matter that has, or might have, come into contact with the infected or suspected animal or any animal exposed to infection by tuberculosis.
+
+(2) Where an animal is moved in accordance with paragraph (1)(a)(ii) or (iii), the keeper must immediately put it into isolation and must not move it from the premises again except under the authority of a licence issued by an inspector.
+
+(3) If any person on whom a notice is served under paragraph (1)(b) fails to comply with the requirements of the notice, the Secretary of State may, without prejudice to any proceedings arising out of such default, carry out the requirements of the notice or cause them to be carried out, and the amount of any expenses reasonably incurred by the Secretary of State for the purpose of making good the default is recoverable by the Secretary of State from the person in default.
+
+### 14. Control of infection from other animals[^key-ee48df7cb8f7eb2af03a69b64c5e6d34]
+
+(1) Where a veterinary inspector reasonably believes that an animal kept on any premises is or may be infected with tuberculosis, that veterinary inspector may serve a notice on the occupier of such premises.
+
+(2) A notice served under paragraph (1) may—
+
+- (a) require the occupier to keep the animal under control in such manner as may be specified in the notice or to confine it to such part of the premises as may be specified; and
+- (b) prohibit the movement of animals onto or off such premises, except under the authority of a licence issued by an inspector.
+
+(3) If any person on whom a notice is served under paragraph (1) fails to comply with the requirements of the notice, the Secretary of State may, without prejudice to any proceedings arising out of such default, carry out the requirements of the notice or cause them to be carried out, and the amount of any expenses reasonably incurred by the Secretary of State for the purpose of making good the default is recoverable by the Secretary of State from the person in default.
+
+### 15. Marking of animals[^key-6f24f1c8a8d185458398bfcbda30b0c1]
+
+(1) Where an inspector or an approved veterinary surgeon so directs, the keeper must mark an animal in the manner required by the inspector or approved veterinary surgeon.
+
+(2) An inspector or approved veterinary surgeon may paint, stamp, clip, tag or otherwise mark an animal for the purpose of identification of tested animals.
+
+(3) A person must not change or interfere with any action taken under this article without authorisation by an inspector or an approved veterinary surgeon.
+
+### 16. Identification and movement of deer[^key-7ea9238ea2c441f90be62690c7aa2f23]
+
+(1) A person must not move a deer onto or off any premises unless—
+
+- (a) the deer is identified by an ear tag in a manner approved by the Secretary of State;
+- (b) the move is made under the authority of a licence granted under the Disease (Control) (England) Order 2003[^f00007]; and
+- (c) the move is recorded in accordance with the Movement of Animals (Records) Order 1960[^f00008].
+
+(2) A person must not move the carcase of a deer onto or off any premises other than in a manner approved by the Secretary of State.
+
+(3) A person must not expose a deer for sale or cause or permit it to be exposed for sale in any market or sale-yard unless—
+
+- (a) the deer has been identified in accordance with the provisions of paragraph (1)(a); and
+- (b) such identification is so maintained as to be clearly legible.
+
+### 17. Identification of M. bovis in a laboratory[^key-838a76ad22856ef6e5dc606b04e534df]
+
+(1) Where the presence of the organism *M.* *bovis* is identified by a laboratory examination of a sample taken from any mammal (except a human being) or from the carcase, products or surroundings of any such mammal, the person in charge of that laboratory must immediately inform the Secretary of State.
+
+(2) But there is no such duty to notify where *M. bovis* is present in the sample as a result of its deliberate introduction as part of research involving the use of that organism.
+
+### 18. Production of licences[^key-dd7b73a2e80e8728d2ae2117a5d4f6f3]
+
+Where an animal is moved under the authority of a licence issued under this Order, the person in charge of the animal being moved must, on a demand made by a veterinary inspector—
+
+- (a) give their name and address;
+- (b) produce the licence (other than where reliance is on a general licence); and
+- (c) allow a copy of that licence to be taken.
+
+## PART 3 — Measures applicable to bovine animals
+
+### 19. Pre-movement testing[^key-9cbade4f723b80f221866ba56f000a9c]
+
+(1) Subject to paragraphs (3) and (4), a person must not move a bovine animal from any premises, unless—
+
+- (a) a skin test has been applied to it no more than 60 days before the date of movement; and
+- (b) the results of the test have been read by a veterinary inspector or an approved veterinary surgeon and that veterinary inspector or approved veterinary surgeon has confirmed to the keeper that the test reading did not reveal the animal to be a reactor or an inconclusive reactor.
+
+(2) Where a reading of the test in paragraph (1)(b) does not yield a negative result for tuberculosis, the requirements in article 8(7) and the powers of an inspector in article 8(8) apply.
+
+(3) Bovine animals of the following descriptions do not require a skin test prior to movement from the premises on which they are being kept—
+
+- (a) animals in a herd that is subject to routine testing for tuberculosis less frequently than annually;
+- (b) animals that are under 42 days old at the date of the movement;
+- (c) animals that are from an area in which they would normally only require testing less frequently than annually, but are subject to routine annual testing for the following public health reasons only—
+  - (i) they are on a farm considered by the Secretary of State to be a farm that is open for visits by the public;
+  - (ii) they are part of a herd from which the Secretary of State has approved the sale of raw cow’s milk for drinking directly to the end consumer, either by retail sale of bottled milk or as part of an on-farm catering business; or
+  - (iii) they are part of a herd from which raw cow’s milk is regularly used for the manufacture of unpasteurised cheese or other unpasteurised dairy products; and
+- (d) animals at a licensed semen collection centre[^f00009].
+
+(4) Paragraph (1) does not apply to the following movements—
+
+- (a) movements specified in Schedule 2; or
+- (b) any movement under the authority of a licence issued under this Order.
+
+### 20. Post-movement skin testing[^key-2b68cb0664903c6ec1fef933f2856d5c][^key-7a9a1f12ca27846ebb03cecb1901310a]
+
+(1)[^key-762f44af378d78f755775c4cc52355fc] When a bovine animal is moved into either—
+
+- (a) the low-risk area from another part of England or from Wales; or
+- (b) the specified area from—
+  - (i) another part of England, apart from the low-risk area, or
+  - (ii) Wales,
+
+the keeper who receives the animal must arrange and pay for a post-movement skin test to be applied to that animal by an approved veterinary surgeon no fewer than 60 days, but no more than 120 days, after the date of arrival at the receiving premises.
+
+(2) Bovine animals do not require a post-movement skin test if they are—
+
+- (a) slaughtered within 120 days of arrival at the receiving premises;
+- (b) moved solely for veterinary treatment into the low-risk area or the specified area or returned to those areas[^key-d1e261a4648cc02161d42e490c77df15] after veterinary treatment elsewhere, provided that they are returned directly to their premises of origin after the treatment, or are killed or go directly to slaughter;
+- (c)[^key-1fe4b800505d2640e667420c2729aaf7] moved to a show in the low-risk area or the specified area or returned to those areas from a show elsewhere provided—
+  - (i) immediately after the show they are returned directly to their premises of origin, or are killed or go directly to slaughter; and
+  - (ii) they were not housed on the showground, and were not otherwise on the showground for more than 24 hours;
+- (e) moved directly to one of the following—
+  - (i) a market from which all animals go directly to slaughter;
+  - (ii) an exempt market;
+  - (iii) an approved collecting centre;
+  - (iv) a licensed finishing unit;
+  - (v)[^key-96c78eb61f5e18b31ed35c047bd7f192] an approved finishing unit; or
+  - (vi) an exempt finishing unit;
+- (f) moved under the authority of a movement licence issued by an inspector;
+- (g) moved from herds in the low-risk area.
+
+(3) Where paragraph (1) does not apply but a bovine animal is moved onto any premises, the Secretary of State may, by notice served on the keeper of that bovine animal—
+
+- (a) require the keeper to have the bovine animal tested with a post-movement skin test no fewer than 60 days, but no more than 120 days, after the date of arrival of that animal;
+- (b) inform the keeper that the keeper must arrange and pay for such a post-movement skin test.
+
+(4) Where a bovine animal is required to have a post-movement skin test under paragraph (1) or (3), no person may move that animal from the receiving premises until the skin test has been completed and subject to its having negative results, unless the move is—
+
+- (a) directly (or via an approved TB slaughter gathering) to slaughter;
+- (b)[^key-2158d70e6e354f3e9d373bb4be9c95a9] directly to a licensed finishing unit;
+- (c) directly (or via an exempt market) to an approved finishing unit or an exempt finishing unit; or
+- (d) made under the authority of a licence issued by an inspector.
+
+(5) Where a bovine animal is required to have a post-movement skin test but remains untested more than 120 days after that animal arrived at the receiving premises—
+
+- (a) the test will be treated by the Secretary of State as overdue; and
+- (b) an inspector must impose movement restrictions on all bovine animals on the premises until the overdue post-movement skin test[^key-1c55329b7a084156285eafdcebe10d39] has been completed and subject to its having negative results.
+
+(6) Where a post-movement skin test is required under this article, the keeper must comply with any requirement set out in a notice given under paragraph (3) or any reasonable requirements of an inspector or an approved veterinary surgeon in order to facilitate the application and reading of the skin test, and, in particular, must arrange at the keeper’s own expense for the collection, penning and securing of the bovine animal which requires such a skin test.
+
+### 21. Exempt markets[^key-051eabea96921bb5bc1916e681400ff7]
+
+(1) The Secretary of State may approve a market to handle and sell bovine animals that have been moved without the requirement for a pre-movement test (“an exempt market”).
+
+(2) The approval must specify—
+
+- (a) the operator of the exempt market;
+- (b) the premises on which the exempt market is to be held;
+- (c) the dates and times for the holding of the exempt market; and
+- (d) the conditions with which the operator of the exempt market must comply.
+
+(3) The operator of an exempt market must separate animals in or entering the exempt market from bovine animals present on other parts of the premises where the exempt market is located.
+
+(4) A person must not purport to hold an exempt market unless it is approved under paragraph (1).
+
+(5) A person must not move a bovine animal from an exempt market except directly to a permitted destination.
+
+(6) A person must not move a bovine animal that is not separate from animals in or entering an exempt market as required by paragraph (3) except directly to a permitted destination.
+
+(7) In this article, “permitted destination” means—
+
+- (a) in respect of bovine animals that are subject to routine testing less frequently than annually, an exempt finishing unit or approved finishing unit[^key-35de888cfbaddde888f48f7d604a064b] or a slaughterhouse; and
+- (b) in respect of all other bovine animals, an exempt finishing unit or approved finishing unit, a slaughterhouse, or the premises from which they were brought.
+
+(8) A market in Scotland or Wales that is approved by the Scottish Ministers or the Welsh Ministers respectively for the same purpose as an exempt market is deemed to be an exempt market for the purposes of article 20(2)(e) and Schedule 2.
+
+### 22. Exempt finishing units, approved finishing units and approved collecting centres[^key-d8bb2263867573b3b18f46dea8d1a847]
+
+(1) The Secretary of State may approve—
+
+- (a) a finishing unit to take bovine animals that have been moved without the requirement for a pre-movement test (“an exempt finishing unit”);
+- (b) a finishing unit (“an approved finishing unit”) that is—
+  - (i) in an area that is subject to routine surveillance testing of bovine herds for tuberculosis at least annually;
+  - (ii) permanently under movement restrictions;
+  - (iii) licensed by an inspector to take bovine animals from restricted and unrestricted herds for fattening and finishing until they are moved to slaughter; and
+  - (iv) licensed either for bovine animals to be permanently housed, or for the bovine animals to be grazed on contiguous land on the unit;
+- (c) a collecting centre to take bovine animals that come from a restricted herd (“an approved collecting centre”).
+
+(2) An approved finishing unit and an approved collecting centre are also approved to take bovine animals that have been moved without a pre-movement test.
+
+(3) The approval referred to in paragraph (1) must specify—
+
+- (a) the operator;
+- (b) the premises or the part of the premises on which the exempt finishing unit, approved finishing unit or approved collecting centre may be situated; and
+- (c) the conditions with which the operator of that finishing unit or collecting centre must comply.
+
+(4) The operator of an exempt finishing unit, an approved finishing unit or an approved collecting centre must separate animals in or entering the finishing unit or collecting centre from bovine animals present on other parts of the premises where that finishing unit or collecting centre is located.
+
+(5) A person must not purport to operate an exempt finishing unit, approved finishing unit or approved collecting centre unless it is approved under paragraph (1).
+
+(6) A person must not move a bovine animal from an exempt finishing unit, an approved finishing unit or approved collecting centre except—
+
+- (a) to take it directly to slaughter; or
+- (b) under the authority of a licence issued by a veterinary inspector.
+
+(7) A person must not move a bovine animal that is not separated from animals in or entering an exempt finishing unit, an approved finishing unit or an approved collecting centre as required by paragraph (4) except—
+
+- (a) to take it directly to slaughter, or
+- (b) under the authority of a licence issued by a veterinary inspector.
+
+(8) An exempt finishing unit in Scotland or Wales that is approved by the Scottish Ministers or the Welsh Ministers respectively for the same purpose as an exempt finishing unit is deemed to be an exempt finishing unit for the purposes of this article of and Schedule 2 to this Order.
+
+(9) An approved finishing unit in Scotland or Wales that is approved by the Scottish Ministers or the Welsh Ministers respectively for the same purpose as an approved finishing unit is deemed to be an approved finishing unit for the purposes of articles 20(4), 21(7) and this article of and Schedule 2 to this Order.
+
+(10) A collecting centre in Scotland or Wales that is approved by the Scottish Ministers or the Welsh Ministers respectively for the same purpose as an approved collecting centre is deemed to be an approved collecting centre for the purposes of article 20(2)(e)(iii), this article of and Schedule 2 to this Order.
+
+### 23. Publication of information[^key-63ceba94c28135de33111168e726ad20]
+
+(1)[^key-e0abe2df41c0c4e124f0327b05015064] For the purpose of helping other persons protect against the spread of tuberculosis, the Secretary of State may publish information regarding a bovine herd or bovine animal.
+
+(2)[^key-724bc93a7b53f34d51605259f5c24c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Information which may be published under paragraph (1) [^key-eb14d6b86ab0196446ad8f9a6d31ff91]... may be published in any form that the Secretary of State sees fit.
+
+## PART 4 — Notices, licences, approvals and enforcement
+
+### 24. General provisions as to notices, licences and approvals[^key-7fa9bb76067ed3d94b0c6edf15723d2f]
+
+(1) Any notice, licence or approval issued or granted under this Order must be in writing.
+
+(2) Any licence issued under this Order may be general or specific.
+
+(3) Any notice, licence or approval issued or granted under this Order may be made subject to conditions.
+
+(4) A notice, licence or approval issued or granted under this Order may be amended, suspended or revoked in writing at any time.
+
+(5) Any person to whom any requirement or condition in a notice, licence or approval issued or granted under this Order applies must comply with the requirement or condition.
+
+### 25. Enforcement[^key-0817326a972b32a1a077fe3245e36afe]
+
+(1) A person who does anything, or fails to do anything, in contravention of this Order commits an offence under section 73 of the Act.
+
+(2) This Order is enforceable by a local authority.
+
+(3) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that the Secretary of State will enforce this Order instead of the local authority.
+
+(4) Where the Secretary of State makes a direction under paragraph (3), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under this Order.
+
+## PART 5 — Revocations, amendments, transitional provisions and review
+
+### 26. Revocation[^key-175d74da2dad9f7417a4898c3837efd5]
+
+The following Orders are revoked—
+
+- (a) the Tuberculosis (Deer and Camelid) (England) Order 2014[^f00010];
+- (b) the Tuberculosis (England) Order 2014[^f00011];
+- (c) the Tuberculosis (Miscellaneous Amendments) (England) Order 2015[^f00012]; and
+- (d) the Tuberculosis (England) (Amendment) Order 2016[^f00013].
+
+### 27. Consequential amendments[^key-beaec38ed0e9f4dc4ad50445fc6e4bee]
+
+(1) The Movement of Animals (Restrictions) (England) Order 2002[^f00014] (“the 2002 Order”) is amended in accordance with paragraph (2).
+
+(2) At the end of article 3 of the 2002 Order, insert—
+
+> (3) But this Order does not apply where the Tuberculosis in Animals (England) Order 2021 applies.
+
+.
+
+(3) The Cattle Compensation (England) Order 2019[^f00015] (“the 2019 Order”) is amended in accordance with paragraph (4).
+
+(4) In article 4(1)(b) of the 2019 Order (animal slaughtered for reasons of tuberculosis where the owner is licensed to remove the animal to a slaughter house of the owner’s choice), for “article 15(1) of the Tuberculosis (England) Order 2014” substitute “article 8(1) of the Tuberculosis in Animals (England) Order 2021”.
+
+### 28. Transitional provisions[^key-abc056d15ef5c232d00550d80b6fb59b]
+
+(1) Any notice or licence issued, or consent granted, under—
+
+- (a) the Tuberculosis (Deer and Camelid) (England) Order 2014; or
+- (b) the Tuberculosis (England) Order 2014,
+
+and which has effect at the coming into force of this Order, remains in force as if it were a notice or licence issued, or consent granted, under this Order.
+
+(2) Any approval granted under the Tuberculosis (England) Order 2014, which has effect at the coming into force of this Order, remains in force as if it were an approval granted under this Order.
+
+### 29. Review[^key-423f8a0572a0415b1ca227a7930a67f2]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in this Order; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 1st October 2026.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015[^f00016] requires that a report published under this article must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this article, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Benyon of Englefield
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+6th September 2021
+
+## SCHEDULE 1 — The low-risk area
+
+Article 2(1)
+
+### 1. Counties in the low-risk area[^key-9e02c2e1c47d772ef7dfa68d5fc5dcb3]
+
+The low-risk area is comprised of the following counties—
+
+| County |
+| --- |
+| Bedfordshire |
+| Cambridgeshire |
+| Cleveland |
+| County Durham |
+| Cumbria |
+| Essex |
+| Greater London |
+| Greater Manchester |
+| Hertfordshire |
+| Humberside |
+| Isle of Wight |
+| Isles of Scilly |
+| Lancashire |
+| Lincolnshire |
+| Merseyside |
+| Norfolk |
+| Northumberland |
+| North Yorkshire |
+| South Yorkshire |
+| Suffolk |
+| Surrey |
+| Tyne & Wear |
+| West Sussex |
+| West Yorkshire |
+
+## SCHEDULE 2 — Movements exempt from the prohibition in article 19(1)
+
+Article 19(4)
+
+### 1. Movements to slaughter, exempt markets etc.[^key-6c1fc58ac60f1e8ba384a91aeb440b93]
+
+The movement of a bovine animal directly to—
+
+- (a) slaughter;
+- (b) a market from which all animals go directly to slaughter;
+- (c) an exempt finishing unit;
+- (d) an exempt market;
+- (e) an approved collecting centre;
+- (f) an approved finishing unit.
+
+### 2. Movement for veterinary treatment[^key-47a4e0c2c95fe78a31608aa5202cae7a]
+
+The movement of a bovine animal to a place for veterinary treatment provided that it is returned directly to its premises of origin after the treatment, or is killed or goes directly to slaughter.
+
+### 3. Movement to shows[^key-2da1c85986491d551bb618591d0862a9]
+
+The movement of a bovine animal to a show that does not involve a stay of more than 24 hours or housing of that animal at the showground, provided that the animal goes directly from the show to slaughter or is returned directly to its premises of origin after the show.
+
+## SCHEDULE 3 — Specified Area[^key-04b6bca64cd032d8f74e5c6d6aaae306]
+
+Article 2(1)
+
+The specified area is comprised of the following counties civil parishes and non-civil parish areas[^key-13250bf489f955190efec48802e05a09]—
+
+### PART 1
+
+#### Counties
+
+- Buckinghamshire
+- East Sussex
+- Leicestershire
+- Northamptonshire
+- Nottinghamshire
+
+### PART 2
+
+#### Civil parishes in the county of Berkshire and non-civil parish areas[^key-1db328aa7f406fbdfabefc346fc7d2d2]
+
+- Bisham
+- Bray
+- Cookham
+- Hurley
+- Maidenhead
+- Remenham
+- Shottesbrooke
+- White Waltham
+- Winkfield
+- Reading
+- Shinfield
+- Grazeley
+- Christchurch
+- Windsor
+- Old Windsor
+- Sunningdale
+- Sunninghill
+- Arborfield and Newland
+- Barkham
+- Binfield
+- Crowthorne
+- Earley
+- Finchampstead
+- Winnersh
+- Ruscombe
+- St Nicholas Hurst
+- Sandhurst
+- Sonning
+- Twyford
+- Waltham St. Lawrence
+- Warfield
+- Wargrave
+- Wokingham
+- Wokingham Without
+- Woodley
+- Bracknell
+- Charvil
+- Britwell
+- Datchet
+- Eton
+- Horton
+- Slough
+- Wraysbury
+- Cox Green
+- Wexham Court
+- Colnbrook with Poyle
+
+#### Civil parishes in the county of Derbyshire and non-civil parish areas[^key-73d97b72d9f5c384293c60ba0fc12152]
+
+- Pilsley
+- Blackwell
+- Morton
+- Pinxton
+- South Normanton
+- Tibshelf
+- Abney & Abney Grange
+- Baslow & Bubnell
+- Calver
+- Curbar
+- Eyam
+- Froggatt
+- Grindlow
+- Hathersage
+- Hazlebadge
+- Highlow
+- Little Hucklow
+- Offerton
+- Outseats
+- Pilsley
+- Stoney Middleton
+- Aston
+- Bamford
+- Bradwell
+- Brough and Shatton
+- Castleton
+- Chinley, Buxworth and Brownside
+- Derwent
+- Edale
+- Whaley Bridge
+- Hayfield
+- Hope
+- Hope Woodlands
+- New Mills
+- Thornhill
+- Old Bolsover
+- Brimington
+- Staveley
+- Ault Hucknall
+- Barlow
+- Brampton
+- Calow
+- Chesterfield
+- Glapwell
+- Grassmoor, Hasland and Winswick
+- Heath and Holmewood
+- North Wingfield
+- Pleasley
+- Scarcliffe
+- Shirebrook
+- Sutton cum Duckmanton
+- Temple Normanton
+- Tupton
+- Holymoorside and Walton
+- Breaston
+- Draycott and Church Wilne
+- Hopwell
+- Long Eaton
+- Ockbrook
+- Risley
+- Shardlow and Great Wilne
+- Barlborough
+- Clowne
+- Dronfield
+- Eckington
+- Elmton
+- Holmesfield
+- Killamarsh
+- Unstone
+- Whitwell
+- Charlesworth
+- Chisworth
+- Glossop
+- Ilkeston
+- Sandiacre
+- Stanton by Dale
+- Coton In The Elms
+- Lullington
+- Netherseal
+- Overseal
+- Chatsworth
+- Chapel En Le Frith
+- Tintwistle
+- Grindleford
+- Aldercar and Langley Mill
+- Ironville
+- Hodthorpe and Belph[^key-3d4b60b8ab0dab24777130d76895f86f]
+- Langwith
+
+#### Civil parishes in the county of Hampshire and non-civil parish areas[^key-af8d8a15d2e85b23c5dd157ef8b4863d]
+
+- Wield
+- Alton
+- Bentley
+- Bentworth
+- Binsted
+- Chawton
+- East Tisted
+- Farringdon
+- Froyle
+- Grayshott
+- Headley
+- Kingsley
+- Lasham
+- Medstead
+- Newton Valence
+- Selborne
+- Shalden
+- Worldham
+- Barton Stacey
+- Bullington
+- Chilbolton
+- Goodworth Clatford
+- Leckford
+- Longstock
+- Nether Wallop
+- Stockbridge
+- Upper Clatford
+- Wherwell
+- Old Basing
+- Cliddesden
+- Dummer
+- Ellisfield
+- Farleigh Wallop
+- Herriard
+- Mapledurwell and Up Nately
+- Newnham
+- Tunworth
+- Upton Grey
+- Weston Corbett
+- Winslade
+- Bradley
+- Popham
+- Preston Candover
+- Bishops Waltham
+- Corhampton and Meonstoke
+- Curdridge
+- Droxford
+- Durley
+- Exton
+- Hambledon
+- Shedfield
+- Soberton
+- Swanmore
+- Upham
+- Warnford
+- West Meon
+- Botley
+- Fair Oak and Horton Heath
+- Hedge End
+- Otterbourne
+- Bursledon
+- Chilworth
+- Eastleigh
+- Hamble-Le-Rice
+- Hound
+- West End
+- Gosport District
+- Boarhunt
+- Fareham
+- Havant District
+- City Of Portsmouth
+- Southwick and Widley
+- Wickham
+- Boldre
+- Brockenhurst
+- East Boldre
+- Lymington and Pennington
+- Sway
+- Beaulieu
+- Bramshaw
+- Copythorne
+- Denny Lodge
+- Hythe and Dibden
+- Totton and Eling
+- Exbury and Lepe
+- Fawley
+- Lyndhurst
+- Marchwood
+- Minstead
+- Netley Marsh
+- Rushmoor District
+- Bramshill
+- Crondall
+- Dogmersfield
+- Eversley
+- Fleet
+- Greywell
+- Hartley Wintney
+- Blackwater and Hawley
+- Heckfield
+- Long Sutton
+- Mattingley
+- Odiham
+- Rotherwick
+- South Warnborough
+- Winchfield
+- Yateley
+- Bramshott and Liphook
+- Buriton
+- Clanfield
+- Colemore and Priors Dean
+- Eastmeon
+- Froxfield
+- Greatham
+- Hawkley
+- Langrish
+- Liss
+- Petersfield
+- Steep
+- Breamore
+- West Tisted
+- Burley
+- Bransgore
+- Damerham
+- Ellingham Harbridge and Ibsley
+- Fordingbridge
+- Hale
+- Martin
+- Ringwood
+- Rockbourne
+- Sopley
+- Whitsbury
+- Woodgreen
+- Ampfield
+- Bossington
+- Broughton
+- Buckholt
+- East Dean
+- East Tytherley
+- Houghton
+- Kings Somborne
+- Lockerley
+- Michelmersh
+- Mottisfont
+- North Baddesley
+- Nursling and Rownhams
+- Melchet Park and Plaitford
+- Romsey Extra
+- Romsey
+- Sherfield English
+- West Tytherley
+- Wellow
+- City Of Southampton
+- Ashley
+- Beauworth
+- Bighton
+- Bishops Sutton
+- Bramdean
+- Candovers
+- Cheriton
+- Chilcomb
+- Compton and Shawford
+- Crawley
+- Headbourne Worthy
+- Hursley
+- Itchen Stoke and Ovington
+- Kilmiston
+- Kings Worthy
+- Little Somborne
+- Littleton and Harestock
+- Micheldever
+- New Alresford
+- Northington
+- Old Alresford
+- Owslebury
+- Ropley
+- Sparsholt
+- Tichborne
+- Twyford
+- West Tisted
+- Winchester
+- Wonston
+- Colden Common
+- Four Marks
+- Itchen Valley
+- Denmead
+- Horndean
+- Rowlands Castle
+- Hook
+- Weston Patrick
+- Whitehill
+- Frenchmoor
+- Braishfield
+- Crookham Village
+- Olivers Battery
+- Lindford
+- Awbridge
+- South Wonston
+- Ashurst and Colbury
+- Badger Farm
+- Hyde
+- Hordle
+- Milford-On-Sea
+- Nutley
+- Sandleheath
+- New Milton
+- Stroud
+- Allbrook[^key-6b936fc90bfc2dd30684b213348781a4]
+- Beech
+- Bishopstoke
+- Boyatt Wood
+- Chandlers Ford
+- Church Crookham
+- Elvetham Heath
+- Ewshott
+- Godshill
+- Newlands
+- Sheet
+- Valley Park
+- Whiteley
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order brings together the tuberculosis control regimes applicable to bovine animals, goats, sheep, pigs, camelids and deer.
+
+Article 2(1) (amongst other things) and Schedule 1 provide for the definition of the low-risk area. Article 4 extends the definition of “disease” in the Animal Health Act [1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22) to include tuberculosis.
+
+Part 2 applies in relation to all animals listed above. Articles 5 and 6 provide for the giving of notice where specified individuals know or suspect tuberculosis is present in an animal or a carcase. Article 7 provides that, where a veterinary inspector believes that an animal or carcase is infected with tuberculosis, that veterinary inspector must carry out an inquiry as to the existence of tuberculosis. In order to carry out that inquiry, the veterinary inspector may examine any animal or carcase, carry out tests, and mark any animal or carcase.
+
+Part 2 also contains provisions relating to the testing of animals suspected to have tuberculosis (and the consequences if tuberculosis cannot be ruled out), notification of intended slaughter of infected animals, precautions against the spread of infection, suspected animals in markets or shows, control of infection from other animals, the identification and movement of deer, and other matters.
+
+Part 3 only applies in relation to bovine animals. Articles 19 (and Schedule 2) and 20 set out provisions for pre- and post- movement testing respectively. Articles 21 and 22 provide for exempt markets and exempt and approved finishing units and approved collecting centres. Article 23 provides for the publication of information about bovine herds that have, or have lost, officially tuberculosis-free status.
+
+Part 4 contains general provisions concerning notices, licences and approvals and enforcement.
+
+Part 5 contains provisions concerning revocation, a consequential amendment, transitional provisions and review.
+
+An impact assessment has not been produced for this instrument as no new significant impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^f00002]: Footnote: Functions conferred under the Act were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141). Functions of the Minister of Agriculture, Fisheries and Food were then transferred to the Secretary of State by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^key-2cdbe312cc49086c44d4a2fc10935091]: Commencement: Art. 1 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-7a27d5d130e02dc5ff1e18afd052692d]: Commencement: Art. 2 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^f00003]: Footnote: [S.I. 2007/448](https://www.legislation.gov.uk/uksi/2007/448), amended by [S.I. 2011/1509](https://www.legislation.gov.uk/uksi/2011/1509), [2012/2897](https://www.legislation.gov.uk/uksi/2012/2897) and [2013/1506](https://www.legislation.gov.uk/uksi/2013/1506).
+
+[^key-aa81fbbe68c75dc98c8806db89ae4daa]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/2/1) substituted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/867/article/2/2/a)
+
+[^key-2edd52999e9f03234bffa987ea21cec3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/2/1) inserted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/867/article/2/2/b)
+
+[^key-f90c5781b98faa949e556637bb6113f1]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/2/1) inserted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/748/article/3/2)
+
+[^key-b5a83d0e334672d5d68c8705d011284e]: Commencement: Art. 3 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-b69b6f74d07a14b1e5288bffa534e7d1]: Commencement: Art. 4 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-3b70b6334c77ffa33f5e088e986863e3]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2021/1001/article/4) heading inserted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/748/article/3/3/a)
+
+[^key-62db145864a0c6a13a9022184aaf34aa]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1001/article/4) renumbered as art. 4(1) (15.7.2025) by The Tuberculosis in [Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/748/article/3/3/b)
+
+[^key-0914346b87e45f1a13cb67d2fabdfcbb]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2021/1001/article/4/2) inserted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2025/748/article/3/3/c)
+
+[^key-acc67fc29526b2982a87c1b3e333daca]: Commencement: Art. 5 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-1b89da57f9050906350878bbb1b8be23]: Textual amendment: Art. 5(1A) inserted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/867/article/2/3/a)
+
+[^key-fb1027f2a22df6a96f4fa3e5c7057c0f]: Textual amendment: Word in art. 5(2) inserted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2023/867/article/2/3/b/i)
+
+[^key-bece95508c748d4a33bd57dac7769891]: Textual amendment: Words in art. 5(2) inserted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/867/article/2/3/b/ii)
+
+[^key-5c61ae8436668503a9dd1494cd540776]: Commencement: Art. 6 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^f00004]: Footnote: For the definitions of “veterinary inspector” and “inspector”, see section 89 of the Animal Health Act 1981.
+
+[^key-b084388a3fea0f783f0bdc7bde1bd82e]: Commencement: Art. 7 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-823a331fa58d20693ea40752f31bd82e]: Commencement: Art. 8 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^f00005]: Footnote: [S.I. 2015/772](https://www.legislation.gov.uk/uksi/2015/772). The Secretary of State is the “relevant Minister” as defined in article 5(8).
+
+[^key-b665cc1ed4da2aafae350848cc857f33]: Textual amendment: Words in [art. 8(5)](https://www.legislation.gov.uk/uksi/2021/1001/article/8/5) omitted (15.7.2025) by virtue of [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2025/748/article/3/4)
+
+[^key-820ffe76dc45d245246f1dcec05809b6]: Commencement: Art. 9 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-eb02bd04e922267c64b0ac19864b91a5]: Commencement: Art. 10 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-763879086931441083eda96c90335b64]: Commencement: Art. 11 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-a0b9b865ba4816ff4ac04e3795c51ea8]: Commencement: Art. 12 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-589b157f17af113f37fc73f1f1e954c4]: Commencement: Art. 13 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-ee48df7cb8f7eb2af03a69b64c5e6d34]: Commencement: Art. 14 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-6f24f1c8a8d185458398bfcbda30b0c1]: Commencement: Art. 15 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-7ea9238ea2c441f90be62690c7aa2f23]: Commencement: Art. 16 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^f00007]: Footnote: [S.I. 2003/1729](https://www.legislation.gov.uk/uksi/2003/1729) amended by [S.I. 2005/3100](https://www.legislation.gov.uk/uksi/2005/3100), [2006/182](https://www.legislation.gov.uk/uksi/2006/182) and [2623](https://www.legislation.gov.uk/uksi/2006/2623), [2007/2476](https://www.legislation.gov.uk/uksi/2007/2476), [2008/1066](https://www.legislation.gov.uk/uksi/2008/1066), [2012/2897](https://www.legislation.gov.uk/uksi/2012/2897) and [2016/280](https://www.legislation.gov.uk/uksi/2016/280).
+
+[^f00008]: Footnote: [S.I. 1960/105](https://www.legislation.gov.uk/uksi/1960/105) amended by [S.I. 1961/1493](https://www.legislation.gov.uk/uksi/1961/1493), [1977/944](https://www.legislation.gov.uk/uksi/1977/944), [1989/879](https://www.legislation.gov.uk/uksi/1989/879) and [2053](https://www.legislation.gov.uk/uksi/1989/2053), [1990/1868](https://www.legislation.gov.uk/uksi/1990/1868), and [1995/11](https://www.legislation.gov.uk/uksi/1995/11) and [12](https://www.legislation.gov.uk/uksi/1995/12).
+
+[^key-838a76ad22856ef6e5dc606b04e534df]: Commencement: Art. 17 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-dd7b73a2e80e8728d2ae2117a5d4f6f3]: Commencement: Art. 18 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-9cbade4f723b80f221866ba56f000a9c]: Commencement: Art. 19 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^f00009]: Footnote: Semen collection centres are licensed by the Secretary of State under regulation 5 of the Bovine Semen (England) Regulations 2007, [S.I. 2007/1319](https://www.legislation.gov.uk/uksi/2007/1319).
+
+[^key-2b68cb0664903c6ec1fef933f2856d5c]: Commencement: Art. 20 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-7a9a1f12ca27846ebb03cecb1901310a]: Textual amendment: Art. 20 heading substituted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/867/article/2/4/a)
+
+[^key-762f44af378d78f755775c4cc52355fc]: Textual amendment: Art. 20(1) substituted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/867/article/2/4/b)
+
+[^key-d1e261a4648cc02161d42e490c77df15]: Textual amendment: Words in art. 20(2)(b) substituted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2023/867/article/2/4/c/i)
+
+[^key-1fe4b800505d2640e667420c2729aaf7]: Textual amendment: Art. 20(2)(c) substituted for art. 20(2)(c)(d) (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/867/article/2/4/c/ii)
+
+[^key-96c78eb61f5e18b31ed35c047bd7f192]: Textual amendment: Art. 20(2)(e)(v)(vi) inserted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2023/867/article/2/4/c/iii)
+
+[^key-2158d70e6e354f3e9d373bb4be9c95a9]: Textual amendment: Art. 20(4)(b)-(d) substituted for art. 20(4)(b)(c) (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2023/867/article/2/4/d)
+
+[^key-1c55329b7a084156285eafdcebe10d39]: Textual amendment: Words in art. 20(5)(b) substituted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2023/867/article/2/4/e)
+
+[^key-051eabea96921bb5bc1916e681400ff7]: Commencement: Art. 21 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-35de888cfbaddde888f48f7d604a064b]: Textual amendment: Words in [art. 21(7)](https://www.legislation.gov.uk/uksi/2021/1001/article/21/7) substituted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/867/article/2/5)
+
+[^key-d8bb2263867573b3b18f46dea8d1a847]: Commencement: Art. 22 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-63ceba94c28135de33111168e726ad20]: Commencement: Art. 23 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-e0abe2df41c0c4e124f0327b05015064]: Textual amendment: [Art. 23(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/23/1) substituted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/748/article/3/5/a)
+
+[^key-724bc93a7b53f34d51605259f5c24c0c]: Textual amendment: [Art. 23(2)](https://www.legislation.gov.uk/uksi/2021/1001/article/23/2) omitted (15.7.2025) by virtue of [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2025/748/article/3/5/b)
+
+[^key-eb14d6b86ab0196446ad8f9a6d31ff91]: Textual amendment: Words in [art. 23(3)](https://www.legislation.gov.uk/uksi/2021/1001/article/23/3) omitted (15.7.2025) by virtue of [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2025/748/article/3/5/c)
+
+[^key-7fa9bb76067ed3d94b0c6edf15723d2f]: Commencement: Art. 24 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-0817326a972b32a1a077fe3245e36afe]: Commencement: Art. 25 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-175d74da2dad9f7417a4898c3837efd5]: Commencement: Art. 26 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^f00010]: Footnote: [S.I. 2014/2337](https://www.legislation.gov.uk/uksi/2014/2337).
+
+[^f00011]: Footnote: [S.I. 2014/2383](https://www.legislation.gov.uk/uksi/2014/2383).
+
+[^f00012]: Footnote: [S.I. 2015/1838](https://www.legislation.gov.uk/uksi/2015/1838).
+
+[^f00013]: Footnote: [S.I. 2016/347](https://www.legislation.gov.uk/uksi/2016/347).
+
+[^key-beaec38ed0e9f4dc4ad50445fc6e4bee]: Commencement: Art. 27 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^f00014]: Footnote: [S.I. 2002/3229](https://www.legislation.gov.uk/uksi/2002/3229).
+
+[^f00015]: Footnote: [S.I. 2019/945](https://www.legislation.gov.uk/uksi/2019/945).
+
+[^key-abc056d15ef5c232d00550d80b6fb59b]: Commencement: Art. 28 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-423f8a0572a0415b1ca227a7930a67f2]: Commencement: Art. 29 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^f00016]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^key-9e02c2e1c47d772ef7dfa68d5fc5dcb3]: Commencement: Sch. 1 para. 1 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-6c1fc58ac60f1e8ba384a91aeb440b93]: Commencement: Sch. 2 para. 1 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-47a4e0c2c95fe78a31608aa5202cae7a]: Commencement: Sch. 2 para. 2 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-2da1c85986491d551bb618591d0862a9]: Commencement: Sch. 2 para. 3 in force at 1.10.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1)
+
+[^key-04b6bca64cd032d8f74e5c6d6aaae306]: Textual amendment: Sch. 3 inserted (1.8.2023) by [The Tuberculosis in Animals (England) (Amendment) Order 2023 (S.I. 2023/867)](https://www.legislation.gov.uk/uksi/2023/867), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/867/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/867/schedule)
+
+[^key-13250bf489f955190efec48802e05a09]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2021/1001/schedule/3) substituted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2025/748/article/3/6/a)
+
+[^key-1db328aa7f406fbdfabefc346fc7d2d2]: Textual amendment: Words in Sch. 3 Pt. 2 inserted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2025/748/article/3/6/b/i)
+
+[^key-73d97b72d9f5c384293c60ba0fc12152]: Textual amendment: Words in Sch. 3 Pt. 2 inserted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/748/article/3/6/b/ii)
+
+[^key-3d4b60b8ab0dab24777130d76895f86f]: Textual amendment: Words in Sch. 3 Pt. 2 inserted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/748/article/3/6/b/iii)
+
+[^key-af8d8a15d2e85b23c5dd157ef8b4863d]: Textual amendment: Words in Sch. 3 Pt. 2 inserted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/748/article/3/6/b/iv)
+
+[^key-6b936fc90bfc2dd30684b213348781a4]: Textual amendment: Words in Sch. 3 Pt. 2 inserted (15.7.2025) by [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [3(6)(b)(v)](https://www.legislation.gov.uk/uksi/2025/748/article/3/6/b/v)

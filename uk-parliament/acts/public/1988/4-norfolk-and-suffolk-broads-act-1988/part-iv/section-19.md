@@ -1,0 +1,34 @@
+---
+title: Norfolk and Suffolk Broads Act 1988, section 19
+act: Norfolk and Suffolk Broads Act 1988
+section: '19'
+status: revised-with-pending-changes
+text_date: '2023-12-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1988/4/section/19
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Norfolk and Suffolk Broads Act 1988, section 19
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/4
+>
+> Extent: England, Wales.
+
+## 19. Transfer of property, rights and liabilities.
+
+*Extent: E+W*
+
+(1) On the operative date there shall vest in the Authority all property, rights and liabilities of any participating authority held or incurred wholly for purposes of the joint committee mentioned in section 18(1) of this Act.
+
+(2) Any dispute between the Authority and a participating authority as to the effect of subsection (1) above in relation to any particular property, right or liability shall be determined by a person appointed for the purpose—
+
+- (a) by agreement between the Authority and the authority; or
+- (b) failing such agreement, by the Secretary of State.
+
+(3) The Secretary of State may by order provide for the transfer to the Authority of any property, rights or liabilities of the Commissioners the transfer of which appears to the Secretary of State to be necessary or expedient in consequence of any of the provisions of this Act.
+
+(4) Any transfer effected by order under subsection (3) above may be on such terms, including financial terms, as the Secretary of State thinks fit.
+
+(5) Any order under subsection (3) above may create or impose such new rights or liabilities in respect of what is transferred as appear to the Secretary of State to be necessary or expedient.

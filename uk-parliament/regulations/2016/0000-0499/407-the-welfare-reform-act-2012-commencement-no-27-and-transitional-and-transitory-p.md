@@ -1,0 +1,678 @@
+---
+title: The Welfare Reform Act 2012 (Commencement No. 27 and Transitional and Transitory Provisions and Commencement No. 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016
+id: uksi/2016/407
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-21'
+text_date: '2020-08-04'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2016/407
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/407/pdfs/uksi_20160407_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/407/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare Reform Act 2012 (Commencement No. 27 and Transitional and Transitory Provisions and Commencement No. 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016
+
+> Text as at 2020-08-04.
+
+2016 No. 407 (C. 20)
+
+Social Security
+
+The Welfare Reform Act 2012 (Commencement No. 27 and Transitional and Transitory Provisions and Commencement No. 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016
+
+Made
+
+21st March 2016
+
+The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by section 150(3) and (4)(a), (b)(i) and (c) of the Welfare Reform Act 2012[^f00001]:
+
+## 1. Citation
+
+This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 27 and Transitional and Transitory Provisions and Commencement No. 22, 23 and 24 and Transitional and Transitory Provisions (Modification)) Order 2016.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “the Act” means the Welfare Reform Act 2012;
+- “the amending provisions” means the provisions referred to in article 4(1)(a) to (c) of the No. 9 Order (day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance)[^f00002];
+- “claimant”—
+  - (a) in relation to an employment and support allowance, has the same meaning as in Part 1 of the Welfare Reform Act 2007[^f00003], save as mentioned in article 5(1A) of the No. 9 Order as applied by article 4(7) of this Order[^f00004];
+  - (b) in relation to a jobseeker’s allowance, has the same meaning as in the Jobseekers Act 1995[^f00005] (as it applies apart from the amendments made by Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker’s allowance), save as mentioned in article 5(1A) of the No. 9 Order as applied by article 4(7) of this Order;
+  - (c) in relation to universal credit, has the same meaning as in Part 1 of the Act[^f00006];
+- “the Claims and Payments Regulations 1987” means the Social Security (Claims and Payments) Regulations 1987[^f00007];
+- “employment and support allowance” means an employment and support allowance under Part 1 of the Welfare Reform Act 2007;
+- “jobseeker’s allowance” means a jobseeker’s allowance under the Jobseekers Act 1995;
+- “joint claimants”, in relation to universal credit, has the same meaning as in Part 1 of the Act[^f00008];
+- “the No. 9 Order” means the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013[^f00009];
+- “the No. 22 Order” means the Welfare Reform Act 2012 (Commencement No. 22 and Transitional and Transitory Provisions) Order 2015[^f00010];
+- “the No. 23 Order” means the Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015[^f00011];
+- “the No. 24 Order” means the Welfare Reform Act 2012 (Commencement No. 24 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2015[^f00012];
+- “the Part 1 designated postcodes” means the postcode district and part-districts specified in Part 1 of the Schedule;
+- “the Part 2 designated postcodes” means the postcode districts and part-districts specified in Part 2 of the Schedule;
+- “the Part 3 designated postcodes” means the postcode districts specified in Part 3 of the Schedule;
+- “single claimant”, in relation to universal credit, has the same meaning as in Part 1 of the Act[^f00013].
+
+(2) For the purposes of this Order, the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013[^f00014] apply for the purpose of deciding—
+
+- (a) whether a claim for universal credit is made; and
+- (b) the date on which such a claim is made.
+
+(3) For the purposes of this Order, the Claims and Payments Regulations 1987 apply, subject to paragraphs (4) and (5), for the purposes of deciding—
+
+- (a) whether a claim for an employment and support allowance or a jobseeker’s allowance is made; and
+- (b) the date on which the claim is made or treated as made.
+
+(4) Subject to paragraph (5), for the purposes of this Order—
+
+- (a) a person makes a claim for an employment and support allowance or a jobseeker’s allowance if he or she takes any action which results in a decision on a claim being required under the Claims and Payments Regulations 1987; and
+- (b) it is irrelevant that the effect of any provision of those Regulations is that, for the purposes of those Regulations, the claim is made or treated as made at a date that is earlier than the date on which that action is taken.
+
+(5) Where, by virtue of—
+
+- (a) regulation 6(1F)(b) or (c) of the Claims and Payments Regulations 1987[^f00015], in the case of a claim for an employment and support allowance; or
+- (b) regulation 6(4ZA) to (4ZD) and (4A)(a)(i) and (b) of those Regulations[^f00016], in the case of a claim for a jobseeker’s allowance,
+
+a claim for an employment and support allowance or a jobseeker’s allowance is treated as made at a date that is earlier than the date on which the action referred to in paragraph (4)(a) is taken, the claim is treated as made on that earlier date.
+
+## 3. Day appointed for the coming into force of the universal credit provisions
+
+(1) The day appointed for the coming into force of the provisions of the Act listed in Schedule 2 to the No. 9 Order, in so far as they are not already in force, in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
+
+(2) The claims referred to are—
+
+- (a) a claim for universal credit that is made on or after 23rd March 2016 in respect of a period that begins on or after 23rd March 2016 where, on the date on which the claim is made, the claimant resides in one of the Part 1 designated postcodes;
+- (b) a claim for universal credit that is made on or after 27th April 2016 in respect of a period that begins on or after 27th April 2016 where, on the date on which the claim is made, the claimant resides in one of the Part 2 designated postcodes;
+- (c) a claim for universal credit that is made on or after the date referred to in either sub-paragraph (a) or (b), in respect of a period that begins on or after that date where—
+  - (i) in the case of a single claimant, the claimant gives incorrect information regarding the claimant residing in a postcode as referred to in the sub-paragraph in question and the claimant does not reside in such a postcode on the date on which the claim is made;
+  - (ii) in the case of joint claimants, either or both of the joint claimants gives or give incorrect information regarding his or her (or their) residing in such a postcode and one or both of them does not or do not reside in such a postcode on the date on which the claim is made,
+
+  and after a decision is made that the single claimant is, or the joint claimants are, entitled to universal credit and one or more payments have been made in respect of the single claimant or the joint claimants, the Secretary of State discovers that incorrect information has been given regarding residence.
+
+(3) The day appointed in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the first day of the period in respect of which the claim is made.
+
+(4) Article 3(6) of the No. 9 Order applies for the purposes of paragraph (3) as it applies for the purposes of article 3(4)(a) of the No. 9 Order.
+
+(5) Article 3A of the No. 9 Order[^f00017] applies in connection with a claim for universal credit where a single claimant, or, as the case may be, either or both of joint claimants, gives or give incorrect information regarding his or her (or their) residing in one of the Part 1 or Part 2 designated postcodes, as it applies in connection with the giving of incorrect information regarding a claimant residing in one of the relevant districts (as defined in the No. 9 Order).
+
+## 4. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance[^key-14d14ab63880a9cfd5a66c5a15f31e99]
+
+(1) The day appointed for the coming into force of the amending provisions, in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
+
+(2) The claims referred to are—
+
+- (a) a claim for universal credit that is made on or after 23rd March 2016 in respect of a period that begins on or after 23rd March 2016 where, on the date on which the claim is made, the claimant resides in one of the Part 1 designated postcodes;
+- (b) a claim for universal credit that is made on or after 27th April 2016 in respect of a period that begins on or after 27th April 2016 where, on the date on which the claim is made, the claimant resides in one of the Part 2 designated postcodes;
+- (c) a claim for universal credit that is made on or after the date referred to in either sub-paragraph (a) or (b), in respect of a period that begins on or after that date where—
+  - (i) in the case of a single claimant, the claimant gives incorrect information regarding the claimant residing in a postcode as referred to in the sub-paragraph in question and the claimant does not reside in such a postcode on the date on which the claim is made;
+  - (ii) in the case of joint claimants, either or both of the joint claimants gives or give incorrect information regarding his or her (or their) residing in such a postcode and one or both of them does not or do not reside in such a postcode on the date on which the claim is made,
+
+  and after a decision is made that the single claimant is, or the joint claimants are, entitled to universal credit and one or more payments have been made in respect of the single claimant or the joint claimants, the Secretary of State discovers that incorrect information has been given regarding residence;
+- (d) a claim for an employment and support allowance or a jobseeker’s allowance that is made or treated as made on or after 23rd March 2016 where, on the date on which the claim is made or treated as made, the claimant resides in one of the Part 1 designated postcodes;
+- (e) a claim for an employment and support allowance or a jobseeker’s allowance that is made or treated as made on or after 27th April 2016 where, on the date on which the claim is made or treated as made, the claimant resides in one of the Part 2 designated postcodes;
+- (f) a claim for an employment and support allowance or a jobseeker’s allowance other than one referred to in sub-paragraphs (d) and (e) that is made or treated as made during the relevant period by a single claimant of universal credit or by either of two joint claimants of universal credit who has or have made a claim for universal credit within any of sub-paragraphs (a) to (c).
+
+(3) The day appointed in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the first day of the period in respect of which the claim is made.
+
+(4) For the purposes of paragraph (2)(f), “relevant period” means, in relation to a claim for universal credit within any of sub-paragraphs (a) to (c) of paragraph (2), any UC claim period, and any period subsequent to any UC claim period in respect of which the claimant is entitled to an award of universal credit in respect of the claim.
+
+(5) For the purposes of paragraph (4), a “UC claim period” is a period when—
+
+- (a) a claim for universal credit within either sub-paragraph (a) or (b) of paragraph (2), or within sub-paragraph (c)(i) or (ii) of that paragraph, has been made but a decision has not yet been made on the claim; or
+- (b) a decision has been made that the claimant is not entitled to universal credit and—
+  - (i) the Secretary of State is considering whether to revise that decision under section 9 of the Social Security Act 1998[^f00018], whether on an application made for that purpose or on the Secretary of State’s own initiative; or
+  - (ii) the claimant has appealed against that decision to the First-tier Tribunal and that appeal, or any subsequent appeal to the Upper Tribunal or to a court, has not been finally determined[^f00019].
+
+(6) Paragraphs (6), (7), (9) and (10) of article 4 of the No. 9 Order[^f00020] apply in relation to a claim for universal credit referred to in paragraph (2) (and any award that is made in respect of the claim) as they apply in relation to a claim for universal credit referred to in sub-paragraphs (a) and (b) of article 4(2) of the No. 9 Order (and any award that is made in respect of the claim).
+
+(7) Paragraphs (1A) and (1B) of article 5 of the No. 9 Order[^f00021] apply for the purposes of sub-paragraphs (d) and (e) of paragraph (2) as they apply for the purposes of article 4(2)(a) of the No. 9 Order (but as if the references in paragraph (1A) to Schedule 5 to the No. 9 Order were omitted).
+
+(8) Article 5(8) of the No. 9 Order applies for the purposes of paragraph (3) as it applies for the purposes of article 4(3)(a) of the No. 9 Order.
+
+## 5. Application of the No. 9 Order
+
+Articles 9 to 22 of the No. 9 Order[^f00022] apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in article 4(2), and any award made in respect of the claim, as they apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in sub-paragraph (a), (b) or (g) of article 4(2) of the No. 9 Order and any award made in respect of the claim.
+
+## 6. Modification of the No. 22 Order: removal of the gateway conditions
+
+(1) This article applies in the case of a claim for universal credit, an employment and support allowance or a jobseeker’s allowance that is made or treated as made on or after 23rd March 2016.
+
+(2) Where this article applies, articles 3(2)(i) and 4(2)(q) and (r) of the No. 22 Order[^f00023] have effect, with respect to a claimant residing in the Part 3 designated postcodes, as though the reference in those provisions to meeting the gateway conditions were omitted.
+
+(3) With respect to any claim in relation to which provisions of the No. 22 Order are modified under paragraph (2), the No. 22 Order has effect as though—
+
+- (a) in article 2(1), for the definition of “claimant” there were substituted—
+
+  > - “claimant”—
+  >   - (a) in relation to an employment and support allowance, has the same meaning as in Part 1 of the Welfare Reform Act 2007, save as mentioned in article 5(1A) of the No. 9 Order as applied by article 4(7) of this Order;
+  >   - (b) in relation to a jobseeker’s allowance, has the same meaning as in the Jobseekers Act 1995 (as it applies apart from the amendments made by Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker’s allowance), save as mentioned in article 5(1A) of the No. 9 Order as applied by article 4(7) of this Order;
+  >   - (c) in relation to universal credit, has the same meaning as in Part 1 of the Act;
+
+  ;
+- (b) for article 3(2)(v) there were substituted—
+
+  > - (v) a claim for universal credit that is made on or after the date referred to in sub-paragraph (i), in respect of a period that begins on or after that date where—
+  >   - (i) in the case of a single claimant, the claimant gives incorrect information regarding the claimant residing in a district as referred to in that sub-paragraph and the claimant does not reside in such a district on the date on which the claim is made;
+  >   - (ii) in the case of joint claimants, either or both of the joint claimants gives or give incorrect information regarding his or her (or their) residing in such a district and one or both of them does not or do not reside in such a district on the date on which the claim is made,
+  >
+  >   and after a decision is made that the single claimant is, or the joint claimants are, entitled to universal credit and one or more payments have been made in respect of the single claimant or the joint claimants, the Secretary of State discovers that incorrect information has been given regarding residence.
+
+  ;
+- (c) for article 3(5) there were substituted—
+
+  > (5) Article 3A of the No. 9 Order applies in connection with a claim for universal credit where a single claimant, or, as the case may be, either or both of joint claimants, gives or give incorrect information regarding his or her (or their) residing in one of the No. 37 relevant districts, as it applies in connection with the giving of incorrect information regarding a claimant residing in one of the relevant districts (as defined in the No. 9 Order).
+
+  ;
+- (d) for article 4(2)(qq) there were substituted—
+
+  > - (qq) a claim for universal credit that is made on or after the date referred to in sub-paragraph (q), in respect of a period that begins on or after that date where—
+  >   - (i) in the case of a single claimant, the claimant gives incorrect information regarding the claimant residing in a district as referred to in that sub-paragraph and the claimant does not reside in such a district on the date on which the claim is made;
+  >   - (ii) in the case of joint claimants, either or both of the joint claimants gives or give incorrect information regarding his or her (or their) residing in such a district and one or both of them does not or do not reside in such a district on the date on which the claim is made,
+  >
+  >   and after a decision is made that the single claimant is, or the joint claimants are, entitled to universal credit and one or more payments have been made in respect of the single claimant or the joint claimants, the Secretary of State discovers that incorrect information has been given regarding residence;
+
+  ; and
+- (e) for article 4(7) there were substituted—
+
+  > (7) Paragraphs (1A) and (1B) of article 5 of the No. 9 Order apply for the purposes of sub-paragraph (r) of paragraph (2) as they apply for the purposes of article 4(2)(a) of the No. 9 Order (but as if the references in paragraph (1A) to Schedule 5 to the No. 9 Order were omitted).
+
+  .
+
+## 7. Modification of the No. 23 Order: claims for housing benefit, income support or a tax credit
+
+Article 7 of the No. 23 Order (prevention of claims for housing benefit, income support or a tax credit)[^f00024] applies as though the reference in paragraph (1) of that article to article 3(1) and (2)(a) to (c) of that Order included—
+
+- (a) a reference to article 3(1) and (2)(a) and (b) of this Order; and
+- (b) a reference to paragraph (1) and sub-paragraph (i) of paragraph (2) of article 3 of the No. 22 Order, in respect of claims in relation to which sub-paragraph (i) is modified by article 6(2) of this Order.
+
+## 8. Modification of the No. 24 Order
+
+(1) Articles 3(2)(bb) and 4(2)(ccc) of the No. 24 Order do not apply to a claim for universal credit to which articles 3(2)(a) and 4(2)(a) of this Order apply.
+
+(2) Article 4(2)(ddd) of the No. 24 Order does not apply to a claim for an employment and support allowance or a jobseeker’s allowance to which article 4(2)(d) of this Order applies.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Freud
+
+Minister of State,
+
+Department for Work and Pensions
+
+## SCHEDULE — POSTCODE DISTRICTS AND PART-DISTRICTS
+
+Article 2(1)
+
+### PART 1
+
+CR0 0.
+
+CR0 5 to CR0 9.
+
+CR9.
+
+SE1 7 to SE1 9.
+
+SE16 2.
+
+SE16 4 to SE16 7.
+
+SE25 4.
+
+SE25 5.
+
+TW14 8.
+
+### PART 2
+
+CR2.
+
+CR3 0.
+
+CR3 5.
+
+CR5.
+
+CR6.
+
+CR7.
+
+CR8.
+
+NR13 3.
+
+NR29.
+
+NR30.
+
+NR31.
+
+SE25 6.
+
+### PART 3
+
+EH21.
+
+EH31.
+
+EH32.
+
+EH33.
+
+EH34.
+
+EH35.
+
+EH36.
+
+EH39.
+
+EH40.
+
+EH41.
+
+EH42.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order brings into force provisions of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) (“the Act”) that relate to universal credit (“UC”) and the abolition of income-related employment and support allowance and income-based jobseeker’s allowance, in relation to the cases set out in articles 3 and 4.
+
+Article 3 brings into force provisions relating to UC in Part 1 of the Act (“the UC provisions”), as set out in Schedule 2 to the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 ([S.I. 2013/983 (C. 41)](https://www.legislation.gov.uk/uksi/2013/983) (“the No. 9 Order”)), in relation to the different cases as set out below.
+
+Under article 3(1) and (2)(a), the UC provisions come into force in relation to a claim for UC, and any award that is made in respect of the claim, where the claim is made on or after 23rd March 2016 with respect to a period that begins on or after 23rd March 2016 and, on the date on which the claim is made, the claimant resides in one of the Part 1 designated postcodes. Sub-paragraph (b) of article 3(2) makes the same provision for claims made on or after 27th April 2016 where the claimant resides in one of the Part 2 designated postcodes. *See* article 2(1) for the definition of those postcodes.
+
+Under article 3(1) and (2)(c), the UC provisions come into force in relation to a claim for UC, and any award that is made in respect of the claim, where the claimant claims UC on or after the dates referred to in article 3(2)(a) and (b) in respect of a period that begins on or after those dates and provides incorrect information regarding the claimant residing in the postcode in question but this is only discovered once payments of UC have been made.
+
+Under article 3(3), the day appointed for the coming into force of the UC provisions in the above cases is the first day of the period in respect of which the claim is made.
+
+Paragraphs (4) and (5) of article 3 apply the provisions of article 3(6) (period for which a claim for UC is made) and article 3A (incorrect information regarding entitlement to claim UC) of the No. 9 Order respectively to the cases in article 3(2) of this Order.
+
+Article 4 brings into force provisions of the Act relating to the abolition of income-related employment and support allowance and income-based jobseeker’s allowance (“the amending provisions”), in relation to the different cases as set out below.
+
+Below, “old style ESA” means employment and support allowance under Part 1 of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), as that Part has effect apart from the amending provisions, and “old style JSA” means jobseeker’s allowance under the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), as that Act has effect apart from the amending provisions.
+
+Under article 4(1) and (2)(a), the amending provisions come into force in relation to a claim for UC, and any award that is made in respect of the claim, where the claim is made on or after 23rd March 2016 with respect to a period that begins on or after 23rd March 2016 and, on the date on which the claim is made, the claimant resides in one of the Part 1 designated postcodes. Sub-paragraph (b) of article 4(2) makes the same provision for claims made on or after 27th April 2016 where the claimant resides in one of the Part 2 designated postcodes.
+
+Under article 4(1) and (2)(c), the amending provisions come into force in relation to a claim for UC, and any award that is made in respect of the claim, where the claimant claims UC on or after the dates referred to in article 4(2)(a) and (b) in respect of a period that begins on or after those dates and provides incorrect information regarding the claimant residing in the postcode in question, but this is only discovered once payments of UC have been made.
+
+Under article 4(1) and sub-paragraphs (d) and (e) of paragraph (2), the amending provisions come into force in relation to a claim for an employment and support allowance (“ESA”) or a jobseeker’s allowance (“JSA”), and any award that is made in respect of the claim, where the claim is made on or after the dates referred to in either of those sub-paragraphs and, on the date on which the claim is made, the claimant resides in one of the postcodes specified in that sub-paragraph.
+
+Under article 4(1) and (2)(f), the amending provisions come into force in relation to the case of a claim for ESA or JSA where the claim is not a claim for ESA or JSA as referred to in article 4(2)(d) and (e) and where the claim is made during the “relevant period” (mainly the period when a claim for UC is being considered or an award of UC is extant).
+
+Under article 4(3), the day appointed for the coming into force of the amending provisions in the above cases is the first day of the period in respect of which the claim is made.
+
+Paragraphs (6) to (8) of article 4 apply the provisions of article 4(6), (7), (9) and (10) (matters included in the reference to the case of a claim for UC) and article 5(1A), (1B) (claim for ESA or JSA by a member of a couple) and (8) (the period for which a claim for ESA, JSA or UC is made) of the No. 9 Order to the cases in article 4(2).
+
+Article 5 provides that articles 9 to 22 of the No. 9 Order apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in article 4(2), and any award made in respect of the claim, as they apply in connection with the coming into force of the amending provisions in relation to the case of a claim referred to in article 4(2)(a), (b) or (g) of the No. 9 Order, and any award made in respect of the claim.
+
+In relation to claims made on or after 23rd March 2016, paragraphs (1) and (2) of article 6 modify the Welfare Reform Act 2012 (Commencement No. 22 and Transitional and Transitory Provisions) Order 2015 ([S.I. 2015/101 (C. 6)](https://www.legislation.gov.uk/uksi/2015/101) (“the No. 22 Order”)) so that the restrictions on claiming UC applied in that Order (“the gateway conditions”) do not apply to the provisions of article 3(2) and 4(2) of that Order for the coming into force of the UC provisions and the amending provisions where claims are made (as the case may be) for universal credit, an employment and support allowance or a jobseeker’s allowance by reference to residence in the Part 3 designated postcodes. Paragraph (3) makes consequential modifications to a number of provisions of the No. 22 Order to allow for claims by couples, which will become possible by virtue of the gateway conditions no longer applying.
+
+Article 7 modifies article 7 of the Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015 ([S.I. 2015/634 (C. 32)](https://www.legislation.gov.uk/uksi/2015/634)) such that, save in specified cases, a person may not make a claim for housing benefit, income support or a tax credit on any date where, if that person made a claim for UC on that date, the UC provisions would come into force in relation to the claim by virtue of article 3(1) and (2)(a) and (b) of this Order, or by virtue of paragraphs (1) and (2)(i) of article 3 of the No. 22 Order in respect of claims for UC in relation to which paragraph (2)(i) is modified by article 6(2) of this Order.
+
+Paragraphs (1) and (2) of article 8 ensure that the provisions of articles 3(2)(bb) and 4(2)(ccc) and (ddd) of the Welfare Reform Act 2012 (Commencement No. 24 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2015 ([S.I. 2015/1537 (C. 87)](https://www.legislation.gov.uk/uksi/2015/1537) (“the No. 24 Order”)) for the coming into force of the UC provisions and the amending provisions do not apply in relation to a claim to which articles 3(2)(a) and 4(2)(a) (in relation to claims for UC) or sub-paragraph (d) of article 4(2) (in relation to claims for ESA or JSA) applies. Those provisions of the No. 24 Order were due to take effect on 25th April 2016 for a claimant residing in one of the Part 1 designated postcodes, as being part of “the No. 80 relevant districts” set out in “the Index of Relevant Districts” published on 20th July 2015 (each as defined in the No. 24 Order), subject to the gateway conditions. However they are now superseded by the equivalent provisions of this Order, which take effect from 23rd March 2016 with no gateway conditions attached.
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+The following provisions of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) were brought into force by a Statutory Instrument which was made before this Order was made.
+
+| Provision | Date of commencement | S.I. Number |
+| --- | --- | --- |
+| Section 1 (partially) | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Section 1 (partially) | 1st July 2013 | [2013/1511](https://www.legislation.gov.uk/uksi/2013/1511) |
+| Section 1 (partially) | 29th July 2013 | [2013/1511](https://www.legislation.gov.uk/uksi/2013/1511) |
+| Section 1 (partially) | 28th October 2013 | [2013/2657](https://www.legislation.gov.uk/uksi/2013/2657) |
+| Section 1 (partially) | 25th November 2013 | [2013/2846](https://www.legislation.gov.uk/uksi/2013/2846) |
+| Section 1 (partially) | 24th February 2014 | [2014/209](https://www.legislation.gov.uk/uksi/2014/209) |
+| Section 1 (partially) | 7th April 2014 | [2014/209](https://www.legislation.gov.uk/uksi/2014/209) |
+| Section 1 (partially) | 23rd June 2014 | [2014/1583](https://www.legislation.gov.uk/uksi/2014/1583) |
+| Section 1 (partially) | 30th June 2014 | [2014/1583](https://www.legislation.gov.uk/uksi/2014/1583) |
+| Section 1 (partially) | 30th June 2014 | [2014/1661](https://www.legislation.gov.uk/uksi/2014/1661) |
+| Section 1 (partially) | 7th July 2014 | [2014/1583](https://www.legislation.gov.uk/uksi/2014/1583) |
+| Section 1 (partially) | 14th July 2014 | [2014/1583](https://www.legislation.gov.uk/uksi/2014/1583) |
+| Section 1 (partially) | 21st July 2014 | [2014/1583](https://www.legislation.gov.uk/uksi/2014/1583) |
+| Section 1 (partially) | 28th July 2014 | [2014/1583](https://www.legislation.gov.uk/uksi/2014/1583) |
+| Section 1 (partially) | 28th July 1014 | [2014/1923](https://www.legislation.gov.uk/uksi/2014/1923) |
+| Section 1 (partially) | 15th September 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 22nd September 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 29th September 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 6th October 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 13th October 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 20th October 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 27th October 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 3rd November 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 10th November 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 17th November 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 24th November 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 24th November 2014 | [2014/3067](https://www.legislation.gov.uk/uksi/2014/3067) |
+| Section 1 (partially) | 26th November 2014 | [2014/3094](https://www.legislation.gov.uk/uksi/2014/3094) |
+| Section 1 (partially) | 1st December 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 8th December 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 15th December 2014 | [2014/2321](https://www.legislation.gov.uk/uksi/2014/2321) |
+| Section 1 (partially) | 26th January 2015 | [2015/32](https://www.legislation.gov.uk/uksi/2015/32) |
+| Section 1 (partially) | 28th January 2015 | [2015/33](https://www.legislation.gov.uk/uksi/2015/33) |
+| Section 1 (partially) | 16th February 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 23rd February 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 2nd March 2015 | [2015/32](https://www.legislation.gov.uk/uksi/2015/32) |
+| Section 1 (partially) | 2nd March 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 9th March 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 16th March 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 18th March 2015 | [2015/634](https://www.legislation.gov.uk/uksi/2015/634) |
+| Section 1 (partially) | 23rd March 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 6th April 2015 | [2015/32](https://www.legislation.gov.uk/uksi/2015/32) |
+| Section 1 (partially) | 6th April 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 13th April 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 20th April 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 27th April 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 4th May 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 11th May 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 18th May 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 25th May 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 1st June 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 8th June 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 10th June 2015 | [2015/634](https://www.legislation.gov.uk/uksi/2015/634) |
+| Section 1 (partially) | 15th June 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 22nd June 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 29th June 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 6th July 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 13th July 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 20th July 2015 | [2015/101](https://www.legislation.gov.uk/uksi/2015/101) |
+| Section 1 (partially) | 21st September 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 28th September 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 5th October 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 12th October 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 19th October 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 26th October 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 2nd November 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 4th November 2015 | [2015/634](https://www.legislation.gov.uk/uksi/2015/634) |
+| Section 1 (partially) | 9th November 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 16th November 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 23rd November 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 30th November 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 2nd December 2015 | [2015/1930](https://www.legislation.gov.uk/uksi/2015/1930) |
+| Section 1 (partially) | 7th December 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 14th December 2015 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 11th January 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 18th January 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 25th January 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 27th January 2016 | [2016/33](https://www.legislation.gov.uk/uksi/2016/33) |
+| Section 1 (partially) | 1st February 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 8th February 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 15th February 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 22nd February 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 24th February 2016 | [2016/33](https://www.legislation.gov.uk/uksi/2016/33) |
+| Section 1 (partially) | 29th February 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 7th March 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 14th March 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 21st March 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 28th March 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 11th April 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 18th April 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 1 (partially) | 25th April 2016 | [2015/1537](https://www.legislation.gov.uk/uksi/2015/1537) |
+| Section 2(1) (partially) | As section 1 | As section 1 |
+| Section 2(2) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 3 (partially) | As section 1 | As section 1 |
+| Section 4(1) and (4) (partially) | As section 1 | As section 1 |
+| Section 4(2), (3) and (5) to (7) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 5 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 5 (partially) | As section 1 | As section 1 |
+| Section 6(1)(a) and (3) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 6 (partially) | As section 1 | As section 1 |
+| Section 7(1) and (4) (partially) | As section 1 | As section 1 |
+| Section 7(2) and (3) | 25th February 2013 | [2013/358\`](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 8 (partially) | As section 1 | As section 1 |
+| Section 8(3) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 9(1) (partially) | As section 1 | As section 1 |
+| Sections 9(2) and (3), 10(2) to (5) and 11(3) to (5) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 10(1) (partially) | As section 1 | As section 1 |
+| Section 11(1) and (2) (partially) | As section 1 | As section 1 |
+| Section 12(1) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 12(1) and (2) (partially) | As section 1 | As section 1 |
+| Section 12(3) and (4) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 13 (partially) | As section 1 | As section 1 |
+| Section 14 (partially) | As section 1 | As section 1 |
+| Section 14(5) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 15(1) and (4) (partially) | As section 1 | As section 1 |
+| Sections 15(2) and (3) and 17(3)(f) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 16 (partially) | As section 1 | As section 1 |
+| Section 17(1), (2), (3)(a) to (e), (4) and (5) (partially) | As section 1 | As section 1 |
+| Section 17(4) and (5) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 18 (partially) | As section 1 | As section 1 |
+| Section 18(3) and (5) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 19(1), (2)(a) to (c), (5) and (6) (partially) | As section 1 | As section 1 |
+| Section 19(2)(d), (3) and (4) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 20(1) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 20 (partially) | As section 1 | As section 1 |
+| Section 21 (partially) | As section 1 | As section 1 |
+| Section 22 (partially) | As section 1 | As section 1 |
+| Section 22(2) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 23 (partially) | As section 1 | As section 1 |
+| Sections 24(1), (5) and (6) and 25 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 24(2), (3) and (4) (partially) | As section 1 | As section 1 |
+| Section 26(1) to (5) (partially) | As section 1 | As section 1 |
+| Section 26(2)(a) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Sections 26(6) to (8), 27(4), (5) and (9) and 28 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 27(1) to (3) and (6) to (8) (partially) | As section 1 | As section 1 |
+| Section 29 | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Sections 30 and 31 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 31 (partially) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 31 (partially) | 29th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 31 (partially) | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Section 32 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 33(1)(a) and (b), (2) and (3) (partially) | 16th June 2014 | [2014/1452](https://www.legislation.gov.uk/uksi/2014/1452) |
+| Section 33(1)(a) and (b), (2) and (3) (partially) | As section 1 | As section 1 |
+| Section 33(1)(e) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Sections 33(3) (partially) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 35 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 35 (partially) | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Section 36 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Sections 37(3) to (7) and 39(3)(a) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 37 (for all remaining purposes) | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Section 38 | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Section 39 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 39 (for all remaining purposes) | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Sections 40, 42 and 43 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 44(1) (partially) | As section 33(1)(a) and (b) | As section 33(1)(a) and (b) |
+| Section 44(2) (partially) | As section 33(1)(a) and (b) | As section 33(1)(a) and (b) |
+| Section 44(5) | 10th June 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 45 | 8th October 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 46(1) and (3) (partially) | 10th June 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 46(1) (partially) | 22nd October 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 46(2) | 10th June 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 46(3) (for all remaining purposes) | 22nd October 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 46(4) | 22nd October 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 47 | 20th March 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 48 (partially) | 22nd October 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 49(1) and (3) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 49(1), (2) and (3) to (5) (partially) | As section 33(1)(a) and (b) | As section 33(1)(a) and (b) |
+| Section 49(6) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 51 (partially) | 20th March 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 51 (for all remaining purposes) | 1st May 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Sections 52 and 53 | 1st May 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 54(1) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 54(1) and (2) (partially) | As section 33(1)(a) and (b) | As section 33(1)(a) and (b) |
+| Section 54(6) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 55 | 3rd December 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 56 | 26th November 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 57(1) and (2) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 57(1), (2), (4), (5) and (9) (partially) | As section 33(1)(a) and (b) | As section 33(1)(a) and (b) |
+| Section 57(6) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 58(1) and (2) | 20th March 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 64 (partially) | 30th October 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 64 (for all remaining purposes) | 5th December 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 65 | 5th December 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 66 (partially) | 30th October 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 66 (partially) | 31st October 2013 | [2013/2534](https://www.legislation.gov.uk/uksi/2013/2534) |
+| Sections 67 and 68 | 5th December 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Section 69 (partially) | 27th November 2012 | [2012/2946](https://www.legislation.gov.uk/uksi/2012/2946) |
+| Section 69 (for all remaining purposes) | 1st January 2013 | [2012/2946](https://www.legislation.gov.uk/uksi/2012/2946) |
+| Section 70(1) and (3) to (10) | 1st April 2013 | [2012/3090](https://www.legislation.gov.uk/uksi/2012/3090) |
+| Section 70(2) | 1st August 2013 | [2012/3090](https://www.legislation.gov.uk/uksi/2012/3090) |
+| Section 73 | 1st April 2013 | [2012/3090](https://www.legislation.gov.uk/uksi/2012/3090) |
+| Section 77(3) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 77(1) to (3) (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 77(1) to (3) (for all remaining purposes) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Section 78(1), (2), (5) and (6) (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 78(1), (2), (5) and (6) (for all remaining purposes) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Section 78(3) and (4) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 79(1), (2), (5) and (6) (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 79(1), (2), (5) and (6) (for all remaining purposes) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Section 79(3), (4) and (7) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Sections 80 and 81 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 82 (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 82 (for all remaining purposes) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Section 83(3) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 83(1) to (3) and 84 (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 83(1) to (3) and 84 (for all remaining purposes) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Sections 85 and 86 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 87 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 87 (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 87 (for all remaining purposes) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Sections 88 and 89 (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Sections 88 and 89 (for all remaining purposes) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Section 91 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 91 (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 91 (partially) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Sections 92, 93 and 94 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 95 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 95 (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 95 (for all remaining purposes) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Section 96 (partially) | 27th November 2012 | [2012/2946](https://www.legislation.gov.uk/uksi/2012/2946) |
+| Section 96 (for all remaining purposes) | 15th April 2013 | [2012/2946](https://www.legislation.gov.uk/uksi/2012/2946) |
+| Section 97(1) to (4) | 27th November 2012 | [2012/2946](https://www.legislation.gov.uk/uksi/2012/2946) |
+| Section 97(5) and (6) | 15th April 2013 | [2012/2946](https://www.legislation.gov.uk/uksi/2012/2946) |
+| Sections 98 and 99 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 100 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 101(1) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 101(2) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 102(1) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 102(2) to (5) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 102(6) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 102(6) (partially) | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Section 104 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 105(1) (partially) | 1st July 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 105(1) (partially) | 1st October 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 105(1) (partially) | 29th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 105(3), (5) and (6) | 29th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 105(4) | 1st October 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 105(7) (partially) | 29th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 106 | 1st July 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 110 (partially) | 17th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Section 110 | 1st October 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Sections 113 to 115 | 8th May 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 116(1) (partially) | 10th May 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 116(1) (for all remaining purposes) | 1st October 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 116(2) | 10th May 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Section 117(1) (partially) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 117(1) (for all remaining purposes) | 6th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 117(2) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 117(3) | 6th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 118(1), (2), (5) and (8)(b) (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 118(1), (2), (5) and (8)(b) (for all remaining purposes) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Sections 118(3), (4), (6), (7) and (8)(a) and (c) and 119 | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Section 120 (partially) | 1st February 2013 | [2013/178](https://www.legislation.gov.uk/uksi/2013/178) |
+| Section 120 (for all remaining purposes) | 6th April 2013 | [2013/178](https://www.legislation.gov.uk/uksi/2013/178) |
+| Sections 122, 123 and 125[^f00025] | 6th June 2012 | [2012/1246](https://www.legislation.gov.uk/uksi/2012/1246) |
+| Sections 128 and 129 | 20th March 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 130 (partially) | 20th March 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 130 (for all remaining purposes) | 8th May 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 131 (partially) | 20th March 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 131 (for all remaining purposes) | 8th May 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 132(8) | 20th March 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 132 (for all remaining purposes) | 8th May 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 133(1) to (4) | 20th March 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Section 133(6) | 2nd July 2012 | [2012/1651](https://www.legislation.gov.uk/uksi/2012/1651) |
+| Sections 136, 140 and 141 | 25th November 2013 | [2013/2947](https://www.legislation.gov.uk/uksi/2013/2947) |
+| Section 137 | 30th June 2014 | [2014/1635](https://www.legislation.gov.uk/uksi/2014/1635) |
+| Sections 143, 144 and 146 | 8th May 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+| Schedule 1 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 2 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 2 (partially) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 2 (partially) | 29th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 2 (partially) | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Schedule 3 (partially) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 3 (partially) | As section 33(1)(a) and (b) | As section 33(1)(a) and (b) |
+| Schedule 5 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 5 (partially) | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Schedule 6 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 7 (partially) | 22nd October 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Schedule 8 (partially) | 1st April 2013 | [2012/3090](https://www.legislation.gov.uk/uksi/2012/3090) |
+| Schedule 8 (for all remaining purposes) | 1st August 2013 | [2012/3090](https://www.legislation.gov.uk/uksi/2012/3090) |
+| Schedule 9 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 9 (partially) | 8th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 9 (partially) | 10th June 2013 | [2013/1250](https://www.legislation.gov.uk/uksi/2013/1250) |
+| Schedule 10 | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 11 (partially) | 25th February 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Schedule 11 (partially) | 29th April 2013 | [2013/983](https://www.legislation.gov.uk/uksi/2013/983) |
+| Part 1 of Schedule 14 (partially) | As Schedule 3 | As Schedule 3 |
+| Part 3 of Schedule 14 (partially) | 22nd October 2012 | [2012/2530](https://www.legislation.gov.uk/uksi/2012/2530) |
+| Parts 4 and 5 of Schedule 14 (partially) | As section 33(1)(a) and (b) | As section 33(1)(a) and (b) |
+| Part 8 of Schedule 14 (partially) | 1st April 2013 | [2012/3090](https://www.legislation.gov.uk/uksi/2012/3090) |
+| Part 8 of Schedule 14 (partially) | 1st August 2013 | [2012/3090](https://www.legislation.gov.uk/uksi/2012/3090) |
+| Part 11 of Schedule 14 (partially) | 1st April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Part 11 of Schedule 14 (partially) | 29th April 2013 | [2013/358](https://www.legislation.gov.uk/uksi/2013/358) |
+| Part 14 of Schedule 14 | 8th May 2012 | [2012/863](https://www.legislation.gov.uk/uksi/2012/863) |
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00002]: Footnote: Article 4 was substituted by [S.I. 2014/1452 (C. 56)](https://www.legislation.gov.uk/uksi/2014/1452) and amended by [S.I. 2014/1923 (C. 88)](https://www.legislation.gov.uk/uksi/2014/1923).
+
+[^f00003]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^f00004]: Footnote: Article 5(1A) was inserted by [S.I. 2014/3067 (C. 129)](https://www.legislation.gov.uk/uksi/2014/3067).
+
+[^f00005]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00006]: Footnote: *See* section 40.
+
+[^f00007]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^f00008]: Footnote: *See* section 40.
+
+[^f00009]: Footnote: [S.I. 2013/983 (C. 41)](https://www.legislation.gov.uk/uksi/2013/983).
+
+[^f00010]: Footnote: [S.I. 2015/101 (C. 6)](https://www.legislation.gov.uk/uksi/2015/101).
+
+[^f00011]: Footnote: [S.I. 2015/634 (C. 32)](https://www.legislation.gov.uk/uksi/2015/634).
+
+[^f00012]: Footnote: [S.I. 2015/1537 (C. 87)](https://www.legislation.gov.uk/uksi/2015/1537).
+
+[^f00013]: Footnote: *See* section 40.
+
+[^f00014]: Footnote: [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380).
+
+[^f00015]: Footnote: Paragraph (1F) was inserted by [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554) and substituted by [S.I. 2009/1490](https://www.legislation.gov.uk/uksi/2009/1490).
+
+[^f00016]: Footnote: Paragraphs (4ZA) to (4ZD) were inserted by [S.I. 2000/1982](https://www.legislation.gov.uk/uksi/2000/1982) and paragraph (4ZC) was amended by [S.I. 2009/1490](https://www.legislation.gov.uk/uksi/2009/1490). Paragraph (4A) was inserted by [S.I. 1996/1460](https://www.legislation.gov.uk/uksi/1996/1460), substituted by [S.I. 1997/793](https://www.legislation.gov.uk/uksi/1997/793) and amended by [S.I. 1999/3108](https://www.legislation.gov.uk/uksi/1999/3108), [S.I. 2000/1982](https://www.legislation.gov.uk/uksi/2000/1982) and [S.I. 2009/1490](https://www.legislation.gov.uk/uksi/2009/1490).
+
+[^f00017]: Footnote: Article 3A was substituted by [S.I. 2014/1923 (C. 88)](https://www.legislation.gov.uk/uksi/2014/1923) and amended by [S.I. 2015/634 (C. 32)](https://www.legislation.gov.uk/uksi/2015/634).
+
+[^key-14d14ab63880a9cfd5a66c5a15f31e99]: Modification: Art. 4 modified (22.7.2020) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/5/2)) (as amended: (4.8.2020) by S.I. 2020/826, regs. 1, 2(2))
+
+[^f00018]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00019]: Footnote: *See* section 3 of the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) as to the meaning of “First-tier Tribunal” and “Upper Tribunal”.
+
+[^f00020]: Footnote: Paragraphs (9) and (10) of article 4 were inserted by [S.I. 2015/32 (C. 3)](https://www.legislation.gov.uk/uksi/2015/32) as amended by [S.I. 2015/101 (C. 6)](https://www.legislation.gov.uk/uksi/2015/101).
+
+[^f00021]: Footnote: Article 5 was substituted by [S.I. 2014/1452 (C. 56)](https://www.legislation.gov.uk/uksi/2014/1452) and amended by [S.I. 2014/1923 (C. 88)](https://www.legislation.gov.uk/uksi/2014/1923); paragraphs (1) to (1B) of article 5 were inserted by [S.I. 2014/3067 (C. 129)](https://www.legislation.gov.uk/uksi/2014/3067).
+
+[^f00022]: Footnote: Articles 10 to 13 of, and Schedule 4 to, the No. 9 Order (Schedule 4 takes effect under article 9) were amended by [S.I. 2013/1511 (C. 60)](https://www.legislation.gov.uk/uksi/2013/1511); article 11 of the No. 9 Order was amended by [S.I. 2013/2657 (C. 107)](https://www.legislation.gov.uk/uksi/2013/2657); articles 9, 11, 13, 15, 18 and 22 of the No. 9 Order were amended by [S.I. 2014/1452 (C. 56)](https://www.legislation.gov.uk/uksi/2014/1452); articles 10, 11, 12 and 13 were amended by [S.I. 2014/3067 (C. 129)](https://www.legislation.gov.uk/uksi/2014/3067).
+
+[^f00023]: Footnote: Articles 3(2)(i) and 4(2)(q) and (r) were modified by [S.I. 2016/33 (C. 3)](https://www.legislation.gov.uk/uksi/2016/33).
+
+[^f00024]: Footnote: Paragraphs (1) and (10)(b) of article 7 were amended by [S.I. 2015/740 (C. 39)](https://www.legislation.gov.uk/uksi/2015/740); paragraph (1) was modified by [S.I. 2015/1930 (C. 118)](https://www.legislation.gov.uk/uksi/2015/1930) and [S.I. 2016/33 (C. 3)](https://www.legislation.gov.uk/uksi/2016/33).
+
+[^f00025]: Footnote: [S.I. 2012/1246 (C. 42)](https://www.legislation.gov.uk/uksi/2012/1246) was amended by [S.I. 2012/1440 (C. 55)](https://www.legislation.gov.uk/uksi/2012/1440) and 2530 (C. 102).

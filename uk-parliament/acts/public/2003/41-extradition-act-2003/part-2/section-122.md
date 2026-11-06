@@ -1,0 +1,36 @@
+---
+title: Extradition Act 2003, section 122
+act: Extradition Act 2003
+section: '122'
+status: revised-with-pending-changes
+text_date: '2026-09-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/41/section/122
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Extradition Act 2003, section 122
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/41
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 122. Withdrawal of request before end of extradition hearing[^c2087175]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if at any time in the relevant period the appropriate judge is informed by the Secretary of State that a request for a person’s extradition has been withdrawn.
+
+(2) The relevant period is the period—
+
+- (a) starting when the person first appears or is brought before the appropriate judge following his arrest under this Part;
+- (b) ending when the judge orders the person’s discharge or sends the case to the Secretary of State for his decision whether the person is to be extradited.
+
+(3) The judge must order the person’s discharge.
+
+(4) If the person is not before the judge at the time the judge orders his discharge, the judge must inform him of the order as soon as practicable.
+
+## Annotations
+
+[^c2087175]: Commencement: Act wholly in force at 1.1.2004, see [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221) and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))

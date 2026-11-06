@@ -1,0 +1,42 @@
+---
+title: Employment Act 2002, section 9
+act: Employment Act 2002
+section: '9'
+status: revised-with-pending-changes
+text_date: '2025-01-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2002/22/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employment Act 2002, section 9
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2025-01-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 9. Decisions and appeals
+
+*Extent: E+W+S+N.I.*
+
+(1) Part 2 of the Social Security Contributions (Transfer of Functions, Etc.) Act 1999 (c. 2) (decisions and appeals) is amended as follows.
+
+(2) In section 8(1) (which lists social security matters in relation to which decisions shall be for an officer of the Board)—
+
+- (a) in paragraph (f) (issues relating to entitlement to statutory sick pay or statutory maternity pay), for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”,
+- (b) in paragraph (g) (other issues relating to those matters) for the words from “under Part” to the end there is substituted “ under Parts 11 to 12ZB of the Social Security Contributions and Benefits Act 1992 (statutory sick pay, statutory maternity pay, statutory paternity pay and statutory adoption pay) ”, and
+- (c) after that paragraph there is inserted—
+
+  > - (ga) to make any decision that falls to be made under regulations under section 7 of the Employment Act 2002 (funding of employers’ liabilities to make payments of statutory paternity or adoption pay),
+
+  .
+
+(3) In section 8(3)(b) (which excludes certain decisions from section 8(1)(g)) for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”.
+
+(4) In section 11 (appeals against decisions of the Board), in subsection (2)(a) (right of employer and employee in the case of statutory sick pay and statutory maternity pay to appeal to tax appeal Commissioners), for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”.
+
+(5) In section 14 (matters arising as respects decisions)—
+
+- (a) in subsection (1)(a)(i) (power to make regulations as respects such matters relating to statutory sick pay or statutory maternity pay), for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”, and
+- (b) in subsection (3) (regulations relating to statutory sick pay or statutory maternity pay to be made with the concurrence of the Secretary of State), for “or statutory maternity pay” there is substituted “ , statutory maternity pay, statutory paternity pay or statutory adoption pay ”.

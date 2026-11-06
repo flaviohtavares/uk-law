@@ -1,0 +1,406 @@
+---
+title: The Employee Study and Training (Procedural Requirements) Regulations 2010
+id: uksi/2010/155
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-01-25'
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/155
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/155/pdfs/uksiem_20100155_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/155/pdfs/uksi_20100155_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/155/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employee Study and Training (Procedural Requirements) Regulations 2010
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 155
+
+Employment And Training
+
+The Employee Study and Training (Procedural Requirements) Regulations 2010
+
+Made
+
+25th January 2010
+
+Laid before Parliament
+
+1st February 2010
+
+Coming into force
+
+6th April 2010
+
+The Secretary of State for Business, Innovation and Skills, in exercise of the powers conferred by sections 63F(3) and (4) and 63H(3) of the Employment Rights Act 1996[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement[^key-095ec362bd7490afc173a1d5bc87d942]
+
+These Regulations may be cited as The Employee Study and Training (Procedural Requirements) Regulations 2010 and come into force on 6th April 2010.
+
+## 2. Interpretation[^key-fe35b275ebaaf84f47869f2fd1d7f4d0]
+
+(1) In these Regulations—
+
+- “the 1996 Act” means the Employment Rights Act 1996;
+- “companion” means a person who satisfies the requirements in regulation 16(2);
+- “electronic communication” means an electronic communication within the meaning of section 15(1) of the Electronic Communications Act 2000[^f00002];
+- “employee” means an individual who has entered into or works under (or, where the employment has ceased, worked under) a contract of employment;
+- “employer” means the person by whom an employee is (or, where the employment has ceased, was) employed;
+- “worker” means an individual who has entered into or works under (or where the employment has ceased, worked under)—
+  - (a) a contract of employment; or
+  - (b) any other contract, whether express or implied and (if it is express) whether oral or in writing, whereby the individual undertakes to do or perform personally any work or services for another party to the contract whose status is not by virtue of the contract that of a client or customer of any profession or business undertaking carried on by the individual:
+- “writing” includes writing delivered by means of electronic communication.
+
+(2) A section 63D application is taken as having been received—
+
+- (a) in relation to an application transmitted by electronic communication, on the day on which it is transmitted; and
+- (b) in relation to an application sent by post, on the day on which the application would be delivered in the ordinary course of post.
+
+(3) A notice is taken as being given—
+
+- (a) in relation to a notice transmitted by electronic communication, on the day on which it is transmitted; and
+- (b) in relation to a notice sent by post, on the day on which the section 63D application would be delivered in the ordinary course of post.
+
+## 3. Circumstances in which employer must ignore earlier application[^key-9ae90dda4368b95875f584e2f76e9853]
+
+(1) For the purposes of section 63F(1) of the 1996 Act, at an employee’s request, an employer must ignore an earlier application if paragraphs (2) or (4) apply.
+
+(2) This paragraph applies where the employee failed to start the agreed study or training due to—
+
+- (a) an emergency or unforeseen circumstance beyond the employee’s control; or
+- (b) cancellation of the study or training by—
+  - (i) the employer;
+  - (ii) the institution at which the employee was due to undertake a course;
+  - (iii) the person whom it was agreed would supervise the training; or
+  - (iv) any other proposed provider or facilitator of the proposed study or training.
+
+(3) Paragraph (2)(b) does not apply where the cancellation of the study or training is attributable to the employee’s own conduct in relation to the study or training.
+
+(4) This paragraph applies where the employee—
+
+- (a) by mistake, submitted a section 63D application (“the earlier application”) too soon after a previous section 63D application for the employer to be required to consider it under section 63F of the 1996 Act;
+- (b) submits a further section 63D application (“the current application”) which the employer would be required to consider but for the earlier application; and
+- (c) at the time of making the current application, notifies the employer that—
+  - (i) the earlier application was submitted too early by mistake; and
+  - (ii) the employee wishes to withdraw the earlier application.
+
+## 4. Meeting to discuss application[^key-5bd8f2bfa79e259ee972ba5299eb6347]
+
+(1) Subject to paragraph (2) and regulation 15, an employer to whom a section 63D application is submitted shall hold a meeting to discuss the application within 28 days after the date on which the application is received.
+
+(2) Paragraph (1) does not apply where the employer agrees to the section 63D application and notifies the employee accordingly in writing within the period referred to in that paragraph.
+
+## 5. Notice of employer’s decision following meeting[^key-618a3a91519bd76b60b107331ae2d659]
+
+Where a meeting is held to discuss a section 63D application, the employer must give the employee notice of the employer’s decision on the application within 14 days after the date of the meeting.
+
+## 6. Form of decision notice[^key-8b28cfff0c6350288dfd8b9cfb32e20d]
+
+(1) A notice under regulation 5 must—
+
+- (a) be in writing; and
+- (b) be dated.
+
+(2) Where the employer’s decision is to agree the section 63D application, a notice under regulation 5 must—
+
+- (a) give the following details of the agreed study or training—
+  - (i) the subject of the study or training;
+  - (ii) where and when it will take place;
+  - (iii) who will provide or supervise it; and
+  - (iv) what qualification (if any) it will lead to; and
+- (b) make clear—
+  - (i) whether any remuneration under the employee’s contract of employment will be paid for the time spent undertaking the agreed study or training;
+  - (ii) any changes to the employee’s working hours in order to accommodate the agreed study or training; and
+  - (iii) how any tuition fees or other direct costs of the agreed study or training will be met.
+
+(3) Where the decision is to refuse the section 63D application, a notice under regulation 5 must—
+
+- (a) state which of the grounds for refusal specified in section 63F(7) of the 1996 Act are considered by the employer to apply;
+- (b) contain a sufficient explanation as to why those grounds apply; and
+- (c) set out the appeal procedure.
+
+(4) Where the employer’s decision is to agree part of a section 63D application and refuse part of a section 63D application, a notice under regulation 5 must—
+
+- (a) make clear which part of the application is agreed to;
+- (b) make clear which part of the application is refused;
+- (c) give, in respect of the part which is agreed to, the information required under paragraph (2); and
+- (d) include, in respect of the part which is refused, the details required under paragraph (3).
+
+## 7. Variation by agreement[^key-be0bfa56d25a56dd3e943391ad5c10a2]
+
+(1) An employer and employee may agree to dispose of a section 63D application, or part of a section 63D application, by the employer granting a varied form of it.
+
+(2) Where agreement is reached by the employer and employee to a varied form of the application, the notice of the employer’s decision under regulation 5 must—
+
+- (a) make clear the variation agreed to;
+- (b) be supported by written evidence of the employee’s agreement to that variation; and
+- (c) make clear—
+  - (i) whether any remuneration under the employee’s contract of employment will be paid for the time spent undertaking the agreed study or training;
+  - (ii) any changes to the employee’s working hours in order to accommodate the agreed study or training; and
+  - (iii) how any tuition fees or other direct costs of the agreed study or training will be met.
+
+## 8. Appeals[^key-1495026f9a80ae5ac9513a8208fd71ad]
+
+An employee is entitled to appeal against the employer’s decision to refuse a section 63D application, or part of a section 63D application, by giving notice in accordance with regulation 9 within 14 days after the date on which notice of the decision is given.
+
+**9.**[^key-a4084b909c34904c74b9ca7820d9685e] A notice of appeal under regulation 8 must—
+
+- (a) be in writing;
+- (b) set out the grounds of appeal; and
+- (c) be dated.
+
+**10.**[^key-1235a58f69aed90bf5e1979c1f74c14d] (1) Subject to paragraph (2), the employer must hold a meeting with the employee to discuss the appeal within 14 days after the date on which notice under regulation 8 is given.
+
+(2) Paragraph (1) does not apply where, within 14 days after the date on which notice under regulation 8 is given, the employer—
+
+- (a) upholds the appeal; and
+- (b) notifies the employee in writing of the employer’s decision, specifying the information required by regulation 6(2).
+
+**11.**[^key-f42a99fd033fa592f32e9d6a74b5f145] Where a meeting is held to discuss the appeal, the employer must notify the employee of the employer’s decision on the appeal within 14 days after the date of the meeting.
+
+**12.**[^key-75f456f89d821ab63f7d47f9b8782eef] (1) Notice under regulation 11 must—
+
+- (a) be in writing; and
+- (b) be dated.
+
+(2) Where the employer upholds the appeal, notice under regulation 11 must specify the information required by regulation 6(2).
+
+(3) Where the employer dismisses the appeal, notice under regulation 11 must—
+
+- (a) state the grounds for the decision; and
+- (b) contain a sufficient explanation as to why those grounds apply.
+
+## 13. Time and place of meetings[^key-c0c9f41efebacc42a9b36e5c5464228f]
+
+The time and place of a meeting under regulation 4(1) or 10(1) must be convenient to the employer and the employee.
+
+## 14. Extension of periods[^key-0501186d39d3b73caf4d8045550e677c]
+
+(1) An employer and employee may agree to an extension of any of the time periods referred to in regulations 4, 5, 8, 10, 11 and 15.
+
+(2) An agreement under paragraph (1) must be recorded in writing by the employer.
+
+(3) The employer’s record referred to in paragraph (2) must—
+
+- (a) specify what period the extension relates to;
+- (b) specify the date on which the extension is to end;
+- (c) be dated; and
+- (d) be given to the employee.
+
+**15.**[^key-8fc9ac57714f51dd2082b39d0ba6a73e] Where the individual who would ordinarily consider a section 63D application is absent from work on annual leave or on sick leave on the day on which the application is received, the period referred to in regulation 4(1) commences on the day the individual returns to work or 28 days after the application is received, whichever is the sooner.
+
+## 16. Right to be accompanied[^key-ba7c9fc79c0c3c4fc651cf755232c8fb]
+
+(1) This regulation applies where—
+
+- (a) a meeting is held under regulation 4(1) or 10(1); and
+- (b) the employee reasonably requests to be accompanied at the meeting.
+
+(2) Where this regulation applies, the employer must permit the employee to be accompanied at the meeting by a single companion who—
+
+- (a) is chosen by the employee to attend the relevant meeting; and
+- (b) is a worker employed by the same employer as the employee.
+
+(3) A companion may—
+
+- (a) address the meeting;
+- (b) confer with the employee during the meeting.
+
+(4) When addressing a meeting, a companion may not answer questions independently of the employee.
+
+(5) If—
+
+- (a) an employee has a right under this regulation to be accompanied at a meeting;
+- (b) his chosen companion will not be available at the time proposed for the meeting by the employer; and
+- (c) the employee proposes an alternative time which satisfies paragraph (6),
+
+the employer must postpone the meeting to the time proposed by the employee.
+
+(6) An alternative time must—
+
+- (a) be convenient for employer, employee and companion; and
+- (b) fall before the end of the period of seven days beginning with the first day after the day proposed by the employer.
+
+(7) An employer shall permit a worker to take time off during working hours for the purpose of accompanying an employee in accordance with a request under paragraph (1)(b).
+
+(8) Sections 168(3) and (4), 169 and 171 to 173 of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00003] (time off for carrying out trade union duties) apply in relation to paragraph (7) above as they apply in relation to section 168(1) of that Act.
+
+## 17. Complaint to employment tribunal[^key-c22f9e0e37138aad8b48ee34d976e221]
+
+(1) An employee may present a complaint to an employment tribunal that the employer has failed, or threatened to fail, to comply with regulation 16(2), (3), or (5).
+
+(2) A tribunal must not consider a complaint under this regulation in relation to a failure or threat unless the complaint is presented—
+
+- (a) before the end of the period of six[^key-fd40fb9f1e5a923cf031ac826839a177] months beginning with the date of the failure or threat; or
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^key-a04327189acd87560515beae86a192d8] months.
+
+(2A)[^key-bc6b02625cac91b8d5646d63ba674288] Regulation 17A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+
+(3) Where a tribunal finds that a complaint under this regulation is well-founded, it must order the employer to pay compensation to the worker of an amount not exceeding two weeks’ pay.
+
+(4) In applying Chapter 2 of Part 14 of the 1996 Act[^f00004] (calculation of a week’s pay) for the purposes of paragraph (3), the calculation date shall be taken to be the date on which the relevant meeting took place (or was to have taken place).
+
+(5) The limit in section 227(1) of the 1996 Act[^f00005] (maximum amount of a week’s pay) shall apply for the purposes of paragraph (3).
+
+## 17A. Extension of time limits to facilitate conciliation before institution of proceedings[^key-d22a32e4b5ee4cfb754a8773581bfcad]
+
+(1) In this regulation—
+
+- (a) Day A is the day on which the worker concerned complies with the requirement in subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
+- (b) Day B is the day on which the worker concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section.
+
+(2) In working out when the time limit set by regulation 17(2)(a) expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+
+(3) If the time limit set by regulation 17(2)(a) would (if not extended by this paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+
+(4) The power conferred on the employment tribunal by regulation 17(2)(b) to extend the time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
+
+## 18. Detriment and dismissal[^key-d04d91b7b678f84ee9089245c05e6209]
+
+(1) A person has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by the person’s employer done on the ground that the person—
+
+- (a) exercised or sought to exercise the right under regulation 16(2) or (5); or
+- (b) at the employee’s request, accompanied or sought to accompany an employee at a meeting held under regulation 4(1) or 10(1).
+
+(2) Section 48 of the 1996 Act[^f00006] applies in relation to contraventions of paragraph (1) as it applies in relation to contraventions of certain sections of that Act.
+
+(3) A person who is dismissed is to be treated for the purposes of Part 10 of the 1996 Act as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the person—
+
+- (a) exercised or sought to exercise his right under regulation 16(2) or (5); or
+- (b) at the employee’s request, accompanied or sought to accompany an employee at a meeting held under regulation 4(1) or 10(1).
+
+(4) Section 108 of the 1996 Act (qualifying period of employment) does not apply in relation to paragraph (3).
+
+(5) Sections 128 to 132 of the 1996 Act[^f00007] (interim relief) apply in relation to dismissal for the reason specified in paragraph (3)(a) or (b) as they apply in relation to dismissal for a reason specified in section 128(1)(b) of that Act.
+
+(6) In the application of Chapter 2 of Part 10 of the 1996 Act in relation to paragraph (3), a reference to an employee is to be treated as a reference to a worker.
+
+## 19. Withdrawal of application by the employee[^key-a6e20c8fd3c74d54df0c021a87624f06]
+
+(1) An employer must treat a section 63D application as withdrawn where the employee has—
+
+- (a) notified the employer either orally or in writing that the employee is withdrawing the application;
+- (b) without reasonable cause, failed to attend a meeting under regulation 4(1) or 10(1) more than once; or
+- (c) without reasonable cause, refused to provide the employer with information the employer requires in order to assess whether the application should be agreed to.
+
+(2) An employer must confirm the withdrawal of the section 63D application to the employee in writing unless the employee has provided him with written notice of the withdrawal under paragraph (1)(a).
+
+## 20. Employee’s duties to inform employer[^key-c8e1bb7de1c7f8360c06e2a722bdc7a4]
+
+(1) An employee must inform the employee’s employer within 14 days of an event listed in s.63H(2) of the 1996 Act occurring.
+
+(2) Notice under paragraph (1) must—
+
+- (a) be in writing; and
+- (b) be dated.
+
+Kevin Brennan
+
+Minister for Further Education, Skills, Apprenticeships and Consumer Affairs
+
+Department for Business, Innovation and Skills
+
+25th January 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations relate to the right to make an application under section 63D of the Employment Rights Act 1996 (“the 1996 Act”) to enable the employee to spend time undertaking study or training.
+
+The Regulations set out the way in which an employer must deal with an application under section 63D for the purposes of section 63F of the 1996 Act.
+
+Regulation 3 sets out the circumstances in which, at an employee’s request, an employer must ignore an earlier application.
+
+Regulation 4 provides that the employer must either hold a meeting to discuss the application or agree to the application in writing within 28 days after the date of receipt. Regulations 5 and 6 make provision about how the employer must notify the employee of the decision on the application. Regulation 7 provides that the employer may grant an altered form of the application by agreeing variations with the employee.
+
+Regulations 8-12 set out the employee’s right to appeal against the employer’s decision. The employee must appeal in writing, setting out the grounds of appeal, within 14 days after the date on which the notice of the decision is given. The employer must hold a meeting to hear the appeal within 14 days after the date on which the notice of appeal is given and notify the employee of the decision within 14 days after the meeting.
+
+Regulation 13 provides that the time and place of meetings must be convenient to both the employer and employee.
+
+Regulations 14 and 15 set out circumstances in which time limits specified in the Regulations may be extended.
+
+Regulation 16 provides that an employee has the right to be accompanied at the meeting to discuss the application or appeal by a worker employed by the same employer and regulation 17 enables the employee to complain to an employment tribunal where the employer has failed or threatened to fail to allow this. Regulation 18 ensures that both the companion and the employee are protected from detriment or dismissal in relation to the exercise of the right to be accompanied.
+
+Regulation 19 sets out when an employer must treat an application as withdrawn.
+
+Regulation 20 specifies how an employee is to comply with the duty to inform the employer if the employee fails to start or complete study or training or undertakes, or proposes to undertake, study or training that differs from that which was agreed.
+
+A full impact assessment of the effect that these Regulations will have on the costs of business is available from the Department for Business, Innovation and Skills, 1 Victoria Street, London, SW1H 0ET.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18); sections 63F and 63H were inserted by section 40 of the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22).
+
+[^key-095ec362bd7490afc173a1d5bc87d942]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-fe35b275ebaaf84f47869f2fd1d7f4d0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/155/regulation/2) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^f00002]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); section 15(1) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 158.
+
+[^key-9ae90dda4368b95875f584e2f76e9853]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/155/regulation/3) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-5bd8f2bfa79e259ee972ba5299eb6347]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/155/regulation/4) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-618a3a91519bd76b60b107331ae2d659]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/155/regulation/5) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-8b28cfff0c6350288dfd8b9cfb32e20d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/155/regulation/6) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-be0bfa56d25a56dd3e943391ad5c10a2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/155/regulation/7) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-1495026f9a80ae5ac9513a8208fd71ad]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/155/regulation/8) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-a4084b909c34904c74b9ca7820d9685e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/155/regulation/9) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-1235a58f69aed90bf5e1979c1f74c14d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/155/regulation/10) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-f42a99fd033fa592f32e9d6a74b5f145]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/155/regulation/11) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-75f456f89d821ab63f7d47f9b8782eef]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/155/regulation/12) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-c0c9f41efebacc42a9b36e5c5464228f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2010/155/regulation/13) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-0501186d39d3b73caf4d8045550e677c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/155/regulation/14) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-8fc9ac57714f51dd2082b39d0ba6a73e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2010/155/regulation/15) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-ba7c9fc79c0c3c4fc651cf755232c8fb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/155/regulation/16) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^f00003]: Footnote: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52). Sections 168(4), 169, 171 and 173 were amended by the Employment Rights (Dispute Resolution) Act [1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8), section 1(2)(a). Section 169 was amended by the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) section 43(1) and (3). Section 171 was amended by the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), Schedule 7, paragraphs 18 and 19. Section 172 was amended by the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) Schedule 7, paragraphs 18 and 20. Section 173 was amended by the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) section 43(1) and (6) and Schedule 7, paragraphs 18 and 21.
+
+[^key-c22f9e0e37138aad8b48ee34d976e221]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2010/155/regulation/17) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-fd40fb9f1e5a923cf031ac826839a177]: Textual amendment: Word in [reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/2010/155/regulation/17/2/a) substituted (1.10.2026) by [The Employee Study and Training (Procedural Requirements) (Amendment) Regulations 2026 (S.I. 2026/473)](https://www.legislation.gov.uk/uksi/2026/473), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/473/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/473/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/473/regulation/3))
+
+[^key-a04327189acd87560515beae86a192d8]: Textual amendment: Word in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2010/155/regulation/17/2/b) substituted (1.10.2026) by [The Employee Study and Training (Procedural Requirements) (Amendment) Regulations 2026 (S.I. 2026/473)](https://www.legislation.gov.uk/uksi/2026/473), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/473/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/473/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/473/regulation/3))
+
+[^key-bc6b02625cac91b8d5646d63ba674288]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2010/155/regulation/17/2A) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 40](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/40)
+
+[^f00004]: Footnote: In Chapter 2 of Part 14 of the 1996 Act, section 225 was amended by the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 1, paragraph 8 and section 227 was amended by the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 1, paragraph 9.
+
+[^f00005]: Footnote: Section 227(1) was amended by [S.I. 2009/1903](https://www.legislation.gov.uk/uksi/2009/1903).
+
+[^key-d22a32e4b5ee4cfb754a8773581bfcad]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2010/155/regulation/17A) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/41)
+
+[^key-d04d91b7b678f84ee9089245c05e6209]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2010/155/regulation/18) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^f00006]: Footnote: Section 48 was amended by the Employment Rights (Dispute Resolution) Act [1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8), section 1(2)(a); the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), Schedule 7, paragraphs 24 and 27; the Employment Relations Act [2004 (c.24)](https://www.legislation.gov.uk/ukpga/2004/24), section 41(3) and the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 1, paragraph 2.
+
+[^f00007]: Footnote: Sections 128, 131 and 132 were amended by the Employment Relations (Dispute Resolution) Act [1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8), section 1(2)(a). In addition, relevant amendments to sections 128 and 129 were made by the Public Interest Disclosure Act [1998 (c.23)](https://www.legislation.gov.uk/ukpga/1998/23), section 9; the Employment Relations Act [1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26), section 6 and [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833). The application of section 130 was modified in its application to employment by the governing body of a school having the right to a delegated budget, in respect of England by [SI 2003/1964](https://www.legislation.gov.uk/uksi/2003/1964) and in respect of Wales by [S.I. 2006/1073](https://www.legislation.gov.uk/uksi/2006/1073).
+
+[^key-a6e20c8fd3c74d54df0c021a87624f06]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/155/regulation/19) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)
+
+[^key-c8e1bb7de1c7f8360c06e2a722bdc7a4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/155/regulation/20) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/155/regulation/1)

@@ -1,0 +1,537 @@
+---
+title: The Education (Student Support) (Amendment) (No. 3) Regulations 2008
+id: uksi/2008/2939
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-11-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/2939
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2939/pdfs/uksiem_20082939_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2939/pdfs/uksi_20082939_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2939/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Support) (Amendment) (No. 3) Regulations 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 2939
+
+Education, England
+
+The Education (Student Support) (Amendment) (No. 3) Regulations 2008
+
+Made
+
+13th November 2008
+
+Laid before Parliament
+
+25th November 2008
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State for Innovation, Universities and Skills makes the following Regulations in exercise of the powers conferred by sections 22 and 42(6) of the Teaching and Higher Education Act 1998[^f00001]:
+
+## 1. Citation, commencement, application and interpretation
+
+(1) These Regulations may be cited as the Education (Student Support) (Amendment) (No. 3) Regulations 2008.
+
+(2) These Regulations come into force on the 22nd day after they are laid before Parliament.
+
+(3) These Regulations apply in relation to England [^f00002].
+
+(4) In these Regulations, “the 2008 Regulations” means the Education (Student Support) Regulations 2008[^f00003] and “the 2008 (No. 2) Regulations” means the Education (Student Support) (No. 2) Regulations 2008[^f00004].
+
+## 2. Amendment of the 2008 Regulations
+
+The 2008 Regulations are amended in accordance with Schedule 1.
+
+## 3. Amendment of the [2008 (No. 2)](https://www.legislation.gov.uk/uksi/2008/1582) Regulations
+
+The [2008 (No. 2)](https://www.legislation.gov.uk/uksi/2008/1582) Regulations are amended in accordance with Schedule 2.
+
+David Lammy
+
+Minister of State
+
+Department for Innovation, Universities and Skills
+
+13th November 2008
+
+## SCHEDULE 1 — AMENDMENT OF THE 2008 REGULATIONS
+
+Regulation 2
+
+### 1. Amendment of regulation 2
+
+In regulation 2(1) in the definition of “2008 cohort student” in sub-paragraph (a), for “attended” substitute “undertaken”.
+
+## SCHEDULE 2 — AMENDMENT OF THE [2008 (No. 2)](https://www.legislation.gov.uk/uksi/2008/1582) REGULATIONS
+
+Regulation 3
+
+### 1. Amendment of regulation 2
+
+In regulation 2(1) for the definition of “2008 cohort student” substitute—
+
+> - “2008 cohort student” means a current system student who begins the current course on or after 1st September 2008 and before 1st September 2009 and to whom one of the following sub-paragraphs applies—
+>   - (a) the student has not previously undertaken any course designated for the purposes of section 22 of the 1998 Act which began before 1st September 2008;
+>   - (b) the student is a type 1 or a type 2 teacher training student; or
+>   - (c) the course leads to qualification as a social worker, medical doctor, dentist, veterinary surgeon, architect, landscape architect, landscape designer, landscape manager, town planner or town and country planner;
+
+.
+
+**2.** In regulation 2(1) after the definition of “2008 cohort student” insert—
+
+> - “2009 cohort student” means a current system student who begins the current course on or after 1st September 2009 and to whom one of the following sub-paragraphs applies—
+>   - (a) the student has not previously undertaken any course which began before 1st September 2008 and which is a previous course;
+>   - (b) the student is a type 1 or a type 2 teacher training student; or
+>   - (c) the course leads to qualification as a social worker, medical doctor, dentist, veterinary surgeon or architect;
+
+.
+
+**3.** In regulation 2(1) in the definition of “end-on course” in sub-paragraph (d), after “a student begins” insert “immediately”.
+
+### 4. Amendment to regulation 10
+
+In regulation 10 for “within a period of nine months beginning with the first day” substitute “no later than the end of the ninth month”.
+
+### 5. Amendment to regulation 13
+
+In regulation 13 after paragraph (1)(b), insert—
+
+> - (c) where the current course begins on or after 1st September 2009, a full-time higher education course, part-time course for the initial training of teachers or a course designated under regulation 6(9), which the student attended or, in the case of a compressed degree course or a designated distance learning course, undertook before the current course where—
+>   - (i) the course meets one or both of the conditions in paragraph (2); and
+>   - (ii) the student’s status as an eligible student has been transferred to the current course pursuant to regulation 8 from a designated course which began before 1st September 2009.
+
+.
+
+### 6. Amendment to regulation 14
+
+In regulation 14 after paragraph (2), insert—
+
+> (2A) Where paragraph (2B) applies, an eligible student is not prevented from qualifying for fee support under this Part because the current course leads to an equivalent or lower qualification, where the student begins the current course on or after 1st September 2009.
+>
+> (2B) This paragraph applies where the student’s status as an eligible student has been transferred to the current course pursuant to regulation 8 from a designated course which began before 1st September 2009.
+
+.
+
+### 7. Amendment to regulation 20
+
+In regulation 20(1)(a) after “regulation 14(1), (2)” insert “, (2A), (2B)”.
+
+### 8. Amendment to regulation 57
+
+After regulation 57 insert—
+
+> **57A. Amount of the maintenance grant – 2009 cohort students**
+>
+> (1) The maximum amount of maintenance grant available to a 2009 cohort student in respect of an academic year is —
+>
+> - (a) in the case of a type 1 or type 3 teacher training student, £1,453;
+> - (b) in the case of a type 2 teacher training student, £2,906; and
+> - (c) in the case of a 2009 cohort student other than a type 1, type 2 or type 3 teacher training student, £2,906.
+>
+> (2) A type 1 teacher training student who is a 2009 cohort student who qualifies for a maintenance grant in respect of an academic year receives an amount as follows in respect of that year—
+>
+> - (a) where the household income is £25,000 or less, the student receives £1,453;
+> - (b) where the household income exceeds £25,000 but does not exceed £34,000, the student receives an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939)where—
+>   - *M* is £1,453
+>   - *A* is £1 for every complete £5.00 by which the household income exceeds £25,000; and
+> - (c) where the household income exceeds £34,000 or the student opts when applying for the grant not to provide the information needed to calculate the household income, the student receives £553.
+>
+> (3) A type 2 teacher training student who is a 2009 cohort student who qualifies for a maintenance grant in respect of an academic year receives an amount as follows in respect of that year —
+>
+> - (a) where the household income is £25,000 or less, the student receives £2,906;
+> - (b) where the household income exceeds £25,000 but does not exceed £34,000, the student receives an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939) where—
+>   - *M* is £2,906
+>   - *A* is £1 for every complete £5.00 by which the household income exceeds £25,000; and
+> - (c) where the household income exceeds £34,000 or the student opts when applying for the grant not to provide the information needed to calculate the household income, the student receives £1,106.
+>
+> (4) A type 3 teacher training student who is a 2009 cohort student who qualifies for a maintenance grant in respect of an academic year receives, subject to sub-paragraph (c), an amount as follows in respect of that year—
+>
+> - (a) where the household income is £25,000 or less, the student receives £1,453;
+> - (b) where the household income exceeds £25,000 but does not exceed £50,020, the student receives an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939) where—
+>   - *M* is £1,453
+>   - *A* is £1 for every complete £5.00 by which the household income exceeds £25,000 but does not exceed £34,000
+>   - *B* is £1 for every complete £15.17 by which the household income exceeds £34,000 but does not exceed £50,020; and
+> - (c) where the household income exceeds £50,020, no maintenance grant is payable.
+>
+> (5) A 2009 cohort student other than a type 1, type 2 or type 3 teacher training student who qualifies for a maintenance grant in respect of an academic year receives, subject to sub-paragraph (c), an amount as follows in respect of that year—
+>
+> - (a) where the household income is £25,000 or less, the student receives £2,906;
+> - (b) where the household income exceeds £25,000 but does not exceed £50,020, the student receives an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939) where—
+>   - *M* is £2,906
+>   - *A* is £1 for every complete £5.00 by which the household income exceeds £25,000 but does not exceed £34,000
+>   - *B* is £1 for every complete £15.17 by which the household income exceeds £34,000 but does not exceed £50,020; and
+> - (c) where the household income exceeds £50,020, no maintenance grant is payable.
+
+.
+
+### 9. Amendment to regulation 58
+
+In the heading of regulation 58 after “**2008**” insert “**or 2009**”.
+
+**10.** In regulation 58 after each occurrence of “2008” insert “or 2009”.
+
+### 11. Amendment of regulation 60
+
+After regulation 60 insert—
+
+> **60A. Amount of the special support grant – 2009 cohort students**
+>
+> (1) The maximum amount of special support grant available to a 2009 cohort student in respect of an academic year is —
+>
+> - (a) in the case of a type 1 or type 3 teacher training student, £1,453;
+> - (b) in the case of a type 2 teacher training student, £2,906; and
+> - (c) in the case of a 2009 cohort student other than a type 1, type 2 or type 3 teacher training student, £2,906.
+>
+> (2) A type 1 teacher training student who is a 2009 cohort student who qualifies for a special support grant in respect of an academic year receives an amount as follows in respect of that year—
+>
+> - (a) where the household income is £25,000 or less, the student receives £1,453;
+> - (b) where the household income exceeds £25,000 but does not exceed £34,000, the student receives an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939)where—
+>   - *M* is £1,453
+>   - *A* is £1 for every complete £5.00 by which the household income exceeds £25,000; and
+> - (c) where the household income exceeds £34,000 or the student opts when applying for the grant not to provide the information needed to calculate the household income, the student receives £553.
+>
+> (3) A type 2 teacher training student who is a 2009 cohort student who qualifies for a special support grant in respect of an academic year receives an amount as follows in respect of that year—
+>
+> - (a) where the household income is £25,000 or less, the student receives £2,906;
+> - (b) where the household income exceeds £25,000 but does not exceed £34,000, the student receives an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939) where—
+>   - *M* is £2,906
+>   - *A* is £1 for every complete £5.00 by which the household income exceeds £25,000; and
+> - (c) where the household income exceeds £34,000 or the student opts when applying for the grant not to provide the information needed to calculate the household income, the student receives £1,106.
+>
+> (4) A type 3 teacher training student who is a 2009 cohort student who qualifies for a special support grant in respect of an academic year receives, subject to sub-paragraph (c), an amount as follows in respect of that year—
+>
+> - (a) where the household income is £25,000 or less, the student receives £1,453;
+> - (b) where the household income exceeds £25,000 but does not exceed £50,020, the student receives an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939)where—
+>   - *M* is £1,453
+>   - *A* is £1 for every complete £5.00 by which the household income exceeds £25,000 but does not exceed £34,000
+>   - *B* is £1 for every complete £15.17 by which the household income exceeds £34,000 but does not exceed £50,020; and
+> - (c) where the household income exceeds £50,020, no special support grant is payable.
+>
+> (5) A 2009 cohort student other than a type 1, type 2 or type 3 teacher training student who qualifies for a special support grant in respect of an academic year receives, subject to sub-paragraph (c), an amount as follows in respect of that year—
+>
+> - (a) where the household income is £25,000 or less, the student receives £2,906;
+> - (b) where the household income exceeds £25,000 but does not exceed £50,020, the student receives an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939) where—
+>   - *M* is £2,906
+>   - *A* is £1 for every complete £5.00 by which the household income exceeds £25,000 but does not exceed £34,000
+>   - *B* is £1 for every complete £15.17 by which the household income exceeds £34,000 but does not exceed £50,020; and
+> - (c) where the household income exceeds £50,020, no special support grant is payable.
+
+.
+
+### 12. Amendment of regulation 61
+
+In the heading of regulation 61 after **“2008”** insert **“or 2009**”.
+
+**13.** In regulation 61 after each occurrence of “2008” insert “or 2009”.
+
+### 14. Amendment to regulation 65
+
+In regulation 65(1)(a) after “qualification” insert—
+
+> - unless the student’s status as an eligible student has been transferred to the current course pursuant to regulation 8 from a designated course which began before 1st September 2009 and the student does not have an honours degree from an institution in the United Kingdom
+
+.
+
+### 15. Amendment of regulation 67
+
+In regulation 67(1) after sub-paragraph (a) insert—
+
+> - (aa) where the eligible student is a 2009 cohort student with full entitlement, in accordance with regulation 68B or 68C;
+
+**16.** In regulation 67(1)(b) after “2008” insert “or 2009”.
+
+### 17. Amendment to regulation 68
+
+In regulation 68(9)(i) for “or” substitute “for”.
+
+### 18. Amendment to regulation 68A
+
+In regulation 68A(2)(ii) for “or” substitute “for”.
+
+**19.** After regulation 68A insert—
+
+> **68B. 2009 cohort students with full entitlement except type 1 and type 2 teacher training students**
+>
+> (1) This regulation applies to a 2009 cohort student with full entitlement except a type 1 or a type 2 teacher training student.
+>
+> (2) Subject to Chapter 4 of this Part, where the student’s household income exceeds £50,778, the maximum amount of loan for living costs for which a student to whom this regulation applies qualifies in respect of an academic year other than the final year of a course that is not an intensive course is equal to *X–Y* where—
+>
+> - *X* is—
+>   - (i) for a student in category A, £3,838;
+>   - (ii) for a student in category B, £6,928;
+>   - (iii) for a student in category C, £5,895;
+>   - (iv) for a student in category D, £4,950;
+> - Subject to paragraph (4), *Y* is £1 for every complete £5.00 by which the household income exceeds £50,778.
+>
+> (3) Subject to Chapter 4 of this Part, where the student’s household income exceeds £50,778, the maximum amount of loan for living costs for which a student to whom this regulation applies qualifies in respect of an academic year that is the final year of a course that is not an intensive course is equal to *X–Y* where—
+>
+> - *X* is—
+>   - (i) for a student in category A, £3,483;
+>   - (ii) for a student in category B, £6,307;
+>   - (iii) for a student in category C, £5,125;
+>   - (iv) for a student in category D, £4,583;
+> - Subject to paragraph (4), *Y* is £1 for every complete £5.00 by which the household income exceeds £50,778.
+>
+> (4) Where the same household income is used to assess the amount of a statutory award for which two or more persons qualify, Y in paragraphs (2) and (3) must be divided by the number of such persons before being deducted from X.
+>
+> (5) Where the maximum amount of loan for living costs is calculated in accordance with paragraph (2) or (3) and is less than the minimum level for the academic year specified in regulation 101, the minimum level for the academic year is payable.
+>
+> (6) Subject to Chapter 4 of this Part, where the student’s household income exceeds £50,020 but does not exceed £50,778, the maximum amount of loan for living costs for which a student to whom this regulation applies qualifies in respect of an academic year other than the final year of a course that is not an intensive course is equal to *X* where—
+>
+> - *X* is—
+>   - (i) for a student in category A, £3,838;
+>   - (ii) for a student in category B, £6,928;
+>   - (iii) for a student in category C, £5,895;
+>   - (iv) for a student in category D, £4,950.
+>
+> (7) Subject to Chapter 4 of this Part, where the student’s household income exceeds £50,020 but does not exceed £50,778, the maximum amount of loan for living costs for which a student to whom this regulation applies qualifies in respect of an academic year that is the final year of a course that is not an intensive course is equal to *X* where—
+>
+> - *X* is—
+>   - (i) for a student in category A, £3,483;
+>   - (ii) for a student in category B, £6,307;
+>   - (iii) for a student in category C, £5,125;
+>   - (iv) for a student in category D, £4,583.
+>
+> (8) Subject to Chapter 4 of this Part, where the student’s household income is £50,020 or less, the maximum amount of loan for living costs for which a student to whom this regulation applies qualifies in respect of an academic year other than the final year of a course that is not an intensive course is equal to *X–Y* where—
+>
+> - *X* is—
+>   - (i) for a student in category A, £3,838;
+>   - (ii) for a student in category B, £6,928;
+>   - (iii) for a student in category C, £5,895;
+>   - (iv) for a student in category D, £4,950;
+> - *Y* is the maintenance grant amount.
+>
+> (9) Subject to Chapter 4 of this Part, where the student’s household income is £50,020 or less, the maximum amount of loan for living costs for which a student to whom this regulation applies qualifies in respect of an academic year that is the final year of a course that is not an intensive course is equal to *X–Y* where—
+>
+> - *X* is—
+>   - (i) for a student in category A, £3,483;
+>   - (ii) for a student in category B, £6,307;
+>   - (iii) for a student in category C, £5,125;
+>   - (iv) for a student in category D, £4,583;
+> - *Y* is the maintenance grant amount.
+>
+> (10) In this regulation, the “maintenance grant amount” is—
+>
+> - (a) where the student is not a type 3 teacher training student and qualifies under Chapter 6 of Part 5 for a maintenance grant, half the amount of the maintenance grant payable;
+> - (b) where the student is a type 3 teacher training student and qualifies under Chapter 6 of Part 5 for a maintenance grant, the amount of maintenance grant payable; and
+> - (c) where no maintenance grant is payable, nil.
+>
+> **68C. Type 1 and type 2 teacher training students who are 2009 cohort students**
+>
+> (1) This regulation applies to a 2009 cohort student who is a type 1 or a type 2 teacher training student with full entitlement.
+>
+> (2) Subject to Chapter 4 of this Part, the maximum amount of loan for living costs for which a student to whom this regulation applies qualifies in respect of an academic year other than the final year of a course that is not an intensive course is equal to *X–(Y+Z)* where—
+>
+> - *X* is—
+>   - (i) for a student in category A, £3,838;
+>   - (ii) for a student in category B, £6,928;
+>   - (iii) for a student in category C, £5,895;
+>   - (iv) for a student in category D, £4,950;
+> - *Y* is the maintenance grant amount;
+> - Subject to paragraph (4), for a type 1 teacher training student Z is £1 for every complete £5.00 by which the household income exceeds £50,778.
+> - For a type 2 teacher training student Z is—
+>   - (i) £1 for every complete £30.33 by which the household income exceeds £34,000 but does not exceed £50,778, for a student who qualifies for a maintenance grant under Chapter 6 of Part 5; and
+>   - (ii) subject to paragraph (4), £1 for every complete £5.00 by which the household income exceeds £50,778.
+>
+> (3) Subject to Chapter 4 of this Part, the maximum amount of loan for living costs for which a student to whom this regulation applies qualifies in respect of an academic year that is the final year of a course that is not an intensive course is equal to *X–(Y+Z)* where—
+>
+> - *X* is—
+>   - (i) for a student in category A, £3,483;
+>   - (ii) for a student in category B, £6,307;
+>   - (iii) for a student in category C, £5,125;
+>   - (iv) for a student in category D, £4,583;
+> - *Y* is the maintenance grant amount;
+> - Subject to paragraph (4), for a type 1 teacher training student Z is £1 for every complete £5.00 by which the household income exceeds £50,778.
+> - For a type 2 teacher training student Z is—
+>   - (i) £1 for every complete £30.33 by which the household income exceeds £34,000 but does not exceed £50,778, for a student who qualifies for a maintenance grant under Chapter 6 of Part 5; and
+>   - (ii) subject to paragraph (4), £1 for every complete £5.00 by which the household income exceeds £50,778.
+>
+> (4) Where the same household income is used to assess the amount of a statutory award for which two or more persons qualify, Z in paragraphs (2) and (3) must be divided by the number of such persons before being deducted from X.
+>
+> (5) Where the sum of the maximum loan for living costs calculated in accordance with paragraph (2) or (3) and *B* is less than the minimum level for the academic year specified in regulation 101, the loan for living costs payable in respect of an academic year to which this regulation applies is calculated as *A–B* where—
+>
+> - *A* is the minimum level for the academic year specified in regulation 101
+> - *B* is—
+>   - (i) for a type 1 teacher training student who qualifies under Chapter 6 of Part 5 for a maintenance grant, £553;
+>   - (ii) for a type 2 teacher training student who qualifies under Chapter 6 of Part 5 for a maintenance grant, £1,106; or
+>   - (iii) where no maintenance grant is payable, nil.
+>
+> (6) In this regulation, “the maintenance grant amount” is—
+>
+> - (a) where the student is a type 1 teacher training student and qualifies under Chapter 6 of Part 5 for—
+>   - (i) an amount of maintenance grant of £553, £553;
+>   - (ii) an amount of maintenance grant exceeding £553, the amount of maintenance grant payable;
+> - (b) where the student is a type 2 teacher training student and qualifies under Chapter 6 of Part 5 for —
+>   - (i) an amount of maintenance grant of £1,106, £553;
+>   - (ii) an amount of maintenance grant exceeding £1,106, half the amount of maintenance grant payable; and
+> - (c) where no maintenance grant is payable, nil.
+
+.
+
+### 20. Amendment of regulation 69
+
+In the heading of regulation 69 after “**2008**” insert “**or 2009”**.
+
+**21.** In regulation 69(1) after “2008” insert “or 2009”.
+
+### 22. Amendment of regulation 70
+
+In the heading of regulation 70 after “**2008**” insert “**or 2009**”.
+
+**23.** In regulation 70(1) after “2008” insert “or 2009”.
+
+### 24. Amendment of regulation 72
+
+In regulation 72(1)(c) after “where the student” insert “, other than a 2009 cohort student,”.
+
+**25.** After regulation 72(1)(c) insert—
+
+> - (d) where a 2009 cohort student applies for a loan for living costs and opts not to provide the information needed to calculate the household income an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939)where—
+>   - *X* is—
+>     - (i) for a student in category A, £2,763;
+>     - (ii) for a student in category B, £4,988;
+>     - (iii) for a student in category C, £4,244;
+>     - (iv) for a student in category D, £3,564;
+>   - *Y* is the amount specified in paragraph (4).
+
+.
+
+**26.** In regulation 72(2)(c) after “where the student” insert “, other than a 2009 cohort student,”.
+
+**27.** After regulation 72(2)(c) insert—
+
+> - (d) where a 2009 cohort student applies for a loan for living costs and opts not to provide the information needed to calculate the household income an amount equal to [formula: see source](https://www.legislation.gov.uk/uksi/2008/2939)where—
+>   - *X* is—
+>     - (i) for a student in category A, £2,508;
+>     - (ii) for a student in category B, £4,541;
+>     - (iii) for a student in category C, £3,690;
+>     - (iv) for a student in category D, £3,300;
+>   - *Y* is the amount specified in paragraph (4).
+
+.
+
+**28.** In regulation 72(3) after “specified amount” insert “for a student other than a 2009 cohort student”.
+
+**29.** After regulation 72(3) insert—
+
+> (4) The specified amount is—
+>
+> - (i) £553 where the student is a type 1 teacher training student who opts not to provide the information needed to calculate the household income when applying for a maintenance grant and who qualifies for a maintenance grant of £553;
+> - (ii) £1,106 where the student is a type 2 teacher training student who opts not to provide the information needed to calculate the household income when applying for a maintenance grant and who qualifies for a maintenance grant of £1,106;
+> - (iii) nil where the student is not a type 1 or type 2 teacher training student.
+
+.
+
+### 30. Amendment of regulation 73
+
+In regulation 73 after each occurrence of “2008” insert “or 2009”.
+
+### 31. Amendment of regulation 79
+
+In regulation 79(1) after “2008” insert “or 2009”.
+
+### 32. Amendment of regulation 80
+
+In regulation 80 after each occurrence of “2008” insert “or 2009”.
+
+### 33. Amendment of regulation 96
+
+In the heading of regulation 96 after “**2008**” insert “**and 2009**”.
+
+**34.** In regulation 96 after “2008” insert “or 2009”.
+
+### 35. Amendment of regulation 97
+
+In the heading of regulation 97 after **“2008**” insert “**or 2009**”.
+
+**36.** In regulation 97 after “2008” insert “or 2009”.
+
+### 37. Amendment of regulation 99
+
+In the heading of regulation 99 after “**2008**” insert “**and 2009**”.
+
+### 38. Amendment of regulation 101
+
+In regulation 101(1) after “paragraphs (2) and (3),” insert “for a student other than a 2009 cohort student”.
+
+**39.** In regulation 101(2) after “paragraph (3),” insert “for a student other than a 2009 cohort student”.
+
+**40.** After regulation 101(2) insert—
+
+> (2A) Subject to paragraphs (2B) and (3), for a 2009 cohort student the “minimum level for the academic year” in regulation 68B(5) and 68C(5) is—
+>
+> - (a) £2,763, in the case of a student in category A;
+> - (b) £4,988, in the case of a student in category B;
+> - (c) £4,244, in the case of a student in category C;
+> - (d) £3,564, in the case of a student in category D.
+>
+> (2B) Subject to paragraph (3), for a 2009 cohort student where the academic year in question is the final year of a course other than an intensive course, the “minimum level for the academic year” is—
+>
+> - (a) £2,508, in the case of a student in category A;
+> - (b) £4,541, in the case of a student in category B;
+> - (c) £3,690, in the case of a student in category C;
+> - (d) £3,300, in the case of a student in category D.
+
+.
+
+**41.** In regulation 101(3) after “paragraphs (1)” omit “and (2)” and insert “, (2), (2A) and (2B)”.
+
+**42.** In regulation 101(4) after “paragraph (1)” omit “or (2)” and insert “, (2), (2A) or (2B)”.
+
+### 43. Amendment of regulation 102
+
+In regulation 102(2) after “2008” insert “or 2009”.
+
+### 44. Amendment of regulation 132
+
+In regulation 132(12) for “2009” substitute “2007”.
+
+### 45. Amendment of Schedule 4
+
+In paragraph 5(3) of Schedule 4 for “95 per cent.” substitute “85 per cent.”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education (Student Support) Regulations 2008 as amended (“the 2008 Regulations”) and the Education (Student Support) (No. 2) Regulations 2008 as amended (“the [2008 (No. 2)](https://www.legislation.gov.uk/uksi/2008/1582) Regulations”) which provide for financial support for students taking designated higher education courses in respect of academic years beginning respectively on or after 1st September 2008 and 1st September 2009.
+
+In regard to the 2008 Regulations, a technical amendment has been made to regulation 2(1) whereby a student who has undertaken rather than attended any previous designated course which began before 1st September 2008 will be excluded from the definition of a “2008 cohort student” therefore ensuring consistency across the 2008 and [2008 (No. 2)](https://www.legislation.gov.uk/uksi/2008/1582) Regulations.
+
+Changes of substance made to the [2008 (No. 2)](https://www.legislation.gov.uk/uksi/2008/1582) Regulations are described below.
+
+Regulation 2(1) introduces the definition of a “2009 cohort student” and consequentially adjusts the definition of a “2008 cohort student”. The amendments differentiate between students who begin their current course before 1st September 2009 and those who begin their current course on or after that date. Consequential amendments are made to regulations 58, 61, 67, 69, 70, 73, 79, 80, 96, 97, 99 and 102.
+
+The financial package for grants and loans for living costs for a 2009 cohort student is set out by the insertion of regulation 57A (maintenance grant), regulation 60A (special support grant), regulation 68B (loan for living costs available to a 2009 cohort student with full entitlement except a type 1 or a type 2 teacher training student), and regulation 68C (loan for living costs available to a 2009 cohort student with full entitlement who is a type 1 or a type 2 teacher training student). Regulation 72 has been amended in regard to the calculation of the maximum amount of loan for living costs for a 2009 cohort student with reduced entitlement who has opted not to provide the information needed to calculate their household income. Regulation 72 has also been amended to include revised minimum maintenance grant figures for a 2009 cohort student who is a type 1 or a type 2 teacher training student. Regulation 101 has been amended to set out the minimum level of loan for living costs available to a 2009 cohort student.
+
+Paragraph 5 of Schedule 4 has been amended so a student can apply for financial reassessment if the residual income is reduced to 85 per cent. rather than 95 per cent..
+
+Regulations 13, 14, 20, and 65 have been amended to clarify the position of a student transferring from a designated course which began before 1st September 2009 to a designated course beginning in the academic year 2009/2010. This ensures that the student is subject to the same student support arrangements that applied to the student in the academic year 2008/2009.
+
+A technical amendment is made to the definition of “end-on course” in regulation 2(1) by the addition of the word “immediately” in sub-paragraph (d) to ensure that there is alignment with sub-paragraphs (a)-(c) of that definition.
+
+A drafting correction has been made to regulation 10 clarifying that the time limit for a student to apply for support to the Secretary of State in connection with each academic year of a designated course is no later than the end of nine months from the first day of the academic year in respect of which the application is submitted. An error has been corrected in regulation 132(12) where “1st September 2009” is replaced by “1st September 2007”. Typographical errors in regulations 68(9) and 68A(2) have also been corrected.
+
+An impact assessment has not been produced for this instrument as it has no impact on the cost of business, charities or the voluntary sector. The impact on the public sector is minimal.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); section 22 was amended by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146 and Schedule 11, the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 147 and the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), sections 42 and 43 and Schedule 7. See section 43(1) of the 1998 Act for the definition of “prescribed” and “regulations”.
+
+[^f00002]: Footnote: In relation to Wales, the functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 were transferred to the Welsh Ministers under section 44 of the Higher Education Act 2004 except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22.
+
+[^f00003]: Footnote: [S.I. 2008/529](https://www.legislation.gov.uk/uksi/2008/529), amended by [S.I. 2008/1582](https://www.legislation.gov.uk/uksi/2008/1582) and [S.I. 2008/2094](https://www.legislation.gov.uk/uksi/2008/2094).
+
+[^f00004]: Footnote: [S.I.2008/1582](https://www.legislation.gov.uk/uksi/2008/1582), amended by [S.I. 2008/2094](https://www.legislation.gov.uk/uksi/2008/2094).

@@ -1,0 +1,23 @@
+---
+title: Towns Improvement Clauses Act 1847, section 60
+act: Towns Improvement Clauses Act 1847
+section: '60'
+status: revised
+text_date: '2016-10-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/10-11/34/section/60
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Towns Improvement Clauses Act 1847, section 60
+
+> Text as at 2016-10-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 60. Persons laying out streets without notice to be liable to the expences of subsequent alterations of levels.
+
+*Extent: E+W+S+N.I.*
+
+Every person who makes or lays out any such new street as aforesaid, without causing such notice to be given to the commissioners as aforesaid, shall be liable to defray all the expences consequent upon any change of the level of the said street deemed requisite by the commissioners; and every person who in building any house or other building in such street does not keep the level fixed by the commissioners shall be liable to defray all the expences consequent upon any change of the level of that part of the street on which such house or building abuts which the commissioners deem requisite.

@@ -1,0 +1,50 @@
+---
+title: Finance Act 2025, section 53
+act: Finance Act 2025
+section: '53'
+status: revised
+text_date: '2026-04-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/8/section/53
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2025, section 53
+
+> Text as at 2026-04-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 53. Purchases by companies etc
+
+*Extent: E+W+S+N.I.*
+
+(1) In—
+
+- (a) paragraph 3(1)(a) of Schedule 4A to FA 2003 (higher rate of SDLT for purchases by companies etc), and
+- (b) step 4 in section 74(1A) of FA 2003 (exercise of collective rights by tenants of flats where condition in paragraph 3(3) of that Schedule is met),
+
+for “15%” substitute “17%”.
+
+(2) The amendments made by this section have effect in relation to land transactions the effective date of which falls on or after 31 October 2024.
+
+(3) But the amendments made by this section do not have effect in relation to a land transaction which—
+
+- (a) is effected in pursuance of a contract entered into before that date, and
+- (b) is not excluded.
+
+(4) For this purpose a land transaction is excluded if—
+
+- (a) there is any variation of the contract, or assignment of rights under the contract, on or after 31 October 2024,
+- (b) the transaction is effected in consequence of the exercise on or after that date of any option, right of pre-emption or similar right, or
+- (c) on or after that date, there is an assignment, subsale or other transaction relating to the whole or part of the subject-matter of the contract as a result of which a person other than the purchaser under the contract becomes entitled to call for a conveyance.
+
+(5) In a case where—
+
+- (a) as a result of section 44(4) of FA 2003 the effective date of a land transaction is before 31 October 2024, and
+- (b) the contract concerned is completed by a conveyance on or after that date,
+
+section 44(8) of that Act is not to apply in relation to that conveyance if the sole reason that (but for this subsection) it would have applied is that the increased rates provided for by this section would have had effect in relation to that conveyance.
+
+(6) Section 44(10) of FA 2003 applies for the purposes of subsection (5).

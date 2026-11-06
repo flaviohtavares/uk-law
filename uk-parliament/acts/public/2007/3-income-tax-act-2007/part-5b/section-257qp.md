@@ -1,0 +1,32 @@
+---
+title: Income Tax Act 2007, section 257QP
+act: Income Tax Act 2007
+section: 257QP
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/3/section/257QP
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax Act 2007, section 257QP
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 257QP. Repayment of authorised minimum within 12 months[^key-aaf10c7dc329529b2ca19087f01e69e7]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) a company issues share capital (“the original shares”) of nominal value equal to the authorised minimum (within the meaning of the Companies Act 2006) for the purposes of complying with section 761 of that Act (public company: requirement as to minimum share capital), and
+- (b) the registrar of companies issues the company with a certificate under that section.
+
+(2) Section 257QJ(2) does not apply in relation to any redemption of the original shares within 12 months of the date on which they were issued.
+
+## Annotations
+
+[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)

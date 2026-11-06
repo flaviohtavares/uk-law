@@ -1,0 +1,96 @@
+---
+title: The Retirement Benefits Schemes (Restriction on Discretion to Approve) (Excepted Provisions) Regulations 2000
+id: uksi/2000/1087
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-04-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/1087
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1087/pdfs/uksi_20001087_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1087/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Retirement Benefits Schemes (Restriction on Discretion to Approve) (Excepted Provisions) Regulations 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 1087
+
+INCOME TAX
+
+The Retirement Benefits Schemes (Restriction on Discretion to Approve) (Excepted Provisions) Regulations 2000
+
+Made
+
+14th April 2000
+
+Laid before the House of Commons
+
+19th April 2000
+
+Coming into force
+
+10th May 2000
+
+The Commissioners of Inland Revenue, in exercise of the powers conferred on them by section 591A(2) of the Income and Corporation Taxes Act 1988[^f00001], hereby make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Excepted Provisions) Regulations 2000 and shall come into force on 10th May 2000 immediately after the coming into force of the 2000 Regulations and the second 2000 Regulations.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the 1991 Regulations” means the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991[^f00002];
+- “the 1993 Regulations” means the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Additional Voluntary Contributions) Regulations 1993[^f00003];
+- “the 2000 Regulations” means the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Scheems) (Amendment) Regulations 2000[^f00004];
+- “the second 2000 Regulations” means the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Additional Voluntary Contributions) (Amendment) Regulations 2000[^f00005]
+
+## 3. Description of provisions
+
+regulations 4 and 5 specify descriptions of provisions for the purposes of subsection (2) of section 591A of the Income and Corporation Taxes Act 1988, each provision so specified being a provision of a required descriptionw ithin the meaning of subsection (5)9b) of tht section.
+
+**4.** The description of provision specified in this regulation consists of the provisions specified in regulations 4 to 9 of the 1991 Regulations, read together with paragraph (1) of regulation 2 of the 1991 Regulations as that paragraph is amended by regulation 2 of the 2000 Regulations.
+
+**5.** The description of provision specified in this regulation consists of—
+
+- (a) the provisions specified in regulation 5 of the 1993 Regulations as amended by regulation 3 of the second 2000 Regulations; and
+- (b) the provisions specified in regulations 4 and 5 of the 1993 Regulations, readd together with regulation 6 of the 1993 Regulations as that regulation is amended by regulation 4 of the second 2000 Regulations.
+
+Nick Montagu
+
+Tim Flesher
+
+Two of the Commissioners of Inland Revenue
+
+14th April 2000
+
+(This note is not part of the Regulations)
+
+The Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991 (“the 1991 Regulations ”) and the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Additional Voluntary Contributions) Regulations 1993 (“the 1993 Regulations ”) restrict the Board of Inland Revenue’s discretion to approve retirement benefits schemes under section 591 of the Income and Corporation Taxes Act 1988 (“the Taxes Act”).
+
+The 1991 Regulations are amended by the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) (Amendment) Regulations 2000 (“the 2000 Regulations”) (S.I. [2000/1086](https://www.legislation.gov.uk/uksi/2000/1086)) and the 1993 Regulations are amended by the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Additional Voluntary Contributions) (Amendment) Regulations 2000 (“the second 2000 Regulations”) (S.I. [2000/1088](https://www.legislation.gov.uk/uksi/2000/1088)).
+
+By virtue of section 591A of the Taxes Act (“section 591A”) the 1991 Regulations and the 1993 Regulations also apply to retirement benefits schemes approved by the Board before the coming into force of those Regulations or any amendments to those Regulations (“existing approved schemes”) except to the extent that any provisions in the 1991 Regulations or the 1993 Regulations are disapplied by separate Regulations made under section 591A.
+
+These Regulations disapply in relation to existing approved schemes the provisions in regulations 4 to 9 of the 1991 Regulations, read together with regulation 2(1) of the 1991 Regulations as amended by the 2000 Regulations. They also disapply in relation to existing approved schemes the provisions in regulation 5 of the 1993 Regulations as amended by regulation 3 of the second 2000 Regulations, and the provisions in regulations 4 and 5 of the 1993 Regulations, read together with regulation 6 of the 1993 Regulations as amended by regulation 4 of the second 2000 Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Section 591A was inserted by section 35 of the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31).
+
+[^f00002]: Footnote: S.I. [1991/1614](https://www.legislation.gov.uk/uksi/1991/1614), amended by S.I. [1998/728](https://www.legislation.gov.uk/uksi/1998/728) and S.I. [1998/1315](https://www.legislation.gov.uk/uksi/1998/1315).
+
+[^f00003]: Footnote: S.I. [1993/3016](https://www.legislation.gov.uk/uksi/1993/3016).
+
+[^f00004]: Footnote: S.I. [2000/1086](https://www.legislation.gov.uk/uksi/2000/1086).
+
+[^f00005]: Footnote: S.I. [2000/1088](https://www.legislation.gov.uk/uksi/2000/1088).

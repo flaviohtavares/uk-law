@@ -1,0 +1,114 @@
+---
+title: The National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment Regulations 2010
+id: uksi/2010/1727
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-07-02'
+text_date: '2015-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/1727
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1727/pdfs/uksiem_20101727_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1727/pdfs/uksi_20101727_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1727/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment Regulations 2010
+
+> Text as at 2015-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 1727
+
+National Health Service, England
+
+The National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment Regulations 2010
+
+Made
+
+2nd July 2010
+
+Laid before Parliament
+
+6th July 2010
+
+Coming into force
+
+1st August 2010
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 172, 182, 183, 184 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
+
+## 1. Citation and commencement[^key-b391097922f0db41c562799c1581f4a4]
+
+These Regulations may be cited as the National Health Service (Charges for Drugs and Appliances) and (Travel Expenses and Remission of Charges) Amendment Regulations 2010 and shall come into force on 1st August 2010.
+
+## 2. Amendment of the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^key-9c1981fec57162621de1d56924763642]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Modifications of the Income Support Regulations in Schedule 1 to the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^key-d870ab552a534222a336a4c525034ee4]
+
+(1) Table A in Schedule 1 to the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00003] (modifications of the Income Support (General) Regulations 1987) is amended as follows.
+
+(2) In the modifications of regulation 62 (calculation of grant income), for the entry relating to the insertion of paragraph (2C) substitute the following—
+
+> (2C) There shall also be disregarded from a student’s grant income—
+>
+> - (a) any sum by way of maintenance grant available to a student under regulations 57 to 59 of the Education (Student Support) Regulations 2009[^f00004] which is not taken into account in the calculation of the maximum amount of a loan for living costs under Chapter 2 of Part 6 of those Regulations;
+> - (b) any sum by way of maintenance grant available to a student under regulations 38 or 39 of the Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2009[^f00005] which is not taken into account in the calculation of the maximum amount of a loan for living costs under regulations 46 to 48 of those Regulations; and
+> - (c) any sum by way of maintenance grant available to a student under regulation 58 of the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009[^f00006] which is not taken into account in the calculation of the maximum amount of a loan for living costs under regulation 66 of those Regulations.
+
+(3) In the modifications of regulation 66A (treatment of student loans), in the first entry, for “Student Support Information Guide 2009-2010” substitute “Student Support Information Guide 2010-2011[^f00007]”.
+
+Signed by authority of the Secretary of State for Health.
+
+Earl Howe
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+2nd July 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations which apply to England amend the National Health Service (Charges for Drugs and Appliances) Regulations 2000 (“the Charges Regulations”) and the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003 (“the Travel Expenses and Remission of Charges Regulations”).
+
+Regulation 2 inserts regulation 7D in the Charges Regulations to provide for the free provision of pharmaceutical services, local pharmaceutical services and dispensing services on the presentation of a prescription form which has been provided and issued under the provisions which apply in Northern Ireland.
+
+Regulation 3 updates—
+
+- (a) references to student funding regulations in England, Wales and Northern Ireland. These set out the entitlement to grants and loans available to students. Certain of the amounts of student maintenance grants are disregarded in calculating the entitlement of students to the payment of travel expenses and the remission of charges under the Travel Expenses and Remission of Charges Regulations, , and
+- (b) the reference to the publication which describes additional loans paid under the Education (Student Loans) (Scotland) Regulations 2007. These loans are disregarded in the calculation of a student’s loan income when a person’s entitlement to the payment of NHS travel expenses and the remission of NHS charges is being established under the Travel Expenses and Remission of Charges Regulations.
+
+A full impact assessment has not been produced for this instrument as no impact on the private and voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). By virtue of section 271 of the Act the powers exercised by the Secretary of State in making these Regulations are exercisable only in relation to England. The expressions “prescribed” and “regulations”, which are relevant to the powers being exercised in these Regulations, are defined in section 275 of the Act.
+
+[^key-b391097922f0db41c562799c1581f4a4]: Commencement: Reg. 1 in force at 1.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1727/regulation/1)
+
+[^key-9c1981fec57162621de1d56924763642]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1727/regulation/2) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+
+[^key-d870ab552a534222a336a4c525034ee4]: Commencement: Reg. 3 in force at 1.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1727/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); relevant amendments are made by [S.I 2006/2171](https://www.legislation.gov.uk/uksi/2006/2171), [2007/1975](https://www.legislation.gov.uk/uksi/2007/1975) and [2009/1599](https://www.legislation.gov.uk/uksi/2009/1599).
+
+[^f00004]: Footnote: [S.I. 2009/1555](https://www.legislation.gov.uk/uksi/2009/1555).
+
+[^f00005]: Footnote: [S.I. 2009/2737 (W..235)](https://www.legislation.gov.uk/wsi/2009/2737).
+
+[^f00006]: Footnote: [S.R. 2009/373 (N.I.)](https://www.legislation.gov.uk/nisr/2009/373).
+
+[^f00007]: Footnote: The Guide is available on the Student Awards Agency for Scotland website at www.saas.gov.uk.

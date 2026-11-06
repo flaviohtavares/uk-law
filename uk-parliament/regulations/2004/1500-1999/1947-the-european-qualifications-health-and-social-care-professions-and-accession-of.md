@@ -1,0 +1,620 @@
+---
+title: The European Qualifications (Health and Social Care Professions and Accession of New Member States) Regulations 2004
+id: uksi/2004/1947
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-07-21'
+text_date: '2010-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/1947
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1947/pdfs/uksiem_20041947_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1947/pdfs/uksi_20041947_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1947/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The European Qualifications (Health and Social Care Professions and Accession of New Member States) Regulations 2004
+
+> Text as at 2010-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 1947
+
+HEALTH CARE AND ASSOCIATED PROFESSIONS
+
+The European Qualifications (Health and Social Care Professions and Accession of New Member States) Regulations 2004
+
+Made
+
+21st July 2004
+
+Laid before Parliament
+
+28th July 2004
+
+Coming into force
+
+18th August 2004
+
+The Secretary of State for Health, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c5255301] in relation to measures relating to access to, the training for, the pursuit of, and the award of qualifications in the professions of dentistry, medicine, midwifery, nursing and pharmacy and their specialties [^c5255311], in relation to measures relating to access to, the training for, the pursuit of, and the award of qualifications in the profession of social worker [^c5255321], and in relation to the recognition of higher-education diplomas, formal qualifications, or experience in the occupation, required for the pursuit of professions or occupations [^c5255331], in the exercise of the powers conferred by the said section 2(2) [^c5255341], and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the European Qualifications (Health and Social Care Professions and Accession of New Member States) Regulations 2004.
+
+(2) These Regulations shall come into force on 18th August 2004.
+
+(3) The extent of any amendment made by these Regulations is the same as that of the enactment amended.
+
+## NURSES AND MIDWIVES
+
+### 2. The Nursing and Midwifery Order 2001
+
+(1) The Nursing and Midwifery Order 2001 [^c5255351] is amended in accordance with this regulation.
+
+(2) In Schedule 4 to the Nursing and Midwifery Order 2001 (interpretation)—
+
+- (a) in the definition of—
+  - (i) “EEA Agreement”, insert at the end “ and by the Agreement on the participation of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic signed at Luxembourg on 14th October 2003 ”,
+  - (ii) “Midwifery Directive”, for “and the Swiss Agreement” substitute “ , the Swiss Agreement and the Act of Accession 2003 ”, and
+  - (iii) “Nursing Directive”, for “and the Swiss Agreement” substitute “ , the Swiss Agreement and the Act of Accession 2003 ”;
+- (b) insert the following definition at the appropriate place—
+
+  > - “**the Act of Accession 2003**” means the Act annexed to the Treaty relating to the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the Adjustments to the Treaties on which the European Union is founded signed at Athens on 16th April 2003;
+
+  .
+
+## DOCTORS
+
+### 3. The Medical Act 1983
+
+(1) The Medical Act 1983 [^c5255361] is amended in accordance with this regulation.
+
+(2) In section 3 (registration by virtue of primary United Kingdom or primary European qualifications), in subsection (3), in the definition of “the EEA Agreement”, for “and 84/2002 of 25th June 2002”, substitute “ , 84/2002 of 25th June 2002 and by the Agreement on the participation of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic signed at Luxembourg on 14th October 2003 [^c5255371] ”.
+
+(3) In section 4 (qualifying examinations and primary United Kingdom qualifications), omit subsection (5).
+
+(4) In section 5 (general functions of the Education Committee in relation to medical education in the United Kingdom), in subsection (4), in the definition of “Directive [93/16/EEC](https://www.legislation.gov.uk/european/directive/1993/0016)”—
+
+- (a) in sub-paragraph (b)(ii), omit “and” in the last place it appears; and
+- (b) after sub-paragraph (b)(iii), insert—
+
+  > - (iv) the Act annexed to the Treaty relating to the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the Adjustments to the Treaties on which the European Union is founded signed at Athens on 16th April 2003;
+
+  .
+
+(5) In section 17 (primary qualifications obtained in other EEA States)—
+
+- (a) in subsection (1), after paragraph (d), insert—
+
+  > - (e) subject to compliance with subsection (4A) below, a qualification which—
+  >   - (i) is evidence of training commenced before the date specified in column (a) of the table in that subsection and undertaken on the territory specified in the corresponding entry in column (b) of that table, or
+  >   - (ii) was awarded by the state or former state specified in column (b) of the table in that subsection before the date specified in the corresponding entry in column (a).
+
+  ;
+- (b) after subsection (4), insert—
+
+  > (4A) For compliance with this subsection in the case of any qualification—
+  >
+  > - (a) it must be such that the Registrar is satisfied with respect to it (by means of a certificate from the medical authorities of the EEA State specified in the appropriate row of column (c) of the table below) that that qualification has, on its territory, the same legal validity as regards access to and practice of the medical profession as the qualification listed in relation to that State in Schedule 2 to this Act; and
+  > - (b) evidence of it must be accompanied by a certificate from those authorities stating that the holder has effectively and lawfully been engaged in the activity in question on the territory of that State for at least 3 consecutive years during the 5 years preceding the date of issue of that certificate.
+  >
+  >   | *Column (a)* | *Column (b)* | *Column (c)* |
+  >   | --- | --- | --- |
+  >   | 1st January 1993 | Former Czechoslovakia | Czech Republic |
+  >   | 1st January 1993 | Former Czechoslovakia | Slovakia |
+  >   | 20th August 1991 | Former Soviet Union | Estonia |
+  >   | 21st August 1991 | Former Soviet Union | Latvia |
+  >   | 11th March 1990 | Former Soviet Union | Lithuania |
+  >   | 25th June 1991 | Yugoslavia | Slovenia |
+- (c) in subsection (5), for “(4)”, substitute “ (4A) ”; and
+- (d) in subsection (6)—
+  - (i) omit “and” at the end of paragraph (da), and
+  - (ii) after paragraph (da), insert—
+
+    > - (db) in the case of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, 1st May 2004;
+
+    .
+
+(6) In the table in Schedule 2 (primary European Qualifications)—
+
+- (a) in the entry for “Greece”, in column 3, for “lατρικής”, substitute “ “Ιατρικής” ”; and
+- (b) in the appropriate alphabetical position insert—
+
+  > <table>
+  > <tbody>
+  > <tr><td colspan="25">Cyprus</td><td colspan="25">Πιοστοποιητικό Εγγραφής Ιατρού</td><td colspan="25">Ιατρικό Συμβούλιο</td><td colspan="25">   </td></tr>
+  > <tr><td colspan="25">Czech Republic</td><td colspan="25">Diplom o ukončení studia ve studijním programu všeobecné lékařství (doktor medicíny, MUDr.)</td><td colspan="25">Lékářská fakulta univerzity v České republice</td><td colspan="25">Vysvědčení o státní rigorózní zkoušce</td></tr>
+  > </tbody>
+  > </table>
+  >
+  > <table>
+  > <tbody>
+  > <tr><td colspan="25">Estonia</td><td colspan="25">Diplom arstite aduse õppekava läbimise kohta</td><td colspan="25">Tartu Ülikool</td><td colspan="25">   </td></tr>
+  > </tbody>
+  > </table>
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Hungary | Általános orvos oklevél (doctor medicinae universae, abbrev.: dr.med.univ. ) | Egyetem |  |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Latvia | ārsta diploms | Universitātes tipa augstskola |  |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Lithuania | Aukštojo moklso diplomas, nurodantis suteiktą gydytojo kvalifikaciją | Universitetas | Internatūros pažymèjimas, nurodantis suteiktą medicinos gydytojo profesinę kvalifikaciją |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Malta | Lawrja ta' Tabib tal-Mediċina u l-Kirurġija | Università ta' Malta | Ċertifikat ta' reġistrazzjoni maħruġ mill-Kunsill Mediku |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Poland | Dyplom ukończenia studiów wyższych na kierunku lekarskim z tytulem "lekarza" | 1\. Akademia Medyczna 2. Uniwersytet Medyczny 3. Collegium Medicum Uniwersytetu Jagiellońskiego | Lekarski Egzamin Państwowy |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Slovakia | Vysokoškolský diplom o udeleni akademického titulu "doktor medicíny" ("MUDr.") | Vysoká škola |  |
+  > | Slovenia | Diploma, s katero se podeljuje strokovni naslov "doktor medicine/doktorica medicine" | Univerza |  |
+
+## DOCTORS—SPECIALISTS AND GENERAL MEDICAL PRACTITIONERS
+
+### 4. Performance of functions under Schedule 8 to the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1998[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. The National Health Service (Vocational Training for General Medical Practice) (Scotland) Regulations 1998[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. The National Health Service (Vocational Training for General Medical Practice) Regulations 1997[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. The European Specialist Medical Qualifications Order 1995[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. The Vocational Training for General Medical Practice (European Requirements) Regulations 1994[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## DENTISTS
+
+### 11. The Dentists Act 1984
+
+(1) The Dentists Act 1984 [^c5255591] is amended in accordance with this regulation.
+
+(2) In section 15 (qualification for registration in the dentists register), in subsection (7), in the definition of “EEA Agreement”, at the end, insert “ and by the Agreement on the participation of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic signed at Luxembourg on 14th October 2003 ”.
+
+(3) In Schedule 2 (European dental qualifications)—
+
+- (a) in paragraph 1(1), in the definition of—
+  - (i) “Community Council Directive No [78/686/EEC](https://www.legislation.gov.uk/european/directive/1978/0686)”, for “and the Swiss Agreement”, substitute “ , the Swiss Agreement and the Act of Accession 2003; ”,
+  - (ii) “the Dental Training Directive”, for “and Directive [2001/19/EC](https://www.legislation.gov.uk/european/directive/2001/0019)”, substitute “ , Directive [2001/19/EC](https://www.legislation.gov.uk/european/directive/2001/0019) and the Act of Accession 2003 ”, and
+  - (iii) “the implementation date”, omit “and” at the end of sub-paragraph (da) and after sub-paragraph (da), insert—
+
+    > - (db) in the case of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, 1st May 2004;
+
+    ;
+- (b) in paragraph 1(2), after the definition of “the Swiss Agreement” insert—
+
+  > “**the Act of Accession 2003**” means the Act annexed to the Treaty relating to the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the Adjustments to the Treaties on which the European Union is founded signed at Athens on 16th April 2003.
+
+  ;
+- (c) after paragraph 7, add—
+
+  > **8.**
+  >
+  > (1) A diploma in dentistry which—
+  >
+  > - (a) is evidence of training that commenced before the date specified in column (a) of the table below in the territory specified in the corresponding entry in column (b) of that table; or
+  > - (b) was awarded by the state (or former state) specified in column (b) of that table before the date specified in the corresponding entry in column (a) of that table,
+  >
+  > is an appropriate European diploma for the purposes of section 15(1)(b) of this Act if the holder produces to the registrar the certificates specified in sub-paragraph (2).
+  >
+  > (2) The certificates specified for the purposes of sub-paragraph (1) are—
+  >
+  > - (a) a certificate of the competent authority of the EEA State specified in the corresponding entry in column (c) of the table stating that he has effectively and lawfully practised dentistry in that EEA State for at least three consecutive years during the five years preceding the date of issue of the certificate; and
+  > - (b) a certificate from the competent authority of that EEA State stating that that diploma has, on its territory, the same legal validity as regards access to and practice of the dental profession as the scheduled European diploma specified in relation to that State.
+  >
+  >   | *Column (a)* | *Column (b)* | *Column (c)* |
+  >   | --- | --- | --- |
+  >   | 20th August 1991 | Former Soviet Union | Estonia |
+  >   | 21st August 1991 | Former Soviet Union | Latvia |
+  >   | 11th March 1990 | Former Soviet Union | Lithuania |
+  >   | 25th June 1991 | Yugoslavia | Slovenia |
+  >
+  > **9.**
+  >
+  > A diploma in medicine awarded in the Czech Republic or in the former Czechoslovakia which is evidence of university medical training commenced before 1st May 2004 is an appropriate European Diploma for the purposes of section 15(1)(b) of this Act if the holder produces to the registrar a certificate of the competent authority of the Czech Republic certifying that he—
+  >
+  > - (a) has—
+  >   - (i) effectively, lawfully and principally been engaged, in the Czech Republic, in the activities specified in Article 5 of the Dental Training Directive for at least three consecutive years during the five years preceding the date of issue of that certificate, or
+  >   - (ii) successfully completed three years of study which are equivalent to the training referred to in Article 1 of the Dental Training Directive; and
+  > - (b) is authorised to practise the activities referred to in sub-paragraph (a)(i) under the same conditions as holders of the scheduled European diploma specified in relation to the Czech Republic.
+  >
+  > **10.**
+  >
+  > A diploma in medicine awarded in Slovakia or in the former Czechoslovakia which is evidence of university medical training commenced before 1st May 2004 is an appropriate European diploma for the purposes of section 15(1)(b) of this Act if the holder produces to the registrar a certificate of the competent authority of Slovakia certifying that he—
+  >
+  > - (a) has—
+  >   - (i) effectively, lawfully and principally been engaged, in Slovakia, in the activities specified in Article 5 of the Dental Training Directive for at least three consecutive years during the five years preceding the date of issue of that certificate, or
+  >   - (ii) successfully completed three years of study which are equivalent to the training referred to in Article 1 of the Dental Training Directive; and
+  > - (b) is authorised to practise the activities referred to in sub-paragraph (a)(i) under the same conditions as holders of the scheduled European diploma specified in relation to Slovakia.
+
+  ; and
+- (d) in Part II (Scheduled European Diplomas), insert in the table in the appropriate alphabetical position—
+
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Cyprus | Πιστοποιητικό Εγγραφής Οδοντιάτρου | Οδοντιατρικό Συμβούλιο |  |
+  > | Czech Republic | Diplom o ukončení studia ver studijním programu zubní lékařství (doktor zubního lékařství, Dr.med.Dent. | Lékařská fakulta univerzity v České republice | Vysvědčení o státní rigorózní zkoušce |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Estonia | Diplom hambaarstiteaduse õppekava läbimise kohta | Tartu Ülikool |  |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Hungary | Fogorvos oklevél (doctor medicinae dentariae, abbrev.: dr.med.dent.) | Egyetem |  |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Latvia | Zobārsta diploms | Universitātes tipa augstskola | Rezidenta diploms par zobārsta pēcdiploma izglītības programmas pabeigšanu, ko izsneidz universitātes tipa augstskola un “Sertifikāts”— kompetentas iestādes izsniegts dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu zobārstniecībā |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Lithuania | Aukštojo mokslo diplomas, nurodantis suteiktą gydytojo odontologo kvalifikaciją | Universitetas | Internatūros pažymėjimas, nurodantis suteiktą gydytojo odontologo profesine kvalifikaciją |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Malta | Lawrja fil-Kirurġija Dentali | Universita tà Malta’ |  |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Poland | Dyplom ukończenia studiów wyższych z tytulem “lekarz dentysta” | 1\. Akademia Medyczna, 2. Uniwersytet Medyczny, 3. Collegium Medicum Uniwersytetu Jagiellońskiego | Lekarkso—Dentystyczny Egzamin Państwowy |
+  >
+  > |  |  |  |  |
+  > | --- | --- | --- | --- |
+  > | Slovakia | Vysokoškolsyý diplom o udelení akademického titulu “doktor zubného lekárstva” (“MDDr.”) | Vysoká škola |  |
+  > | Slovenia | Diploma, s katero se podeljuje strokovni naslov ”doktor dentalne medicine/doktorica dentalne medicine” | Univerza | Potrdilo o opravljenem strokovnem izpitu za poklic zobozdravnik/zobozdravnica |
+
+### 12. The European Primary and Specialist Dental Qualifications Regulations 1998
+
+(1) The European Primary and Specialist Dental Qualifications Regulations 1998 [^c5255621] shall be amended in accordance with this regulation.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1), in the definition of—
+  - (i) “EEA agreement”, insert at the end “ and by the Agreement on the participation of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic signed at Luxembourg on 14th October 2003 [^c5255631] ”,
+  - (ii) “the Dental Training Directive”, for “and Directive [2001/19/EC](https://www.legislation.gov.uk/european/directive/2001/0019)” substitute “ , Directive [2001/19/EC](https://www.legislation.gov.uk/european/directive/2001/0019) and the Act of Accession 2003; ”, and
+  - (iii) “the Recognition Directive”, for “and the Swiss Agreement”, substitute “ , the Swiss Agreement and the Act of Accession 2003; ”; and
+- (b) in paragraph (3)—
+  - (i) after sub-paragraph (d) insert—
+
+    > - (e) “**the Act of Accession 2003**” means the Act annexed to the Treaty relating to the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the Adjustments to the Treaties on which the European Union is founded signed at Athens on 16th April 2003.
+
+    , and
+  - (ii) insert the following definition in the appropriate alphabetical position—
+
+    > - “**national**”, in relation to an EEA State, means the same as it does for the purposes of the Community Treaties but does not include a person who by virtue of Article 2 of Protocol No.3 (Channel Islands and Isle of Man) to the Treaty of Accession is not to benefit from Community provisions relating to the free movement of persons and services
+
+    .
+
+(3) In regulation 6 (certificates of completion of specialist training), omit paragraph (7).
+
+(4) In regulation 10 (recognised specialist dental qualifications)—
+
+- (a) in paragraph (1), after sub-paragraph (d) insert—
+
+  > - (e) a qualification in orthodontics or (as the case may be) oral surgery which—
+  >   - (i) was awarded by, or which relates to training started in, the territory specified in column (a) of the table below before the date specified in the corresponding entry in column (b), and
+  >   - (ii) is accompanied by—
+  >     - (aa) an attestation by the competent authorities of the EEA State specified in the corresponding entry in column (c) to the effect that the qualification has, on its territory, the same legal validity as the qualifications listed in respect of that State in Schedule 1 to this Order as regards the access to and practice of orthodontics or (as the case may be) oral surgery, and
+  >     - (bb) a certificate from the competent authorities of that State which states that the holder has effectively and lawfully practised orthodontics or (as the case may be) oral surgery in that State for at least three consecutive years during the five years prior to the date of issue of that certificate.
+  >
+  >       | *Column (a)* | *Column (b)* | *Column (c)* |
+  >       | --- | --- | --- |
+  >       | Former Soviet Union | 20th August 1991 | Estonia |
+  >       | Former Soviet Union | 21st August 1991 | Latvia |
+  >       | Former Soviet Union | 11th March 1990 | Lithuania |
+  >       | Yugoslavia | 25th June 1991 | Slovenia |
+- (b) in paragraph (3)—
+  - (i) after sub-paragraph (ca), insert—
+
+    > - (cb) 1st May 2004, in the case of a qualification granted in the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia or Slovakia; or
+
+    ; and
+  - (ii) omit “or” after sub-paragraph (ca).
+
+(5) In Schedule 1 (specialist dental qualifications awarded in EEA States other than the United Kingdom in orthodontics and oral surgery)—
+
+- (a) in Part I (orthodontics)—
+  - (i) in the entry for Belgium—
+    - (aa) in column 2, for “—”, substitute “ Bijzondere beroepstitel van tandarts specialist in de orthodontie/Titre professionnel particulier de dentiste spécialiste en orthodontie ”; and
+    - (bb) in column 3, for “—”, substitute “ Minister bevoegd voor Volksgezondheit/Ministre de la Santé publique ”,
+  - (ii) in the entry for Greece, for the last word in column 2, substitute“Ορθοδοντικής”and
+  - (iii) in the appropriate alphabetical position insert—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Cyprus | Πιστοποιητικό Αναγνώρισης του Ειδικού Οδοντιάτρου στην Ορθοδοντική | Οδουτιατρικό Συμβούλιο |
+  > | Czech Republic |  |  |
+  >
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Estonia | Residentuuri lõputunnistus ortodontia erialal | Tartu Ülikool |
+  >
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Hungary | Fogszabályozás szakorvosa bizonyítvány | Az Egészségügyi, Szociális és Családügyi Miniszteérium illetékes testülete |
+  >
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Latvia | “Sertifikāts”—kompetentas iestādes izsneiegs dokuments, kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu ortodontijā | Latvijas Ārstu beidrība |
+  >
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Lithuania | Rezidentūros pažymėjimas, nurodantis suteiktą gydytojo ortodonto profesineę kvalifikaciją | Universitetas |
+  >
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Malta | Ċertifikat ta’ speċjalista dentali fl-Ortodonzja | Kumitat ta’ Approvazzjoni dwar Speċjalisti |
+  >
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Poland | Dyplom uzyskania tytulu specjalisty w dziedsinie ortodoncji | Centrum Egzaminów Medycznych |
+  >
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Slovakia |  |  |
+  > | Slovenia | Potrdilo o opravljenem specialističnem izpitu iz čeljustne in zobne ortopedije | 1\. Ministrstvo za zdravje 2.Zdravniška zbornica Slovenije |
+- (b) in Part II (oral surgery)
+
+> - (i) in the appropriate aphabetical position insert—
+>
+>   |  |  |  |
+>   | --- | --- | --- |
+>   | Cyprus | Πιστοποιητιό Αναγνώρισης του Ειδικού Οδουτιάτρον στην Στοματική Χειρουργική | Οδοντιατρικό Συμβούλιο |
+>   | Czech Republic |  |  |
+>
+>   |  |  |  |
+>   | --- | --- | --- |
+>   | Estonia |  |  |
+>
+>   |  |  |  |
+>   | --- | --- | --- |
+>   | Hungary | Dento-alveoláris sebészet szakorvosa bizonyítvány | Az Egészségügyi, Szociális és Családügyi Minisztérium illetékes testülete |
+>
+>   |  |  |  |
+>   | --- | --- | --- |
+>   | Latvia |  |  |
+>
+>   |  |  |  |
+>   | --- | --- | --- |
+>   | Lithuania | Residentūros pažymėjimas, nurodantis suteiktą burnos chirurgo profesinę kvalifikaciją | Universitetas |
+>
+>   |  |  |  |
+>   | --- | --- | --- |
+>   | Malta | Ċertifikat ta’ speċjalista dentali fil-Kirurġija tal-ħalq | Kumitat ta’ Approvazzjoni dwar Speċjalisti |
+>
+>   |  |  |  |
+>   | --- | --- | --- |
+>   | Poland | Dyplom uzyskania tytulu specjalisty w dziedzinie chirurgii stomatologicznej | Centrum Egzaminów Medycznych |
+>
+>   |  |  |  |
+>   | --- | --- | --- |
+>   | Slovakia |  |  |
+>   | Slovenia | Potrdilo o opravljenem specialisičnem izpitu iz oralne kirurgije | 1\. Ministrstvo za zdravje 2. Zdravniška zbornica Slovenije |
+
+- (ii) in the entry for Greece, in column 2, for the last word substitute “Γναθοχειρουργικής ”
+
+## PHARMACISTS
+
+### 13. Pharmacy Act 1954[^key-b0cd587d6e270aa75c91757716c1814f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## OSTEOPATHS
+
+### 14. The General Osteopathic Council (Registration) Rules Order of Council 1998
+
+(1) The Schedule to the General Osteopathic Council (Registration) Rules Order of Council 1998 [^c5255701] is amended in accordance with this regulation.
+
+(2) In rule 3 (the form of the register), in paragraph (4)—
+
+- (a) for sub-paragraph (b), substitute—
+
+  > - (b) “**European Economic Area State**” means a member State, Norway, Liechtenstein, Iceland or Switzerland;
+
+  ; and
+- (b) omit sub-paragraph (c).
+
+### 15. The General Osteopathic Council (Application for Registration and Fees) Rules Order of Council 2000
+
+(1) The Schedule to the General Osteopathic Council (Application for Registration and Fees) Rules Order of Council 2000 [^c5255711] is amended in accordance with this regulation.
+
+(2) In rule 2 (interpretation), in paragraph (1)—
+
+- (a) for the definition of “European Economic Area State”, substitute—
+
+  > “**European Economic Area State**” means a member State, Norway, Liechtenstein, Iceland or Switzerland;
+
+  ; and
+- (b) omit the definition of “European Economic Area Agreement”.
+
+## CHIROPRACTORS
+
+### 16. The General Chiropractic Council (Registration During Transitional Period) Rules Order of Council 1999
+
+(1) The Schedule to the General Chiropractic Council (Registration During Transitional Period) Rules Order of Council 1999 [^c5255721] is amended in accordance with this regulation.
+
+(2) In rule 9 (fees), in paragraph (3)—
+
+- (a) for sub-paragraph (a), substitute—
+
+  > - (a) “**European Economic Area State**” means a member State, Norway, Liechtenstein, Iceland or Switzerland;
+
+  ; and
+- (b) omit sub-paragraph (b).
+
+### 17. The General Chiropractic Council (Registration) Rules Order of Council 1999
+
+(1) The Schedule to the General Chiropractic Council (Registration) Rules Order of Council 1999 [^c5255731] is amended in accordance with this regulation.
+
+(2) In Schedule 2 to the Rules (fees), in paragraph 6—
+
+- (a) for sub-paragraph (a), substitute—
+
+  > - (a) “**European Economic Area State**” means a member State, Norway, Liechtenstein, Iceland or Switzerland;
+
+  ; and
+- (b) omit sub-paragraph (b).
+
+### 18. The General Chiropractic Council (Registration of Chiropractors with Foreign Qualifications) Rules Order of Council 2002
+
+(1) The Schedule to the General Chiropractic Council (Registration of Chiropractors with Foreign Qualifications) Rules Order of Council 2002 [^c5255741] is amended in accordance with this regulation.
+
+(2) In rule 9 (application and interpretation of Part III), in paragraph (2)—
+
+- (a) for the definition of “EEA State”, substitute—
+
+  > “**EEA State**” means a member State, Norway, Liechtenstein, Iceland or Switzerland;
+
+  ;
+- (b) insert in the appropriate alphabetical position—
+
+  > “**relevant EEA State**” means the applicant’s EEA State of origin, the EEA State from which the applicant comes or the EEA State in which the applicant formerly qualified or practised;
+
+  ; and
+- (c) omit the definitions of “Member State” and “relevant Member State”.
+
+(3) In rule 10(4) (applications), 11(1)(a) and (b)(i) (evidence of good character) and 12(1) (evidence as to health), for the words “Member State”, substitute “ EEA State ”.
+
+## HEALTH PROFESSIONS
+
+### 19. The Health Professions Order 2001
+
+(1) The Health Professions Order 2001 [^c5255751] is amended in accordance with this regulation.
+
+(2) In Schedule 3 (interpretation)—
+
+- (a) omit the definition of “EEA Agreement”; and
+- (b) for the definition of “EEA State”, substitute—
+
+  > “**EEA State**” means a member State, Norway, Liechtenstein, Iceland or Switzerland;
+
+  .
+
+## SOCIAL WORKERS
+
+### 20. The Care Standards Act 2000
+
+(1) The Care Standards Act 2000 [^c5255761] is amended in accordance with this regulation.
+
+(2) In section 64 (qualifications gained outside a Council’s area), in subsection (5)—
+
+- (a) for the definition of “EEA State”, substitute—
+
+  > “**EEA State**” means a member State, Norway, Liechtenstein, Iceland or Switzerland;
+
+  ;
+- (b) omit the definition of “EEA Agreement”; and
+- (c) in the definition of “national”, after “Treaties”, insert “ but does not include a person who by virtue of Article 2 of Protocol No.3 (Channel Islands and Isle of Man) to the Treaty of Accession is not to benefit from Community provisions relating to the free movement of persons and services ”.
+
+Signed by authority of the Secretary of State
+
+John Hutton
+
+Minister of State,
+
+Department of Health
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement in part Annex II to the Act annexed to the Treaty relating to the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the Adjustments to the Treaties on which the European Union is founded signed at Athens on 16th April 2003 (“**the Annex**”).
+
+These Regulations implement the Annex insofar as it amends the Directives relating to dentists, pharmacists and doctors, and they partially implement the Annex insofar as it amends the Directives relating to nurses responsible for general care and midwives. The Regulations also amend relevant definitions in the Care Standards Act 2000 in relation to the profession of social worker. The Annex also amends Directives [89/48/EEC](https://www.legislation.gov.uk/european/directive/1989/0048) and [92/51/EEC](https://www.legislation.gov.uk/european/directive/1992/0051) which apply, among others, to chiropractors, osteopaths and the health professions regulated under the Health Professions Order 2001 and these Regulations partially implement these amendments. The date of accession of the new Member States is 1st May 2004.
+
+The Regulations in particular amend existing legislation to make special provision for the recognition of qualifications awarded in the new Member States before 1st May 2004, or qualifications in respect of training commenced before that date. The Regulations also make special provision for the recognition of qualifications that were awarded in the territory of the former Czechoslovakia, the former Soviet Union or Yugoslavia.
+
+In addition to implementing the Annex, these Regulations also make minor amendments to the way in which relevant Directives have been previously implemented. In particular, the Regulations provide in accordance with the judgment in *Tennah-Durez,* (C-110/01), for the removal of requirements for United Kingdom competent authorities to annotate certificates awarded to health care professionals where more than one year of the training undertaken to obtain a particular health care qualification takes place outside the EEA.
+
+A transposition table is available on the following website: http://www.legislation. hmso.gov.uk/stat.htm. The transposition table gives further information about the implementation of the Annex insofar as it is implemented by these Regulations.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^c5255301]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c5255311]: Marginal citation: [S.I. 1995/3207](https://www.legislation.gov.uk/uksi/1995/3207).
+
+[^c5255321]: Marginal citation: [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901).
+
+[^c5255331]: Marginal citation: [S.I. 2002/248](https://www.legislation.gov.uk/uksi/2002/248).
+
+[^c5255341]: Marginal citation: The subject matter of section 21 of the National Health Service (Scotland) Act 1978 (requirement of suitable experience for medical practitioners) is not a reserved matter under the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). Therefore, as regards Scotland, see [section 57(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/57/1) of the Scotland Act 1998 which provides that, despite the transfer to the Scottish Ministers by virtue of section 53 of that Act of functions in relation to observing and implementing Community law, any function of a Minister of the Crown in relation to any matter (including therefore in relation to the subject matter of section 21) shall continue to be exercisable by him as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972.
+
+[^c5255351]: Marginal citation: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253), as amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148).
+
+[^c5255361]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54); as amended by [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), 2002/3135 and 2003/3148. There are other amendments to this Act that are not relevant to these Regulations.
+
+[^c5255371]: Marginal citation: Cm 6171. The Agreement was presented to Parliament as a Command Paper and it is published by the Stationery Office.
+
+[^key-8bf6cc2131e41f1a0ca5b9d161ccb57e]: Textual amendment: [Regs. 4-10](https://www.legislation.gov.uk/uksi/2004/1947/regulation/4) revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+
+[^c5255591]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24); as amended by [S.I. 1996/1496](https://www.legislation.gov.uk/uksi/1996/1496), 1998/811 and 2003/3148. There are other amendments to the Act not relevant to these Regulations.
+
+[^c5255621]: Marginal citation: [S.I. 1998/811](https://www.legislation.gov.uk/uksi/1998/811), as amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148).
+
+[^c5255631]: Marginal citation: Cm. 6171.
+
+[^key-b0cd587d6e270aa75c91757716c1814f]: Textual amendment: Reg. 13 omitted (coming into force in accordance with art. 1(2)(3) of the amending Order) by virtue of [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/38)
+
+[^c5255701]: Marginal citation: [S.I. 1998/1328](https://www.legislation.gov.uk/uksi/1998/1328); as amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148).
+
+[^c5255711]: Marginal citation: [S.I. 2000/1038](https://www.legislation.gov.uk/uksi/2000/1038), as amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148).
+
+[^c5255721]: Marginal citation: [S.I. 1999/1857](https://www.legislation.gov.uk/uksi/1999/1857), as amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148).
+
+[^c5255731]: Marginal citation: [S.I. 1999/1856](https://www.legislation.gov.uk/uksi/1999/1856), as amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148).
+
+[^c5255741]: Marginal citation: [S.I. 2002/2704](https://www.legislation.gov.uk/uksi/2002/2704), as amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148).
+
+[^c5255751]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254), as amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148).
+
+[^c5255761]: Marginal citation: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). There are no relevant amendments.

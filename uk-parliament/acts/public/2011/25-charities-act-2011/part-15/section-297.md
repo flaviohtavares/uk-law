@@ -1,0 +1,52 @@
+---
+title: Charities Act 2011, section 297
+act: Charities Act 2011
+section: '297'
+status: revised
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/25/section/297
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act 2011, section 297
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 297. Co-operation between charities, and between charities and local authorities
+
+*Extent: E+W*
+
+(1) Any local council and any joint board discharging any functions of a local council—
+
+- (a) may make, with any charity established for purposes similar or complementary to services provided by the council or board, arrangements for co-ordinating—
+  - (i) the activities of the council or board, and
+  - (ii) those of the charity,
+
+  in the interests of persons who may benefit from those services or from the charity, and
+- (b) is at liberty to disclose to any such charity in the interests of those persons any information obtained in connection with the services provided by the council or board, whether or not arrangements have been made with the charity under this subsection.
+
+(2) In subsection (1), “**local council**” means—
+
+- (a) in relation to England—
+  - (i) a district council,
+  - (ii) a county council,
+  - (iii) a London borough council,
+  - (iv) a parish council,
+  - (v) the Common Council of the City of London, or
+  - (vi) the Council of the Isles of Scilly, and
+- (b) in relation to Wales—
+  - (i) a county council,
+  - (ii) a county borough council, or
+  - (iii) a community council.
+
+(3) Charity trustees may, regardless of anything in the trusts of the charity, by virtue of this subsection do all or any of the following things, if it appears to them likely to promote or make more effective the work of the charity—
+
+- (a) they may co-operate in any review undertaken under section 295 or otherwise of the working of charities or any class of charities;
+- (b) they may make arrangements with an authority acting under subsection (1) or with another charity for co-ordinating their activities and those of the authority or of the other charity;
+- (c) they may publish information of other charities with a view to bringing them to the notice of those for whose benefit they are intended.
+
+(4) Charity trustees may defray the expense of acting under subsection (3) out of any income or money applicable as income of the charity.

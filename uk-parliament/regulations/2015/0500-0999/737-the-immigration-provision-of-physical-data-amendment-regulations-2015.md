@@ -1,0 +1,224 @@
+---
+title: The Immigration (Provision of Physical Data) (Amendment) Regulations 2015
+id: uksi/2015/737
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-16'
+text_date: '2015-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/737
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/737/pdfs/uksiem_20150737_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/737/pdfs/uksi_20150737_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/737/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration (Provision of Physical Data) (Amendment) Regulations 2015
+
+> Text as at 2015-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 737
+
+Immigration
+
+The Immigration (Provision of Physical Data) (Amendment) Regulations 2015
+
+Made
+
+16th March 2015
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 126 of the Nationality, Immigration and Asylum Act 2002[^f00001].
+
+In accordance with section 126(8)(b) of that Act, a draft of these Regulations was laid before and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and interpretation[^key-23d95c3254a9d9ffb26cee9f63569e17]
+
+(1) These Regulations may be cited as the Immigration (Provision of Physical Data) (Amendment) Regulations 2015 and come into force at the end of the period of 21 days beginning with the day on which they are made.
+
+(2) In these Regulations, “the 2006 Regulations” means the Immigration (Provision of Physical Data) Regulations 2006[^f00002].
+
+## 2. Amendments to the 2006 Regulations[^key-f7040c2866700b500216d6abccedc210]
+
+The 2006 Regulations are amended as follows.
+
+**3.**[^key-48ab1c95039cda0ee29e54be3d3744f2] In regulation 2—
+
+- (a) in the definition of “application”—
+  - (i) in paragraph (a) after “clearance” insert “save for when the applicant is required to apply simultaneously for a biometric immigration document”;
+  - (ii) at the end of paragraph (a) omit “or”; and
+  - (iii) after paragraph (b) insert—
+
+    > - (c) an application for a transit visa (meaning a visa issued to a person for the purpose of arriving in the United Kingdom in order to pass through to another country or territory without entering the United Kingdom); or
+    > - (d) an application for a document issued as evidence that a person who is not a national of an EEA state or Switzerland is entitled to enter or remain in the United Kingdom by virtue of an enforceable EU right or of any provision made under section 2(2) of the European Communities Act 1972[^f00003].
+
+    ;
+- (b) after the definition of “application” insert—
+
+  > - “biometric information” means photographs or fingerprints provided under regulation 3;
+
+  ;
+- (c) after the definition of “Convention travel document” insert—
+
+  > - “immigration rules” means rules made under section 3(2) of the Immigration Act 1971[^f00004];
+
+  .
+
+**4.**[^key-105cb8cef22641cfff1bf7f36faf38ab] In regulation 4(2)(c) for “regulation 6(2)” substitute “regulation 6”.
+
+**5.**[^key-5abc7d896c4bde855e40003de1a80ac1] For regulation 6 (process by which the applicant’s fingerprints and photograph may be obtained and recorded) substitute—
+
+> **6. Process by which an individual’s fingerprints and photograph may be obtained and recorded**
+>
+> (1) An authorised person who requires an individual to provide a record of the individual’s fingerprints or a photograph of the individual’s face under regulation 3 may do any one or more of the following—
+>
+> - (a) require the individual to make an appointment before a specified date, which the individual must attend, to enable a record of the individual’s fingerprints or a photograph of the individual’s face to be taken by an authorised person or by a person acting on behalf of an authorised person;
+> - (b) specify the date, time and place for the appointment;
+> - (c) require the individual to attend premises before a specified date to enable a record of the individual’s fingerprints or a photograph of the individual’s face to be taken by an authorised person or by a person acting on behalf of an authorised person; and
+> - (d) specify any documents which the individual must bring to the appointment or premises, or action which the individual must take to confirm the individual’s identity.
+>
+> (2) An authorised person may require a record of fingerprints or photograph to be of a particular specification.
+
+.
+
+**6.**[^key-be7ccf326696e3354ad3b6a044299863] After regulation 6 insert—
+
+> **6A. Documents recording biometric information**
+>
+> Biometric information provided under these Regulations may be recorded on any document issued as a result of the application in relation to which the information was provided.
+
+.
+
+**7.**[^key-25f4ffdb10e6455f34222c1c8ad1cd29] For regulations 8 to 10 (destruction of information) substitute—
+
+> **8. Use and retention of biometric information**
+>
+> (1) Biometric information provided in accordance with these Regulations may be retained only if the Secretary of State thinks that it is necessary to retain it for use in connection with—
+>
+> - (a) the exercise of a function by virtue of the Immigration Acts; or
+> - (b) the exercise of a function in relation to nationality.
+>
+> (2) Biometric information retained by virtue of paragraph (1) may also be used—
+>
+> - (a) in connection with the prevention, investigation or prosecution of an offence;
+> - (b) for a purpose which appears to the Secretary of State to be required in order to protect national security;
+> - (c) in connection with identifying persons who have died, or are suffering from illness or injury;
+> - (d) for the purpose of ascertaining whether a person has acted unlawfully, or has obtained or sought anything to which the person is not legally entitled; and
+> - (e) in connection with the exercise of a function concerning the entitlement of a person who is not a national of an EEA state or Switzerland to enter or remain in the United Kingdom by virtue of an enforceable EU right or of any provision made under section 2(2) of the European Communities Act 1972.
+>
+> **9. Destruction of biometric information**
+>
+> (1) The Secretary of State must take all reasonable steps to ensure that biometric information held by the Secretary of State by virtue of these Regulations, including any copies, is destroyed if the Secretary of State—
+>
+> - (a) no longer thinks that it is necessary to retain the information for use as mentioned in regulation 8(1); or
+> - (b) subject to the exception in paragraph (2), is satisfied that the person to whom the information relates is a British citizen, or a Commonwealth citizen who has a right of abode in the United Kingdom as a result of section 2(1)(b) of the Immigration Act 1971.
+>
+> (2) The exception is that photographs of a person who is registered or naturalised as a British citizen may be retained until the person is issued with a United Kingdom passport describing the person as a British citizen.
+>
+> **10. Retention of fingerprints**
+>
+> (1) Save where regulation 9 applies and subject to paragraphs (2) and (3), the Secretary of State must take all reasonable steps to ensure that any record of a person’s fingerprints held by the Secretary of State by virtue of these Regulations, including any copies, is destroyed at the end of the period of ten years beginning with the date on which the fingerprints were provided.
+>
+> (2) But fingerprints can be held beyond that period if they are—
+>
+> - (a) the fingerprints of a person who is, or at any time has been, subject to a deportation order, exclusion order or decision to exclude;
+> - (b) the fingerprints of a person who can be, or at any time could have been, refused entry clearance or leave to enter for a period specified in the immigration rules because of a previous breach of the United Kingdom’s immigration laws;
+> - (c) fingerprints that the Secretary of State deems it necessary for national security reasons to retain for use in connection with one of the functions specified in regulation 8(1);
+> - (d) the fingerprints of a person with indefinite leave to enter or remain in the United Kingdom;
+> - (e) the fingerprints of a person whose indefinite leave to enter or remain in the United Kingdom lapses, is revoked or is cancelled, in which case they must be destroyed by the Secretary of State at the end of ten years beginning with the date of the lapse, revocation or cancellation (as the case may be); or
+> - (f) the fingerprints of a person who—
+>   - (i) is not a national of an EEA state or Switzerland; and
+>   - (ii) is the holder of a document which recognises the right of permanent residence in the United Kingdom by virtue of an enforceable EU right or any provision made under section 2(2) of the European Communities Act 1972,
+>
+>   in which case they must be destroyed by the Secretary of State at the end of ten years beginning with the date on which the holder ceased to enjoy the right of permanent residence.
+>
+> (3) The Secretary of State is only required to take steps to destroy, pursuant to paragraph (2)(e) or (f), the fingerprints of a person whose leave has lapsed or who no longer enjoys the right of permanent residence on the application, supported by evidence to the satisfaction of the Secretary of State, of that person.
+>
+> (4) In paragraphs (2)(f)(ii) and (3), “the right of permanent residence” has the same meaning as in Article 16 of Council [Directive 2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038)[^f00005].
+>
+> **10A. Destruction etc. of electronic data**
+>
+> (1) The Secretary of State must take all reasonable steps to ensure—
+>
+> - (a) that data held in electronic form which relates to biometric information which has to be destroyed by virtue of these Regulations is destroyed or erased; or
+> - (b) that access to such data is blocked.
+>
+> (2) A person whose biometric information has to be destroyed by virtue of these Regulations is entitled, on written request, to a certificate issued by the Secretary of State to the effect that the Secretary of State has taken the steps required by paragraph (1).
+>
+> (3) A certificate issued under paragraph (2) must be issued within the period of 3 months beginning with the date on which the request for it is received by the Secretary of State.
+>
+> **10B. Biometric information: retention under another power**
+>
+> The requirements in these Regulations to destroy biometric information or data do not apply if and in so far as the information or data is retained in accordance with and for the purposes of another power.
+
+.
+
+James Brokenshire
+
+Minister of State
+
+Home Office
+
+16th March 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Immigration (Provision of Physical Data) Regulations 2006 (“the 2006 Regulations”) in consequence of changes introduced by the Immigration Act 2014, particularly sections 8 and 14. These Regulations revise the list of immigration applications that an authorised person can require to be accompanied by specified biometric information, the process by which this information is provided and the provisions about the use and retention of biometric information.
+
+“Authorised person” has the same meaning as in section 126 of the Nationality, Immigration and Asylum Act 2002 (as amended by section 12 of and Schedule 2 to the Immigration Act 2014).
+
+The additional immigration applications, added by regulation 3 to regulation 2 of the 2006 Regulations, are applications for direct airside transit visas and documents issued as evidence that a person who is not a national of an EEA state or Switzerland is entitled to enter or remain in the UK by virtue of an enforceable EU right or of any provision made under section 2(2) of the European Communities Act 1972. Regulation 3 also amends regulation 2 of the 2006 Regulations to clarify that the 2006 Regulations do not apply to applications for entry clearance when the applicant is required to apply simultaneously for a biometric immigration document.
+
+Regulation 5 amends regulation 6 of the 2006 Regulations to revise the requirements that an authorised person can make regarding an individual’s fingerprints and photograph being obtained and recorded.
+
+Regulation 6 inserts into the 2006 Regulations a new regulation 6A which states that biometric information provided under the 2006 Regulations can be recorded on any document issued as a result of the application in relation to which the information was provided.
+
+Regulation 7 substitutes new regulations 8 to 10B for existing regulations 8 to 10 of the 2006 Regulations. New regulations 8 to 10B make provision for the use, retention and destruction of biometric information provided under these Regulations. The other principal powers to retain biometric information referred to in new regulation 10B are currently, the Immigration (Biometric Registration) Regulations 2008[^f00006], the British Nationality (General) Regulations 2003[^f00007], section 143 of the Immigration and Asylum Act 1999[^f00008] and section 127 of the Nationality, Immigration and Asylum Act 2002[^f00009].
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); section 126 was amended by sections 8(3) and 14(3) of, paragraph 3 of Schedule 2 to, and paragraph 19 of Schedule 9 to, the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). In particular, section 126(8A) was inserted by section 14(3) of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22); this has the effect of section 8 of the UK Borders Act [2007 (c.30)](https://www.legislation.gov.uk/ukpga/2007/30) applying to biometric information provided in accordance with these Regulations.
+
+[^key-23d95c3254a9d9ffb26cee9f63569e17]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 2006/1743](https://www.legislation.gov.uk/uksi/2006/1743). This was amended by [S.I. 2011/1779](https://www.legislation.gov.uk/uksi/2011/1779) but that instrument has expired.
+
+[^key-f7040c2866700b500216d6abccedc210]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+
+[^key-48ab1c95039cda0ee29e54be3d3744f2]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+
+[^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), and by section 3(3) of, and Part 1 of Schedule 1 to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00004]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^key-105cb8cef22641cfff1bf7f36faf38ab]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+
+[^key-5abc7d896c4bde855e40003de1a80ac1]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+
+[^key-be7ccf326696e3354ad3b6a044299863]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+
+[^key-25f4ffdb10e6455f34222c1c8ad1cd29]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/737/regulation/1/1)
+
+[^f00005]: Footnote: OJ No L 158, 30.04.2004, p77.
+
+[^f00006]: Footnote: [S.I. 2008/3048](https://www.legislation.gov.uk/uksi/2008/3048), amended by [S.I. 2009/819](https://www.legislation.gov.uk/uksi/2009/819), [S.I. 2012/594](https://www.legislation.gov.uk/uksi/2012/594) and [S.I. 2015/433](https://www.legislation.gov.uk/uksi/2015/433).
+
+[^f00007]: Footnote: [S.I. 2003/548](https://www.legislation.gov.uk/uksi/2003/548), amended by [S.I. 2007/3137](https://www.legislation.gov.uk/uksi/2007/3137) and [S.I. 2015/433](https://www.legislation.gov.uk/uksi/2015/433). There are other amending instruments but none is relevant.
+
+[^f00008]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00009]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).

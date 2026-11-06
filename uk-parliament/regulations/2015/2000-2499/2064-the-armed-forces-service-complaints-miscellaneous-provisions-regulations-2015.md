@@ -1,0 +1,242 @@
+---
+title: The Armed Forces (Service Complaints Miscellaneous Provisions) Regulations 2015
+id: uksi/2015/2064
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2015-12-17'
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/2064
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/2064/pdfs/uksi_20152064_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/2064/data.pdf
+pending_changes: 6
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Armed Forces (Service Complaints Miscellaneous Provisions) Regulations 2015
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2015/2064
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 2064
+
+Defence
+
+The Armed Forces (Service Complaints Miscellaneous Provisions) Regulations 2015
+
+Made
+
+17th December 2015
+
+Coming into force
+
+1st January 2016
+
+The Secretary of State, in exercise of the powers conferred by section 340A(4), 340E(1), 340M(6) and 340N(4) of the Armed Forces Act 2006[^f00001], makes the following regulations:
+
+In accordance with section 373(3) of the Armed Forces Act 2006 a draft of this instrument was laid before, and approved by resolution of, each House of Parliament.
+
+## 1. Citation and commencement[^key-00a3d55e31e05db49024ae651c8cfb2e]
+
+These Regulations may be cited as the Armed Forces (Service Complaints Miscellaneous Provisions) Regulations 2015 and come into force on 1st January 2016*.*
+
+## 2. Interpretation[^key-dfc0e137f8d13e3dbefd18925e1669ca]
+
+(1) In these Regulations—
+
+- “the Act” means the Armed Forces Act 2006;
+- “appropriate officer” has the same meaning as in section 340N(2);
+- “[^key-47da1a5ce120c57f9b0377d25fa8fc62]**Commissioner**” means the Armed Forces Commissioner;
+- “finally determined” has the same meaning as in section 340H(5);
+- “independent” shall have the same meaning as in section 340E(4);
+- “in writing” includes—
+  - (a) transmitted by electronic means;
+  - (b) received in a legible form; and
+  - (c) capable of being used for subsequent reference;
+- [^key-7306951762832cbe71edc1c7d7536b26]...
+
+(2) In these Regulations, unless otherwise specified, a reference to a section is a reference to that section of the Act.
+
+## 3. Excluded complaints[^key-a563281e73eb595f9059e186ca0371a8]
+
+(1) A person may not make a service complaint about a matter within the Schedule.
+
+(2) A person may not make a service complaint about—
+
+- (a) a decision under regulations made for the purposes of section 340B(4)(a) (admissibility of the complaint);
+- (b) a decision under regulations made for the purposes of section 340C(2) (decision on the service complaint);
+- (c) a decision under regulations made for the purposes of section 340D(2)(c) (decision relating to whether an appeal has been brought before the end of the specified period);
+- (d) a determination of an appeal brought under regulations made for the purposes of section 340D(1) (appeals);
+- (e) alleged maladministration (including undue delay) in connection with the handling of his or her service complaint;
+- (f) a decision by the Commissioner[^key-2b1a5265e8cf52afcc7b7aaf1b42abce] for the purposes of any provision of Part 14A of the Act;
+- (g) the handling by the Commissioner of a service complaint;
+- (h) a decision for the purposes of regulations made under section 334(2) whether a service complaint could be made about a matter;
+- (i) a decision under regulations made for the purposes of paragraph (b) of section 334(5) whether a service complaint, or an application referred to in that paragraph, could be made after the end of a prescribed period.
+
+## 4. Appointment of person or panel of persons by the Defence Council[^key-bf0e5f5022e97c9d14e442826c9e7de3]
+
+(1) The following persons shall not be appointed by virtue of section 340C(1)(a), 340D(2)(d) or 340M(2) (the appointment of a person or panel of persons to decide a service complaint, determine an appeal or reconsider a service complaint)—
+
+- (a) a person who is the subject of the complaint or is, in the statement of complaint made in accordance with regulations made for the purposes of section 340B(1) and (2), alleged to be implicated in any way in the matter complained of;
+- (b) an officer of the Naval Chaplaincy Service, the Royal Army Chaplains Department or the Royal Air Force Chaplains Branch.
+
+(2) Additionally, a person who was appointed by virtue of section 340C(1)(a) to decide the complaint, or who was otherwise involved in the investigation or consideration of the complaint for the purposes of deciding the complaint, shall not be appointed by virtue of section 340D(2)(d).
+
+## 5. Independent persons[^key-4f4313a0eac3feecbe3aa92419fbf292]
+
+(1) Paragraph (3) applies if—
+
+- (a) the Defence Council act by virtue of section 340D(2)(d) or section 340M(2)(a) in relation to a service complaint; and
+- (b) the statement of complaint made in accordance with regulations made for the purposes of section 340B(1) and (2) includes an allegation within paragraph (2).
+
+(2)[^key-18e883608806d71a7d6f130296ab289a] An allegation referred to in paragraph (1)(b) is an allegation that the complainant has been the subject of—
+
+- (a) discrimination;
+- (b) harassment;
+- (c) bullying;
+- (d) dishonest or biased behaviour; or[^key-ab6fadabe6288c82e1555cb71dbf8d8c]
+- (e) a failure of the Ministry of Defence to provide medical, dental or nursing care for which the Ministry of Defence was responsible.[^key-f5c5a8c7d77fc5d56ff5020825f35b86]
+- (f)[^key-8fa8dc707cfc604150e2bfe615ccf2f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Defence Council must appoint—
+
+- (a) a person who is independent; or
+- (b) a panel that includes at least one member who is independent.
+
+(4) In this regulation, “discrimination” means discrimination or victimisation on the grounds of colour, race, ethnic or national origin, nationality, sex, gender reassignment, status as a married person or civil partner, religion, belief or sexual orientation, and less favourable treatment of the complainant as a part-time employee.
+
+## 6. Notifications to the Commissioner[^key-6680a79bd3e10acbf3a9c992f0cda889][^key-762b05bcc74071fe63a3c3cf84853383]
+
+Where in accordance with section 340N(1), the Commissioner refers to the appropriate officer a communication that alleges that a person who is or was subject to service law has been wronged, the appropriate officer shall within 3 weeks beginning with the occurrence of any of the following events notify the Commissioner—
+
+- (a) that he or she has informed the person that the allegation has been referred;
+- (b) that he or she has complied with section 340N(3)(b);
+- (c) of the decision of the person whether he or she wishes to make a service complaint in respect of the alleged wrong;
+- (d) of a decision under regulations made for the purposes of section 340B(4)(a) that the service complaint is not admissible;
+- (e) of a decision under regulations made for the purposes of section 340C(2) whether the complaint is well-founded and, if so, on what redress is appropriate;
+- (f) of a decision under regulations made for the purposes of section 340D(2)(c) that an appeal may not be brought because of the expiry of the specified period;
+- (g) of a determination of an appeal brought under regulations made for the purposes of section 340D(1);
+- (h) of the withdrawal of a service complaint made in respect of the alleged wrong.
+
+Mark Lancaster
+
+Parliamentary Under Secretary of State
+
+Ministry of Defence
+
+17th December 2015
+
+## SCHEDULE
+
+Regulation 3(1)
+
+**1.**[^key-2421125fbc138c5ebcb47291096b2ed1] Subject to paragraph 2, a matter is within this Schedule if it—
+
+- (a) is or was capable of being the subject of a complaint under the internal disputes resolution procedures established for the armed forces in accordance with section 50, 50A and 50B of the Pensions Act 1995[^f00002];
+- (b) is or was capable of being the subject of an appeal to the Discretionary Awards Panel;
+- (c) is or was capable of being the subject of an appeal to the Discretionary Awards Appeals Panel;
+- (d) is or was capable of being the subject of a review under rule D.8 of the scheme set out in the Armed Forces Pension Scheme Order 2005[^f00003];
+- (e) is or was capable of being the subject of a review under regulation 58 of the scheme set out in the Armed Forces Pension Regulations 2014[^f00004];
+- (f) is or was capable of being the subject of an appeal to a service appeals panel under paragraph 59 of the Criminal Injuries Compensation (Overseas) Scheme[^f00005];
+- (g) is about any decision made under the scheme set out in the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00006];
+- (h) is about any decision made under the scheme set out in the Naval, Military and Air Forces Etc (Disablement and Death) Service Pensions Order 2006[^f00007];
+- (i) is or was capable of being the subject of an appeal under section 141;
+- (j) is or was capable of being the subject of an appeal under the Courts-Martial (Appeals) Act 1968[^f00008];
+- (k) is a decision of a judge advocate under any provision in or made by virtue of the Act;
+- (l) is a decision of the Director of Service Prosecutions, or of a prosecuting officer exercising a function of the Director of Service Prosecutions, under any provision in or made by virtue of the Act or in relation to the exercise of a right of review under the Schedule to the Criminal Justice (Armed Forces Code of Practice for Victims of Crime) Regulations 2015[^f00009];
+- (m) is a decision of the court administration officer made in exercise of a function of his under a provision in or made by virtue of the Act;
+- (n) is a decision of a service policeman under any provision in or made by virtue of Chapter 1 of Part 5 of the Act or in relation to the exercise of a right of review under the Schedule to the Criminal Justice (Armed Forces Code of Practice for Victims of Crime) Regulations 2015;
+- (o) is a decision of a commanding officer under Chapter 1 or 2 of Part 5 of the Act or in relation to the exercise of a right of review under the Schedule to the Criminal Justice (Armed Forces Code of Practice for Victims of Crime) Regulations 2015;
+- (p) is a decision under—
+  - (i) section 152 (review of summary findings and punishments);
+  - (ii) section 177 (review of service compensation orders);
+  - (iii) section 251(3) or (4) (time for payment of, or directing payment by instalments of, a fine or service compensation order);
+  - (iv) section 267 (power of court to remit fine); or
+  - (v) section 276 (compensation for miscarriages of justice);
+- (q) is or was capable of being the subject of an appeal to a reserve forces appeal tribunal under section 81(4), 83(4) or 84(3) of the Reserve Forces Act 1996[^f00010];
+- (r) is a decision of the Security Vetting Appeals Panel in relation to the complainant;
+- (s) is or was capable of being the subject of an appeal by the complainant to the Security Vetting Appeals Panel;
+- (t) is or was capable of being the subject of a claim for clinical negligence against the Ministry of Defence; [^key-238ef5715353acc7d75544cc170a5d87]...
+- (u) is or was capable of being the subject of a claim for personal injury against the Ministry of Defence; or[^key-4fc2ea19d21bd3f435ca96590aeced53]
+- (v) is or was capable of being the subject of a complaint under the procedures established for making a complaint about the service police in accordance with section 340P of the Armed Forces Act 2006.
+
+**2.**[^key-d5f60ae5b5cf53f197f81bb0041a17e2] Nothing in paragraph 1 shall prevent a person making a service complaint about anything referred to in regulation 5(2) which he or she alleges has occurred in connection with a matter specified in paragraph 1.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Under section 340A(1) and (2) of the Armed Forces Act 2006 a person subject to service law, or who has ceased to be subject to service law, who thinks himself or herself wronged in any matter relating to his or her service, may make a service complaint about the matter.
+
+Regulation 3 of, and the Schedule to, these Regulations specify the matters about which a person may not make a service complaint.
+
+Regulation 4(1) excludes any person who is the subject of the complaint or is alleged to be implicated in any matter in the statement of complaint from being appointed to decide a service complaint, determine an appeal on the complaint or reconsider a service complaint. Service chaplains are also excluded from such appointments. Regulation 4(2) also excludes a person who was appointed to decide a complaint or was involved in its investigation from being appointed to determine an appeal on that complaint.
+
+Regulation 5 specifies the circumstances which require the Defence Council to appoint an independent person or a panel including at least one independent member on an appeal or reconsideration of a service complaint.
+
+Regulation 6 states the events of which the appropriate officer must notify the Service Complaints Ombudsman. It also provides that the officer must do so within 3 weeks of the event occurring.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). Sections 340A, 340E, 340M and 340N were inserted by section 2(1) of the Armed Forces (Service Complaints and Financial Assistance) Act [2015 c. 19](https://www.legislation.gov.uk/ukpga/2015/19). See section 340E(5) for the definition of “specified” in that section.
+
+[^key-00a3d55e31e05db49024ae651c8cfb2e]: Commencement: Reg. 1 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
+
+[^key-dfc0e137f8d13e3dbefd18925e1669ca]: Commencement: Reg. 2 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
+
+[^key-47da1a5ce120c57f9b0377d25fa8fc62]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2064/regulation/2/1) inserted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2026/372/regulation/5/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/372/regulation/6))
+
+[^key-7306951762832cbe71edc1c7d7536b26]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2064/regulation/2/1) omitted (1.4.2026) by virtue of [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2026/372/regulation/5/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/372/regulation/6))
+
+[^key-a563281e73eb595f9059e186ca0371a8]: Commencement: Reg. 3 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
+
+[^key-2b1a5265e8cf52afcc7b7aaf1b42abce]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/uksi/2015/2064) substituted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2026/372/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/372/regulation/6))
+
+[^key-bf0e5f5022e97c9d14e442826c9e7de3]: Commencement: Reg. 4 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
+
+[^key-4f4313a0eac3feecbe3aa92419fbf292]: Commencement: Reg. 5 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
+
+[^key-18e883608806d71a7d6f130296ab289a]: Modification: Reg. 5(2) applied (with modifications) (1.1.2016) by [The Armed Forces (Service Complaints and Financial Assistance) Act 2015 (Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/1969)](https://www.legislation.gov.uk/uksi/2015/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1), [7(8)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/7/8)
+
+[^key-ab6fadabe6288c82e1555cb71dbf8d8c]: Textual amendment: Word in reg. 5(2)(d) inserted (19.6.2023) by [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2023/624/schedule/2/paragraph/3/2/a)
+
+[^key-f5c5a8c7d77fc5d56ff5020825f35b86]: Textual amendment: Reg. 5(2)(e): full stop substituted for word (19.6.2023) by [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2023/624/schedule/2/paragraph/3/2/b)
+
+[^key-8fa8dc707cfc604150e2bfe615ccf2f9]: Textual amendment: Reg. 5(2)(f) omitted (19.6.2023) by virtue of [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 2 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/624/schedule/2/paragraph/3/2/c)
+
+[^key-6680a79bd3e10acbf3a9c992f0cda889]: Commencement: Reg. 6 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
+
+[^key-762b05bcc74071fe63a3c3cf84853383]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/2064/regulation/6) applied (with modifications) (1.1.2016) by [The Armed Forces (Service Complaints and Financial Assistance) Act 2015 (Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/1969)](https://www.legislation.gov.uk/uksi/2015/1969), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1), [7(12)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/7/12)[(13)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/7/13)
+
+[^key-2421125fbc138c5ebcb47291096b2ed1]: Commencement: Sch. para. 1 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)
+
+[^f00002]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26); section 50 was substituted with new sections 50, 50A and 50B by section 273 of the Pensions Act [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35), to which further amendments were made by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053) and section 16 of the Pensions Act [2007 c. 22](https://www.legislation.gov.uk/ukpga/2007/22).
+
+[^f00003]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438); relevant amending instruments are [S.I. 2006/717](https://www.legislation.gov.uk/uksi/2006/717), [2009/544](https://www.legislation.gov.uk/uksi/2009/544).
+
+[^f00004]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336), to which there are amendments not relevant to these Regulations.
+
+[^f00005]: Footnote: The Criminal Injuries Compensation (Overseas) Scheme is a non-statutory, Ministry of Defence scheme under which lump sum payments may be made to members of the armed forces and their eligible dependants who in certain circumstances are killed or injured overseas as a result of a crime of violence.
+
+[^f00006]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517), amended by [S.I. 2012/1573](https://www.legislation.gov.uk/uksi/2012/1573); there are other amending instruments but none is relevant.
+
+[^f00007]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606), relevant amending instruments are [S.I. 2008/679](https://www.legislation.gov.uk/uksi/2008/679), [2013/241](https://www.legislation.gov.uk/uksi/2013/241).
+
+[^f00008]: Footnote: [1968 c. 20](https://www.legislation.gov.uk/ukpga/1968/20).
+
+[^f00009]: Footnote: [S.I. 2015/1811](https://www.legislation.gov.uk/uksi/2015/1811).
+
+[^f00010]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
+
+[^key-238ef5715353acc7d75544cc170a5d87]: Textual amendment: Word in Sch. para. 1(t) omitted (19.6.2023) by virtue of [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2023/624/schedule/2/paragraph/3/3/a)
+
+[^key-4fc2ea19d21bd3f435ca96590aeced53]: Textual amendment: Sch. para. 1(v) and word inserted (19.6.2023) by [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2023/624/schedule/2/paragraph/3/3/b)
+
+[^key-d5f60ae5b5cf53f197f81bb0041a17e2]: Commencement: Sch. para. 2 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/2064/regulation/1)

@@ -1,0 +1,70 @@
+---
+title: The Finance Act 2016, Section 166 (Appointed Day) Regulations 2017
+id: uksi/2017/970
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-10-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/970
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/970/pdfs/uksi_20170970_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/970/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Finance Act 2016, Section 166 (Appointed Day) Regulations 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 970 (C. 91)
+
+Income Tax
+
+Capital Gains Tax
+
+The Finance Act 2016, Section 166 (Appointed Day) Regulations 2017
+
+Made
+
+5th October 2017
+
+The Treasury make the following Regulations in exercise of the powers conferred by section 166(2) and (3) of the Finance Act 2016[^f00001]:
+
+## 1. Citation
+
+These Regulations may be cited as the Finance Act 2016, Section 166 (Appointed Day) Regulations 2017.
+
+## 2. Appointed day
+
+The amendment to the Taxes Management Act 1970[^f00002] made by section 166 of the Finance Act 2016 (offences relating to offshore income, assets and activities) comes into force on 7th October 2017 and has effect in relation to the tax year commencing on 6th April 2017[^f00003] and subsequent tax years.
+
+Guto Bebb
+
+David Evennett
+
+Two of the Lords Commissioners for Her Majesty’s Treasury
+
+5th October 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations appoint the 7th October 2017 as the day on which the amendment to the Taxes Management Act [1970 (c. 9)](https://www.legislation.gov.uk/ukpga/1970/9) (“the TMA 1970”) made by section 166 of the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24) comes into force and provide that it has effect in relation to the tax year commencing on 6th April 2017 and subsequent tax years.
+
+The amendment brings into force new criminal offences under sections 106B, 106C and 106D of the TMA 1970. None of the offences can be committed before 6th October 2018 (i.e. after the expiry of a period of 6 months after the end of the tax year commencing on 6th April 2017), which is relevant for the offence under section 106B of the TMA 1970 (see sections 7(1C) and 106B(1) and (3) of the TMA 1970). The earliest dates when offences under sections 106C and 106D can be committed are 6th April 2020 in the case of section 106C (see sections 8B(6) and 106C(1)(a) and (3) of the TMA 1970) and after 31st January 2020 in the case of section 106D (see sections 9ZA(3) and 106D(1) and (3) of the TMA 1970).
+
+A Tax Information Impact Note has not been prepared for these Regulations as they give effect to previously announced policy and are appointed day regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2016 c. 24](https://www.legislation.gov.uk/ukpga/2016/24).
+
+[^f00002]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^f00003]: Footnote: Section 989 of the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3) defines “tax year” for the purposes of the Income Tax Acts; Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) defines “the Income Tax Acts”; section 288(1ZA) of the Taxation of Chargeable Gains Act [1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12) defines “tax year” for the purposes of that Act and other enactments relating to capital gains tax; section 288(1ZA) was inserted by paragraph 101(3) of Schedule 2 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).

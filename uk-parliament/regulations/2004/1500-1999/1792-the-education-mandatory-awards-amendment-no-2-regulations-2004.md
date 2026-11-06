@@ -1,0 +1,69 @@
+---
+title: The Education (Mandatory Awards) (Amendment) (No. 2) Regulations 2004
+id: uksi/2004/1792
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-07-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/1792
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1792/pdfs/uksiem_20041792_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1792/pdfs/uksi_20041792_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1792/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Mandatory Awards) (Amendment) (No. 2) Regulations 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No. 1792
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Mandatory Awards) (Amendment) (No. 2) Regulations 2004
+
+Made
+
+8th July 2004
+
+Laid before Parliament
+
+15th July 2004
+
+Coming into force
+
+1st September 2004
+
+The Secretary of State for Education and Skills, in exercise of the powers conferred by sections 1 and 4(2) of, and paragraphs 3 and 4 of Schedule 1 to, the Education Act 1962[^f00001], and by section 3(1) and (3) of the Education Act 1973[^f00002] hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Education (Mandatory Awards) (Amendment) (No.2) Regulations 2004 and shall come into force on 1st September 2004.
+
+**2.** In paragraph 13(1) of Schedule 2 to the Education (Mandatory Awards) Regulations 2003[^f00003], for “£2,280” substitute “£2,335.”
+
+Alan Johnson
+
+Minister of State
+
+Department for Education and Skills
+
+8th July 2004
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education (Mandatory Awards) Regulations 2003 ([S.I.2003/1994](https://www.legislation.gov.uk/uksi/2003/1994)) as amended by the Education (Mandatory Awards) (Amendment) Regulations 2004 ([S.I.2004/1038](https://www.legislation.gov.uk/uksi/2004/1038)).
+
+These Regulations increase the payment rate of dependants requirement for students from £2,280 to £2,335. Regulation 6(3) of the 2003 regulations provides that the increase shall only apply in relation to an academic term which commences on or after the 1st September 2004. Where an academic year starts before 1st September 2004, but ends after 1st September 2004, the old payment rate and the new payment rate shall be applied proportionally.
+
+## Annotations
+
+[^f00001]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); the relevant provisions, as amended, are set out in Schedule 5 to the Education Act [1980(c. 20)](https://www.legislation.gov.uk/ukpga/1980/20); section 1(3) (d) was amended by the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11), section 4; section 4 was amended by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 2; the entire Act was repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to the saving and transitional provisions set out in the Teaching and Higher Education Act 1998 (Commencement No. 4 and Transitional Provisions) Order 1998 ([S.I. 1998/3237 (C.81)](https://www.legislation.gov.uk/uksi/1998/3237)) , article 3.
+
+[^f00002]: Footnote: [1973 c. 16](https://www.legislation.gov.uk/ukpga/1973/16); section 3 was repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to the saving and transitional provisions set out in the Teaching and Higher Education Act 1998 (Commencement No. 4 and Transitional Provisions) Order 1998 ([S.I. 1998/3237 (C.81)](https://www.legislation.gov.uk/uksi/1998/3237)), article 3.
+
+[^f00003]: Footnote: [S.I. 2003/1994](https://www.legislation.gov.uk/uksi/2003/1994), amended by [S.I. 2004/1038](https://www.legislation.gov.uk/uksi/2004/1038).

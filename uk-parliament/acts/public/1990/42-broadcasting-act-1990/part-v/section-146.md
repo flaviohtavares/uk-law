@@ -1,0 +1,52 @@
+---
+title: Broadcasting Act 1990, section 146
+act: Broadcasting Act 1990
+section: '146'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1990/42/section/146
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Broadcasting Act 1990, section 146
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/42
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 146. Publication of BCC’s findings.[^c16548441]
+
+*Extent: E+W+S+N.I.*
+
+**May not be in force at this date. Check the source.**
+
+(1) Where the BCC have considered and adjudicated upon a complaint, they may give the following directions, namely—
+
+- (a) where the relevant programme was broadcast by a broadcasting body, directions requiring that body to publish the matters mentioned in subsection (2) in such manner, and within such period, as may be specified in the directions; and
+- (b) where the relevant programme was included in a licensed service, directions requiring the appropriate regulatory body to direct the licence holder to publish those matters in such manner, and within such period, as may be so specified.
+
+(2) Those matters are—
+
+- (a) a summary of the complaint; and
+- (b) the BCC’s findings on the complaint or a summary of them.
+
+(3) The form and content of any such summary as is mentioned in subsection (2)(a) or (b) shall be such as may be approved by the BCC.
+
+(4) A broadcasting or regulatory body shall comply with any directions given to them under this section.
+
+(5) Any licence to provide a licensed service which is granted by a regulatory body under this Act shall include conditions requiring the licence holder to comply with such directions as may be given to him by that body for the purpose of enabling them to comply with any directions given to them under this section.
+
+(6) The BCC shall publish, at such intervals and in such manner as they think fit, reports each containing, as regards every complaint within this subsection which has been dealt with by them in the period covered by the report, a summary of the complaint and the action taken by them on it and, where they have adjudicated upon it, a summary of their findings.
+
+(7) A complaint made to the BCC is within subsection (6) unless it is one which they are precluded from entertaining by section 144(2).
+
+(8) The BCC may, if they think fit, omit from any summary included in a report under subsection (6) any information which could lead to the disclosure of the identity of any person connected with the complaint in question other than—
+
+- (a) a broadcasting or regulatory body; or
+- (b) a person providing a licensed service.
+
+## Annotations
+
+[^c16548441]: Modification: [Pt. V](https://www.legislation.gov.uk/ukpga/1990/42/part/V) (ss. 142–150) modified by [S.I. 1990/2579](https://www.legislation.gov.uk/uksi/1990/2579), [art. 2(2)](https://www.legislation.gov.uk/uksi/1990/2579/article/2/2)

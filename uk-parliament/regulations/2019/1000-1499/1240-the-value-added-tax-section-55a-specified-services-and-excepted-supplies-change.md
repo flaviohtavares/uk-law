@@ -1,0 +1,75 @@
+---
+title: The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day) Order 2019
+id: uksi/2019/1240
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-09-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2019/1240
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/1240/pdfs/uksiem_20191240_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1240/pdfs/uksi_20191240_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1240/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day) Order 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument has been made in consequence of a defect in [S.I. 2019/892](https://www.legislation.gov.uk/uksi/2019/892) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2019 No. 1240
+
+Value Added Tax
+
+The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day) Order 2019
+
+Made
+
+5th September 2019
+
+Laid before the House of Commons
+
+6th September 2019
+
+Coming into force
+
+30th September 2019
+
+The Treasury make this Order in exercise of the powers conferred by section 55A(9), (9A), (10), (11) and (14) of the Value Added Tax Act 1994[^f00001].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day) Order 2019 and comes into force on 30th September 2019.
+
+## 2. Change of commencement day
+
+In article 1(2) of the Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2019[^f00002], for “1st October 2019” substitute “1st October 2020”.
+
+Michelle Donelan
+
+Rebecca Harris
+
+Two of the Lords Commissioners for Her Majesty’s Treasury
+
+5th September 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the commencement provision in article 1(2) of the Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2019 ([S.I. 2019/892](https://www.legislation.gov.uk/uksi/2019/892)) which now comes into force on the 1st October 2020 and has effect in relation to supplies made on or after that date.
+
+A Tax Information and Impact Note has not been prepared for this instrument because it only changes the commencement date of the original instrument. The Tax Information and Impact Note for the original instrument has been published and is available on the government website at https://www.gov.uk/government/publications/vat-reverse-charge-for-building-and-construction-services/vat-reverse-charge-for-building-and-construction-services.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); section 55A was inserted by section 19(1) of the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and was amended by section 50(1) of the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13) and section 203 of, and paragraphs 2 and 6 of Schedule 28 to, the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14). Section 55A(9A) was inserted by section 51 of the Finance Act [2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1).
+
+[^f00002]: Footnote: [S.I. 2019/892](https://www.legislation.gov.uk/uksi/2019/892).

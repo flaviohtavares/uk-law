@@ -1,0 +1,34 @@
+---
+title: The Virgin Islands Constitution Order 2007, section 20
+act: The Virgin Islands Constitution Order 2007
+section: '20'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1678/section/20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Virgin Islands Constitution Order 2007, section 20
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 20. Protection of the right to marry and found a family
+
+(1) Every man and woman of a marriageable age has the right to marry and found a family in accordance with laws enacted by the Legislature.
+
+(2) No person shall be compelled to marry without his or her free and full consent.
+
+(3) Nothing in any law or done under its authority shall be held to contravene subsection (1) to the extent that it is reasonably justifiable in a democratic society—
+
+- (a) in the interests of public order, public morality or public health;
+- (b) for regulating, in the public interest, the procedures and modalities of marriage; or
+- (c) for protecting the rights and freedoms of other persons.
+
+(4) Spouses shall be entitled to equal rights and subject to equal responsibilities—
+
+- (a) as between themselves, both during the marriage and, if the marriage is dissolved, at its dissolution; and
+- (b) as regards their children, where there are any, both during the marriage and, if the marriage is dissolved, at and after its dissolution;
+
+but this equality of rights and responsibilities shall be subject to such arrangements or measures as may be agreed or as may be ordered by a court, in accordance with prescribed law, in the interests of the spouses and their children.

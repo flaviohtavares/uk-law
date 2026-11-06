@@ -1,0 +1,47 @@
+---
+title: Children and Young Persons Act 2008, section 12
+act: Children and Young Persons Act 2008
+section: '12'
+status: not-yet-in-force
+text_date: '2020-12-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2008/23/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children and Young Persons Act 2008, section 12
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
+
+## 12. Power to make further provision concerning independent reviewing officers: Wales
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The Welsh Ministers may by order—
+
+- (a) establish a body corporate to discharge such functions as may be conferred on it by the order; or
+- (b) provide for the discharge by them of such functions as may be conferred on them by the order.
+
+(2) An order under this section may confer functions in relation to Wales in connection with any or all of the following matters (but no others)—
+
+- (a) the provision of training for persons appointed or to be appointed as independent reviewing officers;
+- (b) the accreditation of persons as independent reviewing officers;
+- (c) the appointment of persons as independent reviewing officers;
+- (d) the management of persons appointed or accredited as independent reviewing officers.
+
+(3) An order under this section may, in consequence of the conferral of a function by the order, modify any provision made by or under an enactment—
+
+- (a) relating to independent reviewing officers;
+- (b) where the function is conferred on the Welsh Ministers, relating to those Ministers.
+
+(4) An order under this section which establishes a body corporate may provide—
+
+- (a) that the body is to be subject to inspection by an independent inspector specified in or established by the order, and may for that purpose apply, with or without modifications, any enactment relating to the carrying out of inspections;
+- (b) that the functions of the body must be performed in accordance with directions given by the Welsh Ministers.
+
+(5) In this section “**accreditation**” has the same meaning as in section 11.

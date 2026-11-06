@@ -1,0 +1,314 @@
+---
+title: The Guardian’s Allowance (General) Regulations 2003
+id: uksi/2003/495
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-03-05'
+text_date: '2025-04-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/495
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/495/pdfs/uksi_20030495_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/495/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Guardian’s Allowance (General) Regulations 2003
+
+> Text as at 2025-04-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 495
+
+SOCIAL SECURITY
+
+The Guardian’s Allowance (General) Regulations 2003
+
+Made
+
+5th March 2003
+
+Laid before Parliament
+
+5th March 2003
+
+Coming into force
+
+7th April 2003
+
+The Treasury, in exercise of the powers conferred upon them by section 77(3), (8) and (9) of the Social Security Contributions and Benefits Act 1992 [^f00001], section 77(3), (8) and (9) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^f00002], and section 54(1) of the Tax Credits Act 2002 [^f00003] hereby make the following Regulations:
+
+## 1. Citation and commencement[^key-f6837085d6ae4036ada08e4525f18d88]
+
+These Regulations may be cited as the Guardian’s Allowance (General) Regulations 2003 and shall come into force on 7th April 2003 immediately after the commencement of section 49 of the Tax Credits Act 2002.
+
+## 2. Interpretation[^key-88b361f5f6535f3f8b7df29dde507a68]
+
+(1) In these Regulations –
+
+- “the Act” means the Social Security Contributions and Benefits Act 1992;
+- “adopted” means adopted pursuant to –
+  - (a) an order made in the United Kingdom, the Channel Islands or the Isle of Man;
+  - (b) an overseas adoption within the meaning of section 72(2) of the Adoption Act 1976[^f00004];
+  - (c) a Convention adoption order within the meaning of section 72(1) of the Adoption Act 1976[^f00005]; or
+  - (d) a foreign adoption order within the meaning of section 4(3) of the Adoption (Hague Convention) Act (Northern Ireland) 1969[^f00006].
+- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs[^key-9e2eae7e2ea5c4de0d98a58309c3fc29];
+- “the Northern Ireland Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
+
+## 3. Modification to section 77(2) of the Act[^key-53a47f381f684e7cbf0ded16e70b8ca4]
+
+Section 77(2) of the Act and section 77(2) of the Northern Ireland Act shall be treated as modified where regulation 4 applies[^key-1709ab28c37aefbe37a919c97554fa36].
+
+## 4. Adopted children[^key-5fbdc9ec8295fbae0704ef407116acd7]
+
+(1) Where a child or a qualifying young person[^key-f92105c50c02d7cced3d72472d590167] has been adopted by two persons jointly, a reference in section 77(2) of the Act or section 77(2) of the Northern Ireland Act to the parents of the child or qualifying young person[^key-43cf107fcda405dc637097b16f86ebf4] shall be read as a reference to those two persons.
+
+(2) Where a child or qualifying young person[^key-e1f3702c2e05e16dd36e88bbcbdcf673] has been adopted by one person only, the circumstances to be satisfied in section 77(2) of the Act or section 77(2) of the Northern Ireland Act are that that person is dead.
+
+## 5. Illegitimate children[^key-0e41341958da865137512c2a21c49af5][^key-9d3ba314044a91c8dc00dbe0a7ed8ff1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Children of divorced parents[^key-605d7f2616ada34a82872adf78821c29][^key-717e6d5bd0f8ad535c89299321932077]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Circumstances in which a person is to be treated as being in prison[^key-0d997c41c60530af6b70cf9cb9bcc2d4]
+
+(1) The circumstances in which a person is to be treated as being in prison for the purposes of section 77 of the Act or section 77 of the Northern Ireland Act are that he is –
+
+- (a) serving a custodial sentence within the meaning of section 76 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00009], section 222 of the Sentencing Code or[^key-f443064b4058f3f00ddf0e5e0caad1c4] Article 2(2) of the Criminal Justice (Northern Ireland) Order 1996[^f00010] or a sentence of detention or imprisonment within the meaning of section 307(1) of the Criminal Procedure (Scotland) Act 1995[^f00011], of at least 2 years and the other parent is deceased[^key-8e41d748a53b5e493b4e3a81c2ae817c]; or
+- (b) detained in a hospital by order of the court under –
+  - (i) section 37(1)[^f00012], 38, or 45A[^f00013] of the Mental Health Act 1983;
+  - (ii) section 5 of the Criminal Procedure (Insanity) Act 1964[^f00014];
+  - (iii) section 6 or 14 of the Criminal Appeal Act 1968[^f00015];
+  - (iv) section 57, 57A[^key-9472bc16b92e27ffbe48b41e289f172d] or 59A of the Criminal Procedure (Scotland) Act 1995[^f00016];
+  - (v) Article 44, 45, 50A, or 51(2) and (3) of the Mental Health (Northern Ireland) Order 1986[^f00017]; or
+  - (vi) section 11 or 13(5A) and (6) of the Criminal Appeal (Northern Ireland) Act 1980 [^f00018].
+
+(2) In calculating the length of the sentence for the purposes of paragraphs (1)(a) above and (4) below –
+
+- (a) disregard any reduction made to the length of the sentence to take account of any period spent in custody prior to sentencing; and
+- (b) include any period spent in custody immediately prior to sentencing, save that where he is serving a custodial sentence or sentence of detention or imprisonment with the meaning of paragraph (1)(a) above immediately prior to sentencing, include only such period of that sentence as remains following sentencing for the later sentence,
+
+but nothing in this paragraph shall permit the payment of guardian’s allowance in respect of any period in custody prior to sentencing.
+
+(3) Subject to paragraph (4) below, a person shall not cease to be treated as being in prison in accordance with paragraph (1) above by virtue of the fact that he is temporarily released, unlawfully at large, or, in the case of a person serving a sentence, transferred to a hospital.
+
+(4) A person serving a sentence in accordance with paragraph (1)(a) above shall cease to be treated as being in prison in accordance with that paragraph where –
+
+- (a) he is released on licence, the remainder of his sentence is remitted, his sentence is reduced on appeal to a term of less than 2 years, or his conviction is quashed on appeal; or
+- (b) he is not in custody and has not been in custody for a period at least equal to the remaining period of his sentence,
+
+but that where a person to whom sub-paragraph (b) applies returns to prison to serve the remainder of the sentence, the length of the sentence for the purposes of paragraph (1)(a) above shall be the period of the remainder of the sentence.
+
+(5) This regulation shall apply, subject to the necessary modifications, to a parent who is outside Great Britain or Northern Ireland and serving a custodial sentence with not less than 2 years remaining from the death of the other parent or detained in a hospital by a court order.
+
+## 8. Rate of allowance and payment to the National Insurance Fund or the Northern Ireland National Insurance Fund[^key-c474dc8404cf16773b39351e594cc0d4]
+
+(1) Where a person treated as being in prison for the purposes of section 77 of the Act or section 77 of the Northern Ireland Act contributes to the cost of providing for a child or qualifying young person[^key-7eec63323c025613926b91f034df4869], the weekly rate of any guardian’s allowance payable shall be reduced by the amount of the contribution made in the week preceding the week for which any allowance is payable.
+
+(2) In a case where entitlement to guardian’s allowance is established by reference to a person being in prison, that person shall, on notice being given by the Board, pay to the National Insurance Fund or the Northern Ireland National Insurance Fund an amount equal to that paid by way of guardian’s allowance.
+
+## 9. Residence condition[^key-db56365b694f07e69ce4ba5b137c20de]
+
+(1) There shall be no entitlement to guardian’s allowance in respect of a child or qualifying young person[^key-d24602162528769311b2fc91b1a862b2] unless at least one of the parents of that child or qualifying young person[^key-2600121554511395e7a0357221ab103a] –
+
+- (a) was born in the United Kingdom an EEA state or Switzerland[^key-acadca50512a45eb843a640bd74377bb]; or
+- (b) at the date of death of the parent whose death gives rise to the claim for guardian’s allowance, has, in any two year period since the age of 16, spent at least 52 weeks of that period in Great Britain or Northern Ireland, as the case may require.
+
+(2) For the purposes of paragraph (1)(b) above, a person shall be treated as being present in Great Britain or Northern Ireland (as the case may require) where –
+
+- (a) his absence is by virtue of his employment –
+  - (i) as a serving member of the forces within the meaning of regulation 140 of the Social Security (Contributions) Regulations 2001[^f00019];
+  - (ii) as an airman within the meaning of regulation 111 of those Regulations; or
+  - (iii) as a mariner within the meaning of regulation 115 of those Regulations; or
+- (b) his absence is by virtue of his employment and that employment is prescribed employment within the meaning of regulation 114(1) of those Regulations (continental shelf operations).
+
+(3)[^key-5e95ae7924acf3755e95eb70c4e25948] Where a child or qualifying young person has been adopted by two persons jointly references in paragraph (1) above to the parents of the child or qualifying young person are to be read as references to those two persons.
+
+(3A) Where a child or qualifying young person has been adopted by one person only, that person must satisfy the requirements of paragraph (1) above.
+
+(4)[^key-2fdc2ad8c7a4755dff73a51e1df17ed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Prescribed manner of making an election under section 77(9) of the Act or section 77(9) of the Northern Ireland Act[^key-f4bbdcf26649cecf0caa0357924c7831]
+
+(1) An election under section 77(9) of the Act or section 77(9) of the Northern Ireland Act (payment of guardian’s allowance not to be made to a husband) must –
+
+- (a) be in writing, and
+- (b) be made either –
+  - (i) on a form approved by the Board, or
+  - (ii) in such other manner as the Board may accept as sufficient in the circumstances of the particular case.
+
+(2)[^key-3ad9a5c886215a0d3c8879513ed6dc3c] Notice of the election must be given at an appropriate office.
+
+(3)[^key-ead022a9ff966a1545804a92dbadc472] In paragraph (2) “an appropriate office” means—
+
+- (a) Waterview Park, Washington, Tyne and Wear; or
+- (b) any other office specified in writing by the Board.
+
+(4) An election may be given by means of electronic communication in accordance with Schedule 2 to the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003[^f00020].
+
+## 11. Revocations[^key-cdd75c53c691ee3afc46e726004c624b]
+
+The Regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3) of the Schedule.
+
+Nick Ainger
+
+Jim Fitzpatrick
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+5th March 2003
+
+## SCHEDULE — REVOCATIONS
+
+### PART 1 — REVOCATIONS APPLICABLE TO GREAT BRITAIN[^key-1a596496c936dc40e65a2e8844ae3189]
+
+| (1) Regulations revoked | (2) References | (3) Extent of revocation |
+| --- | --- | --- |
+| The Social Security (Guardian’s Allowances) Regulations 1975 | [S.I. 1975/515](https://www.legislation.gov.uk/uksi/1975/515) | The whole of the Regulations |
+| The Social Security (Child Benefit Consequential) Regulations 1977 | [S.I. 1977/342](https://www.legislation.gov.uk/uksi/1977/342) | Regulation 9 |
+| The Social Security (Guardian’s Allowances) Amendment Regulations 1985 | [S.I. 1985/1327](https://www.legislation.gov.uk/uksi/1985/1327) | The whole of the Regulations |
+| The Social Security (National Insurance Number Information: Exemption) Regulations 1997 | [S.I. 1997/2676](https://www.legislation.gov.uk/uksi/1997/2676) | Regulation 7 |
+| The Social Security (Guardian’s Allowances) Amendment Regulations 1998 | [S.I. 1998/1811](https://www.legislation.gov.uk/uksi/1998/1811) | The whole of the Regulations |
+| The Social Security Act 1998 (Commencement No 8, and Savings and Consequential and Transitional Provisions) Order 1999 | [S.I. 1999/1958](https://www.legislation.gov.uk/uksi/1999/1958) | Article 4(2) and Schedule 2 |
+| The Social Security (National Insurance Number Information: Exemption) Regulations 2000 | [S.I. 2000/1082](https://www.legislation.gov.uk/uksi/2000/1082) | Regulation 3 |
+| The Child Support (Consequential Amendments and Transitional Provisions) Regulations 2001 | [S.I. 2001/158](https://www.legislation.gov.uk/uksi/2001/158) | In regulation 2, the definition of “the Guardian”s Allowances Regulations', and Regulation 5 |
+| The Social Security (Guardian’s Allowances) Amendment Regulations 2002 | [S.I. 2002/492](https://www.legislation.gov.uk/uksi/2002/492) | The whole of the Regulations |
+| The Social Security (Electronic Communications) (Child Benefit) Order 2002 | [S.I. 2002/1789](https://www.legislation.gov.uk/uksi/2002/1789) | Regulation 7 |
+
+### PART 2 — REVOCATIONS APPLICABLE TO NORTHERN IRELAND[^key-d2801de45ad729a6865f68c62cd3f8b3]
+
+|  |  |  |
+| --- | --- | --- |
+| The Social Security (Guardian’s Allowances) Regulations (Northern Ireland) 1975 | [S.R. 1975 No. 98](https://www.legislation.gov.uk/nisr/1975/98) | The whole of the Regulations |
+| The Social Security (Child Benefit Consequential) Regulations (Northern Ireland) 1977 | [S.R. 1977 No. 73](https://www.legislation.gov.uk/nisr/1977/73) | Regulation 9 |
+| The Social Security (Guardian’s Allowances) (Amendment) Regulations (Northern Ireland) 1985 | [S.R. 1985 No. 227](https://www.legislation.gov.uk/nisr/1985/227) | The whole of the Regulations |
+| The Social Security (Guardian’s Allowances) (Amendment) Regulations (Northern Ireland) 1998 | [S.R. 1998 No. 263](https://www.legislation.gov.uk/nisr/1998/263) | The whole of the Regulations |
+| The Social Security (1998 Order) (Commencement No. 7 and Savings, Consequential and Transitional Provisions) Order (Northern Ireland) 1999 | [S.R. 1999 No. 310 (C. 23)](https://www.legislation.gov.uk/nisr/1999/310) | Article 5 |
+| The Child Support (Consequential Amendments and Transitional Provisions) Regulations (Northern Ireland) 2001 | [S.R. 2001 No. 29](https://www.legislation.gov.uk/nisr/2001/29) | In regulation 1(3), the definition of “the Guardian”s Allowances Regulations', and regulations 2 and 9(1)(a) |
+| The Social Security (Guardian’s Allowances) (Amendment) Regulations (Northern Ireland) 2002 | [S.R. 2002 No. 87](https://www.legislation.gov.uk/nisr/2002/87) | The whole of the Regulations |
+
+(This note is not part of the Regulations)
+
+These Regulations make provisions in respect of guardian’s allowance.
+
+Regulation 1 provides for the commencement and citation of these Regulations, and Regulation 2 for the interpretation of certain terms used in them.
+
+Regulations 3 to 6 modify, in cases where a child is adopted, illegitimate, or of divorced parents, the circumstances in section 77(2) of the Social Security Contributions and Benefits Act 1992 (“the Act”) or section 77 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (“the Northern Ireland Act”) which must be satisfied before a person is entitled to claim guardian’s allowance in respect of that child.
+
+Regulation 7 prescribes the circumstances in which a person is to be treated as being in prison for the purposes of section 77 of the Act or section 77 of the Northern Ireland Act.
+
+Regulation 8(1) provides for the rate of guardian’s allowance to be reduced by reference to the contributions of a person in prison. Regulation 8(2) provides for a person in prison to reimburse the National Insurance Fund or the Northern Ireland National Insurance Fund in respect of sums paid by way of guardian’s allowance.
+
+Regulation 9 prescribes conditions as to place of birth and residence, of which at least one must be satisfied by at least one of a child’s parents before a person is entitled to claim guardian’s allowance in respect of that child. Regulation 9(3) modifies this requirement where a child is adopted, and Regulation 9(4) modifies this requirement where a child is illegitimate.
+
+Regulation 10 prescribes the manner in which a wife may elect for any payment of guardian’s allowance not to be made to her husband.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). The functions of the Secretary of State under this section will be transferred to the Treasury by section 49(1)(a) of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) and S.I. [2003/392 (C.25)](https://www.legislation.gov.uk/uksi/2003/392) with effect from 1<sup>st</sup> April 2003.
+
+[^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). The functions of the Department for Social Development under this section will be transferred to the Treasury by section 49(2)(a) of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) and S.I. [2003/392 (C.25)](https://www.legislation.gov.uk/uksi/2003/392) with effect from 1<sup>st</sup> April 2003.
+
+[^f00003]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^key-f6837085d6ae4036ada08e4525f18d88]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-88b361f5f6535f3f8b7df29dde507a68]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/495/regulation/2) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^f00004]: Footnote: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36). Section 72(2) was amended by sections 15(1) and 17, and paragraph 3(8) of Schedule 2 to the Adoption (Intercountry Aspects) Act [1999 (c. 18)](https://www.legislation.gov.uk/ukpga/1999/18). The Adoption (Designation of Overseas Adoptions) Order 1973 (S.I. [1973/19](https://www.legislation.gov.uk/uksi/1973/19)) as amended by S.I. [1993/690](https://www.legislation.gov.uk/uksi/1993/690) was made under section 72(2).
+
+[^f00005]: Footnote: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36). Section 72(1) was amended by sections 8 and 17 of the Adoption (Intercountry Aspects) Act [1999 (c. 18)](https://www.legislation.gov.uk/ukpga/1999/18).
+
+[^f00006]: Footnote: [1969 c. 22 (N.I.)](https://www.legislation.gov.uk/apni/1969/22).
+
+[^key-9e2eae7e2ea5c4de0d98a58309c3fc29]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/495/regulation/2) substituted (10.4.2006) by [The Guardian’s Allowance (General) (Amendment) Regulations 2006 (S.I. 2006/204)](https://www.legislation.gov.uk/uksi/2006/204), [regs. 1](https://www.legislation.gov.uk/uksi/2006/204/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/204/regulation/3)
+
+[^key-53a47f381f684e7cbf0ded16e70b8ca4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/495/regulation/3) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-1709ab28c37aefbe37a919c97554fa36]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2003/495/regulation/3) substituted (7.4.2025) by [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/2) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/5)[(6)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/6))
+
+[^key-5fbdc9ec8295fbae0704ef407116acd7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/495/regulation/4) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-f92105c50c02d7cced3d72472d590167]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/495/regulation/4/1) inserted (10.4.2006) by [The Guardian’s Allowance (General) (Amendment) Regulations 2006 (S.I. 2006/204)](https://www.legislation.gov.uk/uksi/2006/204), [regs. 1](https://www.legislation.gov.uk/uksi/2006/204/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2006/204/regulation/4/2/a)
+
+[^key-43cf107fcda405dc637097b16f86ebf4]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/495/regulation/4/1) substituted (10.4.2006) by [The Guardian’s Allowance (General) (Amendment) Regulations 2006 (S.I. 2006/204)](https://www.legislation.gov.uk/uksi/2006/204), [regs. 1](https://www.legislation.gov.uk/uksi/2006/204/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2006/204/regulation/4/2/b)
+
+[^key-e1f3702c2e05e16dd36e88bbcbdcf673]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/495/regulation/4/2) inserted (10.4.2006) by [The Guardian’s Allowance (General) (Amendment) Regulations 2006 (S.I. 2006/204)](https://www.legislation.gov.uk/uksi/2006/204), [regs. 1](https://www.legislation.gov.uk/uksi/2006/204/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2006/204/regulation/4/3)
+
+[^key-0e41341958da865137512c2a21c49af5]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/495/regulation/5) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/3) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/5)[(6)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/6))
+
+[^key-9d3ba314044a91c8dc00dbe0a7ed8ff1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/495/regulation/5) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-605d7f2616ada34a82872adf78821c29]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/495/regulation/6) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/3) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/5)[(6)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/6))
+
+[^key-717e6d5bd0f8ad535c89299321932077]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/495/regulation/6) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-0d997c41c60530af6b70cf9cb9bcc2d4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/495/regulation/7) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^f00009]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
+
+[^key-f443064b4058f3f00ddf0e5e0caad1c4]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2003/495/regulation/7/1/a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 334](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/334) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00010]: Footnote: S.I. [1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160) as amended by paragraph 51(b) of Schedule 5 to the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. [1998/1504 (N.I.9)](https://www.legislation.gov.uk/nisi/1998/1504)).
+
+[^f00011]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-8e41d748a53b5e493b4e3a81c2ae817c]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2003/495/regulation/7/1/a) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2020/297/regulation/7/2)
+
+[^f00012]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Section 37(1) was amended by section 55 of, and paragraph 12(1) of Schedule 4 to, the Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43), and section 165(1) of, and paragraphs 90(1) and (2) of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6).
+
+[^f00013]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Section 45A was inserted by section 46 of the Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43).
+
+[^f00014]: Footnote: [1964 c. 84](https://www.legislation.gov.uk/ukpga/1964/84). Section 5 was substituted by section 3 of the Criminal Procedure (Insanity and Unfitness to Plead) Act [1991 (c. 25)](https://www.legislation.gov.uk/ukpga/1991/25).
+
+[^f00015]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19). Sections 6 and 14 were substituted by section 4 of the Criminal Procedure (Insanity and Unfitness to Plead) Act [1991 (c. 25)](https://www.legislation.gov.uk/ukpga/1991/25).
+
+[^key-9472bc16b92e27ffbe48b41e289f172d]: Textual amendment: Word in [reg. 7(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2003/495/regulation/7/1/b/iv) substituted (E.W.N.I.) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2005/2078/schedule/2/paragraph/24); (S.) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/445)](https://www.legislation.gov.uk/ssi/2005/445), [arts. 1](https://www.legislation.gov.uk/ssi/2005/445/article/1), [2](https://www.legislation.gov.uk/ssi/2005/445/article/2), [sch. para. 42](https://www.legislation.gov.uk/ssi/2005/445/schedule/paragraph/42)
+
+[^f00016]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 57 was amended by paragraph 26(1) of Schedule 5 to the Adults with Incapacity (Scotland) Act 2000. Section 58 was amended by paragraph 26(2) of Schedule 5 to the Adults with Incapacity (Scotland) Act 2000, section 3 of the Mental Health (Public Safety and Appeals) (Scotland) Act 1999, and paragraph 21 of Schedule 1 to the Crime and Punishment (Scotland) Act [1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48). Section 59A was inserted by section 6 of the Crime and Punishment (Scotland) Act 1997, and amended by section 3 of the Mental Health (Public Safety and Appeals) (Scotland) Act 1999.
+
+[^f00017]: Footnote: S.I. [1986/595 (N.I.4)](https://www.legislation.gov.uk/nisi/1986/595). Article 44 was amended by Schedule 1 to the Health and Personal Social Services (Northern Ireland) Order 1994 (S.I. [1994/429 (N.I.2)](https://www.legislation.gov.uk/nisi/1994/429)) and paragraph 25 of Schedule 5 to the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. [1998/1504 (N.I.9)](https://www.legislation.gov.uk/nisi/1998/1504)). Article 50A was inserted by Article 51(1) of the Criminal Justice (Northern Ireland) Order 1996 (S.I. [1996/3160 (N.I.24)](https://www.legislation.gov.uk/nisi/1996/3160)) and amended by paragraph 26 of Schedule 5 to the Criminal Justice (Children) (Northern Ireland) Order 1998. Article 51(2) and (3) was amended by Article 51(2) of the Criminal Justice (Northern Ireland) Order 1996.
+
+[^f00018]: Footnote: [1980 c. 47](https://www.legislation.gov.uk/ukpga/1980/47). Section 11 was amended by Part I of Schedule 5 to the Mental Health (Northern Ireland) Order 1986 (S.I. [1986/595 (N.I.4)](https://www.legislation.gov.uk/nisi/1986/595)). Section 13 was amended by paragraphs 5 and 6 of Schedule 5 to the Criminal Justice (Northern Ireland) Order 1996 (S.I. [1996/3160 (N.I.24)](https://www.legislation.gov.uk/nisi/1996/3160)).
+
+[^key-c474dc8404cf16773b39351e594cc0d4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/495/regulation/8) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-7eec63323c025613926b91f034df4869]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2003/495/regulation/8/1) inserted (10.4.2006) by [The Guardian’s Allowance (General) (Amendment) Regulations 2006 (S.I. 2006/204)](https://www.legislation.gov.uk/uksi/2006/204), [regs. 1](https://www.legislation.gov.uk/uksi/2006/204/regulation/1), [7](https://www.legislation.gov.uk/uksi/2006/204/regulation/7)
+
+[^key-db56365b694f07e69ce4ba5b137c20de]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/495/regulation/9) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-d24602162528769311b2fc91b1a862b2]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/495/regulation/9/1) inserted (10.4.2006) by [The Guardian’s Allowance (General) (Amendment) Regulations 2006 (S.I. 2006/204)](https://www.legislation.gov.uk/uksi/2006/204), [regs. 1](https://www.legislation.gov.uk/uksi/2006/204/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2006/204/regulation/8/2/a)
+
+[^key-2600121554511395e7a0357221ab103a]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/495/regulation/9/1) substituted (10.4.2006) by [The Guardian’s Allowance (General) (Amendment) Regulations 2006 (S.I. 2006/204)](https://www.legislation.gov.uk/uksi/2006/204), [regs. 1](https://www.legislation.gov.uk/uksi/2006/204/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2006/204/regulation/8/2/b)
+
+[^key-acadca50512a45eb843a640bd74377bb]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2003/495/regulation/9/1/a) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/297/regulation/7/3)
+
+[^f00019]: Footnote: S.I. [2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
+
+[^key-5e95ae7924acf3755e95eb70c4e25948]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2003/495/regulation/9/3)[(3A)](https://www.legislation.gov.uk/uksi/2003/495/regulation/9/3A) substituted for [reg. 9(3)](https://www.legislation.gov.uk/uksi/2003/495/regulation/9/3) (10.4.2006) by [The Guardian’s Allowance (General) (Amendment) Regulations 2006 (S.I. 2006/204)](https://www.legislation.gov.uk/uksi/2006/204), [regs. 1](https://www.legislation.gov.uk/uksi/2006/204/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2006/204/regulation/8/3)
+
+[^key-2fdc2ad8c7a4755dff73a51e1df17ed3]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/2003/495/regulation/9/4) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/4) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/5)[(6)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/6))
+
+[^key-f4bbdcf26649cecf0caa0357924c7831]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2003/495/regulation/10) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-3ad9a5c886215a0d3c8879513ed6dc3c]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2003/495/regulation/10/2)[(3)](https://www.legislation.gov.uk/uksi/2003/495/regulation/10/3) substituted (10.4.2006) by [The Guardian’s Allowance (General) (Amendment) Regulations 2006 (S.I. 2006/204)](https://www.legislation.gov.uk/uksi/2006/204), [regs. 1](https://www.legislation.gov.uk/uksi/2006/204/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2006/204/regulation/9/2)
+
+[^key-ead022a9ff966a1545804a92dbadc472]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2003/495/regulation/10/3) substituted (1.1.2010) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3268/regulation/6)
+
+[^f00020]: Footnote: S.I. [2003/492](https://www.legislation.gov.uk/uksi/2003/492).
+
+[^key-cdd75c53c691ee3afc46e726004c624b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2003/495/regulation/11) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-1a596496c936dc40e65a2e8844ae3189]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/1) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)
+
+[^key-d2801de45ad729a6865f68c62cd3f8b3]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/2) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1)

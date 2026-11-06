@@ -1,0 +1,483 @@
+---
+title: The Safeguarding Vulnerable Groups Act 2006 (Regulated Activity, Miscellaneous and Transitional Provisions and Commencement No. 5) Order 2009
+id: uksi/2009/2610
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-10-01'
+text_date: '2012-09-10'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/2610
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2610/pdfs/uksiem_20092610_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2610/pdfs/uksi_20092610_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2610/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Safeguarding Vulnerable Groups Act 2006 (Regulated Activity, Miscellaneous and Transitional Provisions and Commencement No. 5) Order 2009
+
+> Text as at 2012-09-10.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 2610 (C. 114)
+
+Children And Young Persons, England And Wales
+
+Protection Of Vulnerable Adults, England And Wales
+
+The Safeguarding Vulnerable Groups Act 2006 (Regulated Activity, Miscellaneous and Transitional Provisions and Commencement No. 5) Order 2009
+
+Made
+
+1st October 2009
+
+Coming into force
+
+12th October 2009
+
+The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by sections 5(3), 21(12), 61(5), 64(1), (2)(a) and (3) and 65 of, and paragraphs 2(1), 8(1) and 24(1) and (2) of Schedule 3 to, the Safeguarding Vulnerable Groups Act 2006[^f00001]:
+
+In accordance with section 56(3)(a), (c), (o), (p) and (q) of that Act, the Secretary of State has consulted the Welsh Ministers:
+
+A draft of this Order was laid before Parliament in accordance with section 61(3) of that Act and approved by resolution of each House of Parliament:
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and interpretation[^key-d187c62f678a7f788c64bbe3c0f7058f]
+
+(1) This Order may be cited as the Safeguarding Vulnerable Groups Act 2006 (Regulated Activity, Miscellaneous and Transitional Provisions and Commencement No. 5) Order 2009 and comes into force on 12th October 2009.
+
+(2) In this Order—
+
+- “the Act” means the Safeguarding Vulnerable Groups Act 2006;
+- [^key-fb073daa17dcc563b9661221e8144125]...
+
+### 2. Provisions coming into force on 12th October 2009[^key-4f81a6aa0483635556043b9c73dfc9a6]
+
+12th October 2009 is the day appointed for the coming into force of the following provisions of the Act—
+
+- (a) paragraph 14 of Schedule 9, in relation to England and Wales;
+- (b) Schedule 10 in so far as it relates to the repeal of sections 113C, 113D and 113F of the Police Act 1997[^f00005];
+- (c) section 63 in so far as it relates to the provisions specified in paragraphs (a) and (b).
+
+### 3. Revocations[^key-efbf74b1eae3068bd0273491db42722d]
+
+The Safeguarding Vulnerable Groups Act 2006 (Transitory Provisions) Order 2009[^f00006] is revoked.
+
+## PART 2 — Provisions applying during the first transitional period
+
+### 4. Transitional modifications applying during the first transitional period[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Modification to section 113BA of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Modification to section 113BB of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Modification to section 119 of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Modification to section 120A of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Modifications to Schedule 3 to the Safeguarding Vulnerable Groups Act 2006[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Provisions applying during the second transitional period
+
+### 10. Transitional modifications applying during the second transitional period[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Modification to section 113BA of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Modification to section 113BB of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Provisions applying during the first and second transitional periods
+
+### 13. Transitional modifications and provisions applying during the first and second transitional periods[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Modifications to section 113E of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Modification to section 116 of the Police Act 1997[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Teachers’ pensions – entitlement to payment of retirement benefits[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Modifications to the General Teaching Council for England (Disciplinary Functions) Regulations 2001[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Power of Secretary of State to refer to IBB[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Further Transitional Provisions
+
+### 19. Transitional provisions relating to the provision of information[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Information provided to IBB[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Information provided by IBB[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Information provided by the Secretary of State[^key-808b7ce0658335e73ec13d9d306f4ddf]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Relevant conduct engaged in before the repeal of sections 28 to 29A of the Criminal Justice and Court Services Act 2000[^key-69e496f49aeb40044da18e4272ec58a4]
+
+(1) In relation to conduct engaged in during the relevant period, paragraph 3(4) of Schedule 3 to the Act has effect as if the words “before the commencement of section 2” were omitted.
+
+(2) “Relevant period” means the period—
+
+- (a) starting on the day on which this Order comes into force, and
+- (b) ending with the coming into force of the repeal by the Act of sections 28 to 29A[^f00026] of the Criminal Justice and Court Services Act 2000[^f00027].
+
+## PART 6 — Prescribed Criteria
+
+### 24. Amendments to the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria and Miscellaneous Provisions) Regulations 2009[^key-1697ed8f98bf9c7ec103104ce583cd64]
+
+(1) The Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria and Miscellaneous Provisions) Regulations 2009[^f00028] are amended as follows.
+
+(2) In Part 1 of the table in paragraph 2 of the Schedule (prescribed criteria – automatic inclusion in the children’s barred list with the right to make representations) insert the following entries at the appropriate place—
+
+> |  |  |
+> | --- | --- |
+> | Theft Act 1968, section 9(1)(a)[^f00029] | The offence was committed with intent to commit rape |
+
+> |  |  |
+> | --- | --- |
+> | Theft Act (Northern Ireland) 1969, section 9[^f00030] | The offence was committed with intent to commit rape |
+
+(3) In Part 2 of the table in paragraph 2 of the Schedule—
+
+- (a) omit “Theft Act 1968, section 9(1)(a)” and “Theft Act (Northern Ireland) 1969, section 9”;
+- (b)[^key-4d456476abda587091530a49c8a1f1b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In Part 1 of the table in paragraph 4 of the Schedule (prescribed criteria – automatic inclusion in the adults’ barred list with the right to make representations) insert the following entries at the appropriate place—
+
+> |  |  |
+> | --- | --- |
+> | Theft Act 1968, section 9(1)(a) | The offence was committed with intent to commit rape |
+
+> |  |  |
+> | --- | --- |
+> | Theft Act (Northern Ireland) 1969, section 9 | The offence was committed with intent to commit rape |
+
+(5) In Part 2 of the table in paragraph 4 of the Schedule—
+
+- (a) omit “Theft Act 1968, section 9(1)(a)” and “Theft Act (Northern Ireland) 1969, section 9”;
+- (b) insert the following entry at the appropriate place—
+
+  > Sexual Offences (Scotland) Act 1976, section 3
+
+  .
+
+## PART 7 — Provisions relating to Part 1 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006
+
+### Regulated activity relating to Children
+
+#### 25. Definition of relevant child care premises[^key-b13c0c09a6ea20412f394d4a0f8e8168]
+
+(1) Paragraph 3 of Schedule 4 to the Act is amended as follows.
+
+(2) In sub-paragraph (2)(c), after “any form of” insert “child minding or”.
+
+(3) After sub-paragraph 3(2) insert—
+
+> (3) But premises on which a person carries on childcare or child minding are not relevant childcare premises if the premises are the home of a parent of at least one child to whom the childcare or child minding is provided.
+>
+> (4) For the purposes of paragraph (3) “parent” includes any person who has parental responsibility for a child or who has care of a child.
+>
+> (5) “Parental responsibility” has the same meaning as in the Children Act 1989.
+
+.
+
+#### 26. Office holders and other amendments to paragraph 4 of Schedule 4 to the Act[^key-b3b33e00b4b934e708270a89a0beb43e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — Provisions relating to Part 2 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006[^key-885d637da1f1e906cbd3254d9ef66bca]
+
+**No longer in force.**
+
+### Regulated activity relating to vulnerable adults
+
+#### 27. Office holders and other amendments to paragraph 8 of Schedule 4 to the Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 9 — Miscellaneous
+
+### 28. Controlled activity relating to children[^key-843e0ede4c57a7c53fd6f85dbcefb45d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Inspection of independent schools in England by approved bodies
+
+In relation to times before the coming into force of section 106 of the Education and Skills Act 2008(1), paragraph 1(10)(c) of Schedule 4 to the Act has effect as if after “in pursuance of” there were inserted “section 162A(1)(b) or”.
+
+### 30. References in the Act to the National Assembly for Wales[^key-f71dab3b3a018ec021bd2e576bceaf25]
+
+In the following provisions of the Act, for “National Assembly for Wales” substitute “Welsh Ministers”—
+
+- (a)[^key-4482f758bdec4ffb3ece06427c32f8d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) section 45(7)(b) and (e), and
+- (c) paragraphs 1(10)(g), 1(11)(b) and 7(6)(c) of Schedule 4.
+
+Delyth Morgan
+
+Parliamentary Under Secretary of State
+
+Department for Children, Schools and Families
+
+1st October 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order, made under the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47) (“the Act”), amends the definition of regulated activity in Schedule 4 to the Act and the Regulations which prescribe the criteria on the basis of which a person will be included automatically in the barred lists maintained under section 2 of the Act. It also brings into force amendments to, and the repeal of, provisions in the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) (“the Police Act”) relating to enhanced criminal record certificates and makes transitional provision relating to the issuing of such certificates and to the functions of the Independent Barring Board (“IBB”) (which is established under section 1 of the Act).
+
+On the coming into force of this Order, there will be people who are still disqualified from working with children by virtue of section 35 of the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43), prohibited from working in a care position by virtue of section 89 of the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14), or subject to a direction prohibiting them from doing work to which section 142 of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32) applies. For as long as this remains the case, it will be necessary for these bars to be indicated by any criminal records certificates that are required to show suitability information relating to children or vulnerable adults. In order for this to happen the relevant provisions of the Police Act must be modified (without modification they would indicate only whether the applicant was barred from regulated activity).
+
+Article 5 modifies the effect of section 113BA of the Police Act (which is brought into force by article 2) so that, during the first transitional period (defined in article 1), suitability information relating to children includes whether a person is provisionally included in the list kept under section 1 of the Protection of Children Act [1999 (c. 14)](https://www.legislation.gov.uk/ukpga/1999/14), included in that list otherwise than provisionally or barred from regulated activity relating to children, or subject to a direction under section 142 of the Education Act 2002.
+
+Article 6 makes equivalent provision for suitability information relating to vulnerable adults by modifying the effect of section 113BB of the Police Act (this is also brought into force by article 2). In this case the information shown is whether a person is provisionally included in the list kept under section 81 of the Care Standards Act 2000 or included in that list otherwise than provisionally or barred from regulated activity relating to vulnerable adults.
+
+Articles 7 and 8 make provision consequential on the repeal of sections 113C and 113D of the Police Act brought into force by article 2.
+
+Article 9 modifies the effect of Schedule 3 to the Act so that, during the first transitional period, a person is not to be included automatically in either of the barred lists maintained under section 2 of the Act unless IBB, rather than the Secretary of State, is satisfied that criteria prescribed for the purposes of paragraphs 1, 2, 7 or 8 of Schedule 3 are met. IBB will satisfy itself by accessing information made available to it under article 20 and by exercising the powers provided for under paragraph 19(1) of Schedule 3 to the Act.
+
+Article 11 modifies the effect of section 113BA of the Police Act during the second transitional period. During this period a greater range of information will be shown on criminal records certificates, and suitability information relating to children will include whether a person is subject to monitoring and whether IBB is considering whether to include a person in the children’s barred list (maintained under section 2 of the Act).
+
+Article 12 makes equivalent provision in relation to section 113BB of the Police Act.
+
+Article 14 modifies the effect of section 113E of the Police Act to allow for applications for criminal records certificates which request an urgent preliminary response to show not only whether a person is included in the list kept under section 81 of the Care Standards Act 2000, but also whether they are included in the adults barred list maintained either under the Act or under Article 6 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 ([S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351). The modifications also provide that such preliminary responses may only be requested in conjunction with an application for an enhanced criminal records certificate.
+
+Article 15 makes consequential modifications to section 116 of the Police Act.
+
+Article 16 modifies the effect of the Teachers’ Pensions Regulations 1997 ([S.I. 1997/3001](https://www.legislation.gov.uk/uksi/1997/3001)) in relation to people included, or considered for inclusion, in a barred list who apply for ill-health pensions.
+
+Article 17 has the effect that the functions of an investigating committee of the General Teaching Council for England are excluded where IBB has included or is considering including a teacher in either of the barred lists (these investigatory functions will continue to be excluded where the powers under section 142 of the Education Act 2002 are exercised).
+
+Article 18 allows the Secretary of State to refer a person to IBB where the Secretary of State has invited the person to make representations as to why they should not be made subject to a direction under section 142 of the Education Act 2002 and has not yet made such a direction.
+
+Article 21 makes provision for IBB to provide information to other persons during the first and second transitional periods. This will enable IBB to provide the Criminal Records Bureau and its equivalents in Scotland and Northern Ireland with information about people who are included in the children’s or adults’ barred lists or the lists kept under section 1 of the Protection of Children Act 1999 or section 81 of the Care Standards Act 2000, or who are subject to directions under section 142 of the Education Act 2002. IBB will be able to provide similar information to the Secretary of State, for example, for the purposes of his functions under the Teachers’ Pensions Regulations 1997. It will also be able to confirm to the General Teaching Councils for England and Wales and employers or prospective employers of teachers and other school staff whether a person is subject to any of the disqualifications set out in paragraph (6), and under article 22 the Secretary of State will continue to be able to confirm to those employers whether teachers and school staff are barred from working with children or vulnerable adults.
+
+Article 23 modifies the effect of Schedule 3 to the Act in relation to any conduct occurring between the coming into force of this Order and the repeal of the provisions of the Criminal Justice and Court Services Act 2000 which provide for the making of disqualification orders (sections 28 to 29A). The effect of this is that IBB is not to include a person in the children’s barred list under paragraph 3 of Schedule 3 if the only conduct it has to consider is conduct which has occurred during that period, the conduct has already been considered by a court, and the court has decided not to impose a disqualification order on the person in question.
+
+Parts 7 and 8 of the Order amend the definition of regulated activity in Schedule 4 to the Act.
+
+Article 25 amends paragraph 3 of Schedule 4, the effect of which is to bring within the definition of “relevant childcare premises” any premises in Wales on which childminding takes place.
+
+Article 25 also provides an exception to the definition of relevant childcare premises. Where a person provides care for a child on premises that are the home of the parent of the child (or the home of one of the children being cared for), such premises are excluded from the definition of relevant childcare premises. This would, for example, apply where a nanny takes care of children in the home of the parents of the children. The intention is to ensure that activities of workers (such as cleaners who are not involved in caring for the children) on premises which are the home of the parents are not caught within the definition of regulated activity.
+
+Articles 26 and 27 bring within the definition of regulated activity, persons who occupy certain positions where, although they may not always work with or have contact with vulnerable groups, they exercise some degree of control or participate in making decisions relating to vulnerable groups. These persons are referred to as “office-holders”. For example, the chief executive of a local authority exercising any social services’ functions is added to the list of office-holders and, as a consequence, will be engaging in regulated activity relating to children and regulated activity relating to vulnerable adults. Other office-holders added to the list of office-holders engaging in regulated activity relating to children are clerks to governing bodies, individuals (known as “associate members”) appointed by the governing body of a maintained school to a committee of the governing body, the lead director for children and young people’s services (Wales only) and the Children’s Rights Director (England).
+
+A further category of office-holder that is added to the definition of regulated activity (relating to children and to vulnerable adults) is an individual who carries on or manages an establishment or agency in respect of which that individual is required to be registered under Part 2 of the Care Standards Act 2000.
+
+Part 9 of the Order contains miscellaneous provisions. Article 28 includes further functions of the Welsh Ministers for the purposes of the definition of “controlled activity” relating to children (section 21 of the Act). In brief, a controlled activity is an activity that is not a regulated activity but involves a person having access to certain types of records relating to children or the opportunity to have contact with children.
+
+Article 29 is intended to remedy an oversight in Part 1 of Schedule 4 to the Act and brings within the definition of regulated activity the exercise of any function of a body approved by the Secretary of State under section 162A of the Education Act 2002 relating to the inspection of an independent school in England.
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+| Provision | Date of Commencement | S.I. No. |
+| --- | --- | --- |
+| section 1 in relation to England and Wales | 2nd January 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 1 in relation to Northern Ireland | 31st March 2008 | [2008/930 (C.45)](https://www.legislation.gov.uk/uksi/2008/930) |
+| section 2(2) to (5) partially | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 2 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 2(2), (3) and (4) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 2 partially | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 3(1), (2)(a) and (b)and (3)(b) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 4(8) | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 4 in so far as not already in force | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 5(1) and (2) partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 5 partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 5 in so far as not already in force | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 6 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 6(12) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 6 partially | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 11(2) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 12 partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 13(1) and (5) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 14(1), (2) and (3) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 21 partially | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 22(1) to (4), (5)(a) and (b) and (6) partially | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 23(3) | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 24(1)(c) and (d), (8)(a) and (c), (10), (11) and (12)(d) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 25 | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 26(1) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 28 | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 29 | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 30(7) and (8) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 31(6) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 32(10) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 33(3) and (4)(b) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 35(1) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 36(1), (2) and (3) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 37 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 37(2) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 37 in so far as not already in force | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 38 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 38 partially | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 39(1) and (5) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 40 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 40(2) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 40 in so far as not already in force | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 41(1), (5) and (8) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 41(7) partially | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 42 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 42(2) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 42 in so far as not already in force | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 43(3) to (5) partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 43(7) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 44(6) and (7) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 45(1), (5) and (9) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 46 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 46(1)(a) and (2) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 46 in so far as not already in force | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 47(6) and (7) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 47 partially | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 48(6), (7) and (8) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 49(6), (7) and (8) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 50 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 51 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 53 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 53 in so far as not already in force | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 54(1) and (2) partially |  | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 56 | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 57 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 57 in so far as not already in force | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 58 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 58(6) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 59 partially, in relation to England and Wales | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 59 partially, in relation to Northern Ireland | 31st March 2008 | [2008/930 (C.45)](https://www.legislation.gov.uk/uksi/2008/930) |
+| section 60(1) partially, in relation to England and Wales | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 60(1) and (4) partially, in relation to England and Wales | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 60 partially, in relation to Northern Ireland | 31st March 2008 | [2008/930 (C.45)](https://www.legislation.gov.uk/uksi/2008/930) |
+| section 61, in relation to England and Wales | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 61 partially, in relation to Northern Ireland | 31st March 2008 | [2008/930 (C.45)](https://www.legislation.gov.uk/uksi/2008/930) |
+| section 62 partially | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 62 in so far as not already in force | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 63(1) partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| section 63(1) partially | 17th December 2008 | [2008/3204 (C.145)](https://www.legislation.gov.uk/uksi/2008/3204) |
+| section 63(1) partially | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| section 64 | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 66 | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| section 67 | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| Schedule 1 in relation to England and Wales | 2nd January 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| Schedule 1 in relation to Northern Ireland | 31st March 2008 | [2008/930 (C.45)](https://www.legislation.gov.uk/uksi/2008/930) |
+| Schedule 2 | 2nd January 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| Schedule 3 |  |  |
+| Paragraphs 1(1), 2(1), 7(1) and 8(1) partially | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| Paragraphs 15, 18(3)(b) and (6) and 24(1), (2) and (9) | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| Paragraphs 1 to 14, 16, 17, 18(1), (2), (3)(a), (4) and (5), 19 to 23, 24(3) to (8) and 25 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| Paragraphs 6(1)(b), (2) and (3), 12(1)(b), (2) and (3), 16(5), 19(1)(b) and 21 partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| Paragraphs 1 to 3, 4(1) to (4) and (6), 5, 7 to 9, 10(1) to (4) and (6), 11, 14 to 20, 22, 23, 24(3) to (7) and 25 in so far as not already in force | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| Schedule 4 |  |  |
+| Schedule 4 partially | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| Schedule 4 partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| Paragraphs 2(1)(f), 6, 7(1)(f) and 9 partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| Schedule 5 |  |  |
+| Paragraphs 1(1), 2(1)(a), 3(1)(c) and (2), 4(1)(c) and (2), 5, 6(1)(c) and (2), 7(1)(c) and (2), 8, 9(1)(c) and (2), 10(1)(c) and (2) and 14 partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| Schedule 6 |  |  |
+| Paragraphs 2(1) and 5 partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| Schedule 7 |  |  |
+| Paragraphs 1 and 2 partially | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| Schedule 8 |  |  |
+| Paragraphs 2 to 4, partially | 31st December 2007 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| Paragraphs 1 to 5 | 11th February 2008 | [2007/3545 (C.153)](https://www.legislation.gov.uk/uksi/2007/3545) |
+| Schedule 9 |  |  |
+| Paragraphs 2, 5(1) and 6(1) partially | 17th December 2008 | [2008/3204 (C.145)](https://www.legislation.gov.uk/uksi/2008/3204) |
+| Paragraphs 5(2), (3) (6) and (7), 6(2), (3) and (6) and 7 in relation to England | 17th December 2008 | [2008/3204 (C.145)](https://www.legislation.gov.uk/uksi/2008/3204) |
+| Paragraphs 5(4) and 6(4) | 17th December 2008 | [2008/3204 (C.145)](https://www.legislation.gov.uk/uksi/2008/3204) |
+| Paragraphs 10 and 15 | 19th May 2008 | [2008/1320 (C.57)](https://www.legislation.gov.uk/uksi/2008/1320) |
+| Paragraphs 5(2), (3), (6) and (7), 6(2), (3) and (6) and 7 in relation to England in so far as not already in force | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| Paragraphs 2, 5(1) and 6(1) partially | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+| Paragraphs 5(4) and 6(4) | 20th January 2009 | [2009/39 (C.3)](https://www.legislation.gov.uk/uksi/2009/39) |
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^key-d187c62f678a7f788c64bbe3c0f7058f]: Commencement: Art. 1 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+
+[^key-fb073daa17dcc563b9661221e8144125]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/2) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/2157/article/5/2) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
+
+[^key-4f81a6aa0483635556043b9c73dfc9a6]: Commencement: Art. 2 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+
+[^f00005]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
+
+[^key-efbf74b1eae3068bd0273491db42722d]: Commencement: Art. 3 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+
+[^f00006]: Footnote: [S.I. 2009/12](https://www.legislation.gov.uk/uksi/2009/12).
+
+[^key-808b7ce0658335e73ec13d9d306f4ddf]: Textual amendment: [Arts. 4-22](https://www.legislation.gov.uk/uksi/2009/2610/article/4) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/2157/article/5/3) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
+
+[^key-69e496f49aeb40044da18e4272ec58a4]: Commencement: Art. 23 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+
+[^f00026]: Footnote: Section 29A was inserted by paragraphs 1 and 2 of Schedule 30 to the Criminal Justice Act 2003. Sections 28 to 29A were amended by paragraph 35, Part 4, of Schedule 11 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^f00027]: Footnote: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43).
+
+[^key-1697ed8f98bf9c7ec103104ce583cd64]: Commencement: Art. 24 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+
+[^f00028]: Footnote: [S.I. 2009/37](https://www.legislation.gov.uk/uksi/2009/37).
+
+[^f00029]: Footnote: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60). Section 9, in relation to intent to commit rape, was repealed by paragraph 17 of Schedule 6 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42).
+
+[^f00030]: Footnote: [1969 c. 16 (N.I.)](https://www.legislation.gov.uk/apni/1969/16). Section 9, in relation to intent to commit rape, was amended by the Criminal Justice (Northern Ireland) Order 2003 ([S.I. 2003/1247) (N.I. 13)](https://www.legislation.gov.uk/nisi/2003/1247).
+
+[^key-4d456476abda587091530a49c8a1f1b8]: Textual amendment: [Art. 24(3)(b)](https://www.legislation.gov.uk/uksi/2009/2610/article/24/3/b) revoked (31.3.2010) by [The Safeguarding Vulnerable Groups Act 2006 (Controlled Activity and Miscellaneous Provisions) Regulations 2010 (S.I. 2010/1146)](https://www.legislation.gov.uk/uksi/2010/1146), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1146/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2010/1146/regulation/9/6)
+
+[^key-b13c0c09a6ea20412f394d4a0f8e8168]: Commencement: Art. 25 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+
+[^key-b3b33e00b4b934e708270a89a0beb43e]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/uksi/2009/2610/article/26) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-885d637da1f1e906cbd3254d9ef66bca]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2009/2610/part/8) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-843e0ede4c57a7c53fd6f85dbcefb45d]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/uksi/2009/2610/article/28) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-f71dab3b3a018ec021bd2e576bceaf25]: Commencement: Art. 30 in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2610/article/1/1)
+
+[^key-4482f758bdec4ffb3ece06427c32f8d5]: Textual amendment: [Art. 30(a)](https://www.legislation.gov.uk/uksi/2009/2610/article/30/a) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)

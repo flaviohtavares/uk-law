@@ -1,0 +1,1404 @@
+---
+title: The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993
+id: uksi/1993/593
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1993-03-10'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1993/593
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/593/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1993 No. 593
+
+MAINTENANCE OF DEPENDANTS
+
+The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993
+
+Made
+
+10th March 1993
+
+Laid before Parliament
+
+12th March 1993
+
+Coming into force
+
+5th April 1993
+
+At the Court at Buckingham Palace, the 10th day of March 1993
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas Her Majesty is satisfied that arrangements have been made in the countries and territories specified in Schedule 1 to this Order to ensure that maintenance orders made by courts in the United Kingdom against persons in those countries and territories can be enforced there:
+
+And whereas Her Majesty is satisfied that in the interest of reciprocity it is desirable to ensure that maintenance orders made by courts in the countries and territories specified in Schedule 1 to this Order against persons in the United Kingdom can be enforced in the United Kingdom:
+
+Now, therefore, Her Majesty, in exercise of the powers conferred by sections 40 and 45(1) of the Maintenance Orders (Reciprocal Enforcement) Act 1972[^f00001]is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+**1.**[^key-4070add15d7d793098ce054e4e359272] This Order may be cited as the Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993 and shall come into force on 5th April 1993.
+
+**2.**[^key-09ad7631c967dba043a22547b817d886] In this Order, unless the context otherwise requires–
+
+- “Act” means the Maintenance Orders (Reciprocal Enforcement) Act 1972[^f00002];
+- “court in a Hague Convention country” includes any judicial or administrative authority in a Hague Convention country;
+- “Hague Convention” means the Convention on the Recognition and Enforcement of Decisions Relating to Maintenance Obligations concluded at The Hague on 2nd October 1973; and
+- “Hague Convention country” means a country or territory specified in Schedule 1 to this Order, being a country or territory (other than the United Kingdom) in which the Hague Convention is in force.
+
+**3.**[^key-ebb3148a0d0e7a294d2519be69deb219] (1) The provisions of Part I of the Act shall apply in relation to a Hague Convention country as they apply in relation to a reciprocating country, subject to the exceptions, adaptations and modifications set out in Schedule 2 to this Order.
+
+(2) Accordingly, Part I of the Act shall, in relation to–
+
+- (a) maintenance orders made by courts in the United Kingdom against persons in a Hague Convention country, and
+- (b) maintenance orders made by courts in a Hague Convention country against persons in the United Kingdom,
+
+have effect as set out in Schedule 3 to this Order.
+
+**4.**[^key-894a1c9bac642ba5939ec8f2d9c0c66a] The Orders specified in Schedule 4 to this Order are hereby revoked.
+
+N. H. Nicholls
+
+Clerk of the Privy Council
+
+## SCHEDULE 1 — HAGUE CONVENTION COUNTRIES[^key-5c472dc4ec837b5ec046fb55c5a967e4]
+
+Article 2
+
+[^key-5c472dc4ec837b5ec046fb55c5a967e4]
+
+- Australia[^key-ca69481196ae58853cd28e291f03fb6f]
+- Denmark[^key-50939f8cb7708e98fe0186ad739d9e50]
+- [^key-825175131896e96f487a613c6caf4f0d]...
+- [^key-eaedbf6f51b04a7a4c9af1fbebe0bb39]...
+- [^key-bf5623caaa2614853a3b2fb71a094361]...
+- [^key-df7796865d28385706f36039e2cc5897]...
+- [^key-297f0dca29c30b6eeee4ac8945481c3f]...
+- [^key-726996fad38b64fe6e4543617bec8c16]...
+- [^key-5666a7e6120e48ad082449f86eca6ac6]...
+- [^key-a43484b0073f880cf065f04fbe2d475b]...
+- [^key-fba57dafee15eebb4164baa5591188ed]...
+- [^key-d92842f92b39e3e2d6524a605f3b3c4b]...
+- [^key-8298cd2c87af72f44595d8ccd8cffb55]...
+- [^key-c840ca05f054aba35ab843a1f8c22288]...
+- [^key-63123651752f46bca857e3731ac1a3ee]...
+- [^key-7a074c8bdda5de1e29b8dd77a2272c8a]...
+- Switzerland
+- [^key-98f1f823e76f640adab7fe6e16458754]...
+- Turkey
+
+(For[^key-a713a5fef01dd55d97a31b4761360b72] special provision about Federal Republic of Germany, Finland, France, Italy, Luxembourg, Netherlands, Norway, Portugal, Republic of Estonia, Republic of Poland, Slovakia, Spain, Sweden and the Czech Republic[^key-cc3204737350758949dc552630c50909], see paragraph 8 of Schedule 4 to the International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012.)
+
+## SCHEDULE 2 — MODIFICATIONS TO PART I OF THE ACT
+
+Article 3(1)
+
+**1.**[^key-bcfd3e85f90ba0ed398f50c7d95655da] Section 1 shall not apply.
+
+**2.**[^key-d64eae1c324fabc6e694f75e1c20daa7] (1) Section 2 shall be amended as follows.
+
+(2) In subsection (1)–
+
+- (a) for the words “before or after the commencement of this Part of this Act” there shall be substituted the words “before, on or after 5th April 1993”;
+- (b) the words “or has assets” shall be omitted;
+- (c) for the word “reciprocating” there shall be substituted the words “Hague Convention”; and
+- (d) before the word “enforcement” there shall be inserted the words “recognition and”.
+
+(3) In subsection (2), for the words “provisional order” there shall be substituted the words “maintenance order made under section 3 of this Act”.
+
+(4) In subsection (4)–
+
+- (a) the words “or has assets” shall be omitted;
+- (b) for the word “reciprocating” where it first occurs there shall be substituted the words “Hague Convention”;
+- (c) for paragraph (b), there shall be substituted–
+
+  > - (b) a certificate signed by that officer certifying that the order is enforceable and that it is no longer subject to the ordinary forms of review;
+
+  ;
+- (d) the words “and the nature and location of his assets in that country”, in both places where they occur, shall be omitted;
+- (e) in paragraph (e), the word “and” shall be omitted;
+- (f) after paragraph (f), there shall be inserted:
+
+  > - (g) a written statement signed by that officer as to whether or not the payer appeared in the proceedings in which the maintenance order was made and, if he did not appear, the original or a certified copy of a document which establishes that notice of the institution of the proceedings, including notice of the substance of the claim, was served on the payer;
+  > - (h) a document which establishes that notice of the order was sent to the payer; and
+  > - (i) a written statement signed by that officer as to whether or not the payee received legal aid either in the said proceedings or in connection with the said application,
+
+  ;
+- (g) after the words “that officer” where they last occur there shall be inserted the words “, in the case of a court in England and Wales or Northern Ireland, to the Lord Chancellor, or in the case of a court in Scotland,”;
+- (h) after the words “transmitted by” there shall be inserted the words “the Lord Chancellor, or, as the case may be,”; and
+- (i) for the words “responsible authority in the reciprocating country” there shall be substituted the words “appropriate authority in the Hague Convention country”.
+
+(5) In subsection (5), after the words “applies, and” there shall be inserted the words “subject to section 5”.
+
+**3.**[^key-717d49d0f0a4fc60798295f5f807a4a4] (1) Section 3 shall be amended as follows.
+
+(2) For subsection (1) there shall be substituted–
+
+> (1)[^key-25a8a49ebb10b4ea37d1798710713b5e] This section applies to an application made to the family court[^key-aa8303c45658c51075be4eca09ce1b8f] in England and Wales if—
+>
+> - (a) the application is an application for a maintenance order against a person residing in a Hague Convention country, and
+> - (b) the court has jurisdiction to entertain the application by virtue of the Domestic Proceedings and Magistrates' Courts Act 1978 or the Children Act 1989 if at any time when the proceedings were instituted that person was residing in England and Wales, and received reasonable notice of the date of the hearing of the application.[^key-cf9976376f7a33f8589b178962395b8e]
+
+.
+
+(3) Subsection (2) shall be omitted.
+
+(4) For subsection (5) there shall be substituted–
+
+> (5) On the making of an application to which subsection (1) above applies, the following documents, that is to say–
+>
+> - (a) notice of the institution of the proceedings, including notice of the substance of the application;
+> - (b) a statement signed by the prescribed officer of the court giving such information as he possesses as to the whereabouts of the respondent;
+> - (c) a statement giving such information as the officer possesses for facilitating the identification of the respondent; and
+> - (d) where available, a photograph of the respondent,
+>
+> shall be sent by that officer to the Lord Chancellor with a view to their being transmitted by the Lord Chancellor to the appropriate authority in the Hague Convention country in which the respondent is residing for service on him of the document mentioned in paragraph (a) above if the Lord Chancellor is satisfied that the statement relating to the whereabouts of the respondent gives sufficient information to justify that being done.
+
+.
+
+(5) For subsection (6) there shall be substituted–
+
+> (6) In considering whether or not to make a maintenance order pursuant to an application to which subsection (1) above applies the court shall take into account any representations made and any evidence adduced by or on behalf of the respondent.
+>
+> (6A) Where the respondent makes any representations or adduces any evidence, a copy of the representations or evidence shall be served on the applicant by the prescribed officer of the court before the hearing.
+>
+> (6B) The prescribed officer of the court shall give the respondent notice in writing of the date fixed for the hearing by sending the notice by post addressed to his last known or usual place of abode.
+>
+> (6C) A maintenance order pursuant to an application to which subsection (1) above applies shall not be made unless the document mentioned in paragraph (a) of subsection (5) above has been served on the respondent in accordance with the law for the service of such documents in the Hague Convention country in which he is residing or in such other manner as may be authorised by the Lord Chancellor not less than six weeks previously.
+>
+> (6D) Where a maintenance order has been made pursuant to an application to which subsection (1) applies[^key-a11daead3d844cab78532ff49ff6b45e], the prescribed officer of the court shall send the following documents, that is to say–
+>
+> - (a) a certified copy of the order;
+> - (b) a certificate signed by that officer certifying that the order is enforceable and that it is no longer subject to the ordinary forms of review;
+> - (c) a written statement, signed by that officer as to whether or not the respondent appeared in the proceedings in which the order was made, and, if he did not appear, the original or a certified copy of a document which establishes that the document mentioned in paragraph (a) of subsection (5) above has been served on the payer in accordance with subsection (6C) above;
+> - (d) a document which establishes that notice of the order was sent to the respondent; and
+> - (e) a written statement signed by that officer as to whether or not the applicant received legal aid in the proceedings,
+>
+> to the Lord Chancellor with a view to their being transmitted by him to the appropriate authority in the Hague Convention country in which the respondent resides for recognition and enforcement of the order.
+>
+> (6E) A maintenance order made pursuant to an application to which subsection (1) applies may, subject to section 5 of this Act, be enforced, varied or revoked in like manner as any other maintenance order made by the family court[^key-666153449d767fd490b84c63c36de107].
+
+.
+
+(6)[^key-0fafd258de2d3a032846ef31402125a7] In subsection (7)—
+
+- (a) after the words “a magistrates' court” insert the words “ by a person who is habitually resident in Northern Ireland ”;
+- (b) for the word “reciprocating” substitute the words “ Hague Convention ”.
+
+**4.** (1)[^key-3665c1d69df38c33a4e44e3a8153370d] Section 4 is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) The sheriff has jurisdiction in any action to which this section applies if at the time when the proceedings were instituted—
+>
+> - (a) the pursuer is habitually resident in Scotland and resides within the jurisdiction of the sheriff;
+> - (b) the sheriff is satisfied that, to the best of the information or belief of the pursuer, the defender is residing in a Hague Convention country; and
+> - (c) the sheriff would not, apart from this subsection, have jurisdiction in that action.
+>
+> (2) This section applies to any action for the payment, variation or revocation of aliment which is competent in the sheriff court, and includes an action of affiliation and aliment, but does not apply to an action of separation and aliment or adherence and aliment, or any action containing a crave for the custody of a child.
+
+(3) In subsection (3), for the words “referred to in” substitute “ in which the sheriff has jurisdiction by virtue of ”.
+
+(4) For subsection (4) substitute—
+
+> (4) In any action in which the sheriff has jurisdiction by virtue of subsection (1) above, no decree shall be granted in favour of the pursuer unless a copy of the initial writ or summons has been served on the defender in the prescribed manner and in sufficient time to enable him to arrange for his defence.
+
+(5) Omit subsections (5) and (6).
+
+**5.**[^key-04e5aeffd3341b07b3a5edfd84ddf019] For section 5 there shall be substituted–
+
+> **5.** (1) This section applies to a maintenance order a certified copy of which has been sent to a Hague Convention country for recognition and enforcement of the order [^key-a11e394c5b54a02a548fa9a426783d65]... .
+>
+> (2)[^key-31aaeab3c69e9ca3cc9200f17dabaa95] The jurisdiction of a court to revoke or vary a maintenance order shall be exercisable notwithstanding that the proceedings for the revocation or variation, as the case may be, of the order are brought by or against a person residing in a Hague Convention country.
+>
+> (3)[^key-d167711fb90cf8466f421254d8364330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (4) Where an application is made by the payee to a court in England and Wales or Northern Ireland for the variation or revocation of an order to which this section applies, and the payer is residing in a Hague Convention country, the prescribed officer of the court shall send to the Lord Chancellor notice of the institution of the proceedings, including notice of the substance of the application, with a view to its being transmitted by him to the appropriate authority in the Hague Convention country for service on the payer.
+>
+> (5) Where an application is made by the payee to a court in England and Wales or Northern Ireland for the variation or revocation of an order to which this section applies, and the payer is residing in a Hague Convention country–
+>
+> - (a) the court, in considering whether or not to vary or revoke the order, shall take into account any representations made and any evidence adduced by or on behalf of the payer;
+> - (b) a copy of any such representations or evidence shall be served on the payee in the prescribed manner before the hearing;
+> - (c) the prescribed officer of the court shall give the payer notice in writing of the date fixed for the hearing by sending the notice by post addressed to his last known or usual place of abode.
+>
+> (6) Where an application is made by the payee to a court in England and Wales or Northern Ireland for the variation or revocation of an order to which this section applies, and the payer is residing in a Hague Convention country, the order shall not be varied or revoked unless the document mentioned in subsection (4) above has been served on the payer in accordance with the law for the service of such a document in the Hague Convention country not less than six weeks previously.
+>
+> (7) Where an application is made by the payer to a court in England and Wales or Northern Ireland for the variation or revocation of an order to which this section applies, the prescribed officer of the court shall arrange for the service of the document mentioned in subsection (4) above on the payee.
+>
+> (8) Where an order to which this section applies has been varied or revoked by a court in the United Kingdom the prescribed officer of the court shall send the following documents, that is to say–
+>
+> - (a) a certified copy of the order of variation or revocation;
+> - (b) a certificate signed by that officer certifying that the order of variation or revocation is enforceable and that it is no longer subject to the ordinary forms of review;
+> - (c) a written statement, signed by that officer as to whether or not the respondent or, in Scotland the defender, appeared in the proceedings for the variation or revocation of the order, and, if he did not appear, the original or a certified copy of a document which establishes that notice of the institution of the proceedings has been served on the respondent, or, as the case may be, the defender; and
+> - (d) a document which establishes that notice of the order of variation or revocation was sent to the respondent; and
+> - (e) a written statement signed by that officer as to whether or not the payer or the payee received legal aid in the proceedings,
+>
+> in the case of a court in England and Wales or Northern Ireland, to the Lord Chancellor, or, in the case of a court in Scotland, to the Secretary of State, with a view to their being transmitted by him to the appropriate authority in the Hague Convention country for recognition and enforcement of the order of variation or revocation.
+>
+> (9) Where a maintenance order to which this section applies has been varied by an order made by a court in the United Kingdom [^key-f57247e194ae707439835b237a8ab494]... the maintenance order shall, as from the date on which the order of variation took effect, have effect as varied by that order.
+>
+> (10) Where a maintenance order to which this section applies has been revoked by an order made by a court in the United Kingdom [^key-f57247e194ae707439835b237a8ab494]... the maintenance order shall, as from the date on which the order of revocation took effect, be deemed to have ceased to have effect except as respects any arrears due under the maintenance order at that date.
+>
+> (11)[^key-68276dd66b731774a149f8dd77fd10a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (12) In the application of this section to Northern Ireland, in subsection (8), for the word “respondent”, in each place where it occurs, there shall be substituted “defendant”.
+
+.
+
+**6.**[^key-ca319a3d4b531b2698bc63d0bba1d78a] For section 6 there shall be substituted–
+
+> **6.** (1) This section applies to a maintenance order made whether before, on or after 5th April 1993 by a competent court in a Hague Convention country.
+>
+> (2) Where a certified copy of an order to which this section applies is received by the Lord Chancellor or the Secretary of State from a Hague Convention country, and it appears to him that the payer under the order is residing in the United Kingdom, he shall send the copy of the order and the accompanying documents to the prescribed officer of the appropriate court.
+>
+> (3) Where the prescribed officer of the appropriate court receives from the Lord Chancellor or the Secretary of State a certified copy of an order to which this section applies, he shall, subject to the following subsections, register the order in the prescribed manner in that court.
+>
+> (4) Before registering an order under this section an officer of a court shall take such steps as he thinks fit for the purpose of ascertaining whether the payer under the order is residing within the jurisdiction of the court, and if after taking those steps he is satisfied that the payer is not so residing he shall return the certified copy of the order and the accompanying documents to the Lord Chancellor or the Secretary of State, as the case may be, with a statement giving such information as he possesses as to the whereabouts of the payer.
+>
+> (5)
+>
+> - (a) The prescribed officer of the appropriate court may refuse to authorise the registration of the order if the court in the Hague Convention country by or before which the order was made did not have jurisdiction to make the order; and for these purposes a court in a Hague Convention country shall be considered to have jurisdiction if–
+>   - (i) either the payer or the payee had his habitual residence in the Hague Convention country at the time when the proceedings were instituted; or
+>   - (ii) the payer and the payee were nationals of that country at that time; or
+>   - (iii) the respondent in those proceedings had submitted to the jurisdiction of the court, either expressly or by defending on the merits of the case without objecting to the jurisdiction; or
+>   - (iv) in the case of an order made by reason of a divorce or a legal separation or a declaration that a marriage is void or annulled, the court is recognised by the law of the part of the United Kingdom in which enforcement is sought as having jurisdiction to make the order.
+> - (b) In deciding whether a court in a Hague Convention country had jurisdiction to make an order the prescribed officer shall be bound by any finding of fact on which the court based its jurisdiction.
+>
+> (6) The prescribed officer of the appropriate court may refuse to authorise the registration of the order–
+>
+> - (a) if such registration is manifestly contrary to public policy;
+> - (b) if the order was obtained by fraud in connection with a matter of procedure;
+> - (c) if proceedings between the same parties and having the same purpose are pending before a court in the same part of the United Kingdom and those proceedings were the first to be instituted; or
+> - (d) if the order is incompatible with an order made in proceedings between the same parties and having the same purpose, either in the United Kingdom or in another country, provided that the latter order itself fulfils the conditions necessary for its registration and enforcement under this Part of this Act.
+>
+> (7) Without prejudice to subsection (6) above, if the payer did not appear in the proceedings in the Hague Convention country in which the order was made, the prescribed officer of the appropriate court shall refuse to authorise the registration of the order unless notice of the institution of the proceedings, including notice of the substance of the claim, was served on the payer in accordance with the law of that Hague Convention country and if, having regard to the circumstances, the payer had sufficient time to enable him to defend the proceedings.
+>
+> (8) If the order is registered under subsection (3) above, the prescribed officer of the appropriate court shall serve notice in a prescribed form on the payer and give notice to the payee that the order has been registered.
+>
+> (9) The payer may, before the end of the period of one calendar month beginning with the date of service of the said notice, appeal to the court in which the order is registered to set aside the registration of the order on one of the grounds set out in paragraphs (5), (6) and (7) above.
+>
+> (10) If the payer appeals to the court in which the order is registered to set aside the registration of the order, the prescribed officer of the court shall give notice to the payee of the appeal and of the date of the hearing of the appeal.
+>
+> (11) If the prescribed officer refuses to register the order, he shall give notice to the payee in a prescribed form that registration has been refused.
+>
+> (12) A payee to whom notice has been given by the prescribed officer of any court under subsection (11) above may, before the end of the period of two calendar months[^key-29b2c1482bceb5705e9605989dab5c90] beginning with the date when notice was given, appeal to that court against the refusal to register the order.
+>
+> (13) If the payee appeals to the court against the refusal to register the order, the prescribed officer of the court shall give notice to the payer of the appeal and of the date of the hearing of the appeal.
+>
+> (14) In the application of this section to Scotland–
+>
+> - (a) in subsection (8), for the words “serve notice in a prescribed form on” there shall be substituted the words “intimate to in the prescribed manner”;
+> - (b) in subsection (9), for the words “service of the said notice” there shall be substituted the words “the said intimation”;
+> - (c) in subsections (9), (10), (12) and (13), for any reference to an appeal there shall be substituted a reference to an application and cognate expressions shall be construed accordingly; and
+> - (d) in subsection (11), for the words “in a prescribed form” there shall be substituted the words “in the prescribed manner”.
+>
+> (15) In the application of this section to Northern Ireland, in subsection (5), for the word “respondent” there shall be substituted “defendant”.
+
+.
+
+**7.**[^key-8c4970bf0f3c959e8b8cfd67f3687b4d] Section 7 shall not apply.
+
+**8.**[^key-d3cde8b6ba23b277891d3ca2f46a5d77] (1) Section 8 shall be amended as follows.
+
+(2) In subsection (1), for the words “subsection (2)” there shall be substituted the words “subsections (2), (2A) and (2B)”.
+
+(3) After subsection (2), there shall be inserted–
+
+> (2A) Where in a maintenance order made in a Hague Convention country there are provisions which are not enforceable under this Part of this Act, this section shall apply only to the remaining provisions of the order.
+>
+> (2B) The payee under a registered order may request the partial enforcement of that order.
+
+.
+
+(4)[^key-0ab2b330e96b5b1d5d66aa14ede891c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In subsection (5), the words “or facilitating the enforcement of” shall be omitted.
+
+(6) For subsections (7), (8) and (9) there shall be substituted–
+
+> (7) Subject to subsection (8) below, a sum of money payable under a registered order shall be payable in accordance with the order, or such part thereof as the payee may have requested should be enforced, as from the date on which the order took effect.
+>
+> (8) Where a registered order was made by a court in a Hague Convention country before the date of the entry into force of the Hague Convention between the United Kingdom and that country, no sum of money falling due before that date shall be payable in accordance with the order.
+>
+> (9) In the application of this section to Scotland–
+>
+> - (a) subsections (2) to (5) shall be omitted; and
+> - (b) in subsection (6), for the word “evidence” there shall be substituted the words “sufficient evidence”.
+
+.
+
+**9.**[^key-1efbae42c18fa898366bc52c6a5f7d79] (1) Section 9 shall be amended as follows.
+
+(2) For subsection (1) there shall be substituted–
+
+> (1) Subject to the provisions of this section–
+>
+> - (a) the registering court shall have the like power, on an application made by the payer or payee under a registered order, to vary the method of payment of[^key-58ab92d6a078205fdfa9db4f43f2ea2f] the order as if it had been made by the registering court and as if that court had had jurisdiction to make it;
+> - (b)[^key-1282c8b0735f7d6f279b8c7526158c6d] The jurisdiction of a court to vary the method of payment of a registered order shall be exercisable notwithstanding that the proceedings for the variation of the order are brought by or against a person residing in a Hague Convention country.
+
+.
+
+(2A)[^key-7c08c0507963c3b99ac433fc0e80b4f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2B)[^key-a18a32e59b229a3ab6ec0762f90655eb] Subsection (1ZB) shall be amended as follows–
+
+- (a) at the end of paragraph (za), there shall be inserted the words–
+
+  > and for the words “revoke, revive or vary the order”, there were substituted “vary the order in accordance with paragraph (3)”
+
+  ;
+- (b) after paragraph (za), there shall be inserted the following paragraph–
+
+  > - (zab) as if paragraph (2) were omitted;
+
+  ;
+- (c) in paragraph (a), for the words from “as if in paragraph (3)” to “there were inserted–”, there shall be substituted “as if in paragraph (3)–
+  - (i) for the words “shall include”, there were substituted “means the”;
+  - (ii) for the words “sub-paragraphs (a) to (d) of Article 85(3)” there were substituted “paragraph (3A)”; and
+  - (iii) after that paragraph there were inserted–”.
+
+(3) Subsections (1A) and (1B) shall be omitted.
+
+(4) For subsections (2) to (11) there shall be substituted–
+
+> (2)[^key-7221e7ddf520190f309ba5835af2042e] The registering court may not vary a registered order unless—
+>
+> - (a) the payer under the order had his habitual residence in the United Kingdom at the time when the proceedings to vary the order were instituted; or
+> - (b) the respondent in those proceedings had submitted to the jurisdiction of the registering court, either expressly or by defending on the merits of the case without objecting to the jurisdiction.
+>
+> (3)[^key-7e6c2862e0b0b124a983b98708a5dea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (4)[^key-7e6c2862e0b0b124a983b98708a5dea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (5)[^key-7e6c2862e0b0b124a983b98708a5dea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (6)[^key-7e6c2862e0b0b124a983b98708a5dea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (7)[^key-7e6c2862e0b0b124a983b98708a5dea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (8) Where a registered order has been varied by the registering court or by a court in a Hague Convention country, the prescribed officer of the registering court shall register the variation order in the prescribed manner.
+>
+> (8A)[^key-24a188113891090b3dbb7545a82c7dc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> (9) Where a registered order has been varied by the registering court or by a court in a Hague Convention country, the registered order shall, as from the date on which the variation order took effect, have effect as so varied.
+>
+> (10) In the application of this section to Northern Ireland, in subsections (2) and (7), for the word “respondent” in each place where it occurs, there shall be substituted “defendant”.
+>
+> (11)[^key-e231da5bb46d90af01a796849e531a86] This section shall not apply to a court in Scotland.
+
+.
+
+**10.**[^key-3345c4af99db37229b05686b6f9cfab2] (1) Section 10 shall be amended as follows.
+
+(2) For subsection (1) there shall be substituted–
+
+> (1) Where a registered order is revoked by an order made by a court in a Hague Convention country and notice of the revocation is received by the registering court, the prescribed officer of the registering court shall cancel the registration; but any arrears due under the registered order at the date on which the order of revocation took effect, other than, in the case of a registered order made by a court in a Hague Convention country before the date of the entry into force of the Hague Convention between the United Kingdom and that country, arrears due before that date, shall continue to be recoverable as if the registration had not been cancelled.
+
+.
+
+(3) In subsection (2)–
+
+- (a) in relation to England and Wales and Northern Ireland, for the words “is not residing within the jurisdiction of that court and has no assets within that jurisdiction against which the order can be effectively enforced” there shall be substituted the words “has ceased to reside within the jurisdiction of that court”; and
+- (b) in relation to Scotland, for those words there shall be substituted the words “is not residing in Scotland”.
+
+(4) In subsection (3), the words “or has assets” shall be omitted.
+
+(5) In subsection (5)–
+
+- (a) for the words “Secretary of State” there shall be substituted the words “Lord Chancellor”; and
+- (b) for the words “residing or has assets” there shall be substituted the words “still residing”.
+
+(6) In subsection (6)–
+
+- (a) the words “or has assets” shall be omitted;
+- (b) for the words “residing and has no assets within the jurisdiction of the court” there shall be substituted the words “so residing”; and
+- (c) for the words “Secretary of State” there shall be substituted the words “Lord Chancellor”.
+
+(7) In subsection (7)–
+
+- (a) for the words “Secretary of State” there shall be substituted the words “Lord Chancellor”; and
+- (b) the words “and the nature and location of his assets” shall be omitted.
+
+(8) In subsection (8), in paragraph (a), the word “and” shall be omitted and after paragraph (b) there shall be inserted–
+
+> ; and
+>
+> - (c) for the words “Lord Chancellor”, in each place where they occur, there shall be substituted the words “Secretary of State”.
+
+**11.**[^key-ad80f399988dae296850ecee047e1346] (1) Section 11 shall be amended as follows.
+
+(2) In subsection (1)–
+
+- (a) the words “at any time” shall be omitted;
+- (b) after the words “appears to” there shall be inserted the words “the Lord Chancellor or”;
+- (c) the words “and has no assets” shall be omitted;
+- (d) for the word “responsible” where it first occurs there shall be substituted the word “appropriate”;
+- (e) the words “or, if having regard to all the circumstances he thinks it proper to do so, to the responsible authority in another reciprocating country” and the words “and a certified copy of any order varying that order” shall be omitted;
+- (f) after the words “information as” there shall be inserted the words “the Lord Chancellor or”; and
+- (g) the words “and the nature and location of his assets” shall be omitted.
+
+(3) Subsection (2) shall be omitted.
+
+**12.**[^key-a9cbcbd7be6cf27890757e3e7a0a5044] For section 12 there shall be substituted–
+
+> **12.** Where in pursuance of section 9 above a registering court makes or refuses to make an order varying a registered order, the payer or the payee under the registered order shall have the like right of appeal (if any) from the order of variation or from the refusal to make it as he would have if the registered order had been made by the registering court.
+
+.
+
+**13.**[^key-c11a5887c5b274537346cbef4ba89bcd] (1) Section 13 shall be amended as follows.
+
+(2) In subsection (1)–
+
+- (a) in paragraph (a), for the word “reciprocating” there shall be substituted the words “Hague Convention”;
+- (b) after paragraph (c) there shall be added–
+
+  > or
+  >
+  > - (d) a document purporting to be signed by a judicial officer, official or other competent person in a Hague Convention country which establishes that certain documents were served on a person,
+
+  .
+
+(3) In subsection (2), for the words “judge, magistrate” there shall be substituted the words “judicial officer”.
+
+(4) In subsection (3), the word “magistrate” shall be omitted.
+
+**14.**[^key-646b78593eadaad50a8fc6cae8a87e9d] (1) Section 14 shall be amended as follows.
+
+(2) In subsection (1)–
+
+- (a) for the word “reciprocating” there shall be substituted the words “Hague Convention”;
+- (b) for the words from “in the prescribed manner” to the end there shall be substituted the following words–
+
+  > by the prescribed officer of the court–
+  >
+  > - (a) in England and Wales or Northern Ireland, to the Lord Chancellor, or
+  > - (b) in Scotland, to the Secretary of State,
+  >
+  > for transmission to the appropriate authority in the Hague Convention country
+
+  .
+
+(3) In subsection (2), for paragraphs (a) and (b) there shall be substituted the words “out of moneys provided by Parliament”.
+
+(4) In subsections (3) and (4) respectively, for the word “reciprocating” there shall be substituted the words “Hague Convention”.
+
+(5) For subsection (5) there shall be substituted–
+
+> (5) A court in–
+>
+> - (a) England and Wales or Northern Ireland may for the purpose of any proceedings in that court under this Part of this Act relating to a maintenance order to which this Part of this Act applies send to the Lord Chancellor, or
+> - (b) Scotland may for the purpose of such proceedings in that court relating to such an action, send to the Secretary of State,
+>
+> for transmission to the appropriate authority in a Hague Convention country a request for a court in a Hague Convention country to take or provide evidence relating to such matters as may be specified in the request.
+
+.
+
+**15.**[^key-277728b3c9f6ddc5c57b118bea32d096] (1) Section 15 shall be amended as follows.
+
+(2) In paragraphs (a) and (c) respectively, for the word “reciprocating” there shall be substituted the words “Hague Convention”.
+
+(3) The word “magistrate” in each place where it occurs shall be omitted.
+
+**16.**[^key-d47e5613b7ca5c5c104eacdaab10a7b6] (1) Section 16 shall be amended as follows.
+
+(2) In subsections (3) and (5)(a), for the word “reciprocating” there shall be substituted the words “Hague Convention”.
+
+(3) In subsection (5)(a), the words “or (if earlier) the date on which it is confirmed by a court in the United Kingdom” shall be omitted.
+
+(4) In subsection (5)(b), for the words “a court in the United Kingdom or (if earlier) the date on which the last order varying that order is confirmed by such a court” there shall be substituted the words “the registering court”.
+
+**17.** (1)[^key-ea9bd0a16eae1de03d6ea814d2ebbfc4] Section 17 is amended as follows.
+
+(2) In subsection (5A) for the word “reciprocating” substitute the words “ Hague Convention ”.
+
+(3) For subsections (6) and (7) substitute—
+
+> (6) A magistrates' court in Northern Ireland shall have jurisdiction to hear a complaint for the variation or revocation—
+>
+> - (a) of a maintenance order made by such a court, and to which section 5 of this Act applies, or
+> - (b) to hear a complaint for the variation of a registered order which is registered in that court,
+>
+> if the defendant to the complaint is residing in a Hague Convention country and if the court would have had jurisdiction to hear the complaint had the defendant been residing in Northern Ireland and been served with a summons to appear before the court to answer the complaint.
+>
+> (7) Where the respondent to an application—
+>
+> - (a) for the variation or revocation of a maintenance order made by a court, and to which section 5 of this Act applies; or
+> - (b) for the variation of a registered order registered in a court, does not appear at the time and place appointed for the hearing on the application, but the court is satisfied that the respondent is residing in a Hague Convention country and the requirements of section 5(4), (6) or (7) or section 9(3), as the case may be, have been complied with, the court may proceed to hear and determine the application at the time and place appointed for the hearing or for any adjourned hearing as if the respondent had appeared at that time and place.
+
+**18.**[^key-e357c3abf53e8dc1a8fc727b44f154e0] (1) Section 18 shall be amended as follows.
+
+(1A)[^key-ce0606f66d260c1104b58ff84111f455] In subsection (A1), omit “, (e)”.
+
+(2) In subsection (1)(b), (c), (d) and (f) respectively, for the word “reciprocating” there shall be substituted the words “Hague Convention”.
+
+(3) Subsection (1)(e) shall be omitted.
+
+**19.**[^key-0027cfe2e800669e3d948cd6c56873f5] (1) Section 19 shall be amended as follows.
+
+(2) In paragraphs (a), (b), (c) and (e) respectively, for the word “reciprocating” there shall be substituted the words “Hague Convention”.
+
+(3) Paragraph (d) shall be omitted.
+
+**20.**[^key-7d876e1a098b119ea12ace1f66ebb918] Section 20 shall not apply.
+
+**21.**[^key-ff585647fe13d70a241ce6b266c1742a] (1) Section 21(1) shall be amended as follows.
+
+(2) In subsection (1)–
+
+- (a) after the word “Act” where it first occurs there shall be inserted the words “unless the context otherwise requires”;
+- (b) in the definition of “the appropriate court” the words “or having assets”, in each place[^key-b0c25cc4aefe7f357e25da1401d83e58] where they occur, and the words “or has assets” shall be omitted and for the words “a sheriff court” there shall be substituted the words “the sheriff court”;
+- (c) in the definition of “certificate of arrears” for the words “or, as the case may be” to the end there shall be substituted the words “except any arrears that accrued before the date of the entry into force of the Hague Convention between the United Kingdom and the Hague Convention country in which the payer is residing or, as the case may be, that to the best of his information or belief there are no arrears due thereunder at the date of the certificate;”;
+- (d) in the definition of “court” at the end there shall be inserted the words “and "competent court in a Hague Convention country' means a court having jurisdiction on one of the grounds specified in section 6(5)(a) above;”;
+- (e) for the definition of “maintenance order” there shall be substituted the following definition–
+
+  > - “maintenance order” means an order (however described), including any settle ment made by or before a competent court in a Hague Convention country, of any of the following descriptions, and, in the case of an order which is not limited to the following descriptions, the part of the order which is so limited, that is to say–
+  >   - (a) an order (including an affiliation order or order consequent upon an affiliation order) which provides for the periodical payment of sums of money towards the maintenance of any person, being a person whom the person liable to make payments under the order is, according to the law applied in the place where the order was made, liable to maintain;
+  >   - (aa) an order which has been made in Scotland, on or after the granting of a decree of divorce, for the payment of a periodical allowance by one party to the marriage to the other party;
+  >   - (b) an affiliation order or order consequent upon an affiliation order, being an order which provides for the payment by a person adjudged, found or declared to be a child’s father of expenses incidental to the child’s birth or, where the child has died, of his funeral expenses; and
+  >   - (d) an order within the foregoing provisions of this definition made against a payer on the application of a public body which claims reimbursement of sums of money payable under the order with respect to the payee if the reimbursement can be obtained by the public body under the law to which it is subject,
+  >
+  >   and in the case of a maintenance order which has been varied (including a maintenance order which has been varied either by a court in the United Kingdom or by a competent court in a Hague Convention country whether or not the original order was made by such a court), means that order as varied:
+  >
+  >   - Provided that the expression “maintenance order” shall not include an order made in a Hague Convention country of a description which that country or the United Kingdom has reserved the right under Article 26 of the Hague Convention not to recognise or enforce;
+
+  ;
+- (ea)[^key-312c02c2bcdd941e520e293817c9455a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) in the definition of “order” before the words “as respects Scotland” there shall be inserted the words “means an order however described giving effect to a decision rendered by a court and”;
+- (g) in the definition of “payee” at the end there shall be inserted the words “and includes a public body which has provided benefits for the payee and which is entitled ipso jure under the law to which it is subject to claim enforcement of the said order to the extent of the benefits so provided in place of the said person;”;
+- (h) the definitions of “provisional order” and “reciprocating country” shall be omitted;
+- (i) in the definition of “registered order” there shall be inserted at the end the words “and "registered' and "registration' shall be construed accordingly;”; and
+- (j) the definition of “the responsible authority” shall be omitted.
+
+(3) Subsection (2) shall be omitted.
+
+**22.**[^key-dab7c7bde9f4570bc77e5d416580ff25] Sections 22, 23 and 24 shall not apply.
+
+## SCHEDULE 3 — PART I OF THE ACT AS MODIFIED BY SCHEDULE 2
+
+Article 3(2)
+
+### Orders made by courts in the United Kingdom
+
+#### 2. Transmission of maintenance order made in United Kingdom for recognition and enforcement in Hague Convention country.[^key-6d37227db85e0d9c4a74da9916659378]
+
+(1) Subject to subsection (2) below, where the payer under a maintenance order made, whether before, on or after 5th April 1993, by a court in the United Kingdom is residing in a Hague Convention country, the payee under the order may apply for the order to be sent to that country for recognition and enforcement.
+
+(2) Subsection (1) above shall not have effect in relation to a maintenance order made under section 3 of this Act or to an order by virtue of a provision of Part II of this Act.
+
+(3) Every application under this section shall be made in the prescribed manner to the prescribed officer of the court which made the maintenance order to which the application relates.
+
+(4) If, on an application duly made under this section to the prescribed officer of a court in the United Kingdom, that officer is satisfied that the payer under the maintenance order to which the application relates is residing in a Hague Convention country, the following documents, that is to say–
+
+- (a) a certified copy of the maintenance order;
+- (b) a certificate signed by that officer certifying that the order is enforceable and that it is no longer subject to the ordinary forms of review;
+- (c) a certificate of arrears so signed;
+- (d) a statement giving such information as the officer possesses as to the whereabouts of the payer;
+- (e) a statement giving such information as the officer possesses for facilitating the identification of the payer;
+- (f) where available, a photograph of the payer;
+- (g) a written statement signed by that officer as to whether or not the payer appeared in the proceedings in which the maintenance order was made and, if he did not appear, the original or a certified copy of a document which establishes that notice of the institution of the proceedings, including notice of the substance of the claim, was served on the payer;
+- (h) a document which establishes that notice of the order was sent to the payer; and
+- (i) a written statement signed by that officer as to whether or not the payee received legal aid either in the said proceedings or in connection with the said application,
+
+shall be sent by that officer, in the case of a court in England and Wales or Northern Ireland, to the Lord Chancellor, or, in the case of a court in Scotland, to the Secretary of State, with a view to their being transmitted by the Lord Chancellor, or, as the case may be, the Secretary of State, to the appropriate authority in the Hague Convention country if he is satisfied that the statement relating to the whereabouts of the payer gives sufficient information to justify that being done.
+
+(5) Nothing in this section shall be taken as affecting any jurisdiction of a court in the United Kingdom with respect to a maintenance order to which this section applies, and subject to section 5 any such order may be enforced, varied or revoked accordingly.
+
+#### 3. Power of ... court to make maintenance order against person residing in Hague Convention country.[^key-6fd3e200194dd9f10446daf5394725f3][^key-9cf55ea2ac659b9aea7c4f6af5233ea5]
+
+(1)[^key-ed2f0769ba9db6c070b1314779c33ed5] This section applies to an application made to the family court[^key-695460c97d57ddbe914496249758762c] in England and Wales if—
+
+- (a) the application is an application for a maintenance order against a person residing in a Hague Convention country, and
+- (b) the court has jurisdiction to entertain the application by virtue of the Domestic Proceedings and Magistrates' Courts Act 1978 or the Children Act 1989 if at any time when the proceedings were instituted that person was residing in England and Wales, and received reasonable notice of the date of the hearing of the application.[^key-a1e443d2e9ce7b8bdd63eaba03a272bb]
+
+(4) No enactment (or provision made under an enactment) requiring or enabling–
+
+- (za)[^key-ce3ef7d553a6eb4c8b5a9212dcf4ecdf] a court to transfer proceedings from the family court to the High Court;
+- (a) a court to transfer proceedings from a magistrates' court in Northern Ireland[^key-abf80bc990feb3f1fc8b1583a165a3fe] to a county court or the High Court of Justice in Northern Ireland[^key-492dea8c46b25bd62927c8f0b1820703], or
+- (b) a magistrates' court in Northern Ireland to refuse to make an order on an application on the ground that any matter in question is one that would be more conveniently dealt with by the High Court of Justice in Northern Ireland,
+
+shall apply in relation to an application to which subsection (1) above applies.
+
+(5) On the making of an application to which subsection (1) above applies, the following documents, that is to say–
+
+- (a) notice of the institution of the proceedings, including notice of the substance of the application;
+- (b) a statement signed by the prescribed officer of the court giving such information as he possesses as to the whereabouts of the respondent;
+- (c) a statement giving such information as the officer possesses for facilitating the identification of the respondent; and
+- (d) where available, a photograph of the respondent,
+
+shall be sent by that officer to the Lord Chancellor with a view to their being transmitted by the Lord Chancellor to the appropriate authority in the Hague Convention country in which the respondent is residing for service on him of the document mentioned in paragraph (a) above if the Lord Chancellor is satisfied that the statement relating to the whereabouts of the respondent gives sufficient information to justify that being done.
+
+(6) In considering whether or not to make a maintenance order pursuant to an application to which subsection (1) above applies the court shall take into account any representations made and any evidence adduced by or on behalf of the respondent.
+
+(6A) Where the respondent makes any representations or adduces any evidence, a copy of the representations or evidence shall be served on the applicant by the prescribed officer of the court before the hearing.
+
+(6B) The prescribed officer of the court shall give the respondent notice in writing of the date fixed for the hearing by sending the notice by post addressed to his last known or usual place of abode.
+
+(6C) A maintenance order pursuant to an application to which subsection (1) above applies shall not be made unless the document mentioned in paragraph (a) of subsection (5) above has been served on the respondent in accordance with the law for the service of such documents in the Hague Convention country in which he is residing or in such other manner as may be authorised by the Lord Chancellor not less than six weeks previously.
+
+(6D) Where a maintenance order has been made pursuant to an application to which subsection (1) applies[^key-298761c922a3edbf382e1031bec9f469], the prescribed officer of the court shall send the following documents, that is to say–
+
+- (a) a certified copy of the order;
+- (b) a certificate signed by that officer certifying that the order is enforceable and that it is no longer subject to the ordinary forms of review;
+- (c) a written statement, signed by that officer as to whether or not the respondent appeared in the proceedings in which the order was made, and, if he did not appear, the original or a certified copy of a document which establishes that the document mentioned in paragraph (a) of subsection (5) above has been served on the payer in accordance with subsection (6C) above;
+- (d) a document which establishes that notice of the order was sent to the respondent; and
+- (e) a written statement signed by that officer as to whether or not the applicant received legal aid in the proceedings,
+
+to the Lord Chancellor with a view to their being transmitted by him to the appropriate authority in the Hague Convention country in which the respondent resides for recognition and enforcement of the order.
+
+(6E) A maintenance order made pursuant to an application to which subsection (1) applies may, subject to section 5 of this Act, be enforced, varied or revoked in like manner as any other maintenance order made by the family court[^key-fe60bf76d66876fe537c0a224d669540].
+
+(7)[^key-b5feda212828039d84fe4ad875619e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Power of sheriff to make maintenance order against person residing in Hague Convention country.[^key-3aa7206e9681f7ea01f0ae1da32ab012]
+
+(1) The sheriff shall have jurisdiction in any action to which this section applies if at the time when the proceedings were instituted—
+
+- (a) the pursuer is habitually resident in Scotland and resides within the jurisdiction of the sheriff;
+- (b) the sheriff is satisfied that, to the best of the information or belief of the pursuer, the defender is residing in a Hague Convention country; and
+- (c) the sheriff would not, apart from this subsection, have jurisdiction in that action.
+
+(2) This section applies to any action for the payment, variation or revocation of aliment which is competent in the sheriff court, and includes an action of affiliation and aliment, but does not include an action of separation and aliment or adherence and aliment, or any action containing a crave for the custody of a child.
+
+(3) Where in any action in which the payment of aliment in respect of a child is claimed, being an action in which the sheriff has jurisdiction by virtue of subsection (1) above, the sheriff is satisfied—
+
+- (a) that there are grounds on which a maintenance order containing a provision requiring the payment of aliment in respect of that child may be made in that action, but
+- (b) that he has no power to make that order unless he also makes an order providing for the custody of the child,
+
+then, for the purpose of enabling the sheriff to make the maintenance order, the pursuer shall be deemed to be a person to whom the custody of the child has been committed by a decree of the sheriff which is for the time being in force.
+
+(4) In any action in which the sheriff has jurisdiction by virtue of subsection (1) above, no decree shall be granted in favour of the pursuer unless a copy of the initial writ or summons has been served on the defender in the prescribed manner and in sufficient time to enable him to arrange for his defence.
+
+#### 5. Variation and revocation of maintenance order made in United Kingdom.[^key-224ea0c4aa09535e989298c37563244e]
+
+(1) This section applies to a maintenance order a certified copy of which has been sent to a Hague Convention country for recognition and enforcement of the order [^key-27a37bc63f9503d14b49e99bd71b5875]....
+
+(2)[^key-1b534c2b6f7e99012e5a848c98bb3a8a] The jurisdiction of a court to revoke or vary a maintenance order shall be exercisable notwithstanding that the proceedings for the revocation or variation, as the case may be, of the order are brought by or against a person residing in a Hague Convention country.
+
+(3)[^key-0c61633a3c9170200b0a6615e3d57344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where an application is made by the payee to a court in England and Wales or Northern Ireland for the variation or revocation of an order to which this section applies, and the payer is residing in a Hague Convention country, the prescribed officer of the court shall send to the Lord Chancellor notice of the institution of the proceedings, including notice of the substance of the application, with a view to its being transmitted by him to the appropriate authority in the Hague Convention country for service on the payer.
+
+(5) Where an application is made by the payee to a court in England and Wales or Northern Ireland for the variation or revocation of an order to which this section applies, and the payer is residing in a Hague Convention country–
+
+- (a) the court, in considering whether or not to vary or revoke the order, shall take into account any representations made and any evidence adduced by or on behalf of the payer;
+- (b) a copy of any such representations or evidence shall be served on the payee in the prescribed manner before the hearing;
+- (c) the prescribed officer of the court shall give the payer notice in writing of the date fixed for the hearing by sending the notice by post addressed to his last known or usual place of abode.
+
+(6) Where an application is made by the payee to a court in England and Wales or Northern Ireland for the variation or revocation of an order to which this section applies, and the payer is residing in a Hague Convention country, the order shall not be varied or revoked unless the document mentioned in subsection (4) above has been served on the payer in accordance with the law for the service of such a document in the Hague Convention country not less than six weeks previously.
+
+(7) Where an application is made by the payer to a court in England and Wales or Northern Ireland for the variation or revocation of an order to which this section applies, the prescribed officer of the court shall arrange for the service of the document mentioned in subsection (4) above on the payee.
+
+(8) Where an order to which this section applies has been varied or revoked by a court in the United Kingdom the prescribed officer of the court shall send the following documents, that is to say–
+
+- (a) a certified copy of the order of variation or revocation;
+- (b) a certificate signed by that officer certifying that the order of variation or revocation is enforceable and that it is no longer subject to the ordinary forms of review;
+- (c) a written statement, signed by that officer as to whether or not the respondent or, in Scotland the defender, appeared in the proceedings for the variation or revocation of the order, and, if he did not appear, the original or a certified copy of a document which establishes that notice of the institution of the proceedings has been served on the respondent, or, as the case may be, the defender; and
+- (d) a document which establishes that notice of the order of variation or revocation was sent to the respondent; and
+- (e) a written statement signed by that officer as to whether or not the payer or the payee received legal aid in the proceedings,
+
+in the case of a court in England and Wales or Northern Ireland, to the Lord Chancellor, or, in the case of a court in Scotland, to the Secretary of State, with a view to their being transmitted by him to the appropriate authority in the Hague Convention country for recognition and enforcement of the order of variation or revocation.
+
+(9) Where a maintenance order to which this section applies has been varied by an order made by a court in the United Kingdom [^key-cd224a7e6074db6f14c032c009ec0566]... the maintenance order shall, as from the date on which the order of variation took effect, have effect as varied by that order.
+
+(10) Where a maintenance order to which this section applies has been revoked by an order made by a court in the United Kingdom [^key-cd224a7e6074db6f14c032c009ec0566]... the maintenance order shall, as from the date on which the order of revocation took effect, be deemed to have ceased to have effect except as respects any arrears due under the maintenance order at that date.
+
+(11)[^key-d1997479a2153919ae3a9cbba735754e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) In the application of this section to Northern Ireland, in subsection (8), for the word “respondent” in each place where it occurs, there shall be substituted “defendant”.
+
+### Orders made by courts in Hague Convention countries
+
+#### 6. Registration in United Kingdom court of maintenance order made in Hague Convention country.[^key-d5961fe8a5333d4790762f878629369b]
+
+(1) This section applies to a maintenance order made whether before, on or after 5th April 1993 by a competent court in a Hague Convention country.
+
+(2) Where a certified copy of an order to which this section applies is received by the Lord Chancellor or the Secretary of State from a Hague Convention country, and it appears to him that the payer under the order is residing in the United Kingdom, he shall send the copy of the order and the accompanying documents to the prescribed officer of the appropriate court.
+
+(3) Where the prescribed officer of the appropriate court receives from the Lord Chancellor or the Secretary of State a certified copy of an order to which this section applies, he shall, subject to the following subsections, register the order in the prescribed manner in that court.
+
+(4) Before registering an order under this section an officer of a court shall take such steps as he thinks fit for the purpose of ascertaining whether the payer under the order is residing within the jurisdiction of the court, and if after taking those steps he is satisfied that the payer is not so residing he shall return the certified copy of the order and the accompanying documents to the Lord Chancellor or the Secretary of State, as the case may be, with a statement giving such information as he possesses as to the whereabouts of the payer.
+
+(5)
+
+- (a) The prescribed officer of the appropriate court may refuse to authorise the registration of the order if the court in the Hague Convention country by or before which the order was made did not have jurisdiction to make the order; and for these purposes a court in a Hague Convention country shall be considered to have jurisdiction if–
+  - (i) either the payer or the payee had his habitual residence in the Hague Convention country at the time when the proceedings were insti tuted; or
+  - (ii) the payer and the payee were nationals of that country at that time; or
+  - (iii) the respondent in those proceedings had submitted to the jurisdic tion of the court, either expressly or by defending on the merits of the case without objecting to the jurisdiction; or
+  - (iv) in the case of an order made by reason of a divorce or a legal separation or a declaration that a marriage is void or annulled, the court is recognised by the law of the part of the United Kingdom in which enforcement is sought as having jurisdiction to make the order.
+- (b) In deciding whether a court in a Hague Convention country had jurisdiction to make an order the prescribed officer shall be bound by any finding of fact on which the court based its jurisdiction.
+
+(6) The prescribed officer of the appropriate court may refuse to authorise the registration of the order–
+
+- (a) if such registration is manifestly contrary to public policy;
+- (b) if the order was obtained by fraud in connection with a matter of procedure;
+- (c) if proceedings between the same parties and having the same purpose are pending before a court in the same part of the United Kingdom and those proceedings were the first to be instituted; or
+- (d) if the order is incompatible with an order made in proceedings between the same parties and having the same purpose, either in the United Kingdom or in another country, provided that the latter order itself fulfils the conditions necessary for its registration and enforcement under this Part of this Act.
+
+(7) Without prejudice to subsection (6) above, if the payer did not appear in the proceedings in the Hague Convention country in which the order was made, the prescribed officer of the appropriate court shall refuse to authorise the registration of the order unless notice of the institution of the proceedings, including notice of the substance of the claim, was served on the payer in accordance with the law of that Hague Convention country and if, having regard to the circumstances, the payer had sufficient time to enable him to defend the proceedings.
+
+(8) If the order is registered under subsection (3) above, the prescribed officer of the appropriate court shall serve notice in a prescribed form on the payer and give notice to the payee that the order has been registered.
+
+(9) The payer may, before the end of the period of one calendar month beginning with the date of service of the said notice, appeal to the court in which the order is registered to set aside the registration of the order on one of the grounds set out in paragraphs (5), (6) and (7) above.
+
+(10) If the payer appeals to the court in which the order is registered to set aside the registration of the order, the prescribed officer of the court shall give notice to the payee of the appeal and of the date of the hearing of the appeal.
+
+(11) If the prescribed officer refuses to register the order, he shall give notice to the payee in a prescribed form that registration has been refused.
+
+(12) A payee to whom notice has been given by the prescribed officer of any court under subsection (11) above may, before the end of the period of two calendar months[^key-e3fbc4934e3405a1da30602f85ad781c] beginning with the date when notice was given, appeal to that court against the refusal to register the order.
+
+(13) If the payee appeals to the court against the refusal to register the order, the prescribed officer of the court shall give notice to the payer of the appeal and of the date of the hearing of the appeal.
+
+(14) In the application of this section to Scotland–
+
+- (a) in subsection (8), for the words “serve notice in a prescribed form on” there shall be substituted the words “intimate to in the prescribed manner”;
+- (b) in subsection (9), for the words “service of the said notice” there shall be substituted the words “the said intimation”;
+- (c) in subsections (9), (10), (12) and (13) for any reference to an appeal there shall be substituted a reference to an application and cognate expressions shall be construed accordingly; and
+- (d) in subsection (11), for the words “in a prescribed form” there shall be substituted the words “in the prescribed manner”.
+
+(15) In the application of this section to Northern Ireland, in subsection (5), for the word “respondent” there shall be substituted “defendant”.
+
+#### 8. Enforcement of maintenance order registered in United Kingdom court.[^key-ffc9d47c764d49a5667eefff2bfc513e]
+
+(1) Subject to subsections (2), (2A) and (2B) below, a registered order may be enforced in the United Kingdom as if it had been made by the registering court and as if that court had had jurisdiction to make it; and proceedings for or with respect to the enforcement of any such order may be taken accordingly.
+
+(2) Subsection (1) above does not apply to an order which is for the time being registered [^key-252096df3ea437672765f8420e8701be]... in the High Court of Justice in Northern Ireland under Part II of the Maintenance and Affiliation Orders Act (Northern Ireland) 1966[^f00010].
+
+(2A) Where in a maintenance order made in a Hague Convention country there are provisions which are not enforceable under this Part of this Act, this section shall apply only to the remaining provisions of the order.
+
+(2B) The payee under a registered order may request the partial enforcement of that order.
+
+(3) Any person for the time being under an obligation to make payments in pursuance of an order registered in a court in Northern Ireland[^key-27f082487cad296058f6a7707eb4125d] shall give notice of any change of address to the clerk of that[^key-d0aaefbe384cf3425633f85a49ff20c6] court, and any person failing without reasonable excuse to give such a notice shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(3A)[^key-5a9ded4542f486cf8e03a12d2d0524d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-1bd617d105f20dff5fb887f1804abbfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4A)[^key-1bd617d105f20dff5fb887f1804abbfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4B)[^key-1bd617d105f20dff5fb887f1804abbfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A magistrates’ court in Northern Ireland[^key-6b8b891d34e8882589c1f3862a36e51a] by which an order is enforceable by virtue of this section, and the officers thereof, shall take all such steps for enforcing the order as may be prescribed.
+
+(6) In any proceedings for or with respect to the enforcement of an order which is for the time being registered in any court under this Part of this Act a certificate of arrears sent to the prescribed officer of the court shall be evidence of the facts stated therein.
+
+(7) Subject to subsection (8) below, a sum of money payable under a registered order shall be payable in accordance with the order, or such part thereof as the payee may have requested should be enforced, as from the date on which the order took effect.
+
+(8) Where a registered order was made by a court in a Hague Convention country before the date of the entry into force of the Hague Convention between the United Kingdom and that country, no sum of money falling due before that date shall be payable in accordance with the order.
+
+(9) In the application of this section to Scotland–
+
+- (a) subsections (2) to (5) shall be omitted; and
+- (b) in subsection (6), for the word “evidence” there shall be substituted the words “sufficient evidence”.
+
+#### 9. Variation of maintenance order registered in United Kingdom court.[^key-95fe5f6c6d449440eb7832006fb81314]
+
+(1) Subject to the provisions of this section–
+
+- (a) the registering court shall have the like power, on an application made by the payer or payee under a registered order, to vary the method of payment of[^key-6c00bba287ac97af236a3e79092be6bf] the order as if it had been made by the registering court and as if that court had had jurisdiction to make it;
+- (b)[^key-9753d6aebd024679db0228b3a2e03b6f] the jurisdiction of a court to vary the method of payment of a registered order be exercisable notwithstanding that the proceedings for the variation of the order are brought by or against a person residing in a Hague Convention country.
+
+(1ZA)[^key-13570258c7242f7dc6a64430e909cf63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1ZB)[^key-146e51b83d452b57c663e649066198ef] Where the registering court is a court of summary jurisdiction in Northern Ireland, Article 86 of the Magistrates' Court (Northern Ireland) Order 1981 (revocation, variation etc., of orders for periodical payment) shall have effect in relation to the registered order–
+
+- (za) as if in paragraph (1) for the words “by order on complaint” there were substituted “on an application being made, by order” and for the words “revoke, revive or vary the order”, there were substituted “vary the order in accordance with paragraph (3)”;
+- (zab) as if paragraph (2) were omitted;
+- (a) as if in paragraph (3)–
+  - (i) for the words “shall include”, there were substituted “means the”,
+  - (ii) for the words “sub-paragraphs (a) to (d) of Article 85(3)” there were substituted “paragraph (3A)”, and
+  - (iii) after that paragraph there were inserted–
+
+    > (3A) The powers of the court are–
+    >
+    > - (a) the power to order that payments under the order be made directly to the collecting officer;
+    > - (b) the power to order that payments under the order be made to the collecting officer by such method of payment falling within Article 85(7) (standing order, etc.) as may be specified;
+    > - (c) the power to make an attachment of earnings order under Part IX to secure payments under the order;
+- (b) as if in paragraph (4) for sub-paragraph (b) there were substituted–
+
+  > - (b) payments under the order are required to be made to the collecting officer by any method of payment falling within Article 85(7) (standing order, etc.)
+
+  ; and as if after the words “petty sessions” there were inserted “for the petty sessions district for which the court which made the order acts”;
+- (c) as if in paragraph (5) for the words “to the collecting officer” there were substituted “in accordance with sub-paragraph (a) of paragraph (3A)”;
+- (d) as if in paragraph (7), sub-paragraph (c) and the word “and” immediately preceding it were omitted;
+- (e) as if in paragraph (8) for the words “sub-paragraphs (a) to (d) of Article 85(3)” there were substituted “paragraph (3A)”;
+- (f) as if for paragraphs (9) and (10) there were substituted the following paragraphs–
+
+  > (9) In deciding, for the purposes of paragraphs (3) and (8), which of the powers under paragraph (3A) it is to exercise, the court shall have regard to any representations made by the debtor.
+  >
+  > (10) Paragraph (5) of Article 85 (power of court to require debtor to open account) shall apply for the purposes of paragraph (3A) as it applies for the purpose of that Article but as if for sub-paragraph (a) there were substituted–
+  >
+  > > - (a) the court proposes to exercise its power under sub-paragraph (b) of Article 86(3A), and
+  >
+  > .
+
+  .
+
+(2)[^key-6bc333cce2e1c7c4aa5210f1978bdd8c] The registering court may not vary a registered order unless—
+
+- (a) the payer under the order is habitually resident in the United Kingdom at the time when the proceedings to vary the order were instituted; or
+- (b) the respondent in those proceedings had submitted to the jurisdiction of the registered court, either expressly or by defending on the merits of the case without objecting to the jurisdiction.
+
+(3)[^key-462858c7954378c6cdf5234b6e5c4904] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-462858c7954378c6cdf5234b6e5c4904] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-462858c7954378c6cdf5234b6e5c4904] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-462858c7954378c6cdf5234b6e5c4904] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-462858c7954378c6cdf5234b6e5c4904] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Where a registered order has been varied by the registering court or by a court in a Hague Convention country, the prescribed officer of the registering court shall register the variation order in the prescribed manner.
+
+(8A)[^key-b350581f7aa0359bf3453892277c1ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) Where a registered order has been varied by the registering court or by a court in a Hague Convention country, the registered order shall, as from the date on which the variation order took effect, have effect as so varied.
+
+(10) In the application of this section to Northern Ireland, in subsections (2) and (7), for the word “respondent” in each place where it occurs, there shall be substituted “defendant”.
+
+(11)[^key-5a717386f471a5e1ff054a5296d9fdae] This section shall not apply to a court in Scotland.
+
+#### 10. Cancellation of registration and transfer of order.[^key-a2b6fb9a29151e88e71dea85cc8a5bca]
+
+(1) Where a registered order is revoked by an order made by a court in a Hague Convention country and notice of the revocation is received by the registering court, the prescribed officer of the registering court shall cancel the registration; but any arrears due under the registered order at the date on which the order of revocation took effect, other than, in the case of a registered order made by a court in a Hague Convention country before the date of the entry into force of the Hague Convention between the United Kingdom and that country, arrears due before that date, shall continue to be recoverable as if the registration had not been cancelled.
+
+(2) Where the prescribed officer of the registering court is of opinion that the payer under a registered order has ceased to reside within the jurisdiction of that court, he shall cancel the registration of the order and, subject to subsection (3) below, shall send the certified copy of the order to the Lord Chancellor.
+
+(3) Where the prescribed officer of the registering court, being a magistrates' court in Northern Ireland[^key-835966dcc5991b77efeba2accc88ce3b], is of opinion that the payer is residing within the jurisdiction of another magistrates' court in Northern Ireland[^key-f84553fe3bdc2ba31a26e6e275bc31da], he shall transfer the order to that other court by sending the certified copy of the order to the prescribed officer of that other court.
+
+(4) On the transfer of an order under subsection (3) above the prescribed officer of the court to which it is transferred shall, subject to subsection (6) below, register the order in the prescribed manner in that court.
+
+(5) Where the certified copy of an order is received by the Lord Chancellor under this section and it appears to him that the payer under the order is still residing in the United Kingdom, he shall transfer the order to the appropriate court by sending the certified copy of the order together with the related documents to the prescribed officer of the appropriate court and, subject to subsection (6) below, that officer shall register the order in the prescribed manner in that court.
+
+(6) Before registering an order in pursuance of subsection (4) or (5) above an officer of a court shall take such steps as he thinks fit for the purpose of ascertaining whether the payer is so residing, and if after taking those steps he is satisfied that the payer is not residing within the jurisdiction of the court he shall send the certified copy of the order to the Lord Chancellor.
+
+(7) The officer of a court who is required by any of the foregoing provisions of this section to send to the Lord Chancellor or to the prescribed officer of another court the certified copy of an order shall send with that copy–
+
+- (a) a certificate of arrears signed by him;
+- (b) a statement giving such information as he possesses as to the whereabouts of the payer; and
+- (c) any relevant documents in his possession relating to the case.
+
+(8) In the application of this section to Scotland–
+
+- (a) in subsection (2), for the words “within the jurisdiction of that court” there shall be substituted the words “in Scotland”;
+- (b) subsections (3) and (4) shall be omitted; and
+- (c) for the words “Lord Chancellor”, in each place where they occur, there shall be substituted the words “Secretary of State”.
+
+#### 11. Steps to be taken by Lord Chancellor or Secretary of State where payer under certain orders is not residing in the United Kingdom.[^key-adc4de548fb0d93d1cdcf5eafbe044e9]
+
+(1) If it appears to the Lord Chancellor or the Secretary of State that the payer under a maintenance order, a certified copy of which has been received by him from a Hague Convention country, is not residing in the United Kingdom or, in the case of an order which subsequently became a registered order, has ceased to reside therein, he shall send to the appropriate authority in that country–
+
+- (a) the certified copy of the order in question and a certified copy of any order varying that order;
+- (b) if the order has at any time been a registered order, a certificate of arrears signed by the prescribed officer;
+- (c) a statement giving such information as the Lord Chancellor or the Secretary of State possesses as to the whereabouts of the payer; and
+- (d) any other relevant documents in his possession relating to the case.
+
+### Appeals.
+
+#### 12. Appeals[^key-6a8fd1c9e75b7cd86d781dead3fd30ec]
+
+Where in pursuance of section 9 above a registering court makes or refuses to make an order varying a registered order, the payer or the payee under the registered order shall have the like right of appeal (if any) from the order of variation or from the refusal to make it as he would have if the registered order had been made by the registering court.
+
+### Evidence
+
+#### 13. Admissibility of evidence given in Hague Convention country.[^key-fb16c37596611e4356588a3956d79a6d]
+
+(1) A statement contained in–
+
+- (a) a document, duly authenticated, which purports to set out or summarise evidence given in proceedings in a court in a Hague Convention country; or
+- (b) a document, duly authenticated, which purports to set out or summarise evidence taken in that country for the purpose of proceedings in a court in the United Kingdom under this Part of this Act, whether in response to a request made by such a court or otherwise; or
+- (c) a document, duly authenticated, which purports to have been received in evidence in proceedings in a court in that country or to be a copy of a document so received; or
+- (d) a document purporting to be signed by a judicial officer, official or other competent person in a Hague Convention country which establishes that certain documents were served on a person,
+
+shall in any proceedings in a court in the United Kingdom relating to a maintenance order to which this Part of this Act applies be admissible as evidence of any fact stated therein to the same extent as oral evidence of that fact is admissible in those proceedings.
+
+(2) A document purporting to set out or summarise evidence given as mentioned in subsection (1)(a) above, or taken as mentioned in subsection (1)(b) above, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by the judicial officer or other person before whom the evidence was given, or, as the case may be, by whom it was taken, to be the original document containing or recording, or, as the case may be, summarising, that evidence or a true copy of that document.
+
+(3) A document purporting to have been received in evidence as mentioned in subsection (1)(c) above, or to be a copy of a document so received, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by a judge or officer of the court in question to have been, or to be a true copy of a document which has been, so received.
+
+(4) It shall not be necessary in any such proceedings to prove the signature or official position of the person appearing to have given such a certificate.
+
+(5) Nothing in this section shall prejudice the admission in evidence of any document which is admissible in evidence apart from this section.
+
+#### 14. Obtaining of evidence needed for purpose of certain proceedings.[^key-90fd8709fb0382616ba7d0454aeef917]
+
+(1) Where for the purpose of any proceedings in a court in a Hague Convention country relating to a maintenance order to which this Part of this Act applies a request is made by or on behalf of that court for the taking in the United Kingdom of the evidence of a person residing therein relating to matters specified in the request, such court in the United Kingdom as may be prescribed shall have power to take that evidence and, after giving notice of the time and place at which the evidence is to be taken to such persons and in such manner as it thinks fit, shall take the evidence in such manner as may be prescribed.
+
+Evidence taken in compliance with such a request shall be sent by the prescribed officer of the court–
+
+- (a) in England and Wales or Northern Ireland, to the Lord Chancellor, or
+- (b) in Scotland, to the Secretary of State,
+
+for transmission to the appropriate authority in the Hague Convention country.
+
+(2) Where any person, not being the payer or the payee under the maintenance order to which the proceedings in question relate, is required by virtue of this section to give evidence before a court in the United Kingdom, the court may order that there shall be paid out of moneys provided by Parliament such sums as appear to the court reasonably sufficient to compensate that person for the expense, trouble or loss of time properly incurred in or incidental to his attendance.
+
+(3) Articles 118(1), (3) and (4), 119 and 120 of the Magistrates’ Courts (Northern Ireland) Order 1981[^key-837dbce784e76daa2caec3524d91586d] (which provide for compelling the attendance of witnesses, etc.) shall apply in relation to a magistrates' court in Northern Ireland[^key-1cc3e9a9e4cae780d1dfc13525eef648] having power under subsection (1) above to take the evidence of any person as if the proceedings in the court in a Hague Convention country for the purpose of which a request for the taking of the evidence has been made were proceedings in the magistrates' court and had been begun by complaint.
+
+(4) Paragraphs 71 and 73 of Schedule 1 to the Sheriff Courts (Scotland) Act 1907[^f00016](which provide for the citation of witnesses, etc.) shall apply in relation to a sheriff having power under subsection (1) above to take the evidence of any person as if the proceedings in the court in a Hague Convention country for the purpose of which a request for the taking of the evidence has been made were proceedings in the sheriff court.
+
+(5) A court in–
+
+- (a) England and Wales or Northern Ireland may for the purpose of any proceedings in that court under this Part of this Act relating to a maintenance order to which this Part of this Act applies send to the Lord Chancellor, or
+- (b) Scotland may for the purpose of such proceedings in that court relating to such an action, send to the Secretary of State,
+
+for transmission to the appropriate authority in a Hague Convention country a request for a court in a Hague Convention country to take or provide evidence relating to such matters as may be specified in the request.
+
+(6)[^key-281e5f937af7925d8cefedcec189d9ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Order, etc. made in Hague Convention country need not be proved.[^key-d97fb280d69ede0ee17df645365c8cdd]
+
+For the purposes of this Part of this Act, unless the contrary is shown–
+
+- (a) any order made by a court in a Hague Convention country purporting to bear the seal of that court or to be signed by any person in his capacity as a judge or officer of the court, shall be deemed without further proof to have been duly sealed or, as the case may be, to have been signed by that person;
+- (b) the person by whom the order was signed shall be deemed without further proof to have been a judge or officer, as the case may be, of that court when he signed it and, in the case of an officer, to have been authorised to sign it; and
+- (c) a document purporting to be a certified copy of an order made by a court in a Hague Convention country shall be deemed without further proof to be such a copy.
+
+### Supplemental
+
+#### 16. Payment of sums under orders made in Hague Convention countries: conversion of currency.[^key-d8a4d77946a9dea0c82bc33e08d201cd]
+
+(1) Payment of sums due under a registered order shall, while the order is registered in a court in England, Wales or Northern Ireland, be made in such manner and to such person as may be prescribed.
+
+(2) Where the sums required to be paid under a registered order are expressed in a currency other than the currency of the United Kingdom, then, as from the relevant date, the order shall be treated as if it were an order requiring the payment of such sums in the currency of the United Kingdom as, on the basis of the rate of exchange prevailing at that date, are equivalent to the sums so required to be paid.
+
+(3) Where the sum specified in any statement, being a statement of the amount of any arrears due under a maintenance order made by a court in a Hague Convention country, is expressed in a currency other than the currency of the United Kingdom, that sum shall be deemed to be such sum in the currency of the United Kingdom as, on the basis of the rate of exchange prevailing at the relevant date, is equivalent to the sum so specified.
+
+(4) For the purposes of this section a written certificate purporting to be signed by an officer of any bank in the United Kingdom certifying that a specified rate of exchange prevailed between currencies at a specified date and that at such a rate a specified sum in the currency of the United Kingdom is equivalent to a specified sum in another specified currency shall be evidence of the rate of exchange so prevailing on that date and of the equivalent sums in terms of the respective currencies.
+
+(5) In this section “the relevant date” means–
+
+- (a) in relation to a registered order or to a statement of arrears due under a maintenance order made by a court in a Hague Convention country, the date on which the order first becomes a registered order;
+- (b) in relation to a registered order which has been varied, the date on which the last order varying that order is registered in the registering court.
+
+(6) In the application of this section to Scotland–
+
+- (a) subsection (1) shall not apply;
+- (b) in subsection (4), for the word “evidence” there shall be substituted the words “sufficient evidence”.
+
+#### 17. Proceedings in magistrates' courts.[^key-09c89bf66822efe5ff35de461b25fab2]
+
+(4) Anything authorised or required by this Part of this Act to be done by, to or before the magistrates' court in Northern Ireland[^key-243c99af2effb43bc8aff9854accd97c] by, to or before which any other thing was done may be done by, to or before any magistrates' court [^key-c35c24ce4c0e00b963aa185de09f8013]... acting for the same petty sessions[^key-920a01f7cb5ae380b3ed6128153fbb8d] district[^key-50b93ff4f6e5d341d92baa2b316e9b96] as that court.
+
+(5)[^key-7d4b5d4e2a81a9567c9794ab7dcda388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5A)[^key-207a7216aa2e0257cf732670a4e474f8] Where the respondent to an application for the variation or revocation of—
+
+- (a) a maintenance order made by the family court, being an order to which section 5 of this Act applies; or
+- (b) a registered order which is registered in the family court,
+
+is residing in a Hague Convention country, the family court shall have jurisdiction to hear the application (where it would not have such jurisdiction apart from this subsection) if it would have had jurisdiction to hear it had the respondent been habitually resident in England and Wales.
+
+(6) A magistrates' court in Northern Ireland has jurisdiction to hear a complaint for the variation or revocation—
+
+- (a) of a maintenance order made by such a court, and to which section 5 of this Act applies, or
+- (b) to hear a complaint for the variation of a registered order which is registered in that court,
+
+if the defendant to the complaint is residing in a Hague Convention country and if the court would have had jurisdiction to hear the complaint had the defendant been residing in Northern Ireland and been served with a summons to appear before the court to answer the complaint.
+
+(7) Where the respondent to an application—
+
+- (a) for the variation or revocation of a maintenance order made by a court, and to which section 5 of this Act applies; or
+- (b) for the variation of a registered order registered in a court, does not appear at the time and place appointed for the hearing on the application, but the court is satisfied that the respondent is residing in a Hague Convention country and the requirements of section 5(4), (6) or (7) or section 9(3), as the case may be, have been complied with, the court may proceed to hear and determine the application at the time and place appointed for the hearing or for any adjourned hearing as if the respondent had appeared at that time and place.
+
+(7A)[^key-7d4b5d4e2a81a9567c9794ab7dcda388] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18. Rules of court[^key-11964c54b60279348dd43836ee4ffd53][^key-e4d51ab84f7e113f99c682a12d3107d9]
+
+(A1)[^key-ef673c40c4c0324da033db949caece87] Rules of court may make provision with respect to the matters that would be mentioned in any of paragraphs (b), (c) and (f) of subsection (1) as if references in those paragraphs to a magistrates’ court, or to magistrates’ courts, were references to the family court.
+
+(1) The matters referred to in subsections (A1) and (2) are[^key-32333d4952d85cbba899d4b9848ebfb7]—
+
+- (a) the circumstances in which anything authorised or required by this Part of this Act to be done by, to or before a magistrates' court acting in a particular[^M_F_bf95feb2-d48b-4475-b239-519a6535ffec] petty sessions district[^key-1ad065844af252a42c8fcf94ff2b6ead] or by, to or before an officer of that court may be done by, to or before a magistrates' court acting in such other[^M_F_e8f537af-0e7b-4ed2-98cf-73dc3f6d83c6] petty sessions district as the rules may provide or by, to or before an officer of that court;
+- (b) the orders made, or other things done, by a magistrates' court, or an officer of such a court, under this Part of this Act, or by a court in a Hague Convention country, notice of which is to be given to such persons as the rules may provide and the manner in which such notice shall be given;
+- (c) the cases and manner in which courts in Hague Convention countries are to be informed of orders made, or other things done, by a magistrates' court under this Part of this Act;
+- (d) the cases and manner in which a justices' clerk may take evidence needed for the purpose of proceedings in court in a Hague Convention country relating to a maintenance order to which this Part of this Act applies;
+- (f) the circumstances and manner in which magistrates' courts may for the purposes of this Part of this Act communicate with courts in Hague Convention countries.
+
+(1A) For the purpose of giving effect to this Part of this Act, rules of court[^key-3d496625eb727a39d759c7a427d07aab] may make, in relation to any proceedings brought under or by virtue of this Part of this Act, any provision not covered by subsection (A1)[^key-9edfc7ea4df4c8d5ec13047d1830df63] above which–
+
+- (a) falls within subsection (2) of section 93 of the Children Act 1989[^f00020], and
+- (b) may be made in relation to relevant proceedings under that section.
+
+(2) Rules with respect to the matters mentioned in subsection (1) above may be made in accordance with Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00021]in relation to proceedings or matters in magistrates' courts in Northern Ireland under this Part of this Act.
+
+#### 19. Rules for sheriff court.[^key-88beb0433728965c7c9bab88f20c6f2c]
+
+Without prejudice to the generality of the powers conferred on the Court of Session by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00021]to regulate by act of sederunt the procedure of the sheriff court, the said powers shall include power–
+
+- (a) to prescribe the decrees granted, or other things done, by the sheriff, or an officer of the sheriff court, under this Part of this Act, or by a court in a Hague Convention country, notice of which is to be given to such persons as the act of sederunt may provide and the manner in which such notice shall be given;
+- (b) to provide that evidence needed for the purpose of proceedings in a court in a Hague Convention country relating to a maintenance order to which this Part of this Act applies may, in such cases and manner as the act of sederunt may provide, be taken by a sheriff clerk or sheriff clerk depute;
+- (c) to prescribe the cases and manner in which courts in a Hague Convention country are to be informed of decrees granted, or other things done, by the sheriff under this Part of this Act;
+- (e) to prescribe the circumstances and manner in which the sheriff may for the purposes of this Part of this Act communicate with courts in a Hague Convention country.
+
+#### 21. Interpretation of Part I.[^key-4e5a105b083c854ee98dfc9b69edcad5]
+
+(1) In this Part of this Act unless the context otherwise requires–
+
+- “affiliation order” means an order (however described) adjudging, finding or declaring a person to be the father of a child, whether or not it also provides for the maintenance of the child;
+- “the appropriate court”—[^key-a720bf39a205b6daa020ea90e6e9c824]
+  - (a) in relation to a person residing in England and Wales means the family court; and
+  - (b) in relation to a person residing in Northern Ireland means a magistrates’ court, and in relation to a person residing in Scotland means the sheriff court, within the jurisdiction of which that person is residing;
+- “certificate of arrears”, in relation to a maintenance order, means a certificate certifying that the sum specified in the certificate is to the best of the information or belief of the officer giving the certificate the amount of the arrears due under the order at the date of the certificate except any arrears that accrued before the date of the entry into force of the Hague Convention between the United Kingdom and the Hague Convention country in which the payer is residing, or, as the case may be, that to the best of his information or belief there are no arrears due thereunder at the date of the certificate;
+- “certified copy”, in relation to an order of a court, means a copy of the order certified by the proper officer of the court to be a true copy;
+- “court” includes any tribunal or person having power to make, confirm, enforce, vary or revoke a maintenance order and “competent court in a Hague Convention country” means a court having jurisdiction on one of the grounds specified in section 6(5)(a) above;
+- “maintenance order” means an order (however described), including any settlement made by or before a competent court in a Hague Convention country, of any of the following descriptions, and in the case of an order which is not limited to the following descriptions, the part of the order which is so limited, that is to say–
+  - (a) an order (including an affiliation order or order consequent upon an affiliation order) which provides for the periodical payment of sums of money towards the maintenance of any person, being a person whom the person liable to make payments under the order is, according to the law applied in the place where the order was made, liable to maintain;
+  - (aa) an order which has been made in Scotland, on or after the granting of a decree of divorce, for the payment of a periodical allowance by one party to the marriage to the other party;
+  - (b) an affiliation order or order consequent upon an affiliation order, being an order which provides for the payment by a person adjudged, found or declared to be a child’s father of expenses incidental to the child’s birth or, where the child has died, of his funeral expenses; and
+  - (c) an order within the foregoing provisions of this definition made against a payer on the application of a public body which claims reimbursement of sums of money payable under the order with respect to the payee if the reimbursement can be obtained by the public body under the law to which it is subject,
+
+  and in the case of a maintenance order which has been varied (including a maintenance order which has been varied either by a court in the United Kingdom or by a competent court in a Hague Convention country whether or not the original order was made by such a court), means that order as varied:
+
+  Provided that the expression “maintenance order” shall not include an order made in a Hague Convention country of a description which that country or the United Kingdom has reserved the right under Article 26 of the Hague Convention not to recognise or enforce;
+- [^key-d8639f3680569e0238661ee04c037020]...
+- “order” means an order however described giving effect to a decision rendered by a court and, as respects Scotland, includes any interlocutor, and any decree or provision contained in an interlocutor;
+- “payee”, in relation to a maintenance order, means the person entitled to the payments for which the order provides and includes a public body which has provided benefits for the payee and which is entitled ipso jure under the law to which it is subject to claim enforcement of the said order to the extent of the benefits so provided in place of the said person;
+- “payer”, in relation to a maintenance order, means the person liable to make payments under the order;
+- “prescribed”, in relation to a magistrates' court [^key-15da2ecbf5df99484ebf256d52f704d7]... in Northern Ireland, means prescribed [^key-6e31116577f520b1396e9b19c3845aee]... by rules made in accordance with Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981, [^key-12502a7dda7f1be9e9c7a7799c2d56b3]..., and in relation to any other court means prescribed by rules of court;
+- “registered order” means a maintenance order which is for the time being registered in a court in the United Kingdom under this Part of this Act and “registered” and “registration” shall be construed accordingly;
+- “registering court”, in relation to a registered order, means the court in which that order is for the time being registered under this Part of this Act;
+- “revoke” and “revocation” include discharge.
+
+(3) Any reference in this Part of this Act to the payment of money for the maintenance of a child shall be construed as including a reference to the payment of money for the child’s education.
+
+## SCHEDULE 4 — REVOCATIONS[^key-a37a4a0c515b5ba8f7ab75491c08e601]
+
+Article 4
+
+| *Title* | *Reference* |
+| --- | --- |
+| The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1979 | S.I. No. [1979/1317](https://www.legislation.gov.uk/uksi/1979/1317) |
+| The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1981 | S.I. No. [1981/837](https://www.legislation.gov.uk/uksi/1981/837) |
+| The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) (No. 2) Order 1981 | S.I. No. [1981/1545](https://www.legislation.gov.uk/uksi/1981/1545) |
+| The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) (No. 3) Order 1981 | S.I. No. [1981/1674](https://www.legislation.gov.uk/uksi/1981/1674) |
+| The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1983 | S.I. No. [1983/885](https://www.legislation.gov.uk/uksi/1983/885) |
+| The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) (No. 2) Order 1983 | S.I. No. [1983/1523](https://www.legislation.gov.uk/uksi/1983/1523) |
+| The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1987 | S.I. No. [1987/1282](https://www.legislation.gov.uk/uksi/1987/1282) |
+
+(This note is not part of the Order)
+
+This Order provides for the implementation in the United Kingdom of the Convention on the Recognition and Enforcement of Decisions Relating to Maintenance Obligations concluded at The Hague on 2nd October 1973. It replaces and revokes an earlier order (the Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1979 to similar effect. The differences between this Order and the 1979 Order reflect changes made in the domestic law in England and Wales, and Northern Ireland on maintenance since then, including the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41), the Maintenance Enforcement Act [1991 (c. 17)](https://www.legislation.gov.uk/ukpga/1991/17) and the Maintenance Orders (Reciprocal Enforcement) Act [1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56).
+
+This Order applies the provisions of Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972, as amended, in relation to the Hague Convention countries listed in Schedule 1 as they apply in relation to a reciprocating country, subject to the exceptions, adaptations and modifications set out in Schedule 2 to the Order. Accordingly, Part I of the 1972 Act is to have effect as set out in Schedule 3 to the Order.
+
+The dates of the coming into force of the Hague Convention between the United Kingdom and the Hague Convention countries are as follows: Federal Republic of Germany (1st April 1987); Finland (1st July 1983); France (1st October 1977); Italy (1st January 1982); Luxembourg (1st June 1981); Netherlands (Kingdom in Europe and Netherlands Antilles (1st March 1981); Norway (1st July 1978); Portugal (1st August 1976); Slovakia (until 1st January 1993 part of the Czech and Slovak Federal Republic) (1st August 1976); Sweden (1st May 1977); Switzerland (1st August 1976); The Czech Republic (until 1st January 1993 part of the Czech and Slovak Federal Republic) (1st August 1976); and Turkey (1st November 1983).
+
+The Order comes into force on 5th April 1993.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 18](https://www.legislation.gov.uk/ukpga/1972/18); section 40 was amended by the Civil Jurisdiction and Judgments Act [1982 (c. 27)](https://www.legislation.gov.uk/ukpga/1982/27), Schedules 11 and 14.
+
+[^key-4070add15d7d793098ce054e4e359272]: Commencement: Art. 1 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-09ad7631c967dba043a22547b817d886]: Commencement: Art. 2 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^f00002]: Footnote: As amended by the Affiliation Proceedings (Amendment) Act [1972 (c. 49)](https://www.legislation.gov.uk/ukpga/1972/49), section 3; by the Domestic Proceedings and Magistrates' Courts Act [1978 (c. 22)](https://www.legislation.gov.uk/ukpga/1978/22), sections 54 and 55 and Schedules 2 and 3; by the Magistrates' Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), Schedule 7; by S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675); by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 46; by the Civil Jurisdiction and Judgments Act 1982, Schedules 11 and 12; by the Family Law Reform Act [1987 (c. 42)](https://www.legislation.gov.uk/ukpga/1987/42), Schedules 2 and 4; by the Maintenance Enforcement Act [1991 (c. 17)](https://www.legislation.gov.uk/ukpga/1991/17), Schedule 1; by S.I. [1992/709](https://www.legislation.gov.uk/uksi/1992/709); and by the Maintenance Orders (Reciprocal Enforcement) Act [1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), Schedule 1. There are further amendments to the Act which are not relevant to this Order.
+
+[^key-ebb3148a0d0e7a294d2519be69deb219]: Commencement: Art. 3 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-894a1c9bac642ba5939ec8f2d9c0c66a]: Commencement: Art. 4 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-5c472dc4ec837b5ec046fb55c5a967e4]: Commencement: Sch. 1 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-ca69481196ae58853cd28e291f03fb6f]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) inserted (15.1.2003) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 2002 (S.I. 2002/2838)](https://www.legislation.gov.uk/uksi/2002/2838), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2838/article/1), [2](https://www.legislation.gov.uk/uksi/2002/2838/article/2)
+
+[^key-50939f8cb7708e98fe0186ad739d9e50]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(2)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-825175131896e96f487a613c6caf4f0d]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(a)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/a) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-eaedbf6f51b04a7a4c9af1fbebe0bb39]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(b)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/b) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-bf5623caaa2614853a3b2fb71a094361]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(c)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/c) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-df7796865d28385706f36039e2cc5897]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(d)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/d) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-297f0dca29c30b6eeee4ac8945481c3f]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(e)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/e) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-726996fad38b64fe6e4543617bec8c16]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(f)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/f) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-5666a7e6120e48ad082449f86eca6ac6]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(g)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/g) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-a43484b0073f880cf065f04fbe2d475b]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/1), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/8/2) (with [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/8/4))
+
+[^key-fba57dafee15eebb4164baa5591188ed]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(h)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/h) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-d92842f92b39e3e2d6524a605f3b3c4b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(i)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/i) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-8298cd2c87af72f44595d8ccd8cffb55]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(j)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/j) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-c840ca05f054aba35ab843a1f8c22288]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(k)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/k) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-63123651752f46bca857e3731ac1a3ee]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(l)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/l) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-7a074c8bdda5de1e29b8dd77a2272c8a]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(m)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/m) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-98f1f823e76f640adab7fe6e16458754]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) revoked (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(2)(n)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/2/n) (with [Sch. 7 para. 26](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/26))
+
+[^key-a713a5fef01dd55d97a31b4761360b72]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) inserted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814)](https://www.legislation.gov.uk/uksi/2012/2814), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/1/1), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/8/3)
+
+[^key-cc3204737350758949dc552630c50909]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/593/schedule/1) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(2)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bcfd3e85f90ba0ed398f50c7d95655da]: Commencement: Sch. 2 para. 1 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-d64eae1c324fabc6e694f75e1c20daa7]: Commencement: Sch. 2 para. 2 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-717d49d0f0a4fc60798295f5f807a4a4]: Commencement: Sch. 2 para. 3 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-25a8a49ebb10b4ea37d1798710713b5e]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/3/2) substituted (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(3)(a)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/3/a)
+
+[^key-aa8303c45658c51075be4eca09ce1b8f]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/3/2) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [30(a)](https://www.legislation.gov.uk/uksi/2014/879/article/30/a)
+
+[^key-cf9976376f7a33f8589b178962395b8e]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/3/2) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(4)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/4/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a11daead3d844cab78532ff49ff6b45e]: Textual amendment: Words in [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/3/5) substituted (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(3)(b)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/3/b)
+
+[^key-666153449d767fd490b84c63c36de107]: Textual amendment: Words in [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/3/5) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [30(b)](https://www.legislation.gov.uk/uksi/2014/879/article/30/b)
+
+[^key-0fafd258de2d3a032846ef31402125a7]: Textual amendment: [Sch. 2 para. 3(6)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/3/6) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(4)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/4/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3665c1d69df38c33a4e44e3a8153370d]: Textual amendment: Sch. 2 para. 4 inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-04e5aeffd3341b07b3a5edfd84ddf019]: Commencement: Sch. 2 para. 5 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-a11e394c5b54a02a548fa9a426783d65]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/5) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(6)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/6/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-31aaeab3c69e9ca3cc9200f17dabaa95]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/5) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(6)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/6/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d167711fb90cf8466f421254d8364330]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/5) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [31](https://www.legislation.gov.uk/uksi/2014/879/article/31)
+
+[^key-f57247e194ae707439835b237a8ab494]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/5) omitted (28.6.1999) by virtue of [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/1999/1318/article/3/1/a)
+
+[^key-68276dd66b731774a149f8dd77fd10a1]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/5) omitted (28.6.1999) by virtue of [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/1999/1318/article/3/1/b)
+
+[^key-ca319a3d4b531b2698bc63d0bba1d78a]: Commencement: Sch. 2 para. 6 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-29b2c1482bceb5705e9605989dab5c90]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/6) substituted (28.6.1999) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1999/1318/article/3/2/a)
+
+[^key-8c4970bf0f3c959e8b8cfd67f3687b4d]: Commencement: Sch. 2 para. 7 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-d3cde8b6ba23b277891d3ca2f46a5d77]: Commencement: Sch. 2 para. 8 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-0ab2b330e96b5b1d5d66aa14ede891c9]: Textual amendment: [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/8/4) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [32](https://www.legislation.gov.uk/uksi/2014/879/article/32)
+
+[^key-1efbae42c18fa898366bc52c6a5f7d79]: Commencement: Sch. 2 para. 9 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-58ab92d6a078205fdfa9db4f43f2ea2f]: Textual amendment: Words in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/9/2) inserted (28.6.1999) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/1999/1318/article/3/2/b/i)
+
+[^key-1282c8b0735f7d6f279b8c7526158c6d]: Textual amendment: Words in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/9/2) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(7)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/7/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7c08c0507963c3b99ac433fc0e80b4f7]: Textual amendment: [Sch. 2 para. 9(2A)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/9/2A) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [32](https://www.legislation.gov.uk/uksi/2014/879/article/32)
+
+[^key-a18a32e59b229a3ab6ec0762f90655eb]: Textual amendment: [Sch. 2 para. 9(2A)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/9/2A)[(2B)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/9/2B) inserted (28.6.1999) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/1999/1318/article/3/2/c)
+
+[^key-7221e7ddf520190f309ba5835af2042e]: Textual amendment: Words in [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/9/4) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/7/b/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7e6c2862e0b0b124a983b98708a5dea9]: Textual amendment: Words in [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/9/4) omitted (28.6.1999) by virtue of [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/1999/1318/article/3/3/a)
+
+[^key-24a188113891090b3dbb7545a82c7dc1]: Textual amendment: Words in [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/9/4) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/7/b/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e231da5bb46d90af01a796849e531a86]: Textual amendment: Words in [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/9/4) inserted (28.6.1999) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/1999/1318/article/3/3/b)
+
+[^key-3345c4af99db37229b05686b6f9cfab2]: Commencement: Sch. 2 para. 10 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-ad80f399988dae296850ecee047e1346]: Commencement: Sch. 2 para. 11 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-a9cbcbd7be6cf27890757e3e7a0a5044]: Commencement: Sch. 2 para. 12 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-c11a5887c5b274537346cbef4ba89bcd]: Commencement: Sch. 2 para. 13 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-646b78593eadaad50a8fc6cae8a87e9d]: Commencement: Sch. 2 para. 14 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-277728b3c9f6ddc5c57b118bea32d096]: Commencement: Sch. 2 para. 15 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-d47e5613b7ca5c5c104eacdaab10a7b6]: Commencement: Sch. 2 para. 16 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-ea9bd0a16eae1de03d6ea814d2ebbfc4]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/17) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(8)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e357c3abf53e8dc1a8fc727b44f154e0]: Commencement: Sch. 2 para. 18 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-ce0606f66d260c1104b58ff84111f455]: Textual amendment: [Sch. 2 para. 18(1A)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/18/1A) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [33](https://www.legislation.gov.uk/uksi/2014/879/article/33)
+
+[^key-0027cfe2e800669e3d948cd6c56873f5]: Commencement: Sch. 2 para. 19 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-7d876e1a098b119ea12ace1f66ebb918]: Commencement: Sch. 2 para. 20 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-ff585647fe13d70a241ce6b266c1742a]: Commencement: Sch. 2 para. 21 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-b0c25cc4aefe7f357e25da1401d83e58]: Textual amendment: Words in [Sch. 2 para. 21(2)(b)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/21/2/b) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [34](https://www.legislation.gov.uk/uksi/2014/879/article/34)
+
+[^key-312c02c2bcdd941e520e293817c9455a]: Textual amendment: Words in [Sch. 2 para. 21(2)](https://www.legislation.gov.uk/uksi/1993/593/schedule/2/paragraph/21/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(9)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dab7c7bde9f4570bc77e5d416580ff25]: Commencement: Sch. 2 para. 22 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-6d37227db85e0d9c4a74da9916659378]: Commencement: Sch. 3 para. 2 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-6fd3e200194dd9f10446daf5394725f3]: Commencement: Sch. 3 para. 3 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-9cf55ea2ac659b9aea7c4f6af5233ea5]: Textual amendment: Word in [Sch. 3 s. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [36(e)](https://www.legislation.gov.uk/uksi/2014/879/article/36/e)
+
+[^key-ed2f0769ba9db6c070b1314779c33ed5]: Textual amendment: [Sch. 3 s. 3(1)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/3/1) substituted (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(4)(a)(i)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/4/a/i)
+
+[^key-695460c97d57ddbe914496249758762c]: Textual amendment: Words in [Sch. 3 s. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [36(a)](https://www.legislation.gov.uk/uksi/2014/879/article/36/a)
+
+[^key-a1e443d2e9ce7b8bdd63eaba03a272bb]: Textual amendment: Words in [Sch. 3 s. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(11)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/11) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ce3ef7d553a6eb4c8b5a9212dcf4ecdf]: Textual amendment: Words in [Sch. 3 s. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [36(b)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/36/b/i)
+
+[^key-abf80bc990feb3f1fc8b1583a165a3fe]: Textual amendment: Words in [Sch. 3 s. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [36(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/879/article/36/b/ii/aa)
+
+[^key-492dea8c46b25bd62927c8f0b1820703]: Textual amendment: Words in [Sch. 3 s. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [36(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/879/article/36/b/ii/bb)
+
+[^key-298761c922a3edbf382e1031bec9f469]: Textual amendment: Words in [Sch. 3 s. 3(6D)(6E)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/3/6D/6E) substituted (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/4/a/ii)
+
+[^key-fe60bf76d66876fe537c0a224d669540]: Textual amendment: Words in [Sch. 3 s. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [36(c)](https://www.legislation.gov.uk/uksi/2014/879/article/36/c)
+
+[^key-b5feda212828039d84fe4ad875619e8a]: Textual amendment: Words in [Sch. 3 s. 3](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [36(d)](https://www.legislation.gov.uk/uksi/2014/879/article/36/d)
+
+[^key-3aa7206e9681f7ea01f0ae1da32ab012]: Textual amendment: Words in [Sch. 3 s. 4](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(12)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/12) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-224ea0c4aa09535e989298c37563244e]: Commencement: Sch. 3 para. 5 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-27a37bc63f9503d14b49e99bd71b5875]: Textual amendment: Words in [Sch. 3 s. 5(1)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/5/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(13)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/13/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1b534c2b6f7e99012e5a848c98bb3a8a]: Textual amendment: [Sch. 3 s. 5(2)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/5/2) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(13)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/13/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0c61633a3c9170200b0a6615e3d57344]: Textual amendment: [Sch. 3 s. 5(3)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [37](https://www.legislation.gov.uk/uksi/2014/879/article/37)
+
+[^key-cd224a7e6074db6f14c032c009ec0566]: Textual amendment: Words in [Sch. 3 s. 5(10)(11)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/5/10/11) omitted (28.6.1999) by virtue of [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1999/1318/article/4/a)
+
+[^key-d1997479a2153919ae3a9cbba735754e]: Textual amendment: [Sch. 3 s. 5(11)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/5/11) omitted (28.6.1999) by virtue of [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1999/1318/article/4/b)
+
+[^key-d5961fe8a5333d4790762f878629369b]: Commencement: Sch. 3 para. 6 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-e3fbc4934e3405a1da30602f85ad781c]: Textual amendment: Words in [Sch. 3 s. 6(12)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/6/12) substituted (28.6.1999) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [5](https://www.legislation.gov.uk/uksi/1999/1318/article/5)
+
+[^key-ffc9d47c764d49a5667eefff2bfc513e]: Commencement: Sch. 3 para. 8 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-252096df3ea437672765f8420e8701be]: Textual amendment: Words in [Sch. 3 s. 8](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/8) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [38(a)](https://www.legislation.gov.uk/uksi/2014/879/article/38/a)
+
+[^f00010]: Footnote: [1966 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1966/35).
+
+[^key-27f082487cad296058f6a7707eb4125d]: Textual amendment: Words in Sch. 3 s. 8 substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [38(b)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/38/b/i)
+
+[^key-d0aaefbe384cf3425633f85a49ff20c6]: Textual amendment: Words in Sch. 3 s. 8 substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [38(b)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/38/b/ii)
+
+[^key-5a9ded4542f486cf8e03a12d2d0524d6]: Textual amendment: Words in Sch. 3 s. 8 omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [38(c)](https://www.legislation.gov.uk/uksi/2014/879/article/38/c)
+
+[^key-1bd617d105f20dff5fb887f1804abbfe]: Textual amendment: Words in Sch. 3 s. 8 omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [38(d)](https://www.legislation.gov.uk/uksi/2014/879/article/38/d)
+
+[^key-6b8b891d34e8882589c1f3862a36e51a]: Textual amendment: Words in Sch. 3 s. 8 substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [38(e)](https://www.legislation.gov.uk/uksi/2014/879/article/38/e)
+
+[^key-95fe5f6c6d449440eb7832006fb81314]: Commencement: Sch. 3 para. 9 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-6c00bba287ac97af236a3e79092be6bf]: Textual amendment: Words in [Sch. 3 s. 9(1)(a)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) inserted (28.6.1999) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/1999/1318/article/6/a)
+
+[^key-9753d6aebd024679db0228b3a2e03b6f]: Textual amendment: [Sch. 3 s. 9(1)(b)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/9/1/b) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(14)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/14/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-13570258c7242f7dc6a64430e909cf63]: Textual amendment: Sch. 3 s. 9(1ZA) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [39](https://www.legislation.gov.uk/uksi/2014/879/article/39)
+
+[^key-146e51b83d452b57c663e649066198ef]: Textual amendment: [Sch. 3 s. 9(1ZB)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) inserted (28.6.1999) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [6(d)](https://www.legislation.gov.uk/uksi/1999/1318/article/6/d)
+
+[^key-6bc333cce2e1c7c4aa5210f1978bdd8c]: Textual amendment: [Sch. 3 s. 9(2)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/9/2) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(14)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/14/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-462858c7954378c6cdf5234b6e5c4904]: Textual amendment: [Sch. 3 s. 9(3)-(7)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/9/3) omitted (28.6.1999) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/1999/1318/article/7/a)
+
+[^key-b350581f7aa0359bf3453892277c1ca6]: Textual amendment: [Sch. 3 s. 9(8A)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/9/8A) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(14)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/14/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5a717386f471a5e1ff054a5296d9fdae]: Textual amendment: [Sch. 3 s. 9(11)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) inserted (28.6.1999) by [The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) (Variation) Order 1999 (S.I. 1999/1318)](https://www.legislation.gov.uk/uksi/1999/1318), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1318/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/1999/1318/article/7/b)
+
+[^key-a2b6fb9a29151e88e71dea85cc8a5bca]: Commencement: Sch. 3 para. 10 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-835966dcc5991b77efeba2accc88ce3b]: Textual amendment: Words in Sch. 3 s. 10(a) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/617/article/1/1), [40(a)](https://www.legislation.gov.uk/uksi/2005/617/article/40/a)
+
+[^key-f84553fe3bdc2ba31a26e6e275bc31da]: Textual amendment: Words in Sch. 3 s. 10(3) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [40(b)](https://www.legislation.gov.uk/uksi/2014/879/article/40/b)
+
+[^key-adc4de548fb0d93d1cdcf5eafbe044e9]: Commencement: Sch. 3 para. 11 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-6a8fd1c9e75b7cd86d781dead3fd30ec]: Commencement: Sch. 3 para. 12 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-fb16c37596611e4356588a3956d79a6d]: Commencement: Sch. 3 para. 13 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-90fd8709fb0382616ba7d0454aeef917]: Commencement: Sch. 3 para. 14 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-837dbce784e76daa2caec3524d91586d]: Textual amendment: Words in Sch. 3 s. 14(3) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [41(a)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/41/a/i)
+
+[^key-1cc3e9a9e4cae780d1dfc13525eef648]: Textual amendment: Words in Sch. 3 s. 14(3) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [41(a)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/41/a/ii)
+
+[^f00016]: Footnote: [1907 c. 51](https://www.legislation.gov.uk/ukpga/1907/51).
+
+[^key-281e5f937af7925d8cefedcec189d9ff]: Textual amendment: Sch. 3 s. 14(6) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2014/879/article/41/b)
+
+[^key-d97fb280d69ede0ee17df645365c8cdd]: Commencement: Sch. 3 para. 15 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-d8a4d77946a9dea0c82bc33e08d201cd]: Commencement: Sch. 3 para. 16 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-09c89bf66822efe5ff35de461b25fab2]: Commencement: Sch. 3 para. 17 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-243c99af2effb43bc8aff9854accd97c]: Textual amendment: Words in Sch. 3 s. 17(4) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [42(a)](https://www.legislation.gov.uk/uksi/2014/879/article/42/a)
+
+[^key-c35c24ce4c0e00b963aa185de09f8013]: Textual amendment: Words in Sch. 3 s. 17(4) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [42(b)](https://www.legislation.gov.uk/uksi/2014/879/article/42/b)
+
+[^key-920a01f7cb5ae380b3ed6128153fbb8d]: Textual amendment: Words in [Sch. 3 s. 17(4)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/17/4) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 160(c)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/160/c)
+
+[^key-50b93ff4f6e5d341d92baa2b316e9b96]: Textual amendment: Word in Sch. 3 s. 17(4) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [42(c)](https://www.legislation.gov.uk/uksi/2014/879/article/42/c)
+
+[^key-7d4b5d4e2a81a9567c9794ab7dcda388]: Textual amendment: [Sch. 3 s. 17(5)-(7A)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/17/5) omitted (18.6.2011) by virtue of [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 7 para. 25(4)(e)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/25/4/e)
+
+[^key-207a7216aa2e0257cf732670a4e474f8]: Textual amendment: [Sch. 3 s. 17(5A)-(7)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/17/5A) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(15)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/15) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-11964c54b60279348dd43836ee4ffd53]: Commencement: Sch. 3 para. 18 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-e4d51ab84f7e113f99c682a12d3107d9]: Textual amendment: Words in Sch. 3 s. 18 substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [43(d)](https://www.legislation.gov.uk/uksi/2014/879/article/43/d)
+
+[^key-ef673c40c4c0324da033db949caece87]: Textual amendment: Words in Sch. 3 s. 18 inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [43(a)](https://www.legislation.gov.uk/uksi/2014/879/article/43/a)
+
+[^key-32333d4952d85cbba899d4b9848ebfb7]: Textual amendment: Words in Sch. 3 s. 18 substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [43(b)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/43/b/i)
+
+[^M_F_bf95feb2-d48b-4475-b239-519a6535ffec]: Textual amendment: Words in Sch. 3 s. 18(1)(a) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 160(d)(i)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/160/d/i)
+
+[^key-1ad065844af252a42c8fcf94ff2b6ead]: Textual amendment: Words in Sch. 3 s. 18 substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [43(b)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/43/b/ii)
+
+[^M_F_e8f537af-0e7b-4ed2-98cf-73dc3f6d83c6]: Textual amendment: Words in Sch. 3 s. 18(1)(a) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 160(d)(i)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/160/d/i)
+
+[^key-3d496625eb727a39d759c7a427d07aab]: Textual amendment: Words in Sch. 3 s. 18(1A) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 160(d)(ii)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/160/d/ii)
+
+[^key-9edfc7ea4df4c8d5ec13047d1830df63]: Textual amendment: Word in Sch. 3 s. 18 substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [43(c)](https://www.legislation.gov.uk/uksi/2014/879/article/43/c)
+
+[^f00020]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00021]: Footnote: S.I. [1981/1685 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1685).
+
+[^key-88beb0433728965c7c9bab88f20c6f2c]: Commencement: Sch. 3 para. 19 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-4e5a105b083c854ee98dfc9b69edcad5]: Commencement: Sch. 3 para. 21 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)
+
+[^key-a720bf39a205b6daa020ea90e6e9c824]: Textual amendment: Words in Sch. 3 s. 21 substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [44](https://www.legislation.gov.uk/uksi/2014/879/article/44)
+
+[^key-d8639f3680569e0238661ee04c037020]: Textual amendment: Words in [Sch. 3 s. 21](https://www.legislation.gov.uk/uksi/1993/593/schedule/3) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 31(16)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/31/16) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-15da2ecbf5df99484ebf256d52f704d7]: Textual amendment: Words in [Sch. 3 s. 21(1)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/21/1) omitted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 160(e)(i)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/160/e/i)
+
+[^key-6e31116577f520b1396e9b19c3845aee]: Textual amendment: Words in [Sch. 3 s. 21(1)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/21/1) omitted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 160(e)(ii)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/160/e/ii)
+
+[^key-12502a7dda7f1be9e9c7a7799c2d56b3]: Textual amendment: Words in [Sch. 3 s. 21(1)](https://www.legislation.gov.uk/uksi/1993/593/schedule/3/section/21/1) omitted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 160(e)(iii)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/160/e/iii)
+
+[^key-a37a4a0c515b5ba8f7ab75491c08e601]: Commencement: Sch. 4 in force at 5.4.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/593/article/1)

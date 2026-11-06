@@ -1,0 +1,706 @@
+---
+title: The National Health Service (Charges to Overseas Visitors) (Scotland) Regulations 1989
+id: uksi/1989/364
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1989-03-05'
+text_date: '2025-10-08'
+extent: S
+source_url: https://www.legislation.gov.uk/uksi/1989/364
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/364/pdfs/uksi_19890364_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/364/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Charges to Overseas Visitors) (Scotland) Regulations 1989
+
+> Text as at 2025-10-08.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+1989 No. 364 (S.40)
+
+NATIONAL HEALTH SERVICE, SCOTLAND
+
+The National Health Service (Charges to Overseas Visitors) (Scotland) Regulations 1989
+
+Made
+
+5th March 1989
+
+Laid before Parliament
+
+15th March 1989
+
+Coming into force
+
+5th April 1989
+
+The Secretary of State, in exercise of the powers conferred on him by sections 98, 105 and 108(1) of the National Health Service (Scotland) Act 1978[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-e813f862c793ef1b250752b8db6b29e9]
+
+(1) These Regulations may be cited as the National Health Service (Charges to Overseas Visitors) (Scotland) Regulations 1989 and shall come into force on 5th April 1989.
+
+(2) In these Regulations, unless the context otherwise requires—
+
+- “the Act” means the National Health Service (Scotland) Act 1978;
+- “authorised child” means a child who has either been granted leave to enter the United Kingdom with his parent for the purpose of the parent obtaining a course of treatment in respect of which no charges are payable under regulation 6A or is the child of an authorised companion;[^key-c59d9cac88b96c1f4d26e5ebfee348b4]
+- “authorised companion” means a person who has been granted leave to enter the United Kingdom to accompany a person who is obtaining a course of treatment in respect of which no charges are payable under regulation 6A;
+- “child” means a person who is—
+  - (a) under the age of sixteen; or
+  - (b) under the age of nineteen and treated for the purposes of the Child Benefit Act 1975[^f00002] or the Child Benefit (Northern Ireland) Order 1975[^f00003] as receiving full time education at an educational establishment recognised under that Act or that Order;
+- “competent institution” has the meaning it had in Regulation[^key-7ce725718181513742bc104744748d3f] [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) or (as the case may be) Regulation [(EEC) No 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408) immediately before IP completion day;
+- “Continental Shelf”, except in a reference to a designated area of the Continental Shelf, means the sea-bed and subsoil of the submarine area (other than in the Baltic or Mediterranean Seas, including the Adriatic and Aegean, or the Black Sea) adjacent to the coasts, lying north of the latitude of 25 degrees north and between the longitude of 30 degrees west and 35 degrees east, of the territory (including islands) of—
+  - (a) any country situated on the Continent of Europe, or
+  - (b) the Republic of Ireland,
+
+  where the submarine area is outside the seaward limits of the territorial limits of those countries and the Republic of Ireland and is an area with respect to which the exercise by any of them of sovereign rights in accordance with international law is recognised by Her Majesty’s Government in the United Kingdom;
+- [^key-24b39c0cf31e83ccd130fac44ce7e139]...
+- “designated area of the Continental Shelf” means any area which is for the time being designated by an Order in Council under the Continental Shelf Act 1964[^f00004] as an area within which the rights of the United Kingdom with respect to the sea-bed and subsoil and their natural resources may be exercised;
+- “EEA State” means a member State, Norway, Iceland or Lichtenstein;[^key-8b94639b7318103b61427cbfa49a528a]
+- “eye examinations and sight tests” means eye examinations and sight tests within the meaning of section 13(1) of the Smoking, Health and Social Care (Scotland) Act 2005[^key-be2cbc25846e00cc42ee2f07867569c2][^M_F_3ed0e502-761f-4962-fcdc-7bbfa9fe6128];
+- [^key-3e9edb4d4acffd1fa8fcbad5fd5199fb]...
+- “Health Board” means a Health Board constituted under section 2 of the Act;
+- “member of the family”, in relation to a national of an EEA State, a frontier worker, a stateless person or a refugee, has the meaning it had for the purposes of Regulation[^key-a06dbb07393263927023473f63cb5a10] [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883)[^M_F_ede0a2c9-a6ea-49bd-8b56-503482fae2d0] or (as the case may be) Regulation [(EEC) 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408)[^M_F_f95bb5a1-8645-438b-b82e-6c3a94f5e3fd] immediately before IP completion day;
+- [^key-d67b868b9e0438b80bcb3334e02fadeb]...
+- [^key-5bdc6b19c858c7bde8c43956beb6b96b]...
+- “ophthalmic medical practitioner” means a medical practitioner having the qualifications prescribed under regulations made under section 26(1) of[^key-b064cc04ce1fd9a37628b2efd6333707] the Act[^M_F_2bea8c45-73f3-40c4-edf4-3828263d60b3];
+- “oral health assessments and dental examinations” means oral health assessments and dental examinations within the meaning of section 12(1) of the Smoking Health and Social Care (Scotland) Act 2005;[^key-66ca99ed4e7aee94302608db20500493]
+- “overseas visitor” means a person not ordinarily resident in the United Kingdom;
+- “reciprocal agreement” means arrangements mutually agreed between the Government of the United Kingdom and the Government of a country or territory outside the United Kingdom for providing health care;
+- “refugee” means a person who is a refugee within the meaning of Article 1 of the Convention relating to the Status of Refugees 1951[^f00006] and Article 1 of the Protocol relating to the Status of Refugees 1967[^f00007] and any other person taking refuge in the territory of an EEA State[^key-b069d5f5973d9c743d6fe4ae7f0b1b38] with leave of the Government of that State;
+- “services forming part of the health service” means accommodation, services and other facilities provided under section 36(1) of the Act (accommodation and services)[^M_F_ae243fbc-e075-4f65-f6ab-bd6357f34b4d] or oral health assessments and dental examinations, or eye examinations and sight tests[^key-279773db0d67a0b028e8db3ff7c0cac6] and includes accommodation, services and other facilities provided by an NHS trust but does not include any accommodation, service or facility made available or provided under—
+  - (a) section 57 of the Act (accommodation and services for private patients);
+  - (b) section 7(2) of the Health and Medicines Act 1988 (powers to make more income available for the health service); or
+  - (c) paragraph 14 of Schedule 7A to the Act (accommodation and services for private patients of NHS trusts);
+- “ship or vessel” includes hovercraft;
+- “stateless person” has the meaning assigned to it in Article 1 of the Convention relating to the Status of Stateless Persons 1954 [^f00009];
+- “treatment” includes medical, dental and nursing services required for the care of women who are pregnant or in childbirth or for the prevention or diagnosis of illness;
+- “treatment the need for which arose during the visit” means diagnosis of symptoms or signs occurring for the first time after the visitor’s arrival in the United Kingdom and any other treatment which, in the opinion of a medical or dental practitioner employed by, or under contract with, a Health Board or, as the case may be, an NHS trust[^M_F_8e25b995-26eb-4e79-a4a7-e887b4fbf679], is required promptly for a condition which arose after the visitor’s arrival in the United Kingdom, or became, or but for treatment would be likely to become, acutely exacerbated after such arrival.
+
+(3) In calculating for the purpose of any provision of these Regulations a period of residence in the United Kingdom, any interruption by reason of temporary absence of not more than three months shall be disregarded.
+
+(4) Unless the context otherwise requires, in these Regulations any reference to a numbered regulation or Schedule is a reference to the regulation in or, as the case may be, the Schedule to these Regulations which bears that number, and any reference in a regulation to a numbered paragraph is a reference to the paragraph bearing that number in that regulation.
+
+## 2. Making and recovery of charges[^key-50a266c5844fe3182bdbd7bbfb8c600d]
+
+(1) Where a Health Board or, as the case may be, an NHS trust[^M_F_de6446dc-6031-4842-d182-4da39a3b0413] provides an overseas visitor with services forming part of the health service, that Health Board or NHS trust[^M_F_20c54176-9de8-4f21-f00c-71611fb325f7], having determined, by means of such enquiries as it is satisfied are reasonable in all the circumstances, including the state of health of that overseas visitor, that the case is not one in which these Regulations provide for no charge to be made, shall make and recover from the person liable under regulation 7 charges for the provision of those services.
+
+(2) A Health Board or, as the case may be, an NHS trust[^M_F_8945e5b0-0a0a-4247-9ccf-0ab7c919f2cf] which makes and recovers a charge in accordance with paragraph (1) shall give or send to the person making the payment a receipt for the amount paid.
+
+(3)[^key-63892cf801cb2fa99598e2f8fab64ac1][^key-3787a4fe25f4a387aef9fdac9f11324f] Where an overseas visitor receives an oral health assessment, dental examination, eye examination or sight test, the dental practitioner, ophthalmic medical practitioner or ophthalmic optician (as the case may be) providing those services having determined, by means of such enquiries as that person is satisfied are reasonable in all the circumstances, including the state of health of that overseas visitor, that the case is not one in which these Regulations provide for no charge to be made, shall make and recover from the person liable under regulation 7 charges for the provision of those services as such charges are determined by the Health Board.
+
+(4) A dental practitioner, ophthalmic medical practitioner or ophthalmic optician who makes and recovers a charge in accordance with paragraph 3 shall give or send to the person making the payment a receipt for the amount paid.
+
+## 3. Services exempted from charges[^key-bcce755ac69fa14fa0222a1c43cf7fe2]
+
+No charge shall be made in respect of any services forming part of the health service provided for an overseas visitor—
+
+- (a) at a hospital accident and emergency department or casualty department[^key-88a3734a53fd97e22079971eceb5df71] unless and until he has been accepted as an in-patient at the hospital for treatment of the condition in respect of which such services are provided; or
+- (b) otherwise than at, or by staff employed to work at, or under the direction of, a hospital except in the case of[^key-f5e9acdfde39b41c794e672eef009c05] an oral health assessment, dental examination, eye examination or sight test[^key-1f7be79bf382c434fa0da9c82b078524] provided as mentioned in regulation 2(3); or
+- (bb)[^M_F_69b9b02f-70ae-4f8d-815d-92c82a6b2d77] consisting of the provision of family planning services; or
+- (c) for treatment in respect of a disease listed in Schedule 1; or
+- (d) at a special clinic for the treatment of sexually transmitted diseases or in respect of a sexually transmitted disease by virtue of a reference from such a clinic[^key-62c8a7b9819485b80e1fb7b21d74e276]...;
+- (e) who is detained in a hospital under the Mental Health (Care and Treatment) (Scotland) Act 2003[^key-029824a4192751d11911153898f9938b] or any other enactment authorising orders for admission to, and detention in, hospital by reason of mental disorder; or
+- (f) with a view to the improvement of his mental condition where submission to the treatment is, under section 227R of the Criminal Procedure (Scotland) Act[^key-b6fde6bc36c79ccb55d23adc73eedb79] [1995 (c.46)](https://www.legislation.gov.uk/ukpga/1995/46), included by the Court as a requirement in a community payback order.
+
+## 4. Overseas visitors exempt from charges[^key-4a98bf1d1acb89258de107833f276e2c][^key-fed38ab93e8c13fb044b9193d86cb7ab]
+
+(1) No charge shall be made in respect of any services forming part of the health service provided for an overseas visitor, being a person or the spouse , civil partner[^key-8ca7287143bc8fad3342ddc3f1cf1e44] or child of a person—
+
+- (a) who is shown to the satisfaction of the Health Board or, as the case may be, the NHS trust by which those services are provided[^M_F_30fb6304-ab4e-4d48-dcbc-94e94221f7d0] to be present in the United Kingdom or in a designated area of the Continental Shelf or, if his employer has his principal place of business in the United Kingdom, in or over any area of the Continental Shelf, or on a stationary structure within the territorial waters of the United Kingdom, for the purpose of—
+  - (i) engaging in employment as an employed or self-employed person; or
+  - (ii) working as a volunteer with a voluntary organisation that is providing a service similar to a relevant service as defined in sections 64(3)(b) and 65(3)(c) of the Health Services and Public Health Act 1968[^f00013], in section 16B of the Act[^f00014] or service to which article 71 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00015] applies; or
+  - (iii)[^key-bab63da5ba45a1cb4a3982ea85aece5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) taking up permanent residence in the United Kingdom; or
+- (b) who has resided lawfully[^key-9088c81e50d7dacecfcfb333f1187d0e] in the United Kingdom for a period of not less than one year immediately preceding the time when the services are provided, whether or not immediately prior to this residence qualification being met[^key-59cfce28b66720a9b1a0ae6f04d4552a], charges under these Regulations may have been made in respect of services provided as part of the same course of treatment; or
+- (c) who has been accepted as a refugee in the United Kingdom, or who has made a formal application for leave to stay as a refugee in the United Kingdom; or
+- (ca)[^key-ec564c0d79ff39fc091378f0b9bf2fb9] who is a stateless person or a refugee or a member of the family of a stateless person or a refugee resident in each case in the territory of an EEA State or Switzerland; or
+- (d) who is employed on a ship or vessel registered in the United Kingdom; or
+- (e) who is in receipt of any pension or other benefit under a Personal Injuries Scheme, Service Pensions Instrument or a 1914-1918 War Injuries Scheme as defined in regulation 2(1) of the Social Security (Overlapping Benefits) Regulations 1979[^f00016]; or
+- (f) who is a diplomatic agent for the purposes of the Articles of the Vienna Convention on Diplomatic Relations set out in Schedule 1 to the Diplomatic Privileges Act 1964[^f00017]; or
+- (g) who is a member of Her Majesty’s United Kingdom Forces; or
+- (h) who is some other Crown servant employed in the right of Her Majesty’s Government of the United Kingdom, having been recruited in the United Kingdom; or
+- (i) who is an employee, recruited in the United Kingdom, of the British Council or the Commonwealth War Graves Commission; or
+- (j) who is working in employment that is financed in part by the Government of the United Kingdom in accordance with arrangements made with the Government of some other country or territory or a public body in such other country or territory; or
+- (k) who has at any time had not less than ten years' continuous lawful[^key-6c9a2a0d5cbf8db46ba0e70019b22a54] residence in the United Kingdom and is engaged in employment as an employed or self-employed person outside the United Kingdom—
+  - (i) that has not lasted for a period of five years; or
+  - (ii) that has lasted for five or more years, if he takes or has a contractual right to take home leave in the United Kingdom at least once in every two years or if he has a right, under the contract by which he was engaged, to have the cost of his passage to the United Kingdom paid on completion of his engagement; or
+- (l) who is employed in an[^key-1537cc2edb4d4e489d2664ae14c32615] EEA State[^key-9f553e14b164b5721db98bc48209304a] and who is contributing as an employed or self-employed earner under the Social Security Act 1975[^f00018] or the Social Security (Northern Ireland) Act 1975[^f00019]; or
+- (m)[^key-8dd8573570af77cbc07feec9f0669b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n) whose detention in prison or in an institution provided by the Secretary of State under section 31(1) of the Prisons (Scotland) Act 1952[^f00020] is for the time being authorised by law; or who is detained under the provisions of the Immigration Act 1971[^f00021]; or
+- (o) in whose case the services are provided in circumstances covered by a reciprocal agreement with a country or territory specified in Schedule 2 ; or[^key-e490b41fe888ba1aeeddd1d848086bab]
+- (p)[^key-221b204307fd55bbf2c4c50923741ab7] who–
+  - (i) is not a national of an EEA State[^key-7c86d2edf59492da7eb97211afced17b] which has entered into a reciprocal agreement which comes into effect on or after IP completion day[^key-376fedebf3ead018693689342b2cf4e1]; and
+  - (ii) is a national of a State which is a signatory to the European Social Charter; and
+  - (iii) is not entitled to be provided with such services under a reciprocal agreement specified in Schedule 2; and
+  - (iv) is without sufficient resources to pay the charge ;[^key-9cd0ceada4a541ad4dd050bf8642587c] [^key-d4fa4cf16da5ec3d91aeb192177d12b9]...
+- (q)[^key-ee4bbc51e0f2f906cb8662f50f56ac4a] who is pursuing a full time course of study; or[^key-f6ef2a98ffcd0b8d615d2f754270c68b]
+- (r) who the competent authorities of the United Kingdom within the meaning of the Council of Europe Convention on Action Against Trafficking in Human Beings[^M_F_aa826812-a003-4c76-9d78-0ef9db947daf] (in this regulation “the Convention”),
+  - (i) consider that there are reasonable grounds to believe is a victim within the meaning of Article 4 of the Convention, and the recovery and reflection period in relation to him under Article 13 of the Convention has not yet expired; or
+  - (ii) have identified as a victim within the meaning of Article 4 of the Convention.
+
+(2)[^key-7aa2b0a716901aa66cf5a20c68fa4aaa] Where it is established that a person does not meet the residence qualification in paragraph (1)(b) and that person has already received services as part of a course of treatment on the basis that no charges would be made, no charges may be made for the remainder of that course of treatment.
+
+## 4A. Exemption from charges during long term visits by United Kingdom pensioners[^key-3b42b70f76787afeb9f6e82eed9186b2]
+
+No charge shall be made or recovered in respect of any overseas visitor, being a person or the spouse or child of a person, who–
+
+- (a) is in receipt of a retirement pension under the Social Security Contributions and Benefits Act 1992[^f00003] or the Social Security (Contributions and Benefits) (Northern Ireland) Act 1992[^f00004] or a state pension under Part 1 of the Pensions Act 2014 or Part 1 of the Pensions Act (Northern Ireland) 2015[^key-c73d84bc5fb33d4e0002fc485813ec0b];
+- (b) has resided in the United Kingdom for six months or more and in an[^key-c741d96ba85d01ea23e69a9201263fb1] EEA State[^key-41e482c0f854b025c6ccd56b465bdc4d] for six months or less in the year immediately preceding the time when the services mentioned below are provided; and
+- (c) is not registered as a resident of an[^key-a7207be29dd0115cb0348ef61d6152ff] EEA State,
+
+for services forming part of the health service which he receives during the period he resides in the United Kingdom.
+
+## 4B. Reciprocal arrangements with EEA States on or after IP completion day[^key-ca71309aa0a13e0649b85b6ff117bf9f]
+
+No charge may be made or recovered in respect of any services forming part of the health service to an overseas visitor where those services are provided in circumstances covered by a reciprocal agreement with an EEA State where that agreement comes into force on or after IP completion day.
+
+## 4C. Exemption from charges for overseas visitors from Ukraine[^key-75add116bdfff4438529f0d93ed56717]
+
+(1) No charge may be made or recovered in respect of any overseas visitor, being a person or the spouse, civil partner or child of a person who—
+
+- (a) is lawfully present in the United Kingdom, and
+- (b) is ordinarily resident in Ukraine,
+
+for services forming part of the health service which the overseas visitor receives during the period the overseas visitor is lawfully present in the United Kingdom.
+
+(2) This paragraph applies to an overseas visitor who, during the relevant period, received services forming part of the health service and is exempt from charges for those services by virtue of paragraph (1).
+
+(3) An overseas visitor to whom paragraph (2) applies is to be treated for the purposes of these Regulations as if, at the time that the services forming part of the health service were provided, the overseas visitor was an overseas visitor in respect of whom no charge may be made or recovered for services forming part of the health service.
+
+(4) A Health Board which, in respect of an overseas visitor to whom paragraph (2) applies, has—
+
+- (a) yet to make charges under regulation 2[^M_F_043563d0-885d-43c1-f8a5-5a855cc657f2] (making and recovery of charges), must not make the charges,
+- (b) made charges under regulation 2 but has yet to recover the charges, must not recover the charges,
+- (c) made charges under regulation 2 and received payment in respect of the charges, must repay any sum paid in respect of the charges in accordance with regulation 8[^M_F_077c337d-79a7-47fd-b808-1fad95cf4e4b] (repayments).
+
+(5) This paragraph applies to a dental practitioner, ophthalmic medical practitioner or ophthalmic optician (as the case may be) who, during the relevant period, provided an oral health assessment, dental examination, eye examination or sight test to an overseas visitor to whom paragraph (2) applies.
+
+(6) A dental practitioner, ophthalmic medical practitioner or ophthalmic optician (as the case may be) to whom paragraph (5) applies, who has—
+
+- (a) yet to make charges under regulation 2, must not make charges under that regulation,
+- (b) made charges under regulation 2 but has yet to recover the charges, must not recover the charges under that regulation,
+- (c) made charges under regulation 2 and received payment in respect of the charges, must repay any sum paid in respect of the charges in accordance with regulation 8.
+
+(7) In this regulation, “**the relevant period**” means the period from 24 February 2022 to the coming into force of these Regulations.
+
+## 4D. Exemption from charges for overseas visitors under the Gaza medical evacuations[^key-13ae6e85e06795bbd6ce91f6b634b026]
+
+(1) No charge may be made or recovered in respect of any overseas visitor, being a person who—
+
+- (a) has been granted leave to enter the United Kingdom outside the immigration rules (made under section 3(2) of the Immigration Act 1971), and
+- (b) is lawfully present in the United Kingdom after being evacuated from Gaza for the purposes of undergoing treatment in the United Kingdom under the “Gaza medical evacuations”,
+
+for services forming part of the health service which the overseas visitor receives during the period the overseas visitor is lawfully present in the United Kingdom.
+
+(2) No charge may be made or recovered in respect of any overseas visitor, being a person who—
+
+- (a) has been granted leave to enter the United Kingdom outside the immigration rules (made under section 3(2) of the Immigration Act 1971), and
+- (b) is lawfully present in the United Kingdom after being evacuated from Gaza for the purposes of accompanying an overseas visitor to whom paragraph (1) applies,
+
+for services forming part of the health service, provided only for the purpose of giving treatment the need for which arose during the visit.
+
+(3) For the purposes of paragraph (1), the “**Gaza medical evacuations**” means the evacuations described in a statement to Parliament by the Secretary of State for Health and Social Care on 1 September 2025.
+
+(4) This paragraph applies to an overseas visitor who, during the relevant period, received services forming part of the health service and is exempt from charges for those services by virtue of paragraphs (1) or (2).
+
+(5) An overseas visitor to whom paragraph (4) applies is to be treated for the purposes of these Regulations as if, at the time that the services forming part of the health service were provided, the overseas visitor was an overseas visitor in respect of whom no charge may be made or recovered for services forming part of the health service.
+
+(6) A Health Board which, in respect of an overseas visitor to whom paragraph (4) applies, has—
+
+- (a) yet to make charges under regulation 2 (making and recovery of charges), must not make the charges,
+- (b) made charges under regulation 2 but has yet to recover the charges, must not recover the charges,
+- (c) made charges under regulation 2 and received payment in respect of the charges, must repay any sum paid in respect of the charges in accordance with regulation 8 (repayments).
+
+(7) This paragraph applies to a dental practitioner, ophthalmic medical practitioner or ophthalmic optician (as the case may be) who, during the relevant period, provided an oral health assessment, dental examination, eye examination or sight test to an overseas visitor to whom paragraph (4) applies.
+
+(8) A dental practitioner, ophthalmic medical practitioner or ophthalmic optician (as the case may be) to whom paragraph (7) applies, who has—
+
+- (a) yet to make charges under regulation 2, must not make charges under that regulation,
+- (b) made charges under regulation 2 but has yet to recover the charges, must not recover the charges under that regulation,
+- (c) made charges under regulation 2 and received payment in respect of the charges, must repay any sum paid in respect of the charges in accordance with regulation 8.
+
+(9) In this regulation, “**the relevant period**” means the period beginning with 15 September 2025 to the coming into force of these Regulations.
+
+## 5. Exemption from charges for treatment the need for which arose during the visit[^key-f1e392a0cec3732769bf5de3101133f9]
+
+No charge for services forming part of the health service, provided only for the purpose of giving treatment the need for which arose during the visit, shall be made in respect of any overseas visitor who is—
+
+- (a)[^key-f14157a4476662e8aa7042d2b04094d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a person, or the spouse , civil partner[^key-16eba3b209cabfbc9faf121aeea06f7f] or child of a person, who has at any time had not less than ten years' continuous lawful[^key-c88a952cb890201326a3bf97858f27d1] residence in the United Kingdom or not less than ten years' continuous service as a Crown servant employed in the right of Her Majesty’s Government of the United Kingdom and is in receipt of a pension or benefit under the Social Security Act 1975 or the Social Security (Northern Ireland) Act 1975 or a state pension under Part 1 of the Pensions Act 2014 or Part 1 of the Pensions Act (Northern Ireland) 2015[^key-a9cd704c461b2a44e1f423b2c2b397e5]; or
+- (c) a person resident in a country or territory specified in schedule 2, other than Bermuda, Cayman Islands or Pitcairn, Henderson, Ducie and Oeno Islands[^key-198ba2e796f680cd3527f4afa4a526d9]; or
+- (d) a person who is without sufficient resources to pay the charge and who is a national of a country which is a contracting party to the European Convention on Social and Medical Assistance 1954[^f00022]; or
+- (e) a person, or the spouse , civil partner[^key-2d372a76914b7fb8e8ecc81b707e16cb] or child of a person, who has at any time had not less than ten years' continuous lawful[^key-9b426c5d62e0c142e98dba7fa5bc8ab7] residence in the United Kingdom and who is resident in an EEA State[^key-7848c7357f2dbe0331573df023d6d9b5] or in a country, other than Israel, or territory specified in Schedule 2 or[^key-78bd197d5173b35708223fc1b04352ef]
+- (f) an authorised child or an authorised companion or[^key-8aa82abafce7537dcc565a73581327af]
+- (fa)[^key-5ad02118f6534847e6bd9a11b8866f91] in Scotland between 7th July and 7th August 2014 inclusive as part of the “Games Family” (in this regulation “Games Family” means the group of individuals who are taking part or are involved in the Commonwealth Games in Glasgow and who have been given a letter code for the purpose of receiving free treatment the need for which arose during the visit to Scotland).
+- (g)[^key-ebd14d186be5e3cee647b7919d7c3a29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5A. Overseas visitors from the Republic of Ireland: treatment the need for which arose during the visit[^key-df8755b12512c88509db3627af562139]
+
+No charge may be made or recovered for services forming part of the health service provided only for the purpose of giving treatment the need for which arose during the visit in respect of an overseas visitor who is ordinarily resident in the Republic of Ireland and who is—
+
+- (a) an Irish citizen, or
+- (b) a British citizen.
+
+## 5B. Frontier workers: treatment the need for which arose during the visit
+
+(1) No charge may be made or recovered for services forming part of the health service provided only for the purpose of giving treatment the need for which arose during the visit in respect of an overseas visitor who is a relevant frontier worker.
+
+(2) In paragraph (1) “a relevant frontier worker” means a person who—
+
+- (a) is pursuing in the United Kingdom an activity as an employed or self-employed person which the person began to pursue there before IP completion day,
+- (b) resides in an EEA State or Switzerland, and
+- (c) returns to their residence in that EEA State or Switzerland (as the case may be) at least once a week.
+
+## 5C. Overseas visitors from EEA States where no reciprocal agreement: treatment the need for which arose during the visit
+
+(1) This regulation applies only where regulation 4B (reciprocal arrangements with EEA States) does not apply.
+
+(2) No charge may be made or recovered for services forming part of the health service provided only for the purpose of giving treatment, the need for which arose during the visit, in respect of an overseas visitor described in paragraph (3).
+
+(3) For the purposes of paragraph (2) an overseas visitor is a person who is resident in an EEA State and, at the time that the treatment which constitutes the service is provided—
+
+- (a) holds a European Health Insurance card issued by the competent institution of an EEA State or Switzerland,
+- (b) holds a Provisional Replacement Certificate issued by the competent institution of an EEA State or Switzerland, or
+- (c) would have been eligible to be issued with a European Health Insurance Card by the United Kingdom if IP completion day had not occurred.
+
+## 6. Exemption from charges for treatment provided to a member of the forces of the North Atlantic Treaty Organisation[^key-ab630856bf520ff472455e684b92c1fb]
+
+No charge shall be made or recovered for the provision of services forming part of the health service required for the treatment of a person to whom Article IX(5) of the North Atlantic Treaty Organisation Status of Forces Agreement[^f00023] applies, where such treatment cannot readily be provided by the medical services of the armed forces of his own country or of the United Kingdom.
+
+## 6A. Exemption from charges for exceptional humanitarian reasons[^key-2546f6eebc4aeb236b0afbc2c7f2878d]
+
+(1) Where an overseas visitor who has been granted leave to enter the United Kingdom for a course of treatment applies, or someone applies on behalf of that person, for exemption from charges for services forming part of the health service, the Scottish Ministers may determine where they consider that exceptional humanitarian reasons justify it, that no charge shall be made or recovered in respect of that person and that course of treatment.
+
+(2) Such a determination may only be made by the Scottish Ministers if they are satisfied in the case of that person that–
+
+- (a) the treatment specified is not available in that person’s home country;
+- (b) the necessary arrangements have been made for temporary accommodation for that person, the authorised companion (if any) and any authorised child for the duration of the course of treatment; and
+- (c) the necessary arrangements have been made for the return of that person, the authorised companion (if any) and any authorised child to their home country when the course of treatment is completed.
+
+## 6B. Exemption from charges for overseas visitors with UK reciprocal healthcare entitlements before IP completion day[^key-45552ae31d92493608ecf4f4d181e126]
+
+(1) No charge may be made or recovered in respect of any services forming part of the health service provided on or after IP completion day to an overseas visitor who is ordinarily resident in an EEA State or Switzerland, was ordinarily resident there immediately before IP completion day, and either—
+
+- (a) immediately before IP completion day held a valid UK reciprocal healthcare document, or
+- (b) at the time that the treatment which constitutes the services was provided, would have been eligible to be issued with a UK reciprocal healthcare document if IP completion day had not occurred.
+
+(2) In paragraph (1) “UK reciprocal healthcare document” means an S1 certificate, A1 healthcare certificate, European Health Insurance Card or equivalent document issued by a competent institution of the United Kingdom.
+
+## 6C. EU Exit: transitional arrangements
+
+(1) No charge may be made or recovered in respect of any services forming part of the health service provided on or after IP completion day to an overseas visitor who is ordinarily resident in an EEA State or Switzerland, as part of a course of treatment which was authorised before IP completion day in accordance with Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) or Regulation [(EEC) No 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408).
+
+(2) No charge may be made or recovered in respect of any services forming part of the health service provided before 31 December 2020 to a person who is an overseas visitor by virtue of section 39 of the Immigration Act 2014[^f00005] and who may be granted leave to remain in the United Kingdom by virtue of Appendix EU to the immigration rules[^f00006] (EU citizens and family members). This applies whether or not the person has applied for or has been granted leave to remain under Appendix EU to the immigration rules.
+
+## 7. Liability for payment of charges[^key-e1e725f6b8611391507fb1d0ae652ec2]
+
+The person liable to pay charges payable by virtue of these Regulations shall be the overseas visitor in respect of whom the services are provided except that—
+
+- (a) if the overseas visitor is employed to work on and for the purposes of a ship or vessel and is present in the United Kingdom in the course of such employment, the person liable to pay such charges shall be the owner of the ship or vessel on which the overseas visitor is employed; and
+- (b) if the overseas visitor is employed to work on and for the purposes of an aircraft and is present in the United Kingdom in the course of such employment, the person liable to pay such charges shall be his employer.
+
+## 8. Repayments[^key-fa96b7137f6cfa18856341f15c1cd855]
+
+(1) Where a sum has been paid as a charge for services forming part of the health service ,[^key-c644e17c22638e6b205811acc316967f] [^key-f96c95c96f8dde4b76e4f4189ae97fca]... by or on behalf of a person who, at the time services were provided for such person, was not an overseas visitor in respect of whom, or did not receive services for which, such a charge was payable, a claim for repayment of the sum may be made by presenting to the Health Board or, as the case may be, the NHS trust[^M_F_6197459d-274a-4e4b-d139-9a7903219940] by which the charge was made and recovered—
+
+- (a) the receipt for payment of such sum;
+- (b) a declaration in support of the claim signed by or on behalf of the claimant; and
+- (c) such evidence in support of the declaration as the Health Board or the NHS trust[^M_F_2447b8cc-2b0b-4c19-8f9e-c9d24b7ea51a] may require.
+
+(2) The Health Board or the NHS trust[^M_F_00d5cdce-50a9-4d78-97cc-ccc2cf28eb80], if satisfied by the evidence so produced that the sum to which the receipt relates was not payable by virtue of these Regulations, shall repay to the claimant the amount of any such sum.
+
+(3)[^key-9a6b4d4b641cd47300faebec734cb95c] Where a sum has been paid as a charge for an oral health assessment, dental examination, eye examination or sight test[^key-08af58a79130ed331ab52d3e963a9d8e] by or on behalf of a person who, at the time the services were provided for such person, was not an overseas visitor in respect of whom, or did not receive services for which, such a charge was payable, a claim for repayment of the sum may be made by presenting to the person by whom the charge was made and recovered–
+
+- (a) the receipt for payment of such sum;
+- (b) a declaration in support of the claim signed by or on behalf of the claimant; and
+- (c) such evidence in support of the declaration as that person may require.
+
+(4) The person who made and recovered the charge, if satisfied by the evidence so produced that the sum to which the receipt relates was not payable by virtue of these Regulations, shall repay to the claimant the amount of any such sum.
+
+## 9. Revocations[^key-e997db657823ceeac835099807dae709]
+
+The Regulations specified in Schedule 3 are hereby revoked.
+
+Michael B Forsyth
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE 1 — DISEASES FOR THE TREATMENT OF WHICH NO CHARGE IS TO BE MADE[^key-cbb080fc4f6bedc6c8a75510fca9ec47]
+
+Regulation 3(c)
+
+[^key-cbb080fc4f6bedc6c8a75510fca9ec47]
+
+- Anthrax
+- Bacillary dysentery
+- Chickenpox
+- Cholera
+- Diphtheria
+- Erysipelas
+- Food poisoning
+- Human Immunodeficiency Virus[^key-aecb24eb7574a243881c58d3e57e7142]
+- Legionellosis
+- Leptospirosis
+- Lyme disease[^key-c241ce10c7c50cbf8f5a337d4428fd9d]
+- Malaria
+- Measles
+- Membranous croup
+- Meningococcal infection
+- Monkeypox[^key-46c3e085503a17358f432a4198e0c372]
+- Mumps
+- Pandemic Influenza (defined as “phase 6” in the World Health Organisation's (“[^key-e4a705e4c41bad37389a934cf274e45b]WHO”) influenza pandemic phases), or Influenza that might become pandemic (defined as “phase 4” or “phase 5” by WHO).
+- Paratyphoid fever
+- Plague
+- Poliomyelitis
+- Puerperal fever
+- Rabies
+- Relapsing fever
+- Rubella
+- Scarlet fever
+- Severe Acute Respiratory Syndrome[^key-7be59644f1cafc481eb38e9c74dbe25f]
+- Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)[^key-c4d5e1d997ee33992dd466d817d8d0fd]
+- Smallpox
+- Tetanus
+- Toxoplasmosis
+- Tuberculosis
+- Typhoid fever
+- Typhus fever
+- Viral haemorrhagic fevers[^M_F_a4ac4f91-4afd-41aa-92e6-34890eb047df]
+- Viral hepatitis
+- Whooping cough
+- [^key-dee63629fcf9d522a58b9ff3c8cd54a3]...
+
+## SCHEDULE 2 — COUNTRIES OR TERRITORIES IN RESPECT OF WHICH THE UNITED KINGDOM GOVERNMENT HAS ENTERED INTO A RECIPROCAL AGREEMENT[^key-fb00f44d18cad0c12d816a80e7189b85]
+
+Regulations 4(0), 5(c) and (e)
+
+[^key-fb00f44d18cad0c12d816a80e7189b85]
+
+- Anguilla[^key-11d680750f929201848a96b45cddaef7]
+- Australia
+- Bermuda[^key-331013e64d1062533c03b5da00d185fe]
+- Bosnia and Herzegovina
+- British Virgin Islands
+- Cayman Islands[^key-2753cfe3655aeccfa5445805d5edb32e]
+- Falkland Islands
+- Faroe Islands
+- Gibraltar
+- Bailiwick of Guernsey[^key-09e9925c6ab6bdb00c4fa11547e523eb]
+- Iceland
+- Isle of Man
+- Jersey
+- Kosovo
+- Liechtenstein
+- North Macedonia
+- Malta[^key-6eea263bf26ae4d7cd2e1e373884ae59]
+- Montenegro
+- Montserrat
+- New Zealand
+- Norway
+- Pitcairn, Henderson, Ducie and Oeno Islands[^key-872254d105099bdd233d3dbe8e7bb828]
+- Serbia
+- St Helena, Ascension and Tristan da Cunha[^key-79bdc35b643929d919960f13b10da7d8]
+- Switzerland
+- Turks and Caicos Islands
+
+## SCHEDULE 3 — REVOCATIONS[^key-4fb820e0df2a7bb49fcb017a41b51161]
+
+Regulation 9
+
+| Regulations Revoked | References |
+| --- | --- |
+| The National Health Service (Charges to Overseas Visitors).(Scotland) Regulations 1982 | [S.I. 1982/898](https://www.legislation.gov.uk/uksi/1982/898). |
+| The National Health Service (Charges to Overseas Visitors) Amendment Regulations 1982 | [S.I. 1982/1743](https://www.legislation.gov.uk/uksi/1982/1743). |
+| The National Health Service (Charges to Overseas Visitors) Amendment Regulations 1983 | [S.I. 1983/362](https://www.legislation.gov.uk/uksi/1983/362). |
+| The National Health Service (Charges to Overseas Visitors) Amendment Regulations 1984 | [S.I. 1984/295](https://www.legislation.gov.uk/uksi/1984/295). |
+| The National Health Service (Charges to Overseas Visitors) Amendment Regulations 1985 | [S.I. 1985/383](https://www.legislation.gov.uk/uksi/1985/383). |
+| The National Health Service (Charges to Overseas Visitors) Amendment (No. 2) Regulations 1986 | [S.I. 1986/924](https://www.legislation.gov.uk/uksi/1986/924). |
+| The National Health Service (Charges to Overseas Visitors) Amendment Regulations 1987 | [S.I. 1987/387](https://www.legislation.gov.uk/uksi/1987/387). |
+| The National Health Service (Charges to Overseas Visitors) Amendment Regulations 1988 | [S.I. 1988/13](https://www.legislation.gov.uk/uksi/1988/13). |
+| The National Health Service (Charges to Overseas Visitors) Amendment (No. 2) Regulations 1988 | [S.I. 1988/462](https://www.legislation.gov.uk/uksi/1988/462). |
+
+(This note is not part of the Regulations)
+
+These Regulations consolidate and replace with amendments earlier Regulations on the subject of charges for accommodation, services and other facilities provided as part of the health service in respect of persons not ordinarily resident in the United Kingdom (“overseas visitors”).
+
+The Regulations take account of changes made to section 98 of the National Health Service (Scotland) Act 1978 by section 7(13) and (14) of the Health and Medicines Act 1988 to the effect that the charge to be paid by an overseas visitor is no longer prescribed in the Regulations, but is determined by the Secretary of State. The power of the Secretary of State in this regard has been delegated to Health Boards. (See the National Health Service (Functions of Health Boards) (Scotland) Order 1989 ([S.I. 1989/446](https://www.legislation.gov.uk/uksi/1989/446)).)
+
+Regulations 2 and 7 provide for a Health Board to make a charge and recover such charge from the person who is liable to make payment. There are exemptions from payment for certain services (regulation 3 and Schedule 1); in respect of certain overseas visitors (regulation 4 and Schedule 2); for emergency treatment (regulation 5) and for certain service personnel (regulation 6). Provision is also made for repayment where a charge was not duly made (regulation 8). The list of diseases set out at Schedule 1 has been amended in the light of the Public Health (Notification of Infectious Diseases) (Scotland) Regulations 1988 ([S.I. 1988/1550](https://www.legislation.gov.uk/uksi/1988/1550)).
+
+The instruments which these Regulations replace are revoked by regulation 9 and Schedule 3.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); section 98 was amended by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), section 7(13) and (14); section 105, which was amended by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 6, paragraph 5 and Schedule 7 and by the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), Schedule 9, paragraph 24, contains provisions relevant to the making of Regulations; section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made.
+
+[^key-e813f862c793ef1b250752b8db6b29e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/364/regulation/1) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^key-c59d9cac88b96c1f4d26e5ebfee348b4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2004/369/regulation/2)
+
+[^f00002]: Footnote: [1975 c. 61](https://www.legislation.gov.uk/ukpga/1975/61)
+
+[^f00003]: Footnote: [S.I. 1975/1504 (N.I. 16)](https://www.legislation.gov.uk/nisi/1975/1504).
+
+[^key-7ce725718181513742bc104744748d3f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) inserted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2019/333/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-24b39c0cf31e83ccd130fac44ce7e139]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) omitted (6.10.2008) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(1)(c)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/1/c)
+
+[^f00004]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29)
+
+[^key-8b94639b7318103b61427cbfa49a528a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) inserted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 6(a)(iii)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/6/a/iii)
+
+[^key-be2cbc25846e00cc42ee2f07867569c2]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) inserted (6.10.2008) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/1/a)
+
+[^M_F_3ed0e502-761f-4962-fcdc-7bbfa9fe6128]: Textual amendment: asp. 13.
+
+[^key-3e9edb4d4acffd1fa8fcbad5fd5199fb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) omitted (6.10.2008) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(1)(d)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/1/d)
+
+[^key-a06dbb07393263927023473f63cb5a10]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) substituted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_ede0a2c9-a6ea-49bd-8b56-503482fae2d0]: Textual amendment: OJ L 166, 30.04.2004, p.1.
+
+[^M_F_f95bb5a1-8645-438b-b82e-6c3a94f5e3fd]: Textual amendment: OJ L 149, 05.07.1971, p.2 (OJ/SE 1st Series vol 2, p.416).
+
+[^key-d67b868b9e0438b80bcb3334e02fadeb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) omitted (1.7.2013) by virtue of [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 6(a)(ii)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/6/a/ii)
+
+[^key-5bdc6b19c858c7bde8c43956beb6b96b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) omitted (6.10.2008) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(1)(e)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/1/e)
+
+[^key-b064cc04ce1fd9a37628b2efd6333707]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) inserted (1.4.2006) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/141)](https://www.legislation.gov.uk/ssi/2006/141), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/141/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2006/141/regulation/2/a)
+
+[^M_F_2bea8c45-73f3-40c4-edf4-3828263d60b3]: Textual amendment: Section 26(1) was amended by the [Health and Social Security Act 1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48) section 1(7) and Schedule I Part II, paragraph 1, extended by the [Health and Medicines Act 1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49) sections 17(1) and 13(4), and is amended by the 2005 Act, section 13(2) in terms of S.S.I. 2006)/121 with effect from 1st April 2006.
+
+[^key-66ca99ed4e7aee94302608db20500493]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) inserted (6.10.2008) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/1/b)
+
+[^f00006]: Footnote: Cmd. 9171 of 1954.
+
+[^f00007]: Footnote: Cmnd. 3906 of 1968.
+
+[^key-b069d5f5973d9c743d6fe4ae7f0b1b38]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) substituted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 6(a)(i)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/6/a/i)
+
+[^M_F_ae243fbc-e075-4f65-f6ab-bd6357f34b4d]: Textual amendment: Words in reg. 1(2) substituted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1992/411/regulation/2/a)
+
+[^key-279773db0d67a0b028e8db3ff7c0cac6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/2) substituted (6.10.2008) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(1)(f)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/1/f)
+
+[^f00009]: Footnote: Cmnd. 1098 of 1960.
+
+[^M_F_8e25b995-26eb-4e79-a4a7-e887b4fbf679]: Textual amendment: Words in reg. 1(2) inserted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1992/411/regulation/2/b)
+
+[^key-50a266c5844fe3182bdbd7bbfb8c600d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/364/regulation/2) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^M_F_de6446dc-6031-4842-d182-4da39a3b0413]: Textual amendment: Words in reg. 2(1) inserted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1992/411/regulation/3/a)
+
+[^M_F_20c54176-9de8-4f21-f00c-71611fb325f7]: Textual amendment: Words in reg. 2(1) inserted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1992/411/regulation/3/b)
+
+[^M_F_8945e5b0-0a0a-4247-9ccf-0ab7c919f2cf]: Textual amendment: Words in reg. 2(2) inserted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/1992/411/regulation/3/c)
+
+[^key-63892cf801cb2fa99598e2f8fab64ac1]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1989/364/regulation/2/3) substituted (6.10.2008) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/2)
+
+[^key-3787a4fe25f4a387aef9fdac9f11324f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1989/364/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/1989/364/regulation/2/4) inserted (1.4.2006) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/141)](https://www.legislation.gov.uk/ssi/2006/141), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/141/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2006/141/regulation/3)
+
+[^key-bcce755ac69fa14fa0222a1c43cf7fe2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/364/regulation/3) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^key-88a3734a53fd97e22079971eceb5df71]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/1989/364/regulation/3/a) substituted (3.8.1994) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1994 (S.I. 1994/1770)](https://www.legislation.gov.uk/uksi/1994/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1770/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1994/1770/regulation/3)
+
+[^key-f5e9acdfde39b41c794e672eef009c05]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1989/364/regulation/3) inserted (1.4.2006) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/141)](https://www.legislation.gov.uk/ssi/2006/141), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/141/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2006/141/regulation/4)
+
+[^key-1f7be79bf382c434fa0da9c82b078524]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/1989/364/regulation/3/b) substituted (6.10.2008) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/3)
+
+[^M_F_69b9b02f-70ae-4f8d-815d-92c82a6b2d77]: Textual amendment: Reg. 3(bb) inserted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1992/411/regulation/4)
+
+[^key-62c8a7b9819485b80e1fb7b21d74e276]: Textual amendment: Words in [reg. 3(d)](https://www.legislation.gov.uk/uksi/1989/364/regulation/3/d) omitted (1.5.2014) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) Regulations 2014 (S.S.I. 2014/70)](https://www.legislation.gov.uk/ssi/2014/70), [regs. 1](https://www.legislation.gov.uk/ssi/2014/70/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/70/regulation/2/2)
+
+[^key-029824a4192751d11911153898f9938b]: Textual amendment: Words in [reg. 3(e)](https://www.legislation.gov.uk/uksi/1989/364/regulation/3/e) substituted (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/445)](https://www.legislation.gov.uk/ssi/2005/445), [arts. 1](https://www.legislation.gov.uk/ssi/2005/445/article/1), [2](https://www.legislation.gov.uk/ssi/2005/445/article/2), [sch. para. 6](https://www.legislation.gov.uk/ssi/2005/445/schedule/paragraph/6)
+
+[^key-b6fde6bc36c79ccb55d23adc73eedb79]: Textual amendment: Words in [reg. 3(f)](https://www.legislation.gov.uk/uksi/1989/364/regulation/3/f) substituted (1.2.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential and Supplementary Provisions) Order 2011 (S.S.I. 2011/25)](https://www.legislation.gov.uk/ssi/2011/25), [art. 1](https://www.legislation.gov.uk/ssi/2011/25/article/1), [sch. para. 3](https://www.legislation.gov.uk/ssi/2011/25/schedule/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/25/article/3))
+
+[^key-4a98bf1d1acb89258de107833f276e2c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/364/regulation/4) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^key-fed38ab93e8c13fb044b9193d86cb7ab]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1) substituted for [reg. 4](https://www.legislation.gov.uk/uksi/1989/364/regulation/4) (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2004/369/regulation/3/1/a)
+
+[^key-8ca7287143bc8fad3342ddc3f1cf1e44]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/572)](https://www.legislation.gov.uk/ssi/2005/572), [arts. 1](https://www.legislation.gov.uk/ssi/2005/572/article/1), [6](https://www.legislation.gov.uk/ssi/2005/572/article/6)
+
+[^M_F_30fb6304-ab4e-4d48-dcbc-94e94221f7d0]: Textual amendment: Words in reg. 4(a) inserted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1992/411/regulation/5)
+
+[^f00013]: Footnote: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46); section 64 ceased to have effect with regard to Scotland by virtue of section 3 of the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41) (“the 1983 Act”), and was amended by [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699), by the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), Schedule 4, paragraph 125(2) and by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 1, paragraph 19(1)(4).
+
+[^f00014]: Footnote: Section 16B was inserted by the 1983 Act, section 3.
+
+[^f00015]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
+
+[^key-bab63da5ba45a1cb4a3982ea85aece5d]: Textual amendment: [Reg. 4(a)(iii)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/a/iii) revoked (4.3.1998) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1998 (S.I. 1998/251)](https://www.legislation.gov.uk/uksi/1998/251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/251/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1998/251/regulation/2/1/a)
+
+[^key-9088c81e50d7dacecfcfb333f1187d0e]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/b) inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [3(1)(b)(i)](https://www.legislation.gov.uk/ssi/2004/369/regulation/3/1/b/i)
+
+[^key-59cfce28b66720a9b1a0ae6f04d4552a]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/b) substituted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [3(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2004/369/regulation/3/1/b/ii)
+
+[^key-ec564c0d79ff39fc091378f0b9bf2fb9]: Textual amendment: [Reg. 4(1)(ca)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/ca) inserted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00016]: Footnote: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597); the relevant amending instrument is [S.I. 1980/1927](https://www.legislation.gov.uk/uksi/1980/1927)
+
+[^f00017]: Footnote: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81)
+
+[^key-6c9a2a0d5cbf8db46ba0e70019b22a54]: Textual amendment: Word in [reg. 4(1)(k)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/k) inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/ssi/2004/369/regulation/3/1/c)
+
+[^key-1537cc2edb4d4e489d2664ae14c32615]: Textual amendment: Word in [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/l) substituted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2019/333/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9f553e14b164b5721db98bc48209304a]: Textual amendment: Words in [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/l) substituted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 6(b)(i)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/6/b/i)
+
+[^f00018]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14)
+
+[^f00019]: Footnote: [1975 c. 15](https://www.legislation.gov.uk/ukpga/1975/15)
+
+[^key-8dd8573570af77cbc07feec9f0669b73]: Textual amendment: [Reg. 4(1)(m)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/m) omitted (31.12.2020) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2019/333/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00020]: Footnote: [1952 c. 61](https://www.legislation.gov.uk/ukpga/1952/61); section 31(1) was amended by the Criminal Justice (Scotland) Act [1963 (c. 39)](https://www.legislation.gov.uk/ukpga/1963/39), section 2(1) and Schedule 5, and by the Criminal Justice (Scotland) Act [1980 (c. 62)](https://www.legislation.gov.uk/ukpga/1980/62), Schedule 7, paragraph 3(a).
+
+[^f00021]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)
+
+[^key-e490b41fe888ba1aeeddd1d848086bab]: Textual amendment: Word in [reg. 4(o)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/o) inserted (3.8.1994) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1994 (S.I. 1994/1770)](https://www.legislation.gov.uk/uksi/1994/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1770/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1994/1770/regulation/4/a)
+
+[^key-221b204307fd55bbf2c4c50923741ab7]: Textual amendment: [Reg. 4(p)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/p) inserted (3.8.1994) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1994 (S.I. 1994/1770)](https://www.legislation.gov.uk/uksi/1994/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1770/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1994/1770/regulation/4/b)
+
+[^key-7c86d2edf59492da7eb97211afced17b]: Textual amendment: Words in [reg. 4(1)(p)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/p) substituted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 6(b)(ii)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/6/b/ii)
+
+[^key-376fedebf3ead018693689342b2cf4e1]: Textual amendment: Words in [reg. 4(1)(p)(i)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/p/i) inserted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2019/333/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9cd0ceada4a541ad4dd050bf8642587c]: Textual amendment: Word in [reg. 4(p)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/p) inserted (4.3.1998) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1998 (S.I. 1998/251)](https://www.legislation.gov.uk/uksi/1998/251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/251/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1998/251/regulation/2/1/b)
+
+[^key-d4fa4cf16da5ec3d91aeb192177d12b9]: Textual amendment: Word in [reg. 4(1)(p)(iv)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/p/iv) omitted (6.10.2008) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/4/a)
+
+[^key-ee4bbc51e0f2f906cb8662f50f56ac4a]: Textual amendment: [Reg. 4(q)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/q) inserted (4.3.1998) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1998 (S.I. 1998/251)](https://www.legislation.gov.uk/uksi/1998/251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/251/regulation/1/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/1998/251/regulation/2/1/c)
+
+[^key-f6ef2a98ffcd0b8d615d2f754270c68b]: Textual amendment: [Reg. 4(1)(r)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/1/r) and word inserted (6.10.2008) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/4/b)
+
+[^M_F_aa826812-a003-4c76-9d78-0ef9db947daf]: Textual amendment: The Council of Europe Convention on Action against Trafficking in Human Beings (CETS No. 197).
+
+[^key-7aa2b0a716901aa66cf5a20c68fa4aaa]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4/2) inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2004/369/regulation/3/2)
+
+[^key-3b42b70f76787afeb9f6e82eed9186b2]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1989/364/regulation/4A) inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2004/369/regulation/4)
+
+[^key-c73d84bc5fb33d4e0002fc485813ec0b]: Textual amendment: Words in [reg. 4A(a)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4A/a) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [13(2)](https://www.legislation.gov.uk/uksi/2015/1985/article/13/2)
+
+[^key-c741d96ba85d01ea23e69a9201263fb1]: Textual amendment: Word in [reg. 4A(b)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4A/b) substituted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-41e482c0f854b025c6ccd56b465bdc4d]: Textual amendment: Words in [reg. 4A](https://www.legislation.gov.uk/uksi/1989/364/regulation/4A) substituted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 6(c)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/6/c)
+
+[^key-a7207be29dd0115cb0348ef61d6152ff]: Textual amendment: Word in [reg. 4A(c)](https://www.legislation.gov.uk/uksi/1989/364/regulation/4A/c) substituted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2019/333/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ca71309aa0a13e0649b85b6ff117bf9f]: Textual amendment: [Reg. 4B](https://www.legislation.gov.uk/uksi/1989/364/regulation/4B) inserted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2019/333/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-75add116bdfff4438529f0d93ed56717]: Textual amendment: [Reg. 4C](https://www.legislation.gov.uk/uksi/1989/364/regulation/4C) inserted (24.3.2022 at 5.00 p.m.) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/114)](https://www.legislation.gov.uk/ssi/2022/114), [regs. 1](https://www.legislation.gov.uk/ssi/2022/114/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/114/regulation/2/2)
+
+[^M_F_043563d0-885d-43c1-f8a5-5a855cc657f2]: Textual amendment: Regulation 2 was amended by [S.I. 1992/411](https://www.legislation.gov.uk/uksi/1992/411), [S.S.I. 2006/141](https://www.legislation.gov.uk/ssi/2006/141) and [S.S.I. 2008/290](https://www.legislation.gov.uk/ssi/2008/290).
+
+[^M_F_077c337d-79a7-47fd-b808-1fad95cf4e4b]: Textual amendment: Regulation 8 was amended by [S.I. 1992/411](https://www.legislation.gov.uk/uksi/1992/411), [S.S.I. 2006/141](https://www.legislation.gov.uk/ssi/2006/141) and [S.S.I. 2008/290](https://www.legislation.gov.uk/ssi/2008/290).
+
+[^key-13ae6e85e06795bbd6ce91f6b634b026]: Textual amendment: [Reg. 4D](https://www.legislation.gov.uk/uksi/1989/364/regulation/4D) inserted (8.10.2025) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/280)](https://www.legislation.gov.uk/ssi/2025/280), [regs. 1](https://www.legislation.gov.uk/ssi/2025/280/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/280/regulation/2/2)
+
+[^key-f1e392a0cec3732769bf5de3101133f9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/364/regulation/5) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^key-f14157a4476662e8aa7042d2b04094d0]: Textual amendment: [Reg. 5(a)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/a) omitted (31.12.2020) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2019/333/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-16eba3b209cabfbc9faf121aeea06f7f]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/572)](https://www.legislation.gov.uk/ssi/2005/572), [arts. 1](https://www.legislation.gov.uk/ssi/2005/572/article/1), [6](https://www.legislation.gov.uk/ssi/2005/572/article/6)
+
+[^key-c88a952cb890201326a3bf97858f27d1]: Textual amendment: Word in [reg. 5(b)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/b) inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/ssi/2004/369/regulation/5/a/i)
+
+[^key-a9cd704c461b2a44e1f423b2c2b397e5]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/b) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [13(3)](https://www.legislation.gov.uk/uksi/2015/1985/article/13/3)
+
+[^key-198ba2e796f680cd3527f4afa4a526d9]: Textual amendment: Words in [reg. 5(c)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/c) substituted (1.7.2023) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/173)](https://www.legislation.gov.uk/ssi/2023/173), [regs. 1](https://www.legislation.gov.uk/ssi/2023/173/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/173/regulation/2/2)
+
+[^f00022]: Footnote: Cmd. 9512 of 1955.
+
+[^key-2d372a76914b7fb8e8ecc81b707e16cb]: Textual amendment: Words in [reg. 5(e)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/e) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/572)](https://www.legislation.gov.uk/ssi/2005/572), [arts. 1](https://www.legislation.gov.uk/ssi/2005/572/article/1), [6](https://www.legislation.gov.uk/ssi/2005/572/article/6)
+
+[^key-9b426c5d62e0c142e98dba7fa5bc8ab7]: Textual amendment: Word in [reg. 5(e)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/e) inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/ssi/2004/369/regulation/5/a/ii)
+
+[^key-7848c7357f2dbe0331573df023d6d9b5]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1989/364/regulation/5) substituted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 6(d)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/6/d)
+
+[^key-78bd197d5173b35708223fc1b04352ef]: Textual amendment: Reg. 5(f) and word inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2004/369/regulation/5/b)
+
+[^key-8aa82abafce7537dcc565a73581327af]: Textual amendment: [Reg. 5(g)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/g) and word inserted (1.5.2012) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/87)](https://www.legislation.gov.uk/ssi/2012/87), [regs. 1](https://www.legislation.gov.uk/ssi/2012/87/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/87/regulation/2/2)
+
+[^key-5ad02118f6534847e6bd9a11b8866f91]: Textual amendment: [Reg. 5(fa)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/fa) inserted (1.5.2014) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) Regulations 2014 (S.S.I. 2014/70)](https://www.legislation.gov.uk/ssi/2014/70), [regs. 1](https://www.legislation.gov.uk/ssi/2014/70/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2014/70/regulation/2/3/a)
+
+[^key-ebd14d186be5e3cee647b7919d7c3a29]: Textual amendment: [Reg. 5(g)](https://www.legislation.gov.uk/uksi/1989/364/regulation/5/g) omitted (1.5.2014) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) Regulations 2014 (S.S.I. 2014/70)](https://www.legislation.gov.uk/ssi/2014/70), [regs. 1](https://www.legislation.gov.uk/ssi/2014/70/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2014/70/regulation/2/3/b)
+
+[^key-df8755b12512c88509db3627af562139]: Textual amendment: [Regs. 5A-5C](https://www.legislation.gov.uk/uksi/1989/364/regulation/5A) inserted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2019/333/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ab630856bf520ff472455e684b92c1fb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/364/regulation/6) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^f00023]: Footnote: Cmd. 9363 of 1955 and Cmnd. 2191 of 1963.
+
+[^key-2546f6eebc4aeb236b0afbc2c7f2878d]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/1989/364/regulation/6A) inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2004/369/regulation/6)
+
+[^key-45552ae31d92493608ecf4f4d181e126]: Textual amendment: [Regs. 6B](https://www.legislation.gov.uk/uksi/1989/364/regulation/6B), [6C](https://www.legislation.gov.uk/uksi/1989/364/regulation/6C) inserted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2019/333/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00005]: Footnote: See Article (f) of Council Regulation No. 1408/71, O.J. No. L149/2, 5.7.71 (O.J./S.E. 1971(II) p.416) and Council Regulation No. 1390/81, O.J. No. L143, 12.5.81.
+
+[^key-e1e725f6b8611391507fb1d0ae652ec2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/364/regulation/7) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^key-fa96b7137f6cfa18856341f15c1cd855]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/364/regulation/8) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^key-c644e17c22638e6b205811acc316967f]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/8/1) inserted (1.4.2006) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/141)](https://www.legislation.gov.uk/ssi/2006/141), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/141/regulation/1/1), [5(1)](https://www.legislation.gov.uk/ssi/2006/141/regulation/5/1)
+
+[^key-f96c95c96f8dde4b76e4f4189ae97fca]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/8/1) omitted (6.10.2008) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/5/a)
+
+[^M_F_6197459d-274a-4e4b-d139-9a7903219940]: Textual amendment: Words in reg. 8(1) inserted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/1992/411/regulation/6/a)
+
+[^M_F_2447b8cc-2b0b-4c19-8f9e-c9d24b7ea51a]: Textual amendment: Words in reg. 8(1)(c) inserted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/1992/411/regulation/6/b)
+
+[^M_F_00d5cdce-50a9-4d78-97cc-ccc2cf28eb80]: Textual amendment: Words in reg. 8(2) inserted (1.4.1992) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1992 (S.I. 1992/411)](https://www.legislation.gov.uk/uksi/1992/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/411/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/1992/411/regulation/6/b)
+
+[^key-9a6b4d4b641cd47300faebec734cb95c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/1989/364/regulation/8/3)[(4)](https://www.legislation.gov.uk/uksi/1989/364/regulation/8/4) inserted (1.4.2006) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/141)](https://www.legislation.gov.uk/ssi/2006/141), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/141/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2006/141/regulation/5/2)
+
+[^key-08af58a79130ed331ab52d3e963a9d8e]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/1989/364/regulation/8/3) substituted (6.10.2008) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/290)](https://www.legislation.gov.uk/ssi/2008/290), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/290/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2008/290/regulation/2/5/b)
+
+[^key-e997db657823ceeac835099807dae709]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/364/regulation/9) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^key-cbb080fc4f6bedc6c8a75510fca9ec47]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1989/364/schedule/1) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^key-aecb24eb7574a243881c58d3e57e7142]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/364/schedule/1) inserted (1.5.2014) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) Regulations 2014 (S.S.I. 2014/70)](https://www.legislation.gov.uk/ssi/2014/70), [regs. 1](https://www.legislation.gov.uk/ssi/2014/70/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2014/70/regulation/2/4)
+
+[^key-c241ce10c7c50cbf8f5a337d4428fd9d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/364/schedule/1) inserted (3.8.1994) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 1994 (S.I. 1994/1770)](https://www.legislation.gov.uk/uksi/1994/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1770/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1994/1770/regulation/5)
+
+[^key-46c3e085503a17358f432a4198e0c372]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/364/schedule/1) inserted (16.6.2022 at 5.00 p.m.) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/213)](https://www.legislation.gov.uk/ssi/2022/213), [regs. 1](https://www.legislation.gov.uk/ssi/2022/213/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2022/213/regulation/2/a)
+
+[^key-e4a705e4c41bad37389a934cf274e45b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/364/schedule/1) inserted (8.5.2009) by [The National Health Service (Pharmaceutical Services, Charges for Drugs and Appliances and Charges to Overseas Visitors) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/177)](https://www.legislation.gov.uk/ssi/2009/177), [regs. 1](https://www.legislation.gov.uk/ssi/2009/177/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2009/177/regulation/4/2)
+
+[^key-7be59644f1cafc481eb38e9c74dbe25f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/364/schedule/1) inserted (28.9.2004) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/369)](https://www.legislation.gov.uk/ssi/2004/369), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/369/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2004/369/regulation/7)
+
+[^key-c4d5e1d997ee33992dd466d817d8d0fd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/364/schedule/1) inserted (16.6.2022 at 5.00 p.m.) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/213)](https://www.legislation.gov.uk/ssi/2022/213), [regs. 1](https://www.legislation.gov.uk/ssi/2022/213/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2022/213/regulation/2/b)
+
+[^M_F_a4ac4f91-4afd-41aa-92e6-34890eb047df]: Textual amendment: This entry covers, amongst others, Argentine haemorrhagic fever (Junin), Bolivian haemorrhagic fever (Machupo), Chikungunya haemorrhagic fever, Congo/Crimean haemorrhagic fever, Dengue fever, Ebola virus disease, haemorrhagic fever with renal syndrome (Hantaan), Kyasanur forest disease, Lassa fever, Marburg disease, Omsk haemorrhagic fever, Rift Valley disease and Yellow fever.
+
+[^key-dee63629fcf9d522a58b9ff3c8cd54a3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1989/364/schedule/1) omitted (16.6.2022 at 5.00 p.m.) by virtue of [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/213)](https://www.legislation.gov.uk/ssi/2022/213), [regs. 1](https://www.legislation.gov.uk/ssi/2022/213/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2022/213/regulation/2/c)
+
+[^key-fb00f44d18cad0c12d816a80e7189b85]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1989/364/schedule/2) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)
+
+[^key-11d680750f929201848a96b45cddaef7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1989/364/schedule/2) substituted (31.12.2020) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) (EU Exit) Regulations 2019 (S.S.I. 2019/333)](https://www.legislation.gov.uk/ssi/2019/333), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/333/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2019/333/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-331013e64d1062533c03b5da00d185fe]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1989/364/schedule/2) inserted (1.7.2023) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/173)](https://www.legislation.gov.uk/ssi/2023/173), [regs. 1](https://www.legislation.gov.uk/ssi/2023/173/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2023/173/regulation/2/3/a/i)
+
+[^key-2753cfe3655aeccfa5445805d5edb32e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1989/364/schedule/2) inserted (1.7.2023) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/173)](https://www.legislation.gov.uk/ssi/2023/173), [regs. 1](https://www.legislation.gov.uk/ssi/2023/173/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/173/regulation/2/3/a/ii)
+
+[^key-09e9925c6ab6bdb00c4fa11547e523eb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1989/364/schedule/2) inserted (1.1.2023) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment (No. 3) Regulations 2022 (S.S.I. 2022/335)](https://www.legislation.gov.uk/ssi/2022/335), [regs. 1](https://www.legislation.gov.uk/ssi/2022/335/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2022/335/regulation/2/a)
+
+[^key-6eea263bf26ae4d7cd2e1e373884ae59]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1989/364/schedule/2) inserted (1.1.2023) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment (No. 3) Regulations 2022 (S.S.I. 2022/335)](https://www.legislation.gov.uk/ssi/2022/335), [regs. 1](https://www.legislation.gov.uk/ssi/2022/335/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2022/335/regulation/2/b)
+
+[^key-872254d105099bdd233d3dbe8e7bb828]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1989/364/schedule/2) inserted (1.7.2023) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/173)](https://www.legislation.gov.uk/ssi/2023/173), [regs. 1](https://www.legislation.gov.uk/ssi/2023/173/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2023/173/regulation/2/3/a/iii)
+
+[^key-79bdc35b643929d919960f13b10da7d8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1989/364/schedule/2) substituted (1.7.2023) by [The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/173)](https://www.legislation.gov.uk/ssi/2023/173), [regs. 1](https://www.legislation.gov.uk/ssi/2023/173/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2023/173/regulation/2/3/b)
+
+[^key-4fb820e0df2a7bb49fcb017a41b51161]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1989/364/schedule/3) in force at 5.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/364/regulation/1/1)

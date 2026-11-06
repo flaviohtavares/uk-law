@@ -1,0 +1,163 @@
+---
+title: Horticultural Produce Act 1986
+id: ukpga/1986/20
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1986-06-26'
+text_date: '2015-05-26'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1986/20
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1986/20/pdfs/ukpga_19860020_en.pdf
+- http://www.legislation.gov.uk/ukpga/1986/20/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Horticultural Produce Act 1986
+
+> Text as at 2015-05-26.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Horticultural Produce Act 1986
+
+1986 c. 20
+
+An Act to confer on authorised officers (within the meaning of Part III of the Agriculture and Horticulture Act 1964) powers in relation to the movement of horticultural produce; and for purposes connected therewith.
+
+\[26th June 1986\]
+
+[^c792094]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-8fc2e4572d5e4c24693ebd7805f76210][^c792094]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9ef6836ad3020edd26919f24964e13b7][^key-4e8bdb888a7c84a60a511c904ba3d477][^key-6b15e1d7848f7099886b85984d271a2f][^key-b31716bb3da08b274586d3b8b68a1780][^key-d1053b0a34157a6b0b490d7f8c3a317b][^key-5e2c715a43441f3fb87c6414c7f2d123]
+
+## 1. Power to control the movement of produce.
+
+(1) Where an authorised officer inspects any produce which he is entitled to inspect under section 13 of the Act of 1964, he may prohibit its movement if he is satisfied that a grading offence is being committed in respect of it.
+
+(2) An officer who exercises the power conferred by subsection (1) above shall, without delay, give to the person who appears to him to be in charge of the produce concerned notice in writing—
+
+- (a) specifying the produce in relation to which the power has been exercised; and
+- (b) stating that the produce may not be moved without the written consent of an authorised officer.
+
+(3) If the person to whom the officer gives the notice does not appear to him to be the owner of the produce or an agent or employee of the owner, the officer shall use his best endeavours to bring the contents of the notice to the attention of such a person as soon as practicable.
+
+(4) An authorised officer may affix to any produce in relation to which the power conferred by subsection (1) above has been exercised, or to any container in which the produce is packed, labels warning of the exercise of the power.
+
+## 2. Consents to the movement of controlled produce.
+
+(1) An authorised officer may, at any time, give written consent to the movement of controlled produce.
+
+(2) An authorised officer shall, upon request, give written consent to the mo!vement of controlled produce if—
+
+- (a) he is satisfied that no grading offence would be committed in respect of the produce if it were sold in circumstances in which grading rules apply; or
+- (b) he, or another authorised officer, has been given a written undertaking that the produce will be disposed of in a specified manner, he is satisfied that if the produce is disposed of in that manner no grading offence will be committed in respect of it and he has no reason to doubt that t;he terms of the undertaking will be met.
+
+(3) An authorised officer shall, upon request, give written consent to the movement of controlled produce if—
+
+- (a) he, or another authorised officer, has been given a written undertaking to the effect that—
+  - (i) the produce will be moved to a place approved by an authorised officer;
+  - (ii) there will be taken there the steps required to ensure that the produce may be sold in circumstances in which grading rules apply without a grading ofSfence being committed in respect of it; and
+  - (iii) the produce will not be moved from that place without the written consent of an authorised officer; and
+- (b) he has no reason to doubt that the terms of the undertaking will be met.
+
+(4) A consent given by an authorised officer under this section shall—
+
+- (a) specify the produce to which it relates; and
+- (b) where the consent is given under subsection (3) above, state that the produce continues to be control\]led.
+
+## 3. Power to change the circumstances in which consent must be given.[^c792095]
+
+(1) The Ministers may by order made by statutory instrument make such amendments of this Act as they think fit for the purpose of changing the circumstances min which an authorised officer is required to give written consent to the movement of produce.
+
+(2) Before making such an order, the Ministers shall consult such organisations as appear to them to represent interests likely to be affected by the order.
+
+(2A)[^key-c71d32123e64b2599f0a28285cbf5cc5] Subsection (2) does not apply to an order which makes amendments that apply only in relation to England.
+
+(3) An order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) In this section “**the Ministers**” means the Minister of Agriculture, Fisheries and Food and the Secretary of State, acting jointly.
+
+## 4. Offences.
+
+(1) Any person who, knowing produce to be controlled, knowingly—
+
+- (a) moves it, or
+- (b) causes it to be removed,
+
+without the written consent of an authorised officer shall be guilty of an offence.
+
+(2) Any person who, knowing produce to be controlled, knowingly—
+
+- (a) removes from it, or
+- (b) causes to be moved from it,
+
+a label which has been affixed under section 1(4) of this Act shall be guilty of an offence.
+
+(3) Any person who fails to comply with an undertaking given by him for the purposes of section 2 of this Act shall be guilty of an offence.
+
+(4) It shall be a defence—
+
+- (a) for a person charged with any offence under this section, to prove that, when the power conferred by section 1(1) of this Act was exercised, no grading offence was being committed in respect of the produce concerned;
+- (b) for a person charged with an offence under subsection (1) or (2) above, to prove that there was a reasonable excuse for the act or omission in respect of which he is charged; and
+- (c) for a person charged with an offence under subsection (3) above, to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
+
+(5) A person guilty of an offence under this section shall be liable, on summary conviction, to a fine not exceeding level 5 on the standard scale.
+
+## 5. Extension of the Act of 1964.
+
+The following provisions of the Act of 1964 shall have effect as if the provisions of this Act were contained in Part III of that Act—
+
+- (a) section 15 (which penalises the obstruction of an authorised officer acting under that Part);
+- (b) section 19 (which applies in relation to the commission by corporations of offences under that Part); and
+- (c) section 20(3) (which provides that proceedings in England and Wales for an offence under that Part may only be instituted with the consent of the Attorney General or, in England, the Minister of Agriculture, Fisheries and Food and, in Wales, the Secretary of State).
+
+## 6. Interpretation.
+
+In this Act—
+
+- “**theAct of 1964**” means the Agriculture and Horticulture Act 1964;
+- “**authorised officer**” means a person who is an authorised officer for the purposes of Part III of the Act of 1964 (grading of fresh horticultural produce);
+- “**controlled**”, in relation to produce, means that the power conferred by section 1(1) of this Act has been exercised in relation to it and that no consent to its movement has been given under section 2(1) or (2) of this Act;
+- “**grading offence**” means .an offence under section 14(1) or (2) of the Act of 1964;
+- “**grading rules**” means the rules enforced under Part III of the Act of 1964.
+
+## 7. Short title, repeals, commencement and extent.
+
+(1) This Act may be cited as the Horticultural Produce Act 1986.
+
+(2)[^key-e774ebf5dca1d806973a24f15ae6ffa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-d0a9efa5efd0f39f3d0e1d2a1fd9cf5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) This Act does not extend to Northern Ireland.
+
+## Annotations
+
+[^c792094]: Modification: Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^key-8fc2e4572d5e4c24693ebd7805f76210]: Modification: Act excluded (S.) (1.7.2009) by [Marketing of Horticultural Produce (Scotland) Regulations 2009 (S.S.I. 2009/225)](https://www.legislation.gov.uk/ssi/2009/225), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/225/regulation/1/1), [24(a)](https://www.legislation.gov.uk/ssi/2009/225/regulation/24/a)
+
+[^key-9ef6836ad3020edd26919f24964e13b7]: Modification: Act excluded (1.7.2009) by [Marketing of Fresh Horticultural Produce Regulations 2009 (S.I. 2009/1361)](https://www.legislation.gov.uk/uksi/2009/1361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/22/a)
+
+[^key-4e8bdb888a7c84a60a511c904ba3d477]: Modification: Act excluded (16.7.2009) by [Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 (S.I. 2009/1551)](https://www.legislation.gov.uk/uksi/2009/1551), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1551/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1551/regulation/22/a)
+
+[^key-6b15e1d7848f7099886b85984d271a2f]: Modification: Act excluded (N.I.) (25.6.2010) by [The Marketing of Fresh Horticulture Produce Regulations (Northern Ireland) 2010 (S.R. 2010/198)](https://www.legislation.gov.uk/nisr/2010/198), [regs. 1](https://www.legislation.gov.uk/nisr/2010/198/regulation/1), [24(2)(a)](https://www.legislation.gov.uk/nisr/2010/198/regulation/24/2/a)
+
+[^key-b31716bb3da08b274586d3b8b68a1780]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/20) excluded (S.) (10.10.2011) by [The Bananas (Enforcement of Quality Standards) (Scotland) Regulations 2011 (S.S.I. 2011/325)](https://www.legislation.gov.uk/ssi/2011/325), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/325/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2011/325/regulation/21/a)
+
+[^key-d1053b0a34157a6b0b490d7f8c3a317b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/20) excluded (11.5.2012) by [The Quality Standards for Green Bananas (England and Wales) Regulations 2012 (S.I. 2012/947)](https://www.legislation.gov.uk/uksi/2012/947), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b), [22(a)](https://www.legislation.gov.uk/uksi/2012/947/regulation/22/a)
+
+[^key-5e2c715a43441f3fb87c6414c7f2d123]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/20) excluded (S.) (1.2.2013) by [The Marketing of Bananas (Scotland) Regulations 2012 (S.S.I. 2012/349)](https://www.legislation.gov.uk/ssi/2012/349), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/349/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2012/349/regulation/21/a)
+
+[^c792095]: Modification: S. 3: power to transfer certain functions conferred (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [arts. 2(1)(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1/5), [3](https://www.legislation.gov.uk/uksi/1999/3141/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule)
+
+[^key-c71d32123e64b2599f0a28285cbf5cc5]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1986/20/section/3/2A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/8)
+
+[^key-e774ebf5dca1d806973a24f15ae6ffa1]: Textual amendment: S. 7(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+
+[^key-d0a9efa5efd0f39f3d0e1d2a1fd9cf5e]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1986/20/section/7/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

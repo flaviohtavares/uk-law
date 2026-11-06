@@ -1,0 +1,479 @@
+---
+title: The Copyright and Rights in Performances (Extended Collective Licensing) Regulations 2014
+id: uksi/2014/2588
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-09-11'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/2588
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2588/pdfs/uksiem_20142588_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2588/pdfs/uksi_20142588_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2588/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Copyright and Rights in Performances (Extended Collective Licensing) Regulations 2014
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 2588
+
+Copyright
+
+The Copyright and Rights in Performances (Extended Collective Licensing) Regulations 2014
+
+Made
+
+11th September 2014
+
+Coming into force
+
+1st October 2014
+
+A draft of the Regulations has been laid before and approved by each House of Parliament under section 116D(5) of and paragraph 1D(5) of Schedule 2A to the Copyright, Designs and Patents Act 1988 [^c22220961].
+
+The Secretary of State, in exercise of the powers conferred by sections 116B to 116D of and paragraphs 1B to 1D of Schedule 2A to that Act, makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Copyright and Rights in Performances (Extended Collective Licensing) Regulations 2014 and shall come into force on 1st October 2014.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**Act**” means the Copyright, Designs and Patents Act 1988;
+- “**authorisation**” means an authorisation granted by the Secretary of State to a relevant licensing body under regulation 4 or 9;
+- [^key-b6c294880436aaf80a9067ef259904f9]...
+- [^key-b6c294880436aaf80a9067ef259904f9]...
+- “**Comptroller**” means the Comptroller-General of Patents, Designs and Trade Marks;
+- “**distribution policy**” means the distribution policy adopted and published by the relevant licensing body;
+- “**Extended Collective Licensing Scheme**” means a collective licensing scheme under which a relevant licensing body may grant licences in accordance with an authorisation under regulation 4 in respect of relevant works—
+  - (a) in which copyright is owned by non-member right holders; or
+  - (b) in relation to which the restricted acts in relation to the performance may be permitted or prohibited by non-member right holders;
+- “**financial year**” means the financial year of the relevant licensing body;
+- “**member**” means a right holder or a body representing right holders, including other relevant licensing bodies, fulfilling the membership requirements of and admitted to membership by a relevant licensing body;
+- “**net licence fee**” means the licence fee received by a relevant licensing body under an Extended Collective Licensing Scheme in respect of a relevant work less a reasonable administration fee;
+- “**non-member right holder**” means a right holder who is represented by the relevant licensing body under an Extended Collective Licensing Scheme but who is not a member of the relevant licensing body and whose rights in the relevant works are not the subject of an express contractual agreement with the relevant licensing body;
+- “**opt out arrangements**” means the steps to be followed by a right holder to limit or exclude the grant of licences under an Extended Collective Licensing Scheme;
+- “**permitted use**” means the acts—
+  - (a) restricted by copyright, or
+  - (b) to which sections 182, 182A, 182B, 182C, 182CA, 183 or 184 of the Act apply,
+
+  which the relevant licensing body is authorised to license;
+- “**relevant licensing body**” means any body that is a licensing body within the meaning of section 116(2)(a)[^key-85465b9db937ef81e0bb1280aa8aa200] of the Act and which—
+  - (a) is authorised by way of assignment, licence or any other contractual arrangement to manage the rights of right holders in relevant works on behalf of more than one right holder, for the collective benefit of those right holders, as its sole or main purpose; and
+  - (b) is either owned or controlled by its members or organised on a not for profit basis;
+- “**representation**” means the extent to which the relevant licensing body currently—
+  - (a) acts on behalf of right holders in respect of relevant works of the type which will be the subject of the proposed Extended Collective Licensing Scheme; and
+  - (b) holds right holders' rights in relevant works of the type which will be the subject of the proposed Extended Collective Licensing Scheme;
+- “**required consent**” means the informed consent of a substantial proportion of the members of the relevant licensing body who vote on the proposal;
+- “**relevant work**” has the meaning set out in regulation 3;
+- “**restricted acts**” means the acts in relation to a performance to which sections 182, 182A, 182B, 182C, 182CA, 183 or 184 of the Act [^c22220981] apply;
+- “**right holder**” has the meaning set out in regulation 3;
+- [^key-b6c294880436aaf80a9067ef259904f9]...
+
+## 3. Relevant work and right holder
+
+(1) “**Relevant work**” means a work which is protected by copyright or a performance in respect of which certain acts constitute restricted acts.
+
+(2) A reference to a “**relevant work**” includes a reference to a work or a performance, which itself falls within the definition of “relevant work” and is embedded in or incorporated in, or constitutes an integral part of, another relevant work.
+
+(3) “**Right holder**” in relation to a relevant work means—
+
+- (a) an owner of the copyright in the relevant work;
+- (b) a licensee under an exclusive licence in relation to the relevant work;
+- (c) a person with rights to permit or prohibit one or more of the restricted acts in relation to a performance recorded by the relevant work and, in the case of a performance, which is embedded in, or incorporated in or constitutes an integral part of a relevant work, a person with rights to permit or prohibit one or more of the restricted acts in relation to the performance; and
+- (d) a licensee under an exclusive licence in relation to those rights.
+
+## 4. Authorisation to operate an Extended Collective Licensing Scheme
+
+(1) The Secretary of State may, if he considers it reasonable in the circumstances to do so, authorise a relevant licensing body to operate an Extended Collective Licensing Scheme after receiving an application made in accordance with regulation 5 and completion of the procedure in regulations 6 to 8.
+
+(2) An authorisation must specify—
+
+- (a) the types of relevant work to which it applies; and
+- (b) the permitted use.
+
+(3) A relevant licensing body authorised under paragraph (1) may license all rights within the scope of the Extended Collective Licensing Scheme provided that the relevant licensing body—
+
+- (a) grants scheme licences in accordance with the terms and conditions notified to the Secretary of State under regulation 5(1)(p);
+- (b) carries out its licensing activities in accordance with the Collective Management of Copyright ([^key-a97917191aa51262980bd02871593611]EU Directive) Regulations 2016;
+- (c) complies with the requirements of these Regulations; and
+- (d) complies with the conditions of its authorisation.
+
+(4) The Secretary of State may only grant an authorisation to a relevant licensing body if the Secretary of State is satisfied that—
+
+- (a) at the time of the authorisation, the relevant licensing body licenses by way of collective licence relevant works of the type which are to be the subject of the proposed Extended Collective Licensing Scheme;
+- (b) the relevant licensing body's representation in the type of relevant works which are to be the subject of the proposed Extended Collective Licensing Scheme is significant;
+- (c)[^key-25b588bd305ca8120b8c4926e4855afe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the opt out arrangements, including those for multiple works, are adequate to protect the interests of right holders;
+- (e) the arrangements for publicising the scheme, for contacting non–member right holders in order to distribute the net licence fees and for distributing any net licence fees which remain undistributed are appropriate for the proposed scheme, having regard to the interests of non-member right holders; and
+- (f) the relevant licensing body has obtained the required consent to the proposed Extended Collective Licensing Scheme.
+
+(5) An authorisation is personal to the relevant licensing body and the authorisation may not be transferred to any other person or body.
+
+(6) An authorisation continues in force until the earlier of the expiration of five years from the date of the grant of the authorisation or until revocation or cancellation in accordance with regulation 14 or 15.
+
+## 5. Application for authorisation
+
+(1) An application for authorisation under regulation 4 must be made in writing to the Secretary of State in the form required by the Secretary of State, including in electronic form, and must contain—
+
+- (a) a summary of the application;
+- (b) the name of the applicant;
+- (c) evidence that the applicant is a relevant licensing body;
+- (d) an address for service on the applicant in the United Kingdom[^key-d43f798e966d148c8aa9168ba519f7d9];
+- (e) the types of relevant work to which the Extended Collective Licensing Scheme will apply;
+- (f) the right holders' rights in relation to relevant works which the relevant licensing body seeks to be authorised to license;
+- (g) the opt out arrangements that the relevant licensing body will adopt including the steps which a non-member right holder is required to take to opt out of a proposed Extended Collective Licensing Scheme before the scheme commences and whether the consent of the Secretary of State is sought as described in regulation 16(5)(b);
+- (h) the number of right holders—
+  - (i) who have notified the relevant licensing body that they wish to opt out of the proposed Extended Collective Licensing Scheme; or
+  - (ii) whose rights, as a result of contractual arrangements with the relevant licensing body, will not fall within the Extended Collective Licensing Scheme
+
+  together, in each case and to the extent that the relevant licensing body has been notified by the relevant right holder, with the number of relevant works in which those right holders have rights;
+- (i) evidence of the representation provided by the relevant licensing body;
+- (j) evidence that the relevant licensing body has obtained the required consent;
+- (k) the information that was provided by the relevant licensing body to the relevant members, when seeking the required consent;
+- (l) a copy of any collective licence, in force at the date of the application for authorisation, under which the relevant licensing body licenses relevant works of the type which will be the subject of the proposed Extended Collective Licensing Scheme;
+- (m)[^key-995cb6ba46e56a65696ccced28d0871b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^key-995cb6ba46e56a65696ccced28d0871b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o) a declaration signed on behalf of the relevant licensing body confirming that, at the time of the application, it is complying in all material respects with the Collective Management of Copyright ([^key-5cae794a808bf4a4ca8239128689bce5]EU Directive) Regulations 2016;
+- (p) a copy of the terms and conditions of the licence which the relevant licensing body proposes to grant its licensees under the Extended Collective Licensing Scheme;
+- (q) a copy of the distribution policy which the relevant licensing body proposes to operate in relation to its licensing activities if the authorisation is granted;
+- (r) the arrangements for publicising the Extended Collective Licensing Scheme to non-member right holders and third parties before its introduction and during the life of the scheme; and
+- (s) the methods by which the relevant licensing body will contact non-member right holders and distribute the net licence fees to them.
+
+(2) An application for authorisation under regulation 4 must be accompanied by an initial fee to reimburse the Secretary of State for any administrative expenses incurred in connection with the application for authorisation.
+
+## 6. Response to an application
+
+(1) If an application, submitted in accordance with regulation 4 or 9, complies with the requirements of the relevant regulation the Secretary of State must within 14 days of its receipt inform the relevant licensing body—
+
+- (a) that the application has been received;
+- (b) of any additional information that the Secretary of State requires to facilitate consideration of the application; and
+- (c) of the date by which the application will be determined.
+
+(2) If an application submitted in accordance with regulation 4 or 9 does not meet the requirements of the relevant regulation the Secretary of State shall within 14 days of receipt inform the relevant licensing body in writing that the application has been rejected, together with a statement of the reasons for that decision.
+
+## 7. Authorisation procedure
+
+(1) Before granting an authorisation under regulation 4 or 9 the Secretary of State must—
+
+- (a) publish a notice setting out details of the application for authorisation in such manner as the Secretary of State considers appropriate for bringing it to the attention of persons likely to be affected by the authorisation; and
+- (b) consider any comments provided in accordance with the notice.
+
+(2) The notice must state the period (which must be not less than 28 days starting with the date of publication of the notice) within which comments may be provided to the Secretary of State regarding the proposed authorisation.
+
+## 8. Notice of decision on authorisation
+
+(1) The Secretary of State must decide whether to grant an authorisation, under regulation 4, or a renewal of an authorisation under regulation 9, and shall notify the relevant licensing body of his decision together with the reasons for the decision.
+
+(2) If an authorisation is granted, the notification must set out the commencement date of the authorisation, whether the authorisation has been granted subject to conditions, and if so, what the conditions are.
+
+(3) The Secretary of State may require a relevant licensing body to pay to the Secretary of State an application fee to reimburse the Secretary of State for any administrative expenses incurred in connection with the application, including those associated with a consideration of whether the requirements set out in regulation 4(4), or (as the case may be) 9(4), are satisfied.
+
+(4) When setting the application fee the Secretary of State must take account of any initial fee which has already been paid.
+
+(5) The Secretary of State must notify the relevant licensing body of his decision on an application for authorisation within 90 days of the end of the period for providing comments under regulation 7, and on an application for a renewal of authorisation, within 28 days of that date.
+
+(6) The Secretary of State must publish his decision in such manner as the Secretary of State considers appropriate for bringing it to the attention of persons likely to be affected by the authorisation.
+
+## 9. Renewal of an authorisation
+
+(1) The Secretary of State may, if he considers it reasonable in the circumstances to do so, renew the authorisation of a relevant licensing body to operate an Extended Collective Licensing Scheme upon the application of that body, made in accordance with regulation 10, and after the completion of the procedure set out in regulations 6 to 8.
+
+(2) A renewed authorisation must specify—
+
+- (a) the types of relevant work to which it applies; and
+- (b) the permitted use.
+
+(3) Regulation 4(3) to (5) applies in relation to the renewal of an authorisation as it applies in relation to the original application for authorisation.
+
+(4) The Secretary of State may renew an authorisation for a fixed period or may express the renewed authorisation to continue until the earlier of revocation or cancellation in accordance with regulations 14 or 15.
+
+## 10. Application for the renewal of an authorisation
+
+(1) An application by a relevant licensing body for a renewal of an authorisation under regulation 9 shall be made to the Secretary of State in writing, not less than three years from the date of grant of the existing authorisation and not less than three months before the expiration of that authorisation, in the form required by the Secretary of State, including in electronic form.
+
+(2) An application for a renewal of an authorisation under regulation 9 must contain—
+
+- (a) a summary of the application for renewal;
+- (b) confirmation that the information provided under regulation 5(b) to (h), (l), [^key-dfd7b6c7a1b5d55d6b4586bd4c6c5929]... (p), (q) and (s), remains as set out in the previous authorised application or details of any material changes;
+- (c) information demonstrating—
+  - (i) how the opt out arrangements have been operated during the previous period of authorisation;
+  - (ii) the number of right holders who, at the date of the application for renewal, have notified the relevant licensing authority that they wish to opt out of the proposed Extended Collective Licensing Scheme compared with the number of right holders who were opted out of the Extended Collective Licensing Scheme at the date of the previous application for authorisation; and
+  - (iii) the number of relevant works that are opted out at the date of the application for renewal compared with the number of relevant works that are opted out of the Extended Collective Licensing Scheme at the date of the previous application for authorisation and, to the extent that the relevant licensing body has been notified by the relevant right holders, the number of works in which those right holders have rights;
+- (d) evidence of the representation provided by the relevant licensing body at the time the application for renewal is made;
+- (e) evidence that the relevant licensing body has obtained the required consent;
+- (f) the information that was provided by the relevant licensing body to the relevant members, when seeking the required consent;
+- (g)[^key-19f6a04c5e39809a05c645aa65c5b827] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) a declaration signed on behalf of the relevant licensing body confirming that, at the time of the application for renewal, it is complying in all material respects with the Collective Management of Copyright ([^key-3f1372e52fd561974aee6d6a313bd1f0]EU Directive) Regulations 2016;
+- (i) a list of complaints from any non-member right holders whose works or rights have been licensed under the Extended Collective Licensing Scheme and the nature of the complaints and how they were resolved;
+- (j) details of the distributions which have been made to non-member right holders, any sums which have been distributed in accordance with regulation 19 and which remain undistributed;
+- (k) the arrangements for publicising the Extended Collective Licensing Scheme to non-member right holders and third parties during the life of the scheme together with information demonstrating how effective the publication of the Extended Collective Licensing Scheme has been; and
+- (l) whether the consent of the Secretary of State is sought as described in regulation 16(5)(b).
+
+(3) An application by a relevant licensing body for a renewal of an authorisation under regulation 9 shall be accompanied by a renewal fee to reimburse the Secretary of State for any administrative expenses incurred in connection with the application for renewal.
+
+## 11. Review of Extended Collective Licensing Scheme
+
+(1) Every three years after the date on which an authorisation was renewed, the relevant licensing body which operates an Extended Collective Licensing Scheme must provide the Secretary of State with—
+
+- (a) information demonstrating—
+  - (i) how the opt out arrangements have been operated during the previous period of authorisation;
+  - (ii) the number of right holders who, at the time of the review, have notified the relevant licensing authority that they wish to opt out of the Extended Collective Licensing Scheme compared with the number of right holders who were opted out of the Extended Collective Licensing Scheme at the date of the previous application for authorisation; and
+  - (iii) the number of opted out works at the time of the review compared with the number of works opted out of the Extended Collective Licensing Scheme at the date of the previous application for authorisation and, to the extent that the relevant licensing body has been notified by the relevant right holders, the number of works in which those right holders have rights;
+- (b) evidence of the representation provided by the relevant licensing body at the time the application for renewal is made;
+- (c)[^key-a9fe5eb8722e41f5048b706e7458764b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) a declaration signed on behalf of the relevant licensing body confirming that, at the time of the review, it is complying in all material respects with the Collective Management of Copyright ([^key-d217e7ce3676c5942f73cf6049db244a]EU Directive) Regulations 2016;
+- (e) a list of complaints from any non-member right holders whose works or rights have been licensed under the Extended Collective Licensing Scheme and the nature of the complaints and how they were resolved;
+- (f) details of the distributions which have been made to non-member right holders, any sums which have been distributed in accordance with regulation 19 and which remain undistributed;
+- (g) the arrangements for publicising the Extended Collective Licensing Scheme to non-member right holders and third parties during the life of the scheme together with information demonstrating how effective the publication of the Extended Collective Licensing Scheme has been; and
+- (h) confirmation that the information provided under regulation 5(b) to (h), (l), [^key-01ee77a2b24e4e9fa752419b93b19b0c]... (p), (q) and (s), remains as set out in the previous authorised application or details of any material changes.
+
+(2) The Secretary of State may, in addition, require the relevant licensing body to provide to the Secretary of State, within the time period specified by the Secretary of State—
+
+- (a) evidence that the relevant licensing body has obtained the required consent to the continuation of the Extended Collective Licensing Scheme; and
+- (b) the information that was provided by the relevant licensing body to the relevant members, when seeking the required consent.
+
+(3) The Secretary of State may publish information setting out details of the review and seek comments from those likely to be affected by the review.
+
+(4) The Secretary of State may require a relevant licensing body to pay to the Secretary of State a fee to reimburse the Secretary of State for any administrative expenses incurred in connection with the review.
+
+(5) The Secretary of State must, within three months of the date described in paragraph (1), notify the relevant licensing body of the outcome of the review of the Extended Collective Licensing Scheme and publish the summary of findings of the review in such manner as the Secretary of State considers appropriate for bringing it to the attention of persons likely to be affected by the authorisation.
+
+## 12. Modification of an authorisation
+
+(1) The Secretary of State may, upon the application of a relevant licensing body which operates an Extended Collective Licensing Scheme, or of the Comptroller, or following a review under regulation 11 of the scheme operated by that body, modify the conditions of an authorisation, granted under regulation 4 or 9, other than those required to be specified by regulation 4(2) or 9(2).
+
+(2) Before making a modification under this regulation, the Secretary of State must—
+
+- (a) give notice of the proposed modification, and
+- (b) consider any comments provided in accordance with the notice and not withdrawn.
+
+(3) The notice must—
+
+- (a) summarise the proposed modification;
+- (b) state the reasons for the proposed modification, and
+- (c) state the period (which must be not less than 28 days starting with the date of publication of the notice) within which representations may be made to the Secretary of State regarding the proposed modification.
+
+(4) A notice under paragraph (2) must be given by—
+
+- (a) serving a copy of the notice on the relevant licensing body, and
+- (b) publishing the notice in such manner as the Secretary of State considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them.
+
+(5) The Secretary of State may require a relevant licensing body to pay to the Secretary of State a fee to reimburse the Secretary of State for any administrative expenses incurred in connection with the application for modification.
+
+## 13. Notice of decision on modification
+
+(1) The Secretary of State must, within 28 days of the end of period for making representations under regulation 12, make his decision on the application for modification, publish the decision and notify the relevant licensing body in writing of the decision and of the reasons for it.
+
+(2) If the application has been approved, the notification shall also set out whether the application has been approved subject to conditions, and if so, what the conditions are and the commencement date of the modified authorisation.
+
+## 14. Revocation of an authorisation
+
+(1) If the Secretary of State is satisfied that the relevant licensing body has failed in respects which are relevant to the operation of the Extended Collective Licensing Scheme to operate its licensing activities in accordance with the types of relevant work or permitted use specified in the authorisation in accordance with regulations 4(2) or 9(2), the Secretary of State must revoke the authorisation.
+
+(2) The Secretary of State may revoke the authorisation if he has reasonable grounds to believe that the relevant licensing body has failed in material respects to comply with—
+
+- (a) any other requirements of these Regulations;
+- (b) any conditions of its authorisation; or
+- (c) the Collective Management of Copyright ([^key-fd8a0e039d08ffe3eb4658354443c13f]EU Directive) Regulations 2016.
+
+(3) The Secretary of State may require a relevant licensing body, whose authorisation is revoked, to pay to the Secretary of State a fee to reimburse the Secretary of State for any administrative expenses incurred in connection with administering the operation of this regulation; and a fee that falls to be paid under this paragraph is recoverable by the Secretary of State as a debt.
+
+(4) Prior to revoking any authorisation, the Secretary of State must satisfy the requirements set out in paragraphs (5) to (7).
+
+(5) The Secretary of State must—
+
+- (a) publish a notice in such manner as the Secretary of State considers appropriate for bringing the intention to revoke together with the reasons for taking this action to the attention of the relevant licensing body and of persons likely to be affected by the revocation; and
+- (b) allow the relevant licensing body and persons likely to be affected by the revocation to make comments in writing.
+
+(6) Comments under paragraph (5)(b) must be made within 21 days from the date of the notification under paragraph (5)(a) or within such longer period as is specified in the notice.
+
+(7) Within 42 days of the end of the period for making representations referred to in paragraph (6), the Secretary of State must provide to the relevant licensing body either the decision on revocation or the date on which the decision on revocation will be provided to the relevant licensing body.
+
+(8) The Secretary of State's decision whether or not to revoke the authorisation must set out the reasons for the decision together, where relevant, with the date on which the authorisation shall cease.
+
+(9) Any licences granted by the relevant licensing body under the Extended Collective Licensing Scheme shall lapse with effect from the date on which the revocation of the relevant authorisation has effect.
+
+(10) The Secretary of State must publish his decision in such manner as the Secretary of State considers appropriate together with any conditions attached to it.
+
+## 15. Cancellation of an authorisation
+
+(1) If a relevant licensing body informs the Secretary of State that it wishes to cancel its authorisation, the Secretary of State may inform the relevant licensing body in writing of any conditions which the relevant licensing body is required to fulfil in connection with the cancellation of the authorisation and must indicate which conditions must be fulfilled before the cancellation date may be set.
+
+(2) Once the Secretary of State is satisfied that any conditions imposed under paragraph (1), which must be satisfied before the cancellation date may be set, have been fulfilled, the Secretary of State shall set a date for the cancellation of the authorisation and notify the relevant licensing body of that date.
+
+(3) Any licences granted by the relevant licensing body under the Extended Collective Licensing Scheme shall lapse with effect from the date on which the cancellation of the relevant authorisation has effect.
+
+(4) The Secretary of State may require a relevant licensing body to pay to the Secretary of State a fee to reimburse the Secretary of State for any costs incurred in connection with the cancellation.
+
+## 16. Opt out from an Extended Collective Licensing Scheme
+
+(1) A right holder may exclude or limit the grant of licences under an Extended Collective Licensing Scheme or a proposed Extended Collective Licensing Scheme in relation to their rights in a relevant work by following the opt out arrangements which are referred to in the authorisation given by the Secretary of State or in modifications to those arrangements which are made by the Secretary of State under regulation 12, including those relating to the form of opt out notice.
+
+(2) A non-member right holder who wishes to exercise their right to opt out must provide the relevant licensing body with their name, so that the relevant licensing body may list the name under paragraph (6), and may identify the relevant works to be opted out.
+
+(3) The opt out arrangements of each relevant licensing body shall—
+
+- (a) permit a non-member right holder to provide the relevant licensing body with an opt out notice which excludes or limits the grant of licences under an Extended Collective Licensing Scheme in relation to some or all of their relevant works; and[^key-f0bd44f194591ee14a604c4d95d4e240]
+- (b) permit a non-member right holder to provide the relevant licensing body with an opt out notice which excludes or limits the grant of licences under a proposed Extended Collective Licensing Scheme in relation to some or all of their relevant works and provide that the opt out shall take effect before the commencement of the Extended Collective Licensing Scheme; [^key-3e880e3bda3e9ee68bfe597f2ec60f16]...
+- (c)[^key-3e880e3bda3e9ee68bfe597f2ec60f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+operated, in either case, by the relevant licensing body.
+
+(4) Within 14 days of receipt of a notice of opt out, the relevant licensing body shall—
+
+- (a) acknowledge receipt of the non-member right holder's request to opt out;
+- (b) inform the non-member right holder of the date from which the opt-out takes effect and, where a licence has been granted, of the termination date of the licence;
+- (c) inform any relevant licensees that the work has been opted out together with the termination date of the licence; and
+- (d) update the list referred to in paragraph (6).
+
+(5) The termination date of the licence, referred to in paragraph (4)(b), shall not be later than—
+
+- (a) six months from the date of receipt by the relevant licensing body of the notice of opt out; or
+- (b) nine months from that date, where the licensee is an educational establishment and the relevant licensing body has, in its application for authorisation or a renewal of authorisation under regulation 5 or 10, sought the consent of the Secretary of State to the later termination date for educational establishments in specified circumstances and the Secretary of State has consented to the later termination date in the notice of his decision provided under regulation 8.
+
+(6) The relevant licensing body shall in respect of each Extended Collective Licensing Scheme maintain and make available to the public a list of—
+
+- (a) the names of those non-member right holders who have opted out;
+- (b) any relevant works which have been identified as opted out; and
+- (c) the names of any persons whose rights in relevant works are outside the scheme as a result of any contractual arrangements which those persons have entered into with the relevant licensing body.
+
+## 17. Licensing of works or rights under an Extended Collective Licensing Scheme
+
+(1) A relevant licensing body may only grant, under an Extended Collective Licensing Scheme, a licence in respect of a relevant work owned by a non-member right holder which—
+
+- (a) permits non-exclusive use of the relevant work;
+- (b) has effect as if granted by the right holder in the relevant work;
+- (c) terminates on or before the expiration, revocation or cancellation of the authorisation of the relevant licensing body; and
+- (d) in a case where a non-member right holder has excluded from the Extended Collective Licensing Scheme their rights in a relevant work, terminates on the termination date determined in accordance with regulations 16(4) and (5).
+
+(2) The grant of a licence in accordance with these Regulations or the doing of any act permitted by a licence, which is granted in accordance with these Regulations, does not constitute an infringement of a right holder right in a relevant work for the purposes of the Act.
+
+(3)[^key-5ef0014aa1a7533355b2364f130562ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-5ef0014aa1a7533355b2364f130562ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-5ef0014aa1a7533355b2364f130562ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Licence fee
+
+(1) The relevant licensing body may deduct a reasonable administration fee from the licence fee which it receives for the grant, under an Extended Collective Licensing Scheme, of a licence of a relevant work owned by a non-member right holder.
+
+(2) The relevant licensing body must apply the administration fee towards the general costs of the relevant licensing body and for the benefit of both member and non-member right holders.
+
+(3) The relevant licensing body must, as soon as practicable and no later than nine months from the end of the financial year in which a licence fee was collected, distribute the appropriate portion of the net licence fee to those non-member right holders who have been identified and located and transfer any portion of the net licence fee that remains undistributed to a designated account.
+
+(4) A non-member right holder may, within three years from the end of the financial year in which the relevant licensing body received a licence fee under an Extended Collective Licensing Scheme, produce to the relevant licensing body evidence of either or both of—
+
+- (a) a reasonable or achieved level of licence fee, and
+- (b) the level of use to which the relevant work has been put during the term of the licence,
+
+and request the relevant licensing body to adjust the net licence fee which is distributed under paragraph (3) to take account of that level of licence fee or of use.
+
+(5) A relevant licensing body shall publish information on the relevant works and other subject matter which have been licensed under the Extended Collective Licensing Scheme but for which one or more non-member[^key-ede744ae04488ff63b1e007596e2af7c] right holders have not been identified or located and shall update the information within twelve months from the end of the financial year in which the licence fee was collected.
+
+## 19. Retention and application of undistributed licence fees
+
+(1) Subject to paragraph (2), the relevant licensing body must transfer a sum equal to the net licence fee received in respect of a non-member right holder from the designated account to the Secretary of State where—
+
+- (a) not less than three years have elapsed from the end of the financial year in which the relevant licensing body received a licence fee under an Extended Collective Licensing Scheme; and
+- (b) the relevant non-member right holder, who is entitled to the licence fee, has not been identified or located.
+
+(2) Where the Secretary of State has directed the relevant licensing body to retain the licence fee in a designated account, for any period after the expiration of the initial three year period, the relevant licensing body must retain the licence fee in the designated account and then transfer the licence fee to the Secretary of State at the end of the period.
+
+(3) The Secretary of State must retain any net licence fee, which has not been distributed by the relevant licensing body, for a period of 8 years from the date of authorisation of the Extended Collective Licensing Scheme and may then determine the use of the net licence fee, including, by applying some or all of the net licence fee to fund social, cultural and educational activities for the benefit of non-member right holders.
+
+## 20. Secretary of State's power to request information
+
+(1) The Secretary of State may serve notice on any relevant licensing body requiring it to supply to the Secretary of State for any purpose related to an Extended Collective Licensing Scheme operated by it such information as may be specified or described in the notice, and to supply it at a time and place and in a form and manner so specified.
+
+(2) A relevant licensing body shall supply the Secretary of State with information requested under paragraph (1) within 14 days of receipt of the request.
+
+Baroness Neville-Rolfe
+
+Parliamentary Under Secretary of State for Business, Innovation and Skills
+
+Department for Business, Innovation and Skills
+
+*(This note is not part of the Regulations)*
+
+The Regulations provide that the Secretary of State may authorise a relevant licensing body to operate an Extended Collective Licensing Scheme for a period of up to five years and renew the authorisation with effect from the end of the initial authorisation period.
+
+Regulation 2 defines various terms including “relevant licensing body” and “Extended Collective Licensing Scheme”. Regulation 3 defines “relevant work” and “right holder”.
+
+Regulation 4 sets out the circumstances in which the Secretary of State may, if he considers it reasonable in the circumstances to do so, authorise a relevant licensing body to operate an Extended Collective Licensing Scheme.
+
+Regulation 5 sets out the information which is required to accompany an application for authorisation.
+
+Regulation 6 requires the Secretary of State to respond to an application for authorisation and Regulation 7 sets out the authorisation procedure.
+
+Regulation 8 requires the Secretary of State to notify the relevant licensing body of his decision on authorisation together with his reasons for it.
+
+Regulation 9 provides that the Secretary of State may, if he considers it reasonable in the circumstances to do so, renew an application for authorisation and Regulation 10 sets out the information to be supplied in support of an application for renewal.
+
+Regulation 11 provides for three yearly reviews by the Secretary of State of an Extended Collective Licensing Scheme that has been renewed.
+
+Regulations 12, 14 and 15 provide for the modification, revocation and cancellation of an authorisation.
+
+Regulation 16 makes provision for a right holder to opt out of an Extended Collective Licensing Scheme.
+
+Regulations 17 and 18 set out certain minimum requirements for the grant of a licence under an Extended Collective Licensing Scheme and for the level of licence fee.
+
+Regulation 19 deals with the retention and application of licence fees which are paid under an Extended Collective Licensing Scheme but cannot be distributed to right holders.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Intellectual Property Office, Concept House, Cardiff Road, Newport NP10 8QQ and is annexed to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk. Copies have also been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^c22220961]: Marginal citation: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48), [sections 116B to 116D](https://www.legislation.gov.uk/ukpga/1988/48/section/116B) were inserted by the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), [s 77](https://www.legislation.gov.uk/ukpga/2013/24/section/77) and paragraphs 1B to 1D were inserted into Schedule 2A by section 77 and Part 2 of Schedule 22 to the Enterprise and Regulatory Reform Act. Schedule 2A was inserted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967).
+
+[^key-b6c294880436aaf80a9067ef259904f9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2588/regulation/2) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(2)(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/2/a) (with [reg. 48](https://www.legislation.gov.uk/uksi/2016/221/regulation/48))
+
+[^key-85465b9db937ef81e0bb1280aa8aa200]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2588/regulation/2) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(2)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/2/b)
+
+[^c22220981]: Marginal citation: Section 182 was substituted by, and sections 182A – 182 C and 182CA inserted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) and amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2006/18, [S.I. 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782); section 183 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
+
+[^key-a97917191aa51262980bd02871593611]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/4/3/b) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(3)(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/3/a)
+
+[^key-25b588bd305ca8120b8c4926e4855afe]: Textual amendment: [Reg. 4(4)(c)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/4/4/c) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(3)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/3/b)
+
+[^key-d43f798e966d148c8aa9168ba519f7d9]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/d) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2019/605/regulation/30) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-995cb6ba46e56a65696ccced28d0871b]: Textual amendment: [Reg. 5(1)(m)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/m)[(n)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/n) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(4)(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/4/a)
+
+[^key-5cae794a808bf4a4ca8239128689bce5]: Textual amendment: Words in [reg. 5(1)(o)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/o) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(4)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/4/b)
+
+[^key-dfd7b6c7a1b5d55d6b4586bd4c6c5929]: Textual amendment: Word in [reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/10/2/b) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(5)(i)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/5/i)
+
+[^key-19f6a04c5e39809a05c645aa65c5b827]: Textual amendment: [Reg. 10(2)(g)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/10/2/g) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(5)(ii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/5/ii) (with [reg. 49](https://www.legislation.gov.uk/uksi/2016/221/regulation/49))
+
+[^key-3f1372e52fd561974aee6d6a313bd1f0]: Textual amendment: Words in [reg. 10(2)(h)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/10/2/h) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(5)(iii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/5/iii)
+
+[^key-a9fe5eb8722e41f5048b706e7458764b]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/11/1/c) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(6)(i)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/6/i)
+
+[^key-d217e7ce3676c5942f73cf6049db244a]: Textual amendment: Words in [reg. 11(1)(d)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/11/1/d) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(6)(ii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/6/ii)
+
+[^key-01ee77a2b24e4e9fa752419b93b19b0c]: Textual amendment: Word in [reg. 11(1)(h)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/11/1/h) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(6)(iii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/6/iii)
+
+[^key-fd8a0e039d08ffe3eb4658354443c13f]: Textual amendment: Words in reg. 14(2)(c) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(7)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/7) (with [reg. 50](https://www.legislation.gov.uk/uksi/2016/221/regulation/50))
+
+[^key-f0bd44f194591ee14a604c4d95d4e240]: Textual amendment: Word in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/16/3/a) inserted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(8)(i)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/8/i)
+
+[^key-3e880e3bda3e9ee68bfe597f2ec60f16]: Textual amendment: [Reg. 16(3)(c)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/16/3/c) and word omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(8)(ii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/8/ii)
+
+[^key-5ef0014aa1a7533355b2364f130562ca]: Textual amendment: [Reg. 17(3)-(5)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/17/3) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(9)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/9)
+
+[^key-ede744ae04488ff63b1e007596e2af7c]: Textual amendment: Word in reg. 18(5) inserted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(10)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/10)

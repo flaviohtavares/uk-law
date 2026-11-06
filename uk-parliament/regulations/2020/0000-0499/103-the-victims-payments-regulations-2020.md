@@ -1,0 +1,1832 @@
+---
+title: The Victims' Payments Regulations 2020
+id: uksi/2020/103
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-01-31'
+text_date: '2023-07-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2020/103
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/103/pdfs/uksiem_20200103_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/103/pdfs/uksi_20200103_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/103/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Victims' Payments Regulations 2020
+
+> Text as at 2023-07-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2020 No. 103
+
+Payment Scheme
+
+Disabled Persons
+
+The Victims' Payments Regulations 2020
+
+Made
+
+at 11.20 a.m. on 31st January 2020
+
+Laid before Parliament
+
+at 2.30 p.m. on 31st January 2020
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 10 and 11 of the Northern Ireland (Executive Formation etc) Act 2019 [^c23972171].
+
+The Secretary of State has had regard to advice given by the Commission for Victims and Survivors for Northern Ireland in accordance with section 10(10) of that Act.
+
+## PART 1 — Preliminary
+
+### 1. Citation and commencement and extent[^key-c6ccd3515dbd70dc571bccc3eda73c1f]
+
+(1) These Regulations may be cited as the Victims' Payments Regulations 2020.
+
+(2) The following provisions come into force on the 24th February 2020—
+
+- (a) regulation 1;
+- (b) regulation 3;
+- (c) Schedule 1;
+- (d) paragraph 4(1) of Schedule 2, and regulation 15(8) so far as it relates to that paragraph;
+- (e) paragraphs 1, 4 and 5 of Schedule 3, and regulation 53 so far as it relates to that paragraph.
+
+(3) The remaining provisions of these Regulations come into force on 29th May 2020.
+
+(4) Except as provided by paragraphs (5) to (7), these Regulations extend to Northern Ireland only.
+
+(5) Regulations 1, 2, 26, 28, 29 and 31 extend to England and Wales, Scotland and Northern Ireland.
+
+(6) The amendments made by paragraph 2 of Schedule 3 extend to England and Wales only.
+
+(7) Any other amendment made by these Regulations has the same extent as the provision it amends.
+
+### 2. Interpretation[^key-1fcad102a8950500f3163b5c2da1e708]
+
+(1) In these Regulations—
+
+- “**appeal panel**” means a panel appointed by the President of the Board under regulation 35(1);
+- “**the Board**” means the Victims' Payments Board established by regulation 3(1);
+- “**the Executive Office**” means the Executive Office in Northern Ireland;
+- “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 [^c23972181] (see section 3 of that Act).
+- “**degree of disablement**” means the degree of disablement assessed in accordance with regulation 15 and “**assessed**” is to be construed accordingly;
+- “**the deceased**” has the meaning given in regulation 10(1);
+- “**degree of relevant disablement**” means—
+  - (a) the degree of permanent disablement, or
+  - (b) in a case where an interim assessment has been made, the degree of disablement of a person during an interim period;
+- “**the Department**” means the Department designated under paragraph 2(1) of Schedule 1;
+- “**disablement**” means damage, disfigurement and loss of physical or mental capacity resulting from injury, and “**disabled**” shall be construed accordingly;
+- “**health care professional**” means—
+  - (a) a registered medical practitioner;
+  - (b) a registered nurse;
+  - (c) an occupational therapist or physiotherapist registered with a regulatory body established by an Order in Council under section 60 of the Health Act 1999 [^c23972191], or
+  - (d) a member of such other profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c23972201];
+- “**interim assessment**” has the meaning given by regulation 14(1)(b);
+- “**interim period**” has the meaning given by regulation 14(1)(a);
+- “**legal member**” means a member of the Board appointed under paragraph 3(1)(a) of Schedule 1;
+- “**medical member**” means a member of the Board appointed under paragraph 3(1)(b) of Schedule 1;
+- “**ordinary member**” means a member of the Board appointed under paragraph 3(1)(c) of Schedule 1;
+- “**panel**” means a panel appointed by the President of the Board (other than an appeal panel);
+- “**permanent**”, in relation to disablement, means where, following appropriate clinical management of adequate duration, an injury has reached a steady or stable state at maximum medical improvement;
+- “**personal data**” means data within the meaning of section 3(2) of the Data Protection Act 2018 except that it also includes data relating to a deceased individual where the data would be personal data within the meaning of that section if it related to a living individual;
+- “**relevant incident**” means a Troubles-related incident determined by a panel under regulation 12(3)(b) or[^key-718284e7fabbdc0b847f62eea9baa90b] 12(3)(c) to be an incident in relation to which the applicant is entitled to victims' payments;
+- “**review panel**” means a panel appointed by the President of the Board under regulation 43(3)[^key-eaf38ade4f0df5e56497c319f2fdd418].
+
+(2) The Scheme established by these Regulations is to be known as the Troubles Permanent Disablement Payment Scheme.
+
+## PART 2 — The Board
+
+*Extent: N.I.*
+
+### 3. The Board[^key-1d0538e90abeb8a6ebf48ed26087f530]
+
+(1) The Victims' Payments Board is established.
+
+(2) Schedule 1 makes further provision about the Board.
+
+### 4. Principles[^key-7916796bacb08b90f7a6634862994f15]
+
+(1) When exercising functions under these Regulations, the Board must have regard to—
+
+- (a) the need to prioritise, and be responsive to, the needs of victims of Troubles-related incidents;
+- (b) the need to be transparent and to communicate effectively with the public and victims of Troubles-related incidents;
+- (c) the need for the Scheme to be straightforward and simple to navigate;
+- (d) the need for applications to be determined without delay;
+- (e) the need for personal data to be handled sensitively.
+
+(2) The duties in paragraph (1) apply only so far as they are relevant in the particular context.
+
+## PART 3 — Entitlement to victims' payments
+
+*Extent: N.I.*
+
+### 5. Entitlement to victims' payments[^key-77104dc52926ca58fa9c2fc79818c895]
+
+(1) A person is entitled to victims' payments in respect of injury caused by a Troubles-related incident if—
+
+- (a) the injury results in permanent disablement;
+- (b) the assessed degree of relevant disablement amounts to not less than 14 percent;
+- (c) the Troubles-related incident took place—
+  - (i) in the United Kingdom, or
+  - (ii) anywhere in Europe, at a time when the applicant—
+    - (aa) was a British Citizen;
+    - (bb) was a person born in Northern Ireland and having, at the time of their birth, at least one parent who is a British Citizen, an Irish Citizen or is otherwise entitled to reside in Northern Ireland without any restriction on the period of residence;
+    - (cc) was outside the United Kingdom in service of the Crown, or
+    - (dd) was an accompanying close relative of a person serving outside the United Kingdom in service of the Crown;
+- (d) the Troubles-related incident took place on or after 1 January 1966 but before 12 April 2010, and
+- (e) an application has been made in accordance with regulation 8.
+
+(2) But this entitlement is subject to regulation 6.
+
+(3) Paragraph (1)(a) does not apply to a person during an interim period specified under regulation 14(1)(c)(i) or (5)(c)(i)[^key-30dc95e88139f58c68bc35fbdf5082aa].
+
+(4) For the purpose of paragraph (1)(c)(ii)(dd)—
+
+- (a) a person is the close relative of someone in service of the Crown if the person is—
+  - (i) the spouse, civil partner or cohabiting partner of the person in service of the Crown;
+  - (ii) a child under the age of 18 of the person in service of the Crown or of a person to whom sub-paragraph (i) applies;
+  - (iii) a child of the person in service of the Crown who is dependent on that person as a result of disablement;
+- (b) a person was an accompanying close relative of a person in service of the Crown if they were a close relative and living with that person in the same household.
+
+(5) Paragraph (1)(d) does not apply in any case where a panel considers that the application of that paragraph would undermine the purposes of this Scheme.
+
+(6) For the purpose of paragraph (5), the purposes of this Scheme are to—
+
+- (a) acknowledge the harm suffered by those injured in the Troubles, and
+- (b) promote reconciliation between people in connection with Northern Ireland's troubled past.
+
+### 6. Convictions[^key-d0b3daaea54f70a6e2a73efbd36c8945]
+
+(1) A person is not entitled to victims' payments in relation to a particular Troubles-related incident where the person—
+
+- (a) has a conviction (whether spent or not), and
+- (b) that conviction was in respect of conduct which caused, wholly or in part, that incident.
+
+(2) A person is not entitled to victims' payments where the Board considers that the person's relevant conviction makes entitlement to victims' payments inappropriate.
+
+(3) A person is not entitled to victims' payments where the President of the Board considers that the exceptional circumstances of the case, having regard to material evidence, make entitlement to victims' payments inappropriate.
+
+(4) The Secretary of State may issue guidance to the Board regarding the circumstances in which a relevant conviction or exceptional circumstances makes entitlement to victims' payments inappropriate.
+
+(5) The Board and the President must have regard to any guidance issued under paragraph (4) when taking a decision under paragraph (2) or (3).
+
+(6) In this regulation, a person has a relevant conviction if, in respect of that conviction, they received a sentence which is—
+
+- (a) excluded from rehabilitation under the Rehabilitation of Offenders Act 1974 [^c23972211] as it applies in England and Wales;
+- (b) an excluded sentence under the Rehabilitation of Offenders Act 1974 as it applies in Scotland, or
+- (c) excluded from rehabilitation under the Rehabilitation of Offenders (Northern Ireland) Order 1978 [^c23972221].
+
+(7) Until section 17 of the Management of Offenders (Scotland) Act 2019 [^c23972231] is in force, the reference in paragraph (6)(b) to an excluded sentence is be read as a reference to a sentence which is excluded from rehabilitation.
+
+### 7. Causation of injury[^key-04022d0f5189c05c6bab80a304204140]
+
+(1) For the purpose of these Regulations, a person's injury may only be considered to be caused by a Troubles-related incident if it is suffered by that person when—
+
+- (a) present at a Troubles-related incident;
+- (b) present in the immediate aftermath of a Troubles-related incident in which a loved one died or suffered an injury;
+- (c) responding, in the course of employment, to a Troubles-related incident, in which the person reasonably believed a loved one had died or suffered significant injury.
+
+(2) In this regulation—
+
+- “**employment**” includes service of the Crown;
+- “**immediate aftermath**” includes any time when a loved one is in the same condition as they would have been at the scene of the Troubles-related incident;
+- “**loved one**” means another person with whom a person has a close relationship of love and affection, and such a relationship will be presumed to exist between—
+  - (a) two people who are married to each other, or are civil partners, or live together as husband and wife or as if they were civil partners, and
+  - (b) a parent and child;
+- “**responding, in the course of employment, to a Troubles-related incident[^key-0f429704b31b716c518b11250be58f79]**” includes preventing, mitigating, or otherwise addressing the incident.
+
+### 8. Making of applications[^key-1dd321a601aff0876cb0d5285e7dbc67]
+
+(1) An application for victims' payments must—
+
+- (a) be made to the Board;
+- (b) be in writing;
+- (c) be on a form approved for that purpose by the Board,
+- (d) include such information as the President of the Board may from time to time determine;
+- (e) be signed by or on behalf of the applicant.
+
+(2) Subject to paragraph (3), applications may only be made during the period—
+
+- (a) beginning with the date advertised in the Belfast Gazette as the first date on which applications may be made, and
+- (b) ending on the fifth anniversary of the date so advertised, or such later date as the Secretary of State may determine.
+
+(3) Applications may be made outside of the period mentioned in paragraph (2)—
+
+- (a) where there has been a material change of circumstance, or
+- (b) where the President considers that, having regard to the exceptional circumstances of the case, it is equitable to allow an application to be made.
+
+(4) For the purpose of paragraph (3) there has been a material change of circumstance[^key-0967aa9cc7eb1d2a39196ed07e7e4df5] where, in particular—
+
+- (a) significant evidence relevant to the application has come to light, or
+- (b) the applicant reasonably considered that they were not entitled to victims' payments pursuant to regulation 6 but the applicant no longer has a conviction to which regulation 6(1)(b) applies or a relevant conviction.
+
+(5) In this regulation “**relevant conviction**” has the same meaning as in regulation 6.
+
+### 9. Transfer of entitlement on death[^key-cff4c7652e31a5e41f369bc0728fc797]
+
+(1) On the death of a person entitled to victims' payments, a nominated person is entitled to such payments for the period of 10 years beginning with the date of death.
+
+(2) A person entitled to victims' payments (“a beneficiary”) may nominate one person for the purpose of this regulation.
+
+(3) A person may be nominated for the purpose of this regulation by a beneficiary if the person—
+
+- (a) is the spouse, civil partner or cohabiting partner of the person so entitled, or
+- (b) is, or used to be, regularly and substantially engaged in caring for the beneficiary.
+
+(4) For the purpose of these Regulations, a person is to be treated as regularly and substantially engaged in caring for a beneficiary if—
+
+- (a) the person satisfies the conditions for entitlement to a carer's allowance or would do so but for the fact that their earnings have exceeded the limit prescribed for the purposes of that allowance, or
+- (b) a panel appointed for this purpose by the President of the Board considers it is equitable, in all the circumstances, to treat the person as having regularly and substantially engaged in caring for the beneficiary.
+
+(5) But a person is not to be treated as regularly and substantially engaged in caring for a beneficiary if the person derives earned income from those caring responsibilities.
+
+(6) Paragraph (4)(a) applies whether or not the person has made a claim for a carer's allowance.
+
+(7) In this regulation, “**carer's allowance**” means a carer's allowance under section 70 of the Social Security Contributions and Benefits Act 1992 [^c23972241] or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c23972251].
+
+### 10. Posthumous applications[^key-daba8a1015e3b6d5e916700c02ed2c22]
+
+(1) This regulation applies on the death of a person (“**the deceased**”) who would have been, before death, entitled to victims' payments if an application had been made in accordance with regulation 8.
+
+(2) An application for victims' payments may be made in accordance with regulation 8(1) by a person who the deceased could (following the determination of entitlement) have nominated under regulation 9(2).
+
+(3) On receipt of an application made by a person pursuant to paragraph (2), the Board must so far as reasonably practicable—
+
+- (a) consider whether any other person may make an application pursuant to paragraph (2), and
+- (b) notify in writing any such person of their right to make an application.
+
+(4) Where there is more than one person who has—
+
+- (a) made an application pursuant to paragraph (2), or
+- (b) notified the Board of an intention to make an application pursuant to that paragraph,
+
+a panel appointed for this purpose by the President of the Board must determine which application may proceed.
+
+(5) The panel must so far as possible make a determination under paragraph (4) by deciding who the panel reasonably considers the deceased would have nominated had the deceased made an application for victims' payments.
+
+(6) In making a determination under paragraph (4), the panel must have regard to any will made by the deceased.
+
+(7) Where the panel is unable to decide who the deceased would have nominated—
+
+- (a) in a case where a person who was the deceased's spouse, civil partner or cohabiting partner seeks to make an application, the panel must determine that application may proceed unless the Board considers it would be inequitable to do so, and
+- (b) in any other case, or where the Board considers it inequitable for an application to proceed under sub-paragraph (a), the panel must determine which application is, in the interests of fairness, to proceed.
+
+(8) Paragraph (7)(a) does not apply in the case of a spouse or civil partner who was estranged from the deceased.
+
+(9) After making a determination under paragraph (4)[^key-c59adf935aac3d43fc6145bc60a011e3], the Board must as soon as reasonably practicable notify in writing the persons referred to in paragraph (4) of—
+
+- (a) the determination and the reason for it, and
+- (b) the right to appeal.
+
+(10) Where this regulation applies, a person entitled to victims' payments is entitled to such payments—
+
+- (a) in a case where the deceased died on or before 23rd December 2014, for the period beginning with the 23rd December 2014 and ending 10 years after the date of death of the deceased, or
+- (b) in any other case, for the period of 10 years beginning with the date of death of the deceased.
+
+## PART 4 — Determination of entitlement
+
+*Extent: N.I.*
+
+### 11. Priority of applications[^key-bd7c5784900de8eb7107d425067b9a62]
+
+(1) The Board may decide the order of priority in which applications for victims' payments are to be determined.
+
+(2) In making a decision under paragraph (1), the Board must, in particular, have regard to—
+
+- (a) whether evidence provided with an application, or otherwise in the possession of the Board, is likely to allow the application to be determined quickly;
+- (b) the age of each applicant, and
+- (c) so far as it is disclosed in the application, the health of each applicant.
+
+(3) The Board must give priority to applications made by applicants who—
+
+- (a) are terminally ill, and
+- (b) disclose that fact to the Board.
+
+### 12. Determination by the Board[^key-2bd116236f53590895dd30f393885e4a]
+
+(1) This regulation applies on receipt by the Board of an application made in accordance with regulation 8.
+
+(2) The Board must determine whether the applicant is entitled to victims' payments.
+
+(3) A panel appointed for this purpose by the President of the Board must—
+
+- (a) consider the application on behalf of the Board;
+- (b) determine whether (subject to assessment by a health care professional of the degree of relevant disablement of the applicant) the applicant is entitled to victims' payments, and
+- (c) where an application relates to more than one Troubles-related incident, determine (subject to assessment by a health care professional of the degree of relevant disablement of the applicant) in relation to which of the incidents the applicant is entitled to victims' payments.
+
+(4) Where an applicant has a relevant conviction (and accordingly the panel must consider whether the conviction makes the applicant's entitlement to victims' payments inappropriate) the panel must consist of three members.
+
+(5) In making determinations under paragraph (3)(b) and (c) a panel (other than an appeal panel) is bound by the assessment by a health care professional of the degree of relevant disablement of the applicant.
+
+### 13. Assessment of degree of relevant disablement[^key-ff5a6b04a568ff3f7be4bca9cef11e3b]
+
+(1) If the determination of the panel is (subject to assessment by a health care professional of the degree of relevant disablement of the applicant) that the applicant is entitled to victims' payments, the Board must arrange for the applicant to be assessed by a health care professional.
+
+(2) The health care professional must consider whether the condition of the applicant, having regard to the possibility of changes in that condition, allows the degree of permanent disablement to be assessed.
+
+(3) Where the condition of the applicant allows the degree of permanent disablement to be assessed, the health care professional must—
+
+- (a) assess the degree of permanent disablement, and
+- (b) make a report to the Board—
+  - (i) specifying the assessed degree of relevant disablement, and
+  - (ii) reporting the reason for the assessment.
+
+### 14. Interim assessments[^key-f987168493827bc687167d90cff181dd]
+
+(1) Where the condition of the applicant does not allow the degree of permanent disablement to be assessed, the health care professional must—
+
+- (a) make an assessment of the period of time for which it is reasonable, having regard to the possibility of changes in the applicant's condition, to assess the degree of disablement of the applicant (“the interim period”);
+- (b) make an assessment of the degree of disablement of the applicant during the interim period (“an interim assessment”), and
+- (c) make a report to the Board—
+  - (i) specifying the interim period and the interim assessment, and
+  - (ii) reporting the reasons for the assessments.
+
+(2) The interim period is to be a maximum of 2 years (but this is subject to paragraphs (5) and (6))[^key-3a23cfe7712d37950e931dcd57519714].
+
+(3) The Board must make arrangements for the applicant to be reassessed by a health care professional before the end of the interim period.
+
+(4) Where, on reassessment under paragraph (3), the condition of the applicant allows the degree of permanent disablement to be assessed, the health care professional must—
+
+- (a) assess the degree of permanent disablement, and
+- (b) make a report to the Board of the assessed degree of permanent disablement and the reason for that assessment.
+
+(5) But where the condition of the applicant still does not allow the degree of permanent disablement to be assessed, the health care professional must—
+
+- (a) extend the interim period;
+- (b) make an interim assessment, and
+- (c) make a report to the Board—
+  - (i) specifying the interim period and the interim assessment;
+  - (ii) reporting the reasons for the extension and the interim assessment.
+
+(6) The interim period may be extended more than once but is to be a maximum of 4 years.
+
+(7) Where an interim period is extended, paragraph (3) applies at the end of the interim period as extended.
+
+(8) Paragraph (9) applies if, at the end of an interim period of 4 years, a health care professional considers that the condition of the person still does not allow the degree of permanent disablement to be assessed.
+
+(9) Where this paragraph applies, the health care professional must—
+
+- (a) assess the degree of permanent disablement so far as it is possible, and
+- (b) make a report to the Board of the assessed degree of permanent disablement and the reason for that assessment.
+
+### 15. Assessment by a health care professional[^key-0419de5f530df528936928c78deeed2b][^key-a033a1c036a0aba1594da746ce0459c4][^key-6daf20f94502dd59b0281ed81d5f6fa2]
+
+(1)[^key-0419de5f530df528936928c78deeed2b] Where an assessment is to be carried out by a health care professional, the Board must provide that health care professional with any relevant information obtained under regulation 29 or otherwise in the possession of the Board.
+
+(2)[^key-0419de5f530df528936928c78deeed2b] A health care professional must assess the degree of relevant disablement by doing one or more of the following—
+
+- (a) considering any relevant information provided by the applicant or the Board;
+- (b) carrying out an examination of the applicant;
+- (c) considering the report of another health care professional who has considered any relevant information or carried out an examination of the applicant.
+
+(3)[^key-0419de5f530df528936928c78deeed2b] Where a health care professional considers that an examination is necessary for the purpose of assessing the degree of relevant disablement, the health care professional may request that the applicant attends for, or submits to, an examination.
+
+(4)[^key-0419de5f530df528936928c78deeed2b] Paragraph (5) applies where—
+
+- (a) a health care professional has made a request under paragraph (3), and
+- (b) the applicant has unreasonably refused to comply with the request.
+
+(5)[^key-0419de5f530df528936928c78deeed2b] Any issue for which an examination is necessary for that issue to be proven is deemed not to be proven.
+
+(6)[^key-0419de5f530df528936928c78deeed2b] The Board must make arrangements to ensure that only health care professionals with—
+
+- (a) experience and training in disability assessment medicine, and
+- (b) such other experience and training as the Board considers appropriate,
+
+carry out assessments under these Regulations.
+
+(7)[^key-0419de5f530df528936928c78deeed2b] In this regulation, “**relevant information**” means information relevant to the decisions the health care professional is required to make.
+
+(8)[^key-a033a1c036a0aba1594da746ce0459c4][^key-6daf20f94502dd59b0281ed81d5f6fa2] Schedule 2 makes further provision regarding the assessment of the degree of relevant disablement.
+
+### 16. Assessment of degree of disablement: posthumous applications[^key-2f898fa52a61ad4f6627074a3a2eb7ef]
+
+(1) This regulation applies where—
+
+- (a) an application has been made in a case where regulation 10 applies, and
+- (b) the determination of the panel is (subject to assessment by a health care professional of the degree of relevant disablement of the deceased) [^key-eac7cd03a1b1cc6ec5b88d840f55e5b5]... that the applicant is entitled to victims' payments.
+
+(2) The Board must—
+
+- (a) arrange for an assessment by a health care professional, and
+- (b) provide that health care professional with any relevant information obtained under regulation 29 or otherwise in the possession of the Board.
+
+(3) The health care professional must—
+
+- (a) so far as possible, assess the degree of relevant disablement of the deceased before death by doing one or more of the following—
+  - (i) considering any relevant information provided by the applicant or the Board;
+  - (ii) considering the report of another health care professional who has considered any relevant information or carried out an examination of the deceased, and
+- (b) make a report to the Board—
+  - (i) specifying the assessed degree of relevant disablement, and
+  - (ii) reporting the reason for the assessment.
+
+(4) In this regulation, “**relevant information**” means information relevant to the decisions the health care professional is required to make.
+
+### 17. Notification to the applicant[^key-b32ae07364be37604f2fdbb48c3812e3]
+
+Following determination of eligibility for victims' payments, the Board must as soon as reasonably practicable notify the applicant in writing of the following matters—
+
+- (a) whether the applicant is eligible for victims' payments;
+- (b) any determination under regulation 12(3)(c);
+- (c) the assessed degree of relevant disablement of the applicant or, as the case may be, the deceased;
+- (d) in any case where an assessment is made under regulation 14, the interim period specified or extended;
+- (e) a summary of the reasons for the matters in sub-paragraphs (a) to (d), and
+- (f) the right to appeal.
+
+## PART 5 — Payments
+
+### 18. Determination of amount of victims' payments[^key-10420fe77dcb0b4a0ebbd8ba4506c44a]
+
+*Extent: N.I.*
+
+(1) If a person is entitled to victims' payments, the Board must determine the amount of victims' payments payable to the applicant.
+
+(2) The amount of victims' payments payable to an applicant is the appropriate rate subject to any adjustment made in accordance with regulations 19 and 20.
+
+(3) The appropriate rate is the rate specified from time to time in column 2 of the table in Part 2 of Schedule 1 to The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 [^c23972261] (weekly rates of pensions for disabled members of the armed forces of certain ranks) corresponding to the applicant's degree of relevant disablement.
+
+(4) Where an interim assessment of the applicant's degree of disablement has been made, for the duration of the interim period, the appropriate rate is the rate specified from time to time in column 2 of that table corresponding to the interim assessment of the applicant's degree of relevant disablement.
+
+(5) Where a person is entitled to victims' payments following an application in a case where regulation 10 applies, the appropriate rate is the rate specified from time to time in column 2 of that table corresponding to the deceased's degree of relevant disablement.
+
+(6) Subject to regulation 21, a person is entitled to victims' payments from the date the Board determines the applicant is entitled to victims' payments.
+
+### 19. Adjustment in respect of other payments[^key-b159a88b313a8819e9f170591a8ecf59]
+
+*Extent: N.I.*
+
+(1) Payments of victims' payments to a person are to be reduced by the aggregate amount of relevant payments received by that person—
+
+- (a) in respect of the same disablement to which the victims' payments relate, and
+- (b) while the person is entitled to victims' payments.
+
+(2) For the purpose of this regulation, “**relevant payments**” means any of the following—
+
+- (a) disablement pension under—
+  - (i) section 103 of the Social Security Contributions and Benefits Act 1992 [^c23972271] (disablement pension);
+  - (ii) section 103 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c23972281] (disablement pension);
+- (b) any retired pay, pension, allowance or other continuing benefit awarded under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 in respect of a disablement;
+- (c) any payments under article 15(1) or article 29(1) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 [^c23972291] (benefits payable for injury and death);
+- (d) any pension, award, allowance or other continuing benefit awarded under the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006 [^c23972301] in respect of injury received in the execution of duty;
+- (e) an ill-health pension under article 15 of the Firefighters' Pension Scheme Order (Northern Ireland) 2007 [^c23972311] or a pension payable under that Order in respect of disablement;
+- (f) an award on ill-health retirement under article 12 of the New Firefighters' Pension Scheme Order (Northern Ireland) 2007 [^c23972321] or a pension payable under that Order in respect of disablement;
+- (g) any pension, allowance, gratuity or other payment awarded under the Civil Service Compensation Scheme 1994;
+- (h) any pension, allowance, gratuity or other payment awarded under the Civil Service Compensation Scheme (Northern Ireland) made under Article 3 of the Superannuation (Northern Ireland) Order 1972 [^c23972331] on the 28th August 1996, as amended from time to time;
+- (i) any pension, allowance, gratuity or other payment awarded under the Civil Service Injury Benefit Scheme (Northern Ireland) made under article 3 of the Superannuation (Northern Ireland) Order 1972 and published on 1 January 2003, as amended from time to time;
+- (j) any pension, allowance, gratuity or other payment awarded under the Civil Service Injury Benefits Scheme made on 22 July 2002 under section 1 of the Superannuation Act 1972, as amended from time to time;
+- (k) any payment made under the National Health Service (Scotland) (Injury Benefits) Regulations 1998 [^c23972341], the Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 2001 [^c23972351] or the National Health Service (Injury Benefits) Regulations 1995 [^c23972361];
+- (l) any benefit that is equivalent or substantially similar to those listed in sub-paragraphs (a)-(k) above (including benefits awarded under the legislation of another country or dependent territory).
+
+### 20. Adjustment in respect of past compensation[^key-ff516eeec1169d903a740f3513b215e9]
+
+*Extent: N.I.*
+
+(1) This regulation applies in a case where—
+
+- (a) a person is determined to be entitled to victims' payments in respect of disablement suffered by that person or another person, but
+- (b) compensation has previously been paid to the person so entitled in respect of that disablement, and
+- (c) the compensation referred to in sub-paragraph (b) exceeds the amount of exempted compensation.
+
+(2) The reference in paragraph (1)(b) to the payment of compensation is a reference to the payment of compensation—
+
+- (a) in proceedings on a claim,
+- (b) in settlement of a claim (whether or not proceedings on the claim were brought before a court), or
+- (c) under a scheme established under a statutory provision.
+
+(3) The Board may, to the extent it[^key-237e405663220a766189adc33410c52c] considers appropriate, adjust the amount of victims' payments payable to the person in respect of the amount compensation mentioned in paragraph (1)(b) which is in excess of the amount of exempted compensation.
+
+(4) In considering whether, and to what extent, to exercise the power in paragraph (3), the Board must have regard in particular to —
+
+- (a) the amount of compensation referred to in sub-paragraph (b) which is in excess of the amount of exempted compensation;
+- (b) the period of time since any such compensation was paid, and
+- (c) any other factor the Board considers relevant.
+
+(5) The exempted amount of compensation is calculated by taking the following three steps.
+
+(6) The first step is to calculate the amount a person would have received had they been entitled to victims' payments from the date of the relevant incident, by multiplying together—
+
+- (a) the number of weeks since the relevant incident, and
+- (b) the appropriate rate.
+
+(7) The second step is to adjust the amount calculated under step 1 for inflation, using the ratio published by the Treasury and known as the Gross Domestic Product deflator by reference to the period—
+
+- (a) beginning with the date of the relevant incident, and
+- (b) ending with the date of the determination of the person's entitlement to victims' payments.
+
+(8) The third step is to further adjust the amount calculated under step 1 to reflect the time value of money, with reference to the Bank of England base rate.
+
+(9) Subject to paragraph (10), in this regulation “**the appropriate rate**” has the meaning given by regulation 18.
+
+(10) In a case where disablement is caused by more than one relevant incident—
+
+- (a) the amount of exempted compensation is calculated by taking the sum of calculations carried out under paragraph (5) in respect of each incident, and
+- (b) the appropriate rate, in relation to a particular incident, means the rate specified from time to time in column 2 of the table in Part 2 of Schedule 1 to The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 corresponding to the assessed degree of disablement attributable to that incident.
+
+(11) The Bank of England base rate means—
+
+- (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets, or
+- (b) where an order under section 19 of the Bank of England Act 1998 [^c23972371] is in force, any equivalent rate determined by the Treasury under that section.
+
+### 21. Backdating[^key-4c4b075d330bd081b668601308dff99c]
+
+*Extent: N.I.*
+
+(1) This regulation applies where—
+
+- (a) an applicant is entitled to victims' payments, and
+- (b) the application which resulted in that entitlement was made during the relevant period.
+
+(2) For the purpose of determining the amount of victims' payments payable, the entitlement must be backdated to the date the Board considers that the person would have become entitled to victims' payments had this Scheme been established on 23 December 2014.
+
+(3) For the purposes of this regulation, “**the relevant period**” means the period—
+
+- (a) beginning with the first date on which applications may be made, and
+- (b) ending on the date three years after that date, or such later date as the Secretary of State may determine.
+
+(4) For the purpose of determining the amount of victims' payments payable in respect of a past period, the reference in regulation 18 to a rate specified from time to time is a reference to the rate specified at the time the amount of victims' payments is determined.
+
+### 22. Notification to the applicant[^key-c61b195d0cd3050b3ff09edc0a8b8b0d]
+
+*Extent: N.I.*
+
+After making a determination of the amount of victims' payments payable to an applicant, the Board must as soon as reasonably practicable notify the applicant in writing of—
+
+- (a) the amount payable;
+- (b) a summary of the reason for the determination, and
+- (c) the right to appeal.
+
+### 23. Making of payments[^key-3f10f08bc2834319f6156d22daf8778e]
+
+*Extent: N.I.*
+
+(1) Victims' payments must be paid monthly unless the Board considers the facts of a particular case means other arrangements are more appropriate.
+
+(2) The first payment of victims' payments to a person must be made as soon as reasonably practicable after the determination of the amount of victims' payments payable to the person.
+
+(3) The Board may make payments by whatever means the Board considers appropriate.
+
+### 24. Lump sums[^key-67cf1f061cd9daa63d4e2f3adf7ec41f]
+
+*Extent: N.I.*
+
+(1) A person entitled to victims' payments is entitled on application to receive instead a lump sum if—
+
+- (a) the person is over the age of 60, or
+- (b) the person is terminally ill.
+
+(2) An application under paragraph (1) must be—
+
+- (a) made to the Board;
+- (b) in writing;
+- (c) on a form approved for the purpose by the Board, and
+- (d) signed by or on behalf of the applicant.
+
+(3) An application to receive a lump sum may be made—
+
+- (a) at the same time as an application for victims' payments;
+- (b) whether or not the person is over the age of 60 at the time of the application.
+
+(4)[^key-7b89028ef4393ce21b6121d0659d6a85] Subject to paragraph (5), in the case of a person to whom paragraph (1)(a) or (b) applies, the lump sum is the amount of victims’ payments that would be payable to the person in the period of ten years beginning with the date of the application to receive a lump sum.
+
+(5) Where an application to receive a lump sum is made at the same time as an application for victims' payments, the lump sum must include any amount of victims' payments payable in accordance with regulation 21.
+
+(6) For the purpose of calculating the amount of the lump sum no regard is to be had to the possibility of—
+
+- (a) the rate specified in column 2 of the table in Part 2 of Schedule 1 to The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 being increased;
+- (b) the person's assessed degree of relevant disablement increasing or decreasing, or
+- (c) any other change of circumstance.
+
+(7) Where a person is paid a lump sum in accordance with this Regulation, the person—
+
+- (a) has no further entitlement to victims' payments (and accordingly regulation 23(1) does not apply), and
+- (b) may not bring an appeal.
+
+### 25. Overpayments[^key-6567d975802e5cb9a8a2e71c2651d7b0]
+
+*Extent: N.I.*
+
+(1) The Board may recover any amount of victims' payments or a lump sum paid in excess of entitlement.
+
+(2) Overpayments are recoverable from the person to whom the overpayment was made.
+
+(3) Where a person receives victims' payments or a lump sum on behalf of another person (whether pursuant to an appointment under regulation 48(1) or otherwise), overpayments are recoverable from the person on whose behalf the payments were received (as well as from the person to whom the overpayment was made).
+
+(4) Any amount recoverable from a person may be recovered by deducting the amount from further payments of victims' payments, or from payment of a lump sum, made to that person.
+
+(5) An amount recoverable under paragraph (1) is, if the county court so orders, recoverable as if it were payable under an order of that court.
+
+(6) Any costs of the Board in recovering an amount under this regulation may be recovered by the Board as if the costs were amounts recoverable under paragraph (1).
+
+(7) Where the Board is seeking to recover an overpayment, the Board must notify in writing the person from whom the Board intends to recover overpayments of—
+
+- (a) the amount the Board is seeking to recover;
+- (b) the reason the Board considers that a payment has been made in excess of entitlement.
+
+### 26. Disregard of payments and lump sums for certain purposes[^key-506fb225598c36a73bbc56c102df2a3b]
+
+(1) A payment of victims' payments or a lump sum is to be disregarded—
+
+- (a) from the calculation of a person's income or capital when determining entitlement to a relevant social security benefit;
+- (b) for the purposes of an assessment of a person's ability to pay under regulations made under Article 36(6) or 99(5) (cost of providing residential accommodation) of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c23972381];
+- (c) for the purposes of determining whether a person should repay (either fully or in part) an award of criminal injuries compensation where the application for that award was determined before these Regulations come into force.
+
+(2) In paragraph (1)—
+
+- “**criminal injuries compensation**” means compensation under a scheme established under the Criminal Injuries Compensation Act 1995 [^c23972391] or the Criminal Injuries Compensation (Northern Ireland) Order 2002 [^c23972401];
+- “**relevant social security benefit**” means any of the following—
+  - (a) employment and support allowance under—
+    - (i) Part 1 of the Welfare Reform Act 2007 [^c23972411] as it has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 [^c23972421] (to remove references to an income-related allowance);
+    - (ii) Part 1 of the Welfare Reform Act (Northern Ireland) 2007 [^c23972431] as it has effect apart from the amendments made by Schedule 3, and Part 5 of Schedule 12, to the Welfare Reform Order (Northern Ireland) 2015 [^c23972441] (to remove references to an income related allowance);
+  - (b) housing benefit under—
+    - (i) Part 7 of the Social Security Contributions and Benefits Act 1992 [^c23972451], or
+    - (ii) Part 7 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c23972461];
+  - (c) income support under—
+    - (i) Part 7 of the Social Security Contributions and Benefits Act 1992, or
+    - (ii) Part 7 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+  - (d) jobseeker's allowance under—
+    - (i) the Jobseekers Act 1995 [^c23972471] as it has effect apart from the amendments made by Part 1 of Schedule 14 to the Welfare Reform Act 2012 (to remove references to an income-based allowance);
+    - (ii) the Jobseekers (Northern Ireland) Order 1995 [^c23972481] as it has effect apart from the amendments made by Part 1 of Schedule 12 to the Welfare Reform Order (Northern Ireland) 2015 (to remove references to an income-based allowance);
+  - (e) state pension credit under—
+    - (i) section 1 of the State Pension Credit Act 2002 [^c23972491], or
+    - (ii) section 1 of the State Pension Credit Act (Northern Ireland) 2002 [^c23972501];
+  - (f) universal credit under—
+    - (i) Part 1 of the Welfare Reform Act 2012, or
+    - (ii) Part 2 of the Welfare Reform (Northern Ireland) Order 2015.
+
+### 27. Exclusion of payments from benefit recovery schemes[^key-ad934dccf9ed58aed4f70172c9887e05]
+
+*Extent: N.I.*
+
+(1) In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations 1997 [^c23972511] (exempted trusts and payments), after sub-paragraph (p) insert—
+
+> - (q) any payment of victims' payments, or of a lump sum, under the Victims' Payments Regulations 2020.
+
+.
+
+(2) In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997 [^c23972521] (exempted trusts and payments), after sub-paragraph (q) insert—
+
+> - (r) any payment of victims' payments, or of a lump sum, under the Victims' Payments Regulations 2020.
+
+.
+
+(3) In regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations 2008 [^c23972531] (exempted trusts and payments), after sub-paragraph (m) insert—
+
+> - (n) any payment of victims' payments, or of a lump sum, under the Victims' Payments Regulations 2020.
+
+.
+
+(4) In regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008 [^c23972541] (exempted trusts and payments), after sub-paragraph (n) insert—
+
+> - (o) any payment of victims' payments, or of a lump sum, under the Victims' Payments Regulations 2020.
+
+.
+
+### 28. Invalidity of assignment and bankruptcy[^key-def7dd7733dee7b3816d443598db074a]
+
+(1) Subject to regulation 9, any assignment or charge, and any agreement to assign or charge, any payment to which a person is entitled under this Scheme is void.
+
+(2) On the bankruptcy of any person entitled to payments under these Regulations, no such payment, or entitlement to payments, is to pass to any trustee or person acting on behalf of the creditors.
+
+## PART 6 — Information and disclosure
+
+### 29. Power to require information by notice[^key-5bc3c1bbcdba23c7777567832aecc0d8]
+
+(1) The Board may, by notice in writing, require any person to provide the Board with any specified records, documents or other information for the purpose of—
+
+- (a) determining whether a person is eligible for victims' payments;
+- (b) determining the amount of victims' payments payable to a person;
+- (c) making a determination under regulation 10(3)(a);
+- (d) a further assessment under regulation 33;
+- (e) determining an appeal under regulation 37, or
+- (f) reviewing a determination under regulation 43.
+
+(2) A notice under paragraph (1) may specify the date before which the notice must be complied with.
+
+(2A)[^key-84fc619d8cc3daa6d5279e2684e1fc6a] A person to whom a notice under this paragraph is given may make a claim to the Board that—
+
+- (a) the person is unable to comply with the notice, or
+- (b) it is not reasonable in all the circumstances to require the person to comply with the notice.
+
+(3) A claim under paragraph (2A)[^key-e8072c502b62397c6679aa0e0c38f612] must be considered on behalf of the Board by a panel appointed for this purpose.
+
+(4) On considering a claim under paragraph (2A)[^key-e1d07729f6382654fba07b57c43d1eca], the panel may confirm, revoke or vary the notice.
+
+(5) A person who is required by a notice under this regulation to provide records or documents must, if doing so would disclose information about another person which is irrelevant to the determination of the application under this Part and the disclosure of which would breach an obligation of confidence, provide the records or documents in a redacted form.
+
+(6) A notice under this section has effect in spite of anything which would otherwise prohibit a person from complying with the notice.
+
+(7) But a requirement of a notice does not have effect if—
+
+- (a) complying with the requirement would involve the disclosure of information which, although made in compliance with the requirement, would contravene the data protection legislation, or
+- (b) the person would be entitled in proceedings before the High Court in Northern Ireland to refuse to comply with the requirement.
+
+(8) The duty to comply with a notice given under paragraph (1) is enforceable by civil proceedings by the President of the Board for an injunction or any other appropriate relief.
+
+### 30. Use of personal data by the Board[^key-2475f73be923a431de3e8c06a27091c9]
+
+*Extent: N.I.*
+
+(1) Personal data provided to the Board by an applicant, or disclosed pursuant to a notice under regulation 29, may only be used by the Board for the purpose of the exercise of functions under these Regulations.
+
+(2) But paragraph (1) does not prevent the use of information by the Board—
+
+- (a) if the information has already lawfully been made available to the public;
+- (b) if the person to whom the information relates consents to its use for another purpose;
+- (c) for the prevention or detection of crime;
+- (d) for the purposes of a criminal investigation;
+- (e) for the purposes of legal proceedings (whether civil or criminal), or
+- (f) for the purposes of—
+  - (i) preventing serious physical harm to a person;
+  - (ii) preventing loss of human life;
+  - (iii) safeguarding vulnerable adults or children;
+  - (iv) responding to an emergency, or
+  - (v) protecting national security.
+
+(3) Paragraph (2) does not apply to HMRC information or social security information, but such information may be used by the Board for purposes other than those for which it was disclosed with the consent of the relevant authority (which may be general or specific).
+
+(4) In this regulation—
+
+- “**HMRC information**” means information disclosed to the Board under paragraph (1) by the Revenue and Customs;
+- “**the Revenue and Customs**” has the meaning given by section 17(3) of the Commissioners for Revenue and Customs Act 2005 [^c23972551];
+- “**social security information**” means information which, when disclosed to the Board under paragraph (1), was information held for the purposes of any of the following functions of the Secretary of State or a Northern Ireland Department—
+  - (a) functions relating to social security, including functions relating to—
+    - (i) statutory payments as defined in section 4C(11) of the Social Security Contributions and Benefits Act 1992 [^c23972561];
+    - (ii) maternity allowance under section 35 of that Act;
+    - (iii) statutory payments as defined in section 4C(11) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c23972571];
+    - (iv) maternity allowance under section 35 of that Act;
+    - (v) schemes and arrangements under section 2 of the Employment and Training Act 1973 [^c23972581];
+  - (b) functions relating to the investigation and prosecution of offences relating to tax credits;
+- “**the relevant authority**” means—
+  - (c) the Secretary of State (in the case of a disclosure of social security information held, when disclosed to the Board under paragraph (1), for the purposes of the functions of the Secretary of State);
+  - (d) the Department for Communities in Northern Ireland (in the case of a disclosure of social security information held, when disclosed to the Board under paragraph (1), for the purposes of the functions of a Northern Ireland department);
+  - (e) the Commissioners or an officer of Revenue and Customs (in the case of a disclosure or further disclosure of HMRC information).
+
+### 31. Confidentiality of personal data[^key-bf2c736b1a7dd8c7ea05527ac61272dc]
+
+(1) Personal data provided to the Board by an applicant, or disclosed pursuant to a notice under regulation 29, may not be disclosed—
+
+- (a) by the Board, or
+- (b) by any other person who has received it directly or indirectly from the Board.
+
+(2) In the case of personal data which is not HMRC information or social security information, paragraph (1) does not apply to a disclosure—
+
+- (a) which is required or permitted by any enactment (including these Regulations);
+- (b) which is required by a retained EU obligation;
+- (c) which is made in pursuance of an order of the court;
+- (d) of information which has already lawfully been made available to the public;
+- (e) which is made for the prevention or detection of crime;
+- (f) which is made for the purposes of a criminal investigation,
+- (g) which is made for the purposes of legal proceedings (whether civil or criminal);
+- (h) which is a protected disclosure for any of the purposes of the Employment Rights Act 1996 [^c23972591] or the Employment Rights (Northern Ireland) Order 1996) [^c23972601];
+- (i) consisting of the publication of information for the purposes of journalism, where the publication of the information is in the public interest;
+- (j) which is made with the consent of the person to whom it relates, or
+- (k) which is made for the purposes of—
+  - (i) preventing serious physical harm to a person;
+  - (ii) preventing loss of human life;
+  - (iii) safeguarding vulnerable adults or children;
+  - (iv) responding to an emergency, or
+  - (v) protecting national security.
+
+(3) In the case of HMRC information or social security information, paragraph (1) does not apply to a disclosure made with the consent of the relevant authority.
+
+(4) The duty imposed by paragraph (1) is enforceable by civil proceedings by the President of the Board for an injunction or any other appropriate relief.
+
+(5) In this regulation “**HMRC information**”, “**social security information**” and “**the relevant authority**” have the same meaning as in regulation 31.
+
+## PART 7 — Appeal, further assessment and review
+
+*Extent: N.I.*
+
+### 32. Finality of decisions[^key-1e622f6c5aebfcb56ab42d904619d121]
+
+Where the Board determines—
+
+- (a) whether a person is entitled to victims' payments, or
+- (b) the amount of victims' payments payable to a person,
+
+subject to regulations 33, 34 and 43 the determination is final.
+
+### 33. Further assessment where disablement worsens[^key-6fcd57708f69c63f8902b024ed23605a]
+
+(1) A person may apply to have their degree of permanent disablement assessed again where—
+
+- (a) the person's permanent disablement has become worse, and
+- (b) the person reasonably believes that their assessed degree of permanent disablement (“**the original assessment**”) does not provide a reasonable assessment of the degree of permanent disablement resulting from the relevant incident.
+
+(2) An application under paragraph (1) must—
+
+- (a) be made to the Board
+- (b) be in writing;
+- (c) be on a form approved for the purpose by the Board;
+- (d) be signed by or on behalf of the claimant;
+- (e) be made within the period of 12 months beginning with the date on which the worsening began;
+- (f) specify the grounds on which the application is made;
+- (g) include medical evidence that the applicant's disablement has become worse, and
+- (h) include such information as the President of the Board may from time to time determine.
+
+(3) On receipt of an application under paragraph (1), the Board must—
+
+- (a) arrange for the applicant to be assessed by a health care professional, and
+- (b) provide that health care professional with any relevant information obtained under regulation 29 or otherwise in the possession of the Board.
+
+(4) The health care professional must—
+
+- (a) assess the applicant's degree of permanent disablement in accordance with regulation 15(2) to (8), and
+- (b) make a report to the Board—
+  - (i) specifying the assessed degree of permanent disablement, and
+  - (ii) reporting the reason for the assessment.
+
+(5) Where the assessed degree of permanent disablement specified under paragraph (4)(b)(i) (“the further assessment”) is higher than the original assessment—
+
+- (a) the Board must determine the amount of victims' payments payable to the applicant in accordance with regulations 18(2) to (5), 19 and 20 by reference to the further assessment, and
+- (b) the applicant is entitled to the amount of victims' payments determined under sub-paragraph (a) from the date of that determination.
+
+(6) Following the report made under paragraph (4)(b) or (in a case where paragraph (5) applies) following the determination made under paragraph (5)(a), the Board must as soon as reasonably practicable notify the applicant in writing of—
+
+- (a) the assessed degree of permanent disablement of the applicant;
+- (b) in a case where paragraph (5) applies, the amount determined under paragraph (5)(a), and
+- (c) the right to appeal.
+
+(7) A person may make an application under this regulation only once.
+
+### 34. Appeals[^key-626e86dde06a17a67828224c3c42d2a9]
+
+(1) A person may appeal to the Board against—
+
+- (a) a determination under regulation 10(4);
+- (b) a determination under regulation 12(3)(b);
+- (c) a determination under regulation 12(3)(c);
+- (d) an assessment of the degree of relevant disablement under regulations 13(3), 16(3) or 33(4);
+- (e) an interim assessment under regulation 14(1)(b);
+- (f) a determination of the amount of victims' payments payable to a person;
+- (g)[^key-4461227ef90243c806aa5a638e3a3f04] a determination made or varied under regulation 43(6)(b).
+
+(2) An appeal must be brought before the end of—
+
+- (a) the period of one year beginning with the date on which the determination or assessment was notified to the person, or
+- (b) such longer period as the President of the Board considers equitable having regard to the circumstances.
+
+(3) An application to appeal must—
+
+- (a) be in writing;
+- (b) be on a form approved for the purpose by the Board;
+- (c) be signed by or on behalf of the claimant;
+- (d) be made within the period of 12 months beginning with the date on which the determination or assessment was notified to the applicant;
+- (e) include such information as the President of the Board may from time to time determine, and
+- (f) specify the grounds on which the application is made.
+
+(4) A person may appeal to the Board against a determination notwithstanding that the determination has been reviewed by the Board under regulation 43, and in such a case the period mentioned in paragraph (2)(a)[^key-579d736068b05aad35f4eb6b592a6baf] begins with the date on which the result of the review was notified to the appellant.
+
+### 35. Appeal Panels[^key-ce89c4850b35ae594ba051398dad6090]
+
+(1) An appeal is to be determined on behalf of the Board by a panel appointed by the President for that purpose.
+
+(2) An appeal panel must consist of three members and include—
+
+- (a) in any case where the determination of the appeal requires the appeal panel to consider an assessment by a health care professional, one legal member, one medical member and one ordinary member, and
+- (b) in any other case, one legal member, one ordinary member and one other member the President considers appropriate.
+
+(3) An appeal panel may not consider a determination made by a panel which included any member of the appeal panel.
+
+### 36. Determination of appeals[^key-67f8e45886103a0d424a27e8ee067522]
+
+(1) An appeal under regulation 34(1)(a) to (f)[^key-3d1e563e7eb708c0b1e482c7b936745a] is by way of reconsideration of the determination or assessment against which the appeal is brought, and accordingly—
+
+- (a) on an appeal under regulation 34(1)(a), paragraphs (5) to (9) of regulation 10 apply as they do to a determination under regulation 10(4);
+- (b) on an appeal under regulation 34(1)(b), the appeal panel must determine whether the appellant is entitled to victims' payments;
+- (c) on an appeal under regulation 34(1)(c), the appeal panel must determine the Troubles-related incident or incidents in relation to which the applicant is entitled to victims' payments;
+- (d) on an appeal[^key-d77b0a6fe087100f5d67c837b7fb2d8f] under regulation 34(1)(d) or (e), the appeal panel must consider whether the assessed degree of disablement provides a reasonable assessment of the degree of disablement resulting from the relevant incident;
+- (e) on an appeal[^key-9b2a1b7cf9cfa9f9618641fb6414bbd9] under regulation 34(1)(f)—
+  - (i) the appeal panel must determine the amount of victims' payments payable to the appellant, and
+  - (ii) regulations 18(2) to (5) and 19 to 21 apply as they do to a determination under regulation 18(1), but with references to the applicant read as references to the appellant.
+
+(1A)[^key-9a18840db7627f1b413aa4ca6e85d37e] On an appeal under regulation 34(1)(g), where the determination reviewed under regulation 43 was a determination—
+
+- (a) under regulation 10(4), the appeal is, for the purposes of paragraph (1), to be treated as an appeal under paragraph 34(1)(a);
+- (b) under regulation 12(3)(b), the appeal is, for the purposes of paragraph (1), to be treated as an appeal under regulation 34(1)(b);
+- (c) under regulation 12(3)(c), the appeal is, for the purposes of paragraph (1), to be treated as an appeal under regulation 34(1)(c);
+- (d) of the amount of victims’ payments payable to a person, the appeal is, for the purposes of paragraph (1), to be treated as an appeal under regulation 34(1)(f).
+
+(2) An appeal panel is to determine the appeal by considering—
+
+- (a) any material provided in support of an application;
+- (b) any material obtained under regulation 29;
+- (c) any evidence given in a hearing;
+- (d) any report to the Board by a health care professional;
+- (e) any advice from an advisor appointed under paragraph 13(1) of Schedule 1, and
+- (f) any other material which the panel considers relevant.
+
+### 37. Medical assessment on appeal[^key-ff2ea0b26f0b5ac95f68f87e2254e4fb]
+
+(1) The appeal panel may, for the purpose of determining the appeal, require that the appellant is assessed by a health care professional.
+
+(2) Following a requirement under paragraph (1), the health care professional must—
+
+- (a) assess the degree of relevant disablement, and
+- (b) make a report to the Board—
+  - (i) specifying the assessed degree of relevant disablement, and
+  - (ii) reporting the reason for the assessment.
+
+(3) In its application in the case of an assessment carried out under paragraph (2), regulation 18 has effect as if the references to the applicant were to the appellant.
+
+(4) The appeal panel may, if it considers it appropriate, direct that the assessment under paragraph (2) is carried out, or not carried out, by a particular health care professional.
+
+### 38. Remedies[^key-f523c98e9e31c4f843372cf629942c01]
+
+(1) On determining an appeal, the appeal panel may—
+
+- (a) confirm a determination;
+- (b) make a new determination or vary a determination;
+- (c) increase, decrease or confirm an assessment of the degree of relevant disablement;
+- (d) exercise any function of a panel appointed by the President for any purpose under these Regulations[^key-899546abd68602d01cbe4a016ad7c3bc].
+
+(2) Following the determination of an appeal, the Board must as soon as reasonably practicable notify the appellant in writing of the following matters—
+
+- (a) whether a determination was confirmed;
+- (b) if a new determination was made, the new determination;
+- (c) if a determination was varied, the determination as varied;
+- (d) if the assessment of the degree of relevant disablement was changed, the new assessment, and
+- (e) a summary of the reasons for the matters in sub-paragraph (a) to (d).
+
+### 39. Hearings[^key-40c2500e381919c5bdc9a697ccb1bc3c]
+
+(1) An appeal panel may direct that an oral hearing is to be held if—
+
+- (a) the appellant reasonably requests an oral hearing, or
+- (b) the panel considers an oral hearing to be necessary in the interests of justice.
+
+(2) An appeal panel may, if it considers it necessary in the interests of justice to do so, direct that evidence at an oral hearing is to be given on oath.
+
+(3) An oral hearing is to be held in private but the panel may, if it considers that it would be in the interests of justice to do so, direct that the hearing is to be held wholly or partly in public.
+
+(4) The appeal panel may direct that an oral hearing is to be held, wholly or in part, via video link, telephone conference or any other electronic means.
+
+(5) The Board may, by notice in writing, require any person to attend a hearing convened by the panel and to give oral evidence on oath to the appeal panel.
+
+(6) A notice under paragraph (5)[^key-d063c40c1c0668efb2a17d694785ab1b] must specify one or more dates on which the person must attend, the earliest of which must be at least 21 days after the date of the notice.
+
+(7) A person to whom a notice under paragraph (5)[^key-fa542726494eceb9306f1c4cd01de930] is given may make a claim to the appeal panel that—
+
+- (a) the person is unable to comply with the notice, or
+- (b) it is not reasonable in all the circumstances to require the person to comply with the notice.
+
+(8) On considering a claim[^key-a668d376dfed941a243645ded4af5e1a] under paragraph (7), the panel may confirm, revoke or vary the notice.
+
+### 40. Representation[^key-561f5c216138488bc3aa16da24c6858e]
+
+The appellant may appear in person at an oral hearing and may be represented by any person appointed for that purpose.
+
+### 41. Case management[^key-55f32594713c4e6aa6676832b472b14e]
+
+An appeals panel may—
+
+- (a) adjourn or postpone a hearing;
+- (b) transfer the appeal to a different appeals panel, and
+- (c) give whatever other directions, and may take whatever other steps, it considers necessary for managing the appeal and securing its efficient determination.
+
+### 42. Exercise of functions by the chair[^key-b7313be4b09a59fc36568a904853501b]
+
+The powers under regulations 39(1) to (5) and 41 may be exercised by the chair of the panel acting alone.
+
+### 43. Review[^key-28c2d35e62c9b835befddfc4f14b74ab]
+
+(1) The Board may at any time review a determination made by the Board if the Board is satisfied that—
+
+- (a) the determination was made in consequence of the applicant having—
+  - (i) provided information which the applicant knew to be false in a material particular;
+  - (ii) recklessly provided information which was false in a material particular, or
+  - (iii) knowingly failed to disclose a material fact;
+- (b) the determination was made in consequence of—
+  - (i) ignorance of, or a mistake as to, a material fact, or
+  - (ii) a mistake as to the law, or
+- (c) there has been a relevant change of circumstance.
+
+(2) The Board may review a determination made under regulation 12(3)(b) or (c) where a person entitled to victims' payments is convicted of an offence such that regulation 6(1), (2) or (3) may apply.
+
+(3) A review of a determination is to be carried out on behalf of the Board by a Panel appointed by the President of the Board for this purpose.
+
+(4) A review panel must consist of three members and include—
+
+- (a) in any case where the determination of the review[^key-8b6e3a47f6d3d519300e937850d8cdcd] requires the review panel to consider an assessment by a health care professional, one legal member, one medical member and one ordinary member, and
+- (b) in any other case, one legal member, one ordinary member and one other member the President considers appropriate.
+
+(5) A review panel may not review a determination made by a panel which included any member of the review panel.
+
+(6) On reviewing a determination, the review panel may—
+
+- (a) confirm a determination, or
+- (b) make a new determination or vary a determination;
+
+(7) Following the review of a determination[^key-b41a2c9bef15b2790f2fc4fb4cf22ce0], the Board must as soon as reasonably practicable notify the appellant in writing of the following matters—
+
+- (a) whether a determination was confirmed;
+- (b) if a new determination was made, the new determination;
+- (c) if a determination was varied, the determination as varied;
+- (d) a summary of the reasons for the matters in sub-paragraph (a) to (d), and
+- (e) the right to appeal.
+
+## PART 8 — Miscellaneous provisions
+
+*Extent: N.I.*
+
+### 44. Burden of proof[^key-108fc2f39a1579f960f318a8e15f9670]
+
+The burden of proving any issue in relation to an application or appeal is on the applicant or, as the case may be, the appellant.
+
+### 45. Standard of proof[^key-772358e2919b95afafb29df5518e1998]
+
+The standard of proof applicable in any determination or other decision which is required to be made under these Regulations is the balance of probabilities.
+
+### 46. Time of applications and appeals[^key-a6d39599244a27f18838dc912346149d]
+
+For the purpose of these Regulations, the date on which an application or an appeal is made is the date on which the application is received by the Board.
+
+### 47. Withdrawal of applications and appeals[^key-f240a06753a41b038b40dc99abb56d3c]
+
+(1) An applicant or appellant may withdraw an application or appeal at any time before the applicant or appellant is notified of the determination of the application or appeal.
+
+(2) An application or appeal is withdrawn by giving notice in writing to the Board.
+
+(3) Where an application or appeal is withdrawn it may be reinstated by giving notice in writing to the Board.
+
+### 48. Applicants under 18[^key-ee6b03a228a2f9d5edacd354cdf0824a]
+
+(1) An application may be made on behalf of a child by the child's parents or a person having legal responsibility for the child.
+
+(2) Subject to paragraph (3), where a child is entitled to victims' payments, any payment is to be made to the child's parents or a person having legal responsibility for the child.
+
+(3) Where paragraph (4) applies the Board may, in writing, appoint a person to—
+
+- (a) receive payments on behalf of the child, and
+- (b) apply the payments for the benefit of the child.
+
+(4) This paragraph applies if the Board considers that it is in the interests of the child that a person other than the parent or person having legal responsibility for the child should receive payments on behalf of the child.
+
+(5) Where a person appointed under paragraph (3) is a natural person, the person must be over the age of 18.
+
+(6) The Board may, before appointing a person under paragraph (3), require that person to give such undertaking as the Board considers necessary as to the use of payments.
+
+(7) Where the Board has made an appointment under paragraph (3)—
+
+- (a) the Board may at any time revoke it and either—
+  - (i) make another appointment under paragraph (3), or
+  - (ii) pay the child's payments to the parent or the person having legal responsibility for the child, and
+- (b) the person appointed may resign after having given one month's notice in writing to the Board of the intention to do so.
+
+(8) In this regulation, a “**child**” means a person under the age of 18.
+
+### 49. Duty to notify the Public Guardian[^key-e87b8b49a2be082b4587ef73a539a520]
+
+(1) Where a health care professional, after carrying out an assessment of a person, is satisfied—
+
+- (a) that the person lacks capacity in relation to a matter or matters relating to that person's care, treatment, personal welfare or property and affairs;
+- (b) that any of the powers of the court under section 113 of the Mental Capacity Act (Northern Ireland) 2016 [^c23972611] ought to be exercised with respect of a relevant matter, and
+- (c) that arrangements in that behalf under section 113 of that Act have not been made and are not being made; it is the duty of the health care professional to notify the Public Guardian of the situation.
+
+(2) In this regulation—
+
+- “**lacks capacity**” has the meaning given by section 3 of the Mental Capacity Act (Northern Ireland) 2016;
+- “**Public Guardian**” has the meaning given by section 125 of that Act (the Public Guardian).
+
+(3) Until section 128 of the Mental Capacity Act (Northern Ireland) 2016 (duty to notify the Public Guardian) is in force for all purposes, this regulation has effect as if for paragraphs (1) and (2) there were substituted—
+
+> (1) Where a health care professional, after carrying out an assessment of a person, is satisfied—
+>
+> - (a) that the person by reason of mental disorder, is incapable[^key-e5b74e48846c5e2667580326cc2065cb] of managing and administering their property and affairs;
+> - (b) that any of the powers of the court under Article 98 or 99 of the Mental Health (Northern Ireland) Order 1986 [^c23972621] ought to be exercised with respect to the property or affairs of that person;
+> - (a) that arrangements in that behalf have not been made and are not being made, it is the duty of the health care professional to notify the Office of Care and Protection of those matters.
+>
+> (2) In this regulation—
+>
+> - “**mental disorder**” has the meaning given in article 3 of the Mental Health (Northern Ireland) Order 1986;
+> - “**Office of Care and Protection**” means the Office of Care and Protection of the Supreme Court of Judicature of Northern Ireland.
+
+.
+
+### 50. Provision of advice[^key-24ba8523e5dbf12a988d172dc9e426d0]
+
+The Board must make arrangements for facilitating access to—
+
+- (a) advice and support for any person making an application, or considering whether to make an application, under this Scheme, and
+- (b) advice on the financial management of payments for a person entitled to payments under this Scheme.
+
+### 51. Expenses[^key-a2ad5165502415b37b4172c952c48448]
+
+The Board may reimburse the expenses of travel, subsistence and accommodation reasonably incurred by a person in making an application or bringing an appeal under these Regulations.
+
+### 52. Review of the Scheme[^key-ceee0c21b6d64dd0cc374b7886d3dee8]
+
+(1) The Secretary of State must, within the period of 12 months beginning with the end of the initial period, prepare a report on the operation of the Scheme.
+
+(2) In paragraph (1), “the initial period” is the period of 2 years beginning with the first date on which applications may be made.
+
+(3) In preparing the report under paragraph (1), the Secretary of State must, in particular, consult—
+
+- (a) The President of the Board;
+- (b) the Department and the Executive Office;
+- (c) such persons representing the interests of those injured or killed as a result of Troubles-related incidents as the Secretary of State considers appropriate, and
+- (d) such persons with experience and training regarding the medical assessment of disability as the Secretary of State considers appropriate.
+
+(4) The Secretary of State must publish the report prepared under paragraph (1).
+
+### 53. Consequential amendments[^key-e8a02e98b80e0c0363b4a1a3461d6662][^key-f7411e79501bd61e83b377e35af09dde]
+
+Schedule 3 (which contains consequential amendments) has effect.
+
+Julian Smith
+
+Secretary of State
+
+Northern Ireland Office
+
+*Extent: N.I.*
+
+SCHEDULES
+
+## SCHEDULE 1 — The Board
+
+Regulation 3(2)
+
+### 1. Status of the Board[^key-f665d2268d6e4df21d7923bb50917f16]
+
+(1) The Board is a body corporate.
+
+(2) The Board is not to be regarded—
+
+- (a) as the servant or agent of the Crown, or
+- (b) as enjoying any status, immunity or privilege of the Crown.
+
+(3) Section 19 of the Interpretation Act (Northern Ireland) 1954 [^c23972631], except for subsection (1)(a)(iv) and (vi), applies to the Board, subject to the provisions of this Act; and, for the purposes of that section, the Board is to be treated as if it were established by an Act of the Northern Ireland Assembly.
+
+### 2. Administrative functions exercisable by the Department[^key-01ead2429ef2ec2eb5144886a996422a]
+
+(1) The Executive Office must in writing designate a Northern Ireland Department to exercise the administrative functions of the Board on the Board's behalf.
+
+(2) The designated Department (whether in its own capacity or in the capacity of an agency of that Department) is, accordingly, to exercise the administrative functions of the Board on the Board's behalf.
+
+(3) The Board, or any member of the Board acting on its behalf, may do anything which the Board or member considers to be appropriate for facilitating, or to be incidental or conducive to, the exercise of its functions.
+
+(4) The power under sub-paragraph (2) does not include a power to borrow money.
+
+### 3. Members[^key-88dd2660915e7566520190695ef1ea29]
+
+(1) The Northern Ireland Judicial Appointments Commission must appoint—
+
+- (a) legal members of the Board;
+- (b) medical members of the Board, and
+- (c) ordinary members of the Board.
+
+(2) A person may be appointed as a legal member of the Board only if that person is a member of the Bar of Northern Ireland or a solicitor of the Court of Judicature of Northern Ireland of at least 5 years' standing.
+
+(3) A person may be appointed as a medical member of the Board only if that person is a registered medical practitioner.
+
+(4) A person may be appointed as an ordinary member of the Board only if it appears to the Department that the person has appropriate knowledge or experience.
+
+### 4. The President of the Board[^key-d4d55e816d35376ef97a28850b50c7f5]
+
+(1) The Lord Chief Justice of Northern Ireland is to appoint a person as the President of the Board.
+
+(2) A person may be appointed under sub-paragraph (1) only if the person holds or has held office—
+
+- (a) as a judge of the Court of Judicature of Northern Ireland, or
+- (b) as a judge or deputy judge of a county court in Northern Ireland.
+
+(3) The President has responsibility for ensuring the efficient and effective discharge of the Board's functions.
+
+(4) Subject to these Regulations, the President may determine the procedure in relation to the discharge of any of the Board's functions.
+
+(5) Any function of the President may be exercised by a legal member of the Board who has been authorised (whether generally or specifically) by the President for that purpose.
+
+### 5. Terms of appointment[^key-b1188894f59f64603672f899df7ca000]
+
+(1) A member and the President holds and vacates office in accordance with the terms and conditions of their appointment.
+
+(2) Those terms and conditions are to be determined by the Northern Ireland Judicial Appointments Commission with the agreement of the Department.
+
+(3) A person holding office as a member of the Board may resign that office by giving notice in writing to the Northern Ireland Judicial Appointments Commission.
+
+(4) A previous appointment as a member of the Board does not affect a person's eligibility for re-appointment as a member of the Board.
+
+(5) A person shall not hold office as a member of the Board after reaching the age of 75[^key-cf50eca084dddf7e29328caea89ab522].
+
+(6)[^key-9a63c0c166e0e9a2fbef7ba5728264c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Remuneration and expenses[^key-9fefa23ab9a4d4a6159959bec88f568f]
+
+(1) The Department must pay to or in respect of the President and each member of the Board such remuneration, such allowances, and such sums for the provision of a pension as the Department may determine.
+
+(2) The Department may reimburse the President and each member of the Board for such expenses as the member reasonably incurs in acting as such.
+
+### 7. Staff and accommodation[^key-b562fbd44fe6751526a757270fef83f2]
+
+(1) The staff required for the Board are, with the approval of the Executive Office as to numbers, to be provided by the Department.
+
+(2) The staff provided under sub-paragraph (1) must, in particular, include a person to act as the secretary to the Board.
+
+(3) The Department may assign one or more members of its staff to act as a deputy secretary to the Board; and a deputy secretary is entitled to act on behalf of the secretary.
+
+(4) The office accommodation and equipment required for the Board are to be provided by the Department.
+
+### 8. Expenses[^key-471d93e6aa5e99f2ca950b31cfbd2597]
+
+The Department may defray the expenses of the Board to such amount as the Department may determine.
+
+### 9. Funding[^key-fd572bb84a77694bad6806e8b3af7190]
+
+(1) The Executive Office may make to the Department grants of such amounts as the Executive Office determines for the purpose of funding—
+
+- (a) the costs of exercising the administrative functions of the Board;
+- (b) the payment of victims' payments and lump sums, and
+- (c) the reimbursing of expenses under regulation 51.
+
+(2) The Board must pay to the Executive Office all sums received by it in the course of, or in connection with, the exercise of the Board's functions.
+
+(3) But sub-paragraph (2) does not apply to such sums, or sums of such description, as the Executive Office may direct with the approval of the Department of Finance in Northern Ireland.
+
+(4) Any sums received by the Executive Office under this paragraph must be paid into the Consolidated Fund of Northern Ireland.
+
+### 10. Seal[^key-12130f984145345f6773ad443ecbc78e]
+
+The application of the seal of the Board must be authenticated—
+
+- (a) by the signature of the President, or
+- (b) by the signature of a person who is authorised under sub-paragraph 4(5)[^key-a773e7dd0982e19d3176470ee3eb08a8] for that purpose.
+
+### 11. Evidence[^key-7738f05d097f9f9da611e38248841ef6]
+
+(1) A document purporting to be an instrument issued by the Board and to be duly executed under the Board's seal or signed by or on behalf of the Board is to be received in evidence and, unless the contrary is proved, taken to be such an instrument.
+
+(2) The Board may administer oaths for the purposes of these Regulations.
+
+### 12. Panels[^key-98aedb667cc206650660ea8ecbffd347]
+
+(1) A panel other than an appeal panel or a review panel must be constituted to consist of—
+
+- (a) one legal member, or
+- (b) three members, including at least one legal member and one ordinary member.
+
+(2) A panel must be constituted in accordance with sub-paragraph (1)(b)[^key-45969c38f15b95d136253f47c3e27621] if the panel is to make a decision or determination under regulations 5(5), 6(2) or (3), 9(4)(b), 10(4) or 20(3).
+
+(3) Where a panel has been constituted in accordance with sub-paragraph (1)(a)[^key-cd3233ba815ef85368759a7990698f5e], the President may appoint further members such that the panel is constituted in accordance with sub-paragraph (1)(b)[^key-bfb9b27e3e7e23c30e52ec7e409ffde9].
+
+(4) Where a panel consists of one legal member, that member is chair.
+
+(5) Where a panel consists of three members—
+
+- (a) if the panel includes the President of the Board, the President is the chair of the panel;
+- (b) in any other case, the President must appoint a legal member as the chair.
+
+(6) A determination or decision of a panel is the determination or decision of the majority of the members of the panel.
+
+(7) The functions of a panel consisting of one legal member may, where and to the extent the President considers it appropriate, be exercised by a member of staff provided under paragraph 7.
+
+### 13. Advisors[^key-da9871132288031f0c23f9d29f2fef14]
+
+(1) The Board may appoint one or more persons to act as advisors to the Board.
+
+(2) A person may be appointed as an advisor only if it appears to the Board that the person has expertise that makes that person a suitable person to provide advice to the Board.
+
+(3) The Board may at any time terminate the appointment of an advisor.
+
+### 14. Annual report[^key-c2de61516e1bb60789cff9d881303a7e]
+
+(1) The Board must, as soon as practicable after the end of each financial year, send to the Executive Office a report on the exercise of the Board's functions during that year.
+
+(2) The Executive Office must, in the case of each report sent to it under this paragraph, lay a copy of the report before the Northern Ireland Assembly.
+
+(3) In this paragraph, “**financial year**” means—
+
+- (a) the period beginning with the day on which the Board is established under regulation 3(1)[^key-79bc92201e02bd2a06b5fdcd1ecf67c7] and ending with the next 31 March following that date, and
+- (b) each successive period of twelve months ending with 31 March.
+
+## SCHEDULE 2 — Assessment of disablement
+
+Regulation 15(8)
+
+### 1. Assessment of degree of disablement[^key-cc9ff84197b8afbdc14ee8f45b588da4]
+
+(1) The degree of the disablement caused by a relevant incident is assessed by making a comparison between the condition of—
+
+- (a) the person so disabled, and
+- (b) an average, healthy person of the same age and sex who is not disabled.
+
+(2) In making the comparison in accordance with sub-paragraph (1), the following must not be taken into account—
+
+- (a) the earning capacity of the person so disabled in the person's trade or occupation or any other trade or occupation, and
+- (b) the effect of any individual factors or extraneous circumstances.
+
+(3) Where disablement is caused by more than one relevant incident, a composite assessment of the degree of disablement is to be made by reference to the combined effect of all such incidents.
+
+(4) Subject to sub-paragraph (5), where the sole injury which an applicant suffers as a result of the relevant incident is one specified in column 1 of Schedule 2 to the Social Security (General Benefit) Regulations 1982 (prescribed degrees of disablement), whether or not such injury incorporates one or more other injuries so specified, the assessed degree of disablement suffered by the applicant as a result of that injury is the degree of disablement specified in column 2 of that Schedule.
+
+(5) The degree of disablement assessed in accordance with sub-paragraph (4)[^key-e27809449b5b9affa176edc299982594] is subject to such increase or reduction of that degree of disablement as may be reasonable in the circumstances of the case where that degree of disablement does not provide a reasonable assessment of the degree of disablement resulting from the relevant incident.
+
+(6) Where the assessed degree of disablement is increased or decreased in accordance with sub-paragraph (5)[^key-032a06116eb866dcb4c8d7bf937440c8], the health care professional conducting the assessment must make a record of the reason for the increase or decrease.
+
+(7) For the purpose of assessing the degree of disablement resulting from an injury not specified in Column 1 of Schedule 2 to the Social Security (General Benefit) Regulations 1982, the health care professional may have such regard as the health care professional considers appropriate, to the prescribed degrees of disablement set against injuries specified in that Schedule.
+
+### 2. Disablement with other causes[^key-7ba9cc998132fc31e25b8d743ff4a4eb]
+
+(1) This regulation applies where disablement is caused by a relevant incident but also has a cause (“the other cause”) other than a relevant incident.
+
+(2) In a case where the other cause is a congenital disorder or is an injury received or contracted before the relevant incident, the assessed degree of disablement must take into account all such disablement, except to the extent the applicant would have been subject to that disablement had the relevant incident not occurred.
+
+(3) In a case where the other cause is an injury received or contracted after and not directly attributable to a relevant incident, the assessed degree of disablement must take account of—
+
+- (a) all such disablement to the extent to which the applicant would have been subject to that disablement if the other cause had not arisen, and
+- (b) where the extent of disablement would be assessed at not less than 11 percent if that other cause had not arisen, the assessment must also take account of any disablement to which the applicant may be subject as a result of that other cause except to the extent to which the applicant would have been subject to that disablement had the relevant incident not occurred.
+
+### 3. Expression of degree of disablement[^key-7d8605f286c7ec457a42d4f9d6dbd284]
+
+(1) The assessed degree of disablement must be expressed as a percentage.
+
+(2) Subject to sub-paragraph (3)[^key-c4397c5f5519f1b2cac2d355033b3970], if the assessed degree of disablement is a percentage between 0 and 100 which is not a multiple of 10, it is to be treated—
+
+- (a) if it is a multiple of 5, as being the next higher percentage which is a multiple of 10, and
+- (b) if it is not a multiple of 5, as being the nearest percentage which is a multiple of 10.
+
+(3) Where the assessed degree of disablement is less than 20 percent, but not less than 14 percent, it is to be treated as 20 percent.
+
+### 4. Guidance[^key-777e530297105d13db628866ee272e1b][^key-56ec7166e1b8d1d5f105ec28bc7c9f6a]
+
+(1)[^key-777e530297105d13db628866ee272e1b] The Board must make arrangements for guidance to be issued to health care professionals regarding the assessment of the degree of relevant disablement.
+
+(2)[^key-56ec7166e1b8d1d5f105ec28bc7c9f6a] A health care professional must have regard to any guidance issued under sub-paragraph (1)[^key-fa9e4d9c1ad3de89da69f1348a984f50] when assessing the degree of relevant disablement.
+
+## SCHEDULE 3 — Consequential amendments
+
+Regulation 53
+
+### 1. Northern Ireland Assembly Disqualification Act 1975[^key-c7c1718dbe4070040a6fdc67762a5af2]
+
+In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 [^c23972641] (disqualifying offices: bodies of which all members are disqualified), at the appropriate place, insert—
+
+> The Victims' Payments Board
+
+.
+
+### 2. The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-71e854c575e1f5de5f0a2401b8518ec1]
+
+(1) The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 [^c23972651] is amended as follows.
+
+(2) In article 3ZA (disapplication of section 4(2) of, and paragraph 3(3) of Schedule 3 to, the Rehabilitation of Offenders Act 1974) [^c23972661]—
+
+- (a) at the end of sub-paragraph (a) omit the “or”;
+- (b) after paragraph (b) insert—
+
+  > and
+  >
+  > - (c) any question asked by or on behalf of the Victims' Payments Board, where—
+  >   - (i) an application for payments under the Victims' Payment Regulations 2020 has been made;
+  >   - (ii) the question relates to the person whose disablement the application concerns, and
+  >   - (iii) the question is asked in order to assess whether regulation 6(1) (convictions) of the Victims' Payment Regulations 2020 excludes the person from entitlement to payments.
+
+  .
+
+(3) In Schedule 3 (excepted proceedings), after paragraph 24 [^c23972671] insert—
+
+> **25.** Proceedings to determine whether regulation 6(1) (convictions) of the Victims' Payment Regulations 2020 excludes a person from entitlement to payments under those regulations.
+
+.
+
+### 3. The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^key-0aaa56470e414ec910fd043be30ff325]
+
+(1) The Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979 [^c23972681] is amended as follows.
+
+(2) In article 3A (exclusion from Article 5(2) of the Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979) [^c23972691], after paragraph (b) insert—
+
+> - (c) any question asked by or on behalf of the Victims' Payments Board, where—
+>   - (i) an application for payments under the Victims' Payment Regulations 2020 has been made;
+>   - (ii) the question relates to the person whose disablement the application concerns, and
+>   - (iii) the question is asked in order to assess whether regulation 6(1) (convictions) of the Victims' Payment Regulations 2020 excludes the person from entitlement to payments.
+
+.
+
+(3) In Schedule 3 (excepted proceedings), after paragraph 26 [^c23972701] insert—
+
+> **27.** Proceedings to determine whether regulation 6(1) (convictions) of the Victims' Payment Regulations 2020 excludes a person from entitlement to payments under those regulations.
+
+### 4. Freedom of Information Act 2000[^key-316109bf7c963289b3d562da7b04ad82]
+
+In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies in Northern Ireland which are public authorities for the purposes of the Act), at the appropriate place, insert—
+
+> The Victims' Payments Board, in relation to its administrative functions.
+
+### 5. Amendment to Justice (Northern Ireland) Act 2002[^key-6a7fd79059fdf179f104117037adaf44]
+
+In Schedule 1 to the Justice (Northern Ireland) Act 2002 [^c23972711] (listed offices), at the end insert—
+
+> Member of the Victims' Payments Board
+>
+> President of the Victims' Payments Board
+
+.
+
+### 6. The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^key-40302bf890a271115ec0585e41fdc164]
+
+(1) The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 [^c23972721] is amended as follows.
+
+(2) In Article 4(3) (exclusion of section 4(2)(a) and (b) of the Rehabilitation of Offenders Act 1974), for “paragraph 6(1)” substitute “ paragraphs 6(1) or 16 ”.
+
+(3) In Schedule 1 (proceedings), after paragraph 29 [^c23972731] insert—
+
+> **30.** Proceedings to determine whether regulation 6(1) (convictions) of the Victims' Payment Regulations 2020 excludes a person from entitlement to payments under those regulations.
+
+(4) In Schedule 3 (exclusions of section 4(2)(a) and (b) of the Rehabilitation of Offenders Act 1974), after paragraph 15 insert—
+
+> **16.** Any question asked by or on behalf of the Victims' Payments Board, where—
+>
+> - (a) an application for payments under the Victims' Payment Regulations 2020 has been made;
+> - (b) the question relates to the person whose disablement the application concerns, and
+> - (c) the question is asked in order to assess whether regulation 6(1) (convictions) of the Victims' Payment Regulations 2020 excludes the person from entitlement to payments.
+
+.
+
+*(This note is not part of the Regulations)*
+
+These Regulations establish the Troubles Permanent Disablement Payment Scheme under the law of Northern Ireland.
+
+Regulation 3 establishes the Victims' Payments Board (“**the Board**”) and regulation 4 sets out principles that the Board must have regard to when exercising functions under these Regulations.
+
+Part 3 of the Regulations makes provision for who is entitled to victims' payments, including the requirements that a person be permanently disabled as a result of injury caused by a Troubles-related incident. Regulation 6 makes provision for circumstances in which a person may, due to a conviction or other exceptional circumstances, not be entitled to victims' payments. Regulation 7 makes further provision about when injury may be said to be caused by a particular incident. A person entitled to victims' payments can nominate someone (their spouse, civil partner, cohabiting partner, or someone with regular and substantial caring responsibilities for them) to receive payments for ten years after their death. If no such person has been nominated, the Board has the power to decide if someone may apply to receive such payments.
+
+Part 4 makes provision for the Board to determine whether someone is entitled to victims' payments and, if so, in relation to which particular incident. The determination is to be made on behalf of the Board by a panel, but the decision of the panel is subject to assessment by a medical health professional as to the degree the applicant has permanent disablement caused by the relevant incident. A health care professional may assess the applicant by considering information (such as medical records), carrying out an examination, or considering a report by another health care professional. In cases where the degree of permanent disablement cannot be assessed, regulation 14 provides for the degree of disablement to be assessed with reference to an interim period.
+
+Part 5 makes provisions regarding payments. The amount of victims' payments a person is entitled to must be determined by the Board. This is done, as per regulation 18, using the table in Part 2 of Schedule 1 to The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 (S.I. 2006/606), as periodically updated, which sets out amounts of payments corresponding to particular degrees of disablement. Regulation 19 makes provision for this amount to be reduced in respect of other payments in respect of the same disablements, and regulation 20 allows the Board to adjust payments to reflect compensation received in the past and sets out factors the Board must have particular regard to in making such a decision. Regulation 21 provides that if a person applies in the period of three years beginning with the day applications are first advertised as possible, (or longer if the Secretary of State decides) the entitlement to victims' payments will be backdated to the date the applicant would have been entitled to victims' payments if the Scheme had existed since 23 December 2014. Regulation 24 provides that a person can opt to receive a lump sum equal to ten years of victims' payments, instead of regular payments, if they are 60 years old or terminally ill.
+
+Part 6 makes provision regarding the obtaining and use of information by the Board. Regulation 29 allows the Board to require persons, by notice, to provide the Board with the information the Board needs in order to determine applications and appeals. Regulation 30 makes provision restricting the use by the Board of personal data obtained under notice or provided by an applicant and regulation 31 limits the circumstances in which such personal data can be discos disclosed by the Board or any person receiving the information from the Board.
+
+Part 7 provides that determinations by the Board are final, subject to three exceptions. Regulation 33 makes provision for a situation in which a person's condition has worsened, allowing their degree of disablement to be reassessed by a health care professional. Regulation 34 sets out the circumstances in which a person can appeal against a determination or assessment. Regulation 35 provides that appeals are to be determined by an appeal panel of three members and regulation 36 provides that the appeal panel is to reconsider the determination or assessment. Regulation 37 confers on an appeal panel the ability to require that the appellant be reassessed by a health care professional for the purpose of determining the appeal. Regulation 38 provides that the appeal panel's powers include changing a determination or assessment and taking any action that a panel can take. Regulation 39 provides that a hearing can be held if the appellant reasonably requests one or if the Panel thinks it is necessary. Regulations 40, 41 and 42 make provisions for hearings, representation and case management. The third way a determination can be changed is set out in regulation 43, which allows a panel to review decisions in certain circumstances.
+
+Part 8 makes miscellaneous provision. That includes, in regulations 44 and 45, that an applicant or appellant has the burden of proving matters on the balance of probabilities.
+
+Schedule 1 makes provision regarding the Board. The Board is to be a body corporate, with administrative functions exercised on its behalf by a Northern Ireland Department which will also be responsible for providing the Board with staff and accommodation. The Board is to have a President, legal members, medical members and ordinary members and determinations will be taken by panels, consisting of those members, appointed by the President.
+
+Schedule 2 sets out how a health care professional is to assess a person's degree of disablement. Disablement means the loss of physical or mental capacity caused by an injury or illness, whether mental or physical. It is assessed by comparing the person with the disablement with an average, healthy person of the same age and sex, ignoring such matters as occupation. The degree of disablement must be expressed as a percentage.
+
+Schedule 3 makes consequential amendments.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c23972171]: Marginal citation: [2019 c. 22](https://www.legislation.gov.uk/ukpga/2019/22).
+
+[^key-c6ccd3515dbd70dc571bccc3eda73c1f]: Commencement: Reg. 1 in force at 24.2.2020, see reg. 1(2)(a)
+
+[^key-1fcad102a8950500f3163b5c2da1e708]: Commencement: Reg. 2 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^c23972181]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12); section 3 is amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
+
+[^c23972191]: Marginal citation: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8); there are amendments to section 60 not relevant to these Regulations.
+
+[^c23972201]: Marginal citation: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17); relevant amendments to section 25(3) were made by paragraph 17(2) and (3) of Schedule 10 to the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), paragraph 56(b) of Schedule 15 to the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) and [SI 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-718284e7fabbdc0b847f62eea9baa90b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/103/regulation/2/1) inserted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/2/a)
+
+[^key-eaf38ade4f0df5e56497c319f2fdd418]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/103/regulation/2/1) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/2/b)
+
+[^key-1d0538e90abeb8a6ebf48ed26087f530]: Commencement: Reg. 3 in force at 24.2.2020, see reg. 1(2)(b)
+
+[^key-7916796bacb08b90f7a6634862994f15]: Commencement: Reg. 4 in force at 29.5.2020, see reg. 1(3)
+
+[^key-77104dc52926ca58fa9c2fc79818c895]: Commencement: Reg. 5 in force at 29.5.2020, see reg. 1(3)
+
+[^key-30dc95e88139f58c68bc35fbdf5082aa]: Textual amendment: Words in reg. 5(3) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/2)
+
+[^key-d0b3daaea54f70a6e2a73efbd36c8945]: Commencement: Reg. 6 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972211]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
+
+[^c23972221]: Marginal citation: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
+
+[^c23972231]: Marginal citation: [2019 asp 14](https://www.legislation.gov.uk/asp/2019/14).
+
+[^key-04022d0f5189c05c6bab80a304204140]: Commencement: Reg. 7 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-0f429704b31b716c518b11250be58f79]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/103/regulation/7/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/3)
+
+[^key-1dd321a601aff0876cb0d5285e7dbc67]: Commencement: Reg. 8 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-0967aa9cc7eb1d2a39196ed07e7e4df5]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/8/4) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/4)
+
+[^key-cff4c7652e31a5e41f369bc0728fc797]: Commencement: Reg. 9 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972241]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); amended by [S.I 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457), [2011/2426](https://www.legislation.gov.uk/uksi/2011/2426), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [2015/1754](https://www.legislation.gov.uk/uksi/2015/1754).
+
+[^c23972251]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); relevant amending instruments are: S.R. [1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370), S.R. [2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321), S.R. [2011 No. 356](https://www.legislation.gov.uk/nisr/2011/356), S.R. [2016 No. 228](https://www.legislation.gov.uk/nisr/2016/228).
+
+[^key-daba8a1015e3b6d5e916700c02ed2c22]: Commencement: Reg. 10 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-c59adf935aac3d43fc6145bc60a011e3]: Textual amendment: Words in [reg. 10(9)](https://www.legislation.gov.uk/uksi/2020/103/regulation/10/9) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/5)
+
+[^key-bd7c5784900de8eb7107d425067b9a62]: Commencement: Reg. 11 in force at 29.5.2020, see reg. 1(3)
+
+[^key-2bd116236f53590895dd30f393885e4a]: Commencement: Reg. 12 in force at 29.5.2020, see reg. 1(3)
+
+[^key-ff5a6b04a568ff3f7be4bca9cef11e3b]: Commencement: Reg. 13 in force at 29.5.2020, see reg. 1(3)
+
+[^key-f987168493827bc687167d90cff181dd]: Commencement: Reg. 14 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-3a23cfe7712d37950e931dcd57519714]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/103/regulation/14/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/6)
+
+[^key-0419de5f530df528936928c78deeed2b]: Commencement: Reg. 15(1)-(7) in force at 29.5.2020, see reg. 1(3)
+
+[^key-a033a1c036a0aba1594da746ce0459c4]: Commencement: Reg. 15(8) in force at 24.2.2020 for specified purposes, see reg. 1(2)(d)
+
+[^key-6daf20f94502dd59b0281ed81d5f6fa2]: Commencement: Reg. 15(8) in force at 29.5.2020 in so far as not already in force, see reg. 1(3)
+
+[^key-2f898fa52a61ad4f6627074a3a2eb7ef]: Commencement: Reg. 16 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-eac7cd03a1b1cc6ec5b88d840f55e5b5]: Textual amendment: Word in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2020/103/regulation/16/1/b) omitted (25.7.2023) by virtue of [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/7)
+
+[^key-b32ae07364be37604f2fdbb48c3812e3]: Commencement: Reg. 17 in force at 29.5.2020, see reg. 1(3)
+
+[^key-10420fe77dcb0b4a0ebbd8ba4506c44a]: Commencement: Reg. 18 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972261]: Marginal citation: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606).
+
+[^key-b159a88b313a8819e9f170591a8ecf59]: Commencement: Reg. 19 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972271]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); Section 103 was amended by section 64(1)(b) of the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^c23972281]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); Section 103 was amended by [S.I 2015/2006 (N.I.1)](https://www.legislation.gov.uk/uksi/2015/2006).
+
+[^c23972291]: Marginal citation: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517); relevant amending instruments are [S.I. 2011/2552](https://www.legislation.gov.uk/uksi/2011/2552), [2013/436](https://www.legislation.gov.uk/uksi/2013/436).
+
+[^c23972301]: Marginal citation: [S.I. 2006/268](https://www.legislation.gov.uk/uksi/2006/268).
+
+[^c23972311]: Marginal citation: S.R. [2007 No. 144](https://www.legislation.gov.uk/nisr/2007/144).
+
+[^c23972321]: Marginal citation: S.R. [2007 No. 215](https://www.legislation.gov.uk/nisr/2007/215); amended by S.R. [2008 No. 381](https://www.legislation.gov.uk/nisr/2008/381), [2015 No.9](https://www.legislation.gov.uk/nisr/2015/9),
+
+[^c23972331]: Marginal citation: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
+
+[^c23972341]: Marginal citation: [1998 No. 1594](https://www.legislation.gov.uk/nisr/1998/1594) (S. 84).
+
+[^c23972351]: Marginal citation: S.R. [2001 No. 365](https://www.legislation.gov.uk/nisr/2001/365).
+
+[^c23972361]: Marginal citation: [S.I. 1995/866](https://www.legislation.gov.uk/uksi/1995/866).
+
+[^key-ff516eeec1169d903a740f3513b215e9]: Commencement: Reg. 20 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-237e405663220a766189adc33410c52c]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/20/3) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/8)
+
+[^c23972371]: Marginal citation: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
+
+[^key-4c4b075d330bd081b668601308dff99c]: Commencement: Reg. 21 in force at 29.5.2020, see reg. 1(3)
+
+[^key-c61b195d0cd3050b3ff09edc0a8b8b0d]: Commencement: Reg. 22 in force at 29.5.2020, see reg. 1(3)
+
+[^key-3f10f08bc2834319f6156d22daf8778e]: Commencement: Reg. 23 in force at 29.5.2020, see reg. 1(3)
+
+[^key-67cf1f061cd9daa63d4e2f3adf7ec41f]: Commencement: Reg. 24 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-7b89028ef4393ce21b6121d0659d6a85]: Textual amendment: [Reg. 24(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/24/4) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/9)
+
+[^key-6567d975802e5cb9a8a2e71c2651d7b0]: Commencement: Reg. 25 in force at 29.5.2020, see reg. 1(3)
+
+[^key-506fb225598c36a73bbc56c102df2a3b]: Commencement: Reg. 26 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972381]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265). Article 99 was substituted by [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194).
+
+[^c23972391]: Marginal citation: [1995 c. 53](https://www.legislation.gov.uk/ukpga/1995/53).
+
+[^c23972401]: Marginal citation: [S.I. 2002/796 (N.I. 1)](https://www.legislation.gov.uk/nisi/2002/796).
+
+[^c23972411]: Marginal citation: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^c23972421]: Marginal citation: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^c23972431]: Marginal citation: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2).
+
+[^c23972441]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
+
+[^c23972451]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^c23972461]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^c23972471]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^c23972481]: Marginal citation: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
+
+[^c23972491]: Marginal citation: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^c23972501]: Marginal citation: [2002 c.14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14).
+
+[^key-ad934dccf9ed58aed4f70172c9887e05]: Commencement: Reg. 27 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972511]: Marginal citation: [S.I. 1997/2205](https://www.legislation.gov.uk/uksi/1997/2205). Sub-paragraph (p) was inserted by [S.I. 2017/870](https://www.legislation.gov.uk/uksi/2017/870).
+
+[^c23972521]: Marginal citation: S.R. [1997 No. 429](https://www.legislation.gov.uk/nisr/1997/429). Sub-paragraph (q) was inserted by S.R. [2017 No. 219](https://www.legislation.gov.uk/nisr/2017/219).
+
+[^c23972531]: Marginal citation: [S.I. 2008/1596](https://www.legislation.gov.uk/uksi/2008/1596). Sub-paragraph (m) was inserted by [S.I. 2017/870](https://www.legislation.gov.uk/uksi/2017/870).
+
+[^c23972541]: Marginal citation: S.R. [2008 No. 355](https://www.legislation.gov.uk/nisr/2008/355). Sub-paragraph (n) was inserted by S.R. [2017 No. 219](https://www.legislation.gov.uk/nisr/2017/219).
+
+[^key-def7dd7733dee7b3816d443598db074a]: Commencement: Reg. 28 in force at 29.5.2020, see reg. 1(3)
+
+[^key-5bc3c1bbcdba23c7777567832aecc0d8]: Commencement: Reg. 29 in force at 29.5.2020, see reg. 1(3)
+
+[^key-84fc619d8cc3daa6d5279e2684e1fc6a]: Textual amendment: Reg. 29(2A) substituted for reg. 29(2)(a)-(c) (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/3/a)
+
+[^key-e8072c502b62397c6679aa0e0c38f612]: Textual amendment: Word in reg. 29(3) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/3/b)
+
+[^key-e1d07729f6382654fba07b57c43d1eca]: Textual amendment: Word in reg. 29(4) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/3/b)
+
+[^key-2475f73be923a431de3e8c06a27091c9]: Commencement: Reg. 30 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972551]: Marginal citation: [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^c23972561]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^c23972571]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^c23972581]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
+
+[^key-bf2c736b1a7dd8c7ea05527ac61272dc]: Commencement: Reg. 31 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972591]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c23972601]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
+
+[^key-1e622f6c5aebfcb56ab42d904619d121]: Commencement: Reg. 32 in force at 29.5.2020, see reg. 1(3)
+
+[^key-6fcd57708f69c63f8902b024ed23605a]: Commencement: Reg. 33 in force at 29.5.2020, see reg. 1(3)
+
+[^key-626e86dde06a17a67828224c3c42d2a9]: Commencement: Reg. 34 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-4461227ef90243c806aa5a638e3a3f04]: Textual amendment: Reg. 34(1)(g) inserted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/4)
+
+[^key-579d736068b05aad35f4eb6b592a6baf]: Textual amendment: Words in [reg. 34(4)](https://www.legislation.gov.uk/uksi/2020/103/regulation/34/4) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/10)
+
+[^key-ce89c4850b35ae594ba051398dad6090]: Commencement: Reg. 35 in force at 29.5.2020, see reg. 1(3)
+
+[^key-67f8e45886103a0d424a27e8ee067522]: Commencement: Reg. 36 in force at 29.5.2020, see reg. 1(3)
+
+[^key-3d1e563e7eb708c0b1e482c7b936745a]: Textual amendment: Words in reg. 36(1) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/a/i)
+
+[^key-d77b0a6fe087100f5d67c837b7fb2d8f]: Textual amendment: Word in reg. 36(1)(d) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/a/ii)
+
+[^key-9b2a1b7cf9cfa9f9618641fb6414bbd9]: Textual amendment: Word in reg. 36(1)(e) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/a/ii)
+
+[^key-9a18840db7627f1b413aa4ca6e85d37e]: Textual amendment: Reg. 36(1A) inserted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/5/b)
+
+[^key-ff2ea0b26f0b5ac95f68f87e2254e4fb]: Commencement: Reg. 37 in force at 29.5.2020, see reg. 1(3)
+
+[^key-f523c98e9e31c4f843372cf629942c01]: Commencement: Reg. 38 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-899546abd68602d01cbe4a016ad7c3bc]: Textual amendment: Word in [reg. 38(1)(d)](https://www.legislation.gov.uk/uksi/2020/103/regulation/38/1/d) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/11)
+
+[^key-40c2500e381919c5bdc9a697ccb1bc3c]: Commencement: Reg. 39 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-d063c40c1c0668efb2a17d694785ab1b]: Textual amendment: Words in [reg. 39(6)](https://www.legislation.gov.uk/uksi/2020/103/regulation/39/6) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/12/a)
+
+[^key-fa542726494eceb9306f1c4cd01de930]: Textual amendment: Words in [reg. 39(7)](https://www.legislation.gov.uk/uksi/2020/103/regulation/39/7) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/12/b)
+
+[^key-a668d376dfed941a243645ded4af5e1a]: Textual amendment: Word in [reg. 39(8)](https://www.legislation.gov.uk/uksi/2020/103/regulation/39/8) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(12)(c)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/12/c)
+
+[^key-561f5c216138488bc3aa16da24c6858e]: Commencement: Reg. 40 in force at 29.5.2020, see reg. 1(3)
+
+[^key-55f32594713c4e6aa6676832b472b14e]: Commencement: Reg. 41 in force at 29.5.2020, see reg. 1(3)
+
+[^key-b7313be4b09a59fc36568a904853501b]: Commencement: Reg. 42 in force at 29.5.2020, see reg. 1(3)
+
+[^key-28c2d35e62c9b835befddfc4f14b74ab]: Commencement: Reg. 43 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-8b6e3a47f6d3d519300e937850d8cdcd]: Textual amendment: Word in [reg. 43(4)(a)](https://www.legislation.gov.uk/uksi/2020/103/regulation/43/4/a) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/13)
+
+[^key-b41a2c9bef15b2790f2fc4fb4cf22ce0]: Textual amendment: Words in reg. 43(7) substituted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/6)
+
+[^key-108fc2f39a1579f960f318a8e15f9670]: Commencement: Reg. 44 in force at 29.5.2020, see reg. 1(3)
+
+[^key-772358e2919b95afafb29df5518e1998]: Commencement: Reg. 45 in force at 29.5.2020, see reg. 1(3)
+
+[^key-a6d39599244a27f18838dc912346149d]: Commencement: Reg. 46 in force at 29.5.2020, see reg. 1(3)
+
+[^key-f240a06753a41b038b40dc99abb56d3c]: Commencement: Reg. 47 in force at 29.5.2020, see reg. 1(3)
+
+[^key-ee6b03a228a2f9d5edacd354cdf0824a]: Commencement: Reg. 48 in force at 29.5.2020, see reg. 1(3)
+
+[^key-e87b8b49a2be082b4587ef73a539a520]: Commencement: Reg. 49 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972611]: Marginal citation: [2016 c. 18](https://www.legislation.gov.uk/ukpga/2016/18); section 113 is not yet in force.
+
+[^key-e5b74e48846c5e2667580326cc2065cb]: Textual amendment: Words in reg. 49(3) inserted (29.5.2020) by [The Victims' Payments (Amendment) Regulations 2020 (S.I. 2020/490)](https://www.legislation.gov.uk/uksi/2020/490), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/490/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/490/regulation/2/7)
+
+[^c23972621]: Marginal citation: S.I. [1986 No. 595](https://www.legislation.gov.uk/nisi/1986/595) (N.I. 4); article 99 was amended by sections 59(5) and 148(1) of, and paragraph 6 of Schedule 11 to, the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^key-24ba8523e5dbf12a988d172dc9e426d0]: Commencement: Reg. 50 in force at 29.5.2020, see reg. 1(3)
+
+[^key-a2ad5165502415b37b4172c952c48448]: Commencement: Reg. 51 in force at 29.5.2020, see reg. 1(3)
+
+[^key-ceee0c21b6d64dd0cc374b7886d3dee8]: Commencement: Reg. 52 in force at 29.5.2020, see reg. 1(3)
+
+[^key-e8a02e98b80e0c0363b4a1a3461d6662]: Commencement: Reg. 53 in force at 24.2.2020 for specified purposes, see reg. 1(2)(e)
+
+[^key-f7411e79501bd61e83b377e35af09dde]: Commencement: Reg. 53 in force at 29.5.2020 in so far as not already in force, see reg. 1(3)
+
+[^key-f665d2268d6e4df21d7923bb50917f16]: Commencement: Sch. 1 para. 1 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^c23972631]: Marginal citation: [1954 c. 33](https://www.legislation.gov.uk/ukpga/1954/33); section 19 is amended by the [Mortmain (Repeals) Act (Northern Ireland) 1960 (c. 20)](https://www.legislation.gov.uk/apni/1960/20).
+
+[^key-01ead2429ef2ec2eb5144886a996422a]: Commencement: Sch. 1 para. 2 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^key-88dd2660915e7566520190695ef1ea29]: Commencement: Sch. 1 para. 3 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^key-d4d55e816d35376ef97a28850b50c7f5]: Commencement: Sch. 1 para. 4 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^key-b1188894f59f64603672f899df7ca000]: Commencement: Sch. 1 para. 5 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
+
+[^key-cf50eca084dddf7e29328caea89ab522]: Textual amendment: Word in [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/5/5) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 42(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/42/2) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+
+[^key-9a63c0c166e0e9a2fbef7ba5728264c8]: Textual amendment: [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/5/6) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 42(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/42/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+
+[^key-9fefa23ab9a4d4a6159959bec88f568f]: Commencement: Sch. 1 para. 6 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^key-b562fbd44fe6751526a757270fef83f2]: Commencement: Sch. 1 para. 7 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^key-471d93e6aa5e99f2ca950b31cfbd2597]: Commencement: Sch. 1 para. 8 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^key-fd572bb84a77694bad6806e8b3af7190]: Commencement: Sch. 1 para. 9 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^key-12130f984145345f6773ad443ecbc78e]: Commencement: Sch. 1 para. 10 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
+
+[^key-a773e7dd0982e19d3176470ee3eb08a8]: Textual amendment: Words in [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/10/b) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/a)
+
+[^key-7738f05d097f9f9da611e38248841ef6]: Commencement: Sch. 1 para. 11 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^key-98aedb667cc206650660ea8ecbffd347]: Commencement: Sch. 1 para. 12 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
+
+[^key-45969c38f15b95d136253f47c3e27621]: Textual amendment: Words in [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/12/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/b)
+
+[^key-cd3233ba815ef85368759a7990698f5e]: Textual amendment: Words in [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/12/3) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(c)(i)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/c/i)
+
+[^key-bfb9b27e3e7e23c30e52ec7e409ffde9]: Textual amendment: Words in [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/12/3) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/c/ii)
+
+[^key-da9871132288031f0c23f9d29f2fef14]: Commencement: Sch. 1 para. 13 in force at 24.2.2020, see reg. 1(2)(c)
+
+[^key-c2de61516e1bb60789cff9d881303a7e]: Commencement: Sch. 1 para. 14 in force at 24.2.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/c)
+
+[^key-79bc92201e02bd2a06b5fdcd1ecf67c7]: Textual amendment: Words in [Sch. 1 para. 14(3)(a)](https://www.legislation.gov.uk/uksi/2020/103/schedule/1/paragraph/14/3/a) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(14)(d)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/14/d)
+
+[^key-cc9ff84197b8afbdc14ee8f45b588da4]: Commencement: Sch. 2 para. 1 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-e27809449b5b9affa176edc299982594]: Textual amendment: Words in [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/1/5) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/a)
+
+[^key-032a06116eb866dcb4c8d7bf937440c8]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/1/6) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/b)
+
+[^key-7ba9cc998132fc31e25b8d743ff4a4eb]: Commencement: Sch. 2 para. 2 in force at 29.5.2020, see reg. 1(3)
+
+[^key-7d8605f286c7ec457a42d4f9d6dbd284]: Commencement: Sch. 2 para. 3 in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-c4397c5f5519f1b2cac2d355033b3970]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/3/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(c)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/c)
+
+[^key-777e530297105d13db628866ee272e1b]: Commencement: Sch. 2 para. 4(1) in force at 24.2.2020, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/2/d)
+
+[^key-56ec7166e1b8d1d5f105ec28bc7c9f6a]: Commencement: Sch. 2 para. 4(2) in force at 29.5.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3)
+
+[^key-fa9e4d9c1ad3de89da69f1348a984f50]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2020/103/schedule/2/paragraph/4/2) substituted (25.7.2023) by [The Victims’ Payments (Amendment) Regulations 2023 (S.I. 2023/742)](https://www.legislation.gov.uk/uksi/2023/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/742/regulation/1/1), [2(15)(d)](https://www.legislation.gov.uk/uksi/2023/742/regulation/2/15/d)
+
+[^key-c7c1718dbe4070040a6fdc67762a5af2]: Commencement: Sch. 3 para. 1 in force at 24.2.2020, see reg. 1(2)(e)
+
+[^c23972641]: Marginal citation: [1975 c. 25](https://www.legislation.gov.uk/ukpga/1975/25); there are amendments to Part 2 of Schedule 1 not relevant to these Regulation.
+
+[^key-71e854c575e1f5de5f0a2401b8518ec1]: Commencement: Sch. 3 para. 2 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972651]: Marginal citation: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023). The Order was revoked in relation to Scotland by [S.S.I. 2003/231](https://www.legislation.gov.uk/ssi/2003/231).
+
+[^c23972661]: Marginal citation: Paragraph 3ZA was inserted by [S.I. 2013/1198](https://www.legislation.gov.uk/uksi/2013/1198). There are other amendments but they are not relevant.
+
+[^c23972671]: Marginal citation: Paragraph 24 was inserted by [S.I. 2019/1051](https://www.legislation.gov.uk/uksi/2019/1051).
+
+[^key-0aaa56470e414ec910fd043be30ff325]: Commencement: Sch. 3 para. 3 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972681]: Marginal citation: S.R. [1979 No. 195](https://www.legislation.gov.uk/nisr/1979/195).
+
+[^c23972691]: Marginal citation: Article 3A was inserted by S.R. [2014 No. 27](https://www.legislation.gov.uk/nisr/2014/27).
+
+[^c23972701]: Marginal citation: Paragraph 26 was inserted by S.R. [2014 No. 224](https://www.legislation.gov.uk/nisr/2014/224).
+
+[^key-316109bf7c963289b3d562da7b04ad82]: Commencement: Sch. 3 para. 4 in force at 24.2.2020, see reg. 1(2)(e)
+
+[^key-6a7fd79059fdf179f104117037adaf44]: Commencement: Sch. 3 para. 5 in force at 24.2.2020, see reg. 1(2)(e)
+
+[^c23972711]: Marginal citation: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26). There are amendments to Schedule 1 not relevant to these Regulations.
+
+[^key-40302bf890a271115ec0585e41fdc164]: Commencement: Sch. 3 para. 6 in force at 29.5.2020, see reg. 1(3)
+
+[^c23972721]: Marginal citation: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50).
+
+[^c23972731]: Marginal citation: Paragraph 29 was inserted by [S.S.I. 2013/204](https://www.legislation.gov.uk/ssi/2013/204).

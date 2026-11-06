@@ -1,0 +1,50 @@
+---
+title: Income Tax Act 2007, section 350
+act: Income Tax Act 2007
+section: '350'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/3/section/350
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax Act 2007, section 350
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 350. No control of CDFI by investor
+
+*Extent: E+W+S+N.I.*
+
+(1) The investor must not control the CDFI at any time during the 5 year period.
+
+(2) In this section references to the investor include any person connected with the investor.
+
+(3) If the CDFI is a body corporate, the question whether the investor controls the CDFI is, for the purposes of this section, determined in accordance with section 995.
+
+This is subject to subsection (6).
+
+(4) In any other case the investor is treated, for those purposes, as having control of the CDFI if the investor has power to secure, as a result of—
+
+- (a) the possession of voting power in the CDFI, or
+- (b) any powers conferred by the constitution of, or any other document regulating, the CDFI,
+
+that the affairs of the body are conducted in accordance with the investor's wishes.
+
+This is subject to subsections (5) and (6).
+
+(5) If—
+
+- (a) the CDFI is a partnership, and
+- (b) the investor is a member of that partnership,
+
+for the purposes of determining in accordance with this section whether the investor controls the CDFI, the other members of that partnership are not, as a result of their membership of the CDFI, treated as partners of the investor.
+
+(6) In determining whether the investor controls the CDFI there are attributed to the investor (so far as it would not otherwise be the case)—
+
+- (a) any rights or powers that the investor is entitled to acquire at a future date or will, at a future date, become entitled to acquire, and
+- (b) any rights or powers which another person holds on behalf of the investor or may be required to exercise, by direction, on the investor's behalf.

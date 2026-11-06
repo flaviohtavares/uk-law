@@ -1,0 +1,345 @@
+---
+title: The Pensions Regulator (Financial Support Directions etc.) Regulations 2005
+id: uksi/2005/2188
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-08-04'
+text_date: '2012-01-27'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2005/2188
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2188/pdfs/uksiem_20052188_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2188/pdfs/uksi_20052188_310312_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2188/pdfs/uksi_20052188_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2188/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Regulator (Financial Support Directions etc.) Regulations 2005
+
+> Text as at 2012-01-27.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2005 No. 2188
+
+PENSIONS
+
+The Pensions Regulator (Financial Support Directions etc.) Regulations 2005
+
+Made
+
+4th August 2005
+
+Laid before Parliament
+
+11th August 2005
+
+Coming into force
+
+1st September 2005
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 43(1)(b), (3)(c) and (9), 44(3)(a) and (4), 45(2)(b), (c) and (d), 307(1)(b), 315(2) and (4) and 318(1) and (4)(a) of the Pensions Act 2004 [^c1228940], and of all other powers enabling him in that behalf, by this instrument, which is made before the end of the period of six months beginning with the coming into force of the provisions of that Act by virtue of which the regulations are made [^c1228941], makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Pensions Regulator (Financial Support Directions etc.) Regulations 2005 and shall come into force on 1st September 2005.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Pensions Act 2004;
+- “**business associate**” means a person referred to in—
+  - (a) section 43(6)(b) (persons to whom the Regulator may issue a financial support direction - individuals) who is involved in the carrying on of any business; or
+  - (b) section 43(6)(c) (persons to whom the Regulator may issue a financial support direction – non-individuals);
+- “**calculation date**” means the date specified by the Regulator, by reference to which the value of the resources of a person to whom section 43(6) applies will be calculated;
+- “**entity**” means an employer or a business associate;
+- “**entity value**” means the fair value of the entity;
+- “**entity value difference**” (“**EVD**”) means the difference between the entity value at the calculation date and the aggregate of that entity's net assets as set out in the FSD reference accounts and any identified FVDs;
+- “**fair value**” means the amount for which an asset could be exchanged, or a liability settled, between knowledgeable, willing parties in an arm's length transaction;
+- “**fair value difference**” (“**FVD**”) means the difference between the fair value of an asset or liability at the calculation date and the amount at which that asset or liability is recorded in the FSD reference accounts;
+- “**FSD reference accounts**” means the accounts used to establish the net assets of the relevant entity for the purposes of the value of resources calculation which shall be—
+  - (a) the entity's most recent individual accounts, or, where the Regulator and the entity agree, subsequent accounts prepared on a basis consistent with the most recent individual accounts, taking into account any changes required in order to comply with generally accepted accounting practice; or
+  - (b) in the case of an entity not subject to section 226 of the Companies Act 1985 [^c1228942] (duty to prepare individual company accounts), that entity's most recent set of approved accounts, or where the Regulator and the entity agree, subsequent accounts prepared on a basis consistent with the most recent approved accounts, taking into account any changes required in order to comply with generally accepted accounting practice;
+- “**individual accounts**” means accounts prepared in accordance with section 226 of the Companies Act 1985;
+- “**net assets**” (“**NA**”) means the aggregate of the entity's assets less the aggregate of its liabilities (and liabilities shall include any provision for liabilities made in individual accounts prepared in accordance with either section 226A (Companies Act individual accounts) or section 226B (IAS individual accounts) of the Companies Act 1985, or any similar provision for liabilities made in the accounts of any entity to which the Companies Act 1985 does not apply);
+- “**property**” has the same meaning as in section 53(7) (restoration orders – meaning of “property”);
+- “**related employer balances**” (“**Eb**”) means any amount which has been taken into account in the calculation of the value of the resources of the employer which, were it also to appear in the calculation of the value of the resources of a business associate, would result in the value of the resources of the business associate and the employer together being overstated or understated by that amount; and such an amount may include (but is not limited to)—
+  - (a) any direct or indirect investment in the share capital of the employer;
+  - (b) any liability of a business associate relating to the employer's liabilities to the extent that the corresponding liability is deducted in the calculation of the value of the employer's resources;
+  - (c) any subordinated employer funding; and
+  - (d) provisions made by the business associate against any amounts owed by the employer to the business associate, to the extent that the corresponding liability is deducted in the calculation of the value of the employer's resources;
+- “**relevant pension scheme related balances**” (“**P**”) means any assets or liabilities included within the FSD reference accounts of the entity which relate to the scheme in relation to which section 43 applies, including any assets or liabilities relating to the scheme's deficit or surplus net of any related deferred tax asset or liability together with any other creditor or prepayment balances related to the scheme in question as calculated in accordance with the generally accepted accounting practice used for the FSD reference accounts;
+- “**section 75 debt**” means a debt due, or a debt which might become due, from the employer in relation to the scheme under section 75 of the Pensions Act 1995 [^c1228943] (deficiencies in the scheme assets);
+- “**subordinated employer funding**” means any amounts included within the calculation of the value of the resources of the business associate that have been treated as subordinated liabilities of the employer in the calculation of the value of the employer's resources; and
+- “**subordinated liabilities**” (“**Se**”) means any liabilities included within the FSD reference accounts of the employer which in the event of the entity being wound up would rank for payment after the unsecured creditors whether as a matter of general law or contract or otherwise.
+
+(2) In these Regulations, a reference to a numbered section (other than in the phrase “section 75 debt”) is a reference to the section of the Act bearing that number, unless the context otherwise requires.
+
+## 3. Prescribed schemes
+
+For the purposes of section 43(1)(b) (schemes to which section 43 (financial support directions) does not apply), a prescribed scheme or a scheme of a prescribed description is as prescribed for the purposes of sections 38 and 52 (contribution notices and restoration orders) in regulation 3 of the Pensions Regulator (Contribution Notices and Restoration Orders) Regulations 2005 [^c1228944].
+
+## 4. Prescribed events
+
+An event prescribed for the purposes of section 43(3)(c) (financial support directions – content of direction) is—
+
+- (a) any event specified in any sub-paragraph of regulation 2(2) of the Pensions Regulator (Notifiable Events) Regulations 2005 [^c1228945] (employer-related notifiable events) which occurs in respect of any party named in arrangements approved in a notice issued under section 45(1) (meaning of “financial support”);
+- (b) any insolvency event, as defined in section 121(2) to (5) (insolvency events) as the case may be, in relation to any person named in a financial support direction;
+- (c) any failure to abide by, or any alteration to, an arrangement falling within section 45(2) (meaning of “financial support” – arrangements) and approved by the Regulator in a notice issued under section 45(1).
+
+## 5. Prescribed period[^key-f31eefb74595772b3446cb5b8f2c8246]
+
+(1) Subject to paragraph (2), the period prescribed for the purposes of section 43(9) (financial support directions – prescription of relevant time) is 24 months.
+
+(2) Until 6th April 2010 (the “Transition Date”), the period at paragraph (1) is reduced by a period equal to the number of complete months then remaining until the Transition Date.
+
+(3) For the purposes of paragraph (2), a complete month means a period from and including the sixth day of a month to and including the fifth day of the following month.
+
+## 6. Prescribed percentage
+
+The percentage of the estimated section 75 debt in relation to a scheme, prescribed for the purposes of section 44(3)(a) (meaning of “insufficiently resourced” – percentage of section 75 debt), is 50 per cent.
+
+## 7. Resources
+
+(1) The resources of an entity shall constitute all those aspects of the entity that would be taken into account when arriving at the entity value.
+
+(2) The resources of a person to whom regulation 11 applies shall constitute all that person's property.
+
+## 8. Value of resources - business
+
+(1) Paragraphs (2) and (3) are subject to regulation 9(2) and (3).
+
+(2) The value of the resources of the employer shall be the greater of zero or its entity value excluding relevant pension scheme related balances and any subordinated liabilities together with any related fair value differences as verified in accordance with regulation 10.
+
+(3) The value of the resources of a business associate shall be its entity value excluding relevant pension scheme related balances and any employer investment balances together with any related fair value differences as verified in accordance with regulation 10.
+
+## 9. Calculation of value of resources – business
+
+(1) The value of the resources of an entity shall be calculated in accordance with the provisions of this regulation.
+
+(2) If, following any stage of the calculation in the case of the employer, the test set out in section 44(3)(a) is not met (that is, the amount calculated to that point is greater than 50 per cent. of the estimated section 75 debt in relation to the scheme) then the employer may seek the agreement of the Regulator that the employer be deemed to be not insufficiently resourced (but see regulation 10), and if the Regulator so agrees no further calculations in relation to either the employer or the business associate need be undertaken.
+
+(3) If following any stage of the calculation set out in paragraphs (4) to (7) the value of the resources of the entity in relation to which the calculation is being undertaken—
+
+- (a) in the case of the employer, meets the test set out in section 44(3)(a), substituting zero if the value of resources calculated to this point is less than zero; or
+- (b) in the case of the business associate, meets the test set out in section 44(3)(b),
+
+that entity may seek the agreement of the Regulator that the value of that entity's resources shall be set at the amount resulting from the calculations undertaken up to that point (but see regulation 10), and if the Regulator so agrees no further calculations in relation to that entity need be undertaken.
+
+(4) In the case of the employer, stage one of the calculation is as follows—
+
+NA + P (assuming P is a liability; if P is an asset then deduct P) + Se
+
+(5) In the case of the business associate, stage one of the calculation is as follows—
+
+NA + P (assuming P is a liability; if P is an asset then deduct P) – Eb (assuming Eb is an asset; if Eb is a liability then add Eb).
+
+(6) Stage two of the calculation is to add to the amount resulting from the applicable stage one any identified FVD, calculated in relation to any asset (or assets) or liability (or liabilities) selected by the relevant entity.
+
+(7) Stage three of the calculation is to calculate the EVD and add that to the amount that resulted from the stage two calculation.
+
+## 10. Verification of value of resources – business
+
+(1) If—
+
+- (a) the employer seeks the agreement of the Regulator referred to in regulation 9(2); or
+- (b) following either stage one or stage two of the calculation set out in regulation 9 the entity the value of whose resources is being calculated seeks the agreement of the Regulator referred to in regulation 9(3),
+
+the relevant entity (either the employer referred to in sub-paragraph (a) or the entity referred to in sub-paragraph (b) as the case may be) must submit to the Regulator the calculation undertaken to that point together with the statutory declaration specified in paragraph (4), the supporting evidence specified in paragraph (5) and the report specified in paragraph (6).
+
+(2) The Regulator will decide whether or not to give its agreement referred to in regulation 9(2) or (3) (as the case may be) following consideration of the documentation submitted in accordance with paragraph (1).
+
+(3) If the entity the value of whose resources is being calculated carries out stage 3 of the calculation set out in regulation 9, that entity must submit to the Regulator that calculation together with the statutory declaration specified in paragraph (4), the supporting evidence specified in paragraph (5) and the report specified in paragraph (6).
+
+(4) The making of the statutory declaration referred to in paragraphs (1) and (3) shall be approved by the board of directors of the relevant entity, and it shall be made by a director on behalf of the board and consist of a declaration that the calculation of the value of resources of the entity attached to the statutory declaration has been approved by the board of directors of that entity and in the board's opinion fairly reflects the value of resources of that entity at the calculation date as calculated to that stage in accordance with regulation 9.
+
+(5) The statutory declaration shall be accompanied by evidence of such underlying assumptions and calculations as the board considers necessary to set out the basis on which they have calculated the value of resources together with such other evidence as they consider necessary to understand the basis on which they have made their declaration.
+
+(6) The statutory declaration shall be accompanied by a report from a reporting accountant, or, where approved by the Regulator, another appropriately qualified person, that in his opinion the calculation of the value of resources has been compiled in accordance with the underlying assumptions and calculations accompanying the statutory declaration, and that this calculation is consistent with such provisions of regulation 9 as are relevant in that case.
+
+(7) Any reference to “director” or “board” in paragraphs (4) or (5) shall, in the case of an entity which is not a company within the Companies Act 1985, be taken—
+
+- (a) in the case of a partnership, to be a reference to a partner or the partners, as the case may be;
+- (b) in the case of any other body (whether corporate or not) the affairs of which are managed by its members, to be a reference to a member or the body, as the case may be;
+- (c) in the case of any other body, to be a reference to a person who exercises functions equivalent to those of a director or either the body or the group of persons who exercise functions equivalent to those of a board of directors, as the case may be.
+
+(8) In this regulation “**reporting accountant**” means—
+
+- (a) in the case of an entity which is required to have its accounts audited, a person eligible under section 25 of the Companies Act 1989 [^c1228946] at the time of the report for appointment as a company auditor;
+- (b) in the case of any other entity, an independent accountant.
+
+## 11. Value of resources – individual – calculation and verification
+
+(1) This regulation applies to an individual to whom section 43(6)(b) applies who is an associate of the employer under—
+
+- (a) section 435(2) of the Insolvency Act 1986 [^c1228947];
+- (b) section 435(3) of that Act who is not a member of the partnership in question; or
+- (c) section 435(5) of that Act.
+
+(2) The Regulator may require an individual to whom this regulation applies to submit to it, within such time period as the Regulator shall specify being not less than 28 days, a statutory declaration of his resources as at the calculation date.
+
+(3) The declaration of resources shall comprise the following particulars—
+
+- (a) a list of the individual's property, divided into such categories as are appropriate for easy identification, with values assigned to each category;
+- (b) a list detailing any income and usual outgoings;
+- (c) a list of creditors, debts, and any other liabilities, with details of amounts; and
+- (d) any other information as specified by the Regulator.
+
+(4) If the information provided by the individual appears to the Regulator to be incomplete or insufficient in any way the Regulator may require the individual to submit one or more supplementary declarations of resources detailing any further information required by the Regulator.
+
+(5) The Regulator may at its discretion require the individual to obtain independent valuations undertaken by a relevantly qualified independent person, of any specified asset or liability included in the declaration of resources.
+
+## 12. Verification – Regulator's power to deem value of resources
+
+(1) If any relevant person fails to provide to the Regulator any of the required information or documentation within a reasonable time, specified in writing by the Regulator, it (the Regulator) may deem the value of that person's resources to be an amount determined by the Regulator.
+
+(2) When making the determination referred to in paragraph (1), the Regulator must take into account all relevant information in its possession, and having done so, no further verification of the amount so determined is required.
+
+(3) In this regulation—
+
+- “**relevant person**” means a person the value of whose resources the Regulator is seeking to have verified in accordance with regulation 10 or 11 (as the case may be); and
+- “**required information or documentation**” means any information or documentation required by regulation 10 or 11 (as the case may be).
+
+## 13. Prescribed requirements
+
+The requirements prescribed for the purposes of section 45(2)(b) and (c) are that—
+
+- (a) the party or parties to the arrangement consent to the jurisdiction of the courts of England and Wales, and
+- (b) where there is more than one party to the arrangement, those parties enter into a legally enforceable agreement.
+
+## 14. Prescribed arrangements
+
+An arrangement is prescribed for the purposes of section 45(2)(d) if —
+
+- (a) the party or parties to the arrangement consent to the jurisdiction of the courts of England and Wales, and
+- (b) where there is more than one party to the arrangement, those parties enter into a legally enforceable agreement.
+
+## 15. Former employers
+
+(1) In sections 38 to 56 (contribution notices, financial support directions and transactions at an undervalue) and these Regulations, “**employer**”, in relation to—
+
+- (a) an occupational pension scheme which is not a multi-employer scheme; or
+- (b) a single-employer section of a segregated scheme;
+
+which has no active members, includes the person who was the employer of persons in the description of employment to which the scheme or section relates immediately before the time at which the scheme or section ceased to have any active members in relation to it.
+
+(2) In sections 38 to 56 and these Regulations, “**employer**”, in relation to a non-segregated scheme or a multi-employer section of a segregated scheme includes any person who has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, AA, AB, B, C,[^key-a9d9a78ec5001ac286684a57613c7fb3] D, E or F[^key-f3bfc60aea710f9b04deab1fe9c413e4] is satisfied where—
+
+- (a) condition A is that a section 75 debt became due from that employer and the full amount of the debt has been paid;
+- (aa)[^key-cf658d48c870b4aea65bdb1dfe8cf3a5] condition AA is that—
+  - (i) such a debt became due;
+  - (ii) under regulation 7 of the Occupational Pension Schemes (Employer Debt) Regulations 2005 an approved withdrawal arrangement came into force and the debt treated as due, as a result of that arrangement, is the approved withdrawal arrangement share and the cessation expenses attributable to the employer within the meaning of those Regulations; and
+  - (iii) that debt has been paid;
+- (ab) condition AB is that—
+  - (i) such a debt became due;
+  - (ii) under regulation 6C of the Occupational Pension Schemes (Employer Debt) Regulations 2005 a withdrawal arrangement came into force and the debt treated as due, as a result of that arrangement, is the withdrawal arrangement share and the cessation expenses attributable to the employer within the meaning of those Regulations; and
+  - (iii) that debt has been paid.
+- (b) condition B is that—
+  - (i) such a debt became due;
+  - (ii) a legally enforceable agreement has been entered into in good faith the effect of which is to reduce the amount which may be recovered in respect of the debt; and
+  - (iii) the reduced amount has been paid in full;
+- (c) condition C is that such a debt became due but it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
+- (d) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due;
+- (e)[^key-98db5964307faa12eca1007b61927590] condition E is that—
+  - (i) as a result of a restructuring occurring within regulation 6ZB or 6ZC of the Occupational Pension Schemes (Employer Debt) Regulations 2005 (employment-cessation events: exemptions), no section 75 debt became due; and
+  - (ii) regulation 6ZA(3) or (4) of those Regulations (employment-cessation events: general) does not apply in relation to that restructuring;
+- (f)[^key-1c45fac0830d5fd07a3a30d32fbbf7dc] condition F is that a flexible apportionment arrangement has taken effect in accordance with regulation 6E of the Occupational Pension Schemes (Employer Debt) Regulations 2005 (flexible apportionment arrangements) where the employer was the leaving employer within the meaning given in paragraph (7) of that regulation.
+
+(3) In this regulation—
+
+- “ **multi-employer section** ” means a section of a segregated scheme which has at least two employers in relation to that section; and
+- “ **segregated scheme** ” means a multi-employer scheme which is divided into two or more sections where—
+  - (a) any contributions payable to the scheme by an employer in relation to the scheme or by a member are allocated to that employer's or that member's section; and
+  - (b) a specified proportion of the assets of the scheme is attributable to each section of the scheme and cannot be used for the purposes of any other section.
+
+## 16. Multi-employer schemes
+
+(1) Where sections 38 to 56 apply in relation to an occupational pension scheme which is a multi-employer scheme, those sections are modified so that references to the employer are to be treated as references to any employer in relation to the scheme to which those sections apply.
+
+(2) In sections 38 to 51, in relation to a multi-employer scheme, any reference to the estimated section 75 debt, in relation to the scheme, shall be modified so that it applies as if it were a reference to the section 75 debt due from any specified employer in relation to the scheme calculated in accordance with sections 75 and 75A of the Pensions Act 1995 [^c1228948] and any regulations made thereunder.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Stephen C. Timms
+
+Minister of State,
+
+Department for Work and Pensions
+
+4th August 2005
+
+*(This note is not part of the Regulations)*
+
+These Regulations make further provision about section 43 and related sections of the Pensions Act 2004 (c. 35) (“**the Act**”), known as one of the anti-avoidance provisions, that is, the Regulator's power to issue financial support directions. They also, in relation to all the anti-avoidance provisions (that is, contribution notices, financial support directions and restoration orders) extend the meaning of employer to include former employers in specified circumstances and modify those provisions of the Act in their application to multi-employer schemes.
+
+As these Regulations are made before the expiry of the period of six months beginning with the coming into force of the sections of the Act by virtue of which they are made, the requirement for the Secretary of State to consult such persons as he considers appropriate does not apply.
+
+Regulation 2 defines the meanings of terms used in the regulations.
+
+Regulation 3 prescribes those schemes to which the provisions on financial support directions do not apply.
+
+Regulation 4 prescribes those events the occurrence of which must be notified to the Regulator.
+
+Regulation 5 prescribes the period which is the “**relevant time**” for the purposes of the provisions on financial support directions, being the period during which, for example, the employer or an associated or connected person must meet the conditions set out in the test as to whether or not the employer is insufficiently resourced.
+
+Regulation 6 prescribes the percentage of the estimated section 75 debt which relates to the test as to whether or not the employer is insufficiently resourced.
+
+Regulation 7 sets out what constitutes the resources of persons to whom that test applies.
+
+Regulation 8 prescribes how the value of such a person's resources is to be determined.
+
+Regulation 9 prescribes the calculation to be undertaken to determine the value of the resources of a business to which the test applies.
+
+Regulation 10 prescribes what will constitute the verification of the value of the resources.
+
+Regulation 11 sets out the calculation and the verification of the resources of an individual associated with the employer in a capacity other than a business associate, to whom the test applies.
+
+Regulation 12 allows the Regulator to deem the value of the resources of a person, in circumstances where that person has failed to co-operate with the Regulator.
+
+Regulations 13 and 14 prescribe requirements and arrangements in respect of arrangements to be put in place in compliance with a financial support direction.
+
+Regulation 15 extends the meaning of “**employer**” in relation to the anti-avoidance provisions of the Act to include former employers in certain circumstances.
+
+Regulation 16 modifies the sections of the Act relating to the anti-avoidance provisions to apply to multi-employer schemes.
+
+An assessment of the impact of these Regulations on business, charities and the voluntary sector has been made. Copies of the Regulatory Impact Assessment have been placed in the libraries of both Houses of Parliament. Additional copies can be obtained from the Department for Work and Pensions, Regulatory Impact Unit, level 3, Adelphi, 1-11 John Adam Street, London WE2N 6HT.
+
+## Annotations
+
+[^c1228940]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35); [section 318(1)](https://www.legislation.gov.uk/uksi/2005/2188/section/318/1) is cited because of the meaning there given to “prescribed” and “regulations”.
+
+[^c1228941]: Marginal citation: *See* section 317 of the Pensions Act 2004 (“**the Act**”) which provides that the Secretary of State must consult such persons as he considers appropriate before making regulations by virtue of the provisions of the Act (other than Part 8). This duty does not apply where regulations are made before the end of six months beginning with the coming into force of the provisions of the Act by virtue of which the regulations are made.
+
+[^c1228942]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); [section 226](https://www.legislation.gov.uk/uksi/2005/2188/section/226) was substituted, together with sections 226A and 226B, by [S.I. 2004/2947](https://www.legislation.gov.uk/uksi/2004/2947).
+
+[^c1228943]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26); [section 75](https://www.legislation.gov.uk/uksi/2005/2188/section/75) is amended by section 271 of the Act.
+
+[^c1228944]: Marginal citation: [S.I. 2005/931](https://www.legislation.gov.uk/uksi/2005/931); [regulation 3](https://www.legislation.gov.uk/uksi/2005/2188/regulation/3) was amended by regulation 9 of [S.I. 2005/993](https://www.legislation.gov.uk/uksi/2005/993).
+
+[^c1228945]: Marginal citation: [S.I. 2005/900](https://www.legislation.gov.uk/uksi/2005/900).
+
+[^key-f31eefb74595772b3446cb5b8f2c8246]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2188/regulation/5) substituted (6.4.2009) by [Pensions Regulator (Miscellaneous Amendment) Regulations 2009 (S.I. 2009/617)](https://www.legislation.gov.uk/uksi/2009/617), [regs. 1](https://www.legislation.gov.uk/uksi/2009/617/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/617/regulation/2/2)
+
+[^c1228946]: Marginal citation: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
+
+[^c1228947]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^key-a9d9a78ec5001ac286684a57613c7fb3]: Textual amendment: Words in reg. 15(2) substituted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2010/725/regulation/20/a)
+
+[^key-f3bfc60aea710f9b04deab1fe9c413e4]: Textual amendment: Words in reg. 15(2) substituted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2973)](https://www.legislation.gov.uk/uksi/2011/2973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/14/a)
+
+[^key-cf658d48c870b4aea65bdb1dfe8cf3a5]: Textual amendment: Reg. 15(2)(aa)-(ab) substituted by virtue of (6.4.2008) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/731)](https://www.legislation.gov.uk/uksi/2008/731) , [regs. 2(1)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/1) , [19(b)](https://www.legislation.gov.uk/uksi/2008/731/regulation/19/b) (with [regs. 2(3)-(8)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/3) )
+
+[^key-98db5964307faa12eca1007b61927590]: Textual amendment: Reg. 15(2)(e) inserted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2010/725/regulation/20/b)
+
+[^key-1c45fac0830d5fd07a3a30d32fbbf7dc]: Textual amendment: Reg. 15(2)(f) inserted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2973)](https://www.legislation.gov.uk/uksi/2011/2973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/14/b)
+
+[^c1228948]: Marginal citation: [Section 75A](https://www.legislation.gov.uk/uksi/2005/2188/section/75A) is inserted by section 272 of the Act.

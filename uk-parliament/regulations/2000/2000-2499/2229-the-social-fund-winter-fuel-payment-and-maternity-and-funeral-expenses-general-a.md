@@ -1,0 +1,128 @@
+---
+title: The Social Fund Winter Fuel Payment and Maternity and Funeral Expenses (General) Amendment Regulations 2000
+id: uksi/2000/2229
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-08-15'
+text_date: '2024-09-16'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2000/2229
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/2229/pdfs/uksi_20002229_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/2229/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Fund Winter Fuel Payment and Maternity and Funeral Expenses (General) Amendment Regulations 2000
+
+> Text as at 2024-09-16.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2000 No. 2229
+
+SOCIAL SECURITY
+
+The Social Fund Winter Fuel Payment and Maternity and Funeral Expenses (General) Amendment Regulations 2000
+
+Made
+
+15th August 2000
+
+Laid before Parliament
+
+22nd August 2000
+
+Coming into force
+
+17th September 2000
+
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 138(1)(a), (2) and (4) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001] and section 9(1)(a) of the Social Security Act 1998[^f00002] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-effea744ec963cac3a02322c12fb0dae]
+
+(1) These Regulations may be cited as the Social Fund Winter Fuel Payment and Maternity and Funeral Expenses (General) Amendment Regulations 2000 and shall come into force on 17th September 2000.
+
+(2) In these Regulations, “the General Regulations” means the Social Fund Maternity and Funeral Expenses (General) Regulations 1987[^f00004].
+
+## 2. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^key-101c9df8f24ddc579a7124356cc9400b][^key-4de9d5a98b57cdeea27a18926470363f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the General Regulations[^key-276660bd4a9f4f0c3645fd644ea0d74a]
+
+In regulation 5(2) of the General Regulations[^f00006] (amount of a Sure Start Maternity Grant), in each place where the amount “£200 ” appears there shall be substituted the amount “£300”.
+
+## 4. Transitional arrangements[^key-9fe3d13125a64de0fde88d694d25eda6]
+
+(1) Subject to paragraph (2) of this regulation, the General Regulations shall have effect as if regulation 3 of these Regulations had not been made where—
+
+- (a) the expected date of confinement;
+- (b) the date of birth of the child (including any still-born);
+- (c) the date of the adoption order; or
+- (d) in the case of a child in respect of whom an order has been granted pursuant to section 30 of the Human Fertilisation and Embryology Act 1990[^f00007], the date of the order,
+
+is before 3rd December 2000.
+
+(2) Subject to paragraph (3), where a claim is made for a Sure Start Maternity Grant before 3rd December 2000 in respect of a child born (including any still-born) on or after that date, regulation 5(2) of the General Regulations shall have effect as if the amount of the Sure Start Maternity Grant in that case were £300.
+
+(3) Where a decision is made in a case to which paragraph (2) applies on the basis that the amount of a Sure Start Maternity Grant is £200—
+
+- (a) that decision may be revised under section 9 of the Social Security Act 1998 (revision of decisions)—
+  - (i) within 13 months of that decision; or
+  - (ii) where the Secretary of State receives an application for a revision of that decision made within 13 months of that decision; and
+- (b) any payment made pursuant to that decision (before revision) shall be offset against any amount payable pursuant to the revision under section 9 of that Act.
+
+(4) Regulation 4(1) of the General Regulations (provision against double payment) shall not prevent a payment being made in consequence of paragraphs (2) and (3).
+
+Signed by authority of the Secretary of State for Social Security.
+
+Angela Eagle
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+15th August 2000
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Fund Winter Fuel Payment Regulations 2000 (S.I. [2000/729](https://www.legislation.gov.uk/uksi/2000/729)) and the Social Fund Maternity and Funeral Expenses (General) Regulations 1987 (S.I. [1987/481](https://www.legislation.gov.uk/uksi/1987/481)).
+
+In particular, regulation 2 increases the amount of winter fuel payments from the social fund from £100 to £150 where a person aged 60 or over is being paid income support or an income-based jobseeker’s allowance and is not in residential accommodation in the qualifying week and from £50 to £75 in other cases.
+
+Regulation 3 increases the amount of a Sure Start Maternity Grant from £200 to £300.
+
+Regulation 4 makes a transitional provision.
+
+These Regulations do not impose any charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); section 138(4) is an interpretation provision and is cited because of the meaning ascribed to the word “prescribed”. Section 175(1) and (4) was amended by the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), section 2 and Schedule 3, paragraph 29(1), (2) and (4).
+
+[^f00002]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00003]: Footnote: *See* section 173(1)(b) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^key-effea744ec963cac3a02322c12fb0dae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
+
+[^f00004]: Footnote: S.I. [1987/481](https://www.legislation.gov.uk/uksi/1987/481).
+
+[^key-101c9df8f24ddc579a7124356cc9400b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/2229/regulation/2) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+
+[^key-4de9d5a98b57cdeea27a18926470363f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/2229/regulation/2) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
+
+[^key-276660bd4a9f4f0c3645fd644ea0d74a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/2229/regulation/3) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
+
+[^f00006]: Footnote: The relevant amending instrument is S.I. [2000/528](https://www.legislation.gov.uk/uksi/2000/528).
+
+[^key-9fe3d13125a64de0fde88d694d25eda6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/2229/regulation/4) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
+
+[^f00007]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37).

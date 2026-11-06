@@ -1,0 +1,293 @@
+---
+title: The Charities Act 2006 (Principal Regulators of Exempt Charities) Regulations 2010
+id: uksi/2010/501
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-02-27'
+text_date: '2023-05-03'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/501
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/501/pdfs/uksiem_20100501_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/501/pdfs/uksi_20100501_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/501/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Charities Act 2006 (Principal Regulators of Exempt Charities) Regulations 2010
+
+> Text as at 2023-05-03.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 501
+
+Charities, England And Wales
+
+The Charities Act 2006 (Principal Regulators of Exempt Charities) Regulations 2010
+
+Made
+
+27th February 2010
+
+Coming into force in accordance with regulation 1
+
+These Regulations are made in exercise of the powers conferred by sections 10B(4) and (5) and 97(1)[^f00001] of the Charities Act 1993[^f00002] and sections 13(4)(b) and (5), 74(2) and 78(6) of the Charities Act 2006[^f00003].
+
+A draft of these Regulations has been laid before Parliament in accordance with section 74(5) of the Charities Act 2006 and approved by resolution of each House of Parliament.
+
+Accordingly, the Minister for the Cabinet Office makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-ce1bf4c7e890f1a350dd9888e3ff09d5]
+
+*Extent: E+W*
+
+(1) These Regulations may be cited as the Charities Act 2006 (Principal Regulators of Exempt Charities) Regulations 2010 and come into force immediately after section 11(3) of the Charities Act 2006 comes into force.
+
+(2) In these Regulations—
+
+- “Culture Secretary” means the Secretary of State for Culture, Media and Sport[^key-123f1b43376eb476fdc04b7a95412486];
+- “Environment Secretary” means the Secretary of State for Environment, Food and Rural Affairs;
+- [^key-17a12ee61534bf5024740a46c5820658]...
+- “OfS” means the Office for Students which was established as a body corporate by section 1 of the Higher Education and Research Act 2017.[^key-9bdf0011d71969873b14c440ef82caf8]
+
+## 2. Appointment of principal regulators of exempt charities: higher education institutions, Kew institutions and museum and gallery institutions[^key-ee4fb00c81502ca5208a907bfa597cfb]
+
+*Extent: E+W*
+
+(1) OfS[^key-cee350c0ac94d7fbcd078e8355c49b30] is prescribed as the principal regulator of any exempt charity—
+
+- (a) which is included in paragraph (a), (b), (c), (h) or (i) of Schedule 2 to the 1993 Act; or
+- (b) which—
+  - (i) is administered by or on behalf of an institution included in any of those paragraphs; and
+  - (ii) falls within paragraph (w) of that Schedule.
+
+(2) The Environment Secretary is prescribed as the principal regulator of any exempt charity—
+
+- (a) which is included in paragraph (n) of Schedule 2 to the 1993 Act; or
+- (b) which—
+  - (i) is administered by or on behalf of the institution included in that paragraph; and
+  - (ii) falls within paragraph (w) of that Schedule.
+
+(3) The Culture Secretary is prescribed as the principal regulator of any exempt charity—
+
+- (a) which is included in paragraph (k), (l), (m), (o), (p), (q), (r), (s), (t), (u) or (v) of Schedule 2 to the 1993 Act;
+- (b) which—
+  - (i) is administered by or on behalf of an institution included in any of those paragraphs; and
+  - (ii) falls within paragraph (w) of that Schedule; or
+- (c) which is included in paragraph (za) of that Schedule.
+
+## 3. Transitional provision[^key-c65ae2f0b88bced2d02eed81ae562bb4]
+
+*Extent: E+W*
+
+(1) Until such time as section 11(9) of the Charities Act 2006 is brought into force for the purposes of inserting paragraphs (a) and (b) of Note 1 at the end of Schedule 2 to the 1993 Act[^f00004], regulation 2 has effect subject to the following modifications.
+
+(2) The references in regulation 2(1) to an exempt charity or institution which is included in paragraph (a) of Schedule 2 to the 1993 Act are to be treated as references to an exempt charity or institution (as the case may be) which—
+
+- (a) is included in that paragraph of that Schedule; but
+- (b) is not—
+  - (i) an Investment Fund or Deposit Fund within the meaning of the Church Funds Investment Measure 1958[^f00005]; or
+  - (ii) an investment fund or deposit fund within the meaning of the Methodist Church Funds Act 1960[^f00006].
+
+## 4. Definition of “responsible person”[^key-bcc3b1bdc16583d93afe8ef44330336c]
+
+(1) The definition of “responsible person” to be substituted, in accordance with section 10B(4) of the 1993 Act, for the definition in section 10A(7) of that Act is specified—
+
+- (a) in relation to the OfS[^key-d532fc7e57fabeaab7337e69aa1945ff], in paragraph (2);
+- (b) in relation to the Environment Secretary, in paragraph (3);
+- (c) in relation to the Culture Secretary, in paragraph (4).
+
+(2) “Responsible person” means a person who is or was—
+
+- (a) a member of the OfS;
+- (b) a member of the staff of the OfS;
+- (c) a person acting on behalf of the OfS or a member of the staff of the OfS; or
+- (d) a member of a committee established by the OfS.
+
+(3) “Responsible person” means a person who is or was—
+
+- (a) the Environment Secretary;
+- (b) acting on behalf of the Environment Secretary; or
+- (c) a member of a committee established by the Environment Secretary.
+
+(4) “Responsible person” means a person who is or was—
+
+- (a) the Culture Secretary;
+- (b) acting on behalf of the Culture Secretary; or
+- (c) a member of a committee established by the Culture Secretary.
+
+## 5. Amendments[^key-c3f016f70d03a732c4c74f38bb41c876]
+
+*Extent: E+W*
+
+The Schedule (which contains amendments to disclosure provisions (within the meaning of section 10B of the 1993 Act) and other consequential amendments) has effect.
+
+Angela E. Smith
+
+Minister of State
+
+Cabinet Office
+
+27th February 2010
+
+*Extent: E+W*
+
+## SCHEDULE — AMENDMENTS
+
+Regulation 5
+
+### PART 1 — AMENDMENTS TO DISCLOSURE PROVISIONS
+
+#### 1. Further and Higher Education Act 1992[^key-e457de3ebcfd5e21d05be57aefc385ce]
+
+(1) The Further and Higher Education Act 1992[^f00007] is amended as follows.
+
+(2) After section 69(1), insert—
+
+> (1A) Subsection (1) does not apply to any information which the Higher Education Funding Council for England receives in its capacity as principal regulator (within the meaning of section 13 of the Charities Act 2006).
+>
+> (1B) Subsection (1A) does not prevent the Higher Education Funding Council for England disclosing information under section 10A of the Charities Act 1993.
+
+.
+
+#### 2. Education Act 1996[^key-56a25cecb3847e7218f3afc2b39bccab]
+
+(1) The Education Act 1996[^f00008] is amended as follows.
+
+(2) After section 537B, insert—
+
+> **537C. Disclosure of information by or to principal regulators of exempt charities**
+>
+> (1) Nothing in section 537, 537A or 537B above, nor any regulations made under those provisions, requires or authorises the provision of information—
+>
+> - (a) by the Higher Education Funding Council for England (“the Council”) if the information was received by the Council in its capacity as principal regulator (within the meaning of section 13 of the Charities Act 2006); or
+> - (b) to the Council in its capacity as principal regulator.
+>
+> (2) This section does not prevent the Council disclosing information under section 10A of the Charities Act 1993.
+
+.
+
+#### 3. Higher Education Act 2004[^key-6377ea782b6a57bae31768d49bd995b8]
+
+(1) Section 40 of the Higher Education Act 2004[^f00009] (provision of information) is amended as follows.
+
+(2) After subsection (1), insert—
+
+> (1A) Subsection (1) does not apply to any information which the Higher Education Funding Council for England receives in its capacity as principal regulator (within the meaning of section 13 of the Charities Act 2006).
+>
+> (1B) Subsection (1A) does not prevent the Higher Education Funding Council for England disclosing information to the Director under section 10A of the Charities Act 1993.
+
+.
+
+(3) After subsection (2), insert—
+
+> (3) Subsection (2) does not apply to information which the Higher Education Funding Council for England requires for the purposes of its functions as principal regulator (within the meaning of section 13 of the Charities Act 2006).
+
+.
+
+### PART 2 — CONSEQUENTIAL AMENDMENTS
+
+#### 4. Further and Higher Education Act 1992[^key-25cbc8e7d07de76f34a1bd92bd9d1486]
+
+After section 79 of the Further and Higher Education Act 1992 insert—
+
+> **79A. Power to request information from higher education institutions that are exempt charities**
+>
+> The Higher Education Funding Council for England may direct any exempt charity in relation to which it is the principal regulator (within the meaning of section 13 of the Charities Act 2006) to provide it with such information as it considers necessary for the purpose of discharging its duty under subsection (2) of that section.
+
+.
+
+#### 5. Education Act 2005[^key-4124cfbbcd26a7812c2979d96fa9263f]
+
+In section 92 of the Education Act 2005[^f00010] (joint exercise of functions) at the end insert—
+
+> (5) This section does not apply in relation to the functions of the Higher Education Funding Council for England in its capacity as principal regulator (within the meaning of section 13 of the Charities Act 2006).
+
+.
+
+#### 6. Natural Environment and Rural Communities Act 2006[^key-af68f30cee5f9cd1878fe0cb358bffb6]
+
+In section 81(2) of the Natural Environment and Rural Communities Act 2006 (reserved functions)[^f00011], after paragraph (g) insert—
+
+> - (h) any function as principal regulator of an exempt charity (within the meaning of section 13 of the Charities Act 2006).
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe, in relation to certain exempt charities, the body or Minister of the Crown which is to act as the principal regulator of those charities (regulation 2). Exempt charities are those charities comprised in Schedule 2 to the Charities Act 1993 (“the 1993 Act”). The principal regulator of an exempt charity must do all it or he reasonably can to meet the compliance objective specified in section 13 of the Charities Act 2006 in relation to that charity.
+
+Sections 10 and 10A of the 1993 Act, as applied by section 10B of that Act, regulate the disclosure of information by and to principal regulators. Specific rules apply under these provisions to the disclosure of Revenue and Customs information. A “responsible person” who discloses information contrary to those rules may be found guilty of an offence. These Regulations specify the definition of “responsible person” that applies in relation to each of the principal regulators prescribed by regulation 2 (regulation 4).
+
+Regulation 3 makes transitional provision. Regulation 5 and the Schedule make amendments to disclosure provisions (within the meaning of section 10B of the 1993 Act) and other consequential amendments.
+
+A full regulatory impact assessment of the effect of changes proposed in relation to the regulation of exempt charities was produced alongside the Bill which became the Charities Act 2006. A copy of this regulatory impact assessment is available from the Office of the Third Sector’s website:
+
+http://www.cabinetoffice.gov.uk/third\_sector/law\_and\_regulation/charities\_act\_2006/background.aspx
+
+or from Khaled Moyeed at the Office of the Third Sector, Admiralty Arch, Room 2.7, South Side, The Mall, London, SW1A 2WH (020 7276 6028 or Khaled.Moyeed@cabinet-office.x.gsi.gov.uk). It is also annexed to the Explanatory Memorandum which is available alongside the Order on the OPSI website (http://www.opsi.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: See the definition of “Minister” in section 97(1). The definition was inserted by the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), Schedule 8, paragraph 174.
+
+[^f00002]: Footnote: [1993 c.10](https://www.legislation.gov.uk/ukpga/1993/10). Sections 10 to 10C of the 1993 Act were substituted for section 10 of that Act by the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), Schedule 8, paragraph 104. Section 10, as substituted, has been amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), Schedule 1, paragraph 192. Section 10B(5) of the 1993 Act was amended by [S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951), Schedule, paragraph 4(h) and by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), Schedule 1, paragraph 192. Schedule 2 to the 1993 Act was amended by the National Lottery Act [1993 (c.39)](https://www.legislation.gov.uk/ukpga/1993/39), Schedule 5, paragraph 12; by the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 38; by the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44), Schedule 7, paragraph 7; by the Teaching and Higher Education Act [1998 (c.30)](https://www.legislation.gov.uk/ukpga/1998/30), Schedule 4; by the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 31; by [S.I. 2005/3239](https://www.legislation.gov.uk/uksi/2005/3239), Schedule 1, paragraph 4; by the National Lottery Act [2006 (c.23)](https://www.legislation.gov.uk/ukpga/2006/23), Schedule 3; by the Charities Act 2006, section 11 and Schedule 8, paragraph 177 (not all of the amendments made by section 11 of the Charities Act 2006 are in force); by the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 12, paragraph 8 (the amendments made by the 2009 Act are not yet in force) and by the Charities Act 2006 (Changes in Exempt Charities) Order 2010 ([S.I. 2010/500](https://www.legislation.gov.uk/uksi/2010/500)), article 2.
+
+[^f00003]: Footnote: [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50).
+
+[^key-ce1bf4c7e890f1a350dd9888e3ff09d5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/501/regulation/1) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^key-123f1b43376eb476fdc04b7a95412486]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/2) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/53) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+
+[^key-17a12ee61534bf5024740a46c5820658]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2010/501/regulation/1) omitted (1.4.2018) by virtue of [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(a)(i)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/a/i) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
+
+[^key-9bdf0011d71969873b14c440ef82caf8]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2010/501/regulation/1) inserted (1.4.2018) by [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/a/ii) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
+
+[^key-ee4fb00c81502ca5208a907bfa597cfb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/501/regulation/2) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^key-cee350c0ac94d7fbcd078e8355c49b30]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/2/1) substituted (1.4.2018) by [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(b)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
+
+[^key-c65ae2f0b88bced2d02eed81ae562bb4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/501/regulation/3) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^f00004]: Footnote: Note 1 to Schedule 2 to the Charities Act 1993 was inserted by section 11(9) of the Charities Act 2006.
+
+[^f00005]: Footnote: [1958 No 1](https://www.legislation.gov.uk/ukcm/1958/1). The 1958 Measure was amended by the Charities Act [1960 (c.58)](https://www.legislation.gov.uk/ukpga/1960/58), Schedule 7; by [S.I. 1964/490](https://www.legislation.gov.uk/uksi/1964/490); by the Government Trading Act [1990 (c.30)](https://www.legislation.gov.uk/ukpga/1990/30), Schedule 2; by the Church of England (Miscellaneous Provisions) Measure 1995 ([1995 No 2](https://www.legislation.gov.uk/ukcm/1995/2)), the Schedule; by the Church of England (Miscellaneous Provisions) Measure 2000 ([2000 No 1](https://www.legislation.gov.uk/ukcm/2000/1)), section 14; by the Trustee Act [2000 (c.29)](https://www.legislation.gov.uk/ukpga/2000/29), Schedule 2, paragraph 52; by the Charities Act 2006, Schedule 8, paragraph 40 (paragraph 40 of Schedule 8 to the 2006 Act is not yet in force).
+
+[^f00006]: Footnote: [1960 c.xxiii](https://www.legislation.gov.uk/ukla/1960/23).
+
+[^key-bcc3b1bdc16583d93afe8ef44330336c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/501/regulation/4) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^key-d532fc7e57fabeaab7337e69aa1945ff]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/501/regulation/4) substituted (1.4.2018) by [The Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018 (S.I. 2018/245)](https://www.legislation.gov.uk/uksi/2018/245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/245/regulation/1/1), [25(c)](https://www.legislation.gov.uk/uksi/2018/245/regulation/25/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/245/regulation/2))
+
+[^key-c3f016f70d03a732c4c74f38bb41c876]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/501/regulation/5) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^key-e457de3ebcfd5e21d05be57aefc385ce]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/1) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^f00007]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13). There are amendments to the 1992 Act not relevant to these Regulations.
+
+[^key-56a25cecb3847e7218f3afc2b39bccab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/2) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^f00008]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 537 was amended by the Education Act [1994 (c.44)](https://www.legislation.gov.uk/ukpga/1994/44), Schedule 7, paragraph 37; by the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraph 152, and Schedule 31; by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraph 60, and by the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 7, paragraph 6, and Schedule 22. Section 537A was inserted by the Education Act 1997, section 20, and substituted by the School Standards and Framework Act 1998, Schedule 30, paragraph 15. Section 537AA was inserted by the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), Schedule 1, paragraph 8 (paragraph 8 of Schedule 1 to the 2008 Act is not yet in force). Section 537B was inserted by the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), section 164.
+
+[^key-6377ea782b6a57bae31768d49bd995b8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/3) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^f00009]: Footnote: [2004 c.8](https://www.legislation.gov.uk/ukpga/2004/8). There are amendments to section 40 which are not relevant to these Regulations.
+
+[^key-25cbc8e7d07de76f34a1bd92bd9d1486]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/4) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^key-4124cfbbcd26a7812c2979d96fa9263f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/5) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^f00010]: Footnote: [2005 c.18](https://www.legislation.gov.uk/ukpga/2005/18). There are amendments to section 92 not relevant to these Regulations.
+
+[^key-af68f30cee5f9cd1878fe0cb358bffb6]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/501/schedule/paragraph/6) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/501/regulation/1/1)
+
+[^f00011]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16). There are amendments to the Act not relevant to these Regulations.

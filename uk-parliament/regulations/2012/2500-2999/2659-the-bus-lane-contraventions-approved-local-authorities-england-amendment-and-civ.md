@@ -1,0 +1,290 @@
+---
+title: The Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation ( No. 2) Order 2012
+id: uksi/2012/2659
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-10-30'
+text_date: '2017-04-03'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/2659
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2659/pdfs/uksiem_20122659_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2659/pdfs/uksi_20122659_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2659/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation ( No. 2) Order 2012
+
+> Text as at 2017-04-03.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 2659
+
+Local Government, England
+
+Road Traffic, England
+
+The Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2012
+
+Made
+
+30th October 2012
+
+Laid before Parliament
+
+2nd November 2012
+
+Coming into force
+
+30th November 2012
+
+This Order is made in exercise of powers conferred by—
+
+- (a) section 89(3) of the Traffic Management Act 2004[^f00001] (“the 2004 Act”);
+- (b) paragraph 8(1) of Schedule 8 to the 2004 Act;
+- (c) paragraph 3(1) of Schedule 10 to the 2004 Act; and
+- (d) section 144(3)(b) of the Transport Act 2000[^f00002].
+
+The Buckinghamshire County Council has applied to the Secretary of State for an order to be made, in exercise of the powers mentioned at paragraphs (b) and (c) above, in respect of part of that council’s area.
+
+The Lincolnshire County Council has applied to the Secretary of State for an order to be made, in exercise of the powers mentioned at paragraphs (b) and (c) above, in respect of part of that council’s area.
+
+The Council of the City of Salford has applied to the Secretary of State for an order to be made, in exercise of the powers at paragraphs (b) and (c) above, in respect of the whole of that council’s area.
+
+In accordance with the requirements of paragraph 8(3) of Schedule 8, and paragraph 3(4) of Schedule 10, to the 2004 Act, the Secretary of State has consulted the chief officers of police of Thames Valley Police, Lincolnshire Police and Greater Manchester Police.
+
+Accordingly, the Secretary of State[^f00003] makes this Order.
+
+## 1. Citation and commencement[^key-174bec881664eeaaf520f1721827c88d]
+
+This Order may be cited as the Bus Lane Contraventions (Approved Local Authorities) (England) (Amendment) and Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2012 and comes into force on 30th November 2012.
+
+## 2. Revocation of previous orders[^key-4c60bf5b514374dff4b7234d6e7925cf]
+
+The Road Traffic (Permitted Parking Area and Special Parking Area) (City of Salford) Order 2001[^f00004] is revoked.
+
+## 3. Designation of civil enforcement areas and special enforcement areas under the Traffic Management Act 2004[^key-11231f086338358d260b37d7fb9e26d6]
+
+(1) The Secretary of State designates each of the areas mentioned in paragraph (2) as—
+
+- (a) a civil enforcement area for parking contraventions; and
+- (b) a special enforcement area.
+
+(2) The areas are—
+
+- (a) the part of the area of The Buckinghamshire County Council specified in Schedule 1;
+- (b) the part of the area of The Lincolnshire County Council specified in Schedules 2 and 3; and
+- (c) the part of the area of the Council of the City of Salford specified in Schedule 4.
+
+## 4. Amendment of the Bus Lane Contraventions (Approved Local Authorities) (England) Order 2005[^key-0dd0e3f0e70318d338f28d282babf394]
+
+(1) The Bus Lane Contraventions (Approved Local Authorities) (England) Order 2005[^f00005] is amended as follows.
+
+(2) In the table in Schedule 2, after the row relating to the Council of the City of Newcastle upon Tyne, insert—
+
+> |  |  |
+> | --- | --- |
+> | The Lincolnshire County Council | [2012/2659](https://www.legislation.gov.uk/uksi/2012/2659) |
+
+Signed by the authority of the Secretary of State
+
+Norman Baker
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+30th October 2012
+
+SCHEDULES
+
+## SCHEDULE 1 — The part of the area of The Buckinghamshire County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-60af87b422bd36db795612db1a09c1f7]
+
+Article 3(2)(a)
+
+[^key-60af87b422bd36db795612db1a09c1f7]
+
+The whole of the area of South Bucks District Council[^f00006] except—
+
+- (a) the entire length of the M25 within the District, including its on and off slip roads;
+- (b) the entire length of the M4 within the District, including its on and off slip roads;
+- (c) the entire length of the M40 within the District, including its on and off slip roads and all roundabouts;
+- (d) the entire length of the A40 within the District, from its transition to the M40 at junction 1 at Ordnance Survey national grid reference point TQ0474185737 to the Boundary with the London Borough of Hillingdon at Ordnance Survey national grid reference point TQ0567585630 including its on and off slip roads; and
+- (e)[^key-3e8b3fcff2def3820da3e15f25f40d29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — The part of the area of The Lincolnshire County Council designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-2a4470f491bbba8812794b5411842d92]
+
+Article 3(2)(b)
+
+[^key-2a4470f491bbba8812794b5411842d92]
+
+The whole of the area of the Lincolnshire County Council except—
+
+- (a) the A46 from the roundabout junction between the A46 dual carriageway and the A57 Saxilby Road/Carholme Road at Ordnance Survey national grid reference point SK9534472777 to the boundary with The Nottinghamshire County Council at Ordnance Survey national grid reference point SK8600560805;
+- (b) the A1 from the boundary with The Nottinghamshire County Council at Ordnance Survey national grid reference point SK8262648483 to the boundary with The Leicestershire County Council at Ordnance Survey national grid reference point SK9392218919;
+- (c) the A52 from the junction between the A52 and the A1 at Ordnance Survey national grid reference point SK8879636375 to the boundary with The Leicestershire County Council at Ordnance Survey national grid reference point SK8335538260; and
+- (d) the following roads situated on land owned by the Secretary of State for Defence in each case illustrated generally by the outer edge of a black line forming the boundary of an area enclosed by a black line in a Map in Schedule 3—
+  - (i) Thorpe Place, as illustrated in Map 1 in Schedule 3, from:
+    - (aa) the junction with Thorpe Road at Ordnance Survey national grid reference point TF2187758538 south west to the junction at Ordnance Survey national grid reference point TF2177058491, continuing south west to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2170658435;
+    - (bb) the junction with Thorpe Road at Ordnance Survey national grid reference point TF2187758538 north and then west to the junction at Ordnance Survey national grid reference point TF2172158564 then north west and west to the junction at Ordnance Survey national grid reference point TF2164658582 and then north west to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2162758612;
+    - (cc) the junction at Ordnance Survey national grid reference point TF2164658582 north east and then south east to the junction at Ordnance Survey national grid reference point TF2177058491; and
+    - (dd) the junction at Ordnance Survey national grid reference point TF2164658582 south east and then north east to the junction at Ordnance Survey national grid reference point TF2173758511;
+  - (ii) Abbey Close, as illustrated in Map 1 in Schedule 3, from:
+    - (aa) the northernmost junction with Thorpe Road at Ordnance Survey national grid reference point TF2186858436 north east and north to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2195358499;
+    - (bb) the junction at Ordnance Survey national grid reference point TF2195658450 south east to the junction at Ordnance Survey national grid reference point TF2199358343 and then east to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2202758347;
+    - (cc) the junction at Ordnance Survey national grid reference point TF2199358343 west to the southernmost junction with Thorpe Road at Ordnance Survey national grid reference point TF2190758311; and
+    - (dd) the junction at Ordnance Survey national grid reference point TF2190658317 north west to the junction at Ordnance Survey national grid reference point TF2188358427;
+  - (iii) Manor Road from the junction with Gayle Road at Ordnance Survey national grid reference point TF2063257511 to the junction with West Drive at Ordnance Survey national grid reference point TF2073757401 as illustrated in Map 2 in Schedule 3;
+  - (iv) East Drive from the point where the road changes its name from Brent Road at Ordnance Survey national grid reference point TF2064557580 to the point where the road changes to West Drive at Ordnance Survey national grid reference point TF2078757467 as illustrated in Map 2 in Schedule 3;
+  - (v) Croft Lane from the junction with North Lane at Ordnance Survey national grid reference point TF2081357555 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2076257541 as illustrated in Map 2 in Schedule 3;
+  - (vi) West Drive from the junction with Brent Road at Ordnance Survey national grid reference point TF2052657521 to the junction with the A153, Sleaford Road, at Ordnance Survey national grid reference point TF2080657440 as illustrated in Map 2 in Schedule 3;
+  - (vii) Teal Road from the junction with West Drive at Ordnance Survey national grid reference point TF2063157404 to the junction with Manor Road at Ordnance national grid reference point TF2068257448 as illustrated in Map 2 in Schedule 3;
+  - (viii) North Lane from the northerly junction with East Drive at Ordnance Survey national grid reference point TF2079757638 to the southerly junction with East Drive at Ordnance Survey national grid reference point TF2085357516 as illustrated in Map 2 in Schedule 3;
+  - (ix) Gayle Road from the junction with West Drive at Ordnance Survey national grid reference point TF2057357458 to the junction with Brent Road at Ordnance Survey national grid reference point TF2063557573 as illustrated in Map 2 in Schedule 3;
+  - (x) Sherwood Road from the point where the road changes from Cooke Crescent at Ordnance Survey national grid reference point TF2295857621 to the point where the road ends at Ordnance Survey national grid reference point TF2303657572 as illustrated in Map 3 in Schedule 3;
+  - (xi) Lewis Road from the junction with Cooke Crescent at Ordnance Survey national grid reference point TF2282857542 to the junction with Sherwood Road, Coningsby, at Ordnance Survey national grid reference point TF2301257587 as illustrated in Map 3 in Schedule 3;
+  - (xii) Cooke Crescent from the junction with Old Boston Road at Ordnance Survey national grid reference point TF2281557528 to the point where the road changes to Sherwood Road at Ordnance Survey national grid reference point TF2295857621 as illustrated in Map 3 in Schedule 3;
+  - (xiii) Overton Road from the junction with Ash Road at Ordnance Survey national grid reference point TF2272057614 to the junction with Cooke Crescent at Ordnance Survey national grid reference point TF2282757541 as illustrated in Map 3 in Schedule 3;
+  - (xiv) Ash Road from the junction with Old Boston Road at Ordnance Survey national grid reference point TF2271257601 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2287457681 as illustrated in map 3 in Schedule 3;
+  - (xv) Willow Drive from the junction with Ash Road at Ordnance Survey national grid reference point TF2278257690 to the end of the cul-de-sac at Ordnance Survey national gird reference point TF2273257718 as illustrated in Map 3 in Schedule 3;
+  - (xvi) Birch Close from the junction with Sherwood Road at Ordnance Survey national grid reference point TF2294057621 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2293957656 as illustrated in Map 3 in Schedule 3;
+  - (xvii) Cherry Tree Way from the junction with Ash Road at Ordnance Survey National grid reference point TF2283457703 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2283457734 as illustrated in Map 3 in Schedule 3;
+  - (xviii) Chestnut Drive from the junction with Ash Road at Ordnance Survey national grid reference point TF2281157690 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2281957641 as illustrated in Map 3 in Schedule 3;
+  - (xix) Beech Close from the junction with Ash Road at Ordnance Survey national grid reference point TF2273557636 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF2271057662 as illustrated in Map 3 in Schedule 3;
+  - (xx) Eastchurch Road from the junction with Sycamore Drive at Ordnance Survey national gird reference point TF0140550004 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF0140549842 to include the eastwards spur to the junction with Flowerdown Avenue at Ordnance Survey national grid reference point TF0146249947 as illustrated in Map 4 in Schedule 3;
+  - (xxi) Sycamore Drive from the junction with Chestnut Avenue where the road changes name from North Drive at Ordnance Survey national grid reference point TF0123050123 to the junction with North Drive at Ordnance Survey national grid reference point TF0145550007 as illustrated in Map 4 in Schedule 3;
+  - (xxii) Lime Close from the junction with North Drive at Ordnance Survey national grid reference point TF0142750082 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF0138350075 as illustrated in Map 4 in Schedule 3;
+  - (xxiii) Beech Close from the junction with Sycamore Drive at Ordnance Survey national grid reference point TF0123350075 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF0131650075 as illustrated in Map 4 in Schedule 3;
+  - (xxiv) North Drive from the point where the road changes from Sycamore Drive at Ordnance Survey national grid reference point TF0123050120 to the junction with Flowerdown Avenue at Ordnance Survey national grid reference point TF0145750006 as illustrated in Map 4 in Schedule 3;
+  - (xxv) Chestnut Avenue from the junction with Sycamore Drive at Ordnance Survey national grid reference point TF0122750120 to the end of the cul-de-sac at Ordnance Survey national grid reference point TF0109250089 as illustrated in Map 4 in Schedule 3;
+  - (xxvi) West Avenue from the junction with Cranwell Avenue at Ordnance Survey national grid reference point SK9959749411 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9957549277 as illustrated in Map 5 in Schedule 3;
+  - (xxvii) The Oval from the junction with the B1191, Heath Road at Ordnance Survey national grid reference point TF0506756852 in both northerly and southerly directions, to the end of the cul-de-sac at Ordnance Survey national reference point TF0518365807 as illustrated in Map 6 in Schedule 3;
+  - (xxviii) Trenchard Square from the junction with Scampton Way at Ordnance Survey national gird reference point SK9717378802 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9722478820 as illustrated in Map 7 in Schedule 3;
+  - (xxix) Lincoln Drive from the junction with Scampton Way at Ordnance Survey national grid reference point SK9710278793 to the junction with Lancaster Drive at Ordnance Survey national grid reference point SK9701978660 as illustrated in Map 7 in Schedule 3;
+  - (xxx) Vulcan Drive from the junction with Lincoln Drive at Ordnance Survey national grid reference point SK9711478667 east to Ordnance Survey national grid reference point SK9726578684, west to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9714978696, south to the junction at Ordnance Survey national grid reference point SK9714978670 and then west to the junction with Lincoln Drive at Ordnance Survey national grid reference point SK9711478667 as illustrated in Map 7 in Schedule 3;
+  - (xxxi) Lancaster Drive from the junction with Lincoln Drive at Ordnance Survey national grid reference point SK9711178663 to where the road ends at the most easterly point at Ordnance Survey national grid reference point SK9720078475 and to where the road ends at the most north-westerly point at Ordnance Survey national grid reference point SK9701478718 as illustrated in Map 7 in Schedule 3;
+  - (xxxii) Canberra Drive from the junction with Lancaster Drive at Ordnance Survey national grid reference point SK9711678580 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9729678591 as illustrated in Map 7 in Schedule 3;
+  - (xxxiii) Gibson Drive from the junction with Pollyplatt Lane at Ordnance Survey national grid reference point SK9685479001 to the point where the road changes to Scampton Way at the junction with School Lane at Ordnance Survey national grid reference point SK9705678795 as illustrated in Map 7 in Schedule 3;
+  - (xxxiv) School Lane from the junction with Scampton Way at Ordnance Survey national grid reference point SK9706278798 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9719878982 as illustrated in Map 7 in Schedule 3;
+  - (xxxv) Scampton Way from the junction with the A15 at Ordnance Survey national grid reference point SK9731278809 to the point where the road changes to Gibson Drive at the junction with School Lane at Ordnance Survey national grid reference point SK9705678795 as illustrated in Map 7 in Schedule 3;
+  - (xxxvi) Fourth Avenue from the junction with Pollyplatt Lane at Ordnance Survey national grid reference point SK9648079013 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9652678728 as illustrated in Map 8 in Schedule 3;
+  - (xxxvii) Hampden Street from the junction with Fourth Avenue at Ordnance Survey national grid reference point SK9652878852 to the junction with Second Avenue at Ordnance Survey national grid reference point SK9663378860 as illustrated in Map 8 in Schedule 3;
+  - (xxxviii) Whitley Street from the junction with Fourth Avenue at Ordnance Survey national grid reference point SK9654278769 to the junction with Second Avenue at Ordnance Survey national grid reference point SK9663478774 as illustrated in Map 8 in Schedule 3;
+  - (xxxix) Third Avenue from the junction with Pollyplatt Lane at Ordnance Survey national grid reference point SK9656079010 to the junction with Whitely Street at Ordnance Survey national grid reference point SK9657578774 as illustrated in Map 8 in Schedule 3;
+  - (xl) Cornwall Close from the junction with Northumberland Avenue at Ordnance Survey national grid reference point SK9634778714 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9638878755 as illustrated in Map 8 in Schedule 3;
+  - (xli) Wellington Street from the junction with Second Avenue at Ordnance Survey national grid reference point SK9663578923 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9682878930 as illustrated in Map 8 in Schedule 3;
+  - (xlii) Northumberland Avenue from the junction with Suffolk Road at Ordnance Survey national grid reference point SK9626778806 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9642278522 as illustrated in Map 8 in Schedule 3;
+  - (xliii) Suffolk Road from the junction with Fourth Avenue at Ordnance Survey national grid reference point SK9648678806 to the end to the cul-de-sac at Ordnance Survey national grid reference point SK9625178809 as illustrated in Map 8 in Schedule 3;
+  - (xliv) Pottergate Close from the junction with the A607 Grantham Road at Ordnance Survey national grid reference point SK9773064945 to the end of the cul-de-sac at Ordnance Survey national grid reference point SK9797564955 as illustrated in Map 9 in Schedule 3; and
+  - (xlv) Pollyplatt Lane from the junction with Norfolk Crescent at Ordnance Survey national grid reference point SK9634179021 to the junction with the A15 at Ordnance Survey national grid reference point SK9729279142 as illustrated in Map 10 in Schedule 3.
+
+## SCHEDULE 3[^key-7993823faefdcecfa8d4fc94afaf71a8]
+
+Article 3(2)(b)
+
+Map 1
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_001)
+
+Map 2
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_002)
+
+Map 3
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_003)
+
+Map 4
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_004)
+
+Map 5
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_005)
+
+Map 6
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_006)
+
+Map 7
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_007)
+
+Map 8
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_008)
+
+Map 9
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_009)
+
+Map 10
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/2659/images/uksi_20122659_en_010)
+
+## SCHEDULE 4 — The part of the area of the Council of the City of Salford designated as a civil enforcement area for parking contraventions and as a special enforcement area[^key-68b2219d67212e490a8b7749ca393ba4]
+
+Article 3(2)(c)
+
+[^key-68b2219d67212e490a8b7749ca393ba4]
+
+The whole of the area of the Council of the City of Salford except—
+
+- (a) the M60 motorway for the whole of its length within the Council’s area including its on and off slip roads;
+- (b) the M61 motorway for the whole of its length within the Council’s area including its on and off slip roads;
+- (c) the M62 motorway for the whole of its length within the Council’s area including its on and off slip roads; and
+- (d) the M602 motorway for the whole of its length within the Council’s area including its on and off slip roads.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates part of the area of each of The Buckinghamshire County Council, The Lincolnshire County Council and the Council of the City of Salford as a civil enforcement area for parking contraventions and as a special enforcement area for the purposes of Part 6 of the Traffic Management Act 2004.
+
+It simultaneously revokes the Road Traffic (Permitted Parking Area and Special Parking Area) (City of Salford) Order 2001 ([S.I. 2001/894](https://www.legislation.gov.uk/uksi/2001/894)) made under the predecessor designation scheme contained in the Road Traffic Act 1991. The roads that were excluded in the 2001 Order are now included within the designated area except for the M60, M61, M62 and M602 motorways which will continue to be excluded under the Traffic Management Act 2004 by this Order.
+
+This Order also amends the Bus Lane Contraventions (Approved Local Authorities) (England) Order 2005 ([S.I. 2005/2755](https://www.legislation.gov.uk/uksi/2005/2755), “the 2005 Order”).
+
+The Bus Lane Contraventions (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2005 ([S.I. 2005/2757](https://www.legislation.gov.uk/uksi/2005/2757)), made under section 144 of the Transport Act 2000, provide for the enforcement of bus lane restrictions through the imposition, by approved local authorities, of penalty charges in respect of contraventions of such restrictions. By amending the 2005 order, this order specifies The Lincolnshire County Council as an approved local authority for the purposes of that section.
+
+An impact assessment has not been produced as no impact on the private or voluntary sectors is foreseen. An Explanatory Memorandum is available alongside the instrument on the UK legislation website, www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18).
+
+[^f00002]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38); section 144(3) was modified by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053) (as inserted by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757)), for a transitional period beginning with 31st March 2008. (See also the correction slip dated June 2009 (ISBN 978-0-11-081271-7) which made a minor correction to [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757)). The powers conferred by section 144 are conferred on “the relevant national authority”. By virtue of section 144(14), the Secretary of State is the “relevant national authority”, as respects England.
+
+[^f00003]: Footnote: The Secretary of State is, by virtue of section 92 of the Traffic Management Act 2004, the ‘appropriate national authority’ as regards England for the purposes of Part 6 of that Act.
+
+[^key-174bec881664eeaaf520f1721827c88d]: Commencement: Art. 1 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+
+[^key-4c60bf5b514374dff4b7234d6e7925cf]: Commencement: Art. 2 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+
+[^f00004]: Footnote: [S.I. 2001/894](https://www.legislation.gov.uk/uksi/2001/894).
+
+[^key-11231f086338358d260b37d7fb9e26d6]: Commencement: Art. 3 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+
+[^key-0dd0e3f0e70318d338f28d282babf394]: Commencement: Art. 4 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+
+[^f00005]: Footnote: [S.I. 2005/2755](https://www.legislation.gov.uk/uksi/2005/2755), amended by [S.I. 2005/3406](https://www.legislation.gov.uk/uksi/2005/3406), [2006/593](https://www.legislation.gov.uk/uksi/2006/593), [2006/1447](https://www.legislation.gov.uk/uksi/2006/1447), [2006/1516](https://www.legislation.gov.uk/uksi/2006/1516), [2006/2632](https://www.legislation.gov.uk/uksi/2006/2632), [2006/2820](https://www.legislation.gov.uk/uksi/2006/2820), [2006/3212](https://www.legislation.gov.uk/uksi/2006/3212), [2006/3419](https://www.legislation.gov.uk/uksi/2006/3419), [2006/3425](https://www.legislation.gov.uk/uksi/2006/3425), [2007/551](https://www.legislation.gov.uk/uksi/2007/551), [2007/647](https://www.legislation.gov.uk/uksi/2007/647), [2007/1512](https://www.legislation.gov.uk/uksi/2007/1512), [2007/1585](https://www.legislation.gov.uk/uksi/2007/1585), [2007/2323](https://www.legislation.gov.uk/uksi/2007/2323), [2007/2536](https://www.legislation.gov.uk/uksi/2007/2536), [2007/2838](https://www.legislation.gov.uk/uksi/2007/2838), [2007/3554](https://www.legislation.gov.uk/uksi/2007/3554), [2010/99](https://www.legislation.gov.uk/uksi/2010/99), [2010/2790](https://www.legislation.gov.uk/uksi/2010/2790) and [2012/846](https://www.legislation.gov.uk/uksi/2012/846).
+
+[^key-60af87b422bd36db795612db1a09c1f7]: Commencement: Sch. 1 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+
+[^f00006]: Footnote: South Bucks District Council changed its name from Beaconsfield District Council by a Notice of Motion on 1 April 1980.
+
+[^key-3e8b3fcff2def3820da3e15f25f40d29]: Textual amendment: [Sch. 1 para.](https://www.legislation.gov.uk/uksi/2012/2659/schedule/1/paragraph) (e) omitted (3.4.2017) by virtue of [The Civil Enforcement of Parking Contraventions Designation and Consequential Amendment Order 2017 (S.I. 2017/272)](https://www.legislation.gov.uk/uksi/2017/272), [arts. 1](https://www.legislation.gov.uk/uksi/2017/272/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/272/article/3/2)
+
+[^key-2a4470f491bbba8812794b5411842d92]: Commencement: Sch. 2 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+
+[^key-7993823faefdcecfa8d4fc94afaf71a8]: Commencement: Sch. 3 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)
+
+[^key-68b2219d67212e490a8b7749ca393ba4]: Commencement: Sch. 4 in force at 30.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2659/article/1)

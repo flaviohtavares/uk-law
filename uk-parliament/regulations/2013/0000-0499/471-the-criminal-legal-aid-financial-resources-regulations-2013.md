@@ -1,0 +1,1095 @@
+---
+title: The Criminal Legal Aid (Financial Resources) Regulations 2013
+id: uksi/2013/471
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-04'
+text_date: '2025-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/471
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/471/pdfs/uksiem_20130471_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/471/pdfs/uksi_20130471_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/471/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Legal Aid (Financial Resources) Regulations 2013
+
+> Text as at 2025-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 471
+
+Legal Aid And Advice, England And Wales
+
+The Criminal Legal Aid (Financial Resources) Regulations 2013
+
+Made
+
+4th March 2013
+
+Laid before Parliament
+
+6th March 2013
+
+Coming into force
+
+1st April 2013
+
+The Lord Chancellor makes the following Regulations[^f00001] in exercise of the powers conferred by sections 5(4), 21(2) to (7) and 41(1) to (3) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00002].
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-7af5b4460c5ba1d1592a3b0688c125ec]
+
+These Regulations may be cited as the Criminal Legal Aid (Financial Resources) Regulations 2013 and come into force on 1st April 2013.
+
+### 2. Interpretation[^key-0b1f5c36323f0bc431485f513459ca6a]
+
+In these Regulations—
+
+- “the Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+- “the 1989 Act” means the Children Act 1989[^f00003];
+- “the 1992 Act” means the Social Security Contributions and Benefits Act 1992[^f00004];
+- “the 1992 (Northern Ireland) Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00005];
+- “the 1995 Act” means the Jobseekers Act 1995[^f00006];
+- “the 1995 (Northern Ireland) Order” means the Jobseekers (Northern Ireland) Order 1995[^f00007];
+- “the 2001 Act” means the Health and Social Care Act 2001[^f00008];
+- [^key-0c1e2e6d04978b1cb079c95068f9d8d6]...
+- “the 2002 (Northern Ireland) Act” means the State Pension Credit Act (Northern Ireland) 2002[^f00010];
+- “the 2002 (Northern Ireland) Direct Payments Act” means Carers and Direct Payments Act (Northern Ireland) 2002[^f00011];
+- “the 2007 Act” means the Welfare Reform Act 2007[^f00012];
+- “the 2007 (Northern Ireland) Act” means the Welfare Reform Act (Northern Ireland) 2007[^f00013]
+- “the 2012 Act” means the Welfare Reform Act 2012[^f00014];
+- “the 2013 Regulations” means the Social Security (Payments on Account of Benefit) Regulations 2013;[^key-02096c9782b4b9c4246744d33242aac8]
+- “the 2015 (Northern Ireland) Order” means the Welfare Reform (Northern Ireland) Order 2015;
+- “the 2016 (Northern Ireland) Regulations” means the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016;
+- “child” means, unless different provision is made, an individual who is under the age of 18 on the date on which an application is made for a determination under section 15 of the Act (advice and assistance for criminal proceedings) or section 16 of the Act (representation for criminal proceedings);
+- “child care costs” means the costs of care, other than excluded costs, provided by one or more of the following—[^key-6bd172f9147e4315ff2795040d103d51]
+  - (a) a school on school premises, out of school hours;
+  - (b) a local authority, out of school hours—
+    - (i) for a child who is not disabled, in respect of the period beginning on their eighth birthday and ending on the day preceding the first Monday in September following their 15th birthday; or
+    - (ii) for a child who is disabled, in respect of the period beginning on their eighth birthday and ending on the day preceding the first Monday in September following their 16th birthday;
+  - (c) a child care provider approved in accordance with the Tax Credit (New Category of Child Care Provider) Regulations 1999;
+  - (d) persons registered under Part 3 of the Childcare Act 2006 or Part 2 of the Children and Families (Wales) Measure 2010;
+  - (e) persons referred to in article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010, working in schools or establishments referred to in those articles; and
+  - (f) persons prescribed in regulations made pursuant to section 12(4) of the Tax Credits Act 2002;
+- “contribution order” means a document which records a determination by the Director under the Criminal Legal Aid (Contribution Orders) Regulations 2013;
+- “criminal legal aid” means advice, assistance and representation made available under sections 15 and 16 of the Act;
+- “Crown Court proceedings” means any criminal proceedings—
+  - (a) in respect of an offence for which an individual may be, or has been, sent by a magistrates’ court to the Crown Court for trial;
+  - (b) relating to an offence in respect of which a bill of indictment has been preferred by virtue of section 2(2)(b) of the Administration of Justice (Miscellaneous Provisions) Act 1933; or
+  - (c) which are to be heard in the Crown Court following an order by the Court of Appeal or the Supreme Court for a retrial;
+- “dependant” means an individual (“A”) who—
+  - (a) is wholly or substantially maintained by an individual (“B”) whose financial resources fall to be assessed in accordance with these Regulations; and
+  - (b) the Director considers it equitable to treat as being dependant on B, having regard to A’s income and other resources;
+- “excluded costs” means costs paid—
+  - (a) in respect of the child’s compulsory education;
+  - (b) by an individual to that individual’s partner (or vice versa), in respect of any child for which either (or both) of them is responsible in accordance with regulation 20 of the Housing Benefit Regulations 2006; or
+  - (c) in respect of care provided by a relative of the child wholly or mainly in the child’s home;
+- “[^key-e610c972fa6620ff684057d344f4c88a]**fire at Grenfell Tower**” means the fire at Grenfell Tower on 14th June 2017;
+- “the General Regulations” means the Criminal Legal Aid (General) Regulations 2013;
+- “**Grenfell Tower**” means Grenfell Tower, Grenfell Road, London, W11 1TG;
+- “**loss of income**” includes past and future loss of income;”;
+- “magistrates’ court proceedings” means any criminal proceedings—
+  - (a) referred to in section 14(a) to (g) of the Act or in regulation 9(a) to (q) or (s) to (v) of the General Regulations, to the extent that such proceedings take place in the magistrates’ court; or
+  - (b) in which an individual is committed to the Crown Court for sentence, but only where that individual did not apply for, or was not granted, representation under section 16 of the Act (representation for criminal proceedings) for the proceedings that took place in the magistrates’ court;
+- “maintenance payment” means a payment by an individual for the maintenance of—
+  - (a) a former partner;
+  - (b) a child; or
+  - (c) a relative,
+
+  who is not a member of the individual’s household;
+- “**Modern Slavery Victim Care Contract or equivalent payment**” means any payment of government-funded financial assistance made—
+  - (a) in England and Wales under the Modern Slavery Victim Care Contract in accordance with guidance issued by the Secretary of State under section 49 of the Modern Slavery Act 2015;
+  - (b) in Northern Ireland under section 18 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015;
+  - (c) in Scotland under section 9 of the Human Trafficking and Exploitation (Scotland) Act 2015 or regulations made under section 10 of that Act;
+- “partner” means—
+  - (a) an individual’s spouse or civil partner, from whom the individual is not separated due to a breakdown in the relationship which is likely to be permanent;
+  - (b) a person with whom the individual lives as a couple; or
+  - (c) a person with whom the individual ordinarily lives as a couple, from whom they are not separated due to a breakdown in the relationship which is likely to be permanent;
+- “period of calculation” means—
+  - (a) in Part 2 of these Regulations, the seven days up to and including the date on which the application for a determination under section 15 of the Act is made;
+  - (b) in Parts 3 and 4[^key-f8705dda370016194331fb4ee9d7f3f4] of these Regulations, the period of one year ending on the date on which the application for a determination under section 16 of the Act is made;
+- “**personal harm**” means a non-pecuniary loss or harm caused to an individual;
+- “provider” means a person with whom the Lord Chancellor has made an arrangement under section 2(1) of the Act (arrangements) for the provision of criminal legal aid;
+- “qualifying benefit” means any of the following—
+  - (a) income support paid under section 124 of the 1992 Act[^f00015] or section 123 of the 1992 (Northern Ireland) Act;
+  - (b) income-based jobseeker’s allowance paid under the 1995 Act or an allowance payable under Part 2 of the 1995 (Northern Ireland) Order;
+  - (c) guarantee credit paid under section 1(3)(a) of the State Pension Credit Act 2002[^key-3479af6bda4f040dfaaef02ef39ebf9d] or section 1(3)(a) of the 2002 (Northern Ireland) Act;
+  - (d) income-related employment and support allowance paid under Part 1 of the 2007 Act or section 1(2)(b) of the 2007 (Northern Ireland) Act; and
+  - (e) universal credit paid under Part 1 of the 2012 Act or Part 2 of the 2015 (Northern Ireland) Order[^key-42bf08bd6d5fb06a0f489ba2f561c846]; and
+- “relative” means—
+  - (a) [^key-27dab3c1b239f245baf273d3c3daca99]...
+  - (b) in the Schedule, a partner or child of an individual who is living as a member of that individual’s household; and
+  - (c) elsewhere in these Regulations, a parent, grandparent, grandchild, brother, sister, aunt, uncle, nephew, niece or first cousin, whether of the full blood or half blood, by marriage or civil partnership.
+- “**specified purpose**” means an essential need of an individual and does not include a payment for financial-only loss;
+- “**victim of the fire at Grenfell Tower**” means an individual who is any one or more of the following—
+  - (a) an individual living in Grenfell Tower on 14th June 2017;
+  - (b) an individual present in Grenfell Tower on 14th June 2017 at the time of the fire at Grenfell Tower;
+  - (c) an individual who was injured in, or as a result of, the fire at Grenfell Tower;
+  - (d) an individual living in a building in the immediate vicinity of Grenfell Tower that was evacuated as a result of the fire at Grenfell Tower;
+  - (e) a member of the family of an individual who died in the fire at Grenfell Tower or is missing in the fire at Grenfell Tower (and an individual is a member of the family of such an individual if the requirements of section 10(6) of the Act are met); or
+  - (f) a personal representative of an individual who died in the fire at Grenfell Tower;
+- “**the Victims of Overseas Terrorism Compensation Scheme 2012**” means the government-funded compensation scheme established under arrangements made by the Secretary of State under section 47 of the Crime and Security Act 2010;
+- “the Windrush Compensation Scheme” means the scheme of that name launched on 3rd April 2019 and administered by the Home Office;[^key-e723967e13074dd2305e7e5edf7aaf05]
+- “Windrush connected payment” means a payment where—
+  - (a) an individual has made a claim under the Windrush Compensation Scheme;
+  - (b) a request included in that claim has been referred by the Home Office to another person; and
+  - (c) the payment is made to the individual by that other person as a result of that referral;
+
+### 3. Delegation[^key-b73b0fe97593f8454cce75a8c067c95f]
+
+A function of the Director under these Regulations may be exercised by, or by an employee of, a person authorised for that purpose by the Director[^f00016].
+
+### 4. Deprivation of resources[^key-0e0852ad6bd392b1913534a8327f062a]
+
+If it appears to the Director that an individual or that individual’s partner has, with intent to reduce the amount of the individual’s financial resources, whether for the purpose of making the individual eligible to receive criminal legal aid or otherwise—
+
+- (a) directly or indirectly deprived themselves of any financial resources;
+- (b) transferred any financial resources to another person; or
+- (c) converted any financial resources into resources which under these Regulations are to be wholly or partly disregarded,
+
+the Director must treat such financial resources as part of the individual’s resources, or as not so converted as the case may be.
+
+## PART 2 — Advice and assistance
+
+### 5. Advice and assistance: exceptions from requirement to make a determination in respect of an individual’s financial resources[^key-ea08966b4326e76411b9f9d920e8b2c8]
+
+(1) The Director must make a determination in respect of an individual’s application for relevant advice and assistance without making a determination in respect of that individual’s financial resources.
+
+(2) In this regulation—
+
+- “2025 Standard Crime Contract[^key-057540ca65931368f9cefcf203dc312a]” means the contract so named between the Lord Chancellor and providers for the provision of criminal legal aid;
+- “advocacy assistance” means advocacy and assistance provided under section 15(2)(a) or (b) of the Act;
+- “duty solicitor” means provider who is so authorised under the 2025 Standard Crime Contract;
+- “relevant advice and assistance” means the following advice and assistance made available under section 15 of the Act—
+  - (a) advocacy assistance before a magistrates’ court or the Crown Court;
+  - (b) advice and assistance provided by a duty solicitor acting as such in accordance with an arrangement with the Lord Chancellor under section 2(1) of the Act;
+  - (c) advice and assistance provided to a volunteer during voluntary attendance;
+  - (d) advice and assistance provided to an individual being interviewed in connection with a serious service offence; and
+  - (e) advice and assistance provided to an individual who is the subject of an identification procedure carried out by means of a video recording, in connection with that procedure;
+  - (f) advice and assistance provided to a child.[^key-33bcf5c6e2b84f94ecb7e77ded9634b5]
+- “serious service offence” means an offence under the Armed Forces Act 2006[^f00018] which cannot be dealt with summarily; and
+- “volunteer” means an individual who, for the purpose of assisting with an investigation, without having been arrested—
+  - (a) attends voluntarily at a police station, customs office or any other place where a constable is present; or
+  - (b) accompanies a constable to a police station, customs office or any other such place.
+
+### 6. Disposable income and disposable capital[^key-a0fa4f9f3afa0de9bff9798986f95677]
+
+(1) Subject to regulation 14, the disposable income of an individual under this Part is that individual’s total income from all sources during the period of calculation after the Director has deducted any amount in accordance with regulations 11 and 12.
+
+(2) Subject to regulation 14, the disposable capital of an individual under this Part is the amount or value of every resource of a capital nature of that individual, after the Director has deducted any amount in accordance with regulation 13.
+
+### 7. Advocacy assistance for individuals in prison[^key-77115287983ffdb9d5b9e07fa9657a16]
+
+(1) The Director must make a determination in accordance with section 21(1) of the Act that an individual’s financial resources are such that the individual is eligible for advocacy assistance under section 15(2)(c) of the Act—
+
+- (a)[^key-67d5e06bd390b235f77d9bc753294ab3] in relation to the individual’s discipline in a prison or young offender institution; [^key-a2137f07a6a274944fddb17966634e2c]...
+- (b) in relation to proceedings before the Parole Board, where the individual is the subject of the proceedings;[^key-d5e11ad0072abcb10c50f93d7508816a] [^key-aa352e085bb3ea4d9c7d3233e88fa5c4]...
+- (c)[^key-d35f87f65f7c813b082178c662cc5be5] in relation to a review of the individual’s classification pursuant to rule 7 (classification of prisoners) of the Prison Rules 1999 as a Category A Prisoner or as a Restricted Status Prisoner; or[^key-bd9e9cc86010dffaaff2dd565e8add89],
+- (d)[^key-96f4ef08ebf00b0e6b13a26ea60e39af] a review of an inmate’s classification pursuant to rule 4 (classification of inmates) of the Young Offender Institution Rules 2000 as a Category A Inmate, or Restricted Status Inmate;
+
+if the circumstances in paragraph (2) are satisfied.
+
+(2) The circumstances are that the individual’s—
+
+- (a) disposable income does not exceed £209; and
+- (b) disposable capital does not exceed £3,000.
+
+(3)[^key-32f3991e0fc58e3d4566b39d46f83290] In this regulation—
+
+- “Category A Inmate” means an inmate whose escape would be highly dangerous to the public, the police or national security, and for whom the aim is to make escape impossible,
+- “Category A Prisoner” means a prisoner whose escape would be highly dangerous to the public, the police or national security, and for whom the aim is to make escape impossible,
+- “inmate” means a person who is required to be detained in a young offender institution,
+- “Restricted Status Inmate” means an inmate whose escape would present a serious risk to the public, and
+- “Restricted Status Prisoner” means a prisoner whose escape would present a serious risk to the public.
+
+### 8. Other advice and assistance[^key-508463b782745e2de57abd53cfb14897]
+
+Except where regulations 5 or 7 apply, the Director must make a determination in accordance with section 21(1) of the Act that an individual’s financial resources are such that the individual is eligible for advice and assistance under section 15 of the Act if that individual’s—
+
+- (a) disposable income does not exceed £99; and
+- (b) disposable capital does not exceed £1,000.
+
+### 9. Resources of a partner[^key-321ee5e9e80f52387d77d1fe645da81e]
+
+When calculating the disposable income and disposable capital of an individual, the Director must treat the financial resources of that individual’s partner as the individual’s financial resources unless—
+
+- (a) the individual’s partner has a contrary interest in the matter in respect of which the individual is seeking advice and assistance; or
+- (b) the Director considers that, in all the circumstances of the case, it would be inequitable or impractical to do so.
+
+### 10. Resources of a maintaining adult[^key-d5974d2815cd48f9761d39b33ea4e522]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Disposable income: deductions[^key-4ae8074591df3c7c928e1a112f70e391]
+
+(1) To calculate the disposable income of an individual in accordance with regulation 6(1), the Director must deduct the amounts specified in paragraphs (2) and (3).
+
+(2) The amounts are such amounts as were paid or payable by the individual during the period of calculation in respect of—
+
+- (a) any income tax on the individual’s income; and
+- (b) any estimated contributions under Part I of the 1992 Act or Part 1 of the 1992 (Northern Ireland) Act.
+
+(3) The amounts are such amounts as were paid to the individual during the period of calculation in respect of—
+
+- (a) attendance allowance paid under section 64 of the 1992 Act or section 64 of the 1992 (Northern Ireland) Act;
+- (b) disability living allowance paid under section 71 of the 1992 Act[^f00020] or section 71 of the 1992 (Northern Ireland) Act;
+- (c) constant attendance allowance paid under section 104 of the 1992 Act as an increase to a disablement pension or under section 104 of the 1992 (Northern Ireland) Act;
+- (d) any payment made out of the social fund under the 1992 Act or the 1992 (Northern Ireland) Act;
+- (e) so much of any back to work bonus received under section 26 of the 1995 Act as is, by virtue of that section, to be treated as payable by way of a jobseeker’s allowance;
+- (f) any direct payments made under sections 31 to 33 of the Care Act 2014 (direct payments) or under[^key-466a9ede597d98dc44674f0bc1329f0c] regulations made under section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments),[^key-851ed98714a09581a91cade2a9890601] section 57(1) of the 2001 Act[^f00021](direct payments), section 17A of the 1989 Act[^f00022](direct payments) , section 8(1)[^key-04b7880e7fe1f7a0911131911a63466d] of the 2002 (Northern Ireland) Direct Payments Act (direct payments) or sections 50 to 53 of the Social Services and Well-being (Wales) Act 2014 (direct payments)[^key-f901c0e9052b82a244a64236f856723c];
+- (g) any reasonable living expenses provided for as an exception to a restraint order under section 41 of the Proceeds of Crime Act 2002[^f00023];[^key-cbc49034672ba2398e3ae9c6594725df]...
+- (h) any personal independence payment paid under Part 4 of the 2012 Act or Part 5 of the 2015 (Northern Ireland) Order[^key-bed92f08bdc77ffb233ffbab291f55e1] ;[^key-497e1385eb2d57f104c81648a4d83c59]
+- (i) any armed forces independence payment payable under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011
+- (j)[^key-3f74798a4430d476e4d5be4a3e20e489] payments made under Part 2 or 3 of the 2013 Regulations or Part 2 or 3 of the 2016 (Northern Ireland) Regulations; [^key-d78a0c7b7893a032558e4c5d17f73b35]...
+- (k) payments made under regulation 17 of the Universal Credit (Transitional Provisions) Regulations 2014 or regulation 17 of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016;
+- (l)[^key-baeaff44641b6e94ac5740e4c675b2c1] any payment made under the Windrush Compensation Scheme; [^key-129026509dee3efd46a2adc581ba098a]...
+- (m) any Windrush connected payment ;[^key-b4fdbd2db4d8504810c7590b20f619d6]
+- (n) a payment made under the Social Security (Additional Payments) Act 2022;
+- (o) a payment made to an individual under section 13 or 15 of the Energy Prices Act 2022;
+- (p)[^key-4c63235e0fe4c611b9ee0a0e09f3aa5c] any Modern Slavery Victim Care Contract or equivalent payment;
+- (q) any payment of compensation for a miscarriage of justice made under section 133 of the Criminal Justice Act 1988.
+
+(4)[^key-7f4c0d1310aa4043ce2c09a05e0a4dde] To calculate the disposable income of an individual in accordance with regulation 6(1), the Director may, subject to paragraphs (5) and (6), deduct the amounts as were paid to the individual during the period of calculation in respect of—
+
+- (a) any payment that meets all of the following conditions—
+  - (i) the payment was made to an individual who is a victim of the fire at Grenfell Tower;
+  - (ii) the payment was made to that individual because the individual is a victim of the fire at Grenfell Tower; and
+  - (iii) the payment was not made directly to the individual by an individual known personally to the individual;
+- (b) any payment of compensation made under the Victims of Overseas Terrorism Compensation Scheme 2012.
+
+(5) In determining whether to deduct an amount for any payment under paragraph (4)—
+
+- (a) subject to sub-paragraph (b), the Director may deduct the whole of the amount as was paid to the individual during the period of calculation where the following conditions are met—
+  - (i) the payment was for personal harm or was for a specified purpose; and
+  - (ii) the payment was not for a loss of income;
+- (b) where a payment for personal harm or a specified purpose includes, in part, an amount for a loss of income—
+  - (i) where the Director is able to ascertain the amount of the part which is for a loss of income, the Director may deduct only the amount of the part which is not for a loss of income; or
+  - (ii) where the Director is not able to ascertain the amount of the part which is for a loss of income, the Director may deduct the whole of the amount,
+
+  as was paid to the individual during the period of calculation.
+
+(6) In calculating the disposable income of an individual in accordance with regulation 6(1), the Director may deduct the whole of the amount as was paid to the individual during the period of calculation in respect of any payment within paragraph (4) where there is a direct link between—
+
+- (a) the loss or harm suffered by an individual for which the payment has been made; and
+- (b) the legal service the individual has applied for or receives under section 15 of the Act.
+
+### 12. Disposable income: deductions for maintenance[^key-166c354476fc670c0183cb6eaae54f07]
+
+(1) To calculate the disposable income of an individual in accordance with regulation 6(1), the Director must deduct the following amounts—
+
+- (a) any maintenance payment that was liable to be paid by the individual during the period of calculation;
+- (b) a sum in respect of the maintenance of an individual’s partner, being the difference between—
+  - (i) the income support allowance for a couple both aged not less than 18 (which is specified in column 2 of paragraph 1(3)(d) of Schedule 2 to the Income Support (General) Regulations 1987([^f00024] (“Schedule 2”); and
+  - (ii) the allowance for a single person aged not less than 25 (which is specified in column 2 of paragraph 1(1)(e) of Schedule 2); and
+- (c) subject to paragraph (2), a sum in respect of the maintenance of any dependant child or dependant relative of the individual that is a member of the individual’s household being—
+  - (i) in the case of a dependant child under the age of 16 at the beginning of the period of calculation, the amount specified at (a) in column 2 of the table in paragraph 2 of Schedule 2[^f00025]; and
+  - (ii) in the case of a dependant child aged 16 or 17 at the beginning of the period of calculation, or of a dependant relative, the amount specified at (b) in column 2 of the table in paragraph 2 of Schedule 2.
+
+(2) For the purpose of making a deduction in accordance with this regulation, the Director may substitute an amount specified in paragraph (1)(c) with such lesser amount as appears to the Director to be equitable, having taken into account the income and other financial resources of a dependant child or dependant relative.
+
+### 13. Disposable capital: deductions[^key-c1e0dcaa0a57ca7b4f127652ba6c1946]
+
+(1) To calculate the disposable capital of an individual in accordance with regulation 6(2), the Director must deduct the following amounts—
+
+- (a) the value of the individual’s—
+  - (i) household furniture and effects;
+  - (ii) clothes; and
+  - (iii) tools and implements of the individual’s trade; [^key-bb17d611a6e51969351a9848c0e32ecf]...
+- (b) so much of any back to work bonus received under section 26 of the 1995 Act as is, by virtue of that section, to be treated as payable by way of a jobseeker’s allowance;
+- (c)[^key-23c56c5a9419c5dd94550be8d21d74f0] any payment made under the Windrush Compensation Scheme; [^key-48272bf3101f3ffd82a025ca34e5638f]...
+- (d) any Windrush connected payment ;[^key-f8462035ea3b8cf497ae220e96188265]
+- (e) a payment made under the Social Security (Additional Payments) Act 2022;
+- (f) a payment made to an individual under section 13 or 15 of the Energy Prices Act 2022;
+- (g)[^key-d4512b9f6b9a6669d32cdfdc3c292405] any Modern Slavery Victim Care Contract or equivalent payment;
+- (h) any payment of compensation for a miscarriage of justice made under section 133 of the Criminal Justice Act 1988.
+
+(1A)[^key-e3af78d4d9397718f519f1e1da4557d0] To calculate the disposable capital of an individual in accordance with regulation 6(2), the Director may, subject to paragraphs (1B) and (1C), deduct the following amounts—
+
+- (a) any payment that meets all of the following conditions—
+  - (i) the payment was made to an individual who is a victim of the fire at Grenfell Tower;
+  - (ii) the payment was made to that individual because the individual is a victim of the fire at Grenfell Tower; and
+  - (iii) the payment was not made directly to the individual by an individual known personally to the individual;
+- (b) any payment of compensation made under the Victims of Overseas Terrorism Compensation Scheme 2012.
+
+(1B) In determining whether to deduct an amount for any payment within paragraph (1A)—
+
+- (a) subject to sub-paragraph (b), the Director may deduct the whole of the amount of the payment where the following conditions are met—
+  - (i) the payment was for personal harm or was for a specified purpose; and
+  - (ii) the payment was not for a loss of income;
+- (b) where a payment for personal harm or a specified purpose includes, in part, an amount for a loss of income—
+  - (i) where the Director is able to ascertain the amount of the part which is for a loss of income, the Director may deduct only the amount of the part which is not for a loss of income; or
+  - (ii) where the Director is not able to ascertain the amount of the part which is for a loss of income, the Director may deduct the whole of the amount of the payment.
+
+(1C) In calculating the disposable capital of an individual in accordance with regulation 6(2), the Director may deduct the whole of the amount of any payment within paragraph (1A) where there is a direct link between—
+
+- (a) the loss or harm suffered by an individual for which the payment has been made; and
+- (b) the legal service the individual has applied for or receives under section 15 of the Act.
+
+(2) To calculate the disposable capital of an individual, in accordance with regulation 6(2) the Director must assess the value of any interest in land as the amount for which that interest could be sold, less the amount of any mortgage debt or hereditable security secured on that land, subject to the following—
+
+- (a) the Director must not deduct more than £100,000 in respect of all mortgage debts or hereditable securities;
+- (b) in making any deduction in accordance with sub-paragraph (a), the Director must deduct any mortgage debt or hereditable security in respect of the main or only dwelling last; and
+- (c) the Director must disregard the first £100,000 of the value of the individual’s interest (if any) in the main or only dwelling in which the individual resides, after the application of sub-paragraphs (a) and (b).
+
+(3) For the purpose of paragraph (2), where an individual resides in more than one dwelling, the Director must decide which dwelling is the main dwelling.
+
+(4) Paragraph (5) applies where an individual lives with one or more of the following—
+
+- (a) a partner whose resources are required to be treated as the resources of the individual in accordance with regulation 9; or
+- (b) a dependant child or a dependant relative.
+
+(5) The Director must deduct—
+
+- (a) £335 in respect of the first of any of the individuals specified in paragraph (4)(a) or (b);
+- (b) £200 in respect of the second such individual; and
+- (c) £100 in respect of each further such individual.
+
+### 14. Deemed eligibility: qualifying benefits[^key-aa1c4677d390e45d7852bf6e50f2d6ad]
+
+(1) Where the Director is satisfied that any individual whose disposable income is to be assessed under regulation 6(1) is, directly or indirectly, properly in receipt of any benefit specified in paragraph (3), the Director must treat that individual’s disposable income as not exceeding the disposable income sum specified in regulations 7(2)(a) or 8(a) as appropriate.
+
+(2) Where the Director is satisfied that any individual whose disposable capital is to be assessed in accordance with regulation 6(2) is, directly or indirectly, properly in receipt any benefit specified in paragraph (3), the Director must treat that individual’s disposable capital as not exceeding the disposable capital sum specified in regulations 7(2)(b) or 8(b) as appropriate.
+
+(3) The benefits are—
+
+- (a) any qualifying benefit; or
+- (b) where the individual’s total income from all sources for the year ending with the date on which the application for a determination in relation to advice and assistance under section 15 of the Act is made is not more than £14,213,—
+  - (i) any working tax credit payable under Part 1 of the Tax Credits Act 2002[^key-600bfa7352433e0f0f2dfc26b046249b] claimed together with child tax credit payable under Part 1 of that Act; or
+  - (ii) any working tax credit payable under Part 1 of the Tax Credits Act 2002 with a disability element or severe disability element (or both).
+
+### 15. Reassessment[^key-430ecbd5a5bd6672f7ad866eddcd0321]
+
+Where it appears to the Director that there has been an error in the assessment of the disposable income or disposable capital of an individual, the Director may—
+
+- (a) reassess that individual’s disposable income or disposable capital; or
+- (b) amend the original assessment, in which case such amended assessment must for all purposes be substituted for the original assessment.
+
+## PART 3 — Representation : magistrates’ court proceedings[^key-204da301cd25f6ca64c11d8fbc848d56]
+
+### 16. Interpretation of Part 3[^key-e4381b166c528a5212a3351d0f63ebdc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Representation in magistrates’ court proceedings[^key-871c02936b21472f2f41a54e97b4e8e2]
+
+This Part makes provision about the making and withdrawal of determinations by the Director under section 16 of the Act in relation to magistrates’ court proceedings.
+
+### 18. Financial eligibility for representation[^key-5b2be3561f85eec09a2d837ee1b9b458]
+
+(1) The Director must make a determination that an individual’s financial resources are such that the individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act where—
+
+- (a) that individual’s gross annual income does not exceed £12,475; or
+- (b) that individual’s gross annual income is more than £12,475 and less than £22,325, if that individual’s annual disposable income does not exceed £3,398.
+
+(2) The Director must make a determination that an individual’s financial resources are such that the individual is not eligible in accordance with section 21(1) of the Act under section 16 of the Act where that individual’s gross annual income is £22,325 or greater.
+
+### 19. Resources to be treated as the individual’s resources[^key-70eb71dd0c2e3cfae10ac9aa07e09b31]
+
+(1) In this Part a reference to the financial resources, income or financial circumstances of, or amounts payable to an individual includes a reference to the financial resources, income or financial circumstances of, or amounts payable to the individual’s partner, unless the partner has a contrary interest in the proceedings in respect of which the individual is making an application for a determination by the Director under section 16 of the Act.
+
+(2) Where it appears to the Director that—
+
+- (a) another person is or has been substantially maintaining the individual or the individual’s partner; or
+- (b) any of the financial resources of another person have been made available to the individual or the individual’s partner,
+
+the Director may assess or estimate the value of the maintenance or the financial resources made available and may treat such amounts as the financial resources of the individual.
+
+### 20. Assessment of resources: gross annual income[^key-1a19e016af1787a82639f44eb03f26d3]
+
+(1) Subject to regulations 22 and 23[^key-d8229f18c191e5cf6c8867ba422b3b95], the gross annual income of an individual under this Part is that individual’s total income from all sources during the period of calculation after the Director has deducted any amount in accordance with paragraphs (2) to (2C)[^key-bf7ea7b3d5881836eca014a64dae5c24].
+
+(2) The Director must deduct the following amounts if they are paid to the individual during the period of calculation—
+
+- (a) any financial support paid under an agreement for the care of a foster child;
+- (b) any payments paid out of—
+  - (i) the Independent Living Fund[^f00033];
+  - (ii) the Independent Living (Extension) Fund[^f00034];
+  - (iii) the Independent Living (1993) Fund[^f00035]; or
+  - (iv) the Independent Living Fund (2006)[^f00036];
+- (c) any exceptionally severe disablement allowance paid under the Personal Injuries (Civilians) Scheme 1983[^f00037];
+- (d) any of the following payments—
+  - (i) attendance allowance paid under section 64 of the 1992 Act or section 64 of the 1992 (Northern Ireland) Act;
+  - (ii) severe disablement allowance paid under section 68 of the 1992 Act[^f00038] or section 68 of the 1992 (Northern Ireland) Act [^key-e974d990b52fef51cd01f9a9cdc6f92b]...;
+  - (iii) carer’s allowance paid under section 70 of the 1992 Act[^f00040] or section 70 of the 1992 (Northern Ireland) Act [^f00041];
+  - (iv) disability living allowance paid under section 71 of the 1992 Act[^f00042] or section 71 of the 1992 (Northern Ireland) Act;
+  - (v) constant attendance allowance paid under section 104 of the 1992 Act as an increase to a disablement pension or section 104 of the 1992 (Northern Ireland) Act;
+  - (vi) housing benefit paid under section 130 of the 1992 Act[^f00043] or section 129 of the 1992 (Northern Ireland) Act;
+  - (vii) council tax benefit paid under section 131 of the 1992 Act[^f00044];
+  - (viii) any payment made out of the social fund under the 1992 Act or the 1992 (Northern Ireland) Act;
+  - (ix)[^key-0479dfc6450bc05cc8f495774f6e5ba1] payments made by or under the Welsh Independent Living Grant;
+  - (x) payments made under Part 2 or 3 of the 2013 Regulations or Part 2 or 3 of the 2016 (Northern Ireland) Regulations;
+  - (xi) payments made under regulation 17 of the Universal Credit (Transitional Provisions) Regulations 2014 or regulation 17 of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016;
+- (e) any direct payments made under sections 31 to 33 of the Care Act 2014 (direct payments) or under[^key-dadae090fb7b0d2a3e722b704614038a] regulations made under section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments),[^key-af8072c317a72905148ebda67ea044ab] section 57(1) of the 2001 Act, section 17A of the 1989 Act , section 8(1)[^key-b1aeee7fb3db1e509612c5790f508aa1] of the 2002 (Northern Ireland) Direct Payments Act or sections 50 to 53 of the Social Services and Well-being (Wales) Act 2014[^key-26833a7c6bf1903f4305bb357cd794c6];
+- (f) any reasonable living expenses provided for as an exception to a restraint order under section 41 of the Proceeds of Crime Act 2002;
+- (g) any pensions paid under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006[^f00045]; [^key-2b6f03f79b3b986ce593b8311447610b]...
+- (h) any personal independence payment paid under Part 4 of the 2012 Act or Part 5 of the 2015 (Northern Ireland) Order[^key-aaf93eb0590a518189be56068d0bf4cc] ;[^key-8fa9cf03142d86e53c64b9a7999f1f6c]
+- (i) any armed forces independence payment payable under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011
+- (j)[^key-571fcbab636ec251e1f3efa903c25875] any payment made under the Windrush Compensation Scheme; [^key-cd7587bd37159e5069781b5e9e176f08]...
+- (k) any Windrush connected payment ;[^key-d321fd6338d010438e283871f4fa8aba]
+- (l) a payment made under the Social Security (Additional Payments) Act 2022;
+- (m) a payment made to an individual under section 13 or 15 of the Energy Prices Act 2022;
+- (n)[^key-593a9ff4693515b52e7106a4760e229b] any Modern Slavery Victim Care Contract or equivalent payment;
+- (o) any payment of compensation for a miscarriage of justice made under section 133 of the Criminal Justice Act 1988.
+
+(2A)[^key-505c8bbc34c496121d4275aa2ede3670] Subject to paragraphs (2B) and (2C), the Director may deduct the following amounts if they are paid to the individual during the period of calculation—
+
+- (a) any payment that meets all of the following conditions—
+  - (i) the payment was made to an individual who is a victim of the fire at Grenfell Tower;
+  - (ii) the payment was made to that individual because the individual is a victim of the fire at Grenfell Tower; and
+  - (iii) the payment was not made directly to the individual by an individual known personally to the individual;
+- (b) any payment of compensation made under the Victims of Overseas Terrorism Compensation Scheme 2012.
+
+(2B) In determining whether to deduct an amount for any payment within paragraph (2A)—
+
+- (a) subject to sub-paragraph (b), the Director may deduct the whole of the amount if it is paid to the individual during the period of calculation where the following conditions are met—
+  - (i) the payment was for personal harm or was for a specified purpose; and
+  - (ii) the payment was not for a loss of income;
+- (b) where a payment for personal harm or a specified purpose includes, in part, an amount for a loss of income—
+  - (i) where the Director is able to ascertain the amount of the part which is for a loss of income, the Director may deduct only the amount of the part which is not for a loss of income; or
+  - (ii) where the Director is not able to ascertain the amount of the part which is for a loss of income, the Director may deduct the whole of the amount,
+
+  if it is paid to the individual during the period of calculation.
+
+(2C) In determining whether to deduct an amount for any payment within paragraph (2A), the Director may deduct the whole of the amount if it is paid to the individual during the period of calculation where there is a direct link between—
+
+- (a) the loss or harm suffered by an individual for which the payment has been made; and
+- (b) the legal service the individual has applied for or receives under section 16 of the Act.
+
+(3) Where an individual making an application for a determination by the Director under section 16 of the Act, has a partner, or a child of the individual, living as a member of their household, paragraph 2 of the Schedule to these Regulations has effect.
+
+### 21. Assessment of resources: annual disposable income[^key-9658a28adfbb4bf00bbd672a7c0a4409]
+
+(1) Where an individual’s gross annual income, calculated in accordance with regulation 20, is more than £12,475 and less than £22,325, the Director must calculate the individual’s annual disposable income in accordance with paragraphs (2) to (3A)[^key-1c0a87a68e7216ffa01bd33e6d9e5dbf].
+
+(2) For the purpose of paragraphs (3) and (3A)[^key-939e083f75aa22aa06228eb7f4a268c6], the Director must calculate the gross annual income of an individual as if regulation 20(3) did not apply.
+
+(3) The Director must deduct the following amounts from the individual’s gross annual income if they are paid or payable by the individual during the period of calculation—
+
+- (a) any income tax;
+- (b) any estimated contributions under Part 1 of the 1992 Act or the 1992 (Northern Ireland) Act;
+- (c) any council tax;
+- (d) either—
+  - (i) any annual rent or annual payment (whether of interest or capital) in respect of a mortgage debt or hereditable security, in respect of the individual’s only or main dwelling less any housing benefit paid under section 130 of the Social Security Contributions and Benefits Act 1992 or section 129 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^key-120a1a920a15af15a03327798d9fd312]; or
+  - (ii) the annual cost of the individual’s living accommodation;
+- (e) any child care costs;
+- (f) the amount of any maintenance payment, provided that the Director considers such amount to be reasonable;
+- (g) an amount representing cost of living expenses, being either—
+  - (i) £5,676; or
+  - (ii) if the individual has a partner, or a child of the individual, living as a member of their household, the amount calculated in accordance with paragraph 3 of the Schedule to these Regulations.
+
+3A.[^key-ded677fd0acba27a4826de9058e1aa9e] The Director must deduct from the individual’s gross annual income any income with which the individual is restrained from dealing by order of the High Court or Crown Court.
+
+(4) For the purpose of paragraph (3)(d), where an individual resides in more than one dwelling, the Director must decide which dwelling is the main dwelling.
+
+### 22. Deemed eligibility: children[^key-dfe48718578f609a62923d9a0d0b7c72]
+
+If the individual making an application for a determination is a child, the Director must determine that the individual’s financial resources are such that the individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act.
+
+### 23. Deemed eligibility: qualifying benefits[^key-2b16b6f6cc7508b6ceaf1874340454ef]
+
+Where the Director is satisfied that an individual is, directly or indirectly, properly in receipt of a qualifying benefit, the Director must treat that individual’s gross annual income as not exceeding the amount specified in regulation 18(1)(a).
+
+### 24. Reassessment of financial resources[^key-5f5917a1916f1c8dfcc32194a85bc5e9]
+
+(1) Where it appears to the Director—
+
+- (a) that there has been some error in the assessment of an individual’s financial resources; or
+- (b) new information which is relevant to an individual’s application for a determination by the Director under section 16 of the Act has come to light (whether under regulation 26 or otherwise),
+
+the Director must reassess the individual’s financial resources.
+
+(2) If the Director has reassessed the individual’s financial resources in accordance with paragraph (1) and determines that an individual’s financial resources are such that the individual is no longer eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act, the Director must withdraw the individual’s determination.
+
+### 25. Furnishing evidence[^key-44e57ed2016c93196a138b1fa163f01a]
+
+(1) The Director may at any time require an individual to provide information and documents in relation to a relevant determination.
+
+(2) Where the Director has made a relevant determination in favour of an individual, and that individual subsequently fails to comply with a requirement under paragraph (1), the Director must withdraw the individual’s determination unless satisfied that there are good reasons not to do so.
+
+(3) In this regulation, “a relevant determination” is a determination as to whether that the individual’s financial resources are such that the individual is eligible in accordance with section 21(1) for representation under section 16 of the Act.
+
+### 26. Duty to report change in financial circumstances[^key-b3d29109ea87042a51d9c5acb2ec88d8]
+
+(1) Where the Director has made a determination in accordance with section 21(1) of the Act that an individual’s financial resources are such that the individual is eligible for representation under section 16 of the Act, that individual must inform the Director of any change in their financial circumstances which might affect whether or not the individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act.
+
+(2) Where, as a result of any change in financial circumstances, the Director is satisfied that an individual’s financial resources are such that the individual is no longer eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act, the Director must withdraw the individual’s determination.
+
+### 27. Renewal of application[^key-b42cc6e2a1e6a9d0e935ec45ec48f338]
+
+Where the Director makes a determination in accordance with section 21(1) of the Act that an individual’s financial resources are such that the individual is not eligible for representation under section 16 of the Act, that individual may only renew the application if—
+
+- (a) there is a change in the individual’s financial circumstances which might affect whether that individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act; or
+- (b) the determination that the individual’s financial resources are such that the individual is not eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act has been withdrawn in accordance with regulation 28.
+
+### 28. Review of decision[^key-5c61b8da0095507a69d604f927506540]
+
+(1) Where the Director makes a determination in accordance with section 21(1) of the Act that an individual’s financial resources are such that the individual is not eligible for representation under section 16 of the Act, that individual may apply to the Director for a review of the decision on the grounds that—
+
+- (a) there has been a miscalculation of the individual’s financial resources or an administrative error; or
+- (b) the individual does not have sufficient financial resources to pay for the cost of legal assistance, notwithstanding the Director’s determination in accordance with section 21(1) of the Act that the individual is not eligible for representation under section 16 of the Act.
+
+(2) An application for a review must be made in a form specified by the Lord Chancellor and must include any written representations supporting the application.
+
+(3) Where the grounds of the application are those mentioned in paragraph (1)(b), the individual must supply—
+
+- (a) full particulars of the individual’s income and expenditure; and
+- (b) a certificate from a provider as to the likely costs of the proceedings to the individual.
+
+(4) The individual must provide such further information and documents as the Director may request in relation to the review within fourteen days after the date of the request.
+
+(5) A review may be conducted without a hearing unless the Director directs otherwise.
+
+(6) The Director must consider the application and any written representations and may—
+
+- (a) confirm or amend the determination which is the subject of the review;
+- (b) withdraw the determination which is the subject of the review; or
+- (c) substitute a new determination.
+
+(7) Notwithstanding regulation 18, in relation to an application for a review under regulation 28(1)(b), the Director may substitute a new determination that the individual’s financial resources are such that the individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act.
+
+(8) Where the Director amends or substitutes a determination, the determination following the review takes effect (unless the Director directs otherwise) as if the original determination had not been made.
+
+### 29. Withdrawal of a determination[^key-b6ab4b6cdc432e45a00d6103fd508c89]
+
+Where the Director withdraws a determination in accordance with this Part, the Director must provide written notification of the withdrawal to—
+
+- (a) the individual in whose favour the original determination was made;
+- (b) any provider named in the representation order which records the determination (except a provider who, acting under an authorisation on behalf of the Director, has withdrawn the determination)[^key-3b47a573929d1b95d688feb1356010f8]; and
+- (c) any advocate instructed in proceedings (except any such advocate who is the provider who, acting under an authorisation on behalf of the Director, has withdrawn the determination)[^key-396f85cdf9aa9fe741bc3c630b7ef8ef].
+
+## PART 4 — Representation: Crown Court proceedings[^key-cd001ba7c94ea52e7c22ed3989540d88]
+
+### 30. Representation in Crown Court proceedings
+
+(1) This Part makes provision about the making and withdrawal of determinations by the Director under section 16 of the Act in relation to Crown Court proceedings.
+
+(2) The Director may only make a determination under this Part if—
+
+- (a) the Director has made a determination under Part 3 (which has not been withdrawn) that an individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act in relation to criminal proceedings in the magistrates’ court or any of the conditions in sub-paragraph (b) are met.
+- (b) The conditions are that-
+  - (i) the individual has been sent to the Crown Court;
+  - (ii) a bill of indictment has been preferred; or
+  - (iii) the order for a retrial has been made by the Court of Appeal or the Supreme Court.
+
+### 31. Financial eligibility for representation
+
+(1) The Director must make a determination that an individual’s financial resources are such that the individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act where—
+
+- (a) that individual’s gross annual income does not exceed £12,475;
+- (b) that individual’s—
+  - (i) gross annual income is greater than £12,475; and
+  - (ii) disposable annual income is less than £37,500;
+- (c) that individual is a child; or
+- (d) the Director is satisfied that individual is, directly or indirectly, properly in receipt of a qualifying benefit.
+
+(2) The Director must make a determination that an individual’s financial resources are such that the individual is not eligible in accordance with section 21(1) of the Act under section 16 of the Act where that individual’s disposable annual income is £37,500 or greater.
+
+### 32. Resources to be treated as the individual’s resources
+
+(1) Where an individual has a partner (unless the partner has a contrary interest in the proceedings)—
+
+- (a) in calculating the financial resources of the individual, the Director must treat the financial resources of the partner as the individual’s financial resources; and
+- (b) any reference in this Part to the financial resources, financial circumstances or income of the individual includes a reference to the financial resources, financial circumstances or income of the individual’s partner.
+
+(2) Where it appears to the Director that—
+
+- (a) another person is or has been substantially maintaining the individual or the individual’s partner; or
+- (b) any of the financial resources of another person have been made available to the individual or the individual’s partner,
+
+the Director may assess or estimate the value of the maintenance or the financial resources made available and may treat such amounts as the financial resources of the individual.
+
+### 33. Assessment of resources: gross annual income
+
+(1) The gross annual income of an individual under this Part is that individual’s total income from all sources during the period of calculation after the Director has deducted any amount in accordance with paragraphs (2) to (2C)[^key-ad495ec04c28466e94e7829f97f3a04f].
+
+(2) The Director must deduct the following amounts if they are paid to the individual during the period of calculation—
+
+- (a) any financial support paid under an agreement for the care of a foster child;
+- (b) any payments paid out of—
+  - (i) the Independent Living Fund;
+  - (ii) the Independent Living (Extension) Fund;
+  - (iii) the Independent Living (1993) Fund; or
+  - (iv) the Independent Living Fund (2006);
+- (c) any exceptionally severe disablement allowance paid under the Personal Injuries (Civilians) Scheme 1983;
+- (d) any of the following payments—
+  - (i) attendance allowance paid under section 64 of the 1992 Act or section 64 of the 1992 (Northern Ireland) Act;
+  - (ii) severe disablement allowance paid under section 68 of the 1992 Act or section 68 of the 1992 (Northern Ireland) Act;
+  - (iii) carer’s allowance paid under section 70 of the 1992 Act or section 70 of the 1992 (Northern Ireland) Act;
+  - (iv) disability living allowance paid under section 71 of the 1992 Act or section 71 of the 1992 (Northern Ireland) Act;
+  - (v) constant attendance allowance paid as an increase to a disablement pension under section 104 of the 1992 Act or under section 104 of the 1992 (Northern Ireland) Act;
+  - (vi) housing benefit paid under section 130 of the 1992 Act or section 129 of the 1992 (Northern Ireland) Act;
+  - (vii) council tax benefit paid under section 131 of the 1992 Act;
+  - (viii) any payment made out of the social fund under the 1992 Act or the 1992 (Northern Ireland) Act;
+- (e) any direct payments made under sections 31 to 33 of the Care Act 2014 (direct payments) or under[^key-f3524ffd8612cb12efd3826d4ce90ae7] regulations made under section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments),[^key-a153d2c6803ef3840776a744b55c2daf] section 57(1) of the 2001 Act, section 17A of the 1989 Act , section 8(1)[^key-2d58318c1585f42d4490f7a83c8aa170] of the 2002 (Northern Ireland) Direct Payments Act or sections 50 to 53 of the Social Services and Well-being (Wales) Act 2014[^key-e9fcf02c2f7dcb769235af6e4f6eeae9];
+- (f) any reasonable living expenses provided for as an exception to a restraint order under section 41 of the Proceeds of Crime Act 2002;
+- (g) any pensions paid under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006;
+- (h) any armed forces independence payment paid under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011; and
+- (i) any personal independence payment paid under Part 4 of the 2012 Act;
+- (j)[^key-74a0ac21b35ad5df8756b8722900baee] any payment made under the Windrush Compensation Scheme; [^key-85b6af1e9593e2b048bf93006010756e]...
+- (k) any Windrush connected payment ;[^key-635f0e1ac43268b9a2a2ebf07e6044cb]
+- (l) a payment made under the Social Security (Additional Payments) Act 2022;
+- (m) a payment made to an individual under section 13 or 15 of the Energy Prices Act 2022;
+- (n)[^key-0b3a01e1e48a3c7417110e9a1e0d6e86] any Modern Slavery Victim Care Contract or equivalent payment;
+- (o) any payment of compensation for a miscarriage of justice made under section 133 of the Criminal Justice Act 1988.
+
+(2A)[^key-3675747fb87352c94f65d67a272b2752] Subject to paragraphs (2B) and (2C), the Director may deduct the following amounts if they are paid to the individual during the period of calculation—
+
+- (a) any payment that meets all of the following conditions—
+  - (i) the payment was made to an individual who is a victim of the fire at Grenfell Tower;
+  - (ii) the payment was made to that individual because the individual is a victim of the fire at Grenfell Tower; and
+  - (iii) the payment was not made directly to the individual by an individual known personally to the individual;
+- (b) any payment of compensation made under the Victims of Overseas Terrorism Compensation Scheme 2012.
+
+(2B) In determining whether to deduct an amount for any payment within paragraph (2A)—
+
+- (a) subject to sub-paragraph (b), the Director may deduct the whole of the amount if it is paid to the individual during the period of calculation where the following conditions are met—
+  - (i) the payment was for personal harm or was for a specified purpose; and
+  - (ii) the payment was not for a loss of income;
+- (b) where a payment for personal harm or a specified purpose includes, in part, an amount for a loss of income—
+  - (i) where the Director is able to ascertain the amount of the part which is for a loss of income, the Director may deduct only the amount of the part which is not for a loss of income; or
+  - (ii) where the Director is not able to ascertain the amount of the part which is for a loss of income, the Director may deduct the whole of the amount,
+
+  if it is paid to the individual during the period of calculation.
+
+(2C) In determining whether to deduct an amount for any payment within paragraph (2A), the Director may deduct the whole of the amount if it is paid to the individual during the period of calculation where there is a direct link between—
+
+- (a) the loss or harm suffered by an individual for which the payment has been made; and
+- (b) the legal service the individual has applied for or receives under section 16 of the Act.
+
+(3) When an individual who makes an application for a determination by the Director under section 16 of the Act, has a partner, or a child of that individual, living as a member of their household, paragraph 2A of the Schedule to these Regulations has effect.
+
+### 34. Assessment of resources: disposable annual income
+
+(1) Where an individual’s gross annual income, calculated in accordance with regulation 33, exceeds £12,475, the Director must calculate the individual’s disposable annual income in accordance with paragraphs (3) and (4).
+
+(2) For the purpose of paragraphs (3) and (4), the Director must calculate the gross annual income of an individual as if regulation 33(3) did not apply.
+
+(3) The Director must deduct the following amounts from the individual’s gross annual income—
+
+- (a) any income with which the individual is restrained from dealing by order of the High Court or Crown Court;
+- (b) any amounts due under a contribution order in other criminal proceedings in respect of that individual; and
+- (c) the amounts listed in paragraph (4), if such amounts are paid or payable by that individual during the period of calculation.
+
+(4) The Director must deduct—
+
+- (a) any income tax;
+- (b) any estimated contributions under Part 1 of the 1992 Act or the 1992 (Northern Ireland) Act;
+- (c) any council tax;
+- (d) either—
+  - (i) any annual rent or annual payment (whether of interest or capital) in respect of a mortgage debt or hereditable security in respect of the individual’s only or main dwelling, less any housing benefit paid under section 130 of the 1992 Act or section 129 of the 1992 (Northern Ireland) Act; or
+  - (ii) the annual cost of the individual’s living accommodation;
+- (e) any child care costs;
+- (f) the amount, where reasonable, of any maintenance payments; and
+- (g) an amount representing cost of living expenses, being either—
+  - (i) £5,676; or
+  - (ii) where the individual has a partner or a child living in the individual’s household, the amount calculated in accordance with paragraph 3A of the Schedule to these Regulations.
+
+(5) For the purpose of paragraph (4)(d), where an individual resides in more than one dwelling, the Director must decide which dwelling is the main dwelling.
+
+### 35. Documentary evidence of financial resources
+
+The Director may at any time require an individual to provide information and documentary evidence in relation to a determination under section 16 of the Act.
+
+### 36. Renewal of application
+
+Where the Director makes a determination in accordance with section 21(1) of the Act that an individual’s financial resources are such that the individual is not eligible for representation under section 16 of the Act, that individual may only renew the application if—
+
+- (a) there is a change in the individual’s financial circumstances which might affect whether that individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act; or
+- (b) the determination that the individual’s financial resources are such that the individual is not eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act has been withdrawn in accordance with regulation 37.
+
+### 37. Review of decision
+
+(1) Where the Director makes a determination in accordance with section 21(1) of the Act that an individual’s financial resources are such that the individual is not eligible for representation under section 16 of the Act, that individual may apply to the Director for a review of the decision on the grounds that—
+
+- (a) there has been a miscalculation of the individual’s financial resources or an administrative error; or
+- (b) the individual does not have sufficient financial resources to pay for the cost of legal representation, notwithstanding the Director’s determination in accordance with section 21(1) of the Act that the individual is not eligible for representation under section 16 of the Act.
+
+(2) An application for a review must be made in a form specified by the Lord Chancellor and must include any written representations supporting the application.
+
+(3) Where the grounds of the application are those mentioned in paragraph (1)(b)—
+
+- (a) the individual must supply—
+  - (i) full particulars of the individual’s income and expenditure; and
+  - (ii) a certificate from a provider as to the likely costs of the proceedings to the individual; and
+- (b) the individual must make the application within—
+  - (i) 21 days of the date on which the Director makes the determination referred to in paragraph (1); or
+  - (ii) such other period as may be agreed by the Director and the individual.
+
+(4) The individual must provide such further information and documents as the Director may request in relation to the review within fourteen days after the date of the request.
+
+(5) A review may be conducted without a hearing unless the Director directs otherwise.
+
+(6) The Director must consider the application and any written representations and may—
+
+- (a) confirm or amend the determination which is the subject of the review;
+- (b) withdraw the determination which is the subject of the review; or
+- (c) substitute a new determination.
+
+(7) Notwithstanding regulation 31(2), in relation to an application for a review under paragraph (1)(b), the Director may substitute a new determination that the individual’s financial resources are such that the individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act.
+
+### 38. Withdrawal of a determination
+
+Where the Director withdraws a determination in accordance with this Part, the Director must provide written notification of the withdrawal to—
+
+- (a) the individual in whose favour the original determination was made;
+- (b) any provider named in the representation order which records the determination; and
+- (c) any advocate instructed in proceedings.
+
+## PART 5 — Representation: other proceedings
+
+### 39. Representation in other criminal proceedings
+
+In any criminal proceedings other than—
+
+- (a) magistrates’ court proceedings; and
+- (b) Crown Court proceedings;
+
+the relevant authority must make a determination that the individual’s financial resources are such that the individual is eligible in accordance with section 21(1) of the Act for representation under section 16 of the Act.
+
+Signed by authority of the Lord Chancellor
+
+McNally
+
+Minster of State
+
+Ministry of Justice
+
+4th March 2013
+
+## SCHEDULE
+
+Regulations 20 and 21
+
+**1.**[^key-9d7bd581d3c5fa04ce2f454de62b57f2] In this Schedule, the relevant sum is calculated by adding the relevant figure for each relative of the individual in the table in paragraph 4 together and then adding 1.
+
+**2.**[^key-b7c57d47242cec231acd30730a2ddc95] For the purpose of regulation 20(3), the Director must calculate an individual’s gross annual income by dividing the amount calculated in regulation 20(1) by the relevant sum.
+
+**2A.**[^key-29396606b60f0cd035c620e23f9480da] For the purpose of regulation 33(3), the Director must calculate an individual’s gross annual income by dividing the amount calculated in regulation 33(1) by the relevant sum.
+
+**3.**[^key-6e9855524d40fa4ce484594706d76aba] For the purpose of regulation 21(2)(g)(ii), the Director must calculate an individual’s cost of living expenses by multiplying £5,676 by the relevant sum.
+
+**3A.**[^key-035921141aace9257ec1f1badee74e70] For the purpose of regulation 34(4)(g)(ii), the Director must calculate an individual’s cost of living expenses by multiplying £5,676 by the relevant sum.
+
+**4.**[^key-d66d6d762898a8a9f7950b4e3c447de2]
+
+| *Relative of the individual* | *Relevant figure* |
+| --- | --- |
+| A partner | 0.64 |
+| Each child of the individual in the individual’s household, aged 0–1 years | 0.15 |
+| Each child, as above, aged 2–4 years | 0.30 |
+| Each child, as above, aged 5–7 years | 0.34 |
+| Each child, as above, aged 8–10 years | 0.38 |
+| Each child, as above, aged 11–12 years | 0.41 |
+| Each child, as above, aged 13–15 years | 0.44 |
+| Each child, as above, aged 16–17 years | 0.59 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Criminal Legal Aid (Financial Resources) Regulations 2013 (“the Regulations”) make provision in relation to the circumstances in which an individual’s financial resources are such that they are eligible for criminal legal aid under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10) (“the Act”).
+
+Regulation 3 provides that the functions of the Director of Legal Aid Casework under the Regulations may be exercised by, or by an employee of, a person authorised for that purpose by the Director.
+
+Part 2 makes provision in relation to the financial eligibility of an individual for advice and assistance provided under section 15 (advice and assistance for criminal proceedings) of the Act.
+
+Part 3 makes provision in relation to the financial eligibility of an individual for representation provided under section 16 (representation for criminal proceedings) of the Act.
+
+## Annotations
+
+[^f00001]: Footnote: Section 42(1) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10) provides that in Part 1 of that Act “regulations” means regulations made by the Lord Chancellor.
+
+[^f00002]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^key-7af5b4460c5ba1d1592a3b0688c125ec]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-0b1f5c36323f0bc431485f513459ca6a]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^f00003]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00005]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^f00006]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00007]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
+
+[^f00008]: Footnote: [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15).
+
+[^key-0c1e2e6d04978b1cb079c95068f9d8d6]: Textual amendment: Words in reg. 2 omitted (27.1.2014) by virtue of [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/4/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^f00010]: Footnote: [2002 c. 14](https://www.legislation.gov.uk/nia/2002/14).
+
+[^f00011]: Footnote: [2002 c. 6](https://www.legislation.gov.uk/nia/2002/6).
+
+[^f00012]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^f00013]: Footnote: [2007 c. 2](https://www.legislation.gov.uk/nia/2007/2).
+
+[^f00014]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-02096c9782b4b9c4246744d33242aac8]: Textual amendment: Words in reg. 2 inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2016/708/regulation/6/2/a)
+
+[^key-6bd172f9147e4315ff2795040d103d51]: Textual amendment: Words in reg. 2 inserted (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/4/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-e610c972fa6620ff684057d344f4c88a]: Textual amendment: Words in reg. 2 inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-f8705dda370016194331fb4ee9d7f3f4]: Textual amendment: Words in reg. 2 substituted (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [4(c)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/4/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^f00015]: Footnote: Section 124 is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012 at a date to be appointed.
+
+[^key-3479af6bda4f040dfaaef02ef39ebf9d]: Textual amendment: Words in reg. 2 substituted (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [4(d)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/4/d) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-42bf08bd6d5fb06a0f489ba2f561c846]: Textual amendment: Words in reg. 2 inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2016/708/regulation/6/2/b)
+
+[^key-27dab3c1b239f245baf273d3c3daca99]: Textual amendment: Words in reg. 2 omitted (27.1.2014) by virtue of [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [4(e)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/4/e) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-e723967e13074dd2305e7e5edf7aaf05]: Textual amendment: Words in reg. 2 inserted (1.5.2019) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2019 (S.I. 2019/894)](https://www.legislation.gov.uk/uksi/2019/894), [regs. 1](https://www.legislation.gov.uk/uksi/2019/894/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/894/regulation/3/2)
+
+[^key-b73b0fe97593f8454cce75a8c067c95f]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^f00016]: Footnote: Section 6 of the Act (authorisations) makes provision for authorisations given for the purpose of section 5 of the Act (delegation) or regulations under that section.
+
+[^key-0e0852ad6bd392b1913534a8327f062a]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-ea08966b4326e76411b9f9d920e8b2c8]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-057540ca65931368f9cefcf203dc312a]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2013/471/regulation/5/2) substituted (1.10.2025) by [The Criminal Legal Aid (Standard Crime Contract) (Amendment) Regulations 2025 (S.I. 2025/1009)](https://www.legislation.gov.uk/uksi/2025/1009), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1009/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2025/1009/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1009/regulation/5))
+
+[^key-33bcf5c6e2b84f94ecb7e77ded9634b5]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2013/471/regulation/5/2) inserted (3.8.2023) by [The Criminal and Civil Legal Aid (Amendment) Regulations 2023 (S.I. 2023/745)](https://www.legislation.gov.uk/uksi/2023/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/745/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/745/regulation/2/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/745/regulation/6))
+
+[^f00018]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
+
+[^key-a0fa4f9f3afa0de9bff9798986f95677]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-77115287983ffdb9d5b9e07fa9657a16]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-67d5e06bd390b235f77d9bc753294ab3]: Textual amendment: [Reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2013/471/regulation/7/1/a) substituted (2.12.2013) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2013/2791/regulation/5) (with [regs. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15), [16](https://www.legislation.gov.uk/uksi/2013/2791/regulation/16))
+
+[^key-a2137f07a6a274944fddb17966634e2c]: Textual amendment: Word in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2013/471/regulation/7/1/a) omitted (21.2.2018) by virtue of [The Criminal Legal Aid (Amendment) Regulations 2017 (S.I. 2017/1319)](https://www.legislation.gov.uk/uksi/2017/1319), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1319/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/1319/regulation/3/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/1319/regulation/5))
+
+[^key-d5e11ad0072abcb10c50f93d7508816a]: Textual amendment: Word in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/471/regulation/7/1/b) substituted (21.2.2018) by [The Criminal Legal Aid (Amendment) Regulations 2017 (S.I. 2017/1319)](https://www.legislation.gov.uk/uksi/2017/1319), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1319/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/1319/regulation/3/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/1319/regulation/5))
+
+[^key-aa352e085bb3ea4d9c7d3233e88fa5c4]: Textual amendment: Word in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/471/regulation/7/1/b) omitted (12.6.2018) by virtue of [The Criminal Legal Aid (Amendment) Regulations 2018 (S.I. 2018/587)](https://www.legislation.gov.uk/uksi/2018/587), [regs. 1](https://www.legislation.gov.uk/uksi/2018/587/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/587/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/587/regulation/4))
+
+[^key-d35f87f65f7c813b082178c662cc5be5]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2013/471/regulation/7/1/c) inserted (21.2.2018) by [The Criminal Legal Aid (Amendment) Regulations 2017 (S.I. 2017/1319)](https://www.legislation.gov.uk/uksi/2017/1319), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1319/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2017/1319/regulation/3/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/1319/regulation/5))
+
+[^key-bd9e9cc86010dffaaff2dd565e8add89]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2013/471/regulation/7/1/c) inserted (12.6.2018) by [The Criminal Legal Aid (Amendment) Regulations 2018 (S.I. 2018/587)](https://www.legislation.gov.uk/uksi/2018/587), [regs. 1](https://www.legislation.gov.uk/uksi/2018/587/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/587/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/587/regulation/4))
+
+[^key-96f4ef08ebf00b0e6b13a26ea60e39af]: Textual amendment: [Reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2013/471/regulation/7/1/d) inserted (12.6.2018) by [The Criminal Legal Aid (Amendment) Regulations 2018 (S.I. 2018/587)](https://www.legislation.gov.uk/uksi/2018/587), [regs. 1](https://www.legislation.gov.uk/uksi/2018/587/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/587/regulation/3/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/587/regulation/4))
+
+[^key-32f3991e0fc58e3d4566b39d46f83290]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/471/regulation/7/3) substituted (12.6.2018) by [The Criminal Legal Aid (Amendment) Regulations 2018 (S.I. 2018/587)](https://www.legislation.gov.uk/uksi/2018/587), [regs. 1](https://www.legislation.gov.uk/uksi/2018/587/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/587/regulation/3/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/587/regulation/4))
+
+[^key-508463b782745e2de57abd53cfb14897]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-321ee5e9e80f52387d77d1fe645da81e]: Commencement: Reg. 9 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-d5974d2815cd48f9761d39b33ea4e522]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/471/regulation/10) omitted (3.8.2023) by virtue of [The Criminal and Civil Legal Aid (Amendment) Regulations 2023 (S.I. 2023/745)](https://www.legislation.gov.uk/uksi/2023/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/745/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/745/regulation/2/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/745/regulation/6))
+
+[^key-4ae8074591df3c7c928e1a112f70e391]: Commencement: Reg. 11 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^f00020]: Footnote: Section 71 is to be repealed by section 90 of the Welfare Reform Act 2012 at a date to be appointed.
+
+[^key-466a9ede597d98dc44674f0bc1329f0c]: Textual amendment: Words in [reg. 11(3)(f)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/f) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/43) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^key-851ed98714a09581a91cade2a9890601]: Textual amendment: Words in [reg. 11(3)(f)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/f) inserted (13.4.2015) by [The Legal Aid, Community Legal Service and Criminal Defence Service (Amendment) Regulations 2015 (S.I. 2015/838)](https://www.legislation.gov.uk/uksi/2015/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2015/838/regulation/8)
+
+[^f00021]: Footnote: Section 57 was amended by section 146(1) to (7) of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) and in relation to Wales, by section 16 of the Social Care Charges (Wales) Measure 2010.
+
+[^f00022]: Footnote: Section 17A was substituted by section 58 of the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15). It was amended by section 39 of, and paragraph 1 and 3 of Schedule 3 to, the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23); section 160 of, and paragraph 1 of Schedule 14 to, the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14); sections 47 and 60 of, and paragraph 15 and 17 of Schedule 3 and Schedule 6 to, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21); and section 28(1) of, and paragraph 6(1) and (3) of Schedule 3 to, the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^key-04b7880e7fe1f7a0911131911a63466d]: Textual amendment: Words in [reg. 11(3)(f)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/f) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 150(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/150/a)
+
+[^key-f901c0e9052b82a244a64236f856723c]: Textual amendment: Words in [reg. 11(3)(f)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/f) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 150(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/150/b)
+
+[^f00023]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^key-cbc49034672ba2398e3ae9c6594725df]: Textual amendment: Word in reg. 11(3)(g) omitted (8.4.2013) by virtue of [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 50(2)(a)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/50/2/a)
+
+[^key-bed92f08bdc77ffb233ffbab291f55e1]: Textual amendment: Words in [reg. 11(3)(h)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/h) inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2016/708/regulation/6/3/a)
+
+[^key-497e1385eb2d57f104c81648a4d83c59]: Textual amendment: Reg. 11(3)(i) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 50(2)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/50/2/b)
+
+[^key-3f74798a4430d476e4d5be4a3e20e489]: Textual amendment: [Reg. 11(3)(j)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/j)[(k)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/k) inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2016/708/regulation/6/3/b)
+
+[^key-d78a0c7b7893a032558e4c5d17f73b35]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3) omitted (20.11.2024) by virtue of [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/3/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-baeaff44641b6e94ac5740e4c675b2c1]: Textual amendment: [Reg. 11(3)(l)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/l)[(m)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/m) inserted (1.5.2019) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2019 (S.I. 2019/894)](https://www.legislation.gov.uk/uksi/2019/894), [regs. 1](https://www.legislation.gov.uk/uksi/2019/894/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/894/regulation/3/3)
+
+[^key-129026509dee3efd46a2adc581ba098a]: Textual amendment: Word in [reg. 11(3)(l)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/l) omitted (10.1.2023) by virtue of [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/3/2/a)
+
+[^key-b4fdbd2db4d8504810c7590b20f619d6]: Textual amendment: [Reg. 11(3)(n)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/n)[(o)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/o) inserted (10.1.2023) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/3/2/b)
+
+[^key-4c63235e0fe4c611b9ee0a0e09f3aa5c]: Textual amendment: [Reg. 11(3)(p)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/p)[(q)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/3/q) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/3/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-7f4c0d1310aa4043ce2c09a05e0a4dde]: Textual amendment: [Reg. 11(4)-(6)](https://www.legislation.gov.uk/uksi/2013/471/regulation/11/4) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-166c354476fc670c0183cb6eaae54f07]: Commencement: Reg. 12 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^f00024]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Paragraph 1 of Schedule 2 has been amended by [S.I. 1990/1168](https://www.legislation.gov.uk/uksi/1990/1168) and [S.I. 2012/780](https://www.legislation.gov.uk/uksi/2012/780). There have been other amendments but none are relevant.
+
+[^f00025]: Footnote: Paragraph 2 of Schedule 2 has been amended by [S.I. 2012/780](https://www.legislation.gov.uk/uksi/2012/780). There have been other amendments but none are relevant.
+
+[^key-c1e0dcaa0a57ca7b4f127652ba6c1946]: Commencement: Reg. 13 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-bb17d611a6e51969351a9848c0e32ecf]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2013/471/regulation/13/1/a) omitted (20.11.2024) by virtue of [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/4/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-23c56c5a9419c5dd94550be8d21d74f0]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2013/471/regulation/13/1/c)[(d)](https://www.legislation.gov.uk/uksi/2013/471/regulation/13/1/d) inserted (1.5.2019) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2019 (S.I. 2019/894)](https://www.legislation.gov.uk/uksi/2019/894), [regs. 1](https://www.legislation.gov.uk/uksi/2019/894/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/894/regulation/3/4)
+
+[^key-48272bf3101f3ffd82a025ca34e5638f]: Textual amendment: Word in [reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2013/471/regulation/13/1/c) omitted (10.1.2023) by virtue of [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/3/3/a)
+
+[^key-f8462035ea3b8cf497ae220e96188265]: Textual amendment: [Reg. 13(1)(e)](https://www.legislation.gov.uk/uksi/2013/471/regulation/13/1/e)[(f)](https://www.legislation.gov.uk/uksi/2013/471/regulation/13/1/f) inserted (10.1.2023) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/3/3/b)
+
+[^key-d4512b9f6b9a6669d32cdfdc3c292405]: Textual amendment: [Reg. 13(1)(g)](https://www.legislation.gov.uk/uksi/2013/471/regulation/13/1/g)[(h)](https://www.legislation.gov.uk/uksi/2013/471/regulation/13/1/h) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/4/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-e3af78d4d9397718f519f1e1da4557d0]: Textual amendment: [Reg. 13(1A)-(1C)](https://www.legislation.gov.uk/uksi/2013/471/regulation/13/1A) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-aa1c4677d390e45d7852bf6e50f2d6ad]: Commencement: Reg. 14 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-600bfa7352433e0f0f2dfc26b046249b]: Textual amendment: Words in [reg. 14(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/471/regulation/14/3/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2013/471/regulation/14/3/b/ii) substituted (2.12.2013) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2013/2791/regulation/6) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-430ecbd5a5bd6672f7ad866eddcd0321]: Commencement: Reg. 15 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-204da301cd25f6ca64c11d8fbc848d56]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2013/471/part/3) heading inserted (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2013/2791/regulation/7) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-e4381b166c528a5212a3351d0f63ebdc]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/471/regulation/16) revoked (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2013/2791/regulation/8) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-871c02936b21472f2f41a54e97b4e8e2]: Textual amendment: Reg. 17 substituted (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2013/2791/regulation/9) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-5b2be3561f85eec09a2d837ee1b9b458]: Commencement: Reg. 18 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-70eb71dd0c2e3cfae10ac9aa07e09b31]: Commencement: Reg. 19 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-1a19e016af1787a82639f44eb03f26d3]: Commencement: Reg. 20 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-d8229f18c191e5cf6c8867ba422b3b95]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/1) substituted (2.12.2013) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/10/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-bf7ea7b3d5881836eca014a64dae5c24]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/1) substituted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/5/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^f00033]: Footnote: The Independent Living Fund is a discretionary trust established by deed and funded by grants made by the Secretary of State, whose trustees have power to make payments to assist certain severely disabled people to live independently.
+
+[^f00034]: Footnote: The Independent Living (Extension) Fund is a Trust established by a deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part.
+
+[^f00035]: Footnote: The Independent Living (1993) Fund is a Trust established by a deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part.
+
+[^f00036]: Footnote: The Independent Living Fund (2006) is a Trust established by a deed dated 10th April 2006 and made between the Secretary of State for Work and Pensions of the one part and Margaret Rosemary Cooper, Michael Beresford Boyall and Marie Theresa Martin of the other part.
+
+[^f00037]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686). Article 15 of the Scheme, under which exceptionally severe disablement allowance is payable, was amended by paragraph 4 of Schedule 1 to the Personal Injuries (Civilians) Amendment Scheme 2001 ([S.I. 2001/420](https://www.legislation.gov.uk/uksi/2001/420)). Paragraph 4 of Schedule 3 to the Scheme, which sets out the rate at which exceptionally severe disablement allowance is payable was substituted by paragraph 1 of Schedule 1 to the Personal Injuries (Civilians) Scheme (Amendment) Order 2010 ([S.I. 2010/283](https://www.legislation.gov.uk/uksi/2010/283)).
+
+[^f00038]: Footnote: Section 68 was repealed by section 65 of, and Part IV of Schedule 13 to, the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), but is subject to the savings provision specified in article 4 of the Welfare Reform and Pensions Act 1999 (Commencement No. 9, and Transitional and Savings Provisions) Order 2000 ([S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958)).
+
+[^key-e974d990b52fef51cd01f9a9cdc6f92b]: Textual amendment: Word in [reg. 20(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/d/ii) omitted (2.12.2013) by virtue of [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/10/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^f00040]: Footnote: Section 70 was amended to provide for carer’s allowance by articles 2 and 3 of, and paragraphs 1 and 2 of the Schedule to, the Regulatory Reform (Carer’s Allowance) Order 2002 ([S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457)).
+
+[^f00041]: Footnote: Section 70 was amended to provide for carer’s allowance by article 3 of the Deregulation (Carer’s Allowance) Order (Northern Ireland) 2002 [S.R. (N.I.) 2002 No 321](https://www.legislation.gov.uk/nisr/2002/321).
+
+[^f00042]: Footnote: Section 71 is to be repealed by section 90 of the Welfare Reform Act 2012 at a date to be appointed.
+
+[^f00043]: Footnote: Section 130 is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012 at a date to be appointed.
+
+[^f00044]: Footnote: Section 131 is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012 at a date to be appointed.
+
+[^key-0479dfc6450bc05cc8f495774f6e5ba1]: Textual amendment: [Reg. 20(2)(d)(ix)-(xi)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/d/ix) inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2016/708/regulation/6/4/a)
+
+[^key-dadae090fb7b0d2a3e722b704614038a]: Textual amendment: Words in [reg. 20(2)(e)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/e) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/43) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^key-af8072c317a72905148ebda67ea044ab]: Textual amendment: Words in [reg. 20(2)(e)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/e) inserted (13.4.2015) by [The Legal Aid, Community Legal Service and Criminal Defence Service (Amendment) Regulations 2015 (S.I. 2015/838)](https://www.legislation.gov.uk/uksi/2015/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2015/838/regulation/8)
+
+[^key-b1aeee7fb3db1e509612c5790f508aa1]: Textual amendment: Words in [reg. 20(2)(e)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/e) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 151(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/151/a)
+
+[^key-26833a7c6bf1903f4305bb357cd794c6]: Textual amendment: Words in [reg. 20(2)(e)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/e) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 151(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/151/b)
+
+[^f00045]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606), to which there are amendments not relevant to these Regulations.
+
+[^key-2b6f03f79b3b986ce593b8311447610b]: Textual amendment: Word in reg. 20(2)(g) omitted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 50(3)(a)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/50/3/a)
+
+[^key-aaf93eb0590a518189be56068d0bf4cc]: Textual amendment: Words in [reg. 20(2)(h)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/h) inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2016/708/regulation/6/4/b)
+
+[^key-8fa9cf03142d86e53c64b9a7999f1f6c]: Textual amendment: Reg. 20(2)(i) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 50(3)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/50/3/b)
+
+[^key-571fcbab636ec251e1f3efa903c25875]: Textual amendment: [Reg. 20(2)(j)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/j)[(k)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/k) inserted (1.5.2019) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2019 (S.I. 2019/894)](https://www.legislation.gov.uk/uksi/2019/894), [regs. 1](https://www.legislation.gov.uk/uksi/2019/894/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/894/regulation/3/5)
+
+[^key-cd7587bd37159e5069781b5e9e176f08]: Textual amendment: Word in [reg. 20(2)(j)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/j) omitted (10.1.2023) by virtue of [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/3/4/a)
+
+[^key-d321fd6338d010438e283871f4fa8aba]: Textual amendment: [Reg. 20(2)(l)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/l)[(m)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/m) inserted (10.1.2023) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/3/4/b)
+
+[^key-593a9ff4693515b52e7106a4760e229b]: Textual amendment: [Reg. 20(2)(n)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/n)[(o)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2/o) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/5/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-505c8bbc34c496121d4275aa2ede3670]: Textual amendment: [Reg. 20(2A)-(2C)](https://www.legislation.gov.uk/uksi/2013/471/regulation/20/2A) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/5/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-9658a28adfbb4bf00bbd672a7c0a4409]: Commencement: Reg. 21 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-1c0a87a68e7216ffa01bd33e6d9e5dbf]: Textual amendment: Words in reg. 21(1) substituted (2.12.2013) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/12/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-939e083f75aa22aa06228eb7f4a268c6]: Textual amendment: Words in reg. 21(2) substituted (2.12.2013) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/12/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-120a1a920a15af15a03327798d9fd312]: Textual amendment: Words in reg. 21(3)(d)(i) inserted (2.12.2013) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2013/2791/regulation/11) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-ded677fd0acba27a4826de9058e1aa9e]: Textual amendment: Reg. 21(3A) inserted (2.12.2013) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/12/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-dfe48718578f609a62923d9a0d0b7c72]: Commencement: Reg. 22 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-2b16b6f6cc7508b6ceaf1874340454ef]: Commencement: Reg. 23 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-5f5917a1916f1c8dfcc32194a85bc5e9]: Commencement: Reg. 24 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-44e57ed2016c93196a138b1fa163f01a]: Commencement: Reg. 25 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-b3d29109ea87042a51d9c5acb2ec88d8]: Commencement: Reg. 26 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-b42cc6e2a1e6a9d0e935ec45ec48f338]: Commencement: Reg. 27 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-5c61b8da0095507a69d604f927506540]: Commencement: Reg. 28 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-b6ab4b6cdc432e45a00d6103fd508c89]: Commencement: Reg. 29 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-3b47a573929d1b95d688feb1356010f8]: Textual amendment: Words in [reg. 29(b)](https://www.legislation.gov.uk/uksi/2013/471/regulation/29/b) inserted (27.6.2025) by [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2025/750/regulation/5/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))
+
+[^key-396f85cdf9aa9fe741bc3c630b7ef8ef]: Textual amendment: Words in [reg. 29(c)](https://www.legislation.gov.uk/uksi/2013/471/regulation/29/c) inserted (27.6.2025) by [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2025/750/regulation/5/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))
+
+[^key-cd001ba7c94ea52e7c22ed3989540d88]: Textual amendment: [Pts. 4](https://www.legislation.gov.uk/uksi/2013/471/part/4), [5](https://www.legislation.gov.uk/uksi/2013/471/part/5) inserted (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2013/2791/regulation/13) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-ad495ec04c28466e94e7829f97f3a04f]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/1) substituted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/6/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-f3524ffd8612cb12efd3826d4ce90ae7]: Textual amendment: Words in [reg. 33(2)(e)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/e) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/43) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^key-a153d2c6803ef3840776a744b55c2daf]: Textual amendment: Words in [reg. 33(2)(e)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/e) inserted (13.4.2015) by [The Legal Aid, Community Legal Service and Criminal Defence Service (Amendment) Regulations 2015 (S.I. 2015/838)](https://www.legislation.gov.uk/uksi/2015/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2015/838/regulation/8)
+
+[^key-2d58318c1585f42d4490f7a83c8aa170]: Textual amendment: Words in [reg. 33(2)(e)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/e) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 152(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/152/a)
+
+[^key-e9fcf02c2f7dcb769235af6e4f6eeae9]: Textual amendment: Words in [reg. 33(2)(e)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/e) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 152(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/152/b)
+
+[^key-74a0ac21b35ad5df8756b8722900baee]: Textual amendment: [Reg. 33(2)(j)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/j)[(k)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/k) inserted (1.5.2019) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2019 (S.I. 2019/894)](https://www.legislation.gov.uk/uksi/2019/894), [regs. 1](https://www.legislation.gov.uk/uksi/2019/894/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2019/894/regulation/3/6)
+
+[^key-85b6af1e9593e2b048bf93006010756e]: Textual amendment: Word in [reg. 33(2)(j)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/j) omitted (10.1.2023) by virtue of [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/3/5/a)
+
+[^key-635f0e1ac43268b9a2a2ebf07e6044cb]: Textual amendment: [Reg. 33(2)(l)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/l)[(m)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/m) inserted (10.1.2023) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/3/5/b)
+
+[^key-0b3a01e1e48a3c7417110e9a1e0d6e86]: Textual amendment: [Reg. 33(2)(n)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/n)[(o)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2/o) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/6/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-3675747fb87352c94f65d67a272b2752]: Textual amendment: [Reg. 33(2A)-(2C)](https://www.legislation.gov.uk/uksi/2013/471/regulation/33/2A) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/3/6/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-9d7bd581d3c5fa04ce2f454de62b57f2]: Commencement: Sch. para. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-b7c57d47242cec231acd30730a2ddc95]: Commencement: Sch. para. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-29396606b60f0cd035c620e23f9480da]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2013/471/schedule/paragraph/2A) inserted (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [14(a)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/14/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-6e9855524d40fa4ce484594706d76aba]: Commencement: Sch. para. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/471/regulation/1)
+
+[^key-035921141aace9257ec1f1badee74e70]: Textual amendment: [Sch. para. 3A](https://www.legislation.gov.uk/uksi/2013/471/schedule/paragraph/3A) inserted (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [14(b)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/14/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))
+
+[^key-d66d6d762898a8a9f7950b4e3c447de2]: Textual amendment: Sch. para. 4: text in Sch. renumbered as Sch. para. 4 (27.1.2014) by [The Criminal Legal Aid (Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2791)](https://www.legislation.gov.uk/uksi/2013/2791), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/1/3), [14(c)](https://www.legislation.gov.uk/uksi/2013/2791/regulation/14/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2013/2791/regulation/15))

@@ -1,0 +1,115 @@
+---
+title: The Poultry Compartments (England) Order 2010
+id: uksi/2010/108
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-01-21'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/108
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/108/pdfs/uksi_20100108_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/108/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Poultry Compartments (England) Order 2010
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 108
+
+Animals, England
+
+Animal Health
+
+The Poultry Compartments (England) Order 2010
+
+Made
+
+21st January 2010
+
+Coming into force
+
+15th March 2010
+
+The Secretary of State, in whom the powers conferred by sections 1, 8(1) and 83(2) of the Animal Health Act 1981 [^c20101251] are now vested [^c20101261], makes the following Order in exercise of those powers and the powers conferred by paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c20101271].
+
+The Secretary of State considers it expedient that references to the Community instrument implemented by these Regulations should have effect as references to that instrument as amended from time to time.
+
+## 1. Title, application and commencement
+
+This Order—
+
+- (a) may be cited as the Poultry Compartments (England) Order 2010;
+- (b) applies in England; and
+- (c) comes into force on 15th March 2010.
+
+## 2. Competent authority
+
+The Secretary of State is the competent authority for the purposes of Commission Regulation EC (No) 616/2009 implementing Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) as regards the approval of poultry compartments and other captive bird compartments with respect to avian influenza and additional preventive biosecurity measures in such compartments [^c20101281] as amended from time to time.
+
+## 3. Applications
+
+Applications for approval of compartments must be made on the forms provided by the Secretary of State on the Department for Environment, Food and Rural Affairs website.
+
+## 4. Power of inspectors
+
+(1) An inspector may, for any purpose relating to this Order—
+
+- (a) enter any premises approved[^key-3437aa3cdb07d41fc04d688696d16811] as a compartment under this Order and any administrative site which contains records relevant to the approval[^key-add52a98d6fa95a83050e1957c4ebc64] of a site as a compartment;
+- (b) require the keeper to produce or copy any document or record;
+- (c) remove and retain a copy of any document or record;
+- (d) have access to, and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with records;
+- (e) where a record is kept by means of a computer, require the record to be produced in a form which may be taken away;
+- (f) be accompanied by [^key-fb32a14f8b25dc72a93a3e34e2362c09]... any people or things the inspector considers necessary.
+
+(2) A person required to do anything by an inspector acting under paragraph (1) must, unless they have reasonable cause, do so without delay.
+
+(3) For the purposes of this article an inspector means any person approved as an inspector under the Animal Health Act 1981.
+
+## 5. Inspections
+
+(1) The Secretary of State must inspect all production sites before approving them as a compartment or part of a compartment.
+
+(2) Once production sites are approved as compartments the Secretary of State must reinspect those sites at intervals determined by an assessment of risk associated with each premises.
+
+(3) When inspecting production sites the Secretary of State must also inspect administrative sites which hold records relevant to the approval of these production sites as compartments or parts of compartments.
+
+Jim Fitzpatrick
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Order)*
+
+This Order implements Commission Regulation EC (No) 616/2009 which makes provision for the recognition of poultry compartments which meet high standards of biosecurity (OJ No L 181, 14.7.2009, p 16). Since application for recognition is voluntary the only sanction for failure to comply with the requirements of this Order is removal of certification as a compartment.
+
+The Department for Environment Food and Rural Affairs website is at www.defra.gov.uk.
+
+A full impact assessment has not been prepared for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c20101251]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^c20101261]: Marginal citation: Functions conferred under the 1981 Act on “the Minister” and “the Ministers” are now exercisable by the Secretary of State. Functions of “the Ministers” were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 (SI 1999/3141). Functions of the Minister of Agriculture, Fisheries and Food were then further transferred to the Secretary of State by the [Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794). The functions of the Secretary of State under the Animal Health Act 1981 are, so far as are exercisable in relation to Wales, vested in the Welsh Ministers. Those functions were transferred to the National Assembly for Wales constituted by the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) article 2; see the entry in Schedule 1 for the [Animal Health Act 1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22). By virtue of paragraphs 30 and 32 of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers immediately after the end of the initial period as defined by section 161(5) of that Act. The functions of the Secretary of State under the [Animal Health Act 1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22) are, so far as they are exercisable in relation to Scotland, vested in the Scottish Ministers by section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c20101271]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c20101281]: Marginal citation: OJ No L 181, 14.7.2009, p 16.
+
+[^key-3437aa3cdb07d41fc04d688696d16811]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2010/108/article/4/1/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [35(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/35/a)
+
+[^key-add52a98d6fa95a83050e1957c4ebc64]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2010/108/article/4/1/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [35(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/35/b)
+
+[^key-fb32a14f8b25dc72a93a3e34e2362c09]: Textual amendment: Words in [art. 4(1)(f)](https://www.legislation.gov.uk/uksi/2010/108/article/4/1/f) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1406/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

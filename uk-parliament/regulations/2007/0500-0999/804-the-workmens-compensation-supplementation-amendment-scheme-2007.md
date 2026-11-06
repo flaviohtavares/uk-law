@@ -1,0 +1,141 @@
+---
+title: The Workmen’s Compensation (Supplementation) (Amendment) Scheme 2007
+id: uksi/2007/804
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-03-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/804
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/804/pdfs/uksiem_20070804_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/804/pdfs/uksi_20070804_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/804/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Workmen’s Compensation (Supplementation) (Amendment) Scheme 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 804
+
+SOCIAL SECURITY
+
+The Workmen’s Compensation (Supplementation) (Amendment) Scheme 2007
+
+Made
+
+12th March 2007
+
+Laid before Parliament
+
+19th March 2007
+
+Coming into force
+
+11th April 2007
+
+The Secretary of State for Work and Pensions makes the following Scheme, with the consent of Treasury, in exercise of the powers conferred by paragraph 2 of Schedule 8 to the Social Security Contributions and Benefits Act 1992[^f00001] and paragraph 1 of Schedule 9 to the Social Security Administration Act 1992[^f00002].
+
+## 1. Citation, commencement and interpretation
+
+(1) This Scheme may be cited as the Workmen’s Compensation (Supplementation) (Amendment) Scheme 2007 and shall come into force on 11th April 2007.
+
+(2) In this Scheme—
+
+- “lesser incapacity allowance” means the allowance payable in accordance with article 5 of the principal Scheme;
+- “the operative date” means 11th April 2007; and
+- “the principal Scheme” means the Workmen’s Compensation (Supplementation) Scheme 1982[^f00003].
+
+## 2. Amendment of article 5 of the principal Scheme
+
+In article 5(2) (lesser incapacity allowances under scheme) of the principal Scheme, for “12th April 2006” substitute “11th April 2007”.
+
+## 3. Substitution of Schedule 1 to the principal Scheme
+
+For Schedule 1 (table of rates) to the principal Scheme substitute the following—
+
+> **SCHEDULE 1**
+>
+> Article 5
+>
+> **PART 1 — TABLE OF RATES OF LESSER INCAPACITY ALLOWANCE FOR BENEFICIARIES TO WHOM ARTICLE 5(2) APPLIES**
+>
+> | Rate of lesser incapacity allowance from 12th April 2006 to 10th April 2007 | Rate of lesser incapacity allowance from 11th April 2007 |
+> | --- | --- |
+> | £ | £ |
+> | 3.90 | 4.05 |
+> | 10.50 | 10.90 |
+> | 17.70 | 18.35 |
+> | 25.70 | 26.60 |
+> | 36.90 | 38.20 |
+> | 46.95 | 48.65 |
+>
+> **PART 2 — TABLE OF LOSS OF EARNINGS AND CORRESPONDING RATES OF LESSER INCAPACITY ALLOWANCE**
+>
+> | Loss of earnings | Rate of lesser incapacity allowance |
+> | --- | --- |
+> | £ | £ |
+> | 13.20 | 4.05 |
+> | 28.90 | 10.90 |
+> | 44.75 | 18.35 |
+> | 52.85 | 26.60 |
+> | 64.50 | 38.20 |
+> | Over 64.50 | 48.65 |
+
+## 4. Transitional provision
+
+(1) Where a beneficiary was, before the operative date, in receipt of lesser incapacity allowance and the final calculation of loss of earnings required by article 7(2) of the principal Scheme had not been made in respect of him by that date, the beneficiary is treated as entitled, from that date, to an allowance at the same rate as if the final calculation had been made before that date.
+
+(2) This paragraph applies to a case where lesser incapacity allowance is payable in respect of a period before the operative date and the claim for the allowance was either—
+
+- (a) not made before the operative date and the allowance is awarded for a period beginning on or after that date at one of the rates shown in the second column of Part 2 of Schedule 1 to the principal Scheme (as amended by this Scheme); or
+- (b) made but not determined before the operative date.
+
+(3) In a case to which paragraph (2) applies, the rate payable in respect of the period before the operative date is that which would have been payable had the amendment to the principal Scheme made by article 3 of this Scheme not been made.
+
+(4) Where a lesser incapacity allowance has been awarded before the operative date and a question arises as to the weekly rate payable in consequence of this Scheme—
+
+- (a) the case shall be reconsidered in the light of the amendments made by, and transitional provisions contained in, this Scheme; and
+- (b) the allowance continues to be payable at the weekly rate specified in the award until the question has been determined in accordance with the provisions of the principal Scheme.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+James Purnell
+
+Minister of State,
+
+Department for Work and Pensions
+
+8th March 2007
+
+We consent,
+
+Frank Roy
+
+Dave Watts
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+12th March 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Scheme)
+
+This Scheme amends the Workmen’s Compensation (Supplementation) Scheme 1982 ([S.I. 1982/1489](https://www.legislation.gov.uk/uksi/1982/1489)) by making adjustments to the rate of lesser incapacity allowance, such adjustments being consequential upon the increase in the maximum rate of that allowance made by the Social Security Benefits Up-rating Order 2007 ([S.I.2007/688](https://www.legislation.gov.uk/uksi/2007/688)). The Scheme also makes transitional provision.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Paragraph 2(6)(c) of Schedule 8 was amended by [S.I. 2007/688](https://www.legislation.gov.uk/uksi/2007/688)
+
+[^f00002]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Paragraph 1(6) of Schedule 9 was amended by paragraph 115 of Schedule 7 to the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00003]: Footnote: [S.I. 1982/1489](https://www.legislation.gov.uk/uksi/1982/1489); relevant amending instruments are [S.I. 1990/2538](https://www.legislation.gov.uk/uksi/1990/2538) and [2006/738](https://www.legislation.gov.uk/uksi/2006/738).

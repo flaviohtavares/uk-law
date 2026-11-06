@@ -1,0 +1,111 @@
+---
+title: The Prevention of Accidents to Children in Agriculture Regulations 1998
+id: uksi/1998/3262
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-12-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/3262
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/3262/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Prevention of Accidents to Children in Agriculture Regulations 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 3262
+
+HEALTH AND SAFETY
+
+The Prevention of Accidents to Children in Agriculture Regulations 1998
+
+Made
+
+22nd December 1998
+
+Laid before Parliament
+
+8th January 1999
+
+Coming into force
+
+29th January 1999
+
+The Secretary of State, in exercise of the powers conferred on him by sections 15(1), (3)(a) and (6)(b) and 82(3)(a) of the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act, after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Prevention of Accidents to Children in Agriculture Regulations 1998 and shall come into force on 29th January 1999.
+
+## 2. Interpretation
+
+(1) In these Regulations, unless the context otherwise requires–
+
+- “agricultural” means relating to agriculture, which includes dairy-farming, the production of consumable produce which is grown for sale or for consumption or other use for the purposes of a trade or business or other undertaking (whether carried on for profit or not), and the use of land as grazing, meadow or pasture land or orchard or osier land or woodland or for market gardens or nursery grounds;
+- “child” means a child who is under the age of 13 years;
+- “consumable produce” means produce grown for consumption or for other use after severance from the land on which it is grown;
+- “trailer” means a vehicle used as a trailer whether or not designed to be so used, but does not include a vehicle drawn by an animal.
+
+(2) In these Regulations any reference to a tractor, machine, trailer, implement or other vehicle includes any drawbar, towbar or coupling which may be used for the purpose of towing or propelling.
+
+## 3. Prohibition on riding on vehicles, machines or implements
+
+(1) Subject to paragraph (2) of this regulation no person shall cause or permit a child to ride on a–
+
+- (a) tractor;
+- (b) self-propelled agricultural machine;
+- (c) trailer;
+- (d) machine or agricultural implement mounted in whole or in part on, or towed or propelled by a tractor or other vehicle;
+- (e) machine or agricultural implement drawn by an animal,
+
+while it is being used in the course of agricultural operations or is going to or from the site of such operations.
+
+(2) Paragraph (1) of this regulation shall not apply to a trailer in circumstances where the child rides–
+
+- (a) on its floor; or
+- (b) on a load carried by it,
+
+and where it possesses adequate means for preventing the child’s falling from it.
+
+## 4. Prohibition on driving vehicles and machines
+
+No person shall cause or permit a child to drive a tractor, or self-propelled vehicle or machine while it is being used in the course of agricultural operations or is going to or from the site of such operations.
+
+## 5. Defence
+
+It shall be a defence for a person charged with a contravention of a provision of these Regulations to prove that he used all due diligence to secure compliance with that provision.
+
+## 6. Revocation of the Agriculture (Avoidance of Accidents to Children) Regulations 1958
+
+The Agriculture (Avoidance of Accidents to Children) Regulations 1958[^f00002] are hereby revoked.
+
+Signed by authority of the Secretary of State
+
+Alan Meale
+
+Parliamentary Under Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+22nd December 1998
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations re-enact with minor and drafting amendments the Agriculture (Avoidance of Accidents to Children) Regulations [1958/366](https://www.legislation.gov.uk/uksi/1958/366), which they revoke.
+
+**2.** The Regulations prohibit the riding by a child on certain classes of vehicle or machine used in agricultural operations or going to and from the site of such operations, and the riding on agricultural implements while towed or propelled, or on animal-drawn rollers.
+
+**3.** A cost benefit assessment prepared in respect of these Regulations is available from the Health and Safety Executive, Safety Policy Directorate, General and Technical Safety Policy Division, Rose Court, 2 Southwark Bridge, London SE1 9HS.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15(1) and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 6 and 16 respectively.
+
+[^f00002]: Footnote: [S.I. 1958/366](https://www.legislation.gov.uk/uksi/1958/366).

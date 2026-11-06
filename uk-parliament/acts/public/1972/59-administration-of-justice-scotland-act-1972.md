@@ -1,0 +1,114 @@
+---
+title: Administration of Justice (Scotland) Act 1972
+id: ukpga/1972/59
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1972-08-09'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1972/59
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1972/59/pdfs/ukpga_19720059_en.pdf
+- http://www.legislation.gov.uk/ukpga/1972/59/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Administration of Justice (Scotland) Act 1972
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Administration of Justice (Scotland) Act 1972
+
+1972 c. 59
+
+[^c823226][^c823227]An Act to confer extended powers on the courts in Scotland to order the inspection of documents and other property, and related matters; to enable an appeal to be taken to the House of Lords from an interlocutor of the Court of Session on a motion for a new trial; to enable a case to be stated on a question of law to the Court of Session in an arbitration; and to enable alterations to be made by act of sederunt in the rate of interest to be included in sheriff court decrees or extracts.
+
+\[9th August 1972\]
+
+## 1. Extended powers of courts to order inspection of documents and other property, etc.[^key-8b9a72425772c7147034bd5d6f2af00a][^c823229][^c823230]
+
+(1) Without prejudice to the existing powers of the Court of Session, of the Sheriff Appeal Court[^key-f04adcd223f9f05972385b003ba42353] and of the sheriff court, those courts shall have power, subject to the provisions of subsection (4) of this section, to order the inspection, photographing, preservation, custody and detention of documents and other property (including, where appropriate, land) which appear to the court to be property as to which any question may relevantly arise in any existing civil proceedings before that court or in civil proceedings which are likely to be brought, and to order the production and recovery of any such property, the taking of samples thereof and the carrying out of any experiment thereon or therewith.
+
+(1A)[^c823231] Without prejudice to the existing powers of the Court of Session, of the Sheriff Appeal Court[^key-2e9387f29a312f7fe779fb4a47cf7c72] and of the sheriff court, those courts shall have power, subject to subsection (4) of this section, to order any person to disclose such information as he has as to the identity of any persons who appear to the court to be persons who—
+
+- (a) might be witnesses in any existing civil proceedings before that court or in civil proceedings which are likely to be brought; or
+- (b) might be defenders in any civil proceedings which appear to the court to be likely to be brought.
+
+(2) Notwithstanding any rule of law or practice to the contrary, the court may exercise the powers mentioned in subsection (1) or (1A)[^c823232] of this section—
+
+- (a) where proceedings have been commenced, on the application, at any time after such commencement, of a party to or minuter in the proceedings, or any other person who appears to the court to have an interest to be joined as such party or minuter;
+- (b) where proceedings have not been commenced, on the application at any time of a person who appears to the court to be likely to be a party to or minuter in proceedings which are likely to be brought;
+
+unless there is special reason why the application should not be granted.
+
+(3) The powers conferred on the Court of Session by section 103(1) of the Courts Reform (Scotland) Act 2014[^key-b13938ffe6af9ef8ce6db79e74740e04] to regulate its own procedure and the powers conferred on that Court by section 104(1) of the Courts Reform (Scotland) Act 2014[^key-cef6301d3bebce7b84695d7db1d539c2] to regulate the procedure of the sheriff court and the Sheriff Appeal Court[^key-1c03ace21ab743ad32e47d57719024b1] shall include power to regulate and prescribe the procedure to be followed, and the form of any document to be used, in any application under the foregoing provisions of this section in a case where the application is in respect of proceedings which have not been commenced, and such incidental, supplementary and consequential provisions as appear appropriate; and without prejudice to the said generality, the said powers shall include power to provide in such a case for the application to be granted *ex parte*, for the intimation of the application to such persons (if any) as the court thinks fit, and for the finding of caution where appropriate for any loss, damage or expenses which may be incurred as a result of the application.
+
+(4) Nothing in this section shall affect any rule of law or practice relating to the privilege of witnesses and havers, confidentiality of communications and withholding or non-disclosure of information on the grounds of public interest; and section 47 of the [^c823235] Crown Proceedings Act 1947 (recovery of documents in possession of the Crown) shall apply in relation to any application under this section in respect of a document or other property as it applied before the commencement of this section to an application for commission and diligence for the recovery of a document.
+
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c823236]
+
+## 3. Power of arbiter to state case to Court of Session.[^key-396d443fff7dbc8c71f2d9a0e20eec2c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Rate of interest in sheriff court decrees or extracts.
+
+The Court of Session may by act of sederunt direct that section 9 of the [^c823248] Sheriff Courts (Scotland) Extracts Act 1892 (interest included in sheriff court decree or extract), as that enactment has effect for the time being whether by virtue of this section or otherwise, shall be amended so as to substitute, for the rate of interest specified in that section, such rate as may be specified in the act of sederunt.
+
+## 5. Short title, interpretation, commencement and extent.
+
+(1) This Act may be cited as the Administration of Justice (Scotland) Act 1972.
+
+(2) In this Act any reference to an enactment shall be construed as a reference to that enactment as amended by or under any other enactment.
+
+(3)[^c823249] Sections 1 and 3 of this Act shall come into operation on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be appointed for different purposes.
+
+(4) This Act shall extend to Scotland only.
+
+## Annotations
+
+[^c823226]: Textual amendment: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
+
+[^c823227]: Commencement: Act partly in force at Royal Assent see [s. 5(3)](https://www.legislation.gov.uk/ukpga/1972/59/section/5/3); Act wholly in force at 2.4.1973.
+
+[^key-8b9a72425772c7147034bd5d6f2af00a]: Modification: S. 1 extended by [Civil Jurisdiction and Judgments Act 1982 (c. 27)](https://www.legislation.gov.uk/ukpga/1982/27), [s. 28](https://www.legislation.gov.uk/ukpga/1982/27/section/28) (as amended: by [1985 c. 73](https://www.legislation.gov.uk/ukpga/1985/73), [s. 59](https://www.legislation.gov.uk/ukpga/1985/73/section/59), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1985/73/schedule/2/paragraph/2);4 by [1991 c. 12](https://www.legislation.gov.uk/ukpga/1991/12), [s. 3](https://www.legislation.gov.uk/ukpga/1991/12/section/3), [Sch. 2 para. 12(c)](https://www.legislation.gov.uk/ukpga/1991/12/schedule/2/paragraph/12/c) (with [s. 4](https://www.legislation.gov.uk/ukpga/1991/12/section/4)); by [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2001/3929/article/1/b), [4](https://www.legislation.gov.uk/uksi/2001/3929/article/4), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2001/3929/schedule/2/paragraph/12/b); [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1484/regulation/1/1), [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2011/1484/schedule/4/paragraph/8); (1.10.2015) by [S.I. 2015/1644](https://www.legislation.gov.uk/uksi/2015/1644), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/1644/regulation/15); and (31.12.2020) by [S.I. 2019/519](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 12(9)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/12/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^c823229]: Modification: S. 1 extended (*temp.*, for a period of 12 months beginning with 22.3.1990 as mentioned in [S.I. 1990/633](https://www.legislation.gov.uk/uksi/1990/633), [art. 2](https://www.legislation.gov.uk/uksi/1990/633/article/2), unless continued) by [Prevention of Terrorism (Temporary Provisions) Act 1989 (c. 4, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1989/4), [ss. 13(8)](https://www.legislation.gov.uk/ukpga/1989/4/section/13/8), [27(5)](https://www.legislation.gov.uk/ukpga/1989/4/section/27/5), [Sch. 4 para. 19(5)](https://www.legislation.gov.uk/ukpga/1989/4/schedule/4/paragraph/19/5)
+
+[^c823230]: Modification: S. 1 extended (1.4.1996) by [1995 c. 43](https://www.legislation.gov.uk/ukpga/1995/43), [ss. 36(4)](https://www.legislation.gov.uk/ukpga/1995/43/section/36/4), [44](https://www.legislation.gov.uk/ukpga/1995/43/section/44), [50(2)](https://www.legislation.gov.uk/ukpga/1995/43/section/50/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/1995/43/schedule/2/paragraph/2/2)
+
+    S. 1 extended (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 23(9)](https://www.legislation.gov.uk/ukpga/2000/11/section/23/9), [Sch. 4 para. 27(6)(b)](https://www.legislation.gov.uk/ukpga/2000/11/schedule/4/paragraph/27/6/b); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
+
+    S. 1 extended (13.12.2001) by [S.I. 2001/3927](https://www.legislation.gov.uk/uksi/2001/3927), [art. 19](https://www.legislation.gov.uk/uksi/2001/3927/article/19)
+
+[^key-f04adcd223f9f05972385b003ba42353]: Textual amendment: Words in s. 1(1) inserted (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 12(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/2); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+
+[^c823231]: Textual amendment: S. 1(1A) inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1985/73), [s. 19](https://www.legislation.gov.uk/ukpga/1985/73/section/19)
+
+[^key-2e9387f29a312f7fe779fb4a47cf7c72]: Textual amendment: Words in s. 1(1A) inserted (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 12(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/3); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+
+[^c823232]: Textual amendment: Words inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1985/73), [ss. 23](https://www.legislation.gov.uk/ukpga/1985/73/section/23), [59](https://www.legislation.gov.uk/ukpga/1985/73/section/59), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1985/73/schedule/2/paragraph/15)
+
+[^key-b13938ffe6af9ef8ce6db79e74740e04]: Textual amendment: Words in s. 1(3) substituted (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150)](https://www.legislation.gov.uk/ssi/2015/150), [art. 1](https://www.legislation.gov.uk/ssi/2015/150/article/1), [Sch. para. 3](https://www.legislation.gov.uk/ssi/2015/150/schedule/paragraph/3)
+
+[^key-cef6301d3bebce7b84695d7db1d539c2]: Textual amendment: Words in s. 1(3) substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 29](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/29); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+
+[^key-1c03ace21ab743ad32e47d57719024b1]: Textual amendment: Words in s. 1(3) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 12(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/4); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+
+[^c823235]: Marginal citation: [1947 c.44](https://www.legislation.gov.uk/ukpga/1947/44).
+
+[^c823236]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1972/59/section/2) repealed by [Court of Session Act 1988 (c. 36, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1988/36), [s. 52(2)](https://www.legislation.gov.uk/ukpga/1988/36/section/52/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1988/36/schedule/2/part/I) (and re-enacted as referred to in Sch. 2 Pt. II of that Act)
+
+[^key-396d443fff7dbc8c71f2d9a0e20eec2c]: Textual amendment: S. 3 repealed (7.6.2010 for specified purposes) by [Arbitration (Scotland) Act 2010 (asp 1)](https://www.legislation.gov.uk/asp/2010/1), [s. 35(2)](https://www.legislation.gov.uk/asp/2010/1/section/35/2), [Sch. 2](https://www.legislation.gov.uk/asp/2010/1/schedule/2) (with [ss. 30](https://www.legislation.gov.uk/asp/2010/1/section/30), [34](https://www.legislation.gov.uk/asp/2010/1/section/34), [36](https://www.legislation.gov.uk/asp/2010/1/section/36)); [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+
+[^c823248]: Marginal citation: [1892 c.17](https://www.legislation.gov.uk/ukpga/1892/17).
+
+[^c823249]: Modification: 2\. 4. 1973 appointed under s. 5(3) by [S.I. 1973/339](https://www.legislation.gov.uk/uksi/1973/339), [art. 2](https://www.legislation.gov.uk/uksi/1973/339/article/2).

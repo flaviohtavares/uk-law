@@ -1,0 +1,168 @@
+---
+title: The Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2010
+id: uksi/2010/2056
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-08-12'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/2056
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/2056/pdfs/uksiem_20102056_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2056/pdfs/uksi_20102056_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2056/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2010
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 2056
+
+Veterinary Surgeons
+
+The Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2010
+
+Made
+
+12th August 2010
+
+Laid before Parliament
+
+18th August 2010
+
+Coming into force
+
+14th September 2010
+
+The Secretary of State for Environment, Food and Rural Affairs, the Secretary of State for Scotland, the Secretary of State for Wales and the Minister of Agriculture and Rural Development for Northern Ireland acting jointly, in exercise of the powers conferred by section 19(4)(e) and (6) of the Veterinary Surgeons Act 1966[^f00001], and now vested in them[^f00002], and after consultation with the Council of the Royal College of Veterinary Surgeons, make the following Order.
+
+## 1. Title, commencement and interpretation[^key-e10c680f662d18f5dc635a7cc537115a]
+
+(1) This Order may be cited as the Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2010 and comes into force on 14th September 2010.
+
+(2) In this Order—
+
+- “the Act” means the Veterinary Surgeons Act 1966;
+- “approved course” means—
+  - (a) a training course in the use of rectal ultrasound scanners for the purpose of detecting whether a bovine is pregnant which is approved for the time being by the Secretary of State after consultation with the Royal College of Veterinary Surgeons; [^key-d5d22365fce81205ec190b08b18179cf]...
+  - (b) [^key-d5d22365fce81205ec190b08b18179cf]...
+- “doppler rectal transponder” means a rectal ultrasound scanner consisting of an ultrasonic transmitter and receiver, which detects pregnancy by converting a narrow ultrasound beam into distinctive sounds heard through a headset;
+- “rectal ultrasound scanner” means any equipment (including a doppler rectal transponder) intended to be inserted into the rectum of a bovine to detect whether it is pregnant;
+- “the Secretary of State” means the Secretary of State for Environment, Food and Rural Affairs; and
+- “veterinary surgeon” means a person who is registered in the register of veterinary surgeons or the supplementary veterinary register.
+
+## 2. Revocation of the Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2002[^key-e3f578b78810803ccc08aa1747e34740]
+
+The Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2002[^f00004] is revoked.
+
+## 3. Exemption from prohibition on the practice of veterinary surgery for rectal ultrasound scanners (other than doppler rectal transponders)[^key-ea1e6b2aaf69607ad166b346fbc6abf2]
+
+(1) Section 19(1) of the Act[^f00005] does not prohibit the use of a rectal ultrasound scanner, other than a doppler rectal transponder, for the purpose of detecting whether a bovine is pregnant if the conditions in paragraph (2) and in article 5 are complied with.
+
+(2) The conditions are that the person using the rectal ultrasound scanner is 18 years or older and—
+
+- (a) either—
+  - (i) carries out the scan under the direct and continuous personal supervision of a veterinary surgeon as part of an approved course; or
+  - (ii) has successfully completed an approved course;
+- (b) has not been convicted of any offence in relation to the welfare of animals which is connected with that person’s use of a rectal ultrasound scanner for the purpose of detecting whether a bovine is pregnant or, if that person has been convicted of such an offence, has, since that conviction, successfully completed a further approved course; and
+- (c) where that person falls within sub-paragraph (a)(ii), in the period of two years immediately following completion of the approved course and in each subsequent two-year period—
+  - (i) carries out at least one scan using a rectal ultrasound scanner, other than a doppler rectal transponder; or
+  - (ii) is declared in writing by a veterinary surgeon, who has personally supervised that person’s use of a rectal ultrasound scanner, other than a doppler rectal transponder, competent to use such a rectal ultrasound scanner for the purpose of detecting whether a bovine is pregnant.
+
+## 4. Exemption from the prohibition on the practice of veterinary surgery for doppler rectal transponders[^key-d8050bef80f0f80e886124680ba314cc]
+
+(1) Section 19(1) of the Act does not prohibit the use of a doppler rectal transponder for the purpose of detecting whether a bovine is pregnant if the conditions in paragraph (2) and in article 5(1) are complied with.
+
+(2) The conditions are that the person using the doppler rectal transponder is 18 years or older and—
+
+- (a) is the owner of the bovine on which the scanner is being used or is in the employment of the owner; and
+- (b) is in possession of a letter, signed by a veterinary surgeon [^key-a794b6e42c1c5001f8d231ed852b8fcf]..., stating that the person using the doppler rectal transponder is competent to use a doppler rectal transponder without injury to bovines.
+
+## 5. Record keeping[^key-4d240e158c7a6bc0afd6284990664601]
+
+(1) A person who uses a rectal ultrasound scanner for the purpose of detecting whether a bovine is pregnant must record the following information immediately on completion of the scan—
+
+- (a) the date on which that person used the scanner;
+- (b) the address of the premises on which the scanner was used;
+- (c) the eartag or electronic identification number of the bovine on which that person used the scanner; and
+- (d) if the scan was supervised by a veterinary surgeon, the name and address of that veterinary surgeon.
+
+(2) A person falling within article 3(2)(a)(i) who has made a record pursuant to paragraph (1) must—
+
+- (a) arrange for the veterinary surgeon who supervised the use of the rectal ultrasound scanner to sign the record and state whether they consider the scan has been satisfactorily performed; and
+- (b) supply a copy of that signed record to the owner, or person in charge, of the bovine to which the record relates.
+
+(3) A person falling within article 3(2)(a)(ii) who has made a record pursuant to paragraph (1) must—
+
+- (a) unless that person owns or is in charge of the bovine, supply a copy of that record to the owner or person in charge of the bovine to which the record relates, and
+- (b) keep the record for three years beginning with the day immediately after the day on which that person used the scanner, and during that period make it available for inspection on request by an official authorised by the Secretary of State.
+
+Jim Paice
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+David Mundell
+
+Parliamentary Under Secretary of State
+
+Scotland Office
+
+David Jones
+
+Parliamentary Under Secretary of State
+
+Wales Office
+
+Norman Fulton
+
+A senior officer of the
+
+Department of Agriculture and Rural Development
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order permits people who are not veterinary surgeons to carry out rectal ultrasound scanning of bovines, subject to the conditions set out in the Order. It revokes the Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2002 ([S.I. 2002/2584](https://www.legislation.gov.uk/uksi/2002/2584)) and remakes the provisions of that Order with amendments to comply with the Provision of Services Regulations 2009 ([S.I. 2009/2999](https://www.legislation.gov.uk/uksi/2009/2999)) by which the United Kingdom transposed Directive [2006/123/EC](https://www.legislation.gov.uk/european/directive/2006/0123) of the European Parliament and of the Council (OJ No L 376, 27.12.2006) on services in the internal market.
+
+Article 1(2) of the Order defines rectal ultrasound scanner. This includes a doppler rectal transponder. Article 3 sets out the conditions with which a person who is not a registered veterinary surgeon must comply in order to use a rectal ultrasound scanner, other than a doppler rectal transponder, for the purpose of detecting whether or not a bovine is pregnant. Article 4 sets out the conditions with which a person who is not a registered veterinary surgeon must comply in order to use a doppler rectal transponder. Article 5 sets out the record-keeping requirements for people who carry out rectal ultrasound scanning of bovines in accordance with this Order.
+
+In accordance with Directive [2006/123/EC](https://www.legislation.gov.uk/european/directive/2006/0123) and the Provision of Services Regulations 2009, the definition of “approved course” includes training courses in other EEA States, successful completion of which entitles a person to use rectal ultrasound scanners in those States for the purpose of detecting whether a bovine is pregnant.
+
+No impact assessment has been carried out for this instrument as it has no significant impact on the costs of business, charities, voluntary bodies or the public sector.
+
+## Annotations
+
+[^f00001]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36). “The Ministers” is defined in section 27(1) of the Act (as amended by paragraph 1 of Schedule 5 to the Transfer of Functions (Wales) (No.1) Order 1978 ([S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272))) as “the Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales and the Minister of Agriculture for Northern Ireland acting jointly”.
+
+[^f00002]: Footnote: The functions of the Minister of Agriculture, Fisheries and Food in section 19 of the Veterinary Surgeons Act 1966 were transferred to the Secretary of State for Environment, Food and Rural Affairs by article 3(1) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)). By virtue of section 95(5) of, and paragraph 10 of Schedule 12 to, the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47) the reference in the Veterinary Surgeons Act 1966 to the Minister of Agriculture for Northern Ireland is to be construed as a reference to the Northern Ireland department which exercises that function or to the Northern Ireland Minister in charge of that department. The Department of Agriculture for Northern Ireland was renamed the Department of Agriculture and Rural Development by Article 3(4) of the Departments (Northern Ireland) Order 1999 ([S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)).
+
+[^key-e10c680f662d18f5dc635a7cc537115a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2056/article/1) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
+
+[^key-d5d22365fce81205ec190b08b18179cf]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/457/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e3f578b78810803ccc08aa1747e34740]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2056/article/2) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
+
+[^f00004]: Footnote: [S.I. 2002/2584](https://www.legislation.gov.uk/uksi/2002/2584).
+
+[^key-ea1e6b2aaf69607ad166b346fbc6abf2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2056/article/3) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
+
+[^f00005]: Footnote: Section 19(1) of the Act was amended by the Magistrates’ Court Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 32(2).
+
+[^key-d8050bef80f0f80e886124680ba314cc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2056/article/4) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
+
+[^key-a794b6e42c1c5001f8d231ed852b8fcf]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/2056/article/4/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/457/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4d240e158c7a6bc0afd6284990664601]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2056/article/5) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)

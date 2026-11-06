@@ -1,0 +1,2009 @@
+---
+title: UK Borders Act 2007
+id: ukpga/2007/30
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2007-10-30'
+text_date: '2026-03-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/30
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2007/30/pdfs/ukpgaen_20070030_en.pdf
+- http://www.legislation.gov.uk/ukpga/2007/30/pdfs/ukpga_20070030_en.pdf
+- http://www.legislation.gov.uk/ukpga/2007/30/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# UK Borders Act 2007
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/30
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+UK Borders Act 2007
+
+2007 c. 30
+
+An Act to make provision about immigration and asylum; and for connected purposes.
+
+\[30th October 2007\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f67973a9d84486659ff5e8db1691d571][^key-b93803a211fa41c48a67759476a0747e][^key-07ce47992d781263f23d28a27f4d267d][^key-a8ce88c6c228678d24127ecb4d650463][^key-c8c67b7f33798c0f6814d171182bdeac][^key-f3c303c0b9001ff129a295c058d0accc][^key-fb89a352c99c415b15c46b6809d6e76d]
+
+## Detention at ports
+
+*Extent: E+W+N.I.*
+
+### 1. Designated immigration officers[^key-020487fa7afbbac94701f7a6b9719723]
+
+(1) The Secretary of State may designate immigration officers for the purposes of section 2.
+
+(2) The Secretary of State may designate only officers who the Secretary of State thinks are—
+
+- (a) fit and proper for the purpose, and
+- (b) suitably trained.
+
+(3) A designation—
+
+- (a) may be permanent or for a specified period, and
+- (b) may (in either case) be revoked.
+
+### 2. Detention[^key-056363ca4449dccb759340bb3d75f885][^key-66339ad9ac700c4f30c604a7275f071a][^M_C_c32a49c3-a64e-4b53-fe16-8a1505f25249][^M_C_5cb57078-6b92-4244-8ade-60d57aaf2d28]
+
+(1) A designated immigration officer at a port in England, Wales or Northern Ireland may detain an individual if the immigration officer thinks that the individual—
+
+- (a) may be liable to arrest by a constable under section 24(1), (2) or (3) of the Police and Criminal Evidence Act 1984 (c. 60) or Article 26(1), (2) or (3) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)),
+- (aa)[^key-234fbffc6a774509074236568b5d5a3b] is the subject of a certificate under section 74B of the Extradition Act 2003, or
+- (b) is subject to a warrant for arrest.
+
+(1A)[^key-c46bc9649a24fff5f0dfdcb3e4070dcd] A designated immigration officer at a port in Scotland may detain an individual if the immigration officer thinks that the individual—[^key-0b9c9303394593fd894618b7420d6f20]
+
+- (a) may be liable to be detained by a constable under section 14 of the Criminal Procedure (Scotland) Act 1995 in respect of an offence under section 10(1) of the Counter-Terrorism and Security Act 2015,
+- (aa)[^key-bc31f3926b541623e132c7c1e1c54bcc] is the subject of a certificate under section 74B of the Extradition Act 2003, or
+- (b) is subject to a warrant for arrest.
+
+(2) A designated immigration officer who detains an individual—
+
+- (a) must arrange for a constable to attend as soon as is reasonably practicable,
+- (b) may search the individual for, and retain, anything that might be used to assist escape or to cause physical injury to the individual or another person,
+- (c) must retain anything found on a search which the immigration officer thinks may be evidence of the commission of an offence, and
+- (d) must, when the constable arrives, deliver to the constable the individual and anything retained on a search.
+
+(3) An individual may not be detained under this section for longer than three hours.
+
+(4) A designated immigration officer may use reasonable force for the purpose of exercising a power under this section.
+
+(5) Where an individual whom a designated immigration officer has detained or attempted to detain under this section leaves the port, a designated immigration officer may—
+
+- (a) pursue the individual, and
+- (b) return the individual to the port.
+
+(6) Detention under this section shall be treated as detention under the Immigration Act 1971 (c. 77) for the purposes of Part 8 of the Immigration and Asylum Act 1999 (c. 33) (detained persons).
+
+### 3. Enforcement[^key-5b1123352835082a138f3e2aefcb1f48]
+
+(1) An offence is committed by a person who—
+
+- (a) absconds from detention under section 2,
+- (b) assaults an immigration officer exercising a power under section 2, or
+- (c) obstructs an immigration officer in the exercise of a power under section 2.
+
+(2) A person guilty of an offence under subsection (1)(a) or (b) shall be liable on summary conviction to—
+
+- (a) imprisonment for a term not exceeding 51 weeks,
+- (b) a fine not exceeding level 5 on the standard scale, or
+- (c) both.
+
+(3) A person guilty of an offence under subsection (1)(c) shall be liable on summary conviction to—
+
+- (a) imprisonment for a term not exceeding 51 weeks,
+- (b) a fine not exceeding level 3 on the standard scale, or
+- (c) both.
+
+(4) In the application of this section to Northern Ireland—
+
+- (a) the reference in subsection (2)(a) to 51 weeks shall be treated as a reference to six months, and
+- (b) the reference in subsection (3)(a) to 51 weeks shall be treated as a reference to one month.
+
+(4A)[^key-a86bd56ec4fb071ac53a7958bc215e84] In the application of this section to Scotland, the references in subsections (2)(a) and (3)(a) to 51 weeks shall be treated as references to 12 months.
+
+(5) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (c. 44) (51 week maximum term of sentences)—
+
+- (a) the reference in subsection (2)(a) to 51 weeks shall be treated as a reference to six months, and
+- (b) the reference in subsection (3)(a) to 51 weeks shall be treated as a reference to one month.
+
+### 4. Interpretation: “port”[^key-236a22ee888c02535dcdbc660829cbd0][^key-07ce554f1a8b292de786792b75534728][^M_C_e60f14d3-dc52-4b89-b8d6-8104635a02fa][^M_C_8e06e71f-821e-45a2-f2e1-bce77661aef2]
+
+(1) In section 2 “**port**” includes an airport and a hoverport.
+
+(2) A place shall be treated for the purposes of that section as a port in relation to an individual if a designated immigration officer believes that the individual—
+
+- (a) has gone there for the purpose of embarking on a ship or aircraft, or
+- (b) has arrived there on disembarking from a ship or aircraft.
+
+## Biometric registration
+
+### 5. Registration regulations[^key-a91ecd37881576e970c2dc6ffb84e23c][^key-448073210d4e248e42d90af700358bdc][^key-b85428d9839b1098b234f2113f3e2413]
+
+(1) The Secretary of State may make regulations—
+
+- (a) requiring a person subject to immigration control to apply for the issue of a document recording biometric information (a “biometric immigration document”);
+- (b) requiring a biometric immigration document to be used—
+  - (i) for specified immigration purposes,
+  - (ii) in connection with specified immigration procedures, or
+  - (iii) in specified circumstances, where a question arises about a person's status in relation to nationality or immigration;
+- (c) requiring a person who produces a biometric immigration document by virtue of paragraph (b) to provide information for comparison with information provided in connection with the application for the document.
+
+(2) Regulations under subsection (1)(a) may, in particular—
+
+- (a) apply generally or only to a specified class of persons subject to immigration control (for example, persons making or seeking to make a specified kind of application for immigration purposes);
+- (b) specify the period within which an application for a biometric immigration document must be made;
+- (c) make provision about the issue of biometric immigration documents;
+- (d) make provision about the content of biometric immigration documents (which may include non-biometric information);
+- (e) make provision permitting a biometric immigration document to be combined with another document;
+- (f) make provision for biometric immigration documents to begin to have effect, and cease to have effect, in accordance with the regulations;
+- (g) require a person who acquires a biometric immigration document, without the consent of the person to whom it relates or of the Secretary of State, to surrender it to the Secretary of State as soon as is reasonably practicable;
+- (h) permit the Secretary of State to require the surrender of a biometric immigration document in other specified circumstances;
+- (i) permit the Secretary of State on issuing a biometric immigration document to require the surrender of other documents connected with immigration or nationality.
+
+(3) Regulations under subsection (1)(a) may permit the Secretary of State to cancel a biometric immigration document—
+
+- (a) if the Secretary of State thinks that information provided in connection with the document was or has become false, misleading or incomplete,
+- (b) if the Secretary of State thinks that the document has been lost or stolen,
+- (c) if the Secretary of State thinks that the document (including any information recorded in it) has been altered, damaged or destroyed (whether deliberately or not),
+- (d) if the Secretary of State thinks that an attempt has been made (whether successfully or not) to copy the document or to do anything to enable it to be copied,
+- (e) if the Secretary of State thinks that a person has failed to surrender the document in accordance with subsection (2)(g) or (h),
+- (f) if the Secretary of State thinks that the document should be re-issued (whether because the information recorded in it requires alteration or for any other reason),
+- (g) if the Secretary of State thinks that the holder is to be given leave to enter or remain in the United Kingdom,
+- (h) if the Secretary of State thinks that the holder's leave to enter or remain in the United Kingdom is to be varied, cancelled or invalidated or to lapse,
+- (i) if the Secretary of State thinks that the holder has died,
+- (j) if the Secretary of State thinks that the holder has been removed from the United Kingdom (whether by deportation or otherwise),
+- (k) if the Secretary of State thinks that the holder has left the United Kingdom without retaining leave to enter or remain, and
+- (l) in such other circumstances as the regulations may specify.
+
+(4) Regulations under subsection (1)(a) may require notification to be given to the Secretary of State by the holder of a biometric immigration document—
+
+- (a) who knows or suspects that the document has been lost or stolen,
+- (b) who knows or suspects that the document has been altered or damaged (whether deliberately or not),
+- (c) who knows or suspects that information provided in connection with the document was or has become false, misleading or incomplete,
+- (d) who was given leave to enter or remain in the United Kingdom in accordance with a provision of rules under section 3 of the Immigration Act 1971 (c. 77) (immigration rules) and knows or suspects that owing to a change of the holder's circumstances the holder would no longer qualify for leave under that provision, or
+- (e) in such other circumstances as the regulations may specify.
+
+(5) Regulations under subsection (1)(a) may require a person applying for the issue of a biometric immigration document to provide information (which may include biographical or other non-biometric information) to be recorded in it or retained by the Secretary of State; and, in particular, the regulations may—
+
+- (a) require, or permit an authorised person to require, the provision of information in a specified form;
+- (b) require an individual to submit, or permit an authorised person to require an individual to submit, to a specified process by means of which biometric information is obtained or recorded;
+- (c) confer a function (which may include the exercise of a discretion) on an authorised person;
+- (d) permit the Secretary of State, instead of requiring the provision of information, to use or retain information which is (for whatever reason) already in the Secretary of State's possession.
+
+(6) Regulations under subsection (1)(b) may, in particular, require the production or other use of a biometric immigration document that is combined with another document[^key-b5993e5b94f3c3f0b32a61e1514f4c42]...
+
+(7) Regulations under subsection (1)(b) may not make provision the effect of which would be to require a person to carry a biometric immigration document at all times.
+
+(8) Regulations under subsection (1)(c) may, in particular, make provision of a kind specified in subsection (5)(a) or (b).
+
+(9) Rules under section 3 of the Immigration Act 1971 (c. 77) may require a person applying for the issue of a biometric immigration document to provide non-biometric information to be recorded in it or retained by the Secretary of State.
+
+(10) Subsections (5) to (9) are without prejudice to the generality of section 50 of the Immigration, Asylum and Nationality Act 2006 (c. 13) (procedure).
+
+### 6. Regulations: supplemental[^key-7e41b8c0db269ec61f83ebae8754b1df][^key-448073210d4e248e42d90af700358bdc][^key-9145a8315e6f2bb399d104cad2dd1a4a]
+
+(1) This section applies to regulations under section 5(1).
+
+(2) Regulations amending or replacing earlier regulations may require a person who holds a biometric immigration document issued under the earlier regulations to apply under the new regulations.
+
+(3) In so far as regulations require an individual under the age of 16 to submit to a process for the recording of biometric information, or permit an authorised person to require an individual under the age of 16 to submit to a process of that kind, the regulations must make provision similar to section 141(3) to (5) and (13) of the Immigration and Asylum Act 1999 (c. 33) (fingerprints: children).
+
+(4) Rules under section 3 of the Immigration Act 1971 (immigration rules) may make provision by reference to compliance or non-compliance with regulations.
+
+(5) Information in the Secretary of State's possession which is used or retained in accordance with regulations under section 5(5)(d) shall be treated, for the purpose of requirements about treatment and destruction, as having been provided in accordance with the regulations at the time at which it is used or retained in accordance with them.
+
+(6) Regulations—
+
+- (a) may make provision having effect generally or only in specified cases or circumstances,
+- (b) may make different provision for different cases or circumstances,
+- (c) may include incidental, consequential or transitional provision,
+- (d) shall be made by statutory instrument, and
+- (e) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
+
+### 7. Effect of non-compliance[^key-13c6890541cfc22a806dfb43bbd7c542][^key-448073210d4e248e42d90af700358bdc][^key-c4b6041fe9d94e502831acd8ca6a97c9]
+
+(1) Regulations under section 5(1) must include provision about the effect of failure to comply with a requirement of the regulations.
+
+(2) In particular, the regulations may—
+
+- (a) require or permit an application for a biometric immigration document to be refused;
+- (b) require or permit an application or claim in connection with immigration to be disregarded or refused;
+- (c) require or permit the cancellation or variation of leave to enter or remain in the United Kingdom;
+- (d) require the Secretary of State to consider giving a notice under section 9;
+- (e) provide for the consequence of a failure to be at the discretion of the Secretary of State.
+
+(2A)[^key-b212bba4a3a2506157cb63cd3289d099] If the regulations require a biometric immigration document to be used in connection with an application or claim, they may require or permit the application or claim to be disregarded or refused if that requirement is not complied with.
+
+(3) The regulations may also permit the Secretary of State to designate an adult as the person responsible for ensuring that a child complies with requirements of the regulations; and for that purpose—
+
+- (a) “**adult**” means an individual who has attained the age of 18,
+- (b) “**child**” means an individual who has not attained the age of 18, and
+- (c) sections 9 to 13 shall apply (with any necessary modifications) to a designated adult's failure to ensure compliance by a child with a requirement of regulations as they apply to a person's own failure to comply with a requirement.
+
+### 8. Use and retention of biometric information[^key-448073210d4e248e42d90af700358bdc][^key-4d54bb4140ca8a8b914356c2b17e42bd][^key-bc5bd61fb3496a08741478bd22a635b0][^key-a79fa525cd0bb21ac23273f650334fdd][^key-aa3e31097c4d19b39e39d7c0eb3765d4][^key-94aec2f5dae341a53b426ade64b5000b]
+
+(1) The Secretary of State must by regulations make provision about the use and retention by the Secretary of State of biometric information provided in accordance with regulations under section 5(1).
+
+(2) The regulations must provide that biometric information may be retained only if the Secretary of State thinks that it is necessary to retain it for use in connection with—
+
+- (a) the exercise of a function by virtue of the Immigration Acts, or
+- (b) the exercise of a function in relation to nationality.
+
+(3) The regulations may include provision permitting biometric information retained by virtue of subsection (2) also to be used—
+
+- (a) in connection with the prevention, investigation or prosecution of an offence,
+- (b) for a purpose which appears to the Secretary of State to be required in order to protect national security,
+- (c) in connection with identifying persons who have died, or are suffering from illness or injury,
+- (d) for the purpose of ascertaining whether a person has acted unlawfully, or has obtained or sought anything to which the person is not legally entitled, and
+- (e) for such other purposes (whether in accordance with functions under an enactment or otherwise) as the regulations may specify.
+
+(4) The regulations must include provision about the destruction of biometric information.
+
+(5) In particular the regulations must require the Secretary of State to take all reasonable steps to ensure that biometric information is destroyed if the Secretary of State—
+
+- (a) no longer thinks that it is necessary to retain the information for use as mentioned in subsection (2), or
+- (b) is satisfied that the person to whom the information relates is a British citizen, or a Commonwealth citizen who has a right of abode in the United Kingdom as a result of section 2(1)(b) of the Immigration Act 1971.
+
+(6) The regulations must also—
+
+- (a) require that any requirement to destroy biometric information by virtue of the regulations also applies to copies of the information, and
+- (b) require the Secretary of State to take all reasonable steps to ensure—
+  - (i) that data held in electronic form which relates to biometric information which has to be destroyed by virtue of the regulations is destroyed or erased, or
+  - (ii) that access to such data is blocked.
+
+(7) But a requirement to destroy biometric information or data is not to apply if and in so far as the information or data is retained in accordance with and for the purposes of another power.
+
+(8) The regulations must include provision—
+
+- (a) entitling a person whose biometric information has to be destroyed by virtue of the regulations, on request, to a certificate issued by the Secretary of State to the effect that the Secretary of State has taken the steps required by virtue of subsection (6)(b), and
+- (b) requiring such a certificate to be issued within the period of 3 months beginning with the date on which the request for it is received by the Secretary of State.
+
+(9) Section 6(6) applies to regulations under this section as it applies to regulations under section 5(1).
+
+### 9. Penalty[^key-4733202b985a2ebc0f6ee826cf206d3c][^key-448073210d4e248e42d90af700358bdc][^key-5483a98ff0354c48427e1d2a2907ec12]
+
+(1) The Secretary of State may by notice require a person to pay a penalty for failing to comply with a requirement of regulations under section 5(1).
+
+(2) The notice must—
+
+- (a) specify the amount of the penalty,
+- (b) specify a date before which the penalty must be paid to the Secretary of State,
+- (c) specify methods by which the penalty may be paid,
+- (d) explain the grounds on which the Secretary of State thinks the person has failed to comply with a requirement of the regulations, and
+- (e) explain the effect of sections 10 to 12.
+
+(3) The amount specified under subsection (2)(a) may not exceed £1,000.
+
+(4) The date specified under subsection (2)(b) must be not less than 14 days after the date on which the notice is given.
+
+(5) A person who has been given a notice under subsection (1) for failing to comply with regulations may be given further notices in the case of continued failure; but a person may not be given a new notice—
+
+- (a) during the time available for objection or appeal against an earlier notice, or
+- (b) while an objection or appeal against an earlier notice has been instituted and is neither withdrawn nor determined.
+
+(6) The Secretary of State may by order amend subsection (3) to reflect a change in the value of money.
+
+### 10. Penalty: objection[^key-7a220fdbb8aa55e8cbe325000afe5c4d][^key-c6a3d979b98ab16b86603897b4c750f0][^key-448073210d4e248e42d90af700358bdc][^key-5f8a6bdc2862ade2180205c13aa61425]
+
+(1) A person (P) who is given a penalty notice under section 9(1) may by notice to the Secretary of State object on the grounds—
+
+- (a) that P has not failed to comply with a requirement of regulations under section 5(1),
+- (b) that it is unreasonable to require P to pay a penalty, or
+- (c) that the amount of the penalty is excessive.
+
+(2) A notice of objection must—
+
+- (a) specify the grounds of objection and P's reasons,
+- (b) comply with any prescribed requirements as to form and content, and
+- (c) be given within the prescribed period.
+
+(3) The Secretary of State shall consider a notice of objection and—
+
+- (a) cancel the penalty notice,
+- (b) reduce the penalty by varying the penalty notice,
+- (c) increase the penalty by issuing a new penalty notice, or
+- (d) confirm the penalty notice.
+
+(4) The Secretary of State shall act under subsection (3) and notify P—
+
+- (a) in accordance with any prescribed requirements, and
+- (b) within the prescribed period or such longer period as the Secretary of State and P may agree.
+
+### 11. Penalty: appeal[^key-0ab86dbbab96164452bcc51be2e9cf1a][^key-de8afc6d6a8c412b416dccfb371821aa][^key-448073210d4e248e42d90af700358bdc][^key-bdaabefd72b3a58a0b6f7918ae1429b8]
+
+(1) A person (P) who is given a penalty notice under section 9(1) may appeal to—
+
+- (a) the county court in England and Wales or a county court in[^key-eebe9b39cae3db461a0fd567bb64fb3c] Northern Ireland, or
+- (b) the sheriff, in Scotland.
+
+(2) An appeal may be brought on the grounds—
+
+- (a) that P has not failed to comply with a requirement of regulations under section 5(1),
+- (b) that it is unreasonable to require P to pay a penalty, or
+- (c) that the amount of the penalty is excessive.
+
+(3) The court or sheriff may—
+
+- (a) cancel the penalty notice,
+- (b) reduce the penalty by varying the penalty notice,
+- (c) increase the penalty by varying the penalty notice (whether because the court or sheriff thinks the original amount insufficient or because the court or sheriff thinks that the appeal should not have been brought), or
+- (d) confirm the penalty notice.
+
+(4) An appeal may be brought—
+
+- (a) whether or not P has given a notice of objection, and
+- (b) irrespective of the Secretary of State's decision on any notice of objection.
+
+(5) The court or sheriff may consider matters of which the Secretary of State was not and could not have been aware before giving the penalty notice.
+
+(6) Rules of court may make provision about the timing of an appeal under this section.
+
+### 12. Penalty: enforcement[^key-21af79f4e645bd40aed4586b6c53b6e5][^key-448073210d4e248e42d90af700358bdc][^key-c87823421959371584fbff4a7dc744ed]
+
+(1) Where a penalty has not been paid before the date specified in the penalty notice in accordance with section 9(2)(b), it may be recovered as a debt due to the Secretary of State.
+
+(2) Where a notice of objection is given in respect of a penalty notice, the Secretary of State may not take steps to enforce the penalty notice before—
+
+- (a) deciding what to do in response to the notice of objection, and
+- (b) informing the objector.
+
+(3) The Secretary of State may not take steps to enforce a penalty notice while an appeal under section 11—
+
+- (a) could be brought (disregarding any possibility of an appeal out of time with permission), or
+- (b) has been brought and has not been determined or abandoned.
+
+(4) In proceedings for the recovery of a penalty no question may be raised as to the matters specified in sections 10 and 11 as grounds for objection or appeal.
+
+(5) Money received by the Secretary of State in respect of a penalty shall be paid into the Consolidated Fund.
+
+### 13. Penalty: code of practice[^key-cf70bcc86746a8d461b1ba10bbfb8602][^key-f83b58dc8e1f8c800ac772a1416dd26a][^key-448073210d4e248e42d90af700358bdc][^key-2b7ab0cfb0f8c9f9f3682b16b78fdf9d]
+
+(1) The Secretary of State shall issue a code of practice setting out the matters to be considered in determining—
+
+- (a) whether to give a penalty notice under section 9(1), and
+- (b) the amount of a penalty.
+
+(2) The code may, in particular, require the Secretary of State to consider any decision taken by virtue of section 7.
+
+(3) A court or the sheriff shall, when considering an appeal under section 11, have regard to the code.
+
+(4) The Secretary of State may revise and re-issue the code.
+
+(5) Before issuing or re-issuing the code the Secretary of State must—
+
+- (a) publish proposals,
+- (b) consult members of the public, and
+- (c) lay a draft before Parliament.
+
+(6) The code (or re-issued code) shall come into force at the prescribed time.
+
+### 14. Penalty: prescribed matters[^key-691bb7f50ef908fe6cc5f7c6c93f6c60][^key-448073210d4e248e42d90af700358bdc][^key-21c4d6f0c8bbe99570193364d0d7d647]
+
+(1) In sections 10 to 13 “**prescribed**” means prescribed by the Secretary of State by order.
+
+(2) An order under subsection (1) or under section 9(6)—
+
+- (a) may make provision generally or only for specified purposes,
+- (b) may make different provision for different purposes,
+- (c) shall be made by statutory instrument, and
+- (d) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) But the first order under section 13(6) shall not be made unless a draft has been laid before and approved by resolution of each House of Parliament (and shall not be subject to annulment).
+
+### 15. Interpretation[^key-0c8c85bb5eae263b6e18dea903a5beae][^key-448073210d4e248e42d90af700358bdc][^key-697dbddd070dbfcd93bf609985182763]
+
+(1) For the purposes of section 5—
+
+- (a) “**person subject to immigration control**” means a person who under the Immigration Act 1971 (c. 77) requires leave to enter or remain in the United Kingdom (whether or not such leave has been given),
+- (b)[^key-d4c573a13c17617ff0c699a7dde1f560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-d4c573a13c17617ff0c699a7dde1f560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) “**document**” includes a card or sticker and any other method of recording information (whether in writing or by the use of electronic or other technology or by a combination of methods),
+- (e) “**authorised person**” has the meaning given by section 141(5) of the Immigration and Asylum Act 1999 (c. 33) (authority to take fingerprints),
+- (f) “**immigration**” includes asylum, and
+- (g) regulations permitting something to be done by the Secretary of State may (but need not) permit it to be done only where the Secretary of State is of a specified opinion.
+
+(1A)[^key-64f88775b87d2a696321db12064492ba] For the purposes of section 5 “ **biometric information** ” means—
+
+- (a) information about a person's external physical characteristics (including in particular fingerprints and features of the iris), and
+- (b) any other information about a person's physical characteristics specified in an order made by the Secretary of State.
+
+(1B) An order under subsection (1A)(b)—
+
+- (a) may specify only information that can be obtained or recorded by an external examination of a person;
+- (b) must not specify information about a person's DNA.
+
+(1C) Section 6(6) applies to an order under subsection (1A)(b) as it applies to regulations under section 5(1).
+
+(2) An application for a biometric immigration document is an application in connection with immigration for the purposes of—
+
+- (a) section 50(1) and (2) of the Immigration, Asylum and Nationality Act 2006 (c. 13) (procedure), and
+- (b)[^key-87eaa98f6bac3e583975b84ee5ce9811] section 68 of the Immigration Act 2014 (fees);
+
+and in the application of either of those sections to an application for a biometric immigration document, the prescribed consequences of non-compliance may include any of the consequences specified in section 7(2) above.
+
+## Treatment of claimants
+
+### 16. Conditional leave to enter or remain[^key-555cad5c750f1f4ebe1d171404903142]
+
+After section 3(1)(c)(iii) of the Immigration Act 1971 (limited leave to enter or remain: conditions) insert—
+
+> - (iv) a condition requiring him to report to an immigration officer or the Secretary of State; and
+> - (v) a condition about residence.
+
+### 17. Support for failed asylum-seekers
+
+(1) This section applies for the purposes of—
+
+- (a) Part 6 (and section 4) of the Immigration and Asylum Act 1999 (support and accommodation for asylum-seekers),
+- (b) Part 2 of the Nationality, Immigration and Asylum Act 2002 (c. 41) (accommodation centres), and
+- (c) Schedule 3 to that Act (withholding and withdrawal of support).
+
+(2) A person (A-S) remains (or again becomes) an asylum-seeker, despite the fact that the claim for asylum made by A-S has been determined, during any period when—
+
+- (a) A-S can bring an in-country appeal [^key-4bca0964e61210c9d4347d793b679fba]... under section 82 of the 2002 Act or section 2 of the Special Immigration Appeals Commission Act 1997 (c. 68), or
+- (b) an in-country appeal, brought by A-S under either of those sections [^key-a30119347f4eca3278b8964beb9bab3c]..., is pending (within the meaning of section 104 of the 2002 Act).
+
+(3) For the purposes of subsection (2)—
+
+- (a) “**in-country**” appeal means an appeal brought while the appellant is in the United Kingdom, and
+- (b) the possibility of an appeal out of time with permission shall be ignored.
+
+(4) For the purposes of the provisions mentioned in subsection (1)(a) and (b), a person's status as an asylum-seeker by virtue of subsection (2)(b) continues for a prescribed period after the appeal ceases to be pending.
+
+(5) In subsection (4) “**prescribed**” means prescribed by regulations made by the Secretary of State; and the regulations—
+
+- (a) may contain incidental or transitional provision,
+- (b) may make different provision for different classes of case,
+- (c) shall be made by statutory instrument, and
+- (d) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) This section shall be treated as always having had effect.
+
+### 18. Support for asylum-seekers: enforcement[^key-b1a7665fc1d57636ee69ba995f55b055]
+
+In Part 6 of the Immigration and Asylum Act 1999 (c. 33) (support for asylum-seekers) after section 109 (offences: supplemental) insert—
+
+> **109A. Arrest**
+>
+> An immigration officer may arrest without warrant a person whom the immigration officer reasonably suspects has committed an offence under section 105 or 106.
+>
+> **109B. >Entry, search and seizure**
+>
+> (1) An offence under section 105 or 106 shall be treated as—
+>
+> - (a) a relevant offence for the purposes of sections 28B and 28D of the Immigration Act 1971, and
+> - (b) an offence under Part 3 of that Act (criminal proceedings) for the purposes of sections 28(4), 28E, 28G and 28H (search after arrest, &c.) of that Act.
+>
+> (2) The following provisions of the Immigration Act 1971 (c. 77) shall have effect in connection with an offence under section 105 or 106 of this Act as they have effect in connection with an offence under that Act—
+>
+> - (a) section 28I (seized material: access and copying),
+> - (b) section 28J (search warrants: safeguards),
+> - (c) section 28K (execution of warrants), and
+> - (d) section 28L(1) (interpretation).
+
+### 19. Points-based applications: no new evidence on appeal[^key-549aecb2297788e59cb0e12e05f2fea5][^key-e3669217adfa53f49715a3f2a41294d5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Fees[^key-12c0098740891dd351c2c59d7e1a71e0][^key-4c40ec4a9432f0abd86939b22cc20ee6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Children[^key-843a3a952a8369cbe32f275fbab94cdb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Enforcement
+
+### 22. Assaulting an immigration officer: offence[^key-c495d301eac6f78624773a6cf0b95fb5][^key-059b9bc64b67083a9f24458ad1b68ba2][^key-c84d529034b273277f92315e5e7ba56c][^key-f8872b2006a097534e5b5a737018a6bf][^key-d6d41e94bb0027e89123669bab7f55ea]
+
+(1) A person who assaults an immigration officer commits an offence.
+
+(2) A person guilty of an offence under this section shall be liable on summary conviction to—
+
+- (a) imprisonment for a period not exceeding 51 weeks,
+- (b) a fine not exceeding level 5 on the standard scale, or
+- (c) both.
+
+(3) In the application of this section to Northern Ireland the reference in subsection (2)(a) to 51 weeks shall be treated as a reference to 6 months.
+
+(4) In the application of this section to Scotland the reference in subsection (2)(a) to 51 weeks shall be treated as a reference to 12 months.
+
+(5) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (c. 44) (51 week maximum term of sentences) the reference in subsection (2)(a) to 51 weeks shall be treated as a reference to 6 months.
+
+### 23. Assaulting an immigration officer: powers of arrest, &c.[^key-899f8c2964badc9ecb6365d1cc451c4e]
+
+(1) An immigration officer may arrest a person without warrant if the officer reasonably suspects that the person has committed or is about to commit an offence under section 22.
+
+(2) An offence under section 22 shall be treated as—
+
+- (a) a relevant offence for the purposes of sections 28B and 28D of the Immigration Act 1971 (c. 77) (search, entry and arrest), and
+- (b) an offence under Part 3 of that Act (criminal proceedings) for the purposes of sections 28(4), 28E, 28G and 28H (search after arrest, &c.) of that Act.
+
+(3) The following provisions of the Immigration Act 1971 shall have effect in connection with an offence under section 22 of this Act as they have effect in connection with an offence under that Act—
+
+- (a) section 28I (seized material: access and copying),
+- (b) section 28J (search warrants: safeguards),
+- (c) section 28K (execution of warrants), and
+- (d) section 28L(1) (interpretation).
+
+### 24. Exercise of civil recovery powers by immigration officers[^key-2130b36500b927b1453d68a8f3ed0cb8][^key-b7b04827f204bbc32797f31f605c58e4]
+
+(1)[^key-1887a5d7a394844974af3e73be445011] Chapters 3 to 3F[^key-1c629bb5f1363568ac3e425f42fc00de] of Part 5 of the Proceeds of Crime Act 2002 (civil recovery) apply in relation to an immigration officer as they apply in relation to a constable.
+
+(2) For that purpose—
+
+- (a)[^key-c35528721021754aadbce672439ac461] “unlawful conduct”, in or in relation to sections 289 and 303C and[^key-df30d6d8367546f76d6de8763228d80e] Chapters 3B to 3F[^key-8e2f3220acd5ba7bad7be4818917ee0e], means conduct which—
+  - (i) relates to the entitlement of one or more persons who are not nationals of the United Kingdom to enter, transit across, or be in, the United Kingdom (including conduct which relates to conditions or other controls on any such entitlement), or
+  - (ii) is undertaken for the purposes of, or otherwise in relation to, a relevant nationality enactment,
+
+  and (in either case) constitutes an offence,
+- (c) “**senior officer**” in sections 290[^key-7bdc2d701f1bb864e5708bf41485574c] , 297A and 303E and in Chapter 3B (see section 303Z2(4))[^key-281573d8d343aaa8eab4caa4fbedf933] , Chapter 3C (see section 303Z20(4)), Chapter 3D (see section 303Z36(8)) and Chapter 3E (see section 303Z41(9))[^key-dbe7a251f23ada43964cf7c22737e330] means an official of the Secretary of State who is a civil servant at or above the grade which is designated by the Secretary of State as being equivalent to the rank of police inspector[^key-1ef933d984fecd4ae9a2b3a77030ad12],
+- (d) in sections 292 and 303G[^key-53b7c54cc907b5c8b7c37cd86df7c6d1] (including as section 303G is applied by section 303Z25)[^key-90641153f9770eefff2f88821ba9910b] the words “(in relation to England and Wales [^key-2ec6327f76e2b0b6f2aa365df3c9fb68]...)” shall be disregarded,
+- (e) sections 293[^key-346d699af6260506307afcb9b6bf3b79] , 293A, 303H and 303I[^key-aeb2f6bd4703ff29938fa3975970948d] (including as sections 303H and 303I are applied by section 303Z25)[^key-329934e427298845705c26467c3cb0cd] shall not apply,
+- (f) an application for an order under section 295(2) , 303L(1), 303Z28(1) or (4), 303Z32(1) or (4) or 303Z57(3) or (5)[^key-334420fc4e3fa302bb53abe4afde15be] must be made—
+  - (i) in relation to England and Wales or Northern Ireland, by an immigration officer, and
+  - (ii) in relation to Scotland, by the Scottish Ministers in connection with their functions under section 298 , 303O, 303Z41 or (as the case may be) 303Z60[^key-db5be521df5b6e625836b5fb4d12e368] or by a procurator fiscal,
+- (g) an application for forfeiture under section 298 , 303O[^key-d2fb469158460ee2f76696d37bc3b016] , 303Z14, 303Z41 or 303Z60[^key-155dc1db29844b13288b53fcac8a8a00] must be made—
+  - (i) in relation to England and Wales or Northern Ireland, by an immigration officer, and
+  - (ii) in relation to Scotland, by the Scottish Ministers, and
+- (h) any compensation under section 302 , 303W[^key-32eb58a69ea0110af33620280d56d374] , 303Z18, 303Z52 or 303Z64[^key-2244d2a8d0fe3a54daf19d98d0e5e9c4] shall be paid by the Secretary of State.
+
+(2A)[^key-38eea361912a997653ed8f7d2bca5ed6] In subsection (2)(a)(ii) “ **relevant nationality enactment** ” means any enactment in—
+
+- (a) the British Nationality Act 1981,
+- (b) the Hong Kong Act 1985,
+- (c) the Hong Kong (War Wives and Widows) Act 1996,
+- (d) the British Nationality (Hong Kong) Act 1997,
+- (e) the British Overseas Territories Act 2002, or
+- (f) an instrument made under any of those Acts.
+
+(3) The Secretary of State may by order amend subsection (2)(c) to reflect a change in nomenclature; and an order—
+
+- (a) shall be made by statutory instrument, and
+- (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 25 (Extent: E+W) (affected by repeal, see note). Forfeiture of detained property[^key-61725b2fcc11abfbc75205983be6224e][^key-a44bbee9479a162576d22b4919de8f30]
+
+*Extent: E+W+N.I.*
+
+(1 (Extent: E+W) (affected by repeal, see note))[^key-a44bbee9479a162576d22b4919de8f30] A court making a forfeiture order about property may order that the property be taken into the possession of the Secretary of State (and not of the police). *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]
+
+(2 (Extent: E+W) (affected by repeal, see note))[^key-a44bbee9479a162576d22b4919de8f30] An order may be made under subsection (1) only if the court thinks that the offence in connection with which the order is made— *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^key-a44bbee9479a162576d22b4919de8f30] related to immigration or asylum, or *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]
+- (b (Extent: E+W) (affected by repeal, see note))[^key-a44bbee9479a162576d22b4919de8f30] was committed for a purpose connected with immigration or asylum. *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]
+
+(3 (Extent: E+W) (affected by repeal, see note))[^key-a44bbee9479a162576d22b4919de8f30] In subsection (1) “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]**forfeiture order *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]**” means an order under— *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^key-00b24b01332607c321da7e7d2d8dc350][^key-a44bbee9479a162576d22b4919de8f30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]
+- (b (Extent: E+W) (affected by repeal, see note))[^key-a44bbee9479a162576d22b4919de8f30] Article 11 of the Criminal Justice (Northern Ireland) Order 1994 ( *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]S.I. *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30] 1994/2795 (N.I. 15)). *(Extent: E+W)* *(affected by repeal, see note)*[^key-a44bbee9479a162576d22b4919de8f30]
+
+### 26. Disposal of property[^key-974b589103ceea9453c15e9f73850c3d][^key-6c3c9acc2653c9476ffe3a97a0dfe2e1][^key-71655eb8dfcebcfcf3cf1a5dca5828fe][^key-cc1c51546f9119f5995c6d858d5e5004]
+
+(1) In this section “**property**” means property which—
+
+- (a) has come into the possession of an immigration officer, or
+- (b) has come into the possession of the Secretary of State in the course of, or in connection with, a function under the Immigration Acts.
+
+(2) A magistrates' court may, on the application of the Secretary of State or a claimant of property—
+
+- (a) order the delivery of property to the person appearing to the court to be its owner, or
+- (b) if its owner cannot be ascertained, make any other order about property.
+
+(3) An order shall not affect the right of any person to take legal proceedings for the recovery of the property, provided that the proceedings are instituted within the period of six months beginning with the date of the order.
+
+(4) An order may be made in respect of property forfeited under section 25, or under section 25C of the Immigration Act 1971 (c. 77) (vehicles, &c.), only if—
+
+- (a) the application under subsection (2) above is made within the period of six months beginning with the date of the forfeiture order, and
+- (b) the applicant (if not the Secretary of State) satisfies the court—
+  - (i) that the applicant did not consent to the offender's possession of the property, or
+  - (ii) that the applicant did not know and had no reason to suspect that the property was likely to be used, or was intended to be used, in connection with an offence.
+
+(5) The Secretary of State may make regulations for the disposal of property—
+
+- (a) where the owner has not been ascertained,
+- (b) where an order under subsection (2) cannot be made because of subsection (4)(a), or
+- (c) where a court has declined to make an order under subsection (2) on the grounds that the court is not satisfied of the matters specified in subsection (4)(b).
+
+(6) The regulations may make provision that is the same as or similar to provision that may be made by regulations under section 2 of the Police (Property) Act 1897 (c. 30) (or any similar enactment applying in relation to Scotland or Northern Ireland); and the regulations—
+
+- (a) may apply, with or without modifications, regulations under that Act,
+- (b) may, in particular, provide for property to vest in the Secretary of State,
+- (c) may make provision about the timing of disposal (which, in particular, may differ from provision made by or under the Police (Property) Act 1897),
+- (d) shall have effect only in so far as not inconsistent with an order of a court (whether or not under subsection (2) above),
+- (e) shall be made by statutory instrument, and
+- (f) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) For the purposes of subsection (1) it is immaterial whether property is acquired as a result of forfeiture or seizure or in any other way.
+
+(8) In the application of this section to Scotland a reference to a magistrates' court is a reference to the sheriff.
+
+### 27. Employment: arrest[^key-87a3c8ae7730f9d05a22e991af93b0a2]
+
+In section 28AA of the Immigration Act 1971 (c. 77) (arrest with warrant) for subsection (1)(b) substitute—
+
+> - (b) section 21(1) of the Immigration, Asylum and Nationality Act 2006.
+
+### 28. Employment: search for personnel records[^key-b14ccfcf817fba6b6df2f914823fba92]
+
+In section 28FA(7) of the Immigration Act 1971 (enforcement: search for personnel records) for “an offence under section 8 of the Asylum and Immigration Act 1996 (c. 49)” substitute “ an offence under section 21 of the Immigration, Asylum and Nationality Act 2006 ”.
+
+### 29. Facilitation: arrival and entry[^key-b1eb41aeb4468a8e08bca83871aa5cb9]
+
+In section 25A(1)(a) of the Immigration Act 1971 (helping asylum seeker to enter UK: offence) after “the arrival in” insert “ , or the entry into, ”.
+
+### 30. Facilitation: territorial application[^key-e668401713de9257bf6f6b655e1e111d]
+
+(1) For section 25(4) and (5) of the Immigration Act 1971 (assisting unlawful immigration: territorial application) substitute—
+
+> (4) Subsection (1) applies to things done whether inside or outside the United Kingdom.
+
+(2) In sections 25A(4) and 25B(4) (facilitation: asylum-seekers and deportees) for “Subsections (4) to (6)” substitute “ Subsections (4) and (6) ”.
+
+### 31. People trafficking[^key-24db1ec42b41220bfaaf7f5e8931e617]
+
+(1 (Extent: E+W) (affected by repeal, see note) (Extent: N.I.) (affected by repeal, see note))[^key-9b5f182d6af0b01770e87edda18f4348][^key-766ad719de38fe6b886fce2a85940205] In section 4(1) of the Asylum and Immigration (Treatment of Claimants, *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205] etc. *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205] ) Act 2004 (c. 19) (trafficking) after “the arrival in” insert *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205] “ , or the entry into, ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205] . *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205]
+
+(2 (Extent: E+W) (affected by repeal, see note) (Extent: N.I.) (affected by repeal, see note))[^key-9b5f182d6af0b01770e87edda18f4348][^key-9b5f182d6af0b01770e87edda18f4348][^key-766ad719de38fe6b886fce2a85940205] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205]
+
+(3 (Extent: E+W) (affected by repeal, see note) (Extent: N.I.) (affected by repeal, see note))[^key-9b5f182d6af0b01770e87edda18f4348][^key-766ad719de38fe6b886fce2a85940205] In section 57(1) of the Sexual Offences Act 2003 (c. 42) (trafficking) after “the arrival in” insert *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205] “ , or the entry into, ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205] . *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205]
+
+(4 (Extent: E+W) (affected by repeal, see note) (Extent: N.I.) (affected by repeal, see note))[^key-9b5f182d6af0b01770e87edda18f4348][^key-766ad719de38fe6b886fce2a85940205] For sections 60(2) and (3) of that Act (trafficking: extent) substitute— *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205]
+
+> (2 (Extent: E+W) (affected by repeal, see note) (Extent: N.I.) (affected by repeal, see note))[^key-9b5f182d6af0b01770e87edda18f4348][^key-766ad719de38fe6b886fce2a85940205] Sections 57 to 59 apply to anything done whether inside or outside the United Kingdom. *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b5f182d6af0b01770e87edda18f4348] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-766ad719de38fe6b886fce2a85940205]
+
+## Deportation of criminals
+
+### 32. Automatic deportation[^key-f0afde99780347f2c59bbd13c9b77f98]
+
+(1) In this section “**foreign criminal**” means a person—
+
+- (a) who is not a British citizen or an Irish citizen[^key-65bed36e235dc80df12932815468c0a0],
+- (b) who is convicted in the United Kingdom of an offence, and
+- (c) to whom Condition 1 or 2 applies.
+
+(2) Condition 1 is that the person is sentenced to a period of imprisonment of at least 12 months.
+
+(3) Condition 2 is that—
+
+- (a) the offence is specified by order of the Secretary of State under section 72(4)(a) of the Nationality, Immigration and Asylum Act 2002 (c. 41) (serious criminal), and
+- (b) the person is sentenced to a period of imprisonment.
+
+(4) For the purpose of section 3(5)(a) of the Immigration Act 1971 (c. 77), the deportation of a foreign criminal is conducive to the public good.
+
+(5) The Secretary of State must make a deportation order in respect of a foreign criminal (subject to section 33).
+
+(6) The Secretary of State may not revoke a deportation order made in accordance with subsection (5) unless—
+
+- (a) he thinks that an exception under section 33 applies,
+- (b) the application for revocation is made while the foreign criminal is outside the United Kingdom, or
+- (c) section 34(4) applies.
+
+(7) Subsection (5) does not create a private right of action in respect of consequences of non-compliance by the Secretary of State.
+
+### 33. Exceptions[^key-a569434fab3519b2d1c75681d2d2ffe4][^key-d29ab37edfab7efb434f5e13b9ab166a]
+
+(1) Section 32(4) and (5)—
+
+- (a) do not apply where an exception in this section applies (subject to subsection (7) below), and
+- (b) are subject to sections 7 and 8 of the Immigration Act 1971 (Commonwealth citizens, Irish citizens, crew and other exemptions).
+
+(2) Exception 1 is where removal of the foreign criminal in pursuance of the deportation order would breach—
+
+- (a) a person's Convention rights, or
+- (b) the United Kingdom's obligations under the Refugee Convention.
+
+(3) Exception 2 is where the Secretary of State thinks that the foreign criminal was under the age of 18 on the date of conviction.
+
+(4)[^key-d2544899da67ab0392cb75f385e05cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Exception 4 is where the foreign criminal—
+
+- (a) is the subject of a certificate under section 2 or 70 of the Extradition Act 2003 (c. 41),
+- (b) is in custody pursuant to arrest under section 5 of that Act,
+- (c) is the subject of a provisional warrant under section 73 of that Act,
+- (ca)[^key-311317021e4e42dcf0cf1bffee209176] is the subject of a certificate under section 74B of that Act,
+- (d) is the subject of an authority to proceed under section 7 of the Extradition Act 1989 (c. 33) or an order under paragraph 4(2) of Schedule 1 to that Act, or
+- (e) is the subject of a provisional warrant under section 8 of that Act or of a warrant under paragraph 5(1)(b) of Schedule 1 to that Act.
+
+(6) Exception 5 is where any of the following has effect in respect of the foreign criminal—
+
+- (a) a hospital order or guardianship order under section 37 of the Mental Health Act 1983 (c. 20),
+- (b) a hospital direction under section 45A of that Act,
+- (c) a transfer direction under section 47 of that Act,
+- (d) a compulsion order under section 57A of the Criminal Procedure (Scotland) Act 1995 (c. 46),
+- (e) a guardianship order under section 58 of that Act,
+- (f) a hospital direction under section 59A of that Act,
+- (g) a transfer for treatment direction under section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), or
+- (h) an order or direction under a provision which corresponds to a provision specified in paragraphs (a) to (g) and which has effect in relation to Northern Ireland.
+
+(6A)[^key-3c342e788d875b313082c6d17656d440] Exception 6 is where the Secretary of State thinks that the application of section 32(4) and (5) would contravene the United Kingdom's obligations under the Council of Europe Convention on Action against Trafficking in Human Beings (done at Warsaw on 16th May 2005).
+
+(6B)[^key-4b254fd606ba184ba466e79526c04f4c] Exception 7 is where—
+
+- (a) the foreign criminal is a relevant person, and
+- (b) the offence for which the foreign criminal was convicted as mentioned in section 32(1)(b) consisted of or included conduct that took place before IP completion day.
+
+(6C) For the purposes of subsection (6B), a foreign criminal is a “relevant person”—
+
+- (a) if the foreign criminal is in the United Kingdom (whether or not they have entered within the meaning of section 11(1) of the Immigration Act 1971) having arrived with entry clearance granted by virtue of relevant entry clearance immigration rules,
+- (b) if the foreign criminal has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules,
+- (ba)[^key-1528853768ca64cd01757a534aee31a3] if the person is in the United Kingdom (whether or not they have entered within the meaning of section 11(1) of the Immigration Act 1971) having arrived with entry clearance granted by virtue of Article 23 of the Swiss citizens’ rights agreement,
+- (c) if the foreign criminal may be granted leave to enter or remain in the United Kingdom as a person who has a right to enter the United Kingdom by virtue of—
+  - (i) Article 32(1)(b) of the EU withdrawal agreement,
+  - (ii) Article 31(1)(b) of the EEA EFTA separation agreement, or
+  - (iii) Article 26a(1)(b) of the Swiss citizens' rights agreement,
+
+  whether or not the foreign criminal has been granted such leave, or
+- (d) if the foreign criminal may enter the United Kingdom by virtue of regulations made under section 8 of the European Union (Withdrawal Agreement) Act 2020 (frontier workers), whether or not the foreign criminal has entered by virtue of those regulations.
+
+(6D) In this section—
+
+- “EEA EFTA separation agreement” and “Swiss citizens' rights agreement” have the same meanings as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) of that Act);
+- “relevant entry clearance immigration rules” and “residence scheme immigration rules” have the meanings given by section 17 of the European Union (Withdrawal Agreement) Act 2020.
+
+(7) The application of an exception—
+
+- (a) does not prevent the making of a deportation order;
+- (b) results in it being assumed neither that deportation of the person concerned is conducive to the public good nor that it is not conducive to the public good;
+
+but section 32(4) applies despite the application of Exception 1 or 4.
+
+### 34. Timing[^key-b7f3f0aeed23a59c954c750be3efa883]
+
+(1) Section 32(5) requires a deportation order to be made at a time chosen by the Secretary of State.
+
+(2) A deportation order may not be made under section 32(5) while an appeal or further appeal against the conviction or sentence by reference to which the order is to be made—
+
+- (a) has been instituted and neither withdrawn nor determined, or
+- (b) could be brought.
+
+(3) For the purpose of subsection (2)(b)—
+
+- (a) the possibility of an appeal out of time with permission shall be disregarded, and
+- (b) a person who has informed the Secretary of State in writing that the person does not intend to appeal shall be treated as being no longer able to appeal.
+
+(4) The Secretary of State may withdraw a decision that section 32(5) applies, or revoke a deportation order made in accordance with section 32(5), for the purpose of—
+
+- (a) taking action under the Immigration Acts or rules made under section 3 of the Immigration Act 1971 (c. 77) (immigration rules), and
+- (b) subsequently taking a new decision that section 32(5) applies and making a deportation order in accordance with section 32(5).
+
+### 35. Appeal[^key-3f5052d58d009aa550664902a5a54fe6]
+
+(1) The Nationality, Immigration and Asylum Act 2002 (c. 41) is amended as follows.
+
+(2) At the end of section 79 (no deportation order pending appeal) add—
+
+> (3) This section does not apply to a deportation order which states that it is made in accordance with section 32(5) of the UK Borders Act 2007.
+>
+> (4) But a deportation order made in reliance on subsection (3) does not invalidate leave to enter or remain, in accordance with section 5(1) of the Immigration Act 1971, if and for so long as section 78 above applies.
+
+(3)[^key-2727a40a9720ef22b09a964260aca18f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Detention[^key-341cf9c6ae6f1e3c3a97bf45967da7fe]
+
+(1) A person who has served a period of imprisonment may be detained under the authority of the Secretary of State—
+
+- (a) while the Secretary of State considers whether section 32(5) applies, and
+- (b) where the Secretary of State thinks that section 32(5) applies, pending the making of the deportation order.
+
+(1A)[^key-f836da7d1ad870e40ebe7f2a49eb03cd] A person liable to be detained under subsection (1) may be detained for such period as, in the opinion of the Secretary of State, is reasonably necessary to enable the decision as to whether section 32(5) applies, or the deportation order, to be made.
+
+(1B) Subsection (1) applies regardless of whether there is anything that for the time being prevents the decision or the deportation order from being made.
+
+(1C) Subsections (1A) and (1B) are subject to subsection (2A) and section 60 of the Immigration Act 2016 (limitation on detention of pregnant women).
+
+(1D) Subsection (1E) applies if, while a person is detained under subsection (1), the Secretary of State no longer considers that the decision or the deportation order will be made within a reasonable period of time.
+
+(1E) The person may be detained under subsection (1) for such further period as, in the opinion of the Secretary of State, is reasonably necessary to enable such arrangements to be made for the person’s release as the Secretary of State considers to be appropriate.
+
+(2) Where a deportation order is made in accordance with section 32(5) the Secretary of State shall exercise the power of detention under paragraph 2(3) of Schedule 3 to the Immigration Act 1971 (c. 77) (detention pending removal) unless the person is granted immigration bail under Schedule 10 to the Immigration Act 2016.[^key-f7bf1120002a956052a8cb0e90a4d56b]
+
+(2A)[^key-dcca39bb2dd6dc6fa767de830bd8e0ed] The detention under subsection (1) of a person to whom section 60 (limitation on detention of pregnant women) of the Immigration Act 2016 applies is subject to that section.
+
+(3) A court determining an appeal against conviction or sentence may release a person on bail[^key-da527e4a02fb6a7d6279abf95e6e36e9] from detention under subsection (1) or (2).
+
+(3A)[^key-c02a03514aa9193f4d7c4b83b224436a] The provisions of Schedule 10 to the Immigration Act 2016 that apply in relation to the grant of immigration bail by the First-tier Tribunal apply in relation to the grant of bail by the court under subsection (3).
+
+(3B) If the court grants bail to a person under subsection (3), Schedule 10 to the Immigration Act 2016 applies in relation to that person as if the person had been granted immigration bail by the First-tier Tribunal under that Schedule.
+
+(3C) A reference in any provision of, or made under, an enactment other than this section to immigration bail granted, or a condition imposed, under Schedule 10 to the Immigration Act 2016 includes bail granted by the court under subsection (3) or (as the case may be) a condition imposed by the court on the grant of such bail.
+
+(4) Provisions of the Immigration Act 1971 which apply to detention under paragraph 2(3) of Schedule 3 to that Act shall apply to detention under subsection (1) [^key-7770a9b9737a7d7cb1a8958795f77867]....
+
+(5)[^key-1384d54ad7942f4fc0d5b217312171fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Family[^key-f62555546933184f33ebbad5cf52a491]
+
+(1) Where a deportation order against a foreign criminal states that it is made in accordance with section 32(5) (“**the automatic deportation order**”) this section shall have effect in place of the words from “A deportation order” to “after the making of the deportation order against him” in section 5(3) of the Immigration Act 1971 (period during which family members may also be deported).
+
+(2) A deportation order may not be made against a person as belonging to the family of the foreign criminal after the end of the relevant period of 8 weeks.
+
+(3) In the case of a foreign criminal who has not appealed in respect of the automatic deportation order, the relevant period begins when an appeal can no longer be brought (ignoring any possibility of an appeal out of time with permission).
+
+(4) In the case of a foreign criminal who has appealed in respect of the automatic deportation order, the relevant period begins when the appeal is no longer pending (within the meaning of section 104 of the Nationality, Immigration and Asylum Act 2002 (c. 41)).
+
+### 38. Interpretation[^key-7730fe89bfd96e8ee374b4c976c0523d]
+
+(1) In section 32(2) the reference to a person who is sentenced to a period of imprisonment of at least 12 months—
+
+- (a)[^key-5e91500e65d865868f1d729183bb87ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) does not include a reference to a person who is sentenced to a period of imprisonment of at least 12 months only by virtue of being sentenced to consecutive sentences amounting in aggregate to more than 12 months,
+- (c) includes a reference to a person who is sentenced to detention, or ordered or directed to be detained, in an institution other than a prison (including, in particular, a hospital or an institution for young offenders) for at least 12 months, and
+- (d) includes a reference to a person who is sentenced to imprisonment or detention, or ordered or directed to be detained, for an indeterminate period (provided that it may last for 12 months).
+
+(2) In section 32(3)(b) the reference to a person who is sentenced to a period of imprisonment—
+
+- (a) does not include a reference to a person who receives a suspended sentence (unless a court subsequently orders that the sentence or any part of it is to take effect), and
+- (b) includes a reference to a person who is sentenced to detention, or ordered or directed to be detained, in an institution other than a prison (including, in particular, a hospital or an institution for young offenders).
+
+(3) For the purposes of section 32 a person subject to an order under section 5 of the Criminal Procedure (Insanity) Act 1964 (c. 84) (insanity, &c.) has not been convicted of an offence.
+
+(4) In sections 32 and 33—
+
+- (a) “**British citizen**” has the same meaning as in section 3(5) of the Immigration Act 1971 (c. 77) (and section 3(8) (burden of proof) shall apply),
+- (b) “**Convention rights**” has the same meaning as in the Human Rights Act 1998 (c. 42),
+- (c) “**deportation order**” means an order under section 5, and by virtue of section 3(5), of the Immigration Act 1971, and
+- (d) “**the Refugee Convention**” means the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and its Protocol.
+
+### 39. Consequential amendments[^key-d136fbc2782517e5d3f53729c4171bcf]
+
+(1) This section amends section 72(11)(b) of the Nationality, Immigration and Asylum Act 2002 (removal: serious criminal: interpretation).
+
+(2) In sub-paragraph (i) for “(unless at least two years of the sentence are not suspended)” substitute “ (unless a court subsequently orders that the sentence or any part of it is to take effect) ”.
+
+(3) After sub-paragraph (i) insert—
+
+> - (ia) does not include a reference to a person who is sentenced to a period of imprisonment of at least two years only by virtue of being sentenced to consecutive sentences which amount in aggregate to more than two years,
+
+.
+
+## Information
+
+### 40. Supply of Revenue and Customs information[^key-0dc0b61ca94c14c298208a3859c911b4]
+
+(1) Her Majesty's Revenue and Customs (HMRC) and the Crown Prosecution Service (the[^key-f54d3622f1e8355b8f5f9abd2452be44] CPS) may each supply the Secretary of State with information for use for the purpose of—
+
+- (a) administering immigration control under the Immigration Acts;
+- (b) preventing, detecting, investigating or prosecuting offences under those Acts;
+- (c) determining whether to impose, or imposing, penalties or charges under Part 2 of the Immigration and Asylum Act 1999 (c. 33) (carriers' liability);
+- (d) determining whether to impose, or imposing, penalties under section 15 of the Immigration, Asylum and Nationality Act 2006 (c. 13) (restrictions on employment);
+- (e) providing facilities, or arranging for the provision of facilities, for the accommodation of persons under section 4 of the Immigration and Asylum Act 1999;
+- (f) providing support for asylum-seekers and their dependants under Part 6 of that Act;
+- (g) determining whether an applicant for naturalisation under the British Nationality Act 1981 (c. 61) is of good character;
+- (h)[^key-305276c006d48baecaa826c0afe541b7] determining whether, for the purposes of an application referred to in section 41A of the British Nationality Act 1981, the person for whose registration the application is made is of good character;
+- (ha) determining whether, for the purposes of an application under section 1 of the Hong Kong (War Wives and Widows) Act 1996, the woman for whose registration the application is made is of good character;
+- (hb) determining whether, for the purposes of an application under section 1 of the British Nationality (Hong Kong) Act 1997 for the registration of an adult or young person within the meaning of subsection (5A) of that section, the person is of good character;
+- (i) determining whether to make an order in respect of a person under section 40 of the British Nationality Act 1981 (deprivation of citizenship);
+- (j) doing anything else in connection with the exercise of immigration and nationality functions.
+
+(2) This section applies to a document or article which comes into the possession of, or is discovered by, HMRC or the[^key-55d6c73e18c5f92f58cd22317fce16d3] CPS , or a person acting on behalf of HMRC or the CPS , as it applies to information.
+
+(3) The Secretary of State—
+
+- (a) may retain for a purpose within subsection (1) a document or article supplied by virtue of subsection (2);
+- (b) may dispose of a document or article supplied by virtue of subsection (2).
+
+(4) In subsection (1) “**immigration and nationality functions**” means functions exercisable by virtue of—
+
+- (a) the Immigration Acts,
+- (b) the British Nationality Act 1981 (c. 61),
+- (c) the Hong Kong Act 1985 (c. 15),
+- (d) the Hong Kong (War Wives and Widows) Act 1996 (c. 41), or
+- (e) the British Nationality (Hong Kong) Act 1997 (c. 20).
+
+(4A)[^key-f8596b9d95f7cea7ef0a97fa4e85f0d9] Subsections (1) and (2) are subject to subsection (4B).
+
+(4B) In relation to the CPS, this section applies to—
+
+- (a) information held by the CPS in connection with a Revenue and Customs function of the Director of Public Prosecutions;
+- (b) a document or article which comes into the possession of, or is discovered by, the CPS, or a person acting on behalf of the CPS, in the exercise of a Revenue and Customs function of the Director of Public Prosecutions.
+
+(4C) In subsection (4B) “Revenue and Customs function of the Director of Public Prosecutions” means—
+
+- (a) a function of the Director of Public Prosecutions under section 3(2)(ab), (bb) or (ee) of the Prosecution of Offences Act 1985, or
+- (b) a function of the Director of Public Prosecutions under the Proceeds of Crime Act 2002 that relates to a function of the Commissioners for Her Majesty’s Revenue and Customs or an officer of Revenue and Customs.
+
+(5) A power conferred by this section on HMRC or the[^key-f5ff0cced7186c00c95ccc6930e010b9] CPS may be exercised on behalf of HMRC or the CPS by a person who is authorised (generally or specifically) for the purpose.
+
+(5A)[^key-8b0b186efdb70e37a94e2dba149c8ee0] Nothing in this section affects any power to supply information apart from this section.
+
+(6) The following provisions (which relate to the supply of information to the Secretary of State) shall cease to have effect—
+
+- (a) section 20(1)(d) of the Immigration and Asylum Act 1999 (c. 33),
+- (b) section 130 of the Nationality, Immigration and Asylum Act 2002 (c. 41), and
+- (c) paragraphs 17 and 20 of Schedule 2 to the Commissioners for Revenue and Customs Act 2005 (c. 11).
+
+### 41. Confidentiality[^key-1561003d82cd83c2cecd3e7253da5424]
+
+(1) A person to whom relevant information is supplied (whether before or after the commencement of this section) may not disclose that information.
+
+(2) Information is relevant information if it is supplied by or on behalf of HMRC or the[^key-0e31d62a44498da2421c52e7572f8a9f] CPS under—
+
+- (a) section 20 of the Immigration and Asylum Act 1999,
+- (b) section 130 of the Nationality, Immigration and Asylum Act 2002,
+- (c) section 36 of the Immigration, Asylum and Nationality Act 2006 (c. 13) (except in so far as that section relates to information supplied to a chief officer of police), or
+- (d) section 40 of this Act.
+
+(3) But subsection (1) does not apply to a disclosure—
+
+- (a) which is made for a purpose within section 40(1),
+- (b) which is made for the purposes of civil proceedings (whether or not within the United Kingdom) relating to an immigration or nationality matter,
+- (c) which is made for the purposes of a criminal investigation or criminal proceedings (whether or not within the United Kingdom) relating to an immigration or nationality matter,
+- (d) which is made in pursuance of an order of a court,
+- (e) which is made with the consent (which may be general or specific) of HMRC or the[^key-1dccac2a0de879a737d7473efd6209db] CPS , depending on by whom or on whose behalf the information was supplied, or
+- (f) which is made with the consent of each person to whom the information relates.
+
+(4) Subsection (1) is subject to any other enactment permitting disclosure.
+
+(5) The reference in subsection (1) to a person to whom relevant information is supplied includes a reference to a person who is or was acting on behalf of that person.
+
+(6) The reference in subsection (2) to information supplied under section 40 of this Act includes a reference to documents or articles supplied by virtue of subsection (2) of that section.
+
+(7) In subsection (3) “**immigration or nationality matter**” means a matter in respect of which the Secretary of State has immigration and nationality functions (within the meaning given in section 40(4)).
+
+(8) In subsection (4) “**enactment**” does not include—
+
+- (a) an Act of the Scottish Parliament,
+- (b) an Act of the Northern Ireland Assembly, or
+- (c) an instrument made under an Act within paragraph (a) or (b).
+
+### 41A. Supply of information to UK Border Agency[^key-832b959a46ac0e973bbc926f68ff2162]
+
+(1) HMRC and the[^key-989dc1c3fa776657d1050eac02c4f5a7] CPS may each supply a person to whom this section applies with information for use for the purpose of the customs functions exercisable by that person.
+
+(2) This section applies to—
+
+- (a) a designated customs official,
+- (b) the Secretary of State by whom general customs functions are exercisable,
+- (c) the Director of Border Revenue, and
+- (d) a person acting on behalf of a person mentioned in paragraphs (a) to (c).
+
+(3) This section applies to a document or article which comes into the possession of, or is discovered by, HMRC or the[^key-2fe7e303affb9f5cb30d8d6ba303e75c] CPS , or a person acting on behalf of HMRC or the CPS , as it applies to information.
+
+(4) A person to whom this section applies—
+
+- (a) may retain for a purpose within subsection (1) a document or article supplied by virtue of subsection (3);
+- (b) may dispose of a document or article supplied by virtue of subsection (3).
+
+(4A)[^key-abbef4a14d987ea0760444e5150a0baf] Subsections (1) and (3) are subject to subsection (4B).
+
+(4B) In relation to the CPS, this section applies to—
+
+- (a) information held by the CPS in connection with a Revenue and Customs function of the Director of Public Prosecutions;
+- (b) a document or article which comes into the possession of, or is discovered by, the CPS, or a person acting on behalf of the CPS, in the exercise of a Revenue and Customs function of the Director of Public Prosecutions.
+
+(4C) In this section “Revenue and Customs function of the Director of Public Prosecutions” has the meaning given by section 40(4C).
+
+(5) A power conferred by this section on HMRC or the[^key-c267ff51b14471ff92291d8a38009f07] CPS may be exercised on behalf of HMRC or the CPS by a person who is authorised (generally or specifically) for the purpose.
+
+(6) In this section and section 41B “customs function” and “general customs function” have the meanings given by Part 1 of the Borders, Citizenship and Immigration Act 2009.
+
+(7)[^key-de2c97723addff9939ee025d13345034] Nothing in this section affects any power to supply information apart from this section.
+
+### 41B. UK Border Agency: onward disclosure
+
+(1) A person to whom information is supplied under section 41A may not disclose that information.
+
+(2) But subsection (1) does not apply to a disclosure—
+
+- (a) which is made for the purpose of a customs function, where the disclosure does not contravene any restriction imposed by the Commissioners for Her Majesty's Revenue and Customs;
+- (b) which is made for the purposes of civil proceedings (whether or not within the United Kingdom) relating to a customs function;
+- (c) which is made for the purpose of a criminal investigation or criminal proceedings (whether or not within the United Kingdom);
+- (d) which is made in pursuance of an order of a court;
+- (e) which is made with the consent (which may be general or specific) of HMRC or the[^key-f264e0923a55eb7cbae163b2dd59e691] CPS , depending on by whom or on whose behalf the information was supplied;
+- (f) which is made with the consent of each person to whom the information relates.
+
+(3) Subsection (1) is subject to any other enactment permitting disclosure.
+
+(4) The reference in subsection (1) to information supplied under section 41A includes a reference to documents or articles supplied by virtue of subsection (3) of that section.
+
+(5) The reference in that subsection to a person to whom information is supplied includes a reference to a person who is or was acting on behalf of that person.
+
+(6) In subsection (3) “ **enactment** ” does not include—
+
+- (a) an Act of the Scottish Parliament,
+- (b) an Act of the Northern Ireland Assembly, or
+- (c) an instrument made under an Act within paragraph (a) or (b).
+
+### 42. Wrongful disclosure[^key-36f8319c12b3ecfe6cc5bae37a46136e]
+
+(1) An offence is committed by a person who contravenes section 41 or 41B[^key-c13ec837b73dacae6e9dfdbacb8e947e] by disclosing information relating to a person whose identity—
+
+- (a) is specified in the disclosure, or
+- (b) can be deduced from it.
+
+(2) Subsection (1) does not apply to the disclosure of information about internal administrative arrangements of HMRC or the[^key-5536d52273216a1304490693fa242a2e] CPS (whether relating to Commissioners, officers, members of the CPS or others).
+
+(3) It is a defence for a person (P) charged with an offence under this section of disclosing information to prove that P reasonably believed—
+
+- (a) that the disclosure was lawful, or
+- (b) that the information had already and lawfully been made available to the public.
+
+(4) A person guilty of an offence under this section shall be liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
+- (b) on summary conviction, to imprisonment for a term not exceeding 12 months *(affected by repeal, see note)*[^key-0b542e4481ccb0437e376b5c5e133683] the general limit in a magistrates’ court, to a fine not exceeding the statutory maximum or to both.
+
+(5) The reference in subsection (4)(b) to 12 months *(affected by repeal, see note)*[^key-cdfc2ab231cda281e5cc984146a3ad0d] the general limit in a magistrates’ court shall be treated as a reference to six months—
+
+- (a) in the application of this section to Northern Ireland;
+- (b) in the application of this section to England and Wales, in relation to an offence under this section committed before 2 May 2022[^key-1687b12c0f4fee100273ac6544a46b1a];
+- (c) in the application of this section to Scotland, until the commencement of section 45(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6) (corresponding provision in Scotland).
+
+(6) A prosecution for an offence under this section may be instituted—
+
+- (a) in England and Wales, only with the consent of the Director of Public Prosecutions;
+- (b) in Northern Ireland, only with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+### 43. Supply of police information, etc.[^key-a11019a6c5e2befedf6e01869a5971be]
+
+In section 131 of the Nationality, Immigration and Asylum Act 2002 (c. 41) (police, etc.), for the words from “determining” to the end substitute
+
+> —
+>
+> - (a) determining whether an applicant for naturalisation under the British Nationality Act 1981 is of good character;
+> - (b) determining whether an applicant within subsection (1) of section 58 of the Immigration, Asylum and Nationality Act 2006 for registration under a provision listed in subsection (2) of that section is of good character;
+> - (c) determining whether to make an order in respect of a person under section 40 of the British Nationality Act 1981.
+
+### 43A. Requirement to state nationality[^key-fd991cafb314edc7046c7e2fa611b3cb]
+
+*Extent: E+W+N.I.*
+
+(1) An individual who is arrested for an offence must state his or her nationality if required to do so by an immigration officer or a constable in accordance with this section.
+
+(2) A requirement may be imposed on an individual under subsection (1) only if the immigration officer or constable suspects that the individual may not be a British citizen.
+
+(3) When imposing a requirement under subsection (1) the immigration officer or constable must inform the individual that an offence may be committed if the individual fails to comply with a requirement imposed under this section.
+
+(4) The immigration officer or constable must make a written record of the imposition of a requirement under subsection (1) as soon as practicable.
+
+(5) The written record is to be made in the presence of the individual where this is practicable.
+
+### 43B (Extent: E+W+N.I.). Offence of not giving nationality (Extent: E+W+N.I.)
+
+(1 (Extent: E+W+N.I.)) A person commits an offence if, without reasonable excuse, the person fails to comply with a requirement imposed in accordance with section *(Extent: E+W+N.I.)* 43A *(Extent: E+W+N.I.)*, whether by providing false or incomplete information or by providing no information. *(Extent: E+W+N.I.)*
+
+(2 (Extent: E+W+N.I.)) Information provided by a person in response to a requirement imposed in accordance with section *(Extent: E+W+N.I.)* 43A *(Extent: E+W+N.I.)* is not admissible in evidence in criminal proceedings against that person other than proceedings for an offence under this section. *(Extent: E+W+N.I.)*
+
+(3 (Extent: E+W+N.I.)) A person who is guilty of an offence under subsection *(Extent: E+W+N.I.)* (1) *(Extent: E+W+N.I.)* is liable— *(Extent: E+W+N.I.)*
+
+- (a (Extent: E+W+N.I.)) on summary conviction in England and Wales, to either or both of the following— *(Extent: E+W+N.I.)*
+  - (i (Extent: E+W+N.I.)) imprisonment for a term not exceeding 51 weeks (or 6 months if the offence was committed before the commencement of section 281(5) of the Criminal Justice Act 2003); *(Extent: E+W+N.I.)*
+  - (ii (Extent: E+W+N.I.)) a fine; *(Extent: E+W+N.I.)*
+- (b (Extent: E+W+N.I.)) on summary conviction in Northern Ireland, to either or both of the following— *(Extent: E+W+N.I.)*
+  - (i (Extent: E+W+N.I.)) imprisonment for a term not exceeding 6 months; *(Extent: E+W+N.I.)*
+  - (ii (Extent: E+W+N.I.)) a fine not exceeding level 5 on the standard scale. *(Extent: E+W+N.I.)*
+
+### 44. Search for evidence of nationality[^key-a5dee992e3d8fddcc662dee612abc76f]
+
+(1) This section applies where an individual has been arrested on suspicion of the commission of an offence and an immigration officer or a constable suspects—
+
+- (a) that the individual may not be a British citizen, and
+- (b) that nationality documents relating to the individual may be found on—
+  - (i) premises occupied or controlled by the individual,
+  - (ii) premises on which the individual was arrested, or
+  - (iii) premises on which the individual was, immediately before being arrested.
+
+(2) The immigration officer or constable may enter and search the premises for the purpose of finding those documents.
+
+(3) The power of search may be exercised only with the written authority of a senior officer; and for that purpose—
+
+- (a) “**senior officer**” means—
+  - (i) in relation to an immigration officer, an immigration officer of at least the rank of chief immigration officer, and
+  - (ii) in relation to a constable, a constable of at least the rank of inspector, and
+- (b) a senior officer who gives authority must arrange for a written record to be made of—
+  - (i) the grounds for the suspicions in reliance on which the power of search is to be exercised, and
+  - (ii) the nature of the documents sought.
+
+(4) The power of search may not be exercised where the individual has been released without being charged with an offence.
+
+(5) In relation to an individual “**nationality document**” means a document showing—
+
+- (a) the individual's identity, nationality or citizenship,
+- (b) the place from which the individual travelled to the United Kingdom, or
+- (c) a place to which the individual is proposing to go from the United Kingdom.
+
+### 45. Search for evidence of nationality: other premises[^key-5bca8839478cb85f24b812fa1371d476]
+
+(1) This section applies where an individual—
+
+- (a) has been arrested on suspicion of the commission of an offence, and
+- (b) has not been released without being charged with an offence.
+
+(2) If, on an application made by an immigration officer or a constable, a justice of the peace is satisfied that there are reasonable grounds for believing that—
+
+- (a) the individual may not be a British citizen,
+- (b) nationality documents relating to the individual may be found on premises mentioned in subsection (2A)[^key-eafe6824c0ebfe215c7b1f8192b710ee] ,
+- (c) the documents would not be exempt from seizure under section 46(2), and
+- (d) any of the conditions in subsection (3) below applies in relation to each set of premises specified in the application,[^key-23ca423b97652cecb6286ea0dbc8c26b]
+
+the justice of the peace may issue a warrant authorising an immigration officer or constable to enter and search the premises.
+
+(2A)[^key-230dbba470f943d4399e7cf7c95e74d6] The premises referred to in subsection (2)(b) above are—
+
+- (a) one or more sets of premises specified in the application, or
+- (b) subject to subsection (3A), any premises occupied or controlled by a person specified in the application, including such sets of premises as are so specified (in which case the application is for an “all premises warrant”).
+
+(2B) If the application is for an all premises warrant, the justice of the peace must also be satisfied—
+
+- (a) that there are reasonable grounds for believing that it is necessary to search premises occupied or controlled by the person in question which are not specified in the application in order to find the nationality documents, and
+- (b) that it is not reasonably practicable to specify in the application all the premises which the person occupies or controls and which might need to be searched.
+
+(2C) Subject to subsection (3A), the warrant may authorise entry to and search of premises on more than one occasion if, on the application, the justice of the peace is satisfied that it is necessary to authorise multiple entries in order to achieve the purpose for which the justice issues the warrant.
+
+(2D) If it authorises multiple entries, the number of entries authorised may be unlimited, or limited to a maximum.
+
+(3) The conditions mentioned in subsection (2)(d)[^key-178b86694ae99467b54874e88e206ebf] are that—
+
+- (a) it is not practicable to communicate with any person entitled to grant entry to the premises;
+- (b) it is practicable to communicate with a person entitled to grant entry to the premises but it is not practicable to communicate with any person entitled to grant access to the nationality documents;
+- (c) entry to the premises will not be granted unless a warrant is produced;
+- (d) the purpose of a search may be frustrated or seriously prejudiced unless an immigration officer or constable arriving at the premises can secure immediate entry.
+
+(3A)[^key-a1a318fa647595c008946c68ed14181b] A justice of the peace in Scotland may not issue—
+
+- (a) an all premises warrant under this section, or
+- (b) a warrant under this section authorising multiple entries.
+
+(4) Sections 28J and 28K of the Immigration Act 1971 (c. 77) (warrants: application and execution) apply, with any necessary modifications, to warrants under this section.
+
+(5) In the application of this section to Scotland a reference to a justice of the peace shall be treated as a reference to the sheriff or a justice of the peace.
+
+(6)[^key-608f9482f84e17e00ea6a97f2a904004] In the application of this section to Northern Ireland a reference to a justice of the peace is to be treated as a reference to a lay magistrate.
+
+### 46. Seizure of nationality documents[^key-ac85dfb0204bdba3b82c53edd0a631e1]
+
+(1) An immigration officer or constable searching premises under section 44 or 45 may seize a document which the officer or constable thinks is a nationality document in relation to the arrested individual.
+
+(2) Subsection (1) does not apply to a document which—
+
+- (a) in relation to England and Wales or Northern Ireland, is subject to legal professional privilege, or
+- (b) in relation to Scotland, is an item subject to legal privilege within the meaning of section 412 of the Proceeds of Crime Act 2002 (c. 29).
+
+(3) An immigration officer or constable may retain a document seized under subsection (1) while the officer or constable suspects that—
+
+- (a) the individual to whom the document relates may be liable to removal from the United Kingdom in accordance with a provision of the Immigration Acts, and
+- (b) retention of the document may facilitate the individual's removal.
+
+(4) Section 28I of the Immigration Act 1971 (c. 77) (seized material: access and copying) shall have effect in relation to a document seized and retained by an immigration officer.
+
+(5) Section 21 of the Police and Criminal Evidence Act 1984 (c. 60) or Article 23 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (seized material: access and copying) shall have effect in relation to a document seized and retained by a constable in England and Wales or Northern Ireland.
+
+### 46A. Requirement to produce nationality document[^key-5aba73d679d2b10b027ee4137cdf5f55]
+
+(1) This section applies where—
+
+- (a) an individual has been arrested on suspicion of the commission of an offence, and
+- (b) the individual is to be released after arrest (whether or not on bail)—
+  - (i) before a decision is taken on whether the individual should be charged with an offence, or
+  - (ii) after being charged with an offence.
+
+(2) Before the individual is released an immigration officer or a constable may give the individual a notice requiring the production of a nationality document not later than 72 hours after the individual is released.
+
+(3) A notice may be given under subsection (2) only if the immigration officer or constable giving it suspects that the individual may not be a British citizen.
+
+(4) A notice under subsection (2) must be given in writing.
+
+(5) The notice must include statements that—
+
+- (a) the individual to whom it is given must produce the nationality document not later than 72 hours after the individual is released, and
+- (b) an offence may be committed if an individual fails to comply with a notice given under this section.
+
+(6) The notice must also set out—
+
+- (a) the person to whom the document must be produced, and
+- (b) the means by which the document must be produced.
+
+(7) In this section, and in sections 46B and 46C—
+
+- “nationality document” means a passport relating to the individual or, if there is no passport relating to the individual, one or more documents that enable the individual’s nationality or citizenship to be established;
+- “passport” means—
+  - (a) a United Kingdom passport (within the meaning of the Immigration Act 1971),
+  - (b) a passport issued by or on behalf of the authorities of a country or territory outside the United Kingdom, or by or on behalf of an international organisation, or
+  - (c) a document that can be used (in some or all circumstances) instead of a passport.
+
+### 46B. Retention of nationality document etc
+
+(1) An immigration officer or constable may retain a nationality document produced in response to a notice under section 46A(2) while the immigration officer or constable suspects that—
+
+- (a) the individual to whom the document relates may be liable to removal from the United Kingdom in accordance with a provision of the Immigration Acts, and
+- (b) retention of the document may facilitate the individual’s removal.
+
+(2) Section 28I of the Immigration Act 1971 (seized material: access and copying) has effect in relation to a nationality document produced by an individual in response to a notice under section 46A(2) and retained by an immigration officer as if the nationality document had been seized when the individual had custody or control of it.
+
+(3) Section 21 of the Police and Criminal Evidence Act 1984 or Article 23 of the Police and Criminal Evidence (Northern Ireland) Order 1989 ([S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341)) (seized material: access and copying) has effect in relation to a nationality document produced by an individual in response to a notice under section 46A(2) and retained by a constable in England and Wales or Northern Ireland as if the nationality document had been seized when the individual had custody or control of it.
+
+### 46C. Offence of failing to produce nationality document
+
+(1) A person commits an offence if, without reasonable excuse, the person fails to comply with a notice given in accordance with section 46A.
+
+(2) The fact that a person deliberately destroyed or disposed of a nationality document is not a reasonable excuse for the purposes of subsection (1) unless the destruction or disposal was—
+
+- (a) for a reasonable cause, or
+- (b) beyond the control of the person charged with the offence.
+
+(3) In subsection (2)(a) “reasonable cause” does not include the purpose of—
+
+- (a) delaying the handling or resolution of a claim or application or the taking of a decision,
+- (b) increasing the chances of success of a claim or application, or
+- (c) complying with instructions given by a person who offers advice about, or facilitates, immigration into the United Kingdom, unless in the circumstances of the case it is unreasonable to expect non-compliance with the instructions or advice.
+
+(4) A person who is guilty of an offence under subsection (1) is liable—
+
+- (a) on summary conviction in England and Wales, to either or both of the following—
+  - (i) imprisonment for a term not exceeding 51 weeks (or 6 months if the offence was committed before the commencement of section 281(5) of the Criminal Justice Act 2003);
+  - (ii) a fine;
+- (b) on summary conviction in Scotland, to either or both of the following—
+  - (i) imprisonment for a term not exceeding 12 months;
+  - (ii) a fine not exceeding level 5 on the standard scale;
+- (c) on summary conviction in Northern Ireland, to either or both of the following—
+  - (i) imprisonment for a term not exceeding 6 months;
+  - (ii) a fine not exceeding level 5 on the standard scale.
+
+### 47. Police civilians[^key-0f11bc05a74c24787c44fe71bda4d1ef]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Border and Immigration Inspectorate
+
+### 48. Establishment[^key-ec66f596994304b37f1d2a99016a295b]
+
+(1)[^key-c6eb71b68c21e512fb25743555a84838] The Secretary of State shall appoint a person as Chief Inspector of the UK Border Agency[^key-bfa01338c62086c9587cfc45737f7969].
+
+(1A)[^key-c88428b4b9c8af43fa65a5f64454e947] The Chief Inspector shall monitor and report on the efficiency and effectiveness of the performance of functions by the following—
+
+- (a) designated customs officials, and officials of the Secretary of State exercising customs functions;
+- (b) immigration officers, and officials of the Secretary of State exercising functions relating to immigration, asylum or nationality;
+- (c) the Secretary of State in so far as the Secretary of State has general customs functions;
+- (d) the Secretary of State in so far as the Secretary of State has functions relating to immigration, asylum or nationality;
+- (e) the Director of Border Revenue and any person exercising functions of the Director.
+
+(1B) The Chief Inspector shall monitor and report on the efficiency and effectiveness of the services provided by a person acting pursuant to arrangements relating to the discharge of a function within subsection (1A).
+
+(2) [^key-ed9b93b168047249ae260ec19771d14b]... In particular, the Chief Inspector shall consider and make recommendations about—
+
+- (a) consistency of approach among the persons listed in subsections (1A) and (1B) (the “listed persons”)[^key-63a4124f6e4f31a0463f4fd4764f36be],
+- (b) the practice and performance of the listed persons[^key-e3f520189f48179891a48e6cf439bcdf] compared to other persons doing similar things,
+- (c) practice and procedure in making decisions,
+- (d) the treatment of claimants and applicants,
+- (e) certification under section 94 of the Nationality, Immigration and Asylum Act 2002 (c. 41) (unfounded claim),
+- (f) compliance with law about discrimination in the exercise of functions, including reliance on section 19D of the Race Relations Act 1976 (c. 74) *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-080d09cd85e4f55edf591a17fff86e39] paragraph 17 of Schedule 3 to the Equality Act 2010 *(Extent: E+W+S)* (exception for immigration functions),
+- (g) practice and procedure in relation to the exercise of enforcement powers (including powers of arrest, entry, search and seizure),
+- (ga)[^key-197cc2b3f1d88c85baf1a1cff9e5b38b] practice and procedure in relation to the prevention, detection and investigation of offences,
+- (gb) practice and procedure in relation to the conduct of criminal proceedings,
+- (gc) whether customs functions have been appropriately exercised by the Secretary of State and the Director of Border Revenue,
+- (h) the provision of information,
+- (i) the handling of complaints, and
+- (j) the content of information about conditions in countries outside the United Kingdom which the Secretary of State compiles and makes available, for purposes connected with immigration and asylum, to immigration officers and other officials.
+
+(2A)[^key-7f2cb154c0686f2e6e072f1ca8d3233f] Unless directed to do so by the Secretary of State, the Chief Inspector shall not monitor and report on the exercise by the listed persons of—
+
+- (a) functions at removal centres and short term holding facilities and in pre-departure accommodation[^key-4201ef35e72ffa3ac5a183eb1044af94] , and under escort arrangements, in so far as Her Majesty's Chief Inspector of Prisons has functions under section 5A of the Prison Act 1952 in relation to such functions, and
+- (b) functions at detention facilities, in so far as Her Majesty's Inspectors of Constabulary, the Scottish inspectors or the Northern Ireland inspectors have functions by virtue of section 29 of the Borders, Citizenship and Immigration Act 2009 in relation to such functions.
+
+(3)[^key-ada599e088bfff3e753d67593c9475d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^key-d48cad63790de307c3c5709053b83cb8] In this section “ **customs function** ”, “ **designated customs official** ” and “ **general customs function** ” have the meanings given by Part 1 of the Borders, Citizenship and Immigration Act 2009.
+
+(4) The Chief Inspector shall not aim to investigate individual cases (although this subsection does not prevent the Chief Inspector from considering or drawing conclusions about an individual case for the purpose of, or in the context of, considering a general issue).
+
+### 49. Chief Inspector: supplemental[^key-9d25c9323bb549ef644d9bb382414c49]
+
+(1) The Secretary of State shall pay remuneration and allowances to the Chief Inspector.
+
+(2) The Secretary of State—
+
+- (a) shall before the beginning of each financial year specify a maximum sum which the Chief Inspector may spend on functions for that year,
+- (b) may permit that to be exceeded for a specified purpose, and
+- (c) shall defray the Chief Inspector's expenditure for each financial year subject to paragraphs (a) and (b).
+
+(3) The Chief Inspector shall hold and vacate office in accordance with terms of appointment (which may include provision about retirement, resignation or dismissal).
+
+(4) The Chief Inspector may appoint staff.
+
+(5) A person who is employed by or in any of the following may not be appointed as Chief Inspector—
+
+- (a) a government department,
+- (b) the Scottish Administration,
+- (c) the National Assembly for Wales, and
+- (d) a department in Northern Ireland.
+
+### 50. Reports[^key-6b0b7caa68843cbc77b1a513cc179eeb]
+
+(1) The Chief Inspector shall report in writing to the Secretary of State—
+
+- (a) once each calendar year, in relation to the performance of the functions under section 48 generally, and
+- (b) at other times as requested by the Secretary of State in relation to specified matters.
+
+(2) The Secretary of State shall lay before Parliament a copy of any report received under subsection (1).
+
+(3) But a copy may omit material if the Secretary of State thinks that its publication—
+
+- (a) is undesirable for reasons of national security, or
+- (b) might jeopardise an individual's safety.
+
+### 51. Plans[^key-a6c40724561c0e2868ff431e26c02e97][^key-8cfe93f071cad341a9b86891ba6a545d]
+
+(1) The Chief Inspector shall prepare plans describing the objectives and terms of reference of proposed inspections.
+
+(2) Plans shall be prepared—
+
+- (a) at prescribed times and in respect of prescribed periods, and
+- (b) at such other times, and in respect of such other periods, as the Chief Inspector thinks appropriate.
+
+(3) A plan must—
+
+- (a) be in the prescribed form, and
+- (b) contain the prescribed information.
+
+(4) In preparing a plan the Chief Inspector shall consult—
+
+- (a) the Secretary of State, and
+- (b) prescribed persons.
+
+(5) As soon as is reasonably practicable after preparing a plan the Chief Inspector shall send a copy to—
+
+- (a) the Secretary of State, and
+- (b) each prescribed person.
+
+(6) The Chief Inspector and a prescribed person may by agreement disapply a requirement—
+
+- (a) to consult the person, or
+- (b) to send a copy of a plan to the person.
+
+(7) Nothing in this section prevents the Chief Inspector from doing anything not mentioned in a plan.
+
+### 52. Relationship with other bodies: general[^key-043ce73b2e2ae554bc0092001f110d28][^key-afecba01162daa25f3eb1bb4aacbdc6e]
+
+(1) The Chief Inspector shall cooperate with prescribed persons in so far as the Chief Inspector thinks it consistent with the efficient and effective performance of the functions under section 48.
+
+(2) The Chief Inspector may act jointly with prescribed persons where the Chief Inspector thinks it in the interests of the efficient and effective performance of the functions under section 48.
+
+(3) The Chief Inspector may assist a prescribed person.
+
+(4) The Chief Inspector may delegate a specified aspect of the functions under section 48 to a prescribed person.
+
+### 53. Relationship with other bodies: non-interference notices[^key-3b364ff5d4deb9e81384ab3498e3ac73][^key-55756309d61731260ccc8fd6ff4e6c2c]
+
+(1) Subsection (2) applies if the Chief Inspector believes that—
+
+- (a) a prescribed person proposes to inspect any aspect of the work of a person listed in section 48(1A) or (1B)[^key-e507f819dfe325783e5c4212338744f5], and
+- (b) the inspection may impose an unreasonable burden on such a person[^key-e663cc89657f7f91105c58b379d1ebd2].
+
+(2) The Chief Inspector may give the prescribed person a notice prohibiting a specified inspection.
+
+(3) The prescribed person shall comply with the notice, unless the Secretary of State cancels it on the grounds that the inspection would not impose an unreasonable burden on a person listed in section 48(1A) or (1B)[^key-7d640bfea7a6578444c2080220585b59].
+
+(4) A notice must—
+
+- (a) be in the prescribed form, and
+- (b) contain the prescribed information.
+
+(5) The Secretary of State may by order make provision about—
+
+- (a) the timing of notices;
+- (b) the publication of notices;
+- (c) the revision or withdrawal of notices.
+
+### 54. Abolition of other bodies[^key-1dca0ac4916605f32519b270a5a02177]
+
+The following shall cease to have effect—
+
+- (a) section 19E of the Race Relations Act 1976 (c. 74) (monitor of immigration exception),
+- (b) section 34 of the Nationality, Immigration and Asylum Act 2002 (c. 41) (Monitor of Accommodation Centres),
+- (c) section 111 of that Act (monitor of certification of claims as unfounded), and
+- (d) section 142 of that Act (Advisory Panel on Country Information).
+
+### 55. Prescribed matters[^key-70856c906f7f267e64c11b61275d1f4c]
+
+(1) In sections 48 to 53 “**prescribed**” means prescribed by order of the Secretary of State.
+
+(2) An order under any of those sections—
+
+- (a) may make provision generally or only for specified purposes,
+- (b) may make different provision for different purposes, and
+- (c) may include incidental or transitional provision.
+
+(3) An order under any of those sections prescribing a person may specify—
+
+- (a) one or more persons, or
+- (b) a class of person.
+
+(4) An order under any of those sections—
+
+- (a) shall be made by statutory instrument, and
+- (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 56. Senior President of Tribunals[^key-599276b6f3532028bc57210166ec3980]
+
+(1)[^key-82cea5cf10af4f8a9a1a3758786abcb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In exercising the function under section 43 of the Tribunals, Courts and Enforcement Act 2007 (c. 15) the Senior President of Tribunals shall have regard to—
+
+- (a) the functions of the Chief Inspector of the UK Border Agency[^key-be744d8bafd61ff8902126f92ae8fcb4], and
+- (b) in particular, the Secretary of State's power to request the Chief Inspector to report about specified matters.
+
+### 56A. No rehabilitation for certain immigration or nationality purposes[^key-f4096b304d7f5d028c73ba4d1114c848]
+
+(1) Section 4(1), (2) and (3) of the Rehabilitation of Offenders Act 1974 (effect of rehabilitation) do not apply—
+
+- (a) in relation to any proceedings in respect of a relevant immigration decision or a relevant nationality decision, or
+- (b) otherwise for the purposes of, or in connection with, any such decision.
+
+(2) In this section—
+
+- “**immigration officer**” means a person appointed by the Secretary of State as an immigration officer under paragraph 1 of Schedule 2 to the Immigration Act 1971,
+- “**relevant immigration decision**” means any decision, or proposed decision, of the Secretary of State or an immigration officer under or by virtue of the Immigration Acts, or rules made under section 3 of the Immigration Act 1971 (immigration rules), in relation to the entitlement of a person to enter or remain in the United Kingdom (including, in particular, the removal of a person from the United Kingdom, whether by deportation or otherwise),
+- “**relevant nationality decision**” means any decision, or proposed decision, of the Secretary of State under or by virtue of—
+  - (a) the British Nationality Act 1981,
+  - (b) the British Nationality (Hong Kong) Act 1990, or
+  - (c) the Hong Kong (War Wives and Widows) Act 1996,
+
+  in relation to the good character of a person.
+
+(3)[^key-d5a7e36b5c84cf2954336783e25d2996] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## General
+
+### 57. Money
+
+**Not yet in force.**
+
+The following shall be paid out of money provided by Parliament—
+
+- (a) any expenditure of a Minister of the Crown in consequence of this Act, and
+- (b) any increase attributable to this Act in sums payable out of money provided by Parliament under another enactment.
+
+### 58. Repeals
+
+**Not yet in force.**
+
+The enactments listed in the Schedule are repealed to the extent specified.
+
+### 59. Commencement
+
+(1) Section 17 comes into force on the day on which this Act is passed.
+
+(2) The other preceding provisions of this Act shall come into force in accordance with provision made by the Secretary of State by order.
+
+(3) An order—
+
+- (a) may make provision generally or only for specified purposes,
+- (b) may make different provision for different purposes, and
+- (c) may include incidental, consequential or transitional provision.
+
+(4) In particular, transitional provision—
+
+- (a) in the case of an order commencing section 16, may permit the adding of a condition to leave given before the passing of this Act;
+- (b) in the case of an order commencing section 25, may permit an order to be made in proceedings instituted before the passing of this Act;
+- (c) in the case of an order commencing section 26, may permit an order or regulations to have effect in relation to property which came into the possession of an immigration officer or the Secretary of State before the passing of this Act;
+- (d) in the case of an order commencing section 32—
+  - (i) may provide for the section to apply to persons convicted before the passing of this Act who are in custody at the time of commencement or whose sentences are suspended at the time of commencement;
+  - (ii) may modify the application of the section in relation to those persons so as to disapply, or apply only to a specified extent, Condition 2.
+
+(5) An order shall be made by statutory instrument.
+
+### 60. Extent
+
+(1) Sections [^key-14dd45996c985be30fe0a25a0f7bf5fa]... 25 and 31(1) and (2) extend to—
+
+- (a) England and Wales, and
+- (b) Northern Ireland.
+
+(2) Other provisions of this Act extend (subject to subsection (3)) to—
+
+- (a) England and Wales,
+- (b) Scotland, and
+- (c) Northern Ireland.
+
+(3) A provision of this Act which amends another Act shall (subject to subsection (1)) have the same extent as the relevant part of the amended Act (ignoring extent by virtue of an Order in Council).
+
+(4)[^key-68ef51e48cadf6c692da630b86fc37d9][^key-1e49386b90dcd68ceecec9a5340fe458][^key-80cec33998e9e1bcadf7de4048dff3c8][^key-3863fb4c583f796ac35eb47e08978c6d] Her Majesty may by Order in Council direct that a provision of this Act is to extend, with or without modification or adaptation, to—
+
+- (a) any of the Channel Islands;
+- (b) the Isle of Man.
+
+### 61. Citation[^key-b226f67c2bc3f7d06c78ec4126f7e92a]
+
+(1)[^key-b58325620c7b3e6fd9bf9c5b6905bd4a] This Act may be cited as the UK Borders Act 2007.
+
+(2) A reference (in any enactment, including one passed or made before this Act) to “the Immigration Acts” is to—
+
+- (a) the Immigration Act 1971 (c. 77),
+- (b) the Immigration Act 1988 (c. 14),
+- (c) the Asylum and Immigration Appeals Act 1993 (c. 23),
+- (d) the Asylum and Immigration Act 1996 (c. 49),
+- (e) the Immigration and Asylum Act 1999 (c. 33),
+- (f) the Nationality, Immigration and Asylum Act 2002 (c. 41),
+- (g) the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19),
+- (h) the Immigration, Asylum and Nationality Act 2006 (c. 13), [^key-0f01df5104666d4ae2787492945191bc]...
+- (i) this Act ,[^key-036e425e031f838129c645e93f0c3aa5] [^key-dfd381f903144556a8b6983b4dc1feaa]...
+- (j) the Immigration Act 2014 ,[^key-0d64db86b6abd520339150413a09ce64] [^key-a20ade89ace0e1e4feb2d1ac8e375e85]...
+- (k) the Immigration Act 2016 ,[^key-61cedb006069bba9e98809590fa70d37][^key-99a556d585d57d8055cb46ca44a8aa7b]...
+- (l) Part 1 of the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (and Part 3 so far as relating to that Part). ,[^key-9a1f0cf8a33c5838f93019f2aaeabe30] [^key-6711af06d62b33029cd60e915aeb8657]...
+- (m) the Nationality and Borders Act 2022 ,[^key-91b4e293ce345484416f52e7b00333ae] [^key-1a681bc9afe071bcc962d346ad455271]...
+- (n) the Illegal Migration Act 2023 , and[^key-cedefbed6894a1dd2d15fe6a7f7fe321]
+- (p)[^key-a3f426ea2c55f27162214b84ad959939] the Border Security, Asylum and Immigration Act 2025, other than sections 30 to 36, Part 3 and section 60.
+- (o)[^key-2e0491dd9914385b679249ee1c1c5ecd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Section 64(2) of the Immigration, Asylum and Nationality Act 2006 (meaning of “Immigration Acts”) shall cease to have effect.
+
+(4) In the definition of “The Immigration Acts” in Schedule 1 to the Interpretation Act 1978 (c. 30) (defined expressions) for “section 64 of the Immigration, Asylum and Nationality Act 2006” substitute “ section 61 of the UK Borders Act 2007 ”.
+
+## SCHEDULE — Repeals[^key-5cb3cd3d9cc3ed3643ae012c22a7f0c1][^key-ed9e9cbd8393af9b5430cb8633c48889]
+
+Section 58
+
+| *Short title and chapter* | *Extent of repeal* |
+| --- | --- |
+| Immigration Act 1971 (c. 77) | After section 3(1)(c)(ii), the word “and”. |
+| Race Relations Act 1976 (c. 74) | Section 19E. |
+| Immigration and Asylum Act 1999 (c. 33) | Section 20(1)(d). |
+| Nationality, Immigration and Asylum Act 2002 (c. 41) | Section 34.<br>Section 111.<br>Section 130.<br>Section 142. |
+| Commissioners for Revenue and Customs Act 2005 (c. 11) | Paragraphs 17 and 20 of Schedule 2. |
+| Immigration, Asylum and Nationality Act 2006 (c. 13) | Section 64(2). |
+| Tribunals, Courts and Enforcement Act 2007 (c. 15) | In section 43(3) the word “and” after paragraph (c). |
+
+## Annotations
+
+[^key-f67973a9d84486659ff5e8db1691d571]: Modification: Act applied (with modifications) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [art. 7](https://www.legislation.gov.uk/uksi/1993/1813/article/7), [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/6) and [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4) (as amended (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [4](https://www.legislation.gov.uk/uksi/2015/856/article/4), [6](https://www.legislation.gov.uk/uksi/2015/856/article/6))
+
+[^key-b93803a211fa41c48a67759476a0747e]: Modification: Act extended in part (Isle of Man) (with modifications) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 21A](https://www.legislation.gov.uk/uksi/2008/680/article/21A), [Sch. 9ZA](https://www.legislation.gov.uk/uksi/2008/680/schedule/9ZA) (as inserted (14.3.2019) by [The Immigration (Isle of Man) (Amendment) Order 2019 (S.I. 2019/562)](https://www.legislation.gov.uk/uksi/2019/562), [arts. 1](https://www.legislation.gov.uk/uksi/2019/562/article/1), [8](https://www.legislation.gov.uk/uksi/2019/562/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/562/schedule/1)) (as amended (31.12.2020) by [The Immigration (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1214)](https://www.legislation.gov.uk/uksi/2020/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2020/1214/article/4), [11](https://www.legislation.gov.uk/uksi/2020/1214/article/11))
+
+[^key-07ce47992d781263f23d28a27f4d267d]: Modification: Act extended (with modifications) (7.7.2021) by [S.I. 2003/2818](https://www.legislation.gov.uk/uksi/2003/2818), [art. 11(1)](https://www.legislation.gov.uk/uksi/2003/2818/article/11/1), [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/2003/2818/schedule/2/paragraph/4A) (as inserted by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) (No. 2) Order 2021 (S.I. 2021/784)](https://www.legislation.gov.uk/uksi/2021/784), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/784/article/1/2), [3](https://www.legislation.gov.uk/uksi/2021/784/article/3))
+
+[^key-a8ce88c6c228678d24127ecb4d650463]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2007/30) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [art. 10](https://www.legislation.gov.uk/uksi/2021/1281/article/10), [Sch. 8](https://www.legislation.gov.uk/uksi/2021/1281/schedule/8), [Sch. 8A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/8A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
+
+[^key-c8c67b7f33798c0f6814d171182bdeac]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2007/30): power to amend conferred (28.4.2022 for specified purposes) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/1)[(2)(j)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/j), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i)
+
+[^key-f3c303c0b9001ff129a295c058d0accc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2007/30): power to amend conferred (28.6.2022 in so far as not already in force, 28.4.2022 for specified purposes) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(j)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/j), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+
+[^key-fb89a352c99c415b15c46b6809d6e76d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2007/30) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+
+[^key-020487fa7afbbac94701f7a6b9719723]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2007/30/section/1) in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/99/article/2/a)
+
+[^key-056363ca4449dccb759340bb3d75f885]: Commencement: S. 2 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/99/article/2/a)
+
+[^key-66339ad9ac700c4f30c604a7275f071a]: Modification: S. 2 modified by S.I. 1993/1813, art. 7, Sch. 4 para. 6(1) (as amended (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [4](https://www.legislation.gov.uk/uksi/2015/856/article/4))
+
+[^M_C_c32a49c3-a64e-4b53-fe16-8a1505f25249]: Modification: S. 2 modified by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) (as amended (coming into force on a date to be notified in the Gazette in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2020/915/regulation/11)
+
+[^M_C_5cb57078-6b92-4244-8ade-60d57aaf2d28]: Modification: S. 2 modified (30.9.2020 immediately after the entry into force of [S.I. 2020/915](https://www.legislation.gov.uk/uksi/2020/915), [art. 5](https://www.legislation.gov.uk/uksi/2020/915/article/5)) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/916/regulation/6)
+
+[^key-234fbffc6a774509074236568b5d5a3b]: Textual amendment: [S. 2(1)(aa)](https://www.legislation.gov.uk/ukpga/2007/30/section/2/1/aa) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/28); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+
+[^key-c46bc9649a24fff5f0dfdcb3e4070dcd]: Textual amendment: S. 2(1A) inserted (27.10.2014) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 52(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/52/1), [58(3)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/3/b); [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/b)
+
+[^key-0b9c9303394593fd894618b7420d6f20]: Textual amendment: Words in s. 2(1A) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 10(8)](https://www.legislation.gov.uk/ukpga/2015/6/section/10/8), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+
+[^key-bc31f3926b541623e132c7c1e1c54bcc]: Textual amendment: [S. 2(1A)(aa)](https://www.legislation.gov.uk/ukpga/2007/30/section/2/1A/aa) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/28); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+
+[^key-5b1123352835082a138f3e2aefcb1f48]: Commencement: S. 3 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/99/article/2/a)
+
+[^key-a86bd56ec4fb071ac53a7958bc215e84]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/ukpga/2007/30/section/3/4A) inserted (27.10.2014) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/52/2), [58(3)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/3/b); [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/b)
+
+[^key-236a22ee888c02535dcdbc660829cbd0]: Commencement: S. 4 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/99/article/2/a)
+
+[^key-07ce554f1a8b292de786792b75534728]: Modification: S. 4 modified by S.I. 1993/1813, art. 7, Sch. 4 para. 6(2) (as amended (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [4](https://www.legislation.gov.uk/uksi/2015/856/article/4))
+
+[^M_C_e60f14d3-dc52-4b89-b8d6-8104635a02fa]: Modification: S. 4 modified by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) (as amended (coming into force on a date to be notified in the Gazette in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/915/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2020/915/regulation/11)
+
+[^M_C_8e06e71f-821e-45a2-f2e1-bce77661aef2]: Modification: S. 4 modified (30.9.2020 immediately after the entry into force of [S.I. 2020/915](https://www.legislation.gov.uk/uksi/2020/915), [art. 5](https://www.legislation.gov.uk/uksi/2020/915/article/5)) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/916/regulation/6)
+
+[^key-a91ecd37881576e970c2dc6ffb84e23c]: Commencement: S. 5 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/99/article/2/b)
+
+[^key-448073210d4e248e42d90af700358bdc]: Modification: Ss. 5-15 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619)](https://www.legislation.gov.uk/uksi/2018/619), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/619/article/1/1), [2](https://www.legislation.gov.uk/uksi/2018/619/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/619/schedule/1)
+
+[^key-b85428d9839b1098b234f2113f3e2413]: Modification: S. 5 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-b5993e5b94f3c3f0b32a61e1514f4c42]: Textual amendment: Words in s. 5(6) omitted (21.1.2011) by virtue of [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/19)
+
+[^key-7e41b8c0db269ec61f83ebae8754b1df]: Commencement: S. 6 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/99/article/2/b)
+
+[^key-9145a8315e6f2bb399d104cad2dd1a4a]: Modification: S. 6 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-13c6890541cfc22a806dfb43bbd7c542]: Commencement: S. 7 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/99/article/2/b)
+
+[^key-c4b6041fe9d94e502831acd8ca6a97c9]: Modification: S. 7 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-b212bba4a3a2506157cb63cd3289d099]: Textual amendment: S. 7(2A) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 11](https://www.legislation.gov.uk/ukpga/2014/22/section/11), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(j)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/j)
+
+[^key-4d54bb4140ca8a8b914356c2b17e42bd]: Modification: S. 8 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-bc5bd61fb3496a08741478bd22a635b0]: Textual amendment: S. 8 substituted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/14/1), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(m)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/m)
+
+[^key-a79fa525cd0bb21ac23273f650334fdd]: Modification: S. 8 applied by 1981 c. 61, s. 41(IZC) (as inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/10/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/i))
+
+[^key-aa3e31097c4d19b39e39d7c0eb3765d4]: Modification: S. 8 applied by 1999 c. 33, s. 144A (as inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2014/22/section/14/2), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(m)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/m))
+
+[^key-94aec2f5dae341a53b426ade64b5000b]: Modification: S. 8 applied by 2002 c. 41, s. 126(8A) (as inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/14/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(m)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/m))
+
+[^key-4733202b985a2ebc0f6ee826cf206d3c]: Commencement: S. 9 in force at 25.11.2008 by [S.I. 2008/2822](https://www.legislation.gov.uk/uksi/2008/2822), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2822/article/2/a)
+
+[^key-5483a98ff0354c48427e1d2a2907ec12]: Modification: S. 9 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-7a220fdbb8aa55e8cbe325000afe5c4d]: Commencement: S. 10 in force at 31.1.2008 for specified purposes by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/99/article/2/c)
+
+[^key-c6a3d979b98ab16b86603897b4c750f0]: Commencement: S. 10 in force at 25.11.2008 in so far as not already in force by [S.I. 2008/2822](https://www.legislation.gov.uk/uksi/2008/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/2822/article/2/b)
+
+[^key-5f8a6bdc2862ade2180205c13aa61425]: Modification: S. 10 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-0ab86dbbab96164452bcc51be2e9cf1a]: Commencement: S. 11 in force at 31.1.2008 for specified purposes by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/99/article/2/d)
+
+[^key-de8afc6d6a8c412b416dccfb371821aa]: Commencement: S. 11 in force at 25.11.2008 in so far as not already in force by [S.I. 2008/2822](https://www.legislation.gov.uk/uksi/2008/2822), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2822/article/2/c)
+
+[^key-bdaabefd72b3a58a0b6f7918ae1429b8]: Modification: S. 11 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-eebe9b39cae3db461a0fd567bb64fb3c]: Textual amendment: Words in s. 11(1)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 138](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/138); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-21af79f4e645bd40aed4586b6c53b6e5]: Commencement: S. 12 in force at 25.11.2008 by [S.I. 2008/2822](https://www.legislation.gov.uk/uksi/2008/2822), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2822/article/2/d)
+
+[^key-c87823421959371584fbff4a7dc744ed]: Modification: S. 12 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-cf70bcc86746a8d461b1ba10bbfb8602]: Commencement: S. 13 in force at 31.1.2008 for specified purposes by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/99/article/2/e)
+
+[^key-f83b58dc8e1f8c800ac772a1416dd26a]: Commencement: S. 13 in force at 25.11.2008 in so far as not already in force by [S.I. 2008/2822](https://www.legislation.gov.uk/uksi/2008/2822), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/2822/article/2/e)
+
+[^key-2b7ab0cfb0f8c9f9f3682b16b78fdf9d]: Modification: S. 13 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-691bb7f50ef908fe6cc5f7c6c93f6c60]: Commencement: S. 14 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(f)](https://www.legislation.gov.uk/uksi/2008/99/article/2/f)
+
+[^key-21c4d6f0c8bbe99570193364d0d7d647]: Modification: S. 14 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-0c8c85bb5eae263b6e18dea903a5beae]: Commencement: S. 15 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(f)](https://www.legislation.gov.uk/uksi/2008/99/article/2/f)
+
+[^key-697dbddd070dbfcd93bf609985182763]: Modification: S. 15 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-d4c573a13c17617ff0c699a7dde1f560]: Textual amendment: S. 15(1)(b)(c) omitted (28.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2014/22/section/12/2), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(k)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/k) as amended by SI 2014/2771 art 14; [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(k)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/k)
+
+[^key-64f88775b87d2a696321db12064492ba]: Textual amendment: S. 15(1A)-(1C) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/12/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(k)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/k)
+
+[^key-87eaa98f6bac3e583975b84ee5ce9811]: Textual amendment: S. 15(2)(b) substituted (15.12.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 75](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/75); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 8(d)](https://www.legislation.gov.uk/uksi/2014/2771/article/8/d) (with [art. 13](https://www.legislation.gov.uk/uksi/2014/2771/article/13)) (as amended (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 8(5))
+
+[^key-555cad5c750f1f4ebe1d171404903142]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/30/section/16) in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(g)](https://www.legislation.gov.uk/uksi/2008/99/article/2/g) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/99/article/3))
+
+[^key-4bca0964e61210c9d4347d793b679fba]: Textual amendment: Words in [s. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2007/30/section/17/2/a) omitted (20.10.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 58(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/58/a); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+
+[^key-a30119347f4eca3278b8964beb9bab3c]: Textual amendment: Words in [s. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2007/30/section/17/2/b) omitted (20.10.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 58(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/58/b); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+
+[^key-b1a7665fc1d57636ee69ba995f55b055]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2007/30/section/18) in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(h)](https://www.legislation.gov.uk/uksi/2008/99/article/2/h)
+
+[^key-549aecb2297788e59cb0e12e05f2fea5]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/2007/30/section/19) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 60](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/60) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+
+[^key-e3669217adfa53f49715a3f2a41294d5]: Commencement: S. 19 in force at 23.5.2011 by [S.I. 2011/1293](https://www.legislation.gov.uk/uksi/2011/1293), [art. 2](https://www.legislation.gov.uk/uksi/2011/1293/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/1293/article/3))
+
+[^key-12c0098740891dd351c2c59d7e1a71e0]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/2007/30/section/20) repealed (15.12.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 76(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/76/b); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 8(d)](https://www.legislation.gov.uk/uksi/2014/2771/article/8/d) (with [art. 13](https://www.legislation.gov.uk/uksi/2014/2771/article/13)) (as amended (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 8(5))
+
+[^key-4c40ec4a9432f0abd86939b22cc20ee6]: Commencement: S. 20 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/99/article/2/i)
+
+[^key-843a3a952a8369cbe32f275fbab94cdb]: Textual amendment: S. 21 repealed (2.11.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 55(8)](https://www.legislation.gov.uk/ukpga/2009/11/section/55/8), [58(4)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/4/b), [Sch. Pt. 4](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/4); [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/a)
+
+[^key-c495d301eac6f78624773a6cf0b95fb5]: Commencement: S. 22 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/99/article/2/j)
+
+[^key-059b9bc64b67083a9f24458ad1b68ba2]: Modification: S. 22 modified (30.9.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2020/916/article/5/3)
+
+[^key-c84d529034b273277f92315e5e7ba56c]: Modification: S. 22 modified by S.I. 1994/1405, art. 5(1B) (as inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/915/article/10/2))
+
+[^key-f8872b2006a097534e5b5a737018a6bf]: Modification: S. 22 modified by S.I. 1993/1813, art. 5(1ZB) (as inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/915/article/4/2))
+
+[^key-d6d41e94bb0027e89123669bab7f55ea]: Modification: S. 22 modified (31.3.2021) by S.I. 2003/2818, art. 3(4) (as inserted by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/311/article/2/3))
+
+[^key-899f8c2964badc9ecb6365d1cc451c4e]: Commencement: S. 23 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/99/article/2/j)
+
+[^key-2130b36500b927b1453d68a8f3ed0cb8]: Commencement: S. 24 in force at 1.4.2010 by [S.I. 2010/606](https://www.legislation.gov.uk/uksi/2010/606), [art. 2](https://www.legislation.gov.uk/uksi/2010/606/article/2)
+
+[^key-b7b04827f204bbc32797f31f605c58e4]: Textual amendment: S. 24 heading substituted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/21/2), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+
+[^key-1887a5d7a394844974af3e73be445011]: Textual amendment: S. 24(1) substituted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2017/22/section/21/3), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+
+[^key-1c629bb5f1363568ac3e425f42fc00de]: Textual amendment: Word in [s. 24(1)](https://www.legislation.gov.uk/ukpga/2007/30/section/24/1) substituted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 For E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/d), [Sch. 9 para. 17(2)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/17/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+
+[^key-c35528721021754aadbce672439ac461]: Textual amendment: S. 24(2)(a) substituted for s. 24(2)(a)(b) (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 55(6)(a)](https://www.legislation.gov.uk/ukpga/2013/22/section/55/6/a), [61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/g)
+
+[^key-df30d6d8367546f76d6de8763228d80e]: Textual amendment: Words in s. 24(2)(a) substituted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 21(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/21/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+
+[^key-8e2f3220acd5ba7bad7be4818917ee0e]: Textual amendment: Words in [s. 24(2)(a)](https://www.legislation.gov.uk/ukpga/2007/30/section/24/2/a) substituted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 For E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/d), [Sch. 9 para. 17(3)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/17/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+
+[^key-7bdc2d701f1bb864e5708bf41485574c]: Textual amendment: Words in s. 24(2)(c) substituted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 113](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/113); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [arts. 2(2)(e)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/e), [3(hh)](https://www.legislation.gov.uk/uksi/2015/983/article/3/hh)
+
+[^key-281573d8d343aaa8eab4caa4fbedf933]: Textual amendment: Words in s. 24(2)(c) substituted (27.4.2017 for specified purposes, 30.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 21(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/21/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/c); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+
+[^key-dbe7a251f23ada43964cf7c22737e330]: Textual amendment: Words in [s. 24(2)(c)](https://www.legislation.gov.uk/ukpga/2007/30/section/24/2/c) inserted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 For E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/d), [Sch. 9 para. 17(4)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/17/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+
+[^key-1ef933d984fecd4ae9a2b3a77030ad12]: Textual amendment: Words in s. 24(2)(c) substituted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 21 para. 39](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/39) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(l)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/l)
+
+[^key-53b7c54cc907b5c8b7c37cd86df7c6d1]: Textual amendment: Words in s. 24(2)(d) substituted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 21(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/21/6), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+
+[^key-90641153f9770eefff2f88821ba9910b]: Textual amendment: Words in [s. 24(2)(d)](https://www.legislation.gov.uk/ukpga/2007/30/section/24/2/d) inserted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 For E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/d), [Sch. 9 para. 17(5)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/17/5); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+
+[^key-2ec6327f76e2b0b6f2aa365df3c9fb68]: Textual amendment: Words in s. 24(2)(d) omitted (18.10.2012) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/16/2) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+
+[^key-346d699af6260506307afcb9b6bf3b79]: Textual amendment: Words in s. 24(2)(e) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2012/2595/article/16/3) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+
+[^key-aeb2f6bd4703ff29938fa3975970948d]: Textual amendment: Words in s. 24(2)(e) substituted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 21(7)](https://www.legislation.gov.uk/ukpga/2017/22/section/21/7), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+
+[^key-329934e427298845705c26467c3cb0cd]: Textual amendment: Words in [s. 24(2)(e)](https://www.legislation.gov.uk/ukpga/2007/30/section/24/2/e) inserted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 For E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/d), [Sch. 9 para. 17(6)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/17/6); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+
+[^key-334420fc4e3fa302bb53abe4afde15be]: Textual amendment: Words in [s. 24(2)(f)](https://www.legislation.gov.uk/ukpga/2007/30/section/24/2/f) substituted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 For E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/d), [Sch. 9 para. 17(7)(a)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/17/7/a); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+
+[^key-db5be521df5b6e625836b5fb4d12e368]: Textual amendment: Words in [s. 24(2)(f)(ii)](https://www.legislation.gov.uk/ukpga/2007/30/section/24/2/f/ii) substituted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 For E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/d), [Sch. 9 para. 17(7)(b)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/17/7/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+
+[^key-d2fb469158460ee2f76696d37bc3b016]: Textual amendment: Words in s. 24(2)(g) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 21(10)](https://www.legislation.gov.uk/ukpga/2017/22/section/21/10), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+
+[^key-155dc1db29844b13288b53fcac8a8a00]: Textual amendment: Words in [s. 24(2)(g)](https://www.legislation.gov.uk/ukpga/2007/30/section/24/2/g) substituted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 For E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/d), [Sch. 9 para. 17(8)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/17/8); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+
+[^key-32eb58a69ea0110af33620280d56d374]: Textual amendment: Words in s. 24(2)(h) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 21(11)](https://www.legislation.gov.uk/ukpga/2017/22/section/21/11), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+
+[^key-2244d2a8d0fe3a54daf19d98d0e5e9c4]: Textual amendment: Words in [s. 24(2)(h)](https://www.legislation.gov.uk/ukpga/2007/30/section/24/2/h) substituted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 For E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/d), [Sch. 9 para. 17(9)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/17/9); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+
+[^key-38eea361912a997653ed8f7d2bca5ed6]: Textual amendment: S. 24(2A) inserted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 55(6)(b)](https://www.legislation.gov.uk/ukpga/2013/22/section/55/6/b), [61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) (with [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40)); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/g)
+
+[^key-61725b2fcc11abfbc75205983be6224e]: Commencement: S. 25 in force at 31.3.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/309/article/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/309/article/6))
+
+[^key-a44bbee9479a162576d22b4919de8f30]: Textual amendment: S. 25 repealed (E.W.) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28), [Sch. 29](https://www.legislation.gov.uk/ukpga/2020/17/schedule/29) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-00b24b01332607c321da7e7d2d8dc350]: Textual amendment: S. 25(3)(a) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-974b589103ceea9453c15e9f73850c3d]: Commencement: S. 26 in force at 31.1.2008 for specified purposes by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/99/article/2/k) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/99/article/4))
+
+[^key-6c3c9acc2653c9476ffe3a97a0dfe2e1]: Commencement: S. 26 in force at 1.4.2008 in so far as not already in force by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/309/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2008/309/article/7))
+
+[^key-71655eb8dfcebcfcf3cf1a5dca5828fe]: Modification: S. 26 modified (E.W.) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 156(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/156/3), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-cc1c51546f9119f5995c6d858d5e5004]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/2007/30/section/26) excluded (28.6.2022) by 1971 c. 77, s. 28PA(6)(a) (as inserted by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/7); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8)))
+
+[^key-87a3c8ae7730f9d05a22e991af93b0a2]: Commencement: S. 27 in force at 29.2.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/309/article/2/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/309/article/5))
+
+[^key-b14ccfcf817fba6b6df2f914823fba92]: Commencement: S. 28 in force at 29.2.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/309/article/2/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/309/article/5))
+
+[^key-b1eb41aeb4468a8e08bca83871aa5cb9]: Commencement: S. 29 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(l)](https://www.legislation.gov.uk/uksi/2008/99/article/2/l)
+
+[^key-e668401713de9257bf6f6b655e1e111d]: Commencement: S. 30 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(l)](https://www.legislation.gov.uk/uksi/2008/99/article/2/l)
+
+[^key-24db1ec42b41220bfaaf7f5e8931e617]: Commencement: S. 31 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(l)](https://www.legislation.gov.uk/uksi/2008/99/article/2/l)
+
+[^key-9b5f182d6af0b01770e87edda18f4348]: Textual amendment: S. 31 repealed (E.W.) (6.4.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 9](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/9) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/470](https://www.legislation.gov.uk/uksi/2013/470), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/470/article/2/f)
+
+[^key-766ad719de38fe6b886fce2a85940205]: Textual amendment: S. 31 repealed (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28](https://www.legislation.gov.uk/nia/2015/2/section/28), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+
+[^key-f0afde99780347f2c59bbd13c9b77f98]: Commencement: S. 32 in force at 1.8.2008 for specified purposes by [S.I. 2008/1818](https://www.legislation.gov.uk/uksi/2008/1818), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1818/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1818/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1818/article/3))
+
+[^key-65bed36e235dc80df12932815468c0a0]: Textual amendment: Words in [s. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2007/30/section/32/1/a) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a569434fab3519b2d1c75681d2d2ffe4]: Commencement: S. 33 in force at 1.8.2008 for specified purposes by [S.I. 2008/1818](https://www.legislation.gov.uk/uksi/2008/1818), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1818/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1818/schedule)
+
+[^key-d29ab37edfab7efb434f5e13b9ab166a]: Modification: S. 33 applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(m)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/m)
+
+[^key-d2544899da67ab0392cb75f385e05cc3]: Textual amendment: [S. 33(4)](https://www.legislation.gov.uk/ukpga/2007/30/section/33/4) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/17/2)
+
+[^key-311317021e4e42dcf0cf1bffee209176]: Textual amendment: [S. 33(5)(ca)](https://www.legislation.gov.uk/ukpga/2007/30/section/33/5/ca) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/29); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+
+[^key-3c342e788d875b313082c6d17656d440]: Textual amendment: S. 33(6A) inserted (1.4.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 146](https://www.legislation.gov.uk/ukpga/2008/4/section/146), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7); [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/d)
+
+[^key-4b254fd606ba184ba466e79526c04f4c]: Textual amendment: S. 33(6B)-(6D) inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 10(5)](https://www.legislation.gov.uk/ukpga/2020/1/section/10/5), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [ss. 10(6)](https://www.legislation.gov.uk/ukpga/2020/1/section/10/6), [38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 63(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/63/3)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/e)
+
+[^key-1528853768ca64cd01757a534aee31a3]: Textual amendment: [S. 33(6C)(ba)](https://www.legislation.gov.uk/ukpga/2007/30/section/33/6C/ba) inserted (31.12.2020) by [The Citizens’ Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020 (S.I. 2020/1210)](https://www.legislation.gov.uk/uksi/2020/1210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1210/regulation/4/2); [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/a)
+
+[^key-b7f3f0aeed23a59c954c750be3efa883]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2007/30/section/34) in force at 1.8.2008 for specified purposes by [S.I. 2008/1818](https://www.legislation.gov.uk/uksi/2008/1818), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1818/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1818/schedule)
+
+[^key-3f5052d58d009aa550664902a5a54fe6]: Commencement: S. 35 in force at 1.8.2008 for specified purposes by [S.I. 2008/1818](https://www.legislation.gov.uk/uksi/2008/1818), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1818/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1818/schedule)
+
+[^key-2727a40a9720ef22b09a964260aca18f]: Textual amendment: [S. 35(3)](https://www.legislation.gov.uk/ukpga/2007/30/section/35/3) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 60](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/60) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+
+[^key-341cf9c6ae6f1e3c3a97bf45967da7fe]: Commencement: S. 36 in force at 1.8.2008 for specified purposes by [S.I. 2008/1818](https://www.legislation.gov.uk/uksi/2008/1818), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1818/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1818/schedule)
+
+[^key-f836da7d1ad870e40ebe7f2a49eb03cd]: Textual amendment: [S. 36(1A)-(1E)](https://www.legislation.gov.uk/ukpga/2007/30/section/36/1A) inserted (28.9.2023) by [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 12(5)](https://www.legislation.gov.uk/ukpga/2023/37/section/12/5), [68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9)); [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/a)
+
+[^key-f7bf1120002a956052a8cb0e90a4d56b]: Textual amendment: Words in [s. 36(2)](https://www.legislation.gov.uk/ukpga/2007/30/section/36/2) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 40(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/40/2); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+
+[^key-dcca39bb2dd6dc6fa767de830bd8e0ed]: Textual amendment: S. 36(2A) inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 60(13)](https://www.legislation.gov.uk/ukpga/2016/19/section/60/13), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/m)
+
+[^key-da527e4a02fb6a7d6279abf95e6e36e9]: Textual amendment: Words in [s. 36(3)](https://www.legislation.gov.uk/ukpga/2007/30/section/36/3) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 40(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/40/3); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+
+[^key-c02a03514aa9193f4d7c4b83b224436a]: Textual amendment: [S. 36(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2007/30/section/36/3A) inserted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 40(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/40/4); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+
+[^key-7770a9b9737a7d7cb1a8958795f77867]: Textual amendment: Words in [s. 36(4)](https://www.legislation.gov.uk/ukpga/2007/30/section/36/4) omitted (15.1.2018) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 40(5)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/40/5); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+
+[^key-1384d54ad7942f4fc0d5b217312171fc]: Textual amendment: [S. 36(5)](https://www.legislation.gov.uk/ukpga/2007/30/section/36/5) omitted (15.1.2018) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 40(6)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/40/6); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+
+[^key-f62555546933184f33ebbad5cf52a491]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2007/30/section/37) in force at 1.8.2008 for specified purposes by [S.I. 2008/1818](https://www.legislation.gov.uk/uksi/2008/1818), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1818/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1818/schedule)
+
+[^key-7730fe89bfd96e8ee374b4c976c0523d]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2007/30/section/38) in force at 1.8.2008 for specified purposes by [S.I. 2008/1818](https://www.legislation.gov.uk/uksi/2008/1818), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1818/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2008/1818/schedule)
+
+[^key-5e91500e65d865868f1d729183bb87ba]: Textual amendment: [S. 38(1)(a)](https://www.legislation.gov.uk/ukpga/2007/30/section/38/1/a) omitted (22.3.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/45/1), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/217](https://www.legislation.gov.uk/uksi/2026/217), [reg. 2](https://www.legislation.gov.uk/uksi/2026/217/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/217/regulation/3))
+
+[^key-d136fbc2782517e5d3f53729c4171bcf]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/30/section/39) in force at 1.8.2008 by [S.I. 2008/1818](https://www.legislation.gov.uk/uksi/2008/1818), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1818/article/2/b)
+
+[^key-0dc0b61ca94c14c298208a3859c911b4]: Commencement: S. 40 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(m)](https://www.legislation.gov.uk/uksi/2008/99/article/2/m)
+
+[^key-f54d3622f1e8355b8f5f9abd2452be44]: Textual amendment: Words in s. 40(1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 55(2)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/55/2)
+
+[^key-305276c006d48baecaa826c0afe541b7]: Textual amendment: S. 40(1)(h)-(hb) substituted for s. 40(1)(h) (13.1.2010) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 47(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/47/5), [58(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/2); [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/f)
+
+[^key-55d6c73e18c5f92f58cd22317fce16d3]: Textual amendment: Words in s. 40(2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 55(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/55/3)
+
+[^key-f8596b9d95f7cea7ef0a97fa4e85f0d9]: Textual amendment: S. 40(4A)-(4C) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 55(4)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/55/4)
+
+[^key-f5ff0cced7186c00c95ccc6930e010b9]: Textual amendment: Words in s. 40(5) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 55(5)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/55/5)
+
+[^key-8b0b186efdb70e37a94e2dba149c8ee0]: Textual amendment: S. 40(5A) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 55(6)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/55/6)
+
+[^key-1561003d82cd83c2cecd3e7253da5424]: Commencement: S. 41 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(m)](https://www.legislation.gov.uk/uksi/2008/99/article/2/m)
+
+[^key-0e31d62a44498da2421c52e7572f8a9f]: Textual amendment: Words in s. 41(2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/56)
+
+[^key-1dccac2a0de879a737d7473efd6209db]: Textual amendment: Words in s. 41(3)(e) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/56)
+
+[^key-832b959a46ac0e973bbc926f68ff2162]: Textual amendment: Ss. 41A, 41B inserted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/20/1), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-989dc1c3fa776657d1050eac02c4f5a7]: Textual amendment: Words in s. 41A(1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 57(2)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/57/2)
+
+[^key-2fe7e303affb9f5cb30d8d6ba303e75c]: Textual amendment: Words in s. 41A(3) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 57(3)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/57/3)
+
+[^key-abbef4a14d987ea0760444e5150a0baf]: Textual amendment: Ss. 41A(4A)-(4C) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 57(4)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/57/4)
+
+[^key-c267ff51b14471ff92291d8a38009f07]: Textual amendment: Words in s. 41A(5) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 57(5)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/57/5)
+
+[^key-de2c97723addff9939ee025d13345034]: Textual amendment: S. 41A(7) inserted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 57(6)](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/57/6)
+
+[^key-f264e0923a55eb7cbae163b2dd59e691]: Textual amendment: Words in s. 41B(2)(e) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/58)
+
+[^key-36f8319c12b3ecfe6cc5bae37a46136e]: Commencement: S. 42 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(m)](https://www.legislation.gov.uk/uksi/2008/99/article/2/m)
+
+[^key-c13ec837b73dacae6e9dfdbacb8e947e]: Textual amendment: Words in s. 42(1) inserted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/20/2), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-5536d52273216a1304490693fa242a2e]: Textual amendment: Words in s. 42(2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/59)
+
+[^key-0b542e4481ccb0437e376b5c5e133683]: Textual amendment: Words in [s. 42(4)(b)](https://www.legislation.gov.uk/ukpga/2007/30/section/42/4/b) substituted (E.W) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-cdfc2ab231cda281e5cc984146a3ad0d]: Textual amendment: Words in [s. 42(5)](https://www.legislation.gov.uk/ukpga/2007/30/section/42/5) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+
+[^key-1687b12c0f4fee100273ac6544a46b1a]: Textual amendment: Words in [s. 42(5)(b)](https://www.legislation.gov.uk/ukpga/2007/30/section/42/5/b) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+
+[^key-a11019a6c5e2befedf6e01869a5971be]: Commencement: S. 43 in force at 31.1.2008 by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(m)](https://www.legislation.gov.uk/uksi/2008/99/article/2/m)
+
+[^key-fd991cafb314edc7046c7e2fa611b3cb]: Textual amendment: Ss. 43A, 43B inserted (E.W.N.I.) (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 159](https://www.legislation.gov.uk/ukpga/2017/3/section/159), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
+
+[^key-a5dee992e3d8fddcc662dee612abc76f]: Commencement: S. 44 in force at 31.3.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/309/article/3/b)
+
+[^key-5bca8839478cb85f24b812fa1371d476]: Commencement: S. 45 in force at 31.3.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/309/article/3/b)
+
+[^key-eafe6824c0ebfe215c7b1f8192b710ee]: Textual amendment: Words in s. 45(2)(b) substituted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 8 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/7/2/a); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+
+[^key-23ca423b97652cecb6286ea0dbc8c26b]: Textual amendment: Words in s. 45(2)(d) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 8 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/7/2/b); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+
+[^key-230dbba470f943d4399e7cf7c95e74d6]: Textual amendment: S. 45(2A)-(2D) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 8 para. 7(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/7/3); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+
+[^key-178b86694ae99467b54874e88e206ebf]: Textual amendment: Words in s. 45(3) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 8 para. 7(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/7/4); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+
+[^key-a1a318fa647595c008946c68ed14181b]: Textual amendment: S. 45(3A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 8 para. 7(5)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/8/paragraph/7/5); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/k)
+
+[^key-608f9482f84e17e00ea6a97f2a904004]: Textual amendment: [S. 45(6)](https://www.legislation.gov.uk/ukpga/2007/30/section/45/6) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 79(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/79/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/28)
+
+[^key-ac85dfb0204bdba3b82c53edd0a631e1]: Commencement: S. 46 in force at 31.3.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/309/article/3/b)
+
+[^key-5aba73d679d2b10b027ee4137cdf5f55]: Textual amendment: Ss. 46A-46C inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 160](https://www.legislation.gov.uk/ukpga/2017/3/section/160), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
+
+[^key-0f11bc05a74c24787c44fe71bda4d1ef]: Textual amendment: S. 47 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/23); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+
+[^key-ec66f596994304b37f1d2a99016a295b]: Commencement: S. 48 in force at 1.4.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/309/article/4/b)
+
+[^key-c6eb71b68c21e512fb25743555a84838]: Modification: S. 48(1) extended (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(10)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/10), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-bfa01338c62086c9587cfc45737f7969]: Textual amendment: Words in s. 48(1) substituted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/1), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-c88428b4b9c8af43fa65a5f64454e947]: Textual amendment: S. 48(1A)(1B) inserted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/2), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-ed9b93b168047249ae260ec19771d14b]: Textual amendment: Words in s. 48(2) repealed (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(3)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/3/a), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-63a4124f6e4f31a0463f4fd4764f36be]: Textual amendment: Words in s. 48(2)(a) substituted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(3)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/3/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-e3f520189f48179891a48e6cf439bcdf]: Textual amendment: Words in s. 48(2)(b) substituted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(3)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/3/c), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-080d09cd85e4f55edf591a17fff86e39]: Textual amendment: Words in s. 48(2)(f) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 96 (as inserted) (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2, with savings in art. 15)
+
+[^key-197cc2b3f1d88c85baf1a1cff9e5b38b]: Textual amendment: S. 48(2)(ga)-(gc) inserted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(3)(d)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/3/d), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-7f2cb154c0686f2e6e072f1ca8d3233f]: Textual amendment: S. 48(2A) inserted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/4), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-4201ef35e72ffa3ac5a183eb1044af94]: Textual amendment: Words in [s. 48(2A)(a)](https://www.legislation.gov.uk/ukpga/2007/30/section/48/2A/a) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/16); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/cc)
+
+[^key-ada599e088bfff3e753d67593c9475d4]: Textual amendment: S. 48(3) repealed (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/5), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-d48cad63790de307c3c5709053b83cb8]: Textual amendment: S. 48(3A) inserted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(6)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/6), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-9d25c9323bb549ef644d9bb382414c49]: Commencement: S. 49 in force at 1.4.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/309/article/4/b)
+
+[^key-6b0b7caa68843cbc77b1a513cc179eeb]: Commencement: S. 50 in force at 1.4.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/309/article/4/b)
+
+[^key-a6c40724561c0e2868ff431e26c02e97]: Commencement: S. 51 in force at 1.4.2008 for specified purposes by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/309/article/4/c)
+
+[^key-8cfe93f071cad341a9b86891ba6a545d]: Commencement: S. 51 in force at 6.1.2009 in so far as not already in force by [S.I. 2008/3136](https://www.legislation.gov.uk/uksi/2008/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3136/article/2/b)
+
+[^key-043ce73b2e2ae554bc0092001f110d28]: Commencement: S. 52 in force at 1.4.2008 for specified purposes by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/309/article/4/d)
+
+[^key-afecba01162daa25f3eb1bb4aacbdc6e]: Commencement: S. 52 in force at 6.1.2009 in so far as not already in force by [S.I. 2008/3136](https://www.legislation.gov.uk/uksi/2008/3136), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3136/article/2/c)
+
+[^key-3b364ff5d4deb9e81384ab3498e3ac73]: Commencement: S. 53 in force at 1.4.2008 for specified purposes by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/309/article/4/d)
+
+[^key-55756309d61731260ccc8fd6ff4e6c2c]: Commencement: S. 53 in force at 6.1.2009 in so far as not already in force by [S.I. 2008/3136](https://www.legislation.gov.uk/uksi/2008/3136), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3136/article/2/c)
+
+[^key-e507f819dfe325783e5c4212338744f5]: Textual amendment: Words in s. 53(1)(a) substituted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(7)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/7/a), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-e663cc89657f7f91105c58b379d1ebd2]: Textual amendment: Words in s. 53(1)(b) substituted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(7)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/7/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-7d640bfea7a6578444c2080220585b59]: Textual amendment: Words in s. 53(3) substituted (21.7.2009) by virtue of [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(8)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/8), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-1dca0ac4916605f32519b270a5a02177]: Commencement: S. 54 in force at 1.4.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(e)](https://www.legislation.gov.uk/uksi/2008/309/article/4/e)
+
+[^key-70856c906f7f267e64c11b61275d1f4c]: Commencement: S. 55 in force at 1.4.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(f)](https://www.legislation.gov.uk/uksi/2008/309/article/4/f)
+
+[^key-599276b6f3532028bc57210166ec3980]: Commencement: S. 56 in force at 1.4.2008 by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(g)](https://www.legislation.gov.uk/uksi/2008/309/article/4/g)
+
+[^key-82cea5cf10af4f8a9a1a3758786abcb6]: Textual amendment: S. 56(1) repealed (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/21/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))
+
+[^key-be744d8bafd61ff8902126f92ae8fcb4]: Textual amendment: Words in s. 56(2)(a) substituted (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 28(9)](https://www.legislation.gov.uk/ukpga/2009/11/section/28/9), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+
+[^key-f4096b304d7f5d028c73ba4d1114c848]: Textual amendment: S. 56A inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 140](https://www.legislation.gov.uk/ukpga/2012/10/section/140), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 141(7)-(9)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/7)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/e)
+
+[^key-d5a7e36b5c84cf2954336783e25d2996]: Textual amendment: S. 56A(3) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/17/3) (with [reg. 17(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/17/4)[(5)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/17/5))
+
+[^key-14dd45996c985be30fe0a25a0f7bf5fa]: Textual amendment: Words in [s. 60(1)](https://www.legislation.gov.uk/ukpga/2007/30/section/60/1) repealed (27.10.2014) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2009/11/section/52/3), [58(3)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/3/b), [Sch. Pts. 3](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/3); [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/b)
+
+[^key-68ef51e48cadf6c692da630b86fc37d9]: Modification: [S. 60(4)](https://www.legislation.gov.uk/ukpga/2007/30/section/60/4) power to extend (with modifications) (Channel Islands or Isle of Man) any amendments or repeals made to this Act by 2016 c. 19, to which this section relates (12.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss.](https://www.legislation.gov.uk/ukpga/2016/19/section), [94(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/5), [95(7)(h)](https://www.legislation.gov.uk/ukpga/2016/19/section/95/7/h) 95(6)
+
+[^key-1e49386b90dcd68ceecec9a5340fe458]: Modification: [S. 60(4)](https://www.legislation.gov.uk/ukpga/2007/30/section/60/4) modified (31.1.2017) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 182(7)](https://www.legislation.gov.uk/ukpga/2017/3/section/182/7), [183(5)(d)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/d), [(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
+
+[^key-80cec33998e9e1bcadf7de4048dff3c8]: Modification: [S. 60(4)](https://www.legislation.gov.uk/ukpga/2007/30/section/60/4) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/5)[(6)(j)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/j), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+
+[^key-3863fb4c583f796ac35eb47e08978c6d]: Modification: [S. 60(4)](https://www.legislation.gov.uk/ukpga/2007/30/section/60/4) power extended (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 64(5)(6)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/64/5/6/e), [65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)
+
+[^key-b226f67c2bc3f7d06c78ec4126f7e92a]: Modification: S. 61 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1560/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/3A)
+
+[^key-b58325620c7b3e6fd9bf9c5b6905bd4a]: Modification: S. 61(1) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619)](https://www.legislation.gov.uk/uksi/2018/619), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/619/article/1/1), [2](https://www.legislation.gov.uk/uksi/2018/619/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/619/schedule/1)
+
+[^key-0f01df5104666d4ae2787492945191bc]: Textual amendment: Word in s. 61(2)(h) omitted (14.5.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 73(5)(a)](https://www.legislation.gov.uk/ukpga/2014/22/section/73/5/a), [75(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/1)
+
+[^key-036e425e031f838129c645e93f0c3aa5]: Textual amendment: S. 61(2)(j) and preceding word inserted (14.5.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 73(5)(b)](https://www.legislation.gov.uk/ukpga/2014/22/section/73/5/b), [75(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/1)
+
+[^key-dfd381f903144556a8b6983b4dc1feaa]: Textual amendment: Word in s. 61(2)(i) omitted (12.5.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 92(5)(a)](https://www.legislation.gov.uk/ukpga/2016/19/section/92/5/a), [94(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/5)
+
+[^key-0d64db86b6abd520339150413a09ce64]: Textual amendment: S. 61(2)(k) and preceding word inserted (12.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 92(5)(b)](https://www.legislation.gov.uk/ukpga/2016/19/section/92/5/b), [94(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/5)
+
+[^key-a20ade89ace0e1e4feb2d1ac8e375e85]: Textual amendment: Word in s. 61(2)(j) omitted (31.12.2020) by virtue of [Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20), [ss. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2020/20/section/4/1/a), [9(1)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/1) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2020/20/section/4/2)); [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/b)
+
+[^key-61cedb006069bba9e98809590fa70d37]: Textual amendment: S. 61(2)(l) and word inserted (31.12.2020) by [Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20), [ss. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2020/20/section/4/1/b), [9(1)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/1) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2020/20/section/4/2)); [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/b)
+
+[^key-99a556d585d57d8055cb46ca44a8aa7b]: Textual amendment: Word in [s. 61(2)(k)](https://www.legislation.gov.uk/ukpga/2007/30/section/61/2/k) omitted (28.4.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 84(7)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/84/7/a), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+
+[^key-9a1f0cf8a33c5838f93019f2aaeabe30]: Textual amendment: [S. 61(2)(m)](https://www.legislation.gov.uk/ukpga/2007/30/section/61/2/m) and word inserted (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 84(7)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/84/7/b), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+
+[^key-6711af06d62b33029cd60e915aeb8657]: Textual amendment: Word in [s. 61(2)(l)](https://www.legislation.gov.uk/ukpga/2007/30/section/61/2/l) omitted (20.7.2023) by virtue of [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 64(4)(a)](https://www.legislation.gov.uk/ukpga/2023/37/section/64/4/a), [68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9))
+
+[^key-91b4e293ce345484416f52e7b00333ae]: Textual amendment: [S. 61(2)(n)](https://www.legislation.gov.uk/ukpga/2007/30/section/61/2/n) and word inserted (20.7.2023) by [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 64(4)(b)](https://www.legislation.gov.uk/ukpga/2023/37/section/64/4/b), [68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9))
+
+[^key-1a681bc9afe071bcc962d346ad455271]: Textual amendment: Word in [s. 61(2)(m)](https://www.legislation.gov.uk/ukpga/2007/30/section/61/2/m) omitted (25.4.2024) by virtue of [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/7/1/a), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [s. 10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+
+[^key-cedefbed6894a1dd2d15fe6a7f7fe321]: Textual amendment: [S. 61(2)(o)](https://www.legislation.gov.uk/ukpga/2007/30/section/61/2/o) and word inserted (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2024/8/section/7/1/b), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [s. 10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+
+[^key-a3f426ea2c55f27162214b84ad959939]: Textual amendment: [S. 61(2)(p)](https://www.legislation.gov.uk/ukpga/2007/30/section/61/2/p) inserted (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 62(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/62/4), [65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)
+
+[^key-2e0491dd9914385b679249ee1c1c5ecd]: Textual amendment: [S. 61(2)(o)](https://www.legislation.gov.uk/ukpga/2007/30/section/61/2/o) omitted (2.12.2025) by virtue of [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 42(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/42/4), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+
+[^key-5cb3cd3d9cc3ed3643ae012c22a7f0c1]: Commencement: [Sch.](https://www.legislation.gov.uk/ukpga/2007/30/schedule) in force at 31.1.2008 for specified purposes by [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(n)](https://www.legislation.gov.uk/uksi/2008/99/article/2/n)
+
+[^key-ed9e9cbd8393af9b5430cb8633c48889]: Commencement: [Sch.](https://www.legislation.gov.uk/ukpga/2007/30/schedule) in force at 1.4.2008 in so far as not already in force by [S.I. 2008/309](https://www.legislation.gov.uk/uksi/2008/309), [art. 4(h)](https://www.legislation.gov.uk/uksi/2008/309/article/4/h)

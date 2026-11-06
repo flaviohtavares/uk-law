@@ -1,0 +1,1230 @@
+---
+title: The Civil Legal Aid (Merits Criteria) Regulations 2013
+id: uksi/2013/104
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2013-01-22'
+text_date: '2026-07-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/104
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/104/pdfs/uksiem_20130104_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/104/pdfs/uksi_20130104_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/104/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Legal Aid (Merits Criteria) Regulations 2013
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/uksi/2013/104
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 104
+
+Legal Aid And Advice, England And Wales
+
+The Civil Legal Aid (Merits Criteria) Regulations 2013
+
+Made
+
+22nd January 2013
+
+Coming into force
+
+1st April 2013
+
+The Lord Chancellor makes the following Regulations [^c21538721] in exercise of the powers conferred by sections 5(4), 11(1)(b) and (6) and 41(1)(a) and (b), (2)(a) and (b) and (3)(a) of, and paragraph 3(2) of Schedule 3 to, the Legal Aid, Sentencing and Punishment of Offenders Act 2012 [^c21538731](“**the Act**”).
+
+In making these Regulations, in accordance with section 11(2) to (5) of the Act, the Lord Chancellor—
+
+- (a) has considered the circumstances in which it is appropriate to make civil legal services available under Part 1 of the Act and, in particular, the extent to which the criteria ought to reflect the factors in section 11(3);
+- (b) has sought to secure that, in cases in which more than one form of civil legal service could be provided for an individual, the individual qualifies under Part 1 of the Act for the form of service which in all the circumstances is most appropriate having regard to the criteria; and
+- (c) is satisfied that the criteria reflect the principle that, in many disputes, mediation and other forms of dispute resolution are more appropriate than legal proceedings.
+
+In accordance with section 41(6) of the Act, a draft of this instrument was laid before Parliament and approved by resolution of each House of Parliament.
+
+## PART 1 — INTERPRETATION AND GENERAL
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Civil Legal Aid (Merits Criteria) Regulations 2013 and come into force on 1st April 2013.
+
+### 2. Interpretation
+
+In these Regulations—
+
+- “**the 1990 Act**” means the Courts and Legal Services Act 1990 [^c21538741];
+- “**the Act**” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+- “**advocate**” means a person who exercises a right of audience before a court, tribunal or other person;
+- “**case with overwhelming importance to the individual**” means a case which is not primarily a claim for damages or other sum of money and which relates to one or more of the following—
+  - (a) the life, liberty or physical safety of the individual or a member of that individual's family (an individual is a member of another individual's family if the requirements of section 10(6) are met); or
+  - (b) the immediate risk that the individual may become homeless;
+- “**conditional fee agreement**” means an enforceable agreement which satisfies the conditions in—
+  - (a) section 58 of the 1990 Act (conditional fee agreements) [^c21538751];
+  - (b) section 58AA of the 1990 Act (damages-based agreements) [^c21538761]; or
+  - (c) section 58B of the 1990 Act (litigation funding agreements) [^c21538771];
+- “**Convention rights**” has the same meaning as in section 1 of the Human Rights Act 1998 [^c21538781];
+- “ **domestic abuse[^key-08a20607adaab8e51fb0bbfda5b33ed4] case**” means any matter which is described in either of the following paragraphs of Part 1 of Schedule 1 to the Act (civil legal services)—
+  - (a) paragraph 11 (family homes and domestic abuse); [^key-885d32f3b87f5b1465eb74cd0ae4a821]...
+  - (ab) paragraph 15A (female genital mutilation protection orders); or[^key-a1b3bb96ba7bf8e04d7c3537e09d91d2]
+  - (b) paragraph 16 (forced marriage);
+- [^key-f38c30c64b09862e1f4936e0634f972e]...
+- “**emergency representation**” means the provision of civil legal services following an urgent application made in accordance with regulations made under section 12 (determinations) of the Act;
+- “**family dispute**” means any matter which is described in any of the following paragraphs of Part 1 of Schedule 1 to the Act (civil legal services)—
+  - (a) paragraph 1 (care, supervision and protection of children);
+  - (aa) paragraph 1A (special guardianship);[^key-c56d6b257587a2b0f6c76fe02de22a65]
+  - (b) paragraph 9 (inherent jurisdiction of High Court in relation to children and vulnerable adults), to the extent that the matter relates to—
+    - (i) a child; or
+    - (ii) a vulnerable adult, but only to the extent that the matter arises out of a family relationship within the meaning of paragraph 14(7)(b) and (c) of Part 1 of Schedule 1 to the Act;
+  - (c) paragraph 10 (unlawful removal of children);
+  - (d) paragraph 11 (family homes and domestic abuse[^key-33255034aaf93372b0f7a24980687281]);
+  - (e) paragraph 12 (victims of domestic abuse and family matters);
+  - (f) paragraph 13 (protection of children and family matters);
+  - (g) paragraph 14 (mediation in family disputes);
+  - (h) paragraph 15 (children who are parties to family proceedings);
+  - (ha) paragraph 15A (female genital mutilation protection orders);[^key-42e9bc2ac9d3eea4c24bda03fb6cb699]
+  - (i) paragraph 16 (forced marriage);
+  - (j) paragraph 17 (Transitional EU arrangements[^key-7c123bbf8efa5cecf54a4dfd7edbd7d7] and international agreements concerning children); or
+  - (k) paragraph 18 (Transitional EU arrangements[^key-ea5aca7fbe91828b88ad52f1b8a98389] and international agreements concerning maintenance);
+- “**general merits criteria**” means the criteria set out in Part 4 (general merits criteria);
+- “**lead claim**” means the claim in a multi-party action which the Director [^c21538791] has identified as being the appropriate claim to be a test case for common or related issues of fact or law;
+- “**merits criteria**” means the general merits criteria and the specific merits criteria;
+- “**multi-party action**” means proceedings in which a number of individuals have a cause of action which involves common or related issues of fact or law;
+- “[^key-8f70e2075d555042cd33e6abc7b2665d]**parental guardianship case**” means matters described in paragraph 1A of Part 1 of Schedule 1 to the Act (special guardianship) to the extent that the individual to whom civil legal services may be provided—;
+  - (a) is the parent of, or has parental responsibility for, the child who is or would be the subject of the order; and
+  - (b) opposes the order,
+
+  but does not include appeals from final orders made under section 14A of the Children Act 1989;
+- “**parental placement and adoption case**” means matters described in paragraph 1(1)(i) of Part 1 of Schedule 1 to the Act (care, supervision and protection of children) to the extent that they relate to a placement order or an adoption order under section 21 or 46 of the Adoption and Children Act 2002 where the individual to whom civil legal services may be provided—
+  - (a) is the parent of, or has parental responsibility for, the child who is or would be the subject of the placement order or, as the case may be, the adoption order; and
+  - (b) opposes the placement order or, as the case may be, the adoption order,
+
+  but does not include appeals from final orders made under either of those provisions of the Adoption and Children Act 2002;
+- “**parental responsibility**” has the same meaning as in the Children Act 1989;
+- “**private law children case**” means any matter which is described in any of the following paragraphs of Part 1 of Schedule 1 to the Act (civil legal services)—
+  - (za) paragraph 1A (special guardianship) to the extent that—[^key-9d3f6ed5562aabe55bcf1785759ad745]
+    - (i) the matter is not a parental guardianship case; and
+    - (ii) the matter does not fall within paragraph 1(2) of Part 1 of Schedule 1;
+  - (a) paragraph 10 (unlawful removal of children);
+  - (b) paragraph 12 (victims of domestic abuse[^key-cb880118ffefee6a265816afd30abe3a] and family matters) or paragraph 15 (children who are parties to family proceedings)[^key-d10cf3520edc0596973ca9d6eef11907], to the extent such provisions relate to[^key-b3d74408e534425a8790ee7540f8b49f]—
+    - (i) Part 1 or 3 of the Family Law Act 1986 (child custody and declarations of status); [^key-90356579913f7b219814c41e8eb1aa91]...
+    - (ii) any provision of Part 1 or 2 of the Children Act 1989 [^c21538801] (orders with respect to children in family proceedings), other than section 15 [^c21538811] of, and Schedule 1 to, that Act; or
+    - (iii) section 51A of the Adoption and Children Act 2002 (post-adoption contact orders); or[^key-43bf2dd525d6e3a58bcf2880f31e7667]
+  - (c) paragraph 13 (protection of children and family matters);
+- “**provider**” means a person who provides civil legal services under Part 1 of the Act (legal aid);
+- “**public law children case**” means any matter which is described in either of the following paragraphs of Part 1 of Schedule 1 to the Act (civil legal services)—
+  - (a) paragraph 1 (care, supervision and protection of children), to the extent that the matter is not a “special Children Act 1989 case” or a parental placement and adoption case[^key-0feeb1934be8610fb1d48a3598a76286]; or
+  - (b) paragraph 9 (inherent jurisdiction of High Court in relation to children and vulnerable adults), to the extent that the matter relates to a child;
+- “**public law claim**” means any matter which is described in any of the following paragraphs of Part 1 of Schedule 1 to the Act (civil legal services)—
+  - (a) paragraph 19 (judicial review) [^key-f38c30c64b09862e1f4936e0634f972e]...;
+  - (b) paragraph 20 (habeas corpus); or
+  - (c) paragraph 34 (homelessness);
+- “**small claims track**” means the small claims track for which provision is made in Part 27 of the Civil Procedure Rules, which are made in exercise of the power conferred by section 2 of the Civil Procedure Act 1997 [^c21538821] to make rules of court under section 1 of that Act;
+- “**special Children Act 1989 case**” means any matter described in paragraph 1(1)(a), (b), (c) or (k) of Part 1 of Schedule 1 to the Act[^key-8027daa0cb6c49798bf3208ed8cc3e45] (care, supervision and protection of children), to the extent that it relates to any of the following provisions of Children Act 1989 or, where specified, the Social Services and Well-being (Wales) Act 2014[^key-3235a7d2783ee2ac2c85d14f291f2616]—
+  - (a) section 25 (use of accommodation for restricting liberty) [^c21538831], to the extent that the individual to whom civil legal services may be provided is the child who is or would be the subject of the order;
+  - (aa) section 119 of the Social Services and Well-being (Wales) Act 2014 (use of accommodation for restricting liberty), to the extent that the individual to whom civil legal services may be provided is the child who is or would be the subject of the order;[^key-176f88aa29ea259f832812db1d773e2e]
+  - (b) section 31 (care and supervision orders) [^c21538841], to the extent that the individual to whom civil legal services may be provided is the child who is or would be the subject of the order, that child's parent or other person with parental responsibility for that child;
+  - (c) section 43 (child assessment orders), to the extent that the individual to whom civil legal services may be provided is the child who is or would be the subject of the order, that child's parent or other person with parental responsibility for that child;
+  - (d) section 44 (orders for emergency protection of children), to the extent that the individual to whom civil legal services may be provided is the child who is or would be the subject of the order, that child's parent or other person with parental responsibility for that child; or
+  - (e) section 45 (duration of emergency protection orders and other supplemental provisions) [^c21538851], to the extent that the individual to whom civil legal services may be provided is the child who is or would be the subject of the order, that child's parent or other person with parental responsibility for that child,
+
+  but does not include appeals from final orders made under any of those provisions of the Children Act 1989 or, as the case may be, the Social Services and Well-being (Wales) Act 2014[^key-644521278e46c03e4824340e434721e7]; and
+- “**specific merits criteria**” means the criteria set out in Part 6 (specific merits criteria).
+
+### 3. Delegation
+
+A function of the Director under these Regulations may be exercised by a person authorised for that purpose by the Director, or by an employee of that person [^c21538861].
+
+### 4. Prospects of success
+
+(1) In these Regulations, “**prospects of success**” means the likelihood that an individual who has made an application for civil legal services will obtain a successful outcome at a trial or other final hearing in the proceedings to which the application relates, as assessed by the Director in accordance with regulation 5 (prospects of success test).
+
+(2) When the Director assesses the prospects of success, the Director must not have regard to—
+
+- (a) the possibility of settling the proceedings to which the application relates; or
+- (b) subject to paragraph (3), the prospects of success in any appeal or possible appeal.
+
+(3) If the application for civil legal services is in relation to an appeal, then the prospects of success are the prospects of success in relation to that appeal.
+
+(4) “**Successful outcome**” means the outcome a reasonable individual would intend to achieve in the proceedings in all the circumstances of the case.
+
+### 5. Prospects of success test
+
+(1) Where the Director assesses, for the purposes of these Regulations, the prospects of success of a matter to which an application for civil legal services relates, the Director must classify the prospects of that matter as follows—
+
+- (a) “very good”, which means an 80% or more chance of obtaining a successful outcome;
+- (b) “good”, which means a 60% or more chance, but less than an 80% chance, of obtaining a successful outcome;
+- (c) “moderate”, which means a 50% or more chance, but less than a 60% chance, of obtaining a successful outcome;
+- (d) “borderline”, which means that the case is not “unclear” but that it is not possible, by reason of disputed law, fact or expert evidence, to—
+  - (i) decide that the chance of obtaining a successful outcome is 50% or more; or
+  - (ii) classify the prospects as marginal or[^key-8ddf03fda7e22f0ac44e968cd0a74a11] poor [^key-108727274f48dffab558c7bd4140bd30]...;
+- (da)[^key-ffae8711d21aa765bfb445eb3a2d21f7] “marginal”, which means a 45% or more chance, but less than a 50% chance, of obtaining a successful outcome;
+- (e)[^key-bdf1adc5e17b6dcabbc42fb371fddf7f] “poor”, which means less than a 45% chance of obtaining a successful outcome; or
+- (ea)[^key-b67c68b7d4d3a037a85c1b600994186a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) “unclear”, which has the meaning given in paragraph (2).
+
+(2) “**Unclear**” means the Director cannot put the case into any of the categories in paragraph (1)(a) to (e)[^key-2e61dfc8e5a607ba51f31cdb67f5f340] because, in all the circumstances of the case, there are identifiable investigations which could be carried out, after which it should be possible for the Director to make a reliable estimate of the prospects of success.
+
+### 6. Public interest
+
+(1) For the purposes of these Regulations, a case is of significant wider public interest if the Director is satisfied that the case is an appropriate case to realise—
+
+- (a) real benefits to the public at large, other than those which normally flow from cases of the type in question; and
+- (b) benefits for an identifiable class of individuals, other than the individual to whom civil legal services may be provided or members of that individual's family.
+
+(2) In paragraph (1), an individual is a member of another individual's family if the requirements of section 10(6) are met.
+
+### 7. Reasonable private paying individual test
+
+For the purposes of these Regulations, the reasonable private paying individual test is met if the Director is satisfied that the potential benefit to be gained from the provision of civil legal services justifies the likely costs, such that a reasonable private paying individual would be prepared to start or continue the proceedings having regard to the prospects of success and all the other circumstances of the case.
+
+### 8. Proportionality test
+
+For the purposes of these Regulations, the proportionality test is met if the Director is satisfied that the likely benefits of the proceedings to the individual and others justify the likely costs, having regard to the prospects of success and all the other circumstances of the case.
+
+### 9. Likely damages
+
+“**Likely damages**” means the amount of any damages or other sum of money contested in the case that the individual who is applying for civil legal services is likely to receive if substantially successful at trial or other final hearing, calculated in accordance with regulations made under section 12 of the Act (determinations).
+
+### 10. Likely costs
+
+(1) For the purposes of these Regulations, “**likely costs**” means the total costs likely to have been incurred on behalf of an applicant for civil legal services at final judgment or settlement of the proceedings—
+
+- (a) calculated on the basis that the proceedings fail to obtain a successful outcome, or costs are not recovered from another party to the proceedings; and
+- (b) taking into account the prospects of the proceedings settling before trial or other final hearing.
+
+(2) In paragraph (1), “**costs**” means the fees payable to any provider, calculated by reference to remuneration rates set out in arrangements made by the Lord Chancellor under section 2(1) of the Act or in regulations under section 2(3) of the Act, including (but not limited to)—
+
+- (a) counsel's fees;
+- (b) disbursements; and
+- (c) any fees payable at an enhanced rate,
+
+but not including Value Added Tax.
+
+### 11. Qualifying for civil legal services[^key-b86e39366b5f18c8f62f4323121d7513]
+
+(1) These Regulations apply for the purposes of determining whether an individual or a legal person qualifies for civil legal services under Part 1 of the Act in accordance with section 11(1)(b) [^c21538871].
+
+(2) In determining whether an individual qualifies for civil legal services under Part 1 of the Act, the Director must apply the general merits criteria, except to the extent that they are disapplied, modified or supplemented by the specific merits criteria.
+
+(3) The Director must apply the merits criteria which are appropriate in each case in accordance with Part 5 (application of the merits criteria), to the extent that it is relevant.
+
+(4) Subject to paragraph (9), an individual or legal person may qualify for civil legal services in accordance with Part 1 of the Act only if the Director is satisfied that—
+
+- (a) the general merits criteria and, to the extent that they are relevant, the specific merits criteria are met;
+- (b) the criterion in paragraph (6) is met; and
+- (c) the criterion in paragraph (8) is met, to the extent that it is relevant.
+
+(5) When determining whether an individual qualifies for civil legal services under Part 1 of the Act, the Director must apply the merits criteria which are relevant to the forms of civil legal services set out in Part 2 (form of civil legal services) and must consider which form of civil legal services is appropriate in accordance with Part 3 (availability of forms of civil legal services).
+
+(6) An individual or legal person may qualify for civil legal services only if the Director is satisfied that it would be reasonable to provide those services in the light of the conduct of that individual or legal person in connection with—
+
+- (a) any civil legal services made available under Part 1 of the Act;
+- (b) any application for civil legal services under Part 1 of the Act; or
+- (c) any civil proceedings for resolving disputes about legal rights or duties.
+
+(7) If the Director is satisfied that—
+
+- (a) the case is not a case which relates to the life or liberty of the individual or their family (an individual is a member of another individual's family if the requirements of section 10(6) are met);
+- (b) the case is not a public law children case; and
+- (c) the likely costs of the case exceed £250,000 or, if the case forms part of a multi-party action, the likely costs of the multi-party action exceed £1,000,000,
+
+the criterion in paragraph (8) applies.
+
+(8) An individual or legal person may qualify for civil legal services only if the Director is satisfied that, having had regard to the present and likely future demands for the provision of civil legal services under Part 1 of the Act, it is reasonable to provide the individual or legal person with civil legal services in all the circumstances of the case including, but not limited to, the particular circumstances of the individual or legal person.
+
+(9) No merits criteria apply to civil legal services provided—
+
+- (a) in relation to an assessment by a mediator of whether, in the light of all the circumstances, a case is suitable for mediation;
+- (b) in relation to any matter described in paragraph 18(2) of Part 1 of Schedule 1 to the Act (Transitional EU arrangements[^key-7cb667a9b3af846d5b97787fe6ef529a] and international agreements concerning maintenance), to the extent that it—
+  - (i) relates to any application under Article 56(1)(a) or (b) of the EU Maintenance Regulation [^c21538881]; and
+  - (ii) concerns maintenance obligations arising from a parent-child relationship towards a person under the age of 21;
+- (c) in relation to any matter described in paragraph 17(1)(b) of Part 1 of Schedule 1 to the Act (an application made to the Lord Chancellor under the 1980 Hague Convention [^c21538891] in respect of a child who is, or is believed to be, in England and Wales), to the extent that it relates to an applicant under the 1980 Hague Convention; or
+- (d) in relation to any matter described in paragraph 18(3A) of Part 1 of Schedule 1 to the Act (application made under Article 10 of the 2007 Hague Convention) to the extent that it—
+  - (i) relates to any application under Article 10(1)(a) or (b) of the 2007 Hague Convention; and
+  - (ii) is an application made by a creditor under the 2007 Hague Convention concerning maintenance obligations arising from a parent-child relationship towards a person under the age of 21.
+
+## PART 2 — FORM OF CIVIL LEGAL SERVICES
+
+### 12. Form of civil legal services
+
+(1) Subject to Part 3 (availability of forms of civil legal services), when determining whether an individual qualifies for civil legal services under Part 1 of the Act, the Director must apply the merits criteria which are relevant to each form of civil legal services set out in paragraph (3).
+
+(2) Subject to Part 3 (availability of forms of civil legal services), when determining whether a legal person qualifies for civil legal services under Part 1 of the Act by virtue of the criteria in Chapter 8 of Part 6, the Director must apply the merits criteria which are relevant to each of the forms of civil legal services set out in paragraph (3)(a) or (f).
+
+(3) “**Form of civil legal services**” means—
+
+- (a) legal help;
+- (b) help at court;
+- (c) family help;
+- (d) family mediation;
+- (e) help with family mediation;
+- (f) legal representation; and
+- (g) other legal services,
+
+which are further defined in regulations 13 to 19.
+
+### 13. Legal help
+
+“**Legal help**” means the provision of civil legal services other than—
+
+- (a) acting as a mediator or arbitrator;
+- (b) issuing or conducting court proceedings;
+- (c) instructing an advocate in proceedings;
+- (d) preparing to provide advocacy in proceedings; or
+- (e) advocacy in proceedings.
+
+### 14. Help at court
+
+“**Help at court**” means the provision of any of the following civil legal services at a particular hearing—
+
+- (a) instructing an advocate;
+- (b) preparing to provide advocacy; or
+- (c) advocacy.
+
+### 15. Family help
+
+(1) Family help may be provided in a family dispute as either family help (lower) or family help (higher).
+
+(2) “**Family help (lower)**” means—
+
+- (a) civil legal services provided in relation to the negotiation of a family dispute before the issuing of proceedings; or
+- (b) civil legal services provided in relation to the issuing of proceedings in order to obtain a consent order following the settlement of a family dispute.
+
+(3) “**Family help (higher)**” means such civil legal services as are available under legal representation but does not include preparation for, or representation at, a contested final hearing or appeal.
+
+### 16. Family mediation
+
+(1) “**Family mediation**” means the provision of any of the following civil legal services, in a family dispute—
+
+- (a) an assessment by a mediator of whether, in the light of all the circumstances, a case is suitable for mediation; or
+- (b) acting as a mediator.
+
+(2) In this regulation, “**mediator**” means a mediator with whom the Lord Chancellor has made an arrangement under section 2(1) of the Act (arrangements).
+
+### 17. Help with family mediation
+
+“**Help with family mediation**” means the provision of any of the following civil legal services, in relation to a family dispute—
+
+- (a) civil legal services provided in relation to family mediation; or
+- (b) civil legal services provided in relation to the issuing of proceedings to obtain a consent order following the settlement of the dispute following family mediation.
+
+### 18. Legal representation
+
+(1) Legal representation may be provided as either investigative representation or full representation.
+
+(2) “**Legal representation**” means the provision of civil legal services, other than acting as a mediator or arbitrator, to an individual or legal person in particular proceedings where that individual or legal person—
+
+- (a) is a party to those proceedings;
+- (aa)[^key-7bb70305bb9ac52db2aa2c6991a76845] is a separated child within the meaning given in paragraph 31A of Part 1 of Schedule 1 to the Act and those proceedings concern a relevant application falling within paragraph 31A(2)(a) of Part 1 of Schedule 1 to the Act;
+- (b) wishes to be joined as a party to those proceedings; or
+- (c) is contemplating issuing those proceedings.
+
+(3) “**Investigative representation**” means legal representation which is limited to the investigation of the strength of the contemplated proceedings and includes the issuing and conducting of proceedings but only so far as necessary—
+
+- (a) to obtain disclosure of information relevant to the prospects of success of the proceedings;
+- (b) to protect the position of the individual or legal person applying for investigative representation in relation to an urgent hearing; or
+- (c) to protect the position of the individual or legal person applying for investigative representation in relation to the time limit for the issue of the proceedings.
+
+(4) “**Full representation**” means legal representation other than investigative representation.
+
+### 19. Other legal services
+
+“**Other legal services**” means the provision of any of the following civil legal services—
+
+- (a) instructing an advocate;
+- (b) preparing to provide advocacy; or
+- (c) advocacy,
+
+in proceedings in relation to which the Director, having applied the relevant merits criteria in accordance with regulations 48 to 50 (application of the merits criteria in exceptional cases), has made a determination under section 10(2)(b) or (4)(c)(exceptional cases) of the Act.
+
+## PART 3 — AVAILABILITY OF FORMS OF CIVIL LEGAL SERVICES
+
+### 20. Provision of the most appropriate form of civil legal services
+
+(1) Where the Director determines in accordance with regulations 21 to 30[^key-eb8ff5d20c96fe4109317bf48782f266] that—
+
+- (a) an individual or a legal person qualifies for civil legal services under Part 1 of the Act; and
+- (b) that more than one form of civil legal services could be provided for that individual or legal person,
+
+the services provided must be those the Director considers most appropriate in all the circumstances.
+
+(2) Regulations 21 to 30[^key-4e662d8815d22fa50748b7886514c60a] apply, in relation to any matter referred to in those regulations, for the purpose of determining which form of civil legal services is most appropriate in relation to that matter.
+
+### 21. Mental Health
+
+Investigative representation is not appropriate in relation to any matter described in paragraph 5(1)(a) or (b) of Part 1 of Schedule 1 to the Act (mental health), to the extent that it relates to proceedings before the First-tier Tribunal or the Mental Health Review Tribunal for Wales.
+
+### 22. Immigration and foreign power threat activity prevention and investigation measures etc[^key-f98c41893a76b992bcd6e36258b40d81]
+
+Help at court and investigative representation are not appropriate in relation to any matter described in any of the following paragraphs of Part 1 of Schedule 1 to the Act (civil legal services)—
+
+- (a) paragraphs 25 to 30 and 31A[^key-accbbdb47e0e646220e45942ce38dac2] of Part 1 of Schedule 1 to the Act (immigration), to the extent they relate to proceedings before the First-tier Tribunal or the Upper Tribunal;
+- (b)[^key-1f1bb83b0640d618e392e4bdf7927eff] paragraphs 32(1) (victims of trafficking in human beings) and 32A(1) (victims of slavery, servitude or forced or compulsory labour); and
+- (c)[^key-a6fa058312911a58a7e530b75966b14a] paragraph 45B of Part 1 of Schedule 1 to the Act (foreign power threat activity prevention and investigation measures etc).
+
+### 22A. Terrorism prevention and investigation measures etc[^key-d14eaf4d37f774acd0aa5925da71f2bb]
+
+Help at court and investigative representation are not appropriate in relation to proceedings under the Terrorism Prevention and Investigation Measures Act 2011.
+
+### 23. Special Immigration Appeals Commission, immigration: accommodation for asylum-seekers etc and victims of trafficking in human beings
+
+Help at court is not appropriate in relation to any matter described in any of the following paragraphs of Part 1 of Schedule 1 to the Act (civil legal services)—
+
+- (a) paragraph 24 (Special Immigration Appeals Commission); and
+- (b) paragraph 31 (immigration: accommodation for asylum-seekers etc).
+
+### 24. Family disputes
+
+(1) Help at court and investigative representation are not appropriate in relation to a family dispute.
+
+(2) Full representation is not appropriate in relation to any matter described in paragraph 14 of Part 1 of Schedule 1 to the Act (mediation in family disputes).
+
+### 25. Victims of domestic abuse and family matters: family help (lower)[^key-fd659eb277dc4951027b59b836c883bd]
+
+Family help (lower) is not appropriate in relation to any matter described in paragraph 12 of Part 1 of Schedule 1 to the Act (victims of domestic abuse[^key-85f5e452e093c0ebb745746872b8690b] and family matters) to the extent that it relates to an application[^key-d98ff70f73eb18434519dddfba203621] for divorce under section 1 of the Matrimonial Causes Act 1973 [^c21538901] or an application for a dissolution order under section 44 of the Civil Partnership Act 2004 [^c21538911].
+
+### 26. Public law children cases , parental placement and adoption cases and special Children Act 1989 cases[^key-6f9f7557ba2e0ad396c1ea551279cd10]
+
+Family help (higher) is not appropriate in public law children cases , parental placement and adoption cases[^key-28c7e870f9060d0746976449d54a8b56] or special Children Act 1989 cases.
+
+### 27. Victims of domestic abuse and family matters: help with family mediation[^key-7c7c4dc19192d675645f35f9f01cd7a3]
+
+Help with family mediation described in regulation 17(b) is not appropriate in relation to any matter arising under an enactment specified in paragraph (e), (i), (k), (l) or (o) of the definition of “family enactment” in paragraph 12(9) (victims of domestic abuse[^key-5b84f25ff1440b348d89b483f674e821] and family matters) of Part 1 of Schedule 1 to the Act (civil legal services).
+
+### 28. Emergency representation
+
+Legal representation and family help (higher) are the only forms of civil legal services which are appropriate for an individual who qualifies for emergency representation.
+
+### 29. Civil legal services which do not include advocacy
+
+Legal representation, family help (higher) and help at court are not appropriate forms of civil legal services in relation to any matter in which the civil legal services available under Part 1 of the Act do not include advocacy.
+
+### 30. Inquests
+
+Legal help is the only form of civil legal services which is appropriate in relation to any matter described in paragraph 41 of Part 1 of Schedule 1 to the Act (inquests).
+
+### 31. Cross-border disputes[^key-5c2627ab05998d8163c1b4c2d14467ae]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — GENERAL MERITS CRITERIA
+
+### 32. Criteria for determinations for legal help
+
+An individual may qualify for legal help only if the Director is satisfied that the following criteria are met—
+
+- (a) it is reasonable for the individual to be provided with legal help, having regard to any potential sources of funding for the individual other than under Part 1 of the Act; and
+- (b) there is likely to be sufficient benefit to the individual, having regard to all the circumstances of the case, including the circumstances of the individual, to justify the cost of provision of legal help.
+
+### 33. Criteria for determinations for help at court
+
+An individual may qualify for help at court only if the Director is satisfied that the following criteria are met—
+
+- (a) it is reasonable for the individual to be provided with help at court having regard to any potential sources of funding for the individual, other than under Part 1 of the Act;
+- (b) there is likely to be sufficient benefit to the individual, having regard to all the circumstances of the case, including the circumstances of the individual, to justify the cost of provision of help at court; and
+- (c) the nature and circumstances of—
+  - (i) the proceedings;
+  - (ii) the particular hearing; and
+  - (iii) the individual,
+
+  are such that advocacy is appropriate and will be of real benefit to that individual.
+
+### 34. Criterion for determinations for family help
+
+An individual may qualify for family help only if the Director is satisfied that the reasonable private paying individual test is met.
+
+### 35. Criteria for determinations for family help (lower)
+
+An individual may qualify for family help (lower) only if the Director is satisfied that the criterion in regulation 34 (criterion for determinations for family help) is met and that the provision of family help (lower) would help to avoid the issue of contested proceedings.
+
+### 36. Criteria for determinations for family help (higher)
+
+(1) An individual may qualify for family help (higher) only if the Director is satisfied that the criterion in regulation 34 (criterion for determinations for family help) is met and that the individual has exhausted all reasonable alternatives to bringing proceedings.
+
+(2) Alternatives to bringing proceedings include, but are not limited to, mediation and negotiation.
+
+### 37. Criteria for determinations for family mediation
+
+An individual may qualify for family mediation under regulation 16(1)(b) (mediation) only if the Director is satisfied that the mediator has assessed that, in all the circumstances of the case, the case is suitable for mediation.
+
+### 38. Criteria for determinations for help with family mediation
+
+An individual may qualify for help with family mediation only if the Director is satisfied that the following criteria are met—
+
+- (a) the individual is participating, or has participated in, family mediation (other than attending an assessment of the kind referred to in regulation 16(1)(a)); and
+- (b) there is sufficient benefit to the individual, having regard to all the circumstances of the case, including the circumstances of the individual, to justify the cost of provision of help with family mediation.
+
+### 39. Standard criteria for determinations for legal representation
+
+An individual may qualify for legal representation only if the Director is satisfied that the following criteria are met—
+
+- (a) the individual does not have access to other potential sources of funding (other than a conditional fee agreement) from which it would be reasonable to fund the case;
+- (b) the case is unsuitable for a conditional fee agreement;
+- (c) except in proceedings which concern a relevant application falling within paragraph 31A(2)(a) of Part 1 of Schedule 1 to the Act,[^key-7b5cd92887df01f9b77ccc6dceadaaf2] there is no person other than the individual, including a person who might benefit from the proceedings, who can reasonably be expected to bring the proceedings;
+- (d) the individual has exhausted all reasonable alternatives to bringing proceedings including any complaints system, ombudsman scheme or other form of alternative dispute resolution;
+- (e) there is a need for representation in all the circumstances of the case including—
+  - (i) the nature and complexity of the issues;
+  - (ii) the existence of other proceedings; and
+  - (iii) the interests of other parties to the proceedings; and
+- (f) the proceedings are not likely to be allocated to the small claims track.
+
+### 40. Criteria for determinations for investigative representation
+
+(1) An individual may qualify for investigative representation only if the Director is satisfied that the criteria in regulation 39 (standard criteria for determinations for legal representation) and the following criteria are met—
+
+- (a) the prospects of success of the case are unclear and substantial investigative work is required before those prospects can be determined;
+- (b) the Director has reasonable grounds for believing that, once the investigative work to be carried out under investigative representation is completed, the case will satisfy the criteria for full representation and, in particular, will meet the cost benefit criteria in regulation 42 and the prospects of success criterion in regulation 43; and
+- (c) subject to paragraph (2), if the individual's claim is primarily a claim for damages or other sum of money in which the likely damages do not exceed £5,000, the case must be of significant wider public interest.
+
+(2) For the purposes of paragraph (1)(c), if the claim forms part of a multi-party action only the lead claim within that action is capable of being a case of significant wider public interest.
+
+### 41. Criteria for determinations for full representation
+
+An individual may qualify for full representation only if the Director is satisfied that the criteria in regulation 39 (standard criteria for determinations for legal representation) and the following criteria are met—–
+
+- (a) the cost benefit criteria in regulation 42;
+- (b) the prospects of success criterion in regulation 43; and
+- (c) if the individual's claim forms part of a multi-party action and is primarily a claim for damages or other sum of money in which the likely damages do not exceed £5,000, the multi-party action damages criterion in regulation 44.
+
+### 42. Cost benefit criteria for determinations for full representation
+
+(1) The cost benefit criteria are as follows.
+
+(2) If the case is primarily a claim for damages or other sum of money and is not of significant wider public interest—
+
+- (a) if the prospects of success of the case are very good, the Director must be satisfied that the likely damages exceed likely costs;
+- (b) if the prospects of success of the case are good, the Director must be satisfied that the likely damages exceed likely costs by a ratio of two to one; or
+- (c) if the prospects of success of the case are moderate [^key-aec7e17bf2291aa2af2fc45c641c6c56]..., the Director must be satisfied that the likely damages exceed likely costs by a ratio of four to one.
+
+(3) If the case is—
+
+- (a) not primarily a claim for damages or other sum of money; and
+- (b) not of significant wider public interest,
+
+the Director must be satisfied that the reasonable private paying individual test is met.
+
+(4) If the case is of significant wider public interest, the Director must be satisfied that the proportionality test is met.
+
+### 43. Prospects of success criterion for determinations for full representation[^key-253a06abe29614d532ff301eba970b0e]
+
+The prospects of success criterion is only met if the Director is satisfied that the prospects of success are—
+
+- (a) very good, good or moderate; or
+- (b) borderline or marginal, and the case is—
+  - (i) of significant wider public interest; or
+  - (ii) a case with overwhelming importance to the individual.
+
+### 44. Multi-party action damages criterion for determinations for full representation
+
+The multi-party action damages criterion is only met if—
+
+- (a) the individual's claim is the lead claim, and
+- (b) the Director is satisfied that the case is of significant wider public interest.
+
+### 45. Criterion for determinations for other legal services
+
+An individual may qualify for other legal services only if the Director is satisfied that it would be reasonable in all the circumstances of the case for the individual to be provided with other legal services.
+
+### 46. Criteria for determinations for family help (higher) or legal representation provided as emergency representation
+
+An individual may qualify, in relation to an application for emergency representation for family help (higher) or legal representation, only if the Director is satisfied that—
+
+- (a) the merits criteria which apply to that application are met; and
+- (b) it is in the interests of justice to provide emergency representation.
+
+## PART 5 — APPLICATION OF THE MERITS CRITERIA
+
+### 47. Application of the merits criteria in cases described in more than one paragraph of Part 1 of Schedule 1 to the Act
+
+Where more than one set of merits criteria could be applied to a case because it is described in more than one paragraph of Part 1 of Schedule 1 to the Act (civil legal services), the Director must apply the merits criteria which are, in the opinion of the Director, most appropriate in all the circumstances of the case.
+
+### 48. Application of the merits criteria in exceptional inquest cases
+
+The Director must apply the criterion in regulation 45 (criterion for determinations for other legal services) for the purposes of a determination under—
+
+- (a) section 10(2)(b) of the Act, to the extent to that it relates to services which consist of advocacy in proceedings at an inquest under the Coroners Act 1988 [^c21538921] into the death of a member of the family of the individual who has made an application for civil legal services; or
+- (b) section 10(4)(c) of the Act.
+
+### 49. Application of the merits criteria in cases which are exceptional cases excluded from Part 1 of Schedule 1 to the Act
+
+(1) The Director must apply the merits criteria in paragraph (2) for the purpose of making a determination under section 10(2)(b) of the Act (exceptional cases) in relation to civil legal services in any matter which would fall within a description in Part 1 of Schedule 1 to the Act, but for an exclusion in Part 2 (excluded services) or Part 3 (advocacy: exclusions and exceptions) of that Schedule.
+
+(2) The criteria referred to in paragraph (1) are the merits criteria which would have applied in relation to that matter had it not been subject to that exclusion.
+
+### 50. Application of the merits criteria in cases which are exceptional cases other than by virtue of the exclusions in Part 2 or 3 of Schedule 1 to the Act
+
+(1) To the extent that regulation 49 does not apply, the Director must apply the merits criteria in paragraph (2) for the purpose of making a determination under section 10(2)(b) of the Act (exceptional cases) in relation to any matter in which civil legal services are not otherwise available because they are not described in Part 1 of Schedule 1 to the Act.
+
+(2) The criteria referred to in paragraph (1) are the merits criteria which appear to the Director to be most appropriate in all the circumstances of the case.
+
+## PART 6 — SPECIFIC MERITS CRITERIA
+
+### CHAPTER 1 — Mental Health and Mental Capacity
+
+#### 51. Criteria for determinations for full representation in relation to mental health proceedings
+
+(1) For the purposes of a determination for full representation in relation to any matter described in paragraph 5(1)(a) or (b) of Part 1 of Schedule 1 to the Act (mental health and the repatriation of prisoners), to the extent that it relates to proceedings before the First-tier Tribunal or the Mental Health Review Tribunal for Wales—
+
+- (a) the criteria in regulations 39 (standard criteria for determinations for legal representation) and 41 to 44 (criteria for determinations for full representation) do not apply; and
+- (b) the criterion in paragraph (2) applies.
+
+(2) The Director must be satisfied that it would be reasonable in all the circumstances of the case for the individual to be provided with full representation.
+
+#### 52. Criteria for determinations for full representation in relation to mental capacity proceedings
+
+(1) For the purposes of a relevant determination the criteria in—
+
+- (a) regulation 39 (standard criteria for determinations for legal representation) and regulations 41(a) and (b), 42 and 43 (criteria for determinations for full representation) apply;
+- (b) regulations 41(c) and 44 (multi-party action damages criterion) do not apply; and
+- (c) paragraph (2) apply.
+
+(2) The Director must be satisfied that—
+
+- (a) the Court of Protection has ordered, or is likely to order, an oral hearing; and
+- (b) it is necessary for the individual to be provided with full representation in the proceedings.
+
+(3) In this regulation, a relevant determination is a determination for full representation in relation to any matter described in paragraph 5(1)(c) of Part 1 of Schedule 1 to the Act (mental capacity) in proceedings before the Court of Protection to the extent that they relate to—
+
+- (a) a person's right to life;
+- (b) a person's liberty or physical safety;
+- (c) a person's medical treatment (within the meaning of the Mental Health Act 1983 [^c21538931]);
+- (d) a person's capacity to marry, to enter into a civil partnership or to enter into sexual relations; or
+- (e) a person's right to family life.
+
+### CHAPTER 2 — Public law
+
+#### 53. Standard criteria for determinations for legal representation in relation to public law claims
+
+For the purposes of a determination for legal representation in relation to a public law claim, the Director must be satisfied that the criteria in regulation 39 (standard criteria for determinations for legal representation) are met and that—
+
+- (a) the act, omission or other matter complained of in the proposed proceedings appears to be susceptible to challenge; and
+- (b)[^key-01febe38644690564216ea8c74514b5d] there are no alternative proceedings before a court or tribunal which are available to challenge the act, omission or other matter, except where the Director considers that such proceedings would not be effective in providing the remedy that the individual requires.
+
+#### 54. Standard criteria for determinations for investigative representation in relation to public law claims
+
+For the purposes of a determination for investigative representation in relation to a public law claim, the Director must be satisfied that—
+
+- (a) the criteria in regulation 53 (standard criteria for determinations for legal representation in relation to public law claims) are met; and
+- (b) the individual has—
+  - (i) notified the proposed defendant of the individual's potential challenge and given a reasonable time for the proposed defendant to respond; or
+  - (ii) shown that doing so would be impracticable.
+
+#### 55. Criteria for determinations for investigative representation in relation to public law claims
+
+For the purposes of a determination for investigative representation in relation to a public law claim the criteria in regulation 40(1)(a) and (b) (investigative representation) and 54 (standard criteria for determinations for investigative representation in relation to public law claims) apply and the criteria in regulation 40(1)(c) and (2) (investigative representation: minimum damages rule) do not apply.
+
+#### 56. Criteria for determinations for full representation in relation to public law claims
+
+(1) For the purposes of a determination for full representation in relation to a public law claim—
+
+- (a) the criteria in regulations 41 to 44 (criteria for determinations for full representation) do not apply;
+- (b) the Director must be satisfied that the criteria in regulation 53 (standard criteria for determinations for legal representation in relation to public law claims) are met; and
+- (c) the criteria in paragraphs (2) and (3) apply.
+
+(2) An individual may qualify for full representation in relation to a public law claim only if the Director is satisfied that—
+
+- (a) the individual has sent a letter before claim to the proposed defendant (except where this is impracticable), and where such a letter has been sent, the proposed defendant has been given a reasonable time to respond;
+- (b) the proportionality test is met; and
+- (c) the criterion in paragraph (3) is met.
+
+(3)[^key-0ce017736f5bb580a44a89f7ed40b3a4] The Director must be satisfied that the prospects of successfully obtaining the substantive order sought in the proceedings are—
+
+- (a) very good, good or moderate; or
+- (b) borderline or marginal, and—
+  - (i) the case is of significant wider public interest;
+  - (ii) the case is one with overwhelming importance to the individual; or
+  - (iii) the substance of the case relates to a breach of Convention rights.
+
+#### 56A. Criteria for determinations in relation to Dublin III claims[^key-dfd0e994a3301a2fe7d23a49ca5fce33]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 3 — Claims against public authorities
+
+#### 57. Criteria for determinations for investigative representation in relation to claims against public authorities
+
+(1) For the purposes of a determination for investigative representation in relation to any matter described in paragraph 21 (abuse of position or powers by public authority) or 22 (breach of Convention rights by public authority) of Part 1 of Schedule 1 to the Act the criteria in—
+
+- (a) regulations 39 (standard criteria for determinations for legal representation) and 40(1)(a) and (b) (criteria for determinations for investigative representation) apply; and
+- (b) regulation 40(1)(c) and (2) apply, subject to paragraph (2).
+
+(2) The criteria in regulation 40(1)(c) and (2) (investigative representation: minimum damages rule) only apply to the extent that such a matter—
+
+- (a) is part of a multi-party action; and
+- (b) does not relate to—
+  - (i) the abuse of a child or a vulnerable adult; or
+  - (ii) a contravention of the Equality Act 2010 [^c21538941] or of a previous discrimination enactment.
+
+(3) In this regulation and in regulation 59—
+
+- (a) “abuse”, “child” and “vulnerable adult” have the meaning given by paragraph 3(5) of Part 1 of Schedule 1 to the Act (abuse of child or vulnerable adult); and
+- (b) “**previous discrimination enactment**” has the meaning given by paragraph 43(3) of Part 1 of Schedule 1 to the Act (equality).
+
+#### 58. Criteria for determinations for full representation in relation to claims against public authorities
+
+(1) For the purposes of a determination for full representation in relation to any matter described in paragraph 21 (abuse of position or powers by public authority) or 22 (breach of Convention rights by public authority) of Part 1 of Schedule 1 to the Act, the criteria in—
+
+- (a) regulation 39 (standard criteria for determinations for legal representation) [^key-27b2d9bf3ea711a54e85133c6142eddd]... apply;
+- (b) regulation 41(a) and (b) (criteria for determinations for full representation) , regulation 42 (cost benefit criteria) and regulation 43 (prospects of success criterion) do not apply;[^key-6649cd61d67009b7652bb0a126de818c] and
+- (c)[^key-2f026af277e257219d7d010588d48439] paragraphs (2) and (3) apply.
+
+(2) An individual may qualify for full representation in relation to any matter described in paragraph 21 (abuse of position or powers by public authority) or 22 (breach of Convention rights by public authority) of Part 1 of Schedule 1 to the Act only if the Director is satisfied that—
+
+- (a) the proportionality test is met ; and[^key-817252d6dbf869b4deb5de792a973c4f] [^key-59a2950e9caf237263a84d9953feab70]...
+- (b)[^key-e4bd6c1587d5e154dda1cbe224287b8b] the criterion in paragraph (3) is met.
+
+(3)[^key-ff53ea40e5d82ef8bc2e29695fbcd4ab] The Director must be satisfied that the prospects of success are—
+
+- (a) very good, good or moderate; or
+- (b) borderline or marginal, and—
+  - (i) the case is of significant wider public interest;
+  - (ii) the case is one with overwhelming importance to the individual; or
+  - (iii) the substance of the case relates to a breach of Convention rights.
+
+#### 59. Criteria for determinations for full representation in relation to claims against public authorities: multi-party action damages criterion
+
+For the purposes of a determination for full representation in relation to any matter described in paragraph 21 (abuse of position or powers by public authority) or paragraph 22 (breach of Convention rights by public authority) of Part 1 of Schedule 1 to the Act, the criteria in regulation 41(c) and 44 (multi-party action damages criterion) only apply to the extent that such a matter does not relate to—
+
+- (a) the abuse of a child or a vulnerable adult; or
+- (b) a contravention of the Equality Act 2010 or of a previous discrimination enactment.
+
+### CHAPTER 4 — Immigration
+
+#### 60. Criteria for determinations for full representation in relation to immigration
+
+(1) For the purposes of a determination for full representation in relation to any matter described in paragraphs 25 to 30 (immigration) ,[^key-80d543f4e2c42345137ca73e131548df] 31A (immigration, citizenship and nationality: separated children),[^key-7d26a38a7c3eb4b866b18be93d80cb0e] 32(1) (victims of trafficking in human beings) or 32A(1) (victims of slavery, servitude or forced or compulsory labour) of Part 1 of Schedule 1 to the Act, to the extent that it relates to proceedings before the First-tier Tribunal or Upper Tribunal, the criteria in—
+
+- (a) regulation 39(a) to (e) (standard criteria for determinations for legal representation) apply;
+- (b) regulations 39(f) and 41 to 44 (criteria for determinations for full representation) do not apply; and
+- (c) paragraphs (2) and (3) apply.
+
+(2) An individual may qualify for full representation in relation to any matter described in paragraphs 25 to 30 (immigration) , 31A (immigration, citizenship and nationality: separated children),[^key-28302783fdde271a441454d54dc34556] 32(1) (victims of trafficking in human beings) or 32A(1) (victims of slavery, servitude or forced or compulsory labour) of Part 1 of Schedule 1 to the Act only if the Director is satisfied that—
+
+- (a) if the case is not of significant wider public interest, the reasonable private paying individual test is met;
+- (b) if the case is of significant wider public interest, the proportionality test is met; and
+- (c) the criterion in paragraph (3) applies.
+
+(3)[^key-204d47f51f13eb6f16acc23cf06bbd07] The Director must be satisfied that the prospects of success are—
+
+- (a) very good, good or moderate; or
+- (b) borderline, marginal or unclear, and—
+  - (i) the case is of significant wider public interest;
+  - (ii) the case is one with overwhelming importance to the individual; or
+  - (iii) the substance of the case relates to a breach of Convention rights.
+
+### CHAPTER 5 — Housing
+
+#### 61. Criteria for determinations for full representation in relation to court orders for possession
+
+(1) For the purposes of a determination for full representation in relation to any matter described in paragraph 33(1)(a) of Part 1 of Schedule 1 to the Act (court orders for sale or possession of the individual's home), to the extent that it relates to court orders for possession of the individual's home, the criteria in—
+
+- (a) regulation 39 (standard criteria for determinations for legal representation) [^key-1876ee61f46c77fcf441b0205c2b59d8]... apply;
+- (b) regulations 41 to 44[^key-bc0c251e132640c340b027a5ebbe72c7] (criteria for determinations for full representation) do not apply; and
+- (c) paragraph (2) apply.
+
+(2) The Director must be satisfied that the following criteria are met—
+
+- (a) if the individual is the defendant to a claim for possession, the individual has a defence to the claim; [^key-dd4b12ad5379854aedd5265514c78497]...
+- (b)[^key-f80190a1b1d81c01f8f3c445f3a21848] the prospects of success are very good, good, moderate, borderline or marginal; and
+- (c) the proportionality test is met.
+
+#### 62. Criteria for determinations for full representation in relation to other housing matters to which specific merits criteria apply
+
+(1) For the purposes of a relevant determination the criteria in—
+
+- (a) regulations 39 (standard criteria for determinations for legal representation), 41(b) and 43 apply (prospects of success criterion);
+- (b) regulations 41(a) and (c) (criteria for determinations for full representation), 42 (costs benefit criteria) and 44 (multi-party action damages criterion) do not apply; and
+- (c) paragraph (2) apply.
+
+(2) The Director must be satisfied that—
+
+- (a) the proportionality test is met; and
+- (b) the landlord or other person responsible for the matter complained of has been notified of the individual's complaint (except where this is impracticable) and, where such notice has been given, the landlord or other person has had a reasonable opportunity to resolve the matter.
+
+(3) In this regulation, a relevant determination is a determination for full representation in relation to any matter described in—
+
+- (a) paragraph 33(1)(b) of Part 1 of Schedule 1 to the Act (the eviction from the individual's home of the individual or others), to the extent that it relates to services provided to an individual in relation to the unlawful eviction from the individual's home of the individual or others;
+- (b) paragraph 35 of Part 1 of Schedule 1 to the Act (risk to health or safety in rented home); or
+- (c) paragraph 37 of Part 1 of Schedule 1 to the Act (protection from harassment), to the extent that it relates to the interference with an individual's enjoyment of their home (within the meaning of paragraph 35(4) of Part 1 of Schedule 1 to the Act) by a landlord or other person.
+
+#### 63. Criteria for determinations for investigative representation in relation to unlawful eviction cases
+
+(1) For the purposes of a determination for investigative representation in relation to any matter described in paragraph 33(1)(b) of Part 1 of Schedule 1 to the Act (the eviction from the individual's home of the individual or others), to the extent that it relates to services provided to an individual in relation to the unlawful eviction from the individual's home of the individual or others, the criteria in—
+
+- (a) regulations 39 (standard criteria for determinations for legal representation) and 40(1)(a) and (b) (criteria for determinations for investigative representation) apply;
+- (b) regulation 40(1)(c) and (2) do not apply; and
+- (c) paragraphs (2) and (3) apply.
+
+(2) Subject to paragraph (3), if the individual's claim is primarily a claim for damages or other sum of money in which the likely damages do not exceed £1,000, the case must be of significant wider public interest.
+
+(3) For the purposes of paragraph (2), if the claim forms part of a multi-party action, only the lead claim within that action is capable of being a case of significant wider public interest.
+
+### CHAPTER 6 — Family
+
+#### 64. Standard criteria for determinations for full representation in relation to certain family disputes
+
+(1) For the purposes of a relevant determination the criteria in—
+
+- (a) regulation 39(a) and (c) to (e) (standard criteria for determinations for legal representation) apply; and
+- (b) regulations 39(b) and (f) (standard criteria for determinations for full representation) and 41 to 44 (criteria for determinations for full representation) do not apply.
+
+(2) In this regulation, a relevant determination is a determination for full representation in relation to—
+
+- (a) a domestic abuse[^key-999453b0ce99ba45a8f2e89e662d5f11] case;
+- (b) a private law children case;
+- (c)[^key-85837eb1181aec26b25ec5b53d0fc214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) any matter described in paragraph 17(1) (Transitional EU arrangements[^key-e0c2f4f4ed65a36006943e679f91a19d] and international agreements concerning children) of Part 1 of Schedule 1 to the Act, to the extent that regulations 11(9)(c) or 65 do not apply; or
+- (e) any matter described in paragraph 18(1) (Transitional EU arrangements[^key-a85cbb85b84925f6b3535b385d25b99e] and international agreements concerning maintenance) of Part 1 of Schedule 1 to the Act, to the extent that regulation 65 does not apply.
+
+#### 65. Criteria for determinations for full representation in relation to special Children Act 1989 cases , parental placement and adoption cases and certain cases relating to Transitional EU arrangements and international agreements[^key-32d2fb952f123f43dd1bc2bc069dd5f2][^key-7d0c522a57dd96413c9358f7d59edd95]
+
+(1) For the purposes of a determination for full representation in relation to a relevant determination, the criteria in—
+
+- (a) regulation 39(e) apply (standard criteria for determinations for legal representation); and
+- (b) regulations 39(a) to (d) and (f) (standard criteria for determinations for legal representation) and 41 to 44 (criteria for determinations for full representation) do not apply.
+
+(2) In this regulation, a relevant determination is—
+
+- (a) a determination for full representation in relation to a special Children Act 1989 case; [^key-a2fdb0c636ffaa861b647f722901aca6]...
+- (aa)[^key-c4bffc8d7fca25f64b4deae48e29187b] a determination for full representation in parental placement and adoption cases; or
+- (b) a determination for full representation in a case in which the applicant is an individual who, in the State of origin, has benefited from complete or partial legal aid in relation to any matter described in—
+  - (i) paragraph 17(1)(c) (Transitional EU arrangements[^key-afb85d189a7a85cbffd90702922e49ac] and international agreements concerning children) of Part 1 of Schedule 1 to the Act;
+  - (ii) paragraph 18(1) (Transitional EU arrangements[^key-2d135617bb334626246d71e63c7c8a08] and international agreements concerning maintenance) of that Part;
+  - (iii) paragraph 18(3) (parties who benefited from free legal aid etc. in the Member State of origin) of that Part;
+  - (iv) paragraph 18(3A) (applications under Article 10 of the 2007 Hague Convention) of that Part, to the extent that Article 17(b) of that Convention applies; or
+  - (v) paragraph 18(3B) (applications under Article 17(b) of the 2007 Hague Convention which is applied by virtue of Article 37(2)) of that Part.
+
+#### 66. Criteria for determinations for full representation in relation to public law children cases and parental guardianship cases[^key-44f48df2e340d29ce3efe2ed077c2ecc]
+
+(1) For the purposes of a determination for full representation in relation to a public law children case or a parental guardianship case[^key-799b4788371a4ce43e270004ba7219ad]—
+
+- (a) the criteria in regulations 39(b) to (d) and (f) (standard criteria for determinations for legal representation) and 41 to 44 (criteria for determinations for full representation) do not apply;
+- (b) the criteria in regulation 39(a) and (e) apply; and
+- (c) paragraph (2) applies.
+
+(2)[^key-015f2d8112c240fb702f1c052cc018b8] An individual may qualify for full representation in a public law children case or a parental guardianship case[^key-df4efeb86d961c685b2276da70cad5dd] only if the Director is satisfied that the criterion in paragraph (3) and, where applicable, paragraph (4) are met.
+
+(3) It is reasonable for full representation to be provided, having regard to the importance of the case to the individual.
+
+(4)[^key-9df313111fd30b16f238965ab89f90c5] If the individual is making or supporting an appeal or application, the prospects of success of that appeal or application are very good, good, moderate, borderline or marginal.
+
+#### 67. Criteria for determinations for full representation in relation to domestic abuse cases[^key-72e14b8583b57c857e7b2a5fc46a8cdb]
+
+(1) For the purposes of a determination for full representation in relation to a domestic abuse[^key-0348434bca4ea46d4332e5341ebbf748] case, regulation 64 (standard criteria for determinations for full representation in relation to certain family disputes) applies in addition to the criteria in paragraphs (2) and (3)[^key-657e04e936d65a334a7267a553bcd182].
+
+(2)[^key-2b2ff70faf6a731172de7798eda1e6af][^M_F_16d99d65-2c6d-4894-b080-68db6c9bb08c] An individual may qualify for full representation in a domestic abuse case only if the Director is satisfied that the prospects of success are very good, good, moderate, borderline or marginal.
+
+(3) An individual may qualify for full representation in a domestic abuse case only if the Director is satisfied that the proportionality test is met.
+
+#### 68. Criteria for determinations for full representation in relation to private law children cases and certain cases relating to Transitional EU arrangements and international agreements[^key-8af59153d938202af391c680913abaa9]
+
+(1) For the purposes of a relevant determination the criteria in regulation 64 (standard criteria for determinations for full representation in relation to certain family disputes) apply in addition to the criteria in paragraphs (2) and (2A)[^key-4bc02fd355612380ef9f182e22722940].
+
+(2)[^key-024e782b5e034bd82dd0d82ef786881e][^M_F_5a6c0421-1f19-4489-defe-91c283866345] The Director is satisfied that the prospects of success are very good, good, moderate, borderline or marginal.
+
+(2A) The Director is satisfied that the reasonable private paying individual test is met.
+
+(3) In this regulation, a relevant determination is a determination for full representation in relation to—
+
+- (a) a private law children case;
+- (b) any matter described in paragraph 17(1) (Transitional EU arrangements[^key-53b85caaff6ac5b79d445bb61f17a9ab] and international agreements concerning children) of Part 1 of Schedule 1 to the Act, to the extent that regulations 11(9)(c) and 65 do not apply; or
+- (c) any matter described in paragraph 18(1) (Transitional EU arrangements[^key-cfa9c635d0fb8aa1e0df02dc73d1fd0f] and international agreements concerning maintenance) of Part 1 of Schedule 1 to the Act, to the extent that regulation 65 does not apply.
+
+#### 69. Criteria for determinations for full representation in relation to other family cases to which specific merits criteria apply
+
+(1) For the purposes of a relevant determination the criteria in—
+
+- (a) regulations 39(a) to (e) (criteria for determinations for legal representation) apply;
+- (b) regulations 39(f), 41, 42 (cost benefit criteria), 43 (prospects of success criterion) and 44 (multi-party) do not apply; and
+- (c) paragraphs (2) and (3) apply.
+
+(2) The Director must be satisfied that—
+
+- (a) the reasonable private paying individual test is met; and
+- (b) the criterion in paragraph (3) is met.
+
+(3)[^key-94a8451e6072b1f2d55334cfb4c8674d] The Director must be satisfied that the prospects of success are—
+
+- (a) very good, good or moderate; or
+- (b) borderline, marginal or unclear, and—
+  - (i) the case is of significant wider public interest;
+  - (ii) the case is one with overwhelming importance to the individual; or
+  - (iii) the substance of the case relates to a breach of Convention rights.
+
+(4) In this regulation, a relevant determination is—
+
+- (a) a determination for full representation in relation to any matter described in paragraph 12 of Part 1 of Schedule 1 to the Act (victims of domestic abuse[^key-8675bc264ef12ac23263a7a41c501633] and family matters) to the extent that it does not relate—
+  - (i) to Part 1 or 3 of the Family Law Act 1986 [^c21538951] (child custody and declarations of status);
+  - (ii) subject to sub-paragraph (b), to any provision of Part 1 or 2 of the Children Act 1989 [^c21538961] (orders with respect to children in family proceedings); or[^key-8b5b182634504404f991e6665b08a4ba]
+  - (iii) to section 51A of the Adoption and Children Act 2002 (post-adoption contact orders);
+- (b) a determination for full representation in relation to any matter described in paragraph 12 of Part 1 of Schedule 1 to the Act (victims of domestic abuse[^key-3e4ca5fa13c62b19cf599c2bf4fd635d] and family matters) to the extent that it relates an order made under section 15 of, and Schedule 1 to, the Children Act 1989;
+- (ba)[^key-aa1a78557b241c844152e1cbd50e1155] a determination for full representation in relation to any matter described in paragraph 15 of Part 1 of Schedule 1 to the Act (children who are parties to family proceedings), to the extent that regulations 64 and 68 do not apply;
+- (c) a determination for full representation in relation to any matter described in paragraph 18(2) of Part 1 of Schedule 1 to the Act (applications in relation to maintenance decisions), to the extent that regulations 11(9)(b) or 70 do not apply; or
+- (d) any matter described in paragraph 18(3A) of Part 1 of Schedule 1 to the Act (applications under Article 10 of the 2007 Hague Convention), to the extent that article 17(a) [^c21538971] of the 2007 Hague Convention applies.
+
+#### 70. Criteria for determinations in relation to the EU Maintenance Regulation
+
+(1) For the purposes of a determination for any form of civil legal services in relation to any matter described in paragraph 18(2) of Part 1 of Schedule 1 to the Act (applications relating to maintenance decisions), to the extent that it—
+
+- (a) is an application under Article 56(1)(c) to (f) of the EU Maintenance Regulation; and
+- (b) concerns maintenance obligations arising from a parent-child relationship towards a person under the age of 21,
+
+the general merits criteria do not apply and paragraph (2) applies.
+
+(2) An individual may qualify for civil legal services only if the Director is satisfied that the application is not manifestly unfounded.
+
+#### 71. Criteria for determinations in relation to the 2007 Hague Convention
+
+(1) For the purposes of a determination for any form of civil legal services in relation to any matter described in paragraph 18(3A) (applications under Article 10 of the 2007 Hague Convention), to the extent that it—
+
+- (a) does not relate to an application under Article 10(1)(a) or (b) of the 2007 Hague Convention; and
+- (b) is an application by a creditor under the 2007 Hague Convention concerning maintenance obligations arising from a parent-child relationship towards a person under the age of 21,
+
+the general merits criteria do not apply and paragraph (2) applies.
+
+(2) The individual may qualify for civil legal services only if the Director is satisfied that the application is not manifestly unfounded.
+
+### CHAPTER 7 — Cross-border disputes
+
+#### 72. Criteria for determinations in relation to cross-border disputes[^key-cc301711f21ccedb73b2b99dc954ebc8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 8 — Legal persons
+
+#### 73. Criteria for determinations in relation to legal persons
+
+For the purposes of a determination in relation to an application for civil legal services by a legal person—
+
+- (a) to the extent that it relates to legal help, regulation 32 (criteria for determinations for legal help) does not apply and the criteria in regulation 74 apply;
+- (b) to the extent that it relates to legal representation, regulations 39 (standard criteria for legal representation), 40 (criteria for determinations for investigative representation) and 41 to 44 (criteria for determinations for full representation) do not apply and the criteria in regulations 74 and 75 apply.
+
+#### 74. Standard criteria for legal help and legal representation in relation to legal persons
+
+(1) A legal person may qualify for legal help or legal representation only if the Director is satisfied that it is reasonable, in all the circumstances of the case, for the legal person to be provided with legal help or legal representation.
+
+(2) It is reasonable for the legal person to be provided with legal help or legal representation only if the Director is satisfied that—
+
+- (a) the legal person does not have access to other potential sources of funding (other than a conditional fee agreement) from which it would be reasonable to fund the provision of legal help or legal representation, including, but not limited to, taking into account the financial capacity of the legal person's shareholders, partners or members;
+- (b) there are no other persons, other than the legal person, including those who might benefit from the provision of legal help or the proceedings, who can reasonably be expected to be provided with legal help or to bring the case;
+- (c) there is a need for legal help or legal representation in all the circumstances of the case; and
+- (d) there is sufficient benefit to the legal person, having regard to all the circumstances of the case, to justify the provision of legal help or legal representation.
+
+#### 75. Criteria for determinations for legal representation in relation to legal persons
+
+(1) A legal person may qualify for legal representation only if the Director is satisfied that the following criteria are met—
+
+- (a) the case is unsuitable for a conditional fee agreement;
+- (b) the legal person has exhausted all reasonable alternatives to bringing proceedings including any complaints system, ombudsman scheme or other form of alternative dispute resolution; and
+- (c) the proceedings are not likely to be allocated to the small claims track.
+
+(2) A legal person may qualify for investigative representation only if the Director is satisfied that —
+
+- (a) the criteria in paragraph (1) are met;
+- (b) the prospects of success of the case are unclear and substantial investigative work is required before those prospects can be determined; and
+- (c) the Director has reasonable grounds for believing that once the investigative work to be carried out under investigative representation is completed the case will satisfy the criteria in paragraphs (3)(b) and (3A)[^key-6539364cc7f803a47ff70f08c9ee56d4].
+
+(3) A legal person may qualify for full representation only if the Director is satisfied that—
+
+- (a) the criteria in paragraphs (1) and (3A) are met; and[^key-e92dfa0bd15bd375a65df06dbd879570];
+- (b) the likely benefit of the proceedings to the legal person and others justify the likely costs, having regard to the prospects of success and all the other circumstances of the case; [^key-ed60cc1ccb65a625fe93ea6583c4c3b2]...
+- (c)[^key-ed60cc1ccb65a625fe93ea6583c4c3b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^key-4f1fc6e484b9786345e0e3f05785e0f6] The Director must be satisfied that the prospects of success of the case are—
+
+- (a) very good, good or moderate; or
+- (b) borderline or marginal, and the case is of significant wider public interest.
+
+(4) For the purposes of this regulation, regulations 4 (prospects of success) and 5 (prospects of success test) apply as if the references in them to individuals were references to legal persons.
+
+Signed by authority of the Lord Chancellor
+
+McNally
+
+Minister of State
+
+Ministry of Justice
+
+*(This note is not part of the Regulations)*
+
+The Civil Legal Aid (Merits Criteria) Regulations 2013 (“**the Regulations**”) make provision for the criteria which the Director of Legal Aid Casework must apply when determining whether an individual or legal person qualifies for civil legal services under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)(“**the Act**”).
+
+Regulation 3 enables functions of the Director under these Regulations to be exercisable by, or by employees of, a person authorised by the Director. Section 6 of the Act (authorisations) makes provision for authorisations.
+
+Provision is made for how the prospects of success of a case are to be assessed (regulations 4 and 5) and when a case is of significant wider public interest (regulation 6). Regulation 7 sets out the reasonable private paying individual test. Regulation 8 sets out the proportionality test. Regulation 11 sets out how these Regulations apply to an application for civil legal services.
+
+Part 2 of the Regulations makes provision for the forms of civil legal services to which different merits tests apply. Regulations 13 to 19 define the different forms of civil legal services.
+
+Part 3 makes provision in relation to which form of civil legal services is appropriate in certain cases. If an individual qualifies for more than one form of civil legal services the Director must decide which form of civil legal services is most appropriate in all the circumstances of the case. Regulations 20 to 31 make provision in relation to the appropriate form of civil legal services in different types of case.
+
+Part 4 of the Regulations makes provision for the general merits criteria, which apply in the absence of provision to the contrary in Part 6 (specific merits criteria).
+
+Part 5 of the Regulations makes provision for the application of the merits criteria in cases which are described in more than one paragraph of Part 1 of Schedule 1 to the Act (regulation 47) and in cases in relation to which civil legal services are available under section 10 of the Act (regulations 48 to 50).
+
+Part 6 of the Regulations makes provision for the specific merits criteria, which apply to certain cases which fall with the description of specified paragraphs of Part 1 of Schedule 1 to the Act and for the criteria which apply in relation to applications by legal persons for civil legal services.
+
+## Annotations
+
+[^c21538721]: Marginal citation: [Section 42(1)](https://www.legislation.gov.uk/uksi/2013/104/section/42/1) of the [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10) provides that in Part 1 of that Act “**regulations**” means Regulations made by the Lord Chancellor.
+
+[^c21538731]: Marginal citation: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^c21538741]: Marginal citation: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41).
+
+[^c21538751]: Marginal citation: Section 58 was substituted for section 58 as originally enacted by section 27(1) of the Access to [Justice Act 1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22) and amended by [S.I. 2005/3429](https://www.legislation.gov.uk/uksi/2005/3429) and section 44(1) and (2) of the [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10)(“**the Act**”).
+
+[^c21538761]: Marginal citation: Section 58AA was inserted by section 154(2) of the [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) and was amended by section 45 (1) to (11) of the Act.
+
+[^c21538771]: Marginal citation: Section 58B was inserted by section 28 of the Access to [Justice Act 1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22), as amended by [S.I. 2005/3429](https://www.legislation.gov.uk/uksi/2005/3429).
+
+[^c21538781]: Marginal citation: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
+
+[^key-08a20607adaab8e51fb0bbfda5b33ed4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2025/611/article/6/a/i)
+
+[^key-885d32f3b87f5b1465eb74cd0ae4a821]: Textual amendment: Word in reg. 2 omitted (17.7.2015) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2015 (S.I. 2015/1414)](https://www.legislation.gov.uk/uksi/2015/1414), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/2/2/a/i)
+
+[^key-a1b3bb96ba7bf8e04d7c3537e09d91d2]: Textual amendment: Words in reg. 2 inserted (17.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2015 (S.I. 2015/1414)](https://www.legislation.gov.uk/uksi/2015/1414), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/2/2/a/ii)
+
+[^key-f38c30c64b09862e1f4936e0634f972e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/1143/regulation/6))
+
+[^key-c56d6b257587a2b0f6c76fe02de22a65]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) inserted (1.5.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/150/article/3/2/c), [5(4)](https://www.legislation.gov.uk/uksi/2023/150/article/5/4)
+
+[^key-33255034aaf93372b0f7a24980687281]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2025/611/article/6/a/ii)
+
+[^key-42e9bc2ac9d3eea4c24bda03fb6cb699]: Textual amendment: Words in reg. 2 inserted (17.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2015 (S.I. 2015/1414)](https://www.legislation.gov.uk/uksi/2015/1414), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/2/2/b)
+
+[^key-7c123bbf8efa5cecf54a4dfd7edbd7d7]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(2)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ea5aca7fbe91828b88ad52f1b8a98389]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(2)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21538791]: Marginal citation: Section 42(1) of the Act provides that in Part 1 of the Act (legal aid) “**the Director**” means the Director of Legal Aid Casework.
+
+[^key-8f70e2075d555042cd33e6abc7b2665d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) inserted (1.3.2023 for specified purposes, 1.5.2023 in so far as not already in force) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2023/150/article/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2023/150/article/3/2/b), [5(2)](https://www.legislation.gov.uk/uksi/2023/150/article/5/2)
+
+[^key-9d3f6ed5562aabe55bcf1785759ad745]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) inserted (1.5.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/150/article/3/2/c), [5(5)](https://www.legislation.gov.uk/uksi/2023/150/article/5/5)
+
+[^key-cb880118ffefee6a265816afd30abe3a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2025/611/article/6/a/iii)
+
+[^key-d10cf3520edc0596973ca9d6eef11907]: Textual amendment: Words in reg. 2 inserted (27.1.2014) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2014 (S.I. 2014/131)](https://www.legislation.gov.uk/uksi/2014/131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/131/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/131/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/131/regulation/3))
+
+[^key-b3d74408e534425a8790ee7540f8b49f]: Textual amendment: Words in reg. 2 substituted (27.1.2014) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2014 (S.I. 2014/131)](https://www.legislation.gov.uk/uksi/2014/131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/131/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/131/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/131/regulation/3))
+
+[^key-90356579913f7b219814c41e8eb1aa91]: Textual amendment: Word in reg. 2 omitted (10.12.2015) by virtue of [The Civil Legal Aid (Merits Criteria and Information about Financial Resources) (Amendment) Regulations 2015 (S.I. 2015/2005)](https://www.legislation.gov.uk/uksi/2015/2005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2005/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/2005/regulation/2/2/a)
+
+[^c21538801]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^c21538811]: Marginal citation: Section 15 was amended by section 116 of, and paragraph 10 of Schedule 16 to, the [Courts and Legal Services Act 1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41) and section 11(1) of, and paragraph 10 of Schedule 2 to, the [Maintenance Enforcement Act 1991 (c.17)](https://www.legislation.gov.uk/ukpga/1991/17).
+
+[^key-43bf2dd525d6e3a58bcf2880f31e7667]: Textual amendment: Words in reg. 2 inserted (10.12.2015) by [The Civil Legal Aid (Merits Criteria and Information about Financial Resources) (Amendment) Regulations 2015 (S.I. 2015/2005)](https://www.legislation.gov.uk/uksi/2015/2005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2005/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/2005/regulation/2/2/b)
+
+[^key-0feeb1934be8610fb1d48a3598a76286]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) inserted (1.3.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2023/150/article/3/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/150/article/5/3)
+
+[^c21538821]: Marginal citation: [1997 c.12](https://www.legislation.gov.uk/ukpga/1997/12). Section 2 was amended by section 15(1) of, and paragraphs 261 and 263(1) and (2) of Part 1 of Schedule 4 to, the [Constitutional Reform Act 2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^key-8027daa0cb6c49798bf3208ed8cc3e45]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 144(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/144/a)
+
+[^key-3235a7d2783ee2ac2c85d14f291f2616]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 144(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/144/b)
+
+[^c21538831]: Marginal citation: Section 25 was amended by section 39 of, and paragraph 15 of Schedule 3 to, the [Children and Young Persons Act 2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23) and section 24 of, and paragraph 45 of Schedule 4 to, the Access to [Justice Act 1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^key-176f88aa29ea259f832812db1d773e2e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 144(c)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/144/c)
+
+[^c21538841]: Marginal citation: Section 31 was amended by section 75 of, and paragraph 1 of Schedule 8 to, the [Criminal Justice and Court Services Act 2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43); sections 120 and 121(1) of the [Adoption and Children Act 2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38) and section 6 of, and paragraph 35 of Schedule 4 to, the [Criminal Justice and Immigration Act 2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4).
+
+[^c21538851]: Marginal citation: Section 45 was amended by section 52 of, and paragraph 4 of Schedule 6 to, the [Family Law Act 1996 (c.27)](https://www.legislation.gov.uk/ukpga/1996/27); section 42 of, and paragraph 1 of Schedule 4 to, the [Children and Young Persons Act 2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23); section 116 of, and paragraph 19 of Part 1 of Schedule 16 to, the [Courts and Legal Services Act 1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41); [S.I.2002/253](https://www.legislation.gov.uk/uksi/2002/253) and [S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771).
+
+[^key-644521278e46c03e4824340e434721e7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/104/regulation/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 144(d)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/144/d)
+
+[^c21538861]: Marginal citation: [Section 6](https://www.legislation.gov.uk/uksi/2013/104/section/6) of the Act (authorisations) makes provision for authorisations given for the purpose of section 5 of the Act (delegation) or regulations under that section.
+
+[^key-8ddf03fda7e22f0ac44e968cd0a74a11]: Textual amendment: Words in reg. 5(1)(d)(ii) inserted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/2/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-108727274f48dffab558c7bd4140bd30]: Textual amendment: Words in reg. 5(1)(d)(ii) omitted (22.7.2016) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/2/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-ffae8711d21aa765bfb445eb3a2d21f7]: Textual amendment: Reg. 5(1)(da) inserted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-bdf1adc5e17b6dcabbc42fb371fddf7f]: Textual amendment: Reg. 5(1)(e) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-b67c68b7d4d3a037a85c1b600994186a]: Textual amendment: Reg. 5(1)(ea) omitted (22.7.2016) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-2e61dfc8e5a607ba51f31cdb67f5f340]: Textual amendment: Word in reg. 5(2) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/2/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-b86e39366b5f18c8f62f4323121d7513]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/104/regulation/11) modified (24.3.2022) by [The Early Legal Advice Pilot Scheme Order 2022 (S.I. 2022/397)](https://www.legislation.gov.uk/uksi/2022/397), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/397/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/397/article/3/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2022/397/schedule/paragraph/2/2) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2022/397/article/3/2), [4](https://www.legislation.gov.uk/uksi/2022/397/article/4))
+
+[^c21538871]: Marginal citation: [Paragraph 3(2)](https://www.legislation.gov.uk/uksi/2013/104/paragraph/3/2) of Schedule 3 to the Act (legal aid for legal persons) provides that section 11 applies in relation to a determination under paragraph 3(1)(b) of Schedule 3 to the Act. A determination under paragraph 3(1)(b) is a determination that a legal person qualifies for civil legal services in accordance with Part 1 of the Act.
+
+[^key-7cb667a9b3af846d5b97787fe6ef529a]: Textual amendment: Words in reg. 11(9)(b) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(3)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21538881]: Marginal citation: The EU Maintenance Regulation is defined in paragraph 18(5) of Part 1 of Schedule 1 to the Act to mean Council Regulation (EC) No. 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and co-operation in matters relating to maintenance obligations.
+
+[^c21538891]: Marginal citation: The 1980 Hague Convention is defined in paragraph 17(3) of Part 1 of Schedule 1 to the Act to mean the Convention on the Civil Aspects of International Child Abduction which was signed at The Hague on 25 October 1980.
+
+[^key-7bb70305bb9ac52db2aa2c6991a76845]: Textual amendment: [Reg. 18(2)(aa)](https://www.legislation.gov.uk/uksi/2013/104/regulation/18/2/aa) inserted (25.10.2019) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid for Separated Children) (Miscellaneous Amendments) Order 2019 (S.I. 2019/1396)](https://www.legislation.gov.uk/uksi/2019/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1396/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1396/article/4/2)
+
+[^key-eb8ff5d20c96fe4109317bf48782f266]: Textual amendment: Word in reg. 20(1) substituted (31.12.2020) by [The Civil Legal Aid (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/505)](https://www.legislation.gov.uk/uksi/2019/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/505/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/505/regulation/5/2) (with [regs. 8](https://www.legislation.gov.uk/uksi/2019/505/regulation/8), [9](https://www.legislation.gov.uk/uksi/2019/505/regulation/9)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)-(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2)): [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4e662d8815d22fa50748b7886514c60a]: Textual amendment: Word in reg. 20(2) substituted (31.12.2020) by [The Civil Legal Aid (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/505)](https://www.legislation.gov.uk/uksi/2019/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/505/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/505/regulation/5/2) (with [regs. 8](https://www.legislation.gov.uk/uksi/2019/505/regulation/8), [9](https://www.legislation.gov.uk/uksi/2019/505/regulation/9)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)-(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2)): [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f98c41893a76b992bcd6e36258b40d81]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/104/regulation/22) heading substituted (22.7.2026) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026 (S.I. 2026/861)](https://www.legislation.gov.uk/uksi/2026/861), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/861/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/861/article/3/2/a)
+
+[^key-accbbdb47e0e646220e45942ce38dac2]: Textual amendment: Words in [reg. 22(a)](https://www.legislation.gov.uk/uksi/2013/104/regulation/22/a) inserted (25.10.2019) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid for Separated Children) (Miscellaneous Amendments) Order 2019 (S.I. 2019/1396)](https://www.legislation.gov.uk/uksi/2019/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1396/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/1396/article/4/3)
+
+[^key-1f1bb83b0640d618e392e4bdf7927eff]: Textual amendment: Reg. 22(b) substituted (31.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2015 (S.I. 2015/1414)](https://www.legislation.gov.uk/uksi/2015/1414), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/2/3)
+
+[^key-a6fa058312911a58a7e530b75966b14a]: Textual amendment: [Reg. 22(c)](https://www.legislation.gov.uk/uksi/2013/104/regulation/22/c) substituted (22.7.2026) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026 (S.I. 2026/861)](https://www.legislation.gov.uk/uksi/2026/861), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/861/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/861/article/3/2/b)
+
+[^key-d14eaf4d37f774acd0aa5925da71f2bb]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2013/104/regulation/22A) inserted (22.7.2026) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026 (S.I. 2026/861)](https://www.legislation.gov.uk/uksi/2026/861), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/861/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/861/article/3/3)
+
+[^key-fd659eb277dc4951027b59b836c883bd]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2013/104/regulation/25) heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2025/611/article/6/b)
+
+[^key-85f5e452e093c0ebb745746872b8690b]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2013/104/regulation/25) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2025/611/article/6/c)
+
+[^key-d98ff70f73eb18434519dddfba203621]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2013/104/regulation/25) substituted (6.4.2022) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2022 (S.I. 2022/237)](https://www.legislation.gov.uk/uksi/2022/237), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/237/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2022/237/schedule/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/237/regulation/3))
+
+[^c21538901]: Marginal citation: [1973 c.18](https://www.legislation.gov.uk/ukpga/1973/18).
+
+[^c21538911]: Marginal citation: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-6f9f7557ba2e0ad396c1ea551279cd10]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2013/104/regulation/26) heading inserted (1.3.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2023/150/article/3/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2023/150/article/5/6/a)
+
+[^key-28c7e870f9060d0746976449d54a8b56]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2013/104/regulation/26) inserted (1.3.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2023/150/article/3/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2023/150/article/5/6/b)
+
+[^key-7c7c4dc19192d675645f35f9f01cd7a3]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2013/104/regulation/27) heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2025/611/article/6/d)
+
+[^key-5b84f25ff1440b348d89b483f674e821]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2013/104/regulation/27) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2025/611/article/6/e)
+
+[^key-5c2627ab05998d8163c1b4c2d14467ae]: Textual amendment: Reg. 31 omitted (31.12.2020) by virtue of [The Civil Legal Aid (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/505)](https://www.legislation.gov.uk/uksi/2019/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/505/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/505/regulation/5/3) (with [regs. 8](https://www.legislation.gov.uk/uksi/2019/505/regulation/8), [9](https://www.legislation.gov.uk/uksi/2019/505/regulation/9)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)-(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2)): [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7b5cd92887df01f9b77ccc6dceadaaf2]: Textual amendment: Words in [reg. 39(c)](https://www.legislation.gov.uk/uksi/2013/104/regulation/39/c) inserted (25.10.2019) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid for Separated Children) (Miscellaneous Amendments) Order 2019 (S.I. 2019/1396)](https://www.legislation.gov.uk/uksi/2019/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1396/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/1396/article/4/4)
+
+[^key-aec7e17bf2291aa2af2fc45c641c6c56]: Textual amendment: Words in reg. 42(2)(c) omitted (22.7.2016) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-253a06abe29614d532ff301eba970b0e]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/2013/104/regulation/43) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^c21538921]: Marginal citation: [1988 c.13](https://www.legislation.gov.uk/ukpga/1988/13).
+
+[^c21538931]: Marginal citation: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^key-01febe38644690564216ea8c74514b5d]: Textual amendment: Reg. 53(b) substituted (1.4.2013) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2013 (S.I. 2013/772)](https://www.legislation.gov.uk/uksi/2013/772), [regs. 1](https://www.legislation.gov.uk/uksi/2013/772/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/772/regulation/2/2)
+
+[^key-0ce017736f5bb580a44a89f7ed40b3a4]: Textual amendment: Reg. 56(3) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-dfd0e994a3301a2fe7d23a49ca5fce33]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2013/104/regulation/56A) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/1143/regulation/6))
+
+[^c21538941]: Marginal citation: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^key-27b2d9bf3ea711a54e85133c6142eddd]: Textual amendment: Words in reg. 58(1)(a) omitted (22.7.2016) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/6/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-6649cd61d67009b7652bb0a126de818c]: Textual amendment: Words in reg. 58(1)(b) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-2f026af277e257219d7d010588d48439]: Textual amendment: Reg. 58(1)(c) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/6/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-817252d6dbf869b4deb5de792a973c4f]: Textual amendment: Word in reg. 58(2)(a) inserted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(6)(d)(i)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/6/d/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-59a2950e9caf237263a84d9953feab70]: Textual amendment: Reg. 58(2)(b) and word omitted (27.1.2014) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2014 (S.I. 2014/131)](https://www.legislation.gov.uk/uksi/2014/131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/131/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2014/131/regulation/2/5/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/131/regulation/3))
+
+[^key-e4bd6c1587d5e154dda1cbe224287b8b]: Textual amendment: Reg. 58(2)(b) inserted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/6/d/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-ff53ea40e5d82ef8bc2e29695fbcd4ab]: Textual amendment: Reg. 58(3) inserted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(6)(e)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/6/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-80d543f4e2c42345137ca73e131548df]: Textual amendment: Words in reg. 60(1)(2) substituted (31.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2015 (S.I. 2015/1414)](https://www.legislation.gov.uk/uksi/2015/1414), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1414/regulation/2/4)
+
+[^key-7d26a38a7c3eb4b866b18be93d80cb0e]: Textual amendment: Words in reg. 60(1) inserted (25.10.2019) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid for Separated Children) (Miscellaneous Amendments) Order 2019 (S.I. 2019/1396)](https://www.legislation.gov.uk/uksi/2019/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1396/article/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/1396/article/4/5)
+
+[^key-28302783fdde271a441454d54dc34556]: Textual amendment: Words in reg. 60(2) inserted (25.10.2019) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid for Separated Children) (Miscellaneous Amendments) Order 2019 (S.I. 2019/1396)](https://www.legislation.gov.uk/uksi/2019/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1396/article/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/1396/article/4/5)
+
+[^key-204d47f51f13eb6f16acc23cf06bbd07]: Textual amendment: Reg. 60(3) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-1876ee61f46c77fcf441b0205c2b59d8]: Textual amendment: Words in reg. 61(1)(a) omitted (22.7.2016) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/8/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-bc0c251e132640c340b027a5ebbe72c7]: Textual amendment: Words in reg. 61(1)(b) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/8/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-dd4b12ad5379854aedd5265514c78497]: Textual amendment: Word in reg. 61(2)(a) omitted (22.7.2016) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/8/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-f80190a1b1d81c01f8f3c445f3a21848]: Textual amendment: Reg. 61(2)(b) inserted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(8)(d)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/8/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-999453b0ce99ba45a8f2e89e662d5f11]: Textual amendment: Words in [reg. 64(2)(a)](https://www.legislation.gov.uk/uksi/2013/104/regulation/64/2/a) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(f)](https://www.legislation.gov.uk/uksi/2025/611/article/6/f)
+
+[^key-85837eb1181aec26b25ec5b53d0fc214]: Textual amendment: [Reg. 64(2)(c)](https://www.legislation.gov.uk/uksi/2013/104/regulation/64/2/c) omitted (27.1.2014) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2014 (S.I. 2014/131)](https://www.legislation.gov.uk/uksi/2014/131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/131/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2014/131/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/131/regulation/3))
+
+[^key-e0c2f4f4ed65a36006943e679f91a19d]: Textual amendment: Words in reg. 64(2)(d) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(4)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/4/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a85cbb85b84925f6b3535b385d25b99e]: Textual amendment: Words in reg. 64(2)(e) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(4)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/4/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-32d2fb952f123f43dd1bc2bc069dd5f2]: Textual amendment: Words in [reg. 65](https://www.legislation.gov.uk/uksi/2013/104/regulation/65) heading inserted (1.3.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2023/150/article/3/1), [5(7)(a)](https://www.legislation.gov.uk/uksi/2023/150/article/5/7/a)
+
+[^key-7d0c522a57dd96413c9358f7d59edd95]: Textual amendment: Words in [reg. 65](https://www.legislation.gov.uk/uksi/2013/104/regulation/65) heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(5)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/5/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a2fdb0c636ffaa861b647f722901aca6]: Textual amendment: Word in [reg. 65(2)(a)](https://www.legislation.gov.uk/uksi/2013/104/regulation/65/2/a) omitted (1.3.2023) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2023/150/article/3/1), [5(7)(b)(i)](https://www.legislation.gov.uk/uksi/2023/150/article/5/7/b/i)
+
+[^key-c4bffc8d7fca25f64b4deae48e29187b]: Textual amendment: [Reg. 65(2)(aa)](https://www.legislation.gov.uk/uksi/2013/104/regulation/65/2/aa) inserted (1.3.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2023/150/article/3/1), [5(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/150/article/5/7/b/ii)
+
+[^key-afb85d189a7a85cbffd90702922e49ac]: Textual amendment: Words in reg. 65(2)(b)(i) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/5/b/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2d135617bb334626246d71e63c7c8a08]: Textual amendment: Words in reg. 65(2)(b)(ii) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/5/b/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-44f48df2e340d29ce3efe2ed077c2ecc]: Textual amendment: [Reg. 66](https://www.legislation.gov.uk/uksi/2013/104/regulation/66) heading inserted (1.5.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/150/article/3/2/c), [5(8)(a)](https://www.legislation.gov.uk/uksi/2023/150/article/5/8/a)
+
+[^key-799b4788371a4ce43e270004ba7219ad]: Textual amendment: Words in [reg. 66(1)](https://www.legislation.gov.uk/uksi/2013/104/regulation/66/1) inserted (1.5.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/150/article/3/2/c), [5(8)(b)](https://www.legislation.gov.uk/uksi/2023/150/article/5/8/b)
+
+[^key-015f2d8112c240fb702f1c052cc018b8]: Textual amendment: Reg. 66(2)-(4) substituted for reg. 66(2) (27.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1571)](https://www.legislation.gov.uk/uksi/2015/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1571/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/1571/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1571/regulation/3))
+
+[^key-df4efeb86d961c685b2276da70cad5dd]: Textual amendment: Words in [reg. 66(2)](https://www.legislation.gov.uk/uksi/2013/104/regulation/66/2) inserted (1.5.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/150/article/3/2/c), [5(8)(c)](https://www.legislation.gov.uk/uksi/2023/150/article/5/8/c)
+
+[^key-9df313111fd30b16f238965ab89f90c5]: Textual amendment: [Reg. 66(4)](https://www.legislation.gov.uk/uksi/2013/104/regulation/66/4) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-72e14b8583b57c857e7b2a5fc46a8cdb]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2013/104/regulation/67) heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(g)](https://www.legislation.gov.uk/uksi/2025/611/article/6/g)
+
+[^key-0348434bca4ea46d4332e5341ebbf748]: Textual amendment: Words in [reg. 67](https://www.legislation.gov.uk/uksi/2013/104/regulation/67) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(h)](https://www.legislation.gov.uk/uksi/2025/611/article/6/h)
+
+[^key-657e04e936d65a334a7267a553bcd182]: Textual amendment: Words in reg. 67(1) substituted (27.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1571)](https://www.legislation.gov.uk/uksi/2015/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1571/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2015/1571/regulation/2/8/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1571/regulation/3))
+
+[^key-2b2ff70faf6a731172de7798eda1e6af]: Textual amendment: Reg. 67(2) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^M_F_16d99d65-2c6d-4894-b080-68db6c9bb08c]: Textual amendment: Reg. 67(2)(3) substituted for reg. 67(2) (27.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1571)](https://www.legislation.gov.uk/uksi/2015/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1571/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2015/1571/regulation/2/8/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1571/regulation/3))
+
+[^key-8af59153d938202af391c680913abaa9]: Textual amendment: Words in reg. 68 title substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(6)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/6/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4bc02fd355612380ef9f182e22722940]: Textual amendment: Words in reg. 68(1) substituted (27.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1571)](https://www.legislation.gov.uk/uksi/2015/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1571/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2015/1571/regulation/2/9/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1571/regulation/3))
+
+[^key-024e782b5e034bd82dd0d82ef786881e]: Textual amendment: Reg. 68(2) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/11) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^M_F_5a6c0421-1f19-4489-defe-91c283866345]: Textual amendment: Reg. 68(2)(2A) substituted for reg. 68(2) (27.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1571)](https://www.legislation.gov.uk/uksi/2015/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1571/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2015/1571/regulation/2/9/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1571/regulation/3))
+
+[^key-53b85caaff6ac5b79d445bb61f17a9ab]: Textual amendment: Words in reg. 68(3)(b) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/6/b/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cfa9c635d0fb8aa1e0df02dc73d1fd0f]: Textual amendment: Words in reg. 68(3)(c) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 41(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/41/6/b/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-94a8451e6072b1f2d55334cfb4c8674d]: Textual amendment: [Reg. 69(3)](https://www.legislation.gov.uk/uksi/2013/104/regulation/69/3) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/12) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))
+
+[^key-8675bc264ef12ac23263a7a41c501633]: Textual amendment: Words in [reg. 69(4)(a)](https://www.legislation.gov.uk/uksi/2013/104/regulation/69/4/a) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(i)](https://www.legislation.gov.uk/uksi/2025/611/article/6/i)
+
+[^c21538951]: Marginal citation: [1986 c.55](https://www.legislation.gov.uk/ukpga/1986/55).
+
+[^c21538961]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-8b5b182634504404f991e6665b08a4ba]: Textual amendment: Reg. 69(4)(a)(iii) and word inserted (10.12.2015) by [The Civil Legal Aid (Merits Criteria and Information about Financial Resources) (Amendment) Regulations 2015 (S.I. 2015/2005)](https://www.legislation.gov.uk/uksi/2015/2005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2005/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/2005/regulation/2/3)
+
+[^key-3e4ca5fa13c62b19cf599c2bf4fd635d]: Textual amendment: Words in [reg. 69(4)(b)](https://www.legislation.gov.uk/uksi/2013/104/regulation/69/4/b) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [6(i)](https://www.legislation.gov.uk/uksi/2025/611/article/6/i)
+
+[^key-aa1a78557b241c844152e1cbd50e1155]: Textual amendment: Reg. 69(4)(ba) inserted (27.1.2014) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2014 (S.I. 2014/131)](https://www.legislation.gov.uk/uksi/2014/131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/131/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2014/131/regulation/2/11) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/131/regulation/3))
+
+[^c21538971]: Marginal citation: Article 17(a) provides that in the case of all applications under the 2007 Hague Convention other than those under article 15 or 16 the provision of free legal assistance may be made subject to a merits test.
+
+[^key-cc301711f21ccedb73b2b99dc954ebc8]: Textual amendment: [Reg. 72](https://www.legislation.gov.uk/uksi/2013/104/regulation/72) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/1143/regulation/6))
+
+[^key-6539364cc7f803a47ff70f08c9ee56d4]: Textual amendment: Words in reg. 75(2)(c) substituted (27.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1571)](https://www.legislation.gov.uk/uksi/2015/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1571/regulation/1), [2(11)(a)](https://www.legislation.gov.uk/uksi/2015/1571/regulation/2/11/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1571/regulation/3))
+
+[^key-e92dfa0bd15bd375a65df06dbd879570]: Textual amendment: Words in reg. 75(3)(a) substituted (27.7.2015) by [The Civil Legal Aid (Merits Criteria) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1571)](https://www.legislation.gov.uk/uksi/2015/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1571/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/uksi/2015/1571/regulation/2/11/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1571/regulation/3))
+
+[^key-ed60cc1ccb65a625fe93ea6583c4c3b2]: Textual amendment: Reg. 75(3)(c) and word omitted (27.7.2015) by virtue of [The Civil Legal Aid (Merits Criteria) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1571)](https://www.legislation.gov.uk/uksi/2015/1571), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1571/regulation/1), [2(11)(c)](https://www.legislation.gov.uk/uksi/2015/1571/regulation/2/11/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1571/regulation/3))
+
+[^key-4f1fc6e484b9786345e0e3f05785e0f6]: Textual amendment: [Reg. 75(3A)](https://www.legislation.gov.uk/uksi/2013/104/regulation/75/3A) substituted (22.7.2016) by [The Civil Legal Aid (Merits Criteria) (Amendment) Regulations 2016 (S.I. 2016/781)](https://www.legislation.gov.uk/uksi/2016/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/781/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2016/781/regulation/2/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/781/regulation/3))

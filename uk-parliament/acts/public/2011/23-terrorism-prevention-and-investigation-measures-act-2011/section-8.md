@@ -1,0 +1,42 @@
+---
+title: Terrorism Prevention and Investigation Measures Act 2011, section 8
+act: Terrorism Prevention and Investigation Measures Act 2011
+section: '8'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2011/23/section/8
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Terrorism Prevention and Investigation Measures Act 2011, section 8
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 8. Directions hearing
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if the court—
+
+- (a) gives permission under section 6 for measures to be imposed on an individual, or
+- (b) confirms under paragraph 4(3) of Schedule 2 (whether or not subject to paragraph 4(2) of that Schedule) a TPIM notice which imposes measures on an individual.
+
+(2) The court must, at the hearing where it gives the permission or confirms the notice, give directions for a further hearing (a “directions hearing”)—
+
+- (a) which, unless the court otherwise directs (whether in those directions or subsequently), is to be held within the period of 7 days beginning with the relevant day, and
+- (b) which the individual is to have the opportunity to attend.
+
+(3) In a case where this section applies because the court gives permission under section 6, directions given under subsection (2) may not be served on the individual unless the TPIM notice has been served on that individual.
+
+(4) At the directions hearing, the court must give directions for a further hearing (a “review hearing”) in relation to the imposition of measures on the individual.
+
+(5) Directions under subsection (4) must provide for the review hearing to be held as soon as reasonably practicable.
+
+(6) In this section “**relevant day**” means—
+
+- (a) in a case falling within subsection (1)(a), the day on which the TPIM notice imposing the measures is served on the individual;
+- (b) in a case falling within subsection (1)(b), the day on which the court confirms the TPIM notice.

@@ -1,0 +1,268 @@
+---
+title: The Child Benefit (General) Amendment Regulations 2000
+id: uksi/2000/2891
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-10-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/2891
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/2891/pdfs/uksi_20002891_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/2891/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Benefit (General) Amendment Regulations 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 2891
+
+SOCIAL SECURITY
+
+The Child Benefit (General) Amendment Regulations 2000
+
+Made
+
+23rd October 2000
+
+Laid before Parliament
+
+30th October 2000
+
+Coming into force—
+
+for the purposes of regulations 6 and 7(c)
+
+6th April 2001
+
+for all other purposes
+
+20th November 2000
+
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 142(1)(b) and (4), 143(3)(c), 144(1) and (2) and 147(1) and (6) of, and paragraph 1(c) of Schedule 9 to, the Social Security Contributions and Benefits Act 1992[^f00001] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00002] hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Child Benefit (General) Amendment Regulations 2000 and shall come into force—
+
+- (a) for the purposes of regulations 6 and 7(c), on 6th April 2001;
+- (b) for all other purposes, on 20th November 2000.
+
+(2) In these Regulations, “the principal Regulations” means the Child Benefit (General) Regulations 1976[^f00003].
+
+## 2. Amendment of regulation 1(2) of the principal Regulations
+
+In regulation 1(2) of the principal Regulations[^f00004] (interpretation)—
+
+- (a) after the definition of “the Act” there shall be inserted the following definitions—
+
+  > - “the Benefits Act” means the Social Security Contributions and Benefits Act 1992[^f00005];
+  > - “the 1989 Act” means the Children Act 1989[^f00006];
+  > - “the 1995 Act” means the Children (Scotland) Act 1995[^f00007];
+
+  ;
+- (b) for the words ““youth training scheme”” there shall be substituted the words ““relevant training scheme”” and that definition shall be inserted after the definition of “full-time education”.
+
+## 3.  Substitution of regulation 3 of the principal Regulations
+
+For regulation 3 of the principal Regulations there shall be substituted the following regulation—
+
+> **3. Child in residential accommodation in prescribed circumstances**
+>
+> (1) The prescribed circumstances for the purposes of section 143(3)(c) of the Benefits Act (absence of child disregarded if in residential accommodation pursuant to certain provisions) are any circumstances in which a child is in residential accommodation pursuant to arrangements made under—
+>
+> - (a) where the child has attained the age of 18, section 21 of the National Assistance Act 1948[^f00008] or under section 12 of the Social Work (Scotland) Act 1968[^f00009]; or
+> - (b) the provisions specified in paragraph (2),
+>
+> and such accommodation has been provided solely on account of that child’s disability or because his health would be likely to be significantly impaired, or further impaired, unless such accommodation was provided.
+>
+> (2) The provisions specified for the purposes of paragraph (1)(b) are—
+>
+> - (a) the National Health Service (Scotland) Act 1978[^f00010];
+> - (b) the Education (Scotland) Act 1980[^f00011];
+> - (c) the Mental Health (Scotland) Act 1984[^f00012];
+> - (d) the 1989 Act;
+> - (e) the 1995 Act.
+
+.
+
+## 4. Amendment of regulation 6 of the principal Regulations
+
+In regulation 6(2)(a) of the principal Regulations[^f00013] (interruption of full-time education), for the words “the youth training scheme” there shall be substituted the words “a relevant training scheme”.
+
+## 5.  Substitution of regulation 7B of the principal Regulations
+
+For regulation 7B of the principal Regulations[^f00014] there shall be substituted the following regulation—
+
+> **7B.  Child receiving training under a relevant training scheme**
+>
+> Child benefit shall not be payable by virtue of section 142(1)(b) of the Benefits Act in respect of a child aged 16 or over for any week—
+>
+> - (a) in which training for that child is being provided under a relevant training scheme; and
+> - (b) in respect of which an allowance may be paid under such a scheme to that child.
+
+.
+
+## 6.  Substitution of regulation 7C of the principal Regulations
+
+For regulation 7C of the principal Regulations[^f00015] there shall be substituted the following regulation—
+
+> **7C.  Child receiving income support, income-based jobseeker’s allowance or incapacity benefit**
+>
+> Child benefit shall not be payable in respect of a child by virtue of section 142(1)(c) of the Benefits Act for any week in respect of which that child receives—
+>
+> - (a) income support;
+> - (b) an income-based jobseeker’s allowance within the meaning of section 1(4) of the Jobseekers Act 1995[^f00016]; or
+> - (c) incapacity benefit by virtue of being a person to whom section 30A(1)(b) of the Benefits Act[^f00017] applies.
+
+.
+
+## 7. Amendment of regulation 7D of the principal Regulations
+
+In regulation 7D of the principal Regulations[^f00018] (circumstances in which a person who has ceased to receive full-time education is to be treated as a child)—
+
+- (a) in both paragraphs (1)(a) and (3)(a), for the words “the youth training scheme” there shall be substituted the words “a relevant training scheme”;
+- (b) in paragraph (1)(a), for heads (iii) and (iv) there shall be substituted the following heads—
+
+  > - (iii) in England and Wales, a person with whom the Secretary of State or, as the case may be, the National Assembly for Wales, has made arrangements under section 10(1) of the Employment and Training Act 1973[^f00019], or a local education authority to whom a direction has been given by the Secretary of State or the National Assembly for Wales under section 10(2) of that Act;
+  > - (iv) in Scotland, a person with whom the Scottish Ministers have made arrangements under section 10(1) of the Employment and Training Act 1973, or an education authority to whom a direction has been given by the Scottish Ministers under section 10(2) of that Act;
+
+  ;
+- (c) at the end of paragraph (3)(b), there shall be inserted the words “or to incapacity benefit by virtue of being a person to whom section 30A(1)(b) of the Benefits Act applies”.
+
+## 8. Amendment of regulation 16 of the principal Regulations
+
+(1) Regulation 16 of the principal Regulations[^f00020] (children in detention, care etc.) shall be amended in accordance with the following paragraphs of this regulation.
+
+(2) For paragraph (5) there shall be substituted the following paragraphs—
+
+> (5) Subject to paragraph (5A), for the purposes of paragraph 1(c) of Schedule 9 to the Benefits Act (child in care of a local authority in such circumstances as may be prescribed), the prescribed circumstances are that the child is provided with, or placed in, accommodation under Part III of the 1989 Act or under Part II of the 1995 Act and the cost of that child’s accommodation or maintenance is borne wholly or partly out of local authority funds or any other public funds.
+>
+> (5A) Paragraph (5) shall only apply to the extent that the child is not in residential accommodation in the circumstances prescribed in regulation 3.
+
+.
+
+(3) For paragraphs (8) and (9) there shall be substituted the following paragraphs—
+
+> (8) For any day in any week in which a child is placed by a local authority in the home of any person in accordance with the provisions of—
+>
+> - (a) the Arrangements for Placement of Children (General) Regulations 1991[^f00021];
+> - (b) the Arrangements to Look After Children (Scotland) Regulations 1996[^f00022];
+> - (c) the Foster Placement (Children) Regulations 1991[^f00023];
+> - (d) the Fostering of Children (Scotland) Regulations 1996[^f00024],
+>
+> and that local authority is making a payment in respect of either the child’s accommodation or maintenance or both under section 23 of the 1989 Act or under section 26 of the 1995 Act, paragraph (6) shall not apply to that person in relation to that child.
+>
+> (9) Paragraph (6) shall not apply in respect of any child who—
+>
+> - (a) is being looked after by a local authority; and
+> - (b) has been placed for adoption by that authority in the home of a person proposing to adopt him,
+>
+> provided that a local authority is making a payment in respect of either the child’s accommodation or maintenance or both under section 23 of the 1989 Act or under section 26 of the 1995 Act.
+
+.
+
+## 9. Amendment of regulation 17 of the principal Regulations
+
+In regulation 17 of the principal Regulations[^f00025] (right to benefit of voluntary organisations)—
+
+- (a) for paragraph (1)(b) there shall be substituted the following sub-paragraph—
+
+  > - (b) placed by the voluntary organisation in the home of any person in accordance with the provisions of the Foster Placement (Children) Regulations 1991 or the Fostering of Children (Scotland) Regulations 1996.
+
+  ;
+- (b) for paragraph (4)(a) there shall be substituted the following sub-paragraph—
+
+  > - (a) that child is in residential accommodation in the circumstances prescribed in regulation 3; or
+
+  .
+
+Signed by authority of the Secretary of State for Social Security.
+
+P. Hollis,
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+23rd October 2000
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Child Benefit (General) Regulations 1976 (S.I. [1976/965](https://www.legislation.gov.uk/uksi/1976/965)) (“the principal Regulations”).
+
+In particular, these Regulations—
+
+provide new definitions of various Acts referred to in the principal Regulations (regulation 2(a));
+
+replace references in the principal Regulations to youth training scheme with references to a relevant training scheme (regulations 2(b), 4, 5 and 7(a));
+
+prescribe circumstances where a child’s absence in residential accommodation pursuant to certain provisions is to be disregarded (regulation 3);
+
+provide that child benefit shall not be payable in respect of a child who satisfies certain conditions of entitlement to incapacity benefit (regulations 6 and 7(c));
+
+update references to the persons with whom a person under 18 may be registered for work or training to include those persons with whom the Secretary of State, the National Assembly for Wales or Scottish Ministers have made arrangements under specified legislation (regulation 7(b));
+
+prescribe circumstances where child benefit is not payable in respect of a child in the care of a local authority (regulation 8);
+
+update references to legislation in the provisions in the principal Regulations relating to the right to benefit of voluntary organisations (regulation 9).
+
+These Regulations do not impose any charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 143(3)(c) was amended by section 72 of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19). Section 147(1) is cited because of the meaning ascribed to the word “prescribed”.
+
+[^f00002]: Footnote: *See* sections 170 and 173(1)(b) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00003]: Footnote: S.I. [1976/965](https://www.legislation.gov.uk/uksi/1976/965).
+
+[^f00004]: Footnote: The definition of “youth training scheme” was inserted by S.I. [1988/1227](https://www.legislation.gov.uk/uksi/1988/1227).
+
+[^f00005]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00006]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00007]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^f00008]: Footnote: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29). Section 21 was amended by the Social Work (Scotland) Act [1968 (c. 49)](https://www.legislation.gov.uk/ukpga/1968/49), section 95(2) and Schedule 9; the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), sections 195 and 272, Schedule 23, paragraph 2 and Schedule 30; the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), section 58 and Schedule 5, paragraph 44; the Housing (Homeless Persons) Act [1977 (c. 48)](https://www.legislation.gov.uk/ukpga/1977/48), section 20(4) and the Schedule; the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41), section 108(5) and Schedule 13, paragraph 11(1); the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), sections 42(1) and 66(1) and (2) and Schedule 9, paragraph 5(1) to (3) and Schedule 10 and the Community Care (Residential Accommodation) Act [1998 (c. 19)](https://www.legislation.gov.uk/ukpga/1998/19), section 1.
+
+[^f00009]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49). Section 12 was amended by the Community Care (Residential Accommodation) Act [1998 (c. 19)](https://www.legislation.gov.uk/ukpga/1998/19), section 2.
+
+[^f00010]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^f00011]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^f00012]: Footnote: [1984 c. 36](https://www.legislation.gov.uk/ukpga/1984/36).
+
+[^f00013]: Footnote: Regulation 6(2) was subtituted by S.I. [1980/1045](https://www.legislation.gov.uk/uksi/1980/1045) and sub-paragraph (a) was substituted by S.I. [1988/1227](https://www.legislation.gov.uk/uksi/1988/1227).
+
+[^f00014]: Footnote: Regulation 7B was substituted by S.I. [1988/1227](https://www.legislation.gov.uk/uksi/1988/1227).
+
+[^f00015]: Footnote: Regulation 7C was substituted by S.I. [1996/1345](https://www.legislation.gov.uk/uksi/1996/1345).
+
+[^f00016]: Footnote: [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00017]: Footnote: Section 30A was inserted by the Social Security (Incapacity for Work) Act [1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18). Subsection (1)(b) was inserted by section 64(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^f00018]: Footnote: Regulation 7D was inserted by S.I. [1988/1227](https://www.legislation.gov.uk/uksi/1988/1227) and amended by S.I. [1995/2986](https://www.legislation.gov.uk/uksi/1995/2986) and [1996/1345](https://www.legislation.gov.uk/uksi/1996/1345).
+
+[^f00019]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50); section 10 was substituted by section 45 of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19). The Secretary of State’s functions under that Act in relation to Wales were transferred to the National Assembly for Wales by S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^f00020]: Footnote: Regulation 16 was amended by S.I. [1983/3](https://www.legislation.gov.uk/uksi/1983/3), [1984/337](https://www.legislation.gov.uk/uksi/1984/337), [1987/357](https://www.legislation.gov.uk/uksi/1987/357) and [1991/2105](https://www.legislation.gov.uk/uksi/1991/2105).
+
+[^f00021]: Footnote: S.I. [1991/890](https://www.legislation.gov.uk/uksi/1991/890).
+
+[^f00022]: Footnote: S.I. [1996/3262 (S. 252)](https://www.legislation.gov.uk/uksi/1996/3262).
+
+[^f00023]: Footnote: S.I. [1991/910](https://www.legislation.gov.uk/uksi/1991/910).
+
+[^f00024]: Footnote: S.I. [1996/3263 (S. 253)](https://www.legislation.gov.uk/uksi/1996/3263).
+
+[^f00025]: Footnote: Regulation 17(1) was amended by S.I. [1987/357](https://www.legislation.gov.uk/uksi/1987/357).

@@ -1,0 +1,441 @@
+---
+title: The Tees Valley Combined Authority Order 2016
+id: uksi/2016/449
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-29'
+text_date: '2026-07-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/449
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/449/pdfs/uksiem_20160449_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/449/pdfs/uksi_20160449_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/449/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tees Valley Combined Authority Order 2016
+
+> Text as at 2026-07-22.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 449
+
+Local Government, England
+
+Transport, England
+
+The Tees Valley Combined Authority Order 2016
+
+Made
+
+29th March 2016
+
+Coming into force in accordance with article 1
+
+This Order is made in exercise of the powers conferred by sections 103 to 105, 114 and 117 of, and paragraph 3 of Schedule 5A to, the Local Democracy, Economic Development and Construction Act 2009[^f00001] (“the 2009 Act”).
+
+The Secretary of State, having regard to a scheme prepared and published under section 109 of the 2009 Act considers that—
+
+- (a) the making of this Order is likely to improve the exercise of statutory functions in the area to which this Order relates, and
+- (b) any consultation required by section 110(2) of the 2009 Act has been carried out.
+
+The Secretary of State is satisfied that the area to which this Order relates meets the conditions set out in section 103 of the 2009 Act.
+
+In making this Order, the Secretary of State has had regard to the need to reflect the identities and interests of local communities, and to secure effective and convenient local government.
+
+The councils for the local government areas of Darlington, Hartlepool, Middlesbrough, Redcar and Cleveland and Stockton-on-Tees have consented to the making of this Order.
+
+A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 117(2) of the 2009 Act.
+
+Accordingly, the Secretary of State makes the following Order:
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-f1b4283505e192d01ad3d85a92c9596f]
+
+This Order may be cited as the Tees Valley Combined Authority Order 2016 and comes into force on either—
+
+- (a) 1st April 2016; or
+- (b) if the Order is made on or after 1st April 2016, on the day after the day on which the Order is made.
+
+### 2. Interpretation[^key-545552e4e0a633a56fbb7758558337ac]
+
+In this Order—
+
+- “the 2009 Act” means the Local Democracy, Economic Development and Construction Act 2009;
+- “combined area” means the area consisting of the areas of the constituent councils;
+- “the Combined Authority” means the Tees Valley Combined Authority as constituted by article 3;
+- “constituent councils” means the councils for the local government areas of Darlington, Hartlepool, Middlesbrough, Redcar and Cleveland and Stockton-on-Tees;
+- “financial year” means the period of 12 months ending with 31st March in any year; and
+- “the Local Enterprise Partnership” means the board of Tees Valley Unlimited;
+- “Mayor” means the mayor for the area of the Combined Authority.[^key-b6409c1df0928df04a5d395c1afefc21]
+
+## PART 2 — Establishment of a combined authority for Tees Valley
+
+### 3. Establishment[^key-6f90ab5897fa2e8197fbe5f943429af9]
+
+(1) There is established a combined authority for the combined area.
+
+(2) The combined authority is to be a body corporate and is to be known as the Tees Valley Combined Authority.
+
+(3) The functions of the Combined Authority are those functions conferred or imposed upon it by this Order or by any other enactment (whenever passed or made), or as may be delegated to it by or under this Order or any other enactment (whenever passed or made).
+
+### 4. Constitution[^key-159ea3c37af9dbe8d00274f14f7708a1]
+
+Schedule 1 (which makes provision about the constitution of the Combined Authority) has effect.
+
+### 5. Funding[^key-86b625b1d4152e730d23fdc4c19e2d54]
+
+(1) The constituent councils must meet the costs of the Combined Authority reasonably attributable to the Combined Authority’s exercise of the functions mentioned in article 7 (economic development and regeneration functions).
+
+(2) The amount payable by each of the constituent councils in respect of the functions mentioned in article 7 is to be determined by apportioning the costs of the Combined Authority referred to in paragraph (1) between the constituent councils in such proportions as they may agree or, in default of such agreement, in the following shares between the constituent councils—
+
+- Darlington 15.80%
+- Hartlepool 14.67%
+- Middlesbrough 20.89%
+- Redcar and Cleveland 20.97%
+- Stockton-on-Tees 27.67%.
+
+(3) The constituent councils must meet the costs of the Combined Authority reasonably attributable to the Combined Authority’s exercise of the functions mentioned in article 6 (delegation of transport functions).
+
+(4) The amount payable by each of the constituent councils in respect of the functions mentioned in article 6 is to be determined by apportioning the costs of the Combined Authority referred to in paragraph (3) between the constituent councils in such proportions as they may agree or, in default of such agreement, the amount payable shall be in the same proportion to the amount that each of the constituent councils have spent on the functions mentioned in article 6 in the financial year ending on 31st March 2016.
+
+## PART 3 — Transport
+
+### 6. Delegation of transport functions[^key-34c0039514f5394ed623c4d58bcb1928]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Additional functions
+
+### 7. Economic development and regeneration functions[^key-e239db5e581748ddae875789b92011b9]
+
+(1) The functions of the constituent councils set out in Schedule 2 are exercisable by the Combined Authority in relation to its area.
+
+(2) The functions are exercisable concurrently with the constituent councils.
+
+(3) Any requirement in any enactment for a constituent council to exercise such a function may be fulfilled by the exercise of that function by the Combined Authority.
+
+### 8. Incidental provisions[^key-95bbaf63dd7897365d17b85d47345026]
+
+The following provisions shall have effect as if the Combined Authority were a local authority for the purposes of those provisions—
+
+- (a) section 113 of the Local Government Act 1972[^f00004] (power to place staff at the disposal of other local authorities);
+- (b)[^key-af2e0f33a6048c500d9dac0ac877f867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-035e73c55386a533affb435edcfe70c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9.[^key-28363b979e15120d4de4196411c5e0b3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10.[^key-68c2ba0aca2ab552b7d6a6c6a6f73116]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11.[^key-7035e1a023bc21a9d9de1eeafc7fb52c]
+
+In Part 2 of Schedule 3 (pension funds) to the Local Government Pension Scheme Regulations 2013[^f00009] in the table insert at the end—
+
+> |  |  |
+> | --- | --- |
+> | An employee of the Tees Valley Combined Authority established by the Tees Valley Combined Authority Order 2016 | Middlesbrough Borough Council |
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+James Wharton
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+29th March 2016
+
+## SCHEDULE 1 — Constitution
+
+Article 4
+
+### 1. Membership[^key-4faae4f8d7d14042e173c0c3c699017f]
+
+(1) Each constituent council must appoint one of its elected members to be a member of the Combined Authority.
+
+(2) Each constituent council must appoint another of its elected members to act as a member of the Combined Authority in the absence of the member appointed under sub-paragraph (1) or if that member has been appointed as the Deputy Mayor and is acting in place of the Mayor at a meeting[^key-32be05e55d49f53a9bdbaf0b97648398] (“the substitute member”).
+
+(3) The Local Enterprise Partnership must nominate one of its members to be a member of the Combined Authority.
+
+(4) The Local Enterprise Partnership must nominate another of its members to act as a member of the Combined Authority in the absence of the member appointed under sub-paragraph (3) (“the substitute member”).
+
+(5) The Combined Authority must appoint the member nominated by the Local Enterprise Partnership under sub-paragraph (3) as a member of the Combined Authority (“Local Enterprise Partnership Member”).
+
+(6) The Combined Authority must appoint the member nominated by the Local Enterprise Partnership under sub-paragraph (4) to act as a member of the Combined Authority in the absence of the member appointed under sub-paragraph (5) (“the substitute member”).
+
+(7) A person ceases to be a member or substitute member of the Combined Authority if they cease to be a member of—
+
+- (a) the constituent council that appointed them; or
+- (b) the Local Enterprise Partnership that nominated them.
+
+(8) A person may resign as a member or substitute member of the Combined Authority by written notice served on the proper officer of the constituent council that appointed them or, as the case may be, the chairman or vice-chairman of the Local Enterprise Partnership that nominated them, and the resignation takes effect on receipt of the notice by the proper officer of the council or chairman or vice-chairman of the Local Enterprise Partnership (as the case may be).
+
+(9) Where a member or substitute member of the Combined Authority’s appointment ceases by virtue of sub-paragraph (7) or (8)—
+
+- (a) the constituent council that made the appointment must, as soon as practicable, give written notice of that fact to the Combined Authority and appoint another of its elected members in that person’s place;
+- (b) the Local Enterprise Partnership must, as soon as practicable, give written notice of that fact to the Combined Authority and nominate another of its members in that person’s place.
+
+(10) A constituent council may at any time terminate the appointment of a member or substitute member appointed by it to the Combined Authority and appoint another one of its elected members in that person’s place.
+
+(11) Where a constituent council exercises its power under sub-paragraph (10), it must give written notice of the new appointment and the termination of the previous appointment to the Combined Authority and the new appointment shall take effect and the previous appointment terminate at the end of one week from the date on which the notice is given or such longer period not exceeding one month as is specified in the notice.
+
+(12) The Local Enterprise Partnership may at any time terminate the appointment of a Local Enterprise Partnership Member or substitute member nominated by it to the Combined Authority and nominate another of its members in that person’s place.
+
+(13) Where the Local Enterprise Partnership exercises its power under sub-paragraph (12), it must give written notice of the new nomination and the termination of the previous appointment to the Combined Authority.
+
+(14) The Combined Authority must appoint a Local Enterprise Partnership Member nominated under sub-paragraph (13) and the new appointment shall take effect and the previous appointment terminate at the end of one week from the date on which the notice is given or such longer period not exceeding one month as is specified in the notice.
+
+(15) The Combined Authority must appoint a Local Enterprise Partnership Member nominated under sub-paragraph (9)(b) or sub-paragraph (13) at the next meeting of the Combined Authority.
+
+(16) For the purposes of this paragraph, an elected mayor of a constituent council is to be treated as a member of the constituent council.
+
+### 2. Chairman and vice-chairman[^key-298bd7d0d9fc159472386841ba3520f2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Proceedings[^key-400efa7a32848e0dd5dbe72da898f8a9][^key-b7345a74d4d3c5db4a2a0667748b82a0]
+
+(1)[^key-92862ec5dd69790e1d99eb4f2bf7ac5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) No business is to be transacted at a meeting of the Combined Authority unless the Mayor, or the deputy Mayor acting in place of the Mayor, and at least three members, or substitute members, appointed by the constituent councils are present at the meeting.
+
+(3)[^key-5f73f3abe70cab39997787abad84aa65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-bcd2b9684c9df4181516496d22810658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Members appointed from the Local Enterprise Partnership shall be non-voting members of the Combined Authority.
+
+(6)[^key-02ce7e780d6dde2de6a1ec0cd2d08ce9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-5378a103728352f259d3045f1fa5c4b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-e144b70294bd46e8a44e387498197188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Committees[^key-7d8e944ffd8203b61586ea4a6a6fc5a7]
+
+(1) The Combined Authority must appoint at least three members of each of the constituent councils to the overview and scrutiny committee appointed by the Combined Authority, so that the members of the committee taken as a whole reflect so far as reasonably practicable the balance of political parties for the time being prevailing among members of the constituent councils.
+
+(2) An overview and scrutiny committee appointed by the Combined Authority may not include any substitute member of the Combined Authority.
+
+(3)[^key-e8cb7f1dab85b2760d7f99f9118e8e76] No business is to be transacted at a meeting of the overview and scrutiny committee unless at least two-thirds of the total number of members of the overview and scrutiny committee are present.
+
+(4) Each member of the overview and scrutiny committee appointed from the constituent councils is to have one vote and no member is to have a casting vote.
+
+(5) If a vote is tied on any matter it is deemed not to have been carried.
+
+(6) The Combined Authority must appoint an appropriate person[^f00010] who is a member of one of the constituent councils to be the chair of the overview and scrutiny committee appointed by the Combined Authority.
+
+(7) Where an overview and scrutiny committee appointed by the Combined Authority makes a report or recommendation under paragraph 1(2)(b) of Schedule 5A to the 2009 Act the committee may—
+
+- (a) publish the report or recommendations;
+- (b) by notice in writing require the Combined Authority to—
+  - (i) consider the report or recommendations;
+  - (ii) respond to the overview and scrutiny committee indicating what (if any) action the Combined Authority proposes to take; and
+  - (iii) if the overview and scrutiny committee has published the report or recommendations under paragraph (a), publish the response.
+
+(8) A notice served under sub-paragraph (7)(b) must require the Combined Authority to comply with it within two months beginning with the date on which the Combined Authority received the reports or recommendations or (if later) the notice.
+
+(9) The Combined Authority must comply with a notice given under sub-paragraph (7)(b).
+
+(10) Sub-paragraphs (7)(a) and (9) are subject to section 9FG of the Local Government Act 2000[^f00011] and to any provision made under section 9GA(8) and the Combined Authority is to be treated as a local authority for these purposes.
+
+### 4A. Independent remuneration panel[^key-6db4a2ca5815c77d6925f158767d98c3]
+
+The Combined Authority may establish an independent remuneration panel to recommend allowances payable to the Mayor.
+
+(2) An independent remuneration panel must consist of at least three members none of whom—
+
+- (a) is also a member of the Combined Authority or is a member of a committee or sub-committee of the Combined Authority; and
+- (b) is disqualified from being or becoming a member of the Combined Authority.
+
+(3) The Combined Authority may pay the expenses incurred by an independent remuneration panel established under sub-paragraph (1) in carrying out its functions and may pay the members of the panel such allowances or expenses as the Combined Authority may determine.
+
+(4) An independent remuneration panel must produce a report in relation to the Combined Authority, making recommendations as to any allowances payable to the Mayor.
+
+(5) A copy of a report made under paragraph (4) must be sent to the Combined Authority.
+
+### 5. Records[^key-3e0ec8f8f81169ff97f6d900ab5efcec]
+
+(1) The Combined Authority must make arrangements for the names of members and substitute members present at any meeting to be recorded.
+
+(2) Minutes of the proceedings of a meeting of the Combined Authority, or any committee or sub-committee of the Combined Authority, are to be kept in such form as the Combined Authority may determine.
+
+(3) Any such minutes are to be signed at the same or next suitable meeting of the Combined Authority, committee or sub-committee as the case may be, by the person presiding at that meeting.
+
+(4) Any minute purporting to be signed as mentioned in sub-paragraph (3) is to be received in evidence without further proof.
+
+(5) Until the contrary is proved, a meeting of the Combined Authority, committee or sub-committee, a minute of whose proceedings has been signed in accordance with this paragraph, is deemed to have been duly convened and held, and all the members and substitute members present at the meeting are deemed to have been duly qualified.
+
+(6) For the purposes of sub-paragraph (3) the next suitable meeting is the next following meeting or, where standing orders made by the Combined Authority provide for another meeting of the authority, committee or sub-committee, to be regarded as suitable, either the next following meeting or that other meeting.
+
+### 6. Standing orders[^key-28de3b614237ae5715bc2f1b8c44ccfa]
+
+The Combined Authority may make standing orders for the regulation of its proceedings and business and may vary or revoke any such orders.
+
+### 7. Remuneration and pensions[^key-3d43c8d6b93a0742076db4efab6b2fc6][^key-89b0da059168670a82d2ca38588d1e97]
+
+(1)[^key-af48ddc31d4a63ececc7cad2f86d471a] Subject to sub-paragraphs (2) to (4), no remuneration is to be payable by the Combined Authority to its members or to members of a constituent council who are appointed to an overview and scrutiny committee or sub-committee, or to the audit committee of the Combined Authority, other than—
+
+- (a) allowances for travel and subsistence paid in accordance with a scheme drawn up by the Combined Authority;
+- (b) allowances payable in accordance with a scheme made under section 113E of the 2009 Act.
+
+(2) The Combined Authority may pay the Mayor such allowances as it may agree, in accordance with any recommendations made by its independent remuneration panel.
+
+(3)[^key-3638a297e0c3778e0e672f935533d5ac] The Combined Authority may pay an allowance to—
+
+- (a) a member of a constituent council who is appointed to an overview and scrutiny committee of the Combined Authority, or a sub-committee of that committee,
+- (b) a member of the Combined Authority or a member of a constituent council who is appointed to the audit committee of the Combined Authority,
+
+in accordance with any recommendations made by its independent remuneration panel.
+
+(4)[^key-243879182971a88805d5b1aa5ee9bc75] Where the Combined Authority pays a relevant allowance to a person—
+
+- (a) that person is entitled to a pension paid in accordance with a scheme established under section 1 of the Public Service Pensions Act 2013;
+- (b) that allowance is to be treated as an amount in respect of which such a pension is payable under that scheme, and
+- (c) the Combined Authority must make such payments as may be required in respect of pension payable to a person in relation to that allowance.
+
+(5)[^key-e268fc35cc39d45551f87eb39b8b0cc9] In sub-paragraph (4), “relevant allowance” means—
+
+- (a) an allowance payable under sub-paragraphs (2) or (3) to any person referred to in those sub-paragraphs, which is not an allowance for travel and subsistence;
+- (b) an allowance payable in accordance with a scheme made under section 113E of the 2009 Act.
+
+## SCHEDULE 2 — Economic development and regeneration functions
+
+Article 7(1)
+
+**1.**[^key-5afa6e7c99b58655f96e9251188cd564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-ca3e6ab9f7619e41d872f3fbd4a8f669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-40d928a2fdadd7d36e04ed5282018050] The duties under sections [^key-79e0528692454645aa66264672247fc6]... 17 and 18A(1)(b) of the Education Act 1996[^f00014] and the power under sections 514A and 560A of that Act (duties and powers related to the provision of education and training for persons over compulsory school age).
+
+**4.**[^key-469a29cbad5f484093b947bb69dbea46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order establishes the Tees Valley Combined Authority.
+
+Part 6 of the Local Democracy, Economic Development and Construction Act 2009 (“the 2009 Act”) provides for the establishment of combined authorities for the areas of two or more local authorities in England. Combined authorities are bodies corporate which may be given power to exercise specified functions in their area.
+
+The Secretary of State may only establish a combined authority for an area where a scheme for such an authority has been published under section 109 of the 2009 Act. This Order has been made following the publication of such a scheme on 6th May 2015 by the constituent councils whose areas together make up the combined area of the new authority. The scheme is available at: https://www.teesvalleyunlimited.gov.uk/media/308031/governance\_review.pdf.
+
+*Part 2* of the Order establishes the new authority, to be known as the Tees Valley Combined Authority, and makes provision for its constitution and funding.
+
+*Article 4* of and *Schedule 1* to the Order make provision for the constitution of the Tees Valley Combined Authority. This is supplemental to the provision that is made by Part 1A of Schedule 12 to the Local Government Act 1972 (see paragraph (6A) of that Schedule, as amended by the 2009 Act).
+
+*Article 5* makes provision for the funding, by the constituent councils, of the costs of the Combined Authority. *Part 3* concerns the transport functions of the Combined Authority. *Article 6* provides for the delegation of specified transport functions of the constituent councils to the Combined Authority.
+
+*Part 4* confers additional functions on the Tees Valley Combined Authority. *Article 7* confers functions of the constituent councils relating to economic development and regeneration. These are set out in Schedule 2 to the Order and are to be exercised concurrently with the constituent councils. *Articles 8 to 11* make some general, incidental provisions relating to the Tees Valley Combined Authority to enable it to carry out its functions effectively.
+
+A full regulatory impact assessment has not been prepared as this instrument will have no impact on the costs of business or the voluntary sector.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20). Section 103 was amended by sections 12 and 14 of the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1). Section 104 was amended by sections 8 and 14 of, and Schedule 5 to, the Cities and Local Government Devolution Act 2016. Section 105 was amended by sections 6, 9 and 14 of the Cities and Local Government Devolution Act 2016. Section 114 was amended by Schedule 5 to the Cities and Local Government Devolution Act 2016. Section 117 was amended by section 13 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and Schedule 5 to the Cities and Local Government Devolution Act 2016. Schedule 5A was inserted by Schedule 3 to the Cities and Local Government Devolution Act 2016.
+
+[^key-f1b4283505e192d01ad3d85a92c9596f]: Commencement: Art. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-545552e4e0a633a56fbb7758558337ac]: Commencement: Art. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-b6409c1df0928df04a5d395c1afefc21]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2016/449/article/2) inserted (8.5.2017) by [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/431/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2017/431/article/8/2)
+
+[^key-6f90ab5897fa2e8197fbe5f943429af9]: Commencement: Art. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-159ea3c37af9dbe8d00274f14f7708a1]: Commencement: Art. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-86b625b1d4152e730d23fdc4c19e2d54]: Commencement: Art. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-34c0039514f5394ed623c4d58bcb1928]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2016/449/article/6) omitted (8.5.2017) by virtue of [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/431/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2017/431/article/4/3)
+
+[^key-e239db5e581748ddae875789b92011b9]: Commencement: Art. 7 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-95bbaf63dd7897365d17b85d47345026]: Commencement: Art. 8 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 113 was amended by paragraph 151 of Schedule 4 tothe National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32); by section 66(1) of and paragraph 13 of Schedule 9 to the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19); by paragraph 18 of Schedule 4 to the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43); by paragraph 51(a) of Schedule 1 to the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43); by paragraph 17 of Schedule 5, paragraph 3 of Schedule 7, and paragraph 3 of Schedule 17 to Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7); by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90); by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469); and by [S.I. 2007/961](https://www.legislation.gov.uk/uksi/2007/961).
+
+[^key-af2e0f33a6048c500d9dac0ac877f867]: Textual amendment: [Art. 8(b)](https://www.legislation.gov.uk/uksi/2016/449/article/8/b) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/2/a)
+
+[^key-035e73c55386a533affb435edcfe70c9]: Textual amendment: [Art. 8(c)](https://www.legislation.gov.uk/uksi/2016/449/article/8/c) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/2/a)
+
+[^key-28363b979e15120d4de4196411c5e0b3]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2016/449/article/9) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/2/b)
+
+[^key-68c2ba0aca2ab552b7d6a6c6a6f73116]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2016/449/article/10) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/2/b)
+
+[^key-7035e1a023bc21a9d9de1eeafc7fb52c]: Commencement: Art. 11 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^f00009]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356). Schedule 3 was amended by regulations 31 and 32 of the Local Government Pension Scheme (Amendment) Regulations [2015/755](https://www.legislation.gov.uk/uksi/2015/755).
+
+[^key-4faae4f8d7d14042e173c0c3c699017f]: Commencement: Sch. 1 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-32be05e55d49f53a9bdbaf0b97648398]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/1/2) inserted (8.5.2017) by [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/431/article/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2017/431/article/8/3/a)
+
+[^key-298bd7d0d9fc159472386841ba3520f2]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/2) omitted (8.5.2017) by virtue of [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/431/article/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2017/431/article/8/3/b)
+
+[^key-400efa7a32848e0dd5dbe72da898f8a9]: Commencement: Sch. 1 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-b7345a74d4d3c5db4a2a0667748b82a0]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/3) substituted (8.5.2017) by [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/431/article/1/2), [8(3)(c)](https://www.legislation.gov.uk/uksi/2017/431/article/8/3/c)
+
+[^key-92862ec5dd69790e1d99eb4f2bf7ac5e]: Textual amendment: [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/3/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/3)
+
+[^key-5f73f3abe70cab39997787abad84aa65]: Textual amendment: [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/3/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/3)
+
+[^key-bcd2b9684c9df4181516496d22810658]: Textual amendment: [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/3/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/3)
+
+[^key-02ce7e780d6dde2de6a1ec0cd2d08ce9]: Textual amendment: [Sch. 1 para. 3(6)](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/3/6) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/3)
+
+[^key-5378a103728352f259d3045f1fa5c4b0]: Textual amendment: [Sch. 1 para. 3(7)](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/3/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/3)
+
+[^key-e144b70294bd46e8a44e387498197188]: Textual amendment: [Sch. 1 para. 3(8)](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/3/8) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/3)
+
+[^key-7d8e944ffd8203b61586ea4a6a6fc5a7]: Commencement: Sch. 1 para. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-e8cb7f1dab85b2760d7f99f9118e8e76]: Textual amendment: [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/4/3) substituted (8.5.2017) by [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/431/article/1/3), [8(3)(d)(i)](https://www.legislation.gov.uk/uksi/2017/431/article/8/3/d/i)
+
+[^f00010]: Footnote: See paragraph 3(5) of Schedule 5A to the 2009 Act
+
+[^f00011]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Sections 9FG and 9GA were inserted by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 21 and Schedule 2.
+
+[^key-6db4a2ca5815c77d6925f158767d98c3]: Textual amendment: [Sch. 1 para. 4A](https://www.legislation.gov.uk/uksi/2016/449/schedule/1/paragraph/4A) inserted (17.3.2017) by [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/431/article/1/2), [8(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/431/article/8/3/d/ii)
+
+[^key-3e0ec8f8f81169ff97f6d900ab5efcec]: Commencement: Sch. 1 para. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-28de3b614237ae5715bc2f1b8c44ccfa]: Commencement: Sch. 1 para. 6 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-3d43c8d6b93a0742076db4efab6b2fc6]: Textual amendment: Sch. 1 para. 7 substituted (8.5.2017) by [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/431/article/1/2), [8(3)(e)](https://www.legislation.gov.uk/uksi/2017/431/article/8/3/e)
+
+[^key-89b0da059168670a82d2ca38588d1e97]: Textual amendment: Words in Sch. 1 para. 7 heading inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/13/a)
+
+[^key-af48ddc31d4a63ececc7cad2f86d471a]: Textual amendment: Sch. 1 para. 7(1) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/7/2/a)
+
+[^key-3638a297e0c3778e0e672f935533d5ac]: Textual amendment: Sch. 1 para. 7(3) inserted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [23(b)](https://www.legislation.gov.uk/uksi/2024/430/regulation/23/b)
+
+[^key-243879182971a88805d5b1aa5ee9bc75]: Textual amendment: Sch. 1 para. 7(4)(5) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2026/346/regulation/13/c)
+
+[^key-e268fc35cc39d45551f87eb39b8b0cc9]: Textual amendment: Sch. 1 para. 7(5) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/7/2/b)
+
+[^key-5afa6e7c99b58655f96e9251188cd564]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/449/schedule/2/paragraph/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/4/a)
+
+[^key-ca3e6ab9f7619e41d872f3fbd4a8f669]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/449/schedule/2/paragraph/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/4/a)
+
+[^key-40d928a2fdadd7d36e04ed5282018050]: Commencement: Sch. 2 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/449/article/1)
+
+[^key-79e0528692454645aa66264672247fc6]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2016/449/schedule/2/paragraph/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(4)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/4/b)
+
+[^f00014]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Sections 15ZA, 15ZB, 15ZC, 18A, 514A and 560A were inserted by the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), sections 41, 42, 45 to 48 and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 15ZA was amended by paragraph 5 of Schedule 3(1) to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) , by paragraph 44 of Schedule 14(2) to the Deregulation Act (c. 20) and by [S.I. 2015/1852](https://www.legislation.gov.uk/uksi/2015/1852). Section 15ZC was amended by [S.I. 2015/1852](https://www.legislation.gov.uk/uksi/2015/1852). Section 18A was also amended by the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), sections 30 and 82 and by paragraph 8 of Schedule 3(1) to the Children and Families Act 2014 . Section 514A was amended by paragraph 50 of Schedule 3(1) to the Children and Families Act 2014 . Section 560A was amended by paragraph 54 of Schedule 3(1) to the Children and Families Act 2014.
+
+[^key-469a29cbad5f484093b947bb69dbea46]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/449/schedule/2/paragraph/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [22(4)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/22/4/c)

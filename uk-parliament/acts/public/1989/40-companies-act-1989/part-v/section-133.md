@@ -1,0 +1,29 @@
+---
+title: Companies Act 1989, section 133
+act: Companies Act 1989
+section: '133'
+status: not-yet-in-force
+text_date: '2024-01-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1989/40/section/133
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1989, section 133
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 133. Issue of redeemable shares.[^key-fc418de1b9a101d351fe5d2ecd73ee36]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-fc418de1b9a101d351fe5d2ecd73ee36]: Textual amendment: Ss. 131-133 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)

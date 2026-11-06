@@ -1,0 +1,163 @@
+---
+title: The Transfer of Functions (International Development) Order 1997
+id: uksi/1997/1749
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-07-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/1749
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/1749/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transfer of Functions (International Development) Order 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 1749
+
+MINISTERS OF THE CROWN
+
+The Transfer of Functions (International Development) Order 1997
+
+Made
+
+22nd July 1997
+
+Laid before Parliament
+
+1st August 1997
+
+Coming into force
+
+22nd August 1997
+
+At the Court at Buckingham Palace, the 22nd day of July 1997
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in pursuance of sections 1 and 2 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the Transfer of Functions (International Development) Order 1997.
+
+(2) This Order shall come into force on 22nd August 1997.
+
+## 2. Interpretation
+
+(1) In this Order “the international development functions” means—
+
+- (a) the functions which were entrusted to the Secretary of State for Foreign and Commonwealth Affairs immediately before 1st May 1997 and which have, before the making of this Order, been entrusted to the Secretary of State for International Development, and
+- (b) the functions transferred by article 3.
+
+(2) In this Order “instrument”, without prejudice to the generality of that expression, includes in particular Royal Charters, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, contracts and other agreements, memoranda and articles of association, warrants, certificates and other documents.
+
+## 3. Transfer of functions
+
+(1) The functions exercisable by the Secretary of State for Foreign and Commonwealth Affairs under the instruments listed in paragraph (2) are hereby transferred to the Secretary of State for International Development.
+
+(2) The instruments mentioned in paragraph (1) are—
+
+- (a) the Royal Charter dated 1st April 1924, relating to the London School of Hygiene and Tropical Medicine[^f00002];
+- (b) the Royal Charter dated 24th April 1956, relating to the Royal Veterinary College[^f00002];
+- (c) the Articles of Association of The Crown Agents Foundation;
+- (d) the Memorandum of Association and Articles of Association of the Hydraulics Research Station Limited; and
+- (e) the Memorandum of Association and Articles of Association of The Institute of Development Studies.
+
+## 4. Transfer of property, &c.
+
+(1) Subject to paragraph (2), all property, rights and liabilities to which the Secretary of State for Foreign and Commonwealth Affairs is entitled or subject at the coming into force of this Order in connection with the international development functions are hereby transferred to the Secretary of State for International Development.
+
+(2) Paragraph (1) shall not have effect in relation to immovable property.
+
+## 5. Transfers: supplementary
+
+(1) This Order shall not affect the validity of anything done by or in relation to the Secretary of State for Foreign and Commonwealth Affairs before the coming into force of this Order.
+
+(2) Anything which—
+
+- (a) has been, or has effect as if, done by or in relation to the Secretary of State for Foreign and Commonwealth Affairs in connection with the international development functions or anything transferred by article 4, and
+- (b) is in force at the coming into force of this Order,
+
+shall, so far as necessary for continuing its effect after the coming into force of this Order, have effect as if done by or in relation to the Secretary of State for International Development.
+
+(3) Anything (including any legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Secretary of State for Foreign and Commonwealth Affairs may, so far as it relates to—
+
+- (a) any of the international development functions, or
+- (b) anything to which article 4, or paragraph (2) above, relates,
+
+be continued by or in relation to the Secretary of State for International Development.
+
+(4) In this article, a reference to anything done by or in relation to the Secretary of State for Foreign and Commonwealth Affairs includes a reference to anything done pursuant to a delegation under section 3(3) of the Overseas Pensions Act 1973[^f00003] (pensions and superannuation schemes: supplementary).
+
+## 6. Construction of references, &c.
+
+(1) Paragraphs (2) to (4) below shall have effect for the construction of any enactment or instrument passed or made before the coming into force of this Order, so far as may be necessary—
+
+- (a) for the purpose of or in consequence of the entrusting to the Secretary of State for International Development of the functions mentioned in article 2(1)(a).
+- (b) for the purpose of or in consequence of the transfer of the functions mentioned in article 3, or
+- (c) in consequence of articles 4 and 5.
+
+(2) Any reference which is, or is to be construed as, a reference to the Secretary of State for Foreign and Commonwealth Affairs or a minister in his Department shall be construed as a reference to the Secretary of State for International Development.
+
+(3) Any reference which is, or is to be construed as, a reference to an officer of the Secretary of State for Foreign and Commonwealth Affairs shall be construed as a reference to an officer of the Secretary of State for International Development.
+
+(4) Any reference which is, or is to be construed as, a reference to the Foreign and Commonwealth Office or to the Overseas Development Administration shall be construed as a reference to the Department for International Development.
+
+(5) Documents or forms produced for use in connection with any of the international development functions may be used in connection with those functions notwithstanding that they contain, or are to be construed as containing, references to the Secretary of State for Foreign and Commonwealth Affairs, a minister in his Department, the Foreign and Commonwealth Office or the Overseas Development Administration; and for the purposes of the use of any such documents or forms after the coming into force of this Order, those references shall be construed as references to the Secretary of State for International Development or, as the case may be, the Department for International Development.
+
+## 7. Incorporation of Secretary of State for International Development
+
+(1) The person who at the coming into force of this Order is the Secretary of State for International Development and any successors to that person shall be, by that name, a corporation sole (with a common seal).
+
+(2) The corporate seal of the Secretary of State for International Development shall be authenticated by the signature of a Secretary of State, or of a Secretary to the Department for International Development, or of a person authorised by a Secretary of State to act in that behalf.
+
+(3) The corporate seal of the Secretary of State for International Development shall be officially and judicially noticed, and every document purporting to be an instrument made or issued by the Secretary of State for International Development, and to be sealed with that seal authenticated in the manner provided by paragraph (2), or to be signed or executed by a Secretary to the Department for International Development, or a person authorised as above, shall be received in evidence and be deemed to be so made or issued without further proof, unless the contrary is shown.
+
+(4) A certificate signed by the Secretary of State for International Development that any instrument purporting to be made or issued by that Minister was so made or issued shall be conclusive evidence of that fact.
+
+(5) The Documentary Evidence Act 1868[^f00004] shall apply in relation to the Secretary of State for International Development—
+
+- (a) as if references to orders and regulations included references to any document, and
+- (b) as if the officers mentioned in column 2 of the Schedule included any officer authorised to act on behalf of the Secretary of State.
+
+## 8. Parliamentary Commissioner Act 1967
+
+In Schedule 2 to the Parliamentary Commissioner Act 1967[^f00005] (departments, &c. subject to investigation), there shall be inserted at the appropriate place—
+
+> - Department for International Development
+
+.
+
+N. H. Nicholls
+
+Clerk of the Privy Council
+
+(This note is not part of the Order)
+
+The Secretary of State for International Development has been entrusted with functions relating to international development formerly entrusted to the Secretary of State for Foreign and Commonwealth Affairs. The functions in question were for the most part exercised through the Overseas Development Administration, which was part of the Foreign and Commonwealth Office.
+
+This Order transfers to the Secretary of State for International Development functions of the Secretary of State for Foreign and Commonwealth Affairs under certain Royal Charters and in relation to certain companies. The Order also transfers to the Secretary of State for International Development property, rights and liabilities (other than immovable property and rights and liabilities relating to it) to which the Secretary of State for Foreign and Commonwealth Affairs is entitled or subject at the coming into force of the Order in connection with functions relating to international development. It also makes provision consequential upon the re-allocation of such functions and the transfer of such property, rights and liabilities.
+
+The Order also constitutes the Secretary of State for International Development and her successors a corporation sole with a common seal, and amends the Parliamentary Commissioner Act 1967 by adding the Department for International Development to Schedule 2 to that Act (departments, &c. subject to investigation).
+
+## Annotations
+
+[^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
+
+[^f00002]: Footnote: Functions under this Charter were transferred to the Secretary of State for Foreign and Commonwealth Affairs by article 2(1) of the Ministry of Overseas Development (Dissolution) Order 1979 (S.I. [1979/1451](https://www.legislation.gov.uk/uksi/1979/1451)).
+
+[^f00003]: Footnote: [1973 c. 21](https://www.legislation.gov.uk/ukpga/1973/21).
+
+[^f00004]: Footnote: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
+
+[^f00005]: Footnote: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).

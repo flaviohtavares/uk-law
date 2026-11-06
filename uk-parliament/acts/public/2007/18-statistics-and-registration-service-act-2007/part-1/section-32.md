@@ -1,0 +1,43 @@
+---
+title: Statistics and Registration Service Act 2007, section 32
+act: Statistics and Registration Service Act 2007
+section: '32'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/18/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Statistics and Registration Service Act 2007, section 32
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 32. Executive office[^key-d47c36f3d7d0f7c34b56a87c28bc960a]
+
+*Extent: E+W+S+N.I.*
+
+(1) The National Statistician must establish an executive office of the Board to assist him in his exercise of—
+
+- (a) the function of the Board under section 9(1)(a) (development and maintenance of definitions, methodologies, classifications and standards for official statistics),
+- (b) the function of the Board under section 20 (production of statistics),
+- (c) the function of the Board under section 21 (retail prices index),
+- (d) the function of the Board under section 22 (statistical services), and
+- (e) any other function of the Board which he may exercise under section 31(2).
+
+(2) The executive office is, subject to this Act, to consist of—
+
+- (a) the National Statistician (who is to be its head),
+- (b) the other executive members of the Board, and
+- (c) such other employees of the Board as the National Statistician may assign to it.
+
+(3) For the purposes of subsection (1) the National Statistician may delegate any function of the Board referred to in that subsection to any other member of the executive office.
+
+(4) The delegation of a function by the National Statistician under subsection (3) does not prevent him from exercising the function himself.
+
+## Annotations
+
+[^key-d47c36f3d7d0f7c34b56a87c28bc960a]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2007/18/section/32) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

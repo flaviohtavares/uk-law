@@ -1,0 +1,70 @@
+---
+title: Legal Services Act 2007, section 191
+act: Legal Services Act 2007
+section: '191'
+status: not-yet-in-force
+text_date: '2025-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2007/29/section/191
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Legal Services Act 2007, section 191
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland.
+
+## 191. Rights of audience etc of employees of housing management bodies
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+After section 60 of the County Courts Act 1984 (c. 28) insert—
+
+> **60A. Rights of audience etc of employees of housing management bodies**
+>
+> (1) An employee of a housing management body who is authorised by that body for the purposes of this section has—
+>
+> - (a) a right of audience in relation to any proceedings to which this section applies, and
+> - (b) a right to conduct litigation in relation to any such proceedings.
+>
+> (2) This section applies to relevant housing proceedings in a county court before a district judge which are brought—
+>
+> - (a) in the name of a local housing authority, and
+> - (b) by the housing management body in the exercise of functions of that local housing authority delegated to that body under a housing management agreement.
+>
+> (3) “**Relevant housing proceedings**” are—
+>
+> - (a) proceedings under section 82A of the Housing Act 1985 (demotion because of anti-social behaviour);
+> - (b) proceedings for possession of a dwelling-house subject to a secure tenancy, where possession is sought on ground 2 in Part 1 of Schedule 2 to that Act (anti-social behaviour);
+> - (c) proceedings for possession of a dwelling-house subject to a demoted tenancy;
+> - (d) proceedings for a suspension order under section 121A of the Housing Act 1985 (suspension of right to buy);
+> - (e) proceedings under section 153A, 153B or 153D of the Housing Act 1996 (injunctions against anti-social behaviour);
+> - (f) proceedings for the attachment of a power of arrest to an injunction by virtue of section 91(2) of the Anti-social Behaviour Act 2003 or section 27(2) of the Police and Justice Act 2006 (proceedings under section 222 of the Local Government Act 1972: power of arrest attached to injunction);
+> - (g) at a hearing at which a decision is made in relation to proceedings within paragraphs (a) to (f), proceedings for permission to appeal against that decision;
+> - (h) such other proceedings as the Lord Chancellor may prescribe by order.
+>
+> (4) An authorisation for the purposes of this section must be in writing.
+>
+> (5) The power to make an order under subsection (3)(h) is exercisable by statutory instrument subject to annulment by resolution of either House of Parliament.
+>
+> (6) In subsection (3)(e) the reference to section 153A of the Housing Act 1996 is a reference to that section—
+>
+> - (a) as inserted by section 13 of the Anti-social Behaviour Act 2003, or
+> - (b) as substituted by section 26 of the Police and Justice Act 2006.
+>
+> (7) In this section—
+>
+> - “**dwelling-house**” has the same meaning as in Part 4 of the Housing Act 1985;
+> - “**housing management agreement**” means an agreement under section 27 of the Housing Act 1985 (including an agreement to which section 27B(2) or (3) of that Act applies);
+> - “**housing management body**” means a person who exercises management functions of a local housing authority by virtue of a housing management agreement;
+> - “**local housing authority**” has the same meaning as in section 27 of the Housing Act 1985;
+> - “**right of audience**” means the right to appear before and address a court, including the right to call and examine witnesses;
+> - “**right to conduct litigation**” means the right—
+>   - (a) to issue proceedings before any court in England and Wales,
+>   - (b) to commence, prosecute and defend such proceedings, and
+>   - (c) to perform any ancillary functions in relation to such proceedings (such as entering appearances to actions);
+> - “**secure tenancy**” has the same meaning as in Part 4 of the Housing Act 1985.

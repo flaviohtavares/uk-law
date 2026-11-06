@@ -1,0 +1,95 @@
+---
+title: Anti-social Behaviour, Crime and Policing Act 2014, section 176
+act: Anti-social Behaviour, Crime and Policing Act 2014
+section: '176'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/12/section/176
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Anti-social Behaviour, Crime and Policing Act 2014, section 176
+
+> **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 176. Low-value shoplifting[^key-871d91f619a9194a442e8f2f26ea7b70]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Magistrates' Courts Act 1980 is amended as follows.
+
+(2) In section 2 (trial of summary offences), in subsection (3)(a) for “22” there is substituted “ 22A ”.
+
+(3) After section 22 there is inserted—
+
+> **22A. Low-value shoplifting to be a summary offence**
+>
+> (1) Low-value shoplifting is triable only summarily.
+>
+> (2) But where a person accused of low-value shoplifting is aged 18 or over, and appears or is brought before the court before the summary trial of the offence begins, the court must give the person the opportunity of electing to be tried by the Crown Court for the offence and, if the person elects to be so tried—
+>
+> - (a) subsection (1) does not apply, and
+> - (b) the court must send the person to the Crown Court for trial for the offence.
+>
+> (3) “**Low-value shoplifting**” means an offence under section 1 of the Theft Act 1968 in circumstances where—
+>
+> - (a) the value of the stolen goods does not exceed £200,
+> - (b) the goods were being offered for sale in a shop or any other premises, stall, vehicle or place from which there is carried on a trade or business, and
+> - (c) at the time of the offence, the person accused of low-value shoplifting was, or was purporting to be, a customer or potential customer of the person offering the goods for sale.
+>
+> (4) For the purposes of subsection (3)(a)—
+>
+> - (a) the value of the stolen goods is the price at which they were being offered for sale at the time of the offence, and
+> - (b) where the accused is charged on the same occasion with two or more offences of low-value shoplifting, the reference to the value involved has effect as if it were a reference to the aggregate of the values involved.
+>
+> (5) A person guilty of low-value shoplifting is liable on summary conviction to—
+>
+> - (a) imprisonment for a period not exceeding 51 weeks (or 6 months, if the offence was committed before the commencement of section 281(4) and (5) of the Criminal Justice Act 2003),
+> - (b) a fine, or
+> - (c) both.
+>
+> (6) A person convicted of low-value shoplifting by a magistrates' court may not appeal to the Crown Court against the conviction on the ground that the convicting court was mistaken as to whether the offence was one of low-value shoplifting.
+>
+> (7) For the purposes of this section, any reference to low-value shoplifting includes aiding, abetting, counselling or procuring the commission of low-value shoplifting.
+
+(4) In section 143 (power to alter sums specified in certain provisions)—
+
+- (a) after subsection (2)(a) there is inserted—
+
+  > - (aza) section 22A(3)(a) above;
+
+  ;
+- (b) the word “or” after paragraph (a) of subsection (3) is omitted;
+- (c) after subsection (3)(a) there is inserted—
+
+  > - (aa) in relation to section 22A(3)(a) above, the date of the coming into force of that section; or
+
+  .
+
+(5) The Criminal Attempts Act 1981 is amended as follows—
+
+- (a) in section 1 (attempting to commit an offence) after subsection (4) there is inserted—
+
+  > (5) This section also applies to low-value shoplifting (which is defined in, and is triable only summarily by virtue of, section 22A of the Magistrates' Courts Act 1980).
+
+  ;
+- (b) in section 4 (trial and penalties) in paragraph (c) of subsection (1), after “either way,” there is inserted “or is low-value shoplifting (which is defined in, and is triable only summarily by virtue of, section 22A of the Magistrates' Courts Act 1980),”.
+
+(6) Any reference in the Police and Criminal Evidence Act 1984 to an “indictable offence” has effect as if it included a reference to low-value shoplifting (as defined in section 22A(3) of the Magistrates' Courts Act 1980).
+
+(7) In section 84 of the Armed Forces Act 2006 (definitions), after subsection (2) there is inserted—
+
+> (2A) In subsection (2)(a), the reference to an “indictable offence” has effect as if it included a reference to low-value shoplifting (as defined in section 22A(3) of the Magistrates' Courts Act 1980).
+
+(8) The amendments made by this section have effect in relation to—
+
+- (a) low-value shoplifting (which is defined in section 22A(3) of the 1980 Act) committed on or after the day on which this section comes into force, and
+- (b) low-value shoplifting committed before that day in respect of which proceedings have not yet been instituted.
+
+## Annotations
+
+[^key-871d91f619a9194a442e8f2f26ea7b70]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2014/12/section/176) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/17)

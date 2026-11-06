@@ -1,0 +1,44 @@
+---
+title: Energy Act 2008, section 56
+act: Energy Act 2008
+section: '56'
+status: revised
+text_date: '2026-10-22'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/32/section/56
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2008, section 56
+
+> Text as at 2026-10-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 56. Protection of security under approved programme[^key-83fbfd9a222d6587cdd4e811241be81e]
+
+*Extent: E+W+N.I.*
+
+(1) This section applies where, in relation to a site to which section 45 applies, any security for the performance of obligations relating to the designated technical matters has been provided by a person (“the security provider”) by way of a trust or other arrangements, in accordance with an approved funded decommissioning programme.
+
+(2) In this section a reference to “**the protected assets**” is a reference to the security and any property or rights in which it consists.
+
+(3) In this section “**security**” includes—
+
+- (a) a charge over a bank account or any other asset;
+- (b) a deposit of money;
+- (c) a performance bond or guarantee;
+- (d) an insurance policy;
+- (e) a letter of credit.
+
+(4) The manner in which, and purposes for which, the protected assets are to be applied and enforceable (whether in the event of the security provider's insolvency or otherwise) is to be determined in accordance with the trust or other arrangements.
+
+(5) For the purposes of subsection (4), no regard is to be had to so much of the Insolvency Act 1986 (c. 45), the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) or any other enactment or rule of law as, in its operation in relation to the security provider or any conduct of the security provider, would—
+
+- (a) prevent or restrict the protected assets from being applied in accordance with the trust or other arrangement, or
+- (b) prevent or restrict their enforcement for the purposes of being so applied.
+
+## Annotations
+
+[^key-83fbfd9a222d6587cdd4e811241be81e]: Commencement: S. 56 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

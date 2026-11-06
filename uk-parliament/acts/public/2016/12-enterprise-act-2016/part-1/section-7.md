@@ -1,0 +1,84 @@
+---
+title: Enterprise Act 2016, section 7
+act: Enterprise Act 2016
+section: '7'
+status: revised
+text_date: '2025-06-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/12/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Enterprise Act 2016, section 7
+
+> Text as at 2025-06-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. Scheme regulations[^c22567811][^key-14482c8a73c056d96b9ad6984200bf5c]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State must make regulations (“**scheme regulations**”) about—
+
+- (a) the making of complaints for consideration under the SBC complaints scheme,
+- (b) the consideration and determination of complaints by the Commissioner, and the making of any recommendations, and
+- (c) the preparation and publication of reports under section 6.
+
+(2) Scheme regulations must—
+
+- (a) provide that a complaint (or part of a complaint) is, except in specified circumstances, to be dismissed if the Commissioner considers that the complainant has not previously communicated the substance of the complaint (or part) to the respondent and given the respondent a reasonable opportunity to deal with it;
+- (b) provide that a complaint is not to be entertained under the SBC complaints scheme unless the complainant has referred it under the scheme before the expiry of the applicable time limit (determined in accordance with the scheme regulations);
+- (c) provide that the Commissioner may extend that time limit in specified circumstances.
+
+(3) Scheme regulations may, among other things—
+
+- (a) make provision about the content and form of a complaint and the manner in which it is to be made;
+- (b) allow the Commissioner to fix time limits for any aspect of the proceedings and to extend a time limit;
+- (c) provide that a complaint may, or may in specified circumstances, be dismissed, if or to the extent that the Commissioner considers—
+  - (i) that the complaint is frivolous or vexatious,
+  - (ii) that the complaint concerns matters which are more appropriately dealt with in another way,
+  - (iii) that the complainant has not suffered, and is not likely to suffer, any financial loss, material distress, material inconvenience or other material adverse effect, as a result of the matter to which the complaint relates,
+  - (iv) that the matter to which the complaint relates has been remedied,
+  - (v) that the complainant is seeking an outcome other than a recommendation of the kind that can be made under the scheme,
+  - (vi) that the complaint concerns matters that have been the subject of legal proceedings or adjudication proceedings,
+  - (vii) that the matter to which the complaint relates has previously been considered under the SBC complaints scheme or by another complaints-handling body, ombudsman or regulator,
+  - (viii) that any other condition specified by the scheme regulations is met, or
+  - (ix) that there are other compelling reasons why it is inappropriate for the complaint to be dealt with under the SBC complaints scheme;
+- (d) provide that a complaint is to be dismissed if or to the extent that it becomes the subject of legal proceedings or adjudication proceedings;
+- (e) require the Commissioner to notify the person who makes a complaint under the scheme if the Commissioner considers that it is not a relevant complaint or it is dismissed in accordance with the scheme regulations;
+- (f) authorise or require the Commissioner to notify the person against whom a complaint is made if it is not a relevant complaint or it is dismissed in accordance with the scheme regulations.
+
+(4) For the purposes of regulations under subsections (2)(a) and (3)(c) and (d) it does not matter whether there has been a consideration of the merits of the complaint by the time it is dismissed.
+
+(5) Scheme regulations must also specify matters which are to be taken into account, or are to be taken into account in specified circumstances, by the Commissioner in determining under the scheme whether an act or omission was fair and reasonable.
+
+Those matters must include any relevant law.
+
+(6) But nothing in this section requires or authorises scheme regulations to specify that particular practices are to be regarded by the Commissioner, in making that determination, as “fair” or “unfair”.
+
+(7) Scheme regulations must make provision about factors which are to be taken into account, or are to be taken into account in specified circumstances, by the Commissioner when deciding whether to identify the respondent in a report under section 6(1).
+
+(8) Scheme regulations may—
+
+- (a) confer a discretion on the Commissioner;
+- (b) make transitional or transitory provision or savings;
+- (c) make different provision for different purposes.
+
+(9) Before making scheme regulations the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+(10) Regulations under this section are to be made by statutory instrument.
+
+(11) A statutory instrument containing regulations under this section must not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(12) In this section—
+
+- “**relevant complaint**” has the meaning given by section 4(3);
+- “**specified**” means specified in scheme regulations.
+
+## Annotations
+
+[^c22567811]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/12/section/7) in force at Royal Assent for specified purposes, see [s. 44(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1)
+
+[^key-14482c8a73c056d96b9ad6984200bf5c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/12/section/7) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)

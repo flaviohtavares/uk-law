@@ -1,0 +1,645 @@
+---
+title: The Mutilations (Permitted Procedures) (England) Regulations 2007
+id: uksi/2007/1100
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-03-30'
+text_date: '2010-12-23'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2007/1100
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/1100/pdfs/uksiem_20071100_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1100/pdfs/uksi_20071100_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1100/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mutilations (Permitted Procedures) (England) Regulations 2007
+
+> Text as at 2010-12-23.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2007 No. 1100
+
+ANIMALs, ENGLAND
+
+ANIMAL WELFARE
+
+The Mutilations (Permitted Procedures) (England) Regulations 2007
+
+Made
+
+30th March 2007
+
+Coming into force
+
+6th April 2007
+
+The Secretary of State is, in relation to England, the appropriate national authority for the purpose of exercising the powers conferred by section 5(4) of the Animal Welfare Act 2006[^f00001], and makes the following Regulations in exercise of those powers.
+
+In accordance with section 5(5) of that Act, the Secretary of State has consulted those persons appearing to him to represent interests with which these Regulations are concerned as he considered appropriate.
+
+In accordance with section 61(2) of that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Title, commencement and application
+
+These Regulations—
+
+- (a) may be cited as the Mutilations (Permitted Procedures) (England) Regulations 2007;
+- (b) come into force on 6th April 2007;
+- (c) apply in England only.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the Act” means the Animal Welfare Act 2006;
+- “cattle” means all animals of the bovine species including bison and buffalo;
+- “conventionally reared meat chicken” means an animal of the species[^key-bf1648b9f1f0419f3f67b1f3efecc089] *Gallus gallus* that is kept for meat production, other than one—
+  - (a) that is on a holding with fewer than 500 such animals or with only breeding stocks of such animals;
+  - (b) in relation to which the term “Extensive indoor (barn reared)”, “Free range”, “Traditional free range” or “Free range – total freedom” can be used within the meaning of point (b), (c), (d) or (e) of Annex V to Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) laying down detailed rules for the application of Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing standards for poultrymeat;
+  - (c) that is organically reared in accordance with Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products and repealing Regulation [(EEC) No 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092);
+- “desnooding” means removal of a turkey’s snood;
+- “disbudding” means removal of the horn bud of cattle, goats or sheep;
+- “domestic fowl” means a domesticated member of the species *Gallus gallus;*
+- “dubbing” means removal of the comb of a domestic fowl;
+- “farmed” means, in relation to an animal, bred or kept for the production of food, wool or skin or for other farming purposes;
+- “horses” includes ponies, asses, donkeys, jennets and mules;
+- “in velvet” means, in relation to the antlers of a deer, until the velvet is frayed and the greater part of it has been shed;
+- “laying hen” means a hen of the species *Gallus gallus* which has reached laying maturity and is kept for production of eggs not intended for hatching;
+- “poultry” means domestic fowl, turkeys, geese, ducks, guinea fowl, quails, pheasants and partridges;
+- “prohibited procedure” means a procedure which involves interference with the sensitive tissues or bone structure of an animal, otherwise than for the purpose of its medical treatment;
+- “suitable instrument” means in relation to any procedure, an instrument that is in a fit state of repair and has been designed, or is of a kind commonly used, for the purpose of performing that procedure.
+
+## 3. Exceptions to the prohibition on mutilations
+
+Section 5(1) and (2) of the Act does not apply to a procedure listed in Schedule 1, providing it is carried out—
+
+- (a) in accordance with any relevant requirement in Schedules 2 to 9;
+- (b) in such a way as to minimise the pain and suffering it causes to the animal;
+- (c)[^key-ed8ac04cf78c6c66fa4c9a2df0bdca07] in hygienic conditions;
+- (d) in accordance with good practice; and
+- (e) in accordance with regulation 5, where applicable
+
+## 4. Performance of prohibited procedures in an emergency
+
+(1) Section 5(1) and (2) of the Act does not apply where a prohibited procedure is carried out in an emergency for the purpose of saving the life or relieving the pain of the [^key-cd0d972d09e7b7cd1be1b32c76ad0217]... animal.
+
+(2) Any procedure carried out under paragraph (1) must be carried out in accordance with regulation 3, so far as this is practicable in all of the circumstances.
+
+## 5. Persons who may carry out permitted procedures[^key-c28abb4650abbdacfba90ee8bc86a415]
+
+(1) Any procedure permitted under regulation 3 to which the Veterinary Surgeons Act 1966[^f00003] or the Veterinary Surgeons (Exemptions) Order 1962 applies, with the exception of the procedures referred to in paragraph (2), may only be carried out by a person permitted to carry it out under that legislation.
+
+(2) Tail docking, or castration, of pigs may only be carried out by a veterinary surgeon or, where the animal is aged not more than 7 days, by a person experienced in performing the techniques involved and who is either a person responsible for the animal or a person employed or engaged by such a person to attend to the animal.
+
+Barry Gardiner
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — PERMITTED PROCEDURES
+
+Regulation 3
+
+- **Cattle**
+  - Identification Procedures:
+    - Ear clipping.
+    - Ear notching.
+    - Ear tagging.
+    - Freeze branding.
+    - Micro-chipping.
+    - Tattooing.
+    - Other methods of identification involving a mutilation required by law.
+  - Procedures for the Control of Reproduction:
+    - Castration.
+    - Embryo collection or transfer by a surgical method.
+    - Implantation of a subcutaneous contraceptive.
+    - Ovum transplantation, including ovum collection, by a surgical method.
+    - Vasectomy.
+  - Other Management Procedures:
+    - Dehorning.
+    - Disbudding.
+    - Nose ringing.
+    - Removal of supernumerary teats.
+- **Pigs**
+  - Identification Procedures:
+    - Ear clipping.
+    - Ear notching.
+    - Ear tagging.
+    - Micro-chipping.
+    - Tattooing.
+    - Other methods of identification involving a mutilation required by law.
+  - Procedures for the Control of Reproduction:
+    - Castration.
+    - Implantation of a subcutaneous contraceptive.
+    - Vasectomy.
+  - Other Management Procedures:
+    - Nose ringing.
+    - Tail docking.
+    - Tooth reduction.
+    - Tusk trimming.
+- **Birds**
+  - Identification Procedures:
+    - Micro-chipping.[^key-bf4d0b9ed8321ca9a57e6ffbec703d1f]
+
+      Neck tagging.
+
+      Web notching.
+
+      Web tagging.
+
+      Wing tagging.
+
+      Other methods of identification involving a mutilation required by law.
+  - Procedures for the Control of Reproduction:
+    - Castration.
+    - Implantation of a subcutaneous contraceptive.
+    - Ovidectomy.
+    - Vasectomy.
+  - Other Management Procedures:
+    - Beak trimming of poultry.
+    - Desnooding.
+    - De-toeing of domestic fowl and turkeys.
+    - Dubbing.
+    - Laparoscopy.
+    - Wing pinioning.
+- **Sheep**
+  - Identification Procedures:
+    - Ear clipping.
+    - Ear notching.
+    - Ear tagging.
+    - Micro-chipping.
+    - Tattooing.
+    - Other methods of identification involving a mutilation required by law.
+  - Procedures for the Control of Reproduction:
+    - Castration.[^key-4e3f21fe54a6403f91707af711de813f]
+
+      Embryo collection or transfer by a surgical method.
+
+      Implantation of a subcutaneous contraceptive.
+
+      Laparoscopic insemination.
+
+      Ovum transplantation, including ovum collection, by a surgical method.
+
+      Vasectomy.
+  - Other Management Procedures:
+    - Dehorning.
+    - Disbudding.
+    - Removal of the insensitive tip of the horn.
+    - Tail docking.
+- **Goats**
+  - Identification Procedures:
+    - Ear clipping.
+    - Ear notching.
+    - Ear tagging.
+    - Micro-chipping.
+    - Tattooing.
+    - Other methods of identification involving a mutilation required by law.
+  - Procedures for the Control of Reproduction:
+    - Castration.[^key-3b5e348cf1c11a33cf2a86ec73c031e6]
+
+      Embryo collection or transfer by a surgical method.
+
+      Implantation of a subcutaneous contraceptive.
+
+      Laparoscopic insemination.
+
+      Ovum transplantation, including ovum collection, by a surgical method.
+
+      Vasectomy.
+  - Other Management Procedures:
+    - Dehorning.
+    - Disbudding.
+    - Removal of the insensitive tip of the horn.
+- **Horses**
+  - Identification Procedures:
+    - Freeze branding.
+    - Hot branding.
+    - Micro-chipping.
+    - Tattooing.
+    - Other methods of identification involving a mutilation required by law.
+  - Procedures for the Control of Reproduction:
+    - Castration.
+    - Vasectomy.
+- **Deer**
+  - Identification Procedures:
+    - Ear clipping.
+    - Ear notching.
+    - Ear tagging.
+    - Micro-chipping.
+    - Tattooing.
+    - Other methods of identification involving a mutilation required by law.
+  - Procedures for the Control of Reproduction:
+    - Castration.
+    - Implantation of a subcutaneous contraceptive.
+    - Vasectomy.
+  - Other Management Procedures:
+    - Removal of antlers that are not in velvet.
+- **Other species**
+  - Identification Procedures:
+    - Ear clipping.
+    - Ear notching.
+    - Ear tipping of feral cats.
+    - Insertion of subcutaneous tracking devices.
+    - Tagging.
+    - Chemical branding of fish.
+    - Freeze branding of fish.
+    - Micro-chipping.
+    - Removal or perforation of parts of fishes’ fins, adipose fins or fin rays.
+    - Tattooing.
+    - Other methods of identification involving a mutilation required by law.
+  - Procedures for the Control of Reproduction:
+    - Castration.
+    - Embryo collection or transfer by a surgical method.
+    - Implantation of a subcutaneous contraceptive.
+    - Ovum transplantation, including ovum collection, by a surgical method.
+    - Spaying.
+    - Vasectomy.
+  - Other Management Procedures:
+    - Laparoscopy.
+    - Removal of the dew claws of dogs.
+    - Removal of fish scales.
+
+## SCHEDULE 2 — CATTLE: REQUIREMENTS WHEN CARRYING OUT CERTAIN PERMITTED PROCEDURES
+
+Regulation 3
+
+When carried out on cattle, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
+
+- 1. **Castration**
+
+  When the method used is the application of a rubber ring or other device to constrict the flow of blood to the scrotum, the procedure may only be carried out on an animal aged not more than 7 days.
+
+  When any other method is used, an anaesthetic must be administered where the animal is aged 2 months or over.
+- 2. **Embryo collection or transfer by a surgical method**
+
+  An anaesthetic must be administered.
+- 3. **Implantation of a subcutaneous contraceptive**
+
+  The procedure may not be carried out on a farmed animal.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+- 4. **Ovum transplantation, including ovum collection, by a surgical method**
+
+  An anaesthetic must be administered.
+- 5. **Vasectomy**
+
+  An anaesthetic must be administered.
+- 6. **Dehorning**
+
+  An anaesthetic must be administered.
+- 7. **Disbudding**
+
+  The procedure may only be carried out on an animal aged not more than 6 months.
+
+  When the method used is chemical cauterisation, the procedure may only be carried out on an animal aged not more than 7 days.
+
+  When any other method is used an anaesthetic must be administered.
+- 8. **Removal of supernumerary teats**
+
+  An anaesthetic must be administered where the animal is aged 3 months or over.
+
+## SCHEDULE 3 — PIGS: REQUIREMENTS WHEN CARRYING OUT CERTAIN PERMITTED PROCEDURES
+
+Regulation 3
+
+When carried out on a pig, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
+
+- 1. **Castration**
+
+  The method used must not involve the tearing of tissues.
+
+  An anaesthetic and additional prolonged analgesia must be administered where the animal is aged 7 days or over.
+- 2. **Implantation of a subcutaneous contraceptive**
+
+  The procedure may not be carried out on a farmed animal.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+- 3. **Vasectomy**
+
+  An anaesthetic must be administered.
+- 4. **Nose ringing**
+
+  The procedure may only be carried out on an animal that is not kept continuously in an indoor husbandry system.
+- 5. **Tail docking**
+
+  The procedure may only be carried out where measures to improve environmental conditions or management systems have first been taken to prevent tail-biting, but there is still evidence to show that injury to pigs’ tails by biting has occurred.
+
+  The method used must involve quick and complete severance of the tail.
+
+  An anaesthetic and additional prolonged analgesia must be administered where the animal is aged 7 days or over.
+- 6. **Tooth reduction**
+
+  The procedure may only be carried out on an animal that is aged not more than 7 days.
+
+  The procedure must consist only of the uniform reduction of the corner teeth by either grinding or clipping so as to leave an intact smooth surface.
+
+  The procedure may only be carried out where measures to improve environmental conditions or management systems have first been taken to prevent tail-biting and other vices, but there is still evidence to show that injury to sows’ teats or to other pigs’ ears or tails by biting has occurred.
+- 7. **Tusk trimming**
+
+  The procedure may only be carried out where there is evidence to show that it is necessary to prevent injury to other animals or for safety reasons.
+
+## SCHEDULE 4 — BIRDS: REQUIREMENTS WHEN CARRYING OUT CERTAIN PERMITTED PROCEDURES
+
+Regulation 3
+
+When carried out on a bird, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
+
+- A1. **All procedures in the section on birds in Schedule 1[^key-271ff0a835a76c9dde5ffe1fcdef7dad]**
+
+  None of the procedures listed in the section on birds in Schedule 1, apart from beak trimming (see paragraph 5), may be performed on–[^key-bb518a26ac6b32f765ae5217d536638a]
+
+  - (1) conventionally reared meat chickens; or
+  - (2) a laying hen, or a chick that is intended to become a laying hen, which is kept on an establishment with 350 or more such birds.
+- A2. **Neck tagging**
+
+  The procedure may only be carried out on farmed ducks and only where performed within 36 hours of hatching for the purposes of a breed improvement programme.
+- A3. **Web notching**
+
+  The procedure may only be carried out on farmed ducks and only where performed within 36 hours of hatching for the purposes of a breed improvement programme.
+- A4. **Web tagging**
+
+  The procedure may only be carried out on farmed birds for the purposes of breed improvement programmes or testing for the presence of disease.
+
+  The procedure may only be carried out on birds other than farmed birds for conservation purposes (including education and captive breeding programmes) or for research.
+- A5. **Wing tagging**
+
+  The procedure may only be carried out on farmed birds for the purposes of breed improvement programmes or testing for the presence of disease.
+
+  The procedure may only be carried out on birds other than farmed birds for conservation purposes (including education and captive breeding programmes) or for research.
+- 1. **Castration**
+
+  The procedure may not be carried out on farmed birds.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+
+  An anaesthetic must be administered.
+- 2. **Implantation of a subcutaneous contraceptive**
+
+  The procedure may not be carried out on farmed birds.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+- 3. **Ovidectomy**
+
+  The procedure may not be carried out on farmed birds.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+
+  An anaesthetic must be administered.
+- 4. **Vasectomy**
+
+  The procedure may not be carried out on farmed birds.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+
+  An anaesthetic must be administered.
+- 5. **Beak trimming of poultry[^key-930dd2a8d474839657d5850ed08a4e8c]**
+  - (1) For all poultry, the beak trimming procedure must be performed using a suitable instrument.
+  - (2) For all poultry, any subsequent haemorrhage from the beak must be arrested by cauterisation.
+  - (3) For all poultry the procedure must be performed on–
+    - (a) both the upper and lower beaks, with not more than one third of each removed, or
+    - (b) the upper beak only, with not more than one third removed.
+  - (4) For laying hens and chicks that are intended to become laying hens, which are kept on establishments with 350 or more such birds, beak trimming–
+    - (a) may only be performed in order to prevent feather pecking or cannibalism;
+    - (b) may only be carried out using infra-red technology;
+    - (c) may not be performed on birds which are aged 10 days or over; and
+    - (d) must be carried out by a person who has been provided with suitable and sufficient information, instruction and training so that they are qualified to perform the procedure.
+  - (5) Sub-paragraphs (4)(b) and (c) do not apply where the procedure is carried out in an emergency in order to control an outbreak of feather pecking or cannibalism.
+  - (6) For conventionally reared meat chickens the procedure—
+    - (a) may only be performed in order to prevent feather pecking and cannibalism;
+    - (b) may not be performed on birds which are aged 10 days or over;
+    - (c) must be carried out by a person who has been provided with suitable and sufficient information, instruction and training so that they are qualified to perform the procedure; and
+    - (d) must only be carried out following a consultation and on the advice of a veterinarian.
+- 6. **Desnooding**
+
+  Where the turkey is aged not more than 21 days, the procedure may be carried out either by manual pinching-out or with a suitable instrument.
+- 7. **De-toeing of domestic fowl and turkeys**
+
+  The procedure may not be carried out on a bird that is aged 3 days or over unless a veterinary surgeon considers that it is necessary that it be carried out.
+
+  An anaesthetic must be administered where the bird is aged 3 days or over.
+- 8. **Dubbing**
+
+  The procedure may not be carried out on a bird that is aged 3 days or over unless a veterinary surgeon considers that it is necessary that it be carried out.
+
+  An anaesthetic must be administered where the bird is aged 3 days or over.
+- 9. **Laparoscopy**
+
+  An anaesthetic must be administered.
+- 10. **Wing pinioning**
+
+  The procedure may not be carried out on farmed birds.
+
+  An anaesthetic must be administered where the bird is aged 10 days or over.
+
+## SCHEDULE 5 — SHEEP: REQUIREMENTS WHEN CARRYING OUT CERTAIN PERMITTED PROCEDURES
+
+Regulation 3
+
+When carried out on a sheep, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
+
+- 1. **Castration**
+
+  When the method used is the application of a rubber ring or other device to constrict the flow of blood to the scrotum, the procedure may only be carried out on an animal aged not more than 7 days.
+
+  When any other method is used, an anaesthetic must be administered where the animal is aged 3 months or over.
+- 1A. **Embryo collection or transfer by a surgical method[^key-1eb1e4f74cef5b54a97a81e181757031]**
+
+  An anaesthetic must be administered.
+- 2. **Implantation of a subcutaneous contraceptive**
+
+  The procedure may not be carried out on a farmed animal.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+- 2A. **Laparoscopic insemination[^key-f06e9b908cb14ad81e4438e5739db146]**
+
+  The procedure may only be carried out as part of a breed improvement programme.
+- 2B. **Ovum transplantation, including ovum collection, by a surgical method**
+
+  An anaesthetic must be administered.
+
+  An anaesthetic must be administered.
+- 3. **Vasectomy**
+
+  An anaesthetic must be administered.
+- 4. **Dehorning**
+
+  An anaesthetic must be administered.
+- 5. **Tail docking**
+
+  In all cases, enough of the tail must be retained to cover the vulva of a female animal or the anus of a male animal.
+
+  When the method used is the application of a rubber ring or other device to constrict the flow of blood to the tail, the procedure may only be carried out on an animal aged not more than 7 days.
+
+  When any other method is used an anaesthetic must be administered.
+
+## SCHEDULE 6 — GOATS: REQUIREMENTS WHEN CARRYING OUT CERTAIN PERMITTED PROCEDURES
+
+Regulation 3
+
+When carried out on a goat, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
+
+- 1. **Castration**
+
+  When the method used is the application of a rubber ring or other device to constrict the flow of blood to the scrotum, the procedure may only be carried out on an animal aged not more than 7 days.
+
+  When any other method is used, an anaesthetic must be administered where the animal is aged 2 months or over.
+- 1A. **Embryo collection or transfer by a surgical method[^key-d860492486af5b78033388f758a85025]**
+
+  An anaesthetic must be administered.
+- 2. **Implantation of a subcutaneous contraceptive**
+
+  The procedure may not be carried out on a farmed animal.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+- 2A. **Laparoscopic insemination[^key-05bef546df5dca98e586b25233191169]**
+
+  The procedure may only be carried out as part of a breed improvement programme.
+
+  An anaesthetic must be administered.
+- 2B. **Ovum transplantation, including ovum collection, by a surgical method**
+
+  An anaesthetic must be administered.
+- 3. **Vasectomy**
+
+  An anaesthetic must be administered.
+- 4. **Dehorning**
+
+  An anaesthetic must be administered.
+
+## SCHEDULE 7 — HORSES: REQUIREMENTS WHEN CARRYING OUT CERTAIN PERMITTED PROCEDURES
+
+Regulation 3
+
+When carried out on a horse, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
+
+- 1. **Castration**
+
+  An anaesthetic must be administered.
+- 2. **Vasectomy**
+
+  An anaesthetic must be administered.
+
+## SCHEDULE 8 — DEER: REQUIREMENTS WHEN CARRYING OUT CERTAIN PERMITTED PROCEDURES
+
+Regulation 3
+
+When carried out on a deer, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
+
+- 1. **Castration**
+
+  An anaesthetic must be administered.
+- 2. **Implantation of a subcutaneous contraceptive**
+
+  The procedure may not be carried out on farmed deer.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+- 3. **Vasectomy**
+
+  An anaesthetic must be administered.
+- 4. **Removal of antlers that are not in velvet**
+
+  The procedure may only be carried out on farmed deer or deer that are kept on land in the same manner as if they were farmed deer.
+
+  Only the non-sensitive part of the antler may be removed.
+
+## SCHEDULE 9 — OTHER SPECIES: REQUIREMENTS WHEN CARRYING OUT CERTAIN PERMITTED PROCEDURES
+
+Regulation 3
+
+When carried out on an animal other than one dealt with in any of Schedules 2 to 8, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
+
+- 1. **Ear tipping of feral cats**
+
+  An anaesthetic must be administered.
+- 2. **Castration**
+
+  An anaesthetic must be administered.
+- 3. **Embryo collection or transfer by a surgical method**
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+
+  An anaesthetic must be administered.
+- 4. **Implantation of a subcutaneous contraceptive**
+
+  The procedure may not be carried out on a farmed animal.
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+- 5. **Ovum transplantation, including ovum collection, by a surgical method**
+
+  The procedure may only be carried out as part of a conservation breeding programme.
+
+  An anaesthetic must be administered.
+- 6. **Spaying**
+
+  An anaesthetic must be administered.
+- 7. **Vasectomy**
+
+  An anaesthetic must be administered.
+- 8. **Laparoscopy**
+
+  Where the animal on which the procedure is to be performed is not a reptile, the procedure may only be carried out as part of a conservation breeding programme.
+
+  In either case, an anaesthetic must be administered.
+- 9. **Removal of the dew claws of dogs**
+
+  An anaesthetic must be administered except where the dog is a puppy whose eyes have not yet opened.
+- 10. **Removal of fish scales**
+
+  The procedure may only be carried out for the purposes of age determination.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 5 (1) and (2) of the Animal Welfare Act [2006 (c.45)](https://www.legislation.gov.uk/ukpga/2006/45) makes it an offence to carry out, or to cause or, in specified circumstances, permit another person to carry out, a prohibited procedure on a protected animal. A prohibited procedure is one which involves interference with the sensitive tissues or bone structure of the animal, otherwise than for the purpose of its medical treatment (see section 5(3) of the Act).
+
+These Regulations specify the procedures to which the offences in section 5(1) and 5(2) do not apply. Depending upon the animals to which they are to be applied, such procedures may include those for the purposes of identification (such as ear tagging), those for the control of reproduction (such as castration and vasectomy) and those for other purposes (such as laparoscopy) (*Schedule 1*). For certain of these procedures, and again depending upon the animals in respect of which they are permitted, Schedules 2 to 9 apply restrictions to the carrying out of the procedure (such as specifying a required age for the animal, or requiring the administration of an anaesthetic).
+
+In respect of certain procedures permitted to be applied to pigs, these Regulations implement paragraph 8 of Chapter I of the Annex to Council Directive [91/630/EEC](https://www.legislation.gov.uk/european/directive/1991/0630) laying down minimum standards for the protection of pigs (OJ No. L340, 11.12.1991, p.33), as amended by Council Directive [2001/88/EC](https://www.legislation.gov.uk/european/directive/2001/0088) (OJ No. L316, 1.12.2001, p.1), Commission Directive [2001/93/EC](https://www.legislation.gov.uk/european/directive/2001/0093) (OJ No. L316, 1.12.2001, p.36) and Council Regulation [(EC) No. 806/2003](https://www.legislation.gov.uk/european/regulation/2003/0806) (OJ No. L122, 16.5.2003, p.1). In respect of the beak trimming of laying hens, these Regulations implement paragraph 8 of the Annex to Council Directive [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074) laying down minimum standards for the protection of laying hens (OJ No. L203, 3.8.1999, p.53), as amended by Council Regulation [(EC) No. 806/2003](https://www.legislation.gov.uk/european/regulation/2003/0806) (OJ No. L122, 16.5.2003, p.1).
+
+A regulatory impact assessment has been prepared and placed in the library of each House of Parliament; copies can be obtained from the Animal Welfare Division, Department for Environment, Food and Rural Affairs, 1A Page Street, London SW1P 4PQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.45](https://www.legislation.gov.uk/ukpga/2006/45). The appropriate national authority is defined in section 62(1) of the Act.
+
+[^key-bf1648b9f1f0419f3f67b1f3efecc089]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/1100/regulation/2) inserted (23.12.2010) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2010 (S.I. 2010/3034)](https://www.legislation.gov.uk/uksi/2010/3034), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/2/2)
+
+[^key-ed8ac04cf78c6c66fa4c9a2df0bdca07]: Textual amendment: Reg. 3(c)-(e) substituted for reg. 3(c)(d) (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2008/1426/regulation/3)
+
+[^key-cd0d972d09e7b7cd1be1b32c76ad0217]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1100/regulation/4/1) omitted (3.6.2008) by virtue of [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2008/1426/regulation/4)
+
+[^key-c28abb4650abbdacfba90ee8bc86a415]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/1100/regulation/5) substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2008/1426/regulation/5)
+
+[^f00003]: Footnote: [S.I. 1962/2557](https://www.legislation.gov.uk/uksi/1962/2557); relevant amending instruments are [S.I. 1982/1627](https://www.legislation.gov.uk/uksi/1982/1627), [2002/1646](https://www.legislation.gov.uk/uksi/2002/1646).
+
+[^key-bf4d0b9ed8321ca9a57e6ffbec703d1f]: Textual amendment: Words in Sch. 1 substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/6/2)
+
+[^key-4e3f21fe54a6403f91707af711de813f]: Textual amendment: Words in Sch. 1 substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [6(4)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/6/4)
+
+[^key-3b5e348cf1c11a33cf2a86ec73c031e6]: Textual amendment: Words in Sch. 1 substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [6(3)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/6/3)
+
+[^key-271ff0a835a76c9dde5ffe1fcdef7dad]: Textual amendment: Sch. 4 paras. A1-A5 inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/7/2)
+
+[^key-bb518a26ac6b32f765ae5217d536638a]: Textual amendment: Sch. 4 para. A1 substituted (23.12.2010) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2010 (S.I. 2010/3034)](https://www.legislation.gov.uk/uksi/2010/3034), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/2/3/a)
+
+[^key-930dd2a8d474839657d5850ed08a4e8c]: Textual amendment: Sch. 4 para. 5 substituted (23.12.2010) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2010 (S.I. 2010/3034)](https://www.legislation.gov.uk/uksi/2010/3034), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/2/3/b)
+
+[^key-1eb1e4f74cef5b54a97a81e181757031]: Textual amendment: Sch. 5 para. 1A inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/8/2)
+
+[^key-f06e9b908cb14ad81e4438e5739db146]: Textual amendment: Sch. 5 para. 2A, 2B inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/8/3)
+
+[^key-d860492486af5b78033388f758a85025]: Textual amendment: Sch. 6 para. 1A inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/9/2)
+
+[^key-05bef546df5dca98e586b25233191169]: Textual amendment: Sch. 6 para. 2A, 2B inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [9(3)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/9/3)

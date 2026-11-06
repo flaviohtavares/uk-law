@@ -1,0 +1,71 @@
+---
+title: The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2013
+id: uksi/2013/1097
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: repealed
+made_date: '2013-05-07'
+text_date: '2014-02-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1097
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1097/pdfs/uksiem_20131097_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1097/pdfs/uksi_20131097_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1097/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2013
+
+> This law has been repealed or revoked.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+2013 No. 1097
+
+Climate Change
+
+Emissions Trading
+
+The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) (Amendment) Regulations 2013 (revoked)[^key-bbe7462a942658c67e4f37cb687e22c3]
+
+Made
+
+7th May 2013
+
+Laid before the House of Commons
+
+8th May 2013
+
+Coming into force
+
+1st June 2013
+
+[^key-bbe7462a942658c67e4f37cb687e22c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## 1. Citation and commencement[^key-bbe7462a942658c67e4f37cb687e22c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Amendments to the CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) Regulations 2012[^key-bbe7462a942658c67e4f37cb687e22c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-bbe7462a942658c67e4f37cb687e22c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-bbe7462a942658c67e4f37cb687e22c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-bbe7462a942658c67e4f37cb687e22c3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1097) revoked (1.2.2014) by [The CRC Energy Efficiency Scheme (Allocation of Allowances for Payment) Regulations 2013 (S.I. 2013/3103)](https://www.legislation.gov.uk/uksi/2013/3103), [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/13/1) (with [reg. 13(2)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/13/2)[(3)](https://www.legislation.gov.uk/uksi/2013/3103/regulation/13/3))

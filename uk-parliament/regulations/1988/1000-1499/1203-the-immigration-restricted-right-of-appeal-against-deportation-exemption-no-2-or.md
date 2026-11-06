@@ -1,0 +1,82 @@
+---
+title: The Immigration (Restricted Right of Appeal against Deportation) (Exemption) (No. 2) Order 1988
+id: uksi/1988/1203
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1988-07-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1988/1203
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/1203/pdfs/uksi_19881203_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/1203/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration (Restricted Right of Appeal against Deportation) (Exemption) (No. 2) Order 1988
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument has been made in consequence of a defect in [S.I. 1988/1134](https://www.legislation.gov.uk/uksi/1988/1134) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+1988 No. 1203
+
+IMMIGRATION
+
+The Immigration (Restricted Right of Appeal against Deportation) (Exemption) (No. 2) Order 1988
+
+Made
+
+12th July 1988
+
+Laid before Parliament
+
+15th July 1988
+
+Coming into force
+
+1st August 1988
+
+In exercise of the powers conferred upon me by section 5(2) of the Immigration Act 1988[^f00001], I hereby make the following Order:—
+
+**1.** (1) This Order may be cited as the Immigration (Restricted Right of Appeal against Deportation) (Exemption) (No. 2) Order 1988 and shall come into force on 1st August 1988.
+
+(2) The Immigration (Restricted Right of Appeal against Deportation) (Exemption) Order 1988[^f00002] is hereby revoked.
+
+**2.** Subject only to article 3 below, the following persons shall be exempt from section 5(1) of the Immigration Act 1988—
+
+- (a) any person who claims that his deportation would be contrary to the United Kingdom’s obligations under the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and the Protocol thereto (“the Refugee Convention”); and
+- (b) any person who would have been last given leave to enter the United Kingdom seven years or more before the date of the decision to make a deportation order against him but for his having obtained a subsequent leave after an absence from the United Kingdom within the period limited for the duration of the earlier leave where, by virtue of section 3(3)(b) of the Immigration Act 1971[^f00003], the limitation on and any conditions attached to the earlier leave apply to the subsequent leave.
+
+**3.** A person who is exempt from section 5(1) by virtue of article 2(a) above may appeal under section 15 of the Immigration Act 1971 against a decision to make a deportation order against him only if the appeal is on the ground that:—
+
+- (a) on the facts of his case there is in law no power to make a deportation order for the reasons stated in the notice of the decision; or
+- (b) his deportation would be contrary to the United Kingdom’s obligations under the Refugee Convention.
+
+Douglas Hurd
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+12th July 1988
+
+(This note is not part of the Order)
+
+Section 5(1) of the Immigration Act 1988 (which comes into force on 1st August 1988) provides that a person who was last given leave to enter the United Kingdom less than seven years before the date of the decision to make a deportation order against him by virtue of section 3(5)(a) of the Immigration Act 1971 (breach of limited leave) or by virtue of section 3(5)(c) of that Act as belonging to the family of a person who is or has been ordered to be deported by virtue of section 3(5)(a), shall not be entitled to appeal under section 15 of the 1971 Act except on the ground that on the facts of his case there is in law no power to make the deportation order for the reasons stated in the notice of the decision.
+
+However, this restriction on the right of appeal does not apply to a person who is exempt by virtue of an order made under subsection (2) of section 5. This Order provides for any person who claims that his deportation would be contrary to the United Kingdom’s obligations under the 1951 Convention relating to the Status of Refugees and the Protocol thereto to be exempt. However, such a person can only appeal on the ground that there is in law no power to deport him or on the ground that he is a refugee. The Order also provides that a person is exempt if he would have last been given leave to enter seven years or more before the date of the decision to deport but for his having been abroad and having, on his return, obtained leave during the unexpired period of the earlier leave where, by virtue of section 3(3)(b) of the Immigration Act 1971, the limitation on and any conditions attached to the earlier leave apply to the subsequent leave.
+
+This Order revokes the Immigration (Restricted Right of Appeal against Deportation) (Exemption) Order 1988 ([S.I. 1988/1134](https://www.legislation.gov.uk/uksi/1988/1134)) which contained an error. That Order would have otherwise come into force on 1st August 1988.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 14](https://www.legislation.gov.uk/ukpga/1988/14); section 5 comes into force on 1st August 1988 ([S.I. 1988/1133](https://www.legislation.gov.uk/uksi/1988/1133)).
+
+[^f00002]: Footnote: [S.I. 1988/1134](https://www.legislation.gov.uk/uksi/1988/1134).
+
+[^f00003]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).

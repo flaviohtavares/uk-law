@@ -1,0 +1,30 @@
+---
+title: The Courts-Martial (Royal Navy) Rules 2007, section 39
+act: The Courts-Martial (Royal Navy) Rules 2007
+section: '39'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/3443/section/39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Courts-Martial (Royal Navy) Rules 2007, section 39
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 39. Severance
+
+(1) Where—
+
+- (a) an accused is charged with more than one offence; or
+- (b) two or more accused are charged in the same charge sheet,
+
+and the judge advocate rules that the fair trial of an accused may be prejudiced if the charges are not severed or that for any other reason it is desirable that the charges are severed, he may—
+
+- (i) order that one or more charges shall be tried by the same court;
+- (ii) order that only one or more of the accused shall be tried before the same court;
+- (iii) leave any charge or any accused to be tried by a new court.
+
+(2) Where an accused is charged in more than one charge sheet and the judge advocate rules that for any reason it is desirable that the court tries only the charge or charges set out in one charge sheet, he may leave the charge or charges set out in any other charge sheet to be tried by a new court.

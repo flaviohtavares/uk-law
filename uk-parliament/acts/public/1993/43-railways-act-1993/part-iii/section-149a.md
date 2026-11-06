@@ -1,0 +1,71 @@
+---
+title: Railways Act 1993, section 149A
+act: Railways Act 1993
+section: 149A
+status: revised
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1993/43/section/149A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Railways Act 1993, section 149A
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 149A. Service of documents under sections 118 to 120: additional provisions[^c19016281]
+
+*Extent: E+W+S+N.I.*
+
+(1) Any document required or authorised by virtue of sections 118 to 120 or this section of this Act to be given or served by the Secretary of State to or on any person may also be given or served, where—
+
+- (a) an address for service using electronic communications has been given by that person and not withdrawn in accordance with subsection (6), and
+- (b) that person has agreed to accept service by electronic communications of documents in a certain form and has not withdrawn that agreement in accordance with that subsection,
+
+by using electronic communications to send the document in that form to that person at that address.
+
+(2) A document given to or served on a person in accordance with subsection (1) must be in a form sufficiently permanent to be used for subsequent reference.
+
+(3) Where a document is given to or served on a person in accordance with subsection (1), the document is, unless the contrary is proved, to be deemed to have been given to or served on that person at the time at which the electronic communication is transmitted except where transmission is made outside that person's normal business hours, in which case it is to be taken to have been given or served on the next working day, and in this subsection, “**working day**” means any day other than—
+
+- (a) a Saturday or a Sunday;
+- (b) Christmas Day or Good Friday; or
+- (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 (c. 80) in any part of the United Kingdom.
+
+(4) A document required or authorised by virtue of sections 118 to 120 of this Act to be given or served by the Secretary of State is also to be treated as given or served where—
+
+- (a) that person and the Secretary of State have agreed to his having access to documents of a particular description and in a certain form on a web site (instead of their being given to or served on him in any other way specified in this section or section 149);
+- (b) that person has not withdrawn his agreement in accordance with subsection (7);
+- (c) the document in question is a document to which the agreement applies;
+- (d) the Secretary of State has given that person a notice, in a manner agreed between them for the purpose—
+  - (i) stating that the document has been published on a web site maintained by or on behalf of the Secretary of State;
+  - (ii) setting out the address of that web site; and
+  - (iii) setting out the place on that web site where the document may be accessed and how it may be accessed by that person; and
+- (e) the published document is in a form sufficiently permanent to be used for subsequent reference.
+
+(5) Where a document is given to or served on a person in accordance with subsection (4), the document is, unless the contrary is proved, to be deemed to have been given to or served on that person at the same time as the notice required to be given under subsection (4)(d) is given.
+
+(6) A person who has supplied the Secretary of State with an address for service using electronic communications and has agreed to accept service of documents in a certain form in accordance with subsection (1) may give notice to the Secretary of State withdrawing that address or that agreement or both.
+
+(7) A person who has an agreement with the Secretary of State under subsection (4)(a) may give notice to the Secretary of State withdrawing that agreement.
+
+(8) A withdrawal under subsection (6) or (7) shall take effect on the later of—
+
+- (a) the date specified by the person in the notice; and
+- (b) the date which is fourteen days after the date on which the notice is given.
+
+(9) Oral notice is not sufficient for the purposes of subsection (6) or (7).
+
+(10) This section shall not apply to any document in relation to the service of which provision is made by the rules of the court.
+
+(11) In this section—
+
+- “**address**”, in relation to electronic communications, means any number or address used for the purposes of such communications;
+- “**electronic communication**” has the same meaning as in the Electronic Communications Act 2000 (c. 7).
+
+## Annotations
+
+[^c19016281]: Textual amendment: S. 149A inserted (30.9.2006) by The Transport Security (Electronic Communications) Order 2006 (S.I 2006/2190), {art. 6}

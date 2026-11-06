@@ -1,0 +1,23 @@
+---
+title: The Bank Insolvency (Scotland) Rules 2009, section 47
+act: The Bank Insolvency (Scotland) Rules 2009
+section: '47'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2009/351/section/47
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bank Insolvency (Scotland) Rules 2009, section 47
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 47. Recourse to the court
+
+Apply rule 4.34 of the 1986 Rules[^f00025].
+
+## Annotations
+
+[^f00025]: Footnote: Rule 4.34 was amended by paragraph 22 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

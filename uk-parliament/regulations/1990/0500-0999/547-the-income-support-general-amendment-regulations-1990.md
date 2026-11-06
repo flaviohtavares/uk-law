@@ -1,0 +1,482 @@
+---
+title: The Income Support (General) Amendment Regulations 1990
+id: uksi/1990/547
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1990-03-08'
+text_date: '2006-04-10'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1990/547
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/547/pdfs/uksi_19900547_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/547/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Support (General) Amendment Regulations 1990
+
+> Text as at 2006-04-10.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1990 No. 547
+
+SOCIAL SECURITY
+
+The Income Support (General) Amendment Regulations 1990
+
+Made
+
+8th March 1990
+
+Laid before Parliament
+
+9th March 1990
+
+Coming into force
+
+regulations 1, 2, 11, 12, 18(a) and (c), 22(e) and 23(a)
+
+1st April 1990
+
+regulations 3 to 10,13 to 17, 18(b), (d) and (e), 19 to 21, 22(a) to (d) and 23(b)
+
+9th April 1990
+
+The Secretary of State for Social Security in exercise of the powers conferred by sections 20(3)(a) and (d), (11), (12)(b), (c), (e) and (k), 22(1), (8), (9)(a) and (b) and 84(1) of the Social Security Act 1986[^f00001] and section 166(1) to (3) of the Social Security Act 1975[^f00002] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-013542e7ac39b807070c2d9eba2050a8]
+
+(1) These Regulations may be cited as the Income Support (General) Amendment Regulations 1990 and shall, subject to paragraphs (2) and (3), come into force as follows—
+
+- (a) regulations 1, 2, 11, 12, 18(a) and (c), 22(e) and 23(a) on 1st April 1990;
+- (b) regulations 3 to 10, 13 to 17, 18(b), (d) and (e), 19 to 21 and 22(a) to (d) and 23(b) on 9th April 1990.
+
+(2) These Regulations shall come into force in relation to any particular claimant at the beginning of the first benefit week to commence for that claimant on or after the date specified in paragraph (1) which applies in his case; and for this purpose the expressions “claimant” and “benefit week” have the same meanings as in the General Regulations.
+
+(3) In any case in which these Regulations and the Social Security Benefits Up-Rating Order 1990[^f00004] come into force on the same day, these Regulations shall come into force immediately after that Order.
+
+(4) In these Regulations “the General Regulations” means the Income Support (General) Regulations 1987[^f00005].
+
+## 2. Amendment of regulation 2 of the General Regulations[^key-7ccf5b1ae13dd4d61af295c71c87b7e2]
+
+In regulation 2 of the General Regulations (interpretation), in paragraph (1) after the definition of “training allowance” there shall be inserted the following definition—
+
+> - “water charges”, as respects England and Wales, means charges under Chapter IV of Part II of the Water Act 1989[^f00006];
+
+.
+
+## 3. Amendment of regulation 4 of the General Regulations[^key-628b5bfa2da147012f7131ea38e30ba7]
+
+In regulation 4 of the General Regulations (temporary absence from Great Britain)—
+
+- (a) in paragraph (1) for the words from “shall continue during” to the end there shall be substituted the words—
+
+  > - shall continue only—
+  >   - (a) in the circumstances specified in paragraph (2), during the first 4 weeks of that period of temporary absence; and
+  >   - (b) in the circumstances specified in paragraph (3), during the first 8 weeks of that period.
+
+  ;
+- (b) after paragraph (2) there shall be added the following paragraphs—
+
+  > (3) The circumstances in which a claimant’s entitlement to income support is to continue during the first 8 weeks of a temporary absence from Great Britain are that—
+  >
+  > - (a) the period of absence is unlikely to exceed 52 weeks; and
+  > - (b) the claimant continues to satisfy the other conditions of entitlement to income support; and
+  > - (c) the claimant is, or the claimant and any other member of his family are, accompanying a member of the claimant’s family who is a child or young person solely in connection with arrangements made for the treatment of that child or young person for a disease or bodily or mental disablement; and
+  > - (d) those arrangements relate to treatment—
+  >   - (i) outside Great Britain;
+  >   - (ii) during the period whilst the claimant is, or the claimant and any member of his family are, temporarily absent from Great Britain; and
+  >   - (iii) by, or under the supervision of, a person appropriately qualified to carry out that treatment.
+  >
+  > (4) In paragraphs (2) and (3) “appropriately qualified” means qualified to provide medical treatment, physiotherapy or a form of treatment which is similar to, or related to, either of those forms of treatment.
+
+  .
+
+## 4. Amendment of regulation 5 of the General Regulations[^key-e15a15dc996efc5d9de1cf5f0f8b54a4]
+
+In regulation 5 of the General Regulations (persons treated as engaged in remunerative work), after paragraph (6) there shall be added the following paragraph—
+
+> (7) For the purposes of paragraphs (1) and (2), in determining the number of hours for which a person is engaged in work, that number shall include any time allowed to that person by his employer for a meal or for refreshment, but only where that person is, or expects to be, paid earnings in respect of that time.
+
+.
+
+## 5. Substitution of regulation 12 of the General Regulations[^key-1598add7db5b52f3492e23c797dfb22d]
+
+For regulation 12 of the General Regulations (relevant education) there shall be substituted the following regulation—
+
+> **12. Relevant education**
+>
+> (1) For the purposes of these Regulations a child or young person is to be treated as receiving relevant education if, and only if—
+>
+> - (a) he is not receiving advanced education; but
+> - (b) he is receiving full-time education for the purposes of section 2 of the Child Benefit Act 1975[^f00007] (meaning of child) or, as the case may be, he is treated as a child for the purposes of that section.
+>
+> (2) For the purposes of this regulation “receiving advanced education” means participating in any course (whether full-time or part-time)—
+>
+> - (a) leading to a postgraduate degree or comparable qualification, a first degree or comparable qualification, a diploma of higher education, a higher national diploma, a higher national diploma of the Business and Technician Education Council or the Scottish Vocational Education Council or a teaching qualification; or
+> - (b) any other course which is a course of a standard above ordinary national diploma, a national diploma of the Business and Technician Education Council or a national certificate of the Scottish Vocational Education Council, a general certificate of education (advanced level), a Scottish certificate of education (higher grade) or a Scottish certificate of sixth year studies.
+
+.
+
+## 6. Amendment of regulation 14 of the General Regulations[^key-164028deea12cc7af51112807fcd4f45]
+
+In regulation 14(2) of the General Regulations (persons of a prescribed description) there shall be inserted after the words “shall not apply to” the words “a person who is receiving advanced education within the meaning of regulation 12(2) (relevant education) or to”.
+
+## 7. Amendment of regulation 16 of the General Regulations[^key-b5117ae0e8bd9d3c246ff5006d805ba2]
+
+In regulation 16 of the General Regulations (circumstances in which a person is to be treated as being or not being a member of the household), in paragraph (5)—
+
+- (a) in sub-paragraph (a), at the beginning there shall be inserted the words “in a case which does not fall within sub-paragraph (aa),” and for the words “with the date” there shall be substituted the words “on the day which immediately follows the day”;
+- (b) after sub-paragraph (a), there shall be inserted the following sub-paragraph—
+
+  > - (aa) where regulation 4(3) or paragraph 11A or 12A of Schedule 7 (temporary absence abroad for the treatment of a child or young person) applies, has been continuously absent from Great Britain for a period of more than 8 weeks, that period of 8 weeks commencing—
+  >   - (i) where he went abroad before the date of the claim for income support, on the date of that claim;
+  >   - (ii) in any other case, on the day which immediately follows the day on which he went abroad; or
+
+  .
+
+## 8. Amendment of regulation 21 of the General Regulations[^key-1b93854542f1cb96878e57a93561d7c9]
+
+In regulation 21(3) of the General Regulations (special cases), in the definition of “person from abroad”, after the words “Isle of Man” there shall be inserted the words “unless, in the case of a national of a state which is a signatory of that European Convention, he has made an application for the conditions of his leave to remain in the United Kingdom to be varied, and that application has not been determined or an appeal from that application is pending under Part II of the 1971 Act (appeals);”.
+
+## 9. Amendment of regulation 22 of the General Regulations[^key-8036859ccae41b9c88126094180ced24]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Amendment of regulation 29 of the General Regulations[^key-d6ccb37a5657359b69569674e3900c0f]
+
+In regulation 29 of the General Regulations (calculation of earnings derived from employed earner’s employment and income other than earnings), in paragraph (2)(b)—
+
+- (a) after the words “the amount of that income” there shall be inserted the words “less any amount paid by way of tax on that income which is disregarded under paragraph 1 of Schedule 9 (income other than earnings to be disregarded)”;
+- (b) for the words “or, as the case may be, 9 (earnings and other income to be disregarded)” there shall be substituted the words “(earnings to be disregarded) or, as the case maybe, any paragraph of Schedule 9 other than paragraph 1 of that Schedule,”.
+
+## 11. Amendment of regulation 42 of the General Regulations[^key-b3f32696698a3a3942bde10e73361ceb]
+
+In regulation 42(4)(a)(ii) of the General Regulations (notional income), after the words “housing benefit is payable,” there shall be inserted the words “community charge, water charges in England and Wales,”.
+
+## 12. Amendment of regulation 51 of the General Regulations[^key-09aaf0cbd6ccad54d9f3092f97ba2e32]
+
+In regulation 51 of the General Regulations (notional capital), in paragraph (3)(a)(ii) after the words “housing benefit is payable,” there shall be inserted the words “community charge, water charges in England and Wales,”.
+
+## 13. Amendment of regulation 61 of the General Regulations[^key-8d1f800088f2c26e42ef5de4ecd16b73]
+
+In regulation 61 of the General Regulations (interpretation), in the definition of “a course of advanced education”, in paragraph (b), after the words “Technician Education Council or” there shall be inserted the words “a national certificate of”.
+
+## 14. Amendment of regulation 65 of the General Regulations[^key-6b67a8f6760afb3a59c97a7075dcf131]
+
+In regulation 65 of the General Regulations (disregard of certain students' income other than covenant and grant income)—
+
+- (a) for the words from “shall only” to the words “extent that,” there shall be substituted the words “to which sub-paragraph (1) of that paragraph applies shall be disregarded only to the extent that”;
+- (b) for the amount “£5” there shall be substituted the amount “£10”.
+
+## 15. Amendment of Schedule 1 to the General Regulations[^key-903dfa0e4002c23f0a77eee1e80f0916]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16. Amendment of Schedule 1A to the General Regulations[^key-f450733e2335744820751831e0d57c7f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17. Amendment of Schedule 2 to the General Regulations[^key-88c0f2c90cb6ed9717ae4d7516871e77]
+
+In Schedule 2 to the General Regulations (applicable amounts) in Part III, after paragraph 14A[^f00009], there shall be inserted the following paragraph—
+
+> **14B. Person in receipt of benefit**
+>
+> For the purposes of this Part of this Schedule, a person shall be regarded as being in receipt of any benefit if, and only if, it is paid in respect of him and shall be so regarded only for any period in respect of which that benefit is paid.
+
+.
+
+## 18. Amendment of Schedule 3 to the General Regulations[^key-4731f42b4b543ade077c0b23bec3c1bf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. Amendment of Schedule 3A to the General Regulations[^key-2573a3854ce2171766c8c60d727d1703]
+
+In Schedule 3A to the General Regulations (protected sum)[^f00014], in paragraph 5—
+
+- (a) in sub-paragraph (1) for the reference “and (3)” there shall be substituted the reference “, (3) and (4)”;
+- (b) after sub-paragraph (3) there shall be added the following paragraph—
+
+  > (4) Where a claimant’s applicable amount increases because a child or young person mentioned in paragraph (5)(c) of regulation 16 (circumstances in which a person is treated or not treated as a member of the household) is treated as a member of the claimant’s household under paragraph (6) of that regulation, the claimant’s protected sum shall not be reduced by the amount of that increase unless the child or young person has been treated as a member of the household for a continuous period which exceeds 8 weeks.
+
+  .
+
+## 20. Amendment of Schedule 3B to the General Regulations[^key-caa72179c61eedb4c66b3ef4968aeecf]
+
+In Schedule 3B to the General Regulations (protected sum)[^f00014]—
+
+- (a) in paragraph 2—
+  - (i) at the beginning of sub-paragraph (4)(a)(ii) there shall be added the words “subject to sub-paragraph (7)”;
+  - (ii) after sub-paragraph (6) there shall be added the following sub-paragraph—
+
+    > (7) In the case of a member of a family who in the first week is a child aged less than 11, the amount of any increase for meals under sub-paragraph (4)(a)(ii) shall be either—
+    >
+    > - (a) the amount of any such increase in the first week determined, or which, but for any temporary absence, would have been determined, in accordance with paragraph 2 of Schedule 5 as then in force; or
+    > - (b) £17.65,
+    >
+    > whichever is the lower.
+
+    ;
+- (b) in paragraph 4—
+  - (i) in sub-paragraph (1) for the reference “sub-paragraph (2)” there shall be substituted the reference “sub-paragraphs (2) and (3)”;
+  - (ii) after sub-paragraph (2) there shall be added the following sub-paragraph—
+
+    > (3) where a claimant’s applicable amount increases because a child or young person mentioned in paragraph (5)(c) of regulation 16 (circumstances in which a person is treated or not treated as a member of the household) is treated as a member of the claimant’s household under paragraph (6) of that regulation, the claimant’s protected sum shall not be reduced by the amount of that increase unless the child or young person has been treated as a member of the household for a continuous period which exceeds 8 weeks.
+
+    ;
+- (c) in paragraph 6—
+  - (i) in sub-paragraph (2) the following sub-paragraph shall be inserted after sub-paragraph (a)—
+
+    > - (aa) where the first benefit week in which his applicable amount ceases to be determined under paragraph 1 of Schedule 7 is the relevant benefit week, the amount determined under paragraph 2(4) or, as the case may be, paragraph 2(6), less any reduction under paragraph 4(1) other than a reduction which arises by virtue of his ceasing to be a patient within the meaning of regulation 21(3); or
+
+    ;
+  - (ii) in sub-paragraph (3)(b) the following heads shall be substituted for head (ii)—
+
+    > - (ii) where the first benefit week in which he becomes so re-entitled is the relevant benefit week, the amount determined under paragraph 2(4) or, as the case may be, paragraph 2(6), less any reduction under paragraph 4(1) in that benefit week.; or
+    > - (iii) where the first benefit week in which he becomes so re-entitled is a week subsequent to the relevant benefit week, the amount which would have been determined under paragraph 2(4) or, as the case may be, paragraph 2(6) had he been entitled in the relevant benefit week, less any reduction under paragraph 4(1) in the benefit week in which he becomes re-entitled; or
+    > - (iv) the amount of the protected sum to which he was previously entitled,
+
+    .
+
+## 21. Amendment of Schedule 7 to the General Regulations[^key-79ccec9e3be734fc89378d1c92fe8208]
+
+In Schedule 7 to the General Regulations (applicable amounts in special cases)[^f00015]
+
+- (a)[^key-246c68a8bc6091ba105dc5aad6c6580f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-5909652acb05862301c43df3dbe05b79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in paragraph 10A, in column (2), for the reference “or (f)” there shall be substituted the reference “(f) or (g)”;
+- (d) in paragraph 10B(3), in column (2), for the reference “17(1)(e) or 18(f)” there shall be substituted the reference “17(1)(e), (f) or (g) or 18(1)(f), (g) or (h)”;
+- (e) in paragraph 10C, in column (2), for the words from “personal expenses plus” to the end there shall be substituted the following words—
+
+  > |  |  |
+  > | --- | --- |
+  > |  | personal expenses, plus—<br>- (a) in respect of each child or young person who is a member of his family, the amount in respect of him prescribed in paragraph 2(a), (b), (c) or (d), of Schedule 2 or under this Schedule as appropriate; and<br>- (b) any amount which would be applicable to the claimant if he were not temporarily living away from the dwelling occupied as his home, under regulation 17(1)(c), (e), (f) or (g), or (d) in so far as that amount relates to the lone parent premium under paragraph 8 of Schedule 2. |
+
+  ;
+- (f) in paragraph 10D, in column (2), for the reference “paragraph 1(1)(a) and (c)” there shall be substituted the reference “paragraph 1(1)(a), (b) and (c)”;
+- (g) in paragraph 11, in column (1), at the beginning there shall be inserted the words “Subject to paragraph 11A,”;
+- (h) after paragraph 11 there shall be inserted the following paragraph—
+
+  > |  |  |
+  > | --- | --- |
+  > | Couple or member of couple taking child or young person abroad for treatment<br>**11A.** A claimant who is a member of a couple where either—<br>- (a) he or his partner is, or,<br>- (b) both he and his partner are<br>absent from the United Kingdom in circumstances specified in regulation 4(3)(a)to(d). | **11A.** For the first 8 weeks of that absence, the amount applicable to the claimant under regulation 17(1), 19 or 21, as the case may be, and, thereafter, if the claimant is in Great Britain the amount applicable to him under regulation 17(1), 19 or 21, as the case may be, as if the claimant were a single claimant, or, as the case may be, a lone parent. |
+
+  ;
+
+  - (i) for paragraph 12, there shall be substituted the following paragraph—
+
+    > |  |  |
+    > | --- | --- |
+    > | Polygamous marriages where any member is abroad<br>**12.** Subject to paragraph 12A, a claimant who is a member of a polygamous marriage where—<br>- (a) he or one of his partners is, or<br>- (b) he and one or more of his partners, are or<br>- (c) two or more of his partners are,<br>temporarily absent from the United Kingdom; | **12.** For the first four weeks of that absence, the amount applicable to the claimant under regulations 18 to 21, as the case may be, and thereafter, if the claimant is in Great Britain the amount applicable to him under regulations 18 to 21, as the case may be, as if any member of the polygamous marriage not in the United Kingdom were not a member of the marriage. |
+
+    ;
+- (j) after paragraph 12 there shall be inserted the following paragraph—
+
+  > |  |  |
+  > | --- | --- |
+  > | Polygamous marriage: taking child or young person abroad for treatment<br>**12A.** A claimant who is a member of a polygamous marriage where—<br>- (a) he or one of his partners is,<br>- (b) he and one or more of his partners, are or<br>- (c) two or more of his partners are,<br>absent from the United Kingdom in circumstances specified in regulation 4(3)(a) to (d). | **12A.** For the first 8 weeks of that absence, the amount applicable to the claimant under regulations 18 to 21, as the case may be, and thereafter, if the claimant is in Great Britain the amount applicable to him under regulations 18 to 21, as the case may be, as if any member of the polygamous marriage not in the United Kingdom were not a member of the marriage. |
+
+  ;
+- (k) in paragraph 1—
+  - (i) in sub-paragraph (1), in column (2), for the reference “17(1)(f) or 18(1)(g)” there shall be substituted the reference “17(1)(f) or (g) or 18(1)(g)or(h)”;
+  - (ii) in sub-paragraph (2), in column (2), for the reference “£8.70” there shall be substituted the words “Any amount applicable under regulation 17(1)(f) or (g), plus £9.40.”.
+
+## 22. Amendment of Schedule 9 to the General Regulations[^key-dd082b908a8dcd1251fcc7958475319a][^key-977672a4ce569223a3103c26cf0032dc]
+
+In Schedule 9 to the General Regulations (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a)[^key-dd082b908a8dcd1251fcc7958475319a] for paragraph 15 there shall be substituted the following paragraph—
+
+  > **15.** (1) Except where sub-paragraph (2) applies and subject to sub-paragraph (3) and paragraphs 36, 37 and 39, £10 of any charitable payment or of any voluntary payment made or due to be made at regular intervals.
+  >
+  > (2) Subject to sub-paragraph (3) and paragraph 39, any charitable payment or voluntary payment made or due to be made at regular intervals which is intended and used for an item other than food, ordinary clothing or footwear, household fuel, rent or rates for which housing benefit is payable, community charge, water charges in England and Wales, or any housing costs to the extent that they are met under regulation 17(1)(e) or 18(1)(f) (housing costs) or any accommodation charges to the extent that they are met under regulation 19 (persons in residential care or nursing homes), of a single claimant or, as the case may be, of the claimant or any other member of his family.
+  >
+  > (3) Sub-paragraphs (1) and (2) shall not apply—
+  >
+  > - (a) to a payment which is made by a person for the maintenance of any member of his family or of his former partner or of his children;
+  > - (b) in the case of a person to whom section 23 of the Act (trade disputes) applies or in respect of whom section 20(3) of the Act (conditions of entitlement to income support) has effect as modified by section 23A(b) of the Act (effect of return to work).
+  >
+  > (4) For the purposes of sub-paragraph (1) where a number of charitable or voluntary payments fall to be taken into account in any one week they shall be treated as though they were one such payment.
+  >
+  > (5) For the purposes of sub-paragraph (2) the expression “ordinary clothing or footwear” means clothing or footwear for normal daily use, but does not include school uniforms, or clothing or footwear used solely for sporting activities.
+
+  .
+- (b)[^key-dd082b908a8dcd1251fcc7958475319a] in paragraph 16, for the amount “£5” there shall be substituted the amount “£10”;
+- (c)[^key-dd082b908a8dcd1251fcc7958475319a] for paragraph 20 there shall be substituted the following paragraph—
+
+  > **20.** Where the claimant occupies a dwelling as his home and he provides in that dwelling board and lodging accommodation—
+  >
+  > - (a) £20.00 of any payment for that accommodation made by the person to whom it is provided; and
+  > - (b) where any such payment exceeds £20.00, 50% of the excess.
+
+  ;
+- (d)[^key-dd082b908a8dcd1251fcc7958475319a] in paragraph 36—
+  - (i) for the reference “paragraphs 15” there shall be substituted the reference “paragraphs 15(1)”; and
+  - (ii) for the amount “£5” there shall be substituted the amount “£10”;
+- (e)[^key-977672a4ce569223a3103c26cf0032dc] after paragraph 44 there shall be added the following paragraphs—
+
+  > **45.** Any community charge benefit.
+  >
+  > **46.** Any payment in consequence of a reduction of a personal community charge pursuant to regulations under section 13A of the Local Government Finance Act 1988[^f00018] or section 9A of the Abolition of Domestic Rates Etc (Scotland) Act 1987[^f00019] (reduction of liability for personal community charges).
+  >
+  > **47.** Any special war widows payment made under—
+  >
+  > - (a) the Naval and Marine Pay and Pensions (Special War Widows Payment) Order 1990 made under section 3 of the Naval and Marine Pay and Pensions Act 1865[^f00020];
+  > - (b) the Royal Warrant dated 19th February 1990 amending the Schedule to the Army Pensions Warrant 1977[^f00021];
+  > - (c) the Queen’s Order dated 26th February 1990 made under section 2 of the Air Force (Constitution) Act 1917[^f00022];
+  > - (d) the Home Guard War Widows Special Payments Regulations 1990 made under section 151 of the Reserve Forces Act 1980[^f00023];
+  > - (e) the Orders dated 19th February 1990 amending Orders made on 12th December 1980 concerning the Ulster Defence Regiment made in each case under section 140 of the Reserve Forces Act 1980[^f00024];
+  >
+  > and any analogous payment made by the Secretary of State for Defence to any person who is not a person entitled under the provisions mentioned in sub- paragraphs (a) to (e) of this paragraph.
+
+  .
+
+## 23. Amendment of Schedule 10 to the General Regulations[^key-bd497c7b29cfa74b809d7ba470c6080f][^key-d4ff8fd764fcd299c2a24289585b00c4]
+
+In Schedule 10 to the General Regulations (capital to be disregarded)—
+
+- (a)[^key-bd497c7b29cfa74b809d7ba470c6080f] after paragraph 35 there shall be added the following paragraph—
+
+  > **36.** Any payment in consequence of a reduction of a personal community charge pursuant to regulations under section 13A of the Local Government Finance Act 1988 or section 9A of the Abolition of Domestic Rates Etc (Scotland) Act 1987 (reduction of liability for personal community charge) but only for a period of 52 weeks from the date of the receipt of the payment.
+
+  ;
+- (b)[^key-d4ff8fd764fcd299c2a24289585b00c4] after paragraph 36 there shall be added the following paragraph—
+
+  > **37.** Any grant made to the claimant in accordance with a scheme made under section 129 of the Housing Act 1988[^f00025] or section 66 of the Housing (Scotland) Act 1988[^f00026] (schemes for payments to assist local housing authority and local authority tenants to obtain other accommodation) which is to be used—
+  >
+  > - (a) to purchase premises intended for occupation as his home; or
+  > - (b) to carry out repairs or alterations which are required to render premises fit for occupation as his home
+  >
+  > for a period of 26 weeks from the date on which he received such a grant or such longer period as is reasonable in the circumstances to enable the purchase, repairs or alterations to be completed and the claimant to commence occupation of those premises as his home.
+
+  .
+
+Signed by authority of the Secretary of State for Social Security.
+
+Nicholas Scott
+
+Minister of State,
+
+Department of Social Security
+
+8th March 1990
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Income Support (General) Regulations 1987 in the following respects—
+
+- (a) they make new provision for the payment of income support during a period of up to 8 weeks whilst a claimant or one or more other members of his family are abroad for the purpose of accompanying a child or young person during treatment (regulations 3, 7, 15, 16 and 21(h) to (j));
+- (b) they provide that a person is to be treated as engaged in work during meal and refreshment breaks in respect of which he is, or expects to be, paid (regulation 4);
+- (c) they provide that certain persons who are receiving advanced education are not treated as receiving relevant education and are not to be treated as members of the family (regulations 5, 6 and 13);
+- (d) they make new provision in respect of claims for income support from persons from countries which are party to the European Convention on Social and Medical Assistance who are temporarily resident (regulation 8);
+- (e) in the case of certain couples and members of a polygamous marriage, they reduce the amount of the reduction which is applicable on account of actual or notional unemployment benefit disqualification (regulation 9);
+- (f) they clarify the way in which income is to be calculated (regulation 10);
+- (g) they clarify the provisions under which applicable amounts are calculated in cases where benefit is payable to one person in respect of another (regulation 17);
+- (h) they define the term “water charges” and amend the provisions under which income and capital and housing costs are calculated, including in particular changes made in consequence of the introduction of community charge (regulations 2, 11, 12 and 18(a) and (c));
+- (i) they remove the provision under which capital of more than £500 is taken into account in connection with loans for repairs and improvements to the claimant’s dwelling and make other provision with regard to housing costs (regulation 18(b) and(d));
+- (j) they make new provision for the calculation of non-dependant deductions (regulation 18(e));
+- (k) they amend various provisions for transitional protection (regulations 19 and 20);
+- (l) they make new provision for the applicable amount of prisoners who are discharged into detention under the Mental Health Act 1983 or the Mental Health (Scotland) Act 1984 and certain other special cases (regulation 21);
+- (m) they increase the amount of income from charitable or voluntary payments which is to be disregarded; in the case of students they increase the amount of certain income other than grants and covenants which is to be disregarded; amend the provisions for the disregard of income derived from the provision of board and lodging accommodation; increase the amount of income from certain war pensions which is to be disregarded; provide certain other disregards relating to war widows, community charge benefit and reductions in personal community charge and provide for the disregard in the calculation of capital of certain amounts relating to community charge and grants made to enable local authority tenants to obtain other accommodation (regulations 14, 22 and 23).
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50); section 84(1) is an interpretation provision and is cited because of the meanings assigned to the words “prescribed” and “regulations”.
+
+[^f00002]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); section 166(1) to (3) is applied by section 83(1) of the Social Security Act 1986.
+
+[^f00003]: Footnote: See the Social Security Act 1986, section 61(1)(b) and (10); the Social Security Act [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24), Schedule 8, added a definition of “regulations” to section 61(10) of the Act of 1986.
+
+[^key-013542e7ac39b807070c2d9eba2050a8]: Commencement: Reg. 1 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+
+[^f00004]: Footnote: S.I. [1990/320](https://www.legislation.gov.uk/uksi/1990/320)
+
+[^f00005]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967)
+
+[^key-7ccf5b1ae13dd4d61af295c71c87b7e2]: Commencement: Reg. 2 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+
+[^f00006]: Footnote: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15)
+
+[^key-628b5bfa2da147012f7131ea38e30ba7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1990/547/regulation/3) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-e15a15dc996efc5d9de1cf5f0f8b54a4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/547/regulation/4) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-1598add7db5b52f3492e23c797dfb22d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1990/547/regulation/5) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^f00007]: Footnote: [1975 c. 61](https://www.legislation.gov.uk/ukpga/1975/61)
+
+[^key-164028deea12cc7af51112807fcd4f45]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1990/547/regulation/6) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-b5117ae0e8bd9d3c246ff5006d805ba2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1990/547/regulation/7) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-1b93854542f1cb96878e57a93561d7c9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1990/547/regulation/8) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-8036859ccae41b9c88126094180ced24]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1990/547/regulation/9) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+
+[^key-d6ccb37a5657359b69569674e3900c0f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1990/547/regulation/10) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-b3f32696698a3a3942bde10e73361ceb]: Commencement: Reg. 11 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+
+[^key-09aaf0cbd6ccad54d9f3092f97ba2e32]: Commencement: Reg. 12 in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+
+[^key-8d1f800088f2c26e42ef5de4ecd16b73]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1990/547/regulation/13) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-6b67a8f6760afb3a59c97a7075dcf131]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1990/547/regulation/14) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-903dfa0e4002c23f0a77eee1e80f0916]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1990/547/regulation/15) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+
+[^key-f450733e2335744820751831e0d57c7f]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/1990/547/regulation/16) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/1996/206/regulation/28), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+
+[^key-88c0f2c90cb6ed9717ae4d7516871e77]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1990/547/regulation/17) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)
+
+[^f00009]: Footnote: See S.I. [1988/1445](https://www.legislation.gov.uk/uksi/1988/1445)
+
+[^key-4731f42b4b543ade077c0b23bec3c1bf]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1990/547/regulation/18) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://editorial.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
+
+[^key-2573a3854ce2171766c8c60d727d1703]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1990/547/regulation/19) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^f00014]: Footnote: See S.I. [1988/1445](https://www.legislation.gov.uk/uksi/1988/1445), [1989/534](https://www.legislation.gov.uk/uksi/1989/534)
+
+[^key-caa72179c61eedb4c66b3ef4968aeecf]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1990/547/regulation/20) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-79ccec9e3be734fc89378d1c92fe8208]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1990/547/regulation/21) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^f00015]: Footnote: See S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [2022](https://www.legislation.gov.uk/uksi/1988/2022), [1989/1678](https://www.legislation.gov.uk/uksi/1989/1678)
+
+[^key-246c68a8bc6091ba105dc5aad6c6580f]: Textual amendment: [Reg. 21(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/21/a) revoked (10.4.2006 for specified purposes) by [The Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+
+[^key-5909652acb05862301c43df3dbe05b79]: Textual amendment: [Reg. 21(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/21/b) revoked (10.4.2006 for specified purposes) by [The Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+
+[^key-dd082b908a8dcd1251fcc7958475319a]: Commencement: [Regs. 22(a)-(d)](https://www.legislation.gov.uk/uksi/1990/547/regulation/22/a) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^key-977672a4ce569223a3103c26cf0032dc]: Commencement: Reg. 22(e) in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+
+[^f00018]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 13A was inserted by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraph 5.
+
+[^f00019]: Footnote: [1987 c. 47](https://www.legislation.gov.uk/ukpga/1987/47); section 9A was inserted by the Local Government and Housing Act 1989, section 143.
+
+[^f00020]: Footnote: [1865 c. 73](https://www.legislation.gov.uk/ukpga/1865/73); Copies of the Order are available from: Ministry of Defence, NPC2, Room 317, Archway Block South, Old Admiralty Building, Spring Gardens, London SW1A 2BE.
+
+[^f00021]: Footnote: Army code no. 13045 published by HMSO.
+
+[^f00022]: Footnote: [1917 c. 51](https://www.legislation.gov.uk/ukpga/1917/51), Queen’s Regulations for the Royal Air Force are available from HMSO.
+
+[^f00023]: Footnote: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9). Copies of the Order are available from: Ministry of Defence at the address given in footnote (t)
+
+[^f00024]: Footnote: Army code no. 60589 published by HMSO.
+
+[^key-bd497c7b29cfa74b809d7ba470c6080f]: Commencement: Reg. 23(a) in force at 1.4.1990, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/a)(2)(3)
+
+[^key-d4ff8fd764fcd299c2a24289585b00c4]: Commencement: [Reg. 23(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/23/b) in force at 9.4.1990, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/1/b)[(2)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1990/547/regulation/1/3)
+
+[^f00025]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50)
+
+[^f00026]: Footnote: [1988 c. 43](https://www.legislation.gov.uk/ukpga/1988/43)

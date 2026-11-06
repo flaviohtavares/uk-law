@@ -1,0 +1,62 @@
+---
+title: Education (No. 2) Act 1986, section 42
+act: Education (No. 2) Act 1986
+section: '42'
+status: repealed
+text_date: '2026-07-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1986/61/section/42
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education (No. 2) Act 1986, section 42
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 42. Control of use of premises outside school hours.[^c4597941][^c4597931]
+
+*Extent: E+W*
+
+**No longer in force (ended 1996-11-01).**
+
+(1) The articles of government for every county and maintained special school shall provide—
+
+- (a) for the use of the school premises outside school hours to be under the control of the governing body except to the extent provided by any transfer of control agreement into which they may enter by virtue of paragraph (c) below;
+- (b) for the governing body in exercising control of the use of the school premises outside school hours—
+  - (i) to comply with any directions given to them by the local education authority by virtue of this sub-paragraph; and
+  - (ii) to have regard to the desirability of the premises being made available for community use;
+- (c) for the governing body to have power to enter into a transfer of control agreement if their purpose, or one of their purposes, in doing so is to promote community use of the school premises outside school hours; and
+- (d) for the governing body so far as reasonably practicable to secure, where they enter into a transfer of control agreement, that the controlling body exercises control in accordance with any directions given to the governing body by virtue of paragraph (b)(i) above.
+
+(2) A transfer of control agreement shall be taken to include the following terms, namely—
+
+- (a) that the governing body shall notify the controlling body of any directions given to the governing body by virtue of subsection (1)(b)(i) above;
+- (b) that the controlling body, in exercising control of the use of any premises subject to the agreement—
+  - (i) shall do so in accordance with any directions from time to time notified to that body in pursuance of paragraph (a) above; and
+  - (ii) shall have regard to the desirability of the premises being made available for community use outside school hours; and
+- (c) that, if reasonable notice is given in writing by the governing body to the controlling body that such of the premises subject to the agreement as may be specified in the notice are reasonably required for use by or in connection with the school at such times as may be so specified, then—
+  - (i) the use of the specified premises at those times shall be under the control of the governing body, and
+  - (ii) accordingly, those premises may be used at those times by or in connection with the school for such purposes as may be specified in the notice,
+
+  notwithstanding that their use at those times would, apart from this paragraph, be under the control of the controlling body.
+
+(3) Where a transfer of control agreement makes express provision for the use of any school premises which are subject to the agreement to be occasionally under the control of the governing body, instead of the controlling body, in such circumstances, at such times or for such purposes as may be provided by or under the agreement, paragraph (c) of subsection (2) above shall not have effect in relation to that agreement if, at the time of entering into it, the governing body were of the opinion that the express provision would be more favourable to the interests of the school than the term that would otherwise be included by virtue of that paragraph.
+
+(4) In this section—
+
+- “**community use**” means the use of school premises (when not required by or in connection with the school) by members of the local community;
+- “**the controlling body**” means the body or person (other than the governing body) which has control of the use of the whole or any part of the school premises under the transfer of control agreement in question;
+- “**school hours**” means any time during a school session or during a break between sessions on the same day, and “**outside school hours**” shall be construed accordingly;
+- “**school session**”, in relation to any school, means a school session beginning and ending at such times as may from time to time be determined for that school in accordance with Article 3 of the Deregulation (Length of the School Day) Order 1996[^c4597951]; and
+- “**transfer of control agreement**” means an agreement which, subject to subsection (2) above, provides for the use of so much of the school premises as may be specified in the agreement to be under the control, at such times outside school hours as may be so specified, of such body or person as may be so specified.
+
+## Annotations
+
+[^c4597941]: Modification: [S. 42](https://www.legislation.gov.uk/ukpga/1986/61/section/42) modified (1.1.1994) by [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35), [ss. 238](https://www.legislation.gov.uk/ukpga/1993/35/section/238), [239](https://www.legislation.gov.uk/ukpga/1993/35/section/239), [Sch. 13 para. 7(3)](https://www.legislation.gov.uk/ukpga/1993/35/schedule/13/paragraph/7/3); [S.I. 1993/3106](https://www.legislation.gov.uk/uksi/1993/3106), [art. 4](https://www.legislation.gov.uk/uksi/1993/3106/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/3106/schedule/1)
+
+[^c4597931]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/1986/61/section/42) substituted (1.1.1994) by [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35), [ss. 238](https://www.legislation.gov.uk/ukpga/1993/35/section/238), [239](https://www.legislation.gov.uk/ukpga/1993/35/section/239), [Sch. 13 paras. 5](https://www.legislation.gov.uk/ukpga/1993/35/schedule/13/paragraph/5), [6(6)](https://www.legislation.gov.uk/ukpga/1993/35/schedule/13/paragraph/6/6), [7(4)](https://www.legislation.gov.uk/ukpga/1993/35/schedule/13/paragraph/7/4); [S.I. 1993/3106](https://www.legislation.gov.uk/uksi/1993/3106), [art. 4](https://www.legislation.gov.uk/uksi/1993/3106/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/3106/schedule/1)
+
+[^c4597951]: Textual amendment: Words in [s. 42(4)](https://www.legislation.gov.uk/ukpga/1986/61/section/42/4) substituted (5.4.1996) by [S.I. 1996/951](https://www.legislation.gov.uk/uksi/1996/951), [art.5](https://www.legislation.gov.uk/uksi/1996/951/article/5)

@@ -1,0 +1,114 @@
+---
+title: The Growth and Infrastructure Act 2013 (Local Development Orders) (Consequential Provisions) (England) Order 2013
+id: uksi/2013/2879
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-11-07'
+text_date: '2015-04-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/2879
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2879/pdfs/uksiem_20132879_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2879/pdfs/uksi_20132879_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2879/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Growth and Infrastructure Act 2013 (Local Development Orders) (Consequential Provisions) (England) Order 2013
+
+> Text as at 2015-04-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 2879
+
+Town And Country Planning, England
+
+The Growth and Infrastructure Act 2013 (Local Development Orders) (Consequential Provisions) (England) Order 2013
+
+Made
+
+7th November 2013
+
+Laid before Parliament
+
+13th November 2013
+
+Coming into force
+
+9th December 2013
+
+The Secretary of State, in exercise of the powers conferred by sections 32(1)(b) and 33 of the Growth and Infrastructure Act 2013[^f00001], makes the following Order:
+
+## 1. Citation, application and interpretation[^key-f8721b10f4cca552639d28fdd152c069]
+
+(1) This Order may be cited as the Growth and Infrastructure Act 2013 (Local Development Orders) (Consequential Provisions) (England) Order 2013 and comes into force on 9th December 2013.
+
+(2) This Order applies in relation to England only.
+
+(3) In this Order—
+
+- “the Development Management Procedure Order” means the Town and Country Planning (Development Management Procedure) (England) Order 2010[^f00002];
+- “the EIA Regulations” means the Town and Country Planning (Environmental Impact Assessment) Regulations 2011[^f00003];
+- “draft local development order” means a local development order which has been prepared by a local planning authority in accordance with article 34(1) of the Development Management Procedure Order, but has not yet been adopted by the local planning authority;
+- “local development order” has the meaning given in section 61A of, and Schedule 4A to, the Town and Country Planning Act 1990[^f00004].
+
+## 2. Consequential amendments in relation to development management procedure[^key-a2767848ac873374da92ab9b9fe6e140]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Consequential amendments in relation to environmental impact assessment[^key-fcf88896a70f68dd3ef0c284980d1dae]
+
+Regulation 29 (modifications for the purposes of local development orders) of the EIA Regulations is amended as follows—
+
+- (a) in paragraph (5)(e), in the substituted text of regulation 16, omit sub-paragraph (a) of paragraph (1);
+- (b) in paragraph (5)(j)(i), for “make” substitute “adopt”; and
+- (c) in paragraph (6), after “and (c)(i)” omit “and paragraph (10)”.
+
+## 4. Transitional and saving provisions[^key-f39c9b86e414f5cfadf2e093cac5b80c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Nick Boles
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+7th November 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes consequential, transitional and saving provisions in connection with the commencement of section 5 of the Growth and Infrastructure Act 2013 (“the Act”), which amends various powers and duties in respect of local development orders in England.
+
+Local development orders can be made by local planning authorities under powers in section 61A of the Town and Country Planning Act 1990 (“the 1990 Act”), and can be used to grant planning permission for particular types of development in particular areas or throughout the local planning authority’s area.
+
+Section 5 of the Act amends section 61B of, and Schedule 4A to, the 1990 Act to remove the Secretary of State’s powers to intervene in local development orders before they are adopted by local planning authorities. This Order makes related amendments to local development order procedural requirements in the Town and Country Planning (Development Management Procedure) (England) Order 2010 and the Town and Country Planning (Environmental Impact Assessment) Regulations 2011.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c. 27](https://www.legislation.gov.uk/ukpga/2013/27).
+
+[^key-f8721b10f4cca552639d28fdd152c069]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2879/article/1) in force at 9.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2879/article/1/1)
+
+[^f00002]: Footnote: [S.I. 2010/2184](https://www.legislation.gov.uk/uksi/2010/2184), as amended by [S.I. 2011/1824](https://www.legislation.gov.uk/uksi/2011/1824). There are other amendments which are not relevant to this Order.
+
+[^f00003]: Footnote: [S.I. 2011/1824](https://www.legislation.gov.uk/uksi/2011/1824), to which there are no relevant amendments.
+
+[^f00004]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8), section 61A and Schedule 4A were inserted by section 40 of, and Schedule 1 to, the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5).
+
+[^key-a2767848ac873374da92ab9b9fe6e140]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2879/article/2) revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
+
+[^key-fcf88896a70f68dd3ef0c284980d1dae]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2879/article/3) in force at 9.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2879/article/1/1)
+
+[^key-f39c9b86e414f5cfadf2e093cac5b80c]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2879/article/4) revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))

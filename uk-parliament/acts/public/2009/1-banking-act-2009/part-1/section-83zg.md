@@ -1,0 +1,49 @@
+---
+title: Banking Act 2009, section 83ZG
+act: Banking Act 2009
+section: 83ZG
+status: revised-with-pending-changes
+text_date: '2026-01-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/1/section/83ZG
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Banking Act 2009, section 83ZG
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-01-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 83ZG. Powers of persons appointed under section 83ZC[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies to an investigator appointed under section 83ZC to conduct an investigation on behalf of the Bank of England.
+
+(2) The investigator may require the person who is the subject of the investigation (“the person under investigation“) or any person connected with the person under investigation—
+
+- (a) to attend before the investigator at a specified time and place and answer questions, or
+- (b) otherwise to provide such information as the investigator may require for the purposes of the investigation.
+
+(3) The investigator may also require any person to produce at a specified time and place any specified documents or documents of a specified description.
+
+(4) A requirement under subsection (2) or (3) may be imposed only so far as the investigator reasonably considers the question, provision of information or production of the document to be relevant to the purposes of the investigation.
+
+(5) For the purposes of this section, a person (“B”) is connected with the person under investigation (“A”) if B is or has at any relevant time been—
+
+- (a) a member of A’s group;
+- (b) a controller of A;
+- (c) a partnership of which A is a member; or
+- (d) in relation to A, a person mentioned in Part 1 or 2 of Schedule 15 to the Financial Services and Markets Act 2000 (reading references in those Parts to the authorised person or the person under investigation as references to A).
+
+(6) In this section—
+
+- “controller” has the same meaning as in the Financial Services and Markets Act 2000 (see section 422),
+- “group” has the meaning given by section 3(2)(b), and
+- “specified” means specified in a notice in writing.
+
+## Annotations
+
+[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]: Textual amendment: Pt. 1 Ch. 4 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [97](https://www.legislation.gov.uk/uksi/2014/3329/article/97)

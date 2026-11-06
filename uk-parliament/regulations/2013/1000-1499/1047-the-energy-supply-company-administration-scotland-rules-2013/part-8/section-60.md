@@ -1,0 +1,24 @@
+---
+title: The Energy Supply Company Administration (Scotland) Rules 2013, section 60
+act: The Energy Supply Company Administration (Scotland) Rules 2013
+section: '60'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/1047/section/60
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Energy Supply Company Administration (Scotland) Rules 2013, section 60
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 60. Grounds for resignation
+
+(1) The energy administrator may give notice of the energy administrator’s resignation on grounds of ill health or because—
+
+- (a) the energy administrator intends ceasing to be in practice as an insolvency practitioner; or
+- (b) there is some conflict of interest, or change of personal circumstances, which precludes or makes impracticable the further discharge by the energy administrator of the duties of energy administrator.
+
+(2) The energy administrator may, with the leave of the court, give notice of the energy administrator’s resignation on grounds other than those specified in paragraph (1).

@@ -1,0 +1,1404 @@
+---
+title: The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005
+id: uksi/2005/1998
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2005-07-19'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2005/1998
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/1998/pdfs/uksiem_20051998_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1998/pdfs/uksi_20051998_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1998/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2005/1998
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2005 No. 1998
+
+INSOLVENCY
+
+The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005
+
+Made
+
+19th July 2005
+
+Laid before Parliament
+
+20th July 2005
+
+Coming into force
+
+10th August 2005
+
+The Treasury being a government department designated [^c12263001] for the purposes of section 2(2) of the European Communities Act 1972 [^c12263011] in relation to the insolvency of insurers, in exercise of the powers conferred by that section hereby make the following Regulations:[^key-f797ce0fe202fe64f3bd2972ee0e0a11][^key-099de433d58f2c422ec792de5a9e3a71]
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005, and come into force on 10 August 2005.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Administration for Insurers Order**” means the Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) Order 2002 [^c12263021] and the “[^key-b7644322518c121620173924ea5fefc8]Administration for Insurers (Northern Ireland) Order” means the Financial Services and Markets Act 2000 (Administration Relating to Insurers)(Northern Ireland) Order 2007;
+- “**affected market participant**” means any member, former member, managing agent, members' agent, Lloyd's broker, approved run-off company or coverholder to whom the Lloyd's market reorganisation order applies;
+- “**approved run-off company**” means a company with the permission of the Society to perform executive functions, insurance functions or administrative and processing functions on behalf of a managing agent;
+- “**the association of underwriters known as Lloyd's**” has the meaning it has for the purposes of Directive[^key-7269f7085fc6c5a032db913213034fe6] [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) , as it had effect immediately before IP completion day[^key-10de57f984ec42a7cde53af782c9f4b1];
+- “**central funds**” means the New Central Fund as provided for in the New Central Fund Byelaw (No. 23 of 1996) [^c12263051] and the Central Fund as provided for in the Central Fund Byelaw (No. 4 of 1986);
+- “**company**” means a company within the meaning of section 1 of the 2006 Act[^key-d08dfc16b286fd02be8e1caedd496868] or a company incorporated elsewhere than in Great Britain that is a member of Lloyd's;
+- “**corporate member**” means a company admitted to membership of Lloyd's as an underwriting member;
+- “**coverholder**” means a company or partnership authorised by a managing agent to enter into, in accordance with the terms of a binding authority, a contract or contracts of insurance to be underwritten by the members of a syndicate managed by that managing agent;
+- “the[^key-3d2579f95608589bd6d78b9079b95f5a] FCA” means the Financial Conduct Authority;
+- “**former member**” means a person who has ceased to be a member, whether by resignation or otherwise, in accordance with Lloyd's Act 1982 [^c12263061] and any byelaw made under it or in accordance with the provisions of Lloyd's Acts 1871 – 1982 then in force at the time the person ceased to be a member;
+- “**Gazette**” means the London Gazette, the Edinburgh Gazette and the Belfast Gazette;
+- “**individual member**” means a member or former member who is an individual;
+- “**insurance market activity**” has the meaning given by section 316(3) of the 2000 Act;
+- “**insurance market debt**” means an insurance debt under or in connection with a contract of insurance written at Lloyd's;
+- “**Lloyd's Acts 1871-1982**” means Lloyd's Act 1871 [^c12263071], Lloyd's Act 1911 [^c12263081], Lloyd's Act 1951 [^c12263091] and Lloyd's Act 1982;
+- “**Lloyd's broker**” has the meaning given by section 2(1) of Lloyd's Act 1982;
+- “**managing agent**” has the meaning given by article 3(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c12263101];
+- “**member**” means an underwriting member of the Society;
+- “**members' agent**” means a person who carries out the activity of advising a person to become, or continue or cease to be, a member of a particular Lloyd's syndicate;
+- “**overseas business regulatory deposit**” means a deposit provided or maintained in respect of the overseas insurance and reinsurance business carried on by members in accordance with binding legal or regulatory requirements from time to time in force in the country or territory in which the deposit is held;
+- “**overseas insurance business**” means insurance business and reinsurance business transacted by members in a country or territory other than the United Kingdom[^key-88b15c963ce3d50aba7a3d70d23fcef9];
+- “the PRA” means the Prudential Regulation Authority;
+- “**the principal Regulations**” means the Insurers (Reorganisation and Winding Up) Regulations 2004 [^c12263111];
+- “**relevant trust fund**” means any funds held on trust under a trust deed entered into by the member in accordance with the requirements of the FCA[^key-092f58d8404ba622e698408ae47498ad] or the PRA and the Byelaws of the Society for the payment of an obligation arising in connection with insurance market activity carried on by the member or for the establishment of a Lloyd's deposit and includes funds held on further trusts declared by the Society or the trustee of such a trust deed in respect of any class of insurance market activity;
+- “**the Room**” has the meaning given by section 2(1) of Lloyd's Act 1982;
+- “**the Society**” means the Society incorporated by Lloyd's Act 1871;
+- “**subsidiary of the Society**” means a company that is a subsidiary of the Society within the meaning of section 1159 of the 2006 Act[^key-bbe4c4a4205b9207f0b9ff4a9d94e6b9];
+- “**syndicate**” has the meaning given by article 3(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001.
+
+(2) Subject to paragraph (3), words and phrases used in these Regulations have the same meaning as in the principal Regulations except where otherwise specified or where the context requires otherwise.
+
+(3) For the purposes of these Regulations, “UK insurer” is to be treated as including a member or a former member.
+
+(4) These Regulations have effect notwithstanding the provisions of section 360 of the 2000 Act.
+
+## PART 2 — LLOYD'S MARKET REORGANISATION ORDER
+
+### 3. Lloyd's market reorganisation order
+
+(1) In these Regulations “**Lloyd's market reorganisation order**” means an order which—
+
+- (a) is made by the court in relation to the association of underwriters known as Lloyd's;
+- (b) appoints a reorganisation controller; and
+- (c) on the making of which there comes into force a moratorium on the commencement of—
+  - (i) proceedings, or
+  - (ii) other legal processes
+
+  set out in regulation 8 in respect of affected market participants, the Society and subsidiaries of the Society.
+
+(2) A Lloyd's market reorganisation order applies to—
+
+- (a) every member, former member, managing agent, members' agent, Lloyd's broker and approved run-off company who has not been excluded from the order in accordance with regulation 7;
+- (b) every coverholder who has been included in the order in accordance with regulation 7;
+- (c) the Society; and
+- (d) subsidiaries of the Society.
+
+### 4. Condition for making order
+
+(1) The court may make a Lloyd's market reorganisation order if it is satisfied that—
+
+- (a) any regulatory solvency requirement is not, or may not be, met; and
+- (b) an order is likely to achieve one or both of the objectives in regulation 5.
+
+(2) In paragraph (1), “**regulatory solvency requirement**” means a requirement to maintain adequate financial resources in respect of insurance business at Lloyd's, imposed under the 2000 Act, whether on a member or former underwriting member, either singly or together with other members or former underwriting members, or on the Society and includes a requirement to maintain a margin of solvency.
+
+(3) In paragraph (2), “**former underwriting member**” has the meaning given by section 324(1) of the 2000 Act.
+
+### 5. Objectives of a Lloyd's market reorganisation order
+
+The objectives of a Lloyd's market reorganisation order are—
+
+- (a) to preserve or restore the financial situation of, or market confidence in, the association of underwriters known as Lloyd's in order to facilitate the carrying on of insurance market activities by members at Lloyd's;
+- (b) to assist in achieving an outcome that is in the interests of creditors of members, and insurance creditors in particular.
+
+### 6. Application for a Lloyd's market reorganisation order
+
+(1) An application for a Lloyd's market reorganisation order may be made by the[^key-f422575b64c3fdd1ce38b3b7f1a3b6f0] PRA or by the Society, or by both.
+
+(1A)[^key-e10513e9590660dd9c2c3bb629b7d66e] Before making an application under paragraph (1), the PRA must consult the FCA.
+
+(2) If the application is made by only one of those bodies it must inform the other body of its intention to make the application as soon as possible, and in any event before the application is lodged at the court.
+
+(3) The[^key-1ceb98b8a3408b632721cf4f02925d4a] FCA, the PRA and the Society are entitled to be heard at the hearing of the application, regardless of which body makes the application.
+
+(4) An application must clearly designate—
+
+- (a) any member, former member, managing agent, members' agent, Lloyd's broker, or approved run-off company to whom the order should not apply; and
+- (b) every coverholder to whom the order should apply.
+
+(5) The applicant must give notice of the application by—
+
+- (a) ensuring the posting of a copy in the Room,
+- (b) displaying a copy on its website, and
+- (c) publishing a copy
+  - (i) in the Gazette, and
+  - (ii) in such newspaper or newspapers within the United Kingdom and elsewhere as the applicant considers appropriate to bring the application to the attention of those likely to be affected by it.
+
+(6) The notice must be given as soon as reasonably practicable after the making of the application, unless the court orders otherwise.
+
+### 7. Powers of the court
+
+(1) On hearing an application for a Lloyd's market reorganisation order, the court may make—
+
+- (a) a Lloyd's market reorganisation order, and
+- (b) any other order in addition to a Lloyd's market reorganisation order which the court thinks appropriate for the attainment of either or both of the objectives in regulation 5.
+
+(2) A Lloyd's market reorganisation order comes into force—
+
+- (a) at the time appointed by the court; or
+- (b) if no time is so appointed, when the order is made
+
+and remains in force until revoked by the court.
+
+(3) The court may on an application made by the PRA[^key-ee34b27594e699fd4e65797ed08107ec] or the Society at the same time as an application under regulation 6 or the reorganisation controller, the PRA, the Society, a subsidiary of the Society or any affected market participant at any time while the Lloyd's market reorganisation order is in force, amend or vary a Lloyd's market reorganisation order so that it—
+
+- (a) does not apply to—
+  - (i) particular assets, or
+  - (ii) particular members, former members, member's agents, managing agents, Lloyd's brokers, approved run-off companies or subsidiaries of the Society,
+
+  specified in the order; and
+- (b) does apply to any coverholder specified in the order.
+
+(4) The court—
+
+- (a) must appoint one or more persons to be the reorganisation controller;
+- (b) must specify the powers and duties of the reorganisation controller;
+- (c) may establish or approve the respective duties and functions of two or more persons appointed to be the reorganisation controller, including specifying that one of them shall have precedence; and
+- (d) may from time to time vary the powers of a reorganisation controller.
+
+(5) An application made under paragraph (3) other than at the time of the application under regulation 6 shall be served on the reorganisation controller, the[^key-27744a2cb96da84998691e473d784b2d] FCA and the PRA who shall each be entitled to attend and be heard at a hearing of such an application.
+
+### 8. Moratorium
+
+(1) Except with the permission of the court, for the period during which a Lloyd's market reorganisation order is in force, no proceedings or other legal process may be commenced or continued against:
+
+- (a) an affected market participant;
+- (b) the Society; or
+- (c) a subsidiary of the Society to which the order applies.
+
+(2) In paragraph (1),
+
+- (a) “**court**” means in England and Wales the High Court, in Northern Ireland the High Court and in Scotland the Court of Session; and
+- (b) “**proceedings**” means proceedings of every description and includes:
+  - (i) a petition under section 124 or 124A of the 1986 Act or Article 104 or 104A of the 1989 Order for the appointment of a liquidator or provisional liquidator;
+  - (ii) an application under section 252 of the 1986 Act or Article 226 of the 1989 Order for an interim order;
+  - (iii) an application or[^key-6f0c906df789f3b2a283e7a5219957eb] a petition for a bankruptcy order under Part 9 of the 1986 Act or Part 9 of the 1989 Order; and
+  - (iv) a petition for sequestration under section 5 or 6 of the Bankruptcy (Scotland) Act, but
+
+  does not include prosecution for a criminal offence.
+
+(3) Except with the permission of the court, for the period during which a Lloyd's market reorganisation order is in force, no execution may be commenced or continued, no security may be enforced, and no distress may be levied, against (or against the assets of or in the possession of):
+
+- (a) any person specified in paragraph (1);
+- (b) a relevant trust fund (or the trustees of a relevant trust fund); and
+- (c) an overseas business regulatory deposit.
+
+(4) Paragraph (3) does not prevent the enforcement of—
+
+- (a) approved security granted to secure payment of approved debts of a member incurred in connection with an overseas regulatory deposit arrangement; or
+- (b) security granted by a Lloyd's broker over assets not being assets constituting or representing assets received or held by the Lloyd's broker as intermediary in respect of any contract of insurance or reinsurance written at Lloyd's or any contract of reinsurance reinsuring a member of Lloyd's in respect of a contract or contracts of insurance or reinsurance written by that member at Lloyd's.
+
+(5) In the application of paragraph (3) to Scotland, references to execution being commenced or continued include references to diligence being carried out or continued, and references to distress being levied shall be omitted.
+
+(6) For the period during which a Lloyd's market reorganisation order is in force, no action or step may be taken in respect of any of the persons specified in paragraph (1) by any person who is or may be entitled—
+
+- (a) under any provision in Schedule B1 or in Schedule B1 to the 1989 Order[^key-fc664ddac486151d272c5dfbcfecd6c5] to appoint an administrator;
+- (b) to appoint an administrative receiver or receiver;
+- (c) under section 899[^key-032d30e8fd1868261b217f5b1aceba8b] or section 901F[^key-9ccd6dfeb43f2263ceb55c83130bafa8] of the 2006 Act to propose a compromise or arrangement,
+
+unless he has complied with paragraph (7)
+
+(7) A person intending to take any such action or step shall give notice in writing[^key-b66f7bd656546509771008e71988eba1] to the reorganisation controller before doing so.
+
+(8) Where a person fails to comply with paragraph (7),
+
+- (a) an appointment to which sub-paragraph (6)(a) or (b) applies shall be void, and
+- (b) no application under section 899[^key-49a4b0748bc4f330d10e6a27b5ba2d8e] or section 901F[^key-12dd2603bdb2b6187ca8a8015081eb76] may be entertained by the court,
+
+except where the court, having heard the reorganisation controller, orders otherwise.
+
+(9) Every application pursuant to paragraph (1) or paragraph (3) must be served on the reorganisation controller.
+
+(10) For the period during which a Lloyd's market reorganisation order is in force, an affected market participant in Scotland may not grant a trust deed for his creditors without the consent of the reorganisation controller.
+
+(11) Where a person who is subject to a Lloyd's market reorganisation order is, at the date of the order, in administration or liquidation or has been made[^key-1ce3b211a690bd9a71908121b1da4306] bankrupt or is a person whose estate is being sequestrated or who has granted a trust deed for his creditors—
+
+- (a) any application to the court for permission to take any action that would be subject to a moratorium arising in those earlier proceedings shall be served on the reorganisation controller and the reorganisation controller shall be entitled to be heard on the application; and
+- (b) the court shall take into account the achievement of the objectives for which the Lloyd's market reorganisation order was made.
+
+(12) In this regulation—
+
+- (a) “**approved debt**” means a debt approved by the Society at the time it is incurred;
+- (b) “**approved security**” means security approved by the Society at the time it is granted over or in respect of assets comprised in the member's premiums trust funds or liable in the future to become comprised therein;
+- (c) “**overseas regulatory deposit arrangement**” means an arrangement approved by the Society and notified to the PRA[^key-a5536313588397e9f9554798f0035f5d] whose purpose is to facilitate funding of any overseas business regulatory deposit.
+
+### 9. Reorganisation controller
+
+(1) The reorganisation controller is an officer of the court.
+
+(2) A person may be appointed as reorganisation controller only if he is qualified and fully authorised[^key-9b97a91b6d31c1e09ff361224eadbffe] to act as an insolvency practitioner under Part 13 of the 1986 Act or under Part 12 of the 1989 Order[^key-b2cd20506f094e1b9aa7d8ef5b168cb3] and the court considers that he has appropriate knowledge, expertise and experience.
+
+(3) On an application by the reorganisation controller, the court may appoint one or more additional reorganisation controllers to act jointly or severally with the first reorganisation controller on such terms as the court sees fit.
+
+### 10. Announcement of appointment of controller
+
+(1) This regulation applies when the court makes a Lloyd's market reorganisation order.
+
+(2)[^key-b50767b59d42af1127b62da3243b391e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) As soon as is reasonably practicable after a person becomes the reorganisation controller, he must—
+
+- (a) procure that notice of his appointment is posted—
+  - (i) in the Room,
+  - (ii) on the Society's website, and
+  - (iii) on the[^key-a2dc3eb45595cc280bb2ef399d514c1b] PRA's website; and
+- (b) publish a notice of his appointment—
+  - (i) once in the Gazette, and
+  - (ii) once in such newspapers as he thinks most appropriate for securing so far as possible that the Lloyd's market reorganisation order comes to the notice of those who may be affected by it.
+
+### 11. Market reorganisation plan
+
+(1) The reorganisation controller may require any affected market participant, and any Lloyd's broker, approved run-off company, coverholder, the Society, subsidiary of the Society or trustee of a relevant trust fund—
+
+- (a) to provide him with any information he considers useful to him in the achievement of the objectives set out in regulation 5; and
+- (b) to carry out such work as may be necessary to prepare or organise information as the reorganisation controller may consider useful to him in the achievement of those objectives.
+
+(2) As soon as is reasonably practicable and in any event by such date as the court may require, the reorganisation controller must prepare a plan (“the market reorganisation plan”) for achieving the objectives of the Lloyd's market reorganisation order.
+
+(3) The reorganisation controller must send a copy of the market reorganisation plan to the PRA[^key-8a470543e5f157624db89d8c58b4c989] and to the Society.
+
+(4) Before the end of a period of one month beginning with the day on which it receives the market reorganisation plan, the PRA must notify the reorganisation controller and the Society in writing of its decision to—
+
+- (a) approve the plan;
+- (b) reject the plan; or
+- (c) approve the plan provisionally, subject to modifications set out in the notification.
+
+(5) Where the PRA rejects the plan, the notification must—
+
+- (a) give reasons for its decision; and
+- (b) specify a date by which the reorganisation controller may submit a new market reorganisation plan.
+
+(6) Where the reorganisation controller submits a new market reorganisation plan, he must send a copy to the PRA and to the Society.
+
+(7) Before the end of a period of one month beginning with the day on which the PRA receives that plan, the PRA must—
+
+- (a) accept it;
+- (b) reject it; or
+- (c) accept it provisionally subject to modifications.
+
+(8) Before the end of a period of one month beginning with the day on which he receives the notification from the PRA of the modifications required by it, the reorganisation controller must–
+
+- (a) accept the plan as modified by the PRA; or
+- (b) reject the plan as so modified.
+
+(9) The reorganisation controller must—
+
+- (a) file with the court the market reorganisation plan that has been approved by him and the PRA, and
+- (b) send a copy of it to—
+  - (i) every member, former member, managing agent and member's agent who requests it, and
+  - (ii) every other person who requests it, on payment of a reasonable charge.
+
+(10) Paragraph (11) applies if—
+
+- (a) the PRA rejects the market reorganisation plan and the reorganisation controller decides not to submit a new market reorganisation plan;
+- (b) the PRA rejects the new market reorganisation plan submitted by the reorganisation controller; or
+- (c) the reorganisation controller rejects the modifications made by the PRA to a new market reorganisation plan.
+
+(11) As soon as is reasonably practicable after any such rejection, the reorganisation controller must apply to the court for directions.
+
+(12) The PRA or the reorganisation controller as the case may be may apply to the court for an extension of the period specified in paragraph (4), (7) or (8) by a period of not more than one month. The court may not grant more than one such extension in respect of each period.
+
+(13) Where any person is under an obligation to publish anything under this regulation, that obligation is subject to the provisions of sections 348 and 349 of the 2000 Act.
+
+### 12. Remuneration of the reorganisation controller
+
+(1) The reorganisation controller shall be entitled to receive remuneration and to recover expenses properly incurred in connection with the performance of his functions under or in connection with a Lloyd's market reorganisation order.
+
+(2) Subject to paragraph (3), the remuneration so charged is payable by—
+
+- (a) members,
+- (b) former members,
+- (c) the Society, and
+- (d) managing agents.
+
+(3) The court must give directions as to the payment of the remuneration and expenses of the reorganisation controller and in particular may provide for—
+
+- (a) apportionment of the amounts so charged between the classes of persons set out in paragraph (2) and between groups of persons within those classes; and
+- (b) payment of such remuneration and expenses out of relevant trust funds.
+
+(4) Amounts of such remuneration and expenses paid by any of the persons described in paragraph (2) are to be treated as payments of the expenses of a liquidator, administrator, trustee in bankruptcy or in Scotland an interim or permanent trustee.
+
+(5) The reorganisation controller may pay the reasonable charges of those to whom he has addressed a request for assistance or information under regulation 11 or anyone else from whom he has requested assistance in the performance of his functions.
+
+(6) The provision of such information or assistance in good faith does not constitute a breach of
+
+- (a) any duty owed by any person involved in its preparation or delivery to any company or partnership of which he is an officer, member or employee,
+- (b) any duty owed by an agent to his principal, or
+- (c) any duty of confidence, subject to sections 348 and 349 of the 2000 Act.
+
+### 13. Treatment of members
+
+(1) Paragraph (2) applies where, after the making of a Lloyd's market reorganisation order, any of the following occurs pursuant to the 1986 Act, the 1989 Order or the Bankruptcy (Scotland) Act—
+
+- (a) a person seeks to exercise an entitlement to appoint an administrator,
+- (b) an application is made to the court for the appointment of an administrator,
+- (c) a petition for the winding up of a corporate member is presented to the court,
+- (ca)[^key-3d1600c6cefc4ae9aaa8179c2482de90] the making of a bankruptcy application;
+- (d) a petition for a bankruptcy order or sequestration is presented to the court,
+
+in respect of a member.
+
+(2) These Regulations, the principal Regulations, the Administration for Insurers Order and the Administration for Insurers (Northern Ireland) Order[^key-43ebbd9792ef70f5d53b11d23d9744d5] shall apply to the member and—
+
+- (a) for the purposes of the principal Regulations (notwithstanding regulation 3 of those Regulations), the member shall be treated as if it, he or she were a UK insurer; and
+- (b) for the purposes of the Administration for Insurers Order or the Administration for Insurers (Northern Ireland) Order[^key-4d474a410dee895e5dc61221a39d4d2a], a member that is a company shall be treated as if it were an insurance company.
+
+(3) Paragraph (2) does not apply where the court so orders, on the application of the administrator, liquidator, provisional liquidator, receiver or trustee in bankruptcy, the Accountant in Bankruptcy or trustee under a trust deed for creditors or the person referred to in paragraph (1)(b) or (c) seeking the appointment or presenting the petition.
+
+(4) A person who exercises an entitlement, makes an application or submits a petition to which paragraph (1) applies shall—
+
+- (a) if he intends to make an application under paragraph (3) make the application before doing any of those things; and
+- (b) include in any statement to be made under Schedule B1 or in Schedule B1 to the 1989 Order[^key-86601d809f07bd9234f7952623ca01c9], or in any application or petition, a statement as to whether an order under paragraph (3) has been made in respect of the member concerned.
+
+(5) An application under paragraph (3) must be notified in writing[^key-077a8d747f98cd10bb6f610f858b1d7a] to the reorganisation controller.
+
+(6) The court must take account of any representation made by the reorganisation controller in relation to the application.
+
+(7) The court may not make an order under paragraph (3) unless the court considers it likely that the insurance market debts of the member will be satisfied.
+
+(8) In this regulation and regulation 14, references to a member include references to a former member.
+
+### 14. Revocation of an order under regulation 13
+
+(1) This regulation applies in the case of a member in respect of whom an order has been made under regulation 13(3).
+
+(2) If the Society does not meet any request for payment of a cash call made by or on behalf of such a member, it must so inform the reorganisation controller, the PRA[^key-3980ff2050d185ef48e5b81f80e755f7] and the court.
+
+(3) If it appears to the reorganisation controller that, in respect of any such member, the insurance market debts of the member are not likely to be satisfied, he must apply to the court for the revocation of that order.
+
+(4) If the court revokes an order made under regulation 13(3), the provisions of these Regulations, the principal Regulations and the Administration for Insurers Order or the Administration for Insurers (Northern Ireland) Order[^key-e1274d6b33a04f47038f6aa31bd68a16] apply to the member and from the date of the revocation a relevant officer is to be treated as having been appointed by the court.
+
+(5) For the purposes of paragraph (4), a relevant officer means—
+
+- (a) an administrator,
+- (b) a liquidator,
+- (c) a receiver,
+- (d) a trustee in bankruptcy, or
+- (e) in Scotland, an interim or permanent trustee,
+
+as the case may be.
+
+(6) For the purposes of this regulation, a “**cash call**” means a request or demand made by a managing agent to a member of a syndicate to make payments to the trustees of any relevant trust fund to be held for the purpose of discharging or providing for the liabilities incurred by that member as a member of the syndicate.
+
+### 15. Reorganisation controller's powers: voluntary arrangements in respect of a member
+
+(1) The directors of a corporate member or former corporate member may make a proposal for a voluntary arrangement under Part 1 of the 1986 Act (or Part 2 of the 1989 Order) in relation to the member only if the reorganisation controller consents to the terms of that arrangement.
+
+(2) Section 1A of that Act or Article 14A of that Order do not apply to a corporate member or former corporate member if—
+
+- (a) a Lloyd's market reorganisation order applies to it; and
+- (b) there is no order under regulation 13(3) in force in relation to it.
+
+(3) The reorganisation controller is entitled to be heard at any hearing of an application relating to the arrangement.
+
+### 16. Reorganisation controller's powers: individual voluntary arrangements in respect of a member
+
+(1) The reorganisation controller is entitled to be heard on an application under section 253 of the 1986 Act (or Article 227 of the 1989 Order) by an individual member or former member.
+
+(2) When considering such an application the court shall have regard to the objectives of the Lloyd's market reorganisation order.
+
+(3) Paragraphs (3A)[^key-9ec4beb90c720be0f4f21e823de30711] to (7) apply if an interim order is made on the application of such a person.
+
+(3A)[^key-bfca51e4719f55a7c9986ea24452c5f8] Notice of the creditors’ decision procedure given under section 257(2B) of the 1986 Act must also be given to the reorganisation controller.
+
+(3B) The reorganisation controller is entitled to participate (but not vote) in the creditors’ decision procedure specified by that notice.
+
+(4) The reorganisation controller, or a person appointed by him for that purpose, may attend any meeting of creditors of the member or former member summoned under Article 231 of the 1989 Order[^key-ea386329288a5582cc7f330b02bd3591] (summoning of creditors meeting).
+
+(5) Notice of the result of a meeting so summoned must be given in writing[^key-a7ad0a9facad5bcfd7311b054dae7f0e] to the reorganisation controller by the chairman of the meeting.
+
+(6) The reorganisation controller may apply to the court under section 262 (challenge of creditors’[^key-11adfae017e10cd367e02bcbf764c458] decision) or 263 (implementation and supervision of approved voluntary arrangement) of the 1986 Act (or Article 236 or 237 or the 1989 Order).
+
+(7) If a person other than the reorganisation controller makes an application to the court under any provision mentioned in paragraph (6), the reorganisation controller is entitled to be heard at any hearing relating to the application.
+
+### 17. Reorganisation controller's powers: trust deeds for creditors in Scotland
+
+(1) This regulation applies to the granting at any time by a debtor who is a member or former member of a trust deed for creditors.
+
+(2) The debtor must inform the person who is or is proposed to be the trustee at or before the time that the trust deed is granted that he is a member or former member of Lloyd's.
+
+(3) As soon as practicable after the making of the Lloyd's market reorganisation order the trustee must send to the reorganisation controller—
+
+- (a) in every case, a copy of the trust deed;
+- (b) where any other document or information is sent to every creditor known to the trustee in pursuance of paragraph 5(1)(c) of Schedule 5 to the Bankruptcy (Scotland) Act 1985, a copy of such document or information.
+
+(4) If the debtor or the trustee fails without reasonable excuse to comply with any obligation in paragraph (2) or (3) he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the statutory scale or to imprisonment for a term not exceeding 3 months or both.
+
+(5) Paragraph 7 of that Schedule applies to the reorganisation controller as if he were a qualified creditor who has not been sent a copy of the notice as mentioned in paragraph 5(1)(c) of the Schedule.
+
+(6) The reorganisation controller must be given the same notice as the creditors of any meeting of creditors held in relation to the trust deed.
+
+(7) The reorganisation controller, or a person appointed by him for the purpose, is entitled to attend and participate in (but not to vote at) any such meeting of creditors as if the reorganisation controller were a creditor under the deed.
+
+(8) Expressions used in this regulation and in the Bankruptcy (Scotland) Act 1985 have the same meaning in this regulation as in that Act.
+
+### 18. Powers of reorganisation controller: section 899 compromise or arrangement[^key-39af84c6652cd33205e34a0d9d29eaaa]
+
+(1) The reorganisation controller may apply to the court for an order that a meeting or meetings be summoned under section 896(1) of the 2006 Act (court order for holding of meeting)[^key-e967e6aa1d8304811a7306fe9d2e07e5] in connection with a compromise or arrangement in relation to a member or former member.
+
+(2) Where a member, its creditors or members make an application under section 896(1)[^key-d6b080fcfafb0e63410bead136f13035] the reorganisation controller is entitled to attend and be heard at any hearing.
+
+(3) Where a meeting is summoned under section 896(1)[^key-8511c1d62e3e7c4e4b22841d0d13eac3], the reorganisation controller is entitled to attend the meeting so summoned and to participate in it (but not to vote at it).
+
+### 19. Appointment of an administrator, receiver or interim trustee in relation to a member
+
+(1) Where a Lloyd's market reorganisation order is in force, the following appointments may be made in relation to a member or former member only where an order has been made under regulation 13(3) and has not been revoked and shall be notified to the reorganisation controller—
+
+- (a) the appointment of an administrator under paragraph 14 of Schedule B1 or under paragraph 15 of Schedule B1 to the 1989 Order[^key-8ce53a3c801deb2458bb6cf86c46cd37];
+- (b) the appointment of an administrator under paragraph 22 of Schedule B1 or under paragraph 23 of Schedule B1 to the 1989 Order[^key-7f5b4fe5b391889bdabc683e535a9536];
+- (c) the appointment of an administrative receiver;
+- (d) the appointment of an interim receiver; and
+- (e) the appointment of an interim trustee, within the meaning of the Bankruptcy (Scotland) Act 1985.
+
+(2) The notification to the reorganisation controller under paragraph (1) must be in writing.
+
+(3) If the requirement to notify the reorganisation controller in paragraph (1) is not complied with the administrator, administrative receiver, interim receiver or interim trustee is guilty of an offence and is liable on conviction to a fine not exceeding level 3 on the standard scale.
+
+### 20. Reorganisation controller's powers: administration orders in respect of members
+
+(1) The reorganisation controller may make an administration application under paragraph 12 of Schedule B1 or under paragraph 13 of Schedule B1 to the 1989 Order[^key-e0c29bf78fc9d7a906b2423c4595d2fa] in respect of a member or former member.
+
+(2) Paragraphs (3) to (5) apply if—
+
+- (a) a person other than the reorganisation controller makes an administration application under Schedule B1 , or under Schedule B1 to the 1989 Order,[^key-6731878aa34ddf8ade3c5f2dccd78399] in relation to a member or former member; and
+- (b) an order under regulation 13(3) is not in force in respect of that member.
+
+(3) The reorganisation controller is entitled to be heard—
+
+- (a) at the hearing of the administration application; and
+- (b) at any other hearing of the court in relation to the member under Schedule B1 (or Part 3 of the 1989 Order) or under Schedule B1 to the 1989 Order[^key-b169bd3d2dde2c4c9339c3c9ad922d09].
+
+(4) Any notice or other document required to be sent to a creditor of the member must also be sent to the reorganisation controller.
+
+(5) The reorganisation controller, or a person appointed by him for the purpose, may—
+
+- (a) attend any meeting of creditors of the member summoned under any enactment;
+- (b) attend any meeting of a committee established under paragraph 57 of Schedule B1 or under paragraph 58 of Schedule B1 to the 1989 Order[^key-7cd7b72eec4dbc73e958aab92dac6c3a]; and
+- (c) make representations as to any matter for decision at such a meeting.
+
+(5A)[^key-c084b26c5a0885bd72d28442daded794] The reorganisation controller is entitled to participate (but not vote) in a qualifying decision procedure (within the meaning given by section 246ZE(11) of the 1986 Act) by which a decision about any matter is sought from the creditors of the member.
+
+(6) If, during the course of the administration of a member, a compromise or arrangement is proposed between the member and its creditors, or any class of them, the reorganisation controller may apply to court under section 896[^key-f45b3f2a2d30c24046c9daa29ac9a2bf] or section 901C[^key-3c0e4eb003ab4ef0fcecbab124615ba1] of the 2006 Act.
+
+### 21. Reorganisation controller's powers: receivership in relation to members
+
+(1) This regulation applies if a receiver has been appointed in relation to a member or former member.
+
+(2) The reorganisation controller may be heard on an application made under section 35 or 63 of the 1986 Act (or Article 45 of the 1989 Order).
+
+(3) The reorganisation controller may make an application under section 41(1)(a) or 69(1)(a) of the 1986 Act (or Article 51(1)(a) of the 1989 Order).
+
+(4) A report under section 48(1) or 67(1) of the 1986 Act (or Article 58(1) of the 1989 Order) must be sent by the person making it to the reorganisation controller.
+
+(5) The reorganisation controller, or a person appointed by him for the purpose, may—
+
+- (a) attend any meeting of creditors of the member or former member summoned under any enactment;
+- (b) attend any meeting of a committee established under section 49 or 68 of the 1986 Act (or Article 59[^key-ad3df72d8c645dab3372a3433dec9c94] of the 1989 Order);
+- (c) attend any meeting of a committee of creditors of a member or former member in Scotland; and
+- (d) make representations as to any matter for decision at such a meeting.
+
+(6) Where an administration application is made in respect of a member by the reorganisation controller (and there is an administrative receiver, or in Scotland a receiver, of that member), paragraph 39 of Schedule B1 or paragraph 40 of Schedule B1 to the 1989 Order[^key-10901f45febc40ffe3e4d2602ed5a250] does not require the court to dismiss the application if it thinks that-
+
+- (a) the objectives of the Lloyd's market reorganisation order are more likely to be achieved by the appointment of an administrator than by the appointment or continued appointment of a receiver in respect of that member, and
+- (b) the interests of the person by or on behalf of whom the receiver was appointed will be adequately protected.
+
+### 22. Syndicate set-off
+
+(1) This regulation applies where—
+
+- (a) a member (“**the debtor**”) is subject to a relevant insolvency proceeding; and
+- (b) no order under regulation 13(3) is in effect in relation to the debtor.
+
+(2) In the application of section 323 of the 1986 Act or Article 296 of the 1989 Order, Rules 14.24 and 14.25[^key-a0fb37592a0a7820521c404d047446d7] of the Insolvency Rules or Rule 2.086 and[^key-ec0a3d3e44894cfcaf09c11dd699f391] R4.096 of the Insolvency Rules (Northern Ireland) to the debtor, the following paragraphs apply in relation to each syndicate of which the debtor is a member, and for that purpose each reference to the debtor is to the debtor as a member of that syndicate only.
+
+(3) Subject to paragraphs (4) and (5), where there have been mutual credits, mutual debts or other mutual dealings between the debtor in the course of his business as a member of the syndicate (“syndicate A”) and a creditor, an account shall be taken of what is due from the debtor to that creditor, and of what is due from that creditor to the debtor, such account to be taken in respect of business transacted by the debtor as a member of syndicate A only and the sums due from one party shall be set off against the sums due from the other.
+
+(4) Where the creditor is a member (whether or not a member of syndicate A) and there have been mutual credits, mutual debts or other mutual dealings between the debtor as a member of syndicate A and the creditor in the course of the creditor's business as a member of syndicate A or of another syndicate of which he is a member, paragraph (5) applies.
+
+(5) A separate account must be taken in relation to each syndicate of which the creditor is a member of what is due from the debtor to the creditor, and of what is due from the creditor to the debtor, in respect only of business transacted between the debtor as a member of syndicate A and the creditor as a member of the syndicate in question (and not in respect of business transacted by the creditor as a member of any other syndicate or otherwise), and the sums due from one party shall be set off against the sums due from the other.
+
+(6) In this regulation—
+
+- (a) references to a member include references to a former member; and
+- (b) “**relevant insolvency proceedings**” means proceedings in respect of an application or petition referred to in regulation 13(1).
+
+### 23. Voluntary winding up of members: consent of reorganisation controller
+
+(1) During any period in which a Lloyd's market reorganisation order is in force, a member or former member that is a company may not be wound up voluntarily without the consent of the reorganisation controller.
+
+(2) Before a member or former member passes a resolution for voluntary winding up it must give written notice to the reorganisation controller.
+
+(3) Where notice is given under paragraph (2), a resolution for voluntary winding up may be passed only—
+
+- (a) after the end of a period of five business days beginning with the day on which the notice was given, if the reorganisation controller has not refused his consent, or
+- (b) if the reorganisation controller has consented in writing to the passing of the resolution.
+
+(4) A copy of a resolution for the voluntary winding up of a member forwarded to the registrar of companies in accordance with section 30 of the 2006 Act[^key-e4b73e3aff28ca2cce2e6b00f3ec75ae] must be accompanied by a certificate issued by the reorganisation controller stating that he consents to the voluntary winding up of the member.
+
+(5) If paragraph (4) is complied with, the voluntary winding up is to be treated as having commenced at the time the resolution was passed.
+
+(6) If paragraph (4) is not complied with, the resolution has no effect.
+
+### 24. Voluntary winding up of members: powers of reorganisation controller
+
+(1) This regulation applies in relation to a member or former member that is a company and which is being wound up voluntarily with the consent of the reorganisation controller.
+
+(2) The reorganisation controller may apply to the court under section 112 of the 1986 Act (reference of questions to court) (or Article 98 of the 1989 Order) in respect of the member.
+
+(3) The reorganisation controller is entitled to be heard at any hearing of the court in relation to the voluntary winding up of the member.
+
+(4) Any notice or other document required to be sent to a creditor of the member must also be sent to the reorganisation controller.
+
+(5) The reorganisation controller, or a person appointed by him for the purpose, is entitled—
+
+- (a) to attend any meeting of creditors of the member summoned under any enactment;
+- (b) to attend any meeting of a committee established under section 101 of the 1986 Act (or Article 87 of the 1989 Order); and
+- (c) to make representations as to any matter for decision at such a meeting.
+
+(5A)[^key-75790613becd6e3a656420b9613ee1a3] The reorganisation controller is entitled to participate (but not vote) in a qualifying decision procedure (within the meaning given by section 246ZE(11) of the 1986 Act) by which a decision about any matter is sought from the creditors of the member.
+
+(6) If, during the course of the winding up of the member, a compromise or arrangement is proposed between the member and its creditors, or any class of them, the reorganisation controller may apply to court under section 896[^key-d9ae11054b80faf8afd663766c51f25d] or section 901C[^key-b45b7cdb1352ec4db88e718da339af61] of the 2006 Act.
+
+### 25. Petition for winding up of a member by reorganisation controller
+
+(1) The reorganisation controller may present a petition to the court for the winding up of a member or former member that is a company.
+
+(2) The petition is to be treated as made under section 124 of the 1986 Act or Article 104 of the 1989 Order.
+
+(3) Section 122(1) of the 1986 Act, or Article 102[^key-9186f36488558d1ab20645402d3dac4d] of the 1989 Order must, in the case of an application made by the reorganisation controller be read as if they included the following grounds–
+
+- (a) the member is in default of an obligation to pay an insurance market debt which is due and payable; or
+- (b) the court considers that the member is or is likely to be unable to pay insurance market debts as they fall due; and
+- (c) in the case of either (a) or (b), the court thinks that the winding up of the member is necessary or desirable for achieving the objectives of the Lloyd's market reorganisation order.
+
+### 26. Winding up of a member: powers of reorganisation controller
+
+(1) This regulation applies if a person other than the reorganisation controller presents a petition for the winding up of a member or former member that is a company.
+
+(2) Any notice or other document required to be sent to a creditor of the member must also be sent to the reorganisation controller.
+
+(3) The reorganisation controller may be heard—
+
+- (a) at the hearing of the petition; and
+- (b) at any other hearing of the court in relation to the member under or by virtue of Part 4 or 5 of the 1986 Act (or Part 5 or 6 of the 1989 Order).
+
+(4) The reorganisation controller, or a person appointed by him for the purpose, may—
+
+- (a) attend any meeting of the creditors of the member;
+- (b) attend any meeting of a committee established for the purposes of Part 4 or 5 of the 1986 Act under section 101 of that Act or under section 141 or 142 of that Act;
+- (c) attend any meeting of a committee established for the purposes of Part 5 or 6 of the 1989 Order under Article 87 or Article 120 of that Order;
+- (d) make representations as to any matter for decision at such a meeting.
+
+(4A)[^key-3dc7c54037427baa25188582132f2726] The reorganisation controller is entitled to participate (but not vote) in a qualifying decision procedure (within the meaning given by section 246ZE(11) of the 1986 Act) by which a decision about any matter is sought from the creditors of the member.
+
+(5) If, during the course of the winding up of a member, a compromise or arrangement is proposed between the member and its creditors, or any class of them, the reorganisation controller may apply to the court under section 896[^key-5276f087a90197caba8265ba8acade5b] or section 901C[^key-a0331c656f7c065a6f3b96884cae1871] of the 2006 Act.
+
+### 27. Petition for bankruptcy of a member by reorganisation controller
+
+(1) The reorganisation controller may present a petition to the court for a bankruptcy order to be made against an individual member or, in Scotland, for the sequestration of the estate of an individual.
+
+(2) The application shall be treated as made under section 264 of the 1986 Act (or Article 238 of the 1989 Order) or in Scotland under section 5 or 6 of the Bankruptcy (Scotland) Act 1985.
+
+(3) On such a petition, the court may make a bankruptcy order or in Scotland an award of sequestration if (and only if)—
+
+- (a) the member is in default of an obligation to pay an insurance market debt which is due and payable; and
+- (b) the court thinks that the making of a bankruptcy order or award of sequestration in respect of that member is necessary or desirable for achieving the objectives of the Lloyd's market reorganisation order.
+
+### 28. Bankruptcy of a member: powers of reorganisation controller
+
+(1) This regulation applies if a person other than the reorganisation controller presents a petition to the court—
+
+- (a) under section 264 of the 1986 Act (or Article 238 of the 1989 Order) for a bankruptcy order to be made against an individual member;
+- (b) under section 5 of the Bankruptcy (Scotland) Act 1985 for the sequestration of the estate of an individual member; or
+- (c) under section 6 of that Act for the sequestration of the estate belonging to or held for or jointly by the members of an entity mentioned in subsection (1) of that section.
+
+(2) The reorganisation controller is entitled to be heard—
+
+- (a) at the hearing of the petition, and
+- (b) at any other hearing in relation to the individual member or entity under–
+  - (i) Part 9 of the 1986 Act,
+  - (ii) Part 9 of the 1989 Order; or
+  - (iii) the Bankruptcy (Scotland) Act 1985.
+
+(3)[^key-e5364a5d678213fc18c445c934a42486] In the case of a petition presented under Article 238 of the 1989 Order, a copy of the report prepared under Article 248 of that Order must also be sent to the reorganisation controller.
+
+(4) The reorganisation controller, or a person appointed by him for the purpose, is entitled—
+
+- (a) to attend any meeting of the creditors of the individual member or entity;
+- (b) to attend any meeting of a committee established under section 301 of the 1986 Act (or Article 274 of the 1989 Order);
+- (c) to attend any meeting of commissioners held under paragraph 17 or 18 of Schedule 6 to the Bankruptcy (Scotland) Act; and
+- (d) to make representations as to any matter for decision at such a meeting.
+
+(4A)[^key-09865491bbb714c16cb5d709f49a1bf6] The reorganisation controller is entitled to participate (but not vote) in a creditors’ decision procedure (within the meaning given by section 379ZA(11) of the 1986 Act) by which a decision about any matter is sought from the creditors of the member.
+
+(5) In this regulation—
+
+- (a) references to an individual member include references to a former member who is an individual;
+- (b) “**entity**” means an entity which is a member or a former member.
+
+### 29. Petition for winding up of the Society by reorganisation controller
+
+(1) The reorganisation controller may present a petition to the court for the winding up of the Society in the circumstances set out in section 221(5) (winding up of unregistered companies) of the 1986 Act.
+
+(2) Section 221(1) of that Act shall apply in respect of a petition presented by the reorganisation controller.
+
+### 30. Winding up of the Society: service of petition etc. on reorganisation controller
+
+(1) This regulation applies if a person other than the reorganisation controller presents a petition for the winding up of the Society.
+
+(2) The petitioner must serve a copy of the petition on the reorganisation controller.
+
+(3) Any notice or other document required to be sent to a creditor of the Society must also be sent to the reorganisation controller.
+
+(4) The reorganisation controller is entitled to be heard—
+
+- (a) at the hearing of the petition; and
+- (b) at any other hearing of the court in relation to the Society under or by virtue of Part 5 of the 1986 Act (winding up of unregistered companies).
+
+(5) The reorganisation controller, or a person appointed by him for the purpose, is entitled—
+
+- (a) to attend any meeting of the creditors of the Society;
+- (b) to attend any meeting of a committee established for the purposes of Part 5 of the 1986 Act under section 101 of that Act (appointment of liquidation committee);
+- (c) to make representations as to any matter for decision at such a meeting.
+
+(5A)[^key-6530824143fccbb2849d0d0fe1333865] The reorganisation controller is entitled to participate (but not vote) in a qualifying decision procedure (within the meaning given by section 246ZE(11) of the 1986 Act) by which a decision about any matter is sought from the creditors of the Society.
+
+(6) If, during the course of the winding up of the Society, a compromise or arrangement is proposed between the Society and its creditors, or any class of them, the reorganisation controller may apply to the court under section 896[^key-0d1fca6c0b684a9792f62402538c2ada] or section 901C[^key-c3dbeb18874a02073b85059f36132e94] of the 2006 Act.
+
+### 31. Payments from central funds
+
+(1) Unless otherwise agreed in writing between the Society, the reorganisation controller and the PRA[^key-ac7c9ae43acaaf4500f093714323f51a], before making a payment from central funds during the period of the Lloyd's market reorganisation order, the Society must give 5 working days written[^key-ba375ff274b8072a92f51f2de141b667] notice to the reorganisation controller.
+
+(2) Notice under paragraph (1) must specify—
+
+- (a) the amount of the proposed payment;
+- (b) the purpose for which it is proposed to be made;
+- (c) the recipient of the proposed payment.
+
+(3) An agreement under paragraph (1) may in particular provide for payments—
+
+- (a) to a specified person;
+- (b) to a specified class of person;
+- (c) for a specified purpose;
+- (d) for a specified class of purposes,
+
+to be made without the notice provided for in paragraph (1)
+
+(4) If before the end of the period of 5 working days from the date on which he receives the notice in writing[^key-32120154bcf275cfb7238bd64f852e08] under paragraph (1) the reorganisation controller considers that the payment should not be made, he must within that period—
+
+- (a) apply to the court for a determination that the payment not be made; and
+- (b) give notice of his application to the Society and the PRA on or before the making of the application,
+
+and the Society must not make payment without the permission of the court.
+
+(5) The Society and the PRA may be heard at any hearing in connection with any such application.
+
+(6) Where the reorganisation controller makes an application under paragraph (4), the Society commits an offence if it makes a payment from central funds without the permission of the court.
+
+(7) If an offence under paragraph (6) is shown to have been committed with the consent or connivance of an officer of the Society, the officer as well as the Society is guilty of the offence.
+
+(8) A person guilty of an offence under this regulation is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine.
+
+(9) In this regulation “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c12263121] in any part of the United Kingdom.
+
+(10) In paragraph (7), “**officer**”, in relation to the Society, means the Chairman of Lloyd's, a Deputy Chairman of Lloyd's, the Chairman of the Committee established by section 5 of Lloyd's Act 1982, a deputy Chairman of the Committee, or a member of the Council established by section 3 of that Act.
+
+## PART 3 — MODIFICATION OF LAW OF INSOLVENCY: NOTIFICATION AND PUBLICATION
+
+### 32. Application of Parts 3 and 4
+
+Parts 3 and 4 of these Regulations apply where a Lloyd's market reorganisation order is in force and in respect of a member or former member in relation to whom no order under regulation 13(3) is in force.
+
+### 33. Notification of relevant decision to PRA[^key-3c3497136dba27046defd2b6ecb71758]
+
+(1) Regulation 9 of the principal Regulations applies to a member or former member in the circumstances set out in paragraph (2) and has effect as if the modifications set out in paragraphs (3) and (4) were included in it as regards members or former members.
+
+(2) The circumstances are where—
+
+- (a) the member or former member is subject to a Lloyd's market reorganisation order which remains in force; and
+- (b) no order has been made in respect of that member or former member under regulation 13(3) of these Regulations and has not been revoked.
+
+(3) In paragraph (1) of regulation 9 of the principal Regulations, insert—
+
+- (a) after sub-paragraph (b)—
+
+  > - (ba) a bankruptcy order under section 264 of the 1986 Act or under Article 238[^key-42296df6233cc67224d02116cb652b56] of the 1989 Order;
+  > - (bb) an award of sequestration under the Bankruptcy (Scotland) Act 1985;
+
+  ;
+- (b) after paragraph (c)—
+
+  > - (ca) the appointment of an interim trustee under section 286 or 287 of the 1986 Act or under Article 259 or 260 of the 1989 Order;
+  > - (cb) the appointment of a trustee in bankruptcy under sections 295, 296 or 300 of that Act or under Articles 268, 269 or 273 of that Order;
+  > - (cc) the appointment of an interim or permanent trustee under the Bankruptcy (Scotland) Act 1985;
+
+  .
+
+(4) In paragraph (2) of that regulation after “voluntary arrangement”, insert “or individual voluntary arrangement” and after “supervisor” insert “or nominee (as the case may be)”.
+
+(5) In paragraph (7) of that regulation, in the definition of “qualifying arrangement”,
+
+- (a) after “voluntary arrangement” insert “or individual voluntary arrangement”; and
+- (b) for “insurer”, wherever appearing substitute “member or former member”.
+
+(6) In paragraph (8), after “supervisor” insert “, nominee, trustee in bankruptcy, trustee under a trust deed for creditors”.
+
+### 34. Notification of relevant decision to EEA Regulators[^key-cb1b6aa314c9f7dc2838ffb5043805b3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Application of certain publication requirements in the principal Regulations to members[^key-2a25f985336d21dc8816d06c47be4812]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Notification to creditors: winding up proceedings relating to members[^key-8444b7c35202259c6423bd51a079210c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Submission of claims by EEA creditor[^key-ddb090386bf1f63cfe0cc60b04deddc9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38. Reports to creditors
+
+(1) Regulation 14 of the principal Regulations (reports to creditors) applies with the modifications set out in paragraphs (2) to (4) where—
+
+- (a) a liquidator is appointed in respect of a member or former member in accordance with—
+  - (i) section 100 of the 1986 Act or Article 86 of the 1989 Order (creditors' voluntary winding up: appointment of a liquidator), or
+  - (ii) paragraph 83 of Schedule B1 or paragraph 84 of Schedule B1 to the 1989 Order[^key-04773a26798709c2a5f5484a88d0c68a] (moving from administration to creditors' voluntary liquidation);
+- (b) a winding up order is made by the court in respect of a member or former member;
+- (c) a provisional liquidator is appointed in respect of a member or former member;
+- (d)[^key-37724b14111e5420e49454fe06291a9e] an administrator (within the meaning given by paragraph 1(1) of Schedule B1 or paragraph 2(1) of Schedule B1 to the 1989 Order) of a member or former member includes in the statement required by Rule 3.3[^key-3872a43aa51239ba9f3cec982d851d43] of the Insolvency Rules or by Rule 2.003 of the Insolvency Rules (Northern Ireland) a statement to the effect that the objective set out in paragraph 3(1)(a) of Schedule B1 or paragraph 4(1)(a) of Schedule B1 to the 1989 Order is not reasonably likely to be achieved;
+- (e) a bankruptcy order or award of sequestration is made in respect of a member or former member.
+
+(2) Paragraphs (2) to (5) of that regulation have effect as if they each included a reference to—
+
+- (a) an administrator who has made a statement to the effect that the objective set out in paragraph 3(1)(a) of Schedule B1 or in paragraph 4(1)(a) of Schedule B1 to the 1989 Order[^key-024a216aed0f1fd006672452884e5c43] is not reasonably likely to be achieved;
+- (b) the official receiver or a trustee in bankruptcy; and
+- (c) in Scotland, an interim or permanent trustee.
+
+(3) Paragraph (6)(a) of that regulation has effect as if the meaning of “known creditor” included—
+
+- (a) a creditor who is known to the administrator, the trustee in bankruptcy or the trustee, as the case may be;
+- (b) in a case where a bankruptcy order is made in respect of a member or former member, a creditor who is specified in a report submitted under section 274 of the 1986 Act or Article 248[^key-b696772524b83dd971bac9885acb8105] of the 1989 Order or a statement of affairs submitted under section 288 or Article 261 in respect of the member or former member;
+- (c) in a case where an administrator of a member has made a statement to the effect that the objective set out in paragraph 3(1)(a) of Schedule B1 or in paragraph 4(1)(a) of Schedule B1 to the 1989 Order[^key-4035d1545001be1d1820e9d74c197c53] is not reasonably likely to be achieved, a creditor who is specified in the statement of the member's affairs required by the administrator under paragraph 47(1) of Schedule B1 or under paragraph 48(1) of Schedule B1 to the 1989 Order[^key-6290f9db0804bd9dc88ed632ec35c223];
+- (d) in a case where a sequestration has been awarded, a creditor who is specified in a statement of assets and liabilities under section 19 of the Bankruptcy (Scotland) Act 1985.
+
+(4) Paragraph (6)(b) of that regulation has effect as if “report” included a written report setting out the position generally as regards the progress of—
+
+- (a) the bankruptcy or sequestration; or
+- (b) the administration.
+
+### 39. Service of notices and documents
+
+(1) Regulation 15 of the principal Regulations (service of notices and documents) applies, with the modifications set out in paragraphs (2) and (3) below, to any notification, report or other document which is required to be sent to a creditor of a member or former member by a provision of Part III of those Regulations as applied and modified by regulation 33[^key-1815936e2745317368a6704dbce444e9] above.
+
+(2) Paragraph 15(5)(a)(i) of that regulation has effect as if the reference to the UK insurer which is liable under the creditor's claim included a reference to the member or former member who or which is liable under the creditor's claim.
+
+(3) Paragraph (7)(c) of that regulation has effect as if “relevant officer” included a trustee in bankruptcy, nominee, receiver or, in Scotland, an interim or permanent trustee under a trust deed within the meaning of section 5(4A) of the Bankruptcy (Scotland) Act who is required to send a notification to a creditor by a provision of Part III of the principal Regulations as applied and modified by regulation 33[^key-7a0afdc76c3edf86ab68dda844b29d2f].
+
+## PART 4 — APPLICATION OF PARTS 4 AND 5 OF THE PRINCIPAL REGULATIONS
+
+### 40. Priority for insurance claims
+
+(1) Part 4 of the principal Regulations applies with the modifications set out in paragraphs (2) to (11).
+
+(2) References, in relation to a UK insurer, to a winding up by the court have effect as if they included a reference to the bankruptcy or sequestration of a member or former member.
+
+(3) References to the making of a winding up order in relation to a UK insurer have effect as if they included a reference to the making of a bankruptcy order or, in Scotland, an award of sequestration in relation to an individual member or a member or former member that is a Scottish limited partnership.
+
+(4) References to an administration order in relation to a UK insurer have effect as if they included a reference to an individual voluntary arrangement in relation to an individual member and a trust deed for creditors within the meaning of section 5(4A) of the Bankruptcy (Scotland) Act.
+
+(5) Regulation 20 (preferential debts: disapplication of section 175 of the 1986 Act or Article 149 of the 1989 Order) has effect as if the references to section 175 of the 1986 Act and Article 149 of the 1989 Order included a reference to section 328 of that Act, Article 300 of that Order and section 51(1) (d) to (h) of the Bankruptcy (Scotland) Act 1985.
+
+(6) Regulation 21(3) (preferential debts : long term insurers and general insurers) has effect as if after the words “rank equally among themselves” there were inserted the words “after the expenses of the bankruptcy or sequestration”.
+
+(7) Regulation 27 (composite insurers: application of other assets) has effect as if the reference to section 175 of the 1986 Act or Article 149 of the 1989 Order included a reference to section 328 of that Act, Article 300 of that Order and section 51(1) (e) to (h) of the Bankruptcy (Scotland) Act.
+
+(8) Regulation 29 (composite insurers: general meetings of creditors) has effect as if in paragraph (1) the words from “, but only if” to the end were omitted and[^key-be41fd685bde63315a400592bf472c8b] after paragraph (2) there were inserted—
+
+> (3)[^key-8f974004c6acf30586776fccd3288430] If the bankrupt’s creditors propose to establish a creditors’ committee pursuant to section 301(1) of the 1986 Act or if the general meeting of the bankrupt’s creditors proposes to establish a creditors’ committee pursuant to Article 274(1) of the 1989 Order, separate committees must be established for creditors in respect of long-term business liabilities and creditors in respect of general business liabilities.
+>
+> (4) The committee of creditors in respect of long-term business liabilities may exercise the functions of a creditors' committee under the 1986 Act or the 1989 Order in relation to long term business liabilities only.
+>
+> (5) The committee of creditors in respect of general business liabilities may exercise the functions of a creditors' committee under the 1986 Act or the 1989 Order in relation to general business liabilities only.
+>
+> (6) If, in terms of section 30(1) of the Bankruptcy (Scotland) Act 1985, at the statutory meeting or any subsequent meeting of creditors it is proposed to elect one or more commissioners (or new or additional commissioners) in the sequestration, it shall elect separate commissioners in respect of the long-term business liabilities and the general business liabilities.
+>
+> (7) Any commissioner elected in respect of the long-term business liabilities shall exercise his functions under the Bankruptcy (Scotland) Act 1985 in respect of the long-term business liabilities only.
+>
+> (8) Any commissioner elected in respect of the general business liabilities shall exercise his functions under the Bankruptcy (Scotland) Act 1985 in respect of the general business liabilities only.
+
+.
+
+(9) Regulation 30 (composite insurers: apportionment of costs payable out of the assets) has effect as if in its application to members or former members who are individuals or Scottish limited partnerships—
+
+- (a) in England and Wales, the reference to rule 6.42 or 7.108[^key-9c5ee8fbbdf216d156c5e5918115f001] of the Insolvency Rules (general rule as to priority) included a reference to rule 10.149[^key-1356ca168188997a6d518d04d6f034ff] of the Insolvency Rules (general rule as to priority (bankruptcy));
+- (b) in Northern Ireland, the reference to Rule 4.228 of the Insolvency Rules (Northern Ireland) (general rule as to priority) included a reference to Rule 6.222 of the Insolvency Rules (Northern Ireland) (general rule as to priority (bankruptcy)); and
+- (c) in Scotland, the reference to Rule 7.28 of the Insolvency (Scotland) (Receivership and Winding up) Rules 2018[^key-aa4c2546a98920b93735e266d6c7cfbb] includes reference to—
+  - (i) any finally determined outlays or remuneration in a sequestration within the meaning of section 53 of the Bankruptcy (Scotland) Act 1985 and shall be calculated and applied separately in respect of the long-term business assets and the general business assets of that member; and
+  - (ii) the remuneration and expenses of a trustee under a trust deed for creditors within the meaning of the Bankruptcy (Scotland) Act 1985,
+
+and references to a liquidator include references to a trustee in bankruptcy, interim or permanent trustee, trustee under a trust deed for creditors, Accountant in Bankruptcy or Commissioners where appropriate.
+
+(10) Regulation 31 (summary remedies against liquidators) has effect as if—
+
+- (a) the reference to section 212 of the 1986 Act or Article 176 of the 1989 Order included a reference to section 304 of that Act or Article 277 of that Order (liability of trustee);
+- (b) the references to a liquidator included a reference to a trustee in bankruptcy in respect of a qualifying insolvent member; and
+- (c) the reference to section 175 of the1986 Act or Article 149 of the 1989 Order included a reference to section 328 of that Act or Article 300 of that Order.
+
+(11) Regulation 33 (voluntary arrangements: treatment of insurance debts) has effect as if after paragraph (3) there were inserted—
+
+> (4) The modifications made by paragraph (5) apply where an individual member proposes an individual voluntary arrangement in accordance with Part 8 of the 1986 Act or Part 8 of the 1989 Order, and that arrangement includes—
+>
+> - (a) a composition in satisfaction of any insurance debts; and
+> - (b) a distribution to creditors of some or all of the assets of that member in the course of, or with a view to, terminating the whole or any part of the insurance business of that member carried on at Lloyd's.
+>
+> (5) Section 258 of the 1986 Act (approval of debtor’s proposal)[^key-263bcb7829a06f4ed9bd6ee0a4d9dff4] has effect as if—
+>
+> - (a) after subsection (5) there were inserted—
+>
+>   > (5A) Where a Lloyd’s market reorganisation order is in force and the debtor is an individual member, the debtor’s creditors[^key-8944aa89f0c2bba5fad058adaaccaf56] shall not approve any proposal or modification under which any insurance debt of that member is to be paid otherwise than in priority to such of his debts as are not insurance debts or preferential debts.
+>
+>   ;
+> - (b) after subsection (7) there were inserted—
+>
+>   > (8) For the purposes of this section—
+>   >
+>   > - (a) “**insurance debt**” has the meaning it has in the Insurers (Reorganisation and Winding Up) Regulations 2004;
+>   > - (b) “**Lloyd's market reorganisation order**” and “individual member” have the meaning they have in the Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005.
+>
+>   .
+>
+> (6) Article 232 of the 1989 Order (Decisions of creditors' meeting) has effect as if—
+>
+> - (a) after paragraph (6) there were inserted—
+>
+>   > (6A) A meeting so summoned in relation to an individual member and taking place when a Lloyd's market reorganisation order is in force shall not approve any proposal or modification under which any insurance debt of that member is to be paid otherwise than in priority to such of his debts as are not insurance debts or preferential debts.
+>
+>   ;
+> - (b) after paragraph (9) there were inserted—
+>
+>   > (10) For the purposes of this Article—
+>   >
+>   > - (a) “**insurance debt**” has the meaning it has in the Insurers (Reorganisation and Winding Up) Regulations 2004;
+>   > - (b) “**Lloyd's market reorganisation order**”and “individual member” have the meaning they have in the Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005.
+>
+>   .
+>
+> (7) In Scotland, where a member or former member grants a trust deed for creditors, Schedule 5 to the Bankruptcy (Scotland) Act 1985 shall be read as if after paragraph 4 there were included paragraphs 4A and 4B as follows—
+>
+> > **4A.**
+> >
+> > Whether or not provision is made in any trust deed, where such a trust deed includes a composition in satisfaction of any insurance debts of a member or former member and a distribution to creditors of some or all of the assets of that member or former member in the course of or with a view to meeting obligations of his insurance business carried on at Lloyd's, the trustee may not provide for any insurance debt to be paid otherwise than in priority to such of his debts as are not insurance debts or preferred debts within the meaning of section 51(2).
+> >
+> > **4B.**
+> >
+> > For the purposes of paragraph 4A ,
+> >
+> > - (a) “**insurance debt**” has the meaning it has in the Insurance (Reorganisation and Winding Up) Regulations 2004; and
+> > - (b) “**member** ”and “former member” have the meaning given in regulation 2(1) of the Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 .
+>
+> .
+
+.
+
+(12) The power to apply to court in section 303 of the 1986 Act or Article 276 of the 1989 Order or section 63 of the Bankruptcy (Scotland) Act (general control of trustee by court) may be exercised by the reorganisation controller if it appears to him that any act, omission or decision of a trustee of the estate of a member contravenes the provisions of Part 4 of the principal Regulations (as applied by this regulation).
+
+### 41. Treatment of liabilities arising in connection with a contract subject to reinsurance to close
+
+(1) Where in respect of a member or former member who is subject to a Lloyd's market reorganisation order any of the events specified in paragraph (2)(a) have occurred, for the purposes of the application of Part 4 of the principal Regulations to that member (and only for those purposes), an obligation of that member under a reinsurance to close contract in respect of a debt due or treated as due under a contract of insurance written at Lloyd's is to be treated as an insurance debt.
+
+(2) For the purposes of this regulation—
+
+- (a) The events are—
+  - (i) in respect of a member which is a corporation the appointment of a liquidator, provisional liquidator or administrator;
+  - (ii) in respect of an individual member, the appointment of a receiver or trustee in bankruptcy; and
+  - (iii) in respect of a member in Scotland being either an individual or a Scottish limited partnership, the making of a sequestration order or the appointment of an interim or permanent trustee;
+- (b) “**reinsurance to close contract**” means a contract under which, in accordance with the rules or practices of Lloyd's, underwriting members (“the reinsured members”) who are members of a syndicate for a year of account (“the closed year”) agree with underwriting members who constitute that or another syndicate for a later year of account (“the reinsuring members”) that the reinsuring members will indemnify the reinsured members against all known and unknown liabilities of the reinsured members arising out of the insurance business underwritten through that syndicate and allocated to the closed year (including liabilities under any reinsurance to close contract underwritten by the reinsured members).
+
+### 42. Assets of members
+
+(1) This regulation applies where a member or former member is treated as a UK insurer in accordance with regulations 13 and 40 above.
+
+(2) Subject to paragraphs (3) and (4), the undistributed assets of the member are to be treated as assets of the insurer for the purposes of the application of Part 4 of the principal Regulations in accordance with regulation 43 below.
+
+(3) For the purposes of this regulation, the undistributed assets of the member so treated do not include any asset held in a relevant trust fund.
+
+(4) But any asset released from a relevant trust fund and received by such a member is to be treated as an asset of the insurer for the purposes of the application of Part 4 of the principal Regulations*.*
+
+### 43. Application of Part 4 of the principal Regulations: protection of settlements
+
+(1) This regulation applies where a member or former member is subject to an insolvency measure mentioned in paragraph (4) at the time that a Lloyd's market reorganisation order comes into force.
+
+(2) Nothing in these Regulations or Part 4 of the principal Regulations affects the validity of any payment or disposition made, or any settlement agreed, by the relevant officer before the date when the Lloyd's market reorganisation order came into force.
+
+(3) For the purposes of the application of Part 4 of the principal Regulations, the insolvent estate of the member or former member shall not include any assets which are subject to a relevant compromise or arrangement[^key-4c485bb81c98e5aabd307c73540bba8c], a relevant individual voluntary arrangement, or a relevant trust deed for creditors.
+
+(4) In paragraph (2) “**relevant officer**” means—
+
+- (a) where the insolvency measure is a voluntary arrangement, the nominee;
+- (b) where the insolvency measure is administration, the administrator;
+- (c) where the insolvency measure is the appointment of a provisional liquidator, the provisional liquidator;
+- (d) where the insolvency measure is a winding up, the liquidator;
+- (e) where the insolvency measure is an individual voluntary arrangement, the nominee or supervisor;
+- (f) where the insolvency measure is bankruptcy, the trustee in bankruptcy ;
+- (g) where the insolvency measure is sequestration, the interim or permanent trustee; and
+- (h) where the insolvency measure is a trust deed for creditors, the trustee.
+
+(5) For the purposes of paragraph (3)—
+
+- (a) “**assets**” has the same meaning as “**property**” in section 436 of the 1986 Act or Article 2(2) of the 1989 Order;
+- (b) “insolvent estate” in England and Wales and Northern Ireland has the meaning given by rule 1.2[^key-29bbaf9e9d91b3adf797b4c464135705] of the Insolvency Rules or Rule 0.2 of the Insolvency Rules (Northern Ireland), and in Scotland means the whole estate of the member;
+- (c)[^key-1d936ca913bd9a78a2d5738e6933640c] “a relevant compromise or arrangement” means—
+  - (i) a compromise or arrangement—
+    - (aa) sanctioned by the court under section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act),
+    - (bb) sanctioned by the court under Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order), or
+    - (cc) which is a compromise or arrangement under section 899 or section 901F,[^key-092352686c83fcb59041d32466c55da5]
+
+    that was sanctioned by the court before the date on which an application for a Lloyd’s market reorganisation order was made, or
+  - (ii) any subsequent compromise or arrangement—
+    - (aa) sanctioned by the court as mentioned in paragraph (i)(aa) or (bb), or
+    - (bb) which is a compromise or arrangement under section 899 or section 901F,[^key-26a19308fe1d81fe5e73203786cf3cb8]
+
+    that was sanctioned by the court to amend or replace a compromise or arrangement of the kind mentioned in paragraph (i);
+- (d) “a relevant individual voluntary arrangement” and “a relevant trust deed for creditors” mean an individual voluntary arrangement or trust deed for creditors which was sanctioned by the court or entered into before the date on which an application for a Lloyd's market reorganisation order was made.
+
+### 44. Challenge by reorganisation controller to conduct of insolvency practitioner
+
+(1) The reorganisation controller may apply to the court claiming that a relevant officer is acting, has acted, or proposes to act in a way that fails to comply with a requirement of Part 4 of the principal Regulations.
+
+(2) The reorganisation controller must send a copy of an application under paragraph (1) to the relevant officer in respect of whom the application is made.
+
+(3) In the case of a relevant officer who is acting in respect of a member or former member subject to the jurisdiction of a Scottish court, the application must be made to the Court of Session.
+
+(4) The court may—
+
+- (a) dismiss the application;
+- (b) make an interim order;
+- (c) make any other order it thinks appropriate.
+
+(5) In particular, an order under this regulation may—
+
+- (a) regulate the relevant officer's exercise of his functions;
+- (b) require that officer to do or not do a specified thing;
+- (c) make consequential provision.
+
+(6) An order may not be made under this regulation if it would impede or prevent the implementation of—
+
+- (a) a voluntary arrangement approved under Part 1 of the 1986 Act or Part 2 of the 1989 Order before the date when the Lloyd's market reorganisation order was made;
+- (b) an individual voluntary arrangement approved under Part 8 of that Act or Part 8 of that Order before the date when the Lloyd's market reorganisation order was made; or
+- (c)[^key-542b032748436ddfdcc1bee2aecbc608] a compromise or arrangement sanctioned by the court before the date when the Lloyd’s market reorganisation order was made which is—
+  - (i)[^key-ab0fd8cd4dfab501b97262afc5a0d2d9] which is a compromise or arrangement under section 899 or section 901F,
+  - (ii) a compromise or arrangement sanctioned under section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act), or
+  - (iii) a compromise or arrangement sanctioned under Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order).
+
+(7) In this regulation “**relevant officer**” means—
+
+- (a) a liquidator,
+- (b) a provisional liquidator,
+- (c) an administrator
+- (d) the official receiver or a trustee in bankruptcy, or
+- (e) in Scotland, an interim or permanent trustee or a trustee for creditors,
+
+who is appointed in relation to a member or former member.
+
+### 45. Application of Part 5 of the principal Regulations
+
+(1) Part 5 of the principal Regulations (reorganisation or winding up of UK insurers [^key-be7e701a54217dd23a8f625933be4fad]... applies with the modifications set out in regulation 46 where, on or after the date that a Lloyd's market reorganisation order comes into force, a member or former member is or becomes subject to a reorganisation or insolvency measure.
+
+(2) For the purposes of this regulation a “**reorganisation or insolvency measure**” means—
+
+- (a) a voluntary arrangement, having a qualifying purpose, approved in accordance with section 4A of the 1986 Act or Article 17A of the 1989 Order;
+- (b) administration pursuant to an order under paragraph 13 of Schedule B1 or under paragraph 14 of Schedule B1 to the 1989 Order[^key-c461d8be33d364bc6337aaa542ccc87b];
+- (c) the reduction by the court of the value of one or more relevant contracts of insurance under section 377 of the 2000 Act or section 24(5) of the Friendly Societies Act 1992 [^c12263131];
+- (d) winding up;
+- (e) the appointment of a provisional liquidator in accordance with section 135 of the 1986 Act or Article 115 of the 1989 Order;
+- (f) an individual voluntary arrangement, having a qualifying purpose, approved in accordance with section 258 of the 1986 Act or Article 232 of the 1989 Order;
+- (g) in Scotland a qualifying trust deed for creditors within the meaning of section 5(4A) of the Bankruptcy (Scotland) Act 1985;
+- (h) bankruptcy, in accordance with Part 9 of the 1986 Act or Part 9 of the1989 Order; or
+- (i) sequestration under the Bankruptcy (Scotland) Act 1985.
+
+(3) A measure imposed under the law of a State or country other than the United Kingdom is not a reorganisation or insolvency measure for the purposes of this regulation.
+
+(4) For the purposes of sub-paragraphs (a), (f) and (g) of paragraph (2), a voluntary arrangement or individual voluntary arrangement has a qualifying purpose and a trust deed is a qualifying trust deed if it—
+
+- (a) varies the rights of creditors as against the member and is intended to enable the member to continue to carry on an insurance market activity at Lloyd's; or
+- (b) includes a realisation of some or all of the assets of the member and the distribution of proceeds to creditors, with a view to terminating the whole or any part of that member's business at Lloyd's.
+
+### 46. Modification of provisions in Part 5 of the principal Regulations
+
+(1) The modifications mentioned in regulation 45(1) are as follows.
+
+(2) Regulation 35 is disapplied.
+
+(3) Regulation 36 (interpretation of Part 5) has effect as if—
+
+- (a) in paragraph (1)—
+  - (i) the meaning of “affected insurer” included a member or former member who, on or after the date that a Lloyd's market reorganisation order comes into force, is or becomes subject to a reorganisation or insolvency measure within the meaning given by regulation 44(2)of these Regulations;
+  - (ii) the meaning of “relevant reorganisation or relevant winding up” included any reorganisation or insolvency measure, in respect of a member or former member, to which Part 5 of the principal Regulations applies by virtue of regulation 45(1) of these Regulations;
+  - (iii) in the case of sequestration, the date of sequestration within the meaning of section 12 of the Bankruptcy (Scotland) Act 1985; and
+- (b) in paragraph (2) references to the opening of a relevant reorganisation or a relevant winding up meant (in addition to the meaning in the cases set out in that paragraph)—
+  - (i) in the case of an individual voluntary arrangement, the date when a decision with respect to that arrangement has effect in accordance with section 258 of the 1986 Act or Article 232 of the 1989 Order;
+  - (ii) in the case of bankruptcy, the date on which the bankruptcy order is made under Part 9 of the 1986 Act or Part 9 of the 1989 Order;
+  - (iii) in the case of a trust deed for creditors under the Bankruptcy (Scotland) Act 1985 the date when the trust deed was granted.
+
+(4) Regulation 37 of the principal Regulations ([^key-c7e8f8dd1a7d9a0efd37a051005ccb1a]... applicable law in the winding up of a UK insurer) has effect as if—
+
+- (a) references to a relevant winding up included (in each case) a reference to a reorganisation or insolvency measure within the meaning given by sub-paragraphs (d), (g) (h) and (i) of regulation 45(2) of these Regulations (winding up and bankruptcy) in respect of a member or former member; and
+- (b) the reference in paragraph (3)(c) to the liquidator included a reference to the trustee in bankruptcy or in Scotland to the interim or permanent trustee.
+
+(5)[^key-2b96d72e1f1ae4df22176cf7d96cb58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47. Application of Part 5 of the principal Regulations: protection of dispositions etc. made before a Lloyd's market reorganisation order comes into force
+
+(1) This regulation applies where—
+
+- (a) a member or former member is subject to a reorganisation or insolvency measure on the date when a Lloyd's market reorganisation order comes into force; and
+- (b) Part 5 of the principal Regulations applies in relation to that reorganisation or insolvency measure by virtue of regulation 45 above.
+
+(2) Nothing in Part 5 of the principal Regulations affects the validity of any payment or disposition made, or any settlement agreed, by the relevant officer before the date when the Lloyd's market reorganisation order came into force.
+
+(3) For the purposes of the application of Part 5 of the principal Regulations, the insolvent estate of the member does not include any assets which are subject to a relevant compromise or arrangement[^key-6d18d7051d7e987ba38553e6943f5f7e], a relevant individual voluntary arrangement, or a relevant trust deed for creditors.
+
+(4) In paragraph (2) “**relevant officer**” means—
+
+- (a) where the member is subject to a voluntary arrangement in accordance with section 4A of the 1986 Act or Article 17A of the 1989 Order, the supervisor;
+- (b) where the member is in administration in accordance with Schedule B1 or with Schedule B1 to the 1989 Order[^key-b4b7c07c39e999b153354a68b865ebbc], the administrator;
+- (c) where a provisional liquidator has been appointed in relation to a member in accordance with section 135 of the 1986 Act or Article 115 of the 1989 Order, the provisional liquidator;
+- (d) where the member is being wound up under Part 4 of the 1986 Act or Part 5 of the 1989 Order, the liquidator;
+- (e) where the member has made a voluntary arrangement in accordance with Part 8 of the 1986 Act or Part 8 of the 1989 Order, the nominee;
+- (f) where the member is bankrupt within the meaning of Part 9 of the 1986 Act or Part 9 of the 1989 Order, the official receiver or trustee in bankruptcy;
+- (g) where the member is being sequestrated, the interim or permanent trustee; and
+- (h) where a trust deed for creditors has been granted, the trustee.
+
+(5) For the purposes of paragraph (3)—
+
+- (a) “**assets**” has the same meaning as “**property**” in section 436 of the 1986 Act or Article 2(2) of the 1989 Order, except in relation to relevant trust deeds;
+- (b) “insolvent estate” in England and Wales and Northern Ireland has the meaning given by Rule 1.2[^key-3706a9f2a1b0c544cc26e9e8d3e842e2] of the Insolvency Rules or Rule 0.2 of the Insolvency Rules (Northern Ireland), and in Scotland means the assets of the member;
+- (c)[^key-78a81621f419934c7a664e10a0737b8f] “relevant compromise or arrangement” means—
+  - (i) a compromise or arrangement—
+    - (aa) sanctioned by the court under section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act),
+    - (bb) sanctioned by the court under Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order), or
+    - (cc) which is a compromise or arrangement under section 899 or section 901F,[^key-5b90df0d4b4d5b946a27a76e2cf107e1]
+
+    that was sanctioned by the court before the date on which an application for a Lloyd’s market reorganisation order was made, or
+  - (ii) any subsequent compromise or arrangement—
+    - (aa) sanctioned by the court as mentioned in sub–paragraph (aa) or (bb) of paragraph (i), or
+    - (bb) which is a compromise or arrangement under section 899 or section 901F,[^key-c25b13f4f4ee61fc394fa37c530a0371]
+
+    that was sanctioned by the court to amend or replace a compromise or arrangement of the kind mentioned in paragraph (i);
+- (d) “**relevant individual voluntary arrangement**” means—
+  - (i) an individual voluntary arrangement approved under Part 8 of the 1986 Act or Part 8 of the 1989 Order[^key-9d8dd7e7a15fe719112b04d84f26b4e3] before the date when a Lloyd's market reorganisation order came in to force, and
+  - (ii) any subsequent individual voluntary arrangement sanctioned by the court to amend or replace an arrangement of the kind mentioned in paragraph (i); and
+- (e) “**relevant trust deed**” means a trust deed granted by a member or former member before the date when the Lloyd's market reorganisation order entered into force.
+
+### 48. Non-EEA countries
+
+In respect of a member or former member who is established in a country outside the United Kingdom[^key-78dfed7d30f04e59ddc2d93cc49e36ac], the court or the PRA[^key-6ddbec30cd30ab5f3c06d02da0ce83e8] may, subject to sections 348 and 349 of the 2000 Act, make such disclosures as each considers appropriate to a court or to a regulator with a role equivalent to that of the PRA for the purpose of facilitating the work of the reorganisation controller.
+
+### 49. Amendment of principal Regulations
+
+In regulation 19(2)(b) of the principal Regulations, for “regulation 18(4)”, substitute “regulation 18(5)”.
+
+Gillian Merron
+
+Tom Watson
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Order)*
+
+These Regulations implement the Insurance Reorganisation and Winding-up Directive [2001/17/EC](https://www.legislation.gov.uk/european/directive/2001/0017) in respect of the Lloyd's of London insurance market. The Directive was originally implemented for all insurers in the UK apart from Lloyd's by the Insurers (Reorganisation and Winding Up) Regulations 2003 on 17 April 2003. These Regulations were replaced by the Insurers (Reorganisation and Winding Up) Regulations 2004 (“**the principal Regulations**”) which gave effect, in relation to insurers, to the new administration provisions in the Enterprise Act 2002. These Regulations make necessary adaptations of the principal Regulations in order to implement the obligations of the Directive with regard to the association of underwriters known as Lloyd's which is the regulated undertaking within Community law.
+
+The Regulations provide (in Part 2) for application to the Court by the FSA or the Society of Lloyd's or both for the making of a Lloyd's market reorganisation order, if the solvency tests required by the FSA are not or may not be satisfied. They provide for a reorganisation controller who is made an officer of the court and for the court to fill out or limit his powers as necessary. There is provision for a moratorium on legal processes involving affected market participants (as defined) and the Society. The appointment is required to be notified by public notice to all members and former members. The reorganisation controller is required to develop a market reorganisation plan subject to the approval of the FSA for achievement of the objectives of the reorganisation order. The reorganisation controller is entitled to be remunerated and his remuneration is to be paid for by members, former members, the Society and managing agents. The principal Regulations and the Financial Services and Markets Act 2000 (Administration Orders Relating to Insurers) are applied to all members on the making of a Lloyd's market reorganisation order. There are procedures for the court to except certain assets or members from the scope of the order. Where insurance creditors are not or may not be satisfied any such exception is revoked. Once the order has been made procedures exist for continued payment of insurance liabilities and for managing agents to continue to be able to seek payments from central funds of the Society where a member's premiums trust fund is inadequate to meet liabilities and the member cannot meet a cash call made by the managing agent. Provision is made for the reorganisation controller to be informed of all administration procedures, voluntary arrangements in respect of companies or individuals and equivalent Scottish procedures and to be able to attend and take part in relevant meetings and hearings in relation to these. Scottish members or former members are required to inform a person about to become a trustee under a trust deed for creditors that they are or were members of Lloyd's. Special provision is made to apply set-off at the level of each member's participation in respect of mutual dealings on a syndicate by syndicate basis. Part 3 of the Regulations adapt the provisions of the principal Regulations to apply to underwriting members of the Society, including former members and apply these provisions to members of every description whether bodies corporate, Scottish limited partnerships or individuals, unless they are specifically excluded from the effect of the Lloyd's market reorganisation order. The notification and publication requirements in Part 3 of the principal Regulations are adapted so that they arise at the point that a Lloyd's market reorganisation order is made and apply equally to the Lloyd's market reorganisation order and to reorganisation measures and winding up or bankruptcy proceedings in relation to particular members. Part 4 applies Parts 4 and 5 of the principal Regulations. In particular, the priority of insurance debts over all other unsecured or non-preferred debts is provided for and attaches to all the unencumbered property of members who are affected by the order and are insolvent but not to assets in the premiums trust funds and other Lloyd's trusts (referred to in the Regulations as “**relevant rust funds**”). The protection for reorganisation measures or insolvency proceedings begun before the Directive came into force for other insurers is adapted so that in the case of members of Lloyd's it applies to all such measures and proceedings begun before the Lloyd's market reorganisation order is made.
+
+## Annotations
+
+[^c12263001]: Marginal citation: [S.I. 2002/2840](https://www.legislation.gov.uk/uksi/2002/2840).
+
+[^c12263011]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment 0f section 1(2) made by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations made under section 2(2) to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183). Section 57(1) of the Scotland Act 1998 (c. 46 ) provides that despite the transfer to Scottish Ministers of functions in relation to observing and implementing obligations under Community law, any function of a Minister of the Crown shall continue to be exercisable by him as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972.
+
+[^key-f797ce0fe202fe64f3bd2972ee0e0a11]: Modification: Regulations applied (with modifications) (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/680/regulation/4) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-099de433d58f2c422ec792de5a9e3a71]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c12263021]: Marginal citation: [S.I. 2002/1242](https://www.legislation.gov.uk/uksi/2002/1242) as amended by [S.I. 2003/2134](https://www.legislation.gov.uk/uksi/2003/2134).
+
+[^key-b7644322518c121620173924ea5fefc8]: Textual amendment: Words in reg. 2 added (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/2)
+
+[^key-7269f7085fc6c5a032db913213034fe6]: Textual amendment: Words in reg. 2 substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/23/2)
+
+[^key-10de57f984ec42a7cde53af782c9f4b1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/2/1) inserted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/2/a) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c12263051]: Marginal citation: Byelaws of Lloyd's are available on request from the Secretary to the Council, Lloyd's, One Lime Street, London EC3M 7HA.
+
+[^key-d08dfc16b286fd02be8e1caedd496868]: Textual amendment: Words in reg. 2(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/2/a)
+
+[^key-3d2579f95608589bd6d78b9079b95f5a]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/a/i)
+
+[^c12263061]: Marginal citation: 1982 c xiv.
+
+[^c12263071]: Marginal citation: 34 Vict c. xxi.
+
+[^c12263081]: Marginal citation: 1&2 Geo V c. lxii.
+
+[^c12263091]: Marginal citation: 14&15 Geo VI c. viii.
+
+[^c12263101]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), to which there are amendments not relevant to these Regulations.
+
+[^key-88b15c963ce3d50aba7a3d70d23fcef9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/2/1) substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c12263111]: Marginal citation: [S.I. 2004/353](https://www.legislation.gov.uk/uksi/2004/353), as amended by [S.I. 2004/546](https://www.legislation.gov.uk/uksi/2004/546).
+
+[^key-092f58d8404ba622e698408ae47498ad]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/a/ii)
+
+[^key-bbe4c4a4205b9207f0b9ff4a9d94e6b9]: Textual amendment: Words in reg. 2(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/2/b)
+
+[^key-f422575b64c3fdd1ce38b3b7f1a3b6f0]: Textual amendment: Words in reg. 6(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/b/i)
+
+[^key-e10513e9590660dd9c2c3bb629b7d66e]: Textual amendment: Reg. 6(1A) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/b/ii)
+
+[^key-1ceb98b8a3408b632721cf4f02925d4a]: Textual amendment: Words in reg. 6(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/b/iii)
+
+[^key-ee34b27594e699fd4e65797ed08107ec]: Textual amendment: Word in reg. 7(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/c/i)
+
+[^key-27744a2cb96da84998691e473d784b2d]: Textual amendment: Words in reg. 7(5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(c)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/c/ii)
+
+[^key-6f0c906df789f3b2a283e7a5219957eb]: Textual amendment: Words in reg. 8(2)(b)(iii) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/9/2/a)
+
+[^key-fc664ddac486151d272c5dfbcfecd6c5]: Textual amendment: Words in reg. 8(6)(a) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/3/a)
+
+[^key-032d30e8fd1868261b217f5b1aceba8b]: Textual amendment: Words in reg. 8(6)(c) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(3)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/3/a)
+
+[^key-9ccd6dfeb43f2263ceb55c83130bafa8]: Textual amendment: Words in reg. 8(6)(c) inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2020/744/article/16/2/a)
+
+[^key-b66f7bd656546509771008e71988eba1]: Textual amendment: Words in reg. 8(7) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/3/b)
+
+[^key-49a4b0748bc4f330d10e6a27b5ba2d8e]: Textual amendment: Words in reg. 8(8)(b) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(3)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/3/b)
+
+[^key-12dd2603bdb2b6187ca8a8015081eb76]: Textual amendment: Words in reg. 8(8)(b) inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2020/744/article/16/2/b)
+
+[^key-1ce3b211a690bd9a71908121b1da4306]: Textual amendment: Word in reg. 8(11) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/9/2/b)
+
+[^key-a5536313588397e9f9554798f0035f5d]: Textual amendment: Word in reg. 8(12) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/d)
+
+[^key-9b97a91b6d31c1e09ff361224eadbffe]: Textual amendment: Words in reg. 9(2) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2017/400/regulation/7)
+
+[^key-b2cd20506f094e1b9aa7d8ef5b168cb3]: Textual amendment: Words in reg. 9(2) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/4)
+
+[^key-b50767b59d42af1127b62da3243b391e]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/10/2) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a2dc3eb45595cc280bb2ef399d514c1b]: Textual amendment: Words in reg. 10 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/e)
+
+[^key-8a470543e5f157624db89d8c58b4c989]: Textual amendment: Words in reg. 11 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/f)
+
+[^key-3d1600c6cefc4ae9aaa8179c2482de90]: Textual amendment: Reg. 13(1)(ca) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/9/3)
+
+[^key-43ebbd9792ef70f5d53b11d23d9744d5]: Textual amendment: Words in reg. 13(2) substituted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/5/a)
+
+[^key-4d474a410dee895e5dc61221a39d4d2a]: Textual amendment: Words in reg. 13(2)(b) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/5/b)
+
+[^key-86601d809f07bd9234f7952623ca01c9]: Textual amendment: Words in reg. 13(4)(b) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/5/c)
+
+[^key-077a8d747f98cd10bb6f610f858b1d7a]: Textual amendment: Words in reg. 13(5) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(5)(d)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/5/d)
+
+[^key-3980ff2050d185ef48e5b81f80e755f7]: Textual amendment: Word in reg. 14 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(g)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/g)
+
+[^key-e1274d6b33a04f47038f6aa31bd68a16]: Textual amendment: Words in reg. 14(4) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/6)
+
+[^key-9ec4beb90c720be0f4f21e823de30711]: Textual amendment: Words in reg. 16(3) substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(2)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/2/a) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-bfca51e4719f55a7c9986ea24452c5f8]: Textual amendment: Reg. 16(3A)(3B) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(2)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/2/b) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-ea386329288a5582cc7f330b02bd3591]: Textual amendment: Words in reg. 16(4) substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(2)(c)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/2/c) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-a7ad0a9facad5bcfd7311b054dae7f0e]: Textual amendment: Words in reg. 16(5) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/7)
+
+[^key-11adfae017e10cd367e02bcbf764c458]: Textual amendment: Word in reg. 16(6) substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(2)(d)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/2/d) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-39af84c6652cd33205e34a0d9d29eaaa]: Textual amendment: Words in reg. 18 heading substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/4)
+
+[^key-e967e6aa1d8304811a7306fe9d2e07e5]: Textual amendment: Words in reg. 18(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(5)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/5/a)
+
+[^key-d6b080fcfafb0e63410bead136f13035]: Textual amendment: Words in reg. 18(2) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(5)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/5/b)
+
+[^key-8511c1d62e3e7c4e4b22841d0d13eac3]: Textual amendment: Words in reg. 18(3) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(5)(c)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/5/c)
+
+[^key-8ce53a3c801deb2458bb6cf86c46cd37]: Textual amendment: Words in reg. 19(1)(a) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/8/a)
+
+[^key-7f5b4fe5b391889bdabc683e535a9536]: Textual amendment: Words in reg. 19(1)(b) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(8)(b)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/8/b)
+
+[^key-e0c29bf78fc9d7a906b2423c4595d2fa]: Textual amendment: Words in reg. 20(1) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(9)(a)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/9/a)
+
+[^key-6731878aa34ddf8ade3c5f2dccd78399]: Textual amendment: Words in reg. 20(2)(a) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(9)(b)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/9/b)
+
+[^key-b169bd3d2dde2c4c9339c3c9ad922d09]: Textual amendment: Words in reg. 20(3)(b) substituted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(9)(c)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/9/c)
+
+[^key-7cd7b72eec4dbc73e958aab92dac6c3a]: Textual amendment: Words in reg. 20(5)(b) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(9)(d)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/9/d)
+
+[^key-c084b26c5a0885bd72d28442daded794]: Textual amendment: Reg. 20(5A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/3) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-f45b3f2a2d30c24046c9daa29ac9a2bf]: Textual amendment: Words in reg. 20(6) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(6)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/6)
+
+[^key-3c0e4eb003ab4ef0fcecbab124615ba1]: Textual amendment: Words in reg. 20(6) inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2020/744/article/16/3)
+
+[^key-ad3df72d8c645dab3372a3433dec9c94]: Textual amendment: Words in reg. 21(5)(b) substituted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(10)(a)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/10/a)
+
+[^key-10901f45febc40ffe3e4d2602ed5a250]: Textual amendment: Words in reg. 21(6) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(10)(b)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/10/b)
+
+[^key-a0fb37592a0a7820521c404d047446d7]: Textual amendment: Words in reg. 22(2) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/2)
+
+[^key-ec0a3d3e44894cfcaf09c11dd699f391]: Textual amendment: Words in reg. 22(2) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/11)
+
+[^key-e4b73e3aff28ca2cce2e6b00f3ec75ae]: Textual amendment: Words in reg. 23(4) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(7)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/7)
+
+[^key-75790613becd6e3a656420b9613ee1a3]: Textual amendment: Reg. 24(5A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(4)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/4) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-d9ae11054b80faf8afd663766c51f25d]: Textual amendment: Words in reg. 24(6) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(8)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/8)
+
+[^key-b45b7cdb1352ec4db88e718da339af61]: Textual amendment: Words in reg. 24(6) inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2020/744/article/16/4)
+
+[^key-9186f36488558d1ab20645402d3dac4d]: Textual amendment: Words in reg. 25(3) substituted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/12)
+
+[^key-3dc7c54037427baa25188582132f2726]: Textual amendment: Reg. 26(4A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(5)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/5) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-5276f087a90197caba8265ba8acade5b]: Textual amendment: Words in reg. 26(5) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(9)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/9)
+
+[^key-a0331c656f7c065a6f3b96884cae1871]: Textual amendment: Words in reg. 26(5) inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(5)](https://www.legislation.gov.uk/uksi/2020/744/article/16/5)
+
+[^key-e5364a5d678213fc18c445c934a42486]: Textual amendment: Reg. 28(3) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/9/4)
+
+[^key-09865491bbb714c16cb5d709f49a1bf6]: Textual amendment: Reg. 28(4A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(6)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/6) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-6530824143fccbb2849d0d0fe1333865]: Textual amendment: Reg. 30(5A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(7)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/7) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-0d1fca6c0b684a9792f62402538c2ada]: Textual amendment: Words in reg. 30(6) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(10)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/10)
+
+[^key-c3dbeb18874a02073b85059f36132e94]: Textual amendment: Words in reg. 30(6) inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(6)](https://www.legislation.gov.uk/uksi/2020/744/article/16/6)
+
+[^key-ac7c9ae43acaaf4500f093714323f51a]: Textual amendment: Words in reg. 31 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(h)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/h)
+
+[^key-ba375ff274b8072a92f51f2de141b667]: Textual amendment: Words in reg. 31(1) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(13)(a)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/13/a)
+
+[^key-32120154bcf275cfb7238bd64f852e08]: Textual amendment: Words in reg. 31(4)(b) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(13)(b)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/13/b)
+
+[^c12263121]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-3c3497136dba27046defd2b6ecb71758]: Textual amendment: Word in reg. 33 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/i)
+
+[^key-42296df6233cc67224d02116cb652b56]: Textual amendment: Words in reg. 33(3)(a) substituted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(14)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/14)
+
+[^key-cb1b6aa314c9f7dc2838ffb5043805b3]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/2005/1998/regulation/34) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2a25f985336d21dc8816d06c47be4812]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/2005/1998/regulation/35) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8444b7c35202259c6423bd51a079210c]: Textual amendment: [Reg. 36](https://www.legislation.gov.uk/uksi/2005/1998/regulation/36) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(4)(c)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ddb090386bf1f63cfe0cc60b04deddc9]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2005/1998/regulation/37) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(4)(d)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-04773a26798709c2a5f5484a88d0c68a]: Textual amendment: Words in reg. 38(1)(a)(ii) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(15)(a)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/15/a)
+
+[^key-37724b14111e5420e49454fe06291a9e]: Textual amendment: Reg. 38(1)(d) substituted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(15)(b)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/15/b)
+
+[^key-3872a43aa51239ba9f3cec982d851d43]: Textual amendment: Words in reg. 38(1)(d) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/5)
+
+[^key-024a216aed0f1fd006672452884e5c43]: Textual amendment: Words in reg. 38(2)(a) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(15)(c)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/15/c)
+
+[^key-b696772524b83dd971bac9885acb8105]: Textual amendment: Words in reg. 38(3)(b) substituted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(15)(d)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/15/d)
+
+[^key-4035d1545001be1d1820e9d74c197c53]: Textual amendment: Words in reg. 38(3)(c) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(15)(e)(i)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/15/e/i)
+
+[^key-6290f9db0804bd9dc88ed632ec35c223]: Textual amendment: Words in reg. 38(3)(c) substituted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(15)(e)(ii)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/15/e/ii)
+
+[^key-1815936e2745317368a6704dbce444e9]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/39/1) substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7a0afdc76c3edf86ab68dda844b29d2f]: Textual amendment: Words in [reg. 39(3)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/39/3) substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-be41fd685bde63315a400592bf472c8b]: Textual amendment: Words in reg. 40(8) omitted (13.3.2018) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(10)(a)(i)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/10/a/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-8f974004c6acf30586776fccd3288430]: Textual amendment: Words in reg. 40(8) substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/10/a/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-9c5ee8fbbdf216d156c5e5918115f001]: Textual amendment: Words in reg. 40(9)(a) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(6)(a)(i)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/6/a/i)
+
+[^key-1356ca168188997a6d518d04d6f034ff]: Textual amendment: Words in reg. 40(9)(a) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/6/a/ii)
+
+[^key-aa4c2546a98920b93735e266d6c7cfbb]: Textual amendment: Words in reg. 40(9)(c) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(6)(b)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/6/b)
+
+[^key-263bcb7829a06f4ed9bd6ee0a4d9dff4]: Textual amendment: Words in reg. 40(11) substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(10)(b)(i)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/10/b/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-8944aa89f0c2bba5fad058adaaccaf56]: Textual amendment: Words in reg. 40(11) substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [10(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/208/regulation/10/10/b/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2018/208/regulation/21))
+
+[^key-4c485bb81c98e5aabd307c73540bba8c]: Textual amendment: Words in reg. 43(3) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(11)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/11/a)
+
+[^key-29bbaf9e9d91b3adf797b4c464135705]: Textual amendment: Word in reg. 43(5)(b) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(7)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/7)
+
+[^key-1d936ca913bd9a78a2d5738e6933640c]: Textual amendment: Reg. 43(5)(c) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(11)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/11/b)
+
+[^key-092352686c83fcb59041d32466c55da5]: Textual amendment: Reg. 43(5)(c)(i)(cc) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(7)(a)](https://www.legislation.gov.uk/uksi/2020/744/article/16/7/a)
+
+[^key-26a19308fe1d81fe5e73203786cf3cb8]: Textual amendment: Reg. 43(5)(c)(ii)(bb) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(7)(b)](https://www.legislation.gov.uk/uksi/2020/744/article/16/7/b)
+
+[^key-542b032748436ddfdcc1bee2aecbc608]: Textual amendment: Reg. 44(6)(c) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(12)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/12)
+
+[^key-ab0fd8cd4dfab501b97262afc5a0d2d9]: Textual amendment: Reg. 44(6)(c)(i) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), arts. 1, [16(8)](https://www.legislation.gov.uk/uksi/2020/744/article/16/8)
+
+[^key-be7e701a54217dd23a8f625933be4fad]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/45/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c461d8be33d364bc6337aaa542ccc87b]: Textual amendment: Words in reg. 45(2)(b) added (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(16)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/16)
+
+[^c12263131]: Marginal citation: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
+
+[^key-c7e8f8dd1a7d9a0efd37a051005ccb1a]: Textual amendment: Words in [reg. 46(4)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/46/4) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2b96d72e1f1ae4df22176cf7d96cb58e]: Textual amendment: [Reg. 46(5)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/46/5) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(7)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6d18d7051d7e987ba38553e6943f5f7e]: Textual amendment: Words in reg. 47(3) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(13)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/13/a)
+
+[^key-b4b7c07c39e999b153354a68b865ebbc]: Textual amendment: Words in reg. 47(4)(b) inserted (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(17)(a)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/17/a)
+
+[^key-3706a9f2a1b0c544cc26e9e8d3e842e2]: Textual amendment: Word in reg. 47(5)(b) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/8)
+
+[^key-78a81621f419934c7a664e10a0737b8f]: Textual amendment: Reg. 47(5)(c) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [27(13)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/27/13/b)
+
+[^key-5b90df0d4b4d5b946a27a76e2cf107e1]: Textual amendment: Reg. 47(5)(c)(i)(cc) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(9)(a)](https://www.legislation.gov.uk/uksi/2020/744/article/16/9/a)
+
+[^key-c25b13f4f4ee61fc394fa37c530a0371]: Textual amendment: Reg. 47(5)(c)(ii)(bb) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [16(9)(b)](https://www.legislation.gov.uk/uksi/2020/744/article/16/9/b)
+
+[^key-9d8dd7e7a15fe719112b04d84f26b4e3]: Textual amendment: Words in reg. 47(5)(d)(i) added (6.4.2007) by [The Insurers (Reorganisation and Winding Up)(Amendment) Regulations 2007 (S.I. 2007/851)](https://www.legislation.gov.uk/uksi/2007/851), [regs. 1](https://www.legislation.gov.uk/uksi/2007/851/regulation/1), [3(17)(b)](https://www.legislation.gov.uk/uksi/2007/851/regulation/3/17/b)
+
+[^key-78dfed7d30f04e59ddc2d93cc49e36ac]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2005/1998/regulation/48) substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2019/38/regulation/4/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6ddbec30cd30ab5f3c06d02da0ce83e8]: Textual amendment: Words in reg. 48 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 109(j)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/109/j)

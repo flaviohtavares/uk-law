@@ -1,0 +1,160 @@
+---
+title: The Postgraduate Medical Education and Training Board (Fees) Rules Order 2008
+id: uksi/2008/554
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-02-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/554
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/554/pdfs/uksiem_20080554_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/554/pdfs/uksi_20080554_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/554/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Postgraduate Medical Education and Training Board (Fees) Rules Order 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 554
+
+Health Care And Associated Professions
+
+Doctors
+
+The Postgraduate Medical Education and Training Board (Fees) Rules Order 2008
+
+Made
+
+28th February 2008
+
+Laid before Parliament
+
+7th March 2008
+
+Coming into force
+
+1st April 2008
+
+The Postgraduate Medical Education and Training Board has made the Postgraduate Medical Education and Training Board (Fees) Rules 2008 (“the Rules”) as set out in the Schedule to this Order.
+
+In accordance with article 25(2) of the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003[^f00001] (“the Order”) such Rules shall not come into force until approved by the Secretary of State.
+
+In accordance with article 25(2) of the Order the Secretary of State has consulted the Scottish Ministers, the Department of Health, Social Services and Public Safety in Northern Ireland and the Welsh Ministers.
+
+Having considered the Rules, the Secretary of State approves them.
+
+This Order may be cited as the Postgraduate Medical Education and Training Board (Fees) Rules Order 2008 and shall come into force on 1st April 2008.
+
+The Postgraduate Medical Education and Training Board (Fees) Rules Order 2007[^f00002] is revoked.
+
+Signed by authority of the Secretary of State for Health.
+
+Ann Keen
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+28th February 2008
+
+## SCHEDULE — The Postgraduate Medical Education and Training Board (Fees) Rules 2008
+
+The Postgraduate Medical Education and Training Board makes the following Rules in exercise of the powers conferred by articles 24 and 25(1) of the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003.
+
+### 1. Citation, commencement and application
+
+(1) These Rules may be cited as the Postgraduate Medical Education and Training Board (Fees) Rules 2008 and shall come into force on 1st April 2008.
+
+(2) These Rules shall apply in respect of any Application or Re-submitted Application submitted to the Board on or after 1st April 2008.
+
+### 2. Interpretation
+
+(1) In the Rules—
+
+- “Application” includes the processing of, and the making of a determination in respect of, the application;
+- “competent authority” has the meaning given to it in Schedule 1 to the Order;
+- “CCT” has the meaning given to it in Schedule 1 to the Order;
+- “the Directive” has the meaning given to it in Schedule 1 to the Order;
+- “exempt person” has the meaning given to it in Schedule 1 to the Order;
+- “General Systems Regulations” has the meaning given to it in Schedule 1 to the Order;
+- “Oral Appeal” means an appeal determined after an oral hearing;
+- “Order” means the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003;
+- “Original Decision” means a decision of the Board under article 8(1), article 11(6), article 11A(2), article 14(10) or article 14A(2) which is not a Subsequent Decision;
+- “relevant European State” has the meaning given to it in Schedule 1 to the Order;
+- “Re-submitted Application” means an application submitted by a person to the Board pursuant to—
+  - (a) article 8(1), where the Board has previously issued to that person an Original Decision under that article;
+  - (b) article 11(3), where the Board has previously issued to that person an Original Decision under article 11(6);
+  - (c) article 11A(1), where the Board has previously issued to that person an Original Decision under article 11A(2);
+  - (d) article 14(4) or (5), where the Board has previously issued to that person an Original Decision under article 14(10); or
+  - (e) article 14A(1), where the Board has previously issued to that person an Original Decision under 14A(2),
+
+  where that application is received by the Board within the period of three years beginning with the date of the Board’s Original Decision, regardless of whether that application includes a request for a statement of eligibility for registration pursuant to article 11(7) or 14(11);
+- “Review” means a review of—
+  - (a) an Original or a Subsequent Decision; or
+  - (b) a decision of the Board in respect of an application for a certificate of acquired rights under article 12(3) of the Order,
+
+  as provided for in the Postgraduate Medical Education and Training Board (Award of Certificates) Rules 2005[^f00003];
+- “Subsequent Decision” means a decision of the Board under article 8(1), article 11(6), article 11A(2), article 14(10) or article 14A(2) made pursuant to a Re-submitted Application; and
+- “Written Appeal” means an appeal determined without an oral hearing.
+
+(2) Any reference in these Rules to a numbered article is a reference to the article bearing that number in the Order.
+
+### 3. Fees to be charged by the Board
+
+In respect of each function identified in column 2 of the table in the Schedule, the Board shall charge a fee of the applicable amount set out in the corresponding entry in column 3 of that table.
+
+### 4. Revocation
+
+The Postgraduate Medical Education and Training Board (Fees) Rules 2007 are revoked.
+
+- Chief Executive of the Postgraduate Medical Education and Training Board
+- This 28th day of February 2008
+
+## SCHEDULE
+
+| (1) | (2) Service provided by the Board | (3) Fee payable | (4) Relevant article of the Order |
+| --- | --- | --- | --- |
+| 1\. | Application for the award of a CCT in a speciality listed in Schedule 3 to the Order. | £780<br>£215 in respect of a Re-submitted Application or a Review | article 8(1) |
+| 2\. | Application for the award of a CCT in general practice. | £780<br>£215 in respect of a Re-submitted Application or a Review | article 8(1) |
+| 3\. | Application for a determination that training or qualifications, or both when considered together, are equivalent to a CCT in general practice; including, where applicable, a determination that a qualification in general practice held by an exempt person, which was granted otherwise than in a relevant European State and which has not previously been accepted by a relevant European State as qualifying him to practise as a general practitioner in that State, meets (or is to be treated as meeting) the requirements of article 28 of the Directive; including issuing a statement of eligibility for registration if so requested. | £1,850<br>£624 in respect of a Re-submitted Application or a Review | article 11(3), article 11(3A) and article 11(7) |
+| 4\. | Application for a determination that an applicant is an exempt person—<br>- (a) whose case falls within regulation 3(9)(e) of the General Systems Regulations and to whom regulations 20 to 26 of those Regulations apply; and<br>- (b) who has a right to practise in the United Kingdom as a general practitioner by virtue of Part 3 of those Regulations (having, in particular, successfully completed any adaptation period)<br>is an eligible general systems general practitioner; including the giving of reasons where required. | £1,850<br>£624 in respect of a Re-submitted Application or a Review | article 11A(1) and article 11A(2) |
+| 5\. | Application for a certificate of acquired rights to practise as a general practitioner. | £269<br>£134 in respect of a Re-submitted Application or a Review | article 12(3) |
+| 6\. | Application for a determination that an applicant has a particular expertise in a field within a speciality which is not made at the same time as an application referred to in entry 1, 7, 8 or 9. | £269 | article 13(4)(b) and article 13(5) |
+| 7\. | Application for a determination that specialist training or specialist qualifications in a speciality listed in Schedule 3 to the Order, or both when considered together, are equivalent to a CCT in the speciality in question; including, where applicable, a determination that a specialist qualification held by an exempt person, which was granted otherwise than in a relevant European State and which has not previously been accepted by a relevant European State as qualifying him to practise as a specialist in that State, meets (or is to be treated as meeting) the requirements of article 25 of the Directive; including issuing a statement of eligibility for registration if so requested. | £1,850<br>£624 in respect of a Re-submitted Application or a Review | article 14(4), article 14(5A) and article 14(11) |
+| 8\. | Application for a determination that— |  |  |
+|  | - (a) specialist training undertaken or specialist qualifications awarded outside the United Kingdom in a medical speciality not listed in Schedule 3 to the Order; or<br>- (b) knowledge of or experience in a medical speciality derived from academic or research work has given a person a level of knowledge and skill consistent with practise as a consultant in the National Health Service; including, where applicable, a determination that a specialist qualification held by an exempt person, which was granted other than in a relevant European State and which has not previously been accepted by a relevant European State as qualifying him to practise as a specialist in that State meets (or is to be treated as meeting) the requirements of article 25 of the Directive, and the issuing of a statement of eligibility for registration if so requested. | £1,850<br>£624 in respect of a Re-submitted Application or a Review | article 14(5), article 14(5A) and article 14(11) |
+| 9\. | Application for a determination that an applicant is an exempt person–<br>- (a) whose case falls within regulation 3(9)(a), (c) or (e) of the General Systems Regulations and to whom regulations 20 to 26 of those Regulations apply; and<br>- (b) has a right to practise as a specialist in the United Kingdom by virtue of Part 3 of those Regulations (having, in particular, successfully completed any adaptation period) is an eligible general systems specialist; including the giving of reasons where required. | £1,850<br>£624 in respect of a Re-submitted Application or a Review | article 14A(1) and article 14A(2) |
+| 10\. | Application for a duplicate copy of any certificate issued by the STA, the JCPTGP or the Board. | £81 | article 24(1) |
+| 11\. | Application to an Appeal Panel in respect of a decision of the Board—<br>- (a) made by a person falling within article 21(2)(e), (fa), (g) or (ha), in the case where the appeal relates to whether that person has successfully completed a measure required by the Board under article 11(5), 11A(2)(b), 14(9) or 14A(2)(b); or<br>- (b) made by a person falling within article 21(2)(a) to (k), in any other case. | £1,456<br>(Written Appeal)<br>£2,184 (Oral Appeal) | article 21(1), article 21(3) and article 21(3A) |
+| 12\. | Application for a certificate stating that specialist or general practice qualifications awarded in the United Kingdom, which do not correspond to the titles set out in respect of the United Kingdom at points 5.1.2, 5.1.3 or 5.1.4 of Annex V to the Directive, certify completion of training that is in accordance with (or is to be treated as in accordance with) article 25 or, as the case may be, article 28 of the Directive. | £161 | article 19 and Part 2 of<br>Schedule 7A to the Order |
+| 13\. | Application for a certificate stating that a person’s CCT is a qualification covered by the Directive. | £161 | article 19 and Part 2 of Schedule 7A to the Order |
+| 14\. | Application for the provision of information to other competent authorities concerning the training in the United Kingdom of a specialist or general practitioner to whom Chapter 1 of Part 3 of the General Systems Regulations applies. | £161 | article 19 and Part 2 of Schedule 7A to the Order |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order, which is made under the General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003, approves rules made by the Postgraduate Medical Education and Training Board (“the Board”).
+
+The Rules specify fees that are payable to the Board in respect of the exercise by the Board of certain functions. The functions in respect of which fees are payable include—
+
+- (a) issuing Certificates of Training for general practitioners and specialists;
+- (b) applications to the Board to determine whether certain persons not holding Certificates of Completion of Training have met particular standards of equivalence; and
+- (c) appeals against the Board’s decisions.
+
+The fees relating to certificates of completion of training for general practitioners and specialists under articles 11 and 14 are increased by 48% and all other fees are increased by approximately 4%.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250); relevant amending S.Is are [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2005/1872](https://www.legislation.gov.uk/uksi/2005/1872), [2004/865](https://www.legislation.gov.uk/uksi/2004/865), [1947](https://www.legislation.gov.uk/uksi/2004/1947), [2261](https://www.legislation.gov.uk/uksi/2004/2261) and [3038](https://www.legislation.gov.uk/uksi/2004/3038) and [S.R. 2004/156](https://www.legislation.gov.uk/nisr/2004/156).
+
+[^f00002]: Footnote: [S.I. 2007/565](https://www.legislation.gov.uk/uksi/2007/565).
+
+[^f00003]: Footnote: The Rules, signed on 17th June 2005, are available from the Postgraduate Medical Education and Training Board’s website – www.pmetb.org.uk.

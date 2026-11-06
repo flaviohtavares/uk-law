@@ -1,0 +1,19 @@
+---
+title: Road Traffic Act 1972, section 208
+act: Road Traffic Act 1972
+section: '208'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/1972/20/section/208
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Road Traffic Act 1972, section 208
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 208. Commencement
+
+This Act shall come into operation on 1st July 1972.

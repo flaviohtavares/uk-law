@@ -1,0 +1,107 @@
+---
+title: The County Council of Hampshire (M275 Rudmore Flyover Portsmouth) Motorway Scheme 1987 Confirmation Instrument 1987
+id: uksi/1987/2147
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-11-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/2147
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/2147/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The County Council of Hampshire (M275 Rudmore Flyover Portsmouth) Motorway Scheme 1987 Confirmation Instrument 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 2147
+
+HIGHWAYS, ENGLAND AND WALES
+
+The County Council of Hampshire (M275 Rudmore Flyover Portsmouth) Motorway Scheme 1987 Confirmation Instrument 1987
+
+Made
+
+30th November 1987
+
+The Secretary of State for Transport makes this Instrument in exercise of powers conferred by sections 16, 17 and 324 of the Highways Act 1980[^f00001], and now vested in him[^f00002], and of all other enabling powers:
+
+**1.** The County Council of Hampshire (M275 Rudmore Flyover, Portsmouth) Motorway Scheme 1987 is hereby confirmed without modification.
+
+**2.** The said Scheme as confirmed (hereinafter referred to as “the Scheme”) is set out in the Schedule hereto and copies of the Scheme with its accompanying plan are deposited at the Department of Transport and at the offices of the County Council of Hampshire at The Castle, Winchester, Hampshire, SO23 8UJ.
+
+**3.** The Scheme will come into force on the date on which notice that it has been confirmed is first published in accordance with paragraph 1 of Schedule 2 to the Highways Act 1980.
+
+**4.** This Instrument may be cited as the County Council of Hampshire (M275 Rudmore Flyover Portsmouth) Motorway Scheme 1987 Confirmation Instrument 1987.
+
+Signed by authority of the Secretary of State
+
+D. Gruffydd Jones
+
+Regional Director South East Region
+
+Department of Transport
+
+30th November 1987
+
+## THE SCHEDULE TO THE INSTRUMENT — THE COUNTY COUNCIL OF HAMPSHIRE (M275 RUDMORE FLYOVER PORTSMOUTH) MOTORWAY SCHEME 1987
+
+The County Council of Hampshire make this Scheme in exercise of their powers under sections 16, 17 and 324 of the Highways Act 1980 and of all other enabling powers:—
+
+**1.** The Council are authorised to provide along the route described in the Schedule to this Scheme a special road for the use of traffic of Classes I and II of the classes of traffic set out in Schedule 4 to the Highways Act 1980.
+
+**2.** The centre line of the special road is indicated by a heavy black line on the deposited plan.
+
+**3.** The centre line of the special road may deviate from the centre line shown on the deposited plan by not more than 5 metres on either side of the centre of that line.
+
+**4.** In this Scheme:—
+
+|  |  |
+| --- | --- |
+| “the Council” | means the County Council of Hampshire. |
+| “the deposited plan” | means the plan numbered 318/7/12, marked “The County Council of Hampshire (M275 Rudmore Flyover, Portsmouth) Motorway Scheme 1987” sealed with the Common seal of the Council and deposited at the offices of the Council at The Castle, Winchester, Hampshire. A certified copy is also deposited at the Department of Transport. |
+| “the special road” | means the special road mentioned in Article 1 of this Scheme. |
+
+**5.** This Scheme may be cited as the County Council of Hampshire (M275 Rudmore Flyover, Portsmouth) Motorway Scheme 1987.
+
+### THE SCHEDULE TO THE SCHEME — THE ROUTE OF THE SPECIAL ROAD
+
+A route, being a flyover about 740 metres in length, starting at a point on the M275 270 metres northwest of Rudmore Roundabout, Portsmouth in the County of Hampshire and proceeding in a generally south easterly direction passing over Rudmore Roundabout and ending at a point 350 metres south of Rudmore Roundabout.
+
+### THE COUNTY COUNCIL OF HAMPSHIRE (M275 RUDMORE FLYOVER, PORTSMOUTH) MOTORWAY SCHEME 1987
+
+THIS PLAN SHOWS THE CENTRE LINE OF THE SPECIAL ROAD BUT NOT THE WIDTH OR CONSTRUCTIONAL DETAILS
+
+LOCATION PLAN SCALE:1/10560
+
+SCHEME PLAN SCALE:1/1250
+
+A.W. JACOMB, B. SC, F. ENG.
+
+COUNTY SURVEYOR
+
+THE CASTLE,
+
+WINCHESTER
+
+[image: see source](https://www.legislation.gov.uk/uksi/1987/2147/images/uksi_19872147_en_001) [image: see source](https://www.legislation.gov.uk/uksi/1987/2147/images/uksi_19872147_en_002)
+
+Given under the Common Seal of the Council on the 24th day of February 1987
+
+THE COMMON SEAL of THE HAMPSHIRE COUNTY COUNCIL was hereunto affixed in the presence of:—
+
+R. A. Leyland
+
+County Secretary
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00002]: Footnote: S.I. [1981/238](https://www.legislation.gov.uk/uksi/1981/238).

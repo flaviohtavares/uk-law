@@ -1,0 +1,166 @@
+---
+title: The Motor Vehicles (Driving Licences) (Amendment) Regulations 2002
+id: uksi/2002/2641
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-10-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/2641
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/2641/pdfs/uksi_20022641_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/2641/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (Driving Licences) (Amendment) Regulations 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 2641
+
+ROAD TRAFFIC
+
+The Motor Vehicles (Driving Licences) (Amendment) Regulations 2002
+
+Made
+
+21st October 2002
+
+Laid before Parliament
+
+23rd October 2002
+
+Coming into force
+
+14th November 2002
+
+The Secretary of State for Transport, in exercise of the powers conferred by sections 89(3), (4) and (5), 105(1) and (3) of the Road Traffic Act 1988[^f00001], after consulting with representative organisations in accordance with section 195(2) of that Act and, in the case of regulations 4, 6, 7 and 8 with the approval of the Treasury[^f00002], hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment) Regulations 2002 and shall come into force on 14th November 2002.
+
+## 2. Amendments to the Motor Vehicles (Driving Licences) Regulations 1999
+
+The Motor Vehicles (Driving Licences) Regulations 1999[^f00003] are amended in accordance with regulations 3 to 8.
+
+**3.** In regulation 3(1) in the definition of “theory test” for the words “theoretical test” there shall be substituted “test of driving theory and hazard perception”.
+
+**4.** In regulation 30(1)(b) for “£15.50” there shall be substituted “£18”.
+
+**5.** In regulation 40—
+
+(1) In paragraph (2)(a) for the words “theoretical test” there shall be substituted the words “test of driving theory and hazard perception”.
+
+(2) For paragraph (5)(a) there shall be substituted—
+
+> - (a) the theory test if he satisfies the person conducting the test—
+>   - (i) in respect of the test of driving theory described in paragraph (8A) of this knowledge and understanding of the specific matters; and
+>   - (ii) in respect of the hazard perception test described at paragraph (8B) that his performance in the test demonstrates an ability to perceive hazards on the road;
+
+(3) For paragraph (8) there shall be substituted—
+
+> (8) The theory test shall be conducted in two parts, one part being the test of driving theory described in paragraph (8A) and the other being the hazard perception test described in paragraph (8B).
+
+(4) After paragraph (8) there shall be inserted the following—
+
+> (8A) The test of driving theory shall—
+>
+> - (a) be conducted as an approved form of examination consisting of 35 questions, the questions being in either a multiple choice or multiple response form and testing a candidate on the specified matters in accordance with Schedule 7; and
+> - (b) have a duration of 40 minutes or, in the circumstances specified in paragraph (9), 80 minutes.
+>
+> (8B) The hazard perception test shall—
+>
+> - (a) be conducted by means of the exhibition of film clips that take the perspective of the driver of a motor vehicle and show, at some point during each film clip, one or more hazards to traffic occurring on or near the road; and
+> - (b) require the candidate (using electronic equipment provided for the purpose and capable of recording the exact moment of each response) to indicate during each film clip the moment he observes a hazard relating to traffic on the road.
+>
+> (8C) For the purposes of this regulation—
+>
+> - “an approved form of examination” means a form of examination which is conducted in writing or by means of data recorded on equipment operating in response to instructions given by the candidate, and;
+> - “film clip” means a sequence of visual images displayed electronically.
+
+**6.** In Regulation 47(8) for “£5” there shall be substituted “£7.50”.
+
+**7.** In Regulation 48(3)(a) for “£2.43” there shall be substituted “£2.75”.
+
+**8.** For the table in Schedule 5 (fees for practical and unitary tests) there shall be substituted the table in the Schedule to these Regulations.
+
+Signed by authority of the Secretary of State for Transport
+
+David Jamieson
+
+Parliamentary Under Secretary of State,
+
+Department for Transport
+
+20th October 2002
+
+We approve the making of these Regulations.
+
+Philip Woolas
+
+Jim Fitzpatrick
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+21st October 2002
+
+## SCHEDULE — SUBSTITUTED TABLES IN SCHEDULE 5
+
+Regulation 8
+
+<table>
+<thead>
+<tr><th>(1)</th><th colspan="2">(2)</th><th colspan="2">(3)</th></tr>
+<tr><th>Category or sub-category of vehicle</th><th colspan="2">Test, other than an extended driving test commencing:</th><th colspan="2">Extended driving test, commencing:</th></tr>
+</thead>
+<tbody>
+<tr><td></td><td>(a) During normal hours</td><td>(b) Out of hours</td><td>(a) During normal hours</td><td>(b) Out of hours</td></tr>
+<tr><td>1. A1, A and P</td><td>£48.00</td><td>£57.00</td><td>£96.00</td><td>£114.00</td></tr>
+<tr><td>2. B1, B, F, G, H and K</td><td>£39.00</td><td>£48.00</td><td>£78.00</td><td>£96.00</td></tr>
+<tr><td>3. B+E, C1, C1+E, D1, D1+E, C, C+E, D and D+E</td><td>£76.00</td><td>£94.00</td><td>—</td><td>—</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Motor Vehicles (Driving Licences) Regulations 1999 (“the principal Regulations”) as follows.
+
+Regulations 3 and 5 amend, respectively, regulations 3 and 40 of the principal regulations by replacing the theory test currently taken by those wishing to obtain a driving licence with a two-part theory test. Part I of the new two-part theory test consists of the old theory test, consisting of a test of driving theory. Part II consists of a test of the candidate’s ability to recognise hazards to driving (“a hazard perception test”).
+
+Regulation 4 increases the amount that may be charged by the Secretary of State to those applying to take the theory test from £15.50 to £18. (This amounts to an increase of approximately 16%; this is the first increase in the charge since the principal Regulations were made in 1999).
+
+Regulation 6 increases the amount that the Secretary of State may charge examiners not employed by the Driving Standards Agency for the supply of theory test pass certificates from £5 to £7.50. (This amounts to an increase of 50%; this is the first increase in the charge since the principal Regulations were made in 1999).
+
+Regulation 7 increases the amount that the Secretary of State may charge examiners appointed by the Secretary of State for Defence for the supply of practical or unitary test pass certificates from £2.43 to £2.75. (This amounts to an increase of 13%; this is the first increase in the charge since the principal Regulations were made in 1999).
+
+Regulation 8 and the Schedule amend the fees payable upon an application for a practical or a unitary driving test where the application is made on or after the coming into force of these Regulations. The following tables show the new fees with the percentage increase in brackets.
+
+ORDINARY TESTS
+
+| Type of vehicle | Test commenced between 8.30am and 4.30pm on a working day | Test commenced at any other time |
+| --- | --- | --- |
+| Motor bicycles and mopeds | £48 (3.2%) | £57 (1.8%) |
+| Motor cars, tractors and other minor categories | £39 (2.6%) | £48 (2.1%) |
+
+**EXTENDED TESTS**
+
+| Type of vehicle | Test commenced during normal hours | Test commenced during evenings or weekends |
+| --- | --- | --- |
+| Motor cylces and mopeds | £96 (3.2%) | £114 (1.8%) |
+| Motor cars, tractors and minor categories | £78 (2.6%) | £96 (2.1%) |
+
+A Regulatory Impact Assessment for this Instrument has been prepared and copies can be obtained from the Policy Branch of the Driving Standards Agency, Stanley House, 56 Talbot Street, Nottingham NG1 5GU. A copy of the Regulatory Impact Assessment has been placed in the library of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Section 89(3) was amended by the Road Traffic Act 1991 ([1991 c. 40)](https://www.legislation.gov.uk/ukpga/1991/40); *see* section 108(1) for the definition of “prescribed” and “regulations”.
+
+[^f00002]: Footnote: *See* section 105(4) of the Road Traffic Act 1988. Section 105(4) was amended by the Driving Licences (Community Driving Licence) Regulations 1998 ([S.I. 1998/1420](https://www.legislation.gov.uk/uksi/1998/1420)).
+
+[^f00003]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864). Schedule 5 was substituted by the Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2001 ([S.I. 2001/2779](https://www.legislation.gov.uk/uksi/2001/2779)).

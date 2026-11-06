@@ -1,0 +1,670 @@
+---
+title: The Solicitors Disciplinary Tribunal (Appeals and Amendment) Rules 2011
+id: uksi/2011/2346
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-09-22'
+text_date: '2019-11-25'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/2346
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2346/pdfs/uksi_20112346_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2346/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Solicitors Disciplinary Tribunal (Appeals and Amendment) Rules 2011
+
+> Text as at 2019-11-25.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 2346
+
+Legal Profession, England And Wales
+
+The Solicitors Disciplinary Tribunal (Appeals and Amendment) Rules 2011
+
+Made
+
+22nd September 2011
+
+Coming into force
+
+1st October 2011
+
+The Solicitors Disciplinary Tribunal in exercise of the powers conferred upon it by section 46 of the Solicitors Act 1974[^f00001] as applied by paragraph 14C(2) of Schedule 2 to the Administration of Justice Act 1985[^f00002] and section 44E(2) of the Solicitors Act 1974 and following the approval of the Legal Services Board[^f00003] makes the following Rules:
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and application[^key-687032b3b5a84515341b7102fdbb4e7b]
+
+(1) These Rules may be cited as the Solicitors Disciplinary Tribunal (Appeals and Amendment) Rules 2011 and shall come into force on 1st October 2011.
+
+(2) These Rules (except rule 30) apply in relation to—
+
+- (a) appeals to the Tribunal under paragraph 14C of Schedule 2 to the Administration of Justice Act 1985; [^key-b7947120dd10aa340cd37f9cae61db16]...
+- (b) appeals to the Tribunal under section 44E of the 1974 Act (appeals against disciplinary action under section 44D) ; and[^key-0f4b43e3b738864d2e11d9bbc7d52d67]
+- (c) appeals to the Tribunal in respect of decisions made by the Society which are appealable under Part 5 of the 2007 Act or the Society’s licensing rules and which, by virtue of article 4(1) of the Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (No. 2) Order 2011 are appeals which may be heard and determined by the Tribunal.
+
+### 2. Interpretation[^key-a9157daa743826fd4c74574dd1b329e1]
+
+In these Rules—
+
+- “the 1974 Act” means the Solicitors Act 1974;
+- “the 2007 Act” means the Legal Services Act 2007[^f00004];
+- “the 2019 rules” means the Solicitors (Disciplinary Proceedings) Rules 2019[^key-0bef0a2f22f38711b5b2cc6146c660fc];
+- “**appeal**” means a Schedule 2 appeal , a section 44E appeal or a licensing appeal[^key-59ff6af45cbfbbc6cdffdf5b7869aad1];
+- “**appellant**” means—
+  - (a) a person who makes an appeal to the Tribunal; or
+  - (b) a person added or substituted as an appellant under rule 13(1);
+- “the Board” means the Legal Services Board;
+- “**clerk**” has the same meaning as in the 2019 rules[^key-93a6b84a177a7ed1ff4dd45fd1a307f9];
+- a “[^key-1c039782a4d332607cf8ca6d5307a0ce]**licensing appeal**” means an appeal of the type mentioned in rule 1(2)(c);
+- “**Panel**” means a panel appointed under rule 3 for the hearing of an appeal or any matter connected with an appeal;
+- “**party**” means the appellant or the respondent;
+- “**practice direction**” means a practice direction made under rule 10;
+- “the President” means the President of the Tribunal, appointed under rule 3 of the 2007 rules;
+- “**respondent**” means—
+  - (a) the person who made the decision in respect of which an appeal is made; or
+  - (b) a person added or substituted as a respondent under rule 13(1);
+
+  a “**Schedule 2 appeal**” means an appeal of the type mentioned in rule 1(2)(a);
+
+  a “**section 44E appeal**” means an appeal of the type mentioned in rule 1(2)(b);
+- “the Society” means the Law Society and includes any duly constituted committee of the Law Society or any body or person exercising delegated powers of the Law Society;
+- “[^key-ea06f73efdcda244e2ece7967f784bc7]**the Society’s licensing rules**” means licensing rules made by the Society under section 83 of the 2007 Act (licensing rules);
+- “**solicitor members**” and “**lay members**” have the same meanings as in section 46 of the 1974 Act;
+- a “[^key-49f5c4c27836a9726dfed18ebeb06d5e]**Stay**” means a prohibition on the respondent implementing the decision in respect of which an appeal is made;
+- “the Tribunal” means the Solicitors Disciplinary Tribunal and where a Panel has been appointed for the hearing of an appeal or any matter connected with it, includes a Panel.
+
+## PART 2 — Constitution of appeal panels
+
+### 3. Composition of panel[^key-3589dde20609dd9dbff2afda0f447d7c]
+
+(1) A Panel of at least three members of the Tribunal shall be appointed by the Tribunal for the hearing of any appeal.
+
+(2) Unless the President otherwise directs, the majority of the Panel members shall be solicitor members.
+
+### 4. Appointment of chairman[^key-1bea4fa231855e942342b91f2f0825bf]
+
+The chairman of each Panel shall be appointed by the Tribunal and (unless the President determines otherwise) shall be a solicitor member.
+
+### 5. Delegation[^key-4c50f8bfb91f688b516df89b109bddc4]
+
+(1) The duties to be performed by the clerks shall, in addition to the duties listed in rule 8(6) of the Solicitors (Disciplinary Proceedings) Rules 2019[^key-fba6831b56058d116e3110a3bda4c3b4], include—
+
+- (a) appointing panels under rule 3(1);
+- (b) appointing a chairman of a Panel under rule 4; and
+- (c) giving directions under rules 9, 13 and 19(1).
+
+(2) Paragraph (1) is without prejudice to rule 8(6) of the Solicitors (Disciplinary Proceedings) Rules 2019[^key-09fe88d9af4e738473da007fb3bac271].
+
+(3) No later than the date on which expires the period of 14 days beginning with the date on which the Tribunal sends notice to a party of a decision made by a clerk in exercise of functions of a judicial nature under paragraph (1), that party may send an application in writing to the Tribunal for that decision to be considered afresh by a Panel or a single solicitor member.
+
+(4) The following powers of the Tribunal may be exercised by a single solicitor member—
+
+- (a) giving directions under rules 9, 13,14(2), (4) and (5), 15 and 19(1);
+- (b) taking action under rule 11(2)(a) and (b);
+- (c) making a decision under rule 14(1);
+- (d) giving consent under rule 16(2).
+
+## PART 3 — Appeal procedure
+
+### 6. Notice of appeal[^key-f418c961e5c142521ca8270fd0ed235e]
+
+(1) An appellant must start proceedings for an appeal by sending or delivering a notice of appeal to the Tribunal.
+
+(2) In the case of a Schedule 2 appeal, the notice of appeal must be sent or delivered so that it is received by the Tribunal no later than the date on which expires the period of 28 days beginning with the date on which the appellant was notified in writing of the decision in question under paragraph 14B(4) of Schedule 2 to the Administration of Justice Act 1985.
+
+(3) In the case of a section 44E appeal, the notice of appeal must be sent or delivered so that it is received by the Tribunal no later than the date on which expires the period of 28 days beginning with the date on which the appellant was notified in writing of the decision in question under section 44D(4) of the 1974 Act.
+
+(4) The notice of appeal must set out—
+
+- (a) the name and address of the appellant;
+- (b) the name and address of the appellant’s representative (if any);
+- (c) an address where documents for the appellant may be sent or delivered;
+- (d) the basis on which the appellant has standing to start proceedings before the Tribunal;
+- (e) the name and address of the respondent;
+- (f) details of the decision or act to which the proceedings relate;
+- (g) the result the appellant is seeking;
+- (h) the grounds on which the appellant relies;
+- (ha)[^key-0a3e90a5ff052641a03639093ac3c1c1] any application for an order for a Stay, if the appellant is allowed to make such an application under the Society’s licensing rules;
+- (i) whether the appellant would be content for the case to be dealt with without a hearing if the Tribunal considers it appropriate; and
+- (j) any further information or documents required by a practice direction.
+
+(4A)[^key-447047766590c1b04e03b68c1b59b859] In the case of a licensing appeal made under the Society’s licensing rules, if no time limit for the making of an appeal is prescribed under those rules, the notice of appeal must be sent or delivered so that it is received by the Tribunal no later than the date on which expires the period of 28 days beginning with the date on which the appellant was notified in writing of the decision which is the subject of the appeal.
+
+(5) The appellant must send or deliver with the notice of appeal a copy of any written record of the decision in respect of which the appeal is made, and any statement of reasons for that decision that the appellant has or can reasonably obtain.
+
+(6) The appellant must send or deliver three additional copies of the notice of appeal and any accompanying documents to the Tribunal at the same time as the appellant sends or delivers the notice of appeal to the Tribunal.
+
+(7) The appellant must send or deliver a copy of the notice of appeal and any accompanying documents to the respondent at the same time as the appellant sends or delivers the notice of appeal to the Tribunal.
+
+### 7. Response to notice of appeal[^key-64a184f4e791744e0613482d3e9a2b9b]
+
+(1) The respondent must send or deliver to the Tribunal a response to the notice of appeal so that it is received no later than the date on which expires the period of 28 days beginning with the date on which the respondent received the notice of appeal.
+
+(2) The response must set out at least—
+
+- (a) the name and address of the respondent;
+- (b) the name and address of the respondent’s representative (if any);
+- (c) an address where documents for the respondent may be sent or delivered;
+- (d) any further information or documents required by a practice direction or a direction given under these Rules; and
+- (e) whether the respondent would be content for the case to be dealt with without a hearing if the Tribunal considers it appropriate.
+
+(3) The response must include a statement as to whether the respondent opposes the appellant’s case and, if so, any grounds for such opposition which are not contained in another document sent or delivered with the response.
+
+(4) The respondent must send or deliver with the response—
+
+- (a) a copy of any written record of the decision, in respect of which the appeal is made , and any statement of reasons for that decision, that the appellant did not send or deliver with the notice of appeal and the respondent has or can reasonably obtain; and
+- (b) any documents relied upon by the respondent in making the decision in respect of which the appeal is made and which the respondent considers are relevant to the appeal.
+
+(5) If the respondent sends or delivers the response to the Tribunal later than the time required by paragraph (1) or by any extension of time under rule 9(2)(a), the response must include a request for an extension of time and the reason why the response was not sent or delivered in time.
+
+(6) The respondent must send or deliver three additional copies of the response and any accompanying documents to the Tribunal at the same time as the respondent sends or delivers the response to the Tribunal.
+
+(7) The respondent must send or deliver a copy of the response and any accompanying documents to the appellant at the same time as it sends or delivers the response to the Tribunal.
+
+### 8. Appellant’s reply[^key-5d9db6ea83d5c0a49244b34b8486d1cb]
+
+(1) The appellant may send or deliver to the Tribunal—
+
+- (a) a reply to the respondent’s response; and
+- (b) any additional documents relied upon by the appellant in the reply.
+
+(2) Any reply and additional documents must be sent or delivered to the Tribunal so that they are received no later than the date on which expires the period of 14 days beginning with the date on which the appellant received the notice from the respondent.
+
+(3) If the appellant sends or delivers a reply to the Tribunal later than the time required by paragraph (2) or by any extension of time under rule 9(2)(a) the reply must include a request for an extension of time and the reason why the reply was not sent or delivered in time.
+
+(4) The appellant may send or deliver with the reply a list of documents on which the appellant relies in support of the appeal, and which the appellant did not send or deliver with the notice of appeal.
+
+(5) The appellant must send or deliver three additional copies of the reply and any accompanying documents to the Tribunal at the same time as the appellant sends or delivers the reply to the Tribunal.
+
+(6) The appellant must send or deliver a copy of any reply and any accompanying documents to the respondent at the same time as the appellant sends or delivers the reply to the Tribunal.
+
+(7) If the appellant has sent or delivered a list of documents under paragraph (4), the appellant must within 7 days of receiving a request from the respondent or the Tribunal—
+
+- (a) send or deliver to the respondent or Tribunal a copy of any document specified in the list (and in the case of the Tribunal, any additional copies of the document requested by the Tribunal, up to a maximum of four in number); or
+- (b) make such document available to the respondent or Tribunal to read or copy.
+
+### 9. Directions and case management[^key-8e6c12650dac92861916a220d4370fe9]
+
+(1) The Tribunal may give a direction in relation to the conduct or disposal of appeal proceedings at any time, including a direction amending, suspending or setting aside an earlier direction.
+
+(2) In particular, and without restricting the general powers in paragraph (1) and rule 18, the Tribunal may—
+
+- (a) extend or shorten the time for complying with any rule, practice direction or direction, unless such extension or shortening would conflict with a provision of another enactment (or of any rule made under another enactment) containing a time limit;
+- (b) consolidate or hear together two or more sets of proceedings or parts of proceedings raising common issues, or treat a case as a lead case (whether under rule 15 or otherwise);
+- (ba)[^key-86ff407aa3d82530ff53ef2707b3b25b] hear any application for an Order for a Stay;
+- (c) permit or require a party to amend a document;
+- (d) permit or require a party or another person to provide documents, information or submissions which are relevant to the proceedings to the Tribunal or a party;
+- (e) deal with an issue in the proceedings as a preliminary issue;
+- (f) hold a hearing to consider any matter, including a case management issue;
+- (g) decide the form of any hearing;
+- (h) adjourn or postpone a hearing;
+- (i) require a party to produce a bundle for a hearing;
+- (j) require a party to provide a skeleton argument;
+- (k) decide the place and time of any hearing;
+- (l) make requirements about documentation and inspection:
+- (m) stay proceedings;
+- (n) suspend the effect of its own decision pending the determination by the High Court of an application for permission to appeal against, and any appeal of, that decision.
+
+(3) A clerk may appoint a time and place for the review of the progress of the matter and shall notify the parties of the date, time and place of any such review.
+
+(4) A clerk may refer to the Tribunal any matter for a decision or directions and the Tribunal may itself or on the application of any party make a decision on such terms as to the Tribunal shall appear just—
+
+- (a) to adjourn any hearing listed for directions or for a substantive hearing;
+- (b) to agree to the amendment of any document or the correction of any matter;
+- (c) to make any directions which shall appear necessary or appropriate to secure the timely hearing of the appeal.
+
+(5) Any hearing under this rule shall be held in public unless rules 23(2) or (3) applies.
+
+### 10. Practice directions[^key-4bd555e79f8df9c50d06aa2a0378719e]
+
+(1) The Tribunal(or a panel of Tribunal members consisting of not less than 5 members of whom no fewer than 2 shall be lay members) may give such notices or make such directions concerning the practices or procedures of the Tribunal as are consistent with these Rules and as shall seem appropriate.
+
+(2) The Tribunal shall promulgate notices or directions given or made under paragraph (1) under the authority of the President.
+
+### 11. Failure to comply with rules, practice directions or tribunal directions[^key-aa8c8787b49c44449b3647d4197a64be]
+
+(1) An irregularity resulting from a failure to comply with any provision of these Rules, a practice direction or a direction given under these Rules does not of itself render void the appeal or any step taken in the appeal.
+
+(2) If a party has failed to comply with a requirement in these Rules, a practice direction or a direction given under these Rules, the Tribunal may take such action as the Tribunal considers just, which may include—
+
+- (a) waiving the requirement;
+- (b) requiring the failure to be remedied;
+- (c) exercising its power under rule 12;
+- (d) otherwise barring or restricting a party’s participation in the appeal.
+
+(3) The Tribunal may not bar or restrict a party’s participation in the appeal under paragraph (2)(d) without first giving the party an opportunity to make representations in relation to the proposed action.
+
+### 12. Striking out a party’s case[^key-ff5a40d6dd475f9316178a94eda14e5e]
+
+(1) The Tribunal must strike out the whole or a part of an appeal if the Tribunal does not have jurisdiction in relation to the appeal or that part of it.
+
+(2) The Tribunal may strike out the whole or a part of an appeal if—
+
+- (a) the appellant has failed to comply with a direction given under these Rules which stated that failure by the appellant to comply with the direction could lead to the striking out of the appeal or part of it;
+- (b) the appellant has failed to co-operate with the Tribunal to such an extent that the Tribunal cannot deal with the appeal fairly and justly; or
+- (c) the Tribunal considers there is no reasonable prospect of the appellant’s case, or part of it, succeeding.
+
+(3) The Tribunal may not strike out the whole or a part of the appeal under paragraph (1) or (2)(b) or (c) without first giving the appellant an opportunity to make representations in relation to the proposed striking out.
+
+(4) If the appeal, or part of it, has been struck out under paragraph (2)(a), the appellant may apply for the appeal, or part of it, to be reinstated.
+
+(5) An application under paragraph (4) must be made in writing and received by the Tribunal no later than the date on which expires the period of 28 days beginning with the date on which the Tribunal sent notification of the striking out to the appellant.
+
+(6) This rule applies to a respondent as it applies to an appellant except that—
+
+- (a) a reference to the striking out of the whole or a part of the appeal is to be read as a reference to the striking out of the whole or a part of the response to the appeal; and
+- (b) a reference to an application for the reinstatement of an appeal which has been struck out is to be read as a reference to an application for the reinstatement of a response to an appeal which has been struck out.
+
+### 13. Addition, substitution and removal of parties[^key-a5464016739c7c4a948b21e3e62e3365]
+
+(1) The Tribunal may give a direction adding, substituting or removing a party as an appellant or a respondent.
+
+(2) If the Tribunal gives a direction under paragraph (1) it may give such consequential directions as it considers appropriate.
+
+(3) A person who is not a party may apply to the Tribunal to be added or substituted as a party.
+
+(4) If a person who is entitled to be a party to an appeal by virtue of another enactment applies to be added as a party, and any conditions applicable to that entitlement have been satisfied, the Tribunal must give a direction adding that person as a respondent or, if appropriate, as an appellant.
+
+### 14. Prevention of disclosure or publication of documents and information[^key-ba12b4fbf18e30e9a7a4de28e8727b85]
+
+(1) The Tribunal may make a decision prohibiting the disclosure or publication of—
+
+- (a) specified documents or information relating to any appeal proceedings; or
+- (b) any matter likely to lead members of the public to identify any person whom the Tribunal considers should not be identified.
+
+(2) The Tribunal may give a direction prohibiting the disclosure of a document or information to a person if—
+
+- (a) the Tribunal is satisfied that such disclosure would be likely to cause that person or some other person serious harm; and
+- (b) the Tribunal is satisfied, having regard to the interests of justice, that it is proportionate to give such a direction.
+
+(3) If a party (“**the first party**”) considers that the Tribunal should give a direction under paragraph (2) prohibiting the disclosure of a document or information to another party (“**the second party**”), the first party must—
+
+- (a) exclude the relevant document or information from any documents that will be sent or delivered to the second party; and
+- (b) send or deliver to the Tribunal the excluded document or information, and the reason for its exclusion, so that the Tribunal may decide whether the document or information should be disclosed to the second party or should be the subject of a direction under paragraph (2).
+
+(4) If the Tribunal gives a direction under paragraph (2) which prevents disclosure to a party who has appointed a representative, the Tribunal may give a direction that the documents or information be disclosed to that representative if the Tribunal is satisfied that—
+
+- (a) disclosure to the representative would be in the interests of the party; and
+- (b) the representative will act in accordance with paragraph (5).
+
+(5) Documents or information disclosed to a representative in accordance with a direction under paragraph (4) must not be disclosed either directly or indirectly to any other person without the Tribunal’s consent.
+
+(6) The Tribunal may, on its own initiative or on the application of a party, give a direction that certain documents or information must or may be disclosed to the Tribunal on the basis that the Tribunal will not disclose such documents or information to other persons, or specified other persons.
+
+(7) A party making an application for a direction under paragraph (6) may withhold the relevant documents or information from other parties until the Tribunal has granted or refused the application.
+
+(8) Unless the Tribunal considers that there is good reason not to do so, the Tribunal must send notice that a party has made an application for a direction under paragraph (6) to each other party.
+
+(9) The Tribunal must conduct proceedings and record its decision and reasons appropriately so as not to undermine the effect of a decision made under paragraph (1) or a direction given under paragraph (2) or (6).
+
+### 15. Lead cases[^key-985efa8e90266d7d781d557c682a288b]
+
+(1) This rule applies if—
+
+- (a) two or more appeals have been started before the Tribunal;
+- (b) in each such appeal the Tribunal has not made a decision finally disposing of all issues in the proceedings; and
+- (c) the appeals give rise to common or related issues of fact or law.
+
+(2) The Tribunal may give a direction—
+
+- (a) specifying one or more appeals falling under paragraph (1) as a lead case or lead cases; and
+- (b) staying the other appeals falling under paragraph (1) (“the related cases”).
+
+(3) When the Tribunal makes a decision in respect of the common or related issues—
+
+- (a) the Tribunal must send or deliver a copy of that decision to each party in each of the related appeals; and
+- (b) subject to paragraph (4), that decision shall be binding on each of those parties.
+
+(4) No later than the date on which expires the period of 28 days beginning with the date on which the Tribunal sent or delivered a copy of the decision to a party under paragraph (3)(a), that party may apply in writing for a direction that the decision does not apply to, and is not binding on the parties to, a particular related appeal.
+
+(5) The Tribunal must give directions in respect of appeals which are stayed under paragraph (2)(b), providing for the disposal of or further directions in those appeals.
+
+(6) If the lead case or cases lapse or are withdrawn before the Tribunal makes a decision in respect of the common or related issues, the Tribunal must give directions as to—
+
+- (a) whether another appeal or other appeals are to be specified as a lead case or lead cases; and
+- (b) whether any direction affecting the related appeals should be set aside or amended.
+
+### 16. Withdrawal[^key-34e9c378a46289a78390019407a4df98]
+
+(1) Subject to paragraph (2), an appellant may give notice of the withdrawal of its appeal, or any part of it, and the respondent may do likewise in respect of its case against the appeal—
+
+- (a) at any time before a hearing to consider the disposal of the appeal (or, if the Tribunal disposes of the appeal without a hearing, before that disposal), by sending or delivering to the Tribunal a written notice of withdrawal; or
+- (b) orally at a hearing.
+
+(2) Notice of withdrawal will not take effect unless the Tribunal consents to the withdrawal, which may be given subject to such order relating to costs as the Tribunal shall think fit.
+
+(3) A party which has withdrawn its appeal or case against the appeal may apply to the Tribunal for the appeal or case to be reinstated.
+
+(4) An application under paragraph (3) must be made in writing and be received by the Tribunal no later than the date on which expires the period of 28 days beginning with—
+
+- (a) the date on which the Tribunal received the notice under paragraph (1)(a); or
+- (b) the date of the hearing at which the appeal or case was withdrawn orally under paragraph (1)(b).
+
+(5) The Tribunal must notify each party in writing of a withdrawal under this rule.
+
+### 17. Consent orders[^key-29d45f21114c02069409c408b66359f5]
+
+(1) The Tribunal may, at the request of the parties and only if it considers it appropriate, make a consent order disposing of the appeal proceedings and making such other appropriate provision as the parties have agreed.
+
+(2) Despite any other provision of these Rules, the Tribunal need not hold a hearing before making an order under paragraph (1), or provide reasons for the order.
+
+### 18. General powers of Tribunal[^key-27f0c18cd6d59a2e74e746680b957cc5]
+
+(1) Subject to the provisions of these Rules, the Tribunal may regulate its own procedure.
+
+(2) The Tribunal may dispense with any requirements of these Rules in respect of notices, statements or other documents, witnesses, service or time in any case where it appears to the Tribunal to be just so to do.
+
+### 19. Disclosure, evidence and submissions[^key-c0ab89182c49b22ba4ba74f811ea463e]
+
+(1) Without restriction on the general powers in rule 9 and 18, the Tribunal may give directions in relation to an appeal as to—
+
+- (a) the exchange between parties of lists of documents which are relevant to the appeal, or relevant to particular issues, and the inspection of such documents;
+- (b) the provision by parties of statements of agreed matters;
+- (c) issues on which it requires evidence or submissions;
+- (d) the nature of the evidence or submissions it requires;
+- (e) whether the parties are permitted or required to provide expert evidence, and if so whether the parties must jointly appoint a single expert to provide such evidence;
+- (f) any limit on the number of witnesses whose evidence a party may put forward, whether in relation to a particular issue or generally;
+- (g) the manner in which any evidence or submissions are to be provided, which may include a direction for them to be given—
+  - (i) orally at a hearing; or
+  - (ii) by written submissions or witness statement; and
+- (h) the time at which any evidence or submissions are to be sent or delivered.
+
+(2) The Tribunal may—
+
+- (a) admit evidence whether or not—
+  - (i) the evidence would be admissible in a civil trial in the United Kingdom; or
+  - (ii) the evidence was available to a previous decision maker; or
+- (b) exclude evidence that would otherwise be admissible where—
+  - (i) the evidence was not provided within the time allowed by a direction given under these Rules or a practice direction;
+  - (ii) the evidence was otherwise provided in a manner that did not comply with a direction given under these Rules or a practice direction; or
+  - (iii) it would otherwise be unfair, disproportionate or unnecessary in the interests of justice to admit the evidence.
+
+(3) The Tribunal may consent to a witness giving, or require any witness to give, evidence on oath, and may administer an oath for that purpose.
+
+### 20. Written evidence[^key-7416e358445b046bcfd36adcb1fda61a]
+
+(1) The Tribunal may in its discretion, in respect of a whole case or of any particular fact or facts, proceed and act upon evidence given by Statement.
+
+(2) Every Statement upon which any party proposes to rely shall be sent or delivered to the clerk and to all other parties no later than 21 days before the date fixed for the hearing of the appeal together with a notice in the form of Form 1 in the Schedule.
+
+(3) Any party on whom a notice has been served under paragraph (2) and who requires the attendance, at the hearing, of the witness in question shall, no later than 9 days before the date of the hearing require, in writing, the other party to produce the witness at the hearing.
+
+(4) If no party requires the attendance of a witness in accordance with the provisions of this rule, the Tribunal may accept the Statement in question in evidence.
+
+(5) If any party intends to call as a witness any person who has not produced a Statement, he must, no later than 10 days before the date fixed for the hearing, notify the clerk and any other party to the proceedings of his intention and forthwith send or deliver a copy of a written proof of evidence to the other party and lodge five copies of the proof with the clerk.
+
+(6) In this rule, “**Statement**” means a written statement (including a witness statement) containing a statement that the party putting forward or making the Statement believes the facts stated in the Statement are true.
+
+### 21. Decision with or without a hearing[^key-ed2c76a1e9cfa11a30cdb0ef24a29181]
+
+(1) The Tribunal must hold a hearing before making a decision which disposes of proceedings unless—
+
+- (a) each party has consented to the matter being determined without a hearing; and
+- (b) the Tribunal is satisfied that it can properly determine the issues without a hearing.
+
+(2) Despite anything to the contrary in these Rules, if the Tribunal holds a hearing to consider a preliminary issue, and following the disposal of that preliminary issue no further issue remains to be determined, the Tribunal may dispose of the proceedings without holding any further hearing.
+
+### 22. Listing of appeal hearing[^key-f36240c34dc91add149c27dbe313778f]
+
+(1) Unless the Tribunal has made directions in respect of the hearing of an appeal, a clerk shall appoint a date for the hearing by the Tribunal and shall give notice of the date to the parties.
+
+(2) The hearing shall not, unless all the parties have agreed or the Tribunal has so ordered, take place sooner than the date on which expires the period of 28 days beginning with the date of service of the notice appointing the date of the hearing.
+
+### 23. Public or private hearings[^key-91c250228455e9c229172b4554148e39]
+
+(1) Subject to paragraphs (2) and (3) every appeal hearing shall take place in public.
+
+(2) Any party and any person who claims to be affected by an appeal may seek a decision from the Tribunal that the hearing or part of it be conducted in private on the grounds of—
+
+- (a) exceptional hardship; or
+- (b) exceptional prejudice,
+
+to a party, a witness or any person affected by the appeal.
+
+(3) If it is satisfied that those grounds are met, the Tribunal shall conduct the hearing or part of it in private and make such decision as shall appear to it to be just and proper.
+
+(4) The Tribunal may, before or during a hearing, direct that the hearing or part of it be held in private if—
+
+- (a) the Tribunal is satisfied that it would have granted an application under paragraph (2) had one been made; or
+- (b) in the Tribunal’s view a hearing in public would prejudice the interests of justice.
+
+(5) The Tribunal may give a direction excluding from any hearing, or part of it—
+
+- (a) any person whose conduct the Tribunal considers is disrupting or is likely to disrupt the hearing;
+- (b) any person whose presence the Tribunal considers is likely to prevent another person from giving evidence or making submissions freely;
+- (c) any person who the Tribunal considers should be excluded in order to give effect to the requirement at rule 14(9); or
+- (d) any person where the purpose of the hearing would be defeated by the attendance of that person.
+
+(6) The Tribunal may give a direction excluding a witness from a hearing until that witness gives evidence.
+
+### 24. Decisions[^key-3e429dc68f6a1c29422428fc9baa4e80]
+
+(1) The Tribunal may announce a decision orally at a hearing of or relating to an appeal or may reserve its decision for announcement at a later date. In either case the announcement shall be made in public.
+
+(2) Subject to rule 14(9), the Tribunal must provide to each party as soon as reasonably practicable after making a decision which finally disposes of all issues in the proceedings—
+
+- (a) an order stating the Tribunal’s decision;
+- (b) written reasons for the decision; and
+- (c) notification of any right of appeal against the decision and the time within which, and manner in which, such right of appeal may be exercised.
+
+(3) The Tribunal may provide written reasons for any decision to which paragraph (2) does not apply.
+
+(4) An order under paragraph (2)(a) shall be signed by a member of the Tribunal upon the announcement of the decision and shall, subject to paragraph (5), be filed forthwith with the Society.
+
+(5) The Tribunal may suspend the filing of an order under paragraph (2)(a) if it appears to the Tribunal that there is good reason to do so, in which event the decision shall not take effect until the order is filed with the Society.
+
+(6) Subject to rule 14(9), the Tribunal may publicise a decision in such manner as it thinks fit.
+
+### 25. Re-hearing where a party neither appears nor is represented[^key-191f2bf603137b2b3df1f34166967c54]
+
+(1) At any time before the date on which expires the period of 14 days beginning with the date on which an order was provided to the party under rule 24(2), a party may apply to the Tribunal for a re-hearing of an appeal if—
+
+- (a) he neither attended in person nor was represented at the hearing of the appeal in question; and
+- (b) the Tribunal determined the appeal in his absence.
+
+(2) An application for a re-hearing under this rule shall be made in the form of Form 2 in the Schedule and shall be supported by a statement setting out the facts upon which the applicant wishes to rely.
+
+(3) If satisfied that it is just so to do, the Tribunal may grant the application upon such terms, including as to costs, as it thinks fit. The re-hearing shall be held before a Panel comprised of different members from those who heard the original appeal.
+
+## PART 4 — Miscellaneous
+
+### 26. Sending and delivery of documents[^key-214ab910fead7efc9dcccedebb31fcde]
+
+(1) Any document to be sent or delivered to the Tribunal or to a party under these Rules, a practice direction or a direction given under these Rules must be—
+
+- (a) sent by pre-paid first class post or by document exchange, or delivered by hand, to the address specified for the proceedings;
+- (b) sent by fax (in the case of documents to be sent or delivered to the Tribunal, to the number specified for the proceedings); or
+- (c) sent or delivered by such other method as the Tribunal may permit or direct.
+
+(2) Subject to paragraph (3), if a party provides a fax number, email address or other details for the electronic transmission of documents to them, that party must accept delivery of documents by that method.
+
+(3) If a party informs the Tribunal and all other parties that a particular form of communication, other than pre-paid post or delivery by hand, should not be used to send or deliver documents to that party, that form of communication must not be so used.
+
+(4) If the Tribunal or a party sends a document to a party or the Tribunal by email or any other electronic means of communication, the recipient may request that the sender send or deliver a hard copy of the document to the recipient. The recipient must make such a request as soon as reasonably practicable after receiving the document electronically.
+
+(5) The Tribunal and each party may assume that the address provided by a party or its representative is and remains the address to which documents should be sent or delivered until receiving written notification to the contrary.
+
+(6) If a document submitted to the Tribunal is not written in English, it must be accompanied by an English translation.
+
+### 27. Calculating time[^key-7e7b4b9cbcbb1b726cb5827b87f36219]
+
+(1) An act required by these Rules, a practice direction or a direction given under these Rules to be done on or by a particular day must be done by 4.30p.m.[^key-87de2d54af5fd6a0be8d1690cc921d72] on that day.
+
+(2) If the time specified by these Rules, a practice direction or a direction given under these Rules for doing any act ends on a day other than a working day, the act is done in time if it is done on the next working day.
+
+(3) In this rule “**working day**” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a bank holiday under section 1 of the Banking and Financial Dealings Act 1971[^f00006].
+
+### 28. Representatives[^key-37a5fd90bde1b82e69008b62ba13726f]
+
+(1) A party may appoint a representative (whether a legal representative or not) to represent that party in the proceedings.
+
+(2) If a party appoints a representative, that party (or the representative if the representative is a legal representative) must send or deliver to the Tribunal written notice of the representative’s name and address, together with a copy of the notice.
+
+(3) A party who sends or delivers a notice under paragraph (2) must, at the same time, send or deliver a copy of the notice to the other party.
+
+(4) Anything permitted or required to be done by a party under these Rules, a practice direction or a direction given under these Rules may be done by the representative of that party, except signing a witness statement.
+
+(5) A person who receives due notice of the appointment of a representative—
+
+- (a) must send or deliver to the representative any document which, at any time after the appointment, is required to be sent or delivered to the represented party, and need not send or deliver that document to the represented party; and
+- (b) may assume that the representative is and remains authorised as such until they receive written notification that this is not so from the representative or the represented party.
+
+(6) At a hearing a party may be accompanied by another person whose name and address has not been notified under paragraph (2) but who, with the permission of the Tribunal, may act as a representative or otherwise assist in presenting the party’s case at the hearing.
+
+(7) Paragraphs (2) to (5) do not apply to a person who accompanies a party under paragraph (6).
+
+(8) In this rule “**legal representative**” means a person who, for the purposes of the 2007 Act, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation within the meaning of that Act, an advocate or solicitor in Scotland or a barrister or solicitor in Northern Ireland.
+
+### 29. Costs[^key-b8bcf660adb542331d4c7d185055d92d]
+
+(1) The Tribunal may, at any stage of an appeal, make such order as to costs as the Tribunal shall think fit, including an order—
+
+- (a) disallowing costs incurred unnecessarily; or
+- (b) that costs be paid by any party judged to be responsible for wasted or unnecessary costs, whether arising through failure to comply with time limits or otherwise.
+
+(2) The Tribunal may order that any party bear the whole or a part or a proportion of the costs.
+
+(3) The amount of costs to be paid may either be fixed by the Tribunal or be subject to detailed assessment by a Costs Judge.
+
+(4) The Tribunal may also make an order as to costs under this rule where any appeal is withdrawn or amended.
+
+### 30. Amendment of 2007 rules[^key-07727a7b24adb4a8949f3a939e91d8b0]
+
+(1) The 2007 rules are amended as follows.
+
+(2) In Form 6 in the Schedule, for “21 days” substitute “9 days”.
+
+Signed by authority of the Solicitors Disciplinary Tribunal
+
+Jeremy Barnecutt
+
+President
+
+Solicitors Disciplinary Tribunal
+
+22nd September 2011
+
+## SCHEDULE — FORMS[^key-944591991e17e80cc5a8123f88e3114f]
+
+Rules 20(2) and 25(2)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules regulate procedure for the making, hearing and determination of appeals made to the Solicitors Disciplinary Tribunal in relation to decisions made by the Law Society under section 44D of the Solicitors Act 1974 and paragraph 14C of Schedule 2 to the Administration of Justice Act 1985. They also make a minor amendment to one of the forms in the Schedule to the Solicitors (Disciplinary Proceedings) Rules 2007.
+
+The Rules make provision about the constitution of appeals panels, procedure and rules of evidence, and other miscellaneous matters.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 47](https://www.legislation.gov.uk/ukpga/1974/47). Section 46 was amended by the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), sections 117, Sch 16, Pt 1, paras 1 and 47.
+
+[^f00002]: Footnote: [1985 c.61](https://www.legislation.gov.uk/ukpga/1985/61).
+
+[^f00003]: Footnote: See the Legal Services Act 2007, section 178.
+
+[^key-687032b3b5a84515341b7102fdbb4e7b]: Commencement: Rule 1 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-b7947120dd10aa340cd37f9cae61db16]: Textual amendment: Word in rule 1(2)(a) omitted (23.12.2011) by virtue of [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/3070/article/3/a)
+
+[^key-0f4b43e3b738864d2e11d9bbc7d52d67]: Textual amendment: Rule 1(2)(c) and word inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2011/3070/article/3/b)
+
+[^key-a9157daa743826fd4c74574dd1b329e1]: Commencement: Rule 2 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^f00004]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
+
+[^key-0bef0a2f22f38711b5b2cc6146c660fc]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2011/2346/rule/2) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(a)(i)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/a/i) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+
+[^key-59ff6af45cbfbbc6cdffdf5b7869aad1]: Textual amendment: Words in substituted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/a)
+
+[^key-93a6b84a177a7ed1ff4dd45fd1a307f9]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2011/2346/rule/2) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/a/ii) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+
+[^key-1c039782a4d332607cf8ca6d5307a0ce]: Textual amendment: Words in rule 2 inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/b)
+
+[^key-ea06f73efdcda244e2ece7967f784bc7]: Textual amendment: Words in rule 2 inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/c)
+
+[^key-49f5c4c27836a9726dfed18ebeb06d5e]: Textual amendment: Words in rule 2 inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/d)
+
+[^key-3589dde20609dd9dbff2afda0f447d7c]: Commencement: Rule 3 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-1bea4fa231855e942342b91f2f0825bf]: Commencement: Rule 4 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-4c50f8bfb91f688b516df89b109bddc4]: Commencement: Rule 5 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-fba6831b56058d116e3110a3bda4c3b4]: Textual amendment: Words in rule 5(1) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(b)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/b) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+
+[^key-09fe88d9af4e738473da007fb3bac271]: Textual amendment: Words in rule 5(2) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(c)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/c) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+
+[^key-f418c961e5c142521ca8270fd0ed235e]: Commencement: Rule 6 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-0a3e90a5ff052641a03639093ac3c1c1]: Textual amendment: Rule 6(4)(ha) inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2011/3070/article/5/a)
+
+[^key-447047766590c1b04e03b68c1b59b859]: Textual amendment: Rule 6(4A) inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2011/3070/article/5/b)
+
+[^key-64a184f4e791744e0613482d3e9a2b9b]: Commencement: Rule 7 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-5d9db6ea83d5c0a49244b34b8486d1cb]: Commencement: Rule 8 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-8e6c12650dac92861916a220d4370fe9]: Commencement: Rule 9 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-86ff407aa3d82530ff53ef2707b3b25b]: Textual amendment: Rule 9(2)(ba) inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [6](https://www.legislation.gov.uk/uksi/2011/3070/article/6)
+
+[^key-4bd555e79f8df9c50d06aa2a0378719e]: Commencement: Rule 10 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-aa8c8787b49c44449b3647d4197a64be]: Commencement: Rule 11 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-ff5a40d6dd475f9316178a94eda14e5e]: Commencement: Rule 12 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-a5464016739c7c4a948b21e3e62e3365]: Commencement: Rule 13 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-ba12b4fbf18e30e9a7a4de28e8727b85]: Commencement: Rule 14 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-985efa8e90266d7d781d557c682a288b]: Commencement: Rule 15 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-34e9c378a46289a78390019407a4df98]: Commencement: Rule 16 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-29d45f21114c02069409c408b66359f5]: Commencement: Rule 17 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-27f0c18cd6d59a2e74e746680b957cc5]: Commencement: Rule 18 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-c0ab89182c49b22ba4ba74f811ea463e]: Commencement: Rule 19 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-7416e358445b046bcfd36adcb1fda61a]: Commencement: Rule 20 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-ed2c76a1e9cfa11a30cdb0ef24a29181]: Commencement: Rule 21 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-f36240c34dc91add149c27dbe313778f]: Commencement: Rule 22 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-91c250228455e9c229172b4554148e39]: Commencement: Rule 23 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-3e429dc68f6a1c29422428fc9baa4e80]: Commencement: Rule 24 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-191f2bf603137b2b3df1f34166967c54]: Commencement: Rule 25 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-214ab910fead7efc9dcccedebb31fcde]: Commencement: Rule 26 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-7e7b4b9cbcbb1b726cb5827b87f36219]: Commencement: Rule 27 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-87de2d54af5fd6a0be8d1690cc921d72]: Textual amendment: Word in [rule 27(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/27/1) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(d)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/d) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+
+[^f00006]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-37a5fd90bde1b82e69008b62ba13726f]: Commencement: Rule 28 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-b8bcf660adb542331d4c7d185055d92d]: Commencement: Rule 29 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-07727a7b24adb4a8949f3a939e91d8b0]: Commencement: Rule 30 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+
+[^key-944591991e17e80cc5a8123f88e3114f]: Commencement: Sch. in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)

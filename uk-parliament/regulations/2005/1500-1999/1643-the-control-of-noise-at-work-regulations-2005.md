@@ -1,0 +1,443 @@
+---
+title: The Control of Noise at Work Regulations 2005
+id: uksi/2005/1643
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-06-18'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2005/1643
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/1643/pdfs/uksiem_20051643_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1643/pdfs/uksi_20051643_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1643/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Noise at Work Regulations 2005
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2005 No.1643
+
+HEALTH AND SAFETY
+
+The Control of Noise at Work Regulations 2005
+
+Made
+
+18th June 2005
+
+Laid before Parliament
+
+28th June 2005
+
+Coming into force
+
+6th April 2006
+
+The Secretary of State, in the exercise of the powers conferred on him by sections 15(1), (2), and (5), and 82(2) and (3) of, and paragraphs 1(1)(a) and (c), 8(1), 9, 11, 13(2) and (3), 14, 15(1), 16 and 20 of Schedule 3 to the Health and Safety at Work etc. Act 1974 [^c13315921] (“**the 1974 Act**”) and of all other powers enabling him in that behalf, for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Control of Noise at Work Regulations 2005 and shall come into force on 6th April 2006, except that—
+
+- (a) for the music and entertainment sectors only they shall not come into force until 6th April 2008; and
+- (b) subject to regulation 3(4), regulation 6(4) shall not come into force in relation to the master and crew of a seagoing ship until 6th April 2011.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**daily personal noise exposure**” means the level of daily personal noise exposure of an employee as ascertained in accordance with Schedule 1 Part 1, taking account of the level of noise and the duration of exposure and covering all noise;
+- “emergency services” include—
+  - (a) police, fire, rescue and ambulance services;
+  - (b) Her Majesty's Coastguard;
+- “[^key-8aa7e7edbb3299ba0fa773c3951c2ca7]**enforcing authority**” means the Executive, the Office for Nuclear Regulation, local authority or Office of Rail and Road[^key-42aee2d21105066e99c9c44dcb7b3ed6] determined in accordance with—
+  - (a) section 18(1A) of the Health and Safety at Work etc. Act 1974;
+  - (b) the provisions of the Health and Safety (Enforcing Authority) Regulations 1998; and
+  - (c) the provisions of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006.
+- “**the Executive**” means the Health and Safety Executive;
+- “**exposure limit value**” means the level of daily or weekly personal noise exposure or of peak sound pressure set out in regulation 4 which must not be exceeded;
+- “**health surveillance**” means assessment of the state of health of an employee, as related to exposure to noise;
+- “**lower exposure action value**” means the lower of the two levels of daily or weekly personal noise exposure or of peak sound pressure set out in regulation 4 which, if reached or exceeded, require specified action to be taken to reduce risk;
+- “the music and entertainment sectors” mean all workplaces where—
+  - (a) live music is played; or
+  - (b) recorded music is played in a restaurant, bar, public house, discotheque or nightclub, or alongside live music or a live dramatic or dance performance;
+- “**noise**” means any audible sound;
+- “**peak sound pressure**” means the maximum sound pressure to which an employee is exposed, ascertained in accordance with Schedule 2;
+- “**risk assessment**” means the assessment of risk required by regulation 5;
+- “**upper exposure action value**” means the higher of the two levels of daily or weekly personal noise exposure or of peak sound pressure set out in regulation 4 which, if reached or exceeded, require specified action to be taken to reduce risk;
+- “**weekly personal noise exposure**” means the level of weekly personal noise exposure as ascertained in accordance with Schedule 1 Part 2, taking account of the level of noise and the duration of exposure and covering all noise; and
+- “**working day**” means a daily working period, irrespective of the time of day when it begins or ends, and of whether it begins or ends on the same calendar day.
+
+(2) In these Regulations, a reference to an employee being exposed to noise is a reference to the exposure of that employee to noise which arises while he is at work, or arises out of or in connection with his work.
+
+## 3. Application
+
+(1) These Regulations shall have effect with a view to protecting persons against risk to their health and safety arising from exposure to noise at work.
+
+(2) Where a duty is placed by these Regulations on an employer in respect of his employees, the employer shall, so far as is reasonably practicable, be under a like duty in respect of any other person at work who may be affected by the work carried out by the employer except that the duties of the employer—
+
+- (a) under regulation 9 (health surveillance) shall not extend to persons who are not his employees; and
+- (b) under regulation 10 (information, instruction and training) shall not extend to persons who are not his employees, unless those persons are present at the workplace where the work is being carried out.
+
+(3) These Regulations shall apply to a relevant self-employed person[^key-5c7753b8ced6f3cc70e1ca4b14bb3d72] as they apply to an employer and an employee and as if that relevant self-employed person were both an employer and an employee, except that regulation 9 shall not apply to a relevant self-employed person.
+
+(3A)[^key-bdb2a65db75a666be794cebb88c4d47a] For the purposes of this regulation, “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the Health and Safety at Work etc. Act 1974.
+
+(4) These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship's crew which are carried out solely by the crew under the direction of the master, and for the purposes of this paragraph “**ship**” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty's Navy.
+
+## 4. Exposure limit values and action values
+
+(1) The lower exposure action values are—
+
+- (a) a daily or weekly personal noise exposure of 80 dB (A-weighted); and
+- (b) a peak sound pressure of 135 dB (C-weighted).
+
+(2) The upper exposure action values are—
+
+- (a) a daily or weekly personal noise exposure of 85 dB (A-weighted); and
+- (b) a peak sound pressure of 137 dB (C-weighted).
+
+(3) The exposure limit values are—
+
+- (a) a daily or weekly personal noise exposure of 87 dB (A-weighted); and
+- (b) a peak sound pressure of 140 dB (C-weighted).
+
+(4) Where the exposure of an employee to noise varies markedly from day to day, an employer may use weekly personal noise exposure in place of daily personal noise exposure for the purpose of compliance with these Regulations.
+
+(5) In applying the exposure limit values in paragraph (3), but not in applying the lower and upper exposure action values in paragraphs (1) and (2), account shall be taken of the protection given to the employee by any personal hearing protectors provided by the employer in accordance with regulation 7(2).
+
+## 5. Assessment of the risk to health and safety created by exposure to noise at the workplace
+
+(1) An employer who carries out work which is liable to expose any employees to noise at or above a lower exposure action value shall make a suitable and sufficient assessment of the risk from that noise to the health and safety of those employees, and the risk assessment shall identify the measures which need to be taken to meet the requirements of these Regulations.
+
+(2) In conducting the risk assessment, the employer shall assess the levels of noise to which workers are exposed by means of—
+
+- (a) observation of specific working practices;
+- (b) reference to relevant information on the probable levels of noise corresponding to any equipment used in the particular working conditions; and
+- (c) if necessary, measurement of the level of noise to which his employees are likely to be exposed,
+
+and the employer shall assess whether any employees are likely to be exposed to noise at or above a lower exposure action value, an upper exposure action value, or an exposure limit value.
+
+(3) The risk assessment shall include consideration of —
+
+- (a) the level, type and duration of exposure, including any exposure to peak sound pressure;
+- (b) the effects of exposure to noise on employees or groups of employees whose health is at particular risk from such exposure;
+- (c) so far as is practicable, any effects on the health and safety of employees resulting from the interaction between noise and the use of ototoxic substances at work, or between noise and vibration;
+- (d) any indirect effects on the health and safety of employees resulting from the interaction between noise and audible warning signals or other sounds that need to be audible in order to reduce risk at work;
+- (e) any information provided by the manufacturers of work equipment;
+- (f) the availability of alternative equipment designed to reduce the emission of noise;
+- (g) any extension of exposure to noise at the workplace beyond normal working hours, including exposure in rest facilities supervised by the employer;
+- (h) appropriate information obtained following health surveillance, including, where possible, published information; and
+- (i) the availability of personal hearing protectors with adequate attenuation characteristics.
+
+(4) The risk assessment shall be reviewed regularly, and forthwith if—
+
+- (a) there is reason to suspect that the risk assessment is no longer valid; or
+- (b) there has been a significant change in the work to which the assessment relates,
+
+and where, as a result of the review, changes to the risk assessment are required, those changes shall be made.
+
+(5) The employees concerned or their representatives shall be consulted on the assessment of risk under the provisions of this regulation.
+
+(6) The employer shall record—
+
+- (a) the significant findings of the risk assessment as soon as is practicable after the risk assessment is made or changed; and
+- (b) the measures which he has taken and which he intends to take to meet the requirements of regulations 6, 7 and 10.
+
+## 6. Elimination or control of exposure to noise at the workplace
+
+(1) The employer shall ensure that risk from the exposure of his employees to noise is either eliminated at source or, where this is not reasonably practicable, reduced to as low a level as is reasonably practicable.
+
+(2) If any employee is likely to be exposed to noise at or above an upper exposure action value, the employer shall reduce exposure to as low a level as is reasonably practicable by establishing and implementing a programme of organisational and technical measures, excluding the provision of personal hearing protectors, which is appropriate to the activity.
+
+(3) The actions taken by the employer in compliance with paragraphs (1) and (2) shall be based on the general principles of prevention set out in Schedule 1 to the Management of Health and Safety Regulations 1999 [^c13315941] and shall include consideration of—
+
+- (a) other working methods which reduce exposure to noise;
+- (b) choice of appropriate work equipment emitting the least possible noise, taking account of the work to be done;
+- (c) the design and layout of workplaces, work stations and rest facilities;
+- (d) suitable and sufficient information and training for employees, such that work equipment may be used correctly, in order to minimise their exposure to noise;
+- (e) reduction of noise by technical means;
+- (f) appropriate maintenance programmes for work equipment, the workplace and workplace systems;
+- (g) limitation of the duration and intensity of exposure to noise; and
+- (h) appropriate work schedules with adequate rest periods.
+
+(4) The employer shall—
+
+- (a) ensure that his employees are not exposed to noise above an exposure limit value; or
+- (b) if an exposure limit value is exceeded forthwith—
+  - (i) reduce exposure to noise to below the exposure limit value;
+  - (ii) identify the reason for that exposure limit value being exceeded; and
+  - (iii) modify the organisational and technical measures taken in accordance with paragraphs (1) and (2) and regulations 7 and 8(1) to prevent it being exceeded again.
+
+(5) Where rest facilities are made available to employees, the employer shall ensure that exposure to noise in these facilities is reduced to a level suitable for their purpose and conditions of use.
+
+(6) The employer shall adapt any measure taken in compliance with the requirements of this regulation to take account of any employee or group of employees whose health is likely to be particularly at risk from exposure to noise.
+
+(7) The employees concerned or their representatives shall be consulted on the measures to be taken to meet the requirements of this regulation.
+
+## 7. Hearing Protection
+
+(1) Without prejudice to the provisions of regulation 6, an employer who carries out work which is likely to expose any employees to noise at or above a lower exposure action value shall make personal hearing protectors available upon request to any employee who is so exposed.
+
+(2) Without prejudice to the provisions of regulation 6, if an employer is unable by other means to reduce the levels of noise to which an employee is likely to be exposed to below an upper exposure action value, he shall provide personal hearing protectors to any employee who is so exposed.
+
+(3) If in any area of the workplace under the control of the employer an employee is likely to be exposed to noise at or above an upper exposure action value for any reason the employer shall ensure that—
+
+- (a) the area is designated a Hearing Protection Zone;
+- (b) the area is demarcated and identified by means of the sign specified for the purpose of indicating that ear protection must be worn in paragraph 3.3 of Part II of Schedule 1 to the Health and Safety (Safety Signs and Signals) Regulations 1996 [^c13315951]; and
+- (c) access to the area is restricted where this is practicable and the risk from exposure justifies it,
+
+and shall ensure so far as is reasonably practicable that no employee enters that area unless that employee is wearing personal hearing protectors.
+
+(4) Any personal hearing protectors made available or provided under paragraphs (1) or (2) of this regulation shall be selected by the employer—
+
+- (a) so as to eliminate the risk to hearing or to reduce the risk to as low a level as is reasonably practicable; and
+- (b) after consultation with the employees concerned or their representatives
+
+and shall comply with any[^key-5aa1f01fcf68403040c193b6ce10a530] legal requirement[^key-84f8b8bc37280837dcc7ea29332a09df] which is applicable to them.
+
+(5)[^key-5b96f5697f36f7ad75bffec8eaa524ab] In paragraph (4), “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council [Directive 89/686/EEC](https://www.legislation.gov.uk/eudr/1989/0686) [^key-0ae5b3a4621ae53aa55bf8f0dd40bfde]....
+
+## 8. Maintenance and use of equipment
+
+(1) The employer shall—
+
+- (a) ensure so far as is practicable that anything provided by him in compliance with his duties under these Regulations to or for the benefit of an employee, other than personal hearing protectors provided under regulation 7(1), is fully and properly used; and
+- (b) ensure that anything provided by him in compliance with his duties under these Regulations is maintained in an efficient state, in efficient working order and in good repair.
+
+(2) Every employee shall—
+
+- (a) make full and proper use of personal hearing protectors provided to him by his employer in compliance with regulation 7(2) and of any other control measures provided by his employer in compliance with his duties under these Regulations; and
+- (b) if he discovers any defect in any personal hearing protectors or other control measures as specified in sub-paragraph (a) report it to his employer as soon as is practicable.
+
+## 9. Health Surveillance
+
+(1) If the risk assessment indicates that there is a risk to the health of his employees who are, or are liable to be, exposed to noise, the employer shall ensure that such employees are placed under suitable health surveillance, which shall include testing of their hearing.
+
+(2) The employer shall ensure that a health record in respect of each of his employees who undergoes health surveillance in accordance with paragraph (1) is made and maintained and that the record or a copy thereof is kept available in a suitable form.
+
+(3) The employer shall—
+
+- (a) on reasonable notice being given, allow an employee access to his personal health record; and
+- (b) provide the enforcing authority with copies of such health records as it may require.
+
+(4) Where, as a result of health surveillance, an employee is found to have identifiable hearing damage the employer shall ensure that the employee is examined by a doctor and, if the doctor or any specialist to whom the doctor considers it necessary to refer the employee considers that the damage is likely to be the result of exposure to noise, the employer shall—
+
+- (a) ensure that a suitably qualified person informs the employee accordingly;
+- (b) review the risk assessment;
+- (c) review any measure taken to comply with regulations 6, 7 and 8, taking into account any advice given by a doctor or occupational health professional, or by the enforcing authority;
+- (d) consider assigning the employee to alternative work where there is no risk from further exposure to noise, taking into account any advice given by a doctor or occupational health professional; and
+- (e) ensure continued health surveillance and provide for a review of the health of any other employee who has been similarly exposed.
+
+(5) An employee to whom this regulation applies shall, when required by his employer and at the cost of his employer, present himself during his working hours for such health surveillance procedures as may be required for the purposes of paragraph (1).
+
+## 10. Information, instruction and training
+
+(1) Where his employees are exposed to noise which is likely to be at or above a lower exposure action value, the employer shall provide those employees and their representatives with suitable and sufficient information, instruction and training.
+
+(2) Without prejudice to the generality of paragraph (1), the information, instruction and training provided under that paragraph shall include—
+
+- (a) the nature of risks from exposure to noise;
+- (b) the organisational and technical measures taken in order to comply with the requirements of regulation 6;
+- (c) the exposure limit values and upper and lower exposure action values set out in regulation 4;
+- (d) the significant findings of the risk assessment, including any measurements taken, with an explanation of those findings;
+- (e) the availability and provision of personal hearing protectors under regulation 7 and their correct use in accordance with regulation 8(2);
+- (f) why and how to detect and report signs of hearing damage;
+- (g) the entitlement to health surveillance under regulation 9 and its purposes;
+- (h) safe working practices to minimise exposure to noise; and
+- (i) the collective results of any health surveillance undertaken in accordance with regulation 9 in a form calculated to prevent those results from being identified as relating to a particular person.
+
+(3) The information, instruction and training required by paragraph (1) shall be updated to take account of significant changes in the type of work carried out or the working methods used by the employer.
+
+(4) The employer shall ensure that any person, whether or not his employee, who carries out work in connection with the employer's duties under these Regulations has suitable and sufficient information, instruction and training.
+
+## 11. Exemption certificates from hearing protection
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from the provisions of regulation 6(4) and regulation 7(1) and (2) where because of the nature of the work the full and proper use of personal hearing protectors would be likely to cause greater risk to health or safety than not using such protectors, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
+
+(2) The Executive shall not grant such an exemption unless—
+
+- (a) it consults the employers and the employees or their representatives concerned;
+- (b) it consults such other persons as it considers appropriate;
+- (c) the resulting risks are reduced to as low a level as is reasonably practicable; and
+- (d) the employees concerned are subject to increased health surveillance.
+
+## 12. Exemption certificates for emergency services
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from the provisions of regulation 6(4) and regulation 7(1) to (3) in respect of activities carried out by emergency services which conflict with the requirements of any of those provisions, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
+
+(2) The Executive shall not grant such an exemption unless it is satisfied that the health and safety of the employees concerned is ensured as far as possible in the light of the objectives of these Regulations.
+
+## 13. Exemptions relating to the Ministry of Defence
+
+(1) Subject to paragraph (2), the Secretary of State for Defence may, by a certificate in writing, exempt any person or class of persons from the provisions of regulation 6(4) and regulation 7(1) to (3) in respect of activities carried out in the interests of national security which conflict with the requirements of any of those provisions, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
+
+(2) The Secretary of State shall not grant such an exemption unless he is satisfied that the health and safety of the employees concerned is ensured as far as possible in the light of the objectives of these Regulations.
+
+## 14. Extension outside Great Britain
+
+These Regulations shall apply to and in relation to any activity outside Great Britain to which sections 1 to 59 and 80 to 82 of the 1974 Act apply by virtue of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 2001 [^c13315961] as those provisions apply within Great Britain.
+
+## 15. Revocations, amendments and savings
+
+(1) In—
+
+- (a) regulation 3(3)(e) of the Personal Protective Equipment at Work Regulations 1992 [^c13315971]; and
+- (b) regulation 12(5)(d) of the Provision and Use of Work Equipment Regulations 1998 [^c13315981],
+
+for the reference in each case to the Noise at Work Regulations 1989 [^c13315991] there shall be substituted a reference to these Regulations.
+
+(2) The revocations listed in Schedule 3 are made with effect from the coming into force of these Regulations.
+
+(3) In respect of the music and entertainment sectors only, the amendments and revocations in paragraphs (1) and (2) shall not come into force until 6th April 2008 and the provisions covered by those paragraphs shall continue in force, where applicable, until that date.
+
+Signed by authority of the Secretary of State
+
+Philip A.Hunt
+
+Parliamentary Under-Secretary of State
+
+Department for Work and Pensions
+
+## SCHEDULE 1
+
+Regulation 2(1)
+
+### PART 1 — Daily Personal Noise Exposure Levels
+
+**1.** The daily personal noise exposure level, *L*<sub>EP,d</sub>, which corresponds to *L*<sub>EX,8h</sub> defined in international standard ISO 1999: 1990 clause 3.6, is expressed in decibels and is ascertained using the formula:
+
+[image: see source](https://www.legislation.gov.uk/uksi/2005/1643/images/uksi_20051643_en_sld_001)
+
+- where—
+- *T* <sub>e</sub> is the duration of the person's working day, in seconds;
+- T<sub>0</sub> is 28,800 seconds (8 hours); and
+
+*L* <sub>Aeq,*Te*</sub>is the equivalent continuous A-weighted sound pressure level, as defined in ISO 1999: 1990 clause 3.5, in decibels, that represents the sound the person is exposed to during the working day.
+
+**2.** If the work is such that the daily exposure consists of two or more periods with different sound levels, the daily personal noise exposure level (*L*<sub>EP,d</sub>) for the combination of periods is ascertained using the formula:
+
+[image: see source](https://www.legislation.gov.uk/uksi/2005/1643/images/uksi_20051643_en_sld_002)
+
+- where—
+- *n* is the number of individual periods in the working day;
+- *T* <sub>i</sub> is the duration of period *i*;
+- (*L*<sub>Aeq,T</sub>*)*i is the equivalent continuous A-weighted sound pressure level that represents the sound the person is exposed to during period *i;* and
+
+[image: see source](https://www.legislation.gov.uk/uksi/2005/1643/images/uksi_20051643_en_sld_003)
+
+is equal to *T*<sub>e</sub>, the duration of the person's working day, in seconds.
+
+### PART 2 — Weekly Personal Noise Exposure Levels
+
+Regulation 2(1)
+
+The weekly personal noise exposure, *L*<sub>EP,w</sub>, which corresponds to
+
+[image: see source](https://www.legislation.gov.uk/uksi/2005/1643/images/uksi_20051643_en_sld_004)
+
+defined in international standard ISO 1999: 1990 clause 3.6 (note 2) for a nominal week of five working days, is expressed in decibels and is ascertained using the formula:
+
+[image: see source](https://www.legislation.gov.uk/uksi/2005/1643/images/uksi_20051643_en_sld_005)
+
+- where—
+- *m* is the number of working days on which the person is exposed to noise during a week; and
+- (*L*<sub>EP,d</sub>)<sub>i</sub> is the *L*<sub>EP,d</sub> for working day *i*.
+
+## SCHEDULE 2 — Peak Sound Pressure Level
+
+Regulation 2(1)
+
+Peak sound pressure level, *L*<sub>Cpeak</sub>, is expressed in decibels and is ascertained using the formula:
+
+[image: see source](https://www.legislation.gov.uk/uksi/2005/1643/images/uksi_20051643_en_sld_006)
+
+- where—
+- *p* <sub>Cpeak</sub> is the maximum value of the C-weighted sound pressure, in Pascals (Pa), to which a person is exposed during the working day; and
+- p<sub>0</sub> is 20 *µ*Pa.
+
+## SCHEDULE 3 — Revocations
+
+Regulation 15(2)
+
+| Regulations revoked | References | Extent of revocation |
+| --- | --- | --- |
+| The Noise at Work Regulations 1989 | S.I. 1989/1790 | The whole Regulations |
+| The Quarries Regulations 1999 | S.I. 1999/2024 | Schedule 5 Part II insofar as it amends regulation 2 of the Noise at Work Regulations 1989 |
+| The Offshore Electricity and Noise Regulations 1997 | S.I. 1997/1993 | Regulation 3 |
+| The Personal Protective Equipment at Work Regulations 1992 | S.I. 1992/2966 | Schedule 2 Part IX |
+| The Health and Safety (Safety Signs and Signals) Regulations 1996 | S.I. 1996/341 | Schedule 3 Part II paragraph 1(a) and (b) |
+| The Offshore Installations and Wells (Design and Construction, etc.) Regulations 1996 | S.I. 1996/913 | Schedule 1 paragraph 46(b) and the word “noise” in paragraph 59(b) |
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations revoke and replace the Noise at Work Regulations 1989 (S.I. 1989/1790), and implement as respects Great Britain Directive [2003/10/EC](https://www.legislation.gov.uk/european/directive/2003/0010) of the European Parliament and of the Council (OJ No. L42, 15.2.2003, p.38) on the minimum health and safety requirements regarding the exposure of workers to the risks arising from physical agents (noise) (seventeenth individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)). The Regulations impose duties on employers and on self-employed persons to protect both employees who may be exposed to risk from exposure to noise at work and other persons at work who might be affected by that work.
+
+**2.** The Regulations make provision for—
+
+- (a) lower exposure action values, upper exposure action values, and exposure limit values for daily or weekly personal noise exposure and for peak sound pressure (regulation 4);
+- (b) risk assessment (regulation 5);
+- (c) elimination or, where elimination is not reasonably practicable, reduction of exposure to noise to as low a level as is reasonably practicable (regulation 6(1));
+- (d) a programme of measures, excluding the provision of personal hearing protectors, to be taken at the upper exposure action values to reduce exposure to noise to as low a level as is reasonably practicable (regulation 6(2));
+- (e) actions to be taken at the exposure limit values and prohibition on exceeding the exposure limit values (regulation 6(4));
+- (f) the provision of personal hearing protectors upon request at the lower exposure action values and compulsorily at the upper exposure action values (regulation 7(1) and (2));
+- (g) the designation in the workplace of Hearing Protection Zones (regulation 7(3));
+- (h) employers'; and employees' duties concerning the use of equipment, including personal hearing protectors, provided under the Regulations (regulation 8);
+- (i) health surveillance (regulation 9);
+- (j) information, instruction and training (regulation 10);
+- (k) power to the Health and Safety Executive to grant exemptions from regulation 6(4) and regulation 7(1) and (2) in specified circumstances (regulation 11);
+- (l) power to the Health and Safety Executive to grant exemptions from regulation 6(4) and regulation 7(1) to (3) in respect of the activities of emergency services (regulation 12);
+- (m) power to the Secretary of State for Defence to grant exemptions from regulation 6(4) and regulation 7(1) to (3) in respect of activities carried out in the interests of national security (regulation 13); and
+- (n) consequential revocations and amendments (regulation 15 and Schedule 3)).
+
+**3.** The Regulations provide for transitional periods for the commencement of their operation as follows—
+
+- (a) for the music and entertainment sectors only they shall not come into force until 6th April 2008 and the provisions listed for amendment and revocation in regulation 15 and Schedule 3 shall remain in force unaltered until that date (regulations 1(a) and 15(3)); and
+- (b) where, despite regulation 3(4), they apply to the master and crew of a seagoing ship, regulation 6(4) only shall not come into force until 6th April 2011 (regulation 1(b)).
+
+**4.** Copies of International Standard ISO 1999: 1990, referred to in Schedule 1, are available from International Organization for Standardization (ISO), 1 Rue de Varembé, Case Postale 56, CH-1211 Geneva 20, Switzerland, or via Internet at www.iso.org.
+
+**5.** A copy of the regulatory impact assessment in respect of these Regulations can be obtained from the Health and Safety Executive, Economic Advisers Unit, Rose Court, 2 Southwark Bridge, London SE1 9HS. A copy of the Transposition Note in relation to the implementation of Directive [2003/10/EC](https://www.legislation.gov.uk/european/directive/2003/0010) of the European Parliament and of the Council can be obtained from the Health and Safety Executive, International Branch, at the same address. Copies of both these documents have been placed in the libraries of each House of Parliament.
+
+## Annotations
+
+[^c13315921]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); [sections 11(2)](https://www.legislation.gov.uk/uksi/2005/1643/section/11/2), [15(1)](https://www.legislation.gov.uk/uksi/2005/1643/section/15/1) and 50(3) were amended by the Employment Protection Act [1975 c. 71](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraphs 4](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/6) and 16(3) respectively.
+
+[^key-8aa7e7edbb3299ba0fa773c3951c2ca7]: Textual amendment: Words in reg. 2(1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 125](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/125) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-42aee2d21105066e99c9c44dcb7b3ed6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/2/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(j)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/j)
+
+[^key-5c7753b8ced6f3cc70e1ca4b14bb3d72]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/10/a)
+
+[^key-bdb2a65db75a666be794cebb88c4d47a]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3A) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/10/b)
+
+[^c13315941]: Marginal citation: [S.I.1999/3242](https://www.legislation.gov.uk/uksi/1999/3242), as amended by [S.I. 2003/2457](https://www.legislation.gov.uk/uksi/2003/2457).
+
+[^c13315951]: Marginal citation: [S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341).
+
+[^key-5aa1f01fcf68403040c193b6ce10a530]: Textual amendment: Words in reg. 7(4) added (6.4.2009) by [The Health and Safety (Miscellaneous Amendments and Revocations) Regulations 2009 (S.I. 2009/693)](https://www.legislation.gov.uk/uksi/2009/693), [reg. 1](https://www.legislation.gov.uk/uksi/2009/693/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/5)
+
+[^key-84f8b8bc37280837dcc7ea29332a09df]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/7/4) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/7/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+
+[^key-5b96f5697f36f7ad75bffec8eaa524ab]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/7/5) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 7(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/7/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+
+[^key-0ae5b3a4621ae53aa55bf8f0dd40bfde]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/7/5) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 35 para. 2(7)](https://www.legislation.gov.uk/uksi/2019/696/schedule/35/paragraph/2/7) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c13315961]: Marginal citation: [S.I. 2001/2127](https://www.legislation.gov.uk/uksi/2001/2127).
+
+[^c13315971]: Marginal citation: [S.I. 1992/2966](https://www.legislation.gov.uk/uksi/1992/2966).
+
+[^c13315981]: Marginal citation: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306).
+
+[^c13315991]: Marginal citation: [S.I. 1989/1790](https://www.legislation.gov.uk/uksi/1989/1790).

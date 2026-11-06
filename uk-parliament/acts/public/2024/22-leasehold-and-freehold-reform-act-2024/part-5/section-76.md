@@ -1,0 +1,66 @@
+---
+title: Leasehold and Freehold Reform Act 2024, section 76
+act: Leasehold and Freehold Reform Act 2024
+section: '76'
+status: not-yet-in-force
+text_date: '2025-03-03'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/76
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Leasehold and Freehold Reform Act 2024, section 76
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 76. Limitation of estate management charges: time limits[^key-bef10f6a91275b93589d4e4a1e9bf337]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) Costs incurred by an estate manager in relation to a managed dwelling are not relevant costs for the purposes of an estate management charge payable by an owner of the dwelling if—
+
+- (a) they were incurred more than 18 months before a demand for payment of the charge in relation to those costs is served on that owner, and
+- (b) that owner was not given a future demand notice in respect of the costs before the end of the period of 18 months beginning with the date on which the costs were incurred.
+
+(2) A “future demand notice” is a notice in writing that—
+
+- (a) relevant costs have been incurred, and
+- (b) the owner will subsequently be required to contribute to the costs by the payment of an estate management charge.
+
+(3) A future demand notice must—
+
+- (a) be in the specified form,
+- (b) contain the specified information, and
+- (c) be given in a specified manner.
+
+“**Specified**” means specified in regulations made by the Secretary of State.
+
+(4) The regulations may, among other things, specify as information to be contained in a future demand notice—
+
+- (a) an amount estimated as the amount of the costs incurred (an “estimated costs amount”);
+- (b) an amount which the owner is expected to be required to contribute to the costs (an “expected contribution”);
+- (c) a date on or before which it is expected that payment of the estate management charge will be demanded (an “expected demand date”).
+
+(5) Regulations that include provision by virtue of subsection (4) may also provide for a relevant rule to apply in a case where—
+
+- (a) the owner has been given a future demand notice in respect of relevant costs, and
+- (b) a demand for payment of an estate management charge as a contribution to those costs is served on the owner more than 18 months after the costs were incurred.
+
+(6) The relevant rules are—
+
+- (a) in a case where a future demand notice is required to contain an estimated costs amount, that the owner is liable to pay the charge only to the extent it reflects relevant costs that do not exceed the estimated costs amount;
+- (b) in a case where a future demand notice is required to contain an expected contribution, that the owner is liable to pay the charge only to the extent it does not exceed the expected contribution;
+- (c) in a case where a future demand notice is required to contain an expected demand date, that, if the demand is served after the expected demand date, the owner is not liable to pay the charge to the extent it reflects any of the costs.
+
+(7) Regulations that provide for the relevant rule in subsection (6)(c) to apply may also provide that, in a case set out in the regulations, the rule is to apply as if, for the expected demand date, there were substituted a later date determined in accordance with the regulations.
+
+(8) A statutory instrument containing regulations under this section is subject to the negative procedure.
+
+## Annotations
+
+[^key-bef10f6a91275b93589d4e4a1e9bf337]: Commencement: S. 76 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

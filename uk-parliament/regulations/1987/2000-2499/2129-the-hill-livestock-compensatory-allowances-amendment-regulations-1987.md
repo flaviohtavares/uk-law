@@ -1,0 +1,109 @@
+---
+title: The Hill Livestock (Compensatory Allowances) (Amendment) Regulations 1987
+id: uksi/1987/2129
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-12-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/2129
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/2129/pdfs/uksi_19872129_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/2129/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Hill Livestock (Compensatory Allowances) (Amendment) Regulations 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 2129
+
+AGRICULTURE
+
+The Hill Livestock (Compensatory Allowances) (Amendment) Regulations 1987
+
+Made
+
+8th December 1987
+
+Laid before Parliament
+
+11th December 1987
+
+Coming into force
+
+1st January 1988
+
+The Minister of Agriculture, Fisheries and Food and the Secretary of State, acting jointly, being Ministers designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy of the European Economic Community[^f00002], in exercise of the powers conferred upon them by the said section 2(2) and of all other powers enabling them in that behalf, hereby make the following regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These regulations may be cited as the Hill Livestock (Compensatory Allowances) (Amendment) Regulations 1987, and shall come into force on 1st January 1988.
+
+(2) These regulations shall apply to Great Britain.
+
+## 2. Interpretation
+
+In these regulations —
+
+- (a) “the principal regulations” means the Hill Livestock (Compensatory Allowances) Regulations 1984[^f00003];
+- (b) “relevant afforested land” has the same meaning as in the principal regulations.
+
+## 3. Further amendment of principal regulations
+
+Subject to regulation 10 below, the principal regulations shall be further amended in accordance with regulations 4 to 9 below.e revoked in so far as they formed part of the law of Northern Ireland.
+
+**4.** In regulation 2(1) (interpretation) the definition of “relevant afforested land” shall be deleted.
+
+**5.** In regulation 3 (compensatory allowances) the words “or which is relevant afforested land” shall be deleted in each of paragraphs 2(b)(i), 3(b)(ii), 4(a) and 4(b).
+
+**6.** In regulation 4(2) (provisions with respect to cattle) for the words “or disposals of cows” there shall be substituted the words “of cows from relevant causes”.
+
+**7.** After regulation 4(2) there shall be inserted the following paragraph —
+
+> (2A) In paragraph (2) above “relevant causes” means any cause except slaughter for food.
+
+.
+
+**8.** In regulation 5(2)(c) (provisions with respect to sheep) the words “or which is relevant afforested land” shall be deleted.
+
+**9.** In regulation 10 (false statements) for the reference to “£1,000” there shall be substituted a reference to “£2,000”.
+
+## 10. Saving
+
+Regulations 4, 5 and 8 of these regulations shall not have effect in relation to the payment of a compensatory allowance to any person who occupied relevant afforested land at any time between 31st December 1985 and 1st January 1988.
+
+In Witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 6th December 1987.
+
+John MacGregor
+
+Minister of Agriculture, Fisheries and Food
+
+Peter Walker
+
+One of Her Majesty’s Principal Secretaries of State
+
+8th December 1987
+
+(This note is not part of the Regulations)
+
+These regulations further amend the Hill Livestock (Compensatory Allowances) Regulations 1984 (“the principal regulations”), which implemented part of Council Directive No. [75/268/EEC](https://www.legislation.gov.uk/european/directive/1975/0268) (O.J. No. L128, 19.5.75, p.1) on mountain and hill farming and farming in certain less-favoured areas, and comply with articles 13 to 15 of Council Regulation [(EEC) No. 797/85](https://www.legislation.gov.uk/european/regulation/1985/0797) (O.J. No. L93, 30.3.85, p.1), as amended by Council Regulation [(EEC) No. 1760/87](https://www.legislation.gov.uk/european/regulation/1987/1760) (O.J. No. L167, p.1), on improving the efficiency of agricultural structures. The principal regulations originally applied to the whole of the United Kingdom, but ceased to apply to Northern Ireland (where separate corresponding provisions now apply) following the coming into force of the Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1987 ([S.R. 1987 No. 92](https://www.legislation.gov.uk/nisr/1987/92)). The present regulations therefore apply only to Great Britain.
+
+Amendments made by these regulations have the effect of providing that persons in receipt of a compensatory allowance who afforest land used as a basis for calculating the allowance can no longer from 1st January 1988 take that afforested land into account for the purposes of calculating the allowance (regulations 4, 5 and 8). (These changes do not apply in the case of persons who occupied and afforested land at any time between 31st December 1985 and 1st January 1988 (regulation 10)).
+
+The rules relating to the effect of a temporary reduction in cow numbers on the calculation of the allowance are changed to provide that the Minister may disregard such a reduction where he is satisfied that it is due to the deaths of cows except deaths due to slaughter for food (regulations 6 and 7).
+
+The maximum penalty for knowingly or recklessly making false statements is raised to £2,000 (regulation 9).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2 is subject to Schedule 2 to that Act and is to be read, as regards England and Wales, with sections 37, 40 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and S.I. [1984/447](https://www.legislation.gov.uk/uksi/1984/447), and as regards Scotland, with section 289F and 289G of the Criminal Procedure (Scotland) Act [1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), as inserted by section 54 of the Criminal Justice Act 1982, and with S.I. [1984/526](https://www.legislation.gov.uk/uksi/1984/526).
+
+[^f00002]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00003]: Footnote: S.I. [1984/2024](https://www.legislation.gov.uk/uksi/1984/2024), amended by S.I.[1985/2075](https://www.legislation.gov.uk/uksi/1985/2075). By the Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1987 ([S.R. 1987 No. 92](https://www.legislation.gov.uk/nisr/1987/92)) the Hill Livestock (Compensatory Allowances) Regulations 1984 (as amended) were revoked in so far as they formed part of the law of Northern Ireland.

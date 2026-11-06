@@ -1,0 +1,109 @@
+---
+title: The Statutory Sick Pay (General) (Coronavirus Amendment) (No. 5) Regulations 2020
+id: uksi/2020/829
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-08-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/829
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/829/pdfs/uksiem_20200829_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/829/pdfs/uksi_20200829_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/829/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Statutory Sick Pay (General) (Coronavirus Amendment) (No. 5) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 829
+
+Social Security
+
+Terms And Conditions Of Employment
+
+The Statutory Sick Pay (General) (Coronavirus Amendment) (No. 5) Regulations 2020
+
+Made
+
+3rd August 2020
+
+Laid before Parliament
+
+4th August 2020
+
+Coming into force
+
+5th August 2020
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 151(4) and (4A) and 175(3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001].
+
+In accordance with section 173(1)(a) of the Social Security Administration Act 1992[^f00002], it appears to the Secretary of State that by reason of the urgency of this matter it is inexpedient to refer the proposals in respect of these Regulations to the Social Security Advisory Committee.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Statutory Sick Pay (General) (Coronavirus Amendment) (No. 5) Regulations 2020 and come into force on 5th August 2020.
+
+## 2. Amendment of the Statutory Sick Pay (General) Regulations 1982
+
+(1) Schedule 1 to the Statutory Sick Pay (General) Regulations 1982[^f00003] (isolation due to coronavirus) is amended as follows.
+
+(2) In paragraph 1, for “5B” substitute “5F”.
+
+(3) In paragraphs 2 and 4, for “7” substitute “10”.
+
+(4) In paragraph 5B, for sub-paragraph (b) substitute—
+
+> - (b) is staying at home until the date specified in a relevant notification.
+
+.
+
+(5) After paragraph 5B insert—
+
+> **5C.** The person (P) has tested positive for coronavirus and is staying at home—
+>
+> - (a) for 10 days beginning with the day P first had the symptoms of coronavirus or, if earlier, the day on which P was notified that they had tested positive for coronavirus; or
+> - (b) if P still has symptoms of coronavirus at the end of the period specified in sub-paragraph (a), until P no longer has those symptoms.
+>
+> **5D.** Where P is staying at home pursuant to paragraph 5C,paragraphs 2, 4 and 5B no longer apply.
+>
+> **5E.** The person lives with, or is in an extended household or a linked household with, a person (S) who has tested positive for coronavirus and S is staying at home—
+>
+> - (a) for 10 days beginning with the day (“day 1”) S first had the symptoms of coronavirus or, if earlier, the day on which S was notified that they had tested positive for coronavirus; or
+> - (b) if S still has symptoms of coronavirus at the end of the period specified in sub-paragraph (a), S no longer has those symptoms.
+>
+> **5F.** Where S is staying at home pursuant to paragraph 5E,paragraphs 2 to 5B no longer apply.
+
+.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Justin Tomlinson
+
+Minister of State
+
+Department for Work and Pensions
+
+3rd August 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Regulation 2 of these Regulations amends Schedule 1 to the Statutory Sick Pay (General) Regulations 1982 ([S.I. 1982/894](https://www.legislation.gov.uk/uksi/1982/894)) to ensure that a person is entitled to statutory sick pay for the full period for which they are required to self-isolate and for the period a person is required to stay at home after testing positive for coronavirus.
+
+No regulatory impact assessment has been produced for these Regulations in view of the urgency required to provide additional financial support to those unable to work as a result of coronavirus.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 151 has effect as if subsection (4A) were inserted by virtue of section 41 of the Coronavirus Act [2020 (c.7)](https://www.legislation.gov.uk/ukpga/2020/7). Section 151(4) was amended by section 11(1) of, and paragraph 34 of Schedule 1 to, the Social Security (Incapacity for Work) Act [1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18) (“the 1994 Act”). Section 175(4) was amended by section 2 of, and paragraph 29 of Schedule 3 to, the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^f00002]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00003]: Footnote: [S.I. 1982/894](https://www.legislation.gov.uk/uksi/1982/894). Relevant amending instruments are [S.I. 2020/287](https://www.legislation.gov.uk/uksi/2020/287), [304](https://www.legislation.gov.uk/uksi/2020/304), [374](https://www.legislation.gov.uk/uksi/2020/374), [427](https://www.legislation.gov.uk/uksi/2020/427), [539](https://www.legislation.gov.uk/uksi/2020/539) and [681](https://www.legislation.gov.uk/uksi/2020/681).

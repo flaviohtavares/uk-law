@@ -1,0 +1,743 @@
+---
+title: Protection from Eviction Act 1977
+id: ukpga/1977/43
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1977-07-29'
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1977/43
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1977/43/pdfs/ukpga_19770043_en.pdf
+- http://www.legislation.gov.uk/ukpga/1977/43/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Protection from Eviction Act 1977
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/43
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+Protection from Eviction Act 1977
+
+1977 c.43
+
+An Act to consolidate section 16 of the Rent Act 1957 and Part III of the Rent Act 1965, and related enactments.
+
+\[29th July 1977\][^c907902][^c907903][^c907904][^c907905][^key-89b490586fcbb5451607396887a79d5a]
+
+## Part I — Unlawful Eviction and Harassment
+
+### 1. Unlawful eviction and harassment of occupier.
+
+(1) In this section “**residential occupier**”, in relation to any premises, means a person occupying the premises as a residence, whether under a contract or by virtue of any enactment or rule of law giving him the right to remain in occupation or restricting the right of any other person to recover possession of the premises.
+
+(2) If any person unlawfully deprives the residential occupier of any premises of his occupation of the premises or any part thereof, or attempts to do so, he shall be guilty of an offence unless he proves that he believed, and had reasonable cause to believe, that the residential occupier had ceased to reside in the premises.
+
+(3) If any person with intent to cause the residential occupier of any premises—
+
+- (a) to give up the occupation of the premises or any part thereof; or
+- (b) to refrain from exercising any right or pursuing any remedy in respect of the premises or part thereof;
+
+does acts likely[^M_F_3cb9dbf8-9fd8-42e6-e342-41505b6d615c] to interfere with the peace or comfort of the residential occupier or members of his household, or persistently withdraws or withholds services reasonably required for the occupation of the premises as a residence, he shall be guilty of an offence.
+
+(3A)[^c907907] Subject to subsection (3B) below, the landlord of a residential occupier or an agent of the landlord shall be guilty of an offence if—
+
+- (a) he does acts likely to interfere with the peace or comfort of the residential occupier or members of his household, or
+- (b) he persistently withdraws or withholds services reasonably required for the occupation of the premises in question as a residence,
+
+and (in either case) he knows, or has reasonable cause to believe, that that conduct is likely to cause the residential occupier to give up the occupation of the whole or part of the premises or to refrain from exercising any right or pursuing any remedy in respect of the whole or part of the premises.
+
+(3B) A person shall not be guilty of an offence under subsection (3A) above if he proves that he had reasonable grounds for doing the acts or withdrawing or withholding the services in question.
+
+(3C) In subsection (3A) above “**landlord**”, in relation to a residential occupier of any premises, means the person who, but for—
+
+- (a) the residential occupier’s right to remain in occupation of the premises, or
+- (b) a restriction on the person’s right to recover possession of the premises,
+
+would be entitled to occupation of the premises and any superior landlord under whom that person derives title.
+
+(4) A person guilty of an offence under this section shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the prescribed sum[^M_F_4ce49a7e-01e6-4955-e918-99de017860b5] or to imprisonment for a term not exceeding 6 months or to both;
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 2 years or to both.
+
+(5) Nothing in this section shall be taken to prejudice any liability or remedy to which a person guilty of an offence thereunder may be subject in civil proceedings.
+
+(6) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager or secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(7)[^key-5a24a2c67d898bd5b353d1a412782a6b] A person may not be convicted of an offence under this section in respect of any conduct if a financial penalty has been imposed under section 1A in respect of that conduct.
+
+### 1A. Financial penalty for offence under section 1[^key-3d664ce330ba58db112c8e596e59647d]
+
+(1) A local housing authority may impose a financial penalty on a person if satisfied beyond reasonable doubt that the person has committed an offence under section 1 in relation to premises in England.
+
+(2) No financial penalty may be imposed in respect of any conduct amounting to an offence under section 1 if—
+
+- (a) the person has been convicted of an offence under that section in respect of the conduct,
+- (b) criminal proceedings for an offence under that section in respect of the conduct have been instituted against the person and the proceedings have not been concluded, or
+- (c) criminal proceedings for an offence under that section in respect of the conduct have been concluded and the person has not been convicted of the offence.
+
+(3) The amount of a financial penalty imposed under this section is to be determined by the authority imposing it, but must not be more than £40,000.
+
+(4) The Secretary of State may give guidance to local housing authorities about the exercise of their functions under this section.
+
+(5) Local housing authorities must have regard to any guidance issued under subsection (4).
+
+(6) Schedule A1 makes provision about—
+
+- (a) the procedure for imposing financial penalties,
+- (b) appeals against financial penalties,
+- (c) enforcement of financial penalties, and
+- (d) how local housing authorities are to deal with the proceeds of financial penalties.
+
+(7) The Secretary of State may by regulations amend the amount specified in subsection (3) to reflect changes in the value of money.
+
+(8) Regulations under this section are to be made by statutory instrument.
+
+(9) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(10) In this section and Schedule A1, “**local housing authority**” means a district council, a county council in England for an area for which there is no district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly.
+
+### 2. Restriction on re-entry without due process of law.
+
+Where any premises are let as a dwelling on a lease which is subject to a right of re-entry or forfeiture it shall not be lawful to enforce that right otherwise than by proceedings in the court while any person is lawfully residing in the premises or part of them.
+
+### 3. Prohibition of eviction without due process of law.
+
+(1) Where any premises have been let as a dwelling under a tenancy which is neither a statutorily protected tenancy nor an excluded tenancy[^c907908] and—
+
+- (a) the tenancy (in this section referred to as the former tenancy) has come to an end, but
+- (b) the occupier continues to reside in the premises or part of them,
+
+it shall not be lawful for the owner to enforce against the occupier, otherwise than by proceedings in the court, his right to recover possession of the premises.
+
+(2) In this section “**the occupier**”, in relation to any premises, means any person lawfully residing in the premises or part of them at the termination of the former tenancy.
+
+(2A)[^c907909] Subsections (1) and (2) above apply in relation to any restricted contract (within the meaning of the Rent Act 1977) which—
+
+- (a) creates a licence; and
+- (b) is entered into after the commencement of section 69 of the Housing Act 1980;
+
+as they apply in relation to a restricted contract which creates a tenancy.
+
+(2B)[^c907910] Subsections (1) and (2) above apply in relation to any premises occupied as a dwelling under a licence, other than an excluded licence, as they apply in relation to premises let as a dwelling under a tenancy, and in those subsections the expressions “**let**” and “**tenancy**” shall be construed accordingly.
+
+(2C) References in the preceding provisions of this section and section 4(2A) below to an excluded tenancy do not apply to—
+
+- (a) a tenancy entered into before the date on which the Housing Act 1988 came into force, or
+- (b) a tenancy entered into on or after that date but pursuant to a contract made before that date,
+
+but, subject to that, “**excluded tenancy**” and “**excluded licence**” shall be construed in accordance with section 3A below.
+
+(3) This section shall, with the necessary modifications, apply where the owner’s right to recover possession arises on the death of the tenant under a statutory tenancy within the meaning of the [^c907911]Rent Act 1977 or the [^c907912]Rent (Agriculture) Act 1976.
+
+### 3A. Excluded tenancies and licences.[^c908005]
+
+(1) Any reference in this Act to an excluded tenancy or an excluded licence is a reference to a tenancy or licence which is excluded by virtue of any of the following provisions of this section.
+
+(2) A tenancy or licence is excluded if—
+
+- (a) under its terms the occupier shares any accommodation with the landlord or licensor; and
+- (b) immediately before the tenancy or licence was granted and also at the time it comes to an end, the landlord or licensor occupied as his only or principal home premises of which the whole or part of the shared accommodation formed part.
+
+(3) A tenancy or licence is also excluded if—
+
+- (a) under its terms the occupier shares any accommodation with a member of the family of the landlord or licensor;
+- (b) immediately before the tenancy or licence was granted and also at the time it comes to an end, the member of the family of the landlord or licensor occupied as his only or principal home premises of which the whole or part of the shared accommodation formed part; and
+- (c) immediately before the tenancy or licence was granted and also at the time it comes to an end, the landlord or licensor occupied as his only or principal home premises in the same building as the shared accommodation and that building is not a purpose-built block of flats.
+
+(4) For the purposes of subsections (2) and (3) above, an occupier shares accommodation with another person if he has the use of it in common with that person (whether or not also in common with others) and any reference in those subsections to shared accommodation shall be construed accordingly, and if, in relation to any tenancy or licence, there is at any time more than one person who is the landlord or licensor, any reference in those subsections to the landlord or licensor shall be construed as a reference to any one of those persons.
+
+(5) In subsections (2) to (4) above—
+
+- (a) “**accommodation**” includes neither an area used for storage nor a staircase, passage, corridor or other means of access;
+- (b) “**occupier**” means, in relation to a tenancy, the tenant and, in relation to a licence, the licensee; and
+- (c) “**purpose-built block of flats**” has the same meaning as in Part III of Schedule 1 to the Housing Act 1988;
+
+and section 113 of the [^c908006]Housing Act 1985 shall apply to determine whether a person who is for the purposes of subsection (3) above a member of another’s family as it applies for the purposes of Part IV of that Act.
+
+(6) A tenancy or licence is excluded if it was granted as a temporary expedient to a person who entered the premises in question or any other premises as a trespasser (whether or not, before the beginning of that tenancy or licence, another tenancy or licence to occupy the premises or any other premises had been granted to him).
+
+(7) A tenancy or licence is excluded if—
+
+- (a) it confers on the tenant or licensee the right to occupy the premises for a holiday only; or
+- (b) it is granted otherwise than for money or money’s worth.
+
+(7A)[^c908007] A tenancy or licence is excluded if it is granted in order to provide accommodation under section 4 or Part VI of the Immigration and Asylum Act 1999[^key-f301174735d8810b10cf1a463acc20f7].
+
+(7C)[^key-e23bbbef520c46971f7b6abc0948e309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7D)[^key-c40954190c2e55c7636867f53b844980] A tenancy or licence is excluded if—
+
+- (a) it is a residential tenancy agreement within the meaning of Chapter 1 of Part 3 of the Immigration Act 2014, and
+- (b) the condition in section 33D(2) of that Act is met in relation to that agreement.
+
+(8) A licence is excluded if it confers rights of occupation in a hostel, within the meaning of the [^c908008]Housing Act 1985, which is provided by—
+
+- (a) the council of a county, county borough,[^c908009] district or London Borough, the Common Council of the City of London, the Council of the Isles of Scilly, the Inner London Education Authority, a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^key-9de06c878d0cb8eb78ddc1c6bc7c5890] the London Fire Commissioner,[^key-19b53a6dde3f11b55cf1a25e8579bf44] a joint authority within the meaning of the [^c908011]Local Government Act 1985 or a residuary body within the meaning of that Act;
+- (aa)[^key-2881749f198e49937c9c628a9ea62fa8] an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009;
+- (ab) a combined authority established under section 103 of that Act;
+- (ac)[^key-79debe5338c21c8d5020fbcefe0313a9] a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;
+- (b) a development corporation within the meaning of the [^c908012]New Towns Act 1981;
+- (c) the new towns residuary body[^key-3934ee7ae27d149616f9f1f1299c632a];
+- (d) an urban development corporation established by an order under section 135 of the [^c908013]Local Government, Planning and Land Act 1980;
+- (da)[^key-b2211e2d86aaffe096726bd383a57ad4] a Mayoral development corporation;
+- (e) a housing action trust established under Part III of the Housing Act 1988[^c908014];
+- (f)[^c908015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-65d4ed201ce5a1e7c03689f616093b6d] the Regulator of Social Housing[^key-b78e710440f02e83ee5369d29ed0aef1] [^c908016]. . .;
+- (ga)[^c908017] the Secretary of State under section 89 of the [^c908018]Housing Associations Act 1985;
+- (h)[^c908019] a housing trust (within the meaning of the Housing Associations Act 1985) which is a charity , a private registered provider of social housing[^key-c10d78d3c58f987a60dcf153bcae6631] or a registered social landlord (within the meaning of the Housing Act 1985); or.
+- (i)[^c908020] any other person who is, or who belongs to a class of person which is, specified in an order made by the Secretary of State.
+
+(8A)[^key-ab36731d4fd56664906f8e208e0a94fd] In subsection (8)(c) above “**new towns residuary body**” means—
+
+- (a) in relation to England, the Homes and Communities Agency so far as exercising functions in relation to anything transferred (or to be transferred) to it as mentioned in section 52(1)(a) to (d) of the Housing and Regeneration Act 2008 or the Greater London Authority so far as exercising its new towns and urban development functions[^key-5afb0c3acbb7f8a2972c02bd87c4af18]; and
+- (b) in relation to Wales, means the Welsh Ministers so far as exercising functions in relation to anything transferred (or to be transferred) to them as mentioned in section 36(1)(a)(i) to (iii) of the New Towns Act 1981.
+
+(9) The power to make an order under subsection (8)(i) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 4. Special provisions for agricultural employees.
+
+(1) This section shall apply where the tenant under the former tenancy (within the meaning of section 3 of this Act) occupied the premises under the terms of his employment as a person employed in agriculture, as defined in section 1 of the [^c908038]Rent (Agriculture) Act 1976, but is not a statutory tenant as defined in that Act.
+
+(2) In this section “**the occupier**”, in relation to any premises, means—
+
+- (a) the tenant under the former tenancy; or
+- (b) the surviving spouse or surviving civil partner[^key-88a9707e4ed4742b0074a10d637a96f4] of the tenant under the former tenancy residing with him at his death or, if the former tenant leaves no such surviving spouse or surviving civil partner, any member of his family residing with him at his death.
+
+(2A)[^c908039] In accordance with section 3(2B) above, any reference in subsections (1) and (2) above to the tenant under the former tenancy includes a reference to the licensee under a licence (other than an excluded licence) which has come to an end (being a licence to occupy premises as a dwelling); and in the following provisions of this section the expressions “ **tenancy** ” and “ **rent** ” and any other expressions referable to a tenancy shall be construed accordingly.
+
+(3) Without prejudice to any power of the court apart from this section to postpone the operation or suspend the execution of an order for possession, if in proceedings by the owner against the occupier the court makes an order for the possession of the premises the court may suspend the execution of the order on such terms and conditions, including conditions as to the payment by the occupier of arrears of rent, mesne profits and otherwise as the court thinks reasonable.
+
+(4) Where the order for possession is made within the period of 6 months beginning with the date when the former tenancy came to an end, then, without prejudice to any powers of the court under the preceding provisions of this section or apart from this section to postpone the operation or suspend the execution of the order for a longer period, the court shall suspend the execution of the order for the remainder of the said period of 6 months unless the court—
+
+- (a) is satisfied either—
+  - (i) that other suitable accommodation is, or will within that period be made, available to the occupier; or
+  - (ii) that the efficient management of any agricultural land or the efficient carrying on of any agricultural operations would be seriously prejudiced unless the premises are available for occupation by a person employed or to be employed by the owner; or
+  - (iii) that greater hardship (being hardship in respect of matters other than the carrying on of such a business as aforesaid) would be caused by the suspension of the order until the end of that period than by its execution within that period; or
+  - (iv) that the occupier, or any person residing or lodging with the occupier, has been causing damage to the premises or has been guilty of conduct which is a nuisance or annoyance to persons occupying other premises; and
+- (b) considers that it would be reasonable not to suspend the execution of the order for the remainder of that period.
+
+(5) Where the court suspends the execution of an order for possession under subsection (4) above it shall do so on such terms and conditions, including conditions as to the payment by the occupier of arrears of rent, mesne profits and otherwise as the court thinks reasonable.
+
+(6) A decision of the court not to suspend the execution of the order under subsection (4) above shall not prejudice any other power of the court to postpone the operation or suspend the execution of the order for the whole or part of the period of 6 months mentioned in that subsection.
+
+(7) Where the court has, under the preceding provisions of this section, suspended the execution of an order for possession, it may from time to time vary the period of suspension or terminate it and may vary any terms or conditions imposed by virtue of this section.
+
+(8) In considering whether or how to exercise its powers under subsection (3) above, the court shall have regard to all the circumstances and, in particular, to—
+
+- (a) whether other suitable accommodation is or can be made available to the occupier;
+- (b) whether the efficient management of any agricultural land or the efficient carrying on of any agricultural operations would be seriously prejudiced unless the premises were available for occupation by a person employed or to be employed by the owner; and
+- (c) whether greater hardship would be caused by the suspension of the execution of the order than by its execution without suspension or further suspension.
+
+(9) Where in proceedings for the recovery of possession of the premises the court makes an order for possession but suspends the execution of the order under this section, it shall make no order for costs, unless it appears to the court, having regard to the conduct of the owner or of the occupier, that there are special reasons for making such an order.
+
+(10) Where, in the case of an order for possession of the premises to which subsection (4) above applies, the execution of the order is not suspended under that subsection or, the execution of the order having been so suspended, the suspension is terminated, then, if it is subsequently made to appear to the court that the failure to suspend the execution of the order or, as the case may be, the termination of the suspension was—
+
+- (a) attributable to the provisions of paragraph (a)(ii) of subsection (4), and
+- (b) due to misrepresentation or concealment of material facts by the owner of the premises,
+
+the court may order the owner to pay to the occupier such sum as appears sufficient as compensation for damage or loss sustained by the occupier as a result of that failure or termination.
+
+## Part II — Notice to Quit
+
+### 5. Validity of notices to quit.
+
+(1) Subject to subsection (1B) below[^c908040] no notice by a landlord or a tenant to quit any premises let (whether before or after the commencement of this Act) as a dwelling shall be valid unless—
+
+- (a) it is in writing and contains such information as may be prescribed, and
+- (b)[^key-ae42eef1b1207c3063faeb43e0092918] it is given not less than 4 weeks before the date on which it is to take effect. *(affected by repeal, see note)*[^key-ae42eef1b1207c3063faeb43e0092918]
+- (b) it satisfies subsection (1ZA).
+
+(1ZA)[^key-fc58bedf29dc14c464798fcaf6a95e56] A notice to quit satisfies this subsection—
+
+- (a) where it is given by a tenant in relation to premises let under an assured tenancy, if it is given—
+  - (i) not less than any length of time before the date on which the notice is to take effect, not exceeding two months, that the landlord has agreed to in writing, or
+  - (ii) in the absence of agreement under sub-paragraph (i), not less than two months before the date on which the notice is to take effect;
+- (b) otherwise, if it is given not less than four weeks before the date on which it is to take effect.
+
+But in relation to landlords under assured tenancies see section 5(1) of the [Housing Act 1988](https://www.legislation.gov.uk/ukpga/1988/50) (notice to quit by landlord is of no effect).
+
+(1ZB) In the case of a joint assured tenancy, an agreement under subsection (1ZA)(a)(i) is not valid unless it is made between the landlord and all of the tenants.
+
+(1ZC) That does not affect the validity of any notice to quit premises let under a joint assured tenancy that is given by only one or some of the tenants.
+
+(1ZD) In this section “**joint assured tenancy**” means an assured tenancy where two or more persons are tenants under the tenancy.
+
+(1A)[^c908041] Subject to subsections (1B) and (1C)[^key-9530f888bf7ff5f77d397b4f17f9577b] below, no notice by a licensor or a licensee to determine a periodic licence to occupy premises as a dwelling (whether the licence was granted before or after the passing of this Act) shall be valid unless—
+
+- (a) it is in writing and contains such information as may be prescribed, and
+- (b) it is given not less than 4 weeks before the date on which it is to take effect.
+
+(1B) Nothing in subsection (1) or subsection (1A) above applies to—
+
+- (a) premises let on an excluded tenancy which is entered into on or after the date on which the Housing Act 1988 came into force unless it is entered into pursuant to a contract made before that date; or
+- (b) premises occupied under an excluded licence.
+
+(1C)[^key-c6823fa21e3f5896f9bf643fe6de0c1c] Because of section 232 (forfeiture and notices to quit) of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1), this section does not apply to a dwelling in Wales which is subject to an occupation contract.
+
+(2) In this section “**prescribed**” means prescribed by regulations made by the Secretary of State by statutory instrument, and a statutory instrument containing any such regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) Regulations under this section may make different provision in relation to different descriptions of lettings and different circumstances.
+
+### 5A. Notices to quit by tenants under assured tenancies[^key-47b32bfcb2ee225cd407eda4d3cbe651]
+
+(1) Any provision that would bind a tenant as to the means of giving a notice in writing to quit premises let under an assured tenancy is of no effect.
+
+(2) For the purposes of subsection (1) the “means of giving a notice in writing” is the mode by which the words of the notice are represented or reproduced in a visible form.
+
+(3) A notice by a tenant to quit premises let under an assured tenancy may be withdrawn before the date on which it takes effect by the tenant and landlord agreeing in writing to the withdrawal.
+
+(4) In the case of a joint assured tenancy, an agreement under subsection (3) is not valid unless it is made between the landlord and all of the tenants.
+
+(5) That does not affect the validity of any notice to quit premises let under a joint assured tenancy that is given by only one or some of the tenants.
+
+(6) In this section “**joint assured tenancy**” means an assured tenancy where two or more persons are tenants under the tenancy.
+
+## Part III — Supplemental Provisions
+
+### 6. Prosecution of offences.
+
+Proceedings for an offence under this Act may be instituted by any of the following authorities:—
+
+- (a) councils of districts and London boroughs;
+- (aa)[^c908042] councils of Welsh counties and county boroughs;
+- (b) the Common Council of the City of London;
+- (c) the Council of the Isles of Scilly.
+
+### 7. Service of Notices.
+
+(1) If for the purpose of any proceedings (whether civil or criminal) brought or intended to be brought under this Act, any person serves upon—
+
+- (a) any agent of the landlord named as such in the rent book or other similar document, or
+- (b) the person who receives the rent of the dwelling,
+
+a notice in writing requiring the agent or other person to disclose to him the full name and place of abode or place of business of the landlord, that agent or other person shall forthwith comply with the notice.
+
+(2) If any such agent or other person as is referred to in subsection (1) above fails or refuses forthwith to comply with a notice served on him under that subsection, he shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c908043], unless he shows to the satisfaction of the court that he did not know, and could not with reasonable diligence have ascertained, such of the facts required by the notice to be disclosed as were not disclosed by him.
+
+(3) In this section “**landlord**” includes—
+
+- (a) any person from time to time deriving title under the original landlord,
+- (b) in relation to any dwelling-house, any person other than the tenant who is or, but for Part VII of the [^c908044]Rent Act 1977 would be, entitled to possession of the dwelling-house, and
+- (c) any person who, . . . [^c908045] grants to another the right to occupy the dwelling in question as a residence and any person directly or indirectly deriving title from the grantor.
+
+### 8. Interpretation.
+
+(1) In this Act “**statutorily protected tenancy**” means—
+
+- (a) a protected tenancy within the meaning of the [^c908057]Rent Act 1977 or a tenancy to which Part I of the [^c908058]Landlord and Tenant Act 1954 applies;
+- (b) a protected occupancy or statutory tenancy as defined in the [^c908059]Rent (Agriculture) Act 1976;
+- (c) a tenancy to which Part II of the [^c908060]Landlord and Tenant Act 1954 applies;
+- (d) a tenancy of an agricultural holding within the meaning of the Agricultural Holdings Act 1986[^c908061] which is a tenancy in relation to which that act applies[^c908062].
+- (e)[^c908063] an assured tenancy or assured agricultural occupancy under Part I of the Housing Act 1988
+- (f)[^c908064] a tenancy to which Schedule 10 to the Local Government and Housing Act 1989 applies.
+- (g)[^c908065] a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995.
+- (h)[^key-f12f1c247e472a6d3bd9a9ad0b620ba7] an occupation contract within the meaning of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1) (see section 7 of that Act).
+
+(2) For the purposes of Part I of this Act a person who, under the terms of his employment, had exclusive possession of any premises other than as a tenant shall be deemed to have been a tenant and the expressions “**let**” and “**tenancy**” shall be construed accordingly.
+
+(3) In Part I of this Act “**the owner**”, in relation to any premises, means the person who, as against the occupier, is entitled to possession thereof.
+
+(4)[^c908066] In this Act “excluded tenancy” and “excluded licence” have the meaning assigned by section 3A of this Act.
+
+(5) If, on or after the date on which the Housing Act 1988 came into force, the terms of an excluded tenancy or excluded licence entered into before that date are varied, then—
+
+- (a) if the variation affects the amount of the rent which is payable under the tenancy or licence, the tenancy or licence shall be treated for the purposes of sections 3(2C) and 5(1B) above as a new tenancy or licence entered into at the time of the variation; and
+- (b) if the variation does not affect the amount of the rent which is so payable, nothing in this Act shall affect the determination of the question whether the variation is such as to give rise to a new tenancy or licence.
+
+(6) Any reference in subsection (5) above to a variation affecting the amount of the rent which is payable under a tenancy or licence does not include a reference to—
+
+- (a) a reduction or increase effected under Part III or Part VI of the Rent Act [^c908067]1977 (rents under regulated tenancies and housing association tenancies), section 78 of that Act (power of [^key-81d870f47a82211edbf745f7ffc726d6]... tribunal in relation to restricted contracts) or sections 11 to 14 of the Rent (Agriculture) Act [^c908068]1976; or
+- (b) a variation which is made by the parties and has the effect of making the rent expressed to be payable under the tenancy or licence the same as a rent for the dwelling which is entered in the register under Part IV or section 79 of the Rent Act [^c908069]1977.
+
+### 9. The court for purposes of Part I.
+
+(1) The court for the purposes of Part I of this Act shall, subject to this section, be—
+
+- (a) the county court, in relation to premises with respect to which the county court has for the time being jurisdiction in actions for the recovery of land; and
+- (b) the High Court, in relation to other premises.
+
+(2)[^key-0501a21d5de299960f0bb435efafd597] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Nothing in this Act shall affect the jurisdiction of the High Court in proceedings to enforce a lessor’s right of re-entry or forfeiture or to enforce a mortgagee’s right of possession in a case where the former tenancy was not binding on the mortgagee.
+
+(4) Nothing in this Act shall affect the operation of—
+
+- (a) section 59 of the [^c908070]Pluralities Act 1838;
+- (b) section 19 of the [^c908071]Defence Act 1842;
+- (c) section 6 of the [^c908072]Lecturers and Parish Clerks Act 1844;
+- (d) paragraph 3 of Schedule 1 to the [^c908073]Sexual Offences Act 1956; or
+- (e) section 13 of the [^c908074]Compulsory Purchase Act 1965.
+
+### 10. Application to Crown.
+
+In so far as this Act requires the taking of proceedings in the court for the recovery of possession or confers any powers on the court it shall (except in the case of section 4(10)) be binding on the Crown.
+
+### 11. Application to Isles of Scilly.
+
+(1) In its application to the Isles of Scilly, this Act (except in the case of section 5) shall have effect subject to such exceptions, adaptations and modifications as the Secretary of State may by order direct.
+
+(2) The power to make an order under this section shall be exercisable by statutory instrument which shall be subject to annulment, in pursuance of a resolution of either House of Parliament.
+
+(3) An order under this section may be varied or revoked by a subsequent order.
+
+### 12. Consequential amendments, etc.
+
+(1)[^c908075] Schedule 1 to this Act contains amendments consequential on the provisions of this Act.
+
+(2) Schedule 2 to this Act contains transitional provisions and savings.
+
+(3)[^c908075] The enactments mentioned in Schedule 3 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(4) The inclusion in this Act of any express saving, transitional provision or amendment shall not be taken to affect the operation in relation to this Act of section 38 of the [^c908077]Interpretation Act 1889 (which relates to the effect of repeals).
+
+### 13. Short title etc.
+
+(1) This Act may be cited as the Protection from Eviction Act 1977.
+
+(2) This Act shall come into force on the expiry of the period of one month beginning with the date on which it is passed.
+
+(3) This Act does not extend to Scotland or Northern Ireland.
+
+(4) References in this Act to any enactment are references to that enactment as amended, and include references thereto as applied by any other enactment including, except where the context otherwise requires, this Act.
+
+SCHEDULES
+
+## Schedule A1 — Financial penalty for offence under section 1[^key-4a46dd998383d233e8367a4a19a3afa4]
+
+Section 1A
+
+### 1. Notice of intent
+
+Before imposing a financial penalty on a person under section 1A a local housing authority must give the person notice of its proposal to do so (a “notice of intent”).
+
+**2.** (1) The notice of intent must be given before the end of the period of 6 months beginning with the first day on which the authority has sufficient evidence of the conduct to which the financial penalty relates.
+
+(2) But if the person is continuing to engage in the conduct on that day, and the conduct continues beyond the end of that day, the notice of intent may be given—
+
+- (a) at any time when the conduct is continuing, or
+- (b) within the period of 6 months beginning with the last day on which the conduct occurs.
+
+**3.** The notice of intent must set out—
+
+- (a) the date on which the notice of intent is given,
+- (b) the amount of the proposed financial penalty,
+- (c) the reasons for proposing to impose the financial penalty, and
+- (d) information about the right to make representations under paragraph 4.
+
+### 4. Right to make representations
+
+(1) A person who is given a notice of intent may make written representations to the local housing authority about the proposal to impose a financial penalty.
+
+(2) Any representations must be made within the period of 28 days beginning with the day after that on which the notice was given (“the period for representations”).
+
+### 5. Final notice
+
+After the end of the period for representations the local housing authority must—
+
+- (a) decide whether to impose a financial penalty on the person, and
+- (b) if it decides to impose a financial penalty, decide the amount of the penalty.
+
+**6.** If the authority decides to impose a financial penalty on the person, it must give the person a notice (a “final notice”) imposing that penalty.
+
+**7.** The final notice must require the penalty to be paid within the period of 28 days beginning with the day after that on which the notice was given.
+
+**8.** The final notice must set out—
+
+- (a) the date on which the final notice is served,
+- (b) the amount of the financial penalty,
+- (c) the reasons for imposing the penalty,
+- (d) information about how to pay the penalty,
+- (e) the period for payment of the penalty,
+- (f) information about rights of appeal, and
+- (g) the consequences of failure to comply with the notice.
+
+### 9. Withdrawal or amendment of notice
+
+(1) A local housing authority may at any time—
+
+- (a) withdraw a notice of intent or final notice, or
+- (b) reduce the amount specified in a notice of intent or final notice.
+
+(2) The power in sub-paragraph (1) is to be exercised by giving notice in writing to the person to whom the notice was given.
+
+### 10. Appeals
+
+(1) A person to whom a final notice is given may appeal to the First-tier Tribunal against—
+
+- (a) the decision to impose the penalty, or
+- (b) the amount of the penalty.
+
+(2) An appeal under this paragraph must be brought within the period of 28 days beginning with the day after that on which the final notice was given.
+
+(3) If a person appeals under this paragraph, the final notice is suspended until the appeal is finally determined, withdrawn or abandoned.
+
+(4) An appeal under this paragraph—
+
+- (a) is to be a re-hearing of the local housing authority’s decision, but
+- (b) may be determined having regard to matters of which the authority was unaware.
+
+(5) On an appeal under this paragraph the First-tier Tribunal may confirm, vary or cancel the final notice.
+
+(6) The final notice may not be varied under sub-paragraph (5) so as to make it impose a financial penalty of more than the local housing authority could have imposed.
+
+### 11. Recovery of financial penalty
+
+(1) This paragraph applies if a person fails to pay the whole or any part of a financial penalty which, in accordance with this Schedule, the person is liable to pay.
+
+(2) The local housing authority which imposed the financial penalty may recover the whole or part of the penalty on the order of the county court as if it were payable under an order of that court.
+
+(3) In proceedings before the county court for the recovery of a financial penalty or part of a financial penalty, a certificate which is—
+
+- (a) signed by the chief finance officer of the local housing authority which imposed the penalty, and
+- (b) states that the amount due has not been received by a date specified in the certificate,
+
+is conclusive evidence of that fact.
+
+(4) A certificate to that effect and purporting to be so signed is to be treated as being so signed unless the contrary is proved.
+
+(5) In this paragraph “**chief finance officer**” has the same meaning as in section 5 of the [Local Government and Housing Act 1989](https://www.legislation.gov.uk/ukpga/1989/42).
+
+### 12. Proceeds of financial penalties
+
+Where a local housing authority imposes a financial penalty under this Act, it may apply the proceeds towards meeting the costs and expenses (whether administrative or legal) incurred in, or associated with, carrying out any of its enforcement functions under this Act or otherwise in relation to the private rented sector.
+
+**13.** Any proceeds of a financial penalty imposed under this Act which are not applied in accordance with paragraph 12 must be paid to the Secretary of State.
+
+**14.** (1) In paragraph 12, enforcement functions “**in relation to the private rented sector**” means enforcement functions relating to—
+
+- (a) residential premises in England that are let, or intended to be let, under a tenancy,
+- (b) the common parts of such premises,
+- (c) the activities of a landlord under a tenancy of residential premises in England,
+- (d) the activities of a person carrying on English letting agency work within the meaning of section 54 of the [Housing and Planning Act 2016](https://www.legislation.gov.uk/ukpga/2016/22) in relation to such premises, or
+- (e) the activities of a person carrying on English property management work within the meaning of section 55 of the [Housing and Planning Act 2016](https://www.legislation.gov.uk/ukpga/2016/22) in relation to such premises.
+
+(2) For the purposes of this paragraph, “**residential premises**” has the meaning given by section 1 of the [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34) except that it does not include social housing within the meaning of Part 2 of the [Housing and Regeneration Act 2008](https://www.legislation.gov.uk/ukpga/2008/17).
+
+(3) For the purposes of this paragraph, “**tenancy**” includes a licence to occupy.
+
+## SCHEDULE 1 — Consequential Amendments[^c908078]
+
+Section 12.
+
+### Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+
+**1.** In section 22(1) of the Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951, for “Part III of the Rent Act 1965” substitute “Part I of the Protection from Eviction Act 1977”.
+
+**2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c908079]
+
+### Caravan Sites Act 1968 (c. 52)
+
+**3.** In section 5(5) of the Caravan Sites Act 1968 (provisions of Part III of the Rent Act 1965 relating to protection against eviction etc. not to apply to caravans on protected sites) for the words “Part III of the Rent Act 1965” substitute “the Protection from Eviction Act 1977”.
+
+### Rent (Agriculture) Act 1976 (c. 80)
+
+**4.** In Schedule 5 to the Rent (Agriculture) Act 1976, in paragraph 10(2) for “section 16 of the Rent Act 1957” substitute “section 5 of the Protection from Eviction Act 1977”.
+
+## SCHEDULE 2 — Transitional Provisions and Savings
+
+**1.** (1) In so far as anything done under an enactment repealed by this Act could have been done under a corresponding provision of this Act, it shall not be invalidated by the repeal but shall have effect as if done under that provision.
+
+(2) Sub-paragraph (1) above applies, in particular, to any regulation, rule, notice or order.
+
+**2.** The enactments mentioned in Schedule 6 to the [^c908080]Rent Act 1965 shall, notwithstanding the repeal of that Act by this Act, continue to have effect as they had effect immediately before the commencement of this Act.
+
+## SCHEDULE 3 — Repeals[^c908081]
+
+Section 12.
+
+| Chapter | Short Title | Extent of Repeal |
+| --- | --- | --- |
+| 5 & 6 Eliz. 2. c. 25. | The Rent Act 1957. | Section 16. |
+| 1965 c. 75. | The Rent Act 1965. | The Whole Act, so far as unrepealed. |
+| 1968 c. 23. | The Rent Act 1968. | In section 108(2), the words “or under Part III of the Rent Act 1965”. |
+|  |  | In section 109(3), the words “or Part III of the Rent Act 1965 (protection against harassment)”. |
+|  |  | In Schedule 15, the entries relating to sections 32 and 34 of the Rent Act 1965. |
+| 1970 c. 40. | The Agriculture Act 1970. | Section 99. |
+| 1972 c. 47. | The Housing Finance Act 1972. | In Schedule 9, paragraph 12(2) and in paragraph 12(3) the words “or to Part III of the Rent Act 1965”. |
+| 1972 c. 71 | The Criminal Justice Act 1972. | Section 30. |
+| 1974 c. 44. | The Housing Act 1974. | Section 123. |
+| 1976 c. 80. | The Rent (Agriculture) Act 1976. | In Schedule 8, paragraphs 13, 14 and 15. |
+
+## Annotations
+
+[^c907902]: Modification: Act modified (*prosp.*) by [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 32(4)](https://www.legislation.gov.uk/ukpga/2002/41/section/32/4), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159))
+
+[^c907903]: Modification: Powers transferred (W) (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c907904]: Modification: Act modified by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [s. 152](https://www.legislation.gov.uk/ukpga/1980/51/section/152), [Sch. 25 para. 61](https://www.legislation.gov.uk/ukpga/1980/51/schedule/25/paragraph/61)
+
+[^c907905]: Commencement: Act not in force at Royal Assent; Act wholly in force at 29.8.1977 see [s. 13(2)](https://www.legislation.gov.uk/ukpga/1977/43/section/13/2)
+
+[^key-89b490586fcbb5451607396887a79d5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1977/43) excluded (1.10.2014) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [ss. 45(3)](https://www.legislation.gov.uk/anaw/2013/6/section/45/3), [64(2)](https://www.legislation.gov.uk/anaw/2013/6/section/64/2) (with [s. 45(2)](https://www.legislation.gov.uk/anaw/2013/6/section/45/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)); [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c)
+
+[^M_F_3cb9dbf8-9fd8-42e6-e342-41505b6d615c]: Textual amendment: Word in s. 1(3) substituted (with transitional provision) by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 29(1)](https://www.legislation.gov.uk/ukpga/1988/50/section/29/1) (with [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b))
+
+[^c907907]: Textual amendment: S. 1(3A)-(3C) inserted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 29(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/29/2) (with [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b))
+
+[^M_F_4ce49a7e-01e6-4955-e918-99de017860b5]: Textual amendment: S. 1(4)(a): the maximum fine which may be imposed on summary conviction shall be the prescribed sum by virtue of [Magistrates' Courts Act 1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 32(2)](https://www.legislation.gov.uk/ukpga/1980/43/section/32/2)
+
+[^key-5a24a2c67d898bd5b353d1a412782a6b]: Textual amendment: S. 1(7) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/58/2), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/d)
+
+[^key-3d664ce330ba58db112c8e596e59647d]: Textual amendment: S. 1A inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/58/3), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/d)
+
+[^c907908]: Textual amendment: Words substituted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/1988/50/section/30/1), [44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b)
+
+[^c907909]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1977/43/section/3/2A) inserted by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [s. 69(1)](https://www.legislation.gov.uk/ukpga/1980/51/section/69/1)
+
+[^c907910]: Textual amendment: [S. 3(2B)–(2C)](https://www.legislation.gov.uk/ukpga/1977/43/section/3/2B) inserted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/30/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b)
+
+[^c907911]: Marginal citation: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
+
+[^c907912]: Marginal citation: [1976 c. 80](https://www.legislation.gov.uk/ukpga/1976/80).
+
+[^c908005]: Textual amendment: S. 3A inserted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [ss. 31](https://www.legislation.gov.uk/ukpga/1988/50/section/31), [44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b)
+
+[^c908006]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68) (**61**).
+
+[^c908007]: Textual amendment: S. 3A(7A) inserted (11.11.1999) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [ss. 169(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1), [170(3)(s)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/3/s), [Sch. 14](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14), [para. 73](https://www.legislation.gov.uk/ukpga/1999/33/paragraph/73)
+
+[^key-f301174735d8810b10cf1a463acc20f7]: Textual amendment: Words in s. 3A(7A) substituted (16.6.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 43(4)(a)](https://www.legislation.gov.uk/ukpga/2006/13/section/43/4/a), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1), [62(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2); [S.I. 2006/1497](https://www.legislation.gov.uk/uksi/2006/1497), [art. 3](https://www.legislation.gov.uk/uksi/2006/1497/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1497/schedule)
+
+[^key-e23bbbef520c46971f7b6abc0948e309]: Textual amendment: S. 3A(7C) repealed (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/745/schedule/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c40954190c2e55c7636867f53b844980]: Textual amendment: S. 3A(7D) inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 40(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/40/5), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/2016/19/section/40/7)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/b), [5(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/d)
+
+[^c908008]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68)**(61).**
+
+[^c908009]: Textual amendment: Words in s. 3A(8)(a) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(2)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/2), [Sch. 8 para. 4(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/8/paragraph/4/1) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
+
+[^key-9de06c878d0cb8eb78ddc1c6bc7c5890]: Textual amendment: Words in s. 3A(8)(a) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/39); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+
+[^key-19b53a6dde3f11b55cf1a25e8579bf44]: Textual amendment: Words in s. 3A(8)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/55); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+
+[^c908011]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51)**(81:1).**
+
+[^key-2881749f198e49937c9c628a9ea62fa8]: Textual amendment: S. 3A(8)(aa)(ab) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/47); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+
+[^key-79debe5338c21c8d5020fbcefe0313a9]: Textual amendment: S. 3A(8)(ac) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 61](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/61) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^c908012]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64)**(123:3).**
+
+[^key-3934ee7ae27d149616f9f1f1299c632a]: Textual amendment: Words in s. 3A(8)(c) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 24(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/24/2); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13,](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule))
+
+[^c908013]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65)**(123:1, 2).**
+
+[^key-b2211e2d86aaffe096726bd383a57ad4]: Textual amendment: S. 3A(8)(da) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/6)
+
+[^c908014]: Marginal citation: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50)**(61).**
+
+[^c908015]: Textual amendment: S. 3A(8)(f) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
+
+[^key-65d4ed201ce5a1e7c03689f616093b6d]: Modification: S. 3A(8)(g) modified (1.12.2008) by [Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2839/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/2839/schedule/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/2839/article/6))
+
+[^key-b78e710440f02e83ee5369d29ed0aef1]: Textual amendment: Words in s. 3A(8)(g) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 13(a)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/13/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+
+[^c908016]: Textual amendment: Words in s. 3A(8)(g) repealed (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [ss. 140](https://www.legislation.gov.uk/ukpga/1998/38/section/140), [152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 16 para. 2(a)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/2/a), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
+
+[^c908017]: Textual amendment: S. 3A(8)(ga) inserted (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 140](https://www.legislation.gov.uk/ukpga/1998/38/section/140), [Sch. 16 para. 2(b)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/2/b) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
+
+[^c908018]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
+
+[^c908019]: Textual amendment: S. 3A(8)(h) substituted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/7)
+
+[^key-c10d78d3c58f987a60dcf153bcae6631]: Textual amendment: Words in s. 3A(8)(h) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 13(b)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/13/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+
+[^c908020]: Subordinate legislation: S. 3A(8)(i): s. 3A(8)(i) power exercised by [S.I. 1991/1943](https://www.legislation.gov.uk/uksi/1991/1943)
+
+[^key-ab36731d4fd56664906f8e208e0a94fd]: Textual amendment: S. 3A(8A) inserted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 24(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/24/3); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13,](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule))
+
+[^key-5afb0c3acbb7f8a2972c02bd87c4af18]: Textual amendment: Words in s. 3A(8A)(a) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/6); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) ,[17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+
+[^c908038]: Marginal citation: [1976 c. 80](https://www.legislation.gov.uk/ukpga/1976/80).
+
+[^key-88a9707e4ed4742b0074a10d637a96f4]: Textual amendment: Words in s. 4(2)(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/15); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+
+[^c908039]: Textual amendment: S. 4(2A) inserted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/1988/50/section/30/3), [44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b)
+
+[^c908040]: Textual amendment: Words inserted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/1988/50/section/32/1), [44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b)
+
+[^key-ae42eef1b1207c3063faeb43e0092918]: Textual amendment: S. 5(1)(b) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/20/2), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 31(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/6), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [147(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/2), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [9](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/9), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+
+[^key-fc58bedf29dc14c464798fcaf6a95e56]: Textual amendment: S. 5(1ZA)-(1ZD) inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/20/3), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 31(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/31/6), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [147(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/2), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [9](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/9), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+
+[^c908041]: Textual amendment: S. 5(1A)(1B) inserted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/32/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b)
+
+[^key-9530f888bf7ff5f77d397b4f17f9577b]: Textual amendment: Words in s. 5(1A) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/9/2/a) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 14](https://www.legislation.gov.uk/uksi/2022/1172/regulation/14), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+
+[^key-c6823fa21e3f5896f9bf643fe6de0c1c]: Textual amendment: S. 5(1C) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/9/2/b) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 14](https://www.legislation.gov.uk/uksi/2022/1172/regulation/14), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+
+[^key-47b32bfcb2ee225cd407eda4d3cbe651]: Textual amendment: S. 5A inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 21](https://www.legislation.gov.uk/ukpga/2025/26/section/21), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+
+[^c908042]: Textual amendment: [S. 6(aa)](https://www.legislation.gov.uk/ukpga/1977/43/section/6/aa) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(2)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/2), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/8/paragraph/4/2) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
+
+[^c908043]: Textual amendment: Words substituted by virtue of [Criminal Law Act 1977 (c. 45, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1977/45), [s. 31](https://www.legislation.gov.uk/ukpga/1977/45/section/31) and [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 39](https://www.legislation.gov.uk/ukpga/1982/48/section/39), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46), [Sch. 3](https://www.legislation.gov.uk/ukpga/1982/48/schedule/3)
+
+[^c908044]: Marginal citation: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
+
+[^c908045]: Textual amendment: Words repealed by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140(1)(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/140/1/2), [Sch. 17 para. 26](https://www.legislation.gov.uk/ukpga/1988/50/schedule/17/paragraph/26), [Sch. 18](https://www.legislation.gov.uk/ukpga/1988/50/schedule/18)
+
+[^c908057]: Marginal citation: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
+
+[^c908058]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
+
+[^c908059]: Marginal citation: [1976 c. 80](https://www.legislation.gov.uk/ukpga/1976/80).
+
+[^c908060]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
+
+[^c908061]: Textual amendment: Words substituted by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [100](https://www.legislation.gov.uk/ukpga/1986/5/section/100), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 14 para. 61](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/paragraph/61)
+
+[^c908062]: Textual amendment: Words in s. 8(1)(d) inserted (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 29(a)](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/29/a) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37))
+
+[^c908063]: Textual amendment: S. 8(1)(e) inserted by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/33/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b)
+
+[^c908064]: Textual amendment: S. 8(1)(f) inserted by [Local Government and Housing Act 1989 (c. 42, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/1), [Sch. 11 para. 54](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/54)
+
+[^c908065]: Textual amendment: S. 8(1)(g) added (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 29(b)](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/29/b) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37))
+
+[^key-f12f1c247e472a6d3bd9a9ad0b620ba7]: Textual amendment: [S. 8(1)(h)](https://www.legislation.gov.uk/ukpga/1977/43/section/8/1/h) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [9(3)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/9/3) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 14](https://www.legislation.gov.uk/uksi/2022/1172/regulation/14), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+
+[^c908066]: Textual amendment: S. 8(4)–(6) added by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [ss. 33(3)](https://www.legislation.gov.uk/ukpga/1988/50/section/33/3), [44(2)(b)](https://www.legislation.gov.uk/ukpga/1988/50/section/44/2/b)
+
+[^c908067]: Marginal citation: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42)**(75:3).**
+
+[^key-81d870f47a82211edbf745f7ffc726d6]: Textual amendment: Word in [s. 8(6)(a)](https://www.legislation.gov.uk/ukpga/1977/43/section/8/6/a) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/35) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^c908068]: Marginal citation: [1976 c. 80](https://www.legislation.gov.uk/ukpga/1976/80)**(75:3).**
+
+[^c908069]: Marginal citation: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42)**(75:3).**
+
+[^key-0501a21d5de299960f0bb435efafd597]: Textual amendment: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1977/43/section/9/2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 122](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/122); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c908070]: Marginal citation: [1838 c. 106](https://www.legislation.gov.uk/ukpga/1838/106).
+
+[^c908071]: Marginal citation: [1842 c. 94](https://www.legislation.gov.uk/ukpga/1842/94).
+
+[^c908072]: Marginal citation: [1844 c. 59](https://www.legislation.gov.uk/ukpga/1844/59).
+
+[^c908073]: Marginal citation: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69).
+
+[^c908074]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^c908075]: Modification: The text of s. 12(1)(3) and Schs. 1 and 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as indicated, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c908077]: Marginal citation: [1889 c. 63](https://www.legislation.gov.uk/ukpga/1889/63).
+
+[^key-4a46dd998383d233e8367a4a19a3afa4]: Textual amendment: Sch. A1 inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 58(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/58/4), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/d)
+
+[^c908078]: Modification: The text of s. 12(1)(3) and Schs. 1 and 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as indicated, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c908079]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1977/43/schedule/1/paragraph/2) repealed by [County Courts Act 1984 (c. 28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(3)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1984/28/schedule/4)
+
+[^c908080]: Marginal citation: [1965 c. 75](https://www.legislation.gov.uk/ukpga/1965/75).
+
+[^c908081]: Modification: The text of s. 12(1)(3) and Schs. 1 and 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as indicated, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

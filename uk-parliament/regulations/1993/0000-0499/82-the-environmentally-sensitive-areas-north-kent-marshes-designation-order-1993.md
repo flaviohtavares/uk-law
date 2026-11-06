@@ -1,0 +1,233 @@
+---
+title: The Environmentally Sensitive Areas (North Kent Marshes) Designation Order 1993
+id: uksi/1993/82
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-01-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/82
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/82/made/data.pdf
+pending_changes: 32
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmentally Sensitive Areas (North Kent Marshes) Designation Order 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No.82
+
+AGRICULTURE
+
+The Environmentally Sensitive Areas (North Kent Marshes) Designation Order 1993
+
+Made
+
+15th January 1993
+
+Laid before Parliament
+
+22nd January 1993
+
+Coming into force
+
+13th February 1993
+
+Whereas, as mentioned in section 18(1) of the Agriculture Act 1986[^f00001], it appears to the Minister of Agriculture, Fisheries and Food (“the Minister”) that it is particularly desirable—
+
+(1) to conserve and enhance the natural beauty of the area referred to in article 3 of the following Order;
+
+(2) to conserve the flora and fauna and geological and physiographical features of that area; and
+
+(3) to protect buildings and other objects of historic interest in that area;
+
+And whereas, as mentioned in the said section 18(1), it appears to the Minister that the maintenance or adoption of the agricultural methods specified in Schedule 1 to the following Order is likely to facilitate the aforementioned conservation, enhancement and protection;
+
+Now, therefore, the Minister, in exercise of the powers conferred on him by section 18(1) and (4) of the said Act, and of all other powers enabling him in that behalf, with the consent of the Treasury and after consultation with the Secretary of State, the Countryside Commission and the Nature Conservancy Council for England[^f00002] as to the inclusion of the area referred to in article 3 of the following Order and the features of that area for which conservation, enhancement and protection are desirable, hereby makes the following Order:
+
+## 1. Title and commencement
+
+This Order may be cited as the Environmentally Sensitive Areas (North Kent Marshes) Designation Order 1993 and shall come into force on 13th February 1993.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “agreement” means an agreement under section 18(3) of the Agriculture Act 1986 as respects agricultural land in the area designated by article 3;
+- “farmer” means a person who has an interest in agricultural land in the area designated by article 3 and who also has entered into an agreement with the Minister;
+- “grassland” means land on which the vegetation consists primarily of grass species;
+- “livestock unit” means—
+  - (a) 1 bovine animal more than two years old, or
+  - (b) 1.66 bovine animals from six months old to two years old inclusive, or
+  - (c) 6.66 sheep, or
+  - (d) 1 soliped more than six months old;
+- “woodland” means land used for woodland where that use is ancillary to the farming of land for other agricultural purposes.
+
+(2) Any reference in this Order to a numbered article or Schedule shall be construed as a reference to the article or Schedule bearing that number in this Order.
+
+## 3. Designation of environmentally sensitive area
+
+There is hereby designated as an environmentally sensitive area the area of land in the North Kent Marshes in the County of Kent which is shown coloured yellow on the maps contained in the volume of maps marked “volume of maps of North Kent Marshes environmentally sensitive area” dated 4th January 1993, signed and sealed by the Minister and deposited at the offices of the Ministry of Agriculture, Fisheries and Food, 17 Smith Square, London SW1P 3HX.
+
+## 4. Requirements and provisions of agreement
+
+An agreement shall include the requirements specified in Schedule 1 as to agricultural practices, methods and operations and the installation and use of equipment.
+
+## 5. Breach of requirements or provisions
+
+An agreement shall include provisions that—
+
+- (a) in the event of a breach by the farmer of the requirements referred to in article 4, the Minister may give the farmer notice in writing terminating the agreement forthwith and may recover from the farmer as a debt an amount equivalent to the payments made by the Minister under the agreement or such part thereof as the Minister may specify;
+- (b) any question arising under the agreement as to whether there has been a breach of any of the requirements referred to in article 4 shall be referred to and determined by a single arbitrator to be agreed between the parties or in default of agreement to be appointed by the President of the Royal Institution of Chartered Surveyors and in accordance with the provisions of the Arbitration Act 1950[^f00003] or any statutory modification or re-enactment thereof for the time being in force.
+
+## 6. Rates of payment under agreement
+
+(1) Subject to paragraph (2) below, the Minister shall make payments under an agreement at the rate of £115 per annum for each hectare of land to which the agreement relates.
+
+(2) Where an agreement includes the additional provisions specified in Schedule 2 or 3 in relation to any land, the Minister shall make payments at the rate per annum for each hectare of that land shown in the following table—
+
+|  | *£ per hectare of land per annum* |
+| --- | --- |
+| Schedule 2 | 165 |
+| Schedule 3 | 240 |
+
+(3) Where an agreement includes one or more of the conservation plan operations specified in Schedule 4, the Minister shall also make payments in respect of the aggregate of the operations included in the agreement at a rate not exceeding £75 per annum for each hectare of land to which the agreement relates, subject to a maximum of £3000 per agreement.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunton affixed on
+
+John Selwyn Gummer
+
+Minister of Agriculture, Fisheries and Food
+
+15th January 1993
+
+We consent
+
+Nicholas Baker
+
+Irvine Patnick
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+14th January 1993
+
+## SCHEDULE 1 — REQUIREMENTS TO BE INCLUDED IN AGREEMENT
+
+Article 4
+
+As regards all land which is the subject of an agreement—
+
+(1) the farmer shall maintain grassland and shall not plough, level or reseed. He shall not cultivate between 31st March and 1st July in any year and at other times shall cultivate using only a chain harrow or roller;
+
+(2) the farmer shall graze with cattle or sheep or both, or with horses in conjunction with cattle or sheep or both, but not so as to cause poaching, overgrazing or undergrazing. He shall not exceed a stocking density of 0.75 livestock units per hectare between 31st March and 1st June in any year;
+
+(3) the farmer shall not top or cut the grass for hay or silage before 1st July in any year;
+
+(4) the farmer shall wilt and turn grass cut for silage before removal and shall graze the aftermath;
+
+(5) the farmer shall restrict supplementary feeding of livestock to areas agreed in advance with the Minister;
+
+(6) the farmer shall not apply inorganic or organic fertiliser except farmyard manure produced on his farm;
+
+(7) the farmer shall not increase his existing application rate of farmyard manure and in any event shall not apply more than 12.5 tonnes per hectare in any year. He shall not apply farmyard manure between 31st March and 1st June in any year and at other times shall apply it in a single dressing;
+
+(8) the farmer shall not apply lime, slag or any other substance designed to reduce the acidity of the soil;
+
+(9) the farmer shall not use insecticides or fungicides;
+
+(10) the farmer shall not apply herbicides except to control nettles, spear thistle, creeping or field thistle, curled dock, broadleaved dock or ragwort. Herbicides used for these purposes shall be applied by means of a hand-held weed wiper or by spot treatment with a knapsack sprayer;
+
+(11) the farmer shall not fill in ditches, dykes, rills or hollows;
+
+(12) the farmer shall maintain existing water levels in ditches and dykes;
+
+(13) the farmer shall maintain ditches and dykes in rotation by mechanical means. He shall dry spoil and spread it adjacent to the ditch or dyke;
+
+(14) the farmer shall not install any new land drainage system and shall not modify any existing land drainage system so as to bring about improved drainage;
+
+(15) the farmer shall retain and manage ponds and reedbeds;
+
+(16) the farmer shall maintain gates, gateways and wing fences;
+
+(17) the farmer shall retain and manage hedges, trees and treelines. He shall maintain stockproof hedges in a stockproof condition using traditional methods;
+
+(18) the farmer shall not plant any trees, hedges or woodland without the Minister’s prior written approval;
+
+(19) the farmer shall maintain any weatherproof traditional farm buildings for which he is responsible in a weatherproof condition using traditional methods;
+
+(20) the farmer shall not damage, destroy or remove any feature of archaeological or historic interest;
+
+(21) the farmer shall obtain written advice on siting and materials before constructing buildings or roads or before undertaking any other engineering or construction works which do not require prior notification determination by the local planning authority under the Town and Country Planning General Development Order 1988[^f00004], or planning permission.
+
+## SCHEDULE 2 — ADDITIONAL PROVISIONS—I
+
+Article 6(2)
+
+As regards all land which is the subject of an agreement—
+
+(1) the farmer shall maintain water levels in ditches and dykes at not more than 30 centimetres below mean field level from 1st May until 30th November in any year;
+
+(2) the farmer shall maintain water levels in ditches and dykes at not less than mean field level (so as to create shallow pools) from 1st December in any year until the following 30th April;
+
+(3) except under flood warning conditions, the farmer shall not let water out of ditches and dykes until the levels described in subparagraph (2) above have been achieved.
+
+## SCHEDULE 3 — ADDITIONAL PROVISIONS—II
+
+Article 6(2)
+
+As regards any land which is the subject of an agreement which is suitable for reversion to permanent grassland and which on 31st August 1992 was in arable cropping or had been in ley management for less than five years as part of an arable rotation—
+
+(1) the farmer shall cease arable or ley grassland production and shall establish a grassland sward within twelve months of the start of the agreement using seed from species approved by the Minister;
+
+(2) during a period of twelve months from the start of the agreement the farmer shall not apply—
+
+- (a) any inorganic or organic fertiliser,
+- (b) lime, slag or any other substance designed to reduce the acidity of the soil, or
+- (c) any fungicide, insecticide or herbicide,
+
+without obtaining the Minister’s prior written approval;
+
+(3) during each of the three years following grassland establishment, but not before 1st July in any year, the farmer shall cut the grass, remove the cuttings as hay and graze the aftermath;
+
+(4) the farmer shall observe the requirements of subparagraphs (11) to (21) inclusive of Schedule 1 from the start of the agreement, and after the expiry of the twelve month period referred to in subparagraph (1) above, he shall in addition observe the other requirements of that Schedule.
+
+## SCHEDULE 4 — CONSERVATION PLAN OPERATIONS
+
+Article 6(3)
+
+**1.** The construction of bunds or sluices, or other works designed to control water levels.
+
+**2.** The restoration of ditches and dykes.
+
+**3.** The restoration of ponds.
+
+**4.** The construction or reconstruction of culverts.
+
+**5.** The gapping up, laying or coppicing of hedges.
+
+**6.** Works to protect historic and archaeological features.
+
+(This note is not part of the Order)
+
+Section 18 of the Agriculture Act 1986 (“the 1986 Act”) gives the Minister of Agriculture, Fisheries and Food (“the Minister”) power to designate an area in England as an environmentally sensitive area where it appears to him particularly desirable to conserve, protect or enhance environmental features in that area by the maintenance or adoption of particular agricultural methods.
+
+This Order, which complies with Council Regulation [(EEC) 2328/91](https://www.legislation.gov.uk/european/regulation/1991/2328) (OJNo.L218, 6.8.91, p.1) on improving the efficiency of agricultural structures, designates an area in the North Kent Marshes as an environmentally sensitive area (article 3). The designated area is defined by reference to maps which are available for inspection during normal office hours at the offices of the Ministry of Agriculture, Fisheries and Food at Nobel House,17 Smith Square, London SW1P 3HX.
+
+Section 18(3) of the 1986 Act enables the Minister to enter into a management agreement with any person having an interest in agricultural land in a designated area if the Minister considers that conservation of environmental features in that area may thereby be facilitated. The Order specifies requirements as to agricultural practices, methods and operations and the installation or use of equipment which must be included in such an agreement (article 4 and Schedule 1).
+
+The Order also contains provisions for recovery of sums paid under an agreement by the Minister in the event of a breach of the specified requirements, and for the determination by arbitration of any question as to whether a breach of those requirements has occurred (article 5). The rates of payment to be made by the Minister under an agreement are set out (article 6) including the rates applicable to an agreement which contains additional provisions designed to attract higher rates of payment. These additional provisions are set out in Schedules 2, 3 and 4.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 49](https://www.legislation.gov.uk/ukpga/1986/49). The expression “the Minister” is defined in section 18(11).
+
+[^f00002]: Footnote: The provisions in section 18 of the Agriculture Act 1986 concerning Nature Conservancy Councils were amended by Part VII of, and Schedule 9 to, the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^f00003]: Footnote: [1950 c. 27](https://www.legislation.gov.uk/ukpga/1950/27).
+
+[^f00004]: Footnote: [S.I.1988/1813](https://www.legislation.gov.uk/uksi/1988/1813). The relevant amending instrument is [S.I.1991/2805](https://www.legislation.gov.uk/uksi/1991/2805).

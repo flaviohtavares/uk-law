@@ -1,0 +1,103 @@
+---
+title: The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2022
+id: uksi/2022/267
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-03-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/267
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/267/pdfs/uksiem_20220267_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/267/pdfs/uksi_20220267_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/267/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 267
+
+Pensions
+
+The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2022
+
+Made
+
+8th March 2022
+
+Laid before Parliament
+
+17th March 2022
+
+Coming into force
+
+11th April 2022
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004[^f00001].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2022 and comes into force on 11th April 2022.
+
+## 2. Amendment of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011
+
+The Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00002] is amended in accordance with articles 3 to 5.
+
+## 3. Amendment of article 24A
+
+In article 24A (award of armed forces independence payment)[^f00003], in paragraph (3), for “£152.15” substitute “£156.90”.
+
+## 4. Amendment of article 24D
+
+In article 24D (payment of armed forces independence payment in respect of Motability)[^f00004], in paragraph (2), for “£62.55” substitute “£64.50”.
+
+## 5. Amendment of Schedule 3
+
+(1) Schedule 3 (the tariff and supplementary awards), Part 1 (descriptors, tariff levels and amounts – “the tariff”) is amended as follows.
+
+(2) In Table 1 (burns)[^f00005] for the entry in column (b) (description of injury and its effects (“descriptor”)) in respect of item 9, after “4.5” insert “%”.
+
+(3) In Table 9 (musculoskeletal disorders)[^f00006] for the entry in column (b) (description of injury and its effects (“descriptor”)) in respect of item 16D, after “shoulder” insert “, elbow”.
+
+Leo Doherty
+
+Parliamentary Under Secretary of State
+
+Ministry of Defence
+
+8th March 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 ([S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517)) (“**the principal Order**”), which provides for benefits to be payable to, or in respect of, a person by reason of injury, illness or death caused wholly or partly by service in the regular or reserve armed forces.
+
+Article 3 amends article 24A of the principal Order to increase the amount of the allowance known as “the armed forces independence payment” which is designed to provide financial support to cover extra costs that a recipient of that benefit may incur as a result of a relevant injury. That amount is increased to £156.90 per week.
+
+Article 4 amends article 24D of the principal Order to increase the amount that may be paid out of an armed forces independence payment in settlement of liabilities due under an agreement between a claimant and Motability in respect of the hire or hire purchase of a vehicle. That amount is increased to £64.50 per week.
+
+Article 5 amends Schedule 3 to the principal Order by amending descriptors in Table 1 and Table 9.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 32](https://www.legislation.gov.uk/ukpga/2004/32).
+
+[^f00002]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517).
+
+[^f00003]: Footnote: Article 24A was inserted by [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436) and amended by [S.I. 2021/285](https://www.legislation.gov.uk/uksi/2021/285). There are other amending instruments but none is relevant.
+
+[^f00004]: Footnote: Article 24D was inserted by [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436) and amended by [S.I. 2021/285](https://www.legislation.gov.uk/uksi/2021/285). There are other amending instruments but none is relevant.
+
+[^f00005]: Footnote: Table 1 was substituted by [S.I. 2014/412](https://www.legislation.gov.uk/uksi/2014/412).
+
+[^f00006]: Footnote: Table 9 was amended by [S.I. 2019/440](https://www.legislation.gov.uk/uksi/2019/440). There are other amending instruments but none is relevant.

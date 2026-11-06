@@ -1,0 +1,1823 @@
+---
+title: The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989
+id: uksi/1989/1058
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1989-06-26'
+text_date: '2009-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1989/1058
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/1058/pdfs/uksi_19891058_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/1058/data.pdf
+pending_changes: 136
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989
+
+> **Warning: changes not yet applied to this text (136).** Text as at 2009-10-31. See https://www.legislation.gov.uk/changes/affected/uksi/1989/1058
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1989 No. 1058
+
+RATING AND VALUATION
+
+The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989
+
+Made
+
+26th June 1989
+
+Laid before Parliament
+
+30th June 1989
+
+Coming into force
+
+21st July 1989
+
+The Secretary of State for the Environment as respects England, and the Secretary of State for Wales as respects Wales, in exercise of the powers conferred on them by sections 63, 143(1) and (2) and 146(6) of, and paragraphs 1 to 4 of Schedule 9 to, the Local Government Finance Act 1988[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:[^key-efabb61cbcb60abfd2b734f94ca14990]
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation[^M_E_18bfe97e-2ae9-495a-b708-bddde0b19cde][^key-474cc844c7b101535a03ea59140f7bb0]
+
+*Extent: E*
+
+(1) These Regulations may be cited as the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989 and shall come into force on 21st July 1989.
+
+(2) In these Regulations —[^key-bf058150f7b286d3ea92ce3b724abd3e]
+
+- “the Act” means the Local Government Finance Act 1988.
+- “address” in relation to electronic communications, includes any number or address used for the purposes of such communications;[^key-920b8836ad726e4fac4d5940035868b8]
+- “business day” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales;
+- “demand notice regulations” means the Council Tax and Non-Domestic Rating (Demand Notices)(England) Regulations 1993 or, as the case may be, the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^key-fcfee4b5ac86b75ee34e73d8d32473ca];
+- “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—[^key-7ae4b1d48d6ab6f408a49bdead7742fa]
+  - (a) by means of an electronic communications network within the meaning of section 32(1) of the Communications Act 2003;
+  - (b) by other means but while in an electronic form;
+
+### 1. Citation, commencement and interpretation[^M_E_1dcc3398-9ce7-4fcf-b131-3ecac05b9ee0]
+
+*Extent: W*
+
+(1) These Regulations may be cited as the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989 and shall come into force on 21st July 1989.
+
+(2) In these Regulations —[^key-e5edfb2ba2b03ec853e89c503df35cbf]
+
+- “the Act” means the Local Government Finance Act 1988.
+- “address” in relation to electronic communications, includes any number or address used for the purposes of such communications;[^key-bfd2b284e7d4a28d7c8b8f06d16e69ea]
+- “business day” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales;
+- “demand notice regulations” means the Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993;
+- “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
+  - (a) by means of an electronic communications network within the meaning of section 32(1) of the Communications Act 2003;
+  - (b) by other means but while in an electronic form.
+
+### 2. Service of notices[^M_E_6316508a-ede1-4507-ee0e-2a14297ab8cc][^key-e9f0c7d8dddcd55c10192a86f1eddc3e][^key-46f1b2914defed0510679cd937df5743]
+
+*Extent: E*
+
+(1) Where any notice which is required or authorised by these Regulations to be given to or served on a person falls to be given or served by or on behalf of the Common Council or by an officer of the Common Council, it may be given or served in any manner in which it might be given or served under section 233 of the Local Government Act 1972[^f00002] if the Common Council were a local authority within the meaning of that section.
+
+(2) Without prejudice to section 233 of the Local Government Act 1972 and paragraph (1) above, where any notice which is required or authorised by these Regulations to be given to or served on a person relates to a hereditament which is (or, where such a notice relates to more than one hereditament, one or more of which is) a place of business of that person, it may be given or served by leaving it at, or by sending it by post to him at, the place of business (or, as the case may be, one of those places of business).
+
+(3)[^key-f1341acdd7b23face599830d45ff4094] Without prejudice to section 233 of the Local Government Act 1972 and paragraphs (1) and (2) above and subject to paragraphs (4) to (7) below, any notice required or authorised to be given to or served by a billing authority on any person by a provision of Part II of these Regulations, or any information required by the demand notice regulations to be supplied to any person when a demand notice (within the meaning of Part II of these Regulations) is served:
+
+- (a) may be so given, served or supplied by sending the notice or information to that person by electronic communication to such address as may be notified by that person for that purpose; or
+- (b) shall be treated as given, served or supplied to that person where—
+  - (i) the billing authority and that person have agreed for that purpose that any documents containing the notice or information may be accessed by that person on a website;
+  - (ii) the document is a document to which that agreement applies;
+  - (iii) the billing authority has published the document on a website; and
+  - (iv) that person is notified, in a manner for the time being agreed for those purposes between him and the billing authority, of—
+    - (aa) the publication of the document on a website;
+    - (bb) the address of that website; and
+    - (cc) the place on the website where the document may be accessed.
+
+(4) For the purpose of any legal proceedings, a notice given by a means described in paragraph (3) shall, unless the contrary is proved, be treated as served on the second business day after—
+
+- (a) it was sent in accordance with paragraph (3)(a); or
+- (b) notification of its publication was given in accordance with paragraph (3)(b)(iv).
+
+(5) A person who has notified an address for the purpose of paragraph (3)(a) shall, by notice in writing to the billing authority, advise the billing authority of any change in that address; and the change shall take effect on the third business day after the date on which the notice is received by the billing authority.
+
+(6) A person who has notified an address for the purpose of paragraph (3)(a) may, by notice in writing to the billing authority, withdraw that notification; and the withdrawal shall take effect on the third business day after the date on which the notice is received by the billing authority.
+
+(7) A person who has entered into an agreement with the billing authority under paragraph (3)(b)(i) may, by notice in writing to the billing authority, inform the authority that he no longer wishes to be a party to the agreement; and where such notice is given, the agreement shall be treated as revoked on the third business day after the date on which the notice is received by the billing authority.
+
+### 2. Service of notices[^M_E_a6ca80b2-31d4-4c43-89ee-2d23e4f7e472][^V_W_9d1980a1-38f3-c5a1-37a3-c48ca680ec8f]
+
+*Extent: W*
+
+(1) Where any notice which is required or authorised by these Regulations to be given to or served on a person falls to be given or served by or on behalf of the Common Council or by an officer of the Common Council, it may be given or served in any manner in which it might be given or served under section 233 of the Local Government Act 1972[^f00002] if the Common Council were a local authority within the meaning of that section.
+
+(2) Without prejudice to section 233 of the Local Government Act 1972 and paragraph (1) above, where any notice which is required or authorised by these Regulations to be given to or served on a person relates to a hereditament which is (or, where such a notice relates to more than one hereditament, one or more of which is) a place of business of that person, it may be given or served by leaving it at, or by sending it by post to him at, the place of business (or, as the case may be, one of those places of business).
+
+*Extent: W.*
+
+(3)[^key-195dc479321edc87feb6125eb58efd9c] Without prejudice to section 233 of the Local Government Act 1972 and paragraphs (1) and (2) above and subject to paragraphs (4) to (7) below, any notice required or authorised to be given to or served by a billing authority on any person by a provision of Part II of these Regulations or by Regulation 11, or any information required by the demand notice regulations to be supplied to any person when a demand notice (within the meaning of Part II of these Regulations) is served:
+
+- (a) may be so given, served or supplied by sending the notice or information to that person by electronic communication to such address as may be notified by that person for that purpose; or
+- (b) is treated as given, served or supplied to that person where—
+  - (i) the billing authority and that person have agreed for that purpose that any documents containing the notice or information may be accessed by that person on a website;
+  - (ii) the document is a document to which that agreement applies;
+  - (iii) the billing authority has published the document on a website; and
+  - (iv) that person is notified, in a manner for the time being agreed for those purposes between that person and the billing authority, of—
+    - (aa) the publication of the document on a website;
+    - (bb) the address of that website; and
+    - (cc) the place on the website where the document may be accessed.
+
+(4 (Extent: W.)) For the purpose of any legal proceedings, a notice given by a means described in paragraph (3), unless the contrary is proved, is treated as served on the second business day after— *(Extent: W.)*
+
+- (a (Extent: W.)) it was sent in accordance with paragraph (3)(a); or *(Extent: W.)*
+- (b (Extent: W.)) notification of its publication was given in accordance with paragraph (3)(b)(iv). *(Extent: W.)*
+
+(5 (Extent: W.)) A person who has notified an address for the purpose of paragraph (3)(a) must, by notice in writing to the billing authority, advise the billing authority of any change in that address; and the change takes effect on the third business day after the date on which the notice is received by the billing authority. *(Extent: W.)*
+
+(6 (Extent: W.)) A person who has notified an address for the purpose of paragraph (3)(a) may, by notice in writing to the billing authority, withdraw that notification; and the withdrawal takes effect on the third business day after the date on which the notice is received by the billing authority. *(Extent: W.)*
+
+(7 (Extent: W.)) A person who has entered into an agreement with the billing authority under paragraph (3)(b)(i) may, by notice in writing to the billing authority, inform the authority that they no longer wish to be a party to the agreement; and where such notice is given, the agreement is treated as revoked on the third business day after the date on which the notice is received by the billing authority. *(Extent: W.)*
+
+## PART II — BILLING[^key-31252dc61e6dc93f76d277ead9fa1c2c]
+
+### 3. Interpretation and application of Part II[^key-89389eac691da30672b5153ad2611334]
+
+(1) In this Part–
+
+- “the amount payable” for a chargeable financial year or part of a chargeable financial year in relation to a ratepayer, a[^key-a3ae72d284ed7fc7c771695b0977f8e7] billing authority[^key-b742d55c1acd302312606008cd47e5d6] and a hereditament means—
+  - (a) the amount the ratepayer is liable to pay to the authority as regards the hereditament in respect of the year or part under section 43 or 45 of the Act, whether calculated by reference to section 43(4) to (6) or 45(4) to (6) *(Extent: E.)* *(affected by repeal, see note)*[^key-ef6531b757204abf9a6b1ba4068e4bf7] 45(4) or (4A) *(Extent: E.)* of the Act (as those provisions are amended or substituted in any case by or under Schedule 7A to the Act) or by refernce to an amount or rules determined or prescribed under section 47(1)(a) , 57A(3)(a) *(Extent: E.)*[^key-07a2139d31a598f0b686635de76c2b6b] or 58(3)(a) of the Act; or
+  - (b) where an amount falls to be credited by the billing authority against the ratepayer’s liability in respect of the year or part, the amount (if any) by which the amount referred to in sub-paragraph (a) above exceeds the amount falling to be credited;
+- “demand notice” means the notice required to be served by regulation 4(1);
+- “ratepayer” in relation to a chargeable financial year and a billing authority means a person liable to pay an amount under section 43 or 45 of the Act to the authority in respect of the year; and
+- “relevant year” in relation to a notice means the chargeable financial year to which the notice relates.
+- “the[^key-015865c4c20a6d9512ce784b19baec2b] 1992 Act” means the Non-Domestic Rating Act 1992;
+- “transitional adjustment notice” has the meaning given by paragraph 7A(2)(b) of Schedule 1
+
+(2) For the purposes of this Part the conditions mentioned in section 43(1) or 45(1) of the Act are not to be treated as fulfilled as regards a hereditament on any day on which the chargeable amount for the day in respect of it is 0 under section 45A of the Act or *(Extent: E)*[^key-236189873bd3ead7a16a1cefd3bbdb01] by virtue of a determination to that effect under section 47(1)(a) of the Act.
+
+(3) Where references are made in this Part to the day on which a notice is issued, they shall be taken to be references–
+
+- (a) if the notice is served in the manner described in regulation 2(2) or section 233(2) of the Local Government Act 1972 by being left at, or sent by post to, a person’s place of business or proper address, to the day on which it is so left or posted, or
+- (b) in any other case, to the day on which it is served.
+
+(4) The provisions of this Part which provide for the repayment or crediting of any amount or the adjustment of payments due under a notice (including in particular paragraph 7 of Schedule 1) shall have effect subject to paragraph 10(4) of Schedule 7 to the Act.
+
+### 4. The requirement for demand notices[^key-a296e0f01500db311ff8841d69706682]
+
+(1) For each chargeable financial year a billing authority shall, in accordance with regulations 5 to 7, serve a notice in writing on every person who is a ratepayer of the authority in relation to the year.
+
+(2) Different demand notices shall be served for different chargeable financial years.
+
+(3) A demand notice shall be served with respect to the amount payable for every hereditament as regards which a person is a ratepayer of the authority, though a single notice may relate to the amount payable with respect to more than one such hereditament.
+
+(4) If a single demand notice relates to the amount payable with respect to more than one hereditament, subject to paragraphs 5 and 8 of Schedule 1 the amounts due under it, and the times at which they fall due, shall be determined as if separate notices were issued in respect of each hereditament.
+
+### 5. Service of demand notices[^key-d9122aa3e2be247129d35e9d916f866f][^key-f1ca4ae931f70feca000ba7af0c4d124]
+
+(1) Subject to paragraph (2), a demand notice shall be served on or as soon as practicable after–
+
+- (a) except in a case falling within sub-paragraph (b), 1st April in the relevant year, or
+- (b) if the conditions mentioned in section 43(1) or 45(1) of the Act are not fulfilled in respect of that day as regards the ratepayer and the hereditament concerned, the first day after that day in respect of which such conditions are fulfilled as regards them.
+
+(2)[^key-fa1500a9f088057bc65095292a9a07d8] Subject to paragraph (3), a demand notice[^key-e4f724a1624f79ccfbe170d3c9394a26] may, if the non-domestic multiplier for the relevant year has been determined or set under Schedule 7 to the Act, be served before the beginning of the relevant year on a person with respect to whom on the day it is issued it appears to the billing authority that the conditions mentioned in section 43(1) or 45(1) of the Act are fulfilled (or would be fulfilled if a list sent under section 41(5) of the Act were in force) as regards the hereditament to which it relates; and if it is so served, references in this Part to a ratepayer shall, in relation to that notice and so far as the context permits, be construed as references to that person.
+
+(3)[^key-518eb445f0bccb5c47fa14477ee8e295] A demand notice shall not be served before the authority has set amounts for the relevant year under section 30 of the Local Government Finance Act 1992.
+
+### 6. Payments under demand notices[^key-fca61c89469cb3eb63aa7aaf82554db0][^key-29de0c3b5f2a50fe0cb30fbc6d91c721]
+
+(1)[^key-40b8a7950bede07e9321184e97cfa676] If a demand notice is issued before or during the relevant year and it appears to the billing authority that the conditions mentioned in section 43(1) or 45(1) of the Act are fulfilled (or would be fulfilled if a list sent under section 41(5) of the Act were in force) in respect of the day on which the notice is issued as regards the ratepayer and the hereditament to which it relates, the notice shall require payment of an amount equal to the billing authority’s estimate of the amount payable for the year, made as respects periods after the issue of the notice on the assumption that the conditions concerned will continue to be fulfilled on every day after that day.
+
+(2) If a demand notice is issued during the relevant year but paragraph (1) does not apply, the notice shall require payment of an amount equal to the amount payable for the period in the year up to the day on which the conditions mentioned in sections 43(1) and 45(1) were last fulfilled as regards the ratepayer and hereditament concerned.
+
+(3) If, after a notice is served to which paragraph (2) applies, the conditions mentioned in section 43(1) or 45(1) of the Act are fulfilled again in the relevant year as regards the ratepayer and the hereditament concerned, a further notice shall be served on him requiring payments with respect to the amount payable in relation to the hereditament for the period in the relevant year beginning with the day in respect of which the conditions are so fulfilled again; and regulations 5 to 8 (and, so far as applicable, Schedule 1) shall apply to the further notice with respect to that period as if it were a demand notice and the conditions had not previously been fulfilled.
+
+(4) If a demand notice is issued after the end of the relevant year, it shall require payment of the amount payable for the year.
+
+### 7. Payments under demand notices: further provision[^key-449dc9b388bff32163127c86a73f596a]
+
+(1) Unless an agreement under paragraph (3) in relation to the relevant year has been reached between the ratepayer and the billing authority before the demand notice is issued, a notice to which regulation 6(1) applies shall require the estimate of the amount payable to be paid by instalments in accordance with Part I of Schedule 1; and where such instalments are required Part II of the Schedule applies for their cessation or adjustment in the circumstances described in that Part.
+
+(2) If an agreement under paragraph (3) in relation to the relevant year has been reached between the billing authority and the ratepayer before the demand notice is issued, a notice to which regulation 6(1) applies shall require the estimate of the amount payable to be paid in accordance with that agreement.
+
+(3) A billing authority and a ratepayer may agree that the estimate of the amount payable which is required to be paid under a notice to which regulation 6(1) applies should be paid in such manner as is provided by the agreement, rather than in accordance with Schedule 1.
+
+(4) Notwithstanding anything in the foregoing provisions of this regulation, such an agreement may be entered into either before or after the demand notice concerned is issued, and may make provision for the cessation or adjustment of payments, and for the making of fresh estimates, in the event of the estimate mentioned in regulation 6(1) turning out to be wrong; and if it is entered into after the demand notice has been issued, it may make provision dealing with the treatment for the purposes of the agreement of any sums paid in accordance with Schedule 1 before it was entered into.
+
+(5) A notice to which regulation 6(2) or (4) applies shall require payment of the amount payable on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
+
+(6) No payment in respect of the amount payable by a ratepayer in relation to a hereditament for any chargeable financial year (whether interim, final or sole) need be made unless a notice served under this Part requires it.
+
+### 7A. Backdated liability: special provision in relation to 2005 rating lists[^key-f6760f0dbb02f95c70e8d6726f4d90d3]
+
+*Extent: E*
+
+Notwithstanding the requirements of a demand notice issued in accordance with regulation 7, a ratepayer and a billing authority may reach an agreement in accordance with Schedule 1A.
+
+### 7B. Deferred payments: special provision in relation to financial years beginning on 1st April 2009, 2010 and 2011[^key-41763a0c5cf724aa2528b55533fe6e5a]
+
+*Extent: E*
+
+Schedules 1B and 1C, which contain special provision in relation to payments under demand notices relating to financial years beginning on 1st April 2009, 1st April 2010 and 1st April 2011, shall have effect.
+
+### 7C. Deferred payments: special provision in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011[^key-337dbbd41e3e1a59b6307cb016e93283]
+
+*Extent: W.*
+
+Schedule 1D which contains special provision in relation to payments under demand notices relating to financial years beginning on 1 April 2009, 1 April 2010 and 1 April 2011, must have effect.
+
+### 8. Failure to pay instalments[^key-446c8c823ed794e7e46d632b72b373d6]
+
+(1) Where–
+
+- (a) a demand notice has been served by a billing authority on a ratepayer,
+- (b) instalments are payable under the notice in accordance with Schedule 1, and
+- (c) any such instalment is not paid in accordance with the Schedule,
+
+the billing authority shall (unless all the instalments have fallen due) serve a further notice on the ratepayer stating the instalments required to be paid.
+
+(2) If, after the service of a further notice under paragraph (1), the ratepayer–
+
+- (a) fails to pay, before the expiry of the period of 7 days beginning with the day of service of the further notice, any instalments which fall due before the expiry of that period under the demand notice concerned, or
+- (b) fails to pay any instalment which falls due after the expiry of that period under the demand notice concerned on or before the day on which it so falls due,
+
+the unpaid balance of the estimated amount shall become payable by him at the expiry of a further period of 7 days beginning with the day of the failure.
+
+(3) If the unpaid balance of the estimated amount has become payable under paragraph (2), and on calculating the amount payable for the relevant year in relation to a hereditament to which the demand notice concerned relates that amount proves to be greater than the estimated amount in relation to the hereditament, an additional sum equal to the difference between the two shall, on the service by the billing authority on the ratepayer of a notice stating the amount payable, be due from the person to the authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
+
+(4) If the unpaid balance of the estimated amount has become payable under paragraph (2), and on calculating the amount payable for the relevant year in relation to a hereditament to which the demand notice concerned relates that amount proves to be less than the estimated amount in relation to the hereditament, the billing authority shall notify the ratepayer in writing of the amount payable; and any overpayment in respect of any liability of the ratepayer under this Part–
+
+- (a) shall be repaid if the ratepayer so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or be credited against any subsequent liability of the ratepayer to pay anything to it by way of non-domestic rate.
+
+(5) If any factor or assumption by reference to which the estimated amount was calculated in relation to a hereditament is shown to be false before the amount payable is capable of final determination for the purposes of paragraphs (3) and (4), the billing authority may, and if so required by the ratepayer shall, make a calculation of the appropriate amount with a view to adjusting the ratepayer’s liability in respect of the estimated amount and (as appropriate) to–
+
+- (a) requiring an interim payment from the ratepayer if the appropriate amount is greater than the estimated amount, or
+- (b) making an interim repayment to the ratepayer if the appropriate amount is less than the amount of the estimated amount paid.
+
+(6) The appropriate amount for the purposes of paragraph (5) is the amount which would be required to be paid under a demand notice if such a notice were issued with respect to the relevant year, the ratepayer and the hereditament on the day that the notice under paragraph (7) is issued or the repayment under paragraph (5)(b) is made (as the case may be); and more than one calculation of the appropriate amount and interim payment or repayment may be required or made under paragraph (5) according to the circumstances.
+
+(7) On calculating the appropriate amount the billing authority shall notify the ratepayer in writing of it; and a payment required under paragraph (5)(a) shall be due from the ratepayer to the billing authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
+
+(8) In this regulation–
+
+- “the appropriate amount” has the meaning given in paragraph (6); and
+- “the estimated amount” means the amount last estimated under regulation 6(1) for the purposes of the demand notice mentioned in paragraph (1)(a) or any subsequent notice given under paragraph 7(2) or, as the case may be, paragraph 7A or paragraph 7B[^key-63fd85e423e1821b8f55c2480884bd84] of Schedule 1 prior to the failure mentioned in paragraph (2) above, save that if in any case an interim adjustment has been required or made under paragraph (5) in relation to a hereditament, it means as regards the next payment, repayment or interim adjustment in relation to the hereditament under this regulation (if any), the appropriate amount by reference to which the previous interim adjustment was so made.
+
+### 9. Demand notices: final adjustment[^key-edcda1d4e16173f62c4edd917c547c5e]
+
+(1) This regulation applies where–
+
+- (a) a notice has been issued by a billing authority under this Part requiring a payment or payments to be made by a ratepayer in respect of the amount payable in relation to a hereditament for a chargeable financial year or part of a chargeable financial year,
+- (b) the payment or payments required to be paid are found to be in excess of or less than the amount payable in relation to the hereditament for the year or the part, and
+- (c) provision for adjusting the amounts required under the notice and (as appropriate) for the making of additional payments or the repaying or crediting of any amount overpaid is not made by any other provision of this Part, of the Act or of any agreement entered into under regulation 7(3).
+
+(2) The billing authority shall as soon as practicable after the expiry of the year or the part of a year serve a further notice on the ratepayer stating the amount payable for the year or part in relation to the hereditament, and adjusting (by reference to that amount) the amounts required to be paid under the notice referred to in paragraph (1)(a).
+
+(3) If the amount stated in the further notice is greater than the amount required to be paid under the notice referred to in paragraph (1)(a), the amount of the difference for which such other provision as is mentioned in paragraph (1)(c) is not made shall be due from the ratepayer to the billing authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
+
+(4) If there has been an overpayment in respect of any liability of the ratepayer under this Part, the amount overpaid for which such other provision as is mentioned in paragraph (1)(c) is not made–
+
+- (a) shall be repaid if the ratepayer so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or be credited against any subsequent liability of the ratepayer to pay anything to it by way of non-domestic rate.
+
+## PART III — ENFORCEMENT[^key-13f92656f25e551e587b295cfe01dfec][^key-1812ed696582204cd2a29d26544fe5c9][^key-70527d4c2714b19cddedf34b60370434][^key-b53892364ef2707e54a45ccfbd2a083c][^key-97c3e6ed73e6d80dee9252ac405ade07]
+
+### 10. Interpretation and application of Part III[^key-3da0e21610b1735c08c962e113e1f882]
+
+(1) In this Part–
+
+- “debtor” means a person against whom a liability order has been made; and
+- “liability order” means an order under regulation 12.
+
+(2) A sum which has become payable to a billing authority under Part II and which has not been paid shall be recoverable under a liability order, or in a court of competent jurisdiction, in accordance with regulations 11 to 21.
+
+(3) References in this Part to a sum which has become payable and which has not been paid include references to a sum forming part of a larger sum which has become payable and the other part of which has been paid.
+
+### 11. Liability orders: preliminary steps[^key-62c3b7d5488f3a9b6ed4c595abee8f7f]
+
+(1) Subject to paragraph (3), before a billing authority applies for a liability order it shall serve on the person against whom the application is to be made a notice (“reminder notice”), which is to be in addition to any notice required to be served under Part II and which is to state every amount in respect of which the authority is to make the application.
+
+(2) A reminder notice may be served in respect of an amount at any time after it has become due.
+
+(3) A reminder notice need not be served on a person who has been served under regulation 8(1) with a notice in respect of the amount concerned where there has been such a failure as is mentioned in regulation 8(2)(a) in relation to the notice.
+
+### 12. Application for liability order[^key-9f53f68af41c9618b16ee2715911526a]
+
+(1) Subject to paragraph (3), if an amount which has fallen due under regulation 8(2) in consequence of such a failure as is mentioned in sub-paragraph (a) of that provision is wholly or partly unpaid, or (in a case where a reminder notice is required under regulation 11) the amount stated in the reminder notice is wholly or partly unpaid at the expiry of the period of 7 days beginning with the day on which the notice was served, the billing authority may, in accordance with paragraph (2), apply to a magistrates' court for an order against the person by whom it is payable.
+
+(2) The application is to be instituted by making complaint to a justice of the peace, and requesting the issue of a summons directed to that person to appear before the court to show why he has not paid the sum which is outstanding.
+
+(3) Section 127(1) of the Magistrates' Courts Act 1980[^f00003] does not apply to such an application; but no application may be instituted in respect of a sum after the period of 6 years beginning with the day on which it became due under Part II.
+
+(4) A warrant shall not be issued under section 55(2) of the Magistrates' Courts Act 1980 in any proceedings under this regulation.
+
+(5) The court shall make the order if it is satisfied that the sum has become payable by the defendant and has not been paid.
+
+(6) An order made pursuant to paragraph (5) shall[^key-2f3f786bf5f51a82a792b81a0fde7887] be made in respect of an amount equal to the aggregate of–
+
+- (a) the sum payable, and
+- (b)[^key-250ca3f08f6fcb7d1d686c4639c14ac0] a sum of an amount equal to the costs reasonably incurred by the applicant in obtaining the order.
+
+(7)[^key-4fa6d023959d61c4bbc88f5b67917b9b][^key-5d72fec041dd25af5a76aa5915219e17] Where the sum payable is paid after a liability order has been applied for under paragraph (2) but before it is made, the court shall nonetheless (if so requested by the billing authority ) make the order in respect of a sum of an amount equal to the costs reasonably incurred by the authorty in making the application.
+
+### 13. Liability orders: further provision[^key-97a70f9b622b12d68246e3845c394dec]
+
+(1) A single liability order may deal with one person and one such amount (or aggregate amount)[^key-dba755ccea24985e2e40b3329a236409] as is mentioned in regulation 12(6) and (7) [^key-2342ad034c649b33eff8430a27cd1b87]..., or, if the court thinks fit, may deal with more than one person and more than one such amount (or aggregate amount) [^key-4d869b99ca26c5ca1a909990a7edb6a7]....
+
+(2) A summons issued under regulation 12(2) may be served on a person–
+
+- (a) by delivering it to him,
+- (b) by leaving it at his usual or last known place of abode, or in the case of a company, at its registered office,
+- (c) by sending it by post to him at his usual or last known place of abode, or in the case of a company, to its registered office,
+- (d) where all or part of the sum to which it relates is payable with respect to a hereditament which is a place of business of the person, by leaving it at, or by sending it by post to him at, the place of business, or
+- (e) by leaving it at, or by sending it by post to him at, an address given by the person as an address at which service of the summons will be accepted.
+
+(2A)[^key-154550e8072498b15ce8ab4baf410ab7] No liability order shall be made in pursuance of a summons issued under regulation 12(2) unless fourteen days have elapsed since the day on which the summons was served.
+
+(3) The amount in respect of which a liability order is made is enforceable in accordance with this Part; and accordingly for the purposes of any of the provisions of Part III of the Magistrates' Courts Act 1980 (satisfaction and enforcement) it is not to be treated as a sum adjudged to be paid by order of the court.
+
+### 14. Distress[^key-5e384fbe7d7dbb4def62df77b7951e2a][^key-dae25de7fa1798da904de0a62c00db4c]
+
+(1) Where a liability order has been made, the authority which applied for the order may levy the appropriate amount by distress and sale of the goods of the debtor against whom the order was made.
+
+(1A)[^key-a7a223045c79520d019d14491853d8ad] Without prejudice to paragraph (8) below, no person making a distress shall seize any goods of the debtor of the following description—
+
+- such clothing, bedding, furniture, household equipment and provisions as are necessary for satisfying the basic domestic needs of the debtor and his family.
+
+(2) The appropriate amount for the purposes of paragraph (1) is the aggregate of–
+
+- (a) an amount equal to any outstanding sum which is or forms part of the amount in respect of which the liability order was made, and
+- (b) a sum determined in accordance with Schedule 3 in respect of charges connected with the distress.
+
+(3) If, before any goods are seized, the appropriate amount (including charges arising up to the time of the payment or tender) is paid or tendered to the authority, the authority shall accept the amount and the levy shall not be proceeded with.
+
+(4) Where an authority has seized goods of the debtor in pursuance of the distress, but before sale of those goods the appropriate amount (including charges arising up to the time of the payment or tender) is paid or tendered to the authority, the authority shall accept the amount, the sale shall not be proceeded with and the goods shall be made available for collection by the debtor.
+
+(5) The person levying distress on behalf of an authority shall carry with him the written authorisation of the authority, which he shall show to the debtor if so requested; and he shall hand to the debtor or leave at the premises where the distress is levied a copy of this regulation and Schedule 3 and a memorandum setting out the appropriate amount, and shall hand to the debtor a copy of any close or walking possession agreement entered into.
+
+(6) A distress may be made anywhere in England and Wales.
+
+(6A)[^key-cb8c615f97b4c21b33b8c03b3cbaecc5] No distress under this regulation may be made other than by a person who is authorised to act as a bailiff by a general certificate granted under section 7 of the Law of Distress Amendment Act 1888.
+
+(7) A distress shall not be deemed unlawful on account of any defect or want of form in the liability order, and no person making a distress shall be deemed a trespasser on that account; and no person making a distress shall be deemed a trespasser from the beginning on account of any subsequent irregularity in making the distress, but a person sustaining special damage by reason of the subsequent irregularity may recover full satisfaction for the special damage (and no more) by proceedings in trespass or otherwise.
+
+(8) The provisions of this regulation shall not affect the operation of any enactment which protects goods of any class from distress.
+
+(9)[^key-bee9542d7f055b993f2961f3353ce5e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Appeals in connection with distress[^key-1932db1c97dbb58d29e8214f63748f8a]
+
+(1) A person aggrieved by the levy of, or an attempt to levy, a distress may appeal to a magistrates' court.
+
+(2)[^key-28aff3b0f5eab03db48ad90c8115b993] The appeal shall be instituted by making complaint to a justice of the peace, and requesting the issue of a summons directed to the authority which levied or attempted to levy the distress to appear before the court to answer to the matter by which he is aggrieved.
+
+(3) If the court is satisfied that a levy was irregular, it may order the goods distrained to be discharged if they are in the possession of the authority; and it may by order award compensation in respect of any goods distrained and sold of an amount equal to the amount which, in the opinion of the court, would be awarded by way of special damages in respect of the goods if proceedings were brought in trespass or otherwise in connection with the irregularity under regulation 14(7).
+
+(4)[^key-c03be7d1333972812ff41cc24b77252e] If the court is satisfied that an attempted levy was irregular, it may by order require the authority to desist from levying in the manner giving rise to the irregularity.
+
+### 16. Commitment to prison[^key-bc7e07e68ca5bc28f5d929343d9cce0e][^key-48cff1d3d4ae0203dbd333f8ce2415b5]
+
+(1) Where a billing authority has sought to levy an amount by distress under regulation 14, the debtor is an individual, and the person making the distress reports to the authority that he was unable (for whatever reason) to find any or sufficient goods of the debtor[^key-5645ef66bbd80aeca2d3462eff00ed1a] on which to levy the amount, the authority may apply to a magistrates' court for the issue of a warrant committing the debtor to prison.
+
+(2) On such application being made the court shall (in the debtor’s presence) inquire as to his means and inquire whether the failure to pay which led to the liability order concerned being made against him was due to his wilful refusal or culpable neglect.
+
+(3) If (and only if) the court is of the opinion that his failure was due to his wilful refusal or culpable neglect it may if it thinks fit–
+
+- (a) issue a warrant of commitment against the debtor, or
+- (b) fix a term of imprisonment and postpone the issue of the warrant until such time and on such conditions (if any) as the court thinks just.
+
+(4) The warrant shall be made in respect of the relevant amount; and the relevant amount for this purpose is the aggregate of–
+
+- (a) the appropriate amount mentioned in regulation 14(2), or (as the case may be) so much of it as remains outstanding, and
+- (b) a sum of an amount equal to the costs reasonably incurred by the applicant in respect of the application.
+
+(5) The warrant–
+
+- (a) shall state the relevant amount mentioned in paragraph (4),
+- (b) may be directed to the authority making the application and to such other persons (if any) as the court issuing it thinks fit, and
+- (c) may be executed anywhere in England and Wales by any person to whom it is directed.
+
+(6)[^key-102095fa1bf8726c138c76980be44158] If–
+
+- (a) before a warrant has been issued, or a term of imprisonment fixed and the issue of a warrant postponed, an amount determined in accordance with paragraph (6A) is paid or tendered to the authority, or
+- (b) after a term of imprisonment has been fixed and the issue of a warrant postponed, any amount the court has ordered the debtor to pay is paid or tendered to the authority, or
+- (c) after a warrant has been issued, the amount stated in it is paid or tendered to the authority,
+
+the authority shall accept the amount concerned, no further steps shall be taken as regards its recovery, and the debtor, if committed to prison, shall be released.
+
+(6A) The amount referred to in paragraph (6)(a) above is the aggregate of–
+
+- (a) the appropriate amount mentioned in regulation 14(2) (or so much of it as remains outstanding), and
+- (b) subject to sub-paragraph (6B) below, the authority’s reasonable costs incurred up to the time of payment or tender in making one or more of the applications referred to in Schedule 4.
+
+(6B) For the purposes of paragraph (6A)(b) above, the authority’s reasonable costs in respect of any application shall not exceed the amount specified in relation to that application in Schedule 4.
+
+(7) The order in the warrant shall be that the debtor be imprisoned for a time specified in the warrant which shall not exceed 3 months, unless the amount stated in the warrant is sooner paid; but–
+
+- (a) where a warrant is issued after a postponement under paragraph (3)(b) and, since the term of imprisonment was fixed but before the issue of the warrant, the amount mentioned in paragraph (4)(a) with respect to which the warrant would (but for the postponement) have been made has been reduced by a part payment, the period of imprisonment ordered under the warrant shall be the term fixed under paragraph (3) reduced by such number of days as bears to the total number of days in that term less one day the same proportion as the part paid bears to that amount, and
+- (b) where, after the issue of a warrant, a part payment of the amount stated in it is made, the period of imprisonment shall be reduced by such number of days as bears to the total number of days in the term of imprisonment specified in the warrant less one day the same proportion as the part paid bears to the amount so stated.
+
+(8) In calculating a reduction required under paragraph (7) any fraction of a day shall be left out of account; and rule 55(1), (2) and (3) of the Magistrates' Courts Rules 1981[^f00006] applies (so far as is relevant) to a part payment as if the imprisonment concerned were imposed for want of sufficient distress to satisfy a sum adjudged to be paid by a magistrates' court.
+
+### 17. Commitment to prison: further provision[^key-fd718fa7f1af282b3db974e59478a13f]
+
+(1) A single warrant may not be issued under regulation 16 against more than one person[^key-998082d7d1b199b67de9c2ed88d84aee]....
+
+(2) Where an application under regulation 16 has been made, and after the making of the inquiries mentioned in paragraph (2) of that regulation no warrant is issued or term of imprisonment fixed, the court may remit all or part of the appropriate amount mentioned in regulation 14(2) to which the application relates.
+
+(3) Where an application under regulation 16 has been made but no warrant is issued or term of imprisonment fixed, the application may be renewed (except so far as regards any sum remitted under paragraph (2)) on the ground that the circumstances of the debtor have changed.
+
+(4) A statement in writing to the effect that wages of any amount have been paid to the debtor during any period, purporting to be signed by or on behalf of his employer, shall in any proceedings under regulation 16 be evidence of the facts there stated.
+
+(5) For the purpose of enabling enquiry to be made as to the debtor’s conduct and means under regulation 16(2), a justice of the peace may–
+
+- (a) issue a summons to him to appear before a magistrates' court and (if he does not obey the summons) issue a warrant for his arrest, or
+- (b) issue a warrant for the debtor’s arrest without issuing a summons.
+
+(6) A warrant issued under paragraph (5) may be executed anywhere in England and Wales by any person to whom it is directed or by any constable acting within his police area; and section 125(3) of the Magistrates' Courts Act 1980 applies to such a warrant.
+
+(7) Regulation 16 and this regulation have effect subject to Part I of the Criminal Justice Act 1982[^f00007] (treatment of young offenders).
+
+### 18. Insolvency[^key-7007ae0dc40f68b66409dbd5e4725392]
+
+(1) Where a liability order has been made and the debtor against whom it was made is an individual, the amount due shall be deemed to be a debt for the purposes of section 267 of the Insolvency Act 1986[^f00008] (grounds of creditor’s petition).
+
+(2)[^key-65402d1f971f15571516cfe1a3d181e9][^key-21f2aae7daeb6d1b166cd5dba96373b5][^key-f1c17c63206cc3b5baee11ebe4c0328c] Where a liability order has been made and the debtor against whom it was made is a company, the amount due shall be deemed to be a debt for the purposes of section 122(1)(f) [^key-43a205a05440406e0fcf54a6d4aefa3d]... (winding up of companies by the court) or, as the case may be, 221(5)(b) (winding up of unregistered companies) of that Act[^key-2b9879d6403ca2530fbfc866b1609ef7].
+
+(3) The amount due for the purposes of this regulation is an amount equal to any outstanding sum which is or forms part of the amount in respect of which the liability order was made.
+
+### 19. Relationship between remedies under a liability order[^key-0f7580b877f911a09158de39b6323372]
+
+(1) Where a warrant of commitment is issued against (or a term of imprisonment is fixed in the case of) a person under regulation 16(3), no steps, or no further steps, may be taken under this Part by way of distress or bankruptcy in relation to the relevant amount mentioned in regulation 16(4).
+
+(2) Steps under this Part by way of distress, commitment, bankruptcy or winding up may not be taken against a person under a liability order while steps by way of another of those methods are being taken against him under it.
+
+(3) Subject to paragraphs (1) and (2) distress may be resorted to more than once.
+
+(4) Where a step is taken by way of distress for the recovery of an outstanding sum which is or forms part of an amount in respect of which a liability order has been made, any sum recovered thereby which is less than the aggregate of the amount outstanding and any charges arising under Schedule 3 shall be treated as discharging first the charges, the balance (if any) being applied towards the discharge of the outstanding sum.
+
+### 20. Recovery in court of competent jurisdiction[^key-e28ebd1aadbd108296044c9866790f13]
+
+(1) A sum which has become payable to a billing authority under Part II, which has not been paid, and in respect of which a liability order has not been made may (as an alternative to recovery under a liability order) be recovered in a court of competent jurisdiction.
+
+(2) A liability order may not be made in respect of any amount in relation to which proceedings have been instituted under paragraph (1) above.
+
+### 21. Magistrates' courts[^key-3bc5d06683b6b1fbb85423af238633f2]
+
+(1)[^key-f80276039e40702266a55a68c400468e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-f80276039e40702266a55a68c400468e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Subject to any other enactment authorising a District Judge (Magistrates' Courts)[^key-d0e3d085ddcbce95cccc5a9d0bbdb7cf] or other person to act by himself, a magistrates' court shall not under this Part hear a summons, entertain an application for a warrant or hold an inquiry as to means on such an application except when composed of at least two justices.
+
+(3) References to a justice of the peace in regulations 12(2) and 15(2) shall be construed subject to rule 3 of the Justices' Clerks Rules 1970[^f00009] (which authorises certain matters authorised to be done by a justice of the peace to be done by a justices' clerk).
+
+(4)[^key-06c8663664dd064a271da641f76b9824][^key-bb60ee46dae66ef119da9cc44fbc3625] In any proceedings under regulation 12 (application for liability order), regulation 15 (appeals in connection with distress) or regulation 16 (commitment to prison), a statement contained in a document constituting or forming part of a record compiled by the applicant authority or an authorised person[^key-58a0a811789e3b9a26bd1b013fda3f63] shall be admissible as evidence of any fact stated in it of which direct oral evidence would be admissible.
+
+(5)[^key-06c8663664dd064a271da641f76b9824] In proceedings where the applicant authority or an authorised person[^key-fde7afe48a7416564cc3cb4813a2be2b] desires to give a statement in evidence in accordance with paragraph (4), and the document containing that statement is produced by a computer, a certificate–
+
+- (a) identifying the document containing the statement and the computer by which it was produced;
+- (b) containing a statement that at all material times the computer was operating properly, or if not, that any respect in which it was not operating properly or was out of operation was not such as to affect the production of the document or the accuracy of its contents;
+- (c) giving such explanation as may be appropriate of the content of the document; and
+- (d) purporting to be signed by a person occupying a responsible position in relation to the operation of the computer,
+
+shall be admissible as evidence of anything which is stated in it to the best of the signatory’s information and belief
+
+(6) In paragraph (4) above, “statement” includes any representation of fact, whether made in words or otherwise; and the reference to an application under regulation 16 includes a reference to an application made in the circumstances mentioned in regulation 17(3).
+
+(7)[^key-2fd11d0458e66a1b5a57df5dc9ac13cd] In this regulation and in regulation 23(3), “authorised person” means any person authorised by a billing authority to exercise any functions relating to the collection and enforcement of non-domestic rates.
+
+### 22. Repayments[^key-00b13d5f9982c16035e231163a35cbe5]
+
+A sum which has become payable (by way of repayment) under Part II to a person other than a billing authority but which has not been paid shall be recoverable in a court of competent jurisdiction.
+
+### 23. Miscellaneous provisions[^key-c137f8febbb0346c315611f7c21b8b36]
+
+(1)[^key-3cbce09cf0f37dc2df3f266372049509] Any matter which could be the subject of an appeal under regulations under section 55 of the Act may not be raised in proceedings under this Part.
+
+(2)[^key-3cbce09cf0f37dc2df3f266372049509] The contents of a local non-domestic rating list or an extract from such a list may be proved in proceedings under this Part by production of a copy of the list or relevant part of the list purporting to be certified by the proper officer of the billing authority to which the list or extract relates to be a true copy.
+
+(3) If a liability order has been made and by virtue of–
+
+- (a) a notification which is given by the billing authority or an authorised person[^key-5619203d4c67c61809ab5d0de449d793] under regulation 8(4) or (7) or 9(2) or paragraph 6(3) or 7(2)(a) of Schedule 1 or sub-paragraph (2) of paragraph 7A of that Schedule (including a notification given under that sub-paragraph pursuant to paragraph 7B(2) of that Schedule)[^key-d386c75adccd912378253cea26ae0cd6], or
+- (b) paragraph 10(4) of Schedule 7 to the Act applying in any case,
+
+any part of the amount mentioned in regulation 12(6)(a) in respect of which the order was made would (if paid) fall to be repaid or credited against any subsequent liability, that part shall be treated for the purposes of this Part as paid on the day the notification is given or the multiplier in substitution is set under paragraph 10 of Schedule 7 to the Act (as the case may be) and accordingly as no longer outstanding.
+
+(4) If, after a warrant is issued or term of imprisonment is fixed under regulation 16(3), and before the term of imprisonment has begun or been fully served, a billing authority gives such a notification as is mentioned in paragraph (3)(a) in the case in question, or sets a multiplier in substitution so that paragraph 10(4) of Schedule 7 to the Act applies in the case in question, it shall forthwith notify accordingly the designated officer[^key-2012b4f78eb1ac4b117faaf8d55c4794][^key-94dd801c6075b94abd004f19f77de855] for the court which issued the warrant and (if the debtor is detained) the governor or keeper of the prison or place where he is detained or such other person as has lawful custody of him.
+
+## PART IV — MISCELLANEOUS
+
+### 24. Outstanding liabilities on death[^key-aaca4af765ce0ef6430efd9cf5e7be06][^key-8a686ce8b012eb4c504ee9415c07e162]
+
+(1) This regulation applies where a person dies and at any time before his death he was (or is alleged to have been) subject to a non-domestic rate.
+
+(2) Where–
+
+- (a) before the deceased’s death a sum has become payable by him under Part II or by way of relevant costs[^key-8ec5e72c1dcf39cdadf3c4232bc7c2c9] in respect of a non-domestic rate but has not been paid, or
+- (b) after the deceased’s death a sum would, but for his death (and whether or not on the service of a notice) become payable by him under Part II in respect of a non-domestic rate,
+
+his executor or administrator shall, subject to paragraph (3) and to the extent that it is not in excess of the deceased’s liability under the Act (including relevant costs payable by him) in respect of the rate, be liable to pay the sum and may deduct out of the assets and effects of the deceased any payments made (or to be made).
+
+(3) Where paragraph (2)(b) applies, the liability of the executor or administrator does not arise until the service on him of a notice requiring payment of the sum.
+
+(4) Where before the deceased’s death a sum in excess of his liability under the Act (including relevant costs payable by him) in respect of a non-domestic rate has been paid (whether the excess arises because of his death or otherwise) and has not been repaid or credited under Part II, his executor or administrator shall be entitled to the sum.
+
+(5) Costs are relevant costs for the purposes of paragraphs (2) and (4) if–
+
+- (a) an order or warrant (as the case may be) was made by the court in respect of them under regulation 12(6)(b) or (7)[^key-1979397cf3d8e326c9fe5b61b4768659] or 16(4)(b), or in proceedings under regulation 20, or
+- (b) they are charges connected with distress which may be recovered pursuant to regulation 14(2)(b).
+
+(6) A sum payable under paragraph (2) shall be enforceable in the administration of the deceased’s estate as a debt of the deceased and accordingly–
+
+- (a) no liability order need be applied for in respect of it after the deceased’s death under regulation 12, and
+- (b) the liability of the executor or administrator is a liability in his capacity as such.
+
+(7) Regulation 23(1) and (2) applies to proceedings to enforce a liability arising under this regulation as it applies to proceedings under Part III.
+
+(8) Insofar as is relevant to his liability under this regulation in the administration of the deceased’s estate, the executor or administrator may institute, continue or withdraw proceedings (whether by way of appeal under regulations under section 55 of the Act or otherwise).
+
+Nicholas Ridley
+
+Secretary of State for the Environment
+
+26th June 1989
+
+Peter Walker
+
+Secretary of State for Wales
+
+26th June 1989
+
+## SCHEDULE 1 — NON-DOMESTIC RATE INSTALMENT SCHEME
+
+Regulation 7(1)
+
+### PART I — payment of the aggregate amount
+
+**1.**[^key-3d97a484a1daf7ba24b725d2d8f091b7] (1) This paragraph applies where the demand notice is issued on or before 31st December in the relevant year, but has effect subject to paragraph 3.
+
+(2) The aggregate amount is to be payable in monthly instalments, the number of such instalments being 10 or, if less, the number of whole months remaining in the relevant year after the issue of the notice less one.
+
+(3) The months in which the instalments are payable must be uninterrupted, but subject to that (and to paragraph 4) are to be such months in the relevant year as are specified in the notice; and the instalments are to be payable on such day in each month as is so specified.
+
+(4) If the aggregate amount divided by the number of instalments gives an amount which is a multiple of a pound, the instalments shall be of that amount.
+
+(5) If the aggregate amount so divided would not give such an amount, all but the first instalment shall be of an amount equal to A and the first instalment shall be of an amount equal to B, where–
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+
+- rounded up or down (as the case may be) to the nearest multiple of a pound,
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+
+,
+
+- C is equal to the aggregate amount, andD is equal to the number of instalments to be paid.
+
+**2.**[^key-31d1cba2467bf603abb2833e913b8e98] Where the demand notice is issued between 1st January and 31st March in the relevant year, the aggregate amount is to be payable in a single instalment on such day as is specified in the notice.
+
+**3.**[^key-977115bb507ac51dbb48911a5be1e607] (1) If amounts calculated in accordance with paragraph 1 would produce an amount for an instalment of less than £50, the demand notice may require the aggregate amount to be paid–
+
+- (a) where the aggregate amount is less than £100, in a single instalment payable on such day as is specified in the notice, or
+- (b) where the aggregate amount is equal to or greater than £100, by a number of monthly instalments equal to the greatest whole number by which £50 can be multiplied to give a product which is less than or equal to the aggregate amount.
+
+(2) The months in which the instalments under sub-paragraph (1)(b) are payable must be uninterrupted, but subject to that are to be such of the months in which, but for this paragraph, the instalments would have been payable under paragraph 1 as are specified in the demand notice; and the instalments are to be payable on such day in each month as is so specified.
+
+(3) Paragraph 1(4) and (5) applies to instalments under sub-paragraph (1)(b) as it applies to instalments under paragraph 1(2).
+
+**4.**[^key-1aecabeb222c766a747058787dbb894d] The demand notice shall be issued at least 14 days before the day on which the first instalment is due under it.
+
+**5.**[^key-98c8304bf7a325cfab2edbdbb1379194] In this Part “the aggregate amount” means the amount of the estimate referred to in regulation 6(1), or if pursuant to regulation 4(3) the demand notice relates to more than one hereditament for which such an estimate is made, the aggregate of the amount of those estimates.
+
+### PART II — cessation and adjustment of instalments
+
+**6.**[^key-21f1f25a181f7d140c8150e65b242728] (1)[^key-9f8d8767fff6a10c395a36b362407114] This paragraph applies where the demand notice has been served on a ratepayer by a billing authority, and in respect of a day (“the relevant day”) in the relevant year[^key-dac5fd5127c88089702ef36c94b1b32c] after its issue neither the conditions mentioned in section 43(1) nor those mentioned in section 45(1) of the Act are fulfilled (or, as the case may be, would be fulfilled if a list sent under section 41(5) of the Act were in force) as regards the ratepayer and the hereditament to which the notice relates.
+
+(2) Subject to sub-paragraphs (5) and (6), no payments of instalments falling due after the relevant day are payable under the notice in relation to the hereditament.
+
+(3) The billing authority shall on the relevant day or as soon as practicable after that day serve a notice on the ratepayer stating the amount payable in relation to the hereditament for the period in the relevant year up to the relevant day.
+
+(4) If the amount stated under sub-paragraph (3) is less than the aggregate amount of any instalments which have fallen due on or before the relevant day in relation to the hereditament, the difference shall go in the first instance to discharge any liability to pay the instalments (to the extent that they remain unpaid); and any residual overpayment in respect of any liability of the ratepayer under Part II of these Regulations–
+
+- (a) shall be repaid if the ratepayer so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or credited against any subsequent liability of the ratepayer to pay anything to it by way of non-domestic rate.
+
+(5) If the amount stated under sub-paragraph (3) is greater than the aggregate amount of any instalments which have fallen due in relation to the hereditament on or before the relevant day, the difference between the two shall be due from the ratepayer to the billing authority on the expiry of such period (being not less than 14 days) after the day of issue of the notice served under that sub-paragraph as is specified in it.
+
+(6) If this paragraph applies in relation to a demand notice, and after the relevant day the conditions mentioned in section 43(1) or 45(1) of the Act are fulfilled again in the relevant year as regards the ratepayer and the hereditament concerned, a further notice shall be served on him requiring payments with respect to the amount payable in relation to the hereditament for the period in the relevant year beginning with the day in respect of which the conditions are so fulfilled again; and regulations 5 to 8 (and, so far as applicable, this Schedule) shall apply to the further notice with respect to that period as if it were a demand notice and the conditions had not previously been fulfilled.
+
+**7.**[^key-d4cee57567ebd70ddaeeefbbdcf14e55] (1) Subject to sub-paragraph (1A), this paragraph[^key-1d24d31e3ddc9eb31a04ba920d9e0775] applies where the demand notice has been served on a ratepayer by a billing authority, any factor or assumption by reference to which the estimate made under regulation 6(1) for the purpose of the notice was calculated is shown to be false in respect of a day (“the relevant day”), and the event mentioned in paragraph 6(1) above has not occurred as regards the hereditament to which the notice relates.
+
+(1A)[^key-b20d6601af8820e7bce245d5b9c503e3] Except as provided in paragraph 9(2), this paragraph does not apply in a case to which paragraph 7A or 7B applies.
+
+(2)[^key-e1d42b6c2436f2beaee0607a33e01c89] The billing authority shall on or as soon as practicable after the relevant day—
+
+- (a) adjust the instalments (if any) payable on or after the adjustment day (“the remaining instalments”) so that they accord with the amounts mentioned in sub-paragraph (4); and
+- (b) serve a notice on the ratepayer which is to state—
+  - (i) the amount of the revised estimate mentioned in sub-paragraph (3); and
+  - (ii) the amount of any remaining instalment.
+
+(3) The amount is the revised estimate of the billing authority of the amount payable for the relevant year in relation to the hereditament made on the assumption mentioned in regulation 6(1) and as if the notice mentioned in that provision were the notice referred to in sub-paragraph (2) above.
+
+(4) The aggregate amount of the remaining instalments payable shall be equal to the amount by which the revised estimate mentioned in sub-paragraph (3) exceeds the aggregate amount of the instalments payable under the demand notice before the adjustment day; and the amount of each remaining instalment (if there are more than one) shall be calculated in accordance with paragraph 1(4) and (5) as if references in those provisions to the aggregate amount and to instalments were references to the aggregate amount of the remaining instalments and to the remaining instalments respectively.
+
+(5) If the revised estimate mentioned in sub-paragraph (3) exceeds the aggregate amount of the instalments payable under the demand notice before the adjustment day, but no instalments are payable under it on or after that day, the amount of the excess shall be due from the ratepayer[^key-959ce8171055eadd47196f11aa706b65] to the billing authority in a single instalment on the expiry of such period (being not less than 14 days) after the day of issue of the notice served under sub-paragraph (2) as is specified in it; and if in any case the revised estimate is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment in respect of any liability of the ratepayer under Part II of these Regulations–
+
+- (a) shall be repaid if the ratepayer so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or credited against any subsequent liability of the ratepayer to pay anything to it by way of non-domestic rate.
+
+(6) Where a notice has been given under sub-paragraph (2), in the operation of this paragraph as respects any further notice that may fall to be given under it, references in this paragraph to the demand notice and to amounts in respect of instalments payable under it shall be construed (so far as the context permits) as references to the demand notice, and amounts in respect of instalments payable under the notice, as from time to time previously adjusted under this paragraph; and in calculating the aggregate amount of instalments payable under a demand notice before the adjustment day for the purposes of sub-paragraphs (4) and (5) in consequence of the calculation of the revised estimate mentioned in sub-paragraph (3), there shall not count as so payable any amount in respect of such instalments which has fallen to be repaid (or credited) under paragraph 10(4) of Schedule 7 to the Act or (on the occasion of the giving of a previous notice under sub-paragraph (2)) under sub-paragraph (5) above , or has been paid (or credited) by way of interest under the Non-Domestic Rating (Payment of Interest) Regulations 1990[^key-7b4fbc35f4f36e2ee8f18408ed04cf8b].
+
+(7) In this paragraph “the adjustment day” means the day 14 days after the day the notice served under sub-paragraph (2) is issued.
+
+**7A.**[^key-a533de3d82f1c39ee34b76f1928969f7] (1) This paragraph applies where—
+
+- (a) the demand notice has been served on a ratepayer by a billing authority;
+- (b) the authority’s estimate under regulation 6(1) for the purposes of the notice ( “the original estimate”) was made before the coming into force of sections 1 to 3 of the 1992 Act;
+- (c) the original estimate is, in consequence of that Act, shown to be false;
+- (d) the event mentioned in paragraph 6(1) above has not occurred as regards the hereditament to which the demand notice relates; and
+- (e) no notice has been served under paragraph 7(2).
+
+(2) The billing authority shall as soon as practicable after the day on which sections 1 to 3 of the 1992 Act come into force—
+
+- (a) adjust the instalments payable on or after the transitional adjustment day ( “the remaining instalments”) so that they accord with the instalments which would have been payable under the demand notice if—
+  - (i) those sections had been in force when the original estimate was made; and
+  - (ii) that estimate had been made with reference to that Act; and
+- (b) serve a notice (“transitional adjustment notice”) on the ratepayer which is to state—
+  - (i) that it takes account of the 1992 Act;
+  - (ii) the amount of the original estimate;
+  - (iii) the amount of the estimate mentioned in sub-paragraph (5) (“the 1992 Act estimate”);
+  - (iv) the amount of the difference between the amounts of the original estimate and the 1992 estimate;
+  - (v) the amount of the instalments which would have been payable under the demand notice if sections 1 to 3 of the 1992 Act had been in force when the original estimate was made and that estimate had been made with reference to that Act;
+  - (vi) the amount of each remaining instalment;
+  - (vii) the day on which each such instalment is payable, being such of the days specified in the demand notice as fall after the transitional adjustment day; and
+  - (viii) the amount of any excess determined in accordance with sub-paragraph (7).
+
+(3) A transitional adjustment notice shall be served at least 14 clear days before the day on which an instalment falls to be paid under the demand notice.
+
+(4) The statement required to be given by sub-paragraph (2)(b)(i) shall be in the following terms—
+
+> - This notice takes account of savings on your rates bill announced in the Budget and made by the Non-Domestic Rating Act 1992.
+
+.
+
+(5) The amount referred to in sub-paragraph (2)(b)(iii) is the revised estimate of the billing authority of the amount payable for the relevant year in relation to the hereditament, having regard to sections 1 to 3 of the 1992 Act and made on the assumption mentioned in paragraph (1) of regulation 6 and as if the notice mentioned in that paragraph were the transitional adjustment notice.
+
+(6) For the purposes of sub-paragraph (2), where the demand notice relates to more than one hereditament, references to the amount of the original estimate and the amount of the 1992 Act estimate shall be construed as references to the aggregate of the amount of the original estimates and the aggregate of the amounts of the 1992 Act estimates respectively.
+
+(7) Insofar as the aggregate of any amounts paid (by reference to the original estimate) before the day on which the transitional adjustment notice is issued exceeds the aggregate of the amounts that would have been payable before that day if the original estimate had been the same as the 1992 Act estimate, the amount of the excess—
+
+- (a) shall be repaid if the ratepayer so requires;
+- (b) in any other case, shall (as the billing authority determines) either be repaid or be credited against any subsequent liability of the ratepayer to pay anything to the billing authority by way of non-domestic rate.
+
+(8) In this paragraph “the transitional adjustment day” means the day 14 days after the day on which the transitional adjustment notice is issued.
+
+(9) A transitional adjustment notice need not be given on a single sheet of paper, but if more than one sheet is used, the sheets shall be issued together, whether or not attached, so as to comprise one notice.
+
+**7B.** (1) This paragraph applies where—
+
+- (a) the events mentioned in paragraph 7A(1)(a) to (c) have occurred;
+- (b) the event mentioned in paragraph 6(1) has not occurred as regards the hereditament to which the demand notice relates; and
+- (c) a notice has been served in accordance with paragraph 7(2).
+
+(2) Sub-paragraphs (2) to (9) of paragraph 7A shall apply in a case to which this paragraph applies as if—
+
+- (a) for the reference in paragraph (a) of sub-paragraph (2) to the demand notice there were substituted a reference to the demand notice and any notice given under paragraph 7(2) in relation to the demand notice;
+- (b) for references in paragraph (b)(ii) and (iv) of sub-paragraph (2) and in sub-paragraph (6) to the original estimate there were substituted references to the revised estimate of which notice has been given under paragraph 7(2) (or, if there has been more than one revised estimate, the last);
+- (c) for paragraph (b)(v) of sub-paragraph (2) there were substituted the following—
+
+  > - (v) the amount of the instalments which would have been payable under the demand notice and any notice given under paragraph 7(2) in relation to the demand notice if sections 1 to 3 of the 1992 Act had been in force when the original estimate was made and that estimate had been made with reference to those sections;
+
+  ; and
+- (d) in sub-paragraph (6), for the reference to the demand notice there were substituted a reference to the demand notice and any notice given under paragraph 7(2) in relation to the demand notice; and
+- (e) in sub-paragraph (7), after the words “by reference to the original estimate”, there were inserted the words “and any revised estimate of which notice has been given under paragraph 7(2)”.
+
+**7C.**[^key-2d8fae3155e1a264252ea8a37127a9d6] If—
+
+- (a) the demand notice has been served on a ratepayer by a billing authority;
+- (b) the authority’s estimate under regulation 6(1) for the purposes of the notice was made before the coming into force of section 1 of the 1993 Act; and
+- (c) the estimate is, in consequence of that Act, shown to be false;
+
+paragraphs 7A and 7B shall apply as if for references to the 1992 Act and to sections 1 to 3 of the 1992 Act there were substituted references to the 1993 Act and to section 1 of the 1993 Act and, in particular, as if for the statement mentioned in paragraph 7A(4) there were substituted the following statement—
+
+> - This notice takes account of savings on your rates bill announced in the Budget and made by the Non-Domestic Rating Act 1993.
+
+**8.**[^key-46c3ea8d5c1ca050868b7ac2964e307c] If pursuant to regulation 4(3) the demand notice relates to more than one hereditament for which such an estimate as is referred to in regulation 6(1) is made–
+
+- (a) references in paragraphs 6(1) to (5), 7(1) and (3), 7A(1)(d) and (5) and 7B(1)(b)[^key-f28f070ce1a450712ef2054389ff86f4] to “the hereditament” shall be construed as references to all the hereditaments, so that paragraph 6 applies only if the event mentioned in sub-paragraph (1) of that paragraph has occurred in relation to all of them,
+- (b) the relevant day shall be determined for the purposes of paragraph 6 by reference to the hereditament with respect to which the conditions referred to in sub-paragraph (1) of that paragraph were (or, as the case may be, would be) last fulfilled,
+- (c) the reference to “the hereditament concerned” in paragraph 6(6) shall be construed as a reference to any of the hereditaments concerned, and
+- (d) where neither the conditions mentioned in section 43(1) nor those mentioned in section 45(1) of the Act are fulfilled with respect to a hereditament to which the notice relates but paragraph 6 does not apply by virtue of paragraph (a) above, references in paragraph 7 to the revised estimate mentioned in sub-paragraph (3) of that paragraph shall be construed insofar as concerns that hereditament as references to the amount payable in relation to the hereditament for the period in the relevant year up to the day on which the conditions were last fulfilled.
+
+**9.**[^key-f4a1fac2505c4fa1a60b93989cf3b855][^key-9e7d7f02eec451e76b64140d22f7a4ff] (1) More than one adjustment of amounts paid or payable under a demand notice may be made under this Part as the circumstances require.
+
+(2) Where a further adjustment falls to be made under this Part after the service of a transitional adjustment notice pursuant to paragraph 7A or 7B—
+
+- (a) paragraph 7 shall apply as if (so far as the context permits) references to the demand notice and to amounts in respect of instalments payable under it were references to the transitional adjustment notice and to the remaining instalments payable under it; and
+- (b) in calculating the aggregate amount of instalments payable under a demand notice before the adjustment day for the purposes of sub-paragraphs (4) and (5) of that paragraph in consequence of the revised estimate mentioned in sub-paragraph (3), and without prejudice to sub-paragraph (6) of paragraph 7, there shall not count as so payable any amount in respect of such instalments which has fallen to be repaid (or credited) under paragraph 7A or 7B, as the case may be.
+
+## SCHEDULE 1A — Backdated liability: special provision in relation to 2005 rating lists[^M_E_14fb982d-b6b0-4444-cd88-c7e4b3d5351f][^key-666cf5bd9462131a507614ad54b91c9a]
+
+*Extent: E.*
+
+Regulation 7A
+
+### 1. Application and interpretation
+
+(1) Subject to sub-paragraph (3), this Schedule applies where—
+
+- (a) a ratepayer has been served by a billing authority with one or more demand notices which, taken together, require the payment of rates under section 43 of the Act in respect of 33 months or more, whether consecutive or not, as a consequence of one or more relevant list alterations; and
+- (b) the demand notice or notices were served in the financial year beginning on 1st April 2007, 1st April 2008 or 1st April 2009.
+
+(2) A relevant list alteration is an alteration to a rating list compiled on 1st April 2005—
+
+- (a) which results in a hereditament being shown on that list for the first time;
+- (b) which has effect from a day that is at least 33 months prior to the day the alteration is made; and
+- (c) which is made on or before 31st March 2010.
+
+(3) This Schedule does not apply where a relevant list alteration is made as a consequence of—
+
+- (a) a proposal by an interested person made under the Non-Domestic Rating (Alteration of Lists and Appeals) (England) Regulations 2005;
+- (b) property previously rated as a single hereditament becoming liable to be rated in parts if the ratepayer was liable to pay an amount in respect of that single hereditament;
+- (c) property previously rated in parts becoming liable to be rated as a single hereditament if the ratepayer was liable to pay an amount in respect of one or more of those parts; or
+- (d) a hereditament or any part of a hereditament becoming part of a different hereditament if the ratepayer was liable to pay an amount in respect of that original hereditament.
+
+(4) In this Schedule, “backdated liability” means a ratepayer’s liability under one or more demand notices of the description mentioned in sub-paragraph (1) as regards the period beginning on the day from which a relevant list alteration has effect and ending on the day on which the list alteration is made, to the extent that the liability has not been discharged.
+
+### 2. Agreement to reschedule backdated liability
+
+(1) A billing authority and a ratepayer may agree that backdated liability should be discharged in the manner provided by the agreement.
+
+(2) An agreement under sub-paragraph (1) may—
+
+- (a) relate to some or of all the backdated liability;
+- (b) provide for the backdated liability to be discharged in instalments over a period not exceeding eight years, commencing on the day that the agreement is reached.
+
+(3) An agreement under this paragraph shall provide that in each year (starting on the day the agreement is made) it is in force, the ratepayer will pay an amount calculated in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+
+where—
+
+- (a) A equals the amount of the backdated liability to which the agreement relates;
+- (b) B equals the total number of days the agreement will be in force; and
+- (c) C equals the number of days the agreement will be in force in the year in question.
+
+### 3. Agreement to reschedule liability: further provision
+
+(1) An agreement under paragraph 2 shall continue in force notwithstanding any alteration in the amount of the backdated liability.
+
+(2) In particular, an agreement shall not be rendered invalid by reason of a further alteration to a rating list which, had that alteration had effect on the day the agreement was made, would have resulted in the requirements of paragraph 1 not being met.
+
+(3) An agreement shall make provision for the adjustment of payments in the event of the amount of the backdated liability specified in one or more of the demand notices turning out to be wrong and may specify that any overpayment—
+
+- (a) shall be returned if the ratepayer so requires, or
+- (b) in any other case shall (as the billing authority determines) either be repaid or be credited against any subsequent liability of the ratepayer to pay anything to the authority in respect of non-domestic rates.
+
+### 4. Modification of regulation 8
+
+If the billing authority enters into an agreement under this Schedule, regulation 8 (failure to pay instalments) shall have effect as regards the backdated liability to which the agreement relates as if, for paragraph (1), there were substituted—
+
+> (1) Where—
+>
+> - (a) a demand notice has been served by a billing authority on a ratepayer,
+> - (b) instalments are payable under the notice in accordance with Schedule 1 or an agreement under Schedule 1A, and
+> - (c) any such instalment is not paid in accordance with Schedule 1 or, as the case may be, the agreement,
+>
+> the billing authority shall (unless all the instalments have fallen due) serve a further notice on the ratepayer stating the instalments required to be paid.
+
+and regulation 8 and Part 3 of these Regulations shall be construed accordingly.
+
+## SCHEDULE 1A — Backdated liability: special provision in relation to 2005 rating lists[^M_E_5fdcd881-944d-40db-90b0-95705e6e1d5d][^key-1440a67ee15dd1cf1ff5e110a96d0af3]
+
+*Extent: W.*
+
+Regulation 7A
+
+### 1. Application and interpretation
+
+(1) Subject to sub-paragraph (3), this Schedule applies where—
+
+- (a) a ratepayer has been served by a billing authority with one or more demand notices which, taken together, require the payment of rates under section 43 of the Act in respect of 33 months or more, whether consecutive or not, as a consequence of one or more relevant list alterations; and
+- (b) the demand notice or notices were served in the financial year beginning on 1 April 2007, 1 April 2008 or 1 April 2009.
+
+(2) A relevant list alteration is an alteration to a rating list compiled on 1 April 2005—
+
+- (a) which results in a hereditament being shown on that list for the first time;
+- (b) which has effect from a day that is at least 33 months prior to the day the alteration is made; and
+- (c) which is made on or before 31 March 2010.
+
+(3) This Schedule does not apply where a relevant list alteration is made as a consequence of—
+
+- (a) a proposal by an interested person made under the Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2005;
+- (b) property previously rated as a single hereditament becoming liable to be rated in parts if the ratepayer was liable to pay an amount in respect of that single hereditament;
+- (c) property previously rated in parts becoming liable to be rated as a single hereditament if the ratepayer was liable to pay an amount in respect of one or more of those parts; or
+- (d) a hereditament or any part of a hereditament becoming part of a different hereditament if the ratepayer was liable to pay an amount in respect of that original hereditament.
+
+(4) In this Schedule, “backdated liability” means a ratepayer’s liability under one or more demand notices of the description mentioned in sub-paragraph (1) as regards the period beginning on the day from which a relevant list alteration has effect and ending on the day on which the list alteration is made, to the extent that the liability has not been discharged.
+
+### 2. Agreement to reschedule backdated liability
+
+(1) A billing authority and a ratepayer may agree that backdated liability be discharged in the manner provided by the agreement.
+
+(2) An agreement under sub-paragraph (1) may—
+
+- (a) relate to some or of all the backdated liability;
+- (b) provide for the backdated liability to be discharged in instalments over a period not exceeding eight years, commencing on the day that the agreement is reached.
+
+(3) An agreement under this paragraph must provide that in each year (starting on the day the agreement is made) it is in force, the ratepayer will pay an amount calculated in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+
+where—
+
+a
+
+A equals the amount of the backdated liability to which the agreement relates;
+
+b
+
+B equals the total number of days the agreement will be in force; and
+
+c
+
+C equals the number of days the agreement will be in force in the year in question.
+
+### 3. Agreement to reschedule liability: further provision
+
+(1) An agreement under paragraph 2 continues in force notwithstanding any alteration in the amount of the backdated liability.
+
+(2) In particular, an agreement is not rendered invalid by reason of a further alteration to a rating list which, had that alteration had effect on the day the agreement was made, would have resulted in the requirements of paragraph 1 not being met.
+
+(3) An agreement must make provision for the adjustment of payments in the event of the amount of the backdated liability specified in one or more of the demand notices turning out to be wrong and may specify that any overpayment—
+
+- (a) must be returned if the ratepayer so requires, or
+- (b) in any other case must (as the billing authority determines) either be repaid or be credited against any subsequent liability of the ratepayer to pay anything to the authority in respect of non-domestic rates.
+
+### 4. Modification of regulation 8
+
+If the billing authority enters into an agreement under this Schedule, regulation 8 (failure to pay instalments) has effect as regards the backdated liability to which the agreement relates as if, for paragraph (1), there were substituted—
+
+> (1) Where—
+>
+> - (a) a demand notice has been served by a billing authority on a ratepayer,
+> - (b) instalments are payable under the notice in accordance with Schedule 1 or an agreement under Schedule 1A, and
+> - (c) any such instalment is not paid in accordance with Schedule 1 or, as the case may be, the agreement,
+>
+> the billing authority must (unless all the instalments have fallen due) serve a further notice on the ratepayer stating the instalments required to be paid.
+
+- and regulation 8 and Part 3 of these Regulations are to be construed accordingly.
+
+## SCHEDULE 1B[^key-67a67676f960ca14bcfa4fcec6fe8afe]
+
+*Extent: E*
+
+Regulation 7B
+
+### 1. Application and interpretation of Schedule
+
+(1) Subject to sub-paragraph (2) this Schedule applies where—
+
+- (a) the ratepayer—
+  - (i) has been served by the billing authority with a demand notice to which regulation 6(1) applies or a further notice to which regulation 6(3) applies which requires the payment of rates under section 43 or 45 of the Act in respect of the financial year beginning on 1st April 2009; or
+  - (ii) has entered into an agreement with the billing authority under regulation 7(3) which makes provision about payment of the billing authority’s estimate of the amount payable in respect of the financial year beginning on 1st April 2009; and
+- (b) the ratepayer has served an application on the billing authority concerned no later than 31st March 2010.
+
+(2) Where on or before the day of service of the application the ratepayer has been served with a further notice under regulation 8(1) and the unpaid balance of the estimated amount has become payable under regulation 8(2), the billing authority may decide that this Schedule shall not apply.
+
+(3) Where the billing authority decides that this Schedule shall not apply, it shall serve a notice of its decision on the ratepayer as soon as practicable after the day of service of the application.
+
+(4) In this Schedule—
+
+- “actual deferrable amount” has the meaning given in paragraph 13;
+- “current demand” means the notice mentioned in sub-paragraph (1)(a)(i) or any subsequent notice given under paragraph 7(2) of Schedule 1;
+- “deferral day” means the day which is 22 days from the day of service of the application mentioned in sub-paragraph (1)(b);
+- “deferral notice” means a notice served under paragraph 14;
+- “notional deferrable amount” means the amount calculated under paragraph 5; and
+- “remaining amount” means the amount calculated under paragraph 4.
+
+### 2. The application
+
+(1) An application under paragraph 1(1)(b) shall be in the form set out in Schedule 1C or a form to the like effect, shall contain the information there specified and shall be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer.
+
+(2) In sub-paragraph (1) “person authorised to sign on behalf of the ratepayer” means, where the ratepayer is—
+
+- (a) a partnership, a partner of that partnership;
+- (b) a trust, a trustee of that trust;
+- (c) a body corporate, a director of that body, and
+
+in any other case, a person authorised to sign on behalf of the ratepayer; and
+
+- “signature”, “sign” or “signed”, in relation to an application served in accordance with paragraph 3 by electronic communication, includes the incorporation in it, or the logical association with it, of an electronic signature, as defined in section 7(2) of the Electronic Communications Act 2000.
+
+### 3. Service of applications
+
+(1) An application under paragraph 1(1)(b) shall be served on the billing authority concerned by—
+
+- (a) addressing it to the authority; and
+- (b) delivering it or sending it to the authority’s office by post or electronic communication.
+
+(2) Any application sent by electronic communication shall, unless the contrary is proved, be regarded as served when it is received in a legible form.
+
+### 4. Calculating the remaining amount
+
+The billing authority shall on or as soon as practicable after the day on which the application was served calculate the amount remaining to be paid under the current demand or under the agreement referred to in paragraph 1(1)(a)(ii) in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+
+where—
+
+- (a) A equals the amount last estimated under regulation 6(1) for the purposes of the current demand or pursuant to provision made in the agreement mentioned in paragraph 1(1)(a)(ii); or if pursuant to regulation 4(3) (without modification) the notice or the agreement relates to more than one hereditament the aggregate of the amount of those estimates; and
+- (b) B equals the aggregate of any instalments payable under the notice or agreement (whether paid or not) before the deferral day.
+
+### 5. Calculating the notional deferrable amount
+
+(1) The billing authority shall on or as soon as practicable after the day on which the application was served calculate the notional deferrable amount.
+
+(2) The notional deferrable amount is the aggregate of the amounts calculated under paragraphs 6 to 11.
+
+### 6. The RPI increase
+
+The amount to be calculated under this paragraph is that amount which is 3 per cent of the amount last estimated under regulation 6(1) for the purposes of the current demand or pursuant to provision made in the agreement mentioned in paragraph 1(1)(a)(ii); or if pursuant to regulation 4(3) the notice or the agreement relates to more than one hereditament, 3 per cent of the aggregate of the amounts estimated for those purposes in relation to the hereditaments concerned.
+
+### 7. Transition on 31st March 2009: no relief in 2009/10
+
+(1) Subject to paragraphs 9, 10 and 11, where this paragraph applies, the amount to be calculated under this paragraph is calculated in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+
+(2) This paragraph applies where—
+
+- (a) on 31st March 2009 (“the relevant day”)—
+  - (i) the chargeable amount in respect of the hereditament to which the application relates fell to be calculated in accordance with rules made under section 57A(3)(a) of the Act; or
+  - (ii) the hereditament was unoccupied and the relevant day was not a chargeable day for the purposes of section 45 (unoccupied hereditaments: liability) of the Act, but on the last chargeable day (if any) in the financial year beginning on 1st April 2008 preceding the relevant day, the chargeable amount fell to be calculated under rules made under section 57A(3)(a) of the Act; and
+- (b) for the purposes of calculating the payments required to be paid in relation to the hereditament under the current notice or pursuant to provision made in the agreement mentioned in paragraph 1(1)(a)(ii), section 43(4) of the Act was applied to the calculation for each day to which the notice relates.
+
+### 8. Transition on 31st March 2009: relief in 2009/10
+
+(1) Subject to paragraphs 9, 10 and 11, where this paragraph applies, the amount to be calculated under this paragraph is to be calculated in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+
+(2) This paragraph applies where—
+
+- (a) on 31st March 2009 (“the relevant day”)—
+  - (i) the chargeable amount in respect of the hereditament to which the application relates fell to be calculated in accordance with rules made under section 57A(3)(a) of the Act; or
+  - (ii) the hereditament was unoccupied and the relevant day was not a chargeable day for the purposes of section 45 (unoccupied hereditaments: liability) of the Act, but on the last chargeable day (if any) in the financial year beginning on 1st April 2008 preceding the relevant day the chargeable amount fell to be calculated under rules made under section 57A(3)(a) of the Act; and
+- (b) for the purposes of the current demand or pursuant to provision made in the agreement mentioned in paragraph 1(1)(a)(ii), the chargeable amount for any day to which the notice or agreement relates was calculated in accordance with sections 43(4A) to (6A) or 47 (discretionary relief), or pursuant to provision made in section 44A (partly occupied hereditaments), in place of the provision made in section 43(4), of the Act.
+
+### 9. Transition: splits before application for deferral
+
+(1) Where this paragraph applies, paragraphs 7 and 8 shall have effect as if the references in those paragraphs to C were a reference to H.
+
+(2) This paragraph applies where—
+
+- (a) on or after 1st April 2009 the hereditament in respect of which the application was made (“the new hereditament”) came into existence by virtue of—
+  - (i) property previously rated as a single hereditament becoming liable to be rated in parts;
+  - (ii) property previously rated in parts becoming liable to be rated as a single hereditament; or
+  - (iii) a hereditament or any part of a hereditament becoming part of a different hereditament; and
+- (b) on 31st March 2009 (“the relevant day”) the chargeable amount for the day for the hereditament from which the new hereditament was formed in whole or part (“the old hereditament”) fell to be calculated in accordance with rules made under section 57A(3)(a) of the Act; and
+- (c) the new hereditament comprises or incorporates part of a single old hereditament.
+
+### 10. Transition: mergers before application for deferral
+
+(1) Where this paragraph applies, paragraphs 7 and 8 shall have effect as if the references in those paragraphs to C were a reference to M.
+
+(2) This paragraph applies where—
+
+- (a) on or after 1st April 2009 the hereditament in respect of which the application was made (“the new hereditament”) came into existence by virtue of—
+  - (i) property previously rated as a single hereditament becoming liable to be rated in parts;
+  - (ii) property previously rated in parts becoming liable to be rated as a single hereditament; or
+  - (iii) a hereditament or any part of a hereditament becoming part of a different hereditament; and
+- (b) on 31st March 2009 (“the relevant day”) the chargeable amount for the day for one or more of the hereditaments from which the new hereditament was formed in whole or part (“the old hereditament”) fell to be calculated in accordance with rules made under section 57A(3)(a) of the Act; and
+- (c) the new hereditament comprises or incorporates more than one, or parts of more than one, old hereditament.
+
+### 11. Transition on 31st March 2009: reduction in rateable value before application for deferral
+
+(1) Where this paragraph applies, paragraphs 7 and 8 shall have effect as if the references in those paragraphs to C were a reference to Q.
+
+(2) This paragraph applies where—
+
+- (a) on 31st March 2009 (“the relevant day”)—
+  - (i) the chargeable amount in respect of the hereditament to which the application relates fell to be calculated in accordance with rules made under section 57A(3)(a) of the Act; or
+  - (ii) the hereditament was unoccupied and the relevant day was not a chargeable day for the purposes of section 45 (unoccupied hereditaments: liability) of the Act, but on the last chargeable day (if any) in the financial year beginning on 1st April 2008 preceding the relevant day the chargeable amount fell to be calculated under rules made under section 57A(3)(a) of the Act; and
+- (b) the rateable value for the hereditament to which the application relates shown in the local list for the date of service of the application is less than the rateable value shown in the local list for the hereditament for the relevant day.
+
+### 12. Paragraphs 6 to 11: interpretation
+
+For the purposes of paragraphs 6 to 11—
+
+- C is the amount by which the chargeable amount for the hereditament for the relevant day (or in a case falling within paragraph 7(2)(a)(ii), 8(2)(a)(ii) or 11(2)(a)(ii), the last chargeable day preceding the relevant day) was reduced because the chargeable amount for that day fell to be calculated under rules made under section 57A(3)(a) of the Act in place of the provisions of section 43(4) to (6A), 44 and 45(4) and (4A) of the Act;
+- D is the number of days in the financial year beginning on 1st April 2009 to which the current notice or the agreement mentioned in paragraph 1(1)(a)(ii) relates;
+- E is the amount found in accordance with the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+- F is the amount last estimated under regulation 6(1) in relation to the hereditament for the purposes of the current notice or pursuant to provision made in the agreement mentioned in paragraph 1(1)(a)(ii);
+- G is the amount which would have been the authority’s estimate of the amount payable in respect of the hereditament under the current notice or pursuant to provision made in the agreement mentioned in paragraph 1(1)(a)(ii) if the chargeable amount for each chargeable day had been calculated in accordance with section 43(4) of the Act;
+- H is the amount found in accordance with the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+- I is the amount of C for the old hereditament, except where the rateable value shown in the local list for the old hereditament for the day before the day the new hereditament came into existence is less than the rateable value shown in the local list for the old hereditament for the relevant day, in which case I (as it relates to the old hereditament) is the amount found in accordance with the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+- J is the rateable value shown in the local list for the new hereditament on the date of service of the application;
+- K is the rateable value shown in the local list for the old hereditament for the day before the new hereditament came into existence;
+- L is the rateable value shown in the local list for the old hereditament for the relevant day;
+- M is the amount found in accordance with the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+- N is the amount found by aggregating I for each of the old hereditaments;
+- P is the total of the rateable values shown in the local lists for the old hereditaments for the day before the day the new hereditament came into existence;
+- Q is the amount found in accordance with the formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+- R is the rateable value shown in the local list for the hereditament for the date of service of the application; and
+- S is the rateable value shown in the local list for the hereditament for the relevant day.
+
+### 13. The actual deferrable amount
+
+(1) Where the remaining amount is less than or equal to the notional deferrable amount, the amount which the ratepayer is eligible to defer (“the actual deferrable amount”) shall be an amount which is equal to the remaining amount.
+
+(2) Where the remaining amount is greater than the notional deferrable amount, the actual deferrable amount shall be an amount which is equal to the notional deferrable amount and the rest of the remaining amount (“the non-deferrable amount”) shall be paid in accordance with paragraph 16.
+
+### 14. Deferral notice
+
+(1) Where an application relates to the current demand, as soon as practicable after the day of service of the application the billing authority shall serve on the ratepayer a deferral notice stating—
+
+- (a) the amount last estimated under regulation 6(1) for the purposes of the current demand;
+- (b) the amount of any remaining instalments calculated in accordance with paragraph 16 (payment of the non-deferrable amount);
+- (c) the amount of the actual deferrable amount payable in the financial year beginning on 1st April 2010 in accordance with paragraph 19; and
+- (d) the amount of the actual deferrable amount payable in the financial year beginning on 1st April 2011 in accordance with paragraph 19.
+
+(2) The deferral notice shall be issued at least 7 days before the day on which the first instalment (if any) which relates to payment of the non-deferrable amount is due under it.
+
+(3) Where a deferral notice is issued under this paragraph, no payments of instalments falling due on or after the deferral day under the current demand are payable under that demand.
+
+(4) Regulations 7(3), 7(4) and 8 shall apply to the deferral notice as if it were a demand notice and as if references in those provisions to Schedule 1 were references to this Schedule.
+
+### 15. Agreements under regulation 7
+
+Where an application relates to the agreement mentioned in paragraph 1(1)(a)(ii), the billing authority shall, where the ratepayer so requires, as soon as practicable after the day of service of the application amend the agreement so that the provision made in the agreement accords with the provision made in this Schedule.
+
+### 16. Payment of the non-deferrable amount
+
+(1) Subject to sub-paragraph (3), the non-deferrable amount calculated pursuant to paragraph 13(2) is to be payable in monthly instalments, the number of such instalments being the same as the number of the instalments specified in the current demand or under the agreement mentioned in paragraph 1(1)(a)(ii) which would, were it not for the provision made in paragraph 14(3), be payable by the ratepayer on or after the deferral day.
+
+(2) Subject to sub-paragraph (3), the amount of each instalment (if there are more than one) shall be calculated in accordance with paragraphs 1(4) and (5) of Schedule 1 as if references in those provisions to the aggregate amount and to the number of instalments were references to the non-deferrable amount and to the number of instalments remaining to be paid mentioned in sub-paragraph (1).
+
+(3) If amounts calculated in accordance with sub-paragraph (2) would produce an amount for an instalment of less than £50, the demand notice may require the non-deferrable amount to be paid—
+
+- (a) where the non-deferrable amount is less than £100, in a single instalment payable on such day as is specified in the notice, or
+- (b) where the non-deferrable amount is equal to or greater than £100, by a number of monthly instalments equal to the greatest whole number by which £50 can be multiplied to give a product which is less than or equal to the non-deferrable amount.
+
+### 17. Cessation of instalments
+
+Paragraph 6 (and so far as applicable paragraph 8) of Part II of Schedule 1 shall apply to the deferral notice as if it were a demand notice.
+
+### 18. Adjustments during the financial year beginning on 1st April 2009
+
+(1) This paragraph applies where—
+
+- (a) a deferral notice has been served on a ratepayer under paragraph 14;
+- (b) on a day falling within the financial year beginning on 1st April 2009 (“the relevant day”) any factor or assumption used to determine the notional deferrable amount or the actual deferrable amount, or by reference to which the estimate of the amount mentioned in paragraph 14(1)(a) was made, is shown to be false; and
+- (c) on the relevant day the conditions mentioned in section 43(1) or those mentioned in section 45(1) of the Act are fulfilled as regards the ratepayer and the hereditament to which the deferral notice relates.
+
+(2) The billing authority shall, on or as soon as practicable after the relevant day—
+
+- (a) make a revised estimate of the amount payable for the financial year beginning on 1st April 2009 in relation to the hereditament on the assumption mentioned in regulation 6(1) and as if the notice mentioned in that provision were the notice mentioned in sub-paragraph (e);
+- (b) recalculate the notional deferrable amount;
+- (c) recalculate the actual deferrable amount and the non-deferrable amount under paragraph 13;
+- (d) adjust the instalments (if any) payable in the financial year beginning on 1st April 2009 on or after the adjustment day (“the remaining instalments”) so that they accord with the amounts mentioned in sub-paragraph (3); and
+- (e) serve a notice on the ratepayer which must state—
+  - (i) the amount of the revised estimate mentioned in sub-paragraph (a);
+  - (ii) the amount of any remaining instalment;
+  - (iii) the amount of the deferrable amount payable in the financial year beginning on 1st April 2010 under paragraph 19; and
+  - (iv) the amount of the deferrable amount payable in the financial year beginning on 1st April 2011 under paragraph 19.
+
+(3) The aggregate amount of the remaining instalments payable shall be equal to the amount by which the revised non-deferrable amount calculated under sub-paragraph (2)(c) exceeds the aggregate amount of the instalments payable under the notice before the adjustment day; and the amount of each remaining instalment (if there are more than one) shall be calculated in accordance with paragraph 1(4) and (5) of Schedule 1 as if references in those provisions to the aggregate amount and to instalments were references to the aggregate amount of the remaining instalments and to the remaining instalments respectively.
+
+(4) If the revised non-deferrable amount calculated under sub-paragraph (2)(c) exceeds the aggregate amount of the instalments payable under the notice before the adjustment day, but no instalments are payable under it on or after that day, the amount of the excess shall be due from the ratepayer to the billing authority in a single instalment on the expiry of such period (being not less than 14 days) after the day of service of the notice served under sub-paragraph (2)(e) as is specified in it; and if in any case the revised non-deferrable amount is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment in respect of any liability of the ratepayer under Part II of these Regulations—
+
+- (a) shall be repaid if the ratepayer so requires; or
+- (b) in any other case shall either (as the billing authority determines) be repaid or credited against any subsequent liability of the ratepayer to pay anything to the authority by way of non-domestic rate.
+
+(5) Where a further adjustment falls to be made under this paragraph after the service of a notice under sub-paragraph (2)(e)—
+
+- (a) this paragraph shall apply as if (so far as the context permits) references to the deferral notice and to amounts in respect of instalments payable under it were references to the notice under sub-paragraph (2)(e) and to amounts in respect of instalments payable under it, as previously adjusted under this paragraph; and
+- (b) in calculating the aggregate amount of instalments payable under a notice before the adjustment day, there shall not count as so payable any amount in respect of such instalments which has fallen to be repaid (or credited) under paragraph 10(4) of Schedule 7 to the Act or (on the occasion of the service of a previous notice under sub-paragraph 2(e)) under sub-paragraph (4), or has been paid or credited by way of interest under the Non-Domestic Rating (Payment of Interest) Regulations 1990.
+
+(6) In this paragraph “the adjustment day” means the day 14 days after the day the notice served under sub-paragraph (2)(e) is issued.
+
+### 19. Payment of the actual deferrable amount
+
+(1) The actual deferrable amount shall be payable in equal proportions in the financial years beginning on 1st April 2010 and 1st April 2011.
+
+(2) The amount payable in each year (“the relevant proportion”) is to be payable in monthly instalments and, subject to sub-paragraph (3), paragraphs 1(2) to (5), 2, 3 and 4 of Schedule 1 shall apply to the actual deferrable amount as if references in those provisions to the aggregate amount and the relevant year were references to the relevant proportion and the financial year beginning on 1st April 2010 or 1st April 2011 (as the case may be) respectively.
+
+(3) Where a notice under this paragraph is served pursuant to provision made in regulation 4(3), as substituted by paragraph 23, the number and date of the instalments which relate to payment of the actual deferrable amount shall be equal to the number and date of the instalments payable under the demand notice which relate to the amount payable in respect of the chargeable financial year beginning on 1st April 2010 or 1st April 2011 (as the case may be); and paragraph 3 of Schedule 1 shall not apply when calculating the instalments payable in respect of the actual deferrable amount.
+
+(4) Before, on or as soon as practicable after 1st April 2010 or 1st April 2011 (as the case may be) the billing authority shall serve a notice on the ratepayer which must state—
+
+- (a) the relevant proportion for the year;
+- (b) the amount of any instalment; and
+- (c) in the case of a notice served in relation to the financial year beginning on 1st April 2010, the relevant proportion payable in the financial year beginning on 1st April 2011.
+
+(5) Where instalments payable in respect of the actual deferrable amount are calculated pursuant to provision made in sub-paragraph (3), and the billing authority receives payment in a month in respect of which instalments are due under the notice of an amount which is less than the aggregate amount of the instalments due under the notice in respect of that month, the payment shall be applied to those instalments in the following order—
+
+- (a) if the payment is equal to either of the instalments due in that month, to that instalment; and
+- (b) in any other case, to the instalment due in respect of the actual deferrable amount first and the remainder (if any) to the instalment due in that month payable in respect of the financial year beginning on 1st April 2010 or 1st April 2011 (as the case may be).
+
+### 20. Modification of regulation 8
+
+Where a billing authority has served a notice under paragraph 19(4), regulation 8 (failure to pay instalments) shall have effect as regards the actual deferrable amount as if, for paragraph (1) of that regulation there were substituted—
+
+> (1) Where—
+>
+> - (a) a demand notice has been served by a billing authority on a ratepayer,
+> - (b) instalments are payable under the notice in accordance with Schedule 1 or Schedule 1B, and
+> - (c) any such instalment is not paid in accordance with Schedule 1 or, as the case may be, Schedule 1B,
+>
+> the billing authority shall (unless all the instalments have fallen due) serve a further notice on the ratepayer stating the instalments required to be paid.
+
+;
+
+and regulation 8 and Part 3 of these Regulations shall be construed accordingly.
+
+### 21. Cessation of instalments during 2010/11 or 2011/12
+
+(1) Subject to sub-paragraph (2), paragraph 6 (and so far as applicable paragraph 8) of Part II of Schedule 1 shall apply to a notice served under paragraph 19(4) as if it were a demand notice and as if references in those paragraphs to “the relevant year” were references to the financial year beginning on 1st April 2010 or 1st April 2011 (as the case may be).
+
+(2) Paragraph 6 of Schedule 1 shall have effect as if for sub-paragraph (3) there were substituted—
+
+> (3) The billing authority shall on the relevant day or as soon as practicable after that day serve a notice on the ratepayer stating the outstanding amount payable in respect of the financial year beginning on 1st April 2009 in relation to the hereditament.
+
+.
+
+### 22. Adjustment of instalments during 2010/11 or 2011/12
+
+(1) This paragraph applies where—
+
+- (a) a notice has been served on a ratepayer in accordance with paragraph 19;
+- (b) on a day (“the relevant day”) any factor or assumption by reference to which the estimate of the amount mentioned in paragraph 14(1)(a) (for the purposes of the deferral notice) or the revised estimate mentioned in paragraph 18(2)(a) was made is shown to be false; and
+- (c) on the relevant day the conditions mentioned in section 43(1) or those mentioned in section 45(1) of the Act are fulfilled as regards the ratepayer and the hereditament to which the deferral notice relates.
+
+(2) The billing authority shall, on or as soon as practicable after the relevant day—
+
+- (a) adjust the amounts mentioned in paragraph 19(4) payable under the notice on or after the adjustment day (“the remaining amounts”) so that they accord with the amount mentioned in sub-paragraph (4); and
+- (b) serve a notice on the ratepayer which must state—
+  - (i) the revised amount for which provision is made by sub-paragraph (3);
+  - (ii) the amount of any remaining instalment; and
+  - (iii) in the case of a notice which was served in relation to the financial year beginning on 1st April 2010, the revised amount payable in the financial year beginning on 1st April 2011.
+
+(3) The revised amount mentioned in sub-paragraph (2)(b)(i) is the amount payable for the financial year beginning on 1st April 2009 in relation to the hereditament.
+
+(4) The aggregate amount of the remaining amounts payable shall be equal to the amount by which the revised amount exceeds the aggregate amount of the instalments payable under the notice before the adjustment day.
+
+(5) If the revised amount exceeds the aggregate amount of the instalments payable under the notice before the adjustment day, but nothing is payable under it on or after that day, the amount of the excess shall be due from the ratepayer to the billing authority in a single instalment on the expiry of such period (being not less than 14 days) after the day of issue of the notice served under sub-paragraph (2)(b) as is specified in it; and if in any case the revised amount is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment in respect of any liability of the ratepayer under Part II of these Regulations—
+
+- (a) shall be repaid if the ratepayer so requires; or
+- (b) in any other case shall either (as the billing authority determines) be repaid or credited against any subsequent liability of the ratepayer to pay anything to the authority by way of non-domestic rate.
+
+(6) In this paragraph “the adjustment day” means the day 14 days after the day the notice served under sub-paragraph (2)(b) is issued.
+
+### 23. Substitution of regulation 4
+
+Where this Schedule applies and the billing authority is required by these regulations to serve a demand notice on the ratepayer in respect of chargeable financial years beginning on 1st April 2010 or 1st April 2011, these Regulations shall have effect as if for regulation 4 (the requirement for demand notices) there were substituted—
+
+> (1) For each chargeable financial year a billing authority shall, in accordance with regulations 5 to 7, serve a notice in writing on every ratepayer of the authority in relation to the year.
+>
+> (2) Subject to paragraph (3), different demand notices shall be served for different chargeable financial years.
+>
+> (3) Where a deferral notice under paragraph 14 of Schedule 1B has been served on a ratepayer, a single demand notice may be served on the ratepayer in respect of the hereditament to which that notice relates, which relates to the amount payable in respect of the chargeable financial year beginning on 1st April 2010 or 1st April 2011 (as the case may be) and to the payment of deferred rates in respect of the financial year beginning on 1st April 2009 in accordance with paragraph 19 of Schedule 1B.
+>
+> (4) If, pursuant to paragraph (3), a single demand notice relates to different chargeable financial years, the amounts due under it, and the times at which they fall due, shall be determined as if separate notices were issued.
+>
+> (5) A demand notice shall be served with respect to the amount payable for every hereditament as regards which a person is a ratepayer of the authority, though a single notice may relate to the amount payable with respect to more than one such hereditament.
+>
+> (6) If a single demand notice relates to the amount payable with respect to more than one hereditament, then subject to paragraphs 5 and 8 of Schedule 1, the amounts due under it, and the times at which they fall due, shall be determined as if separate notices were issued in respect of each hereditament.
+
+.
+
+## SCHEDULE 1C[^key-67ba8e971cb8e16d5e530fb8246237da]
+
+*Extent: E*
+
+Regulation 7B
+
+[image: see source](https://www.legislation.gov.uk/uksi/1989/1058/images/uksi_19891058_en_epp_011.gif)
+
+## SCHEDULE 1D — Deferred Payment Scheme in relation to Wales for the financial years beginning on 1 April 2009, 2010 and 2011[^key-e2e83c41472e7c61282a87a94f8b3406]
+
+*Extent: W*
+
+Regulation 7C
+
+### 1. Application and interpretation of this Schedule
+
+(1) Subject to sub-paragraph (2) this Schedule applies where—
+
+- (a) the ratepayer—
+  - (i) has been served by the billing authority with a demand notice to which regulation 6(1) applies or a further notice to which regulation 6(3) applies which requires the payment of rates under section 43 or 45 of the Act in respect of the financial year beginning on 1 April 2009; or
+  - (ii) has entered into an agreement with the billing authority under regulation 7(3) which makes provision about payment of the billing authority’s estimate of the amount payable in respect of the financial year beginning on 1 April 2009; and
+- (b) the ratepayer has notified the billing authority concerned in writing of their wish to apply for deferral of payment of business rates payable in respect of the financial year beginning on 1 April 2009 no later than 31 December 2009.
+
+(2) Where on or before the day of notification in accordance with paragraph 1(1)(b), the ratepayer has been served with a further notice under regulation 8(1) and the unpaid balance of the estimated amount has become payable under regulation 8(2), the billing authority may decide that this Schedule shall not apply.
+
+(3) Where the billing authority decides that this Schedule shall not apply, it shall serve a notice of its decision on the ratepayer as soon as practicable after the day of notification given in accordance with paragraph 1(1)(b).
+
+(4) In this Schedule—
+
+- “current demand” means the notice mentioned in sub-paragraph (1)(a)(i) or any subsequent notice given under paragraph 7(2) of Schedule 1;
+- “deferrable amount” has the meaning given in paragraph 4;
+- “deferral day” means the day which is 22 days from the day of notification mentioned in paragraph 1(1)(b);
+- “deferral notice” means a notice served under paragraph 2;
+- “remaining amount” means the amount calculated under paragraph 4; and
+- “the RPI Increase Figure” means the amount calculated under paragraph 3.
+
+### 2. Calculating the remaining amount
+
+The billing authority shall on or as soon as practicable after the day on which they were notified by the ratepayer in accordance with paragraph 1(1)(b) calculate the amount remaining to be paid under the current demand or under the agreement referred to in paragraph 1(1)(a)(ii) in accordance with the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/1989/1058)
+
+where—
+
+a
+
+A equals the amount last estimated under regulation 6(1) for the purposes of the current demand or pursuant to provision made in the agreement mentioned in paragraph 1(1)(a)(ii); or if pursuant to regulation 4(3) (without modification) the notice or the agreement relates to more than one hereditament the aggregate of the amount of those estimates; and
+
+b
+
+B equals the aggregate of any instalments payable under the notice or agreement (whether paid or not) before the deferral day.
+
+### 3. The RPI Increase Figure
+
+The amount to be calculated under this paragraph is that amount which is 3 per cent of the amount last estimated under regulation 6(1) for the purposes of the current demand or pursuant to provision made in the agreement mentioned in paragraph 1(1)(a)(ii); or if pursuant to regulation 4(3) the notice or the agreement relates to more than one hereditament, 3 per cent of the aggregate of the amounts estimated for those purposes in relation to the hereditaments concerned.
+
+### 4. The deferrable amount
+
+(1) Where the remaining amount is less than or equal to the RPI Increase Figure the amount which the ratepayer is eligible to defer (“the deferrable amount”) shall be an amount which is equal to the remaining amount.
+
+(2) Where the remaining amount is greater than the RPI Increase Figure the deferrable amount shall be an amount which is equal to the RPI Increase Figure and the rest of the remaining amount (“the non-deferrable amount”) shall be paid in accordance with paragraph 7.
+
+### 5. Deferral notice
+
+(1) Where a notification is made under paragraph 1(1)(b) which relates to the current demand, as soon as practicable after the day of notification the billing authority shall serve on the ratepayer a deferral notice stating—
+
+- (a) the amount last estimated under regulation 6(1) for the purposes of the current demand;
+- (b) the amount of any remaining instalments calculated in accordance with paragraph 7 (payment of the non-deferrable amount);
+- (c) the amount of the deferrable amount payable in the financial year beginning on 1 April 2010 in accordance with paragraph 10; and
+- (d) the amount of the deferrable amount payable in the financial year beginning on 1 April 2011 in accordance with paragraph 10.
+
+(2) The deferral notice shall be issued at least 7 days before the day on which the first instalment (if any) which relates to payment of the non-deferrable amount is due under it.
+
+(3) Where a deferral notice is issued under this paragraph, no payments of instalments falling due on or after the deferral day under the current demand are payable under that current demand.
+
+(4) Regulations 7(3), 7(4) and 8 must apply to the deferral notice as if it were a demand notice and as if references in those provisions to Schedule 1 were references to this Schedule.
+
+### 6. Agreements under regulation 7
+
+Where a notification, made by the ratepayer under paragraph 1(1)(b) relates to the agreement mentioned in paragraph 1(1)(a)(ii), the billing authority shall, where the ratepayer so requires, as soon as practicable after the day of notification amend the agreement so that the provision made in the agreement accords with the provision made in this Schedule.
+
+### 7. Payment of the non-deferrable amount
+
+(1) Subject to sub-paragraph (3), the non-deferrable amount calculated pursuant to paragraph 4(2) is to be payable in monthly instalments, the number of such instalments being the same as the number of the instalments specified in the current demand or under the agreement mentioned in paragraph 1(1)(a)(ii) which would, were it not for the provision made in paragraph 5(3), be payable by the ratepayer on or after the deferral day.
+
+(2) Subject to sub-paragraph (3), the amount of each instalment (if there are more than one) must be calculated in accordance with paragraph 1(4) and (5) of Schedule 1 as if references in those provisions to the aggregate amount and to the number of instalments were references to the non-deferrable amount and to the number of instalments remaining to be paid mentioned in sub-paragraph (1).
+
+(3) If amounts calculated in accordance with sub-paragraph (2) would produce an amount for an instalment of less than £50, the demand notice may require the non-deferrable amount to be paid—
+
+- (a) where the non-deferrable amount is less than £100, in a single instalment payable on such day as is specified in the notice, or
+- (b) where the non-deferrable amount is equal to or greater than £100, by a number of monthly instalments equal to the greatest whole number by which £50 can be multiplied to give a product which is less than or equal to the non-deferrable amount.
+
+### 8. Cessation of instalments
+
+Paragraph 6 (and so far as applicable paragraph 8) of Part II of Schedule 1 shall apply to the deferral notice as if it were a demand notice.
+
+### 9. Adjustments during the financial year beginning on 1 April 2009
+
+(1) This paragraph applies where—
+
+- (a) a deferral notice has been served on a ratepayer under paragraph 5;
+- (b) on a day falling within the financial year beginning on 1 April 2009 (“the relevant day”) any factor or assumption used to determine the RPI Increase Figure or the deferrable amount or by reference to which the estimate of the amount, mentioned in paragraph 5(1)(a) was made is shown to be false; and
+- (c) on the relevant day the conditions mentioned in section 43(1) or those mentioned in section 45(1) of the Act are fulfilled as regards the ratepayer and the hereditament to which the deferral notice relates.
+
+(2) The billing authority shall, on or as soon as practicable after the relevant day—
+
+- (a) make a revised estimate of the amount payable for the financial year beginning on 1 April 2009 in relation to the hereditament on the assumption mentioned in regulation 6(1) and as if the notice mentioned in that provision were the notice mentioned in sub-paragraph (e);
+- (b) recalculate the RPI Increase Figure;
+- (c) recalculate the deferrable amount and the non-deferrable amount under paragraph 4;
+- (d) adjust the instalments (if any) payable in the financial year beginning on 1 April 2009 on or after the adjustment day (“the remaining instalments”) so that they accord with the amounts mentioned in sub-paragraph (3); and
+- (e) serve a notice on the ratepayer which must state—
+  - (i) the amount of the revised estimate mentioned in sub-paragraph (a);
+  - (ii) the amount of any remaining instalment;
+  - (iii) the amount of the deferrable amount payable in the financial year beginning on 1 April 2010 under paragraph 10; and
+  - (iv) the amount of the deferrable amount payable in the financial year beginning on 1 April 2011 under paragraph 10.
+
+(3) The aggregate amount of the remaining instalments payable shall be equal to the amount by which the revised non-deferrable amount calculated under sub-paragraph (2)(c) exceeds the aggregate amount of the instalments payable under the notice before the adjustment day; and the amount of each remaining instalment (if there are more than one) shall be calculated in accordance with paragraph 1(4) and (5) of Schedule 1 as if references in those provisions to the aggregate amount and to instalments were references to the aggregate amount of the remaining instalments and to the remaining instalments respectively.
+
+(4) If the revised non-deferrable amount calculated under sub-paragraph (2)(c) exceeds the aggregate amount of the instalments payable under the notice before the adjustment day, but no instalments are payable under it on or after that day, the amount of the excess shall be due from the ratepayer to the billing authority in a single instalment on the expiry of such period (being not less than 14 days) after the day of service of the notice served under sub-paragraph (2)(e) as is specified in it; and if in any case the revised non-deferrable amount is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment in respect of any liability of the ratepayer under Part II of these Regulations—
+
+- (a) shall be repaid if the ratepayer so requires; or
+- (b) in any other case shall either (as the billing authority determines) be repaid or credited against any subsequent liability of the ratepayer to pay anything to the authority by way of non-domestic rate.
+
+(5) Where a further adjustment falls to be made under this paragraph after the service of a notice under sub-paragraph (2)(e)—
+
+- (a) this paragraph shall apply as if (so far as the context permits) references to the deferral notice and to amounts in respect of instalments payable under it were references to the notice under sub-paragraph (2)(e) and to amounts in respect of instalments payable under it, as previously adjusted under this paragraph; and
+- (b) in calculating the aggregate amount of instalments payable under a notice before the adjustment day, there shall not count as so payable any amount in respect of such instalments which has fallen to be repaid (or credited) under paragraph 10(4) of Schedule 7 to the Act or (on the occasion of the service of a previous notice under sub-paragraph 2(e)) under sub-paragraph (4) above, or has been paid or credited by way of interest under the Non-Domestic Rating (Payment of Interest) Regulations 1990.
+
+(6) In this paragraph “the adjustment day” means the day 14 days after the day the notice served under sub-paragraph (2)(e) is issued.
+
+### 10. Payment of the deferrable amount
+
+(1) The deferrable amount shall be payable in equal proportions in the financial years beginning on 1 April 2010 and 1 April 2011.
+
+(2) The amount payable in each year (“the relevant proportion”) is to be payable in monthly instalments and, subject to sub-paragraph (3), paragraphs 1(2) to (5), 2, 3 and 4 of Schedule 1 shall apply to the deferrable amount as if references in those provisions to the aggregate amount and the relevant year were references to the relevant proportion and the financial year beginning on 1 April 2010 or 1 April 2011 (as the case may be) respectively.
+
+(3) Where a notice under this paragraph is served pursuant to provision made in regulation 4(3), as substituted by paragraph 14, the number and date of the instalments which relate to payment of the deferrable amount shall be equal to the number and date of the instalments payable under the demand notice which relate to the amount payable in respect of the chargeable financial year beginning on 1 April 2010 or 1 April 2011 (as the case may be); and paragraph 3 of Schedule 1 shall not apply when calculating the instalments payable in respect of the deferrable amount.
+
+(4) Before, on or as soon as practicable after 1 April 2010 or 1 April 2011 (as the case may be) the billing authority shall serve a notice on the ratepayer which is to state—
+
+- (a) the relevant proportion for the year;
+- (b) the amount of any instalment; and
+- (c) in the case of a notice served in relation to the financial year beginning on 1 April 2010, the relevant proportion payable in the financial year beginning on 1 April 2011.
+
+(5) Where instalments payable in respect of the deferrable amount are calculated pursuant to provision made in sub-paragraph (3), and the billing authority receives payment in a month in respect of which instalments are due under the notice of an amount which is less than the aggregate amount of the instalments due under the notice in respect of that month, the payment shall be applied to those instalments in the following order—
+
+- (a) if the payment is equal to either of the instalments due in that month, to that instalment; and
+- (b) in any other case, to the instalment due in respect of the deferrable amount first and the remainder (if any) to the instalment due in that month payable in respect of the financial year beginning on 1 April 2010 or 1 April 2011 (as the case may be).
+
+### 11. Modification of regulation 8
+
+(1) Where a billing authority has served a notice under paragraph 10(4), regulation 8 (failure to pay instalments) shall have effect as regards the deferrable amount as if, for paragraph (1) of that regulation there were substituted—
+
+> (1) Where—
+>
+> - (a) a demand notice has been served by a billing authority on a ratepayer,
+> - (b) instalments are payable under the notice in accordance with Schedule 1 or Schedule 1D, and
+> - (c) any such instalment is not paid in accordance with Schedule 1 or, as the case may be, Schedule 1D,
+>
+> the billing authority shall (unless all the instalments have fallen due) serve a further notice on the ratepayer stating the instalments required to be paid.
+
+;
+
+and regulation 8 and Part 3 of these Regulations shall be construed accordingly.
+
+### 12. Cessation of instalments during 2010/11 or 2011/12
+
+(1) Subject to sub-paragraph (2), paragraph 6 (and so far as applicable paragraph 8) of Part II of Schedule 1 shall apply to a notice issued under paragraph 10(4) as if it were a demand notice and as if references in those paragraphs to “the relevant year” were references to the financial year beginning on 1 April 2010 or 1 April 2011 (as the case may be).
+
+(2) Paragraph 6 of Schedule 1 shall have effect as if for sub-paragraph (3) there were substituted—
+
+> (3) The billing authority shall on the relevant day or as soon as practicable after that day serve a notice on the ratepayer stating the outstanding amount payable in respect of the financial year beginning on 1 April 2009 in relation to the hereditament.
+
+.
+
+### 13. Adjustment of instalments during 2010/11 or 2011/12
+
+(1) This paragraph applies where—
+
+- (a) a notice has been served on a ratepayer in accordance with paragraph 10;
+- (b) on a day (“the relevant day”) any factor or assumption by reference to which the estimate of the amount mentioned in paragraph 5(1)(a) (for the purposes of the deferral notice) or the revised estimate mentioned in paragraph 9(2)(a) was made is shown to be false; and
+- (c) on the relevant day the conditions mentioned in section 43(1) or those mentioned in section 45(1) of the Act are fulfilled as regards the ratepayer and the hereditament to which the deferral notice relates.
+
+(2) The billing authority shall, on or as soon as practicable after the relevant day—
+
+- (a) adjust the amounts mentioned in paragraph 10(4) payable under the notice on or after the adjustment day (“the remaining amounts”) so that they accord with the amount mentioned in sub-paragraph (4); and
+- (b) serve a notice on the ratepayer which must state—
+  - (i) the revised amount mentioned in sub-paragraph (3);
+  - (ii) the amount of any remaining instalment; and
+  - (iii) in the case of a notice which was served in relation to the financial year beginning on 1 April 2010, the revised amount payable in the financial year beginning on 1 April 2011.
+
+(3) The revised amount mentioned in sub-paragraph (2)(b)(i) is the amount payable for the financial year beginning on 1 April 2009 in relation to the hereditament.
+
+(4) The aggregate amount of the remaining amounts payable shall be equal to the amount by which the revised amount exceeds the aggregate amount of the instalments payable under the notice before the adjustment day.
+
+(5) If the revised amount exceeds the aggregate amount of the instalments payable under the notice before the adjustment day, but nothing is payable under it on or after that day, the amount of the excess shall be due from the ratepayer to the billing authority in a single instalment on the expiry of such period (being not less than 14 days) after the day of issue of the notice served under sub-paragraph (2)(b) as is specified in it; and if in any case the revised amount is less than the aggregate amount of the instalments payable before the adjustment day, any overpayment in respect of any liability of the ratepayer under Part II of these Regulations—
+
+- (a) shall be repaid if the ratepayer so requires; or
+- (b) in any other case shall (as the billing authority determines) either be repaid or credited against any subsequent liability of the ratepayer to pay anything by way of non-domestic rate.
+
+(6) In this paragraph “the adjustment day” means the day 14 days after the day the notice served under sub-paragraph (2)(b) is issued.
+
+### 14. Substitution of regulation 4
+
+(1) Where this Schedule applies and the billing authority is required by these Regulations to serve a demand notice on the ratepayer in respect of chargeable financial years beginning on 1 April 2010 or 1 April 2011, these Regulations shall have effect as if for regulation 4 (the requirement for demand notices) there were substituted—
+
+> (1) For each chargeable financial year a billing authority shall, in accordance with regulations 5 to 7, serve a notice in writing on every ratepayer of the authority in relation to the year.
+>
+> (2) Subject to sub-paragraph (3), different demand notices shall be served for different chargeable financial years.
+>
+> (3) Where a deferral notice under paragraph 5 of Schedule 1D has been served on a ratepayer, a single demand notice may be served on the ratepayer in respect of the hereditament to which that notice relates, which relates to the amount payable in respect of the chargeable financial year beginning on 1 April 2010 or 1 April 2011 (as the case may be) and to the payment of deferred rates in respect of the financial year beginning on 1 April 2009 in accordance with paragraph 10 of Schedule 1D.
+>
+> (4) If pursuant to sub-paragraph (3), a single demand notice relates to different chargeable financial years, the amounts due under it, and the times at which they fall due, shall be determined as if separate notices were issued.
+>
+> (5) A demand notice shall be served with respect to the amount payable for every hereditament as regards which a person is a ratepayer of the authority, though a single notice may relate to the amount payable with respect to more than one such hereditament.
+>
+> (6) If a single demand notice relates to the amount payable with respect to more than one hereditament, subject to paragraphs 5 and 8 of Schedule 1 the amounts due under it, and the times at which they fall due, shall be determined as if separate notices were issued in respect of each hereditament.
+
+.
+
+## SCHEDULE 2 — ENFORCEMENT: PRESCRIBED FORMS[^key-d3d4ae538d6812f11939813e47408f07][^key-085523233d65d441cf94d775c038ef24][^key-4a5118a2dda217d658dea548ba8c44dc][^key-33b1440d3f7a092065e6a97837bbb269][^key-fd8168b9a052766d9ac78ad8f0eea1d4]
+
+Regulations 13(1) and 17(1)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — CHARGES CONNECTED WITH DISTRESS[^key-085523233d65d441cf94d775c038ef24][^key-4a5118a2dda217d658dea548ba8c44dc][^key-33b1440d3f7a092065e6a97837bbb269][^key-fd8168b9a052766d9ac78ad8f0eea1d4][^key-82cf33b7bf8287677d8be67fcbe87b3a]
+
+**1.** The sum in respect of charges connected with the distress which may be aggregated under regulation 14(2) shall be as set out in the following Table—
+
+**TABLE[^key-3ae5d0a69d0dc8fabf9a0188a5e3333f]**
+
+<table>
+<thead>
+<tr><th></th><th>(1)</th><th>(2)</th></tr>
+<tr><th></th><th>Matters connected with distress</th><th>Charges</th></tr>
+</thead>
+<tbody>
+<tr><td>A</td><td>For making a visit to premises with a view to levying distress (where no levy is made)–</td></tr>
+<tr><td></td><td>(i) where the visit is the first or only such visit</td><td>£22.50 <em>(Extent: E)</em> <em>(Extent: E.)</em> <em>(affected by repeal, see note)</em>£24.50 <em>(Extent: E.)</em></td></tr>
+<tr><td></td><td>(ii) where the visit is the second such visit</td><td>£16.50 <em>(Extent: E.)</em> <em>(affected by repeal, see note)</em>£18.00 <em>(Extent: E.)</em></td></tr>
+<tr><td>B</td><td>For levying distress</td><td>The lesser of–<br>(i) the amount of the costs and fees reasonably incurred; and<br>(ii) the relevant amount calculated under paragraph 2(1) with respect to the levy</td></tr>
+<tr><td>C</td><td>For one attendance with a vehicle with a view to the removal of goods (where, following the levy, goods are not removed)</td><td>Reasonable costs and fees incurred</td></tr>
+<tr><td>D</td><td>For the removal and storage of goods for purpose of sale</td><td>Reasonable costs and fees incurred</td></tr>
+<tr><td>E</td><td>For the possession of goods as described in paragraph 2(2)–</td></tr>
+<tr><td></td><td>(i) for close possession (the man in possession to provide his own board);</td><td>£14.00 <em>(Extent: E)</em> <em>(Extent: E.)</em> <em>(affected by repeal, see note)</em>£15.00 <em>(Extent: E.)</em> per day</td></tr>
+<tr><td></td><td>(ii) for walking possession</td><td>£11.00 <em>(Extent: E)</em> <em>(Extent: E.)</em> <em>(affected by repeal, see note)</em>£12.00 <em>(Extent: E.)</em></td></tr>
+<tr><td>F</td><td>For appraisement of an item distrained, at the request in writing of the debtor</td><td>Reasonable fees and expenses of the broker appraising</td></tr>
+<tr><td>G</td><td>For other expenses of, and commission on, a sale by auction–</td></tr>
+<tr><td></td><td>(i) where the sale is held on the auctioneer’s premises</td><td>The auctioneer’s commission fee and out-of-pocket expenses (but not exceeding in aggregate 15 per cent. of the sum realised), together with reasonable costs and fees incurred in respect of advertising</td></tr>
+<tr><td></td><td>(ii) where the sale is held on the debtor’s premises</td><td>The auctioneer’s commission fee (but not exceeding 7½ per cent. of the sum realised, together with the auctioneer’s out-of-pocket expenses and reasonable costs and fees incurred in respect of advertising</td></tr>
+<tr><td>H</td><td>Where no sale takes place by reason of payment or tender in the circumstances referred to in regulation 14(4)</td><td>Either–<br>(i) £22.50 <em>(Extent: E)</em> <em>(Extent: E.)</em> <em>(affected by repeal, see note)</em>£24.50 <em>(Extent: E.)</em>, or<br>(ii) the actual costs incurred, to a maximum of 5 per cent. of the amount in respect of which the liability order was made,<br>whichever is the greater</td></tr>
+</tbody>
+</table>
+
+[^key-d759425f80787d0090bddecc9e61a343][^key-a98ae1c41c224997166496acd3e4acc6][^key-d22c3b6c6c814b7a45ca358469c4584b][^key-7b02f2afd08c3ed256377d9b6316343b][^key-3164c9d915d5dee9e2fce09ff36ad838][^key-de674544b10f495419a893fd2159d495][^key-898938e066e9bd7904c0cf97dafcb5d9][^key-b1a3c2d83afe19d04846bf15e7893c3a]
+
+**2.** (1) In head B of the Table in paragraph 1, “the relevant amount” with respect to a levy means—
+
+- (a) where the sum due at the time of the levy does not exceed £100, £22.50 *(Extent: E)*[^key-79fc7c1d03ab1026b9f0b2ca9bb7e443] *(Extent: E.)* *(affected by repeal, see note)*[^key-459605132ca684dc35c2a5b385b64ae6]£24.50 *(Extent: E.)*;
+- (b) where the sum due at the time of the levy exceeds £100, 22.5 per cent *(Extent: E)*[^key-665ce78843e8c48dac4d4bf0d08cbce4] *(Extent: E.)* *(affected by repeal, see note)*[^key-8a989343df4b63a60f8a1358e361c604] 24.5 per cent *(Extent: E.)* on the first £100 of the sum due, 4 per cent. on the next £400, 2½ per cent. on the next £1,500, 1 per cent. on the next £8,000 and ¼ per cent. on any additional sum;
+
+and the sum due at any time for these purposes means so much of the amount in respect of which the liability order concerned was made as is outstanding at the time.
+
+(2) An authority takes close or walking possession of goods for the purposes of head E of the Table in paragraph 1 if it takes such possession in pursuance of an agreement—
+
+- (a) to which the debtor is a signatory;
+- (b) which is made at the time that the distress is levied; and
+- (c) (without prejudice to such other terms as may be agreed) which is expressed to the effect that, in consideration of the authority not immediately removing the goods distrained upon from the premises occupied by the debtor and delaying its sale of the goods, the authority may remove and sell the goods after a later specified date if the debtor has not by then paid the amount distrained for (including charges under this Schedule),
+
+and an authority takes close possession of goods on any day for those purposes if during the greater part of the day a person is left on the premises in physical possession of the goods on behalf of the authority under such an agreement.
+
+**2A.**[^key-d1569400bc3e7b0275b61823ee4504c4] No charge shall be payable under head F of the Table in paragraph 1 in respect of the appraisement of an item unless the debtor has been advised of the charge, and the manner of its calculation, before the appraisement is made.
+
+**3.** (1) Where the calculation under this Schedule of a percentage of a sum results in an amount containing a fraction of a pound, that fraction shall be reckoned as a whole pound.
+
+(2) In the case of dispute as to any charge under this Schedule (other than a charge of a prescribed amount), the debtor or the authority may apply to the district judge of the county court for the district in which the distress is or is intended to be levied for the amount of the charge to be taxed.
+
+(3) On any such application, the district judge may give such directions as to the costs of the taxation as he thinks fit; and any such costs directed to be paid by the debtor to the billing authority shall be added to the sum which may be aggregated under regulation 14(2).
+
+(4) References in the Table in paragraph 1 to costs, fees and expenses include references to amounts payable by way of value added tax with respect to the supply of goods or services to which the costs, fees and expenses relate.
+
+## SCHEDULE 4 — COSTS CONNECTED WITH COMMITTAL[^key-085523233d65d441cf94d775c038ef24][^key-4a5118a2dda217d658dea548ba8c44dc][^key-33b1440d3f7a092065e6a97837bbb269][^key-fd8168b9a052766d9ac78ad8f0eea1d4][^key-a03e277b2628b8a09de3e98274120c45]
+
+Regulation 16(6A) and (6B)
+
+| Application | Maximum costs |
+| --- | --- |
+| For making an application for the issue of a warrant | £55.00 *(Extent: E.)* *(affected by repeal, see note)*[^key-0b54754c1a5d5a721b38e4a5fbd0c491]£85.00 *(Extent: E.)* |
+| For making an application for an arrest warrant with bail | £55.00£85.00 |
+| For making an application for an arrest warrant without bail | £70.00 *(Extent: E.)* *(affected by repeal, see note)*[^key-e4eeff250461ee974c80dff4e72ab443]£105.00 *(Extent: E.)* |
+
+(This note is not part of the Regulations)
+
+These Regulations, which are made under Part III of the Local Government Finance Act 1988, make provision for the collection and enforcement of non-domestic rates under the Act and related matters.
+
+Regulation 2, in Part I, applies section 233 of the Local Government Act 1972 to the service of notices by the Common Council of the City of London or its officers under the Regulations, and also permits the service of notices at relevant places of business generally.
+
+Part II (regulations 3 to 9) is principally concerned with the billing of persons liable to pay non-domestic rates. It requires, amongst other matters, charging authorities to serve demand notices each year on ratepayers (regulations 4 to 7) identifying the payments to be made, and provides for certain of such payments to be made by instalments during the year (Schedule 1). Where a person fails to pay an instalment in accordance with Schedule 1, in certain cases the unpaid balance of the billing authority’s estimate of the amount payable for the year concerned will become payable immediately (regulation 8). Regulation 9 provides for the final adjustment of amounts payable under notices given under the Regulations.
+
+Part III (regulations 10 to 23) makes provision for the enforcement of sums due under Part II. Amounts payable to a billing authority may be recovered under a liability order made by a magistrates' court (regulations 11 to 13), following the making of which the billing authority may levy distress (regulation 14 and Schedule 3), apply for the commitment of the debtor to prison if there are insufficient goods on which to make a levy (regulations 16 and 17), or prove the debt in insolvency (regulation 18). As an alternative to recovery under a liability order, a billing authority may bring proceedings in a court of competent jurisdiction (regulation 20). Amounts which are repayable to a ratepayer are also recoverable in a court of competent jurisdiction (regulation 22). Regulation 23 precludes matters which may be raised by way of appeal to a valuation and community charge tribunal being raised in proceedings for recovery under Part III, provides for the proof of contents of rating lists, and provides for the case where the amounts required under a notice given under Part II are adjusted after a liability order has been made.
+
+Part IV (regulation 24) provides for the enforcement of outstanding rate liabilities in the administration of a ratepayer’s estate on the death of the ratepayer.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); provisions relevant to the exercise of the powers conferred by paragraph 3(3) of Schedule 9 were made in S.I. [1989/438](https://www.legislation.gov.uk/uksi/1989/438), Part IV.
+
+[^key-efabb61cbcb60abfd2b734f94ca14990]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1989/1058) modified (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/1995/212/regulation/3)
+
+[^M_E_18bfe97e-2ae9-495a-b708-bddde0b19cde]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only
+
+[^key-474cc844c7b101535a03ea59140f7bb0]: Commencement: Reg. 1 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-bf058150f7b286d3ea92ce3b724abd3e]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) punctuation mark inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2003/2604/article/6/a)
+
+[^key-920b8836ad726e4fac4d5940035868b8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2003/2604/article/6/b)
+
+[^key-fcfee4b5ac86b75ee34e73d8d32473ca]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) added (E.) (24.12.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) (No. 2) Order 2003 (S.I. 2003/3052)](https://www.legislation.gov.uk/uksi/2003/3052), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/3052/article/1/1), [5](https://www.legislation.gov.uk/uksi/2003/3052/article/5) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3052/article/1/2))
+
+[^key-7ae4b1d48d6ab6f408a49bdead7742fa]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) substituted (E.) (1.3.2006) by [The Non-Domestic Rating and Council Tax (Electronic Communications) (England) Order 2006 (S.I. 2006/237)](https://www.legislation.gov.uk/uksi/2006/237), [arts. 1](https://www.legislation.gov.uk/uksi/2006/237/article/1), [5](https://www.legislation.gov.uk/uksi/2006/237/article/5)
+
+[^M_E_1dcc3398-9ce7-4fcf-b131-3ecac05b9ee0]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only
+
+[^key-e5edfb2ba2b03ec853e89c503df35cbf]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) punctuation inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/wsi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2009/2706/article/1/1), [3(a)](https://www.legislation.gov.uk/wsi/2009/2706/article/3/a)
+
+[^key-bfd2b284e7d4a28d7c8b8f06d16e69ea]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/2) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/uksi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/2706/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/2706/article/3/b)
+
+[^M_E_6316508a-ede1-4507-ee0e-2a14297ab8cc]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only
+
+[^key-e9f0c7d8dddcd55c10192a86f1eddc3e]: Commencement: Reg. 2 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-46f1b2914defed0510679cd937df5743]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2) extended (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1990/145/regulation/2)
+
+[^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); subsection (6) was repealed by the Local Government (Miscellaneous Provisions) Act [1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), Schedule 2.
+
+[^key-f1341acdd7b23face599830d45ff4094]: Textual amendment: [Reg. 2(3)-(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2/3) inserted (E.) (5.11.2003) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (England) Order 2003 (S.I. 2003/2604)](https://www.legislation.gov.uk/uksi/2003/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2604/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2003/2604/article/7/2)
+
+[^M_E_a6ca80b2-31d4-4c43-89ee-2d23e4f7e472]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only
+
+[^V_W_9d1980a1-38f3-c5a1-37a3-c48ca680ec8f]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2) extended (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1990/145/regulation/2)
+
+[^key-195dc479321edc87feb6125eb58efd9c]: Textual amendment: [Reg. 2(3)-(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/2/3) inserted (W.) (31.10.2009) by [The Council Tax and Non-Domestic Rating (Electronic Communications) (Wales) Order 2009 (S.I. 2009/2706)](https://www.legislation.gov.uk/wsi/2009/2706), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2009/2706/article/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2009/2706/article/4/2)
+
+[^key-31252dc61e6dc93f76d277ead9fa1c2c]: Modification: [Pt. 2](https://www.legislation.gov.uk/uksi/1989/1058/part/2) applied (with modifications) (26.2.1990) by The Non-[Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1990/145/regulation/3)
+
+[^key-89389eac691da30672b5153ad2611334]: Commencement: Reg. 3 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-a3ae72d284ed7fc7c771695b0977f8e7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) substituted (15.2.1991) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment and Miscellaneous Provision) Regulations 1991 (S.I. 1991/141)](https://www.legislation.gov.uk/uksi/1991/141), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/141/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/1991/141/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/3/2))
+
+[^key-b742d55c1acd302312606008cd47e5d6]: Textual amendment: Words in Regulations substituted (1.4.1993) by [The Local Government Finance (Repeals, Savings and Consequential Amendments) Order 1993 (S.I. 1993/616)](https://www.legislation.gov.uk/uksi/1993/616), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/616/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1993/616/schedule/2/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/1993/616/regulation/4))
+
+[^key-ef6531b757204abf9a6b1ba4068e4bf7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) substituted (E.) (with application from 1.4.2008) by [The Local Government (Non-Domestic Rating) (Consequential Amendments) (England) Order 2008 (S.I. 2008/428)](https://www.legislation.gov.uk/uksi/2008/428), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2008/428/article/1/1/3), [Sch. para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2008/428/schedule/paragraph/1/a/i)
+
+[^key-07a2139d31a598f0b686635de76c2b6b]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) inserted (E.) (24.3.2008) by [The Local Government (Non-Domestic Rating) (Consequential Amendments) (England) Order 2008 (S.I. 2008/428)](https://www.legislation.gov.uk/uksi/2008/428), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/428/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2008/428/article/1/2), [Sch. para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2008/428/schedule/paragraph/1/a/ii)
+
+[^key-015865c4c20a6d9512ce784b19baec2b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/1) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/a)
+
+[^key-236189873bd3ead7a16a1cefd3bbdb01]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/3/2) inserted (E.) (with application from 1.4.2008) by [The Local Government (Non-Domestic Rating) (Consequential Amendments) (England) Order 2008 (S.I. 2008/428)](https://www.legislation.gov.uk/uksi/2008/428), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2008/428/article/1/1/3), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2008/428/schedule/paragraph/1/b)
+
+[^key-a296e0f01500db311ff8841d69706682]: Commencement: Reg. 4 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-d9122aa3e2be247129d35e9d916f866f]: Commencement: Reg. 5 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-f1ca4ae931f70feca000ba7af0c4d124]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5) modified (E.) (18.2.1991) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) (England) Regulations 1991 (S.I. 1991/242)](https://www.legislation.gov.uk/uksi/1991/242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/1991/242/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/1991/242/regulation/3))
+
+[^key-fa1500a9f088057bc65095292a9a07d8]: Modification: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5/2) modified (W.) (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [3](https://www.legislation.gov.uk/uksi/1995/3150/article/3)
+
+[^key-e4f724a1624f79ccfbe170d3c9394a26]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5/2) substituted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/1993/774/regulation/3/a/i) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/2))
+
+[^key-518eb445f0bccb5c47fa14477ee8e295]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/5/3) inserted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1993/774/regulation/3/a/ii) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/2))
+
+[^key-fca61c89469cb3eb63aa7aaf82554db0]: Commencement: Reg. 6 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-29de0c3b5f2a50fe0cb30fbc6d91c721]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/1058/regulation/6) modified (E.) (18.2.1991) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) (England) Regulations 1991 (S.I. 1991/242)](https://www.legislation.gov.uk/uksi/1991/242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/1991/242/regulation/4/1), [Sch.](https://www.legislation.gov.uk/uksi/1991/242/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/1991/242/regulation/3))
+
+[^key-40b8a7950bede07e9321184e97cfa676]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/6/1) modified (W.) (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [3](https://www.legislation.gov.uk/uksi/1995/3150/article/3)
+
+[^key-449dc9b388bff32163127c86a73f596a]: Commencement: Reg. 7 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-f6760f0dbb02f95c70e8d6726f4d90d3]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/1989/1058/regulation/7A) inserted (E.) (9.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009 (S.I. 2009/204)](https://www.legislation.gov.uk/uksi/2009/204), [regs. 1](https://www.legislation.gov.uk/uksi/2009/204/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/204/regulation/2/2) and (W.) (31.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2009 (S.I. 2009/461)](https://www.legislation.gov.uk/wsi/2009/461), [regs. 1](https://www.legislation.gov.uk/wsi/2009/461/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/461/regulation/2/2)
+
+[^key-41763a0c5cf724aa2528b55533fe6e5a]: Textual amendment: [Reg. 7B](https://www.legislation.gov.uk/uksi/1989/1058/regulation/7B) inserted (E.) (31.7.2009) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1597/regulation/2/2)
+
+[^key-337dbbd41e3e1a59b6307cb016e93283]: Textual amendment: [Reg. 7C](https://www.legislation.gov.uk/uksi/1989/1058/regulation/7C) inserted (W.) (28.8.2009) by [The Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2009 (S.I. 2009/2154)](https://www.legislation.gov.uk/wsi/2009/2154), [regs. 1](https://www.legislation.gov.uk/wsi/2009/2154/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2009/2154/regulation/2/2)
+
+[^key-446c8c823ed794e7e46d632b72b373d6]: Commencement: Reg. 8 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-63fd85e423e1821b8f55c2480884bd84]: Textual amendment: Words in [reg. 8(8)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/8/8) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/b)
+
+[^key-edcda1d4e16173f62c4edd917c547c5e]: Commencement: Reg. 9 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-13f92656f25e551e587b295cfe01dfec]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (26.2.1990) by The Non-[Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1990/145/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/1990/145/regulation/5))
+
+[^key-1812ed696582204cd2a29d26544fe5c9]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13)
+
+[^key-70527d4c2714b19cddedf34b60370434]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/9)
+
+[^key-b53892364ef2707e54a45ccfbd2a083c]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/uksi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2005/1312/schedule/4/paragraph/13)
+
+[^key-97c3e6ed73e6d80dee9252ac405ade07]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/1989/1058/part/3) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/uksi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2005/1312/schedule/4/paragraph/9)
+
+[^key-3da0e21610b1735c08c962e113e1f882]: Commencement: Reg. 10 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-62c3b7d5488f3a9b6ed4c595abee8f7f]: Commencement: Reg. 11 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-9f53f68af41c9618b16ee2715911526a]: Commencement: Reg. 12 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^f00003]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-2f3f786bf5f51a82a792b81a0fde7887]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/6) substituted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/2)
+
+[^key-250ca3f08f6fcb7d1d686c4639c14ac0]: Modification: [Reg. 12(6)(b)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/6/b) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [6](https://www.legislation.gov.uk/uksi/1995/212/regulation/6)
+
+[^key-4fa6d023959d61c4bbc88f5b67917b9b]: Modification: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/7) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [6](https://www.legislation.gov.uk/uksi/1995/212/regulation/6)
+
+[^key-5d72fec041dd25af5a76aa5915219e17]: Textual amendment: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/12/7) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/2)
+
+[^key-97a70f9b622b12d68246e3845c394dec]: Commencement: Reg. 13 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-dba755ccea24985e2e40b3329a236409]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/1) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/3)
+
+[^key-2342ad034c649b33eff8430a27cd1b87]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/1) omitted (W.) (10.7.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2003 (S.I. 2003/1714)](https://www.legislation.gov.uk/uksi/2003/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1714/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2003/1714/regulation/3/a/i) and (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/3/1/a)
+
+[^key-4d869b99ca26c5ca1a909990a7edb6a7]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/1) omitted (W.) (10.7.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2003 (S.I. 2003/1714)](https://www.legislation.gov.uk/uksi/2003/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1714/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1714/regulation/3/a/ii) and (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/3/1/b)
+
+[^key-154550e8072498b15ce8ab4baf410ab7]: Textual amendment: [Reg. 13(2A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/13/2A) inserted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [3](https://www.legislation.gov.uk/uksi/1998/3089/regulation/3)
+
+[^key-5e384fbe7d7dbb4def62df77b7951e2a]: Commencement: Reg. 14 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-dae25de7fa1798da904de0a62c00db4c]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [7](https://www.legislation.gov.uk/uksi/1995/212/regulation/7)
+
+[^key-a7a223045c79520d019d14491853d8ad]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14/1A) inserted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1993/774/regulation/3/b) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/3))
+
+[^key-cb8c615f97b4c21b33b8c03b3cbaecc5]: Textual amendment: [Reg. 14(6A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14/6A) inserted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [4](https://www.legislation.gov.uk/uksi/1998/3089/regulation/4)
+
+[^key-bee9542d7f055b993f2961f3353ce5e3]: Textual amendment: [Reg. 14(9)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/14/9) revoked (8.11.1995) by [Statute Law (Repeals) Act 1995 (c. 44)](https://www.legislation.gov.uk/ukpga/1995/44), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/1995/44/schedule/1/part/VI)
+
+[^key-1932db1c97dbb58d29e8214f63748f8a]: Commencement: Reg. 15 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-28aff3b0f5eab03db48ad90c8115b993]: Modification: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/15/2) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [8](https://www.legislation.gov.uk/uksi/1995/212/regulation/8)
+
+[^key-c03be7d1333972812ff41cc24b77252e]: Modification: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/15/4) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [8](https://www.legislation.gov.uk/uksi/1995/212/regulation/8)
+
+[^key-bc7e07e68ca5bc28f5d929343d9cce0e]: Commencement: Reg. 16 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-48cff1d3d4ae0203dbd333f8ce2415b5]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [9](https://www.legislation.gov.uk/uksi/1995/212/regulation/9)
+
+[^key-5645ef66bbd80aeca2d3462eff00ed1a]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16/1) substituted (7.3.1992) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) Regulations 1992 (S.I. 1992/474)](https://www.legislation.gov.uk/uksi/1992/474), [regs. 1](https://www.legislation.gov.uk/uksi/1992/474/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1992/474/regulation/3/2/a) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/474/regulation/2/1))
+
+[^key-102095fa1bf8726c138c76980be44158]: Textual amendment: [Reg. 16(6)-(6B)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16/6) substituted for [reg. 16(6)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/16/6) (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/1998/3089/regulation/5/1)
+
+[^f00006]: Footnote: S.I. [1981/552](https://www.legislation.gov.uk/uksi/1981/552).
+
+[^key-fd718fa7f1af282b3db974e59478a13f]: Commencement: Reg. 17 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-998082d7d1b199b67de9c2ed88d84aee]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/17/1) omitted (W.) (10.7.2003) by virtue of [The Non-Domestic Rating (Collection and Enforcement)(Local Lists) (Amendment) (Wales) Regulations 2003 (S.I. 2003/1714)](https://www.legislation.gov.uk/wsi/2003/1714), [regs. 1](https://www.legislation.gov.uk/wsi/2003/1714/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2003/1714/regulation/3/b)
+
+[^f00007]: Footnote: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48).
+
+[^key-7007ae0dc40f68b66409dbd5e4725392]: Commencement: Reg. 18 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^f00008]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^key-65402d1f971f15571516cfe1a3d181e9]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) modified (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/1990/145/regulation/5/5)
+
+[^key-21f2aae7daeb6d1b166cd5dba96373b5]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) modified (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/14/5)
+
+[^key-f1c17c63206cc3b5baee11ebe4c0328c]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) modified (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/wsi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1312/regulation/1/1), [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/wsi/2005/1312/schedule/4/paragraph/14/5)
+
+[^key-43a205a05440406e0fcf54a6d4aefa3d]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) omitted (26.2.1990) by virtue of [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/4)
+
+[^key-2b9879d6403ca2530fbfc866b1609ef7]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/18/2) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/1990/145/regulation/7/4)
+
+[^key-0f7580b877f911a09158de39b6323372]: Commencement: Reg. 19 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-e28ebd1aadbd108296044c9866790f13]: Commencement: Reg. 20 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-3bc5d06683b6b1fbb85423af238633f2]: Commencement: Reg. 21 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-f80276039e40702266a55a68c400468e]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/1)[(1A)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/1A) omitted (1.4.2005) by virtue of [The Courts Act 2003 (Consequential Provisions) ( No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 119](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/119)
+
+[^key-d0e3d085ddcbce95cccc5a9d0bbdb7cf]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/2) substituted: (E.) (31.8.2000) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (England) Regulations 2000 (S.I. 2000/2026)](https://www.legislation.gov.uk/uksi/2000/2026), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2026/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2000/2026/regulation/2/b); and (W.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (Wales) Regulations 2001 (S.I. 2001/1076)](https://www.legislation.gov.uk/uksi/2001/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/2/2/b)
+
+[^f00009]: Footnote: S.I. [1970/231](https://www.legislation.gov.uk/uksi/1970/231), to which there are amendments not relevant to these Regulations.
+
+[^key-06c8663664dd064a271da641f76b9824]: Modification: [Reg. 21(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/4)[(5)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/5) applied (with modifications) (28.2.1995) by [The Local Government Changes for England (Non-Domestic Rating, Collection and Enforcement and Discretionary Relief) Regulations 1995 (S.I. 1995/212)](https://www.legislation.gov.uk/uksi/1995/212), [regs. 1](https://www.legislation.gov.uk/uksi/1995/212/regulation/1), [10](https://www.legislation.gov.uk/uksi/1995/212/regulation/10)
+
+[^key-bb60ee46dae66ef119da9cc44fbc3625]: Textual amendment: [Reg. 21(4)-(6)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/4) added (7.3.1992) by [The Community Charges and Non-Domestic Rating (Miscellaneous Provisions) Regulations 1992 (S.I. 1992/474)](https://www.legislation.gov.uk/uksi/1992/474), [regs. 1](https://www.legislation.gov.uk/uksi/1992/474/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1992/474/regulation/3/2/b)[(4)](https://www.legislation.gov.uk/uksi/1992/474/regulation/3/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/1992/474/regulation/2/2))
+
+[^key-58a0a811789e3b9a26bd1b013fda3f63]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/4) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(a)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/a)
+
+[^key-fde7afe48a7416564cc3cb4813a2be2b]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/5) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(a)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/a)
+
+[^key-2fd11d0458e66a1b5a57df5dc9ac13cd]: Textual amendment: [Reg. 21(7)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/21/7) added (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(b)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/b)
+
+[^key-00b13d5f9982c16035e231163a35cbe5]: Commencement: Reg. 22 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-c137f8febbb0346c315611f7c21b8b36]: Commencement: Reg. 23 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-3cbce09cf0f37dc2df3f266372049509]: Modification: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/1)[(2)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/2) applied (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 10(7)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/10/7)
+
+[^key-5619203d4c67c61809ab5d0de449d793]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/3) inserted (18.7.1996) by [The Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996 (S.I. 1996/1880)](https://www.legislation.gov.uk/uksi/1996/1880), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1880/article/1), [61(c)](https://www.legislation.gov.uk/uksi/1996/1880/article/61/c)
+
+[^key-d386c75adccd912378253cea26ae0cd6]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/3) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/c)
+
+[^key-2012b4f78eb1ac4b117faaf8d55c4794]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/4) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) ( No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 120](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/120)
+
+[^key-94dd801c6075b94abd004f19f77de855]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/23/4) substituted: (E.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (England) Regulations 2001 (S.I. 2001/362)](https://www.legislation.gov.uk/uksi/2001/362), [regs. 1](https://www.legislation.gov.uk/uksi/2001/362/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2001/362/regulation/2/b); and (W.) (1.4.2001) by [The Community Charges, Council Tax and Non-Domestic Rating (Enforcement) (Magistrates' Courts) (Wales) Regulations 2001 (S.I. 2001/1076)](https://www.legislation.gov.uk/uksi/2001/1076), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2001/1076/regulation/3/2/b)
+
+[^key-aaca4af765ce0ef6430efd9cf5e7be06]: Commencement: Reg. 24 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-8a686ce8b012eb4c504ee9415c07e162]: Modification: [Reg. 24](https://www.legislation.gov.uk/uksi/1989/1058/regulation/24) modified (31.12.1989) by [The Non-Domestic Rating (Collection and Enforcement) (Central Lists) Regulations 1989 (S.I. 1989/2260)](https://www.legislation.gov.uk/uksi/1989/2260), [regs. 1](https://www.legislation.gov.uk/uksi/1989/2260/regulation/1), [11](https://www.legislation.gov.uk/uksi/1989/2260/regulation/11)
+
+[^key-8ec5e72c1dcf39cdadf3c4232bc7c2c9]: Textual amendment: Words in [reg. 24(2)(a)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/24/2/a) substituted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [8(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/8/1)
+
+[^key-1979397cf3d8e326c9fe5b61b4768659]: Textual amendment: Words in [reg. 24(5)(a)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/24/5/a) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/1990/145/regulation/8/2)
+
+[^key-3d97a484a1daf7ba24b725d2d8f091b7]: Commencement: Sch. 1 para. 1 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-31d1cba2467bf603abb2833e913b8e98]: Commencement: Sch. 1 para. 2 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-977115bb507ac51dbb48911a5be1e607]: Commencement: Sch. 1 para. 3 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-1aecabeb222c766a747058787dbb894d]: Commencement: Sch. 1 para. 4 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-98c8304bf7a325cfab2edbdbb1379194]: Commencement: Sch. 1 para. 5 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-21f1f25a181f7d140c8150e65b242728]: Commencement: Sch. 1 para. 6 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-9f8d8767fff6a10c395a36b362407114]: Modification: [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/6/1) modified (W.) (1.1.1996) by [The Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1995 (S.I. 1995/3150)](https://www.legislation.gov.uk/uksi/1995/3150), [arts. 1](https://www.legislation.gov.uk/uksi/1995/3150/article/1), [3](https://www.legislation.gov.uk/uksi/1995/3150/article/3)
+
+[^key-dac5fd5127c88089702ef36c94b1b32c]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/6/1) inserted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/1990/145/regulation/6/3)
+
+[^key-d4cee57567ebd70ddaeeefbbdcf14e55]: Commencement: Sch. 1 para. 7 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-1d24d31e3ddc9eb31a04ba920d9e0775]: Textual amendment: Words in [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/1) substituted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/d/i)
+
+[^key-b20d6601af8820e7bce245d5b9c503e3]: Textual amendment: [Sch. 1 para. 7(1A)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/1A) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/d/ii)
+
+[^key-e1d42b6c2436f2beaee0607a33e01c89]: Textual amendment: [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/2) substituted (1.4.1991) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment and Miscellaneous Provision) Regulations 1991 (S.I. 1991/141)](https://www.legislation.gov.uk/uksi/1991/141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/1991/141/regulation/4/1)
+
+[^key-959ce8171055eadd47196f11aa706b65]: Textual amendment: Word in [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/5) substituted (26.2.1990) by [The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990 (S.I. 1990/145)](https://www.legislation.gov.uk/uksi/1990/145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/145/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/1990/145/regulation/6/4)
+
+[^key-7b4fbc35f4f36e2ee8f18408ed04cf8b]: Textual amendment: Words in [Sch. 1 para. 7(6)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7/6) inserted (1.4.1991) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment and Miscellaneous Provision) Regulations 1991 (S.I. 1991/141)](https://www.legislation.gov.uk/uksi/1991/141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/1991/141/regulation/4/2)
+
+[^key-a533de3d82f1c39ee34b76f1928969f7]: Textual amendment: [Sch. 1 paras. 7A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7A), [7B](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7B) inserted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(e)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/e), [3](https://www.legislation.gov.uk/uksi/1992/1512/regulation/3)
+
+[^key-2d8fae3155e1a264252ea8a37127a9d6]: Textual amendment: [Sch. 1 para. 7C](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/7C) inserted (6.7.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1993 (S.I. 1993/1493)](https://www.legislation.gov.uk/uksi/1993/1493), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1493/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1993/1493/regulation/2/b)
+
+[^key-46c3ea8d5c1ca050868b7ac2964e307c]: Commencement: Sch. 1 para. 8 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-f28f070ce1a450712ef2054389ff86f4]: Textual amendment: Words in [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/8/a) substituted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(f)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/f)
+
+[^key-f4a1fac2505c4fa1a60b93989cf3b855]: Commencement: Sch. 1 para. 9 in force at 21.7.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1058/regulation/1/1)
+
+[^key-9e7d7f02eec451e76b64140d22f7a4ff]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1/paragraph/9) substituted (16.7.1992) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1992 (S.I. 1992/1512)](https://www.legislation.gov.uk/uksi/1992/1512), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1512/regulation/1), [2(g)](https://www.legislation.gov.uk/uksi/1992/1512/regulation/2/g)
+
+[^M_E_14fb982d-b6b0-4444-cd88-c7e4b3d5351f]: Extent: This version of this provision extends to England only; a separate version has been created for Wales only for the insertion of Schedule 1A (31.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2009 (S.I. 2009/461)](https://www.legislation.gov.uk/wsi/2009/461), [reg. 1](https://www.legislation.gov.uk/wsi/2009/461/regulation/1), [Sch.](https://www.legislation.gov.uk/wsi/2009/461/schedule)
+
+[^key-666cf5bd9462131a507614ad54b91c9a]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1A) inserted (E.) (9.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009 (S.I. 2009/204)](https://www.legislation.gov.uk/uksi/2009/204), [reg. 1](https://www.legislation.gov.uk/uksi/2009/204/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/204/schedule)
+
+[^M_E_5fdcd881-944d-40db-90b0-95705e6e1d5d]: Extent: This version of this provision extends to Wales only; a separate version has been created for England only for the insertion of Schedule 1A (9.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009 (S.I. 2009/204)](https://www.legislation.gov.uk/uksi/2009/204), [reg. 1](https://www.legislation.gov.uk/uksi/2009/204/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/204/schedule)
+
+[^key-1440a67ee15dd1cf1ff5e110a96d0af3]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1A) inserted (W.) (31.3.2009) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2009 (S.I. 2009/461)](https://www.legislation.gov.uk/wsi/2009/461), [reg. 1](https://www.legislation.gov.uk/wsi/2009/461/regulation/1), [Sch.](https://www.legislation.gov.uk/wsi/2009/461/schedule)
+
+[^key-67a67676f960ca14bcfa4fcec6fe8afe]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1B) inserted (E.) (31.7.2009) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1597/schedule/1)
+
+[^key-67ba8e971cb8e16d5e530fb8246237da]: Textual amendment: [Sch. 1C](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1C) inserted (E.) (31.7.2009) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1597/schedule/2)
+
+[^key-e2e83c41472e7c61282a87a94f8b3406]: Textual amendment: [Sch. 1D](https://www.legislation.gov.uk/uksi/1989/1058/schedule/1D) inserted (W.) (28.8.2009) by [The Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2009 (S.I. 2009/2154)](https://www.legislation.gov.uk/wsi/2009/2154), [reg. 1](https://www.legislation.gov.uk/wsi/2009/2154/regulation/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2009/2154/schedule/1)
+
+[^key-d3d4ae538d6812f11939813e47408f07]: Textual amendment: Sch. 2 omitted (W.) (10.7.2003) by virtue of The Non-Domestic Rating (Collection and Enforcement)(Local Lists) (Amendment) (Wales) Regulations 2003 ([S.I. 2003/1714](https://www.legislation.gov.uk/uksi/2003/1714)), regs. 1, 3(c) and (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/3/3)
+
+[^key-085523233d65d441cf94d775c038ef24]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/9)
+
+[^key-4a5118a2dda217d658dea548ba8c44dc]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (E.) (17.9.2004) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13)
+
+[^key-33b1440d3f7a092065e6a97837bbb269]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/wsi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1312/regulation/1/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/wsi/2005/1312/schedule/4/paragraph/9)
+
+[^key-fd8168b9a052766d9ac78ad8f0eea1d4]: Modification: [Schs. 2-4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/2) applied (with modifications) (W.) (13.5.2005) by [The Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/wsi/2005/1312), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1312/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/wsi/2005/1312/schedule/4/paragraph/13)
+
+[^key-82cf33b7bf8287677d8be67fcbe87b3a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3) substituted (1.4.1993) by [The Non-Domestic Rating (Collection and Enforcement) (Amendment and Miscellaneous Provision) Regulations 1993 (S.I. 1993/774)](https://www.legislation.gov.uk/uksi/1993/774), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/774/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/1993/774/schedule) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/1993/774/regulation/2/3))
+
+[^key-3ae5d0a69d0dc8fabf9a0188a5e3333f]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [reg. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/3089/schedule/2)
+
+[^key-d759425f80787d0090bddecc9e61a343]: Textual amendment: Sums in Sch. 3 para. 1 Table substituted (E.) (1.10.2003) by The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/a/i) and (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/a/i)
+
+[^key-a98ae1c41c224997166496acd3e4acc6]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/i)
+
+[^key-d22c3b6c6c814b7a45ca358469c4584b]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/ii)
+
+[^key-7b02f2afd08c3ed256377d9b6316343b]: Textual amendment: Sums in Sch. 3 para. 1 Table substituted (E.) (1.10.2003) by virtue of The Non-[Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/a/ii) and (W.)(1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/a/ii)
+
+[^key-3164c9d915d5dee9e2fce09ff36ad838]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/iii)
+
+[^key-de674544b10f495419a893fd2159d495]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/iv)
+
+[^key-898938e066e9bd7904c0cf97dafcb5d9]: Textual amendment: Sum in Sch. 3 para. 1 Table substituted (E.) (1.10.2003) by virtue of [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/a/iii) and (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/a/iii)
+
+[^key-b1a3c2d83afe19d04846bf15e7893c3a]: Textual amendment: Sum in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/1) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/a/v)
+
+[^key-79fc7c1d03ab1026b9f0b2ca9bb7e443]: Textual amendment: Sum in [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/a) substituted (E.) (1.10.2003) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2003 (S.I. 2003/2210)](https://www.legislation.gov.uk/uksi/2003/2210), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2003/2210/regulation/4/b/i) and (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/wsi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/1013/regulation/1/1), [3(b)(i)](https://www.legislation.gov.uk/wsi/2004/1013/regulation/3/b/i)
+
+[^key-459605132ca684dc35c2a5b385b64ae6]: Textual amendment: Sum in [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/a) substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/2/b)
+
+[^key-665ce78843e8c48dac4d4bf0d08cbce4]: Textual amendment: Words in [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/b) substituted (W.) (1.4.2004) by [The Council Tax (Administration and Enforcement) and the Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1013)](https://www.legislation.gov.uk/uksi/2004/1013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/1/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2004/1013/regulation/3/b/ii)
+
+[^key-8a989343df4b63a60f8a1358e361c604]: Textual amendment: Words in [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2/1/b) substituted (E.) (1.4.2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2007 (S.I. 2007/501)](https://www.legislation.gov.uk/uksi/2007/501), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/501/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2007/501/regulation/2/2)
+
+[^key-d1569400bc3e7b0275b61823ee4504c4]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/1989/1058/schedule/3/paragraph/2A) inserted (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/1998/3089/regulation/6/c)
+
+[^key-a03e277b2628b8a09de3e98274120c45]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/4) added (1.4.1999) by [The Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) Regulations 1998 (S.I. 1998/3089)](https://www.legislation.gov.uk/uksi/1998/3089), [reg. 1](https://www.legislation.gov.uk/uksi/1998/3089/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/3089/schedule/1)
+
+[^key-0b54754c1a5d5a721b38e4a5fbd0c491]: Textual amendment: Sum in [Sch. 4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/4) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/3/a)
+
+[^key-e4eeff250461ee974c80dff4e72ab443]: Textual amendment: Sum in [Sch. 4](https://www.legislation.gov.uk/uksi/1989/1058/schedule/4) Table substituted (E.) (31.1.2007 in relation to financial years beginning on or after 1 April 2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/2/3/b)

@@ -1,0 +1,67 @@
+---
+title: National Security Act 2023, section 7
+act: National Security Act 2023
+section: '7'
+status: revised-with-pending-changes
+text_date: '2026-07-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/32/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Security Act 2023, section 7
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-07-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. Meaning of “prohibited place”[^key-83610c6c2346ef54c9d6435a0a22a213][^key-1f3c1b9735ccbea745a8c6dbe57d3d76]
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Part “**prohibited place**” means—
+
+- (a) Crown land in the United Kingdom or the Sovereign Base Areas of Akrotiri and Dhekelia which is used—
+  - (i) for UK defence purposes;
+  - (ii) for extracting any metals, oil or minerals for use for UK defence purposes;
+  - (iii) for the purposes of the defence of a foreign country or territory;
+- (b) a vehicle—
+  - (i) situated in the United Kingdom or the Sovereign Base Areas of Akrotiri and Dhekelia which is used for UK defence purposes or for the purposes of the defence of a foreign country or territory;
+  - (ii) not so situated which is used for UK defence purposes;
+- (c) any land or building in the United Kingdom or the Sovereign Base Areas of Akrotiri and Dhekelia which is used for the purposes described in subsection (2)(b) or (3)(b) (or both);
+- (d) any land or building in the United Kingdom or the Sovereign Base Areas of Akrotiri and Dhekelia which is—
+  - (i) owned or controlled by the Security Service, the Secret Intelligence Service or GCHQ, and
+  - (ii) used for the functions of the Security Service, the Secret Intelligence Service or GCHQ;
+- (e) any land or building or vehicle designated as a prohibited place in regulations made under section 8.
+
+(2) In subsection (1) use for UK defence purposes means use for the purposes of—
+
+- (a) the activities of the armed forces of the Crown,
+- (b) the invention, development, production, operation, storage or disposal of weapons or other equipment or capabilities of those forces and research relating to it,
+- (c) United Kingdom defence policy and strategy and military planning and intelligence, or
+- (d) plans and measures for the maintenance of essential supplies and services that are or would be needed by the United Kingdom in time of war.
+
+(3) In subsection (1) use for the purposes of the defence of a foreign country or territory means use for the purposes of—
+
+- (a) the activities of the armed forces of the foreign country or territory, or
+- (b) the invention, development, production, operation, storage or disposal of weapons or other equipment or capabilities of those forces and research relating to it.
+
+(4) In this section—
+
+- “**building**” includes any part of a building;
+- “**Crown land**” means any land or building in which there is a Crown interest or a Duchy interest;
+- “**Crown interest**” means any of the following—
+  - (a) an interest belonging to His Majesty in right of the Crown or in right of His private estates;
+  - (b) an interest belonging to a United Kingdom government department or held in trust for His Majesty for the purposes of a United Kingdom government department;
+- “**Duchy interest**” means an interest belonging to His Majesty in right of the Duchy of Lancaster or belonging to the Duchy of Cornwall;
+- “**foreign country or territory**” means a country or territory outside the United Kingdom, the Channel Islands, the Isle of Man or the British Overseas Territories;
+- “**GCHQ**” has the meaning given by section 3(3) of the Intelligence Services Act 1994.
+
+(5) In subsection (4) the reference to His Majesty’s private estates is to be construed in accordance with section 1 of the Crown Private Estates Act 1862.
+
+## Annotations
+
+[^key-83610c6c2346ef54c9d6435a0a22a213]: Commencement: S. 7 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+
+[^key-1f3c1b9735ccbea745a8c6dbe57d3d76]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/32/section/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

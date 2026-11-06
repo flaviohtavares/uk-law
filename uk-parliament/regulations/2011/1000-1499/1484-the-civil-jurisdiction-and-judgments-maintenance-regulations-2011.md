@@ -1,0 +1,1270 @@
+---
+title: The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011
+id: uksi/2011/1484
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-06-13'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1484
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1484/pdfs/uksiem_20111484_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1484/pdfs/uksi_20111484_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1484/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 1484
+
+Judgments
+
+The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011
+
+Made
+
+13th June 2011
+
+Laid before Parliament
+
+13th June 2011
+
+Coming into force
+
+18th June 2011
+
+The Secretary of State for Justice, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c20893631] in relation to private international law [^c20893641], makes the following Regulations in exercise of the power under section 2(2) of the European Communities Act 1972.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, and shall come into force on 18th June 2011.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+(3) An amendment, repeal or revocation made by these Regulations has the same extent as the enactment amended, repealed or revoked.
+
+## 2. Interpretation[^key-01aa6ced55da91753337546b8e4c3fcb]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. The Maintenance Regulation[^key-01aa6ced55da91753337546b8e4c3fcb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Provisions relating to information[^key-01aa6ced55da91753337546b8e4c3fcb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Provisions relating to authentic instruments and court settlements[^key-01aa6ced55da91753337546b8e4c3fcb]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendments to the Civil Jurisdiction and Judgments Act 1982
+
+Schedule 4 (which makes amendments to the Civil Jurisdiction and Judgments Act 1982[^key-e388bc0267ad252be213c9ce27f414e0]) has effect.
+
+## 7. Amendments to the Civil Jurisdiction and Judgments Order 2001[^key-35d183f4ca1ca0c04203d4f747c48dd0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Allocation of jurisdiction within the United Kingdom[^key-cdd66ffcd7e0ccd915659b892640985b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Consequential amendments
+
+Schedule 7 (which makes consequential amendments) has effect.
+
+## 10. Review[^key-a7e0a72cbfb42579602d350efba44d08]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Justice
+
+McNally
+
+Minister of State
+
+Ministry of Justice
+
+## SCHEDULE 1 — THE MAINTENANCE REGULATION[^key-5d1fdd6967ae4dc414c68699424ce3b3]
+
+**No longer in force.**
+
+Regulation 3
+
+### PART 1 — Introductory
+
+#### 1. Interpretation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2. Central Authorities
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Recognition and enforcement of maintenance decisions made by courts in Maintenance Regulation States other than Denmark
+
+#### 3. Application of Part 2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Enforcement of maintenance decisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Recognition and enforcement of maintenance decisions made by courts in Denmark etc
+
+#### 5. Application of Part 3
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Recognition and enforcement of maintenance orders
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Proceedings to contest decisions given on appeal in connection with applications for registration
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — Recognition and enforcement of maintenance decisions - general
+
+#### 8. Interest on judgments
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Currency of payments under maintenance decisions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Proof and admissibility of certain maintenance decisions and related documents
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 5 — ESTABLISHMENT AND MODIFICATION OF MAINTENANCE UNDER THE MAINTENANCE REGULATION
+
+**11.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — PROVISIONS RELATING TO INFORMATION[^key-5d1fdd6967ae4dc414c68699424ce3b3]
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — PROVISIONS RELATING TO AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS[^key-5d1fdd6967ae4dc414c68699424ce3b3]
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — AMENDMENTS TO THE CIVIL JURISDICTION AND JUDGMENTS ACT 1982
+
+Regulation 6
+
+**1.** The Civil Jurisdiction and Judgments Act 1982 [^c20893771] is amended as follows.
+
+**2.** In section 16 (allocation within UK of jurisdiction in certain civil proceedings), in subsection (4) after “Regulation” insert “ , Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 ”.
+
+**3.** In section 18 (enforcement of UK judgments in other parts of the UK), in subsection (7) after “section 4 or 5 of this Act” insert “ or by virtue of the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011. ”.
+
+**4.** In section 20 (rules as to jurisdiction in Scotland), in subsection (3)—
+
+- (a) the words “to the extent that it determines jurisdiction in relation to any matter to which Schedule 8 applies” become paragraph (a);
+- (b) after that paragraph insert—
+
+  > ; and
+  >
+  > - (b) to the extent that it relates to any matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+
+  .
+
+**5.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.** In Schedule 4 (Chapter II of the Regulation as modified for allocation of jurisdiction within the UK), paragraph 3(b) is repealed.
+
+**12.** Paragraph 5 of Schedule 5(proceedings excluded from Schedule 4) is repealed.
+
+**13.** In Schedule 8 (rules as to jurisdiction in Scotland), paragraph 2(e) is repealed.
+
+## SCHEDULE 5 — AMENDMENTS TO THE CIVIL JURISDICTION AND JUDGMENTS ORDER 2001[^key-a1cc02509c20556fce75c738be76d5be]
+
+[^key-a1cc02509c20556fce75c738be76d5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-a1cc02509c20556fce75c738be76d5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-a1cc02509c20556fce75c738be76d5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — ALLOCATION WITHIN THE UNITED KINGDOM OF JURISDICTION RELATING TO MAINTENANCE MATTERS[^key-3f513822436d62dd8feddb84771984e9]
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — CONSEQUENTIAL AMENDMENTS
+
+Regulation 9
+
+### 1. Maintenance Orders Act 1950 (c.37)
+
+(1) The Maintenance Orders Act 1950 is amended as follows.
+
+(2) In section 15 [^c20893911] (service of process), for subsection (1)(a)(vi), substitute—
+
+> - (vi) Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011; or
+
+.
+
+(3) In section 22 (discharge and variation of maintenance orders registered in summary or sheriff courts)—
+
+- (a) in subsection (1), at the beginning insert “ Subject to subsection (1ZA), ”;
+- (b) after that subsection insert—
+
+  > (1ZA) The power under subsection (1) to vary the rate of payments may not be exercised where paragraph 9(2) of Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 applies (restriction on modifying maintenance decision where creditor remains habitually resident in the part of the United Kingdom in which the decision was made).
+
+  .
+
+### 2. Maintenance Orders Act 1958 (c.39)
+
+(1) The Maintenance Orders Act 1958 is amended as follows.
+
+(2) Section 1 (application of Part 1) is amended as follows.
+
+(3) In subsection (1A) [^c20893921] after “any order” insert “ , decision, settlement or instrument ”.
+
+(4)[^key-0bd5ab159c18c53069b1a910d669e499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-40be8090603fe4005f1adbd3e0cd09a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Administration of Justice Act 1970 (c.31)
+
+(1) The Administration of Justice Act 1970 is amended as follows.
+
+(2) In section 28 (other provisions for the interpretation of Part 2), in subsection (1), in the definition of “maintenance order”—
+
+- (a) after “any order” insert “ , decision, settlement or instrument ”;
+- (b) for “such an order” substitute “ one ”;
+- (c) after “discharged” insert “ or has otherwise ceased to operate ”.
+
+(3) In Schedule 8 (which lists maintenance orders for the purposes of the Maintenance Orders Act 1958 and Part 2 of the Administration of Justice Act 1970), after paragraph 13A [^c20893951] insert—
+
+> **13B.** (1) A decision, court settlement or authentic instrument which falls to be enforced by a magistrates' court by virtue of the Maintenance Regulation and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+>
+> (2) In this paragraph—
+>
+> - “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark;
+> - “**decision**”, “**court settlement**” and “**authentic instrument**” have the meanings given by Article 2 of the Maintenance Regulation.
+
+.
+
+### 4. Attachment of Earnings Act 1971 (c.32)
+
+(1) The Attachment of Earnings Act 1971 is amended as follows.
+
+(2) In section 2 (principal definitions), in the definition of “maintenance order”—
+
+- (a) after “any order” insert “ , decision, settlement or instrument ”;
+- (b) for “such an order” substitute “ one ”;
+- (c) after “discharged” insert “ or has otherwise ceased to operate ”.
+
+(3) In Schedule 1 (which lists maintenance orders to which that Act applies) after paragraph 14 [^c20893961] insert—
+
+> **14A.** (1) A decision, court settlement or authentic instrument which falls to be enforced by a magistrates' court by virtue of the Maintenance Regulation and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+>
+> (2) In this paragraph—
+>
+> - “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark;
+> - “**decision**”, “**court settlement**” and “**authentic instrument**” have the meanings given by Article 2 of that Regulation.
+
+.
+
+### 5. Maintenance Orders (Reciprocal Enforcement) Act 1972 (c.18)
+
+In the Maintenance Orders (Reciprocal Enforcement) Act 1972, in section 4 [^c20893971] (power of sheriff to make provisional maintenance order)—
+
+- (a) in subsection (1), for “Rule 2(5) of Schedule 8 to the Civil Jurisdiction and Judgments Act 1982” substitute “ the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 ”;
+- (b) after subsection (6) insert—
+
+  > (7) In this section, “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+### 6. Matrimonial Causes Act 1973 (c.18)
+
+(1) The Matrimonial Causes Act 1973 is amended as follows.
+
+(2) In section 27 [^c20893981] (financial provision orders in case of neglect to maintain), for subsection (2), substitute—
+
+> (2) The court may not entertain an application under this section unless it has jurisdiction to do so by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+
+.
+
+(3) In section 35 (alteration of agreements by court during lives of parties)—
+
+- (a) in subsection (1), for “subsection (3)” substitute “ subsections (1A) and (3) ”;
+- (b) after that subsection insert—
+
+  > (1A) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011—
+  >
+  > - (a) the requirement as to domicile or residence in subsection (1) does not apply to the application or that part of it, but
+  > - (b) the court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+
+  .
+
+(4) In section 52 [^c20893991], in subsection (1), after the definition of “maintenance calculation” insert—
+
+> “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark;
+
+.
+
+### 7. Domicile and Matrimonial Proceedings Act 1973 (c.45)
+
+In the Domicile and Matrimonial Proceedings Act 1973, in section 10 (ancillary and collateral orders), after subsection (1B) [^c20894001] insert—
+
+> (1C) If the application or part of it relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, the Court of Session or a sheriff court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+>
+> (1D) In subsection (1C) “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+.
+
+### 8. Domestic Proceedings and Magistrates' Courts Act 1978 (c.22)[^key-36ec5ded721c2273abe3f8abbe1dad1f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Magistrates' Courts Act 1980 (c. 43)[^key-9f1696eb68968f44da9f61086ad1b139]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Matrimonial and Family Proceedings Act 1984 (c. 42)
+
+(1) The Matrimonial and Family Proceedings Act 1984 is amended as follows.
+
+(2) In section 15 [^c20894031] (jurisdiction of the court)—
+
+- (a) in subsection (1), for “subsection (2)”, substitute “ subsections (1A) and (2) ”;
+- (b) after that subsection, insert—
+
+  > (1A) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, those requirements are to determine whether the court has jurisdiction to entertain the application or that part of it.
+
+  ;
+- (c) in subsection (2)—
+  - (i) the words from “or by virtue of Council Regulation” to “at p 62)” are repealed;
+  - (ii) in paragraphs (a) and (b), the words “that Regulation or” are repealed;
+- (d) after subsection (2) insert—
+
+  > (3) In this section, “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(3) In section 16 (duty of court to consider whether England and Wales is appropriate venue)—
+
+- (a) in subsection (1), at the beginning, insert “ Subject to subsection (3), ”;
+- (b) after subsection (2) insert—
+
+  > (3) If the court has jurisdiction in relation to the application or part of it by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, the court may not dismiss the application or that part of it on the ground mentioned in subsection (1) if to do so would be inconsistent with the jurisdictional requirements of that Regulation and that Schedule.
+  >
+  > (4) In this section, “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(4) In section 28 [^c20894041] (circumstances in which a Scottish court may entertain application for financial provision)—
+
+- (a) in subsection (1), for “subsection (4)” substitute “ subsections (3A) and (4) ”;
+- (b) after subsection (3) insert—
+
+  > (3A) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011—
+  >
+  > - (a) those requirements are to be satisfied in respect of the application, or that part of it, instead of the requirements set out in subsection (2), and
+  > - (b) the condition mentioned in subsection (3)(e) does not apply.
+
+  ;
+- (c) in subsection (4)—
+  - (i) the words from “or by virtue of Council Regulation” to “at p 62)” are repealed;
+  - (ii) in paragraphs (a) and (b) the words “that Regulation or” are repealed;
+- (d) after that subsection insert—
+
+  > (5) “**The Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+### 11. Debtors (Scotland) Act 1987 (c.18)
+
+(1) The Debtors (Scotland) Act 1987 [^c20894051] is amended as follows.
+
+(2) In section 54 (current maintenance arrestment to be preceded by default)—
+
+- (a) in subsection (1)(a)(i), after “(a)” insert “ , (aa) ”;
+- (b) in subsection (1)(a)(ii), after “(g)” insert “ , (ga) ”;
+- (c) in subsection (2)(a), for “or (g)” substitute “ , (g) or (ga) ”;
+- (d) after subsection (3) insert—
+
+  > (4) In subsections (1) and (2), “**order**” includes decision, settlement and instrument.
+  >
+  > (5) In the case of a decision, settlement or instrument mentioned in paragraph (aa) of the definition of “maintenance order” in section 106, the reference in subsection (1)(a)(i) to the making of the order is to be construed as a reference—
+  >
+  > - (a) in the case of a decision, to the making of the decision;
+  > - (b) in the case of a settlement, to the approval by or, as the case may be, conclusion before a court of the settlement;
+  > - (c) in the case of an instrument, to the authentication by a competent authority of the instrument.
+
+  .
+
+(3) In section 55 (review and termination of current maintenance arrestment)—
+
+- (a) in subsection (9), for “or (g)” substitute “ , (g) or (ga) ”;
+- (b) after subsection (9) insert—
+
+  > (10) In subsections (8)(a) and (9), “**order**” includes decision, settlement and instrument.
+
+  .
+
+(4) In section 66 (recall and variation of conjoined arrestment order)—
+
+- (a) in subsection (5), for “or (g)” substitute “ , (g) or (ga) ”;
+- (b) after subsection (10) insert—
+
+  > (11) In subsections (4)(b) and (5), “**order**” includes decision, settlement and instrument.
+
+  .
+
+(5) In section 73A(4) (arrestment and action of furthcoming: interpretation), in the definition of “decree”, after paragraph (d) insert—
+
+> - (da) a decision, court settlement or authentic instrument (within the meaning of Article 2 of the Maintenance Regulation) which is enforceable in Scotland by virtue of the Maintenance Regulation and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011;
+
+.
+
+(6) In section 106 (interpretation)—
+
+- (a) in the definition of “maintenance order”—
+  - (i) after paragraph (a) insert—
+
+    > - (aa) a decision, court settlement or authentic instrument (within the meaning of Article 2 of the Maintenance Regulation) which falls to be enforced by the sheriff court by virtue of Section 1 of Chapter IV of the Maintenance Regulation and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011;
+
+    ;
+  - (ii) after paragraph (g) insert—
+
+    > - (ga) a decision, court settlement or authentic instrument (within the meaning of Article 2 of the Maintenance Regulation) which is registered in Scotland under the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011;
+
+    ;
+- (b) after that definition insert—
+
+  > -
+  >   - “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark;
+
+  .
+
+### 12. Children Act 1989 (c.41)
+
+(1) Schedule 1 to the Children Act 1989 is amended as follows.
+
+(2) In paragraph 10—
+
+- (a) in sub-paragraph (2), for “Where” substitute “ Subject to sub-paragraph (2A), where ”;
+- (b) after that sub-paragraph insert—
+
+  > (2A) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011—
+  >
+  > - (a) the requirement as to domicile or residence in sub-paragraph (2) does not apply to the application or that part of it, but
+  > - (b) the court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+  >
+  > (2B) In sub-paragraph (2A), “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(3) For paragraph 14 substitute—
+
+> **14.** (1) If an application under paragraph 1 or 2, or part of such an application, relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, the court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+>
+> (2) In sub-paragraph (1), “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+.
+
+### 13. Child Support Act 1991 (c.48)
+
+In section 44 of the Child Support Act 1991, after subsection (3) insert—
+
+> (4) The Commission does not have jurisdiction under this section if the exercise of jurisdiction would be contrary to the jurisdictional requirements of the Maintenance Regulation.
+>
+> (5) In subsection (4) “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+.
+
+### 14. Social Security Administration Act 1992 (c.5)
+
+In section 108 [^c20894061] of the Social Security Administration Act 1992 (reduction of expenditure on income support: certain maintenance orders to be enforceable by the Secretary of State)—
+
+- (a) in subsection (4)(a)—
+  - (i) insert “ or ” at the end of sub-paragraph (ii);
+  - (ii) paragraph (iv) and the “or” immediately preceding it are repealed;
+- (b) after that paragraph, but before the “and” immediately following it insert—
+
+  > - (aa) to apply for recognition and enforcement of the maintenance order under the Maintenance Regulation, to the extent permitted by Article 64 of that Regulation;
+
+  ;
+- (c) after subsection (8) insert—
+
+  > (9) In this section “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+### 15. Social Security Administration (Northern Ireland) Act 1992 (c.8)
+
+In section 103 [^c20894071] of the Social Security Administration Act (Northern Ireland) 1992 (reduction of expenditure on income support: certain maintenance orders to be enforceable by the Department)—
+
+- (a) in subsection (4)(a)—
+  - (i) insert “ or ” at the end of sub-paragraph (ii);
+  - (ii) paragraph (iv) and the “or” immediately preceding it are repealed;
+- (b) after that paragraph, but before the “and” immediately following it insert—
+
+  > - (aa) to apply for recognition and enforcement of the maintenance order under the Maintenance Regulation, to the extent permitted by Article 64 of that Regulation;
+
+  ;
+- (c) after subsection (8) insert—
+
+  > (9) In this section “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+### 16. Civil Partnership Act 2004 (c.33)
+
+(1) The Civil Partnership Act 2004 is amended as follows.
+
+(2) In section 227 (Scottish ancillary and collateral orders)—
+
+- (a) in subsection (3), for “If” substitute “ Subject to subsections (3A) and (3B), if ”;
+- (b) in subsection (3), for “the application unless—” substitute—
+
+  > the application.
+  >
+  > (3A) The court may not entertain the application if—
+
+  ;
+- (c) after the subsection (3A) so formed insert—
+
+  > (3B) If the application or part of it relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, the court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+
+  ;
+- (d) after subsection (5) insert—
+
+  > (6) In this section “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(3) In Schedule 5, in Part 9 (failure to maintain: financial provision (and interim orders)), in paragraph 39—
+
+- (a) in sub-paragraph (2) for the words from “unless” to the end substitute “ unless it has jurisdiction to do so by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011. ”;
+- (b) after sub-paragraph (4) insert—
+
+  > (5) In this paragraph, “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(4) In Schedule 5, in Part 13 (consent orders and maintenance agreements), in paragraph 69—
+
+- (a) in sub-paragraph (1) at the beginning insert “ Subject to sub-paragraph (1A), ”;
+- (b) after that sub-paragraph, insert—
+
+  > (1A) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011—
+  >
+  > - (a) the requirement as to domicile or residence in sub-paragraph (1)(b) does not apply to the application or that part of it, but
+  > - (b) the court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+
+  ;
+- (c) after sub-paragraph (6) insert—
+
+  > (7) In this paragraph, “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(5) In Schedule 6, in Part 8 (financial relief in magistrates' courts: supplementary), in paragraph 47 [^c20894081]—
+
+- (a)[^key-00cbad1e131554e5089eb77f75584a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) after that sub-paragraph insert—
+
+  > (1A) If an application or part of an application for an order under this Schedule relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, a magistrates' court may not entertain that application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+
+  ;
+- (c) after sub-paragraph (4) insert—
+
+  > (5) In this paragraph “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(6) In Schedule 7, in Part 1 (financial relief in England and Wales after overseas dissolution etc of a civil partnership)—
+
+- (a) in paragraph 7—
+  - (i) in sub-paragraph (1), at the beginning insert “ Subject to sub-paragraph (6), ”;
+  - (ii) after sub-paragraph (5) insert—
+
+    > (6) If an application or part of an application relates to a matter where jurisdiction falls to be determined by the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, those requirements are to determine whether the court has jurisdiction to entertain the application or that part of it.
+    >
+    > (7) In sub-paragraph (6) “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+    ;
+- (b) in paragraph 8—
+  - (i) in sub-paragraph (2), at the beginning insert “ Subject to sub-paragraph (4), ”;
+  - (ii) after sub-paragraph (3) insert—
+
+    > (4) If the court has jurisdiction in relation to the application or part of it by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, the court may not dismiss the application or that part of it on the ground mentioned in sub-paragraph (2) if to do so would be inconsistent with the jurisdictional requirements of that Regulation and that Schedule.
+    >
+    > (5) In sub-paragraph (4) “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+    .
+
+(7) In Schedule 11, in Part 2 (circumstances in which the court may entertain application for financial provision), in paragraph 2 [^c20894091]—
+
+- (a) in sub-paragraph (1) for “sub-paragraph (4)” substitute “ sub-paragraphs (3A) and (4) ”;
+- (b) after sub-paragraph (3) insert—
+
+  > (3A) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011—
+  >
+  > - (a) those requirements are to be satisfied in respect of the application, or that part of it, instead of the requirements set out in sub-paragraph (2), and
+  > - (b) the condition mentioned in sub-paragraph (3)(c) does not apply.
+
+  ;
+- (c) in sub-paragraph (4) the words from “or by virtue of Council Regulation” to “p 62)” are repealed;
+- (d) after that sub-paragraph insert—
+
+  > (5) In this paragraph “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(8) In Schedule 15, in Part 8 (failure to maintain: financial provision (and interim orders)), in paragraph 34—
+
+- (a) in sub-paragraph (2), for the words from “unless” to the end substitute “ unless it has jurisdiction to do so by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011. ”;
+- (b) after sub-paragraph (4) insert—
+
+  > (5) In this paragraph “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(9) In Schedule 15, in Part 12 (consent orders and maintenance agreements), in paragraph 62—
+
+- (a) in sub-paragraph (1), at the beginning insert “ Subject to sub-paragraph (1A), ”;
+- (b) after sub-paragraph (1) insert—
+
+  > (1A) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011—
+  >
+  > - (a) the requirement as to domicile or residence in sub-paragraph (1)(b) does not apply to the application or to that part of it, but
+  > - (b) the court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+
+  ;
+- (c) after sub-paragraph (6) insert—
+
+  > (7) In this paragraph “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(10) In Schedule 17, in Part 1 (financial relief in Northern Ireland after overseas dissolution etc of a civil partnership)—
+
+- (a) in paragraph 7—
+  - (i) in sub-paragraph (1), at the beginning insert “ Subject to sub-paragraph (6), ”;
+  - (ii) after sub-paragraph (5), insert—
+
+    > (6) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, those requirements are to determine whether the court has jurisdiction to entertain the application or that part of it.
+    >
+    > (7) In sub-paragraph (6) “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+    ;
+- (b) in paragraph 8—
+  - (i) in sub-paragraph (2), at the beginning insert “ Subject to sub-paragraph (4), ”;
+  - (ii) after sub-paragraph (3) insert—
+
+    > (4) If the court has jurisdiction in relation to the application or part of it by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, the court may not dismiss the application or that part of it on the ground mentioned in sub-paragraph (2) if to do so would be inconsistent with the jurisdictional requirements of that Regulation and that Schedule.
+    >
+    > (5) In sub-paragraph (4) “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+    .
+
+### 17. Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (c. 35) (NI)
+
+(1) The Maintenance and Affiliation Orders Act (Northern Ireland) 1966 is amended as follows.
+
+(2) Section 10 (orders to which this Part applies) is amended as follows.
+
+(3) In subsection (5) [^c20894101], after “an order” insert “ , decision, settlement or instrument ”.
+
+(4) After subsection (5), insert—
+
+> (6) For the purposes of this section—
+>
+> - (a) a maintenance decision which is enforceable by a court of summary jurisdiction by virtue of Section 1 of Chapter IV of the Maintenance Regulation and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 is to be deemed to be a maintenance order made by that court;
+> - (b) a maintenance decision which is registered by a court of summary jurisdiction under the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 is to be deemed to be a maintenance order made by that court;
+> - (c) an authentic instrument or court settlement which is enforceable by a court of summary jurisdiction by virtue of Article 48 of the Maintenance Regulation (application of provisions relating to maintenance decisions to authentic instruments and court settlements) and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 is to be deemed to be a maintenance order made by that court.
+>
+> (7) In subsection (6) —
+>
+> - “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark;
+> - “authentic instrument” and “court settlement” have the meanings given by Article 2 of the Maintenance Regulation;
+> - “**maintenance decision**” means a decision within the meaning of the Maintenance Regulation.
+
+.
+
+(5) In section 13A [^c20894111] (variation etc, of orders registered in the High Court), in sub-paragraph (1), after “section 10(5)” insert “ or section 10(6) ”.
+
+### 18. Matrimonial Causes (Northern Ireland) Order 1978 (SI 1978/1045 (NI 15))
+
+(1) The Matrimonial Causes (Northern Ireland) Order 1978 is amended as follows.
+
+(2) In Article 2 [^c20894121] (interpretation), in paragraph (2), after the definition of “maintenance calculation” insert—
+
+> the Maintenance Regulation” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+.
+
+(3) In Article 37 (alteration of agreements by the court, or by a court of summary jurisdiction, during lives of the parties)—
+
+- (a) in paragraph (1), for “paragraph (3)” substitute “ paragraphs (1A) and (3) ”;
+- (b) after that paragraph insert—
+
+  > (1A) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 then—
+  >
+  > - (a) the requirement as to domicile or residence in paragraph (1) does not apply to the application or that part of it, but
+  > - (b) the court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+
+  .
+
+(4) In Article 49 (jurisdiction of court), for paragraph (5), substitute—
+
+> (5) The court shall not entertain an application for financial provision under Article 29 unless it has jurisdiction to do so by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+
+.
+
+### 19. Domestic Proceedings (Northern Ireland) Order 1980 (SI 1980/563 (NI 5))
+
+In the Domestic Proceedings (Northern Ireland) Order 1980, in Article 32 (jurisdiction)—
+
+- (a) in paragraph (1), after “Subject to” insert “ paragraph (1A) and to ”;
+- (b) after that paragraph, insert—
+
+  > (1A) If an application or part of an application for an order under this Order relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, a court of summary jurisdiction may not entertain that application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+
+  ;
+- (c) after paragraph (5), insert—
+
+  > (6) In this Article “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+### 20. Magistrates' Courts (Northern Ireland) Order 1981 (SI 1981/1675 (NI 26))
+
+(1) The Magistrates' Courts (Northern Ireland) Order 1981 is amended as follows.
+
+(2) In Article 86 [^c20894131] (revocation, variation, etc of orders for periodical payment), after paragraph (1), insert—
+
+> (1A) The power under paragraph (1) is not exercisable in relation to a maintenance order which falls to be enforced by a court of summary jurisdiction by virtue of—
+>
+> - (a) Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011;
+> - (b) Council Regulation [(EC) No 44/2001](https://www.legislation.gov.uk/european/regulation/2001/0044) of 22nd December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters.
+
+.
+
+(3) Article 87 [^c20894141] (remission of arrears and manner in which arrears to be paid) is amended as follows.
+
+(4) After paragraph (1), insert—
+
+> (1A) The power under paragraph (1) is not exercisable in relation to a maintenance order which falls to be enforced by a court of summary jurisdiction by virtue of—
+>
+> - (a) Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011;
+> - (b) Council Regulation [(EC) No 44/2001](https://www.legislation.gov.uk/european/regulation/2001/0044) of 22nd December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters.
+
+.
+
+(5) In paragraph (7), in the definition of “non-Northern Ireland maintenance order”—
+
+- (a) the “or” at the end of sub-paragraph (b) is repealed;
+- (b) at the end of paragraph (c) insert—
+
+  > or
+  >
+  > - (d) a maintenance order which falls to be enforced by a magistrates' court by virtue of Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+
+  .
+
+(6) In Article 88 [^c20894151] (nature of domestic proceedings), in paragraph (a), for the words from “Council Regulation [(EC) No 44/2001](https://www.legislation.gov.uk/european/regulation/2001/0044)” to the end, substitute—
+
+> Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark;
+
+.
+
+(7) Article 98 [^c20894161], (enforcement of orders for periodical payment of money) is amended as follows.
+
+(8) After paragraph (1), insert—
+
+> (1A) The power in paragraph (1) is exercisable at any time after the expiration of 14 days, and before the expiration of 3 years, from the date of default, or the expiration of any longer limitation period under the law of the State of origin in relation to a maintenance order which falls to be enforced by a court of summary jurisdiction by virtue of Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+
+.
+
+(9) After paragraph (11)(b) [^c20894171] insert—
+
+> - (bb) maintenance orders which fall to be enforced by a court of summary jurisdiction by virtue of Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark, and the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011;
+
+.
+
+(10) After paragraph (12) insert—
+
+> (13) Paragraph (12) is subject to—
+>
+> - (a) Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October between the European Community and the Kingdom of Denmark, and
+> - (b) Council Regulation [(EC) No 44/2001](https://www.legislation.gov.uk/european/regulation/2001/0044) of 22nd December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters.
+
+.
+
+### 21. Matrimonial and Family Proceedings (Northern Ireland) Order 1989 (SI 1989/677 (NI 4))
+
+(1) The Matrimonial and Family Proceedings (Northern Ireland) Order 1989 is amended as follows.
+
+(2) In Article 19 (jurisdiction of the court)—
+
+- (a) in paragraph (1), for “paragraph (2)”, substitute “ paragraphs (1A) and (2) ”;
+- (b) after that paragraph insert—
+
+  > (1A) If an application or part of an application for an order under this Part relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, those requirements are to determine whether the court has jurisdiction to entertain the application or that part of it.
+
+  ;
+- (c) in paragraph (2) the words from “or by virtue of the Council Regulation” to “commercial matters” are repealed;
+- (d) after that paragraph, insert—
+
+  > (3) “**The Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(3) In Article 20 (duty of the court to consider whether Northern Ireland is the appropriate venue for the application) —
+
+- (a) at the beginning of paragraph (1), insert “ Subject to paragraph (3), ”;
+- (b) after paragraph (2), insert—
+
+  > (3) If the court has jurisdiction in relation to the application or part of it by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, the court may not dismiss the application or that part of it on the ground mentioned in paragraph (1) if to do so would be inconsistent with the jurisdictional requirements of that Regulation and that Schedule.
+  >
+  > (4) “**The Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+### 22. Child Support (Northern Ireland) Order 1991 (SI 1991/2628 (NI 23))
+
+In the Child Support (Northern Ireland) Order 1991, in Article 41 (jurisdiction), after paragraph (3) insert—
+
+> (4) The Department does not have jurisdiction under this Article if the exercise of jurisdiction would be contrary to the jurisdictional requirements of the Maintenance Regulation.
+>
+> (5) In paragraph (4) “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+.
+
+### 23. Children (Northern Ireland) Order 1995 (SI 1995/755 (NI 2))
+
+(1) Schedule 1 to the Children (Northern Ireland) Order 1995 is amended as follows.
+
+(2) In paragraph 12—
+
+- (a) in sub-paragraph (2) for “Where” substitute “ Subject to sub-paragraph (2A), where ”;
+- (b) after that sub-paragraph, insert—
+
+  > (2A) If an application or part of an application relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011—
+  >
+  > - (a) the requirement as to domicile or residence in sub-paragraph (2) does not apply to the application or that part of it, but
+  > - (b) the court may not entertain the application or that part of it unless it has jurisdiction by virtue of that Regulation and that Schedule.
+  >
+  > (2B) In sub-paragraph (2A), “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(3) For paragraph 16 substitute—
+
+> **16.** (1) Where jurisdiction in relation to the subject-matter of an application under paragraph 1 to this Schedule would fall to be determined by the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, the court will not entertain the application unless it has jurisdiction by virtue of the Maintenance Regulation and the 2011 Regulations.
+>
+> (2) In sub-paragraph (1), “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+.
+
+### 24. The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001[^key-114b2c002a8bb9ac8d126562b064e487]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993
+
+(1) The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993 [^c20894191] is amended as follows.
+
+(2) In Schedule 1, references to the following Hague Convention countries are revoked—
+
+- (a) Denmark;
+- (b) Federal Republic of Germany;
+- (c) Finland;
+- (d) France;
+- (e) Italy;
+- (f) Luxembourg;
+- (g) Netherlands;
+- (h) Portugal;
+- (i) Republic of Estonia;
+- (j) Republic of Poland;
+- (k) Slovakia;
+- (l) Spain;
+- (m) Sweden;
+- (n) the Czech Republic.
+
+(3) Schedule 2 is amended as follows—
+
+- (a) in paragraph 3(2), for section 3(1) of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as substituted by that paragraph) substitute—
+
+  > (1) This section applies to an application made to a magistrates' court in England and Wales if—
+  >
+  > - (a) the application is an application for a maintenance order against a person residing in a Hague Convention country, and
+  > - (b) the court has jurisdiction to entertain the application by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+
+  ;
+- (b) in paragraph 3(5), in section 3(6D) and (6E) of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as substituted by that paragraph) for “under this section” substitute “ pursuant to an application to which subsection (1) applies ”;
+- (c) for paragraph 3(6) substitute—
+
+  > (6) For subsection (7)(a) substitute—
+  >
+  > > - (a) for subsection (1) there shall be substituted—
+  > >
+  > > (1) This section applies where a complaint is made to a magistrates' court in Northern Ireland if—
+  > >
+  > > - (a) the complaint is a complaint for a maintenance order against a person residing in a Hague Convention country, and
+  > > - (b) the court has jurisdiction to entertain the complaint by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+
+  ;
+- (d) paragraph 4 is omitted;
+- (e) in paragraph 5, in section 5 of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as substituted by that paragraph)—
+  - (i) in subsection (1), after “enforcement of the order” insert “ , and in relation to which the court has jurisdiction to entertain proceedings for revocation or variation of that order by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011. ”;
+  - (ii) subsection (2) is omitted;
+- (f) in paragraph 9—
+  - (i) in section 9(1) of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as substituted by paragraph 9(2)), paragraph (b) is omitted;
+  - (ii) section 9(2) of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as substituted by paragraph 9(4)) is omitted;
+  - (iii) after section 9(8) of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as substituted by paragraph 9(4) insert—
+
+    > (8A) Where a registered order was made by a court in a Member State of the European Union which was a Hague Convention country before 18th June 2011, and that court varies the order on or after that date—
+    >
+    > - (a) subsection (8) does not apply;
+    > - (b) the prescribed officer of the registering court shall record the variation of the order against the original registration.
+
+    ;
+- (g) for paragraph 17 substitute—
+
+  > **17.** Subsections (5A) to (7) of section 17 are omitted.
+
+  ;
+- (h) in paragraph 21(2), after sub-paragraph (e) insert—
+
+  > - (ea) after that definition insert—
+  >
+  > “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark;
+
+  .
+
+(4) In Schedule 3, Part 1 of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as it has effect as set out in that Schedule) is amended as follows—
+
+- (a) in section 3—
+  - (i) for subsection (1) substitute—
+
+    > (1) This section applies to an application made to a magistrates' court in England and Wales if—
+    >
+    > - (a) the application is an application for a maintenance order against a person residing in a Hague Convention country, and
+    > - (b) the court has jurisdiction to entertain the application by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+
+    ;
+  - (ii) in section 3(6D) and (6E) for “under this section” substitute “ pursuant to an application to which subsection (1) applies ”;
+  - (iii) for subsection (7)(a) substitute—
+
+    > - (a) for subsection (1) there shall be substituted—
+    >
+    >   > (2) This section applies where a complaint is made to a magistrates' court in Northern Ireland if—
+    >   >
+    >   > - (a) the complaint is a complaint for a maintenance order against a person residing in a Hague Convention country, and
+    >   > - (b) the court has jurisdiction to entertain the complaint by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011.
+
+    ;
+- (b) section 4 is omitted;
+- (c) in section 5—
+  - (i) in subsection (1), after “enforcement of the order” insert “ , and in relation to which the court has jurisdiction to entertain proceedings for revocation or variation of that order by virtue of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011. ”;
+  - (ii) subsection (2) is omitted;
+- (d) in section 9—
+  - (i) in subsection (1), paragraph (b) is omitted;
+  - (ii) subsection (2) is omitted;
+  - (iii) after subsection (8) insert—
+
+    > (8A) Where a registered order was made by a court in a Member State of the European Union which was a Hague Convention country before 18th June 2011, and that court varies the order on or after that date—
+    >
+    > - (a) subsection (8) does not apply;
+    > - (b) the prescribed officer of the registering court shall record the variation of the order against the original registration.
+
+    ;
+- (e) in section 17, subsections (5) to (7A) are omitted;
+- (f) in section 21(1), after the definition of “maintenance order” insert—
+
+  > ”the Maintenance Regulation” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark;
+
+  .
+
+**26.** (1) Despite paragraph 25(2), the countries listed in that paragraph are to continue to be Hague Convention countries for the purposes of Part 1 of the Act, as modified by Schedule 2 to the Hague Convention Countries Order, in relation to—
+
+- (a) proceedings for the establishment of a maintenance order under section 3 of the Act which are continuing on 18th June 2011 pursuant to an application made before that date, save that where a maintenance order is made in those proceedings on or after that date recognition and enforcement of that order may not be sought pursuant to section 3(6D) and (6E);
+- (b) proceedings under section 5 of the Act for the variation or revocation of a maintenance order to which that section applies where those proceedings are continuing on 18th June 2011 pursuant to an application made before that date, save that where an order is made in those proceedings on or after that date, section 5(8) does not apply;
+- (c) proceedings under section 6 of the Act for registration of a maintenance order which are continuing on 18th of June 2011 where the certified copy of the order has been received by the Lord Chancellor or the Secretary of State before that date;
+- (d) enforcement or variation of a registered order pursuant to section 8 or 9 of the Act;
+- (e) the cancellation of the registration, or the transfer, of a registered order pursuant to section 10 of the Act;
+- (f) steps taken by the Lord Chancellor or the Secretary of State pursuant to section 11 of the Act in relation to a registered order.
+
+(2) In this paragraph—
+
+- (a) “**the Act**” means the Maintenance Orders (Reciprocal Enforcement) Act 1972, and references to particular provisions of the Act are to those provisions as modified by Schedule 2 to the Hague Convention Countries Order;
+- (b) “**the Hague Convention Countries Order**” means the Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993;
+- (c) “**registered order**” has the meaning given in section 21(1) of the Act.
+
+### 27. The Reciprocal Enforcement of Maintenance Orders (Republic of Ireland) Order 1993
+
+The Reciprocal Enforcement of Maintenance Orders (Republic of Ireland) Order 1993 [^c20894201] is revoked.
+
+**28.** (1) Despite paragraph 27, Part 1 of the Act, as modified by Schedule 1 to the Republic of Ireland Order continues to have effect in relation to—
+
+- (a) proceedings for the establishment of a maintenance order under section 3 of the Act which are continuing on 18th June 2011 pursuant to an application made before that date, save that where a maintenance order is confirmed in those proceedings on or after that date, section 3(6C)(b) does not apply;
+- (b) proceedings for the variation or revocation of a maintenance order under section 5 of the Act which are continuing on pursuant to an application made before that date;
+- (c) proceedings for registration of a maintenance order under section 6 of the Act which are continuing on 18th June 2011, where the certified copy of the order has been received by the Lord Chancellor or the Secretary of State before that date;
+- (d) enforcement of a registered order pursuant to section 8 of the Act;
+- (e) the cancellation of the registration, or the transfer, of a registered order pursuant to section 10 of the Act;
+- (f) steps taken by the Lord Chancellor or the Secretary of State pursuant to section 11 of the Act in relation to a registered order.
+
+(2) Despite paragraph 27, where a registered order has been varied or revoked by a court in the Republic of Ireland on or after 18th June 2011—
+
+- (a) section 9(2) of the Act applies;
+- (b) section 9(3) of the Act has effect as if for “shall register in the prescribed manner any order varying a registered order” there were substituted “shall record the variation of the order against the original registration.”.
+
+(3) In this paragraph—
+
+- (a) “**the Act**” means the Maintenance Orders (Reciprocal Enforcement) Act 1972, and references to particular provisions of the Act are to those provisions as modified by Schedule 1 to the Republic of Ireland Order;
+- (b) “**the Republic of Ireland Order**” means the Reciprocal Enforcement of Maintenance Orders (Republic of Ireland) Order 1993;
+- (c) “**registered order**” has the meaning given in section 21(1) of the Act.
+
+### 29. The Armed Forces (Forfeitures and Deductions) Regulations 2009
+
+(1) The Armed Forces (Forfeitures and Deductions) Regulations 2009 [^c20894211] are amended as follows.
+
+(2) In Regulation 2, after the definition of the 2000 Council Regulation, insert—
+
+> -
+>   - “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark;
+
+.
+
+(3) In Regulation 8—
+
+- (a) after paragraph (2), insert—
+
+  > (2A) Subject to paragraph (5), if an external maintenance order is enforceable in the United Kingdom without prior registration by virtue of Section 1 of Chapter IV of the Maintenance Regulation, the Defence Council, or an officer authorised by them, may make an order authorising a deduction to be made from the pay of a relevant person and to be appropriated in or towards satisfaction of a payment which he is required to make under the maintenance order.
+
+  ;
+- (b) in paragraph (5), after “paragraph”, insert “ (2A) or ”;
+- (c) in paragraph (10)(a)—
+  - (i) in subparagraph (iii), delete “or”;
+  - (ii) after subparagraph (iv) insert “ or ”; and
+  - (iii) insert
+
+    > - (v) Section 2 of Chapter IV of the Maintenance Regulation;
+
+    .
+
+(4) In Regulation 9, in subparagraph (2)—
+
+- (a) after (a), delete “or”;
+- (b) after (b), insert “ or ”; and
+- (c) insert—
+
+  > - (c) the Maintenance Regulation,
+
+  .
+
+(5) In Regulation 11, at paragraph (2)(b), for “or 8(2)”, substitute “ , 8(2) or 8(2A) ”.
+
+### 30. The Civil Legal Aid (Scotland) Regulations 2002
+
+In regulation 46 of the Civil Legal Aid (Scotland) Regulations 2002 [^c20894221]—
+
+- (a) after paragraph (1)(b) insert—
+
+  > - (c) application for legal aid is made in relation to proceedings in respect of which a sheriff court has jurisdiction, or an appeal in respect of which the Inner House of the Court of Session has jurisdiction, by virtue of the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 by, or on behalf of, a person—
+  >   - (i) who has made an application to the Scottish Ministers under Article 56 of the Maintenance Regulation; or
+  >   - (ii) who, in a Member State other than the United Kingdom, benefited in connection with (as the case may be) the decision being made, the authentic instrument being established or the court settlement being approved or concluded, from either—
+  >     - (aa) complete or partial legal aid or exemption from costs or expenses; or
+  >     - (bb) free proceedings before an administrative authority listed in Annex X to the Maintenance Regulation.
+
+  ;
+- (b) after paragraph (2) insert—
+
+  > (3) In the case of an application made in the circumstances referred to in paragraph (1)(c)(i), the Act is further modified in accordance with regulation 45(2)(a).
+  >
+  > (4) In paragraph (1)(c), “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision to facilitate the application of Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) (“**the Maintenance Regulation**”) in the United Kingdom from the 18th June 2011.
+
+Regulation 3 and Schedule 1 make provision for designation of Central Authorities for England and Wales, Scotland and Northern Ireland, and for the enforcement of maintenance decisions made in Member States of the European Union in each part of the United Kingdom in a manner equivalent to maintenance orders made in domestic courts. Part 2 of Schedule 1 applies to orders from Member States which apply the 2007 Hague Protocol on applicable law, and allows for enforcement without prior registration of the order. Part 3 of Schedule 1 applies to orders from Denmark, which does not apply that Protocol (unlike all other Member States except the United Kingdom). Orders from Denmark require registration prior to enforcement. Part 4 of Schedule 1 makes general provision relating to orders from all Member States.
+
+Regulation 4 and Schedule 2 make provision for the sharing of information between the designated Central Authorities of the United Kingdom and certain public bodies designated for the purposes of providing that information under Article 61 of the Maintenance Regulation. Article 61 of the Maintenance Regulation requires the disclosure of specific information to Central Authorities for use in the recovery of maintenance in cross border cases within the European Union.
+
+Regulation 5 and Schedule 3 make the necessary modifications to Schedule 1 to facilitate the enforcement of authentic instruments and court settlements from other Member States, as required by Article 48 of the Maintenance Regulation.
+
+Regulation 6 and Schedule 4 amend the Civil Jurisdiction and Judgments Act 1982 as necessary to take account of the application of the Maintenance Regulation in the European Union.
+
+Regulation 7 and Schedule 5 amend the Civil Jurisdiction and Judgments Order 2001 to take account of the application of the Maintenance Regulation, so that the 2001 Order does not apply to maintenance cases to which the Maintenance Regulation applies.
+
+Regulation 8 and Schedule 6 make provision for the allocation within the United Kingdom of jurisdiction in maintenance matters. The rules of Schedule 6 adapt the jurisdictional rules of the Maintenance Regulation to apply as between the different territorial units of the United Kingdom.
+
+Regulation 9 and Schedule 7 make amendments to legislation consequential upon the application of the Maintenance Regulation in the United Kingdom. In particular, legislation is amended where it provides rules of international jurisdiction which are incompatible with those of the Maintenance Regulation, and where the legislative machinery of enforcement for domestic maintenance orders needs to be adapted to apply to orders to be enforced in the United Kingdom by virtue of the Maintenance Regulation. Provision is also made in relation to the provision of legal aid in Scotland to comply with the legal aid provisions of Chapter V of the Maintenance Regulation (the relevant provision for England and Wales and Northern Ireland is made in separate legislation).
+
+Regulation 10 requires the Secretary of State to review the operation and effect of these Regulations in relation to England and Wales only and publish a report within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or be amended, in their application to England and Wales. A further instrument would be needed to revoke the Regulations or to amend them.
+
+## Annotations
+
+[^c20893631]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2 was amended by section 27(1)(a) and (b) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c20893641]: Marginal citation: [The European Communities (Designation) (No. 2) Order 2008 (S.I. 2008/1792)](https://www.legislation.gov.uk/uksi/2008/1792). Under section 57 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of functions in relation to implementation of obligations under Community law in respect of devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by the Secretary of State as regards Scotland. Implementation of obligations under Community law in respect of devolved matters is itself a devolved matter in Northern Ireland. However, the designation of the Secretary of State under the European Communities (Designation) (No 2) Order 2008 in relation to private international law remains exercisable in relation to Northern Ireland. This is despite the designation of Northern Ireland Departments in relation to that matter by virtue of the [European Communities (Designation) (No 5) Order 2010 (S.I.2010/2690)](https://www.legislation.gov.uk/uksi/2010/2690) as that designation does not restrict the scope of other designations.
+
+[^key-01aa6ced55da91753337546b8e4c3fcb]: Textual amendment: [Regs. 2-5](https://www.legislation.gov.uk/uksi/2011/1484/regulation/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(2)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e388bc0267ad252be213c9ce27f414e0]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2011/1484/regulation/6) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-35d183f4ca1ca0c04203d4f747c48dd0]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/1484/regulation/7) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cdd66ffcd7e0ccd915659b892640985b]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/1484/regulation/8) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a7e0a72cbfb42579602d350efba44d08]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/1484/regulation/10) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5d1fdd6967ae4dc414c68699424ce3b3]: Textual amendment: [Schs. 1-3](https://www.legislation.gov.uk/uksi/2011/1484/schedule/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(6)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20893771]: Marginal citation: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27). The Civil Jurisdiction and Judgments Act 1982 was amended by section 3 of, and Schedule 2 to the [Civil Jurisdiction and Judgments Act 1991 (c.12)](https://www.legislation.gov.uk/ukpga/1991/12), [Article 4](https://www.legislation.gov.uk/ukpga/1991/12/article/4) of, and Schedule 2 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [regulations 2](https://www.legislation.gov.uk/uksi/2001/3929/regulation/2), [16](https://www.legislation.gov.uk/uksi/2001/3929/regulation/16) and 17 of [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and section 226(1) of and paragraph 12 of Schedule 5 to the Bankruptcy and Diligence etc (Scotland) Act 2007 ([2007 asp 3](https://www.legislation.gov.uk/asp/2007/3)).
+
+[^key-3e07737ab925340da44ace4f9d437117]: Textual amendment: [Sch. 4 paras. 5-10](https://www.legislation.gov.uk/uksi/2011/1484/schedule/4/paragraph/5) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(7)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a1cc02509c20556fce75c738be76d5be]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1484/schedule/5) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(8)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3f513822436d62dd8feddb84771984e9]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2011/1484/schedule/6) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(8)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20893911]: Marginal citation: Section 15(1) was substituted by section 3 of and paragraph 11 of Schedule 3 to the [Administration of Justice Act 1977 (c.38)](https://www.legislation.gov.uk/ukpga/1977/38); section 15(1)(a)(vi) was inserted by section 16(5) of the [Civil Jurisdiction and Judgments Act 1982 (c.27)](https://www.legislation.gov.uk/ukpga/1982/27).
+
+[^c20893921]: Marginal citation: Section 1(1A) was inserted by section 27(3) of the [Administration of Justice Act 1970 (c.31)](https://www.legislation.gov.uk/ukpga/1970/31).
+
+[^key-0bd5ab159c18c53069b1a910d669e499]: Textual amendment: [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/2/4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-40be8090603fe4005f1adbd3e0cd09a5]: Textual amendment: [Sch. 7 para. 2(5)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/2/5) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^c20893951]: Marginal citation: Paragraph 13A was inserted by Article 5 of and paragraph 8 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929).
+
+[^c20893961]: Marginal citation: Paragraph 14 was inserted by Article 5 of and paragraph 9 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929).
+
+[^c20893971]: Marginal citation: Section 4(1) was substituted by section 23(2) of and paragraph 3(1) of Schedule 12 to the [Civil Jurisdiction and Judgments Act 1982 (c.27)](https://www.legislation.gov.uk/ukpga/1982/27).
+
+[^c20893981]: Marginal citation: Section 27(2) was amended by section 6(1) of the [Domicile and Matrimonial Proceedings Act 1973 (c.45)](https://www.legislation.gov.uk/ukpga/1973/45).
+
+[^c20893991]: Marginal citation: In Section 52(1), the definition of maintenance calculation was substituted by section 26 of and paragraph 3(1) and (4) of Schedule 3 to the [Child Support Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^c20894001]: Marginal citation: Section 10(1) was amended by section 105(4) of and paragraph 20(2)(a) of Schedule 4 to the [Children (Scotland) Act 1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36). Subsection (1B) of section 10 was inserted by regulation 2(1), and (4) of [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36).
+
+[^key-36ec5ded721c2273abe3f8abbe1dad1f]: Textual amendment: [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/8) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-9f1696eb68968f44da9f61086ad1b139]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/9) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^c20894031]: Marginal citation: Section 15(2) was amended by article 5 of and paragraphs 18 and 19 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), and by paragraphs 12 and 13 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
+
+[^c20894041]: Marginal citation: Section 28(4) was amended by article 5 of and paragraphs 18 and 20 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), and by paragraphs 12 and 14 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
+
+[^c20894051]: Marginal citation: 1987 (c.18).
+
+[^c20894061]: Marginal citation: Section 108 is prospectively repealed by sections 9(3)(b) and 58(1) of and Schedule 7 to the [Welfare Reform Act 2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24). Subsection (4)(a)(iv) was inserted by article 5 and paragraph 24(c) of the Schedule to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), and amended by regulation 5 and paragraph 16 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655). Subsection (8) was substituted by section 57(1) of, and paragraph 2 of Schedule 7 to the [Child Maintenance and Other Payments Act 2008 (c.6)](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^c20894071]: Marginal citation: Section 103 is prospectively repealed by sections 9(3)(b) and 34(1) of and Schedule 4 to the [Welfare Reform Act (Northern Ireland) 2010 (c.13)](https://www.legislation.gov.uk/nia/2010/13). Subsection (4)(a)(iv) was inserted by article 5 and paragraph 24(c) of the Schedule to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), and amended by regulation 5 and paragraph 16 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655). Subsection (8) was substituted by section 38(1) of, and paragraph 2 of Schedule 4 to the [Child Maintenance Act (Northern Ireland) 2008 (c.10)](https://www.legislation.gov.uk/nia/2008/10).
+
+[^c20894081]: Marginal citation: Paragraph 47(4) was inserted by article 2 of and paragraphs 21 and 23 of Schedule 1 to [S.I.2006/1016](https://www.legislation.gov.uk/uksi/2006/1016).
+
+[^key-00cbad1e131554e5089eb77f75584a90]: Textual amendment: [Sch. 7 para. 16(5)(a)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/16/5/a) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^c20894091]: Marginal citation: Paragraph 2(4) was amended by regulation 5 of and paragraph 18 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
+
+[^c20894101]: Marginal citation: Section 10(5) was inserted by section 22(1) of and paragraph 5 of the Schedule to the [Maintenance Orders (Reciprocal Enforcement) Act 1972 (c.18)](https://www.legislation.gov.uk/ukpga/1972/18).
+
+[^c20894111]: Marginal citation: Section 13A was inserted by Article 11 of and paragraph 2 of Schedule 1 to [S.I.1993/1576 (N.I.6)](https://www.legislation.gov.uk/nisi/1993/1576).
+
+[^c20894121]: Marginal citation: In Article 2, the definition of maintenance calculation was substituted by section 6 and paragraph 3 of Schedule 3 to the [Child Support Pensions and Social Security Act (Northern Ireland) 2000 (c.4)](https://www.legislation.gov.uk/nia/2000/4) (N.I.).
+
+[^c20894131]: Marginal citation: Article 86 was substituted by Article 7 of [S.I.1993/1576 (N.I.6)](https://www.legislation.gov.uk/nisi/1993/1576). It is modified by section 9 of the [Maintenance Orders (Reciprocal Enforcement) Act 1972 (c.18)](https://www.legislation.gov.uk/ukpga/1972/18), [section 22](https://www.legislation.gov.uk/ukpga/1972/18/section/22) of the [Maintenance Orders Act 1950 (c.37)](https://www.legislation.gov.uk/ukpga/1950/37) and section 13 of the [Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (c.35)](https://www.legislation.gov.uk/apni/1966/35) (N.I.).
+
+[^c20894141]: Marginal citation: Article 87 was substituted by Article 9(2) of [S.I.1993/1576 (N.I.6)](https://www.legislation.gov.uk/nisi/1993/1576). It was amended by Article 5 and paragraphs 13 and 14 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929) and by regulation 5 and paragraphs 22 and 23 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
+
+[^c20894151]: Marginal citation: Article 88 was amended by sections 15(4) and 36(6) of and Parts 1 and III of Schedule 12 to the [Civil Jurisdiction and Judgments Act 1982 (c.27)](https://www.legislation.gov.uk/ukpga/1982/27), by Article 5 of and paragraphs 13 and 15 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929) and by regulation 5 and paragraphs 22 and 24 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
+
+[^c20894161]: Marginal citation: Article 98 is modified by section 5(6A) of the [Civil Jurisdiction and Judgments Act 1982 (c.27)](https://www.legislation.gov.uk/ukpga/1982/27). Section 5(6A) was inserted by [S.I.1993/1576 (N.I.6)](https://www.legislation.gov.uk/nisi/1993/1576).
+
+[^c20894171]: Marginal citation: Article 98(11) was amended by sections 15(4) and 36(6) of, and Parts I and III of Schedule 12 to, the [Civil Jurisdiction and Judgments Act 1982 (c.27)](https://www.legislation.gov.uk/ukpga/1982/27), by Article 5 of and paragraph 16 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), and by regulation 5 and paragraph 25 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
+
+[^key-114b2c002a8bb9ac8d126562b064e487]: Textual amendment: [Sch. 7 para. 24](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/24) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+
+[^c20894191]: Marginal citation: [S.I. 1993/593](https://www.legislation.gov.uk/uksi/1993/593)
+
+[^c20894201]: Marginal citation: [S.I. 1993/594](https://www.legislation.gov.uk/uksi/1993/594)
+
+[^c20894211]: Marginal citation: [S.I. 2009/1109](https://www.legislation.gov.uk/uksi/2009/1109)
+
+[^c20894221]: Marginal citation: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494). Regulation 46 has been amended by [S.S.I. 2011/161](https://www.legislation.gov.uk/ssi/2011/161).

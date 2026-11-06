@@ -1,0 +1,60 @@
+---
+title: Data Protection Act 2018, section 111
+act: Data Protection Act 2018
+section: '111'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2018/12/section/111
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Data Protection Act 2018, section 111
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 111. National security: certificate[^key-dd0f181b5dd17d7042dc7e38ce07044c]
+
+*Extent: E+W+S+N.I.*
+
+(1) Subject to subsection (3), a certificate signed by a Minister of the Crown certifying that exemption from all or any of the provisions mentioned in section 110(2) is, or at any time was, required for the purpose of safeguarding national security in respect of any personal data is conclusive evidence of that fact.
+
+(2) A certificate under subsection (1)—
+
+- (a) may identify the personal data to which it applies by means of a general description, and
+- (b) may be expressed to have prospective effect.
+
+(3) Any person directly affected by the issuing of a certificate under subsection (1) may appeal to the Tribunal against the certificate.
+
+(4) If on an appeal under subsection (3), the Tribunal finds that, applying the principles applied by a court on an application for judicial review, the Minister did not have reasonable grounds for issuing the certificate, the Tribunal may—
+
+- (a) allow the appeal, and
+- (b) quash the certificate.
+
+(5) Where, in any proceedings under or by virtue of this Act, it is claimed by a controller that a certificate under subsection (1) which identifies the personal data to which it applies by means of a general description applies to any personal data, another party to the proceedings may appeal to the Tribunal on the ground that the certificate does not apply to the personal data in question.
+
+(6) But, subject to any determination under subsection (7), the certificate is to be conclusively presumed so to apply.
+
+(7) On an appeal under subsection (5), the Tribunal may determine that the certificate does not so apply.
+
+(8) A document purporting to be a certificate under subsection (1) is to be—
+
+- (a) received in evidence, and
+- (b) deemed to be such a certificate unless the contrary is proved.
+
+(9) A document which purports to be certified by or on behalf of a Minister of the Crown as a true copy of a certificate issued by that Minister under subsection (1) is—
+
+- (a) in any legal proceedings, evidence of that certificate, and
+- (b) in any legal proceedings in Scotland, sufficient evidence of that certificate.
+
+(10) The power conferred by subsection (1) on a Minister of the Crown is exercisable only by—
+
+- (a) a Minister who is a member of the Cabinet, or
+- (b) the Attorney General or the Advocate General for Scotland.
+
+## Annotations
+
+[^key-dd0f181b5dd17d7042dc7e38ce07044c]: Commencement: S. 111 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)

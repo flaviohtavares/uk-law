@@ -1,0 +1,140 @@
+---
+title: The Education and Skills Act 2008 (Commencement No. 3) Order 2009
+id: uksi/2009/1513
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-06-18'
+text_date: '2009-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/1513
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/1513/pdfs/uksi_20091513_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1513/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education and Skills Act 2008 (Commencement No. 3) Order 2009
+
+> Text as at 2009-07-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 1513 (C. 78)
+
+Education, England And Wales
+
+The Education and Skills Act 2008 (Commencement No. 3) Order 2009
+
+Made
+
+18th June 2009
+
+The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by section 173 of the Education and Skills Act 2008[^f00001]:
+
+## 1. Citation and interpretation[^key-4df5a82a247fd855d48a920612ea1bd8]
+
+(1) This Order may be cited as the Education and Skills Act 2008 (Commencement No. 3) Order 2009.
+
+(2) In this Order “the Act” means the Education and Skills Act 2008.
+
+## 2. Provisions coming into force on 19th June 2009[^key-9617d538a451189e2f5c353ee3a45147]
+
+(1) Section 86 of the Act (learning aims for persons aged 19 and over) comes into force on 19th June 2009 for the purposes of exercising any power to make subordinate legislation conferred by section 4A, 4B or 4C of, or Schedule 1A to, the Learning and Skills Act 2000[^f00002].
+
+(2) Chapter 1 of Part 4 of the Act (regulation and inspection of independent educational institutions in England) comes into force on 19th June 2009 for the purposes of making regulations.
+
+## 2A. Transitory provisions[^key-c60163d4df80cdbd88d0916129823dc7]
+
+(1) Section 111 of the Act has effect, during the period before sections 108 and 109 of the Act come into force for all purposes in relation to independent schools, subject to the modifications in paragraphs (2) to (5).
+
+(2) Subsection (1) has effect as if the reference to an inspection carried out under Chapter 1 of Part 4 of the Act included a reference to an inspection carried out under section 162A(1)(a) of the 2002 Act.
+
+(3) Subsection (3)(b) has effect as if the reference to an inspection under section 108 included a reference to an inspection under section 162A(1)(a) of the 2002 Act.
+
+(4) Subsection (4)(a) has effect as if—
+
+- (a) the reference to an inspection under section 108 included a reference to an inspection under section 162A(1)(a) of the 2002 Act; and
+- (b) the reference to a time at which an independent inspectorate is approved in relation to an independent educational institution included a reference to any time at which arrangements are in place for the inspection of an independent school by a body approved by the Secretary of State for the purposes of section 162A(1)(b) of the 2002 Act.
+
+(5) Subsection (6) has effect as if the reference to an independent educational institution entered in the register kept under section 95 of the Act included a reference to an independent school entered in the register referred to in section 158(1)(a) of the 2002 Act.
+
+(6) In this article “the 2002 Act” means the Education Act 2002.
+
+## 3. Provisions coming into force on 1st September 2009[^key-1a851ab515fbc43a8049a2b493a29cf5]
+
+The following provisions of the Act come into force on 1st September 2009—
+
+- section 81 (careers education: information and advice);
+- section 146 (abolition of requirement of approval for independent schools: England);
+- section 147 (approval of independent schools: consequential amendments);
+- section 148 (approval of independent schools: transitional provision);
+- Schedule 2 (repeals and revocations) so far as it repeals the words in section 349(1) of the Education Act 1996[^f00003], and section 169(2) so far as it relates to that repeal.
+
+Diana Johnson
+
+Parliamentary Under Secretary of State
+
+Department for Children, Schools and Families
+
+18th June 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This is the third commencement order made under the Education and Skills Act 2008 (“the Act”) by the Secretary of State.
+
+Article 2(1) commences, on 19th June 2009, section 86 of the Act (learning aims for persons aged 19 and over) for the purposes of exercising the powers to make subordinate legislation in provisions inserted into the Learning and Skills Act 2000 by that section. On the same date article 2(2) commences Chapter 1 of Part 4 of the Act (regulation and inspection of independent educational institutions in England) for the purposes of making regulations.
+
+Article 3 commences, on 1st September 2009, section 81 of the Act (careers education: information and advice). Section 81 amends Part 7 of the Education Act 1997 (“the 1997 Act”), which requires maintained secondary schools to provide all pupils with a programme of careers education and appropriate information, and up-to-date reference materials related to career options. Section 81 amends sections 43 and 45 of the 1997 Act to require such secondary schools to present careers material in an impartial manner and to present a full range of learning and career options. It also inserts section 45A, which contains a duty on schools to which the duties apply to have regard to guidance given by the Secretary of State from time to time.
+
+Article 3 also commences sections of the Act which make amendments to provisions in the Education Act 1996 (“the 1996 Act”) about independent schools providing special education. Section 146 of the Act amends the 1996 Act to abolish the requirement for independent schools in England to be approved by the Secretary of State for the placement of a child with a statement of special educational needs. It also removes the requirement for local education authorities in England to obtain the Secretary of State’s consent to place a pupil with such a statement in an independent school which has not been approved by the Secretary of State. Section 147 makes consequential amendments (note also the repeal made by section 169(2) and Schedule 2), and section 148 contains transitional provisions.
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+The following provisions of the Act have been brought into force in England by commencement order made before the date of this Order:
+
+| Provision | Date of Commencement | S.I. No. |
+| --- | --- | --- |
+| Sections 68 to 78 | 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Section 79 (partially) | 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Section 82 | 28th February 2009 | [2009/387](https://www.legislation.gov.uk/uksi/2009/387) |
+| Sections 83 and 84 | 7th March 2009 | [2009/387](https://www.legislation.gov.uk/uksi/2009/387) |
+| Section 85 | 28th February 2009 | [2009/387](https://www.legislation.gov.uk/uksi/2009/387) |
+| Sections 87 to 91 | 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Section 150 | 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Section 151 (partially) | 2nd December 2008 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Section 151 (remainder) | 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Sections 152 and 153 | 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Section 159 | 28th February 2009 | [2009/387](https://www.legislation.gov.uk/uksi/2009/387) |
+| Section 161(1), (2), (3)(a) and (5) to (9) | 28th February 2009 | [2009/387](https://www.legislation.gov.uk/uksi/2009/387) |
+| Section 165 | 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Section 169(1) (partially) | 2nd December 2008 and 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Section 169(2) (partially) | 2nd December 2008 and 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Schedule 1, paragraphs 53 (partially), 54(5) to (7), 57, 58, 61 to 64 and 68 to 73 | 2nd December 2008 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Schedule 1, paragraphs 44 to 47, 53 (remainder), 54 (remainder), 55, 56, 59, 60, 65 to 67, 78, 81 to 85 and 89 | 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+| Schedule 2 (partially) | 2nd December 2008 and 26th January 2009 | [2008/3077](https://www.legislation.gov.uk/uksi/2008/3077) |
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25).
+
+[^key-4df5a82a247fd855d48a920612ea1bd8]: Commencement: Art. 1 in force at made date
+
+[^key-9617d538a451189e2f5c353ee3a45147]: Commencement: Art. 2 in force at made date
+
+[^f00002]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21); sections 4A, 4B and 4C and Schedule 1A are inserted by section 86 of the Education and Skills Act 2008.
+
+[^key-c60163d4df80cdbd88d0916129823dc7]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/uksi/2009/1513/article/2A) inserted (1.7.2009) by [The Education and Skills Act 2008 (Commencement No. 4, Commencement No. 3 (Amendment), Transitory and Saving Provisions) Order 2009 (S.I. 2009/1606)](https://www.legislation.gov.uk/uksi/2009/1606), [art. 7(2)](https://www.legislation.gov.uk/uksi/2009/1606/article/7/2)
+
+[^key-1a851ab515fbc43a8049a2b493a29cf5]: Commencement: Art. 3 in force at made date
+
+[^f00003]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).

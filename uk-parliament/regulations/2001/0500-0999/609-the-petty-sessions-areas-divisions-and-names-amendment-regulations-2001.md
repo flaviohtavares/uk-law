@@ -1,0 +1,58 @@
+---
+title: The Petty Sessions Areas (Divisions and Names) (Amendment) Regulations 2001
+id: uksi/2001/609
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-02-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/609
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/609/pdfs/uksi_20010609_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/609/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Petty Sessions Areas (Divisions and Names) (Amendment) Regulations 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 609
+
+JUSTICES OF THE PEACE, ENGLAND AND WALES
+
+The Petty Sessions Areas (Divisions and Names) (Amendment) Regulations 2001
+
+Made
+
+28th February 2001
+
+Coming into force
+
+1st April 2001
+
+The Lord Chancellor, in exercise of the powers conferred by section 34 of the Justices of the Peace Act 1997[^f00001], hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Petty Sessions Areas (Division and Names) (Amendment) Regulations 2001 and shall come into force on the 1st April 2001.
+
+**2.** In regulation 5(1)(a) of the Petty Sessions Areas (Divisions and Names) Regulations 1988[^f00002] for the words “clerk to the justices” there shall be substituted the words “justices' chief executive”.
+
+Irvine of Lairg, *C.*
+
+28th February 2001
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Petty Sessions Areas (Divisions and Names) Regulations 1988 to transfer the administrative functions of justices' clerks under the Regulations to justices' chief executives in line with section 90 (transfer of clerks' functions to chief executives) of, and Schedule 13 to, the Access to Justice Act 1999 which implement corresponding transfers in primary legislation.
+
+Subsection (5) of that section provides that for the purposes of that section the administrative functions of justices' clerks are all of their functions apart from those which are legal functions within the meaning given by section 48(2) of the Justices of the Peace Act [1997 (c. 25)](https://www.legislation.gov.uk/ukpga/1997/25), as substituted by section 89(1) of the 1999 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25); section 34 is amended by sections 75(3) and 106 of, and Part V(1) of Schedule 15 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^f00002]: Footnote: S.I. [1988/1698](https://www.legislation.gov.uk/uksi/1988/1698), amended by S.I. [1992/709](https://www.legislation.gov.uk/uksi/1992/709) and S.I. [1996/576](https://www.legislation.gov.uk/uksi/1996/576).

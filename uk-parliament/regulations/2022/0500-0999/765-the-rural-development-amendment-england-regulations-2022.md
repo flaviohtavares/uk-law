@@ -1,0 +1,308 @@
+---
+title: The Rural Development (Amendment) (England) Regulations 2022
+id: uksi/2022/765
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-07-05'
+text_date: '2024-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2022/765
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/765/pdfs/uksiem_20220765_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/765/pdfs/uksi_20220765_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/765/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rural Development (Amendment) (England) Regulations 2022
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2022 No. 765
+
+Agriculture, England
+
+The Rural Development (Amendment) (England) Regulations 2022
+
+Made
+
+5th July 2022
+
+Laid before Parliament
+
+6th July 2022
+
+Coming into force
+
+28th July 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 14, 16(3) and 16(4) of the Agriculture Act 2020[^f00001].
+
+## 1. Citation, commencement, extent, application and interpretation[^key-bb7cfc9438bfd94f255e0daeeb63f3d6]
+
+(1) These Regulations may be cited as the Rural Development (Amendment) (England) Regulations 2022 and come into force on 28th July 2022.
+
+(2) These Regulations extend to England and Wales and apply in England only.
+
+(3) In these Regulations, “**rural development support measures**” means measures under support schemes under—
+
+- (a) [Regulation (EU) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00002]; or
+- (b) [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00003]; or
+- (c) Regulation [(EC) No 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)[^f00004].
+
+## 2. Commission Delegated [Regulation (EU) No 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817)[^key-4470becaf0a797333c132ba14f101b18]
+
+(1) [Commission Regulation (EC) No 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817) laying down detailed rules for the application of Council Regulation [(EC) No 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)[^f00005], is amended as follows.
+
+(2) In Article 36—
+
+- (a) in the first paragraph for “the beneficiary shall reimburse the assistance granted” substitute “reimbursement shall not be required in respect of the period during which the commitment was effective”;
+- (b) omit the second and third paragraphs.
+
+## 3. [Regulation (EU) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^key-2291df7d6e74d14e2d89985e45400977]
+
+(1) [Regulation (EU) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) is amended as follows.
+
+(2) In Article 39 (agri-environment payments), in paragraph 3, in the second sub-paragraph, for the words from “between five” to “of commitments” substitute “of at least three years. However, a commitment for a shorter period may be permitted where this is necessary and justified”.
+
+## 4. [Commission Regulation (EC) No 1974/2006](https://www.legislation.gov.uk/european/regulation/2006/1974)[^key-a92022cc819a0b39e97ca56af057b6c7]
+
+(1) [Commission Regulation (EC) No 1974/2006](https://www.legislation.gov.uk/european/regulation/2006/1974) laying down detailed rules for the application of Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00006], is amended as follows.
+
+(2) For Article 44 (transfer of holding), substitute “Where all or part of the holding is transferred to another person during the period of that commitment, the commitment, or the part corresponding to the land transferred, may be taken over for the remainder of the period by that other person or may expire. Reimbursement shall not be required in respect of the period during which the commitment was effective.
+
+## 5. [Commission Regulation (EU) No 1975/2006](https://www.legislation.gov.uk/european/regulation/2006/1975)[^key-1c34b32c75ffc03b4d34b703fb44cae1]
+
+(1) [Commission Regulation (EU) No 1975/2006](https://www.legislation.gov.uk/european/regulation/2006/1975) laying down detailed rules for the implementation of Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698), as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures[^f00007], is amended as follows.
+
+(2) In Article 26 (administrative checks), paragraph 4—
+
+- (a) for the first instance of “shall”, substitute “may”;
+- (b) omit “However, the relevant authority may decide not to carry out such visits for smaller investments, or where they consider that the risk that the conditions for receiving aid are not fulfilled, or that the reality of the investment has not been respected, is low. That decision and its justification shall be recorded.”
+
+(3) In Article 30 (ex-post checks) omit paragraph 3.
+
+(4) In Article 31 (reductions and exclusions)—
+
+- (a) in paragraph 1, omit the third and fourth sub-paragraphs.
+- (b) in paragraph 2, for “shall” in each place it occurs, substitute “may”.
+
+## 6. [Commission Regulation (EU) No 65/2011](https://www.legislation.gov.uk/european/regulation/2011/0065)[^key-aec1001a4e317eb95ec80ecb388bb0d5]
+
+(1) Commission Delegated [Regulation (EU) No 65/2011](https://www.legislation.gov.uk/european/regulation/2011/0065) laying down detailed rules for the implementation of Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698), as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures[^f00008], is amended as follows.
+
+(2) In Article 24 (administrative checks), omit paragraph 4.
+
+(3) In Article 25 (on-the-spot-checks), in paragraph 3, omit sub-paragraph (d).
+
+(4) In Article 29 (ex-post checks)—
+
+- (a) In paragraph 1, for “shall”, substitute “may”;
+- (b) omit paragraphs 2 and 3.
+
+## 7. [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305)[^key-1246ef52b62981e3c07c115e43847fcc]
+
+(1) [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) is amended as follows.
+
+(2) In Article 28 (agri-environment-climate), in paragraph 5 for the words from “undertaken for” to the end substitute “ordinarily undertaken for at least three years. However, a commitment for a shorter period may be permitted where this is necessary and justified, and commitments may be extended after the termination of the period”;
+
+(3) In Article 29 (organic farming), in paragraph 3, in the first sub-paragraph—
+
+- (a) for “be made for a period of five to seven years” substitute “ordinarily be made for at least three years. However, a commitment for a shorter period may be permitted where this is necessary and justified”;
+- (b) omit “in their rural development programmes” in both places in which it occurs;
+- (c) for “annual” substitute “their”.
+
+## 8. [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^key-c9fe1f0d7b8f2e3024861df128550849]
+
+(1) [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy[^f00009] is amended insofar as it relates to rural development support measures, as follows.
+
+(2) In Article 63 (undue payments and administrative penalties)—
+
+- (a) in paragraph 1, for “shall”, in each place it occurs, substitute “may”;
+- (b) in paragraph 2, for “relevant authority shall”, substitute “relevant authority may”;
+- (c) in paragraph 3, for “shall” substitute “may”.
+
+(3) In Article 64 (application of administrative penalties – general rules), in paragraph 5, omit the words from “and graduated” to “non-compliance found,”.
+
+(4) In Article 77 (application of administrative penalties - integrated administration and control system), in paragraph 5, omit the words from “and graduated” to “non-compliance found”.
+
+## 9. Commission Delegated [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^key-a73dc19f305bb71b75d1e1ed0fcc1694]
+
+(1) Commission Delegated [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640) supplementing [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance[^f00010], is amended, insofar as it relates to rural development support measures, as follows.
+
+(2) In Article 4 (force majeure and exceptional circumstances), in paragraph 2, for “fifteen working days” substitute “eight weeks”.
+
+(3) In Article 13 (late submission)—
+
+- (a) in paragraph 1, in the first sub-paragraph, for “shall” substitute “may”;
+- (b) in paragraph 2, for “shall”, in the first place it occurs, substitute “may”;
+- (c) in paragraph 3, for the first instance of “shall”, substitute “may”.
+
+(4) In Article 19 (administrative penalties in cases of over-declaration)—
+
+- (a) for paragraph 1 substitute—
+
+  > If, in respect of a crop group as referred to in Article 17(1), the area declared for the purposes of any area-related aid schemes or support measures exceeds or is less than the area determined in accordance with Article 18, the aid shall be calculated on the basis of the area determined
+
+  ;
+- (b) omit paragraphs 2 and 3.
+
+(5) In Article 35 (non-compliance with the eligibility criteria other than the size of area or number of animals, commitments or other obligations)—
+
+- (a) in paragraph 1, for “shall” substitute “may”;
+- (b) in paragraph 2, for “shall” substitute “may”;
+- (c) for paragraph 3, substitute—
+
+  > When deciding on the rate of refusal or withdrawal of support following the non-compliance with the commitments or other obligations referred to in paragraph 2, the relevant authority may take account of:—
+  >
+  > - the circumstances that led to the non-compliance and whether it was caused by the intentional actions of the beneficiary or due to that person’s recklessness or negligence;
+  > - any steps taken by the beneficiary to report a change of circumstance or notify the Authority of the non-compliance within a reasonable period;
+  > - any failure on the part of the beneficiary to co-operate with an on-the-spot check;
+  > - any past conduct of the beneficiary during the period of the commitment and whether a similar non-compliance has previously occurred;
+  > - the nature of the non-compliance and whether it has caused widespread or irreparable damage;
+  > - the extent to which it is desirable, practicable or economic to permit the beneficiary to rectify the non-compliance;
+  > - the consequences of the non-compliance and whether it renders the purpose of the commitment unachievable within the timescales or finances of the commitment or to the standards agreed when the commitment was undertaken.
+
+  ;
+- (d) in paragraph 4, for “shall” substitute “may”;
+- (e) in paragraph 5, for “shall”, in both places it occurs, substitute “may”;
+- (f) in paragraph 6, for “shall”, in both places it occurs, substitute “may”.
+
+## 10. Commission Delegated [Regulation (EU) No 807/2014](https://www.legislation.gov.uk/european/regulation/2014/0807)[^key-8875b0d5130aefbfe347b585c49c38cd]
+
+(1) Commission Delegated [Regulation (EU) No 807/2014](https://www.legislation.gov.uk/european/regulation/2014/0807) supplementing [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions[^f00011], is amended as follows.
+
+(2) In Article 14 (conversion or adjustment of commitments), in paragraph 2—
+
+- (a) omit the words from “the approved” to “and that”;
+- (b) omit the words from “The beneficiary” to “original commitment.”
+
+## 11. Commission Implementing [Regulation (EU) No 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^key-c038f0e47eaa71c147a68203f9786369]
+
+(1) Commission Implementing [Regulation (EU) No 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809) laying down rules for the application of [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council on the integrated administration and control system, rural development measures and cross compliance[^f00012], is amended insofar as it relates to rural development support measures as follows.
+
+(2) In Article 14 (contents of the single application or payment claim), in paragraph 1, omit sub-paragraph (f).
+
+(3) In Article 25 (announcement of on-the-spot checks)—
+
+- (a) omit “strictly”;
+- (b) omit “and shall not exceed 14 days”.
+
+(4) Omit Article 32 (control rate for rural development measures).
+
+(5) In Article 34 (selection of the control sample), omit paragraph 3.
+
+(6) In Article 36 (reduction of the control rate), omit paragraphs 4 and 5.
+
+(7) In Article 37 (elements of on-the-spot checks), omit paragraph 4.
+
+(8) In Article 42 (on-the-spot checks), in paragraph 1, omit the second sub-paragraph.
+
+(9) In Article 48 (administrative checks), omit paragraph 5.
+
+(10) In Article 52 (ex-post checks)—
+
+- (a) omit paragraph 2;
+- (b) in paragraph 3, omit “Between 20 % and 25 % of the sample shall be selected randomly.”.
+
+(11)[^key-42073421e4637d9ad0d028dc9ca072a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12)[^key-42073421e4637d9ad0d028dc9ca072a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Commission Implementing [Regulation (EU) No 908/2014](https://www.legislation.gov.uk/european/regulation/2014/0908)[^key-62d4118fa7e3839b55b51aa805429567]
+
+(1) Commission Implementing [Regulation (EU) No 908/2014](https://www.legislation.gov.uk/european/regulation/2014/0908) laying down rules for the application of [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency[^f00013], is amended, insofar as it relates to rural development measures, as follows.
+
+(2) In Article 27 (interest applicable to recovery of undue payments), in paragraph 1, for the last sentence substitute “On duly justified grounds, the Secretary of State may decide not to recover the interest on undue payments.”.
+
+Victoria Prentis
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+5th July 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations make amendments to various rules regarding the operation and management of rural development schemes established originally pursuant to [Regulation (EU) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) (EUR 2005/1698) and [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) (EUR 2013/1305), in order to align more closely with equivalent schemes established under the Agriculture Act [2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21).
+
+Regulations 3, 7 and 10 amend various rules regarding the prescribed length of schemes and facilitate agreement holders transferring to domestically funded schemes in the future.
+
+Regulations 4 and 2 remove requirements to recover assistance granted from an agreement holder who transfers land or holdings during the duration of their agreement.
+
+Regulations 5(2) and (3), 6, 11(3) to (10) provide for greater flexibility in the manner in which on-the-spot inspections and ex-post checks are undertaken and the processes for determining which agreement holders will be subject to on-the-spot inspections and ex-post checks.
+
+Regulations 5(4), 8 and 9(3) to (7) amend various rules relating to the application of penalties, recoveries and similar options in relation to non-compliance with scheme rules.
+
+Regulation 9(2) extends the timeframe in which agreement holders can notify the relevant authority of cases of force majeure and exceptional circumstances.
+
+Regulation 11(2) reduces the administrative burden on agreement holders submitting payment claims.
+
+Regulations 11(11) and 11(12) amend Article 68 of Commission Delegated [Regulation (EU) No 807/2014](https://www.legislation.gov.uk/european/regulation/2014/0807) supplementing [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions (EUR 2014/807) to remove a control rate for inspections relating to cross-compliance rules from 2023.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2020 c. 21](https://www.legislation.gov.uk/ukpga/2020/21).
+
+[^key-bb7cfc9438bfd94f255e0daeeb63f3d6]: Commencement: Reg. 1 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00002]: Footnote: EUR 2005/1698, amended by [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764); there are other amending instruments, but none is relevant.
+
+[^f00003]: Footnote: EUR 2013/1305, amended by [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764); there are other amending instruments, but none is relevant.
+
+[^f00004]: Footnote: EUR 1999/1257, amended by [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764); there are other amending instruments, but none is relevant.
+
+[^key-4470becaf0a797333c132ba14f101b18]: Commencement: Reg. 2 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00005]: Footnote: EUR 2014/817, there are other amending instruments but none is relevant.
+
+[^key-2291df7d6e74d14e2d89985e45400977]: Commencement: Reg. 3 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^key-a92022cc819a0b39e97ca56af057b6c7]: Commencement: Reg. 4 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00006]: Footnote: EUR 2006/1974, as saved (with modifications) in respect of operations implemented pursuant to programmes approved by the Commission under Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) before 1st January 2014 by Article 19 of EUR 2014/807.
+
+[^key-1c34b32c75ffc03b4d34b703fb44cae1]: Commencement: Reg. 5 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00007]: Footnote: EUR 2006/1975, as saved in respect of payment claims submitted before 1st January 2011 by Article 34 of EUR 2011/65.
+
+[^key-aec1001a4e317eb95ec80ecb388bb0d5]: Commencement: Reg. 6 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00008]: Footnote: EUR 2011/65, as saved (for certain purposes) by Article 43 of EUR 2014/640.
+
+[^key-1246ef52b62981e3c07c115e43847fcc]: Commencement: Reg. 7 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^key-c9fe1f0d7b8f2e3024861df128550849]: Commencement: Reg. 8 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00009]: Footnote: EUR 2013/1306, amended by [S.I. 2019/763](https://www.legislation.gov.uk/uksi/2019/763); there are other amending instruments but none is relevant.
+
+[^key-a73dc19f305bb71b75d1e1ed0fcc1694]: Commencement: Reg. 9 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00010]: Footnote: EUR 2014/640, as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445) and [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765); there are other amending instruments, but none is relevant.
+
+[^key-8875b0d5130aefbfe347b585c49c38cd]: Commencement: Reg. 10 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00011]: Footnote: EUR 2014/807, amended by [S.I. 2019/770](https://www.legislation.gov.uk/uksi/2019/770); there are other amending instruments but none is relevant.
+
+[^key-c038f0e47eaa71c147a68203f9786369]: Commencement: Reg. 11 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00012]: Footnote: EUR 2014/809, amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765), [2020/1445](https://www.legislation.gov.uk/uksi/2020/1445); there are other amending instruments but none is relevant.
+
+[^key-42073421e4637d9ad0d028dc9ca072a6]: Textual amendment: [Reg. 11(11)](https://www.legislation.gov.uk/uksi/2022/765/regulation/11/11)[(12)](https://www.legislation.gov.uk/uksi/2022/765/regulation/11/12) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+
+[^key-62d4118fa7e3839b55b51aa805429567]: Commencement: Reg. 12 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+
+[^f00013]: Footnote: EUR 2014/908, amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765); there are other amending instruments but none is relevant.

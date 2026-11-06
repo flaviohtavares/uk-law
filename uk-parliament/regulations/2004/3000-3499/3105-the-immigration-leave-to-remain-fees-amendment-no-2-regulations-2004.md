@@ -1,0 +1,106 @@
+---
+title: The Immigration (Leave to Remain) (Fees) (Amendment No. 2) Regulations 2004
+id: uksi/2004/3105
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-11-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/3105
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/3105/pdfs/uksiem_20043105_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3105/pdfs/uksi_20043105_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3105/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration (Leave to Remain) (Fees) (Amendment No. 2) Regulations 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No.3105
+
+IMMIGRATION
+
+The Immigration (Leave to Remain) (Fees) (Amendment No. 2) Regulations 2004
+
+Made
+
+23rd November 2004
+
+Laid before Parliament
+
+26th November 2004
+
+Coming into force
+
+17th December 2004
+
+The Secretary of State, in exercise of the powers conferred upon him by sections 5(1) and (3)(b) and 166(3) of the Immigration and Asylum Act 1999[^f00001], having regard to the meaning of “prescribed” in section 167(1), with the approval of the Treasury, hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Immigration (Leave to Remain) (Fees) (Amendment No. 2) Regulations 2004 and shall come into force on 17th December 2004.
+
+**2.** The Immigration (Leave to Remain) (Fees) Regulations 2003[^f00002] shall be amended as follows.
+
+**3.** In regulation 2—
+
+- (a) after the definition of “application”, insert—
+
+  > - “assistance” means assistance, accommodation or maintenance provided under—
+  >   - (a) section 17, 20 or 23 of the Children Act 1989[^f00003],
+  >   - (b) section 22, 25 or 26 of the Children (Scotland) Act 1995[^f00004], or
+  >   - (c) Article 18, 21 or 27 of the Children (Northern Ireland) Order 1995[^f00005];
+
+  ; and
+- (b) delete the definition of “immigration employment document”.
+
+**4.** In regulation 5, after paragraph (c) insert—
+
+> - (d) the application is made in respect of a person who, at the time of making the application—
+>   - (i) is a child under the age of eighteen and is being provided with assistance by a local authority (or, in Northern Ireland, an authority); or
+>   - (ii) has limited leave to enter or remain in the United Kingdom which was granted outside the provisions of the immigration rules when he was under the age of eighteen on the rejection of his claim for asylum, and is seeking further leave to remain in the United Kingdom outside the provisions of the immigration rules; or
+
+.
+
+Des Browne
+
+Minister of State
+
+Home Office
+
+23rd November 2004
+
+We approve
+
+Joan Ryan
+
+John Heppell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+23rd November 2004
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Immigration (Leave to Remain) (Fees) Regulations 2003 (“the 2003 Regulations”). The 2003 Regulations prescribe the fee which is to be paid in connection with certain immigration applications, in particular an application for leave to remain in the United Kingdom or an application for the variation of leave to enter or remain in the United Kingdom, and make provision for exemptions from the requirement to pay the prescribed fee in connection with these applications.
+
+Regulation 4 of these Regulations inserts into the 2003 Regulation two further exemptions from the requirement to pay the prescribed fee. Pursuant to these exemptions, no fee is payable in connection with an application for leave to remain, or an application for the variation of leave to enter or remain, in the United Kingdom where:
+
+- (i) the application is made in respect of a child under 18 who is being provided with assistance, accommodation or maintenance by a local authority, or
+- (ii) the application is made in respect of a person who has limited leave to remain which was granted outside the provisions of the immigration rules when he was under 18 on the rejection of his claim for asylum, and is seeking further leave to remain outside the immigration rules.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00002]: Footnote: [S.I. 2003/1711](https://www.legislation.gov.uk/uksi/2003/1711), as amended by [S.I. 2004/580](https://www.legislation.gov.uk/uksi/2004/580) (which, amongst other changes, revoked the existing regulation 5(d)).
+
+[^f00003]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00004]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^f00005]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).

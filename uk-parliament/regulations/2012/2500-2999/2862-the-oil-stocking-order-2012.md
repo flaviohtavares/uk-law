@@ -1,0 +1,531 @@
+---
+title: The Oil Stocking Order 2012
+id: uksi/2012/2862
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-11-12'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/2862
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2862/pdfs/uksiem_20122862_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2862/pdfs/uksi_20122862_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2862/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Oil Stocking Order 2012
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 2862
+
+Control Of Fuel And Electricity
+
+The Oil Stocking Order 2012
+
+Made
+
+12th November 2012
+
+Laid before Parliament
+
+16th November 2012
+
+Coming into force
+
+31st December 2012
+
+The Secretary of State is a person designated for the purposes of section 2(2) of the European Communities Act 1972 [^c21450671] in respect of energy and energy sources [^c21450681].
+
+The Secretary of State makes this Order in exercise of the powers conferred by section 6(6)(a) and section 17(2) and (3) of the Energy Act 1976 [^c21450691] and section 2(2) of the European Communities Act 1972.
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement
+
+This Order may be cited as the Oil Stocking Order 2012 and comes into force on 31st December 2012.
+
+### 2. Interpretation
+
+(1) In this Order—
+
+- “**the 1976 Act**” means the Energy Act 1976;
+- “**the 2008 Regulation**” means Regulation 2008/1099/EC of the European Parliament and of the Council on energy statistics [^c21450701];
+- “**the 2009 Directive**” means Council Directive [2009/119/EC](https://www.legislation.gov.uk/european/directive/2009/0119) imposing an obligation on member States to maintain minimum stocks of crude oil and/or petroleum products [^c21450711];
+- “**additive**” means a non-hydrocarbon compound added to or blended with a product to modify its properties;
+- [^key-a1a25d490ff19586cd0f3c9cf9add4b3]...
+- “**biofuel**” means a liquid or gaseous fuel for transport produced from biomass, ‘biomass’ being the biodegradable fraction of products, waste and residues from agriculture (including vegetable and animal substances), forestry and related industries, as well as the biodegradable fraction of industrial and municipal waste;
+- “**CSE**” means a central stockholding entity established by a member State[^key-cd1eb962fc096ee296dde3e36f2530c2] to acquire, maintain or sell stocks, including emergency stocks and specific stocks;
+- “**CSE ticket arrangement**” means an arrangement between P and a CSE under which the CSE holds P's stock in a member State for a period of no less than 1 month;
+- “**delegation arrangement**” means an arrangement under which a person holds stock in the United Kingdom for a period of no less than 1 month for the purpose of—
+  - (a) carrying out a task, relating to the management of emergency stocks or specific stocks held on behalf of a member State, which has been delegated to that person by that State or the CSE of that State; or
+  - (b) allowing an EU operator to comply with the obligation to hold stock which has been imposed on that operator by a member State;
+- “**direction**” means a direction under section 6 of the 1976 Act;
+- “**eligible petroleum product**” means a petroleum product identified in the first paragraph of Section 3.1 of Annex C to the 2008 Regulation;
+- “**eligible stock**” has the meaning given by article 4;
+- “**emergency stocks**” means the stocks that a member State is required to maintain pursuant to Article 3 of the 2009 Directive;
+- “**EU operator**” means a person on whom an obligation to hold stock has been, or is to be, imposed by a member State;
+- “**international storage arrangement**” means an arrangement under which P holds P's stock in a member State for a period of no less than 1 month;
+- “**international ticket arrangement**” means an arrangement between P and another person under which that person holds P's stock in a member State for a period of no less than 1 month;
+- “**P**” means a person who has been given a direction;
+- “**specific stocks**” means the stocks that meet the criteria set out in Article 9 of the 2009 Directive;
+- “**stock**” means a stock of crude liquid petroleum or of a petroleum product;
+- “**undertaking**” has the meaning given by section 21 of the 1976 Act;
+- “**United Kingdom stock**” means a stock, biofuel or additive that meets the requirements in article 3;
+- “**United Kingdom ticket arrangement**” means an arrangement between P and another person under which that person holds a stock, biofuel or additive of P in the United Kingdom for a period of no less than 1 month.
+
+(2) Other terms used in this Order which are used in the 2009 Directive have the same meaning in this Order as they do in that Directive.
+
+## PART 2 — UNITED KINGDOM STOCKS
+
+### 3. United Kingdom stocks
+
+(1) A stock is P's United Kingdom stock where—
+
+- (a) the stock is an eligible stock;
+- (b) the requirements in article 5 are satisfied in respect of the stock;
+- (c) the stock is held—
+  - (i) by P in the United Kingdom;
+  - (ii) by P in accordance with an international storage arrangement which has been authorised by the Secretary of State; or
+  - (iii) by a person other than P in accordance with a United Kingdom ticket arrangement, a CSE ticket arrangement or an international ticket arrangement which has been authorised by the Secretary of State;
+- (d) the stock is available to, and physically accessible by, P at all times; and
+- (e) the stock is not the United Kingdom stock of any other person.
+
+(2) A biofuel or additive which is not blended with an eligible stock is P's United Kingdom stock where—
+
+- (a) the requirements in articles 5 and 6 are satisfied in respect of the biofuel or additive;
+- (b) the biofuel or additive is held—
+  - (i) by P in the United Kingdom; or
+  - (ii) by a person other than P in accordance with a United Kingdom ticket arrangement which has been authorised by the Secretary of State;
+- (c) the biofuel or additive is available to, and physically accessible by, P at all times; and
+- (d) the biofuel or additive is not the United Kingdom stock of any other person.
+
+### 4. Eligible stocks
+
+(1) A stock is an eligible stock where it comprises—
+
+- (a) crude liquid petroleum which has been produced; or
+- (b) an eligible petroleum product.
+
+(2) An eligible stock includes any biofuel or additive which has been blended with that stock.
+
+### 5. Holding and location requirements
+
+(1) Subject to paragraph (2), the requirements referred to in article 3(1)(b) and (2)(a) are that a stock, biofuel or additive must be held—
+
+- (a) in a refinery tank;
+- (b) in a bulk terminal;
+- (c) in pipeline tankage;
+- (d) in a barge;
+- (e) in an intercoastal tanker;
+- (f) in an oil tanker in port;
+- (g) in an inland ship bunker;
+- (h) in a storage tank bottom; or
+- (i) as working stock.
+
+(2) Where a stock, biofuel or additive would, apart from this paragraph, be held as described in paragraph (1) but it is held—
+
+- (a) in a pipeline;
+- (b) in a rail tank car;
+- (c) in a seagoing ship's bunker;
+- (d) in a service station or retail store;
+- (e) in a tanker at sea;
+- (f) as military stock; or
+- (g) as a petroleum product for an international marine bunker,
+
+it is not to be treated as held as described in paragraph (1).
+
+### 6. Eligibility requirements for biofuels and additives
+
+The requirements referred to in article 3(2)(a) are that—
+
+- (a) a biofuel or additive (“B”) is held with the intention by P of blending B with a stock of an eligible petroleum product (“C”) of P; and
+- (b) the ratio of B to C is such that when B is blended with C, C may be used as a transport fuel.
+
+## PART 3 — MEASURES AFFECTING THE AVAILABILITY OF STOCKS
+
+### 7. Restrictions on enforcement proceedings
+
+(1) A person must not, in respect of specific stocks maintained or transported within the United Kingdom on behalf of a member State[^key-91ac974f4382daae17a350e63e014b5f], commence or continue execution or other legal process or seek to levy distress.
+
+(2) In the application of paragraph (1) to—
+
+- (a) Scotland, reference to execution being commenced or continued includes reference to diligence being carried out or continued and reference to seeking to levy distress is omitted;
+- (b) Northern Ireland, reference to other legal process includes enforcement of a judgment under the Judgments Enforcement (Northern Ireland) Order 1981 [^c21450721].
+
+### 8. Ceasing to produce, supply or use crude liquid petroleum or petroleum products
+
+(1) Where the undertaking carried on by P ceases to produce, supply or use crude liquid petroleum or petroleum products P must, as soon as possible after the cessation give notice of the cessation to the Secretary of State.
+
+(2) Where the Secretary of State receives a notice under paragraph (1), the Secretary of State may, in relation to any direction to P which is in force at the date of receipt (“the receipt date”), give notice to P to extend the period of the direction for a period of up to 3 months from the receipt date.
+
+## PART 4 — STOCKS HELD ON BEHALF OF ... MEMBER STATES, CSEs and EU OPERATORS[^key-3acaebf3712de4d3aedc25b61d76eddd]
+
+### 9. Arrangements for stocks held on behalf of a member State, a CSE or an EU operator[^key-0c00caf80ac772d2c3106954ef703fa3]
+
+A person must not hold stock in the United Kingdom on behalf of a member State[^key-84148bde3434672cd28c9f987a02d11b], a CSE or an EU operator otherwise than in accordance with a delegation arrangement authorised by the Secretary of State.
+
+### 10. Commingled stock
+
+(1) Paragraph (2) applies where—
+
+- (a) specific stocks are held under a delegation arrangement; and
+- (b) those stocks have been commingled with other stocks.
+
+(2) Where this paragraph applies, no person may move the specific stocks unless the person (“H”) who holds the stock has obtained the prior consent of the Secretary of State (“a movement consent”).
+
+(3) Where H applies for a movement consent, the application must include—
+
+- (a) the quantity of the specific stocks which are to be moved;
+- (b) the form in which the specific stocks will be held, by reference to the product categories in Article 9(2) of the 2009 Directive;
+- (c) the location at which the specific stocks will be held;
+- (d) the identity and contact details of the member State or the CSE which owns the specific stocks; and
+- (e) evidence that the member State or CSE which owns the specific stocks has given agreement in writing to the movement of the stock or intends to give its agreement in writing concurrently with the consent of the Secretary of State.
+
+(4) The Secretary of State may request such further information from the applicant as the Secretary of State considers necessary before deciding whether or not to give a movement consent.
+
+(5) The Secretary of State must not give a movement consent unless the Secretary of State is satisfied that the member State or the CSE which owns the specific stocks—
+
+- (a) has agreed in writing to the movement of the stock; or
+- (b) intends to give its agreement in writing concurrently with the consent of the Secretary of State.
+
+(6) The Secretary of State must, as soon as possible after receipt of H's application, notify H of—
+
+- (a) the movement consent; or
+- (b) the refusal of the application, together with the reasons for the refusal.
+
+### 11. Protection of stocks in an oil supply crisis
+
+(1) A person who knows or has reason to believe that there is in force a relevant decision, must not hinder the transfer, use or release of emergency stocks or specific stocks held within the United Kingdom on behalf of a member State[^key-c284dfeaaffd676da4fb7c8acafb015a].
+
+(2) In paragraph (1), “**relevant decision**” means a decision in force taken by the Governing Body of the International Energy Agency [^c21450731] to make crude oil or petroleum products available to the market.
+
+## PART 5 — PROCEDURAL REQUIREMENTS
+
+### 12. Applications
+
+(1) P must apply to the Secretary of State for authorisation of—
+
+- (a) an international storage arrangement, a United Kingdom ticket arrangement, a CSE ticket arrangement, or an international ticket arrangement; or
+- (b) an amendment of any such arrangement.
+
+(2) A person who proposes to hold a stock, biofuel or additive of P under a United Kingdom ticket arrangement may, instead of P, apply to the Secretary of State for authorisation of—
+
+- (a) that arrangement; or
+- (b) an amendment of that arrangement.
+
+(3) A person who proposes to hold a stock in the United Kingdom under a delegation arrangement must apply to the Secretary of State for authorisation of—
+
+- (a) that arrangement; or
+- (b) an amendment of that arrangement.
+
+(4) An application under paragraph (1), (2) or (3) must include the information relevant to that application set out in Schedule 1.
+
+(5) Subject to paragraph (6), an application must be made as soon as possible before the date on which the arrangement or amendment is intended to come into force.
+
+(6) Where—
+
+- (a) P intends to rely on stock held under a CSE ticket arrangement in order to comply with a direction; and
+- (b) the Secretary of State issues that direction at least 200 days before the date on which it is to come into force (“the obligation date”),
+
+the application for authorisation of the CSE ticket arrangement must be made at least 170 days before the obligation date.
+
+### 13. Authorisations
+
+(1) The Secretary of State may request further information about an application made under article 12 before deciding whether or not to give the authorisation applied for.
+
+(2) Where the Secretary of State gives an authorisation, the Secretary of State—
+
+- (a)[^key-ee2414e7e9364ab3131c7ac11bdbe924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) must, where a person is authorised to hold stock in the United Kingdom under a delegation arrangement, make that authorisation subject to terms which—
+  - (i) require compliance with article 10; and
+  - (ii) prohibit any other person from holding that stock; and
+- (c) may give the authorisation on such other terms as the Secretary of State thinks fit.
+
+(3) The Secretary of State must, as soon as possible after receipt of the application, notify the applicant of—
+
+- (a) the authorisation; or
+- (b) the refusal of the application, together with the reasons for the refusal.
+
+(4) The Secretary of State must not authorise a relevant international arrangement, or an amendment of such an arrangement, unless the Secretary of State is satisfied that the appropriate authority—
+
+- (a) has authorised in writing the arrangement or amendment; or
+- (b) intends to authorise it in writing concurrently with the authorisation of the Secretary of State.
+
+(5) In this article—
+
+- “**the appropriate authority**” means—
+  - (a) in the case of an international storage arrangement, a CSE ticket arrangement or an international ticket arrangement, the appropriate authority of the member State in which the stock will be held;
+  - (b) in the case of a delegation arrangement, the appropriate authority of the member State which delegated the task relating to the management of emergency stocks or specific stocks or which imposed on the EU operator the obligation to hold stock;
+- “**relevant information**” includes information about—
+  - (a) the location at which a stock, biofuel or additive is held;
+  - (b) the quantity of stock, biofuel or additive that is held;
+  - (c) in the case of a stock, the form in which it is held; and
+  - (d) the identity of the person on whose behalf a stock, biofuel or additive is held;
+- “**relevant international arrangement**” means an international storage arrangement, a CSE ticket arrangement, an international ticket arrangement or a delegation arrangement.
+
+### 14. Revocation
+
+The Secretary of State may revoke an authorisation given under article 13 if the Secretary of State has before doing so—
+
+- (a) notified the person given the authorisation of the intention by the Secretary of State to revoke the authorisation and the reasons for that intention;
+- (b) given that person a reasonable opportunity to make representations in respect of the intended revocation; and
+- (c) taken into account any such representations received by the Secretary of State.
+
+### 15. Writing
+
+An application, authorisation, consent, notice or notification which may be required or given under this Order—
+
+- (a) must be made in writing; and
+- (b) may be transmitted by electronic means.
+
+## PART 6 — SUBSTANTIAL SUPPLIERS
+
+### 16. Substantial suppliers to the United Kingdom market
+
+(1) A person (“S”) is a substantial supplier to the United Kingdom for the purpose of section 6(2)(b) of the 1976 Act if during a relevant period—
+
+- (a) S supplied crude liquid petroleum or petroleum products to the United Kingdom market in the course of carrying on an undertaking; and
+- (b) the amount supplied by S exceeded 50,000 tonnes.
+
+(2) For the purpose of paragraph (1)(b), the amount supplied is the total amount of crude liquid petroleum or petroleum products—
+
+- (a) used in the United Kingdom by S and, if S is a company, by any company associated with S;
+- (b) supplied by S to another person for use in the United Kingdom.
+
+(3) In this article—
+
+- “holding company” and “subsidiary” are to be construed in accordance with section 1159 of the Companies Act 2006 [^c21450741];
+- “**relevant period**” means a period of 12 months starting not earlier than 18 months before, and ending not earlier than 3 months before, the date when the Secretary of State is minded to give a direction to S under section 6(2)(b).
+
+(4) For the purposes of this article, a company (“C”) is associated with S where—
+
+- (a) C is a subsidiary of S;
+- (b) S is a subsidiary of C;
+- (c) C and S are subsidiaries of the same holding company.
+
+## PART 7 — PENALTIES AND ENFORCEMENT
+
+### 17. Penalties and enforcement
+
+(1) A person commits an offence if, without reasonable excuse, that person—
+
+- (a) contravenes article 9; or
+- (b) contravenes article 11.
+
+(2) A person guilty of an offence under this provision is liable—
+
+- (a) on summary conviction—
+  - (i) in England and Wales, to a fine of no more than the statutory maximum;
+  - (ii) in Scotland, to a fine not exceeding £5,000; or
+- (b) on conviction on indictment, to a fine.
+
+(3) The powers set out in Schedule 2 apply with respect to the enforcement of an offence under this provision.
+
+## PART 8 — REVOCATIONS AND REVIEW
+
+### 18. Revocations
+
+(1) Subject to paragraph (2), the following (“existing Orders”) are revoked—
+
+- (a) the Petroleum Stocks Order 1976 [^c21450751];
+- (b) the Petroleum Stocks (Amendment) Order 1982 [^c21450761];
+- (c) the Petroleum Stocks (Amendment) Order 1983 [^c21450771].
+
+(2) The existing Orders continue to have effect for the purpose of construing any direction given by the Secretary of State before the date on which this Order is made.
+
+### 19. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of this Order,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the 2009 Directive (relevant provisions of which are implemented by means of this Order) is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by this Order,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this article must be published by 31st December 2015.
+
+(5) Reports under this article are afterwards to be published at intervals not exceeding five years.
+
+John Hayes
+
+Minister of State
+
+Department of Energy and Climate Change
+
+## SCHEDULE 1 — Applications for authorisation
+
+Article 12
+
+### 1. Applications
+
+This Schedule applies to applications made under article 12 (“an application”) and “**applicant**” refers to the person making an application.
+
+### 2. Requirements for all applications for authorisation
+
+(1) An application must include—
+
+- (a) the identity and contact details of the applicant;
+- (b) except in the case of an international storage arrangement or a delegation arrangement, the identity and contact details of—
+  - (i) the person who intends to rely on that stock in order to comply with a direction; and
+  - (ii) the person who will hold stock under the arrangement;
+- (c) the period for which stock will be held under the arrangement;
+- (d) except in the case of a United Kingdom ticket arrangement, the location at which the stock will be held.
+
+(2) An application must identify whether the stock will be held in the form of—
+
+- (a) crude liquid petroleum; or
+- (b) an eligible petroleum product.
+
+### 3. Additional requirements where a stock is to be held in a particular form
+
+(1) Where a stock is to be held in the form of crude liquid petroleum, an application must—
+
+- (a) identify the quantity of stock which is to be held in that form; and
+- (b) confirm that the crude liquid petroleum has been produced.
+
+(2) Where a stock is to be held in the form of an eligible petroleum product, an application must identify, for each petroleum product, the quantity of stock which is to be held in that form.
+
+### 4. Additional requirements for particular applications
+
+An application in respect of—
+
+- (a) a United Kingdom ticket arrangement must include confirmation that a copy of the application has been provided—
+  - (i) in the case of an application by P, to the person (“A”) who will hold the stock, biofuel or additive under the arrangement;
+  - (ii) in the case of an application by A, to P;
+- (b) an international ticket arrangement must include confirmation that a copy of the application has been provided to the person who will hold stock under the arrangement;
+- (c) a CSE ticket arrangement must include confirmation that—
+  - (i) the CSE has declared that it would be willing to hold United Kingdom stocks under the CSE ticket arrangement; and
+  - (ii) a copy of the application has been provided to the CSE;
+- (d) a delegation arrangement must—
+  - (i) state whether any specific stocks are to be held under the arrangement;
+  - (ii) set out the identity and contact details of the member State, CSE or EU operator on whose behalf the stock is held; and
+  - (iii) include confirmation that a copy of the application has been provided to that member State, CSE or EU operator.
+
+## SCHEDULE 2 — Enforcement powers
+
+Article 17(3)
+
+### 1. Power to call for documents
+
+(1) The powers of this paragraph are exercisable—
+
+- (a) by a person authorised by or on behalf of the Secretary of State, on production (if so required) of that person's authorisation;
+- (b) for the purpose of securing compliance with article 9 or 11 of this Order.
+
+(2) The powers are—
+
+- (a) to require any person to produce for inspection, or to deliver up, any document in that person's possession or control which has been issued by the Secretary of State;
+- (b) to require any person with executive functions in an undertaking, or the persons carrying it on, to produce documents relating to the undertaking or its operations, and allow copies or extracts to be made from them;
+- (c) to require any such person, or one who has in the preceding 5 years exercised such functions, to provide further particulars as to the whereabouts, contents or subject matter of such documents.
+
+**2.** (1) A person authorised by or on behalf of the Secretary of State may, for the purpose of securing compliance with article 9 or 11 of this Order, at all reasonable times and on production (if so required) of that person's authorisation, go on any premises and there make such enquiries and inspections, and purchase or take such samples of any substance, as are allowed by the terms of that authorisation or the person thinks necessary for those purposes.
+
+(2) The reference in this paragraph to premises includes vehicles and vessels, but not any premises used only as a dwelling.
+
+### 3. Entry with warrant
+
+(1) Subject to sub-paragraph (2) below, if a justice of the peace (in Scotland a justice of the peace or a sheriff) is satisfied, on sworn information in writing submitted on behalf of the Secretary of State, that—
+
+- (a) admission to premises is reasonably required for the purpose of securing compliance with article 9 or 11 of this Order; and
+- (b) the circumstances specified in sub-paragraph (2) are present,
+
+the justice or sheriff may issue a warrant naming a person authorised by the Secretary of State and authorising that person to enter the premises, by force if necessary.
+
+(2) The circumstances in which a warrant may be issued are that either—
+
+- (a) admission to the premises has been refused after, if the case is not one of urgency, not less than seven days' notice of the intention to enter had been given to the occupier; or
+- (b) application for admission would defeat the object of the entry or the premises are unoccupied.
+
+(3) A person entering premises under the authority of the warrant may search the premises and take possession of any documents which that person finds there and which appear to that person to be relevant to the purposes for which the warrant was obtained.
+
+(4) Any documents of which possession is taken under this paragraph may be retained for a period of 3 months or, if within that period there are commenced any proceedings for an offence under this Order to which they are relevant, until the conclusion of those proceedings.
+
+(5) If the premises are unoccupied or the occupier is temporarily absent, the person entering them under the authority of the warrant shall leave them as effectively secured against trespassers as the person found them.
+
+(6) The warrant continues in force until the end of one month beginning with the date on which it was issued.
+
+(7) References in this paragraph to premises include vehicles and vessels, but not any premises used only as a dwelling.
+
+### 4. Proceedings
+
+Proceedings for an offence of contravening article 9 or 11—
+
+- (a) in England and Wales, shall be instituted only by or with the consent of the Secretary of State or the Director of Public Prosecutions;
+- (b) in Northern Ireland, shall be instituted only by or with the consent of the Secretary of State or the Director of Public Prosecutions for Northern Ireland.
+
+*(This note is not part of the Order)*
+
+This Order forms part of the implementation by the United Kingdom of Council Directive [2009/119/EC](https://www.legislation.gov.uk/european/directive/2009/0119) imposing an obligation on member States to maintain minimum stocks of crude oil and/or petroleum products (OJ No L 265, 9.10.2009, p.9) (“**the 2009 Directive**”). The other obligations of the 2009 Directive requiring transposition are implemented by section 6 of the Energy Act 1976 (c.76) (“**the 1976 Act**”) and directions given under that provision. Such a direction may require a producer, supplier or user of crude liquid petroleum or petroleum products to create and maintain stocks at a specified level. The United Kingdom stocks held by such persons are used by the United Kingdom to meet its obligations under the 2009 Directive to hold emergency stocks.
+
+Part 2 provides when stocks of crude liquid petroleum or petroleum products, as well as biofuels and additives, may be counted as United Kingdom stocks for the purpose of complying with a direction under section 6 of the 1976 Act.
+
+Under Part 3, article 7 restricts execution and other legal process against stocks designated by another member State as “specific stocks” under Article 9 of the 2009 Directive. Article 8 requires a person who has been given a direction under section 6 of the 1976 Act, to notify the Secretary of State if that person ceases to be a producer, supplier or user of crude liquid petroleum or petroleum products. The Secretary of State may extend the period of a direction which applies to such a person.
+
+Under Part 4, article 9 requires authorisation by the Secretary of State of arrangements under which stocks may be held in the United Kingdom on behalf of other member States. Article 10 requires that consent from the Secretary of State is required to move specific stock which is held in the United Kingdom and is commingled with other stock. Article 11 prevents any person from hindering an emergency stock release.
+
+Under Part 5, articles 12 and 13 set out the procedural requirements in respect of applications for the authorisation of arrangements. Schedule 1 sets out the details required in respect of applications. Article 14 provides for the revocation of authorisations.
+
+Part 6 prescribes the circumstances in which a person is to be treated as a substantial supplier to the United Kingdom market, being a person who can be directed to create stocks of crude liquid petroleum and petroleum products under section 6(2)(b) of the 1976 Act.
+
+Part 7 sets out criminal penalties in respect of the offences in this Order for which provision is made under section 2(2) of the European Communities Act 1972 (c.68). Schedule 2 makes provision for the enforcement of those penalties, replicating in relevant part the provisions in Schedule 2 to the 1976 Act which have effect with respect to the enforcement of that Act and provision made under it.
+
+Under Part 8, article 18 revokes the Petroleum Stocks Order 1976 (S.I. 1976/2162), the Petroleum Stocks (Amendment) Order 1982 (S.I. 1982/968) and the Petroleum Stocks (Amendment) Order 1983 (S.I. 1983/909). Article 19 requires the Secretary of State to review the operation and effect of this Order and publish a report within five years after it comes into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Order should remain as it is, or be revoked or be amended. A further instrument would be needed to revoke the Order or to amend it.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available. A transposition note setting out how the 2009 Directive is transposed into the law of the United Kingdom is also available. These documents can be obtained from the Energy Resilience Team, Department of Energy and Climate Change, 3 Whitehall Place, London SW1A 2AW. These documents have also been published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c21450671]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2012/2862/section/2/2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c21450681]: Marginal citation: [S.I. 2010/761](https://www.legislation.gov.uk/uksi/2010/761).
+
+[^c21450691]: Marginal citation: [1976 c.76](https://www.legislation.gov.uk/ukpga/1976/76).
+
+[^c21450701]: Marginal citation: OJ No L 304, 14.11.2008, p.1.
+
+[^c21450711]: Marginal citation: OJ No L 265, 9.10.2009, p.9.
+
+[^key-a1a25d490ff19586cd0f3c9cf9add4b3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/2/1) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cd1eb962fc096ee296dde3e36f2530c2]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/2/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-91ac974f4382daae17a350e63e014b5f]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/7/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21450721]: Marginal citation: [S.I. 1981/226 (N.I.6)](https://www.legislation.gov.uk/nisi/1981/226); there have been 29 amending instruments, the most recent amending instrument being [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
+
+[^key-3acaebf3712de4d3aedc25b61d76eddd]: Textual amendment: Word in [Pt. 4](https://www.legislation.gov.uk/uksi/2012/2862/part/4) heading omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0c00caf80ac772d2c3106954ef703fa3]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/2012/2862/article/9) heading substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-84148bde3434672cd28c9f987a02d11b]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/2012/2862/article/9) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c284dfeaaffd676da4fb7c8acafb015a]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/11/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21450731]: Marginal citation: The website of the International Energy Agency is: www.iea.org.
+
+[^key-ee2414e7e9364ab3131c7ac11bdbe924]: Textual amendment: [Art. 13(2)(a)](https://www.legislation.gov.uk/uksi/2012/2862/article/13/2/a) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21450741]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Amendments have been made that are not relevant for these purposes.
+
+[^c21450751]: Marginal citation: [S.I. 1976/2162](https://www.legislation.gov.uk/uksi/1976/2162).
+
+[^c21450761]: Marginal citation: [S.I. 1982/968](https://www.legislation.gov.uk/uksi/1982/968).
+
+[^c21450771]: Marginal citation: [S.I. 1983/909](https://www.legislation.gov.uk/uksi/1983/909).

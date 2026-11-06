@@ -1,0 +1,35 @@
+---
+title: Trade Union and Labour Relations (Consolidation) Act 1992, section 178
+act: Trade Union and Labour Relations (Consolidation) Act 1992
+section: '178'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/178
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Union and Labour Relations (Consolidation) Act 1992, section 178
+
+> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 178. Collective agreements and collective bargaining.
+
+*Extent: E+W+S*
+
+(1) In this Act “**collective agreement**” means any agreement or arrangement made by or on behalf of one or more trade unions and one or more employers or employers’ associations and relating to one or more of the matters specified below; and “**collective bargaining**” means negotiations relating to or connected with one or more of those matters.
+
+(2) The matters referred to above are—
+
+- (a) terms and conditions of employment, or the physical conditions in which any workers are required to work;
+- (b) engagement or non-engagement, or termination or suspension of employment or the duties of employment, of one or more workers;
+- (c) allocation of work or the duties of employment between workers or groups of workers;
+- (d) matters of discipline;
+- (e) a worker’s membership or non-membership of a trade union;
+- (f) facilities for officials of trade unions; and
+- (g) machinery for negotiation or consultation, and other procedures, relating to any of the above matters, including the recognition by employers or employers’ associations of the right of a trade union to represent workers in such negotiation or consultation or in the carrying out of such procedures.
+
+(3) In this Act “**recognition**”, in relation to a trade union, means the recognition of the union by an employer, or two or more associated employers, to any extent, for the purpose of collective bargaining; and “**recognised**” and other related expressions shall be construed accordingly.

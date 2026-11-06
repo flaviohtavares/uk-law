@@ -1,0 +1,197 @@
+---
+title: The British Railways Board (Alteration of Pension Schemes) Order 1973
+id: uksi/1973/2019
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1973-11-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1973/2019
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1973/2019/pdfs/uksi_19732019_en.pdf
+- http://www.legislation.gov.uk/uksi/1973/2019/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The British Railways Board (Alteration of Pension Schemes) Order 1973
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1973 No. 2019
+
+TRANSPORT
+
+PENSIONS AND COMPENSATION
+
+The British Railways Board (Alteration of Pension Schemes) Order 1973
+
+Made
+
+30th November 1973
+
+Laid before Parliament
+
+7th December 1973
+
+Coming into Operation
+
+2nd January 1974
+
+The Secretary of State for the Environment, in exercise of powers conferred by section 74 of the Transport Act 1962 and now vested in him[^f00001] and of all other enabling powers, hereby makes the following Order:—
+
+## 1. Commencement, citation and interpretation
+
+(1) This Order shall come into operation on 2nd January 1974 and may be cited as the British Railways Board (Alteration of Pension Schemes) Order 1973.
+
+(2) In this Order, unless the context otherwise requires—
+
+- “**the Board**” means the British Railways Board;
+- “**the persons administering**”, in relation to a pension fund, means the persons responsible for administering the fund under the terms applicable thereto, and includes the trustees (if any) of the fund;
+- “**term**”, in relation to a pension fund to which this Order applies, includes any rule or provision of the fund, or of any statutory provision relating to the fund, or of any deed or other instrument made for the purposes of the fund.
+
+(3) Where provision is made in this Order for any sum to be paid by the Board to the persons administering a pension fund and the persons administering a particular pension fund are the Board themselves, that provision shall be construed in relation to that fund as a provision for the sum in question to be credited by the Board to that fund.
+
+(4) The Interpretation Act 1889 shall apply for the interpretation of this Order as it applies for the interpretation of an Act of Parliament.
+
+## 2. Application of Order
+
+(1) This Order applies to the pension funds which are specified in Schedule 1 to this Order and to any other pension fund maintained by the Board for the provision of pensions or other benefits for, or for the dependants of, persons of any of the following categories, that is to say:—
+
+- (a) persons who are, or have been, employed by the Board or by any subsidiary of theirs.
+- (b) persons who are, or have been employed by, or by a subsidiary of, a body whose undertaking immediately before 1st January 1963 formed part of the undertaking of the British Transport Commission.
+- (c) persons who were employed by the British Transport Commission.
+- (d) persons who were employed by a predecessor body as defined in Article 1 of the British Transport Reorganisation (Pensions of Employees) (No. 3) Order 1962[^f00002], in connection with a transferred undertaking as defined in that Article.
+
+and also to the pension fund which is specified in Schedule 2 to this Order.
+
+(2) Every pension fund to which this Order applies shall be construed and have effect as if the relevant provisions of this Order were terms of, or applicable to, the fund, any other terms thereof, whether expressed or implied, to the contrary notwithstanding.
+
+## 3. Termination of certain investment powers
+
+(1) Subject to paragraph (2) below, the power of the Board or other persons administering a pension fund to which this Order applies to apply to the general purposes of the Board's undertaking or to invest by way of deposit with the Board moneys which belong to any such pension fund but which have not previously been so applied or invested shall cease on the date on which this Order comes into operation and no further moneys belonging to any such fund shall be so applied or invested by the Board or by such persons on or after that date.
+
+(2) Nothing in paragraph (1) above shall affect the powers of the persons administering the pension fund which is specified in Schedule 2 to this Order to make or vary investments, or the powers of the persons administering any other pension fund to which this Order applies to make deposits in a railway savings bank mentioned in section 65 of the Transport Act 1962.
+
+## 4. Provisions with respect to existing deposits
+
+Where before the date of the coming into operation of this Order moneys belonging to a pension fund to which this Order applies have been applied or invested in exercise of a power referred to in Article 3(1) of this Order (whether by the Board or by any other body referred to in Article 2(1) above) and those moneys on that date remain so applied or invested and constitute assets of that fund, the provisions of Articles 5 and 6 of this Order shall have effect in relation to those moneys on and after that date.
+
+## 5. Interest on deposits
+
+(1) The Board shall pay to the fund in question at intervals of not more than 6 months interest at a rate determined in accordance with the provisions of paragraph (2) of this Article on so much of the moneys referred to in Article 4 above as have for the time being not been repaid by the Board.
+
+(2) Subject to paragraphs (3) and (4) below, the rate of interest to be paid as mentioned in paragraph (1) above on a particular date shall be the rate which has been determined by the Treasury under section 5 of the National Loans Act 1968 for loans from the National Loans Fund repayable at maturity for periods of more than one year and not more than 5 years and which is in operation for such loans on the 2nd January next preceding that date.
+
+(3) The provisions of paragraph (2) above shall not apply to interest accruing before the date on which this Order comes into operation.
+
+(4) The rate of interest to be paid under this Article shall not be less than 5% per annum.
+
+(5) The provisions of this Article shall, in relation to the pension funds to which the provisions of Article 3(c) and (d) of the British Transport (Alteration of Pension Schemes) Order 1969[^f00003] or Article 5(3) of the British Transport (Amalgamation of Railways' Pension Funds) (No. 1) Order 1970[^f00004] apply, have effect in substitution for those provisions.
+
+## 6. Redemption of capital of deposits
+
+(1) The capital of the moneys referred to in Article 4 above shall be repaid by the Board to the fund to which they belong by five annual instalments on 2nd January in each of the years 1974 to 1978 (inclusive).
+
+(2) The instalments referred to in paragraph (1) above shall, so far as practicable, be of equal amounts, but if the total capital repayable to a particular fund has not been finally determined by 2nd January 1974, an appropriate adjustment shall be made in one or other of the succeeding instalments.
+
+(3) Payment of the instalments referred to in paragraph (1) above shall be made at the same time to each of the funds concerned on the basis of that fund's entitlement on the date of the coming into operation of this Order to the capital of the moneys which have been applied or invested in exercise of a power referred to in Article 3(1) above and which on that date remain so applied or invested.
+
+(4) Moneys of a pension fund repaid by the Board under the provisions of this Article shall be invested by the persons administering the fund in investments which they have power to make in relation to the fund, or shall otherwise be applied in accordance with the terms of the fund.
+
+## 7. Widened investment powers for certain funds
+
+(1) Subject to paragraph (2) below, the persons administering each of the pension funds which are specified in Schedule 3 to this Order shall, in addition to their existing powers of investment in relation to those funds, have power to apply and invest moneys belonging to those funds in or upon any investments which any person could make if he were absolutely and beneficially entitled to those moneys.
+
+(2) Nothing in this Article shall entitle the persons administering a pension fund referred to in paragraph (1) above to apply or invest moneys in the manner mentioned in Article 3(1) of this Order.
+
+## 8. Saving for existing provisions with respect to transfer values
+
+Nothing in this Order shall prevent the payment by any pension fund to which this Order applies of transfer values to another pension fund in the form of moneys which have been applied or invested in exercise of a power referred to in Article 3(1) of this Order in any case where payment in such form is provided for by any existing provision applicable to the funds in question, but where payment is made in such form after the coming into operation of this Order the payment shall have the benefit of the provisions of this Order.
+
+Signed by authority of the Secretary of State.
+
+John Peyton
+
+Minister for Transport Industries
+
+Department of the Environment
+
+30th November 1973
+
+## SCHEDULE 1 — Railway Pension Funds holding deposits with the Board
+
+- British Railways (North Eastern Region) Employees' Accident and Death Fund.
+- British Railways Southern Region Employees' Supplementary Pension Society.
+- British Railways Superannuation Fund:
+  - LNER Section,
+  - GWR Section.
+  - SR Section,
+  - LMSR Section,
+  - New Section.
+- British Transport Police Force Superannuation Fund.
+- British Transport Police Force Retirement Benefit Fund.
+- 1970 Section of the British Transport Police Force Superannuation Fund.
+- Great Eastern Railway Employees' Sick and Orphan Society.
+- Great Eastern Railway New Pension Fund and New Pension (Supplemental) Fund Trust Account.
+- Great Northern Railway Locomotive Friendly Society.
+- Great Northern Railway Superannuation Fund.
+- Great Western Railway Inspectors and Foremen's Special Pension Fund.
+- Great Western Railway Pension Society.
+- Great Western Railway Salaried Staff Supplemental Pension Fund.
+- Great Western Railway Salaried Staff Widows and Orphans' Pension Society.
+- Great Western Railway Supplemental Pensions Reserve Fund.
+- Great Western Railway Widows' and Orphans' Benevolent Fund.
+- London, Brighton and South Coast Railway Pension Fund.
+- London Midland and Scottish Railway (LNW) Insurance Society.
+- London Midland and Scottish Railway, Midland Friendly Society.
+- London and North Western Railway Provident Society for providing pensions for Widows and Orphans of Members of the Salaried Staff.
+- London and South Western Railway Company's Engine Drivers, Firemen, Locomotive and Electrical Engineering Departments Pension Society.
+- North Eastern Railway Servants' Pension Society.
+- North Eastern Railway Servants' Sickness and Assurance Society.
+- North Eastern and Great Eastern Superannuation Societies and Pension Funds Joint Trust Account.
+- Port Talbot Railway and Docks Company Augmentation Fund.
+- Southern Railway (South Eastern and Chatham Section), Enginemen and Motormen's Pension Fund Society.
+- Southern Railway (Western Section) Provident and Sick Benefit Society.
+- Thos. Bantock and Co. Benevolent and Pensions Fund.
+- Thos. Bantock and Co. Superannuation Fund.
+
+## SCHEDULE 2 — Other Pension Fund of national transport authority holding deposits with the Board
+
+British Transport Docks Board (Salaried Staff) Pension Scheme.
+
+## SCHEDULE 3 — Railway Pension Funds to which widened investment powers are given
+
+- British Railways Superannuation Fund:
+  - LNER Section.
+  - GWR Section.
+  - SR Section.
+  - LMSR Section.
+- Great Eastern Railway New Pension Fund and New Pension (Supplemental) Fund Trust Account.
+- Great Western Railway Inspectors and Foremen's Special Pension Fund.
+- Great Western Railway Salaried Staff Supplemental Pension Fund.
+- Great Western Railway Salaried Staff Widows and Orphans' Pension Society.
+- Great Western Railway Supplemental Pensions Reserve Fund.
+- Great Western Railway Widows' and Orphans' Benevolent Fund.
+- London, Brighton and South Coast Railway Pension Fund.
+- London & North Western Railway Provident Society for providing pensions for Widows and Orphans of Members of the Salaried Staff.
+- North Eastern and Great Eastern Superannuation Societies and Pension Funds Joint Trust Account.
+- North Eastern Railway Servants' Pension Society.
+- Port Talbot Railway and Docks Company Augmentation Fund
+
+EXPLANATORY NOTE
+
+This Order relates to certain railway pension funds of the British Railways Board and to the British Transport Docks Board (Salaried Staff) Pension Scheme. It terminates (Article 3) the existing powers of the persons administering the railway pension funds to apply to the general purposes of the Board's undertaking, or to invest by way of deposit with the Board, moneys belonging to those funds. It also provides (Articles 4, 5 and 6) for the payment by the Board of interest at current rates on the existing deposits with the Board belonging to the railway pension funds and to the British Transport Docks Board (Salaried Staff) Pension Scheme, and for the redemption by the Board of the capital of those deposits in annual instalments spread over the years 1974 to 1978 (inclusive). Additional investment powers are given to certain pension funds (Article 7 and Schedule 3) and provision is made for certain transfer value payments to have the benefit of the effect of the Order (Article 8).
+
+## Annotations
+
+[^f00001]: Footnote: S.I. 1970/1681(1970 III, p.5551).
+
+[^f00002]: Footnote: (1962 III, p. 3866)
+
+[^f00003]: Footnote: (1969 III, p.5797).
+
+[^f00004]: Footnote: (1970 I, p.1582).

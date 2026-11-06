@@ -1,0 +1,318 @@
+---
+title: The Charter Trustees Regulations 2009
+id: uksi/2009/467
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-03-03'
+text_date: '2019-01-02'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/467
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/467/pdfs/uksiem_20090467_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/467/pdfs/uksi_20090467_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/467/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Charter Trustees Regulations 2009
+
+> Text as at 2019-01-02.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+This Statutory Instrument has been printed in substitution of the SI of the same number and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2009 No. 467
+
+Local Government, England
+
+The Charter Trustees Regulations 2009
+
+Made
+
+3rd March 2009
+
+Laid before Parliament
+
+16th March 2009
+
+Coming into force
+
+1st April 2009
+
+The Secretary of State, in exercise of the powers conferred by sections 14 and 240(10) of the Local Government and Public Involvement in Health Act 2007[^f00001], makes the following Regulations:
+
+## 1. Citation, commencement and application[^key-c0bbfb5dcaef97e3b764d374b4373ec4]
+
+(1) These Regulations may be cited as the Charter Trustees Regulations 2009 and come into force on 1st April 2009.
+
+(2) These Regulations apply in relation to charter trustees established by an order under section 7 of the Local Government and Public Involvement in Health Act 2007.
+
+## 2. Interpretation[^key-b6d90894f30a2f0431eaf8473b2640fe]
+
+In these Regulations—
+
+- “the 2007 Act” means the Local Government and Public Involvement in Health Act 2007;
+- “the 1972 Act” means the Local Government Act 1972[^f00002];
+- “charter trustee area” means the area for which charter trustees are established by a section 7 order;
+- “established” means established by a section 7 order;
+- “predecessor council” means a local authority which, by or in consequence of a section 7 order, will cease to exist on the reorganisation date;
+- “the relevant council” means the council of the single-tier area in which a charter trustee area lies;
+- “reorganisation date” means the date specified in a section 7 order as that on which a structural change[^f00003] comes into effect; and
+- “section 7 order” means an order under section 7 of the 2007 Act (implementation of proposals by order).
+
+## 3. Transfer of property[^key-203fd9392aa72f6c1c2089cc551dbf77]
+
+(1) Regulations 7 and 11 to 13 of the Local Government (Structural Changes)(Transfer of Functions, Property, Rights and Liabilities) Regulations 2008[^f00004] (transfer of property etc of predecessor councils) shall not apply in relation to any property of a predecessor council which vests in charter trustees by virtue of this regulation.
+
+(2) Where charter trustees are established for the whole or any part of the area of a predecessor council, any property of that authority (and any rights and liabilities in respect of that property) which is historic property and which relates to the charter trustee area shall, on the reorganisation date, vest in those charter trustees.
+
+(3) Charter trustees may, with the relevant council’s agreement, dispose of any historic property which vests in them by virtue of paragraph (2) to the relevant council if the property in question has a closer association with the area of that council than it does with the charter trustee area.
+
+(4) Any question as to the interpretation or application of this regulation which—
+
+- (a) relates to the vesting of any historic property, and
+- (b) is not resolved before the end of the period of 12 months beginning with the reorganisation date,
+
+may be determined by a person agreed on by the relevant council and the charter trustees or, failing their agreement, by a person appointed for this purpose by the Secretary of State.
+
+(5) Pending the determination of a question under paragraph (4), the historic property concerned shall vest in the relevant council.
+
+(6) In this regulation—
+
+- “historic property” means any charter, insignia, plate or other property which is of an historic and ceremonial nature, held by a predecessor council, other than—
+  - (a) land and buildings, and
+  - (b) any property held for the purposes of any statutory function.
+
+(7) In this regulation and regulations 4 and 5, the word “charter” means any charter or other grant under Her Majesty’s prerogative.
+
+## 4. Rights of charter trustees[^key-ae169e1d805c45148c9bf73111b88d38]
+
+Where, prior to the reorganisation date, the predecessor council exercises any right conferred in a charter which vests in the charter trustees under regulation 3(2)—
+
+- (a) the charter trustees shall be treated from that date as the body on whom the right was conferred by the charter for the purpose of exercising those rights in relation to the charter trustee area, and
+- (b) the charter shall be read as subject to any necessary modification.
+
+## 5. Acquisition and maintenance of property[^key-e8d904d3eff33aa4fe36c585c5cd9634]
+
+Charter trustees may acquire, or accept gifts of, and hold historic or ceremonial property (other than land and buildings) and, in particular, charters, insignia and plate, relating to the charter trustee area and may execute any work (including works of maintenance or improvement) incidental to or consequential on the acquisition, acceptance or holding.
+
+## 6. Appointment of additional charter trustees[^key-291bbcacc8b67449d4c34b74fabaa396]
+
+(1) In this regulation—
+
+- “appoint” includes reappoint, and references to appointed and appointment are to be construed accordingly;
+- “the appointing body” means—
+  - (a) if the charter trustee area has the status of a city, the relevant council, or
+  - (b) if the charter trustee area does not have the status of a city, the charter trustees; and
+- “councillor” means a councillor of the relevant council.
+
+(2) Where, at any time, the number of charter trustees for a charter trustee area is less than five, the appointing body shall, as soon as practicable, appoint as charter trustees such number of councillors as may be required to bring the total number of charter trustees for that area to five.
+
+(3) The appointing body may appoint councillors as charter trustees provided that at any time no more than three charter trustees for the charter trustee area in question shall have been appointed under this paragraph.
+
+(4) Appointments made by charter trustees under paragraph (3) shall not be made except at the annual meeting of those trustees.
+
+(5) These Regulations shall apply in relation to charter trustees appointed under this regulation as they apply in relation to charter trustees established by a section 7 order.
+
+(6) Any councillor appointed under this regulation shall (subject to paragraph (7)) hold office as a charter trustee until the next election to the relevant council or such time as that person ceases to be a councillor, whichever is the sooner.
+
+(7) Charter trustees may remove from office a councillor appointed under this regulation if, in their opinion, that councillor has, without sufficient cause, failed to attend two or more consecutive meetings of theirs.
+
+## 7. Mayors: appointment, term of office, etc.[^key-0eed8b5f2e0000fbe22cabe2e989f84f]
+
+(1) Subject to paragraph (2), charter trustees may in every year elect one of their number to be mayor and another to be deputy mayor.
+
+(2) Where, on the reorganisation date, there is a councillor on the relevant council who immediately before that date was mayor for all or part of the area for which charter trustees have been established, that person (for the purpose of regulation 8, the “acting mayor”) shall continue in that role for the charter trustees after the reorganisation date until the election for which provision is made by paragraph (3) (for the purposes of this regulation and of regulation 8, “the election”) has taken place.
+
+(3) Subject to any appointment to be made under paragraphs (2) and (3) of regulation 6, the election of a mayor and, as the case may be, deputy mayor shall be the first business transacted at the annual meeting of charter trustees.
+
+(4) A person ceases to be a mayor or deputy mayor upon ceasing to be a charter trustee or if not re-elected to office.
+
+(5) On a casual vacancy occurring in the office of mayor or deputy mayor, the charter trustees shall, as soon as practicable, meet for the purposes of electing one of their number to such office.
+
+(6) Charter trustees shall pay the mayor and deputy mayor such allowance as they think reasonable for the purpose of enabling those persons to meet the expenses of office.
+
+## 8. First annual meeting of charter trustees[^key-5801fdb40382c73cd9b66fda3b3d2192]
+
+(1) The first annual meeting of the charter trustees shall be held—
+
+- (a) within six weeks following the reorganisation date; or
+- (b) where an election to the relevant council is to be held, within 21 days following the annual meeting of the relevant council.
+
+(2) Where there is an acting mayor, that person shall convene and preside at the first annual meeting of the charter trustees but that person shall not vote in the election unless that person is a charter trustee.
+
+(3) Where there is no acting mayor—
+
+- (a) the first annual meeting shall be convened by an officer of the relevant council appointed for that purpose by that council; and
+- (b) until the election has taken place, the chair or, if the chair is not present, the vice-chair of the relevant council shall preside over the first annual meeting but that person shall not vote in the election unless that person is a charter trustee.
+
+(4) At the first annual meeting, in the case of an equality of votes in the election, the second or presiding vote shall be given—
+
+- (a) where there is an acting mayor, and that person is a charter trustee, by that person; and
+- (b) in any other case, by the charter trustee who has served as a councillor of a predecessor council for the longest continuous period.
+
+(5) Paragraphs (3), (4), (7) and (8) of regulation 9 apply to meetings held under this regulation as they apply in relation to meetings held under regulation 9, except that paragraph 39(2) of Schedule 12 to the 1972 Act (presiding vote) shall not apply.
+
+## 9. Subsequent meetings of charter trustees[^key-705a6cf1cb17e4e11f9e334b2d4dcb65]
+
+(1) Charter trustees shall in every year hold an annual meeting within 21 days following the annual meeting of the relevant council.
+
+(2) Other meetings of charter trustees shall be held as they determine.
+
+(3) Paragraph 10 of Schedule 12 to the 1972 Act[^f00005] (meetings: location, publicity, etc) shall apply in relation to meetings of charter trustees as it applies in relation to meetings of parish councils.
+
+(4) No business shall be transacted at a meeting of charter trustees unless at least one-third of the whole number of the charter trustees are present at the meeting; but in no case shall the quorum be less than two.
+
+(5) At a meeting of the charter trustees the mayor, if present, shall preside and, if the mayor is absent from such a meeting, the deputy mayor, if present, shall preside.
+
+(6) If both the mayor and deputy mayor are absent from a meeting of charter trustees, such one of their number as the charter trustees present shall choose shall preside.
+
+(7) Section 228(1) (inspection of documents) and paragraphs 13(1) and 39 to 44 of Schedule 12 to the 1972 Act[^f00006] (meetings and proceedings of local authorities) shall apply to charter trustees as they apply in relation to parish councils.
+
+(8) Charter trustees shall be a body to which the Public Bodies (Admission to Meetings) Act 1960[^f00007] applies.
+
+## 10. Discharge of functions by charter trustees[^key-2a0747830d41902854573588a4aed709]
+
+(1) Charter trustees may appoint such officers as they think necessary for the proper discharge of their functions and sections 112(1), (2) and (5) and 114 to 117 of the 1972 Act[^f00008] (staff, officers, etc of local authorities) shall apply, subject to any necessary modifications, in relation to such officers as they apply in relation to officers appointed by parish councils.
+
+(2) Charter trustees may arrange for the discharge of any of their functions other than—
+
+- (a) the election of the mayor or deputy mayor;
+- (b) the appointment of additional charter trustees under paragraphs (2) and (3) of regulation 6;
+- (c) the appointment of local officers of dignity; and
+- (d) functions relating to the issuing of a precept or the borrowing of money
+
+by a committee or officer of theirs or (with the agreement of the relevant council) of the relevant council.
+
+(3) Where, by virtue of paragraph (2) above, any functions of charter trustees may be discharged by a committee then, unless they otherwise direct, the committee may arrange for the discharge of any of those functions by an officer of the charter trustees or of the relevant council.
+
+(4) Any arrangements made by charter trustees or a committee under paragraph (2) or (3) above shall not prevent them or the committee from exercising those functions.
+
+(5) Section 106 of the 1972 Act (standing orders of committees) shall apply in relation to any committee of charter trustees as it applies in relation to a committee of a local authority.
+
+## 11. Accommodation of charter trustees[^key-ebbc8d4f882189c3e7e508d26d7b06d7]
+
+The relevant council shall provide accommodation for the proper discharge of the functions of any charter trustees; and the accommodation to be provided and the terms on which it is provided shall be determined by agreement between that council and the charter trustees or, in default of such agreement, by the decision of a person agreed on by them or, in default of their agreement, appointed by the Secretary of State.
+
+## 12. Funding in first year[^key-35f15c4bf7c0ea1244d5fced2066ce79]
+
+(1) Sections 41(1) and 49A(1[^key-72230da51206f8346d7472d51d417984] of the Local Government Finance Act 1992[^f00009] (precepts, calculation of budget requirements) shall not apply in relation to charter trustees as regards the financial year in which they are established.
+
+(2) Subject to paragraph (3), charter trustees may request the relevant council to pay to them such amount as they consider necessary for the discharge of their functions in the financial year in which they are established.
+
+(3) The amount referred to in paragraph (2) must not exceed the amount anticipated in relation to charter trustees in accordance with regulation 6(1) (anticipation of amounts required to discharge functions of charter trustees) of the Local Government (Structural Changes)(Further Financial Provisions and Amendment) Regulations 2009[^f00010].
+
+(4) The relevant council shall pay to the charter trustees any amount requested by them in accordance with paragraph (2) not later than 28 days after receipt of the request.
+
+## 13. Accounts, audit etc[^key-d70861833eefd4bb1b031cc6f6336c04]
+
+(1) Charter trustees shall keep accounts of their receipts and payments.
+
+(2) Charter trustees shall make safe and efficient arrangements for the making of their payments.
+
+(3) The Audit Commission Act 1998[^f00011] shall apply to all accounts of charter trustees as though they were a body listed in paragraph 1 of Schedule 2 to that Act.
+
+## 14. Application of other statutory provisions[^key-d5089c9191ca3b2535f5a97c801f45d6]
+
+(1) Sections 111 (subsidiary powers of local authorities), 140 (insurance by local authorities against accidents by members), and 151 (financial administration) of the 1972 Act[^f00012] shall apply in relation to charter trustees as they apply in relation to parish councils.
+
+(2) Sections 173 to 178 of the 1972 Act[^f00013] (allowances) shall apply in relation to charter trustees as if they were the members of the council of a parish for the charter trustee area.
+
+(3) Charter trustees are members of the relevant council for the purposes of section 49 of the Local Government Act 2000[^f00014] (principles governing conduct of members of relevant authorities).
+
+## 15. Subscriptions[^key-ee6198a6fdeac1da964a2df915c1df41]
+
+Charter trustees may pay reasonable subscriptions, whether annually or otherwise, to the funds of the Association of Charter Trustees and Charter Town Councils.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+John Healey
+
+Minister of State
+
+Department for Communities and Local Government
+
+3rd March 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to charter trustees established by order under section 7 of the Local Government and Public Involvement in Health Act 2007 (“the 2007 Act”).
+
+Part 1 of the 2007 Act provides for the establishment of a single tier of local government for areas in England. The Secretary of State may, by order under section 7 of the 2007 Act, provide for the restructuring of an area in which there are two tiers of local government (namely, a county council and district councils) into a single tier of local government (namely a county council or a district council). Following such a structural change, where there is no suitable local government body such as a parish council, charter trustees will be established to preserve historic property, privileges, rights and traditions presently enjoyed by local residents in council areas which will be abolished.
+
+Regulation 2 contains definitions. Regulation 3 specifies that historic property which relates to the charter trustee area vests in the charter trustees on the date on which a relevant structural change comes into effect, rather than transferring to the single tier council under provisions in the Local Government (Structural Changes) (Transfer of Functions, Property, Rights and Liabilities) Regulations 2008. Charter trustees may dispose of certain of that property to the single tier council. Regulation 4 provides that rights exercised by virtue of charters prior to the reorganisation by county and district councils may continue to be exercised in relation to the charter trustee area by charter trustees following the structural change. Regulation 5 provides that charter trustees may acquire or accept gifts of historic or ceremonial property and execute certain work in respect of them.
+
+Provision is made in relation to the appointment and removal from office of additional charter trustees (regulation 6); matters concerning the appointment and terms of office of the mayor and deputy mayor (regulation 7); the organisation of the first annual meeting (regulation 8); subsequent meetings (regulation 9); discharge of functions (regulation 10); the provision of accommodation (regulation 11); funding in the first year, accounts and audit etc (regulations 12 and 13); the application of other statutory provisions (regulation 14); and the payment of subscriptions (regulation 15).
+
+No impact assessment has been produced for these Regulations as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). Section 14(2) provides for section 14(1) to be read with section 15 and section 14(3) provides that regulations under section 14 have effect subject to any provision included in an order under section 7 or 10.
+
+[^key-c0bbfb5dcaef97e3b764d374b4373ec4]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^key-b6d90894f30a2f0431eaf8473b2640fe]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00003]: Footnote: Part 1 of the 2007 Act deals with structural and boundary change for local government in England.
+
+[^key-203fd9392aa72f6c1c2089cc551dbf77]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 2008/2176](https://www.legislation.gov.uk/uksi/2008/2176).
+
+[^key-ae169e1d805c45148c9bf73111b88d38]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^key-e8d904d3eff33aa4fe36c585c5cd9634]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^key-291bbcacc8b67449d4c34b74fabaa396]: Commencement: Reg. 6 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^key-0eed8b5f2e0000fbe22cabe2e989f84f]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^key-5801fdb40382c73cd9b66fda3b3d2192]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^key-705a6cf1cb17e4e11f9e334b2d4dcb65]: Commencement: Reg. 9 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^f00005]: Footnote: Amended by the Licensing Act [2003 (c.17)](https://www.legislation.gov.uk/ukpga/2003/17), Schedule 6, paragraph 61(2)(a).
+
+[^f00006]: Footnote: Section 228(1) was amended by the Local Government (Access to Information) Act [1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43), Schedule 2, paragraph 6(2).
+
+[^f00007]: Footnote: [1960 c.67](https://www.legislation.gov.uk/ukpga/1960/67); relevant amendments to which were made by the Local Government (Access to Information Act) [1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43), Schedule 2, paragraph 4 and Schedule 3 and the Broadcasting Act [1990 (c.42)](https://www.legislation.gov.uk/ukpga/1990/42), Schedule 20, paragraph 5.
+
+[^key-2a0747830d41902854573588a4aed709]: Commencement: Reg. 10 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^f00008]: Footnote: Section 117 was amended by the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 38 and 46.
+
+[^key-ebbc8d4f882189c3e7e508d26d7b06d7]: Commencement: Reg. 11 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^key-35f15c4bf7c0ea1244d5fced2066ce79]: Commencement: Reg. 12 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^key-72230da51206f8346d7472d51d417984]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/12/1) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/16/2)
+
+[^f00009]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^f00010]: Footnote: [S.I. 2009/5](https://www.legislation.gov.uk/uksi/2009/5).
+
+[^key-d70861833eefd4bb1b031cc6f6336c04]: Commencement: Reg. 13 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^f00011]: Footnote: [1998 c.18](https://www.legislation.gov.uk/ukpga/1998/18).
+
+[^key-d5089c9191ca3b2535f5a97c801f45d6]: Commencement: Reg. 14 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+
+[^f00012]: Footnote: Section 140 was amended by the Local Government (Miscellaneous) Provisions Act [1982 (c.30)](https://www.legislation.gov.uk/ukpga/1982/30), section 39(1) and Schedule 7, Part XVI and [S.I. 2001/3694](https://www.legislation.gov.uk/uksi/2001/3694), article 282.
+
+[^f00013]: Footnote: Section 173A was inserted by the Local Government, Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65), section 24(2). Section 173, 173A, 175 and 177 were amended by the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 11, paragraphs 26 to 28.
+
+[^f00014]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22); section 49 was amended by the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), section 183(1).
+
+[^key-ee6198a6fdeac1da964a2df915c1df41]: Commencement: Reg. 15 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)

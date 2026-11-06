@@ -1,0 +1,103 @@
+---
+title: The Patents (Supplementary Protection Certificate for Medicinal Products) Regulations 1992
+id: uksi/1992/3091
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-12-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/3091
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/3091/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Patents (Supplementary Protection Certificate for Medicinal Products) Regulations 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 3091
+
+PATENTS
+
+The Patents (Supplementary Protection Certificate for Medicinal Products) Regulations 1992
+
+Made
+
+9th December 1992
+
+Laid before Parliament
+
+9th December 1992
+
+Coming into force
+
+For the purposes of regulations 1, 2 and 4(2)
+
+10th December 1992
+
+For all other purposes
+
+2nd January 1993
+
+The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures concerning the creation of a supplementary protection certificate for medicinal products, in exercise of powers conferred by section 2(2) of the said Act of 1972 and of all others powers enabling him in that behalf, hereby makes the following Regulations:–
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Patents (Supplementary Protection Certificate for Medicinal Products) Regulations 1992 and shall come into force for the purposes of regulations 1, 2 and 4(2) on 10th December 1992 and for all other purposes on 2nd January 1993.
+
+(2) These Regulations extend to Great Britain and Northern Ireland.
+
+## 2. Definitions
+
+In these Regulations–
+
+- “the 1977 Act” means the Patents Act 1977[^f00003];
+- “certificate” has the meaning assigned to it by Article 1(d) of the EC Regulation;
+- “the court” has the same meaning as it has in the 1977 Act; and
+- “the EC Regulation” means Council Regulation [(EEC) No. 1768/92](https://www.legislation.gov.uk/european/regulation/1992/1768) of 18th June 1992 concerning the creation of a supplementary protection certificate for medicinal products[^f00004] and any reference in these Regulations to an article followed by a number is a reference to the article so numbered in the EC Regulation.
+
+## 3. Competent industrial property office (Article 9(1))
+
+The competent industrial property office for the purposes of lodging an application for a certificate in the United Kingdom shall be the Patent Office.
+
+## 4. Extension of powers under the Patents Act 1977
+
+(1) For the purposes of section 123(1) of the Patents Act 1977 matters relating to certificates and applications for certificates shall be the business of the Patent Office and, accordingly, shall be under the direction and control of the Comptroller-General of Patents, Designs and Trade Marks.
+
+(2) The power of the Secretary of State to make rules under section 123 of the 1977 Act shall include power to make rules regulating the business of the Patent Office and matters relating to certificates and applications for certificates and subsections (2) to (7) of section 123 and section 124 shall apply accordingly.
+
+## 5. Extension of existing provisions of the Patents Act 1977 and the Patents Act 1949 to certificates (Articles 5, 17 and 18)
+
+Subject to any rules made by the Secretary of State under section 123 of the 1977 Act relating to certificates, applications for certificates or matters relating to the same, the provisions of that Act and where they continue to apply, the provisions of the Patents Act 1949[^f00005] and any rules made thereunder in respect of patents, applications for patents, existing patents or existing applications[^f00006] shall, in accordance with the provisions of Articles 5, 17 and 18 of the EC Regulation, extend and apply to, and be taken to make, as appropriate and with the necessary changes, corresponding provision, including corresponding provision relating to fees, forms and to the jurisdiction of and proceedings before the comptroller and the court, for certificates, applications for certificates and matters relating thereto, as they apply to, and make provision for, patents and applications for patents and matters relating thereto.
+
+E. Leigh
+
+Department of Trade and Industry
+
+9th December 1992
+
+(This note is not part of the Regulations)
+
+In accordance with section 2(2) of the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68) and in order to give effect to certain provisions of Council Regulation [(EEC) No. 1768/92](https://www.legislation.gov.uk/european/regulation/1992/1768) of 18th June 1992 concerning the creation of a supplementary protection certificate for medicinal products, these Regulations–
+
+- (a) extend the power of the Secretary of State to make rules under section 123 of the Patents Act [1977 (c. 37)](https://www.legislation.gov.uk/ukpga/1977/37) in respect of patents and applications for patents so as to enable him to make rules relating to the procedure to be applied to, and the fees in respect of, supplementary protection certificates for medicinal products and applications therefor; and
+- (b) extend and apply in the appropriate cases existing provisions of the Patents Act 1977 and the Patents Act 1949 and rules made thereunder, relating to patents and applications for patents, to certificates and applications for certificates.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1992/2870](https://www.legislation.gov.uk/uksi/1992/2870).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37).
+
+[^f00004]: Footnote: O.J. No. L182, 2.7.92, page 1.
+
+[^f00005]: Footnote: [1949 c. 87](https://www.legislation.gov.uk/ukpga/1949/87).
+
+[^f00006]: Footnote: See [S.I. 1990/2384](https://www.legislation.gov.uk/uksi/1990/2384) as amended by [S.I. 1992/1142](https://www.legislation.gov.uk/uksi/1992/1142), [S.I. 1968/1389](https://www.legislation.gov.uk/uksi/1968/1389) as revoked with savings by [S.I. 1978/216](https://www.legislation.gov.uk/uksi/1978/216) and [S.I. 1992/616](https://www.legislation.gov.uk/uksi/1992/616).

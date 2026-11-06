@@ -1,0 +1,196 @@
+---
+title: Barbados Independence Act 1966
+id: ukpga/1966/37
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1966-11-17'
+text_date: '2009-10-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1966/37
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1966/37/pdfs/ukpga_19660037_en.pdf
+- http://www.legislation.gov.uk/ukpga/1966/37/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Barbados Independence Act 1966
+
+> Text as at 2009-10-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Barbados Independence Act 1966
+
+1966 c.37
+
+An Act to make provision for, and in connection with, the attainment by Barbados of fully responsible status within the Commonwealth.
+
+\[17th November 1966\]
+
+## 1. Fully responsible status of Barbados.
+
+(1) On and after 30th November 1966 (in this Act referred to as “**the appointed day**”) Her Majesty’s Government in the United Kingdom shall have no responsibility for the government of Barbados.
+
+(2) No Act of the Parliament of the United Kingdom passed on or after the appointed day shall extend, or be deemed to extend, to Barbados as part of its law; and on and after that day the provisions of Schedule 1 to this Act shall have effect with respect to the legislative powers of Barbados.
+
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c667465]
+
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c667466]
+
+## 4. Consequential modification of other enactments.
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c667467]
+
+(2)[^key-31265a729be202c13c02ba5663e0ef45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-0635124364444697d5be6e9485ae0f49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For the purposes of the making, on or after the appointed day, of Orders in Council under the [^c667472]West Indies Act 1962, and for the purposes of the making on or after that day of grants under section 8 of that Act, Barbados shall be treated as not being a colony within the meaning of that Act.
+
+(5) On and after the appointed day the provisions specified in Schedule 2 to this Act shall have effect subject to the amendments specified respectively in that Schedule.
+
+(6) Subsection (5) of this section, and Schedule 2 to this Act, shall not extend to Barbados as part of its law.
+
+## 5. Power to provide new constitution for Barbados.
+
+(1) Her Majesty may by Order in Council made before the appointed day provide a constitution for Barbados to come into effect on that day.
+
+(2) An Order in Council under this section (in this section referred to as a “**Constitution Order**”) may include provision as to the manner in which the legislature of Barbados may alter any provisions of that Order, or may alter any law which alters any of those provisions; and a constitution provided by a Constitution Order may include provision as to the manner in which the legislature of Barbados may alter that constitution or any provisions of that constitution, or may alter any law which alters that constitution or any provisions thereof.
+
+(3) In this section references to altering a constitution or to altering any provision or law include references—
+
+- (a) to revoking it, with or without re-enactment thereof or the making of different provisions in lieu thereof;
+- (b) to modifying it (whether by omitting, amending or overriding any of its provisions or inserting additional provisions in it or otherwise); and
+- (c) to suspending its operation for any period or terminating any such suspension.
+
+(4) A Constitution Order may contain such transitional or other incidental or supplementary provisions as appear to Her Majesty to be necessary or expedient.
+
+(5) Any Constitution Order shall be laid before Parliament after being made.
+
+## 6. Short title and interpretation.
+
+(1) This Act may be cited as the Barbados Independence Act 1966.
+
+(2) Except in so far as the context otherwise requires, references in this Act to any enactment are references to that enactment as amended or extended by or under any other enactment.
+
+SCHEDULES
+
+## SCHEDULE 1 — Legislative Powers of Barbados
+
+Section 1.
+
+**1.** The [^c667473]Colonial Laws Validity Act 1865 shall not apply to any law made on or after the appointed day by the legislature of Barbados.
+
+**2.** No law and no provision of any law made on or after the appointed day by that legislature shall be void or inoperative on the ground that it is repugnant to the law of England, or to the provisions of any Act of the Parliament of the United Kingdom, including this Act, or to any order, rule or regulation made under any such Act, and accordingly the powers of that legislature shall include the power to repeal or amend any such Act, order, rule or regulation in so far as it is part of the law of Barbados.
+
+**3.** The legislature of Barbados shall have full power to make laws having extra-territorial operation.
+
+**4.** Without prejudice to the generality of the preceding provisions of this Schedule—
+
+- (a)[^c667476] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) section 4 of the [^c667477]Colonial Courts of Admiralty Act 1890 (which requires certain laws to be reserved for the signification of Her Majesty’s pleasure or to contain a suspending clause) and so much of section 7 of that Act as requires the approval of Her Majesty in Council to any rules of court for regulating the practice and procedure of a Colonial Court of Admiralty shall cease to have effect in Barbados.
+
+## SCHEDULE 2 — Amendments not Affecting the Law of Barbados
+
+Section 4.
+
+### Diplomatic immunities
+
+**1.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c667478]
+
+**2.**[^c667479] In section 1(6) of the [^c667480]Diplomatic Immunities (Commonwealth Countries and Republic of Ireland) Act 1952, before the word “and” in the last place where it occurs there shall be inserted the word “Barbados”.
+
+**3.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c667481]
+
+### Financial
+
+**4.**[^c667482] In section 2(4) of the [^c667483]Import Duties Act 1958, before the words “together with” there shall be inserted the word “Barbados”.
+
+### Visiting forces
+
+**5.** In the [^c667484]Visiting Forces (British Commonwealth) Act 1933, section 4 (attachment and mutual powers of command) shall apply in relation to forces raised in Barbados as it applies in relation to forces raised in Dominions within the meaning of the [^c667485]Statute of Westminster 1931.
+
+**6.** In the [^c667486]Visiting Forces Act 1952—
+
+- (a)[^c667487] in paragraph (a) of section 1(1) (countries to which that Act applies) at the end there shall be added the words “Barbados or”;
+- (b) in section 10(1)(*a*), the expression “**colony**” shall not include Barbados;
+
+and, until express provision with respect to Barbados is made by an Order in Council under section 8 of that Act (application to visiting forces of law relating to home forces), any such Order for the time being in force shall be deemed to apply to visiting forces of Barbados.
+
+### Ships and aircraft
+
+**7.**[^c667491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c667494] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c667495]
+
+**10.** In the [^c667496]Whaling Industry (Regulation) Act 1934, the expression “**British ship to which this Act applies**” shall not include a British ship registered in Barbados.
+
+**11.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c667497]
+
+**12.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c667498]
+
+### Commonwealth Institute
+
+**13.**[^c667502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c667465]: Textual amendment: [Ss. 2](https://www.legislation.gov.uk/ukpga/1966/37/section/2) and 3 repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^c667466]: Textual amendment: [Ss. 2](https://www.legislation.gov.uk/ukpga/1966/37/section/2) and 3 repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^c667467]: Textual amendment: S. 4(1) repealed by [Interpretation Act 1978 (c.30, SIF 115: 1)](https://www.legislation.gov.uk/ukpga/1978/30), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/30/schedule/3)
+
+[^key-31265a729be202c13c02ba5663e0ef45]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1966/37/section/4/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^key-0635124364444697d5be6e9485ae0f49]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1966/37/section/4/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c667472]: Marginal citation: [1962 c. 19](https://www.legislation.gov.uk/ukpga/1962/19).
+
+[^c667473]: Marginal citation: [1865 c. 63](https://www.legislation.gov.uk/ukpga/1865/63).
+
+[^c667476]: Textual amendment: [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/1966/37/schedule/1/paragraph/4/a) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [ss. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
+
+[^c667477]: Marginal citation: [1890 c. 27](https://www.legislation.gov.uk/ukpga/1890/27).
+
+[^c667478]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1966/37/schedule/2/paragraph/1) repealed by [Finance Act 1969 (c. 32, SIF63: 1)](https://www.legislation.gov.uk/ukpga/1969/32), [Sch.21 Pt. IX](https://www.legislation.gov.uk/ukpga/1969/32/schedule/21/part/IX)
+
+[^c667479]: Modification: The text of Sch. 2 para. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c667480]: Marginal citation: [1952 c. 18](https://www.legislation.gov.uk/ukpga/1952/18)
+
+[^c667481]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1966/37/schedule/2/paragraph/3) repealed by [International Organisations Act 1981 (c. 9, SIF 68: 1)](https://www.legislation.gov.uk/ukpga/1981/9), [Sch.](https://www.legislation.gov.uk/ukpga/1981/9/schedule)
+
+[^c667482]: Modification: The text of Sch. 2 para. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c667483]: Marginal citation: [1958 c. 6](https://www.legislation.gov.uk/ukpga/1958/6)
+
+[^c667484]: Marginal citation: [1933 c. 6](https://www.legislation.gov.uk/ukpga/1933/6).
+
+[^c667485]: Marginal citation: [1931 c. 4 (22 & 23 Geo. 5.)](https://www.legislation.gov.uk/ukpga/Geo5/22-23/4).
+
+[^c667486]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
+
+[^c667487]: Modification: The text of Sch. 2 para. 6(a) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c667491]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1966/37/schedule/2/paragraph/7) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [ss. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
+
+[^c667494]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1966/37/schedule/2/paragraph/8) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [ss. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
+
+[^c667495]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1966/37/schedule/2/paragraph/9) repealed by Statute Law (Repeals) Act 1977(c. 18), Sch.1 Pt. XV
+
+[^c667496]: Marginal citation: [1934 c. 49](https://www.legislation.gov.uk/ukpga/1934/49).
+
+[^c667497]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/1966/37/schedule/2/paragraph/11) repealed by [Civil Aviation Act 1971 (c. 75)](https://www.legislation.gov.uk/ukpga/1971/75), [Sch. 11](https://www.legislation.gov.uk/ukpga/1971/75/schedule/11)
+
+[^c667498]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/1966/37/schedule/2/paragraph/12) repealed by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [s. 303(2)](https://www.legislation.gov.uk/ukpga/1988/48/section/303/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1988/48/schedule/8)
+
+[^c667502]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1966/37/schedule/2/paragraph/13) repealed (7.1.2003) by [2002 c. 39](https://www.legislation.gov.uk/ukpga/2002/39), [ss. 3](https://www.legislation.gov.uk/ukpga/2002/39/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2002/39/section/4/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/39/schedule/3)

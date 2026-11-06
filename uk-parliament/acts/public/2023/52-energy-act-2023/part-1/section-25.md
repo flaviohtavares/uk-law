@@ -1,0 +1,51 @@
+---
+title: Energy Act 2023, section 25
+act: Energy Act 2023
+section: '25'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 25
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25. Determination of appeal by CMA: supplementary[^key-e9462d3ca035a0f424cefcc9127fe61e]
+
+*Extent: E+W+S+N.I.*
+
+(1) A determination by the CMA on an appeal—
+
+- (a) must be contained in an order made by the CMA;
+- (b) must set out the reasons for the determination;
+- (c) takes effect at the time—
+  - (i) specified in the order, or
+  - (ii) determined in accordance with provision made in the order;
+- (d) must be notified by the CMA to the parties to the appeal;
+- (e) must be published by the CMA—
+  - (i) as soon as reasonably practicable after the determination is made;
+  - (ii) in such manner as the CMA considers appropriate for the purpose of bringing the determination to the attention of any person likely to be affected by it (other than a party to the appeal).
+
+(2) The CMA may exclude from publication under subsection (1)(e) any information which it is satisfied is—
+
+- (a) commercial information, the disclosure of which would, or might in the CMA’s opinion, significantly harm the legitimate business interests of an undertaking to which it relates, or
+- (b) information relating to the private affairs of an individual, the disclosure of which would, or might in the CMA’s opinion, significantly harm the individual’s interests.
+
+(3) The economic regulator must take such steps as it considers necessary for it to comply with an order of the CMA made by virtue of subsection (1)(a).
+
+(4) The steps must be taken—
+
+- (a) if a time is specified in (or is to be determined in accordance with) the order, within that time;
+- (b) in any other case, within a reasonable time.
+
+(5) Subsections (2) to (4) of section 14 (consequences of modification of standard conditions) apply where a condition of a licence is modified in accordance with section 23 as they apply where a condition of a licence is modified under section 13.
+
+## Annotations
+
+[^key-e9462d3ca035a0f424cefcc9127fe61e]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/52/section/25) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

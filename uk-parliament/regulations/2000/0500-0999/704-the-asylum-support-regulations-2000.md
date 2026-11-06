@@ -1,0 +1,823 @@
+---
+title: The Asylum Support Regulations 2000
+id: uksi/2000/704
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-03-06'
+text_date: '2026-03-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2000/704
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/704/pdfs/uksi_20000704_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/704/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Asylum Support Regulations 2000
+
+> Text as at 2026-03-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2000 No. 704
+
+IMMIGRATION
+
+The Asylum Support Regulations 2000
+
+Made
+
+6th March 2000
+
+Laid before Parliament
+
+13th March 2000
+
+Coming into force
+
+3rd April 2000
+
+The Secretary of State, in exercise of the powers conferred on him by sections 94, 95, 97, 114, 166 and 167 of and Schedule 8 to the Immigration and Asylum Act 1999[^f00001], hereby makes the following Regulations:
+
+## General
+
+### 1. Citation and commencement[^key-13ee7ea3815e364535a12fb8f73c54c4]
+
+These Regulations may be cited as the Asylum Support Regulations 2000 and shall come into force on 3rd April 2000.
+
+### 2. Interpretation[^key-e06923cde377d33f4a81538801154347]
+
+(1) In these Regulations—
+
+- “the Act” means the Immigration and Asylum Act 1999;
+- “asylum support” means support provided under section 95 of the Act;
+- “cohabiting couple” means two people who, though not married to, or civil partners of, each other, are living together as if they were a married couple or civil partners;[^key-e77cdee518be468509dd6e336f02af70]
+- [^key-b1bb5421226647f14d863eb651dc56d9]...
+- “dependant” has the meaning given by paragraphs (4) and (5);
+- “the interim Regulations” means the Asylum Support (Interim Provisions) Regulations 1999[^f00002];
+- [^key-b1bb5421226647f14d863eb651dc56d9]...
+- [^key-b1bb5421226647f14d863eb651dc56d9]...
+- [^key-b1bb5421226647f14d863eb651dc56d9]...
+
+(2)[^key-039b53112ca79fa011efb2c23a5826a3] The period prescribed under section 94(3) of the Act (day on which a claim for asylum is determined) for the purposes of Part VI of the Act is 28 days where paragraph (2A) applies, and 21 days in any other case.
+
+(2A) This paragraph applies where:
+
+- (a) the Secretary of State notifies the claimant that his decision is to accept the asylum claim;
+- (b) the Secretary of State notifies the claimant that his decision is to reject the asylum claim but at the same time notifies him that he is giving him limited leave to enter or remain in the United Kingdom; or
+- (c) an appeal by the claimant against the Secretary of State’s decision has been disposed of by being allowed.
+
+(3) Paragraph (2) does not apply in relation to a case to which the interim Regulations apply (for which case, provision corresponding to paragraph (2) is made by regulation 2(6) of those Regulations).
+
+(4) In these Regulations “dependant”, in relation to an asylum-seeker, a supported person or an applicant for asylum support, means, subject to paragraph (5), a person in the United Kingdom (“the relevant person”) who—
+
+- (a) is his spouse or civil partner[^key-69ac9e68e2716fa18d4df3eb091bf379];
+- (b) is a child of his or of his spouse or civil partner[^key-d0e3fedf6f574ea1973f3874149e3ccd], is dependant on him and is, or was at the relevant time, under 18;
+- (c) is a member of his or his spouse’s or civil partner's[^key-15eb3a0945c892527459f1d330a5e0aa] close family and is, or was at the relevant time, under 18;
+- (d) had been living as part of his household—
+  - (i) for at least six of the twelve months before the relevant time, or
+  - (ii) since birth,
+
+  and is, or was at the relevant time, under 18;
+- (e) is in need of care and attention from him or a member of his household by reason of a disability and would fall within sub-paragraph (c) or (d) but for the fact that he is not, and was not at the relevant time, under 18;
+- (f) had been living with him as a member of an cohabiting couple[^key-6920f1fb307d78f401fa9522ad8a287a] for at least two of the three years before the relevant time;
+- (fa)[^key-8a3efa9c5113e0d9752b11547509ee49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) is living as part of his household and was, immediately before 6th December 1999 (the date when the interim Regulations came into force), receiving assistance from a local authority under section 17 of the Children Act 1989[^f00003];
+- (h) is living as part of his household and was, immediately before the coming into force of these Regulations, receiving assistance from a local authority under—
+  - (i) section 22 of the Children (Scotland) Act 1995[^f00004]; or
+  - (ii) Article 18 of the Children (Northern Ireland) Order 1995[^f00005]; or
+- (i) has made a claim for leave to enter or remain in the United Kingdom, or for variation of any such leave, which is being considered on the basis that he is dependant on the asylum-seeker;
+
+and in relation to a supported person, or an applicant for asylum support, who is himself a dependant of an asylum-seeker, also includes the asylum-seeker if in the United Kingdom.
+
+(5) Where a supported person or applicant for asylum support is himself a dependant of an asylum-seeker, a person who would otherwise be a dependant of the supported person, or of the applicant, for the purposes of these Regulations is not such a dependant unless he is also a dependant of the asylum-seeker or is the asylum-seeker.
+
+(6) In paragraph (4), “the relevant time”, in relation to the relevant person, means—
+
+- (a) the time when an application for asylum support for him was made in accordance with regulation 3(3); or
+- (b) if he has joined a person who is already a supported person in the United Kingdom and sub-paragraph (a) does not apply, the time when he joined that person in the United Kingdom.
+
+(7) Where a person, by falling within a particular category in relation to an asylum-seeker or supported person, is by virtue of this regulation a dependant of the asylum-seeker or supported person for the purposes of these Regulations, that category is also a prescribed category for the purposes of paragraph (c) of the definition of “dependant” in section 94(1) of the Act and, accordingly, the person is a dependant of the asylum-seeker or supported person for the purposes of Part VI of the Act.
+
+(8) Paragraph (7) does not apply to a person who is already a dependant of the asylum-seeker or supported person for the purposes of Part VI of the Act because he falls within either of the categories mentioned in paragraphs (a) and (b) of the definition of “dependant” in section 94(1) of the Act.
+
+(9) Paragraph (7) does not apply for the purposes of any reference to a “dependant” in Schedule 9 to the Act.
+
+## Initial application for support
+
+### 3. Initial application for support: individual and group applications[^key-0e446126940ebe25ab78484be3098543]
+
+(1) Either of the following—
+
+- (a) an asylum-seeker, or
+- (b) a dependant of an asylum-seeker,
+
+may apply to the Secretary of State for asylum support.
+
+(2) An application under this regulation may be—
+
+- (a) for asylum support for the applicant alone; or
+- (b) for asylum support for the applicant and one or more dependants of his.
+
+(3) The application must be made by completing in full and in English the form for the time being issued by the Secretary of State for the purpose [^key-7da9bbb805ea2f6baa4dd3cfe392cbff]....
+
+(4)[^key-6170219a21c80d878f533c70ea92ce91] The application may not be entertained by the Secretary of State—
+
+- (a) where it is made otherwise than in accordance with paragraph (3); or
+- (b) where the Secretary of State is not satisfied that the information provided is complete or accurate or that the applicant is co-operating with enquiries made under paragraph (5).
+
+(5) The Secretary of State may make further enquiries of the applicant about any matter connected with the application.
+
+(5A)[^key-8062c75bfd96bee156365b91bfb129b5] Where the Secretary of State makes further enquiries under paragraph (5) the applicant shall reply to those enquiries within five working days of his receipt of them.
+
+(5B) The Secretary of State shall be entitled to conclude that the applicant is not co-operating with his enquiries under paragraph (5) if he fails, without reasonable excuse, to reply within the period prescribed by paragraph (5A).
+
+(5C) In cases where the Secretary of State may not entertain an application for asylum support he shall also discontinue providing support under section 98 of the Act.
+
+(6) Paragraphs (3) and (4) do not apply where a person is already a supported person and asylum support is sought for a dependant of his for whom such support is not already provided (for which case, provision is made by regulation 15).
+
+(7)[^key-20a93e6b5f17e06781a958425f184d63] For the purposes of this regulation, working day means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under section 1 of the Banking and Financial Dealings Act 1971 in the locality in which the applicant is living.
+
+### 4. Persons excluded from support[^key-b855ebbc4129c60b8ee801606bdfbfc3]
+
+(1) The following circumstances are prescribed for the purposes of subsection (2) of section 95 of the Act as circumstances where a person who would otherwise fall within subsection (1) of that section is excluded from that subsection (and, accordingly, may not be provided with asylum support).
+
+(2) A person is so excluded if he is applying for asylum support for himself alone and he falls within paragraph (4) by virtue of any sub-paragraph of that paragraph.
+
+(3) A person is so excluded if—
+
+- (a) he is applying for asylum support for himself and other persons, or he is included in an application for asylum support made by a person other than himself;
+- (b) he falls within paragraph (4) (by virtue of any sub-paragraph of that paragraph); and
+- (c) each of the other persons to whom the application relates also falls within paragraph (4) (by virtue of any sub-paragraph of that paragraph).
+
+(4) A person falls within this paragraph if at the time when the application is determined—
+
+- (a) he is a person to whom interim support applies; or
+- (b) he is a person to whom social security benefits apply; or
+- (c) he has not made a claim for leave to enter or remain in the United Kingdom, or for variation of any such leave, which is being considered on the basis that he is an asylum-seeker or dependent on an asylum-seeker ; or[^key-3b06be70eb32feaaad4de0b87197e77d]
+- (d) he is a national of a member State who has made a claim for asylum, except where that claim for asylum is accepted as admissible (see section 80A of the Nationality, Immigration and Asylum Act 2002)[^key-4cf8a31f4b6eb6ab04fc00ba49e9f7a7]; or
+- (e) he is the dependant of a person to whom sub-paragraph (d) applies.
+
+(5) For the purposes of paragraph (4), interim support applies to a person if—
+
+- (a) at the time when the application is determined, he is a person to whom, under the interim Regulations, support under regulation 3 of those Regulations must be provided by a local authority;
+- (b) sub-paragraph (a) does not apply, but would do so if the person had been determined by the local authority concerned to be an eligible person; or
+- (c) sub-paragraph (a) does not apply, but would do so but for the fact that the person’s support under those Regulations was (otherwise than by virtue of regulation 7(1)(d) of those Regulations) refused under regulation 7, or suspended or discontinued under regulation 8, of those Regulations;
+
+and in this paragraph “local authority”, “local authority concerned” and “eligible person” have the same meanings as in the interim Regulations.
+
+(6) For the purposes of paragraph (4), a person is a person to whom social security benefits apply if he is—
+
+- (a) a person who by virtue of regulation 2 of the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000[^f00006] is not excluded by section 115(1) of the Act from entitlement to—
+  - (i) income-based jobseeker’s allowance under the Jobseekers Act 1995[^f00007]; [^key-e4bd75a1f0f9fb742a8781f75e8b6a2f]...
+  - (ii) income support, housing benefit or council tax benefit under the Social Security Contributions and Benefits Act 1992[^f00008];[^key-d6af58473aad67c8a9ffdf35b8851347]... *(Extent: E+W+S)*[^key-0530ea5ed354e350d278d0c08604a1ee]
+
+  *Extent: E+W+S*
+
+  - (iii) income-related employment and support allowance payable under Part 1 of the Welfare Reform Act 2007;or[^key-e761bae6d71784ede6b7e854916de442]
+  - (iv) universal credit under Part 1 of the Welfare Reform Act 2012 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015 *(Extent: N.I.)*[^key-bafb3e2ba3a16893b038f09354d433a7];
+- (b) a person who, by virtue of regulation 2 of the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000[^f00009] is not excluded by section 115(2) of the Act from entitlement to—
+  - (i) income-based jobseeker’s allowance under the Jobseekers (Northern Ireland) Order 1995[^f00010]; [^key-668315070c782982ba8e48ead8592894]...
+  - (ii) income support or housing benefit under the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00011];or *(Extent: N.I.)*[^key-593e91f1638706ec2aa9231b7f0328ca]
+
+  *Extent: N.I.*
+
+  - (iii) income-related employment and support allowance payable under Part 1 of the Welfare Reform Act (Northern Ireland) 2007.
+
+(7) A person is not to be regarded as falling within paragraph (2) or (3) if, when asylum support is sought for him, he is a dependant of a person who is already a supported person.
+
+(8) The circumstances prescribed by paragraphs (2) and (3) are also prescribed for the purposes of section 95(2), as applied by section 98(3), of the Act as circumstances where a person who would otherwise fall within subsection (1) of section 98 is excluded from that subsection (and, accordingly, may not be provided with temporary support under section 98).
+
+(9) For the purposes of paragraph (8), paragraphs (2) and (3) shall apply as if any reference to an application for asylum support were a reference to an application for support under section 98 of the Act.
+
+## Determining whether persons are destitute
+
+### 5. Determination where application relates to more than one person, etc.[^key-4771702783fbc074202b389fef056398]
+
+(1) Subject to paragraph (2), where an application in accordance with regulation 3(3) is for asylum support for the applicant and one or more dependants of his, in applying section 95(1) of the Act the Secretary of State must decide whether the applicant and all those dependants, taken together, are destitute or likely to become destitute within the period prescribed by regulation 7.
+
+(2) Where a person is a supported person, and the question falls to be determined whether asylum support should in future be provided for him and one or more other persons who are his dependants and are—
+
+- (a) persons for whom asylum support is also being provided when that question falls to be determined; or
+- (b) persons for whom the Secretary of State is then considering whether asylum support should be provided,
+
+in applying section 95(1) of the Act the Secretary of State must decide whether the supported person and all those dependants, taken together, are destitute or likely to become destitute within the period prescribed by regulation 7.
+
+### 6. Income and assets to be taken into account[^key-cad5fb2451f8a1158e63edd6cef25a68]
+
+(1) This regulation applies where it falls to the Secretary of State to determine for the purposes of section 95(1) of the Act whether—
+
+- (a) a person applying for asylum support, or such an applicant and any dependants of his, or
+- (b) a supported person, or such a person and any dependants of his,
+
+is or are destitute or likely to become so within the period prescribed by regulation 7.
+
+(2) In this regulation “the principal” means the applicant for asylum support (where paragraph (1)(a) applies) or the supported person (where paragraph (1)(b) applies).
+
+(3) The Secretary of State must ignore—
+
+- (a) any asylum support, and
+- (b) any support under section 98 of the Act,
+
+which the principal or any dependant of his is provided with or, where the question is whether destitution is likely within a particular period, might be provided with in that period.
+
+(4) But he must take into account—
+
+- (a) any other income which the principal, or any dependant of his, has or might reasonably be expected to have in that period;
+- (b) any other support which is available to the principal or any dependant of his, or might reasonably be expected to be so available in that period; and
+- (c) any assets mentioned in paragraph (5) (whether held in the United Kingdom or elsewhere) which are available to the principal or any dependant of his otherwise than by way of asylum support or support under section 98, or might reasonably be expected to be so available in that period.
+
+(5) Those assets are—
+
+- (a) cash;
+- (b) savings;
+- (c) investments;
+- (d) land;
+- (e) cars or other vehicles; and
+- (f) goods held for the purpose of a trade or other business.
+
+(6) The Secretary of State must ignore any assets not mentioned in paragraph (5).
+
+### 7. Period within which applicant must be likely to become destitute[^key-8afa9b06f4541484b0b26598e5555596]
+
+The period prescribed for the purposes of section 95(1) of the Act is—
+
+- (a) where the question whether a person or persons is or are destitute or likely to become so falls to be determined in relation to an application for asylum support and sub-paragraph (b) does not apply, 14 days beginning with the day on which that question falls to be determined;
+- (b) where that question falls to be determined in relation to a supported person, or in relation to persons including a supported person, 56 days beginning with the day on which that question falls to be determined.
+
+### 8. Adequacy of existing accommodation[^key-655609467067d84e5160c881819ebe98]
+
+(1) Subject to paragraph (2), the matters mentioned in paragraph (3) are prescribed for the purposes of subsection (5)(a) of section 95 of the Act as matters to which the Secretary of State must have regard in determining for the purposes of that section whether the accommodation of—
+
+- (a) a person applying for asylum support, or
+- (b) a supported person for whom accommodation is not for the time being provided by way of asylum support,
+
+is adequate.
+
+(2) The matters mentioned in paragraph (3)(a) and (d) to (g) are not so prescribed for the purposes of a case where the person indicates to the Secretary of State that he wishes to remain in the accommodation.
+
+(3) The matters referred to in paragraph (1) are—
+
+- (a) whether it would be reasonable for the person to continue to occupy the accommodation;
+- (b) whether the accommodation is affordable for him;
+- (c) whether the accommodation is provided under section 98 of the Act, or otherwise on an emergency basis, only while the claim for asylum support is being determined;
+- (d) whether the person can secure entry to the accommodation;
+- (e) where the accommodation consists of a moveable structure, vehicle or vessel designed or adapted for human habitation, whether there is a place where the person is entitled or permitted both to place it and reside in it;
+- (f) whether the accommodation is available for occupation by the person’s dependants together with him;
+- (g) whether it is probable that the person’s continued occupation of the accommodation will lead to domestic violence against him or any of his dependants.
+
+(4) In determining whether it would be reasonable for a person to continue to occupy accommodation, regard may be had to the general circumstances prevailing in relation to housing in the district of the local housing authority where the accommodation is.
+
+(5) In determining whether a person’s accommodation is affordable for him, the Secretary of State must have regard to—
+
+- (a) any income, or any assets mentioned in regulation 6(5) (whether held in the United Kingdom or elsewhere), which is or are available to him or any dependant of his otherwise than by way of asylum support or support under section 98 of the Act, or might reasonably be expected to be so available;
+- (b) the costs in respect of the accommodation; and
+- (c) the person’s other reasonable living expenses.
+
+(6) In this regulation—
+
+- (a) “domestic violence” means violence from a person who is or has been a close family member, or threats of violence from such a person which are likely to be carried out; and
+- (b) “district of the local housing authority” has the meaning given by section 217(3) of the Housing Act 1996[^f00012].
+
+(7) The reference in paragraph (1) to subsection (5)(a) of section 95 of the Act does not include a reference to that provision as applied by section 98(3) of the Act.
+
+### 9. Essential living needs[^key-6484aa95ceb789ba1e6303a05f0ee845]
+
+(1) The matter mentioned in paragraph (2) is prescribed for the purposes of subsection (7)(b) of section 95 of the Act as a matter to which the Secretary of State may not have regard in determining for the purposes of that section whether a person’s essential living needs (other than accommodation) are met.
+
+(2) That matter is his personal preference as to clothing (but this shall not be taken to prevent the Secretary of State from taking into account his individual circumstances as regards clothing).
+
+(3) None of the items and expenses mentioned in paragraph (4) is to be treated as being an essential living need of a person for the purposes of Part VI of the Act.
+
+(4) Those items and expenses are—
+
+- (a) the cost of faxes;
+- (b) computers and the cost of computer facilities;
+- (c) the cost of photocopying;
+- (d) travel expenses, except the expense mentioned in paragraph (5);
+- (e) toys and other recreational items;
+- (f) entertainment expenses.
+
+(5) The expense excepted from paragraph (4)(d) is the expense of an initial journey from a place in the United Kingdom to accommodation provided by way of asylum support or (where accommodation is not so provided) to an address in the United Kingdom which has been notified to the Secretary of State as the address where the person intends to live.
+
+(6) Paragraph (3) shall not be taken to affect the question whether any item or expense not mentioned in paragraph (4) or (5) is, or is not, an essential living need.
+
+(7) The reference in paragraph (1) to subsection (7)(b) of section 95 of the Act includes a reference to that provision as applied by section 98(3) of the Act and, accordingly, the reference in paragraph (1) to “that section” includes a reference to section 98.
+
+## Provision of support
+
+### 10. Kind and levels of support for essential living needs[^key-b052821c7c801022838fd5c3b0798ef6]
+
+(1) This regulation applies where the Secretary of State has decided that asylum support should be provided in respect of the essential living needs of a person.
+
+(2)[^key-5b9300d3123bed98789f861835e80c53] As a general rule, asylum support in respect of the essential living needs of that person may be expected to be provided weekly in the form of a cash payment of £49.18[^key-cbd0904b87f73565cff4e580e85a34b8].
+
+(3)[^key-20e488cdcd0ca2937ceeccc74f10d9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^key-98de9752bcb6f65b71a18757e959c4a6] For the purposes of paragraph (1)[^key-aa05258ff7b3b1d93fdd492488bacfb8], a decision to grant support is made on the date recorded on the letter granting asylum support to the applicant.
+
+(4)[^key-e23c028f0a4e2834fce204689106aaf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where the Secretary of State has decided that accommodation should be provided for a person [^key-4f3b92479839f709262d8cf5da98def4]... by way of asylum support, and the accommodation is provided in a form which also meets other essential living needs (such as bed and breakfast, or half or full board), the amount specified[^key-4120ac8a492e4b00e070a650690819a3] in paragraph (2) shall be treated as reduced accordingly.
+
+(6)[^key-a3e4e9bdd2b7b9378e8a6741bcd046e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10A. Additional support for pregnant women and children under 4[^key-4cf77f47a884de07225b7181aaac81be][^key-10c4f468b512d853e30d41055aeae2ee]
+
+(1) In addition to the cash support which the Secretary of State may be expected to provide weekly as[^key-19291bafc035be66a5e7c7c88185e825] described in regulation 10(2), in the case of any pregnant woman or child aged under 4[^key-39d191692cc62adfef367deaec8ef4f4] for whom the Secretary of State has decided asylum support should be provided, there shall, as a general rule, be added to the cash support[^key-424ad0e7aef3e38aa902032c264d9675] for any week the amount shown in the second column of the following table opposite the entry in the first column which for the time being describes that person.
+
+TABLE
+
+|  |  |
+| --- | --- |
+| Pregnant woman | £5.25[^key-61ef1f6f021890fb0f9cfbe7b891cb2c] |
+| Child aged under 1 | £9.50[^key-8027338f2723e4cc3a460865729edc80] |
+| Child aged at least 1 and under 4 | £5.25 |
+
+(2) In this regulation, “pregnant woman” means a woman who has provided evidence to satisfy the Secretary of State that she is pregnant.
+
+### 11. Additional single payments in respect of essential living needs[^key-693126e45b69451b68a84a406c4d8051]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Income and assets to be taken into account in providing support[^key-f9706ceff2a3593ee194be6d9c02bc87]
+
+(1) This regulation applies where it falls to the Secretary of State to decide the level or kind of asylum support to be provided for—
+
+- (a) a person applying for asylum support, or such an applicant and any dependants of his; or
+- (b) a supported person, or such a person and any dependants of his.
+
+(2) In this regulation “the principal” means the applicant for asylum support (where paragraph (1)(a) applies) or the supported person (where paragraph (1)(b) applies).
+
+(3) The Secretary of State must take into account—
+
+- (a) any income which the principal or any dependant of his has or might reasonably be expected to have,
+- (b) support which is or might reasonably be expected to be available to the principal or any dependant of his, and
+- (c) any assets mentioned in regulation 6(5) (whether held in the United Kingdom or elsewhere) which are or might reasonably be expected to be available to the principal or any dependant of his,
+
+otherwise than by way of asylum support.
+
+### 13. Accommodation[^key-a27d2c6e966761a30f997211bdab9cfe]
+
+(1) The matters mentioned in paragraph (2) are prescribed for the purposes of subsection (2)(b) of section 97 of the Act as matters to which regard may not be had when exercising the power under section 95 of the Act to provide accommodation for a person.
+
+(2) Those matters are—
+
+- (a) his personal preference as to the nature of the accommodation to be provided; and
+- (b) his personal preference as to the nature and standard of fixtures and fittings;
+
+but this shall not be taken to prevent the person’s individual circumstances, as they relate to his accommodation needs, being taken into account.
+
+### 14. Services[^key-d3aaf8f318dc444ef7bedbf2ebd795c8]
+
+(1) The services mentioned in pararaph (2) may be provided or made available by way of asylum support to persons who are otherwise receiving such support, but may be so provided only for the purpose of maintaining good order among such persons.
+
+(2) Those services are—
+
+- (a) education, including English language lessons,
+- (b) sporting or other developmental activities.
+
+## Change of circumstances
+
+### 15. Change of circumstances[^key-963edf01cd269a21a2b3ffa731e05dcc]
+
+(1) If a relevant change of circumstances occurs, the supported person concerned or a dependant of his must, without delay, notify the Secretary of State of that change of circumstances.
+
+(2) A relevant change of circumstances occurs where a supported person or a dependant of his—
+
+- (a) is joined in the United Kingdom by a dependant or, as the case may be, another dependant, of the supported person;
+- (b) receives or gains access to any money, or other asset mentioned in regulation 6(5), that has not previously been declared to the Secretary of State;
+- (c) becomes employed;
+- (d) becomes unemployed;
+- (e) changes his name;
+- (f) gets married;
+- (fa)[^key-cf4441bd9deb1330f244dded5133a4e1] forms a civil partnership;
+- (g) starts living with a person as if married to , or the civil partner of,[^key-43b921d82bfef32da2196af484f93483] that person;
+- (ga)[^key-51bb86d5325bac124d5cacf592f08210] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) gets divorced;
+- (ha)[^key-46f701668836d3904d8730b6b09ba885] becomes a former civil partner on the dissolution of his civil partnership;
+- (i) separates from a spouse or civil partner[^key-519db499fed30a4d1f975ff21bfdba10], or from a person with whom he has been living as if married to , or the civil partner of,[^key-7a015b51d780c4301f41766697d30d90] that person;
+- (ia)[^key-645ff4a528ac6f579e8c73ebca0019f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j) becomes pregnant;
+- (k) has a child;
+- (l) leaves school;
+- (m) starts to share his accommodation with another person;
+- (n) moves to a different address, or otherwise leaves his accommodation;
+- (o) goes into hospital;
+- (p) goes to prison or is otherwise held in custody;
+- (q) leaves the United Kingdom; or
+- (r) dies.
+
+(3) If, on being notified of a change of circumstances, the Secretary of State considers that the change may be one—
+
+- (a) as a result of which asylum support should be provided for a person for whom it was not provided before, or
+- (b) as a result of which asylum support should no longer be provided for a person, or
+- (c) which may otherwise affect the asylum support which should be provided for a person,
+
+he may make further enquiries of the supported person or dependant who gave the notification.
+
+(4) The Secretary of State may, in particular, require that person to provide him with such information as he considers necessary to determine whether, and if so, what, asylum support should be provided for any person.
+
+## Contributions
+
+### 16. Contributions[^key-99ef9f287540e4235fca775a9779887e]
+
+(1) This regulation applies where, in deciding the level of asylum support to be provided for a person who is or will be a supported person, the Secretary of State is required to take into account income, support or assets as mentioned in regulation 12(3).
+
+(2) The Secretary of State may—
+
+- (a) set the asylum support for that person at a level which does not reflect the income, support or assets; and
+- (b) require from that person payments by way of contributions towards the cost of the provision for him of asylum support.
+
+(3) A supported person must make to the Secretary of State such payments by way of contributions as the Secretary of State may require under paragraph (2).
+
+(4) Prompt payment of such contributions may be made a condition (under section 95(9) of the Act) subject to which asylum support for that person is provided.
+
+## Recovery of sums by Secretary of State
+
+### 17. Recovery where assets become realisable[^key-05e5969da2bdca4de4651af978aca99f]
+
+(1) This regulation applies where it appears to the Secretary of State at any time (the relevant time)—
+
+- (a) that a supported person had, at the time when he applied for asylum support, assets of any kind in the United Kingdom or elsewhere which were not capable of being realised; but
+- (b) that those assets have subsequently become, and remain, capable of being realised.
+
+(2) The Secretary of State may recover from that person a sum not exceeding the recoverable sum.
+
+(3) Subject to paragraph (5), the recoverable sum is a sum equal to whichever is the less of—
+
+- (a) the monetary value of all the asylum support provided to the person up to the relevant time; and
+- (b) the monetary value of the assets concerned.
+
+(4) As well as being recoverable as mentioned in paragraph 11(2)(a) of Schedule 8 to the Act, an amount recoverable under this regulation may be recovered by deduction from asylum support.
+
+(5) The recoverable sum shall be treated as reduced by any amount which the Secretary of State has by virtue of this regulation already recovered from the person concerned (whether by deduction or otherwise) with regard to the assets concerned.
+
+### 17A. Recovery of asylum support[^key-1c0d192c7b97c184d69eaa29c91e65c3]
+
+(1) The Secretary of State may require a supported person to refund asylum support if it transpires that at any time during which asylum support was being provided for him he was not destitute.
+
+(2) If a supported person has dependants, the Secretary of State may require him to refund asylum support if it transpires that at any time during which asylum support was being provided for the supported person and his dependants they were not destitute.
+
+(3) The refund required shall not exceed the monetary value of all the asylum support provided to the supported person or to the supported person and his dependants for the relevant period.
+
+(4) In this regulation the relevant period is the time during which asylum support was provided for the supported person or the supported person and his dependants and during which he or they were not destitute.
+
+(5) If not paid within a reasonable period, the refund required may be recovered from the supported person as if it were a debt due to the Secretary of State.
+
+### 18. Overpayments: method of recovery[^key-0eb2a8c548d69f11afebedd530fd1d6d]
+
+As well as being recoverable as mentioned in subsection (3) of section 114 of the Act, an amount recoverable under subsection (2) of that section may be recovered by deduction from asylum support.
+
+## Breach of conditions and suspension and discontinuation of support
+
+### 19. Breach of conditions: decision whether to provide support[^key-7d3a79df3d7ad705fc44298f099cf1d6]
+
+(1) When deciding—
+
+- (a) whether to provide, or to continue to provide, asylum support for any person or persons, or
+- (b) the level or kind of support to be provided for any person or persons,
+
+the Secretary of State may take into account the extent to which a[^key-32fc9ea72ce6f9ef27a4f76b80ab0b4f] relevant condition has been complied with.
+
+(2)[^key-3ba118bdc1179e623b385bbbbd789c0c] A relevant condition is one which makes the provision of asylum support subject to actual residence by the supported person or a dependant of his for whom support is being provided in a specific place or location.
+
+### 20. Suspension or discontinuation of support[^key-b631d9a373f954099136ef9301eecdee][^key-6e9ba4cbc9d117496965e8fa87cfff11]
+
+(1) Asylum support for a supported person and any dependant of his or for one or more dependants of a supported person may be suspended or discontinued if—
+
+- (a) support is being provided for the supported person or a dependant of his in collective accommodation and the Secretary of State has reasonable grounds to believe that the supported person or his dependant has committed a serious breach of the rules of that accommodation;
+- (b) the Secretary of State has reasonable grounds to believe that the supported person or a dependant of his for whom support is being provided has committed an act of seriously violent behaviour whether or not that act occurs in accommodation provided by way of asylum support or at the authorised address or elsewhere;
+- (c) the supported person or a dependant of his has committed an offence under Part VI of the Act;
+- (d) the Secretary of State has reasonable grounds to believe that the supported person or any dependant of his for whom support is being provided has abandoned the authorised address without first informing the Secretary of State or, if requested, without permission;
+- (e) the supported person has not complied within a reasonable period, which shall be no less than five working days beginning with the day on which the request was received by him, with requests for information made by the Secretary of State and which relate to the supported person’s or his dependant’s eligibility for or receipt of asylum support including requests made under regulation 15;
+- (f) the supported person fails, without reasonable excuse, to attend an interview requested by the Secretary of State relating to the supported person’s or his dependant’s eligibility for or receipt of asylum support;
+- (g) the supported person or, if he is an asylum seeker, his dependant, has not complied within a reasonable period, which shall be no less than ten working days beginning with the day on which the request was received by him, with a request for information made by the Secretary of State relating to his claim for asylum;
+- (h) the Secretary of State has reasonable grounds to believe that the supported person or a dependant of his for whom support is being provided has concealed financial resources and that the supported person or a dependant of his or both have therefore unduly benefited from the receipt of asylum support;
+- (i) the supported person or a dependant of his for whom support is being provided has not complied with a reporting requirement;
+- (j) the Secretary of State has reasonable grounds to believe that the supported person or a dependant of his for whom support is being provided has made a claim for asylum (“the first claim”) and before the first claim has been determined makes or seeks to make a further claim for asylum not being part of the first claim in the same or a different name; [^key-9b23afb5a97f6d9115e4d370437a4487]...
+- (k) the supported person or a dependant of his for whom support is being provided has failed without reasonable excuse to comply with a relevant condition; or[^key-ae6c075cad1db66fa401a35cb7a72f75]
+- (l)[^key-6eaf02434dafcca25850dc723d895cba] the Secretary of State has reasonable grounds to believe that the supported person or a dependant of his for whom support is being provided has worked at a time when he was disqualified from working by reason of his immigration status.
+
+(2) If a supported person is asked to attend an interview of the type referred to in paragraph (1)(f) he shall be given no less than five working days notice of it.
+
+(3) Any decision to discontinue support in the circumstances referred to in paragraph (1) above shall be taken individually, objectively and impartially and reasons shall be given. Decisions will be based on the particular situation of the person concerned and particular regard shall be had to whether he is a vulnerable person as described by Article 17 of Council Directive [2003/9/EC](https://www.legislation.gov.uk/european/directive/2003/0009) of 27th January 2003 laying down minimum standards for the reception of asylum seekers.
+
+(4) No person’s asylum support shall be discontinued before a decision is made under paragraph (1).
+
+(5) Where asylum support for a supported person or his dependant is suspended or discontinued under paragraph (1)(d) or (i) and the supported person or his dependant are traced or voluntarily report to the police, the Secretary of State or an immigration officer, a duly motivated decision based on the reasons for the disappearance shall be taken as to the reinstatement of some or all of the supported person’s or his dependant’s or both of their asylum support.
+
+(6) For the purposes of this regulation—
+
+- (a) the authorised address is—
+  - (i) the accommodation provided for the supported person and his dependants (if any) by way of asylum support; or
+  - (ii) if no accommodation is so provided, the address notified by the supported person to the Secretary of State in his application for asylum support or, where a change of address has been notified to the Secretary of State under regulation 15 or under the Immigration Rules or both, the address for the time being so notified;
+- (b) “collective accommodation” means accommodation which a supported person or any dependant of his for whom support is being provided shares with any other supported person and includes accommodation in which only facilities are shared;
+- (c) “relevant condition” has the same meaning as in regulation 19(2);
+- (d) “reporting requirement” is a condition imposed under paragraph 2(1)(a) of Schedule 10 to the Immigration Act 2016, that is to say a condition of immigration bail requiring a person to report to the Secretary of State or such other person as may be specified[^key-5a8afd1dc7ae530152af0f713ce2a46e];
+- (e) “working day” has the same meaning as in regulation 3(7) save that the reference to the applicant shall be a reference to the supported person or his dependant;[^key-be3c9812a0b58c4ddc8f8779c1354c0b]
+- (f)[^key-763a188b81be3e2f84ab5470784a40fb] a person is disqualified from working by reason of his immigration status if he is so disqualified within the meaning given by section 24B(2) of the Immigration Act 1971 (illegal working).
+
+### 20A. Temporary Support[^key-002cb2b32be6125248cda6b706df191d]
+
+Regulations 19 and 20 shall apply to a person or his dependant who is provided with temporary support under section 98 of the Act in the same way as they apply to a person and his dependant who is in receipt of asylum support and any reference to asylum support in regulations 19 and 20 shall include a reference to temporary support under section 98.
+
+### 21. Effect of previous suspension or discontinuation[^key-4b14124551d9d28e4312ce6d8c8e2d6d]
+
+(1) Subject to regulation 20(5) where—[^key-cb1c4d0f98928c721785de966e72ab9c]
+
+- (a) an application for asylum support is made,
+- (b) the applicant or any other person to whom the application relates has previously had his asylum support suspended or discontinued under regulation 20, and
+- (c) there has been no material change of circumstances since the suspension or discontinuation,
+
+the application need not be entertained unless the Secretary of State considers that there are exceptional circumstances which justify its being entertained.
+
+(2) A material change of circumstances is one which, if the applicant were a supported person, would have to be notified to the Secretary of State under regulation 15.
+
+(3) This regulation is without prejudice to the power of the Secretary of State to refuse the application even if he has entertained it.
+
+## Notice to quit
+
+### 22. Notice to quit[^key-902259f6613964ba4839c4194c739f3d]
+
+(1) If—
+
+- (a) as a result of asylum support, a person has a tenancy or licence to occupy accommodation,
+- (b) one or more of the conditions mentioned in paragraph (2) is satisfied, and
+- (c) he is given notice to quit in accordance with paragraph (3) or (4),
+
+his tenancy or licence is to be treated as ending with the period specified in that notice, regardless of when it could otherwise be brought to an end.
+
+(2) The conditions are that—
+
+- (a) the asylum support is suspended or discontinued as a result of any provision of regulation 20;
+- (b) the relevant claim for asylum has been determined;
+- (c) the supported person has ceased to be destitute; or
+- (d) he is to be moved to other accommodation.
+
+(3) A notice to quit is in accordance with this paragraph if it is in writing and—
+
+- (a) in a case where sub-paragraph (a), (c) or (d) of paragraph (2) applies, specifies as the notice period a period of not less than seven days; or
+- (b) in a case where the Secretary of State has notified his decision on the relevant claim for asylum to the claimant, specifies as the notice period a period at least as long as whichever is the greater of—
+  - (i) seven days; or
+  - (ii) the period beginning with the date of service of the notice to quit and ending with the date of determination of the relevant claim for asylum (found in accordance with section 94(3) of the Act).
+
+(4) A notice to quit is in accordance with this paragraph if—
+
+- (a) it is in writing;
+- (b) it specifies as the notice period a period of less than seven days; and
+- (c) the circumstances of the case are such that that notice period is justified.
+
+## Meaning of “destitute” for certain other purposes
+
+### 23. Meaning of “destitute” for certain other purposes[^key-cc8d0da390edff7a189ec2dac1fffbe5]
+
+(1) In this regulation “the relevant enactments” means—
+
+- (a) section 21(1A) of the National Assistance Act 1948[^f00013];
+- (b) section 45(4A) of the Health Services and Public Health Act 1968[^f00014];
+- (c) paragraph 2(2A) of Schedule 8 to the National Health Service Act 1977[^f00015];
+- (ca)[^key-b28b6722069beefb912643f588c629fa] section 21(1) of the Care Act 2014 (exception for persons subject to immigration control);
+- (d) sections 12(2A), 13A(4) and 13B(3) of the Social Work (Scotland) Act 1968[^f00016];
+- (e) article 14 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005[^key-0af20937109ae73af155d8976fdff539]; and
+- (f) Articles 7(3) and 15(6) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00018].
+
+(2) The following provisions of this regulation apply where it falls to an authority, or the Department, to determine for the purposes of any of the relevant enactments whether a person is destitute.
+
+(3) Paragraphs (3) to (6) of regulation 6 apply as they apply in the case mentioned in paragraph (1) of that regulation, but as if references to the principal were references to the person whose destitution or otherwise is being determined and references to the Secretary of State were references to the authority or (as the case may be) Department.
+
+(4) The matters mentioned in paragraph (3) of regulation 8 (read with paragraphs (4) to (6) of that regulation) are prescribed for the purposes of subsection (5)(a) of section 95 of the Act, as applied for the purposes of any of the relevant enactments, as matters to which regard must be had in determining for the purposes of any of the relevant enactments whether a person’s accommodation is adequate.
+
+(5) The matter mentioned in paragraph (2) of regulation 9 is prescribed for the purposes of subsection (7)(b) of section 95 of the Act, as applied for the purposes of any of the relevant enactments, as a matter to which regard may not be had in determining for the purposes of any of the relevant enactments whether a person’s essential living needs (other than accommodation) are met.
+
+(6) Paragraphs (3) to (6) of regulation 9 shall apply as if the reference in paragraph (3) to Part VI of the Act included a reference to the relevant enactments.
+
+(7) The references in regulations 8(5) and 9(2) to the Secretary of State shall be construed, for the purposes of this regulation, as references to the authority or (as the case may be) Department.
+
+Barbara Roche
+
+Minister of State
+
+Home Office
+
+6th March 2000
+
+## SCHEDULE — APPLICATION FORM AND NOTES[^key-cdf463dca8676dfb9eec46f130dd5725]
+
+**No longer in force.**
+
+Regulation 3(3)
+
+[^key-cdf463dca8676dfb9eec46f130dd5725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note is not part of the Regulations)
+
+These Regulations make provision supplementing Part VI of the Immigration and Asylum Act 1999. They have the effect that support is to be available to asylum-seekers and their dependants who apply in accordance with the Regulations and appear to the Secretary of State to be destitute, or to be likely to become destitute within 14 days of the application being considered. The Regulations define who is a “dependant” of an asylum-seeker for these purposes and set out the matters to be taken into account in deciding whether a person, or family group, is destitute. They also set out what support can be expected to be provided to a successful applicant: this will generally take the form of accommodation, provision for other essential living needs or both accommodation and such provision. The provision for essential living needs will be in the form of vouchers redeemable for goods, services and not more than £10 cash per person per week.
+
+The Regulations make provision for the notification of the Secretary of State when changes of circumstances occur that may affect the support to be provided. They enable the Secretary of State to require contributions towards the cost of providing support in some cases, and to recover sums; they also set out cases where support can be suspended or discontinued, and make provision for bringing tenancies to an end. In addition, they make provision whereby “destitute” in certain related legislation has the same meaning as it has for the purposes of asylum support.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-13ee7ea3815e364535a12fb8f73c54c4]: Commencement: Reg. 1 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-e06923cde377d33f4a81538801154347]: Commencement: Reg. 2 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-e77cdee518be468509dd6e336f02af70]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 56(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/56/2/a/ii)
+
+[^key-b1bb5421226647f14d863eb651dc56d9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/1) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 56(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/56/2/a/i)
+
+[^f00002]: Footnote: S.I. [1999/3056](https://www.legislation.gov.uk/uksi/1999/3056).
+
+[^key-039b53112ca79fa011efb2c23a5826a3]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/2)[(2A)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/2A) substituted for [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/2) (8.4.2002) by [The Asylum Support (Amendment) Regulations 2002 (S.I. 2002/472)](https://www.legislation.gov.uk/uksi/2002/472), [regs. 1](https://www.legislation.gov.uk/uksi/2002/472/regulation/1), [3](https://www.legislation.gov.uk/uksi/2002/472/regulation/3)
+
+[^key-69ac9e68e2716fa18d4df3eb091bf379]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/4/a) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 13 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/paragraph/2/3/a)
+
+[^key-d0e3fedf6f574ea1973f3874149e3ccd]: Textual amendment: Words in [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/4/b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 13 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/paragraph/2/3/b)
+
+[^key-15eb3a0945c892527459f1d330a5e0aa]: Textual amendment: Words in [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/4/c) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 13 para. 2(3)(c)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/paragraph/2/3/c)
+
+[^key-6920f1fb307d78f401fa9522ad8a287a]: Textual amendment: Words in [reg. 2(4)(f)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/4/f) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 56(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/56/2/b/i)
+
+[^key-8a3efa9c5113e0d9752b11547509ee49]: Textual amendment: [Reg. 2(4)(fa)](https://www.legislation.gov.uk/uksi/2000/704/regulation/2/4/fa) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 56(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/56/2/b/ii)
+
+[^f00003]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00004]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^f00005]: Footnote: S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
+
+[^key-0e446126940ebe25ab78484be3098543]: Commencement: Reg. 3 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-7da9bbb805ea2f6baa4dd3cfe392cbff]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2000/704/regulation/3/3) revoked (9.4.2007) by [The Asylum Support (Amendment) Regulations 2007 (S.I. 2007/863)](https://www.legislation.gov.uk/uksi/2007/863), [regs. 1](https://www.legislation.gov.uk/uksi/2007/863/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/863/regulation/2)
+
+[^key-6170219a21c80d878f533c70ea92ce91]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2000/704/regulation/3/4) substituted (8.1.2003) by [The Asylum Support (Amendment) (No. 3) Regulations 2002 (S.I. 2002/3110)](https://www.legislation.gov.uk/uksi/2002/3110), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3110/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/3110/regulation/2)
+
+[^key-8062c75bfd96bee156365b91bfb129b5]: Textual amendment: [Reg. 3(5A)-(5C)](https://www.legislation.gov.uk/uksi/2000/704/regulation/3/5A) inserted (5.2.2005) by [The Asylum Support (Amendment) Regulations 2005 (S.I. 2005/11)](https://www.legislation.gov.uk/uksi/2005/11), [regs. 1](https://www.legislation.gov.uk/uksi/2005/11/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2005/11/regulation/3/a)
+
+[^key-20a93e6b5f17e06781a958425f184d63]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/uksi/2000/704/regulation/3/7) inserted (5.2.2005) by [The Asylum Support (Amendment) Regulations 2005 (S.I. 2005/11)](https://www.legislation.gov.uk/uksi/2005/11), [regs. 1](https://www.legislation.gov.uk/uksi/2005/11/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2005/11/regulation/3/b)
+
+[^key-b855ebbc4129c60b8ee801606bdfbfc3]: Commencement: Reg. 4 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-3b06be70eb32feaaad4de0b87197e77d]: Textual amendment: [Reg. 4(4)(d)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/4/d)[(e)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/4/e) and word inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [12(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/12/2)
+
+[^key-4cf8a31f4b6eb6ab04fc00ba49e9f7a7]: Textual amendment: Words in [reg. 4(4)(d)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/4/d) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/15/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/14) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/3))
+
+[^f00006]: Footnote: S.I. [2000/636](https://www.legislation.gov.uk/uksi/2000/636).
+
+[^f00007]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^key-e4bd75a1f0f9fb742a8781f75e8b6a2f]: Textual amendment: Word in [reg. 4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/6/a/i) omitted (E.W.S.) (27.10.2008) by virtue of [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/11/a)
+
+[^f00008]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-d6af58473aad67c8a9ffdf35b8851347]: Textual amendment: Word in [reg. 4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/6/a/ii) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [59(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/59/a)
+
+[^key-0530ea5ed354e350d278d0c08604a1ee]: Textual amendment: [Reg. 4(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/6/a/iii) and word added (E.W.S.) (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/11/b)
+
+[^key-e761bae6d71784ede6b7e854916de442]: Textual amendment: [Reg. 4(6)(a)(iv)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/6/a/iv) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [59(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/59/b)
+
+[^key-bafb3e2ba3a16893b038f09354d433a7]: Textual amendment: Words in [reg. 4(6)(a)(iv)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/6/a/iv) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [49](https://www.legislation.gov.uk/nisr/2016/236/regulation/49)
+
+[^f00009]: Footnote: [S.R. (N.I.) 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71).
+
+[^f00010]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
+
+[^key-668315070c782982ba8e48ead8592894]: Textual amendment: Word in [reg. 4(6)(b)(i)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/6/b/i) omitted (N.I.) (27.10.2008) by virtue of [The Employment and Support Allowance (Consequential Provisions No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/412)](https://www.legislation.gov.uk/nisr/2008/412), [regs. 1](https://www.legislation.gov.uk/nisr/2008/412/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2008/412/regulation/9/a)
+
+[^f00011]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^key-593e91f1638706ec2aa9231b7f0328ca]: Textual amendment: [Reg. 4(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2000/704/regulation/4/6/b/iii) and word added (N.I.) (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/412)](https://www.legislation.gov.uk/nisr/2008/412), [regs. 1](https://www.legislation.gov.uk/nisr/2008/412/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2008/412/regulation/9/b)
+
+[^key-4771702783fbc074202b389fef056398]: Commencement: Reg. 5 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-cad5fb2451f8a1158e63edd6cef25a68]: Commencement: Reg. 6 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-8afa9b06f4541484b0b26598e5555596]: Commencement: Reg. 7 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-655609467067d84e5160c881819ebe98]: Commencement: Reg. 8 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^f00012]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
+
+[^key-6484aa95ceb789ba1e6303a05f0ee845]: Commencement: Reg. 9 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-b052821c7c801022838fd5c3b0798ef6]: Commencement: Reg. 10 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-5b9300d3123bed98789f861835e80c53]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10/2) substituted (10.8.2015) by [The Asylum Support (Amendment No. 3) Regulations 2015 (S.I. 2015/1501)](https://www.legislation.gov.uk/uksi/2015/1501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1501/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1501/regulation/2/2)
+
+[^key-cbd0904b87f73565cff4e580e85a34b8]: Textual amendment: Sum in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10/2) substituted (15.1.2024) by [The Asylum Support (Amendment) Regulations 2023 (S.I. 2023/1372)](https://www.legislation.gov.uk/uksi/2023/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/2/2)
+
+[^key-20e488cdcd0ca2937ceeccc74f10d9e4]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10/3) omitted (10.8.2015) by virtue of [The Asylum Support (Amendment No. 3) Regulations 2015 (S.I. 2015/1501)](https://www.legislation.gov.uk/uksi/2015/1501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1501/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1501/regulation/2/3)
+
+[^key-98de9752bcb6f65b71a18757e959c4a6]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10/3A) inserted (6.7.2009) by [The Asylum Support (Amendment) (No. 2) Regulations 2009 (S.I. 2009/1388)](https://www.legislation.gov.uk/uksi/2009/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1388/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1388/regulation/2/3)
+
+[^key-aa05258ff7b3b1d93fdd492488bacfb8]: Textual amendment: Words in [reg. 10(3A)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10/3A) substituted (10.8.2015) by [The Asylum Support (Amendment No. 3) Regulations 2015 (S.I. 2015/1501)](https://www.legislation.gov.uk/uksi/2015/1501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1501/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1501/regulation/2/4)
+
+[^key-e23c028f0a4e2834fce204689106aaf8]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10/4) omitted (10.8.2015) by virtue of [The Asylum Support (Amendment No. 3) Regulations 2015 (S.I. 2015/1501)](https://www.legislation.gov.uk/uksi/2015/1501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1501/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/1501/regulation/2/5)
+
+[^key-4f3b92479839f709262d8cf5da98def4]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10/5) omitted (10.8.2015) by virtue of [The Asylum Support (Amendment No. 3) Regulations 2015 (S.I. 2015/1501)](https://www.legislation.gov.uk/uksi/2015/1501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1501/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2015/1501/regulation/2/6/a)
+
+[^key-4120ac8a492e4b00e070a650690819a3]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10/5) substituted (10.8.2015) by [The Asylum Support (Amendment No. 3) Regulations 2015 (S.I. 2015/1501)](https://www.legislation.gov.uk/uksi/2015/1501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1501/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2015/1501/regulation/2/6/b)
+
+[^key-a3e4e9bdd2b7b9378e8a6741bcd046e0]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10/6) revoked (8.4.2002) by [The Asylum Support (Amendment) Regulations 2002 (S.I. 2002/472)](https://www.legislation.gov.uk/uksi/2002/472), [regs. 1](https://www.legislation.gov.uk/uksi/2002/472/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/472/regulation/4/2)
+
+[^key-4cf77f47a884de07225b7181aaac81be]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2000/704/regulation/10A) inserted (3.3.2003) by [The Asylum Support (Amendment) Regulations 2003 (S.I. 2003/241)](https://www.legislation.gov.uk/uksi/2003/241), [regs. 1](https://www.legislation.gov.uk/uksi/2003/241/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/241/regulation/2)
+
+[^key-10c4f468b512d853e30d41055aeae2ee]: Textual amendment: Words in [reg. 10A](https://www.legislation.gov.uk/uksi/2000/704/regulation/10A) heading substituted (15.1.2024) by [The Asylum Support (Amendment) Regulations 2023 (S.I. 2023/1372)](https://www.legislation.gov.uk/uksi/2023/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/2/3/a)
+
+[^key-19291bafc035be66a5e7c7c88185e825]: Textual amendment: Words in [reg. 10A(1)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10A/1) substituted (4.6.2004) by [The Asylum Support (Amendment) (No.2) Regulations 2004 (S.I. 2004/1313)](https://www.legislation.gov.uk/uksi/2004/1313), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1313/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2004/1313/regulation/3/a)
+
+[^key-39d191692cc62adfef367deaec8ef4f4]: Textual amendment: Words in [reg. 10A(1)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10A/1) substituted (15.1.2024) by [The Asylum Support (Amendment) Regulations 2023 (S.I. 2023/1372)](https://www.legislation.gov.uk/uksi/2023/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/2/3/b/i)
+
+[^key-424ad0e7aef3e38aa902032c264d9675]: Textual amendment: Words in [reg. 10A(1)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10A/1) substituted (4.6.2004) by [The Asylum Support (Amendment) (No.2) Regulations 2004 (S.I. 2004/1313)](https://www.legislation.gov.uk/uksi/2004/1313), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1313/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2004/1313/regulation/3/b)
+
+[^key-61ef1f6f021890fb0f9cfbe7b891cb2c]: Textual amendment: Sum in [reg. 10A(1)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10A/1) substituted (15.1.2024) by [The Asylum Support (Amendment) Regulations 2023 (S.I. 2023/1372)](https://www.legislation.gov.uk/uksi/2023/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/1/2), [2(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/2/3/b/ii/aa)
+
+[^key-8027338f2723e4cc3a460865729edc80]: Textual amendment: Sum in [reg. 10A(1)](https://www.legislation.gov.uk/uksi/2000/704/regulation/10A/1) substituted (15.1.2024) by [The Asylum Support (Amendment) Regulations 2023 (S.I. 2023/1372)](https://www.legislation.gov.uk/uksi/2023/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/1/2), [2(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/2/3/b/ii/bb)
+
+[^key-693126e45b69451b68a84a406c4d8051]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/704/regulation/11) revoked (4.6.2004) by [The Asylum Support (Amendment) (No.2) Regulations 2004 (S.I. 2004/1313)](https://www.legislation.gov.uk/uksi/2004/1313), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1313/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2004/1313/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2004/1313/regulation/4/2))
+
+[^key-f9706ceff2a3593ee194be6d9c02bc87]: Commencement: Reg. 12 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-a27d2c6e966761a30f997211bdab9cfe]: Commencement: Reg. 13 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-d3aaf8f318dc444ef7bedbf2ebd795c8]: Commencement: Reg. 14 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-963edf01cd269a21a2b3ffa731e05dcc]: Commencement: Reg. 15 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-cf4441bd9deb1330f244dded5133a4e1]: Textual amendment: [Reg. 15(2)(fa)](https://www.legislation.gov.uk/uksi/2000/704/regulation/15/2/fa) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 13 para. 2(5)(a)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/paragraph/2/5/a)
+
+[^key-43b921d82bfef32da2196af484f93483]: Textual amendment: Words in [reg. 15(2)(g)](https://www.legislation.gov.uk/uksi/2000/704/regulation/15/2/g) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 56(3)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/56/3/a)
+
+[^key-51bb86d5325bac124d5cacf592f08210]: Textual amendment: [Reg. 15(2)(ga)](https://www.legislation.gov.uk/uksi/2000/704/regulation/15/2/ga) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 56(3)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/56/3/b)
+
+[^key-46f701668836d3904d8730b6b09ba885]: Textual amendment: [Reg. 15(2)(ha)](https://www.legislation.gov.uk/uksi/2000/704/regulation/15/2/ha) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 13 para. 2(5)(c)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/paragraph/2/5/c)
+
+[^key-519db499fed30a4d1f975ff21bfdba10]: Textual amendment: Words in [reg. 15(2)(i)](https://www.legislation.gov.uk/uksi/2000/704/regulation/15/2/i) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 56(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/56/3/c/i)
+
+[^key-7a015b51d780c4301f41766697d30d90]: Textual amendment: Words in [reg. 15(2)(i)](https://www.legislation.gov.uk/uksi/2000/704/regulation/15/2/i) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 56(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/56/3/c/ii)
+
+[^key-645ff4a528ac6f579e8c73ebca0019f8]: Textual amendment: [Reg. 15(2)(ia)](https://www.legislation.gov.uk/uksi/2000/704/regulation/15/2/ia) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 56(3)(d)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/56/3/d)
+
+[^key-99ef9f287540e4235fca775a9779887e]: Commencement: Reg. 16 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-05e5969da2bdca4de4651af978aca99f]: Commencement: Reg. 17 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-1c0d192c7b97c184d69eaa29c91e65c3]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2000/704/regulation/17A) inserted (5.2.2005) by [The Asylum Support (Amendment) Regulations 2005 (S.I. 2005/11)](https://www.legislation.gov.uk/uksi/2005/11), [regs. 1](https://www.legislation.gov.uk/uksi/2005/11/regulation/1), [4](https://www.legislation.gov.uk/uksi/2005/11/regulation/4)
+
+[^key-0eb2a8c548d69f11afebedd530fd1d6d]: Commencement: Reg. 18 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-7d3a79df3d7ad705fc44298f099cf1d6]: Commencement: Reg. 19 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-32fc9ea72ce6f9ef27a4f76b80ab0b4f]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2000/704/regulation/19/1) substituted (5.2.2005) by [The Asylum Support (Amendment) Regulations 2005 (S.I. 2005/11)](https://www.legislation.gov.uk/uksi/2005/11), [regs. 1](https://www.legislation.gov.uk/uksi/2005/11/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2005/11/regulation/5/a)
+
+[^key-3ba118bdc1179e623b385bbbbd789c0c]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2000/704/regulation/19/2) substituted (5.2.2005) by [The Asylum Support (Amendment) Regulations 2005 (S.I. 2005/11)](https://www.legislation.gov.uk/uksi/2005/11), [regs. 1](https://www.legislation.gov.uk/uksi/2005/11/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2005/11/regulation/5/b)
+
+[^key-b631d9a373f954099136ef9301eecdee]: Commencement: Reg. 20 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-6e9ba4cbc9d117496965e8fa87cfff11]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2000/704/regulation/20) substituted (5.2.2005) by [The Asylum Support (Amendment) Regulations 2005 (S.I. 2005/11)](https://www.legislation.gov.uk/uksi/2005/11), [regs. 1](https://www.legislation.gov.uk/uksi/2005/11/regulation/1), [6](https://www.legislation.gov.uk/uksi/2005/11/regulation/6)
+
+[^key-9b23afb5a97f6d9115e4d370437a4487]: Textual amendment: Word in [reg. 20(1)(j)](https://www.legislation.gov.uk/uksi/2000/704/regulation/20/1/j) omitted (27.3.2026) by virtue of [The Asylum Support (Amendment) Regulations 2026 (S.I. 2026/209)](https://www.legislation.gov.uk/uksi/2026/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/209/regulation/1/2), [2(a)(i)](https://www.legislation.gov.uk/uksi/2026/209/regulation/2/a/i)
+
+[^key-ae6c075cad1db66fa401a35cb7a72f75]: Textual amendment: Words in [reg. 20(1)(k)](https://www.legislation.gov.uk/uksi/2000/704/regulation/20/1/k) substituted (27.3.2026) by [The Asylum Support (Amendment) Regulations 2026 (S.I. 2026/209)](https://www.legislation.gov.uk/uksi/2026/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/209/regulation/1/2), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2026/209/regulation/2/a/ii)
+
+[^key-6eaf02434dafcca25850dc723d895cba]: Textual amendment: [Reg. 20(1)(l)](https://www.legislation.gov.uk/uksi/2000/704/regulation/20/1/l) inserted (27.3.2026) by [The Asylum Support (Amendment) Regulations 2026 (S.I. 2026/209)](https://www.legislation.gov.uk/uksi/2026/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/209/regulation/1/2), [2(a)(iii)](https://www.legislation.gov.uk/uksi/2026/209/regulation/2/a/iii)
+
+[^key-5a8afd1dc7ae530152af0f713ce2a46e]: Textual amendment: [Reg. 20(6)(d)](https://www.legislation.gov.uk/uksi/2000/704/regulation/20/6/d) substituted (15.1.2018) by [The Immigration Act 2016 (Consequential Amendments) (Immigration Bail) Regulations 2017 (S.I. 2017/1242)](https://www.legislation.gov.uk/uksi/2017/1242), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1242/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/1242/schedule/paragraph/1)
+
+[^key-be3c9812a0b58c4ddc8f8779c1354c0b]: Textual amendment: Word in [reg. 20(6)(e)](https://www.legislation.gov.uk/uksi/2000/704/regulation/20/6/e) substituted (27.3.2026) by [The Asylum Support (Amendment) Regulations 2026 (S.I. 2026/209)](https://www.legislation.gov.uk/uksi/2026/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/209/regulation/1/2), [2(b)(i)](https://www.legislation.gov.uk/uksi/2026/209/regulation/2/b/i)
+
+[^key-763a188b81be3e2f84ab5470784a40fb]: Textual amendment: [Reg. 20(6)(f)](https://www.legislation.gov.uk/uksi/2000/704/regulation/20/6/f) inserted (27.3.2026) by [The Asylum Support (Amendment) Regulations 2026 (S.I. 2026/209)](https://www.legislation.gov.uk/uksi/2026/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/209/regulation/1/2), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/209/regulation/2/b/ii)
+
+[^key-002cb2b32be6125248cda6b706df191d]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2000/704/regulation/20A) inserted (5.2.2005) by [The Asylum Support (Amendment) Regulations 2005 (S.I. 2005/11)](https://www.legislation.gov.uk/uksi/2005/11), [regs. 1](https://www.legislation.gov.uk/uksi/2005/11/regulation/1), [7](https://www.legislation.gov.uk/uksi/2005/11/regulation/7)
+
+[^key-4b14124551d9d28e4312ce6d8c8e2d6d]: Commencement: Reg. 21 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-cb1c4d0f98928c721785de966e72ab9c]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2000/704/regulation/21/1) substituted (5.2.2005) by [The Asylum Support (Amendment) Regulations 2005 (S.I. 2005/11)](https://www.legislation.gov.uk/uksi/2005/11), [regs. 1](https://www.legislation.gov.uk/uksi/2005/11/regulation/1), [8](https://www.legislation.gov.uk/uksi/2005/11/regulation/8)
+
+[^key-902259f6613964ba4839c4194c739f3d]: Commencement: Reg. 22 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^key-cc8d0da390edff7a189ec2dac1fffbe5]: Commencement: Reg. 23 in force at 3.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/704/regulation/1)
+
+[^f00013]: Footnote: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29). Section 21(1A) was inserted by section 116 of the Immigration and Asylum Act 1999.
+
+[^f00014]: Footnote: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46). Section 45(4A) was inserted by section 117 of the Immigration and Asylum Act 1999.
+
+[^f00015]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49). Paragraph 2(2A) of Schedule 8 was inserted by section 117 of the Immigration and Asylum Act 1999.
+
+[^key-b28b6722069beefb912643f588c629fa]: Textual amendment: [Reg. 23(1)(ca)](https://www.legislation.gov.uk/uksi/2000/704/regulation/23/1/ca) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/14) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^f00016]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49). Sections 12(2A), 13A(4) and 13B(3) were inserted by section 120 of the Immigration and Asylum Act 1999.
+
+[^key-0af20937109ae73af155d8976fdff539]: Textual amendment: Words in [reg. 23(1)(e)](https://www.legislation.gov.uk/uksi/2000/704/regulation/23/1/e) substituted (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2005/2078/schedule/2/paragraph/20)
+
+[^f00018]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265). Articles 7(3) and 15(6) were inserted by section 121 of the Immigration and Asylum Act 1999.
+
+[^key-cdf463dca8676dfb9eec46f130dd5725]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2000/704/schedule) revoked (9.4.2007) by [The Asylum Support (Amendment) Regulations 2007 (S.I. 2007/863)](https://www.legislation.gov.uk/uksi/2007/863), [regs. 1](https://www.legislation.gov.uk/uksi/2007/863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/863/regulation/4)

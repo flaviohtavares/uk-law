@@ -1,0 +1,173 @@
+---
+title: The Community Legal Service (Funding) (Counsel in Family Proceedings) (Amendment) Order 2003
+id: uksi/2003/2590
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-10-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/2590
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2590/pdfs/uksi_20032590_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2590/made/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Community Legal Service (Funding) (Counsel in Family Proceedings) (Amendment) Order 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 2590
+
+LEGAL SERVICES COMMISSION, ENGLAND AND WALES
+
+The Community Legal Service (Funding) (Counsel in Family Proceedings) (Amendment) Order 2003
+
+Made
+
+3rd October 2003
+
+Laid before Parliament
+
+8th October 2003
+
+Coming into force
+
+1st November 2003
+
+The Secretary of State, in exercise of the powers conferred by section 6(4) of the Access to Justice Act 1999[^f00001] and now vested in him[^f00002], having had regard to the matters specified in section 25(3) and having consulted the General Council of the Bar and the Law Society, makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Community Legal Service (Funding) (Counsel in Family Proceedings) (Amendment) Order 2003 and shall come into force on 1st November 2003.
+
+(2) In this Order, “the Order” means the Community Legal Service (Funding) (Counsel in Family Proceedings) Order 2001[^f00003] and an artcle or a Schedule referred to by number alone means the article or Schedule so numbered in the Order.
+
+## 2. Transitional provisions
+
+(1) The Order shall have effect as if this Order had not been made in respect of—
+
+- (a) work carried out before 1st November 2003; and
+- (b) subject to paragraph (2), work carried out on or after 1st November 2003 in relation to proceedings commenced before 1st November 2003.
+
+(2) Where proceedings are commenced before 1st November 2003 in a magistrates' court and are transferred on or after 1st November 2003 to a county court or the High Court, the Order (as amended by this Order) shall apply in respect of work carried out on or after the date of the transfer.
+
+## 3. Amendments to Community Legal Service (Funding) (Counsel in Family Proceedings) Order 2001
+
+In article 2—
+
+- (a) after the definition of “the Act” insert—
+
+  > - “Advocates Meeting” means an Advocates Meeting held in accordance with paragraph 4.5 or 5.2 of the Children Act Protocol and the expression “Advocates Meeting” does not include communications between the advocates under paragraph 5.2 other than a meeting;
+
+  .
+- (b) after the definition of “assessment of costs” insert—
+
+  > - “care proceedings” means proceedings under Part IV of the Children Act 1989[^f00004];
+  > - “Case Management Conference” means a Case Management Conference held in accordance with step 4 of the Children Act Protocol;
+
+  ;
+- (c) after the definition of “certificate” insert—
+
+  > - “Children Act Protocol” means the Protocol annexed to the Practice Direction *(Care Cases: Judicial Continuity and Judicial Case Management)* made by the President of the Family Division;
+- (d) in the definition of “family proceedings”—
+  - (i) omit sub-paragraph (b); and
+  - (ii) after sub-paragraph (h) insert—
+
+    > but excluding proceedings under either the Inheritance (Provision for Family and Dependants) Act 1975[^f00005] or the Trusts of Land and Appointment of Trustees Act 1996[^f00006]
+
+    ;
+- (e) in the definition of “function F3”, after “in connection with a hearing” insert “or, in care proceedings, an Advocates Meeting, Case Management Conference or Pre-Hearing Review”;
+- (f) in the definition of “function F5”, after “in connection with the main hearing” insert “and, in care proceedings, where the same counsel attends both the Pre-Hearing Review and the main hearing on behalf of a client, the Pre-Hearing Review”;
+- (g) after the definition of “the main hearing” insert—
+
+  > “Pre-Hearing Review” means a Pre-Hearing Review held in accordance with step 5 of the Children Act Protocol;
+
+  .
+
+**4.** (1) After article 8(1)(a) insert—
+
+> - (aa) in care proceedings, the advocates concerned are able to discuss all relevant matters without the need for an Advocates Meeting under paragraph 5.2 of the Children Act Protocol; or
+
+.
+
+(2) In article 8(1) after “shall be paid” insert “and for the purposes of this paragraph “hearing” shall, in care proceedings, include a Case Management Conference or a Pre-Hearing Review”.
+
+(3) In article 8(2)(b)(i), before “commence at the time” insert “subject to paragraph (2A),”.
+
+(4) After article 8(2) insert—
+
+> (2A) For the purpose of function F3, where, in care proceedings, an Advocates Meeting is held on the same day as a Case Management Conference or Pre-Hearing Review, a hearing unit fee shall be paid as if the Advocates Meeting and the Case Management Conference or (as the case may be) Pre-Hearing Review together formed a single hearing, beginning at the time when the Advocates Meeting began and ending when the Case Management Conference or (as the case may be) Pre-Hearing Review ended.
+
+.
+
+(5) After article 8(3)(c) insert—
+
+> - (d) where, in care proceedings, the same counsel attends both the Pre-Hearing Review and the main hearing on behalf of a client, a function F5 primary hearing unit fee shall be paid in respect of the Pre-Hearing Review and the main hearing shall be paid at the secondary hearing unit rate;
+> - (e) where, in care proceedings, counsel makes written submissions as to orders consequential to the main hearing an additional secondary hearing unit fee shall be paid.
+
+.
+
+**5.** After article 10 insert—
+
+> **10A.** In respect of care proceedings, an additional payment shall be paid at a rate of £206.25 in respect of Queen’s Counsel, and £82.50 in respect of counsel other than Queen’s Counsel, in respect of the Case Management Conference in function F3.
+
+.
+
+**6.** (1) In article 11(1)(b), for “between 351 and 700 pages” substitute “comprises more than 350 pages”.
+
+(2) In article 11(1)(c) before “as a special preparation fee” insert “in addition to the payment under sub-paragraph (b)”.
+
+**7.** In article 13(b) omit the words from “except where the court” to “the court town:”.
+
+**8.** In article 16(2)(a) after “law or fact” insert “, or was otherwise an exceptional case of its nature”.
+
+**9.** In Schedule 1, for “where the court bundle comprises between 351 and 700 pages”, wherever it occurs, substitute “where the court bundle comprises more than 350 pages”.
+
+**10.** In paragraph 2 of Schedule 2, after “(including applications to free for adoption)” insert “, proceedings under the Child Abduction and Custody Act 1985[^f00007]”.
+
+Signed by authority of the Lord Chancellor
+
+David Lammy
+
+Parliamentary Under Secretary of State,
+
+Department for Constitutional Affairs
+
+Dated 3rd October 2003
+
+(This note is not part of the Order)
+
+This Order makes amendments to the Community Legal Service (Funding) (Counsel in Family Proceedings) Order 2001 (S.I. [2001/1077](https://www.legislation.gov.uk/uksi/2001/1077)), which provides the framework for the graduated fee scheme for advocates in family proceedings.
+
+Most of the amendments follow from the introduction of the Protocol for Judicial Case Management in Public Law Children Act Cases (“the Protocol”) and the Practice Direction *(Care Cases: Judicial Continuity and Judicial Case Management)* made by the President of the Family Division, which come into force on 1st November 2003. These changes are as follows:
+
+- Advocates Meetings and Case Management Conferences held in accordance with the Protocol are remunerated under function F3.
+- There will be an additional payment for Case Management Conferences. This is equal to 50% of the current hearing unit fee under function F3.
+- Attendance of a Pre-Hearing Review will be remunerated under function F5 where the counsel attending the Pre-Hearing Review and the main hearing are the same, and function F3 where they are different.
+- Work on written submissions consequential on the main hearing are remunerated as a function F5 secondary hearing unit.
+
+The Order also makes a number of other amendments to the Community Legal Service (Funding) (Counsel in Family Proceedings) Order 2001. In particular:
+
+- Proceedings under the Inheritance (Provision for Family and Dependants) Act 1975 and the Trusts of Land and Appointment of Trustees Act 1996 are removed from the scope of the graduated fees scheme.
+- Proceedings under the Child Abduction and Custody Act 1985 are added to category 2 in Schedule 2 to the 2001 Order (public law children).
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^f00002]: Footnote: By virtue of the Secretary of State for Constitutional Affairs Order 2003 (S.I. [2003/1887](https://www.legislation.gov.uk/uksi/2003/1887)), articles 4(1) and 9, Schedule 1 and Schedule 2 paragraph 11(1)(a).
+
+[^f00003]: Footnote: S.I. [2001/1077](https://www.legislation.gov.uk/uksi/2001/1077).
+
+[^f00004]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00005]: Footnote: [1975 c. 63](https://www.legislation.gov.uk/ukpga/1975/63).
+
+[^f00006]: Footnote: [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47).
+
+[^f00007]: Footnote: [1985 c. 60](https://www.legislation.gov.uk/ukpga/1985/60).

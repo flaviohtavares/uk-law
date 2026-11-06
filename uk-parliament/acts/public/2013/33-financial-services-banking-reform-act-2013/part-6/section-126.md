@@ -1,0 +1,75 @@
+---
+title: Financial Services (Banking Reform) Act 2013, section 126
+act: Financial Services (Banking Reform) Act 2013
+section: '126'
+status: revised
+text_date: '2025-08-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/33/section/126
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services (Banking Reform) Act 2013, section 126
+
+> Text as at 2025-08-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 126. Indemnities[^key-8dfe061d8b943cd5736d9390ee3bcc0b]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where an FMI administration order has been made in relation to an infrastructure company.
+
+(2) The Treasury may agree to indemnify persons in respect of one or both of the following—
+
+- (a) liabilities incurred in connection with the exercise of powers and duties by the FMI administrator;
+- (b) loss or damage sustained in that connection.
+
+(3) The agreement may be made in whatever manner, and on whatever terms, the Treasury think fit.
+
+(4) As soon as practicable after agreeing to indemnify persons under this section, the Treasury must lay before Parliament a statement of the agreement.
+
+(5) If sums are paid by the Treasury in consequence of an indemnity agreed to under this section, the infrastructure company must pay the Treasury—
+
+- (a) such amounts in or towards the repayment to them of those sums as the Treasury may direct, and
+- (b) interest, at such rates as they may direct, on amounts outstanding under this subsection.
+
+(6) Subsection (5) does not apply in the case of a sum paid by the Treasury for indemnifying a person in respect of a liability to the infrastructure company.
+
+(7) Where a sum has been paid out by the Treasury in consequence of an indemnity agreed to under this section, the Treasury must lay a statement relating to that sum before Parliament—
+
+- (a) as soon as practicable after the end of the financial year in which that sum is paid out, and
+- (b) (except where subsection (5) does not apply in the case of the sum) as soon as practicable after the end of each subsequent relevant financial year.
+
+(8) In relation to a sum paid out in consequence of an indemnity, a financial year is a relevant financial year for the purposes of subsection (7) unless—
+
+- (a) before the beginning of that year, the whole of that sum has been repaid to the Treasury under subsection (5), and
+- (b) the infrastructure company is not at any time during that year subject to liability to pay interest on amounts that became due under that subsection in respect of that sum.
+
+(9) The power of the Treasury to agree to indemnify persons—
+
+- (a) is confined to a power to agree to indemnify persons in respect of liabilities, loss and damage incurred or sustained by them as relevant persons, but
+- (b) includes power to agree to indemnify persons (whether or not they are identified or identifiable at the time of the agreement) who subsequently become relevant persons.
+
+(10) For the purposes of this section each of the following is a relevant person—
+
+- (a) the FMI administrator;
+- (b) an employee of the FMI administrator;
+- (c) a member or employee of a firm of which the FMI administrator is a member;
+- (d) a member or employee of a firm of which the FMI administrator is an employee;
+- (e) a member or employee of a firm of which the FMI administrator was an employee or member at a time when the order was in force;
+- (f) a body corporate which is the employer of the FMI administrator;
+- (g) an officer, employee or member of such a body corporate.
+
+(11) For the purposes of subsection (10)—
+
+- (a) the references to the FMI administrator are to be read, where two or more persons are appointed to act as the FMI administrator, as references to any one or more of them, and
+- (b) the references to a firm of which a person was a member or employee at a particular time include references to a firm which holds itself out to be the successor of a firm of which the person was a member or employee at that time.
+
+(12) The Treasury must pay into the Consolidated Fund sums received by them as a result of subsection (5).
+
+## Annotations
+
+[^key-8dfe061d8b943cd5736d9390ee3bcc0b]: Commencement: S. 126 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)

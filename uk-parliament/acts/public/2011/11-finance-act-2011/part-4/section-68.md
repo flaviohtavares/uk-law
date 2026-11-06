@@ -1,0 +1,38 @@
+---
+title: Finance Act 2011, section 68
+act: Finance Act 2011
+section: '68'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2011/11/section/68
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2011, section 68
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 68. Borrowing by section 67 pension scheme
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 182 of FA 2004 (unauthorised borrowing) does not cause a section 67 pension scheme to be not authorised to borrow an amount for the purposes of meeting costs of establishing, administering or managing the pension scheme.
+
+(2) Accordingly, in the case of a section 67 pension scheme, references in sections 182 and 183 of FA 2004 to amounts previously borrowed do not include any amount previously borrowed for those purposes.
+
+(3) For the purposes of this section neither—
+
+- (a) borrowing an amount for making investments for the purposes of a pension scheme, nor
+- (b) borrowing an amount for making deposits with a view to deriving income for the purposes of a pension scheme (otherwise than prior to applying the amount for meeting costs of establishing, administering or managing the pension scheme),
+
+is to be taken to be borrowing the amount for the purposes of meeting costs of establishing, administering or managing the pension scheme.
+
+(4) In this section “**section 67 pension scheme**” means a pension scheme which is established under section 67 of the Pensions Act 2008.
+
+(5) Section 163(2) of FA 2004 (meaning of “borrowing”) applies for the interpretation of this section.
+
+(6) This section is treated as having come into force on 6 April 2011.

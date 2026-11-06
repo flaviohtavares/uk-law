@@ -1,0 +1,115 @@
+---
+title: The Razor Shells, Trough Shells and Carpet Shells (Specified Sea Area) (Prohibition of Fishing) Order 1998
+id: uksi/1998/1276
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-05-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/1276
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1276/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Razor Shells, Trough Shells and Carpet Shells (Specified Sea Area) (Prohibition of Fishing) Order 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 1276
+
+SEA FISHERIES
+
+CONSERVATION OF SEA FISH
+
+The Razor Shells, Trough Shells and Carpet Shells (Specified Sea Area) (Prohibition of Fishing) Order 1998
+
+Made
+
+20th May 1998
+
+Laid before Parliament
+
+21st May 1998
+
+Coming into force
+
+23rd May 1998
+
+The Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with the sea fishing industry in Scotland, Wales and Northern Ireland, acting jointly, in exercise of the powers conferred on them by sections 5(1), 5A(1), 15(3) and 22(2)(a) of the Sea Fish (Conservation) Act 1967[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Title and commencement
+
+This Order may be cited as the Razor Shells, Trough Shells and Carpet Shells (Specified Sea Area) (Prohibition of Fishing) Order 1998 and shall come into force on 23rd May 1998.
+
+## 2. Prohibition
+
+Fishing for razor shells (*Ensis spp.*), trough shells (*Spisula spp.*) and carpet shells (*Tapes spp.*) by means of any type of dredge by any fishing boat within any part of the area specified in the Schedule to this Order is prohibited.
+
+## 3. Powers of British sea-fishery officers in relation to fishing boats
+
+(1) For the purpose of the enforcement of this Order a British sea-fishery officer may exercise the powers conferred by paragraphs (2) and (3) below—
+
+- (a) anywhere in relation to any British fishing boat registered in the United Kingdom; and
+- (b) in any waters adjacent to the United Kingdom and within British fishery limits in relation to any other British fishing boat.
+
+(2) He may go on board the boat, with or without persons assigned to assist him in his duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
+
+(3) He may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to him to be necessary for the purpose mentioned in paragraph (1) above, and in particular—
+
+- (a) may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to him to be necessary for facilitating the examination;
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board which is in his custody or possession and may take copies of any such document;
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 5(1) or (6) of the Sea Fish (Conservation) Act 1967[^f00002] as read with this Order, may search the boat for any such document and may require any person on board the boat to do anything which appears to him to be necessary for facilitating the search; and
+- (d) where the boat is one in relation to which he has reason to suspect that such an offence has been committed, may seize and detain any such document produced to him or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence;
+
+but nothing in sub-paragraph (d) above shall permit any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in port.
+
+Elliot Morley
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+20th May 1998
+
+Sewel
+
+Parliamentary Under Secretary of State, Scottish Office
+
+20th May 1998
+
+Signed by authority of the Secretary of State for Wales
+
+Win Griffiths
+
+Parliamentary Under Secretary of State, Welsh Office
+
+20th May 1998
+
+Dubs
+
+Parliamentary Under Secretary of State for Northern Ireland
+
+20th May 1998
+
+## SCHEDULE — Area in respect of which prohibition of fishing applies
+
+Article 2
+
+The area of sea known as the Wash bounded by a line drawn from a point on the east coast of the county of Lincolnshire in 53°07'12" north latitude; thence in a south easterly direction to a point 53°03'38" north latitude 00°28'16" east longitude; thence in an easterly direction to a point 53°02'43" north latitude 01°07'38" east longitude; thence in a southerly direction to a point on the north coast of the county of Norfolk in 01°07'14" east longitude.
+
+(This note is not part of the Order)
+
+This Order prohibits fishing, by means of any type of dredge, for razor shells, trough shells and carpet shells in an area of the Wash (article 2 and the Schedule).
+
+British sea-fishery officers are given certain powers for the purpose of the enforcement of the Order (article 3).
+
+Other enforcement powers, together with criminal offences and penalties, are set out in the Sea Fisheries (Conservation) Act 1967 (“the Act”) (see in particular sections 5, 11 and 15). Furthermore, by virtue of section 5(6) of the Act (as amended by section 22(2) of the Fisheries Act 1981), where, in the course of any fishing operations conducted in the above-mentioned area, fish (which includes shellfish) are caught in contravention of this Order and are taken on board a fishing boat to which this Order applies, those fish shall (subject to section 9 of that Act) be returned to the sea forthwith.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); section 5(1) was substituted by section 22(1) of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29); section 5A was inserted by section 103(1) of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25); section 15(3) was substituted by paragraph 38(3) of Schedule 1 to the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77) and amended by paragraph 16(1) of Schedule 2 to the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86); section 22(1) contains definitions of “sea fish” and “shellfish”; section 22(2)(a), which contains a definition of “the Ministers” for the purposes of sections 5 and 15(3), was amended by the Fisheries Act 1981, sections 19(2)(d) and 45(b).
+
+[^f00002]: Footnote: Subsection (6) was amended by section 22(2) of the Fisheries Act 1981. By virtue of subsection (7), where subsection (6) is not complied with in the case of any fishing boat, the master, the owner and the charterer (if any) are guilty of an offence under that subsection.

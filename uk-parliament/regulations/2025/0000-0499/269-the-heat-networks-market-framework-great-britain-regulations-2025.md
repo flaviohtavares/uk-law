@@ -1,0 +1,2100 @@
+---
+title: The Heat Networks (Market Framework) (Great Britain) Regulations 2025
+id: uksi/2025/269
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-03-02'
+text_date: '2026-01-28'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2025/269
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/269/pdfs/uksiem_20250269_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/269/pdfs/uksi_20250269_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/269/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Heat Networks (Market Framework) (Great Britain) Regulations 2025
+
+> Text as at 2026-01-28.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2025 No. 269
+
+Energy
+
+The Heat Networks (Market Framework) (Great Britain) Regulations 2025
+
+Made
+
+2nd March 2025
+
+Coming into force in accordance with regulation 1(2) to (5)
+
+The Secretary of State, in exercise of the powers conferred by sections 217(2), 219(1) and (4), 223(1) and 224 of, and Parts 2, 3, 6, 7 and 11 to 13 of Schedule 18 to, the Energy Act 2023[^f00001], makes the following Regulations.
+
+In accordance with sections 219(7) and 220 of that Act, the Secretary of State has—
+
+- (a) consulted such persons or bodies as the Secretary of State considers appropriate; and
+- (b) given notice to and considered the representations of the Scottish Ministers.
+
+In accordance with sections 217(6), 221(1), 223(2) and 224(5) of that Act[^f00002], a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and extent[^key-05e416f44e44c6020a311dfbe82413ad][^key-05e416f44e44c6020a311dfbe82413ad]
+
+(1) These Regulations may be cited as the Heat Networks (Market Framework) (Great Britain) Regulations 2025.
+
+(2) The following provisions come into force on the day after the day on which these Regulations are made—
+
+- (a) this regulation;
+- (b) regulation 2 (interpretation);
+- (c) regulations 4 to 8 (general provisions about Regulator’s functions) in relation to the functions of the Regulator described in the regulations referred to in sub-paragraphs (e) to (i);
+- (d) regulation 13 (meaning of regulated activity);
+- (e) regulation 15 (Regulator’s regulations in relation to application for a heat network authorisation);
+- (f) regulation 18 (general authorisation conditions);
+- (g) regulation 20 (scope of authorisation conditions) so far as it relates to general authorisation conditions;
+- (h) Chapter 1 of Part 6 (standards of performance);
+- (i) regulation 56 (Part 2 of the Consumers, Estate Agents and Redress Act 2007 applied) so far as it confers a power on the GEMA[^f00003] to make regulations under section 43 of the Consumers, Estate Agents and Redress Act 2007 (standards for handling complaints)[^f00004].
+
+(3) The following provisions come into force on 1st April 2025—
+
+- (a) regulation 14 (prohibition on carrying on a regulated activity without authorisation);
+- (b) regulation 26 (initial period);
+- (c) regulation 27 (deemed heat network authorisations);
+- (d) paragraphs (1) to (3), (5) and (10) of regulation 54 (Part 1 of the Consumers, Estate Agents and Redress Act 2007 applied);
+- (e) regulation 55 (certain documents to be sent to Citizens Advice and Consumer Scotland);
+- (f) paragraphs (9) to (11) of regulation 56.
+
+(4) Except where paragraph (5) applies, the remaining provisions come into force on 27th January 2026 (“the launch date”).
+
+(5) In Part 4 (enforcement of conditions and requirements)—
+
+- (a) in regulations 46 (functions with respect to competition) and 47 (procedure for concurrent exercise of functions), the references to section 35C of the Competition Act 1998[^f00005] come into force on the later of the launch date and the day that paragraph 6 of Schedule 11 to the Digital Markets, Competition and Consumers Act 2024[^f00006] comes into force;
+- (b) in regulation 46, the references to section 167C of the Enterprise Act 2002[^f00007] come into force on the later of the launch date and the day that paragraph 18 of Schedule 11 to the Digital Markets, Competition and Consumers Act 2024 comes into force;
+- (c) regulation 46(10) comes into force on the later of the launch date and the day that section 327 of the Digital Markets, Competition and Consumers Act 2024 comes into force.
+
+(6) These Regulations, except regulation 68, extend to England and Wales and Scotland.
+
+(7) Regulation 68 (Part 1 of the Heat Networks (Scotland) Act 2021 amended) extends to Scotland only.
+
+### 2. Interpretation[^key-0127f7168b62425e5e8d0381e583b51c][^key-0127f7168b62425e5e8d0381e583b51c]
+
+In these Regulations—
+
+- “**applicant**” means a person who applies for a heat network authorisation[^f00008];
+- “**authorisation conditions**”, in relation to a heat network authorisation, means any general authorisation conditions or specific authorisation conditions that apply in relation to the heat network authorisation;
+- “**authorised officer**” has the meaning given in regulation 49 (inspections);
+- “**authorised person**” is to be construed in accordance with regulations 16 (conferral of heat network authorisations) and 27 (deemed heat network authorisations);
+- “**Citizens Advice**” means the National Association of Citizens Advice Bureaux[^f00009];
+- “**Citizens Advice Scotland**” means the Scottish Association of Citizens Advice Bureaux[^f00010];
+- “**consumer**” includes a future consumer;
+- “**the court**” means , except in Part 7A,[^key-578278d06a6a130b382493f1e0b6351f] the High Court in relation to England and Wales and the Court of Session in relation to Scotland;
+- “**delegate**”, in relation to the Regulator, has the meaning given in regulation 5 (power for the Regulator to delegate functions);
+- “**general authorisation conditions**” means conditions that have effect as such by virtue of regulation 18 (general authorisation conditions);
+- “[^key-7ca3ffc831441b2eec43004f80c006e1]**heat network administration order**” has the meaning given in regulation 59B;
+- “**heat network administrator**” has the meaning given in regulation 59B;
+- “**heat network consumer**” means a consumer in relation to heating, cooling or hot water supplied by means of a relevant heat network, including a person who takes a supply of heating, cooling or hot water from one relevant heat network for the purpose of supplying another[^f00011];
+- “initial period” and “first part of the initial period” have the meanings given in regulation 26 (initial period);
+- “**launch date**” means 27th January 2026;
+- “**modification**”, in relation to authorisation conditions, means—
+  - (a) the revocation or amendment of an existing authorisation condition;
+  - (b) the addition of a new authorisation condition;
+- “**regulated activity**” has the meaning given by regulation 13 (meaning of regulated activity);
+- “**Regulator**” is to be construed in accordance with regulation 4 (specified functions to be carried out by the Secretary of State)[^f00012];
+- “**the Regulator’s regulations**” means regulations made by the Regulator under regulation 15 (Regulator’s regulations in relation to application for a heat network authorisation);
+- “**relevant requirement**” has the meaning given by paragraph 37(6) of Schedule 18 to the Energy Act 2023 except that, for the purposes of regulations 37 to 44 (consumer redress orders), it does not include standards of performance prescribed or determined under Chapter 1 of Part 6 (standards of performance);
+- “**specific authorisation conditions**” means conditions determined by the Regulator under regulation 19 (specific authorisation conditions).
+
+### 2A. Regulations do not apply to certain communal heat networks providing air-conditioning[^key-9255b54a7dc2915deb41727114bfed5f]
+
+(1) These Regulations do not apply to a communal heat network by means of which cooling is supplied if—
+
+- (a) cooling, and any heating supplied by means of the network, are provided only by air-conditioning; and
+- (b) hot water is not supplied by means of the network.
+
+(2) Accordingly, in these Regulations, “relevant heat network” does not include a communal heat network referred to in paragraph (1).
+
+### 3. Service of notices[^key-8226698e74da2ff74fb9ffc8fdeebc55]
+
+Schedule 1 makes provision about service of notices and other documents by the Regulator.
+
+## PART 2 — The Regulator
+
+### 4. Specified functions to be carried out by the Secretary of State[^key-4dfb58fa78727cfa35428d7e625dc17e][^key-1b075162b2e64a97f68bedfe501f9d6b][^key-4dfb58fa78727cfa35428d7e625dc17e]
+
+(1) Without prejudice to the generality of regulation 18 (general authorisation conditions) as regards the Secretary of State’s powers, the Secretary of State and not the GEMA has the function of determining and enforcing general authorisation conditions related to accuracy of heat meters, and references to “the Regulator” are to be construed accordingly.
+
+(2) In this regulation, “**heat meter**” means an instrument designed to measure, memorise and display the consumption of heating, cooling or hot water by a heat network consumer.
+
+### 5. Power for the Regulator to delegate functions[^key-0aa17f66a0a28537ca9d9398dcfd8d06][^key-147d0be53fb7bb9b129a131a329b54d8][^key-0aa17f66a0a28537ca9d9398dcfd8d06]
+
+(1) The Regulator may, with the agreement of another person, delegate to that person (“the delegate”) any function conferred on the Regulator by these Regulations other than a function conferred by regulation 49 (inspections).
+
+(2) A delegation other than by the Secretary of State may only be made with the Secretary of State’s permission.
+
+(3) A delegation must—
+
+- (a) be in writing; and
+- (b) specify—
+  - (i) the functions which are delegated to the delegate; and
+  - (ii) any duties and objectives which apply to the delegate when carrying out the delegated functions.
+
+(4) A person carrying out a delegated function must comply with any duties specified in the delegation.
+
+### 6. Principal objective of the Regulator[^key-4a80b86745e33a56bfae0f2bd384ae0a][^key-7eab4abaa342133c9d541b677c0d9438][^key-4a80b86745e33a56bfae0f2bd384ae0a]
+
+(1) The principal objective of the Regulator in carrying out its functions under these Regulations is to protect the interests of heat network consumers.
+
+(2) Those interests are their interests taken as a whole, including—
+
+- (a) their interests in the reliability of the supply of heating, cooling or hot water;
+- (b) their interests in the Secretary of State’s compliance with the duties in sections 1 and 4(1)(b) of the Climate Change Act 2008 (net zero target for 2050 and five-year carbon budgets)[^f00013];
+- (c) their interests in charges for the supply of heating, cooling or hot water being proportionate;
+- (d) their interests in information about services and charges being communicated plainly.
+
+(3) References in this regulation and in regulations 7 (general duties of the Regulator) and 8 (duty of the Regulator and others to have regard to interests of consumers) to functions of the Regulator under these Regulations include references to any functions of the GEMA under section 5A of the Utilities Act 2000[^f00014] that are exercisable in relation to a proposal to do anything for the purposes of, or in connection with, the carrying out of any function of the GEMA under these Regulations.
+
+### 7. General duties of the Regulator[^key-fb1e1d73cfe0e23b03c64cb75274a48d][^key-d066330f0040da264010501679c72347][^key-fb1e1d73cfe0e23b03c64cb75274a48d]
+
+(1) The Regulator or a delegate of the Regulator must—
+
+- (a) carry out its functions under these Regulations in a manner best calculated to further the principal objective of the Regulator;
+- (b) when carrying out its functions under these Regulations, consider the need to ensure that persons carrying on a regulated activity under a heat network authorisation are able to finance obligations imposed by or under these Regulations;
+- (c) when complying with the duty in sub-paragraph (a) or (b), have regard to the interests of heat network consumers who are in vulnerable circumstances.
+
+(2) The duty in paragraph (1)(a) includes a duty to promote effective competition between persons engaged in—
+
+- (a) the operation of a relevant heat network;
+- (b) the supply of heating, cooling or hot water to heat network consumers by means of a relevant heat network;
+- (c) commercial activities connected with the supply of heating, cooling or hot water to heat network consumers by means of a relevant heat network.
+
+### 8. Interests of other utility consumers[^key-11cf6bee1290160cdea9a21c850c5ef3][^key-5219b946c9c11e34cf22a9add2970714][^key-11cf6bee1290160cdea9a21c850c5ef3]
+
+(1) The Regulator or a delegate of the Regulator, in carrying out a function under these Regulations, may have regard to the interests of consumers in relation to—
+
+- (a) electricity conveyed by distribution systems or transmission systems (within the meaning of the Electricity Act 1989[^f00015]);
+- (b) gas conveyed through pipes (within the meaning of the Gas Act 1986[^f00016]);
+- (c) communications services and electronic communications apparatus which are affected by the carrying out of that function;
+- (d) water services or sewerage services (within the meaning of the Water Industry Act 1991[^f00017]) which are affected by the carrying out of that function.
+
+(2) A person or body exercising a regulatory function in a field mentioned in any sub-paragraph of paragraph (1) may have regard to the interests of heat network consumers.
+
+### 9. Monitoring and review[^key-87d719756cc7008c6061cc37bf8d82fb]
+
+(1) The Regulator must keep under review the carrying on of regulated activities in relation to relevant heat networks in Great Britain.
+
+(2) The Regulator must, so far as it appears to it to be practicable from time to time to do so, monitor the carrying on of the activities mentioned in paragraph (1), and the persons by whom they are carried on, with a view to facilitating the exercise of its functions under these Regulations.
+
+### 10. Collecting information[^key-2d5f2ecc0b3adf087ec19dfcf36cf59e]
+
+(1) To enable the Regulator to comply with the duty in regulation 9 (monitoring and review), the Regulator may, by notice served on a person within paragraph 10(2), require that person to provide in the form and manner specified in the notice—
+
+- (a) documents specified or described in the notice that are in that person’s custody or under that person’s control;
+- (b) information specified or described in the notice that relates to matters the Regulator is under a duty to monitor.
+
+(2) A notice under paragraph (1) may be served on—
+
+- (a) a person carrying on a regulated activity;
+- (b) a person which, in relation to a person carrying on a regulated activity, is an interconnected body corporate within the meaning of section 129(2) of the Enterprise Act 2002[^f00018].
+
+(3) The notice must specify the time and place at which the person must provide the documents or information to the Regulator.
+
+### 11. Records[^key-5d3c186a7270c82d40abb96fb708a43c]
+
+(1) The Regulator must maintain records of information obtained under or by virtue of these Regulations relating to—
+
+- (a) persons on whom a heat network authorisation has been conferred;
+- (b) persons whose application for a heat network authorisation has been refused;
+- (c) persons whose heat network authorisation has been revoked.
+
+(2) The Regulator is not required to maintain any records referred to in paragraph (1) for longer than it considers appropriate having regard to the nature of the records and the purposes for which they may lawfully be used or disclosed by the Regulator.
+
+(3) This regulation does not affect the operation of the Public Records Act 1958[^f00019] or the data protection legislation (within the meaning of the Data Protection Act 2018[^f00020]).
+
+### 12. Publication of advice, guidance, information and list of authorised persons by the Regulator[^key-e11609184f955e92fc36c7dfc5bb9fa8]
+
+(1) If it appears to the Regulator that the publication of any advice, guidance or information would promote the interests of heat network consumers, the Regulator may publish that advice, guidance or information in such manner as it thinks fit.
+
+(2) In publishing advice, guidance or information under paragraph (1), the Regulator must have regard to the need for excluding, so far as that is practicable, any matter which relates to the affairs of a particular individual or body of persons (corporate or unincorporate), where publication of that matter would or might, in the opinion of the Regulator, seriously and prejudicially affect the interests of that individual or body.
+
+(3) Before deciding to publish under paragraph (1) any advice, guidance or information relating to a particular individual or body of persons the Regulator must consult that individual or body.
+
+(4) The Regulator must publish a list of authorised persons with, for each—
+
+- (a) the regulated activities carried on by the authorised person; and
+- (b) the geographical location of the relevant heat network in relation to which the regulated activities are carried on by the authorised person.
+
+## PART 3 — Authorisations
+
+### 13. Meaning of regulated activity[^key-4a833ad830ebe519995baf21980c6c09][^key-4a833ad830ebe519995baf21980c6c09]
+
+(1) Subject to paragraph (2), “**regulated activity**” means—
+
+- (a) operating a relevant heat network;
+- (b) supplying heating, cooling or hot water to heat network consumers by means of a relevant heat network.
+
+(2) But an activity described in paragraph (1) is not a regulated activity if—
+
+- (a) the heat network only serves a single house in multiple occupation; or
+- (b) where sub-paragraph (a) does not apply, the heat network—
+  - (i) only serves a single converted building as defined in section 254(8) of the Housing Act 2004[^f00021]; and
+  - (ii) has no more than one source appliance and that appliance has a capacity of no more than 45 kilowatt thermal.
+
+(3) For the purposes of paragraphs (1) and (2), a person operates a relevant heat network if the person controls the transfer on that network of thermal energy for the purposes of supplying heating, cooling or hot water.
+
+(4) If applying paragraph (3) identifies more than one person as operating a relevant heat network—
+
+- (a) where only one person is entitled to make decisions about modifying the network, that person is taken to operate it;
+- (b) if different persons are entitled to make decisions about modifying different parts of the network, each is taken to operate it but only in respect of the relevant part.
+
+(5) In this regulation—
+
+- “**house in multiple occupation**” means a building or a part of a building within any of paragraphs (a) to (d) of subsection (1) of section 254 of the Housing Act 2004 (or that would be within any of those paragraphs if section 254 extended to Scotland);
+- “**source appliance**”, in relation to a relevant heat network, means an appliance the main purpose of which is to heat or cool the liquid or gas that is distributed in the network.
+
+### 14. Prohibition on carrying on a regulated activity without authorisation[^key-0c35252eef979cc49b31ebbe0ef181ca]
+
+A person must not carry on a regulated activity, except as permitted by virtue of a heat network authorisation (but see regulation 27 which provides for deemed heat network authorisations).
+
+### 15. Regulator’s regulations in relation to application for a heat network authorisation[^key-20adc1822863358af4ecc3051c4d0065][^key-20adc1822863358af4ecc3051c4d0065]
+
+(1) The Regulator must prescribe one or more of the following—
+
+- (a) the form in which an application for a heat network authorisation (“**application**”), including an application within regulation 24 (transfer of heat network authorisations), is to be submitted to the Regulator;
+- (b) information that must be contained in an application including any supporting documents;
+- (c) the manner in which an application and any supporting documents are to be submitted to the Regulator;
+- (d) the fee which is to accompany an application.
+
+(2) In this regulation, “**prescribe**” means prescribe in regulations made by statutory instrument.
+
+### 16. Conferral of heat network authorisations[^key-f65eb7fefd2297888f3c9092e89f32ce]
+
+(1) The Regulator may confer a heat network authorisation on an applicant if the application is made in accordance with the Regulator’s regulations.
+
+(2) A heat network authorisation authorises the person on whom it is conferred (“**an authorised person**”) to carry on one or more regulated activities specified in the authorisation in relation to one or more relevant heat networks specified in the authorisation.
+
+(3) Where an applicant is already an authorised person, the Regulator may confer the heat network authorisation applied for by modifying a heat network authorisation already held by the applicant (“the existing authorisation”).
+
+(4) The Regulator may make such modifications to the existing authorisation as the Regulator considers appropriate in connection with the conferral of the heat network authorisation applied for.
+
+(5) A heat network authorisation must include the applicable general authorisation conditions and may include specific authorisation conditions.
+
+(6) An authorisation condition included in a heat network authorisation has effect or ceases to have effect—
+
+- (a) at such times and in such circumstances as may be determined by or under the condition; and
+- (b) subject to any modification of the condition.
+
+(7) A heat network authorisation conferred under this regulation remains in force except to the extent that it is modified or revoked or otherwise ceases to have effect under this Part.
+
+### 17. Temporary authorisations[^key-0638a3d0c92e393a4160c59b8d229ba4]
+
+(1) The Regulator may confer a heat network authorisation on an applicant on a temporary basis for a specified period (“temporary authorisation”) where it requires more time to determine—
+
+- (a) how to exercise its discretion under regulation 16(1) (conferral of heat network authorisations); or
+- (b) whether the heat network authorisation should contain specific authorisation conditions.
+
+(2) A temporary authorisation ceases to have effect at the end of the specified period or, if earlier—
+
+- (a) on the day that a heat network authorisation other than the temporary authorisation takes effect in relation to the same regulated activities and the same relevant heat network as are specified in the temporary authorisation;
+- (b) at the end of the period of 14 days beginning with the day after the day on which the Regulator gives notice refusing to confer a heat network authorisation in relation to the same regulated activities and the same relevant heat network as are specified in the temporary authorisation; or
+- (c) on the day on which the revocation of the temporary authorisation under regulation 25 (review and revocation of heat network authorisations) has effect.
+
+(3) In this regulation, “**specified period**” means a period specified in the temporary authorisation.
+
+### 18. General authorisation conditions[^key-3c31691b0cbfe8c4051b079f8751b50b][^key-3c31691b0cbfe8c4051b079f8751b50b]
+
+(1) A regulatory authority may determine conditions to be included in—
+
+- (a) each heat network authorisation;
+- (b) each heat network authorisation of a particular description.
+
+(2) Any conditions determined by a regulatory authority under paragraph (1) must be set out in a notice published in such manner as the regulatory authority considers appropriate for the purpose of bringing the conditions to the attention of persons likely to be affected by them.
+
+(3) The conditions have effect as general authorisation conditions from the date specified for that purpose in the notice under paragraph (2) for the purpose of—
+
+- (a) regulation 16(5) (conferral of heat network authorisations);
+- (b) regulation 27(4) and (5) (deemed heat network authorisations),
+
+but, subject to regulation 27(5), any modification of general authorisation conditions in relation to heat network authorisations already conferred must take place in accordance with regulations 21 (procedure for modifying general authorisation conditions) and, if applicable, 23 (modification of conditions under regulation 21 or 22: early effective date).
+
+(4) Before determining any general authorisation conditions, a regulatory authority must—
+
+- (a) set out the proposed conditions in a notice published in such manner as the regulatory authority considers appropriate for the purpose of bringing the proposed conditions to the attention of persons likely to be affected by them; and
+- (b) consult with such persons or bodies as it considers appropriate on the proposed conditions.
+
+(5) The requirements of this regulation may be satisfied by action taken before these Regulations are made.
+
+(6) Conditions determined under this regulation may not take effect before the launch date.
+
+(7) In this regulation, “**regulatory authority**” means the Regulator or the Secretary of State.
+
+### 19. Specific authorisation conditions[^key-d3f8f01a287fe7923e48c10e979e6be5]
+
+(1) The Regulator may determine conditions to be included in a particular heat network authorisation that are specific to that authorisation (“specific authorisation conditions”).
+
+(2) The Regulator must send to the authorised person any specific authorisation conditions that apply to that person.
+
+### 20. Scope of authorisation conditions[^key-188ec89ce4590ecc932e420ece31b1cf][^key-188ec89ce4590ecc932e420ece31b1cf]
+
+(1) General authorisation conditions or specific authorisation conditions may include—
+
+- (a) conditions whose object is to limit the number of persons authorised as operators of a single relevant heat network or, in relation to a relevant heat network which has more than one person authorised to operate it, to facilitate the exercise of the functions of—
+  - (i) the Regulator;
+  - (ii) Citizens Advice, Citizens Advice Scotland or Consumer Scotland; or
+  - (iii) the operator of a redress scheme for the purposes of section 47 of the Consumers, Estate Agents and Redress Act 2007 as applied by regulation 56(7) of these Regulations;
+- (b) conditions about the terms on which premises are connected to , or supplied by means of,[^key-e198c36431fdf26c85533330ef4445cf] a relevant heat network;
+- (c) conditions requiring an authorised person to make an offer of connection or supply[^key-34bf3db61082779d633509310ebf4d7f] to premises when asked to do so by the owner, occupier or a party acting on their behalf;
+- (d) conditions about installing and maintaining , and the operation of,[^key-2cf39e3eef88b5664083799129aaf861] equipment for measuring, displaying, recording and regulating consumption of heating, cooling and hot water supplied by means of a relevant heat network;
+- (e) conditions about—
+  - (i) the charges payable by heat network consumers, including—
+    - (aa) a condition that an authorised person must not charge domestic heat network consumers an amount that exceeds a specified price cap;
+    - (bb) a condition that an authorised person must not impose on heat network consumers charges that are disproportionate;
+  - (ii) the billing of heat network consumers, including—
+    - (aa) a condition that imposes requirements about the bills given to heat network consumers (including requirements about their frequency, accuracy and the use of estimates);
+    - (bb) a condition that imposes requirements about the information and explanatory material to be provided to heat network consumers;
+    - (cc) a condition that makes provision about the charges that may be made in respect of the costs of providing bills and such information and explanatory material;
+  - (iii) service standards (including standards for handling complaints);
+  - (iv) the communication of information about the heat network, the services provided or the terms on which the services are provided;
+  - (v)[^key-2973536a0bed677c096d8f5b301e6882] the conduct of authorised persons towards heat network consumers or in relation to premises connected, or proposed to be connected, to a relevant heat network, including—
+    - (aa) a condition about conduct if payments relating to the supply of heating, cooling or hot water are not made (including restricting when premises may be disconnected);
+    - (bb) a condition requiring credit to be provided to heat network consumers with pre-payment meters;
+- (f) conditions relating to price regulation (including by means of regulation of charges or profits);
+- (g) conditions about complying with technical standards including technical standards (including those for which provision is made in a designated document[^key-f9e0602e197d9e43b844a9fd7b4a7bd8] relating to—
+  - (i) the design, construction, commissioning, operation or maintenance of a relevant heat network;
+  - (ii) the decommissioning of a relevant heat network;
+  - (iii) equipment or materials used in the construction, operation or maintenance of a relevant heat network;
+  - (iv) the competence of persons engaged in the design, construction, commissioning, operation or maintenance of a relevant heat network;
+- (h) conditions about ensuring the continuity of the supply of heating, cooling and hot water to heat network consumers;
+- (i) conditions about providing information to the Regulator, including a requirement to notify the Regulator of any material change in the operation of a relevant heat network or the supply of heating, cooling or hot water;
+- (j) conditions about the payment of fees to the Regulator, including conditions about the payment of fees—
+  - (i) in connection with the conferring of an authorisation;
+  - (ii) while an authorisation continues to be in force in relation to a person;
+- (ja)[^key-378591281479274076953f0b3210d819] conditions requiring an authorised person to comply with the provisions of a designated document;
+- (jb) conditions—
+  - (i) requiring an authorised person to pay such sums relating to the costs of a heat network administration order as may be determined by the Secretary of State under the conditions to such persons as may be so determined for the purpose of—
+    - (aa) enabling the Secretary of State to recover losses and expenses referred to in paragraph (5)(a);
+    - (bb) reducing or discharging obligations referred to in paragraph (5)(b);
+  - (ii) requiring or enabling an authorised person to modify the charges on heat network consumers imposed by the authorised person so as to raise those sums;
+  - (iii) requiring the sums so raised to be held on trust pending payment;
+- (k) such other conditions as appear to the Regulator or, when determining conditions under regulation 18, the Secretary of State to be requisite or expedient having regard to the principal objective established in regulation 6 (principal objective of the Regulator) and the duties established in regulations 7 (general duties of the Regulator) and 8 (duty of the Regulator to have regard to interests of consumers).
+
+(2) Conditions under paragraph (1)(j) may include provision for payment of fees to the Regulator under regulation 57 (expenses relating to consumer advocacy and advice).
+
+(3) General authorisation conditions or specific authorisation conditions may require the authorised person—
+
+- (a) to comply with any direction given by the Regulator or the Secretary of State in relation to any specified matter or description of matter;
+- (b) not to do or to do any specified thing or description of thing, except so far as the thing is done or not done with the consent of the Regulator or the Secretary of State;
+- (c) to refer for determination by the Regulator or the Secretary of State any specified question or description of question arising under the heat network authorisation;
+- (d) to refer for approval by the Regulator or the Secretary of State—
+  - (i) any thing specified as falling to be done under the heat network authorisation; and
+  - (ii) any specified contract or agreement made before the conferral of the heat network authorisation.
+
+(3A)[^key-214bcd0d8b1fcb0021fda635d7abec92] For the purpose of a condition referred to in paragraph (1)(e)(i)(bb) (disproportionate charges), the Regulator—
+
+- (a) may from time to time specify the methods that are to be used by the Regulator to determine whether charges are disproportionate; and
+- (b) must publish them in such manner as the Regulator thinks appropriate.
+
+(4) In this regulation, “**specified**” means specified in the condition.
+
+(5)[^key-8aa18143a4b57ea7b1944a14ce5a9fd2] For the purpose of this regulation, the costs of a heat network administration order are—
+
+- (a) losses and expenses—
+  - (i) that are incurred by the Secretary of State in, as a result of or in connection with giving relevant financial assistance—
+    - (aa) to, or in respect of, a company that is or was subject to the order; or
+    - (bb) otherwise in connection with the order; and
+  - (ii) that the Secretary of State does not expect to recover (except by means of an authorisation condition);
+- (b) obligations of the company subject to the order to make payments—
+  - (i) in respect of the expenses or remuneration of the heat network administrator of the company;
+  - (ii) in discharge of a debt or liability of the company arising out of a contract entered into by the heat network administrator at a time when the order was in force;
+  - (iii) in respect of interest on relevant financial assistance or any expenses, remuneration, debt or liability referred to in paragraph (i) or (ii),
+
+  to the extent that the property of the company available to pay them is insufficient.
+
+(6) In paragraph (5), “**relevant financial assistance**” means any of the following—
+
+- (a) a grant or loan given under section 165 of the Energy Act 2004, as applied by regulation 59D;
+- (b) a sum paid by the Secretary of State in consequence of an indemnity given under section 166 of that Act, as so applied;
+- (c) a sum paid out by the Secretary of State under a guarantee given under section 167 of that Act, as so applied.
+
+### 21. Procedure for modifying general authorisation conditions[^key-250750b5c855f401077f1f069af79d3e]
+
+(1) Subject to regulation 27(5) (deemed heat network authorisations), the Regulator must give notice of any proposed modification to general authorisation conditions by publishing, in such manner as the Regulator considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it, a notice setting out—
+
+- (a) the proposed modification and its effect; and
+- (b) the reasons why the Regulator proposes to make the modification.
+
+(2) A copy of the notice published under paragraph (1) must be sent to the Secretary of State and to each authorised person known by the Regulator to be affected by the proposed modification at the same time as the notice is published.
+
+(3) A notice published under paragraph (1) must specify the time within which representations with respect to the proposed modification may be made (“the specified time”).
+
+(4) The specified time may not be less than 28 days beginning with the date the notice is published.
+
+(5) The Regulator must consider any representations which are made within the specified time.
+
+(6) The Regulator must comply with a direction of the Secretary of State not to make a modification if the direction is made within the specified time.
+
+(7) Where the Regulator has complied with paragraphs (1) to (5), and decides to proceed with the making of a modification, the Regulator must publish notice of the decision in such manner as the Regulator considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it.
+
+(8) A notice published under paragraph (7) must—
+
+- (a) set out the modification and its effect;
+- (b) state how the Regulator has taken account of any representations duly made; and
+- (c) state the reason for any differences between the modification and the proposed modification.
+
+(9) The modification has effect from the date specified in the notice in relation to it (“date of effect”).
+
+(10) The date of effect may not be earlier than the day falling 28 days after the date the notice under paragraph (7) is published.
+
+(11) Paragraph (2), so far as it comprises an obligation to send a notice to the Secretary of State, and paragraph (6) do not apply to the extent that the Regulator is the Secretary of State.
+
+### 22. Procedure for modifying specific authorisation conditions[^key-ee5cf638f72b4cbc50a1a94307ce0fb6]
+
+(1) The Regulator must give notice of any proposed modification to specific authorisation conditions by sending a notice to the person whose heat network authorisation includes the conditions (“the relevant authorised person”).
+
+(2) The notice required by paragraph (1) must specify the time within which representations with respect to the proposed modification may be made (“the specified time”).
+
+(3) The specified time may not be less than 28 days beginning with the date the notice is given.
+
+(4) The Regulator must consider any representations which are made within the specified time.
+
+(5) Where the Regulator has complied with paragraphs (1) to (4), and decides to proceed with the making of a modification, the Regulator must send a notice to the relevant authorised person.
+
+(6) The notice required by paragraph (5) must—
+
+- (a) set out the modification and its effect;
+- (b) state how the Regulator has taken account of any representations duly made; and
+- (c) state the reason for any differences between the modification and the proposed modification.
+
+(7) The modification has effect from the date specified in the notice in relation to it (“date of effect”).
+
+(8) The date of effect may not be earlier than the day falling 28 days after the date the notice under paragraph (5) is sent.
+
+### 23. Modification of conditions under regulation 21 or 22: early effective date[^key-4ca62f6a273c97b85e98b170ea0f9e4d]
+
+(1) The date specified by virtue of regulation 21(9) or 22(7) in relation to a modification under that regulation may fall before the end of the usual stand-still period if—
+
+- (a) the Regulator considers it necessary or expedient for the modification to have effect from a date before the end of the usual stand-still period; and
+- (b) the consultation condition is satisfied.
+
+(2) The consultation condition is that the notice under regulation 21(1) or 22(1), as the case may be, relating to the modification—
+
+- (a) stated the date from which the Regulator proposed that the modification should have effect;
+- (b) stated the Regulator’s reasons for proposing that the modification should have effect from a date before the end of the usual stand-still period; and
+- (c) explained why, in the Regulator’s view, that would not have a material adverse effect on any authorised person.
+
+(3) In this regulation, “**the end of the usual stand-still period**” means the day falling 28 days after the date the notice under regulation 21(7) is published or the day falling 28 days after the date the notice under regulation 22(5) is sent, as the case may be.
+
+### 23A. Costs of heat network administration orders: Secretary of State may modify authorisation conditions[^key-3d26a1f2792a0fdbbb2d2e68ffc065df]
+
+(1) The Secretary of State may make modifications to authorisation conditions to add, amend or revoke conditions referred to in regulation 20(1)(jb) (costs of heat network administration order).
+
+(2) For the purpose of paragraph (1), regulations 21 or, as the case may be, 22 and 23 apply as if references in those regulations to the Regulator were references to the Secretary of State.
+
+(3) This regulation does not limit the Regulator’s powers under regulation 21 or 22.
+
+### 24. Transfer of heat network authorisations[^key-bb16cd5f948a2b96590662e13e0e910c]
+
+(1) This regulation applies where—
+
+- (a) a person (“the new entity”) applies for authorisation to carry on a regulated activity in relation to a relevant heat network or is taken to have so applied by virtue of paragraph (2);
+- (b) the regulated activity has been carried on in relation to the relevant heat network under a heat network authorisation (“the existing authorisation”) which has not been revoked;
+- (c) the new entity has complied with any applicable Regulator’s regulations; and
+- (d) the Regulator determines that the holder of the existing authorisation (“the transferring entity”) has consented to the transfer of the existing authorisation so far as it relates to the regulated activity and the relevant heat network mentioned in sub-paragraph (a).
+
+(2) Where a person has agreed to carry on a regulated activity in relation to a relevant heat network at the request of the Regulator, the person is taken to have applied to do so for the purposes of this regulation.
+
+(3) Where this regulation applies the Regulator may transfer the existing authorisation in whole or in part to the new entity.
+
+(4) Where the Regulator transfers the existing authorisation, the Regulator must give notice to the new entity and the transferring entity setting out the extent to which the existing authorisation is being transferred and when the transfer takes effect.
+
+(5) The Regulator may make such modifications to authorisations held by the transferring entity or the new entity as the Regulator considers appropriate to take account of the transfer and such modifications may affect—
+
+- (a) the existing authorisation to the extent it is transferred to the new entity;
+- (b) the existing authorisation to the extent it continues to be held by the transferring entity;
+- (c) any other authorisation held by the new entity.
+
+### 25. Review and revocation of heat network authorisations[^key-155dd8906fe899e6c13912e62c270be2]
+
+(1) The Regulator may review the conditions of, or the regulated activities carried out by virtue of, a heat network authorisation at any time while it is in force.
+
+(2) The Regulator may revoke a heat network authorisation in whole or in part in the circumstances specified in or determined under the authorisation conditions.
+
+(3) A heat network authorisation ceases to have effect in whole or in part in the circumstances specified in or determined under the authorisation conditions.
+
+### 26. Initial period[^key-0856ac72b8b652f1059ae12cb558a0b6]
+
+(1) In these Regulations, subject to paragraph (2)—
+
+- “**first part of the initial period**” means the period beginning on the day on which regulation 14 comes into force and ending on the day before the first anniversary of the launch date;
+- “**initial period**” means the period beginning on the day on which regulation 14 comes into force and ending on the day before the second anniversary of the launch date.
+
+(2) The Regulator may prolong the first part of the initial period or the initial period with the consent of the Secretary of State.
+
+(3) The Regulator must give notice to the Secretary of State of a proposal to prolong the first part of the initial period or the initial period, giving reasons.
+
+(4) Notice under paragraph (3) must be given no later than one month before the end of the period the Regulator proposes to extend.
+
+(5) The Regulator must publish notice of a decision to prolong the first part of the initial period or the initial period in such manner as the Regulator considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it.
+
+### 27. Deemed heat network authorisations[^key-1aea6cd92031d9af57ee2cc762f35b61]
+
+(1) A person who carries on a regulated activity in relation to a relevant heat network before the end of the first part of the initial period is to be treated as holding a heat network authorisation in relation to that activity and that relevant heat network during the initial period, with the heat network authorisation treated as conferred on the later of—
+
+- (a) the day that regulation 14 comes into force; and
+- (b) the day when the person first carries on that activity in relation to that relevant heat network.
+
+(2) If a person is carrying on a regulated activity in relation to a relevant heat network when regulation 14 comes into force, the heat network authorisation treated as conferred on that person in relation to that activity and that relevant heat network remains in force after the initial period except to the extent that it is modified or revoked or otherwise ceases to have effect under this Part.
+
+(3) References in these Regulations to “authorised person” are to be construed in accordance with paragraphs (1) and (2).
+
+(4) The heat network authorisation treated as conferred by virtue of paragraph (1) includes the general authorisation conditions (if any) that would have been included had the heat network authorisation been conferred under regulation 16.
+
+(5) A heat network authorisation treated as conferred before the launch date is to be treated as modified on the launch date to include the general authorisation conditions that would have been included had the heat network authorisation been conferred under regulation 16 on the launch date.
+
+## PART 3A — Supply to premises[^key-f74cd170e7fd88bb2e61f9abd9b2ced5]
+
+### 27A. Deemed contracts
+
+(1) This regulation applies to authorised persons who carry on a regulated activity referred to in regulation 13(1)(b) (supplying heating, cooling or hot water to a heat network consumer by means of a relevant heat network).
+
+(2) Where premises are supplied with heating, cooling or hot water by an authorised person without agreement as to the terms on which the supply is made, the authorised person is deemed to have made a contract for the supply (a “deemed contract”) with the occupier or, if the premises are unoccupied, the owner as from the relevant time.
+
+(3) The “relevant time” is the time the supply begins or, if the supply begins before this regulation comes into force, 27th January 2026.
+
+(4) A deemed contract must be treated as incorporating the express terms and conditions determined under a scheme made under paragraph (5).
+
+(5) Except where it is reasonably expected that paragraph (2) will not apply, each authorised person must make, and may from time to time revise, a scheme for determining the express terms and conditions of a deemed contract.
+
+(6) The terms and conditions determined under a scheme—
+
+- (a) may include terms and conditions to enable the authorised person to determine, in any case where the meter (if any) is not read immediately before the relevant time, the quantity of heating, cooling or hot water to be treated as supplied to, or consumed at, the premises during the period beginning with the relevant time and ending with the earlier of—
+  - (i) the time when the meter is first read after the relevant time; and
+  - (ii) the time when the authorised person ceases to supply heating, cooling or hot water to the premises;
+- (b) must provide that the charges payable for the supply are no higher than those payable under the authorised person’s applicable standard variable supply contract;
+- (c) must comply with the authorisation conditions of the authorised person’s heat network authorisation.
+
+(7) A scheme may make different provisions for different cases or classes of cases, or for different areas, determined by, or in accordance with, the provisions of the scheme.
+
+(8) As soon as reasonably practicable after an authorised person makes or revises a scheme, the authorised person must—
+
+- (a) publish, in such manner as the authorised person considers appropriate for bringing it to the attention of persons likely to be affected by it, a notice stating the effect of the scheme or the revised scheme; and
+- (b) send a copy of the scheme or the revised scheme to the Regulator, Citizens Advice and Consumer Scotland.
+
+(9) If requested to do so by, or on behalf of, a heat network consumer supplied by means of the relevant heat network to which an authorised person’s heat network authorisation relates, the authorised person must, without charge, send a copy of a scheme or a revised scheme to the person making the request.
+
+## PART 4 — Enforcement of conditions and requirements
+
+### 28. Orders for securing compliance[^key-30a7febf90b9fa2b2c6e8a4bb6e65f2f]
+
+(1) Where the Regulator is satisfied that an authorised person is contravening or is likely to contravene an authorisation condition or a relevant requirement, it must by final order make such provision as is requisite for the purpose of securing compliance with that condition or requirement.
+
+(2) Where it appears to the Regulator that an authorised person is contravening or is likely to contravene an authorisation condition or a relevant requirement and that it is requisite that a provisional order be made, it must (instead of taking steps towards the making of a final order) by a provisional order make such provision as appears to it requisite for the purpose of securing compliance with that condition or requirement.
+
+(3) In determining whether it is requisite that a provisional order be made, the Regulator must have regard in particular—
+
+- (a) to the extent to which any person is likely to sustain loss or damage in consequence of anything which, in contravention of the authorisation condition or relevant requirement, is likely to be done, or omitted to be done, before a final order may be made; and
+- (b) to the fact that the effect of the provisions of this regulation and regulation 30 (validity and effect of orders) is to exclude the availability of any remedy (apart from under those provisions or for negligence) in respect of any contravention of the authorisation condition or relevant requirement.
+
+(4) The Regulator must confirm a provisional order with or without modifications if—
+
+- (a) it is satisfied that the authorised person is contravening or is likely to contravene an authorisation condition or a relevant requirement; and
+- (b) the provision made by the order (with any modifications) is requisite for the purpose of securing compliance with that condition or requirement.
+
+(5) Before making a final order or making or confirming a provisional order, the Regulator must consider whether it would be more appropriate to proceed under the Competition Act 1998[^f00022].
+
+(6) The Regulator must not make a final order or make or confirm a provisional order if it considers that it would be more appropriate to proceed under the Competition Act 1998.
+
+(7) The Regulator must not make a final order or make or confirm a provisional order in relation to an authorised person if it is satisfied that the duties imposed by regulation 7 (general duties of the Regulator) preclude the making or confirmation of the order.
+
+(8) The Regulator is not required to make a final order or make or confirm a provisional order if it is satisfied—
+
+- (a) that the authorised person has agreed to take and is taking all such steps as it appears to the Regulator for the time being to be appropriate for the authorised person to take for the purpose of securing or facilitating compliance with the condition or requirement; or
+- (b) that the contraventions were, or the apprehended contraventions are, of a trivial nature.
+
+(9) Where the Regulator decides that it would be more appropriate to proceed under the Competition Act 1998 or is satisfied as mentioned in paragraphs (7) or (8), it must—
+
+- (a) serve notice that it has so decided or is so satisfied on the authorised person; and
+- (b) publish the notice in such manner as it considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them.
+
+(10) A final or provisional order—
+
+- (a) must require the authorised person to whom it relates to do, or not to do, such things as are specified in the order or are of a description so specified;
+- (b) must take effect at such time, being the earliest practicable time, as is determined by or under the order; and
+- (c) may be revoked at any time by the Regulator.
+
+(11) In this Part—
+
+- (a) “**final order**” means an order under this regulation other than a provisional order;
+- (b) “**provisional order**” means an order under this regulation which, if not previously confirmed, will cease to have effect at the end of such period (not exceeding 12 months) as is determined by or under the order.
+
+### 29. Procedure for final and provisional orders[^key-481c1db7276abee763916eaeed531680]
+
+(1) Before it makes a final order or confirms a provisional order, the Regulator must give notice—
+
+- (a) stating that it proposes to make or confirm the order and setting out its effect;
+- (b) setting out—
+  - (i) the condition or relevant requirement for the purpose of securing compliance with which the order is to be made or confirmed;
+  - (ii) the acts or omissions which, in its opinion, constitute or would constitute contraventions of that condition or requirement; and
+  - (iii) the other facts which, in its opinion, justify the making or confirmation of the order; and
+- (c) specifying the period (not being less than 21 days beginning with the date of publication of the notice) within which representations or objections with respect to the proposed order or proposed confirmation may be made,
+
+and must consider any representations or objections which are duly made and not withdrawn.
+
+(2) A notice under paragraph (1) must be given—
+
+- (a) by publishing the notice in such manner as the Regulator considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them; and
+- (b) by serving a copy of the notice, and a copy of the proposed order or of the order proposed to be confirmed, on the authorised person to whom the order relates (“**the authorised person**”).
+
+(3) The Regulator must not make a final order with modifications, or confirm a provisional order with modifications, except—
+
+- (a) with the authorised person’s consent to the modifications; or
+- (b) after complying with the requirements of paragraph (4).
+
+(4) The requirements are that the Regulator must—
+
+- (a) serve on the authorised person such notice as appears to it requisite of the proposal to make or confirm the order with modifications;
+- (b) in that notice specify the period (not being less than 21 days beginning with the date of the service of the notice) within which representations or objections with respect to the proposed modifications may be made; and
+- (c) consider any representations or objections which are duly made and not withdrawn.
+
+(5) As soon as practicable after making a final order or making or confirming a provisional order, the Regulator must—
+
+- (a) serve a copy of the order on the authorised person; and
+- (b) publish the order in such manner as it considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it.
+
+(6) Before revoking a final order or a provisional order which has been confirmed, the Regulator must give notice—
+
+- (a) stating that it proposes to revoke the order and setting out its effect; and
+- (b) specifying the period (not being less than 28 days beginning with the date of publication of the notice) within which representations or objections with respect to the proposed revocation may be made,
+
+and must consider any representations or objections which are duly made and not withdrawn.
+
+(7) If, after giving a notice under paragraph (6), the Regulator decides not to revoke the order to which the notice relates, it must give notice of its decision.
+
+(8) A notice under paragraph (6) or (7) must be given—
+
+- (a) by publishing the notice in such manner as the Regulator considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them; and
+- (b) by serving a copy of the notice on the authorised person.
+
+### 30. Validity and effect of orders[^key-26261e41109eac656e2c90a3dde4c56e]
+
+(1) An authorised person to whom a final or provisional order relates who is aggrieved by the order and desires to question its validity on the ground—
+
+- (a) that its making or confirmation was not within the powers of regulation 28; or
+- (b) that any of the requirements of regulation 29 have not been complied with in relation to it,
+
+may, within 42 days beginning with the date of service on the person of a copy of the order, make an application to the court under this regulation.
+
+(2) On any such application the court may, if satisfied that the making or confirmation of the order was not within those powers or that the interests of the authorised person have been substantially prejudiced by a failure to comply with those requirements, quash the order or any provision of the order.
+
+(3) Except as provided by this regulation, the validity of a final or provisional order must not be questioned by any legal proceedings whatever.
+
+(4) The obligation to comply with a final or provisional order is a duty owed to any person who may be affected by a contravention of the order.
+
+(5) Where a duty is owed by virtue of paragraph (4) to any person, any breach of the duty which causes that person to sustain loss or damage is actionable at the suit or instance of that person.
+
+(6) In any proceedings brought against an authorised person under paragraph (5), it is a defence for the person to prove that the person took all reasonable steps and exercised all due diligence to avoid contravening the order.
+
+(7) Without prejudice to any right which any person may have by virtue of paragraph (5) to bring civil proceedings in respect of any contravention or apprehended contravention of a final or provisional order, compliance with any such order is enforceable by civil proceedings by the Regulator for an injunction or for interdict or for any other appropriate relief.
+
+### 31. Imposition of a penalty[^key-bdbe48acdd0118c957128c40b369db70]
+
+(1) This regulation applies where the Regulator is satisfied that an authorised person has contravened or is contravening an authorisation condition or a relevant requirement.
+
+(2) The Regulator may impose a penalty on the authorised person of such amount as is reasonable in all the circumstances of the case.
+
+(3) The Regulator’s discretion under paragraph (2) is subject to regulation 45 (maximum amount of penalty or compensation).
+
+(4) The Regulator must have regard to any relevant statement of policy when deciding—
+
+- (a) whether to impose a penalty; and
+- (b) the amount of a penalty.
+
+(5) A relevant statement of policy is a statement of policy or revised statement of policy published under regulation 32 (requirement to publish statement of policy with respect to penalties) which applies at the time when the contravention occurred.
+
+(6) Before imposing a penalty on an authorised person under paragraph (2), the Regulator must consider whether it would be more appropriate to proceed under the Competition Act 1998.
+
+(7) The Regulator must not impose a penalty on an authorised person under paragraph (2) if it considers that it would be more appropriate to proceed under the Competition Act 1998.
+
+(8) Before imposing a penalty on an authorised person under paragraph (2), the Regulator must give notice—
+
+- (a) stating that it proposes to impose a penalty and the amount of the penalty proposed to be imposed;
+- (b) setting out the relevant condition or requirement in question;
+- (c) specifying the acts or omissions which, in the opinion of the Regulator, constitute the contravention and the other facts which, in the opinion of the Regulator, justify the imposition of a penalty and the amount of the penalty proposed; and
+- (d) specifying the period (not being less than 21 days beginning with the date of publication of the notice) within which representations or objections with respect to the proposed penalty may be made.
+
+(9) Before imposing a penalty, the Regulator must consider any representations or objections which are duly made under paragraph (8) and not withdrawn.
+
+(10) Before varying any proposal stated in a notice under paragraph (8)(a), the Regulator must give notice—
+
+- (a) setting out the proposed variation and the reasons for it; and
+- (b) specifying the period (not being less than 21 days beginning with the date of publication of the notice) within which representations or objections with respect to the proposed variation may be made.
+
+(11) Before varying a proposal, the Regulator must consider any representations or objections which are duly made under paragraph (10) and not withdrawn.
+
+(12) As soon as practicable after imposing a penalty, the Regulator must give notice—
+
+- (a) stating that it has imposed a penalty on the authorised person and its amount;
+- (b) setting out the relevant condition or requirement in question;
+- (c) specifying the acts or omissions which, in the opinion of the Regulator, constitute the contravention and the other facts which, in the opinion of the Regulator, justify the imposition of the penalty and its amount; and
+- (d) specifying a date, no earlier than the end of the period of 42 days beginning with the date of service of the notice on the authorised person, by which the penalty is required to be paid.
+
+(13) The authorised person may, within the period of 21 days beginning with the date of service of a notice on that person under paragraph (12), make an application to the Regulator for it to specify different dates by which different portions of the penalty are to be paid.
+
+(14) Any notice required to be given under this regulation must be given—
+
+- (a) by publishing the notice in such manner as the Regulator considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them;
+- (b) by serving a copy of the notice on the authorised person;
+- (c) by serving a copy of the notice on Citizens Advice; and
+- (d) by serving a copy of the notice on Consumer Scotland[^f00023].
+
+(15) Any sums received by the Regulator by way of penalty under this regulation must be paid into the Consolidated Fund.
+
+### 32. Requirement to publish statement of policy with respect to penalties[^key-abbf056573bebdc3b1bd12fed4a4ccb6]
+
+(1) The Regulator must as soon as reasonably practicable after this regulation comes into force prepare and publish a statement of policy with respect to—
+
+- (a) the imposition of penalties; and
+- (b) the determination of their amount.
+
+(2) The Regulator may revise its statement of policy and where it does so must publish the revised statement.
+
+(3) Publication under this regulation must be in such manner as the Regulator considers appropriate for the purpose of bringing the matters contained in the statement of policy to the attention of persons likely to be affected by them.
+
+(4) The Regulator must undertake such consultation as it considers appropriate when preparing or revising its statement of policy.
+
+(5) It is immaterial for the purposes of paragraph (4) whether consultation is carried out before or after the coming into force of this regulation.
+
+### 33. Time limits on the imposition of penalties[^key-05e2245315b8742cb884bf2a5119054a]
+
+The Regulator may not impose a penalty in respect of a contravention later than the end of the period of 5 years from the date of the contravention, unless before the end of that period—
+
+- (a) the notice under regulation 31(8) relating to the penalty is served on the authorised person under regulation 31(14);
+- (b) a notice relating to the contravention is served on the authorised person under regulation 48(2); or
+- (c) a final or provisional order is served on the authorised person.
+
+### 34. Payment of interest and payment in instalments[^key-c3c7ab030a4188bb8e30463ba6dff8e7]
+
+(1) If the whole or any part of a penalty is not paid by the date by which it is required to be paid, the unpaid balance from time to time carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838[^f00024].
+
+(2) If an application is made under paragraph (13) of regulation 31 in relation to a penalty, the penalty is not required to be paid until the application has been determined.
+
+(3) If the Regulator grants an application under that paragraph in relation to a penalty but any portion of the penalty is not paid by the date specified in relation to it by the Regulator under that paragraph, the Regulator may, where it considers it appropriate, require so much of the penalty as has not already been paid to be paid immediately.
+
+### 35. Appeals against penalties[^key-61e77871d88f8d737f513e725d530c77]
+
+(1) If the authorised person on whom a penalty is imposed is aggrieved by—
+
+- (a) the imposition of the penalty;
+- (b) the amount of the penalty; or
+- (c) the date by which the penalty is required to be paid, or the different dates by which different portions of the penalty are required to be paid,
+
+the authorised person may make an application to the court under this regulation.
+
+(2) An application under paragraph (1) must be made—
+
+- (a) within 42 days beginning with the date of service on the authorised person of a notice under regulation 31(12); or
+- (b) where the application relates to a decision of the Regulator on an application by the authorised person under regulation 31(13), within 42 days beginning with the date the authorised person is notified of the decision.
+
+(3) On any such application, where the court considers it appropriate to do so in all the circumstances of the case and is satisfied of one or more of the grounds falling within paragraph (4), the court—
+
+- (a) may quash the penalty;
+- (b) may substitute a penalty of such lesser amount as the court considers appropriate in all the circumstances of the case; or
+- (c) in the case of an application under paragraph (1)(c), may substitute for the date or dates imposed by the Regulator an alternative date or dates.
+
+(4) The grounds falling within this paragraph are—
+
+- (a) that the imposition of the penalty was not within the power of the Regulator under regulation 31;
+- (b) that any of the requirements of regulation 31(8) to (12) or (14) have not been complied with in relation to the imposition of the penalty and the interests of the authorised person have been substantially prejudiced by the non-compliance; or
+- (c) that it was unreasonable of the Regulator to require the penalty imposed, or any portion of it, to be paid by the date or dates by which it was required to be paid.
+
+(5) If an application is made under this regulation in relation to a penalty, the penalty is not required to be paid until the application has been determined.
+
+(6) Where the court substitutes a penalty of a lesser amount it may require the payment of interest on the substituted penalty at such rate, and from such date, as it considers just and equitable.
+
+(7) Where the court specifies as a date by which the penalty, or a portion of the penalty, is to be paid a date before the determination of the application under this regulation it may require the payment of interest on the penalty, or portion, from that date at such rate as it considers just and equitable.
+
+(8) Except as provided by this regulation, the validity of a penalty is not to be questioned by any legal proceedings whatever.
+
+### 36. Recovery of penalties[^key-62673df1233b420d0c3cdc064f77e999]
+
+Where a penalty imposed under regulation 31, or any portion of it, has not been paid by the date on which it is required to be paid and—
+
+- (a) no application relating to the penalty has been made under regulation 35 during the period within which such an application may be made; or
+- (b) an application has been made under that regulation and determined,
+
+the Regulator may recover from the authorised person, as a civil debt due to it, any of the penalty and any interest which has not been paid.
+
+### 37. Consumer redress orders[^key-4cb937bc8a3451ef36aa4a5b64d34664]
+
+(1) This regulation applies where the Regulator is satisfied that—
+
+- (a) an authorised person has contravened, or is contravening, any authorisation condition or relevant requirement; and
+- (b) as a result of the contravention, one or more heat network consumers have suffered loss or damage or been caused inconvenience.
+
+(2) The Regulator may make an order (a “consumer redress order”) requiring the authorised person to do such things as appear to the Regulator necessary for the purposes of—
+
+- (a) remedying the consequences of the contravention; or
+- (b) preventing a contravention of the same or a similar kind from being repeated.
+
+(3) A consumer redress order must specify the following—
+
+- (a) the authorised person to whom the order applies;
+- (b) the contravention in respect of which the order is made;
+- (c) the affected consumers, or a description of such consumers;
+- (d) the requirements imposed by the order;
+- (e) the date by which the authorised person must comply with such requirements.
+
+(4) As soon as practicable after making a consumer redress order, the Regulator must—
+
+- (a) serve a copy of the order on the authorised person to whom the order applies; and
+- (b) either—
+  - (i) serve a copy of the order on each affected consumer; or
+  - (ii) publish the order in such manner as the Regulator considers appropriate for the purpose of bringing it to the attention of affected consumers.
+
+(5) The date specified in a consumer redress order under paragraph (3)(e) may not be earlier than the end of the period of 7 days beginning with the date of the service of a copy of the order on the authorised person.
+
+(6) Different dates may be specified under paragraph (3)(e) in relation to different requirements imposed by the order.
+
+(7) This regulation is subject to regulations 38 to 44.
+
+(8) In this regulation and in regulations 38 to 44—
+
+- “**affected consumers**”, in relation to a consumer redress order (or proposed order), are those heat network consumers that the Regulator is satisfied have suffered loss or damage, or been caused inconvenience, as a result of the contravention in respect of which the order is (or would be) made;
+- “**consumer redress order**” means an order under paragraph (2).
+
+### 38. Remedial action under a consumer redress order[^key-2671e519bd6d9e5b3db6c4238f592f3d]
+
+(1) The things mentioned in regulation 37(2) that an authorised person may be required to do under a consumer redress order (“the required remedial action”) include, in particular—
+
+- (a) paying an amount to each affected consumer by way of compensation for the loss or damage suffered, or for the inconvenience caused, as a result of the contravention;
+- (b) preparing and distributing a written statement setting out the contravention and its consequences;
+- (c) terminating or varying any contracts entered into between the authorised person and affected consumers.
+
+(2) Where the required remedial action includes the payment of compensation, the order must specify—
+
+- (a) the amount of compensation to be paid; and
+- (b) the affected consumers, or a description of such consumers, to whom it is to be paid.
+
+(3) Where the required remedial action includes the preparation and distribution of a statement, the order may specify the information to be contained in the statement and the form and manner in which it is to be distributed.
+
+(4) The manner so specified may in particular include—
+
+- (a) sending a copy of the statement to each affected consumer;
+- (b) publishing the statement in such manner as the Regulator considers appropriate for the purpose of bringing the statement to the attention of those consumers.
+
+(5) Where the required remedial action includes the termination or variation of a contract with an affected consumer—
+
+- (a) the order may specify the terms on which the contract is to be terminated or the way in which it is to be varied;
+- (b) the requirement has effect only if, and to the extent that, the affected consumer consents to the termination of the contract on those terms or to its variation in that way; and
+- (c) the order may specify the steps to be taken by the authorised person for the purpose of enabling the affected consumer to give such consent.
+
+### 39. Other procedural requirements in relation to consumer redress orders[^key-053680860dccfc0d9909e4dcc5ed516d]
+
+(1) Before making a consumer redress order the Regulator must give notice stating that it proposes to make the order.
+
+(2) A notice under paragraph (1) must specify—
+
+- (a) the authorised person to whom the order will apply;
+- (b) the contravention in respect of which the order is to be made;
+- (c) the affected consumers, or a description of such consumers;
+- (d) the requirements to be imposed by the order and the period within which such requirements are to be complied with; and
+- (e) the time (not being less than 21 days beginning with the relevant date) within which representations or objections with respect to the proposed order may be made,
+
+and the Regulator must consider any representations or objections which are duly made and not withdrawn.
+
+(3) Before varying any proposal stated in a notice under paragraph (1) the Regulator must give notice specifying—
+
+- (a) the proposed variation and the reasons for it; and
+- (b) the time (not being less than 21 days beginning with the relevant date) within which representations or objections with respect to the proposed variation may be made,
+
+and must consider any representations or objections which are duly made and not withdrawn.
+
+(4) Before revoking a consumer redress order the Regulator must give notice—
+
+- (a) stating that it proposes to revoke the order and the reasons for doing so; and
+- (b) specifying the time (not being less than 21 days beginning with the relevant date) within which representations or objections to the proposed revocation may be made,
+
+and must consider any representations or objections which are duly made and not withdrawn.
+
+(5) A notice required to be given under this regulation is to be given—
+
+- (a) by serving a copy of the notice on the authorised person; and
+- (b) either—
+  - (i) by serving a copy of the notice on each affected consumer; or
+  - (ii) by publishing the notice in such manner as the Regulator considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of affected consumers.
+
+(6) The “**relevant date**”, in relation to a notice under this regulation, is—
+
+- (a) in a case where the notice is published in accordance with paragraph (5)(b)(ii), the date on which it is published;
+- (b) in any other case, the latest date on which a copy of the notice is served in accordance with paragraph (5)(a) and (b)(i).
+
+### 40. Requirement to publish statement of policy with respect to consumer redress orders[^key-cb99c3210daba4c5a6130f12cc17291a]
+
+(1) The Regulator must as soon as reasonably practicable after this regulation comes into force prepare and publish a statement of policy with respect to—
+
+- (a) the making of consumer redress orders; and
+- (b) the determination of the requirements to be imposed by such orders (including, in particular, the considerations the Regulator will have regard to in determining such requirements).
+
+(2) The Regulator must have regard to its current statement of policy—
+
+- (a) in deciding whether to make a consumer redress order; and
+- (b) in determining the requirements to be imposed by any such order.
+
+(3) The Regulator may revise its statement of policy and, where it does so, must publish the revised statement.
+
+(4) Publication under this regulation is to be in such manner as the Regulator considers appropriate for the purpose of bringing the matters contained in the statement of policy to the attention of persons likely to be affected by them.
+
+(5) The Regulator must consult such persons as it considers appropriate when preparing or revising its statement of policy.
+
+(6) It is immaterial for the purposes of paragraph (5) whether consultation is carried out before or after the coming into force of this regulation.
+
+### 41. Time limits for making consumer redress orders[^key-374b89aaa9f8880688e3d3adc39e546b]
+
+The Regulator may not give a consumer redress order in respect of a contravention later than the end of the period of 5 years from the time of the contravention, unless before the end of that period—
+
+- (a) the notice under regulation 39(1) relating to the order is served on the authorised person;
+- (b) a notice relating to the contravention is served on the authorised person under regulation 48(2); or
+- (c) a final or provisional order is served on the authorised person.
+
+### 42. Enforcement of consumer redress orders[^key-aa3dc8617efca8ee4120f8b8473f346a]
+
+(1) Compliance with a consumer redress order is enforceable by civil proceedings by the Regulator—
+
+- (a) for an injunction or interdict;
+- (b) for specific performance of a statutory duty under section 45 of the Court of Session Act 1988[^f00025]; or
+- (c) for any other appropriate remedy or relief.
+
+(2) Proceedings under paragraph (1) are to be brought—
+
+- (a) in England and Wales, in the High Court; or
+- (b) in Scotland, in the Court of Session.
+
+(3) The obligation of an authorised person to comply with a consumer redress order is a duty owed to any person who may be affected by a contravention of the order.
+
+(4) Without limiting the Regulator’s right to bring civil proceedings under paragraph (1), a duty owed to any person (“**P**”) by virtue of paragraph (3) may be enforced by civil proceedings by P for any appropriate remedy or relief.
+
+(5) For the purposes of paragraph (4), the duty owed to P may in particular be enforced by P as if it were contained in a contract between P and the authorised person who owes the duty.
+
+### 43. Appeals against consumer redress orders[^key-d693579f9e9591afa53ff63c8e83618d]
+
+(1) An authorised person in respect of whom a consumer redress order is made may make an application to the court under this regulation if the person is aggrieved by—
+
+- (a) the making of the order; or
+- (b) any requirement imposed by the order.
+
+(2) An application under paragraph (1) must be made within 42 days beginning with the date of service on the authorised person of a copy of the order under regulation 37(4)(a).
+
+(3) On an application under paragraph (1) the court may—
+
+- (a) quash the order or any provision of the order; or
+- (b) vary any such provision in such manner as the court considers appropriate.
+
+(4) The court may exercise the powers under paragraph (3) only if it considers it appropriate to do so in all the circumstances of the case and is satisfied of one or more of the following grounds—
+
+- (a) that the making of the order was not within the power of the Regulator under regulation 37;
+- (b) that any of the requirements under regulations 37(4) and 39 have not been complied with in relation to the making of the order and the interests of the authorised person have been substantially prejudiced by the non-compliance;
+- (c) that it was unreasonable of the Regulator to require something to be done under the order (whether at all or in accordance with the provisions of the order).
+
+(5) If an application is made under this regulation in relation to a consumer redress order, a requirement imposed by the order does not need to be carried out in accordance with the order until the application has been determined.
+
+(6) Where the court substitutes a lesser amount of compensation for an amount required by the Regulator in a consumer redress order, it may require the payment of interest on the substituted amount at such rate, and from such date, as it considers just and equitable.
+
+(7) Where the court specifies as a date by which any compensation under a consumer redress order is to be paid a date before the determination of the application under this regulation, it may require the payment of interest on the amount from that date at such rate as it considers just and equitable.
+
+(8) Except as provided by this regulation, the validity of a consumer redress order is not to be questioned by any legal proceedings whatever.
+
+### 44. Consumer redress orders: miscellaneous[^key-d0494e0965b2f901d05ce6a2c6158710]
+
+(1) If—
+
+- (a) compensation is required to be paid under a consumer redress order; and
+- (b) it is not paid by the date by which it is required to be paid in accordance with the order,
+
+the unpaid balance from time to time carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838.
+
+(2) The Regulator may not make a consumer redress order where it is satisfied that the most appropriate way of proceeding is under the Competition Act 1998.
+
+(3) The Regulator’s power to make a consumer redress order as a result of a contravention of a relevant condition or requirement is not to be taken as limiting the Regulator’s power to impose a penalty under regulation 31 in relation to the same contravention (whether instead of, or in addition to, making a consumer redress order).
+
+### 45. Maximum amount of penalty or compensation[^key-dfa46a6c4c5204c203369a42902ae999]
+
+(1) The maximum amount of penalty that may be imposed on an authorised person in respect of a contravention is the amount set out in paragraph (3).
+
+(2) The maximum amount of compensation that an authorised person may be required to pay in respect of a contravention is the amount set out in paragraph (3).
+
+(3) The amount is the higher of—
+
+- (a) 10% of the authorised person’s turnover; and
+- (b) £1 million.
+
+(4) Paragraphs (1) to (3) are subject to paragraph (5) if, in respect of a contravention, both a penalty is imposed and compensation is required to be paid.
+
+(5) The maximum amount in total of the penalty and compensation combined in respect of the contravention is the amount set out in paragraph (3).
+
+(6) For the purposes of this regulation, a person’s turnover must be determined in the same way as a licence holder’s turnover is determined under the Electricity and Gas (Determination of Turnover for Penalties) Order 2002[^f00026].
+
+(7) In this regulation—
+
+- “**compensation**” means compensation that an authorised person is required to pay by a consumer redress order;
+- “**penalty**” means a penalty imposed on an authorised person under regulation 31.
+
+### 46. Functions with respect to competition[^key-18a40035f9dee98e55dea030e951238d]
+
+(1) The following functions are exercisable concurrently by the GEMA and the Competition and Markets Authority (“**CMA**”) so far as they relate to commercial activities connected with the supply of heating, cooling or hot water to heat network consumers by means of a relevant heat network.
+
+(2) The functions are—
+
+- (a) the functions of the CMA under Part 1 of the Competition Act 1998 (other than sections 31D(1) to (6)[^f00027], 35C[^f00028], 38(1) to (6)[^f00029], 40B(1) to (4)[^f00030] and 51[^f00031]) that relate to any of the following—
+  - (i) agreements, decisions or concerted practices of the kind mentioned in section 2(1) of that Act;
+  - (ii) conduct of the kind mentioned in section 18(1) of that Act; or
+  - (iii) transferred EU anti-trust commitments or transferred EU anti-trust directions (as defined in section 40ZA of that Act); and
+- (b) the functions of the CMA under Part 4 of the Enterprise Act 2002 (other than sections 166[^f00032], 167C[^f00033], 171[^f00034] and 174E[^f00035]) that are exercisable by the CMA Board (within the meaning of Schedule 4 to the Enterprise and Regulatory Reform Act 2013).
+
+(3) So far as necessary for the purposes of, or in connection with, paragraphs (1) and (2)—
+
+- (a) references in Part 1 of the Competition Act 1998 (including references in provisions of the Enterprise Act 2002 applied by that Part) to the CMA are to be read as including a reference to the GEMA (except in sections 31D(1) to (6)[^f00036], 35C[^f00037], 38(1) to (6)[^f00038], 40B(1) to (4)[^f00039], 51[^f00040], 52(6)[^f00041] and (8)[^f00042] and 54[^f00043] of that Act);
+- (b) references in Part 4 of the Enterprise Act 2002 to the CMA (including references in provisions of that Act applied by that Part) are to be read as including a reference to the GEMA (except in sections 166, 167C, 171 and 174E of that Act);
+- (c) references in Part 4 of the Enterprise Act 2002 to the CMA carrying out or exercising its functions under section 5[^f00044] of that Act are to be read as including references to regulation 9.
+
+(4) Section 130A of the Enterprise Act 2002[^f00045] is to have effect in its application in relation to the GEMA by virtue of paragraphs (1) and (2) as if—
+
+- (a) for subsection (1) there were substituted—
+
+  > (1) Where the Gas and Electricity Markets Authority—
+  >
+  > - (a) is proposing to carry out its functions under regulation 9 of the Heat Networks (Market Framework) (Great Britain) Regulations 2025 in relation to a matter for the purposes mentioned in subsection (2), and
+  > - (b) it considers the matter is one in respect of which it would be appropriate for the Authority to exercise powers under section 174 (investigation) in connection with deciding whether to make a reference under section 131,
+  >
+  > the Authority must publish a notice under this section (referred to in this Part as a “**market study notice**”).
+
+  ; and
+- (b) in subsection (2)(a), for “the acquisition or supply of goods or services of one or more than one description in the United Kingdom” there were substituted “commercial activities connected with the supply of heating, cooling or hot water to heat network consumers (within the meaning of the Heat Networks (Market Framework) (Great Britain) Regulations 2025) by means of a relevant heat network (within the meaning of Part 8 of the Energy Act 2023)”.
+
+(5) Paragraphs (6) and (7) apply where the GEMA—
+
+- (a) makes a market investigation reference under section 131 of the Enterprise Act 2002[^f00046]; and
+- (b) a CMA group (within the meaning of Schedule 4 to the Enterprise and Regulatory Reform Act 2013) is carrying out an investigation on that reference.
+
+(6) The GEMA must give the CMA group—
+
+- (a) any information which is in its possession and relates to matters falling within the scope of the investigation and—
+  - (i) is requested by the group for the purpose of assisting with the investigation; or
+  - (ii) is information which in the GEMA’s opinion it would be appropriate to give to the group for the purpose of assisting with the investigation without any such request being made; and
+- (b) any other assistance with the investigation which the group may require and which is within the GEMA’s power to give.
+
+(7) The CMA group must, in carrying out the investigation, take into account any information given to them for the purpose of assisting them with carrying out the investigation.
+
+(8) Section 117 of the Enterprise Act 2002[^f00047] (offences of supplying false or misleading information) as applied by section 180 of that Act has effect so far as relating to functions exercisable by the GEMA by virtue of paragraphs (1) and (2) as if the references in section 117(1)(a) and (2) to the CMA included references to the GEMA.
+
+(9) To the extent that section 43(6A) of the Electricity Act 1989 ceases to have effect following the coming into force of paragraph 17(7) of Schedule 12 to the Digital Markets, Competition and Consumers Act 2024, paragraph (8) also ceases to have effect.
+
+(10) In making any decision, or otherwise taking action, for the purpose of any of its functions that—
+
+- (a) by virtue of this regulation, are functions exercisable concurrently with the CMA; and
+- (b) in the case of functions under the Competition Act 1998, are functions within Schedule 4A to the Enterprise and Regulatory Reform Act 2013 by virtue of paragraph 5 of that Schedule,
+
+the GEMA must have regard to the need for making a decision, or taking action, as soon as reasonably practicable.
+
+### 47. Procedure for concurrent exercise of functions[^key-434c056a32b0cdbc0238f9545d563b3c]
+
+(1) Before the CMA or the GEMA first exercises in relation to any matter functions within regulation 46(2)(b) (“Part 4 functions”) which are exercisable concurrently by virtue of regulation 46(1) and (2) (concurrent exercise of functions), it must consult the other.
+
+(2) Neither the CMA nor the GEMA may exercise in relation to any matter Part 4 functions which are exercisable concurrently by virtue of regulation 46(1) and (2) (concurrent exercise of functions) if Part 4 functions which are so exercisable have been exercised in relation to that matter by the other.
+
+(3) If any question arises as to whether a function in regulation 46(2) may be exercised by the GEMA in any particular case—
+
+- (a) that question must be referred to and determined by the Secretary of State; and
+- (b) no objection may be taken to anything done by or in relation to the GEMA under Part 4 of the Enterprise Act 2002 or Part 1 of the Competition Act 1998 (other than sections 31D(1) to (6), 35C, 38(1) to (6), 40B(1) to (4) and 51) on the ground that it should have been done by or in relation to the CMA.
+
+## PART 5 — Investigation
+
+### 48. Powers to require information, etc.[^key-1c0febdb4e8427070d73062af0357e0f]
+
+(1) Where it appears to the Regulator that an authorised person may be contravening, or may have contravened, any relevant condition or requirement, the Regulator may, for any purpose connected with any of its enforcement functions under Part 4 as are exercisable in relation to that matter, serve a notice under paragraph (2) on any person.
+
+(2) A notice under this regulation is a notice signed by the Regulator and—
+
+- (a) requiring the person on whom it is served to produce, at a time and place specified in the notice, to the Regulator or to any person appointed by the Regulator for the purpose, any documents which are specified or described in the notice and are in that person’s custody or under that person’s control; or
+- (b) requiring that person, if that person is carrying on a business, to furnish, at a time and place and in the form and manner specified in the notice, to the Regulator such information as may be specified or described in the notice.
+
+(3) Where a heat network authorisation has been or is to be revoked or has expired or is about to expire by effluxion of time, and it appears to the Regulator, having regard to its duties under regulations 7 and 8, to be requisite or expedient to do so for any purpose connected with the revocation or expiry, the Regulator may, with the consent of the Secretary of State, by notice in writing—
+
+- (a) require the authorised person to produce, at a time and place specified in the notice, to the Regulator, or to any person so specified, any records which are specified or described in the notice and are in the authorised person’s custody or under the authorised person’s control; or
+- (b) require the authorised person to furnish to the Regulator, or to any person specified in the notice, such information as may be specified or described in the notice, and specify the time, the manner and the form in which any such information is to be furnished.
+
+(4) The requirement for the consent of the Secretary of State in paragraph (3) does not apply to the extent that the Regulator is the Secretary of State.
+
+(5) A person must not be required under this regulation to produce any documents or records which the person could not be compelled to produce in civil proceedings in the court or, in complying with any requirement for the furnishing of information, to give any information which the person could not be compelled to give in evidence in any such proceedings.
+
+(6) If a person makes default in complying with a notice under this regulation, the court may, on the application of the Regulator, make such order as the court thinks fit for requiring the default to be made good; and any such order may provide that all the costs or expenses of and incidental to the application must be borne by the person in default or by any officers of a company or other association who are responsible for its default.
+
+### 49. Inspections[^key-202573290b7996112c45b1f6d95bf433]
+
+The Regulator may authorise a person (“an authorised officer”) to exercise, on behalf of the Regulator and in accordance with the terms of the authorisation, the powers set out in Schedule 2.
+
+## PART 6 — Consumer protection
+
+### CHAPTER 1 — Standards of performance
+
+#### 50. Standards of performance in individual cases[^key-86864bd0568751a2cea6733ef995e1dd][^key-86864bd0568751a2cea6733ef995e1dd]
+
+(1) The Regulator may make regulations prescribing such standards of performance in connection with the regulated activities of authorised persons so far as affecting—
+
+- (a) heat network consumers supplied by the relevant heat networks to which the authorised persons’ heat network authorisations relate; or
+- (b) heat network consumers who would be supplied by those relevant heat networks,
+
+as in the Regulator’s opinion ought to be achieved as regards those persons.
+
+(2) Regulations under this regulation may—
+
+- (a) specify the circumstances in which authorised persons are to inform persons of rights conferred on them under the regulations;
+- (b) provide for exemptions from standards of performance;
+- (c) require the holders of heat network authorisations to provide information about their compliance with standards of performance,
+
+and may make different provision for different descriptions of authorised persons.
+
+(3) If an authorised person fails to meet a standard of performance, the authorised person must make to any person who is affected by the failure and is of a prescribed description such compensation as may be determined by or under the regulations.
+
+(4) Compensation awarded under the regulations in respect of a failure to meet a standard of performance does not prejudice any other remedy which may be available in respect of the act or omission which constituted the failure.
+
+(5) In this regulation “**prescribed**” means prescribed by regulations under this regulation.
+
+(6) Regulations made under this regulation may not take effect before the launch date.
+
+#### 51. Standards of performance in individual cases: disputes[^key-f55832a8755052b2842d59d456b03542][^key-f55832a8755052b2842d59d456b03542]
+
+(1) Any dispute arising under regulation 50 or regulations made under that regulation may be referred to the Regulator—
+
+- (a) by either party; or
+- (b) with the consent of either party by Citizens Advice, Citizens Advice Scotland or Consumer Scotland or those bodies or any two of them acting jointly.
+
+(2) Any such dispute is to be determined by order of the Regulator and the practice and procedure to be followed in connection with the determination of any such dispute is such as may be prescribed.
+
+(3) An order under paragraph (2) is final and is enforceable—
+
+- (a) in England and Wales, as if it were a judgment of the county court; and
+- (b) in Scotland, as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff.
+
+(4) In this regulation “**prescribed**” means prescribed by regulations made by the Regulator.
+
+(5) Regulations made under this regulation may not take effect before the launch date.
+
+#### 52. Overall standards of performance[^key-e8622b1b5c46a10f58f1674d9ebb1cc9][^key-e8622b1b5c46a10f58f1674d9ebb1cc9]
+
+(1) The Regulator may from time to time—
+
+- (a) determine such standards of overall performance as, in the Regulator’s opinion, ought to be achieved by authorised persons in connection with their regulated activities;
+- (b) arrange for the publication, in such form and in such manner as the Regulator considers appropriate, of the standards so determined.
+
+(2) Different standards may be determined for different descriptions of authorised persons.
+
+(3) Authorised persons must conduct their regulated activities in such a way as can reasonably be expected to lead to compliance with the standards published under paragraph (1).
+
+(4) Standards determined under this regulation may not take effect before the launch date.
+
+#### 53. Procedure for establishing standards of performance[^key-6759a53550116e9d5575f8f48468e0fe][^key-6759a53550116e9d5575f8f48468e0fe]
+
+(1) Before prescribing standards of performance in regulations under regulation 50, or determining standards of performance under regulation 52, the Regulator must—
+
+- (a) arrange for such research as the Regulator considers appropriate with a view to discovering the views of a representative sample of persons likely to be affected and consider the results;
+- (b) publish a notice of its proposals in accordance with paragraphs (3) and (4) and consider any representations which are duly made in respect of those proposals; and
+- (c) consult Citizens Advice, Consumer Scotland and other persons or bodies appearing to the Regulator to be representative of persons likely to be affected by the regulations or determination.
+
+(2) In determining if and to what extent research must be arranged for the purposes of paragraph (1)(a), the Regulator may have regard to research made available to it by the Secretary of State.
+
+(3) The notice required by paragraph (1)(b) is a notice—
+
+- (a) stating that the Regulator proposes to prescribe or determine standards of performance and setting out the standards of performance proposed;
+- (b) stating the reasons why it proposes to prescribe or determine those standards of performance; and
+- (c) specifying the time (not being less than 28 days beginning with the date of publication of the notice) within which representations with respect to the proposals may be made.
+
+(4) A notice required by paragraph (1)(b) must be published in such manner as the Regulator considers appropriate for the purpose of bringing it to the attention of those likely to be affected by the proposals.
+
+(5) The Regulator must make arrangements for securing that notices under paragraph (1)(b), regulations under regulation 50 and 51 and determinations under regulation 52 are made available to the public by whatever means it considers appropriate.
+
+(6) The requirements of this regulation may be satisfied by action taken before these Regulations are made.
+
+(7) Regulations under regulation 50 or 51—
+
+- (a) may only be made with the Secretary of State’s consent;
+- (b) must be made by statutory instrument.
+
+### CHAPTER 2 — Consumer advocacy and redress schemes
+
+#### 54. Application of Part 1 of the Consumers, Estate Agents and Redress Act 2007 with modifications[^key-2ade186c214a7a16ffb73736a9347498][^key-9d947f47210d6989e546e79f5e619e51][^key-2ade186c214a7a16ffb73736a9347498]
+
+(1)[^key-2ade186c214a7a16ffb73736a9347498] Part 1 of the Consumers, Estate Agents and Redress Act 2007 (the consumer advocacy bodies)[^f00048] applies in relation to heat network consumers as it applies in relation to designated consumers within section 4(1)(a) of that Act (designated consumers), subject to the following modifications.
+
+(2)[^key-2ade186c214a7a16ffb73736a9347498] Section 13 (investigation of complaints relating to disconnection of gas or electricity) is to be taken to apply to a complaint made by a heat network consumer against an authorised person which relates to one of the following—
+
+- (a) the disconnection of, or threat to disconnect, the heat network consumer’s premises from a relevant heat network by the authorised person;
+- (b) following such a disconnection, a refusal by the authorised person to reconnect the premises;
+- (c) a failure in the facilities for payment for the supply of heating, cooling or hot water which results in a heat network consumer with a prepayment meter being unable to make a payment for the supply of heating, cooling or hot water;
+- (d) where a payment has been made for the supply of heating, cooling or hot water through a prepayment meter, a case where the supply is not given through the prepayment meter because of a defect in the meter or in the facilities for payment; or
+- (e) any other matter connected with the supply of heating, cooling or hot water to the heat network consumer or a refusal by the authorised person to supply heating, cooling or hot water to the heat network consumer.
+
+(3)[^key-2ade186c214a7a16ffb73736a9347498] But a complaint is only within paragraph (2)(b) if it is made by a person who was a heat network consumer in relation to the relevant heat network in question at the time of the disconnection.
+
+(4)[^key-9d947f47210d6989e546e79f5e619e51] Section 14 (reference of matters to the Gas and Electricity Markets Authority) is to be read as if—
+
+- (a) references to “the Authority” were to the Regulator;
+- (b) references to “**enforcement functions**” in relation to the Authority were to any of the Regulator’s functions under regulation 28 (orders for securing compliance), 31 (imposition of a penalty) or 37 (consumer redress orders) of these Regulations;
+- (c) the reference in subsection (4) to “the Gas Act [1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44) or the Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29)” were to these Regulations.
+
+(5)[^key-2ade186c214a7a16ffb73736a9347498] Section 19A (guidance for energy consumers) is to be read as if references to “energy consumers” included heat network consumers.
+
+(6)[^key-9d947f47210d6989e546e79f5e619e51] Section 24 (provision of information to the consumer advocacy bodies) is to be read as if the Regulator were a person within subsection (3).
+
+(7)[^key-9d947f47210d6989e546e79f5e619e51] Section 25 (enforcement by regulator of section 24 notice) is to be read as if—
+
+- (a) an authorised person were a “regulated provider” within subsection (3);
+- (b) the “**relevant regulator**” in relation to an authorised person were the Regulator.
+
+(8)[^key-9d947f47210d6989e546e79f5e619e51] An obligation imposed on an authorised person by virtue of section 25(5) as applied by these Regulations is enforceable under Part 4 of these Regulations as a relevant requirement.
+
+(9)[^key-9d947f47210d6989e546e79f5e619e51] Sections 27 (provision of information by a consumer advocacy body) and 29 (disclosure of information) are to be read as if the Regulator were an “authorised person” within section 27(3).
+
+(10)[^key-2ade186c214a7a16ffb73736a9347498] Section 40B(1) (exemption from liability in damages) is to be read as if it applied to a function conferred by or under these Regulations.
+
+#### 55. Certain documents to be sent to Citizens Advice and Consumer Scotland[^key-bc39036e9f61e6fea7385777013e9a48]
+
+Where the Regulator is required by any provision of these Regulations to publish a notice or any other document, the Regulator must send a copy of the document to Citizens Advice and Consumer Scotland.
+
+#### 56. Application of Part 2 of the Consumers, Estate Agents and Redress Act 2007 with modifications[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3][^key-184bc6c85d3a2845e11535de0c2f79de][^key-2b023fb3650649377acc09eb4d21943d]
+
+(1)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] Part 2 of the Consumers, Estate Agents and Redress Act 2007 applies in relation to heat network consumers subject to the following modifications.
+
+(2)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] All authorised persons are to be considered regulated providers.
+
+(3)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] Each person who is a heat network consumer in relation to a relevant heat network is to be considered a relevant consumer in relation to an authorised person who carries on a regulated activity in relation to that network.
+
+(4)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] The GEMA is to be considered the relevant regulator in relation to all authorised persons.
+
+(5)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] Section 43(1) is to be read as if for “must” there were substituted “may” but regulations made by the Regulator by virtue of this paragraph may not take effect before the launch date.
+
+(6)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] The requirements of section 44(1) as applied by these Regulations may be satisfied by action taken before these Regulations are made.
+
+(7)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] The Secretary of State is to be taken to have—
+
+- (a) made an order under section 47(1), coming into force on the same date as this paragraph, requiring all authorised persons to be members of a redress scheme within section 47(1)(b);
+- (b) specified in that order that the requirement applies only in relation to consumer complaints in connection with the supply of heating, cooling or hot water for domestic purposes or for the purposes of a small business or[^key-9f2c68a58f5053af8cc84602332a8255] a micro-business;
+- (c) designated the Energy Ombudsman Scheme as an appropriate redress scheme in relation to all authorised persons; and
+- (d) retained the power to designate a replacement or alternative redress scheme for the purpose of section 47(1)(b).
+
+(8)[^key-2b023fb3650649377acc09eb4d21943d][^key-5f7995e7ecd636f651d26036de2252e3] An obligation imposed on an authorised person by virtue of section 43, 46 or 47 as applied by these Regulations is enforceable under Part 4 of these Regulations as a relevant requirement.
+
+(9)[^key-184bc6c85d3a2845e11535de0c2f79de] A person who is an authorised person by virtue of regulation 27 (deemed heat network authorisations) and is not a member of the Energy Ombudsman Scheme is bound by the Scheme Terms as if the person were a member from the date this paragraph comes into force.
+
+(10)[^key-184bc6c85d3a2845e11535de0c2f79de] Paragraph (9) ceases to have effect—
+
+- (a) if the Secretary of State designates a replacement redress scheme under paragraph (7)(d); or
+- (b) in relation to a person who becomes a member of the Energy Ombudsman Scheme.
+
+(11)[^key-184bc6c85d3a2845e11535de0c2f79de] In this regulation—
+
+- “**the Energy Ombudsman Scheme**” means the scheme under that name operated by Trust Alliance Group Limited (a company registered in England and Wales with company number 04351294);
+- “**a member**”, in relation to the Energy Ombudsman Scheme as constituted by the Scheme Terms, means a “Participating Company” within the meaning of the Scheme Terms;
+- “[^key-f3841d85d123750f67cf5baa4df628a5]**micro-business**” means a business that—
+  - (a) consumes less than 247,000 kilowatt hours of heat per year; or
+  - (b) has fewer than 10 full-time equivalent employees and—
+    - (i) an annual turnover of £2 million or less; or
+    - (ii) a balance sheet total of £2 million or less;
+- “**the Scheme Terms**” are the terms of the Energy Ombudsman Deed Poll[^f00049] read with the Terms of Reference: Energy Sector and the Membership Rules for Participating Companies[^f00050] as they have effect when these Regulations are made.
+- “[^key-8bd364438b852f27d0195692afaa7722]**small business**” means a business other than a micro-business that—
+  - (a) consumes less than 420,000 kilowatt hours of heat per year; or
+  - (b) has fewer than 50 full-time equivalent employees and—
+    - (i) an annual turnover of £6.5 million or less; or
+    - (ii) a balance sheet total of £5 million or less.
+
+(12)[^key-9a6f70eb8b28271069b0a88948ba499e] For the purpose of this regulation, the number of full-time equivalent employees of a business must be calculated by taking the number of full-time employees and adding, for each employee who is not a full-time employee, such fraction as is reasonable.
+
+## PART 7 — Financial arrangements
+
+### 57. Expenses relating to consumer advocacy and advice[^key-b7ca7e88932cfd79f3aff5c887ffdc87]
+
+(1) The Regulator may include in a general authorisation condition a provision requiring an authorised person to pay sums to the Regulator relating to the costs of the bodies listed in paragraph (2) in providing, or arranging for the provision of, consumer advocacy and advice in relation to heat network consumers.
+
+(2) The bodies are—
+
+- (a) Citizens Advice;
+- (b) Citizens Advice Scotland;
+- (c) Consumer Scotland;
+- (d) a qualifying public consumer advice body.
+
+(3) A “qualifying public consumer advice body” is a body that is supported by Citizens Advice or Consumer Scotland to enable the body to provide, or arrange for the provision of, consumer advocacy or advice in relation to heat network consumers free of charge.
+
+### 58. Directions to the Regulator relating to expenses under regulation 57[^key-7adeb65ee7374f44cf16d114cff736f2]
+
+(1) The Secretary of State may direct the Regulator to determine a general authorisation condition requiring an authorised person to pay sums to the Regulator relating to the costs mentioned in regulation 57 (expenses relating to consumer advocacy and advice).
+
+(2) The Regulator must comply with a direction given under paragraph (1).
+
+### 59. Payment into Consolidated Fund[^key-0b5a1094c05ef854c26bf1bb31080a06]
+
+The Regulator must pay into the Consolidated Fund any sums received from fees paid to the Regulator under an authorisation condition imposed by virtue of regulation 20(1)(j) (scope of authorisation conditions).
+
+## PART 7A — Special administration regime[^key-da4c1909e95b8537e554036f9e59c090]
+
+### 59A. Interpretation of Part 7A
+
+In this Part—
+
+- “**court**” has the meaning given in section 171(1) of the Energy Act 2004;
+- “**protected heat network company**” means a company that holds a heat network authorisation other than any of the following—
+  - (a) a registered provider of social housing;
+  - (b) a body registered as a social landlord under Part 1 of the Housing Act 1996 (social rented sector regulated by Welsh Ministers);
+  - (c) a body registered in the register maintained under section 20(1) of the Housing (Scotland) Act 2010.
+
+### 59B. Heat network administration orders
+
+(1) The court may make a heat network administration order in relation to a protected heat network company.
+
+(2) A “heat network administration order” is an order directing that, while the order is in force, the affairs, business and property of the company are to be managed by a person appointed by the court.
+
+(3) The person appointed by the court is the “heat network administrator” of the company.
+
+(4) The heat network administrator of a protected heat network company must manage the company’s affairs, business and property, and exercise all other functions that the person has as heat network administrator, so as to achieve the objectives set out in regulation 59C so far as possible.
+
+(5) Where a non-GB company is subject to a heat network administration order—
+
+- (a) the effect of the order is limited to the company’s affairs and business so far as carried on in Great Britain and to its property in Great Britain only;
+- (b) references in this regulation to the affairs, business and property of the company must be construed accordingly.
+
+### 59C. Objectives of heat network administration order
+
+(1) The objectives of a heat network administration order are to secure the following—
+
+- (a) that the supply of heating, cooling or hot water is continued at the lowest cost that it is reasonably practicable to incur;
+- (b) insofar as consistent with sub-paragraph (a), that the company’s relevant heat network is, and continues to be maintained and developed as, an efficient and economical system; and
+- (c) that it becomes unnecessary, by using one or more of the means referred to in paragraph (2), for the order to remain in force for those purposes.
+
+(2) The means are—
+
+- (a) the rescue as a going concern of the company subject to the heat network administration order;
+- (b) transfers falling within paragraph (3);
+- (c) the heat network administrator making arrangements for securing that heat network consumers supplied with heating, cooling or hot water by the company’s relevant heat network have an alternative supply of heating or, as the case may be, cooling or hot water.
+
+(3) A transfer falls within this paragraph if it is a transfer as a going concern of so much of the undertaking of the company subject to the heat network administration order as is associated with the company’s relevant heat network—
+
+- (a) to another company; or
+- (b) as respects different parts of that undertaking, to two or more different companies,
+
+as it is appropriate to transfer for the purposes of achieving the objectives of the order.
+
+(4) The means by which a transfer falling within paragraph (3) may be effected include—
+
+- (a) a transfer to a wholly-owned subsidiary of the company;
+- (b) a transfer to another company of securities of a wholly-owned subsidiary to which there has been a transfer falling within sub-paragraph (a).
+
+(5) The objectives of a heat network administration order may be achieved by a transfer falling within paragraph (3) only to the extent that—
+
+- (a) the rescue as a going concern of the company subject to the order is not reasonably practicable or is not reasonably practicable without such a transfer;
+- (b) the rescue of the company as a going concern will not achieve the objectives or will not do so without such a transfer;
+- (c) such a transfer would produce a result for the company’s creditors as a whole that is better than the result that would be produced without it; or
+- (d) such a transfer would, without prejudicing the interests of the company’s creditors as a whole, produce a result for that company’s members as a whole that is better than the result that would be produced without it.
+
+(6) In this regulation, a reference to the relevant heat network of a company subject to a heat network administration order is a reference to—
+
+- (a) the relevant heat network specified in the company’s heat network authorisation; or
+- (b) where regulation 27 applies, the relevant heat network to which the company’s heat network authorisation relates.
+
+### 59D. Heat network administration orders: application of certain provisions of Energy Act 2004
+
+(1) Sections 156 to 167 of, and Schedules 20 and 21 to, the Energy Act 2004 (special administration regime for energy licensees) apply in relation to a heat network administration order as they apply in relation to an energy administration order (as defined in section 154(1) of that Act), with the modifications set out in paragraphs (2) to (5).
+
+(2) Those provisions must be read as if—
+
+- (a) for “energy administration” in each place there were substituted “heat network administration”;
+- (b) for “energy administrator” in each place there were substituted “heat network administrator”;
+- (c) for “protected energy company” in each place there were substituted “protected heat network company”.
+
+(3) Section 159 must be read as if in subsection (3) for “or section 44 of the Energy Act 2023” there were substituted “, section 44 of the Energy Act 2023 or regulation 59D of the 2025 Regulations”.
+
+(4) Schedule 20 must be read as if—
+
+- (a) in paragraph 12—
+  - (i) in the opening words for “the existing text is to be sub-paragraph (1) and after that sub-paragraph” there were substituted “after sub-paragraph (2)”;
+  - (ii) for the inserted text there were substituted—
+
+    > (3) The heat network administrator of a company has the power to act on behalf of the company for the purposes of any enactment or subordinate legislation which confers a power on the company, or imposes a duty on it.
+    >
+    > (4) In sub-paragraph (3), “**enactment**” has the same meaning as in the Energy Act 2004.
+
+    ;
+- (b) in paragraph 25 for “sub-paragraphs (2)(b) and (3)” there were substituted “sub-paragraphs (2)(b) and (ba), (3) and (3A)”;
+- (c) in paragraph 32(1)—
+  - (i) in paragraph (a) ““correspondence”,” were omitted;
+  - (ii) for paragraphs (c) and (d) there were substituted—
+
+    > - (c) after the definition of “**appropriate value**” (as inserted by paragraph (b)) insert—
+    >   - ““**company**”, “**court**” and “**heat network administration order**” have the same meanings as in Chapter 3 of Part 3 of the Energy Act 2004, as applied by regulation 59D of the Heat Networks (Market Framework) (Great Britain) Regulations 2025 (the “**2025 Regulations**”);”;
+    >     - (a) after the definition of “floating charge” insert—
+    >   - ““**GEMA**” means the Gas and Electricity Markets Authority;
+    >   - “**heat network administration application**” means an application to the court for a heat network administration order under Chapter 3 of Part 3 of the Energy Act 2004, as applied by regulation 59D of the 2025 Regulations;”;
+
+    ;
+  - (iii) in paragraph (e)—
+    - (aa) in the inserted definition of “objective” for “section 155 of the Energy Act 2004” there were substituted “regulation 59C of the 2025 Regulations”;
+    - (bb) in the inserted definition of “prescribed” after “Energy Act 2004” there were inserted “, as applied by regulation 59D of the 2025 Regulations”;
+- (d) after paragraph 32(1) there were inserted—
+
+  > (1A) Omit sub-paragraphs (1A) and (1B) of that paragraph.
+
+  ;
+- (e) in paragraph 36(1) for “section 154(4) of this Act” there were substituted “regulation 59B(5) of the 2025 Regulations”;
+- (f) in paragraph 43 in the inserted text after “the Energy Act 2004” there were inserted “and regulation 59D of the Heat Networks (Market Framework) (Great Britain) Regulations 2025”;
+- (g) in paragraph 44(5) in the inserted text after “the Energy Act 2004” there were inserted “and regulation 59D of the Heat Networks (Market Framework) (Great Britain) Regulations 2025”;
+- (h) in paragraph 45 after “section 157(1)(e) of this Act” there were inserted “, as applied by regulation 59D of the 2025 Regulations”;
+- (i) in paragraph 46(1)—
+  - (i) for paragraph (b) there were substituted—
+
+    > - (b) any other provision that relates to insolvency, or makes provision by reference to anything that is or may be done under the Insolvency Act 1986, and is—
+    >   - (i) contained in an Act passed before the Energy Act 2023 or in the same Session; or
+    >   - (ii) made under an Act before the order comes into force,
+
+    ;
+  - (ii) in the words following paragraph (b) for “section 96 of the Energy Act 2011” there were substituted “regulation 59D of the 2025 Regulations”;
+- (j) in paragraph 47 in the definitions of “enters energy administration” and “in energy administration” after “Part 1 of this Schedule” there were inserted “and regulation 59D of the 2025 Regulations”.
+
+(5) Schedule 21 must be read as if—
+
+- (a) for “energy transfer scheme” in each place there were substituted “heat network transfer scheme”;
+- (b) for “old energy company” in each place there were substituted “old heat network company”;
+- (c) for “new energy company” in each place there were substituted “new heat network company”;
+- (d) in paragraph 1(b) for “section 155(3)” there were substituted “regulation 59C(3) of the 2025 Regulations”;
+- (e) in paragraph 5 for “relevant licence” or “licence” in each place there were substituted “heat network authorisation”;
+- (f) in paragraph 12—
+  - (i) for “subsection (3) of section 155” there were substituted “paragraph (3) of regulation 59C of the 2025 Regulations”;
+  - (ii) for “subsection (4)(a) of that section” there were substituted “paragraph (4)(a) of that regulation”.
+
+(6) Sections 171 and 196 of the Energy Act 2004 (interpretation) apply for the purposes of the application by paragraph (1) of the provisions of the Energy Act 2004 referred to in that paragraph, with the modifications set out in paragraph (7).
+
+(7) Section 171(1) must be read as if—
+
+- (a) the following definitions were omitted—
+  - (i) “energy administration order”;
+  - (ii) “energy administration rules”;
+  - (iii) “energy administrator”;
+  - (iv) “objective of the energy administration”;
+  - (v) “protected energy company”;
+  - (vi) “relevant licence”;
+- (b) the following definitions were inserted at the appropriate places—
+  - (i) ““**2025 Regulations**” means the Heat Networks (Market Framework) (Great Britain) Regulations 2025;”;
+  - (ii) ““**heat network administration**” means the administration of a protected heat network company in accordance with a heat network administration order;”;
+  - (iii) ““**heat network administration order**” has the meaning given in regulation 59B of the 2025 Regulations;”;
+  - (iv) ““**heat network administration rules**” means rules made under section 411 of the 1986 Act by virtue of section 159(3) of this Act, for the purpose of giving effect to this Chapter as applied by regulation 59D of the 2025 Regulations;”;
+  - (v) ““**heat network administrator**” has the meaning given in regulation 59B of the 2025 Regulations;”;
+  - (vi) ““**heat network authorisation**” means a heat network authorisation under the 2025 Regulations;”;
+  - (vii) ““**objective of the heat network administration**” is to be construed in accordance with regulation 59C of the 2025 Regulations;”;
+  - (viii) ““**protected heat network company**” has the meaning given in regulation 59A of the 2025 Regulations;”.
+
+## PART 8 — Offences
+
+### 60. Carrying on a regulated activity without authorisation[^key-4f75f2b507881b15395a9c79524058d7]
+
+A person who contravenes regulation 14 (prohibition on carrying on a regulated activity without authorisation) commits an offence and is liable—
+
+- (a) on summary conviction in England and Wales, to a fine;
+- (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
+- (c) on conviction on indictment, to a fine.
+
+### 61. Failure to provide information in response to a notice[^key-b3e484f7b65f35f563adaa910c84d6b5]
+
+(1) A person who without reasonable excuse fails to do anything required by a notice under regulation 10 (collecting information) or 48 (powers to require information, etc.) commits an offence and is liable on summary conviction—
+
+- (a) in England and Wales, to a fine;
+- (b) in Scotland, to a fine not exceeding level 5 on the standard scale.
+
+(2) A person who intentionally alters, suppresses or destroys any document or record which the person has been required by any notice under regulation 10 or 48 to produce commits an offence and is liable—
+
+- (a) on summary conviction in England and Wales, to a fine;
+- (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
+- (c) on conviction on indictment, to a fine.
+
+### 62. Provision of false or misleading information[^key-3015b2f90bae5dc717474ed623452740]
+
+(1) It is an offence for a person to give any information or make any application under or for the purposes of any provision of these Regulations which includes any statement—
+
+- (a) that the person knows to be false or misleading in a material particular; or
+- (b) that is false or misleading in a material particular, the person being reckless as to whether it is.
+
+(2) A person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction in England and Wales, to a fine;
+- (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
+- (c) on conviction on indictment, to a fine.
+
+### 63. Obstructing inspection[^key-4af406c3fdca93968cf051f22634bafe]
+
+(1) It is an offence for a person intentionally to obstruct an authorised officer in the exercise of a power conferred by regulation 49 (inspections).
+
+(2) A person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction in England and Wales, to a fine;
+- (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
+- (c) on conviction on indictment, to a fine.
+
+### 64. Impersonation of person entitled to entry[^key-41873cdcf3ef8d44d02d174de7d09a6b]
+
+(1) It is an offence for a person who is not an authorised officer to purport to be entitled to enter any premises in exercise of a power conferred by regulation 49 (inspections).
+
+(2) For the purposes of paragraph (1) it is immaterial, where a person purports to be entitled to enter any premises, that the power which that person purports to be entitled to exercise does not exist or would not be exercisable even if that person had been authorised pursuant to regulation 49.
+
+(3) A person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction in England and Wales, to a fine;
+- (b) on summary conviction in Scotland, to a fine not exceeding the statutory maximum;
+- (c) on conviction on indictment, to a fine.
+
+### 65. Corporate liability[^key-46e60a33896b2f38a158b12659aaaada]
+
+(1) Where an offence under this Part is committed by a body corporate and—
+
+- (a) it is committed with the consent or connivance of an officer; or
+- (b) it is attributable to any neglect on the officer’s part,
+
+the officer as well as the body corporate is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) An “**officer**”, in relation to a body corporate, means a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+(3) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts or defaults of a member in connection with that member’s functions of management as if the member were a director of the body corporate.
+
+### 66. Scottish partnerships[^key-897fabaf5067e840a36d6248047ce516]
+
+(1) Where an offence under this Part is committed by a Scottish partnership and—
+
+- (a) it is committed with the consent or connivance of a partner; or
+- (b) it is attributable to any neglect on the partner’s part,
+
+the partner as well as the partnership is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1) “**partner**” includes a person purporting to act as a partner.
+
+## PART 9 — Provision in relation to licensing authority in Scotland
+
+### 67. Designation of licensing authority in Scotland[^key-fa794519b899b6ccec9113aac9ee327a]
+
+The GEMA is designated as the licensing authority for the purposes of the Heat Networks (Scotland) Act 2021[^f00051].
+
+### 68. Part 1 of the Heat Networks (Scotland) Act 2021 amended[^key-ec59288bf213952ddd2142a0c9945adf]
+
+*Extent: S*
+
+(1) The Heat Networks (Scotland) Act 2021 is amended as follows.
+
+(2) After section 12 insert—
+
+> *Enforcement*
+>
+> **12A. Enforcement provisions under Part 8 of the Energy Act 2023 applied**
+>
+> (1) The conditions of a heat networks licence may be enforced as if—
+>
+> - (a) they were conditions of a heat network authorisation, as defined in paragraph 13 of Schedule 18 to the Energy Act 2023, conferred on the person holding the heat networks licence; and
+> - (b) the licensing authority were the Regulator as defined in section 217 of that Act.
+>
+> (2) However, any offences created under Part 8 of the Energy Act 2023 have effect for the purpose of subsection (1) as if they were each triable only summarily and punishable on conviction with imprisonment for a period not exceeding 3 months or a fine not exceeding level 1 on the standard scale (or both).
+
+.
+
+(3) After section 16 insert—
+
+> **16A. Monitoring and review**
+>
+> (1) The licensing authority must keep under review the supply of thermal energy by means of heat networks in Scotland.
+>
+> (2) The licensing authority must, so far as it appears to it to be practicable from time to time to do so, monitor the carrying on of the activity mentioned in subsection (1), and the persons by whom it is carried on, with a view to facilitating the exercise of its function of enforcing the conditions of heat network licences.
+>
+> **16B. Collecting information**
+>
+> (1) To enable the licensing authority to comply with the duty in section 16A(2), the licensing authority may, by notice given to a person supplying thermal energy by means of a heat network, require that person to provide in the form and manner specified in the notice—
+>
+> - (a) documents specified or described in the notice that are in that person’s custody or under that person’s control; and
+> - (b) information specified or described in the notice that relates to matters the licensing authority is under a duty to monitor.
+>
+> (2) The notice must specify the time and place at which the person must give the documents or information to the licensing authority.
+>
+> (3) The requirements of this section may be enforced as if—
+>
+> - (a) they were relevant requirements as defined in paragraph 37(6) of Schedule 18 to the Energy Act 2023;
+> - (b) the person to whom the notice under subsection (1) is given were a person holding a heat network authorisation within paragraph 13 of Schedule 18 to that Act;
+> - (c) the licensing authority were the Regulator as defined in section 217 of that Act; and
+> - (d) the modifications in relation to offences in section 12A(2) of this Act also applied for the purpose of this subsection.
+>
+> **16C. Records**
+>
+> (1) The licensing authority must maintain records of information obtained under or by virtue of this Act relating to—
+>
+> - (a) persons whose application for a heat networks licence has been refused;
+> - (b) persons whose heat networks licence has been revoked.
+>
+> (2) The licensing authority is not required to maintain any records referred to in subsection (1) for longer than it considers appropriate having regard to the nature of the records and the purposes for which they may lawfully be used or disclosed by the licensing authority.
+>
+> (3) This section does not affect the operation of the Public Records Act 1958[^f00052] or the data protection legislation (within the meaning of the Data Protection Act 2018[^f00053]).
+
+.
+
+## PART 10 — Review
+
+### 69. Review[^key-9ec8799d356eedadb252df406efd4444]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) Section 30(4) of the Small Business, Enterprise and Employment Act 2015[^f00054] requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision contained in these Regulations;
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(3) The first report must be published before the end of the period of five years beginning with the day on which regulation 1 comes into force.
+
+(4) Subsequent reports must be published at intervals not exceeding five years.
+
+(5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Miatta Fahnbulleh
+
+Minister for Energy Consumers
+
+Department for Energy Security and Net Zero
+
+2nd March 2025
+
+## SCHEDULE 1 — Service of notices, etc. by the Regulator
+
+Regulation 3
+
+**1.**[^key-48237cf11869b1cda1b8ce052eb5f5f8] Any notice or other document required or authorised to be given, sent or served by the Regulator under these Regulations may be given, sent or served—
+
+- (a) by delivering it to the person to whom it is to be given or sent or on whom it is to be served (“**the recipient**”);
+- (b) by leaving it at the usual or last known place of abode of the recipient;
+- (c) by sending it in a prepaid letter addressed to the recipient at the recipient’s usual or last known place of abode;
+- (d) in the case of a body corporate, by delivering it to the secretary or clerk of the body (“the responsible person”) at their registered or principal office, or sending it in a prepaid letter addressed to the responsible person, or leaving it for the attention of the responsible person, at that office;
+- (e) in the case of a partnership, by delivering it to a partner or a person having the control or management of the partnership business (“the responsible manager”) at the principal office of the partnership, or sending it in a prepaid letter addressed to the responsible manager, or leaving it for the attention of the responsible manager, at that office;
+- (f) by leaving it at or sending it in a prepaid letter to an address within the United Kingdom provided by the recipient for the purpose of the service of documents of the same description as that document;
+- (g) by sending it by electronic means to a number or address provided by the recipient for the purpose of the service of documents of the same description as that document.
+
+**2.**[^key-b2e028d42e94d57e7cae7a86aa62ce4b] For the purposes of this Schedule, the principal office of a body corporate registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+
+**3.**[^key-9af3a99c096c924414f41a5699a38847] A notice or other document which is given or served in accordance with paragraph 1(g) is to be treated as having been given or served on the next working day after the day on which it is sent.
+
+**4.**[^key-5705cbe3bfefda5fa2128dd2739a8130] This Schedule does not apply to any document in relation to the service of which provision is made by rules of court[^f00055].
+
+**5.**[^key-8bde1c21883c233ab5ac1c706def63f3] In this Schedule—
+
+- “**secretary**”, in relation to a local authority within the meaning of the Local Government Act 1972[^f00056] or the Local Government (Scotland) Act 1973[^f00057], means the proper officer within the meaning of that Act;
+- “**working day**” means any day other than—
+  - (a) Saturday or Sunday;
+  - (b) Christmas Day or Good Friday;
+  - (c) a day which is a bank holiday in England and Wales or Scotland under the Banking and Financial Dealings Act 1971[^f00058].
+
+## SCHEDULE 2 — Inspections
+
+Regulation 49
+
+**1.**[^key-aa4fa606f85d5817a3faa4f7eec8b6a9] An authorised officer may conduct an inspection.
+
+**2.**[^key-2d0d754f9c70a3e1e0dd79f3967feb5f] An authorised person in relation to which an inspection is conducted must—
+
+- (a) pay the reasonable costs of the inspection if so required by the Regulator;
+- (b) co-operate with the authorised officer;
+- (c) provide the authorised officer with access to their premises in accordance with paragraph 3(a);
+- (d) allow the authorised officer to examine, print, copy or remove any document or information, and examine or remove any material or equipment, in accordance with paragraph 3(d) or (e);
+- (e) allow the authorised officer access to any person from whom the authorised officer seeks relevant information for the purposes of the inspection;
+- (f) comply with any request made by, or requirement of, an authorised officer performing their functions under this Schedule.
+
+**3.**[^key-52085b01a2c9c2d6319b300930673c95] The authorised officer may—
+
+- (a) at any reasonable time enter the premises of an authorised person (except any premises used wholly or mainly as a private dwelling) if the authorised officer has reasonable grounds to believe that entry to those premises may be necessary or helpful for the purpose of the inspection;
+- (b) require an authorised person to leave undisturbed and not to dispose of, render inaccessible or alter in any way any material, document, information, in whatever form and wherever it is held (including where it is held remotely), or equipment which is, or which the authorised officer considers to be, relevant for such period as is, or as the authorised officer considers to be, necessary for the purposes of the inspection;
+- (c) require an authorised person to produce and provide the authorised officer with access, for the purposes of the inspection, to any such material, document, information or equipment which is, or which the authorised officer considers to be, relevant to the inspection, either immediately or within such period as the authorised officer may specify;
+- (d) examine, print or copy any document or information, and examine any material or equipment, which is, or which the authorised officer considers to be, relevant;
+- (e) remove any document, information, material or equipment (including for the purposes of printing or copying any document or information) for such period as is, or as the authorised officer considers to be, necessary for the purposes of the inspection;
+- (f) conduct, or direct the authorised person to conduct, tests on any equipment;
+- (g) take any other action that the authorised officer considers appropriate and reasonably required for the purposes of the inspection.
+
+**4.**[^key-4beaf524a61f5ad4b61c390f963200db] The authorised officer must—
+
+- (a) produce proof of the authorised officer’s identity if requested by any person present at the premises; and
+- (b) take appropriate and proportionate measures to ensure that any material, document, information or equipment removed in accordance with paragraph 3(e) is kept secure from unauthorised access, interference and physical damage.
+
+**5.**[^key-3c197a4bc0d72e88990d99a7ffafc268] Where under paragraph 3(e) an authorised officer removes any document, material or equipment, the authorised officer must provide, to the extent practicable, a notice giving—
+
+- (a) sufficient particulars of that document, material or equipment for it to be identifiable; and
+- (b) details of any procedures in relation to the handling or return of the document, material or equipment.
+
+**6.**[^key-036c1a9ee4727647b60eefaf3772781e] In this Schedule, “**inspection**” means any activity carried out (including any steps mentioned in paragraph 3) for the purpose of—
+
+- (a) verifying compliance with the requirements of these Regulations or any other relevant requirement or any relevant condition; or
+- (b) assessing or gathering evidence of potential or alleged failures to comply with the requirements of these Regulations or any other relevant requirement or any relevant condition,
+
+including any necessary follow-up activity for either purpose.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for regulating district heat networks (networks to which two or more buildings are connected) and communal heat networks (networks that operate in a single building, typically one divided into flats).
+
+Part 1 of the Regulations contains definitions that are used throughout the Regulations, notably definitions of “authorised person” and “regulated activity”. It is a regulated activity to operate a district heat network or communal heat network or to supply heating, cooling or hot water by means of such a network (including to businesses or, in the case of district heat networks, communal heat networks). Except in narrow classes of case, the Regulations require persons who carry on regulated activities to be authorised and persons who have, or are treated as having, a heat network authorisation are referred to in the Regulations as authorised persons.
+
+Under Part 8 of the Energy Act 2023, the heat networks regulator in England, Wales and Scotland (“the Regulator”) is the Gas and Electricity Markets Authority (“the GEMA”). Accordingly, when the Regulations refer to “the Regulator” this will normally be the GEMA. However, Part 2 of the Regulations also gives some Regulator functions (in respect of heat meter accuracy) to the Secretary of State. These are expected to be exercised by the Office for Product Safety and Standards. Part 2 also sets out the principal objective and over-arching duties of the Regulator.
+
+Part 3 of the Regulations sets out the obligation to be authorised to carry out regulated activities (subject to exceptions) and contains provision about applying for an authorisation, authorisation conditions and modification and revocation of authorisations. It also contains transitional provisions under which existing heat network operators, etc. will be treated as having been authorised but will still need to supply specified information to the Regulator.
+
+Part 4 of the Regulations sets out details of enforcement action that the Regulator will be able to take against authorised persons, including provisional and final orders, financial penalties and consumer redress orders. It also makes provision for certain functions of the Competition and Markets Authority to be exercised concurrently with the Regulator.
+
+Part 5 of the Regulations sets out powers to require information that are available to the Regulator in connection with enforcement and in connection with the expiry and revocation of authorisations. It also (with Schedule 2) sets out a power for the Regulator to conduct inspections.
+
+Chapter 1 of Part 6 of the Regulations enables the Regulator to make regulations about standards of performance to be met by authorised persons. These regulations are to be made by statutory instrument and must provide for compensation to be payable for failure to meet the standards. Chapter 2 of Part 6 provides for rules in the Consumers, Estate Agents and Redress Act 2007 about consumer advocacy, complaints procedures and redress schemes to apply, with specified modifications, for the benefit of heat network consumers. The Energy Ombudsman Scheme is established as the initial redress scheme in relation to heat networks.
+
+Part 7 of the Regulations makes provision for money to be collected from authorisation fees to support consumer advocacy and advice and makes clear that if there were any surplus, after authorisation fees had been used for the purposes of the regulatory framework, it would need to be paid into the Consolidated Fund.
+
+Part 8 of the Regulations creates offences of carrying on a regulated activity without authorisation, failure to provide information in response to a notice from the Regulator, provision of false or misleading information to the Regulator, intentionally altering, suppressing, etc. documents required to be provided to the Regulator, obstructing inspections under Part 5 and impersonation of persons exercising powers to enter premises.
+
+Part 9 of the Regulations makes the GEMA the licensing authority for the purposes of the Heat Networks (Scotland) Act 2021 and amends that Act to make additional provision for monitoring compliance with, and enforcement of, conditions of heat networks licences issued under section 5(5) of the Act.
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available at www.legislation.gov.uk. Hard copies of the impact assessment can be obtained from the Heat Networks Policy team, Department for Energy Security and Net Zero, 55 Whitehall, London SW1A 2HP.
+
+## Annotations
+
+[^f00001]: Footnote: [2023 c. 52](https://www.legislation.gov.uk/ukpga/2023/52); see section 219(9) for the meaning of “the appropriate authority” in section 219(1).
+
+[^f00002]: Footnote: See section 331(3) of the Energy Act 2023 for the meaning of the affirmative procedure.
+
+[^key-05e416f44e44c6020a311dfbe82413ad]: Commencement: Reg. 1 in force at 3.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/a)
+
+[^f00003]: Footnote: See section 332 of the Energy Act 2023 for the meaning of “the GEMA”.
+
+[^f00004]: Footnote: [2007 c. 17](https://www.legislation.gov.uk/ukpga/2007/17); section 43 was amended by the Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 ([S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631)), article 1(3) and Schedule 1, paragraph 12(43) and by the Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 ([S.I. 2022/34](https://www.legislation.gov.uk/uksi/2022/34)), article 1(1) and Schedule, paragraph 7(12).
+
+[^f00005]: Footnote: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41).
+
+[^f00006]: Footnote: [2024 c. 13](https://www.legislation.gov.uk/ukpga/2024/13).
+
+[^f00007]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-0127f7168b62425e5e8d0381e583b51c]: Commencement: Reg. 2 in force at 3.3.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/b)
+
+[^f00008]: Footnote: See paragraph 13 of Schedule 18 to the Energy Act 2023 for the meaning of “heat network authorisation”.
+
+[^f00009]: Footnote: Registered charity number 279057.
+
+[^f00010]: Footnote: Scottish charity number SC016637.
+
+[^key-578278d06a6a130b382493f1e0b6351f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/269/regulation/2) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [5(2)](https://www.legislation.gov.uk/uksi/2026/7/regulation/5/2)
+
+[^key-7ca3ffc831441b2eec43004f80c006e1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/269/regulation/2) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [5(3)](https://www.legislation.gov.uk/uksi/2026/7/regulation/5/3)
+
+[^f00011]: Footnote: See section 216 of the Energy Act 2023 for the meaning of “relevant heat network”.
+
+[^f00012]: Footnote: Section 217(1) of the Energy Act 2023 defines “**the Regulator**”, in relation to England and Wales and Scotland, as the GEMA but section 217(2) provides for the functions of “the Regulator” to be carried out by another person or body.
+
+[^key-9255b54a7dc2915deb41727114bfed5f]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2025/269/regulation/2A) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [6](https://www.legislation.gov.uk/uksi/2026/7/regulation/6)
+
+[^key-8226698e74da2ff74fb9ffc8fdeebc55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/269/regulation/3) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-4dfb58fa78727cfa35428d7e625dc17e]: Commencement: Reg. 4 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+
+[^key-1b075162b2e64a97f68bedfe501f9d6b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/269/regulation/4) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-0aa17f66a0a28537ca9d9398dcfd8d06]: Commencement: Reg. 5 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+
+[^key-147d0be53fb7bb9b129a131a329b54d8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/269/regulation/5) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-4a80b86745e33a56bfae0f2bd384ae0a]: Commencement: Reg. 6 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+
+[^key-7eab4abaa342133c9d541b677c0d9438]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/269/regulation/6) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00013]: Footnote: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27). Section 1 was amended by the Climate Change Act 2008 (2050 Target Amendment) Order 2019 ([S.I. 2019/1056](https://www.legislation.gov.uk/uksi/2019/1056)), articles 1 and 2.
+
+[^f00014]: Footnote: [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27). Section 5A was inserted by the Sustainable Energy Act [2003 (c. 30)](https://www.legislation.gov.uk/ukpga/2003/30), section 6 and amended by the Electricity and Gas (Smart Meters Licensable Activity) Order 2012 ([S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400)), article 30(2) and by the Energy Act 2023 (Consequential Amendments) Regulations 2024 ([S.I. 2024/706](https://www.legislation.gov.uk/uksi/2024/706)), regulation 5(3); it is prospectively amended by the Energy Act 2023, Schedule 17, paragraph 13.
+
+[^key-fb1e1d73cfe0e23b03c64cb75274a48d]: Commencement: Reg. 7 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+
+[^key-d066330f0040da264010501679c72347]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/269/regulation/7) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-11cf6bee1290160cdea9a21c850c5ef3]: Commencement: Reg. 8 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/c)
+
+[^key-5219b946c9c11e34cf22a9add2970714]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/269/regulation/8) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00015]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^f00016]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
+
+[^f00017]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); the definition of “sewerage services” in section 219(1) was amended by the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), section 94(3) and Schedule 7, paragraph 120(2).
+
+[^key-87d719756cc7008c6061cc37bf8d82fb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/269/regulation/9) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-2d5f2ecc0b3adf087ec19dfcf36cf59e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/269/regulation/10) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00018]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-5d3c186a7270c82d40abb96fb708a43c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/269/regulation/11) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00019]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
+
+[^f00020]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). For the meaning of “the data protection legislation”, see section 3(9) of the Data Protection Act 2018.
+
+[^key-e11609184f955e92fc36c7dfc5bb9fa8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/269/regulation/12) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-4a833ad830ebe519995baf21980c6c09]: Commencement: Reg. 13 in force at 3.3.2025, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/d)
+
+[^f00021]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34).
+
+[^key-0c35252eef979cc49b31ebbe0ef181ca]: Commencement: Reg. 14 in force at 1.4.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/a)
+
+[^key-20adc1822863358af4ecc3051c4d0065]: Commencement: Reg. 15 in force at 3.3.2025, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/e)
+
+[^key-f65eb7fefd2297888f3c9092e89f32ce]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/269/regulation/16) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-0638a3d0c92e393a4160c59b8d229ba4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/269/regulation/17) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-3c31691b0cbfe8c4051b079f8751b50b]: Commencement: Reg. 18 in force at 3.3.2025, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/f)
+
+[^key-d3f8f01a287fe7923e48c10e979e6be5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/269/regulation/19) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-188ec89ce4590ecc932e420ece31b1cf]: Commencement: Reg. 20 in force at 3.3.2025 for specified purposes, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/g)
+
+[^key-e198c36431fdf26c85533330ef4445cf]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/b) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/a)
+
+[^key-34bf3db61082779d633509310ebf4d7f]: Textual amendment: Words in [reg. 20(1)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/c) substituted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/b)
+
+[^key-2cf39e3eef88b5664083799129aaf861]: Textual amendment: Words in [reg. 20(1)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/d) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/c)
+
+[^key-2973536a0bed677c096d8f5b301e6882]: Textual amendment: [Reg. 20(1)(e)(v)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/e/v) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/d)
+
+[^key-f9e0602e197d9e43b844a9fd7b4a7bd8]: Textual amendment: Words in [reg. 20(1)(g)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/g) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/e)
+
+[^key-378591281479274076953f0b3210d819]: Textual amendment: [Reg. 20(1)(ja)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/ja)[(jb)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/1/jb) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(2)(f)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/2/f)
+
+[^key-214bcd0d8b1fcb0021fda635d7abec92]: Textual amendment: [Reg. 20(3A)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/3A) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(3)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/3)
+
+[^key-8aa18143a4b57ea7b1944a14ce5a9fd2]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/5)[(6)](https://www.legislation.gov.uk/uksi/2025/269/regulation/20/6) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [7(4)](https://www.legislation.gov.uk/uksi/2026/7/regulation/7/4)
+
+[^key-250750b5c855f401077f1f069af79d3e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/269/regulation/21) in force at 27.1.2026, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/269/regulation/1)
+
+[^key-ee5cf638f72b4cbc50a1a94307ce0fb6]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/269/regulation/22) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-4ca62f6a273c97b85e98b170ea0f9e4d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/269/regulation/23) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-3d26a1f2792a0fdbbb2d2e68ffc065df]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2025/269/regulation/23A) inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/a), [8](https://www.legislation.gov.uk/uksi/2026/7/regulation/8)
+
+[^key-bb16cd5f948a2b96590662e13e0e910c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/269/regulation/24) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-155dd8906fe899e6c13912e62c270be2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/269/regulation/25) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-0856ac72b8b652f1059ae12cb558a0b6]: Commencement: Reg. 26 in force at 1.4.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/b)
+
+[^key-1aea6cd92031d9af57ee2cc762f35b61]: Commencement: Reg. 27 in force at 1.4.2025, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/c)
+
+[^key-f74cd170e7fd88bb2e61f9abd9b2ced5]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2025/269/part/3A) inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/2/b), [9](https://www.legislation.gov.uk/uksi/2026/7/regulation/9)
+
+[^key-30a7febf90b9fa2b2c6e8a4bb6e65f2f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/269/regulation/28) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00022]: Footnote: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41); see Chapter 3 of Part 1.
+
+[^key-481c1db7276abee763916eaeed531680]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/269/regulation/29) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-26261e41109eac656e2c90a3dde4c56e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/269/regulation/30) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-bdbe48acdd0118c957128c40b369db70]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/269/regulation/31) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00023]: Footnote: Consumer Scotland was established by the Consumer Scotland Act [2020 (asp 11)](https://www.legislation.gov.uk/asp/2020/11).
+
+[^key-abbf056573bebdc3b1bd12fed4a4ccb6]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/269/regulation/32) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-05e2245315b8742cb884bf2a5119054a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/269/regulation/33) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-c3c7ab030a4188bb8e30463ba6dff8e7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/269/regulation/34) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00024]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110) (1 & 2 Vict); the rate was last amended by [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564).
+
+[^key-61e77871d88f8d737f513e725d530c77]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2025/269/regulation/35) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-62673df1233b420d0c3cdc064f77e999]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2025/269/regulation/36) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-4cb937bc8a3451ef36aa4a5b64d34664]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/269/regulation/37) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-2671e519bd6d9e5b3db6c4238f592f3d]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/269/regulation/38) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-053680860dccfc0d9909e4dcc5ed516d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/269/regulation/39) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-cb99c3210daba4c5a6130f12cc17291a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/269/regulation/40) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-374b89aaa9f8880688e3d3adc39e546b]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/269/regulation/41) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-aa3dc8617efca8ee4120f8b8473f346a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/269/regulation/42) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00025]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
+
+[^key-d693579f9e9591afa53ff63c8e83618d]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/269/regulation/43) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-d0494e0965b2f901d05ce6a2c6158710]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/269/regulation/44) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-dfa46a6c4c5204c203369a42902ae999]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/269/regulation/45) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00026]: Footnote: [S.I. 2002/1111](https://www.legislation.gov.uk/uksi/2002/1111).
+
+[^key-18a40035f9dee98e55dea030e951238d]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2025/269/regulation/46) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/5)
+
+[^f00027]: Footnote: Section 31D was inserted by the Competition Act 1998 and Other Enactments (Amendment) Regulations 2004 ([S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261)), regulation 1(a) and Schedule 1, paragraph 18 and amended by the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), section 103(3) and Schedule 5, paragraph 14.
+
+[^f00028]: Footnote: Section 35C is prospectively inserted by the Digital Markets, Competition and Consumers Act 2024, section 143 and Schedule 11, paragraph 6.
+
+[^f00029]: Footnote: Relevant amendments to section 38(1) to (6) were made by the Enterprise and Regulatory Reform Act 2013, Schedule 5 paragraph 22, section 40.4 and the Competition (Amendment etc.) (EU Exit) Regulations 2019, regulation 13(a) and 13(b) the Competition Act 1998 and Other Enactments (Amendment) Regulations 2004, Schedule 1, paragraph 23(2) and the Enterprise Act 2002, Schedule 25, paragraph 38(30).
+
+[^f00030]: Footnote: Relevant amendment to section 40B(1) to (4) was made by the Enterprise and Regulatory Reform Act 2013, section 40(2).
+
+[^f00031]: Footnote: Relevant amendments to section 51 were made by the Enterprise and Regulatory Reform Act 2013, Schedule 5, paragraph 31(2) to (4) and the Enterprise Act 2002, Schedule 25, paragraph 38(38)(a), 38(38)(c) and 38(38)(e).
+
+[^f00032]: Footnote: Relevant amendments to section 166 were made by the Enterprise and Regulatory Reform Act 2013, Schedule 5, paragraphs 196(2), 196(3)(a), 196(3)(b), 196(3)(c), 196(4), 196(5)(a) and 196(6).
+
+[^f00033]: Footnote: Section 167C is prospectively inserted by the Digital Markets, Competition and Consumers Act 2024, Schedule 11, paragraph 18.
+
+[^f00034]: Footnote: Relevant amendments to section 171 were made by the Enterprise and Regulatory Reform Act 2013, Schedule 5, paragraphs 201(2)(a) to (c), 201(3) to (5), 201(7)(a) and (b), 201(8)(a) and (b), 201(9) and (10) and the Competition (Amendment etc.) (EU Exit) Regulations 2019, regulation 57.
+
+[^f00035]: Footnote: Relevant amendment to section 174(e) was made by the Enterprise and Regulatory Reform Act 2013, Schedule 11, paragraph 1.
+
+[^f00036]: Footnote: Relevant amendments to section 31D were made by the Competition Act 1998 and Other Enactments (Amendment) Regulations 2004, Schedule 1 paragraph 18 and the Enterprise and Regulatory Reform Act 2013, Schedule 5, paragraph 14.
+
+[^f00037]: Footnote: Relevant amendment to section 35C was made by the Digital Markets, Competition and Consumers Act 2024, Schedule 11, paragraph 6.
+
+[^f00038]: Footnote: Relevant amendments to section 38(1) to (6) were made by the Enterprise and Regulatory Reform Act 2013, Schedule 5, paragraph 22 and section 40(4) and the Competition (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/93](https://www.legislation.gov.uk/uksi/2019/93)), regulation 13(a) and (b) and the Competition Act 1998 and Other Enactments (Amendment) Regulations 2004, Schedule 1, paragraph 23(2) and the Enterprise Act 2002, Schedule 25, paragraph 38(30).
+
+[^f00039]: Footnote: Relevant amendment to section 40B(1) to (4) was made by the Enterprise and Regulatory Reform Act 2013, section 40(2).
+
+[^f00040]: Footnote: Relevant amendments to section 51 were made by the Enterprise and Regulatory Reform Act 2013, Schedule 5, paragraph 31(2) to (4) and the Enterprise Act 2002, Schedule 25, paragraph 38(38)(a), (c) and (e).
+
+[^f00041]: Footnote: Relevant amendments to section 52(6) were made by the Enterprise and Regulatory Reform Act 2013, Schedule 5, paragraph 32(4) and the Enterprise Act 2002, Schedule 25, paragraph 38(39)(d).
+
+[^f00042]: Footnote: Relevant amendment to section 52(8) was made by the Enterprise and Regulatory Reform Act 2013, Schedule 5, paragraph 32(4).
+
+[^f00043]: Footnote: Relevant amendments to section 54 were made by the Enterprise Act 2002, Schedule 25, paragraph 38(41)(a), the Communications Act 2003, section 371(5)(a), the Enterprise and Regulatory Reform Act 2013, Schedule 15, paragraph 11(a), and the Water Act 2003, Schedule 7, paragraph 32(2).
+
+[^f00044]: Footnote: Relevant amendments to section 5 were made by the Enterprise and Regulatory Reform Act 2013, Schedule 5, paragraph 60(2).
+
+[^f00045]: Footnote: Relevant amendments to section 130A were made by the Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014, Schedule 12, paragraph 1.
+
+[^f00046]: Footnote: Relevant amendments to section 131 were made by the Enterprise and Regulatory Reform Act 2013, section 33(2), (3) and (4)(a) and (b), Schedule 5, paragraph 163(2) and (3) and Schedule 10, paragraph 2(2) and (3).
+
+[^f00047]: Footnote: Relevant amendments to section 117 were made by the Enterprise and Regulatory Reform Act 2013, section 29(11), Schedule 5, paragraph 151 and the Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014, Schedule 1, paragraph 6.
+
+[^key-434c056a32b0cdbc0238f9545d563b3c]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2025/269/regulation/47) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/5)
+
+[^key-1c0febdb4e8427070d73062af0357e0f]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2025/269/regulation/48) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-202573290b7996112c45b1f6d95bf433]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2025/269/regulation/49) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-86864bd0568751a2cea6733ef995e1dd]: Commencement: Reg. 50 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
+
+[^key-f55832a8755052b2842d59d456b03542]: Commencement: Reg. 51 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
+
+[^key-e8622b1b5c46a10f58f1674d9ebb1cc9]: Commencement: Reg. 52 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
+
+[^key-6759a53550116e9d5575f8f48468e0fe]: Commencement: Reg. 53 in force at 3.3.2025, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/h)
+
+[^key-2ade186c214a7a16ffb73736a9347498]: Commencement: Reg. 54(1)-(3)(5)(10) in force at 3.3.2025, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/d)
+
+[^key-9d947f47210d6989e546e79f5e619e51]: Commencement: [Reg. 54(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/54/4), [(6)-(9)](https://www.legislation.gov.uk/uksi/2025/269/regulation/54/6) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00048]: Footnote: Relevant amendments to Part 1 were made by the Electricity and Gas (Internal Markets) Regulations 2011 ([S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704)), regulation 3(2) and (3), the Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 ([S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631)), Schedule 1, paragraph 12, the Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530)), regulation 77, the Gas (Internal Markets) Regulations 2020 ([S.I. 2020/625](https://www.legislation.gov.uk/uksi/2020/625)), regulation 8 and the Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 ([S.I. 2022/34](https://www.legislation.gov.uk/uksi/2022/34)), Schedule, paragraph 7.
+
+[^key-bc39036e9f61e6fea7385777013e9a48]: Commencement: Reg. 55 in force at 1.4.2025, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/e)
+
+[^key-2b023fb3650649377acc09eb4d21943d]: Commencement: Reg. 56(1)-(8) in force at 3.3.2025 for specified purposes, see [reg. 1(2)(i)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/i)
+
+[^key-5f7995e7ecd636f651d26036de2252e3]: Commencement: [Reg. 56(1)-(8)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/1) in force at 27.1.2026 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-184bc6c85d3a2845e11535de0c2f79de]: Commencement: Reg. 56(9)-(11) in force at 1.4.2025, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/f)
+
+[^key-9f2c68a58f5053af8cc84602332a8255]: Textual amendment: Words in [reg. 56(7)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/7/b) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [10(2)](https://www.legislation.gov.uk/uksi/2026/7/regulation/10/2)
+
+[^key-f3841d85d123750f67cf5baa4df628a5]: Textual amendment: Words in [reg. 56(11)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/11) substituted (28.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/10)](https://www.legislation.gov.uk/uksi/2026/10), [regs. 2](https://www.legislation.gov.uk/uksi/2026/10/regulation/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/10/regulation/4/2/a)
+
+[^f00049]: Footnote: The Energy Ombudsman Deed Poll is available at https://lightning.nativeforms.app/m0/YeUDXXa2SQ2b or in hard copy from Energy Ombudsman, P.O. Box 966, Warrington WA4 9DF.
+
+[^f00050]: Footnote: The Terms of Reference: Energy Sector and the Membership Rules for Participating Companies are available at https://www.energyombudsman.org/terms-of-reference or in hard copy from Energy Ombudsman, P.O. Box 966, Warrington WA4 9DF.
+
+[^key-8bd364438b852f27d0195692afaa7722]: Textual amendment: Words in [reg. 56(11)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/11) substituted (28.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/10)](https://www.legislation.gov.uk/uksi/2026/10), [regs. 2](https://www.legislation.gov.uk/uksi/2026/10/regulation/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/10/regulation/4/2/b)
+
+[^key-9a6f70eb8b28271069b0a88948ba499e]: Textual amendment: [Reg. 56(12)](https://www.legislation.gov.uk/uksi/2025/269/regulation/56/12) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [10(4)](https://www.legislation.gov.uk/uksi/2026/7/regulation/10/4)
+
+[^key-b7ca7e88932cfd79f3aff5c887ffdc87]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2025/269/regulation/57) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-7adeb65ee7374f44cf16d114cff736f2]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2025/269/regulation/58) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-0b5a1094c05ef854c26bf1bb31080a06]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2025/269/regulation/59) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-da4c1909e95b8537e554036f9e59c090]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2025/269/part/7A) inserted (7.1.2026) by [The Heat Networks (Market Framework) (Great Britain) (Amendment) Regulations 2026 (S.I. 2026/7)](https://www.legislation.gov.uk/uksi/2026/7), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2026/7/regulation/2/1), [11](https://www.legislation.gov.uk/uksi/2026/7/regulation/11)
+
+[^key-4f75f2b507881b15395a9c79524058d7]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2025/269/regulation/60) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-b3e484f7b65f35f563adaa910c84d6b5]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2025/269/regulation/61) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-3015b2f90bae5dc717474ed623452740]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2025/269/regulation/62) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-4af406c3fdca93968cf051f22634bafe]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2025/269/regulation/63) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-41873cdcf3ef8d44d02d174de7d09a6b]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2025/269/regulation/64) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-46e60a33896b2f38a158b12659aaaada]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2025/269/regulation/65) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-897fabaf5067e840a36d6248047ce516]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2025/269/regulation/66) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-fa794519b899b6ccec9113aac9ee327a]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2025/269/regulation/67) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00051]: Footnote: [2021, asp 9](https://www.legislation.gov.uk/asp/2021/9).
+
+[^key-ec59288bf213952ddd2142a0c9945adf]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2025/269/regulation/68) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00052]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
+
+[^f00053]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). For the meaning of “the data protection legislation”, see section 3(9) of the Data Protection Act 2018.
+
+[^key-9ec8799d356eedadb252df406efd4444]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2025/269/regulation/69) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00054]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^key-48237cf11869b1cda1b8ce052eb5f5f8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/1) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-b2e028d42e94d57e7cae7a86aa62ce4b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/2) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-9af3a99c096c924414f41a5699a38847]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/3) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-5705cbe3bfefda5fa2128dd2739a8130]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/4) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00055]: Footnote: See Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) for the meaning of “rules of court”.
+
+[^key-8bde1c21883c233ab5ac1c706def63f3]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2025/269/schedule/1/paragraph/5) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^f00056]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00057]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^f00058]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-aa4fa606f85d5817a3faa4f7eec8b6a9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/1) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-2d0d754f9c70a3e1e0dd79f3967feb5f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/2) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-52085b01a2c9c2d6319b300930673c95]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/3) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-4beaf524a61f5ad4b61c390f963200db]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/4) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-3c197a4bc0d72e88990d99a7ffafc268]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/5) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)
+
+[^key-036c1a9ee4727647b60eefaf3772781e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2025/269/schedule/2/paragraph/6) in force at 27.1.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4)

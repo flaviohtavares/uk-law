@@ -1,0 +1,39 @@
+---
+title: The Syria (Sanctions) (EU Exit) Regulations 2019, section 69A
+act: The Syria (Sanctions) (EU Exit) Regulations 2019
+section: 69A
+status: revised
+text_date: '2026-05-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/792/section/69A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Syria (Sanctions) (EU Exit) Regulations 2019, section 69A
+
+> Text as at 2026-05-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 69A. Finance: reporting obligations for required payments[^key-570dc658bb5210cb10d16b2dbaa238c8]
+
+*Extent: E+W+S+N.I.*
+
+(1) A designated person must inform the Treasury without delay if they make a required payment.
+
+(2) A person who makes a required payment on behalf of a designated person must inform the Treasury without delay that they have made the required payment.
+
+(3) A person must inform the Treasury without delay if they receive a reimbursement payment.
+
+(4) For the purposes of this regulation, references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
+
+(5) In this regulation—
+
+- “**designated person**” has the meaning given in regulation 55A(8) (finance: exception from prohibitions for required payments);
+- “**reimbursement payment**” has the meaning given in regulation 55A(8);
+- “**required payment**” has the meaning given in regulation 55A(2).
+
+## Annotations
+
+[^key-570dc658bb5210cb10d16b2dbaa238c8]: Textual amendment: [Reg. 69A](https://www.legislation.gov.uk/uksi/2019/792/regulation/69A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [14(8)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/14/8)

@@ -1,0 +1,161 @@
+---
+title: The Patents (Amendment) (No. 2) Rules 2014
+id: uksi/2014/2401
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2014-09-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2014/2401
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2401/pdfs/uksiem_20142401_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2401/pdfs/uksi_20142401_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2401/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Patents (Amendment) (No. 2) Rules 2014
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2014 No. 2401
+
+Patents
+
+The Patents (Amendment) (No. 2) Rules 2014
+
+Made
+
+8th September 2014
+
+Laid before Parliament
+
+9th September 2014
+
+Coming into force
+
+1st October 2014
+
+The Secretary of State makes the following Rules in exercise of the powers conferred by sections 25(3), 25(5), 32, 74A, 77(5A) and 123 of the Patents Act 1977[^f00001].
+
+## 1. Citation and commencement
+
+These Rules may be cited as the Patents (Amendment) (No. 2) Rules 2014 and come into force on 1st October 2014.
+
+## 2. Amendments to the Patents Rules 2007
+
+The Patents Rules 2007[^f00002] are amended as follows.
+
+## 3. New applications governed by rule 19
+
+In rule 19(4)(a), after “report”, insert “under section 18[^f00003]”.
+
+## 4. Payment of fees under section 77(5A) of the Patents Act 1977 following restoration of a European patent (UK)
+
+In rule 36(1), in the definition of “renewal period”, after “payment of a renewal fee”, insert “unless a renewal fee is payable by virtue of section 77(5A), in which case in this rule and in rules 39 and 41 “**renewal period**” means the period in which the fee is payable under section 77(5A) and rule 41A”.
+
+**5.** In rule 36(2), for “effect at the end of the renewal date.”, substitute—
+
+> effect—
+>
+> - (a) where the renewal fee is payable by virtue of section 77(5A), at the end of the final day of the renewal period;
+> - (b) in any other case, at the end of the renewal date.
+
+**6.** For rule 39(2), substitute—
+
+> (2) If the renewal fee remains unpaid, the comptroller[^f00004] must send a renewal notice to the proprietor of the patent—
+>
+> - (a) where the renewal fee is payable by virtue of section 77(5A), before the end of the period of six weeks beginning immediately after the later of—
+>   - (i) the end of the renewal period, and
+>   - (ii) the date on which the comptroller receives notification of the restoration of the patent from the European Patent Office[^f00005];
+> - (b) in any other case, before the end of the period of six weeks beginning immediately after the end of the renewal period.
+
+**7.** After rule 41, insert—
+
+> **41A. Payment of fees under section 77(5A) following restoration of a European patent (UK)**
+>
+> The prescribed period for the purposes of section 77(5A) is two months.
+
+**8.** In Schedule 4, Part 1, after the entry in respect of rule 40(1), insert the following entry—
+
+> rule 41A (payment of fees under section 77(5A) following restoration of a European patent (UK)[^f00006])
+
+.
+
+## 9. Opinions on prescribed matters
+
+In rule 44(5)(a), omit “(a) or (b)”.
+
+**10.** After rule 93(5), insert—
+
+> (6) The prescribed matters for the purposes of section 74A(1) are as follows—
+>
+> - (a) whether a particular act constitutes, or (if done) would constitute, an infringement of the patent;
+> - (b) whether, or to what extent, an invention for which the patent has been granted is not a patentable invention[^f00007];
+> - (c) whether the specification of the patent discloses the invention clearly enough and completely enough for it to be performed by a person skilled in the art;
+> - (d) whether the matter disclosed in the specification of the patent extends beyond that disclosed in the application for the patent as filed or, if the patent was granted on a new application, in the earlier application as filed;
+> - (e) whether the protection conferred by the patent has been extended by an amendment which should not have been allowed;
+> - (f) whether a supplementary protection certificate[^f00008] is invalid under Article 15 of the Medicinal Products Regulation[^f00009]; and
+> - (g) whether a supplementary protection certificate is invalid under Article 15 of the Plant Protection Products Regulation[^f00010].
+
+Baroness Neville-Rolfe
+
+Parliamentary Under Secretary of State for Business, Innovation and Skills
+
+Department for Business, Innovation and Skills
+
+8th September 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules amend the Patents Rules 2007.
+
+Rule 3 amends rule 19(4)(a) of the Patents Rules 2007 to clarify that the only type of examiner’s report that is relevant to the conditions which determine the deadline for filing a new application for a patent as mentioned in section 15(9) of the Patents Act 1977[^f00011] is an examiner’s report made under section 18 of the Patents Act 1977.
+
+Rules 4, 5 and 6 amend parts of the Patents Rules 2007 which support the operation of sections 25(3), 25(4), 25(5) and 28 of the Patents Act 1977[^f00012] in respect of the consequences of a failure to pay patent renewal fees and the restoration of lapsed patents. This is to ensure that those sections function in respect of renewal fees due by virtue of section 77(5A) of the Patents Act 1977 in respect of a European patent (UK) which has been revoked but subsequently restored under the European Patent Convention[^f00013].
+
+Rule 7 introduces a rule which sets out the period in which unpaid renewal fees are payable in respect of a European patent (UK) which has been revoked but subsequently restored for the purposes of section 77(5A) of the Patents Act 1977.
+
+Rule 8 amends the Patents Rules 2007 to provide that the period of time introduced by rule 7 cannot be extended under rule 108 of the Patents Rules 2007.
+
+Rule 9 amends rule 44(5)(a) of the Patents Rules 2007 to update the cross-reference to section 74A of the Patents Act 1977 given the prospective amendment of section 74A by section 16(1) of the Intellectual Property Act 2014. Rule 44(5)(a) of the Patents Rules 2007 requires the comptroller to enter a note on the register of patents that a request for an opinion has been received under section 74A(1) of the Patents Act 1977.
+
+Rule 10 introduces a new rule which sets out the matters in relation to a patent or a supplementary protection certificate about which a person may request the comptroller to issue an opinion under section 74A(1) of the Patents Act 1977. The matters include infringement and aspects of validity.
+
+A full impact assessment in respect of the effect that the changes to the patent opinions service will have on the costs of business, the voluntary sector and the public sector was completed in preparation for the Intellectual Property Bill (now the Intellectual Property Act 2014) and is available from the Intellectual Property Office, Concept House, Cardiff Road, Newport, South Wales, NP10 8QQ and is published with the Explanatory Memorandum alongside this instrument on www.legislation.gov.uk.
+
+A full impact assessment has not been produced for the other elements of this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c.37](https://www.legislation.gov.uk/ukpga/1977/37); section 25(3) was substituted by section 8(1) of the Patents Act [2004 (c.16)](https://www.legislation.gov.uk/ukpga/2004/16), section 32 was substituted by the Patents, Designs and Marks Act [1986 (c.39)](https://www.legislation.gov.uk/ukpga/1986/39), Schedule 1, paragraph 4 and amended by section 13(3) of the Patents Act 2004 (there are other amendments to section 32 but none is relevant), section 74A was inserted by section 13(1) of the Patents Act 2004 and is prospectively amended by section 16(1) of the Intellectual Property Act [2014 (c.18)](https://www.legislation.gov.uk/ukpga/2014/18), and section 77(5A) is prospectively inserted by the Intellectual Property Act 2014, Schedule, paragraph 6. See section 123(1) for the definitions of “prescribed” and “rules”; there are amendments to section 123 which are not relevant to these Rules.
+
+[^f00002]: Footnote: [S.I. 2007/3291](https://www.legislation.gov.uk/uksi/2007/3291), amended by [S.I. 2014/578](https://www.legislation.gov.uk/uksi/2014/578); there are other amending instruments but none is relevant.
+
+[^f00003]: Footnote: Section 18 of the Patents Act 1977 was amended by the Copyright, Designs and Patents Act [1988 (c.48)](https://www.legislation.gov.uk/ukpga/1988/48), Schedule 5, paragraph 4 and [S.I. 2004/2357](https://www.legislation.gov.uk/uksi/2004/2357).
+
+[^f00004]: Footnote: See section 130(1) of the Patents Act 1977 for the definition of “**comptroller**” (there are amendments to section 130(1) which are not relevant to that term).
+
+[^f00005]: Footnote: See section 130(1) of the Patents Act 1977 for the definition of “**European Patent Office**” (there are amendments to section 130(1) which are not relevant to that term).
+
+[^f00006]: Footnote: See section 130(1) of the Patents Act 1977 for the definition of “**European patent (UK)**” (there are amendments to section 130(1) which are not relevant to that term).
+
+[^f00007]: Footnote: See section 1(1) of the Patents Act 1977 for the meaning of “**patentable invention**” (section 1(1) was amended by the Patents Act 2004, Schedule 2, paragraphs 1 and 2).
+
+[^f00008]: Footnote: See section 128B(2) of the Patents Act 1977 for the definition of “**supplementary protection certificate**” (section 128B was inserted by [S.I. 2007/3293](https://www.legislation.gov.uk/uksi/2007/3293)).
+
+[^f00009]: Footnote: See paragraphs 6(2) and 7(a) of Schedule 4A to the Patents Act 1977 for the meaning of “**the Medicinal Products Regulation**” (Schedule 4A was inserted by [S.I. 2007/3293](https://www.legislation.gov.uk/uksi/2007/3293)).
+
+[^f00010]: Footnote: See paragraphs 6(2) and 7(b) of Schedule 4A to the Patents Act 1977 for the meaning of “**the Plant Protection Products Regulation**” (Schedule 4A was inserted by [S.I. 2007/3293](https://www.legislation.gov.uk/uksi/2007/3293)).
+
+[^f00011]: Footnote: [1977 c.37](https://www.legislation.gov.uk/ukpga/1977/37); section 15(9) was substituted by [S.I. 2004/2357](https://www.legislation.gov.uk/uksi/2004/2357).
+
+[^f00012]: Footnote: [1977 c.37](https://www.legislation.gov.uk/ukpga/1977/37); section 25(3) was substituted by section 8(1) of the Patents Act [2004 (c.16)](https://www.legislation.gov.uk/ukpga/2004/16), section 25(4) was amended by section 8(2) of the Patents Act 2004 and section 28 was amended by the Copyright, Designs and Patents Act [1988 (c.48)](https://www.legislation.gov.uk/ukpga/1988/48), Schedule 5, paragraph 6 and Schedule 8, section 8(3) of the Patents Act 2004 and [S.I. 2004/2357](https://www.legislation.gov.uk/uksi/2004/2357).
+
+[^f00013]: Footnote: The European Patent Convention was made in Munich on 5th October 1973 and revised on 17th December 1991 and 29th November 2000, is published in Cmnd 8510 Treaty Series 016/1982 (with the revisions published in Cm 1953 Miscellaneous Series 007/1992 and Cm 5615 Miscellaneous Series 018/2002) and is available on the European Patent Office’s website. Cm 1953 Miscellaneous Series 007/1992 is out of print but copies are available from The British Library, 96 Euston Road, London, NW1 2DB.

@@ -1,0 +1,44 @@
+---
+title: Finance Act 1994, section 37
+act: Finance Act 1994
+section: '37'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/9/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1994, section 37
+
+> **Warning: changes not yet applied to this text (19).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/9
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 37. Handling agents.
+
+*Extent: E+W+S+N.I.*
+
+(1) Where any amount of duty becomes payable at any time by the operator of an aircraft and, within the period of ninety days beginning with that time, that amount, or any other amount which becomes payable by him within the period, is not paid, the Commissioners may give notice under this section to any handling agent of his.
+
+(2) If any operator of an aircraft who is required to have a fiscal representative fails to appoint such a representative before the prescribed time, the Commissioners may give notice under this section to any handling agent of his.
+
+(3) In this Chapter “**handling agent**”, in relation to the operator of an aircraft (“**the principal**”), means any person (other than an individual) who, under an agreement with the principal, makes arrangements for—
+
+- (a) the allocation of seats to passengers on aircraft operated by the principal, or
+- (b) the supervision of the boarding of such aircraft by passengers.
+
+(4) A notice under this section—
+
+- (a) may be given on the ground referred to in subsection (1) above only if the Commissioners consider it necessary to do so for the protection of the revenue, and
+- (b) may at any time be withdrawn by the Commissioners.
+
+(5) A notice under this section shall become effective on the date stated in it or, if later, the time when the notice is received by the handling agent and shall continue to be effective until withdrawn.
+
+(6) If, where a notice given to a handling agent under this section is effective—
+
+- (a) the allocation of seats to passengers on aircraft operated by his principal, or the supervision of the boarding of such aircraft by passengers, is carried out in pursuance of arrangements made by him under any agreement with his principal, and
+- (b) any duty payable in respect of those passengers is not paid,
+
+the handling agent shall be liable jointly and severally with his principal for the payment of the duty.

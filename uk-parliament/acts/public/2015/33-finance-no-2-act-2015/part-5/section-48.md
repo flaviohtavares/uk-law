@@ -1,0 +1,40 @@
+---
+title: Finance (No. 2) Act 2015, section 48
+act: Finance (No. 2) Act 2015
+section: '48'
+status: revised
+text_date: '2020-07-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2015/33/section/48
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance (No. 2) Act 2015, section 48
+
+> Text as at 2020-07-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 48. Aggregates levy: restoration of exemptions
+
+*Extent: E+W+S+N.I.*
+
+(1) The provisions of Part 2 of FA 2001 (aggregates levy) that were amended or repealed by section 94 of FA 2014 (removal of certain exemptions with effect from 1 April 2014) have effect, and are to be treated as having had effect at all times on or after 1 April 2014, as if the amendments and repeals made by that section had not been made.
+
+(2) Accordingly, sections 94 and 95 of FA 2014 are repealed.
+
+(3) Part 2 of FA 2001, as amended by subsection (1), is further amended in accordance with subsections (4) and (5).
+
+(4) In section 17 (meaning of “**aggregate**” and “**taxable aggregate**”), in each of subsections (3)(f) and (4)(a)—
+
+- (a) after “lignite,” insert “ or ”, and
+- (b) omit “or shale”.
+
+(5) In section 18(2) (meaning of “exempt process”), after paragraph (c) insert—
+
+> - (ca) in the case of aggregate consisting of shale, any process consisting of a use of the shale that—
+>   - (i) is not a use of it as material or support in the construction or improvement of any structure, and
+>   - (ii) is not mixing it with anything as part of the process of producing mortar, concrete, tarmacadam, coated roadstone or any similar construction material.
+
+(6) The repeal of section 94 of FA 2014 is to be treated as having come into force on 1 August 2015, and the amendments made by subsections (3) to (5) are to be treated as having come into force on 1 April 2014.

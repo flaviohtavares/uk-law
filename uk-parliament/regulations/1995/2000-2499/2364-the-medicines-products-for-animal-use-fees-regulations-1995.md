@@ -1,0 +1,830 @@
+---
+title: The Medicines (Products for Animal Use — Fees) Regulations 1995
+id: uksi/1995/2364
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-09-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/2364
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/2364/made/data.pdf
+pending_changes: 7
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Medicines (Products for Animal Use — Fees) Regulations 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 2364
+
+MEDICINES
+
+The Medicines (Products for Animal Use — Fees) Regulations 1995
+
+Made
+
+7th September 1995
+
+Laid before Parliament
+
+8th September 1995
+
+Coming into force
+
+29th September 1995
+
+The Secretary of State concerned with health in England, the Secretaries of State respectively concerned with health and with agriculture in Wales and in Scotland, the Minister of Agriculture, Fisheries and Food, the Department of Health and Social Services for Northern Ireland and the Department of Agriculture for Northern Ireland, acting jointly, with the consent of the Treasury, in exercise of the powers conferred by section 1(1) and (2) of the Medicines Act 1971[^f00001] and now vested in them[^f00002] and of all the powers enabling them in that behalf, after consulting such organisations as appear to them to be representative of interests likely to be substantially affected by these Regulations[^f00003], and the Secretary of State and the Minister of Agriculture, Fisheries and Food, being Ministers designated[^f00004] for the purpose of section 2(2) of the European Communities Act 1972[^f00005] in relation to medicinal products and the common agricultural policy of the European Community, acting jointly, in exercise of the powers on them by the said section 2(2), hereby make the following Regulations:
+
+## 1. Citation, commencement and scope
+
+(1) These Regulations may be cited as the Medicines (Products for Animal Use — Fees) Regulations 1995 and shall come into force on 29th September 1995.
+
+(2) These Regulations apply only to fees relating to products for animal use.
+
+## 2. Interpretation
+
+(1) In these Regulations, unless the context requires otherwise—
+
+- “abridged standard application” means an application for a marketing authorisation, other than a simple application, which, by virtue of regulation 4(8) of the 1994 Regulations, need not be accompanied by the results of tests and trials of the type specified in Article 5.10 of Directive 81/851/EEC[^f00006] because the applicant has demonstrated that he is entitled to the benefit of paragraph (a)(i), (ii) or (iii) of that Article;
+- “the Act” means the Medicines Act 1968[^f00007];
+- “active ingredient” means the ingredient of a product in respect of which efficacy is claimed;
+- “application for assistance in connection with a mutual recognition application” means a request for the preparation of an assessment report of the type required by virtue of the second paragraph of Article 17.3 of Directive 81/851/EEC in order to make an application to another member State for mutual recognition of a marketing authorisation, or the updating of an existing assessment report for the purpose of enabling such an application to be made, and includes any assistance given of the type specified in Articles 18.2 and 18.3 of that Directive in connection with a subsequent application for mutual recognition in relation to which the assessment report or updated assessment report has been prepared;
+- “biological product” includes an antigen, toxin, antitoxin, toxoid, serum, antiserum or vaccine or a fraction of any such product;
+- “complex application” means an application, other than a major application, for, or for a variation of, a marketing authorisation, product licence or animal test certificate where the application—
+  - (a) relates to a product which is intended to be used in accordance with an indication for use in respect of a different species of animal or as treatment for a new medicinal purpose;
+  - (b) relates to a product containing a new combination of active ingredients which have not previously been included in that combination in a product in respect of which a marketing authorisation or product licence for animal use (other than a product licence of right) has previously been granted in the United Kingdom;
+  - (c) relates to a product containing a new adjuvant or a new excipient;
+  - (d) relates to a product which is intended to be administered by a route of administration different from that used in the administration of any product which contains the same active ingredient as the product in question and in respect of which a marketing authorisation or a product licence for animal use (other than a product licence of right) has previously been granted in the United Kingdom;
+  - (e) relates to a sterile product the manufacture of which involves a method of sterilisation different from that used in the manufacture of any product which contains the same active ingredient as the product in question and in respect of which a marketing authorisation or product licence for animal use (other than a product licence of right) has previously been granted in the United Kingdom;
+  - (f) relates to a product containing an active ingredient the manufacture of which involves a route of synthesis (or, in the case of a product not synthetically produced, a method of manufacture) different from that used in the manufacture of the active ingredient of any product which contains the same active ingredient as the product in question and in respect of which a marketing authorisation or product licence for animal use (other than a product licence of right) has previously been granted in the United Kingdom;
+  - (g) relates to a biological product containing an active ingredient, the manufacture of which involves a growth substrate different from that used in the manufacture of the active ingredient of any product which contains the same active ingredient as the product in question and in respect of which a marketing authorisation or product licence has previously been granted in the United kingdom;
+  - (h) relates to a product which is a controlled release preparation and a marketing authorisation or product licence for animal use (other than a product licence of right) for such a preparation constituting the same active ingredient as the product in question has not previously been granted in the United Kingdom;
+  - (i) relates to a sterile product the container of which is directly in contact with the product and is made from different material from the container of any product which contains the same ingredient as the product in question and in respect of which a marketing authorisation or product licence for animal use (other than a product licence of right) has previously been granted in the United Kingdom;
+  - (j) names as manufacturer of the active ingredient of the product in question a different manufacturer from the manufacturer of the active ingredient of any product which contains the same active ingredient as the product in question and in respect of which a marketing authorisation or product licence for animal use (other than a product licence of right) has previously ben granted in the United Kingdom; or
+  - (k) relates to a biological product containing an active ingredient derived from a strain of micro-organism different from that used in the manufacture of the active ingredient of any product which contains the same active ingredient as the product in question and in respect of which a marketing authorisation or product licence has previously been granted in the United Kingdom;
+- “Directive 81/851/EEC” means Council Directive [81/851/EEC](https://www.legislation.gov.uk/european/directive/1981/0851) on the approximation of the laws of the Member States relating to veterinary medicinal products[^f00008] as amended by Council Directives [90/676/EEC](https://www.legislation.gov.uk/european/directive/1990/0676)[^f00009] and [93/40/EEC](https://www.legislation.gov.uk/european/directive/1993/0040)[^f00010] and as extended by Directive 90/677/EEC[^f00011] and widened by Directive 92/74/EEC[^f00012];
+- “Directive 90/677/EEC” means Council Directive [90/677/EEC](https://www.legislation.gov.uk/european/directive/1990/0677) extending the scope of Directive [81/851/EEC](https://www.legislation.gov.uk/european/directive/1981/0851) on the approximation of the laws of the Member States relating to veterinary medicinal products and laying down additional provisions for immunological veterinary medicinal products;
+- “Directive 92/74/EEC” means Council Directive [92/74/EEC](https://www.legislation.gov.uk/european/directive/1992/0074) widening the scope of Directive [81/851/EEC](https://www.legislation.gov.uk/european/directive/1981/0851) on the approximation of provisions laid down by law, regulation or administrative action relating to veterinary medicinal products and laying down additional provisions on homeopathic veterinary medicinal products;
+- “emergency vaccines” means vaccines manufactured or assembled only from material obtained from the particular animal, flock or herd intended to be vaccinated in circumstances in which no other suitable authorised or licensed vaccines are readily available for such use;
+- “immunological Veterinary Medicinal Product” has the same meaning as in Directive 90/677/EEC;
+- “major application” means an application for a marketing authorisation or product licence in respect of a product containing a new active ingredient;
+- “marketing authorisation” means an authorisation to place on the market in the United Kingdom a Veterinary Medicinal Product but shall not include a marketing authorisation granted by the European Commission under Council Regulation [(EEC) No 2309/93](https://www.legislation.gov.uk/european/regulation/1993/2309) laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Agency for the Evaluation of Medicinal Products[^f00013];
+- “medicinal product” includes any substances or article specified in any Order made under—
+  - (a) section 104 or 105(1)(a) of the Act which directs that Part II of the Act shall have effect in relation to such substance or article; or
+  - (b) section 130(3A) of the Act[^f00014] which provides that such substance or article shall be treated as a medicinal product,
+
+  and includes any substance or article to be administered in a medical test on animals under section 32(6)(c) of the Act;
+- “the Ministers” has the meaning given by regulation 1(4) of the 1994 Regulations;
+- “mutually recognised marketing authorisation” means a marketing authorisation which has been mutually recognised by another member State;
+- “new active ingredient” means—
+  - (a) an active ingredient that has not previously been included as an active ingredient in a product in respect of which a marketing authorisation or product licence for animal use (other than a product licence of right) has previously been granted in the United Kingdom; or
+  - (b) an active ingredient in a product derived from genetically engineered micro-organisms, recombinant DNA technology or monoclonal antibodies; or
+  - (c) in the case of a biological product, a vaccine of a particular micro-organism whether in a live or inactivated form, other than a vaccine of a particular micro-organism which is derived from a strain of micro-organism which is antigenetically similar to that used in the manufacture of the active ingredient of a product in respect of which a marketing authorisation or product licence (not being a product licence of right) has previously been granted in the United Kingdom;
+- “new excipient” means any ingredient of a product, other than an active ingredient, that has not previously been included in a product—
+  - (a) which is intended to be administered by the same route of administration as that product; and
+  - (b) in respect of which a marketing authorisation or product licence for animal use (other than a product licence of right) has previously been granted in the United Kingdom,
+
+  except that, in the case of a product intended to be administered orally, the expression does not include any ingredient specified in any enactment (including an enactment comprised in subordinate legislation) as an approved ingredient or additive—
+
+  - (i) in food or food products; or
+  - (ii) in animal feedingstuffs where that product is intended for administration after being incorporated in the feedingstuff;
+- “previously” means previously by virtue of the Medicines (Fees Relating to Medicinal Products for Animal Use) Regulations 1994[^f00015] as read, in the case of marketing authorisations, with regulation 15 of the 1994 Regulations;
+- “product” means—
+  - (a) a Veterinary Medicinal Product, where it is used solely in relation to an application for, or relating to, a marketing authorisation; and
+  - (b) a medicinal product where it is used solely in relation to any other application;
+
+  except that, where it is used in relation to both an application for, or relating to, a marketing authorisation and any other application, it shall mean both a Veterinary Medicinal Product and a medicinal product;
+- “reference member State” has the meaning given by Article 2.2 of Regulation (EC) No. 541/95[^f00016];
+- “Regulation (EC) No. 541/95” means Commission Regulation [(EC) No 541/95](https://www.legislation.gov.uk/european/regulation/1995/0541) concerning the examination of variations to the terms of a marketing authorisation granted by a competent authority of a Member State;
+- “the 1994 Regulations” means the Marketing Authorisations for Veterinary Medicinal Products Regulations 1994[^f00017];
+- “relevant authority” insofar as it is used in relation to a marketing authorisation, or an application for, or relating to, such an authorisation, means the Ministers, and otherwise means the licensing authority;
+- “simple application” means an application for a marketing authorisation or product licence when the application—
+  - (a) is made by reference to an application for a particular product (“the existing product”) in respect of which a marketing authorisation or product licence for animal use (other than a product licence of right) has previously been granted;
+  - (b) is made by permission of the marketing authorisation or licence holder for the existing product;
+  - (c) relates to a product which is in all the following respects the same as the existing product—
+    - (i) the formulation is identical;
+    - (ii) it is intended to be used in accordance with the same indications;
+    - (iii) it is intended to be administered by the same route of administration;
+    - (iv) the manufacturer named in the application is the same as the manufacturer of the existing product;
+    - (v) the method of manufacture is the same; and
+    - (vi) in the case of a sterile product the method of sterilisation is the same and the container which is directly in contact with the product is made from the same material;
+- “standard application” means an application which is not a major, complex, abridged standard or simple application; and
+- “Veterinary Medicinal Product” means a veterinary medicinal product of the type specified in Article 1.2 of Directive 81/851/EEC and to which the provisions of that Directive apply.
+
+(2) Other expressions used in these Regulations have, in so far as the context admits, the same meanings as in Directive 81/851/EEC and Regulation (EC) No. 541/95.
+
+(3) In these Regulations, unless the context otherwise requires—
+
+- (a) any reference to a numbered regulation or to a numbered Schedule is a reference to the regulation of or the Schedule to these Regulations so numbered in these Regulations;
+- (b) any reference in a regulation or a Schedule or Part of a Schedule to a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule or Part of a Schedule in which the reference occurs; and
+- (c) any reference in a Schedule or Part of a Schedule to a lettered table is a reference to the table so lettered in the Schedule or Part of a Schedule in which the reference occurs.
+
+(4) Part 1 of Schedule 1 shall have effect for the purpose of the interpretation of Schedule 1.
+
+## 3. Fees relating to applications for the grant of marketing authorisations, product licences, manufacturer’s licences, wholesale dealer’s licences and animal test certificates
+
+Subject to the following provisions of these Regulations, there shall be payable by the applicant in connection with an application for the grant of a marketing authorisation, a product licence, a manufacturer’s licence, a wholesaler dealer’s licence or an animal test certificate the relevant fee prescribed in Part II of Schedule 1.
+
+## 4. Fees relating to applications for assistance in connection with mutual recognition applications
+
+Subject to the following provisions of these Regulations, there shall be payable by the applicant in connection with an application for assistance in connection with a mutual recognition application the relevant fee prescribed in Part III of Schedule 1.
+
+## 5. Fees relating to applications for the variation of marketing authorisations, product licences, manufacturer’s licences, wholesale dealer’s licences and animal test certificates
+
+Subject to the following provisions of these Regulations, there shall be payable by the applicant in connection with an application for the variation of a marketing authorisation, a product licence, a manufacturer’s licence, a wholesale dealer’s licence or an animal test certificate the relevant fee prescribed in Part IV of Schedule 1.
+
+## 6. Applications relating to multiple variations
+
+A separate fee shall be payable in respect of each variation of each provision of a marketing authorisation, licence or certificate applied for in any one application except that no separate fee shall be payable in respect of any variation which is related to or is consequential upon another variation of a provision of the same marketing authorisation, licence or certificate in the same application.
+
+## 7. Variations at the invitation of the relevant authority
+
+No fee shall be payable for a variation made at the express written invitation of the relevant authority.
+
+## 8. Fees relating to applications for the renewal of marketing authorisations, product licences, manufacturer’s licences and animal test certificates
+
+Subject to the following provisions of these Regulations, in connection with an application for the renewal of a marketing authorisation, a product licence, a manufacturer’s licence or an animal test certificate there shall be payable by the applicant the relevant fee prescribed in Part V of Schedule 1.
+
+## 9. Fees relating to applications for the renewal of marketing authorisations, product licences, manufacturer’s licences and animal test certificates in terms which are not identical to the existing marketing authorisation, licence or certificate
+
+Where an applicant applies for renewal of a marketing authorisation, a product licence, a manufacturer’s licence or an animal test certificate so as to contain provisions which are not identical to that marketing authorisation, licence or certificate as in force at the date of that application, there shall be payable by the applicant the renewal fee plus the fee which would have been payable had a separate application been made for each variation.
+
+## 10. Fees relating to site inspections
+
+(1) Subject to the following provisions of these Regulations, in respect of any inspection carried out in connection with an application for the grant, variation or renewal of a manufacturer’s licence there shall be payable by the applicant the relevant fee prescribed in Schedule 2.
+
+(2) Subject to paragraph (4), the holder of a manufacturer’s licence shall pay the relevant fee prescribed in Schedule 2 in respect of any inspection of a site relating to that licence (except for any inspection for which a fee is payable relating to the grant, variation or renewal of a licence).
+
+(3) Where a manufacturing site outside the European Union is specified, and the site is inspected, the fee prescribed in Schedule 2 shall be payable by the marketing authorisation or product licence holder; and if there is more than one marketing authorisation or product licence holder, a fee shall be payable by each marketing authorisation or product licence holder, which shall be the amount prescribed in Schedule 2 divided between the holders of the marketing authorisations or product licences, as the case may be, in proportion to the number of marketing authorisations or product licences held.
+
+(4) No fee shall be payable in respect of any inspection of a site carried out within 6 months of a previous inspection in order to ascertain whether alterations or improvements to the premises concerned, which were required in writing by the relevant authority as the result of that previous inspection, have been implemented.
+
+## 11. Marketing authorisations and product licences: annual fees
+
+(1) The holder of any marketing authorisation or product licence shall pay an annual fee calculated in accordance with Schedules 3 and 4 in respect of each calendar year in which he has sold, supplied or manufactured any product to which the marketing authorisation or product licence relates.
+
+(2) All annual fees shall be payable during October of the year following the calendar year to which they relate.
+
+## 12. Manufacturer’s licences: annual fees
+
+The holder of a manufacturer’s licence, other than one specified in paragraph 7(2) of Part II of Schedule 1, shall pay an annual fee of £205 (previously £200) payable on each anniversary of the grant of the licence.
+
+## 13. Wholesale dealer’s licences: annual fees
+
+(1) The holder of a wholesale dealer’s licence, other than one specified in paragraph (2), shall pay an annual fee of £415 (previously £400) payable on each anniversary of the grant of the licence.
+
+(2) In the case of the holder of a wholesale dealer’s licence who has a turnover in products—
+
+- (a) of less than £40,000; or
+- (b) of less than 15% of his total turnover,
+
+the annual fee for such a licence, if it is accompanied (in either case) by a declaration certifying the low turnover, shall be £205 (previously £200) and shall be payable on each anniversary of the grant of the licence.
+
+(3) For the purposes of this regulation, “turnover” means the gross value of all authorised or licensed products sold by way of wholesale dealing by the licence holder in the United Kingdom during the previous calendar year.
+
+## 14. Marketing authorisations, product licences and animal test certificates: fees for references to the Veterinary Products Committee or to the Medicines Commission
+
+In respect of any reference to the Veterinary Products Committee or to the Medicines Commission—
+
+- (a) under section 21 of the Act in connection with a product licence or an animal test certificate; or
+- (b) under regulation 12 of the 1994 Regulations in connection with a marketing authorisation,
+
+there shall be payable by the applicant at the time of the application the relevant fee prescribed in Schedule 5.
+
+## 15. Payment of fees to the Minister
+
+Fees under these Regulations shall be payable to the Minister of Agriculture, Fisheries and Food.
+
+## 16. Time for payment of fees in connection with applications or inspections and refunds of such fees
+
+(1) All fees payable under these Regulations in connection with any application (other than fees for inspections) shall be payable at the time of that application.
+
+(2) If, following either the determination of an application or an inspection, it becomes apparent that—
+
+- (a) a lesser fee was properly payable, the excess shall be refunded to the applicant, or as the case may be, the holder of the marketing authorisation, licence or certificate concerned, within 28 days of a request for a refund; or
+- (b) a higher fee was properly payable, the balance due shall be payable within 28 days following written notice from the relevant authority to the applicant or, as the case may be, the holder of the marketing authorisation, licence or certificate concerned.
+
+(3) All fees for inspections made either in connection with an application or during the currency of a marketing authorisation or licence shall become payable within 28 days following written notice from the relevant authority.
+
+## 17. Late payment of annual fees
+
+(1) Where the annual fee for a marketing authorisation or product licence has not been paid by the end of the period of three months from the due date, a further fee, calculated in accordance with the provisions of the following paragraphs, shall be payable.
+
+(2) The further fee referred to in the preceding paragraph shall be an amount equivalent to 5 per cent of the annual fee payable, in respect of every full calendar month during which the annual fee is not paid, rounded up to the nearest £10.
+
+(3) Where the holder or former holder of a marketing authorisation or product licence has not furnished evidence of his annual turnover in accordance with the provisions of Part I of Schedule 3 so that the annual fee payable cannot be determined before the due date, he may make a payment of an amount on account of the annual fee payable by him (in this regulation referred to as a “payment on account”).
+
+(4) Where the holder or former holder of a marketing authorisation or product licence has made a payment on account in the circumstances mentioned in the preceding paragraph the further fee payable by him shall be calculated as if, in paragraph (2) above, the reference to the annual fee payable were to the difference between the payment on account and the amount of the annual fee as subsequently determined.
+
+(5) In this regulation—
+
+- (a) “due date” means the date upon which an annual fee became payable following written notice from the relevant authority; and
+- (b) references to a period calculated from a day are references to the period inclusive of that day.
+
+## 18. Suspension of licences and certificates
+
+Where any sum due by way of, or on account of, any fee or any part thereof payable under these Regulations remains unpaid by the holder of a licence or certificate, the relevant authority may serve a notice on him requiring payment of the sum unpaid and, if after a period of one month from the date of service of such notice, or such longer period as the relevant authority may allow, the said sum remains unpaid, the relevant authority may forthwith suspend the licence or certificate until such sum has been paid.
+
+## 19. Waiver, reduction or refund of fees
+
+The relevant authority may waive payment of any fee, reduce any fee or part of a fee otherwise payable under these Regulations or refund the whole or part of any fee already so paid in exceptional circumstances or in any of the circumstances specified in Schedule 6.
+
+## 20. Revocation and savings
+
+(1) Subject to paragraph (2), the Medicines (Fees Relating to Medicinal Products for Animal Use) Regulations 1994[^f00018] are hereby revoked.
+
+(2) Paragraph (1) shall not affect—
+
+- (a) any notice given or any suspension made under those Regulations and any such notice or suspension shall have effect as if given or made under these Regulations; and
+- (b) any proceedings instituted under those Regulations.
+
+## 21. Transitional provisions
+
+(1) Subject to paragraphs (2), (3) and (4), these Regulations shall not apply to any application made before the date these Regulations come into force.
+
+(2) A fee shall be payable in respect of any inspection made or any product testing required after the date these Regulations come into force in connection with any application made before that date as if these Regulations applied to that application.
+
+(3) Where an application to renew a marketing authorisation, licence or certificate is made before the date these Regulations come into force, and the authorisation, licence or certificate is due to expire on or after that date the fee shall be that payable under these Regulations, and the balance due shall be payable within 28 days following written notice from the relevant authority.
+
+(4) Nothing in these Regulations shall have effect in relation to an annual fee relating to a calendar year earlier than 1994.
+
+Signed by authority of the Secretary of State for Health
+
+Tom Sackville
+
+Parliamentary Under Secretary of State for Health
+
+5th September 1995
+
+Signed by authority of the Secretary of State for Wales
+
+Gwilym Jones
+
+Parliamentary Under Secretary of State, Welsh Office
+
+24th August 1995
+
+Lindsay
+
+Parliamentary Under Secretary of State, Scottish office
+
+23rd August 1995
+
+Angela Browning
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+31st August 1995
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland
+
+F. A. Elliott
+
+Permanent Secretary
+
+25th August 1995.
+
+Sealed with the Official Seal of the Department of Agriculture for Northern Ireland
+
+J. Murray
+
+Permanent Secretary
+
+7th September 1995
+
+We consent,
+
+Bowen Wells
+
+Simon Burns
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+31st August 1995
+
+## SCHEDULE 1 — FEES RELATING TO APPLICATIONS FOR THE GRANT AND THE VARIATION AND RENEWAL OF MARKETING AUTHORISATIONS, PRODUCT LICENCES, MANUFACTURER'S LICENCES, WHOLESALE DEALER'S LICENCES AND ANIMAL TEST CERTIFICATES
+
+Regulations 2(4), 3, 4, 5, 8 and 12
+
+### PART I — Interpretation
+
+In this Schedule—
+
+- “application for a type A marketing authorisation” means an application for a marketing authorisation to which regulation 5(a) of the 1994 Regulations applies and “type A marketing authorisation” shall be construed accordingly;
+- “application for a type B marketing authorisation” means an application for a marketing authorisation to which regulation 5(b) of the 1994 Regulations applies and “type B marketing authorisation” shall be construed accordingly;
+- “Article 15.2 marketing authorisation” means a marketing authorisation of the type specified in Article 15.2 of Directive 81/851/EEC;
+- “category I application” means an application for assistance in connection with a mutual recognition application other than a category II or III application;
+- “category II application” means an application, other than a category III application, for assistance in connection with a mutual recognition application relating to a marketing authorisation granted in respect of a Veterinary Medicinal Product only intended for administration to animals whose flesh or products are not intended for human consumption;
+- “category III application” means an application for assistance in connection with a mutual recognition application relating to a marketing authorisation granted in respect of an immunological Veterinary Medicinal Product;
+- “type I variation— Administrative ” means a variation of the type listed in paragraphs 2 and 3 of Annex I to Regulation [(EC) No 541/95](https://www.legislation.gov.uk/european/regulation/1995/0541)[^f00019];
+- “type I variation— Scientific” means a variation of the type listed in paragraphs 1 and 4 to 33 of Annex I to Regulation [(EC) No 541/95](https://www.legislation.gov.uk/european/regulation/1995/0541); and
+- “type II variation” means a variation of the type referred to in Article 3.1(b) of Regulation [(EC) No 541/95](https://www.legislation.gov.uk/european/regulation/1995/0541).
+
+### PART II — Fees relating to applications for the grant of marketing authorisations, product licences, manufacturer’s licenses, wholesale dealer’s licences and animal test certificates
+
+#### 1. Marketing authorisations and product licences
+
+Subject to paragraphs 2, 3, 4 and 5—
+
+- (a) the fee for an application for a type A marketing authorisation of the kind described in column (1) of Table A shall be the fee specified in the corresponding entry of column (3) of that Table;
+- (b) the fee for an application for a type B marketing authorisation of the kind described in column (1) of Table A shall be the fee specified in the corresponding entry of column (4) of that Table; and
+- (c) the fee for an application for a product licence of the kind described in column (1) of Table A shall be the fee specified in the corresponding entry in column (5) of that Table.
+
+  Table A
+
+  <table>
+  <thead>
+  <tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th><th><em>Column (4)</em></th><th><em>Column (5)</em></th></tr>
+  <tr><th><em>Kind of application</em></th><th><em>Previous fee</em></th><th><em>Fee for a type A marketing authorisation</em></th><th><em>Fee for a type B marketing authorisation</em></th><th><em>New fee for a product licence</em></th></tr>
+  </thead>
+  <tbody>
+  <tr><td>Major application</td><td>£13,800</td><td>£14,250</td><td>£8,000</td><td>£14,250</td></tr>
+  <tr><td>Complex application</td><td>£8,000</td><td>£8,260</td><td>£4,800</td><td>£8,260</td></tr>
+  <tr><td>Standard application</td><td>£3,450</td><td>£3,565</td><td>£2,400</td><td>£3,565</td></tr>
+  <tr><td>Abridged standard</td><td>N/A</td><td>£3,545</td><td>—</td><td>—</td></tr>
+  <tr><td>application</td></tr>
+  <tr><td>Simple application</td><td>£1,150</td><td>£1,190</td><td>£800</td><td>£1,190</td></tr>
+  <tr><td>Emergency vaccine</td><td>£40</td><td>£40</td><td>—</td><td>£40</td></tr>
+  <tr><td>application</td></tr>
+  </tbody>
+  </table>
+
+**2.** The fee for an application for an Article 15.2 marketing authorisation of the kind described in column (1) of Table B shall be the fee specified in the corresponding entry in column (3) of that Table.
+
+Table B
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Kind of application</em></th><th><em>Previous fee</em></th><th><em>Fee for an Article 15.2 marketing authorisation</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Major application</td><td>£8,000</td><td>£8,260</td></tr>
+<tr><td>Complex application</td><td>£3,450</td><td>£3,565</td></tr>
+</tbody>
+</table>
+
+**3.** Where an application for a marketing authorisation is made by a person who is already the holder of an Article 15.2 marketing authorisation relating to the same Veterinary Medicinal Product as the marketing authorisation applied for the fee shall be—
+
+- (a) where a major application was previously made in respect of the Article 15.2 marketing authorisation, £5,990; and
+- (b) where a complex application was previously made in respect of the Article 15.2 marketing authorisation, £4,695.
+
+**4.** Where—
+
+- (a) a major or a complex application is made by a person who is already the holder of an animal test certificate, in respect of a product containing the same active ingredient as the product in respect of which the marketing authorisation or product licence is applied for; or
+- (b) a major or a complex application is made by a person who is already the holder of a product licence (export only), relating to the same product as the marketing authorisation or product licence applied for,
+
+the fee shall be reduced by the amount of the fee paid in connection with the application for that certificate or licence.
+
+**5.** (1) Subject to sub-paragraphs (2) and (3), where an application for a marketing authorisation or product licence consists of an application for more than one such authorisation or licence each relating to a product containing the same active ingredient or combination of ingredients, the fee shall be of an amount equal to the aggregate of the amounts payable under paragraph 1 in respect of separate applications for each such authorisation or licence.
+
+(2) If the application is a major application, the fee shall be the amount payable in respect of a major application under paragraph 1 plus—
+
+- (a) in respect of each additional marketing authorisation or product licence applied for which relates to a product of a different dosage form, the amount payable in respect of a complex application under paragraph 1; and
+- (b) in respect of each additional marketing authorisation or product licence applied for which relates to a product of the same dosage form but of a different strength of active ingredient or different combination of active ingredients, the amount payable in respect of a standard application under paragraph 1.
+
+(3) If the application is a complex application, the amount payable shall be the amount payable in respect of a complex application under paragraph 1 plus—
+
+- (a) in respect of each additional marketing authorisation or product licence applied for which relates to a product of a different dosage form, the amount payable in respect of a standard application under paragraph 1; and
+- (b) in respect of each additional marketing authorisation or product licence applied for which relates to a product of the same dosage form but of a different strength of active ingredient or different combination of active ingredients, the amount payable in respect of a simple application under paragraph 1.
+
+#### 6. Animal test certificates
+
+The fee for an application for an animal test certificate shall be £4,400.
+
+#### 7. Manufacturer’s licences
+
+(1) The fee for an application for a manufacturer’s licence shall be—
+
+- (a) in a case to which sub-paragraph (2) below applies, £90; or
+- (b) in any other case £1,965 (previously £1,900); and
+- (c) in either case, if appropriate, a fee calculated in accordance with Schedule 2 in respect of any inspection made in connection with that application.
+
+(2) This paragraph applies in the case of an application for a manufacturer’s licence which is limited solely to the manufacture or assembly of—
+
+- (a) products the sale or supply of which do not require a marketing authorisation or product licence and to which article 2(2)(i) of the Medicines (Exemption from Licences) (Special and Transitional Cases) Order 1971[^f00020] applies; or
+- (b) emergency vaccines.
+
+#### 8. Wholesale dealer’s licences
+
+(1) Subject to sub-paragraph (2) below the fee for an application for a wholesale dealer’s licence shall be £1,340 (previously £1,300).
+
+(2) In the case of a wholesale dealer who has a turnover in respect of products—
+
+- (a) of less than £40,000; or
+- (b) of less than 15% of his total turnover,
+
+the fee payable in connection with an application for a wholesale dealer’s licence, if accompanied (in either case) by a declaration certifying the low turnover, shall be £455 (previously £440).
+
+(3) For the purposes of paragraph 8(2), “turnover” means the gross value of all products sold by way of wholesale dealing by the applicant in the United Kingdom during the previous calendar year. Products sold by way of wholesale dealing by the marketing authorisation or licence holder shall comprise only those products in respect of which an authorisation or a licence is held during the whole or part of that calendar year.
+
+### PART III — Fees relating to applications for assistance in connection with mutual recognition applications
+
+**1.** Subject to paragraph 3, 4 and 5, where an application for assistance in connection with a mutual recognition application of a kind described in column (1) of Table C is made within six months after the grant of the marketing authorisation to which it relates, and such application relates to an application for mutual recognition to be made to not more than five member States, the fee for such application shall be the fee specified in the corresponding entry in column (3) of that Table.
+
+**2.** Where an application for assistance in connection with a mutual recognition application of a kind described in column (1) of Table C is made within six months after the grant of the marketing authorisation to which it relates, and such application relates to an application for mutual recognition to be made to more than five member States, the fee for such application shall be the fee specified in the corresponding entry in column (3) of Table C, plus the additional fee specified in the corresponding entry in column (4) of that Table for the sixth and each additional member State.
+
+**3.** Where an application for assistance in connection with a mutual recognition application is made within six months after the grant of the marketing authorisation to which it relates, and an application or applications for assistance to mutually recognise such authorisation has or have previously been made by the applicant, no fee shall be payable in respect of the new application if the total number of member States to which the previous application or applications and the new application relate does not exceed five.
+
+**4.** (1) Where an application for assistance in connection with a mutual recognition application of a kind described in column (1) of Table C is made within six months after the grant of the marketing authorisation to which it relates, and—
+
+- (a) an application or applications for assistance mutually to recognise such authorisation has or have previously been made by the applicant; and
+- (b) the total number of member States to which the previous application or applications related does not exceed five but the total number of member States to which the previous application or applications related and the new application relates will exceed five,
+
+a fee calculated in accordance with paragraph (2) shall be payable in connection with the new application.
+
+(2) The fee payable in connection with an application to which subparagraph (1) applies shall be calculated by taking the total number of member States to which the previous application or applications related and the new application relates, deducting five from that number, and by then multiplying the resulting number by the fee specified in the corresponding entry in column (4) of Table C.
+
+**5.** Where an application for assistance in connection with a mutual recognition application of a kind described in column (1) of Table C is made within six months after the grant of the marketing authorisation to which it relates, and—
+
+- (a) an application or applications for assistance to mutually recognise such authorisation has or have previously been made by the applicant; and
+- (b) the total number of member States to which the previous application or applications related exceeds five, the fee payable in connection with the new application shall be calculated by multiplying the number of member States to which the new application relates by the fee specified in the corresponding entry in column (4) of that Table.
+
+  Table C
+
+  <table>
+  <thead>
+  <tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th><th><em>Column (4)</em></th></tr>
+  <tr><th><em>Kind of application</em></th><th><em>Previous fee</em></th><th><em>Basic fee</em></th><th><em>Additional Fee for the sixth and each additional member State</em></th></tr>
+  </thead>
+  <tbody>
+  <tr><td>Major</td><td>N/A</td><td>£3,750</td><td>£700</td></tr>
+  <tr><td>Complex</td><td>N/A</td><td>£2,175</td><td>£336</td></tr>
+  <tr><td>Standard</td><td>N/A</td><td>£940</td><td>£175</td></tr>
+  <tr><td>Simple</td><td>N/A</td><td>£315</td><td>£60</td></tr>
+  </tbody>
+  </table>
+
+**6.** (1) Where an application for assistance in connection with a mutual recognition application of a kind described in column (1) of Table D is made more than six months after the grant of the marketing authorisation to which it relates, and such application relates to an application for mutual recognition to be made to not more than five member States, the fee for such application shall be the fee specified in the corresponding entry in column (3) of Table D.
+
+(2) Where an application for assistance in connection with a mutual recognition application of a kind described in column (1) of Table D is made more than six months after the grant of the marketing authorisation to which it relates, and such application relates to an application for mutual recognition to be made to more than five member States, the fee for such application shall be the fee specified in the corresponding entry in column (3) of Table D plus, for the sixth and each additional member State, the fee specified in the corresponding entry in column (4) of that Table.
+
+Table D
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th><th><em>Column (4)</em></th></tr>
+<tr><th><em>Kind of application</em></th><th><em>Previous fee</em></th><th><em>Basic fee</em></th><th><em>Additional Fee — for the sixth and each additional member State</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Category I application</td><td>N/A</td><td>£7,975</td><td>£1,000</td></tr>
+<tr><td>Category II application</td><td>N/A</td><td>£5,320</td><td>£665</td></tr>
+<tr><td>Category III application</td><td>N/A</td><td>£4,255</td><td>£530</td></tr>
+</tbody>
+</table>
+
+### PART IV — Fees relating to applications for the variation of marketing authorisations, product licences, manufacturer’s licences, wholesale dealer’s licences and animal test certificates
+
+#### 1. Marketing authorisations (other than mutually recognised marketing authorisations) and product licences
+
+The fee for a complex application for the variation of—
+
+- (a) a marketing authorisation, other than a mutually recognised marketing authorisation; or
+- (b) a product licence,
+
+shall be £2,485 (previously £1,100).
+
+**2.** The fee for an application of the kind described in column (1) of Table E for the variation of—
+
+- (a) a marketing authorisation, other than a mutually recognised marketing authorisation; or
+- (b) a product licence,
+
+other than a complex application shall be that specified in the corresponding entry in column (3) of that Table.
+
+Table E
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Kind of application</em></th><th><em>Previous fee</em></th><th><em>New fee</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Variation requiring veterinary, scientific or pharmaceutical assessment</td><td>£340 for the first variation plus £140 for each additional consequential variation to other licences in identical terms</td><td>£350 for the first variation plus £145 for each additional consequential variation to other authorisations or licences in identical terms</td></tr>
+<tr><td>Variation not requiring veterinary, scientific or pharmaceutical assessment</td><td>£140</td><td>£145</td></tr>
+<tr><td>Variation involving the re-issue of the licence in the new name of the company</td><td>£140</td><td>£145</td></tr>
+<tr><td>Variation where the product licence relates solely to an emergency vaccine</td><td>£40</td><td>£40</td></tr>
+</tbody>
+</table>
+
+**3.** The fee for an application for the variation of a mutually recognised marketing authorisation of a kind described in column (1) of Table F shall be that specified in the corresponding entry in column (3) of that Table where the United Kingdom is acting as the reference member State and that specified in the corresponding entry in column (4) of the said Table where the United Kingdom is not acting as the reference member State—
+
+Table F
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th><th><em>Column (4)</em></th></tr>
+<tr><th><em>Kind of application</em></th><th><em>Previous fee</em></th><th><em>New fee— United Kingdom acting as the reference member State</em></th><th><em>New fee— United Kingdom not acting as the reference member State</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Type I variation— Administrative</td><td>N/A</td><td>£530</td><td>£100</td></tr>
+<tr><td>Type I variation— scientific</td><td>N/A</td><td>£2,130</td><td>£500</td></tr>
+<tr><td>Type II variation</td><td>N/A</td><td>£7,445</td><td>£2,000</td></tr>
+<tr><td>New application treated as a variation</td><td>N/A</td><td>£8,510</td><td>£3,560</td></tr>
+</tbody>
+</table>
+
+#### 4. Manufacturer’s licences
+
+The fee for an application for variation of a manufacturer’s licence—
+
+- (a) in the case of a manufacturer’s licence referred to in paragraph 7(2) of Part II of this Schedule, shall be £90;
+- (b) in any other case—
+  - (i) requiring veterinary, scientific or pharmaceutical assessment, shall be £340 (previously £330); and
+  - (ii) not requiring veterinary, scientific or pharmaceutical assessment, shall be £115 (previously £110).
+
+#### 5. Wholesale dealer’s licences
+
+The fee for an application for variation of a wholesale dealer’s licence—
+
+- (a) requiring veterinary, scientific or pharmaceutical assessment, shall be £340 (previously £330); and
+- (b) not requiring veterinary, scientific or phamaceutical assessment, shall be £115 (previously £110).
+
+#### 6. Animal test certificates
+
+The fee for an application of the kind described in column (1) of Table G for the variation of an animal test certificate shall be that specified in the corresponding entry in column (2) of that Table.
+
+Table G
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th></tr>
+<tr><th><em>Kind of application</em></th><th><em>Fee payable</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Complex application</td><td>£1,150</td></tr>
+<tr><td>Non—complex application requiring veterinary, scientific or phamaceutical assessment</td><td>£330</td></tr>
+<tr><td>Non—complex application not requiring veterinary, scientific or phamaceutical assessment</td><td>£110</td></tr>
+<tr><td>Application for the re—issue of a certificate in the new name of the company</td><td>£110</td></tr>
+</tbody>
+</table>
+
+### PART V — Fees relating to applications for the renewal of marketing authorisations, product licences, manufacturer’s licences and animal test certificates
+
+#### 1. Marketing authorisations and product licences
+
+Subject to paragraph 4, the fee for an application for a renewal of a marketing authorisation or product licence shall be £995 (previously £525), and, in the case of a marketing authorisation or product licence relating solely to an emergency vaccine, £40.
+
+#### 2. Manufacturer’s licences
+
+The fee for an application for a renewal of a manufacturer’s licence referred to in paragraph 7(2) of Part II of this Schedule, shall be £100.
+
+#### 3. Animal test certificates
+
+The fee for an application for renewal of an animal test certificate shall be £525.
+
+#### 4. Article 15.2 marketing authorisations
+
+Where an Article 15.2 marketing authorisation is renewed, no fee shall be payable in respect of the first annual renewal.
+
+## SCHEDULE 2 — FEES RELATING TO SITE INSPECTIONS
+
+Regulations 10(1)(2) and (3)
+
+### 1. Interpretations
+
+(1) In this Schedule—
+
+- “dormant biological product” means a product which is not currently being manufactured or sold and in respect of which there is no current intention to recommence the manufacture or sale;
+- “major inspection” means an inspection at a site at which 60 or more, but fewer than 250, relevant persons are employed;
+- “minor inspection” means an inspection at a site at which fewer than 10 relevant persons are employed;
+- “relevant person” means any person directly or indirectly engaged in, or assisting in, the manufacture or assembly of products and also includes any person connected with such production who is involved in management, quality control, site maintenance, packing, storage or distribution;
+- “standard inspection” means an inspection at a site at which 10 or more, but fewer than 60, relevant persons are employed; and
+- “supersite inspection” means an inspection at a site at which 250 or more relevant persons are employed.
+
+(2) In calculating the number of relevant persons for the purposes of this Schedule, any person partly engaged or assisting in the manufacture or assembly of products (whether as a part-time employee or by virture of being only partly employed in such work) shall be included in the calculation but only as a fraction calculated by reference to the amount of time spent by that person engaged or assisting in the manufacture or assembly of such products or, where such a calculation is inappropriate, by reference to the percentage of his job which relates to the manufacture or assembly of such products and, in either case, by comparison with the average working week of a relevant person engaged in full-time employment at the same site.
+
+### 2. Fees
+
+(1) Subject to paragraphs 3 to 5, except in the case of an inspection falling within sub-paragraphs (2) to (4) below, the fee payable in respect of an inspection of a kind described in column (1) of Table A shall be that specified in the corresponding entry in column (3) of that Table.
+
+Table A
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Kind of inspection</em></th><th><em>Previous fee</em></th><th><em>New fee</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Supersite inspection</td><td>£11,000</td><td>£11,360</td></tr>
+<tr><td>Major inspection</td><td>£5,800</td><td>£5,990</td></tr>
+<tr><td>Standard inspection</td><td>£3,100</td><td>£3,200</td></tr>
+<tr><td>Minor inspection</td><td>£1,650</td><td>£1,705</td></tr>
+</tbody>
+</table>
+
+(2) Where the site inspected is wholly or partly concerned with the manufacture of sterile products or the filling of the containers directly in contact with such products the fee payable for an inspection of a kind described in column (1) of Table B of such a site shall be that specified in the corresponding entry in column (3) of that Table.
+
+Table B
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Kind of inspection</em></th><th><em>Previous fee</em></th><th><em>New fees</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Supersite inspection</td><td>£18,190</td><td>£18,780</td></tr>
+<tr><td>Major inspection</td><td>£9,600</td><td>£9,910</td></tr>
+<tr><td>Standard inspection</td><td>£4,850</td><td>£5,010</td></tr>
+<tr><td>Minor inspection</td><td>£2,500</td><td>£2,580</td></tr>
+</tbody>
+</table>
+
+(3) Except in the case of an inspection falling within sub-paragraph (2) above or sub-paragraph (4) below, where the site inspected is concerned only with the assembly of products the fee payable for an inspection of the kind described in column (1) of Table C of such a site shall be that specified in the corresponding entry in column (3) of that Table.
+
+Table C
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Kind of inspection</em></th><th><em>Previous fee</em></th><th><em>New fee</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Supersite inspection</td><td>£5,900</td><td>£6,090</td></tr>
+<tr><td>Major inspection</td><td>£4,000</td><td>£4,130</td></tr>
+<tr><td>Standard inspection</td><td>£1,950</td><td>£2,015</td></tr>
+<tr><td>Minor inspection</td><td>£1,000</td><td>£1,035</td></tr>
+</tbody>
+</table>
+
+(4) Where the site inspected is limited solely to the manufacturer or assembly of—
+
+- (a) products, the sale or supply of which do not require a marketing authorisation or product licence and to which article 2(2)(i) of the Medicines (Exemption from Licences) (Special and Transitional Cases) Order 1971 applies, the fee payable shall be £100; and
+- (b) emergency vaccines, the fee payable shall be £100.
+
+**3.** If, following an inspection, it becomes apparent that the inspection fell into a different category from that established by the applicant or the holder of the marketing authorisation or licence, the fee payable under these Regulations in respect of that inspection shall be the fee payable in respect of an inspection falling within the category into which the inspection should have fallen.
+
+**4.** The fee payable in respect of any inspection of the premises and the procedures used or any inspection of the premises or the procedures used for the quality control of a biological product in respect of which a marketing authorisation or product licence has been granted or applied for, shall be £1,140 (previously £1,100) for each such product which is not a dormant biological product. Any such inspection in connection with such an authorised or licenced biological product (not being a dormant biological product) in respect of which a marketing authorisation or product licence was granted because it was identical to an existing product, shall be £55.
+
+**5.** (1) The fee payable in respect of an inspection at a site outside the United Kingdom shall be increased by an amount equal to the travelling and subsistence costs of the inspector relating to the inspection and any additional costs reasonably incurred by him in respect of that inspection as a result of its being at a site outside the United Kingdom (such as interpreter’s fees).
+
+(2) The fee payable in respect of an inspection pursuant to paragraph 4 at a site, whether or not outside the United Kingdom, shall be increased by an amount equal to the travelling and subsistence costs of the inspector relating to the inspection and any additional costs reasonably incurred by him in respect of that inspection in the case of its being at a site outside the United Kingdom (such as interpreter’s fees).
+
+## SCHEDULE 3 — MARKETING AUTHORISATIONS AND PRODUCT LICENCES:ANNUAL FEES
+
+Regulations 11(1) and 17(3)
+
+### PART I
+
+#### 1. Calculation of turnover
+
+In relation to the calculation of turnover in any calendar year in accordance with the provisions of the succeeding paragraphs of this Part of this Schedule, “manufacturer’s prices” shall mean, subject to the provisions of paragraph 2, the prices charged by manufacturers to wholesalers, except where products are supplied by manufacturers direct to retailers, in which case the prices charged by the marketing authorisation or licence holder may be reduced by such sum as, in the opinion of the relevant authority, represents the difference between the prices paid by wholesalers and those normally charged by them to retailers according to the practice prevailing during the period in question with regard to such products.
+
+**2.** Where a market authorisation or licence holder sells or supplies products which he has neither manufactured nor obtained from the manufacturer, in relation to the calculation of turnover in any calendar year in accordance with the provisions of the succeeding paragraphs of this Part of this Schedule “manufacturers' prices” shall mean the prices paid by, or on behalf of, the marketing authorisation or licence holder for those products.
+
+**3.** (1) For the purpose of calculating annual fees for marketing authorisations and product licences for intermediate feed in relation to the calculation of turnover in any calendar year in accordance with the provisions of the succeeding paragraphs of this Part of this Schedule, the value of the feedingstuff shall be included in the value of the intermediate feed.
+
+(2) For the purposes of this Part of this Schedule, “intermediate feed” means a medicated feedingstuff sold, supplied or imported for use wholly or mainly as an ingredient in the preparation of a substance which is to be fed to one or more animals for a medicinal purpose or for purposes that include that purpose, with or without further processing.
+
+**4.** For the purpose of calculating annual fees for marketing authorisations and product licences, “turnover” means the gross value at manufacturers' prices of all authorised or licensed products sold or supplied in the United Kingdom during the previous calendar year and in relation to which the person from whom the fee is due holds the marketing authorisation or licence.
+
+**5.** Where the marketing authorisation or licence holder fails to furnish evidence of the amount of annual turnover to the satisfaction of the relevant authority, the relevant authority may require the marketing authorisation or licence holder to furnish an auditor’s certificate containing such evidence. If within one month of the date by which such certificate is required to be furnished, or such longer period as the relevant authority may allow, the marketing authorisation or licence holder has failed to furnish such certificate the sum payable by way of fees for the period in question shall be calculated as provided for in paragraph 5 of Part II of this Schedule or shall be such lesser sum as the relevant authority shall specify in a notice served on the marketing authorisation or licence holder.
+
+**6.** Where the holder of a marketing authorisation or product licence (in this paragraph referred to as “the new authorisation or licence holder”) was not dealing in authorised or licensed products during the previous calendar year, but has taken over an existing business or concern which was dealing in such products, whether by purchase or merger or otherwise, the gross value of sales made by that existing business or concern of such authorised or licensed products during the previous calendar year may be treated as the gross value of sales of such products for that year of the new authorisation or licence holder for the purpose of calculating the first annual fee payable by that person.
+
+### PART II — Calculation of Annual Fees
+
+**1.** In the case of a company with a turnover of £2,800,000 or over, the fee payable shall be £155 (previously £150) for each marketing authorisation or licence held, plus £16,800, plus 0.40% of annual turnover in excess of £2,800,000.
+
+**2.** In the case of a company with a turnover of less than £2,800,000, the fee payable shall be £205 or 0.60% of annual turnover, whichever is the greater except that a company with no turnover shall be exempt from any annual fee.
+
+**3.** For the purpose of calculating annual turnover the provisions of Part I of this Schedule shall apply.
+
+**4.** The amount payable by way of annual fees in accordance with this Schedule shall, when calculated on the basis of turnover, be rounded up to the nearest £10.
+
+**5.** If a marketing authorisation or licence holder does not submit evidence of turnover in relation to the relevant calendar year to the satisfaction of the relevant authority, the annual fee payable by him for that year shall be the sum of £10,000 together with an additional £2,000 for each description of product in respect of which a marketing authorisation or licence is held by the authorisation or licence holder.
+
+### PART III — Calculation of Annual Fee— Emergency Vaccines
+
+Where the holder of a marketing authorisation or product licence sells or supplies emergency vaccines, the annual fee payable shall be 0.60% of turnover, calculated in accordance with the provisions of Part I of this Schedule rounded up to the nearest £1, except that the minimum sum payable under this provision shall be £10.
+
+## SCHEDULE 4 — MARKETING AUTHORISATIONS AND PRODUCT LICENCES: ADJUSTMENT OR REFUND OF ANNUAL FEES
+
+Regulation 11(1)
+
+**1.** Where an annual fee calculated in accordance with paragraph 5 of Part II of Schedule 3 has been paid in accordance with regulation 11 of these Regulations and the relevant authority is subsequently satisfied as to the gross value of sales, the difference between the amount so paid and the annual fee calculated in accordance with paragraphs 1 to 4 of the said Part II (if less) may be refunded by the relevant authority.
+
+**2.** Any sums payable to an applicant by way of refund of any fees under the provisions of this Schedule may be treated as having been paid on account of any other fee which the applicant is liable to pay (whether by instalments or otherwise) under the provisions of these Regulations.
+
+## SCHEDULE 5 — MARKETING AUTHORISATIONS, PRODUCT LICENCES AND ANIMAL TEST CERTIFICATES: FEES FOR REFERENCES TO THE VETERINARY PRODUCTS COMMITTEE OR TO THE MEDICINES COMMISSION
+
+Regulation 14
+
+**1.** The fee payable under regulation 14 for a reference to the Veterinary Products Committee or to the Medicines Commission in connection with an application for a marketing authorisation or licence of the kind described in column (1) of Table A shall be that specified in the corresponding entry in column (3) of that Table.
+
+Table A
+
+<table>
+<thead>
+<tr><th><em>Column (1)</em></th><th><em>Column (2)</em></th><th><em>Column (3)</em></th></tr>
+<tr><th><em>Kind of application</em></th><th><em>Previous fee</em></th><th><em>New fee</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Major application</td><td>£1,300</td><td>£1,340</td></tr>
+<tr><td>Complex application</td><td>£750</td><td>£775</td></tr>
+<tr><td>Standard application</td><td>£350</td><td>£360</td></tr>
+<tr><td>Simple application</td><td>£125</td><td>£130</td></tr>
+</tbody>
+</table>
+
+**2.** The fee payable under regulation 14 for a reference to the Veterinary Products Committee or to the Medicines Commission in connection with an animal test certificate shall be £465 (previously £450).
+
+## SCHEDULE 6 — WAIVER, REDUCTION OR REFUND OF FEES
+
+Regulation 19
+
+**1.** Where the manufacture, assembly, sale or supply of products of a particular class or description will be, or is likely to be, interrupted for a period, and in consequence thereof the health of animals will be, or is likely to be, put at risk, the relevant authority may decide that any fees otherwise payable under these Regulations—
+
+- (a) in connection with an application for the grant, variation or renewal of a marketing authorisation or product licence relating to a product falling within that class or description; or
+- (b) in respect of any inspection made during the currency of such a marketing authorisation or licence,
+
+shall be waived during that particular period or, if the period will, or is likely to, exceed 3 months, during the first 3 months of that period.
+
+**2.** The relevant authority may waive or reduce the payment of any fee payable under these Regulations in circumstances where—
+
+- (a) in its opinion the interests of human or animal health require a marketing authorisation, licence or certificate to be granted or an inspection to be made; and
+- (b) the product in respect of which an application for a marketing authorisation, licence or certificate has been made—
+  - (i) it is not intended for sale; or
+  - (ii) is intended only for use in the treatment of rare conditions or in the treatment of a minor species of animal or as an emergency vaccine.
+
+**3.** (1) Subject to sub-paragraphs (2) to (5) below, where the relevant authority—
+
+- (a) is satisfied that the annual turnover (as calculated in accordance with Schedule 3) of a product during any calendar year of the first five years of the currency of the marketing authorisation or product licence, has not exceeded, or is unlikely to exceed, £40,000; and
+- (b) is of the opinion that the interests of human or animal health require a marketing authorisation or product licence to be granted,
+
+any fee otherwise payable under these Regulations in connection with an application for a marketing authorisation, product licence or an inspection during the currency of that authorisation or licence, may be reduced or, if such a fee has already been paid, be refunded in part in proportion to the difference between the maximum turnover of the product in any calendar year (during any of the first five years of the currency of the authorisation or licence) and the sum of £40,000.
+
+(2) Before a marketing authorisation or licence holder pays any reduced fee or receives any refund pursuant to sub-paragraph (1) above he shall furnish evidence to the satisfaction of the relevant authority of the amount of annual turnover, in respect of the particular product, in each calendar year of the first five years of the currency of the authorisation or licence.
+
+(3) Where a reduced fee is determined in accordance with sub-paragraph (1) above at the time of the application on the basis of the estimated likely maximum turnover of the product during the first five years of the currency of the authorisation or licence, any fee so determined shall be regarded as a provisional payment on account.
+
+(4) Where a provisional payment on account is made in accordance with sub-paragraph (3) above and subsequently the turnover in any calendar year in the first five years of the currency of the marketing authorisation or licence exceeds £40,000, the authorisation or licence holder shall be liable to pay the balance of the full fee otherwise payable under these Regulations within 28 days of notification by the relevant authority.
+
+(5) Where any provisional payment on account is made in accordance with sub-paragraph (3) above, the reduced fee shall be recalculated in accordance with the provisions of sub-paragraph (1) above at the end of five years from the date of the grant of the marketing authorisation or licence and any difference between the fee so calculated and the provisional payment on account shall be payable by the applicant or, as the case may be, refunded to the applicant by the relevant authority within 28 days of a request for such a refund.
+
+**4.** (1) Subject to sub-paragraph (2) below, where an application for a marketing authorisation or product licence is withdrawn before determination by the relevant authority, the following percentage of the fee otherwise payable (under regulation 3) in connection with that application shall be refunded or, if it has not yet been paid, shall be waived—
+
+- (a) if the application has been received but no veterinary, scientific or pharmaceutical assessment thereof has begun, 90%;
+- (b) except in a case to which sub-paragraph (c) below applies, veterinary, scientific or pharmaceutical assessment has begun but not been completed, 50%;
+- (c) if a request for further information in connection with the application has been made by the licensing authority under section 44(1) of the Act, 25%.
+
+- In the case of sub-paragraph (b) above, where an application has been withdrawn because it is deficient and a 50% refund of the fee has been made by the relevant authority any subsequent reapplication in respect of the same authorisation or licence by the same applicant shall be charged at 50% of the fee otherwise payable under regulation 3.
+
+(2) If an application for a marketing authorisation or product licence is withdrawn either after scientific or veterinary pharmaceutical assessment has been completed or following consideration of that application by a committee established under section 4 of the Act or by the Medicines Commission, no refund or waiver of the fee payable (under regulation 3 of these Regulations) in connection with that application shall be made under this paragraph.
+
+(This note is not part of the Regulations)
+
+These Regulations, which replace the Medicines (Fees Relating to Medicinal Products for Animal Use) Regulations 1994 (S.I. [1994/1554](https://www.legislation.gov.uk/uksi/1994/1554)), prescribe fees in connection with applications and inspections relating to:
+
+- (a) marketing authorisations granted under the Marketing Authorisations for Veterinary Medicinal Products Regulations 1994 (S.I. [1994/3142](https://www.legislation.gov.uk/uksi/1994/3142)); and
+- (b) licences and certificates granted under the Medicines Act 1968 insofar as they apply to medicinal products for animal use.
+
+Where fees are increased, the previous fees are specified in the Regulations. Where no previous fees are specified in the Regulations, then the fees remain the same as those prescribed by the Medicines (Fees Relating to Medicinal Products for Animal Use) Regulations 1994, except in the case of fees for applications for assistance in connection with mutual recognition applications (regulation 4 and Part III of Schedule 1) which are prescribed for the first time.
+
+A Compliance Cost Assessment has been prepared and a copy has been placed in the library of each House of Parliament and copies can be obtained from the Veterinary Medicines Directorate, Woodham Lane, Addlestone, Surrey, KT15 3NB.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 69](https://www.legislation.gov.uk/ukpga/1971/69) as amended by section 21 of the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49); by the virtue of section 1(3) of the 1971 Act expressions in that section have the same meaning as in the Medicines Act [1968 (c. 67)](https://www.legislation.gov.uk/ukpga/1968/67) as amended by the Transfer of Functions (Wales) Order 1969 (S.I. [1969/388](https://www.legislation.gov.uk/uksi/1969/388)). The expression “the Ministers” is defined in section 1(1) of the 1968 Act as so amended.
+
+[^f00002]: Footnote: In the case of the Secretaries of State concerned with health in England and in Wales by virtue of article 2(2) of, and Schedule 1 to, the Transfer of Functions (Wales) Order 1969; in the case of the Secretary of State concerned with agriculture in Wales by virtue of article 2(3) of, and Schedule 1 to, the Transfer of Functions (Wales) (No.1) Order 1978(S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272)); in the case of the Northern Ireland Departments by virture of section 40 of, and Schedule 5 to, the Northern Ireland Constitution Act [1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36) and section 1(3) of, and paragraph 2(1)(b) of Schedule 1 to, the Northern Ireland Act [1974 (c. 28)](https://www.legislation.gov.uk/ukpga/1974/28).
+
+[^f00003]: Footnote: *See* section 129(6) of the Medicines Act 1968 as extended to include Regulations made under the Medicines Act 1971 by section 1(3)(b) of that latter Act.
+
+[^f00004]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00005]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00006]: Footnote: OJ No. L317, 6.11.81. p.1.
+
+[^f00007]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^f00008]: Footnote: OJ No. L317, 6.11.81, p.1.
+
+[^f00009]: Footnote: OJ No. L373, 31.12.90, p.15.
+
+[^f00010]: Footnote: OJ No. L214, 24.8.93, p.31.
+
+[^f00011]: Footnote: OJ No. L373, 31.12.90, p.26.
+
+[^f00012]: Footnote: OJ No. L297, 13.10.92, p.12.
+
+[^f00013]: Footnote: OJ No. L214, 24.8.93, p.1.
+
+[^f00014]: Footnote: Section 130(3A) was inserted by section 13(2) of the Animal Health and Welfare Act [1984(c. 40)](https://www.legislation.gov.uk/ukpga/1984/40).
+
+[^f00015]: Footnote: S.I. [1994/1554](https://www.legislation.gov.uk/uksi/1994/1554).
+
+[^f00016]: Footnote: OJ L 55, 11.3.95. p.7.
+
+[^f00017]: Footnote: S.I. [1994/3142](https://www.legislation.gov.uk/uksi/1994/3142).
+
+[^f00018]: Footnote: S.I. [1994/1554](https://www.legislation.gov.uk/uksi/1994/1554).
+
+[^f00019]: Footnote: OJ No. L55, 11.3.95, p.7.
+
+[^f00020]: Footnote: S.I. [1971/1450](https://www.legislation.gov.uk/uksi/1971/1450); the relevant amending instrument is S.I. [1972/1200](https://www.legislation.gov.uk/uksi/1972/1200).

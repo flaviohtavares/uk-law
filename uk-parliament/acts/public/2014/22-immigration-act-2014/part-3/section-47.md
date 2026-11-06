@@ -1,0 +1,70 @@
+---
+title: Immigration Act 2014, section 47
+act: Immigration Act 2014
+section: '47'
+status: revised-with-pending-changes
+text_date: '2026-02-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/22/section/47
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Immigration Act 2014, section 47
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-02-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 47. Revocation of driving licences on grounds of immigration status[^key-982bece63b2d3726cd5fdef4d0bd4df1]
+
+*Extent: E+W+S+N.I.*
+
+(1) In section 99 of the Road Traffic Act 1988 (duration of licences)—
+
+- (a) after subsection (3) insert—
+
+  > (3ZA) Where it appears to the Secretary of State that a licence holder is not lawfully resident in the United Kingdom, the Secretary of State may serve notice in writing on that person revoking the licence and requiring the person to surrender the licence and its counterpart forthwith to the Secretary of State, and it is the duty of that person to comply with the requirement.
+  >
+  > (3ZB) For the purposes of subsection (3ZA) a person is not lawfully resident in the United Kingdom if the person requires leave to enter or remain in the United Kingdom but does not have it.
+
+  ;
+- (b) in subsection (5), after “(3)” insert “ , (3ZA) ”;
+- (c) in subsection (7ZZA)—
+  - (i) after “(3)” insert “ , (3ZA) ”;
+  - (ii) after “subsections and” insert “ , except in the case of a licence and counterpart surrendered in pursuance of subsection (3ZA), ”.
+
+(2) In section 100 of that Act (appeals)—
+
+- (a) in subsection (1)(c), after “99(3)” insert “ , (3ZA) ”;
+- (b) at the end insert—
+
+  > (4) In any proceedings under this section about the revocation of a licence in pursuance of section 99(3ZA) (revocation on grounds of immigration status), the court or sheriff is not entitled to entertain any question as to whether—
+  >
+  > - (a) the appellant should be, or should have been, granted leave to enter or remain in the United Kingdom, or
+  > - (b) the appellant has, after the date that the Secretary of State served notice under section 99(3ZA), been granted leave to enter or remain in the United Kingdom.
+
+(3) In Article 15 of the Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1)) (duration of licences)—
+
+- (a) after paragraph (5) insert—
+
+  > (5ZA) Where it appears to the Department that a licence holder is not lawfully resident in the United Kingdom, the Department may serve notice in writing on that person revoking the licence and requiring the person to surrender the licence and its counterpart forthwith to the Department, and it is the duty of that person to comply with the requirement.
+  >
+  > (5ZB) For the purposes of paragraph (5ZA) a person is not lawfully resident in the United Kingdom if the person requires leave to enter or remain in the United Kingdom but does not have it.
+
+  ;
+- (b) in paragraph (7), after “(5)” insert “ , (5ZA) ”.
+
+(4) In Article 16 of that Order (appeals)—
+
+- (a) in paragraph (1)(c), after “15(5)” insert “ , (5ZA) ”;
+- (b) at the end insert—
+
+  > (4) In any proceedings under this Article about the revocation of a licence in pursuance of Article 15(5ZA) (revocation on grounds of immigration status), the court is not entitled to entertain any question as to whether—
+  >
+  > - (a) the appellant should be, or should have been, granted leave to enter or remain in the United Kingdom, or
+  > - (b) the appellant has, after the date that the Department served notice under Article 15(5ZA), been granted leave to enter or remain in the United Kingdom.
+
+## Annotations
+
+[^key-982bece63b2d3726cd5fdef4d0bd4df1]: Commencement: S. 47 in force at 14.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/e)

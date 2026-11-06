@@ -1,0 +1,138 @@
+---
+title: The Individual Savings Account (Amendment No. 2) Regulations 2005
+id: uksi/2005/2561
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-09-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2561
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2561/pdfs/uksiem_20052561_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2561/pdfs/uksi_20052561_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2561/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Individual Savings Account (Amendment No. 2) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 2561
+
+INCOME TAX
+
+The Individual Savings Account (Amendment No. 2) Regulations 2005
+
+Made
+
+14th September 2005
+
+Laid before the House of Commons
+
+15th September 2005
+
+Coming into force
+
+6th October 2005
+
+The Treasury, in exercise of the powers conferred upon them by sections 694(1), (3) and (5), 695(1) to (3), 696 and 701(1) of the Income Tax (Trading and Other Income) Act 2005[^f00001], and section 151 of the Taxation of Chargeable Gains Act 1992[^f00002], make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Individual Savings Account (Amendment No. 2) Regulations 2005 and shall come into force on 6th October 2005.
+
+## 2. Amendment of the Individual Savings Account Regulations 1998
+
+The Individual Savings Account Regulations 1998[^f00003] are amended as follows.
+
+**3.** In regulation 2(1)(a) for the definition of “the Board” substitute—
+
+> - “the Board” means the Commissioners for Her Majesty’s Revenue and Customs;
+
+.
+
+**4.** In regulation 4[^f00004]—
+
+- (a) in paragraph (2)—
+  - (i) for “2005-06 and £5,000 for subsequent years” substitute “2009-10”;
+  - (ii) for “the years 1999-00 to 2005-06, and £1,000 in subsequent years,” substitute “each year”;
+- (b) in both paragraphs (2A) and (2B), for “2005-06, and £1,000 in subsequent years” substitute “2009-10”;
+- (c) in paragraph (3)(a) for “2005-06 and £1,000 for subsequent years” substitute “2009-10”.
+
+**5.** In regulation 7[^f00005]—
+
+- (a) in paragraph (2)(a) for the words from “, issued” to the end substitute—
+
+  > - (i) issued by a company wherever incorporated,
+  > - (ii) subject to paragraph (3), officially listed on a recognised stock exchange, and
+  > - (iii) in circumstances where the shares in question satisfy the condition specified in paragraph (15), or were held under the component on 6th October 2005;
+
+  ;
+- (b) for paragraph (2)(b)(ii) substitute—
+
+  > - (ii) where the securities in question satisfy—
+  >   - (a) at least one of the conditions specified in paragraph (5),
+  >   - (b) the condition specified in paragraph (6), and
+  >   - (c) the condition specified in paragraph (15), or the condition that they were held under the component on 6th October 2005, and
+
+  ;
+- (c) in paragraph (14) after “sub-paragraphs” insert “(a), (b),”.
+
+**6.** In regulation 8(2)(g)[^f00006]—
+
+- (a) after “sub-paragraphs” insert “(a), (b),”;
+- (b) after “units” insert “, securities”.
+
+**7.** In regulation 31[^f00007]—
+
+- (a) in paragraph (4)(a) after paragraph (ii) insert—
+
+  > - (iia) government securities falling within regulation 7(2)(c), (ca) or (cb);
+
+  ;
+- (b) in paragraph (4)(b) omit paragraph (ii);
+- (c) in paragraph (7)(b) at the end insert—
+
+  > - (iii) invested in policies (within the meaning in regulation 9(1)) under stocks and shares components; and
+  > - (iv) invested in policies (within that meaning) under cash components.
+
+Joan Ryan
+
+Vernon Coaker
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+14th September 2005
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Individual Savings Account Regulations 1998 (S.I. [1998/1870](https://www.legislation.gov.uk/uksi/1998/1870): “the main Regulations”). The principal effects are (1) to extend the annual subscription limits to 5th April 2010 (2) to apply the “cash like test” in regulation 7(15) to shares and securities and (3) to make small changes to the annual information returns required from account managers.
+
+Regulation 1 provides for citation and commencement and regulation 2 for amendment of the main Regulations. Regulation 4 extends the annual subscription limits to 5th April 2010.
+
+Regulation 5 applies the “cash like test” to shares and securities (if they fail that test, regulation 6 provides that they may be held under a cash component).
+
+Regulation 7 makes changes to the annual information return (the main change is that subscriptions invested in insurance policies have to be returned separately).
+
+These Regulations impose no new costs (exceeding the minimum threshold) on business.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
+
+[^f00002]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12); section 151 was amended by section 85 of the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34), by section 64(2) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and by paragraph 436 of Schedule 1 to the Income Tax (Trading and Other Income) Act 2005.
+
+[^f00003]: Footnote: S.I. [1998/1870](https://www.legislation.gov.uk/uksi/1998/1870); relevantly amended by S.I. [2000/809](https://www.legislation.gov.uk/uksi/2000/809), [2001/908](https://www.legislation.gov.uk/uksi/2001/908), [2003/2747](https://www.legislation.gov.uk/uksi/2003/2747) and [2004/2996](https://www.legislation.gov.uk/uksi/2004/2996).
+
+[^f00004]: Footnote: Regulation 4(2) and (3) were amended by S.I. [2000/809](https://www.legislation.gov.uk/uksi/2000/809), [2001/908](https://www.legislation.gov.uk/uksi/2001/908) and [2004/2996](https://www.legislation.gov.uk/uksi/2004/2996), and regulation 4(2A) and (2B) were inserted by S.I. [2001/908](https://www.legislation.gov.uk/uksi/2001/908).
+
+[^f00005]: Footnote: Regulation 7(14) was inserted by [2003/2747](https://www.legislation.gov.uk/uksi/2003/2747).
+
+[^f00006]: Footnote: Regulation 8(2)(g) was inserted by S.I. [2003/2747](https://www.legislation.gov.uk/uksi/2003/2747).
+
+[^f00007]: Footnote: Regulation 31 was relevantly amended by S.I. [2004/2996](https://www.legislation.gov.uk/uksi/2004/2996).

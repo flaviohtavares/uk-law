@@ -1,0 +1,501 @@
+---
+title: The Family Procedure (Amendment No. 4) Rules 2014
+id: uksi/2014/3296
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-12-15'
+text_date: '2024-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/3296
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/3296/pdfs/uksiem_20143296_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3296/pdfs/uksi_20143296_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3296/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Family Procedure (Amendment No. 4) Rules 2014
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 3296 (L. 34)
+
+Family Proceedings
+
+Senior Courts Of England And Wales
+
+Family Court, England And Wales
+
+The Family Procedure (Amendment No. 4) Rules 2014
+
+Made
+
+15th December 2014
+
+Laid before Parliament
+
+18th December 2014
+
+Coming into force in accordance with rule 1
+
+The Family Procedure Rule Committee makes the following rules in exercise of the powers conferred by sections 75 and 76 of the Courts Act 2003[^f00001], after consulting in accordance with section 79 of that Act.
+
+## 1. Citation, interpretation and commencement[^key-0e293a972e395361795266b0f2324f5f]
+
+(1) These Rules may be cited as the Family Procedure (Amendment No. 4) Rules 2014.
+
+(2) This rule and rules 2, 3(a), 9, 12, 13, 14 and 15(1) and (2) come into force on 11th January 2015.
+
+(3) The remainder of these Rules come into force on 6th April 2015.
+
+## 2. Amendments to the Family Procedure Rules 2010[^key-8d2b3cf5b7bbcebc9aab6ed80906eba9]
+
+The Family Procedure Rules 2010[^f00002] are amended in accordance with rules 3 to 14.
+
+**3.**[^key-74c8d4f03d230000e51b6e79131b4fb5][^key-77067b7d91f40768fd221a05fe82dee6] In rule 2.3—
+
+- (a)[^key-74c8d4f03d230000e51b6e79131b4fb5] in paragraph (1)—
+  - (i) after the definition of “hearsay”, insert—
+
+    > - “incoming protection measure” means a protection measure that has been ordered in a Member State of the European Union other than the United Kingdom or Denmark;
+
+    ; and
+  - (ii) after the definition of “protected party”, insert—
+
+    > - “protection measure” has the meaning given to it in the Protection Measures Regulation;
+    > - “Protection Measures Regulation” means the Regulation (EU) No 606/2013 of the European Parliament and of the Council of 12th June 2013 on mutual recognition of protection measures in civil matters[^f00003];
+
+    ; and
+- (b) in paragraph (2)—
+  - (i) in sub-paragraph (a)—
+    - (aa) in paragraph (i), after the semi-colon, insert “or”; and
+    - (bb) omit paragraph (ii); and
+  - (ii) in sub-paragraph (c), omit the words after “cause”.
+
+**4.**[^key-28b65919cdd677e9df700597c3256648] In rule 3.4(1)(a), after “about” insert “, and consider using,”.
+
+**5.**[^key-725c31f3055e6e5dd4211116052e9050] In rule 7.8(2), after “respondent” insert “or co-respondent”.
+
+**6.**[^key-377be06ac19fe1449c647121e764de92] For rule 7.13, substitute—
+
+> **7.13. Supplemental application and amendment of application and answer**
+>
+> (1) In this rule—
+>
+> - (a) paragraphs (2)(a) and (b) and (3) set out when a supplemental application may or may not be made or an application may or may not be amended before an answer has been filed and before an application has been made under rule 7.19(1);
+> - (b) paragraphs (2)(c) and (3) set out when an answer may or may not be amended before an application has been made under rule 7.19(1);
+> - (c) paragraph (5) sets out when a supplemental application may be made or an application may be amended after an answer has been filed or after an application has been made under rule 7.19(1); and
+> - (d) paragraph (6) sets out when an answer may be amended after an application has been made under rule 7.19(1).
+>
+> (2) Unless paragraph (3) applies—
+>
+> - (a) a party making an application for a matrimonial or civil partnership order may amend the application at any time before an answer to it has been filed;
+> - (b) a party making an application for a matrimonial or civil partnership order may make a supplemental application at any time before an answer has been filed;
+> - (c) a party who has filed an answer may amend the answer.
+>
+> (3) No supplemental application may be made and no amendment to an application for a matrimonial or civil partnership order or to an answer may be made under paragraph (2) if an application under rule 7.19(1) has been made in relation to the marriage or civil partnership concerned.
+>
+> (4) Where an amendment is made or a supplemental application is made under paragraph (2)—
+>
+> - (a) if the document amended is the application or if a supplemental application is made—
+>   - (i) it must be served in accordance with rule 7.8; and
+>   - (ii) rule 7.12 applies;
+> - (b) rule 7.10 applies; and
+> - (c) any person who becomes a co-respondent to the proceedings in accordance with rule 7.10 as a consequence of such an amendment or supplemental application must be served with the documents required to be served on a co-respondent with an application for a matrimonial or civil partnership order.
+>
+> (5) Where an answer has been filed, or an application has been made under rule 7.19(1), an amendment may not be made to an application and a supplemental application may not be made except—
+>
+> - (a) with the written consent of all the other parties; or
+> - (b) with the permission of the court.
+>
+> (6) Where an answer has been filed and an application has been made under rule 7.19(1), an amendment may not be made to the answer except—
+>
+> - (a) with the written consent of all the other parties; or
+> - (b) with the permission of the court.
+>
+> (7) Where paragraph (5) or (6) applies, the court may give directions as to—
+>
+> - (a) the service of the amended application, the amended answer or the supplemental application, as the case may be, and the service of any accompanying documents;
+> - (b) the joining of any additional parties in accordance with rule 7.10; and
+> - (c) the extent to which rule 7.12 must be complied with in respect of any amended application or any supplemental application.
+>
+> (8) The court may direct that any person cease to be a party if, in consequence of any amendment made or supplemental application made under this rule, that person—
+>
+> - (a) no longer falls within rule 7.10(2) or (4); or
+> - (b) falls within rule 7.10(4), but it is no longer desirable for that person to be a party to the proceedings.
+>
+> (Practice Direction 7A contains information regarding amending applications, making supplemental applications and making second (or further) applications.)
+
+.
+
+**7.**[^key-2737bc1dd0d3e9b492213867ce1556fe] In the heading to rule 8.25, omit “to be made”.
+
+**8.**[^key-18c342a3baedc1cb815f572371d5342d] In rule 8.26(a), omit “by a judge, but not a district judge”.
+
+**9.**[^key-d0865a945e7ccc4963c7884992a403be] In rule 10.11(1)—
+
+- (a) in paragraph (a), after “order;” omit “or”;
+- (b) in paragraph (b), after “Act” for “.” substitute “; or”; and
+- (c) after paragraph (b), insert—
+
+  > - (c) a warrant of arrest issued on an application for enforcement of an incoming protection measure.
+  >
+  >   (The Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014[^f00004] make provision in relation to the powers of the family court and the High Court to enforce incoming protection measures under the Protection Measures Regulation.)
+
+  .
+
+**10.**[^key-009d3745205b2b7926e1123fd9c96d55] In Chapter 5 of Part 12, after rule 12.42, insert—
+
+> **12.42A. Application for a writ of habeas corpus for release in relation to a minor**
+>
+> (1) Part 87 of the CPR applies in respect of an application for a writ of habeas corpus for release in relation to a minor—
+>
+> - (a) as if—
+>   - (i) for rule 87.2(1)(a) of the CPR there were substituted—
+>
+>     > - (a) an application notice; and
+>
+>     ; and
+>   - (ii) for rule 87.2(4) of the CPR there were substituted—
+>
+>     > (4) The application notice must be filed in the Family Division of the High Court.
+>
+>     ; and
+> - (b) subject to any additional necessary modifications.
+>
+> (2) Rules 12.5 to 12.8, 12.12 to 12.16, 12.21 and 12.39 do not apply to an application to which this rule applies.
+>
+> (The term “application notice” is defined in rule 2.3(1).)
+
+.
+
+**11.**[^key-a056e81a06ba455f6d55a88faed7b6e4] In rule 30.3(2)—
+
+- (a) in sub-paragraph (a), omit “or”;
+- (b) in sub-paragraph (b), for “.” substitute “; or”; and
+- (c) after sub-paragraph (b), insert—
+
+  > - (c) a refusal to grant habeas corpus for release in relation to a minor.
+
+  .
+
+**12.**[^M_F_54f7a8c6-6cfc-4292-a051-8d1f93339eec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^M_F_1fc21b6e-cd81-4d04-ef1c-bea1b6945645] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-243a2e88f5ace6895c5947fcae7c0097] After Part 37, insert—
+
+> **PART 38 — RECOGNITION AND ENFORCEMENT OF PROTECTION MEASURES**
+>
+> **CHAPTER 1 — SCOPE AND INTERPRETATION OF THIS PART**
+>
+> **38.1. Scope and interpretation**
+>
+> (1) This Part contains rules about the mutual recognition and enforcement of protection measures between England and Wales and Member States of the European Union other than the United Kingdom and Denmark.
+>
+> (2) In this Part—
+>
+> - “Article 5 certificate” means a certificate issued under Article 5 of the Protection Measures Regulation;
+> - “Article 8 notice” means the notification required by Article 8 of the Protection Measures Regulation;
+> - “Article 11 notice” means the notification required by Article 11 of the Protection Measures Regulation;
+> - “Article 14 certificate” means a certificate issued under Article 14 of the Protection Measures Regulation;
+> - “outgoing protection measure” means any protection measure included in any of—
+>   - (a) a non-molestation order made under section 42 of the 1996 Act[^f00005];
+>   - (b) an occupation order made under any of sections 33, 35, 36, 37 or 38 of the 1996 Act[^f00006];
+>   - (c) an undertaking accepted by the court under section 46 of the 1996 Act[^f00007];
+>   - (d) an order that has been varied under section 49 of the 1996 Act[^f00008];
+>   - (e) a forced marriage protection order made under section 63A of the 1996 Act[^f00009];
+>   - (f) an undertaking accepted by the court under section 63E of the 1996 Act[^f00010];
+>   - (g) an order that has been varied under section 63G of the 1996 Act[^f00011];
+>   - (h) any other order of the family court or the High Court in family proceedings; or
+>   - (i) any other undertaking accepted by the family court or the High Court in family proceedings;
+> - “person causing the risk” has the meaning given to it in the Protection Measures Regulation; and
+> - “protected person” has the meaning given to it in the Protection Measures Regulation.
+>
+> **CHAPTER 2 — CERTIFICATES FOR OUTGOING PROTECTION MEASURES**
+>
+> **38.2. Application for an Article 5 certificate**
+>
+> (1) A protected person may apply for an Article 5 certificate—
+>
+> - (a) at the time of application for an order containing an outgoing protection measure; or
+> - (b) at any time after such application, provided either—
+>   - (i) the order or the undertaking containing the outgoing protection measure has not yet been made or accepted, as the case may be; or
+>   - (ii) the outgoing protection measure is still in force.
+>
+> (2) An application for an Article 5 certificate may be made without notice.
+>
+> **38.3. The court to which an application for an Article 5 certificate must be made**
+>
+> An application for an Article 5 certificate must be made—
+>
+> - (a) where the outgoing protection measure has not yet been ordered or accepted—
+>   - (i) to the family court if the proceedings relating to the outgoing protection measure are before the family court;
+>   - (ii) to the High Court if the proceedings relating to the outgoing protection measure are before the High Court;
+> - (b) where the outgoing protection measure has been ordered or accepted—
+>   - (i) to the family court if that court made the order or accepted the undertaking as the case may be, unless there are proceedings relating to that order or undertaking before the High Court, in which case the application must be made to the High Court;
+>   - (ii) to the High Court if that court made the order or accepted the undertaking as the case may be, unless there are proceedings relating to that order or undertaking before the family court, in which case the application must be made to the family court.
+>
+> **38.4. When a request for a translation of an Article 5 certificate may be made**
+>
+> A protected person may request a translation of an Article 5 certificate—
+>
+> - (a) at the time of the application for the Article 5 certificate; or
+> - (b) at any time after such application, provided the Article 5 certificate—
+>   - (i) has not yet been issued; or
+>   - (ii) if issued, is still in force.
+>
+> **38.5. The court to which a request for translation of an Article 5 certificate must be made**
+>
+> A request for a translation of an Article 5 certificate must be made—
+>
+> - (a) if the certificate has not yet been issued, to—
+>   - (i) the family court, if the application for the certificate is before the family court; or
+>   - (ii) the High Court, if the application for the certificate is before the High Court; or
+> - (b) if the certificate has been issued, to—
+>   - (i) the family court, if the family court issued it;
+>   - (ii) the High Court, if the High Court issued it.
+>
+> **38.6. Service requirements under Article 6**
+>
+> (1) Where the outgoing protection measure is included in an order, the court may only issue an Article 5 certificate if satisfied that the order has been served upon the person causing the risk in accordance with the requirements specified in rule 37.5, unless the court has dispensed with service of the order in accordance with the requirements specified in rule 37.8.
+>
+> (2) Where the protected person is responsible for serving the order on the person causing the risk, any application for an Article 5 certificate must be accompanied by a certificate of service.
+>
+> **38.7. Notification of the certificate under Article 8**
+>
+> (1) Subject to paragraph (2), the court officer must give Article 8 notice to the person causing the risk by serving it in accordance with Chapter 3 of Part 6 and the rules in that Chapter shall apply to service of the notice as they apply to any other document served by a court officer.
+>
+> (2) If the person causing the risk resides in a Member State of the European Union other than the United Kingdom or in a country outside the European Union, the court officer must give Article 8 notice by sending it by registered letter with acknowledgement of receipt or confirmation of delivery or equivalent to the last known place of residence of that person.
+>
+> **38.8. Rectification of an Article 5 certificate**
+>
+> (1) An application pursuant to Article 9 of the Protection Measures Regulation for rectification of an Article 5 certificate must be made to—
+>
+> - (a) the family court if the family court issued the certificate;
+> - (b) the High Court if the High Court issued the certificate.
+>
+> (2) An application for such rectification may be made by—
+>
+> - (a) the protected person; or
+> - (b) the person causing the risk.
+>
+> (3) An Article 5 certificate may be rectified pursuant to Article 9(1)(a) of the Protection Measures Regulation by the court—
+>
+> - (a) on application under this rule; or
+> - (b) on its own initiative.
+>
+> **38.9. Withdrawal of an Article 5 certificate**
+>
+> (1) An application pursuant to Article 9 of the Protection Measures Regulation for withdrawal of an Article 5 certificate must be made to—
+>
+> - (a) the family court if the family court issued the certificate; or
+> - (b) the High Court if the High Court issued the certificate.
+>
+> (2) An application for such withdrawal may be made by—
+>
+> - (a) the protected person; or
+> - (b) the person causing the risk.
+>
+> (3) An Article 5 certificate may be withdrawn pursuant to Article 9(1)(b) of the Protection Measures Regulation by the court—
+>
+> - (a) on application under this rule; or
+> - (b) on its own initiative.
+>
+> **38.10. When an application for an Article 14 certificate may be made**
+>
+> A protected person or person causing the risk may apply for an Article 14 certificate—
+>
+> - (a) at the time of application for variation or discharge of the order containing the outgoing protection measure, or for acceptance of a variation or discharge of the undertaking containing the outgoing protection measure, as the case may be;
+> - (b) at any time after the variation or discharge of the order containing the outgoing protection measure has been ordered or the variation or discharge of the undertaking containing the outgoing protection measure has been accepted, as the case may be;
+> - (c) at the time of application under Article 9 of the Protection Measures Regulation for withdrawal of an Article 5 certificate;
+> - (d) at any time after an Article 5 certificate has been withdrawn under Article 9 of the Protection Measures Regulation;
+> - (e) at the time of application for an order staying or suspending enforcement of the order or undertaking containing the outgoing protection measure; or
+> - (f) any time after, the making of an order staying or suspending enforcement of the order or undertaking containing the outgoing protection measure.
+>
+> **38.11. The court to which an application for an Article 14 certificate must be made**
+>
+> An application for an Article 14 certificate must be made—
+>
+> - (a) if the order containing the outgoing protection measure has not yet been varied or discharged or a variation or discharge of the undertaking containing the protection measure has not yet been accepted, as the case may be, to—
+>   - (i) the family court if the application for such variation or discharge is before the family court; or
+>   - (ii) the High Court if the application for such variation or discharge is before the High Court;
+> - (b) if there has been an application under Article 9 of the Protection Measures Regulation for withdrawal of the Article 5 certificate, and that application has not yet been decided, to—
+>   - (i) the family court if the application for such withdrawal is before the family court; or
+>   - (ii) the High Court if the application for such withdrawal is before the High Court;
+> - (c) if the order containing the outgoing protection measure has been varied or discharged or the variation or discharge of the undertaking containing the outgoing protection measure has been accepted, as the case may be, to—
+>   - (i) the family court if the family court ordered or accepted such variation or discharge, as the case may be; or
+>   - (ii) the High Court if the High Court ordered or accepted such variation or discharge, as the case may be;
+> - (d) if an Article 5 certificate has been withdrawn under Article 9, to—
+>   - (i) the family court if the family court ordered such withdrawal; or
+>   - (ii) the High Court if the High Court ordered such withdrawal;
+> - (e) where enforcement of the order has been stayed or suspended, to—
+>   - (i) the family court if the family court made the order for the stay or suspension; or
+>   - (ii) the High Court if the High Court made the order for the stay or suspension.
+>
+> **CHAPTER 3 — INCOMING PROTECTION MEASURES**
+>
+> **38.12. Application for adjustment under Article 11**
+>
+> A protected person may apply to the court under Article 11 of the Protection Measures Regulation to adjust the factual elements of an incoming protection measure.
+>
+> **38.13. Notification of the adjustment under Article 11**
+>
+> (1) Subject to paragraph (2), the court officer must give Article 11 notice to the person causing the risk by serving it in accordance with Chapter 3 of Part 6 and the rules in that Chapter apply to service of the notice as they apply to any other document to be served by a court officer.
+>
+> (2) If the person causing the risk resides in a Member State of the European Union other than the United Kingdom or in a country outside the European Union, the court officer must give Article 11 notice by sending it by registered letter with acknowledgment of receipt or other confirmation of delivery or equivalent to the last known place of residence of that person.
+>
+> **38.14. Application for refusal of recognition or enforcement under Article 13**
+>
+> An application by a person causing the risk for refusal of recognition or enforcement under Article 13 of the Protection Measures Regulation must be made to—
+>
+> - (a) the family court if—
+>   - (i) there are proceedings relating to the same protection measure before the family court; or
+>   - (ii) proceedings relating to the same protection measure were dealt with by the family court;
+> - (b) the High Court if—
+>   - (i) there are proceedings relating to the same protection measure before the High Court; or
+>   - (ii) proceedings relating to the same protection measure were dealt with by the High Court; or
+> - (c) the family court, unless, applying rule 5.4, the application should be made to the High Court.
+>
+> **38.15. Application under Article 14(2)**
+>
+> (1) This rule applies where an Article 14 certificate has been issued in a Member State of the European Union other than the United Kingdom or Denmark.
+>
+> (2) A protected person or person causing the risk may apply to the court to stay, suspend or withdraw the effects of recognition or, where applicable, the enforcement of the protection measure.
+>
+> (3) An application under this rule must include a copy of the Article 14 certificate issued in the other Member State.
+>
+> (4) On an application under this rule, the court must make such orders or give such directions as may be necessary to give effect to the Article 14 certificate.
+
+.
+
+## 15. Transitional and saving provision[^key-3924ba331d0b003ee00a89473ced149b][^key-9d07f01669e0e1591af740877009daea]
+
+(1)[^key-3924ba331d0b003ee00a89473ced149b] Subject to paragraphs (2) and (3), the Family Procedure Rules 2010 as amended by these Rules shall apply to any proceedings which were commenced but not disposed of before these Rules came into force.
+
+(2)[^key-3924ba331d0b003ee00a89473ced149b] The court may in any such proceedings give any directions for the purpose of ensuring that the proceedings are dealt with fairly and, in particular, may—
+
+- (a) apply any provision in rules of court which applied to the proceedings before these Rules came into force; or
+- (b) disapply provisions of the Family Procedure Rules 2010 as amended by these Rules.
+
+(3)[^key-9d07f01669e0e1591af740877009daea] The amendment made to rule 2.3(2) of the Family Procedure Rules 2010 by rule 3(b) of these Rules shall not apply in relation to any petition presented to the court under section 19(1) of the Matrimonial Causes Act 1973[^f00012] before 1st October 2014.
+
+Marie Brock
+
+Richard Burton
+
+Paul Carr
+
+Jane Harris
+
+Christopher Darbyshire
+
+Mike Hinchliffe
+
+Hannah Perry
+
+Michael Horton
+
+Ernest Ryder, LJ
+
+I allow these Rules
+
+Simon Hughes
+
+Minister of State
+
+Ministry of Justice
+
+15th December 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules amend the Family Procedure Rules 2010 ([S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955)) (“the FPR”).
+
+Rule 3(b) amends the FPR in consequence of the repeal, by the Presumption of Death Act [2013 (c.13)](https://www.legislation.gov.uk/ukpga/2013/13), of section 19 of the Matrimonial Causes Act [1973 (c.18)](https://www.legislation.gov.uk/ukpga/1973/18) which had made provision for petitions to have it presumed that a party to a marriage is dead and for the marriage to be dissolved.
+
+Rule 4 amends the FPR to give courts power to adjourn proceedings to enable parties to consider using non-court dispute resolution.
+
+Rule 5 makes a minor tidying amendment to the FPR to reflect the fact an application for a matrimonial or civil partnership order may be served on a co-respondent.
+
+Rule 6 substitutes a new rule 7.13 into the FPR to make provision for the filing of supplemental applications for a matrimonial or civil partnership order.
+
+Rule 7 makes a minor amendment so that the heading to rule 8.25 of the FPR aligns with the content of that rule.
+
+Rule 8 amends rule 8.26(a) of the FPR to reflect the fact that provision regarding the allocation of proceedings to a level of judge in the family court is made in the Family Court (Composition and Distribution of Business) Rules 2014 ([S.I. 2014/840](https://www.legislation.gov.uk/uksi/2014/840)), not in the FPR.
+
+Rule 10 inserts a new rule 12.42A FPR to apply, with modifications, Part 87 of the Civil Procedure Rules 1998 ([S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132)) in respect of applications for writs of habeas corpus for release relating to a minor. Rule 11 makes an associated amendment to rule 30 FPR.
+
+Rule 14 inserts a new Part 38 into the FPR to make procedural provision in respect of incoming and outgoing protection measures to which Regulation (EU) No 606/2013 of the European Parliament and of the Council of 12 June 2013 on mutual recognition of protection measures in civil matters applies. Rules 3(a), 9, 12 and 13 make associated and consequential amendments to the FPR.
+
+Transitional and saving provision is made in rule 15.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39). Section 75 was amended by paragraph 338 of Schedule 4 and Part 2 of Schedule 18 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) and by paragraph 91 of Schedule 10 to the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22). Section 76 was amended by section 62(7) of the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31), paragraph 172 of Schedule 27 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 29 of Schedule 1 to the Constitutional Reform Act 2005 and paragraph 92 of Schedule 10 to the Crime and Courts Act 2013.
+
+[^key-0e293a972e395361795266b0f2324f5f]: Commencement: Rule 1 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+
+[^key-8d2b3cf5b7bbcebc9aab6ed80906eba9]: Commencement: Rule 2 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+
+[^f00002]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955); relevant amending instruments are [S.I. 2011/1328](https://www.legislation.gov.uk/uksi/2011/1328), [2012/679](https://www.legislation.gov.uk/uksi/2012/679), [2007](https://www.legislation.gov.uk/uksi/2012/2007), [2046](https://www.legislation.gov.uk/uksi/2012/2046), [2806](https://www.legislation.gov.uk/uksi/2012/2806) and [3006](https://www.legislation.gov.uk/uksi/2012/3006), [2013/530](https://www.legislation.gov.uk/uksi/2013/530), [1472](https://www.legislation.gov.uk/uksi/2013/1472) and [3204](https://www.legislation.gov.uk/uksi/2013/3204) and [2014/667](https://www.legislation.gov.uk/uksi/2014/667) and [843](https://www.legislation.gov.uk/uksi/2014/843).
+
+[^key-74c8d4f03d230000e51b6e79131b4fb5]: Commencement: Rule 3(a) in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+
+[^key-77067b7d91f40768fd221a05fe82dee6]: Commencement: [Rule 3(b)](https://www.legislation.gov.uk/uksi/2014/3296/article/3/b) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+
+[^f00003]: Footnote: OJ L 181 29.6.2013 p4.
+
+[^key-28b65919cdd677e9df700597c3256648]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2014/3296/article/4) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+
+[^key-725c31f3055e6e5dd4211116052e9050]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2014/3296/article/5) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+
+[^key-377be06ac19fe1449c647121e764de92]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2014/3296/article/6) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+
+[^key-2737bc1dd0d3e9b492213867ce1556fe]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2014/3296/article/7) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+
+[^key-18c342a3baedc1cb815f572371d5342d]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2014/3296/article/8) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+
+[^key-d0865a945e7ccc4963c7884992a403be]: Commencement: Rule 9 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+
+[^f00004]: Footnote: [S.I. 2014/3298](https://www.legislation.gov.uk/uksi/2014/3298).
+
+[^key-009d3745205b2b7926e1123fd9c96d55]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2014/3296/article/10) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+
+[^key-a056e81a06ba455f6d55a88faed7b6e4]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2014/3296/article/11) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+
+[^M_F_54f7a8c6-6cfc-4292-a051-8d1f93339eec]: Textual amendment: Rule 12 revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+
+[^M_F_1fc21b6e-cd81-4d04-ef1c-bea1b6945645]: Textual amendment: Rule 13 revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+
+[^key-243a2e88f5ace6895c5947fcae7c0097]: Commencement: Rule 14 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+
+[^f00005]: Footnote: The Family Law Act [1996 (c.27)](https://www.legislation.gov.uk/ukpga/1996/27). Section 42 was amended by paragraph 36 of Schedule 10 to, and by Schedule 11 to, the Domestic Violence, Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28) and by paragraph 9 of Schedule 9 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f00006]: Footnote: Section 33 was amended by paragraph 4 of Schedule 9 to the Civil Partnership Act 2004. Section 35 was amended by paragraph 6 of Schedule 9 to the Civil Partnership Act 2004. Section 36 was amended by paragraph 34 of Schedule 10 to the Domestic Violence, Crime and Victims Act 2004 and by paragraph 7 of Schedule 9 to the Civil Partnership Act 2004. Section 37 was amended by paragraph 8 of Schedule 9 to the Civil Partnership Act 2004 and section 38 was amended by paragraph 35 of Schedule 10 to the Domestic Violence, Crime and Victims Act 2004.
+
+[^f00007]: Footnote: Section 46 was amended by paragraph 37 of Schedule 10 to the Domestic Violence, Crime and Victims Act 2004 and by paragraph 131 of Schedule 11 to the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^f00008]: Footnote: Section 49 was amended by Schedule 11 to the Domestic Violence, Crime and Victims Act 2004 and by paragraph 11 of Schedule 9 to the Civil Partnership Act 2004.
+
+[^f00009]: Footnote: Section 63A was inserted by section 1 of the Forced Marriage (Civil Protection) Act [2007 (c.20)](https://www.legislation.gov.uk/ukpga/2007/20).
+
+[^f00010]: Footnote: Section 63E was inserted by section 1 of the Forced Marriage (Civil Protection) Act 2007 and amended by section 120 of the Anti-social Behaviour, Crime and Policing Act [2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12).
+
+[^f00011]: Footnote: Section 63G was inserted by section 1 of the Forced Marriage (Civil Protection) Act 2007 and amended by section 120 of the Anti-social Behaviour, Crime and Policing Act [2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12).
+
+[^key-3924ba331d0b003ee00a89473ced149b]: Commencement: Rule 15(1)(2) in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+
+[^key-9d07f01669e0e1591af740877009daea]: Commencement: [Rule 15(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/15/3) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+
+[^f00012]: Footnote: [1973 c.18](https://www.legislation.gov.uk/ukpga/1973/18). Section 19 was amended by Schedule 6 to the Domicile and Matrimonial Proceedings Act [1973 (c.45)](https://www.legislation.gov.uk/ukpga/1973/45) and by paragraph 7 of Schedule 8 to the Family Law Act 1996, and was repealed by paragraph 1 of Schedule 2 to the Presumption of Death Act [2013 (c.13)](https://www.legislation.gov.uk/ukpga/2013/13).

@@ -1,0 +1,67 @@
+---
+title: Finance Act 2012, section 124B
+act: Finance Act 2012
+section: 124B
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/14/section/124B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2012, section 124B
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 124B. Excess carried forward post-1 April 2017 losses: relief against total profits[^key-3e3526d44d07b749f63a30bd44bf7d55][^key-d3b34e668367727b2fbce9715d68b014][^key-512731f079ea9218ec86774feb779ace]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) an amount of an insurance company's BLAGAB trade loss for an accounting period is carried forward to an accounting period of the company (“the later period”) under section 124A(2) or 124C(3), and
+- (b) any of that amount (“the unrelieved amount”) is not deducted under section 124A(5) or 124C(6) (as the case may be) from the company's BLAGAB trade profit (if any) of the later period.
+
+(2) The company may make a claim for relief to be given for the unrelieved amount under this section.
+
+(3) If the company makes a claim, the relief is given by deducting the unrelieved amount, or any part of it specified in the claim, from the company's total profits of the later period.
+
+(4) But (if the company is a Solvency 2 insurance company)—
+
+- (a) the company may not make a claim under this section if the unrelieved amount is wholly a shock loss, and
+- (b) the company may not make a claim specifying a part of the unrelieved amount if that part is (to any extent) a shock loss.
+
+(5) For the purposes of subsection (4) assume that in any use by the company of the BLAGAB trade loss for relief under—
+
+- (a) section 37 of CTA 2010 (as applied by section 123),
+- (b) Part 5 of CTA 2010 (as applied by section 125), or
+- (c) section 124A(5) or 124C(6),
+
+any part of it that is a shock loss is used before any part of it that is not a shock loss.
+
+(6) A claim under this section must be made—
+
+- (a) within the period of two years after the end of the later period, or
+- (b) within such further period as an officer of Revenue and Customs may allow.
+
+(7) Relief under this section is subject to restriction or modification in accordance with section 137(7) of CTA 2010 and other applicable provisions of the Corporation Tax Acts.
+
+(8) In this section—
+
+- “**Solvency 2 insurance company**” means an insurance undertaking, a reinsurance undertaking or a third-country insurance undertaking;
+- “**insurance undertaking**” has the meaning given in Article 13(1) of the Solvency 2 Directive;
+- “**reinsurance undertaking**” has the meaning given in Article 13(4) of the Solvency 2 Directive;
+- “**Solvency 2 Directive**” means Directive [2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138) of the European Parliament and the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II);
+- “**shock loss**” has the meaning given by section 269ZK of CTA 2010;
+- “**third-country insurance undertaking**” means an undertaking that has received authorisation under Article 162 of the Solvency 2 Directive from the Prudential Regulation Authority or the Financial Conduct Authority.
+
+## Annotations
+
+[^key-3e3526d44d07b749f63a30bd44bf7d55]: Modification: Ss. 124A-124E: power to amend conferred by 2010 c. 4, s. 269ZQ (as inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16))
+
+[^key-d3b34e668367727b2fbce9715d68b014]: Textual amendment: Ss. 124A-124E inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/26)
+
+[^key-512731f079ea9218ec86774feb779ace]: Modification: S. 124B restricted by 2010 c. 4, s. 676BC (as inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/76))

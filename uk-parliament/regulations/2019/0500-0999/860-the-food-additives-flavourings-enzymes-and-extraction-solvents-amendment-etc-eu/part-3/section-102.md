@@ -1,0 +1,30 @@
+---
+title: The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019, section 102
+act: The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019
+section: '102'
+status: revised
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/860/section/102
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019, section 102
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 102.[^key-c45dabda4f1671987f5085f256f7afaf]
+
+*Extent: E+W+S+N.I.*
+
+In Article 24(3)—
+
+- (a) after “measures” insert “ prescribed by the appropriate authority ”;
+- (b) omit “in accordance with the regulatory procedure with scrutiny referred to in Article 28(4)”.
+
+## Annotations
+
+[^key-c45dabda4f1671987f5085f256f7afaf]: Commencement: Reg. 102 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

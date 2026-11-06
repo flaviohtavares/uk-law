@@ -1,0 +1,60 @@
+---
+title: Equality Act 2010, section 57
+act: Equality Act 2010
+section: '57'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2010/15/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Equality Act 2010, section 57
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 57. Trade organisations
+
+*Extent: E+W+S*
+
+(1) A trade organisation (A) must not discriminate against a person (B)—
+
+- (a) in the arrangements A makes for deciding to whom to offer membership of the organisation;
+- (b) as to the terms on which it is prepared to admit B as a member;
+- (c) by not accepting B's application for membership.
+
+(2) A trade organisation (A) must not discriminate against a member (B)—
+
+- (a) in the way it affords B access, or by not affording B access, to opportunities for receiving a benefit, facility or service;
+- (b) by depriving B of membership;
+- (c) by varying the terms on which B is a member;
+- (d) by subjecting B to any other detriment.
+
+(3) A trade organisation must not, in relation to membership of it, harass—
+
+- (a) a member, or
+- (b) an applicant for membership.
+
+(4) A trade organisation (A) must not victimise a person (B)—
+
+- (a) in the arrangements A makes for deciding to whom to offer membership of the organisation;
+- (b) as to the terms on which it is prepared to admit B as a member;
+- (c) by not accepting B's application for membership.
+
+(5) A trade organisation (A) must not victimise a member (B)—
+
+- (a) in the way it affords B access, or by not affording B access, to opportunities for receiving a benefit, facility or service;
+- (b) by depriving B of membership;
+- (c) by varying the terms on which B is a member;
+- (d) by subjecting B to any other detriment.
+
+(6) A duty to make reasonable adjustments applies to a trade organisation.
+
+(7) A trade organisation is—
+
+- (a) an organisation of workers,
+- (b) an organisation of employers, or
+- (c) any other organisation whose members carry on a particular trade or profession for the purposes of which the organisation exists.

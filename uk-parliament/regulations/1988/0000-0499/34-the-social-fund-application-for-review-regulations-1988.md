@@ -1,0 +1,111 @@
+---
+title: The Social Fund (Application for Review) Regulations 1988
+id: uksi/1988/34
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1988-01-14'
+text_date: '2014-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1988/34
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/34/pdfs/uksi_19880034_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/34/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Fund (Application for Review) Regulations 1988
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2014-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/1988/34
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1988 No. 34
+
+SOCIAL SECURITY
+
+The Social Fund (Application for Review) Regulations 1988
+
+Made
+
+14th January 1988
+
+Laid before Parliament
+
+18th January 1988
+
+Coming into force
+
+11th April 1988
+
+The Secretary of State for Social Services, in exercise of the powers conferred upon him by sections 34(1), 34(3) and 84(1) of the Social Security Act 1986 [^c2181019], by this instrument, which is made before the end of a period of 12 months from the commencement of the enactments under which it is made, makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Fund (Application for Review) Regulations 1988 and shall come into force on 11th April 1988.
+
+(2) Any reference in regulation 2 of these Regulations to a numbered paragraph is a reference to the paragraph in that regulation bearing that number.
+
+## 2. Manner of making application for review or further review and time limits
+
+(1) Any application for—
+
+- (a) a review of any determination made by an appropriate officer[^M_F_be31cbbe-bcae-4a83-9342-37ecf15ce9fd];
+- (b) a further review by a social fund inspector of a determination of an appropriate officer[^M_F_750281ba-8e87-48fc-b8bc-de6bd40ccda9] which has been reviewed,
+
+shall be in writing and shall be made within the time specified in paragraph (2) by sending or delivering it—[^key-99a1e66ea16544c765b12ca5a5a409c7]
+
+- (i) in a case to which (a) applies, to an office of the Department for Work and Pensions; and
+- (ii) in a case to which (b) applies—
+  - (aa) for the period up to 2nd April 2007 to the office of the Independent Review Service or to an office of the Department for Work and Pensions, and
+  - (bb) on and after 2nd April 2007 to the office of the Independent Review Service only.
+
+(2) The time specified for the purposes of paragraph (1) is—
+
+- (a) in the case of an application to which paragraph (1)(a) applies, 28 days from the date on which the determination to which that application relates was issued;
+- (b) in the case of an application to which paragraph (1)(b) applies, 28 days from the date on which the determination on review was issued.
+
+(3) The time specified in paragraph (2) may be extended for special reasons, even though the time so specified may already have expired, by the appropriate officer[^M_F_126a2858-d477-4dfe-d476-24c781f17d36] or, as the case may be, the social fund inspector.
+
+(4) The application for review or, as the case may be, further review shall contain particulars of the specific grounds on which it is made and shall be signed by the person making the application.
+
+(5) Where it appears to the appropriate officer[^M_F_90282c60-630a-4e92-8d2d-2a0802eff42e] or, as the case may be, the social fund inspector that a person has submitted an application which is incomplete in that it contains insufficient particulars to enable any material question to be determined, he may request that person to furnish within a specified time such further particulars as may be reasonably required to complete the application; and if the person does so the application shall be treated as having been made within the time specified in paragraph (2) or, as the case may be, extended under paragraph (3).
+
+(6)[^M_F_3e1bfb12-ed8a-44a0-9c6c-e779b4f1e164] Where an application is to be made on behalf of a person to whom the determination relates, that person shall signify in writing his consent to the application being made on his behalf unless the person making the application is a person appointed by the Secretary of State under regulation 33(1) of the Social Security (Claims and Payments) Regulations 1987 to act on behalf of the person to whom the determination relates.
+
+(7) For the purposes of paragraph (2) the date on which a determination or a determination on review is issued is the date on which notice of that determination was given or sent to the applicant for review or further review and, if sent by post to the applicant's last known or notified address, that notice shall be treated for the purposes of this regulation as having been sent on the day that it was posted.
+
+Signed by authority of the Secretary of State for Social Services.
+
+Michael Portillo
+
+Parliamentary Under-Secretary of State,
+
+Department of Health and Social Security
+
+*(This note is not part of the Regulations)*
+
+These Regulations specify the form, manner and time in which an application for review of any determination of a social fund officer is to be made to a social fund officer and the form, manner and time in which an application for a further review of any determination which has been reviewed by a social fund officer is to be made to a social fund inspector.
+
+These Regulations are made under provisions of the Social Security Act 1986 which have not yet been in force for twelve months; they are, accordingly, exempt by section 61(5) of the Social Security Act 1986 from reference to the Social Security Advisory Committee and have not been so referred.
+
+## Annotations
+
+[^c2181019]: Marginal citation: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50); [section 84(1)](https://www.legislation.gov.uk/uksi/1988/34/section/84/1) is cited because of the meaning ascribed to the words “prescribed” and “regulations”.
+
+[^M_F_be31cbbe-bcae-4a83-9342-37ecf15ce9fd]: Textual amendment: Words in reg. 2(1)(a) substituted (29.11.1999) by S.I. 1999/3178, Sch. 8
+
+[^M_F_750281ba-8e87-48fc-b8bc-de6bd40ccda9]: Textual amendment: Words in reg. 2(1)(b) substituted (29.11.1999) by S.I. 1999/3178, Sch. 8
+
+[^key-99a1e66ea16544c765b12ca5a5a409c7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1988/34/regulation/2/1) substituted (24.4.2006) by [Social Fund (Application for Review) (Amendment) Regulations 2006 (S.I. 2006/961)](https://www.legislation.gov.uk/uksi/2006/961), [regs. 1](https://www.legislation.gov.uk/uksi/2006/961/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/961/regulation/2/2)
+
+[^M_F_126a2858-d477-4dfe-d476-24c781f17d36]: Textual amendment: Words in reg. 2(3) substituted (29.11.1999) by S.I. 1999/3178, Sch. 8
+
+[^M_F_90282c60-630a-4e92-8d2d-2a0802eff42e]: Textual amendment: Words in reg. 2(5) substituted (29.11.1999) by S.I. 1999/3178, Sch. 8
+
+[^M_F_3e1bfb12-ed8a-44a0-9c6c-e779b4f1e164]: Textual amendment: Reg. 2(6) substituted (9.4.1990) by S.I. 1990/580, reg. 2

@@ -1,0 +1,681 @@
+---
+title: The National Health Service (Primary Ophthalmic Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013
+id: uksi/2013/365
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-02-15'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/365
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/365/pdfs/uksiem_20130365_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/365/pdfs/uksi_20130365_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/365/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Primary Ophthalmic Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 365
+
+National Health Service, England
+
+The National Health Service (Primary Ophthalmic Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013
+
+Made
+
+15th February 2013
+
+Laid before Parliament
+
+25th February 2013
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 115(3) and (9), 116(2) and (3), 118(1), 119, 121, 122, 185, 186 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
+
+## PART 1 — General
+
+### 1. Citation, commencement and interpretation[^key-d1f54d7a1229c907c8026a85c11bbb64]
+
+(1) These regulations may be cited as the National Health Service (Primary Ophthalmic Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 and come into force on 1st April 2013, except for regulation 23(2)(d) and (e) which comes into force on 29th April 2013.
+
+(2) In these Regulations—
+
+- (a) “the 2006 Act” means the National Health Service Act 2006;
+- (b) “the 2012 Act” means the Health and Social Care Act 2012[^f00002];
+- (c) “the appointed day” means 1st April 2013;
+- (d)[^key-f097401c98ab6f69c1d10474d1da05ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) “the GOS Regulations” mean the General Ophthalmic Services Contracts Regulations 2008[^f00004]; [^key-eb49a71f10bdb6fcac368aa255235fc3]...
+- (ea)[^key-bc018870f5ef75172dcc48acf795e392] “**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- (f) “the POS Regulations” mean the Primary Ophthalmic Services Regulations 2008[^f00005].
+
+## PART 2 — Amendments to the GOS Regulations
+
+### 2. Amendments to the GOS Regulations[^key-ac3d3c6d5ea2e53ab01fdc7d916550db]
+
+The GOS Regulations are amended in accordance with this Part.
+
+### 3. Consequential amendments to the GOS Regulations[^key-33ab9a67c94dd01ce306f0342b073f0b]
+
+Schedule 1 (which contains amendments consequential on the establishment and abolition by the 2012 Act of various bodies and on other changes made by that Act) has effect.
+
+### 4. Miscellaneous amendments to the GOS Regulations[^key-0a3fb41faf6f18c42a15242e83f56680]
+
+(1) In regulation 2 (interpretation)—
+
+- (a) for the definition of “Charges Regulations”, substitute ““Charges Regulations” means regulations made under section 179 or 180 of the Act;”; and
+- (b) in the definition of “mandatory services”, after “a person who falls within regulation 3(1)” insert “of the POS Regulations”.
+
+(2) In regulation 13 (testing of sight) omit paragraph (4).
+
+(3) In Schedule 1 (other contractual terms), omit paragraphs 22 (complaints procedure), 23 (making of complaints), 24 (period for making complaints) and 25 (further requirements for complaints procedures).
+
+(4) In Schedule 3 (applications for a contract), for paragraph 3, substitute “The sex and date of birth of the applicant and, except in relation to a person falling within paragraph 2(c)(ii), their private address.”
+
+## PART 3 — Transitional provisions in respect of GOS contracts
+
+### 5. Application and interpretation of this Part[^key-52a3b79fe2988815fb314611fa2faecb]
+
+(1) This Part applies to a GOS contract which was entered into before the appointed day and the parties to the contract on or after the appointed day are the Contractor and NHS England[^key-6174190cea444167c726f62e77f2924e] as a consequence of a property transfer scheme made under section 300 of the 2012 Act.
+
+(2) In this Part—
+
+- “Contractor” means a party to a GOS contract other than—
+  - (a) in relation to a period before the appointed day, a Primary Care Trust; or
+  - (b) in relation to a period on or after the appointed day, NHS England;
+- “GOS contract” means a contract entered into in accordance with section 117 of the 2006 Act;
+- “Primary Care Trust” means a Primary Care Trust which was established and which subsisted immediately before the coming into force of section 34 (abolition of Primary Care Trusts) of the 2012 Act; and
+- “Strategic Health Authority” means a Strategic Health Authority which was established and which subsisted immediately before the coming into force of section 33 (abolition of Strategic Health Authorities) of the 2012 Act.
+
+### 6. General transitional provisions in relation to the terms of a GOS contract[^key-a84d4889e2f66eba370ce42fc14d2f19]
+
+(1) The Contractor and NHS England must, as soon as is reasonably practicable on or after the appointed day, enter into discussions with each other with a view to agreeing variations to the GOS contract in order to ensure that the GOS contract complies with the GOS Regulations on or after the appointed day.
+
+(2) Where the terms of a GOS contract have not been varied so as to include the terms which have the same effect as those terms specified in these Regulations, the GOS contract is deemed to have been so varied only to the extent that the terms are to have the same effect as those terms specified in these Regulations that have effect on or after the appointed day.
+
+(3) The Contractor and NHS England may not agree any variation to the GOS contract that is contrary to the GOS Regulations on or after the appointed day.
+
+### 7. Continuing validity of forms[^key-10ef12b74f3e4d2654b70030a53c4a92]
+
+A form supplied by a Primary Care Trust continues to be a valid form in relation to NHS England until it is cancelled or withdrawn by NHS England.
+
+### 8. Notification of reasons by a Primary Care Trust in respect of entering into contracts[^key-67145201307e9e1ced9b3b96d6f5afaa]
+
+Where a Primary Care Trust has given notification to a person under regulation 5 (reasons) of the GOS Regulations before the appointed day, the notification and the written views contained in that notification shall be treated, on or after that day, as notification by NHS England and the written views of NHS England.
+
+### 9. Appeals relating to eligibility to enter into a contract[^key-23642f68a67e333c5b28eb5bda0d6a87]
+
+(1) A person who has been served notice pursuant to regulation 5 of the GOS Regulations before the appointed day may, on or after that day, appeal to the First-tier Tribunal against the decision of the Primary Care Trust and that appeal must be treated as an appeal against a decision of NHS England .
+
+(2) Where a Primary Care Trust has given notice to a person pursuant to regulation 5 of the GOS Regulations, NHS England, if it considers that the person should be disqualified from entering into a contract may on or after the appointed day, apply for a contract disqualification order in relation to that person, pursuant to regulation 6(2) of the GOS Regulations.
+
+### 10. Finance[^key-07ed97ddaf50a42d9eec42c4df2f5e50]
+
+Any right that a Primary Care Trust had to set off an amount against any amount payable to the Contractor under the term that gives effect to regulation 15 (finance) of the GOS Regulations immediately before the appointed day, must be treated as a right of NHS England under the term that gives effect to that regulation on or after the appointed day.
+
+### 11. Claim by the Contractor for fees[^key-bf588dd3119df604a82ddd9faf4a9228]
+
+Where a Contractor provided mandatory services or additional services before the appointed day but made no claim to a Primary Care Trust in respect of fees for such services, a claim may be made to NHS England on or after that day, provided it is made within the period allowed by regulation 16(5) of the GOS Regulations.
+
+### 12. Requests for information[^key-3ad997accb4aa44680eafd92cb88f266]
+
+Where a Primary Care Trust has made a request for information, or access to information, under the terms of a GOS contract having the same effect as paragraph 14 of Schedule 1 to the GOS Regulations, the request is to be deemed as made by NHS England .
+
+### 13. Notifications and notice provisions[^key-3c77df9583e76a78ca409b11c26102ee]
+
+Where under Part 4 of Schedule 1 to the GOS Regulations, or under paragraph 6 of Schedule 2 to the GOS Regulations, notice has been given by the Contractor to the Primary Care Trust, or notice has been given by the Primary Care Trust to the Contractor, that notice is to be deemed as given by the Contractor to NHS England, or given by NHS England to the Contractor, as the case may be.
+
+### 14. Authorisation[^key-f4ac2f3580af4d6dff3051fe3e295ab3]
+
+Where a Primary Care Trust has authorised a person in writing for the purposes of—
+
+- (a) paragraph 14 (provision of and access to information) of Schedule 1 to the GOS Regulations;
+- (b) paragraph 19 (entry and inspection) of Schedule 1 to the GOS Regulations; or
+- (c) paragraph 5 (facilities and equipment) of Schedule 2 to the GOS Regulations,
+
+that authorisation is to be deemed as given by NHS England .
+
+### 15. Leaflets[^key-f3bf9de6544bd5ab8b66373679d5eb01]
+
+(1) This regulation applies where a Contractor has compiled a patient information leaflet which complies with the requirements of paragraph 3 (provision of information) of Schedule 2 to the GOS Regulations immediately before the appointed day.
+
+(2) Notwithstanding the requirements in paragraph 3 of Schedule 2 to the GOS Regulations as in force on or after the appointed day, the Contractor must review its patient information leaflet and make any amendments necessary so as to include the information specified in Schedule 4 (patient information leaflet) to the GOS Regulations not later than 1st July 2013.
+
+### 16. Complaints[^key-f58575f898609d69d78b59b20a2ab79c]
+
+(1) This regulation applies where an investigation of a complaint under the procedure referred to in Part 4A or Part 5 of Schedule 1 to the GOS Regulations is not completed before the appointed day.
+
+(2) Where a complaint of the kind referred to in paragraph (1) fell to be dealt with under Part 4A, the Contractor must continue to deal with the complaint in accordance with the Local Authority Social Services and National Health Service Complaints (England) Regulations 2009[^f00006] as if any reference to a Primary Care Trust in a document or form relating to the complaint were a reference to NHS England.
+
+(3) Where a complaint of the kind referred to in paragraph (1) fell to be dealt with under Part 5, the Contractor must deal with the complaint, as far as it is able, in accordance with the complaints procedure which the Contractor operated under that Part and may, if it is unable to comply with that procedure as a consequence of the length of time it has taken to deal with the complaint, vary the procedure only to the extent that is necessary in order to dispose of the matter in a just manner.
+
+### 17. Co-operation with investigations[^key-e73e115b1af66d70478fc1681bc94654]
+
+The Contractor must continue to co-operate with an investigation of a complaint which is ongoing immediately before the appointed day in accordance with terms of the GOS contract that give effect to paragraph 26 of Schedule 1 to the GOS Regulations as in force on or after the appointed day as if any act or omission by, or reference to, a Primary Care Trust or Strategic Health Authority were an act or omission by, or reference to, NHS England.
+
+### 18. Disputes[^key-7d61b01fb6c3a7489dd6aece1c970f89]
+
+(1) Any dispute arising out of or in connection with a GOS contract in respect of a Contractor and a Primary Care Trust that is ongoing immediately before the appointed day is deemed to be a dispute in respect of that Contractor and NHS England.
+
+(2) The terms of the GOS contract which have the same effect as the provisions in Part 6 of Schedule 1 to the GOS Regulations as in force immediately before the appointed day continue to apply to the dispute as if the references to—
+
+- (a) “Primary Care Trust” were to NHS England, and
+- (b) “the parties” mean the Contractor and NHS England.
+
+### 19. Variation and termination of GOS contracts[^key-d6625bb3fbad5a1973cef0ea9d61c20e]
+
+(1) This regulation applies where a Primary Care Trust or a Contractor has taken any steps in accordance with or in connection with a matter referred to in any of the provisions in Part 7 of Schedule 1 to the GOS Regulations before the appointed day and, had it not been for the coming into force of section 34 (abolition of Primary Care Trusts) of the 2012 Act, that matter would continue to fall to the Primary Care Trust to be dealt with in accordance with Part 7.
+
+(2) Any action taken or omission by a Primary Care Trust in accordance with or in connection with any of the provisions in Part 7 of Schedule 1 to the GOS Regulations is to be deemed to be action taken or omitted by NHS England for the purposes of the continuity of the application of those provisions that have effect on or after the appointed day.
+
+(3) Where an agreement has been reached between a Contractor and a Primary Care Trust in accordance with or in connection with the provisions in Part 7 of Schedule 1 to the GOS Regulations before the appointed day, that agreement is to be deemed as an agreement made by that Contractor and NHS England .
+
+(4) Where, under Part 7 of Schedule 1 to the GOS Regulations, notice has been given by the Contractor to the Primary Care Trust or notice has been given by the Primary Care Trust to the Contractor, that notice is to be deemed to have been given by the Contractor to NHS England, or as the case may be, notice given by NHS England to the Contractor.
+
+(5) Notwithstanding anything in this regulation, NHS England may, if it thinks it necessary or desirable in order to dispose of a matter justly, review a decision or action taken that it is deemed to have made or taken as a consequence of this regulation.
+
+### 20. Supplementary transitional provisions[^key-67d643af88ea15c9bcdef375fb11908e]
+
+(1) Subject to the preceding regulations in this Part, any act or omission by, or in relation to, a Primary Care Trust before the appointed day in respect of—
+
+- (a) the exercise of any functions of the Primary Care Trust under Part 6 of the 2006 Act; or
+- (b) any rights or liabilities of the Primary Care Trust transferred as a consequence of a property transfer scheme made under section 300 of the 2012 Act,
+
+in relation to a GOS contract, is deemed to have been an act or omission of, or in relation to, NHS England.
+
+(2) Anything which, when these Regulations take effect, is in the process of being done by, or in relation to, a Primary Care Trust in respect of, or in connection with—
+
+- (a) the exercise by the Primary Care Trust of any of its functions under Part 6 of the 2006 Act; or
+- (b) any rights or liabilities of the Primary Care Trust transferred as a consequence of a property transfer scheme made under section 300 of the 2012 Act,
+
+is deemed to have effect as if done by, or in relation to, and may be continued by, or in relation to, NHS England.
+
+(3) Where it is necessary for the Contractor or NHS England—
+
+- (a) to take account of a period of time; or
+- (b) to calculate a period of time which is required in accordance with the GOS Regulations as in force on or after the appointed day,
+
+any period of time that occurred before the appointed day and which is relevant to the matter under consideration is to be taken into account or used in order to calculate any time period for the purposes of that consideration or applying provisions in those Regulations on or after the appointed day only if that period of time could have been taken into account or used in a calculation of a time period in respect of those mirror provisions as in force immediately before the appointed day.
+
+## PART 4 — Amendments to the POS Regulations
+
+### 21. Amendments to the POS Regulations[^key-0c2cf17321231a571b22a824d823f7d2]
+
+The POS Regulations are amended in accordance with this Part.
+
+### 22. Consequential amendments to the POS Regulations[^key-157b0ccb3d13326ecde95a5344bed9a1]
+
+Schedule 2 (which contains amendments consequential on the establishment and abolition by the 2012 Act of various bodies) has effect.
+
+### 23. Miscellaneous amendments to the POS Regulations[^key-7eb66b04ac191b33c8124ba546d6dc1a][^key-264280d4a5c3c1a2f93049c15ad0f586]
+
+(1)[^key-7eb66b04ac191b33c8124ba546d6dc1a] In regulation 2 (interpretation) for the definition of “Charges Regulations” substitute ““Charges Regulations” means regulations made under section 179 or 180 of the Act;”.
+
+(2) In regulation 3 (sight tests – eligibility)—
+
+- (a)[^key-7eb66b04ac191b33c8124ba546d6dc1a] in sub-paragraph (1)(d) omit the words “, or equal to,”;
+- (b)[^key-7eb66b04ac191b33c8124ba546d6dc1a] in paragraph (2) omit the words “or equal to”;
+- (c)[^key-7eb66b04ac191b33c8124ba546d6dc1a] for sub-paragraph (2)(c) substitute—
+
+  > that person’s income resources as calculated in accordance with Part 4 of, and Schedule 1 to the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003, do not exceed their requirements as so calculated, or exceed their requirements by fifty per cent or less of the amount of the charge specified in regulation 3(1)(b) (supply of drugs and appliances by chemists) of the National Health Service (Charges for Drugs and Appliances) Regulations 2000 and their capital resources as so calculated do not exceed the capital limit;
+
+  ;
+- (d)[^key-264280d4a5c3c1a2f93049c15ad0f586] after paragraph (2)(k) add—
+
+  > (1) during the period beginning on 29th April 2013 and ending on 31st October 2013, he is—
+  >
+  > - (i) the recipient of an award of universal credit either as a single person or as a member of a couple;
+  > - (ii) a child or qualifying young person for whom a recipient referred to in sub-paragraph (i) is responsible (within the meaning of Part 1 of the Welfare Reform Act 2012 and regulations made thereunder); or
+  > - (iii) a member of a couple, the other member of which is the recipient of an award of universal credit as a single person.
+- (e)[^key-264280d4a5c3c1a2f93049c15ad0f586] after paragraph (4)(d) insert—
+
+  > - (e) in sub-paragraph (l)—
+  >   - (i) “couple” has the meaning given in section 39 of the Welfare Reform Act 2012 (couples);
+  >   - (ii) “qualifying young person” has the meaning given in section 10(5) of the Welfare Reform Act 2012 (responsibility for children and young persons);
+  >   - (iii) “single person” is to be construed in accordance with section 1(2)(a) of the Welfare Reform Act 2012 (universal credit)”; and
+  >   - (iv) “universal credit” means universal credit under Part 1 of the Welfare Reform Act 2012.
+
+  [^f00007]
+
+## PART 5 — Transitional provisions in respect of the POS regulations
+
+### 24. Application and interpretation of this Part[^key-aeaa782c4451421c4516ce86a1e572de]
+
+(1) This Part makes transitional provisions in respect of the POS Regulations as a consequence of the coming into force of section 34 (abolition of Primary Care Trusts) of the 2012 Act.
+
+(2) In this Part, “Primary Care Trust” means a Primary Care Trust which was established and which subsisted immediately before the coming into force of section 34 (abolition of Primary Care Trusts) of the 2012 Act.
+
+### 25. Continuing validity of forms[^key-9e24be128071d1925b4882f8a508d3d5]
+
+A form supplied by a Primary Care Trust continues to be a valid form in relation to NHS England until it is cancelled or withdrawn by NHS England.
+
+### 26. Sight tests[^key-64b34352c94af97afc2691a76b019232]
+
+(1) For the purposes of regulation 5 of the POS Regulations (sight test treated as a test under general ophthalmic services) where a person’s sight was tested before the appointed day but no notice of entitlement under regulation 5(3) was presented to the Primary Care Trust before that day, such notice may be presented to NHS England within the period allowed by regulation 5(1)(b).
+
+(2) Where a sight test took place before the appointed day and falls to be treated under regulation 5 as a sight test under general ophthalmic services, NHS England must make the payment under regulation 5(4) if—
+
+- (a) having been presented with evidence of any fee paid for the testing, it is satisfied as to the amount, and
+- (b) no payment has yet been made.
+
+## PART 6 — Miscellaneous amendments
+
+### 27. Amendments to the National Health Service (Charges for Appliances) Regulations 1974[^key-1dbf4879839fad0b8aac1941b8177e3b]
+
+In regulation 2 (interpretation) of the National Health Service (Charges for Appliances) Regulations 1974[^f00008], in the definition of “Authority”, for “in relation to England, a Primary Care Trust;” substitute “in relation to England, NHS England;”.
+
+## PART 7 — REVOCATIONS
+
+### 28. Revocation of the General Ophthalmic Services Amendment Regulations[^key-3679212e7f3b39ab71fd12852a2a55a8]
+
+The following regulations are revoked in so far as they apply in relation to England—
+
+- (a) the National Health Service (General Ophthalmic Services) Amendment Regulations 1996[^f00009];
+- (b) the National Health Service (General Ophthalmic Services) Amendment (No.2) Regulations 1996[^f00010]; and
+- (c) the National Health Service (General Ophthalmic Services) (Amendment) Regulations 1999[^f00011].
+
+Signed by authority of the Secretary of State.
+
+Earl Howe
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+15th February 2013
+
+## SCHEDULE 1 — Consequential Amendments to the GOS Regulations
+
+Regulation 3
+
+### 1. Amendment of regulation 2[^key-f40a98dcb27093ca18defd523afdfd50]
+
+In regulation 2(1) (interpretation)—
+
+- (a) after the definition of “adjudicator”, insert ““ NHS England” means NHS England;”;
+- (b) in the definition of “day centre”, omit the words “in the locality of the PCT”;
+- (c) in the definition of “mobile services”, for “a PCT to provide such services in its area” substitute “ NHS England to provide such services”;
+- (d) omit the definition of “PCT”;
+- (e) omit the definition of “relevant Strategic Health Authority”;
+- (f) in the definition of “residential centre”, omit the words “in the locality of the PCT”.
+
+**2.**[^key-d388afc1795d1e9a1a5ea458695070d4][^key-f40a98dcb27093ca18defd523afdfd50] In regulation 2(2)(c), for “the PCT” substitute “NHS England”.
+
+### 3. Amendment of regulation 3[^key-488cdff16a2d6e5bc06c00f3ebf9b9af]
+
+In regulation 3 (conditions: introductory)—
+
+- (a) for “a PCT” and “that PCT” substitute “NHS England”; and
+- (b) after “regulations made under section 43 of the Health Act 2006 (general ophthalmic services: transitional),” insert “and subject to the provisions of any scheme made by the Secretary of State under section 300 (transfer schemes) of the Health and Social Care Act 2012”.
+
+### 4. Amendment of regulation 4[^key-02d3cb8081d1f9b026a1477f7bc55686]
+
+In regulation 4 (persons eligible to enter into GOS contracts)—
+
+- (a) in paragraph 3(f), (k) and (l), and paragraphs (4) and (6), for “the PCT”, substitute “NHS England”; and
+- (b) insert after paragraph (6)—
+
+  > (7) For the purposes of paragraph (3)(c) a health service body respectively includes a Strategic Health Authority or a Primary Care Trust which was established before the coming into force of section 33 or 34 of the Health and Social Care Act 2012.
+
+  .
+
+### 5. Amendment of regulation 5[^key-c667d8fb687dfa4026430a9b540ba1c0]
+
+In regulation 5 (reasons)—
+
+- (a) in paragraph (1), for “a PCT” substitute “NHS England”; and
+- (b) in paragraph (2) for “The PCT” substitute “NHS England”.
+
+### 6. Amendment of regulation 6[^key-b254279e3747bba510ef8ae087007229]
+
+In regulation 6 (appeals and contract disqualifications)—
+
+- (a) in paragraph (1) for “the PCT” substitute “NHS England”; and
+- (b) in paragraph (2) for “A PCT, which has given notice” substitute “NHS England, where it has given notice”.
+
+### 7. Amendment of regulation 7[^key-4a5ae2e6efb82bc1b8d6d84c228b9565]
+
+In regulation 7(5)(b) (pre-contract disputes), for “the PCT” substitute “NHS England”.
+
+### 8. Amendment of regulation 8[^key-f4441ecd42113efa3cf2ddeee13da31e]
+
+In regulation 8 (health service body status), in paragraphs (1), (4)(a), (5) and (7)(b), for “the PCT”, substitute “NHS England”.
+
+### 9. Amendment of regulation 12[^key-47dfa8df3a0e14bc102c17832cf9b408]
+
+In regulation 12(2) (duration), for “the PCT” substitute “ NHS England”.
+
+### 10. Amendment of regulation 15[^key-f371491bacc5523d3e1da1c92bdb1cc2]
+
+In regulation 15 (finance)—
+
+- (a) in paragraphs (1), (2) and (4), for “the PCT”, in each place, substitute “NHS England”; and
+- (b) in paragraph (3), for “pursuant to directions under section 8 (Secretary of State’s directions: exercise of functions) or 120, a PCT is required to make a payment” substitute “pursuant to directions under sections 120 (GOS contracts: Payments) or 125A (exercise of functions) NHS England is required to make a payment”.
+
+### 11. Amendment of regulation 16[^key-7b7a1036be928bce1e32c9034a6bdfc1]
+
+In regulation 16 (fees, charges and financial interests of the contractor), in paragraphs (5), (6)(b) and (9), for “the PCT”, in each place, substitute “NHS England”.
+
+### 12. Amendment of Schedule 1[^key-ef95234fc017e4b0e14b4232cf189f93]
+
+(1) In paragraph 8 (conditions for employment: ophthalmic practitioners performing ophthalmic services), in sub-paragraph (1)(a), omit the words “and the name and address of the Primary Care Trust on whose ophthalmic performers list his name appears”.
+
+(2) In paragraph 13 (patient information), in sub-paragraphs (a) and (c), for “the PCT”, substitute “NHS England”.
+
+(3) In the heading to paragraph 14 and in paragraph 14(1) and (2)(a) (provision of and access to information: PCT) for “PCT”, in each place, substitute “Board” and in paragraph 14(2)(b) for “the PCT’s functions” substitute “NHS England’s functions”.
+
+(4) The heading to paragraph 16 and paragraph 16 (notification to the PCT) are amended as follows—
+
+- (a) in the heading and in sub-paragraph (2), for “the PCT”, in each place, substitute “ NHS England”;
+- (b) in sub-paragraph (1)—
+  - (i) for “the PCT”, substitute “ NHS England”; and
+  - (ii) in paragraph (1)(b) for “the PCT’s right” substitute “NHS England’s right”; and
+- (c) in sub-paragraph (3)—
+  - (i) for “the PCT” substitute “NHS England”; and
+  - (ii) omit the words “and the name and address of the Primary Care Trust in whose ophthalmic performers list he is included”.
+
+(5) In paragraph 17 (notice provisions specific to a contract with a corporate body), in sub-paragraphs (1) and (3), for “the PCT”, in each place, substitute “NHS England”.
+
+(6) In paragraph 18 (notice provisions specific to a contract with two or more individuals practising in partnership), in sub-paragraphs (1) and (3), for “the PCT”, in each place, substitute “NHS England”.
+
+(7) In the heading to paragraph 19 and in paragraph 19(1) (entry and inspection by the PCT), for “the PCT” substitute “NHS England”.
+
+(8) For paragraph 20 (entering and viewing under the Local Involvement Network (Duty of Services-Providers to Allow Entry) Regulations 2008) and its heading substitute—
+
+> **20. Entry and viewing by Local Healthwatch organisations**
+>
+> The contractor must comply with the requirement to allow an authorised representative to enter and view premises and observe the carrying-on of activities on those premises in accordance with regulations made under section 225 (duties of services-providers to allow entry by Local Healthwatch organisations or contractors) of the Local Government and Public Involvement Health Act 2007.
+
+[^f00012].
+
+(9) In paragraph 26 (co-operation with investigations)—
+
+- (a) in sub-paragraphs (1)(a)(i), and (3), for “the PCT”, in each place, substitute “NHS England”; and
+- (b) in sub-paragraph (2), in the definition of “NHS body”—
+  - (i) for “a Primary Care Trust”, substitute “NHS England”, and
+  - (ii) omit “a Strategic Health Authority,”.
+
+(10) In paragraph 27 (provision of information), for “the PCT”, in each place, substitute “NHS England” and for “in accordance with this Part” substitute “in accordance with Part 4A”.
+
+(11) In paragraph 28 (local resolution of contract disputes), for “the PCT” substitute “NHS England”.
+
+(12) In paragraph 29 (dispute resolution: non-NHS contracts), in sub-paragraph (1)(a) and (b), for “the PCT”, substitute “NHS England”.
+
+(13) In paragraph 33 (variation of a contract: general), in sub-paragraphs (1) and (2), for “the PCT”, substitute “NHS England”.
+
+(14) In paragraph 34 (variation provisions specific to a contract with an individual), in sub-paragraphs (1), (4), (5) and (6), for “the PCT” in each place, substitute “NHS England”.
+
+(15) In paragraph 35 (variation provisions specific to a contract with two or more individuals practising in partnership changing to a contract with an individual), in sub-paragraphs (2), (4)(b), (5), (6) and (7), for “the PCT”, in each place, substitute “NHS England”.
+
+(16) In paragraph 36 (variation provisions specific to a contract with two or more individuals practicing in partnership increasing the number of partners), in sub-paragraphs (1), (2) and (3), for “the PCT”, in each place, substitute “NHS England”.
+
+(17) In paragraph 37 (termination by agreement), for “The PCT” substitute “NHS England”.
+
+(18) In paragraph 38 (termination on the death of an individual contractor), for “the PCT”, in each place, substitute “NHS England”.
+
+(19) In paragraph 39 (termination by the contractor), in sub-paragraph (1), for “the PCT” substitute “NHS England”.
+
+(20) In paragraph 40 (late payment notices), for “the PCT”, in each place, substitute “NHS England”.
+
+(21) In the heading to paragraph 41 and in paragraph 41 (termination by the PCT: general), for “the PCT”, substitute “NHS England”.
+
+(22) In the heading to paragraph 42 and in paragraph 42 (termination by the PCT: contractor’s inability to perform services), in sub-paragraph (1), for “the PCT”, in each place, substitute “NHS England”.
+
+(23) In the heading to paragraph 43 and in paragraph 43 (termination by the PCT for the provision of untrue etc. information), for “the PCT”, in each place, substitute “NHS England”.
+
+(24) The heading to paragraph 44 and paragraph 44 (termination by the PCT on grounds of suitability etc.) are amended as follows—
+
+- (a) in the heading and in sub-paragraphs (1) and (2)(c) and (m) for “the PCT” in each place, substitute “NHS England”;
+- (b) in sub-paragraph (3), (4) and (5)—
+  - (i) for “A PCT”, substitute “NHS England”; and
+  - (ii) for “the PCT”, substitute “NHS England”.
+
+(25) In the heading to paragraph 45 and in paragraph 45 (immediate termination by the PCT), for “the PCT”, in each place, substitute “NHS England”.
+
+(26) The heading to paragraph 46 and paragraph 46 (termination by the PCT: remedial notices and breach notices) are amended as follows—
+
+- (a) in sub-paragraphs (1), (2)(b), (3), and (5) to (8), for “the PCT”, in each place, substitute “NHS England”; and
+- (b) in sub-paragraph (4) for “a PCT” and “the PCT”, in each place, substitute “NHS England”.
+
+(27) In the heading to paragraph 47 and in paragraph 47 (termination by the PCT: additional provisions), in sub-paragraphs (1) to (3) and (4)(b) for “the PCT”, in each place, substitute “NHS England”.
+
+(28) In paragraph 48 (contract sanctions), in sub-paragraphs (2) to (5) for “the PCT”, in each place, substitute “NHS England”.
+
+(29) In paragraph 49 (contract sanctions and the NHS dispute resolution procedure), in sub-paragraphs (1) to (4), for “the PCT”, in each place, substitute “NHS England”.
+
+(30) In paragraph 50 (termination and the NHS dispute resolution procedure), in sub-paragraphs (1) to (3), (4)(a) and (5), for “the PCT, in each place, substitute “NHS England”.
+
+(31) In paragraph 52 (gifts), in sub-paragraph (6) for “the PCT” substitute “NHS England”.
+
+(32) In paragraph 53 (compliance with legislation and guidance), in sub-paragraph (b), for “the PCT, the relevant Strategic Health Authority” substitute “NHS England”.
+
+(33) After paragraph 55 (signing of documents), insert—
+
+> **56. Duty as to education and training**
+>
+> The contractor must co-operate with the Secretary of State in the discharge of the duty under section 1F of the Act (duty as to education and training), or co-operate with Health Education England where Health Education England is discharging that duty by virtue of a direction under section 7.
+
+.
+
+### 13. Amendment of Schedule 2[^key-73067384b337c057631715b58a0191f5]
+
+In Schedule 2 (additional services)—
+
+- (a) in paragraph 5(1) (facilities and equipment) for “the PCT” substitute “the Board”; and
+- (b) in paragraph 6 (notice of provision of additional services), in sub-paragraphs (2)(b), and (3) to (6), for “the PCT” , in each place, substitute “the Board”.
+
+### 14. Amendment of Schedule 3[^key-b5ddd46275330ad31d0707c7d5ddfd1b]
+
+In Schedule 3 (applications for a contract)—
+
+- (a) in paragraph 1, for “the PCT”, in each place, substitute “the Board”;
+- (b) in paragraph 4(c), omit the words “and the name and address of that PCT”;
+- (c) in paragraph 5—
+  - (i) in sub-paragraph (g), for “the PCT” substitute “the Board”;
+  - (ii) for sub-paragraph (m) substitute “was the subject of any investigation by a Primary Care Trust which led to its removal from a primary care list or the termination of any contract with that Primary Care Trust;”; and
+  - (iii) at the end of paragraph 5, omit the words “PCT or equivalent”;
+- (d) in paragraph 8 for “the PCT” substitute “the Board”; and
+- (e) omit paragraph (9).
+
+### 15. Amendment of Schedule 4[^key-aefda0128049a95b4c557919fb70e252]
+
+In Schedule 4 (patient information leaflet) in paragraph 10, for “the relevant PCT” and “that PCT” substitute “the Board”.
+
+## SCHEDULE 2 — Consequential Amendments to the POS Regulations
+
+Regulation 22
+
+### 1. Amendment of regulation 2[^key-fbb25586b82c605b545b6a4b6a3e4269]
+
+In regulation 2 (interpretation)—
+
+- (a) after the definition of “additional services” insert ““NHS England” means NHS England”;
+- (b) in the definition of “contractor” for “a PCT” substitute “NHS England”;
+- (c) in the definition of “day centre”, omit the words “in the locality of the PCT”;
+- (d) omit the definition of “locality”;
+- (e) in the definition of “mobile services”, for “a PCT” substitute “NHS England”, and omit the words “in its area”;
+- (f) omit the definition of “PCT”; and
+- (g) in the definition of “residential centre”, omit the words “in the locality of the PCT”.
+
+### 2. Amendment of regulation 4[^key-5845dc1496a3ef954c3aff3b1ac0b3af]
+
+In regulation 4 (sight tests – applications)—
+
+- (a) in paragraph (2), for “the PCT with whom it has contracted” substitute “NHS England”; and
+- (b) in paragraph (3)(c), for “the PCT”, in each place, substitute “NHS England”.
+
+### 3. Amendment of regulation 5[^key-68337aa8c25923c86e5dec11be8cb62b]
+
+In regulation 5(3) and (4) (sight test treated as a test under general ophthalmic services), for “the PCT”, in each place, substitute “NHS England”.
+
+### 4. Amendment of regulation 8[^key-26687963de20e07c2ed3014792684719]
+
+In regulation 8 (publication of information), for “The PCT” substitute “NHS England”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the General Ophthalmic Services Contracts Regulations 2008 (“the GOS Regulations”), the Primary Ophthalmic Services Regulations 2008 (“the POS Regulations”) and the National Health Service (Charges for Appliances) Regulations 1974.
+
+Part 2 and Schedule 1 make amendments to the GOS Regulations. (The GOS Regulations set out the framework for General Ophthalmic Services Contracts under section 117 of the National Health Service Act 2006 (“the 2006 Act”).)
+
+Part 3 makes transitional provisions in respect of General Ophthalmic Services Contracts.
+
+Part 4 and Schedule 2 make amendments to the POS Regulations. (The POS Regulations make provision for who is entitled to a sight test under the 2006 Act.)
+
+Part 5 makes transitional provisions in respect of the POS Regulations.
+
+Part 6 makes amendments to the National Health Service (Charges for Appliances) Regulations 1974.
+
+Part 7 revokes in relation to England regulations that made amendments to the National Health Service (General Ophthalmic Services) Regulations 1986, which themselves have been revoked in relation to England.
+
+Most of these amendments are as a consequence of the transfer of functions relating to primary ophthalmic services to NHS England from Primary Care Trusts, and the abolition of Strategic Health Authorities and Primary Care Trusts upon the coming into force of sections 33 and 34 of the Health and Social Care Act 2012 (“the 2012 Act”).
+
+In addition, these Regulations make the following amendments—
+
+- regulation 13(4) of the GOS Regulations is omitted, so that where a Contractor or ophthalmic practitioner tests the sight of a patient with diabetes or glaucoma there is no longer a need to notify the patient’s doctor of the test results;
+- paragraph 20 of Schedule 1 to the GOS Regulations is amended as a consequence of the abolition of local involvement networks and the establishment of Local Healthwatch organisations in accordance with section 222(2A) of the National Health Service Act 2006 as amended by section 183(2) of the 2012 Act;
+- paragraph 56 is inserted into Schedule 1 to the GOS Regulations as a consequence of the newly established Special Health Authority known as Health Education England and the duty in section 1F of the 2006 Act;
+- regulation 3 of the POS Regulations is amended to include receipt of universal credit as a ground for eligibility for a sight test during the period April to October 2013.
+
+A full regulatory impact assessment has not been produced for this instrument as no significant impact on the private or voluntary sectors is foreseen. A full impact assessment has been produced in relation to the relevant provisions of the 2012 Act and a copy is available at http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsLegislation/DH\_123583 .
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41)*.* Section 115(9) was amended by paragraph 54 of Schedule 4 to the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”); section 118(1) was amended by paragraph 56 of Schedule 4 to the 2012 Act; section 119(1) was amended by paragraph 57 of Schedule 4 to the 2012 Act and by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22); section 119(2) was amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22); section 121(3) was amended by paragraph 59 of Schedule 4 to the 2012 Act; section 185(2) was amended by paragraph 100 of Schedule 4 to, and paragraphs 1 and 31 of Schedule 14 to, the 2012 Act; section 186(2) was amended by paragraph 100 of Schedule 4 to, and paragraphs 1 and 32 of Schedule 14 to, the 2012 Act. By virtue of section 271(1) of the Act, the powers conferred by these sections are exercisable by the Secretary of State only in relation to England. *See also* section 275(1) for the definition of “prescribed” and “regulations”.
+
+[^key-d1f54d7a1229c907c8026a85c11bbb64]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/365/regulation/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^f00002]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^key-f097401c98ab6f69c1d10474d1da05ea]: Textual amendment: Words in [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/2/d) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [64(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/64/2/a)
+
+[^f00004]: Footnote: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185), amended by [S.I. 2008/1700](https://www.legislation.gov.uk/uksi/2008/1700), [2009/309](https://www.legislation.gov.uk/uksi/2009/309), [2010/22](https://www.legislation.gov.uk/uksi/2010/22) and [2010/634](https://www.legislation.gov.uk/uksi/2010/634).
+
+[^key-eb49a71f10bdb6fcac368aa255235fc3]: Textual amendment: Word in [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/2/e) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [64(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/64/2/b)
+
+[^key-bc018870f5ef75172dcc48acf795e392]: Textual amendment: [Reg. 1(2)(ea)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/2/ea) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [64(2)(c)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/64/2/c)
+
+[^f00005]: Footnote: [S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186), amended by [S.I. 2008/1700](https://www.legislation.gov.uk/uksi/2008/1700), [2008/2449](https://www.legislation.gov.uk/uksi/2008/2449), [2009/409](https://www.legislation.gov.uk/uksi/2009/409) and [2010/634](https://www.legislation.gov.uk/uksi/2010/634).
+
+[^key-ac3d3c6d5ea2e53ab01fdc7d916550db]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/365/regulation/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-33ab9a67c94dd01ce306f0342b073f0b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/365/regulation/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-0a3fb41faf6f18c42a15242e83f56680]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/365/regulation/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-52a3b79fe2988815fb314611fa2faecb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/365/regulation/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-6174190cea444167c726f62e77f2924e]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-a84d4889e2f66eba370ce42fc14d2f19]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/365/regulation/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-10ef12b74f3e4d2654b70030a53c4a92]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/365/regulation/7) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-67145201307e9e1ced9b3b96d6f5afaa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/365/regulation/8) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-23642f68a67e333c5b28eb5bda0d6a87]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/365/regulation/9) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-07ed97ddaf50a42d9eec42c4df2f5e50]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/365/regulation/10) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-bf588dd3119df604a82ddd9faf4a9228]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/365/regulation/11) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-3ad997accb4aa44680eafd92cb88f266]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/365/regulation/12) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-3c77df9583e76a78ca409b11c26102ee]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/365/regulation/13) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-f4ac2f3580af4d6dff3051fe3e295ab3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/365/regulation/14) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-f3bf9de6544bd5ab8b66373679d5eb01]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/365/regulation/15) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-f58575f898609d69d78b59b20a2ab79c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/365/regulation/16) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^f00006]: Footnote: [S.I. 2009/309](https://www.legislation.gov.uk/uksi/2009/309); amending instruments are [S.I. 2009/1768](https://www.legislation.gov.uk/uksi/2009/1768), regulation 104 of, and paragraph 11 of Schedule 8 to [S.I. 2012/1909](https://www.legislation.gov.uk/uksi/2012/1909), and [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
+
+[^key-e73e115b1af66d70478fc1681bc94654]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/365/regulation/17) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-7d61b01fb6c3a7489dd6aece1c970f89]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/365/regulation/18) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-d6625bb3fbad5a1973cef0ea9d61c20e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/365/regulation/19) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-67d643af88ea15c9bcdef375fb11908e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/365/regulation/20) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-0c2cf17321231a571b22a824d823f7d2]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/365/regulation/21) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-157b0ccb3d13326ecde95a5344bed9a1]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/365/regulation/22) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-7eb66b04ac191b33c8124ba546d6dc1a]: Commencement: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/23/1), [(2)(a)-(c)](https://www.legislation.gov.uk/uksi/2013/365/regulation/23/2/a) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-264280d4a5c3c1a2f93049c15ad0f586]: Commencement: [Reg. 23(2)(d)](https://www.legislation.gov.uk/uksi/2013/365/regulation/23/2/d)[(e)](https://www.legislation.gov.uk/uksi/2013/365/regulation/23/2/e) in force at 29.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^f00007]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-aeaa782c4451421c4516ce86a1e572de]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/365/regulation/24) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-9e24be128071d1925b4882f8a508d3d5]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/365/regulation/25) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-64b34352c94af97afc2691a76b019232]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/365/regulation/26) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-1dbf4879839fad0b8aac1941b8177e3b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/365/regulation/27) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^f00008]: Footnote: [S.I. 1974/284](https://www.legislation.gov.uk/uksi/1974/284), amended by [S.I. 1974/609](https://www.legislation.gov.uk/uksi/1974/609), [1986/976](https://www.legislation.gov.uk/uksi/1986/976), [1991/583](https://www.legislation.gov.uk/uksi/1991/583), [2003/1937](https://www.legislation.gov.uk/uksi/2003/1937) and [2004/696](https://www.legislation.gov.uk/uksi/2004/696).
+
+[^key-3679212e7f3b39ab71fd12852a2a55a8]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/365/regulation/28) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 1996/705](https://www.legislation.gov.uk/uksi/1996/705).
+
+[^f00010]: Footnote: [S.I. 1996/2320](https://www.legislation.gov.uk/uksi/1996/2320).
+
+[^f00011]: Footnote: [S.I. 1999/693](https://www.legislation.gov.uk/uksi/1999/693).
+
+[^key-f40a98dcb27093ca18defd523afdfd50]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-d388afc1795d1e9a1a5ea458695070d4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-488cdff16a2d6e5bc06c00f3ebf9b9af]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-02d3cb8081d1f9b026a1477f7bc55686]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-c667d8fb687dfa4026430a9b540ba1c0]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-b254279e3747bba510ef8ae087007229]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-4a5ae2e6efb82bc1b8d6d84c228b9565]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/7) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-f4441ecd42113efa3cf2ddeee13da31e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/8) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-47dfa8df3a0e14bc102c17832cf9b408]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/9) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-f371491bacc5523d3e1da1c92bdb1cc2]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/10) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-7b7a1036be928bce1e32c9034a6bdfc1]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/11) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-ef95234fc017e4b0e14b4232cf189f93]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/12) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^f00012]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). Section 225 is amended by section 186(6) to (10) of, and paragraphs 148 and 151 of Schedule 5 and paragraphs 103 and 106 of Schedule 14 to, the 2012 Act.
+
+[^key-73067384b337c057631715b58a0191f5]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/13) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-b5ddd46275330ad31d0707c7d5ddfd1b]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/14) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-aefda0128049a95b4c557919fb70e252]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/365/schedule/1/paragraph/15) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-fbb25586b82c605b545b6a4b6a3e4269]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/365/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-5845dc1496a3ef954c3aff3b1ac0b3af]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/365/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-68337aa8c25923c86e5dec11be8cb62b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/365/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)
+
+[^key-26687963de20e07c2ed3014792684719]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/365/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/365/regulation/1/1)

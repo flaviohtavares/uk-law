@@ -1,0 +1,467 @@
+---
+title: The National Park Authorities (England) Order 2015
+id: uksi/2015/770
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-16'
+text_date: '2023-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/770
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/770/pdfs/uksiem_20150770_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/770/pdfs/uksi_20150770_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/770/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Park Authorities (England) Order 2015
+
+> Text as at 2023-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 770
+
+Countryside, England
+
+The National Park Authorities (England) Order 2015
+
+Made
+
+16th March 2015
+
+Laid before Parliament
+
+19th March 2015
+
+Coming into force
+
+1st July 2015
+
+The Secretary of State makes this Order in exercise of the powers conferred by sections 241 and 266(2) of the Local Government Act 1972 [^c22454071], section 4A(1) of the Town and Country Planning Act 1990 [^c22454081] and sections 63(1) and (2) and 75(3) to (7) and paragraphs 1(2) and (3) and 2(1) to (3) of Schedule 7 to the Environment Act 1995 [^c22454091].
+
+The Secretary of State has consulted with the council for every principal area the whole or any part of which is comprised in a National Park to which this Order applies, as required by paragraph 2(3) of Schedule 7 to the Environment Act 1995.
+
+## 1. Citation and commencement
+
+This Order may be cited as the National Park Authorities (England) Order 2015 and comes into force on 1st July 2015.
+
+## 2. Interpretation
+
+In this Order—
+
+- “**the 1972 Act**” means the Local Government Act 1972;
+- “**the 1995 Act**” means the Environment Act 1995;
+- “**National Park**” means a National Park mentioned in column 1 of Part 1 of Schedule 1;
+- “**National Park authority**” means a National Park authority for a National Park;
+- “**National Park officer**” means the officer appointed by a National Park authority in accordance with paragraph 14 of Schedule 7 to the 1995 Act [^c22454101];
+- “**relevant principal area**” in relation to a National Park means any county or district the whole or any part of which is within the area of the National Park, excluding any area in respect of which the council for that area is for the time being excluded under paragraph 2(3) of Schedule 7 to the 1995 Act (exclusion at the request of the council) from the councils by whom the local authority members of the National Park authority are to be appointed.
+
+## 3. Continuation of National Park authorities
+
+The National Park authorities established by the National Park Authorities (England) Order 1996 [^c22454111] continue to exist and section 4A of the Town and Country Planning Act 1990 [^c22454121] continues to apply to them.
+
+## 4. Membership of National Park authorities
+
+(1) The National Park authority for each National Park consists of the total number of members specified in relation to that Park in column 2 of Part 1 of Schedule 1, of which—
+
+- (a) the number specified in column 3 is the number of local authority members;
+- (b) the number specified in column 4 is the total number of members appointed by the Secretary of State; and
+- (c) the number specified in column 5 is the number of members appointed by the Secretary of State as parish members.
+
+(2) The number of local authority members appointed to a National Park authority by the council for a relevant principal area is the number specified for that council in relation to that authority in Part 2 of Schedule 1.
+
+(3) Mid Devon District Council is excluded from the councils by whom local authority members of the Dartmoor National Park authority are to be appointed.
+
+## 5. Resignation of office
+
+A member may at any time resign membership of a National Park authority by notice in writing delivered to the National Park officer and that resignation takes effect on receipt of the notice by the National Park officer.
+
+## 6. Vacancies
+
+Where a vacancy arises in the membership of a National Park authority, it must be filled as soon as possible—
+
+- (a) where the vacancy is for a local authority member, by the council in whose representation the vacancy arises; and
+- (b) where the vacancy is for a member appointed by the Secretary of State, by the Secretary of State, after consultation with Natural England where the appointment falls to be made in accordance with paragraph 4 of Schedule 7 to the 1995 Act (members other than parish members appointed by the Secretary of State).
+
+## 7. Notice of appointment, etc.
+
+(1) Subject to paragraph (3), where—
+
+- (a) a member is appointed to a National Park authority; or
+- (b) a vacancy arises in the membership of a National Park authority for any reason other than resignation,
+
+the relevant authority must as soon as practicable give notice in writing to that National Park authority, stating the information specified in paragraph (2).
+
+(2) The information is—
+
+- (a) where paragraph (1)(a) applies, the name of the member and the date of that member's appointment; and
+- (b) where paragraph (1)(b) applies, the occurrence of the vacancy.
+
+(3) If a person's membership of a National Park authority is terminated in accordance with Schedule 7 to the 1995 Act by—
+
+- (a) a council, in accordance with paragraph 2(5)(b) of that Schedule (political balance), or
+- (b) the Secretary of State, in accordance with paragraph 6 of that Schedule (variation of area or number of members etc.),
+
+the council or, as the case may be, the Secretary of State, must immediately give notice in writing to the National Park authority of the name of the member and the date of termination of membership.
+
+(4) As soon as practicable after receiving a notice under article 5 or this article, a National Park authority must give public notice of—
+
+- (a) the appointment, or, as the case may be, the resignation, termination or vacancy; and
+- (b) the name of the person concerned.
+
+(5) In paragraph (1), “**the relevant authority**” means—
+
+- (a) where the member, or the member giving rise to the vacancy, was a local authority member, the council by whom that member was appointed; or
+- (b) where the member, or as the case may be, the member giving rise to the vacancy, was appointed by the Secretary of State, the Secretary of State.
+
+## 8. Meetings and proceedings
+
+Schedule 2 contains provisions about the meetings and proceedings of a National Park authority.
+
+## 9. Reports and returns
+
+A National Park authority must, if so requested by the Secretary of State, immediately send or give to Natural England and the council for every relevant principal area a copy of any report, return or information which that authority is required to send or give to the Secretary of State in accordance with section 230 (reports and returns) of the 1972 Act [^c22454131].
+
+## 10. Accounts etc.
+
+(1) Subject to paragraphs (2) and (3), a National Park authority must—
+
+- (a) keep a fund (known as the general fund) to which all income of the authority must be carried and from which all expenditure discharging liabilities must be met; and
+- (b) keep accounts of income and expenditure of the general fund.
+
+(2) The provisions of paragraph (1) are without prejudice to any provision contained in any enactment or instrument requiring a National Park authority to keep—
+
+- (a) specific funds in respect of specified income and expenditure of the authority; or
+- (b) specific accounts in respect of specified income and expenditure of any funds of the authority.
+
+(3) Nothing in paragraph (1)(a) is to be construed as requiring or authorising a National Park authority to apply or dispose of the surplus revenue arising from any undertaking carried on by it otherwise than in accordance with any enactment or instrument applicable to the undertaking.
+
+## 11. Application of enactments etc.
+
+Schedule 3 applies various enactments to a National Park authority with specified modifications.
+
+## 12. Revocations
+
+The following Orders are revoked—
+
+- (a) the National Park Authorities (England) Order 1996;
+- (b) the National Park Authorities (England) (Amendment) Order 1996 [^c22454141];
+- (c) the National Park Authorities (Amendment) (England) Order 2009 [^c22454151];
+- (d) the National Park Authorities (England) (Amendment) Order 2014 [^c22454161].
+
+de Mauley
+
+Parliamentary Under Secretary
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1
+
+Article 2 and 4(1) and (2)
+
+### PART 1 — Membership of National Park authorities
+
+| *Name of National Park* | *Total membership of authority* | *Number of local authority members* | *Total number of members appointed by the Secretary of State* | *Number of members appointed by the Secretary of State as parish members* |
+| --- | --- | --- | --- | --- |
+| Dartmoor | 19 | 10 | 9 | 4 |
+| Exmoor | 22 | 12 | 10 | 5 |
+| Lake District | 20 | 10 | 10 | 5 |
+| Northumberland | 18 | 6 | 12 | 6 |
+| North York Moors | 20 | 11 | 9 | 4 |
+| Peak District | 30 | 16 | 14 | 6 |
+| Yorkshire Dales | 25[^key-581f402cdc03653fd8c076e638aae69d] | 15[^key-081c159790dd34c3287410a20cf9aa19] | 10 | 4 |
+
+### PART 2 — Appointment of local authority members
+
+<table>
+<tbody>
+<tr><th><em>Authority</em></th><th><em>Appointing Council</em></th><th><em>Number of Members</em></th></tr>
+<tr><td rowspan="4">Dartmoor National Park Authority</td><td>Devon County Council</td><td>5</td></tr>
+<tr><td>South Hams District Council</td><td>1</td></tr>
+<tr><td>Teignbridge District Council</td><td>2</td></tr>
+<tr><td>West Devon Borough Council</td><td>2</td></tr>
+<tr><td rowspan="4">Exmoor National Park Authority</td><td>Devon County Council</td><td>2</td></tr>
+<tr><td>Somerset Council</td><td>8</td></tr>
+<tr><td>North Devon District Council</td><td>2</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td rowspan="5">Lake District National Park Authority</td><td>Cumberland Council</td><td>4</td></tr>
+<tr><td>Westmorland and Furness Council</td><td>6</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td>Northumberland National Park Authority</td><td>Northumberland Council</td><td>6</td></tr>
+<tr><td rowspan="5">North York Moors National Park Authority</td><td>North Yorkshire Council</td><td>9</td></tr>
+<tr><td>Redcar and Cleveland Borough Council</td><td>2</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td rowspan="11">Peak District National Park Authority</td><td>Cheshire East Council</td><td>1</td></tr>
+<tr><td>Derbyshire County Council</td><td>4</td></tr>
+<tr><td>Staffordshire County Council</td><td>1</td></tr>
+<tr><td>Barnsley Metropolitan Borough Council</td><td>1</td></tr>
+<tr><td>Derbyshire Dales District Council</td><td>2</td></tr>
+<tr><td>High Peak Borough Council</td><td>2</td></tr>
+<tr><td>Kirklees Metropolitan Borough<br>Council</td><td>1</td></tr>
+<tr><td>North East Derbyshire District Council</td><td>1</td></tr>
+<tr><td>Oldham Metropolitan Borough Council</td><td>1</td></tr>
+<tr><td>Sheffield City Council</td><td>1</td></tr>
+<tr><td>Staffordshire Moorlands District Council</td><td>1</td></tr>
+<tr><td rowspan="8">Yorkshire Dales National Park Authority</td><td>Westmorland and Furness Council</td><td>3</td></tr>
+<tr><td>Lancashire County Council</td><td>1</td></tr>
+<tr><td>North Yorkshire Council</td><td>10</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td>Lancaster City Council</td><td>1</td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^key-7d2b70806445ea11dfe90a57c8c422f3][^key-1fb1f34eb6235da923ea12b9c68838ff][^key-44d16821f014f927b09fe43d21d2c4b8][^key-a9f64ea008e8a73d9709ff0d387f1fb2]
+
+## SCHEDULE 2 — Meetings and proceedings of a National Park authority
+
+Article 8
+
+### 1. Annual and other meetings[^key-5b963111d4316663f4a1b72619d95187]
+
+(1) A National Park authority (“**the authority**”) must hold an annual meeting every year and the first meeting held after 31st May in any year is to be the annual meeting.
+
+(2) The annual meeting is to be held at such time as the authority may fix or, if no time is fixed, at noon.
+
+**2.**[^key-229b7ec9121154543db25a916585b33f] (1) In addition to the annual meeting, the authority must hold at least three other meetings each year for the transaction of general business.
+
+(2) These other meetings must be held at such time and on such days as the authority may determine but must be as near as may be at regular intervals.
+
+**3.** (1) An extraordinary meeting of the authority may be called at any time by—
+
+- (a) the chair of the authority;
+- (b) the deputy chair of the authority, if the office of chair is vacant; or
+- (c) the National Park officer, if the offices of chair and deputy chair are both vacant.
+
+(2) Any five members of the authority may call an extraordinary meeting immediately if the chair, deputy chair or National Park officer (as the case may be) refuses to call such a meeting after a requisition has been presented to that person for that purpose.
+
+(3) Any five members of the authority may call an extraordinary meeting after the period of seven days starting with the date on which a requisition is presented to the chair, deputy chair or National Park officer (as the case may be) if, without refusing to do so, that person has not called a meeting within that period.
+
+(4) In this paragraph “**requisition**” means a document which—
+
+- (a) specifies the nature of important or urgent business; and
+- (b) is signed by five members of the authority.
+
+### 4. Chair and deputy chair
+
+(1) The election of a chair and a deputy chair must be the first business transacted at the annual meeting of the authority.
+
+(2) A person elected as chair or deputy chair of the authority may at any time resign that office by notice in writing delivered to the National Park officer.
+
+(3) Where a casual vacancy in the office of chair or deputy chair is filled, the person appointed to fill that vacancy holds office until the date on which the person last holding that office would have retired in the ordinary course.
+
+(4) Where necessary, the meeting at which a casual vacancy is to be filled must be convened by the National Park officer.
+
+### 5. Calling of meetings
+
+(1) Meetings of the authority are to be held at such place (whether or not in the National Park for which it is established) as the authority may direct.
+
+(2) At least three working days before a meeting of the authority—
+
+- (a) notice of the time and place of the intended meeting must be published at the principal offices of the authority and, where the meeting is called by members of the authority, the notice must—
+  - (i) be signed by those members; and
+  - (ii) specify the business proposed to be transacted; and
+- (b) a summons to attend the meeting, specifying the business proposed to be transacted and signed by the National Park officer must, subject to sub-paragraph (3), be left at or sent by post to the usual place of residence of every member of the authority, with a copy to—
+  - (i) the proper officer of the council for every relevant principal area;
+  - (ii) Natural England; and
+  - (iii) the Secretary of State.
+
+(3) If a member of the authority gives notice in writing to the National Park officer that the member wishes summonses to attend meetings of the authority to be sent to an address, specified in the notice, other than the member's usual place of residence, any summons addressed to the member and left at or sent by post to that address is to be deemed sufficient service of the summons.
+
+(4) Failure to serve a summons on any member of the authority does not affect the validity of a meeting.
+
+(5) Except in the case of business required by or under this Order or any other statutory provision to be transacted at the annual meeting of the authority and other business brought before that meeting as a matter of urgency in accordance with the authority's standing orders, no business is to be transacted at a meeting of the authority other than that specified in the summons relating to that meeting [^c22454171].
+
+(6) In sub-paragraph (2), “**working day**” means a day other than a Saturday, Sunday, Christmas Day, Good Friday or bank holiday within the meaning of the Banking and Financial Dealings Act 1971 [^c22454181].
+
+### 6. Conduct of meetings
+
+(1) The chair, if present, presides at a meeting of the authority.
+
+(2) If the chair is absent, the deputy chair presides, if present.
+
+(3) If both the chair and the deputy chair are absent, another member of the authority, chosen by the members present, presides.
+
+### 7. Quorum
+
+No business may be transacted at a meeting of the authority unless [^c22454191]—
+
+- (a) at least one third of the total number of members of the authority is present; and
+- (b) of those present, at least one is a local authority member and at least one is a member appointed by the Secretary of State.
+
+### 8. Minutes of proceedings of meetings
+
+A copy of the minutes of the proceedings at each meeting of the authority must, before the end of the period of 35 days starting with the date of the meeting at which those minutes are approved, be sent to—
+
+- (a) the proper officer of the council for every relevant principal area;
+- (b) Natural England; and
+- (c) the Secretary of State.
+
+## SCHEDULE 3 — Application of enactments with modifications
+
+Article 11
+
+### PART 1 — Administration
+
+#### 1. Members' allowances
+
+In section 175 of the 1972 Act [^c22454201] (allowances for attending conferences and meetings), subsection (3B) applies as if a National Park authority were a combined body, all the members of which are representatives of local authorities.
+
+**2.** In section 177 of the 1972 Act [^c22454211] (supplementary provisions) subsection (1)(b) applies as if a National Park authority were a body specified in section 21(1) of the Local Government and Housing Act 1989 [^c22454221], as referred to in subsection (1)(a) of the 1972 Act.
+
+#### 3. Financial administration
+
+(1) Part 8 (financial administration) of the Local Government Finance Act 1988 [^c22454231] (“**the 1988 Act**”) applies to a National Park authority as if—
+
+- (a) that authority were a relevant authority for the purposes of that Part; and
+- (b) “the commencement day” were 1st April 1997.
+
+(2) Section 113(2)(b) (qualifications of responsible officer) of the 1988 Act has effect in relation to the person having responsibility, under section 151 of the 1972 Act [^c22454241], for the administration of the financial affairs of a National Park authority as if that authority were an authority mentioned in section 111(2)(a) to (k) of the 1988 Act.
+
+#### 4. Standing orders
+
+(1) The Local Authorities (Standing Orders) Regulations 1993 [^c22454251] apply in relation to a National Park authority as follows—
+
+- (a) regulations 1 to 3 apply as if a National Park authority were a relevant authority within the meaning of regulation 1(2);
+- (b) regulation 4 applies as if a National Park authority were a council mentioned in paragraph (1) of that regulation; and
+- (c) paragraph 2 of Schedule 2 applies as if the reference to a meeting called under paragraph 3 of Schedule 12 to the 1972 Act were a reference to an extraordinary meeting of a National Park authority.
+
+(2) Regulations 6 and 7 of the Local Authorities (Standing Orders) (England) Regulations 2001 [^c22454261] (standing orders in respect of disciplinary action and investigation of alleged misconduct) apply as if a National Park authority were a local authority for the purpose of those Regulations.
+
+### PART 2 — Miscellaneous functions
+
+#### 5. Water
+
+(1) Schedule 11 to the Water Industry Act 1991 [^c22454271] (orders conferring compulsory works powers) applies as if a National Park authority were a local authority for the purposes of paragraph 1(3)(b) (persons to be notified of compulsory works order application).
+
+(2) The Water Resources Act 1991 [^c22454281] applies as if a National Park authority were a local authority for the purposes of—
+
+- (a) section 72(2)(a)(ii) of that Act (interpretation of Chapter 2);
+- (b) section 158(1) (works agreements);
+- (c) section 197(5) (information); and
+- (d) paragraph 2(3)(a) of Schedule 5 (procedure).
+
+#### 6. Transport and Works Act 1992
+
+The Transport and Works Act 1992 [^c22454291] applies as if a National Park authority were a local authority for the purposes of section 11(4) of that Act (inquiries and hearings).
+
+#### 7. Commons
+
+The Commons (Schemes) Regulations 1982 [^c22454301] apply as if—
+
+- (a) a National Park authority were a council for the purposes of those Regulations; and
+- (b) in forms 1 and 2 in the Schedule, references to the National Park authority were substituted for references to the Council and District Council.
+
+#### 8. Areas of archaeological importance
+
+The Operations in Areas of Archaeological Importance (Forms of Notice etc.) Regulations 1984 [^c22454311] apply in relation to any area of archaeological importance wholly or partly within a National Park as if each reference to a district council were a reference to the National Park authority for that National Park.
+
+#### 9. Disposal of abandoned vehicles
+
+The Removal and Disposal of Vehicles Regulations 1986 [^c22454321] apply as if a National Park authority were a council for the purposes of paragraph (aa) of regulation 12(1)(e)(ii) and as if the National Park were that council's area.
+
+#### 10. Listed building purchase notices
+
+The Planning (Listed Buildings and Conservation Areas) Regulations 1990 [^c22454331] apply as if—
+
+- (a) the reference in regulation 9(1) (claims for compensation and listed building purchase notices) to the council of a district included reference to a National Park authority; and
+- (b) the purchase notice referred to in paragraph (2) of the form set out in Part 2 of Schedule 1 (notification of refusal of consent) were, in the case where the land is situated in a National Park, to be served on the National Park authority for that Park.
+
+#### 11. Town and country planning
+
+The Town and Country Planning General Regulations 1992 [^c22454341] apply as if the reference to the council of a district in regulation 12(1) (claims for compensation etc.) included a reference to a National Park authority.
+
+*(This note is not part of the Order)*
+
+This Order revokes and replaces the National Park Authorities (England) Order 1996 (S.I. 1996/1243) (“**the 1996 Order**”) and three amending instruments. It continues provision relating to the National Park authorities for National Parks in England, which were established under the 1996 Order.
+
+Articles 4 to 7 and Schedule 1 make provision about the members to be appointed to each authority by local authorities and by the Secretary of State. Article 8 and Schedule 2 make provision about meetings of National Park authorities and article 9 requires certain reports and other information to be provided by a National Park authority. Requirements relating to financial matters and accounts are imposed by article 10. Article 11 and Schedule 3 apply various enactments to National Park authorities with specified modifications.
+
+No impact assessment has been produced for this instrument as no impact on the private, public or voluntary sector is foreseen. An Explanatory Memorandum is available alongside the instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^c22454071]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70) (“**the 1972 Act**”).
+
+[^c22454081]: Marginal citation: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Section 4A was inserted by section 67(1) of the Environment Act 1995 (“**the 1995 Act**”) and amended by Schedule 24 to that Act.
+
+[^c22454091]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25). Paragraph 1(2) and (3) of Schedule 7 was substituted by section 61(1) and (2) of the [Natural Environment and Rural Communities Act 2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^c22454101]: Marginal citation: Paragraph 14(3) of Schedule 7 was amended by paragraph 146 of Schedule 11 to the [Natural Environment and Rural Communities Act 2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^c22454111]: Marginal citation: [S.I. 1996/1243](https://www.legislation.gov.uk/uksi/1996/1243), as amended by [S.I. 1996/2546](https://www.legislation.gov.uk/uksi/1996/2546), [1997/633](https://www.legislation.gov.uk/uksi/1997/633), [1999/416](https://www.legislation.gov.uk/uksi/1999/416), [2006/3165](https://www.legislation.gov.uk/uksi/2006/3165), [2009/557](https://www.legislation.gov.uk/uksi/2009/557), [2009/837](https://www.legislation.gov.uk/uksi/2009/837), [2010/490](https://www.legislation.gov.uk/uksi/2010/490) and [2014/571](https://www.legislation.gov.uk/uksi/2014/571). The National Park authorities to which this Order applies were established by article 3 of that Order.
+
+[^c22454121]: Marginal citation: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Section 4A was applied to National Park authorities established by [S.I. 1996/1243](https://www.legislation.gov.uk/uksi/1996/1243) by article 16 of that Order.
+
+[^c22454131]: Marginal citation: Section 230 was amended by paragraph 26 of Schedule 14 to the [Local Government Act 1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51). (There are other amendments which are not relevant to this Order). It applies to a National Park authority by virtue of paragraph 17(2)(c) of Schedule 7 to the 1995 Act.
+
+[^c22454141]: Marginal citation: [S.I. 1996/2546](https://www.legislation.gov.uk/uksi/1996/2546).
+
+[^c22454151]: Marginal citation: [S.I. 2009/557](https://www.legislation.gov.uk/uksi/2009/557).
+
+[^c22454161]: Marginal citation: [S.I. 2014/571](https://www.legislation.gov.uk/uksi/2014/571).
+
+[^key-581f402cdc03653fd8c076e638aae69d]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (31.7.2016) by [The National Park Authorities (England) (Amendment) Order 2016 (S.I. 2016/703)](https://www.legislation.gov.uk/uksi/2016/703), [arts. 1](https://www.legislation.gov.uk/uksi/2016/703/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/703/article/2/2/a)
+
+[^key-081c159790dd34c3287410a20cf9aa19]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (31.7.2016) by [The National Park Authorities (England) (Amendment) Order 2016 (S.I. 2016/703)](https://www.legislation.gov.uk/uksi/2016/703), [arts. 1](https://www.legislation.gov.uk/uksi/2016/703/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/703/article/2/2/b)
+
+[^key-7d2b70806445ea11dfe90a57c8c422f3]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/a)
+
+[^key-1fb1f34eb6235da923ea12b9c68838ff]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/b)
+
+[^key-44d16821f014f927b09fe43d21d2c4b8]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/c)
+
+[^key-a9f64ea008e8a73d9709ff0d387f1fb2]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(d)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/d)
+
+[^key-5b963111d4316663f4a1b72619d95187]: Modification: Sch. 2 para. 1 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/392/regulation/8) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+
+[^key-229b7ec9121154543db25a916585b33f]: Modification: Sch. 2 para. 2 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/392/regulation/8) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+
+[^c22454171]: Marginal citation: See also section 100B(4) of the 1972 Act (consideration of items of business), inserted by section 1(1) of the [Local Government (Access to Information) Act 1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43) and applied to National Park authorities by section 100J(1)(cd) of the 1972 Act (inserted by paragraph 12(2)(a) of Schedule 7 to the 1995 Act).
+
+[^c22454181]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). See section 1 and Schedule 1.
+
+[^c22454191]: Marginal citation: See also paragraph 45 of Schedule 12 to the 1972 Act (quorum) which is applied to a National Park authority by virtue of paragraph 12(1)(a) of Schedule 7 to the 1995 Act.
+
+[^c22454201]: Marginal citation: Subsection (3B) was inserted by section 25(3) of the [Local Government, Planning and Land Act 1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65) and amended by paragraph 27(b) of Schedule 11 to the [Local Government and Housing Act 1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42) (“**the 1989 Act**”), paragraph 18 of Part 1 of Schedule 29 to the [Greater London Authority Act 1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29), paragraphs 1 and 11 of Part 1 of Schedule 13 to the [Local Government and Public Involvement in Health Act 2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28) and paragraphs 10 and 22 of Schedule 6 to the [Local Democracy, Economic Development and Construction Act 2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20). Section 175 applies to National Park authorities by virtue of paragraph 11(1) of Schedule 7 to the 1995 Act.
+
+[^c22454211]: Marginal citation: Subsection (1) of section 177 was substituted by paragraph 28(2) of Schedule 11 to the 1989 Act and amended by paragraph 3(2) of Schedule 30 and by Schedule 31 to the [School Standards and Framework Act 1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^c22454221]: Marginal citation: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42). There are amendments to section 21(1) which are not relevant to this Order.
+
+[^c22454231]: Marginal citation: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41). See section 111(2) and (4) for definitions of “relevant authority” and “the commencement day”. There are amendments to section 111(2) which are not relevant to this Order.
+
+[^c22454241]: Marginal citation: Section 151 is applied to National Park authorities by paragraph 13(6) of Schedule 7 to the 1995 Act.
+
+[^c22454251]: Marginal citation: [S.I. 1993/202](https://www.legislation.gov.uk/uksi/1993/202). Regulations 1 and 2 were amended by [S.I. 2001/3384](https://www.legislation.gov.uk/uksi/2001/3384). There are other amendments which are not relevant to these Regulations.
+
+[^c22454261]: Marginal citation: [S.I. 2001/3384](https://www.legislation.gov.uk/uksi/2001/3384).
+
+[^c22454271]: Marginal citation: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^c22454281]: Marginal citation: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57). Section 158(1) was amended by paragraphs 128 and 160 of Schedule 22 to the 1995 Act and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755); section 197(5) was amended by paragraph 128 of Schedule 22 to the 1995 Act and paragraph 2(3) of Schedule 5 was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^c22454291]: Marginal citation: [1992 c.42](https://www.legislation.gov.uk/ukpga/1992/42).
+
+[^c22454301]: Marginal citation: [S.I. 1982/209](https://www.legislation.gov.uk/uksi/1982/209), amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971). Paragraphs 1(1) and (2)(a) of Schedule 9 to the 1995 Act provide that section 1 (scheme for regulation) of the [Commons Act 1899 (c.30)](https://www.legislation.gov.uk/ukpga/1899/30) is to have effect in relation to a registered common as if a National Park authority were a local authority for the purposes of that enactment.
+
+[^c22454311]: Marginal citation: [S.I. 1984/1285](https://www.legislation.gov.uk/uksi/1984/1285). Paragraph 10(2) of Schedule 9 to the 1995 Act provides that section 35 (archaeological areas) of the [Ancient Monuments and Archaeological Areas Act 1979 (c.46)](https://www.legislation.gov.uk/ukpga/1979/46) is to have effect as if any notice required to be served on a local authority under that section were required to be served, instead, on a National Park authority.
+
+[^c22454321]: Marginal citation: [S.I. 1986/183](https://www.legislation.gov.uk/uksi/1986/183). Regulation 12 was amended by [S.I. 1996/1008](https://www.legislation.gov.uk/uksi/1996/1008) and [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971). Paragraph 9(1) of Schedule 9 to the 1995 Act provides that references to a local authority in the [Refuse Disposal (Amenity) Act 1978 (c.3)](https://www.legislation.gov.uk/ukpga/1978/3) are to have effect in relation to land in a National Park for which a National Park authority is the local planning authority as if they included references to that authority and as if the relevant Park were the authority's area.
+
+[^c22454331]: Marginal citation: [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519). Regulation 9(1) was amended by [S.I. 1996/525](https://www.legislation.gov.uk/uksi/1996/525). Paragraph (2) of the form set out in Part 2 of Schedule 1 was amended by [S.I. 1996/525](https://www.legislation.gov.uk/uksi/1996/525), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2013/2115](https://www.legislation.gov.uk/uksi/2013/2115) and [2013/2146](https://www.legislation.gov.uk/uksi/2013/2146). Under section 32(4A) of the [Planning (Listed Buildings and Conservation Areas) Act 1990 (c.9)](https://www.legislation.gov.uk/ukpga/1990/9), inserted by paragraph 33 of Schedule 10 to the 1995 Act, a National Park authority is a body on whom a listed building notice may be served where it is the local planning authority for the area in which the building and land in question are situated.
+
+[^c22454341]: Marginal citation: [S.I. 1992/1492](https://www.legislation.gov.uk/uksi/1992/1492). Regulation 12(1) was amended by [S.I. 1996/525](https://www.legislation.gov.uk/uksi/1996/525).

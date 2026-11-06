@@ -1,0 +1,78 @@
+---
+title: Fisheries Act 2020, section 33
+act: Fisheries Act 2020
+section: '33'
+status: revised
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/22/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Fisheries Act 2020, section 33
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 33. Financial assistance: powers of Secretary of State
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may give financial assistance, or arrange for financial assistance to be given, to any person for any of the following purposes—
+
+- (a) the conservation, enhancement or restoration of the marine and aquatic environment;
+- (b) the promotion or development of commercial fish or aquaculture activities;
+- (c) the reorganisation of businesses involved in commercial fish or aquaculture activities;
+- (d) contributing to the expenses of persons involved in commercial fish or aquaculture activities;
+- (e) maintaining or improving the health and safety of individuals who are involved in commercial fish or aquaculture activities;
+- (f) the training of individuals who are, were or intend to become involved in commercial fish or aquaculture activities, or are family members of such individuals;
+- (g) the economic development or social improvement of areas in which commercial fish or aquaculture activities are carried out;
+- (h) improving the arrangements for the use of catch quotas or effort quotas;
+- (i) the promotion or development of recreational fishing.
+
+(2) Financial assistance given under, or under arrangements made pursuant to, subsection (1) must be given in accordance with a scheme established by regulations made by the Secretary of State.
+
+(3) The scheme may only provide for financial assistance to be given—
+
+- (a) in relation to England,
+- (b) in relation to an area that is, or areas that are—
+  - (i) within the UK marine area, but
+  - (ii) not within the Scottish zone, the Welsh zone or the Northern Ireland zone, or
+- (c) in relation to English fishing boats.
+
+(4) The scheme may—
+
+- (a) confer functions (including functions involving the exercise of a discretion) on a person;
+- (b) require a person on whom functions are conferred to keep, and make available for inspection, accounts and other records;
+- (c) require the Secretary of State, or another person, to publish specified information about financial assistance given in accordance with the scheme.
+
+(5) In subsection (4)(c) “**specified**” means specified by the scheme; and information that may be specified under that provision includes information about—
+
+- (a) the recipient of the financial assistance;
+- (b) the amount of the financial assistance;
+- (c) the purpose for which the financial assistance was given.
+
+(6) The scheme may not impose a duty to publish information where its publication would (taking the duty into account) contravene the data protection legislation (within the meaning of the Data Protection Act 2018).
+
+(7) The scheme may include provision under which—
+
+- (a) financial assistance is given subject to conditions specified by, or in accordance with, the scheme;
+- (b) financial assistance is required to be repaid in circumstances specified by, or in accordance with, the scheme.
+
+(8) Regulations under this section are subject to the affirmative resolution procedure.
+
+(9) In this section—
+
+- “**family member**”, in relation to an individual (“P”), means—
+  - (a) P's spouse or civil partner,
+  - (b) a child or grandchild of P or of P's spouse or civil partner, or
+  - (c) a parent or grandparent of P or of P's spouse or civil partner;
+- “**financial assistance**” means grants or loans;
+- “**UK marine area**” has the meaning given by section 42(1) of the Marine and Coastal Access Act 2009.
+
+(10) Schedule 6 contains—
+
+- (a) provision conferring power on the Scottish Ministers, the Welsh Ministers and the Northern Ireland department corresponding to that conferred on the Secretary of State by this section, and
+- (b) consequential amendments and transitional provision relating to this section and the provision mentioned in paragraph (a).

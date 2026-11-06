@@ -1,0 +1,64 @@
+---
+title: Finance Act 2022, section 18
+act: Finance Act 2022
+section: '18'
+status: revised
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/3/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2022, section 18
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 18. Theatrical productions tax relief
+
+*Extent: E+W+S+N.I.*
+
+(1) Part 15C of CTA 2009 (theatrical productions tax relief) is amended as follows.
+
+(2) In section 1217FA (meaning of “**theatrical production**”)—
+
+- (a) in subsection (2)—
+  - (i) in the words before paragraph (a), for “other” substitute “relevant”,
+  - (ii) after paragraph (b) (but before the “and” at the end) insert—
+
+    > - (ba) each performance is intended to be given to an audience of not less than five individuals,
+
+    ,
+- (b) in subsection (3), omit “also”, and
+- (c) after subsection (3) insert—
+
+  > (3A) “**Relevant dramatic piece**” means a dramatic piece (other than a play, opera or musical) that tells a story or a number of related or unrelated stories.
+
+(3) In section 1217FB(1) (productions not regarded as theatrical), before paragraph (a) insert—
+
+> - (za) it is produced for training purposes,
+
+.
+
+(4) In section 1217GA (the commercial purpose condition), after subsection (2) insert—
+
+> (2A) A performance to members of the general public is not regarded as being to paying members unless—
+>
+> - (a) it is separately ticketed, and
+> - (b) it is intended that a significant proportion of the earnings from the performance should be obtained by such ticketing.
+>
+> (2B) For the purposes of subsection (2A), the fact that a ticket covers things reasonably incidental to the performance (such as, for example, a programme or food to be consumed during the course of the performance) does not prevent the performance from being separately ticketed, provided that the price paid can reasonably be apportioned between the performance and those other things.
+>
+> (2C) A performance is only regarded as provided for educational purposes if it is provided mainly for the purpose of educating the audience.
+
+(5) In section 1217GC (meaning of “**core expenditure**”), at the end insert—
+
+> (3) For the purposes of subsection (2)(a), expenditure by an educational body on teaching or training participants in a production is expenditure on a matter not directly involved in producing the production, except to the extent that the teaching or training takes place as part of a rehearsal for the production.
+>
+> (4) For the purposes of subsection (2)(b), a performance to the general public is not regarded as being to paying members unless it satisfies section 1217GA(2A).
+>
+> (5) In this section, “**educational body**” includes a body mentioned in section 71.
+
+(6) The amendments made by this section have effect in relation to a theatrical production only where the production phase begins on or after 1 April 2022.

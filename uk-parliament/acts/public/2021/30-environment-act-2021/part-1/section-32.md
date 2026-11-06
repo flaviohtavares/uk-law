@@ -1,0 +1,47 @@
+---
+title: Environment Act 2021, section 32
+act: Environment Act 2021
+section: '32'
+status: revised
+text_date: '2026-05-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/30/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environment Act 2021, section 32
+
+> Text as at 2026-05-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 32. Complaints[^key-4c97b28b3f070e428eeb27c5f47c9be7][^key-7e4cb14a15ad39937cc5f5640c5cacb1]
+
+*Extent: E+W+S+N.I.*
+
+(1) A person may make a complaint to the OEP under this section if the person believes that a public authority has failed to comply with environmental law.
+
+(2) The OEP must prepare and publish a document which sets out the procedure by which complaints can be made.
+
+(3) A complaint under this section must be made in accordance with that procedure (as most recently published).
+
+(4) A complaint under this section may not be made by any person whose functions include functions of a public nature.
+
+(5) A complaint about a public authority may not be made under this section if—
+
+- (a) the authority operates a procedure for considering complaints (“an internal complaints procedure”) under which the complaint could be considered, and
+- (b) that procedure has not been exhausted.
+
+(6) A complaint under this section may not be made after the later of—
+
+- (a) the end of the 1 year period beginning with the day on which the alleged failure that is the subject of the complaint last occurred, and
+- (b) if the substance of the complaint was subject to an internal complaints procedure, the end of the 3 month period beginning with the day on which that procedure was exhausted.
+
+(7) The OEP may waive the time limit in subsection (6) if it considers that there are exceptional reasons for doing so.
+
+## Annotations
+
+[^key-4c97b28b3f070e428eeb27c5f47c9be7]: Commencement: S. 32 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+
+[^key-7e4cb14a15ad39937cc5f5640c5cacb1]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2021/30/section/32) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

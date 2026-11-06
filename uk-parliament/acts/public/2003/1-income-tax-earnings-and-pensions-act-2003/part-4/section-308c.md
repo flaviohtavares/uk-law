@@ -1,0 +1,64 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 308C
+act: Income Tax (Earnings and Pensions) Act 2003
+section: 308C
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/308C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 308C
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 308C. Provision of pensions advice: limited exemption[^key-d1f07b2758ab0b1ba231e31211983a5f]
+
+*Extent: E+W+S+N.I.*
+
+(1) No liability to income tax arises in respect of—
+
+- (a) the provision of relevant pensions advice to an employee or former or prospective employee, or
+- (b) the payment or reimbursement of costs incurred, by or in respect of an employee or former or prospective employee, in obtaining relevant pensions advice,
+
+if Condition A or B is met.
+
+(2) But subsection (1) does not apply in relation to a person in a tax year so far as the value of the exemption in the person's case in that year exceeds £500.
+
+(3) The “**value of the exemption**”, in relation to a person and a tax year, is the amount exempted by subsection (1) from income tax in the person's case in that year, disregarding subsection (2) for this purpose.
+
+(4) If in a tax year there is in relation to an individual more than one person who is an employer or former employer, subsections (1) to (3) apply in relation to the individual as employee or former or prospective employee of any one of those persons separately from their application in relation to the individual as employee or former or prospective employee of any other of those persons.
+
+(5) “**Relevant pensions advice**”, in relation to a person, means information, or advice, in connection with—
+
+- (a) the person's pension arrangements, or
+- (b) the use of the person's pension funds.
+
+(6) Condition A is that the relevant pensions advice, or payment or reimbursement, is provided under a scheme that is open—
+
+- (a) to the employer's employees generally, or
+- (b) generally to the employer's employees at a particular location.
+
+(7) Condition B is that the relevant pensions advice, or payment or reimbursement, is provided under a scheme that is open generally to the employer's employees, or generally to those of the employer's employees at a particular location, who—
+
+- (a) have reached the minimum qualifying age, or
+- (b) meet the ill-health condition.
+
+(8) The “**minimum qualifying age**”, in relation to an employee, means the employee's relevant pension age less 5 years.
+
+(9) “**Relevant pension age**”, in relation to an employee, means—
+
+- (a)[^key-29bbe3d261e0c6c2a3e757bbf607d965] if any of paragraphs 22, 23, 23ZB or 23ZC of Schedule 36 to FA 2004 apply in relation to the employee, the lowest protected pension age that applies as a result of those paragraphs (in relation to the employee or, as the case may be, to sums or assets that relate to the employee), or
+- (b) in any other case, the employee's normal minimum pension age, as defined by section 279(1) of FA 2004.
+
+(10) The “ill-health condition” is met by an employee if the employer is satisfied, on the basis of evidence provided by a registered medical practitioner, that the employee is (and will continue to be) incapable of carrying on his or her occupation because of physical or mental impairment.
+
+## Annotations
+
+[^key-d1f07b2758ab0b1ba231e31211983a5f]: Textual amendment: [S. 308C](https://www.legislation.gov.uk/ukpga/2003/1/section/308C) inserted (with effect in accordance with s. 3(5) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 3(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/3/1)
+
+[^key-29bbe3d261e0c6c2a3e757bbf607d965]: Textual amendment: [S. 308C(9)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/308C/9/a) substituted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 10(7)](https://www.legislation.gov.uk/ukpga/2022/3/section/10/7)

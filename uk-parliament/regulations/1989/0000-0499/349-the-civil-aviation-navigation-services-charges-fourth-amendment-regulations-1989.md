@@ -1,0 +1,122 @@
+---
+title: The Civil Aviation (Navigation Services Charges) (Fourth Amendment) Regulations 1989
+id: uksi/1989/349
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-03-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/349
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/349/pdfs/uksi_19890349_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/349/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Aviation (Navigation Services Charges) (Fourth Amendment) Regulations 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 349
+
+CIVIL AVIATION
+
+The Civil Aviation (Navigation Services Charges) (Fourth Amendment) Regulations 1989
+
+Made
+
+3rd March 1989
+
+Laid before Parliament
+
+10th March 1989
+
+Coming into force
+
+1st April 1989
+
+The Secretary of State for Transport, in exercise of his powers under sections 73 and 74 of the Civil Aviation Act 1982[^f00001] and of all other powers enabling him in that behalf, and with the consent of the Treasury, hereby makes the following Regulations–
+
+**1.** These Regulations may be cited as the Civil Aviation (Navigation Services Charges) (Fourth Amendment) Regulations 1989 and shall come into force on 1st April 1989.
+
+**2.** The Civil Aviation (Navigation Services Charges) Regulations 1986[^f00002] shall be further amended as follows–
+
+(1) In regulation 2(1), for the Table there shall be substituted the following new Table–
+
+**TABLE**
+
+| *Column 1* | *Column 2* | *Column 3* |
+| --- | --- | --- |
+| Heathrow–London |  |  |
+| For each metric tonne and for each fraction of a metric tonne up to 100 metric tonnes | £1.55 | £1.31 |
+| For each additional metric tonne, and for each fraction of a metric tonne, over 100 metric tonnes | £0.67 | £0.54 |
+| Gatwick–London |  |  |
+| For each metric tonne and for each fraction of a metric tonne up to 100 metric tonnes | £1.55 | £1.31 |
+| For each additional metric tonne, and for each fraction of a metric tonne, over 100 metric tonnes | £0.67 | £0.54 |
+| Stansted–London |  |  |
+| For each metric tonne and for each fraction of a metric tonne up to 100 metric tonnes | £1.55 | £1.31 |
+| For each additional metric tonne, and for each fraction of a metric tonne, over 100 metric tonnes | £0.67 | £0.54 |
+| Aberdeen (Dyce) | £4.35 | £3.66 |
+| Edinburgh | £4.09 | £3.45 |
+| Glasgow | £3.03 | £2.55 |
+| Prestwick | £3.82 | £3.24 |
+
+(2) After regulation 4 there shall be inserted the following new regulation–
+
+> **4A. Charges for approach services provided from an aerodrome to aircraft which do not land at that aerodrome**
+>
+> (1) Subject to the provisions of these Regulations the operator of every aircraft engaged on a flight which is not for the purpose of public transport for which navigation services are provided by the Authority in connection with an approach to an aerodrome referred to in the Table in regulation 2 of these Regulations, not being the aerodrome of intended landing of the aircraft (whether or not the services are actually used or could be used with the equipment installed in the aircraft), shall pay to the Authority for those services–
+>
+> |  |  |
+> | --- | --- |
+> | for each approach to PrestwickF | 15% of the standard charge. |
+> | for each approach to any other aerodrome referred to in the said Table. | 25% of the standard charge. |
+>
+> (2) The minimum charge payable under this regulation in respect of an aircraft engaged on an international flight shall be £10.00 and the minimum charge payable under this regulation in respect of an aircraft engaged on a flight other than an international flight shall be £5.00
+
+.
+
+(3) In regulation 6(3) for “a charge of forty pounds” there shall be substituted “a charge of £42.50”.
+
+Signed by authority of the Secretary of State
+
+Peter Bottomley
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+2nd March 1989
+
+We consent to the making of these Regulations,
+
+Alan Howarth
+
+David MacLean
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+3rd March 1989
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Civil Aviation (Navigation Services Charges) Regulations 1986. The following changes are made–
+
+(1) The charges payable to the Civil Aviation Authority for navigation services provided in connection with the use of the aerodromes specified in the Table have been changed as follows–
+
+- (a) In respect of the three London Airports, the standard charge for the first 100 metric tonnes maximum total weight authorised of an aircraft is increased from £1.40 per metric tonne to £1.55 for aircraft engaged on international flights and from £1.18 per metric tonne to £1.31 for aircraft engaged on domestic flights. For each additional metric tonne, or part thereof, in excess of 100 metric tonnes, the charge is increased from £0.60 per metric tonne to £0.67 for aircraft engaged on international flights and from £0.49 per metric tonne to £0.54 for aircraft engaged on domestic flights.
+- (b) Charges at Aberdeen (Dyce) are increased by 6.1% for both domestic and international flights, charges at Edinburgh are increased by 6.2% for both domestic and international flights, charges at Glasgow are increased by 6.3% for both domestic and international flights and charges at Prestwick are increased by 6.2% for domestic flights and 6.1% for international flights (regulation 2(1)).
+
+(2) A charge payable to the Civil Aviation Authority is introduced for aircraft (other than those engaged on public transport flights) for navigation services provided by the Authority in connection with an approach to an aerodrome at which the aircraft does not intend to land. The charge for those services is 15% of the standard charge in the case of an approach to Prestwick and 25% of the standard charge in the case of an approach to any other aerodrome listed in the Table in regulation 2 (Regulation 2(2)).
+
+(3) The charge payable to the Civil Aviation Authority for a flight made by a helicopter from a point in the United Kingdom to an off-shore installation within the area of the southern North Sea specified in regulation 6(3) of the principal Regulations is increased from £40.00 to £42.50 (regulation 2(3)).
+
+## Annotations
+
+[^f00001]: Footnote: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16); section 73(4) was amended by section 3(2) of the Civil Aviation (Eurocontrol) Act [1983 (c. 11)](https://www.legislation.gov.uk/ukpga/1983/11).
+
+[^f00002]: Footnote: S.I. [1986/403](https://www.legislation.gov.uk/uksi/1986/403), as amended by S.I. [1986/2170](https://www.legislation.gov.uk/uksi/1986/2170), [1987/269](https://www.legislation.gov.uk/uksi/1987/269) and [1988/388](https://www.legislation.gov.uk/uksi/1988/388).

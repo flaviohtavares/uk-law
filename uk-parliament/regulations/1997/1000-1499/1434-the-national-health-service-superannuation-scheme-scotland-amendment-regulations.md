@@ -1,0 +1,246 @@
+---
+title: The National Health Service Superannuation Scheme (Scotland) Amendment Regulations 1997
+id: uksi/1997/1434
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-06-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/1434
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/1434/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service Superannuation Scheme (Scotland) Amendment Regulations 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 1434 (S. 111)
+
+NATIONAL HEALTH SERVICE, SCOTLAND
+
+The National Health Service Superannuation Scheme (Scotland) Amendment Regulations 1997
+
+Made
+
+2nd June 1997
+
+Laid before Parliament
+
+9th June 1997
+
+Coming into force
+
+All provisions except regulation 3
+
+30th June 1997
+
+Regulation 3
+
+1st September 1997
+
+The Secretary of State, in exercise of the powers conferred on him by sections 10 and 12 of, and Schedule 3 to, the Superannuation Act 1972[^f00001], and of all other powers enabling him in that behalf, after consulting such representatives of persons likely to be affected by these Regulations as appear to him appropriate in accordance with section 10(4) of that Act, and with the consent of the Treasury[^f00002], hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the National Health Service Superannuation Scheme (Scotland) Amendment Regulations 1997.
+
+(2) These Regulations shall come into force as follows:–
+
+- (a) all provisions other than regulation 3 shall come into force on 30th June 1997, but regulation 10 shall have effect as from 1st April 1997;
+- (b) regulation 3 shall come into force on 1st September 1997.
+
+## 2. Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 1995
+
+The National Health Service Superannuation Scheme (Scotland) Regulations 1995[^f00003] shall be amended in accordance with regulation 3 to 10 below.
+
+## 3. Membership of the Scheme
+
+For regulation B1 there shall be substituted the following regulation:–
+
+> **B1. Membership of the scheme**
+>
+> (1) Subject to regulation B2 (age limits and restrictions on membership) the following persons are eligible to be included in the scheme:–
+>
+> - (a) officers; and
+> - (b) medical and dental practitioners, assistant and associate practitioners and trainee practitioners.
+>
+> (2) Each eligible person shall be included in the scheme automatically upon commencing NHS employment unless that person has made an election under regulation B4 (opting out of the scheme) to opt out of the scheme.
+>
+> (3) A person who, on the coming into force of this regulation, is already in NHS employment but is not included in the scheme shall not be included automatically, but may elect to be included in the scheme, if eligible in terms of paragraph (1), by giving notice in writing to the Secretary of State at any time, subject to paragraph (4). The person shall be included in the scheme on the first day of the pay period immediately after the notice is received or such later date (which must be the first day of a pay period) as is specified in the notice.
+>
+> (4) A person may not elect to be included in the scheme in terms of paragraph (3) during a period of absence from work for any reason.
+>
+> (5) A person who is included in the scheme may opt out at any time in accordance with regulation B4.
+
+.
+
+## 4. Opting into the scheme: mis-sold pensions
+
+In Part B there shall be added the following regulation:–
+
+> **B6. Opting into the scheme: mis-sold pensions**
+>
+> (1) Subject to paragraph (3), this regulation shall apply to a person who, during any period–
+>
+> - (a) was eligible to be an active member of the scheme;
+> - (b) opted out of the scheme under regulation B4(1) and made contributions to a personal pension scheme; and
+> - (c) has suffered loss as the result of a contravention which is actionable under section 62 of the Financial Services Act 1986[^f00004].
+>
+> (2) Where, at any time, a person to whom this regulation applies elects to rejoin the scheme under regulation B5, there shall, if the Secretary of State so determines, be counted as pensionable service in respect of that person a period equal to the aggregate of–
+>
+> - (a) his additional period of pensionable service as approved by the Secretary of State for the purposes of regulation N3A(2)(a); and
+> - (b) his transferred out service, if any, within the meaning of regulation N3A(5).
+>
+> provided there has been paid to the Secretary of State in respect of that person a transfer payment calculated in accordance with regulation N3A.
+>
+> (3) Where, at any time, a person to whom this regulation applies elects to rejoin the scheme under regulation B5 but dies in pensionable employment or becomes entitled to benefits under Part E of these Regulations before the transfer payment referred to in paragraph (2) has been paid to the Secretary of State in respect of him, paragraph (2) shall continue to apply in the case of that person.
+>
+> (4) In this regulation–
+>
+> - “active member” means a person who is in pensionable service under the scheme; and
+> - “personal pension scheme” has the meaning given by section 1 of the Pension Schemes Act 1993[^f00005] and includes–
+>   - (a) a retirement annuity contract approved under Chapter III of Part XIV of the Income and Corporation Taxes Act 1988[^f00006];
+>   - (b) a personal pension scheme approved under Chapter IV of Part XIV of the Income and Corporation Taxes Act 1988;
+>   - (c) a retirement benefits scheme approved under section 591(2)(g) of the Income and Corporation Taxes Act 1988.
+
+.
+
+## 5. Meaning of “pensionable pay”
+
+(1) After regulation C1(3) there shall be inserted the following paragraph:–
+
+> (3A) Where a member who was eligible to be a member before 1st June 1989 becomes a member on or after that date by virtue of being a person to whom regulation B6 applies, any amount by which that members pensionable pay exceeds the permitted maximum will not be ignored when calculating the amount of any contributions or benefits payable under these Regulations except in relation to a period following a break in pensionable employment on or after that date.
+
+.
+
+(2) In regulation C1(4)–
+
+- (a) for the words “paragraph (3)” there shall be substituted the words “paragraphs (3) and (3A)”; and
+- (b) after sub-paragraph (e) there shall be added the following sub-paragraph:–
+
+  > ;or
+  >
+  > - (f) the break is due to the member opting out of the scheme as the result of a contravention which is actionable under section 62 of the Financial Services Act 1986.
+
+  .
+
+## 6. Amount of member’s cash equivalent
+
+In regulation M3(5) after the words “Subject to paragraph (7),” there shall be inserted the following words:–
+
+> - except in the case of a transfer payment accepted under regulation N3A,
+
+.
+
+## 7. Member’s right to transfer accrued rights to benefit to the scheme
+
+(1) For paragraph (3) of regulation N1 there shall be substituted the following paragraph:–
+
+> (3) Except in the case of a person to whom regulation B6 applies, the Secretary of State shall not accept a transfer payment if–
+>
+> - (a) the member joins the scheme, or requests the Secretary of State to accept the transfer payment, after reaching age 60; or
+> - (b) the request is made following a notice given under regulation B5 (rejoining the scheme) in circumstances where the member had a previous opportunity to request the Secretary of State to accept a transfer payment in respect of those same rights but did not take that opportunity.
+
+.
+
+(2) In regulation N1(4) the words from “and N3” to the end shall be deleted and there shall be substituted the following words:–
+
+> - , N3 (transfers that are not made under the Public Sector Transfer Arrangements) and N3A (transfers in respect of members to whom regulation B6 applies who elect to rejoin the scheme) is applicable.
+
+.
+
+## 8. Transfers in respect of members to whom regulation B6 applies who elect to rejoin the scheme
+
+(1) After regulation N3 there shall be inserted the following regulation:–
+
+> **N3A. Transfers in respect of members to whom regulation B6 applies who elect to rejoin the scheme**
+>
+> (1) In the case of a member to whom regulation B6 applies, this regulation shall apply for the purpose of calculating the amount of the transfer payment by reference to which an additional period of pensionable service may be credited by the Secretary of State to that member.
+>
+> (2) Subject to paragraphs (3) and (4), the transfer payment in respect of which an additional period of pensionable service may be credited by the Secretary of State to a member referred to in paragraph (1) shall be calculated in a manner that is consistent with the actuarial methods and assumptions used by the Secretary of State to calculate cash equivalents under regulation M3 (amount of members cash equivalent) in the case of transfers that are not made under the Public Sector Transfer Arrangements and shall be of an amount equal to the total amount of–
+>
+> - (a) an amount which would enable the member to be credited by the scheme with such additional period of pensionable service as the Secretary of State may approve in respect of the period during which he made contributions to a personal pension scheme (“the relevant scheme”);
+> - (b) the amount of the cash equivalent, if any, which the member transferred to the relevant scheme by exercising a right under regulation M2 (exercising a right to transfer or buy-out) (“the transferred rights”); and
+> - (c) an amount, to be determined from time to time by the Government Actuary, which represents the income which would have been received on the amount referred to in sub-paragraph (b) had that amount been invested during the period commencing at the end of the month in which it was paid by the scheme to the relevant scheme and ending at the end of the month in which the transfer payment was paid to the scheme by the relevant scheme.
+>
+> (3) The amount, if any, payable by virtue of paragraphs 2(b) and (c) shall be at least equal to the amount of the cash equivalent transfer value which would be payable by the scheme in respect of the transferred-out service if the scheme were to pay a cash equivalent transfer value in respect of that service immediately after the time at which the transfer payment is paid to the scheme by the relevant scheme.
+>
+> (4) In the case of a member to whom regulation B6 applies who has been credited with an additional period of pensionable service calculated as specified in regulation N3 (transfers that are not made under the Public Sector Transfer Arrangements), the Secretary of State may adjust the amount of the transfer payment referred to in paragraph (2) on account of the payment by reference to which that pensionable service was credited.
+>
+> (5) In this regulation–
+>
+> - “personal pension scheme” has the same meaning as in regulation B6;
+> - “transfer payment” means the payment payable to the scheme by the relevant scheme in respect of a member to whom regulation B6 applies who elects to join or rejoin the scheme; and
+> - “transferred-out service” means the period of pensionable service which the member transferred-out of the scheme by exercising a right under regulation M2 (exercising a right to transfer or buy-out).
+
+.
+
+## 9. Reduction of pension on return to NHS employment
+
+(1) In regulation S2(1) for the words “E2 to E5 (early retirement pensions)” there shall be substituted the words “E1 to E6”.
+
+(2) The amendment made by paragraph (1) shall not apply in relation to a member who retired before the date when these Regulations come into force.
+
+## 10. Determination of questions
+
+In regulation U2 the words “and his decision shall be final” shall be deleted.
+
+Brian Wilson
+
+Minister of State, Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+27th May 1997
+
+We consent,
+
+Graham Allen
+
+Bob Ainsworth
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+2nd June 1997
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service Superannuation Scheme (Scotland) Regulations 1995 (“the Superannuation Scheme Regulations”). They make provision for persons who have been eligible to be pensionable under the Superannuation Scheme Regulations but who have opted to make contributions to a personal pension scheme and have suffered a loss as a result of a contravention which is actionable under section 62 of the Financial Services Act 1986 and make other miscellaneous amendments.
+
+Regulation 3 substitutes a new regulation B1 which provides for part-time, as well as full-time, employees to be included automatically in the National Health Service Superannuation Scheme for Scotland (“the scheme”) on taking up NHS employment. Previously part-time employees had to make an election to be included. However, a person who has opted out of or not elected to join the scheme and who is thus not included in the scheme at the date of coming into force of this regulation (1st September 1997) will not be automatically included at that date but if eligible, may make an election at any time to join or rejoin the scheme.
+
+Regulation 4 inserts a new regulation B6 into Part B of the Superannuation Scheme Regulations which makes special provision in respect of persons electing to rejoin the scheme who have previously opted out of the scheme as the result of a contravention which is actionable under section 62 of the Financial Services Act 1986 (mis-sold personal pensions).
+
+Regulation 5 makes amendments to the Superannuation Scheme Regulations which are consequential upon the insertion of regulation B6. In particular, the permitted maximum is disapplied where a person becoming a member in circumstances where regulation B6 applies was eligible to be a member before 1st June 1989, except where there has been a break in service.
+
+Regulation 6 makes an amendment to regulation M3 of the Superannuation Scheme Regulations which is consequential upon the insertion of regulation N3A. Regulation 7 makes amendments to Part N of the Superannuation Scheme Regulations which are consequential upon the insertion of regulation B6. It also re-inserts a provision which was omitted in error when the Superannuation Scheme Regulations were consolidated which prevents a person who has left and rejoined the scheme from transferring rights into the scheme if he has had a previous opportunity to do so and did not take it.
+
+Regulation 8 inserts a new regulation N3A into the Superannuation Scheme Regulations which makes provision for the calculation of the transfer payment by reference to which an additional period of pensionable service may be credited by the scheme to persons to whom regulation B6 applies.
+
+Regulation 9 amends regulation S2(1) of the Superannuation Scheme Regulations to correct an error made when consolidating the Regulations. It extends the provision for abatement of pensions on re-employment up to age 60 to cover the cases of members who are entitled to normal retirement pension at age 55 and members who are entitled to receive early payment of preserved pension. At present it applies only to cases of early retirement. The amendment will not apply to any person who has retired before the coming into force of these Regulations.
+
+Regulation 10 amends regulation U2 of the Superannuation Scheme by deleting the provision which made decisions of the Secretary of State final. This is consequential on the extension of the jurisdiction of the Pensions Ombudsman to the determination of disputes in relation to the scheme. It has retrospective effect from 1st April 1997, as authorised by section 12(1) of the Superannuation Act 1972.
+
+An assessment of the compliance cost to business of the measures arising from the reinstatement provisions of these Regulations has been placed in the libraries of both Houses of Parliament. Copies can be obtained by post from the Scottish Office Pensions Agency, Policy Branch, Room 506, St Margaret’s House, 151 London Road, Edinburgh EH8 7TG.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 10 was amended by Part II of Schedule 7 to the National Health Service (Scotland) Act [1972 (c. 58)](https://www.legislation.gov.uk/ukpga/1972/58) and sections 10(2A), (3A) and (6) and 12(4A) were inserted and sections 10(1) and 12(2) and (4) amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7), sections 4(2), 8(5) and 10.
+
+[^f00002]: Footnote: The function was transferred to the Treasury by S.I. [1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
+
+[^f00003]: Footnote: S.I. [1995/365](https://www.legislation.gov.uk/uksi/1995/365).
+
+[^f00004]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
+
+[^f00005]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^f00006]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).

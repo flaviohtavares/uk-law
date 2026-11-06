@@ -1,0 +1,39 @@
+---
+title: National Health Service (Scotland) Act 1978, section 17J
+act: National Health Service (Scotland) Act 1978
+section: 17J
+status: revised-with-pending-changes
+text_date: '2026-07-22'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1978/29/section/17J
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Health Service (Scotland) Act 1978, section 17J
+
+> **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 17J. Health Boards' power to enter into general medical services contracts[^c20947511]
+
+*Extent: S*
+
+(1) A Health Board may enter into a contract under which primary medical services are provided (whether directly or indirectly) by a contractor in accordance with the provisions of this Part.
+
+(2) A contract under this section is referred to in this Act as a “ **general medical services contract** ”.
+
+(3) Subject to any provision made by or under this Part, a general medical services contract may make such provision as may be agreed between the Health Board and the contractor as respects—
+
+- (a) the services to be provided under the contract;
+- (b) the remuneration to be paid under the contract; and
+- (c) any other matters.
+
+(4) The services to be provided under a general medical services contract may include services which are not primary medical services; and the contract may provide for such other services to be performed in any place where, by virtue of section 2C, primary medical services may be performed.
+
+(5) In this Part, “ **contractor** ”, in relation to a general medical services contract with a Health Board, means the other party to the contract.
+
+## Annotations
+
+[^c20947511]: Textual amendment: Ss. 17J-17O and cross-heading inserted (13.2.2004 for certain purposes otherwise 1.4.2004) by [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [ss. 4](https://www.legislation.gov.uk/asp/2004/1/section/4), [9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1/3), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule)

@@ -1,0 +1,274 @@
+---
+title: The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020
+id: uksi/2020/909
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-08-26'
+text_date: '2021-03-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2020/909
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/909/pdfs/uksiem_20200909_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/909/pdfs/uksi_20200909_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/909/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020
+
+> Text as at 2021-03-30.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2020 No. 909
+
+Children And Young Persons, England
+
+The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020
+
+Made
+
+26th August 2020
+
+Laid before Parliament
+
+28th August 2020
+
+Coming into force in accordance with regulations 1(2) and (3)
+
+The Secretary of State for Education, in exercise of the powers conferred by sections 22C(11), 23ZA(4)(b) and 104(4) of and paragraphs 12A, 12E and 12F of Schedule 2 to the Children Act 1989 [^c24277241], sections 22(1), (2)(d), (5)(a), (7)(a), (c) and (d), 31(7) and 118(5) and (7) of the Care Standards Act 2000 [^c24277251] and sections 9(1)(a) and 140(7) and (8) of the Adoption and Children Act 2002 [^c24277261] makes the following Regulations.
+
+In accordance with section 22(9) of the Care Standards Act 2000 the Secretary of State has consulted such persons as were considered appropriate.
+
+## 1. Citation and commencement[^key-2b1e961f6b1fc16cc6d61617485fbabf]
+
+(1) These Regulations may be cited as the Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020.
+
+(2) This regulation and regulation 7 come into force on 24th September.
+
+(3) The remainder of these Regulations come into force on 25th September.
+
+## 2. Amendment of the Residential Family Centres Regulations 2002[^key-6a68085231193fb97db31fc3b4215497]
+
+(1) The Residential Family Centres Regulations 2002 [^c24277271] are amended as follows.
+
+(2) After regulation 25(4) (visits by registered provider) insert—
+
+> (4A) Where paragraph (4B) applies any interview carried out under paragraph (4)(a) may be carried out by telephone, video-link or by other electronic means.
+>
+> (4B) This paragraph applies where complying with paragraph (4)(a)—
+>
+> - (a) would be contrary to any guidance relating to the incidence or transmission of coronavirus published by Public Health England or the Secretary of State for Health and Social Care, or
+> - (b) is not reasonably practicable for a reason relating to the incidence or transmission of coronavirus.
+>
+> (4C) In paragraph (4B) ‘coronavirus’ means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+>
+> (4D) The person carrying out the visit under paragraph (1) and (2) must keep a record of any interview carried out in accordance with paragraph (4A).
+
+.
+
+## 3. Amendment of the Adoption Agencies Regulations 2005[^key-b3e5b27283d53ef329fe24997eb7f8c1]
+
+(1) The Adoption Agencies Regulations 2005 [^c24277281] are amended as follows.
+
+(2) In regulation 26(b) (other pre-assessment information), at the beginning insert “ Subject to regulation 27(1A), ”.
+
+(3) After regulation 27(1) (pre-assessment decision) insert—
+
+> (1A) The adoption agency may make a decision under paragraph (1) even if the information requested under regulation 26(b) has yet to be obtained.
+>
+> (1B) The adoption agency must keep a record of any decision made in accordance with paragraph (1A).
+
+.
+
+(4) In regulation 30B (adoption agency decision and notification)—
+
+- (a) after paragraph (1) insert—
+
+  > (1A) The adoption agency must not make a decision under paragraph (1) until it has obtained the information required under regulation 26(b).
+
+  ,
+- (b) in paragraph (5)(c)(ii), at the beginning insert “ subject to paragraph (5A), ”, and
+- (c) after paragraph (5) insert—
+
+  > (5A) Where the adoption agency consider that the prospective adopter is not suitable to adopt because of information obtained under regulation 26(b) the prospective adopter may not apply to the Secretary of State for a review by an independent review panel of the qualifying determination.
+
+  .
+
+## 4. Amendment of the Care Planning, Placement and Case Review (England) Regulations 2010[^key-cee6c0b340d46584832901f6f1a77038]
+
+**No longer in force (ended 2020-09-25).**
+
+(1) The Care Planning, Placement and Case Review (England) Regulations 2010 [^c24277291] are amended as follows.
+
+(2) After regulation 28(1) (frequency of visits) insert—
+
+> (1A) Where paragraph (1B) applies any visit required by this regulation may be conducted by telephone, video-link or other electronic means.
+>
+> (1B) This paragraph applies where carrying out a visit other than in accordance with paragraph (1A)—
+>
+> - (a) would be contrary to any guidance relating to the incidence or transmission of coronavirus published by Public Health England or the Secretary of State for Health and Social Care, or
+> - (b) is not reasonably practicable for a reason relating to the incidence or transmission of coronavirus.
+>
+> (1C) any visit carried out in accordance with paragraph (1A) must be carried out in accordance with any recommendations given by the nominated officer.
+>
+> (1D) The responsible authority must keep a record of any visit carried out in accordance with paragraph (1A).
+>
+> (1E) In paragraph (1B) ‘coronavirus’ means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+.
+
+(3) In regulation 48 (application of these regulations with modifications to short breaks)—
+
+- (a) in paragraph (1) after “paragraph 3” insert “ and paragraph (4) ”,
+- (b) in paragraph (3) omit “The modifications are that—”, and
+- (c) at the end insert—
+
+  > (4) Where paragraph (5) applies any visit required by this regulation may be conducted by telephone, video-link or other electronic means.
+  >
+  > (5) This paragraph applies where carrying out a visit other than in accordance with paragraph (4)—
+  >
+  > - (a) would be contrary to any guidance relating to the incidence or transmission of coronavirus published by Public Health England or the Secretary of State for Health and Social Care, or
+  > - (b) is not reasonably practicable for a reason relating to the incidence or transmission of coronavirus.
+  >
+  > (6) Any visit carried out in accordance with paragraph (4) must be carried out in accordance with any recommendations given by the nominated officer.
+  >
+  > (7) The responsible authority must keep a record of any visit carried out in accordance with paragraph (4).
+  >
+  > (8) In this paragraph ‘coronavirus’ means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+  .
+
+## 5. Amendment of the Fostering Services (England) Regulations 2011[^key-55df603201f72c60d3ee4cf2fc615d1d]
+
+(1) The Fostering Services (England) Regulations 2011 [^c24277301] are amended as follows.
+
+(2) In regulation 26 (assessment of prospective foster parent)—
+
+- (a) for the opening words of paragraph (2) substitute—
+
+  > (2) Subject to paragraphs (2A) and (3), where the fostering service provider have obtained all the information set out in paragraph (1A) and have not given the notification in paragraph (1B), the fostering service provider must—
+
+  , and
+- (b) after paragraph (2) insert—
+
+  > (2A) The fostering service provider may comply with paragraph (2)(a) even if the information required by paragraph 2 of Schedule 3 has yet to be obtained.
+  >
+  > (2B) A fostering service provider must keep a record of any decision made in accordance with paragraph (2A).
+
+  .
+
+## 6. Amendment of the Children's Homes (England) Regulations 2015[^key-533fd24cfd429a73f7123374ba22c494]
+
+(1) The Children's Homes (England) Regulations 2015 [^c24277311] are amended as follows.
+
+(2) In regulation 22 (contact and access to communications)—
+
+- (a) in the opening words to paragraph (1) for “The registered person” substitute “ Subject to paragraph (1A) the registered person ”.
+- (b) after paragraph (1) insert—
+
+  > (1A) Where paragraph (1B) applies any meeting referred to in paragraph (1) may take place by telephone, video-link or other electronic means.
+  >
+  > (1B) This paragraph applies where a meeting taking place in accordance with paragraph (1)—
+  >
+  > - (a) would be contrary to any guidance relating to the incidence or transmission of coronavirus published by Public Health England or the Secretary of State for Health and Social Care, or
+  > - (b) is not reasonably practicable for a reason relating to the incidence or transmission of coronavirus.
+  >
+  > (1C) The registered person must keep a record of any meeting carried out in accordance with paragraph (1A).
+  >
+  > (1D) in this paragraph “**coronavirus**” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+  .
+
+## 7. Amendment of the Adoption and Children (Coronavirus) (Amendment) Regulations 2020[^key-61a18f9424c0c2f19e92b1f45c69438e][^key-61a18f9424c0c2f19e92b1f45c69438e]
+
+In regulation 14 of the Adoption and Children (Coronavirus) (Amendment) Regulations 2020 [^c24277321] (amendment of Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc) Regulations 2015)—
+
+- (a) in paragraph (1) after “Part 13” insert “ and paragraph (1A) ”,
+- (b) after paragraph (1) insert—
+
+  > (1A) The amendment made by regulation 12 ceases to have effect on 31st March 2021.
+
+  .
+
+## 8. Review and expiry[^key-469de1c51dfd4adad72b932b267689a5]
+
+(1) The Secretary of State must review the effectiveness of the amendments made by these Regulations during the period for which they have effect.
+
+(2) These Regulations expire at the end of 30th September 2021 *(Extent: E)*[^key-38eee20f3619d2e97f8a5772df46e9ee].
+
+(3) This regulation does not affect the validity of anything done pursuant to the amendments made by these Regulations before they cease to have effect.
+
+Vicky Ford
+
+Parliamentary Under Secretary of State for Children and Families
+
+Department for Education
+
+*(This note is not part of the Regulations)*
+
+These Regulations apply to England only.
+
+These Regulations make amendments to 6 sets of Regulations. The amendments are being made in order to assist the children's social care sector during the coronavirus pandemic and cease to have effect on the 31st March 2021.
+
+Regulation 2 amends the Residential Family Centres Regulations 2002 which make provision about the conduct and management of residential family centres. The amendments provide that, where it would be contrary to any guidance relating to the incidence or transmission of coronavirus published by Public Health England or the Secretary of State for Health and Social Care, or not reasonably practicable for a reason relating to the incidence or transmission of coronavirus, the interview required by regulation 25 of those Regulations may be carried out by telephone, video-link or other electronic means. Any use of the provision must be recorded.
+
+Regulation 3 amends the Adoption Agencies Regulations 2005 which set out the process for assessing the suitability of people to adopt a child and the suitability of children to be adopted. Regulation 3 amends the adopter approval process, to enable medical information that currently has to be collected during stage 1 of the approval process to be collected during stage 2 of that process. Any use of the provision must be recorded.
+
+Regulation 4 amends the Care Planning, Placement and Case Review (England) Regulations 2010 which set out the requirements of the care planning process. The amendments provide that, where it would be contrary to any guidance relating to the incidence or transmission of coronavirus published by Public Health England or the Secretary of State for Health and Social Care, or not reasonably practicable for a reason relating to the incidence or transmission of coronavirus, the visits required to be carried out under regulation 28 and 48 may be carried out by telephone, video-link or other electronic means. Any use of the provision must be carried out in accordance with any recommendations made by the nominated officer and recorded.
+
+Regulation 5 amends the Fostering Services (England) Regulations 2011 which set out the process for approvals as local authority foster parents. The amendments provide that the fostering service provider may move on to collecting the information required by regulation 26(2)(a) of those Regulations even though they have not yet received the medical information required. Any use of the provision must be recorded.
+
+Regulation 6 amends the Children's Homes (England) Regulations 2015 to provide that, where it would be contrary to any guidance relating to the incidence or transmission of coronavirus published by Public Health England or the Secretary of State for Health and Social Care, or not reasonably practicable for a reason relating to the incidence or transmission of coronavirus, any meeting taking place under regulation 22(1) of those Regulations may be carried out by telephone, video-link or other electronic means. Any use of the provision must be recorded.
+
+Regulation 7 amends regulation 14 of the Adoption and Children (Coronavirus) (Amendment) Regulations 2020 to provide that the amendment made by regulation 12 of those Regulations ceases to have effect on 31st March 2021. Regulation 12 omits regulation 27 of Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc) Regulations 2015 which sets out the frequency by which premises must be inspected.
+
+The Secretary of State must review the effectiveness of the amendments made by these Regulations during the period in which the amendments have effect.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+An Explanatory Memorandum is published alongside this instrument on www.legislation.gov.uk
+
+## Annotations
+
+[^c24277241]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22C(11) was amended by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413). Section 23ZA was inserted by section 15 of the [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23). Section 104(4)(c) was repealed by paragraph 25(5) of Schedule 3 to the Children and Young Persons Act 2008. Paragraphs 12A to 12G of Schedule 2 were substituted by paragraph 4 of Schedule 1 to the Children's and Young Persons Act 2008. Paragraph 12F of Schedule 2 was amended by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
+
+[^c24277251]: Marginal citation: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Section 22(1) was amended by section 103(1) of the [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6). Section 22(1)(b)(ii) was amended by [S.I. 2019/772](https://www.legislation.gov.uk/uksi/2019/772). Section 31(7) was amended by section 95 of and Schedule 5 to the Health and Social Care Act 2008.
+
+[^c24277261]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38). Section 140(7) was inserted by section 7(1) of the Children and Families Act 2014.
+
+[^key-2b1e961f6b1fc16cc6d61617485fbabf]: Commencement: Reg. 1 in force at 24.9.2020, see reg. 1(2)
+
+[^key-6a68085231193fb97db31fc3b4215497]: Commencement: Reg. 2 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
+
+[^c24277271]: Marginal citation: [S.I. 2002/3213](https://www.legislation.gov.uk/uksi/2002/3213). Amended by [S.I. 2013/499](https://www.legislation.gov.uk/uksi/2013/499) and [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions. There are other amendments not relevant to these Regulations.
+
+[^key-b3e5b27283d53ef329fe24997eb7f8c1]: Commencement: Reg. 3 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
+
+[^c24277281]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389). Amended by [S.I. 2011/589](https://www.legislation.gov.uk/uksi/2011/589), [S.I](https://www.legislation.gov.uk/uksi/2011/589/section/I). 2012/1410, [S.I. 2013/985](https://www.legislation.gov.uk/uksi/2013/985), [S.I](https://www.legislation.gov.uk/uksi/2013/985/section/I). 2005/3482 and [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions.
+
+[^key-cee6c0b340d46584832901f6f1a77038]: Commencement: Reg. 4 in force at 25.9.2020, see reg. 1(3)
+
+[^c24277291]: Marginal citation: [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959). Amended by [S.I. 2013/706](https://www.legislation.gov.uk/uksi/2013/706), [S.I](https://www.legislation.gov.uk/uksi/2013/706/section/I). 2011/581, [S.I. 2018/48](https://www.legislation.gov.uk/uksi/2018/48), [S.I](https://www.legislation.gov.uk/uksi/2018/48/section/I). 2015/495, [S.I. 2014/852](https://www.legislation.gov.uk/uksi/2014/852), [S.I](https://www.legislation.gov.uk/uksi/2014/852/section/I). 2014/2013, [S.I. 2014/1917](https://www.legislation.gov.uk/uksi/2014/1917), [S.I](https://www.legislation.gov.uk/uksi/2014/1917/section/I). 2011/581 and [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions. Regulation 22A was inserted by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556).
+
+[^key-55df603201f72c60d3ee4cf2fc615d1d]: Commencement: Reg. 5 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
+
+[^c24277301]: Marginal citation: [S.I. 2011/581](https://www.legislation.gov.uk/uksi/2011/581). Amended by [S.I. 2013/984](https://www.legislation.gov.uk/uksi/2013/984) and S.I 2020/445. The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions, including a savings provision relating to amendments to regulation 26.
+
+[^key-533fd24cfd429a73f7123374ba22c494]: Commencement: Reg. 6 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
+
+[^c24277311]: Marginal citation: [S.I. 2015/541](https://www.legislation.gov.uk/uksi/2015/541). Amended by [S.I. 2016/211](https://www.legislation.gov.uk/uksi/2016/211) and [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions.
+
+[^key-61a18f9424c0c2f19e92b1f45c69438e]: Commencement: Reg. 7 in force at 24.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/2)
+
+[^c24277321]: Marginal citation: [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions.
+
+[^key-469de1c51dfd4adad72b932b267689a5]: Commencement: Reg. 8 in force at 25.9.2020, see reg. 1(3)
+
+[^key-38eee20f3619d2e97f8a5772df46e9ee]: Textual amendment: Words in reg. 8(2) substituted (30.3.2021) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/261)](https://www.legislation.gov.uk/uksi/2021/261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/261/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/261/regulation/4)

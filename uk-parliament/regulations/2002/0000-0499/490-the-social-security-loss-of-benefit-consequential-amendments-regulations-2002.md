@@ -1,0 +1,251 @@
+---
+title: The Social Security (Loss of Benefit) (Consequential Amendments) Regulations 2002
+id: uksi/2002/490
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-03-05'
+text_date: '2026-04-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/490
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/490/pdfs/uksi_20020490_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/490/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Loss of Benefit) (Consequential Amendments) Regulations 2002
+
+> Text as at 2026-04-01.
+
+2002 No. 490
+
+SOCIAL SECURITY
+
+The Social Security (Loss of Benefit) (Consequential Amendments) Regulations 2002
+
+Made
+
+5th March 2002
+
+Laid before Parliament
+
+8th March 2002
+
+Coming into force
+
+1st April 2002
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 22(5), 122(1), 123(1)(a), (d) and (e), 124(1)(e), 135(1), 137(1) and 175(1) and (3) of the Social Security Contributions and Benefits Act 1992[^c964760], sections 5(3), 26(1) and (4)(d), 35(1) and 36(1), (2) and (4) of the Jobseekers Act 1995[^c964761], sections 9(1), 10(3) and (6), 79(1) and 84 of the Social Security Act 1998[^c964762] and sections 62(3), 65(1) and 69(1), (2)(a) and (7) of, and paragraphs 3(1), 4(4) and (6) and 23(1) of Schedule 7 to, the Child Support, Pensions and Social Security Act 2000[^c964763] and of all other powers enabling him in that behalf, after consultation, in respect of the provisions relating to housing benefit and council tax benefit, with organisations appearing to him to be representative of the authorities concerned[^c964764], by this Instrument, which contains only regulations which are consequential upon sections 7 to 13 of the Social Security Fraud Act 2001[^c964765] and which is made before the end of the period of six months beginning with the coming into force of those sections of that Act[^c964766], makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Loss of Benefit) (Consequential Amendments) Regulations 2002 and shall come into force on 1st April 2002.
+
+(2) In these Regulations—
+
+[^key-a1db2ebacd4311a3f81bf8bc1d6f2a5e]...
+
+[^key-a1db2ebacd4311a3f81bf8bc1d6f2a5e]...
+
+“the Income Support Regulations” means the Income Support (General) Regulations 1987 [^c964769];
+
+“the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations 1996 [^c964770].
+
+## 2. Severe Disability Premium
+
+(1) At the end of—
+
+- (a) paragraph 13 of Schedule 2 to the Income Support Regulations [^c964771];
+- (b)[^key-9d62da036abfa609fe6c5f3b1eba6e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-9d62da036abfa609fe6c5f3b1eba6e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(which relate to severe disability premium), there shall be added the following sub-paragraph—
+
+> (5) In sub-paragraph (2)(a)(iii) and (b), references to a person being in receipt of an invalid care allowance shall include references to a person who would have been in receipt of that allowance but for the application of a restriction under section 7 of the Social Security Fraud Act 2001 (loss of benefit provisions).
+
+.
+
+(2) In Schedule 1 to the Jobseeker’s Allowance Regulations—
+
+- (a) at the end of paragraph 15 [^c964774] (severe disability premium), there shall be added the following sub-paragraph—
+
+  > (9) In sub-paragraphs (1)(c) and (2)(d), references to a person being in receipt of an invalid care allowance shall include references to a person who would have been in receipt of that allowance but for the application of a restriction under section 7 of the Social Security Fraud Act 2001 (loss of benefit provisions).
+
+  ;
+- (b) at the end of paragraph 20I [^c964775] (severe disability premium), there shall be added the following sub-paragraph—
+
+  > (7) In sub-paragraph (1)(d), the reference to a person being in receipt of an invalid care allowance shall include a reference to a person who would have been in receipt of that allowance but for the application of a restriction under section 7 of the Social Security Fraud Act 2001 (loss of benefit provisions).
+
+  .
+
+## 3. Amendment of the Social Security (Credits) Regulations 1975
+
+In the Social Security (Credits) Regulations 1975 [^c964776]—
+
+- (a) in regulation 7A(1) (credits for invalid care allowance), after the words “paid to him,”, there shall be inserted the words “ or would be paid to him but for a restriction under section 7 of the Social Security Fraud Act 2001 (loss of benefit provisions) ”;
+- (b) in regulation 8A(2)(d) (credits for unemployment), after the words “Child Support, Pensions and Social Security Act 2000” there shall be inserted the words “ or section 7, 8 or 9 of the Social Security Fraud Act 2001 ”.
+
+## 4. Amendment of the Income Support Regulations
+
+At the end of paragraph 4(b) of Schedule 1B to the Income Support Regulations [^c964777] (prescribed categories of person—person caring for another), there shall be added the words “ or would be in receipt of that allowance but for the application of a restriction under section 7 of the Social Security Fraud Act 2001 (loss of benefit provisions) ”.
+
+## 5. Amendment of the Housing Benefit Regulations and of the Council Tax Benefit Regulations[^key-fd23788817899c1050fdd38e715c334a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of the Social Security (Back to Work Bonus) (No. 2) Regulations 1996
+
+In regulation 3(1) of the Social Security (Back to Work Bonus) (No. 2) Regulations 1996 [^c964778] (period of entitlement to a qualifying benefit: further provisions), after the words “Child Support, Pensions and Social Security Act 2000” there shall be inserted the words “ or section 7, 8 or 9 of the Social Security Fraud Act 2001 ”.
+
+## 7. Amendment of the Jobseeker’s Allowance Regulations
+
+In regulation 47(4)(b)(ii) [^c964779] of the Jobseeker’s Allowance Regulations (jobseeking period), after the words “Child Support, Pensions and Social Security Act 2000” there shall be inserted the words “ or section 7, 8 or 9 of the Social Security Fraud Act 2001 ”.
+
+## 8. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999
+
+In the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c964780]—
+
+- (a) after regulation 3(8A) (revision of decisions), there shall be inserted the following paragraph—
+
+  > (8B) Where a court convicts a person of an offence, that conviction results in a restriction being imposed under section 7, 8 or 9 of the Social Security Fraud Act 2001 (loss of benefit provisions) and that conviction is quashed or set aside by that or any other court, a decision of the Secretary of State under section 8(1)(a) or 10 made in accordance with regulation 6(2)(j) or (k) may be revised at any time.
+
+  ;
+- (b) after regulation 6(2)(i) (supersession of decisions), there shall be added the following sub-paragraphs—
+
+  > - (j) is a decision of the Secretary of State that a sanctionable benefit is payable to a claimant where that benefit ceases to be payable or falls to be reduced under section 7 or 9 of the Social Security Fraud Act 2001 and for this purpose “sanctionable benefit” has the same meaning as in section 7 of that Act;
+  > - (k) is a decision of the Secretary of State that a joint-claim jobseeker’s allowance is payable where that allowance ceases to be payable or falls to be reduced under section 8 of the Social Security Fraud Act 2001.
+
+  ;
+- (c) after regulation 7(27) (date from which a decision superseded under section 10 takes effect), there shall be added the following paragraph—
+
+  > (28) A decision to which regulation 6(2)(j) or (k) applies shall take effect from the first day of the disqualification period prescribed for the purposes of section 7 of the Social Security Fraud Act 2001 [^c964781].
+
+  .
+
+## 9. Amendment of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001
+
+In the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 [^c964782]—
+
+- (a) after regulation 4(7) (revision of decisions), there shall be inserted the following paragraph—
+
+  > (7A) Where a court convicts a person of an offence, that conviction results in a restriction being imposed under section 7, 8 or 9 of the Social Security Fraud Act 2001 (loss of benefit provisions) and that conviction is quashed or set aside by that or any other court, a decision of the relevant authority made in accordance with regulation 7(2)(g) or (h) may be revised at any time.
+
+  ;
+- (b) after regulation 7(2)(f) (decisions superseding earlier decisions), there shall be added the following sub-paragraphs—
+
+  > - (g) which is affected by a decision of the Secretary of State that a sanctionable benefit payable to a claimant ceases to be payable or falls to be reduced under section 7 or 9 of the Social Security Fraud Act 2001 and for this purpose “sanctionable benefit” has the same meaning as in section 7 of that Act; or
+  > - (h) which is affected by a decision of the Secretary of State that a joint-claim jobseeker’s allowance ceases to be payable or falls to be reduced under section 8 of the Social Security Fraud Act 2001.
+
+  ;
+- (c) after regulation 8(8) (date from which a decision superseding an earlier decision takes effect), there shall be added the following paragraph—
+
+  > (9) A decision to which regulation 7(2)(g) or (h) applies shall take effect from the first day of the disqualification period prescribed for the purposes of section 7 of the Social Security Fraud Act 2001.
+
+  .
+
+## 10. Amendment of the Discretionary Financial Assistance Regulations 2001
+
+In regulation 3(1) of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-725342aad41d86708aa65d8f83fea27c] [^c964783] (circumstances in which discretionary housing payments may be made), after the words “Child Support, Pensions and Social Security Act 2000” there shall be inserted the words *(Extent: E)* *(affected by repeal, see note)*[^key-725342aad41d86708aa65d8f83fea27c] “ or section 7, 8 or 9 of the Social Security Fraud Act 2001 ” *(Extent: E)* *(affected by repeal, see note)*[^key-725342aad41d86708aa65d8f83fea27c]. *(Extent: E)* *(affected by repeal, see note)*[^key-725342aad41d86708aa65d8f83fea27c]
+
+## 11. Amendment of the Social Security (Breach of Community Order) Regulations 2001
+
+In regulation 3 of the Social Security (Breach of Community Order) Regulations 2001 [^c964784] (prescribed period)—
+
+- (a) in paragraph (3), for “(5) and (6)” there shall be substituted “ (5), (6) and (6A) ”;
+- (b) after paragraph (6), there shall be inserted the following paragraph—
+
+  > (6A) For the purposes of paragraph (3), the prescribed period shall not include any week in respect of which a payment of income support is subject to a restriction imposed pursuant to section 7 or 9 of the Social Security Fraud Act 2001.
+
+  .
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Malcolm Wicks
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+5th March 2002
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in consequence of sections 7 to 13 of the Social Security Fraud Act 2001 (c.11) (“the Act”) which relate to restrictions in payment of certain benefits where a person has been convicted of one or more benefit offences in each of two separate proceedings and one offence is committed within three years of the conviction for another such offence (“the loss of benefit provisions”).
+
+The Regulations are made before the end of the period of six months beginning with the coming into force of the relevant provisions of the Act and are therefore exempt from the requirement in section 172(1) of the Social Security Administration Act 1992 (c.5) to refer proposals to make these Regulations to the Social Security Advisory Committee and are made without reference to that Committee.
+
+Regulation 2 amends the income-related benefit regulations so as to ensure that entitlement to the severe disability premium is not affected through the application of the loss of benefit provisions.
+
+Regulation 3 amends the Social Security (Credits) Regulations 1975 (S.I. 1975/556) to ensure that those whose invalid care allowance or jobseeker’s allowance is restricted through the application of the loss of benefit provisions do not lose credits.
+
+Regulation 4 amends the Income Support (General) Regulations 1987 (S.I. 1987/1967) to ensure that those whose invalid care allowance is restricted through the application of the loss of benefit provisions are still treated as carers for the purposes of those Regulations.
+
+Regulation 5 amends the Housing Benefit (General) Regulations 1987 (S.I. 1987/1971) and the Council Tax Benefit (General) Regulations 1992 (S.I. 1992/1814), to ensure that those whose jobseeker’s allowance is restricted through the application of the loss of benefit provisions, do not lose their housing benefit or council tax benefit as a result.
+
+Regulation 6 makes a consequential amendment to the Social Security (Back to Work Bonus) (No. 2) Regulations 1996 (S.I. 1996/2570).
+
+Regulation 7 amends the Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207) to ensure that days where contribution-based jobseeker’s allowance is not payable because of the loss of benefit provisions are treated as days of entitlement to that allowance.
+
+Regulations 8 and 9 amend the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (S.I. 1999/991) and the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 (S.I. 2001/1002) respectively to ensure that the decision-making and appeals mechanisms apply to decisions to restrict payment of benefit as a result of the loss of benefit provisions.
+
+Regulation 10 amends the Discretionary Financial Assistance Regulations 2001 (S.I. 2001/1167) to provide that discretionary housing payments shall not be made where the requirement for financial assistance arises as a consequence of the application of the loss of benefit provisions.
+
+Regulation 11 amends the Social Security (Breach of Community Order) Regulations 2001 (S.I. 2001/1395) so as to provide that a reduction in income support imposed for breach of a community order under section 62 of the Child Support, Pensions and Social Security Act 2000 (c.19) shall not take effect where a reduction of income support under the loss of benefit provisions is in operation.
+
+These Regulations do not impose a charge on business.
+
+## Annotations
+
+[^c964760]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); [section 22(5)](https://www.legislation.gov.uk/uksi/2002/490/section/22/5) is amended by paragraph 22 of Schedule 2 to the [Jobseekers Act 1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18). Section 123(1)(e) is substituted and section 137 amended, with respect to council tax benefit, by Schedule 9 to the [Local Government Finance Act 1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14). Section 124(1)(e) is inserted by paragraph 30(5) of Schedule 2 to the Jobseekers Act 1995. Sections 122(1) and 137(1) are interpretation provisions and are cited because of the meaning ascribed to the words “prescribe” and “prescribed” respectively.
+
+[^c964761]: Marginal citation: [Section 35(1)](https://www.legislation.gov.uk/uksi/2002/490/section/35/1) is an interpretation provision and is cited because of the meaning ascribed to the words “prescribed” and “regulations”.
+
+[^c964762]: Marginal citation: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14); [section 84](https://www.legislation.gov.uk/uksi/2002/490/section/84) is an interpretation provision and is cited because of the meaning ascribed to the word “prescribe”.
+
+[^c964763]: Marginal citation: [2000 c.19](https://www.legislation.gov.uk/ukpga/2000/19); [sections 65(1)](https://www.legislation.gov.uk/uksi/2002/490/section/65/1) and 69(7) and paragraph 23(1) of Schedule 7 are interpretation provisions and are cited because of the meaning ascribed to the word “prescribed”.
+
+[^c964764]: Marginal citation: *See* section 176(1) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5) as amended by section 69(6) of the Child Support, Pensions and Social Security Act 2000.
+
+[^c964765]: Marginal citation: [2001 c.11](https://www.legislation.gov.uk/ukpga/2001/11).
+
+[^c964766]: Marginal citation: [Section 12(3)(a)](https://www.legislation.gov.uk/uksi/2002/490/section/12/3/a) of that Act added sections 7 to 11 of that Act to the list of “the relevant enactments” in respect of which regulations must normally be referred to the Social Security Advisory Committee.*See* however section 173(5)(b) of the Social Security Administration Act 1992.
+
+[^key-a1db2ebacd4311a3f81bf8bc1d6f2a5e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/490/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c964769]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
+
+[^c964770]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
+
+[^c964771]: Marginal citation: The relevant amending instrument to paragraph 13 is [S.I. 2000/681](https://www.legislation.gov.uk/uksi/2000/681).
+
+[^key-9d62da036abfa609fe6c5f3b1eba6e0b]: Textual amendment: Reg. 2(1)(b)(c) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c964774]: Marginal citation: Paragraph 15 is amended by [S.I. 2000/681](https://www.legislation.gov.uk/uksi/2000/681).
+
+[^c964775]: Marginal citation: Paragraph 20I was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
+
+[^c964776]: Marginal citation: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556); [regulation 7A](https://www.legislation.gov.uk/uksi/2002/490/regulation/7A) was inserted by [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409) and regulation 8A was inserted by [S.I. 1996/2367](https://www.legislation.gov.uk/uksi/1996/2367). The relevant amending instruments are [S.I. 1988/1545](https://www.legislation.gov.uk/uksi/1988/1545), 2000/1483 and 2001/1711.
+
+[^c964777]: Marginal citation: [Schedule 1B](https://www.legislation.gov.uk/uksi/2002/490/schedule/1B) is inserted by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206), [paragraph 4(b)](https://www.legislation.gov.uk/uksi/1996/206/paragraph/4/b) of that Schedule is amended by [S.I. 2000/681](https://www.legislation.gov.uk/uksi/2000/681).
+
+[^key-fd23788817899c1050fdd38e715c334a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/490/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c964778]: Marginal citation: [S.I. 1996/2570](https://www.legislation.gov.uk/uksi/1996/2570); the relevant amending instrument is [S.I. 2001/1711](https://www.legislation.gov.uk/uksi/2001/1711).
+
+[^c964779]: Marginal citation: [Regulation 47(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2002/490/regulation/47/4/b/ii) is amended by [S.I. 2001/518](https://www.legislation.gov.uk/uksi/2001/518) and 1711.
+
+[^c964780]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); the relevant amending instruments are [S.I. 2000/897](https://www.legislation.gov.uk/uksi/2000/897) and 2001/1711.
+
+[^c964781]: Marginal citation: The beginning of the disqualification period for the purposes of section 7 is prescribed in regulation 2 of the [Social Security (Loss of Benefit) Regulations 2001 (S.I. 2001/4022)](https://www.legislation.gov.uk/uksi/2001/4022).
+
+[^c964782]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
+
+[^key-725342aad41d86708aa65d8f83fea27c]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2002/490/regulation/10) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+
+[^c964783]: Marginal citation: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167); [regulation 3(1)](https://www.legislation.gov.uk/uksi/2002/490/regulation/3/1) is added by [S.I. 2001/1711](https://www.legislation.gov.uk/uksi/2001/1711).
+
+[^c964784]: Marginal citation: [S.I. 2001/1395](https://www.legislation.gov.uk/uksi/2001/1395).

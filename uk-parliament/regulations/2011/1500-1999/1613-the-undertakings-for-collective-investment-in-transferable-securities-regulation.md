@@ -1,0 +1,1581 @@
+---
+title: The Undertakings for Collective Investment in Transferable Securities Regulations 2011
+id: uksi/2011/1613
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2011-06-30'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1613
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1613/pdfs/uksiem_20111613_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1613/pdfs/uksi_20111613_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1613/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Undertakings for Collective Investment in Transferable Securities Regulations 2011
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1613
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 1613
+
+Financial Services And Markets
+
+The Undertakings for Collective Investment in Transferable Securities Regulations 2011
+
+Made
+
+30th June 2011
+
+Coming into force
+
+1st July 2011
+
+[^c20914401][^c20914411]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to collective investment in transferable securities and other liquid assets, and to measures relating to investment firms and the provision of investment services.
+
+[^c20914421]A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with paragraph 2 of Schedule 2 to the European Communities Act 1972, and section 429(2) of the Financial Services and Markets Act 2000 .
+
+The Treasury, in exercise of the powers conferred on them under section 2(2) of the European Communities Act 1972 and by sections 262, and 428 of the Financial Services and Markets Act 2000, make these Regulations.[^key-b0d803a8e84eafc77377f1f1a422008b]
+
+## PART 1 — Citation and Commencement
+
+### 1.
+
+These Regulations may be cited as the Undertakings for Collective Investment in Transferable Securities Regulations 2011, and come into force on 1st July 2011.
+
+## PART 2 — Amendments to the Financial Services and Markets Act 2000
+
+### 2. Amendment of the Financial Services and Markets Act 2000
+
+(1) The Financial Services and Markets Act 2000 is amended as follows.
+
+(2) In section 66(2) [^c20914431], in paragraph (b)—
+
+- (a) after “regulation” insert “ or decision ”, and
+- (b) after “financial instruments directive” insert “ or the UCITS directive ”.
+
+(3) After section 90 [^c20914441], insert—
+
+> **90ZA. Liability for key investor information**
+>
+> (1) A person is not to be subject to civil liability solely on the basis of the key investor information produced in relation to a collective investment scheme or a sub-fund of such a scheme in accordance with rules or other provisions implementing Chapter IX of the UCITS directive, or of any translation of that information, unless the key investor information is misleading, inaccurate or inconsistent with the relevant parts of the prospectus published for that collective investment scheme or sub-fund in accordance with rules made by the Authority under section 248 of this Act.
+>
+> (2) In this section, a reference to a sub-fund of a collective investment scheme is a reference to a part of the property of the collective investment scheme which forms a separate pool where—
+>
+> - (a) the collective investment scheme provides arrangements for separate pooling of the contributions of the participants and the profits and income out of which payments are made to them; and
+> - (b) the participants are entitled to exchange rights in one pool for rights in another.
+
+.
+
+(4) In section 140(3)(b) [^c20914451], for “Article 1a.2” substitute “ Article 2.1(b) ”.
+
+(5) In section 145 [^c20914461], in subsection (3B)(b)—
+
+- (a) at the end of sub-paragraph (i), omit“or”;
+- (b) at the end of sub-paragraph (ii), insert “ ; or ”;
+- (c) after sub-paragraph (ii), insert—
+
+  > - (iii) Article 77 of the UCITS directive,
+
+  .
+
+(6) In section 184(7) [^c20914471] for “Article 1a.2” substitute “ Article 2.1(b) ”.
+
+(7) In section 193—
+
+- (a) in subsection (1), in the definition of “incoming firm”, after paragraph (a) insert—
+
+  > - (aa) an EEA UCITS which is a recognised scheme under section 264; or
+
+  ;
+- (b) after subsection (1) insert—
+
+  > (1A) In the definition of “incoming firm” references to an EEA UCITS include, in a case where the UCITS is not a body corporate, references to its management company.
+
+  ;
+- (c) in subsection (2), after “an EEA firm” insert “ or an EEA UCITS ”.
+
+(8) For section 195A [^c20914481], and the heading to that section, substitute—
+
+> **195A. Contravention by relevant EEA firm or EEA UCITS of directive requirements: home state regulator primarily responsible for securing compliance**
+>
+> (1) This section applies if the Authority has clear and demonstrable grounds for believing—
+>
+> - (a) that a relevant EEA firm has contravened, or is contravening, a requirement falling within subsection (2) (in a case to which Article 62.1 or 62.3 of the markets in financial instruments directive applies);
+> - (b) that a relevant EEA UCITS has contravened, or is contravening, a requirement falling within subsection (3) (in a case to which Article 108.4 of the UCITS directive applies).
+>
+> (2) A requirement falls within this subsection if it is imposed on the firm—
+>
+> - (a) by or under any provision adopted in the firm's home state for the purpose of implementing the markets in financial instruments directive; or
+> - (b) by any directly applicable Community regulation made under that directive.
+>
+> (3) A requirement falls within this subsection if it is imposed on the EEA UCITS—
+>
+> - (a) by or under any provision adopted in the home state of the EEA UCITS for the purpose of implementing the UCITS directive; or
+> - (b) by any directly applicable Community regulation or decision made under that directive.
+>
+> (4) The Authority must notify the home state regulator of the firm or EEA UCITS in writing of the situation mentioned in subsection (1).
+>
+> (5) The notice under subsection (4) must—
+>
+> - (a) request that the home state regulator take all appropriate measures for the purpose of ensuring that the firm or EEA UCITS puts an end to the contravention;
+> - (b) state that the Authority's powers of intervention are likely to become exercisable in relation to the firm or EEA UCITS if it continues the contravention; and
+> - (c) indicate any requirements that the Authority proposes to impose on the firm or EEA UCITS in exercise of its power of intervention in the event of the power becoming exercisable.
+>
+> (6) The Authority may exercise its power of intervention in respect of the firm or EEA UCITS if—
+>
+> - (a) a reasonable time has expired since the giving of the notice under subsection (4); and
+> - (b) conditions A to C are satisfied.
+>
+> (7) Condition A is that—
+>
+> - (a) the home state regulator of the firm or EEA UCITS has failed or refused to take measures for the purpose mentioned in subsection (5)(a); or
+> - (b) any measures taken by the home state regulator have proved inadequate for that purpose.
+>
+> (8) Condition B is that the firm or EEA UCITS is acting in a manner which is clearly prejudicial to the interests of investors in the United Kingdom or the orderly functioning of the markets.
+>
+> (9) Condition C is that the Authority has informed the home state regulator of the firm or EEA UCITS of its intention to exercise its power of intervention in respect of the firm or EEA UCITS.
+>
+> (10) Subsection (6) applies whether or not the Authority's power of intervention is also exercisable as a result of section 194 or 195.
+>
+> (11) If the Authority exercises its power of intervention in respect of a relevant EEA firm or EEA UCITS by virtue of subsection (6), it must at the earliest opportunity inform the Commission of—
+>
+> - (a) the fact that the Authority has exercised that power in respect of that firm or EEA UCITS; and
+> - (b) any requirements it has imposed on the firm or EEA UCITS in exercise of the power.
+>
+> (12) In this section—
+>
+> - “**home state**” means—
+>   - (a) in relation to a relevant EEA firm—
+>     - (i) in the case of a firm which is a body corporate, the EEA State in which the firm has its registered office or, if it has no registered office, its head office; and
+>     - (ii) in any other case, the EEA State in which the firm has its head office;
+>   - (b) in relation to a relevant EEA UCITS, the EEA State in which the UCITS is authorised pursuant to Article 5 of the UCITS directive;
+> - “**relevant EEA firm**” means an EEA firm falling within paragraph 5(a) or (b) of Schedule 3 which is exercising in the United Kingdom a right deriving from the markets in financial instruments directive;
+> - “**relevant EEA UCITS**” means a UCITS which is authorised pursuant to Article 5 of the UCITS directive in an EEA State other than the United Kingdom, and references to an EEA UCITS include, in a case where the UCITS is not a body corporate, references to its management company.
+
+.
+
+(9) In section 199 [^c20914491]—
+
+- (a) for subsection (2)(a) substitute—
+
+  > - (a) it is imposed—
+  >   - (i) by the Authority under this Act, or
+  >   - (ii) under any directly applicable Community regulation or decision made under a single market directive; and
+
+  ;
+- (b) in subsection (3A), after “paragraph 5(da)” insert “ or (f) ”;
+- (c) in subsection (3B), after “paragraph 5(da)” insert “ or (f) ”;
+- (d) after subsection (9), insert—
+
+  > (10) If an incoming EEA firm is exercising EEA rights under the UCITS directive, then the Authority must inform the Commission of any measures it has taken in the exercise of its power of intervention.
+
+  .
+
+(10) After section 199, insert—
+
+> **199A. Management companies: loss of authorisation**
+>
+> (1) This section applies in relation to an EEA firm falling within paragraph 5(f) of Schedule 3 (“a management company”) which is providing services in the United Kingdom in the exercise of an EEA right deriving from the UCITS directive.
+>
+> (2) If the Authority has been informed by the home state regulator of the management company that it is withdrawing the management company's authorisation, the Authority must exercise its powers under this Act in such manner as it thinks fit to safeguard the interests of investors in a collective investment scheme managed by the management company in the United Kingdom.
+>
+> (3) Measures taken under subsection (2) may include decisions preventing the management company from initiating any further transactions in the United Kingdom.
+>
+> (4) In this section “**collective investment scheme**” has the same meaning as in Part 17 of this Act.
+
+.
+
+(11) In sections 205 and 206(1) [^c20914501]—
+
+- (a) after “regulation” insert “ or decision ”, and
+- (b) after “financial instruments directive” insert “ or the UCITS directive ”.
+
+(12) In section 206A(2) [^c20914511], in the definition of “relevant requirement”—
+
+- (a) omit the “or” following paragraph (c);
+- (b) at the end of paragraph (d) insert “ or ”;
+- (c) after paragraph (d), insert—
+
+  > - (e) by any directly applicable Community regulation or decision made under the UCITS directive;
+
+(13) In section 213 [^c20914521], for subsection (10), substitute—
+
+> (10) But a person who, at that time—
+>
+> - (a) qualified for authorisation under Schedule 3, and
+> - (b) fell within a prescribed category in relation to any authorised activities,
+>
+> is not to be regarded as a relevant person in relation to those activities, unless the person had elected to participate in the scheme in relation to those activities at that time.
+>
+> (11) In subsection (10) “**authorised activities**”, in relation to a person, means activities for which the person had, at the time mentioned in that subsection, permission as a result of any provision of, or made under, Schedule 3.
+
+.
+
+(14) In section 237—
+
+- (a) in subsection (2)—
+  - (i) after the definition of “depositary”, insert—
+
+    > “**management company**” has the meaning given in Article 2.1(b) of the UCITS directive;
+
+    ;
+  - (ii) for the definition of “the operator”, substitute—
+
+    > “the operator”—
+    >
+    > - (a) in relation to a unit trust scheme with a separate trustee, means the manager;
+    > - (b) in relation to an open-ended investment company, means that company; and
+    > - (c) in relation to an EEA UCITS which is not an open-ended investment company or unit trust scheme, means the management company for that UCITS;
+
+    ;
+  - (iii) insert at the end—
+
+    > “**working day**” has the meaning given in section 191G(2).
+
+    ;
+- (b) in subsection (3)—
+  - (i) after the definition of “an authorised open-ended investment company”, insert—
+
+    > - “**EEA UCITS**” means a UCITS which is authorised pursuant to Article 5 of the UCITS directive in an EEA State other than the United Kingdom;
+    > - “**feeder UCITS**” means a UCITS, or a sub-fund of a UCITS, which has been approved by the Authority or (where relevant) by its home state regulator to invest 85% or more of the total property which is subject to the collective investment scheme constituted by the UCITS in units of another UCITS or UCITS sub-fund (the “master UCITS”);
+
+    ;
+  - (ii) after the definition of “a recognised scheme”, insert —
+
+    > - “**UCITS**” has the meaning given in Article 1.2 of the UCITS directive;
+    > - “**UK UCITS**” means a UCITS which is an authorised unit trust scheme or an authorised open-ended investment company.
+
+    ;
+- (c) after subsection (3), insert—
+
+  > (4) In this Part, references to a sub-fund of a UCITS are references to a part of the property of the UCITS which forms a separate pool where—
+  >
+  > - (a) the UCITS provides arrangements for separate pooling of the contributions of the participants and the profits and income out of which payments are made to them; and
+  > - (b) the participants are entitled to exchange rights in one pool for rights in another.
+
+  .
+
+(15) In section 243—
+
+- (a) for subsection (5), substitute—
+
+  > (5) The manager and the trustee must each be a body corporate incorporated in the United Kingdom or another EEA State, and the affairs of each must be administered in the country in which it is incorporated.
+  >
+  > (5A) The trustee must have a place of business in the United Kingdom, and the manager must have a place of business in the United Kingdom or in another EEA State.
+
+  ;
+- (b) after subsection (7) insert—
+
+  > (7A) The manager must be a fit and proper person to manage the unit trust scheme to which the application relates.
+
+  .
+
+(16) In section 244—
+
+- (a) in subsection (1), insert at the beginning “ Subject to subsection (1A), ”;
+- (b) insert after subsection (1)—
+
+  > (1A) An application under section 242 for authorisation of a unit trust scheme which is a UCITS must be determined by the Authority before the end of two months beginning with the date on which it receives the application.
+
+  .
+
+(17) In section 251, for subsection (1), substitute—
+
+> (A1) This section applies where the manager of an authorised unit trust scheme proposes—
+>
+> - (a) to make an alteration to the scheme, other than an alteration—
+>   - (i) to which section 252A applies; or
+>   - (ii) to which Part 4 of the Undertakings for Collective Investment in Transferable Securities Regulations 2011 (mergers) applies; or
+> - (b) to replace its trustee.
+>
+> (1) The manager must give written notice of the proposal to the Authority.
+
+.
+
+(18) In section 252—
+
+- (a) in the heading, for “of change of manager or trustee” substitute “ of a proposal under section 251 ”;
+- (b) in subsections (1) and (2), after “approval of a proposal” insert “ under section 251 ”.
+
+(19) After section 252, insert—
+
+> **252A. Proposal to convert to a non-feeder UCITS**
+>
+> (1) This section applies where the manager of an authorised unit trust scheme which is a feeder UCITS proposes to make an alteration to the scheme which—
+>
+> - (a) involves a change in the trust deed, and
+> - (b) will enable the scheme to convert into a UCITS which is not a feeder UCITS.
+>
+> (2) The manager must give written notice of the proposal to the Authority.
+>
+> (3) Any notice given in respect of such a proposal must be accompanied by—
+>
+> - (a) a certificate signed by a solicitor to the effect that the change will not affect the compliance of the deed with the trust scheme rules; and
+> - (b) the specified information.
+>
+> (4) The Authority must, within 15 working days after the date on which it received the notice under subsection (2), give—
+>
+> - (a) written notice to the manager of the scheme that the Authority approves the proposed amendments to the trust deed, or
+> - (b) separate warning notices to the manager and trustee of the scheme that the Authority proposes to refuse approval of the proposed amendments.
+>
+> (5) Effect is not to be given to any proposal of which notice has been given under subsection (2) unless the Authority, by written notice, has given its approval to the proposal.
+>
+> (6) If, having given a warning notice to a person, the Authority decides to refuse approval—
+>
+> - (a) it must give that person a decision notice; and
+> - (b) that person may refer the matter to the Tribunal.
+>
+> (7) Subsection (8) applies where—
+>
+> - (a) the notice given under subsection (2) relates to a proposal to amend the trust deed of a feeder UCITS to enable it to convert into a UCITS which is not a feeder UCITS following the winding-up of its master UCITS; and
+> - (b) the proceeds of the winding-up are to be paid to the feeder UCITS before the date on which the feeder UCITS proposes to start investing in accordance with the new investment objectives and policy provided for in its amended trust deed and scheme rules.
+>
+> (8) Where this subsection applies, the Authority may only approve the proposal subject to the conditions set out in section 283A(5) and (6).
+>
+> (9) In this section, “**specified**” means—
+>
+> - (a) specified in rules made by the Authority to implement the UCITS directive, or
+> - (b) specified in any directly applicable Community regulation or decision made under the UCITS directive.
+
+.
+
+(20) In section 257(1), for paragraph (b), substitute—
+
+> - (b) the manager or trustee of an authorised unit trust scheme has contravened, or is likely to contravene, a requirement imposed—
+>   - (i) by or under this Act; or
+>   - (ii) by any directly applicable Community regulation or decision made under the UCITS directive;
+
+.
+
+(21) After section 258, insert—
+
+> **258A. Winding up or merger of master UCITS**
+>
+> (1) Subsection (2) applies if a master UCITS which has one or more feeder UCITS which are authorised unit trust schemes is wound up, whether as a result of a direction given by the Authority under section 257, an order of the court under section 258, rules made by the Authority or otherwise.
+>
+> (2) The Authority must direct the manager and trustee of any authorised unit trust scheme which is a feeder UCITS of the master UCITS to wind up the feeder UCITS unless—
+>
+> - (a) the Authority approves under section 283A the investment by the feeder UCITS of at least 85% of the total property which is subject to the collective investment scheme constituted by the feeder UCITS in units of another UCITS or master UCITS; or
+> - (b) the Authority approves under section 252A an amendment of the trust deed of the feeder UCITS which would enable it to convert into a UCITS which is not a feeder UCITS.
+>
+> (3) Subsection (4) applies if a master UCITS which has one or more feeder UCITS which are authorised unit trust schemes—
+>
+> - (a) merges with another UCITS, or
+> - (b) is divided into two or more UCITS.
+>
+> (4) The Authority must direct the manager and trustee of any authorised unit trust scheme which is a feeder UCITS of the master UCITS to wind up the scheme unless—
+>
+> - (a) the Authority approves under section 283A the investment by the scheme of at least 85% of the total property which is subject to the collective investment scheme constituted by the feeder UCITS in the units of—
+>   - (i) the master UCITS which results from the merger;
+>   - (ii) one of the UCITS resulting from the division; or
+>   - (iii) another UCITS or master UCITS;
+> - (b) the Authority approves under section 252A an amendment of the trust deed of the scheme which would enable it to convert into a UCITS which is not a feeder UCITS.
+
+.
+
+(22) In section 259—
+
+- (a) in the heading, after “section 257” insert “ or 258A ”;
+- (b) in subsection (1), after “direction” insert “ under section 257 or 258A ”;
+- (c) in subsection (6), for “imposes a requirement under section 257(2)(b)” substitute “ is given under section 257(2)(b) or section 258A(2) or (4) ”.
+
+(23) After section 261, insert—
+
+> **261A. Information for home state regulator**
+>
+> (1) Subsection (2) applies if, in accordance with rules made by the Authority to implement Article 66 of the UCITS directive, the Authority is informed by the manager of an authorised unit trust scheme which is a master UCITS that a feeder UCITS which invests in units of the scheme is an EEA UCITS.
+>
+> (2) The Authority must immediately inform the home state regulator of the feeder UCITS of the investment made by that UCITS in the master UCITS.
+>
+> **261B. Information for feeder UCITS**
+>
+> (1) The Authority must immediately inform the operator of any authorised unit trust scheme which is a feeder UCITS of an authorised unit trust scheme or an authorised open-ended investment company (the master UCITS) of—
+>
+> - (a) any failure of which the Authority becomes aware by the master UCITS to comply with a provision made in implementation of Chapter VIII of the UCITS directive;
+> - (b) any warning notice or decision notice given to the master UCITS in relation to a contravention of any provision made in implementation of Chapter VIII of the UCITS directive by or under any enactment or in rules of the Authority;
+> - (c) any information reported to the Authority pursuant to rules of the Authority made to implement Article 106(1) of the UCITS directive which relates to the master UCITS, or to one or more of its directors, or its management company, trustee, depositary or auditor.
+>
+> (2) The Authority must immediately inform the operator of any authorised unit trust scheme which is a feeder UCITS of an EEA UCITS of any information received from the home state regulator of the EEA UCITS in relation to—
+>
+> - (a) any failure by the EEA UCITS to comply with any requirement in Chapter VIII of the UCITS directive;
+> - (b) any decision or measure imposed on the EEA UCITS under provisions implementing Chapter VIII of the UCITS directive;
+> - (c) any information reported to the home state regulator pursuant to Article 106(1) of the UCITS directive relating to the EEA UCITS, its operator, depositary or auditor.
+>
+> (3) Where the Authority has the information described in subsection (1)(a), (b) or (c) in relation to an authorised unit trust scheme which is a master UCITS for one or more feeder UCITS which are EEA UCITS, the Authority must immediately give that information to the home state regulator of each feeder UCITS established outside the United Kingdom.
+
+.
+
+(24) In section 264—
+
+- (a) at the end of subsection (1)(a), omit“and”;
+- (b) for subsection (1)(b), substitute—
+
+  > - (b) the home state regulator of the operator of the scheme has transmitted to the Authority notice of the operator's intention to invite persons in the United Kingdom to participate in the scheme; and
+  > - (c) the notice from the home state regulator—
+  >   - (i) complies with the requirements of any directly applicable Community regulation or decision made under the UCITS directive, and
+  >   - (ii) is accompanied by such other information as may be prescribed.
+
+  ;
+- (c) omit subsections (2), (3) and (4).
+
+(25) Omit section 265.
+
+(26) After section 283, insert—
+
+> **CHAPTER 5A — MASTER-FEEDER STRUCTURES**
+>
+> **283A. Master-feeder structures**
+>
+> (1) The operator of a UK UCITS may not invest a higher proportion of the property which is subject to the collective investment scheme constituted by that UCITS in units of another UCITS than is permitted by rules made by the Authority implementing Article 55 of the UCITS directive unless the investment is approved by the Authority in accordance with this section.
+>
+> (2) An application for approval under subsection (1) of an investment must be made by the operator of the UK UCITS in such manner, and accompanied by such information, as is required by rules made by the Authority.
+>
+> (3) The Authority must grant an application made under subsection (2) if it is satisfied—
+>
+> - (a) that the UCITS, its operator, trustee or depositary and auditor and the UCITS in which it proposes to invest, and its operator, have complied with—
+>   - (i) the requirements laid down in Chapter VIII of the UCITS directive, and
+>   - (ii) any other requirements imposed by the Authority in relation to the application;
+> - (b) in a case where the application is made by the operator of a feeder UCITS in respect of the investment of the proceeds of the winding-up of its master UCITS, that the proceeds of the winding up are to be paid to the feeder UCITS before the date on which the investment is to be made.
+>
+> (4) In a case within subsection (3)(b), approval must be subject to the conditions in subsections (5) and (6).
+>
+> (5) The first condition is that the feeder UCITS is to receive the proceeds of the winding-up—
+>
+> - (a) in cash; or
+> - (b) wholly or partly in assets other than cash in a case where the feeder UCITS so elects and each of the following so permits—
+>   - (i) the decision of the master UCITS that it should be wound up;
+>   - (ii) the trust deed or instrument of incorporation of the feeder UCITS; and
+>   - (iii) either the agreement between the feeder UCITS and its master UCITS, or the internal conduct of business rules operated by the feeder UCITS and the master UCITS in accordance with rules made by the Authority.
+>
+> (6) The second condition is that cash received by the feeder UCITS in accordance with paragraph (5)(a) may not be reinvested before the date on which the feeder UCITS proposes to invest in the new UCITS, except for the purpose of efficient cash management.
+>
+> (7) The Authority must, within 15 working days of the date on which the Authority had received all the information required in relation to the application, give written notice to the operator—
+>
+> - (a) that the Authority approves its application, or
+> - (b) that the Authority objects to the application.
+>
+> (8) Following receipt of notice that the Authority objects to the application, the operator may refer the Authority's decision to the Tribunal.
+>
+> **283B. Reports on derivative instruments**
+>
+> (1) An authorised person who is the management company in relation to a UCITS must report to the Authority at specified intervals of not more than 12 months about any investment in derivative instruments during the specified period to which the report relates.
+>
+> (2) The report must be in the specified form and contain the specified information.
+>
+> (3) The Authority must review the regularity and completeness of the information provided by each management company under subsection (1).
+>
+> (4) In this section, “**specified**” means specified—
+>
+> - (a) in rules made by the Authority to implement the UCITS directive, or
+> - (b) in any directly applicable Community regulation or decision made under the UCITS directive.
+
+.
+
+(27) In section 301E(7) [^c20914531] for “Article 1a.2” substitute “ Article 2.1(b) ”.
+
+(28) After section 351, insert—
+
+> **351A. Disclosure under the UCITS directive**
+>
+> (1) This section applies in relation to a disclosure made by a person who falls within subsection (2) for the purpose of compliance with requirements set out in rules made by the Authority to implement Chapter VIII of the UCITS directive.
+>
+> (2) The following persons fall within this subsection—
+>
+> - (a) the auditor of an authorised unit trust scheme that is a master UCITS;
+> - (b) the trustee of an authorised unit trust scheme that is a master UCITS;
+> - (c) the auditor of an authorised unit trust scheme that is a feeder UCITS;
+> - (d) the trustee of an authorised unit trust scheme that is a feeder UCITS; or
+> - (e) a person acting on behalf of a person within paragraph (a), (b), (c) or (d) above.
+>
+> (3) A disclosure to which this section applies is not to be taken as a contravention of any duty to which the person making the disclosure is subject.
+>
+> (4) In this section, “authorised unit trust scheme”, “master UCITS” and “feeder UCITS” have the meaning given in section 237.
+
+.
+
+(29) In subsection (6)(a)(i) of section 380, subsection (9)(a)(i) of section 382, and subsection (7)(a) of section 384 [^c20914541], in the definition of “relevant requirement”—
+
+- (a) after “regulation” insert “ or decision ”, and
+- (b) after “financial instruments directive” insert “ or the UCITS directive ”.
+
+(30) In section 409(1), omit paragraph (e).
+
+(31) In section 422A(7) [^c20914551] for “Article 1a.2” substitute “ Article 2.1(b) ”.
+
+(32) In Schedule 1, in paragraph 6(1) and (3) [^c20914561]—
+
+- (a) for “Community regulation” substitute “ Community regulation or decision ”;
+- (b) after “markets in financial instruments directive” insert “ or the UCITS directive ”.
+
+(33) In Schedule 3—
+
+- (a) for paragraph 4B [^c20914571] substitute—
+
+  > **4B.**
+  >
+  > “**The UCITS directive**” means the Directive of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (No [2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065)).
+
+  ;
+- (b) in paragraph 5, for sub-paragraph (f) [^c20914581], substitute—
+
+  > - (f) a management company (as defined in paragraph 11B) which is authorised (within the meaning of Article 6 of the UCITS directive) by its home state regulator.
+
+  ;
+- (c) after paragraph 11A [^c20914591], insert—
+
+  > **11B. Management company**
+  >
+  > “**Management company**” has the meaning given in Article 2.1(b) of the UCITS directive.
+  >
+  > **11C. UCITS**
+  >
+  > “**UCITS**” has the meaning given in Article 1.2 of the UCITS directive.
+- (d) for paragraph 15A [^c20914601], substitute**—**
+
+  > **15A. Application for approval to manage UCITS**
+  >
+  > (1) An EEA firm falling within paragraph 5(f) which wishes to manage a UK UCITS must apply to the Authority in the specified form for approval to manage that UCITS.
+  >
+  > (2) Where the EEA firm satisfies the conditions in paragraph 13 (establishment conditions) or paragraph 14 (service conditions), the Authority may only refuse the application if it determines that one of the grounds set out in sub-paragraph (3) applies.
+  >
+  > (3) The grounds referred to in sub-paragraph (2) are—
+  >
+  > - (a) that the EEA firm does not comply with the UCITS home state rules;
+  > - (b) that the firm is not authorised by its home state regulator to manage the type of collective investment scheme for which authorisation is requested; or
+  > - (c) that the firm has not provided the documentation required under Article 20(1) of the UCITS directive.
+  >
+  > (4) The Authority must give a notice to the EEA firm, the firm's home state regulator and the Commission of the Authority's determination under sub-paragraph (2).
+  >
+  > (5) Before giving a notice under sub-paragraph (4), the Authority must consult the home state regulator of the firm.
+  >
+  > (6) A notice given by the Authority under sub-paragraph (4) must—
+  >
+  > - (a) give the Authority's reasons for considering that one of the grounds set out in sub-paragraph (3) is satisfied; and
+  > - (b) specify a reasonable period (which may not be less than 28 days) within which any person to whom it is given may make representations to the Authority.
+  >
+  > (7) In this paragraph—
+  >
+  > - “**specified**” means specified—
+  >   - (a) in rules made by the Authority to implement the UCITS directive, or
+  >   - (b) in any directly applicable Community regulation or decision made under the UCITS directive;
+  > - “**UCITS home state rules**” means requirements which are imposed by or under this Act so far as relating to matters falling within Article 19(3) and (4) of the UCITS directive.
+  >
+  > **15B. Representations and references to the Tribunal**
+  >
+  > (1) Within a reasonable time after the end of the period for making representations, the Authority must decide, in the light of any representations made to it during that period by a person to whom notice has been given under paragraph 15A(4), whether to withdraw the notice.
+  >
+  > (2) If the Authority decides not to withdraw its notice, it must—
+  >
+  > - (a) give a decision notice to each person to whom the notice under paragraph 15A(4) was given, and
+  > - (b) inform the firm's home state regulator and the Commission that authorisation has been refused, and of the grounds for the refusal.
+  >
+  > (3) The management company to whom the decision notice is given may refer the matter to the Tribunal.
+  >
+  > **15C. Information to home state regulator**
+  >
+  > (1) Where an EEA firm falling within paragraph 5(f) has applied to manage a UCITS established in the United Kingdom, the Authority must without delay inform the home state regulator of that firm of any problem of which they are aware that may materially affect the ability of the firm—
+  >
+  > - (a) to perform its duties properly, or
+  > - (b) to comply with the home state rules.
+  >
+  > (2) In sub-paragraph (1), “**home state rules**” means rules—
+  >
+  > - (a) made by the EEA State concerned in accordance with the UCITS directive; and
+  > - (b) which are the responsibility of that EEA State (both as to implementation and as to supervision of compliance) in accordance with that directive.
+
+  ;
+- (e) for paragraph 19(4), substitute**—**
+
+  > (4) The second is that—
+  >
+  > - (a) the Authority has given notice in specified terms (“a consent notice”) to the host state regulator; and
+  > - (b) where the firm is a management company which wishes to pursue the activity of collective portfolio management referred to in Annex II to the UCITS directive, the Authority has provided to the host state regulator—
+  >   - (i) confirmation that the firm has been authorised as a management company pursuant to the provisions of the UCITS directive;
+  >   - (ii) a description of the scope of the management company's authorisation; and
+  >   - (iii) details of any restriction on the types of UCITS that the management company is authorised to manage.
+
+  ;
+- (f) in paragraph 19(6), omit the words “the UCITS directive”;
+- (g) after paragraph 19(6), insert**—**
+
+  > (6A) If the firm's EEA right derives from the UCITS directive and the first condition is satisfied, the Authority must give a consent notice and information about the compensation scheme to the host state regulator unless it has reason to doubt the adequacy of the firm's resources or its administrative structure, and must do so within two months beginning with the date on which it received the firm's notice of intention.
+
+  ;
+- (h) after paragraph 19(12), insert—
+
+  > (12ZA) If the firm's EEA right derives from the UCITS directive, the Authority must inform the Commission if it decides to refuse to give a consent notice, giving the reasons for that refusal.
+
+  ;
+- (i) after paragraph 20(3), insert—
+
+  > (3ZA) If the firm's EEA right derives from the UCITS directive, the Authority must provide information about the compensation scheme with the information provided to the host state regulator under sub-paragraph (3).
+
+  ;
+- (j) after paragraph 20(3B) [^c20914611], insert—
+
+  > (3C) If the firm is a management company which wishes to pursue the activity of collective portfolio management referred to in Annex II to the UCITS directive, the Authority must send with the documentation provided to the host state regulator under sub-paragraph (3)—
+  >
+  > - (a) confirmation that the firm has been authorised as a management company pursuant to the provisions of the UCITS directive;
+  > - (b) a description of the scope of the management company's authorisation; and
+  > - (c) details of any restriction on the types of UCITS that the management company is authorised to manage.
+
+  ;
+- (k) in paragraph 20(4B) [^c20914621] after “markets in financial instruments directive” insert “ or the UCITS directive ”;
+- (l) after paragraph 20, insert—
+
+  > **20ZA. Information for host state regulator**
+  >
+  > (1) The Authority must keep a record of the confirmation and other information provided to the host state regulator under paragraph 19(4) or paragraph 20(3C) in relation to a UK firm which is a management company.
+  >
+  > (2) The Authority must inform the host state regulator whenever there is a change in the confirmation or other information referred to in sub-paragraph (1).
+
+  ;
+- (m) after paragraph 20A [^c20914631], insert—
+
+  > **20B. Notice of intention to market**
+  >
+  > (1) The operator of a UCITS established in the United Kingdom may not exercise an EEA right to market the units of that UCITS in the territory of another EEA State unless the operator has given the Authority, in the specified way, notice of its intention to market the units (“notice of intention”) which contains, and is accompanied by, such information as may be specified in rules, or in regulations made by the European Commission under the UCITS directive.
+  >
+  > (2) The Authority must ensure that the information referred to in sub-paragraph (1) may be transmitted to it electronically.
+  >
+  > (3) The Authority must verify whether the information submitted with the notice of intention is complete and, within 10 days of the date on which the Authority received the complete information required, send to the host state regulator—
+  >
+  > - (a) a copy of the notice of intention;
+  > - (b) the accompanying information; and
+  > - (c) confirmation that the operator and the UCITS fulfil the conditions imposed by the UCITS directive.
+  >
+  > (4) The Authority must ensure that the host state regulator has electronic access to the information and documents referred to in sub-paragraph (3).
+  >
+  > (5) The Authority must notify the operator immediately that the information referred to in sub-paragraph (3) has been sent to the competent authorities of the host state regulator.
+  >
+  > (6) The operator may market the units of the UCITS in the territory of the host state regulator from the moment it receives the notification referred to in sub-paragraph (5).
+  >
+  > (7) In this paragraph—
+  >
+  > - “**operator**” has the same meaning as in section 237 of this Act;
+  > - “**specified**” means specified in rules.
+
+  ;
+- (n) After paragraph 25 [^c20914641], insert—
+
+  > **26. UK management companies: delegation of functions**
+  >
+  > Where a UK firm which is a management company and is providing services in the exercise of an EEA right to an EEA UCITS informs the Authority that it has delegated one or more of its functions to a third party, the Authority must transmit that information to the home state regulator of the EEA UCITS without delay.
+  >
+  > **27. UK management companies: withdrawal of authorisation**
+  >
+  > Where a UK firm which is a management company has exercised an EEA right deriving from the UCITS directive to establish a branch or to provide services in another EEA State, the Authority must consult the home state regulator of any UCITS managed by that management company before taking a decision to withdraw the authorisation of the management company under section 33.
+  >
+  > **28. Management companies: request for information**
+  >
+  > (1) Where a UK firm has applied to manage a UCITS which is established in another EEA State, the home state regulator of the UCITS may—
+  >
+  > - (a) request further information from the Authority regarding the documents referred to in Article 20.1 of the UCITS directive, and
+  > - (b) ask the Authority whether the type of UCITS for which the UK firm has applied to provide its services falls within the scope of the authorisation of the UK firm.
+  >
+  > (2) The Authority must respond to a request under sub-paragraph (1)(a) or (b) within 10 working days of the date on which the request was received.
+
+  .
+
+## PART 3 — Amendments to secondary legislation
+
+### 3. Amendment of the Open-Ended Investment Companies Regulations 2001
+
+(1) The Open-Ended Investment Companies Regulations 2001 [^c20914651] are amended as follows.
+
+(2) In regulation 14—
+
+- (a) in paragraph (4) insert at the beginning “ Subject to paragraph (4A) ”;
+- (b) after paragraph (4) insert—
+
+  > (4A) Where the application relates to an open-ended investment company which is a UCITS, it must be determined by the Authority before the end of two months beginning with the date on which it receives the application.
+
+(3) In regulation 21—
+
+- (a) in paragraph (1)(a), insert at the end “ other than one to which regulation 22A applies ”
+- (b) in paragraph (1)(c), insert at the end “ other than a proposed merger to which Part 4 of the Undertakings for Collective Investment in Transferable Securities Regulations 2010 applies ”;
+
+(4) After regulation 22, insert—
+
+> **22A. The Authority's approval for conversion of a feeder UCITS**
+>
+> (1) An open-ended investment company must give written notice to the Authority of any proposal to amend its instrument of incorporation to enable it to convert into a UCITS which is not a feeder UCITS.
+>
+> (2) Any notice given in respect of such a proposal must be accompanied by—
+>
+> - (a) a certificate signed by a solicitor to the effect that the amendment will not affect the compliance of the instrument of incorporation with Schedule 2 to these Regulations and with such of the requirements of FSA rules as relate to the contents of that instrument; and
+> - (b) the specified information.
+>
+> (3) Paragraph (4) applies where—
+>
+> - (a) the notice given under subsection (1) relates to a proposal to amend the instrument of incorporation of an open-ended investment company which is a feeder UCITS to enable it to convert into a UCITS which is not a feeder UCITS following the winding-up of its master UCITS; and
+> - (b) the proceeds of the winding-up are to be paid to the company before the date on which it proposes to start investing in accordance with the new investment objectives and policy provided for in its amended instrument of incorporation.
+>
+> (4) Where this paragraph applies, the Authority may only approve the proposal subject to the conditions set out in section 283A(5) and (6) of the Act.
+>
+> (5) The Authority must, within fifteen working days from the date on which it received the notice under paragraph (1), give—
+>
+> - (a) written notice that it approves the proposed amendments to the instrument of incorporation, or
+> - (b) a warning notice under regulation 22 that it proposes to refuse approval of the proposed amendments.
+>
+> (6) Effect is not to be given to any proposal of which notice has been given under subsection (1) unless the Authority, by written notice, has given its approval to the proposal.
+>
+> (7) If the Authority proposes to refuse approval of the proposal it must give separate warning notices to the company and to its depositary.
+>
+> (8) If, having given a warning notice to a person, the Authority decides to refuse approval—
+>
+> - (a) it must give that person a decision notice; and
+> - (b) that person may refer the matter to the Tribunal.
+>
+> (9) In this regulation, “**specified**” means specified in—
+>
+> - (a) rules made by the Authority to implement the UCITS directive, or
+> - (b) any directly applicable Community regulation or decision made under the UCITS directive.
+
+(5) After regulation 29, insert—
+
+> **Information**
+>
+> **29A. Information for home state regulator**
+>
+> (1) Paragraph (2) applies if, in accordance with rules made by the Authority to implement Article 66 of the UCITS directive, the Authority is informed by an open-ended investment company which is a master UCITS that a feeder UCITS which invests in shares of the master UCITS is an EEA UCITS.
+>
+> (2) The Authority must immediately inform the home state regulator of the feeder UCITS of the investment made by that UCITS in the master UCITS.
+>
+> **29B. Information for feeder UCITS**
+>
+> (1) The Authority must immediately inform any authorised open-ended investment company which is a feeder UCITS of an open-ended investment company or authorised unit trust scheme (the master UCITS) of—
+>
+> - (a) any failure of which the Authority becomes aware by the master UCITS to comply with a provision made in implementation of Chapter VIII of the UCITS directive;
+> - (b) any warning notice or decision notice given to the master UCITS in relation to a contravention of any provision made in implementation of Chapter VIII of the UCITS directive by or under any enactment or in rules of the Authority;
+> - (c) any information reported to the Authority pursuant to rules of the Authority made to implement Article 106(1) of the UCITS directive which relates to the master UCITS, or to one or more of its directors, its operator, trustee, depository or auditor.
+>
+> (2) The Authority must immediately inform any authorised open-ended investment company which is a feeder UCITS of an EEA UCITS of any information received from the home state regulator of the EEA UCITS in relation to—
+>
+> - (a) any failure by the EEA UCITS to comply with any requirement in Chapter VIII on the UCITS directive;
+> - (b) any decision or measure imposed on the EEA UCITS under provisions implementing Chapter VIII of the UCITS directive;
+> - (c) any information reported to the home state regulator pursuant to Article 106(1) of the UCITS directive relating to the EEA UCITS, to one or more of its directors, its management company, trustee, depositary or auditor.
+>
+> (3) Where the Authority has the information described in paragraph (1)(a), (b) or (c) in relation to an authorised open-ended investment company which is a master UCITS in relation to one or more feeder UCITS which are EEA UCITS, the Authority must immediately give that information to the home state regulator of each feeder UCITS established outside the United Kingdom.
+
+(6) After regulation 33, insert—
+
+> **33A. Winding up of a master UCITS**
+>
+> (1) Paragraphs (2) and (3) apply if a master UCITS is wound up.
+>
+> (2) If the Authority considers that an open-ended investment company which is a feeder UCITS of the master UCITS may be wound up under section 221 of the 1986 Act, the Authority must present a petition to the Court for the feeder UCITS to be wound up unless one of the conditions referred to in paragraph (4) is satisfied.
+>
+> (3) If paragraph (2) does not apply, the Authority must require the directors of any open ended investment company which is a feeder UCITS of the master UCITS to submit a proposal under regulation 21 to wind up the affairs of the company unless one of the conditions referred to in paragraph (4) is satisfied.
+>
+> (4) The conditions set out in paragraphs (2) and (3) are—
+>
+> - (a) the Authority approves under section 283A of the Act the investment by the feeder UCITS of at least 85% of its assets in units of another UCITS or master UCITS; or
+> - (b) the Authority approves under regulation 22A an amendment of the instrument of incorporation of the company which would enable it to convert into a UCITS which is not a feeder UCITS.
+>
+> **33B. Merger or division of a master UCITS**
+>
+> (1) Paragraph (2) applies if a master UCITS—
+>
+> - (a) merges with another UCITS, or
+> - (b) is divided into two or more UCITS.
+>
+> (2) The Authority must require the directors of any open-ended investment company which is a feeder UCITS of the master UCITS to prepare a proposal to wind up the affairs of the feeder UCITS under regulation 21 unless—
+>
+> - (a) the Authority approves under section 283A of the Act the investment by the company of at least 85% of its assets in the units of—
+>   - (i) the master UCITS which results from the merger;
+>   - (ii) one of the UCITS resulting from the division; or
+>   - (iii) another UCITS or master UCITS; or
+> - (b) the Authority approves under regulation 22A an amendment of the instrument of incorporation of the company which would enable it to convert into a UCITS which is not a feeder UCITS.
+
+(7) In regulation 70, insert at the end “ other than mergers within the meaning of Article 2.1(p) of the UCITS directive ”.
+
+(8) After regulation 83, insert—
+
+> **83A. Disclosure under the UCITS directive**
+>
+> (1) This regulation applies in relation to a disclosure made by a person who falls within paragraph (2) to comply with requirements set out in rules made by the Authority to implement Chapter VIII of the UCITS directive.
+>
+> (2) The following persons fall within this paragraph—
+>
+> - (a) the auditor of an open-ended investment company that is a master UCITS;
+> - (b) the depositary of an open-ended investment company that is a master UCITS;
+> - (c) the auditor of an open-ended investment company that is a feeder UCITS;
+> - (d) the depositary of an open-ended investment company that is a feeder UCITS; or
+> - (e) a person acting on behalf of a person within paragraphs (a), (b), (c) or (d) above.
+>
+> (3) A disclosure to which this section applies is not to be taken as a contravention of any duty to which the person making the disclosure is subject.
+
+(9) In Schedule 5, for paragraph 4(5), substitute—
+
+> (5) Subject to sub-paragraph (5A), no rules made under section 340 of the Act (appointment of auditors) apply in relation to open-ended investment companies.
+>
+> (5A) Rules may be made under section 340 of the Act in relation to open-ended investment companies for the purpose of implementing the UCITS directive or any commission directive made under the UCITS directive.
+
+(10) In paragraph 1 of Schedule 6, insert at the end “ other than one to which Part 4 of the Undertakings for Collective Investment in Transferable Securities Regulations 2011 applies ”.
+
+### 4. Amendment of the Financial Services and Markets Act 2000 (Compensation Scheme: Electing Participants) Regulations 2001
+
+(1) The Financial Services and Markets Act 2000 (Compensation Scheme: Electing Participants) Regulations 2001 [^c20914661] are amended as follows.
+
+(2) In regulation 1(2)—
+
+- (a) in paragraph (c) of the definition of “branch”, for “Article 5f.2” substitute “ Article 12.2 ”;
+- (b) in paragraph (a) of the definition of “relevant management company”, for “Article 5.3(a)” substitute “ Article 6.3 ”.
+
+(3) Renumber regulation 2 as paragraph (1) of that regulation.
+
+(4) After paragraph (1) of regulation 2, insert—
+
+> (2) The persons mentioned in paragraph (1)(a), (b) and (c) are prescribed in relation to all authorised activities.
+>
+> (3) A relevant management company is prescribed in relation to all authorised activities other than any collective portfolio management services set out in Annex II to the UCITS directive which it is providing to a UCITS in the United Kingdom.
+
+### 5. Amendment of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001
+
+(1) The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 [^c20914671] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in the definition of “directive restrictions” for “Article 50 of the UCITS directive” substitute “ Article 102 of the UCITS directive ”;
+- (b) insert the following definition in the appropriate place—
+
+  > - UCITS directive information” means confidential information received by the Authority in the course of discharging its functions as an EEA competent authority under the UCITS directive.
+
+(3) In regulation 9—
+
+- (a) in paragraph (1), after “(3A)” insert “ , (3C) ”;
+- (b) in paragraph (2)(e), for “50.4” substitute “ 102.3 ”;
+- (c) after paragraph (3B), insert—
+
+  > (3C) Paragraph (1) does not permit disclosure of UCITS directive information to a person specified in the first column of Schedule 1 other than a person listed in paragraph (3D) where that information—
+  >
+  > - (a) was obtained from an EEA competent authority under Article 101.2 of the UCITS directive or an overseas regulatory authority under a cooperation agreement referred to in Article 102 of that directive, and
+  > - (b) that authority indicated at the time of communication that such information must not be disclosed,
+  >
+  > unless that authority has given its express consent to the disclosure.
+  >
+  > (3D) The persons are—
+  >
+  > - (a) the Bank of England;
+  > - (b) the central bank of any country or territory outside the United Kingdom;
+  > - (c) a recognised investment exchange;
+  > - (d) an auditor exercising functions conferred by or under the Act in relation to insurance undertakings, credit institutions, investment firms or other financial institutions;
+  > - (e) an EEA regulatory authority exercising functions in relation to the supervision of credit institutions, investment firms, insurance undertakings or other financial institutions.
+
+(4) In regulation 11—
+
+- (a) in paragraph (d)(ii), after “competent” insert “ authority ”;
+- (b) after paragraph (d), insert—
+
+  > - (e) UCITS directive information, where that information has been received from—
+  >   - (i) an overseas regulatory authority under a cooperation agreement referred to in Article 102 of the UCITS directive; or
+  >   - (ii) an EEA competent authority under Article 101.2 of the UCITS directive,
+  >
+  >   unless that authority has given its express consent for disclosure that is covered by this Part.
+
+### 6. Amendment of the Financial Services and Markets Act 2000 (Collective Investment Schemes Constituted in other EEA States) Regulations 2001
+
+(1) The Financial Services and Markets Act 2000 (Collective Investment Schemes Constituted in Other EEA States) Regulations 2001 [^c20914681] are amended as follows.
+
+(2) In regulation 2, insert after the definition of “the Act”—
+
+> “**the UCITS 1985 directive**” means the Council Directive of 20 December 1985 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (No [85/61/EEC](https://www.legislation.gov.uk/european/directive/1985/0061)).
+
+(3) For regulation 4(b) substitute—
+
+> - (b) its prospectus and, subject to regulation 5, the key investor information referred to in Article 78 of the UCITS directive; and
+
+.
+
+(4) After regulation 4, insert—
+
+> **5.**
+>
+> The notice to be given to the Authority under section 264(1) may be submitted with the simplified prospectus (within the meaning of Section VI of the UCITS 1985 directive) until 30 June 2012.
+
+## PART 4 — MERGERS[^key-5398ecc2929e8dbf435ac736a65cbce1]
+
+### 7. Interpretation[^key-5398ecc2929e8dbf435ac736a65cbce1]
+
+(1) In this Part—
+
+- “**the Act**” means the Financial Services and Markets Act 2000 [^c20914691];
+- “**the Authority**” means the Financial Conduct Authority[^key-5ac7dd7a77bc700ff46231b0f8405db9];
+- [^key-84f14c37d210a53abc6d4a2e0fbd0d3c]...
+- “**depositary**” [^key-35d448193d3fc436242f7c80f817cf1d]... —
+  - (a) in relation to a open-ended investment company means the person appointed under regulation 5 of the Open-Ended Investment Companies Regulations 2001;
+  - (aa) in relation to an authorised contractual scheme means the person by whom, or to whose order, the property subject to the scheme is held;[^key-66abe2884a342cee100fe9f2dc59ea05] and[^key-47071b831d59f694a52bf69c45ec9173]
+  - (b) in relation to an authorised unit trust scheme means the trustee of the scheme; [^key-d0783f36781853f95a52cb189e38775b]...
+  - (c) [^key-67a5fc41a65c903ba0439389b95c6578]...
+- [^key-672c8b7260aa0ad637808c448f13a2ca]...
+- [^key-1cb7191345ade6ede7246c0d7cc143cf]...
+- “[^key-a48256ee93fc79fa0293364b4e70eeca]**feeder UCITS**” has the meaning given in section 237(3) of the Act;
+- “implementing provision” means a requirement that is imposed—[^key-8cba90346b5362d572917315908cd50f]
+  - (a) by these Regulations; or
+  - (b) by or under the Act, if the provision implemented[^key-994019475a58271d6c1ab6f14b6ad3ca] the UCITS directive;
+- “**manager[^key-175a8753f5d502a25545b4f2aa474b9f]**” means—
+  - (a) in relation to an open-ended investment company, the directors of that company,
+  - (aa) in relation to an authorised contractual scheme, the operator of that scheme,[^key-1f9cca12076534772fbd9352731bc109]
+  - (b) in relation to an authorised unit trust scheme, the manager of that scheme,
+  - (c) [^key-9129464e029eda1bcdd94415de195bab]...
+- “[^key-2547b764efd1a1b2be283eb8e97890e6]**master UCITS**” has the meaning given in section 237(3) of the Act;
+- “**merger**” means an operation whereby one or more UK UCITS, or sub-funds (otherwise referred to as investment compartments) of UK UCITS ((the “merging UCITS”) (which continue to exist until the liabilities have been discharged)) transfer their net assets to—
+  - ((a)) another sub-fund of the same UK UCITS;
+  - ((b)) a UK UCITS which they form;
+  - ((c)) another existing UK UCITS; or
+  - ((d)) a sub-fund of another existing UK UCITS; (the “receiving UCITS”);
+- “**UCITS**” means an undertaking for collective investment in transferable securities within the meaning of Article 1.2 of the UCITS directive, or a sub-fund of such an undertaking, and includes an open ended investment company, an authorised contractual scheme[^key-f5829f3c6e553ab5787d208c92f5a0ac] or an authorised unit trust to which the UCITS directive applies;
+- “**UCITS directive**” means directive means the Council Directive of 13th July 2009 on the co-ordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (No [2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065)) , as amended by[^key-756e73b3ee7a1ddfd20afe1f5846c410] [Directive 2014/91/EU](https://www.legislation.gov.uk/european/directive/2014/0091) of the European Parliament and of the Council of 23rd July 2014;
+- [^key-a9395d8a0e92832199b7e625a9e4e10d]...
+- “[^key-a9ce8d7e068f8fc246b5501a0b82cd46]**UK UCITS**” has the meaning given in section 237(3) of the Act;
+- “**unit-holders**” means—
+  - (a) in the case of an open-ended investment company, the shareholders or members of that company[^key-66cda9c1f02b75faebdaade166696a93];
+  - (aa) in the case of an authorised contractual scheme, the unit-holders in that scheme; and[^key-b19b225eda9bc5404bbf053b33bf2b7a]
+  - (b) in the case of an authorised unit trust scheme [^key-dc6e416d7a217c98ac52f054fc335ae3]..., the unit-holders in that trust scheme [^key-7ba15c803dc94147eefee308ed89282d]...;
+- “**units**” means—
+  - (a) in the case of an open-ended investment company, shares in the company; and[^key-c32081055f5cfdf9b4e31234d9a0779e]
+  - (b) in the case of an authorised unit trust scheme or an authorised contractual scheme[^key-7a164d503a0b2080378819201a3d958d], units in the scheme; [^key-8d31a90018d7a65ca19644c7068db9e9]...
+  - (c) [^key-aa69362e3a0a1801ea30da670ffc119c]...
+
+(2)[^key-d604fda12456fa85f644511845941493] [^key-71ab77834799862395eb76060b396596]... Subject to paragraph (1), expressions used in this Part shall have the same meaning as in the Act.
+
+(3)[^key-ea3f0adac231c6f304a89a16e19a3fd9] Any reference in these Regulations to the Collective Investment Schemes sourcebook is a reference to the Collective Investment Schemes sourcebook made under the Act by the Authority, as it has effect on 1 January 2022[^key-2be985ecc8a54a835adadfbe322324c9].
+
+### 8.[^key-5398ecc2929e8dbf435ac736a65cbce1]
+
+(1) This Part applies to any reconstruction or amalgamation which is a merger where the UK UCITS involved (or, if two or more are involved, at least one of them) has given notice to the Authority under paragraph 20B of Schedule 3 to the Act, and which takes the form of a merger by scheme of arrangement[^key-3648ecfcf954d98961a7b001320174f5].
+
+(2)[^key-6745e822289f238a234009258e813771] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-6745e822289f238a234009258e813771] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A “**merger by scheme of arrangement**” means an operation in which—
+
+- (a) there are one or more transferor UK[^key-2322c45b3d0ccc475a74d813562d7948] UCITS or sub-funds of a UK[^key-86168eb3129cac033a6d5d1af95daf8a] UCITS (“the merging UCITS”);
+- (b) the transferor UCITS or sub-funds continue to exist until their liabilities have been discharged, but transfer their net assets to—
+  - (i) a sub-fund of the same UCITS;
+  - (ii) another existing UK[^key-31e6c9b1f8097063e125fa8379a8c423] UCITS or a sub-fund of that UCITS; or
+  - (iii) a UK[^key-42aa4df8f7cedc9a9100ffe8da359079] UCITS formed for the purposes of the operation
+
+  (“the receiving UCITS”).
+
+### 9. Application for authorisation[^key-5398ecc2929e8dbf435ac736a65cbce1]
+
+(1) A merging [^key-0057853aac487e7680da8342556e1bfa]... UCITS must apply to the Authority for an order authorising a merger (an “authorisation order”).
+
+(2) The application must be made in such manner as the Authority may direct and must be accompanied by—
+
+- (a) the common draft terms of the proposed merger duly approved by the UCITS, any other merging UCITS and the receiving UCITS;
+- (b)[^key-fd381b070a1d590f86b3a6aaf6019ee9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a statement by each of the depositaries or, in the case of an authorised unit trust scheme, the trustee, of the merging UCITS and the receiving UCITS confirming that, in accordance with rules made by the Authority [^key-22deb2b78eac430e0cfc852b83f8dd55]... to implement Articles 40 and 41 of the UCITS directive, they have verified compliance of the following matters with the requirements of those rules—
+  - (i) the identification of [^key-157297eee32fb278269297df32b0792a]... the UCITS involved;
+  - (ii) the planned effective date of the merger; and
+  - (iii) the rules applicable, respectively, to the transfer of assets and the exchange of units; and
+- (d) the information on the proposed merger that the merging and the receiving UCITS intend to provide to their respective unit-holders.
+
+(3)[^key-f15cea706a32bd434fbf8088cab9ba04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where the Authority considers that the information supplied under paragraph (2) by the merging UCITS is not complete, the Authority must, within 10 working days of receiving the information, request additional information from the UCITS.
+
+(5)[^key-4eb71dcf74494f93e1fc7e10284e859f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The Authority must consider the potential impact of the proposed merger on unit-holders of the merging UCITS to assess whether appropriate information is being provided to unit-holders.
+
+(7) Where the Authority considers it necessary, it may require that the information to be provided to unit-holders of the merging UCITS be clarified.
+
+(8) The Authority must make an authorisation order under paragraph (1) if the following conditions are satisfied—
+
+- (a) the requirements set out in this regulation and regulations 10 and 11 and in rules made by the Authority to implement Articles 40 and 41 of the UCITS directive have been complied with;
+- (b) the merger has been approved by unit-holders of the merging[^key-5da1dc4b89f88b16dc67ce1a53565872] UCITS in accordance with rules made by the Authority;
+- (c)[^key-cca747d97f9e4ddba7cf79d174b356fa] the receiving UCITS gave the Authority notice of its intention to market its units in another EEA State and, before IP completion day, that notification was transmitted under Article 93 of the UCITS directive to the competent authorities of those EEA States in which the merging UCITS was able to market its units; and
+- (d)[^key-5b7570b82b423d1030b6afb400a79bd5] the Authority is satisfied with the proposed information to be provided to unit-holders.
+
+(9) The Authority must determine an application for authorisation of a merger under this regulation and inform the applicant of its decision within 20 working days of the date on which the Authority received the information required under paragraph (2), or the date on which the Authority received any further information requested under paragraph (4).
+
+(10)[^key-b2e9299f0005cde02ac387bdd828ce7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) The authorisation order must specify the date on which the merger shall take effect and the dates for calculating the exchange ratio of units of the merging UCITS into units of the receiving UCITS, and, where applicable, for determining the relevant net asset value for cash payments.
+
+### 10. Modification of information[^key-5398ecc2929e8dbf435ac736a65cbce1]
+
+(1) Where the Authority has received information on a proposed merger [^key-054975fdc3ec0973a8fb9daad3f091a1]..., it must consider the potential impact of the proposed merger on unit-holders of the receiving UCITS.
+
+(2) Where the Authority considers it necessary, it may require the receiving UCITS to modify the information to be provided to its unit-holders.
+
+(3) Any such requirement must be made in writing, not more than 15 working days after the date on which the Authority received the complete information required under regulation 9(2).
+
+(4)[^key-23969e32c7ee821eac194dd6bbbe1438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-23969e32c7ee821eac194dd6bbbe1438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Report by depositary or auditor[^key-5398ecc2929e8dbf435ac736a65cbce1]
+
+(1) A report must be drawn up in respect of a merging [^key-80b4ee021d110d1713e3ed052ff0c5da]... UCITS in accordance with this regulation validating—
+
+- (a) the criteria adopted for valuation of the assets and, where applicable, the liabilities on the date for calculating the exchange ratio [^key-ae31dfd919ad6742f5de4afd18069776]...;
+- (b) where applicable, the cash payment per unit; and
+- (c) the calculation method of the exchange ratio as well as the actual exchange ratio determined at the date for calculating that ratio [^key-84e072b5e1464cdc4f6d07f741325cdf]....
+
+(2) The report must be drawn up by—
+
+- (a) a depositary, or
+- (b) a person who—
+  - (i) is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006 [^c20914701], and
+  - (ii) satisfies the independence requirement in section 936 of the Companies Act 2006.
+
+(3) The auditors of the merging UCITS and the receiving UCITS must be considered to be independent for the purposes of paragraph (2)(b)(ii).
+
+(4) A copy of the report must be made available on request and free of charge to—
+
+- (a) the unit-holders of the merging UCITS and of the receiving UCITS, and
+- (b) the Authority [^key-55feb5dda3d798402a7564c21749ef0a]....
+
+### 12. Right of redemption[^key-5398ecc2929e8dbf435ac736a65cbce1]
+
+(1) The unit-holders of the merging and the receiving UCITS may require their UCITS—
+
+- (a) to purchase or redeem any units they hold in either the merging or the receiving UCITS; or
+- (b) to convert any units they hold in either the merging or receiving UCITS into units of another UK[^key-66dfe764e8ffd56361b189ff45331df0] UCITS which—
+  - (i) has similar investment policies to those of the merging or receiving UCITS; and
+  - (ii) is managed by the same manager or by a manager which is associated with that manager within the meaning of section 256 of the Companies Act 2006.
+
+(2) The rights referred to in paragraph (1) shall become effective from the moment when the unit-holder is informed of the proposed merger in accordance with rules made by the Authority to implement Article 43 of the UCITS directive, and must cease five working days before the date on which the exchange ratio must be calculated [^key-3fceb9b4f47963ecf261ed80c0dacaae]....
+
+(3) No charge may be made for the exercise of the rights in paragraph (1) except to enable the UCITS to meet disinvestment costs.
+
+(4) Where one of the merging or receiving UCITS is a master UCITS it[^key-250b2fa3bea14adfb4b4ad886029e81c] must enable its feeder UCITS to repurchase or redeem all the units of the master UCITS in which they have invested before the consequences of the merger become effective, unless the Authority approves the continued investment by the feeder UCITS in the UCITS resulting from the merger.
+
+### 13. Consequences of a merger[^key-5398ecc2929e8dbf435ac736a65cbce1]
+
+(1)[^key-f0b1187c337862d64deb0eb83cd6e90c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-f0b1187c337862d64deb0eb83cd6e90c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A merger by scheme of arrangement shall have the following consequences—
+
+- (a) the net assets of the merging UCITS are transferred to the receiving UCITS or, where applicable, the depositary of the receiving UCITS;
+- (b) all the shareholders or members of the merging UCITS become unit-holders in the receiving UCITS; and
+- (c) the merging UCITS continues to exist until all the liabilities have been discharged.
+
+(4)[^key-3a77c0a721ed5e53014355fa4fb40881] Subject to paragraph (6) the consequences take effect on the date specified in the order made by the Authority under regulation 9 (application for authorisation).
+
+(5) The receiving UCITS, or where applicable, the depositary of the receiving UCITS, must take such steps as are required by law [^key-6f714fed8d0ec87da587979f769a388f]... to give effect to the transfer of the assets and liabilities of the merging UCITS.
+
+(6) Where one of the merging or receiving UCITS is a master UCITS, the merger shall not take effect unless the master UCITS has provided the information specified under regulation 9(2) together with any additional information requested under regulation 9(4) (“the required information”) to all its unit-holders and to the Authority[^key-b73c09d872bb91c2c2c80989c29319af] at least 60 days before the planned effective date.
+
+(7) A master UCITS will have complied with the obligation in paragraph (6) to provide information to all its unit-holders if it has sent the required information to each of the unit-holders (or in the case of joint unit-holders, to the first named unit-holder) whose name is entered in the register of unit-holders at the date on which the information is provided.
+
+### 14. Publication of a merger[^key-5398ecc2929e8dbf435ac736a65cbce1]
+
+The entry into effect of the merger must be published by the Authority in the record kept by the Authority under section 347 of the Act.
+
+## PART 5 — DIVISIONS
+
+### 15. Division of a master UCITS
+
+(1) The interpretive provisions in regulation 7 shall apply to this Part.
+
+(2) This Part applies where a master UCITS which is a UK UCITS and[^key-3ad0d29c459dd491eac46b9d85964c00] which has one or more feeder UCITS is divided into two or more UK[^key-135ecd28f11403134a9481a5636bcba8] UCITS.
+
+(3) The division shall not take effect unless the master UCITS has provided information comparable to the information specified in regulation 9(2) in relation to the division (“the required information”) to all its unit-holders and to the Authority[^key-0547e31524dcf723ae38876e48dc3473] at least sixty days before the day on which the division is planned to take effect.
+
+(4) A master UCITS will have complied with the obligation in paragraph (3) to provide information to all its unit-holders if it has sent the required information to each of the unit-holders (or in the case of joint unit-holders, to the first named unit-holder) whose name is entered in the register of unit-holders at the date on which the information is provided.
+
+(5) The master UCITS must enable its feeder UCITS to repurchase or redeem all the units of the master UCITS in which they have invested before the division becomes effective, unless the Financial Conduct Authority[^key-76183fc95219eb845c251c9834110b43] approves the continued investment by the feeder UCITS in the UK[^key-c167d05237f189041262174175ab1bfa] UCITS resulting from the division.
+
+## PART 5A — DEPOSITARIES[^key-ad3733d14a6cbc88389dfe29035a6d95]
+
+### 15A. Interpretation
+
+The interpretative provisions in regulation 7 shall apply to this Part.
+
+### 15B. Depositary liability: general provisions
+
+(1) This regulation, and regulations 15C and 15D, apply in relation to the depositary of a UK[^key-1f80d9c204f5d3b808f9125b1f6487f3] UCITS.
+
+(2) Any liability of the depositary to the UCITS, or to unit-holders of the UCITS, under regulation 15C or 15D is not affected by—
+
+- (a) any delegation by the depositary of its functions as referred to in rules 6.6B.25, 6.6B.26 and 6.6B.27 of the Collective Investment Schemes sourcebook[^key-0e5efc1f47d63b8f51c51530ea55ff15];
+- (b) any contractual provision that purports to exclude or limit the depositary’s liability for losses under regulation 15C or 15D; or
+- (c) any exclusion or limitation by agreement of the depositary’s liability for losses under regulation 15C or 15D.
+
+(3) Any provision or agreement that falls within paragraph (2)(b) or (c) will be void.
+
+(4) Any obligation or liability of a depositary under regulation 15C or 15D to the unit-holders of the UCITS may be invoked either directly or indirectly through the management company provided that this does not lead to a duplication of redress or to unequal treatment of unit-holders.
+
+### 15C. Depositary liability for loss of financial instruments held in custody
+
+(1) This regulation applies where a financial instrument held in custody in accordance with rule 6.6B.18 of the Collective Investment Schemes sourcebook[^key-b088232fd8cff285ca5ced5f1badad0a] by—
+
+- (a) the depositary, or
+- (b) a third party to whom custody of the financial instrument has been delegated or sub-delegated,
+
+has been lost in the conditions or circumstances described in Article 18 of Commission Delegated Regulation (EU) 2016/438 of 17 December 2015 supplementing Directive[^key-a92633e89ce147460c44d7926e94a8cd] [2009/65/EC](https://www.legislation.gov.uk/eudr/2009/65) of the European Parliament and of the Council with regard to obligations of depositaries.
+
+(2) Subject to paragraph (3), the depositary is liable to the UCITS and to the unit-holders of the UCITS for loss of the financial instrument and must return a financial instrument of an identical type or the corresponding amount to the UCITS, or to the management company acting on behalf of the UCITS, without undue delay.
+
+(3) The depositary is not liable under paragraph (2) nor is it required to comply with the obligation in that paragraph if it can prove that the loss has arisen as a result of an external event beyond the depositary’s reasonable control, the consequences of which would have been unavoidable despite all reasonable efforts to the contrary.
+
+### 15D. Depositary liability for other losses
+
+If a UK[^key-490e89cd687a6b36e3649e4381625fb0] UCITS, or unit-holders of a UK[^key-ae5fe6b8626cb2d83cda3f1cb9ddf7c3] UCITS, have suffered losses other than a loss of a financial instrument referred to in regulation 15C, the depositary is liable to the UCITS or to the unit-holders of the UCITS for those losses, if the losses are as a result of the depositary’s negligent or intentional failure to comply with any implementing provision that applies to it.
+
+## PART 5B — REQUIREMENTS ON THE FINANCIAL CONDUCT AUTHORITY[^key-5f44028aa80b7cf948a5ae4a96f401e8]
+
+**No longer in force.**
+
+### 15E. Interpretation[^key-5f44028aa80b7cf948a5ae4a96f401e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15F. FCA requirement to share depositary information[^key-5f44028aa80b7cf948a5ae4a96f401e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15G. FCA’s ability to refuse to act on requests for information[^key-5f44028aa80b7cf948a5ae4a96f401e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15H. Reporting of infringements[^key-5f44028aa80b7cf948a5ae4a96f401e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15I. Disclosure of information regarding penalties[^key-5f44028aa80b7cf948a5ae4a96f401e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — CONSEQUENTIAL AMENDMENTS AND REVIEW
+
+### 16. Consequential amendments
+
+Schedule 1[^key-269437626803f4cc8b0f1413bd43c9d4] contains consequential amendments.
+
+### 17. Review
+
+(1) Before the end of each review period, the Treasury must—
+
+- (a) carry out a review of regulations 2 to 15,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) In carrying out the review the Treasury must, so far as is reasonable, have regard to how the UCITS Directive is implemented in other Member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by regulations 2 to 15,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) “**Review period**” means—
+
+- (a) the period of five years beginning with the day on which regulations 2 to 15 come into force, and
+- (b) subject to paragraph (5), each successive period of five years.
+
+(5) If a report under this regulation is published before the last day of the review period to which it relates, the following review period is to begin with the day on which that report is published.
+
+## PART 7[^key-258ae95640dcadc63d14ac7395a7c4fd]
+
+### 18. Transfer of UCITS directive functions
+
+The Authority may make technical standards for the purposes set out in Schedule 2 to this Regulation.
+
+Michael Fabricant
+
+Angela Watkinson
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## Schedule 1 — CONSEQUENTIAL AMENDMENTS[^key-686ead39a3c15a606e1e1023ef3f7098]
+
+Regulation 16
+
+### 1. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001
+
+(1) The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c20914711] is amended as follows.
+
+(2) In article 3(1), for the definition of “management company” substitute—
+
+> management company” has the meaning given by Article 2.1(b) of the UCITS directive;
+
+.
+
+(3) In article 83(4)(b), for “Article 5(3)” substitute “ Article 6(3) ”.
+
+(4) In article 84(1D)(b) for “Article 5(3)” substitute “ Article 6(3) ”.
+
+(5) In article 85(4)(b) for “Article 5(3)” substitute “ Article 6(3) ”.
+
+### 2. The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001
+
+(1) The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes)(Exemptions) Order 2001 [^c20914721] is amended as follows.
+
+(2) In article 10A(3), for “Article 4” substitute “ Article 5 ”.
+
+(3) In article 30, for the words “(notice indicating” to the end of the article, substitute “ (notice indicating the existence of grounds for refusal of an application for authorisation) ”.
+
+### 3. The Electronic Commerce Directive (Financial Services and Markets) Regulations 2002
+
+(1) The Electronic Commerce Directive (Financial Services and Markets) Regulations 2002 [^c20914731] are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) in the definition of “UCITS Directive” for “Directive [85/611/EEC](https://www.legislation.gov.uk/european/directive/1985/0611) of the Council of the European Communities of 20 December 1985” substitute “ Directive [2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) of the European Parliament and of the Council of 13 July 2009 ”;
+- (b) in the definition of “UCITS Directive Scheme” for “Article 4” substitute “ Article 5 ”.
+
+### 4. The Reporting of Savings Income Information Regulations 2003
+
+(1) The Reporting of Savings Income Information Regulations 2003 [^c20914741] are amended as follows.
+
+(2) In regulation 2(1), in the definition of “the UCITS Directive”, for “Council Directive [85/611/EEC](https://www.legislation.gov.uk/european/directive/1985/0611) of 20th December 1985” substitute “ Council Directive [2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) of 13th July 2009 ”.
+
+### 5. The Financial Conglomerates and Other Financial Groups Regulations 2004
+
+(1) The Financial Conglomerates and Other Financial Groups Regulations 2004 [^c20914751] are amended as follows.
+
+(2) In regulation 1(2), in paragraph (c) of the definition of “regulated entity”—
+
+- (a) for “Article 1a(2)” substitute “ Article 2.1(b) ”, and
+- (b) for “Article 5”, substitute “ Article 6 ”.
+
+### 6. The Montserrat Reporting of Savings Income Information Order 2005
+
+(1) The Montserrat Reporting of Savings Income Order 2005 [^c20914761] is amended as follows.
+
+(2) In article 3(1), in the definition of “the European UCITS Directive”, for “Council Directive [85/611/EEC](https://www.legislation.gov.uk/european/directive/1985/0611) of 20th December 1985” substitute “ Council Directive [2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) of 13th July 2009 ”.
+
+### 7. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005
+
+(1) The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 [^c20914771] is amended as follows.
+
+(2) In article 20B, for paragraph (3), substitute—
+
+> (3) In this article, “**UCITS directive scheme**” means an undertaking for collective investment in transferable securities which is subject to Directive [2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) of the European Parliament and of the Council of 13th July 2009 on the co-ordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities and has been authorised in accordance with Article 5 of that Directive.
+
+(3) In Schedule 1, in paragraph 21(4)(b), for “Article 5(3)” substitute “ Article 6(3) ”.
+
+### 8. The Financial Services and Markets Act 2000 (Controllers) (Exemption) Order 2009
+
+(1) The Financial Services and Markets Act 2000 (Controllers) (Exemption) Order 2009 [^c20914781] is amended as follows.
+
+(2) In article 2, in paragraph (c) of the definition of “relevant UK authorised person”, for “Article 1a.2” substitute “ Article 2.1(b) ”.
+
+## SCHEDULE 2 — Directive functions transferred to the Authority[^key-14abc2f93baefa6a98ba1bde40da1944]
+
+Regulation 18
+
+**1.** The purposes mentioned in regulation 18 are as follows.
+
+**2.** To specify the information to be provided to the Authority in the application for authorisation of a UCITS.
+
+**3.** To specify—
+
+- (a) the information to be provided to the Authority in the application for the authorisation of the management company, including the programme of activity;
+- (b) the requirements applicable to the management company in relation to paragraph 2C(1)(f) of Schedule 6 to the Act and the information to be included in the notification by the Authority as to whether or not authorisation has been granted as provided for in sections 55V(1), 55X(1), (2) and (4), 387(1) and 388(1) of the Act; and
+- (c) the requirements applicable to shareholders and members with qualifying holdings, as well as obstacles which may prevent effective exercise of the supervisory functions of the Authority, as provided for in section 55U(4) of the Act and in paragraph 2C and 3B of Schedule 6 to the Act, in accordance with Part 12 of the Act.
+
+**5.** To determine standard forms, templates and procedures for the notification or provision of information provided for in paragraphs 3(a) and (b).
+
+**6.** To specify the information to be provided to the Authority in the application for the authorisation of the contractual scheme, unit trust scheme, or open-ended investment company as a UK UCITS, including the programme of operations.
+
+**7.** To establish standard forms, templates and procedures for the provision of information referred to in paragraph 6.
+
+**8.** To specify the provisions concerning the content of the prospectus, the annual report and the half-yearly report, and the format of those documents.
+
+**9.** To specify the conditions which need to be met by the UCITS after the adoption of the temporary suspension of the re-purchase or redemption of the units of the UCITS, once the suspension has been decided.
+
+*(This note is not part of the Regulations)*
+
+[^c20914791][^c20914801][^c20914811]These Regulations implement in part Directive [2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) of the European Parliament and of the Council on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (“UCITS”) (“the UCITS directive”), and certain of the obligations in Commission Directives 2010/43/EU (and 2010/44/EU ). A transposition note setting out how the main elements of these Directives will be transposed into UK law will be available on HM Treasury's website (www.hm-treasury.gov.uk).
+
+Regulation 2 of these Regulations amends the Financial Services and Markets Act 2000 as it applies to collective investment schemes which are UCITS.
+
+Paragraph (3) inserts a new section limiting the liability which may arise in relation to key investor information (section 90ZA).
+
+Paragraph (8) revises the conditions which must be satisfied before the Financial Services Authority (“FSA”) is able to exercise its powers of intervention in relation to a EEA management company or UCITS, by substituting section 195A.
+
+Paragraph (10) inserts section 199A, imposing an obligation on the FSA to take action to safeguard investors in the United Kingdom where the authorisation of an EEA management company is withdrawn.
+
+Paragraph (13) clarifies the definition of “**relevant person**” for the purposes of section 213 of the Financial Services and Markets Act 2000.
+
+Paragraph (14) inserts new definitions into section 237.
+
+Paragraphs (15) and (16) amend sections 243 and 244 respectively, to revise the conditions which must be satisfied before a UCITS may be authorised and require the FSA to determine applications for authorisation of unit trust schemes which are UCITS within two months.
+
+Paragraphs (19), (21), (23) and (26) make provision for master and feeder UCITS. Paragraph (19) sets out the procedure which will apply to any proposal by a UCITS to cease being a feeder UCITS (new section 252A). Paragraph (21) provides for the consequences where a master UCITS which has one or more feeder UCITS is wound up (new section 258A). Paragraph (23) inserts new sections 261A and 261B, which set out the circumstances in which the FSA is required to provide information to home state regulators of EEA UCITS, or the operators of authorised unit trust schemes which are feeder UCITS. Paragraph (26) inserts new section 283A, requiring approval of significant investments by a UCITS in another UCITS (the master UCITS), and new section 283B, requiring management companies to provide periodic reports to the FSA about any investment in derivative instruments made by UCITS under their management.
+
+Paragraph (28) inserts new section 351A, which enables depositaries and auditors of master and feeder UCITS to enter into information sharing agreements as required by the UCITS directive, and ensures that they are exempt from liability in relation to disclosures made under those agreements.
+
+Paragraph (30) repeals section 409(1)(e) of the Act, removing the Treasury's power to provide for the Authority to give notice under section 264(2) on grounds relating to the law of Gibraltar.
+
+Paragraph (33) amends Schedule 3 to set out the circumstances in which the FSA may reject an application by an EEA management company to manage a UK UCITS, the procedure applying to such applications, and what information must be given to the home state regulator of the management company (paragraphs 15A, 15B and 15C). Paragraphs 19 and 20 are amended (and paragraph 20ZA inserted) to set out the conditions which must be satisfied by a UK management company wishing to provide services in another Member State, and the obligations the FSA must meet in such a case. New paragraphs 26 to 28 impose obligations on the FSA to provide information to the home state regulator of the EEA UCITS managed by a UK management company in certain circumstances, and to consult with that regulator before withdrawing authorisation from the management company. New paragraph 20B sets out the conditions to be satisfied before a UK UCITS is able to market its units in another Member State.
+
+Regulation 3 amends the Open-ended Investment Companies Regulations 2001 to ensure that the amendments made to the Financial Services and Markets Act 2000 in relation to authorised unit trusts also apply in relation to open-ended investment companies.
+
+Regulation 4 amends the Financial Services and Markets Act 2000 (Compensation Scheme: Electing Participants) Regulations 2001 to ensure that the definitions in those Regulations reflect the provisions of the UCITS directive, and to clarify the authorised activities in relation to which an EEA management company exercising rights in this country is subject to the compensation scheme.
+
+Regulation 5 amends the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 to ensure that those Regulations apply to information received by the Authority in the course of the exercise of its functions as competent authority under the UCITS directive.
+
+Regulation 6 amends the Financial Services and Markets Act 2000 (Collective Investment Schemes Constituted in Other EEA States) Regulations 2001 to make transitional provision for the use of simplified prospectuses until 30th June 2012.
+
+Regulations 7 to 14 implement the UCITS directive provisions in relation to mergers of UCITS. Regulation 15 makes provision in relation to divisions. Regulation 16 and the Schedule make consequential amendments to other secondary legislation.
+
+Regulation 17 requires the Treasury to review the operation and effect of these Regulations within five years after they come into force and within every five years after that. Following a review it will fall to the Treasury to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+An Impact Assessment of the effect that these Regulations will have on the costs of business and the voluntary sector is available on HM Treasury's website (hm-treasury.gov.uk) and is published with the Explanatory Memorandum alongside these Regulations on the legislation.gov.uk website.
+
+## Annotations
+
+[^c20914401]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661); [S.I. 2002/2840](https://www.legislation.gov.uk/uksi/2002/2840).
+
+[^c20914411]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51) and the European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1. Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by the European Union (Amendment) Act 2008, Schedule, Part 1.
+
+[^c20914421]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-b0d803a8e84eafc77377f1f1a422008b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/1613): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c20914431]: Marginal citation: Section 66(2) was amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c20914441]: Marginal citation: Section 90 was amended by [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433).
+
+[^c20914451]: Marginal citation: Section 140(3) was inserted by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066).
+
+[^c20914461]: Marginal citation: Section 145(3B) was inserted by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
+
+[^c20914471]: Marginal citation: Section 184 was substituted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534).
+
+[^c20914481]: Marginal citation: Section 195A was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c20914491]: Marginal citation: Section 199 was amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and 2007/3253.
+
+[^c20914501]: Marginal citation: Sections 205 and 206(1) were amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c20914511]: Marginal citation: Section 206A was inserted by the [Financial Services Act 2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), [section 9](https://www.legislation.gov.uk/ukpga/2010/28/section/9), and amended by [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99).
+
+[^c20914521]: Marginal citation: Section 213 was amended by the [Banking Act 2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1), [s. 170(2)](https://www.legislation.gov.uk/ukpga/2009/1/section/170/2).
+
+[^c20914531]: Marginal citation: Section 301A was first inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), and substituted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534).
+
+[^c20914541]: Marginal citation: Sections 390, 382 and 384 were amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c20914551]: Marginal citation: Sections 422 and 422A were substituted for section 422 by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534).
+
+[^c20914561]: Marginal citation: Paragraph 6 of Schedule 1 was amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c20914571]: Marginal citation: Paragraph 4B of Schedule 3 was inserted by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066).
+
+[^c20914581]: Marginal citation: Sub-paragraph (f) of paragraph 5 of Schedule 3 was inserted by 2003/2066.
+
+[^c20914591]: Marginal citation: Paragraph 11A of Schedule 3 was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c20914601]: Marginal citation: Paragraph 15A of Schedule 3 was inserted by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066).
+
+[^c20914611]: Marginal citation: Paragraph 20(3B) was inserted by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473).
+
+[^c20914621]: Marginal citation: Paragraph 20(4B) of Schedule 3 was inserted by [S.I. 2001/1376](https://www.legislation.gov.uk/uksi/2001/1376) and amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c20914631]: Marginal citation: Paragraph 20A of Schedule 3 was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c20914641]: Marginal citation: Paragraph 25 was inserted by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473).
+
+[^c20914651]: Marginal citation: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228). There have been amendments to this instrument but none is relevant.
+
+[^c20914661]: Marginal citation: [S.I. 2001/1783](https://www.legislation.gov.uk/uksi/2001/1783) amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), 2003/2066, 2006/3221.
+
+[^c20914671]: Marginal citation: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188), amended by [S.I. 2003/693](https://www.legislation.gov.uk/uksi/2003/693), 2003/2066, 2003/1473, 2004/1862, 2004/3379, 2006/3221, 2006/3413, 2007/3255 and 2010/2628.
+
+[^c20914681]: Marginal citation: [S.I. 2001/2383](https://www.legislation.gov.uk/uksi/2001/2383) amended by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066).
+
+[^key-5398ecc2929e8dbf435ac736a65cbce1]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2011/1613/part/4) modified (31.12.2020) by [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8), [s. 409(11)(i)](https://www.legislation.gov.uk/ukpga/2000/8/section/409/11/i) (as inserted by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2019/589/regulation/2/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^c20914691]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-5ac7dd7a77bc700ff46231b0f8405db9]: Textual amendment: Words in reg. 7 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 212(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/212/a)
+
+[^key-84f14c37d210a53abc6d4a2e0fbd0d3c]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-35d448193d3fc436242f7c80f817cf1d]: Textual amendment: Word in reg. 7(1) omitted (6.6.2013) by virtue of [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [14(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/14/2/a/i) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-66abe2884a342cee100fe9f2dc59ea05]: Textual amendment: Words in reg. 7(1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [14(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/14/2/a/ii) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-47071b831d59f694a52bf69c45ec9173]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/b/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d0783f36781853f95a52cb189e38775b]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/b/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-67a5fc41a65c903ba0439389b95c6578]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/b/iii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-672c8b7260aa0ad637808c448f13a2ca]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(c)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1cb7191345ade6ede7246c0d7cc143cf]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(d)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a48256ee93fc79fa0293364b4e70eeca]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(e)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/e) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8cba90346b5362d572917315908cd50f]: Textual amendment: Words in reg. 7(1) inserted (18.3.2016) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2016 (S.I. 2016/225)](https://www.legislation.gov.uk/uksi/2016/225), [regs. 1](https://www.legislation.gov.uk/uksi/2016/225/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/225/regulation/3/2/a)
+
+[^key-994019475a58271d6c1ab6f14b6ad3ca]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(f)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/f) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-175a8753f5d502a25545b4f2aa474b9f]: Textual amendment: Word in reg. 7(1) substituted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [14(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/14/2/b/i) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-1f9cca12076534772fbd9352731bc109]: Textual amendment: Words in reg. 7(1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [14(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/14/2/b/ii) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-9129464e029eda1bcdd94415de195bab]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(g)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/g) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2547b764efd1a1b2be283eb8e97890e6]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(h)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/h) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f5829f3c6e553ab5787d208c92f5a0ac]: Textual amendment: Words in reg. 7(1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/14/2/c) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-756e73b3ee7a1ddfd20afe1f5846c410]: Textual amendment: Words in reg. 7(1) inserted (18.3.2016) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2016 (S.I. 2016/225)](https://www.legislation.gov.uk/uksi/2016/225), [regs. 1](https://www.legislation.gov.uk/uksi/2016/225/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/225/regulation/3/2/b)
+
+[^key-a9395d8a0e92832199b7e625a9e4e10d]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a9ce8d7e068f8fc246b5501a0b82cd46]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(j)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/j) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-66cda9c1f02b75faebdaade166696a93]: Textual amendment: Word in reg. 7(1) substituted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [14(2)(d)(i)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/14/2/d/i) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-b19b225eda9bc5404bbf053b33bf2b7a]: Textual amendment: Words in reg. 7(1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [14(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/14/2/d/ii) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-dc6e416d7a217c98ac52f054fc335ae3]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(k)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/k/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7ba15c803dc94147eefee308ed89282d]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(k)(ii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/k/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c32081055f5cfdf9b4e31234d9a0779e]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(l)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/l/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7a164d503a0b2080378819201a3d958d]: Textual amendment: Words in reg. 7(1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [14(2)(e)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/14/2/e) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-8d31a90018d7a65ca19644c7068db9e9]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(l)(ii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/l/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aa69362e3a0a1801ea30da670ffc119c]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(2)(l)(iii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/2/l/iii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d604fda12456fa85f644511845941493]: Textual amendment: Reg. 7(2) substituted (18.3.2016) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2016 (S.I. 2016/225)](https://www.legislation.gov.uk/uksi/2016/225), [regs. 1](https://www.legislation.gov.uk/uksi/2016/225/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2016/225/regulation/3/2/c)
+
+[^key-71ab77834799862395eb76060b396596]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/2) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ea3f0adac231c6f304a89a16e19a3fd9]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/3) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [34(4)](https://www.legislation.gov.uk/uksi/2019/325/regulation/34/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 18(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/18/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2be985ecc8a54a835adadfbe322324c9]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/7/3) substituted (1.1.2022) by [The Financial Services and Markets Act 2000 (Consequential Amendments of References to Rules) Regulations 2021 (S.I. 2021/1388)](https://www.legislation.gov.uk/uksi/2021/1388), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1388/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/1388/regulation/3)
+
+[^key-3648ecfcf954d98961a7b001320174f5]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/8/1) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [35(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/35/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6745e822289f238a234009258e813771]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/8/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/8/3) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/35/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2322c45b3d0ccc475a74d813562d7948]: Textual amendment: Word in [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/8/4/a) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [35(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/35/4/a/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-86168eb3129cac033a6d5d1af95daf8a]: Textual amendment: Word in [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/8/4/a) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [35(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/35/4/a/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-31e6c9b1f8097063e125fa8379a8c423]: Textual amendment: Word in [reg. 8(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/8/4/b/ii) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [35(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/35/4/b/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-42aa4df8f7cedc9a9100ffe8da359079]: Textual amendment: Word in [reg. 8(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/8/4/b/iii) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [35(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/35/4/b/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0057853aac487e7680da8342556e1bfa]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fd381b070a1d590f86b3a6aaf6019ee9]: Textual amendment: [Reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/2/b) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(3)(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-22deb2b78eac430e0cfc852b83f8dd55]: Textual amendment: Words in [reg. 9(2)(c)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/2/c) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/3/b/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-157297eee32fb278269297df32b0792a]: Textual amendment: Words in [reg. 9(2)(c)(i)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/2/c/i) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/3/b/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f15cea706a32bd434fbf8088cab9ba04]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/3) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(4)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4eb71dcf74494f93e1fc7e10284e859f]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/5) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(4)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5da1dc4b89f88b16dc67ce1a53565872]: Textual amendment: Word in [reg. 9(8)(b)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/8/b) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(5)(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/5/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cca747d97f9e4ddba7cf79d174b356fa]: Textual amendment: [Reg. 9(8)(c)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/8/c) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(5)(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/5/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 18(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/18/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5b7570b82b423d1030b6afb400a79bd5]: Textual amendment: [Reg. 9(8)(d)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/8/d) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(5)(c)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/5/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b2e9299f0005cde02ac387bdd828ce7f]: Textual amendment: [Reg. 9(10)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/9/10) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [36(6)](https://www.legislation.gov.uk/uksi/2019/325/regulation/36/6) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-054975fdc3ec0973a8fb9daad3f091a1]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/10/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [37(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/37/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-23969e32c7ee821eac194dd6bbbe1438]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/10/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/10/5) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [37(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/37/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-80b4ee021d110d1713e3ed052ff0c5da]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/11/1) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [38(a)(i)](https://www.legislation.gov.uk/uksi/2019/325/regulation/38/a/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ae31dfd919ad6742f5de4afd18069776]: Textual amendment: Words in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/11/1/a) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [38(a)(ii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/38/a/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-84e072b5e1464cdc4f6d07f741325cdf]: Textual amendment: Words in [reg. 11(1)(c)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/11/1/c) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [38(a)(iii)](https://www.legislation.gov.uk/uksi/2019/325/regulation/38/a/iii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20914701]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-55feb5dda3d798402a7564c21749ef0a]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/11/4/b) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [38(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/38/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-66dfe764e8ffd56361b189ff45331df0]: Textual amendment: Word in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/12/1/b) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/39/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3fceb9b4f47963ecf261ed80c0dacaae]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/12/2) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/39/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-250b2fa3bea14adfb4b4ad886029e81c]: Textual amendment: Word in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/12/4) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [39(c)](https://www.legislation.gov.uk/uksi/2019/325/regulation/39/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f0b1187c337862d64deb0eb83cd6e90c]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/13/1)[(2)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/13/2) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [40(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/40/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3a77c0a721ed5e53014355fa4fb40881]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/13/4) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [40(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/40/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6f714fed8d0ec87da587979f769a388f]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/13/5) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [40(4)](https://www.legislation.gov.uk/uksi/2019/325/regulation/40/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b73c09d872bb91c2c2c80989c29319af]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/13/6) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [40(5)](https://www.legislation.gov.uk/uksi/2019/325/regulation/40/5) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3ad0d29c459dd491eac46b9d85964c00]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15/2) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/41/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-135ecd28f11403134a9481a5636bcba8]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15/2) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/41/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0547e31524dcf723ae38876e48dc3473]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15/3) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [41(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/41/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-76183fc95219eb845c251c9834110b43]: Textual amendment: Words in reg. 15(5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 212(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/212/b)
+
+[^key-c167d05237f189041262174175ab1bfa]: Textual amendment: Word in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15/5) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [41(4)](https://www.legislation.gov.uk/uksi/2019/325/regulation/41/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad3733d14a6cbc88389dfe29035a6d95]: Textual amendment: [Pts. 5A](https://www.legislation.gov.uk/uksi/2011/1613/part/5A), [5B](https://www.legislation.gov.uk/uksi/2011/1613/part/5B) inserted (18.3.2016) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2016 (S.I. 2016/225)](https://www.legislation.gov.uk/uksi/2016/225), [regs. 1](https://www.legislation.gov.uk/uksi/2016/225/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/225/regulation/3/3)
+
+[^key-1f80d9c204f5d3b808f9125b1f6487f3]: Textual amendment: Word in [reg. 15B(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15B/1) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [42(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/42/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0e5efc1f47d63b8f51c51530ea55ff15]: Textual amendment: Words in [reg. 15B(2)(a)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15B/2/a) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [42(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/42/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b088232fd8cff285ca5ced5f1badad0a]: Textual amendment: Words in [reg. 15C(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15C/1) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/43/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a92633e89ce147460c44d7926e94a8cd]: Textual amendment: Words in [reg. 15C(1)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15C/1) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [43(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/43/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-490e89cd687a6b36e3649e4381625fb0]: Textual amendment: Word in [reg. 15D](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15D) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2019/325/regulation/44/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ae5fe6b8626cb2d83cda3f1cb9ddf7c3]: Textual amendment: Word in [reg. 15D](https://www.legislation.gov.uk/uksi/2011/1613/regulation/15D) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [44(b)](https://www.legislation.gov.uk/uksi/2019/325/regulation/44/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5f44028aa80b7cf948a5ae4a96f401e8]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2011/1613/part/5B) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2019/325/regulation/45) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-269437626803f4cc8b0f1413bd43c9d4]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2011/1613/regulation/16) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2019/325/regulation/46) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-258ae95640dcadc63d14ac7395a7c4fd]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2011/1613/part/7) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2019/325/regulation/47/1) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-686ead39a3c15a606e1e1023ef3f7098]: Textual amendment: Sch. renumbered as Sch. 1 (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [47(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/47/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20914711]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384); there are other amending instruments but none are relevant.
+
+[^c20914721]: Marginal citation: [S.I. 2001/1060](https://www.legislation.gov.uk/uksi/2001/1060), amended by [S.I. 2002/2157](https://www.legislation.gov.uk/uksi/2002/2157) and 2003/2067. There are other amending instruments but none are relevant.
+
+[^c20914731]: Marginal citation: [S.I. 2002/1775](https://www.legislation.gov.uk/uksi/2002/1775). There are amending instruments but none are relevant.
+
+[^c20914741]: Marginal citation: [S.I. 2003/3297](https://www.legislation.gov.uk/uksi/2003/3297). There are amending instruments but none are relevant.
+
+[^c20914751]: Marginal citation: [S.I. 2004/1862](https://www.legislation.gov.uk/uksi/2004/1862), amended by [S.I. 2004/1862](https://www.legislation.gov.uk/uksi/2004/1862), 2006/3221, 2007/126.
+
+[^c20914761]: Marginal citation: [S.I. 2005/1466](https://www.legislation.gov.uk/uksi/2005/1466).
+
+[^c20914771]: Marginal citation: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529). Article 20B was inserted by [S.I. 2002/2157](https://www.legislation.gov.uk/uksi/2002/2157).
+
+[^c20914781]: Marginal citation: [S.I. 2009/774](https://www.legislation.gov.uk/uksi/2009/774).
+
+[^key-14abc2f93baefa6a98ba1bde40da1944]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1613/schedule/2) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [47(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/47/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20914791]: Marginal citation: OJ No L 302, 17.11.2009, p.32.
+
+[^c20914801]: Marginal citation: OJ No L 176, 10.7.2010, p.42.
+
+[^c20914811]: Marginal citation: OJ No L 176, 10.7.2010, p.28.

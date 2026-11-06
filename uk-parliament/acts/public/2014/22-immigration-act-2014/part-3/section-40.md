@@ -1,0 +1,61 @@
+---
+title: Immigration Act 2014, section 40
+act: Immigration Act 2014
+section: '40'
+status: revised-with-pending-changes
+text_date: '2026-02-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/22/section/40
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Immigration Act 2014, section 40
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-02-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 40. Prohibition on opening current accounts for disqualified persons[^key-dd94146e04678b11743efddde29f0ca8]
+
+*Extent: E+W+S+N.I.*
+
+(1) A bank or building society (B) must not open a current account for a person (P) who is within subsection (2) unless—
+
+- (a) B has carried out a status check which indicates that P is not a disqualified person, or
+- (b) at the time when the account is opened B is unable, because of circumstances that cannot reasonably be regarded as within its control, to carry out a status check in relation to P.
+
+(2) A person is within this subsection if he or she—
+
+- (a) is in the United Kingdom, and
+- (b) requires leave to enter or remain in the United Kingdom but does not have it.
+
+(3) For the purposes of this section—
+
+- (a) carrying out a “**status check**” in relation to P means checking with a specified anti-fraud organisation or a specified data-matching authority whether, according to information supplied to that organisation or authority by the Secretary of State, P is a disqualified person;
+- (b) a “disqualified person” is a person within subsection (2) for whom the Secretary of State considers that a current account should not be opened by a bank or building society;
+- (c) opening an account for P includes—
+  - (i) opening a joint account for P and others;
+  - (ii) opening an account in relation to which P is a signatory or is identified as a beneficiary;
+  - (iii) adding P as an account holder or as a signatory or identified beneficiary in relation to an account.
+
+(4) In subsection (3)(a)—
+
+- “**anti-fraud organisation**” has the same meaning as in section 68 of the Serious Crime Act 2007;
+- “**data-matching authority**” means a person or body conducting data matching exercises, within the meaning of Schedule 9 to the Local Audit and Accountability Act 2014, under or by virtue of that or any other Act;
+- “**specified**” means specified by an order made by the Secretary of State for the purposes of this section.
+
+(5) Subsection (1)(b) does not apply where—
+
+- (a) a bank or building society is required to pay a reasonable fee for carrying out status checks, and
+- (b) its inability to carry out a status check is due to its failure to pay the fee.
+
+(6) A bank or building society that refuses to open a current account for someone on the ground that he or she is a disqualified person must tell the person, if it may lawfully do so, that that is the reason for its refusal.
+
+(7)[^key-002baf5da2fd711926a855b64fcc3acd] The prohibition in subsection (1) does not apply in the case of an account to be operated (or an account that is operated) by or for a person or body of a description specified in an order made by the Treasury.
+
+## Annotations
+
+[^key-dd94146e04678b11743efddde29f0ca8]: Commencement: S. 40 in force at 12.12.2014 by [S.I. 2014/1943](https://www.legislation.gov.uk/uksi/2014/1943), [art. 2](https://www.legislation.gov.uk/uksi/2014/1943/article/2)
+
+[^key-002baf5da2fd711926a855b64fcc3acd]: Textual amendment: S. 40(7) inserted (12.12.2014) by [The Immigration Act 2014 (Bank Accounts) (Amendment) Order 2014 (S.I. 2014/3074)](https://www.legislation.gov.uk/uksi/2014/3074), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3074/article/1), [2](https://www.legislation.gov.uk/uksi/2014/3074/article/2)

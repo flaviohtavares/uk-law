@@ -1,0 +1,129 @@
+---
+title: The Social Landlords (Additional Purposes or Objects) Order 1999
+id: uksi/1999/985
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-03-25'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1999/985
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/985/pdfs/uksi_19990985_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/985/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Landlords (Additional Purposes or Objects) Order 1999
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1999 No. 985
+
+HOUSING, ENGLAND AND WALES
+
+The Social Landlords (Additional Purposes or Objects) Order 1999
+
+Made
+
+25th March 1999
+
+Laid before Parliament
+
+29th March 1999
+
+Coming into force
+
+19th April 1999
+
+The Secretary of State for the Environment, Transport and the Regions, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred upon them by section 2(7) of the Housing Act 1996[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order:–
+
+## 1. Citation and commencement[^key-8fd5d3b57cdb7e29f137d1def2fb4958]
+
+This Order may be cited as the Social Landlords (Additional Purposes or Objects) Order 1999 and shall come into force on 19th April 1999.
+
+## 2. Additional permissible purpose or object[^key-f1355a21b68b8e5ed5c134349812f0f8]
+
+Providing loans secured by mortgages to assist persons to acquire houses for their own occupation is hereby specified as a permissible purpose or object additional to those specified in section 2(4) of the Housing Act 1996[^f00002] (eligibility for registration as a social landlord).
+
+## 3. Priority of mortgages[^key-2c966e47ba63c39666a6a79060a365c4]
+
+(1) Where–
+
+- (a) a social landlord provides an equity percentage loan secured by an equity mortgage to assist a person (“the mortgagor”) to acquire a house for his own occupation; and
+- (b) a qualifying lending institution also provides a loan secured by a mortgage to that mortgagor to assist him to acquire that house,
+
+the mortgage mentioned in sub-paragraph (a) shall have priority immediately after the mortgage mentioned in sub-paragraph (b).
+
+(2) Where the mortgagor, for the purpose of enabling him to carry out any improvement to the house in question, and with the written consent of the social landlord, acquires a further advance secured by the mortgage mentioned in sub-paragraph (b) of paragraph (1), the priority of that mortgage shall remain unchanged.
+
+(3) For the purposes of this article –
+
+- “agreed percentage” means a percentage agreed between the social landlord and the mortgagor;
+- “equity mortgage” is a mortgage under which, in consideration for an equity percentage loan, the mortgagor agrees that on the loan becoming repayable he shall pay to the social landlord an amount which is equal to the agreed percentage multiplied by the value of the house, as determined in accordance with the terms of the mortgage, at the date on which the loan becomes repayable;
+- “equity percentage loan” is a loan which is equal to the agreed percentage multiplied by the value of the house as determined by the social landlord when the loan is made;
+- “qualifying lending institution” means— *(affected by repeal, see note)*[^key-d0bce55969d67f28006b8cd084d9cb90][^key-766072b6b421f875355d667975d2b1f5]
+  - (a) the Corporation; *(affected by repeal, see note)*[^key-d0bce55969d67f28006b8cd084d9cb90]
+  - (aa) the Homes and Communities Agency;[^M_F_2ed49f1d-724d-4b8a-985d-e77dd08e348c] *(affected by repeal, see note)*[^key-d0bce55969d67f28006b8cd084d9cb90]
+  - (c) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits or to effect or carry out contracts of insurance; *(affected by repeal, see note)*[^key-d0bce55969d67f28006b8cd084d9cb90] [^key-f7eefd0691f66ba3aca75de75005acd1]...
+  - (d) [^key-f7eefd0691f66ba3aca75de75005acd1]...
+- [^key-d0bce55969d67f28006b8cd084d9cb90]...
+
+*Extent: E*
+
+(4)[^key-7132fab9549bbc0b7516dd9b0cafcbb0] The definition of “qualifying lending institution” in paragraph (3) must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000;
+- (b)[^key-38e7d02cd55bd4cf2ee4b375d89028e5] any relevant order under that section; and *(affected by repeal, see note)*[^key-38e7d02cd55bd4cf2ee4b375d89028e5]
+- (c) Schedule 2 to that Act. *(affected by repeal, see note)*[^key-38e7d02cd55bd4cf2ee4b375d89028e5]
+
+Signed by authority of the Secretary of State for the Environment, Transport and the Regions
+
+Hilary Armstrong
+
+Minister of State,
+
+Department of the Environment, Transport and the Regions
+
+Signed by authority of the Secretary of State for Wales
+
+Jon Owen Jones
+
+Parliamentary Under Secretary of State, Welsh Office
+
+(This note is not part of the Order)
+
+Section 2 of the Housing Act 1996 specifies the bodies that are eligible for registration as social landlords. For two categories of body (a society registered under the Industrial and Provident Societies Act 1965 and a company registered under the Companies Act 1985) the section sets out conditions that must be satisfied for registration. In addition to the core purposes or objects, there are permissible additional purposes or objects.
+
+This Order specifies a further permissible additional purpose or object for such a body, namely, the provision of loans secured by mortgages to assist persons to acquire houses for their own occupation. The Order also makes provision with respect to the priority of certain mortgages entered into under the additional purpose or object.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
+
+[^key-8fd5d3b57cdb7e29f137d1def2fb4958]: Commencement: Art. 1 in force at 19.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/985/article/1)
+
+[^key-f1355a21b68b8e5ed5c134349812f0f8]: Commencement: Art. 2 in force at 19.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/985/article/1)
+
+[^f00002]: Footnote: *See* S.I. [1996/2256](https://www.legislation.gov.uk/uksi/1996/2256) which specifies additional permissible purposes or objects.
+
+[^key-2c966e47ba63c39666a6a79060a365c4]: Commencement: Art. 3 in force at 19.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/985/article/1)
+
+[^key-d0bce55969d67f28006b8cd084d9cb90]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1999/985/article/3) revoked (E.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/671/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2)
+
+[^key-766072b6b421f875355d667975d2b1f5]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1999/985/article/3/3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [581(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/581/2)
+
+[^M_F_2ed49f1d-724d-4b8a-985d-e77dd08e348c]: Textual amendment: Words in art. 3(3) inserted (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2008 (S.I. 2008/2831)](https://www.legislation.gov.uk/uksi/2008/2831), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2831/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2008/2831/schedule/1/paragraph/9) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2008/2831/schedule/3), [Sch. 4 paras. 5](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/5), [6](https://www.legislation.gov.uk/uksi/2008/2831/schedule/4/paragraph/6)); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/b)
+
+[^key-f7eefd0691f66ba3aca75de75005acd1]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1999/985/article/3/3) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/46) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7132fab9549bbc0b7516dd9b0cafcbb0]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/uksi/1999/985/article/3/4) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [581(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/581/3)
+
+[^key-38e7d02cd55bd4cf2ee4b375d89028e5]: Textual amendment: [Art. 3(4)(b)](https://www.legislation.gov.uk/uksi/1999/985/article/3/4/b)[(c)](https://www.legislation.gov.uk/uksi/1999/985/article/3/4/c) omitted (E.) (5.11.2005) by virtue of [The Social Landlords (Additional Purposes or Objects) (Amendment) (England) Order 2005 (S.I. 2005/2863)](https://www.legislation.gov.uk/uksi/2005/2863), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2863/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2005/2863/article/3/3)

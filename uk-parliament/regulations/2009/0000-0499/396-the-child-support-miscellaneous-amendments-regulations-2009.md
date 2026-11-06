@@ -1,0 +1,272 @@
+---
+title: The Child Support (Miscellaneous Amendments) Regulations 2009
+id: uksi/2009/396
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-02-25'
+text_date: '2010-01-25'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2009/396
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/396/pdfs/uksiem_20090396_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/396/pdfs/uksi_20090396_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/396/pdfs/uksi_20090396_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/396/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Miscellaneous Amendments) Regulations 2009
+
+> Text as at 2010-01-25.
+
+2009 No. 396
+
+Family Law
+
+Child Support
+
+The Child Support (Miscellaneous Amendments) Regulations 2009
+
+Made
+
+25th February 2009
+
+Laid before Parliament
+
+4th March 2009
+
+Coming into force
+
+6th April 2009
+
+The Secretary of State, in exercise of the powers conferred by sections 14(1), 17(3) and (5), 28J(3), 50(1A) and (1C)(b), 51(2)(a), (b) and (f), 54 and 55(1)(c) of, and paragraph 5(a) of Schedule 1 to, the Child Support Act 1991 [^c1958383] and section 57(2) of the Child Maintenance and Other Payments Act 2008 [^c1958384], makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Child Support (Miscellaneous Amendments) Regulations 2009 and shall come into force on 6th April 2009.
+
+## 2. Amendment of the Maintenance Assessment Procedure Regulations
+
+In Schedule 1 to the Child Support (Maintenance Assessment Procedure) Regulations 1992 (meaning of “**child**” for the purposes of the Act) [^c1958385], in paragraph 1(3)(b) (persons of 16 or 17 years of age who are not in full-time non-advanced education), for “or income-based jobseeker's allowance” substitute “ , income-based jobseeker's allowance or income-related employment and support allowance. ”.
+
+## 3. Amendment of the Arrears, Interest and Adjustment of Maintenance Assessments Regulations[^key-952d83e3b9174f7fa532b88ab9b7712d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Decisions and Appeals Regulations
+
+(1) The Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c1958387] are amended as follows.
+
+(2) In regulation 3A (revision of child support decisions)—
+
+- (a) wherever the words “Secretary of State” occur, substitute “ Commission ”;
+- (b) wherever “he” occurs, substitute “ it ”; and
+- (c) omit paragraphs (6) and (7).
+
+(3) In regulation 4 (late application for a revision), after the words “Secretary of State”, wherever they occur, insert “ , the Commission ”.
+
+(4) For regulation 6A substitute—
+
+> **6A. Supersession of child support decisions**
+>
+> (1) This regulation and regulation 6B set out the circumstances in which a decision may be made by the Commission under section 17 of the Child Support Act (decisions superseding earlier decisions).
+>
+> (2) A decision may be superseded by a decision of the Commission, on an application or acting under its own initiative, where—
+>
+> - (a) there has been a relevant change of circumstances since the decision had effect or it is expected that a relevant change of circumstances will occur;
+> - (b) the decision was made in ignorance of, or was based on a mistake as to, some material fact; or
+> - (c) the decision was wrong in law (unless it was a decision made on appeal).
+>
+> (3) The circumstances in which a decision may be superseded include where the relevant change of circumstances causes the maintenance calculation to cease by virtue of paragraph 16 of Schedule 1 to the Child Support Act or where the Commission no longer has jurisdiction by virtue of section 44 of that Act.
+>
+> (4) A decision may be superseded by a decision of the Commission where the Commission receives an application for a variation of the decision under section 28G of the Child Support Act.
+>
+> (5) A decision may not be superseded in circumstances where it may be revised.
+>
+> (6) A decision to refuse an application for a maintenance calculation may not be superseded.
+
+.
+
+(5) In regulation 6B (circumstances in which a child support decision may not be superseded)—
+
+- (a) wherever the words “Secretary of State” occur, substitute “ Commission ”;
+- (b) wherever “6A(3)” occurs, substitute “ 6A(2)(a) ”;
+- (c) omit paragraph (4)(d); and
+- (d) in paragraph (4)(e) for “7B(1) to (3) or (20)” substitute “ paragraph 4 of Schedule 3D ”.
+
+(6) For regulation 7B substitute—
+
+> **7B. Effective date of a supersession decision**
+>
+> Schedule 3D provides for cases and circumstances in which a supersession decision takes effect from a date other than the date specified in section 17(4) of the Child Support  Act.
+
+.
+
+(7) In regulation 7C (procedure where the Secretary of State proposes to supersede a decision under section 17 of the Child Support Act on his own initiative) for “Secretary of State” substitute “ Commission ”, for “his” substitute “ its ” and for “he” substitute “ it ”.
+
+(8) In regulation 15A (provision of information) wherever the words “Secretary of State” occur substitute “ Commission ” and wherever “he” occurs substitute “ it ”.
+
+(9) In regulation 15B (procedure in relation to an application made under section 16 or 17 of the Child Support Act in connection with a previously determined variation) wherever the words “Secretary of State” occur substitute “ Commission ” and wherever “he” occurs substitute “ it ”.
+
+(10) In regulation 15C (notification of a decision made under section 16 or 17 of the Child Support Act)—
+
+- (a) wherever the words “Secretary of State” occur substitute “ Commission ” and wherever “he” occurs substitute “ it ”; and
+- (b) omit paragraphs (6) to (8).
+
+(11) Omit regulation 15D (procedure in relation to the adjustment of the amount payable under a maintenance calculation).
+
+(12) In regulation 23 (child support decisions involving issues that arise on appeal in other cases) wherever the words “Secretary of State” occur substitute “ Commission ” and wherever “he” occurs substitute “ it ”.
+
+(13) In regulation 24 (child support appeals involving issues that arise in other cases) for “Secretary of State” substitute “ Commission ” and for “he” substitute “ it ”.
+
+(14) In regulation 30 (appeal against a decision which has been replaced or revised) after the words “Secretary of State”, wherever they occur, insert “ , the Commission ”.
+
+(15)[^key-0a57faf34039a3e944f54a94e302e5ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(16) After Schedule 3C insert—
+
+> **SCHEDULE 3D — EFFECTIVE DATES FOR SUPERSESSION OF CHILD SUPPORT DECISIONS**
+>
+> Regulation 7B
+>
+> **1.** This Schedule sets out the exceptions to the general rule in section 17(4) of the Child Support Act (that is the rule that a supersession decision takes effect from the beginning of the maintenance period in which it is made or, where applicable, the beginning of the maintenance period in which an application for a supersession is made).
+>
+> **2. Expected change**
+>
+> Where the ground for the supersession decision is that a relevant change of circumstances is expected to occur or that a ground for a variation is expected to occur, the decision takes effect from the beginning of the maintenance period in which that change or that ground is expected to occur.
+>
+> **3. Decision backdated to when the change occurred**
+>
+> Where the ground for the supersession decision is that a relevant change of circumstances of the following kind has occurred, the decision takes effect from the beginning of the maintenance period in which the change occurred—
+>
+> - (a) a qualifying child dies or ceases to be a qualifying child;
+> - (b) the person with care ceases to be a person with care in relation to a qualifying child;
+> - (c) the person with care, the non-resident parent or a qualifying child ceases to be habitually resident in the United Kingdom; or
+> - (d) paragraph 4(2) of Schedule 1 to the Child Support Act (flat rate for a non-resident parent whose partner is a non-resident parent) begins or ceases to apply.
+>
+> **4. Non-resident parent or partner on or off benefit**
+>
+> Where a supersession decision is made by the Commission acting on its own initiative on the basis of information or evidence which was also the basis of a decision made by the Secretary of State under section 8, 9 or 10 of the Act (decisions on claims for benefits), the decision takes effect from the beginning of the maintenance period in which that information is brought to the attention of the Commission.
+>
+> **5. New qualifying child**
+>
+> Paragraphs 6 and 7 apply where the ground for the supersession is that there is a new qualifying child in relation to the non-resident parent.
+>
+> **6.** Where there is a new qualifying child in relation to the same person with care—
+>
+> - (a) if the application is made by the non-resident parent, the decision takes effect from the beginning of the maintenance period in which the application is made; and
+> - (b) if the application is made by the person with care the decision takes effect from the beginning of the maintenance period in which notification of the application is given to the non-resident parent.
+>
+> **7.** Where there is a new qualifying child in relation to a different person with care and an application for a maintenance calculation has been made under section 4 or section 7 of the Child Support Act, the decision takes effect from the beginning of the maintenance period in which notification of the calculation is given to the non-resident parent.
+>
+> **8. Series of changes waiting to be actioned**
+>
+> Where a decision is superseded on application and, in relation to that decision, a maintenance calculation is made to which paragraph 15 of Schedule 1 to the Child Support Act applies, the effective date of the calculation or calculations is the beginning of the maintenance period in which the change of circumstances to which the calculation relates occurred or is expected to occur and where it occurred before the date of the application for the supersession and was notified after that date, the date of that application.
+>
+> **9. Own initiative decision**
+>
+> Unless paragraph 4 applies, where a decision is superseded in a case where the Commission is required to give notice under regulation 7C, the decision takes effect from the first day of the maintenance period which includes the date which is 28 days after the date on which the Commission has given notice (oral or written) to the relevant persons under that regulation.
+>
+> **10. Supersession of tribunal decision made pending outcome of a related appeal**
+>
+> Where, in accordance with section 28ZB(5) of the Child Support Act (appeals involving issues that arise on appeal in other cases), the Commission makes a decision superseding the decision of the First-tier Tribunal or the Upper Tribunal, the superseding decision takes effect from the beginning of the maintenance period following the date on which the decision of the First-tier Tribunal or, as the case may be, the Upper Tribunal would have taken effect had it been decided in accordance with the determination of the Upper Tribunal or the court in the appeal referred to in section 28ZB(1)(b).
+>
+> **11. Supersession of tribunal decision made in error due to misrepresentation etc.**
+>
+> Where—
+>
+> - (a) a decision made by the First-tier Tribunal or the Upper Tribunal is superseded on the ground that it was erroneous due to misrepresentation of, or that there was a failure to disclose, a material fact; and
+> - (b) the Commission is satisfied that the decision was more advantageous to the person who misrepresented or failed to disclose that fact than it would otherwise have been but for that error,
+>
+> the superseding decision takes effect from the date on which the decision of the First-tier Tribunal or, as the case may be, the Upper Tribunal took, or was to take, effect.
+>
+> **12. Supersession of look alike case where law reinterpreted by the Upper Tribunal or a court**
+>
+> Any decision made under section 17 of the Child Support Act in consequence of a determination which is a relevant determination for the purposes of section 28ZC (cases of error) of that Act takes effect from the date of the relevant determination.
+
+.
+
+## 5. Amendment of the Maintenance Calculations and Special Cases Regulations
+
+In regulation 5 of the Child Support (Maintenance Calculations and Special Cases) Regulations 2000 (nil rate) [^c1958389], omit paragraphs (g), (gg) and (h).
+
+## 6. Amendment of the Information Regulations
+
+For regulation 14 of the Child Support Information Regulations 2008 [^c1958390] substitute—
+
+> **14. Employment to which section 50 of the 1991 Act applies**
+>
+> (1) For the purposes of section 50(1A) of the 1991 Act, employment as any member of a committee or sub-committee established under paragraph 11 of Schedule 1 to the Child Maintenance and Other Payments Act 2008 is prescribed as a kind of employment to which section 50(1) of that Act applies.
+>
+> (2) For the purposes of section 50(1C) of the 1991 Act, the following kinds of employment are prescribed as kinds of employment to which section 50(1B) of that Act applies—
+>
+> - (a) the Comptroller and Auditor General;
+> - (b) any member of staff of the National Audit Office or any other person who carries out administrative work of that Office or who provides, or is employed in the provision of, services to it;
+> - (c) the Parliamentary Commissioner for Administration;
+> - (d) the Health Service Commissioner for Wales;
+> - (e) the Health Service Commissioner for Scotland;
+> - (f) any officer of any of the Commissioners referred to in paragraphs (c) to (e)  above.
+
+.
+
+## 7. Saving
+
+(1) Regulation 4 has no effect in relation to 1993 scheme cases.
+
+(2) A 1993 scheme case is one in respect of which the provisions of the Child Support, Pensions and Social Security Act 2000 [^c1958391] have not been brought into force in accordance with article 3 of the Child Support, Pensions, and Social Security Act 2000 (Commencement No.12) Order 2003 [^c1958392].
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Kitty Ussher
+
+Parliamentary Under Secretary of State,
+
+Department for Work and Pensions
+
+25th February 2009
+
+*(This note is not part of the Regulations)*
+
+Regulation 2 makes consequential amendment to the Child Support (Maintenance Assessment Procedure) Regulations 1992 (S.I. 1992/1813) by adding a reference to income-related employment and support allowance, which was introduced by Part 1 of the Welfare Reform Act 2007 (c.5).
+
+Regulation 3 makes an amendment to regulation 10 of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations 1992 (S.I. 1992/1816) consequential on regulation 4.
+
+Regulation 4 amends the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (S.I. 1999/991) (“**the Decisions and Appeals Regulations**”) for two purposes. First, it amends references to the Secretary of State in consequence of the transfer of child support functions to the Child Maintenance and Enforcement Commission by the Child Maintenance and Other Payments Act 2008 (c.6). Secondly, it consolidates and simplifies certain provisions in the Decisions and Appeals Regulations relating to revision and supersession of child support decisions. Accordingly-
+
+- a new regulation 6A, setting out circumstances in which a supersession decision may or may not be made, has been substituted;
+- a new Schedule 3D, setting out the exceptions to the general rule in section 17 of the Child Support Act 1991 as to the date from which a supersession decision takes effect (previously set out in regulation 7B), has been inserted;
+- the provisions regarding adjustment of amounts payable under a maintenance calculation in relation to voluntary payments and overpayments of child support maintenance have been amended so that sections 16 and 17 of the Child Support Act 1991 no longer apply, but the right of appeal is retained.
+
+Regulation 5 amends regulation 5 of the Child Support (Maintenance Calculations and Special Cases) Regulations 2000 (S.I. 2000/155) by removing from the categories of persons liable for the nil rate of child support maintenance those persons who have been hospital in-patients for 52 weeks or more. This is a result of the revocation of the Social Security (Hospital In-Patients) Regulations 1975 (S.I. 1975/555) on 10th April 2006 by the Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360), from which date the benefits of hospital in-patients are no longer down-rated. As a consequence of this change, such persons are no longer subject to the nil rate of child support maintenance.
+
+Regulation 6 substitutes a new regulation 14 in the Child Support Information Regulations (S.I. 2008/2551). It adds employment as a member of a committee or sub-committee established under paragraph 11 of Schedule 1 to the Child Maintenance and Other Payments Act 2008 to those subject to the offence of unauthorised disclosure of information in section 50(1) of the Child Support Act 1991 and prescribes the kinds of employment to which the offence for unauthorised disclosure in section 50(1B) of that Act applies.
+
+Regulation 7 makes clear that the amendments in regulation 4 are not applicable to those cases (often referred to as “**old scheme cases**”) in respect of which the provisions of the Child Support, Pensions and Social Security Act 2000 (c.19) have not been commenced.
+
+A full impact assessment has not been produced for this instrument as it has no impact on the private and voluntary sectors.
+
+## Annotations
+
+[^c1958383]: Marginal citation: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48). Section 28J was inserted by section 20 of the [Child Support, Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19) (“**the 2000 Act**”). Section 50(1A) to (1C) were inserted by section 57 of, and paragraph 1(20) of Schedule 7 to, the [Child Maintenance and Other Payments Act 2008 (c.6)](https://www.legislation.gov.uk/ukpga/2008/6). Section 51(2) was amended by section 1(2)(a) of, and paragraph 11(19) of Schedule 3 to, the 2000 Act. Section 54 is cited for the definition of “prescribed”. Part 1 of Schedule 1 was substituted by section 1(3) of, and Schedule 1 to, the 2000 Act.
+
+[^c1958384]: Marginal citation: [2008 c.6](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^c1958385]: Marginal citation: [S.I. 1992/1813](https://www.legislation.gov.uk/uksi/1992/1813). Paragraph 1(3)(b) of Schedule 1 was amended by [S.I. 1996/1345](https://www.legislation.gov.uk/uksi/1996/1345).
+
+[^key-952d83e3b9174f7fa532b88ab9b7712d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/396/regulation/3) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+
+[^c1958387]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991). Relevant amending instruments are [S.I. 2000/3185](https://www.legislation.gov.uk/uksi/2000/3185), 2002/1204, 2003/328 and 1050, 2004/2415 and 2008/2544, 2656 and 2683.
+
+[^key-0a57faf34039a3e944f54a94e302e5ef]: Textual amendment: [Reg. 4(15)](https://www.legislation.gov.uk/uksi/2009/396/regulation/4/15) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+
+[^c1958389]: Marginal citation: [S.I. 2000/155](https://www.legislation.gov.uk/uksi/2000/155). Relevant amending instruments are [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), 2003/1195 and 2005/785.
+
+[^c1958390]: Marginal citation: [S.I. 2008/2551](https://www.legislation.gov.uk/uksi/2008/2551).
+
+[^c1958391]: Marginal citation: [2000 c.19](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^c1958392]: Marginal citation: [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192).

@@ -1,0 +1,74 @@
+---
+title: Agricultural Holdings (Scotland) Act 1991, section 66
+act: Agricultural Holdings (Scotland) Act 1991
+section: '66'
+status: revised-with-pending-changes
+text_date: '2021-02-28'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1991/55/section/66
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Agricultural Holdings (Scotland) Act 1991, section 66
+
+> **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 66. Power to enable demand to remedy a breach to be modified on arbitration.[^key-d8e312c5fac6855dcb1863755643293a]
+
+*Extent: S*
+
+(1) Where a question or difference required by section 60 of this Act to be determined by the Land Court[^key-5119dd550a176b5eb7e9a304f956cb59] relates to a demand in writing served on a tenant by a landlord requiring the tenant to remedy a breach of any term or condition of his tenancy by the doing of any work of provision, repair, maintenance or replacement of fixed equipment, the Land Court[^key-c4613fb9df09b0c7917e6e2ed7dfc4ba] may
+
+- (a) in relation to all or any of the items specified in the demand, whether or not any period is specified as the period within which the breach should be remedied, specify such period for that purpose as appears in all the circumstances to the Land Court to be reasonable;
+- (b) delete from the demand any item or part of an item which, having due regard to the interests of good husbandry as respects the holding and of sound management of the estate of which the holding forms part or which the holding constitutes, the Land Court is satisfied is unnecessary or unjustified;
+- (c) substitute, in the case of any item or part of an item specified in the demand, a different method or material for the method or material which the demand would otherwise require to be followed or used where, having regard to the purpose which that item or part is intended to achieve, the Land Court is satisfied that—
+  - (i) the latter method or material would involve undue difficulty or expense,
+  - (ii) the first-mentioned method or material would be substantially as effective for the purpose, and
+  - (iii) in all the circumstances the substitution is justified.
+
+(2) Where under subsection (1)(a) above the Land Court[^key-b58339b87f311c362124b00d4639798a] specifies a period within which a breach should be remedied or the period for remedying a breach is extended by virtue of subsection (4) below, the Land Court may, on the application of [^key-df210cd48da48bb4ec1aebbbe91feeea]... the landlord, specify a date for the termination of the tenancy by notice to quit in the event of the tenant’s failure to remedy the breach within that period, being a date not earlier than whichever of the two following dates is the later, that is to say—
+
+- (a) the date on which the tenancy could have been terminated by notice to quit served on the expiry of the period originally specified in the demand, or if no such period is so specified, on the date of the giving of the demand, or
+- (b) 6 months after the expiry of the period specified [^key-df210cd48da48bb4ec1aebbbe91feeea]... or, as the case may be, of the extended period.
+
+(2A)[^key-18c0ac39903b37656194e3cbf0647751] Where, by virtue of section 61(1) of this Act, an arbiter specifies under subsection (1)(a) above a period within which a breach should be remedied or the period for remedying a breach is extended by virtue of subsection (4) below, the Land Court may, on the application of the arbiter or the landlord, specify a date for the termination of the tenancy by notice to quit in the event of the tenant’s failure to remedy the breach within that period, being a date not earlier than whichever of the two dates referred to in subsection (2) above is the later.
+
+(3) A notice to quit on a date specified in accordance with subsection (2)or (2A)[^key-6ada28a8c4c0d370d3c5cb64d6e80175] above shall be served on the tenant within one month after the expiry of the period specified by the Land Court[^key-95b234ab09c75cb68d6f9c88187b4f7e] or the extended time, and shall be valid notwithstanding that it is served less than 12 months before the date on which the tenancy is to be terminated or that that date is not the end of a year of the tenancy.
+
+(4) Where—
+
+- (a) notice to quit to which 22(2)(d) of this Act applies is stated to be given by reason of the tenant’s failure to remedy within the period specified in the demand a breach of any term or condition of his tenancy by the doing of any work of provision, repair, maintenance or replacement of fixed equipment, or within that period as extended by the landlord or the Land Court[^key-f1404bb0cbdfc4dd22614d75c54e9c2d]; and
+- (b) it appears to the Land Court in a determination required[^key-4367b45a3e99482dc7c21c30e3a02528] under section 23(2) of this Act that, notwithstanding that the period originally specified or extended was reasonable, it would, in consequence of any happening before the expiry of that period, have been unreasonable to require the tenant to remedy the breach within that period;
+
+the Land Court may treat the period as having been extended or further extended and make its determination[^key-8f22f3bb76fa8f6a53ef2c1ebb3b8f6b] as if the period had not expired; and where the breach has not been remedied at the date of the determination[^key-b9fac575accf11e60d28e8bb0c454348], the Land Court may extend the period as it[^key-0882625adc0b5f874b9c6136f7ba6277] considers reasonable, having regard to the length of period which has elapsed since the service of the demand.
+
+## Annotations
+
+[^key-d8e312c5fac6855dcb1863755643293a]: Modification: S. 66 applied (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 80(3)](https://www.legislation.gov.uk/asp/2003/11/section/80/3), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-5119dd550a176b5eb7e9a304f956cb59]: Textual amendment: Words in s. 66(1) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(a)(i)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/a/i) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-c4613fb9df09b0c7917e6e2ed7dfc4ba]: Textual amendment: Words in s. 66(1) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(a)(ii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/a/ii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-b58339b87f311c362124b00d4639798a]: Textual amendment: Words in s. 66(2) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(b)(i)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/b/i) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-df210cd48da48bb4ec1aebbbe91feeea]: Textual amendment: Words in s. 66(2) repealed (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(b)(ii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/b/ii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-18c0ac39903b37656194e3cbf0647751]: Textual amendment: S. 66(2A) inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(c)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/c) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-6ada28a8c4c0d370d3c5cb64d6e80175]: Textual amendment: Words in s. 66(3) inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(d)(i)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/d/i) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-95b234ab09c75cb68d6f9c88187b4f7e]: Textual amendment: Words in s. 66(3) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(d)(ii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/d/ii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-f1404bb0cbdfc4dd22614d75c54e9c2d]: Textual amendment: Words in s. 66(4) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(e)(i)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/e/i) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-4367b45a3e99482dc7c21c30e3a02528]: Textual amendment: Words in s. 66(4) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(e)(ii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/e/ii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-8f22f3bb76fa8f6a53ef2c1ebb3b8f6b]: Textual amendment: Words in s. 66(4) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(e)(iii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/e/iii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-b9fac575accf11e60d28e8bb0c454348]: Textual amendment: Word in s. 66(4) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(e)(iv)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/e/iv) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+
+[^key-0882625adc0b5f874b9c6136f7ba6277]: Textual amendment: Word in s. 66(4) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 36(e)(v)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/36/e/v) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

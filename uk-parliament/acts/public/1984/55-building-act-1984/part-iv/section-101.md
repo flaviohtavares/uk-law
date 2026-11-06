@@ -1,0 +1,47 @@
+---
+title: Building Act 1984, section 101
+act: Building Act 1984
+section: '101'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1984/55/section/101
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Act 1984, section 101
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/55
+>
+> Extent: England, Wales.
+
+## 101. Breaking open of streets.
+
+*Extent: E+W*
+
+(1) For the purposes of any section of this Act that confers powers on any relevant authority[^key-541e0c91dc8ce7d856341bd1865b76c5] to construct, lay or maintain sewers, drains or pipes, section 158 of the Water Industry Act 1991[^c928491][^c928481] (street works) shall apply, with the necessary modifications, as it applies[^c928501] for the purpose of conferring power on a water undertaker or sewerage undertaker to lay a relevant pipe, within the meaning of that section[^c928511].
+
+(2)[^c928521] That section[^c928531] shall also so apply so far as necessary for the purposes of any power to lay or maintain a sewer or drain which is conferred by this Act on a person other than a relevant authority[^key-a26a7060175bb41a2adf6ff4485c24e7].
+
+(3)[^key-9f2f5742028c72c272c4481e781371de] In this section “**relevant authority**” means a local authority or the regulator.
+
+## Annotations
+
+[^key-541e0c91dc8ce7d856341bd1865b76c5]: Textual amendment: Words in [s. 101(1)](https://www.legislation.gov.uk/ukpga/1984/55/section/101/1) substituted (1.10.2023 except in relation to W., 6.4.2024 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 64(2)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/64/2); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xxv)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xxv) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4)); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(xi)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/xi), [Sch.](https://www.legislation.gov.uk/wsi/2024/207/schedule) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+
+[^c928491]: Textual amendment: words in s. 101(1) substituted (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 39(5)(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/39/5/a).
+
+[^c928481]: Textual amendment: Words in [s. 101(1)](https://www.legislation.gov.uk/ukpga/1984/55/section/101/1) substituted by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 25 para. 70(3)(a)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25/paragraph/70/3/a), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58)
+
+[^c928501]: Textual amendment: Words in [s. 101(1)](https://www.legislation.gov.uk/ukpga/1984/55/section/101/1) substituted (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 39(5)(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/39/5/a).
+
+[^c928511]: Textual amendment: Words in [s. 101(1)](https://www.legislation.gov.uk/ukpga/1984/55/section/101/1) substituted (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 39(5)(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/39/5/a).
+
+[^c928521]: Textual amendment: [S. 101(2)](https://www.legislation.gov.uk/ukpga/1984/55/section/101/2) substituted by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 25 para. 70(3)(b)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25/paragraph/70/3/b), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58)
+
+[^c928531]: Textual amendment: Words in [s. 101(2)](https://www.legislation.gov.uk/ukpga/1984/55/section/101/2) substituted (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 39(5)(b)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/39/5/b).
+
+[^key-a26a7060175bb41a2adf6ff4485c24e7]: Textual amendment: Words in [s. 101(2)](https://www.legislation.gov.uk/ukpga/1984/55/section/101/2) substituted (1.10.2023 except in relation to W., 6.4.2024 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 64(3)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/64/3); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xxv)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xxv) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4)); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(xi)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/xi), [Sch.](https://www.legislation.gov.uk/wsi/2024/207/schedule) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+
+[^key-9f2f5742028c72c272c4481e781371de]: Textual amendment: [S. 101(3)](https://www.legislation.gov.uk/ukpga/1984/55/section/101/3) inserted (1.10.2023 except in relation to W., 6.4.2024 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 64(4)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/64/4); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xxv)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xxv) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4)); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(xi)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/xi), [Sch.](https://www.legislation.gov.uk/wsi/2024/207/schedule) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))

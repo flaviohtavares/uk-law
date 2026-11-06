@@ -1,0 +1,43 @@
+---
+title: Road Traffic Act 1988, section 59
+act: Road Traffic Act 1988
+section: '59'
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1988/52/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Road Traffic Act 1988, section 59
+
+> **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 59. Supplementary provisions as to certificates of conformity and Minister’s approval certificates.
+
+*Extent: E+W+S*
+
+(1) The Secretary of State may by regulations require that prescribed alterations—
+
+- (a) in any of the relevant aspects of design, construction, equipment or marking, or
+- (b) in any such aspect which affects the plated weight,
+
+made to any vehicle for which a certificate of conformity or a Minister’s approval certificate is issued shall, subject to any exemption granted under subsection (2) below, be notified to the Secretary of State.
+
+(2) The Secretary of State may by notice in writing given to the manufacturer of vehicles or to the owner of a vehicle for which a Minister’s approval certificate is issued—
+
+- (a) direct that any specified alteration in any of the aspects mentioned in subsection (1) above to a vehicle to which the direction relates shall be notified to the Secretary of State,
+- (b) exempt a vehicle to which the notice relates from all or any of the requirements of regulations under subsection (1) above, subject to compliance with any conditions specified in the notice.
+
+(3) Without prejudice to the provisions of section 61 of this Act, the Secretary of State may by regulations require that a certificate of conformity or Minister’s approval certificate issued for any vehicle shall specify—
+
+- (a) the regulations, if any, applicable to the vehicle under subsection (1) above at the time of the issue of the certificate,
+- (b) any additional alteration to that vehicle required by any direction under subsection (2) above to be notified to the Secretary of State, and
+- (c) any exemption applicable to that vehicle under that subsection.
+
+(4) A certificate of conformity or a Minister’s approval certificate specifying any plated weights shall be treated for the purposes of the provisions of this Part of this Act and any regulations made under them relating to plating certificates (except section 50 (1) and (2) of this Act) as a plating certificate.
+
+This subsection does not apply in relation to vehicle parts.

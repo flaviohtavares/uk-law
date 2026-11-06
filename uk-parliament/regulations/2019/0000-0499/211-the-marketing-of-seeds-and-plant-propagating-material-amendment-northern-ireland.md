@@ -1,0 +1,1190 @@
+---
+title: The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019
+id: uksi/2019/211
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-01-31'
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/211
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/211/pdfs/uksiem_20190211_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/211/pdfs/uksi_20190211_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/211/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2019 No. 211
+
+Exiting The European Union, Northern Ireland
+
+Plant Health, Northern Ireland
+
+Seeds, Northern Ireland
+
+The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019
+
+Sift requirements satisfied
+
+8th January 2019
+
+Made
+
+31st January 2019
+
+Laid before Parliament
+
+11th February 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State, in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23561031], makes the following Regulations:
+
+The requirements of paragraph 3(2) of Schedule 7 to the European (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and extent[^key-1adbc8990ecf01a99f3f842d503b113b]
+
+(1) These Regulations may be cited as the Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 and come into force on exit day.
+
+(2) These Regulations extend to Northern Ireland only.
+
+## PART 2 — Amendment of the Marketing of Vegetable Plant Material Regulations (Northern Ireland) 1995
+
+### 2.[^key-554f65d8a12d71d3e6953580f1c05afb]
+
+The Marketing of Vegetable Plant Material Regulations (Northern Ireland) 1995 [^c23561041] are amended as follows.
+
+### 3.[^key-b0c656b4d71e34088b40678b3aeb02cc]
+
+In regulation 3(2)(a), for “European Union”, substitute “ United Kingdom ”.
+
+### 4.[^key-3a8caadc3630f0d73c0810f07cd91de7]
+
+In regulation 5(d)(ii), after “it”, insert “ is marketed before the end of the period of two years beginning with the day after the day on which exit day falls and ”.
+
+### 5.[^key-664a0b8697a83d1d0c855c56463d81d2]
+
+In regulation 8(2), for “Council Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29)”, substitute “ the Plant Health (Northern Ireland) Order 2018 [^c23561051] ”.
+
+### 6.[^key-abbb398ff516de1ba3a20d6745570943]
+
+In regulation 11(2), for “representatives of the European Commission and such other”, substitute “ such ”.
+
+### 7. Amendment of Schedule 2 (Content of a supplier's document)[^key-e4b64f54b08f7ceb4e764b53f55c1939]
+
+In Schedule 2—
+
+- (a) in Part A—
+  - (i) in paragraph 1, for “EC”, substitute “ UK ”;
+  - (ii) omit paragraph 2;
+  - (iii) in paragraph 3, at the end, insert “ and its abbreviated country code ”;
+- (b) in Part B, paragraph 1, for “EC”, substitute “ UK ”.
+
+## PART 3 — Amendment of the Marketing of Ornamental Plant Propagating Material Regulations (Northern Ireland) 1999
+
+### 8.[^key-71714e826baaff4e36746f1035f523c0]
+
+The Marketing of Ornamental Plant Propagating Material Regulations (Northern Ireland) 1999 [^c23561061] are amended as follows.
+
+### 9.[^key-57053ffcc6987242d26c9893fc32b59a]
+
+In regulation 2(2)—
+
+- (a) omit the definition of “Directive [77/93/EEC](https://www.legislation.gov.uk/eudr/1977/93)”;
+- (b) omit the definition of “Regulation 2100/94”;
+- (c) in the definition of “supplier”, for “from third countries”, substitute “into the United Kingdom[^key-aedb735dce069bbbb972868c89c206b0]”;
+- (d) omit the definition of “third country” and the “and” immediately preceding it.
+
+### 10.[^key-5a4e08584eedd7d8e9df37cb2221a8d3]
+
+In regulation 3(2)(a), for “to third countries”, substitute “ from the United Kingdom ”.
+
+### 11.[^key-8a0206860e0f3ac4aec6b0072cbfdbd2]
+
+In regulation 6A(4), for the definition of “responsible official body”, substitute—
+
+> “**responsible official body**” has the meaning given in the Plant Health (Northern Ireland) Order 2018 [^c23561071].
+
+.
+
+### 12.[^key-cbc887db86e17a1bbb57a978f3e4b3d6]
+
+In regulation 9(2), for “Council Directive [77/93/EEC](https://www.legislation.gov.uk/eudr/1977/93)” substitute “ the Plant Health (Northern Ireland) Order 2018 ”.
+
+### 13.[^key-dad6f4490f7641c4a8c1e411076865eb]
+
+In regulation 11(1)—
+
+- (a) in sub-paragraph (a), omit “Community plant variety rights pursuant to Regulation 2100/94 or”;
+- (b) in sub-paragraph (c)(iii), for “Community plant variety right” to the end, substitute “plant breeders' right in respect of the variety under the Plant Varieties Act 1997 [^c23561081]”.
+
+### 14.[^key-a83b1f5f03fd98f0bc426d8757fe65d7]
+
+In regulation 12—
+
+- (a) in the heading, for “in third countries”, substitute “ outside of the United Kingdom ”;
+- (b) in paragraph (1)—
+  - (i) for “from a third country”, substitute “ into the United Kingdom ”;
+  - (ii) for “Directive [98/56/EC](https://www.legislation.gov.uk/eudr/1998/56)”, substitute “ these Regulations ”;
+- (c) in paragraphs (2) and (4)—
+  - (i) at the beginning, insert “ Subject to paragraph (5), ”;
+  - (ii) omit “from a third country”;
+- (d) after paragraph (4), insert—
+
+  > (5) Paragraphs (2) and (4) do not apply to suppliers importing propagating material produced in—
+  >
+  > - (a) the European Union before the end of the period of two years beginning with the day after the day on which exit day falls;
+  > - (b) the Channel Islands or the Isle of Man.
+
+  .
+
+### 15. Amendment of the Schedule (Information to appear on a supplier's label or other document)[^key-38f5a622f9b1a749c4c3624cd349e4b4]
+
+In the Schedule—
+
+- (a) in paragraph 1, for “EC”, substitute “ UK ”;
+- (b) omit paragraph 2;
+- (c) in paragraph 3, insert, at the end “ and its abbreviated country code ”;
+- (d) in paragraph 10, for “ from a third country”, substitute “ into the United Kingdom ”.
+
+## PART 4 — The Forest Reproductive Material Regulations (Northern Ireland) 2002
+
+### 16.[^key-d215949bdf9cd0a4d19ebfd8e8f39484]
+
+The Forest Reproductive Material Regulations (Northern Ireland) 2002 [^c23561091] are amended as follows.
+
+### 17.[^key-e8c828e28ec1d276506f00269c02105e]
+
+In regulation 2—
+
+- (a) in paragraph (2)—
+  - (i) after the definition of “approved basic material”, insert—
+
+    > “**approved non-EU third countries**” means the countries and territories listed in Part 1A of Schedule 13;
+
+    ;
+  - (ii) after the definition of “collecting”, insert—
+
+    > “the Commissioners” has the same meaning given in the GB Regulations;
+
+    ;
+  - (iii) omit the definition of “Council Decision [2008/971/EC](https://www.legislation.gov.uk/eud/2008/971)”;
+  - (iv) omit the definition of “EC classification”;
+  - (v) omit the definition of “EU-approved third countries”;
+  - (vi) in the definition of “genetically modified organism”, for the words from “Article 2(1)” to the end, substitute “Article 3 of the Genetically Modified Organisms (Northern Ireland) Order 1991 [^c23561101];
+  - (vii) after the definition of “genetically modified organism”, insert—
+
+    > “**the GB Regulations**” means the Forest Reproductive Material (Great Britain) Regulations 2002 [^c23561111];
+
+    ;
+  - (viii) in the definition of “Master Certificate”—
+    - (aa) in paragraph (b), for “official body for Great Britain” to the end, substitute “ the Commissioners in accordance with regulation 13 of the GB Regulations ”;
+    - (bb) in paragraph (d), for “ EU-approved”, substitute “ approved non-EU ”, and for the words from “a relevant” to the end, substitute “ the Commissioners in accordance with the GB Regulations ”;
+  - (ix) in paragraph (e), for “an official body of a member State”, substitute “ by a permitted third country authority ”;
+  - (x) omit the definition of “the Mediterranean climatic region”;
+  - (xi) in the definition of “official body”—
+    - (aa) omit paragraph (b);
+    - (bb) in paragraph (c), after “in relation to”, insert “ an approved non-EU third country or ”;
+  - (xii) omit the definition of “plant passport”;
+  - (xiii) in the definition of “region of provenance”, for “in accordance with Article 9 of the Directive by another official body”, substitute “pursuant to regulation 5 of the GB Regulations by the Commissioners;
+  - (xiv) for the definition of “third countries”, substitute—
+
+    > “**third country**” means a country or territory outside the United Kingdom;
+
+    ;
+- (b) omit paragraphs (4A) to (6).
+
+### 18.[^key-4d4480ae84bfd7a2830ddd1aa529aad0]
+
+In regulation 4, omit paragraph (1A).
+
+### 19.[^key-eeb65c0ebc3dc4e61c48a69567a84096]
+
+In regulation 7(4)—
+
+- (a) omit sub-paragraph (b);
+- (b) at the end insert—
+
+  > - (c) as regards Northern Ireland, consent to the marketing of the basic material has been given by the Department in accordance with the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003 [^c23561121].
+
+  .
+
+### 20.[^key-ec1f48f485c01d91cefb9ce6bf9a639d]
+
+In regulation 14(4)—
+
+- (a) in sub-paragraph (a)—
+  - (i) in paragraph (ii)—
+    - (aa) for “any other official body of a member State”, substitute “ the Commissioners ”;
+    - (bb) for “the official body in accordance with Article 10 of the Directive”, substitute “ the Commissioners in accordance with regulation 7 of the GB Regulations ”;
+  - (ii) in paragraph (iii), for “an EU-approved”, substitute “ a member State, an approved non-EU ”;
+- (b) in sub-paragraph (b), after paragraph (i), insert —
+
+  > - (ia) in the case of forest reproductive material derived from basic material approved by the Commissioners, has the meaning given in regulation 7(5) of the GB Regulations;
+
+  .
+
+### 21.[^key-8e9a263f45e08526ecc66abfb27a3dfa]
+
+In regulation 17—
+
+- (a) in paragraph (1)—
+  - (i) in sub paragraph (b)—
+    - (aa) omit “or another member State”;
+    - (bb) for “Article 14 of the Directive”, substitute “ regulation 19 of the GB Regulations ”;
+  - (ii) after sub-paragraph (b), insert—
+
+    > - (bb) in the case of forest reproductive material produced in a member State and imported into Northern Ireland, it has met the requirements as to entry into Northern Ireland set out in regulation 25;
+
+    ;
+  - (iii) in sub-paragraph (c), for “an EU-approved”, substitute “ approved non-EU ”;
+  - (iv) omit sub-paragraph (d);
+  - (v) after sub-paragraph (e), insert—
+
+    > - (ee) in the case of forest reproductive material imported into England, it met the requirements set out in the GB Regulations as to entry into England and was accompanied on its entry into Northern Ireland by the supplier's label or document required by regulation 19 of the GB Regulations;
+
+    ;
+  - (vi) omit sub-paragraph (f);
+- (b) omit paragraph (12).
+
+### 22.[^key-daa87d6112f280a05343a3e06f6c946e]
+
+In regulation 18(3), in sub-paragraph (c), for “the Directive”, substitute “ any provision made under retained EU law relating to forest reproductive material or the Seeds Act (Northern Ireland) 1965 [^c23561131] ”.
+
+### 23.[^key-e9a29a150ec8e016b7be28dc82b044a2]
+
+In regulation 19—
+
+- (a) in paragraph (1), omit sub-paragraph (h) and the preceding “and”;
+- (b) in paragraph (3), for “EU-approved”, substitute “ approved non-EU ”.
+
+### 24.[^key-6af05fadd1b90918810c96b3abb96e31]
+
+In the heading to Part 6, for “Between Northern Ireland and elsewhere in the European Community”, substitute “ within the United Kingdom ”.
+
+### 25.[^key-00819e93ce7140e077c89d1cfe6b10b4]
+
+In regulation 21, for “Great Britain”, in each place where it occurs (including the heading), substitute “ another part of the United Kingdom ”.
+
+### 26.[^key-2774c7e3c8d309cc82dfbb773b867f36]
+
+Omit regulation 22.
+
+### 27.[^key-38248a4a7557de4994593900b16fa889]
+
+In regulation 23—
+
+- (a) in the heading, at the end, insert “ or within Great Britain ”;
+- (b)[^key-b0085d48f9fe5a59bce9e07d46ecb4a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-0e924e7dd09dc70b4274ada385f10d70] for “required by article 14 of the Directive”, substitute “setting out the particulars required under regulation 19 of these Regulations or regulation 19 of the GB Regulations”.
+
+### 28.[^key-72e101d4f01f3936b214af75352c9fe3]
+
+Omit regulation 24.
+
+### 29.[^key-7c43752cded7e05a24f71da31e687291]
+
+In regulation 25, in paragraphs (1), (2) and (6), for “an EU-approved”, substitute “ a member State, or[^key-c10aeef8a5888fdf8b411d4114c9cc40] an approved non-EU ”.
+
+### 30.[^key-743f4702e58d6ea0758609a5deef4a87]
+
+In regulation 26(3)(a)(vii), at the beginning, insert “ UK ”.
+
+### 31.[^key-70956cab396c1655fc4bb481af70fc52]
+
+In regulation 27—
+
+- (a) in paragraph (2),—
+  - (i) omit “, including representatives of the Commission of the European Union”;
+  - (ii) omit “, or for facilitating the checks required under Article 16(6) of the Directive”;
+- (b) in paragraph (3), omit “the Commission of the European Communities or”;
+
+### 32.[^key-8c5d9bc38f701e9611a257e885b90c78]
+
+In regulation 33(2), omit “or European Community”.
+
+### 33. Amendment of Schedule 6[^key-5c2cd25a8109aa61cc0f285310a3f1e3]
+
+In the model certificate in Schedule 6—
+
+- (a) for “ISSUED IN ACCORDANCE WITH DIRECTIVE [1999/105/EC](https://www.legislation.gov.uk/eudr/1999/105)”, substitute—
+
+  > **ISSUED IN ACCORDANCE WITH THE OECD FOREST AND PLANT SCHEME AND THE FOREST REPRODUCTIVE MATERIAL REGULATIONS (NORTHERN IRELAND) 2002**
+
+  ;
+- (b) for “MEMBER STATE:”, substitute “ **UNITED KINGDOM** ”;
+- (c) for “No EC:/(MEMBER STATE CODE)/(No)”, substitute “ **UK(No.)** ”;
+- (d) for “EC Directive”, substitute “ OECD Forest Seed and Plant Scheme moving in International Trade and the Forest Reproductive Material Regulations (Northern Ireland) 2002 ”;
+- (e) for “EC Certificate”, substitute “ UK or OECD Certificate ”.
+
+### 34. Amendment of Schedule 7[^key-14c67de3618f45dd163dd6bef60934fb]
+
+In the model certificate in Schedule 7—
+
+- (a) for “ISSUED IN ACCORDANCE WITH DIRECTIVE [1999/105/EC](https://www.legislation.gov.uk/eudr/1999/105)”, substitute—
+
+  > **ISSUED IN ACCORDANCE WITH THE OECD FOREST AND PLANT SCHEME AND THE FOREST REPRODUCTIVE MATERIAL REGULATIONS (NORTHERN IRELAND) 2002**
+
+  ;
+- (b) for “MEMBER STATE:”, substitute “ **UNITED KINGDOM** ”;
+- (c) for “No EC:/(MEMBER STATE CODE)/(No.)”, substitute “ **UK (No.)** ”;
+- (d) for “EC Directive”, substitute “ OECD Forest Seed and Plant Scheme and the Forest Reproductive Material Regulations (Northern Ireland) 2002 ”;
+- (e) for “EC Certificate”, substitute “ UK or OECD Certificate ”.
+
+### 35. Amendment of Schedule 8[^key-9226e4f40d844379560ad7b526730d84]
+
+In the model certificate in Schedule 8—
+
+- (a) for “ISSUED IN ACCORDANCE WITH DIRECTIVE [1999/105/EC](https://www.legislation.gov.uk/eudr/1999/105)”, substitute—
+
+  > **ISSUED IN ACCORDANCE WITH THE OECD FOREST AND PLANT SCHEME AND THE FOREST REPRODUCTIVE MATERIAL REGULATIONS (NORTHERN IRELAND) 2002**
+
+  ;
+- (b) for “MEMBER STATE:”, substitute “ **UNITED KINGDOM** ”;
+- (c) for “No EC:/(MEMBER STATE CODE)/(No)”, substitute “ **UK (No.)** ”;
+- (d) for “EC Directive”, substitute “ OECD Forest Seed and Plant Scheme and the Forest Reproductive Material Regulations (Northern Ireland) 2002 ”;
+- (e) for “EC Certificate”, substitute “ UK or OECD Certificate ”.
+
+### 36. Amendment of Schedule 9[^key-a6174c46e5e0900adf3d879b53c534ef]
+
+In Schedule 9—
+
+- (a) in paragraph 1(b), omit “EC”, in both places it occurs;
+- (b) in the table in paragraph 2(b), omit the first row and the last three rows.
+
+### 37. Amendment of Schedule 10[^key-f29716fa8ddf047e83b248d9d819818d]
+
+Omit Schedule 10.
+
+### 38. Amendment of Schedule 13[^key-0731703e479405e72dc99f4bf3b70766]
+
+In Schedule 13—
+
+- (a) in paragraph 1, for “an EU-approved”, substitute “ a member State, an approved non-EU ”;
+- (b) in paragraph 2—
+  - (i) before the definition of “OECD Certificate of Provenance”, insert—
+
+    > “**OECD Certificate of Identity**” means a certificate of identity issued in accordance with the rules of the OECD Scheme;
+
+    ;
+  - (ii) in the definition of “permitted material”—
+    - (aa) before paragraph (a), insert—
+
+      > - (za) in the case of forest reproductive material produced in a member State, forest reproductive material which has been certified by the relevant official body in accordance with Article 12 of the Directive or the OECD Scheme;
+
+      ;
+    - (bb) in sub-paragraph (a), for “EU-approved”, substitute “ approved non-EU ”;
+- (c) after Part 1, insert—
+
+  > **PART 1A — Approved non-EU third countries**
+  >
+  > **1. Approved non-EU third countries**
+  >
+  > Canada.
+  >
+  > **2.**
+  >
+  > Norway
+  >
+  > **3.**
+  >
+  > Serbia
+  >
+  > **4.**
+  >
+  > Switzerland
+  >
+  > **5.**
+  >
+  > Turkey
+  >
+  > **6.**
+  >
+  > United States of America
+  >
+  > **PART 1B — Scope of Part 1B**
+  >
+  > **2A.**
+  >
+  > This Part applies to consignments of permitted material produced in a member State.
+  >
+  > **2B. General requirements**
+  >
+  > A consignment of permitted material must be accompanied by—
+  >
+  > - (a) a copy of the Master Certificate issued by the relevant official body under Article 12 of the Directive;
+  > - (b) a label or document which complies with the requirements in Article 14 of the Directive;
+  > - (c) an OECD Certificate of Provenance or OECD Certificate of Identity issued in relation to the permitted material; or
+  > - (d) a label or document completed by the supplier of the consignment containing—
+  >   - (i) the supplier's name;
+  >   - (ii) all of the information contained in the OECD Certificate of Provenance or OECD Certificate of Identity; and
+  >   - (iii) in relation to any seed lot which is accompanied by an OECD Certificate of Provenance or an OECD Certificate of Identity, the information specified in paragraph 2D.
+  >
+  > **2C.**
+  >
+  > Where the permitted material is accompanied by an OECD Certificate of Provenance or OECD Certificate of Identity, or a label or document referred to in paragraph 2B(d), an OECD label must be attached to each seed lot and to each consignment of planting stock.
+  >
+  > **2D.**
+  >
+  > The OECD label attached to the seed lot and any supplier's document accompanying the seed lot must contain the following additional information in relation to the seed lot assessed, so far as is practical in all the circumstances, using internationally accepted techniques—
+  >
+  > - (a) the percentage by weight of pure seed, other seed and inert matter;
+  > - (b) the germination percentage of pure seed, or where it is impossible or impractical to assess the germination percentage, the viability percentage assessed by reference to a method which must be described;
+  > - (c) the weight of 1000 pure seeds;
+  > - (d) the number of germinable seeds per kilogram of the seed, or where it is impossible or impractical to assess the number of germinable seeds, the number of viable seeds per kilogram;
+  > - (e) in the case of a seed lot of closely related species which does not reach a minimum species purity of 99%, the species purity.
+  >
+  > **2E.**
+  >
+  > But the OECD label and supplier's document may omit the following information—
+  >
+  > - (a) any information mentioned in paragraph 2(D)(a) to (e) which is yet to be ascertained by testing the seed using internationally accepted techniques;
+  > - (b) in the case of a seed lot containing seed which has been harvested from the current season's crop, any information mentioned in paragraph 2(D)(b) or (d) which is not yet available;
+  > - (c) in the case of seed which is to be marketed in quantities no greater than those specified for the species or artificial hybrid of the seed in Schedule 11, the information mentioned in paragraph 2(D(b) or (d).
+  >
+  > **2F.**
+  >
+  > All seed must be consigned in sealed packages.
+
+  .
+
+## PART 5 — Amendment of the Seed Marketing Regulations (Northern Ireland) 2016
+
+### 39.[^key-183164048e2027704386b84564378f68]
+
+The Seed Marketing Regulations (Northern Ireland) 2016 [^c23561141] are amended as follows.
+
+### 40.[^key-86c0b685f9a6a3efad628396f83a4d5f]
+
+In regulation 3, for paragraph (b1), substitute—
+
+> - (b1) “**country granted equivalence**” means a country that has been granted equivalence under Council Decision [2003/17/EC](https://www.legislation.gov.uk/eud/2003/17) [^c23561151] on the equivalence of field inspections carried out in third countries on seed-producing crops and on the equivalence of seed produced in third countries;
+> - (b2) “**Crown Dependency**” means any of the Channel islands or the Isle of Man;
+
+.
+
+### 41.[^key-112b606f593b8d00023908d88d5b18ab]
+
+In regulation 4(2), for “European Union”, substitute “ United Kingdom (other than regulation 26A which relates to export) ”.
+
+### 42.[^key-9b2bec38f7033931799d576e3725b30e]
+
+In regulation 7, for “the Common Catalogue”, substitute “ an equivalent list in a country referred to in the Annex to Council Decision [2005/834/EC](https://www.legislation.gov.uk/eud/2005/834) on the equivalence of checks on practices for the maintenance of varieties carried out in certain third countries [^c23561161] ”.
+
+### 43.[^key-7cc56cc68fae6ec8cb0276c02eefc3ab]
+
+In regulation 8(2)—
+
+- (a) for sub-paragraph (b), substitute—
+
+  > - (b) seed which has been imported from a European Single Market State[^key-ac792ce1d59db34348583c97d619dcda] and—
+  >   - (i) is of a variety listed in the National List or the Common Catalogue except the vegetable seed of the species listed in Council[^key-594566286876125594b3d25237124b81] [Directive 2002/55/EC](https://www.legislation.gov.uk/eudr/2002/0055) produced in Switzerland;
+  >   - (ii) is officially certified, in compliance with the requirements set out in EU law, including those measures referred to in regulation 3(2)(a) to (e) and (i); and
+  >   - (iii) has been imported into Northern Ireland before the end of the period of two years beginning with the day after the day on which exit day falls.
+
+  ;
+- (b) in sub-paragraph (c), from “a third country”, to “seed produced in third countries)”, substitute “ a country with equivalence ”.
+
+### 44.[^key-844497720a67a33530e18729e6465cce]
+
+In regulation 10(a), for “variety” to the end, substitute—
+
+> variety—
+>
+> - (i) entered in the National List; or
+> - (ii) entered in the Common catalogue at any time before the end of the period of two years beginning with the day after the day on which exit day falls;
+
+.
+
+### 45.[^key-52a79c36fdf22d4b64c1b3f44a109a13]
+
+For regulation 22, substitute—
+
+> **22.**
+>
+> (1) The Department may by licence exempt any person or class of person from compliance with any provision of these Regulations for the purposes of a temporary experiment seeking improved alternatives to provisions of these Regulations organised in accordance with regulations made under section 2(4) of the Seeds Act (Northern Ireland) 1965 [^c23561171].
+>
+> (2) The duration of an experiment shall not exceed 7 years.
+
+.
+
+### 46.[^key-ab996d62e88ac1bbffd31b1074f6d7a4]
+
+After regulation 26 insert—
+
+> **26A. Certification for export**
+>
+> The Department may certify the quality of seed intended for export.
+
+.
+
+### 47.[^key-470026e697cdc65e665883faf7262c83]
+
+In regulation 27—
+
+- (a) in paragraph (1), for “from outside the European Union”, substitute “ into the United Kingdom ”;
+- (b) after paragraph (1), insert—
+
+  > (1A) But seed imported from a European Single Market State before the end of 2 years beginning with the day after the day on which exit day falls, may be labelled with an official label issued in accordance with the relevant requirements in the Directive relating to that seed.
+
+  .
+
+### 48.[^key-7cf37b3d1c2604b0402be081d3652b3f]
+
+After regulation 31, insert—
+
+> **31A. Marketing seed under a specific derogation**
+>
+> In order to remove any temporary difficulties in the general supply of seed, the Department may permit, temporarily the marketing of seed not satisfying the requirements of minimum germination specified in Schedule 2 for the relevant species of seed.
+
+### 49.[^key-f7a414dfe138063b44e748d6ba707fc0]
+
+After regulation 33, insert—
+
+> **33A. Certification in a Crown Dependency**
+>
+> Any seed certified and labelled in a Crown Dependency under legislation recognised by the Department to have equivalent effect to these Regulations may be marketed in Northern Ireland.
+>
+> **33B. Transitional provision for official labels on exit day**
+>
+> For the purposes of regulation 17 and paragraphs 7(1)(a) and 8(1)(a) of Schedule 3, an official label, pre-printed before exit day, containing the statement “EU rules and standards” may be used as an official label before the end of the period of two years beginning with the day after the day on which exit day falls.
+
+.
+
+### 50. Amendment of Schedule 2 (Certification requirements)[^key-dcaf9559323d9396c3554c000c829c3d]
+
+In Schedule 2—
+
+- (a) in paragraph 6—
+  - (i) in sub-paragraph (1), after Article 2(3)(A), insert “ (a) to (d) ”;
+  - (ii) in sub-paragraph (3), for Annex III to that Directive”, substitute “ Schedule 3 ”;
+  - (iii) after sub-paragraph (5), insert—
+
+    > (6) For the purposes of this paragraph, Council Directive [2002/54/EC](https://www.legislation.gov.uk/eudr/2002/54) is to be read as if—
+    >
+    > - (a) in Article 2(3)(A)(a)(iii), for “officially licensed by the seed certification authority of the member State concerned”, there were substituted “ licensed by the Department ”;
+    > - (b) in Annex I—
+    >   - (i) in point A—
+    >     - (aa) in paragraph 3, for “certification authority” there were substituted “ Department ”;
+    >     - (bb) in the last paragraph, for the words from “the common” to “that Directive”, there were substituted “ United Kingdom National List ”;
+    >   - (ii) in point B, in paragraph 3(c)—
+    >     - (aa) the reference to “member States” were a reference to “The Department”;
+    >     - (bb) the reference to “Community” were omitted.
+
+    .
+- (b) in paragraph 13—
+  - (i) in sub-paragraph (1), after Article 2(3)(A), insert “ (a) to (d) ”;
+  - (ii) in sub-paragraph (2), after “that Directive”, insert “ (with the omission of paragraphs 1a(f) and 1b) ”;
+  - (iii) after sub-paragraph (2), insert—
+
+    > (2A) For the purposes of sub-paragraphs (1) and (2), Council Directive [66/402/EEC](https://www.legislation.gov.uk/eudr/1966/402) is to be read as if—
+    >
+    > - (a) in Article 2(3)(A)(a)(iii), for “officially licensed by the seed certification authority of the member State concerned”, there were substituted “ licensed by the Department ”;
+    > - (b) in Article 7—
+    >   - (i) the reference to “member States” were a reference to “The Department”;
+    >   - (ii) in paragraph 1a(a), for “seed certification authority of the member State concerned”, there were substituted “ Department ”.
+
+    .
+- (c) in paragraph 25—
+  - (i) in sub-paragraph (1), after Article 2(3)(A), insert “ (a) to (d) ”;
+  - (ii) after sub-paragraph (1), insert—
+
+    > (1A) For the purposes of sub-paragraph (1), Council Directive [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401) is to be read as if—
+    >
+    > - (a) in Article 2(3)(A)(a)(iii), for “officially licensed by the seed certification authority of the member State concerned”, there were substituted “ licensed by the Department ”;
+    > - (b) in Annex I, in paragraph 4, in the second sub-paragraph, the words from “Upon” to the end were omitted.
+
+    ;
+- (d) in paragraph 37—
+  - (i) in sub-paragraph (1), after Article 2(5)(A), insert “ (a) to (d) ”;
+  - (ii) after sub-paragraph (1), insert—
+
+    > (1A) For the purposes of sub-paragraph (1), Council Directive [2002/57/EC](https://www.legislation.gov.uk/eudr/2002/57) is to be read as if—
+    >
+    > - (a) in Article 2(5)(A)(a)(iii), for “officially licensed by the seed certification authority of the member State concerned”, there were substituted “ licensed by the Department ”;
+    > - (b) in Annex 2, in Part 1, in paragraph 5C the last sub-paragraph were omitted.
+
+    ;
+- (e) in paragraph 38(2), omit “or the Common Catalogue”;
+- (f) in paragraph 44—
+  - (i) in sub-paragraph (1), after Article 2(4)(A), insert “ (a) to (d) ”;
+  - (ii) in sub-paragraph (2), after “Article 25”, insert “ (with the omission of paragraphs 1a(F) and 1b) ”;
+  - (iii) after sub-paragraph (2), insert—
+
+    > (2A) For the purposes of sub-paragraphs (1) and (2), Council Directive [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55) is to be read as if—
+    >
+    > - (a) in Article 2(4)(A)(a)(iii), for “officially licensed by the seed certification authority of the member State concerned”, there were substituted “ licensed by the Department ”;
+    > - (b) in Article 25—
+    >   - (i) references to “member States” were references to “the Department”;
+    >   - (ii) in paragraph 1a(a), for “seed certification authority of the member State concerned”, there were substituted “ Department ”.
+
+    ;
+
+### 51. Amendment of Schedule 3 (Labelling and loose sales)[^key-e546fd4d719c51692ed07f0e8761c865]
+
+In Schedule 3—
+
+- (a) in paragraph 5(5), from “one of” to the end, substitute “ English but may also be in other languages ”;
+- (b) in paragraph 6(1)—
+  - (i) in sub-paragraph (a), after “the name”, insert “ and country or country initials ”;
+  - (ii) omit sub-paragraph (b);
+- (c) in paragraphs 7(1) and 8(1)—
+  - (i) in sub-paragraph (a), for “EU”, substitute “ UK ”;
+  - (ii) in sub-paragraph (b), after “the name”, insert “ and country or country initials ”;
+  - (iii) omit sub-paragraph (c);
+- (d) in paragraph 9(1)—
+  - (i) in sub-paragraph (a), at the beginning, insert “ the name and country or country initials of ”;
+  - (ii) omit sub-paragraph (b);
+- (e) in paragraphs 11(2)(a) and 13(1)(a), for “ the Common Catalogue”, substitute “ , has been accepted on to the Common Catalogue and the seed is marketed before the end of the period of two years beginning with the day after the day on which exit day falls ”;
+- (f) in paragraph 18—
+  - (i) in sub-paragraph (2), omit “EU”;
+  - (ii) in sub-paragraph (4)—
+    - (aa) in paragraph (a), omit “EU”;
+    - (bb) in paragraph (d), for “European Single Market State”, substitute “ country of production ”;
+- (g) in paragraph 19(4)(a), for “EU”, substitute “ UK ”;
+- (h) in paragraphs 20 and 21, omit “EU” in each place it occurs;
+- (i) in paragraph 22—
+  - (i) omit “EU” in each place it occurs;
+  - (ii) in sub-paragraphs (2)(c)(ii) and (2)(d)(ii), for “European Single Market State”, substitute “ country of production ”;
+- (j) in paragraphs 23 and 24, for “EU” in each place it occurs, substitute “ UK ”;
+
+### 52. Amendment of Schedule 4 (Exceptions)[^key-2c70f6d38b9e2bb414ac2a1697edc3b5]
+
+In Schedule 4—
+
+- (a) In paragraph 4(1), for “the Directive”, substitute “ these Regulations ”;
+- (b) in paragraph 5—
+  - (i) in sub-paragraphs (1)(a)(i) and (ii) and (2)(a)(i), for “EU minimum percentage of germination for the relevant species of seed” in each place it occurs, substitute “ the minimum percentage of germination set out in the Directive relating to that seed specified in Schedule 2 ”;
+  - (ii) in sub-paragraph (6)(b), for “from a third country”, substitute “ into the United Kingdom ”;
+- (c) in paragraph 6—
+  - (i) in sub-paragraph (2)(b), for “another European Single Market State”, substitute “ a European Single Market State, where the seed has been accepted on to the Common Catalogue and the seed is marketed before the end of the period of two years beginning with the day after the day on which exit day falls ”;
+  - (ii) in sub-paragraph (3)(b)(i) for “another European Single Market State”, substitute “ a European Single Market, where the seed has been accepted on to the Common Catalogue and the seed is marketed before the end of the period of two years beginning with the day after the day on which exit day falls ”;
+- (d) in paragraph 7, for “Council Directive [66/402/EEC](https://www.legislation.gov.uk/eudr/1966/402)”, substitute “ these Regulations ”;
+- (e) in paragraph 8—
+  - (i) after sub-paragraph (5), insert—
+
+    > (5A) For the purposes of sub-paragraph (5)—
+    >
+    > - (a) Article 14 of Commission Directive [2008/62/EC](https://www.legislation.gov.uk/eudr/2008/62) is to be read as if—
+    >   - (i) in the first paragraph—
+    >     - (aa) the words “Each member State shall ensure that, ” were omitted;
+    >     - (bb) the reference to “that member State”, there were substituted “the United Kingdom”;
+    >   - (ii) in the second paragraph—
+    >     - (aa) the words “in each member State” were omitted;
+    >     - (bb) for the references to “the member State”, in both places, there were substituted “ the United Kingdom ”;
+    > - (b) Article 15 of Commission Directive [2009/145/EC](https://www.legislation.gov.uk/eudr/2009/145), is to be read as if—
+    >   - (i) the words “Each member State shall ensure that” were omitted;
+    >   - (ii) for “does”, there were substituted “ must ”.
+
+    ;
+  - (ii) in sub-paragraph (7), for “Council Directive [2002/54/EC](https://www.legislation.gov.uk/eudr/2002/54)” to “(as the case may be)”, substitute “ these Regulations ”;
+  - (iii) in sub-paragraph (8)—
+    - (aa) in paragraph (a), for “Council Directive [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55) on the marketing of vegetable seed”, substitute “ Schedule 2 ”;
+    - (bb) in paragraph (b), for “that Directive”, substitute “ these Regulations ”;
+- (f) in paragraph 9—
+  - (i) in sub-paragraph (3)(b), for “in accordance with Article 3 of Commission Directive 2010/60/EU”, substitute “ having taken account of any available information from plant genetic resource organisations ”;
+  - (ii) in sub-paragraph (5)(a), for “EU”, substitute “ UK ”;
+  - (iii) in sub-paragraph (7), after “have the”, insert “ , subject to sub-paragraph (8), ”;
+  - (iv) after sub-paragraph (7), insert—
+
+    > (8) For the purposes of this paragraph, Article 1(a) of Commission Directive 2010/60/EU is to be read as if the definition of “source area” contained in that Article defined it to mean an area designated as a special area of conservations or an area contributing to the conservation of plant genetic resources in accordance with retained EU law.
+
+    ;
+- (g)[^key-0322c8229e5aba0e7d1d22e27f4aba6e] in paragraph 11(1), for “for entry into the National List of at least one European Single Market State”, substitute “, before the end of the period of two years beginning with the day after the day on which exit day falls, for entry into a national list maintained in accordance with Council [Directive 2002/55/EC](https://www.legislation.gov.uk/eudr/2002/0055) on the marketing of vegetable seed of at least one European Single Market State”;
+- (h) in paragraph 12(2), omit “or the Common Catalogue”;
+- (i) in paragraph 13—
+  - (i) in the words before sub-paragraph (a), omit “been authorised for cultivation under either”;
+  - (ii) in sub-paragraph (a), at the beginning, insert “ before the day on which exit day falls, been authorised under ”, and at the end omit “or”;
+  - (iii) in sub-paragraph (b), at the beginning, insert “ been authorised under ”, and, at the end, insert “ ; or ”;
+  - (iv) after sub-paragraph (b), insert—
+
+    > - (c) been authorised under the GMO Regulations.
+    > - (d) For the purpose of this paragraph, “**the GMO Regulations**” means—
+    >   - (i) in relation to Northern Ireland, the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003 [^c23561181];
+    >   - (ii) in relation to England, the Genetically Modified Organisms (Deliberate Release) Regulations 2002 [^c23561191];
+    >   - (iii) in relation to Wales, the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002 [^c23561201];
+    >   - (iv) in relation to Scotland, the Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 [^c23561211].
+
+    ;
+- (j) in paragraph 14—
+  - (i) in sub-paragraph (1), for “another European Single Market State or third country”, substitute “ a country granted equivalence ”;
+  - (ii) in sub-paragraph 3—
+    - (aa) omit paragraph (a);
+    - (bb) in paragraph (b), omit, “if the seed is from a third country”;
+    - (cc) in the words after paragraph (b), omit “in both cases ”;
+- (k) in paragraph 15(3), for “Council Directive [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55) on the marketing of vegetable seed”, substitute “ these Regulations ”;
+- (l) in paragraph 17—
+  - (i) in the heading, for “another”, substitute “ a ”;
+  - (ii) in sub-paragraph (1)—
+    - (aa) in the words before paragraph (a), insert “ Before the end of the period of two years beginning with the day on which exit day falls, ”;
+    - (bb) in paragraph (a)(i), for “either in another” to the end, substitute “ in a European Single Market State or a country granted equivalence ”;
+    - (cc) in paragraph (a)(ii), for “such a third country”, substitute “ a country granted equivalence ”;
+    - (dd) in paragraph (b), for “another”, substitute”, “a”;
+  - (iii) in sub-paragraph (3)(a), for “European Single Market State”, substitute “ country ”;
+- (m) in paragraph 18—
+  - (i) in the heading and in sub-paragraph (1), in the words before sub-paragraph (a), for “third country”, substitute “ country granted equivalence ”;
+  - (ii) in sub-paragraph (1)(a)(i), for “a European Single Market State” to the end, substitute “ the United Kingdom, a Crown Dependency (provided such seed has been produced under legislation recognised by the Department to have equivalent effect to these Regulations) or a country granted equivalence ”;
+  - (iii) for sub-paragraph (1)(a)(ii), substitute—
+
+    > - (ii) the crossing of basic seed officially certified in the United Kingdom or a Crown Dependency (provided such seed has been produced under legislation recognised by the Department to have equivalent effect to these Regulations) with basic seed certified in a country granted equivalence;
+
+    ;
+- (n) in paragraph 19, omit “or the Common Catalogue”.
+
+## PART 6 — Amendment of the Marketing of Fruit Plant Propagating Material Regulations (Northern Ireland) 2017
+
+### 53.[^key-563c54822c67b684dcfbf3955c2832af]
+
+The Marketing of Fruit Plant Propagating Material Regulations (Northern Ireland) 2017 [^c23561221] are amended as follows.
+
+### 54.[^key-44a09637df9d308e668bb55b1f56d5ae]
+
+In regulation 2(1)—
+
+- (a) in the definition of “basic material”, for paragraph (b), substitute—
+
+  > - (b) in relation to propagating material produced outside Northern Ireland, certified as basic material by a responsible authority in accordance with—
+  >   - (i) in the case of material produced in the United Kingdom, other than in Northern Ireland, the relevant fruit marketing regulations;
+  >   - (ii) in the case of material produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to regulation 9(1) and (2);
+  >   - (iii) in the case of material produced in a member State, Article 15 of Directive 2014/98/EU;
+
+  ;
+- (b) in the definition of “CAC material”—
+  - (i) in paragraph (b)(i) omit “or”;
+  - (ii) for paragraph (b)(ii), substitute—
+
+    > - (ii) in the case of material and plants produced in the United Kingdom, other than in Northern Ireland, the relevant fruit marketing regulations;
+    > - (iii) in the case of material and plants produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to Schedule 1;
+    > - (iv) in the case of material produced in a member State, Article 3 of Directive 2014/98/EU;
+
+    .
+- (c) in the definition of “certified”—
+  - (i) omit “as the responsible authority in Northern Ireland,”;
+  - (ii) for paragraph (b), substitute—
+
+    > - (b) in relation to plant material produced in the United Kingdom, other than in Northern Ireland, officially certified in accordance with the relevant fruit marketing regulations;
+    > - (c) in relation to material produced in a member State, Article 3 of Directive 2014/98/EU, by the responsible authority in the member State concerned;
+
+    ;
+- (d) in the definition of “certified material”, for paragraph (b), substitute—
+
+  > - (b) in relation to propagating material and fruit plants produced in the United Kingdom, other than in Northern Ireland, certified as certified material, in accordance with the relevant fruit marketing regulations;
+  > - (c)[^key-e08cf420e211d689b0409a801b30967d] in relation to propagating material and fruit plants produced in a member State, certified as certified material, in accordance with Article 20 of [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098), by the responsible authority in the member State concerned;
+  > - (d) in relation to propagating material and fruit plants produced in a Crown Dependency, certified as certified material, in accordance with legislation recognised by the Department as having equivalent effect to regulation 9(1) and (2);
+
+  ;
+- (e) after the definition of “certified plant material”, insert—
+
+  > “**Crown Dependency**” means the Isle of Man or any of the Channel Islands;
+- (f) after the definition of “the Department” insert
+
+  > “**the fruit marketing regulations**” means—
+  >
+  > - (a) as regards England, the Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 [^c23561231];
+  > - (b) as regards Scotland, the Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017 [^c23561241];
+  > - (c) as regards Wales, the Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017 [^c23561251];
+
+  ;
+- (g) in the definition of “official label”, for paragraph (b), substitute—
+
+  > - (b) in relation to certified plant material produced outside Northern Ireland, a label issued, as appropriate to the plant material to which the label relates, in accordance with—
+  >   - (i) in the case of material produced in the United Kingdom, other than in Northern Ireland, the relevant fruit marketing regulations;
+  >   - (ii) in the case of material produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to Part 1 of Schedule 2;
+  >   - (iii) in the case of material produced in a member State, Article 2 of Directive 2014/96/EU, by the responsible authority in the member State concerned;
+
+  ;
+- (h) in the definition of “outside Northern Ireland”, for the words from “or any member” to the end, substitute “ , any member State or any Crown Dependency ”;
+- (i) in the definition of “plant variety rights”, omit paragraph (b);
+- (j) in the definition of “pre-basic material”, for paragraph (b), substitute—
+
+  > - (b) in relation to pre-basic material produced outside Northern Ireland, material certified as pre-basic, in accordance with—
+  >   - (i) in the case of material produced in the United Kingdom, other than in Northern Ireland, the relevant fruit marketing regulations;
+  >   - (ii) in the case of material produced in a Crown Dependency, legislation recognised by the Department as having equivalent effect to regulation 9(1) and (2);
+  >   - (iii) in the case of material produced in a member State, Article 3 or 4 of Directive 2014/98/EU, by the responsible authority in the member State concerned;
+
+  ;
+- (k) in the definition of “registered as a variety”, for paragraph (b), substitute—
+
+  > - (b) registration outside Northern Ireland as a variety in accordance with—
+  >   - (i) in the case of Scotland, Schedule 4 to the Marketing of Fruit Plant Propagating Material (Scotland) Regulations 2017;
+  >   - (ii) in the case of Wales, Schedule 4 to the Marketing of Fruit Plant Propagating Material (Wales) Regulations 2017;
+  >   - (iii) in the case of England, Schedule 4 of the Marketing of Fruit Plant Propagating Material (England) Regulations 2017;
+
+  .
+
+### 55.[^key-a947bf687804a7e33a14894f0d9ce761]
+
+In regulation 4(2), for “European Union”, substitute “ United Kingdom ”.
+
+### 56.[^key-7f1b75136f4d92e3d2f5acfc1b1850e7]
+
+In regulation 5—[^key-ad67ca44169f1b039db993cf5e41a826]
+
+- (a) in paragraph (3), for “European Union” substitute “ United Kingdom ”;
+- (b) at the end insert—
+
+> (5) No person may market in Northern Ireland plant material produced in a member State.
+>
+> (6) Paragraph (5) does not apply to plant material which meets the conditions set out in paragraph (7);
+>
+> (7) The conditions are that the plant material—
+>
+> - (a) is of a variety that may be marketed under regulation 7 or has been registered as a variety by the responsible authority in a member State in accordance with Article 4 of Directive 2014/97/EU;
+> - (b) has been produced in compliance with the requirements set out in Directives [2008/90/EC](https://www.legislation.gov.uk/eudr/2008/90), 2014/98/EU and 2014/96/EU; and
+> - (c) has been imported into Northern Ireland before the end of the period of two years beginning with the day after the day on which exit day falls.
+
+.
+
+### 57.[^key-bed61eda5812d59fb5534e07d8798734]
+
+In regulation 10(6), for “Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29)”, substitute “ the Plant Health (Northern Ireland) Order 2018 [^c23561261] ”.
+
+### 58.[^key-1c11fae7b1a36b41c6e983bd711a8a4d]
+
+In regulation 15(1)(g)(iii), for “Annexes to Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29)” substitute “ Plant Health Order (Northern Ireland) 2018 ”.
+
+### 59.[^key-1dd329c9eacfe4a21cca3f50bf4d54ab]
+
+After regulation 27, insert—
+
+> **27A. Transitional provision for official labels on exit day**
+>
+> For the purposes of regulation 10 and paragraph 4(a) of Schedule 2, an official label pre-printed before exit day containing the statement “EU Rules and Standards” may be used as an official label for plant material before the end of the period of two years beginning with the day after the day on which exit day falls.
+
+.
+
+### 60. Amendment of Schedule 2[^key-3ee8a7ec92081db109b760c7add88c14]
+
+In Schedule 2—
+
+- (a) in paragraph 4(a), for “EU” substitute “UK;
+- (b) in paragraph 5, for “indelibly printed” to the end substitute—
+
+  > - (a) easily visible and legible, and
+  > - (b) indelibly printed in English (but may also be printed in other languages)
+
+  ;
+- (c) in paragraph 6—
+  - (i) in sub-paragraph (a), for “EU” substitute “ UK ”;
+  - (ii) in sub-paragraphs (b)(i) and (xi), for “member State” substitute “ country ”;
+  - (iii) in sub-paragraph (c), for “the Directive”, substitute “ Directive [2008/90/EC](https://www.legislation.gov.uk/eudr/2008/90) ”;
+- (d) in paragraph 7, for “indelibly printed” to the end substitute—
+
+  > - (a) easily visible and legible, and
+  > - (b) indelibly printed in English (but may also be printed in other languages)
+
+  .
+
+### 61. Amendment of Schedule 3[^key-fe5d654ba78fe2a06f9bbef913b40072]
+
+In Schedule 3—
+
+- (a) in paragraph 1(2)—
+  - (i) in sub-paragraph (b), omit “or”;
+  - (ii) in sub-paragraph (c), for “any other member State.” substitute “ a member State; or ”;
+  - (iii) after sub-paragraph (c), insert—
+
+    > - (d) a competent authority outside the United Kingdom if the Department is satisfied that those growing trials are of equivalent standards to those carried out by, or on behalf of, the Department.
+- (b) in paragraph 2—
+  - (i) in sub-paragraph (2)(b) omit “, in another member State”;
+  - (ii) in sub-paragraph (2)(e), for “member State” substitute “ country which is a member of UPOV ”;
+- (c) in paragraph 3—
+  - (i) in sub-paragraph (b)—
+    - (aa) omit paragraph (i);
+    - (bb) for paragraphs (ii) and (iii), substitute—
+
+      > - (ii) guidelines produced by UPOV relating to the conduct of tests for distinctiveness, uniformity and stability for the particular genus or species concerned;
+      > - (iii) where guidelines mentioned at (i) do not exist a protocol or guidelines established or recognised by the Department in relation to the same matters.
+
+      ;
+- (d) in paragraph 4—
+  - (i) in sub-paragraph (1)(a), for “consists is” to the end substitute—
+
+    > consists—
+    >
+    > - (i) is authorised for cultivation pursuant to Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) or the GMO regulations, or
+    > - (ii) has, before the day on which exit day falls, been authorised for cultivation pursuant to Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18); or
+
+    ;
+  - (ii) in sub-paragraph 4(3), omit “Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18)”;
+- (e) in paragraph 5(1)(d), for “ceases” to the end, substitute—
+
+  > - (i) ceases to be authorised pursuant to Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) or the GMO regulations; or
+  > - (ii) has, before the day on which exit day falls, been authorised for cultivation pursuant to Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18), and ceases to be authorised.
+
+  .
+- (f) in paragraph 6, for “pursuant to” to the end, substitute—
+
+  > pursuant to—
+  >
+  > - (a) the GMO regulations;
+  > - (b) Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829); or
+  > - (c) Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18), where the authorisation was granted before the day on which exit day falls.
+
+  .
+- (g) in paragraph 11—
+  - (i) omit the definition of “CPVO”;
+  - (ii) omit the definition of “CPVO protocol”;
+  - (iii) after the definition of “Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18)”, insert—
+
+    > “**the GMO regulations**” means—
+    >
+    > - (a) in relation to Northern Ireland, the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003 [^c23561271];
+    > - (b) in relation to England, the Genetically Modified Organisms (Deliberate Release) Regulations 2002 [^c23561281];
+    > - (c) in relation to Scotland, the Genetically Modified Organisms (Deliberate Release) Regulations (Scotland) 2002 [^c23561291];
+    > - (d) in relation to Wales, the Genetically Modified Organisms (Deliberate Release) Regulations (Wales) 2002 [^c23561301];
+
+    ;
+  - (iv) in the definition of “technical questionnaire”—
+    - (aa) for paragraph (a), substitute—
+
+      > - (a) protocol or guidelines established or recognised by the Department in relation to distinctiveness, uniformity and stability tests for the particular genus or species concerned;
+
+      ;
+    - (bb) in paragraph (b), omit from the beginning to “relevant species, in ”.
+
+### 62. Amendment of Schedule 5[^key-f969d6543426b633233233aac95c661b]
+
+In Schedule 5, in paragraph 5—
+
+- (a) in sub-paragraph (3)—
+  - (i) in paragraph (b), for “in any member” to the end, substitute “in a register of varieties”;
+  - (ii) in sub-paragraph (d), at the end, add “of varieties”;
+- (b) in sub-paragraph (4)(a), for “outside Northern Ireland” substitute “in any part of the United Kingdom, other than Northern Ireland, or in another country which is a member of UPOV”;
+- (c) in sub-paragraph (7), for the definition of “register of varieties” substitute—
+
+  > “**register of varieties**” means, in relation to the registration of varieties, the register maintained—
+  >
+  > - (a) in Northern Ireland, under paragraph 2(1) of Schedule 3;
+  > - (b) in England, under paragraph 4(1) of Schedule 4 to the Marketing of Fruit Plant and Propagating Material (England) Regulations 2017;
+  > - (c) in Scotland, under paragraph 2(1) of Schedule 4 to the Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017;
+  > - (d) in Wales, paragraph 4(1) of Schedule 4 to the Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017;
+- (d) omit paragraph 8(2)(a).
+
+Gardiner of Kimble
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of EU derived law to operate effectively and other deficiencies (in particular section 8(2) (c), (d) and (g)) arising from the withdrawal of the UK from the European Union.
+
+The Regulations make amendments to secondary legislation consequential on the United Kingdom's withdrawal from the European Union. The changes are to legislation regulating the marketing of agricultural seed, forestry and vegetative propagating material.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c23561031]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-1adbc8990ecf01a99f3f842d503b113b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-554f65d8a12d71d3e6953580f1c05afb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561041]: Marginal citation: S.R. [1995 No. 415](https://www.legislation.gov.uk/ukcm/1995/415), as amended by S.R. [2007 No. 400](https://www.legislation.gov.uk/ukcm/2007/400).
+
+[^key-b0c656b4d71e34088b40678b3aeb02cc]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-3a8caadc3630f0d73c0810f07cd91de7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-664a0b8697a83d1d0c855c56463d81d2]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561051]: Marginal citation: [S.I. 2018/184](https://www.legislation.gov.uk/uksi/2018/184).
+
+[^key-abbb398ff516de1ba3a20d6745570943]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-e4b64f54b08f7ceb4e764b53f55c1939]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-71714e826baaff4e36746f1035f523c0]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561061]: Marginal citation: S.R. [1999 No. 502](https://www.legislation.gov.uk/ukcm/1999/502), as amended by S.R. [2018 No. 188](https://www.legislation.gov.uk/ukcm/2018/188).
+
+[^key-57053ffcc6987242d26c9893fc32b59a]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-aedb735dce069bbbb972868c89c206b0]: Textual amendment: Words in [reg. 9(c)](https://www.legislation.gov.uk/uksi/2019/211/regulation/9/c) substituted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/820/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5a4e08584eedd7d8e9df37cb2221a8d3]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-8a0206860e0f3ac4aec6b0072cbfdbd2]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561071]: Marginal citation: S.I. [2018 No. 184](https://www.legislation.gov.uk/ukcm/2018/184).
+
+[^key-cbc887db86e17a1bbb57a978f3e4b3d6]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-dad6f4490f7641c4a8c1e411076865eb]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561081]: Marginal citation: [1997 c.66](https://www.legislation.gov.uk/ukpga/1997/66).
+
+[^key-a83b1f5f03fd98f0bc426d8757fe65d7]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-38f5a622f9b1a749c4c3624cd349e4b4]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-d215949bdf9cd0a4d19ebfd8e8f39484]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561091]: Marginal citation: SR. [2002 No.404](https://www.legislation.gov.uk/ukcm/2002/404).
+
+[^key-e8c828e28ec1d276506f00269c02105e]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561101]: Marginal citation: S.I. [1991 No.1714](https://www.legislation.gov.uk/ukcm/1991/1714) (N.I.19).
+
+[^c23561111]: Marginal citation: S.I. [2002 No. 3026](https://www.legislation.gov.uk/ukcm/2002/3026).
+
+[^key-4d4480ae84bfd7a2830ddd1aa529aad0]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-eeb65c0ebc3dc4e61c48a69567a84096]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561121]: Marginal citation: S.R [2003 No.167](https://www.legislation.gov.uk/ukcm/2003/167).
+
+[^key-ec1f48f485c01d91cefb9ce6bf9a639d]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-8e9a263f45e08526ecc66abfb27a3dfa]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-daa87d6112f280a05343a3e06f6c946e]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561131]: Marginal citation: [1965 c.22](https://www.legislation.gov.uk/ukpga/1965/22).
+
+[^key-e9a29a150ec8e016b7be28dc82b044a2]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-6af05fadd1b90918810c96b3abb96e31]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-00819e93ce7140e077c89d1cfe6b10b4]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-2774c7e3c8d309cc82dfbb773b867f36]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-38248a4a7557de4994593900b16fa889]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-b0085d48f9fe5a59bce9e07d46ecb4a4]: Textual amendment: [Reg. 27(b)](https://www.legislation.gov.uk/uksi/2019/211/regulation/27/b) omitted (31.12.2020) by virtue of [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/820/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0e924e7dd09dc70b4274ada385f10d70]: Textual amendment: [Reg. 27(c)](https://www.legislation.gov.uk/uksi/2019/211/regulation/27/c) substituted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/820/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-72e101d4f01f3936b214af75352c9fe3]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-7c43752cded7e05a24f71da31e687291]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-c10aeef8a5888fdf8b411d4114c9cc40]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/uksi/2019/211/regulation/29) inserted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/820/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-743f4702e58d6ea0758609a5deef4a87]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-70956cab396c1655fc4bb481af70fc52]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-8c5d9bc38f701e9611a257e885b90c78]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-5c2cd25a8109aa61cc0f285310a3f1e3]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-14c67de3618f45dd163dd6bef60934fb]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-9226e4f40d844379560ad7b526730d84]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-a6174c46e5e0900adf3d879b53c534ef]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-f29716fa8ddf047e83b248d9d819818d]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-0731703e479405e72dc99f4bf3b70766]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-183164048e2027704386b84564378f68]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561141]: Marginal citation: S.R. [2016 No. 244](https://www.legislation.gov.uk/ukcm/2016/244), as amended by S.R. [2017 No. 222](https://www.legislation.gov.uk/ukcm/2017/222) and S.R. [2018 No. 188](https://www.legislation.gov.uk/ukcm/2018/188).
+
+[^key-86c0b685f9a6a3efad628396f83a4d5f]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561151]: Marginal citation: OJ No L 8, 14.1.2003, p. 10.
+
+[^key-112b606f593b8d00023908d88d5b18ab]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-9b2bec38f7033931799d576e3725b30e]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561161]: Marginal citation: OJ No L 312, 29.11.2005, p. 51.
+
+[^key-7cc56cc68fae6ec8cb0276c02eefc3ab]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-ac792ce1d59db34348583c97d619dcda]: Textual amendment: Words in [reg. 43(a)](https://www.legislation.gov.uk/uksi/2019/211/regulation/43/a) substituted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2019/820/regulation/5/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-594566286876125594b3d25237124b81]: Textual amendment: Words in [reg. 43(a)](https://www.legislation.gov.uk/uksi/2019/211/regulation/43/a) inserted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2019/820/regulation/5/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-844497720a67a33530e18729e6465cce]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-52a79c36fdf22d4b64c1b3f44a109a13]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561171]: Marginal citation: [1965 c.22](https://www.legislation.gov.uk/ukpga/1965/22).
+
+[^key-ab996d62e88ac1bbffd31b1074f6d7a4]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-470026e697cdc65e665883faf7262c83]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-7cf37b3d1c2604b0402be081d3652b3f]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-f7a414dfe138063b44e748d6ba707fc0]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-dcaf9559323d9396c3554c000c829c3d]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-e546fd4d719c51692ed07f0e8761c865]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-2c70f6d38b9e2bb414ac2a1697edc3b5]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-0322c8229e5aba0e7d1d22e27f4aba6e]: Textual amendment: [Reg. 52(g)](https://www.legislation.gov.uk/uksi/2019/211/regulation/52/g) substituted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2019/820/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23561181]: Marginal citation: S.R. [2003 No. 167](https://www.legislation.gov.uk/ukcm/2003/167).
+
+[^c23561191]: Marginal citation: [S.I. 2002/2443](https://www.legislation.gov.uk/uksi/2002/2443).
+
+[^c23561201]: Marginal citation: [S.I. 2002/3188](https://www.legislation.gov.uk/uksi/2002/3188).
+
+[^c23561211]: Marginal citation: [S.I. 2002/541](https://www.legislation.gov.uk/uksi/2002/541).
+
+[^key-563c54822c67b684dcfbf3955c2832af]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561221]: Marginal citation: S.R. [2017 No. 119](https://www.legislation.gov.uk/ukcm/2017/119).
+
+[^key-44a09637df9d308e668bb55b1f56d5ae]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-e08cf420e211d689b0409a801b30967d]: Textual amendment: Words in [reg. 54(d)](https://www.legislation.gov.uk/uksi/2019/211/regulation/54/d) substituted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/820/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23561231]: Marginal citation: [S.I. 2017/595](https://www.legislation.gov.uk/uksi/2017/595).
+
+[^c23561241]: Marginal citation: [S.S.I. 2017/177](https://www.legislation.gov.uk/ssi/2017/177).
+
+[^c23561251]: Marginal citation: [S.I. 2017/691](https://www.legislation.gov.uk/uksi/2017/691) (W. 163).
+
+[^key-a947bf687804a7e33a14894f0d9ce761]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-7f1b75136f4d92e3d2f5acfc1b1850e7]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-ad67ca44169f1b039db993cf5e41a826]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2019/211/regulation/56) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1313)](https://www.legislation.gov.uk/uksi/2019/1313), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/1313/regulation/1/2/a), [8](https://www.legislation.gov.uk/uksi/2019/1313/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bed61eda5812d59fb5534e07d8798734]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561261]: Marginal citation: [S.I. 2018/184](https://www.legislation.gov.uk/uksi/2018/184).
+
+[^key-1c11fae7b1a36b41c6e983bd711a8a4d]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-1dd329c9eacfe4a21cca3f50bf4d54ab]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-3ee8a7ec92081db109b760c7add88c14]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-fe5d654ba78fe2a06f9bbef913b40072]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23561271]: Marginal citation: S.R. [2003 No. 167](https://www.legislation.gov.uk/ukcm/2003/167).
+
+[^c23561281]: Marginal citation: [S.I. 2002/2443](https://www.legislation.gov.uk/uksi/2002/2443).
+
+[^c23561291]: Marginal citation: S.S.I 2002/541.
+
+[^c23561301]: Marginal citation: [S.I. 2002/3188](https://www.legislation.gov.uk/uksi/2002/3188) (W. 304).
+
+[^key-f969d6543426b633233233aac95c661b]: Commencement: Reg. 62 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

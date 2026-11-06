@@ -1,0 +1,417 @@
+---
+title: The Social Security (Categorisation of Earners) Regulations 1978
+id: uksi/1978/1689
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1978-11-24'
+text_date: '2026-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1978/1689
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1978/1689/pdfs/uksi_19781689_300617_en.pdf
+- http://www.legislation.gov.uk/uksi/1978/1689/pdfs/uksi_19781689_300916_en.pdf
+- http://www.legislation.gov.uk/uksi/1978/1689/pdfs/uksi_19781689_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1978/1689/pdfs/uksi_19781689_en.pdf
+- http://www.legislation.gov.uk/uksi/1978/1689/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Categorisation of Earners) Regulations 1978
+
+> Text as at 2026-04-06.
+
+1978 No. 1689
+
+SOCIAL SECURITY
+
+The Social Security (Categorisation of Earners) Regulations 1978
+
+Made
+
+24th November 1978
+
+Laid before Parliament
+
+6th December 1978
+
+Coming into Operation
+
+27th December 1978
+
+The Secretary of State for Social Services, in exercise of powers conferred on him by sections 2(2), 4(4) and (5) of, and paragraph 6(1)(k) of Schedule 1 to, the Social Security Act 1975 and of all other powers enabling him in that behalf, hereby makes the following regulations, which are made for the purpose only of consolidating the regulations hereby revoked and accordingly, by virtue of section 139(2) of, and paragraph 20 of Schedule 15 to, that Act, are not subject to the requirements of section 139(1) of that Act for prior reference to the National Insurance Advisory Committee:—[^key-eee8b5bb00af07f63298fdfe11fc092c]
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Social Security (Categorisation of Earners) Regulations 1978, and shall come into operation on 27th December 1978.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Social Security Act 1975;
+- “an agency” in paragraph 2 of Schedule 1 and paragraphs 2 and 9 of Schedule 3 to these regulations means either a[^key-5999aab45c615adbe49652d3b0f70d6d] UK agency or a foreign agency;
+- “category A, B, C or D waters” has the meaning given in the Merchant Shipping (Categorisation of Waters) Regulations 1992;[^key-10ebae8788c3f6ac2bc176e1e5c0bba1]
+- “end client” in paragraph 2 of Schedule 1 and paragraphs 2 and 9 of Schedule 3 to these regulations means a person (including any connected person within the meaning given by section 993 of the Income Tax Act 2007) who has a place of business, residence or presence in Great Britain and to whom the worker personally provides services;[^key-4689ebe2688807098d77e9abed952cab]
+- “foreign agency” in paragraph 2 of Schedule 1 and paragraphs 2 and 9 of Schedule 3 to these regulations means a person (including a body of persons unincorporate of which the employed person is a member) who does not have a place of business, residence or presence in Great Britain;
+- [^key-59610362cb937a34eff4ff6de5b49791]...
+- [^key-1c64eb836d8ac23fc6f5abc8b787e02b]...
+- “foreign employer” in paragraph 9 of Schedule 3 to these regulations means a person–[^M_F_a89f5977-fd72-421a-ef5f-0645d3205a85]
+  - (a) who does not fulfil the conditions as to residence or presence in Great Britain prescribed under section 1(6)(a) of the Social Security Contributions and Benefits Act 1992; and
+  - (b) who, if he did fulfil those conditions as to residence or presence in Great Britain referred to in (a) above, would be the secondary contributor in relation to any payment of earnings to or for the benefit of the person employed;
+- “[^key-1d550c00639189a92dc783eb100f49a0]**foreign purported umbrella company**” in paragraph 9 of Schedule 3 to these Regulations means a purported umbrella company, to whom regulation 5(5) of the Social Security (Umbrella Companies) Regulations 2026 applies and who does not have a place of business, residence or presence in Great Britain;
+- “host employer” in paragraph 9 of Schedule 3 to these regulations means a person having a place of business , residence or presence[^key-ac334686821db5002506fdf17ad4718d] in Great Britain;
+- “mariner” has the meaning given in regulation 115 of the Social Security (Contributions) Regulations 2001;
+- “remuneration”—[^key-5ea739216db2ca55e5aaf0ab9a7df1e3]
+  - (a) in paragraph 2 of Schedule 1 and paragraphs 2 and 9 of Schedule 3 to these regulations means—
+    - (i) every form of payment, profit, gratuity or benefit, but
+    - (ii) does not include anything that would not have constituted employed earner’s earnings if it had been receivable in connection with an employment but for those paragraphs; and
+  - (b) in paragraph 8 of Schedule 3 to these regulations includes any payment in respect of stipend or salary and excludes—
+    - (i) any payment disregarded or, as the case may be, deducted from the amount of a person’s earnings by virtue of regulations made under section 3(3) of the Act; or
+    - (ii) any specific and distinct payment made towards the maintenance or education of a dependent of the person receiving the payment;
+- “[^key-4709dd0cd6d18094d94adbe69f255c2d]UK agency” in paragraph 2 of Schedule 1 and paragraphs 2 and 9 of Schedule 3 to these regulations means a person (including a body of persons unincorporate of which the employed person is a member) who has a place of business, residence or presence in Great Britain;
+- “worker” in paragraph 2 of Schedule 1 and paragraphs 2 and 9 of Schedule 3 to these regulations means the person providing services under or in consequence of the contract;
+
+and other expressions have the same meaning as in the Act.
+
+(3) Any reference in these regulations to any provision made by or contained in any enactment or instrument shall, except in so far as the context otherwise requires, be construed as including a reference to that provision as amended or extended by any enactment or instrument, and as including a reference to any provision which it re-enacts or replaces with or without modification.
+
+(4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of these regulations as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Treatment of earners in one category of earners as falling within another category and disregard of employments
+
+(1) For the purposes of the Act an earner in one category of earners shall be treated as falling within another category in accordance with the following provisions of this regulation.
+
+(2) Subject to the provisions of paragraph (4) of this regulation, every earner shall, in respect of any employment described in any paragraph in column (A) of Part I of Schedule 1 to these regulations, be treated as falling within the category of an employed earner in so far as he is gainfully employed in such employment and is not a person specified in the corresponding paragraph in column (B) of that Part, notwithstanding that the employment is not under a contract of service, or in an office (including elective office) with [^key-4d7b4f18dfb7a82ed6cc9c935be4cf5f]... earnings[^key-a27f3b5560ef6eb0e9518da4c802cbce].
+
+(3) Subject to the provisions of paragraph (4) of this regulation, every earner shall, in respect of any employment described in any paragraph in column (A) of Part II of the said Schedule 1, be treated as falling within the category of a self-employed earner in so far as he is gainfully employed in such employment and is not a person specified in the corresponding paragraph in column (B) of that Part, notwithstanding that the employment is under a contract of service, or in an office (including elective office) with [^key-4d7b4f18dfb7a82ed6cc9c935be4cf5f]... earnings.
+
+(4) Every employment described in any paragraph in column (A) of Part III of the said Schedule 1 shall, in relation to liability for contributions otherwise arising from employment of that description, be disregarded, except in so far as it is employment of a person specified in the corresponding paragraph in column (B) of that Part.
+
+## 3. Employments treated as continuing
+
+For the purposes of the Act with respect to the computation, collection and recovery of, and otherwise with respect to, contributions (other than Class 4 contributions which under section 9 of the Act are to be recovered by the Inland Revenue), the employment of a person shall be treated as continuing in the circumstances specified in Schedule 2 to these regulations.
+
+## 4. Special provisions with respect to persons declared by the High Court to be persons falling within a particular category of earners
+
+(1) Where, under the provisions of the Act relating to references and appeals to the High Court[^f00001], the High Court decides any question whether in respect of any employment a person is an earner and, if so, as to the category of earners in which he is to be included, and that decision is inconsistent with some previous determination of a question by the Secretary of State[^f00002], then, if the Secretary of State is satisfied that contributions appropriate to another category of earners have been paid by or in respect of any person by reason of that determination or in the reasonable belief that that determination was applicable, the Secretary of State may, if it appears to him that it would be in the interests of the person by or in respect of whom such contributions have been paid, or of any claimant or beneficiary by virtue of that person's contributions, so to do, direct that that person shall be treated as though he had been included in the category of earners corresponding to the contributions paid during the period for which contributions appropriate to that other category were so paid before the date on which the decision of the High Court was given, and, if such a direction is given, that person shall be deemed to have been included in that category accordingly for such period.
+
+(2) Where the Secretary of State, on review under section 96(1) of the Act, has revised a determination of a question previously given by him, the provisions of this regulation shall apply with the necessary modifications in the same manner as they apply where the High Court has given a decision inconsistent with a determination previously given by the Secretary of State.
+
+(3) In the application of this regulation to Scotland, for any reference to the High Court, there shall be substituted a reference to the Court of Session[^f00003].
+
+## 5. Persons to be treated as secondary contributors
+
+(1)[^key-80fe59f3c9321f850c5ad89055695914] For the purposes of section 4 of the Act (Class 1 contributions), in relation to any payment of earnings to or for the benefit of an employed earner in any employment described in any paragraph in column (A) of Schedule 3 to these regulations, the person specified in the corresponding paragraph in column (B) of that Schedule shall be treated as the secondary Class 1 contributor in relation to that employed earner.
+
+(2)[^key-00d1d6be1fb8f5ade505f7f4712df506] Paragraph 9 of Schedule 3 applies to mariners notwithstanding anything in regulations 122 and 124(1) of the Social Security (Contributions) Regulations 2001.
+
+## 5A. Anti-avoidance[^key-6335b523ce00576b84bd7fedf976aefd]
+
+(1) Paragraph (2) applies if—
+
+- (a) an earner has an employment in which the earner personally provides services to a person who is resident or present or has a place of business in Great Britain,
+- (b) a third person enters into relevant avoidance arrangements, and
+- (c) but for paragraph (2), the earner would not be, and would not be treated as falling within the category of, an employed earner in relation to the employment.
+
+(2) The earner is to be treated as falling within the category of an employed earner in relation to the employment.
+
+(3) In paragraph (1)(b) “**relevant avoidance arrangements**” means arrangements the main purpose, or one of the main purposes, of which is to secure—
+
+- (a) that the earner is not treated under paragraph 2 of Schedule 1 as falling within the category of employed earner in relation to the employment, or
+- (b) that a person is not treated under paragraph 2 or 9(b) or (d) of Schedule 3 as the secondary Class 1 contributor in respect of payments of earnings to or for the benefit of the earner in respect of the employment.
+
+(4) Paragraph (5) applies if—
+
+- (a) a person (“P”) enters into arrangements the main purpose, or one of the main purposes, of which is to secure that P is not treated under a relevant provision as the secondary Class 1 contributor in respect of payments of earnings to or for the benefit of an employed earner in respect of an employment, and
+- (b) but for paragraph (5), no person who is resident or present or has a place of business in Great Britain would—
+  - (i) be the secondary Class 1 contributor in respect of such payments, or
+  - (ii) be treated, under a provision other than paragraph 2(a) or (b) or 9(g) or (h) in column (B) of Schedule 3, as the secondary Class 1 contributor in respect of such payments.
+
+(5) If P is resident or present or has a place of business in Great Britain, P is to be treated as the secondary Class 1 contributor in respect of such payments.
+
+(6) In paragraph (4)(a) a “**relevant provision**” means any provision of—
+
+- (a) paragraph 2 of Schedule 3, other than sub-paragraphs (a) and (b) of that paragraph in column (B), or
+- (b) paragraph 9(a) to (d) of that Schedule.
+
+(7) In this regulation “arrangements” include any scheme, transaction or series of transactions, agreement or understanding, whether or not legally enforceable, and any associated operations.
+
+## 6. Revocation and general savings
+
+(1) The regulations specified in column (1) of Schedule 4 to these regulations are hereby revoked to the extent mentioned in column (3) of that Schedule.
+
+(2) Anything whatsoever done under or by virtue of any regulation revoked by these regulations shall be deemed to have been done under or by virtue of the corresponding provision of these regulations and anything whatsoever begun under any such regulation may be continued under these regulations as if begun thereunder.
+
+David Ennals
+
+Secretary of State for Social Services
+
+## SCHEDULE 1
+
+Regulation 2
+
+### PART I
+
+|  |  |
+| --- | --- |
+| *Column (A)* | *Column (B)* |
+| *Employments in respect of which, subject to the provisions of regulation 2 and to the exceptions in column (B) of this Part, earners are treated as falling within the category of employed earner* | *Persons excepted from the operation of column (A)* |
+| 1\. Employment—[^key-bf265da7514c59eea7f360ba5d617c9d] | 1\. None. |
+| (*a*) as an office cleaner or as an operative in any similar capacity in any premises other than those used as a private dwelling-house; or |  |
+| (*b*) as a cleaner of any telephone apparatus and associated fixtures, other than of apparatus and fixtures in premises used as a private dwelling-house. |  |
+| 2\. Employment (not being an employment in which the employed earner is treated as an employed earner under the provisions of paragraph 1, 3 or 5 of this Schedule) where—[^key-c7c9b847c263aa1f4f77c9b506f66395] | 2\. Any employed person described in paragraph 2 of column (A)—[^key-2bcbca09d1606aadcafb8df06455b104] |
+| (*a*) the worker personally provides services to the end client; | (*a*) where the worker carries out the employment wholly in their own home or on other premises not under the control or management of the end client (except where the other premises are premises at which the employed person is required, by reason of working for the client, to work); or |
+| (*b*) there is a contract between the end client and an agency under or in consequence of which— | (*b*) who works for the end client as an actor, singer, musician or other entertainer, or as a fashion, photographic or artist’s model; or |
+| (i) the services are provided, or |  |
+| (ii) the end client pays, or otherwise provides consideration for the services, and |  |
+| (*c*) remuneration is receivable by the worker (from any person) in consequence of providing the services. | (*c*) where it is shown that the manner in which the worker provides the services is not subject to (or to the right of) supervision, direction or control by any person. |
+| 3\. Employment of a person by his or her spouse or civil partner[^key-71f0a204bb4bca075742fd0ef57b3ea4] for the purposes of the employment of the spouse or civil partner[^key-73dcc77cfe5b915a45076a3a8ae59798] . | 3\. None. |
+| 4\. [^key-dfc07928b72ce52f682da862b592b841]... | [^key-9ed71971cdf10be932bee37040875351]... |
+| 5\. Employment as a minister of religion, not being employment under a contract of service or in an office with [^key-afad6cdca5b67e046a7053401c8f6fa3]... earnings[^key-8194ade3b2f3a13542559aa7ee4a6d7c]. | 5\. Any person in employment described in paragraph 5 of column (A) whose remuneration in respect of that employment (disregarding any payment in kind) does not consist wholly or mainly of stipend or salary. |
+| [^key-afd802822a399c7943275bc8eb32d0af]. . . | [^key-c301b17fe0b138aa0d2ec0a54f677094]. . . |
+
+### PART II
+
+<table>
+<tbody>
+<tr><td><em>Column (A)</em></td><td><em>Column (B)</em></td></tr>
+<tr><td><em>Employments in respect of which, subject to the provisions of regulation 2 and to the exceptions in column (B) of this Part, earners are treated as falling within the category of self-employed earner</em></td><td><em>Persons excepted from the operation of column (A)</em></td></tr>
+<tr><td>6. Employment (not being employment described in paragraph 2 in column (A) of this Schedule) by any person responsible for the conduct or administration of any examination leading to any certificate, diploma, degree or professional qualification—</td><td>6. None.</td></tr>
+<tr><td>(<em>a</em>) as an examiner, moderator or invigilator or in any similar capacity; or</td><td rowspan="2"></td></tr>
+<tr><td>(<em>b</em>) in which the person employed is engaged to set questions or tests for any such examination,</td></tr>
+<tr><td>under a contract where the whole of the work to be performed is to be performed in less than twelve months.</td><td></td></tr>
+</tbody>
+</table>
+
+### PART III
+
+<table>
+<tbody>
+<tr><td><em>Column (A)</em></td><td><em>Column (B)</em></td></tr>
+<tr><td><em>Employments which, subject to the exceptions in column (B) of this Part, are to be disregarded</em></td><td><em>Employments excepted from the operation of column (A)</em></td></tr>
+<tr><td>7. Employment by the father, mother, grandfather, grandmother, stepfather, stepmother, son, daughter, grandson, granddaughter, stepson, stepdaughter, brother, sister, half-brother or half-sister of the person employed, in so far as the employment—</td><td>7. None.</td></tr>
+<tr><td>(<em>a</em>) is employment in a private dwelling-house in which both the person employed and the employer reside; and</td><td rowspan="2"></td></tr>
+<tr><td>(<em>b</em>) is not employment for the purposes of any trade or business carried on there by the employer.</td></tr>
+<tr><td>8. Employment (whether or not under a contract of service) of a person by his or her spouse or civil partner otherwise than for the purposes of the employment of the spouse or civil partner.</td><td>8. None.</td></tr>
+<tr><td>9. Any employment or employments as a self-employed earner (including any employment in respect of which a person is, under these regulations, treated as falling within the category of a self-employed earner) where the earner is not ordinarily employed in such employment or employments.</td><td>9. None.</td></tr>
+<tr><td>10. Employment for the purpose of any election or referendum authorised by Act of Parliament—</td><td>10. None.</td></tr>
+<tr><td>(<em>a</em>) as a returning officer or acting returning officer; or</td><td rowspan="3"></td></tr>
+<tr><td>(<em>b</em>) as a Chief Counting Officer or counting officer; or</td></tr>
+<tr><td>(<em>c</em>) of any person by any officer referred to in (<em>a</em>) or (<em>b</em>) above.</td></tr>
+<tr><td>11. Employment:</td><td>11. Any employment described in paragraph 11(b) in column (A) of a person who is ordinarily resident in the United Kingdom.</td></tr>
+<tr><td>(<em>a</em>) as a member of the naval, military or air forces of a country to which a provision of the Visiting Forces Act 1952 applies by virtue of section 1 thereof;</td><td rowspan="2"></td></tr>
+<tr><td>(<em>b</em>) as a civilian by any such force.</td></tr>
+<tr><td>12. Employment as a member of any international headquarters or defence organisation designated under section 1 of the International Headquarters and Defence Organisations Act 1964</td><td>Any employment described in paragraph 12 in column (A) of a person who is—</td></tr>
+<tr><td rowspan="4"></td><td>(<em>a</em>) a serving member of the regular naval, military or air forces of the Crown—</td></tr>
+<tr><td>(<em>i</em>) raised in the United Kingdom; or</td></tr>
+<tr><td>(<em>ii</em>) having its depot or headquarters in the United Kingdom</td></tr>
+<tr><td>(<em>b</em>) a civilian ordinarily resident in the United Kingdom who is not a member of a scheme providing a pension, lump sum, gratuity or like benefit on cessation of the employment which is established under arrangements made by the international headquarters or, as the case may be, defence organisation of which he is a member.</td></tr>
+<tr><td>13. ...</td><td></td></tr>
+<tr><td>14. Employment by the International Finance Corporation (“IFC”) of a person who is—</td><td>14. None.</td></tr>
+<tr><td>(<em>a</em>) exempt from tax by virtue of article 3 of, and section 9 of article 6 of the Agreement establishing the IFC as set out in the Schedule to, the International Finance Corporation Order 1955, and</td><td rowspan="2"></td></tr>
+<tr><td>(<em>b</em>) a member of a scheme established by or on behalf of the IFC which provides for a pension or any other benefit on cessation of the employment.</td></tr>
+<tr><td>15. Employment by the Asian Infrastructure Investment Bank (“AIIB”) of a person who is—</td><td>15. None.</td></tr>
+<tr><td>(<em>a</em>) exempt from tax by virtue of regulation 18(2) of the Asian Infrastructure Investment Bank (Immunities and Privileges) Order 2015, and</td><td rowspan="2"></td></tr>
+<tr><td>(<em>b</em>) a member of a scheme established by or on behalf of the AIIB which provides for a pension or any other benefit on cessation of the employment.</td></tr>
+</tbody>
+</table>
+
+[^key-131efb1ce0834c5a065de8a747898787][^key-10ed2b12b7e6f53a04eda4a1654333e0][^key-a161e8dc5a27a8b22e83d6c92f3d6421][^key-e0b1f7191c87791a116f59fbe6e0390a][^key-e0485ae4fae4419cd2b13547d9a9461a][^key-a7091453f0b22ea7539868bdef4aa056][^key-405d5af09a3aa345fb35b3a7b62ba13c][^key-2c6265d641e2820473cdd168ed586e5c][^key-11dda0001ec91eabbe534ca0ccbd0add]
+
+## SCHEDULE 2 — CIRCUMSTANCES IN WHICH EMPLOYMENT IS TREATED AS CONTINUING
+
+Regulation 3
+
+Where a person is employed as a self-employed earner or in an employment in respect of which he is, under these regulations, treated as falling within the category of a self-employed earner, the employment shall in either case be treated as continuing unless and until he is no longer ordinarily employed in that employment.
+
+## SCHEDULE 3 — EMPLOYMENTS IN RESPECT OF WHICH PERSONS ARE TREATED AS SECONDARY CLASS 1 CONTRIBUTORS
+
+Regulation 5
+
+<table>
+<thead>
+<tr><th>Column (A)</th><th>Column (B)</th></tr>
+<tr><th>Employments</th><th>Persons treated as secondary Class 1 contributors</th></tr>
+</thead>
+<tbody>
+<tr><td>1. Employment—</td><td>1. (<em>a</em>) Where the person employed is supplied by, or through the agency of, some third person and receives his remuneration from, or through the agency of, that third person, that third person;</td></tr>
+<tr><td>(<em>a</em>) as an office cleaner or as an operative in any similar capacity in any premises other than those used as a private dwelling-house; or</td></tr>
+<tr><td>(<em>b</em>) as a cleaner of any telephone apparatus and associated fixtures, other than of apparatus and fixtures in premises used as a private dwelling-house.</td></tr>
+<tr><td>2. Employment (not being an employment described in paragraph 2 of column (B) of Schedule 1 to these regulations or an employment to which paragraph 1, 4, 5, 7 or 8 of this Schedule applies) where—</td><td>2. The UK agency who is party to the contract with the end client; or—</td></tr>
+<tr><td>(<em>a</em>) the worker personally provides services to the end client;</td><td>(<em>a</em>) where, at any time, the end client provides to the UK agency fraudulent documents in connection with the control, direction or supervision which is to be exercised over the employed person, the end client.</td></tr>
+<tr><td>(<em>b</em>) there is a contract between the end client and a UK agency under or in consequence of which—</td><td>(<em>b</em>) ...</td></tr>
+<tr><td>(i) the services are provided, or</td><td rowspan="2"></td></tr>
+<tr><td>(ii) the end client pays, or otherwise provides consideration for the services, and</td></tr>
+<tr><td>(<em>c</em>) remuneration is receivable by the worker (from any person) in consequence of providing the services.</td><td></td></tr>
+<tr><td>3. Employment of a person by his or her spouse or civil partner for the purposes of the employment of the spouse or civil partner.</td><td>3. The spouse or civil partner.</td></tr>
+<tr><td>4. Employment (not being employment in respect of which a secondary contributor, in any particular case, is prescribed in paragraph 1(a) in column (B) of this Schedule, and not being employment described in paragraph 2 in column (A) of that Schedule) by a company, being a company within the meaning of the Companies Act 1948 and in voluntary liquidation but carrying on business under a liquidator.</td><td>4. The person who at the time of the employment holds the office of liquidator.</td></tr>
+<tr><td>5. Employment in chambers as a barrister's clerk.</td><td>5. The head of chambers.</td></tr>
+<tr><td>6. ...</td><td>...</td></tr>
+<tr><td>7. Employment as a minister of the Church of England, not being employment under a contract of service.</td><td>7. The Church Commissioners for England.</td></tr>
+<tr><td>8. Employment as a minister of religion not being employment—</td><td>8. (<em>a</em>) Where the remuneration in respect of the employment is paid from one fund, the person responsible for the administration of that fund;</td></tr>
+<tr><td>(<em>a</em>) as a minister of the Church of England; or</td><td>(<em>b</em>) where the remuneration in respect of the employment is paid from more than one fund and—</td></tr>
+<tr><td>(<em>b</em>) under a contract of service; or</td><td>(i) remuneration is also paid from one of those funds to other ministers of religion, the person responsible for the administration of that fund;</td></tr>
+<tr><td>(<em>c</em>) described in paragraph 5 in column (B) of Schedule 1 to these regulations</td><td>(ii) remuneration is also paid from two or more of those funds to other ministers of religion, the person responsible for the administration of the fund from which remuneration is paid to the greatest number of ministers of religion who carry out their duties in Great Britain;</td></tr>
+<tr><td>(iii) no person falls to be treated aa secondary contributor by virtue of sub-paragraph (b) (i) or (ii) of this paragraph, the person responsible for the administration of the fund from which the minister of religion first receives a payment of remuneration in the tax year.</td><td></td></tr>
+<tr><td>9. Employment—</td><td>9. Where the employment is—</td></tr>
+<tr><td>(<em>a</em>) (not being an employment described in sub-paragraphs (b) to (f)) by a foreign employer where the employed person, under an arrangement involving the foreign employer and the host employer, provides, or is personally involved in the provision of services, to a host employer;</td><td>(<em>a</em>) employment within paragraph 9(a) of column (A), the host employer;</td></tr>
+<tr><td>(<em>b</em>) under or in consequence of a contract between a foreign agency and an end client where the worker provides services to that end client;</td><td>(<em>b</em>) employment within paragraph 9(b) of column (A), the end client;</td></tr>
+<tr><td>(<em>c</em>) by a foreign employer where the worker provides services to an end client under or in consequence of a contract between that end client and a UK agency;</td><td>(<em>c</em>) employment within paragraph 9(c) of column (A), the UK agency who has the contractual relationship with the end client;</td></tr>
+<tr><td>(<em>d</em>) by a foreign agency where the worker provides services to an end client under or in consequence of a contract between that end client and a UK agency;</td><td>(<em>d</em>) employment within paragraph 9(d) of column (A), the UK agency who has the contractual relationship with the end client;</td></tr>
+<tr><td>(<em>e</em>) by a UK employer where the worker provides services to a person outside the United Kingdom under or in consequence of a contract between that person and a UK agency and the worker is eligible to pay contributions in the United Kingdom in relation to that employment; or</td><td>(<em>e</em>) employment within paragraph 9(e) of column (A), the UK employer or UK agency who has the contractual relationship with the person outside the United Kingdom; or</td></tr>
+<tr><td>(<em>f</em>) by a foreign employer where the worker provides services to a person outside the United Kingdom under or in consequence of a contract between that person and a UK agency and the worker is eligible to pay contributions in the United Kingdom in relation to that employment.</td><td>(<em>f</em>) employment within paragraph 9(f) of column (A), the UK agency who has the contractual relationship with the person outside the United Kingdom;</td></tr>
+<tr><td>(<em>g</em>) under or in consequence of a contract between a foreign purported umbrella company and an end client where the worker provides services to that end client; or</td><td>(<em>g</em>) employment within paragraphs 9(c) or (d) of column (A) and the end client provides at any time to the UK agency fraudulent documents in connection with the control, direction or supervision which is to be exercised over the employed person, the end client; or</td></tr>
+<tr><td>(<em>h</em>) under or in consequence of a contract between a foreign purported umbrella company and a UK agency, where the worker provides services to an end client.</td><td>(<em>h</em>) employment within paragraphs 9(c) or (d) of column (A) and a person who is resident in Great Britain (who is not the end client) with a contractual relationship with the UK agency provides at any time to the UK agency fraudulent documents in connection with the purported deduction or payment of contributions in connection with the employed person, the person who provides the fraudulent documents.</td></tr>
+<tr><td></td><td>(<em>i</em>) employment within paragraph 9(g) of column (A), the end client; or</td></tr>
+<tr><td></td><td>(<em>j</em>) employment within paragraph 9(h) of column (A), the UK agency who has a contractual relationship with the end client.</td></tr>
+<tr><td>10. ...</td><td>10. ...</td></tr>
+</tbody>
+</table>
+
+[^key-02fd50989fc45229216c8df9625486e6][^key-740cffa3480a18ed4ef2553ccd56b29c][^key-54880906882b6f53ca4a767ce4c63b4e][^key-3ccca6899839818e62a44dbe6ede6e1c][^key-aa34b281cf3328abda95c9911b61d86c][^key-d5d61c71b24b0b1d0ae5d2b8c2d7363e][^key-f7517012cd17ef3c813181a809a9fbb3][^key-d970d96195e8ee34e6caa39e32552a93][^key-d7cab21ec13c699d3668f2806f221eef][^key-d7cab21ec13c699d3668f2806f221eef][^key-d40dd36c1458cd8b9b522fa63ca6bf37][^key-55f483e6b7f966f3acb12cebce5d5308][^key-3a7b09158df0862cb607bf2460124a92][^key-5cd3570e883cfea2fb2aa47b21ee29bd][^key-1fbd55c539c211cb49b27dbb3f9a96a6][^key-ffb0256893cf896b51e097f1c1f8b538]
+
+## SCHEDULE 4 — REVOCATIONS[^M_F_b77a5357-dbfb-4b24-e979-8e443466ac6a][^M_F_1c540ba7-ed78-4c81-a759-2f3585364603]
+
+Regulation 6(1)
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th><em>Regulations revoked</em></th><th><em>References</em></th><th><em>Extent of revocation</em></th></tr>
+</thead>
+<tbody>
+<tr><td>The Social Security (Categorisation of Earners) Regulations 1975</td><td>S.I. 1975/528</td><td>The whole regulations</td></tr>
+<tr><td>The Social Security (Categorisation of Earners) Amendment Regulations 1976</td><td>S.I. 1976/404</td><td>The whole regulations</td></tr>
+<tr><td>The Social Security (Categorisation of Earners) Amendment Regulations 1977</td><td>S.I. 1977/1015</td><td>The whole regulations</td></tr>
+<tr><td>The Social Security (Categorisation of Earners and Contributions) Amendment Regulations 1977</td><td>S.I. 1977/1987</td><td>Regulations 1(2)(a) and 2 to 7 inclusive.</td></tr>
+<tr><td>The Social Security (Categorisation of Earners) Amendment Regulations 1978</td><td>S.I. 1978/1462</td><td>The whole regulations</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+These Regulations are made for the purpose only of consolidating the Regulations hereby revoked.
+
+They provide for persons in employments of prescribed descriptions to be treated for the purposes of the Social Security Act 1975 as falling within another category of earners. The Regulations also provide for other employments of prescribed descriptions to be disregarded (regulation 2 and Schedule 1).
+
+Provision is also made for the circumstances in which employment as a self-employed earner is treated as continuing (regulation 3 and Schedule 2).
+
+Provision is also made for the special categorisation of a person following a decision of the High Court or a revised decision of the Secretary of State so as to enable the original determination concerning that person's category to stand where this would be in the interests of the person concerned (regulation 4).
+
+The Regulations provide for prescribed persons to be treated for the purposes of the Social Security Act 1975 as the secondary Class 1 contributor in respect of persons in specified employments (regulation 5 and Schedule 3).
+
+## Annotations
+
+[^key-eee8b5bb00af07f63298fdfe11fc092c]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1978/1689) saving (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security Contributions (Intermediaries) Regulations 2000 (S.I. 2000/727)](https://www.legislation.gov.uk/uksi/2000/727), [reg. 12](https://www.legislation.gov.uk/uksi/2000/727/regulation/12)
+
+[^key-5999aab45c615adbe49652d3b0f70d6d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1978/1689/regulation/1/2) inserted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/2/a)
+
+[^key-10ebae8788c3f6ac2bc176e1e5c0bba1]: Textual amendment: Words in reg. 1(2) inserted (13.10.2003) by [The Social Security (Categorisation of Earners) (Amendment No. 2) Regulations 2003 (S.I. 2003/2420)](https://www.legislation.gov.uk/uksi/2003/2420), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2420/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/2420/regulation/3)
+
+[^key-4689ebe2688807098d77e9abed952cab]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1978/1689/regulation/1/2) inserted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/2/c)
+
+[^key-59610362cb937a34eff4ff6de5b49791]: Textual amendment: Words in reg. 1(2) omitted (6.4.2012) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2012 (S.I. 2012/816)](https://www.legislation.gov.uk/uksi/2012/816), [regs. 1](https://www.legislation.gov.uk/uksi/2012/816/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/816/regulation/3)
+
+[^key-1c64eb836d8ac23fc6f5abc8b787e02b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1978/1689/regulation/1/2) omitted (6.4.2014) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/2/b)
+
+[^M_F_a89f5977-fd72-421a-ef5f-0645d3205a85]: Textual amendment: Words in reg. 1(2) inserted (6.4.1994) by [The Social Security (Categorisation of Earners) Amendment Regulations 1994 (S.I. 1994/726)](https://www.legislation.gov.uk/uksi/1994/726), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/726/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1994/726/regulation/2)
+
+[^key-1d550c00639189a92dc783eb100f49a0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1978/1689/regulation/1/2) inserted (6.4.2026) by [The Social Security Contributions (Umbrella Companies) Regulations 2026 (S.I. 2026/388)](https://www.legislation.gov.uk/uksi/2026/388), [regs. 1](https://www.legislation.gov.uk/uksi/2026/388/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2026/388/regulation/6/2)
+
+[^key-ac334686821db5002506fdf17ad4718d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1978/1689/regulation/1/2) inserted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/2/d)
+
+[^key-5ea739216db2ca55e5aaf0ab9a7df1e3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1978/1689/regulation/1/2) substituted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/2/e)
+
+[^key-4709dd0cd6d18094d94adbe69f255c2d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1978/1689/regulation/1/2) inserted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/2/f)
+
+[^key-4d7b4f18dfb7a82ed6cc9c935be4cf5f]: Textual amendment: Word in reg. 2 omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [25(2)](https://www.legislation.gov.uk/uksi/2015/478/regulation/25/2)
+
+[^key-a27f3b5560ef6eb0e9518da4c802cbce]: Textual amendment: Words in reg. 2 substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [34(2)](https://www.legislation.gov.uk/uksi/2004/770/regulation/34/2)
+
+[^f00001]: Footnote: *See* section 94 of the Social Security Act 1975.
+
+[^f00002]: Footnote: *See* section 93 of the Social Security Act 1975.
+
+[^f00003]: Footnote: *See* section 94(1) of the Social Security Act 1975.
+
+[^key-80fe59f3c9321f850c5ad89055695914]: Textual amendment: Reg. 5(1): reg. 5 renumbered as reg. 5(1) (13.10.2003) by [The Social Security (Categorisation of Earners) (Amendment No. 2) Regulations 2003 (S.I. 2003/2420)](https://www.legislation.gov.uk/uksi/2003/2420), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2420/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2003/2420/regulation/4/1)
+
+[^key-00d1d6be1fb8f5ade505f7f4712df506]: Textual amendment: Reg. 5(2) added (13.10.2003) by [The Social Security (Categorisation of Earners) (Amendment No. 2) Regulations 2003 (S.I. 2003/2420)](https://www.legislation.gov.uk/uksi/2003/2420), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2420/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2003/2420/regulation/4/2)
+
+[^key-6335b523ce00576b84bd7fedf976aefd]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1978/1689/regulation/5A) inserted (6.4.2014 retrospective for specified purposes, 12.2.2015 in so far as not already in force) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2015/5/section/6/1)[(7)](https://www.legislation.gov.uk/ukpga/2015/5/section/6/7) (with [s. 6(8)](https://www.legislation.gov.uk/ukpga/2015/5/section/6/8)[(9)](https://www.legislation.gov.uk/ukpga/2015/5/section/6/9)[(11)](https://www.legislation.gov.uk/ukpga/2015/5/section/6/11))
+
+[^key-bf265da7514c59eea7f360ba5d617c9d]: Textual amendment: Sch. 1 Pt. I para. 1 substituted (16.10.1990) by [The Social Security (Categorisation of Earners) Amendment Regulations 1990 (S.I. 1990/1894)](https://www.legislation.gov.uk/uksi/1990/1894), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/1894/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1990/1894/regulation/2)
+
+[^key-c7c9b847c263aa1f4f77c9b506f66395]: Textual amendment: Sch. 1 Pt. I para. 2 substituted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/3/a)
+
+[^key-2bcbca09d1606aadcafb8df06455b104]: Textual amendment: Sch. 1 Pt. I para. 2 substituted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/3/b)
+
+[^key-71f0a204bb4bca075742fd0ef57b3ea4]: Textual amendment: Words in Sch. 1 para. 3 inserted (5.12.2005) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2005 (S.I. 2005/3133)](https://www.legislation.gov.uk/uksi/2005/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3133/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2005/3133/regulation/3/2)
+
+[^key-73dcc77cfe5b915a45076a3a8ae59798]: Textual amendment: Words in Sch. 1 para. 3 substituted (5.12.2005) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2005 (S.I. 2005/3133)](https://www.legislation.gov.uk/uksi/2005/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3133/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2005/3133/regulation/3/2)
+
+[^key-dfc07928b72ce52f682da862b592b841]: Textual amendment: Words in Sch. 1 Pt. I, para. 4 omitted (6.4.2012) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2012 (S.I. 2012/816)](https://www.legislation.gov.uk/uksi/2012/816), [regs. 1](https://www.legislation.gov.uk/uksi/2012/816/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/816/regulation/4/a)
+
+[^key-9ed71971cdf10be932bee37040875351]: Textual amendment: Words in Sch. 1 Pt. I, para 4 omitted (6.4.2012) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2012 (S.I. 2012/816)](https://www.legislation.gov.uk/uksi/2012/816), [regs. 1](https://www.legislation.gov.uk/uksi/2012/816/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2012/816/regulation/4/b)
+
+[^key-afad6cdca5b67e046a7053401c8f6fa3]: Textual amendment: Word in Sch. 1 omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [25(3)](https://www.legislation.gov.uk/uksi/2015/478/regulation/25/3)
+
+[^key-8194ade3b2f3a13542559aa7ee4a6d7c]: Textual amendment: Words in Sch. 1 para. 5-5A substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [34(3)](https://www.legislation.gov.uk/uksi/2004/770/regulation/34/3)
+
+[^key-afd802822a399c7943275bc8eb32d0af]: Textual amendment: Sch. 1 Pt. I para. 5A column (A) omitted (6.4.2014) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/3/c)
+
+[^key-c301b17fe0b138aa0d2ec0a54f677094]: Textual amendment: Sch. 1 Pt. I para. 5A column (B) omitted (6.4.2014) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/3/c)
+
+[^key-131efb1ce0834c5a065de8a747898787]: Textual amendment: Words in Sch. 1 para. 8 inserted (5.12.2005) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2005 (S.I. 2005/3133)](https://www.legislation.gov.uk/uksi/2005/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3133/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2005/3133/regulation/3/3)
+
+[^key-10ed2b12b7e6f53a04eda4a1654333e0]: Textual amendment: Words in Sch. 1 para. 8 substituted (5.12.2005) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2005 (S.I. 2005/3133)](https://www.legislation.gov.uk/uksi/2005/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3133/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2005/3133/regulation/3/3)
+
+[^key-a161e8dc5a27a8b22e83d6c92f3d6421]: Textual amendment: Sch. 1 para. 11 inserted (1.12.1980) by [The Social Security (Categorisation of Earners) Amendment Regulations 1980 (S.I. 1980/1714)](https://www.legislation.gov.uk/uksi/1980/1714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1980/1714/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1980/1714/regulation/2/a)
+
+[^key-e0b1f7191c87791a116f59fbe6e0390a]: Textual amendment: Sch. 1 para. 12 inserted (1.12.1980) by [The Social Security (Categorisation of Earners) Amendment Regulations 1980 (S.I. 1980/1714)](https://www.legislation.gov.uk/uksi/1980/1714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1980/1714/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1980/1714/regulation/2/b)
+
+[^key-e0485ae4fae4419cd2b13547d9a9461a]: Textual amendment: Words in Sch. 1 para. 12 substituted (5.7.2006) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2006 (S.I. 2006/1530)](https://www.legislation.gov.uk/uksi/2006/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1530/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/1530/regulation/2/2)
+
+[^key-a7091453f0b22ea7539868bdef4aa056]: Textual amendment: Words in Sch. 1 para. 12 substituted (6.4.1984) by [The Social Security (Categorisation of Earners) Amendment Regulations 1984 (S.I. 1984/350)](https://www.legislation.gov.uk/uksi/1984/350), [regs. 1](https://www.legislation.gov.uk/uksi/1984/350/regulation/1), [3](https://www.legislation.gov.uk/uksi/1984/350/regulation/3)
+
+[^key-405d5af09a3aa345fb35b3a7b62ba13c]: Textual amendment: Sch. 1 para. 13 entries omitted (5.7.2006) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2006 (S.I. 2006/1530)](https://www.legislation.gov.uk/uksi/2006/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1530/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/1530/regulation/2/3)
+
+[^key-2c6265d641e2820473cdd168ed586e5c]: Textual amendment: [Sch. 1 Pt. III Col (A) paras. 14-15](https://www.legislation.gov.uk/uksi/1978/1689/schedule/1/part/III/paragraph/14), [III](https://www.legislation.gov.uk/uksi/1978/1689/schedule/1/part/III) inserted (6.4.2017) by [The Social Security (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/307)](https://www.legislation.gov.uk/uksi/2017/307), [regs. 1](https://www.legislation.gov.uk/uksi/2017/307/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/307/regulation/5/2)
+
+[^key-11dda0001ec91eabbe534ca0ccbd0add]: Textual amendment: [Sch. 1 Pt. III Col (B) paras. 14-15](https://www.legislation.gov.uk/uksi/1978/1689/schedule/1/part/III/paragraph/14), [III](https://www.legislation.gov.uk/uksi/1978/1689/schedule/1/part/III) inserted (6.4.2017) by [The Social Security (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/307)](https://www.legislation.gov.uk/uksi/2017/307), [regs. 1](https://www.legislation.gov.uk/uksi/2017/307/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/307/regulation/5/3)
+
+[^key-02fd50989fc45229216c8df9625486e6]: Textual amendment: Sch. 3 para. 1 substituted (16.10.1990) by [The Social Security (Categorisation of Earners) Amendment Regulations 1990 (S.I. 1990/1894)](https://www.legislation.gov.uk/uksi/1990/1894), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/1894/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/1990/1894/regulation/3/1)
+
+[^key-740cffa3480a18ed4ef2553ccd56b29c]: Textual amendment: Sch. 3 para. 2 substituted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/4/a)
+
+[^key-54880906882b6f53ca4a767ce4c63b4e]: Textual amendment: Sch. 3 para. 2 substituted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/4/b)
+
+[^key-3ccca6899839818e62a44dbe6ede6e1c]: Textual amendment: Full-stop substituted for word in [Sch. 3](https://www.legislation.gov.uk/uksi/1978/1689/schedule/3) table (6.4.2026) by [The Social Security Contributions (Umbrella Companies) Regulations 2026 (S.I. 2026/388)](https://www.legislation.gov.uk/uksi/2026/388), [regs. 1](https://www.legislation.gov.uk/uksi/2026/388/regulation/1), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/388/regulation/6/3/b/i)
+
+[^key-aa34b281cf3328abda95c9911b61d86c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/1978/1689/schedule/3) table omitted (6.4.2026) by virtue of [The Social Security Contributions (Umbrella Companies) Regulations 2026 (S.I. 2026/388)](https://www.legislation.gov.uk/uksi/2026/388), [regs. 1](https://www.legislation.gov.uk/uksi/2026/388/regulation/1), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/388/regulation/6/3/b/ii)
+
+[^key-d5d61c71b24b0b1d0ae5d2b8c2d7363e]: Textual amendment: Words in Sch. 3 para. 3 inserted (5.12.2005) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2005 (S.I. 2005/3133)](https://www.legislation.gov.uk/uksi/2005/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3133/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2005/3133/regulation/4/2/a)
+
+[^key-f7517012cd17ef3c813181a809a9fbb3]: Textual amendment: Words in Sch. 3 para. 3 substituted (5.12.2005) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2005 (S.I. 2005/3133)](https://www.legislation.gov.uk/uksi/2005/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3133/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2005/3133/regulation/4/2/b)
+
+[^key-d970d96195e8ee34e6caa39e32552a93]: Textual amendment: Words in Sch. 3 para. 3 inserted (5.12.2005) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2005 (S.I. 2005/3133)](https://www.legislation.gov.uk/uksi/2005/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3133/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/3133/regulation/4/3)
+
+[^key-d7cab21ec13c699d3668f2806f221eef]: Textual amendment: Words in Sch. 3, para. 6 omitted (6.4.2012) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2012 (S.I. 2012/816)](https://www.legislation.gov.uk/uksi/2012/816), [regs. 1](https://www.legislation.gov.uk/uksi/2012/816/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/816/regulation/5/a)
+
+[^key-d40dd36c1458cd8b9b522fa63ca6bf37]: Textual amendment: Words in Sch. 3 para. 9 substituted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/4/c)
+
+[^key-55f483e6b7f966f3acb12cebce5d5308]: Textual amendment: Sch. 3 para. 9 substituted (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/4/d)
+
+[^key-3a7b09158df0862cb607bf2460124a92]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/1978/1689/schedule/3) table inserted (6.4.2026) by [The Social Security Contributions (Umbrella Companies) Regulations 2026 (S.I. 2026/388)](https://www.legislation.gov.uk/uksi/2026/388), [regs. 1](https://www.legislation.gov.uk/uksi/2026/388/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2026/388/regulation/6/3/a)
+
+[^key-5cd3570e883cfea2fb2aa47b21ee29bd]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/1978/1689/schedule/3) table inserted (6.4.2026) by [The Social Security Contributions (Umbrella Companies) Regulations 2026 (S.I. 2026/388)](https://www.legislation.gov.uk/uksi/2026/388), [regs. 1](https://www.legislation.gov.uk/uksi/2026/388/regulation/1), [6(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/388/regulation/6/3/b/iii)
+
+[^key-1fbd55c539c211cb49b27dbb3f9a96a6]: Textual amendment: Sch. 3 para. 10 column (A) omitted (6.4.2014) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/4/e)
+
+[^key-ffb0256893cf896b51e097f1c1f8b538]: Textual amendment: Sch. 3 para. 10 column (B) omitted (6.4.2014) by virtue of [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [regs. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2014/635/regulation/2/4/e)
+
+[^M_F_b77a5357-dbfb-4b24-e979-8e443466ac6a]: Textual amendment: Sch. 3 para. 10 inserted (17.7.1998) by [The Social Security (Categorisation of Earners) Amendment Regulations 1998 (S.I. 1998/1728)](https://www.legislation.gov.uk/uksi/1998/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/1728/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1998/1728/regulation/4)
+
+[^M_F_1c540ba7-ed78-4c81-a759-2f3585364603]: Textual amendment: Sch. 3 para. 9 inserted (6.4.1994) by [The Social Security (Categorisation of Earners) Amendment Regulations 1994 (S.I. 1994/726)](https://www.legislation.gov.uk/uksi/1994/726), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/726/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1994/726/regulation/4)

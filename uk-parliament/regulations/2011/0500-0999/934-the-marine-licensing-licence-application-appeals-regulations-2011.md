@@ -1,0 +1,516 @@
+---
+title: The Marine Licensing (Licence Application Appeals) Regulations 2011
+id: uksi/2011/934
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-22'
+text_date: '2025-11-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/934
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/934/pdfs/uksiem_20110934_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/934/pdfs/uksi_20110934_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/934/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marine Licensing (Licence Application Appeals) Regulations 2011
+
+> Text as at 2025-11-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 934
+
+Environmental Protection
+
+Licensing (marine)
+
+Marine Pollution
+
+Tribunals And Inquiries
+
+The Marine Licensing (Licence Application Appeals) Regulations 2011
+
+Made
+
+22nd March 2011
+
+Coming into force
+
+6th April 2011
+
+The Secretary of State, as the appropriate licensing authority under section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009[^f00001], makes these Regulations in exercise of the powers conferred by sections 73 and 316(1) of that Act.
+
+In accordance with section 316(6)(b) and (7)(c) of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament.[^key-c468a99027d7b5f41669924cff4f9542]
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-64ff516e5745c7c5f65498b22def5ccd]
+
+These Regulations—
+
+- (a) may be cited as the Marine Licensing (Licence Application Appeals) Regulations 2011, and
+- (b) come into force on 6th April 2011.
+
+### 2. Application[^key-8f332f93203f0ac427d34bfa1553b01b]
+
+These Regulations apply in relation to any area, and any licensable marine activity carried on in that area, for which the Secretary of State is the appropriate licensing authority under section 113 of the Act[^f00002].
+
+### 3. Interpretation[^key-06b7158bf04aa52459cb1918ea01f88b]
+
+In these Regulations—
+
+- “the Act” means the Marine and Coastal Access Act 2009;
+- “the appointed person” means the person appointed under regulation 5;
+- “the Authority” means the person who took the decision under section 71 of the Act that is the subject of the appeal under these Regulations[^f00003];
+- “document” includes a map, photograph or report;
+- “the relevant time limits” means the time limits specified in these Regulations or in any direction given or requirement made by the appointed person by virtue of these Regulations, or such later time as is specified by virtue of regulation 25(1);
+- “start date” has the meaning given by regulation 8(3);
+- “valid notice of appeal” means a notice of appeal that—
+  - (a) complies with regulation 7(1);
+  - (b) was accompanied by the documents required by regulation 7(2); and
+  - (c) was received by the Secretary of State within the relevant time limits.
+
+## PART 2 — Appeals – general
+
+### 4. Appeal against marine licensing decisions[^key-d32c7ae70c73f1b38216315826751996]
+
+(1) A person who has applied for a marine licence may by notice appeal against a decision taken under section 71(1)(b) or (c), (4) or (5) of the Act (refusal of licence or grant subject to conditions etc).
+
+(2) Appeals must be made in accordance with these Regulations.
+
+(3) Any requirement in these Regulations for the Secretary of State to give or send any notice or other thing to the Authority, or for the Authority to give or send notice or other thing to the Secretary of State, does not apply where the Authority is the Secretary of State.
+
+### 5. Determination of appeal by appointed person[^key-8f1cd64e8b5168d68d3743ba88fa53a4]
+
+(1) Any appeal under these Regulations must be determined by a person appointed for that purpose by the Secretary of State.
+
+(2) An appointment under paragraph (1)—
+
+- (a) must be in writing;
+- (b) may relate to any particular appeal specified in the appointment or to appeals of a class or description so specified;
+- (c) may provide for any function to which it relates to be exercisable subject to such conditions as may be specified in the appointment;
+- (d) may provide for payment to be made to the appointed person.
+
+(3) The Secretary of State may at any time, by notice given to the appointed person, revoke the appointment in respect of any appeal which has not been determined before that time.
+
+(4) Where an appointment is so revoked in respect of any appeal, the Secretary of State must appoint another person under paragraph (1) to determine the appeal instead.
+
+(5) Where a new appointment is made, the consideration of the appeal, or any hearing or inquiry in connection with it, must be begun afresh.
+
+(6) But nothing in paragraph (5) requires any person to be given an opportunity of making new representations or comments or modifying or withdrawing any representations or comments already made.
+
+## PART 3 — Starting the appeal
+
+### 6. Time limit for the notice of appeal[^key-71d03e17e043845d48eea7ff068feb18]
+
+(1) Notice of an appeal must be received by the Secretary of State within the period of 6 months beginning with the date of the decision to which the appeal relates.
+
+(2) A person who sends a notice of appeal to the Secretary of State must, at the same time, send a copy of that notice to the Authority.
+
+(3) In this regulation, “notice of appeal” means a notice of appeal complying with regulation 7(1) and accompanied by the documents specified in regulation 7(2).
+
+### 7. Contents of the notice of appeal[^key-8917060dde59dd231e6ea2db3d2b57f2]
+
+(1) A notice of appeal must include—
+
+- (a) the name, address (including any e-mail address) and telephone number of the appellant and any agent acting for the appellant;
+- (b) a statement of the grounds of appeal;
+- (c) a statement as to whether the appellant wishes to have the appeal dealt with by way of written representations, a hearing or an inquiry;
+- (d) a list of all the documents, including dates (where any document is dated), specified in paragraph (2).
+
+(2) A notice of appeal must be accompanied by—
+
+- (a) a copy of the decision to which the appeal relates; and
+- (b) a copy of all documents upon which the appellant wishes to rely.
+
+### 8. Decision as to appeal procedure and start date[^key-da4f0af6bed5c28e311005d13da19634]
+
+(1) The Secretary of State must, as soon as practicable after receipt of a valid notice of appeal, decide whether the appeal is to be determined by means of written representations, a hearing or an inquiry.
+
+(2) The Secretary of State must notify the appellant and the Authority of that decision.
+
+(3) The date on which that notification is sent is the start date for the appeal.
+
+(4) A decision under paragraph (1) may be varied by a subsequent decision under that paragraph at any time before the proceedings are determined.
+
+(5) But before making such a variation the Secretary of State must consult—
+
+- (a) the appellant, and
+- (b) where the Authority is not the Secretary of State, the Authority.
+
+(6) Where the decision is varied—
+
+- (a) the Secretary of State must notify the appellant, the Authority and any other person who has made written representations in respect of the appeal of such change;
+- (b) anything done in relation to the former appeal procedure which could have been done under any corresponding provision of these Regulations relating to the new appeal procedure has effect as if done under that corresponding provision; and
+- (c) the Secretary of State may give consequential directions as to the procedure.
+
+(7) Nothing in paragraphs (4) to (6) affects the start date under paragraph (3).
+
+(8) The Secretary of State must publish the criteria that are to be applied in making a decision under paragraph (1).
+
+## PART 4 — Action following the start date
+
+### 9. Notice to interested persons[^key-691e3e00cadae0c99139a15ba82e7f17]
+
+(1) The Authority must, within the period of 2 weeks beginning with the start date, give notice that an appeal has been lodged—
+
+- (a) to any person (other than the appellant) who has made representations to the Authority in respect of the subject matter of the appeal, and
+- (b) to any other person it considers likely to have an interest.
+
+(2) The notice must state—
+
+- (a) the start date;
+- (b) the name and location of the site to which the appeal relates;
+- (c) the name of the appellant;
+- (d) that the appeal will be determined by way of written representations, a hearing or an inquiry (as the case may be);
+- (e) that, within the period of 4 weeks beginning with the date of the notice, the recipient may send to the Secretary of State any written representations the recipient wishes to make;
+- (f) the address to which such representations must be sent;
+- (g) that any representations received will be sent to the appellant and the Authority;
+- (h) that if the recipient makes representations, the recipient will be notified by the Secretary of State of the date of any hearing or inquiry that may be held.
+
+(3) The notice must be accompanied by a copy of the decision to which the appeal relates.
+
+(4) The Authority must, within the period of 2 weeks beginning with the start date, send to the Secretary of State and the appellant—
+
+- (a) a list of the persons to whom, and the dates on which, notice under paragraph (1) was given; and
+- (b) copies of all representations referred to in paragraph (1)(a).
+
+### 10. Representations and further comments[^key-8758827c792d27a97dec076cb9ebfc59]
+
+(1) Where an appeal is to be determined by way of written representations—
+
+- (a) the Authority must, within the period of 6 weeks beginning with the start date, send to the Secretary of State any representations it wishes to make on the appeal together with any documents it wishes to rely on;
+- (b) if the appellant wishes to make any further representations to those referred to in the notice of appeal or the documents accompanying it referred to in regulation 7(2), the appellant must send 2 copies of those further representations to the Secretary of State within the period of 6 weeks beginning with the start date.
+
+(2) Where an appeal is to be determined by way of hearing or inquiry, the appellant and the Authority must each, within the period of 6 weeks beginning with the start date, send to the Secretary of State a statement containing full particulars of the case they propose to put forward at the hearing or inquiry and a list of any documents they propose to refer to or put in evidence.
+
+(3) At the end of the period of 6 weeks beginning with the start date, the Secretary of State must—
+
+- (a) where the appeal is to be determined by way of written representations—
+  - (i) send a copy of the Authority’s representations to the appellant, and
+  - (ii) send a copy of any further representations received under paragraph (1)(b) to the Authority;
+- (b) where the appeal is to be determined by way of hearing or inquiry, send, at the same time, a copy of the Authority’s statement and list of documents to the appellant and a copy of the appellant’s statement and list of documents to the Authority;
+- (c) in all cases, send, at the same time, copies of any other representations received by the Secretary of State to the appellant and the Authority.
+
+(4) The appellant and the Authority may, within the period of 9 weeks beginning with the start date, send comments on those representations or statements to the Secretary of State.
+
+(5) The Secretary of State must, as soon as is reasonably practicable after that 9-week period, send, at the same time, a copy of the Authority’s comments to the appellant and a copy of the appellant’s comments to the Authority.
+
+## PART 5 — Hearings and inquiries
+
+### 11. Scope[^key-54d2300c74f3ba0e890f7926f0108d08]
+
+This Part applies if an appeal is to be determined by way of hearing or inquiry (but certain provisions apply only to hearings or only to inquiries).
+
+### 12. Establishing the hearing or inquiry[^key-263a4b01092f5c76fd2a106502648e32]
+
+(1) The Secretary of State must set a date for the hearing or inquiry (“the relevant date”).
+
+(2) The Secretary of State must, at least 6 weeks before the relevant date, give notice of the relevant date to the appellant, the Authority and any person who has made representations concerning the appeal.
+
+(3) The Authority must, at least 3 weeks before the relevant date, publish notice of the appeal in such manner as the Authority thinks is best calculated to bring it to the attention of any persons likely to be interested in it.
+
+(4) If the relevant date is changed the procedure in paragraphs (2) and (3) must be repeated.
+
+### 13. Pre-inquiry meeting[^key-31d063c42ad706101efa828799c99b00]
+
+(1) The appointed person may hold a pre-inquiry meeting to determine the matters to be addressed and the procedure to be followed at an inquiry.
+
+(2) The Secretary of State must give at least 4 weeks’ notice of such a meeting to—
+
+- (a) the appellant and the Authority;
+- (b) any person known at the date of the notice to be entitled to appear at the inquiry; and
+- (c) any other person whose presence the appointed person considers desirable.
+
+(3) At the meeting, the appointed person may give directions to the appellant, the Authority and any other person wishing to appear at the inquiry about things to be done in preparation for the inquiry and the date by which they must be done.
+
+### 14. Statement of agreed facts – inquiries[^key-11c761cecae991bb95184f6c16288b15]
+
+(1) The appellant and the Authority must together prepare a statement containing agreed factual information about the subject matter of the appeal.
+
+(2) The Authority must ensure that the appointed person receives that statement at least 4 weeks before the inquiry date.
+
+### 15. Proofs of evidence – inquiries[^key-605dcc331d104766158bb00ced4de7fb]
+
+(1) This regulation applies where a person entitled to appear at an inquiry intends to give, or to call a witness to give, evidence at the inquiry.
+
+(2) The person must, at least 4 weeks before the inquiry date or such other time as the appointed person directs, send a proof of the evidence intended to be given together with any written summary required to the Secretary of State.
+
+(3) The Secretary of State must, as soon as practicable after receiving a proof of evidence, send a copy of it to the appellant, the Authority and any other person who has sent a proof.
+
+(4) A written summary is required if the proof of evidence in question exceeds 1500 words.
+
+(5) Where a written summary is provided, only that summary may be read at the inquiry, unless the appointed person directs otherwise.
+
+(6) Where a person gives evidence at an inquiry by reading a summary of a proof of evidence—
+
+- (a) the proof of evidence is treated as tendered in evidence, unless the person required to provide the summary notifies the appointed person that the person now wishes to rely on the contents of that summary alone; and
+- (b) the person whose evidence the proof of evidence contains may then be subject to cross-examination on it to the same extent as if it were evidence given orally.
+
+(7) The appointed person may allow any person to alter or add to a proof of evidence or summary so far as may be necessary for the purposes of the inquiry.
+
+(8) But if this is done, the appointed person must (if necessary by adjourning the inquiry) give every other person appearing at the inquiry an adequate opportunity of considering any fresh matter or document.
+
+(9) This regulation is subject to regulation 17.
+
+### 16. Procedure[^key-4d0c63b46cf5b964ec0ba282ddd303f4]
+
+(1) Except as otherwise provided in these Regulations, the appointed person may determine the procedure to be followed at a hearing or an inquiry.
+
+(2) Once the hearing or inquiry has started the appointed person may adjourn it at any time.
+
+(3) The persons entitled to appear are—
+
+- (a) the appellant;
+- (b) the Authority; and
+- (c) any person who has made representations concerning the appeal.
+
+(4) The appointed person may proceed in the absence of any person entitled to appear.
+
+(5) The appointed person may permit any other person to appear, and such permission must not be unreasonably withheld.
+
+(6) Any person entitled or permitted to appear may appear in person or be represented by any other person.
+
+(7) A person entitled to appear may call evidence, but the calling of evidence is otherwise at the appointed person’s discretion.
+
+(8) Cross-examination is not permitted at a hearing unless the appointed person considers that it is required to ensure a thorough examination of the main issues.
+
+(9) If the appointed person considers that cross-examination is required, the appointed person must consider, after consulting the appellant and the Authority, whether to close the hearing and start an inquiry instead.
+
+(10) A person entitled to appear at an inquiry may cross-examine persons giving evidence, but the cross-examination of persons giving evidence at an inquiry is otherwise at the appointed person’s discretion.
+
+(11) The appointed person may take into account any written representation, evidence or any other document received from any person before or during a hearing or an inquiry, provided that the appointed person discloses it at the hearing or inquiry.
+
+(12) If the appointed person so decides, a hearing or an inquiry may be held wholly or partly in private.
+
+(13) This regulation is subject to regulation 17.
+
+### 17. Powers to exclude persons, evidence etc[^key-0c6d49f992d465054ecb59bfb931a0d2]
+
+(1) If, at any stage of a hearing or inquiry, the appointed person considers that any of the reasons referred to in paragraph (2) apply, the appointed person may prevent any person from—
+
+- (a) giving evidence,
+- (b) cross-examining a person giving evidence, or
+- (c) presenting any matter.
+
+(2) The reasons are—
+
+- (a) that the evidence or matter was not provided within the relevant time limits;
+- (b) that the evidence or matter was otherwise not provided in accordance with any provision of these Regulations or with any direction given or requirement made by the appointed person under these Regulations;
+- (c) that the evidence or matter is irrelevant or repetitious; or
+- (d) that the person is behaving or has behaved in a disruptive manner at the hearing or inquiry.
+
+(3) Without prejudice to the powers in paragraph (1), if any person at the hearing or inquiry behaves in a disruptive manner the appointed person may—
+
+- (a) require that person to leave;
+- (b) prevent that person from participating in the hearing or inquiry; or
+- (c) permit that person to remain at, or participate in, the hearing or inquiry only on specified conditions.
+
+(4) Where the appointed person refuses to permit a person to give oral evidence under paragraph (3), the person may submit to the appointed person any evidence or other matter in writing before the close of the hearing or inquiry (but this is subject to paragraph (1)).
+
+### 18. Additional provisions as to evidence and costs[^key-5dd27680487b7613f7cd42802a40927f]
+
+(1) Subsections (2) to (5) of section 250 of the Local Government Act 1972[^f00004] (local inquiries: evidence and costs) apply, with the modifications described in paragraph (2), to any hearing or inquiry under these Regulations as they apply to inquiries under that section.
+
+(2) The modifications are—
+
+- (a) the reference to the person appointed to hold the inquiry is to be read as a reference to the appointed person;
+- (b) the reference to a local authority in proviso (b) to subsection (2) is to be read as a reference to the Authority;
+- (c) the reference to “such local authority” in subsection (4) is to be read as a reference to the Authority;
+- (d) references to the Minister causing an inquiry to be held are to be read as references to the appointed person.
+
+(3) Section 322A of the Town and Country Planning Act 1990[^f00005] (orders as to costs where no hearing or inquiry takes place) applies in relation to a hearing or an inquiry under these Regulations as it applies in relation to a hearing or local inquiry referred to in that section.
+
+(4) Subject to paragraphs (1) and (3), the costs of a hearing or an inquiry held under these Regulations must be defrayed by the Secretary of State.
+
+### 19. Concurrent or combined inquiries[^key-ea62b6cd3563fa52d8aedd7018c30297]
+
+(1) Paragraph (2) applies where—
+
+- (a) the appeal is to be determined by an inquiry, and
+- (b) in the case of some other matter required or authorised to be the subject of an inquiry (“the other inquiry”), it appears to the relevant authority or authorities that the matters are so far cognate that they should be considered together.
+
+(2) The relevant authority or authorities may direct that the two inquiries be held concurrently or combined as one inquiry.
+
+(3) In this regulation “the relevant authority or authorities” means the Secretary of State or, where causing the other inquiry to be held is the function of some other person, the Secretary of State and that other person acting jointly.
+
+### 20. National security – inquiries[^key-f54f1cc30b7ff44e1ec9d4d8f8fe8249]
+
+(1) If, in the case of any particular appeal, the Secretary of State certifies that it would in the opinion of the Secretary of State be contrary to the interests of national security—
+
+- (a) if an inquiry under these Regulations were to be held, or
+- (b) if any members of the public, or any specified persons, were to be admitted to the inquiry or some specified part of it,
+
+the inquiry is not to be held or, as the case may be, the public is not, or those persons are not, to be admitted to the inquiry or that part of it.
+
+(2) In paragraph (1) “specified persons” means—
+
+- (a) persons specified in the certificate, or
+- (b) persons of a description specified in the certificate.
+
+## PART 6 — Final determination of the appeal
+
+### 21. Determination of appeals determined by way of written representations[^key-5b7632766cc5dd5faf6ede8e72d66c66]
+
+(1) This regulation applies if an appeal is to be determined by way of written representations.
+
+(2) A valid notice of appeal and the documents accompanying it, together with any representations or comments made by the appellant under regulation 10(1)(b) or (4), comprise the appellant’s representations in relation to the appeal.
+
+(3) The representations received under regulation 10(1)(a), together with any comments made by the Authority under regulation 10(4), comprise the Authority’s representations in relation to the appeal.
+
+(4) The appointed person may determine an appeal taking into account only such representations as have been sent within the relevant time limits.
+
+### 22. Determining the appeal – general[^key-f628bb93909f63bcca87d08b3dd4b70c]
+
+(1) On determining an appeal against a decision, the appointed person may—
+
+- (a) dismiss the appeal;
+- (b) allow the appeal and quash the decision in whole or in part;
+- (c) where the appointed person quashes a decision under sub-paragraph (b), direct the Authority—
+  - (i) to grant a marine licence, or
+  - (ii) to grant a marine licence on such terms or subject to such conditions as the appointed person may direct.
+
+(2) The appointed person must notify the appellant and the Authority in writing of the determination.
+
+## PART 7 — Supplementary provisions
+
+### 23. Failure to take action[^key-d94b4828c786d58ab24b7d2d09484470]
+
+(1) This regulation applies where the appellant or the Authority has failed, within the relevant time limits, to take any step or provide any information required under these Regulations.
+
+(2) The appointed person may, after giving the appellant and the Authority notice of intention to do so, determine an appeal even though that step has not been taken or that information has not been provided.
+
+### 24. Supply of documents etc[^key-0d2a85223343ad298ae265976cc60c6f]
+
+(1) Anything required or permitted to be supplied (including any representations made) under these Regulations must be in writing.
+
+(2) If a document supplied refers to another document, a copy of that other document must also be supplied.
+
+(3) Anything required or permitted to be supplied under these Regulations may be supplied electronically if—
+
+- (a) it is capable of being accessed by the recipient,
+- (b) the information contained in it is available to the recipient to no lesser extent than it would be if it were in printed form,
+- (c) it is sufficiently permanent to be used for subsequent reference, and
+- (d) the recipient consents to its being supplied electronically.
+
+(4) Documents and copies supplied by the appellant or the Authority must be supplied in duplicate.
+
+(5) But paragraph (4) does not apply to a document or copy—
+
+- (a) required to accompany a notice of appeal under regulation 7(1)(d) and (2), or
+- (b) supplied electronically.
+
+(6) If any document has already been supplied for the purposes of an appeal and is readily available to all parties, the appointed person may direct that it need not be supplied again.
+
+### 25. Extending deadlines and providing additional information or copies[^key-23dee7c5f5b27c0d290acc67baec5dc6]
+
+(1) The Secretary of State or the appointed person may, in exceptional circumstances, extend any deadline.
+
+(2) The appointed person may—
+
+- (a) require any further exchanges of information if this is necessary for the determination of the appeal; or
+- (b) require any party to provide further information relevant to the appeal or additional copies of any document, within a specified time limit.
+
+(3) A person required to make a further exchange of information or to provide further information or additional copies must comply within any time specified.
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+22nd March 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations establish an appeals procedure in relation to decisions taken under section 71 of the Marine and Coastal Access Act 2009. They apply in relation to any area, and any licensable marine activity carried on in that area, for which the Secretary of State is the appropriate licensing authority under section 113 of that Act.
+
+Part 1 (regulations 1 to 3) deals with introductory matters.
+
+Part 2 (regulations 4 and 5) contains provisions setting out a right of appeal against marine licensing decisions and providing that the appeal must be determined by a person appointed by the Secretary of State for that purpose.
+
+Part 3 (regulations 6 to 8) contains provisions relating to time limits for, and contents of, notices of appeal, and decisions as to appeal procedure.
+
+Part 4 (regulations 9 and 10) contains provisions relating to notices, representations and further comments.
+
+Part 5 (regulations 11 to 20) contains provisions relating to hearings and inquiries.
+
+Part 6 (regulations 21 and 22) contains provisions relating to the determination of the appeal.
+
+Part 7 (regulations 23 to 25) contains supplementary provisions relating to failure to take action, supply of documents, extending deadlines and providing additional information.
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Licensing Policy Team, Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR, and from the Defra’s website at www.defra.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-c468a99027d7b5f41669924cff4f9542]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/934) modified (27.11.2025) by [The Cory Decarbonisation Project Order 2025 (S.I. 2025/1227)](https://www.legislation.gov.uk/uksi/2025/1227), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1), [42(2)](https://www.legislation.gov.uk/uksi/2025/1227/article/42/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1227/schedule/12))
+
+[^key-64ff516e5745c7c5f65498b22def5ccd]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-8f332f93203f0ac427d34bfa1553b01b]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^f00002]: Footnote: By virtue of section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009, the Secretary of State is the appropriate licensing authority as respects anything done in the course of carrying on certain activities in the Scottish offshore region, Wales and the Welsh inshore region, Northern Ireland and the Northern Ireland inshore region, and in relation to any other area not mentioned in subsections (2), (4) or (6). See section 322(1) for definitions of those regions.
+
+[^key-06b7158bf04aa52459cb1918ea01f88b]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^f00003]: Footnote: That person will either be the Secretary of State, as the appropriate licensing authority under section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009, or, where the function under section 71 of that Act is exercisable by a person by virtue of an Order made under section 98(1) of that Act, that person.
+
+[^key-d32c7ae70c73f1b38216315826751996]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-8f1cd64e8b5168d68d3743ba88fa53a4]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-71d03e17e043845d48eea7ff068feb18]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-8917060dde59dd231e6ea2db3d2b57f2]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-da4f0af6bed5c28e311005d13da19634]: Commencement: Reg. 8 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-691e3e00cadae0c99139a15ba82e7f17]: Commencement: Reg. 9 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-8758827c792d27a97dec076cb9ebfc59]: Commencement: Reg. 10 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-54d2300c74f3ba0e890f7926f0108d08]: Commencement: Reg. 11 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-263a4b01092f5c76fd2a106502648e32]: Commencement: Reg. 12 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-31d063c42ad706101efa828799c99b00]: Commencement: Reg. 13 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-11c761cecae991bb95184f6c16288b15]: Commencement: Reg. 14 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-605dcc331d104766158bb00ced4de7fb]: Commencement: Reg. 15 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-4d0c63b46cf5b964ec0ba282ddd303f4]: Commencement: Reg. 16 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-0c6d49f992d465054ecb59bfb931a0d2]: Commencement: Reg. 17 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-5dd27680487b7613f7cd42802a40927f]: Commencement: Reg. 18 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 250 has been amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37, 38 and 46, by the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), section 49(2) and Schedule 12 and by the Statute Law (Repeals) Act [1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43).
+
+[^f00005]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 322A was inserted by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 30(1), and subsection (1A) of section 322A was inserted by the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 196(4) and Schedule 10, paragraphs 1 and 11.
+
+[^key-ea62b6cd3563fa52d8aedd7018c30297]: Commencement: Reg. 19 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-f54f1cc30b7ff44e1ec9d4d8f8fe8249]: Commencement: Reg. 20 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-5b7632766cc5dd5faf6ede8e72d66c66]: Commencement: Reg. 21 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-f628bb93909f63bcca87d08b3dd4b70c]: Commencement: Reg. 22 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-d94b4828c786d58ab24b7d2d09484470]: Commencement: Reg. 23 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-0d2a85223343ad298ae265976cc60c6f]: Commencement: Reg. 24 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)
+
+[^key-23dee7c5f5b27c0d290acc67baec5dc6]: Commencement: Reg. 25 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/934/regulation/1/b)

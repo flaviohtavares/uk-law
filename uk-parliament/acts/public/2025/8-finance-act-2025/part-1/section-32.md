@@ -1,0 +1,58 @@
+---
+title: Finance Act 2025, section 32
+act: Finance Act 2025
+section: '32'
+status: revised
+text_date: '2026-04-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/8/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2025, section 32
+
+> Text as at 2026-04-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 32. Overseas transfer charge: pension schemes in EEA state or Gibraltar
+
+*Extent: E+W+S+N.I.*
+
+(1) In Part 4 of [FA 2004](https://www.legislation.gov.uk/ukpga/2004/12) (pensions) omit section 244C (exclusion from overseas transfer charge where receiving scheme in EEA state or Gibraltar, and member resident in UK or EEA state).
+
+(2) Subsections (3) to (5) contain amendments consequential on the repeal made by subsection (1).
+
+(3) In Part 4 of [FA 2004](https://www.legislation.gov.uk/ukpga/2004/12)—
+
+- (a) in section 244J (persons liable to charge), in subsection (4) omit “or 244C”;
+- (b) in section 244K (meaning of “**transferred value**”), in subsection (6) omit “or 244C”.
+
+(4) In the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006 ([S.I. 2006/208](https://www.legislation.gov.uk/uksi/2006/208))—
+
+- (a) in regulation 3 (information to be provided to QROPS) in paragraph (2C)—
+  - (i) for “neither” substitute “not”;
+  - (ii) omit paragraph (b) and the “nor” before it;
+- (b) in regulation 3AF (information provided by member to QROPS: inward and outward transfers), in paragraph (1)(b)(ii) omit “or 244C”;
+- (c) in regulation 3AG (provision of information about liability for overseas transfer charge), in paragraph (2)(d) omit “or 244C”;
+- (d) in regulation 3AH (accounting for overseas transfer charge where change of circumstances), in paragraph (1)(a)(ii) omit “or 244C(3)”.
+
+(5) In the [Registered Pension Schemes (Provision of Information) Regulations 2006](https://www.legislation.gov.uk/uksi/2006/567) ([S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567))—
+
+- (a) in regulation 11BB (information provided by members to scheme administrators), in paragraph (1)(b)(ii) omit “or 244C”;
+- (b) in regulation 12A (information provided by scheme administrators to members), in paragraph (2)(d) omit “or 244C”.
+
+(6) Subject to subsections (7) and (8), the amendments made by this section have effect in relation to transfers made on or after 30 October 2024.
+
+(7) The amendments do not have effect in relation to a transfer that is made—
+
+- (a) in execution of a request made before 30 October 2024, and
+- (b) before 30 April 2025.
+
+(8) Where—
+
+- (a) the repeal made by subsection (1) does not have effect in relation to a transfer, but
+- (b) the tax consequences of that transfer depend on the tax consequences of a later transfer in relation to which the repeal does have effect,
+
+the tax consequences of the earlier transfer are to be determined as if the repeal did not have effect in relation to the later transfer.

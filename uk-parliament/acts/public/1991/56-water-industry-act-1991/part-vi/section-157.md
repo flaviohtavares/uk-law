@@ -1,0 +1,50 @@
+---
+title: Water Industry Act 1991, section 157
+act: Water Industry Act 1991
+section: '157'
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1991/56/section/157
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Water Industry Act 1991, section 157
+
+> **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 157. Byelaws with respect to undertakers’ waterways and land.
+
+*Extent: E+W*
+
+(1) Every relevant undertaker shall have power to make such byelaws as are mentioned in subsection (2) below with respect to any waterway owned or managed by that body and with respect to any land held or managed with the waterway.
+
+(2) The byelaws referred to in subsection (1) above in relation to any waterway or to any land held or managed with any such waterway are byelaws for any of the following purposes, that is to say—
+
+- (a) the preservation of order on or in any such waterway or land;
+- (b) the prevention of damage to anything on or in any such waterway or land or to any such land;
+- (c) securing that persons resorting to any such waterway or land so behave as to avoid undue interference with the enjoyment of the waterway or land by others.
+
+(3) Without prejudice to the generality of any of the paragraphs of subsection (2) above, the byelaws mentioned in that subsection include byelaws—
+
+- (a) regulating sailing, boating, bathing and fishing and other forms of recreation;
+- (b) prohibiting the use of the waterway in question by boats which are not for the time being registered, in such manner as may be required by the byelaws, with the undertaker making the byelaws;
+- (c) requiring the provision of such sanitary appliances as may be necessary for the purpose of preventing pollution;
+- (d) providing for a contravention of the byelaws to constitute a summary offence punishable, on summary conviction, by a fine not exceeding level 5 on the standard scale or such smaller sum as may be specified in the byelaws; and
+- (e) authorising the making of reasonable charges in respect of the registration of boats for the purposes of the byelaws.
+
+(4) Schedule 10 to this Act shall have effect with respect to byelaws under this section.
+
+(5) Byelaws made under this section shall cease to have effect at the end of the period of ten years beginning with the day on which they were made; but the Secretary of State may by order made by statutory instrument make provision in relation to any particular byelaws for those byelaws to continue to have effect for such period after the time when they would otherwise cease to have effect as may be specified in the order.
+
+(6) In this section—
+
+- “**boat**” includes a vessel of any description, and “**boating**” shall be construed accordingly;
+- “**waterway**” has the same meaning as in the National Parks and Access to the [^c13221221]Countryside Act 1949.
+
+## Annotations
+
+[^c13221221]: Marginal citation: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97).

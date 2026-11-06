@@ -1,0 +1,48 @@
+---
+title: Finance Act 2012, section 158
+act: Finance Act 2012
+section: '158'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/14/section/158
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2012, section 158
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 158. Transfers from friendly societies to insurance companies etc
+
+*Extent: E+W+S+N.I.*
+
+(1) If at any time an insurance company acquires by way of transfer of engagements from a friendly society any BLAGAB or eligible PHI business which—
+
+- (a) relates to contracts made before that time, and
+- (b) immediately before that time was exempt BLAGAB or eligible PHI business,
+
+that business continues to be exempt from corporation tax (whether on income or chargeable gains) on profits arising from it.
+
+(2) If at any time a friendly society ceases as a result of section 91 of FSA 1992 (conversion into company) to be registered under that Act, any part of its BLAGAB or eligible PHI business which—
+
+- (a) relates to contracts made before that time, and
+- (b) immediately before that time was exempt BLAGAB or eligible PHI business,
+
+continues to be exempt from corporation tax (whether on income or chargeable gains) on profits arising from it.
+
+(3) If contracts constituting or forming part of the business of a company covered by this section are varied during an accounting period of the company so as to increase the premiums payable under them, the business relating to those contracts is not exempt from corporation tax for that or any subsequent accounting period.
+
+(4) For the purposes of the Corporation Tax Acts any part of a company's business which is exempt from corporation tax as a result of this section is to be treated as a separate business from any other business carried on by the company.
+
+(5) The Treasury may by regulations provide that, where any part of the business of a company is exempt from corporation tax as a result of this section, the Corporation Tax Acts have effect subject to such exceptions or other modifications as they consider appropriate.
+
+(6) The regulations may make provision having retrospective effect.
+
+(7) The regulations may—
+
+- (a) make different provision for different cases or circumstances, and
+- (b) contain incidental, supplementary, consequential, transitional, transitory or saving provision.

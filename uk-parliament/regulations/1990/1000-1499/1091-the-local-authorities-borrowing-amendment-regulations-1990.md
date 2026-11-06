@@ -1,0 +1,88 @@
+---
+title: The Local Authorities (Borrowing) (Amendment) Regulations 1990
+id: uksi/1990/1091
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1990-05-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1091
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1091/pdfs/uksi_19901091_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1091/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Borrowing) (Amendment) Regulations 1990
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument has been made in consequence of defects in [S.I. 1990/767](https://www.legislation.gov.uk/uksi/1990/767) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+1990 No. 1091
+
+LOCAL GOVERNMENT, ENGLAND AND WALES
+
+The Local Authorities (Borrowing) (Amendment) Regulations 1990
+
+Made
+
+16th May 1990
+
+Laid before Parliament
+
+18th May 1990
+
+Coming into force
+
+19th May 1990
+
+The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by section 43(5) of the Local Government and Housing Act 1989[^f00001] and of all other powers enabling them in that behalf, with the consent of the Treasury, hereby make the following Regulations:
+
+**1.** These Regulations may be cited as the Local Authorities (Borrowing) (Amendment) Regulations 1990 and shall come into force on 19th May 1990.
+
+**2.** (1) The Local Authorities (Borrowing) Regulations 1990[^f00002] are hereby amended as follows.
+
+(2) In regulation 7(5), in the definition of “C”, after the word “paragraph” there shall be inserted “2(1) or calculated in accordance with paragraph”.
+
+(3) In the Schedule to the Regulations, in paragraph 5, for the word “date”, at the last place where it occurs, there shall be substituted “rate”.
+
+Chris Patten
+
+Secretary of State for the Environment
+
+11th May 1990
+
+Signed by authority of the Secretary of State
+
+Wyn Roberts
+
+Minister of State
+
+Welsh Office
+
+15th May 1990 Welsh Office
+
+We consent,
+
+David Lightbown
+
+John Taylor
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+16th May 1990
+
+(This note is not part of the Regulations)
+
+These Regulations make two amendments to the Local Authorities (Borrowing) Regulations 1990. They amend regulation 7(5), which imposes a limit on the issue of bills by local authorities by reference to a formula. A reference is inserted in “C”, one of the factors in the formula, to paragraph 2(1) of Schedule 7 to the Local Government Finance Act 1988 which was inadvertently omitted from the earlier Regulations. The second amendment corrects a typographic error.
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42)
+
+[^f00002]: Footnote: [S.I. 1990/767](https://www.legislation.gov.uk/uksi/1990/767)

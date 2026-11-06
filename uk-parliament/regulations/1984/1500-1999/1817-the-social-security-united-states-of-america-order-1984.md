@@ -1,0 +1,553 @@
+---
+title: The Social Security (United States of America) Order 1984
+id: uksi/1984/1817
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1984-11-22'
+text_date: '2017-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1984/1817
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1984/1817/pdfs/uksi_19841817_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1984/1817/pdfs/uksi_19841817_en.pdf
+- http://www.legislation.gov.uk/uksi/1984/1817/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (United States of America) Order 1984
+
+> Text as at 2017-04-06.
+
+1984 No. 1817
+
+SOCIAL SECURITY
+
+The Social Security (United States of America) Order 1984
+
+Made
+
+22nd November 1984
+
+Coming into Operation
+
+Articles 1 and 2
+
+1st January 1985
+
+Article 3
+
+1st January 1988
+
+At the Court at Buckingham Palace, the 22nd day of November 1984
+
+Present,
+
+The Queen's Most Excellent Majesty in Council
+
+Whereas at London on the 13th February 1984 an Agreement on social security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America (which Agreement is set out in Schedule 1 to this Order and is hereinafter referred to as “**the Agreement**”) and an Administrative Agreement for the implementation of the Agreement (which is set out in Schedule 2 to this Order and is hereinafter referred to as “**the Administrative Agreement**”) were signed on behalf of those Governments:
+
+And Whereas by Article 27(1) of the Agreement it is provided that the Agreement, except for Part III, shall enter into force on the first day of the second month following the month in which each Government has received from the other Government written notification that all statutory and constitutional requirements have been complied with for entry into force of the Agreement:
+
+And Whereas it is further provided by Article 27(2) of the Agreement that Part III thereof shall enter into force on the first day of the thirty-sixth month following the month in which Parts I, II, IV and V of the Agreement enter into force:
+
+And Whereas by Article 24(5) of the Agreement it is also provided that notwithstanding the provisions of Article 27 concerning the effective date of Part III of the Agreement, Article 7(1) shall enter into force on the date on which Parts I, II, IV and V of the Agreement enter into force:
+
+And Whereas by Article 11 of the Administrative Agreement it is provided that the Administrative Agreement shall enter into force on the date of entry into force of the Agreement:
+
+And Whereas written notification in accordance with Article 27(1) of the Agreement was received by each Government in November 1984 and accordingly Parts I, II, IV, V and Article 7(1) of the Agreement, and the Administrative Agreement, enter into force on the 1st January 1985 and Part III (except for Article 7(1)) enters into force on 1st January 1988:
+
+And Whereas by section 143 of the Social Security Act 1975[^f00001] it is provided that Her Majesty may by Order in Council make provision for modifying or adapting the said Social Security Act in its application to cases affected by agreements with other Governments providing for reciprocity in matters specified in that section:
+
+Now, therefore, Her Majesty, in pursuance of the said section 143 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered as follows:—[^key-b52cdd7dc8b98369e6cd62e13af092ad][^key-b73155fefe69bcb4f17ec1963c1baf52][^key-6622ddb859e4f2a0a27b2c4d01385269][^key-d351c9f902a334bf394abce077762a0c][^key-b9e53b5e5796ebba3fdce67ca9f8cb40][^key-7e38fca0612940c45c93b834909a4e6f]
+
+## 1. Citation and commencement
+
+This Order may be cited as the Social Security (United States of America) Order 1984 and shall come into operation on 1st January 1985 with the exception of Article 3 which comes into operation on 1st January 1988.
+
+## 2. Modification of the Social Security Act 1975
+
+The Social Security Act 1975 shall be modified to such extent as may be required to give effect to the provisions contained in the Agreement so far as the same relate to England, Wales and Scotland.
+
+## 3. Revocation of Order
+
+The National Insurance (United States of America) Order 1969 is revoked with effect from 1st January 1988.
+
+G. I. de Deney
+
+Clerk of the Privy Council
+
+## SCHEDULE 1
+
+> AGREEMENT ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA
+>
+> The Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America;
+>
+> Being desirous of regulating the relationship between their two countries in the field of social security;
+>
+> Have agreed as follows:
+>
+> **PART I — General Provisions**
+>
+> **ARTICLE 1.** For the purpose of this Agreement:
+>
+> (1)[^key-5632403b9d88acd98bbf51e42cc57efa] “**Territory**” means,
+>
+> as regards the United States, the States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa and the Commonwealth of the Northern Mariana Islands, and and
+>
+> as regards the United Kingdom, England, Scotland, Wales, Northern Ireland, and also the Isle of Man, the Island of Jersey, and the Islands of Guernsey, Alderney, Herm and Jethou; and references to the “United Kingdom” or to “territory” in relation to the United Kingdom shall include the Isle of Man, the Island of Jersey, and the Islands of Guernsey, Alderney, Herm and Jethou where appropriate;
+>
+> (2) “**Laws**” means, the laws specified in Article 2 of this Agreement, or regulations or Orders emanating from those laws, which are applicable in the territory of a Party or in any part thereof;
+>
+> (3) “**Competent Authority[^key-bde25b0b2b30cbedcb474fd7c7cd945b]**” means as regards the United States, the Commissioner of Social Security, and
+>
+> as regards the United Kingdom, the Department of Social Security for Great Britain, the Department of Health and Social Services for Northern Ireland, the Department of Health and Social Security of the Isle of Man, the Employment and Social Security Committee of the States of the Island of Jersey or the Guernsey Social Security Authority as the case may require;
+>
+> (4) “**Agency**” means, as regards the United States, the Social Security Administration, and as regards the United Kingdom, the Departmental and independent authorities duly appointed to decide the matter in question;
+>
+> (5) “**Period of coverage**” means, as regards the United States, a period of payment of contributions or a period of earnings from employment or self-employment, as defined or recognized as a period of coverage under the laws of the United States, or any similar period insofar as it is recognized by such laws as equivalent to a period of coverage, and
+>
+> as regards the United Kingdom, it means an insurance period;
+>
+> (6) “**Benefit**” means, any benefit, pension or allowance provided for in the laws of either Party, including any increase of, or any additional amount payable with a benefit, pension or allowance;
+>
+> (7)[^key-54ee30e8cc4bc824933d741183411290] As regards the United Kingdom:
+>
+> - (a) “insurance period” means,
+>
+>   a contribution period or an equivalent period;
+> - (b) “contribution period” means,
+>
+>   a period in respect of which contributions appropriate to the benefit in question are payable, have been paid or treated as paid;
+> - (c) “equivalent period” means,
+>
+>   a period for which contributions appropriate to the benefit in question have been credited;
+> - (d) “survivor’s benefit” means,
+>
+>   widow’s allowance, widow’s payment, widowed mother’s allowance and widow’s pension;
+> - (e) “child’s survivor benefit” means,
+>
+>   guardian’s allowance and child’s special allowance;
+> - (f) “laws on coverage” means,
+>
+>   the laws and regulations relating to the imposition of liability for the payment of social security contributions;
+> - (g) “qualifying period” for invalidity benefit means,
+>   - (i) a period of incapacity of 364 days under the laws of Great Britain, Northern Ireland or the Isle of Man, or
+>   - (ii) a period of incapacity of 364 days under the laws of Jersey, or
+>   - (iii) a period of incapacity of 156 days, excluding Sundays, under the laws of Guernsey;
+> - (h) “first contribution condition” means,
+>   - (i) under the laws of Great Britain, Northern Ireland or the Isle of Man, that a person has paid at least 52 Class I or Class II contributions at any time before 6 April 1975, or has paid, in one contribution year, Class I or Class II contributions producing an earnings factor of at least 50 times that year’s lower earnings limit in a tax year beginning on or after 6 April 1975, or
+>   - (ii) under the laws of Jersey, that a person has paid contributions prior to the end of the relevant quarter and the annual contribution factor derived from these contributions is not less than 0.25, or
+>   - (iii) under the laws of Guernsey, that a person has paid at least 26 reckonable contributions since 4 January 1965 or the date of his entry into the Guernsey scheme;
+> - (i) “second contribution condition” means,
+>   - (i) under the laws of Great Britain, Northern Ireland or the Isle of Man, that a person has either paid or been credited with Class I or Class II contributions producing an earnings factor of at least 50 times the lower earnings limit in each of the last 2 complete contribution years before the relevant benefit year, or
+>   - (ii) under the laws of Jersey, that a person has paid or been credited with contributions in respect of the relevant quarter and the quarterly contribution factor derived from those contributions is 1.00, or
+>   - (iii) under the laws of Guernsey, that a person has paid or been credited with at least 26 reckonable contributions in the relevant contribution year;
+> - (j) a “qualifying year” means,
+>   - (i) at least 50 weeks of insurance for periods before 6 April 1975, or that the person has received, or been treated as having received, earnings of at least 52 times the lower earnings limit in a tax year after 5 April 1978 under the laws of Great Britain, Northern Ireland and the Isle of Man, or
+>   - (ii) an annual contribution factor of 1.00 under the laws of Jersey, or
+>   - (iii) 50 weeks under the laws of Guernsey;
+> - (k) a “reckonable year” means a tax year between 6 April 1975 and 5 April 1978 during which contributions have been paid on earnings received (or treated as received) of at least 50 times the lower earnings limit for that year;
+> - (l) “prescribed period” means, in relation to Jersey and Guernsey, the period commencing on the same date under the laws of Jersey or Guernsey, as the case may be, as the relevant period for the purposes of old age pension and ending on 31 December next preceding the date on which entitlement to invalidity benefit first arose;
+> - (m) “sickness benefit” means,
+>   - (i) short-term incapacity benefit at the lower, higher or long-term rate payable under the legislation of Great Britain, Northern Ireland or the Isle of Man, or
+>   - (ii) sickness benefit payable under the legislation of Jersey or Guernsey;
+> - (n) “invalidity benefit” means,
+>   - (i) long-term incapacity benefit, additional pension, invalidity allowance and incapacity age addition payable under the legislation of Great Britain, Northern Ireland or the Isle of Man, or
+>   - (ii) invalidity benefit payable under the legislation of Jersey or Guernsey.
+>
+> **ARTICLE 2.** (1) For the purpose of this Agreement, the applicable laws are:
+>
+> - (a) As regards the United States, the laws governing the Federal Old-Age, Survivors and Disability Insurance Program:
+>   - (i) Title II of the Social Security Act and regulations pertaining thereto, except sections 226, 226A and 228 of that title and regulations pertaining to those sections; and
+>   - (ii) Chapter 2 and Chapter 21 of the Internal Revenue Code of 1986[^key-fc1a0c6c37b9777e197f4d944ef92782] and regulations pertaining to those chapters;
+> - (b)[^key-f190fe7a4a711cc4d8c4a31721116965] As regards the United Kingdom,
+>   - (i) the Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992, the Social Security (Consequential Provisions) Act 1992 and the Social Security (Incapacity for Work) Act 1994;
+>   - (ii) the Social Security Administration (Northern Ireland) Act 1992, the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Social Security (Consequential Provisions) (Northern Ireland) Act 1992 and the Social Security (Incapacity for Work) (Northern Ireland) Order 1994;
+>   - (iii) the Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992, the Social Security (Consequential Provisions) Act 1992 and the Social Security (Incapacity for Work) Act 1994 (Acts of Parliament) as those Acts apply to the Isle of Man by virtue of Orders made, or having effect as if made, under the Social Security Act 1982 (an Act of Tynwald);
+>   - (iv) the Social Security (Jersey) Law, 1974;
+>   - (v) the Social Insurance (Guernsey) Law, 1978;
+>
+>   and the laws which were repealed or consolidated by those Acts, Laws or Orders or repealed by legislation consolidated by them.
+>
+> (2) The Agreement shall apply also to any law which supersedes, replaces, amends, supplements or consolidates the laws specified in paragraph 1 of this Article.
+>
+> (3) Unless the Parties agree otherwise, as regards the United Kingdom, this Agreement:
+>
+> - (a) shall apply only to benefits described in the laws specified in paragraph 1(b) of this Article at the date of entry into force of this Agreement and for which specific provision is made in this Agreement; and
+> - (b) shall not apply to any laws which relate to a branch of social security not covered by the laws specified in paragraph 1(b) of this Article unless the two Parties make an agreement to that effect.
+>
+> (4) This Agreement shall not apply to Regulations on Social Security of the institutions of the European Communities or to any convention or other international agreement on social security which either Party has concluded with a third party or to any laws or regulations which amend the laws specified in paragraph 1 of this Article for the purpose of giving effect to such a convention or agreement but shall not prevent either Party from taking into account under its laws the provisions of any other convention or agreement which that Party has concluded with a third Party.
+>
+> **ARTICLE 3.** A person who is or has been subject to the laws of one Party and who resides within the territory of the other Party shall, together with his dependants, receive equal treatment with nationals of the other Party in the application of the laws of the other Party regarding the payment of benefits.
+>
+> **PART II — Provisions on Coverage**
+>
+> **ARTICLE 4.** (1) Except as otherwise provided in this Part, a person employed within the territory of one of the Parties shall, with respect to that employment, be subject to the laws on coverage of only that Party. Where a person is subject only to the laws on coverage of the United Kingdom in accordance with this paragraph, those laws shall apply to him as if he were ordinarily resident in the territory of the United Kingdom.
+>
+> (2) Where a person who is covered under the laws on coverage of one Party and is normally[^key-186c9ba37dbf3aa5622e176faf0d2c22] employed by an employer in the territory of that Party is sent by that employer to work in the territory of the other Party, the person shall be subject only to the laws on coverage of the former Party, as if he were employed in the territory of the former Party, provided that the period of work in the territory of the latter Party is not expected to exceed 5 years, or such longer period as may be agreed upon by the Competent Authorities in a particular case. This paragraph does not apply to employment as an officer or member of a crew on a ship or aircraft.
+>
+> (3)[^key-08cfd921f1adf97052377308b5bdb8d9] A person who is covered under the laws on coverage of either Party with respect to self-employment shall be subject only to the laws on coverage of the Party in whose territory he ordinarily resides.
+>
+> (4) Where a person is employed under the laws on coverage of one Party and self-employed under the laws on coverage of the other Party for the same activity, he shall be subject only to the laws on coverage of the Party in whose territory he ordinarily resides.
+>
+> (5) A person who would otherwise be covered under the laws on coverage of both Parties with respect to employment as an officer or member of a crew on a ship or aircraft shall, in respect of that employment, be subject only to the laws on coverage of the United Kingdom if he ordinarily resides in the territory of the United Kingdom, and only to United States laws on coverage of the United Kingdom if he ordinarily resides in the territory of the United States.
+>
+> (6) A person who ordinarily resides in the territory of the United Kingdom and who is not employed or self-employed shall be subject to the laws on coverage of only the United Kingdom with respect to social security contributions.
+>
+> **ARTICLE 5.** (1) This Agreement shall not affect the provisions of the Vienna Convention on Diplomatic Relations of 18 April 1961, or of the Vienna Convention on Consular Relations of 24 April 1963 .
+>
+> (2) Notwithstanding Article 4, nationals of one of the Parties who are employed by the National Government of that Party in the territory of the other Party and to whom the provisions mentioned in paragraph 1 of this Article do not apply, shall be subject to the laws on coverage of only the first Party, as if they were employed in the territory of that Party. For the purposes of the United States, employment by the National Government shall include employment by an instrumentality of the United States Government.
+>
+> **ARTICLE 6.** The Competent Authorities of the two Parties may grant an exception to the provisions in this Part, in respect of particular persons or categories of persons, provided that the affected persons will be subject to the laws on coverage of one of the Parties.
+>
+> **PART III — Benefit Provisions**
+>
+> **ARTICLE 7.** (1) Except as otherwise provided in this Agreement, any provision of United States laws which restricts entitlement to or payment of cash benefits for persons who are not nationals of the United States solely because such persons reside outside or are absent from the territory of the United States shall not be applicable to persons who reside in the territory of the United Kingdom.
+>
+> (2)[^key-185c8e503d168a363ee7b830a6c3ed50] Subject to the provisions of paragraph 3 of this Article and the provisions of Article 14, a person who would be entitled to receive an old age pension, a retirement pension, a survivor’s benefit or invalidity benefit under the laws of the United Kingdom if he were in the United Kingdom shall be entitled to receive that pension or benefit while he ordinarily resides in the territory of the United States, as if he were in the United Kingdom.
+>
+> (3) A person who is entitled to receive an old age pension, a retirement pension or a survivor's benefit under the laws of the United Kingdom and who would be entitled to receive an increase in the rate of that pension or benefit if he were in the United Kingdom shall, after the date of entry into force of Part III of this Agreement, be entitled to receive any such increase prescribed after that date by those laws if he ordinarily resides in the territory of the United States; but nothing in this paragraph shall confer entitlement to receive any such increases prescribed before that date by those laws.
+>
+> (4) Where under the laws of the United Kingdom, an increase of any of the benefits for which provision is made in this Agreement would be payable for a dependant if the dependant were in the United Kingdom, it shall be payable while the dependant is in the territory of the United States.
+>
+> **CHAPTER A — Provisions Applicable to the United States**
+>
+> **ARTICLE 8.** (1) Where a person has completed at least six quarters of coverage under United States laws, but does not have sufficient periods of coverage to satisfy the requirements for entitlement to benefits under United States laws, the Agency of the United States shall take into account periods of coverage which are creditable under the laws of the United Kingdom and which do not coincide with periods of coverage already credited under United States laws for the purpose of establishing entitlement to benefits under this Article.
+>
+> (2) In determining eligibility for benefits under paragraph 1, the Agency of the United States shall credit:
+>
+> - (a) one quarter of coverage for every thirteen contributions or fraction thereof paid or credited in any contribution year before 6 April 1975 under the laws specified in Article 2.1(b)(i) and (ii); and
+> - (b) one quarter of coverage for every thirteen contributions calculated in accordance with Article 9.5, or fraction thereof, paid or credited in any United Kingdom tax year beginning after 5 April 1975 under the laws specified in Article 2.1(b)(i) and (ii); and
+> - (c) one quarter of coverage for each annual contribution factor of 0.25 or any part thereof which has been derived under the laws specified in Article 2.1(b)(iii); and
+> - (d) one quarter of coverage for every thirteen contributions or fraction thereof paid or credited in any contribution year under the laws specified in Article 2.1(b)(iv) ;
+>
+> provided, however, that periods of coverage credited under United States laws shall not exceed four quarters of coverage in any calendar year.
+>
+> (3) Where entitlement to a benefit under United States laws is established according to the provisions of paragraph 1, the Agency of the United States shall compute a pro rata Primary Insurance Amount in accordance with United States laws based on the duration of a worker's periods of coverage completed under United States laws. Benefits payable under United States laws shall be based on the pro rata Primary Insurance Amount.
+>
+> (4) Entitlement to a benefit from the United States which results from paragraph 1 shall terminate with the acquisition of sufficient periods of coverage under United States laws to establish entitlement to an equal or higher benefit without the need to invoke the provisions of paragraph 1.
+>
+> **CHAPTER B — Provisions Applicable to the United Kingdom**
+>
+> **ARTICLE 9.** (1) For the purpose of calculating entitlement to a retirement pension or a survivor's benefit under the laws specified in Article 2.1(b)(i) and (ii) of this Agreement, for each quarter of coverage credited to a person under the laws of the United States before 6 April 1975 the person shall be treated as having paid thirteen contributions under the laws specified in Article 2.1(b)(i) and (ii).
+>
+> (2) For the purpose of calculating entitlement to a basic retirement pension or a basic survivor's benefit provided under the laws specified in Article 2.1(b)(i) and (ii) of this Agreement, for each quarter of coverage credited under the laws of the United States after 5 April 1975 a person shall be treated as having paid thirteen contributions on earnings equivalent to the lower earnings level under the laws specified in Article 2.1(b)(i) and (ii).
+>
+> (3) For the purpose of calculating the appropriate contribution factor to establish entitlement to old age pension or survivor's benefit under the laws specified in Article 2.1(b)(iii) of this Agreement, a person shall be treated for each quarter of coverage credited under the laws of the United States as having paid contributions which derive an annual contribution factor of 0.25.
+>
+> (4) For the purpose of calculating entitlement to old age pension or survivor's benefit under the laws specified in Article 2.1(b)(iv) of this Agreement, each quarter of coverage credited under the laws of the United States shall be treated as if it had been a contribution period of thirteen weeks completed as an employed or self-employed person under the laws specified in Article 2.1(b)(iv).
+>
+> (5) For the purpose of converting into periods of coverage any earnings-factor achieved in any tax year commencing on or after 6 April 1975 under the laws specified in Article 2.1(b)(i) and (ii) of this Agreement, the Competent Authority of the United Kingdom shall divide the earnings-factor by that tax year's lower earnings limit. The result shall be expressed as a whole number, any remaining fraction being ignored. The figure so calculated shall be treated as representing the number of weeks in the insurance period completed in that tax year under those laws.
+>
+> **ARTICLE 10.** (1) Subject to the provisions of paragraph 2 of this Article, where a person is entitled to an old age pension or a basic retirement pension, as the case may be, under the laws of the United Kingdom, otherwise than by virtue of the provisions of this Agreement, that pension shall be payable and the provisions of Article 11, except for Article 11.3, of this Agreement shall not apply under these laws.
+>
+> (2) For the purpose of paragraph 1 of this Article, a lower-rate Category B retirement pension payable to a married person or civil partner[^key-ebb53e93718c800a423e02bd5fad92a2] by virtue of the contributions of his or her spouse or civil partner shall be treated as if it were not a retirement pension and the words “old age pension or a retirement pension” should be construed as referring only to a contributory pension.
+>
+> **ARTICLE 11.** (1) The provisions of this Article shall apply for the purpose of determining entitlement to old age pension, or basic retirement pension, as the case may be, under the laws of the United Kingdom or under the laws of any one part of the territory of the United Kingdom, under which there is no entitlement in respect of a person in accordance with the provisions of Article 10 of this Agreement.
+>
+> (2) In accordance with Article 9 of this Agreement, the relevant Agency of the United Kingdom shall determine:
+>
+> - (a) the amount of the theoretical pension which would be payable if all the periods of coverage completed by that person under the laws of both Parties had been completed under its own laws;
+> - (b) the proportion of that theoretical pension which bears the same relation to the whole as the total of the periods of coverage completed by him under its laws bears to the total of all the periods of coverage which he has completed under the laws of both Parties.
+>
+> The proportionate amount thus calculated shall be the pension actually payable to the person by the Agency of the United Kingdom.
+>
+> (3)[^key-1aa6de02e98b547b9ec28ef681c99369] Where the periods of coverage completed by a person under the laws of:
+>
+> - (i) either Great Britain, Northern Ireland or the Isle of Man amount to less than one reckonable year, or, as the case may be, qualifying year, or relate only to periods before 6 April 1975 and in aggregate amount to less than 50 weeks, or
+> - (ii) Jersey amount to less than an annual contribution factor of 1.00, or
+> - (iii) Guernsey amount to less than 50 weeks,
+>
+> those periods shall be aggregated as if they had all been completed under the laws of any part of the territory of the United Kingdom under which a pension is payable or would be payable if the periods were aggregated, or, where two such pensions are or would be payable, under the laws of that part which, at the date on which entitlement first arose or arises, is paying or would pay the greater amount. Where the aggregate of the periods of coverage is less than one qualifying year or reckonable year, this Article and Article 9 shall not apply.
+>
+> (4) For the purpose of applying the provisions of paragraph 2 of this Article, the Agency of the United Kingdom shall take account only of periods of coverage, completed under the laws of either Party, which would be taken into account for the determination of pensions under its laws if they were completed under its laws and, in relation to a person, shall, where appropriate, take into account in accordance with those laws periods of coverage completed by his or her spouse or civil partner.
+>
+> (5) Where a period of coverage credited to a person under the laws of the United States after 5 April 1975 falls within a relevant United Kingdom tax year which is not a qualifying year, those periods of coverage may be reallocated to any other tax year commencing on or after 6 April 1975 if this would be to the advantage of that person.
+>
+> (6) The provisions of paragraph 2 of this Article shall not apply to any graduated pension payable under the laws of the United Kingdom, or to any increase of pension payable in respect of deferred retirement, or to any increase of benefit payable in respect of a dependent child, but any such pension or increase, or increases, shall be added to the amount of pension which has been calculated and has become payable in accordance with paragraph 2.
+>
+> (7) Where a period of coverage completed under the laws of the United Kingdom overlaps with a period of coverage credited under the laws of the United States, the United Kingdom shall take account only of the period of coverage completed under its laws.
+>
+> **ARTICLE 12.** The provisions of Articles 10 and 11 of this Agreement shall apply also in a claim for basic survivor's benefit under the laws of the United Kingdom, with such modifications as the differing nature of the benefits may require.
+>
+> **ARTICLE 13.** Where a person in the United Kingdom is entitled to a child's survivor benefit in respect of a child in the United Kingdom, that benefit shall not cease to be payable solely because that person and, or, the child is in the territory of the United States.
+>
+> **ARTICLE 14.**[^key-b0d4343f6d6093db47190696268764b6] (1) The provisions of paragraphs 2 to 5 of this Article shall apply to claims for invalidity benefit under the laws of Great Britain, Northern Ireland or the Isle of Man.
+>
+> (2) A person who has satisfied the first contribution condition for sickness benefit as defined in Article 1 using contributions under the laws of Great Britain, Northern Ireland or the Isle of Man only, who is in the territory of the United States and is not subject to the laws on coverage of Great Britain, Northern Ireland or the Isle of Man under Articles 4, 5 or 6 of this Agreement, shall be entitled to receive invalidity benefit under the laws of Great Britain, Northern Ireland or the Isle of Man provided that:
+>
+> - (a) the second contribution condition for sickness benefit under the laws of the United Kingdom is satisfied using relevant periods of coverage under the laws of the United Kingdom and, if necessary, the United States, and
+> - (b) the person is incapacitated for work and has been so incapacitated throughout the qualifying period for invalidity benefit, in which case the person shall be treated as if sickness benefit followed by invalidity benefit, under the laws of Great Britain, Northern Ireland or the Isle of Man, had been paid throughout that period of incapacity.
+>
+> For the purposes of sub-paragraph (a), a person will be considered to meet the second contribution condition if he is credited with at least 2 quarters of coverage under the laws of the United States in each of the last 2 complete contribution years before the relevant benefit year. The relevant Competent Authority of Great Britain, Northern Ireland or the Isle of Man will reallocate any quarter of coverage credited to a person under the laws of the United States within a calendar year to any other calendar quarter within that year if it is needed to satisfy the second contribution condition in a relevant contribution year, as long as it has not been used to satisfy the second contribution condition in any other relevant contribution year.
+>
+> The rate of the invalidity benefit payable shall be that which would be paid under the laws of Great Britain, Northern Ireland or the Isle of Man without the application of this Agreement unless a disability benefit under the laws of the United States is in payment, whether or not under the provisions of this Agreement, in which case the rate of invalidity benefit payable shall be determined in accordance with the provisions of paragraph 3 of this Article.
+>
+> (3) Taking account of sub-paragraphs (a) and (b) of this paragraph, the relevant Agency of Great Britain, Northern Ireland or the Isle of Man shall ascertain the proportion of invalidity benefit provided under its laws in the same ratio as the total of the periods of coverage completed under its laws bears to the total periods of coverage completed under the laws of both Parties.
+>
+> - (a) The provisions of paragraphs 1, 2 and 5 of Article 9 and the provisions of paragraphs 4, 6 and 7 of Article 11 of this Agreement shall apply to periods of coverage credited under the laws of the United States as if the references in those Articles to an old age pension, a retirement pension or a pension were references to invalidity benefit.
+> - (b) For the purpose of calculating the proportion of benefit referred to above, no account shall be taken of any period of coverage completed after the day on which a person’s incapacity commenced.
+>
+> The amount of benefit calculated in accordance with the above provisions of this paragraph shall be the amount of invalidity benefit actually payable to that person.
+>
+> (4) Where a person in the territory of Great Britain, Northern Ireland or the Isle of Man, or a person outside the territory of Great Britain, Northern Ireland or the Isle of Man who is entitled to an invalidity benefit under the relevant legislation other than under paragraph 2 of this Article, is in receipt of invalidity benefit under the laws of Great Britain, Northern Ireland or the Isle of Man and also is in receipt of a disability benefit under the laws of the United States, whether or not under the provisions of this Agreement, the rate of invalidity benefit under the laws of Great Britain, Northern Ireland or the Isle of Man shall be determined in accordance with the provisions of paragraphs 3 and 5 of this Article.
+>
+> (5) Where a person to whom the provisions of paragraph 4 apply:
+>
+> - (a) would have been entitled to receive invalidity benefit under the laws of Great Britain, Northern Ireland or the Isle of Man, without recourse to this Agreement; and
+> - (b) is entitled to receive both invalidity benefit under paragraph 3 and a disability benefit under the laws of the United States, whether or not under the provisions of this Agreement, and the sum of these two benefits is less than the amount of invalidity benefit to which the person would otherwise have been entitled under (a);
+>
+> the competent authority of Great Britain, Northern Ireland or the Isle of Man shall calculate the difference between the amounts of benefit calculated in accordance with sub-paragraphs (a) and (b), on the date that entitlement to invalidity benefit payable under paragraph 3 first arose, and shall pay that amount in addition to the invalidity benefit payable. The additional sum will remain in payment under the same conditions as the invalidity benefit and subject to the equivalent increases in amount, as appropriate.
+>
+> (6) Notwithstanding any other provision of this Agreement, invalidity benefit shall be payable under the laws of Jersey only in accordance with the provisions of paragraphs 7 to 9 of this Article.
+>
+> (7) For the purpose of qualifying for invalidity benefit, a person who is in the territory of the United States and
+>
+> - (a) has satisfied the first contribution condition for invalidity benefit using contributions under the laws of Jersey only; and
+> - (b) has satisfied the second contribution condition for invalidity benefit using relevant periods of coverage under the laws of either Party; and
+> - (c) is incapable of work, and has been so incapable throughout the qualifying period for invalidity benefit;
+>
+> shall be treated as if he had been entitled to sickness benefit throughout that period.
+>
+> For the purposes of sub-paragraph (b), a person will be considered to meet the second contribution condition if he is credited with at least 2 quarters of coverage under the laws of the United States in each of the last 2 complete calendar years before the calendar year in which the claim for benefit was made.
+>
+> (8) Where a person has satisfied the conditions set out in paragraph 7, the Competent Authority of Jersey shall determine the actual rate of invalidity benefit payable as the amount that bears the same relation to the standard rate of benefit as the life average contribution factor during the prescribed period bears to 1.00, except that no benefit shall be payable where the factor is less than 0.1.
+>
+> (9) Where a person who is in Jersey is entitled to invalidity benefit under the laws of Jersey, that benefit shall be payable.
+>
+> (10) Notwithstanding any other provision of this Agreement, invalidity benefit shall be payable under the laws of Guernsey only in accordance with the provisions of paragraphs 11 to 13 of this Article.
+>
+> (11) For the purpose of qualifying for invalidity benefit, a person who is in the territory of the United States or Guernsey and
+>
+> - (a) has satisfied the first contribution condition for sickness benefit using contributions under the laws of Guernsey only; and
+> - (b) has satisfied the second contribution condition for sickness benefit using relevant periods of coverage under the laws of either Party; and
+> - (c) is incapable of work, and has been so incapable throughout the qualifying period for invalidity benefit;
+>
+> shall be treated as if he had been entitled to sickness benefit throughout that period.
+>
+> For the purposes of sub-paragraph (b), each quarter of coverage credited under the laws of the United States in the relevant contribution year shall be treated as if it had been a contribution period of thirteen weeks completed as an employed or self-employed person in the relevant contribution year.
+>
+> (12) Where a person has satisfied the conditions set out in paragraph 11, the Competent Authority of Guernsey shall:
+>
+> - (a) deem the contribution conditions for the payment of invalidity benefit satisfied provided that the periods of coverage under the laws of Guernsey total one qualifying year; and
+> - (b) calculate the amount of invalidity benefit to be paid, subject to paragraph 13, as being the proportion, not exceeding 100%, of the standard rate which the total number of contributions paid or credited in Guernsey during the prescribed period bears to the product of the number of years in that period and fifty: save that if the amount so calculated is less than one-twentieth of the standard rate, no benefit shall be payable.
+>
+> (13) Where a person is in Guernsey and
+>
+> - (a) is entitled to invalidity benefit under the laws of Guernsey solely through the application of paragraphs 11 and 12, or has been entitled to such a benefit in relation to the claim in question solely through the application of those paragraphs; and
+> - (b) is in receipt of a disability benefit under the laws of the United States, whether or not by virtue of this Agreement;
+>
+> the amount of the invalidity benefit payable under the laws of Guernsey shall be reduced by the amount by which the aggregate of both benefits exceeds the standard rate of invalidity benefit under the laws of Guernsey.
+>
+> (14) No person in relation to whom invalidity benefit is payable under the provisions of this Agreement shall receive a contribution credit from Jersey or Guernsey unless present in Jersey or Guernsey, as the case may be.
+>
+> (15) Where a person’s periods of coverage under the laws of a part of the United Kingdom total less than one qualifying year, or one reckonable year, these periods shall be aggregated as if they had all been completed under the laws of any part of the territory of the United Kingdom under which a sickness benefit or an invalidity benefit is payable or would be payable if the periods were aggregated, or, where two such benefits are or would be payable, under the laws of that part which, at the date on which entitlement first arose or arises, is paying or would pay the greater amount. Where the aggregate of the periods of coverage is less than one qualifying year, or one reckonable year, this Article shall not apply.
+>
+> (16) Notwithstanding any other provision of this Article, a person in the territory of the United States who is subject to the laws on coverage of the United Kingdom by virtue of any of the Articles 4 to 6 of this Agreement and who satisfies the contribution conditions applicable to sickness benefit under those laws shall, for the purpose of determining his entitlement to invalidity benefit under those laws:
+>
+> - (a) be treated as if he were in the territory of the United Kingdom; and
+> - (b) each day of incapacity for work while in the territory of the United States may, where appropriate, be treated as if it were a day for which he had received sickness benefit under the laws of the United Kingdom.
+>
+> (17) Any restriction which would otherwise be applicable under the laws of the United Kingdom in the rate of benefit payable to persons who are not ordinarily resident in the territory of the United Kingdom shall not apply to persons in the territory of the United States who are in receipt of invalidity benefit under the laws of the United Kingdom by virtue of the provisions of this Agreement.
+>
+> **PART IV — Miscellaneous Provisions**
+>
+> **ARTICLE 15.** The Competent Authorities of the two Parties shall:
+>
+> - (a) make such administrative arrangements as may be necessary for the application of this Agreement;
+> - (b) designate liaison agencies for the implementation of this Agreement;
+> - (c) communicate to each other information concerning the measures taken by them for the application of this Agreement; and
+> - (d) communicate to each other, as soon as possible, all information concerning changes in their respective laws insofar as these changes affect the application of this Agreement.
+>
+> **ARTICLE 16.** The Competent Authorities and Agencies of the Parties, within the scope of their respective authorities, shall assist each other in implementing this Agreement. This assistance shall be free of charge subject to any exceptions to be agreed upon in an administrative agreement.
+>
+> **ARTICLE 17.** (1) Where the laws of one Party provide that any certificate or other document which is submitted under the laws of that Party shall be exempt, wholly or partly, from taxes, fees or charges, including consular and administrative fees, the exemption shall also apply to any certificate or document which is submitted under the laws of the other Party or under the provisions of this Agreement.
+>
+> (2) Copies of documents which are certified as true and exact copies by the Agency of one Party shall be accepted as true and exact copies by the Agency of the other Party, without further certification. The Agency of each Party shall be the final judge of the probative value of the evidence submitted to it from whatever source.
+>
+> **ARTICLE 18.** (1) A written application for benefits filed with an Agency of one Party shall protect the rights of the claimants under the laws of the other Party if the applicant (a) requests that it be considered an application under the laws of the other Party, or (b) in the absence of a request that it not be so considered, provides information at the time of application indicating that the person on whose record benefits are claimed has completed periods of coverage under the laws of the other Party.
+>
+> (2) An applicant may request that an application filed with an Agency of one Party be effective on a different date under the laws of the other Party within the limitations of and in conformity with the laws of the other Party.
+>
+> (3) For the purposes of United States laws, the provisions of Part III of this Agreement shall apply only to an application for benefits which is filed on or after the date on which Part III enters into force.
+>
+> **ARTICLE 19.** (1) A written appeal to, or against, a determination made by the Agency of one Party may be validly filed with an Agency of the other Party. The appeal shall be dealt with according to the appeal procedure of the laws of the Party which has jurisdiction.
+>
+> (2) Any claim, notice or written appeal which, under the laws of one Party, must have been filed within a prescribed period with the Agency of that Party, but which is instead filed within the same period with the Agency of the other Party, shall be considered to have been filed on time.
+>
+> **ARTICLE 20.** In any case to which the provisions of Article 18 or Article 19 apply, the Agency to which the claim, notice or written appeal has been submitted shall transmit it without delay to the Agency of the other Party.
+>
+> **ARTICLE 21.** (1) Disagreements between the two Parties regarding the interpretation or application of this Agreement shall, as far as possible, be resolved through agreement of the Competent Authorities.
+>
+> (2)[^key-a0008b46f80677fddef10e067e4a798d] If a disagreement cannot be resolved through negotiation, the Competent Authorities will endeavour to settle the issue through arbitration, mediation, or other mutually agreed procedure.
+>
+> **ARTICLE 22.** This Agreement may be amended in the future by supplementary agreements which, from their entry into force, shall be considered an integral part of this Agreement.
+>
+> **PART V — Transitional and Final Provisions**
+>
+> **ARTICLE 23.** Upon the entry into force of Part III of this Agreement, the Notes exchanged between the Secretary of State for Foreign and Commonwealth Affairs of the United Kingdom and the Ambassador of the United States of America on 23 and 25 September 1969 shall cease to have effect and shall be replaced by this Agreement;
+>
+> provided, however, that any right to benefit outside the territory of the United Kingdom acquired by a person in accordance with the provisions of the Notes exchanged shall be maintained; and provided that no person shall suffer any loss of rights outside the territory of the United Kingdom which he had under the Notes exchanged or any such rights he would have had if those Notes exchanged had not been replaced by this Agreement.
+>
+> **ARTICLE 24.** (1) In the application of Part III of this Agreement, consideration shall be given to periods of coverage and other events which occurred prior to the entry into force of Part III, insofar as they are relevant to rights under the laws specified in Article 2.1. However, neither Party shall taken into account periods of coverage occurring prior to the earliest date for which periods of coverage may be taken into account under its laws.
+>
+> (2) No provision of this Agreement shall confer any right:
+>
+> - (a) to receive a benefit for any period before the date of entry into force of Part III of the Agreement, or
+> - (b) to receive a lump-sum death benefit under the laws of the United States if the person died before the date of entry into force of Part III of the Agreement.
+>
+> (3) Determinations made before the entry into force of Part III of this Agreement concerning entitlement to benefits shall not affect rights arising under Part III.
+>
+> (4) The period of work referred to in Article 4.2 shall be measured beginning on the date on which Part II of this Agreement enters into force.
+>
+> (5) Notwithstanding the provisions of Article 27 concerning the effective date of Part III of this Agreement, Article 7.1 shall enter into force on the date on which Parts I, II, IV and V of this Agreement enter into force.
+>
+> **ARTICLE 25.** The application of this Agreement shall not result in any reduction in the amount of a benefit to which entitlement was established prior to its entry into force.
+>
+> **ARTICLE 26.** (1) This Agreement shall remain in force and effect until the expiration of one calendar year following the year in which written notice of its denunciation is given by one Party to the other Party.
+>
+> (2) If this Agreement is terminated by denunciation, rights regarding entitlement to or payment of benefits acquired under it shall be retained; the Parties shall make arrangements dealing with rights in the process of being acquired.
+>
+> **ARTICLE 27.** (1) This Agreement, except for Part III, shall enter into force on the first day of the second month following the month in which each Government has received from the other Government written notification that all statutory and constitutional requirements have been complied with for the entry into force of this Agreement.
+>
+> **2.** Part III of this Agreement shall enter into force on the first day of the thirty-sixth month following the month in which Parts I, II, IV and V of this Agreement enter into force.
+>
+> In witness whereof, the undersigned, being duly authorised thereto by their respective Governments, have signed this Agreement.
+>
+> Done in duplicate at London this thirteenth day of February 1984.
+>
+> For the Government of the United Kingdom of Great Britain and Northern Ireland:
+>
+> Baroness Young
+>
+> For the Government of the United States of America:
+>
+> Charles H. Price
+
+## SCHEDULE 2
+
+> ADMINISTRATIVE AGREEMENT FOR THE IMPLEMENTATION OF THE AGREEMENT ON SOCIAL SECURITY BETWEEN THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE UNITED STATES OF AMERICA
+>
+> The Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America,
+>
+> In accordance with the provision of Article 15 of the Agreement on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America of 13th February 1984, hereinafter referred to as the “Agreement”, have agreed as follows:—
+>
+> **CHAPTER A — General Provisions**
+>
+> **ARTICLE 1.** Terms used in this Administrative Agreement shall have the same meaning as in the Agreement.
+>
+> **ARTICLE 2.** (1)[^key-a32558d8d702a1fe320fc8fcc9f55354] The liaison agencies referred to in Article 15 of the Agreement shall be:
+>
+> - (a) for the United States,
+>
+>   the Social Security Administration,
+> - (b) for the United Kingdom,
+>   - (i) in Great Britain,
+>     - For all contingencies except Articles 4 to 6 of the Agreement and the provision of United Kingdom insurance records for Disability Benefit,
+>     - Department of Social Security Pensions and Overseas Benefits Directorate, Tyneview Park, Whitley Road, Benton Newcastle upon Tyne, England NE98 1BA;
+>     - For Articles 4 to 6 of the Agreement and to provide United Kingdom insurance records for Disability Benefit,
+>     - Contributions Agency International Services, Longbenton, Newcastle upon Tyne, England NE98 1YX
+>   - (ii) in Northern Ireland, Social Security Agency Overseas Branch, Commonwealth House, Castle Street, Belfast, Northern Ireland BT1 1DX
+>   - (iii) in the Isle of Man, Department of Health and Social Security, Markwell House, Market Street, Douglas, Isle of Man IM1 2RZ
+>   - (iv) in Jersey, Employment and Social Security Department, Philip Le Feuvre House, La Motte Street, St Helier, Jersey, Channel Islands JE4 8PE
+>   - (v) in Guernsey, Guernsey Social Security Authority, Edward T Wheadon House, Le Truchot, St Peter Port, Guernsey, Channel Islands GY1 3WH.
+>
+> (2) The liaison agencies designated in paragraph 1 shall agree upon joint procedures and forms necessary for the implementation of the Agreement and this Administrative Agreement.
+>
+> **CHAPTER B — Provisions on Coverage**
+>
+> **ARTICLE 3.** (1) Where the laws of a Party are applicable in accordance with Articles 4, 5 or 6 of the Agreement, the Agency of that Party, upon request of the employer, employee or self-employed person, shall issue a certificate stating that the concerned employee or self-employed person is covered by those laws. The certificate shall be proof that the employee or self-employed person is exempt from the laws on compulsory coverage of the other Party. The liaison agencies of the Parties shall co-operate and assist one another as appropriate in ensuring that persons are covered under the laws of one or the other Party.
+>
+> (2) The certificate referred to in paragraph 1 shall be issued by the appropriate liaison agency of either Party.
+>
+> **CHAPTER C — Provisions on Benefits**
+>
+> **ARTICLE 4.** (1) The liaison agency of the Party with which an application for benefits is first filed in accordance with Article 18 of the Agreement shall inform the liaison agency of the other Party of this fact without delay, using forms established for this purpose. It shall also transmit documents and such other available information as may be necessary for the Agency of the other Party to establish the right of the applicant to benefits according to the provisions of Part III of the Agreement. In the case of an application for disability benefits it shall, in particular, transmit all relevant medical evidence in its possession concerning the disability of the applicant.
+>
+> (2) The liaison agency of a Party which receives an application filed with an Agency of the other Party shall without delay provide the liaison agency of the other Party with such evidence and other available information as may be required to complete action on the claim.
+>
+> (3) The Agency of the Party with which an application for benefits has been filed shall verify the accuracy of the information pertaining to the applicant and his family members. The types of information to be verified shall be agreed upon by the liaison agencies.
+>
+> **ARTICLE 5.** In the application of Article 8 of the Agreement, the liaison agency of the United Kingdom shall notify the United States liaison agency of the weeks or years in which a person is credited with periods of coverage under the laws of the United Kingdom, along with such other information as may be necessary to determine the amount of the person's benefit.
+>
+> **ARTICLE 6.** In the application of Article 9 of the Agreement, the United States liaison agency shall notify the appropriate liaison agency of the United Kingdom of the periods of coverage completed under United States laws, along with such other information as may be necessary to determine the amount of the person's benefit.
+>
+> **CHAPTER D — Miscellaneous Provisions**
+>
+> **ARTICLE 7.** In accordance with the measures to be agreed upon pursuant to Article 2 of this Administrative Agreement, the Agency of one Party shall, upon request of the Agency of the other Party, furnish available information relating to the claim of any specified individual for the purpose of administering the Agreement.
+>
+> **ARTICLE 8.** The liaison agencies of the two Parties shall assist each other as far as possible in the compilation and exchange of statistics on the administration of the Agreement.
+>
+> **ARTICLE 9.** (1)[^key-8aad3d523d78fdfdad3922ac4c31c153] However, the Agencies of the two Parties may agree on a different allocation of expenses for medical examinations arranged under this paragraph.
+>
+> (2) Upon request, the agency of either Party shall furnish without expense to the Agency of the other Party any medical information and documentation in its possession relevant to the disability of the claimant or beneficiary.
+>
+> (3) Amounts owed under Article 16 of the Agreement and paragraph 1 of this Article shall be reimbursed upon presentation of a statement of expenses.
+>
+> **ARTICLE 10.** Unless authorized by the national statutes of the United States or the national legislation of the United Kingdom, as the case may be, information about an individual which is transmitted in accordance with the Agreement to one Party by the other Party shall be used exclusively for purposes of implementing the Agreement. Such information received by a Party shall be governed, as the case may be, by the national statutes of the United States, or the national legislation of the United Kingdom, for the protection of privacy and confidentiality of personal data.
+>
+> **ARTICLE 11.** This Administrative Agreement shall enter into force on the date of entry into force of the Agreement and shall have the same period of validity.
+>
+> Done in duplicate at London this thirteenth day of February 1984.
+>
+> For the Government of the United Kingdom of Great Britain and Northern Ireland:
+>
+> Baroness Young
+>
+> For the Government of the United States of America:
+>
+> Charles H. Price
+
+EXPLANATORY NOTE
+
+This Order makes provision for the modification of the Social Security Act 1975 so as to give effect to the Agreement on social security (which is set out in Schedule 1 to the Order) made between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America. The Agreement prevents dual liability for social security contributions and relates to reciprocity for purposes of invalidity benefit, old age pension, widow's benefit and orphan's benefit.
+
+There is also set out in Schedule 2 to the Order the provisions of an Administrative Agreement made for the application of the Agreement by the Competent Authorities of the two Parties.
+
+## Annotations
+
+[^f00001]: Footnote: subsection (1A) of section 143 was inserted by section 6(1) of the Social Security Act 1981 (c. 33).
+
+[^key-b52cdd7dc8b98369e6cd62e13af092ad]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
+
+[^key-b73155fefe69bcb4f17ec1963c1baf52]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (13.4.1995) by [The Social Security (Reciprocal Agreements) Order 1995 (S.I. 1995/767)](https://www.legislation.gov.uk/uksi/1995/767), [art. 2](https://www.legislation.gov.uk/uksi/1995/767/article/2), [Schs. 1-3](https://www.legislation.gov.uk/uksi/1995/767/schedule/1)
+
+[^key-6622ddb859e4f2a0a27b2c4d01385269]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+
+[^key-d351c9f902a334bf394abce077762a0c]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (22.2.2012) by [The Social Security (Reciprocal Agreements) Order 2012 (S.I. 2012/360)](https://www.legislation.gov.uk/uksi/2012/360), [arts. 1](https://www.legislation.gov.uk/uksi/2012/360/article/1), [2](https://www.legislation.gov.uk/uksi/2012/360/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/360/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/360/schedule/2)
+
+[^key-b9e53b5e5796ebba3fdce67ca9f8cb40]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+
+[^key-7e38fca0612940c45c93b834909a4e6f]: Modification: [Order](https://www.legislation.gov.uk/uksi/1984/1817) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+
+[^key-5632403b9d88acd98bbf51e42cc57efa]: Textual amendment: Sch. 1 art. 1(1) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/1/a)
+
+[^key-bde25b0b2b30cbedcb474fd7c7cd945b]: Textual amendment: Sch. 1 art. 1(3) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/1/b)
+
+[^key-54ee30e8cc4bc824933d741183411290]: Textual amendment: Sch. 1 art. 1(7) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(1)(c)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/1/c)
+
+[^key-fc1a0c6c37b9777e197f4d944ef92782]: Textual amendment: Word in Sch. 1 art. 2(1)(a)(ii) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(2)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/2)
+
+[^key-f190fe7a4a711cc4d8c4a31721116965]: Textual amendment: Sch. 1 art. 2(1)(b) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(3)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/3)
+
+[^key-186c9ba37dbf3aa5622e176faf0d2c22]: Textual amendment: Word in Sch. 1 art. 4(2) added (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(4)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/4)
+
+[^key-08cfd921f1adf97052377308b5bdb8d9]: Textual amendment: Sch. 1 art. 4(3) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(5)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/5)
+
+[^key-185c8e503d168a363ee7b830a6c3ed50]: Textual amendment: Sch. 1 art. 7(2) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(6)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/6)
+
+[^key-ebb53e93718c800a423e02bd5fad92a2]: Textual amendment: Words in Schs. 1 substituted (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+
+[^key-1aa6de02e98b547b9ec28ef681c99369]: Textual amendment: Sch. 1 art. 11(3) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(7)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/7)
+
+[^key-b0d4343f6d6093db47190696268764b6]: Textual amendment: Sch. 1 art. 14 substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(8)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/8)
+
+[^key-a0008b46f80677fddef10e067e4a798d]: Textual amendment: Sch. 1 art. 21(2) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(9)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/9)
+
+[^key-a32558d8d702a1fe320fc8fcc9f55354]: Textual amendment: [Sch. 2 art. 2(1)](https://www.legislation.gov.uk/uksi/1984/1817/schedule/2/article/2/1) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 2 art. 1(1)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/2/article/1/1)
+
+[^key-8aad3d523d78fdfdad3922ac4c31c153]: Textual amendment: Words in [Sch. 2 art. 9(1)](https://www.legislation.gov.uk/uksi/1984/1817/schedule/2/article/9/1) added (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 2 art. 1(2)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/2/article/1/2)

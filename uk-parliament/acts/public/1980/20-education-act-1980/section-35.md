@@ -1,0 +1,25 @@
+---
+title: Education Act 1980, section 35
+act: Education Act 1980
+section: '35'
+status: revised
+text_date: '2007-04-01'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1980/20/section/35
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education Act 1980, section 35
+
+> Text as at 2007-04-01.
+>
+> Extent: England, Wales, Northern Ireland.
+
+## 35. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c990695]
+
+*Extent: E+W+N.I.*
+
+## Annotations
+
+[^c990695]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/1980/20/section/35) repealed (S.) by [Education (Scotland) Act 1980 (c. 44)](https://www.legislation.gov.uk/ukpga/1980/44), [Sch. 5](https://www.legislation.gov.uk/ukpga/1980/44/schedule/5) and s. 35 is wholly repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)(3)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2/3), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))

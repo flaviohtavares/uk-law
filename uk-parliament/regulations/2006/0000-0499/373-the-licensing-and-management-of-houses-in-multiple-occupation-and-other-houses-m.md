@@ -1,0 +1,638 @@
+---
+title: The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006
+id: uksi/2006/373
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-02-15'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2006/373
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/373/pdfs/uksiem_20060373_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/373/pdfs/uksi_20060373_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/373/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 373
+
+HOUSING, ENGLAND
+
+The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006
+
+Made
+
+15th February 2006
+
+Laid before Parliament
+
+22nd February 2006
+
+Coming into force
+
+6th April 2006
+
+The Secretary of State, in exercise of the powers conferred by sections 59(2), (3) and (4), 60(6), 63(5) and (6), 65(3) and (4), 83(2) and (4), 84(6), 87(5) and (6), 232(3) and (7), 250(2), 258(2)(b), (5) and (6) 259(2)(c) of, and paragraphs 3 and 6(1)(c) of Schedule 14 to the Housing Act 2004 [^c15424671], makes the following Regulations:[^key-7f42c309781a638ef48e8058ba188d0d]
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006 and shall come into force on 6th April 2006.
+
+(2) These Regulations apply in relation to any HMO [^c15424681] in England, [^key-a79599cd94913bb068a006c571bc126c]... and to any house [^c15424691] in England to which Part 3 of the Act applies [^c15424701].
+
+## 2. Interpretation
+
+In these Regulations “**the Act**” means the Housing Act 2004; and “[^key-8c683189a3d6ed0520e9dc9e0030ac65]
+
+section 257 HMO” means an HMO which is a converted block of flats to which section 257 of the Act applies.
+
+## 3. Persons to be regarded as forming a single household for the purposes of section 254 of the Act: employees
+
+(1) Where—
+
+- (a) a person (“person A”) occupies living accommodation in a building or part of a building; and
+- (b) another person (“person B”) and any member of person B's family living with him occupy living accommodation in the same building or part,
+
+those persons are only to be regarded as forming a single household for the purposes of section 254 of the Act if their circumstances are those described in paragraph (2).
+
+(2) The circumstances are that—
+
+- (a) Person A carries out work or performs a service of an exclusively domestic nature for person B or such a member of person B's family;
+- (b) Person A's living accommodation is supplied to him by person B or by such a member of person B's family as part of the consideration for carrying out the work or performing the service; and
+- (c) person A does not pay any rent or other consideration in respect of his living accommodation (other than carrying out the work or performance of the service).
+
+(3) Work or a service usually carried out or performed by any of the following is to be regarded as work or service of a domestic nature for the purpose of paragraph (2)(a)—
+
+- (a) au pair;
+- (b) nanny;
+- (c) nurse;
+- (d) carer;
+- (e) governess;
+- (f) servant, including maid, butler, cook or cleaner;
+- (g) chauffeur;
+- (h) gardener;
+- (i) secretary; or
+- (j) personal assistant.
+
+(4) Where person A and person B are to be regarded as forming a single household under paragraph (1) any member of person A's family occupying the living accommodation with him is to be regarded as forming a single household with person A, person B and any member of person B's family living with him for the purpose of section 254 of the Act.
+
+## 4. Other persons to be regarded as forming a single household for the purposes of section 254 of the Act
+
+(1) Where a person receiving care and his carer occupy living accommodation in the same building or part of a building, they are to be regarded as forming a single household for the purposes of section 254 of the Act if—
+
+- (a) the carer is an adult placement carer approved under the Adult Placement Schemes (England) Regulations 2004 [^c15424711]; and
+- (b) the carer provides care in that living accommodation for not more than three service users under the terms of a scheme permitted by those Regulations.
+
+(2) Where a person and his foster parent occupy living accommodation in the same building or part of a building, they are to be regarded as forming a single household for the purposes of section 254 of the Act if that person is placed with the foster parent under the provisions of the Fostering Services Regulations 2002 [^c15424721].
+
+(3) The terms “adult placement carer”[^c15424731] and “service users”[^c15424741] have the meanings given to those expressions in the regulations referred to in paragraph (1)(a).
+
+## 5. Persons treated as occupying premises as their only or main residence for the purposes of section 254 of the Act
+
+(1) A person is to be treated as occupying a building or part of a building as his only or main residence for the purposes of section 254 of the Act if he is—
+
+- (a) a migrant worker or a seasonal worker—
+  - (i) whose occupation of the building or part is made partly in consideration of his employment within the United Kingdom, whether or not other charges are payable in respect of that occupation; and
+  - (ii) where the building or part is provided by, or on behalf of, his employer or an agent or employee of his employer; or
+- (b) an asylum seeker or a dependent of an asylum seeker who has been provided with accommodation under section 95 of the Immigration and Asylum Act 1999 [^c15424751] and which is funded partly or wholly by the National Asylum Support Service [^c15424761].
+
+(2) In this regulation—
+
+- (a)[^key-d38c9d88bf2fc6e8ac25f8037203296b] “a migrant worker” is—
+  - (i) a person who has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules and who has taken up activity in the United Kingdom as an employed person;
+  - (ii) a person who has a permit indicating, in accordance with the immigration rules, that a person named in it is eligible, though not a British citizen, for entry into the United Kingdom for the purpose of taking employment;
+  - (iii) a person who is a frontier worker within the meaning of regulation 3 of the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020;
+- (ab)[^key-a87bf858e5fffd9aabd71cb55b59fc0c] "residence scheme immigration rules” has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020;
+- (b)[^key-6e124db072d7010cc36fbfdf9296b431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-6e124db072d7010cc36fbfdf9296b431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) “**seasonal worker**” means a person who carries out for an employer or undertaking employment of a seasonal character—
+  - (i) the nature of which depends on the cycle of the seasons and recurs automatically each year; and
+  - (ii) the duration of which cannot exceed eight months;
+- (e) “**immigration rules**” means the rules for the time being laid down as mentioned in section 3(2) of the Immigration Act 1971 [^c15424781] and
+- (f) “**asylum seeker**” has the meaning given to that expression in section 94 of Immigration and Asylum Act 1999.
+
+## 6. Buildings that are not HMOs for the purposes of the Act (excluding Part 1)
+
+(1) A building is of a description specified for the purposes of paragraph 3 of Schedule 14 to the Act (buildings regulated otherwise than under the Act which are not HMOs for purposes of the Act (excluding Part 1)) where its occupation is regulated by or under any of the enactments listed in Schedule 1.
+
+(2) The number of persons specified for the purposes of paragraph 6(1)(c) of Schedule 14 to the Act is two.
+
+## 7. Applications for licences under Part 2 or 3 of the Act
+
+(1) An application for a licence under section 63 (application for HMO licence) or 87 (application for licence of Part 3 house) of the Act (“an application”) must include a statement in the form specified in paragraph 1of Schedule 2
+
+(2 (Extent: E.W.))[^key-d64c17ad47584afb24d5ef8392046677] An applicant must supply as part of his application— *(Extent: E.W.)*
+
+- (a (Extent: E.W.)) if the application is a renewal application, the information referred to in paragraph 2(a) and (b) of Schedule 2; *(Extent: E.W.)*
+- (b (Extent: E.W.)) if the application is not a renewal application, the information referred to in paragraph 2(a) to (g) of that Schedule; and *(Extent: E.W.)*
+- (c (Extent: E.W.)) in either case, the information relating to the proposed licence holder or proposed manager of the *(Extent: E.W.)* HMO *(Extent: E.W.)* or house specified in paragraph 3 of that Schedule. *(Extent: E.W.)*
+
+(3 (Extent: E.W.))[^key-c015cbed1a792a0fbf074e9ff776f904] An applicant must— *(Extent: E.W.)*
+
+- (a (Extent: E.W.)) supply with the application completed and signed declarations in the form specified in paragraph 4 of Schedule 2; *(Extent: E.W.)*
+- (b (Extent: E.W.)) if the application is a renewal application, supply in addition a completed and signed declaration in the form specified in paragraph 5 of that Schedule; and *(Extent: E.W.)*
+- (c (Extent: E.W.)) in either case, sign the application. *(Extent: E.W.)*
+
+(4) Where the applicant proposes that another person should be the licence holder, both the applicant and the proposed licence holder must comply with the requirements in paragraph (3).
+
+(5) The applicant must give the following information about the application to every relevant person—
+
+- (a) the name, address, telephone number and any e-mail address or fax number of the applicant;
+- (b) the name, address, telephone number and any e-mail address or fax number of the proposed licence holder (if he is not the applicant);
+- (c) the type of application by reference to it being made in respect of an HMO that must be licensed under Part 2 or in respect of a house that must be licensed under Part 3 of the Act;
+- (d) the address of the HMO or house to which the application relates;
+- (e) the name and address of the local housing authority to which the application is made; and
+- (f) the date on which the application is, or is to be, made.
+
+(6) Nothing in paragraph (5) precludes an applicant from supplying a copy of the application, or other information about the application, to a relevant person.
+
+(7) A local housing authority must refund an applicant in full any fee that he has paid in respect of an application as soon as reasonably practicable after it learns that at the time the fee was paid—
+
+- (a) in the case of an application for a licence under Part 2 of the Act, the house was not an HMO, or was not an HMO that was required to be licensed; or
+- (b) in the case of an application for a licence under Part 3 of the Act, the house was a house that was not required to be licensed under Part 2 or 3 of the Act.
+
+(8) Paragraph (7) applies whether or not the local housing authority, pursuant to the application, granted a licence for the HMO or house when it was not required to be licensed.
+
+(9) For the purposes of this regulation a “relevant person” is any person (other than a person to whom paragraph (10) applies)—
+
+- (a) who, to the knowledge of the applicant, is—
+  - (i) a person having an estate or interest in the HMO or house that is the subject of the application, or
+  - (ii) a person managing or having control of that HMO or house (and not falling within paragraph (i)); or
+- (b) where the applicant proposes in the application that conditions should be in the licence imposing a restrictions or obligation on any person (other than the licence holder, that person [^c15424791].
+
+(10) This paragraph applies to any tenant under a lease with an unexpired term of three years or less.
+
+*Extent: E.W.*
+
+(11)[^key-ef4f12e76189145cff4f8753b680160b] In this regulation “renewal application” means an application for a licence under section 63 or 87 of the Act where, at the time the application is made a licence of the kind applied for is already held by the applicant and has effect in respect of the HMO or house.
+
+## 8. Prescribed standards for deciding the suitability of a house for multiple occupation by a particular maximum number of households or persons[^key-70f1e1d771931941692c1ebb9b183d9e]
+
+(1) The standards prescribed for HMOs other than section 257 HMOs for the purpose of section 65 of the Act (tests as to suitability of HMO for multiple occupation) are those set out in Schedule 3.
+
+(2) The standards prescribed for section 257 HMOs for the purpose of section 65 of the Act are—
+
+- (a) that all bathrooms and toilets contained in each flat must be of an adequate size and layout, and all wash-hand basins must be suitably located and be fit for purpose, having regard to the age and character of the HMO, the size and layout of each flat and its existing provision for wash-hand basins, toilets and bathrooms;
+- (b) those standards set out in paragraph 4(1) of Schedule 3, in so far as it is reasonably practicable to comply with them; and
+- (c) those standards set out in paragraph 5 of Schedule 3.
+
+## 9. Publication requirements relating to designations under Part 2 or 3 of the Act
+
+(1) A local housing authority that is required under section 59(2) or 83(2) of the Act to publish a notice of a designation of an area for the purpose of Part 2 or 3 of the Act must do so in the manner prescribed by paragraph (2).
+
+(2) Within 7 days after the date on which the designation was confirmed or made the local housing authority must —
+
+- (a) place the notice on a public notice board at one or more municipal buildings within the designated area, or if there are no such buildings within the designated area, at the closest of such buildings situated outside the designated area;
+- (b) publish the notice on the authority's internet site; and
+- (c) arrange for its publication in at least two local newspapers circulating in or around the designated area—
+  - (i) in the next edition of those newspapers; and
+  - (ii) five times in the editions of those newspapers following the edition in which it is first published, with the interval between each publication being no less than two weeks and no more than three weeks.
+
+(3) Within 2 weeks after the designation was confirmed or made the local housing authority must send a copy of the notice to—
+
+- (a) any person who responded to the consultation conducted by it under section 56(3) or 80(9) of the Act;
+- (b) any organisation which, to the reasonable knowledge of the authority—
+  - (i) represents the interests of landlords or tenants within the designated area; or
+  - (ii) represents managing agents, estate agents or letting agents within the designated area; and
+- (c) every organisation within the local housing authority area that the local housing authority knows or believes provides advice on landlord and tenant matters, including—
+  - (i) law centres;
+  - (ii) citizens' advice bureaux;
+  - (iii) housing advice centres; and
+  - (iv) homeless persons' units.
+
+(4) In addition to the information referred to in section 59(2)(a), (b) and(c) or 83(2)(a), (b) and(c), the notice must contain the following information—
+
+- (a) a brief description of the designated area;
+- (b) the name, address, telephone number and e-mail address of—
+  - (i) the local housing authority that made the designation;
+  - (ii) the premises where the designation may be inspected; and
+  - (iii) the premises where applications for licences and general advice may be obtained;
+- (c) a statement advising any landlord, person managing or tenant within the designated area to seek advice from the local housing authority on whether their property is affected by the designation; and
+- (d) a warning of the consequences of failing to licence a property that is required to be licensed, including the criminal sanctions.
+
+## 10. Publication requirements relating to the revocation of designations made under Part 2 or 3 of the Act
+
+(1) A local housing authority that is required under section 60(6) or 84(6) of the Act to publish a notice of revocation of a designation of an area for the purposes of Part 2 or 3 of the Act, must do so in the manner prescribed by paragraph (2).
+
+(2) Within 7 days after revoking a designation the local housing authority must —
+
+- (a) place a notice on a public notice board at one or more municipal buildings within the designated area, or if there are no such buildings within the designated area, at the closest of such buildings situated outside the designated area;
+- (b) publish the notice on the authority's internet site; and
+- (c) arrange for the publication of the notice in at least two local newspapers circulating in or around the designated area in the next edition of those newspapers.
+
+(3) The notice must contain the following information—
+
+- (a) a brief description of the area to which the designation being revoked relates;
+- (b) a summary of the reasons for the revocation;
+- (c) the date from which the revocation takes effect;
+- (d) the name, address, telephone number and e-mail address—
+  - (i) of the local housing authority that revoked the designation; and
+  - (ii) where the revocation may be inspected.
+
+## 11. Registers of Licences
+
+(1) The following particulars are prescribed for each entry in a register established and maintained under section 232(1)(a) of the Act in respect of a licence granted under Part 2 (HMOs) or 3 (selective licensing) of the Act which is in force—
+
+- (a) the name and address of the licence holder;
+- (b) the name and address of the person managing the licensed HMO or house;
+- (c) the address of the licensed HMO or house;
+- (d) a short description of the licensed HMO or house;
+- (e) a summary of the conditions of the licence;
+- (f) the commencement date and duration of the licence;
+- (g) summary information of any matter concerning the licensing of the HMO or house that has been referred to the First-tier Tribunal[^key-7ff46c5c025ca127cda28503731a5e43] or to the Upper Tribunal[^key-c9e8d2b5eff4589ca4d89cc13ec4a595]; and
+- (h) summary information of any decision of the tribunals referred to in sub-paragraph (g) that relate to the licensed HMO or house, together with the reference number allocated to the case by the tribunal.
+
+(2) Subject to paragraph (3), the[^key-7cc25d5e2ecbdd64bf1b6a6824acaba9] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(a) of the Act in respect of a licence granted under Part 2 of the Act which is in force—
+
+- (a) the number of storeys comprising the licensed HMO;
+- (b) the number of rooms in the licensed HMO providing—
+  - (i) sleeping accommodation; and
+  - (ii) living accommodation;
+- (c) in the case of a licensed HMO consisting of flats—
+  - (i) the number of flats that are self contained; and
+  - (ii) the number of flats that are not self contained;
+- (d) a description of shared amenities including the numbers of each amenity; and
+- (e) the maximum number of persons or households permitted to occupy the licensed HMO under the conditions of the licence.
+
+(3)[^key-e8c3c7ce6d148124d3ca246706db407e] The particulars mentioned in sub-paragraphs (b), (c)(ii), (d) and (e) of paragraph (2) are not prescribed for any entry in a register referred to in that paragraph in respect of a licence granted in relation to a section 257 HMO.
+
+## 12. Registers of temporary exemption notices
+
+(1) The following particulars are prescribed for each entry in a register established and maintained under section 232(1)(b) of the Act in respect of a temporary exemption notice served under section 62 or 86 of the Act which is in force—
+
+- (a) the name and address of the person notifying the local housing authority under section 62(1) or section 86(1) of the Act;
+- (b) the address of the HMO or house in respect of which the local housing authority has served the temporary exemption notice and any reference number allocated to it by the authority;
+- (c) a summary of the effect of the notice;
+- (d) details of any previous temporary exemption notices that have been served in relation to the same HMO or house for a period immediately preceding the current temporary exemption notice;
+- (e) a statement of the particular steps that the person referred to in sub-paragraph (a) intends to take with a view to securing that the HMO or house is no longer required to be licensed;
+- (f) the date on which the local housing authority served the temporary exemption notice and the date on which it ceases to be in force;
+- (g) summary information of any matter concerning the HMO or house that has been referred to the First-tier Tribunal[^key-c1b72b1a658ecdc27529d8ded24ff969] or to the Upper Tribunal[^key-8c24a78f3c8827950870dd8923039c71]; and
+- (h) summary information of any decision of the tribunals referred to in sub-paragraph (g) that relate to the HMO or house together with the reference number allocated to the case by the tribunal.
+
+## 13. Registers of management orders
+
+(1) The following particulars are prescribed for each entry in a register established and maintained under section 232(1)(c) of the Act in respect of a management order made under section 102(2), (3), (4) or (7) or 113(1) or (6) of the Act—
+
+- (a) the address of the HMO or house to which the order relates and any reference number allocated to it by the local housing authority;
+- (b) a short description of the HMO or house;
+- (c) the date on which the order comes into force;
+- (d) a summary of the reasons for making the order;
+- (e) a summary of the terms of the order and the type of order made ;
+- (f) summary information of any application concerning the HMO or house that has been made to the First-tier Tribunal[^key-d3db21ef8c800d5c23cd65d99e745a1c] or to the Upper Tribunal[^key-e47b660cd1b7fe4951e622538f7f59c2]; and
+- (g) summary information of any decision of the tribunals referred to in sub-paragraph (f) that relate to the HMO or house, together with the reference number allocated to the case by the tribunal.
+
+(2) Subject to paragraph (4), the[^key-650010ae366dc07bf5450ba8ee48afd3] following additional particulars are prescribed for each entry in a register established and maintained under section 232(1)(c) of the Act in respect of a management order made under section 102(2), (3), (4) or (7) or 113(1) or (6) of the Act which is in force—
+
+- (a) the number of storeys comprising the HMO;
+- (b) the number of rooms in the HMO providing—
+  - (i) sleeping accommodation; and
+  - (ii) living accommodation;
+- (c) in the case of an HMO consisting of flats—
+  - (i) the number of flats that are self contained;
+  - (ii) the number of flats that are not self contained;
+  - (iii) a description of shared amenities including the numbers of each amenity;
+  - (iv) the maximum number of households permitted to occupy the HMO; and
+  - (v) the maximum number of persons permitted to occupy the HMO.
+
+(3) The following particulars are prescribed for each entry in a register established and maintained under section 232(1)(c) of the Act in respect of an empty dwelling management order made under section 133(1) or 136(1) or (2) of the Act—
+
+- (a) the address of the dwelling [^c15424801] to which the order relates and any reference number allocated to it by the local housing authority;
+- (b) a short description of the dwelling;
+- (c) the date on which the order comes into force;
+- (d) a summary of the reasons for making the order;
+- (e) a summary of the terms of the order;
+- (f) summary information of any application concerning the dwelling that has been made to the First-tier Tribunal or to the Upper Tribunal[^key-35c4dfe13a4ffaa098599316d18f3542]; and
+- (g) summary information of any decision of the tribunals referred to in sub-paragraph (f) that relate to the dwelling, together with the reference number allocated to the case by the tribunal.
+
+(4)[^key-7555052c71fa4e9d731ce9b3718b7843] The particulars mentioned in sub-paragraphs (b) and (c)(ii) to (v) of paragraph (2) are not prescribed for any entry referred to in that paragraph in respect of a management order made in relation to a section 257 HMO.
+
+Signed by authority of the First Secretary of State
+
+Kay Andrews
+
+Parliamentary Under Secretary of State
+
+Office of the Deputy Prime Minister
+
+## SCHEDULE 1 — Buildings which are not HMOs for any purpose of the Act (excluding Part 1)
+
+Regulation 6(1)
+
+The enactments referred to in regulation 13(1) are—
+
+- (h) sections 87, 87A, 87B, 87C and 87D of the Children Act 1989 [^c15424811];
+- (i) section 43(4) of the Prison Act 1952 [^c15424821];
+- (j) section 34 of the Nationality, Immigration and Asylum Act 2002 [^c15424831];
+- (k) The Secure Training Centre Rules 1998 [^c15424841];
+- (l) The Prison Rules 1999 [^c15424851];
+- (m) The Young Offender Institute Rules 2000 [^c15424861];
+- (n) The Detention Centre Rules 2001 [^c15424871];
+- (o) The Criminal Justice and Court Services Act 2000 (Approved Premises) Regulations 2001 [^c15424881];
+- (p) The Care Homes Regulations 2001 [^c15424891];
+- (q) The Children’s Homes (England) Regulations 2015[^key-573354a3c7639594e9440983a2f78119]; and
+- (r) The Residential Family Centres Regulations 2002 [^c15424911];
+
+## SCHEDULE 2 — Content of applications under sections 63 and 87 of the Act
+
+Regulation 7(1), (2) and (3)
+
+**1.** The form of statement mentioned in regulation 7(1) is:
+
+> You must let certain persons know in writing that you have made this application or give them a copy of it. The persons who need to know about it are—
+>
+> - any mortgagee of the property to be licensed
+> - any owner of the property to which the application relates (if that is not you) i.e. the freeholder and any head lessors who are known to you
+> - any other person who is a tenant or long leaseholder of the property or any part of it (including any flat) who is known to you other than a statutory tenant or other tenant whose lease or tenancy is for less than three years (including a periodic tenancy)
+> - the proposed licence holder (if that is not you)
+> - the proposed managing agent (if any) (if that is not you)
+> - any person who has agreed that he will be bound by any conditions in a licence if it is granted.
+>
+> You must tell each of these persons—
+>
+> - your name, address telephone number and e-mail address or fax number (if any)
+> - the name, address, telephone number and e-mail address or fax number (if any) of the proposed licence holder (if it will not be you)
+> - whether this is an application for an HMO licence under Part 2 or for a house licence under Part 3 of the Housing Act 2004
+> - the address of the property to which the application relates
+> - the name and address of the local housing authority to which the application will be made
+> - the date the application will be submitted
+
+**2.** (1) The information mentioned in regulation 7(2)(a) is—
+
+- (a) the name, address, telephone number and e-mail address of—
+  - (i) the applicant;
+  - (ii) the proposed licence holder;
+  - (iii) the person managing the HMO or house;
+  - (iv) the person having control of the HMO or house; and
+  - (v) any person who has agreed to be bound by a condition contained in the licence;
+- (b) the address of the HMO or house for which the application is being made;
+- (c) the approximate age of the original construction of the HMO or house (using the categories before 1919, 1919-45, 1945-64, 1965-80 and after 1980);
+- (d) the type of HMO or house for which the application is being made, by reference to one of the following categories—
+  - (i) house in single occupation;
+  - (ii) house in multiple occupation;
+  - (iii) flat in single occupation;
+  - (iv) flat in multiple occupation;
+  - (v) a house converted into and comprising only of self contained flats;
+  - (vi) a purpose built block of flats; or
+  - (vii) other;
+- (e) details of other HMOs or houses that are licensed under Part 2 or 3 of the Act in respect of which the proposed licence holder is the licence holder, whether in the area of the local housing authority to which the application is made or in the area of any other local housing authority;
+- (f) the following information about the HMO or house for which the application is being made , except in respect of an application in respect of a section 257[^key-5eb7baa4257bb5948e2323ecc7df4aa6] HMO—
+  - (i) the number of storeys comprising the HMO or house and the levels on which those storeys are situated;
+  - (ii) the number of separate letting units;
+  - (iii) the number of habitable rooms (excluding kitchens);
+  - (iv) the number of bathrooms and shower rooms;
+  - (v) the number of toilets and wash basins;
+  - (vi) the number of kitchens;
+  - (vii) the number of sinks;
+  - (viii) the number of households occupying the HMO or house;
+  - (ix) the number of people occupying the HMO or house;
+  - (x) details of fire precautions equipment, including the number and location of smoke alarms;
+  - (xi) details of fire escape routes and other fire safety information[^key-9e7632ecd2dff3d90cfe8c0aeef2594a] provided to occupiers;
+  - (xii) a declaration that the furniture in the HMO or house that is provided under the terms of any tenancy or licence meets any safety requirements contained in any enactment; and
+  - (xiii) a declaration that any gas appliances in the HMO or house meet any safety requirements contained in any enactment.
+- (g)[^key-c0dc117171f7eace0b4e60fa88d6c8d0] where the application is being made in respect of a section 257 HMO, the following information—
+  - (i) the number of storeys comprising the HMO and the levels on which those storeys are situated;
+  - (ii) the number of self-contained-flats and, of those, the number —
+    - (aa) that the applicant believes to be subject to a lease of over 21 years; and
+    - (bb) over which he cannot reasonably be able to exercise control;
+  - (iii) in relation to each self-contained flat that is not owner-occupied and which is under the control of or being managed by the proposed licence holder, and in relation to the common parts of the HMO—
+    - (aa) details of fire precautions equipment, including the number and location of smoke alarms;
+    - (bb) details of fire escape routes and other fire safety information provided to occupiers; and
+    - (cc) a declaration that the furniture in the HMO or house that is provided under the terms of any tenancy or licence meets any safety requirements contained in any enactment; and
+  - (iv) a declaration that any gas appliances in any parts of the HMO over which the proposed licence holder can reasonably be expected to exercise control meet any safety requirements contained in any enactment.
+
+**3.** The information mentioned in regulation 7(2)(b) is—
+
+- (a) details of any unspent convictions that may be relevant to the proposed licence holder's fitness to hold a licence, or the proposed manager's fitness to manage the HMO or house, and, in particular any such conviction in respect of any offence involving fraud or other dishonesty, or violence or drugs or any offence listed in Schedule 3 to the Sexual Offences Act 2003 [^c15424921];
+- (b) details of any finding by a court or tribunal against the proposed licence holder or manager that he has practised unlawful discrimination on grounds of sex, colour, race, ethnic or national origin or disability in, or in connection with, the carrying on of any business;
+- (c) details of any contravention on the part of the proposed licence holder or manager of any provision of any enactment relating to housing, public health, environmental health or landlord and tenant law which led to civil or criminal proceedings resulting in a judgement being made against him.
+- (d) information about any HMO or house the proposed licence holder or manager owns or manages or has owned or managed which has been the subject of—
+  - (i) a control order under section 379 of the Housing Act 1985 [^c15424931] in the five years preceding the date of the application; or
+  - (ii) any appropriate enforcement action described in section 5(2) of the Act.
+- (e) information about any HMO or house the proposed licence holder or manager owns or manages or has owned or managed for which a local housing authority has refused to grant a licence under Part 2 or 3 of the Act, or has revoked a licence in consequence of the licence holder breaching the conditions of his licence; and
+- (f) information about any HMO or house the proposed licence holder or manager owns or manages or has owned or managed that has been the subject of an interim or final management order under the Act.
+
+**4.** The form of declaration mentioned in regulation 7(3)(a) is as follows—
+
+- I/we declare that the information contained in this application is correct to the best of my/our knowledge. I/We understand that I/we commit an offence if I/we supply any information to a local housing authority in connection with any of their functions under any of Parts 1 to 4 of the Housing Act 2004 that is false or misleading and which I/we know is false or misleading or am/are are reckless as to whether it is false or misleading.
+- Signed (all applicants)
+- Dated
+- I/We declare that I/We have served a notice of this application on the following persons who are the only persons known to me/us that are required to be informed that I/we have made this application:
+
+  | *Name* | *Address* | *Description of the person's interest in the property or the application* | *Date of service* |
+  | --- | --- | --- | --- |
+  |  |  |  |  |
+
+*Extent: E+W+S+N.I.*
+
+**5.**[^key-703ad22539c9851c50be01e48e6d7266] The form of declaration mentioned in regulation 7(3)(b) is as follows—
+
+I/We declare that the house in respect of which a licence is sought under Part2/Part 3 of the Housing Act 2004 is subject to a licence under that Part at the time this application is made. I/We further declare that to the best of my/our knowledge either: (a) none of the information described in paragraph 2(c) to (g) of that Act and previously submitted to the authority has materially changed since that licence was granted; or (b) the only material changes to that information are described as follows: \[include description of all material changes\].
+
+## SCHEDULE 3 — Prescribed standards for deciding the suitability for occupation of an HMO by a particular maximum number of households or persons
+
+Regulation 8
+
+### Heating
+
+**1.** Each unit of living accommodation in an HMO must be equipped with adequate means of space heating.
+
+### Washing facilities
+
+**2.** (1)[^key-27d4c1a78358cccd3b16595e562c84c9] Where all or some of the units of living accommodation in an HMO do not contain bathing and toilet facilities for the exclusive use of each individual household—
+
+- (a) there must be an adequate number of bathrooms, toilets and wash-hand basins suitable for personal washing) for the number of persons sharing those facilities; and
+- (b) where reasonably practicable there must be a wash hand basin with appropriate splash back in each unit other than a unit in which a sink has been provided as mentioned in paragraph 4(1),
+
+having regard to the age and character of the HMO, the size and layout of each flat and its existing provision for wash-hand basins, toilets and bathrooms.
+
+(3) All baths, showers and wash hand basins in an HMO must be equipped with taps providing an adequate supply of cold and constant hot water.
+
+(4) All bathrooms in an HMO must be suitably and adequately heated and ventilated.
+
+(5) All bathrooms and toilets in an HMO must be of an adequate size and layout.
+
+(6) All baths, toilets and wash hand basins in an HMO must be fit for the purpose.
+
+(7) All bathrooms and toilets in an HMO must be suitably located in or in relation to the living accommodation in the HMO.
+
+### Kitchens
+
+**3.** Where all or some of the units of accommodation within the HMO do not contain any facilities for the cooking of food—
+
+- (a) there must be a kitchen, suitably located in relation to the living accommodation, and of such layout and size and equipped with such facilities so as to adequately enable those sharing the facilities to store, prepare and cook food;
+- (b) the kitchen must be equipped with the following equipment, which must be fit for the purpose and supplied in a sufficient quantity for the number of those sharing the facilities—
+  - (i) sinks with draining boards;
+  - (ii) an adequate supply of cold and constant hot water to each sink supplied;
+  - (iii) installations or equipment for the cooking of food;
+  - (iv) electrical sockets;
+  - (v) worktops for the preparation of food;
+  - (vi) cupboards for the storage of food or kitchen and cooking utensils;
+  - (vii) refrigerators with an adequate freezer compartment (or, where the freezer compartment is not adequate, adequate separate freezers);
+  - (viii) appropriate refuse disposal facilities; and
+  - (ix) appropriate extractor fans, fire blankets and fire doors .
+
+### Units of living accommodation without shared basic amenities
+
+**4.** (1) Where a unit of living accommodation contains kitchen facilities for the exclusive use of the individual household, and there are no other kitchen facilities available for that household, that unit must be provided with—
+
+- (a) adequate appliances and equipment for the cooking of food;
+- (b) a sink with an adequate supply of cold and constant hot water;
+- (c) a work top for the preparation of food;
+- (d) sufficient electrical sockets;
+- (e) a cupboard for the storage of kitchen utensils and crockery; and
+- (f) a refrigerator.
+
+(1A)[^key-6092a2c80e5ee8f1f57d74bc02b08202] The standards referred to in paragraphs (a) and (f) of sub-paragraph (1) shall not apply in relation to a unit of accommodation where—
+
+- (a) the landlord is not contractually bound to provide such appliances or equipment;
+- (b) the occupier of the unit of accommodation is entitled to remove such appliances or equipment from the HMO; or
+- (c) the appliances or equipment are otherwise outside the control of the landlord.
+
+(2) Where there are no adequate shared washing facilities provided for a unit of living accommodation as mentioned in paragraph 2, an enclosed and adequately laid out and ventilated room with a toilet and bath or fixed shower supplying adequate cold and constant hot water must be provided for the exclusive use of the occupiers of that unit either—
+
+- (a) within the living accommodation; or
+- (b) within reasonable proximity to the living accommodation
+
+### Fire precautionary facilities
+
+**5.** Appropriate fire precaution facilities and equipment must be provided of such type, number and location as is considered necessary.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in respect of a number of miscellaneous matters relating to Part 2 (licensing of HMOs, Part 3 (selective licensing), Chapters 1 and 2 of Part 4 (management orders) and section 254 (meaning of HMO) of the Housing Act 2004 (“**the Act**”). They—
+
+specify the circumstances when persons are to be regarded as forming a single household for the purposes of deciding whether a building is an HMO within any of the descriptions in section 254 of the Act *(regulations 3 and 4)*;
+
+provide that migrant workers, seasonal workers and asylum seekers are to be treated as occupying certain premises as their only or main residence *(regulation 5)*;
+
+specify a description of buildings that are not HMOs for the purposes of the Act (excluding Part 1) *(regulation 6 and Schedule 1);*
+
+make provision about applications for licences under Part 2 or 3 of the Act, including the information that must be supplied with an application *(regulation 7 and Schedule 2)*;
+
+specify the standards to be applied when determining the suitability of a house for multiple occupation for licensing under Part 2 of the Act *(regulation 8 and Schedule 3)*;
+
+specify the manner in which designations of areas under Part 2 or 3 of the Act, and revocations of such designations, must be published *(regulations 9 and 10)*; and
+
+specify the information that must be contained in registers held by local housing authorities of licences granted under Part 2 or 3, temporary exemption notices that exempt a house from licensing and of management orders *(regulations 11, 12 and 13)*.
+
+A full regulatory impact assessment of the effect that this Order will have on the costs of business is available from the Licensing Branch, the Office of the Deputy Prime Minister 2/G9 Eland House, Bressenden Place, London, SW1E 5DU (telephone 0207 944 3149, e-mail licensing@odpm.gsi.gov.uk).
+
+## Annotations
+
+[^c15424671]: Marginal citation: 2004 c 34. The powers conferred by section 55(3) of the Act are exercisable, as respects England, by the Secretary of State and, as respects Wales, by the National Assembly for Wales. See the definition of the appropriate national authority in section 261(1).
+
+[^key-7f42c309781a638ef48e8058ba188d0d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/373) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(t)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/t)
+
+[^c15424681]: Marginal citation: For the meaning of “HMO” see sections 77 and 254 to 259 of the Act.
+
+[^key-a79599cd94913bb068a006c571bc126c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/373/regulation/1/2) omitted (1.10.2007) by virtue of [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^c15424691]: Marginal citation: For the meaning of “house” see sections 79(2) and 99 of the Act.
+
+[^c15424701]: Marginal citation: See section 79(2) of the Act.
+
+[^key-8c683189a3d6ed0520e9dc9e0030ac65]: Textual amendment: Words in reg. 2 inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^c15424711]: Marginal citation: SI 2004/2071.
+
+[^c15424721]: Marginal citation: SI 2002/57.
+
+[^c15424731]: Marginal citation: In regulation 2 of the Adult Placement Schemes (England) Regulations 2004 “**adult placement carer**” means a person who, under the terms of a carer agreement entered into with a person who carries on an adult placement scheme, provides, or intends to provide, care or support (which may include accommodation in the carer's home) for service users.
+
+[^c15424741]: Marginal citation: In regulation 2 of the Adult Placement Schemes (England) Regulations 2004 “**service user**” in relation to a scheme, means an adult who may be or is placed by the scheme. A “scheme” is an adult placement scheme carried on by a person who is registered under Part 2 of the [Care Standards Act 2000 (2000 c. 14)](https://www.legislation.gov.uk/ukpga/2000/14) to carry on the scheme.
+
+[^c15424751]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^c15424761]: Marginal citation: The National Asylum Support Service is a department within the Home Office.
+
+[^key-d38c9d88bf2fc6e8ac25f8037203296b]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [67(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/67/2/a)
+
+[^key-a87bf858e5fffd9aabd71cb55b59fc0c]: Textual amendment: [Reg. 5(2)(ab)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/ab) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [67(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/67/2/b)
+
+[^key-6e124db072d7010cc36fbfdf9296b431]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/373/regulation/5/2/c) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [67(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/67/2/c)
+
+[^c15424781]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^key-d64c17ad47584afb24d5ef8392046677]: Textual amendment: Reg. 7(2) substituted (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
+
+[^key-c015cbed1a792a0fbf074e9ff776f904]: Textual amendment: Reg. 7(3) substituted (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
+
+[^c15424791]: Marginal citation: For licence conditions see sections 67 and 90 of the Act. and, in particular, sections 67(5) and 90(6).
+
+[^key-ef4f12e76189145cff4f8753b680160b]: Textual amendment: Reg. 7(11) added (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
+
+[^key-70f1e1d771931941692c1ebb9b183d9e]: Textual amendment: Reg. 8 substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(4)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^key-7ff46c5c025ca127cda28503731a5e43]: Textual amendment: Words in [reg. 11(1)(g)](https://www.legislation.gov.uk/uksi/2006/373/regulation/11/1/g) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-c9e8d2b5eff4589ca4d89cc13ec4a595]: Textual amendment: Words in reg. 11(1)(g) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 109](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/109) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^key-7cc25d5e2ecbdd64bf1b6a6824acaba9]: Textual amendment: Words in reg. 11(2) substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(5)(a)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^key-e8c3c7ce6d148124d3ca246706db407e]: Textual amendment: Reg. 11(3) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(5)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^key-c1b72b1a658ecdc27529d8ded24ff969]: Textual amendment: Words in [reg. 12(1)(g)](https://www.legislation.gov.uk/uksi/2006/373/regulation/12/1/g) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-8c24a78f3c8827950870dd8923039c71]: Textual amendment: Words in reg. 12(1)(g) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/110) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^key-d3db21ef8c800d5c23cd65d99e745a1c]: Textual amendment: Words in reg. 13(1)(f) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-e47b660cd1b7fe4951e622538f7f59c2]: Textual amendment: Words in reg. 13(1)(f) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 111](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/111) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^key-650010ae366dc07bf5450ba8ee48afd3]: Textual amendment: Words in reg. 13(2) substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(6)(a)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^c15424801]: Marginal citation: For the definition of dwelling see section 132(4)(a) and (b) of the Act.
+
+[^key-35c4dfe13a4ffaa098599316d18f3542]: Textual amendment: Words in reg. 13(3)(f) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/33) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+
+[^key-7555052c71fa4e9d731ce9b3718b7843]: Textual amendment: Reg. 13(4) added (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(6)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^c15424811]: Marginal citation: 1989 c 41.
+
+[^c15424821]: Marginal citation: 1952 c 52.
+
+[^c15424831]: Marginal citation: 2002 c 41.
+
+[^c15424841]: Marginal citation: SI 1998/472, as amended by SI 2003/3005.
+
+[^c15424851]: Marginal citation: SI 1999/728, as amended by SI 2000/1794, SI 2000/2641, SI 2001/1149, SI 2002/2116, SI 2002/3135, SI 2003/3301 and 2005/869.
+
+[^c15424861]: Marginal citation: SI 2000/3371, as amended by SI 2002/2117, SI 2002/3135 and SI 2005/897.
+
+[^c15424871]: Marginal citation: SI 2001/238. Section 66(4) of the Nationality, Immigration and Asylum Act 2002 provides that the reference to a detention centre is to be construed as a reference to a removal centre as defined in Part VIII of the Immigration and Asylum Act 1999.
+
+[^c15424881]: Marginal citation: SI 2001/850.
+
+[^c15424891]: Marginal citation: SI 2001/3965, as amended by SI 2002/865, SI 2003/534, SI 2003/1590, SI 2003/1703, SI 2003/1845, SI 2004/664, SI 2004/696, 2004/1770, 2004/2071 and 2004/3168.
+
+[^key-573354a3c7639594e9440983a2f78119]: Textual amendment: Words in Sch. 1 substituted (1.4.2015) by [The Children s Homes (England) Regulations 2015 (S.I. 2015/541)](https://www.legislation.gov.uk/uksi/2015/541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/541/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2015/541/regulation/54) (with [reg. 52](https://www.legislation.gov.uk/uksi/2015/541/regulation/52))
+
+[^c15424911]: Marginal citation: SI 2002/3213, as amended by SI2004/664, SI 2004/865 and SI 2004/3168.
+
+[^key-5eb7baa4257bb5948e2323ecc7df4aa6]: Textual amendment: Words in Sch. 2 para. 2(1)(f) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(7)(a)(i)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/7/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^key-9e7632ecd2dff3d90cfe8c0aeef2594a]: Textual amendment: Word in Sch. 2 para. 2(1)(f)(xi) substituted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/7/a/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^key-c0dc117171f7eace0b4e60fa88d6c8d0]: Textual amendment: Sch. 2 para. 2(1)(g) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(7)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^c15424921]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
+
+[^c15424931]: Marginal citation: 1985 (c. 68).
+
+[^key-703ad22539c9851c50be01e48e6d7266]: Textual amendment: Sch. 2 para. 5 added (10.9.2012) by [The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions)(Amendment)(England) Regulations 2012 (S.I. 2012/2111)](https://www.legislation.gov.uk/uksi/2012/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2111/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/2111/regulation/3))
+
+[^key-27d4c1a78358cccd3b16595e562c84c9]: Textual amendment: [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2006/373/schedule/3/paragraph/2/1) substituted for Sch. 3 para. 2(1)(2) (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(8)(a)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/8/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))
+
+[^key-6092a2c80e5ee8f1f57d74bc02b08202]: Textual amendment: [Sch. 3 para. 4(1A)](https://www.legislation.gov.uk/uksi/2006/373/schedule/3/paragraph/4/1A) inserted (1.10.2007) by [The Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 (S.I. 2007/1903)](https://www.legislation.gov.uk/uksi/2007/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1), [12(8)(b)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12/8/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/2))

@@ -1,0 +1,42 @@
+---
+title: Animal Health Act 1981, section 26
+act: Animal Health Act 1981
+section: '26'
+status: revised-with-pending-changes
+text_date: '2026-07-24'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1981/22/section/26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Animal Health Act 1981, section 26
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 26. Pleuro-pneumonia or foot-and-mouth disease found in transit.
+
+*Extent: E+W+S*
+
+(1) The Minister shall by orders make such provision as he thinks necessary or expedient respecting the case of animals found to be affected with pleuro-pneumonia or foot-and-mouth disease—
+
+- (a) while exposed for sale or exhibited in a market, fair, sale-yard, place of exhibition, or other place; or
+- (b) while placed in a lair or other place before exposure for sale; or
+- (c) while in transit or in course of being moved by land, water or air; or
+- (d) while being in a slaughter-house or place where animals are slaughtered or are kept with a view to slaughter; or
+- (e) while being on common or unenclosed land; or
+- (f) generally, while being in a place not in the possession or occupation or under the control of the owner of the animals.
+
+(2) The Minister shall by orders under this section make such provision as he thinks fit for the consequences under this Act of animals being so found in the circumstances mentioned above—
+
+- (a) as well with regard to the animals as with regard to the places where they are when so found, and other places; and
+- (b) with regard to animals being or having been in the same shed or stable, herd or flock as, or in contact with, animals so found.
+
+(3) The Minister may, by orders under this section relating to particular places, make such provision as he thinks fit for the consequences mentioned above.
+
+(4) Every order under this section shall have full effect not withstanding—
+
+- (a) any provision of this Act requiring the declaration of a place infected with pleuro-pneumonia or foot-and-mouth disease, or relating to any consequence of such a declaration, or to any matter connected with such a declaration; and
+- (b) any other provision whatsoever of this Act.

@@ -1,0 +1,858 @@
+---
+title: The Hedgerows Regulations 1997
+id: uksi/1997/1160
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-03-24'
+text_date: '2026-09-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1997/1160
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/1160/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Hedgerows Regulations 1997
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/uksi/1997/1160
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1997 No. 1160
+
+COUNTRYSIDE
+
+The Hedgerows Regulations 1997
+
+Made
+
+24th March 1997
+
+Coming into force
+
+1st June 1997
+
+The Secretary of State for the Environment and the Minister of Agriculture, Fisheries and Food, acting jointly as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred by section 97 of the Environment Act 1995[^f00001], and of all other powers enabling them in that behalf, having undertaken the consultations required by section 97(6) of that Act, hereby make the following Regulations, a draft of which has been laid before, and has been approved by resolution of, both Houses of Parliament:[^key-7c1cc0911f4db241813b5dcf337d7fb5][^key-83ab32ea207bf5a4efc50dee677fb4b6]
+
+## 1. Citation and commencement[^key-1c28f894b517deed9cb41ba4753de370]
+
+These Regulations may be cited as the Hedgerows Regulations 1997 and shall come into force on 1st June 1997.
+
+## 2. Interpretation[^key-83a7cfdc59d10f365597fdf75ee5075f]
+
+(1) In these Regulations—
+
+- “the 1990 Act” means the Town and Country Planning Act 1990[^f00002];
+- “the 1995 Act” means the Environment Act 1995;
+- “agriculture” includes horticulture, fruit growing, seed growing, dairy farming, the breeding and keeping of livestock (including any creature kept for the production of food, wool, skins or fur, or for the purposes of its use in the farming of land), the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds, and the use of land for woodlands where that use is ancillary to the farming of land for other agricultural purposes, and “agricultural” shall be construed accordingly;
+- “agricultural holding” has the same meaning as in the Agricultural Holdings Act 1986[^f00003];
+- “common land” has the same meaning as in the Commons Registration Act 1965[^f00004], and references to common land include town or village green within the meaning of that Act;
+- “farm business tenancy” has the same meaning as in the Agricultural Tenancies Act 1995[^f00005];
+- “gap”, in relation to a hedgerow[^f00006], means any opening (whether or not it is filled);
+- “hedgerow removal notice” means a notice under regulation 5(1)(a);
+- “hedgerow retention notice” means a notice referred to in regulation 5(2);
+- “local planning authority”, except in paragraph 5(b)(ii) of Part II of Schedule 1, means—
+  - (a) as regards land within a National Park, the National Park Authority for that Park[^f00007],
+  - (b) as regards land within the Broads, within the meaning of the Norfolk and Suffolk Broads Act 1988, the Broads Authority[^f00008],
+  - (c) as regards the Isles of Scilly, the Council of the Isles of Scilly,
+  - (d) as regards any other land in England, the district planning authority within the meaning of the 1990 Act,
+  - (e) as regards any other land in Wales, the county council or county borough council;
+- “notice” means notice in writing;
+- “owner”—
+  - (a) in relation to a hedgerow growing on any land which comprises part of an agricultural holding or which is subject to a farm business tenancy, means the person who owns the freehold of the land or the tenant;
+  - (b) in relation to a hedgerow growing on any other land, means the person who owns the freehold of the land,
+
+  and “owns the freehold” means is entitled, otherwise than as a mortgagee not in possession, to dispose of the fee simple;
+- “protected land” means—
+  - (a) land managed as a nature reserve in pursuance of section 21 (establishment of nature reserves by local authorities) of the National Parks and Access to the Countryside Act 1949[^f00009],
+  - (b) land in relation to which a notification under section 28 (areas of special scientific interest) of the Wildlife and Countryside Act 1981[^f00010] is in force;
+- “relevant utility operator”, in relation to any hedgerow, means—
+  - (a) any person who holds a licence granted under section 6 of the Electricity Act 1989[^f00011] (power to grant licences for the generation, transmission or supply of electricity) and who wishes to remove or, as the case may be, removes the hedgerow in question for the purpose of carrying out any activity authorised by that licence;
+  - (b) any person who holds a licence granted or treated as granted under section 7 of the Gas Act 1986[^f00012] (power to grant licences for the conveyance of gas through pipes) and who wishes to remove or, as the case may be, removes the hedgerow in question for the purpose of carrying out any activity authorised by that licence;
+  - (c) any person to whom the electronic communications code is applied by a direction under section 106 of the Communications Act 2003 and who wishes to remove or, as the case may be, removes the hedgerow in question in pursuance of a right conferred by the electronic communications code.[^key-7706b2a48dfa5a46e9cd018f09f72d0e]
+  - (d) a sewerage undertaker or a water undertaker which wishes to remove or, as the case may be, removes the hedgerow in question for the purpose of carrying out its functions, within the meaning of the Water Industry Act 1991[^f00014].
+
+(2) In these Regulations a reference to a numbered regulation or Schedule is to the regulation in, or Schedule to, these Regulations which is so numbered and a reference in a regulation or Schedule to a numbered paragraph, or in a paragraph to a numbered sub-paragraph, is to a paragraph or sub-paragraph of that regulation, Schedule or paragraph.
+
+(3) Part I of Schedule 1 shall have effect for the purposes of interpretation of that Schedule, and Schedules 2 and 3 shall have effect for the purposes of that Part.
+
+## 3. Application of Regulations[^key-7897456e10778f5b9170cea9e042acff]
+
+(1) Subject to paragraph (3), these Regulations apply to any hedgerow growing in, or adjacent to, any common land, protected land, or land used for agriculture, forestry or the breeding or keeping of horses, ponies or donkeys, if—
+
+- (a) it has a continuous length of, or exceeding, 20 metres; or
+- (b) it has a continuous length of less than 20 metres and, at each end, meets (whether by intersection or junction) another hedgerow.
+
+(2) Subject to paragraph (3), a hedgerow is also one to which these Regulations apply if it is a stretch of hedgerow forming part of a hedgerow such as is described in paragraph (1).
+
+(3)[^M_C_d5e5921e-6ecd-47bc-8683-f6f60400d23f] These Regulations do not apply to any hedgerow within the curtilage of, or marking a boundary of the curtilage of, a dwelling-house.
+
+(4) A hedgerow which meets (whether by intersection or junction) another hedgerow is to be treated as ending at the point of intersection or junction.
+
+(5) For the purposes of ascertaining the length of any hedgerow—
+
+- (a) any gap resulting from a contravention of these Regulations; and
+- (b) any gap not exceeding 20 metres,
+
+shall be treated as part of the hedgerow.
+
+## 4. Criteria for determining “important” hedgerows[^key-9a649ced62cae2489261f0034732644d]
+
+For the purposes of section 97 (hedgerows) of the Environment Act 1995 and these Regulations, a hedgerow is “important” if it, or the hedgerow of which it is a stretch,—
+
+- (a) has existed for 30 years or more; and
+- (b) satisfies at least one of the criteria listed in Part II of Schedule 1.
+
+## 5. Removal of hedgerows[^key-6916fd78306aa9bee616dfcfae8cb577]
+
+(1) Subject to the exceptions specified in regulation 6, the removal[^f00015] of a hedgerow to which these Regulations apply is prohibited unless—
+
+- (a) the local planning authority in whose area the hedgerow is situated or, where it is situated in the area of more than one such authority, the local planning authority in whose area the greater part of the hedgerow is situated, have received from an owner of the hedgerow (subject to paragraph (10)) notice in the form set out in Schedule 4, or a form substantially to the same effect, of his proposal to remove the hedgerow (“hedgerow removal notice”) together with the plan and evidence mentioned in the form set out in Schedule 4; and
+- (b)
+  - (i) the authority have given to the person who gave the hedgerow removal notice written notice stating that the hedgerow may be removed; or
+  - (ii) the period specified in paragraph (6) has expired without the authority having given to that person a hedgerow retention notice stating that the work may not be carried out; and
+- (c) the removal is carried out in accordance with the proposal specified in the hedgerow removal notice; and
+- (d) the hedgerow is removed within the period of two years beginning with the date of service of the hedgerow removal notice.
+
+(2) A local planning authority which has received a hedgerow removal notice shall, consistently with paragraph (5) and within the period specified in paragraph (6), decide whether or not to give notice to that person stating that the work or, where the hedgerow removal notice refers to more than one hedgerow, so much of the work as may be specified by the authority in their notice, may not be carried out (“hedgerow retention notice”).
+
+(3) Where a hedgerow in respect of which the local planning authority has received a hedgerow removal notice is situated in a parish in England for which there is a parish council, or in a community in Wales for which there is a community council, that authority shall consult that council (or, where there is more than one such council, each of them) on the proposal to remove that hedgerow.
+
+(4) The consultation referred to in paragraph (3) shall be completed before the period specified in paragraph (6) expires and before the giving of a notice under paragraph (1)(b)(i) or a hedgerow retention notice.
+
+(5) A local planning authority—
+
+- (a) shall not give a hedgerow retention notice in respect of a hedgerow which is not an “important” hedgerow;
+- (b) shall give such a notice, within the period specified in paragraph (6), in respect of an “important” hedgerow unless satisfied, having regard in particular to the reasons given for its proposed removal in the hedgerow removal notice, that there are circumstances which justify the hedgerow’s removal.
+
+(6) The period referred to in paragraphs (1)(b)(ii), (2), (4) and (5)(b) is that of 42 days beginning with the date on which the hedgerow removal notice is received by the local planning authority or such longer period as may be agreed between the person who gave the notice and the authority.
+
+(7) A hedgerow retention notice shall, except where regulation 8(4) applies, specify each criterion (of those listed in Schedule 1) which applies to the hedgerow to which the notice relates.
+
+(8) A hedgerow retention notice may be withdrawn at any time by the local planning authority by giving written notice of the withdrawal to the person to whom the hedgerow retention notice was given.
+
+(9) Where a hedgerow retention notice has been given stating that work relating to a hedgerow may not be carried out, and that notice has not been withdrawn, removal of the hedgerow consisting of or including any such work is prohibited.
+
+(10) Where a hedgerow is or is to be removed by or on behalf of a relevant utility operator from land of which it is not the owner, paragraph (1)(a) shall apply as though the reference to the owner were instead a reference to the relevant utility operator.
+
+## 6. Permitted work[^key-83e0a1704b4f2bd0b8e7659acdcc8c3f][^key-1cd7235a128cd2d39eeb1c8cfe12e365][^key-9812332d4e08b384faffbb9d9d124d7f][^key-69468bd3e658a18ef780905b38e2005d][^key-962364d580a3fc3fa917b6db848d2746][^key-2ac616aa8d631b54d06d92f246b5c4ea][^key-4e6bf76adeb986fce7190f2cc2414af7][^key-9d3771d62e21ec6f6e1b2d7efd18da4f][^key-3735e3863b468def6d6a22a78bd4d285][^key-4c1f764112c9930db227ad46ee220898][^key-c81b2c0338bacf9825486134feb4aac5][^key-cac01d8b6f356d94d55c6dfd763f7cfb][^key-d40a91592da4feace656f23ce213e6e1][^key-89fc1dfc3a5ee71258807b03be50a5dd][^key-4150c9a3848ce1319defd0a232196e03][^key-bd97df91864350a567310101428088d6][^key-07b582e62459c96af4896101df251bdb][^key-577375e1e4f00d546dc9d1521ec57d40][^key-abc5ee6b3a0b0d887a3fd3450cbf6163][^key-4486206470342de330cd0098f00a8a72][^key-3491bfa6bb3e656374835f88d0638508][^key-86162391c02e617892c83603f18366b9][^key-122e18d76939fa2bbc09a49cde4a5329][^key-698fd7fd48638997e6eaec2ed131ff32][^key-6164d1e879248db7c4d57752c80b105a][^key-7fca63d93663eb01c2238b0b926f0734][^key-369d9e5103455998535410b9bb778a24][^key-f1546b00c6e7c33c881b6c91df1d3f5c][^key-cacb462e8f65b151e824c926f3a8b3ba][^key-9c6532be177dc69238b0d86f8545ddcd][^key-e7547a3f44ace2ef8ee92848c281d10e][^key-f12a37da04b424cb0cae4c1791e05a0b][^key-745224915c4c0ecdde631cd80b711c4d]
+
+(1)[^key-a0d05dafe2042578cca7291f5cebe09c][^key-d6d284be5808943a1ba14dd760fb2b89][^key-46299f17a0afe8fd4578ff0a73e5a7a7][^key-fc2f895e3cc50b7ad2a701da3c233990][^key-3eed56a37ab152b5d4c4529cdb7e06ff][^key-def52b509833426d5ae4ada70695dc09][^key-55af57ed2baa853c350eb799cc5139ce][^key-1a203eac816d4a9bea3d1f85653cc0d5][^key-4b2547f4deb0e2a214bd4e27a5ff966b] The removal of any hedgerow to which these Regulations apply is permitted if it is required—
+
+- (a) for making a new opening in substitution for an existing opening which gives access to land, but subject to paragraph (2);
+- (b) for obtaining temporary access to any land in order to give assistance in an emergency;
+- (c) for obtaining access to land where another means of access is not available or is available only at disproportionate cost;
+- (d) for the purposes of national defence;
+- (e) for carrying out development for which planning permission has been granted or is deemed to have been granted, except development for which permission is granted by article 3 of the Town and Country Planning General Permitted Development Order 1995[^f00016] in respect of development of any of the descriptions contained in Schedule 2 to that Order other than Parts 11 (development under local or private Acts or orders) and 30 (toll road facilities);
+- (f) for carrying out, pursuant to, or under, the Land Drainage Act 1991[^f00017], the Water Resources Act 1991[^f00018] or the Environment Act 1995[^f00019], work for the purpose of flood defence or land drainage;
+- (g) for preventing the spread of, or ensuring the eradication of—
+  - (i) any plant pest, within the meaning of the Plant Health (Great Britain) Order 1993[^f00020], in respect of which any action is being, or is to be, taken under Article 22 or 23 of that Order, or
+  - (ii) any tree pest, within the meaning of the Plant Health (Forestry) (Great Britain) Order 1993[^f00021], in respect of which any action is being, or is to be, taken under Article 21 or 22 of that Order;
+- (h) for the carrying out by the Secretary of State or a strategic highways company[^key-cfcc984d8f744b4d737c32a211045299] of his or its[^key-d8f1a24b8dc8697dc58f699f37d76114] functions in respect of any highway for which he or it[^key-ccc0e466a096abec81df7ee79d1d46c7] is the highway authority[^f00022] or in relation to which, by virtue of section 4(2) of the Highways Act 1980, he or it has the same powers under that Act as the local highway authority;
+- (i) for carrying out any felling, lopping or cutting back required or permitted as a consequence of any notice given or order made under paragraph 9 of Schedule 4 to the Electricity Act 1989[^f00023] (felling, lopping or cutting back to prevent obstruction of or interference with electric lines and plant or to prevent danger); or
+- (j) for the proper management of the hedgerow.
+
+(2) Where the removal of a hedgerow to which these Regulations apply is permitted by these Regulations only by paragraph (1)(a), the person removing it shall fill the existing opening by planting a hedge within 8 months of the making of the new opening.
+
+(3) The fact that work is permitted under these Regulations does not affect any prohibition or restriction imposed by or under any other enactment or by any agreement.
+
+(4)[^key-28287a89e9e02ab73b3bcce473d2cebe] In paragraph (1)(h) “strategic highways company” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015.
+
+## 7. Offences[^key-978680afdfd626398bcd10760a561343]
+
+(1) A person who intentionally or recklessly removes, or causes or permits another person to remove, a hedgerow in contravention of regulation 5(1) or (9) is guilty of an offence.
+
+(2) A person who contravenes or fails to comply with regulation 6(2) is guilty of an offence.
+
+(3) Hedgerows to which these Regulations apply are prescribed for the purposes of section 97(4)(d) of the 1995 Act (which relates to offences triable either way).
+
+(4) A person guilty of an offence under paragraph (1) shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+(5) A person guilty of an offence under paragraph (2) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) In determining the amount of any fine to be imposed on a person convicted of an offence under paragraph (1) or (2), the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
+
+(7) Section 331 (offences by corporations) of the 1990 Act shall apply in relation to offences under paragraph (1) or (2) committed by a body corporate as it applies in relation to offences under that Act committed by a body corporate.
+
+## 8. Replacement of hedgerows[^key-6b301f1d0c98d684ca49db2b51e792b5]
+
+(1) Subject to regulation 15, where it appears to the local planning authority that a hedgerow has been removed in contravention of regulation 5(1) or (9), the authority may (whether or not proceedings are instituted under regulation 7), give a notice to the owner, requiring him to plant another hedgerow or, where the hedgerow has been removed by or on behalf of a relevant utility operator, give a notice to that operator requiring it to plant another hedgerow.
+
+(2) A notice under paragraph (1) shall specify the species and position of the shrubs, or trees and shrubs, to be planted and the period within which the planting is to be carried out.
+
+(3) Subsections (1), (2) and (6) of section 209 (execution and cost of works required by s.207 notice) of the 1990 Act shall apply, with the necessary modifications, to shrubs and trees whose planting is required by a notice under paragraph (1) as if they were trees whose planting was required by a notice under subsection (1) of section 207 (enforcement of duties as to replacement of trees) of that Act.
+
+(4) A hedgerow planted in compliance with a notice under paragraph (1) or by virtue of paragraph (3) shall be treated—
+
+- (a) for the purposes of these Regulations;
+- (b) for the period of 30 years beginning with the date of substantial completion of the planting,
+
+as if it were an “important” hedgerow within the meaning of regulation 4.
+
+## 9. Appeals[^key-2d6a5e26961d4ef1bc51d556191afb54]
+
+(1) Subject to regulation 15, a person to whom a hedgerow retention notice or a notice under regulation 8(1) is given may, by notice given within 28 days from the date on which the notice was given to him, or such longer period as the Secretary of State may allow, appeal to the Secretary of State.
+
+(2) The notice of appeal shall state the grounds for the appeal and the appellant shall serve a copy of it on the local planning authority which gave the hedgerow retention notice or notice under regulation 8(1).
+
+(3) In determining the appeal the Secretary of State—
+
+- (a) may allow or dismiss it, either as to the whole or as to part;
+- (b) shall give any directions necessary to give effect to his determination, including directions for quashing or modifying any notice,
+
+and he shall notify the appellant and the local planning authority of his determination of the appeal.
+
+(4) Before determining the appeal, the Secretary of State shall afford to the appellant and the local planning authority an opportunity, if they so wish, of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose.
+
+(5) The Secretary of State may cause a local inquiry to be held in connection with an appeal and subsections (2) to (5) of section 250 of the Local Government Act 1972 (local inquiries: evidence and costs) shall apply to any such inquiry.
+
+(6) The Secretary of State shall have the same powers to appoint a person to exercise functions in connection with appeals under this regulation as he is given by section 114 of the 1995 Act in relation to his functions specified in that section; and the provisions of Schedule 20 to that Act shall apply with respect to any such appointment as it applies to appointments under that section.
+
+(7) The Secretary of State and any person appointed by him for any purpose of this regulation shall, except where the appeal is disposed of on the basis of written representations and other documents, have the same power to make orders under section 250(5) of the Local Government Act 1972 (orders with respect to costs of the parties) in relation to proceedings on an appeal under this regulation which do not give rise to an inquiry as he has in relation to an inquiry and section 322A[^f00024] (orders as to costs: supplementary) of the 1990 Act shall apply to proceedings on an appeal under this regulation as if they were proceedings under that Act.
+
+## 10. Records[^key-3f16c922f1f06edc06b44ad39d633aa8]
+
+Each local planning authority shall compile and keep available for public inspection free of charge at all reasonable hours and at a convenient place a record containing a copy of—
+
+- (a) every hedgerow removal notice received by them;
+- (b) every hedgerow retention notice issued by them;
+- (c) every notice given by them under regulation 5(1)(b)(i);
+- (d) every determination notified to them under regulation 9(3).
+
+## 11. Injunctions[^key-446d1d6cce640b1923e9fba9453463f7]
+
+(1) Where a local planning authority consider it necessary or expedient for an actual or apprehended offence under these Regulations to be restrained by injunction, they may apply to the court for an injunction, whether or not they have exercised or are proposing to exercise any of their other powers under these Regulations.
+
+(2) On an application under paragraph (1) the court may grant such an injunction as the court thinks appropriate for the purpose of restraining the offence.
+
+(3) In this regulation “the court” means the High Court or the county court.
+
+## 12. Rights to enter without a warrant[^key-c474a184cce5407d5ccd421549543206]
+
+(1) Any person duly authorised in writing by a local planning authority may enter any land for the purpose of—
+
+- (a) surveying it in connection with any hedgerow removal notice received by the authority;
+- (b) ascertaining whether an offence under regulation 7 has been committed;
+- (c) determining whether a notice should be given under regulation 8,
+
+if there are reasonable grounds for entering for the purpose in question.
+
+(2) Any person duly authorised in writing by the Secretary of State may enter any land for the purpose of surveying it in connection with any appeal made under regulation 9, if there are reasonable grounds for entering for that purpose.
+
+(3) Any right to enter by virtue of paragraph (1) or (2) shall be exercised at a reasonable hour.
+
+(4) No right to enter by virtue of paragraph (1)(a) or (2) shall be exercised in relation to land which—
+
+- (a) adjoins that in respect of which a hedgerow removal notice has been given or an appeal made; and
+- (b) is occupied by a person other than the person who gave the hedgerow removal notice or made the appeal,
+
+unless at least 24 hours’ notice of the intended entry has been given to the occupier of that adjoining land.
+
+(5) In a case to which regulation 5(10) applies, no right to enter any land by virtue of paragraph (1)(a) or (2) shall be exercised unless at least 24 hours’ notice of the intended entry has been given to the occupier of the land.
+
+## 13. Right to enter under warrant[^key-2b8b948f0ae7726ec77da7bd67a25e1f]
+
+(1) If it is shown to the satisfaction of a justice of the peace on sworn information in writing—
+
+- (a) that there are reasonable grounds for entering any land for any of the purposes mentioned in regulation 12(1) or (2); and
+- (b) that—
+  - (i) admission to the land has been refused, or a refusal is reasonably apprehended; or
+  - (ii) the case is one of urgency,
+
+  the justice may issue a warrant authorising any person duly authorised in writing by a local planning authority or, as the case may be, the Secretary of State to enter the land.
+
+(2) For the purposes of paragraph (1)(b)(i) admission to land shall be regarded as having been refused if no reply is received to a request for admission within a reasonable period.
+
+(3) A warrant authorises entry on one occasion only and that entry must be—
+
+- (a) within one month from the date of the issue of the warrant; and
+- (b) at a reasonable hour, unless the case is one of urgency.
+
+## 14. Rights of entry: supplementary provisions[^key-c68443de1f84cd1bc72b2697fa9d2d5c]
+
+(1) Any power conferred by virtue of regulation 12 or 13 to enter land (“a right of entry”) shall be construed as including power to take samples from any hedgerow on the land and samples of the soil.
+
+(2) A person authorised to enter land in the exercise of a right of entry—
+
+- (a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering;
+- (b) may take with him such other persons as may be necessary; and
+- (c) on leaving the land shall, if the occupier is not then present, leave it as effectively secured against trespassers as he found it.
+
+(3) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) If any damage is caused to land or chattels in the exercise of a right of entry, compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State.
+
+(5) Any question of disputed compensation under this regulation shall be referred to and determined by the Upper Tribunal[^key-fa299401d3f9c4090cac7bcad6d77b3b].
+
+(6) In relation to the determination of any such question, the provisions of section[^key-574c50940364d3697fbe73be28c1c0f6] 4 of the Land Compensation Act 1961[^f00025] shall apply subject to any necessary modifications.
+
+## 15. Local planning authorities as owners of hedgerows[^key-691d078b42ad0929a086c8b3b48e6fc2]
+
+(1) This regulation applies where a local planning authority are the owners (whether alone or jointly with others) of a hedgerow to which these Regulations apply.
+
+(2) Notwithstanding anything in section 101 (arrangements for the discharge of functions by local authorities) of the Local Government Act 1972[^f00026], a hedgerow removal notice given in a case to which this regulation applies may not be considered—
+
+- (a) by a committee or sub-committee of the authority concerned if that committee or sub-committee is responsible (wholly or partly) for the management of the land in which is situated the hedgerow to which the notice relates; or
+- (b) by an officer of the authority concerned if his responsibilities include any aspect of the management of the land in which is situated the hedgerow to which the notice relates.
+
+(3) Regulations 8 and 9 do not apply in a case to which this regulation applies.
+
+## 16. Application of other provisions of the 1990 Act[^key-a7267b3b91d1d4d583784c19471dcddb]
+
+(1) Subsections (1), (3) and (6) of section 318 (ecclesiastical property) of the 1990 Act[^f00027] shall apply—
+
+- (a) to notices required to be served under these Regulations on an owner of land as if those notices were notices required to be served on an owner of land under a provision of the 1990 Act; and
+- (b) to compensation payable under regulation 14 of these Regulations as if that compensation were compensation payable under Part IV of the 1990 Act.
+
+(2) Subsections (1), (2) and (4) of section 329 (service of notices) of the 1990 Act[^f00028] shall apply to notices under these Regulations as if those notices were notices required or authorised to be given or served under that Act.
+
+John Selwyn Gummer
+
+Secretary of State for the Environment
+
+23rd March 1997
+
+Tim Boswell
+
+Paliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+24th March 1997
+
+William Hague
+
+Secretary of State for Wales
+
+21st March 1997
+
+## SCHEDULE 1 — ADDITIONAL CRITERIA FOR DETERMINING “IMPORTANT” HEDGEROWS
+
+Regulations 2(3) and 4
+
+### PART I — INTERPRETATION[^key-afc51d0cd5b8941e8f642242053dc477]
+
+In this Schedule—
+
+- “building” includes structure;
+- “Record Office” means—
+  - (a) a place appointed under section 4 of the Public Records Act 1958[^f00029] (place of deposit of public records),
+  - (b) a place at which documents are held pursuant to a transfer under section 144A(4) of the Law of Property Act 1922[^f00030] or under section 36(2) of the Tithe Act 1936[^f00031], including each of those provisions as applied by section 7(1) of the Local Government (Records) Act 1962[^f00032], or
+  - (c) a place at which documents are made available for inspection by a local authority pursuant to section 1 of the Local Government (Records) Act 1962;
+- “relevant date” means the date on which these Regulations are made;
+- “Sites and Monuments Record” means a record of archaeological features and sites adopted—
+  - (a) by resolution of a local authority within the meaning of the Local Government Act 1972[^f00033], or
+  - (b) in Greater London, by the Historic Buildings and Monuments Commission[^f00034];
+- “standard tree”—
+  - (a) in the case of a multi-stemmed tree, means a tree which, when measured at a point 1.3 metres from natural ground level, has at least two stems whose diameters are at least 15 centimetres;
+  - (b) in the case of a single-stemmed tree, means a tree which, when measured at a point 1.3 metres from natural ground level, has a stem whose diameter is at least 20 centimetres;
+- “woodland species” means the species listed in Schedule 2; and
+- “woody species” means the species and sub-species listed in Schedule 3, and any hybrid, that is to say, any individual plant resulting from a cross between parents of any species or sub-species so listed, but does not include any cultivar; and
+
+references to the documents in paragraph 6(3)(b) and (4) are to those documents as at the relevant date, without taking account of any subsequent revisions, supplements or modifications.
+
+### PART II — CRITERIA
+
+#### 1. Archaeology and history[^key-81080621ac62a5b11543677e56ca04b8]
+
+The hedgerow marks the boundary, or part of the boundary, of at least one historic parish or township; and for this purpose “historic” means existing before 1850.
+
+**2.**[^key-58eb544b4cbba18246d51a605e1b2dd2] The hedgerow incorporates an archaeological feature which is—
+
+- (a) included in the schedule of monuments compiled by the Secretary of State under section 1 (schedule of monuments) of the Ancient Monuments and Archaeological Areas Act 1979[^f00035] or in the schedule of monuments maintained by the Welsh Ministers under section 3(1) of the Historic Environment (Wales) Act 2023 *(Extent: W)*[^key-5c15fe21e9c899ed4ce519c32a319b3b]; or
+- (b) recorded at the relevant date in a Sites and Monuments Record.
+
+**3.**[^key-213051d2e993601bb15f461c20734e7d] The hedgerow—
+
+- (a) is situated wholly or partly within an archaeological site included or recorded as mentioned in paragraph 2 or on land adjacent to and associated with such a site; and
+- (b) is associated with any monument or feature on that site.
+
+**4.**[^key-501ed1996cccc4df014cd5fbd62a378e] The hedgerow—
+
+- (a) marks the boundary of a pre-1600 AD estate or manor recorded at the relevant date in a Sites and Monuments Record or in a document held at that date at a Record Office; or
+- (b) is visibly related to any building or other feature of such an estate or manor.
+
+**5.**[^key-e4bd1a39b02ef9b10b9da759b969ccbb] The hedgerow—
+
+- (a) is recorded in a document held at the relevant date at a Record Office as an integral part of a field system pre-dating the Inclosure Acts[^f00036]; or
+- (b) is part of, or visibly related to, any building or other feature associated with such a system, and that system—
+  - (i) is substantially complete; or
+  - (ii) is of a pattern which is recorded in a document prepared before the relevant date by a local planning authority, within the meaning of the 1990 Act[^f00037], for the purposes of development control within the authority’s area, as a key landscape characteristic.
+
+#### 6. Wildlife and landscape[^key-f4217b6ef32650f5f3c08e3079545195]
+
+(1) The hedgerow—
+
+- (a) contains species listed or categorised as mentioned in sub-paragraph (3); or
+- (b) is referred to in a record held immediately before the relevant date by a biological record centre maintained by, or on behalf of, a local authority within the meaning of the Local Government Act 1972[^f00038], and in a form recognised by the Nature Conservancy Council for England, the Natural Resources Body for Wales[^key-041a135e71e200c83132158e63b0d49d] or the Joint Nature Conservation Committee[^f00040], as having contained any such species—
+  - (i) in the case of animals and birds, subject to sub-paragraph (2), within the period of five years immediately before the relevant date.
+  - (ii) in the case of plants, subject to sub-paragraph (2), within the period of ten years immediately before the relevant date;
+
+(2) Where more than one record referable to the period of five or, as the case may be, ten years before the relevant date is held by a particular biological record centre, and the more (or most) recent record does not satisfy the criterion specified in sub-paragraph (1)(b), the criterion is not satisfied (notwithstanding that an earlier record satisfies it).
+
+(3) The species referred to in sub-paragraph (1) are those—
+
+- (a) listed in Part I (protection at all times) of Schedule 1 (birds which are protected by special penalties), Schedule 5 (animals which are protected) or Schedule 8 (plants which are protected) to the Wildlife and Countryside Act 1981[^f00041];
+- (b) categorised as a declining breeder (category 3) in “Red Data Birds in Britain” Batten LA, Bibby CJ, Clement P, Elliott GD and Porter RF (Eds.), published in 1990 for the Nature Conservancy Council and the Royal Society for the Protection of Birds (ISBN 0 85661 056 9); or
+- (c) categorised as “endangered”, “extinct”, “rare” or “vulnerable” in Britain in a document mentioned in sub-paragraph (4).
+
+(4) The documents referred to in sub-paragraph (3)(c) are—
+
+- (a) of the books known as the British Red Data Books:
+  - 1. “Vascular Plants” Perring FH and Farrell L, 2nd Edition, published in 1983 for the Royal Society for Nature Conservation (ISBN 0 902484 04 4);
+  - 2. “Insects” Shirt DB (Ed.), published in 1987 for the Nature Conservancy Council (ISBN 0 86139 380 5); and
+  - 3. “Invertebrates other than insects” Bratton JH (Ed.), published in 1991 for the Joint Nature Conservation Committee (ISBN 1 873701 00 4); and
+- (b) of the books known as the Red Data Books of Britain and Ireland:
+
+  “Stoneworts” Stewart NF and Church JM, published in 1992 for the Joint Nature Conservation Committee (ISBN 1 873701 24 1).
+
+**7.**[^key-ce60fe539ff8e235fe72902c0abbbf43] (1) Subject to sub-paragraph (2), the hedgerow includes—
+
+- (a) at least 7 woody species;
+- (b) at least 6 woody species, and has associated with it at least 3 of the features specified in sub-paragraph (4);
+- (c) at least 6 woody species, including one of the following—
+
+  black-poplar tree *(Populus nigra* ssp *betulifolia)*;
+
+  large-leaved lime *(Tilia platyphyllos)*;
+
+  small-leaved lime *(Tilia cordata)*;
+
+  wild service-tree *(Sorbus torminalis)*; or
+- (d) at least 5 woody species, and has associated with it at least 4 of the features specified in sub-paragraph (4),
+
+and the number of woody species in a hedgerow shall be ascertained in accordance with sub-paragraph (3).
+
+(2) Where the hedgerow in question is situated wholly or partly in the county (as constituted on 1st April 1997) of the City of Kingston upon Hull, Cumbria, Darlington, Durham, East Riding of Yorkshire, Hartlepool, Lancashire, Middlesbrough, North East Lincolnshire, North Lincolnshire, Northumberland, North Yorkshire, Redcar and Cleveland, Stockton-on-Tees, Tyne and Wear, West Yorkshire or York[^f00042], the number of woody species mentioned in paragraphs (a) to (d) of sub-paragraph (1) is to be treated as reduced by one.
+
+(3) For the purposes of sub-paragraph (1) (and those of paragraph 8(b))—
+
+- (a) where the length of the hedgerow does not exceed 30 metres, count the number of woody species present in the hedgerow;
+- (b) where the length of the hedgerow exceeds 30 metres, but does not exceed 100 metres, count the number of woody species present in the central stretch of 30 metres;
+- (c) where the length of the hedgerow exceeds 100 metres, but does not exceed 200 metres, count the number of woody species present in the central stretch of 30 metres within each half of the hedgerow and divide the aggregate by two;
+- (d) where the length of the hedgerow exceeds 200 metres, count the number of woody species present in the central stretch of 30 metres within each third of the hedgerow and divide the aggregate by three.
+
+(4) The features referred to in sub-paragraph (1)(b) and (d) (which include those referred to in paragraph 8(b)) are—
+
+- (a) a bank or wall which supports the hedgerow along at least one half of its length;
+- (b) gaps which in aggregate do not exceed 10% of the length of the hedgerow;
+- (c) where the length of the hedgerow does not exceed 50 metres, at least one standard tree;
+- (d) where the length of the hedgerow exceeds 50 metres but does not exceed 100 metres, at least 2 standard trees;
+- (e) where the length of the hedgerow exceeds 100 metres, such number of standard trees (within any part of its length) as would when averaged over its total length amount to at least one for each 50 metres;
+- (f) at least 3 woodland species within one metre, in any direction, of the outermost edges of the hedgerow;
+- (g) a ditch along at least one half of the length of the hedgerow;
+- (h) connections scoring 4 points or more in accordance with sub-paragraph (5);
+- (i) a parallel hedge within 15 metres of the hedgerow.
+
+(5) For the purposes of sub-paragraph (4)(h) a connection with another hedgerow scores one point and a connection with a pond or a woodland in which the majority of trees are broad-leaved trees scores 2 points; and a hedgerow is connected with something not only if it meets it but also if it has a point within 10 metres of it and would meet it if the line of the hedgerow continued.
+
+**8.**[^key-b427b4cfb6eef8da8bc3c92ffffe11e8] The hedgerow—
+
+- (a) is adjacent to a bridleway or footpath, within the meaning of the Highways Act 1980[^f00043], a road used as a public path, within the meaning of section 54 (duty to reclassify roads used as public paths) of the Wildlife and Countryside Act 1981[^f00044], or a byway open to all traffic, within the meaning of Part III of the Wildlife and Countryside Act 1981[^f00045], and
+- (b) includes at least 4 woody species, ascertained in accordance with paragraph 7(3) and at least 2 of the features specified in paragraph 7(4)(a) to (g).
+
+## SCHEDULE 2 — WOODLAND SPECIES[^key-14881ac5ceb0cf0beda2c5a91d03a2e0]
+
+Regulation 2(3) and Schedule 1, Part I
+
+[^key-14881ac5ceb0cf0beda2c5a91d03a2e0]
+
+- Barren strawberry *(Potentilla sterilis)*
+- Bluebell *(Hyacinthoides non-scriptus)*
+- Broad buckler fern *(Dryopteris dilatata)*
+- Broad-leaved helleborine *(Epipactis helleborine)*
+- Bugle *(Ajuga reptans)*
+- Common cow-wheat *(Melampyrum pratense)*
+- Common dog violet *(Viola riviniana)*
+- Common polypody *(Polypodium vulgare)*
+- Dog’s mercury *(Mercurialis perennis)*
+- Early dog violet *(Viola reichenbachiana)*
+- Early purple orchid *(Orchis mascula)*
+- Enchanter’s nightshade *(Circaea lutetiana)*
+- Giant fescue *(Festuca gigantea)*
+- Goldilocks buttercup *(Ranunculus auricomus)*
+- Great bell-flower *(Campanula latifolia)*
+- Greater wood-rush *(Luzula sylvatica)*
+- Hairy brome *(Bromus ramosus)*
+- Hairy woodrush *(Luzula pilosa)*
+- Hard fern *(Blechnum spicant)*
+- Hard shield fern *(Polystichum aculeatum)*
+- Hart’s tongue *(Asplenium scolopendrium)*
+- Heath bedstraw *(Galium saxatile)*
+- Herb paris *(Paris quadrifolia)*
+- Herb-robert *(Geranium robertianum)*
+- Lady fern *(Athyrium filix-femina)*
+- Lords-and-ladies *(Arum maculatum)*
+- Male fern *(Dryopteris filix-mas)*
+- Moschatel *(Adoxa moschatellina)*
+- Narrow buckler-fern *(Dryopteris carthusiana)*
+- Nettle-leaved bell-flower *(Campanula trachelium)*
+- Oxlip *(Primula elatior)*
+- Pignut *(Conopodium majus)*
+- Primrose *(Primula vulgaris)*
+- Ramsons *(Allium ursinum)*
+- Sanicle *(Sanicula europaea)*
+- Scaly male-fern *(Dryopteris affinis)*
+- Small cow-wheat *(Melampyrum sylvaticum)*
+- Soft shield fern *(Polystichum setiferum)*
+- Sweet violet *(Viola odorata)*
+- Toothwort *(Lathraea squamaria)*
+- Tormentil *(Potentilla erecta)*
+- Wild strawberry *(Fragaria vesca)*
+- Wood anemone *(Anemone nemorosa)*
+- Wood avens/Herb bennet *(Geum urbanum)*
+- Wood false-brome *(Brachypodium sylvaticum)*
+- Wood horsetail *(Equisetum sylvaticum)*
+- Wood meadow-grass *(Poa nemoralis)*
+- Wood melick *(Melica uniflora)*
+- Wood millet *(Millium effusum)*
+- Wood sage *(Teucrium scorodonia)*
+- Wood sedge *(Carex sylvatica)*
+- Wood sorrel *(Oxalis acetosella)*
+- Wood speedwell *(Veronica montana)*
+- Wood spurge *(Euphorbia amygdaloides)*
+- Woodruff *(Galium odoratum)*
+- Yellow archangel *(Lamiastrum galeobdolon)*
+- Yellow pimpernel *(Lysimachia nemorum)*
+
+## SCHEDULE 3 — WOODY SPECIES[^key-d589bc6d315cb302d3b374422c9c0e3d]
+
+Regulation 2(3) and Schedule 1, Part I
+
+[^key-d589bc6d315cb302d3b374422c9c0e3d]
+
+- Alder *(Alnus glutinosa)*
+- Apple, crab *(Malus sylvestris)*
+- Ash *(Fraxinus excelsior)*
+- Aspen *(Populus tremula)*
+- Beech *(Fagus sylvatica)*
+- Birch, downy *(Betula pubescens)*
+- Birch, silver *(Betula pendula)*
+- Black-poplar *(Populus nigra sub-species betulifolia)*
+- Blackthorn *(Prunus spinosa)*
+- Box *(Buxus sempervirens)*
+- Broom *(Cytisus scoparius)*
+- Buckthorn *(Rhamnus cathartica)*
+- Buckthorn, alder *(Frangula alnus)*
+- Butcher’s-broom *(Ruscus aculeatus)*
+- Cherry, bird *(Prunus padus)*
+- Cherry, wild *(Prunus avium)*
+- Cotoneaster, wild *(Cotoneaster integerrimus)*
+- Currant, downy *(Ribes spicatum)*
+- Currant, mountain *(Ribes alpinum)*
+- Dogwood *(Cornus sanguinea)*
+- Elder *(Sambucus nigra)*
+- Elm *(Ulmus species)*
+- Gooseberry *(Ribes uva-crispa)*
+- Gorse *(Ulex europaeus)*
+- Gorse, dwarf *(Ulex minor)*
+- Gorse, western *(Ulex gallii)*
+- Guelder rose *(Viburnum opulus)*
+- Hawthorn *(Crataegus monogyna)*
+- Hawthorn, midland *(Crataegus laevigata)*
+- Hazel *(Corylus avellana)*
+- Holly *(Ilex aquilfolium)*
+- Hornbeam *(Carpinus betulus)*
+- Juniper, common *(Juniperus communis)*
+- Lime, large-leaved *(Tilia platyphyllos)*
+- Lime, small-leaved *(Tilia cordata)*
+- Maple, field *(Acer campestre)*
+- Mezereon *(Daphne mezereum)*
+- Oak, pedunculate *(Quercus robur)*
+- Oak, sessile *(Quercus petraea)*
+- Osier *(Salix viminalis)*
+- Pear, Plymouth *(Pyrus cordata)*
+- Pear, wild *(Pyrus pyraster)*
+- Poplar, grey *(Populus x canescens)*
+- Poplar, white *(Populus alba)*
+- Privet, wild *(Ligustrum vulgare)*
+- Rose *(Rosa species)*
+- Rowan *(Sorbus aucuparia)*
+- Sea-buckthorn *(Hippophae rhamnnoides)*
+- Service-tree, wild *(Sorbus torminalis)*
+- Spindle *(Euonymus europaeus)*
+- Spurge-laurel *(Daphne laureola)*
+- Walnut *(Juglans regia)*
+- Wayfaring-tree *(Viburnum lantana)*
+- Whitebeam *(Sorbus species)*
+- Willow *(Salix species)*
+- Yew *(Taxus baccata)*
+
+## SCHEDULE 4[^key-1a644c0418c7c74714384a42a5b796f7]
+
+Regulation 5(1)
+
+**FORM OF HEDGEROW REMOVAL NOTICE**
+
+The Environment Act 1995
+
+The Hedgerows Regulations 1997
+
+[image: see source](https://www.legislation.gov.uk/uksi/1997/1160/images/uksi_19971160_en_001)
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the protection of important hedgerows in England and Wales. To facilitate the protection of those hedgerows, the Regulations apply to a wider class of hedgerows, described in regulation 3 (in particular to hedgerows which are 20 metres or more long or which meet another hedgerow at each end and which, in each case, are on or adjacent to land used for certain specified purposes).
+
+Before removing any hedgerow, including a stretch of hedgerow, to which these Regulations apply the owner (or in certain cases a relevant utility operator) must notify the local planning authority (regulation 5). The hedgerow may then not be removed if the local planning authority serves a hedgerow retention notice, which may be done only if the hedgerow is important according to the criteria set out in regulation 4 and Schedules 1 to 3. The requirement for the owner (or utility operator) to notify the local planning authority does not apply to the permitted work described in regulation 6.
+
+There are provisions for criminal offences (regulation 7), replacement of hedgerows removed in contravention of the regulations (regulation 8), appeals against hedgerow retention and other notices (regulation 9), record-keeping by the local planning authority (regulation 10), enforcement by injunction (regulation 11) and rights of entry (regulations 12 to 14). There are also provisions for hedgerows owned by the local planning authority (regulation 15) and ecclesiastical property (regulation 16(1)). Some of these further provisions apply provisions of planning legislation and others make provision comparable to that to be found in the planning legislation in connection with appeals or with the preservation of trees.
+
+The criterion for determining important hedgerows set out in paragraph 6 of Part II of Schedule 1 refers to publications known as Red Data Books. Copies of those publications are available from specialist bookshops and are available for inspection between the hours of 9 a.m. and 5 p.m. Monday to Friday at the offices of the Department of the Environment, Eland House, Bressenden Place, London SW1 and of the Welsh Office at Cathay’s Park, Cardiff.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25); *See* the definition of “the appropriate Ministers” in section 97(8).
+
+[^key-7c1cc0911f4db241813b5dcf337d7fb5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/1160) excluded (19.8.2016) by [The North Wales Wind Farms Connection Order 2016 (S.I. 2016/818)](https://www.legislation.gov.uk/uksi/2016/818), [arts. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1), [31(4)](https://www.legislation.gov.uk/uksi/2016/818/article/31/4)[(5)](https://www.legislation.gov.uk/uksi/2016/818/article/31/5) (with [art. 35](https://www.legislation.gov.uk/uksi/2016/818/article/35))
+
+[^key-83ab32ea207bf5a4efc50dee677fb4b6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/1160) excluded (29.3.2017) by [The Glyn Rhonwy Pumped Storage Generating Station Order 2017 (S.I. 2017/330)](https://www.legislation.gov.uk/uksi/2017/330), [arts. 1](https://www.legislation.gov.uk/uksi/2017/330/article/1), [22(4)](https://www.legislation.gov.uk/uksi/2017/330/article/22/4) (with [arts. 22(5)](https://www.legislation.gov.uk/uksi/2017/330/article/22/5), [31](https://www.legislation.gov.uk/uksi/2017/330/article/31))
+
+[^key-1c28f894b517deed9cb41ba4753de370]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-83a7cfdc59d10f365597fdf75ee5075f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/1160/regulation/2) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00002]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00003]: Footnote: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5); *See* section 1 of that Act.
+
+[^f00004]: Footnote: [1965 c. 64](https://www.legislation.gov.uk/ukpga/1965/64); *See* section 22 of that Act.
+
+[^f00005]: Footnote: [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8); *See* sections 1 and 2 of that Act.
+
+[^f00006]: Footnote: Section 97(8) of the Environment Act 1995 defines “hedgerow” as including any stretch of hedgerow.
+
+[^f00007]: Footnote: *See* Part III of the Environment Act 1995, the National Park Authorities (Wales) Order 1995 (S.I. [1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), amended by S.I. [1996/534](https://www.legislation.gov.uk/uksi/1996/534) and [1996/1224](https://www.legislation.gov.uk/uksi/1996/1224)) and the National Park Authorities (England) Order 1996 (S.I. [1996/1243](https://www.legislation.gov.uk/uksi/1996/1243)).
+
+[^f00008]: Footnote: [1988 c. 4](https://www.legislation.gov.uk/ukpga/1988/4). *See* section 1(1) and the definition of “the Broads” in section 2(3).
+
+[^f00009]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97). Section 21 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 30, the Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), Schedule 29 and the Nature Conservancy Council Act [1973 (c. 54)](https://www.legislation.gov.uk/ukpga/1973/54), section 1(1)(b) and (7) and Schedule 1, paragraph 1.
+
+[^f00010]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 28 was amended by the Wildlife and Countryside (Amendment) Act [1985 (c. 31)](https://www.legislation.gov.uk/ukpga/1985/31), section 2, the Norfolk and Suffolk Broads Act [1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4), Schedule 3, paragraph 31, and the Wildlife and Countryside (Service of Notices) Act [1985 (c. 59)](https://www.legislation.gov.uk/ukpga/1985/59), section 1(2).
+
+[^f00011]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^f00012]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44); section 7 was substituted by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45).
+
+[^key-7706b2a48dfa5a46e9cd018f09f72d0e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1997/1160/regulation/2) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/39)
+
+[^f00014]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). *See* the definitions of “function” and “relevant undertaker” in section 219(1).
+
+[^key-7897456e10778f5b9170cea9e042acff]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1997/1160/regulation/3) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^M_C_d5e5921e-6ecd-47bc-8683-f6f60400d23f]: Modification: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/3/3) excluded (1.1.2016) by S.I. 2014/3263, Sch. 2 para. 5(1A) (as inserted by [The Common Agricultural Policy (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1997)](https://www.legislation.gov.uk/uksi/2015/1997), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2), [14(5)(b)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/14/5/b))
+
+[^key-9a649ced62cae2489261f0034732644d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1997/1160/regulation/4) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-6916fd78306aa9bee616dfcfae8cb577]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1997/1160/regulation/5) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00015]: Footnote: *See* the definition of “remove” in section 97(8) of the Environment Act 1995.
+
+[^key-83e0a1704b4f2bd0b8e7659acdcc8c3f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-1cd7235a128cd2d39eeb1c8cfe12e365]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (7.7.2014) by [The East Anglia ONE Offshore Wind Farm Order 2014 (S.I. 2014/1599)](https://www.legislation.gov.uk/uksi/2014/1599), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1), [6](https://www.legislation.gov.uk/uksi/2014/1599/article/6) (with [arts. 37](https://www.legislation.gov.uk/uksi/2014/1599/article/37), [38](https://www.legislation.gov.uk/uksi/2014/1599/article/38), [Sch. 9 para. 19](https://www.legislation.gov.uk/uksi/2014/1599/schedule/9/paragraph/19))
+
+[^key-9812332d4e08b384faffbb9d9d124d7f]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (6.8.2014) by [The Rampion Offshore Wind Farm Order 2014 (S.I. 2014/1873)](https://www.legislation.gov.uk/uksi/2014/1873), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1), [8](https://www.legislation.gov.uk/uksi/2014/1873/article/8) (with [arts. 12](https://www.legislation.gov.uk/uksi/2014/1873/article/12), [13](https://www.legislation.gov.uk/uksi/2014/1873/article/13), [Sch. 12 Pt. 1 para. 19](https://www.legislation.gov.uk/uksi/2014/1873/schedule/12/paragraph/19), [Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/1873/part/2/paragraph/6), [Pt. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1873/part/3/paragraph/5), [Pt. 4 para. 4](https://www.legislation.gov.uk/uksi/2014/1873/part/4/paragraph/4), [Pt. 5 para. 4](https://www.legislation.gov.uk/uksi/2014/1873/part/5/paragraph/4))
+
+[^key-69468bd3e658a18ef780905b38e2005d]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (28.11.2014) by [The Walney Extension Offshore Wind Farm Order 2014 (S.I. 2014/2950)](https://www.legislation.gov.uk/uksi/2014/2950), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1), [7](https://www.legislation.gov.uk/uksi/2014/2950/article/7) (with [arts. 38](https://www.legislation.gov.uk/uksi/2014/2950/article/38), [39](https://www.legislation.gov.uk/uksi/2014/2950/article/39))
+
+[^key-962364d580a3fc3fa917b6db848d2746]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (1.4.2015) by [The Knottingley Power Plant Order 2015 (S.I. 2015/680)](https://www.legislation.gov.uk/uksi/2015/680), [arts. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1), [8](https://www.legislation.gov.uk/uksi/2015/680/article/8) (with [Sch. 8 para. 10](https://www.legislation.gov.uk/uksi/2015/680/schedule/8/paragraph/10))
+
+[^key-2ac616aa8d631b54d06d92f246b5c4ea]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (14.8.2015) by [The Progress Power (Gas Fired Power Station) Order 2015 (S.I. 2015/1570)](https://www.legislation.gov.uk/uksi/2015/1570), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1), [8](https://www.legislation.gov.uk/uksi/2015/1570/article/8)
+
+[^key-4e6bf76adeb986fce7190f2cc2414af7]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (7.9.2016) by [The Hornsea Two Offshore Wind Farm Order 2016 (S.I. 2016/844)](https://www.legislation.gov.uk/uksi/2016/844), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2), [30(5)](https://www.legislation.gov.uk/uksi/2016/844/article/30/5) (with [arts. 37](https://www.legislation.gov.uk/uksi/2016/844/article/37), [38](https://www.legislation.gov.uk/uksi/2016/844/article/38))
+
+[^key-9d3771d62e21ec6f6e1b2d7efd18da4f]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (27.9.2016) by [The Triton Knoll Electrical System Order 2016 (S.I. 2016/880)](https://www.legislation.gov.uk/uksi/2016/880), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2016/880/article/6/1) (with [arts. 39](https://www.legislation.gov.uk/uksi/2016/880/article/39), [40](https://www.legislation.gov.uk/uksi/2016/880/article/40), [Sch. 8 para. 19](https://www.legislation.gov.uk/uksi/2016/880/schedule/8/paragraph/19))
+
+[^key-3735e3863b468def6d6a22a78bd4d285]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (5.4.2017) by [The Keuper Underground Gas Storage Facility Order 2017 (S.I. 2017/433)](https://www.legislation.gov.uk/uksi/2017/433), [arts. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1), [36](https://www.legislation.gov.uk/uksi/2017/433/article/36)
+
+[^key-4c1f764112c9930db227ad46ee220898]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (29.8.2017) by [The East Anglia THREE Offshore Wind Farm Order 2017 (S.I. 2017/826)](https://www.legislation.gov.uk/uksi/2017/826), [arts. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1), [6](https://www.legislation.gov.uk/uksi/2017/826/article/6) (with [arts. 36](https://www.legislation.gov.uk/uksi/2017/826/article/36), [37](https://www.legislation.gov.uk/uksi/2017/826/article/37), [Sch. 8 para. 34](https://www.legislation.gov.uk/uksi/2017/826/schedule/8/paragraph/34))
+
+[^key-c81b2c0338bacf9825486134feb4aac5]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (10.10.2019) by [The Abergelli Power Gas Fired Generating Station Order 2019 (S.I. 2019/1268)](https://www.legislation.gov.uk/uksi/2019/1268), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1), [43](https://www.legislation.gov.uk/uksi/2019/1268/article/43)
+
+[^key-cac01d8b6f356d94d55c6dfd763f7cfb]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (22.7.2020) by [The Norfolk Vanguard Offshore Wind Farm Order 2020 (S.I. 2020/706)](https://www.legislation.gov.uk/uksi/2020/706), [arts. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1), [7(1)](https://www.legislation.gov.uk/uksi/2020/706/article/7/1) (with [arts. 41](https://www.legislation.gov.uk/uksi/2020/706/article/41), [42](https://www.legislation.gov.uk/uksi/2020/706/article/42), [Sch. 16 para. 66](https://www.legislation.gov.uk/uksi/2020/706/schedule/16/paragraph/66))
+
+[^key-d40a91592da4feace656f23ce213e6e1]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (22.1.2021) by [The Hornsea Three Offshore Wind Farm Order 2020 (S.I. 2020/1656)](https://www.legislation.gov.uk/uksi/2020/1656), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/6/1) (with [arts. 40](https://www.legislation.gov.uk/uksi/2020/1656/article/40), [41](https://www.legislation.gov.uk/uksi/2020/1656/article/41), [Sch. 9 Pt. 5 para. 18](https://www.legislation.gov.uk/uksi/2020/1656/schedule/9/part/5/paragraph/18))
+
+[^key-89fc1dfc3a5ee71258807b03be50a5dd]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (1.1.2022) by [The Norfolk Boreas Offshore Wind Farm Order 2021 (S.I. 2021/1414)](https://www.legislation.gov.uk/uksi/2021/1414), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1), [7(1)](https://www.legislation.gov.uk/uksi/2021/1414/article/7/1) (with [arts. 41](https://www.legislation.gov.uk/uksi/2021/1414/article/41), [42](https://www.legislation.gov.uk/uksi/2021/1414/article/42), [Sch. 17 para. 66](https://www.legislation.gov.uk/uksi/2021/1414/schedule/17/paragraph/66))
+
+[^key-4150c9a3848ce1319defd0a232196e03]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (5.3.2022) by [The Norfolk Vanguard Offshore Wind Farm Order 2022 (S.I. 2022/138)](https://www.legislation.gov.uk/uksi/2022/138), [arts. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1), [7(1)](https://www.legislation.gov.uk/uksi/2022/138/article/7/1) (with [arts. 41](https://www.legislation.gov.uk/uksi/2022/138/article/41), [42](https://www.legislation.gov.uk/uksi/2022/138/article/42), [Sch. 16](https://www.legislation.gov.uk/uksi/2022/138/schedule/16))
+
+[^key-bd97df91864350a567310101428088d6]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (22.4.2022) by [The East Anglia TWO Offshore Wind Farm Order 2022 (S.I. 2022/433)](https://www.legislation.gov.uk/uksi/2022/433), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2022/433/article/6/1) (with [arts. 40](https://www.legislation.gov.uk/uksi/2022/433/article/40), [41](https://www.legislation.gov.uk/uksi/2022/433/article/41))
+
+[^key-07b582e62459c96af4896101df251bdb]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (22.4.2022) by [The East Anglia ONE North Offshore Wind Farm Order 2022 (S.I. 2022/432)](https://www.legislation.gov.uk/uksi/2022/432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2022/432/article/6/1) (with [arts. 40](https://www.legislation.gov.uk/uksi/2022/432/article/40), [41](https://www.legislation.gov.uk/uksi/2022/432/article/41))
+
+[^key-577375e1e4f00d546dc9d1521ec57d40]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (27.4.2022) by [The Little Crow Solar Park Order 2022 (S.I. 2022/436)](https://www.legislation.gov.uk/uksi/2022/436), [arts. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2022/436/article/6/1)
+
+[^key-abc5ee6b3a0b0d887a3fd3450cbf6163]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (3.8.2023) by [The Hornsea Four Offshore Wind Farm Order 2023 (S.I. 2023/800)](https://www.legislation.gov.uk/uksi/2023/800), [arts. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2023/800/article/6/1) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2023/800/article/6/2), [42](https://www.legislation.gov.uk/uksi/2023/800/article/42), [43](https://www.legislation.gov.uk/uksi/2023/800/article/43), [Sch. 9 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2023/800/schedule/9/part/1/paragraph/4), [Pt. 3 para. 6(1)](https://www.legislation.gov.uk/uksi/2023/800/part/3/paragraph/6/1), [Pt. 4 para. 20](https://www.legislation.gov.uk/uksi/2023/800/part/4/paragraph/20), [Pt. 9 para. 4](https://www.legislation.gov.uk/uksi/2023/800/part/9/paragraph/4))
+
+[^key-4486206470342de330cd0098f00a8a72]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (3.8.2024) by [The Mallard Pass Solar Farm Order 2024 (S.I. 2024/796)](https://www.legislation.gov.uk/uksi/2024/796), [arts. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2024/796/article/6/3) (with [Sch. 15](https://www.legislation.gov.uk/uksi/2024/796/schedule/15))
+
+[^key-3491bfa6bb3e656374835f88d0638508]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (17.2.2025) by [The Heckington Fen Solar Park Order 2025 (S.I. 2025/85)](https://www.legislation.gov.uk/uksi/2025/85), [arts. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2025/85/article/6/3) (with [art. 43](https://www.legislation.gov.uk/uksi/2025/85/article/43), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/85/schedule/13))
+
+[^key-86162391c02e617892c83603f18366b9]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (4.4.2025) by [The North Lincolnshire Green Energy Park Order 2025 (S.I. 2025/362)](https://www.legislation.gov.uk/uksi/2025/362), [arts. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1), [11(1)](https://www.legislation.gov.uk/uksi/2025/362/article/11/1) (with [Sch. 14](https://www.legislation.gov.uk/uksi/2025/362/schedule/14))
+
+[^key-122e18d76939fa2bbc09a49cde4a5329]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (28.4.2025) by [The Rampion 2 Offshore Wind Farm Order 2025 (S.I. 2025/468)](https://www.legislation.gov.uk/uksi/2025/468), [arts. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2025/468/article/6/1) (with [arts. 47](https://www.legislation.gov.uk/uksi/2025/468/article/47), [48](https://www.legislation.gov.uk/uksi/2025/468/article/48), [Sch. 10](https://www.legislation.gov.uk/uksi/2025/468/schedule/10))
+
+[^key-698fd7fd48638997e6eaec2ed131ff32]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (25.6.2025) by [The M5 Junction 10 Development Consent Order 2025 (S.I. 2025/795)](https://www.legislation.gov.uk/uksi/2025/795), [arts. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/795/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/795/article/4), [43](https://www.legislation.gov.uk/uksi/2025/795/article/43), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/795/schedule/9))
+
+[^key-6164d1e879248db7c4d57752c80b105a]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (11.7.2025) by [The Oaklands Farm Solar Park Order 2025 (S.I. 2025/739)](https://www.legislation.gov.uk/uksi/2025/739), [arts. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2025/739/article/6/2) (with [Sch. 10](https://www.legislation.gov.uk/uksi/2025/739/schedule/10))
+
+[^key-7fca63d93663eb01c2238b0b926f0734]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (22.10.2025) by [The A46 Newark Bypass Development Consent Order 2025 (S.I. 2025/1090)](https://www.legislation.gov.uk/uksi/2025/1090), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/1090/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/1090/article/4), [9](https://www.legislation.gov.uk/uksi/2025/1090/article/9), [51](https://www.legislation.gov.uk/uksi/2025/1090/article/51), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1090/schedule/9))
+
+[^key-369d9e5103455998535410b9bb778a24]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (5.11.2025) by [The Tillbridge Solar Order 2025 (S.I. 2025/1105)](https://www.legislation.gov.uk/uksi/2025/1105), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2025/1105/article/6/3) (with [art. 49](https://www.legislation.gov.uk/uksi/2025/1105/article/49), [Sch. 15](https://www.legislation.gov.uk/uksi/2025/1105/schedule/15))
+
+[^key-f1546b00c6e7c33c881b6c91df1d3f5c]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2025/1175/article/8/2) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
+
+[^key-cacb462e8f65b151e824c926f3a8b3ba]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (8.1.2026) by [The Five Estuaries Offshore Wind Farm Order 2025 (S.I. 2025/1376)](https://www.legislation.gov.uk/uksi/2025/1376), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1), [8(h)](https://www.legislation.gov.uk/uksi/2025/1376/article/8/h) (with [arts. 39](https://www.legislation.gov.uk/uksi/2025/1376/article/39), [40](https://www.legislation.gov.uk/uksi/2025/1376/article/40), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1376/schedule/9))
+
+[^key-9c6532be177dc69238b0d86f8545ddcd]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (25.2.2026) by [S.I. 2023/734](https://www.legislation.gov.uk/uksi/2023/734), [art. 6(5)](https://www.legislation.gov.uk/uksi/2023/734/article/6/5) (as inserted by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [6](https://www.legislation.gov.uk/uksi/2026/397/article/6))
+
+[^key-e7547a3f44ace2ef8ee92848c281d10e]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (4.3.2026) by [The Outer Dowsing Offshore Wind Farm Order 2026 (S.I. 2026/138)](https://www.legislation.gov.uk/uksi/2026/138), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/138/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2026/138/article/6/1) (with [arts. 42](https://www.legislation.gov.uk/uksi/2026/138/article/42), [43](https://www.legislation.gov.uk/uksi/2026/138/article/43), [Sch. 18](https://www.legislation.gov.uk/uksi/2026/138/schedule/18))
+
+[^key-f12a37da04b424cb0cae4c1791e05a0b]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (5.6.2026) by [The North Falls Offshore Wind Farm Order 2026 (S.I. 2026/567)](https://www.legislation.gov.uk/uksi/2026/567), [arts. 1](https://www.legislation.gov.uk/uksi/2026/567/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2026/567/article/6/a) (with [arts. 44](https://www.legislation.gov.uk/uksi/2026/567/article/44), [45](https://www.legislation.gov.uk/uksi/2026/567/article/45), [Sch. 14](https://www.legislation.gov.uk/uksi/2026/567/schedule/14))
+
+[^key-745224915c4c0ecdde631cd80b711c4d]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6) modified (14.9.2026) by [The Beacon Fen Energy Park Order 2026 (S.I. 2026/1025)](https://www.legislation.gov.uk/uksi/2026/1025), [arts. 1](https://www.legislation.gov.uk/uksi/2026/1025/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2026/1025/article/8/2) (with [art. 39](https://www.legislation.gov.uk/uksi/2026/1025/article/39), [Sch. 11 para. 131](https://www.legislation.gov.uk/uksi/2026/1025/schedule/11/paragraph/131))
+
+[^key-a0d05dafe2042578cca7291f5cebe09c]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) applied (with modifications) (7.1.2015) by [The Willington C Gas Pipeline Order 2014 (S.I. 2014/3328)](https://www.legislation.gov.uk/uksi/2014/3328), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/3328/article/3/1)
+
+[^key-d6d284be5808943a1ba14dd760fb2b89]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (11.3.2015) by [The Dogger Bank Creyke Beck Offshore Wind Farm Order 2015 (S.I. 2015/318)](https://www.legislation.gov.uk/uksi/2015/318), [arts. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1), [10(8)](https://www.legislation.gov.uk/uksi/2015/318/article/10/8) (with [arts. 40](https://www.legislation.gov.uk/uksi/2015/318/article/40), [41](https://www.legislation.gov.uk/uksi/2015/318/article/41), [Sch. 12](https://www.legislation.gov.uk/uksi/2015/318/schedule/12))
+
+[^key-46299f17a0afe8fd4578ff0a73e5a7a7]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (26.8.2015) by [The Dogger Bank Teesside A and B Offshore Wind Farm Order 2015 (S.I. 2015/1592)](https://www.legislation.gov.uk/uksi/2015/1592), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2015/1592/article/11/2) (with [arts. 40](https://www.legislation.gov.uk/uksi/2015/1592/article/40), [41](https://www.legislation.gov.uk/uksi/2015/1592/article/41))
+
+[^key-fc2f895e3cc50b7ad2a701da3c233990]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (25.3.2016) by [The Thorpe Marsh Gas Pipeline Order 2016 (S.I. 2016/297)](https://www.legislation.gov.uk/uksi/2016/297), [arts. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1), [9](https://www.legislation.gov.uk/uksi/2016/297/article/9) (with [art. 39](https://www.legislation.gov.uk/uksi/2016/297/article/39))
+
+[^key-3eed56a37ab152b5d4c4529cdb7e06ff]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (9.5.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm Order 2024 (S.I. 2024/564)](https://www.legislation.gov.uk/uksi/2024/564), [arts. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2024/564/article/6/2) (with [arts. 35](https://www.legislation.gov.uk/uksi/2024/564/article/35), [36](https://www.legislation.gov.uk/uksi/2024/564/article/36), [Sch. 14](https://www.legislation.gov.uk/uksi/2024/564/schedule/14))
+
+[^key-def52b509833426d5ae4ada70695dc09]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (4.10.2024) by [The National Grid (Bramford to Twinstead Reinforcement) Order 2024 (S.I. 2024/958)](https://www.legislation.gov.uk/uksi/2024/958), [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1), [Sch. 15 para. 1](https://www.legislation.gov.uk/uksi/2024/958/schedule/15/paragraph/1) (with [art. 40](https://www.legislation.gov.uk/uksi/2024/958/article/40), [Sch. 14](https://www.legislation.gov.uk/uksi/2024/958/schedule/14))
+
+[^key-55af57ed2baa853c350eb799cc5139ce]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (30.4.2026) by [The Springwell Solar Farm Order 2026 (S.I. 2026/419)](https://www.legislation.gov.uk/uksi/2026/419), [arts. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2026/419/article/6/3) (with [art. 48](https://www.legislation.gov.uk/uksi/2026/419/article/48))
+
+[^key-1a203eac816d4a9bea3d1f85653cc0d5]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (5.6.2026) by [The Dogger Bank South East and West Offshore Wind Farms Order 2026 (S.I. 2026/577)](https://www.legislation.gov.uk/uksi/2026/577), [arts. 1](https://www.legislation.gov.uk/uksi/2026/577/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2026/577/article/6/2) (with [arts. 40](https://www.legislation.gov.uk/uksi/2026/577/article/40), [41](https://www.legislation.gov.uk/uksi/2026/577/article/41), [Sch. 15](https://www.legislation.gov.uk/uksi/2026/577/schedule/15))
+
+[^key-4b2547f4deb0e2a214bd4e27a5ff966b]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1) modified (30.7.2026) by [The One Earth Solar Farm Order 2026 (S.I. 2026/934)](https://www.legislation.gov.uk/uksi/2026/934), [arts. 1](https://www.legislation.gov.uk/uksi/2026/934/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2026/934/article/6/3) (with [art. 47](https://www.legislation.gov.uk/uksi/2026/934/article/47))
+
+[^f00016]: Footnote: S.I. [1995/418](https://www.legislation.gov.uk/uksi/1995/418).
+
+[^f00017]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). *See* the definition of “drainage” in section 72(1), as substituted by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 100(2).
+
+[^f00018]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). *See* the definition of “drainage” in section 113(1), as amended by the Environment Act 1995, section 100(1).
+
+[^f00019]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). *See*, in particular, section 2(1)(a)(iii).
+
+[^f00020]: Footnote: S.I. [1993/1320](https://www.legislation.gov.uk/uksi/1993/1320); a relevant amending instrument is S.I. [1995/1358](https://www.legislation.gov.uk/uksi/1995/1358). The definition of “plant pest” is contained in article 2(1) of the Order.
+
+[^f00021]: Footnote: S.I. [1993/1283](https://www.legislation.gov.uk/uksi/1993/1283). The definition of “tree pest” is contained in article 2(1) of the Order.
+
+[^key-cfcc984d8f744b4d737c32a211045299]: Textual amendment: Words in [reg. 6(1)(h)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1/h) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 35(2)(a)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/35/2/a)
+
+[^key-d8f1a24b8dc8697dc58f699f37d76114]: Textual amendment: Words in [reg. 6(1)(h)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1/h) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 35(2)(b)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/35/2/b)
+
+[^key-ccc0e466a096abec81df7ee79d1d46c7]: Textual amendment: Words in [reg. 6(1)(h)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/1/h) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 35(2)(c)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/35/2/c)
+
+[^f00022]: Footnote: *See* Part I of the Highways Act [1980 (c. 66)](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00023]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^key-28287a89e9e02ab73b3bcce473d2cebe]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/6/4) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 35(3)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/35/3)
+
+[^key-978680afdfd626398bcd10760a561343]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1997/1160/regulation/7) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-6b301f1d0c98d684ca49db2b51e792b5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1997/1160/regulation/8) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-2d6a5e26961d4ef1bc51d556191afb54]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1997/1160/regulation/9) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00024]: Footnote: Section 322A was added by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 30.
+
+[^key-3f16c922f1f06edc06b44ad39d633aa8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1997/1160/regulation/10) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-446d1d6cce640b1923e9fba9453463f7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1997/1160/regulation/11) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-c474a184cce5407d5ccd421549543206]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1997/1160/regulation/12) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-2b8b948f0ae7726ec77da7bd67a25e1f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1997/1160/regulation/13) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-c68443de1f84cd1bc72b2697fa9d2d5c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1997/1160/regulation/14) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-fa299401d3f9c4090cac7bcad6d77b3b]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/14/5) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 93(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/93/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^key-574c50940364d3697fbe73be28c1c0f6]: Textual amendment: Word in [reg. 14(6)](https://www.legislation.gov.uk/uksi/1997/1160/regulation/14/6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 93(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/93/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+
+[^f00025]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
+
+[^key-691d078b42ad0929a086c8b3b48e6fc2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/1160/regulation/15) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00026]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^key-a7267b3b91d1d4d583784c19471dcddb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/1160/regulation/16) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00027]: Footnote: Section 318(3) and (6) was amended by the Planning and Compensation Act 1991, Schedule 15, paragraph 30.
+
+[^f00028]: Footnote: Subsection (4) was inserted by the Planning and Compensation Act 1991, Schedule 7, paragraph 51.
+
+[^key-afc51d0cd5b8941e8f642242053dc477]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/part/1) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00029]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
+
+[^f00030]: Footnote: [1922 c. 16](https://www.legislation.gov.uk/ukpga/1922/16); section 144A was inserted by the Law of Property (Amendment) Act [1924 (c. 5)](https://www.legislation.gov.uk/ukpga/1924/5), Schedule 2.
+
+[^f00031]: Footnote: [1928 c. 2](https://www.legislation.gov.uk/ukpga/1928/2).
+
+[^f00032]: Footnote: [1962 c. 56](https://www.legislation.gov.uk/ukpga/1962/56).
+
+[^f00033]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00034]: Footnote: The Commission was established by section 32 of the National Heritage Act [1993 (c. 47)](https://www.legislation.gov.uk/ukpga/1993/47).
+
+[^key-81080621ac62a5b11543677e56ca04b8]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/1) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-58eb544b4cbba18246d51a605e1b2dd2]: Commencement: [Sch. 1 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/2) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00035]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
+
+[^key-5c15fe21e9c899ed4ce519c32a319b3b]: Textual amendment: Words in [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/2/a) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/uksi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/924/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2024/924/regulation/21)
+
+[^key-213051d2e993601bb15f461c20734e7d]: Commencement: [Sch. 1 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/3) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-501ed1996cccc4df014cd5fbd62a378e]: Commencement: [Sch. 1 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/4) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-e4bd1a39b02ef9b10b9da759b969ccbb]: Commencement: [Sch. 1 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/5) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00036]: Footnote: *See* the Short Titles Act [1896 (c. 14)](https://www.legislation.gov.uk/ukpga/1896/14).
+
+[^f00037]: Footnote: *See* section 1 of the Town and Country Planning Act 1990, as amended by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^key-f4217b6ef32650f5f3c08e3079545195]: Commencement: [Sch. 1 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/6) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00038]: Footnote: *See* the definition of “local authority” in section 270(1), as amended by the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 17 and the Local Government (Wales) Act 1994, Schedule 1, paragraphs 1 and 57.
+
+[^key-041a135e71e200c83132158e63b0d49d]: Textual amendment: Words in [Sch. 1 para. 6(1)(b)](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/6/1/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 66(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/66/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^f00040]: Footnote: *See* section 128(4) of the Environmental Protection Act 1990.
+
+[^f00041]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Schedule 5 is amended by S.I. [1988/288](https://www.legislation.gov.uk/uksi/1988/288), [1989/906](https://www.legislation.gov.uk/uksi/1989/906), [1991/367](https://www.legislation.gov.uk/uksi/1991/367) and [1992/2350](https://www.legislation.gov.uk/uksi/1992/2350).
+
+[^key-ce60fe539ff8e235fe72902c0abbbf43]: Commencement: [Sch. 1 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/7) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00042]: Footnote: In relation to the City of Kingston upon Hull, North and North East Lincolnshire and the East Riding of Yorkshire, *see* S.I. [1995/600](https://www.legislation.gov.uk/uksi/1995/600); to Darlington and Durham, *see* S.I. [1995/1772](https://www.legislation.gov.uk/uksi/1995/1772); to Hartlepool, Middlesbrough, Redcar and Cleveland and Stockton-on-Tees, *see* S.I. [1995/1747](https://www.legislation.gov.uk/uksi/1995/1747); to Lancashire, *see* S.I. [1996/1868](https://www.legislation.gov.uk/uksi/1996/1868); and to North Yorkshire and York, *see* S.I. [1995/610](https://www.legislation.gov.uk/uksi/1995/610).
+
+[^key-b427b4cfb6eef8da8bc3c92ffffe11e8]: Commencement: [Sch. 1 Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/1997/1160/schedule/1/paragraph/8) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^f00043]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). *See* the definition of “bridleway” and “footpath” in section 3.
+
+[^f00044]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^f00045]: Footnote: *See* the definition in section 66(1).
+
+[^key-14881ac5ceb0cf0beda2c5a91d03a2e0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1997/1160/schedule/2) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-d589bc6d315cb302d3b374422c9c0e3d]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1997/1160/schedule/3) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)
+
+[^key-1a644c0418c7c74714384a42a5b796f7]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1997/1160/schedule/4) in force at 1.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1160/regulation/1)

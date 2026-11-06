@@ -1,0 +1,802 @@
+---
+title: The Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011
+id: uksi/2011/1606
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-06-25'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1606
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1606/pdfs/uksiem_20111606_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1606/pdfs/uksi_20111606_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1606/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 1606
+
+Companies
+
+The Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011
+
+Made
+
+25th June 2011
+
+Laid before Parliament
+
+1st July 2011
+
+Coming into force
+
+1st August 2011
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the creation, operation, regulation or dissolution of companies and other forms of business organisation [^f00002].
+
+In exercise of the powers conferred by section 2(2) of that Act, the Secretary of State makes the following Regulations.
+
+## PART 1 — INTRODUCTORY
+
+### 1. Citation, commencement and application[^key-223514de0db0eb90f9deb396f9a332df]
+
+(1) These Regulations may be cited as the Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011.
+
+(2) They come into force on 1st August 2011 but they do not apply in relation to any merger or division the draft terms of which were adopted before that date.
+
+## PART 2 — AMENDMENTS TO PART 17 OF THE COMPANIES ACT 2006
+
+### 2. Public company: valuation of non-cash consideration for shares: exceptions[^key-61cdcc4036cf1b82cff134b686ff334a]
+
+(1) Section 595 of the Companies Act 2006[^f00003] (exception to valuation requirement: merger) is amended as follows.
+
+(2) In subsection (1), for “in connection with a proposed merger with another company” substitute—
+
+> as part of a scheme to which Part 27 (mergers and divisions of public companies) applies if—
+>
+> - (a) in the case of a scheme involving a merger, an expert’s report is drawn up as required by section 909, or
+> - (b) in the case of a scheme involving a division, an expert’s report is drawn up as required by section 924.
+
+.
+
+(3) Omit subsections (2) and (3).
+
+(4) In the following places, after “merger” add “or division”—
+
+- (a) the heading to section 595, and
+- (b) the reference to that section in section 593(4).
+
+## PART 3 — AMENDMENTS TO PART 27 OF THE COMPANIES ACT 2006
+
+**3.**[^key-5d43a5b9cac5621d102052de6766f7b8] The Companies Act 2006 is amended as set out in this Part; and accordingly any reference in this Part to a numbered section is to that section of that Act.
+
+### 4. Relationship of Part 27 to Part 26[^key-8026782ad37ff24142d8bff15858554b]
+
+In section 903 (relationship of Part 27 to Part 26), in subsection (2), for “918” substitute “918A”.
+
+### 5. Publication of draft terms (merger)[^key-0bdd6e997b46f0ba6ffd7a068057a3b7]
+
+(1) At the end of section 906 (publication of draft terms (merger)) add—
+
+> (4) The requirements in this section are subject to section 906A (publication of draft terms on company website).
+
+.
+
+(2) In the heading to that section, after “**draft terms**” insert “**by registrar**”.
+
+**6.**[^key-d913868b476bc26a49b65041ca149908] After section 906 insert—
+
+> **906A. Publication of draft terms on company website (merger)**
+>
+> (1) Section 906 does not apply in respect of a company if the conditions in subsections (2) to (6) are met.
+>
+> (2) The first condition is that the draft terms are made available on a website which—
+>
+> - (a) is maintained by or on behalf of the company, and
+> - (b) identifies the company.
+>
+> (3) The second condition is that neither access to the draft terms on the website nor the supply of a hard copy of them from the website is conditional on payment of a fee or otherwise restricted.
+>
+> (4) The third condition is that the directors of the company deliver to the registrar a notice giving details of the website.
+>
+> (5) The fourth condition is that the registrar publishes the notice in the Gazette at least one month before the date of any meeting of the company summoned for the purpose of approving the scheme.
+>
+> (6) The fifth condition is that the draft terms remain available on the website throughout the period beginning one month before, and ending on, the date of any such meeting.
+
+.
+
+### 7. Directors’ explanatory report (merger)[^key-6c5e1bee4cb332af03b807043133624f]
+
+In section 908 (directors’ explanatory report (merger)), at the end of subsection (3) add “, section 915A (other circumstances in which reports and inspection not required) and section 918A (agreement to dispense with reports etc).”.
+
+### 8. Expert’s report (merger)[^key-dc51bce54895fac9c1b7cd3908a2d850]
+
+In section 909(7) (expert’s report), after “section 915 (circumstances in which reports not required)” insert “, section 915A (other circumstances in which reports and inspection not required)”.
+
+### 9. Supplementary accounting statement (merger)[^key-b6a98241905e3bc6404d73f4d8719407]
+
+(1) Section 910 (supplementary accounting statement (merger)) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) This section applies if the last annual accounts of any of the merging companies relate to a financial year ending before—
+>
+> - (a) the date seven months before the first meeting of the company summoned for the purposes of approving the scheme, or
+> - (b) if no meeting of the company is required (by virtue of any of sections 916 to 918), the date six months before the directors of the company adopt the draft terms of the scheme.
+>
+> (1A) If the company has not made public a half-yearly financial report relating to a period ending on or after the date mentioned in subsection (1), the directors of the company must prepare a supplementary accounting statement.
+
+.
+
+(3) After subsection (4) add—
+
+> (5) In this section “half-yearly financial report” means a report of that description required to be made public by rules under section 89A of the Financial Services and Markets Act 2000[^f00004] (transparency rules).
+>
+> (6) The requirement in this section is subject to section 915A (other circumstances in which reports and inspection not required) and section 918A (agreement to dispense with reports etc).
+
+.
+
+### 10. Inspection of documents (merger)[^key-8e74d6403496427f894e7c420a8931cd]
+
+(1) Section 911 (inspection of documents (merger)) is amended as follows.
+
+(2) In subsection (3), omit “and” at the end of paragraph (d) and after paragraph (e) add—
+
+> ; and
+>
+> - (f) if no statement is required by section 910 because the company has made public a recent half-yearly financial report (see subsection (1A) of that section), that report.
+
+.
+
+(3) After subsection (3) insert—
+
+> (3A) The requirement in subsection (1)(a) is subject to section 911A(1) (publication of documents on company website).
+
+.
+
+(4) At the end of subsection (4) add “and section 918A (agreement to dispense with reports etc)”.
+
+(5) At the end add—
+
+> (5) Section 1145 (right to hard copy) does not apply to a document sent or supplied in accordance with subsection (1)(b) to a member who has consented to information being sent or supplied by the company by electronic means and has not revoked that consent.
+>
+> (6) Part 4 of Schedule 5 (communications by means of a website) does not apply for the purposes of subsection (1)(b) (but see section 911A(5)).
+>
+> (7) The requirements in this section are subject to section 915A (other circumstances in which reports and inspection not required).
+
+.
+
+**11.**[^key-eca3529cddb3378fc6b8547342eb61be] After section 911 insert—
+
+> **911A. Publication of documents on company website (merger)**
+>
+> (1) Section 911(1)(a) does not apply to a document if the conditions in subsections (2) to (4) are met in relation to that document.
+>
+> This is subject to subsection (6).
+>
+> (2) The first condition is that the document is made available on a website which—
+>
+> - (a) is maintained by or on behalf of the company, and
+> - (b) identifies the company.
+>
+> (3) The second condition is that access to the document on the website is not conditional on payment of a fee or otherwise restricted.
+>
+> (4) The third condition is that the document remains available on the website throughout the period beginning one month before, and ending on, the date of any meeting of the company summoned for the purpose of approving the scheme.
+>
+> (5) A person is able to obtain a copy of a document as required by section 911(1)(b) if—
+>
+> - (a) the conditions in subsections (2) and (3) are met in relation to that document, and
+> - (b) the person is able, throughout the period specified in subsection (4)—
+>   - (i) to retain a copy of the document as made available on the website, and
+>   - (ii) to produce a hard copy of it.
+>
+> (6) Where members of a company are able to obtain copies of a document only as mentioned in subsection (5), section 911(1)(a) applies to that document even if the conditions in subsections (2) to (4) are met.
+
+.
+
+### 12. Report on material changes of assets etc (merger)[^key-8619133568fc9cd732b6bffc964cf047]
+
+After section 911A (inserted by Regulation 11) insert—
+
+> **911B. Report on material changes of assets of merging companies**
+>
+> (1) The directors of each of the merging companies must report—
+>
+> - (a) to every meeting of the members, or any class of members, of that company summoned for the purpose of agreeing to the scheme, and
+> - (b) to the directors of every other merging company,
+>
+> any material changes in the property and liabilities of that company between the date when the draft terms were adopted and the date of the meeting in question.
+>
+> (2) The directors of each of the other merging companies must in turn—
+>
+> - (a) report those matters to every meeting of the members, or any class of members, of that company summoned for the purpose of agreeing to the scheme, or
+> - (b) send a report of those matters to every member entitled to receive notice of such a meeting.
+>
+> (3) The requirement in this section is subject to section 915A (other circumstances in which reports and inspection not required) and section 918A (agreement to dispense with reports etc).
+
+.
+
+### 13. Approval of articles of new transferee company (merger)[^key-b5cddb933a9d64de42694b4e59bd29c0]
+
+In section 912 (approval of articles of new transferee company), omit “the transferor company or, as the case may be,”.
+
+### 14. Reports and inspection not required if minority shareholders have right to sell out (merger)[^key-0de510770e3f58a78ffbfe89641dc020]
+
+After section 915 insert—
+
+> **915A. Other circumstances in which reports and inspection not required (merger)**
+>
+> (1)  This section applies in the case of a merger by absorption where 90% or more (but not all) of the relevant securities of the transferor company (or, if there is more than one transferor company, of each of them) are held by or on behalf of the transferee company.
+>
+> (2)  If the conditions in subsections (3) and (4) are met, the requirements of the following sections do not apply—
+>
+> - (a) section 908 (directors’ explanatory report),
+> - (b) section 909 (expert’s report),
+> - (c) section 910 (supplementary accounting statement),
+> - (d) section 911 (inspection of documents), and
+> - (e) section 911B (report on material changes of assets of merging company).
+>
+> (3)  The first condition is that the scheme provides that every other holder of relevant securities has the right to require the transferee company to acquire those securities.
+>
+> (4)  The second condition is that, if a holder of securities exercises that right, the consideration to be given for those securities is fair and reasonable.
+>
+> (5) The powers of the court under section 900(2) (power to facilitate reconstruction or amalgamation) include the power to determine, or make provision for the determination of, the consideration to be given for securities acquired under this section.
+>
+> (6)  In this section—
+>
+> - “other holder” means a person who holds securities of the transferor company otherwise than on behalf of the transferee company (and does not include the transferee company itself);
+> - “relevant securities”, in relation to a company, means shares or other securities carrying the right to vote at general meetings of the company.
+
+.
+
+### 15. Circumstances in which meeting of members of transferee company not required (merger)[^key-4c347478c80deec6d2692d1f3b0afa6d]
+
+(1) Section 916 (circumstances in which meeting of members of transferee company not required (merger)) is amended as follows.
+
+(2) For subsection (3) substitute—
+
+> (3) The first condition is that either subsection (3A) or subsection (3B) is satisfied.
+>
+> (3A) This subsection is satisfied if publication of notice of receipt of the draft terms by the registrar took place in respect of the transferee company at least one month before the date of the first meeting of members, or any class of members, of the transferor company summoned for the purpose of agreeing to the scheme.
+>
+> (3B) This subsection is satisfied if—
+>
+> - (a) the conditions in section 906A(2) to (4) are met in respect of the transferee company,
+> - (b) the registrar published the notice mentioned in subsection (4) of that section in the Gazette at least one month before the date of the first meeting of members, or any class of members, of the transferor company summoned for the purpose of agreeing to the scheme, and
+> - (c) the draft terms remained available on the website throughout the period beginning one month before, and ending on, that date.
+
+.
+
+(3) For subsection (4) substitute—
+
+> (4) The second condition is that subsection (4A) or (4B) is satisfied for each of the documents listed in the applicable paragraphs of section 911(3)(a) to (f) relating to the transferee company and the transferor company (or, if there is more than one transferor company, each of them).
+>
+> (4A) This subsection is satisfied for a document if the members of the transferee company were able during the period beginning one month before, and ending on, the date mentioned in subsection (3A) to inspect that document at the registered office of that company.
+>
+> (4B) This subsection is satisfied for a document if—
+>
+> - (a) the document is made available on a website which is maintained by or on behalf of the transferee company and identifies the company,
+> - (b) access to the document on the website is not conditional on the payment of a fee or otherwise restricted, and
+> - (c) the document remains available on the website throughout the period beginning one month before, and ending on, the date mentioned in subsection (3A).
+>
+> (4C) The third condition is that the members of the transferee company were able to obtain copies of the documents mentioned in subsection (4), or any part of those documents, on request and free of charge, throughout the period beginning one month before, and ending on, the date mentioned in subsection (3A).
+>
+> (4D) For the purposes of subsection (4C)—
+>
+> - (a) section 911A(5) applies as it applies for the purposes of section 911(1)(b), and
+> - (b) Part 4 of Schedule 5 (communications by means of a website) does not apply.
+
+.
+
+(4) In subsection (5) for “third” substitute “fourth”.
+
+### 16. Circumstances in which no meetings required (merger)[^key-d453042ede8a914157d1ac691e36bc27]
+
+(1) Section 917 (circumstances in which no meetings required (merger)) is amended as follows.
+
+(2) For subsection (3) substitute—
+
+> (3) The first condition is that either subsection (3A) or subsection (3B) is satisfied.
+>
+> (3A) This subsection is satisfied if publication of notice of receipt of the draft terms by the registrar took place in respect of all the merging companies at least one month before the date of the court’s order.
+>
+> (3B) This subsection is satisfied if—
+>
+> - (a) the conditions in section 906A(2) to (4) are met in respect of each of the merging companies,
+> - (b) in each case, the registrar published the notice mentioned in subsection (4) of that section in the Gazette at least one month before the date of the court’s order, and
+> - (c) the draft terms remained available on the website throughout the period beginning one month before, and ending on, that date.
+
+.
+
+(3) For subsection (4) substitute—
+
+> (4) The second condition is that subsection (4A) or (4B) is satisfied for each of the documents listed in the applicable paragraphs of section 911(3)(a) to (f) relating to the transferee company and the transferor company (or, if there is more than one transferor company, each of them).
+>
+> (4A) This subsection is satisfied for a document if the members of the transferee company were able during the period beginning one month before, and ending on, the date mentioned in subsection (3A) to inspect that document at the registered office of that company.
+>
+> (4B) This subsection is satisfied for a document if—
+>
+> - (a) the document is made available on a website which is maintained by or on behalf of the transferee company and identifies the company,
+> - (b) access to the document on the website is not conditional on the payment of a fee or otherwise restricted, and
+> - (c) the document remains available on the website throughout the period beginning one month before, and ending on, the date mentioned in subsection (3A).
+>
+> (4C) The third condition is that the members of the transferee company were able to obtain copies of the documents mentioned in subsection (4), or any part of those documents, on request and free of charge, throughout the period beginning one month before, and ending on, the date mentioned in subsection (3A).
+>
+> (4D) For the purposes of subsection (4C)—
+>
+> - (a) section 911A(5) applies as it applies for the purposes of section 911(1)(b), and
+> - (b) Part 4 of Schedule 5 (communications by means of a website) does not apply.
+
+.
+
+(4) In subsection (5) for “third” substitute “fourth”.
+
+### 17. Other circumstances in which meeting of members of transferee company not required (merger)[^key-0d0ee60e09381eb71bd70fa84ca0164c]
+
+(1) Section 918 (other circumstances in which meeting of members of transferee company not required (merger)) is amended as follows.
+
+(2) For subsection (2) substitute—
+
+> (2)  The first condition is that either subsection (2A) or subsection (2B) is satisfied.
+>
+> (2A) This subsection is satisfied if publication of notice of receipt of the draft terms by the registrar took place in respect of the transferee company at least one month before the date of the first meeting of members, or any class of members, of the transferor company (or, if there is more than one transferor company, any of them) summoned for the purposes of agreeing to the scheme.
+>
+> (2B) This subsection is satisfied if—
+>
+> - (a) the conditions in section 906A(2) to (4) are met in respect of the transferee company,
+> - (b) the registrar published the notice mentioned in subsection (4) of that section in the Gazette at least one month before the date of the first meeting of members, or any class of members, of the transferor company (or, if there is more than one transferor company, any of them) summoned for the purposes of agreeing to the scheme, and
+> - (c) the draft terms remained available on the website throughout the period beginning one month before, and ending on, that date.
+
+.
+
+(3) For subsection (3) substitute—
+
+> (3) The second condition is that subsection (3A) or (3B) is satisfied for each of the documents listed in the applicable paragraphs of section 911(3) relating to the transferee company and the transferor company (or, if there is more than one transferor company, each of them).
+>
+> (3A) This subsection is satisfied for a document if the members of the transferee company were able during the period beginning one month before, and ending on, the date of any such meeting as is mentioned in subsection (2A) to inspect that document at the registered office of that company.
+>
+> (3B) This subsection is satisfied for a document if—
+>
+> - (a) the document is made available on a website which is maintained by or on behalf of the transferee company and identifies the company,
+> - (b) access to the document on the website is not conditional on the payment of a fee or otherwise restricted, and
+> - (c) the document remains available on the website throughout the period beginning one month before, and ending on, the date of any such meeting as is mentioned in subsection (2A).
+>
+> (3C) The third condition is that the members of the transferee company were able to obtain copies of the documents mentioned in subsection (3), or any part of those documents, on request and free of charge, throughout the period beginning one month before, and ending on, the date of any such meeting as is mentioned in subsection (2A).
+>
+> (3D) For the purposes of subsection (3C)—
+>
+> - (a) section 911A(5) applies as it applies for the purposes of section 911(1)(b), and
+> - (b) Part 4 of Schedule 5 (communications by means of a website) does not apply.
+
+.
+
+(4) In subsection (4) for “third” substitute “fourth”.
+
+### 18. Agreement to dispense with report (merger)[^key-a666705c0af476a206d738ea0a2c30e1]
+
+(1) Section 918A[^f00005] (agreement to dispense with expert’s report (merger)) is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) for “the companies involved in the merger” substitute “the merging companies”;
+- (b) for “the requirement of section 909 (expert’s report) does not apply” substitute “the following requirements do not apply”.
+
+(3) After subsection (1) insert—
+
+> (1A) The requirements that may be dispensed with under this section are—
+>
+> - (a) the requirements of—
+>   - (i) section 908 (directors’ explanatory report),
+>   - (ii) section 909 (expert’s report),
+>   - (iii) section 910 (supplementary accounting statement), and
+>   - (iv) section 911B (report on material changes of assets of merging company); and
+> - (b) the requirements of section 911 (inspection of documents) so far as relating to any document required to be drawn up under sections 908, 909 or 910.
+
+.
+
+(4) In the section heading, for “**expert’s report**” substitute “**reports etc**”.
+
+### 19. Publication of draft terms (division)[^key-b17e5e28a479be03a5cdf6a8e78027f7]
+
+(1) In section 921 (publication of draft terms (division)), in subsection (4), after “subject to” insert “section 921A (publication of draft terms on company website) and”.
+
+(2) In the heading to that section, after “**draft terms**” insert “**by registrar**”.
+
+**20.**[^key-c0a1e08586a52a3dcc88d5b16e83c92e] After section 921 insert—
+
+> **921A. Publication of draft terms on company website (division)**
+>
+> (1) Section 921 does not apply in respect of a company if the conditions in subsections (2) to (6) are met.
+>
+> (2) The first condition is that the draft terms are made available on a website which—
+>
+> - (a) is maintained by or on behalf of the company, and
+> - (b) identifies the company.
+>
+> (3) The second condition is that neither access to the draft terms on the website nor the supply of a hard copy of them from the website is conditional on payment of a fee or otherwise restricted.
+>
+> (4) The third condition is that the directors of the company deliver to the registrar a notice giving details of the website.
+>
+> (5) The fourth condition is that the registrar publishes the notice in the Gazette at least one month before the date of any meeting of the company summoned for the purpose of approving the scheme.
+>
+> (6) The fifth condition is that the draft terms remain available on the website throughout the period beginning one month before, and ending on, the date of any such meeting.
+
+.
+
+### 21. Directors’ explanatory report (division)[^key-4499b3a8a5a2699552de7999f80a35da]
+
+In section 923(4) (directors’ explanatory report) after “section 933 (agreement to dispense with reports etc)” add “and section 933A (certain requirements excluded where shareholders given proportional rights)”.
+
+### 22. Expert’s report (division)[^key-c1abebf0725683b4360027a4cb656e4c]
+
+In section 924(7) (expert’s report) after “section 933 (agreement to dispense with reports etc)” add “and section 933A (certain requirements excluded where shareholders given proportional rights)”.
+
+### 23. Supplementary accounting statement (division)[^key-570a37ded3e5d5127ad984896840d045]
+
+(1) Section 925 (supplementary accounting statement (division)) is amended as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) This section applies if the last annual accounts of a company involved in the division relate to a financial year ending before—
+>
+> - (a) the date seven months before the first meeting of the company summoned for the purposes of approving the scheme, or
+> - (b) if no meeting of the company is required (by virtue of section 931 or 932), the date six months before the directors of the company adopt the draft terms of the scheme.
+>
+> (1A) If the company has not made public a half-yearly financial report relating to a period ending on or after the date mentioned in subsection (1), the directors of the company must prepare a supplementary accounting statement.
+
+.
+
+(3) After subsection (4) insert—
+
+> (4A) In this section “half-yearly financial report” means a report of that description required to be made public by rules under section 89A of the Financial Services and Markets Act 2000 (transparency rules).
+
+.
+
+(4) In subsection (5), after “section 933 (agreement to dispense with reports etc)” add “and section 933A (certain requirements excluded where shareholders given proportional rights)”.
+
+### 24. Inspection of documents (division)[^key-61870568c18f85827c7777c159f9d336]
+
+(1) Section 926 (inspection of documents (division)) is amended as follows.
+
+(2) In subsection (3), omit “and” at the end of paragraph (d) and after paragraph (e) add—
+
+> ; and
+>
+> - (f) if no statement is required by section 925 because the company has made public a recent half-yearly financial report (see subsection (1A) of that section), that report.
+
+.
+
+(3) After subsection (3) insert—
+
+> (3A) The requirement in subsection (1)(a) is subject to section 926A(1) (publication of documents on company website).
+
+.
+
+(4) In subsection (4), after “section 933 (agreement to dispense with reports etc)” insert “, section 933A (certain requirements excluded where shareholders given proportional rights)”.
+
+(5) At the end add—
+
+> (5) Section 1145 (right to hard copy) does not apply to a document sent or supplied in accordance with subsection (1)(b) to a member who has consented to information being sent or supplied by the company by electronic means and has not revoked that consent.
+>
+> (6) Part 4 of Schedule 5 (communications by means of a website) does not apply for the purposes of subsection (1)(b) (but see section 926A(5)).
+
+.
+
+**25.**[^key-a6e3fbdbbaef8f1cdc436f8675444c8c] After section 926 insert—
+
+> **926A. Publication of documents on company website (division)**
+>
+> (1) Section 926(1)(a) does not apply to a document if the conditions in subsections (2) to (4) are met in relation to that document.
+>
+> This is subject to subsection (6).
+>
+> (2) The first condition is that the document is made available on a website which—
+>
+> - (a) is maintained by or on behalf of the company, and
+> - (b) identifies the company.
+>
+> (3) The second condition is that access to the document on the website is not conditional on payment of a fee or otherwise restricted.
+>
+> (4) The third condition is that the document remains available on the website throughout the period beginning one month before, and ending on, the date of any meeting of the company summoned for the purpose of approving the scheme.
+>
+> (5) A person is able to obtain a copy of a document as required by section 926(1)(b) if—
+>
+> - (a) the conditions in subsections (2) and (3) are met in relation to that document, and
+> - (b) the person is able, throughout the period specified in subsection (4)—
+>   - (i) to retain a copy of the document as made available on the website, and
+>   - (ii) to produce a hard copy of it.
+>
+> (6) Where members of a company are able to obtain copies of a document only as mentioned in subsection (5), section 926(1)(a) applies to that document even if the conditions in subsections (2) to (4) are met.
+
+.
+
+### 26. Report on material changes of assets of transferor company (division)[^key-c17b1b20a3f4b0fa977af28a6e7ff06e]
+
+In section 927(3) (report on material changes of assets of transferor company), after “section 933 (agreement to dispense with reports etc)” add “and section 933A (certain requirements excluded where shareholders given proportional rights)”.
+
+### 27. Circumstances in which meeting of members of transferor company not required (division)[^key-a03ca8a9f0cada6832af0683e3b16e38]
+
+(1) Section 931 (circumstances in which meeting of members of transferor company not required (division)) is amended as follows.
+
+(2) For subsection (3) substitute—
+
+> (3) The first condition is that either subsection (3A) or subsection (3B) is satisfied.
+>
+> (3A) This subsection is satisfied if publication of notice of receipt of the draft terms by the registrar took place in respect of all the companies involved in the division at least one month before the date of the court’s order.
+>
+> (3B) This subsection is satisfied if—
+>
+> - (a) the conditions in section 921A(2) to (4) are met in respect of each of the companies involved in the division,
+> - (b) in each case, the registrar published the notice mentioned in subsection (4) of that section in the Gazette at least one month before the date of the court’s order, and
+> - (c) the draft terms remained available on the website throughout the period beginning one month before, and ending on, that date.
+
+.
+
+(3) For subsection (4) substitute—
+
+> (4)  The second condition is that subsection (4A) or (4B) is satisfied for each of the documents listed in the applicable paragraphs of section 926(3) relating to every company involved in the division.
+>
+> (4A)  This subsection is satisfied for a document if the members of every company involved in the division were able during the period beginning one month before, and ending on, the date of the court’s order to inspect that document at the registered office of their company.
+>
+> (4B)  This subsection is satisfied for a document if—
+>
+> - (a) the document is made available on a website which is maintained by or on behalf of the company to which it relates and identifies the company,
+> - (b) access to the document on the website is not conditional on payment of a fee or otherwise restricted, and
+> - (c) the document remains available on the website throughout the period beginning one month before, and ending on, the date of the court’s order.
+>
+> (4C)  The third condition is that the members of every company involved in the division were able to obtain copies of the documents mentioned in subsection (4), or any part of those documents, on request and free of charge, throughout the period beginning one month before, and ending on, the date of the court’s order.
+>
+> (4D)  For the purposes of subsection (4C)—
+>
+> - (a) section 926A(5) applies as it applies for the purposes of section 926(1)(b), and
+> - (b) Part 4 of Schedule 5 (communications by means of a website) does not apply.
+
+.
+
+(4) Omit subsection (5) (the third condition).
+
+### 28. Circumstances in which meeting of members of transferee company not required (division)[^key-c112f281bf04bfa527221732c4f5db61]
+
+(1) Section 932 (circumstances in which meeting of members of transferee company not required (division)) is amended as follows.
+
+(2) For subsection (2) substitute—
+
+> (2) The first condition is that either subsection (2A) or subsection (2B) is satisfied.
+>
+> (2A) This subsection is satisfied if publication of notice of receipt of the draft terms by the registrar took place in respect of the transferee company at least one month before the date of the first meeting of members of the transferor company summoned for the purposes of agreeing to the scheme.
+>
+> (2B) This subsection is satisfied if—
+>
+> - (a) the conditions in section 921A(2) to (4) are met in respect of the transferee company,
+> - (b) the registrar published the notice mentioned in subsection (4) of that section in the Gazette at least one month before the date of the first meeting of members of the transferor company summoned for the purposes of agreeing to the scheme, and
+> - (c) the draft terms remained available on the website throughout the period beginning one month before, and ending on, that date.
+
+.
+
+(3) For subsection (3) substitute—
+
+> (3) The second condition is that subsection (3A) or (3B) is satisfied for each of the documents listed in the applicable paragraphs of section 926(3) relating to the transferee company and every other company involved in the division.
+>
+> (3A)  This subsection is satisfied for a document if the members of the transferee company were able during the period beginning one month before, and ending on, the date mentioned in subsection (2A) to inspect that document at the registered office of that company.
+>
+> (3B)  This subsection is satisfied for a document if—
+>
+> - (a) the document is made available on a website which is maintained by or on behalf of the transferee company and identifies the company,
+> - (b) access to the document on the website is not conditional on payment of a fee or otherwise restricted, and
+> - (c) the document remains available on the website throughout the period beginning one month before, and ending on, the date mentioned in subsection (2A).
+>
+> (3C)  The third condition is that the members of the transferee company were able to obtain copies of the documents mentioned in subsection (3), or any part of those documents, on request and free of charge, throughout the period beginning one month before, and ending on, the date mentioned in subsection (2A).
+>
+> (3D) For the purposes of subsection (3C)—
+>
+> - (a) section 926A(5) applies as it applies for the purposes of section 926(1)(b), and
+> - (b) Part 4 of Schedule 5 (communications by means of a website) does not apply.
+
+.
+
+(4) In subsection (4), for “third” substitute “fourth”.
+
+(5) In subsection (5), for “first and second” substitute “first, second and third”.
+
+### 29. Certain requirements excluded where shareholders given proportional rights (division)[^key-fe49dfea0a402973d69b47d40cfc4454]
+
+After section 933 insert—
+
+> **933A. Certain requirements excluded where shareholders given proportional rights (division)**
+>
+> (1) This section applies in the case of a division where each of the transferee companies is a new company.
+>
+> (2) If all the shares in each of the transferee companies are to be allotted to the members of the transferor company in proportion to their rights in the allotted share capital of the transferor company, the following requirements do not apply.
+>
+> (3) The requirements which do not apply are—
+>
+> - (a) the requirements of—
+>   - (i) section 923 (directors’ explanatory report),
+>   - (ii) section 924 (expert’s report),
+>   - (iii) section 925 (supplementary accounting statement), and
+>   - (iv) section 927 (report on material changes in assets of transferor company); and
+> - (b) the requirements of section 926 (inspection of documents) so far as relating to any document required to be drawn up under the provisions mentioned in paragraph (a)(i), (ii) or (iii) above.
+
+.
+
+### 30. Power of court to exclude certain requirements (division)[^key-82b0b6adedd58e3b653e77f78b07c2a3]
+
+In section 934(1)(b) (power of court to direct that certain conditions in section 932 do not apply), for “first and second” substitute “first, second and third”.
+
+### 31. Disruption of websites[^key-c350b0a63c680836b67c6e3f96ec7a54]
+
+After section 940 insert—
+
+> **Disruption of websites**
+>
+> **940A. Disregard of website failures beyond control of company**
+>
+> (1) A failure to make information or a document available on the website throughout a period specified in any of the provisions mentioned in subsection (2) is to be disregarded if—
+>
+> - (a) it is made available on the website for part of that period, and
+> - (b) the failure to make it available throughout that period is wholly attributable to circumstances that it would not be reasonable to have expected the company to prevent or avoid.
+>
+> (2) The provisions referred to above are—
+>
+> - (a) section 906A(6),
+> - (b) section 911A(4),
+> - (c) section 916(3B) and (4B),
+> - (d) section 917(3B) and (4B),
+> - (e) section 918(2B) and (3B),
+> - (f) section 921A(6),
+> - (g) section 926A(4),
+> - (h) section 931(3B) and (4B), and
+> - (i) section 932(2B) and (3B).
+
+.
+
+## PART 4 — AMENDMENTS TO COMPANIES (CROSS-BORDER MERGERS) REGULATIONS 2007[^key-93b956add9c74e322632b6082d27eda0]
+
+**No longer in force.**
+
+### 32. Amendment to Companies (Cross-Border Mergers) Regulations 2007[^key-93b956add9c74e322632b6082d27eda0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**33.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**35.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**36.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**37.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**38.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Edward Davey
+
+Minister for Employment Relations, Consumer and Postal Affairs
+
+Department for Business, Innovation and Skills
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under section 2(2) of the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68) to implement the provisions of Directive [2009/109/EC](https://www.legislation.gov.uk/european/directive/2009/0109) of the European Parliament and of the Council of 16 September 2009 (OJ I259, 2.10.2009, p.14) (“the 2009 Directive”).
+
+This Directive amends—
+
+- Council Directive [77/91/EEC](https://www.legislation.gov.uk/european/directive/1977/0091) (OJ L26, 31.1.1977, p.1) (“the Second Directive”) on the coordination of safeguards which, for the protection of the interests of members and others, are required by Member States of companies within the meaning of the second paragraph of Article 58 of the Treaty in respect of the formation of public limited liability companies and the maintenance and alteration of their capital,
+- Council Directive [78/855/EEC](https://www.legislation.gov.uk/european/directive/1978/0855) (OJ L295, 20.10.1978, p.36) (“the Third Directive”) concerning mergers of public limited liability companies,
+- Council Directive [82/891/EEC](https://www.legislation.gov.uk/european/directive/1982/0891) (OJ L378, 31.12.1982, p.47) (“the Sixth Directive”) concerning the division of public limited liability companies, and
+- Directive [2005/56/EC](https://www.legislation.gov.uk/european/directive/2005/0056) of the European Parliament and of the Council (OJ L310, 25.11.2005, p.1) (“the Cross-Border Mergers Directive”) concerning cross-border mergers of limited liability companies.
+
+The amendments made by the 2009 Directive relate to reporting and other requirements in the case of mergers and divisions carried out in accordance with the provisions of the Third, Sixth and Cross-Border Mergers Directives.
+
+These Regulations implement the 2009 Directive by amending provisions of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46) and the Companies (Cross-Border Mergers) Regulations 2007 ([S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974)), which implement the above Directives.
+
+Regulation 2 amends section 595 of the Companies Act 2006 (“the Act”) to provide that a report by an expert on the valuation of non-cash consideration for the allotment of shares is not required in the case of scheme involving a merger or division where a report on the draft terms of the merger or division is prepared by an expert in accordance with sections 909 (merger) or 924 (division).
+
+Regulations 6 (merger) and 20 (division) respectively, insert sections 906A and 921A into the Act. These provide for publication of the draft terms of merger or division on a company’s website. There are consequential amendments in regulations 5, 15(2), 16(2), and 17(2) to sections 906, 916, 917 and 918, and in regulations 19, 27(2) and 28(2) to sections 921, 931 and 932. Regulation 37 makes a similar amendment to the Companies (Cross-Border Mergers) Regulations 2007 by inserting new regulation 12A, and regulation 36 makes a consequential amendment to regulation 12 of those Regulations.
+
+Regulations 9 (merger) and 23 (division) respectively, amend sections 910 and 925 to provide for a supplementary accounting statement to be prepared by the directors in certain circumstances. Consequential amendments are made in regulation 10(2), 18(3) and 24(2) to sections 911, 918A and 926.
+
+Regulations 10 (merger) and 24 (division) amend respectively, sections 911 and 926, and regulations 11 (merger) and 25 (division) insert new sections 911A and 926A. Provision is made for a member to consent to obtain documents electronically, and for the company to provide for inspection of documents by placing them on the company’s website as an alternative to inspection at the registered office. Consequential amendments are made in regulations 15(3), 16(3), 17(3) to sections 916, 917 and 918 and in 27(3) and 28(3) to sections 931 and 932.
+
+Regulation 12 inserts section 911B to provide that the directors must make a report to the members of the companies involved in the merger of any material changes in the property and liabilities of the company between the date when they adopted the draft terms of the merger and the meeting of members to approve the merger.
+
+Regulation 14 inserts section 915A to provide that reports and inspection of documents are not required in the case of a merger by absorption where minority shareholders have a right to sell out.
+
+Regulation 29 inserts section 933A to provide for the exclusion of certain requirements where shareholders are allotted to them in proportion to their rights in the share capital of the company.
+
+Regulation 31 inserts section 940A to make provision in those sections which permit use of company websites for website failures beyond the control of the company.
+
+Other regulations contain minor consequential amendments to the Companies Act 2006 arising out of amendments made elsewhere in these Regulations.
+
+A full regulatory impact assessment of the effect that these Regulations will have on the cost of business and the voluntary sector is available from the Department for Business, Innovation and Skills, 1 Victoria Street, London SW1H 0ET or on the BIS website www.bis.gov.uk, and is annexed along with a Transposition Note, to the Explanatory Memorandum which is published alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00002]: Footnote: [S.I. 2007/193](https://www.legislation.gov.uk/uksi/2007/193).
+
+[^key-223514de0db0eb90f9deb396f9a332df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-61cdcc4036cf1b82cff134b686ff334a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1606/regulation/2) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). There are amendments to the Act which are not relevant to these Regulations.
+
+[^key-5d43a5b9cac5621d102052de6766f7b8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1606/regulation/3) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-8026782ad37ff24142d8bff15858554b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/1606/regulation/4) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-0bdd6e997b46f0ba6ffd7a068057a3b7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1606/regulation/5) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-d913868b476bc26a49b65041ca149908]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/1606/regulation/6) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-6c5e1bee4cb332af03b807043133624f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/1606/regulation/7) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-dc51bce54895fac9c1b7cd3908a2d850]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/1606/regulation/8) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-b6a98241905e3bc6404d73f4d8719407]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/1606/regulation/9) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^f00004]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 89A was inserted by section 1266 of the Companies Act 2006.
+
+[^key-8e74d6403496427f894e7c420a8931cd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/1606/regulation/10) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-eca3529cddb3378fc6b8547342eb61be]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/1606/regulation/11) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-8619133568fc9cd732b6bffc964cf047]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2011/1606/regulation/12) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-b5cddb933a9d64de42694b4e59bd29c0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/1606/regulation/13) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-0de510770e3f58a78ffbfe89641dc020]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2011/1606/regulation/14) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-4c347478c80deec6d2692d1f3b0afa6d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2011/1606/regulation/15) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-d453042ede8a914157d1ac691e36bc27]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/1606/regulation/16) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-0d0ee60e09381eb71bd70fa84ca0164c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/1606/regulation/17) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-a666705c0af476a206d738ea0a2c30e1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2011/1606/regulation/18) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^f00005]: Footnote: Section 918A was inserted into the Companies Act 2006 by [S.I. 2008/690](https://www.legislation.gov.uk/uksi/2008/690).
+
+[^key-b17e5e28a479be03a5cdf6a8e78027f7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/1606/regulation/19) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-c0a1e08586a52a3dcc88d5b16e83c92e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/1606/regulation/20) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-4499b3a8a5a2699552de7999f80a35da]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2011/1606/regulation/21) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-c1abebf0725683b4360027a4cb656e4c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2011/1606/regulation/22) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-570a37ded3e5d5127ad984896840d045]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2011/1606/regulation/23) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-61870568c18f85827c7777c159f9d336]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2011/1606/regulation/24) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-a6e3fbdbbaef8f1cdc436f8675444c8c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2011/1606/regulation/25) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-c17b1b20a3f4b0fa977af28a6e7ff06e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2011/1606/regulation/26) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-a03ca8a9f0cada6832af0683e3b16e38]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2011/1606/regulation/27) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-c112f281bf04bfa527221732c4f5db61]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2011/1606/regulation/28) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-fe49dfea0a402973d69b47d40cfc4454]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2011/1606/regulation/29) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-82b0b6adedd58e3b653e77f78b07c2a3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2011/1606/regulation/30) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-c350b0a63c680836b67c6e3f96ec7a54]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2011/1606/regulation/31) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+
+[^key-93b956add9c74e322632b6082d27eda0]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2011/1606/part/4) revoked (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [regs. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [5(c)](https://www.legislation.gov.uk/uksi/2019/348/regulation/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

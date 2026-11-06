@@ -1,0 +1,170 @@
+---
+title: The Child Benefit (Northern Ireland Reciprocal Arrangements) Regulations 1977
+id: uksi/1977/7
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1977-01-06'
+text_date: '1999-09-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1977/7
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1977/7/pdfs/uksi_19770007_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1977/7/pdfs/uksi_19770007_en.pdf
+- http://www.legislation.gov.uk/uksi/1977/7/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Child Benefit (Northern Ireland Reciprocal Arrangements) Regulations 1977
+
+> Text as at 1999-09-01.
+
+1977 No. 7
+
+SOCIAL SECURITY
+
+The Child Benefit (Northern Ireland Reciprocal Arrangements) Regulations 1977
+
+Made
+
+6th January 1977
+
+Laid before Parliament
+
+17th January 1977
+
+Coming into Operation
+
+7th February 1977
+
+The Secretary of State for Social Services, in exercise of powers conferred upon him by section 14 of the Child Benefit Act 1975 and of all other powers enabling him in that behalf, hereby makes the following regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Child Benefit (Northern Ireland Reciprocal Arrangements) Regulations 1977 and shall come into operation on 7th February 1977.
+
+(2) Any reference in these regulations to any provision made by or contained in any enactment or instrument shall, except in so far as the context otherwise requires, be construed as a reference to that provision as amended or extended by any enactment or instrument.
+
+(3) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889[^M_X_f0f48667-2125-4252-ad75-5279ff644022] shall apply for the purposes of the interpretation of these regulations as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Modification of the Child Benefit Act 1975 and certain regulations
+
+(1) The provisions contained in the Memorandum of Reciprocal Arrangements set out in Schedule 1 to these regulations shall have effect so far as the same relate to Great Britain, and Part I of the Child Benefit Act 1975 and regulations made under that Part shall have effect subject to such modifications as may be required in them for the purpose of giving effect to the said provisions.
+
+(2) In particular and without prejudice to paragraph (1) above any provision of Part I of the Child Benefit Act 1975 specified in column 1 of Schedule 2 to these regulations (“the column 1 provision”) shall be adapted so that any act, omission, event or other matter to which the provision of the Northern Ireland legislation specified in the corresponding paragraph of column 2 of the said Schedule relates is deemed to be an act, omission, event or other matter to which the column 1 provision relates; and in that provision references to the Secretary of State shall be construed as including references to the Department of Health and Social Services for Northern Ireland.
+
+David Ennals
+
+Secretary of State for Social Services
+
+## SCHEDULE 1 — MEMORANDUM OF RECIPROCAL ARRANGEMENTS RELATING TO SCHEMES OF CHILD BENEFIT MADE BETWEEN THE SECRETARY OF STATE FOR SOCIAL SERVICES, WITH THE CONSENT OF THE TREASURY, OF THE ONE PART AND THE DEPARTMENT OF HEALTH AND SOCIAL SERVICES FOR NORTHERN IRELAND, WITH THE CONSENT OF THE DEPARTMENT OF FINANCE FOR NORTHERN IRELAND, OF THE OTHER PART
+
+Regulation 2(1)
+
+**1.** (1) In this Memorandum, unless the context otherwise requires:—
+
+- “legislation" means–[^key-8b181a6cde9d7e6481d40a9445d1a5fa]
+  - (a) in relation to Great Britain, the Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992 and Chapter II of Part I of the Social Security Act 1998, insofar as their provisions relate to the scheme of child benefit contained in Part IX of the Social Security Contributions and Benefits Act 1992, and
+  - (b) in relation to Northern Ireland, the Social Security Administration (Northern Ireland) Act 1992, the Social Security Contributions and Benefits (Northern Ireland) Act 1992 and Chapter II of Part II of the Social Security (Northern Ireland) Order 1998, insofar as their provisions relate to the scheme of child benefit contained in Part IX of the Social Security Contributions and Benefits (Northern Ireland) Act 1992,
+
+  in each case as amended, modified, adapted, extended, supplemented, replaced or consolidated by any subsequent enactment or by any instrument other than one made for the purpose only of giving effect to the provisions of any agreement applying to one of the two territories with the government of any country outside the United Kingdom providing for reciprocity in matters relating to payments for purposes similar or comparable to the purposes of those schemes of child benefit;
+- “**the Residence and Persons Abroad Regulations**” means, in relation to Great Britain[^key-7d83df9c8213f37a354d98d5b751a5f1], the Child Benefit (Residence and Persons Abroad) Regulations 1976 and, in relation to Northern Ireland[^key-5aaface3cd0d24ca5370585a2b5b97f8], the Child Benefit (Residence and Persons Abroad) Regulations (Northern Ireland) 1976;
+- “**claimant**” means a person who has claimed child benefit and the expression includes, in relation to an award or decision, a person entitled to receive child benefit under the award or directly affected by the decision;
+- “determining authority" means, in relation to Great Britain, the Secretary of State, an appeal tribunal, a Commissioner, an adjudication officer or a social security appeal tribunal, as the case may require, and in relation to Northern Ireland, the Department of Health and Social Services for Northern Ireland, an appeal tribunal, a Commissioner, an adjudication officer or a social security appeal tribunal, as the case may require;[^key-6a193822ad0e5a13efd0a9986b973d5c]
+- [^key-72c1c77aa240534539cb3f07b76a479e]...
+- “**territory**” means Great Britain or Northern Ireland, as the case may require.
+
+(2) Unless the context requires otherwise, in the application of this Memorandum to a territory, expressions used in this memorandum shall have the same respective meanings as in the legislation[^key-88a76e4333c4ddcfc192725c1153d90c] which relates to that territory.
+
+(3) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of this Memorandum as they apply for the purposes of the interpretation of an Act of Parliament.
+
+**2.** For the purposes of all or any of the provisions of the legislation[^key-14d343499c1736cd0f980076199d0f74], acts, omissions and events, and in particular presence, employment and the claiming or payment of child benefit, having effect for all or any of those purposes in one territory shall have corresponding effect for all or any of those purposes in the other territory.
+
+**3.** An appeal from, revision of or supersession[^key-a10dcc84e5ac48193e5b7e2d440bfaca] of any decision of a determining authority under the legislation of one territory may, if the claimant is in the other territory, be decided by a determining authority under the legislation of the other territory.
+
+**4.** Part II of the Residence and Persons Abroad Regulations shall not apply to a person who is absent from a territory for any period during which he is present in the other territory.
+
+**5.** Notwithstanding the provisions of Articles 2 and 3 of this Memorandum:—
+
+- (a) where a person would be entitled to child benefit in respect of the same child for the same week under the legislation of both Great Britain and Northern Ireland[^key-1e9dfbf48be727a4ec53b92889197b46], he shall only be entitled to the benefit payable under the legislation of the Party in whose territory he is present;
+- (b) where two or more persons would be entitled to child benefit in respect of the same child for the same week under the legislation of either Great Britain or Northern Ireland[^key-0f7a6eb3cdc0b3faab7e1c8992f5c60e] or both, one of them only shall be entitled; and the question of which of them is entitled shall be determined in accordance with the legislation of the Party in whose territory the child is present.
+
+**6.** The arrangements in this Memorandum shall come into operation on 7th February 1977, but either Party may terminate them by giving not less than six months' notice in writing to the other.
+
+## SCHEDULE 2 — ADAPTATIONS OF CERTAIN PROVISIONS OF THE CHILD BENEFIT ACT 1975
+
+Regulation 2(2)
+
+<table>
+<thead>
+<tr><th>1</th><th>2</th><th>3</th></tr>
+<tr><th>Provision of the Child Benefit Act 1975</th><th>Provision of the Child Benefit (Northern Ireland) Order 1975</th><th>Subject matter</th></tr>
+</thead>
+<tbody>
+<tr><td>Section 11</td><td>Article 13</td><td>Offences and prosecutions</td></tr>
+<tr><td>Section 12</td><td>Article 14</td><td>Benefit to be inalienable</td></tr>
+</tbody>
+</table>
+
+[^M_X_8ce0cb63-9223-4452-8b1d-bd56868d553e][^M_X_7f6c440f-1368-4c4f-8462-756ff0a984aa]
+
+Signed, on 16th November 1976.
+
+David Ennals
+
+Secretary of State for Social Services
+
+We consent.
+
+J. Dormand
+
+David Stoddart
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on 8th December 1976.
+
+N. Dugdale
+
+Secretary
+
+The Department of Finance for Northern Ireland hereby consents.
+
+W.E. Bell
+
+Secretary
+
+EXPLANATORY NOTE
+
+These Regulations give effect in Great Britain to reciprocal arrangements relating to matters for which provision is made in Great Britain by Part I of the Child Benefit Act 1975. The arrangements are contained in the Memorandum set out in Schedule 1 to the Regulations and have been made between the Secretary of State for Social Services and the Department of Health and Social Services for Northern Ireland. The Regulations make adaptations to provisions of the Child Benefit Act 1975 (which are set out in Schedule 2) as to administration and enforcement so that certain matters to which corresponding provisions of the Northern Ireland legislation relate are deemed to be matters to which the provisions of the 1975 Act relate.
+
+## Annotations
+
+[^M_X_f0f48667-2125-4252-ad75-5279ff644022]: Editorial: The reference to the Interpretation Act 1889 is to be construed, under the [Interpretation Act 1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30), [s.25(2)](https://www.legislation.gov.uk/ukpga/1978/30/section/25/2), as a reference to the latter Act as it applies to Acts passed at the time of reference.
+
+[^key-8b181a6cde9d7e6481d40a9445d1a5fa]: Textual amendment: Words in Sch. 1 para. 1(1) substituted (1.9.1999) by [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/1)
+
+[^key-7d83df9c8213f37a354d98d5b751a5f1]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/1977/7/schedule/1/paragraph/1/1) substituted (1.9.1999) by [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/2/a)
+
+[^key-5aaface3cd0d24ca5370585a2b5b97f8]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/1977/7/schedule/1/paragraph/1/1) substituted (1.9.1999) by [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/2/b)
+
+[^key-6a193822ad0e5a13efd0a9986b973d5c]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/1977/7/schedule/1/paragraph/1/1) substituted (1.9.1999) by [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/3)
+
+[^key-72c1c77aa240534539cb3f07b76a479e]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/1977/7/schedule/1/paragraph/1/1) omitted (1.9.1999) by virtue of [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/4)
+
+[^key-88a76e4333c4ddcfc192725c1153d90c]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/1977/7/schedule/1/paragraph/1/1) substituted (1.9.1999) by [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/5)
+
+[^key-14d343499c1736cd0f980076199d0f74]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1977/7/schedule/1/paragraph/2) substituted (1.9.1999) by [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/6)
+
+[^key-a10dcc84e5ac48193e5b7e2d440bfaca]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1977/7/schedule/1/paragraph/3) substituted (1.9.1999) by [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/7)
+
+[^key-1e9dfbf48be727a4ec53b92889197b46]: Textual amendment: Words in [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/1977/7/schedule/1/paragraph/5/a) substituted (1.9.1999) by [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/8)
+
+[^key-0f7a6eb3cdc0b3faab7e1c8992f5c60e]: Textual amendment: Words in [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/1977/7/schedule/1/paragraph/5/b) substituted (1.9.1999) by [The Child Benefit (Northern Ireland Reciprocal Arrangements) Amendment Regulations 1999 (S.I. 1999/2225)](https://www.legislation.gov.uk/uksi/1999/2225), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2225/regulation/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/1999/2225/schedule/paragraph/9)
+
+[^M_X_8ce0cb63-9223-4452-8b1d-bd56868d553e]: Editorial: Section 11(1)–(7) was re-enacted with modifications (6.4.87) in ss.54(1), 55 and 56 of the [Social Security Act 1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50); and s.11(8) was repealed by the [Criminal Justice (Scotland) Act 1980 (c.62)](https://www.legislation.gov.uk/ukpga/1980/62), [Sch. 8](https://www.legislation.gov.uk/ukpga/1980/62/schedule/8) (1.2.81) and by the [Police and Criminal Evidence Act 1984 (c.60)](https://www.legislation.gov.uk/ukpga/1984/60), [Sch. 7](https://www.legislation.gov.uk/ukpga/1984/60/schedule/7), Part V (1.1.86).
+
+[^M_X_7f6c440f-1368-4c4f-8462-756ff0a984aa]: Editorial: Article 13 of the N. Ireland Order was re-enacted in Articles 55–57 of the Social Security (Northern Ireland) Order 1986, [S.I. 1986/1988 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1988).

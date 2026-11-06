@@ -1,0 +1,59 @@
+---
+title: Anti-terrorism, Crime and Security Act 2001, section 113
+act: Anti-terrorism, Crime and Security Act 2001
+section: '113'
+status: revised-with-pending-changes
+text_date: '2024-04-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2001/24/section/113
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Anti-terrorism, Crime and Security Act 2001, section 113
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2024-04-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 113. Use of noxious substances or things to cause harm and intimidate
+
+*Extent: E+W+S+N.I.*
+
+(1) A person who takes any action which—
+
+- (a) involves the use of a noxious substance or other noxious thing;
+- (b) has or is likely to have an effect falling within subsection (2); and
+- (c) is designed to influence the government or an international governmental organisation[^c19540201] or to intimidate the public or a section of the public,
+
+is guilty of an offence.
+
+(2) Action has an effect falling within this subsection if it—
+
+- (a) causes serious violence against a person anywhere in the world;
+- (b) causes serious damage to real or personal property anywhere in the world;
+- (c) endangers human life or creates a serious risk to the health or safety of the public or a section of the public; or
+- (d) induces in members of the public the fear that the action is likely to endanger their lives or create a serious risk to their health or safety;
+
+but any effect on the person taking the action is to be disregarded.
+
+(3) A person who—
+
+- (a) makes a threat that he or another will take any action which constitutes an offence under subsection (1); and
+- (b) intends thereby to induce in a person anywhere in the world the fear that the threat is likely to be carried out,
+
+is guilty of an offence.
+
+(4) A person guilty of an offence under this section is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both); and
+- (b) on conviction on indictment, to imprisonment for a term not exceeding fourteen years or a fine (or both).
+
+(5) In this section—
+
+- “**the government**” means the government of the United Kingdom, of a part of the United Kingdom or of a country other than the United Kingdom; and
+- “**the public**” includes the public of a country other than the United Kingdom.
+
+## Annotations
+
+[^c19540201]: Textual amendment: Words in [s. 113(1)(c)](https://www.legislation.gov.uk/ukpga/2001/24/section/113/1/c) inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 34(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/34/b), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2](https://www.legislation.gov.uk/uksi/2006/1013/article/2)

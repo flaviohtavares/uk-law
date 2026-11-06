@@ -1,0 +1,249 @@
+---
+title: The Business Impact Target (Relevant Regulators) Regulations 2017
+id: uksi/2017/344
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-08'
+text_date: '2019-08-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/344
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/344/pdfs/uksiem_20170344_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/344/pdfs/uksi_20170344_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/344/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Business Impact Target (Relevant Regulators) Regulations 2017
+
+> Text as at 2019-08-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2017 No. 344
+
+Regulatory Reform
+
+The Business Impact Target (Relevant Regulators) Regulations 2017
+
+Made
+
+8th March 2017
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the power conferred by section 22(9)[^f00001] of the Small Business, Enterprise and Employment Act 2015[^f00002].
+
+In accordance with sections 22(10)[^f00003] and 161(4) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-b9c5019189f5ea3b0929ebb1762429ba]
+
+These Regulations may be cited as the Business Impact Target (Relevant Regulators) Regulations 2017 and come into force on the twenty first day after the day on which they are made.
+
+## 2. Relevant regulators[^key-f968bdcc0d7e3ecc0080bfe5581a55e7]
+
+For the purposes of section 22 of the Small Business, Enterprise and Employment Act 2015 (and of sections 24A[^f00004] and 26[^f00005] of that Act), a “relevant regulator” means a body or other person specified in the Schedule.
+
+Prior
+
+Parliamentary Under Secretary of State Minister for Small Business, Consumers and Corporate Responsibility
+
+Department for Business, Energy and Industrial Strategy
+
+8th March 2017
+
+## SCHEDULE[^key-badb23b2d742d9d5582984afa17f0636]
+
+Regulation 2
+
+- British Hallmarking Council[^f00006]
+- Care Quality Commission[^f00007]
+- Charity Commission for England and Wales[^f00008]
+- Chief Inspector of Drinking Water[^f00009] and other persons appointed under section 86(1) of the Water Industry Act 1991[^f00010]
+- Civil Aviation Authority[^f00011]
+- Coal Authority[^f00012]
+- Commission for Equality and Human Rights[^f00013]
+- Commissioners of Irish Lights
+- Competition and Markets Authority[^f00014]
+- Comptroller-General of Patents, Designs and Trade Marks[^f00015]
+- [^key-bd21f48f117a382682ab77c33c1acab1]...
+- Environment Agency[^f00017]
+- Financial Conduct Authority[^f00018]
+- Financial Reporting Council Limited[^f00019]
+- Food Standards Agency[^f00020]
+- Forestry Commissioners[^f00021]
+- Gambling Commission[^f00022]
+- Gangmasters and Labour Abuse Authority[^f00023]
+- Gas and Electricity Markets Authority[^f00024]
+- Groceries Code Adjudicator[^f00025]
+- Guardians of the Standard of Wrought Plate in Birmingham (the Birmingham Assay Office)[^f00026]
+- Guardians of the Standard of Wrought Plate within the town of Sheffield (the Sheffield Assay Office)[^f00027]
+- Health and Safety Executive[^f00028]
+- Her Majesty’s Land Registry[^f00029]
+- Her Majesty’s Revenue and Customs[^f00030]
+- [^key-99ced550269b193851614aa8fdfed638]...
+- Historic Buildings and Monuments Commission for England[^f00032]
+- Homes and Communities Agency[^f00033]
+- Human Fertilisation and Embryology Authority[^f00034]
+- Human Tissue Authority[^f00035]
+- Immigration Services Commissioner[^f00036]
+- Incorporation of Goldsmiths of the City of Edinburgh (the Edinburgh Assay Office)[^f00037]
+- Information Commissioner[^f00038]
+- Marine Management Organisation[^f00039]
+- Natural England[^f00040]
+- Northern Lighthouse Board
+- Office for Nuclear Regulation[^f00041]
+- Office for Standards in Education, Children’s Services and Skills[^f00042]
+- The Office for Students[^key-820d99dfff5402e833c36d7081d777ff]
+- Office of Communications[^f00043]
+- Office of Qualifications and Examinations Regulation[^f00044]
+- Office of Rail and Road[^f00045]
+- Oil and Gas Authority[^f00046]
+- Payment Systems Regulator[^f00047]
+- Pensions Regulator[^f00048]
+- Registrars of companies[^f00049]
+- Regulator of Community Interest Companies[^f00050]
+- Security Industry Authority[^f00051]
+- Sports Grounds Safety Authority[^f00052]
+- Traffic Commissioners[^f00053]
+- The Trinity House (as defined in section 223(1) of the Merchant Shipping Act 1995[^f00054])
+- Wardens and Commonalty of the Mystery of Goldsmiths of the City of London (the London Assay Office)[^f00055]
+- Water Services Regulation Authority[^f00056]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 22(9) of the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) (“the 2015 Act”), inserted by section 14(3) of the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12) (“the 2016 Act”), gives the Secretary of State the power to specify in regulations bodies and persons which are “relevant regulators”.
+
+Section 24A of the 2015 Act, inserted by section 14(4) of, and Schedule 2 to the 2016 Act places an obligation upon these regulators to publish certain documents. One of these documents is an assessment of the economic impact upon business activities of certain “regulatory provisions”. Section 22 of the 2015 Act determines which activities of these regulators will be classed as “regulatory provisions” and section 26 of the 2015 Act places obligations on the regulators in the event that the Secretary of State amends the business impact target framework. These Regulations specify the bodies and persons that are “relevant regulators”. These bodies and persons are listed in the Schedule to these Regulations.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available at https://www.gov.uk/government/consultations/business-impact-target-growth-duty-and-small-business-appeals-champion.
+
+## Annotations
+
+[^f00001]: Footnote: Section 22(9) was inserted by section 14(3) of the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
+
+[^f00002]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26); amended by the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
+
+[^f00003]: Footnote: Section 22(10) was inserted by section 14(3) of the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
+
+[^key-b9c5019189f5ea3b0929ebb1762429ba]: Commencement: Reg. 1 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1)
+
+[^key-f968bdcc0d7e3ecc0080bfe5581a55e7]: Commencement: Reg. 2 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1)
+
+[^f00004]: Footnote: Section 24A was inserted by section 14(4) of, and paragraph 4 of Schedule 2 to, the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
+
+[^f00005]: Footnote: Section 26 was amended by section 14(4) of, and paragraph 5 of Schedule 2 to, the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
+
+[^key-badb23b2d742d9d5582984afa17f0636]: Commencement: Sch. in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1)
+
+[^f00006]: Footnote: See section 13 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^f00007]: Footnote: See section 1 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00008]: Footnote: See section 13 of the Charities Act [2011 (c.25)](https://www.legislation.gov.uk/ukpga/2011/25).
+
+[^f00009]: Footnote: See section 86(1A) of the Water Industry Act [1991 (c.56)](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^f00010]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^f00011]: Footnote: See section 2 of the Civil Aviation Act [1982 (c.16)](https://www.legislation.gov.uk/ukpga/1982/16).
+
+[^f00012]: Footnote: See section 1 of the Coal Industry Act [1994 (c.21)](https://www.legislation.gov.uk/ukpga/1994/21).
+
+[^f00013]: Footnote: See section 1 of the Equality Act [2006 (c.3)](https://www.legislation.gov.uk/ukpga/2006/3).
+
+[^f00014]: Footnote: See section 25 of the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
+
+[^f00015]: Footnote: See section 63 of the Patents and Designs Act [1907 (c.29)](https://www.legislation.gov.uk/ukpga/1907/29).
+
+[^key-bd21f48f117a382682ab77c33c1acab1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/344/schedule) omitted (1.8.2019) by virtue of [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [41(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/41/a)
+
+[^f00017]: Footnote: See section 1 of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00018]: Footnote: See section 1A of the Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^f00019]: Footnote: A company registered in England and Wales with number 02486368.
+
+[^f00020]: Footnote: See section 1 of the Food Standards Act [1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^f00021]: Footnote: See section 1 of the Forestry Act [1967 (c.10)](https://www.legislation.gov.uk/ukpga/1967/10).
+
+[^f00022]: Footnote: See section 20 of the Gambling Act [2005 (c.19)](https://www.legislation.gov.uk/ukpga/2005/19).
+
+[^f00023]: Footnote: See section 1 of the Gangmasters (Licensing) Act [2004 (c.11)](https://www.legislation.gov.uk/ukpga/2004/11), as amended by section 31 of, and paragraphs 13 and 15(b) of Schedule 3 to, the Immigration Act [2016 (c.19)](https://www.legislation.gov.uk/ukpga/2016/19).
+
+[^f00024]: Footnote: See section 1 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^f00025]: Footnote: See section 1 of the Groceries Code Adjudicator Act [2013 (c.19)](https://www.legislation.gov.uk/ukpga/2013/19).
+
+[^f00026]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^f00027]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^f00028]: Footnote: See section 10 of the Health and Safety at Work etc. Act [1974 (c.37)](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^f00029]: Footnote: See section 99 of the Land Registration Act [2002 (c.9)](https://www.legislation.gov.uk/ukpga/2002/9).
+
+[^f00030]: Footnote: See section 4 of the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^key-99ced550269b193851614aa8fdfed638]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/344/schedule) omitted (1.8.2019) by virtue of [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [41(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/41/b)
+
+[^f00032]: Footnote: See section 32 of the National Heritage Act [1983 (c.47)](https://www.legislation.gov.uk/ukpga/1983/47).
+
+[^f00033]: Footnote: See section 1 of the Housing and Regeneration Act [2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17).
+
+[^f00034]: Footnote: See section 5 of the Human Fertilisation and Embryology Act [1990 (c.37)](https://www.legislation.gov.uk/ukpga/1990/37).
+
+[^f00035]: Footnote: See section 13 of the Human Tissue Act [2004 (c.30)](https://www.legislation.gov.uk/ukpga/2004/30).
+
+[^f00036]: Footnote: See section 83 of the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00037]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^f00038]: Footnote: See section 18 of the Freedom of Information Act [2000 (c.36)](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^f00039]: Footnote: See section 1 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^f00040]: Footnote: See section 1 of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^f00041]: Footnote: See section of the 77 Energy Act [2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^f00042]: Footnote: See section 112 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^key-820d99dfff5402e833c36d7081d777ff]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/344/schedule) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [41(c)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/41/c)
+
+[^f00043]: Footnote: See section 1 of the Office of Communications Act [2002 (c.11)](https://www.legislation.gov.uk/ukpga/2002/11).
+
+[^f00044]: Footnote: See section 127 of the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22).
+
+[^f00045]: Footnote: See section 15 of the Railways and Transport Safety Act [2003 (c.20)](https://www.legislation.gov.uk/ukpga/2003/20).
+
+[^f00046]: Footnote: See section 1 of the Energy Act [2016 (c.20)](https://www.legislation.gov.uk/ukpga/2016/20).
+
+[^f00047]: Footnote: See section 40 of the Financial Services (Banking Reform) Act [2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^f00048]: Footnote: See section 1 of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^f00049]: Footnote: See section 1060 of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00050]: Footnote: See section 27 of the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27).
+
+[^f00051]: Footnote: See section 1 of the Private Security Industry Act [2001 (c.12)](https://www.legislation.gov.uk/ukpga/2001/12).
+
+[^f00052]: Footnote: See section 1 of the Sports Grounds Safety Authority Act [2011 (c.6)](https://www.legislation.gov.uk/ukpga/2011/6).
+
+[^f00053]: Footnote: See section 4 of the Public Passenger Vehicles Act [1981 (c.14)](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^f00054]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00055]: Footnote: See sections 15 and 22 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^f00056]: Footnote: See section 1A of the Water Industry Act [1991 (c.56)](https://www.legislation.gov.uk/ukpga/1991/56).

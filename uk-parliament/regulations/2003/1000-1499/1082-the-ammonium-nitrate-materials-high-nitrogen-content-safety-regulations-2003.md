@@ -1,0 +1,748 @@
+---
+title: The Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003
+id: uksi/2003/1082
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-04-09'
+text_date: '2024-04-07'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2003/1082
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1082/pdfs/uksi_20031082_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1082/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003
+
+> Text as at 2024-04-07.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2003 No. 1082
+
+HEALTH AND SAFETY
+
+The Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003
+
+Made
+
+9th April 2003
+
+Laid before Parliament
+
+10th April 2003
+
+Coming into force
+
+1st May 2003
+
+The Secretary of State in exercise of the powers conferred upon her by sections 15(1), (2), (3), (5) and (6), 18(2), 20(3) and 82(3)(a) of, and paragraphs 1(1)(b), 1(4), 2(1), 15(1) and (2) and 16 of Schedule 3 to, the Health and Safety at Work etc Act 1974 [^c6076471], following consultation with the Health and Safety Commission and other bodies as appeared to her to be appropriate in accordance with section 50(1) of that Act, hereby makes the following Regulations:
+
+## 1. Title, commencement and extent
+
+These Regulations may be cited as the Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003, extend to Great Britain and come into force on 1st May 2003.
+
+## 2. Interpretation
+
+(1) In these Regulations “**relevant ammonium nitrate material**” means—
+
+- (a) ammonium nitrate in solid form, where its nitrogen content is more than 28% of its weight,
+- (b) material in solid form, comprising a mixture of components, one of which is ammonium nitrate, in circumstances where the nitrogen content derived from ammonium nitrate is more than 28% of the material by weight, and
+- (c) for so long as any material is treated as relevant ammonium nitrate material by virtue of regulation 9(3), that material,
+
+where the material has a total weight of five hundred kilogrammes or more, but does not include material which is a classified explosive.
+
+(2) In these Regulations—
+
+- “**batch**” means—
+  - (a) in relation to relevant ammonium nitrate material [^key-493a702e53ab9ce8fd91325ab0cd2fc1]...—
+    - (i) the quantity of that material manufactured in a production run without alteration of composition or characteristics, or
+    - (ii) in the case where such a production run lasts for more than 92 days, the quantity of the material manufactured—
+      - (aa) in the first 92 day period of the run,
+      - (bb) in each subsequent 92 day period of the run, and
+      - (cc) in any part of the production run after the final such 92 day period;
+  - (b) [^key-8b05c9f2adb741337d5e86f7a5aac26f]...
+  - (c) [^key-279c953a37fad54fb7e9ae91d2530119]...
+- “**classified explosive**” means anything which has been assigned to class 1 in accordance with the UN[^key-113f47113478113ad0a049a5c85053fe] Recommendations;
+- “[^key-6cb0e74158f27cd42422987bb344fc01]**competent laboratory**” means a laboratory which—
+  - (a) is accredited by the United Kingdom Accreditation Service under standard ISO 17025 (general requirements for the competence of testing and calibration laboratories) of the International Organisation for Standardisation;
+  - (b) is based in the United Kingdom or in the territory of a party to the CPTPP; and
+  - (c) has sufficient equipment, facilities and expertise to conduct a detonation resistance test and is independent from any person having an interest in the outcome of such test;
+- “[^key-fe6f9e3c0311df85b8a316c7a67feee4]**the CPTPP**” has the meaning set out in section 1 of the Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024;
+- “**detonation resistance certificate**” means the original or a guaranteed copy of a certificate issued by a competent laboratory in the English language relating to a detonation resistance test of a sample of relevant ammonium nitrate material which confirms that the tested sample is resistant to detonation as specified and contains at least the other particulars set out in Schedule 1, and such a certificate is valid so long as it is not treated as invalid in consequence of regulation 8;
+- “**detonation resistance test**” means a test carried out by a competent laboratory in accordance with Schedule 2;
+- “**guaranteed copy**”, in relation to a detonation resistance certificate, means a copy, certified as a true copy of the original by a person who also certifies that he has no interest in the outcome of the detonation resistance test on which the detonation resistance certificate is based;
+- “**identification document**” means a document in the English language which contains at least the particulars set out in Schedule 3;
+- “**production run**” means a continuous production run except where—
+  - (a) the material produced in the run is—
+    - (i) of the same type,
+    - (ii) of a loose bulk density—
+      - (aa) which throughout the run does not fall below the density of any sample from it which is subjected to a detonation resistance test by or on behalf of its manufacturer, or
+      - (bb) which throughout the run does not fall below a density of 920 kilogrammes per cubic metre, and
+    - (iii) produced and intended to be marketed as a fertiliser, and
+  - (b) the production process is—
+    - (i) certified under standard ISO 9001 (quality management system requirements) of the International Organisation for Standardisation [^c6076501], [^key-74cf1a37fc8faa10b6f8408c319ee3ea]...
+    - (ii) [^key-74cf1a37fc8faa10b6f8408c319ee3ea]...
+
+    in which case it also includes an interrupted production run;
+- “**sampling body**” means a body which is accredited under standard ISO 17020 (general criteria for the operation of various types of bodies performing inspection) or ISO 17025 (general requirements for the competence of testing and calibration laboratories) of the International Organisation for Standardisation [^c6076511], and—
+  - (a) is not an importer, manufacturer or supplier of relevant ammonium nitrate material,
+  - (b) is independent of any person with an interest in manufacture of or trading in any such material, and
+  - (c) has sufficient equipment, facilities and expertise to certify reliably that a sample of relevant ammonium nitrate material of the same specification that has been subjected to a detonation resistance test has been taken from an identifiable batch and is representative of that batch; [^key-d3495a898b3c9fb11f158b2993e6d99e]...
+- “**unique numbered copy**”, in relation to a detonation resistance certificate, means a copy of the certificate or of an existing unique numbered copy of the certificate, given by a person supplying relevant ammonium nitrate material to a person who takes delivery of a part or a subdivided part of a batch, to which the supplier has added a unique number and details to indicate the quantity of relevant ammonium nitrate material that is being supplied with that copy ;[^key-716a9e77d941f35e488e2293beb34722] [^key-75d07f878aca249559d9f1e9682ff7ba]...
+- “[^key-341aa428a0c0030151b9bb034e44843b]**United Kingdom Accreditation Service**” means a company limited by guarantee incorporated in England and Wales under number 03076190; and
+- “**UN Recommendations**” means the United Nations Recommendations on the Transport of Dangerous Goods (based on those originally prepared by the United Nations Committee of Experts on the Transport of Dangerous Goods considered by the Economic and Social Committee of Experts at its twenty-third session (Resolution 645G (XXIII) of 26th April 1957)) as revised or reissued from time to time.
+
+(3) For the purposes of these Regulations—
+
+- (a) a detonation resistance certificate shall be treated as relating to a batch or part batch if it is based on a detonation resistance test carried out on a sample certified by a sampling body as being representative of the batch or part batch;
+- (b) a sample shall be treated as failing a detonation resistance test if the result of the test is that the sample is capable of detonation under the circumstances of such a test; [^key-aadb4e2853432371a9f7c33aee55b449]...
+- (c)[^key-aadb4e2853432371a9f7c33aee55b449] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Manufacture of relevant ammonium nitrate material
+
+(1) Subject to regulation 10, no person shall manufacture relevant ammonium nitrate material, unless he maintains arrangements in place to ensure that the requirements of paragraphs (2) to (4) are satisfied.
+
+(2) A sample certified as being a representative sample by a sampling body from each batch of manufactured relevant ammonium nitrate material must be subjected to a detonation resistance test during or as soon as reasonably practicable after manufacture.
+
+(3) Where a representative sample fails a detonation resistance test, or the detonation resistance certificate relating to it ceases to be valid, the manufacturer must—
+
+- (a) as soon as practicable notify the enforcing authority and the Executive of that fact (save to the extent that that fact is within their knowledge), of the measures he will take—
+  - (i) to blend the batch with other suitable material so that the resultant material is not relevant ammonium nitrate material and that the risk of detonation is reduced to an insignificant level,
+  - (ii) otherwise to reduce the risk of detonation of the batch of relevant ammonium nitrate material concerned to an insignificant level, or
+  - (iii) to have another sample taken by a sampling body and subjected to a detonation resistance test,
+
+    and of the period within which he will take them; and
+- (b) take those measures within that period or, where any notice has been served by the enforcing authority on the manufacturer requiring alternative measures, a shorter period or both, comply with the requirements in the enforcing authority’s notice.
+
+(4) The manufacturer must ensure that each batch of the material is kept separate and that the detonation resistance certificate clearly identifies the batch to which it relates.
+
+(5) Any person who manufactures relevant ammonium nitrate material must retain a detonation resistance certificate relating to each batch and keep a record of the details of the manufacture and disposal of the batch for a period of two years after the last date of disposal of relevant ammonium nitrate material from the batch.
+
+## 4. Import of relevant ammonium nitrate material
+
+(1) Relevant ammonium nitrate material, subject to regulation 10, shall not be imported into Great Britain [^key-3e777c2e17ea4bd8aaf630c634b56895]... unless it is accompanied by a detonation resistance certificate relating to a sample certified as being a representative sample by a sampling body for each batch or part batch.
+
+(2) Relevant ammonium nitrate material shall not be imported into Great Britain [^key-0fcb248125cb10b9bc9ddc67ba985973]... unless—
+
+- (a)[^key-73505f856e32393fdb2ae6abe9799ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-73505f856e32393fdb2ae6abe9799ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a[^key-403bbe55a748e5af072af5cfcc2a6c60] detonation resistance certificate has been issued following a detonation resistance test which has been carried out either—
+  - (i) not more than 60 days before the arrival of the material in Great Britain, or
+  - (ii) not more than 60 + x days before the material arrives in Great Britain where x represents an excess caused by circumstances beyond the control of the importer; and
+- (d) the importer has sent or caused to be sent, not later than five days before the anticipated date of arrival of the material into Great Britain—
+  - (i) a detonation resistance certificate for each batch that is being imported, and
+  - (ii) an identification document completed by him relating to the imported material, to the Secretary of State , whether by post or by electronic means[^key-c08506336ce9e3512613db16e1131668].
+
+(3) Relevant ammonium nitrate material shall not be imported into Great Britain unless each batch of relevant ammonium nitrate material imported is kept separate and each detonation resistance certificate clearly identifies the batch to which it relates.
+
+(4) No person shall import relevant ammonium nitrate material into Great Britain otherwise than in accordance with the preceding provisions of this regulation.
+
+(5) A person who imports relevant ammonium nitrate material into Great Britain must keep for a period of two years after the date of import of any batch a record of the details of that batch or part batch, and—
+
+- (a) [^key-6c6763ddd56b55710c6d449b96345237]... an identification document covering it and a detonation resistance certificate relating to it; [^key-994db7f6734696b1ae70bed4f5760069]...
+- (b)[^key-994db7f6734696b1ae70bed4f5760069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Supply of relevant ammonium nitrate material
+
+(1) Subject to regulation [^key-e85658d2e31ca682dbf148b582ce2fdd]... 10, no person shall supply relevant ammonium nitrate material unless—
+
+- (a) he complies with the requirements of paragraphs (2) to (7), as qualified by paragraph (8), of this regulation, [^key-6d94ddf79ed53a02349c6a02cf212b08]...
+- (b)[^key-6d94ddf79ed53a02349c6a02cf212b08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If he has imported relevant ammonium nitrate material [^key-eef5bd5961cd7f6b1e0475e603d24b98]... and any anticipated particular in any identification document sent in accordance with regulation 4(2)(d)(ii) relating to the material has turned out to be inaccurate, he must, before supplying any of the material to which the document relates to any person, send an updated version of the identification document to the Secretary of State , whether by post or by electronic means[^key-41606bf39cd5052b283e82b7fb1087ee], correcting each inaccuracy in its earlier version.
+
+(3) He must ensure that—
+
+- (a) in the case of a whole batch, he is in possession of a valid detonation resistance certificate relating to that batch, and
+- (b) in the case of a tested part of a batch, he is in possession of a unique numbered copy of a valid detonation resistance certificate relating to that part,
+
+and that [^key-3b0de874322c0ffba3d28b87d41a49fd]... he has in his possession an identification document relating to it and a copy of any updated version of that document sent under paragraph (2).
+
+(4) He must not supply relevant ammonium nitrate material where it is apparent that the material is contaminated or is in such poor condition that it might reasonably be expected to fail a detonation resistance test.
+
+(5) When he supplies relevant ammonium nitrate material—
+
+- (a) if a person is supplied by him with either—
+  - (i) a whole batch of that material, or
+  - (ii) a part of a batch which has already been divided into parts before it came under his control,
+
+  he must ensure that the batch or part batch is accompanied by either a detonation resistance certificate or unique numbered copy detonation resistance certificate relating to it, and
+- (b) if a batch or part batch is divided by him into new parts, he must ensure that each such new part is accompanied by a unique numbered copy detonation resistance certificate issued by him and relating to that new part.
+
+(6) Where he divides a batch or part batch into parts in accordance with paragraph (5)(b) for the purpose of supply he must record—
+
+- (a) details of any unique numbered copy detonation resistance certificates issued by him,
+- (b) the quantity of material supplied with each such unique numbered copy, and
+- (c) the persons to whom such unique numbered copies are given.
+
+(7) When he supplies relevant ammonium nitrate material he must ensure that each batch or part batch is kept separate, and that each detonation resistance certificate or unique numbered copy relating to that batch or part batch clearly identifies the material to which it relates.
+
+(8) The requirements of paragraphs (5) to (7) shall not apply to the supply of relevant ammonium nitrate material to a final user for use as a fertiliser in packaged form.
+
+(9) A person who supplies relevant ammonium nitrate material must keep for a period of two years after the date of the supply a record of the details of the relevant ammonium nitrate material supplied by him with details of—
+
+- (a) any batch or new part batch which he has supplied,
+- (b) any detonation resistance certificate or unique numbered copy detonation resistance certificate which he has supplied (supported by copies of all of them), and
+- (c) any identification document [^key-d842f206b8f32927376830694462f97e]... and any updated version of such a document, if applicable, relating to that material or any of it (supported by copies of all of them).
+
+## 6. Keeping of relevant ammonium nitrate material
+
+(1) Subject to paragraph (2) of this regulation and to regulations 7 and 10, no person shall keep relevant ammonium nitrate material unless he complies with the requirements of paragraphs (3) to (6) of this regulation.
+
+(2) This regulation shall not apply to the keeping of relevant ammonium nitrate material by a person—
+
+- (a) in packaged form for use by him as a fertiliser, or
+- (b) for use by him as an explosive on the premises to which it has been delivered by another person who has not contravened these Regulations in relation to the material, or
+- (c) only for the purpose of transporting it from one destination to another.
+
+(3) He must not keep any relevant ammonium nitrate material from a batch or part batch that does not have a valid detonation resistance certificate or unique numbered copy which clearly identifies the batch or part batch to which it relates, unless—
+
+- (a) he is the manufacturer of the material and he is arranging for it to be subjected to a detonation resistance test in accordance with regulation 3(2) or taking action relating to it in accordance with regulation 3(3), or
+- (b) he is taking action relating to it in accordance with paragraph (4) of this regulation.
+
+(4) Where the detonation resistance certificate relating to it ceases to be valid following a subsequent test in accordance with regulation 8, or where it is apparent to the person keeping the material that it is contaminated or is in such poor condition that it might reasonably be expected to fail a detonation resistance test, that person must—
+
+- (a) as soon as practicable notify the enforcing authority and the Executive of that fact (save to the extent to which that fact is within their knowledge), of the measures he will take—
+  - (i) to blend the batch with other suitable material so that the resultant material is not relevant ammonium nitrate material and that the risk of detonation is reduced to an insignificant level, or
+  - (ii) otherwise to reduce the risk of detonation of the batch of relevant ammonium nitrate material concerned to an insignificant level, or
+  - (iii) to have another sample taken by a sampling body and subjected to a detonation resistance test,
+
+    and of the period within which he will take them; and
+- (b) take those measures within that period or, where any notice has been served by the enforcing authority on him requiring alternative measures, a shorter period or both, comply with the requirements in the enforcing authority’s notice.
+
+(5) He must ensure that each batch or part batch of relevant ammonium nitrate material is kept separate and (subject to paragraph (3) of this regulation) has a detonation resistance certificate or unique numbered copy which clearly identifies the batch or part batch to which it relates.
+
+(6) A person who keeps any batch or part batch of relevant ammonium nitrate material must, so far as he is not covered by the obligation in regulation 5(9), keep, for a period of two years after he ceases to keep any of the material, a record of the details of the batch or part batch together with any detonation resistance certificate and a copy of any unique numbered copy relating to it.
+
+## 7. Transitional arrangements relating to the keeping and supplying of existing stocks of relevant ammonium nitrate material[^key-45392eb518acc6418156235ebbec94b9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Taking of samples for the purpose of a detonation resistance test
+
+(1) Where a person keeping relevant ammonium nitrate material has a detonation resistance test performed for the purposes of these Regulations he may either—
+
+- (a) take a sample of the relevant ammonium nitrate material containing not less than 25 kilogrammes of the material from each batch or part batch in the presence of a sampling body and have the sample certified by that body as being representative of that batch, or
+- (b) allow such a sample to be taken by a sampling body,
+
+and submit the sample to be subjected to a detonation resistance test by a competent laboratory.
+
+(2) An inspector may at any time carry out a check of relevant ammonium nitrate material by taking one aggregate sample of not less than 75 kilogrammes of the material from any batch or part batch, and then dividing that sample into three approximately equal parts, each containing not less than 25 kilogrammes, and—
+
+- (a) submitting one part to be subjected to a detonation resistance test by a competent laboratory;
+- (b) giving a second part to the person regarded by him as the keeper of the material;
+- (c) placing a third part in a store which is appropriate to ensure that the third part is maintained in as constant a condition as is reasonably practicable until such time as it may be required to be submitted to a detonation resistance test by a competent laboratory.
+
+(3) Where a detonation resistance test result from the first part taken in accordance with paragraph (2)(a), indicates—
+
+- (a) that it is not resistant to detonation, and
+- (b) the result of the test on that batch is at variance with a pre-existing detonation resistance certificate or unique numbered copy,
+
+then the earlier certificate (or, as the case may be, the earlier certificate insofar as it relates to the quantity of material covered by the unique numbered copy) will be treated as invalid in accordance with paragraph (5).
+
+(4) If paragraph (3) applies in relation to a unique numbered copy relating to material originally derived directly or indirectly from a particular batch, then—
+
+- (a) where the inspector is of the opinion that the test result might be likely to be replicated in relation to other relevant ammonium nitrate material from the same batch, he may serve a control notice, that is to say notice on any person whom he considers to be keeping the material in circumstances that regulation 6 applies to him—
+  - (i) indicating that he is of that opinion and explaining why;
+  - (ii) identifying the batch; and
+  - (iii) notifying him of the effect of this regulation in relation to suspect material, that is to say material from the batch which he is so keeping;
+- (b) the giving of a control notice shall render invalid the earlier detonation resistance certificate in so far as it relates to the suspect material; and
+- (c) where any person affected by the service of a control notice obtains or has a further detonation resistance certificate in relation to any of the suspect material, that further certificate shall be treated as invalid until he sends the further certificate to the enforcing authority which appointed the inspector under cover of a notification that the further certificate relates to material covered by the control notice.
+
+(5) The treatment of a certificate under paragraph (3) as invalid shall—
+
+- (a) commence on the giving, by an inspector to the person regarded by the inspector as the keeper of the material in question, of notice of the result of the detonation resistance test under paragraph (3)(a), and
+- (b) continue until the competent laboratory referred to in paragraph (2)(c), following service of a counter-notice (requiring a further detonation resistance test), by the regarded keeper on the enforcing authority which appointed the inspector, within 28 days of service of the notice by the inspector on the regarded keeper, notifies the authority that the material in question would be eligible to be covered by a detonation resistance certificate.
+
+(6) It shall be the duty of the enforcing authority which appointed the inspector, on receipt of the counter-notice as specified in paragraph (5)(b), to arrange for the third part to be submitted to a detonation resistance test as specified in paragraph (2)(c) as soon as is reasonably practicable, to notify the regarded keeper of where and when and by whom the test is to take place, and to notify the regarded keeper of the results of the test as soon as practicable after it has received those results.
+
+## 9. Misdescription of relevant ammonium nitrate material
+
+(1) No person shall—
+
+- (a) import,
+- (b) supply, or
+- (c) keep (other than a keeper as a final user for use as a fertiliser),
+
+material which, although being relevant ammonium nitrate material, is described for business purposes as containing a lower proportion of nitrogen than would classify it as such.
+
+(2) Where an inspector suspects that any material identified by him might be relevant ammonium nitrate material, but is so described for business purposes, he may take one aggregate sample totalling approximately 3 kilogrammes in weight, which he shall divide into three approximately equal parts of approximately 1 kilogramme each and—
+
+- (a) submit one such part to an agricultural analyst appointed under section 67 to the Agriculture Act 1970 [^c6076521] for him to carry out a test to determine whether it is an relevant ammonium nitrate material;
+- (b) give a second part to the person regarded by him as the keeper of the material; and
+- (c) place a third part in a store which is appropriate to ensure that the third part is maintained in as constant a condition as is reasonably practicable until such time as it may be required to be submitted to an independent test under paragraph (3)(b);
+
+and if the part submitted to the agricultural analyst is determined to be relevant ammonium nitrate material then, as specified in paragraph (3), the identified material shall be treated as relevant ammonium nitrate material.
+
+(3) The treatment of material under paragraph (2) as relevant ammonium nitrate material shall—
+
+- (a) [^key-e068e7b7010cf57a77e19448826690a7]... commence on the giving by the inspector, to the person regarded by the inspector as the keeper of the material in question, of notice of the result of the determination, and,
+- (b) continue until the independent tester, following service of a counter-notice (requiring an independent test), by the regarded keeper on the enforcing authority which appointed the inspector, within 28 days of service of the notice by the inspector on the regarded keeper, notifies the authority that he has determined that the third part is not a part of relevant ammonium nitrate material.
+
+(4)[^key-9d765620d95397e074905b0a5b7b2f45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) For the purposes of this regulation—
+
+- (a) an “**independent tester**” is a laboratory accredited under standard ISO 17025 (general requirements for the competence of testing and calibration laboratories) of the International Organisation for Standardisation and based in the United Kingdom[^key-25e20edd0c39fffdda38c37decbd92c6] which has sufficient equipment, facilities and expertise to conduct the independent test under paragraph (3);
+- (b) a “**test**” is one involving one or more methods specified in the results of a determination which the person making the determination certifies in his communication of the results of his determination as being fit for the purpose of establishing the percentage of nitrogen derived from ammonium nitrate; and
+- (c) it shall be the duty of the enforcing authority which has appointed the inspector, on receipt of the counter-notice specified in paragraph (3)(b), to arrange for the independent test of the third sample as soon as is reasonably practicable, to notify the regarded keeper of details of where and by whom the test is to take place, and to notify the regarded keeper of the results of the test as soon as practicable after it has received those results.
+
+## 10. Exemption for relevant ammonium nitrate material for use other than as a fertiliser
+
+(1) The Executive may, by certificate in writing, grant an exemption to any person from the requirements and prohibitions contained in regulations 3, 4, 5, 6 and 9 apart from any requirement to keep records, if that person has applied for it by notifying the Executive in writing either—
+
+- (a) that any sample of any relevant ammonium nitrate material which he manufactures, imports, supplies or keeps would be unlikely to pass the detonation resistance test, or
+- (b) that any sample of a particular type of relevant ammonium nitrate material which he manufactures, imports, supplies or keeps, as the case may be, would be unlikely to pass the detonation resistance test.
+
+(2) An exemption granted pursuant to paragraph (1) shall be subject to—
+
+- (a) in a case—
+  - (i) covered by paragraph (1)(a), the condition that no such relevant ammonium nitrate material shall be supplied or used by him or on his behalf as a fertiliser; and
+  - (ii) covered by paragraph (1)(b), the condition that the particular type of relevant ammonium nitrate material shall not be supplied or used by him or on his behalf as a fertiliser; and
+- (b) any other conditions that the Executive may impose.
+
+(3) The Executive may, at any time, by certificate in writing, vary or revoke a certificate granted pursuant to paragraph (1).
+
+(4) The Executive shall keep a record of persons who have been granted an exemption under this regulation.
+
+(5) A person who has applied to the Executive for an exemption as referred to in paragraph (1), and who is awaiting the result of his application, shall be treated as having the benefit of the exemption applied for, subject to the relevant condition referred to in paragraph (2)(a), up to the date at which the exempting certificate is issued[^key-1e0b2ecbb5b32b1dec6b42f5901ad57a].
+
+## 11. Enforcing authorities
+
+(1) Subject to paragraph (4) or (5)[^key-74599f2d78871073f0cc528a4b887da6], in England it shall be the duty of the council of a county (or of a district comprised in an area for which there is no county council), a London Borough Council or the Common Council of the City of London to enforce these regulations within their respective areas.
+
+(2) Subject to paragraph (4) or (5)[^key-2e1d16816611dd5e5d043ece4cad4a9a], in Wales it shall be the duty of each county council and each county borough council constituted under section 3 of the Local Government (Wales) Act 1994 [^c6076531] to enforce these regulations within their respective areas.
+
+(3) Subject to paragraph (4) or (5)[^key-3cc54c5d64616a9db7244cb2223bcfd9], in Scotland it shall be the duty of every council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c6076541] to enforce these regulations within their respective areas.
+
+(4) Subject to paragraph (5),[^key-a7fc136062a579351b0ea747367a7a7a] the Executive shall have responsibility for enforcing compliance by any person with any conditions imposed on him by or under regulation 10(2).
+
+(5)[^key-48428d7362e73704356debb80e4ad2ca] It shall be the duty of the Office for Nuclear Regulation to enforce these Regulations (including compliance by any person with any conditions imposed on that person by or under regulation 10(2)) as they apply on, or in relation to, any site, or any activities carried out on a site, which is—
+
+- (a) an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or
+- (b) a new nuclear build site (within the meaning given in regulation 2A of those Regulations).
+
+(6) Nothing in this regulation affects the application of section 18(1A) of the Health and Safety at Work etc. Act 1974.
+
+## 12. Defence of due diligence
+
+(1) In any proceedings under the Health and Safety at Work etc Act 1974 for an offence for contravention of regulation 4, 5, 6 or 9(1), it shall, subject to paragraphs (2) and (3) below, be a defence for the person charged to prove—
+
+- (a) that the commission of the offence was due to the act or default of a third party; and
+- (b) that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(2) The person charged shall not, without leave of the court, be entitled to rely on the defence referred to in paragraph (1) unless, within a period ending seven clear days—
+
+- (a) before the hearing to determine mode of trial, where the proceedings are in England or Wales;
+- (b) before the immediate diet, where the proceedings are summary proceedings in Scotland; or
+- (c) before the first diet, where the proceedings are solemn proceedings in Scotland,
+
+he has served on the person bringing the proceedings a notice in writing giving such information identifying or assisting in the identification of the third party as was then in his possession.
+
+(3) Where a contravention of these Regulations by any person is due to the act or default of the third party, the third party shall be guilty of an offence.
+
+(4) In this Regulation, “**third party**”, in relation to a person charged with an alleged offence means a person who, at the time of the alleged offence—
+
+- (a) was not an employee of the person charged; and
+- (b) was not a contractor engaged by the person charged to carry out on behalf of the person charged the activity to which the charge relates.
+
+## 13. Transitional provision[^key-3b8c28823a3b567233e1692a15c31bf1]
+
+(1) This regulation applies to relevant ammonium nitrate material imported into Great Britain [^key-2d2a73688aa1558917ca9dd25e903d60]... before the end of the period of seven[^key-849e054e9651e63ce307e0bbc77d11ed] years beginning with IP completion day.
+
+(2) In regulation 2(2)[^key-29d30bbfa7af16cea94b589c9a95449f], the definition of “competent laboratory” applies as if the reference to the United Kingdom were a reference to the United Kingdom or the European Union[^key-fc742fe72c45bf147d6628e9d209575e] , and as if words “from the United Kingdom Accreditation Service” were omitted for laboratories based in the European Union[^key-e3388d081e662850ed0f154c1f17dc60].
+
+(3) Regulation 4(2)(c) does not apply to relevant ammonium nitrate imported into Great Britain from within the European Union[^key-ee3d1f3fb323df752f04f038b9533e05].
+
+Whitty
+
+Parliamentary Under Secretary of State,
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — DETONATION RESISTANCE CERTIFICATE
+
+Regulation 2
+
+A detonation resistance certificate is a certificate relating to a batch or part batch of relevant ammonium nitrate material that has been tested by a competent laboratory which—
+
+- (a) confirms that a sample from that batch or part batch has been subjected to a detonation resistance test; and
+- (b) specifies—
+  - (i) the name of the manufacturer of the material;
+  - (ii) the batch number or other appropriate identification of the batch or part batch, together with the date of manufacture;
+  - (iii) the name and address of the competent laboratory, and the location of the testing site;
+  - (iv) the date on which the test was completed;
+  - (v) the results of the test;
+  - (vi) a description of the material, which shall include colour, form, particle size and condition; and
+  - (vii) the results of a density test; and
+- (c) contains a statement that, on the basis of test, the sample is not capable of detonation under the circumstances of such a test.
+
+## SCHEDULE 2 — DETONATION RESISTANCE TEST
+
+Regulation 2
+
+### A. DESCRIPTION OF THE DETONATION RESISTANCE TEST FOR RELEVANT AMMONIUM NITRATE MATERIAL
+
+**1.** Before being tested for resistance to detonation, the whole mass of the sample of the relevant ammonium nitrate material is to be thermally cycled five times in accordance with the following method (Note 1) for the application of thermal cycles:
+
+(1) Principle and definition
+
+In a watertight box heat the sample from ambient temperature to 50 °C and maintain at this temperature for a period of one hour (phase at 50 °C). Then cool the sample until a temperature of 25 °C is achieved and maintain at that temperature for one hour (phase at 25 °C). The combination of the successive phases at 50 °C and 25 °C forms one thermal cycle. After being subjected to the required number of thermal cycles, the test sample is held at a temperature of 20 ± 3 °C pending the execution of the detonation test.
+
+(2) Apparatus
+
+- (i) A water bath, thermostated in a temperature range of 20 to 51 °C with a minimum heating and cooling rate of 10 °C/h, or two water baths, one thermostated at a temperature of 20 °C, the other at 51 °C. The water in the bath(s) is continuously stirred; the volume of the bath should be large enough to guarantee ample circulation of the water.
+- (ii) A stainless steel box, watertight all around and provided with a thermocouple in the centre. The outside width of the box is 45 (± 2) mm and the wall thickness is 1.5 mm (see Drawing 1). The height and length of the box can be chosen to suit the dimensions of the water bath, e.g. length 600 mm, height 400 mm.
+
+(3) Procedure
+
+Place a quantity of ammonium nitrate material sufficient for a single detonation into the box and close the cover. Place the box in the water bath. Heat the water to 51 °C and measure the temperature in the centre of the material. One hour after the temperature at the centre has reached 50 °C cool the water. One hour after the temperature at the centre has reached 25 °C heat the water to start the second cycle. In the case of two water baths, transfer the box to the other bath after each heating/cooling period.
+
+**2.** The material must be subjected to the test of resistance to detonation in a horizontal steel tube under the following conditions:
+
+- (a) A seamless steel tube of length: 1,000 mm at least, and nominal external diameter: 114 mm at least, and nominal wall thickness: 5 mm at least.
+- (b) Booster: the type and mass of the booster chosen should be such as to maximize the detonation pressure applied to the sample in order to determine its susceptibility to the transmission of detonation.
+- (c) Test temperature: 15-25 °C.
+- (d) Witness lead cylinders for detecting detonation: 50 mm diameter and 100 mm high placed at 150 mm intervals and supporting the tube horizontally.
+
+### B. DETERMINATION OF RESISTANCE TO DETONATION
+
+**1.** Principle
+
+The test sample is confined in a steel tube and subjected to detonation shock from an explosive booster charge. Propagation of the detonation is determined from the degree of crushing of lead cylinders on which the tube rests horizontally during the test.
+
+**2.** Materials
+
+- (a) Plastic explosive containing 83 to 86% penthrite (Note 2)
+
+  Density: 1,500 to 1,600 kg/m<sup>3</sup>
+
+  Detonation velocity: 7,300 to 7,700 m/s
+
+  Mass: 500 ± 1 gram.
+- (b) Seven lengths of flexible detonating cord with non-metallic sleeve
+
+  Filling mass: 11 to 13 g/m
+
+  Length of each cord: 400 ± 2 mm.
+- (c) Compressed pellet of secondary explosive, recessed to receive detonator
+- (d) Explosive: hexogen/wax 95/5 or tetryl or similar secondary explosive, with or without added graphite.
+
+  Density: 1,500 to 1,600 kg/m<sup>3</sup>
+
+  Diameter: 19 to 21 mm
+
+  Height: 19 to 23 mm
+
+  Central recess to receive detonator: diameter 7 to 7.3 mm, depth 12 mm.
+- (e) Seamless steel tube as specified in ISO 65 of the International Organisation for Standardisation [^c6076551] (carbon steel tubes suitable for screwing in accordance with ISO 7-1 -Pipe threads where pressure tight joints are made on threads)—Heavy Series, with nominal dimensions DN 100 mm
+
+  Outside diameter: 113.1 to 115.0 mm
+
+  Wall thickness: 5.0 to 6.5 mm
+
+  Length: 1,005 (± 2) mm.
+- (f) Bottom plate
+
+  Material: steel of good weldable quality
+
+  Dimensions: 160 × 160 mm
+
+  Thickness: 5 to 6 mm.
+- (g) Six lead cylinders
+
+  Diameter: 50 (± 1) mm
+
+  Height: 100 to 101 mm
+
+  Materials: soft lead, at least 99.5% purity.
+- (h) Steel block
+
+  Length: at least 1,000 mm
+
+  Width: at least 150 mm
+
+  Height: at least 150 mm
+
+  Mass: at least 300 kg if there is no firm base for the steel block.
+- (i) Plastic or cardboard cylinder for booster charge
+
+  Wall thickness: 1.5 to 2.5 mm
+
+  Internal diameter: 92 to 96 mm
+
+  Height: 64 to 67 mm.
+- (j) Detonator (electric or non-electric) with initiation force 8 to 10
+- (k) Wooden disc
+
+  Diameter: 92 to 96 mm. Diameter to be matched to the internal diameter of the plastic or cardboard cylinder.
+
+  Thickness: 20 mm.
+- (l) Wooden rod of same dimensions as detonator.
+- (m) Dressmaking pins (maximum length 20 mm).
+
+**3.** Procedure
+
+- Preparation of booster charge for insertion into steel tube.
+- There are two methods of initiation of the explosive in the booster charge, depending on the availability of equipment.
+
+(1) First Method: Seven-point simultaneous initiation.
+
+The booster charge prepared for use is shown in Drawing 2.
+
+- (i) Drill holes in the wooden disc parallel to the axis of the disc through the centre and through six points symmetrically distributed around a concentric circle 55 mm in diameter. The diameter of the holes must be 6 to 7 mm (see Section A-B in Drawing 2), depending on the diameter of the detonating cord used.
+- (ii) Cut seven lengths of flexible detonating cord each 400 mm long, avoiding any loss of explosive at each end by making a clean cut and immediately sealing the end with adhesive. Push each of the seven lengths through the seven holes in the wooden disc until their ends project a few cm on the other side of the disc. Then insert a small dressmaking pin transversally into the textile sleeve of each length of cord 5 to 6 mm from the end and apply adhesive around the outside of the lengths of cord in a band 2 cm wide adjacent to the pin. Finally, pull the long piece of each cord to bring the pin into contact with the wooden disc.
+- (iii) Shape the plastic explosive to form a cylinder 92 to 96 mm in diameter, depending on the internal diameter of the cylinder at 2(i). Stand the cylinder at 2(i) upright on a level surface and insert the shaped explosive. Then insert the wooden disc. The diameter of the disc must always correspond to the inside diameter of the cylinder at 2(i). Carry the seven lengths of detonating cord into the top of this cylinder and press it down onto the explosive. Adjust the height of the cylinder (64 to 67 mm) so that its top edge does not extend beyond the level of the wood. Finally, fix the cylinder at 2(i) to the wooden disc for instance with staples or small nails, around its entire circumference.
+- (iv) Group the free ends of the seven lengths of detonating cord around the circumference of the wooden rod so that their ends are all level in a plane perpendicular to the rod. Secure them in a bundle around the rod by means of adhesive tape. When the six peripheral lengths of cord are taut after assembly, the central cord must remain slightly slack.
+
+(2) Second Method: Central initiation by a compressed pellet.
+
+The booster charge prepared for use is shown in Drawing 3.
+
+- (i) Prepare a compressed pellet.
+- (ii) Taking the necessary safety precautions, place 10 grams of a secondary explosive in a mould with an inside diameter of 19 to 21 mm and compress to the correct shape and density.
+- (iii) The ratio of diameter: height should be roughly 1: 1.
+- (iv) In the centre of the bottom of the mould there is a peg, 12 mm in height and 7.0 to 7.3 mm in diameter (depending on the diameter of the detonator used), which forms a cylindrical recess in the compressed cartridge for subsequent insertion of the detonator.
+- (v) Prepare the booster charge
+
+Place the explosive into the cylinder at 2(i) standing upright on a level surface, then press it down with a wooden die to give the explosive a cylindrical shape with a central recess. Insert the compressed pellet into this recess. Cover the cylindrically shaped explosive containing the compressed pellet with a wooden disc having a central hole 7.0 to 7.3 mm in diameter for insertion of a detonator. Fix the wooden disc and the cylinder together with a cross of adhesive tape. Ensure that the hole drilled in the disc and the recess in the compressed pellet are coaxial by inserting the wooden rod.
+
+**4.** Preparing steel tubes for the detonation tests.
+
+- (a) At one end of the steel tube, drill two diametrically opposed holes 4 mm in diameter perpendicularly through the side wall at a distance of 4 mm from the edge.
+- (b) Butt weld the bottom plate to the opposite end of the tube, completely filling the right angle between the bottom plate and the wall of the tube with weld metal around the entire circumference of the tube.
+
+**5.** Filling and charging the steel tube. (see Drawings 2 and 3)
+
+- (a) The test sample, the steel tube and the booster charge must be conditioned to temperatures of 20 (± 5) °C. 16 to 18 kg of the test sample are needed for two detonation tests.
+- (b) Place the tube upright with its square bottom plate resting on a firm, flat surface, preferably concrete. Fill the tube to about one-third of its height with a portion of test sample and drop it 10 cm vertically onto the floor five times to compact the prills or granules as densely as possible in the tube. To accelerate compaction, vibrate the tube by striking the side wall with a 750 to 1,000-gram hammer between drops for a total of 10 times.
+- (c) Repeat this charging method with another portion of the test sample.
+- (d) Finally, a further addition shall be made such that, after compaction by raising and dropping the tube 10 times and a total of 20 intermittent hammer blows, the charge fills the tube to a distance of 70 mm from its orifice.
+- (e) The filling height of the sample must be adjusted in the steel tube so that the booster charge (prepared by either of the two methods in paragraphs 3(1) and (2) above) to be inserted later will be in close contact with the sample over its entire surface.
+- (f) Insert the booster charge into the tube so that it is in contact with the sample; the top surface of the wooden disc must be 6 mm below the end of the tube. Ensure essential close contact between explosive and test sample by adding or removing small quantities of sample. As shown in Drawings 2 and 3, split pins should be inserted through the holes near the open end of the tube and their legs opened flat against the tube.
+
+**6.** Positioning of the steel tube and lead cylinders (see Drawing 4).
+
+- (a) Number the bases of the lead cylinders at 2 (g) 1 to 6. Make six marks 150 mm apart on the centre line of the steel block at 2 (h) lying on a horizontal base, with the first mark at least 75 mm from the edge of the block. Place a lead cylinder upright on each of these marks, with the base of each cylinder centred on its mark.
+- (b) Lay the steel tube (prepared, filled and charged according to 4 and 5 above) horizontally on the lead cylinders so that the axis of the tube is parallel to the centre line of the steel block and the welded end of the tube extends 50 mm beyond lead cylinder marked as number 6. To prevent the tube from rolling, insert small wooden wedges between the tops of the lead cylinders and the tube wall (one on each side) or place a cross of wood between the tube and the steel block.
+- (c) Make sure that the tube is in contact with all six lead cylinders; a slight curvature of the tube surface can be compensated for by rotating the tube about its longitudinal axis; if any of the lead cylinders is too tall, tap the cylinder in question carefully with a hammer until it is the required height.
+
+**7.** Preparation for detonation.
+
+- (a) Set up the apparatus (according to 3 to 6 above) in a bunker or suitably prepared underground site (e.g. mine or tunnel) Should such firing sites not be available, the work can, if necessary, be done in a concrete-lined pit covered over with wooden beams. Ensure that the temperature of the steel tube is kept at 20 (± 5) °C before detonation.
+- (b) If the booster charge with seven-point initiation is used, ensure that the detonation cords are stretched out (as described in 3(1)(iv) above) and arranged as horizontally as possible.
+- (c) Finally, remove the wooden rod and replace with the detonator. Do not carry out firing until the danger zone has been evacuated and the test personnel have taken cover.
+- (d) Detonate the explosive.
+- (e) Allow sufficient time for the fumes (gaseous and sometimes toxic decomposition products such as nitrous gases) to disperse, then collect the lead cylinders and measure their heights with a Vernier caliper.
+
+**8.** Record for each of the marked lead cylinders, the degree of crushing expressed as a percentage of the original height of 100 mm. If the cylinders are crushed obliquely, record the highest and the lowest values and calculate the average.
+
+**9.** A probe for continuous measurement of the detonation velocity can be used; the probe should be inserted longitudinally to the axis of the tube or along its side wall.
+
+**10.** Two detonation tests per sample are to be carried out.
+
+**11.** Test report.
+
+Values for the following parameters are to be given in the test report for each of the detonation tests:
+
+- (a) the values actually measured for the outside diameter of the steel tube and for the wall thickness,
+- (b) the Brinell hardness of the steel tube,
+- (c) the temperature of the tube and the sample shortly before firing,
+- (d) the packing density (kg/m<sup>3</sup>) of the sample in the steel tube,
+- (e) the height of each lead cylinder after firing, specifying the corresponding cylinder number, and
+- (f) method of initiation employed for the booster charge.
+
+**12.** Evaluation of test results.
+
+If, and only if, in each firing, the crushing of at least one lead cylinder is less than 5%, the sample shall be determined to be resistant to detonation. Otherwise it shall be determined to be not resistant to detonation.
+
+*Note 1*: In so far as it is consistent with the procedures set down in Annex 3 to Regulation[^key-c1c4ea33e759c7533b371a2e1e23ca23] [(EC) No 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) of the European Parliament and of the Council relating to fertilisers for the testing of straight ammonium nitrate fertilisers an alternative method in accordance with this note may be adopted for the application of thermal cycling—
+
+(1) Principle and definition
+
+Heat the sample from ambient temperature to 50 °C and maintain at this temperature for a period of one hour (phase at 50 °C). Then cool the sample until a temperature of 25 °C is achieved and maintain at that temperature for one hour (phase at 25 °C). The combination of the successive phases at 50 °C and 25 °C forms one thermal cycle. After being subjected to the required number of thermal cycles, the test sample is held at a temperature of 20 ± 3 °C pending the execution of the detonation test.
+
+(2) Apparatus
+
+Two different methods using ovens can be utilised for conditioning the test samples. Method 1 employs a single oven capable of being thermostatically controlled to temperatures of 50 °C and 25 °C and with a minimum heating and cooling rate of 10 °C/h. Method 2 employs 2 ovens, one thermostatically controlled to 50 °C and the other controlled to 25 °C.
+
+(3) Procedure
+
+- (a) Divide approximately 20 kg of the sample of relevant ammonium nitrate material into eight roughly equal portions and place them in identical polythene bags made air-tight using a heat sealing device.
+- (b) Insert a suitable thermocouple into one of the portions through the wall of the polythene bag and tape it into place.
+- (c) Place the bags in an oven at 50 °C and once the thermocouple indicates that the portions have attained this temperature maintain them at that temperature for one hour.
+- (d) The bags must then either be removed from the oven and be placed in another oven at 25 °C (method 2) or the oven thermostat must be reset to 25 °C (method 1).
+- (e) Once the portions have cooled to 25 °C they must be maintained at that temperature for one hour.
+- (f) Repeat the thermal cycles four more times and then maintain the bags and their contents at a temperature of 20 ± 3 °C pending execution of the detonation tests.
+- (g) Discard the material from the bag containing the thermocouple and perform the detonation tests on the material from the other seven bags.
+
+*Note 2*: In so far as it is consistent with the procedures set down in Annex 3 to Regulation[^key-a9476b951a2dff3ab220fe70fb78c603] [(EC) No 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) of the European Parliament and of the Council relating to fertilisers for the testing of straight ammonium nitrate fertilisers an alternative plastic explosive may be used that contains 86% to 90% cyclonite, with a density of between 1,550 to 1,650 kg/ m3, and a detonation velocity of between 8,000 to 8,400 m/s, Mass 500 ± 1 gram.
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/1082/images/uksi_20031082_en_sld_001)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/1082/images/uksi_20031082_en_sld_002)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/1082/images/uksi_20031082_en_sld_003)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/1082/images/uksi_20031082_en_sld_004)
+
+## SCHEDULE 3 — IDENTIFICATION DOCUMENT
+
+Regulation 2
+
+An identification document for the import of any batch of relevant ammonium nitrate material manufactured [^key-3a0555a154b99f8a2bf5f2e672cfdc39]... shall include the following details where known—
+
+- (a) the importer’s name and address;
+- (b) the quantity of the material in the batch;
+- (c) each reference number of the detonation resistance certificate together with a certificate from a sampling body that certifies that the sample which passed the detonation resistance test was representative of the batch;
+- (d) the intended or actual date and place of loading the material onto the vessel or other form of transport for delivery to Great Britain as appropriate;
+- (e) if the material is (or is to be) imported by sea, the name of the vessel;
+- (f) the port of departure and intended port of arrival;
+- (g) the anticipated date of arrival;
+- (h) the anticipated date of off loading the material;
+- (i) the name and address of any person proposing to receive some or all of the material into a store immediately following importation;
+- (j) a specification of the location of each such store of that material and the quantity destined for each such store;
+- (k) evidence that each store to which the imported material is intended to be sent is available to the importer and that the person who controls that store can legally take delivery of the intended quantity of material at that store;
+- (l) if applicable, the name and address of any purchaser or intended purchaser of some or all of the material;
+- (m) a statement as to the intended end use of the material; and
+- (n) if the material is intended to be used as a fertiliser or as an ingredient of a fertiliser according to the statement in paragraph (m) above, details of the declared CN code number to the Commissioners for Customs and Excise under the Integrated Customs Tariff of the United Kingdom as revised or re-issued from time to time[^key-55cbdfc125cdb3bf8a1dac43920f46c0] [^c6076621].
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which extend to Great Britain, implement article 7 of Council Directive [80/876/EEC](https://www.legislation.gov.uk/european/directive/1980/0876) (OJ No. L250, 23.9.80 p. 7) in providing for checks to be carried out by the enforcing authority to establish that any ammonium nitrate based fertiliser manufactured chemically and containing more than 28% by weight of nitrogen, and described as an \`EC fertiliser' satisfies the detonation resistance test (regulation 8(2) and Schedule 2). They also introduce equivalent safety controls for other ammonium nitrate material, where the material contains more than 28% nitrogen by weight derived from ammonium nitrate unless a person who has such material (that is not sold or to be used as a fertiliser) has been granted an exemption certificate by the Health and Safety Executive (\`HSE') in accordance with regulation 10.
+
+All persons manufacturing (regulation 3), importing (regulation 4), supplying (regulation 5), or keeping (regulation 6) ammonium nitrate material, with the exception of final users of ammonium nitrate, are required to have in their possession either a detonation resistance certificate (Schedule 1), or unique numbered copy relating to the material under their control. Detonation resistance certificates can be invalidated by subsequent detonation resistance tests taken by enforcing authorities, and there are procedures for restoring validation (regulation 8). The certificate must contain at least the details set out in Schedule 1, to the effect that a sample has passed a detonation resistance test in accordance with the method and procedure as set out in Schedule 2. Representative samples taken from the ammonium nitrate material for the purpose of such a test, with the exception of those taken on behalf of an enforcing authority, must be certified as being representative by a sampling body. Transitional arrangements are dealt with in regulation 7.
+
+Where ammonium nitrate material is imported from outside of the European Union it must be accompanied by a certificate to indicate that a sampling body has certified that a representative sample of the material has been taken and subjected to a detonation resistance test undertaken in a competent laboratory within the European Union not more than sixty days before the material arrives into Great Britain (regulation 4(2)), with delay permitted only as a consequence of circumstances beyond the importer’s control. Importers must send copies of test certificate and the details required in an identification document (regulation 4 (2)(d) and Schedule 3) to the Secretary of State for Environment, Food and Rural Affairs no later than five days before the anticipated date of arrival in Great Britain.
+
+The procedure by which an inspector may take samples to test whether any material is incorrectly described by a person so as to take it outside the scope of these Regulations when the material is in fact relevant ammonium nitrate material covered by these Regulations is set out in regulation 9. Powers of inspectors are contained in section 20 of the Health and Safety at Work etc Act 1974 (\`the 1974 Act').
+
+Where material is not to be sold or used as a fertiliser, then a person, being either a manufacturer, importer, supplier or keeper (other than those keepers who are automatically excluded from the ambit of these Regulations in accordance with regulation 6 (2)) can apply in writing to HSE for an exemption certificate. Subject to a condition that the person making the application does not supply ammonium nitrate material for use as a fertiliser then HSE may issue an exemption certificate and can impose any further conditions as they see fit. HSE will keep a record of persons who have been granted such an exemption under regulation 10. Possession of such an exempting certificate will enable that person to be exempt from having to obtain a detonation resistance test in accordance with Schedule 2, and from having a detonation resistance certificate accompanying the material. Such an exempted person will still be required to keep records of the quantities of material supplied and details of the recipient in accordance with the various relevant regulations depending on them acting in their capacity as either manufacturer, importer, supplier or keeper.
+
+For the purposes of enforcing all the provisions of these Regulations with the exception of HSE enforcing any conditions imposed by them for an exemption granted under regulation 10, the enforcing authority specified in regulation 11 is—
+
+- (1) in England, the council of a county, or of a district where there is no county council, a London Borough Council or the Common Council of the City of London within their respective areas;
+- (2) in Wales, each county council and each county borough council constituted by the Local Government (Wales) Act 1994;
+- (3) in Scotland, every council constituted under the Local Government etc. (Scotland) Act 1994.
+
+Regulation 12 provides for a defence for certain contraventions of these Regulations where reasonable precautions and due diligence have been observed. Offences for contravention of these Regulations are provided for in section 33 of the 1974 Act. The Commissioners of Customs and Excise are able to exercise their powers contained in both section 27A of the 1974 Act and in the Customs and Excise Management Act 1979 (1979 c. 2) over imported ammonium nitrate material (regulation 4 as read with sections 49 (1) (b) and 170 (2) of the 1979 Act).
+
+These Regulations have been subject to consultation in accordance with section 50 of the 1974 Act, and were notified in draft to the European Commission on 31st December 2002 in accordance with Council Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034), as amended by Council Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048).
+
+## Annotations
+
+[^c6076471]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); [sections 15(1)](https://www.legislation.gov.uk/uksi/2003/1082/section/15/1) and 50 were amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15).
+
+[^key-493a702e53ab9ce8fd91325ab0cd2fc1]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/2/2) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8b05c9f2adb741337d5e86f7a5aac26f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/2/2) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-279c953a37fad54fb7e9ae91d2530119]: Textual amendment: Words in reg. 2(2) omitted (12.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/3/a/iii)
+
+[^key-113f47113478113ad0a049a5c85053fe]: Textual amendment: Words in reg. 2(2) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/7/a)
+
+[^key-6cb0e74158f27cd42422987bb344fc01]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/2/2) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/504/regulation/2/2/a)
+
+[^key-fe6f9e3c0311df85b8a316c7a67feee4]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/2/2) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/504/regulation/2/2/b)
+
+[^c6076501]: Marginal citation: ISO/IEC 9001:2000.
+
+[^key-74cf1a37fc8faa10b6f8408c319ee3ea]: Textual amendment: Words in reg. 2(2) omitted (12.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/3/c)
+
+[^c6076511]: Marginal citation: ISO/IEC 17020:1998 and 17025:1999.
+
+[^key-d3495a898b3c9fb11f158b2993e6d99e]: Textual amendment: Word in reg. 2(2) omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/7/b)
+
+[^key-716a9e77d941f35e488e2293beb34722]: Textual amendment: Words in reg. 2(2) substituted (24.10.2011) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/7/c)
+
+[^key-75d07f878aca249559d9f1e9682ff7ba]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/2/2) omitted (coming into force in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2024/504/regulation/2/2/c)
+
+[^key-341aa428a0c0030151b9bb034e44843b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/2/2) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2024/504/regulation/2/2/d)
+
+[^key-aadb4e2853432371a9f7c33aee55b449]: Textual amendment: Reg. 2(3)(c) and word omitted (12.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/4)
+
+[^key-3e777c2e17ea4bd8aaf630c634b56895]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/4/1) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0fcb248125cb10b9bc9ddc67ba985973]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/4/2) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-73505f856e32393fdb2ae6abe9799ef4]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/4/2/b) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-403bbe55a748e5af072af5cfcc2a6c60]: Textual amendment: Word in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/4/2/c) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c08506336ce9e3512613db16e1131668]: Textual amendment: Words in reg. 4(2)(d)(ii) substituted (12.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/5)
+
+[^key-6c6763ddd56b55710c6d449b96345237]: Textual amendment: Words in [reg. 4(5)(a)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/4/5/a) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-994db7f6734696b1ae70bed4f5760069]: Textual amendment: [Reg. 4(5)(b)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/4/5/b) and word omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e85658d2e31ca682dbf148b582ce2fdd]: Textual amendment: Words in reg. 5(1) omitted (12.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/6/a)
+
+[^key-6d94ddf79ed53a02349c6a02cf212b08]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/5/1/b) and word omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eef5bd5961cd7f6b1e0475e603d24b98]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/5/2) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-41606bf39cd5052b283e82b7fb1087ee]: Textual amendment: Words in reg. 5(2) substituted (12.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/6/b)
+
+[^key-3b0de874322c0ffba3d28b87d41a49fd]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/5/3) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(4)(c)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d842f206b8f32927376830694462f97e]: Textual amendment: Words in [reg. 5(9)(c)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/5/9/c) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(4)(d)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-45392eb518acc6418156235ebbec94b9]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/1082/regulation/7) omitted (12.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/7)
+
+[^c6076521]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
+
+[^key-e068e7b7010cf57a77e19448826690a7]: Textual amendment: Words in [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/9/3/a) omitted (12.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/8/a)
+
+[^key-9d765620d95397e074905b0a5b7b2f45]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/9/4) omitted (12.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/8/b)
+
+[^key-25e20edd0c39fffdda38c37decbd92c6]: Textual amendment: Words in [reg. 9(5)(a)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/9/5/a) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1e0b2ecbb5b32b1dec6b42f5901ad57a]: Textual amendment: Words in reg. 10(5) substituted (12.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/9)
+
+[^key-74599f2d78871073f0cc528a4b887da6]: Textual amendment: Words in reg. 11(1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 108(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/108/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-2e1d16816611dd5e5d043ece4cad4a9a]: Textual amendment: Words in reg. 11(2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 108(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/108/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^c6076531]: Marginal citation: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^key-3cc54c5d64616a9db7244cb2223bcfd9]: Textual amendment: Words in reg. 11(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 108(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/108/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^c6076541]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-a7fc136062a579351b0ea747367a7a7a]: Textual amendment: Words in reg. 11(4) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 108(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/108/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-48428d7362e73704356debb80e4ad2ca]: Textual amendment: Reg. 11(5)(6) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 108(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/108/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-3b8c28823a3b567233e1692a15c31bf1]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/1082/regulation/13) inserted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/6) (as amended by [S.I. 2020/998](https://www.legislation.gov.uk/uksi/2020/998), [regs. 1](https://www.legislation.gov.uk/uksi/2020/998/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/998/regulation/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2d2a73688aa1558917ca9dd25e903d60]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/13/1) omitted (4.2.2022) by virtue of [The Ammonium Nitrate Materials (High Nitrogen Content) Safety (Amendment) Regulations 2022 (S.I. 2022/29)](https://www.legislation.gov.uk/uksi/2022/29), [regs. 1](https://www.legislation.gov.uk/uksi/2022/29/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/29/regulation/2/2/a)
+
+[^key-849e054e9651e63ce307e0bbc77d11ed]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/13/1) substituted (31.12.2022) by [The Ammonium Nitrate Materials (High Nitrogen Content) Safety (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1182)](https://www.legislation.gov.uk/uksi/2022/1182), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1182/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1182/regulation/2/2)
+
+[^key-29d30bbfa7af16cea94b589c9a95449f]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/13/2) substituted (4.2.2022) by [The Ammonium Nitrate Materials (High Nitrogen Content) Safety (Amendment) Regulations 2022 (S.I. 2022/29)](https://www.legislation.gov.uk/uksi/2022/29), [regs. 1](https://www.legislation.gov.uk/uksi/2022/29/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/29/regulation/2/2/b/i)
+
+[^key-fc742fe72c45bf147d6628e9d209575e]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/13/2) substituted (4.2.2022) by [The Ammonium Nitrate Materials (High Nitrogen Content) Safety (Amendment) Regulations 2022 (S.I. 2022/29)](https://www.legislation.gov.uk/uksi/2022/29), [regs. 1](https://www.legislation.gov.uk/uksi/2022/29/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/29/regulation/2/2/b/ii)
+
+[^key-e3388d081e662850ed0f154c1f17dc60]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/13/2) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2024/504/regulation/2/3)
+
+[^key-ee3d1f3fb323df752f04f038b9533e05]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2003/1082/regulation/13/3) inserted (4.2.2022) by [The Ammonium Nitrate Materials (High Nitrogen Content) Safety (Amendment) Regulations 2022 (S.I. 2022/29)](https://www.legislation.gov.uk/uksi/2022/29), [regs. 1](https://www.legislation.gov.uk/uksi/2022/29/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/29/regulation/2/2/c)
+
+[^c6076551]: Marginal citation: ISO 65:1981.
+
+[^key-c1c4ea33e759c7533b371a2e1e23ca23]: Textual amendment: Words in Sch. 2 para. 12 substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/601/regulation/3)
+
+[^key-a9476b951a2dff3ab220fe70fb78c603]: Textual amendment: Words in Sch. 2 para. 12 substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/601/regulation/3)
+
+[^key-3a0555a154b99f8a2bf5f2e672cfdc39]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2003/1082/schedule/3) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2019/601/regulation/9/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-55cbdfc125cdb3bf8a1dac43920f46c0]: Textual amendment: Words in [Sch. 3(n)](https://www.legislation.gov.uk/uksi/2003/1082/schedule/3/n) substituted (12.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2019/306/regulation/2/10)
+
+[^c6076621]: Marginal citation: Integrated Customs Tariff of the United Kingdom (2002 edition) printed by the Stationery Office, and available from The Publications Centre, PO Box 29, Norwich NR3 1GN (ISBN 01178 24313).

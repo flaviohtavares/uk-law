@@ -1,0 +1,353 @@
+---
+title: The Register of Occupational and Personal Pension Schemes Regulations 2005
+id: uksi/2005/597
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-03-09'
+text_date: '2022-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2005/597
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/597/pdfs/uksiem_20050597_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/597/pdfs/uksi_20050597_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/597/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Register of Occupational and Personal Pension Schemes Regulations 2005
+
+> Text as at 2022-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2005 No. 597
+
+PENSIONS
+
+The Register of Occupational and Personal Pension Schemes Regulations 2005
+
+Made
+
+9th March 2005
+
+Laid before Parliament
+
+10th March 2005
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 59(2), 60(2)(h) and (3), 61(1), (2) and (3), 307(1), 315(2), (4) and (5) and 318(1) of the Pensions Act 2004 [^c1131339] and of all other powers enabling him in that behalf, by this instrument, which is made before the end of the period of six months beginning with the coming into force of the provisions of that Act by virtue of which these regulations are made [^c1131340], makes the following Regulations:
+
+## 1. Citation, commencement, extent and interpretation
+
+(1) These Regulations may be cited as the Register of Occupational and Personal Pension Schemes Regulations 2005, and shall come into force on 6th April 2005, subject to paragraph (2) below.
+
+(2) Regulation 2 and this regulation in so far as it applies to regulation 2 shall come into force on 1st April 2005.
+
+(3) Regulation 2 and this regulation in so far as it applies to regulation 2 extend to Northern Ireland.
+
+(4) In these Regulations—
+
+- “**the Act**” means the Pensions Act 2004;
+- “**Crown guarantee**” in relation to a scheme, means a scheme in respect of which a relevant public authority has –
+  - (a) given a guarantee in relation to any part of the scheme, any benefits payable under the scheme rules or any member of the scheme, or
+  - (b) made any other arrangements for the purposes of securing that the assets of the scheme are sufficient to meet any part of its liabilities;
+- “deferred member” and “pensioner member” have the meanings ascribed to them in section 124(1) of the Pensions Act 1995 [^c1131341];
+- “**public service pension scheme**” has the meaning ascribed to it in section 1 of the Pension Schemes Act 1993 [^c1131342] (categories of pension schemes) and section 1 of the Pension Schemes (Northern Ireland) Act 1993 [^c1131343] (categories of pension schemes);
+- “**relevant public authority**”, in relation to a Crown guarantee, means —
+  - (a) a Minister of the Crown (within the meaning of the Ministers of the Crown Act 1975 [^c1131344]),
+  - (b) a government department (including any body or authority exercising statutory functions on behalf of the Crown), or
+  - (c) the Scottish Ministers; and
+- [^key-315d03095e1572587e8adb47c133150b]...
+- “**trust scheme**” means an occupational or personal pension scheme which is established under a trust.
+
+## 2. Registrable schemes
+
+(1) A scheme which is of a description prescribed for the purposes of section 59(2) of the Act (register of occupational and personal pension schemes – prescribed description of “registrable schemes”) is a scheme—
+
+- (a) which–
+  - (i) has more than one member, and
+  - (ii) provides benefits which are not solely payable on the death of a member; and
+- (b) which—
+  - (i) prior to 6th April 2006, has received the approval of the Board of Inland Revenue for the purposes of section 590 or section 591 (other than subsection (2)(g)) of the Income and Corporation Taxes Act 1988 [^c1131345] (conditions for approval of retirement benefit schemes and discretionary approval), or for the purposes of Chapter 4 of Part 14 of that Act (personal pension schemes),
+  - (ii) is a public service pension scheme, or
+  - (iii) on or after 6th April 2006, is or has been registered in accordance with section 153 of the Finance Act 2004 [^c1131346](registration of pension schemes) (or is treated as registered by virtue of Schedule 36); [^key-434d64abfd877d388175ef2e4c3e2af1]...
+- (c)[^key-434d64abfd877d388175ef2e4c3e2af1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Sub-paragraphs (a)(ii) and (b)(i) and (ii) of paragraph (1) shall cease to have effect on 6th April 2006.
+
+## 3. Registrable information
+
+*Extent: E+W+S*
+
+(1) The information prescribed for the purposes of section 60(2)(h) of the Act (registrable information – other prescribed information) is—
+
+- (a) the category of the scheme by reference to—
+  - (i) whether the scheme is an occupational or a personal pension scheme,
+  - (ii)[^key-c013b4964cc5bd2143e4173ed15e1c88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^key-843e8f6eae8bc639cc06f3d597e67644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) where the scheme is or is to be registered as a stakeholder pension scheme under section 2 of the Welfare Reform and Pensions Act 1999 [^c1131347] (registration of stakeholder pension schemes), whether the scheme is a trust scheme or is established in accordance with regulation 2 of the Stakeholder Pension Scheme Regulations 2000 [^c1131348] (manner of establishment);
+- (b) in the case of a personal pension scheme, the number of members of the scheme on the later of—
+  - (i) the last day of the scheme year which ended most recently, and
+  - (ii) the day on which the scheme became a registrable scheme;
+- (c) in the case of an occupational pension scheme, the numbers of active members, deferred members and pensioner members of the scheme on the later of—
+  - (i) the last day of the scheme year which ended most recently, and
+  - (ii) the day on which the scheme became a registrable scheme;
+- (d) in relation to the benefits provided under the scheme—
+  - (i) whether any of those benefits are secured by a contract of insurance or annuity contract issued by an insurance company which provides administration services to the scheme, and
+  - (ii) if so—
+    - (aa) the name and address of the insurance company providing such a contract, and
+    - (bb) the policy number of that contract or the insurance company reference number in relation to that contract;
+- (da)[^key-8fb70367f3b54aef1fd511ad8c790ea4] in the case of an occupational pension scheme which is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations 1996, the name of the person for the time being appointed as the chair, within the meaning of regulation 1(2) of those Regulations;
+- (db)[^key-4501b6295d2f2dd16a7b956790afcffd] the value of the assets held by the scheme for the purpose of providing benefits to members, calculated on the last day of the scheme year which ended most recently;
+- (e)[^key-53f03972764bb211da9e4d8e40cc95fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) in the case of a trust scheme which is in the process of being wound up, the date on which the winding up commenced.
+- (g)[^key-44b9fc712c621990a31bef3c0715cb1c] in the case where an occupational pension scheme in respect of which a recovery plan has been prepared under section 226 of the Act begins to wind up during the recovery period, the date on which the winding up commenced.
+- (h)[^key-feb08e6ecd38b11b411b1d54829472cb] in the case of an occupational pension scheme which is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations 1996, whether the trustees or managers of that scheme have prepared the statement that they are required to prepare in accordance with regulation 23 of those Regulations; [^key-b8fe5073180b9efb0159e583e0c1dab7]...
+- (ha)[^key-145fee4aaa270bc36421228770be80e2] subject to paragraph (3A), in the case of a specified scheme—
+  - (i) whether, on the basis of the most recent assessment required by virtue of regulation 25(1A) of the Occupational Pension Schemes (Scheme Administration) Regulations 1996 (“value assessment”), the trustees or managers of the scheme consider that the scheme provides good value for members;
+  - (ii) where a value assessment was carried out for the previous scheme year, whether, on the basis of that value assessment, the trustees or managers of the scheme considered that the scheme provided good value for members;
+- (hb) subject to paragraph (3A), in the case of a specified scheme where the trustees or managers of the scheme have stated under sub-paragraph (ha)(i) that they do not consider that the scheme provides good value for members—
+  - (i) whether the trustees or managers propose to transfer the money purchase benefits of its members into another scheme, and whether or not they also propose to wind up the scheme, and
+  - (ii) if the trustees or managers do not propose to wind up the scheme—
+    - (aa) their reasons for not doing so, and
+    - (bb) what improvements they propose to make to the scheme to ensure that it does provide good value for members,
+- (i) in the case of an occupational pension scheme in respect of which the requirements of Part 2 of the Occupational Pension Schemes (Charges and Governance) Regulations 2015 apply to one or more of its members, whether the trustees or managers of that scheme have complied with those requirements in respect of each member to whom they apply;[^key-981029e48ab02b966f942d4b0c5f18c5] [^key-e3cf2ddaeaea5f1f09527364e355d5da]...
+- (j)[^key-e3cf2ddaeaea5f1f09527364e355d5da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^key-9aa3571c64767ca608db7f87126c100e] in the case of an occupational pension scheme in respect of which the trustees are required to publish a report in accordance with regulation 6(1)(b) of the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations 2021 (climate change reporting and publication requirements)—
+  - (i) the website address where the most recent report has been published; or
+  - (ii) where no report has been published, whether the period for publication specified in regulation 6(1) of those Regulations has ended;
+- (l) in the case of an occupational pension scheme in respect of which the trustees are required to publish the information specified in regulation 29A(2), (2A) or (2B) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (publishing charges and transaction costs and other relevant information), the website address where the information has been published.
+- (m)[^key-43a2b210083bc5e221deaae2ede5510d] in the case of an occupational pension scheme which is a relevant trust scheme—
+  - (i) the information mentioned in paragraph (3C) in respect of each in-scope FM provider for the time being appointed in relation to the scheme;
+  - (ii) the information mentioned in paragraph (3D) in respect of each IC provider for the time being appointed in relation to the scheme.
+
+(2) The reference in paragraph (1)(f) above to the date on which the winding up of a trust scheme commenced is to be construed in accordance with Part 1 of the Pensions Act 1995[^c1131349].
+
+(3) Where the scheme is a multi-employer scheme, for the purposes of sub-paragraph (1)(e), section 60(4) of the Act shall be modified so as to have effect as if for the words “the employer” in the definition of “relevant employer” there were substituted the words “ an employer ”.
+
+(3A)[^key-6e10b87d936d7b71858245b8440a1c4c] Paragraph (1)(ha) and (hb) does not apply if the Regulator has been notified under section 62(4) or (5) of the Pensions Act 2004 that the winding up of the scheme in question has commenced.
+
+(3B)[^key-31de9ebb15b5e54b8cd9672e5e727d94] For the purposes of this regulation “**in-scope FM provider**”, “**IC provider**” and “**relevant trust scheme**” have the meanings given in Part 6 of the Occupational Pension Schemes (Scheme Administration) Regulations 1996 (“**the 1996 Regulations**”).
+
+(3C) The information referred to in paragraph (1)(m)(i) is—
+
+- (a) the name and address of the in-scope FM provider,
+- (b) the date on which the in-scope FM provider was appointed or last appointed (as the case may be),
+- (c) whether the trustees carried out a qualifying tender process under paragraph 7(1), 8(1) or 9(3) (as the case may be) of the Schedule to the 1996 Regulations in connection with the in-scope FM provider’s appointment or arrangements with the in-scope FM provider, and
+- (d) if no such tender was carried out, why it was not carried out.
+
+(3D) The information referred to in paragraph (1)(m)(ii) is—
+
+- (a) the name and address of the IC provider,
+- (b) the date on which the IC provider was appointed or last appointed (as the case may be),
+- (c) whether the trustees have set objectives for the IC provider in accordance with regulation 35(1) of the 1996 Regulations and if no such objectives have been set, the reasons why they have not been set,
+- (d) whether the trustees have reviewed the objectives set for the IC provider in accordance with regulation 35(3) of those Regulations, and if no such review has been carried out, why that is the case, and
+- (e) whether the trustees have reviewed the performance of the IC provider in accordance with regulation 36 of those Regulations, and if no such review has been carried out, why that is the case.
+
+(3E) For the purposes of paragraphs (3C) and (3D) “**appoint**”, in relation to an in-scope FM provider or an IC provider, includes—
+
+- (a) the reappointment of the provider;
+- (b) the extension of the provider’s term of appointment.
+
+(4)[^key-9a469a1dd031c547a5c6276179443276] In this regulation—
+
+- “multi-employer scheme” means a trust scheme in relation to which there is more than one employer;
+- “recovery period” means the period specified in the scheme’s recovery plan in accordance with section 226(2)(b) of the Act;[^key-a787684215ac7a14e559749973726b6f]
+- “specified scheme” has the meaning given in regulation 25 of the Occupational Pension Schemes (Scheme Administration) Regulations 1996.
+
+(5) For the purposes of section 60(2)(g)(i) and of this regulation, “**scheme year**” means—
+
+- (a) a year specified for the purposes of the scheme in any document comprising the scheme or, if no year is specified, a period of 12 months commencing on 1st April or on such other date as the trustees select; or
+- (b) such other period (if any) exceeding six months but not exceeding 18 months as is selected by the trustees–
+  - (i) in connection with the commencement or termination of the scheme, or
+  - (ii) in connection with a variation of the date on which the year or period referred to in sub-paragraph (a) is to commence.
+
+## 4. Pension Tracing Service
+
+*Extent: E+W+S*
+
+(1) The Secretary of State shall provide an information service to be known as the Pension Tracing Service.
+
+(2) An application may be made to the Secretary of State for information from the Pension Tracing Service relating to one or more registrable schemes.
+
+(3) The application referred to in paragraph (2) may only be made by–
+
+- (a) any person who is, or may be, or may become, entitled to benefit under the scheme in question, or
+- (b) any person acting on behalf of such a person
+
+and “**applicant**” shall be construed accordingly.
+
+(4) Following receipt of an application made under paragraph (2) containing sufficient information to enable the Secretary of State to identify–
+
+- (a) the scheme or schemes in question, or
+- (b) one or more schemes which in the opinion of the Secretary of State may be the scheme or schemes in question,
+
+the Secretary of State shall provide sufficient information relating to that scheme or those schemes to the applicant to enable the applicant to contact the scheme or schemes.
+
+(5) The Secretary of State shall have the function of publishing (from time to time and in such manner as is in his opinion appropriate) details of the manner in which an application under paragraph (2) is to be made.
+
+(6) Where the Secretary of State has authorised a person to carry on the Pension Tracing Service on his behalf, the provisions of this regulation and regulation 5 shall apply to the authorised person as they apply to the Secretary of State.
+
+## 5. Provision of information
+
+*Extent: E+W+S*
+
+(1) For the purposes of carrying on the Pension Tracing Service, the Secretary of State–
+
+- (a) shall be provided with such–
+  - (i) information recorded in the register,
+  - (ii) extracts from the register, or
+  - (iii) copies of the register or of extracts from it,
+
+  as are in his opinion necessary for the purpose of carrying on that service; and
+- (b) may inspect–
+  - (i) the register,
+  - (ii) extracts from the register, or
+  - (iii) copies of the register or of extracts from it
+
+  when in his opinion such inspection is necessary for the purpose of carrying on that service.
+
+(2) For the purposes of providing information as specified in regulation 4(4), the Secretary of State may disclose information to the applicant which he has obtained in accordance with paragraph (1), but only so far as is necessary to provide the applicant with sufficient information to contact any relevant scheme.
+
+(3) When information is disclosed in accordance with paragraph (2), section 82(2) of the Act (restricted information – prohibition on disclosure) shall apply as if the words “and regulations made under section 61” were inserted after paragraph (b).
+
+## 5A. The Office for National Statistics - provision of information[^key-b849971b370cb176b426020150ff6de0]
+
+(1) The Office for National Statistics—
+
+- (a) shall be provided with such—
+  - (i) information recorded in the register,
+  - (ii) extracts from the register, or
+  - (iii) copies of the register or of extracts from it,
+
+  as are in its opinion necessary for the purposes of producing pension statistics; and
+- (b) may inspect—
+  - (i) the register,
+  - (ii) extracts from the register, or
+  - (iii) copies of the register or of extracts from it,
+
+  when in its opinion, such inspection is necessary for the purposes of producing pension statistics.
+
+(2) When information is disclosed in accordance with paragraph (1), section 82(2) of the Act (restricted information – prohibition on disclosure) shall apply as if the words “and regulations made under section 61” were inserted after “and 235” in paragraph (b).
+
+## 6. Revocation
+
+*Extent: E+W+S*
+
+The Regulations specified in column 1 of the Schedule to these Regulations are revoked to the extent specified in column 2 of the Schedule.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Malcolm Wicks
+
+Minister of State,
+
+Department for Work and Pensions
+
+*Extent: E+W+S*
+
+## SCHEDULE
+
+Regulation 6
+
+| *Column 1* | *Column 2* |
+| --- | --- |
+| *Regulations* | *Extent of Revocation* |
+| The Register of Occupational and Personal Pension Schemes Regulations 1997 (S.I. 1997/371) | The whole of the Regulations |
+| The Register of Occupational and Personal Pension Schemes (Amendment) Regulations 1997 (S.I. 1997/1405) | The whole of the Regulations |
+| The Personal and Occupational Pension Schemes (Miscellaneous Amendments) (No. 2) Regulations 1997 (S.I. 1997/3038) | regulation 11 |
+| The Occupational and Personal Pension Schemes (Levy and Register) (Amendments) Regulations 1998 (S.I. 1998/600) | regulations 3 and 4 |
+| The Occupational and Personal Pension Schemes (Penalties) Regulations 2000 (S.I. 2000/833) | regulation 3 |
+| The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691) | regulation 6 |
+| The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations 2000 (S.I. 2000/3198) | regulation 11 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision about the register of occupational and personal pension schemes to be compiled and maintained under section 59 of the Pensions Act 2004 (c. 35) (“**the Act**”).
+
+As these Regulations are made before the expiry of the period of six months beginning with the coming into force of the provisions of the Act by virtue of which they are made, the requirement for the Secretary of State to consult such persons as he considers appropriate does not apply.
+
+Regulation 2 and regulation 1 in so far as it applies to that regulation extend to Northern Ireland.
+
+Regulation 2 prescribes those pension schemes which are registrable.
+
+Regulation 3 prescribes further information which is registrable information.
+
+Regulation 4 provides that the Secretary of State, or someone authorised by him, shall provide an information service to be known as the Pension Tracing Service, which will assist people to get back in touch with pension schemes of which they may be a member but with which they have lost contact.
+
+Regulation 5 entitles the Secretary of State to be provided with information from the register, or to inspect the register, if he considers it necessary to carry on the Pension Tracing Service. It also enables him to disclose certain information from the register in certain circumstances to persons seeking to trace pensions.
+
+Regulation 6 brings into effect the Schedule, which revokes the previous set of regulations which made provision about the register of pension schemes, and other amending regulations.
+
+An assessment of the impact on business, charities or the voluntary sector of the provisions in these regulations is included in the Regulatory Impact Assessment that accompanied the Pensions Act 2004. A copy of that assessment has been placed in the libraries of both Houses of Parliament. Copies may be obtained from the Department for Work and Pensions, Regulatory Impact Unit, 3rd floor The Adelphi, 1-11 John Adam Street, London WC2N 6HT.
+
+## Annotations
+
+[^c1131339]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35); [section 318(1)](https://www.legislation.gov.uk/uksi/2005/597/section/318/1) is cited because of the meaning ascribed to “prescribed” and “regulations”.
+
+[^c1131340]: Marginal citation: *See* section 317(1) of the Pensions Act 2004 (“**the Act**”) which provides that the Secretary of State must consult such persons as he considers appropriate before he makes any regulations by virtue of the Act. By virtue of section 317(2)(c) this duty does not apply to regulations which are made before the end of the period of six months beginning with the coming into force of the provision of the Act by virtue of which they are made.
+
+[^c1131341]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26); section 124(1) is amended by section 84(1) of, and paragraphs 43 and 61(1) and (2) of Part 1 of Schedule 12 to, the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), and by section 56 of, and paragraph 8(3) of Part 1 of Schedule 5 to, the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19). “Active member” is defined in section 318(1) of the Act; that definition therefore also applies to these Regulations.
+
+[^c1131342]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); the relevant amending instrument is [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^c1131343]: Marginal citation: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49).
+
+[^c1131344]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
+
+[^key-315d03095e1572587e8adb47c133150b]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2005/597/regulation/1/4) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1131345]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Section 590 was amended by section 35 of, and paragraph 18 of Part 1 of Schedule 3 to, the [Finance Act 1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39); sections 75 and 187 of, and paragraphs 3 and 18(2) and (3) of Schedule 6, and Part 4 of Schedule 17 to, the [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26); sections 34(2) to (4), 36(2) and (3) and 123 of, and Part 5 of Schedule 19 to, the [Finance Act 1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31); and section 79 of, and paragraphs 2(1) to (4) and (7) and (8) and 18(1) and (3) of Schedule 10 to, the [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16). Section 591 was amended by section 146 of, and paragraph 6 of Part 1 of Schedule 13 to, the Finance Act 1988; sections 107(2) to (4) and 258 of, and Part 5 of Schedule 26 to, the [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9); sections 59(2) and 60(1) of the [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4); and section 79 of, and paragraphs (3)(a) and (b) and 18(1) and (3) of Schedule 10 to, the Finance Act 1999.
+
+[^c1131346]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-434d64abfd877d388175ef2e4c3e2af1]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/597/regulation/2/1/c) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/192/regulation/16/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c013b4964cc5bd2143e4173ed15e1c88]: Textual amendment: [Reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/a/ii) omitted (1.10.2022) by virtue of [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations 2022 (S.I. 2022/825)](https://www.legislation.gov.uk/uksi/2022/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/825/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/825/regulation/3/2/a)
+
+[^key-843e8f6eae8bc639cc06f3d597e67644]: Textual amendment: [Reg. 3(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/a/iii) omitted (1.10.2022) by virtue of [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations 2022 (S.I. 2022/825)](https://www.legislation.gov.uk/uksi/2022/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/825/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/825/regulation/3/2/a)
+
+[^c1131347]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^c1131348]: Marginal citation: [S.I. 2000/1403](https://www.legislation.gov.uk/uksi/2000/1403); the relevant amending instrument is [S.I. 2001/104](https://www.legislation.gov.uk/uksi/2001/104).
+
+[^key-8fb70367f3b54aef1fd511ad8c790ea4]: Textual amendment: Reg. 3(1)(da) inserted (6.4.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations 2015 (S.I. 2015/879)](https://www.legislation.gov.uk/uksi/2015/879), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/16/2)
+
+[^key-4501b6295d2f2dd16a7b956790afcffd]: Textual amendment: [Reg. 3(1)(db)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/db) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations 2021 (S.I. 2021/1070)](https://www.legislation.gov.uk/uksi/2021/1070), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/3/2/a)
+
+[^key-53f03972764bb211da9e4d8e40cc95fd]: Textual amendment: [Reg. 3(1)(e)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/e) omitted (1.10.2022) by virtue of [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations 2022 (S.I. 2022/825)](https://www.legislation.gov.uk/uksi/2022/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/825/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/825/regulation/3/2/a)
+
+[^key-44b9fc712c621990a31bef3c0715cb1c]: Textual amendment: Reg. 3(1)(g) inserted (24.7.2006) by [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/4/2/a)
+
+[^key-feb08e6ecd38b11b411b1d54829472cb]: Textual amendment: Reg. 3(1)(h)(i) inserted (6.4.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations 2015 (S.I. 2015/879)](https://www.legislation.gov.uk/uksi/2015/879), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/24/3)
+
+[^key-b8fe5073180b9efb0159e583e0c1dab7]: Textual amendment: Word in [reg. 3(1)(h)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/h) omitted (13.1.2019) by virtue of [The Occupational Pension Schemes (Cross-border Activities)(Amendment) Regulations 2018 (S.I. 2018/1102)](https://www.legislation.gov.uk/uksi/2018/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1102/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1102/regulation/5/2/a)
+
+[^key-145fee4aaa270bc36421228770be80e2]: Textual amendment: [Reg. 3(1)(ha)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/ha)[(hb)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/hb) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations 2021 (S.I. 2021/1070)](https://www.legislation.gov.uk/uksi/2021/1070), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/3/2/b)
+
+[^key-981029e48ab02b966f942d4b0c5f18c5]: Textual amendment: Word in [reg. 3(1)(i)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/i) inserted (13.1.2019) by [The Occupational Pension Schemes (Cross-border Activities)(Amendment) Regulations 2018 (S.I. 2018/1102)](https://www.legislation.gov.uk/uksi/2018/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1102/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1102/regulation/5/2/b)
+
+[^key-e3cf2ddaeaea5f1f09527364e355d5da]: Textual amendment: [Reg. 3(1)(j)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/j) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2019/192/regulation/16/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9aa3571c64767ca608db7f87126c100e]: Textual amendment: [Reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/k)[(l)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/l) inserted (1.10.2021) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Miscellaneous Provisions and Amendments) Regulations 2021 (S.I. 2021/857)](https://www.legislation.gov.uk/uksi/2021/857), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/857/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/857/regulation/3/2)
+
+[^key-43a2b210083bc5e221deaae2ede5510d]: Textual amendment: [Reg. 3(1)(m)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/1/m) inserted (1.10.2022) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations 2022 (S.I. 2022/825)](https://www.legislation.gov.uk/uksi/2022/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/825/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/825/regulation/3/2/b)
+
+[^c1131349]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26); *see* section 124(3A) to (3E).
+
+[^key-6e10b87d936d7b71858245b8440a1c4c]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/3A) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations 2021 (S.I. 2021/1070)](https://www.legislation.gov.uk/uksi/2021/1070), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/3/3)
+
+[^key-31de9ebb15b5e54b8cd9672e5e727d94]: Textual amendment: [Reg. 3(3B)-(3E)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/3B) inserted (1.10.2022) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations 2022 (S.I. 2022/825)](https://www.legislation.gov.uk/uksi/2022/825), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/825/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/825/regulation/3/3)
+
+[^key-9a469a1dd031c547a5c6276179443276]: Textual amendment: Reg. 3(4) substituted (24.7.2006) by [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/4/2/b)
+
+[^key-a787684215ac7a14e559749973726b6f]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2005/597/regulation/3/4) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations 2021 (S.I. 2021/1070)](https://www.legislation.gov.uk/uksi/2021/1070), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2021/1070/regulation/3/4)
+
+[^key-b849971b370cb176b426020150ff6de0]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2005/597/regulation/5A) inserted (4.7.2007) by [Register of Occupational and Personal Pension Schemes (Amendment) Regulations 2007 (S.I. 2007/1625)](https://www.legislation.gov.uk/uksi/2007/1625), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1625/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2007/1625/regulation/2)

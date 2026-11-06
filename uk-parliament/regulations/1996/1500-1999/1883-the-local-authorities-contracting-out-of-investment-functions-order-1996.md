@@ -1,0 +1,250 @@
+---
+title: The Local Authorities (Contracting Out of Investment Functions) Order 1996
+id: uksi/1996/1883
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1996-07-17'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1996/1883
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/1883/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Contracting Out of Investment Functions) Order 1996
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1996 No. 1883
+
+CONTRACTING OUT
+
+The Local Authorities (Contracting Out of Investment Functions) Order 1996
+
+Made
+
+17th July 1996
+
+Coming into force
+
+18th July 1996
+
+The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by sections 70(2) and (4) of the Deregulation and Contracting Out Act 1994[^f00001], and of all other powers enabling them in that behalf, after consultation with such representatives of local government as they consider to be appropriate, hereby make the following Order, a draft of which has been laid before and approved by resolution of each House of Parliament:
+
+## PART I — General
+
+### 1. Citation, commencement and interpretation[^key-4bd1ff4f5947fdafa33dd446357a5ad7]
+
+(1) This Order may be cited as the Local Authorities (Contracting Out of Investment Functions) Order 1996 and shall come into force on the day immediately following the day on which it is made.
+
+(2) In this Order, “contractor” means any person to whom an authorisation is given by virtue of Part II of this Order, and, except in article 9, includes the employees of that person.
+
+## PART II — Investments: contracting out
+
+### 2. Interpretation of Part[^key-2cccaa42694fbdba7a551744fd63da6d]
+
+In this Part —
+
+- “the 1988 Act” means the Local Government Finance Act 1988;[^f00002]
+- [^key-1680ab80392575c531503ae098b5a327]...
+- “authority” means a local authority or a parish or community council;
+- “local authority”—
+  - (a) in relation to England, means a county council, district council or London borough council, the Common Council of the City of London or the Council of the Isles of Scilly; and
+  - (b) in relation to Wales, means a county council or county borough council.
+
+### 3. Contracting out of functions[^key-5c3395755e435a9c25c3e4c6d3cccd14]
+
+The functions of an authority relating to the investment of money may, to the extent provided for in this Part and subject to the provisions of Part III of this Order, be exercised by, or by the employees of, such person (if any) as may be authorised to exercise them by the authority whose functions they are.
+
+### 4. Scope of authorisation[^key-afacf50c399cb279f3098aa9cb281660]
+
+(1) In this article —
+
+- [^key-0726001b9fb5be018a338d720ee4b0ab]...
+- “billing authority” has the same meaning as in section 144(2) of the 1988 Act (interpretation: authorities);[^f00005]
+- “collection fund” means the fund mentioned in section 89(1) of the 1988 Act (collection funds) which a billing authority is required to maintain in accordance with Part VI of that Act (funds);
+- “prescribed investment” means an investment prescribed in Schedule 3 to the Local Authorities (Funds) (England) Regulations 1992;[^f00006] and
+- “securities” includes shares, stock and debentures.
+
+(2) Subject to paragraph (2A),[^key-39d7908d41d71c8205acc56c6ad31a22] a local authority may authorise a contractor to exercise any functions consisting of, or relating to, the investment [^key-85e5bf6f332623bb996977e738c868cd]... of any sum for the time being held by the authority, apart from any sum which —
+
+- (a) a contractor may be authorised by a billing authority to invest in a prescribed investment by virtue of paragraph (3) below;
+- (b)[^key-5df90f71e5585a1a1757628af6c8fb85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-85c963917ec69ddd0da66c4d976a6394] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2A)[^key-a48234bf54b1ff60d8e109103e693b91] The investment referred to in paragraph (2) must be an investment which, if made by the local authority, would be permitted by virtue of section 12 of the Local Government Act 2003 (power to invest).
+
+(3) A local authority in England which is a billing authority may authorise a contractor to exercise any functions consisting of, or relating to, the investment in a prescribed investment of —
+
+- (a) any sum paid into their collection fund which is not immediately required for the purpose of making payments or transfers from that fund; or
+- (b) any sum which is transferred from their collection fund to their general fund.
+
+(4) Subject to paragraph (4A),[^key-a11089c4aaab24124ddf41a7d412108b] a parish or community council may authorise a contractor to exercise any functions consisting of, or relating to, the investment [^key-4e0b1cd2d5aa8f3b4e1cbc7a49c8e202]... of any sum for the time being held by the council [^key-4e0b1cd2d5aa8f3b4e1cbc7a49c8e202]....
+
+(4A)[^key-53c296c607c5a6861cc00a66adedeb22] The investment referred to in paragraph (4) must be an investment which, if made by the parish or community council, would be permitted by virtue of section 12 of the Local Government Act 2003 (power to invest).
+
+### 5. Investment functions[^key-a8fe586366082b8f252f97812d713040][^key-d31f399c5f9535d8586fac0f4ff4c23a]
+
+For the purposes of article 4, the functions of an authority which consist of, or relate to the investment of any sum (“the investment”) include the functions of —
+
+- (a) deciding the manner in which the sum concerned is for the time being to be invested, and the identity of any bank, building society or other person or body with or in whom the investment is to be made;
+- (b) entering into a contract in the course of making, disposing of, or otherwise dealing with, the investment;
+- (c) reaching agreement as to the terms and conditions of the investment, including any requirements in relation to any consideration in respect of the investment, or in relation to the repayment or redemption of the investment;
+- (d) deciding the manner of disposal of the investment, and the time when, and terms and conditions on which, the disposal of the investment is to be undertaken;
+- (e) deciding, in making any decision relating to the investment, on the need for diversification of all investments made, or to be made, by the authority;
+- (f) preparing and having custody of any documents relating to the investment; and
+- (g) making and recording any payments required to be made in making the investment, and receiving and recording sums falling due to the authority under the investment, or on the repayment, redemption or disposal of, the investment.
+
+## PART III — Conditions attaching to the exercise of functions
+
+### 6. Interpretation of Part[^key-e4bd2f9baaca42192eb14059255e7f61]
+
+In this Part, “authority”, in relation to a function and a contractor, means the local authority or parish or community council who have authorised the exercise of the function in question by the contractor.
+
+### 7. Conditions attaching to the exercise of functions[^key-f4df5993c7d06c8dec1aa9b0e20ee54b][^key-d16b6715ee20c5a32ec631dfa96c317e]
+
+In relation to any function which is to be specified in an authorisation given by virtue of Part II of this Order, the authorisation shall require the person who is to be authorised to fulfil such of the conditions specified in this Part as relate to the exercise of the function in question, and the contractor may only exercise that function subject to the fulfilment of those conditions.
+
+### 8. Making investments[^key-f756060ad66a2338db63439d3df18704][^key-d16b6715ee20c5a32ec631dfa96c317e]
+
+In relation to any function which involves the making of investments, or entering into a contract in the making of any investment, a contractor shall have regard to —
+
+- (a) the need for diversification of investments of sums made available to him by the authority for investment on the authority’s behalf; and
+- (b) the suitability of investments or any description of investment which he proposes to make and of any investment proposed as an investment of that description.
+
+### 9. Qualifications of contractors[^key-d16b6715ee20c5a32ec631dfa96c317e][^key-b5890f81cb578ccfbdf6c80878b1a9d4]
+
+In relation to any function which a contractor is authorised to exercise by the authority, the contractor shall ensure that he and his employees are suitably qualified to make investment decisions on the authority’s behalf and have practical experience of financial matters, including making investments, and, without prejudice to the generality of this condition, shall ensure that he is—
+
+- (a) an authorised person within the meaning of the Financial Services and Markets Act 2000 (“the 2000 Act”);[^key-414bbe38d93926df4eeb53f15ec2ef75]...
+- (b)[^key-414bbe38d93926df4eeb53f15ec2ef75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Investment and accounting practices[^key-7149d54efec6e52d74f057da37d75805][^key-d16b6715ee20c5a32ec631dfa96c317e]
+
+(1) Subject to paragraph (2) below, a contractor shall have regard to and observe all proper investment and accounting practices which, in relation to any function which he has been authorised to exercise by the authority —
+
+- (a) the authority is required to observe by virtue of any enactment; and
+- (b) whether by reference to any generally recognised published code or otherwise, are regarded as proper investment and accounting practices to be observed in the investing of any sums or the keeping of accounts of local authorities.
+
+(2) In the event of any conflict in any respect between the practices falling within paragraph (1)(a) above and those falling within paragraph (1)(b) above, only those falling within paragraph (1)(a) above are to be regarded as proper practices.
+
+### 11. Instructions of authority[^key-f02e6c4995d2261a779d0b7e2f5411d5][^key-d16b6715ee20c5a32ec631dfa96c317e]
+
+A contractor shall comply with any instruction given by the authority in relation to any function which he has been authorised to exercise by the authority.
+
+### 12. Information[^key-357a4fce9e3276f634a43a07708ce1eb][^key-d16b6715ee20c5a32ec631dfa96c317e]
+
+In relation to any function which a contractor is authorised to exercise by the authority, the contractor —
+
+- (a) shall take all necessary steps to ensure that all information obtained, whether from the authority or otherwise, in the course of exercising the function in question is held, at all times, in accordance with all relevant enactments and duties at common law regarding the keeping and disclosure of information;
+- (b) subject to the provisions of Schedule 15 to the Deregulation and Contracting Out Act 1994 (restrictions on disclosure of information)[^f00013], shall not use any such information for any purpose apart from the purpose of lawfully exercising that function on behalf of the authority;
+- (c) shall provide the authority at least once every three months with a report setting out the action he has taken in the exercise of that function; and
+- (d) shall immediately comply with any written request made by the authority for the supply of any additional information, including copies of any records made or held by the contractor, relating to the exercise of that function.
+
+### 13. Assignment and sub-contracting[^key-f213c30c444cfe73006ddb8eab6b9022][^key-d16b6715ee20c5a32ec631dfa96c317e]
+
+A contractor shall not make any arrangement for the exercise, whether in whole or in part, by any other person of any function which he has been authorised to exercise by the authority, unless that person has been authorised to exercise the function concerned under a further authorisation given by the authority by virtue of this Order.
+
+Signed by authority of the Secretary of State for the Environment
+
+Paul Beresford
+
+Parliamentary Under-Secretary of State,
+
+Department of the Environment
+
+Signed by authority of the Secretary of State for Wales
+
+Gwilym Jones
+
+Parliamentary Under-Secretary of State,
+
+Welsh Office
+
+(This note is not part of the Order)
+
+This Order makes provision to enable certain bodies to authorise another person, or that person’s employees, (a “contractor”) to exercise any functions consisting of, or relating to, the investment of sums of money. The sums in question do not include sums forming (or forming part of) a trust fund or pension fund, but do include, in the case of a local authority in England which is a billing authority for the purposes of the council tax and non-domestic rates, sums paid into the authority’s collection fund which are not immediately required for making payments or transfers from that fund, and sums transferred from their collection fund to their general fund.
+
+The bodies which may give an authorisation under this Order are —
+
+- (a) in England, county councils, district councils, London borough councils, the Common Council of the City of London, the Council of the Isles of Scilly and parish councils, and
+- (b) in Wales, county councils, county borough councils and community councils.
+
+The exercise by a contractor of the functions described in Part II of the Order is subject to the conditions specified in Part III of the Order, including, in particular —
+
+- (a) in article 9, a requirement concerning contractors' qualifications;
+- (b) in article 10, a requirement concerning the observance of investment and accounting practices; and
+- (c) in article 13, a requirement that a contractor shall not appoint any other person to exercise any function which he has been authorised to exercise, unless that person has also been authorised to exercise the function concerned.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).
+
+[^key-4bd1ff4f5947fdafa33dd446357a5ad7]: Commencement: Art. 1 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^key-2cccaa42694fbdba7a551744fd63da6d]: Commencement: Art. 2 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^f00002]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
+
+[^key-1680ab80392575c531503ae098b5a327]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1996/1883/article/2) omitted (1.10.2004) by virtue of [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/1)
+
+[^key-5c3395755e435a9c25c3e4c6d3cccd14]: Commencement: Art. 3 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^key-afacf50c399cb279f3098aa9cb281660]: Commencement: Art. 4 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^key-0726001b9fb5be018a338d720ee4b0ab]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/4/1) omitted (1.10.2004) by virtue of [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/2/a)
+
+[^f00005]: Footnote: Section 144(2), which was substituted by paragraph 81(1) of Schedule 13 to the Local Government Finance Act 1992, provides that "billing authority" has the same meaning as in Part I of the 1992 Act.
+
+[^f00006]: Footnote: [S.I. 1992/2428](https://www.legislation.gov.uk/uksi/1992/2428).
+
+[^key-39d7908d41d71c8205acc56c6ad31a22]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1996/1883/article/4/2) inserted (1.10.2004) by [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/2/b/i)
+
+[^key-85e5bf6f332623bb996977e738c868cd]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1996/1883/article/4/2) omitted (1.10.2004) by virtue of [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/2/b/ii)
+
+[^key-5df90f71e5585a1a1757628af6c8fb85]: Textual amendment: [Art. 4(2)(b)](https://www.legislation.gov.uk/uksi/1996/1883/article/4/2/b) revoked (1.10.2004) by [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/2/b/iii)
+
+[^key-85c963917ec69ddd0da66c4d976a6394]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/uksi/1996/1883/article/4/2/c) revoked (1.10.2004) by [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/2/b/iii)
+
+[^key-a48234bf54b1ff60d8e109103e693b91]: Textual amendment: [Art. 4(2A)](https://www.legislation.gov.uk/uksi/1996/1883/article/4/2A) inserted (1.10.2004) by [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/2/c)
+
+[^key-a11089c4aaab24124ddf41a7d412108b]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/uksi/1996/1883/article/4/4) inserted (1.10.2004) by [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(2)(d)(i)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/2/d/i)
+
+[^key-4e0b1cd2d5aa8f3b4e1cbc7a49c8e202]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/uksi/1996/1883/article/4/4) omitted (1.10.2004) by virtue of [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/2/d/ii)
+
+[^key-53c296c607c5a6861cc00a66adedeb22]: Textual amendment: [Art. 4(4A)](https://www.legislation.gov.uk/uksi/1996/1883/article/4/4A) inserted (1.10.2004) by [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [5(2)(e)](https://www.legislation.gov.uk/uksi/2004/2044/article/5/2/e)
+
+[^key-a8fe586366082b8f252f97812d713040]: Commencement: Art. 5 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^key-d31f399c5f9535d8586fac0f4ff4c23a]: Modification: [Art. 5](https://www.legislation.gov.uk/uksi/1996/1883/article/5) applied (with modifications) (20.1.2006) by [The Transport for London (Best Value) (Contracting Out of Investment and Highway Functions) Order 2006 (S.I. 2006/91)](https://www.legislation.gov.uk/uksi/2006/91), [arts. 1](https://www.legislation.gov.uk/uksi/2006/91/article/1), [2(1)(3)](https://www.legislation.gov.uk/uksi/2006/91/article/2/1/3)
+
+[^key-e4bd2f9baaca42192eb14059255e7f61]: Commencement: Art. 6 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^key-f4df5993c7d06c8dec1aa9b0e20ee54b]: Commencement: Art. 7 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^key-d16b6715ee20c5a32ec631dfa96c317e]: Modification: [Arts. 7-13](https://www.legislation.gov.uk/uksi/1996/1883/article/7) applied (with modifications) (20.1.2006) by [The Transport for London (Best Value) (Contracting Out of Investment and Highway Functions) Order 2006 (S.I. 2006/91)](https://www.legislation.gov.uk/uksi/2006/91), [arts. 1](https://www.legislation.gov.uk/uksi/2006/91/article/1), [2(1)(3)](https://www.legislation.gov.uk/uksi/2006/91/article/2/1/3)
+
+[^key-f756060ad66a2338db63439d3df18704]: Commencement: Art. 8 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^key-b5890f81cb578ccfbdf6c80878b1a9d4]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/1996/1883/article/9) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [533](https://www.legislation.gov.uk/uksi/2001/3649/article/533)
+
+[^key-414bbe38d93926df4eeb53f15ec2ef75]: Textual amendment: [Art. 9(b)](https://www.legislation.gov.uk/uksi/1996/1883/article/9/b) and word omitted (31.12.2020) by virtue of [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7149d54efec6e52d74f057da37d75805]: Commencement: Art. 10 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^key-f02e6c4995d2261a779d0b7e2f5411d5]: Commencement: Art. 11 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^key-357a4fce9e3276f634a43a07708ce1eb]: Commencement: Art. 12 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)
+
+[^f00013]: Footnote: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).
+
+[^key-f213c30c444cfe73006ddb8eab6b9022]: Commencement: Art. 13 in force at 18.7.1996, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/1883/article/1/1)

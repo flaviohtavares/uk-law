@@ -1,0 +1,72 @@
+---
+title: Local Democracy, Economic Development and Construction Act 2009, section 105A
+act: Local Democracy, Economic Development and Construction Act 2009
+section: 105A
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2009/20/section/105A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Democracy, Economic Development and Construction Act 2009, section 105A
+
+> **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 105A. Other public authority functions[^key-6eb60fb350a2be72ec0d66fd04b966f4][^key-6b225919cea879081e8943a336250541]
+
+*Extent: E+W*
+
+(1) The Secretary of State may by order—
+
+- (a) make provision for a function of a public authority that is exercisable in relation to a combined authority's area to be a function of the combined authority;
+- (b) make provision for conferring on a combined authority in relation to its area a function corresponding to a function that a public authority has in relation to another area.
+
+(2) An order under subsection (1) may include further provision about the exercise of the function including—
+
+- (a) provision for the function to be exercisable by the public authority or combined authority subject to conditions or limitations specified in the order;
+- (b) provision as to joint working arrangements between the combined authority and public authority in connection with the function (for example, provision for the function to be exercised by a joint committee).
+
+(3) The provision that may be included in an order under subsection (1)(a) includes, in particular, provision—
+
+- (a) for the combined authority to have the function instead of the public authority,
+- (b) for the function to be exercisable by the combined authority concurrently with the public authority,
+- (c) for the function to be exercisable by the combined authority and the public authority jointly, or
+- (d) for the function to be exercisable by the combined authority jointly with the public authority but also continue to be exercisable by the public authority alone.
+
+(4) An order under subsection (1)(a) may, in particular, include—
+
+- (a) provision for the making of a scheme to transfer property, rights and liabilities (including criminal liabilities) from the public authority to the combined authority (including provision corresponding to any provision made by section 17(4) to (7) of the Localism Act 2011);
+- (b) provision to abolish the public authority in a case where, as a result of the order, it will no longer have any functions.
+
+(5) An order under this section may not provide for a regulatory function that is exercisable by a public authority in relation to the whole of England to be exercisable by a combined authority in relation to its area if the regulated function is itself exercisable by the combined authority by virtue of an order under this section.
+
+(6) Subsection (7) applies where an order under subsection (1) contains a reference to a document specified or described in the order (for example, in imposing a condition by virtue of subsection (2)(a) for an authority to have regard to, or to comply with, a statement of policy or standards set out in the document).
+
+(7) If it appears to the Secretary of State necessary or expedient for the reference to the document to be construed—
+
+- (a) as a reference to that document as amended from time to time, or
+- (b) as including a reference to a subsequent document that replaces that document,
+
+the order may make express provision to that effect.
+
+(8) See also section 18 of the Cities and Local Government Devolution Act 2016 (devolving health service functions) which contains further limitations.
+
+(9) In this section—
+
+- “function” (except in subsection (4)(b)) does not include a power to make regulations or other instruments of a legislative character;
+- “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975;
+- “public authority”—
+  - (a) includes a Minister of the Crown or a government department;
+  - (b) does not include a county council or district council;
+- “**regulated function**” means the function of carrying out an activity to which a regulatory function relates;
+- “**regulatory function**” has the meaning given by section 32 of the Legislative and Regulatory Reform Act 2006.
+
+## Annotations
+
+[^key-6eb60fb350a2be72ec0d66fd04b966f4]: Modification: S. 105A modified (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 18](https://www.legislation.gov.uk/ukpga/2016/1/section/18), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+
+[^key-6b225919cea879081e8943a336250541]: Textual amendment: Ss. 105A, 105B inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/1/section/7), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

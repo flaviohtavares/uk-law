@@ -1,0 +1,161 @@
+---
+title: The Disability Discrimination Act 1995 (Private Hire Vehicles) (Carriage of Guide Dogs etc.) (England and Wales) Regulations 2003
+id: uksi/2003/3122
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-12-03'
+text_date: '2010-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2003/3122
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/3122/pdfs/uksi_20033122_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/3122/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Disability Discrimination Act 1995 (Private Hire Vehicles) (Carriage of Guide Dogs etc.) (England and Wales) Regulations 2003
+
+> Text as at 2010-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 3122
+
+DISABLED PERSONS
+
+TRANSPORT, ENGLAND AND WALES
+
+The Disability Discrimination Act 1995 (Private Hire Vehicles) (Carriage of Guide Dogs etc.) (England and Wales) Regulations 2003
+
+Made
+
+3rd December 2003
+
+Laid before Parliament
+
+9th December 2003
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State for Transport, in exercise of the powers conferred by sections 37A(8)(b) and (9) and 67(2) of the Disability Discrimination Act 1995[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-c77c9d4e1a13a0456a4f4e1e2eb83dee]
+
+## 1. Citation, commencement, interpretation and extent[^key-93e6c2c3dd79d6a6d7e7c3102970330f]
+
+(1) These Regulations may be cited as the Disability Discrimination Act 1995 (Private Hire Vehicles) (Carriage of Guide Dogs etc.) (England and Wales) Regulations 2003 and shall come into force as follows—
+
+- (a) regulation 2(1) on 31st December 2003; and
+- (b) all other provisions on 31st March 2004.
+
+(2) In these Regulations “the Act” means the Equality Act 2010[^key-bdc3598567a7be5f875304dd0adbb9d0].
+
+(3) These Regulations apply to England and Wales.
+
+## 2. Notices of exemption[^key-91ff7d230c7aeabd12bc0c71e16438f9][^key-8c4b79dd3217c8819c7b58caf363bf31]
+
+(1)[^key-91ff7d230c7aeabd12bc0c71e16438f9] The prescribed notice of exemption for the purposes of section 171(4)(b) of the Act[^key-76695c972228fe46017da4ef44aec144] shall be a notice duly completed in accordance with the certificate of exemption, which shall be—
+
+- (a) in the case of a driver of a private hire vehicle to whom the exemption certificate[^key-e13e5d3b38164d9ce9a78f8ce41be36c] has been issued by a licensing authority in England, the notice set out in Schedule 1 to these Regulations; and
+- (b) in the case of a driver of a private hire vehicle to whom the exemption certificate[^key-45927110e40987fe7824521013fa39de] has been issued by a licensing authority in Wales, the notice set out in Schedule 2 to these Regulations.
+
+(2)[^key-2702f54eb3c98690799e4002d09612dc] The prescribed manner of exhibiting a notice of exemption for the purposes of section 171(4)(b) of the Act[^key-d66f0355715675b325ea88472152ffbf] shall be—
+
+- (a) by displaying it—
+  - (i) on the nearside of and immediately behind the windscreen of the private hire vehicle facing outwards; and
+  - (ii) in a manner that readily permits its removal;
+- (b) so that—
+  - (i) its front is clearly visible from the outside of the private hire vehicle; and
+  - (ii) its back is clearly visible from the driver’s seat of the private hire vehicle.
+
+## 3. Prescribed charities[^key-f10a004be55cce561d921ce28b831624]
+
+Each of the following is a prescribed charity for the purposes of paragraph (c) of the definition of “assistance dog” in section 173(1) of the Act (so far as that definition applies for the purposes of section 170 of that Act)—
+
+- (a) “Dogs for the Disabled” registered with the Charity Commission under registration number 1092960;
+- (b) “Support Dogs” registered with the Charity Commission under registration number 1017237; and
+- (c) “Canine Partners for Independence” registered with the Charity Commission under registration number 803680.
+
+Signed by the authority of the Secretary of State for Transport
+
+Tony McNulty
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE 1[^key-653d6aca558432f1c877b4ce747746dd]
+
+Regulation 2(1)(a)
+
+[^key-4b52aa4ff44bb0aa849f381dbe79d4ad]1. FORM OF FRONT OF NOTICE OF EXEMPTION IN ENGLAND
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/3122/images/uksi_20033122_en_001)
+
+[^key-b8bc87be18231defe7aae586fbd462b5]2. FORM OF BACK OF NOTICE OF EXEMPTION IN ENGLAND
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/3122/images/uksi_20033122_en_epp_001.gif)
+
+## SCHEDULE 2[^key-b99cb3739ab5359dfc190930ff5c8aef]
+
+Regulation 2(1)(b)
+
+[^key-af2b28fe6ff10a7407383722bb106cc4][^key-9da07e6695c9528c330190e20927f4f4]1. FORM OF FRONT OF NOTICE OF EXEMPTION IN WALES
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/3122/images/uksi_20033122_en_003)
+
+[^key-87855383a60edb5c9fed69847eae6043]2. FORM OF BACK OF NOTICE OF EXEMPTION IN WALES
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/3122/images/uksi_20033122_en_epp_002.gif)
+
+(This note is not part of the Order)
+
+Section 37A of the Disability Discrimination Act 1995 imposes a duty on licensed private hire vehicle drivers and operators in relation to the carriage, without additional charge, of an assistance dog when it accompanies a disabled person. It also provides that a private hire vehicle driver may be exempted from this obligation on medical grounds
+
+These Regulations, which apply to private hire vehicles licensed in England and Wales, prescribe the form of the notice of exemption which must be displayed by an exempted driver and the manner of its display in the private hire vehicle.
+
+A regulatory impact assessment has been prepared and copies can be obtained from the Mobility and Inclusion Unit, Department for Transport, Zone 1/18 Great Minster House, 76 Marsham Street, London SWI 4DR (telephone 020 7944 6100). A copy has been placed in the library of each House of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50). Section 37A was inserted by the Private Hire Vehicles (Carriage of Guide Dogs etc.) Act [2002 (c. 37)](https://www.legislation.gov.uk/ukpga/2002/37).
+
+[^key-c77c9d4e1a13a0456a4f4e1e2eb83dee]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/3122) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
+
+[^key-93e6c2c3dd79d6a6d7e7c3102970330f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/3122/regulation/1) in force at 31.3.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/1/1/b)
+
+[^key-bdc3598567a7be5f875304dd0adbb9d0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/1/2) substituted (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 3(2)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/2) (with [Sch. 8 para. 3(10)-(12)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/10))
+
+[^key-91ff7d230c7aeabd12bc0c71e16438f9]: Commencement: Reg. 2(1) in force at 31.12.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/1/1/a)
+
+[^key-8c4b79dd3217c8819c7b58caf363bf31]: Commencement: Reg. 2(2) in force at 31.3.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/1/1/b)
+
+[^key-76695c972228fe46017da4ef44aec144]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/2/1) substituted (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/3) (with [Sch. 8 para. 3(10)-(12)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/10))
+
+[^key-e13e5d3b38164d9ce9a78f8ce41be36c]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/2/1/a) substituted (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 3(4)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/4) (with [Sch. 8 para. 3(10)-(12)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/10))
+
+[^key-45927110e40987fe7824521013fa39de]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/2/1/b) substituted (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 3(5)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/5) (with [Sch. 8 para. 3(10)-(12)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/10))
+
+[^key-2702f54eb3c98690799e4002d09612dc]: Textual amendment: Reg. 2(2) substituted (17.7.2006) by [The Disability Discrimination Act 1995 (Private Hire Vehicles)(Carriage of Guide Dogs etc.)(England and Wales)(Amendment) Regulations 2006 (S.I. 2006/1617)](https://www.legislation.gov.uk/uksi/2006/1617), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1617/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/1617/regulation/2/2)
+
+[^key-d66f0355715675b325ea88472152ffbf]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/2/2) substituted (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 3(6)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/6) (with [Sch. 8 para. 3(10)-(12)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/10))
+
+[^key-f10a004be55cce561d921ce28b831624]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/3122/regulation/3) substituted (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 3(7)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/7) (with [Sch. 8 para. 3(10)-(12)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/10))
+
+[^key-653d6aca558432f1c877b4ce747746dd]: Commencement: Sch. 1 in force at 31.12.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/1/1/a)
+
+[^key-4b52aa4ff44bb0aa849f381dbe79d4ad]: Textual amendment: Sch. 1: the words “SECTION 171 EQUALITY ACT 2010” are substituted for “SECTION 37A DISABILITY DISCRIMINATION ACT 1995” (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 3(8)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/8) (with [Sch. 8 para. 3(10)-(12)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/10))
+
+[^key-b8bc87be18231defe7aae586fbd462b5]: Textual amendment: Sch. 1 Pt. 2 (including form) substituted (17.7.2006) by [The Disability Discrimination Act 1995 (Private Hire Vehicles) (Carriage of Guide Dogs etc.) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/1617)](https://www.legislation.gov.uk/uksi/2006/1617), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1617/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1617/schedule/1)
+
+[^key-b99cb3739ab5359dfc190930ff5c8aef]: Commencement: Sch. 2 in force at 31.12.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/3122/regulation/1/1/a)
+
+[^key-af2b28fe6ff10a7407383722bb106cc4]: Textual amendment: Sch. 2: the words “ADRAN 171 DEDDF CYDRADDOLDEB 2010” are substituted for “ADRAN 37A DEDDF GWAHANIAETHU AR SAIL ANABLEDD 1995” (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 3(9)(a)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/9/a) (with [Sch. 8 para. 3(10)-(12)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/10))
+
+[^key-9da07e6695c9528c330190e20927f4f4]: Textual amendment: Sch. 2: the words “SECTION 171 EQUALITY ACT 2010” are substituted for “SECTION 37A DISABILITY DISCRIMINATION ACT 1995” (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 3(9)(b)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/9/b) (with [Sch. 8 para. 3(10)-(12)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/3/10))
+
+[^key-87855383a60edb5c9fed69847eae6043]: Textual amendment: Sch. 2 Pt. 2 (including form) substituted (17.7.2006) by [The Disability Discrimination Act 1995 (Private Hire Vehicles) (Carriage of Guide Dogs etc.) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/1617)](https://www.legislation.gov.uk/uksi/2006/1617), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1617/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1617/schedule/2)

@@ -1,0 +1,701 @@
+---
+title: The Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025
+id: uksi/2025/50
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-01-20'
+text_date: '2025-11-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2025/50
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/50/pdfs/uksiem_20250050_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/50/pdfs/uksi_20250050_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/50/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025
+
+> Text as at 2025-11-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2025 No. 50
+
+COMPANIES
+
+The Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025
+
+Made
+
+20th January 2025
+
+Coming into force in accordance with regulation 2
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 1082, 1098F(2) to (4), 1098G, 1110A(4), (6) and (7), 1110B and 1292(1)(b) of the Companies Act 2006[^f00001].
+
+In accordance with sections 1082(5), 1098F(5), 1098G(7), 1110A(8), 1110B(6) and 1290 of the Companies Act 2006, a draft of these Regulations has been laid before Parliament and approved by resolution of each House of Parliament.
+
+## Part 1 — Introductory
+
+### 1. Citation and extent[^key-eedecca52213cb720a9e9f7da14943f8]
+
+(1) These Regulations may be cited as the Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+### 2. Commencement[^key-30d7337e78709e4ccf80a8897a469c03]
+
+(1) Subject to paragraphs (2) and (3), these Regulations come into force when section 65 (procedure etc for verifying identity) of the 2023 Act comes fully into force.
+
+(2) Part 3 comes into force when section 66 (authorisation of corporate service providers) of the 2023 Act comes fully into force.
+
+(3) Part 4 comes into force when section 68 (allocation of unique identifiers) of the 2023 Act comes fully into force.
+
+### 3. Interpretation[^key-e8d9fed3c628aa87570af9164137d2ec]
+
+In these Regulations—
+
+- “**ACSP**” means an authorised corporate service provider[^f00002];
+- “**name**” means (unless stated otherwise) forename and surname;
+- “**required contact information**” means contact information of a type specified in registrar’s rules under regulation 5(1);
+- “**supervisory authority**” means an authority that is a supervisory authority under the Money Laundering Regulations (see regulation 7 of those Regulations);
+- “**the 2006 Act**” means the Companies Act 2006;
+- “**the 2023 Act**” means the Economic Crime and Corporate Transparency Act 2023;
+- “**the Money Laundering Regulations**” means the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^f00003].
+
+## Part 2 — Identity verification
+
+### Chapter 1 — Introduction
+
+#### 4. Interpretation of Part 2[^key-9424e5153fcf165d4794a2be13992e7b]
+
+In this Part—
+
+- “**former name**” means a name by which the individual was formerly known for business purposes;
+- “**required evidence**” means evidence of a type specified in registrar’s rules under regulation 5(2)(b);
+- “**required personal information**” means, in respect of an individual—
+  - (a) the individual’s name;
+  - (b) any former names of the individual;
+  - (c) the individual’s date of birth, and
+  - (d) any other types of personal information required in registrar’s rules under regulation 5(2)(a) about the individual;
+- “**reverification notice**” means a notice that the registrar may give to an individual under regulation 13(1) which states—
+  - (a) the individual’s name;
+  - (b) that the individual will cease to be an individual whose identity is verified[^f00004] unless within the period of 42 days beginning with the date on which the notice is given—
+    - (i) the individual is given a notice under regulation 8(1), or
+    - (ii) a reverification statement is delivered to the registrar in respect of the individual;
+  - (c) the maximum period within which the individual must deliver an application under regulation 6(2), if the individual wishes to have their identity verified by the registrar;
+  - (d) the date of the notice;
+- “**reverification statement**” means a statement by an ACSP which—
+  - (a) states the name of the individual to which it relates;
+  - (b) states the individual’s unique identifier[^f00005];
+  - (c) confirms that the ACSP has reverified the individual’s identity in accordance with these Regulations;
+  - (d) specifies the ACSP’s supervisory authority or authorities;
+  - (e) states the date on which the ACSP became satisfied that the individual’s required personal information is true, and
+  - (f) includes a statement confirming that the ACSP has delivered, or is delivering at the same time as the statement, the information referred to in regulation 11.
+
+### Chapter 2 — Registrar’s rules
+
+#### 5. Requirements in registrar’s rules[^key-e557bb9d5b24b8620bae07f6c55108b8]
+
+(1) The registrar must specify in rules the types of contact information to be provided by an individual who makes an application under regulation 6 or a request mentioned in regulation 9.
+
+(2) The registrar may specify in rules—
+
+- (a) any types of personal information about an individual not mentioned in paragraphs (a) to (c) of the definition of “**required personal information**” (see regulation 4), and
+- (b) any types of evidence,
+
+which must be delivered to the registrar in an application under regulation 6 or to an ACSP in connection with a request mentioned in regulation 9.
+
+(3) The registrar may specify in rules any additional types of steps an individual may be required by the registrar to take in order for their application under regulation 6 or request mentioned in regulation 9 to be determined.
+
+(4) The registrar and an ACSP may treat types of evidence specified in rules under paragraph (2)(b) as sufficient proof that an individual’s required personal information is true.
+
+(5) Rules under paragraph (3) may, in particular, specify that an individual may be required to—
+
+- (a) attend a meeting with the registrar or an ACSP, in person or otherwise;
+- (b) obtain from a third party meeting a description set out in the rules confirmation that the individual’s required personal information is true.
+
+### Chapter 3 — Procedure for identity verification or reverification by the registrar
+
+#### 6. Application for verification and reverification[^key-7ffb6003910176517b9877baa378f238]
+
+(1) An individual may apply to the registrar for verification of their identity if the individual is not an individual whose identity is verified.
+
+(2) An individual may apply to the registrar for reverification of their identity if they have been given a reverification notice.
+
+(3) An application under paragraph (1) or (2) must—
+
+- (a) be in writing;
+- (b) state the required personal information about the individual;
+- (c) include any required evidence;
+- (d) state the required contact information;
+- (e) in the case of an application under paragraph (1), state, if known, any unique identifier that the applicant previously had allocated to them which has been discontinued, and
+- (f) in the case of an application under paragraph (2), state the applicant’s unique identifier.
+
+(4) An individual who makes an application under paragraph (2) must comply before or on its delivery with any requirements included in the reverification notice under regulation 13(3)(a)(i) or (b)(i).
+
+#### 7. Determination of application[^key-e04668b8589414f722787f25cfa4e100]
+
+(1) On delivery of an application under regulation 6, the registrar must as soon as reasonably practicable determine the application.
+
+(2) The applicant’s identity is verified if the registrar is satisfied that the required personal information in the application under regulation 6 is true.
+
+(3) If the registrar considers it necessary for the applicant to take additional steps mentioned in rules made under regulation 5(3) for their application to be determined, the registrar must give a notice to the applicant specifying those required additional steps.
+
+(4) The registrar is under no duty under paragraph (1) to make a determination unless any additional steps notified under paragraph (3), or included in a reverification statement in accordance with regulation 13(3)(b)(i), have been taken by the applicant.
+
+(5) The registrar may consider other information and evidence in addition to that contained in the application when determining it.
+
+#### 8. Notice of outcome of application[^key-bc703d9aa32380190e71e65a13e98642]
+
+(1) If the registrar determines an application made under regulation 6 in the applicant’s favour the registrar must give the applicant a notice stating that they are an individual whose identity is verified.
+
+(2) The notice must state—
+
+- (a) the name of the applicant;
+- (b) the date of the notice, and
+- (c) the unique identifier allocated to the applicant.
+
+(3) If an applicant applied to the registrar for verification under regulation 6(1), the applicant becomes an individual whose identity is verified on the date of the notice.
+
+(4) If the registrar refuses an application made under regulation 6, the registrar must give the applicant a notice that their application has been unsuccessful.
+
+### Chapter 4 — Verification and reverification statements by an ACSP
+
+#### 9. Verification or reverification by an ACSP[^key-4953f30816997116d6c4f202aa96e61b]
+
+(1) Paragraph (2) applies to an individual whose identity is not verified.
+
+(2) An ACSP verifies the individual’s identity in accordance with these Regulations if—
+
+- (a) the individual requests that the ACSP verifies their identity;
+- (b) the individual provides the ACSP with the information and evidence referred to in regulation 6(3)(b) to (e), and
+- (c) the ACSP becomes satisfied that the required personal information is true.
+
+(3) Paragraph (4) applies to an individual whose identity is verified.
+
+(4) An ACSP reverifies the individual’s identity in accordance with these Regulations if—
+
+- (a) the individual is given a reverification notice;
+- (b) the individual requests that the ACSP reverifies their identity;
+- (c) the individual provides the ACSP with the information and evidence referred to in regulation 6(3)(b) to (d) and (f);
+- (d) the individual complies with any requirements included in the reverification notice under regulation 13(3)(a)(ii) and (b)(ii), and
+- (e) the ACSP becomes satisfied that the required personal information is true.
+
+(5) For the purpose verifying or reverifying an individual’s identity under this regulation, the ACSP may consider other information and evidence in addition to that provided by the individual under paragraphs (2)(b) or (4)(c) and (d) (as applicable).
+
+#### 10. Verification statement and reverification statement[^key-7858e0a2fe978cc5598929f211163889]
+
+(1) If an ACSP verifies or reverifies an individual’s identity in accordance with regulation 9, the ACSP may deliver to the registrar a verification statement[^f00006] or a reverification statement (as applicable).
+
+(2) A verification statement must—
+
+- (a) state the name of the individual to which it relates;
+- (b) state the date on which the ACSP became satisfied that the required personal information is true, and
+- (c) include a statement confirming that the ACSP has delivered, or is delivering at the same time as the statement, the information referred to in regulation 11.
+
+#### 11. Provision of information upon delivery of verification statement and reverification statement[^key-50e74b34e78c0cac50a9557e65ebb55c]
+
+The information referred to in regulation 10(2)(c) and paragraph (f) of the definition of “**reverification statement**” (see regulation 4) is—
+
+- (a) the individual’s date of birth;
+- (b) the required contact information;
+- (c) a description of the information and evidence which formed the basis on which the ACSP became satisfied that the required personal information is true, and
+- (d) the ACSP’s unique identifier.
+
+#### 12. Notice of delivery of a verification statement or reverification statement[^key-d63cd5f27ebdc9677d89659e6357f83d]
+
+(1) Where a verification statement has been delivered in accordance with regulation 10, the registrar must give a notice to the individual in respect of whom the verification statement was delivered, which must state—
+
+- (a) the individual’s name;
+- (b) the date of the delivery of the verification statement, and
+- (c) the unique identifier allocated to the individual.
+
+(2) Where a reverification statement has been delivered in accordance with regulation 10, the registrar must give a notice to the individual in respect of whom the reverification statement was delivered confirming the date of its delivery to the registrar.
+
+### Chapter 5 — Ceasing to be an individual whose identity is verified
+
+#### 13. Reverification notice[^key-2f14a39b48150f5755199b364979ae3a]
+
+(1) The registrar may give an individual whose identity is verified a reverification notice if the registrar has reasonable cause to believe that information or evidence falling in paragraph (2) is misleading, false or deceptive in a material particular.
+
+(2) Information or evidence falling in this paragraph is information or evidence—
+
+- (a) which was delivered to the registrar by or on behalf of the individual in an application under regulation 6;
+- (b) other than that referred to in sub-paragraph (a) which was relied upon by the registrar when making a determination of the application under regulation 7;
+- (c) which was delivered to an ACSP by or on behalf of the individual in connection with a request referred to in regulation 9;
+- (d) other than that referred to in sub-paragraph (c) which was relied upon by an ACSP when determining the request.
+
+(3) The reverification notice may include requirements on the individual—
+
+- (a) to deliver, or cause to be delivered, information and evidence of a type mentioned in rules made under regulation 5(1) and (2) as is specified by the registrar in the notice, to—
+  - (i) the registrar, if the individual wishes to make an application under regulation 6(2);
+  - (ii) any ACSP that is requested by the individual to reverify their identity (see regulation 9(4));
+- (b) to take such additional steps of a type mentioned in rules made under regulation 5(3) as specified by the registrar in the notice, for the purpose of—
+  - (i) a determination being made by the registrar under regulation 7(1);
+  - (ii) a determination being made by an ACSP of a request by the individual to reverify their identity.
+
+(4) The registrar may by notice in writing extend the periods mentioned in paragraphs (b) and (c) of the definition of “**reverification notice**” (see regulation 4).
+
+#### 14. Ceasing to be verified[^key-511f2e0d4d69fdeb315fa312da8bc89c]
+
+(1) An individual to whom a reverification notice is given under regulation 13 ceases to be an individual whose identity is verified at the end of the specified period, unless—
+
+- (a) the individual is given a notice under regulation 8(1) within that period, or
+- (b) a reverification statement is delivered to the registrar in respect of the individual within that period.
+
+(2) In paragraph (1) “**the specified period**” means the period specified in the reverification notice or that period as extended by notice under regulation 13(4).
+
+(3) Where someone ceases to be an individual whose identity is verified as a result of paragraph (1), the registrar must give the individual a notice.
+
+(4) The notice must state—
+
+- (a) the individual’s name;
+- (b) the date on which the individual ceased to be an individual whose identity is verified, and
+- (c) that the unique identifier allocated to the individual is discontinued as of that date.
+
+### Chapter 6 — Records kept by an ACSP
+
+#### 15. Records kept by an ACSP[^key-920347291e920993b1bd36055d3bebd9]
+
+(1) This regulation applies to a person who is or has been an ACSP (“a relevant person”).
+
+(2) A relevant person must keep records in connection with the verification and reverification of an individual’s identity under these Regulations in accordance with this regulation.
+
+(3) The records must be kept in respect of every individual—
+
+- (a) on behalf of whom a relevant person has delivered a verification statement or a reverification statement, and
+- (b) in respect of whom the relevant person did not become satisfied as mentioned in regulation 9(2)(c) or (4)(e), as applicable.
+
+(4) The records must be kept for the period of 7 years from—
+
+- (a) in the case of an individual to which paragraph (3)(a) applies, the date stated in accordance with regulation 10(2)(b) or paragraph (e) of the definition of “**reverification statement**” (see regulation 4), as applicable,
+- (b) in the case of an individual to which paragraph (3)(b) applies, the date on which the relevant person decided not to deliver a verification statement or a reverification statement, as applicable, in relation to the individual.
+
+(5) In respect of every individual mentioned in paragraph (3) the records must include—
+
+- (a) any records of requests referred to in regulation 9;
+- (b) all information and evidence the relevant person considered when determining such requests.
+
+#### 16. Offences in relation to record keeping[^key-1f60f565b4d499c11519e56ba323d09b]
+
+(1) It is an offence for a person to fail, without reasonable excuse, to comply with regulation 15.
+
+(2) Where the offence is committed by a firm, every officer of the firm who is in default also commits the offence.
+
+(3) A person guilty of an offence under this regulation is liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both);
+- (b) on summary conviction—
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
+  - (ii) in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both) and, for continued contravention, a daily default fine not exceeding one-fifth of the statutory maximum;
+  - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both) and, for continued contravention, a daily default fine not exceeding one-fifth of the statutory maximum.
+
+## Part 3 — Authorised Corporate Service Providers
+
+### Chapter 1 — Suspension and cessation of ACSP status
+
+#### 17. Suspension of ACSP status[^key-06bfc82d19a19cf70006706c1df18ba0]
+
+(1) A person is suspended as an ACSP when the registrar gives the person a notice informing them their status as an ACSP is suspended (a “notice of suspension”).
+
+(2) The registrar may give a notice of suspension pending a decision whether to give a notice of cessation under regulation 18(4).
+
+(3) A notice of suspension given in accordance with paragraph (2) must—
+
+- (a) state the registrar’s intention to give a notice of cessation under regulation 18(4) to the person after the expiry of the period of 28 days beginning on the day the notice of suspension is given;
+- (b) explain the reasons for the registrar’s intention, and
+- (c) explain how the person can object to the giving by the registrar of a notice of cessation to the person (see regulation 18(5)).
+
+(4) The registrar may by notice in writing extend a period specified in paragraph (3)(a).
+
+(5) Upon the giving of a notice of suspension, the registrar must—
+
+- (a) publish notice of the suspension of the person’s status as an ACSP, and
+- (b) notify the person’s supervisory authority.
+
+(6) A person’s status as an ACSP ceases to be suspended when the registrar gives the person a notice informing them their suspension is revoked (a “notice of suspension revocation”) or gives them a notice of cessation under regulation 18(4).
+
+(7) Upon the giving of a notice of suspension revocation, the registrar must notify the person’s supervisory authority.
+
+#### 18. Cessation of ACSP status[^key-2796f5171e8838cf6464d9b8f9649e54]
+
+(1) A person ceases to be an ACSP when the registrar gives the person a notice informing them they no longer have that status (a “notice of cessation”).
+
+(2) A notice of cessation must state—
+
+- (a) the person’s name;
+- (b) the date on which the person ceased to be an ACSP, and
+- (c) that the unique identifier allocated to the person is discontinued as of that date.
+
+(3) The registrar may give a notice of cessation upon written request by a person who wishes to cease to be an ACSP.
+
+(4) The registrar may give a notice of cessation under this paragraph if the registrar has reasonable cause to believe that a person is not a fit and proper person to carry out the functions of an ACSP.
+
+(5) A person may object to the giving by the registrar of a notice of cessation to them under paragraph (4) by giving a written notice to the registrar within the period mentioned in regulation 17(3)(a) (or such period as extended in accordance with regulation 17(4)) which states—
+
+- (a) the name of the person making the objection;
+- (b) the person’s address;
+- (c) the person’s email address, and
+- (d) the reasons for the objection.
+
+(6) In deciding whether to give a notice of cessation to a person under paragraph (4), the registrar must take into account any objection made in accordance with paragraph (5).
+
+(7) The registrar may not give a notice of cessation under paragraph (4) until a notice of suspension has been given under regulation 17 and the period mentioned in regulation 17(3)(a), or that period as extended by notice under regulation 17(4), has expired.
+
+(8) Upon the giving of a notice of cessation, the registrar must—
+
+- (a) publish notice of the person having ceased to be an ACSP, and
+- (b) notify the person’s supervisory authority.
+
+(9) In paragraph (5)(a), in the case of an ACSP which is a firm, “**name**” means firm name.
+
+### Chapter 2 — Duty to provide information or notify changes
+
+#### 19. Duty to provide information[^key-3d025f9bd8f9c177e27ccb60b57c91da]
+
+(1) The registrar may by notice in writing require a person to provide information to the registrar for the purpose of enabling the registrar to determine—
+
+- (a) whether the person has complied with the obligation imposed by regulation 15;
+- (b) whether the person is a fit and proper person to continue carrying out the functions of an ACSP.
+
+(2) A requirement under this regulation may specify—
+
+- (a) the form and manner in which the information is to be provided;
+- (b) the period within which it is to be provided.
+
+(3) A requirement imposed under paragraph (1)(a) may include a requirement to give the registrar access to, or deliver to the registrar, information of a description specified in the notice that is held in the records kept according to regulation 15.
+
+(4) The registrar may by notice in writing extend a period specified in a requirement under this regulation.
+
+#### 20. Privilege against self-incrimination[^key-7bb911808c0f8d5d3de0656a2a21c699]
+
+(1) A statement made by a person in response to a requirement under regulation 19 may not be used against the person in criminal proceedings in which the person is charged with an offence to which this paragraph applies.
+
+(2) Paragraph (1) applies to any offence other than those specified in section 1092C(2)[^f00007] (privilege against self-incrimination) of the 2006 Act.
+
+#### 21. Duty to notify registrar of changes of ACSP information[^key-0acbe7001b6a1c0abe96d90a39b65f64]
+
+(1) An ACSP must give notice to the registrar of any change in the required information about it since the date that it delivered its application under section 1098B[^f00008] (application to become an authorised corporate service provider) of the 2006 Act.
+
+(2) The notice must specify the date on which the change occurred.
+
+(3) A notice under this regulation must be given within the period of 14 days beginning with the day on which the change occurred.
+
+(4) In this regulation “**required information**” means—
+
+- (a) in the case of an ACSP which is a firm, the information required under section 1098C(1)[^f00009] (the required information about an applicant) of the 2006 Act;
+- (b) in the case of an ACSP which is an individual, the information required under section 1098C(2) of the 2006 Act.
+
+#### 22. Offence for failure to provide information[^key-46039ef25cf26574535b795f3a1c1a62]
+
+(1) It is an offence for a person to fail, without reasonable excuse, to comply with regulation 19 or 21.
+
+(2) Where the offence is committed by a firm, every officer of the firm who is in default also commits the offence.
+
+(3) A person guilty of an offence under this regulation is liable on summary conviction—
+
+- (a) in England and Wales to a fine;
+- (b) in Scotland or Northern Ireland, to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale.
+
+## Part 4 — Unique identifiers
+
+### Chapter 1 — Unique identifiers for individuals[^M_C_b3053aa5-93ad-4bea-96cf-e88fdac6bb81][^M_C_1fc8e6cf-aa17-4e7a-f058-779febee6268][^M_C_40870dbc-f7dc-49b8-8197-757753cd7ca5][^M_C_f3ff464d-7a0a-48af-eb39-3a1ee1b75978][^M_C_478695af-2c0a-44e5-f7b7-ef3308361d13][^key-3648663cd3726fbf79ac8662facc6699][^key-657bff7c5e77e230b7e26fa7ca4bf081]
+
+#### 23. Allocation of unique identifier to individual whose identity is verified[^key-6787d96d76ca3b3ebbce3065b2b476d2]
+
+(1) The registrar must allocate a unique identifier to any individual whose identity is verified.
+
+(2) Unique identifiers allocated under this Chapter may be in such form, consisting of one or more sequences of letters or numbers, as the registrar may from time to time determine.
+
+#### 24. Discontinuance of unique identifier[^key-6a48a11a2ba7f77df54ffd4ea76c84d2]
+
+(1) A unique identifier ceases to be allocated to an individual if—
+
+- (a) the individual ceases to be an individual whose identity is verified;
+- (b) the individual is given a notice under paragraph (2) that the unique identifier has ceased to be allocated to them, or
+- (c) a new unique identifier is allocated to the individual under regulation 25.
+
+(2) The registrar may give notice to an individual if the registrar is aware that the individual has more than one unique identifier.
+
+(3) The notice under paragraph (2) must—
+
+- (a) state the individual’s name;
+- (b) state the date of the notice;
+- (c) specify one or more unique identifiers which have ceased to be allocated to the individual, and
+- (d) state the unique identifier that remains allocated to them.
+
+#### 25. Allocation of new unique identifier[^key-f8e37177c01da97ab4dc4cbb988ce5e3]
+
+A new unique identifier may be allocated to an individual by giving them a notice stating—
+
+- (a) the individual’s name;
+- (b) the unique identifier that has ceased to be allocated to the individual, and
+- (c) the individual’s new unique identifier.
+
+### Chapter 2 — Unique identifiers for ACSPs[^M_C_b3053aa5-93ad-4bea-96cf-e88fdac6bb81][^M_C_1fc8e6cf-aa17-4e7a-f058-779febee6268][^M_C_40870dbc-f7dc-49b8-8197-757753cd7ca5][^M_C_f3ff464d-7a0a-48af-eb39-3a1ee1b75978][^M_C_478695af-2c0a-44e5-f7b7-ef3308361d13][^key-3648663cd3726fbf79ac8662facc6699][^key-657bff7c5e77e230b7e26fa7ca4bf081]
+
+#### 26. Interpretation[^key-3184f59367266b0c5fcdaccbdce3a6cf]
+
+In this Chapter, in the case of an ACSP which is a firm, “**name**” means firm name.
+
+#### 27. Allocation of unique identifier to ACSP[^key-be842dcd6da42a9910fd7f4812dd7fc5]
+
+(1) The registrar must allocate a unique identifier to an ACSP.
+
+(2) Unique identifiers allocated under this Chapter may be in such form, consisting of one or more sequences of letters or numbers, as the registrar may from time to time determine.
+
+#### 28. Notice of allocation of unique identifier to ACSP[^key-b2535bcb3b2c70d5b1a3a240fcb4bb57]
+
+Where the registrar has granted an application under section 1098B (application to become authorised corporate service provider) of the 2006 Act, the registrar must give notice to the ACSP stating—
+
+- (a) the ACSP’s name, and
+- (b) the ACSP’s unique identifier.
+
+#### 29. Discontinuance of an ACSP’s unique identifier[^key-12ead17330558756906562b64b182766]
+
+(1) A unique identifier ceases to be allocated to an ACSP if—
+
+- (a) the ACSP ceases to be an ACSP under section 1098F(1) (ceasing to be an authorised corporate service provider) of the 2006 Act or under regulation 18;
+- (b) the ACSP is given a notice under paragraph (2) that the unique identifier has ceased to be allocated to it, or
+- (c) a new unique identifier is allocated to the ACSP under regulation 30.
+
+(2) The registrar may give a notice to an ACSP if the registrar is aware that the ACSP has more than one unique identifier.
+
+(3) The notice given under paragraph (2) must—
+
+- (a) state the ACSP’s name;
+- (b) specify one or more unique identifiers which have ceased to be allocated to the individual, and
+- (c) state the unique identifier that remains allocated to them.
+
+#### 30. Allocation of new unique identifier to an ACSP[^key-9cc72023f196063c2f40b5480e5619df]
+
+A new unique identifier may be allocated to an ACSP by giving it a notice stating—
+
+- (a) the ACSP’s name;
+- (b) the unique identifier that has ceased to be allocated to the ACSP, and
+- (c) the ACSP’s new unique identifier.
+
+### Chapter 3 — Statement about the unique identifiers
+
+#### 31. Requirement to deliver statements about the unique identifier[^key-1e36400baf2532ed7647174f9dde8750]
+
+(1) Where a statement is delivered under any of the provisions mentioned in paragraph (2) that an individual’s identity is verified, the statement must include a statement of the individual’s unique identifier.
+
+(2) The provisions are—
+
+- (a) section 12(2A) of the 2006 Act;
+- (b) section 12B(2) of that Act;
+- (c) section 167G(3)(c) of that Act;
+- (d) section 790LB(1) of that Act;
+- (e) section 790LM(2) of that Act;
+- (f) section 790LN(2) of that Act;
+- (g) section 1067A(1)(b) of that Act;
+- (h) section 1067A(2) of that Act;
+- (i) section 1098B(2)(c) of that Act;
+- (j) regulations made under section 4(3)(a) of the Economic Crime and Corporate Transparency Act 2023; and
+- (k) regulations made under paragraph 3(2)(a) of Schedule 2 to that Act.
+
+## Part 5 — Communication
+
+### 32. Communication with an individual[^key-98c404ae281ae68104061f72c42acc72]
+
+(1) Notices specified in paragraph (2) are validly given to an individual if they are sent or supplied to any address (including any email address) delivered—
+
+- (a) in accordance with paragraph (3) or regulation 6(3)(d);
+- (b) before or upon delivery of a verification statement or reverification statement in accordance with regulation 10 (see regulation 11(b)).
+
+(2) The notices are those given under—
+
+- (a) regulation 7(3) (determination of application);
+- (b) regulation 8(1) and (4) (notice of outcome of application);
+- (c) regulation 12 (notice of delivery of a verification statement or reverification statement);
+- (d) regulation 13(1) and (4) (reverification notice);
+- (e) regulation 14(3) (ceasing to be verified);
+- (f) regulation 24(2) (discontinuance of unique identifier);
+- (g) regulation 25 (allocation of new unique identifier).
+
+(3) An individual whose required contact information has been registered under these Regulations may notify the registrar about any change to that information.
+
+### 33. Communication with an ACSP[^key-e76cb9a0012d6045ac4663d4bd07086c]
+
+(1) Notices specified in paragraph (2) are validly given to an ACSP if they are sent or supplied in accordance with paragraph (3).
+
+(2) The notices are those given under—
+
+- (a) regulation 17(1), (4) and (6) (suspension of ACSP status);
+- (b) regulation 18(1) (cessation of ACSP status);
+- (c) regulation 19(1) and (4) (duty to provide information);
+- (d) regulation 28 (notice of allocation of unique identifier to ACSP);
+- (e) regulation 29(2) (discontinuance of an ACSP’s unique identifier);
+- (f) regulation 30 (allocation of new unique identifier to an ACSP).
+
+(3) The notice may be sent or supplied to—
+
+- (a) a service address, or
+- (b) an email address,
+
+delivered under section 1098C(1) or (2) (the required information about an applicant) of the 2006 Act, as applicable, or notified under regulation 21.
+
+## Part 6 — Review
+
+### 34. Review of Regulations[^key-7407340db2f2ecdc2cbd38f8b23ba3ba]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published within 5 years after they come fully into force.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Justin Madders
+
+Parliamentary Under Secretary of State
+
+Department for Business and Trade
+
+20th January 2025
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations make provision about identity verification, authorised corporate service providers (“ACSPs”, defined in section 1098A of the Companies Act 2006 (“**the 2006 Act**”)) and unique identifiers (defined in section 1082 of the 2006 Act).
+
+Part 2 makes provision for and in connection with verification or reverification of an individual’s identity in accordance with section 1110A of the 2006 Act. Under section 1110A(1) of the 2006 Act, the individual’s identity is verified for the purposes of the 2006 Act if the individual’s identity has been verified by the registrar in accordance with regulations made under section 1110B of the 2006 Act or a “verification statement” in respect of the individual has been delivered to the registrar by an ACSP, and the individual has not since then ceased to be an individual whose identity is verified by virtue of regulations under section 1110A(4) of the 2006 Act. A verification statement is defined in section 1110A(2) of the 2006 Act as a statement by an ACSP confirming that it has verified an individual’s identity in accordance with regulations under section 1110B of the 2006 Act. This Part sets out the procedure for verifying or reverifying an individual’s identity:
+
+- (a) Chapter 2 confers a power on the registrar to impose additional requirements by registrar’s rules;
+- (b) Chapter 3 sets out the requirements an individual must comply with to successfully have their identity verified or reverified by the registrar and the procedure that the registrar must follow;
+- (c) Chapter 4 provides for conditions that must be met for an ACSP to deliver a verification statement or reverification statement to the registrar, specifies the necessary contents of verification statements and prescribes additional information to be delivered with them;
+- (d) Chapter 5 provides for circumstances in which someone ceases to be an individual whose identity is verified and sets out the procedure for reverifying an individual’s identity;
+- (e) Chapter 6 makes provision about the records that a person who is or has been an ACSP is required to keep in connection with the verification or reverification of an individual’s identity and contains an offence for failure to comply with the record-keeping duty.
+
+Part 3 makes provision concerning ACSPs. Chapter 1 provides for circumstances in which a person ceases to be an ACSP and sets out the procedure for issuing notices suspending and terminating an ACSP’s status. Chapter 2 imposes duties on ACSPs to provide the registrar with information and update required information delivered under section 1098C of the 2006 Act, backed by criminal offences.
+
+Part 4 sets out the procedure for allocation and discontinuation of unique identifiers for verified individuals and ACSPs. It also requires delivery of a statement about an allocation of a unique identifier to an ACSP with the application to become an ACSP made under section 1098B of the 2006 Act.
+
+Part 5 specifies when notices given under these Regulations are validly sent or supplied to individuals and ACSPs.
+
+Part 6 makes provision requiring the Secretary of State to review the operation and effect of these Regulations and publish a report within 5 years after they come fully into force and within every 5 years after that. Following a review it will fall to the Secretary of State to consider whether these Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke these Regulations or to amend them.
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available and is published with the Explanatory Memorandum alongside this instrument. A hard copy may be obtained from the Department for Business and Trade, Old Admiralty Building, London SW1A 2DY.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1082 was amended by section 68 of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56) (the “**2023 Act**”), sections 1098F and 1098G were inserted by section 66 of the 2023 Act, and sections 1110A and 1110B were inserted by section 65 of the 2023 Act.
+
+[^key-eedecca52213cb720a9e9f7da14943f8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/50/regulation/1) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-30d7337e78709e4ccf80a8897a469c03]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/50/regulation/2) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-e8d9fed3c628aa87570af9164137d2ec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/50/regulation/3) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^f00002]: Footnote: See section 1098A of the Companies Act 2006 for the definition of “authorised corporate service provider”.
+
+[^f00003]: Footnote: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
+
+[^key-9424e5153fcf165d4794a2be13992e7b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/50/regulation/4) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^f00004]: Footnote: See section 1110A(1) of the Companies Act 2006 for the meaning of “identity is verified”.
+
+[^f00005]: Footnote: See section 1082(1) of the Companies Act 2006 for the meaning of “unique identifier”.
+
+[^key-e557bb9d5b24b8620bae07f6c55108b8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/50/regulation/5) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-7ffb6003910176517b9877baa378f238]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/50/regulation/6) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-e04668b8589414f722787f25cfa4e100]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/50/regulation/7) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-bc703d9aa32380190e71e65a13e98642]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/50/regulation/8) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-4953f30816997116d6c4f202aa96e61b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/50/regulation/9) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-7858e0a2fe978cc5598929f211163889]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/50/regulation/10) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^f00006]: Footnote: See section 1110A(2) of the Companies Act 2006 for the definition of “verification statement”.
+
+[^key-50e74b34e78c0cac50a9557e65ebb55c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/50/regulation/11) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-d63cd5f27ebdc9677d89659e6357f83d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/50/regulation/12) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-2f14a39b48150f5755199b364979ae3a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/50/regulation/13) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-511f2e0d4d69fdeb315fa312da8bc89c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/50/regulation/14) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-920347291e920993b1bd36055d3bebd9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/50/regulation/15) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-1f60f565b4d499c11519e56ba323d09b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/50/regulation/16) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-06bfc82d19a19cf70006706c1df18ba0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/50/regulation/17) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+
+[^key-2796f5171e8838cf6464d9b8f9649e54]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/50/regulation/18) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+
+[^key-3d025f9bd8f9c177e27ccb60b57c91da]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/50/regulation/19) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+
+[^key-7bb911808c0f8d5d3de0656a2a21c699]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/50/regulation/20) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+
+[^f00007]: Footnote: Section 1092C was inserted by section 83(2) of the Economic Crime and Corporate Transparency Act 2023.
+
+[^key-0acbe7001b6a1c0abe96d90a39b65f64]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/50/regulation/21) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+
+[^f00008]: Footnote: Section 1098B was inserted by section 66 of the Economic Crime and Corporate Transparency Act 2023.
+
+[^f00009]: Footnote: Section 1098C was inserted by section 66 of the Economic Crime and Corporate Transparency Act 2023.
+
+[^key-46039ef25cf26574535b795f3a1c1a62]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/50/regulation/22) in force at 18.3.2025, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/2)
+
+[^M_C_b3053aa5-93ad-4bea-96cf-e88fdac6bb81]: Modification: Pt. 4 Chs. 1, 2 applied (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2025/49/regulation/3/1); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
+
+[^M_C_1fc8e6cf-aa17-4e7a-f058-779febee6268]: Modification: Pt. 4 Chs. 1, 2 applied (18.3.2025) by [The Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1082](https://www.legislation.gov.uk/ukpga/2006/46/section/1082) (as applied by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 64](https://www.legislation.gov.uk/uksi/2009/1804/regulation/64) (as amended by [S.I. 2025/49](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2025/49/regulation/4/2); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b))
+
+[^M_C_40870dbc-f7dc-49b8-8197-757753cd7ca5]: Modification: Pt. 4 Chs. 1, 2 applied (18.3.2025) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 12A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12A) (as inserted by [S.I. 2025/49](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/49/regulation/5); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b))
+
+[^M_C_f3ff464d-7a0a-48af-eb39-3a1ee1b75978]: Modification: Pt. 4 Chs. 1, 2 applied (18.3.2025) by [The Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1082](https://www.legislation.gov.uk/ukpga/2006/46/section/1082) (as applied by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20) (as amended by [S.I. 2025/49](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/49/regulation/6); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b))
+
+[^M_C_478695af-2c0a-44e5-f7b7-ef3308361d13]: Modification: Pt. 4 Chs. 1, 2 applied (18.3.2025) by [The Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1082](https://www.legislation.gov.uk/ukpga/2006/46/section/1082) (as applied by [S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694), [reg. 59A](https://www.legislation.gov.uk/uksi/2017/694/regulation/59A) (as inserted by [S.I. 2025/49](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2025/49/regulation/7); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b))
+
+[^key-3648663cd3726fbf79ac8662facc6699]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/1), [2](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/2) applied (18.11.2025) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1082](https://www.legislation.gov.uk/ukpga/2006/46/section/1082) (as applied by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 64](https://www.legislation.gov.uk/uksi/2009/1804/regulation/64) (as amended by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4/3); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)))
+
+[^key-657bff7c5e77e230b7e26fa7ca4bf081]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/1), [2](https://www.legislation.gov.uk/uksi/2025/50/part/4/chapter/2) applied (18.11.2025) by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [reg. 12A](https://www.legislation.gov.uk/uksi/2009/2436/regulation/12A) (as amended by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/1116/regulation/6); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g))
+
+[^key-6787d96d76ca3b3ebbce3065b2b476d2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/50/regulation/23) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+
+[^key-6a48a11a2ba7f77df54ffd4ea76c84d2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/50/regulation/24) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+
+[^key-f8e37177c01da97ab4dc4cbb988ce5e3]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/50/regulation/25) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+
+[^key-3184f59367266b0c5fcdaccbdce3a6cf]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/50/regulation/26) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+
+[^key-be842dcd6da42a9910fd7f4812dd7fc5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/50/regulation/27) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+
+[^key-b2535bcb3b2c70d5b1a3a240fcb4bb57]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/50/regulation/28) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+
+[^key-12ead17330558756906562b64b182766]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/50/regulation/29) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+
+[^key-9cc72023f196063c2f40b5480e5619df]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/50/regulation/30) in force at 18.3.2025, see [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/3)
+
+[^key-1e36400baf2532ed7647174f9dde8750]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/50/regulation/31) substituted (18.11.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/8); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+
+[^key-98c404ae281ae68104061f72c42acc72]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/50/regulation/32) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-e76cb9a0012d6045ac4663d4bd07086c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/50/regulation/33) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)
+
+[^key-7407340db2f2ecdc2cbd38f8b23ba3ba]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/50/regulation/34) in force at 18.3.2025, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/50/regulation/2/1)

@@ -1,0 +1,526 @@
+---
+title: The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017
+id: uksi/2017/376
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-13'
+text_date: '2026-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/376
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/376/pdfs/uksiem_20170376_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/376/pdfs/uksi_20170376_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/376/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017
+
+> Text as at 2026-04-06.
+
+2017 No. 376
+
+Social Security
+
+The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017
+
+Made
+
+13th March 2017
+
+Laid before Parliament
+
+15th March 2017
+
+Coming into force
+
+6th April 2017
+
+The Secretary of State, in exercise of the powers conferred by sections 123(1)(a) and (d), 135(1), 136(3) and (5)(b), 137 and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001], sections 4(5), 12(1) and (4)(b), 35 and 36(2) of the Jobseekers Act 1995[^f00002], sections 4(5)(b), 10(4), 11(3)(b) and (c), 12(1) and (4)(b), 19(2)(d), 20(1)(b), 24(5), 40 and 42(1), (2) and (3) of, and paragraphs 4(1)(a) and (3)(a) and 5(1) of Schedule 1 and paragraphs 1(1) and 3(1)(b) of Schedule 6 to, the Welfare Reform Act 2012[^f00003] and sections 14(6) and 34 of the Welfare Reform and Work Act 2016[^f00004], makes the following Regulations.
+
+This instrument contains only regulations made under, by virtue of, or consequential upon, sections 13 and 14 of the Welfare Reform and Work Act 2016 and is made before the end of the period of 6 months beginning with the coming into force of those sections. Therefore, in accordance with section 173(5) of the Social Security Administration Act 1992[^f00005], these Regulations are not required to be referred to the Social Security Advisory Committee.
+
+In respect of the provisions in these Regulations relating to housing benefit, in accordance with section 176(1) of the Social Security Administration Act 1992, the Secretary of State has consulted with organisations appearing to him to be representative of the authorities concerned.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 and come into force on 6th April 2017.
+
+## 2. Universal Credit – availability of the child element where maximum exceeded
+
+(1) The Universal Credit Regulations 2013[^f00006] are amended as follows.
+
+(2) In regulation 2 (interpretation) insert at the appropriate place—
+
+> - “step-parent”, in relation to a child or qualifying young person (“A”), means a person who is not A’s parent but—
+>   - (a) is a member of a couple, the other member of which is a parent of A, where both are responsible for A; or
+>   - (b) was previously a member of a couple, the other member of which was a parent of A, where immediately prior to ceasing to be a member of that couple the person was, and has since continued to be, responsible for A.
+
+(3) After regulation 24 (the child element) insert—
+
+> **24A. — Availability of the child element where maximum exceeded**
+>
+> (1) Where a claimant is responsible for more than two children or qualifying young persons, the amount mentioned in section 10(1) of the Act is to be available in respect of—
+>
+> - (a) the first and second children or qualifying young persons in the claimant’s household; and
+> - (b) the third and any subsequent child or qualifying young person in the claimant’s household if—
+>   - (i) the child or qualifying young person is transitionally protected; or
+>   - (ii) an exception applies in relation to that child or qualifying young person.
+>
+> (2) A reference in paragraph (1) to a child or qualifying young person being the first, second, third or subsequent child or qualifying young person in the claimant’s household is a reference to the position of that child or qualifying young person in the order determined in accordance with regulation 24B.
+>
+> (3) A child or qualifying young person is transitionally protected in the circumstances set out in regulation 40 of the Universal Credit (Transitional Provisions) Regulations 2014[^f00007].
+>
+> (4) An exception applies in relation to a child or qualifying young person in the circumstances set out in Schedule 12.
+>
+> **24B. — Order of children and qualifying young persons**
+>
+> (1) Subject to paragraph (2), the order of children or qualifying young persons in a claimant’s household is to be determined by reference to the following date in relation to each child or qualifying young person for whom the claimant is responsible (“A”), taking the earliest date first—
+>
+> - (a) where the claimant, or if the claimant is a member of a couple, the other member, is A’s parent or step-parent (in either case, other than by adoption), A’s date of birth; or
+> - (b) in any other case, the date on which the claimant became responsible for A (or in the case of joint claimants where each of them became responsible for A on a different date, the earlier date).
+>
+> (2) In a case where—
+>
+> - (a) the date in relation to two or more children or qualifying young persons for whom the claimant is responsible (as determined under paragraph (1)) is the same date; or
+> - (b) a claimant gave birth to a child less than 10 months after becoming responsible for a child or qualifying young person to whom paragraph 4 of Schedule 12 (exception for non-parental caring arrangements) applies,
+>
+> the order of those children or qualifying young persons (as between themselves only) in the claimant’s household is the order determined by the Secretary of State that ensures that the amount mentioned in section 10(1) of the Act is available in respect of the greatest number of children or qualifying young persons.
+>
+> (3) In this regulation and Schedule 12, “claimant” means a single claimant or either of joint claimants.
+
+(4) After Schedule 11 (application of ESA or JSA sanctions to universal credit) insert—
+
+> **SCHEDULE 12 — Availability of the child element where maximum exceeded - exceptions**
+>
+> Regulation 24A(4)
+>
+> **1. Introduction**
+>
+> This Schedule provides for cases where, for the purposes of regulation 24A, an exception applies in relation to a child or qualifying young person for whom a claimant is responsible (“A”).
+>
+> **2. Multiple births**
+>
+> An exception applies where—
+>
+> - (a) the claimant is a parent (other than an adoptive parent) of A;
+> - (b) A was one of two or more children born as a result of the same pregnancy;
+> - (c) the claimant is responsible for at least two of the children or qualifying young persons born as a result of that pregnancy; and
+> - (d) A is not the first in the order of those children or qualifying young persons as determined under regulation 24B.
+>
+> **3. Adoptions**
+>
+> An exception applies where A has been placed for adoption with, or adopted by, the claimant in accordance with the Adoption and Children Act 2002[^f00008] or the Adoption and Children (Scotland) Act 2007[^f00009], but not where—
+>
+> - (a) the claimant (or, if the claimant is a member of a couple, the other member)—
+>   - (i) was a step-parent of A immediately prior to the adoption; or
+>   - (ii) has been a parent of A (other than by adoption) at any time;
+> - (b) the adoption order made in respect of A was made as a Convention adoption order (as defined, in England and Wales, in section 144 of the Adoption and Children Act 2002 and in Scotland, in section 119(1) of the Adoption and Children Scotland Act 2007); or
+> - (c) prior to that adoption, A had been adopted by the claimant (or, if the claimant is a member of a couple, the other member) under the law of any country or territory outside the British Islands.
+>
+> **4. Non-parental caring arrangements**
+>
+> (1) An exception applies where the claimant—
+>
+> - (a) is a friend or family carer in relation to A; or
+> - (b) is responsible for a child who is a parent of A.
+>
+> (2) In this paragraph, “friend or family carer” means a person who is responsible for A, but is not (or, if that person is a member of a couple, neither member is) A’s parent or step-parent and—
+>
+> - (a) is named in a child arrangements order under section 8 of the Children Act 1989[^f00010], that is in force with respect to A, as a person with whom A is to live;
+> - (b) is a special guardian of A appointed under section 14A of that Act[^f00011];
+> - (c) is entitled to a guardian’s allowance under section 77 of the Contributions and Benefits Act in respect of A;
+> - (d) in whose favour a kinship care order, as defined in section 72(1) of the Children and Young People (Scotland) Act 2014[^f00012], subsists in relation to A;
+> - (e) is a guardian of A appointed under section 5 of the Children Act 1989[^f00013] or section 7 of the Children (Scotland) Act 1995[^f00014];
+> - (f) in whom one or more of the parental responsibilities or parental rights respectively described in section 1 and 2 of the Children (Scotland) Act 1995 are vested by a permanence order made in respect of A under section 80 of the Adoption and Children (Scotland) Act 2007[^f00015];
+> - (g) fell within any of paragraphs (a) to (f) immediately prior to A’s 16th birthday and has since continued to be responsible for A; or
+> - (h) has undertaken the care of A in circumstances in which it is likely that A would otherwise be looked after by a local authority.
+>
+> **5. Non-consensual conception**
+>
+> (1) An exception applies where—
+>
+> - (a) the claimant (“C”) is A’s parent; and
+> - (b) the Secretary of State determines that—
+>   - (i) A is likely to have been conceived as a result of sexual intercourse to which C did not agree by choice, or did not have the freedom and capacity to agree by choice; and
+>   - (ii) C is not living at the same address as the other party to that intercourse (“B”).
+>
+> (2) The circumstances in which C is to be treated as not having the freedom or capacity to agree by choice to the sexual intercourse are to include (but are not limited to) circumstances in which, at or around the time A was conceived—
+>
+> - (a) B was personally connected to C;
+> - (b) B was repeatedly or continuously engaging in behaviour towards C that was controlling or coercive; and
+> - (c) that behaviour had a serious effect on C.
+>
+> (3) The Secretary of State may make the determination in sub-paragraph (1)(b)(i) only if—
+>
+> - (a) C provides evidence from an approved person which demonstrates that—
+>   - (i) C had contact with that approved person or another approved person; and
+>   - (ii) C’s circumstances are consistent with those of a person to whom sub-paragraphs (1)(a) and (1)(b)(i) apply; or
+> - (b) there has been—
+>   - (i) a conviction for—
+>     - (aa) an offence of rape under section 1 of the Sexual Offences Act 2003[^f00016] or section 1 of the Sexual Offences (Scotland) Act 2009[^f00017];
+>     - (bb) an offence of controlling or coercive behaviour in an intimate or family relationship under section 76 of the Serious Crime Act 2015[^f00018]; or
+>     - (cc) an offence under the law of a country outside Great Britain that the Secretary of State considers to be analogous to the offence mentioned in sub-paragraph (aa) or (bb) above; or
+>   - (ii) an award under the Criminal Injuries Compensation Scheme in respect of a relevant criminal injury sustained by C,
+>
+>   where it appears likely to the Secretary of State that the offence was committed, or the criminal injury was caused, by B and resulted in the conception of A or diminished C’s freedom or capacity to agree by choice to the sexual intercourse which resulted in that conception.
+>
+> (4) The Secretary of State may make the determination in sub-paragraph (1)(b)(ii) where the only available evidence is confirmation by C that that sub-paragraph applies.
+>
+> (5) For the purposes of sub-paragraph (2)(a), B was personally connected to C if, at or around the time A was conceived—
+>
+> - (a) they were in an intimate personal relationship with each other; or
+> - (b) they were living together and—
+>   - (i) were members of the same family; or
+>   - (ii) had previously been in an intimate personal relationship with each other.
+>
+> (6) For the purposes of sub-paragraph (2)(c), B’s behaviour had a serious effect on C if—
+>
+> - (a) it caused C to fear, on at least two occasions, that violence would be used against C; or
+> - (b) it caused C serious alarm or distress which had a substantial adverse effect on C’s day-to-day activities.
+>
+> (7) In sub-paragraph (3)—
+>
+> - “approved person” means a person of a description specified on a list approved by the Secretary of State for the purposes of sub-paragraph (3)(a) and acting in their capacity as such;
+> - “Criminal Injuries Compensation Scheme” means the Criminal Injuries Compensation Scheme under the Criminal Injuries Compensation Act 1995[^f00019]; and
+> - “relevant criminal injury” means—
+>   - (a) a sexual offence (including a pregnancy sustained as a direct result of being the victim of a sexual offence);
+>   - (b) physical abuse of an adult, including domestic abuse; or
+>   - (c) mental injury,
+>
+>   as described in the tariff of injuries in the Criminal Injuries Compensation Scheme.
+>
+> (8) For the purposes of sub-paragraph (5)(b)(i), B and C were members of the same family if, at or around the time A was conceived—
+>
+> - (a) they were, or had been, married to each other;
+> - (b) they were, or had been, civil partners of each other;
+> - (c) they were relatives (within the meaning given by section 63(1) of the Family Law Act 1996[^f00020]);
+> - (d) they had agreed to marry each other, whether or not the agreement had been terminated;
+> - (e) they had entered into a civil partnership agreement (within the meaning given by section 73 of the Civil Partnership Act 2004[^f00021]), whether or not the agreement had been terminated;
+> - (f) they were both parents of the same child; or
+> - (g) they had, or had had, parental responsibility (within the meaning given in regulation 4A(2)) for the same child.
+>
+> **6. Continuation of existing exception in a subsequent award**
+>
+> An exception applies where—
+>
+> - (a) the claimant (“C”) is A’s step-parent;
+> - (b) none of the exceptions under paragraphs 2 to 5 above apply;
+> - (c) C has previously been entitled to an award of universal credit as a member of a couple jointly with a parent of A, in which an exception under paragraph 2, 3 or 5 above applied in relation to A;
+> - (d) since that award terminated, each award of universal credit to which C has been entitled has been made—
+>   - (i) as a consequence of a previous award having ended when C ceased to be a member of a couple or became a member of a couple; or
+>   - (ii) in any other circumstances in which the assessment periods for that award begin on the same day of each month as the assessment periods for a previous award under regulation 21 (assessment periods); and
+> - (e) where, in the award mentioned in sub-paragraph (c), an exception under paragraph 2 above applied in relation to A—
+>   - (i) C is responsible for one or more other children or qualifying young persons born as a result of the same pregnancy as A; and
+>   - (ii) A is not the first in the order of those children or qualifying young persons as determined under regulation 24B (order of children and qualifying young persons).
+
+.
+
+## 3. Universal Credit - transitional arrangements regarding restrictions on availability of the child element
+
+(1) The Universal Credit (Transitional Provisions) Regulations 2014[^f00022] are amended as follows.
+
+(2) In regulation 2 (interpretation) insert at the appropriate place—
+
+> - “qualifying young person” has the same meaning as in the Universal Credit Regulations, but see also regulation 28;
+
+.
+
+(3) After regulation 38 (loss of benefit penalties: reduction of universal credit)[^f00023] insert—
+
+> **PART 3 — ARRANGEMENTS REGARDING CHANGES TO THE CHILD ELEMENT FROM APRIL 2017**
+>
+> **39. Restriction on claims for universal credit during the interim period**
+>
+> (1) During the interim period, no claim may be made for universal credit by a person who is responsible for more than two children or qualifying young persons, unless it is—
+>
+> - (a) a claim to which regulation 21(3C)[^f00024] of the Universal Credit Regulations (new claim within 6 months of a previous award terminating) applies; or
+> - (b) a claim made by a single person within one month of an award of universal credit terminating because that person ceased to be a member of a couple.
+>
+> (2) For the purposes of this regulation and regulation 40, the interim period is the period beginning with 6th April 2017 and ending with 31st October 2018, but may be extended by the Secretary of State if the Secretary of State considers it necessary to do so in order to protect the efficient administration of universal credit.
+>
+> **40. Availability of the child element where maximum exceeded - transitionally protected children and qualifying young persons**
+>
+> (1) A child or qualifying young person for whom the claimant is responsible (“A”) is transitionally protected for the purposes of regulation 24A[^f00025] of the Universal Credit Regulations (availability of the child element where maximum exceeded) in the following circumstances.
+>
+> (2) For the purposes of calculating an award of universal credit in respect of an assessment period in which the interim period begins or that falls wholly within the interim period, the circumstances are that—
+>
+> - (a) A was born before 6th April 2017; and
+> - (b) there are at least two other children or qualifying young persons for whom the claimant (or either of joint claimants) is responsible who were born before 6th April 2017 and who precede A in the order determined by regulation 24B[^f00026] of the Universal Credit Regulations (order of children and qualifying young persons).
+>
+> (3) For the purposes of calculating an award of universal credit in respect of an assessment period in which the interim period ends or that begins after the end of the interim period, the circumstances are that—
+>
+> - (a) A was born before 6th April 2017;
+> - (b) the claimant (or either of joint claimants) meets the following condition in respect of A—
+>   - (i) on the last day of the interim period, the claimant was entitled to an award of universal credit (or was in a period of non-entitlement between connected awards) and was responsible for A; or
+>   - (ii) if paragraph (i) does not apply, within the 6 months immediately preceding the first day on which the claimant first became entitled to an award of universal credit after the interim period ended, the claimant was in receipt of an individual element of child tax credit for A or was entitled to an award of income support or old style JSA where an amount in respect of A was included in the applicable amount,
+>
+>   and since the day mentioned in paragraph (i) or (ii) (whichever is applicable), the claimant has not ceased to be responsible for A or ceased to be entitled to universal credit (apart from a period of non-entitlement between connected awards); and
+> - (c) there are at least two other children or qualifying young persons born before 6th April 2017—
+>   - (i) in respect of whom the claimant (or either of joint claimants) meets the condition in sub-paragraph (b); and
+>   - (ii) who precede A in the order determined by regulation 24B of the Universal Credit Regulations.
+>
+> (4) In paragraph (3)(b) two awards are connected awards if the later award was made—
+>
+> - (a) as a consequence of the earlier award having terminated when the claimant ceased to be a member of a couple or became a member of a couple; or
+> - (b) in any other circumstances in which the assessment periods for the later award begin on the same day of each month as the assessment periods for the earlier award under regulation 21[^f00027] of the Universal Credit Regulations (assessment periods).
+>
+> **41. Availability of the child element where maximum exceeded – continuation of exception from a previous award of child tax credit, income support or old style JSA**
+>
+> (1) Where—
+>
+> - (a) the claimant (“C”) is the step-parent of a child or qualifying young person (“A”); and
+> - (b) within the 6 months immediately preceding the first day on which C became entitled to an award of universal credit, C had an award of child tax credit, income support or old style JSA in which an exception corresponding with an exception under paragraph 2, 3, 5 or 6 of Schedule 12 to the Universal Credit Regulations applied in respect of A,
+>
+> paragraph 6 of that Schedule is to apply as if sub-paragraph (c) of that paragraph were satisfied, despite the fact that the previous award was not an award of universal credit.
+>
+> (2) In this regulation, “step-parent” has the same meaning as in the Universal Credit Regulations.
+>
+> **42. Evidence for non-consensual conception where claimant previously had an award of child tax credit**
+>
+> (1) This regulation applies for the purposes of paragraph 5 of Schedule 12[^f00028] to the Universal Credit Regulations (exception for non-consensual conception).
+>
+> (2) The Secretary of State may treat the condition in sub-paragraph (3)(a) of that paragraph 5 as met if the Secretary of State is satisfied that the claimant has previously provided the evidence referred to in that sub-paragraph to the Commissioners for her Majesty’s Revenue and Customs for the purposes of the corresponding exception in relation to child tax credit.
+>
+> **43. Abolition of higher amount of the child element for first child or qualifying young person – saving where claimant responsible for a child or qualifying young person born before 6th April 2017**
+>
+> Section 14(5)(b) of the Welfare Reform and Work Act 2016[^f00029] (which amends the Universal Credit Regulations by omitting the amount of the child element payable for the first child or qualifying young person) does not apply where the claimant is responsible for a child or qualifying young person born before 6th April 2017.
+
+.
+
+## 4. Minor amendment consequential on restriction on claims for universal credit by persons with more than two children
+
+In paragraph (2) of article 7 (transitional provision: claims for housing benefit, income support or a tax credit) of the Welfare Reform Act 2012 (Commencement No. 23 and Transitional and Transitory Provisions) Order 2015[^f00030], after “regulation 4” insert “, or by virtue of regulation 39,”.
+
+## 5. Restrictions on amounts for children and young persons – consequential changes to the Income Support (General) Regulations 1987[^key-f0196cee3edcb1a978879d0226314cd0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Restrictions on amounts for children and young persons – consequential changes to the Jobseeker’s Allowance Regulations 1996[^key-562ee2c2733aba350e3d83d88efaca0a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Restrictions on amounts for children and young persons - consequential changes to housing benefit
+
+(1) The Housing Benefit Regulations 2006[^f00039] are amended as follows.
+
+(2) In regulation 22 (applicable amounts)—
+
+- (a) the existing text becomes paragraph (1) and for sub-paragraph (b) (of that paragraph (1)) substitute—
+
+  > - (b) an amount determined in accordance with paragraph 2 of Schedule 3 in respect of up to two individuals who are either children or young persons and who are members of his family;
+
+  ; and
+- (b) at the end insert—
+
+  > (2) For the purposes of paragraph (1)(b), as it applies apart from paragraph (4), where the family includes more than two individuals who are either children or young persons, and, under paragraph 2 of Schedule 3, a different amount applies to different individuals, the two amounts to be included in the applicable amount shall be those that result in the greatest possible total amount.
+  >
+  > (3) Paragraph (4) applies where—
+  >
+  > - (a) (whether or not as part of a tax credit couple) the claimant has an award of child tax credit in respect of a child or young person who is a member of his family, and whether or not any amount is payable by way of such credit; and
+  > - (b) the total amount to be included in the applicable amount under paragraph (1)(b) as substituted by paragraph (4) would be higher than the total amount that would be included under paragraph (1)(b) apart from paragraph (4).
+  >
+  > (4) Where this paragraph applies, for paragraph (1)(b) substitute—
+  >
+  > > - (b) an amount determined in accordance with paragraph 2 of Schedule 3 in respect of any child or young person who is a member of his family and in respect of whom the individual element of child tax credit has been included in the determination of the maximum rate of that credit;
+  >
+  > .
+  >
+  > (5) In this regulation, “tax credit couple” means a couple as defined in section 3(5A) of the Tax Credits Act 2002[^f00040].
+
+  .
+
+(3) In regulation 23 (polygamous marriages)—
+
+- (a) the existing text becomes paragraph (1) and for sub-paragraph (c) (of that paragraph (1)) substitute —
+
+  > - (c) an amount determined in accordance with paragraph 2 of Schedule 3 in respect of up to two individuals who are either children or young persons and for whom he or a partner of his is responsible and who are members of the same household;
+
+  ; and
+- (b) at the end insert—
+
+  > (2) For the purposes of paragraph (1)(c), as it applies apart from paragraph (4), where the claimant and his partners are between them responsible for more than two individuals who are either children or young persons and who are members of the same household, and, under paragraph 2 of Schedule 3, a different amount applies to different individuals, the two amounts to be included in the applicable amount shall be those that result in the greatest possible total amount.
+  >
+  > (3) Paragraph (4) applies where—
+  >
+  > - (a) (as part of a polygamous unit) the claimant has an award of child tax credit in respect of any child or young person for whom he or a partner of his is responsible and who is a member of the same household, and whether or not any amount is payable by way of such credit; and
+  > - (b) the total amount to be included in the applicable amount under paragraph (1)(c) as substituted by paragraph (4) would be higher than the total amount that would be included under paragraph (1)(c) apart from paragraph (4).
+  >
+  > (4) Where this paragraph applies, for paragraph (1)(c) substitute—
+  >
+  > > - (c) an amount determined in accordance with paragraph 2 of Schedule 3 in respect of any child or young person for whom he or a partner of his is responsible and who is a member of the same household and in respect of whom the individual element of child tax credit has been included in the determination of the maximum rate of that credit;
+  >
+  > .
+  >
+  > (5) In this regulation, “polygamous unit” has the same meaning as in regulation 2 of the Tax Credits (Polygamous Marriages) Regulations 2003[^f00041].
+
+  .
+
+(4) In paragraphs 1, 2(1), 4 and 30(4) of Schedule 3 (applicable amounts), after “22” and “23”, in each place where they occur, insert “(1)”.
+
+## 8. Restrictions on amounts for children and young persons - consequential changes to housing benefit for persons over state pension credit age
+
+(1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00042] are amended as follows.
+
+(2) In regulation 22 (applicable amounts)—
+
+- (a) for sub-paragraph (b) of paragraph (1) substitute—
+
+  > - (b) an amount determined in accordance with paragraph 2 of that Schedule in respect of up to two individuals who are either children or young persons and who are members of his family;
+
+  ; and
+- (b) at the end insert—
+
+  > (5A) For the purposes of paragraph (1)(b), as it applies apart from paragraph (5C), where the family includes more than two individuals who are either children or young persons, and, under paragraph 2 of that Schedule, a different amount applies to different individuals, the two amounts to be included in the applicable amount shall be those that result in the greatest possible total amount.
+  >
+  > (5B) Paragraph (5C) applies where—
+  >
+  > - (a) (whether or not as part of a tax credit couple) the claimant has an award of child tax credit in respect of a child or young person who is a member of his family, whether or not any amount is payable by way of such credit; and
+  > - (b) the total amount to be included in the applicable amount under paragraph (1)(b) as substituted by paragraph (5C) would be higher than the total amount that would be included under paragraph (1)(b) apart from paragraph (5C).
+  >
+  > (5C) Where this paragraph applies, for paragraph (1)(b) substitute—
+  >
+  > > - (b) an amount determined in accordance with paragraph 2 of that Schedule in respect of any child or young person who is a member of his family and in respect of whom the individual element of child tax credit has been included in the determination of the maximum rate of that credit;
+  >
+  > .
+  >
+  > (5D) In this regulation, “tax credit couple” means a couple as defined in section 3(5A) of the Tax Credits Act 2002.
+
+  .
+
+## 9. Housing Benefit – transitional provisions for restrictions on amounts for children and young persons[^key-112b88b710e9ef81b5bc2ad8bf5311ec]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Damien Hinds
+
+Minister of State
+
+Department for Work and Pension
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make changes in relation to various social security benefits as a consequence of the restrictions on entitlement to child tax credit and the child element of universal credit provided for in sections 13 and 14 of the Welfare Reform and Work Act [2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7) (the “2016 Act”). The universal credit changes include exceptions from those restrictions, transitional arrangements and a minor consequential amendment. The Regulations also make consequential changes in relation to housing benefit, income support and jobseekers allowance.
+
+Regulation 2 amends the Universal Credit Regulations 2013 ([S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376)) (the “Universal Credit Regulations”) by inserting into them new regulations 24A and 24B and a new Schedule 12.
+
+- Regulation 24A sets out the rule for determining whether a claimant is entitled to the child element in respect of a child or qualifying young person for whom the claimant is responsible. The child element will be available in respect of the first or second child or qualifying young person in the claimant’s household as this will be within the maximum amount of the child element available under section 10 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) as amended by the 2016 Act. The child element will only be available in respect of a third or subsequent child or qualifying young person in the claimant’s household if that child or qualifying young person is transitionally protected or an exception applies in relation to them. Regulation 24B sets out the rule for determining whether a child or qualifying young person is the first, second, third or subsequent one in the claimant’s household for this purpose.
+- Schedule 12 provides that an exception to the restriction on entitlement to the child element will apply in respect of a third or subsequent child or qualifying young person in the claimant’s household who is: born as part of a multiple birth, other than the first child in that birth (paragraph 2); adopted from local authority care (paragraph 3); within the claimant’s responsibility as part of a non-parental caring arrangement (paragraph 4); or born as a result of non-consensual conception (paragraph 5). Paragraph 6 of Schedule 12 also provides for certain cases where an exception, granted in a previous universal credit award to joint claimants by virtue of one member of the couple being the parent or adopter of the relevant child or qualifying young person, may continue to apply in a subsequent, connected universal credit award made to the other member of that couple, where that person continues to be responsible for the same child or qualifying young person but would not be entitled to the exception in their own right.
+
+Regulation 2 of these Regulations also inserts a new definition of “step-parent” into the Universal Credit Regulations as step-parents of children or qualifying young persons are referred to in certain exceptions under the new Schedule 12. The definition also clarifies the meaning of this term as used elsewhere in those regulations.
+
+Regulation 3 amends the Universal Credit (Transitional Provisions) Regulations 2014 ([S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230)) by inserting into them a new Part 3 (comprising new regulations 39 to 43) to set out the transitional arrangements for the coming into force of section 14 of the 2016 Act.
+
+- Regulation 39 prevents a new claim for universal credit being made by any person with more than two children or qualifying young persons during the period beginning with 6th April 2017 and ending with 31<sup>st</sup> October 2018 (“the interim period”). The interim period may be extended by the Secretary of State.
+- Regulation 40 set out the circumstances in which a child or qualifying young person, who is the third or subsequent child or qualifying young person in the claimant’s household, is transitionally protected for the purpose of entitlement to the child element. Different criteria apply during and after the interim period. During the interim period (as for child tax credit) the protection depends on the child or qualifying young person being born before 6th April 2017. After the interim period it also depends on their having been part of an award of universal credit since the end of the interim period or part of an award of child tax credit, income support or a jobseeker’s allowance in the six months before becoming part of a universal credit award.
+- Regulation 41 provides for the exception in paragraph 6 of the new Schedule 12 to the Universal Credit Regulations (continuation of an existing exception in a subsequent award) to apply in respect of a child or qualifying young person in a universal credit award, where a relevant exception previously applied in relation to an award of child tax credit, income support or an income related jobseeker’s allowance.
+- Regulation 42 provides that the Secretary of State may rely on evidence previously provided to HMRC (in the context of a child tax credit claim) in order to make a determination for the purposes of the non-consensual conception exception in paragraph 5 of the new Schedule 12 to the Universal Credit Regulations.
+- Regulation 43 provides that the higher amount of the child element payable in respect of the first child or qualifying young person (abolished by section 14(5)(b) of the 2016 Act) continues to be payable to claimants who are responsible for a child or qualifying young person born before 6th April 2017.
+
+Regulation 3 of these Regulations also inserts a definition of “qualifying young person” into the Universal Credit (Transitional Provisions) Regulations 2014 as this term is used in the new Part 3 of those regulations.
+
+Regulation 4 makes a minor consequential amendment.
+
+Regulation 5 provides that income support claimants whose applicable amount includes an amount in respect of children or young persons will not receive an amount in respect of a third or subsequent child or young person born on or after 6th April 2017. This restriction will not apply if any of the exceptions in the new Schedule 12 of the Universal Credit Regulations would apply in respect of that child or young person if the claimant were entitled to an award of universal credit.
+
+Regulation 5 also provides that, where, as a result of this regulation, a claimant does not receive an amount in respect of a third or subsequent child or young person born on or after 6th April 2017, then any child benefit received by the claimant in respect of that child or young person is disregarded in the calculation of their income other than earnings. This aligns the treatment of child benefit received in respect of those children and young persons with the treatment of child benefit received in respect of children or young persons by claimants who are not entitled to an amount in respect of any child or young person.
+
+Regulation 6 provides for jobseeker’s allowance claimants whose applicable amount includes an amount in respect of children or young persons to be treated in the same way as income support claimants in respect of third or subsequent children or young persons born on or after 6<sup>th</sup> April 2017.
+
+Regulations 7 to 9 make changes to the Housing Benefit Regulations 2006 ([S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213)) and the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 ([S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214)) consequent on the changes made to child tax credit provisions by section 13 of the 2016 Act.
+
+Regulations 7 and 8 amend the provisions of those Regulations on “applicable amounts” (amounts used for the purpose of provisions on the taking into account of a claimant’s income) in order to provide that, save where the claimant is awarded child tax credit, the applicable amount is to include a maximum of two amounts for any children or young persons for whom the claimant or the claimant’s partner is responsible and who are members of the same household (“default provisions”).
+
+Where the claimant has an award of child tax credit, an amount is to be included in the applicable amount for any child or young person in respect of whom an individual element of child tax credit is included in the calculation of the maximum rate of that credit, where the total amount to be included would be higher than the total amount that would be included under the default provisions (“child tax credit provisions”).
+
+Regulation 9 contains transitional provisions for the situation where a claimant is entitled to housing benefit on 5th April 2017 and the claimant’s family then includes more than 2 children or young persons (“protected individuals”). In this case, the claimant’s applicable amount is to include an amount for each protected individual, until a new claim for housing benefit is made (*See* paragraphs (2) to (4)).
+
+The regulation also includes provision for the case where, after the 5th April 2017, the family includes one or more protected individuals and one or more new children or young persons.
+
+In this case, where the child tax credit provisions do not apply, the default provisions are to apply to any new child or young person such that an amount is only to be included in the applicable amount in respect of a new child or young person where the number of protected individuals in the family has fallen to one and, where this is the position, the maximum number of amounts to be included is two.
+
+An impact assessment has not been produced for this instrument as it has no impact on business and civil society organisations. This instrument has no impact on the public sector.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 137 is cited for the meaning of “prescribed”.
+
+[^f00002]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18). Section 35 is cited for the meaning of “prescribed” and “regulations”.
+
+[^f00003]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5). Section 10(4) was amended by section 14(4) of the Welfare Reform and Work Act [2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7). Section 40 is cited for the meaning of “prescribed”.
+
+[^f00004]: Footnote: [2016 c. 7](https://www.legislation.gov.uk/ukpga/2016/7).
+
+[^f00005]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00006]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
+
+[^f00007]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230). Regulation 40 is inserted by regulation 3(3) of these Regulations.
+
+[^f00008]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^f00009]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^f00010]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 8 was amended to include child arrangements orders by section 12 of, and Schedule 2 to, the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
+
+[^f00011]: Footnote: Section 14A was inserted by section 115(1) of the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38) and amended by Schedule 2 of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) and section 38 of the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23).
+
+[^f00012]: Footnote: [2014 asp 8](https://www.legislation.gov.uk/asp/2014/8).
+
+[^f00013]: Footnote: Section 5 was amended by section 115(4) of the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38) and Schedule 2 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
+
+[^f00014]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^f00015]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^f00016]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
+
+[^f00017]: Footnote: [2009 asp 9](https://www.legislation.gov.uk/asp/2009/9).
+
+[^f00018]: Footnote: [2015 c. 9](https://www.legislation.gov.uk/ukpga/2015/9).
+
+[^f00019]: Footnote: [1995 c. 53](https://www.legislation.gov.uk/ukpga/1995/53).
+
+[^f00020]: Footnote: [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27). The definition of “relative” was amended by paragraph 14(4) of Schedule 9(1) to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and paragraph 14(3) of Schedule 10 to the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28).
+
+[^f00021]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f00022]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230).
+
+[^f00023]: Footnote: Regulation 38 was inserted by [S.I. 2014/1626](https://www.legislation.gov.uk/uksi/2014/1626).
+
+[^f00024]: Footnote: Paragraph (3C) was inserted by [S.I. 2014/2887](https://www.legislation.gov.uk/uksi/2014/2887).
+
+[^f00025]: Footnote: Regulation 24A is inserted by regulation 2(3) of these Regulations.
+
+[^f00026]: Footnote: Regulation 24B is inserted by regulation 2(3) of these Regulations.
+
+[^f00027]: Footnote: Regulation 21 has been amended by [S.I. 2014/2887](https://www.legislation.gov.uk/uksi/2014/2887).
+
+[^f00028]: Footnote: Schedule 12 is inserted by regulation 2(4) of these Regulations.
+
+[^f00029]: Footnote: [2016 c. 7](https://www.legislation.gov.uk/ukpga/2016/7).
+
+[^f00030]: Footnote: [S.I. 2015/634](https://www.legislation.gov.uk/uksi/2015/634).
+
+[^key-f0196cee3edcb1a978879d0226314cd0]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/376/regulation/5) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2026/316/regulation/4/a)
+
+[^key-562ee2c2733aba350e3d83d88efaca0a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/376/regulation/6) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2026/316/regulation/4/b)
+
+[^f00039]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213). Regulations 22 and 23 were amended by [S.I. 2008/1082](https://www.legislation.gov.uk/uksi/2008/1082) and [2428](https://www.legislation.gov.uk/uksi/2008/2428), [2010/1907](https://www.legislation.gov.uk/uksi/2010/1907) and [2430](https://www.legislation.gov.uk/uksi/2010/2430) and 2017/xxxx. Paragraph 1 of Schedule 3 was amended by [S.I. 2008/1082](https://www.legislation.gov.uk/uksi/2008/1082) and paragraph 2(1) of that Schedule was amended by [S.I. 2006/718](https://www.legislation.gov.uk/uksi/2006/718). There have been other amendments of paragraphs 1 and 2(1) of that Schedule to alter the amounts specified in them.
+
+[^f00040]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21). Subsection (5A) was inserted by section 254(1) of, and paragraph 144(1) and (3) of Schedule 24 to, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f00041]: Footnote: [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742).
+
+[^f00042]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214). There have been amendments to regulation 22 that are not relevant to these Regulations.
+
+[^key-112b88b710e9ef81b5bc2ad8bf5311ec]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/376/regulation/9) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2026/316/regulation/4/c)

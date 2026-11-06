@@ -1,0 +1,73 @@
+---
+title: The Civil Courts (Amendment) (No. 2) Order 1999
+id: uksi/1999/1011
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-03-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/1011
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1011/pdfs/uksi_19991011_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/1011/made/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Courts (Amendment) (No. 2) Order 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 1011
+
+SUPREME COURT OF ENGLAND AND WALES
+
+COUNTY COURTS
+
+The Civil Courts (Amendment) (No. 2) Order 1999
+
+Made
+
+25th March 1999
+
+Coming into force
+
+26th April 1999
+
+The Lord Chancellor, in exercise of the powers conferred on him by section 26 of the County Courts Act 1984[^f00001], makes the following Order:–
+
+**1.** This Order may be cited as the Civil Courts (Amendment) (No. 2) Order 1999 and shall come into force on 26th April 1999.
+
+## 2. Amendments to the Civil Courts Order 1983[^f00002]
+
+The Civil Courts Order 1983 shall be amended in accordance with this Order and a reference to an article or a schedule by number alone is a reference to the article or schedule so numbered in the Civil Courts Order 1983.
+
+**3.** Omit article 8.
+
+**4.** In Schedule 3–
+
+- (a) in the second column omit “Admiralty” wherever it occurs; and
+- (b) omit the third column.
+
+## 5. Transitional provisions
+
+A county court having Admiralty jurisdiction before 26th April 1999 shall continue to have jurisdiction in respect of Admiralty proceedings commenced in or transferred to it before that date.
+
+Irvine of Lairg, C.
+
+Dated 25th March 1999
+
+(This note is not part of the Order)
+
+This Order amends the Civil Courts Order 1983 to remove the Admiralty jurisdiction from all county courts. After 26th April 1999 Admiralty proceedings must be commenced in the High Court.
+
+Transitional provisions provide that these amendments shall not take effect with respect to Admiralty proceedings which, before 26th April 1999, have been commenced in or transferred to a county court which, at that time, had Admiralty jurisdiction.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
+
+[^f00002]: Footnote: S.I. [1983/713](https://www.legislation.gov.uk/uksi/1983/713). The relevant amending instruments are S.I. [1984/1075](https://www.legislation.gov.uk/uksi/1984/1075), [1984/297](https://www.legislation.gov.uk/uksi/1984/297), [1985/511](https://www.legislation.gov.uk/uksi/1985/511), [1986/1361](https://www.legislation.gov.uk/uksi/1986/1361), [1986/1363](https://www.legislation.gov.uk/uksi/1986/1363), [1986/2207](https://www.legislation.gov.uk/uksi/1986/2207), [1986/754](https://www.legislation.gov.uk/uksi/1986/754), [1988/2165](https://www.legislation.gov.uk/uksi/1988/2165), [1989/106](https://www.legislation.gov.uk/uksi/1989/106), [1989/914](https://www.legislation.gov.uk/uksi/1989/914), [1991/1809](https://www.legislation.gov.uk/uksi/1991/1809), [1991/2211](https://www.legislation.gov.uk/uksi/1991/2211), [1992/1345](https://www.legislation.gov.uk/uksi/1992/1345), [1992/1810](https://www.legislation.gov.uk/uksi/1992/1810), [1992/3071](https://www.legislation.gov.uk/uksi/1992/3071), [1992/593](https://www.legislation.gov.uk/uksi/1992/593), [1993/1809](https://www.legislation.gov.uk/uksi/1993/1809), [1993/3120](https://www.legislation.gov.uk/uksi/1993/3120), [1994/1536](https://www.legislation.gov.uk/uksi/1994/1536), [1994/2626](https://www.legislation.gov.uk/uksi/1994/2626), [1994/2893](https://www.legislation.gov.uk/uksi/1994/2893), [1994/706](https://www.legislation.gov.uk/uksi/1994/706), [1995/1897](https://www.legislation.gov.uk/uksi/1995/1897), [1995/3173](https://www.legislation.gov.uk/uksi/1995/3173), [1996/2579](https://www.legislation.gov.uk/uksi/1996/2579), [1996/588](https://www.legislation.gov.uk/uksi/1996/588), [1996/68](https://www.legislation.gov.uk/uksi/1996/68), [1997/1085](https://www.legislation.gov.uk/uksi/1997/1085), [1997/361](https://www.legislation.gov.uk/uksi/1997/361), [1998/1880](https://www.legislation.gov.uk/uksi/1998/1880), [1998/2910](https://www.legislation.gov.uk/uksi/1998/2910) and [1999/216](https://www.legislation.gov.uk/uksi/1999/216).

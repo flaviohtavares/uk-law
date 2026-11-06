@@ -1,0 +1,82 @@
+---
+title: The Pensions Increase (Speakers' Pensions) Regulations 1972
+id: uksi/1972/1653
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1972-11-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1972/1653
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1972/1653/pdfs/uksi_19721653_en.pdf
+- http://www.legislation.gov.uk/uksi/1972/1653/made/data.pdf
+pending_changes: 7
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Pensions Increase (Speakers' Pensions) Regulations 1972
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1972 No. 1653
+
+PENSIONS
+
+The Pensions Increase (Speakers' Pensions) Regulations 1972
+
+Made
+
+3rd November 1972
+
+Laid before Parliament
+
+10th November 1972
+
+Coming into Operation
+
+1st December 1972
+
+The Minister for the Civil Service, in exercise of the powers conferred on him by section 5(3) and (4) of the Pensions (Increase) Act 1971 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+**1.** These Regulations may be cited as the Pensions Increase (Speakers' Pensions) Regulations 1972, and shall come into operation on 1st December 1972.
+
+**2.** (1) In these Regulations—
+
+- “**the 1971 Act**” means the Pensions (Increase) Act 1971;
+- “**basic rate**” has the meaning given by section 17(1) of the 1971 Act.
+
+(2) The Interpretation Act 1889 shall apply for the interpretation of these Regulations as it applies for the interpretation of an Act of Parliament.
+
+**3.** The provisions of the 1971 Act shall apply in relation to—
+
+- (a) a pension payable under Mr. Speaker Morrison's Retirement Act 1959.
+- (b) a pension payable under the Hon. Lady Hylton-Foster's Annuity Act 1965.
+- (c) a pension payable under Mr. Speaker King's Retirement Act 1971, and
+- (d) a pension payable under section 26 or 27 of the Parliamentary and other Pensions Act 1972 to or in respect of a person who has held office as Speaker of the House of Commons,
+
+subject to the modifications and exceptions specified in the following provisions of these Regulations.
+
+**4.** Any increase under the 1971 Act of a pension payable under Mr. Speaker Morrison's Retirement Act 1959 or under the Hon. Lady Hylton-Foster's Annuity Act 1965 shall not at any time exceed the amount by which the basic rate of the pension falls short of the rate of the pension to which the person in receipt of the pension would have been entitled under section 27 of the Parliamentary and other Pensions Act 1972 if the person in respect of whose service the pension is payable had, not earlier than that time, ceased to hold office as Speaker of the House of Commons.
+
+**5.** (1) Subject to paragraph (2) below, a pension payable under Mr. Speaker King's Retirement Act 1971 shall be treated for the purposes of the 1971 Act as if it began on 1st April 1965.
+
+(2) Any increase under the 1971 Act of a pension payable under Mr. Speaker King's Retirement Act 1971 shall not exceed the amount by which the basic rate of the pension falls short of the rate of the pension to which the person in receipt of the pension would have been entitled under section 26 or 27 (as the case may be) of the Parliamentary and other Pensions Act 1972 if the person in respect of whose service the pension is payable had, not earlier than that time, ceased to hold office as Speaker of the House of Commons.
+
+(3) Any increase payable by virtue of this Regulation shall be payable in respect of any period beginning on or after 1st April 1972.
+
+**6.** In relation to a pension payable under section 26 or 27 of the Parliamentary and other Pensions Act 1972 to or in respect of a person who has held office as Speaker of the House of Commons the 1971 Act shall have effect as if the pension were excepted from the provisions of the Act.
+
+Given under the official seal of the Minister for the Civil Service on 3rd November 1972.
+
+Kenneth Baker
+
+Authorised by the Minister for the Civil Service
+
+EXPLANATORY NOTE
+
+These Regulations apply the Pensions (Increase) Act 1971 to the pensions of past Speakers of the House of Commons subject to the following modifications. The increase will be restricted where necessary so as to secure that the pensions concerned will not exceed the current pension rate for former Speakers and in the case of a pension payable under Mr. Speaker King's Retirement Act 1971, the pension will be treated as if it began on 1st April 1965. In the case of Speakers who cease to hold office on or after 1st April 1972, no increase will be payable.
+
+In accordance with the powers conferred by section 5(4) of the Pensions (Increase) Act 1971, the Regulations provide for increases to take effect from 1st April 1972.

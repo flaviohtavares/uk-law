@@ -1,0 +1,876 @@
+---
+title: The End-of-Life Vehicles (Producer Responsibility) Regulations 2005
+id: uksi/2005/263
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-02-08'
+text_date: '2025-02-27'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2005/263
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/263/pdfs/uksiem_20050263_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/263/pdfs/uksi_20050263_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/263/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The End-of-Life Vehicles (Producer Responsibility) Regulations 2005
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2005 No. 263
+
+ENVIRONMENTAL PROTECTION
+
+The End-of-Life Vehicles (Producer Responsibility) Regulations 2005
+
+Made
+
+8th February 2005
+
+Laid before Parliament
+
+9th February 2005
+
+Coming into force
+
+3rd March 2005
+
+The Secretary of State, being a Minister designated [^f00001] for the purposes of section 2(2) of the European Communities Act 1972 [^f00002] in respect of matters relating to the prevention of waste from vehicles and forms of recovery of end-of-life vehicles and their components, in exercise of the powers conferred upon her by that section, hereby makes the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the End-of-Life Vehicles (Producer Responsibility) Regulations 2005 and shall come into force on 3rd March 2005.
+
+## 2. Interpretation[^M_E_ac06a8dd-4b64-42b8-b500-f50069718e90]
+
+*Extent: E+W*
+
+In these Regulations—
+
+- “the Directive” means Directive [2000/53/EC](https://www.legislation.gov.uk/eudr/2000/53) of the European Parliament and of the Council on end-of-life vehicles [^f00003] , as last amended by[^key-d472968d450b561b0600b0e94d15d643] Commission Delegated Directive (EU) 2020/363[^key-4c6b759723642d9f21b6849fbe06b1a4] and as read in accordance with regulation 2A[^key-aa4ec3932efd5b8ab116c035d5edf531];
+- “[^key-c3e0f2e5758ff1f79711935327f43452]**appropriate agency**” means—
+  - ((a)) in relation to England, the Environment Agency,
+  - ((b)) in relation to Wales, the Natural Resources Body for Wales,
+  - ((c)) in relation to Scotland, the Scottish Environment Protection Agency,
+  - ((d)) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+- “**appropriate authority**” means—
+  - ((a)) in relation to England, the Secretary of State,
+  - ((b)) in relation to Wales, the Welsh Ministers,
+  - ((c)) in relation to Scotland, the Scottish Ministers,
+  - ((d)) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+- “authorised treatment facility” means any establishment or undertaking carrying out treatment operations which holds—[^key-d32ba5fe1a56e806d9aea6a4779a4451]
+  - (a) in England or Wales, an environmental permit authorising those operations granted under regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016;
+  - (b) in Scotland, a site licence that complies with the relevant provisions of regulations 3 to 6 of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003 or a permit issued under regulation 13 of the Pollution Prevention and Control (Scotland) Regulations 2012;
+  - (c) in Northern Ireland—
+    - (i) a site licence that meets the requirements of regulation 26 of, and Schedule 5 to, the Waste Management Licensing Regulations (Northern Ireland) 2003;
+    - (ii) a permit granted under regulation 10 of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013;
+- “certificate of compliance” means the type of certificate referred to in regulation 19;
+- “certificate of destruction” means the type of certificate referred to in Part V of the End-of-Life Vehicles Regulations 2003;
+- “compliance notice” means the notice referred to in regulation 16;
+- “end-of-life vehicle” means a vehicle which is waste within the meaning of Article 3(1)[^key-6da4238e2e8549789e26d383579a05db] of the Waste Directive , as read with Articles 5 and 6 of that Directive[^M_F_7b877190-e3bb-4c4e-d806-f04a62a515ba];
+- “[^key-0957324be7e87f4b1d2da5f5f9fb8518]**local authority**” means—
+  - ((a)) in England outside Greater London—
+    - ((i)) a district council,
+    - ((ii)) a county council, or
+    - ((iii)) the Council of the Isles of Scilly;
+  - ((b)) in Greater London—
+    - ((i)) the council of a London borough,
+    - ((ii)) the Common Council of the City of London,
+    - ((iii)) the Sub-Treasurer of the Inner Temple, or
+    - ((iv)) the Under-Treasurer of the Middle Temple;
+  - ((c)) in Wales—
+    - ((i)) a county council, or
+    - ((ii)) a county borough council;
+  - ((d)) in Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
+  - ((e)) in Northern Ireland, a district council established under section 1 of the Local Government Act (Northern Ireland) 1972;
+- “producer” means the vehicle manufacturer or the professional importer of a vehicle into the United Kingdom;
+- “recovery” has the meaning given by Article 3(15) of the Waste Directive;[^key-62fa1e3b4075c90500ecf8b849b115ca]
+- “recycling” means the reprocessing in a production process of waste materials for the original purpose or for other purposes but excluding the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;
+- “reuse” means any operation by which components of end-of-life vehicles are used for the same purpose for which they were conceived;
+- “treatment” means any activity after the end-of-life vehicle has been handed over to a facility for depollution, dismantling, shearing, shredding, recovery or preparation for disposal of the shredder wastes, and any other operation carried out for the recovery and/or disposal of the end-of-life vehicle and its components; and “treat” and “treated” shall be construed accordingly;
+- “[^key-2f60554281880a9bf10af110940f7857]**vehicle**” means—
+  - ((a)) any vehicle designated as category M<sub>1</sub> or N<sub>1</sub> defined in Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-ee05b378eac01b5db205c9fe486a0c84]; and
+  - ((b)) three-wheel motor vehicles within the meaning of Article 4 and Annex 1 of Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^c22909191] as it may be amended from time to time, but excluding any vehicle of category L5e;
+- “the Waste Directive” means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste , as last amended by[^key-92e7286631fa9491fa7bfa4435f63762] Directive (EU) 2018/851[^key-b61a865822c1c30430d2305beee607d7] , and as read in accordance with regulation 2B[^key-4e9c9f71814c1be0bbb7baec1163867e].
+
+## 2. Interpretation[^M_E_6f3a8ba2-0e5c-42d7-ad5d-ebea8cdcca0f]
+
+*Extent: S*
+
+In these Regulations—
+
+- “the Directive” means Directive [2000/53/EC](https://www.legislation.gov.uk/eudr/2000/53) of the European Parliament and of the Council on end-of-life vehicles [^f00003] , as last amended by[^V_S_6087827f-73c1-f70c-ce2f-fac415d9ebbd] Commission Delegated Directive (EU) 2020/363[^V_S_55479451-352b-c7df-c29d-5d14984dacca] and as read in accordance with regulation 2A[^V_S_78531a15-60d1-4e25-1e4c-73a6f160f785];
+- “[^V_S_541d79c4-979d-6df7-fc49-dbcdd755cfaf]**appropriate agency**” means—
+  - ((a)) in relation to England, the Environment Agency,
+  - ((b)) in relation to Wales, the Natural Resources Body for Wales,
+  - ((c)) in relation to Scotland, the Scottish Environment Protection Agency,
+  - ((d)) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+- “**appropriate authority**” means—
+  - ((a)) in relation to England, the Secretary of State,
+  - ((b)) in relation to Wales, the Welsh Ministers,
+  - ((c)) in relation to Scotland, the Scottish Ministers,
+  - ((d)) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+- “authorised treatment facility” means any establishment or undertaking carrying out treatment operations which holds—[^V_S_32a4b747-f7af-a8aa-e775-c0c6405ce2bb]
+  - (a) in England or Wales, an environmental permit authorising those operations granted under regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016;
+  - (b) in Scotland, a site licence that complies with the relevant provisions of regulations 3 to 6 of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003 or a permit issued under regulation 13 of the Pollution Prevention and Control (Scotland) Regulations 2012;
+  - (c) in Northern Ireland—
+    - (i) a site licence that meets the requirements of regulation 26 of, and Schedule 5 to, the Waste Management Licensing Regulations (Northern Ireland) 2003;
+    - (ii) a permit granted under regulation 10 of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013;
+- “certificate of compliance” means the type of certificate referred to in regulation 19;
+- “certificate of destruction” means the type of certificate referred to in Part V of the End-of-Life Vehicles Regulations 2003;
+- “compliance notice” means the notice referred to in regulation 16;
+- “end-of-life vehicle” means a vehicle which is waste within the meaning of Article[^V_S_19428389-9b95-bed6-015a-b1cd75ef6988] 3(1) of the Waste Directive , as read with Articles 5 and 6 of that Directive;
+- “[^V_S_15fbbc64-b916-61ea-1d9a-b3ba91178a7b]**local authority**” means—
+  - ((a)) in England outside Greater London—
+    - ((i)) a district council,
+    - ((ii)) a county council, or
+    - ((iii)) the Council of the Isles of Scilly;
+  - ((b)) in Greater London—
+    - ((i)) the council of a London borough,
+    - ((ii)) the Common Council of the City of London,
+    - ((iii)) the Sub-Treasurer of the Inner Temple, or
+    - ((iv)) the Under-Treasurer of the Middle Temple;
+  - ((c)) in Wales—
+    - ((i)) a county council, or
+    - ((ii)) a county borough council;
+  - ((d)) in Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
+  - ((e)) in Northern Ireland, a district council established under section 1 of the Local Government Act (Northern Ireland) 1972;
+- “producer” means the vehicle manufacturer or the professional importer of a vehicle into the United Kingdom;
+- “recovery” means any of the applicable operations provided for in Annex[^V_S_463602a6-afa7-6b8d-2b83-b1957b291af2] II to the Waste Directive;
+- “recycling” means the reprocessing in a production process of waste materials for the original purpose or for other purposes but excluding the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;
+- “reuse” means any operation by which components of end-of-life vehicles are used for the same purpose for which they were conceived;
+- “treatment” means any activity after the end-of-life vehicle has been handed over to a facility for depollution, dismantling, shearing, shredding, recovery or preparation for disposal of the shredder wastes, and any other operation carried out for the recovery and/or disposal of the end-of-life vehicle and its components; and “treat” and “treated” shall be construed accordingly;
+- “[^V_S_55a5b785-367e-f2bf-102b-16031d74b3ca]**vehicle**” means—
+  - ((a)) any vehicle designated as category M<sub>1</sub> or N<sub>1</sub> defined in Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^V_S_c6233737-0aef-46d1-3f3c-2aa76f8b5f45]; and
+  - ((b)) three-wheel motor vehicles within the meaning of Article 4 and Annex 1 of Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^V_S_94a29b57-4a92-385e-54ce-8b3cc0e1ebd1] as it may be amended from time to time, but excluding any vehicle of category L5e;
+- “the Waste Directive” means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste , as last amended by[^V_S_7598b7ac-93f3-99e9-210f-9556ae08995d] Directive (EU) 2018/851[^V_S_d30d5fd4-53b5-d643-4b6f-d2d81ebca445] , and as read in accordance with regulation 2B[^V_S_8262c7e8-1172-da29-4a65-6e29bb174680].
+
+## 2. Interpretation[^M_E_19ed2e4c-e77b-4f50-fdae-144056702486]
+
+*Extent: N.I.*
+
+In these Regulations—
+
+- “the Directive” means Directive [2000/53/EC](https://www.legislation.gov.uk/eudr/2000/53) of the European Parliament and of the Council on end-of-life vehicles [^f00003] , as last amended by[^V_NI_595b0f39-201e-fe86-ebc4-f9d62a8eb77e] Commission Delegated Directive (EU) 2020/363[^V_NI_204129ee-1815-49af-c94a-2d25806a37c0] and as read in accordance with regulation 2A[^V_NI_6b400c32-fd0e-9b12-e97a-a74288d79d32];
+- “[^V_NI_421abddf-f3a2-66d1-67db-8ecdfa19effb]**appropriate agency**” means—
+  - ((a)) in relation to England, the Environment Agency,
+  - ((b)) in relation to Wales, the Natural Resources Body for Wales,
+  - ((c)) in relation to Scotland, the Scottish Environment Protection Agency,
+  - ((d)) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+- “**appropriate authority**” means—
+  - ((a)) in relation to England, the Secretary of State,
+  - ((b)) in relation to Wales, the Welsh Ministers,
+  - ((c)) in relation to Scotland, the Scottish Ministers,
+  - ((d)) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
+- “authorised treatment facility” means any establishment or undertaking carrying out treatment operations which holds—[^V_NI_f05d007a-de62-2895-1b8b-23570d6324e2]
+  - (a) in England or Wales, an environmental permit authorising those operations granted under regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016;
+  - (b) in Scotland, a site licence that complies with the relevant provisions of regulations 3 to 6 of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003 or a permit issued under regulation 13 of the Pollution Prevention and Control (Scotland) Regulations 2012;
+  - (c) in Northern Ireland—
+    - (i) a site licence that meets the requirements of regulation 26 of, and Schedule 5 to, the Waste Management Licensing Regulations (Northern Ireland) 2003;
+    - (ii) a permit granted under regulation 10 of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013;
+- “certificate of compliance” means the type of certificate referred to in regulation 19;
+- “certificate of destruction” means the type of certificate referred to in Part V of the End-of-Life Vehicles Regulations 2003;
+- “compliance notice” means the notice referred to in regulation 16;
+- “end-of-life vehicle” means a vehicle which is waste within the meaning of Article 3(1)[^V_NI_532e819b-6982-e939-345b-ac75f1c4c8ce] of the Waste Directive , as read with Articles 5 and 6 of that Directive;
+- “[^V_NI_437d6246-a0b2-d864-93c4-e9a4e83cfc98]**local authority**” means—
+  - ((a)) in England outside Greater London—
+    - ((i)) a district council,
+    - ((ii)) a county council, or
+    - ((iii)) the Council of the Isles of Scilly;
+  - ((b)) in Greater London—
+    - ((i)) the council of a London borough,
+    - ((ii)) the Common Council of the City of London,
+    - ((iii)) the Sub-Treasurer of the Inner Temple, or
+    - ((iv)) the Under-Treasurer of the Middle Temple;
+  - ((c)) in Wales—
+    - ((i)) a county council, or
+    - ((ii)) a county borough council;
+  - ((d)) in Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
+  - ((e)) in Northern Ireland, a district council established under section 1 of the Local Government Act (Northern Ireland) 1972;
+- “producer” means the vehicle manufacturer or the professional importer of a vehicle into the United Kingdom;
+- “recovery” means any of the applicable operations provided for in Annex 2[^V_NI_7d098aad-cb3b-5be1-ad8a-d01db96bc14f] to the Waste Directive;
+- “recycling” means the reprocessing in a production process of waste materials for the original purpose or for other purposes but excluding the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;
+- “reuse” means any operation by which components of end-of-life vehicles are used for the same purpose for which they were conceived;
+- “treatment” means any activity after the end-of-life vehicle has been handed over to a facility for depollution, dismantling, shearing, shredding, recovery or preparation for disposal of the shredder wastes, and any other operation carried out for the recovery and/or disposal of the end-of-life vehicle and its components; and “treat” and “treated” shall be construed accordingly;
+- “[^V_NI_554d2aa0-d6b1-dfc2-02e8-20374029dd88]**vehicle**” means—
+  - ((a)) any vehicle designated as category M<sub>1</sub> or N<sub>1</sub> defined in Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^V_NI_3e3c8cc5-6e23-0a1b-e4ac-fedfe437f375]; and
+  - ((b)) three-wheel motor vehicles within the meaning of Article 4 and Annex 1 of Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^V_NI_e4f976eb-ea87-d873-0ed4-b2f8a08c7997] as it may be amended from time to time, but excluding any vehicle of category L5e;
+- “the Waste Directive” means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste , as last amended by[^V_NI_73536158-ccae-83b4-b0ca-8f6c2eecb393] Directive (EU) 2018/851[^V_NI_469712b6-c7f6-d091-26a8-74f35264d715] , and as read in accordance with regulation 2B[^V_NI_f15e7634-f083-d128-8e50-ff40e3856de7].
+
+## 2A. Modification of the Directive[^key-540e576f60fcea1aa4eb8d8c7ae4405c]
+
+(1) For the purposes of these Regulations, the Directive is to be read in accordance with this regulation.
+
+(2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day, was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion.
+
+(3) A term used in the Directive which is defined in regulation 2 has the same meaning as in regulation 2.
+
+(4) Article 2 is to be read as if paragraphs 1, 2, 5 and 8 were omitted.
+
+(5) Article 5 is to be read as if—
+
+- (a) in paragraph 3—
+  - (i) in the first paragraph, for “Treatment facilities, which have obtained a permit in accordance with Article 6,” there were substituted “Authorised treatment facilities”;
+  - (ii) in the third paragraph, the final sentence were omitted;
+- (b) in paragraph 4, the fourth paragraph were omitted;
+- (c) paragraph 5 were omitted.
+
+## 2B. Modification of the Waste Directive
+
+(1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+
+(2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day, was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion.
+
+(4) Article 5 is to be read as if—
+
+- (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+- (b) after paragraph 1 there were inserted—
+
+  > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+  >
+  > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+  > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+
+  ;
+- (c) paragraphs 2 and 3 were omitted.
+
+(5) Article 6 is to be read as if—
+
+- (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+- (b) after paragraph 1 there were inserted—
+
+  > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+  >
+  > - (a) in accordance with any regulations or assimilated direct[^key-8616fb543d9c743d24255a792bbed6de] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+
+  ;
+- (c) in paragraph 2—
+  - (i) the first subparagraph were omitted;
+  - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+  - (iii) the third and fourth subparagraphs were omitted;
+- (d) paragraph 3 were omitted;
+- (e) in paragraph 4—
+  - (i) in the first subparagraph—
+    - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+    - (bb) the second sentence were omitted;
+  - (ii) in the second subparagraph—
+    - (aa) for “Member States” there were substituted “The appropriate agency”;
+    - (bb) “by competent authorities” were omitted.
+
+(6) Article 7 is to be read as if—
+
+- (a) before paragraph 1 there were inserted—
+
+  > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), as that list has effect in England, Wales, Scotland or Northern Ireland (as the case may be).
+
+  ;
+- (b) in paragraph 1—
+  - (i) the first and second sentences were omitted;
+  - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+- (c) paragraphs 2, 3, 6 and 7 were omitted.
+
+(9) Annex 3 is to read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+
+## 3. Vehicles and End-of-Life Vehicles to which these Regulations apply
+
+(1) These Regulations apply to vehicles and end-of-life vehicles including their components and materials.
+
+(2) The Regulations shall apply irrespective of how the vehicle has been serviced or repaired during use and irrespective of whether it is equipped with components supplied by the producer or with other components whose fitting as spare or replacement parts accords with any relevant legislation[^key-220960afea76094de48a826cce6d38be].
+
+## 4. Existing legislation[^key-cb57d11b93f212ee55fd3a9513a5ac9f]
+
+Nothing in these Regulations shall affect the application of any other relevant legislation[^key-f5ebd6f487d794bd1a1bb534559c88ad], in particular as regards safety standards, air emissions, noise controls and the protection of soil and water.
+
+## 5. Special-purpose vehicles
+
+Regulations 18 to 20 shall not apply to vehicles approved as[^key-5e4f560fa1aff5c010d5d492a440a5b1] special-purpose vehicles as defined in point 5 of Part A of Annex I to Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-bee6191b4fb93da3f72edc69bdb37273].
+
+## 6. Three-wheel motor vehicles
+
+The following regulations shall not apply to three-wheel motor vehicles —
+
+- (a) 10(6); and
+- (b) 18 to 20.
+
+## 7. Registration and declaration of responsibility by producers
+
+(1) By 30th April 2005 each producer shall apply to the Secretary of State for registration and declare responsibility for those vehicles which he has placed on the market before the date of his application for registration.
+
+(2) From 1st May 2005 each producer shall apply to the Secretary of State for registration and declare responsibility for those vehicles which he places on the market, which were not the subject of a previous application for registration under paragraph (1), within six months of placing those vehicles on the market.
+
+(3) Where a producer who has made a declaration under this regulation subsequently ceases to place vehicles on the market he shall inform the Secretary of State within 28 days of the change in his circumstances.
+
+(4) An application by a producer to register shall—
+
+- (a) be made in writing; and
+- (b) contain at least the information set out in Schedule 1.
+
+(5) The details provided by a producer in compliance with the obligations referred to in paragraphs (1), (2), (3) and (4) shall be included in the register of producers to be maintained by the Secretary of State for the purposes of these Regulations.
+
+(6) Subject to regulation 9, a producer who has made a declaration under this regulation shall be treated as remaining responsible for the vehicles in respect of which a declaration has been made.
+
+(7) Where a producer’s application for registration meets the requirements of paragraph (4), the Secretary of State shall, within—
+
+- (a) 21 days of receipt of the application for registration made under paragraph (1); and
+- (b) 28 days of receipt of the application for registration made under paragraph (2),
+
+notify the producer that his application for registration has been granted.
+
+(8) Where a producer’s application for registration is refused, the Secretary of State shall notify the producer in writing within 28 days of that decision together with the reasons for the decision.
+
+(9) A registered producer shall inform the Secretary of State of any change in circumstances which relate to his registration (except those mentioned in regulation 8) within 28 days of the occurrence of any change.
+
+## 8. The Secretary of State’s decision to ascribe responsibility to a producer in respect of vehicles placed on the market
+
+(1) In the circumstances where vehicles have been placed on the market but no producer has made a declaration of responsibility in accordance with the requirements of regulation 7, the Secretary of State may ascribe responsibility in respect of any of those vehicles to a producer.
+
+(2) Where the Secretary of State makes a decision to ascribe responsibility to a producer under paragraph (1), she shall send to the producer a notice in writing of her decision within 14 days of having made that decision.
+
+(3) In reaching her decision under paragraph (1)[^key-fb2ebf920882d0a560209823d1826329] the Secretary of State may take into account the matters referred to in Schedule 2.
+
+(4) The notice referred to in paragraph (2) shall include the following—
+
+- (a) a description of the vehicle to which it relates;
+- (b) if available, information indicating when the vehicle referred to in sub-paragraph (a) was placed on the market;
+- (c) the reasons for the Secretary of State’s decision to ascribe responsibility;
+- (d) a statement notifying the producer of his obligations under these Regulations.
+
+(5) Where the Secretary of State makes a decision to ascribe responsibility under paragraph (1), she shall notify the producer that he may make representations to her within a period of 28 days of the date of the notice referred to in paragraph (2) if he objects to the decision.
+
+(6) If the Secretary of State considers it appropriate to do so, whether in consequence of any representations or proposals made to her under paragraph (5), or otherwise, she may —
+
+- (a) revoke the decision which she has made under paragraph (1);
+- (b) without revoking her decision, at any time modify the terms of the notice referred to in paragraph (2), in such manner as she considers appropriate.
+
+(7) Where a vehicle is placed on the market and no producer makes a declaration of responsibility under regulation 7, and the Secretary of State does not ascribe responsibility to a producer under paragraph (1), that vehicle may be subject to an agreement as referred to in regulation 26.
+
+## 9. Transfer of a producer’s business to another
+
+Where the business of a producer is transferred in whole or in part to another person—
+
+- (a) that producer shall be treated as remaining responsible for those vehicles in respect of which he has made a declaration under regulation 7, or in respect of which the Secretary of State has ascribed responsibility to him under regulation 8, unless he is able to demonstrate to the Secretary of State that the person to whom the business has been transferred has agreed to meet the producer’s obligations in respect of those vehicles under these Regulations; and
+- (b) the person to whom the whole or part of a business is transferred shall be treated as a producer for the purposes of these Regulations, and shall—
+  - (i) apply to the Secretary of State for registration under regulation 7(2);
+  - (ii) submit details of the system for collection of end-of-life vehicles which he has established under regulation 10; and
+  - (iii) attain the targets for reuse, recovery and recycling in regulation 18.
+
+## 10. Producer’s obligation to establish and submit details of his system for collection
+
+(1) Each producer shall establish a system for the collection of the vehicles for which he has declared responsibility for placing on the market under regulation 7, or for which the Secretary of State has ascribed responsibility to him under regulation 8, which the producer anticipates will become end-of-life vehicles.
+
+(2) Each producer shall submit to the Secretary of State an application for approval of the system he has established for the collection of the vehicles referred to in paragraph (1) and where—
+
+- (a) a producer has declared responsibility for placing vehicles on the market under regulation 7(1), the application shall be made before 31st August 2005;
+- (b) a producer has declared responsibility for placing vehicles on the market under regulation 7(2), the application shall be made within six months of placing those vehicles on the market;
+- (c) the Secretary of State has ascribed responsibility to a producer in respect of vehicles placed on the market under regulation 8, the application shall be made within three months of the producer receiving notice of the Secretary of State’s decision.
+
+(3) When submitting an application under paragraph (2), each producer shall submit to the Secretary of State details of the system for collection of vehicles, as set out in Schedule 3, which he has established to meet the obligation referred to in paragraph (1).
+
+(4) Where there is a significant change in the details relating to the system for collection submitted by a producer under regulation 10(3), the producer shall inform the Secretary of State within 28 days of changing the details of the system for collection and submit a revised application for approval of his system for collection under paragraph (2).
+
+(5) Where the Secretary of State believes that there is a significant change in the details relating to a producer’s system for collection which has been submitted in compliance with paragraph (3), she shall send him notice of his obligation to submit a revised application for approval under paragraph (2) within 28 days of his receipt of that notice.
+
+(6) From 1st January 2007, where an end-of-life vehicle has no market value no charge shall be imposed on the last owner or holder of that end-of-life vehicle when it is delivered to a system for collection provided by the producer in compliance with his obligations under paragraph (1).
+
+(7) The requirements of paragraph (6) shall not apply where the vehicle does not contain the essential components of a vehicle, in particular the engine, transmission, coachwork, wheels or catalytic converter, if a catalytic converter formed part of the vehicle when it was placed on the market, or contains waste which has been added to it.
+
+## 11. Accessibility of the system for collection
+
+(1) Each producer shall ensure that, as regards vehicles for which he has declared responsibility for placing on the market under regulation 7, or for which the Secretary of State has ascribed responsibility to him under regulation 8, his system for collection as referred to in regulation 10 is reasonably accessible to any person who wishes to deliver to it an end-of-life vehicle for which that producer is responsible.
+
+(2) Notwithstanding the requirements of paragraph (1), a producer may make alternative arrangements for the collection of vehicles referred to in regulation 10, provided those arrangements are at least as convenient for the last owner or holder of the vehicle as the requirement for delivery referred to in paragraph (1).
+
+## 12. Capacity of a network of authorised treatment facilities
+
+(1) The authorised treatment facilities which comprise all or part of a producer’s system for collection of vehicles shall contain sufficient capacity to treat, in accordance with the requirements set out in Annex 1 to the Directive, and the general requirements referred to in Article 13 of the Waste Directive[^key-14f5b8b7f9551819bc4c50467ea851a4], the number of that producer’s vehicles which are likely to become end-of-life vehicles in 2006 and in each year thereafter.
+
+(2) From 1st January 2007 it shall be a requirement of any agreement between a producer and an owner or operator of an authorised treatment facility which forms part of that producer’s system for collection that—
+
+- (a) where an authorised treatment facility accepts delivery of an end-of-life vehicle to which the agreement applies and which has no market value, no charge shall be imposed upon the last owner or holder of that vehicle; and
+- (b) an authorised treatment facility which is part of a producer’s system for collection shall accept delivery of any end-of-life vehicle which is within the terms of that agreement.
+
+(3) The requirements of paragraph (2)(a) shall not apply where the end-of-life vehicle does not contain the essential components of a vehicle, in particular the engine, transmission, coachwork, wheels or catalytic converter, if a catalytic converter formed part of the vehicle when it was placed on the market, or contains waste which has been added to it.
+
+## 13. Approval of a producer’s application to establish a collection system
+
+Approval of a producer’s application to establish a system for the collection of vehicles under regulation 10 shall be granted where the Secretary of State is satisfied that the requirements of—
+
+- (a) regulation 10;
+- (b) regulation 11; and
+- (c) regulation 12.
+
+are met.
+
+## 14. Revisions to a producer’s application for approval of a collection system where it is anticipated the number of end-of-life vehicles will change in a subsequent year
+
+(1) Where a producer has submitted an application for approval of his system for the collection of vehicles under regulation 10, and he anticipates in respect of a subsequent year that the capacity of the system for collection will be insufficient for the number of end-of-life vehicles for which he will be responsible, he shall submit a revised application for approval of the system for collection to the Secretary of State.
+
+(2) Where a producer has submitted an application for approval of his system for the collection of vehicles under regulation 10, and the Secretary of State has reason to believe that the capacity of his system for collection is insufficient for the number of end-of-life vehicles for which he will be responsible and that producer has not submitted a revised application under paragraph (1), she shall notify the producer accordingly.
+
+(3) Where the circumstances in either paragraph (1) or (2) apply, a producer shall submit a revised application for approval of the system for the collection of vehicles to the Secretary of State in writing at least three months before the beginning of the year in which the revised system is intended to come into operation.
+
+(4) The Secretary of State shall grant approval of a revised application for approval of the system for the collection of vehicles within 28 days of receipt of the application where she is satisfied that the requirements of regulation 12 have been met.
+
+(5) Where a producer has submitted an application for approval of his system for the collection of vehicles under regulation 10, and he anticipates in respect of a subsequent year that the capacity of that system will exceed the number of end-of-life vehicles for which he will be responsible, he may submit a revised application for approval of that system to the Secretary of State, provided that the revised application shall be submitted not less than three months before the start of the year in which the revised system is intended to operate.
+
+## 15. Authorised treatment facilities
+
+Notwithstanding regulation 12(2), a producer shall not be liable to meet the costs of treatment of a vehicle which he has placed on the market and which has become an end-of-life vehicle, where that vehicle is accepted by an authorised treatment facility which is not part of the system for the collection of vehicles referred to by the producer in the details he has submitted to the Secretary of State under regulation 10(2).
+
+## 16. Compliance Notice
+
+Where the Secretary of State has reasonable grounds for believing that any or all of the requirements of the following regulations have not been complied with —
+
+- (a) regulation 7, paragraphs (1), (2) , (3) and (9)[^key-b25839c0a27084cd33ce37347726b701] ;
+- (b) regulation 10;
+- (c) regulation 11; and
+- (d) regulation 12
+
+she may serve a compliance notice on the producer.
+
+## 17. Content of a compliance notice served under regulation 16
+
+A notice which is served under regulation 16 shall —
+
+- (a) include a statement that the Secretary of State believes that a requirement of regulations 7, 10, 11 or 12 has been contravened, specify the particulars thereof and give reasons;
+- (b) require the producer to comply with the requirement and specify the period of time within which the producer must do so; and
+- (c) warn the producer that unless the requirement is complied with within the period specified in the notice he may be prosecuted under regulation 23.
+
+## 18. Reuse, Recovery and Recycling targets
+
+(1) For the year 2006 and every year thereafter until 31st December 2014, each producer shall attain the following targets in respect of those end-of-life vehicles treated at authorised treatment facilities which comprise all or part of the system he has established for collection of vehicles as referred to in regulation 10 —
+
+- (a) at least 85% reuse and recovery by an average weight per vehicle and year; and
+- (b) at least 80% reuse and recycling by an average weight per vehicle and year.
+
+(2) For the year 2015 and every year thereafter, each producer shall attain the following targets in respect of those end-of-life vehicles treated at authorised treatment facilities which comprise all or part of his system for collection as referred to in regulation 10 —
+
+- (a) at least 95% reuse and recovery by an average weight per vehicle and year; and
+- (b) at least 85% reuse and recycling by an average weight per vehicle and year.
+
+(3) Where an authorised treatment facility treats end-of-life vehicles which it is not obliged to treat under an agreement between the owner or operator of that facility and a producer, the owner or operator of that authorised treatment facility shall attain the targets for reuse, recovery and recycling as set out in paragraphs (1) and (2), in respect of those end-of-life vehicles.
+
+(4) But as regards vehicles placed on the market before 1st January 1980, the reuse, recovery and recycling targets to be attained for the purposes of paragraph (1)(a) shall be 75% and for the purposes of paragraph (1)(b) shall be 70%.
+
+(5) Details of the reuse, recovery and recycling rates achieved by a producer or the owner or operator of an authorised treatment facility, as the case may be, shall be submitted to the Secretary of State by 1st April 2007 for the year 2006 and by 1st July each[^key-80c996d4c6dfb8aef107eddf8c4c3ea7] year thereafter in respect of the immediately preceding year in the format published by the Secretary of State[^M_F_d4b63c77-4daa-4f7b-9c32-df44f9635f3e] .
+
+(6)[^key-f63dff49d14734a952aedb2615b60a29] The Secretary of State shall publish the format in which the details referred to in regulation 18(5) are to be submitted.
+
+## 19. Certificate of Compliance
+
+(1) Where the targets for reuse, recovery and recycling as set out in regulation 18 are attained by —
+
+- (a) a producer, he shall send a certificate of compliance to the Secretary of State;
+- (b) the owner or operator of an authorised treatment facility, he shall send a certificate of compliance to the Secretary of State.
+
+(2) The certificate of compliance shall be sent to the Secretary of State by 1st July[^key-79486f452dbc88c5054bbaa70d1a2cb8] each year in respect of the immediately preceding year.
+
+(3) The provisions of Schedule 4 shall apply as regards the information to be contained in a certificate of compliance.
+
+(4)[^key-2638725044765bca58a6fcdbd9377371] Where a person is under an obligation to send a certificate of compliance to the Secretary of State under this regulation, that certificate shall be submitted by—
+
+- (a) where that person is an individual, that individual;
+- (b) where that person is a partnership, a partner; and
+- (c) where that person is a company, a director of that company.
+
+## 20. Approval of persons to issue certificates of compliance[^key-82d24ddabf64d2d9d623668219409957]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21. Public Register
+
+(1) The Secretary of State shall maintain and make available in accordance with this regulation a register relating to those producers who register in accordance with regulation 7 and containing the information prescribed in Schedule 5.
+
+(2) The Secretary of State shall —
+
+- (a) ensure that the register is open for inspection at her principal office by members of the public free of charge at all reasonable hours; and
+- (b) permit members of the public to obtain copies of entries in the register on payment of a reasonable charge.
+
+(3) The register may be kept in any form but shall be indexed and arranged so that members of the public can readily trace information contained in it.
+
+(4) The Secretary of State shall amend the relevant entry in the register to record any change to the information entered and shall note the date on which the amendment is made.
+
+(5) For the avoidance of doubt, nothing in this regulation shall require the register to contain information relating to any criminal proceedings (including prospective proceedings) or to anything which is the subject matter of such proceedings, at any time before those proceedings are finally disposed of.
+
+(6) Nothing in this regulation shall require the register to contain any information which has been superseded by later information after four years have elapsed from that later information being entered in the register.
+
+## 22. Entry and Inspection
+
+For the purposes of carrying out her functions under these Regulations, the Secretary of State and any other person whom she considers suitable and whom she has authorised in writing to act on her behalf, may exercise the powers of entry and inspection referred to in Schedule 6.
+
+## 23. Offences
+
+A producer who fails to comply with any or all of the requirements of regulations—[^key-1990cccf4f279702519e5fa3683f9917]
+
+- (a) 7(1), (2), (3) or (9)
+- (b) 10 (1) to (6);
+- (c) 11; and
+- (d) 12
+
+shall be guilty of an offence.
+
+(2) A person who fails to comply with regulation 18 shall be guilty of an offence.
+
+(3) A person who —
+
+- (a) fails to submit a certificate of compliance in accordance with regulation 19;
+- (b) furnishes a certificate of compliance under regulation 19 and either —
+  - (i) knows the information provided in or in connection with the certificate to be false or misleading in a material particular; or
+  - (ii) furnishes such information recklessly and it is false or misleading in a material particular;
+- (c) fails without reasonable excuse to furnish any information required by the Secretary of State in accordance with regulation 19(3); or
+- (d) furnishes any information required by the Secretary of State in connection with her functions, powers and duties under these Regulations and either—
+  - (i) knows the information to be false or misleading in a material particular; or
+  - (ii) furnishes such information recklessly and it is false or misleading in a material particular;
+
+  shall be guilty of an offence.
+
+(4) Any person who intentionally delays or obstructs a person authorised by the Secretary of State in the exercise of the powers referred to in these Regulations shall be guilty of an offence.
+
+## 24. Enforcement
+
+(1) It shall be the duty of the Secretary of State to enforce these Regulations.
+
+(2) Where the Secretary of State serves a compliance notice on a producer under regulation 16, proceedings for an offence under regulation 23(1) shall not commence unless the time limit specified for compliance in the notice has expired.
+
+(3) The Secretary of State shall not commence proceedings for an offence in Scotland.
+
+(4) The Secretary of State may appoint one of the Environment Agencies to carry out her enforcement duties under these Regulations as follows:—
+
+- where the relevant person’s registered office or principal place of business is in —
+  - (a) England [^key-ca1b4530738151e24953409e72de2927]..., the Environment Agency;
+  - (aa) Wales, the Natural Resources Body for Wales;[^key-645f78a6de0c5235cfa7170deb656011]
+  - (c) Scotland, the Scottish Environment Protection Agency; and
+  - (d) Northern Ireland, the Department of the Environment.
+
+(5) For the purposes of paragraph (4), the relevant person means a producer or the owner or operator of an authorised treatment facility as the case may be.
+
+## 25. Penalties
+
+A person guilty of an offence under regulation 23 shall be liable —
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+## 26. Power of the Secretary of State to enter into agreements
+
+(1) For the purposes of implementing the detailed rules of Article 5(4) of the Directive the Secretary of State may enter into agreements with —
+
+- (a) one or more producers;
+- (b) organisations which represent the interests of the relevant producers.
+
+(2) The Secretary of State shall not enter into an agreement unless she is satisfied that it will achieve one or more of the objectives set out in Article 1 of the Directive, that is to say —
+
+- (a) the prevention of waste from vehicles;
+- (b) the reuse, recycling and other forms of recovery of end-of-life vehicles and their components so as to reduce the disposal of waste; and
+- (c) the improvement in the environmental performance of all the economic operators involved in the life cycle of vehicles, especially the operators directly involved in the treatment of end-of-life vehicles.
+
+## 27. Enforcement of Agreements
+
+(1) Where a person who enters into an agreement with the Secretary of State under regulation 26 fails to comply with the terms of the agreement, such failure shall be treated as if it were a breach of these Regulations, and that person shall be guilty of an offence.
+
+(2) A person who is guilty of an offence under this regulation shall be liable —
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+## 28. Amendments to the End-of-Life Vehicles Regulations 2003
+
+The End-of-Life Vehicles Regulations 2003 are amended as follows —
+
+- (a) after regulation 3(3) the following shall be inserted:—
+
+  > (4) Only the provisions of Part VII of these Regulations shall apply to three-wheel motor vehicles.
+  >
+  > (5) with effect from 31st December 2006, regulations 37 to 43 of these Regulations shall cease to apply.
+
+  ;
+- (b) in regulation 5, for the words “which are outside the scope of Directive [70/156/EC](https://www.legislation.gov.uk/european/directive/1970/0156), regulations 14 to 26 inclusive shall not apply” there shall be substituted the words “to which Article 8(2)(a) of Directive [70/156/EEC](https://www.legislation.gov.uk/european/directive/1970/0156) applies, regulations 16 to 26 shall not apply”;
+- (c) in regulation 29, after the words “authorised treatment facility” there shall be inserted the words “on the form which is to be approved by the Secretary of State,”;
+- (d) after regulation 29 the following shall be inserted —
+
+  > **29A. Issue of a certificate of destruction**
+  >
+  > A certificate of destruction is validly issued for the purposes of these Regulations only where —
+  >
+  > - (a) it is issued by an authorised treatment facility; and
+  > - (b) it meets the requirements of regulation 29.
+
+  ; and
+- (e) in regulation 31, after paragraph (b) there shall be inserted “or (c) 29A.”;
+
+Mike O'Brien,
+
+Minister of State for Energy and e-Commerce
+
+Department of Trade and Industry
+
+## SCHEDULE 1
+
+Regulation 7(4)
+
+### 1. INFORMATION TO BE CONTAINED IN AN APPLICATION FOR PRODUCER REGISTRATION
+
+The name, address and telephone number of the producer and where —
+
+- (a) the producer is a company, the registered office;
+- (b) the producer is not a company, the principal place of business.
+
+**2.** The business name of the producer if different from that referred to in paragraph 1.
+
+**3.** The address for service of notices on the producer if different from that referred to in paragraph 1.
+
+**4.** The details of the person to whom the Secretary of State may address communications.
+
+**5.** A description of the vehicles in respect of which the producer has declared responsibility for placing on the market under regulation 7.
+
+## SCHEDULE 2
+
+Regulation 8(3)
+
+### MATTERS WHICH THE SECRETARY OF STATE MAY TAKE INTO ACCOUNT IN REACHING A DECISION UNDER REGULATION 8(1)
+
+The identity of any person who —
+
+- (a) has manufactured the vehicle;
+- (b) has put his name on the vehicle;
+- (c) has placed the vehicle on the market; or
+- (d) uses, has used or has the right to use, a trade mark or other distinguishing mark in relation to the vehicle.
+
+## SCHEDULE 3
+
+Regulation 10(3)
+
+### 1. INFORMATION TO BE CONTAINED IN AN APPLICATION FOR APPROVAL OF A COLLECTION SYSTEM
+
+The number of vehicles which the producer anticipates may become end-of-life vehicles for the purposes of regulation 10(1).
+
+**2.** Details of the system for collection which the producer has established to meet the requirements of regulations 11 and 12(1).
+
+**3.** Details of the measures a producer will take to ensure the system he has established for collection is publicised.
+
+**4.** The location and address of each authorised treatment facility with which the producer has entered into an agreement to treat vehicles and in respect of which he has made a declaration under regulation 7.
+
+**5.** In relation to each authorised treatment facility referred to in paragraph 4 —
+
+- (a) the appropriate Agency licence number; and
+- (b) the depollution capacity of the site in respect of vehicles for which that producer has declared or been ascribed responsibility.
+
+## SCHEDULE 4
+
+Regulation 19(3)
+
+### INFORMATION IN THE CERTIFICATE OF COMPLIANCE
+
+The information to be contained in a certificate of compliance is as follows—
+
+- (a) the name and address of the person who issues the certificate;
+- (b) the name and address of the person in respect of whom the certificate is issued;
+- (c) the date of the certificate;
+- (d) a statement by the person who is required under regulation 19[^M_F_eaf351ff-7983-4bbd-cc83-2385b32aac85] to submit the certificate of compliance that the reuse, recovery and recycling obligations have been met.
+
+## SCHEDULE 5
+
+Regulation 21
+
+### PUBLIC REGISTER
+
+The information to be contained on the public register in respect of each producer is as follows—
+
+- (a) the producer’s name;
+- (b) the UK address of the registered office or principal place of business of the producer; and
+- (c) a statement in respect of each year as to whether the producer has met his obligation under regulation 19 to furnish a certificate of compliance.
+
+## SCHEDULE 6
+
+Regulation 22
+
+### 1. POWERS OF ENTRY AND INSPECTION OF PREMISES EXERCISABLE BY THE SECRETARY OF STATE AND PERSONS AUTHORISED UNDER REGULATION 22
+
+To enter at any reasonable time and on production, if required, of their credentials, any premises except for a dwelling house which are considered to be necessary for the Secretary of State or any authorised person to enter.
+
+**2.** To make such examination and investigation as may in any circumstances be necessary.
+
+**3.** As regards any premises for which there is a power to enter, direct that those premises or any part of them, or anything in them, shall be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of any examination or investigation under paragraph 2.
+
+**4.** To take such measurements and photographs and make such recordings as are considered necessary for the purpose of any examination or investigation under paragraph 2.
+
+**5.** To take samples, or cause samples to be taken, of articles or substances found in or on any premises which the Secretary of State or any authorised person has power to enter, and of the air, water or land in, on, or in the vicinity of, the premises.
+
+**6.** To require the production of, or where the information is recorded in computerised form, the furnishing of extracts from, any records —
+
+- (i) which are required to be kept under these Regulations; or
+- (ii) which it is necessary to see for the purposes of an examination or investigation under paragraph 2
+
+and to inspect and take copies of, or of any entry in, the records.
+
+**7.** To require any person to afford such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as are necessary to enable the Secretary of State or the authorised person to exercise any of the powers conferred on them by these Regulations.
+
+(This note is not part of the Regulations)
+
+These Regulations implement Articles 5(1), (2), (4) and 7 of Directive [2000/53/EC](https://www.legislation.gov.uk/european/directive/2000/0053) of the European Parliament and the Council on end-of-life vehicles (OJ No. L269, 21.10.2000, p.34) (“the Directive”).
+
+The Regulations apply to vehicles and end-of-life vehicles as defined in regulation 2.
+
+The Regulations require a producer to register with the Secretary of State and declare responsibility for those vehicles which he has placed on the market (regulation 7). Under regulation 8 the Secretary of State has the power to ascribe responsibility to a producer in respect of vehicles which have been placed on the market where no producer has made a declaration of responsibility under regulation 7. A producer is obliged to make provision for vehicles for which he has declared responsibility under regulation 7, or has been ascribed responsibility under regulation 8, or when a producer’s business is transferred to another person as set out in regulation 9.
+
+The Regulations require a producer to submit to the Secretary of State an application for approval of the system he has established to collect vehicles for which he is responsible (regulation 10). A producer’s system for collection must contain sufficient capacity to treat those end-of-life vehicles for which he is responsible (regulation 12). The system for collection must also be reasonably accessible to any person who wants to deliver an end-of-life vehicle to it (regulation 11).
+
+Regulation 18 introduces the reuse, recovery and recycling targets for end-of-life vehicles treated at authorised treatment facilities. However, the reuse, recovery and recycling targets do not apply to three-wheel motor vehicles or special-purpose vehicles as defined in the second indent of Article 4(1)(a) of Directive [70/156/EEC](https://www.legislation.gov.uk/european/directive/1970/0156). Producers and where appropriate owners or operators of authorised treatment facilities are required to submit a certificate of compliance to demonstrate that they have met their obligations under regulation 18.
+
+The Regulations are to be enforced by the Secretary of State who may appoint the Environment Agencies to act on her behalf. The powers of the Secretary of State and any person appointed by her to act on her behalf as regards enforcement under these Regulations are set out in regulation 22 and Schedule 6. The offences and penalties are set out in regulations 23 and 24.
+
+Regulation 26 introduces a power for the Secretary of State to enter into agreements to implement the obligations in Article 5(4) of the Directive, where she is satisfied that it will achieve one or more of the objectives set out in Article 1 of the Directive.
+
+Certain provisions of the Directive were implemented by the End-of-Life Vehicles Regulations 2003 (S.I. [2003/2635](https://www.legislation.gov.uk/uksi/2003/2635)) (“the 2003 Regulations”). Transposition of the Directive is completed by these Regulations which also amend the 2003 Regulations. Regulation 28(a) provides that only Part VII of the 2003 Regulations applies to three-wheel motor vehicles, and that the provisions of Part VI of the 2003 Regulations concerning vehicles placed on the market after 1st July 2002 will not apply after 31st December 2006 (regulations 10(6) and 12(2)). Regulation 28(b) concerns vehicles made in small series; it states that those vehicles are within the scope of Directive [70/156/EEC](https://www.legislation.gov.uk/european/directive/1970/0156) (OJ No. L042, 23.02.1970 p.1) and disapplies regulations 16 to 26 of the 2003 Regulations in respect of them. Regulation 28(c), (d) and (e) amend Part V of the 2003 Regulations by making provision for the requirements for issuing a valid certificate of destruction.
+
+A Regulatory Impact Assessment is available, copies of which have been placed in the libraries of both Houses of Parliament. Copies are also available from the Department of Trade and Industry.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [2001/3495](https://www.legislation.gov.uk/uksi/2001/3495).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Under section 57 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to Scottish Ministers of the functions in relation to implementing obligations under Community law in respect of devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by her as regards Scotland.
+
+[^M_E_ac06a8dd-4b64-42b8-b500-f50069718e90]: Extent: This version of this provision extends to England and Wales only; separate versions have been created for Scotland only and Northern Ireland only
+
+[^f00003]: Footnote: OJ No. L269, 21.10.2000, p.34 as amended by Commission Decision [2002/525/EC](https://www.legislation.gov.uk/european/decision/2002/0525) (OJ No. L170, 29.06.2002, p.81).
+
+[^key-d472968d450b561b0600b0e94d15d643]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/11/2/a)
+
+[^key-4c6b759723642d9f21b6849fbe06b1a4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/8/a)
+
+[^key-aa4ec3932efd5b8ab116c035d5edf531]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c3e0f2e5758ff1f79711935327f43452]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d32ba5fe1a56e806d9aea6a4779a4451]: Textual amendment: Words in reg. 2 substituted (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/3/2/a)
+
+[^key-6da4238e2e8549789e26d383579a05db]: Textual amendment: Words in reg. 2 substituted (E.W.) (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 19(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/19/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+
+[^M_F_7b877190-e3bb-4c4e-d806-f04a62a515ba]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(c)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/c) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0957324be7e87f4b1d2da5f5f9fb8518]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(d)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/d) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-62fa1e3b4075c90500ecf8b849b115ca]: Textual amendment: Words in reg. 2 substituted (E.W.) (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 19(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/19/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+
+[^key-2f60554281880a9bf10af110940f7857]: Textual amendment: Words in reg. 2 substituted (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/b), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/5) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))
+
+[^key-ee05b378eac01b5db205c9fe486a0c84]: Textual amendment: Words in reg. 2 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/20/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^c22909191]: Marginal citation: OJ No L 60, 2.3.2013, p.52.
+
+[^key-92e7286631fa9491fa7bfa4435f63762]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/11/2/b)
+
+[^key-b61a865822c1c30430d2305beee607d7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/8/b)
+
+[^key-4e9c9f71814c1be0bbb7baec1163867e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(f)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/f) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_E_6f3a8ba2-0e5c-42d7-ad5d-ebea8cdcca0f]: Extent: This version of this provision extends to Scotland only; separate versions have been created for England and Wales only and Northern Ireland only
+
+[^V_S_6087827f-73c1-f70c-ce2f-fac415d9ebbd]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/11/2/a)
+
+[^V_S_55479451-352b-c7df-c29d-5d14984dacca]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/8/a)
+
+[^V_S_78531a15-60d1-4e25-1e4c-73a6f160f785]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_S_541d79c4-979d-6df7-fc49-dbcdd755cfaf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_S_32a4b747-f7af-a8aa-e775-c0c6405ce2bb]: Textual amendment: Words in reg. 2 substituted (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/3/2/a)
+
+[^V_S_19428389-9b95-bed6-015a-b1cd75ef6988]: Textual amendment: Words in reg. 2 substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 16(a)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/16/a)
+
+[^V_S_15fbbc64-b916-61ea-1d9a-b3ba91178a7b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(d)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/d) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_S_463602a6-afa7-6b8d-2b83-b1957b291af2]: Textual amendment: Words in reg. 2 substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 16(b)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/16/b)
+
+[^V_S_55a5b785-367e-f2bf-102b-16031d74b3ca]: Textual amendment: Words in reg. 2 substituted (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/b), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/5) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))
+
+[^V_S_c6233737-0aef-46d1-3f3c-2aa76f8b5f45]: Textual amendment: Words in reg. 2 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/20/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^V_S_94a29b57-4a92-385e-54ce-8b3cc0e1ebd1]: Textual amendment: OJ No L 60, 2.3.2013, p.52.
+
+[^V_S_7598b7ac-93f3-99e9-210f-9556ae08995d]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/11/2/b)
+
+[^V_S_d30d5fd4-53b5-d643-4b6f-d2d81ebca445]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/8/b)
+
+[^V_S_8262c7e8-1172-da29-4a65-6e29bb174680]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(f)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/f) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_E_19ed2e4c-e77b-4f50-fdae-144056702486]: Extent: This version of this provision extends to Northern Ireland only; separate versions have been created for England and Wales only and Scotland only
+
+[^V_NI_595b0f39-201e-fe86-ebc4-f9d62a8eb77e]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/11/2/a)
+
+[^V_NI_204129ee-1815-49af-c94a-2d25806a37c0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/8/a)
+
+[^V_NI_6b400c32-fd0e-9b12-e97a-a74288d79d32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_NI_421abddf-f3a2-66d1-67db-8ecdfa19effb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_NI_f05d007a-de62-2895-1b8b-23570d6324e2]: Textual amendment: Words in reg. 2 substituted (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/3/2/a)
+
+[^V_NI_532e819b-6982-e939-345b-ac75f1c4c8ce]: Textual amendment: Words in reg. 2 substituted (N.I.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/3/2/b)
+
+[^V_NI_437d6246-a0b2-d864-93c4-e9a4e83cfc98]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(d)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/d) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_NI_7d098aad-cb3b-5be1-ad8a-d01db96bc14f]: Textual amendment: Words in reg. 2 substituted (N.I.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/188/regulation/3/2/c)
+
+[^V_NI_554d2aa0-d6b1-dfc2-02e8-20374029dd88]: Textual amendment: Words in reg. 2 substituted (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/b), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/5) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))
+
+[^V_NI_3e3c8cc5-6e23-0a1b-e4ac-fedfe437f375]: Textual amendment: Words in reg. 2 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/20/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^V_NI_e4f976eb-ea87-d873-0ed4-b2f8a08c7997]: Textual amendment: OJ No L 60, 2.3.2013, p.52.
+
+[^V_NI_73536158-ccae-83b4-b0ca-8f6c2eecb393]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/11/2/b)
+
+[^V_NI_469712b6-c7f6-d091-26a8-74f35264d715]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/8/b)
+
+[^V_NI_f15e7634-f083-d128-8e50-ff40e3856de7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/263/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(2)(f)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/2/f) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-540e576f60fcea1aa4eb8d8c7ae4405c]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2005/263/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2005/263/regulation/2B) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/3) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)[(4)(a)-(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8616fb543d9c743d24255a792bbed6de]: Textual amendment: Words in [reg. 2B(5)(b)](https://www.legislation.gov.uk/uksi/2005/263/regulation/2B/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 8](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/8)
+
+[^key-220960afea76094de48a826cce6d38be]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(4)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/4) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)[(4)(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cb57d11b93f212ee55fd3a9513a5ac9f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/263/regulation/4) heading substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(5)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/5/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f5ebd6f487d794bd1a1bb534559c88ad]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2005/263/regulation/4) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(5)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/5/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)[(4)(e)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5e4f560fa1aff5c010d5d492a440a5b1]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2005/263/regulation/5) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(6)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/6/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bee6191b4fb93da3f72edc69bdb37273]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2005/263/regulation/5) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/20/3) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^key-fb2ebf920882d0a560209823d1826329]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/263/regulation/8/3) substituted (1.7.2010) by [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/2)
+
+[^key-14f5b8b7f9551819bc4c50467ea851a4]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2005/263/regulation/12/1) substituted (31.12.2020) by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [10(7)](https://www.legislation.gov.uk/uksi/2019/188/regulation/10/7) (as inserted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(4)(f)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/4/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b25839c0a27084cd33ce37347726b701]: Textual amendment: Words in [reg. 16(a)](https://www.legislation.gov.uk/uksi/2005/263/regulation/16/a) substituted (1.7.2010) by [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/3)
+
+[^key-80c996d4c6dfb8aef107eddf8c4c3ea7]: Textual amendment: Words in reg. 18(5) substituted (1.7.2010) by [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/4)
+
+[^M_F_d4b63c77-4daa-4f7b-9c32-df44f9635f3e]: Textual amendment: Words in reg. 18(5) added (1.7.2010) by [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/4)
+
+[^key-f63dff49d14734a952aedb2615b60a29]: Textual amendment: Reg. 18(6) inserted (1.7.2010) by [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/5)
+
+[^key-79486f452dbc88c5054bbaa70d1a2cb8]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2005/263/regulation/19/2) substituted (1.7.2010) by [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/6)
+
+[^key-2638725044765bca58a6fcdbd9377371]: Textual amendment: [Reg. 19(4)](https://www.legislation.gov.uk/uksi/2005/263/regulation/19/4) inserted (1.7.2010) by [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/7)
+
+[^key-82d24ddabf64d2d9d623668219409957]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/263/regulation/20) omitted (1.7.2010) by virtue of [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/8)
+
+[^key-1990cccf4f279702519e5fa3683f9917]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2005/263/regulation/23) substituted (1.7.2010) by [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/9)
+
+[^key-ca1b4530738151e24953409e72de2927]: Textual amendment: Words in [reg. 24(4)(a)](https://www.legislation.gov.uk/uksi/2005/263/regulation/24/4/a) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 201(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/201/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-645f78a6de0c5235cfa7170deb656011]: Textual amendment: [Reg. 24(4)(aa)](https://www.legislation.gov.uk/uksi/2005/263/regulation/24/4/aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 201(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/201/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^M_F_eaf351ff-7983-4bbd-cc83-2385b32aac85]: Textual amendment: Words in Sch. 4 para. (d) substituted (1.7.2010) by [End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)](https://www.legislation.gov.uk/uksi/2010/1095), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1095/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2010/1095/regulation/2/10)

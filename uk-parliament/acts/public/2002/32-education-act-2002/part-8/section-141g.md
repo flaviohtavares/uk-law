@@ -1,0 +1,51 @@
+---
+title: Education Act 2002, section 141G
+act: Education Act 2002
+section: 141G
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2002/32/section/141G
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education Act 2002, section 141G
+
+> **Warning: changes not yet applied to this text (67).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/32
+>
+> Extent: England, Wales.
+
+## 141G. Offence of breach of reporting restrictions[^key-7bb167c826739cfbd60f70275e95c1b5]
+
+*Extent: E+W*
+
+(1) This section applies if a publication includes any matter in breach of section 141F (3).
+
+(2) Where the publication is a newspaper or periodical, any proprietor, any editor and any publisher of the newspaper or periodical is guilty of an offence.
+
+(3) Where the publication is a programme included in a programme service (within the meaning of the Broadcasting Act 1990), the following are guilty of an offence—
+
+- (a) any body corporate engaged in providing the programme service in which the programme is included, and
+- (b) any person having functions in relation to the programme corresponding to those of an editor of a newspaper.
+
+(4) In the case of any other publication, any person publishing it is guilty of an offence.
+
+(5) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(6) If an offence committed by a body corporate is proved—
+
+- (a) to have been committed with the consent or connivance of, or
+- (b) to be attributable to any neglect on the part of,
+
+an officer, the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(7) In subsection (6), “**officer**” means a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+(8) If the affairs of a body corporate are managed by its members, “director” in subsection (7) means a member of that body.
+
+(9) Schedule 11B contains supplementary provision relating to an offence under this section.
+
+## Annotations
+
+[^key-7bb167c826739cfbd60f70275e95c1b5]: Textual amendment: Ss. 141F-141H and cross-heading inserted (1.10.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/13/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)

@@ -1,0 +1,44 @@
+---
+title: Corporation Tax Act 2010, section 216
+act: Corporation Tax Act 2010
+section: '216'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/216
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 216
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 216. Disqualifying events
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if the qualifying investment is a qualifying interest in land.
+
+(2) If a disqualifying event occurs at any time in the provisional period, the following are treated as never having been entitled to relief as a result of this Chapter in respect of the disposal of the qualifying interest in land—
+
+- (a) in a case where sections 214 and 215 do not apply, the company which made the disposal, and
+- (b) in a case where those sections apply, each qualifying company which is an owner.
+
+(3) All such assessments and adjustments of assessments are to be made as are necessary to give effect to subsection (2).
+
+(4) A disqualifying event occurs if a person mentioned in subsection (5) becomes (otherwise than for full consideration in money or money's worth)—
+
+- (a) entitled to an interest or right in relation to all or part of the land to which the disposal relates, or
+- (b) party to an arrangement under which he enjoys some right in relation to all or part of that land.
+
+(5) The persons are—
+
+- (a) in a case where sections 214 and 215 do not apply, the company which made the disposal or a person connected with that company, and
+- (b) in a case where those sections apply, a person who is an owner or a person connected with such a person.
+
+(6) A disqualifying event does not occur if a person becomes entitled to an interest or right as mentioned in subsection (4)(a) as a result of a disposition of property on death (whether the disposition is effected by will, under the law relating to intestacy or otherwise).
+
+(7) “The provisional period” is the period beginning with the date of the disposal of the qualifying interest in land and ending with the sixth anniversary of the end of the accounting period in which the disposal was made.

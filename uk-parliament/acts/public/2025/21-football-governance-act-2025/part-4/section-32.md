@@ -1,0 +1,42 @@
+---
+title: Football Governance Act 2025, section 32
+act: Football Governance Act 2025
+section: '32'
+status: revised
+text_date: '2026-11-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2025/21/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Football Governance Act 2025, section 32
+
+> Text as at 2026-11-01.
+>
+> Extent: England, Wales.
+
+## 32. Determinations under sections 28 and 29: time limits[^key-6f5bbabe16c68454862b91b7e2ce101e][^key-73a6faf34f3304f4bf1e514026e875d1]
+
+*Extent: E+W*
+
+(1) Where a person makes an application to the IFR under section 28 or 29, the IFR must make a determination under that section in respect of the person before the end of the determination period.
+
+(2) The determination period is—
+
+- (a) the period specified in regulations made by the Secretary of State for the purposes of this paragraph, or
+- (b) in a case where the period mentioned in paragraph (a) is extended (or further extended) under subsection (3), the period as so extended.
+
+(3) If the IFR considers that it cannot make a determination under section 28 or 29 before the end of the determination period, it may (before the end of that period) give the person who made the application a notice extending the determination period for the period specified in the notice.
+
+(4) The power under subsection (3) may be exercised more than once; but the determination period may not be extended so that it exceeds the period specified in regulations made by the Secretary of State for the purposes of this subsection.
+
+(5) If the IFR does not make a determination under section 28 or 29 in respect of a person before the end of the determination period, the IFR is to be treated on the expiry of that period as having determined under that section that the person is not suitable to be an owner or officer of the club (as the case may be).
+
+(6) Before making regulations under this section, the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+
+## Annotations
+
+[^key-6f5bbabe16c68454862b91b7e2ce101e]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+
+[^key-73a6faf34f3304f4bf1e514026e875d1]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/21/section/32) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/vi)

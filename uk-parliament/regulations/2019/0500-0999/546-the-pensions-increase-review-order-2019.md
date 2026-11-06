@@ -1,0 +1,148 @@
+---
+title: The Pensions Increase (Review) Order 2019
+id: uksi/2019/546
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-03-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2019/546
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/546/pdfs/uksiem_20190546_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/546/pdfs/uksi_20190546_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/546/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Increase (Review) Order 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 546
+
+Pensions
+
+The Pensions Increase (Review) Order 2019
+
+Made
+
+12th March 2019
+
+Laid before Parliament
+
+14th March 2019
+
+Coming into force
+
+8th April 2019
+
+The Secretary of State for Work and Pensions has, by virtue of section 151 of the Social Security Administration Act 1992[^f00001], given a direction[^f00002] that the sums mentioned in section 150(1)(c) of the Act are to be increased by a specified percentage.
+
+The Treasury make the following Order in exercise of the powers conferred by section 59(1), (2), (5) and (5ZA) of the Social Security Pensions Act 1975[^f00003] and now vested in them[^f00004].
+
+## 1. Citation and Commencement
+
+This Order may be cited as the Pensions Increase (Review) Order 2019 and comes into force on 8th April 2019.
+
+## 2. Interpretation
+
+(1) In this Order, “the Act” means the Social Security Pensions Act 1975.
+
+(2) In this Order, any reference to a pension is a reference to a pension which began before 8th April 2019[^f00005].
+
+## 3. Pensions increase: annual rate and lump sums
+
+(1) This article applies to an official pension if**—**
+
+- (a) a qualifying condition is satisfied; or
+- (b) the pension is**—**
+  - (i) a derivative pension;
+  - (ii) a substituted pension; or
+  - (iii) a relevant injury pension.
+
+(2) In relation to any period on or after 8th April 2019, the pension authority may increase the annual rate[^f00006] of the pension**—**
+
+- (a) for a pension which began before 9th<sup> </sup>April 2018, by 2.4 per cent;
+- (b) for a pension which began on or after 9th April 2018, by 2.4 per cent multiplied by**—**
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2019/546)
+
+  where A is the number of complete months in the period between the beginning date of the pension and 8th April 2019.
+
+(3) In relation to a lump sum which is payable on or after 9th April 2018 but before 8th April 2019, the pension authority may increase the lump sum by 2.4 per cent multiplied by**—**
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2019/546)
+
+where A is the number of complete months in the period between the beginning date for the lump sum (or, if later, 9th April 2018) and the date on which it became payable.
+
+## 4. Reductions in respect of guaranteed minimum pensions
+
+(1) Where**—**
+
+- (a) a person is entitled to an increase in a guaranteed minimum pension on 8th April 2019; and
+- (b) entitlement to that guaranteed minimum pension arises from an employment from which (either directly, or indirectly by virtue of the payment of a transfer credit) entitlement to the official pension also arises;
+
+the amount by reference to which any increase is calculated for the purposes of article 3(2) must be reduced by an amount equal to the rate of the guaranteed minimum pension unless the Treasury otherwise direct in accordance with the provisions of section 59A of the Act[^f00007].
+
+(2) Where on the death of a deceased spouse or civil partner a person becomes entitled to a guaranteed minimum pension in relation to a surviving spouse’s pension or a surviving civil partner’s pension, the amount by reference to which any increase is calculated for the purposes of article 3(2) must be reduced in accordance with section 59(5ZA) of the Act.
+
+Mike Freer
+
+Paul Maynard
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+12th March 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Under section 59 of the Social Security Pensions Act [1975 (c.60)](https://www.legislation.gov.uk/ukpga/1975/60) where the Secretary of State for Work and Pensions, under the Social Security Administration Act 1992 Act (c.), directs the sums in s.150(1)(c) are to be increased by a specified percentage, the Treasury shall provide by Order for the increase in the rates of public service pensions. The Pensions (Increase) Act [1971 (c.56)](https://www.legislation.gov.uk/ukpga/1971/56) defines certain terms and sets out when a pension “begins” (the day after the last day of service in respect of which the pension is payable) and how the increase applies to lump sums.
+
+The increase is the percentage by which the Secretary of State for Work and Pensions has, by direction under section 151(1) of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5), increased the additional pension entitlements accruing to employees in respect of earnings after 5th April 1978.
+
+For pensions which began before 9th April 2018 the increase is 2.4 per cent. For pensions which began on or after 9th April 2018 the increases (following the calculation set out in article 3) are as follows**—**
+
+Table
+
+| Pensions Beginning | Pensions increase |
+| --- | --- |
+| 9th April 2018 to 23rd April 2018 | 2.40% |
+| 24th April 2018 to 23rd May 2018 | 2.20% |
+| 24th May 2018 to 23rd June 2018 | 2.00% |
+| 24th June 2018 to 23rd July 2018 | 1.80% |
+| 24th July 2018 to 23rd August 2018 | 1.60% |
+| 24th August 2018 to 23rd September 2018 | 1.40% |
+| 24th September 2018 to 23rd October 2018 | 1.20% |
+| 24th October 2018 to 23rd November 2018 | 1.00% |
+| 24th November 2018 to 23rd December 2018 | 0.80% |
+| 24th December 2018 to 23rd January 2019 | 0.60% |
+| 24th January 2019 to 23rd February 2019 | 0.40% |
+| 24th February 2019 to 23rd March 2019 | 0.20% |
+
+Article 4 of the Order provides for increases on certain deferred lump sums which became payable on or after 9th April 2018 and before 8th April 2019.
+
+The Order also makes provision for the amount by reference to which any increase in the rate of an official pension is to be calculated to be reduced by the amount equal to the rate of the guaranteed minimum pension entitlement deriving from the employment which gives rise to the official pension.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5); section 151(1) was amended by Section 130(2) of the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^f00002]: Footnote: This direction is contained in [S.I. 2019/480](https://www.legislation.gov.uk/uksi/2019/480)
+
+[^f00003]: Footnote: [1975 c.60](https://www.legislation.gov.uk/ukpga/1975/60). Section 59(1) was amended by section 1(7) of the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) and by the Social Security (Consequential Provisions) Act [1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6), Schedule 2, paragraph 34. Section 59(5) was amended by section 11 of the Social Security Act [1979 (c.18)](https://www.legislation.gov.uk/ukpga/1979/18) and the Social Security Act [1985 (c.53)](https://www.legislation.gov.uk/ukpga/1985/53), Schedule 5, paragraph 33. Section 59 was also amended by the Social Security Act 1979, section 11 and Schedule 3, paragraph 20; section 5 of the Pensions (Miscellaneous Provisions) Act 1990 (which inserted subsection (5ZA)) and the Pensions Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), section 190 and Schedule 8, paragraph 9(1). Section 59 was modified by section 59A, which was inserted by section 11(4) of the Social Security Act 1979, amended by the Social Security Act 1986, section 9(9), and further amended by the Pensions Schemes Act 1993, section 190 and Schedule 8, paragraph 9(2). Section 59(5ZA) was amended, and subsections (5ZB) and (5ZC) inserted, by the Pensions Act [2008 (c.30)](https://www.legislation.gov.uk/ukpga/2008/30), section 137 and Schedule 11, Part 6. Subsections (5ZB), (5ZC) and (7) were in addition amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560), Schedule 3, paragraph 2.
+
+[^f00004]: Footnote: By virtue of article 2(1)(c) and (d) of [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
+
+[^f00005]: Footnote: By virtue of section 59(7) of the Social Security Pensions Act 1975, sections 59 and 59A of that Act have effect as if they were contained in Part 1 of the Pensions (Increase) Act [1971 (c.56)](https://www.legislation.gov.uk/ukpga/1971/56). Consequently, for the purposes of section 11 of the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30) the following expressions used in this Order have the meaning which they bear in 59 of the Social Security Pensions Act 1975 and the Pensions (Increase) Act 1971: beginning date, complete months, derivative pension, lump sum, official pension, pension authority, qualifying condition, relevant injury pension and substituted pension. Section 8(2) of the Pensions (Increase) Act 1971 also makes provision about when a pension begins for the purposes of that Act.
+
+[^f00006]: Footnote: Section 59(5) of the Social Security Pensions Act 1975 provides that increases in the rate of a pension are to be calculated by reference to the basic rate of the pension as authorised to be increased by section 1 of the Pensions (Increase) Act 1971 or by an order under section 2 of that Act or section 59 of the Social Security Pensions Act 1975.
+
+[^f00007]: Footnote: The power of direction is invested in the Treasury by [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).

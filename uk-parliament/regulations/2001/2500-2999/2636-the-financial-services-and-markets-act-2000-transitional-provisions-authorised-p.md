@@ -1,0 +1,1773 @@
+---
+title: The Financial Services and Markets Act 2000 (Transitional Provisions) (Authorised Persons etc. ) Order 2001
+id: uksi/2001/2636
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-07-20'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/2636
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/2636/pdfs/uksi_20012636_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/2636/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Transitional Provisions) (Authorised Persons etc. ) Order 2001
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 2636
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Transitional Provisions) (Authorised Persons etc.) Order 2001
+
+Made
+
+20th July 2001
+
+Laid before Parliament
+
+20th July 2001
+
+Coming into force in accordance with article 1
+
+The Treasury in exercise of their powers under sections 426 to 428 of the Financial Services and Markets Act 2000[^f00001] hereby make the following Order—[^key-43493ac79ed7093189004c1b41a306f7]
+
+## PART I — GENERAL
+
+### 1. Citation and commencement[^key-0659eb2b1db2da5dd9f092deab742813]
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Transitional Provisions) (Authorised Persons etc.) Order 2001.
+
+(2) This Order comes into force—
+
+- (a) for the purposes of Parts I and IV, on the twenty-first day after it is laid before Parliament;
+- (b) for all other purposes, on commencement.
+
+### 2. Definitions[^key-03e723dc9e875fda54e441ad4ee7fa9e]
+
+(1) In this Order—
+
+- “the Act” means the Financial Services and Markets Act 2000;
+- “building society” has the same meaning as in the Building Societies Act;
+- “commencement” means the beginning of the day on which section 19 comes into force;
+- “exempted person” means a person exempted under Chapter IV of Part I of the Financial Services Act;
+- “recognised professional body” has the same meaning as in the Financial Services Act;
+- “recognised self-regulating organisation” has the same meaning as in the Financial Services Act, except that it includes a recognised self-regulating organisation for friendly societies within the meaning of that Act;
+- “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00002].
+
+(2) In this Order—
+
+- “the Banking Act” means the Banking Act 1987[^f00003];
+- “the Building Societies Act” means the Building Societies Act 1986[^f00004];
+- “the Financial Services Act” means the Financial Services Act 1986[^f00005];
+- “the Friendly Societies Act” means the Friendly Societies Act 1992[^f00006];
+- “the Insurance Companies Act” means the Insurance Companies Act 1982[^f00007];
+- “the 2BCD Regulations” means the Banking Coordination (Second Council Directive) Regulations 1992[^f00008];
+- “the ISD Regulations” means the Investment Services Regulations 1995[^f00009];
+- “the 3ID Regulations” means the Insurance Companies (Third Insurance Directives) Regulations 1994[^f00010].
+
+(3) Any reference in this Order to a section or Schedule is, unless the context otherwise requires, a reference to that section of or Schedule to the Act.
+
+## PART II — AUTHORISATION AND PERMISSION FOR PERSONS AUTHORISED ETC. UNDER OLD LAW
+
+### CHAPTER I — permissions under part iv of the act
+
+#### Persons authorised or exempted under the Financial Services Act
+
+##### 3. Authorisation under section 25 of the Financial Services Act[^key-a1d99b647542d1cfcc29fb9f2cd8e241]
+
+(1) Any person who immediately before commencement was authorised under section 25 of the Financial Services Act is to be treated as having, at commencement, a Part IV permission to carry on regulated activities of a kind which, and on a scale which, and in relation to persons for whom he was, immediately before commencement—
+
+- (a) by reason of that authorisation, able to carry on in the United Kingdom without contravening section 3 of the Financial Services Act; and
+- (b) able to carry on there without contravening any rules made under section 48(2)(a) or (b) of that Act.
+
+(2) The reference in paragraph (1) to the regulated activities which immediately before commencement the person was able to carry on “by reason of” his authorisation under section 25 of the Financial Services Act does not include a reference to any activity—
+
+- (a) as respects which he was then also an exempted person; or
+- (b) as respects which he was then also an authorised person by virtue of section 24 or 24A of that Act.
+
+(3) Where immediately before commencement a person would have been authorised under section 25 of the Financial Services Act but for the suspension of his authorisation under section 28 of that Act, paragraph (1) applies as if the authorisation had not been suspended.
+
+(4) Where paragraph (3) applies, the suspension has effect after commencement as if it were a requirement—
+
+- (a) imposed under section 43; and
+- (b) framed so as to expire when (but for the repeal of the Financial Services Act) the suspension would have expired,
+
+that the person refrain from carrying on any activity which, under paragraphs (1) to (3), he has by virtue of the suspended authorisation a Part IV permission to carry on.
+
+##### 4. Authorisation under section 7 of the Financial Services Act[^key-2e0e42c6b2e82adf071036ad45a9823f]
+
+(1) Any person who immediately before commencement was authorised under section 7 of the Financial Services Act is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which he was, immediately before commencement—
+
+- (a) by reason of that authorisation able to carry on in the United Kingdom without contravening section 3 of the Financial Services Act; and
+- (b) able to carry on there without contravening any rules of a recognised self-regulating organisation of the kind described in section 10(3) of that Act.
+
+(2) The reference in paragraph (1) to the regulated activities which immediately before commencement the person was able to carry on “by reason of” his authorisation under section 7 of the Financial Services Act does not include a reference to any activity—
+
+- (a) as respects which he was then also an exempted person; or
+- (b) as respects which he was then also an authorised person by virtue of section 24 or 24A of that Act.
+
+##### 5. Persons certified by designated professional bodies[^key-e5bf994030c2d7689fe621a121eda0d8]
+
+(1) Any person who immediately before commencement was authorised under section 15 of the Financial Services Act by virtue of holding a certificate issued by a designated professional body and who has given notice in accordance with paragraph (3) is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which he was, immediately before commencement—
+
+- (a) by reason of that certificate, able to carry on in the United Kingdom without contravening section 3 of the Financial Services Act; and
+- (b) able to carry on there without contravening any rules of the recognised professional body of the kind described in section 18(3) of that Act.
+
+(2) “Designated professional body” means a recognised professional body that at commencement was a body designated under section 326(1).
+
+(3) The notice given by the person mentioned in paragraph (1) must—
+
+- (a) state that the person wishes to have a Part IV permission by virtue of this article;
+- (b) be in such form as the Authority may direct; and
+- (c) be given by the person to the Authority at least one month before commencement or where the person is authorised under section 15 of the Financial Services Act within that period then within a reasonable period after he is so authorised.
+
+(4) The reference in paragraph (1) to the activities which immediately before commencement the person was able to carry on “by reason of” his certificate does not include a reference to any activity as respects which he was then also an exempted person.
+
+(5) The notice referred to in paragraph (3) may state that the person wishes to have a Part IV permission at commencement only for regulated activities of a kind specified in the notice, or only for regulated activities on a scale or in relation to a class of persons so specified.
+
+##### 6. Listed institutions[^key-f3050e6decd04b71aaa0c2fd12c200ca]
+
+(1) Any person (“P1”) who immediately before commencement was—
+
+- (a) a listed institution within the meaning of section 43 of the Financial Services Act;
+- (b) an exempted person by reason of his inclusion in the list maintained under that section;
+- (c) able, in accordance with any relevant conditions or arrangements applicable to him, to carry on the activities set out in Parts I, II and III of Schedule 5 to the Financial Services Act,
+
+is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities mentioned in paragraph (2).
+
+(2) The regulated activities mentioned in this paragraph are—
+
+- (a) activities of the kind specified by articles 14, 21 and 25 of the Regulated Activities Order and the activity of the kind specified by article 64 of that Order, in so far as it relates to those activities;
+- (b) the activity of the kind specified by article 53 of the Regulated Activities Order (and by article 64 of that Order, in so far as it relates to article 53) where the advice given by P1—
+  - (i) is given in connection with a transaction in the course of which the only regulated activities carried on by P1 are regulated activities of the kind mentioned in sub-paragraph (a); and
+  - (ii) relates to the carrying on by P1 of those activities in the course of that transaction,
+
+  when those activities are carried on in relation to investments specified by any of articles 77 to 80, 83, 84 and 85 of that Order or by article 89 of that Order as it relates to investments specified by those articles.
+
+(3) Any person (“P2”) who immediately before commencement was—
+
+- (a) a listed institution within the meaning of section 43 of the Financial Services Act;
+- (b) an exempted person by reason of his inclusion in the list maintained under that section;
+- (c) able, in accordance with any relevant conditions or arrangements applicable to him, to carry on only the activities set out in Part III of Schedule 5 to the Financial Services Act,
+
+is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities mentioned in paragraph (4).
+
+(4) The regulated activities mentioned in this paragraph are—
+
+- (a) the activity of the kind specified by article 25 of the Regulated Activities Order and the activity of the kind specified by article 64 of that Order, in so far as it relates to that activity;
+- (b) the activity of the kind specified by article 53 of the Regulated Activities Order (and by article 64 of that Order in so far as it relates to article 53) where the advice given by P2—
+  - (i) is given in connection with a transaction in the course of which the only regulated activities carried on by P2 are the activities of the kind mentioned in sub-paragraph (a); and
+  - (ii) relates to the carrying on by P2 of those activities in the course of that transaction,
+
+  when those activities are carried on in relation to investments specified by any of articles 77 to 80, 83, 84 and 85 of that Order or by article 89 of that Order as it relates to investments specified by those articles.
+
+(5) “Relevant conditions or arrangements” in paragraphs (1) and (3) means conditions imposed or arrangements made under section 43(2) of the Financial Services Act.
+
+##### 7. Lloyd’s underwriting agents[^key-c378dfe16590f9f2738160917fc51a17]
+
+Any person who, immediately before commencement, was an underwriting agent within the meaning of section 2(1) of Lloyd’s Act 1982[^f00011] is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which immediately before commencement he was permitted under that Act to carry on.
+
+##### 8. Lloyd’s members' advisers[^key-f6df142eefd8e7aaaaa6cab6e4b21fd2]
+
+(1) This article applies in the case of a person (“L”) where—
+
+- (a) L does not have permission at commencement to carry on an article 56 activity;
+- (b) L was, immediately before commencement, lawfully carrying on by way of business in the United Kingdom an article 56 activity; and
+- (c) L has made before commencement, and has not withdrawn, an application for permission to carry on an article 56 activity in accordance with Part IV of the Act and that application has not been refused (or, if the application has been refused, L has referred the matter to the Tribunal within the period mentioned in section 133(1) of the Act and the reference has not been decided).
+
+(2) The general prohibition does not apply to the carrying on by L of an article 56 activity until his application is decided and permission for him to carry on that activity is refused.
+
+(3) For the purposes of this article an “article 56 activity” is a regulated activity of the kind specified by article 56 (advice on syndicate participation at Lloyd's) of the Regulated Activities Order.
+
+(4) For the purposes of paragraph (2), an application is decided when it has been determined and there is no possibility (or further possibility) of the determination being reversed or varied on a reference to a tribunal or an appeal.
+
+##### 9. Appointed representatives[^key-d3f442a6afe564331db103106a0f8a3b]
+
+Any person who—
+
+- (a) immediately before commencement was an exempted person under section 44 of the Financial Services Act (appointed representatives); and
+- (b) is at commencement an authorised person (and so excluded from the operation of section 39(1) (exemption of appointed representatives other than authorised persons)),
+
+is to be treated as having, at commencement, a Part IV permission to carry on any regulated activity in respect of which he was, immediately before commencement, an exempted person by reason of section 44 of the Financial Services Act.
+
+##### 10. Investment business carried on overseas before commencement[^key-60042bb90fa0b954710909d45bac04bc]
+
+(1) A person (“A”) who was, immediately before commencement—
+
+- (a) authorised under the Financial Services Act; and
+- (b) carrying on overseas investment business,
+
+is to be treated as having, at commencement, a Part IV permission to carry on any corresponding overseas regulated activities in the country or territory where he carried on that overseas investment business.
+
+(2) In this article—
+
+- “corresponding overseas regulated activities” means regulated activities which—
+  - (a) A carries on after commencement by virtue of continuing to carry on his overseas investment business; and
+  - (b) A is regarded as carrying on in the United Kingdom by virtue of section 418;
+- “overseas investment business” means business which—
+  - a) was investment business within the meaning of section 1(2) of the Financial Services Act;
+  - b) A was carrying on in a country or territory outside the United Kingdom without contravening regulation 20 of the ISD Regulations or any relevant rules.
+
+(3) For the purposes of paragraph (2) “relevant rules” in relation to a person means such of the following rules as were applicable to him immediately before commencement—
+
+- (a) rules under section 48(2)(a) or (b) of the Financial Services Act;
+- (b) rules of a recognised self-regulating organisation made pursuant to section 10(3) of the Financial Services Act or of a kind falling within article 35(6);
+- (c) rules of a recognised professional body of the kind described in section 18(3) of the Financial Services Act.
+
+#### Persons authorised under the Banking Act
+
+##### 11. Persons authorised under the Banking Act[^key-affd89c6c2b719743a981898d1437c6d]
+
+(1) Any person who immediately before commencement held an authorisation granted (or deemed to be granted) under section 9 of the Banking Act is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which, immediately before commencement, he was by reason of that authorisation able to carry on in the United Kingdom without contravening section 3 of that Act.
+
+(2) The condition set out in paragraph 1(2) (legal status) of Schedule 6 (threshold conditions) does not apply in relation to a person falling within paragraph (1) if he did not meet that condition immediately before commencement.
+
+(3) Where, immediately before commencement, a decision to revoke a person’s authorisation had been taken but had not come into effect by virtue of section 27(4) of the Banking Act—
+
+- (a) paragraph (1) applies to the person as if that decision had not been taken; but
+- (b) his Part IV permission to carry on the regulated activities referred to in paragraph (1) lapses at the end of the period within which an appeal can be brought against that decision, unless such an appeal is brought within that period.
+
+(4)[^key-989c09336787089d7647a322495e6d95] A person who has a Part IV permission by virtue of paragraph (1) is also to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which he was able, by virtue of section 2(4) of the Insurance Companies Act, to carry on in the United Kingdom without contravening section 2(1) of that Act and which he was, immediately before commencement, so carrying on.
+
+(5) A person who has a Part IV permission by virtue of paragraph (1) and who was not, immediately before commencement, authorised under the Financial Services Act, is also to be treated as having, at commencement, a Part IV permission to carry on regulated activities—
+
+- (a) of the kind specified by article 14 of the Regulated Activities Order (dealing in investments as principal) in so far as it consists of his entering into a transaction of the kind mentioned in article 16 of that Order (dealing in contractually based investments); and
+- (b) of the kind specified by article 64 of that Order (agreeing to carry on specified kinds of activity) in so far as it relates to the activity mentioned in sub-paragraph (a).
+
+##### 12. Banking business carried on overseas before commencement[^key-ca797a4048812c09f28932103ec49029]
+
+(1) A person (“A”) who, immediately before commencement—
+
+- (a) held an authorisation granted (or deemed to be granted) under the Banking Act; and
+- (b) was carrying on overseas banking business,
+
+is to be treated as having, at commencement, a Part IV permission to carry on any corresponding overseas regulated activities in the country or territory where he carried on that overseas banking business.
+
+(2) In this article—
+
+- “corresponding overseas regulated activities” means regulated activities which—
+  - (a) A carries on after commencement by virtue of continuing to carry on his overseas banking business; and
+  - (b) A is regarded as carrying on in the United Kingdom by virtue of section 418;
+- “overseas banking business” means business which was deposit-taking business within the meaning of section 6 of the Banking Act and which A was carrying on in a country or territory outside the United Kingdom without contravening regulation 22 of the 2BCD Regulations.
+
+##### 13. Permission to carry on non-banking listed activities[^key-5a2c407d299a1a14e238b3b1cd941efb]
+
+(1) This article applies to a person who, immediately before commencement—
+
+- (a) held an authorisation granted (or deemed to be granted) under the Banking Act; or
+- (b) was authorised or treated as authorised for the purposes of the Building Societies Act.
+
+(2) Subject to paragraphs (3) and (4), a person to whom this article applies is to be treated as having, at commencement, a Part IV permission to carry on any regulated activity which was a non-banking listed activity and which he had described in a notice given by him in accordance with paragraph 2 of Schedule 6 to the 2BCD Regulations as an activity—
+
+- (a) which he proposed to carry on in a particular member State by the provision of services; or
+- (b) which he proposed to carry on in a particular member State from a branch in that state.
+
+(3) The permission referred to in paragraph (2) extends only to carrying on that regulated activity in the particular member State which was mentioned in the notice referred to in paragraph (2).
+
+(4) The permission referred to in paragraph (2) does not extend to carrying on the regulated activity referred to in that paragraph from a branch in that state unless—
+
+- (a) the UK authority gave a notice to the relevant supervisory authority under paragraph 3(1) of Schedule 6 to the 2BCD Regulations referring to that non-banking listed activity; and
+- (b) either the relevant supervisory authority informed the institution that it could establish the branch or the period of two months beginning with the day on which the UK authority gave the relevant supervisory authority notice elapsed.
+
+(5) Where a person to whom this article applies—
+
+- (a) was, immediately before the relevant date, carrying on in another member State by the provision of services a non-banking listed activity; or
+- (b) had, before the relevant date, established in another member State for the purposes of carrying on such an activity a branch which was in existence immediately before the relevant date,
+
+he is to be treated, for the purposes of this article, as if he had, in relation to that activity, given the notice referred to in paragraph (2).
+
+(6) In this article—
+
+- “non-banking listed activity” means an activity listed in Annex 1 to the banking co-ordination directive other than the first activity so listed;
+- “relevant date” means the commencement date within the meaning of paragraph 2 of Schedule 11 to the 2BCD Regulations;
+- “relevant supervisory authority” has the meaning given in regulation 2 of the 2BCD Regulations;
+- “UK authority” has the meaning given in regulation 20(7) of those Regulations.
+
+#### Insurance companies
+
+##### 14. Companies authorised under the Insurance Companies Act[^key-a1befe6ef9b6099c1b5889fc792d10e8]
+
+(1) This article applies to a person who, immediately before commencement, was authorised under section 3 or 4 of the Insurance Companies Act.
+
+(2) Subject to paragraph (3), the person is to be treated as having, at commencement, a Part IV permission to carry on—
+
+- (a) any regulated activities which, immediately before commencement, he was by reason of that authorisation able to carry on in the United Kingdom without contravening section 2(1) of the Insurance Companies Act; and
+- (b) any regulated activities which he would then have been able so to carry on but for a direction under section 11 or 12A of that Act[^f00012].
+
+(3) Where paragraph (2) would otherwise apply so as to treat a person as having a Part IV permission to carry on reinsurance business, it does not so apply if the person has on commencement (whether by virtue of this Order or otherwise) permission under Schedule 4 to carry on reinsurance business.
+
+(4) If a person to whom this article applies was also, immediately before commencement, authorised under section 22 of the Financial Services Act, any Part IV permission which he is to be treated under this article as having includes permission to carry on any regulated activities which he was by reason of that authorisation then able to carry on in the United Kingdom without contravening section 3 of that Act.
+
+(4A)[^key-28a4a06e0113391f49d731d4442bc3c4] If a person to whom this article applies was not, immediately before commencement, authorised under the Financial Services Act, any Part IV permission which he is to be treated under this article as having includes permission to carry on regulated activities—
+
+- (a) of the kind specified by article 14 of the Regulated Activities Order (dealing in investments as principal) in so far as it consists of his entering into a transaction of the kind mentioned in article 16 of that Order (dealing in contractually based investments); and
+- (b) of the kind specified by article 64 of that Order (agreeing to carry on specified kinds of activity) in so far as the activity relates to the activity mentioned in sub-paragraph (a),
+
+in so far as those activities are carried on in connection with or for the purposes of the regulated activities referred to in paragraph (2).
+
+(5) If a person to whom this article applies also, immediately before commencement, fell within paragraph 8 of Schedule 2 to the Banking Act, any Part IV permission which he is to be treated under this article as having includes permission to carry on any regulated activity which he was by reason of that paragraph then able to carry on in the United Kingdom without contravening section 3 of the Banking Act.
+
+(6) The condition set out in paragraph 1(1) of Schedule 6 does not apply in relation to a person falling within paragraph (2) above if he did not meet that condition immediately before commencement.
+
+(7) The condition set out in paragraph 1(2) (legal status) of Schedule 6 (threshold conditions) does not apply in relation to a person falling within paragraph (5) above if he did not meet that condition immediately before commencement.
+
+##### 15. EC companies carrying on reinsurance business[^key-22de09d6d30ba48677702e15e831ed03]
+
+(1) This article applies to a person who was, immediately before commencement, an EC company within the meaning of the Insurance Companies Act and was by reason of compliance with—
+
+- (a) the requirements of paragraph 4 of Schedule 2F to the Insurance Companies Act [^f00013];
+- (b) Gibraltar requirements (within the meaning of paragraph 28(2) of Schedule 2F to that Act) corresponding to those in that paragraph,
+
+able to carry on reinsurance business through a branch in the United Kingdom without contravening section 2(1) of that Act.
+
+(2) Subject to paragraph (3), the person is to be treated as having, at commencement, a Part IV permission to carry on any regulated activity which immediately before commencement he was—
+
+- (a) by reason of compliance with the requirements mentioned in paragraph (1)(a) or (b) (as the case may be) able to carry on through a branch in the United Kingdom without contravening paragraph 4 of Schedule 2F to that Act; and
+- (b) able so to carry on without contravening paragraph 5 of that Schedule.
+
+(3) Paragraph (2) does not apply—
+
+- (a) to a person falling within paragraph (1)(b) unless he is, at commencement, carrying on a regulated activity in the United Kingdom;
+- (b) where the person falling within paragraph (1) has (whether by virtue of this Order or otherwise) permission under Schedule 4 to carry on reinsurance business.
+
+##### 16. EC companies carrying on investment business[^key-48a13f56e037a96347ff380b76ab0f3b]
+
+(1) This article applies to a person who immediately before commencement was—
+
+- (a) an EC company within the meaning of the Insurance Companies Act; and
+- (b) an authorised person (within the meaning of the Financial Services Act) by reason of regulation 57 of the 3ID Regulations.
+
+(2) But this article applies only if there is an activity (a “relevant investment activity”)—
+
+- (a) which immediately before commencement the person was, by reason of that regulation, able to carry on in the United Kingdom without contravening section 3 of the Financial Services Act;
+- (b) which he was then carrying on in the United Kingdom, or had previously carried on there;
+- (c) which he has no EEA right to carry on; and
+- (d) which he does not by virtue of Schedule 4 have permission to carry on as mentioned in paragraph 4(1) of that Schedule.
+
+(3) A person to whom this article applies is to be treated as having, at commencement, a Part IV permission to carry on any regulated activity which is a relevant investment activity.
+
+##### 17. Insurance business carried on overseas before commencement[^key-614296033cebfdeaa7f3b7e0c1f8f116]
+
+(1) A person (“A”) who was, immediately before commencement—
+
+- (a) authorised under the Insurance Companies Act; and
+- (b) carrying on overseas insurance business,
+
+is to be treated as having, at commencement, a Part IV permission to carry on any corresponding overseas regulated activities in the country or territory where he carried on that overseas insurance business.
+
+(2) In this article—
+
+- “corresponding overseas regulated activities” means regulated activities which—
+  - (a) A carries on after commencement by virtue of continuing to carry on his overseas insurance business; and
+  - (b) A is regarded as carrying on in the United Kingdom by virtue of section 418;
+- “overseas insurance business” means business which constituted insurance business within the meaning of section 2 of the Insurance Companies Act and which A was carrying on in a country or territory outside the United Kingdom without contravening either paragraph 1 or 5 of Schedule 2G to that Act[^f00014].
+
+#### Friendly societies etc.
+
+##### 18. Friendly societies authorised under the Friendly Societies Act[^key-660a3a7fa26c751f981d57d4841158a5]
+
+(1) This article applies to a friendly society which was, immediately before commencement, authorised under section 32 of the Friendly Societies Act or deemed to have been authorised under that section.
+
+(2) A friendly society to which this article applies is to be treated as having, at commencement, a Part IV permission to carry on—
+
+- (a) any regulated activities which, immediately before commencement, it was by reason of its authorisation under section 32 of the Friendly Societies Act able to carry on without contravening section 31(1) of that Act[^f00015]; and
+- (b) any regulated activities which it would then have been able so to carry on but for—
+  - (i) a restriction imposed under section 32(4) of the Friendly Societies Act[^f00016]; or
+  - (ii) a direction given under section 40 of that Act[^f00017] (withdrawal of authorisation in respect of new business);
+- (c) any regulated activity of the kind specified by article 5 of the Regulated Activities Order (accepting deposits) which it had power to carry on by virtue of section 7(2) or (4) of the Friendly Societies Act.
+
+(3) Where immediately before commencement a direction that a society cease to be authorised has been given under section 41 of the Friendly Societies Act[^f00018] but that direction has not come into effect by virtue of section 58(3) of that Act—
+
+- (a) paragraph (2) applies to that society as if no direction had been given; but
+- (b) the permission to carry on the regulated activities referred to in paragraph (2) lapses at the end of the period within which an appeal can be brought against the direction unless such an appeal is brought within that period.
+
+(4) Where a date falling after commencement (“the expiry date”) had been fixed for the expiry of the society’s authorisation under section 39(5) of the Friendly Societies Act, the society’s permission to carry on the regulated activities referred to in paragraph (2) (to the extent that those activities relate to contracts of insurance covered by the direction) lapses on whichever is the later of—
+
+- (a) the expiry date; or
+- (b) the end of the period within which the society can bring an appeal against the decision to refuse authorisation,
+
+but that permission does not so lapse if an appeal is brought within the period mentioned in sub-paragraph (b).
+
+##### 19. Friendly societies: other permissions[^key-82c8c2cef6c0ab6dfaa4cf589fb87242]
+
+(1) A friendly society is to be treated as having, at commencement, a Part IV permission to carry on any regulated activity which it was, immediately before commencement, able by virtue of section 31(2) or (3) of the Friendly Societies Act to carry on without contravening section 31(1) of that Act.
+
+(2) Any friendly society which immediately before commencement was authorised under section 23 of the Financial Services Act is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which it was, immediately before commencement, by reason of that authorisation able to carry on in the United Kingdom without contravening section 3 of that Act.
+
+(2A)[^key-0c0f4767907e5bd7098e6aa50d81f6e1] Any friendly society which was not, immediately before commencement, authorised under the Financial Services Act is to be treated as having, at commencement a Part IV permission to carry on regulated activities—
+
+- (a) of the kind specified by article 14 of the Regulated Activities Order (dealing in investments as principal) in so far as it consists of the society entering into a transaction of the kind mentioned in article 16 of that Order (dealing in contractually based investments); and
+- (b) of the kind specified by article 64 of that Order (agreeing to carry on specified kinds of activity) in so far as the activity relates to the activity mentioned in sub-paragraph (a),
+
+in so far as those activities are carried on for or in connection with the regulated activities referred to in article 18(2)(a).
+
+(3) Any friendly society which has, on commencement, a Part IV permission by virtue of this Order (apart from this paragraph) is to be treated as having, on commencement, permission to carry on any regulated activity which it was, immediately before commencement, able by virtue of paragraph 6 of Schedule 2 to the Banking Act to carry on without contravening section 3 of that Act.
+
+(4) The conditions set out in paragraph 1(legal status) of Schedule 6 (threshold conditions) do not apply in relation to a society falling within this article if it did not meet those conditions immediately before commencement.
+
+##### 20. Societies registered under the Friendly Societies Act 1974[^key-eafeaed71a3abe44f3db9ecb1c74db91]
+
+(1) Paragraph (2) applies to a society which—
+
+- (a) is registered under the Friendly Societies Act 1974[^f00019];
+- (b) was, immediately before commencement, exempted from the need for authorisation under the Banking Act by virtue of paragraph 6 or 7 of Schedule 2 to that Act;
+- (c) does not have, on commencement, a Part IV permission.
+
+(2) Subject to paragraphs (3) and (4), a society to which this paragraph applies is to be treated after commencement as being exempt from the general prohibition in respect of any regulated activity of the kind specified by article 5 of the Regulated Activities Order (accepting deposits).
+
+(3) Where a society to which this article applies is a registered friendly society within the meaning of section 7(1)(a) of the Friendly Societies Act 1974, paragraph (2) applies only to the extent that the regulated activity being carried on is permitted by the rules of the society.
+
+(4) Paragraph (2) does not apply to the St Paul’s Mutual Aid Society or the Leicester Foresters Investment Society but those societies are exempt from the general prohibition in respect of any regulated activity of the kind referred to in paragraph (2) until 1st July 2002.
+
+##### 21. Insurance business carried on overseas by friendly societies before commencement[^key-ca5b284bfbf0d16ac2f6b8b23d2ca795]
+
+(1) A friendly society which was, immediately before commencement—
+
+- (a) authorised under the Friendly Societies Act to carry on insurance business (within the meaning of that Act); and
+- (b) carrying on overseas insurance business,
+
+is to be treated as having, at commencement, a Part IV permission to carry on any corresponding overseas regulated activities in the country or territory where it carried on that overseas insurance business.
+
+(2) In this article—
+
+- “corresponding overseas regulated activities” means regulated activities which—
+  - (a) the society carries on after commencement by virtue of continuing to carry on its overseas insurance business; and
+  - (b) the society is regarded as carrying on in the United Kingdom by virtue of section 418;
+- “overseas insurance business” means business which constituted insurance business within the meaning of section 21(1) of the Friendly Societies Act and which the society was carrying on in a country or territory outside the United Kingdom without contravening either paragraph 1 or 5 of Schedule 13B to that Act.
+
+#### Building societies
+
+##### 22. Building societies authorised under the Building Societies Act[^key-10731d6af4c77586b5c02624d1e7f13a]
+
+(1) A building society which, immediately before commencement, was authorised or treated as authorised for the purposes of the Building Societies Act is to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which, immediately before commencement, it was by reason of that authorisation able to carry on in the United Kingdom without contravening section 9(1) of that Act.
+
+(2) Where, immediately before commencement, a society’s authorisation has been revoked under section 43 of the Building Societies Act but that revocation has not come into effect by virtue of section 46(3) of that Act[^f00020]—
+
+- (a) paragraph (1) applies to that society as if the authorisation had not been revoked; but
+- (b) its permission to carry on the regulated activities referred to in paragraph (1) lapses at the end of the period within which an appeal can be brought against the decision to revoke unless such an appeal is brought within that period.
+
+(3) Where a date falling after commencement (“the expiry date”) had been fixed for the expiry of the society’s authorisation under section 41(7) of the Building Societies Act[^f00021], the society’s permission to carry on the regulated activities referred to in paragraph (1) lapses on whichever is the later of—
+
+- (a) the expiry date; or
+- (b) the end of the period within which the society can bring an appeal against the decision to refuse authorisation,
+
+but the permission does not so lapse if an appeal is brought within the period mentioned in sub-paragraph (b).
+
+(4)[^key-194a8d4d126cbaa08bff5c92ce8eae96] A society having a Part IV permission by virtue of paragraph (1) is also to be treated as having, at commencement, a Part IV permission to carry on any regulated activities which it was able, by virtue of section 2(4) of the Insurance Companies Act, to carry on in the United Kingdom without contravening section 2(1) of that Act and which it was, immediately before commencement, so carrying on.
+
+(5) A society having a Part IV permission by virtue of paragraph (1) and which was not, immediately before commencement, authorised under the Financial Services Act, is also to be treated as having, at commencement, a Part IV permission to carry on regulated activities—
+
+- (a) of the kind specified by article 14 of the Regulated Activities Order (dealing in investments as principal) in so far as it consists of the society entering into a transaction of the kind mentioned in article 16 of that Order (dealing in contractually based investments); and
+- (b) of the kind specified by article 64 of that Order (agreeing to carry on specified kinds of activity) in so far as the activity relates to the activity mentioned in sub-paragraph (a).
+
+##### 23. Banking business carried on overseas by building societies before commencement[^key-2c1fa71c38c25bad31bce04f59aab98f]
+
+(1) A building society which was, immediately before commencement—
+
+- (a) authorised or treated as authorised for the purposes of the Building Societies Act; and
+- (b) carrying on overseas banking business,
+
+is to be treated as having, at commencement, a Part IV permission to carry on any corresponding overseas regulated activities in the country or territory where it carried on that overseas banking business.
+
+(2) In this article—
+
+- “corresponding overseas regulated activities” means regulated activities which—
+  - (a) the society carries on after commencement by virtue of continuing to carry on its overseas banking business; and
+  - (b) the society is regarded as carrying on in the United Kingdom by virtue of section 418;
+- “overseas banking business” means business which constituted raising money from members or accepting deposits for the purposes of section 9 of the Building Societies Act and which it was carrying on in a country or territory outside the United Kingdom without contravening regulation 22 of the 2BCD Regulations.
+
+#### Supplemental
+
+##### 24. Persons with more than one old authorisation etc.[^key-9b1604b488c9c05801e64b84b6c9047d]
+
+Where a person falls within more than one of the preceding articles of this Part, he is not to be treated as having more than one Part IV permission (which is not a possibility under the Act) but is to be treated as having a single Part IV permission to carry on all the regulated activities which the provisions in question state that he is to be treated as having a Part IV permission to carry on.
+
+### CHAPTER II — authorisation and permission under schedule 3
+
+#### EEA firms with “passports” under the 2BCD or ISD Regulations
+
+##### 25. EEA firms with “passports” under the 2BCD or ISD Regulations[^key-b20269b58ade71280f18226dbd21cf60]
+
+(1) This article applies to an EEA firm which immediately before commencement was—
+
+- (a) a European institution within the meaning of the 2BCD Regulations; or
+- (b) a European investment firm within the meaning of the ISD Regulations.
+
+(2) Subject to paragraph (3)—
+
+- (a) if the requirements of paragraph 1 of Schedule 2 to the 2BCD Regulations or paragraph 1 of Schedule 3 to the ISD Regulations (whichever is applicable) have been complied with in relation to the firm’s establishment of a branch, then the firm is to be treated as satisfying the establishment conditions in paragraph 13 of Schedule 3;
+- (b) if those requirements have been complied with in relation to the firm’s provision of a service, then the firm is to be treated as satisfying the service conditions in paragraph 14 of Schedule 3,
+
+and, accordingly, is to be treated as qualifying for authorisation under Schedule 3 as a result of paragraph 12 of that Schedule (and as being an “incoming firm” for the purposes of Part XIII of the Act).
+
+(3) Where the EEA firm is taken to have complied with the requirements of paragraph 1 of Schedule 2 to the 2BCD Regulations only by virtue of having complied with the corresponding requirements under the law of Gibraltar (within the meaning of regulation 2C(2) of the 2BCD Regulations[^f00022]), paragraph (2) applies to the firm only if it is, at commencement, carrying on a regulated activity in the United Kingdom.
+
+(4) In relation to an EEA firm which was, immediately before commencement, a European institution within the meaning of the 2BCD Regulations, each activity which it was—
+
+- (a) by reason of regulation 5(1) of the 2BCD Regulations or regulation 5(1) of the ISD Regulations, able to carry on in the United Kingdom without contravening any relevant regulator enactment; and
+- (b) able to carry on there without contravening regulation 6 of the 2BCD Regulations,
+
+is a permitted activity for the purposes of paragraph 15 of Schedule 3 as it applies to the firm.
+
+(5) In relation to an EEA firm which was, immediately before commencement, a European investment firm but not a European authorised institution, each activity which immediately before commencement the firm was—
+
+- (a) by reason or regulation 5(1) of the ISD Regulations, able to carry on in the United Kingdom without contravening any relevant regulatory enactment; and
+- (b) able to carry on there without contravening regulation 6 of the ISD Regulations,
+
+is a permitted activity for the purposes of paragraph 15 of Schedule 3 as it applies to the firm.
+
+(6) For the purposes of paragraphs (4) and (5) each of the following is a relevant regulatory enactment—
+
+- (a) section 3 of the Banking Act;
+- (b) section 3 of the Financial Services Act;
+- (c) section 2(1) of the Insurance Companies Act; and
+- (d) sections 21 and 39(1) of the Consumer Credit Act 1974[^f00023] (including as applied by section 147(1) of that Act).
+
+(7) For the purposes of paragraph 15 of Schedule 3 as it applies to the firm, each activity which would fall within paragraph (4) or (5) but for a prohibition under regulation 9, 15 or 18 of the 2BCD Regulations or a prohibition under regulation 9 or 15 of the ISD Regulations is also a permitted activity.
+
+(8) The references in paragraph 15(2) of Schedule 3 to the consent notice, the notice of intention and the regulator’s notice are to be read, in relation to the firm, as references to—
+
+- (a) the corresponding notices under Schedule 2 to the 2BCD Regulations or (as the case may be) Schedule 3 to the ISD Regulations; and
+- (b) any later notices under paragraph 4 of Schedule 2 to the 2BCD Regulations or paragraph 4 or 5 of Schedule 3 to the ISD Regulations (change of activities etc.) that are relevant.
+
+#### EEA firms with “passports” under the Insurance Companies Act
+
+##### 26. EC companies carrying on direct insurance through UK branch[^key-5eb8cf4fb9d63a1b35838ce919c49ed4]
+
+(1) This article applies to an EEA firm which was, immediately before commencement—
+
+- (a) an EC company within the meaning of the Insurance Companies Act; and
+- (b) by reason of compliance with the requirements of paragraph 1 of Schedule 2F to that Act, able to carry on direct insurance business through a branch in the United Kingdom without contravening section 2(1) of that Act.
+
+(2) The firm is to be treated as satisfying the establishment conditions in paragraph 13 of Schedule 3 and, accordingly, is to be treated—
+
+- (a) as qualifying for authorisation under Schedule 3 as a result of paragraph 12 of that Schedule; and
+- (b) as being an “incoming firm” for the purposes of Part XIII of the Act.
+
+(3) For the purposes of paragraph 15(1) of Schedule 3 as it applies to the firm, each activity which immediately before commencement the firm was—
+
+- (a) by reason of compliance with the requirements of paragraph 1 of Schedule 2F to the Insurance Companies Act, able to carry on through a branch in the United Kingdom without contravening that paragraph, and
+- (b) able so to carry on without contravening paragraph 2 of that Schedule,
+
+is a permitted activity.
+
+(4) The reference in paragraph 15(2) of Schedule 3 to the consent notice is to be read, in relation to the firm, as a reference to—
+
+- (a) the notice and certificate under paragraph 1(2)(a) of Schedule 2F to the Insurance Companies Act; and
+- (b) any later notices under paragraph 2 of that Schedule that are relevant.
+
+##### 27. EC companies providing insurance in UK[^key-08e7c769a32aa4140f63de8d9e46fd01]
+
+(1) This article applies to an EEA firm which was, immediately before commencement—
+
+- (a) an EC company within the meaning of the Insurance Companies Act; and
+- (b) by reason of compliance with the requirements of paragraph 8 of Schedule 2F to that Act able to provide insurance in the United Kingdom (within the meaning given by paragraph 26(2)(a) of that Schedule) without contravening that paragraph.
+
+(2) The firm is to be treated as satisfying the service conditions in paragraph 14 of Schedule 3 and, accordingly, is to be treated—
+
+- (a) as qualifying for authorisation under Schedule 3 as a result of paragraph 12 of that Schedule; and
+- (b) as being an “incoming firm” for the purposes of Part XIII of the Act.
+
+(3) For the purposes of paragraph 15(1) of Schedule 3 as it applies to the firm, each activity which immediately before commencement the firm was—
+
+- (a) by reason of compliance with the requirements of paragraph 8 of Schedule 2F to the Insurance Companies Act, able to carry on without contravening that paragraph; and
+- (b) able to carry on without contravening paragraph 9 or 11 of that Schedule,
+
+is a permitted activity.
+
+(4) The reference in paragraph 15(2) of Schedule 3 to the regulator’s notice is to be read, in relation to the firm, as a reference to—
+
+- (a) the notice and certificate under paragraph 8(2)(a) of Schedule 2F to the Insurance Companies Act; and
+- (b) any later notices under paragraph 9 of that Schedule that are relevant.
+
+### CHAPTER III — authorisation, permission etc. under schedule 4
+
+#### Treaty firms authorised under section 31 of the Financial Services Act
+
+##### 28. Treaty firms authorised under section 31 of the Financial Services Act[^key-43d4e8b0c63fadbce60d63632e7a9cc1]
+
+(1) This article applies to a Treaty firm which immediately before commencement—
+
+- (a) was authorised under section 31 of the Financial Services Act; or
+- (b) would have been so authorised but for a direction under section 33 of that Act.
+
+(2) If no such notice as is required by paragraph 3(2) of Schedule 4 has been given as respects the firm in relation to a relevant activity which the firm has received home state authorisation to carry on, the notice is deemed to have been given.
+
+(3) A relevant activity is a regulated activity which, immediately before commencement, the firm was by reason of its authorisation under section 31 of the Financial Services Act (or would have been but for a direction under section 33 of that Act) able to carry on in the United Kingdom without contravening section 3 of that Act.
+
+(4) Any notice of the firm’s intention to carry on a regulated activity in the United Kingdom which was given by the firm before commencement—
+
+- (a) under section 32 of the Financial Services Act; or
+- (b) in accordance with rules or regulations as mentioned in section 48(2)(a)(ii) of that Act,
+
+is to be treated for the purposes of paragraph 5 of Schedule 4 as having been a written notice of that intention given to the Authority in accordance with that paragraph.
+
+(5) Where the firm was, immediately before commencement, subject to a direction under section 33 of the Financial Services Act, the direction has effect after commencement as if it were a requirement, imposed under section 196, that the firm refrain from carrying on any activity which immediately before commencement it was prevented by the direction from carrying on.
+
+(6) In the case of a limited direction, a requirement having effect by virtue of paragraph (5) is to be taken to be framed so as to expire when (but for the repeal of the Financial Services Act) the direction would have expired.
+
+(7) A limited direction means a direction which was framed so as to expire at the end of a specified period or on the occurrence of a specified event or on compliance with specified conditions.
+
+##### 29. Certificates under section 31(4) of the Financial Services Act[^key-af1b50b70192b102757032cedfcdbe1d]
+
+Any certificate issued under section 31(4) of the Financial Services Act as respects a particular EEA State shall, if in force immediately before commencement, have effect after commencement as if it were a certificate, issued by the Treasury under paragraph 3(4) of Schedule 4, that the provisions of the law of that State afford equivalent protection (within the meaning of that Schedule) in relation to the activities specified in the certificate.
+
+#### Treaty firms which are insurance companies
+
+##### 30. EC companies carrying on reinsurance business through UK branch[^key-242b4deabea7c68b9c2901cad8d92967]
+
+(1) This article applies to a Treaty firm which has received home state authorisation to carry on reinsurance business and which immediately before commencement was—
+
+- (a) an EC company within the meaning of the Insurance Companies Act; and
+- (b) by reason of compliance with the requirements of paragraph 4 of Schedule 2F to that Act, able to carry on reinsurance business through a branch in the United Kingdom without contravening section 2(1) of that Act.
+
+(2) But this article applies only if the condition in paragraph 3(1)(b) of Schedule 4 is satisfied as respects reinsurance business.
+
+(3) The statement served by the firm as required by paragraph 4(2)(a)(ii) of Schedule 2F to the Insurance Companies Act is to be treated as the notice required by paragraph 3(2) of Schedule 4.
+
+(4) The notice served by the firm as required by paragraph 4(2)(a)(i) of Schedule 2F to the Insurance Companies Act of its intention to carry on reinsurance business is to be treated for the purposes of paragraph 5 of Schedule 4 as having been a notice of that intention given to the Authority in accordance with that paragraph.
+
+##### 31. EC companies carrying on investment business as Treaty firms[^key-a96f8c73baf59ff3dacc25ae8f8913b8]
+
+(1) This article applies to a Treaty firm which immediately before commencement was—
+
+- (a) an EC company within the meaning of the Insurance Companies Act; and
+- (b) an authorised person (within the meaning of the Financial Services Act) by reason of regulation 57 of the 3ID Regulations.
+
+(2) But this article applies only if there is an activity (a “relevant investment activity”)—
+
+- (a) which immediately before commencement the firm was, by reason of that regulation, able to carry on in the United Kingdom without contravening section 3 of the Financial Services Act;
+- (b) which it was then carrying on in the United Kingdom, or had previously carried on there;
+- (c) which it has received home state authorisation to carry on;
+- (d) which it has no EEA right to carry on; and
+- (e) as respects which the condition in paragraph 3(1)(b) of Schedule 4 is satisfied.
+
+(3) Where this article applies—
+
+- (a) if no such notice as is required by paragraph 3(2) of Schedule 4 has been given as respects the firm in relation to a relevant investment activity, the notice is deemed to have been given; and
+- (b) if no such notice of intention as is required by paragraph 5 of Schedule 4 was given by the firm as respects its intention to carry on a relevant investment activity, the notice is deemed to have been given.
+
+#### Status for purposes of Part XIII of the Act
+
+##### 32. Status for purposes of Part XIII of the Act[^key-aa3916258869f5f867f5f88f50315951]
+
+For the avoidance of doubt, where article 28, 30 or 31 applies, the Treaty firm is to be taken to be an “incoming firm” for the purposes of Part XIII of the Act.
+
+### CHAPTER IV — supplemental
+
+#### 33. Old transitional provision[^key-65034f92577bd6d990711500a0587703]
+
+(1) References in this Part to compliance with any requirements of Schedule 2 to the 2BCD Regulations, Schedule 3 to the ISD Regulations or Schedule 2F to the Insurance Companies Act include references to deemed compliance by virtue of paragraph 1 of Schedule 11 to the 2BCD or ISD Regulations or regulation 69 of the 3ID Regulations (“old transitional provision”).
+
+(2) In relation to a person who by virtue of an old transitional provision was deemed to have complied with the requirements of—
+
+- (a) paragraph 1 of Schedule 2 to the 2BCD Regulations;
+- (b) paragraph 1 of Schedule 3 to the ISD Regulations; or
+- (c) paragraph 1 or 8 of Schedule 2F to the Insurance Companies Act,
+
+and to whom article 25, 26 or 27 accordingly applies, neither article 25(8), 26(4) or 27(4) (as the case may be), nor paragraph 15(2) of Schedule 3, has effect.
+
+(3) In relation to a Treaty firm which by virtue of regulation 69 of the 3ID Regulations was deemed to have complied with paragraph 4 of Schedule 2F to the Insurance Companies Act and to which article 30 applies, article 30 has effect as if for paragraphs (3) and (4) of that article there were substituted provision that—
+
+- (a) if no such notice as is required by paragraph 3(2) of Schedule 4 has been given as respects the firm in relation to reinsurance business, the notice is deemed to have been given; and
+- (b) if no such notice of intention as is required by paragraph 5 of Schedule 4 was given by the firm as respects its intention to carry on reinsurance business, the notice is deemed to have been given.
+
+## PART III — EFFECT OF RESTRICTIONS AND PROHIBITIONS IMPOSED UNDER OLD LAW
+
+### Prohibitions and requirements under the Financial Services Act
+
+#### 34. Prohibitions and requirements under sections 65 to 68 of the Financial Services Act[^key-1f6c497e2ab36204d31ebd03b5f1ba52]
+
+(1) Where immediately before commencement a person was subject to a prohibition or requirement imposed under any of sections 65 to 68 of the Financial Services Act, that prohibition or requirement has effect after commencement—
+
+- (a) if it relates to the carrying on of an activity or activities which the person has a Part IV permission to carry on, then as if it were a requirement imposed on him under section 43;
+- (b) if it relates to the carrying on of an activity or activities which he has a permission to carry on as a result of Schedule 3 or 4, then as if it were a requirement imposed on him under section 196.
+
+(2) Where by virtue of this article (and, where applicable, article 36(3)(a)), a requirement originally imposed as mentioned in paragraph (1) has effect as—
+
+- (a) an assets requirement, as defined by section 48(3); or
+- (b) a requirement to which section 201 applies,
+
+section 48(4) to (7) and (9) to (11) applies accordingly; but section 48(8) does not apply.
+
+(3) For the purposes of paragraph (1), a prohibition imposed under section 65 of the Financial Services Act as respects activities carried on in connection with or for the purposes of an activity mentioned in paragraph (1)(a) or (b) is to be taken to relate to the carrying on of that activity,
+
+#### 35. Prohibitions and requirements imposed by recognised self-regulating organisations or recognised professional bodies[^key-316390020fb1740790af98ab50b811f0]
+
+(1) This article applies where immediately before commencement a person was subject to a prohibition or requirement—
+
+- (a) imposed by a recognised self-regulating organisation or a recognised professional body under a relevant rule; or
+- (b) pursuant to an agreement between a person and a recognised self-regulating organisation that he should be subject to a prohibition or requirement of a kind which could have been imposed on him under a relevant rule.
+
+(2) The prohibition or requirement has effect after commencement—
+
+- (a) if it relates to the carrying on of an activity or activities which the person has a Part IV permission to carry on, as if it were a requirement imposed on him under section 43;
+- (b) if it relates to the carrying on of an activity or activities which he has a permission to carry on as a result of Schedule 3 or 4, as if it were a requirement imposed on him under section 196.
+
+(3) For the purposes of paragraph (2), a prohibition or requirement imposed or agreed as respects activities carried on in connection with or for the purposes of an activity mentioned in paragraph (2)(a) or (b) is to be taken to relate to the carrying on of that activity.
+
+(4) Where by virtue of this article (and, where applicable, article 36(3)(a)), a requirement originally imposed or agreed as mentioned in paragraph (1) has effect as—
+
+- (a) an assets requirement, as defined by section 48(3); or
+- (b) a requirement to which section 201 applies,
+
+section 48(4) to (7) and (9) to (11) applies accordingly; but section 48(8) does not apply.
+
+(5) Where, immediately before commencement, a person was a member of a recognised self-regulating organisation for the purposes of section 7 of the Financial Services Act but was prevented by relevant rules from carrying on any investment business (within the meaning of that Act) that person is to be treated after commencement—
+
+- (a) as if he is an authorised person with a Part IV permission; but
+- (b) as if his Part IV permission included a requirement imposed under section 43 that he refrain from carrying on any regulated activity.
+
+(6) For the purposes of this article a relevant rule is—
+
+- (a) a rule of a recognised self-regulating organisation which makes provision as described in section 48(2)(a) or (b) of the Financial Services Act;
+- (b) a rule of a recognised self-regulating organisation or recognised professional body conferring powers corresponding to the powers conferred by sections 65 to 68 of that Act;
+- (c) a rule of a recognised self-regulating organisation or recognised professional body conferring power on that organisation or body to impose conditions (however described) on a member when admitting him to membership, or to vary those conditions or impose new conditions during his membership;
+- (d) a rule of a recognised self-regulating organisation or recognised professional body conferring power on that organisation or body to direct a member (in whatever manner specified by the rule) to take specified steps.
+
+#### 36. Supplemental provision relating to requirements under section 67 of the Financial Services Act etc.[^key-9ee48ce1252f7b95689161580101421b]
+
+(1) This article applies in relation to a requirement having effect by virtue of article 34 or 35 which was originally imposed—
+
+- (a) under section 67 of the Financial Services Act (vesting of assets in trustee); or
+- (b) by a recognised self-regulating organisation or recognised professional body for purposes corresponding to those of that section.
+
+(2) Any approval of a trustee by the Authority which was effective for the purposes of the requirement immediately before commencement continues to have effect for those purposes after commencement.
+
+(3) If the requirement includes provision requiring the approval of a trustee by a recognised self-regulating organisation or recognised professional body—
+
+- (a) it is to be taken instead to require the approval of the trustee by the Authority; and
+- (b) if, immediately before commencement, an approval of a trustee by a recognised self-regulating organisation or recognised professional body was effective for the purposes of the requirement, the approval has effect after commencement as if given by the Authority.
+
+(4) Paragraph (5) applies to any direction allowing assets to be released or dealt with which was given—
+
+- (a) under subsection (3) of section 67 of the Financial Services Act; or
+- (b) by a recognised self-regulating organisation or recognised professional body for purposes corresponding to those of that subsection,
+
+if the direction was effective immediately before commencement.
+
+(5) The direction has effect after commencement as if it were a consent given by the Authority under section 48(6).
+
+#### 37. Requirements imposed under the Financial Services Act by virtue of the 2BCD or ISD Regulations as a matter of urgency[^key-5645f96f53b72e7baa371e992c139261]
+
+Where a requirement which by virtue of article 34 has effect as if imposed under section 196—
+
+- (a) was originally imposed, or was varied, in a case where regulation 17 of the 2BCD Regulations or regulation 11 of the ISD Regulations applied; and
+- (b) was imposed or varied as a matter of urgency under regulation 17(5) of the 2BCD Regulations or (as the case may be) regulation 11(5) of the ISD Regulations,
+
+it is to be treated as if section 199 had applied in its case and it had been imposed as mentioned in section 199(8)(a).
+
+### Restrictions and directions under the Banking Act
+
+#### 38. Restrictions under section 12 of the Banking Act[^key-7fc58b49cc38bfcda2e13460587e1547]
+
+(1) This article applies where immediately before commencement a person was subject to a restriction on authorisation imposed under section 12 of the Banking Act.
+
+(2) Any conditions imposed by the restriction have effect after commencement as if they were requirements imposed on the person under section 43.
+
+(3) If the restriction imposes a limit on the duration of the person’s authorisation under the Banking Act, to the extent that it does so it has effect after commencement as if it were a requirement, imposed under section 43, that after the relevant date he refrain from carrying on any activity of the kind referred to in article 11 and which he has a Part IV permission to carry on.
+
+(4) The relevant date is the date when (but for the repeal of the Banking Act) the authorisation under the Banking Act would have expired.
+
+(5) A requirement having effect by virtue of paragraph (3) may not be cancelled, and may not be varied so as to allow the person to carry on after the permitted period any activity mentioned in that paragraph.
+
+(6) The permitted period is the period of three years beginning with the date on which the restriction under section 12 of the Banking Act was first imposed.
+
+#### 39. Directions under section 19 of the Banking Act[^key-3bfe046843d7e0bc608750127ef9e58b]
+
+(1) Where—
+
+- (a) immediately before commencement a person was subject to a direction given under section 19 of the Banking Act; and
+- (b) by virtue of this Order he has a Part IV permission on commencement,
+
+the direction has effect, after commencement, as if it were a requirement (or requirements) imposed on him under section 43.
+
+(2) If the direction was one falling within section 20(2) of the Banking Act but was not confirmed under that section before commencement, the requirement having effect under paragraph (1) ceases to have effect at the end of 28 days beginning with the day on which the direction was given.
+
+(3) References in paragraphs (1) and (2) to a direction do not include references to a direction varying a previous direction; but where a direction has been varied before commencement the references in paragraph (1) are to the direction as varied even in a case where, by virtue of section 20(2)(b) of the Banking Act, the variation was due to cease to have effect at a time falling after commencement unless confirmed by the Authority before that time.
+
+(4) A requirement having effect under paragraph (1) ceases to have effect on the occurrence of a relevant event.
+
+(5) In the case of a person who immediately before commencement held an authorisation granted (or deemed to be granted) under section 9 of the Banking Act, the reference in paragraph (4) to a relevant event is to be read as follows—
+
+- (a) if the requirement originally had effect as a direction given by virtue of section 19(1)(a) or (b) of the Banking Act (cases where Banking Act authorisation was to be revoked), and—
+  - (i) the Authority decides to discontinue the proceedings originated by the proposal to revoke the person’s authorisation under the Banking Act; or
+  - (ii) the decision to revoke the authorisation is reversed by a tribunal,
+
+  the giving of the notice of discontinuance under section 389, or the tribunal’s determination, is a relevant event;
+- (b) if the requirement originally had effect as a direction given by virtue of section 19(1)(d) of the Banking Act (notice of surrender of authorisation) and the person subject to it withdraws the application, the withdrawal of the application is a relevant event.
+
+(6) In the case of a person who immediately before commencement did not hold an authorisation granted (or deemed to be granted) under section 9 of the Banking Act, but formerly held such an authorisation, the reference in paragraph (4) to a relevant event is to the person’s ceasing to have any liability in respect of deposits (within the meaning of the Banking Act) for which he had a liability at a time when he held that authorisation.
+
+(7) Nothing in paragraphs (2) or (4) prevents the Authority from exercising its power under section 45 to vary the person’s Part IV permission in order to continue in effect the requirement having effect under paragraph (1).
+
+### Directions and requirements under the Insurance Companies Act
+
+#### 40. Directions under sections 11 and 12A of the Insurance Companies Act[^key-d9e85aaaf8f677087afbf2412b01f083]
+
+(1) This article applies where immediately before commencement a person was subject to—
+
+- (a) a direction given under section 11 of the Insurance Companies Act; or
+- (b) a direction given under section 12A of that Act and confirmed under that section.
+
+(2) The direction has effect after commencement—
+
+- (a) if it relates to the carrying on of an activity or activities which the person has a Part IV permission to carry on, as if it were a requirement, imposed under section 43, that he refrain from carrying on an activity which immediately before commencement he was prevented by the direction from carrying on;
+- (b) if it relates to the carrying on of an activity or activities which he has a permission to carry on as a result of Schedule 4, as if it were a requirement, imposed under section 196, that he refrain as mentioned in sub-paragraph (a).
+
+#### 41. Requirements under sections 38, 39, 40, 41, 43 and 45 of the Insurance Companies Act[^key-a02c453731e7f6ad25ad0194edf7569b]
+
+(1) This article applies where immediately before commencement a person was—
+
+- (a) authorised under section 3 or 4 of the Insurance Companies Act; and
+- (b) subject to a requirement imposed under section 38, 39, 40, 41, 43 or 45 of that Act.
+
+(2) The requirement has effect after commencement—
+
+- (a) if it relates to the carrying on of an activity or activities which the person has a Part IV permission to carry on, as if it were a requirement imposed on him under section 43;
+- (b) if it relates to the carrying on of an activity or activities which he has a permission to carry on as a result of Schedule 4, as if it were a requirement imposed on him under section 196.
+
+(3) Where by virtue of this article a requirement originally imposed under the Insurance Companies Act has effect as—
+
+- (a) an assets requirement, as defined by section 48(3); or
+- (b) a requirement to which section 201 applies,
+
+subsections (4) to (11) of section 48 apply accordingly.
+
+(4) In relation to a requirement originally imposed under section 40 of the Insurance Companies Act (custody of assets)—
+
+- (a) any approval of a trustee by the Authority which was effective for the purposes of the requirement immediately before commencement continues to have effect for those purposes after commencement; and
+- (b) any consent which was given under subsection (4) of that section and was effective immediately before commencement has effect after commencement as if given under section 48(6).
+
+(5) Where section 48(8) applies in relation to a requirement originally imposed under section 40 of the Insurance Companies Act, any notice in relation to the requirement given to a trustee under section 40(3) of that Act is to be treated as given under section 48(8).
+
+(6) In relation to a requirement which has effect under paragraph (2) and which was originally imposed under section 43 of the Insurance Companies Act, the requirement is that where the person is required by the Authority’s rules to deposit any accounts or statement of the kind referred to in section 43 of that Act, he must do so on or before the date specified by the requirement originally imposed.
+
+#### 42. Order of the court under section 40A of the Insurance Companies Act[^key-caadbe4a5e8273c2ac1c2a3638794cc8]
+
+(1) This article applies to a person where there is in force against him immediately before commencement an order of the court made under section 40A of the Insurance Companies Act[^f00024].
+
+(2) A person to whom this article applies is to be treated after commencement as if he were subject to an assets requirement within the meaning of section 48(3)(a) prohibiting him from disposing of or otherwise dealing with his assets in any manner which would have been prohibited by the order as it had effect immediately before commencement (having regard to any subsequent orders made under section 40A(2) of the Insurance Companies Act) and section 48(4) and (5) apply accordingly.
+
+(3) On commencement the order of the court referred to in paragraph (1) ceases to have effect.
+
+(4) Where—
+
+- (a) before commencement, a person (“P”) was subject to an order made under section 40A of the Insurance Companies Act;
+- (b) the Authority had, at any time after the making of this Order, given notice of that order to an institution with whom P keeps an account;
+- (c) P is subject to a requirement after commencement by virtue of paragraph (2),
+
+that notice is to be treated after commencement as if it had been given under section 48(4)(b).
+
+#### 43. Requirements imposed on former Lloyd’s underwriting members[^key-f64d8089bc4ad488113c360b2832da32]
+
+(1) This article applies to a former member of Lloyd’s who, immediately before commencement, was treated by virtue of regulation 3(1)(b) of the Insurance (Lloyd's) Regulations 1996[^f00025] as if he were a UK company to which Part II of the Insurance Companies Act applied.
+
+(2) Where immediately before commencement, a person to whom this article applies was subject to a requirement imposed under section 45 of the Insurance Companies Act in respect of any liability of his under contracts of insurance entered into by him as a member of Lloyd's, that requirement takes effect after commencement as if it were a requirement imposed on him under section 320(3) (whether or not he is a former underwriting member for the purposes of that section).
+
+#### 44. Requirements and directions under Schedule 2F to the Insurance Companies Act[^key-8b4cefbf78819610de2b218e402e2f04]
+
+(1) This article applies where immediately before commencement an EEA firm was subject to—
+
+- (a) a requirement imposed under section 45 of the Insurance Companies Act by virtue of paragraph 15 of Schedule 2F to that Act; or
+- (b) a direction given under paragraph 16 or 17 of that Schedule.
+
+(2) In a case where this article applies, the requirement or direction has effect after commencement—
+
+- (a) if it relates to the carrying on of an activity or activities which the person has a Part IV permission to carry on, as if it were a requirement imposed on him under section 43;
+- (b) if it relates to the carrying on of an activity or activities which he has permission to carry on as a result of Schedule 3 or 4, as if it were a requirement imposed on him under section 196.
+
+### Conditions and directions under the Friendly Societies Act
+
+#### 45. Conditions imposed under the Friendly Societies Act[^key-50a245c4716471b49a394f5142176754]
+
+(1) This article applies where immediately before commencement a friendly society was subject to a condition imposed—
+
+- (a) at the society’s request under section 32(4) of the Friendly Societies Act;
+- (b) under section 34 of the Friendly Societies Act (including any conditions imposed pursuant to section 35 of that Act);
+- (c) under section 36 of the Friendly Societies Act (including those deemed to be imposed under that section pursuant to a direction given under section 36A of that Act[^f00026];
+
+(2) The condition has effect after commencement as if it were a requirement imposed on the society under section 43.
+
+(3) Where a condition imposed pursuant to a direction given under section 36A of the Friendly Societies Act has effect after commencement under paragraph (2), that requirement is not to be treated as limited in time, notwithstanding section 36A(2) of that Act.
+
+#### 46. Direction under section 40 of the Friendly Societies Act[^key-93d79f29c63378b121cdc90c48500291]
+
+(1) This article applies where—
+
+- (a) immediately before commencement a friendly society was subject to a direction given under section 40 of the Friendly Societies Act; and
+- (b) on commencement, that friendly society has a Part IV permission.
+
+(2) The direction has effect after commencement as if it were a requirement imposed under section 43 that the society refrain from carrying on any activity which immediately before commencement it was prevented by the direction from carrying on (having regard to any subsequent grant of authorisation as mentioned in section 40(5) of the Friendly Societies Act).
+
+(3) A direction having effect under paragraph (2) may be varied or revoked in accordance with section 44, notwithstanding section 40(5)(b) of the Friendly Societies Act.
+
+#### 47. Direction under section 51 of the Friendly Societies Act[^key-5f6019050585f7c8754fa71899171bc0]
+
+(1) This article applies where—
+
+- (a) immediately before commencement a friendly society was subject to a direction given under section 51 of the Friendly Societies Act; and
+- (b) on commencement, that friendly society has a Part IV permission.
+
+(2) Subject to paragraph (3), the direction has effect after commencement as if it were a requirement imposed under section 43 that the society refrain from accepting any new members.
+
+(3) If a direction given under section 51 of the Friendly Societies Act before commencement has, by reason of section 58(3) of that Act, not come into force before commencement—
+
+- (a) that fact does not prevent a person from being treated as subject to the direction for the purposes of this article; but
+- (b) the direction has effect as described in paragraph (2) only if the period within which an appeal can be brought against the direction expires without such an appeal being brought.
+
+#### 48. Order of the court under section 52A of the Friendly Societies Act[^key-e222b8b2d40f120e545be08455c59379]
+
+(1) This article applies to a friendly society where there is in force against it immediately before commencement an order of the court made under section 52A of the Friendly Societies Act[^f00027] and where that society has, at commencement, a Part IV permission.
+
+(2) A society to which this article applies is to be treated after commencement as if it were subject to an assets requirement within the meaning of section 48(3)(a), prohibiting the society from disposing of or otherwise dealing with its assets in any manner which would have been prohibited by the order as it had effect immediately before commencement (having regard to any subsequent orders made under section 52A(3) of the Friendly Societies Act) and section 48(4) and (5) applies accordingly.
+
+(3) On commencement, the order of the court referred to in paragraph (1) ceases to have effect.
+
+(4) Where—
+
+- (a) before commencement, a person (“P”) was subject to an order made under section 52A of the Friendly Societies Act;
+- (b) the Authority had, at any time after the making of this Order, given notice of that order to an institution with whom P keeps an account;
+- (c) P is subject to a requirement after commencement by virtue of paragraph (2),
+
+that notice is to be treated after commencement as if it had been given under section 48(4)(b).
+
+#### 49. Direction under section 53 of the Friendly Societies Act[^key-f75a87792202ec79f4e5cba6150dc98f]
+
+(1) This article applies where—
+
+- (a) immediately before commencement a friendly society was subject to a direction given under section 53 of the Friendly Societies Act; and
+- (b) that friendly society has, at commencement, a Part IV permission.
+
+(2) The direction has effect after commencement as if it were a requirement imposed by the Authority under section 43.
+
+### Conditions and directions under the Building Societies Act
+
+#### 50. Conditions and directions imposed under the Building Societies Act[^key-75dea6d3f516c024f4c4d07e547bae49]
+
+(1) This article applies where immediately before commencement a building society was subject to—
+
+- (a) a condition imposed under section 9(5) of the Building Societies Act;
+- (b) a condition imposed under section 41 of that Act;
+- (c) a condition imposed under section 42 of that Act (including any which was imposed as a matter of urgency pursuant to section 42A of that Act[^f00028] if it has been confirmed by a notice given under section 42A(8) of that Act);
+- (d) a condition imposed under section 44 of that Act;
+- (e) a direction given under section 50 of that Act.
+
+(2) Where this article applies, the condition or direction has effect after commencement as if it were a requirement imposed on the building society under section 43.
+
+#### 51. Direction under section 43A of the Building Societies Act[^key-861d642ea73193545d0ae410102fa871]
+
+(1) Where—
+
+- (a) immediately before commencement, a building society was subject to a direction given under 43A of the Building Societies Act[^f00029]; and
+- (b) by virtue of this Order the building society has a Part IV permission on commencement,
+
+the direction has effect, after commencement, as if it were a requirement (or requirements) imposed on the society under section 43.
+
+(2) If the direction was one falling within section 43B(2) of the Building Societies Act[^f00030] but was not confirmed under that section before commencement, the requirement having effect under paragraph (1) ceases to have effect at the end of 28 days beginning with the day on which the direction was given.
+
+(3) References in paragraphs (1) and (2) to a direction do not include a direction varying a previous direction; but where a direction has been varied before commencement, the references in paragraph (1) are to the direction as varied even in a case where, by virtue of section 43B(2)(b) of the Building Societies Act, the variation was due to cease to have effect at a time falling after commencement unless confirmed by the Authority before that time.
+
+(4) A requirement having effect under paragraph (1) ceases to have effect on the occurrence of a relevant event.
+
+(5) In the case of a society which immediately before commencement held an authorisation granted for the purposes of the Building Societies Act, the reference in paragraph (4) to a relevant event is to be read as follows—
+
+- (a) if the requirement originally had effect as a direction given by virtue of section 43A(1)(a) or (b) of the Building Societies Act (cases where authorisation was to be revoked), and—
+  - (i) the Authority decides to discontinue the proceedings originated by the proposal to revoke the society’s authorisation under the Building Societies Act; or
+  - (ii) the decision to revoke the authorisation is reversed by a tribunal,
+
+  the giving of a notice of discontinuance under section 389, or the tribunal’s determination, is a relevant event;
+- (b) if the requirement originally had effect as a direction given by virtue of section 43A(1)(d) of the Building Societies Act (request to revoke authorisation or cancel registration) and the society subject to it withdraws the application, the withdrawal of the application is a relevant event.
+
+(6) In the case of a society which immediately before commencement did not hold an authorisation for the purposes of the Building Societies Act, but formerly held such an authorisation, the reference in paragraph (4) to a relevant event is to the society ceasing to have any liability in respect of shares or deposits (within the meaning of the Building Societies Act) for which it had a liability at a time when it held that authorisation.
+
+(7) Nothing in paragraph (2) or (4) prevents the Authority from exercising its power under section 45 to vary the society’s Part IV permission in order to continue in effect the requirement having effect under paragraph (1).
+
+### Prohibitions and restrictions under the 2BCD and ISD Regulations
+
+#### 52. Prohibitions and restrictions under regulations 9, 10 and 15 of the 2BCD Regulations and regulation 9 of the ISD Regulations[^key-c900ad79b89bf7aac58a440edd1f90b5]
+
+(1) Where immediately before commencement a person was subject to a prohibition or restriction imposed (or deemed to be imposed) under regulation 9, 10, or 15 of the 2BCD Regulations or regulation 9 of the ISD Regulations, the prohibition or restriction has effect after commencement as if it were a requirement imposed on him under section 196.
+
+(2) In the case of a limited prohibition, a requirement having effect by virtue of this article is to be taken to be framed so as to expire when (but for the revocation of those Regulations) the prohibition would have expired.
+
+(3) A limited prohibition means a prohibition which was framed so as to expire at the end of a specified period or on the occurrence of a specified event or on compliance with specified conditions.
+
+(4) Where a requirement which by virtue of this article has effect as if imposed under section 196—
+
+- (a) was originally imposed, or was varied, in a case where regulation 11 or 17 of the 2BCD Regulations or regulation 11 of the ISD Regulations applied; and
+- (b) was imposed or varied as a matter of urgency under regulation 11(5) or 17(5) of the 2BCD Regulations or regulation 11(5) of the ISD Regulations,
+
+it is to be treated as if section 199 had applied in its case and it had been imposed as mentioned in section 199(8)(a).
+
+#### 53. Prohibitions and restrictions under regulations 18 and 19 of the 2BCD Regulations and regulations 15 and 16 of the ISD Regulations[^key-701207a0103a61dea1e3cca04b4f8160]
+
+(1) Where immediately before commencement a person was subject to a prohibition imposed under regulation 18 of the 2BCD Regulations or regulation 15 of the ISD Regulations—
+
+- (a) the prohibition has effect after commencement as if it were a prohibition imposed on him by the Director General of Fair Trading under section 203(1); and
+- (b) the reference in paragraph 15(3) of Schedule 3 to the Director’s having exercised the power conferred by section 203 is to be read accordingly.
+
+(2) Accordingly, the reference in subsection (5) of section 203 to the notice given under subsection (1) includes a reference to the notice imposing the prohibition.
+
+(3) Where immediately before commencement a person was subject to a restriction imposed under regulation 19 of the 2BCD Regulations or regulation 16 of the ISD Regulations, the restriction has effect after commencement as if it were a restriction imposed on him under section 204.
+
+(4) Where paragraph (1) or (3) of this article applies, any direction given under paragraph 2(3) of Schedule 5 to the 2BCD or ISD Regulations which was effective immediately before commencement has effect after commencement as if given under paragraph 2(3) of Schedule 16.
+
+(5) If a prohibition or restriction imposed before commencement as mentioned in paragraph (1) or (3) has, by reason of paragraph 2(4) of Schedule 5 to the 2BCD or ISD Regulations, not come into force before commencement—
+
+- (a) the fact that it has not come into force does not prevent a person from being treated as subject to the prohibition or restriction for the purposes of paragraph (1) or (as the case may be) (3) of this article; and
+- (b) this article is not to be taken to alter the date when the prohibition or restriction takes effect.
+
+### Supplemental
+
+#### 54. Supplemental[^key-c4dbece355bc655adf824fed7b75a1b6]
+
+(1) Section 43(5) (and, in consequence, (6)) does not apply in relation to a requirement under section 43 or 196 having effect by virtue of any provision of this Part or of article 3(4) or 28(5).
+
+(2) Where a pre-commencement requirement was framed so as to come into effect at a time after commencement—
+
+- (a) that fact does not prevent a person from being subject to the requirement for the purposes of this Order; and
+- (b) nothing in this Order is to be taken as altering the time when the requirement is to come into effect.
+
+(3) Where—
+
+- (a) a pre-commencement requirement was varied before commencement; but
+- (b) the variation had not taken effect before commencement,
+
+the variation takes effect on the date when (but for the repeal or revocation of the provision under which the variation was made) it would have taken effect.
+
+(4) In this article, “pre-commencement requirement” means any prohibition, requirement, restriction or direction imposed before commencement as mentioned in any provision of this Part, any suspension of authorisation as mentioned in article 3(3) and any direction as mentioned in article 28(1).
+
+## PART IV — SCOPE OF PERMISSION: PROCEDURE
+
+### 55. Notice of scope of permission[^key-eec9af1a635e3d1a2f28367b445b72d8]
+
+(1) The Authority must give notice in accordance with paragraph (2) (in this Part referred to as a “scope of permission notice”) to each person who has a Part IV permission by virtue of this Order.
+
+(2) A scope of permission notice must be in writing and must—
+
+- (a) specify the regulated activity or activities the Authority considers the person has a Part IV permission to carry on at commencement, described in such manner as the Authority considers appropriate;
+- (b) specify all the requirements (if any) under section 43 to which the Authority considers he is subject at commencement.
+
+(3) A scope of permission notice must be given as soon as reasonably practicable and, except in respect of a person who gives notice to the Authority in accordance with article 5(3), the Authority must use its best endeavours to send out the notices before commencement.
+
+(4) For the purpose of determining the description of the Part IV permission in accordance with paragraph (2)—
+
+- (a) the person to whom the notice is given must be treated as satisfying the threshold conditions in relation to all of the regulated activities which he has, by virtue of Chapter I of Part II of this Order, permission to carry on at commencement, having regard to all the requirements under section 43 to which he is subject by virtue of Part III of this Order;
+- (b) the Authority must not consider any material relating to the matters set out in section 45(1).
+
+(5) Subject to paragraph (4), where an authorisation conferred before commencement by a provision referred to in Chapter I of Part II of this Order circumscribed the activity to which the authorisation related in a particular way, the Authority may specify in the scope of permission notice a permission which is not so circumscribed provided that it also specifies in the notice a requirement imposed under section 43 which achieves the same effect.
+
+(6) In relation to a person falling within article 5(1), the scope of permission notice may take into account any indication given by that person which is contained in the notice given pursuant to paragraph (5) of that article.
+
+### 56. Responding to the scope of permission notice[^key-10a9f60498134145fa178cc35e7e99af]
+
+(1) A scope of permission notice must specify a period of not less than three months from the date on which the notice is given as the period within which the recipient must notify the Authority either—
+
+- (a) that he agrees with the matters stated in the notice; or
+- (b) that for specified reasons he disagrees with the matters stated in the notice.
+
+(2) A person who receives a scope of permission notice must notify the Authority in accordance with paragraph (1) within the period specified in the notice.
+
+(3) A scope of permission notice may be withdrawn and replaced by another such notice at any time before notification has been given under paragraph (2) as respects the first notice.
+
+### 57. Scope of permission where person agrees with notice[^key-c6cf1ebb041241037e891ce85093deb0]
+
+(1)[^key-a1f5e0c13e704055b4b23c1b41427154][^key-27159b6fe7ccabe954a04c1220f6facb][^key-4c4746cdbba8ce5711f23344bf79f9b2][^key-b35a6dc16d82a0fe394ed9310b4b79fd] Where a scope of permission notice has been given to a person under article 55 and he notifies the Authority that he agrees with the matters stated in the notice then—
+
+- (a) the regulated activities the person has permission under Part IV to carry on at commencement, and
+- (b) the requirements (if any) to which he is subject under section 43 at commencement,
+
+are, notwithstanding anything in any other provision of this Order, to be taken to be as stated in the scope of permission notice.
+
+(2) If a scope of permission notice given to a person under article 55 is withdrawn before he notifies agreement, paragraph (1) does not apply in relation to that notice.
+
+### 58. Final view notices[^key-650df32bf75510ae09c7e113fc7b62c3]
+
+(1) Where a scope of permission notice has been given to a person and either—
+
+- (a) he notifies the Authority that he disagrees with any of the matters stated in the notice; or
+- (b) he fails to notify the Authority as required by article 56(2),
+
+the Authority must within a reasonable period after receiving the notification or the expiry of the period allowed for notification (whichever is earlier) give the person a further notice (a “final view notice”).
+
+(2) A final view notice must set out the Authority’s final view on—
+
+- (a) the regulated activity or activities the Authority considers the person has a Part IV permission to carry on at commencement, described in such manner as the Authority considers appropriate; and
+- (b) the requirements (if any) under section 43 to which he is subject at commencement.
+
+(3) Article 55(4) to (6) applies to a final view notice as it applies to a scope of permission notice.
+
+(4) The person may refer the final view notice to the Tribunal.
+
+(5) A final view notice must be in writing and must give an indication of the person’s right to have the matter referred to the Tribunal and of the procedure on such a reference.
+
+(6) Sections 133 and 137 apply in relation to a reference under this article, but as if—
+
+- (a) the reference in section 133(1) to the Act were a reference to this article;
+- (b) the reference in section 133(1)(a) to the decision notice or supervisory notice were a reference to the final view notice; and
+- (c) section 133(4) to (12) were omitted.
+
+### 59. Scope of permission following final view notice[^key-cc869553a13e6d3aa5937efc94518a2c]
+
+(1) This article applies where a final view notice is given under article 58(1) and either the person notifies the Authority that he agrees with the final view notice, or no reference to the Tribunal is made under article 58(4) within the period allowed for such a reference.
+
+(2) In a case where this article applies, with effect from the date on which the person notifies his agreement with the final view notice or from the end of the period allowed for reference to the Tribunal (whichever is earlier)—
+
+- (a) the regulated activities the person has permission under Part IV to carry on at commencement; and
+- (b) the requirements (if any) to which he is subject under section 43 at commencement,
+
+are, notwithstanding anything in any other provision of this Order, to be taken to be as stated in the final view notice.
+
+### 60. Scope of permission where reference is made to the Tribunal[^key-3546f870d15bb8d841255746e0407f49]
+
+(1) On a reference under article 58 the Tribunal must determine the question whether the Authority’s view as stated in the final view notice was appropriate having regard to article 55(4) to (6).
+
+(2) Where the Tribunal determines that the Authority’s view as stated in the final view notice was appropriate, with effect from the date of that determination—
+
+- (a) the regulated activities the person has permission under Part IV to carry on at commencement; and
+- (b) the requirements (if any) to which he is subject under section 43 at commencement,
+
+are, notwithstanding anything in any other provision of this Order, to be taken to be as stated in the final view notice.
+
+(3) Where the Tribunal determines that the Authority’s view, as stated in the final view notice was not appropriate, the Tribunal must remit the matter to the Authority with such directions as the Tribunal thinks fit as to the scope of the person’s permission.
+
+(4) The Authority must issue a further notice in accordance with the determination of, and any direction given by, the Tribunal setting out—
+
+- (a) the regulated activity or activities the person has permission under Part IV to carry on at commencement, described in such manner as the Authority considers appropriate;
+- (b) the requirements (if any) to which he is subject under section 43 at commencement,
+
+and, with effect from the date of that notice, those matters are to be taken to be as stated in that notice, notwithstanding anything in any other provision of this Order.
+
+### 61. Information for public file of mutual society[^key-7ec12a2bb86e084a18659deb7bee9ff9]
+
+(1) The Authority must keep in the public file of a society a copy of any—
+
+- (a) scope of permission notice;
+- (b) notification by the society under article 56;
+- (c) final view notice;
+- (d) further notice given by the Authority under article 60(4),
+
+given to the society in accordance with this Part.
+
+(2) The Authority must make a note on the public file of a society to the effect that any future changes in the society’s Part IV permission will be recorded on the public record which the Authority is required to keep under section 347.
+
+(3) In this article, the “public file” means—
+
+- (a) for a friendly society, the file maintained pursuant to section 104 of the Friendly Societies Act;
+- (b) for a building society, the file maintained pursuant to section 106 of the Building Societies Act.
+
+### 62. Application of section 20[^key-613d58c5f406eba8675a1a7ff56b2073]
+
+(1) Subject to paragraphs (2) and (5), where—
+
+- (a) the period specified in a scope of permission notice for the purposes of article 56(1) expires on a date which falls more than two months after commencement; and
+- (b) the recipient of the notice notifies the Authority that he agrees or disagrees in accordance with article 56(2),
+
+section 20 does not apply to the carrying on by that recipient of a regulated activity during the period between commencement and the date on which the recipient so notifies the Authority.
+
+(2) Paragraph (1) applies only to a regulated activity which the recipient of the notice was carrying on before commencement.
+
+(3) Subject to paragraphs (4) and (5), where an authorised person notifies the Authority under article 56(2) that he disagrees with the scope of permission notice given to him, section 20 does not apply to the carrying on by that person of a regulated activity—
+
+- (a) during the period between commencement and the date when the right to refer the final view notice to the Tribunal under article 58(4) expires (in a case where no such reference is made); or
+- (b) during the period between commencement and the issue of the Authority’s notice under article 60(4) (in a case where the final view notice is referred to the Tribunal).
+
+(4) Paragraph (3) applies only where the person reasonably believed that the final view notice or the notice given under article 60(4) (as the case may be) would specify that he had permission to carry on that regulated activity.
+
+(5) This article does not apply (and therefore section 20 does apply) to the carrying on of a regulated activity in contravention of a provision which was included in the recipient’s Part IV permission by virtue of a variation of that permission under section 44, 45 or 46.
+
+### 63. Requirement to reapply for Part IV permission[^key-caf55fa2dc71b1415551ad83e7f08041]
+
+(1) At any time during the period of two years beginning with commencement, the Authority may give a direction under this article in relation to a class of persons—
+
+- (a) which is specified in the direction; and
+- (b) which is a class of persons who have a Part IV permission by virtue of this Order.
+
+(2) A direction under this article is a direction that each person falling within the class specified in the direction must, before a date so specified, apply to the Authority under section 40 for a fresh permission to carry on the regulated activities which he wishes to carry on.
+
+(3) Section 40(2) does not apply in relation to an application made in pursuance of the direction.
+
+(4) If a person falling within the specified class fails to comply with the direction, his Part IV permission ceases to have effect on the date specified under paragraph (2).
+
+(5) If a person complies with the direction but the application which he makes in pursuance of it is refused, his Part IV permission ceases to have effect when the application is decided.
+
+(6) If a person complies with the direction and in response to his application the Authority gives him a Part IV permission, that permission has effect, from the time when the application is decided, in place of the Part IV permission which he had by virtue of this Order.
+
+(7) For the purposes of this article, an application is decided when it has been determined and there is no possibility (or no further possibility) of the determination being reversed or varied on a reference to a tribunal or an appeal.
+
+### 64. Requirement to reapply: procedure[^key-671db924d9bab0994739b5fe4466cb1b]
+
+(1) A direction given under article 63 must state the reasons why it has been given to the class of persons specified in the direction.
+
+(2) The date specified in the direction under article 63(2) must be such as to allow a reasonable time for compliance, and in any event must fall after the end of three months beginning with the date when the direction is given.
+
+(3) If the Authority gives a direction under article 63, it must as soon as practicable, and in any event not later than the due date, give a copy to each person falling within the class specified in the direction.
+
+(4) “The due date” means the date three months before the date specified in the direction.
+
+(5) If there is a person falling within that class to whom the Authority fails to give a copy by the due date, the direction does not apply to him (and therefore article 63(4) does not apply to him) but if the Authority gives him a copy of the direction after the due date, the direction has effect in relation to him as if the date specified in it under article 63(2) were three months after the date on which the copy was given to him, and the copy must indicate that fact.
+
+(6) Any failure by the Authority to comply with paragraph (3) does not invalidate the direction in relation to any person to whom a copy is given in accordance with that paragraph.
+
+## PART V — COLLECTIVE INVESTMENT SCHEMES
+
+### CHAPTER 1 — authorisation and recognition of schemes
+
+#### 65. Authorised unit trust schemes[^key-a4d3157538ecc8e7fecbb66887edf4a7]
+
+(1) Where—
+
+- (a) immediately before commencement, an order made under section 78(1) of the Financial Services Act (or having effect as if so made) was in force as respects a scheme; and
+- (b) that scheme is a unit trust scheme within the meaning of section 237,
+
+the order has effect after commencement as if it were an authorisation order made under section 243(1).
+
+(2) In relation to any such order, the reference in section 254(1)(a) to the requirements for the making of the order are to be read as a reference to the requirements for the making of an order under section 243.
+
+(3) Any certificate issued under—
+
+- (a) section 78(8) of the Financial Services Act; or
+- (b) the Financial Services (Authorised Unit Trust Scheme) (Certificate of Compliance) Regulations 1989[^f00031],
+
+which was in force immediately before commencement has effect after commencement as if it had been issued under section 246.
+
+#### 66. Schemes constituted in other EEA States[^key-0685073874a481411c64cafc9ff47d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 67. Schemes authorised in designated countries or territories[^key-ea8c2d7db9f5a9a21ecdfe5a7e6306ff]
+
+(1)[^key-07e0b2ddb91d217bb5dd46a6d04118cc] An order under section 87(1) of the *(affected by repeal, see note)*[^key-07e0b2ddb91d217bb5dd46a6d04118cc] Financial Services Act *(affected by repeal, see note)*[^key-07e0b2ddb91d217bb5dd46a6d04118cc] which was in force immediately before commencement has effect after commencement as if it were an order made by the Treasury under section 270(1). *(affected by repeal, see note)*[^key-07e0b2ddb91d217bb5dd46a6d04118cc]
+
+(2) Where—
+
+- (a) immediately before commencement a scheme was a recognised scheme for the purposes of section 87 of the Financial Services Act;
+- (b) that scheme is managed in and authorised under the law of a country or territory which is designated for the purposes of section 270 by an order made under section 270(1) (including an order having effect as so made by reason of paragraph (1)); and
+- (c) the scheme is of a class specified in the order referred to in sub-paragraph (b),
+
+the scheme is to be treated after commencement as a recognised scheme under section 270.
+
+(3) Without prejudice to article 70, where immediately before commencement, a scheme would have been a recognised scheme under section 87 of the Financial Services Act but for a direction given under section 91(5) of that Act, this article applies as if the direction had not been given.
+
+#### 68. Individually recognised overseas schemes[^key-3143546dadd2d696f4bb8feea7a9329b]
+
+(1) Where—
+
+- (a) immediately before commencement, an order made under section 88(1) of the Financial Services Act was in force in relation to a scheme; and
+- (b) that scheme is a collective investment scheme which is managed in a country or territory outside the United Kingdom within the meaning of section 272,
+
+the order has effect after commencement as if it were an order made under section 272(1) declaring the scheme to be a recognised scheme under section 272.
+
+(2) In relation to any such order, the reference in section 279(c) to the requirements for the making of the order are to be read as a reference to the requirements for the making of an order under section 272.
+
+(3) Without prejudice to article 71, where immediately before commencement, a scheme would have been a recognised scheme under section 88 of the Financial Services Act but for a direction given under section 91(5) of that Act, this article applies as if the direction had not been given.
+
+### CHAPTER II — directions imposed on schemes
+
+#### 69. Directions imposed on authorised unit trust schemes[^key-a649f81111b1552ee0f430bbe1c00286]
+
+(1) Where—
+
+- (a) a direction under section 91(2) of the Financial Services Act was in force in relation to a unit trust scheme immediately before commencement (whether or not the authorisation order has been revoked before commencement); and
+- (b) the scheme to which the direction relates is a unit trust scheme within the meaning of section 237,
+
+that direction has effect after commencement as if it were a direction given under section 257(1) to the same effect.
+
+(2) Where a direction was imposed under section 91(2) of the Financial Services Act and the notice imposing it (given under section 92(1) of that Act) specifies that the direction is to take effect on a date falling after commencement—
+
+- (a) that fact does not prevent the operation of paragraph (1); and
+- (b) the repeal of the Financial Services Act does not alter the date on which the direction takes effect.
+
+(3) Where—
+
+- (a) an application has been made under section 91(8) of the Financial Services Act to revoke or vary a direction given under section 91(2) of that Act;
+- (b) that application has not been decided before commencement;
+- (c) the direction to which it relates is one having effect after commencement as a direction given under section 257(1) by virtue of paragraph (1),
+
+the application has effect after commencement as an application under section 257(6) to revoke or vary a direction given under section 257.
+
+(4) For the purposes of paragraph (3) an application is decided when it has been determined and there is no possibility (or no further possibility) of the determination being reversed or varied on a review or appeal.
+
+#### 70. Directions imposed on schemes authorised in designated countries or territories[^key-80353e6724d9be409fa83593ff65598e]
+
+Where—
+
+- (a) a direction given under section 91(5) of the Financial Services Act is in force immediately before commencement in relation to a scheme recognised under section 87 of that Act; and
+- (b) the scheme is by virtue of article 67 treated as a scheme recognised under section 270,
+
+that direction has effect after commencement as a direction given under section 281 that the scheme is not to be a recognised scheme under section 270 for the period specified in the notice, or until the occurrence of the event specified in the notice or until the conditions specified in the notice are complied with (taking into account any variation of the direction made under section 91(8) of the Financial Services Act).
+
+#### 71. Directions imposed on individually recognised schemes[^key-d231eb0fa67a022bb8a6e4aa5ce730b4]
+
+Where—
+
+- (a) a direction given under section 91(5) of the Financial Services Act is in force immediately before commencement in relation to a scheme recognised under section 88 of that Act;
+- (b) the scheme is by virtue of article 68 treated as a scheme recognised under section 272,
+
+that direction takes effect after commencement as a direction given under section 281 that the scheme is not to be a recognised scheme under section 272 for the period specified in the notice, or until the occurrence of the event specified in the notice or until the conditions specified in the notice are complied with (taking into account any variation of the direction made under section 91(8) of the Financial Services Act).
+
+## PART VI — APPROVED PERSONS
+
+### 72. General rule[^key-a85381c09ee691b0df16d3192002c5a3]
+
+(1) Subject to paragraph (2), where at commencement a person (“E”) is performing a function for a person (“A”) under an arrangement entered into by A or by a contractor of A, then if E’s continued performance of that function after commencement would, but for this article, require the approval of the Authority under section 59(1) or (2), then that continued performance by E of that function after commencement is to be taken to have been approved by the Authority for the purposes of section 59.
+
+(2) Paragraph (1) does not apply if—
+
+- (a) a notice of objection had been served on the person under—
+  - (i) regulation 42 of the ISD Regulations;
+  - (ii) section 22(1) or 24(1) of the Banking Act;
+  - (iii) paragraph 2(2) or 4(1) of Schedule 2D to the Insurance Companies Act;
+  - (iv) paragraph 4(2) or 6(1) of Schedule 13A to the Friendly Societies Act;
+- (b) immediately before commencement, the performance by E of that function would have constituted a contravention of a rule of a recognised self-regulating organisation to which either E or A was subject.
+
+### 73. Persons previously approved subject to conditions[^key-11ea0f04539fdb352fbbe7388c9b8388]
+
+(1) This article applies in relation to an arrangement falling within article 72(1) if—
+
+- (a) the performance by E of the function to which the arrangement relates was approved by a recognised self-regulating organisation subject to conditions and that approval was effective immediately before commencement; or
+- (b) the Authority had served a notice under paragraph 3(2) or (3) of Schedule 2D to the Insurance Companies Act or under paragraph 5(2) of Schedule 13A to the Friendly Societies Act specifying conditions with which E or A must comply and those conditions were effective immediately before commencement.
+
+(2) An arrangement falling within paragraph (1)(a) is not to be taken to be excluded from article 72 by paragraph (2)(b) of that article, even if there has been a breach of the conditions mentioned in paragraph (1) of this article.
+
+(3) But where this article applies, any approval which has effect by virtue of article 72(1) is not to be taken to extend to approval of anything that, had it been done before commencement, would have breached any of the conditions mentioned in paragraph (1) of this article.
+
+### 74. Appointment approved but not taken up before commencement: section 60 of the Insurance Companies Act[^key-3133bd758afa75fd9e0b7edaa4cc4751]
+
+(1) This article applies to an appointment where—
+
+- (a) a notice has been given under section 60(1)(a) of the Insurance Companies Act in respect of a proposed appointment;
+- (b) the notice has not, before commencement, ceased to be effective for the purposes of section 60(1) of that Act;
+- (c) the appointment has not taken effect before commencement; and
+- (d) the performance, after commencement, by the proposed managing director or chief executive of the functions of that post requires the approval of the Authority under section 59.
+
+(2) If, before commencement, in relation to an appointment to which this article applies—
+
+- (a) a notice was given under paragraph (b) of section 60(1) of the Insurance Companies Act stating that there is no objection to the appointment; or
+- (b) the period mentioned in that paragraph elapsed without a notice of objection being given in relation to the appointment,
+
+the appointment is to be taken to have been approved by the Authority under section 59 provided that the person takes up the appointment within the period mentioned in paragraph 1(4) of Schedule 2D to the Insurance Companies Act.
+
+### 75. Appointment approved but not taken up before commencement: section 61 of the Insurance Companies Act[^key-bb21c3d02685db5896271d2d986860f4]
+
+(1) This article applies to a controllership where—
+
+- (a) a notice has been given under section 61(1)(a) of the Insurance Companies Act in respect of the proposed controllership;
+- (b) the notice has not, before commencement, ceased to be effective for the purposes of section 61(1) of that Act;
+- (c) the controllership has not taken effect before commencement; and
+- (d) the performance, after commencement, by the proposed controller of the functions of that post requires the approval of the Authority under section 59.
+
+(2) If, before commencement—
+
+- (a) a notice was given under paragraph (b) of section 61(1) of the Insurance Companies Act stating that there is no objection to the controllership; or
+- (b) the period mentioned in that paragraph elapsed without a notice of objection being given in relation to the controllership,
+
+that controllership is to be taken to have been approved by the Authority under section 59(1) provided that the person takes up the controllership within the period mentioned in paragraph 1(4) of Schedule 2D to the Insurance Companies Act.
+
+### 76. Appointment of partner approved but not taken up before commencement[^key-d6ee5c7f3bb2f89fd3474a42926ae0e7]
+
+(1) This article applies where—
+
+- (a) a notice was served under section 21(2) of the Banking Act or regulation 41(2) of the ISD Regulations in respect of the proposed appointment of a partner;
+- (b) the appointment had not taken effect before commencement; and
+- (c) the performance, after commencement, by the proposed partner of the functions of that post requires the approval of the Authority under section 59.
+
+(2) If, before commencement—
+
+- (a) a notice was given under section 21(1)(b) of the Banking Act or regulation 41(1)(b)(i) of the ISD Regulations stating that there was no objection to the appointment;
+- (b) the period mentioned in that section or regulation had elapsed without notice of objection being given in relation to the appointment; or
+- (c) a notice of objection had been served but had been quashed on appeal,
+
+the appointment is to be taken to have been approved by the Authority under section 59 provided that the person takes up the appointment within the period mentioned in section 21(5) of the Banking Act or regulation 41(5) of the ISD Regulations (as the case may be).
+
+## PART VII — OTHER TRANSITIONAL STATUS AFTER COMMENCEMENT
+
+### 77. UK firms with “passports” before commencement[^key-a9534b61a3dbf5c6b721db04c507670a][^M_C_834e57c5-a1ee-47c1-816d-f883d3d75e1c]
+
+(1) This article applies to a UK firm within the meaning of Schedule 3.
+
+(2) If, before commencement, the requirements of—
+
+- (a) paragraph 1 of Schedule 6 to the 2BCD Regulations;
+- (b) paragraph 1 of Schedule 6 to the ISD Regulations;
+- (c) paragraph 1 of Schedule 2G to the Insurance Companies Act; or
+- (d) paragraph 1 of Schedule 13B to the Friendly Societies Act,
+
+were complied with in relation to the establishment of a branch by the firm in an EEA State, the conditions in sub-paragraphs (2) to (5) of paragraph 19 of Schedule 3 are to be treated as satisfied in relation to the establishment of the branch (subject to any pre-commencement changes).
+
+(3) In paragraph (2), “pre-commencement changes” means any changes relating to the branch in respect of which the requirements of—
+
+- (a) paragraph 5 of Schedule 6 to the 2BCD Regulations;
+- (b) paragraph 6 of Schedule 6 to the ISD Regulations;
+- (c) paragraph 2 or 3 of Schedule 2G to the Insurance Companies Act; or
+- (d) paragraph 2 or 3 of Schedule 13B to the Friendly Societies Act,
+
+were complied with before commencement.
+
+(4) If, before commencement, the requirements of—
+
+- (a) paragraph 1 of Schedule 6 to the 2BCD Regulations;
+- (b) paragraph 1 of Schedule 6 to the ISD Regulations;
+- (c) paragraph 5 of Schedule 2G to the Insurance Companies Act; or
+- (d) paragraph 5 of Schedule 13B to the Friendly Societies Act,
+
+were complied with in relation to the firm’s provision of services in an EEA State, the condition in paragraph 20(1) of Schedule 3 is to be treated as satisfied in relation to its provision of those services in that State (subject to any pre-commencement changes).
+
+(5) In paragraph (4), “pre-commencement changes” means any changes relating to the provision of the services in respect of which the requirements of—
+
+- (a) paragraph 5 of Schedule 6 to the ISD Regulations;
+- (b) paragraph 6 of Schedule 2G to the Insurance Companies Act; or
+- (c) paragraph 6 of Schedule 13B to the Friendly Societies Act,
+
+were complied with before commencement.
+
+(6) Where paragraph (4) applies by reason of compliance with the requirements of—
+
+- (a) paragraph 5 of Schedule 2G to the Insurance Companies Act; or
+- (b) paragraph 5 of Schedule 13B to the Friendly Societies Act;
+
+then a consent notice is deemed to have been given by the Authority under paragraph 20(3A)(a) of Schedule 3 and the notice required by paragraph 20(4B) of that Schedule[^f00032] is deemed to have been received by the firm.
+
+(7) References in this article to compliance with any requirements of Schedule 6 to the 2BCD or ISD Regulations, Schedule 2G to the Insurance Companies Act or Schedule 13B to the Friendly Societies Act include references to deemed compliance by virtue of—
+
+- (a) paragraph 2 of Schedule 11 to the 2BCD Regulations or ISD Regulations;
+- (b) regulation 70 of the 31D Regulations;
+- (c) regulation 15 of the Friendly Societies Act 1992 (Amendment) Regulations 1994[^f00033]; or
+- (d) regulation 7 of the Friendly Societies (Amendment) Regulations 1997[^f00034].
+
+### 78. Disqualification of auditors[^key-8a1c9896777b7cc82ea0edabafe896ea]
+
+Where, at commencement, an auditor has been disqualified pursuant to section 111(3) of the Financial Services Act or section 21A(5) of the Insurance Companies Act, the disqualification has effect after commencement as disqualifying the auditor under section 345 from acting as auditor for any person—
+
+- (a) for whom he was disqualified from acting immediately before commencement; and
+- (b) who is an authorised person on commencement.
+
+### 79. Employment of prohibited persons: disqualification directions[^key-f40e8e7d7d4d6bf863267c77fb1fd235]
+
+(1) Where, at commencement—
+
+- (a) a person (“A”) is the subject of a disqualification direction made under section 59 of the Financial Services Act;
+- (b) the kinds of investment business which A is prohibited from engaging in by that direction include functions in relation to regulated activities within the meaning of section 56; and
+- (c) the persons by whom A is prohibited from being employed include one or more persons authorised under the Act,
+
+the direction has effect after commencement as a prohibition order made under section 56.
+
+(2) A prohibition order having effect under paragraph (1)—
+
+- (a) is to be treated as prohibiting A from performing any functions in relation to regulated activities which correspond to the kinds of investment business covered by the disqualification direction before commencement;
+- (b) is to be treated as prohibiting A from performing those functions for any person who was covered by the disqualification direction before commencement and is an authorised person after commencement,
+
+taking into account, in both cases, any consent given by the Authority under section 59(3) of the Financial Services Act.
+
+(3)[^key-0dfb8b51fe4b929d50f10216b43c20cc] Paragraph (4) applies where—
+
+- (a) a person (“I”) is subject to a prohibition order having effect under paragraph (1); and
+- (b) information about I has been placed on the record maintained in accordance with section 347(1)(g) as required by section 347(2) (“transitional information”).
+
+(4) Subsections (5) and (6) of section 347 apply to the record to the extent that it comprises transitional information—
+
+- (a) as if subsection (5)(a) required the Authority to exclude the transitional information from the record made available for inspection unless—
+  - (i) the person seeking to inspect the record has asked the Authority whether I is subject to a prohibition order; or
+  - (ii) the Authority is otherwise satisfied that the person has a good reason for seeking to inspect the transitional information;
+- (b) as if subsection (5)(b) required the Authority to exclude the transitional information from any certified copy of the record provided in accordance with that subsection;
+- (c) as if subsection (5)(b) further provided that the Authority may only provide a certified copy of the part of the record containing the transitional information if—
+  - (i) the person requesting the copy of that part has asked the Authority whether I is subject to a prohibition order; or
+  - (ii) the Authority is otherwise satisfied that the person has good reason for requesting a copy of the part of the record which includes the transitional information;
+- (d) as if subsection (6) did not apply to the record in so far as it contains the transitional information.
+
+(5) Paragraph (4) applies to transitional information until 18 January 2002 or, if on or before that date, I applies to the Authority under section 58 for the revocation of the prohibition order, then until that application is determined and there is no possibility (or no further possibility) of the determination being reversed or varied on a reference to the Tribunal or an appeal.
+
+### 80. International securities self-regulating organisations[^key-b58e0b3ca16c7cc81781ee63c90de1e6]
+
+An organisation which was, immediately before commencement, approved under paragraph 25B of Schedule 1 to the Financial Services Act is to be treated after commencement as approved under article 35 of the Regulated Activities Order.
+
+Anne McGuire
+
+Tony McNulty
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+(This note does not form part of the Order)
+
+This Order sets out the transitional arrangements for ensuring that people who have been authorised to carry on particular business under the various regulatory regimes replaced by the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (“the Act”) are treated as authorised persons with the appropriate permission for the purposes of that Act. The current regulatory regimes covered by this Order are the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), the Insurance Companies Act [1982 (c. 50)](https://www.legislation.gov.uk/ukpga/1982/50), the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), the Banking Coordination (Second Council Directive) Regulations 1992 (S.I. [1992/3218](https://www.legislation.gov.uk/uksi/1992/3218)) and the Investment Services Regulations 1995 (S.I. [1995/3275](https://www.legislation.gov.uk/uksi/1995/3275)).
+
+Part I of the Order specifies the commencement dates for different provisions of the Order and defines certain terms used in the Order.
+
+Part II provides that people who are authorised or exempted from the need for authorisation under certain provisions of the current regulatory regimes are treated, on the commencement of the Act, has having permission to carry on the activities they were able lawfully to carry on immediately before commencement by reason of that authorisation or exemption. Chapter II of this Part provides that EEA firms who have complied with the procedure for exercising their passporting rights into the United Kingdom are treated as having complied with the procedures in Schedule 3 to the Act.
+
+Part III provides that prohibitions and restrictions imposed under certain provisions in the current regulatory regimes on authorised people are carried forward after commencement as if they were requirements imposed under section 43 of the Act (in relation to people with a Part IV permission) or under section 196 of the Act (in relation to people with a permission under Schedule 3 or 4 to the Act).
+
+Part IV of the Order sets out the procedure to be undergone before commencement to clarify the scope of any permission conferred on a person by the transitional provisions and to determine any disputes over that scope between the authorised person and the Financial Services Authority. The Authority has a duty to issue notices of scope to each authorised person setting out its view of what permission the person has at commencement. A person who disagrees with the Authority’s view set out in the notice may make representations and, if the issue is not resolved, may refer the matter to the Financial Services and Markets Tribunal. Once the notice of scope is settled either by agreement or by the Tribunal, the content of that notice is conclusive as to the scope of permission at commencement.
+
+Part V covers the status after commencement of collective investment schemes which were authorised or recognised under Chapter VIII of Part I of the Financial Services Act. The authorised or recognised status of such schemes is carried forward as if it had been conferred under the corresponding provision in Part XVII of the Act.
+
+Part VI makes transitional provisions for people working for authorised persons who will be covered by the regime for approved persons in Part V of the Act after commencement. Where someone is working for an authorised person before commencement in a post for which they would need to be approved under Part V after commencement, that person is treated has having been approved for the purpose of working in that post. This deemed approval applies unless the person was working before commencement in contravention of certain provisions of the current regulatory rules or of rules made by a self-regulating organisation. The articles also carry forward approvals given under the Insurance Companies Act 1982 and the Banking Act 1987 where the person approved did not take up the appointment before commencement.
+
+Part VII covers the status of other people covered by the Act. Article 77 concerns firms established in the United Kingdom who have, before commencement, exercised their rights under one of the single market directives to establish a branch or provide services in another EEA member State. Firms who have exercised these rights are treated as if they had exercised rights under the corresponding provisions in Schedule 3 to the Act. Article 78 provides that an auditor who was disqualified from acting under previous legislation is treated as having been disqualified under the Act and similarly, article 51 provides that a person prohibited from working for an authorised person under previous legislation is treated as subject to a prohibition order under section 56 of the Act. Article 80 carries forward the status of international securities self-regulating organisations.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-43493ac79ed7093189004c1b41a306f7]: Modification: [Order](https://www.legislation.gov.uk/uksi/2001/2636) applied (31.10.2001) by [The Financial Services and Markets Act 2000 (Interim Permissions) Order 2001 (S.I. 2001/3374)](https://www.legislation.gov.uk/uksi/2001/3374), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3374/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2001/3374/article/9/2)
+
+[^key-0659eb2b1db2da5dd9f092deab742813]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/2636/article/1) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-03e723dc9e875fda54e441ad4ee7fa9e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/2636/article/2) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^f00002]: Footnote: S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^f00003]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22).
+
+[^f00004]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^f00005]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
+
+[^f00006]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
+
+[^f00007]: Footnote: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50).
+
+[^f00008]: Footnote: S.I. [1992/3218](https://www.legislation.gov.uk/uksi/1992/3218) amended by S.I. [1993/3225](https://www.legislation.gov.uk/uksi/1993/3225), S.I. [1995/1217](https://www.legislation.gov.uk/uksi/1995/1217), S.I. [1995/1442](https://www.legislation.gov.uk/uksi/1995/1442), S.I. [1996/1669](https://www.legislation.gov.uk/uksi/1996/1669), S.I. [1999/2094](https://www.legislation.gov.uk/uksi/1999/2094) and S.I. [2000/2952](https://www.legislation.gov.uk/uksi/2000/2952).
+
+[^f00009]: Footnote: S.I. [1995/3275](https://www.legislation.gov.uk/uksi/1995/3275) amended by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11) and by S.I. [1996/1669](https://www.legislation.gov.uk/uksi/1996/1669) and S.I. [2000/2952](https://www.legislation.gov.uk/uksi/2000/2952).
+
+[^f00010]: Footnote: S.I. [1994/1696](https://www.legislation.gov.uk/uksi/1994/1696).
+
+[^key-a1d99b647542d1cfcc29fb9f2cd8e241]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/2636/article/3) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-2e0e42c6b2e82adf071036ad45a9823f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/2636/article/4) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-e5bf994030c2d7689fe621a121eda0d8]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2001/2636/article/5) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-f3050e6decd04b71aaa0c2fd12c200ca]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2001/2636/article/6) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-c378dfe16590f9f2738160917fc51a17]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2001/2636/article/7) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00011]: Footnote: [1982 c. 14](https://www.legislation.gov.uk/ukpga/1982/14).
+
+[^key-f6df142eefd8e7aaaaa6cab6e4b21fd2]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2001/2636/article/8) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-d3f442a6afe564331db103106a0f8a3b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2001/2636/article/9) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-60042bb90fa0b954710909d45bac04bc]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2001/2636/article/10) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-affd89c6c2b719743a981898d1437c6d]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2001/2636/article/11) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-989c09336787089d7647a322495e6d95]: Textual amendment: [Art. 11(4)](https://www.legislation.gov.uk/uksi/2001/2636/article/11/4)[(5)](https://www.legislation.gov.uk/uksi/2001/2636/article/11/5) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [6](https://www.legislation.gov.uk/uksi/2001/3650/article/6)
+
+[^key-ca797a4048812c09f28932103ec49029]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2001/2636/article/12) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-5a2c407d299a1a14e238b3b1cd941efb]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2001/2636/article/13) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-a1befe6ef9b6099c1b5889fc792d10e8]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2001/2636/article/14) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00012]: Footnote: Section 12A was inserted by the 31D Regulations, reg. 11.
+
+[^key-28a4a06e0113391f49d731d4442bc3c4]: Textual amendment: [Art. 14(4A)](https://www.legislation.gov.uk/uksi/2001/2636/article/14/4A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [7](https://www.legislation.gov.uk/uksi/2001/3650/article/7)
+
+[^key-22de09d6d30ba48677702e15e831ed03]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2001/2636/article/15) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00013]: Footnote: Schedule 2F was inserted by the 31D Regulations, reg. 45(2), Sch 6.
+
+[^key-48a13f56e037a96347ff380b76ab0f3b]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2001/2636/article/16) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-614296033cebfdeaa7f3b7e0c1f8f116]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2001/2636/article/17) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00014]: Footnote: Schedule 2G was inserted by the 31D Regulations.
+
+[^key-660a3a7fa26c751f981d57d4841158a5]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2001/2636/article/18) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00015]: Footnote: In relation to the effect of authorisation under Part IV of the Friendly Societies Act, relevant amendments to that Part were made by S.I. [1993/2519](https://www.legislation.gov.uk/uksi/1993/2519) and S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984).
+
+[^f00016]: Footnote: Section 32(4) of the Friendly Societies Act was substituted by reg. 4 of S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984).
+
+[^f00017]: Footnote: Section 40 was amended by S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984).
+
+[^f00018]: Footnote: Section 41 was amended by S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984) and S.I. [1997/2849](https://www.legislation.gov.uk/uksi/1997/2849).
+
+[^key-82c8c2cef6c0ab6dfaa4cf589fb87242]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2001/2636/article/19) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-0c0f4767907e5bd7098e6aa50d81f6e1]: Textual amendment: [Art. 19(2A)](https://www.legislation.gov.uk/uksi/2001/2636/article/19/2A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [8](https://www.legislation.gov.uk/uksi/2001/3650/article/8)
+
+[^key-eafeaed71a3abe44f3db9ecb1c74db91]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2001/2636/article/20) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00019]: Footnote: [1974 c. 36](https://www.legislation.gov.uk/ukpga/1974/36).
+
+[^key-ca5b284bfbf0d16ac2f6b8b23d2ca795]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2001/2636/article/21) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-10731d6af4c77586b5c02624d1e7f13a]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2001/2636/article/22) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00020]: Footnote: Section 46 was substituted by the Building Societies Act 1997, s. 23.
+
+[^f00021]: Footnote: Section 41(7) was amended by S.I. [1996/1669](https://www.legislation.gov.uk/uksi/1996/1669) and sub-paragraphs (a) and (b) were substituted by the Building Societies Act 1997 s. 43 and Sch. 7 para 12(3).
+
+[^key-194a8d4d126cbaa08bff5c92ce8eae96]: Textual amendment: [Art. 22(4)](https://www.legislation.gov.uk/uksi/2001/2636/article/22/4)[(5)](https://www.legislation.gov.uk/uksi/2001/2636/article/22/5) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [9](https://www.legislation.gov.uk/uksi/2001/3650/article/9)
+
+[^key-2c1fa71c38c25bad31bce04f59aab98f]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2001/2636/article/23) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-9b1604b488c9c05801e64b84b6c9047d]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2001/2636/article/24) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-b20269b58ade71280f18226dbd21cf60]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2001/2636/article/25) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00022]: Footnote: Reg. 2C was inserted by S.I. [1999/2094](https://www.legislation.gov.uk/uksi/1999/2094), reg. 2(1), (3).
+
+[^f00023]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^key-5eb8cf4fb9d63a1b35838ce919c49ed4]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2001/2636/article/26) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-08e7c769a32aa4140f63de8d9e46fd01]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2001/2636/article/27) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-43d4e8b0c63fadbce60d63632e7a9cc1]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2001/2636/article/28) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-af1b50b70192b102757032cedfcdbe1d]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2001/2636/article/29) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-242b4deabea7c68b9c2901cad8d92967]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2001/2636/article/30) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-a96f8c73baf59ff3dacc25ae8f8913b8]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2001/2636/article/31) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-aa3916258869f5f867f5f88f50315951]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2001/2636/article/32) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-65034f92577bd6d990711500a0587703]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2001/2636/article/33) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-1f6c497e2ab36204d31ebd03b5f1ba52]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2001/2636/article/34) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-316390020fb1740790af98ab50b811f0]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2001/2636/article/35) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-9ee48ce1252f7b95689161580101421b]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2001/2636/article/36) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-5645f96f53b72e7baa371e992c139261]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2001/2636/article/37) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-7fc58b49cc38bfcda2e13460587e1547]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2001/2636/article/38) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-3bfe046843d7e0bc608750127ef9e58b]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2001/2636/article/39) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-d9e85aaaf8f677087afbf2412b01f083]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2001/2636/article/40) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-a02c453731e7f6ad25ad0194edf7569b]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2001/2636/article/41) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-caadbe4a5e8273c2ac1c2a3638794cc8]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2001/2636/article/42) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00024]: Footnote: Section 40A was inserted by S.I. [1994/1696](https://www.legislation.gov.uk/uksi/1994/1696) reg. 22 and has been amended by S.I. [1997/2781](https://www.legislation.gov.uk/uksi/1997/2781), art. 8, Sch, Pt I, paras 1, 25.
+
+[^key-f64d8089bc4ad488113c360b2832da32]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2001/2636/article/43) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00025]: Footnote: S.I. [1996/3011](https://www.legislation.gov.uk/uksi/1996/3011).
+
+[^key-8b4cefbf78819610de2b218e402e2f04]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2001/2636/article/44) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-50a245c4716471b49a394f5142176754]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2001/2636/article/45) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00026]: Footnote: Section 36A was inserted by S.I. [1993/2519](https://www.legislation.gov.uk/uksi/1993/2519), reg. 2(1).
+
+[^key-93d79f29c63378b121cdc90c48500291]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2001/2636/article/46) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-5f6019050585f7c8754fa71899171bc0]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2001/2636/article/47) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-e222b8b2d40f120e545be08455c59379]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2001/2636/article/48) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00027]: Footnote: Section 52A was inserted by S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984) and has been amended by S.I. [1997/2849](https://www.legislation.gov.uk/uksi/1997/2849).
+
+[^key-f75a87792202ec79f4e5cba6150dc98f]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2001/2636/article/49) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-75dea6d3f516c024f4c4d07e547bae49]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2001/2636/article/50) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00028]: Footnote: Section 42A was inserted by the Building Societies Act 1997 s. 16.
+
+[^key-861d642ea73193545d0ae410102fa871]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2001/2636/article/51) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00029]: Footnote: Section 43A was inserted by the Building Societies Act 1997 s. 19.
+
+[^f00030]: Footnote: Section 43B was inserted by the Building Societies Act 1997 s. 20.
+
+[^key-c900ad79b89bf7aac58a440edd1f90b5]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2001/2636/article/52) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-701207a0103a61dea1e3cca04b4f8160]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2001/2636/article/53) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-c4dbece355bc655adf824fed7b75a1b6]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2001/2636/article/54) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-eec9af1a635e3d1a2f28367b445b72d8]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2001/2636/article/55) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-10a9f60498134145fa178cc35e7e99af]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2001/2636/article/56) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-c6cf1ebb041241037e891ce85093deb0]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2001/2636/article/57) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-a1f5e0c13e704055b4b23c1b41427154]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 30(2)](https://www.legislation.gov.uk/uksi/2001/3650/article/30/2) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/3))
+
+[^key-27159b6fe7ccabe954a04c1220f6facb]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 29(3)](https://www.legislation.gov.uk/uksi/2001/3650/article/29/3) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/2))
+
+[^key-4c4746cdbba8ce5711f23344bf79f9b2]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 30(3)](https://www.legislation.gov.uk/uksi/2001/3650/article/30/3) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/3))
+
+[^key-b35a6dc16d82a0fe394ed9310b4b79fd]: Modification: [Art. 57(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/57/1) applied (with modifications) (1.12.2001) by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [art. 29(2)](https://www.legislation.gov.uk/uksi/2001/3650/article/29/2) (as substituted by [The Financial Services and Markets Act 2000 (Scope of Permission Notices) Order 2001 (S.I. 2001/3771)](https://www.legislation.gov.uk/uksi/2001/3771), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3771/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/3771/article/5/2))
+
+[^key-650df32bf75510ae09c7e113fc7b62c3]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2001/2636/article/58) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-cc869553a13e6d3aa5937efc94518a2c]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2001/2636/article/59) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-3546f870d15bb8d841255746e0407f49]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2001/2636/article/60) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-7ec12a2bb86e084a18659deb7bee9ff9]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2001/2636/article/61) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-613d58c5f406eba8675a1a7ff56b2073]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2001/2636/article/62) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-caf55fa2dc71b1415551ad83e7f08041]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2001/2636/article/63) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-671db924d9bab0994739b5fe4466cb1b]: Commencement: [Art. 64](https://www.legislation.gov.uk/uksi/2001/2636/article/64) in force at 10.8.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/a)
+
+[^key-a4d3157538ecc8e7fecbb66887edf4a7]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2001/2636/article/65) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^f00031]: Footnote: S.I. [1989/1535](https://www.legislation.gov.uk/uksi/1989/1535).
+
+[^key-0685073874a481411c64cafc9ff47d92]: Textual amendment: [Art. 66](https://www.legislation.gov.uk/uksi/2001/2636/article/66) omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2019/325/regulation/54) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ea8c2d7db9f5a9a21ecdfe5a7e6306ff]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2001/2636/article/67) in force at 1.12.2001 for specified purposes, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-07e0b2ddb91d217bb5dd46a6d04118cc]: Textual amendment: [Art. 67(1)](https://www.legislation.gov.uk/uksi/2001/2636/article/67/1) revoked in part (21.5.2003) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Designated Countries and Territories) Order 2003 (S.I. 2003/1181)](https://www.legislation.gov.uk/uksi/2003/1181), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1181/article/1), [4](https://www.legislation.gov.uk/uksi/2003/1181/article/4)
+
+[^key-3143546dadd2d696f4bb8feea7a9329b]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2001/2636/article/68) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-a649f81111b1552ee0f430bbe1c00286]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2001/2636/article/69) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-80353e6724d9be409fa83593ff65598e]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2001/2636/article/70) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-d231eb0fa67a022bb8a6e4aa5ce730b4]: Commencement: [Art. 71](https://www.legislation.gov.uk/uksi/2001/2636/article/71) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-a85381c09ee691b0df16d3192002c5a3]: Commencement: [Art. 72](https://www.legislation.gov.uk/uksi/2001/2636/article/72) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-11ea0f04539fdb352fbbe7388c9b8388]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2001/2636/article/73) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-3133bd758afa75fd9e0b7edaa4cc4751]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2001/2636/article/74) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-bb21c3d02685db5896271d2d986860f4]: Commencement: [Art. 75](https://www.legislation.gov.uk/uksi/2001/2636/article/75) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-d6ee5c7f3bb2f89fd3474a42926ae0e7]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2001/2636/article/76) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-a9534b61a3dbf5c6b721db04c507670a]: Commencement: [Art. 77](https://www.legislation.gov.uk/uksi/2001/2636/article/77) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^M_C_834e57c5-a1ee-47c1-816d-f883d3d75e1c]: Modification: [Art. 77](https://www.legislation.gov.uk/uksi/2001/2636/article/77) modified (1.12.2001) by [The Financial Services and Markets Act 2000 (Gibraltar) Order 2001 (S.I. 2001/3084)](https://www.legislation.gov.uk/uksi/2001/3084), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3084/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2001/3084/article/4/3) (as amended 31.12.2020) by [S.I. 2019/589](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/589/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (which was itself amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 32(e)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/32/e/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^f00032]: Footnote: Sub-paragraphs (3A) and (4B) of paragraph 20 of Schedule 3 were inserted by the Financial Services (EEA Passport Rights) Regulations 2001 (S.I. [2001/1376](https://www.legislation.gov.uk/uksi/2001/1376)).
+
+[^f00033]: Footnote: S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984).
+
+[^f00034]: Footnote: S.I. [1997/2849](https://www.legislation.gov.uk/uksi/1997/2849).
+
+[^key-8a1c9896777b7cc82ea0edabafe896ea]: Commencement: [Art. 78](https://www.legislation.gov.uk/uksi/2001/2636/article/78) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-f40e8e7d7d4d6bf863267c77fb1fd235]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2001/2636/article/79) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)
+
+[^key-0dfb8b51fe4b929d50f10216b43c20cc]: Textual amendment: [Art. 79(3)-(5)](https://www.legislation.gov.uk/uksi/2001/2636/article/79/3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2001 (S.I. 2001/3650)](https://www.legislation.gov.uk/uksi/2001/3650), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3650/article/1/a), [10](https://www.legislation.gov.uk/uksi/2001/3650/article/10)
+
+[^key-b58e0b3ca16c7cc81781ee63c90de1e6]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2001/2636/article/80) in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2636/article/1/2/b)

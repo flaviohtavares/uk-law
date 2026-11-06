@@ -1,0 +1,1115 @@
+---
+title: The Offender Management Act 2007 (Consequential Amendments) Order 2008
+id: uksi/2008/912
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-03-27'
+text_date: '2020-12-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2008/912
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/912/pdfs/uksiem_20080912_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/912/pdfs/uksi_20080912_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/912/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Offender Management Act 2007 (Consequential Amendments) Order 2008
+
+> Text as at 2020-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2008 No. 912
+
+Probation
+
+The Offender Management Act 2007 (Consequential Amendments) Order 2008
+
+Made
+
+27th March 2008
+
+Coming into force
+
+1st April 2008
+
+The Secretary of State, in exercise of the powers conferred by section 38(1)(a) and (2)(a) of the Offender Management Act 2007[^f00001], makes the following Order;
+
+In accordance with section 36(3)(d) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament:
+
+## 1. Citation, commencement and extent[^key-2ab3c52653881c4676124e46a804cac9]
+
+This Order may be cited as the Offender Management Act 2007 (Consequential Amendments) Order 2008 and shall come into force on 1st April 2008.
+
+**2.**[^key-f3efb466a133d582237eddbac27e64d1] The extent of any amendment of any provision made by this Order is the same as that of the provision amended.
+
+## 3. Consequential amendments[^key-f716dfbfcbe85401492bf574205df692]
+
+The enactments listed in Schedule 1 (amendments of Acts) and Schedule 2 (amendments of subordinate legislation: new arrangements for the provision of probation services) to this Order are amended as there specified.
+
+Signed by the authority of the Secretary of State
+
+David Hanson
+
+Minister of State
+
+Ministry of Justice
+
+27th March 2008
+
+## SCHEDULE 1 — Amendments of Acts
+
+Article 3
+
+### PART 1 — New arrangements for the provision of probation services
+
+#### 1. Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^key-ace8bae429ab5fe040efc8bd3c98cf4d]
+
+(1) The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^f00002] is amended as follows.
+
+(2) In Schedule 2 (capacities in respect of which payments may be made under Part 5, and paying authorities), in Part 1, after paragraph 6[^f00003] insert—
+
+> |  |  |
+> | --- | --- |
+> | 6A Member of the staff of a probation trust or of two or more probation trusts | The probation trust or, as the case may be, the probation trusts acting jointly. |
+
+#### 2. Criminal Procedure (Insanity) Act 1964[^key-8f51532911f464033ea2f9120d931bde]
+
+(1) The Criminal Procedure (Insanity) Act 1964[^f00004] is amended as follows.
+
+(2) In Schedule 1A[^f00005] (supervision orders)—
+
+- (a) in paragraph 1(1), for “or an” and substitute “, an” and after “board” insert “or an officer of a provider of probation services”; and
+- (b) in paragraph 3—
+  - (i) in sub-paragraph (1)(b), at the end insert “, or (as the case may be) an officer of a provider of probation services acting in that area”; and
+  - (ii) in sub-paragraph (3), after “assigned to the court” insert “or an officer of a provider of probation services acting at the court”.
+
+#### 3. Children and Young Persons Act 1969[^key-1194f1d404b70d532e09d547ef0e42d5]
+
+(1) The Children and Young Persons Act 1969[^f00006] is amended as follows.
+
+(2) In section 34 (transitional modifications of Part 1 for persons of specified ages)—
+
+- (a) in subsection (2)[^f00007], for “for the area” substitute “, or an officer of a provider of probation services, acting in the area”; and
+- (b) in subsection (3)[^f00008]—
+  - (i) after “acting for” insert “, or a provider of probation services operating in,”; and
+  - (ii) at the end insert “or an officer of a provider of probation services”.
+
+(3) In Schedule 3 (approved schools and other institutions)—
+
+- (a) in paragraph 6(1)[^f00009], after “2000” insert “or under sections 3, 6 or 13 of the Offender Management Act 2007”;
+- (b) in paragraph 9(2)[^f00010]—
+  - (i) after paragraph (d), omit “or”; and
+  - (ii) after paragraph (e), insert—
+
+    > - (f) section 6 of the Offender Management Act 2007 (power to make grants for probation purposes etc);
+    > - (g) section 2(1) (responsibility for ensuring the provision of probation services) and section 3 (power to make arrangements for the provision of probation services) of the Offender Management Act 2007; or
+    > - (h) section 13 of the Offender Management Act 2007 (approved premises).
+
+    ; and
+- (c) in sub-paragraph (4)(b)[^f00011]—
+  - (i) after paragraph (ii), omit “and”; and
+  - (ii) after paragraph (iii), insert—
+
+    > - (iv) the Secretary of State under sections 6 or 13 of the Offender Management Act 2007; and
+    > - (v) providers of probation services under section 3 of the Offender Management Act 2007.
+
+    ; and
+- (d) in paragraph 10, in sub-paragraph (4)(b)[^f00012], after “2000” insert “or under sections 3, 6 or 13 of the Offender Management Act 2007”
+
+#### 4. Local Authorities (Goods and Services) Act 1970[^key-6702faeeab5f0d64e8b691a038c6ce02]
+
+(1) The Local Authorities (Goods and Services) Act 1970[^f00013] is amended as follows.
+
+(2) In section 1 (supply of goods and services by local authorities), in subsection (4)[^f00014], in the definition of “public body”, after “the Housing Act 1988” insert “, any probation trust”.
+
+#### 5. Pensions (Increase) Act 1971[^key-a82cd3f134477ef198a82f6af73d716d]
+
+(1) The Pensions (Increase) Act 1971[^f00015] is amended as follows.
+
+(2) In Schedule 2 (official pensions), after paragraph 53A[^f00016] insert—
+
+> **53B.** A pension payable in accordance with regulations under section 7 of the Superannuation Act 1972 in respect of service as a member of staff of a probation trust established under section 5 of the Offender Management Act 2007.
+
+#### 6. Criminal Justice Act 1982[^key-8ae7a6f243feb14c339f8bad0be4bb30]
+
+(1) The Criminal Justice Act 1982[^f00017] is amended as follows.
+
+(2) In Schedule 13 (community service orders – reciprocal arrangements), in paragraph 7(3)(b)[^f00018]—
+
+- (a) after “Act 2000)” insert “or a provider of probation services operating in that area”; and
+- (b) after “the board” insert “or provider (as the case may be)”.
+
+#### 7. Mental Health Act 1983[^key-f186d34a937ea742b003a6011ab261a7]
+
+(1) The Mental Health Act 1983[^f00019] is amended as follows.
+
+(2) In section 134 (correspondence of patients), in subsection (3)(e)[^f00020], for “or a” substitute “, a” and at the end insert “or a provider of probation services”.
+
+#### 8. Local Government Act 1988[^key-8660ddaaa8fbfdc0eb63feb73f2053b2]
+
+(1) The Local Government Act 1988[^f00021] is amended as follows.
+
+(2) In Schedule 2 (public supply or works contracts: the public authorities), under the heading “public authorities”[^f00022], insert, at the appropriate place—
+
+> - A probation trust.
+
+#### 9. Criminal Justice Act 1991[^key-393d5da23ccdfd1fb41eede9b5d9db6d]
+
+(1) The Criminal Justice Act 1991[^f00023] is amended as follows.
+
+(2) In section 37[^f00024] (duration and conditions of licences), in subsection (4A)(a), after “being” insert “, or (as the case may be) an officer of a provider of probation services acting in the local justice area within which the person resides for the time being”.
+
+(3) In section 43[^f00025] (young offenders), in subsection (5), for “local probation board” substitute “provider of probation services”;
+
+(4) In section 65[^f00026] (supervision of young offenders after release)—
+
+- (a) in subsection (1)(a)[^f00027], at the end insert “or an officer of a provider of probation services”;
+- (b) after subsection (1A)[^f00028], insert—
+
+  > (1AA) Where the supervision is to be provided by an officer of a provider of probation services, the officer of a provider of probation services shall be an officer acting in the local justice area in which the offender resides for the time being.
+
+  ; and
+- (c) in subsection (5A)(c)[^f00029], after “board” insert “, an officer of a provider of probation services”.
+
+(5) In Schedule 3 (reciprocal enforcement of certain orders)—
+
+- (a) in paragraph 10—
+  - (i) in sub-paragraph (2)(b)[^f00030], at the end insert “or (as the case may be) by a provider of probation services operating in the local justice area in which he resides or will reside”;
+  - (ii) in sub-paragraph (3)(a)[^f00031], at the end insert “or (as the case may be) to an officer of a provider of probation services acting in the local justice area in England and Wales in which the offender resides or will be residing when the order or amendment comes into force”; and
+  - (iii) in sub-paragraph (3)(c)[^f00032], after “are situated” insert “or to the provider of probation services operating in the local justice area in which the premises are situated”; and
+- (b) in paragraph 11(5)(b)[^f00033], for “or the” substitute “, the” and after “board” insert “, or (as the case may be) the officer of a provider of probation services”.
+
+#### 10. Prisoners and Criminal Proceedings (Scotland) Act 1993[^key-896124587fe6229f7a3f3dee8ebaf8f7]
+
+(1) The Prisoners and Criminal Proceedings (Scotland) Act 1993[^f00034] is amended as follows.
+
+(2) In section 12[^f00035] (conditions in licence), in subsection (2)(a), for “or of” substitute “, of” and after “local justice area” insert “or (as the case may be) of an officer of a provider of probation services acting in such local justice area”.
+
+(3) In section 15[^f00036] (variation of supervised release order etc.)—
+
+- (a) in subsection (4)[^f00037], for “appointed for or assigned to the petty sessions area” substitute “, or an officer of a provider of probation services, acting in the local justice area”; and
+- (b) in subsection (5)[^f00038], after “board” insert “or officer of a provider of probation services”.
+
+#### 11. Criminal Procedure (Scotland) Act 1995[^key-dc37659bf01bae6f674017b41bee7000]
+
+(1) The Criminal Procedure (Scotland) Act 1995[^f00039] is amended as follows.
+
+(2) In section 209 (supervised release orders)—
+
+- (a) in subsection (3)(a)[^f00040], omit “either” and after “petty sessions area” insert “or (as the case may be) an officer of a provider of probation services acting in a local justice area”; and
+- (b) in subsection (7)[^f00041], in the definition of “supervising officer”, after “board” insert “or officer of a provider of probation services”.
+
+(3)[^key-7364d4c4321a895e16f2cb0aa3ef2e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-7364d4c4321a895e16f2cb0aa3ef2e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-7364d4c4321a895e16f2cb0aa3ef2e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. Crime (Sentences) Act 1997[^key-9500bb706c328863465c1a4205fb08fe]
+
+(1) The Crime (Sentences) Act 1997[^f00046] is amended as follows.
+
+(2) In section 31 (duration and conditions of licences), in subsection (2A)(a)[^f00047], at the end insert “or (as the case may be) an officer of a provider of probation services acting in the local justice area within which the prisoner resides for the time being”.
+
+(3) In Schedule 1 (transfer of prisoners within the British Islands)—
+
+- (a) in paragraph 8(6)[^f00048]—
+  - (i) in paragraph (c), for “local probation board” substitute “provider of probation services”;
+  - (ii) after paragraph (e), insert—
+
+    > - (ea) in section 103(3)(a), the reference to “an officer of a local probation board” were omitted,
+
+    ; and
+  - (iii) after paragraph (f), insert—
+
+    > - (fa) section 103(4) were omitted,
+
+    ; and
+- (b) in paragraph 11(6)[^f00049], in the first column of the Table, after “such petty sessions area” insert “or officer of a provider of probation services acting in such local justice area”.
+
+#### 13. Crime and Disorder Act 1998[^key-7b7cf57733ee892f77458050976a7ed3]
+
+(1) The Crime and Disorder Act 1998[^f00050] is amended as follows.
+
+(2) In section 5 (authorities responsible for strategies), after subsection (2)(b)[^f00051] insert—
+
+> - (ba) every provider of probation services operating within the area in pursuance of arrangements under section 3 of the Offender Management Act 2007 which provide for it to co-operate under this subsection with the responsible authorities;
+
+.
+
+(3) In section 8 (parenting orders), in subsection (8)(a)[^f00052], at the end insert “or an officer of a provider of probation services”.
+
+(4)[^key-424dee21400d15719820b16bd7d89d21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 18 (interpretation etc. of chapter 1), after subsection (3)[^f00054] insert—
+
+> (3A) Where directions under a parenting order are to be given by an officer of a provider of probation services, the officer of a provider of probation services shall be an officer acting in the local justice area within which it appears to the court that the child or, as the case may be, the parent resides or will reside.
+
+(6)[^key-e084d11568d72e35f4732827a86f7204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In section 115 (disclosure of information), in subsection (2), after paragraph (ea)[^f00056] insert—
+
+> - (eb) probation trust
+> - (ec) a provider of probation services (other than a probation trust or the Secretary of State), in carrying out its statutory functions or activities of a public nature in pursuance of arrangements made under section 3(2) of the Offender Management Act 2007
+
+.
+
+#### 14. Powers of Criminal Courts (Sentencing) Act 2000[^key-7c38d6906b965e9f80c193cabc18af4a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Child Support, Pensions and Social Security Act 2000[^key-f00deaf9bc70cf3c110bdb229f920be9]
+
+(1) The Child Support, Pensions and Social Security Act 2000[^f00093] is amended as follows.
+
+(2) In section 64 (information provision)—
+
+- (a) in subsection (2)[^f00094]—
+  - (i) after “board” in the first place it occurs insert “, the chief executive of a probation trust or the equivalent officer (however described) in any other provider of probation services”; and
+  - (ii) in paragraph (a), after “board” insert “or officer of a provider of probation services”; and
+- (b) after subsection (7)(c)[^f00095], insert—
+
+  > - (ca) an officer of a provider of probation services.
+
+#### 16. Learning and Skills Act 2000[^key-8fe6c7a1cad47ad9ddbe1bbfae1f08da]
+
+(1) The Learning and Skills Act 2000[^f00096] is amended as follows.
+
+(2) In section 115(1)[^f00097] (consultation and coordination), after paragraph (e), insert—
+
+> - (ea) a provider of probation services,
+
+.
+
+(3) In section 120(2)[^f00098] (information: supply by public bodies), after paragraph (e), insert—
+
+> - (ea) a probation trust,
+> - (eb) a provider of probation services (other than a probation trust or the Secretary of State), in carrying out its statutory functions or activities of a public nature in pursuance of arrangements made under section 3 of the Offender Management Act 2007,
+
+.
+
+(4) In section 125(1) (consultation and coordination), after paragraph (d) (but before the “and” following it), insert—
+
+> - (da) a provider of probation services,
+
+.
+
+(5) In section 138(3) (Wales: provision of information by public bodies), after paragraph (e) (but before the “and” following it), insert—
+
+> - (ea) a probation trust,
+> - (eb) a provider of probation services (other than a probation trust or the Secretary of State), in carrying out its statutory functions or activities of a public nature in pursuance of arrangements made under section 3 of the Offender Management Act 2007,
+
+.
+
+#### 17. Freedom of Information Act 2000[^key-793380fa2f2ae3a657ab4142dc301b17]
+
+(1) The Freedom of Information Act 2000[^f00099] is amended as follows.
+
+(2) In Schedule 1 (public authorities), in Part 6, insert, at the appropriate place—
+
+> - A probation trust.
+
+#### 18. Criminal Justice and Court Services Act 2000[^key-420961687f10181ea4ce64817023b6bb]
+
+(1) The Criminal Justice and Court Services Act 2000[^f00100] is amended as follows.
+
+(2) In section 64 (release on licence etc: drug testing requirements), in subsection (3), after “board” insert “, an officer of a provider of probation services”.
+
+#### 19. Criminal Justice Act 2003[^key-3d752238991372d358da49c9aaf6dc0b][^key-d450ea9abad8bd64a2bdeeab5fdafcbf]
+
+(1) The Criminal Justice Act 2003[^f00101] is amended as follows.
+
+(2)[^key-138a59a1a2cfad597e923c0be52b5882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-138a59a1a2cfad597e923c0be52b5882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 184[^f00103] (restrictions on power to make intermittent custody order), in subsection (2)(a), at the end insert “or an officer of a provider of probation services”.
+
+(5)[^key-5bc6da7d3a1e113d6d8f50593d2569df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-5bc6da7d3a1e113d6d8f50593d2569df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-5bc6da7d3a1e113d6d8f50593d2569df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-5bc6da7d3a1e113d6d8f50593d2569df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-5bc6da7d3a1e113d6d8f50593d2569df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-5bc6da7d3a1e113d6d8f50593d2569df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-5bc6da7d3a1e113d6d8f50593d2569df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12)[^key-5bc6da7d3a1e113d6d8f50593d2569df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13)[^key-5bc6da7d3a1e113d6d8f50593d2569df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14) In section 253 (curfew condition to be included in licence under section 246), in subsection (1)(a), for “section 9 of the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43)” substitute “section 13 of the Offender Management Act [2007 (c.21)](https://www.legislation.gov.uk/ukpga/2007/21)”.
+
+(15) In section 266 (release on licence etc: drug testing requirements), in subsection (5), in the definition of “responsible officer” in subsection (6) to be inserted in section 64 of the Criminal Justice Court Services Act 2000[^f00107]—
+
+- (a) in paragraph (a), after “board” insert “, an officer of a provider of probation services”; and
+- (b) in paragraph (b), at the end insert “or an officer of a provider of probation services”.
+
+(16) In section 325 (arrangements for assessing etc risk posed by certain offenders)—
+
+- (a) in subsection (1), after “for that area” insert “ or (if there is no local probation board for that area) a relevant provider of probation services”; and
+- (b) in subsection (9)[^f00108] insert, at the appropriate place—
+
+  > - “a relevant provider of probation services” in relation to an area means a provider of probation services identified as such for the purposes of this section by arrangements under section 3 of the Offender Management Act 2007.
+
+(17)[^key-46b6d829f65a3470baa49cb9958d22f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(18) In Schedule 10 (revocation or amendment of custody plus orders and amendment of intermittent custody orders), in paragraph 9(1)(b)[^f00110], after “area” insert “, or (as the case may be) a provider of probation services operating in that area”.
+
+(19) In Schedule 11 (transfer of custody plus orders and intermittent custody orders to Scotland or Northern Ireland)—
+
+- (a) in paragraph 17(4), for “local probation board” substitute “provider of probation services”; and
+- (b) in paragraph 22(7)(a) [^f00111], after “area” insert “, or (as the case may be) a provider of probation services operating in the new local justice area”.
+
+(20)[^key-aad567d1d124859cdbad2d09e662f952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(21)[^key-aad567d1d124859cdbad2d09e662f952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20. Domestic Violence, Crime and Victims Act 2004[^key-ffdfdbaa93211070cef7c979a5a8cbdc]
+
+(1) The Domestic Violence, Crime and Victims Act 2004[^f00114] is amended as follows.
+
+(2) In section 9[^f00115] (establishment and conduct of reviews), in subsection (4)(a) insert, at the appropriate place—
+
+> - providers of probation services;
+
+.
+
+(3) In section 35 (victims’ rights to make representations and receive information)—
+
+- (a) in subsection (3), after “imposed” insert “, or the provider of probation services operating in the local justice area in which the sentence is imposed, ”;
+- (b) after subsection (3), insert—
+
+  > (3A) The provider of probation services mentioned in subsection (3) is the provider of probation services identified as such by arrangements under section 3 of the Offender Management Act 2007.
+
+  ;
+- (c) in subsection (6)—
+  - (i) after “the local probation board” insert “or provider of probation services”; and
+  - (ii) for “relevant local probation board” in both places it occurs, substitute “relevant probation body”;
+- (d) in subsection (7)—
+  - (i) after “a local probation board” insert “or a provider of probation services”; and
+  - (ii) for “relevant local probation board” in both places it occurs, substitute “relevant probation body”; and
+- (e) for subsection (8), substitute—
+
+  > (8) In this section “the relevant probation body” is—
+  >
+  > - (a) in a case where the offender is to be supervised on release by an officer of a local probation board or an officer of a provider of probation services, that local probation board or that provider of probation services (as the case may be);
+  > - (b) in any other case—
+  >   - (i) if the prison or other place in which the offender is detained is situated in the area of a local probation board, that local probation board; and
+  >   - (ii) if that prison or other place is not in such an area, the provider of probation services operating in the local justice area in which the prison or other place in which the offender is detained is situated, that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007.
+
+(4) In section 36 (victims’ rights: preliminary), insert—
+
+- (a) in subsection (4), after “is made” insert “or the provider of probation services operating in the local justice area in which the determination mentioned in subsection (2)(a), (b) or (c) is made ”; and
+- (b) after subsection (4), insert—
+
+  > (4A) The provider of probation services mentioned in subsection (4) is the provider of probation services identified as such by arrangements under section 3 of the Offender Management Act 2007.
+
+(5) In section 37 (representations)[^f00116]—
+
+- (a) in subsection (2)—
+  - (i) in paragraph (a), after “the local probation board” insert “or provider of probation services”; and
+  - (ii) for the “relevant local probation board” in each place it occurs, substitute “relevant probation body”;
+- (b) in subsection (4), for “relevant local probation board” substitute “relevant probation body”;
+- (c) in subsection (5), for “relevant local probation board” substitute “relevant probation body”;
+- (d) in subsection (6)—
+  - (i) for “relevant local probation board” in each place it occurs, substitute “relevant probation body”; and
+  - (ii) in paragraph (b)(ii), after “the local probation board” insert “or provider of probation services”;
+- (e) in subsection (7), for “relevant local probation board” substitute “relevant probation body”; and
+- (f) for subsection (8), substitute—
+
+  > (8) In this section, “the relevant probation body” is—
+  >
+  > - (a) in a case where the patient is to be discharged subject to a condition that he reside in a particular area, which is or is part of the area of a local probation board, that local probation board;
+  > - (b) in a case where the patient is to be discharged subject to a condition that he reside in a particular area other than one mentioned in paragraph (a), the provider of probation services operating in that area that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007;
+  > - (c) in any other case—
+  >   - (i) if the hospital in which the patient is detained is situated in the area of a local probation board, that area; and
+  >   - (ii) if that hospital is not so situated, the provider of probation services operating in the local justice area in which the hospital in which the patient is detained is situated that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007.
+
+(6) In section 38 (information)[^f00117]—
+
+- (a) in subsection (2), for “relevant local probation board” in both places it occurs substitute “relevant probation body”;
+- (b) in subsection (3)—
+  - (i) for “relevant local probation board” substitute “relevant probation body”; and
+  - (ii) in paragraph (d), for “the board” substitute “the body”;
+- (c) in subsection (4), for “relevant local probation board” substitute “relevant probation body”;
+- (d) in subsection (6), for “relevant local probation board” substitute “relevant probation body”;
+- (e) in subsection (7), for “relevant local probation board” substitute “relevant probation body”; and
+- (f) in subsection (9), for “relevant local probation board” substitute “relevant probation body”.
+
+(7) In section 39 (victims’ rights: preliminary)—
+
+- (a) in subsection (2), after “is given” insert “, or the provider of probation services operating in the local justice area in which the hospital direction is given,”; and
+- (b) after subsection (2), insert—
+
+  > (2A) The provider of probation services mentioned in subsection (2) is the provider of probation services identified as such by arrangements under section 3 of the Offender Management Act 2007.
+
+(8) In section 40 (representations)—
+
+- (a) in subsection (2)—
+  - (i) in paragraph (a), after “the local probation board” insert “or provider of probation services”; and
+  - (ii) for “relevant local probation board” in each place it occurs, substitute “relevant probation body”;
+- (b) in subsection (4), for “relevant local probation board” substitute “relevant probation body”;
+- (c) in subsection (5), for “relevant local probation board” substitute “relevant probation body;”
+- (d) in subsection (6)—
+  - (i) for “relevant local probation board” in each place it occurs, substitute “relevant probation body”; and
+  - (ii) in paragraph (b)(ii), after “the local probation board” insert “or provider of probation services”;
+- (e) in subsection (7), for “relevant local probation board” substitute “relevant probation body”; and
+- (f) for subsection (8), substitute—
+
+  > (8) For the purposes of this section, “the relevant probation body” is—
+  >
+  > - (a) in a case where the offender is to be discharged from hospital subject to a condition that he reside in a particular area, which is or is part of the area of a local probation board, that local probation board;
+  > - (b) in a case where the offender is to be discharged from hospital subject to a condition that he reside in a particular area other than one mentioned in paragraph (a), the provider of probation services operating in that area that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007;
+  > - (c) in a case where the offender is to be supervised on release by an officer of a local probation board or an officer of a provider of probation services, that local probation board or that provider of probation services (as the case may be);
+  > - (d) in any other case—
+  >   - (i) if the hospital, prison or other place in which the offender is detained is situated in the area of a local probation board, that area; and
+  >   - (ii) if that hospital, prison or other place is not so situated, the provider of probation services operating in the local justice area in which the hospital, prison or other place in which the offender is detained is situated, that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007.
+
+(9) In section 41 (information)—
+
+- (a) In subsection (2), for “relevant local probation board” in both places it occurs, substitute “relevant probation body”;
+- (b) in subsection (3), for “relevant local probation board” substitute “relevant probation body”;
+- (c) in subsection (4), for “relevant local probation board” substitute “relevant probation body”;
+- (d) in subsection (6), for “relevant local probation board” substitute “relevant probation body”;
+- (e) in subsection (7), for “relevant local probation board” substitute “relevant probation body”; and
+- (f) in subsection (9), for “relevant local probation board” substitute “relevant probation body”.
+
+(10) In section 42 (victims’ rights: preliminary)—
+
+- (a) in subsection (2)—
+  - (i) after “specified in the transfer direction is situated” insert “or the provider of probation services operating in the local justice area in which the hospital specified in the transfer direction is situated”; and
+  - (ii) after “the board” insert “or the provider”;
+- (b) after subsection (2), insert—
+
+  > (2A) The provider of probation services mentioned in subsection (2) is the provider of probation services identified as such by arrangements under section 3 of the Offender Management Act 2007.
+
+(11) In section 43 (representations)[^f00118]—
+
+- (a) in subsection (2)—
+  - (i) in paragraph (a), after “the local probation board” insert “or provider of probation services”; and
+  - (ii) for “relevant local probation board” in each place it occurs, substitute “relevant probation body”;
+- (b) in subsection (4), for “relevant local probation board” substitute “relevant probation body”;
+- (c) in subsection (5), for “relevant local probation board” substitute “relevant probation body”;
+- (d) in subsection (6)—
+  - (i) for “relevant local probation board” in each place it occurs, substitute “relevant probation body”; and
+  - (ii) in paragraph (b)(ii) after “local probation board” insert “or provider of probation services”;
+- (e) in subsection (7), for “relevant local probation board” substitute “relevant probation body”; and
+- (f) for subsection (8), substitute—
+
+  > (8) In this section, “the relevant probation body” is—
+  >
+  > - (a) in a case where the offender is to be discharged subject to a condition that he reside in a particular area, which is or is part of the area of a local probation board, that local probation board;
+  > - (b) in a case where the offender is to be discharged subject to a condition that he reside in a particular area other than one mentioned in paragraph (a), the provider of probation services operating in that area that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007;
+  > - (c) in any other case—
+  >   - (i) if the hospital in which the offender is detained is situated in the area of a local probation board, that area; and
+  >   - (ii) if that hospital is not so situated, the provider of probation services operating in the local justice area in which the hospital in which the offender is detained is situated, that is identified as the relevant probation body by arrangements under section 3 of the Offender Management Act 2007.
+
+(12) In section 44 (information)[^f00119]—
+
+- (a) in subsection (2), for “relevant local probation board” in both places it occurs, substitute “relevant probation body”;
+- (b) in subsection (3)—
+  - (i) for “relevant local probation board” substitute “relevant probation body”; and
+  - (ii) in paragraph (d), after “the board” insert “or the body”;
+- (c) in subsection (4), for “relevant local probation board” substitute “relevant probation body”;
+- (d) in subsection (6), for “relevant local probation board” substitute “relevant probation body”;
+- (e) in subsection (7), for “relevant local probation board” substitute “relevant probation body”; and
+- (f) in subsection (9), for “relevant local probation board” substitute “relevant probation body”.
+
+(13) In section 54 (disclosure of information), after subsection (3)(b), insert—
+
+> - (ba) a provider of probation services,
+
+.
+
+(14) In Schedule 9 (authorities within commissioner’s remit), after paragraph 25 insert—
+
+> **25A.** A provider of probation services.
+
+.
+
+#### 21. Safeguarding Vulnerable Groups Act 2006[^key-2627badbe526b24b1ce70eba2304c1bd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 22. Police and Justice Act 2006[^key-c69818d00dc4effdcf2894ee8ede7a36]
+
+(1) The Police and Justice Act 2006[^f00122] is amended as follows.
+
+(2) In Schedule 1 (National Policing Improvement Agency), in paragraph 48(3)(b), after “board” insert “or officers of a provider of probation services”.
+
+#### 23. Armed Forces Act 2006[^key-00bc96665d46e9cd7f9187a72235fcb5]
+
+(1) The Armed Forces Act 2006[^f00123] is amended as follows.
+
+(2) In section 183 (overseas community orders: modifications of 2003 Act)—
+
+- (a) for subsection (2), substitute—
+
+  > (2) Sections 201(7)(b) and 202(7) of the 2003 Act are to be read in relation to an oversees community order as referring to a place that has been approved by a local probation board or by a provider of probation services.
+
+  ; and
+- (b) in subsection (4), after “board” insert “or the officer of a provider of probation services (as the case may be)”.
+
+#### 24. Mental Health Act 2007[^key-7d308a5f8f6750141a2d99be880624af]
+
+(1) The Mental Health Act 2007[^f00124] is amended as follows.
+
+(2) In Schedule 6 (victim’s rights)—
+
+- (a) in paragraph 3, in the inserted section 36A[^f00125] (supplemental provision for case where no restriction order made)—
+  - (i) in subsection (2), after “board” insert “or provider of probation services”;
+  - (ii) in subsection (3), after “board” insert “or the provider of probation services”;
+  - (iii) in subsection (4), after “board” insert “or provider of probation services”; and
+  - (iv) in subsection (5)—
+    - (aa) after “probation board” insert “or provider of probation services”; and
+    - (bb) in paragraph (b), after “the board” insert “or provider”;
+- (b) in paragraph 7, in the inserted section 38B[^f00126] (removal of restriction)—
+  - (i) in subsection (2), for “relevant local probation board” in both places it occurs, substitute “relevant probation body”;
+  - (ii) in subsection (3), for “relevant local probation board” substitute “relevant probation body”; and
+  - (iii) in subsection (6), for “relevant local probation board” substitute “relevant probation body”;
+- (c) in paragraph 9, in the inserted section 41A[^f00127] (removal of restriction)—
+  - (i) in subsection (2), for “relevant local probation board” in both places it occurs, substitute “relevant probation body”;
+  - (ii) in subsection (3), for “relevant local probation board” substitute “relevant probation body”; and
+  - (iii) in subsection (6), for “relevant local probation board” substitute “relevant probation body”;
+- (d) in paragraph 11, in the inserted section 42A[^f00128] (supplemental provision for case where no restriction direction given)—
+  - (i) in subsection (2), after “board” insert “or provider of probation services”;
+  - (ii) in subsection (3), after “board” insert “or provider of probation services”;
+  - (iii) in subsection (4), after “board” insert “or provider of probation services”; and
+  - (iv) in subsection (5)—
+    - (aa) after “probation board” insert “or provider of probation services”; and
+    - (bb) in paragraph (b), after “the board” insert “or the provider”; and
+- (e) in paragraph 15, in the inserted section 44B[^f00129] (removal of restriction)—
+  - (i) in subsection (2), for “relevant local probation board” in both places it occurs substitute “relevant probation body”;
+  - (ii) in subsection (3), for “relevant local probation board” substitute “relevant probation body”; and
+  - (iii) in subsection (6), for “relevant local probation board” substitute “relevant probation body”.
+
+#### 25. Corporate Manslaughter and Corporate Homicide Act 2007[^key-f83944d254e7bd3d921d846046a8b855]
+
+(1) The Corporate Manslaughter and Corporate Homicide Act 2007[^f00130] is amended as follows.
+
+(2) In section 7[^f00131] (child-protection and probation function)—
+
+- (a) in subsection (3)—
+  - (i) after “board” insert “, a provider of probation services”; and
+  - (ii) after paragraph (a), insert—
+
+    > - (aa) section 13 of the Offender Management Act [2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21),
+
+    ; and
+- (b) after subsection (3) insert—
+
+  > (4) This section also applies to any duty of care that a provider of probation services owes in respect of the carrying out by it of activities in pursuance of arrangements under section 3 of the Offender Management Act 2007.
+
+### PART 2 — The Inspectorate
+
+**26.**[^key-0a3aaa759b4db2eeca7eb27d75369a1f] (1) In the enactments specified in paragraph (2), for “Her Majesty’s Inspectorate of the National Probation Service for England and Wales” substitute “Her Majesty’s Inspectorate of Probation for England and Wales”.
+
+(2) The enactments are—
+
+- (a) paragraphs 3(2)(a) and 4(c) of Schedule A1 (further provision about Her Majesty’s Chief Inspector of Prisons) to the Prison Act 1952[^f00132];
+- (b) paragraphs 3(2)(c) and 4(c) of Schedule 4A (further provision about Her Majesty’s Inspectors of Constabulary) to the Police Act 1996[^f00133];
+- (c)[^key-bc3679aa14d5dd77ba9890fe20062b55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-bc3679aa14d5dd77ba9890fe20062b55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) paragraph 4(c) of the Schedule (further provision about Her Majesty’s Chief Inspector of the Crown Prosecution Service) to the Crown Prosecution Service Inspectorate Act 2000[^f00136];
+- (f)[^key-b58e70f71a48205bad0cebbdaef14cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) section 67A(1)(d) (assistance by Auditor General to inspectorates) of the Public Audit (Wales) Act 2004[^f00138]; and
+- (h) paragraph 1(3)(d) of Schedule 13 (interaction with other authorities) to the Education and Inspections Act 2006[^f00139].
+
+**27.**[^key-8f0bb4f3c5017d3b6f96f035686699d9] (1) In the enactments specified in paragraph (2), for “Her Majesty’s Chief Inspector of the National Probation Service for England and Wales” substitute “Her Majesty’s Chief Inspector of Probation for England and Wales”.
+
+(2)[^key-8ab45d1ee8154a81df4d0a82db01ea05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Amendments of subordinate legislation: new arrangements for the provision of probation services
+
+Article 3
+
+### 1. Redundancy Payments (Continuity of Employment of Local Government, etc) (Modification) Order 1999[^key-9e38c944618b543fffe4e5e81199c18b]
+
+(1) The Redundancy Payments (Continuity of Employment of Local Government, etc) (Modification) Order 1999[^f00147] is amended as follows.
+
+(2) In Schedule 1 (employment to which this Order applies: employers immediately before the relevant event), in section 10 (miscellaneous bodies), after paragraph 4A, insert—
+
+> **4B.** a probation trust.
+
+### 2. Curfew Order and Curfew Requirement (Responsible Officer) Order 2001[^key-1a9702ea83deeb0eff0173858d23128f]
+
+(1) The Curfew Order and Curfew Requirement (Responsible Officer) Order 2001[^f00148] is amended as follows.
+
+(2) In article 2, at the appropriate place, insert the following entry—
+
+> - “officer of a provider of probation services” means an officer of a provider of probation services acting in the local justice area specified in the order;
+
+.
+
+(3) In article 4—
+
+- (i) in paragraph (a), at the end, insert “or an officer of a provider of probation services (as the case may be)”; and
+- (ii) in paragraph (b), after “board” insert “, an officer of a provider of probation services”.
+
+### 3. Welsh Language Scheme (Public Bodies) Order 2001[^key-33b6540a4934c63c7a5b105f62bdc7fa]
+
+(1) The Welsh Language Scheme (Public Bodies) Order 2001[^f00149] is amended as follows.
+
+(2) In the Schedule insert, at the appropriate place—
+
+> |  |  |
+> | --- | --- |
+> | Ymddiriedolaethau Prawf yng Nghymru | Probation trusts in Wales. |
+
+### 4. Race Relations Act 1976 (Statutory Duties) Order 2001[^key-4c98b4f167fc9600673644afc062a04f]
+
+(1) The Race Relations Act 1976 (Statutory Duties) Order 2001[^f00150] is amended as follows.
+
+(2) In Schedule 1 (bodies and other persons required to publish race equality schemes) insert, at the appropriate places—
+
+> - A probation trust.
+
+;
+
+> - A provider of probation services (other than the Secretary of State or a probation trust), in respect of its statutory functions and the carrying out by it of activities of a public nature in pursuance of arrangements made with it under section 3(2) of the Offender Management Act 2007.
+
+.
+
+(3) In its application to a probation trust, that Order shall have effect as if—
+
+- (a) in articles 2(1) and 5(1)(a), for “before 31st May 2002” there were substituted “within a period of one year from the date of the establishment of a probation trust under section 5(1) of the Offender Management Act 2007”; and
+- (b) in article 2(3), for “three years from 31st May 2002” there were substituted “three years from the date of publication of its Race Equality Scheme”.
+
+(4) In its application to a provider of probation services (other than the Secretary of State or a probation trust) that Order shall have effect, in relation to the performance of its statutory functions and the carrying out by it of activities of a public nature in pursuance of arrangements made with it under section 3(2) of the Offender Management Act 2007, as if—
+
+- (a) in articles 2(1) and 5(1)(a), for “before 31st May 2002” there were substituted “within a period of one year from the date on which it first entered into arrangements under section 3(2) of the Offender Management Act 2007”; and
+- (b) in article 2(3), for “a period of three years from 31st May 2002” there were substituted “a period of three years from the date of publication of its Race Equality Scheme”.
+
+### 5. Accounts and Audit Regulations 2003[^key-26ec52434ef01a5b14f73eafc3106229]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Accounts and Audit (Wales) Regulations 2005[^key-61a3530f5d6f5a05f2a040fd1428fbcf]
+
+(1) The Accounts and Audit (Wales) Regulations 2005[^f00152] are amended as follows.
+
+(2) In regulation 2 (interpretation and application), in paragraph (1), in the definition of a “local government body”, at the end insert “or a probation trust”.
+
+### 7. Criminal Procedure Rules 2005[^key-72c56a2958de82710903370881a47829]
+
+(1) The Criminal Procedure Rules 2005[^f00153] are amended as follows.
+
+(2) In rule 48.1 (curfew order or requirement with electronic monitoring requirement), in paragraph (4), after “board” insert “, provider of probation services”.
+
+### 8. The Unfitness to Stand Trial and Insanity (Royal Air Force) Regulations 2005[^key-74657795f8286c75faf200c797647718]
+
+(1) The Unfitness to Stand Trial and Insanity (Royal Air Force) Regulations 2005[^f00154] are amended as follows.
+
+(2) In regulation 4 (supervision orders), at the end of paragraph (1)(b) insert “, or (as the case may be) an officer of a provider of probation services acting in that area”.
+
+### 9. The Unfitness to Stand Trial and Insanity (Royal Navy) Regulations 2005[^key-62277a64b54fd53678421a424624bc66]
+
+(1) The Unfitness to Stand Trial and Insanity (Royal Navy) Regulations 2005[^f00155] are amended as follows.
+
+(2) In regulation 4 (supervision orders), at the end of paragraph (1)(b) insert “,or (as the case may be) an officer of a provider of probation services acting in that area”.
+
+### 10. The Unfitness to Stand Trial and Insanity (Army) Regulations 2005[^key-e79a7a1e8ab807b2a093c363d40f6fec]
+
+(1) The Unfitness to Stand Trial and Insanity (Army) Regulations 2005[^f00156] are amended as follows.
+
+(2) In regulation 4 (supervision orders), at the end of paragraph (1)(b) insert “, or (as the case may be) an officer of a provider of probation services acting in that area”.
+
+### 11. Children Act 2004 (Children’s Services) Regulations 2005[^key-9579d13eb5346debf4e417c431ae2f2d]
+
+(1) The Children Act 2004 (Children’s Services) Regulations 2005[^f00157] are amended as follows.
+
+(2) In regulation 2 (children’s services), after paragraph (2)(c) insert—
+
+> - (ca) by a provider of probation services in pursuance of arrangements made under section 3 of the Offender Management Act 2007.
+
+### 12. Disability Discrimination (Public Authorities) (Statutory Duties) Regulations 2005[^key-438be7aba55e712da90229536e9607bd]
+
+(1) The Disability Discrimination (Public Authorities) (Statutory Duties) Regulations 2005[^f00158] are amended as follows.
+
+(2) In Schedule 1, Part 1, at the appropriate places, insert—
+
+> - A probation trust
+
+;
+
+> - A provider of probation services (other than the Secretary of State or a probation trust), in respect of its statutory functions and the carrying out by it of activities of a public nature in pursuance of arrangements made with it under section 3(2) of the Offender Management Act 2007
+
+.
+
+(3) In its application to a probation trust, regulation 2(6) shall have effect as if the “relevant publication date” were one year after its establishment under section 5(1) of the Offender Management Act 2007.
+
+(4) In its application to a provider of probation services (other than the Secretary of State or a probation trust), in relation to the performance of its statutory functions and the carrying out by it of activities of a public nature in pursuance of arrangements made with it under section 3(2) of the Offender Management Act 2007, regulation 2(6) shall have effect as if the “relevant publication date” were one year after the date on which the provider first entered into arrangements under 3(2) of the Offender Management Act 2007.
+
+### 13. Local Safeguarding Children Boards (Wales) Regulations 2006[^key-7147d03e825a54eb5f85a062c641f5e2]
+
+(1) The Local Safeguarding Children Boards (Wales) Regulations 2006[^f00159] are amended as follows.
+
+(2) In regulation 5 (representatives), after paragraph (2)(b), insert—
+
+> - (ba) in respect of a provider of probation services operating within the area of the Board required to act as a representative by arrangements under section 3 of the Offender Management Act 2007, the Chief Executive or equivalent, or some other officer directly accountable to the Chief Executive or equivalent who is of sufficient seniority to represent the provider;
+
+.
+
+### 14. Sex Discrimination Act 1975 (Public Authorities) (Statutory Duties) Order 2006[^key-d33e9c87f9912a9016e1056307ec87b9]
+
+(1) The Sex Discrimination Act 1975 (Public Authorities) (Statutory Duties) Order 2006[^f00160] is amended as follows.
+
+(2) In the Schedule, at the appropriate places, insert—
+
+> - A probation trust
+
+;
+
+> - A provider of probation services (other than the Secretary of State or a probation trust), in respect of its statutory functions and the carrying out by it of activities of a public nature in pursuance of arrangements made with it under section 3(2) of the Offender Management Act 2007
+
+.
+
+(3) In its application to a probation trust, article 2(1) shall have effect as if for “by 30th April 2007” there were substituted “within one year from the date of the establishment of a probation trust under section 5(1) of the Offender Management Act 2007”.
+
+(4) In its application to a provider of probation services (other than the Secretary of State or a probation trust), in relation to the performance of its statutory functions and the carrying out by it of activities of a public nature in pursuance of arrangements made with it under section 3(2) of the Offender Management Act 2007, article 2(1) shall have effect as if for “by 30th April 2007” there were substituted “within one year from the date on which the provider first entered into arrangements under section 3(2) of the Offender Management Act 2007”.
+
+### 15. Children Act 2004 Information Database (England) Regulations 2007[^key-3b2f2ad223eea9b54ad700303b216736]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes amendments consequential to Part 1 of the Offender Management Act 2007[^f00162] (“the OMA 2007”) which contains new arrangements for the provision of probation services. The OMA 2007 places a statutory duty on the Secretary of State to ensure that sufficient probation services are provided throughout England and Wales[^f00163] and enables the Secretary of State to make contractual or other arrangements with providers of probation services for the provision of probation services[^f00164]. The OMA 2007 also establishes probation trusts[^f00165]. The arrangements in the OMA 2007 are to be brought into force by geographical areas in phases and will replace the arrangements in respect of the National Probation Service for England and Wales contained in Part 1 of the Criminal Justice and Court Services Act 2000 (“the CJCSA 2000”), which place the duty for ensuring sufficient provision of probation services on local probation boards.
+
+This Order amends references in enactments to the arrangements under Part 1 of the CJCSA 2000, such as to “a local probation board” and “an officer of a local probation board”, to include a reference to the new arrangements for the provision of probation services in the OMA 2007. Such amendments to primary legislation are contained in Part 1 of Schedule 1 to this Order and the amendments to secondary legislation are contained in Schedule 2.
+
+This Order also substitutes references in primary legislation to “Her Majesty’s Inspectorate of the National Probation Service for England and Wales” with “Her Majesty’s Inspectorate of Probation for England and Wales”, and substitutes references to “Her Majesty’s Chief Inspector of the National Probation Service for England and Wales” with “Her Majesty’s Chief Inspector of Probation for England and Wales”. These amendments are consequential to section 12 of the OMA 2007 which renames Her Majesty’s Inspectorate of the National Probation Service for England and Wales and Her Majesty’s Chief Inspector of the National Probation Service for England and Wales. These amendments are contained in Part 2 of Schedule 1 to this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21)
+
+[^key-2ab3c52653881c4676124e46a804cac9]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^key-f3efb466a133d582237eddbac27e64d1]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^key-f716dfbfcbe85401492bf574205df692]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^key-ace8bae429ab5fe040efc8bd3c98cf4d]: Commencement: Sch. 1 para. 1 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00002]: Footnote: [1951 c.65](https://www.legislation.gov.uk/ukpga/1951/65)
+
+[^f00003]: Footnote: Schedule 2, paragraph 6 was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 6.
+
+[^key-8f51532911f464033ea2f9120d931bde]: Commencement: Sch. 1 para. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00004]: Footnote: [1964 c.84](https://www.legislation.gov.uk/ukpga/1964/84)
+
+[^f00005]: Footnote: Schedule 1A was inserted by the Domestic Violence, Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28), Schedule 2.
+
+[^key-1194f1d404b70d532e09d547ef0e42d5]: Commencement: Sch. 1 para. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00006]: Footnote: [1969 c.54](https://www.legislation.gov.uk/ukpga/1969/54)
+
+[^f00007]: Footnote: Section 34(2) was amended by the Children Act [1989 (c.41)](https://www.legislation.gov.uk/ukpga/1989/41), Schedule 15, the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), Schedule 9, paragraph 9 and the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4(1)(a) and (2).
+
+[^f00008]: Footnote: Section 34(3) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 4(1)(a) and (2), 38 and 40.
+
+[^f00009]: Footnote: Schedule 3, paragraph 6(1) was amended by the Probation Service Act [1993 (c.47)](https://www.legislation.gov.uk/ukpga/1993/47), Schedule 3, paragraphs 3(1) and (4)(a) and the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 38 and 43(1) and (2).
+
+[^f00010]: Footnote: Schedule 3, paragraph 9(2) was amended by the Probation Service Act [1993 (c.47)](https://www.legislation.gov.uk/ukpga/1993/47), Schedule 3, paragraph 3(1) and (4)(a) and the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 38, 43(1) and (3)(a)(i), (ii) and (iii), and Schedule 8.
+
+[^f00011]: Footnote: Schedule 3, paragraph 9(4)(b) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 38 and 43(1) and (3)(b).
+
+[^f00012]: Footnote: Schedule 3, paragraph 10(4)(b) was amended by the Powers of Criminal Courts Act [1973 (c.62)](https://www.legislation.gov.uk/ukpga/1973/62), section 56(1) and Schedule 5, paragraph 38, the Probation Services Act [1993 (c.47)](https://www.legislation.gov.uk/ukpga/1993/47), Schedule 3, paragraph 3(1) and (4)(c) and the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 38 and 43(1) and (4).
+
+[^key-6702faeeab5f0d64e8b691a038c6ce02]: Commencement: Sch. 1 para. 4 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00013]: Footnote: [1970 c.39](https://www.legislation.gov.uk/ukpga/1970/39)
+
+[^f00014]: Footnote: In section 1(4), the definition of “public body” was amended by the Local Government Act [1972 (c.22)](https://www.legislation.gov.uk/ukpga/1972/22), Schedule 30, the Housing Act [1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50), section 89(2), the Police and Magistrates’ Courts Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29), Schedule 4, paragraph 5, the Police Act [1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16), Schedule 7, paragraph 1(2)(g), the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50), Schedule 9, paragraph 23, the Criminal Justice and Police Act [2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16), Schedule 6, paragraph 58 and Schedule 7, Part 5(1), and the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), section 8(1) and (2)(d)(i).
+
+[^key-a82cd3f134477ef198a82f6af73d716d]: Commencement: Sch. 1 para. 5 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00015]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56)
+
+[^f00016]: Footnote: Schedule 2, paragraph 53A was inserted by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 45.
+
+[^key-8ae7a6f243feb14c339f8bad0be4bb30]: Commencement: Sch. 1 para. 6 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00017]: Footnote: [1982 c.48](https://www.legislation.gov.uk/ukpga/1982/48)
+
+[^f00018]: Footnote: Schedule 13, paragraph 7(3)(b) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 71 and the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 32, paragraphs 34 and 36(1) and (2)(b).
+
+[^key-f186d34a937ea742b003a6011ab261a7]: Commencement: Sch. 1 para. 7 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00019]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20)
+
+[^f00020]: Footnote: Section 134(3)(e) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 72 and 74, the National Health Service Reform and Health Care Professions Act [2002 (c.17)](https://www.legislation.gov.uk/ukpga/2002/17), section 19(6), [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [S.I. 2007/961](https://www.legislation.gov.uk/uksi/2007/961), and is to be amended by the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28), Schedule 18, Part 18, from a date to be appointed.
+
+[^key-8660ddaaa8fbfdc0eb63feb73f2053b2]: Commencement: Sch. 1 para. 8 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00021]: Footnote: [1988 c.9](https://www.legislation.gov.uk/ukpga/1988/9)
+
+[^f00022]: Footnote: In Schedule 2, under the heading “public authorities”, the reference to a local probation board was inserted by the Criminal Justice Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43) Schedule 7, paragraph 82.
+
+[^key-393d5da23ccdfd1fb41eede9b5d9db6d]: Commencement: Sch. 1 para. 9 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00023]: Footnote: [1991 c.53](https://www.legislation.gov.uk/ukpga/1991/53)
+
+[^f00024]: Footnote: Section 37 was repealed by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 39, Part 7, with savings in [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950). Section 37(4A) was inserted by the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 8, paragraph 83(5) and was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4.
+
+[^f00025]: Footnote: Section 43 was repealed by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 37, Part 7, with savings in [S.I.2005/950](https://www.legislation.gov.uk/uksi/2005/950).Section 43(5) was amended by the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 8, paragraph 87(2) and the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4.
+
+[^f00026]: Footnote: Section 65 is to be repealed by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 32, paragraphs 62 and 63 and Schedule 7, Part 7, from a date to be appointed. Until that date, section 65 has effect subject to the modifications in the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 38, paragraph 5, as amended by the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31), Schedule 5, Part 4.
+
+[^f00027]: Footnote: Section 65(1)(a) was amended by the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 8, paragraph 94(1) and the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4(1)(a) and (2).
+
+[^f00028]: Footnote: Section 65(1A) was inserted by the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 8, paragraph 94(2) and was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4(1)(a), (1)(b) and (2).
+
+[^f00029]: Footnote: Section 65(5A) was inserted by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), section 63(1) and (2).
+
+[^f00030]: Footnote: Schedule 3, paragraph 10(2)(b) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 103, 111(a)(ii) and [S.I. 2005/886](https://www.legislation.gov.uk/uksi/2005/886).
+
+[^f00031]: Footnote: Schedule 3, paragraph 10(3)(a) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 103, 111(a)(i) and [S.I. 2005/886](https://www.legislation.gov.uk/uksi/2005/886).
+
+[^f00032]: Footnote: Schedule 3, paragraph 10(3)(c) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 103, 111(a)(i) and [S.I. 1996/3161](https://www.legislation.gov.uk/uksi/1996/3161).
+
+[^f00033]: Footnote: Schedule 3, paragraph 11(5)(b) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph (4)(1)(b) and (2) and [S.I. 1996/3161](https://www.legislation.gov.uk/uksi/1996/3161).
+
+[^key-896124587fe6229f7a3f3dee8ebaf8f7]: Commencement: Sch. 1 para. 10 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00034]: Footnote: [1993 c.9 (S.)](https://www.legislation.gov.uk/ukpga/1993/9)
+
+[^f00035]: Footnote: Section 12 is to be repealed by the Custodial Sentences and Weapons (Scotland) Act [2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), Schedule 5, from a date to be appointed. Section 12(2)(a) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4(1)(a) and (2), and [SI 2005/886](https://www.legislation.gov.uk/uksi/2005/886).
+
+[^f00036]: Footnote: Section 15 is to be repealed by the Custodial Sentences and Weapons (Scotland) Act [2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), Schedule 5, from a date to be appointed.
+
+[^f00037]: Footnote: Section 15(4) was amended by the Criminal Procedure (Consequential Provisions) (Scotland) Act [1995 (c.40) (S.)](https://www.legislation.gov.uk/ukpga/1995/40), Schedule 4, paragraph 86(1), (2) and (8) and the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4(1)(a) and (2).
+
+[^f00038]: Footnote: Section 15(5) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 116 and 117.
+
+[^key-dc37659bf01bae6f674017b41bee7000]: Commencement: Sch. 1 para. 11 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00039]: Footnote: [1995 c. 46 (S.)](https://www.legislation.gov.uk/ukpga/1995/46)
+
+[^f00040]: Footnote: Section 209(3)(a) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4(1)(a) and (2).
+
+[^f00041]: Footnote: In section 209(7) the definition of “supervising officer” was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 120 and 121.
+
+[^key-7364d4c4321a895e16f2cb0aa3ef2e83]: Textual amendment: [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/11/3)[(4)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/11/4)[(5)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/11/5) omitted (S.) (1.2.2011) by virtue of [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential and Supplementary Provisions) Order 2011 (S.S.I. 2011/25)](https://www.legislation.gov.uk/ssi/2011/25), [art. 1](https://www.legislation.gov.uk/ssi/2011/25/article/1), [sch. para. 11](https://www.legislation.gov.uk/ssi/2011/25/schedule/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/25/article/3))
+
+[^key-9500bb706c328863465c1a4205fb08fe]: Commencement: Sch. 1 para. 12 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00046]: Footnote: [1997 c.43](https://www.legislation.gov.uk/ukpga/1997/43)
+
+[^f00047]: Footnote: Section 31(2A) was inserted by the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 8, paragraph 131(2). Section 31(2A)(a) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4(1)(a) and (2) and [S.I. 2005/886](https://www.legislation.gov.uk/uksi/2005/886).
+
+[^f00048]: Footnote: Schedule 1, paragraph 8(6) was amended by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 32, paragraphs 82, 85(1) and (3)(c).
+
+[^f00049]: Footnote: Schedule 1, paragraph 11(6) was amended by the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 8, paragraph 135(6)(d) and Schedule 10, and the Criminal Justice and Courts Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 135 and 143.
+
+[^key-7b7cf57733ee892f77458050976a7ed3]: Commencement: Sch. 1 para. 13 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00050]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37)
+
+[^f00051]: Footnote: Section 5(2)(b) was amended by the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30), section 97(1) and (4)(a).
+
+[^f00052]: Footnote: Section 8(8)(a) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4(1)(a) and (2).
+
+[^key-424dee21400d15719820b16bd7d89d21]: Textual amendment: [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/13/4) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00054]: Footnote: Section 18(3) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraph 4(1)(a), (1)(b) and (2) and [S.I. 2005/886](https://www.legislation.gov.uk/uksi/2005/886).
+
+[^key-e084d11568d72e35f4732827a86f7204]: Textual amendment: [Sch. 1 para. 13(6)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/13/6) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 57](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/57); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+
+[^f00056]: Footnote: Section 115(2)(ea) was inserted by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
+
+[^key-7c38d6906b965e9f80c193cabc18af4a]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/14) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-f00deaf9bc70cf3c110bdb229f920be9]: Commencement: Sch. 1 para. 15 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00093]: Footnote: [2000 c.19](https://www.legislation.gov.uk/ukpga/2000/19)
+
+[^f00094]: Footnote: Section 64(2) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 205 and 207(a) and (b). Section 64(2) is in force for certain purposes. The date in force for the remaining purposes is to be appointed.
+
+[^f00095]: Footnote: Section 64(7) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 205 and 207(b). Section 64(7) is in force for certain purposes. The date in force for the remaining purposes is to be appointed.
+
+[^key-8fe6c7a1cad47ad9ddbe1bbfae1f08da]: Commencement: Sch. 1 para. 16 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00096]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21)
+
+[^f00097]: Footnote: Section 115(1)(e) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 208 and 209.
+
+[^f00098]: Footnote: Section 120(2)(e) was amended by the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 208 and 209.
+
+[^key-793380fa2f2ae3a657ab4142dc301b17]: Commencement: Sch. 1 para. 17 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00099]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36)
+
+[^key-420961687f10181ea4ce64817023b6bb]: Commencement: Sch. 1 para. 18 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00100]: Footnote: [2000 c.43](https://www.legislation.gov.uk/ukpga/2000/43)
+
+[^key-3d752238991372d358da49c9aaf6dc0b]: Commencement: Sch. 1 para. 19 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^key-d450ea9abad8bd64a2bdeeab5fdafcbf]: Modification: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/19) modified in part (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+
+[^f00101]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44)
+
+[^key-138a59a1a2cfad597e923c0be52b5882]: Textual amendment: [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/19/2)[(3)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/19/3) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00103]: Footnote: Section 184 is in force for certain purposes. The date in force for the remaining purposes is to be appointed.
+
+[^key-5bc6da7d3a1e113d6d8f50593d2569df]: Textual amendment: [Sch. 1 para. 19(5)-(13)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/19/5) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00107]: Footnote: In section 266(5), subsection (6) is to be inserted in section 64 of the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), from a date to be appointed.
+
+[^f00108]: Footnote: Section 325(9) was amended by the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraphs 253 and 254.
+
+[^key-46b6d829f65a3470baa49cb9958d22f0]: Textual amendment: [Sch. 1 para. 19(17)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/19/17) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00110]: Footnote: Schedule 10, paragraph 9(1)(b) was amended by [S.I. 2005/886](https://www.legislation.gov.uk/uksi/2005/886).
+
+[^f00111]: Footnote: Schedule 11, paragraph 22(7)(a) was amended by [S.I. 2005/886](https://www.legislation.gov.uk/uksi/2005/886).
+
+[^key-aad567d1d124859cdbad2d09e662f952]: Textual amendment: [Sch. 1 para. 19(20)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/19/20)[(21)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/19/21) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-ffdfdbaa93211070cef7c979a5a8cbdc]: Commencement: Sch. 1 para. 20 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00114]: Footnote: [2004 c. 28](https://www.legislation.gov.uk/ukpga/2004/28)
+
+[^f00115]: Footnote: Section 9(4)(a) is to be commenced from a date to be appointed. It was amended by National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraphs 262 and 263.
+
+[^f00116]: Footnote: Section 37, the section heading is to be substituted with “representations where restriction order made” by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 6, paragraphs 1 and 4, from a date to be appointed.
+
+[^f00117]: Footnote: Section 38, the section heading is to be substituted with “information where restriction order made” by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 6, paragraphs 1 and 6, from a date to be appointed.
+
+[^f00118]: Footnote: Section 43, the section heading is to be substituted with “representations where restriction direction made” by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 6, paragraphs 1 and 12, from a date to be appointed.
+
+[^f00119]: Footnote: Section 44, the section heading is to be substituted with “information where restriction direction made” by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 6, paragraphs 1 and 14, from a date to be appointed.
+
+[^key-2627badbe526b24b1ce70eba2304c1bd]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/21) revoked (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+
+[^key-c69818d00dc4effdcf2894ee8ede7a36]: Commencement: Sch. 1 para. 22 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00122]: Footnote: [2006. c.48](https://www.legislation.gov.uk/ukpga/2006/48)
+
+[^key-00bc96665d46e9cd7f9187a72235fcb5]: Commencement: Sch. 1 para. 23 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00123]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52)
+
+[^key-7d308a5f8f6750141a2d99be880624af]: Commencement: Sch. 1 para. 24 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00124]: Footnote: [2007 c.12](https://www.legislation.gov.uk/ukpga/2007/12)
+
+[^f00125]: Footnote: Section 36A is to be inserted after section 36 in the Domestic Violence, Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28) by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 6, paragraphs 1 and 3, from a date to be appointed.
+
+[^f00126]: Footnote: Section 38B is to be inserted after section 38 in the Domestic Violence, Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28) by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 6, paragraphs 1 and 7, from a date to be appointed.
+
+[^f00127]: Footnote: Section 41A is to be inserted after section 41 in the Domestic Violence, Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28) by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 6, paragraphs 1 and 9, from a date to be appointed.
+
+[^f00128]: Footnote: Section 42A is to be inserted after section 42 in the Domestic Violence, Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28) by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 6, paragraphs 1 and 11, from a date to be appointed.
+
+[^f00129]: Footnote: Section 44B is to be inserted after section 44 in the Domestic Violence, Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28) by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 6, paragraphs 1 and 15, from a date to be appointed.
+
+[^key-f83944d254e7bd3d921d846046a8b855]: Commencement: Sch. 1 para. 25 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00130]: Footnote: [2007 c. 19](https://www.legislation.gov.uk/ukpga/2007/19)
+
+[^f00131]: Footnote: section 7 is to be commenced from a date to be appointed.
+
+[^key-0a3aaa759b4db2eeca7eb27d75369a1f]: Commencement: Sch. 1 para. 26 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00132]: Footnote: [1952 c.52](https://www.legislation.gov.uk/ukpga/1952/52); Schedule A1 was inserted by the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), section 28(2).
+
+[^f00133]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16); Schedule 4A was inserted by the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), section 29(2).
+
+[^key-bc3679aa14d5dd77ba9890fe20062b55]: Textual amendment: [Sch. 1 para. 26(2)(c)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/26/2/c)[(d)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/26/2/d) revoked (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)
+
+[^f00136]: Footnote: [2000 c.10](https://www.legislation.gov.uk/ukpga/2000/10); the Schedule was inserted by the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), section 30(2).
+
+[^key-b58e70f71a48205bad0cebbdaef14cf4]: Textual amendment: [Sch. 1 para. 26(2)(f)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/26/2/f) revoked (18.9.2012) by [The Public Bodies (Abolition of Her Majesty’s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 44(a)](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/44/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
+
+[^f00138]: Footnote: [2004 c.23](https://www.legislation.gov.uk/ukpga/2004/23); section 67A was inserted by the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), Schedule 14, paragraph 60.
+
+[^f00139]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40)
+
+[^key-8f0bb4f3c5017d3b6f96f035686699d9]: Commencement: Sch. 1 para. 27 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^key-8ab45d1ee8154a81df4d0a82db01ea05]: Textual amendment: [Sch. 1 para. 27(2)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/27/2) revoked (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)
+
+[^key-9e38c944618b543fffe4e5e81199c18b]: Commencement: Sch. 2 para. 1 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00147]: Footnote: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277); amended by [S.I. 2004/1682](https://www.legislation.gov.uk/uksi/2004/1682); there are other amending instruments but none is relevant.
+
+[^key-1a9702ea83deeb0eff0173858d23128f]: Commencement: Sch. 2 para. 2 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00148]: Footnote: [S.I. 2001/2234](https://www.legislation.gov.uk/uksi/2001/2234); amended by [S.I. 2005/617](https://www.legislation.gov.uk/uksi/2005/617); there are other amending instruments but none is relevant.
+
+[^key-33b6540a4934c63c7a5b105f62bdc7fa]: Commencement: Sch. 2 para. 3 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00149]: Footnote: [S.I. 2001/2550](https://www.legislation.gov.uk/uksi/2001/2550), to which there are amendments not relevant to this Order.
+
+[^key-4c98b4f167fc9600673644afc062a04f]: Commencement: Sch. 2 para. 4 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00150]: Footnote: [S.I. 2001/3458](https://www.legislation.gov.uk/uksi/2001/3458), to which there are amendments not relevant to this Order.
+
+[^key-26ec52434ef01a5b14f73eafc3106229]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2008/912/schedule/2/paragraph/5) revoked (31.3.2011) by [The Accounts and Audit (England) Regulations 2011 (S.I. 2011/817)](https://www.legislation.gov.uk/uksi/2011/817), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/817/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/817/schedule)
+
+[^key-61a3530f5d6f5a05f2a040fd1428fbcf]: Commencement: Sch. 2 para. 6 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00152]: Footnote: [S.I. 2005/368](https://www.legislation.gov.uk/uksi/2005/368), to which there are amendments not relevant to this Order/
+
+[^key-72c56a2958de82710903370881a47829]: Commencement: Sch. 2 para. 7 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00153]: Footnote: [S.I. 2005/384](https://www.legislation.gov.uk/uksi/2005/384), to which there are amendments not relevant to this Order.
+
+[^key-74657795f8286c75faf200c797647718]: Commencement: Sch. 2 para. 8 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00154]: Footnote: [S.I. 2005/1388](https://www.legislation.gov.uk/uksi/2005/1388)
+
+[^key-62277a64b54fd53678421a424624bc66]: Commencement: Sch. 2 para. 9 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00155]: Footnote: [S.I. 2005/1389](https://www.legislation.gov.uk/uksi/2005/1389)
+
+[^key-e79a7a1e8ab807b2a093c363d40f6fec]: Commencement: Sch. 2 para. 10 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00156]: Footnote: [S.I. 2005/1390](https://www.legislation.gov.uk/uksi/2005/1390)
+
+[^key-9579d13eb5346debf4e417c431ae2f2d]: Commencement: Sch. 2 para. 11 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00157]: Footnote: [S.I. 2005/1972](https://www.legislation.gov.uk/uksi/2005/1972), to which there are amendments not relevant to this Order.
+
+[^key-438be7aba55e712da90229536e9607bd]: Commencement: Sch. 2 para. 12 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00158]: Footnote: [S.I. 2005/2966](https://www.legislation.gov.uk/uksi/2005/2966), to which there are amendments not relevant to this Order.
+
+[^key-7147d03e825a54eb5f85a062c641f5e2]: Commencement: Sch. 2 para. 13 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00159]: Footnote: [S.I. 2006/1705](https://www.legislation.gov.uk/uksi/2006/1705)
+
+[^key-d33e9c87f9912a9016e1056307ec87b9]: Commencement: Sch. 2 para. 14 in force at 1.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/912/article/1/1)
+
+[^f00160]: Footnote: [S.I. 2006/2930](https://www.legislation.gov.uk/uksi/2006/2930), to which there are amendments not relevant to this Order.
+
+[^key-3b2f2ad223eea9b54ad700303b216736]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2008/912/schedule/2/paragraph/15) omitted (15.5.2012) by virtue of [The Children Act 2004 Information Database (England) (Revocation) Regulations 2012 (S.I. 2012/1278)](https://www.legislation.gov.uk/uksi/2012/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1278/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/1278/regulation/3)
+
+[^f00162]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21)
+
+[^f00163]: Footnote: Section 2(1)
+
+[^f00164]: Footnote: Section 3(2)
+
+[^f00165]: Footnote: Section 5

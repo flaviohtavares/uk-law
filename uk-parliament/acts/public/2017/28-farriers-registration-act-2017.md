@@ -1,0 +1,338 @@
+---
+title: Farriers (Registration) Act 2017
+id: ukpga/2017/28
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2017-04-27'
+text_date: '2017-09-15'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2017/28
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2017/28/pdfs/ukpgaen_20170028_en.pdf
+- http://www.legislation.gov.uk/ukpga/2017/28/pdfs/ukpga_20170028_en.pdf
+- http://www.legislation.gov.uk/ukpga/2017/28/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Farriers (Registration) Act 2017
+
+> Text as at 2017-09-15.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Farriers (Registration) Act 2017
+
+2017 c. 28
+
+An Act to make provision about the constitution of the Farriers Registration Council and its committees.
+
+\[27th April 2017\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Constitution of Farriers Registration Council and its committees[^key-262cbfae6222d1e6a96a17730f7cb1dd]
+
+The Schedule amends the Farriers (Registration) Act 1975 to make changes to the constitution of the Farriers Registration Council and its committees.
+
+## 2. Power to make further changes to constitution of Council and its committees[^key-4dc15c5067506ff876bc4715790486a5]
+
+In the Farriers (Registration) Act 1975, after section 17 insert—
+
+> **17A. Power to change constitution of Council and its committees**
+>
+> (1) The Secretary of State may by regulations amend or replace—
+>
+> - (a) Part 1 of Schedule 1 (constitution of the Council);
+> - (b) Schedule 2 (constitution of the Investigating Committee);
+> - (c) Part 1 of Schedule 3 (constitution of the Disciplinary Committee).
+>
+> (2) Before making regulations under this section, the Secretary of State must obtain the consent of—
+>
+> - (a) the Scottish Ministers, and
+> - (b) the Welsh Ministers.
+>
+> (3) Before making regulations under this section, the Secretary of State must consult—
+>
+> - (a) the Council, and
+> - (b) any other persons the Secretary of State considers appropriate.
+>
+> (4) Regulations under this section—
+>
+> - (a) are to be made by statutory instrument;
+> - (b) may include incidental, supplementary, consequential, transitional, transitory or saving provision.
+>
+> (5) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 3. Extent, commencement and short title
+
+(1) This Act extends to England and Wales and Scotland.
+
+(2) Sections 1 and 2 and the Schedule come into force on such day as the Secretary of State may by regulations appoint.
+
+(3) This section comes into force on the day on which this Act is passed.
+
+(4) Regulations under subsection (2)—
+
+- (a) may appoint different days for different purposes;
+- (b) may make transitional, transitory or saving provision.
+
+(5) Regulations under this section are to be made by statutory instrument.
+
+(6) This Act may be cited as the Farriers (Registration) Act 2017.
+
+## SCHEDULE — Constitution of Farriers Registration Council etc
+
+Section 1
+
+### Part 1 — Constitution of Farriers Registration Council
+
+**1.**[^key-63599d9990f75cd83fc1e129ea97beec] For Part 1 of Schedule 1 to the Farriers (Registration) Act 1975 substitute—
+
+> **Part 1 — Constitution**
+>
+> **1. Membership**
+>
+> (1) The Council is to consist of the following members—
+>
+> - (a) three persons appointed by the Company, at least one of whom must be a practising farrier,
+> - (b) four practising farriers appointed in accordance with a scheme made by the Council,
+> - (c) two registered persons appointed by the National Association of Farriers, Blacksmiths and Agricultural Engineers,
+> - (d) two veterinary surgeons appointed by the Royal College of Veterinary Surgeons, and
+> - (e) one lay person appointed by each of the persons mentioned in sub-paragraph (2).
+>
+> (2) Those persons are—
+>
+> - (a) the British Horseracing Authority Limited,
+> - (b) the Royal Society for the Prevention of Cruelty to Animals,
+> - (c) Lantra (the company registered in England and Wales with the company registration number 2823181),
+> - (d) Scottish Enterprise, and
+> - (e) the British Equestrian Federation.
+>
+> (3) A scheme made by the Council under sub-paragraph (1)(b)—
+>
+> - (a) may, in particular, provide for elections to be held for the purpose of determining the persons to be appointed;
+> - (b) may be amended or replaced by the Council.
+>
+> (4) In making a scheme under sub-paragraph (1)(b), the Council must have due regard to the desirability of securing that the Council includes persons representative of all parts of Great Britain.
+>
+> (5) In this paragraph—
+>
+> - “**lay person**” means a person other than—
+>   - (a) a registered person,
+>   - (b) a person who, in the opinion of the person making the appointment, is qualified to be a registered person,
+>   - (c) a veterinary surgeon, or
+>   - (d) a veterinary practitioner;
+> - “**practising farrier**” means a registered person who carries out farriery.
+>
+> **2. Term of office**
+>
+> (1) Appointment as a member of the Council is for a term of 4 years.
+>
+> (2) A person may not be appointed as a member more than twice.
+>
+> (3) A member may resign at any time by notice given to the registrar.
+>
+> (4) A member may be removed from office if the member fails to satisfy any conditions about fitness to be a member that are determined by the Council.
+>
+> (5) The procedure for removal of a member from office is to be determined by the Council.
+>
+> **3. Casual vacancies**
+>
+> (1) Where a vacancy occurs among the members of the Council otherwise than by the expiry of a member's term of office, a person must be appointed to fill the vacancy.
+>
+> (2) So far as practicable, the appointment must be made so as to enable the person appointed to assume office at the time the vacancy arises.
+>
+> (3) The appointment is for a term expiring on the date on which the term of office of the member whose vacancy the person fills would have expired.
+>
+> (4) The appointment does not count as an appointment for the purposes of paragraph 2(2) (limit on number of times a person may be appointed as a member of the Council).
+>
+> **4. Procedure**
+>
+> (1) The quorum for a meeting of the Council is—
+>
+> - (a) seven, or
+> - (b) another number determined by the Council.
+>
+> (2) The Council must elect one of its members to act as chair of the Council.
+>
+> (3) The Council may make rules governing its meetings and procedure.
+>
+> (4) The rules may in particular provide—
+>
+> - (a) for a member of the Council to act as its chair in the absence of the member mentioned in sub-paragraph (2);
+> - (b) for a member acting as chair to have an additional casting vote.
+>
+> **5. Validity of acts**
+>
+> The validity of anything done by the Council is not affected by—
+>
+> - (a) a vacancy among its members, or
+> - (b) a defect in the appointment (or election) of a member.
+
+**2.**[^key-b4c54964c2d647aebad925863b123a1c] (1) Part 2 of Schedule 1 to that Act is amended as follows.
+
+(2) Omit paragraphs 7 and 8.
+
+(3) In paragraph 9—
+
+- (a) the existing text becomes sub-paragraph (1);
+- (b) after that sub-paragraph insert—
+
+  > (2) The Council may make rules governing the meetings and procedure of an additional committee or area council.
+  >
+  > (3) The rules may in particular provide—
+  >
+  > - (a) for a member of the additional committee or area council to act as its chair;
+  > - (b) for a member acting as chair to have an additional casting vote.
+
+**3.**[^key-63144a0ca7dcebd2990ab45af0d91fdd] In section 18 of that Act (interpretation), insert at the appropriate places—
+
+> “**registered person**” means a person who is registered in the register;
+
+;
+
+> “**veterinary practitioner**” means a person registered in the supplementary veterinary register kept under the Veterinary Surgeons Act 1966;
+
+;
+
+> “**veterinary surgeon**” means a person registered in the register of veterinary surgeons kept under that Act.
+
+### Part 2 — Constitution of Investigating Committee
+
+**4.**[^key-21f5c78008d4dfe58b1f4d8f15c5e791] In section 13(1) of the Farriers (Registration) Act 1975 (the Investigating Committee), omit “from among its members”.
+
+**5.**[^key-90f41a9b010e610e584e5423d6edb5ba] For Schedule 2 to that Act substitute—
+
+> **SCHEDULE 2 — Constitution of the Investigating Committee**
+>
+> Section 13
+>
+> **Membership**
+>
+> **1.** (1) The Investigating Committee is to consist of six members appointed by the Council.
+>
+> (2) At least two of the members must be registered persons.
+>
+> (3) None of the members may be—
+>
+> - (a) a member of the Council,
+> - (b) an officer or servant of the Council, or
+> - (c) a member of the Disciplinary Committee.
+>
+> (4) The Council must designate a member of the Investigating Committee to act as its chair.
+>
+> (5) The Council may delegate its function under sub-paragraph (1) to any extent.
+>
+> **Term of office**
+>
+> **2.** (1) Appointment as a member of the Investigating Committee is for a term determined by the Council.
+>
+> (2) A member may resign at any time by notice given to the registrar.
+>
+> (3) A member may be removed from office if the member fails to satisfy any conditions about fitness to be a member that are determined by the Council.
+>
+> (4) The procedure for removal of a member from office is to be determined by the Council.
+>
+> **Procedure**
+>
+> **3.** (1) The quorum for a meeting of the Investigating Committee is three, of whom one must be a registered person.
+>
+> (2) The Council may make rules governing the Committee's meetings and procedure.
+>
+> (3) The rules may in particular provide—
+>
+> - (a) for a member of the Committee to act as its chair in the absence of the member designated under paragraph 1(4);
+> - (b) for a member acting as chair to have an additional casting vote.
+>
+> **Validity of acts**
+>
+> **4.** The validity of anything done by the Investigating Committee is not affected by—
+>
+> - (a) a vacancy among its members, or
+> - (b) a defect in the appointment of a member.
+
+### Part 3 — Constitution of Disciplinary Committee
+
+**6.**[^key-27a6454c246864608fd42b95333b3190] In section 14 of the Farriers (Registration) Act 1975 (the Disciplinary Committee)—
+
+- (a) in subsection (1), omit “from among its members”;
+- (b) in subsection (2), for “and procedure of” substitute “ of, and proceedings before, ”.
+
+**7.**[^key-50910f203c592b288fcc167c81c8efaa] For Part 1 of Schedule 3 to that Act substitute—
+
+> **Part 1 — Constitution of Disciplinary Committee**
+>
+> **1. Membership**
+>
+> (1) The Disciplinary Committee is to consist of nine members appointed by the Council.
+>
+> (2) At least three of the members must be registered persons.
+>
+> (3) None of the members may be—
+>
+> - (a) a member of the Council,
+> - (b) an officer or servant of the Council, or
+> - (c) a member of the Investigating Committee.
+>
+> (4) The Council must designate a member of the Disciplinary Committee to act as its chair.
+>
+> (5) The Council may delegate its function under sub-paragraph (1) to any extent.
+>
+> **2. Term of office**
+>
+> (1) Appointment as a member of the Disciplinary Committee is for a term determined by the Council.
+>
+> (2) A member may resign at any time by notice given to the registrar.
+>
+> (3) A member may be removed from office if the member fails to satisfy any conditions about fitness to be a member that are determined by the Council.
+>
+> (4) The procedure for removal of a member from office is to be determined by the Council.
+>
+> **3. Procedure**
+>
+> (1) The quorum for a meeting of the Disciplinary Committee is five, of whom one must be a registered person.
+>
+> (2) A person who has acted in relation to a case as a member of the Investigating Committee may not act in relation to the case as a member of the Disciplinary Committee.
+>
+> (3) The Council may make rules governing the Disciplinary Committee's meetings and procedure.
+>
+> (4) The rules may in particular provide for a member of the Committee to act as its chair in the absence of the member designated under paragraph 1(4).
+>
+> (5) But the power to make rules under this paragraph may not be used to make provision that could be made by rules under paragraph 4.
+>
+> **3A. Validity of acts**
+>
+> The validity of anything done by the Disciplinary Committee is not affected by—
+>
+> - (a) a vacancy among its members, or
+> - (b) a defect in the appointment of a member.
+
+**8.**[^key-2c249bb3b19acb9eefe3f5a7983d92ac] In Part 2 of Schedule 3 to that Act, in the heading, for “Procedure of” substitute “ Proceedings before ”.
+
+## Annotations
+
+[^key-262cbfae6222d1e6a96a17730f7cb1dd]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/28/section/1) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+
+[^key-4dc15c5067506ff876bc4715790486a5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/28/section/2) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+
+[^key-63599d9990f75cd83fc1e129ea97beec]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/1) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+
+[^key-b4c54964c2d647aebad925863b123a1c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+
+[^key-63144a0ca7dcebd2990ab45af0d91fdd]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/3) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+
+[^key-21f5c78008d4dfe58b1f4d8f15c5e791]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/4) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+
+[^key-90f41a9b010e610e584e5423d6edb5ba]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/5) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+
+[^key-27a6454c246864608fd42b95333b3190]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/6) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+
+[^key-50910f203c592b288fcc167c81c8efaa]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/7) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+
+[^key-2c249bb3b19acb9eefe3f5a7983d92ac]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/8) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)

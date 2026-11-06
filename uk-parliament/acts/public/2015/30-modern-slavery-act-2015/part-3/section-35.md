@@ -1,0 +1,51 @@
+---
+title: Modern Slavery Act 2015, section 35
+act: Modern Slavery Act 2015
+section: '35'
+status: revised-with-pending-changes
+text_date: '2026-09-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2015/30/section/35
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Modern Slavery Act 2015, section 35
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 35. Enforcement powers in relation to ships: England and Wales[^key-1c78079554121c02c4808ffb3b7328e8]
+
+*Extent: E+W*
+
+(1) An English and Welsh constable or an enforcement officer may exercise the powers set out in Part 1 of Schedule 2 (“Part 1 powers”) in relation to—
+
+- (a) a United Kingdom ship in England and Wales waters, foreign waters or international waters,
+- (b) a ship without nationality in England and Wales waters or international waters,
+- (c) a foreign ship in England and Wales waters, or
+- (d) a ship, registered under the law of a relevant territory, in England and Wales waters.
+
+(2) But Part 1 powers may be exercised only—
+
+- (a) for the purpose of preventing, detecting, investigating or prosecuting an offence under section 1 or 2, and
+- (b) in accordance with the rest of this section.
+
+(3) The authority of the Secretary of State is required before an English and Welsh constable or an enforcement officer may exercise Part 1 powers in relation to a United Kingdom ship in foreign waters.
+
+(4) Authority for the purposes of subsection (3) may be given only if the State or relevant territory in whose waters the powers would be exercised consents to the exercise of the powers.
+
+(5) The authority of the Secretary of State is required before an English and Welsh constable or an enforcement officer may exercise Part 1 powers in relation to a foreign ship, or a ship registered under the law of a relevant territory, within the territorial sea adjacent to the United Kingdom.
+
+(6) Authority for the purposes of subsection (5) may be given in relation to a foreign ship only if—
+
+- (a) the home state has requested the assistance of the United Kingdom for the purpose mentioned in subsection (2)(a),
+- (b) the home state has authorised the United Kingdom to act for that purpose, or
+- (c) the Convention otherwise permits the exercise of Part 1 powers in relation to the ship.
+
+(7) In giving authority for the purposes of subsection (5) in relation to a foreign ship the Secretary of State must give effect to any conditions or limitations that the home state imposes as part of a request or authorisation of the kind mentioned in subsection (6)(a) or (b) (if the authority is given as a result of that request or authorisation).
+
+## Annotations
+
+[^key-1c78079554121c02c4808ffb3b7328e8]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2015/30/section/35) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/a)

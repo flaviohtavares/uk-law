@@ -1,0 +1,97 @@
+---
+title: Pension Schemes Act 2021, section 109
+act: Pension Schemes Act 2021
+section: '109'
+status: revised
+text_date: '2026-07-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2021/1/section/109
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pension Schemes Act 2021, section 109
+
+> Text as at 2026-07-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 109. Duty to give notices and statements to the Regulator in respect of certain events
+
+*Extent: E+W+S*
+
+(1) The Pensions Act 2004 is amended as follows.
+
+(2)[^key-9318037a9e65ba98a4b92280e1c24b05] After section 69 insert—
+
+> **69A. Duty to give notices and statements to the Regulator in respect of certain events**
+>
+> (1) Except where the Regulator otherwise directs, the appropriate person must—
+>
+> - (a) give notice to the Regulator of any notifiable event;
+> - (b) give notice to the Regulator of any material change in, or in the expected effects of, a notifiable event;
+> - (c) give notice to the Regulator if a notifiable event is not going to, or does not, take place.
+>
+> (2) In subsection (1) “**notifiable event**” means a prescribed event in respect of the employer in relation to an eligible scheme.
+>
+> (3) For the purposes of subsection (1) each of the following is “the appropriate person”—
+>
+> - (a) the employer in relation to the scheme,
+> - (b) a person connected with the employer,
+> - (c) an associate of the employer, and
+> - (d) a person of a prescribed description.
+>
+> (4) Regulations may make provision about the meaning of a “**material change**” for the purposes of this section.
+>
+> (5) A notice under subsection (1) must be given to the Regulator—
+>
+> - (a) in the case of a notice under subsection (1)(a), as soon as reasonably practicable after the person giving it becomes aware of the notifiable event, subject to subsection (6),
+> - (b) in the case of a notice under subsection (1)(b), as soon as reasonably practicable after the person giving it becomes aware of the material change, subject to subsection (6), or
+> - (c) in the case of a notice under subsection (1)(c), as soon as reasonably practicable after the person giving it becomes aware that the notifiable event is not going to take place or (as the case may be) did not take place.
+>
+> (6) Regulations may require a notice under subsection (1)(a) or (b) to be given before the beginning of the prescribed period ending with—
+>
+> - (a) the notifiable event in question, or
+> - (b) the material change in question.
+>
+> (7) A notice under subsection (1)(a) or (b) must be accompanied by a statement (an “accompanying statement”).
+>
+> (8) An accompanying statement must contain prescribed information.
+>
+> (9) The information that may be prescribed under subsection (8) includes, in particular—
+>
+> - (a) a description of the event,
+> - (b) a description of any adverse effects of the event on the eligible scheme,
+> - (c) a description of any steps taken to mitigate those adverse effects, and
+> - (d) a description of any communication with the trustees or managers of the eligible scheme about the event.
+>
+> (10) Where a person gives the Regulator a notice under subsection (1), the person must give a copy of the notice and any accompanying statement to the trustees or managers of the eligible scheme at the same time.
+>
+> (11) A notice or accompanying statement under this section must be in writing.
+>
+> (12) No duty to which a person is subject is to be regarded as contravened merely because of any information or opinion contained in a notice or accompanying statement under this section.
+>
+> This is subject to section 311 (protected items).
+>
+> (13) Section 88A (financial penalties) applies to a person who, without reasonable excuse, fails to comply with an obligation imposed on the person by this section.
+>
+> (14) For the purposes of this section—
+>
+> - (a) section 249 of the Insolvency Act 1986 (connected persons) applies as it applies for the purposes of any provision of the first Group of Parts of that Act,
+> - (b) section 435 of the Insolvency Act 1986 (associated persons) applies as it applies for the purposes of that Act, and
+> - (c) section 229 of the Bankruptcy (Scotland) Act 2016 (associated persons) applies as it applies for the purposes of that Act.
+>
+> (15) In this section—
+>
+> - “**eligible scheme**” has the meaning given by section 126;
+> - “**event**” includes a failure to act.
+
+(3) In section 80 (offences of providing false or misleading information to the Regulator), after subsection (1)(a)(iia) (inserted by section 108) insert—
+
+> - (iib) section 69A (duty to give notices and statements to the Regulator in respect of certain events),
+
+.
+
+## Annotations
+
+[^key-9318037a9e65ba98a4b92280e1c24b05]: Commencement: [S. 109(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/109/2) in force at 31.5.2021 for specified purposes by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/b)

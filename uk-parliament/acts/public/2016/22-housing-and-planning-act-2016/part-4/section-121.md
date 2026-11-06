@@ -1,0 +1,51 @@
+---
+title: Housing and Planning Act 2016, section 121
+act: Housing and Planning Act 2016
+section: '121'
+status: not-yet-in-force
+text_date: '2026-09-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2016/22/section/121
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing and Planning Act 2016, section 121
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 121. Secure and assured tenancies: transfer of tenancy
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The Localism Act 2011 is amended as follows.
+
+(2) In section 158 of the Localism Act 2011 (secure and assured tenancies: transfer of tenancy)—
+
+- (a) in subsection (3)(a), for “not a flexible tenancy” substitute “ an old-style secure tenancy ”;
+- (b) in subsection (4)(a), for “is a flexible tenancy” substitute “ is not an old-style secure tenancy ”;
+- (c) omit subsection (6);
+- (d) in subsection (7), for “fifth” substitute “ fourth ”;
+- (e) for subsections (8) and (9) substitute—
+
+  > (8) The new tenancy is to be granted on whatever terms the landlord determines.
+  >
+  > (9) A landlord must, on request by a relevant tenant, inform the tenant of the terms on which a new tenancy will be granted to that tenant.
+  >
+  > (9A) Subsection (9B) applies in a case where—
+  >
+  > - (a) the request was made before section 121 of the Housing and Planning Act 2016 came into force, and
+  > - (b) one or more of the landlords had not yet complied with the request when that section came into force.
+  >
+  > (9B) In that case any new tenancy granted in pursuance of this section to a relevant tenant whose existing tenancy is an old-style secure tenancy, or an assured tenancy that is not an assured shorthold tenancy, must be—
+  >
+  > - (a) an old-style secure tenancy, or
+  > - (b) an assured tenancy that is not an assured shorthold tenancy,
+  >
+  > according to the landlord's capacity to grant a tenancy of either kind.
+
+(3) In section 159 (interpretation of section 158 etc), in subsection (6), omit paragraph (b).

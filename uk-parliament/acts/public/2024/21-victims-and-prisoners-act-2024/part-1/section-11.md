@@ -1,0 +1,80 @@
+---
+title: Victims and Prisoners Act 2024, section 11
+act: Victims and Prisoners Act 2024
+section: '11'
+status: not-yet-in-force
+text_date: '2026-09-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2024/21/section/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Victims and Prisoners Act 2024, section 11
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 11. Reviewing code compliance: Secretary of State and Attorney General[^key-0f563f166146c49b72e945215a47dfd2]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The Secretary of State and the Attorney General, acting jointly, must—
+
+- (a) keep under review the code compliance of the persons mentioned in subsection (6), and
+- (b) annually, prepare and publish a report about the code compliance of those persons in the period to which the report relates.
+
+(2) If the Secretary of State and the Attorney General agree that the code compliance of a person mentioned in subsection (6) is unsatisfactory they may—
+
+- (a) if the person is the chief officer of police for a police area, give the elected local policing body for the area a notice setting out their reasons for being of that view;
+- (b) in any other case, give the person a notice setting out their reasons for being of that view.
+
+(3) If the Secretary of State and the Attorney General give a notice under subsection (2) they must—
+
+- (a) if the notice is given under paragraph (a) of that subsection, send a copy of the notice to the chief officer of police to whom the notice relates, and
+- (b) in any case, publish the notice in such form and manner as they consider appropriate.
+
+(4) The Secretary of State and the Attorney General must consult the Commissioner for Victims and Witnesses before—
+
+- (a) publishing a report under subsection (1)(b);
+- (b) giving a notice under subsection (2).
+
+(5) The Secretary of State must publish such compliance information as the Secretary of State considers will enable members of the public to assess the code compliance of the persons mentioned in subsection (6) in the period to which the information relates.
+
+(6) The persons are—
+
+- (a) each criminal justice body which provides services in a police area;
+- (b) the Chief Constable of the British Transport Police Force;
+- (c) the Chief Constable of the Ministry of Defence Police.
+
+(7) For the purposes of this section—
+
+- (a) “**compliance information**” means information provided to the Secretary of State under section 8(2)(a), 9(5)(a) or 10(4)(b), or information collected under arrangements mentioned in section 7;
+- (b) the “code compliance” of a person is whether and how the services provided by the person in the relevant area are provided in accordance with the duty in section 5(1).
+
+(8) In subsection (7)(b), “**relevant area**” means—
+
+- (a) in relation to a criminal justice body which provides services in a police area, that area;
+- (b) in relation to the Chief Constable of the British Transport Police Force or the Chief Constable of the Ministry of Defence Police, England and Wales.
+
+(9) The first report under paragraph (b) of subsection (1) may relate to any 12 month period that includes the day on which that paragraph comes into force.
+
+(10) Subsequent reports must relate to the 12 month period immediately following the 12 month period to which the previous report relates.
+
+(11) The Secretary of State must lay each report before Parliament.
+
+(12) Information or a report published under this section—
+
+- (a) must be published as soon as is reasonably practicable after the end of the period to which it relates;
+- (b) may be published in such form and manner as the Secretary of State considers appropriate.
+
+(13) Where information published by the Secretary of State under subsection (5) relates to a particular police area, the elected local policing body for the area must take reasonable steps to make members of the public in the area aware of how to access the information.
+
+(14) In this section, “**criminal justice body**” has the meaning given by section 6(6).
+
+## Annotations
+
+[^key-0f563f166146c49b72e945215a47dfd2]: Commencement: S. 11 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

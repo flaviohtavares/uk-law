@@ -1,0 +1,65 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 512A
+act: Income Tax (Trading and Other Income) Act 2005
+section: 512A
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/512A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 512A
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 512A. Recalculating gains under section 511[^key-d97e5ff0b6e4878303e6fee5d1a1ee42]
+
+*Extent: E+W+S+N.I.*
+
+(1) An interested person may apply to an officer of Revenue and Customs for a review of a calculation under section 511 on the ground that the gain arising from it is wholly disproportionate.
+
+(2) For the purposes of this section an interested person in relation to a calculation under section 511 is a person who would be liable for all or any part of the amount of tax that would be chargeable under this Chapter—
+
+- (a) if the gain were not recalculated, or
+- (b) if all rights under the policy or contract had been surrendered immediately after the surrender or assignment of rights which gave rise to the calculation.
+
+(3) Applications under subsection (1) must be—
+
+- (a) made in writing, and
+- (b) received by an officer of Revenue and Customs within—
+  - (i) the four tax years following the tax year in which the gain arose, or
+  - (ii) such longer period as the officer may agree.
+
+(4) In considering whether the gain is wholly disproportionate, the officer may take into account (as well as the amount of the gain) any factor which the officer considers appropriate including, so far as the officer considers it appropriate to do so—
+
+- (a) the economic gain on the rights surrendered or assigned,
+- (b) the amount of the premiums paid under the policy or contract,
+- (c) the amount of tax that would be chargeable under this Chapter if the gain were not recalculated.
+
+(5) If, following an application under subsection (1), an officer considers that the gain arising from the calculation under section 511 is wholly disproportionate, the officer must recalculate the gain on a just and reasonable basis.
+
+(6) Following a recalculation under subsection (5), references in this Chapter (but excluding this section) to a calculation under section 511 are to be regarded as references to a recalculation under this section.
+
+(7) Following a recalculation under subsection (5), an officer of Revenue and Customs must notify the interested person of the result of the recalculation.
+
+(8) If two or more persons are interested persons in relation to a calculation under section 511—
+
+- (a) an application under subsection (1) may be made only by all the interested persons jointly, and
+- (b) subsection (7) applies as if the reference to the interested person were a reference to each of the interested persons.
+
+(9) Following a recalculation under subsection (5), all necessary adjustments and repayments of income tax are to be made.
+
+(10) No recalculation is to be made under this section if the gain mentioned in subsection (1) arises as a result of one or more transactions which form part of arrangements, the main purpose, or one of the main purposes, of which is to obtain a tax advantage for any person.
+
+(11) In this section—
+
+- “**arrangements**” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable), and
+- “**tax advantage**” has the meaning given by section 1139 of CTA 2010.
+
+## Annotations
+
+[^key-d97e5ff0b6e4878303e6fee5d1a1ee42]: Textual amendment: [S. 512A](https://www.legislation.gov.uk/ukpga/2005/5/section/512A) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 9(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/9/3)

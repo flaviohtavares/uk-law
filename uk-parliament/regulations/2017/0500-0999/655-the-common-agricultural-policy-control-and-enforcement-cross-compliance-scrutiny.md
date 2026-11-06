@@ -1,0 +1,79 @@
+---
+title: The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) (Amendment) (England) Regulations 2017
+id: uksi/2017/655
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-05-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/655
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/655/pdfs/uksiem_20170655_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/655/pdfs/uksi_20170655_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/655/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) (Amendment) (England) Regulations 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 655
+
+Agriculture, England
+
+The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) (Amendment) (England) Regulations 2017
+
+Made
+
+12th May 2017
+
+Coming into force in accordance with regulation 1(1)
+
+To be laid before Parliament
+
+13th June 2017
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy[^f00002], and makes these Regulations under the powers conferred by that section.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) (Amendment) (England) Regulations 2017 and come into force on 13th May 2017.
+
+(2) They extend to England and Wales only.
+
+## 2. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014
+
+In regulation 5(1) of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (applications)[^f00003], after sub-paragraph (a) insert—
+
+> - (aa) if the relevant claim year is 2017 and the document being submitted is a payment claim relating to a commitment which takes effect from 1st January 2017 (inclusive of that date), 15th June,
+
+Andrea Leadsom
+
+Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+12th May 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 ([S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263)) (“the Control Regulations”) in reliance on the derogation provided for in Article 1 of Commission Implementing Regulation (EU) 2017/807 derogating from Implementing Regulation (EU) No 809/2014 as regards the final date of submission of the single application, aid applications or payment claims, the final date for notification of amendments to the single application or payment claim and the final date for applications for allocation of payment entitlements or the increase of the value of payment entitlements under the basic payment scheme for the year 2017 (OJ No L 121, 12.5.2017, p. 35).
+
+Regulation 2 amends regulation 5 of the Control Regulations (applications) to change the final date, in 2017, for submitting a rural development payment claim relating to a commitment which takes effect from 1st January 2017.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The function of the former Minister of Agriculture, Fisheries and Food of making regulations under section 2(2) was transferred to the Secretary of State by article 2(2) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^f00002]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811), to which there is an amendment not relevant to these Regulations.
+
+[^f00003]: Footnote: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), amended by [S.I. 2015/1325](https://www.legislation.gov.uk/uksi/2015/1325); there is another amending instrument but it is not relevant.

@@ -1,0 +1,34 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 8
+act: Taxation (International and Other Provisions) Act 2010
+section: '8'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/8
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 8
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 8. Interpretation: “unilateral relief arrangements” means rules 1 to 9, etc
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Part “**unilateral relief arrangements**”, in relation to a territory outside the United Kingdom, means the rules set out in sections 9 to 17.
+
+(2) In sections 11 to 17, and in Chapter 2 (except section 29) in its application to relief under unilateral relief arrangements, references to tax payable or paid under the law of a territory outside the United Kingdom include only—
+
+- (a) taxes which are charged on income and which correspond to income tax,
+- (b) taxes which are charged on income or chargeable gains and which correspond to corporation tax, and
+- (c) taxes which are charged on capital gains and which correspond to capital gains tax.
+
+(3) For the purposes of subsection (2), tax may correspond to income tax, corporation tax or capital gains tax even though it—
+
+- (a) is payable under the law of a province, state or other part of a country, or
+- (b) is levied by or on behalf of a municipality or other local body.

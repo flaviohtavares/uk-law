@@ -1,0 +1,142 @@
+---
+title: The Selective Licensing of Houses (Specified Exemptions) (England) Order 2006
+id: uksi/2006/370
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-02-15'
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2006/370
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/370/pdfs/uksiem_20060370_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/370/pdfs/uksi_20060370_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/370/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Selective Licensing of Houses (Specified Exemptions) (England) Order 2006
+
+> Text as at 2026-05-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2006 No. 370
+
+HOUSING, ENGLAND
+
+The Selective Licensing of Houses (Specified Exemptions) (England) Order 2006
+
+Made
+
+15th February 2006
+
+Laid before Parliament
+
+22nd February 2006
+
+Coming into force
+
+6th April 2006
+
+The Secretary of State, in exercise of the powers conferred by section 79(4) of the Housing Act 2004[^f00001], makes the following Order:
+
+## 1. Citation, commencement and application[^key-fdd56b47990f64fae3b9b8c52907c11b]
+
+(1) This Order may be cited as The Selective Licensing of Houses (Specified Exemptions) (England) Order 2006 and shall come into force on 6th April 2006.
+
+(2) This Order applies to houses[^f00002] in England only.
+
+## 2. Exempt tenancies or licences for the purposes of Part 3 of the Housing Act 2004[^key-fbbc1d30c9d675f979d343647ee40ebb]
+
+(1) A tenancy or licence of a house or a dwelling contained in a house is an exempt tenancy or licence for the purposes of Part 3 of the Housing Act 2004 (“the Act”) if it falls within any of the following descriptions—
+
+- (a) a tenancy or licence of a house or dwelling that is subject to a prohibition order made under section 20 of the Act whose operation has not been suspended in accordance with section 23 of the Act;
+- (b) a tenancy described in any of the following provisions of Part 1 of Schedule 1 to the Housing Act 1988[^f00003], which cannot be an assured tenancy by virtue of section 1(2) of that Act—
+  - (i) paragraph 4 (business tenancies);
+  - (ii) paragraph 5 (licensed premises) [^f00004];
+  - (iii) paragraph 6 (tenancies of agricultural land); or
+  - (iv) paragraph 7 (tenancies of agricultural holdings etc) [^f00005];
+- (c) a tenancy or licence of a house or a dwelling that is managed or controlled by —
+  - (i) a local housing authority;
+  - (ii) a police authority established under section 3 of the Police Act 1996[^f00006];
+  - (iii) the Metropolitan Police Authority established under section 5B of the Police Act 1996;
+  - (iv) a fire and rescue authority under the Fire and Rescue Services Act 2004[^f00007]; or
+  - (v) a health service body within the meaning of section 4 of the National Health Service and Community Care Act 1990[^f00008];
+- (d) a tenancy or licence of a house which is not a house in multiple occupation for any purposes of the Act (except Part 1) by virtue of—
+  - (i) paragraph 3 of Schedule 14 to the Act (buildings regulated otherwise than under the Act); or
+  - (ii) paragraph 3A[^key-dcdca5a3cac18777849a085b947f4ec1] of that Schedule (buildings occupied by students : England[^key-a1d9d88351e8766c11308d285c4741d3])[^f00009];
+- (e) a tenancy of a house or a dwelling where—
+  - (i) the full term of the tenancy is more than 21 years;
+  - (ii) the lease does not contain a provision enabling the landlord to determine the tenancy, other than by forfeiture, earlier than at end of the term; and
+  - (iii) the house or dwelling is occupied by a person to whom the tenancy was granted or his successor in title or any members of such person’s family;
+- (f) a tenancy or licence of a house or a dwelling granted by a person to a person who is a member of his family where—
+  - (i) the person to whom the tenancy or licence is granted occupies the house or dwelling as his only or main residence;
+  - (ii) the person granting the tenancy or licence is the freeholder or the holder of a lease of the house or dwelling the full term of which is more than 21 years; and
+  - (iii) the lease referred to in sub-paragraph (ii) does not contain a provision enabling the landlord to determine the tenancy, other than by forfeiture, earlier than at end of the term;
+- (g) a tenancy or licence that is granted to a person in relation to his occupancy of a house or a dwelling as a holiday home; or
+- (h) a tenancy or licence under the terms of which the occupier shares any accommodation with the landlord or licensor or a member of the landlord’s or licensor’s family.
+
+(2) For the purposes of this article—
+
+- (a) a person is a member of the same family as another person if—
+  - (i) those persons live as a couple;
+  - (ii) one of them is the relative of the other; or
+  - (iii) one of them is, or is a relative of, one member of a couple and the other is a relative of the other member of the couple;
+- (b) “couple” means two persons who are married to , or civil partners of, each other or live together as if they were a married couple or civil partners[^key-1ee609150214c2052e05a4de623d15be];
+- (c) “relative” means parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew, niece or cousin;
+- (d) a relationship of the half-blood is to be treated as a relationship of the whole blood;
+- (e) a stepchild of a person is to be treated as his child;
+- (f) an occupier shares accommodation with another person if he has the use of an amenity in common with that person (whether or not also in common with others); and
+- (g) “amenity” includes a toilet, personal washing facilities, a kitchen or a living room but excludes any area used for storage, a staircase , corridor or other means of access.
+
+Signed by authority of the First Secretary of State
+
+Kay Andrews
+
+Parliamentary Under Secretary of State
+
+Office of the Deputy Prime Minister
+
+15th February 2006
+
+(This note is not part of the Order)
+
+This Order specifies the descriptions of tenancies and licences of houses, or of dwellings contained in houses, that are exempt tenancies or licences for the purposes of Part 3 of the Housing Act 2004 (“the Act”). The effect of the exemption is that Part 3 of the Act does not apply to houses in England that are subject to a tenancy or licence described in article 2 and they are not, therefore, subject to the licensing requirements described in section 85 of the Act.
+
+A full regulatory impact assessment of the effect that this Order will have on the costs of business is available from the Licensing Branch, the Office of the Deputy Prime Minister 2/G9 Eland House, Bressenden Place, London, SW1E 5DU (telephone 0207 944 3149, e-mail licensing@odpm.gsi.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by section 79(4) of the Act are exercisable as respects England, by the Secretary of State and, as respects Wales by the National Assembly for Wales. See the definition of the appropriate national authority in section 261(1).
+
+[^key-fdd56b47990f64fae3b9b8c52907c11b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2006/370/article/1) in force at 6.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/370/article/1/2)
+
+[^f00002]: Footnote: For the meaning of house see section 99 of the Act.
+
+[^key-fbbc1d30c9d675f979d343647ee40ebb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2006/370/article/2) in force at 6.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/370/article/1/2)
+
+[^f00003]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
+
+[^f00004]: Footnote: Paragraph 5 of Part 1 of Schedule 1 to the Housing Act 1988 has been amended by section 198(1) and paragraph 108 of Schedule 6 to the Licensing Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17).
+
+[^f00005]: Footnote: Paragraph 7 of Part 1 of Schedule 1 to the Housing Act 1988 has been amended by section 40 and paragraph 34 of the Schedule to the Agricultural Tenancies Act [1995 (c. 8)](https://www.legislation.gov.uk/ukpga/1995/8).
+
+[^f00006]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
+
+[^f00007]: Footnote: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19).
+
+[^f00008]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
+
+[^key-dcdca5a3cac18777849a085b947f4ec1]: Textual amendment: Word in art. 2(1)(d)(ii) substituted (1.5.2026) by [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2026/325/regulation/6/a)
+
+[^key-a1d9d88351e8766c11308d285c4741d3]: Textual amendment: Word in art. 2(1)(d)(ii) inserted (1.5.2026) by [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2026/325/regulation/6/b)
+
+[^f00009]: Footnote: See section 254(5) of the Act.
+
+[^key-1ee609150214c2052e05a4de623d15be]: Textual amendment: Words in art. 2(2)(b) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 85](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/85)

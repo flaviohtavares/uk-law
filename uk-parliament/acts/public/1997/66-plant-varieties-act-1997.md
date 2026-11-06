@@ -1,0 +1,1213 @@
+---
+title: Plant Varieties Act 1997
+id: ukpga/1997/66
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1997-11-27'
+text_date: '2026-03-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1997/66
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1997/66/pdfs/ukpga_19970066_en.pdf
+- http://www.legislation.gov.uk/ukpga/1997/66/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Plant Varieties Act 1997
+
+> Text as at 2026-03-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Plant Varieties Act 1997
+
+1997 c. 66
+
+An Act to make provision about rights in relation to plant varieties; to make provision about the Plant Varieties and Seeds Tribunal; to extend the time limit for institution of proceedings for contravention of seeds regulations; and for connected purposes.
+
+\[27th November 1997\]
+
+[^c877800][^c1945897][^c1945903]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^M_C_71e320a5-cdcf-43a6-934b-0aee0266e619][^M_C_bbfbf0a7-8d6a-41d2-fe56-4b6af44141ea]
+
+## Part I — Plant Varieties
+
+### Preliminary
+
+#### 1. Plant breeders’ rights.
+
+(1) Rights, to be known as plant breeders’ rights, may be granted in accordance with this Part of this Act.
+
+(2) Plant breeders’ rights may subsist in varieties of all plant genera and species.
+
+(3) For the purposes of this Act, “**variety**” means a plant grouping within a single botanical taxon of the lowest known rank, which grouping, irrespective of whether the conditions for the grant of plant breeders’ rights (which are laid down in section 4 below) are met, can be—
+
+- (a) defined by the expression of the characteristics resulting from a given genotype or combination of genotypes,
+- (b) distinguished from any other plant grouping by the expression of at least one of those characteristics, and
+- (c) considered as a unit with regard to its suitability for being propagated unchanged.
+
+#### 2. The Plant Variety Rights Office.
+
+(1) The office known as the Plant Variety Rights Office shall continue in being for the purposes of this Part of this Act under the immediate control of an officer appointed by the Ministers and known as the Controller of Plant Variety Rights (“**the Controller**”).
+
+(2) Schedule 1 to this Act (which makes further provision about the Plant Variety Rights Office) shall have effect.
+
+### Grant of plant breeders’ rights
+
+#### 3. Grant on application.
+
+(1) Subject to this Part of this Act, plant breeders’ rights shall be granted to an applicant by the Controller on being satisfied that the conditions laid down in section 4 below are met.
+
+(2) The Controller may by notice require an applicant for the grant of plant breeders’ rights to provide him, within such time as may be specified in the notice, with such information, documents, plant or other material, facilities or test or trial results relevant to the carrying out of his function under subsection (1) above as may be so specified.
+
+(3) If an applicant fails to comply with a notice under subsection (2) above within the period specified in the notice, the Controller may refuse the application.
+
+#### 4. Conditions for the grant of rights.
+
+(1) The conditions which must be met in relation to an application for the grant of plant breeders’ rights are—
+
+- (a) that the variety to which the application relates is a qualifying variety, and
+- (b) that the person by whom the application is made is the person entitled to the grant of plant breeders’ rights in respect of the variety to which it relates.
+
+(2) For the purposes of subsection (1) above, a variety is a qualifying variety if it is—
+
+- (a) distinct,
+- (b) uniform,
+- (c) stable, and
+- (d) new;
+
+and Part I of Schedule 2 to this Act has effect for the purpose of determining whether these criteria are met.
+
+(3) Subject to subsections (4) and (5) below, the person entitled to the grant of plant breeders’ rights in respect of a variety is the person who breeds it, or discovers and develops it, or his successor in title.
+
+(4) If a person breeds a variety, or discovers and develops it, in the course of his employment, then, subject to agreement to the contrary, his employer, or his employer’s successor in title, is the person entitled to the grant of plant breeders’ rights in respect of it.
+
+(5) Part II of Schedule 2 to this Act shall have effect as respects priorities between two or more persons who have independently bred, or discovered and developed, a variety.
+
+(6) In this section and Schedule 2 to this Act, references to the discovery of a variety are to the discovery of a variety, whether growing in the wild or occurring as a genetic variant, whether artificially induced or not.
+
+#### 5. Rights in relation to application period.
+
+(1) If an application for plant breeders’ rights is granted, the holder of the rights shall be entitled to reasonable compensation for anything done during the application period which, if done after the grant of the rights, would constitute an infringement of them.
+
+(2) In subsection (1) above, “**application period**”, in relation to a grant of plant breeders’ rights, means the period—
+
+- (a) beginning with the day on which details of the application for the grant of the rights are published in the gazette, and
+- (b) ending with the grant of the rights.
+
+### Scope of plant breeders’ rights
+
+#### 6. Protected variety.
+
+(1) Plant breeders’ rights shall have effect to entitle the holder to prevent anyone doing any of the following acts as respects the propagating material of the protected variety without his authority, namely—
+
+- (a) production or reproduction (multiplication),
+- (b) conditioning for the purpose of propagation,
+- (c) offering for sale,
+- (d) selling or other marketing,
+- (e) exporting,
+- (f) importing,
+- (g) stocking for any of the purposes mentioned in paragraphs (a) to (f) above, and
+- (h) any other act prescribed for the purposes of this provision.
+
+(2) The holder of plant breeders’ rights may give authority for the purposes of subsection (1) above with or without conditions or limitations.
+
+(3) The rights conferred on the holder of plant breeders’ rights by subsections (1) and (2) above shall also apply as respects harvested material obtained through the unauthorised use of propagating material of the protected variety, unless he has had a reasonable opportunity before the harvested material is obtained to exercise his rights in relation to the unauthorised use of the propagating material.
+
+(4) In the case of a variety of a prescribed description, the rights conferred on the holder of plant breeders’ rights by subsections (1) and (2) above shall also apply as respects any product which—
+
+- (a) is made directly from harvested material in relation to which subsection (3) above applies, and
+- (b) is of a prescribed description,
+
+unless subsection (5) below applies.
+
+(5) This subsection applies if, before the product was made, any act mentioned in subsection (1) above was done as respects the harvested material from which the product was made and either—
+
+- (a) the act was done with the authority of the holder of the plant breeders’ rights, or
+- (b) the holder of those rights had a reasonable opportunity to exercise them in relation to the doing of the act.
+
+(6) In this section—
+
+- (a) “**prescribed**” means prescribed by regulations made by the Ministers, and
+- (b) references to harvested material include entire plants and parts of plants.
+
+#### 7. Dependent varieties.
+
+(1) The holder of plant breeders’ rights shall have, in relation to any variety which is dependent on the protected variety, the same rights as he has under section 6 above in relation to the protected variety.
+
+(2) For the purposes of this section, one variety is dependent on another if—
+
+- (a) its nature is such that repeated production of the variety is not possible without repeated use of the other variety, or
+- (b) it is essentially derived from the other variety and the other variety is not itself essentially derived from a third variety.
+
+(3) For the purposes of subsection (2) above, a variety shall be deemed to be essentially derived from another variety (“**the initial variety**”) if—
+
+- (a) it is predominantly derived from—
+  - (i) the initial variety, or
+  - (ii) a variety that is itself predominantly derived from the initial variety,
+
+  while retaining the expression of the essential characteristics resulting from the genotype or combination of genotypes of the initial variety,
+- (b) it is clearly distinguishable from the initial variety by one or more characteristics which are capable of a precise description, and
+- (c) except for the differences which result from the act of derivation, it conforms to the initial variety in the expression of the essential characteristics that result from the genotype or combination of genotypes of the initial variety.
+
+(4) For the purposes of subsection (3) above, derivation may, for example, be by—
+
+- (a) the selection of—
+  - (i) a natural or induced mutant,
+  - (ii) a somaclonal variant, or
+  - (iii) a variant individual from plants of the initial variety,
+- (b) backcrossing, or
+- (c) transformation by genetic engineering.
+
+(5) Subsection (1) above shall not apply where the existence of the dependent variety was common knowledge immediately before the coming into force of this Act.
+
+### Exceptions
+
+#### 8. General exceptions.
+
+Plant breeders’ rights shall not extend to any act done—
+
+- (a) for private and non-commercial purposes,
+- (b) for experimental purposes, or
+- (c) for the purpose of breeding another variety.
+
+#### 9. Farm saved seed.
+
+(1) Subject to subsection (2) below, plant breeders’ rights shall not extend to the use by a farmer for propagating purposes in the field, on his own holding, of the product of the harvest which he has obtained by planting on his own holding propagating material of—
+
+- (a) the protected variety, or
+- (b) a variety which is essentially derived from the protected variety.
+
+(2) Subsection (1) above only applies if the material is of a variety which is of a species or group specified for the purposes of this subsection by order made by the Ministers.
+
+(3) If a farmer’s use of material is excepted from plant breeders’ rights by subsection (1) above, he shall, at the time of the use, become liable (subject to any contractual agreement entered into between the farmer and the holder of the plant breeders' rights)[^key-c9dc0c9d16acc52702afc55a57058136] to pay the holder of the rights equitable remuneration, which shall be sensibly lower than the amount charged for the production of propagating material of the same variety in the same area with the holder’s authority.
+
+(4) Subsection (3) above shall not apply to a farmer who is a small farmer for the purposes of this section[^key-a20470e21039cafeb68975b5d6d341fb].
+
+(5)[^M_F_44837c11-507b-4611-ceec-b6baa0dbafbc] Subsection (3) above shall not apply if— *(affected by repeal, see note)*[^M_F_44837c11-507b-4611-ceec-b6baa0dbafbc]
+
+- (a) before the day on which this Part of this Act comes into force, the farmer has, in relation to the variety concerned, engaged in use of the kind to which subsection (1) above applies, and *(affected by repeal, see note)*[^M_F_44837c11-507b-4611-ceec-b6baa0dbafbc]
+- (b) no remuneration was payable in respect of that use. *(affected by repeal, see note)*[^M_F_44837c11-507b-4611-ceec-b6baa0dbafbc]
+
+(6) The Ministers may by order provide that, on such date after 30th June 2001 as may be specified in the order, subsection (5) above shall cease to have effect in relation to a variety so specified, or varieties of a species or group so specified.
+
+(7) The Ministers may by regulations—
+
+- (a) make provision enabling—
+  - (i) holders of plant breeders’ rights to require farmers or seed processors, and
+  - (ii) farmers or seed processors to require holders of plant breeders’ rights,
+
+  to supply such information as may be specified in the regulations, being information the supply of which the Ministers consider necessary for the purposes of this section,
+- (b) make provision restricting the circumstances in which the product of a harvest of a variety which is subject to plant breeders’ rights may be moved, for the purpose of being processed for planting, from the holding on which it was obtained, and
+- (c) make provision for the purpose of enabling the Ministers to monitor the operation of any provision of this section or regulations under this section.
+
+(8) Regulations under subsection (7)(a) above may include provision imposing obligations of confidence in relation to information supplied by virtue of the regulations.
+
+(9) Subsections (3) and (4) of section 7 above shall apply for the purposes of subsection (1)(b) above as they apply for the purposes of subsection (2) of that section.
+
+(10)[^key-4bc4b49dd5dc66c07eb359f2ecc78bc2] In this section, “**small farmer**” means—
+
+- (a) in a case where the material referred to in subsection (3) is used for propagating potatoes, a farmer who grows potatoes in an area no bigger than that which would be needed to produce 185 tonnes of potatoes per harvest, and
+- (b) in a case where the material referred to in subsection (3) is used for propagating any other varieties[^key-a09769c43233bce2a991adc9e2e8ddb5] specified for the purpose of subsection (1), a farmer who grows those varieties[^key-acb563d4d179032df0a34abf5682e87a] in an area no bigger than that which would be needed to produce 92 tonnes of cereals per harvest.
+
+(11) In this section, references to a farmer’s own holding are to any land which he actually exploits for plant growing, whether as his property or otherwise managed under his own responsibility and on his own account.
+
+(12)[^key-1bd81780118650854f49beb91fc033ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Exhaustion of rights.
+
+(1) Plant breeders’ rights shall not extend to any act concerning material of a variety if the material—
+
+- (a) has been sold or otherwise marketed in the United Kingdom by, or with the consent of, the holder of the rights, or
+- (b) is derived from material which has been so sold or otherwise marketed.
+
+(2) Subsection (1) above shall not apply where the act involves—
+
+- (a) further propagation of the variety, or
+- (b) the export of material which enables propagation of the variety to a non-qualifying country, otherwise than for the purposes of final consumption.
+
+(3) For the purposes of subsection (2)(b) above, a non-qualifying country is one which does not provide for the protection of varieties of the genus or species to which the variety belongs.
+
+(4) In this section, “**material**”, in relation to a variety, means—
+
+- (a) any kind of propagating material of the variety,
+- (b) harvested material of the variety, including entire plants and parts of plants, and
+- (c) any product made directly from material falling within paragraph (b) above.
+
+### Duration and transmission of plant breeders’ rights
+
+#### 11. Duration.
+
+(1) A grant of plant breeders’ rights shall have effect—
+
+- (a) in the case of potatoes, trees and vines, for 30 years from the date of the grant, and
+- (b) in other cases, for 25 years from that date.
+
+(2) The Ministers may by regulations provide that, in relation to varieties of a species or group specified in the regulations, subsection (1) above shall have effect with the substitution in paragraph (a) or (b), as the case may be, of such longer period, not exceeding—
+
+- (a) in the case of paragraph (a), 35 years, and
+- (b) in the case of paragraph (b), 30 years,
+
+as may be so specified.
+
+(3) The period for which a grant of plant breeders’ rights has effect shall not be affected by the fact it becomes impossible to invoke the rights—
+
+- (a)[^key-ef464c910a7d257cc327f148efcde0df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) because of suspension under section 23 below.
+
+#### 12. Transmission.
+
+Plant breeders’ rights shall be assignable like other kinds of proprietary rights, but in any case rights under section 6 above and rights under section 7 above may not be assigned separately.
+
+### Remedies for infringement
+
+#### 13. Remedies for infringement.
+
+(1) Plant breeders’ rights shall be actionable at the suit of the holder of the rights.
+
+(2) In any proceedings for the infringement of plant breeders’ rights, all such relief by way of damages, injunction, interdict, account or otherwise shall be available as is available in any corresponding proceedings in respect of infringements of other proprietary rights.
+
+#### 14. Presumptions in proceedings relating to harvested material.
+
+(1) This section applies to any proceedings for the infringement of plant breeders’ rights as respects harvested material.
+
+(2) If, in any proceedings to which this section applies, the holder of the plant breeders’ rights proves, in relation to any of the material to which the proceedings relate—
+
+- (a) that it has been the subject of an information notice given to the defendant by or on behalf of the holder, and
+- (b) that the defendant has not, within the prescribed time after the service of the notice, supplied the holder with the information about it requested in the notice,
+
+then, as regards the material in relation to which the holder proves that to be the case, the presumptions mentioned in subsection (3) below shall apply, unless the contrary is proved or the defendant shows that he had a reasonable excuse for not supplying the information.
+
+(3) The presumptions are—
+
+- (a) that the material was obtained through unauthorised use of propagating material, and
+- (b) that the holder did not have a reasonable opportunity before the material was obtained to exercise his rights in relation to the unauthorised use of the propagating material.
+
+(4) The reference in subsection (2) above to an information notice is to a notice which—
+
+- (a) is in the prescribed form,
+- (b) specifies the material to which it relates,
+- (c) contains, in relation to that material, a request for the supply of the prescribed, but no other, information, and
+- (d) contains such other particulars as may be prescribed.
+
+(5) In this section, “**prescribed**” means prescribed by regulations made by the Ministers.
+
+#### 15. Presumptions in proceedings relating to products made from harvested material.
+
+(1) This section applies to any proceedings for the infringement of plant breeders’ rights as respects any product made directly from harvested material.
+
+(2) If, in any proceedings to which this section applies, the holder of the plant breeders’ rights proves, in relation to any product to which the proceedings relate—
+
+- (a) that it has been the subject of an information notice given to the defendant by or on behalf of the holder, and
+- (b) that the defendant has not, within the prescribed time after the service of the notice, supplied the holder with the information about it requested in the notice,
+
+then, as regards the product in relation to which the holder proves that to be the case, the presumptions mentioned in subsection (3) below shall apply, unless the contrary is proved or the defendant shows that he had a reasonable excuse for not supplying the information.
+
+(3) The presumptions are—
+
+- (a) that the harvested material from which the product was made was obtained through unauthorised use of propagating material,
+- (b) that the holder did not have a reasonable opportunity before the harvested material was obtained to exercise his rights in relation to the unauthorised use of the propagating material, and
+- (c) that no relevant act was done, before the product was made, as respects the harvested material from which it was made.
+
+(4) An act is relevant for the purposes of subsection (3)(c) above if it is mentioned in section 6(1) above and is—
+
+- (a) done with the authority of the holder, or
+- (b) one in relation to the doing of which he has a reasonable opportunity to exercise his rights.
+
+(5) The reference in subsection (2) above to an information notice is to a notice which—
+
+- (a) is in the prescribed form,
+- (b) specifies the product to which it relates,
+- (c) contains, in relation to that product, a request for the supply of the prescribed, but no other, information, and
+- (d) contains such other particulars as may be prescribed.
+
+(6) In this section, “**prescribed**” means prescribed by regulations made by the Ministers.
+
+### Duties of holder of plant breeders’ rights
+
+#### 16. Maintenance of protected variety.
+
+(1) The holder of any plant breeders’ rights shall ensure that, throughout the period for which the grant of the rights has effect, he is in a position to produce to the Controller propagating material which is capable of producing the protected variety.
+
+(2) The holder of any plant breeders’ rights shall give to the Controller, within such time as he may specify, all such information and facilities as he may request for the purpose of satisfying himself that the holder is fulfilling his duty under subsection (1) above.
+
+(3) The facilities to be given under subsection (2) above include facilities for the inspection by or on behalf of the Controller of the measures taken for the preservation of the protected variety.
+
+#### 17. Compulsory licences.[^c1945910]
+
+(1) Subject to subsections (2) and (3) below, if the Controller is satisfied on application that the holder of any plant breeders’ rights—
+
+- (a) has unreasonably refused to grant a licence to the applicant, or
+- (b) has imposed or put forward unreasonable terms in granting, or offering to grant, a licence to the applicant,
+
+he may grant to the applicant in the form of a licence under this section any such rights as might have been granted by the holder.
+
+(2) The Controller shall not grant an application for a licence under this section unless he is satisfied—
+
+- (a) that it is necessary to do so for the purpose of securing that the variety to which the application relates—
+  - (i) is available to the public at reasonable prices,
+  - (ii) is widely distributed, or
+  - (iii) is maintained in quality,
+- (b) that the applicant is financially and otherwise in a position to exploit in a competent and businesslike manner the rights to be conferred on him, and
+- (c) that the applicant intends so to exploit those rights.
+
+(3) A licence under this section shall not be an exclusive licence.
+
+(4) A licence under this section shall be on such terms as the Controller thinks fit and, in particular, may include—
+
+- (a) terms as to the remuneration payable to the holder of the plant breeders’ rights, and
+- (b) terms obliging the holder of the plant breeders’ rights to make propagating material available to the holder of the licence.
+
+(5) In deciding on what terms to grant an application for a licence under this section, the Controller shall have regard to the desirability of securing—
+
+- (a) that the variety to which the application relates—
+  - (i) is available to the public at reasonable prices,
+  - (ii) is widely distributed, and
+  - (iii) is maintained in quality, and
+- (b) that there is reasonable remuneration for the holder of the plant breeders’ rights to which the application relates.
+
+(6) An application for a licence under this section may be granted whether or not the holder of the plant breeders’ rights to which the application relates has granted licences to the applicant or any other person.
+
+(7) If and so far as any agreement purports to bind any person not to apply for a licence under this section, it shall be void.
+
+(8) If—
+
+- (a) a licence under this section is granted as respects a variety of a species or group in relation to which a period is specified for the purposes of this provision by regulations made by the Ministers, and
+- (b) the grant takes place before a period of that length has passed since the date of grant of the plant breeders’ rights to which the licence relates,
+
+the licence shall not have effect until a period of that length has passed since that date.
+
+(9) The Controller may, at any time, on the application of any person, extend, limit or in any other respect vary a licence under this section, or revoke it.
+
+### Naming of protected varieties
+
+#### 18. Selection and registration of names.
+
+(1) The Ministers may by regulations—
+
+- (a) make provision for the selection of names for varieties which are the subject of applications for the grant of plant breeders’ rights,
+- (b) make provision about change of name in relation to varieties in respect of which plant breeders’ rights have been granted, and
+- (c) make provision for the keeping of a register of the names of varieties in respect of which plant breeders’ rights have been granted.
+
+(2) Regulations under subsection (1) above may, in particular—
+
+- (a) make provision enabling the Controller to require an applicant for the grant of plant breeders’ rights to select a name for the variety to which the application relates,
+- (b) make provision enabling the Controller to require the holder of plant breeders’ rights to select a different name for the protected variety,
+- (c) prescribe classes of variety for the purposes of the regulations,
+- (d) prescribe grounds on which the registration of a proposed name may be refused,
+- (e) prescribe the circumstances in which representations may be made regarding any decision as to the name to be registered in respect of any variety,
+- (f) make provision enabling the Controller—
+  - (i) to refuse an application for the grant of plant breeders’ rights, or
+  - (ii) to terminate the period for which a grant of plant breeders’ rights has effect,
+
+  if the applicant or holder fails to comply with a requirement imposed under the regulations,
+- (g) make provision for the publication or service of notices of decisions which the Controller proposes to take, and
+- (h) prescribe the times at which, and the circumstances in which, the register may be inspected by members of the public.
+
+(3) The Controller shall publish notice of all entries made in the register, including alterations, corrections and erasures—
+
+- (a) in the gazette, and
+- (b) in such other manner as appears to the Controller to be convenient for the publication of these to all concerned.
+
+(4) For the purposes of subsection (1) above, the variety in respect of which plant breeders’ rights are granted is the protected variety.
+
+#### 19. Duty to use registered name.[^key-04c1aaf5d44f617ca1995234ae007df9]
+
+(1) Where a name is registered under section 18 above in respect of a variety, a person may not use any other name in selling, offering for sale or otherwise marketing propagating material of the variety.
+
+(2) Subsection (1) above shall have effect in relation to any variety from the date on which plant breeders’ rights in respect of that variety are granted, and shall continue to apply after the period for which the grant of those rights has effect.
+
+(3) Subsection (1) above shall not preclude the use of any trade mark or trade name (whether registered under the [^c877801]Trade Marks Act 1994 or not) if—
+
+- (a) that mark or name and the registered name are juxtaposed, and
+- (b) the registered name is easily recognisable.
+
+(4) A person who contravenes subsection (1) above shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) In any proceedings for an offence under subsection (4) above, it shall be a defence to prove that the accused took all reasonable precautions against committing the offence and had not at the time of the offence any reason to suspect that he was committing an offence.
+
+#### 20. Improper use of registered name.[^key-b25c6759d68f2bd814a1f5030b7bdd08]
+
+(1) If any person uses the registered name of a protected variety in offering for sale, selling or otherwise marketing material of a different variety within the same class, the use of the name shall be a wrong actionable in proceedings by the holder of the rights.
+
+(2) Subsection (1) above shall also apply to the use of a name so nearly resembling the registered name as to be likely to deceive or cause confusion.
+
+(3) In any proceedings under this section, it shall be a defence to a claim for damages to prove that the defendant took all reasonable precautions against committing the wrong and had not, when using the name, any reason to suspect that it was wrongful.
+
+(4) In this section—
+
+- “**class**” means a class prescribed for the purposes of regulations under section 18(1) above,
+- “**registered name**”, in relation to a protected variety, means the name registered in respect of it under section 18 above.
+
+### Termination and suspension of plant breeders’ rights
+
+#### 21. Nullity.
+
+(1) The Controller shall declare the grant of plant breeders’ rights null and void if it is established—
+
+- (a) that when the rights were granted the protected variety did not meet the criterion specified in paragraph (a) or (d) of section 4(2) above,
+- (b) where the grant of the rights was essentially based upon information and documents furnished by the applicant, that when the rights were granted the protected variety did not meet the criterion specified in paragraph (b) or (c) of that provision, or
+- (c) that the person to whom the rights were granted was not the person entitled to the grant of the rights and the rights have not subsequently been transferred to him, or his successor in title.
+
+(2) If, because of paragraph 6 of Schedule 2 to this Act, priority is established for an application for the grant of plant breeders’ rights after such rights have been granted in pursuance of an application against which priority is established, subsection (1)(c) above shall only apply to the grant if the Controller decides that the application for which priority is established should be granted.
+
+(3) Where the grant of plant breeders’ rights is declared null and void under this section, it shall be deemed never to have had effect.
+
+#### 22. Cancellation.
+
+(1) The Controller may terminate the period for which a grant of plant breeders’ rights has effect if—
+
+- (a) he is satisfied that the protected variety no longer meets the criterion specified in paragraph (b) or (c) of section 4(2) above,
+- (b) it appears to him that the holder of the rights is no longer in a position to provide him with the propagating material mentioned in section 16(1) above,
+- (c) he is satisfied that the holder of the rights has failed to comply with a request under section 16(2) above, or
+- (d) on application by the holder of the rights, he is satisfied that the rights may properly be surrendered.
+
+(2) Before determining an application under subsection (1)(d) above, the Controller shall—
+
+- (a) give notice of the application in the manner prescribed by regulations made by the Ministers, and
+- (b) follow the procedure so prescribed for hearing any person on whom the right to object is conferred by such regulations.
+
+(3) If the Controller is satisfied, not only that the protected variety no longer meets the criterion specified in paragraph (b) or (c) of section 4(2) above, but also that it ceased to do so at some earlier date, he may make the termination retrospective to that date.
+
+#### 23. Suspension.
+
+(1) The Controller may suspend the exercise of any plant breeders’ rights if, on application by the holder of a licence under section 17 above, he is satisfied that the holder of the rights is in breach of any obligation imposed on him by the licence.
+
+(2) The Controller shall terminate a suspension under subsection (1) above if, on application by the holder of the plant breeders’ rights concerned, he is satisfied that the holder is no longer in breach of the obligation whose breach led to the suspension.
+
+(3) Subsection (1) above is without prejudice to the remedies available to the holder of a licence under section 17 above by the taking of proceedings in any court.
+
+### Proceedings before the Controller
+
+#### 24. Right to be heard: general.[^c1945920]
+
+The Ministers shall by regulations make provision for any decision of the Controller against which an appeal lies to the Tribunal to be made only after an opportunity of making representations to him, and of being heard by him or by a person appointed by him for the purpose, has been afforded—
+
+- (a) to the person entitled to appeal to the Tribunal against that decision, and
+- (b) to persons of such other descriptions as may be prescribed by the regulations.
+
+#### 25. Right to be heard: applications for compulsory licences.
+
+(1) This section applies to an application for the grant of a licence under section 17 above if the holder of the plant breeders’ rights to which the application relates is, or includes, or is represented by, a society or other organisation falling within subsection (2) below.
+
+(2) A society or other organisation falls within this subsection if it has as its main object, or one of its main objects, the negotiation or granting of licences to exercise plant breeders’ rights, either as the holder of the rights or as agent for holders.
+
+(3) If—
+
+- (a) any organisation or person applies to the Controller for an opportunity of making representations concerning an application to which this section applies, and
+- (b) the Controller is satisfied that the conditions mentioned in subsection (4) below are met,
+
+he shall afford to the organisation or person by whom the application under this subsection is made an opportunity of making representations to him and of being heard by him or by a person appointed by him for the purpose.
+
+(4) The conditions referred to in subsection (3) above are—
+
+- (a) that the organisation or person has a substantial interest in the application for a licence under section 17 above,
+- (b) that that application involves issues which may affect other applicants for licences under that section, and
+- (c) where the application under subsection (3) above is made by an organisation, that the organisation is reasonably representative of the class of persons which it claims to represent.
+
+(5) The rights conferred by this section are in addition to any rights which may be conferred under section 24 above.
+
+#### 26. Appeals to the Tribunal.
+
+(1) An appeal shall lie to the Tribunal against the following decisions of the Controller—
+
+- (a) a decision to allow or refuse an application for the grant of plant breeders’ rights,
+- (b) any decision preliminary to the determination of such an application as to the conditions laid down in section 4 above,
+- (c)[^c1945912] a decision to allow or refuse an application under section 17(1) or (9) above,
+- (d) any decision under section 21 or 22(1)(a), (b) or (c) above,
+- (e) a decision to refuse an application under section 22(1)(d) above, and
+- (f) a decision to allow or refuse an application under section 23(1) or (2) above.
+
+(2) The Ministers may by regulations confer a right of appeal to the Tribunal against—
+
+- (a)[^c1945923] a decision of the Controller to refuse an application under section 25(3)(a) above, or
+- (b) any decision of the Controller under regulations made under section 18 above or section 28 or 29 below.
+
+### Discharge of the Controller’s functions
+
+#### 27. Ministerial guidance.
+
+The Controller shall, in exercising his functions, act under the general direction of the Ministers, except in relation to the taking of a decision from which an appeal lies to the Tribunal.
+
+#### 28. Regulations.[^c1945925]
+
+(1) The Ministers may by regulations make such provision as they think fit as respects the manner in which the Controller is to discharge his functions under this Part of this Act, in particular as respects applications for the grant of plant breeders’ rights and other applications to the Controller under this Part of this Act.
+
+(2) Regulations under subsection (1) above may, in particular—
+
+- (a) make provision for restricting the making of repeated applications on the same subject,
+- (b) prescribe the circumstances in which representations may be made regarding any decision on an application or in connection with the charging of fees,
+- (c) make provision as to the keeping of registers and records by the Controller and their rectification, and prescribe the circumstances in which they may be inspected by members of the public,
+- (d) make provision for the publication or service of notice of applications and of the Controller’s decisions,
+- (e) prescribe the manner of dealing with objections to applications.
+
+#### 29. Fees.[^c1945926]
+
+(1) The Ministers may make regulations as respects the charging of fees by the Controller, including periodical fees payable by persons holding plant breeders’ rights.
+
+(2) Regulations under subsection (1) above may authorise the Controller—
+
+- (a) in the case of a failure to pay any fees payable in connection with any application to him under this Part of this Act, to refuse the application, and
+- (b) in the case of a failure by a holder of plant breeders’ rights to pay any fees payable in connection with those rights, to terminate the period for which the grant of those rights has effect;
+
+and may provide for the restoration of the application or the rights if the failure to pay fees is made good.
+
+#### 30. Use of outsiders.
+
+The Controller may use the services of persons who are not appointed as officers or servants of the Plant Variety Rights Office—
+
+- (a) in carrying out the tests and trials which he considers expedient for the purposes of this Part of this Act, and
+- (b) in assessing the results of any tests and trials (whether carried out by him or not) which he considers relevant for those purposes.
+
+### False information and representations as to rights
+
+#### 31. False information.
+
+(1) If any information to which this section applies is false in a material particular and the person giving the information knows that it is false or gives it recklessly, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) The information to which this section applies is—
+
+- (a) information given in an application to the Controller for a decision against which an appeal lies to the Tribunal,
+- (b) information given by or on behalf of the applicant in connection with such an application, and
+- (c) information given in pursuance of a request under section 16(2) above.
+
+#### 32. False representations as to rights.
+
+(1) If, in relation to any variety, a person falsely represents that he is entitled to exercise plant breeders’ rights, or any rights derived from such rights, and he knows that the representation is false, or makes it recklessly, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) It is immaterial for the purposes of subsection (1) above whether or not the variety to which the representation relates is the subject of plant breeders’ rights.
+
+### Miscellaneous
+
+#### 33. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c877803]
+
+#### 34. Disclosure of information obtained under section 14 or 15.
+
+(1) If the holder of plant breeders’ rights obtains information pursuant to a notice given for the purposes of section 14 or 15 above, he shall owe an obligation of confidence in respect of the information to the person who supplied it.
+
+(2) Subsection (1) above shall not have effect to restrict disclosure of information—
+
+- (a) for the purposes of, or in connection with, establishing whether plant breeders’ rights have been infringed, or
+- (b) for the purposes of, or in connection with, any proceedings for the infringement of plant breeders’ rights.
+
+#### 35. Reference collections of plant material.
+
+(1) The Controller may establish and maintain reference collections of plant material.
+
+(2) The Controller may by means of grants of such amounts as he may determine defray or contribute towards the expenses incurred by any other person in maintaining any reference collection of plant material.
+
+### General
+
+#### 36. Offences by bodies corporate, etc.
+
+(1) Where an offence under this Part of this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) Where an offence under this Part of this Act committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he, as well as the partnership, shall be guilty of the offence and liable to be proceeded against and punished accordingly.
+
+#### 37. Jurisdiction in relation to offences.
+
+(1) Proceedings for an offence under this Part of this Act may be taken against a person before the appropriate court in the United Kingdom having jurisdiction in the place where that person is for the time being.
+
+(2) Subsection (1) above is without prejudice to any jurisdiction exercisable apart from that subsection.
+
+#### 38. Interpretation of Part I.
+
+(1) In this Part of this Act—
+
+- [^key-c108c2a88fc0662917c2d1f695ab610d]...
+- “**gazette**” means the gazette published under section 34 of the [^c877804]Plant Varieties and Seeds Act 1964;
+- “**name**” includes any designation;
+- “**protected variety**”, in relation to any plant breeders’ rights, means the variety which was the basis of the application for the grant of the rights;
+- “**variety**” has the meaning given by section 1(3) above.
+
+(2) In this Part of this Act references to an applicant for the grant of plant breeders’ rights, or to the holder of plant breeders’ rights, include, where the context allows, references to his predecessors in title or his successors in title.
+
+(3) For the purposes of this Part of this Act, the existence of a variety shall be taken to be a matter of common knowledge if—
+
+- (a) it is, or has been, the subject of a plant variety right under any jurisdiction,
+- (b) it is, or has been, entered in an official register of plant varieties under any jurisdiction, or
+- (c) it is the subject of an application which subsequently leads to its falling within paragraph (a) or (b) above.
+
+(4) Otherwise, common knowledge may be established for those purposes by reference, for example, to—
+
+- (a) plant varieties already in cultivation or exploited for commercial purposes,
+- (b) plant varieties included in a recognised commercial or botanical reference collection, or
+- (c) plant varieties of which there are precise descriptions in any publication.
+
+#### 39. Application of Part I to the Crown.
+
+(1) If—
+
+- (a) any servant or agent of the Crown infringes any plant breeders’ rights or makes himself liable to civil proceedings under section 20 above, and
+- (b) the infringement or wrong is committed with the authority of the Crown,
+
+civil proceedin.gs in respect of the infringement or wrong shall lie against the Crown.
+
+(2) Except as provided by subsection (1) above, no proceedings shall lie against the Crown by virtue of the [^c877805]Crown Proceedings Act 1947 in respect of the infringement of plant breeders’ rights or any wrong under section 20 above.
+
+(3) This section shall have effect as if contained in Part I of the Crown Proceedings Act 1947.
+
+#### 40. Application of Part I to existing rights.
+
+(1) Subject to the following provisions of this section, this Part of this Act applies in relation to existing rights as it applies in relation to plant breeders’ rights granted under this Part of this Act.
+
+(2) Section 5 above shall not apply in relation to existing rights.
+
+(3) Section 11 above shall only apply to existing rights if the effect is to extend the period for which the rights are exercisable.
+
+(4) In this section, “**existing rights**” means plant breeders’ rights granted under Part I of the [^c877806]Plant Varieties and Seeds Act 1964 which are exercisable on the coming into force of this Part of this Act.
+
+### Transition
+
+#### 41. Varieties of recent creation.
+
+(1) This section applies where, before the end of the period of 12 months beginning with the day on which this Part of this Act comes into force, an application for the grant of plant breeders’ rights is made in respect of a variety—
+
+- (a) which was in existence on the coming into force of this Part of this Act,
+- (b) which is of a species or group which was not, immediately before the coming into force of this Part of this Act, prescribed by a scheme under Part I of the Plant Varieties and Seeds Act 1964 (grant of plant breeders’ rights), and
+- (c) to which paragraph 4(2) of Schedule 2 to this Act does not apply.
+
+(2) The variety to which the application relates shall, for the purposes of section 4(2) above, be deemed to be new if no sale or other disposal of propagating or harvested material of the variety for the purposes of exploiting the variety has, with the consent of the applicant, taken place earlier than 4 years, or, in the case of trees or vines, 6 years, before the day on which this Part of this Act comes into force.
+
+(3) Paragraph 4(4) and (10) of Schedule 2 to this Act shall also apply for the purposes of subsection (2) above.
+
+(4) If plant breeders’ rights are granted by virtue of this section, the period for which the grant of those rights has effect shall be reduced by the period before the application since the first date on which a sale or other disposal of propagating or harvested material of the variety for the purposes of exploiting the variety took place in the United Kingdom with the consent of the applicant, less one year.
+
+## Part II — The Plant Varieties and Seeds Tribunal[^c1945908]
+
+### 42. The Tribunal.
+
+(1) There shall continue to be a tribunal known as the Plant Varieties and Seeds Tribunal (“**the Tribunal**”).
+
+(2) Schedule 3 to this Act (which makes provision about the Tribunal) shall have effect.
+
+### 43. Jurisdiction under arbitration agreements.
+
+(1) The Tribunal shall hear and determine any matters agreed to be referred to the Tribunal by any arbitration agreement relating to the infringement of plant breeders’ rights, or to matters which include the infringement of plant breeders’ rights.
+
+(2) The fees payable to the Tribunal for acting under any arbitration agreement shall be such as the Tribunal may determine.
+
+(3) Nothing in section 4 of the [^c877807]Arbitration (Scotland) Act 1894 (power to name oversman) shall be taken as applying to the Tribunal.
+
+(4) In the application of this section to England and Wales or Northern Ireland, “**arbitration agreement**” has the same meaning as in Part I of the [^c877808]Arbitration Act 1996.
+
+### 44. Statutory jurisdiction: regulations.[^c1945928]
+
+The Ministers may, as respects appeals to the Tribunal under their statutory jurisdiction, by regulations—
+
+- (a) make provision for determining in which part of the United Kingdom an appeal is to be heard,
+- (b) make provision authorising persons other than the person by whom an appeal is made and the authority whose decision is appealed against to appear and be heard as parties to the appeal,
+- (c) make provision for suspending, or authorising or requiring the suspension of, the operation of a decision pending final determination of an appeal against it, or
+- (d) make provision for the publication of notices or the taking of other steps for securing that the persons affected by the suspension of the operation of a decision appealed against will be informed of its suspension.
+
+### 45. Appeals from the Tribunal.[^c1945914]
+
+(1) In relation to any decision of the Tribunal on an appeal under their statutory jurisdiction, section 11 of the [^c877809]Tribunals and Inquiries Act 1992 (appeal on point of law) shall apply as if the Tribunal were included among the tribunals mentioned in subsection (1) of that section.
+
+(2) Subject to any right of appeal by virtue of subsection (1) above, any decision of the Tribunal on an appeal under their statutory jurisdiction shall be final and conclusive.
+
+### 46. Interpretation of Part II.
+
+In this Part of this Act, references to the statutory jurisdiction of the Tribunal are to any jurisdiction of the Tribunal under Part I of this Act, Part II of the [^c877810]Plant Varieties and Seeds Act 1964 or the [^c877811]Seeds Act Northern Ireland) 1965.
+
+## Part III — Miscellaneous and general
+
+### Miscellaneous
+
+#### 47. Extension of time limit for institution of proceedings for contravention of seeds regulations.[^c877812]
+
+*Extent: E+W+S*
+
+In section 28 of the Plant Varieties and Seeds Act 1964 (institution of criminal proceedings), after subsection (2) there shall be inserted—
+
+> (2A) Notwithstanding anything in section 127(1) of the [^c877813]Magistrates’ Courts Act 1980 or section 136 of the [^c877814]Criminal Procedure (Scotland) Act 1995, proceedings for contravening a provision contained in seeds regulations may be brought at any time not more than one year from the time when the contravention occurred.
+
+### General
+
+#### 48. Regulations and orders.
+
+(1)[^c1945929] Any regulations or order under this Act made by the Ministers—
+
+- (a) may make different provision for different cases or circumstances, and
+- (b) may contain such supplemental, incidental and transitional provisions as appear to the Ministers to be expedient.
+
+(2)[^c1811990] Any regulations or order under this Act made by the Ministers shall be made by statutory instrument.
+
+(3)[^c1811990] A statutory instrument containing any regulations or order under this Act made by the Ministers, other than an order under section 9(12) above, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4)[^c1811990] No order shall be made under section 9(12) above unless a draft of the order has been laid before and approved by resolution of each House of Parliament.
+
+(5)[^c1811990] Before making any regulations or order under this Act, the Ministers shall consult such organisations as appear to them to be representative of persons likely to be substantially affected by the regulations or order.
+
+(6) Nothing in this section applies to an order under section 54(3) below.
+
+#### 49. General interpretation.
+
+(1) In this Act—
+
+- “**the Controller**” has the meaning given by section 2(1) above;
+- “**the Ministers**” means the Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland, the Secretary of State for Wales and the Secretary of State for Northern Ireland acting jointly; and
+- “**the Tribunal**” has the meaning given by section 42 above.
+
+(2) In this Act, references to plant breeders’ rights include rights under section 7 above.
+
+#### 50. Receipts.
+
+Any fees received by virtue of this Act by the Controller or the Tribunal shall be paid into the Consolidated Fund.
+
+#### 51. Consequential amendments.
+
+(1) In section 34 of the [^c877815]Plant Varieties and Seeds Act 1964—
+
+- (a) in subsection (1), at the end there shall be inserted “ or Part I of the Plant Varieties Act 1997 ”, and
+- (b) in subsection (2), for “section 5 of this Act” there shall be substituted “ section 18 of the Plant Varieties Act 1997 ”.
+
+(2) In section 38 of that Act, for the definition of the expression “the Tribunal” there shall be substituted—
+
+> “**the Tribunal**” means the Plant Varieties and Seeds Tribunal;
+
+.
+
+(3) In Schedule 4 to the [^c877816]Parliamentary Commissioner Act 1967, in the entry relating to the Plant Varieties and Seeds Tribunal, for the words after “Tribunal” there shall be substituted “ (referred to in section 42 of the Plant Varieties Act 1997) ”.
+
+(4) In section 2(4) of the [^c877817]Trade Descriptions Act 1968, after paragraph (g) there shall be inserted—
+
+> - (h) the Plant Varieties Act 1997;
+
+.
+
+(5) In Schedule 1 to the [^c877818]Tribunals and Inquiries Act 1992, in paragraph 36—
+
+- (a) in sub-paragraph (a), for “section 11(5) of the Plant Varieties and Seeds Act 1964 (c. 14)” there shall be substituted “ paragraph 3 of Schedule 1 to the Plant Varieties Act 1997 ”, and
+- (b) in sub-paragraph (b), for “established by section 10 of that Act” there shall be substituted “ (referred to in section 42 of that Act) ”.
+
+#### 52. Repeals.
+
+The enactments mentioned in Schedule 4 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+#### 53. Extent.
+
+(1) This Act, except section 47 above, extends to Northern Ireland.
+
+(2) Her Majesty may by Order in Council direct that any of the provisions of this Act shall, subject to such modifications as appear to Her Majesty to be appropriate, extend to any of the Channel Islands or the Isle of Man.
+
+(3) An Order in Council under subsection (2) above may contain such transitional and consequential provisions as appear to Her Majesty to be expedient.
+
+#### 54. Short title and commencement.
+
+(1) This Act may be cited as the Plant Varieties Act 1997.
+
+(2) This section and sections 49 and 53 above shall come into force on the day on which this Act is passed.
+
+(3)[^c877819] The remaining provisions of this Act shall come into force on such day as the Ministers may by order made by statutory instrument appoint; and different days may be so appointed for different purposes.
+
+(4) An order under subsection (3) above may contain such transitional provisions and savings as appear to the Ministers to be expedient.
+
+SCHEDULES
+
+## SCHEDULE 1 — The Plant Variety Rights Office
+
+Section 2.
+
+### Staff
+
+**1.** The Ministers may appoint a deputy controller and such other officers and servants to act in the Plant Variety Rights Office as the Ministers may determine.
+
+### Remuneration
+
+**2.** There shall be paid to the Controller and any other officers or servants appointed under paragraph 1 above such remuneration and allowances as the Ministers may with the consent of the Minister for the Civil Service determine.
+
+### Authority of officers
+
+**3.** Any act or thing directed to be done by or to the Controller may be done by or to any officer authorised by the Ministers.
+
+### Proof of documents
+
+**4.** Prima facie evidence, or in Scotland sufficient evidence, of any document issued by the Controller may be given in all legal proceedings by the production of a copy or extract certified to be a true copy or extract by an officer appointed under paragraph 1 above and authorised to give a certificate under this paragraph.
+
+**5.** Any document purporting to be certified in accordance with paragraph 4 above shall, unless the contrary is proved, be deemed to have been duly certified without proof of the official character or handwriting of the person appearing to have certified the document.
+
+## SCHEDULE 2 — Conditions for the grant of plant breeders’ rights
+
+Section 4.
+
+### Part I — Criteria for grant of rights
+
+#### Distinctness
+
+**1.** The variety shall be deemed to be distinct if it is clearly distinguishable by one or more characteristics which are capable of a precise description from any other variety whose existence is a matter of common knowledge at the time of the application.
+
+#### Uniformity
+
+**2.** The variety shall be deemed to be uniform if, subject to the variation that may be expected from the particular features of its propagation, it is sufficiently uniform in those characteristics which are included in the examination for distinctness.
+
+#### Stability
+
+**3.** The variety shall be deemed to be stable if those characteristics which are included in the examination for distinctness, as well as any others used for the variety description, remain unchanged after repeated propagation or, in the case of a particular cycle of propagation, at the end of each such cycle.
+
+#### Novelty
+
+**4.** (1) The variety shall be deemed to be new if sub-paragraphs (2) and (3) below apply.
+
+(2) This sub-paragraph applies if no sale or other disposal of propagating or harvested material of the variety for the purposes of exploiting the variety has, with the consent of the applicant, taken place in the United Kingdom earlier than one year before the date of the application.
+
+(3) This sub-paragraph applies if no sale or other disposal of propagating or harvested material of the variety for the purposes of exploiting the variety has, with the consent of the applicant, taken place elsewhere than in the United Kingdom earlier than 4 years, or, in the case of trees or vines, 6 years, before the date of the application.
+
+(4) For the purposes of sub-paragraphs (2) and (3) above, there shall be disregarded any sale or other disposal to which sub-paragraph (5), (6), (8) or (9) below applies.
+
+(5) This sub-paragraph applies to any sale or other disposal of a stock of material of the variety to a person who at the time of the sale or other disposal is, or who subsequently becomes, the person entitled to the grant of plant breeders’ rights in respect of the variety.
+
+(6) This sub-paragraph applies to—
+
+- (a) any sale or other disposal of propagating material of the variety to a person as part of qualifying arrangements, and
+- (b) any sale or other disposal to the applicant, by a person who uses propagating material of the variety under any such arrangements, of the material produced directly or indirectly from the use.
+
+(7) For the purposes of sub-paragraph (6) above, qualifying arrangements are arrangements under which—
+
+- (a) a person uses propagating material of the variety under the applicant’s control for the purpose of increasing the applicant’s stock, or of carrying out tests or trials, and
+- (b) the whole of the material produced, directly or indirectly, from the material becomes or remains the property of the applicant.
+
+(8) This sub-paragraph applies to any sale or other disposal of material of the variety, other than propagating material, produced in the course of—
+
+- (a) the breeding of the variety,
+- (b) increasing the applicant’s stock of material of the variety, or
+- (c) carrying out tests or trials of the variety,
+
+which does not involve identifying the variety from which the material is produced.
+
+(9) This sub-paragraph applies to any disposal of material of the variety, otherwise than by way of sale, at an exhibition or for the purposes of display at an exhibition.
+
+(10) For the purposes of sub-paragraphs (2) and (3) above, any sale or other disposal of propagating or harvested material of a variety for the purposes of exploiting the variety shall, if the variety is related to another variety, be treated as being also a sale or other disposal of propagating or harvested material of the other variety for the purposes of exploiting that variety.
+
+(11) For the purposes of sub-paragraph (10) above, a variety is related to another if its nature is such that repeated production of the variety is not possible without repeated use of the other variety.
+
+### Part II — Priorities between applicants for rights
+
+**5.** (1) If a variety is bred, or discovered and developed, by two or more persons independently, the first of those persons, and any successors in title of theirs, to apply for the grant of plant breeders’ rights in respect of it shall be the person entitled to the grant.
+
+(2) As between persons making applications for the grant of plant breeders’ rights in respect of the same variety on the same date, the one who was first in a position to make an application for the grant of plant breeders’ rights in respect of that variety, or who would have been first in that position if this Part of this Act had always been in force, shall be the person entitled to the grant.
+
+**6.** (1) If the following conditions are met, an application for the grant of plant breeders’ rights shall be treated for the purposes of paragraphs 1, 4 and 5 above as made, not on the date on which it is in fact made, but on the earlier date mentioned in sub-paragraph (7) below.
+
+(2) The first condition is that, in the 12 months immediately preceding the application under this Part of this Act, the applicant has duly made a parallel application under the law of—
+
+- (a) the European Union[^key-fcd28e20dde785e150ccf5c3839e075a],
+- (b) any other intergovernmental organisation, or any State, which is, and was at the time of the application, a member of the Union as defined by Article 1(xi) of the Convention, or
+- (c) any country or territory which is, and was at the time of the application, designated for the purposes of this provision by order made by the Ministers.
+
+(3) The second condition is that the applicant has not duly made such a parallel application earlier than 12 months before the application under this Part of this Act.
+
+(4) The third condition is that the application under this Part of this Act includes a claim to priority under this paragraph by reference to the parallel application.
+
+(5) The fourth condition is that the application by reference to which priority is claimed has not been withdrawn or refused when the application under this Part of this Act is made.
+
+(6) The fifth condition is that, within 3 months from the date of the application under this Part of this Act, the applicant submits to the Controller a copy of the documents constituting the parallel application, certified as a true copy by the authority to whom it is made.
+
+(7) The earlier date referred to in sub-paragraph (1) above is the date of the parallel application mentioned in sub-paragraph (2) above.
+
+(8) If more than one parallel application has been duly made as mentioned in sub-paragraph (2) above, the references in sub-paragraphs (4) to (7) above to the parallel application shall be construed as references to the earlier, or earliest, of the applications.
+
+(9) In this paragraph—
+
+- (a) “**the Convention**” means the International Convention for the Protection of New Varieties of Plants done on 2nd December 1961 and revised at Geneva on 10th November 1972, 23rd October 1978 and 19th March 1991, and
+- (b) references to a parallel application, in relation to an application for the grant of plant breeders’ rights, are to an application for the grant of plant variety rights in respect of the variety to which the application under this Part of this Act relates.
+
+**7.** (1) Any priority which an application for the grant of plant breeders’ rights enjoys by virtue of paragraph 6 above shall be forfeited if the applicant does not, before the end of the relevant period, satisfy all the requirements which are to be satisfied by an applicant before plant breeders’ rights can be granted to him.
+
+(2) For the purposes of sub-paragraph (1) above, the relevant period is the period of 2 years beginning with the day after the last day on which the applicant could have claimed priority under paragraph 6 above for his application.
+
+(3) Where—
+
+- (a) an application for the grant of plant breeders’ rights enjoys priority by virtue of paragraph 6 above, and
+- (b) the application by reference to which it enjoys priority is withdrawn or refused before the applicant has satisfied all the requirements which are to be satisfied by an applicant before plant breeders’ rights can be granted to him,
+
+sub-paragraph (1) above shall have effect with the substitution for “the relevant period” of “ such period as the Controller may specify ”.
+
+## SCHEDULE 3 — The Plant Varieties and Seeds Tribunal[^c877820][^key-b79c3289db9e25043cf0a654be1ac0cf]
+
+Section 42.
+
+### Constitution of the Tribunal
+
+**1.** In any case, the jurisdiction of the Tribunal shall be exercised by—
+
+- (a) the relevant chairman,
+- (b) a member of the panel constituted under paragraph 7(1)(a) below, and
+- (c) a member of the panel constituted under paragraph 7(1)(b) below;
+
+and references to the Tribunal in this Act or the [^c877821]Plant Varieties and Seeds Act 1964 shall be construed accordingly.
+
+### Chairman
+
+**2.** (1) The Lord Chancellor shall appoint a person to be chairman of the Tribunal for the purpose of proceedings brought before them in England and Wales.
+
+(2) A person may only be appointed under this paragraph if he has a seven year general qualification, within the meaning of section 71 of the [^c877822]Courts and Legal Services Act 1990.
+
+**3.** (1) The Lord President of the Court of Session shall appoint a person to be chairman of the Tribunal for the purpose of proceedings brought before them in Scotland.
+
+(2) A person may only be appointed under this paragraph if he is an advocate or solicitor in Scotland of at least 7 years’ standing.
+
+**4.** (1) The Northern Ireland Judicial Appointments Commission[^key-18ce2e3e77bc13aaa7d8dc1b5aa3806f] shall appoint a person to be chairman of the Tribunal for the purpose of proceedings brought before them in Northern Ireland.
+
+(2) A person may only be appointed under this paragraph if he is a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^key-d70860cd9b839d3859bdc62371926216] of at least 7 years’ standing.
+
+**5.** (1) Subject to sub-paragraph (2) below, a person’s appointment under paragraph 2, 3 or 4 above shall be for such term as the appointing authority may determine before the person’s appointment.
+
+(1A)[^key-07b6437f98c338ab695280b4df363fb5] For an appointment under paragraph 4 above, the term mentioned in sub-paragraph (1) above is to be determined with the agreement of the Department of Justice *(Extent: N.I.)*[^key-f799d27fd1b812d186dcaa3866063f84].
+
+(2) No appointment of a person under paragraph 2, 3 or 4 above shall be such as to extend beyond the day on which he attains the age of 75[^key-96432ecc1d1e5d084183e0d417a4489a].
+
+(3) A person who ceases to hold office under paragraph 2, 3 or 4 above shall be eligible for re-appointment.
+
+(4) A person may resign his appointment under paragraph 2, 3 or 4 above by notice in writing to the appointing authority.
+
+(5) The appointing authority may revoke a person’s appointment under paragraph 2 or 3[^key-ba6b746616e6c2a93c52fda72e811444] above if satisfied that the person is unfit to continue in office or incapable of discharging his duties.
+
+(5A)[^key-dbb908bd53c1fdad2d80e492aa26d839] Where the appointing authority is the Lord Chancellor, the power conferred by sub-paragraph (5) may be exercised only with the concurrence of the Lord Chief Justice of England and Wales.
+
+(6)[^key-e652b36496f74fb4665a54638e3873bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.** (1) In the case of the temporary absence or inability to act of a person appointed under paragraph 2, 3 or 4 above, the appointing authority may appoint another person to act as deputy for that person.
+
+(2) A person may only be appointed to act as deputy for a person appointed under paragraph 2, 3 or 4 above if he has the qualification required for appointment under that paragraph.
+
+(3) A person appointed under sub-paragraph (1) above shall, when acting as deputy for a person appointed under paragraph 2, 3 or 4 above, have all the functions of that person.
+
+### The two panels
+
+**7.** (1) The Ministers shall draw up and from time to time revise—
+
+- (a) a panel of persons who have wide general knowledge in the field of agriculture, of horticulture or of forestry, and
+- (b) a panel of persons who have specialised knowledge of particular species or groups of plants or of the seeds industry.
+
+(2) The power to revise the panels drawn up under this paragraph shall include power to terminate a person’s membership of either of them, and shall accordingly to that extent be subject to section 7 of the [^c877824]Tribunals and Inquiries Act 1992(which makes it necessary to obtain the concurrence of the Lord Chancellor and certain judicial office holders to dismissals in certain cases)[^key-3399ce4f4ded666f501f9c95e47349d3].
+
+### Selection from the panels
+
+**8.** (1) The members of the panels who are to deal with any case shall be selected as follows—
+
+- (a) the Ministers may select a member or members to deal with that particular case or class or group of cases, or
+- (b) the Ministers may select for a class or group of cases members from amongst whom members to deal with any particular case shall be selected, and the selection from amongst those members of a member or members to deal with the particular case shall then be made either by the Ministers, or, if they so direct, by the relevant chairman.
+
+(2) The member from the panel constituted under paragraph 7(1)(b) above shall be selected for his knowledge of the subject matter of a particular case or class or group of cases.
+
+### Sittings of the Tribunal
+
+**9.** The Tribunal may, for the purpose of hearing proceedings brought before them in any part of the United Kingdom, sit anywhere in the United Kingdom.
+
+### Decisions of the Tribunal
+
+**10.** (1) Any decision of the Tribunal in exercise of their jurisdiction shall be taken, in the event of a difference between members dealing with the case, by the votes of the majority.
+
+(2) If, after the commencement of the hearing of any proceedings before the Tribunal, one of the three members of the Tribunal becomes incapable of continuing to hear the proceedings on account of sickness or for any other reason, the proceedings may, with the consent of all parties to the proceedings, be continued before the remaining two members of the Tribunal and heard and determined accordingly.
+
+(3) If, in the case of proceedings continued under sub-paragraph (2) above, the two members differ in opinion, the case shall, on the application of any party to the proceedings, be re-argued and determined by the Tribunal as ordinarily constituted.
+
+(4) A decision of the Tribunal shall not be questioned on the ground that a member was not validly appointed or selected.
+
+### Costs
+
+**11.** (1) In any proceedings brought before the Tribunal in England and Wales or Northern Ireland under their statutory jurisdiction, the Tribunal may order any party to the proceedings to pay to any other party to the proceedings—
+
+- (a) a specified sum in respect of the costs incurred in the proceedings by the second-mentioned party, or
+- (b) the taxed amount of those costs.
+
+(2) In the case of an order under sub-paragraph (1) above relating to proceedings brought in England and Wales, any costs required by the order to be taxed may be taxed in the county court according to such of the scales prescribed by rules of court[^key-a45504ffc1e807d71808ee8b9c0d8680] for proceedings in the county court as may be directed by the order or, if the order gives no direction, by the county court.
+
+(3) In the case of any order under sub-paragraph (1) above relating to proceedings brought in Northern Ireland, any costs required by the order to be taxed may be taxed by the taxing master of the Supreme Court of Judicature of Northern Ireland according to such of the scales provided for equity suits or proceedings in the county courts under the [^c877825]County Courts (Northern Ireland) Order 1980 as may be directed by the order or, if the order gives no direction, by the taxing master.
+
+**12.** In any proceedings brought before the Tribunal in Scotland under their statutory jurisdiction, the Tribunal may order any party to the proceedings to pay to any other party to the proceedings any expenses incurred in the proceedings by the second-mentioned party and may tax or settle the amount of any expenses to be paid under any such order or direct in what manner they are to be taxed.
+
+### Rules
+
+**13.** (1) The Lord Chancellor may make rules as to the procedure in connection with proceedings brought before the Tribunal in exercise of their statutory jurisdiction and as to the fees chargeable in respect of those proceedings, and the rules may in particular make provision—
+
+- (a) as to the circumstances in which the Tribunal need not sit, or are not to sit, in public,
+- (b) as to the form of any decision of the Tribunal,
+- (c) as to the time within which any proceedings are to be instituted,
+- (d) as to the evidence which may be required or admitted in any proceedings,
+- (e) as to the examination of the parties, and of witnesses, on oath or affirmation in any proceedings,
+- (f) as to the procedure for securing the attendance of witnesses and the production of documents in any proceedings.
+
+(2) Rules under sub-paragraph (1) above shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Remuneration of Tribunal members
+
+**14.** The Ministers may pay to members of the Tribunal such remuneration and allowances as the Ministers may determine.
+
+### Officers and servants
+
+**15.** (1) The Ministers may appoint such officers and servants of the Tribunal as the Ministers may determine.
+
+(2) There shall be paid to the officers and servants appointed under this paragraph such remuneration and allowances as the Ministers may determine.
+
+### Interpretation
+
+**16.** In this Schedule—
+
+- “**appointing authority**” means—
+  - (a) in relation to an appointment under paragraph 2 above, the Lord Chancellor,
+  - (b) in relation to an appointment under paragraph 3 above, the Lord President of the Court of Session, and
+  - (c) in relation to an appointment under paragraph 4 above, the Northern Ireland Judicial Appointments Commission[^key-791a6b778b7df1239f37493b2e35ef24]; and
+- “**relevant chairman**” means—
+  - (a) in relation to proceedings brought before the Tribunal in England and Wales, the person appointed under paragraph 2 above,
+  - (b) in relation to proceedings brought before the Tribunal in Scotland, the person appointed under paragraph 3 above, and
+  - (c) in relation to proceedings brought before the Tribunal in Northern Ireland, the person appointed under paragraph 4 above.
+
+## SCHEDULE 4 — Repeals
+
+Section 52.
+
+| Chapter | Short title | Extent of repeal |
+| --- | --- | --- |
+| 1964 c. 14. | The Plant Varieties and Seeds Act 1964. | Part I. |
+|  |  | In section 37, in subsection (1), paragraphs (a) to (c), and, in subsection (2), the words “or the Controller or the Tribunal”. |
+|  |  | In section 38(1), the definitions of the expressions “the Controller”, “plant variety” and “variety”. |
+|  |  | In section 39, in subsection (2), paragraph (a) and the word “and” immediately following it, and subsection (3)(b). |
+|  |  | Schedules 1 to 4. |
+| 1968 c. 34. | The Agriculture (Miscellaneous Provisions) Act 1968. | Section 43. |
+|  |  | Schedule 7. |
+| 1972 c. 68. | The European Communities Act 1972. | In Schedule 4, paragraph 5(5). |
+| 1976 c. 34. | The Restrictive Trade Practices Act 1976. | In Schedule 5, the third paragraph. |
+| 1976 c. 53. | The Resale Prices Act 1976. | In section 10(4)(b), the words from “or” to the end. |
+| 1983 c. 17. | The Plant Varieties Act 1983. | The whole Act. |
+| 1990 c. 41. | The Courts and Legal Services Act 1990. | In Schedule 10, paragraph 21. |
+| 1992 c. 53. | The Tribunals and Inquiries Act 1992. | In Schedule 3, paragraph 2. |
+| 1993 c. 8. | The Judicial Pensions and Retirement Act 1993. | In Schedule 6, paragraph 54. |
+| 1994 c. 26. | The Trade Marks Act 1994. | In Schedule 4, in the table in paragraph 1(2), the entry relating to the Plant Varieties and Seeds Act 1964. |
+| 1996 c. 23. | The Arbitration Act 1996. | In Schedule 3, paragraph 18. |
+
+## Annotations
+
+[^c877800]: Modification: Act: transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+    Act: transfer of functions, property, rights and liabilities (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [arts. 2(1)(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1/5), [3](https://www.legislation.gov.uk/uksi/1999/3141/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule)
+
+[^c1945897]: Modification: Act extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 27(1)](https://www.legislation.gov.uk/uksi/2002/247/regulation/27/1) (subject to [regs. 19(2)](https://www.legislation.gov.uk/uksi/2002/247/regulation/19/2), [27(2)(3)](https://www.legislation.gov.uk/uksi/2002/247/regulation/27/2/3))
+
+[^c1945903]: Modification: Act: certain functions transferred (21.11.2002) by [The Northern Ireland Act 1998 (Modification of Enactments) Order 2002 (S.I. 2002/2843)](https://www.legislation.gov.uk/uksi/2002/2843), [art. 8](https://www.legislation.gov.uk/uksi/2002/2843/article/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2002/2843/article/10))
+
+[^M_C_71e320a5-cdcf-43a6-934b-0aee0266e619]: Modification: Act applied in part (with modifications) (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [3-14](https://www.legislation.gov.uk/uksi/2019/204/regulation/3) (as amended by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2), [8(1)-(5)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/1); [S.I. 2020/769](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/769/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_C_bbfbf0a7-8d6a-41d2-fe56-4b6af44141ea]: Modification: Act extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [art. 3](https://www.legislation.gov.uk/uksi/2016/758/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/758/schedule/2) (as amended by [S.I. 2022/1337](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1337/schedule))
+
+[^key-c9dc0c9d16acc52702afc55a57058136]: Textual amendment: Words in s. 9(3) inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a20470e21039cafeb68975b5d6d341fb]: Textual amendment: Words in s. 9(4) substituted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_44837c11-507b-4611-ceec-b6baa0dbafbc]: Textual amendment: S. 9(5) ceases to have effect in part (S.) (4.11.2005) by virtue of [Plant Breeders' Rights (Discontinuation of Prior Use Exemption) (Scotland) Order 2005 (S.S.I. 2005/460)](https://www.legislation.gov.uk/ssi/2005/460), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/460/article/1/1), [2](https://www.legislation.gov.uk/ssi/2005/460/article/2); ceases to have effect (E. N.I.) (7.11.2005) by virtue of [Plant Breeders’ Rights (Discontinuation of Prior Use Exemption) Order 2005 (S.I. 2005/2726)](https://www.legislation.gov.uk/uksi/2005/2726), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2726/article/1), [2](https://www.legislation.gov.uk/uksi/2005/2726/article/2); and ceases to have effect (W.) (12.5.2006) by virtue of [Plant Breeders’ Rights (Discontinuation of Prior Use Exemption) (Wales) Order 2006 (S.I. 2006/1261)](https://www.legislation.gov.uk/uksi/2006/1261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1261/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1261/article/2)
+
+[^key-4bc4b49dd5dc66c07eb359f2ecc78bc2]: Textual amendment: S. 9(10) substituted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(c)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a09769c43233bce2a991adc9e2e8ddb5]: Textual amendment: Word in s. 9(10)(b) substituted (17.3.2026) by [The Plant Varieties Act (Amendment) Regulations 2026 (S.I. 2026/160)](https://www.legislation.gov.uk/uksi/2026/160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/160/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/160/regulation/2/2/a)
+
+[^key-acb563d4d179032df0a34abf5682e87a]: Textual amendment: Words in s. 9(10)(b) substituted (17.3.2026) by [The Plant Varieties Act (Amendment) Regulations 2026 (S.I. 2026/160)](https://www.legislation.gov.uk/uksi/2026/160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/160/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/160/regulation/2/2/b)
+
+[^key-1bd81780118650854f49beb91fc033ff]: Textual amendment: S. 9(12) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(2)(d)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ef464c910a7d257cc327f148efcde0df]: Textual amendment: [S. 11(3)(a)](https://www.legislation.gov.uk/ukpga/1997/66/section/11/3/a) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1945910]: Modification: S. 17 extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 17(3)](https://www.legislation.gov.uk/uksi/2002/247/regulation/17/3)
+
+[^key-04c1aaf5d44f617ca1995234ae007df9]: Modification: S. 19 modified (31.3.2006) by [Plant Breeders' Rights (Naming and Fees) Regulations 2006 (S.I. 2006/648)](https://www.legislation.gov.uk/uksi/2006/648), [regs. 1](https://www.legislation.gov.uk/uksi/2006/648/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2006/648/regulation/5/3)
+
+[^c877801]: Marginal citation: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26).
+
+[^key-b25c6759d68f2bd814a1f5030b7bdd08]: Modification: S. 20 modified (31.3.2006) by [Plant Breeders' Rights (Naming and Fees) Regulations 2006 (S.I. 2006/648)](https://www.legislation.gov.uk/uksi/2006/648), [regs. 1](https://www.legislation.gov.uk/uksi/2006/648/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2006/648/regulation/5/3)
+
+[^c1945920]: Modification: S. 24: power to make regulations extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 21](https://www.legislation.gov.uk/uksi/2002/247/regulation/21)
+
+[^c1945912]: Modification: S. 26(1)(c) extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 17(3)](https://www.legislation.gov.uk/uksi/2002/247/regulation/17/3)
+
+[^c1945923]: Modification: S. 26(2)(a): power to make regulations extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 21](https://www.legislation.gov.uk/uksi/2002/247/regulation/21)
+
+[^c1945925]: Modification: S. 28: power to make regulations extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 21](https://www.legislation.gov.uk/uksi/2002/247/regulation/21)
+
+[^c1945926]: Modification: S. 29: power to make regulations extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 21](https://www.legislation.gov.uk/uksi/2002/247/regulation/21)
+
+[^c877803]: Textual amendment: S. 33 repealed (1.3.2000) by [S.I. 2000/311](https://www.legislation.gov.uk/uksi/2000/311), [art. 33(2)](https://www.legislation.gov.uk/uksi/2000/311/article/33/2)
+
+[^key-c108c2a88fc0662917c2d1f695ab610d]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/1997/66/section/38) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2019/204/regulation/15/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c877804]: Marginal citation: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
+
+[^c877805]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
+
+[^c877806]: Marginal citation: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
+
+[^c1945908]: Modification: Pt. II applied (with modifications) (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 19(1)](https://www.legislation.gov.uk/uksi/2002/247/regulation/19/1) (subject to [reg. 19(2)](https://www.legislation.gov.uk/uksi/2002/247/regulation/19/2))
+
+[^c877807]: Marginal citation: [1894 c. 13](https://www.legislation.gov.uk/ukpga/1894/13).
+
+[^c877808]: Marginal citation: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23).
+
+[^c1945928]: Modification: S. 44: power to make regulations extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 21](https://www.legislation.gov.uk/uksi/2002/247/regulation/21)
+
+[^c1945914]: Modification: S. 45 applied (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 17(3)](https://www.legislation.gov.uk/uksi/2002/247/regulation/17/3)
+
+[^c877809]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^c877810]: Marginal citation: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
+
+[^c877811]: Marginal citation: [1965 c. 22 (N.I.)](https://www.legislation.gov.uk/apni/1965/22).
+
+[^c877812]: Extent: S. 47 extends to EWS only, see s. 53(1)
+
+[^c877813]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c877814]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^c1945929]: Modification: S. 48(1): power to make regulations extended (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 21](https://www.legislation.gov.uk/uksi/2002/247/regulation/21)
+
+[^c1811990]: Modification: S. 48(2)-(5) applied (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [reg. 21](https://www.legislation.gov.uk/uksi/2002/247/regulation/21)
+
+[^c877815]: Marginal citation: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
+
+[^c877816]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
+
+[^c877817]: Marginal citation: [1968 c. 29](https://www.legislation.gov.uk/ukpga/1968/29).
+
+[^c877818]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^c877819]: Subordinate legislation: S. 54(3) power fully exercised (8.4.1998): 8.5.1998 appointed day by [S.I. 1998/1028](https://www.legislation.gov.uk/uksi/1998/1028), [art. 2](https://www.legislation.gov.uk/uksi/1998/1028/article/2)
+
+[^key-fcd28e20dde785e150ccf5c3839e075a]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+
+[^c877820]: Modification: Sch. 3 applied (1.12.2001) by [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), [reg. 17(2)](https://www.legislation.gov.uk/uksi/2001/3510/regulation/17/2)
+
+[^key-b79c3289db9e25043cf0a654be1ac0cf]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3) applied (in part) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [18(2)](https://www.legislation.gov.uk/nisr/2020/302/regulation/18/2)
+
+[^c877821]: Marginal citation: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
+
+[^c877822]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).
+
+[^key-18ce2e3e77bc13aaa7d8dc1b5aa3806f]: Textual amendment: Words in Sch. 3 para. 4(1) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/27/2) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+
+[^key-d70860cd9b839d3859bdc62371926216]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^key-07b6437f98c338ab695280b4df363fb5]: Textual amendment: Sch. 3 para. 5(1A) inserted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 27(3)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/27/3)(with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+
+[^key-f799d27fd1b812d186dcaa3866063f84]: Textual amendment: Words in Sch. 3 para. 5(1A) substituted (N.I.) (12.4.2010) by [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [s. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 11](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/11); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
+
+[^key-96432ecc1d1e5d084183e0d417a4489a]: Textual amendment: Word in [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3/paragraph/5/2) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/29/a) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+
+[^key-ba6b746616e6c2a93c52fda72e811444]: Textual amendment: Words in Sch. 3 para. 5(5) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 269(3)(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/269/3/a); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
+
+[^key-dbb908bd53c1fdad2d80e492aa26d839]: Textual amendment: Sch. 3 para. 5(5A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 269(3)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/269/3/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
+
+[^key-e652b36496f74fb4665a54638e3873bd]: Textual amendment: [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3/paragraph/5/6) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 29(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/29/b) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+
+[^c877824]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^key-3399ce4f4ded666f501f9c95e47349d3]: Textual amendment: Words in Sch. 3 para. 7(2) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 269(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/269/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
+
+[^key-a45504ffc1e807d71808ee8b9c0d8680]: Textual amendment: Words in [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/ukpga/1997/66/schedule/3/paragraph/11/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 120](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/120); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c877825]: Marginal citation: [S.I. 1980/397 (N.I.3)](https://www.legislation.gov.uk/nisi/1980/397).
+
+[^key-791a6b778b7df1239f37493b2e35ef24]: Textual amendment: Words in Sch. 3 para. 16 substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 27(4)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/27/4) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

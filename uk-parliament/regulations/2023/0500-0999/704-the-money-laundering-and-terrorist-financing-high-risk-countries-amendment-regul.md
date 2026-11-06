@@ -1,0 +1,137 @@
+---
+title: The Money Laundering and Terrorist Financing (High-Risk Countries) (Amendment) Regulations 2023
+id: uksi/2023/704
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-06-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2023/704
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/704/pdfs/uksiem_20230704_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/704/pdfs/uksi_20230704_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/704/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Money Laundering and Terrorist Financing (High-Risk Countries) (Amendment) Regulations 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 704
+
+Financial Services
+
+The Money Laundering and Terrorist Financing (High-Risk Countries) (Amendment) Regulations 2023
+
+Approved by both Houses of Parliament
+
+Made
+
+at 11.15 a.m. on 26th June 2023
+
+Laid before Parliament
+
+at 3.30 p.m. on 26th June 2023
+
+Coming into force
+
+27th June 2023
+
+The Treasury make these Regulations in exercise of the powers conferred by section 49 of, and paragraphs 4 and 23 of Schedule 2 to, the Sanctions and Anti-Money Laundering Act 2018[^f00001].
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Money Laundering and Terrorist Financing (High-Risk Countries) (Amendment) Regulations 2023.
+
+(2) These Regulations come into force on 27th June 2023.
+
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+## 2. Amendment of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017
+
+(1) The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^f00002] are amended as follows.
+
+(2) For Schedule 3ZA (high-risk third countries) substitute—
+
+> **SCHEDULE 3ZA — High-Risk Third Countries**
+>
+> Regulation 33(3)
+>
+> **1.** Albania
+>
+> **2.** Barbados
+>
+> **3.** Burkina Faso
+>
+> **4.** Cayman Islands
+>
+> **5.** Democratic People’s Republic of Korea
+>
+> **6.** Democratic Republic of the Congo
+>
+> **7.** Gibraltar
+>
+> **8.** Haiti
+>
+> **9.** Iran
+>
+> **10.** Jamaica
+>
+> **11.** Jordan
+>
+> **12.** Mali
+>
+> **13.** Mozambique
+>
+> **14.** Myanmar
+>
+> **15.** Panama
+>
+> **16.** Philippines
+>
+> **17.** Senegal
+>
+> **18.** South Sudan
+>
+> **19.** Syria
+>
+> **20.** Tanzania
+>
+> **21.** Turkey
+>
+> **22.** Uganda
+>
+> **23.** United Arab Emirates
+>
+> **24.** Yemen
+
+.
+
+Andrew Stephenson
+
+Steve Double
+
+Two of the Lords Commissioners of His Majesty’s Treasury
+
+At 11.15 a.m. on 26th June 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 ([S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692)) (“the MLRs”) by substituting the list of high-risk third countries in Schedule 3ZA for a new list. Schedule 3ZA was originally inserted into the MLRs by the Money Laundering and Terrorist Financing (Amendment) (High-Risk Countries) Regulations 2021 ([S.I. 2021/392](https://www.legislation.gov.uk/uksi/2021/392)) and was subsequently amended by the Money Laundering and Terrorist Financing (Amendment) (No. 2) (High-Risk Countries) Regulations 2021 ([S.I. 2021/827](https://www.legislation.gov.uk/uksi/2021/827)), the Money Laundering and Terrorist Financing (Amendment) (No. 3) (High-Risk Countries) Regulations 2021 ([S.I. 2021/1218](https://www.legislation.gov.uk/uksi/2021/1218)), the Money Laundering and Terrorist Financing (High-Risk Countries) (Amendment) Regulations 2022 ([S.I. 2022/393](https://www.legislation.gov.uk/uksi/2022/393)), the Money Laundering and Terrorist Financing (High-Risk Countries) (Amendment) (No. 2) Regulations 2022 ([S.I. 2022/782](https://www.legislation.gov.uk/uksi/2022/782)) and the Money Laundering and Terrorist Financing (High-Risk Countries) (Amendment) (No. 3) Regulations 2022 ([S.I. 2022/1183](https://www.legislation.gov.uk/uksi/2022/1183)).
+
+Cambodia and Morocco are no longer classed as high-risk third countries for the purposes of enhanced customer due diligence requirements in regulation 33(1).
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13). In section 49 the definition of “terrorist financing” was amended by paragraph 9 of Part 2 of Schedule 3 to the Sanctions and Anti-Money Laundering Act 2018 (the 2018 Act). There are amending instruments to the 2018 Act but none is relevant. See the definition of ‘appropriate Minister’ in section 1(9) of the 2018 Act.
+
+[^f00002]: Footnote: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), amended by [S.I. 2019/253](https://www.legislation.gov.uk/uksi/2019/253), [2019/1511](https://www.legislation.gov.uk/uksi/2019/1511), [2020/991](https://www.legislation.gov.uk/uksi/2020/991), [2021/392](https://www.legislation.gov.uk/uksi/2021/392), [2021/827](https://www.legislation.gov.uk/uksi/2021/827), [2021/1218](https://www.legislation.gov.uk/uksi/2021/1218), [2022/393](https://www.legislation.gov.uk/uksi/2022/393), [2022/782](https://www.legislation.gov.uk/uksi/2022/782) and [2022/1183](https://www.legislation.gov.uk/uksi/2022/1183). There are other amending instruments but none is relevant.

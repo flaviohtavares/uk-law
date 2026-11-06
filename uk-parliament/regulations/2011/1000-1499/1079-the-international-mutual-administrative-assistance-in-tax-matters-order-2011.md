@@ -1,0 +1,90 @@
+---
+title: The International Mutual Administrative Assistance in Tax Matters Order 2011
+id: uksi/2011/1079
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2011-04-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2011/1079
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1079/pdfs/uksiem_20111079_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1079/pdfs/uksi_20111079_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1079/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The International Mutual Administrative Assistance in Tax Matters Order 2011
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2011 No. 1079
+
+Taxes
+
+The International Mutual Administrative Assistance in Tax Matters Order 2011
+
+Made
+
+7th April 2011
+
+At the Court at Windsor Castle, the 7th day of April 2011
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+A draft of this Order was laid before the House of Commons in accordance with section 173(7) of the Finance Act 2006[^f00001] and approved by a resolution of that House.
+
+Accordingly, Her Majesty, in exercise of the power conferred upon Her by sections 173(1) to (3) of the Finance Act 2006, by and with the advice of Her Privy Council, orders as follows—
+
+## 1. Citation
+
+This Order may be cited as the International Mutual Administrative Assistance in Tax Matters Order 2011.
+
+## 2. Mutual administrative assistance arrangements to have effect
+
+It is declared that—
+
+- (a) the arrangements relating to international tax enforcement set out in the joint Council of Europe/Organisation for Economic Co-operation and Development Convention on Mutual Administrative Assistance in Tax Matters[^f00002], as varied by the arrangements specified in the Protocol set out in the Schedule to this Order, have been made with the other signatories, and
+- (b) it is expedient that the arrangements should have effect.
+
+Judith Simpson
+
+Clerk of the Privy Council
+
+## SCHEDULE
+
+Article 2
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+The Schedule to this Order contains a Protocol (“the Protocol”) signed on behalf of the United Kingdom of Great Britain and Northern Ireland on 27th May 2010, which amends the joint Council of Europe (“CoE”)/Organisation for Economic Co-operation and Development (“OECD”) Convention on Mutual Administrative Assistance in Tax Matters (“the Convention”). The Convention was given effect by the International Mutual Administrative Assistance in Tax Matters Order 2007 ([S.I. 2007/2126](https://www.legislation.gov.uk/uksi/2007/2126)). This Order brings into effect the Convention, as amended by the Protocol.
+
+The current signatories to the Convention are Azerbaijan, Belgium, Canada, Denmark, Finland, France, Georgia, Germany, Iceland, Italy, Korea, Mexico, Moldova, the Netherlands, Norway, Poland, Portugal, Slovenia, Spain, Sweden, Ukraine and the United States of America. All have also signed the Protocol save for Azerbaijan, Belgium, Canada, Germany and Spain.
+
+Article 1 provides for citation.
+
+Article 2 makes a declaration as to the effect and content of the arrangements.
+
+The Convention provides for mutual administrative assistance in tax matters between its signatories in the form of exchange of information, assistance in the recovery of tax debts and the service of documents. The Protocol continues this approach, but brings the provisions of the Convention on exchange of information into line with current international standards. The Protocol also provides for the possibility of adherence to the Convention by non-CoE/OECD Member States.
+
+Article IX of the Protocol provides that it shall enter into force on the first day of the month following the expiration of a period of three months after its ratification by five signatories to the Convention. Any signatory which ratifies the Protocol after it has entered into force will be bound by it on the first day of the month following the expiration of a period of three months from the date of that signatory’s ratification.
+
+Once the Protocol enters into force, any Member State of the CoE or OECD which is not yet a signatory to the Convention but chooses to become a signatory will adhere to the Convention as amended by the Protocol upon ratification, unless they express a different intention. Non-CoE/OECD signatories will only be able to adhere to the Convention as amended by the Protocol.
+
+The date of entry into force of the Protocol in respect of the United Kingdom of Great Britain and Northern Ireland will, in due course, be published in the *London, Edinburgh* and *Belfast Gazettes*.
+
+A full and final Impact Assessment has not been produced for this Order as a negligible impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 25](https://www.legislation.gov.uk/ukpga/2006/25).
+
+[^f00002]: Footnote: The Convention was given effect by the International Mutual Administrative Assistance in Tax Matters Order 2007 ([S.I. 2007/2126](https://www.legislation.gov.uk/uksi/2007/2126)).

@@ -1,0 +1,23 @@
+---
+title: Towns Improvement Clauses Act 1847, section 35
+act: Towns Improvement Clauses Act 1847
+section: '35'
+status: revised
+text_date: '2016-10-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/10-11/34/section/35
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Towns Improvement Clauses Act 1847, section 35
+
+> Text as at 2016-10-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 35. Commissioners empowered to construct drains from houses, charging owner, &c. with the expence.
+
+*Extent: E+W+S+N.I.*
+
+If any house or building within the limits of the special Act be at any time not drained by a sufficient drain or pipe communicating with some sewer, or with the sea or some public river, to the satisfaction of the commissioners, and if there shall be such means of drainage within one hundred feet of any part of such house or building, the commissioners shall construct or lay from such house or building a covered drain or pipe, of such materials, of such size, at such level, and with such fall, as they think necessary for the drainage of such house or buildings, its areas, waterclosets, privies, and offices; provided that the cost of executing such work shall not, without the written consent of the owner, exceed one year’s rackrent of such house or building; and the expences incurred by the commissioners in respect thereof, if not forthwith paid by the owner or occupier, shall be defrayed by the drainage rates herein-after mentioned.

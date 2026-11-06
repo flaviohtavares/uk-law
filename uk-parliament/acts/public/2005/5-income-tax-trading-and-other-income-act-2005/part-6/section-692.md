@@ -1,0 +1,36 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 692
+act: Income Tax (Trading and Other Income) Act 2005
+section: '692'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/692
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 692
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 692. Income from savings certificates
+
+*Extent: E+W+S+N.I.*
+
+(1) No liability to income tax arises in respect of income from authorised savings certificates.
+
+(2) A savings certificate is authorised so far as its acquisition was not prohibited by regulations made by the Treasury limiting a person's holding.
+
+(3) In this section “**savings certificates**” means—
+
+- (a) savings certificates issued under—
+  - (i) section 12 of the National Loans Act 1968 (c. 13) (power of Treasury to borrow),
+  - (ii) section 7 of the National Debt Act 1958 (c. 6) (power of Treasury to issue national savings certificates), or
+  - (iii) section 59 of FA 1920 (power to borrow on national savings certificates),
+- (b) war savings certificates, as defined in section 9(3) of the National Debt Act 1972 (c. 65), or
+- (c) savings certificates issued under any enactment forming part of the law of Northern Ireland and corresponding to section 12 of the National Loans Act 1968.
+
+(4) But subsection (3)(c) does not include Ulster Savings Certificates (for which there are special rules in section 693).

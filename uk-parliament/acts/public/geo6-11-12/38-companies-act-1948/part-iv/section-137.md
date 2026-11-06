@@ -1,0 +1,27 @@
+---
+title: Companies Act 1948, section 137
+act: Companies Act 1948
+section: '137'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/11-12/38/section/137
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1948, section 137
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 137. Right to demand a poll.
+
+(1) Any provision contained in a company's articles shall be void in so far as it would have the effect either—
+
+- (a) of excluding the right to demand a poll at a general meeting on any question other than the election of the chairman of the meeting or the adjournment of the meeting; or
+- (b) of making ineffective a demand for a poll on any such question which is made either—
+  - (i) by not less than five members having the right to vote at the meeting; or
+  - (ii) by a member or members representing not less than one tenth of the total voting rights of all the members having the right to vote at the meeting; or
+  - (iii) by a member or members holding shares in the company conferring a right to vote at the meeting, being shares on which an aggregate sum has been paid up equal to not less than one tenth of the total sum paid up on all the shares conferring that right.
+
+(2) The instrument appointing a proxy to vote at a meeting of a company shall be deemed also to confer authority to demand or join in demanding a poll, and for the purposes of the foregoing subsection a demand by a person as proxy for a member shall be the same as a demand by the member.

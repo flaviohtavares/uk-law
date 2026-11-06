@@ -1,0 +1,57 @@
+---
+title: Data (Use and Access) Act 2025, section 45
+act: Data (Use and Access) Act 2025
+section: '45'
+status: not-yet-in-force
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/18/section/45
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Data (Use and Access) Act 2025, section 45
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 45. Power of public authority to disclose information to registered person[^key-cafdf7fc4487094891469fc1b453bbeb]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) This section applies where—
+
+- (a) a person is registered in the DVS register, and
+- (b) an individual makes a request to the person for the provision of digital verification services in respect of which the person is registered.
+
+(2) A public authority may disclose to the person information relating to the individual for the purpose of enabling the person to provide the digital verification services for the individual.
+
+(3) A disclosure of information under this section does not breach—
+
+- (a) any obligation of confidence owed by the public authority making the disclosure, or
+- (b) any other restriction on the disclosure of information (however imposed).
+
+(4) But this section does not authorise a disclosure of information which—
+
+- (a) would contravene the data protection legislation (but in determining whether a disclosure would do so, the power conferred by this section is to be taken into account), or
+- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+
+(5) This section does not authorise a public authority to disclose information obtained by the authority otherwise than in connection with the exercise by the authority of functions of a public nature.
+
+(6) This section does not affect a power to disclose information that exists apart from this section.
+
+(7) A public authority may charge a person fees in respect of the disclosure to the person of information under this section.
+
+(8) In this section—
+
+- “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act);
+- “**public authority**” means a person whose functions—
+  - (a) are of a public nature, or
+  - (b) include functions of that nature.
+
+## Annotations
+
+[^key-cafdf7fc4487094891469fc1b453bbeb]: Commencement: S. 45 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

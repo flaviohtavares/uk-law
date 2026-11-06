@@ -1,0 +1,43 @@
+---
+title: Criminal Justice (Scotland) Act 1995, section 74
+act: Criminal Justice (Scotland) Act 1995
+section: '74'
+status: repealed
+text_date: '1997-08-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1995/20/section/74
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice (Scotland) Act 1995, section 74
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 74. Making of confiscation orders.
+
+*Extent: S*
+
+**No longer in force (ended 1996-04-01).**
+
+(1) If the court decides to make a confiscation order, it shall determine the amount to be payable thereunder before making any decision as to—
+
+- (a) imposing a fine on the accused;
+- (b) making any order involving any payment by him.
+
+(2) Where a court makes a confiscation order against an accused in any proceedings, it shall, in respect of any offence of which he is convicted in those proceedings, take account of the order before—
+
+- (a) imposing any fine on him;
+- (b) making any order involving any other payment by him,
+
+but subject to that, the court shall leave the order out of account in determining the appropriate sentence or other manner of dealing with the accused.
+
+(3) No enactment restricting the power of a court which deals with an accused in a particular way from dealing with him also in any other way shall, by reason only of the making of a confiscation order (or the postponement of a decision as regards making such an order), have the effect of restricting the court in dealing with the accused in any way it considers appropriate in respect of an offence.
+
+(4) Where a court makes both a confiscation order and a compensation order under section 58 of the [^c1523989]Criminal Justice (Scotland) Act 1980 against the same person in the same proceedings in relation to the same offence and the offence involves the misappropriation of property, it shall direct that the compensation shall be paid first out of any sums applied towards the satisfaction of the confiscation order.
+
+## Annotations
+
+[^c1523989]: Marginal citation: [1980 c. 62](https://www.legislation.gov.uk/ukpga/1980/62).

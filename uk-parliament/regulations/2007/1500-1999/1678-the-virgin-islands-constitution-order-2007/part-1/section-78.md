@@ -1,0 +1,24 @@
+---
+title: The Virgin Islands Constitution Order 2007, section 78
+act: The Virgin Islands Constitution Order 2007
+section: '78'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1678/section/78
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Virgin Islands Constitution Order 2007, section 78
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 78. Introduction of Bills, etc
+
+(1) Subject to this Constitution and the Standing Orders of the House of Assembly, any member may introduce any Bill or propose any motion for debate in, or may present any petition to, the House, and the same shall be debated and disposed of according to the Standing Orders of the House.
+
+(2) Except on the recommendation of the Minister responsible for finance, the House of Assembly shall not
+
+- (a) proceed upon any Bill (including any amendment to a Bill) which, in the opinion of the person presiding in the House, makes provision for imposing or increasing any tax, for imposing or increasing any charge on the revenues or other funds of the Virgin Islands or for altering any such charge otherwise than by reducing it or for compounding or remitting any debt due to the Virgin Islands; or
+- (b) proceed upon any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding in the House, is that provision would be made for any of the purposes mentioned in paragraph (a).

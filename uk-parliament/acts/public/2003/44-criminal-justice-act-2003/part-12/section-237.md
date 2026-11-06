@@ -1,0 +1,109 @@
+---
+title: Criminal Justice Act 2003, section 237
+act: Criminal Justice Act 2003
+section: '237'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2003/44/section/237
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice Act 2003, section 237
+
+> **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 237. Meaning of “fixed-term prisoner” (not yet in force: etc)[^c19069561][^c19240681]
+
+*Extent: E+W*
+
+(1) In this Chapter “**fixed-term prisoner**” means—
+
+- (a) a person serving a sentence of imprisonment for a determinate term, or
+- (b) a person serving a determinate sentence of detention under section 91 or 96[^key-51033ee8e9ca54b0d0d72dccd377b989] of the PCC(S)A 2000, under[^key-6017812595d5d9d2f3fb2af785e4b4cf] section 226A, 226B,[^key-bdfb49bdd8e4fc02ba667aa43714a243] 227[^key-45fe487d2344e61c4077e8764ab5cc5b] , 228 or 236A[^key-2ff90332f968adf322ec2323c872a3cb] of this Act or under section 250[^key-0ff3a0e8706ae7855dfc8b0b2a68f3d5] , 252A[^key-8a24d9eb8ee196d4f7764821c1313142], 254, 262, 265, 266 or 268A[^key-a12deb83abe02a332d984b1ffb77f2ae] of the Sentencing Code.
+
+and “[^key-1ac824936de38c6d3c3080f08f9c7923]**fixed-term sentence**” means a sentence falling within paragraph (a) or (b).
+
+(1B)[^c20684871][^c19240711] In this Chapter—
+
+- (a) references to a sentence of imprisonment include such a sentence passed by a service court;
+- (aa)[^key-0b117e2adc0531902112b8ccc9f40df2] references to a sentence of detention under section 262 of the Sentencing Code include a sentence of detention in a young offender institution under section 210B of the Armed Forces Act 2006;
+- (b) references to a sentence of detention under section 91 of the PCC(S)A 2000 or section 250 of the Sentencing Code[^key-61468cf1351a0ae7b32c89ec147eea16] include a sentence of detention under section 209 of the Armed Forces Act 2006;
+- (ba)[^key-67232bde44138f3ee3024bad7160ff6a] references to a sentence under section 226A of this Act or section 266 or 279 of the Sentencing Code[^key-a237fd4b8b7502fda32a87380d9262d3] include a sentence under that section passed as a result of section 219A of the Armed Forces Act 2006;
+- (bb) references to a sentence under section 226B of this Act or section 254 of the Sentencing Code[^key-d7b878bb9bf6ac498b2ba98cd9607914] include a sentence under that section passed as a result of section 221A of the Armed Forces Act 2006;
+- (c) references to a sentence under section 227 of this Act include a sentence under that section passed as a result of section 220 of the Armed Forces Act 2006 or section 240A[^c20116171]; [^key-454abbcbdbc2db0c4fac4eafb68e733c]...
+- (d) references to a sentence under section 228 of this Act include a sentence under that section passed as a result of section 222 of that Act, and[^key-05938be7ae67ec08b896c72127c53645]
+- (e) references to a sentence under section 236A of this Act or section 265 or 278 of the Sentencing Code[^key-e7d425b0c99d4536352826ad7bb4180d] include a sentence under that section passed as a result of section 224A of that Act.
+
+(1C) Nothing in subsection (1B) has the effect that section 240ZA[^key-52a38c5835001b894a42898e8a81b95a] or 265 of this Act or section 225 of the Sentencing Code[^key-5de79cdb9c0539f0a0ed4ed4ae1ea002] (provision equivalent to which is made by the Armed Forces Act 2006) or section 240A[^key-9d2fb9a8c0f87ede6e70686a724a9ef9] applies to a service court.
+
+(2) In this Chapter, unless the context otherwise requires, “**prisoner**” includes a person serving a sentence falling within subsection (1)(b); and “**prison**” includes any place where a person serving such a sentence is liable to be detained.
+
+(3)[^key-b15f5e5c441d76a0e1876fe3840f187f] In this Chapter, references to a sentence of detention under section 96 of the PCC(S)A 2000, under[^key-f9ccad178eb61ee184e2d1db24756bcd] section 226A[^key-d1f3b460df557b67142ec7687c14b750], 227 or 236A[^key-7cb310f0bc574ccef82dc8f1588eb8a3] of this Act or under section 262, 265[^key-1b6786aee12ae44898d38c9f155d4043] , 266 or 268A[^key-beb59c6b3653267664994ffbb86dd7b8] of the Sentencing Code are references to a sentence of detention in a young offender institution.
+
+## Annotations
+
+[^c19069561]: Commencement: S. 237 wholly in force at 4.4.2005; s. 237 not in force at Royal Assent, see s. 336(3); s. 237 in force for certain purposes at 26.1.2004 by [S.I. 2003/3282](https://www.legislation.gov.uk/uksi/2003/3282), [art. 2](https://www.legislation.gov.uk/uksi/2003/3282/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3282/schedule); s. 237 in force in so far as not already in force at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/19) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
+
+[^c19240681]: Textual amendment: Word in s. 237 heading inserted (28.3.2009 for certain purposes and otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 219](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/219); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^key-51033ee8e9ca54b0d0d72dccd377b989]: Textual amendment: Words in s. 237(1)(b) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 117(2)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/117/2/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+
+[^key-6017812595d5d9d2f3fb2af785e4b4cf]: Textual amendment: Words in s. 237(1)(b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 218(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/218/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-bdfb49bdd8e4fc02ba667aa43714a243]: Textual amendment: Words in s. 237(1)(b) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 20 para. 2(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/20/paragraph/2/2); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(r)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/r)
+
+[^key-45fe487d2344e61c4077e8764ab5cc5b]: Textual amendment: Words in s. 237(1)(b) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 117(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/117/2/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+
+[^key-2ff90332f968adf322ec2323c872a3cb]: Textual amendment: Words in s. 237(1)(b) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/1/paragraph/15/2); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+
+[^key-0ff3a0e8706ae7855dfc8b0b2a68f3d5]: Textual amendment: Words in s. 237(1)(b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 218(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/218/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-8a24d9eb8ee196d4f7764821c1313142]: Textual amendment: Word in s. 237(1)(b) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 21(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/21/2)
+
+[^key-a12deb83abe02a332d984b1ffb77f2ae]: Textual amendment: Words in s. 237(1)(b) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/9/2/a)
+
+[^key-1ac824936de38c6d3c3080f08f9c7923]: Textual amendment: Words in s. 237(1) inserted (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2014/11/section/2/3), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/40/article/2/b)
+
+[^c20684871]: Modification: S. 237(1B) modified (24.4.2009 for certain purposes, otherwise 31.10.2009) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [205](https://www.legislation.gov.uk/uksi/2009/1059/article/205), [Sch. 1 para. 53(8)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/53/8)
+
+[^c19240711]: Textual amendment: S. 237(1B)(1C) inserted (28.3.2009 for certain purposes and otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 219](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/219); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^key-0b117e2adc0531902112b8ccc9f40df2]: Textual amendment: [S. 237(1B)(aa)](https://www.legislation.gov.uk/ukpga/2003/44/section/237/1B/aa) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/12)
+
+[^key-61468cf1351a0ae7b32c89ec147eea16]: Textual amendment: Words in s. 237(1B)(b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 218(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/218/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-67232bde44138f3ee3024bad7160ff6a]: Textual amendment: S. 237(1B)(ba)(bb) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 22 para. 21](https://www.legislation.gov.uk/ukpga/2012/10/schedule/22/paragraph/21); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(t)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/t)
+
+[^key-a237fd4b8b7502fda32a87380d9262d3]: Textual amendment: Words in s. 237(1B)(ba) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 218(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/218/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-d7b878bb9bf6ac498b2ba98cd9607914]: Textual amendment: Words in s. 237(1B)(bb) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 218(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/218/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c20116171]: Textual amendment: Words in s. 237(1B) inserted (31.10.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2008/4/section/21/2), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153); [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/a)
+
+[^key-454abbcbdbc2db0c4fac4eafb68e733c]: Textual amendment: Word in s. 237(1B)(c) omitted (13.4.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 1 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/1/paragraph/15/3/a); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+
+[^key-05938be7ae67ec08b896c72127c53645]: Textual amendment: S. 237(1B)(e) and word inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 1 para. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/1/paragraph/15/3/b); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+
+[^key-e7d425b0c99d4536352826ad7bb4180d]: Textual amendment: Words in s. 237(1B)(e) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 218(3)(d)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/218/3/d) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-52a38c5835001b894a42898e8a81b95a]: Textual amendment: Words in s. 237(1C) substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 110(2)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/110/2/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+
+[^key-5de79cdb9c0539f0a0ed4ed4ae1ea002]: Textual amendment: Words in s. 237(1C) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 218(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/218/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-9d2fb9a8c0f87ede6e70686a724a9ef9]: Textual amendment: Words in s. 237(1C) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 110(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/110/2/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+
+[^key-b15f5e5c441d76a0e1876fe3840f187f]: Textual amendment: S. 237(3) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 117(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/117/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+
+[^key-f9ccad178eb61ee184e2d1db24756bcd]: Textual amendment: Words in s. 237(3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 218(5)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/218/5/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-d1f3b460df557b67142ec7687c14b750]: Textual amendment: Words in s. 237(3) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 20 para. 2(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/20/paragraph/2/3); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(r)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/r)
+
+[^key-7cb310f0bc574ccef82dc8f1588eb8a3]: Textual amendment: Words in s. 237(3) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/1/paragraph/15/4); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+
+[^key-1b6786aee12ae44898d38c9f155d4043]: Textual amendment: Words in s. 237(3) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 218(5)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/218/5/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-beb59c6b3653267664994ffbb86dd7b8]: Textual amendment: Words in s. 237(3) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/9/2/b)

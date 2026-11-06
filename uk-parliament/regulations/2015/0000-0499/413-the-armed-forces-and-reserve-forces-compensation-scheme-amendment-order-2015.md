@@ -1,0 +1,150 @@
+---
+title: The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015
+id: uksi/2015/413
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-02-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/413
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/413/pdfs/uksiem_20150413_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/413/pdfs/uksi_20150413_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/413/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 413
+
+Pensions
+
+The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015
+
+Made
+
+25th February 2015
+
+Laid before Parliament
+
+3rd March 2015
+
+Coming into force
+
+6th April 2015
+
+The Secretary of State for Defence, in exercise of the powers conferred by section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004[^f00001], makes the following Order:
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015 and comes into force on 6th April 2015.
+
+(2) In this Order “the principal Order” means the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00002] and a reference to a numbered article is a reference to the article, Table or Schedule in the principal Order which bears that number.
+
+## PART 2 — Amendments to the principal Order
+
+### 2. Amendment to article 2 (interpretation) of the principal Order
+
+Article 2 (interpretation) of the principal Order is amended by inserting at the appropriate place—
+
+> - “the AFPS 2015” means the scheme established by the Armed Forces Pension Regulations 2014;
+
+### 3. Amendment to article 12 (injury and death – other exclusions) of the principal Order
+
+Article 12 (injury and death – other exclusions) of the principal Order is amended by—
+
+- (a) substituting in paragraph (1) “predominantly” for “partly”,
+- (b) substituting in paragraph (2) “predominantly” for “partly”.
+
+### 4. Amendment to article 24A (award of armed forces independence payment) of the principal Order
+
+Article 24A(3) (award of armed forces independence payment) of the principal Order is amended by substituting “£139.75” for “£138.05”.
+
+### 5. Amendment to article 29 (description of benefits – death) of the principal Order
+
+Article 29 (description of benefits – death) of the principal Order is amended in paragraph (4) by inserting “or the AFPS 2015” after “AFPS 2005”.
+
+### 6. Amendment to article 35 (amount of bereavement grant) of the principal Order
+
+Article 35 (amount of bereavement grant) of the principal Order is amended by substituting for the existing paragraph (2),—
+
+> (2) Where the person was—
+>
+> - (a) a member of the AFPS 2005, or
+> - (b) a member of the AFPS 2015,
+>
+> the amount of the bereavement grant is the difference between the salary of the member on the date of death and the amount specified in paragraph (1).
+
+### 7. Amendment to article 39 (adjustment of guaranteed income payment, survivor’s guaranteed income payment and child’s payment to take account of other amounts) of the principal Order
+
+Article 39(1) (adjustment of guaranteed income payment, survivor’s guaranteed income payment and child’s payment to take account of other amounts) of the principal Order is amended by—
+
+- (a) substituting, for the existing sub-paragraph (a),—
+
+  > - (a) a pension under the AFPS 1975, the AFPS 2005, the AFPS 2015 or the Gurkha Pension Scheme (“a pension”); or
+
+  ,
+- (b) inserting in sub-paragraph (b) after “Payments Scheme Order 2005”—
+
+  > or the Armed Forces Early Departure Payments Scheme Regulations 2014
+
+  .
+
+## PART 3 — Amendments to the Schedules to the principal Order
+
+### 8. Amendment to schedule 2, paragraph 5 (modification of article 39 (adjustment of guaranteed income payment, survivor’s guaranteed income payment and child’s payment to take account of other amounts)) to the principal Order
+
+Schedule 2, paragraph 5 (modification of article 39 (adjustment of guaranteed income payment, survivor’s guaranteed income payment and child’s payment to take account of other amounts)) to the principal Order is amended in the substitute article 39 by inserting in sub-paragraph (1)(a) “, AFPS 2015” after “AFPS 2005”.
+
+### 9. Amendment to schedule 3, part 1, table 8 (fractures and dislocations) to the principal Order
+
+Schedule 3, part 1, table 8 (fractures and dislocations) to the principal Order is amended by substituting for the existing descriptor at item 35—
+
+> Fracture or dislocation of metatarsal bones on one foot which has caused, or is expected to cause, significant functional limitation or restriction beyond 26 weeks.
+
+### 10. Amendment to schedule 3, part 1, table 9 (musculoskeletal disorders) to the principal Order
+
+Schedule 3, part 1, table 9 (musculoskeletal disorders) to the principal Order is amended by—
+
+- (a) inserting after item 5—
+
+  > 5A 11 Full thickness muscle or tendon unit rupture causing permanent significant functional limitation or restriction.
+- (b) substituting for the existing item 13—
+
+  > 13 12 Ligament injury, short of full thickness rupture, to one knee, ankle, foot, shoulder, elbow or wrist causing permanent significant functional limitation or restriction.
+- (c) substituting for the existing item 14—
+
+  > 14 12 Ligament injury, which has resulted in full thickness rupture, affecting one knee, ankle, foot, shoulder, elbow or wrist which has caused, or is expected to cause, significant functional limitation or restriction at 26 weeks from which the claimant has made, or is expected to make, a substantial recovery beyond that date.
+
+Anna Soubry
+
+Minister of State
+
+Ministry of Defence
+
+25th February 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011(“the principal Order”) which provides for benefits to be payable to or in respect of a person by reason of injury, illness or death, which is caused (wholly or partly) by service in the regular or reserve armed forces.
+
+Part 2 amends the principal Order to take into account the introduction of a new pension scheme for the armed forces established by the Armed Forces Pension Regulations 2014. This Part also amends the exclusions for payment of benefit, where injury or death is caused by one of a number of factors, by introducing the need for the death or injury to be predominantly caused by one of those factors rather than partly so caused. Additionally this Part increases the amount of the armed forces independence payment.
+
+Part 3 amends the schedules to the principal Order to take account of the new pension scheme for the armed forces. This Part also introduces a new category of injury into schedule 3, table 9 and amends the descriptions of other injuries.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c.32](https://www.legislation.gov.uk/ukpga/2004/32).
+
+[^f00002]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517) as amended by [S.I. 2011/2552](https://www.legislation.gov.uk/uksi/2011/2552), [S.I. 2012/1573](https://www.legislation.gov.uk/uksi/2012/1573), [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436), [S.I. 2014/412](https://www.legislation.gov.uk/uksi/2014/412).

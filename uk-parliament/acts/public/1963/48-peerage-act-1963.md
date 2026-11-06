@@ -1,0 +1,154 @@
+---
+title: Peerage Act 1963
+id: ukpga/1963/48
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1963-07-31'
+text_date: '2026-04-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1963/48
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1963/48/pdfs/ukpga_19630048_en.pdf
+- http://www.legislation.gov.uk/ukpga/1963/48/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Peerage Act 1963
+
+> Text as at 2026-04-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Peerage Act 1963
+
+1963 c.48
+
+An Act to authorise the disclaimer for life of certain hereditary peerages; to include among the peers qualified to sit in the House of Lords all peers in the peerage of Scotland and peeresses in their own right in the peerages of England, Scotland, Great Britain and the United Kingdom; to remove certain disqualifications of peers in the peerage of Ireland in relation to the House of Commons and elections thereto; and for purposes connected with the matters aforesaid.
+
+\[31st July 1963\]
+
+## Disclaimer of Peerage
+
+### 1. Disclaimer of certain hereditary peerages.
+
+(1) Subject to the provisions of this section, any person who, after the commencement of this Act, succeeds to a peerage in the peerage of England, Scotland, Great Britain or the United Kingdom may, by an instrument of disclaimer delivered to the Lord Chancellor within the period prescribed by this Act, disclaim that peerage for his life.
+
+(2) Any instrument of disclaimer to be delivered under this section in respect of a peerage shall be delivered within the period of twelve months beginning with the day on which the person disclaiming succeeds to that peerage or, if he is under the age of twenty-one when he so succeeds, the period of twelve months beginning with the day on which he attains that age [^key-0f899cb4665ab537a697bafdcf6e0d77]....
+
+(3) The foregoing provisions of this section shall apply to a person who has succeeded to a peerage before the commencement of this Act as they apply to a person who succeeds to a peerage after the commencement of this Act, but subject to the following modifications:—
+
+- (a) the period within which an instrument of disclaimer may be delivered by such a person shall be twelve months beginning with the commencement of this Act or, if he is then under twenty-one years of age, twelve months beginning with the day on which he attains that age; [^c654628]. . .
+- (b)[^c654628] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In reckoning any period prescribed by this section for the delivery of an instrument of disclaimer by any person no account shall be taken of any time during which that person is shown to the satisfaction of the Lord Chancellor to have been subject to any infirmity of body or mind rendering him incapable of exercising or determining whether to exercise his rights under this section.
+
+(5) The provisions of Schedule 1 to this Act shall have effect with respect to the form of instruments of disclaimer under this section, and the delivery, certification and registration of such instruments.
+
+### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654630]
+
+### 3. Effects of disclaimer.
+
+(1) The disclaimer of a peerage by any person under this Act shall be irrevocable and shall operate, from the date on which the instrument of disclaimer is delivered,—
+
+- (a) to divest that person (and, if he is married, his wife) of all right or interest to or in the peerage, and all titles, rights, offices, privileges and precedence attaching thereto; and
+- (b) to relieve him of all obligations and disabilities [^c654631]. . . arising therefrom,
+
+but shall not accelerate the succession to that peerage nor affect its devolution on his death.
+
+(2) Where a peerage is disclaimed under this Act, no other hereditary peerage shall be conferred upon the person by whom it is disclaimed [^c654632]. . .
+
+(3) The disclaimer of a peerage under this Act shall not affect any right, interest or power (whether arising before or after the disclaimer) of the person by whom the peerage is disclaimed, or of any other person, to, in or over any estates or other property limited or settled to devolve with that peerage.
+
+(4) The reference in the foregoing subsection to estates or other property limited or settled to devolve with a peerage shall, for the purposes of the application of this Act to Scotland, be construed as including a reference to estates or other land devolving as aforesaid under an entail or special destination, or the beneficial interest in which so devolves under a trust.
+
+## ...[^key-4889ba6d6366e2d48acada4f02e91859]
+
+### 4. Scottish peerages.[^key-4889ba6d6366e2d48acada4f02e91859]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654633]
+
+### 6. Peeresses in own right.[^key-d8e0924af768bfbdb95baa300523654d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Supplemental
+
+### 7. Short title, and repeals.
+
+(1) This Act may be cited as the Peerage Act 1963.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c654634]
+
+SCHEDULES
+
+## SCHEDULE 1 — Form, Delivery, Certification and Registration of Instruments of Disclaimer
+
+Section 1.
+
+**1.** An instrument of disclaimer under this Act shall be an instrument under seal in the following form or any form to the like effect:
+
+Peerage Act 1963
+
+Whereas I,, succeeded to the peerage\[s\] described in the Annex hereto on the date\[s\] specified in that Annex, and desire to disclaim the said peerage\[s\] for my life under the above mentioned Act;
+
+And whereas I attained the age of 21 years \[before the said date\[s\]\] \[on theday of\];
+
+Now therefore, I, the said,
+
+in accordance with the provisions of the said Act, hereby disclaim the said peerage\[s\] for my life.
+
+In witness whereof I have hereunto set my hand and seal thisday of
+
+<table>
+<tbody>
+<tr><td colspan="2">Signed and sealed by the said in the presence of:</td></tr>
+<tr><td>Signature of witness</td><td>(L.S.) Signature</td></tr>
+<tr><td colspan="2">Address</td></tr>
+<tr><td colspan="2">Description</td></tr>
+</tbody>
+</table>
+
+Annex
+
+| *Description of peerage*\[*s*\] | *Date*\[*s*\]*of succession* |
+| --- | --- |
+
+**2.** Any instrument of disclaimer under this Act shall be delivered to the office of the Clerk of the Crown in Chancery.
+
+**3.** Where the Lord Chancellor is satisfied that an instrument of disclaimer in respect of a peerage has been delivered within the time allowed by this Act, he shall furnish to the person disclaiming the peerage a certificate to that effect, and shall cause particulars of the instrument and of his certificate to be entered in a register kept by him for the purpose, which shall be open to inspection by the public at all reasonable times.
+
+**4.** A certificate of the Lord Chancellor that an instrument of disclaimer was delivered within the time allowed by this Act shall be conclusive evidence of that fact, but shall not be evidence of any other matter relevant to the validity of the instrument, including the right of the person by whom it was delivered to any peerage to which it relates.
+
+## SCHEDULE 2[^c654635][^c654635]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c654635]
+
+## Annotations
+
+[^key-0f899cb4665ab537a697bafdcf6e0d77]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1963/48/section/1/2) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/1/a), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+
+[^c654628]: Textual amendment: [S. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1963/48/section/1/3/b) and word repealed (11.11.1999) by [1999 c. 34](https://www.legislation.gov.uk/ukpga/1999/34), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/1999/34/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/34/schedule/2)
+
+[^c654630]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1963/48/section/2) repealed (11.11.1999) by [1999 c. 34](https://www.legislation.gov.uk/ukpga/1999/34), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/1999/34/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/34/schedule/2)
+
+[^c654631]: Textual amendment: Words in [s. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1963/48/section/3/1/b) repealed (11.11.1999) by [1999 c. 34](https://www.legislation.gov.uk/ukpga/1999/34), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/1999/34/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/34/schedule/2)
+
+[^c654632]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1963/48/section/3/2) repealed (11.11.1999) by [1999 c. 34](https://www.legislation.gov.uk/ukpga/1999/34), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/1999/34/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/34/schedule/2)
+
+[^key-4889ba6d6366e2d48acada4f02e91859]: Textual amendment: S. 4 and cross-heading omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/1/b), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+
+[^c654633]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1963/48/section/5) repealed (11.11.1999) by [1999 c. 34](https://www.legislation.gov.uk/ukpga/1999/34), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/1999/34/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/34/schedule/2)
+
+[^key-d8e0924af768bfbdb95baa300523654d]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1963/48/section/6) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(1)(c)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/1/c), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+
+[^c654634]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1963/48/section/7/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1963/48/schedule/2) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
+
+[^c654635]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1963/48/section/7/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1963/48/schedule/2) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)

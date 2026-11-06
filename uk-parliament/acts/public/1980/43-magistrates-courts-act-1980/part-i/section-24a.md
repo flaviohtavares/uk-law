@@ -1,0 +1,67 @@
+---
+title: Magistrates’ Courts Act 1980, section 24A
+act: Magistrates’ Courts Act 1980
+section: 24A
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1980/43/section/24A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Magistrates’ Courts Act 1980, section 24A
+
+> **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24A. Child or young person to indicate intention as to plea in certain cases[^key-b9a5ba7bb6f4475048c6c5c0223e7313]
+
+*Extent: E+W*
+
+(1) This section applies where—
+
+- (a) a person under the age of 18 years appears or is brought before a magistrates' court on an information charging him with an offence other than one falling within section 51A(12) of the Crime and Disorder Act 1998 (“**the 1998 Act**”); and
+- (b) but for the application of the following provisions of this section, the court would be required at that stage, by virtue of section 51(7) or (8) or 51A(3)(b), (4) or (5) of the 1998 Act to determine, in relation to the offence, whether to send the person to the Crown Court for trial (or to determine any matter, the effect of which would be to determine whether he is sent to the Crown Court for trial).
+
+(2) Where this section applies, the court shall, before proceeding to make any such determination as is referred to in subsection (1)(b) above (the “relevant determination”), follow the procedure set out in this section.
+
+(3) Everything that the court is required to do under the following provisions of this section must be done with the accused person in court.
+
+(4) The court shall cause the charge to be written down, if this has not already been done, and to be read to the accused.
+
+(5) The court shall then explain to the accused in ordinary language that he may indicate whether (if the offence were to proceed to trial) he would plead guilty or not guilty, and that if he indicates that he would plead guilty—
+
+- (a) the court must proceed as mentioned in subsection (7) below; and
+- (b) (in cases where the offence is one mentioned in section 249(1)(a) or (b) of the Sentencing Code[^key-dc0132d0bf9776d784db5a0b14a837c8]) he may be sent to the Crown Court for sentencing under section 16[^key-89a66061b0afa90d4c2d9dd04ac6cf60] , 16A[^key-ba2d362d2b2248ac430e09161699c5bb] or 17 of that Act if the court is of such opinion as is mentioned in section 16(1)(c) , 16A(1)(c)[^key-df407293293f5c9ebcaaba1b167f7e56] or (if applicable) section 17(1)(b).
+
+(6) The court shall then ask the accused whether (if the offence were to proceed to trial) he would plead guilty or not guilty.
+
+(7) If the accused indicates that he would plead guilty, the court shall proceed as if—
+
+- (a) the proceedings constituted from the beginning the summary trial of the information; and
+- (b) section 9(1) above was complied with and he pleaded guilty under it,
+
+and, accordingly, the court shall not (and shall not be required to) proceed to make the relevant determination or to proceed further under section 51 or (as the case may be) section 51A of the 1998 Act in relation to the offence.
+
+(8) If the accused indicates that he would plead not guilty, the court shall proceed to make the relevant determination and this section shall cease to apply.
+
+(9) If the accused in fact fails to indicate how he would plead, for the purposes of this section he shall be taken to indicate that he would plead not guilty.
+
+(10) Subject to subsection (7) above, the following shall not for any purpose be taken to constitute the taking of a plea—
+
+- (a) asking the accused under this section whether (if the offence were to proceed to trial) he would plead guilty or not guilty;
+- (b) an indication by the accused under this section of how he would plead.
+
+## Annotations
+
+[^key-b9a5ba7bb6f4475048c6c5c0223e7313]: Textual amendment: Ss. 24A-24D inserted (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/10); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/c)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(c)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 2(1)(c)(2)(3) (with arts. 3, 4)
+
+[^key-dc0132d0bf9776d784db5a0b14a837c8]: Textual amendment: Words in s. 24A(5)(b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 49(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/49/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-89a66061b0afa90d4c2d9dd04ac6cf60]: Textual amendment: Words in s. 24A(5)(b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 49(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/49/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-ba2d362d2b2248ac430e09161699c5bb]: Textual amendment: Word in s. 24A(5)(b) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/14/2/a)
+
+[^key-df407293293f5c9ebcaaba1b167f7e56]: Textual amendment: Word in s. 24A(5)(b) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/14/2/b)

@@ -1,0 +1,153 @@
+---
+title: The Financial Services and Markets Act 2000 (Prescribed Financial Institutions) Order 2013
+id: uksi/2013/165
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-01-29'
+text_date: '2024-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/165
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/165/pdfs/uksiem_20130165_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/165/pdfs/uksi_20130165_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/165/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Prescribed Financial Institutions) Order 2013
+
+> Text as at 2024-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 165
+
+Financial Services And Markets
+
+The Financial Services and Markets Act 2000 (Prescribed Financial Institutions) Order 2013
+
+Made
+
+29th January 2013
+
+Laid before Parliament
+
+30th January 2013
+
+Coming into force
+
+1st April 2013
+
+The Treasury, in exercise of the powers conferred by sections 192B(4) and 428(3) of, and paragraph 17 of Schedule 17A to, the Financial Services and Markets Act 2000 [^c21545511], make the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Prescribed Financial Institutions) Order 2013 and comes into force on 1st April 2013.
+
+(2) In this Order—
+
+- “**the Act**” means the Financial Services and Markets Act 2000;
+- [^key-2b4e4b79316dcfec6192b0f5358dbc36]...
+- “[^key-74c305b8d9f2ed5444722fa5c29ed14c]**financial holding company**” has the meaning given by Article 4(1)(20) of the capital requirements regulation;
+- “[^key-b5207cbad09d77e25004eb6a92ab5fbf]**financial institution**” has the meaning given by Article 4(1)(26) of the capital requirements regulation;
+- “[^key-4a2536b18a013f317619e627e8f0a1a7]**insurance holding company**” has the same meaning as in the rules made by the PRA under the Act as they have effect from time to time[^key-560430797616bd6218076e105f32cc93];
+- [^key-e8be52de272746e34f7b767d5a17a82c]...
+- “[^key-68e8f4ec15ac0606a996a78727fa5af9]**investment firm**” has the meaning given by Article 4(1)(2) of the capital requirements regulation;
+- “**mixed activity holding company**” means a parent undertaking which—
+  - (a) is not a credit institution, an investment firm, a financial holding company or a mixed financial holding company; and
+  - (b) has at least one subsidiary which is a credit institution or an investment firm;
+- “[^key-8dea5b0cf0672cef505596a7df94486e]**mixed financial holding company**” has the meaning given in regulation 1(2) of the Financial Conglomerates and Other Financial Groups Regulations 2004;
+- [^key-f68bb67cd8a8c69a389377b2e3202cb7]...
+- “[^key-a245fe03f71dd45298273253fbfbbe6f]**relevant MAHC**” means a mixed activity holding company which has at least one subsidiary which—
+  - (a) is an institution; and
+  - (b) is not a subsidiary of a financial holding company which is also a subsidiary of the mixed activity holding company;
+- [^key-f9de97d44b05081fe2669832dbd3d077]...
+- [^key-99532be4afc6c312197dc423361af866]...
+
+## 2. Prescribed financial institutions
+
+(1) All financial institutions are prescribed for the purposes of section 192B(4) of the Act, in so far as it applies—
+
+- (a) to parent undertakings of a recognised UK investment exchange (within the meaning of section 192B(5) of the Act), and
+- (b) for the purposes of Part 12A of the Act as that Part is applied in relation to the Bank of England by paragraph 17 of Schedule 17A to the Act (further provision in relation to exercise of Part 18 functions by Bank of England).
+
+(2) Financial institutions of the following kinds are prescribed for the purposes of section 192B(4) of the Act in so far as it applies to parent undertakings of a qualifying authorised person—
+
+- (a) an insurance holding company;
+- (b) a financial holding company;
+- (c) a mixed financial holding company.
+- (d)[^key-a01a427192352cbc42e7e7d8c4d6ff26] a mixed activity holding company for the purposes set out in paragraph (3) and (4);
+- (e) a relevant MAHC for the purpose set out in paragraph (5).
+
+(3)[^key-00307fd057dad84ccc9b47ae071c3222] The first purpose is enabling the FCA or PRA to make rules under section 192JB of FSMA in relation to the provision of financial support to other members of the group of a mixed activity holding company which encounter or are likely to encounter financial difficulties.
+
+(4) The second purpose is enabling the FCA or PRA to make rules which require a mixed activity holding company to notify it that the company is failing or likely to fail [^key-7710569c9a395e9e0f67101e686fd15a]....
+
+(4A)[^key-173804cac1936b2ede6aabd7df9ebcfa] For the purposes of paragraph (4) a company is failing or likely to fail where, if the company were a bank (within the meaning given in section 2 of the Banking Act 2009), it would be failing or likely to fail by virtue of meeting any of the circumstances in section 7(5C)(b) to (e) of that Act.
+
+(5) The third purpose is enabling the FCA or PRA to make rules which require a relevant MAHC, in any agreement which creates a liability, to include a contractual term by which a party to the agreement to whom the liability is owed—
+
+- (a) recognises that the liability may be subject to the exercise by the Bank of England of power to make—
+  - (i) a mandatory reduction instrument (within the meaning given in section 6B of the Banking Act 2009); or
+  - (ii) a resolution instrument under section 12A, 48U, 48V or 48W of that Act; and
+- (b) agrees to be bound by any reduction of the principal or outstanding amount due or by any conversion or cancellation effected by the exercise of that power.
+
+(6) Rules made for the purpose set out in paragraph (5) may not be brought into force before 1st January 2016.
+
+Mark Lancaster
+
+Desmond Swayne
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Order)*
+
+This Order prescribes kinds of financial institution for the purposes of Part 12A of the Financial Services and Markets Act 2000 (c.8) (powers exercisable in relation to parent undertakings) (“Part 12A”). The powers conferred by that Part may only be exercised in relation to parent undertakings of certain authorised persons, recognised investment exchanges or recognised clearing houses if the parent undertaking is a financial institution of a prescribed kind.
+
+In relation to the parent undertakings of authorised persons, the Order prescribes those financial institutions which are within the scope of consolidated (or supplementary) supervision by virtue of EU law and which are primarily financial in nature: insurance holding companies; financial holding companies; and mixed financial holding companies. These terms, and related definitions, are defined in article 1. The definition of “financial institution” in article 1 applies only for the purposes of the definition of “financial holding company”; it does not apply for the purposes of Part 12A.
+
+This Order also prescribes all financial institutions for the purposes of Part 12A in so far as that Part applies to the parent undertakings of recognised investment exchanges or to the Bank of England in the exercise of its functions in relation to recognised clearing houses.
+
+A full impact assessment of the effect that this Order will have on the costs of business and the voluntary sector is available from, Her Majesty's Treasury, 1 Horse Guards Road, London SW1A 2HQ or on www.hm-treasury.gov.uk and is published alongside the Order on www.legislation.gov.uk.
+
+## Annotations
+
+[^c21545511]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 192B was inserted by section 27 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21). Schedule 17A was inserted by Schedule 7 to that Act.
+
+[^key-2b4e4b79316dcfec6192b0f5358dbc36]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [186(2)(c)(i)](https://www.legislation.gov.uk/uksi/2019/632/regulation/186/2/c/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)) and [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/710/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-74c305b8d9f2ed5444722fa5c29ed14c]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) substituted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/11/2/a)
+
+[^key-b5207cbad09d77e25004eb6a92ab5fbf]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) substituted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/11/2/b)
+
+[^key-4a2536b18a013f317619e627e8f0a1a7]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [186(2)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/186/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-560430797616bd6218076e105f32cc93]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) substituted (31.12.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) (Amendment and Miscellaneous Provisions) Regulations 2024 (S.I. 2024/1083)](https://www.legislation.gov.uk/uksi/2024/1083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/1083/regulation/1/2/b), [16](https://www.legislation.gov.uk/uksi/2024/1083/regulation/16)
+
+[^key-e8be52de272746e34f7b767d5a17a82c]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [186(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/632/regulation/186/2/c/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-68e8f4ec15ac0606a996a78727fa5af9]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 11(2)(c)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/11/2/c)
+
+[^key-8dea5b0cf0672cef505596a7df94486e]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [186(2)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/186/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f68bb67cd8a8c69a389377b2e3202cb7]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [186(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/632/regulation/186/2/c/iii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a245fe03f71dd45298273253fbfbbe6f]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 11(2)(d)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/11/2/d)
+
+[^key-f9de97d44b05081fe2669832dbd3d077]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [186(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2019/632/regulation/186/2/c/iv) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-99532be4afc6c312197dc423361af866]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/165/article/1/2) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [186(2)(c)(v)](https://www.legislation.gov.uk/uksi/2019/632/regulation/186/2/c/v) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a01a427192352cbc42e7e7d8c4d6ff26]: Textual amendment: [Art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2013/165/article/2/2/d)[(e)](https://www.legislation.gov.uk/uksi/2013/165/article/2/2/e) inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/11/3/a)
+
+[^key-00307fd057dad84ccc9b47ae071c3222]: Textual amendment: [Art. 2(3)-(6)](https://www.legislation.gov.uk/uksi/2013/165/article/2/3) inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 11(3)(b)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/11/3/b)
+
+[^key-7710569c9a395e9e0f67101e686fd15a]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2013/165/article/2/4) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [186(3)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/186/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-173804cac1936b2ede6aabd7df9ebcfa]: Textual amendment: [Art. 2(4A)](https://www.legislation.gov.uk/uksi/2013/165/article/2/4A) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [186(3)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/186/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

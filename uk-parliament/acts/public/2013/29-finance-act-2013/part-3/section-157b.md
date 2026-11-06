@@ -1,0 +1,64 @@
+---
+title: Finance Act 2013, section 157B
+act: Finance Act 2013
+section: 157B
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/157B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 157B
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 157B. Land in Wales sold to financial institution and leased to person[^M_F_2c951446-475b-4ef6-cd89-0caab8d7064a]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where—
+
+- (a) paragraph 2 of Schedule 10 to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1) (land in Wales sold to financial institution and leased to person) applies in relation to arrangements entered into between a financial institution and another person (“**the lessee**”), and
+- (b) the land in which the institution purchases a major interest under the first transaction is in Wales and consists of or includes one or more dwellings (or parts of a dwelling).
+
+(2) This Part has effect in relation to times when the arrangements are in operation as if—
+
+- (a) the interest held by the financial institution as mentioned in subsection (3)(b) were held by the lessee (and not by the financial institution), and
+- (b) the lease or sub-lease granted under the second transaction had not been granted.
+
+(3) The reference in subsection (2) to times when the arrangements are in operation is to times when—
+
+- (a) the lessee holds the leasehold interest granted to it under the second transaction, and
+- (b) the interest purchased under the first transaction (or that interest except so far as transferred by a further transaction) is held by a financial institution.
+
+(4) A company or individual treated under subsection (2)(a) as holding an interest at a particular time is treated as holding it as a member of a partnership if at the time in question the company or individual holds the leasehold interest as a member of the partnership (and this Part has effect accordingly in relation to the other members of the partnership).
+
+(5) In relation to times when the arrangements operate for the benefit of a collective investment scheme, this Part has effect as if—
+
+- (a) the interest held by the financial institution as mentioned in subsection (6)(b) were held by the lessee for the purposes of a collective investment scheme (and were not held by the financial institution), and
+- (b) the lease or sub-lease granted under the second transaction had not been granted.
+
+(6) The reference in subsection (5) to times when the arrangements operate for the benefit of a collective investment scheme is to times when—
+
+- (a) the lessee holds the leasehold interest for the purposes of a collective investment scheme, and
+- (b) the interest purchased under the first transaction (or that interest except so far as transferred by a further transaction) is held by a financial institution.
+
+(7) In this section—
+
+- “**financial institution**” has the meaning given by paragraph 8 of Schedule 10 to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017;
+- “**the first transaction**” has the same meaning as in paragraph 2 of Schedule 10 to that Act;
+- “**further transaction**” has the same meaning as in paragraph 2 of Schedule 10 to that Act;
+- “**the leasehold interest**” means the interest granted to the lessee under the second transaction;
+- “**the second transaction**” has the same meaning as in paragraph 2 of Schedule 10 to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017.
+
+(8) The reference in subsection (1) to a major interest in land is to be read in accordance with section 68 of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017.
+
+(9) Where the lessee is an individual, references in subsections (2), (3), (5) and (6) to the lessee are to be read, in relation to times after the death of the lessee, as references to the lessee’s personal representatives.
+
+## Annotations
+
+[^M_F_2c951446-475b-4ef6-cd89-0caab8d7064a]: Textual amendment: S. 157B inserted (30.10.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 55(2)(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/55/2)

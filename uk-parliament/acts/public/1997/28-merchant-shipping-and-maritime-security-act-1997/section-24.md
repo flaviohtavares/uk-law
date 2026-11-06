@@ -1,0 +1,75 @@
+---
+title: Merchant Shipping and Maritime Security Act 1997, section 24
+act: Merchant Shipping and Maritime Security Act 1997
+section: '24'
+status: revised
+text_date: '2015-03-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1997/28/section/24
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping and Maritime Security Act 1997, section 24
+
+> Text as at 2015-03-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24. Implementation of international agreements relating to protection of wrecks.
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may by order made by statutory instrument make such provision as he considers appropriate for the purpose of giving effect to any international agreement—
+
+- (a) to which the United Kingdom is, or at the time when the order takes effect will be, a party, and
+- (b) which relates to the protection of wrecks outside United Kingdom waters.
+
+(2) Without prejudice to the generality of subsection (1), an order under this section may include—
+
+- (a) provision designating a wreck, or an area in which a wreck is situated, for the purposes of the order,
+- (b) provision prohibiting or restricting access to that wreck or area or interference with that wreck,
+- (c) provision for the granting of licences by the Secretary of State,
+- (d) provision authorising a person authorised by the Secretary of State in accordance with the order to board and search—
+  - (i) any ship which is in United Kingdom waters, and
+  - (ii) any United Kingdom ship which is in international waters,
+- (e) provision authorising such a person to seize anything found in the course of a search authorised under the order,
+- (f) provision that, subject to subsection (3), a contravention of a requirement imposed by the order shall be an offence punishable on summary conviction by a fine not exceeding the statutory maximum or on conviction on indictment by a fine, and
+- (g) such incidental, supplementary and transitional provision as appears to the Secretary of State to be appropriate for the purposes of the order.
+
+(3) No person shall be guilty of an offence under an order under subsection (1) unless—
+
+- (a) the acts or omissions which constitute the offence are committed in the United Kingdom, in United Kingdom waters or on board a United Kingdom ship, or
+- (b) in a case where those acts or omissions are committed in international waters but not on board a United Kingdom ship, that person is—
+  - (i) a British citizen, a British Dependent Territories citizen or a British Overseas citizen,
+  - (ii) a person who under the [^c8633751]British Nationality Act 1981 is a British subject,
+  - (iii) a British National (Overseas) (within the meaning of that Act),
+  - (iv) a British protected person (within the meaning of that Act), or
+  - (v)[^key-1d95a8912aae8fb804967400174cc4c5] a company registered under the Companies Act 2006.
+
+(4) In subsection (3), “ **United Kingdom ship**” means a ship which—
+
+- (a) is registered in the United Kingdom; or
+- (b) is not registered under the law of any country but is wholly owned by persons each of whom is a person mentioned in paragraph (b)(i) to (v) of that subsection.
+
+(5) Subject to subsection (3), any offence under an order under subsection (1) shall, for the purpose only of conferring jurisdiction on any court, be deemed to have been committed in any place where the offender may for the time being be.
+
+(6) No proceedings for an offence under any order under subsection (1) shall be instituted—
+
+- (a) in England and Wales, except by or with the consent of the Director of Public Prosecutions;
+- (b) in Northern Ireland, except by or with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+(7) A statutory instrument containing an order under subsection (1) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) In this section—
+
+- “**international waters**” means any part of the sea outside the seaward limits of the territorial sea of any country or territory;
+- “**ship**” includes any description of vessel used in navigation;
+- “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom;
+- “**wreck**” means the wreck of any ship other than a ship which, at the time it sank or was stranded, was in service with, or used for the purposes of, any of the armed forces of the United Kingdom or any other country or territory.
+
+## Annotations
+
+[^c8633751]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^key-1d95a8912aae8fb804967400174cc4c5]: Textual amendment: [S. 24(3)(b)(v)](https://www.legislation.gov.uk/ukpga/1997/28/section/24/3/b/v) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 168](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/168) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

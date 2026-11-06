@@ -1,0 +1,300 @@
+---
+title: The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025
+id: uksi/2025/1261
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-12-01'
+text_date: '2026-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2025/1261
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/1261/pdfs/uksiem_20251261_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/1261/pdfs/uksi_20251261_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/1261/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025
+
+> Text as at 2026-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2025 No. 1261
+
+CHILDCARE, ENGLAND
+
+LOCAL AUTHORITIES, ENGLAND
+
+The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025
+
+Made
+
+1st December 2025
+
+Laid before Parliament
+
+3rd December 2025
+
+Coming into force
+
+1st January 2026
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 7(1)(b), 7A, 9A, 13(1), 39(1)(b), 43(1), 44(1) and 104(2) of the Childcare Act 2006[^f00001] and sections 2(1) and (2) and 4(2) of the Childcare Act 2016[^f00002].
+
+In accordance with section 43(2) of the Childcare Act 2006, the Secretary of State has consulted His Majesty's Chief Inspector of Education, Children's Services and Skills in respect of the provision in regulation 2.
+
+## 1. Citation, commencement and extent[^key-2bc84e6a8197e935cb44964d4961c9f4]
+
+These Regulations—
+
+- (a) may be cited as the Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025,
+- (b) come into force on 1st January 2026, and
+- (c) extend to England and Wales.
+
+## 2. Amendment of the Early Years Foundation Stage (Welfare Requirements) Regulations 2012[^key-5a4b059fa2ab80807f3dac8a7b489442]
+
+(1) The Early Years Foundation Stage (Welfare Requirements) Regulations 2012[^f00003] are amended in accordance with paragraph (2).
+
+(2) In regulation 3 (specification of the welfare requirements), in paragraph (4), for “14th July 2025” substitute “3rd December 2025”[^f00004].
+
+## 3. Amendment of the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014[^key-41d2b1a52b49c6e96f23415f4225847e]
+
+(1) The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014[^f00005] are amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 1 (citation, commencement and interpretation), in paragraph (2)—
+
+- (a) omit the definitions of “early years childminder agency inspection report” and “early years provision inspection report”,
+- (b) in the definition of “eligible child”—
+  - (i) in paragraph (a), omit sub-paragraphs (i) and (viii),
+  - (ii) omit paragraphs (b) and (c),
+- (c) before the definition of “term” insert—
+
+  > - “**inspection report**” means—
+  >   - (a) in relation to an early years childminder agency, a report under section 51E of the 2006 Act[^f00006],
+  >   - (b) in relation to an early years provider, a report under—
+  >     - (i) section 5 of the Education Act 2005[^f00007],
+  >     - (ii) section 50 of the 2006 Act[^f00008], or
+  >     - (iii) section 109 of the Education and Skills Act 2008[^f00009];
+
+  .
+
+(3) For regulation 6 (scope of the requirement in regulation 5(1)), substitute—
+
+> **6. Scope of the requirement in regulation 5(1)**
+>
+> (1) The requirement in regulation 5(1) does not apply if the early years provider is any of the following—
+>
+> - (a) a provider (other than an early years childminder registered with an early years childminder agency) that is awarded a specified grade in its most recent inspection report,
+> - (b) an early years childminder registered with an early years childminder agency where—
+>   - (i) the agency is awarded a grade of “ineffective” in its most recent inspection report, or
+>   - (ii) the agency notifies the local authority that, in its reasonable opinion, the childminder has ceased to provide childcare of satisfactory quality,
+> - (c) a provider the local authority has grounds to believe would not be able to satisfy a requirement the authority would impose if arrangements were made.
+>
+> (2) In this regulation, “**specified grade**” means, in relation to an inspection specified in the first column of the table in the Schedule and conducted on a date in the corresponding entry in the second column—
+>
+> - (a) where the early years provision is for a child who meets the condition in regulation 3(2) but does not meet the condition in regulation 3(3), any of the grades specified in the corresponding entry in the third column of the table,
+> - (b) where the early years provision is for a child who meets the condition in regulation 3(3), any of the grades specified in the corresponding entry in the fourth column of the table.
+
+.
+
+(4) For regulation 7, substitute—
+
+> **7. Termination of the arrangements**
+>
+> Except in the case of arrangements with the governing body of a maintained school, arrangements made by the local authority for the purpose of complying with the requirement in regulation 5(1) must include provision allowing the local authority to terminate the arrangements if the early years provider with whom the arrangements are made becomes a provider mentioned in regulation 6(1)(a) or (b).
+
+.
+
+(5) In regulation 8 (requirements governing arrangements made for the purpose of discharging the duty of the local authority under section 7)—
+
+- (a) in paragraph (1)(c), for paragraph (viii) (but not the “or” after it) substitute—
+
+  > - (viii) where the early years provider is awarded a specified grade in its most recent inspection report, that the provider takes the measures identified in that report to improve the effectiveness of the provision, including, where applicable, participation in a training or other quality improvement programme;
+
+  ,
+- (b) in paragraph (2)(a), in paragraph (ii), omit “early years provision” the first time it appears,
+- (c) after paragraph (2), insert—
+
+  > (3) In this regulation, “**specified grade**” means, in relation to an inspection specified in the first column of the table in the Schedule and conducted on a date in the corresponding entry in the second column, any of the grades specified in the corresponding entry in the third column of the table (irrespective of whether the provision is for a child who meets the condition in regulation 3(2) or 3(3)).
+
+  .
+
+(6) At the end of the Regulations, insert—
+
+> **Schedule — Specified grades**
+>
+> Regulations 6(2) and 8(3)
+>
+> <table>
+> <thead>
+> <tr><th>Inspection of provision</th><th>Date of inspection</th><th>Specified grades (provision for a child who meets the condition in regulation 3(2) but does not meet the condition in regulation 3(3) and for the purposes of regulation 8(2))</th><th>Specified grades (provision for a child who meets the condition in regulation 3(3))</th></tr>
+> </thead>
+> <tbody>
+> <tr><td rowspan="3">under section 5 of the Education Act 2005 (inspection by the Chief Inspector)</td><td>before 2nd September 2024</td><td>“inadequate” or “requires improvement” for overall effectiveness</td><td>“inadequate” for overall effectiveness</td></tr>
+> <tr><td>on or after 2nd September 2024 but before 10th November 2025</td><td>decision of the Chief Inspector that significant improvement or special measures are required (within the meaning of section 13(1) Education Act 2005); “requires improvement” or “inadequate” for the effectiveness of the early years provision</td><td>decision of the Chief Inspector that significant improvement or special measures are required (within the meaning of section 13(1) Education Act 2005)</td></tr>
+> <tr><td>on or after 10th November 2025</td><td>“not met” for safeguarding; “urgent improvement” or “needs attention” for leadership and governance</td><td>“not met” for safeguarding or “urgent improvement” for leadership and governance</td></tr>
+> <tr><td rowspan="2">under section 49(2) of the 2006 Act (inspection by the Chief Inspector)</td><td>before 10th November 2025</td><td>“inadequate” or “requires improvement” for overall effectiveness</td><td>“inadequate” for overall effectiveness</td></tr>
+> <tr><td>on or after 10th November 2025</td><td>“not met” for safeguarding; “urgent improvement” or “needs attention” for leadership and governance</td><td>“not met” for safeguarding or “urgent improvement” for leadership and governance</td></tr>
+> <tr><td rowspan="2">under section 109(2) of the Education and Skills Act 2008 (inspection by the Chief Inspector)</td><td>before 5th January 2026</td><td>“inadequate” or “requires improvement” for overall effectiveness</td><td>“inadequate” for overall effectiveness</td></tr>
+> <tr><td>on or after 5th January 2026</td><td>“not met” for safeguarding; “urgent improvement” or “needs attention” for leadership and governance</td><td>“not met” for safeguarding or “urgent improvement” for leadership and governance</td></tr>
+> <tr><td>under section 109(3) of the Education and Skills Act 2008 (inspection by a body approved under section 106 of that Act) of early years provision that meets the conditions in section 34(2) of the 2006 Act</td><td>any date</td><td>“not met” for safeguarding or “not met” for leadership and governance</td><td>“not met” for safeguarding or “not met” for leadership and governance</td></tr>
+> <tr><td rowspan="2">by a body approved under section 106 of the Education and Skills Act 2008 or under section 49(4) of the 2006 Act of early years provision that is registered in the early years register .</td><td>before 5th January 2026</td><td>“inadequate” or “requires improvement” for overall effectiveness</td><td>“inadequate” for overall effectiveness</td></tr>
+> <tr><td>on or after 5th January 2026</td><td>“not met” for safeguarding; “urgent improvement” or “needs attention” for leadership and governance</td><td>“not met” for safeguarding or “urgent improvement” for leadership and governance</td></tr>
+> </tbody>
+> </table>
+>
+> [^f00010][^f00011][^f00012]
+
+.
+
+## 4. Amendment of the Childcare Providers (Information, Advice and Training) Regulations 2014[^key-eefc0600db114ed88d749aeb68da3209]
+
+(1) The Childcare Providers (Information, Advice and Training) Regulations 2014[^f00013] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 3 (subject matter of information, advice and training), in paragraph (2), omit sub-paragraph (d).
+
+(3) In regulation 4 (childcare providers and employees)—
+
+- (a) for paragraph (1)(a)(ii), substitute—
+
+  > - (ii) the provision was awarded a specified grade in the most recent early years provision inspection report published in respect of the provision;
+
+  ,
+- (b) In paragraph (3)—
+  - (i) after the definition of “later years provision” omit “and”,
+  - (ii) after the definition of “later years provision inspection report”, insert—
+
+    > - “**specified grade**” means—
+    >   - (a) in the case of an early years provider most recently inspected before 10th November 2025, a grade weaker than “good” for the overall effectiveness of the provision;
+    >   - (b) in the case of an early years provider most recently inspected on or after 10th November 2025, a grade—
+    >     - (i) of “not met” for safeguarding, or
+    >     - (ii) weaker than “expected standard” for leadership and governance.
+
+    .
+
+## 5. Amendment of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022[^key-b6a9dcde89dd219ed1f7d972d39b612f]
+
+(1) The Childcare (Free of Charge for Working Parents) (England) Regulations 2022[^f00014] are amended in accordance with paragraphs (2) to (7).
+
+(2) In regulation 3 (consequential amendments and revocations), for “The Schedule” substitute “Schedule 1”.
+
+(3) In regulation 4 (definitions), in paragraph (b) of the definition of “inspection report”, omit sub-paragraph (ai).
+
+(4)[^key-fc9c2ceee74eba052be78ffc8a0fe459] In regulation 44 (duty to secure childcare available free of charge), in paragraph (3), omit sub-paragraphs (a) and (b) and the em dash which precedes them.
+
+(5) In regulation 45 (duty to make arrangements with childcare provider chosen by parent)—
+
+- (a) in paragraph (3), for sub-paragraphs (b) and (c), substitute—
+
+  > - (b) a childminder registered with an early years childminder agency where—
+  >   - (i) the agency is awarded a grade of “ineffective” in its most recent inspection report, or
+  >   - (ii) the agency notifies the local authority that, in its reasonable opinion, the childminder has ceased to provide childcare of satisfactory quality;
+  > - (c) a childcare provider (other than a childminder registered with an early years childminder agency) that is awarded a specified grade in its most recent inspection report.
+
+  ,
+- (b) after paragraph (4), insert—
+
+  > (5) In this regulation, “**specified grade**” means, in relation to an inspection specified in the first column of the table in Schedule 2 and conducted on a date in the corresponding entry in the second column, any of the grades specified in the corresponding entry in the third column of the table.
+
+  .
+
+(6) The existing Schedule becomes Schedule 1 (and accordingly, for the heading “Schedule” substitute “Schedule 1”).
+
+(7) After Schedule 1, insert—
+
+> **Schedule 2 — Specified grades**
+>
+> Regulation 45(5)
+>
+> <table>
+> <thead>
+> <tr><th>Inspection of provision</th><th>Date of inspection</th><th>Specified grades</th></tr>
+> </thead>
+> <tbody>
+> <tr><td rowspan="3">under section 5 of the Education Act 2005 (inspection by the Chief Inspector)</td><td>before 2nd September 2024</td><td>“inadequate” for overall effectiveness</td></tr>
+> <tr><td>on or after 2nd September 2024 but before 10th November 2025</td><td>decision of the Chief Inspector that significant improvement or special measures are required (within the meaning of section 13(1) Education Act 2005)</td></tr>
+> <tr><td>on or after 10th November 2025</td><td>“not met” for safeguarding or “urgent improvement” for leadership and governance</td></tr>
+> <tr><td rowspan="2">under section 49(2) of the 2006 Act (inspection by the Chief Inspector)</td><td>before 10th November 2025</td><td>“inadequate” for overall effectiveness</td></tr>
+> <tr><td>on or after 10th November 2025</td><td>“not met” for safeguarding or “urgent improvement” for leadership and governance</td></tr>
+> <tr><td rowspan="2">under section 109(2) of the Education and Skills Act 2008 (inspection by the Chief Inspector)</td><td>before 1st January 2026</td><td>“inadequate” for overall effectiveness</td></tr>
+> <tr><td>on or after 1st January 2026</td><td>“not met” for safeguarding or “urgent improvement” for leadership and governance</td></tr>
+> <tr><td>under section 109(3) of the Education and Skills Act 2008 (inspection by a body approved under section 106 of that Act) of early years provision that meets the conditions in section 34(2) of the 2006 Act</td><td>any date</td><td>“not met” for safeguarding or “not met” for leadership and governance</td></tr>
+> <tr><td rowspan="2">by a body approved under section 106 of the Education and Skills Act 2008 or under section 49(4) of the 2006 Act of early years provision that is registered in the early years register</td><td>before 1st January 2026</td><td>“inadequate” for overall effectiveness</td></tr>
+> <tr><td>on or after 1st January 2026</td><td>“not met” for safeguarding or “urgent improvement” for leadership and governance</td></tr>
+> </tbody>
+> </table>
+
+.
+
+Olivia Bailey
+
+Parliamentary Under-Secretary of State (Minister for Early Education)
+
+Department for Education
+
+1st December 2025
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations amend four instruments relating to childcare and early years provision in England. The changes are made in consequence of changes to inspection grades made by the Office for Standards in Education, Children’s Services and Skills (‘Ofsted’), and to make provision for inspections of independent schools by an independent inspectorate approved under section 106 of the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25).
+
+Regulation 2 amends the Early Years Foundation Stage (Welfare Requirements) Regulations 2012 ([S.I. 2012/938](https://www.legislation.gov.uk/uksi/2012/938)) to give effect to a revised version, dated 3rd December 2025, of the Early Years Qualifications Requirements and Standards Document (the ‘Qualifications Document’), which sets out qualifications requirements applicable to early years providers other than early years childminders. The Qualifications Document provides for the ‘experience-based route’ for early years practitioners to work at level 3 in staff:child ratios where the provider has achieved specified grades at its most recent Ofsted inspection. These grades are updated in light of changes to Ofsted grades and to provide for independent schools inspected by an independent inspectorate. The Qualifications Document is available on the gov.uk website at this link:  https://www.gov.uk/government/publications/early-years-qualification-requirements-and-standards.
+
+Regulation 3 amends the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014 ([S.I. 2014/2147](https://www.legislation.gov.uk/uksi/2014/2147)) (the ‘2014 Regulations’), which require local authorities to make arrangements for free early years provision for eligible children in their area. Local authorities are not required to make or continue arrangements with early years providers that achieve specified inspection grades at their most recent inspection. The specified grades differ depending on whether the provision is made for eligible 2 year olds or 3-4 year olds (see regulation 3(2) and 3(3) of the 2014 Regulations), with additional higher grades specified for the provision for eligible 2 year olds. Paragraph (2) removes redundant definitions. Paragraph (3) updates references to Ofsted inspection grades and provides for independent schools, and paragraphs (4) to (5) make further consequential changes. Paragraph (6) inserts a new Schedule to the 2014 Regulations which sets out the specified grades. The third column of the table in the Schedule contains the grades applicable to provision for eligible 2 year-olds, and the fourth column contains the grades applicable to provision for 3-4 year olds. By regulation 8(1)(c)(viii) of the 2014 Regulations (amended by paragraph (5)), local authorities may impose training or quality improvement requirements on an early years provider with whom it makes arrangements where the provider achieves a specified grade at its most recent inspection. For these purposes, the specified grades are those in the third column of the table (irrespective of whether the provision is for an eligible 2 year-old or 3-4 year old).
+
+Regulation 4 amends the Childcare Providers (Information, Advice and Training) Regulations 2014 ([S.I. 2014/2319](https://www.legislation.gov.uk/uksi/2014/2319)) which require local authorities to secure the provision of information, advice and training on prescribed subjects to registered early years providers that achieve specified inspection grades at their most recent inspection. Paragraph (2) omits a redundant definition. Paragraph (3) updates the references to inspection grades for registered early years providers.
+
+Regulation 5 amends the Childcare (Free of Charge for Working Parents) (England) Regulations 2022 ([S.I. 2022/1134](https://www.legislation.gov.uk/uksi/2022/1134)), which require local authorities to make arrangements for free childcare for qualifying children of working parents in their area. As with the 2014 Regulations, local authorities are not required to make or continue arrangements with providers that achieve specified grades at their most recent inspection. Paragraph (3) removes a redundant definition. Paragraph (4) removes redundant transitional provision. Paragraphs (5) to (7) update the references to Ofsted grades and provide for independent schools inspected by an independent inspectorate.
+
+A full impact assessment has not been produced for this instrument as no, or no significant impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21). Section 7 was substituted by section 1(2) of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21). Sections 7A and 9A were inserted by section 87 of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6). Section 13(1) was amended by paragraph 31 of Schedule 1 to the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25) and by [S.I. 2012/976](https://www.legislation.gov.uk/uksi/2012/976). Section 44(1) was amended by paragraph 41 of Schedule 12 to the Apprenticeships, Skills and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22).
+
+[^f00002]: Footnote: [2016 c. 5](https://www.legislation.gov.uk/ukpga/2016/5).
+
+[^key-2bc84e6a8197e935cb44964d4961c9f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+
+[^key-5a4b059fa2ab80807f3dac8a7b489442]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1261/regulation/2) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+
+[^f00003]: Footnote: [S.I. 2012/938](https://www.legislation.gov.uk/uksi/2012/938). Relevant amendments were made by [S.I. 2023/1338](https://www.legislation.gov.uk/uksi/2023/1338) and [2025/841](https://www.legislation.gov.uk/uksi/2025/841).
+
+[^f00004]: Footnote: The Early Years Qualifications and Standards Document is published at https://www.gov.uk/government/publications/early-years-qualification-requirements-and-standards.
+
+[^key-41d2b1a52b49c6e96f23415f4225847e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+
+[^f00005]: Footnote: [S.I. 2014/2147](https://www.legislation.gov.uk/uksi/2014/2147). Relevant amendments were made by [S.I. 2016/887](https://www.legislation.gov.uk/uksi/2016/887), [2018/146](https://www.legislation.gov.uk/uksi/2018/146) and [2024/1228](https://www.legislation.gov.uk/uksi/2024/1228).
+
+[^f00006]: Footnote: Section 51E was inserted by paragraph 13 of Schedule 4 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
+
+[^f00007]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18). Section 5 was amended by paragraph 23 of Schedule 7 to the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), paragraph 17 of Schedule 2 to the Academies Act [2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32) and sections 40 and 41 and paragraph 15 of Schedule 13 to the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21). An amendment to section 5 made by paragraph 26 of Schedule 1 to the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25) is not yet in force.
+
+[^f00008]: Footnote: Section 50 was amended by paragraph 1 of Schedule 18 to the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^f00009]: Footnote: [2008 c. 25](https://www.legislation.gov.uk/ukpga/2008/25).
+
+[^f00010]: Footnote: Amended by paragraph 33 of Schedule 1 to the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [S.I. 2012/976](https://www.legislation.gov.uk/uksi/2012/976), and section 85 and paragraph 12 of Schedule 4 to the Children and Families Act 2014.
+
+[^f00011]: Footnote: Relevant amendments were made by paragraph 32 of Schedule 1 to the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), paragraph 5 of Schedule 4 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), and section 75 of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^f00012]: Footnote: See section 32(2) of the Childcare Act 2006, which requires the Chief Inspector to maintain the early years register.
+
+[^key-eefc0600db114ed88d749aeb68da3209]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+
+[^f00013]: Footnote: [S.I. 2014/2319](https://www.legislation.gov.uk/uksi/2014/2319).
+
+[^key-b6a9dcde89dd219ed1f7d972d39b612f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+
+[^f00014]: Footnote: [S.I. 2022/1134](https://www.legislation.gov.uk/uksi/2022/1134). Relevant amendments were made by [S.I. 2023/1330](https://www.legislation.gov.uk/uksi/2023/1330) and [2024/1228](https://www.legislation.gov.uk/uksi/2024/1228).
+
+[^key-fc9c2ceee74eba052be78ffc8a0fe459]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/4) substituted (31.12.2025) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2025 (S.I. 2025/1287)](https://www.legislation.gov.uk/uksi/2025/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/2/2)

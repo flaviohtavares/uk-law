@@ -1,0 +1,90 @@
+---
+title: The Building (Repeal of Provisions of Local Acts) Regulations 2003
+id: uksi/2003/3030
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-11-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/3030
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/3030/pdfs/uksi_20033030_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/3030/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building (Repeal of Provisions of Local Acts) Regulations 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 3030
+
+BUILDING AND BUILDINGS, ENGLAND AND WALES
+
+The Building (Repeal of Provisions of Local Acts) Regulations 2003
+
+Made
+
+24th November 2003
+
+Laid before Parliament
+
+2nd December 2003
+
+Coming into force
+
+1st March 2004
+
+The Secretary of State, in exercise of the powers conferred upon him by section 1(1) of, and paragraphs 10 and 11(1)(c) of Schedule 1 to, the Building Act 1984[^f00001], and of all other powers enabling him in that behalf, after consulting the Building Regulations Advisory Committee, such persons or bodies as appear to him to be representative of local authorities and such other bodies as appear to him to be representative of the interests concerned in accordance with section 14(4) of that Act[^f00002], and being satisfied that certain provisions of local Acts are unnecessary in consequence of building regulations, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Building (Repeal of Provisions of Local Acts) Regulations 2003 and shall come into force on 1st March 2004.
+
+## 2. Repeal of certain provisions of local Acts
+
+The following local Acts are repealed to the extent specified in the third column—
+
+| Local Act | Reference | Extent of repeal |
+| --- | --- | --- |
+| East Ham Corporation Act 1957 | [1957 c. xxxvii](https://www.legislation.gov.uk/ukla/1957/37) | Section 38(2) |
+| West Yorkshire Act 1980 | [1980 c. iv](https://www.legislation.gov.uk/ukla/1980/4) | Section 50 |
+| South Yorkshire Act 1980 | [1980 c. xxxvii](https://www.legislation.gov.uk/ukla/1980/37) | Section 39 |
+| Staffordshire Act 1983 | [1983 c. xviii](https://www.legislation.gov.uk/ukla/1983/18) | Section 18 |
+| County of Lancashire Act 1984 | [1984 c. xxi](https://www.legislation.gov.uk/ukla/1984/21) | Section 20 |
+| Leicestershire Act 1985 | [1985 c. xvii](https://www.legislation.gov.uk/ukla/1985/17) | Section 30 |
+
+## 3. Transitional provisions
+
+Where before 1st March 2004—
+
+- (a) plans to which a repealed provision applies have been deposited with a local authority; and
+- (b) no notice rejecting those plans has been given under section 16(6) of the Building Act 1984 before that date,
+
+then that provision and any right, privilege, obligation or liability arising from it shall cease to have effect in relation to that deposit of plans.
+
+Signed by authority of the First Secretary of State
+
+Phil Hope
+
+Parliamentary Under Secretary of State,
+
+Office of the Deputy Prime Minister
+
+24th November 2003
+
+(This note is not part of the Regulations)
+
+These Regulations repeal certain local Act provisions relating to the provision of separate drains for foul water and surface water, which are unnecessary as a result of Part H of Schedule 1 to the Building Regulations 2000 (S.I. [2000/2531](https://www.legislation.gov.uk/uksi/2000/2531); Part H was substituted by the Building (Amendment) Regulations 2001 (S.I. [2001/3335](https://www.legislation.gov.uk/uksi/2001/3335))). Regulation 3 contains transitional provisions.
+
+A regulatory impact assessment has been prepared in relation to the repeal of these local Act provisions. A copy may be obtained from Buildings Division, ODPM, Zone 18/B, Portland House, Stag Place, London SW1E 5LP (Tel: 020 7944 5755; Fax: 020 7944 5739; email: bregsa.br@odpm.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Paragraph 11(1)(c) of Schedule 1 was inserted by the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), section 32(1).
+
+[^f00002]: Footnote: Section 14(4) was inserted by the Deregulation and Contracting Act 1994, section 32(2).

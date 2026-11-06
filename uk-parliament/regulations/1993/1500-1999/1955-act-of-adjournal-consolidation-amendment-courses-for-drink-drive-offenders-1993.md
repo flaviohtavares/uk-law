@@ -1,0 +1,165 @@
+---
+title: Act of Adjournal (Consolidation Amendment) (Courses for Drink-drive Offenders) 1993
+id: uksi/1993/1955
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-07-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/1955
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/1955/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Adjournal (Consolidation Amendment) (Courses for Drink-drive Offenders) 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 1955 (S.222)
+
+HIGH COURT OF JUSTICIARY, SCOTLAND
+
+SUMMARY JURISDICTION, SCOTLAND
+
+Act of Adjournal (Consolidation Amendment) (Courses for Drink-drive Offenders) 1993
+
+Made
+
+29th July 1993
+
+Coming into force
+
+23rd August 1993
+
+The Lord Justice General, the Lord Justice Clerk, and the Lords Commissioners of Justiciary, under and by virtue of the powers conferred on them by sections 282 and 457 of the Criminal Procedure (Scotland) Act 1975[^f00001] and of all other powers enabling them in that behalf, do hereby enact and declare:
+
+## 1. Citation and commencement
+
+(1) This Act of Adjournal may be cited as the Act of Adjournal (Consolidation Amendment) (Courses for Drink-drive Offenders) 1993 and shall come into force on 23rd August 1993.
+
+(2) This Act of Adjournal shall be inserted in the Books of Adjournal.
+
+## 2. Amendment of Act of Adjournal (Consolidation) 1988
+
+(1) The Act of Adjournal (Consolidation) 1988[^f00002] shall be amended in accordance with the following sub-paragraphs.
+
+(2) After rule 83C (form of supervised attendance order)[^f00003], insert the following rule:–
+
+> **83D. Reduction of disqualification period for drink-drive offenders**
+>
+> (1) In this rule–
+>
+> - “the Act of 1988” means the Road Traffic Offenders Act 1988[^f00004];
+> - “course organiser” has the meaning given in section 34C(2) of the Act of 1988; and
+> - “date specified” means the date specified in an order under section 34A of the Act of 1988.
+>
+> (2) An application to the sheriff for a declaration under section 34B(6) of the Act of 1988 shall be–
+>
+> - (a) in Form 91 of Schedule 1;
+> - (b) accompanied by a copy of the written notice required by section 34B(5) of the Act of 1988 intimating the course organiser’s decision not to give a course completion certificate; and
+> - (c) lodged with the sheriff clerk within 28 days after the date specified.
+>
+> (3) An application to the sheriff for a declaration under section 34B(7) of the Act of 1988 shall be–
+>
+> - (a) in Form 92 of Schedule 1; and
+> - (b) lodged with the sheriff clerk within 28 days after the date specified.
+>
+> (4) On the lodging of an application under section 34B(6) or (7) of the Act of 1988–
+>
+> - (a) the sheriff shall fix a date for hearing the application; and
+> - (b) the sheriff clerk shall–
+>   - (i) notify the applicant of the date of the hearing; and
+>   - (ii) serve a copy of the application, with notice of the hearing, on the course organiser and the procurator fiscal.
+
+.
+
+(3) After rule 126C (form of supervised attendance order)[^f00005], insert the following rule:–
+
+> **126D. Reduction of disqualification period for drink-drive offenders**
+>
+> (1) In this rule–
+>
+> - “the Act of 1988” means the Road Traffic Offenders Act 1988;
+> - “clerk of court” means sheriff clerk, sheriff clerk depute or clerk of the district court, as the case may be;
+> - “course organiser” has the meaning given in section 34C(2) of the Act of 1988;
+> - “date specified” means the date specified in an order under section 34A of the Act of 1988; and
+> - “supervising court” has the meaning given in section 34C(2) of the Act of 1988[^f00006].
+>
+> (2) An application to the supervising court for a declaration under section 34B(6) of the Act of 1988 shall be–
+>
+> - (a) in Form 91 of Schedule 1;
+> - (b) accompanied by a copy of the written notice required by section 34B(5) of the Act of 1988 intimating the course organiser’s decision not to give a course completion certificate; and
+> - (c) lodged with the clerk of court within 28 days after the date specified.
+>
+> (3) An application to the supervising court for a declaration under section 34B(7) of the Act of 1988 shall be–
+>
+> - (a) in Form 92 of Schedule 1; and
+> - (b) lodged with the clerk of court within 28 days after the date specified.
+>
+> (4) On the lodging of an application under section 34B(6) or (7) of the Act of 1988–
+>
+> - (a) the sheriff or stipendiary magistrate shall fix a date for hearing the application; and
+> - (b) the clerk of court shall–
+>   - (i) notify the applicant of the date of the hearing; and
+>   - (ii) serve a copy of the application, with notice of the hearing, on the course organiser and the procurator fiscal.
+
+.
+
+(4) After Form 90 (letter of request under section 3 of the Criminal Justice (International Co-operation) Act 1990[^f00007]) in Schedule 1 to the Act of Adjournal (Consolidation) 1988, insert Forms 91 and 92 as set out in the Schedule to this Act of Adjournal.
+
+J.A.D. Hope
+
+Lord Justice General, IPD
+
+Edinburgh,
+
+29th July 1993
+
+## SCHEDULE
+
+Paragraph 2(2) and (3)
+
+FORM 91
+
+FORM OF APPLICATION UNDER SECTION 34B(6) OF ROAD TRAFFIC OFFENDERS ACT 1988
+
+Rules 83D and 126D
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/1955/images/uksi_19931955_en_001)
+
+FORM 92
+
+FORM OF APPLICATION UNDER SECTION 34B(7) OF ROAD TRAFFIC OFFENDERS ACT 1988
+
+Rules 83D and 126D
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/1955/images/uksi_19931955_en_002)
+
+(This note is not part of the Act of Adjournal)
+
+This Act of Adjournal amends the Act of Adjournal (Consolidation) 1988 by prescribing–
+
+- (a) the procedure for an application by a disqualified driver under section 34B(6) of the Road Traffic Offenders Act 1988 (“the Act of 1988”) for a declaration that the decision of the organiser of a road traffic rehabilitation course not to give a course completion certificate was contrary to section 34B(4) of the Act of 1988;
+- (b) the procedure for an application by a disqualified driver under section 34B(7) of the Act of 1988 that the organiser of a road traffic rehabilitation course is in default; and
+- (c) the forms of application for the above.
+
+## Annotations
+
+[^f00001]: Footnote: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21); section 282 was amended by paragraph 47 of, and section 457 by paragraph 72 of, Schedule 7 to the Criminal Justice (Scotland) Act [1980 (c. 62)](https://www.legislation.gov.uk/ukpga/1980/62).
+
+[^f00002]: Footnote: S.I. [1988/110](https://www.legislation.gov.uk/uksi/1988/110).
+
+[^f00003]: Footnote: Rule 83C was inserted by S.I. [1991/2677](https://www.legislation.gov.uk/uksi/1991/2677).
+
+[^f00004]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); sections 34A, 34B and 34C were inserted by section 30 of the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40).
+
+[^f00005]: Footnote: Rule 126C was inserted by S.I. [1991/2677](https://www.legislation.gov.uk/uksi/1991/2677).
+
+[^f00006]: Footnote: The definition of supervising court in section 34C(2)(b) of the Act of 1988 is to be read in conjunction with section 31(5) of the Road Traffic Act 1991.
+
+[^f00007]: Footnote: Form 90 was inserted by S.I. [1992/1489](https://www.legislation.gov.uk/uksi/1992/1489).

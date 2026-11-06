@@ -1,0 +1,19 @@
+---
+title: The Housing Renovation etc. Grants (Reduction of Grant) Regulations 1990, section 9
+act: The Housing Renovation etc. Grants (Reduction of Grant) Regulations 1990
+section: '9'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1189/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing Renovation etc. Grants (Reduction of Grant) Regulations 1990, section 9
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 9. Financial resources
+
+In respect of any one application, the amount which is to be taken to be the financial resources of the applicant or applicants shall be the total of the incomes of all those persons who are relevant persons in the case of that application, and the income of each relevant person shall be determined in accordance with regulation 16.

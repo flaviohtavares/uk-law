@@ -1,0 +1,46 @@
+---
+title: Employment Rights Act 1996, section 116
+act: Employment Rights Act 1996
+section: '116'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1996/18/section/116
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employment Rights Act 1996, section 116
+
+> **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 116. Choice of order and its terms.
+
+*Extent: E+W+S*
+
+(1) In exercising its discretion under section 113 the tribunal shall first consider whether to make an order for reinstatement and in so doing shall take into account—
+
+- (a) whether the complainant wishes to be reinstated,
+- (b) whether it is practicable for the employer to comply with an order for reinstatement, and
+- (c) where the complainant caused or contributed to some extent to the dismissal, whether it would be just to order his reinstatement.
+
+(2) If the tribunal decides not to make an order for reinstatement it shall then consider whether to make an order for re-engagement and, if so, on what terms.
+
+(3) In so doing the tribunal shall take into account—
+
+- (a) any wish expressed by the complainant as to the nature of the order to be made,
+- (b) whether it is practicable for the employer (or a successor or an associated employer) to comply with an order for re-engagement, and
+- (c) where the complainant caused or contributed to some extent to the dismissal, whether it would be just to order his re-engagement and (if so) on what terms.
+
+(4) Except in a case where the tribunal takes into account contributory fault under subsection (3)(c) it shall, if it orders re-engagement, do so on terms which are, so far as is reasonably practicable, as favourable as an order for reinstatement.
+
+(5) Where in any case an employer has engaged a permanent replacement for a dismissed employee, the tribunal shall not take that fact into account in determining, for the purposes of subsection (1)(b) or (3)(b), whether it is practicable to comply with an order for reinstatement or re-engagement.
+
+(6) Subsection (5) does not apply where the employer shows—
+
+- (a) that it was not practicable for him to arrange for the dismissed employee’s work to be done without engaging a permanent replacement, or
+- (b) that—
+  - (i) he engaged the replacement after the lapse of a reasonable period, without having heard from the dismissed employee that he wished to be reinstated or re-engaged, and
+  - (ii) when the employer engaged the replacement it was no longer reasonable for him to arrange for the dismissed employee’s work to be done except by a permanent replacement.

@@ -1,0 +1,48 @@
+---
+title: Clean Neighbourhoods and Environment Act 2005, section 4
+act: Clean Neighbourhoods and Environment Act 2005
+section: '4'
+status: revised-with-pending-changes
+text_date: '2024-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2005/16/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Clean Neighbourhoods and Environment Act 2005, section 4
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/16
+>
+> Extent: England, Wales.
+
+## 4. Repairing vehicles on a road
+
+*Extent: E+W*
+
+(1) A person who carries out restricted works on a motor vehicle on a road is guilty of an offence, subject as follows.
+
+(2) For the purposes of this section “**restricted works**” means—
+
+- (a) works for the repair, maintenance, servicing, improvement or dismantling of a motor vehicle or of any part of or accessory to a motor vehicle;
+- (b) works for the installation, replacement or renewal of any such part or accessory.
+
+(3) A person is not to be convicted of an offence under this section in relation to any works if he proves to the satisfaction of the court that the works were not carried out—
+
+- (a) in the course of, or for the purposes of, a business of carrying out restricted works; or
+- (b) for gain or reward.
+
+(4) Subsection (3) does not apply where the carrying out of the works gave reasonable cause for annoyance to persons in the vicinity.
+
+(5) A person is also not to be convicted of an offence under this section in relation to any works if he proves to the satisfaction of the court that the works carried out were works of repair which—
+
+- (a) arose from an accident or breakdown in circumstances where repairs on the spot or elsewhere on the road were necessary; and
+- (b) were carried out within 72 hours of the accident or breakdown or were within that period authorised to be carried out at a later time by the local authority for the area.
+
+(6) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(7) In this section—
+
+- “**motor vehicle**” has the same meaning as in the Refuse Disposal (Amenity) Act 1978;
+- “**road**” has the same meaning as in the Road Traffic Regulation Act 1984;
+- “**local authority**” has the meaning given in section 9.

@@ -1,0 +1,95 @@
+---
+title: Finance Act 1994, section 65
+act: Finance Act 1994
+section: '65'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/9/section/65
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1994, section 65
+
+> **Warning: changes not yet applied to this text (19).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/9
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 65. Liability of insured in certain cases.
+
+*Extent: E+W+S+N.I.*
+
+(1) Regulations may make provision under this section with regard to any case where at any time [^key-48a51bfda68b5c9692de242f28e1c3ba]...the insurer—[^key-51b7e814e9a0b70caa7a7ee1cebfa639]
+
+- (a) does not have any business establishment or other fixed establishment in the United Kingdom, and
+- (b) is established in a country or territory in respect of which it appears to the Commissioners that the condition in subsection (1A) below is met.
+
+(1A)[^key-f159d951f4db1d695807e09aede21bd4] The condition mentioned in subsection (1)(b) above is that there are no arrangements in relation to the country or territory relating to insurance premium tax which—
+
+- (a) have effect by virtue of an Order in Council under section 173 of the Finance Act 2006, and
+- (b) contain provision of a kind mentioned in subsection (2)(a) and (b) of that section.
+
+(2) Regulations may make provision allowing notice to be served in accordance with the regulations on—
+
+- (a) the person who is insured under a taxable insurance contract, if there is one insured person, or
+- (b) one or more of the persons who are insured under a taxable insurance contract, if there are two or more insured persons;
+
+and a notice so served is referred to in this section as a liability notice.
+
+(3) Regulations may provide that if a liability notice has been served in accordance with the regulations—
+
+- (a) the Commissioners may assess to the best of their judgment the amount of any tax due in respect of premiums received by the insurer under the contract concerned after the material date and before the date of the assessment, and
+- (b) that amount shall be deemed to be the amount of tax so due.
+
+(4) The material date is—
+
+- (a) where there is one person on whom a liability notice has been served in respect of the contract, the date when the notice was served or such later date as may be specified in the notice;
+- (b) where there are two or more persons on whom liability notices have been served in respect of the contract, the date when the last of the notices was served or such later date as may be specified in the notices.
+
+(5) Regulations may provide that where—
+
+- (a) an assessment is made in respect of a contract under provision included in the regulations by virtue of subsection (3) above, and
+- (b) the assessment is notified to the person, or each of the persons, on whom a liability notice in respect of the contract has been served,
+
+the persons mentioned in subsection (6) below shall be jointly and severally liable to pay the tax assessed, and that tax shall be recoverable accordingly.
+
+(6) The persons are—
+
+- (a) the person or persons mentioned in subsection (5)(b) above, and
+- (b) the insurer.
+
+(7) Where regulations make provision under subsection (5) above they must also provide that any provision made under that subsection shall not apply if, or to the extent that, the assessment has subsequently been withdrawn or reduced.
+
+(8) Regulations may make provision as to the time within which, and the manner in which, tax which has been assessed is to be paid.
+
+(9) Where any amount is recovered from an insured person by virtue of regulations made under this section, the insurer shall be liable to pay to the insured person an amount equal to the amount recovered; and regulations may make provision requiring an insurer to pay interest where this subsection applies.
+
+(10) Regulations may make provision for adjustments to be made of a person’s liability in any case where—
+
+- (a) an assessment is made under section 56 above in relation to the insurer, and
+- (b) an assessment made by virtue of regulations under this section relates to premiums received (or assumed for the purposes of the assessment to be received) within a period which corresponds to any extent with the accounting period to which the assessment under section 56 relates.
+
+(11) Regulations may make provision as regards a case where—
+
+- (a) an assessment made in respect of a contract by virtue of regulations under this section relates to premiums received (or assumed for the purposes of the assessment to be received) within a given period, and
+- (b) an amount of tax is paid by the insurer in respect of an accounting period which corresponds to any extent with that period;
+
+and the regulations may include provision for determining whether, or how much of, any of the tax paid as mentioned in paragraph (b) above is attributable to premiums received under the contract in the period mentioned in paragraph (a) above.
+
+(12) Regulations may—
+
+- (a) make provision requiring the Commissioners, in prescribed circumstances, to furnish prescribed information to an insured person;
+- (b) make provision requiring any person on whom a liability notice has been served to keep records, to furnish information, or to produce documents for inspection or cause documents to be produced for inspection;
+- (c) make such provision as the Commissioners think is reasonable for the purpose of facilitating the recovery of tax from the persons having joint and several liability (rather than from the insurer alone);
+- (d) modify the effect of any provision of this Part.
+
+(13) Regulations may provide for an insured person to be liable to pay tax assessed by virtue of the regulations notwithstanding that he has already paid an amount representing tax as part of a premium.
+
+## Annotations
+
+[^key-48a51bfda68b5c9692de242f28e1c3ba]: Textual amendment: Words in s. 65(1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/b)
+
+[^key-51b7e814e9a0b70caa7a7ee1cebfa639]: Textual amendment: Words in s. 65(1) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 143(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/143/2)
+
+[^key-f159d951f4db1d695807e09aede21bd4]: Textual amendment: S. 65(1A) substituted for s. 65(1A)(1B) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 8](https://www.legislation.gov.uk/ukpga/2020/26/section/8), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

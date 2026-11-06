@@ -1,0 +1,928 @@
+---
+title: The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019
+id: uksi/2019/348
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-02-19'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/348
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/348/pdfs/uksiem_20190348_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/348/pdfs/uksi_20190348_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/348/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 348
+
+Exiting The European Union
+
+Companies
+
+Limited Liability Partnerships
+
+Partnership
+
+The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019
+
+Made
+
+19th February 2019
+
+Coming into force in accordance with regulation 2
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23600991].
+
+In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and extent[^key-8dbafb639a1a5c9ce4439f3d575c6150]
+
+These Regulations may be cited as the Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019.
+
+### 2.[^key-3f4f418b820f65f1300b0a178324e506]
+
+These Regulations come into force on exit day [^c23601001].
+
+### 3.[^key-23f4330926d89be3fe1891aeaa5f6beb]
+
+Any amendment or revocation made by these Regulations has the same extent as the enactment to which the amendment or revocation relates.
+
+### 4. Interpretation[^key-71a9230333408af6f3e4f7bb3cd1c85e]
+
+In these Regulations, “**the Act**” means the Companies Act 2006 [^c23601011].
+
+## PART 2 — Revocations
+
+### 5. Revocations[^key-a93ddff0b3f5fe65e231207fab8cf590]
+
+The following instruments are revoked to the extent specified—
+
+- (a) the Companies (Cross-Border Mergers) Regulations 2007 [^c23601021] in their entirety;
+- (b) the Companies (Cross-Border Mergers) (Amendment) Regulations 2008 [^c23601031] in their entirety;
+- (c) Part 4 (Amendments to the Companies (Cross-Border Mergers) Regulations 2007) of the Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011 [^c23601041];
+- (d) the Companies (Cross-Border Mergers) (Amendment) Regulations 2015 [^c23601051] in their entirety; and
+- (e) the Commission Implementing Regulation (EU) 2015/884 of 8 June 2015 establishing technical specifications and procedures required for the system of interconnection of registers established by Directive [2009/101/EC](https://www.legislation.gov.uk/eudr/2009/101) of the European Parliament and of the Council in its entirety.
+
+## PART 3 — Amendments
+
+### 6. Amendments to the Act[^key-406350a83f194451f7abc3266d8ed23a]
+
+Schedule 1 (which contains amendments to the Act) has effect.
+
+### 7. Amendments to secondary legislation[^key-0d2a56da5d12c71622f977d24ee1ed48]
+
+Schedule 2 (which contains amendments to secondary legislation) has effect.
+
+### 8. Consequential amendments[^key-35f8da9d667173e465642c1965dfeef9]
+
+Schedule 3 (which contains consequential amendments) has effect.
+
+## PART 4 — Transitional provisions
+
+### 9. Transitional provisions[^key-2e6629bcf45e7b6a936c72fded3aef43]
+
+Schedule 4 (which contains transitional provisions) has effect.
+
+Kelly Tolhurst
+
+Minister for Small Business, Consumers and Corporate Responsibility
+
+Department for Business, Energy and Industrial Strategy
+
+## SCHEDULE 1 — Amendments to the Act
+
+Regulation6
+
+**1.**[^key-5dc3a31a8b9776b46da3bea1d922ac2b] The Act is amended in accordance with this Schedule.
+
+### 2. Amendment to Part 8 – a company's members[^key-656073efbf92fbc025abb541493c88a0]
+
+In section 141(2)(b) (subsidiary acting as authorised dealer in securities), for “regulated market” substitute “ UK regulated market ”[^c23601061] .
+
+### 3. Amendment to Part 9 – exercise of members' rights[^key-8e73de086dd4d66d61990ae7ada80a2d]
+
+In section 146(1) (traded companies: nomination of persons to enjoy information rights), for “regulated market” substitute “ UK regulated market or an EU regulated market ”[^c23601071] .
+
+### 4. Amendment to Part 10 – a company's directors[^key-01514db524db87838693ec599181eccf]
+
+In section 164 (particulars of directors to be registered: corporate directors and firms), for paragraph (c) substitute—
+
+> - (c) in the case of a limited company that is a UK-registered company, the registered number;
+
+.
+
+### 5. Amendment to Part 12 – company secretaries[^key-f4960b0d319f07ec7cc277ae36d89fd3]
+
+In section 278(1) (particulars of secretaries to be registered: corporate secretaries and firms), for paragraph (c) substitute—
+
+> - (c) in the case of a limited company that is a UK-registered company, the registered number;
+
+.
+
+### 6. Amendment to Part 13 – resolutions and meetings[^key-f4e7337e483cf247f5b8e08f3a5418a8]
+
+In section 360C(b) (meaning of “traded company”) [^c23601081], for “regulated market in an EEA State” substitute “ UK regulated market or an EU regulated market ”.
+
+### 7. Amendments to Part 14 – control of political donations and expenditure[^key-b7584c581cf18a383427422371275fde]
+
+In section 363 (political parties, organisations etc to which Part 14 applies)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) This Part applies to a political party if it is registered under Part 2 of the Political Parties, Elections and Referendums Act 2000 (c. 41).
+
+  ;
+- (b) in subsections (2)(b) and (3), omit “or another member State”.
+
+**8.**[^key-f6b6e5dbbbc9a47086d4ea7e60af0bfd] In section 365(1)(b)(ii) (meaning of “political expenditure”), for “a member state” substitute “ the United Kingdom ”.
+
+### 9. Amendments to Part 17 – a company's share capital[^key-d56698c0f43dfbe34b2fa5eb91afa33a]
+
+In section 562(3)(a) (communication of pre-emption offers to shareholders), for “an EEA State”, in both places it occurs, substitute “ the United Kingdom or an EEA State ”.
+
+### 10. Amendments to Part 21A – information about people with significant control[^key-f653ea7bd5c1f7920e26f2343af33072]
+
+In section 790B(1)(a) (companies to which Part 21A applies) [^c23601091], for “regulated market which is situated in an EEA State” substitute “ UK regulated market or an EU regulated market ”.
+
+**11.**[^key-fa1373b743258436160bcf9646120798] In section 790C(7)(b) (key terms) [^c23601101], for the words from “regulated market” to the end substitute “ UK regulated market or an EU regulated market, ”.
+
+### 12. Amendment to Part 23 – distributions[^key-2e504f73373f52bc26e7befb48c32702]
+
+In section 832(5)(a) (distributions by investment companies out of accumulated revenue profits) [^c23601111], for “regulated market” substitute “ UK regulated market ”.
+
+### 13. Amendment to Part 24 – annual confirmation of accuracy of information on register[^key-f3437fb9adce5b779cbccb15951f48e8]
+
+In section 853E(6) (duty to notify trading status of shares) [^c23601121], in paragraph (b) of the definition of “relevant market”, for “regulated market” substitute “ UK regulated market or an EU regulated market ”.
+
+### 14. Amendment to Part 34 – overseas companies[^key-0c5be197b19ec8de3baab33072055042]
+
+In section 1047 (registered name of overseas company)—
+
+- (a) omit subsection (3);
+- (b) in subsection (4)—
+  - (i) omit “In any other case,”;
+  - (ii) after paragraph (b), insert—
+
+    > - (ba) section 57 (permitted characters etc);
+
+    ;
+- (c) omit subsection (5);
+- (d) in subsection (6) omit “or (5)”.
+
+### 15. Amendments to Part 35 – the registrar of companies[^key-f66460e45bbb9b5b74fa7a41ea2616eb]
+
+In section 1068(5) (registrar's requirements as to form, authentication and manner of delivery), for “as from 1st January 2007 all documents subject to the Directive disclosure requirements” substitute “ an enhanced disclosure document ”.
+
+**16.**[^key-bff53d34b3b530a0b500cef086d6c2e1] In section 1077(1) (public notice of receipt of certain documents), for “subject to the Directive disclosure requirements” substitute “ an enhanced disclosure document ”.
+
+**17.**[^key-12146c5fdea567fe07bc292c0ac51954] In section 1078 (documents subject to Directive disclosure requirements)—
+
+- (a) for the heading substitute “ Enhanced disclosure documents ”;
+- (b) in subsection (1)—
+  - (i) for the first sentence, substitute “ The enhanced disclosure documents are as follows. ”;
+  - (ii) omit the second sentence;
+- (c) in subsection (4)(a), for “subject to the Directive disclosure requirements” substitute “ an enhanced disclosure document ”.
+
+**18.**[^key-265b47e0c8b2e5924a9679d749f735d8] In section 1079(4)(b) (effect of failure to give public notice), for “a document subject to the Directive disclosure requirements” substitute “ an enhanced disclosure document ”.
+
+**19.**[^key-987ab769f7ed81c52c54ab930a4327cb] Omit section 1079A (provision of information for publication on European e-Justice portal) [^c23601131].
+
+**20.**[^key-9465322527cb9ec18cc1223acb8a4c15] In section 1080(3) (the register), for “documents subject to the Directive disclosure requirements (see section 1078) that are delivered to the registrar on or after 1st January 2007” substitute “ an enhanced disclosure document (see section 1078) delivered to the registrar, ”.
+
+**21.**[^key-94482bf16a51a66bfbf6bdfd6ec90b46] In section 1086(2) (right to copy of material on the register), for “a document subject to the Directive disclosure requirements” substitute “ an enhanced disclosure document ”.
+
+**22.**[^key-5429e4e5768c6e5b3499ea34b4d2d135] In section 1089(2) (form of application for inspection or copy), for “As from 1st January 2007, applications in respect of documents subject to the Directive disclosure requirements” substitute “ Applications in respect of an enhanced disclosure document ”.
+
+**23.**[^key-82780a2dfc8edab9a199fb653a641b4e] In section 1090(2) (form and manner in which copies to be provided), for “As from 1st January 2007, copies of documents subject to the Directive disclosure requirements” substitute “ Copies of an enhanced disclosure document ”.
+
+**24.**[^key-47911983f8047d2901db5e2c086832ae] In section 1091(5) (certification of copies as accurate), for “documents that are subject to the Directive disclosure requirements” substitute “ an enhanced disclosure document ”.
+
+**25.**[^key-f82d2d751d91984cfd4845eb9d97a215] In section 1098(1) (public notice of removal of certain material from the register), for “any document subject to the Directive disclosure requirements” substitute “ an enhanced disclosure document ”.
+
+### 26. Amendments to Part 38 – companies: interpretation[^key-5e784e3f6564a8ee76bf39d76ba1739c]
+
+In section 1173(1) (minor definitions: general), for the definition of “transferable securities”[^c23601141] substitute—
+
+> “**transferable securities**” has the meaning given by Article 2.1.24 of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 and amending Regulation (EU) No. 648/2012;
+
+[^c23601151].
+
+### 27. Amendments to Schedule 8 – index of defined expressions[^key-5fd3f6ad9141700db2ffc3465a41e75f]
+
+Schedule 8 (index of defined expressions) is amended as follows—
+
+- (a) omit the entry for “Directive disclosure requirements”;
+- (b) at the appropriate place insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | enhanced disclosure documents | section 1078 |
+
+  .
+
+## SCHEDULE 2 — Amendments to secondary legislation
+
+Regulation 7
+
+### 1. The Companies (Political Expenditure Exemption) Order 2007[^key-198582407f2ecb87036471c2bf49737f]
+
+The Companies (Political Expenditure Exemption) Order 2007 [^c23601161] is amended in accordance with paragraph 2.
+
+**2.**[^key-1e7382a2ffc33f213de0c28e741b8896] In article 3(1)(b) (description of political expenditure), for “a member state” substitute “ the United Kingdom ”.
+
+### 3. The Overseas Companies Regulations 2009[^key-8c0d3487385110523e767a635078f9dd]
+
+The Overseas Companies Regulations 2009 [^c23601171] are amended in accordance with paragraphs 4 to 8.
+
+**4.**[^key-7856b95da5343ed3cb0c80dc82676b29] In regulation 2 (interpretation), omit the definition of “First Company Law Directive”.
+
+**5.**[^key-9d339c949e1d4c194cbf45f8d4aa84c0] In regulation 6 (particulars of the company)—
+
+- (a) at the end of paragraph (1)(e), omit “and”;
+- (b) after paragraph (1)(f), insert—
+
+  > - (g) the law under which the company is incorporated,
+  > - (h) in the case of a company to which Chapter 2 of Part 5 or Chapter 2 of Part 6 applies (requirements to prepare and disclose accounts under parent law), the period for which the company is required by its parent law to prepare accounts, together with the period allowed for the preparation and public disclosure (if any) of accounts for such a period, and
+  > - (i) unless disclosed by the company's constitution (see regulation 8)—
+  >   - (i) the address of its principal place of business in its country of incorporation or, if applicable, its registered office,
+  >   - (ii) its objects, and
+  >   - (iii) the amount of its issued share capital.
+
+  ;
+- (c) omit paragraph (2);
+- (d) omit paragraph (3)(b)(iii);
+- (e) in paragraph (3)(b)(iv), omit “in any other case”;
+- (f) omit paragraph (4)(b)(iii);
+- (g) in paragraph (4)(b)(iv), omit “in any other case”.
+
+**6.**[^key-f8555da2b32bbfa771b1b60c04b3be63] In regulation 63 (particulars to appear in business letters, order forms and websites)—
+
+- (a) in paragraph (1), for “paragraph (2)” substitute “ paragraph (4) ”;
+- (b) omit paragraphs (2) and (3);
+- (c) in paragraph (5), omit the words “which is not incorporated in an EEA state”.
+
+**7.**[^key-729f088920a248fb62b28b51e2c59904] In regulation 76 (documents subject to Directive disclosure requirements)—
+
+- (a) for the heading substitute “ Enhanced disclosure documents ”;
+- (b) in the opening words before paragraph (a), for “documents subject to Directive disclosure requirements” substitute “ enhanced disclosure documents ”.
+
+**8.**[^key-85e9cbd7d9531c4d1b70ed9f4c05faf9] In Schedule 2 (conditions for permitted disclosure)—
+
+- (a) in paragraph 3—
+  - (i) in sub-paragraph (a), after “business” insert “ in the United Kingdom or ”;
+  - (ii) in sub-paragraph (b), for “European Economic Area” substitute “ area comprising the United Kingdom and the European Economic Area ”;
+- (b) in paragraph 6—
+  - (i) in sub-paragraph (1)(a), omit “or in another EEA State”;
+  - (ii) in sub-paragraph (1)(b)(ii), for “data protection obligations” substitute “ obligations under the data protection legislation (as defined in section 3 of the Data Protection Act 2018 [^c23601181]) ”;
+  - (iii) omit sub-paragraph (2);
+- (c) in paragraph 7(b), omit from “, or in any legislation of another EEA State implementing Directive 2015/849/EU” to the end;
+- (d) in paragraph 8, omit “or in another EEA State”;
+- (e) in paragraph 9, in sub-paragraphs (a) and (b), for “European Economic Area” substitute “ United Kingdom ”; and
+- (f) in paragraph 11, in the definition of “public function”, omit paragraph (b).
+
+### 9. The Companies (Disclosure of Address) Regulations 2009[^key-6932225fcd3540a8dd0f81124ee81a11]
+
+The Companies (Disclosure of Address) Regulations 2009 [^c23601191] are amended in accordance with paragraph 10.
+
+**10.**[^key-c59bc488c34dff35298f8ec164bd829b] In Schedule 2 (conditions for permitted disclosure)—
+
+- (a) in paragraph 3—
+  - (i) in sub-paragraph (a), after “European Economic Area” insert “ or in the United Kingdom ”;
+  - (ii) in sub-paragraph (b), for “European Economic Area” substitute “ area comprising the United Kingdom and the European Economic Area ”;
+- (b) in paragraph 6—
+  - (i) in sub-paragraph (1)(a), omit “or in another EEA State”;
+  - (ii) in sub-paragraph (1)(b)(ii), for “data protection obligations” substitute “ obligations under the data protection legislation (as defined in section 3 of the Data Protection Act 2018) ”;
+  - (iii) omit sub-paragraph (2);
+- (c) in paragraph 7(b), omit from “, or in any legislation of another EEA State implementing Directive 2015/849/EU” to the end;
+- (d) in paragraph 8, omit “or in another EEA State”;
+- (e) in paragraph 9, in sub-paragraphs (a) and (b), for “European Economic Area” substitute “ United Kingdom ”;
+- (f) in paragraph 11, in the definition of “public function”, omit paragraph (b).
+
+### 11. The Companies (Disclosure of Date of Birth Information) Regulations 2015[^key-76d40eaba067b9515c6a9973cc9cae52]
+
+The Companies (Disclosure of Date of Birth Information) Regulations 2015 [^c23601201] are amended in accordance with paragraph 12.
+
+**12.**[^key-8703187a114900a83f6308211d254bce] In Schedule 2 (conditions for permitted disclosure)—
+
+- (a) in paragraph 3—
+  - (i) in sub-paragraph (a), after “European Economic Area” insert “ or in the United Kingdom ”;
+  - (ii) in sub-paragraph (b), for “European Economic Area” substitute “ area comprising the United Kingdom and the European Economic Area ”;
+- (b) in paragraph 6—
+  - (i) in sub-paragraph (1)(a), omit “or in another EEA State”;
+  - (ii) in sub-paragraph (1)(b)(ii), for “data protection obligations” substitute “ obligations under the data protection legislation (as defined in section 3 of the Data Protection Act 2018) ”;
+  - (iii) omit sub-paragraph (2);
+- (c) in paragraph 7(b), omit from “, or in any legislation of another EEA State implementing Directive 2015/849/EU” to the end;
+- (d) in paragraph 8, omit “or in another EEA State”;
+- (e) in paragraph 9, in sub-paragraphs (a) and (b), for “European Economic Area” substitute “ United Kingdom ”;
+- (f) in paragraph 11, in the definition of “public function”, omit paragraph (b).
+
+### 13. The Register of People with Significant Control Regulations 2016[^key-9aab461c409a38c441a0fcd5d82c66ed]
+
+The Register of People with Significant Control Regulations 2016 [^c23601211] are amended in accordance with paragraph 14.
+
+**14.**[^key-bebadc16a5dbd809a991c203f579cef1] In Schedule 4 (conditions for permitted disclosure)—
+
+- (a) in paragraph 2—
+  - (i) in sub-paragraph (a), after “business” insert “ in the United Kingdom or ”; and
+  - (ii) in sub-paragraph (b), for “European Economic Area” substitute “ area comprising the United Kingdom and the European Economic Area ”;
+- (b) in paragraph 6—
+  - (i) in sub-paragraph (a), omit “or in another EEA State”;
+  - (ii) sub-paragraph (b)(ii), for “data protection obligations” substitute “ obligations under the data protection legislation (as defined in section 3 of the Data Protection Act 2018) ”;
+- (c) in paragraph 8—
+  - (i) at the end of sub-paragraph (b)(i), insert “ or ”;
+  - (ii) omit sub-paragraph (b)(iii), and the “or” before it;
+- (d) in paragraph 9, omit “or in another EEA State”;
+- (e) in paragraph 10, in sub-paragraphs (a) and (b), for “European Economic Area” substitute “ United Kingdom ”;
+- (f) in paragraph 12A(b), for “data protection obligations” substitute “obligations under the data protection legislation (as defined in section 3 of the Data Protection Act 2018);
+- (g) in paragraph 12F, in sub-paragraphs (a) and (b), for “European Economic Area” substitute “ United Kingdom ”;
+- (h) omit paragraph 13(b)(ii);
+- (i) omit paragraph 14.
+
+### 15. The Scottish Partnerships (Register of People with Significant Control) Regulations 2017[^key-7803027c806365b97b112d7ae4594f2c]
+
+The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 [^c23601221] are amended in accordance with paragraphs 16 to 18.
+
+**16.**[^key-dd155ea343cbb8a140507534439d9581] In regulation 2 (interpretation)—
+
+- (a) in the appropriate place, insert—
+
+  > “**UK regulated market**” has the meaning given in regulation 3(12)
+
+  ;
+- (b) in the appropriate place, insert—
+
+  > “**EU regulated market**” has the meaning given in regulation 3(12)
+
+  .
+
+**17.**[^key-bbfc3fc6722dc7525c4598256798d276] In regulation 3 (key terms)—
+
+- (a) in paragraph (7)(c), for “regulated market situated in an EEA State” substitute “ UK regulated market or an EU regulated market ”;
+- (b) for paragraph (12), substitute—
+
+  > (12) In paragraph (7), “UK regulated market” and “EU regulated market” have the meanings given in Article 2.1.13A and 2.1.13B respectively of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 and amending Regulation (EU) No. 648/2012
+
+  [^c23601231].
+
+**18.**[^key-ddffc5cfcdda79dfa61ddd47971ce511] In Schedule 5 (conditions for permitted disclosure)—
+
+- (a) in paragraph 2—
+  - (i) in sub-paragraph (a), after “business” insert “ in the United Kingdom or ”;
+  - (ii) in sub-paragraph (b), for “European Economic Area” substitute “ area comprising the United Kingdom and the European Economic Area ”;
+- (b) in paragraph 6—
+  - (i) in sub-paragraph (1)(b), for “data protection obligations” substitute “ obligations under the data protection legislation (as defined in section 3 of the Data Protection Act 2018) ”;
+  - (ii) omit sub-paragraph (2);
+- (c) in paragraph 10, omit “or another EEA State”;
+- (d) in paragraph 11, in sub-paragraphs (a) and (b), for “European Economic Area” substitute “ United Kingdom ”;
+- (e) omit paragraph 14(b)(ii).
+
+## SCHEDULE 3 — Consequential amendments
+
+Regulation 8
+
+### 1. Amendments to the Insolvency Act 1986[^key-5fa2a747d66daab0c9e249e4db341961]
+
+In Schedule B1 to the Insolvency Act 1986 [^c23601241] (administration) omit paragraphs 73(2)(d) (and the “or” immediately before it) and 74(6)(ba).
+
+### 2. Amendments to the Employment Tribunals Act 1996[^key-fa76b1825565e96dd35fbb0b1de09a6b]
+
+The Employment Tribunals Act 1996 [^c23601251] is amended in accordance with paragraph 3 and 4.
+
+**3.**[^key-a4216bd3532dd3a56262b4eb0d6f7c56] In section 18(1) (conciliation: relevant proceedings etc) omit paragraph (v).
+
+**4.**[^key-b33cb96fb1ee253986e46a2a746d3880] In section 21(1) (jurisdiction of Appeal Tribunal) omit paragraph (u).
+
+### 5. Amendments to the Employment Rights Act 1996[^key-84bd1a78b7d633fd779d4051b8d9f492]
+
+The Employment Rights Act 1996 [^c23601261] is amended in accordance with paragraph 6 and 7.
+
+**6.**[^key-53f55203167086ce0cc8be0524c9762c] In section 105 (redundancy) omit subsection (7K).
+
+**7.**[^key-72235b8da7448c1fd7f5825adddcb899] In section 108(3) (qualifying period of employment) omit paragraph (p).
+
+### 8. Amendment to the Employment Act 2002[^key-23ada5e51cdccf1f317fb3c81c45e77c]
+
+In Schedule 5 to the Employment Act 2002 [^c23601271] (tribunal jurisdictions to which section 38 applies), omit the entry relating to regulation 51 of the Companies (Cross-Border Mergers) Regulations 2007.
+
+### 9. The Employment Appeal Tribunal Rules 1993[^key-51a9b8052e8e7471c44d25f66be41a65]
+
+The Employment Appeal Tribunal Rules 1993 [^c23601281] are amended in accordance with paragraphs 10 to 17.
+
+**10.**[^key-0b4c45ea9a71199cb267de1b6204c77a] In rule 2(1) (interpretation) omit the definition of “the 2007 Regulations”.
+
+**11.**[^key-75ba7a382230de44cfc9d3c7557fe6fa] In rule 3(1)(d) (institution of appeal) omit “or regulation 57(6) of the 2007 Regulations”.
+
+**12.**[^key-986818246b8d55703b858bb0fbcb0ba6] In rule 4(1)(e) (service of notice of appeal) omit “or regulation 57(6) of the 2007 Regulations”.
+
+**13.**[^key-6c08f51970e5323bef133b27eae4f947] In rule 5(c) (respondents to appeals) omit “or regulation 57(6) of the 2007 Regulations”.
+
+**14.**[^key-1519c0fc841551dd8593a9a80e2685a5] In rule 7(1)(e) (disposal of appeal) omit “or regulation 57(6) of the 2007 Regulations”.
+
+**15.**[^key-69c01c05be4fb7979456a1e1534c2d82] In rule 16AA (application under regulation 33(6) of the 2004 Regulations) omit “or regulation 53(6) of the 2007 Regulations” and “or regulation 53(4) of the 2007 Regulations”.
+
+**16.**[^key-13c9fd8fc88eea43e94bece4c03350e6] In rule 26(1) (default by parties), insert “ or ” after “the 2004 Regulations” and omit “or regulation 53 of the 2007 Regulations”.
+
+**17.**[^key-998937d7287b1af484bf7b9509f8e50c] In rule 31(1)(c) (drawing up, reasons for, and enforcement of orders) insert “ or ” after “the 2004 Regulations” and omit “or regulation 53 of the 2007 Regulations”.
+
+### 18. The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^key-a3b209352bf6a96993b86c03842840e8]
+
+The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 [^c23601291] are amended in accordance with paragraph 19.
+
+**19.**[^key-bc060785338cb5eeb07a777da0b88b89] In regulation 55 (minor definitions), in the modification of section 1173 of the Act—
+
+- (a) in subsection (1), for the definition of “transferable securities” substitute—
+
+  > “**transferable securities**” has the meaning given by Article 2.1.24 of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 and amending Regulation (EU) No. 648/2012;
+
+  ;
+- (b) omit subsection (2).
+
+### 20. The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009[^key-9e94caa4920b356b02fc0eda021e30a2]
+
+The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 [^c23601301] is amended in accordance with paragraph 21.
+
+**21.**[^key-cb12ce88534d1149d0bba60c34e0f3c4] In the Schedule (legislation subject to the general modifications in Part 2) omit “Companies (Cross-Border Mergers) Regulations 2007”.
+
+### 22. The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^key-787197c73683ca3fe79b0dc6ddbf493e]
+
+The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 [^c23601311] are amended in accordance with paragraphs 23 to 25.
+
+**23.**[^key-85af16875276c6e1ceedcc16de7f412c] In regulation 18 (requirements for register of members), in the modification of section 164 of the Act, for paragraph (c) substitute—
+
+> - (c) in the case of a limited company that is a UK-registered company, the registered number;
+
+.
+
+**24.**[^key-7ba18b5dc2de9049790182ed7d0a040f] In regulation 31B (key terms)—
+
+- (a) in paragraph (3), in the modification of section 790C(7)(b) of the Act, for “regulated market which is situated in an EEA State” substitute “ UK regulated market or an EU regulated market ”;
+- (b) in paragraph (6), for the inserted section 790C(12E) of the Act substitute—
+
+  > (12E) “**EU regulated market**”, “**Regulated market**” and “**UK regulated market**” have the same meanings as in section 1173 of the Companies Act 2006.
+
+  .
+
+**25.**[^key-833e82f2e9541282ab70e84b71ad2907] Omit regulation 46 (cross-border mergers).
+
+### 26. The Companies (Companies Authorised to Register) Regulations 2009[^key-f02aaef0f222f8dfcf52d30145572858]
+
+The Companies (Companies Authorised to Register) Regulations 2009 [^c23601321] are amended in accordance with paragraph 27.
+
+**27.**[^key-b55db361f210fffb3900688b2fdb16c5] In regulation 18(2) omit sub-paragraph (a).
+
+### 28. The Agency Workers Regulations 2010[^key-13efcb17c5dbbb1cd608bbd43109d7dc]
+
+The Agency Workers Regulations 2010 [^c23601331] are amended in accordance with paragraphs 29 and 30.
+
+**29.**[^key-8272e47192020052ecfdc778ccc185a3] In Schedule 1 (provisions extending to England and Wales, Scotland and Northern Ireland), omit paragraph 4.
+
+**30.**[^key-49dcb53b16e4cc6414759040ee84af9d] In Part 2 of Schedule 2 (consequential amendments), omit paragraphs 39 to 46.
+
+### 31. The Investment Bank Special Administration Regulations 2011[^key-428acd1f574e797a6229053c7b114be8]
+
+The Investment Bank Special Administration Regulations 2011 [^c23601341] are amended in accordance with paragraph 32.
+
+**32.**[^key-ca9d4cfd7420bfe361c01ca8fd04f622] In Part 1 of Schedule 6 omit “Companies (Cross-Border Mergers) Regulations 2007” from the list of secondary legislation at the end of paragraph 1.
+
+### 33. The Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013[^key-5510785e28becdb8eaafd09354ab82cc]
+
+The Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013 [^c23601351] is amended in accordance with paragraph 34.
+
+**34.**[^key-4788f6c8d4362bf00cb9582b1d0ba2e0] In Schedule 2 (employment tribunals – issue and hearing fee)—
+
+- (a) omit the second row in Table 1; and
+- (b) omit row 57 in Table 2.
+
+### 35. The Bank Recovery and Resolution (No 2) Order 2014[^key-e08dcf91795616f7d90f882039b09bbf]
+
+The Bank Recovery and Resolution (No 2) Order 2014 [^c23601361] is amended in accordance with paragraph 36.
+
+**36.**[^key-fddc0346f336a1e92b124decdb678345] Omit article 218 (modified application of legislation on cross-border mergers).
+
+## SCHEDULE 4 — Transitional provisions
+
+Regulation 9
+
+### Part 1 — Transitional provisions relating to Schedule 1
+
+#### 1. Section 141 - subsidiary acting as authorised dealer in securities[^key-db9479ba5153f036b0398849b648d3e3]
+
+Where the amendment made by paragraph 2 of Schedule 1 would (apart from this paragraph) mean that a subsidiary which immediately before IP completion day[^key-e70406ceabc7353d9b8cbb963766aab0] is a member of its holding company can no longer be such a member–—
+
+- (a) for the period of one year beginning on IP completion day[^key-c0c13a749abdc785afaf17b2a345d875]—
+  - (i) the amendment made by paragraph 2 of Schedule 1 to these Regulations does not apply to the subsidiary; and
+  - (ii) section 141(2)(b) of the Act is to be read, in relation to the subsidiary, as—
+
+    > - (b) is a member of or has access to an EU regulated market or UK regulated market
+
+    ; and
+- (b) from the end of that period—
+  - (i) the subsidiary may continue to be a member of the company; and
+  - (ii) sections 137(3) and (4) of the Act apply to it with the following modifications—
+    - (aa) for “this section”, read “paragraph 1(b)(i) of Schedule 4 to the Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019”; and
+    - (bb) in subsection (4), for “mentioned in subsection (1) above” read “held at the end of the period of one year beginning on IP completion day[^key-df27efba3faacde4cdd8c2d4a9e017fc]”.
+
+#### 2. Section 164 and 278 - particulars of corporate directors and secretaries[^key-917053d31a32b211b48adba15578b25b]
+
+(1) Where the amendments made by paragraphs 4 and 5 of Schedule 1 would (apart from this paragraph) require a company's register of directors or register of secretaries to contain additional particulars in respect of an existing corporate director or secretary, the company need not comply with that requirement until three months after IP completion day[^key-cdda9fdd67fcf7fd5cb5c57593d23b02].
+
+(2) Where the amendments made by paragraph 23 of Schedule 3 would (apart from this paragraph) require a limited liability partnership's register of members to contain additional particulars in respect of an existing corporate member or firm, the limited liability partnership need not comply with that requirement until three months after IP completion day[^key-188d5b6c7d374d7af8f7d11d8c91f494].
+
+(3) Where the amendment made by paragraph 4 of Schedule 1 would (apart from this paragraph) require notice to be given under regulation 5(3D) of the European Economic Interest Grouping Regulations 1989 [^c23601371] (notification of changes to the particulars of a manager of a grouping), that requirement need not be complied with until three months after IP completion day[^key-7ce6f661a7a1e3c4a075c6298f3d58ce].
+
+(4) In this paragraph—
+
+- “**existing corporate director or secretary**” means a body corporate, or a firm that is a legal person under the law by which it is governed, whose particulars were contained in the company's register of directors or register of secretaries immediately before IP completion day[^key-47ec3cac63953888d78f8c4aefba4536];
+- “**existing corporate member or firm**” means a body corporate, or a firm that is a legal person under the law by which it is governed, whose particulars were contained in the limited liability partnership's register of members immediately before IP completion day.
+
+#### 3. Section 832 - distributions[^key-8f18244ba7da51c512e374bfb4dcc683]
+
+(1) This paragraph applies to a company that is an investment company within the meaning of section 833 of the Act immediately before IP completion day[^key-4197b90ab5fb777a56d60717d2510db8].
+
+(2) For the period of one year beginning on IP completion day[^key-0201276455b89763ff1e2736cb72d62f]—
+
+- (a) the amendment made by paragraph 12 of Schedule 1 does not apply to the company;
+- (b) section 832 of the Act applies to the company as if subsection (5)(a) was substituted by—
+
+  > - (a) the company's shares must be shares admitted to trading on a UK regulated market or an EU regulated market
+
+  .
+
+### Part 2 — Transitional provisions relating to Schedule 2
+
+#### 4. Overseas Companies Regulations 2009[^key-43d12e05cfa8bfe8fc7b0383de246748]
+
+(1) This paragraph applies to an overseas company that has a UK establishment immediately before IP completion day[^key-81c92e7402e01fc807d74dd41a649d9d].
+
+(2) If there are additional registrable particulars in respect of that establishment, the company must, within the period of three months beginning on IP completion day[^key-6bca7b751767b075f5e220cb5e04a891], deliver to the registrar a return containing those particulars.
+
+(3) The requirement in sub-paragraph (2) is to be treated, for the purposes of Part 2 of the Overseas Companies Regulations 2009, as a requirement of that Part.
+
+(4) The amendments made by paragraph 6 of Schedule 2 do not apply to the company until three months after IP completion day[^key-26cfc9c14056cfa647d129e96a0764ef].
+
+(5) In this paragraph—
+
+- “**Additional registrable particulars**” means such particulars as the company would be required to provide in a return under regulation 6 of the Overseas Companies Regulations 2009 were the company opening the establishment on the date of the return, to the extent that the company was not required already to deliver a return to the registrar containing those particulars before IP completion day[^key-473124bf7e05399c23a461727d115656];
+- “**UK establishment**” has the same meaning as it has in the Overseas Companies Regulations 2009.
+
+#### 5. Permitted disclosure to credit reference agencies, credit institutions and financial institutions[^key-5298fa548f1418af7982c841323e071b]
+
+(1) This paragraph applies to a credit reference agency, credit institution or financial institution that had, before IP completion day[^key-f19f4146d29ce6ea6b123a6126301d2c], delivered to the registrar a statement that it met the conditions for permitted disclosure in accordance with a permitted disclosure provision.
+
+(2) For the period of one year beginning on IP completion day[^key-9e9884dd981e8afc9cd598de7682c2d7]—
+
+- (a) the amendments made by these Regulations to the permitted disclosure provisions do not affect the disclosure by the registrar of protected information to the credit reference agency, credit institution or financial institution;
+- (b) the permitted disclosure provisions have effect, in relation to a credit reference agency, credit institution or financial institution, as they did immediately before IP completion day and for the purposes of this sub-paragraph the United Kingdom must be treated as if it were an EEA State and within the European Economic Area.
+
+(3) In this paragraph—
+
+- “the permitted disclosure provisions” are—
+  - (a) Schedule 2 to the Overseas Companies Regulations 2009;
+  - (b) Schedule 2 to the Companies (Disclosure of Address) Regulations 2009;
+  - (c) Schedule 2 to the Companies (Disclosure of Date of Birth Information) Regulations 2015;
+  - (d) Schedule 4 to the Register of People with Significant Control Regulations 2016; and
+  - (e) Schedule 5 to the Scottish Partnerships (Register of People with Significant Control) Regulations 2017;
+- “**credit institution**”, “**credit reference agency**” and “**financial institution**” have the same meanings as they have in the permitted disclosure provisions.
+
+#### 6. Interpretation[^key-2e4f430c269a27e179fce10c4d59ada8]
+
+Except where the contrary intention appears, expressions used in this Schedule have the same meanings as they have in the Act.
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular arising under paragraphs (a), (c), (d), and (g) of section 8(2) of the Act) arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to legislation in the field of company law and, in particular amend legislation to reflect that the UK is no longer a member state of the EU/EEA. These amendments concern certain types of business undertakings, namely companies, certain types of partnerships, limited liability partnerships and overseas companies (an overseas company is defined in section 1044 of the Companies Act 2006 (c. 46) as a company incorporated outside the United Kingdom). They also affect the data sharing provisions between the Registrar of Companies and EEA credit reference agencies, credit institutions and financial institutions, and use of EEA data processors.
+
+These Regulations further revoke the Companies (Cross-Border Mergers) Regulations 2007 which implement Chapter II of Title II of the Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 on cross-border mergers of limited liability companies, and the Commission Implementing Regulation (EU) 2015/884 of 8 June 2015 establishing technical specifications and procedures required for the system of interconnection of registers established by Directive [2009/101/EC](https://www.legislation.gov.uk/eudr/2009/101) of the European Parliament and of the Council.
+
+Part 2 revokes the Companies (Cross-Border Mergers) Regulations 2007 and other secondary legislation as a consequence of that revocation. This part also revokes the Commission Implementing Regulation (EU) 2015/884 of 8 June 2015.
+
+Part 3 gives effect to the following Schedules.
+
+Schedule 1 amends the Companies Act 2006.
+
+Schedule 2 amends secondary legislation.
+
+Schedule 3 amends other legislation, being consequential amendments in relation to application of amendments in the Companies Act 2006 to Limited Liability Partnerships. This Schedule also includes consequential amendments arising from the revocation of the Companies (Cross-Border Mergers) Regulations 2007.
+
+Schedule 4 provides for transitional provisions for certain amendments made by the other Schedules.
+
+A full impact assessment has not been published for this instrument as it has no significant impact on the costs of business, the voluntary sector and the public sector.
+
+## Annotations
+
+[^c23600991]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-8dbafb639a1a5c9ce4439f3d575c6150]: Commencement: Reg. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-3f4f418b820f65f1300b0a178324e506]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601001]: Marginal citation: See section 20(1) of the European Union (Withdrawal) Act 2018 for the meaning of “exit day”.
+
+[^key-23f4330926d89be3fe1891aeaa5f6beb]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-71a9230333408af6f3e4f7bb3cd1c85e]: Commencement: Reg. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601011]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-a93ddff0b3f5fe65e231207fab8cf590]: Commencement: Reg. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601021]: Marginal citation: [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974).
+
+[^c23601031]: Marginal citation: [S.I. 2008/583](https://www.legislation.gov.uk/uksi/2008/583).
+
+[^c23601041]: Marginal citation: [S.I. 2011/1606](https://www.legislation.gov.uk/uksi/2011/1606).
+
+[^c23601051]: Marginal citation: [S.I. 2015/180](https://www.legislation.gov.uk/uksi/2015/180).
+
+[^key-406350a83f194451f7abc3266d8ed23a]: Commencement: Reg. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-0d2a56da5d12c71622f977d24ee1ed48]: Commencement: Reg. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-35f8da9d667173e465642c1965dfeef9]: Commencement: Reg. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-2e6629bcf45e7b6a936c72fded3aef43]: Commencement: Reg. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-5dc3a31a8b9776b46da3bea1d922ac2b]: Commencement: Sch. 1 para. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-656073efbf92fbc025abb541493c88a0]: Commencement: Sch. 1 para. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601061]: Marginal citation: A definition of “UK regulated market” was inserted into section 1173(1) of the Companies Act 2006 by the [Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145).
+
+[^key-8e73de086dd4d66d61990ae7ada80a2d]: Commencement: Sch. 1 para. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601071]: Marginal citation: A definition of “EU regulated market” was inserted into section 1173(1) of the Companies Act 2006 by the [Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145).
+
+[^key-01514db524db87838693ec599181eccf]: Commencement: Sch. 1 para. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-f4960b0d319f07ec7cc277ae36d89fd3]: Commencement: Sch. 1 para. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-f4e7337e483cf247f5b8e08f3a5418a8]: Commencement: Sch. 1 para. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601081]: Marginal citation: Section 360C was inserted by [S.I. 2009/1632](https://www.legislation.gov.uk/uksi/2009/1632).
+
+[^key-b7584c581cf18a383427422371275fde]: Commencement: Sch. 1 para. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-f6b6e5dbbbc9a47086d4ea7e60af0bfd]: Commencement: Sch. 1 para. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-d56698c0f43dfbe34b2fa5eb91afa33a]: Commencement: Sch. 1 para. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-f653ea7bd5c1f7920e26f2343af33072]: Commencement: Sch. 1 para. 10 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601091]: Marginal citation: Section 790B was inserted by section 81 of, and Schedule 3 to, the Small Business, Enterprise and Employment Act [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26) and has been amended by regulation 5(2) of [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693).
+
+[^key-fa1373b743258436160bcf9646120798]: Commencement: Sch. 1 para. 11 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601101]: Marginal citation: Section 790C was inserted by section 81 of, and Schedule 3 to, the Small Business, Enterprise and Employment Act 2015 and subsection (7)(b) was substituted by regulation 6(2) of [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693).
+
+[^key-2e504f73373f52bc26e7befb48c32702]: Commencement: Sch. 1 para. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601111]: Marginal citation: Section 832(5)(a) was substituted by regulation 2(2)(a) of [S.I. 2012/952](https://www.legislation.gov.uk/uksi/2012/952).
+
+[^key-f3437fb9adce5b779cbccb15951f48e8]: Commencement: Sch. 1 para. 13 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601121]: Marginal citation: Part 24 was substituted by section 92 of the Small Business, Enterprise and Employment Act 2015 and the definition of “relevant market” in section 853E(6) was substituted by paragraph 9(6) of Schedule 4 to [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
+
+[^key-0c5be197b19ec8de3baab33072055042]: Commencement: Sch. 1 para. 14 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-f66460e45bbb9b5b74fa7a41ea2616eb]: Commencement: Sch. 1 para. 15 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-bff53d34b3b530a0b500cef086d6c2e1]: Commencement: Sch. 1 para. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-12146c5fdea567fe07bc292c0ac51954]: Commencement: Sch. 1 para. 17 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-265b47e0c8b2e5924a9679d749f735d8]: Commencement: Sch. 1 para. 18 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-987ab769f7ed81c52c54ab930a4327cb]: Commencement: Sch. 1 para. 19 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601131]: Marginal citation: Section 1079A was inserted by article 5 of [S.I. 2014/1557](https://www.legislation.gov.uk/uksi/2014/1557).
+
+[^key-9465322527cb9ec18cc1223acb8a4c15]: Commencement: Sch. 1 para. 20 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-94482bf16a51a66bfbf6bdfd6ec90b46]: Commencement: Sch. 1 para. 21 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-5429e4e5768c6e5b3499ea34b4d2d135]: Commencement: Sch. 1 para. 22 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-82780a2dfc8edab9a199fb653a641b4e]: Commencement: Sch. 1 para. 23 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-47911983f8047d2901db5e2c086832ae]: Commencement: Sch. 1 para. 24 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-f82d2d751d91984cfd4845eb9d97a215]: Commencement: Sch. 1 para. 25 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-5e784e3f6564a8ee76bf39d76ba1739c]: Commencement: Sch. 1 para. 26 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601141]: Marginal citation: The definition of transferable securities was inserted by regulation 12(2) of [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980) and amended by paragraph 9(7)(a)(ii) of Schedule 4 to [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
+
+[^c23601151]: Marginal citation: The definition of “transferable securities” in Article 2.1.24 was amended by the Markets in [Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^key-5fd3f6ad9141700db2ffc3465a41e75f]: Commencement: Sch. 1 para. 27 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-198582407f2ecb87036471c2bf49737f]: Commencement: Sch. 2 para. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601161]: Marginal citation: [S.I. 2007/2081](https://www.legislation.gov.uk/uksi/2007/2081).
+
+[^key-1e7382a2ffc33f213de0c28e741b8896]: Commencement: Sch. 2 para. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-8c0d3487385110523e767a635078f9dd]: Commencement: Sch. 2 para. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601171]: Marginal citation: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801); relevant amendments were made by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2013/472, [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), and by section 211 of, and paragraph 340 of Schedule 19 to, the Data Protection Act [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^key-7856b95da5343ed3cb0c80dc82676b29]: Commencement: Sch. 2 para. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-9d339c949e1d4c194cbf45f8d4aa84c0]: Commencement: Sch. 2 para. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-f8555da2b32bbfa771b1b60c04b3be63]: Commencement: Sch. 2 para. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-729f088920a248fb62b28b51e2c59904]: Commencement: Sch. 2 para. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-85e9cbd7d9531c4d1b70ed9f4c05faf9]: Commencement: Sch. 2 para. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601181]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^key-6932225fcd3540a8dd0f81124ee81a11]: Commencement: Sch. 2 para. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601191]: Marginal citation: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214); relevant amendments were made by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2013/472, [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), and by section 211 of, and paragraph 339 of Schedule 19 to, the Data Protection Act 2018.
+
+[^key-c59bc488c34dff35298f8ec164bd829b]: Commencement: Sch. 2 para. 10 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-76d40eaba067b9515c6a9973cc9cae52]: Commencement: Sch. 2 para. 11 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601201]: Marginal citation: [S.I. 2015/1694](https://www.legislation.gov.uk/uksi/2015/1694); relevant amendments were made by [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), and by section 211 of, and paragraph 384 of Schedule 19 to, the Data Protection Act 2018.
+
+[^key-8703187a114900a83f6308211d254bce]: Commencement: Sch. 2 para. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-9aab461c409a38c441a0fcd5d82c66ed]: Commencement: Sch. 2 para. 13 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601211]: Marginal citation: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339); relevant amendments were made by [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), [S.I](https://www.legislation.gov.uk/uksi/2017/692/section/I). 2017/693 and by section 211 of, and paragraphs 399 to 402 of Schedule 19 to, the Data Protection Act 2018.
+
+[^key-bebadc16a5dbd809a991c203f579cef1]: Commencement: Sch. 2 para. 14 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-7803027c806365b97b112d7ae4594f2c]: Commencement: Sch. 2 para. 15 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601221]: Marginal citation: [S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694); relevant amendments were made by section 211 of, and paragraph 420 of Schedule 19 to, the Data Protection Act 2018.
+
+[^key-dd155ea343cbb8a140507534439d9581]: Commencement: Sch. 2 para. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-bbfc3fc6722dc7525c4598256798d276]: Commencement: Sch. 2 para. 17 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601231]: Marginal citation: Articles 2.1.13A and 2.1.13B were inserted by the Markets in [Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^key-ddffc5cfcdda79dfa61ddd47971ce511]: Commencement: Sch. 2 para. 18 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-5fa2a747d66daab0c9e249e4db341961]: Commencement: Sch. 3 para. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601241]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); relevant amendments were made by regulations 65(3) and 65(5) of [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974).
+
+[^key-fa76b1825565e96dd35fbb0b1de09a6b]: Commencement: Sch. 3 para. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601251]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17); relevant amendments were made by regulation 59(b) of [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974) and article 2 of [S.I. 2014/431](https://www.legislation.gov.uk/uksi/2014/431).
+
+[^key-a4216bd3532dd3a56262b4eb0d6f7c56]: Commencement: Sch. 3 para. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-b33cb96fb1ee253986e46a2a746d3880]: Commencement: Sch. 3 para. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-84bd1a78b7d633fd779d4051b8d9f492]: Commencement: Sch. 3 para. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601261]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); relevant amendments were made by regulations 48(1)(b) and 48(2)(b) of [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974) and paragraph 16 of Schedule 2 of [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93).
+
+[^key-53f55203167086ce0cc8be0524c9762c]: Commencement: Sch. 3 para. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-72235b8da7448c1fd7f5825adddcb899]: Commencement: Sch. 3 para. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-23ada5e51cdccf1f317fb3c81c45e77c]: Commencement: Sch. 3 para. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601271]: Marginal citation: [2002 c. 22](https://www.legislation.gov.uk/ukpga/2002/22); relevant amendments were made by regulation 63(c) of [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974).
+
+[^key-51a9b8052e8e7471c44d25f66be41a65]: Commencement: Sch. 3 para. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601281]: Marginal citation: [S.I. 1993/2854](https://www.legislation.gov.uk/uksi/1993/2854); relevant amendments were made by regulation 64(1) to (4) of [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974).
+
+[^key-0b4c45ea9a71199cb267de1b6204c77a]: Commencement: Sch. 3 para. 10 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-75ba7a382230de44cfc9d3c7557fe6fa]: Commencement: Sch. 3 para. 11 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-986818246b8d55703b858bb0fbcb0ba6]: Commencement: Sch. 3 para. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-6c08f51970e5323bef133b27eae4f947]: Commencement: Sch. 3 para. 13 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-1519c0fc841551dd8593a9a80e2685a5]: Commencement: Sch. 3 para. 14 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-69c01c05be4fb7979456a1e1534c2d82]: Commencement: Sch. 3 para. 15 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-13c9fd8fc88eea43e94bece4c03350e6]: Commencement: Sch. 3 para. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-998937d7287b1af484bf7b9509f8e50c]: Commencement: Sch. 3 para. 17 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-a3b209352bf6a96993b86c03842840e8]: Commencement: Sch. 3 para. 18 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601291]: Marginal citation: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911); relevant amendments were made by paragraph 15(4) of Schedule 3 to [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804) and regulation 25(2) of [S.I. 2016/575](https://www.legislation.gov.uk/uksi/2016/575).
+
+[^key-bc060785338cb5eeb07a777da0b88b89]: Commencement: Sch. 3 para. 19 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-9e94caa4920b356b02fc0eda021e30a2]: Commencement: Sch. 3 para. 20 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601301]: Marginal citation: [S.I. 2009/317](https://www.legislation.gov.uk/uksi/2009/317).
+
+[^key-cb12ce88534d1149d0bba60c34e0f3c4]: Commencement: Sch. 3 para. 21 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-787197c73683ca3fe79b0dc6ddbf493e]: Commencement: Sch. 3 para. 22 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601311]: Marginal citation: [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804); relevant amendments were made by regulation 3 and Schedule 1 to [S.I. 2016/340](https://www.legislation.gov.uk/uksi/2016/340) and regulation 24(2)(a) and (3)(c) of [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693).
+
+[^key-85af16875276c6e1ceedcc16de7f412c]: Commencement: Sch. 3 para. 23 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-7ba18b5dc2de9049790182ed7d0a040f]: Commencement: Sch. 3 para. 24 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-833e82f2e9541282ab70e84b71ad2907]: Commencement: Sch. 3 para. 25 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-f02aaef0f222f8dfcf52d30145572858]: Commencement: Sch. 3 para. 26 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601321]: Marginal citation: [S.I. 2009/2437](https://www.legislation.gov.uk/uksi/2009/2437).
+
+[^key-b55db361f210fffb3900688b2fdb16c5]: Commencement: Sch. 3 para. 27 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-13efcb17c5dbbb1cd608bbd43109d7dc]: Commencement: Sch. 3 para. 28 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601331]: Marginal citation: [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93).
+
+[^key-8272e47192020052ecfdc778ccc185a3]: Commencement: Sch. 3 para. 29 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-49dcb53b16e4cc6414759040ee84af9d]: Commencement: Sch. 3 para. 30 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-428acd1f574e797a6229053c7b114be8]: Commencement: Sch. 3 para. 31 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601341]: Marginal citation: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
+
+[^key-ca9d4cfd7420bfe361c01ca8fd04f622]: Commencement: Sch. 3 para. 32 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-5510785e28becdb8eaafd09354ab82cc]: Commencement: Sch. 3 para. 33 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601351]: Marginal citation: [S.I. 2013/1893](https://www.legislation.gov.uk/uksi/2013/1893).
+
+[^key-4788f6c8d4362bf00cb9582b1d0ba2e0]: Commencement: Sch. 3 para. 34 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-e08dcf91795616f7d90f882039b09bbf]: Commencement: Sch. 3 para. 35 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^c23601361]: Marginal citation: [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348).
+
+[^key-fddc0346f336a1e92b124decdb678345]: Commencement: Sch. 3 para. 36 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-db9479ba5153f036b0398849b648d3e3]: Commencement: Sch. 4 para. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-e70406ceabc7353d9b8cbb963766aab0]: Textual amendment: Words in Sch. 4 para. 1 substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(a)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/a/i)
+
+[^key-c0c13a749abdc785afaf17b2a345d875]: Textual amendment: Words in Sch. 4 para. 1(a) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(a)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/a/ii)
+
+[^key-df27efba3faacde4cdd8c2d4a9e017fc]: Textual amendment: Words in Sch. 4 para. 1(b) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(a)(iii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/a/iii)
+
+[^key-917053d31a32b211b48adba15578b25b]: Commencement: Sch. 4 para. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-cdda9fdd67fcf7fd5cb5c57593d23b02]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(b)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/b/i)
+
+[^key-188d5b6c7d374d7af8f7d11d8c91f494]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/b/ii)
+
+[^c23601371]: Marginal citation: [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638); relevant amendment was made by regulation 5(6) of [S.I. 2014/2382](https://www.legislation.gov.uk/uksi/2014/2382).
+
+[^key-7ce6f661a7a1e3c4a075c6298f3d58ce]: Textual amendment: Words in Sch. 4 para. 2(3) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(b)(iii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/b/iii)
+
+[^key-47ec3cac63953888d78f8c4aefba4536]: Textual amendment: Words in Sch. 4 para. 2(4) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(b)(iv)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/b/iv)
+
+[^key-8f18244ba7da51c512e374bfb4dcc683]: Commencement: Sch. 4 para. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-4197b90ab5fb777a56d60717d2510db8]: Textual amendment: Words in Sch. 4 para. 3(1) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(c)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/c/i)
+
+[^key-0201276455b89763ff1e2736cb72d62f]: Textual amendment: Words in Sch. 4 para. 3(2) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(c)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/c/ii)
+
+[^key-43d12e05cfa8bfe8fc7b0383de246748]: Commencement: Sch. 4 para. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-81c92e7402e01fc807d74dd41a649d9d]: Textual amendment: Words in Sch. 4 para. 4(1) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(d)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/d/i)
+
+[^key-6bca7b751767b075f5e220cb5e04a891]: Textual amendment: Words in Sch. 4 para. 4(2) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(d)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/d/ii)
+
+[^key-26cfc9c14056cfa647d129e96a0764ef]: Textual amendment: Words in Sch. 4 para. 4(4) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(d)(iii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/d/iii)
+
+[^key-473124bf7e05399c23a461727d115656]: Textual amendment: Words in Sch. 4 para. 4(5) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(d)(iv)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/d/iv)
+
+[^key-5298fa548f1418af7982c841323e071b]: Commencement: Sch. 4 para. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+
+[^key-f19f4146d29ce6ea6b123a6126301d2c]: Textual amendment: Words in Sch. 4 para. 5(1) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(e)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/e/i)
+
+[^key-9e9884dd981e8afc9cd598de7682c2d7]: Textual amendment: Words in Sch. 4 para. 5(2) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [20(e)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/20/e/ii)
+
+[^key-2e4f430c269a27e179fce10c4d59ada8]: Commencement: Sch. 4 para. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

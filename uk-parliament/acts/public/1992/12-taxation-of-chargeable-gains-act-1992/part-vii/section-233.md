@@ -1,0 +1,64 @@
+---
+title: Taxation of Chargeable Gains Act 1992, section 233
+act: Taxation of Chargeable Gains Act 1992
+section: '233'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/12/section/233
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation of Chargeable Gains Act 1992, section 233
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 233. Chargeable event when replacement property owned.
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (3) below applies where—
+
+- (a) paragraphs (a) to (c) of section 232(1) are fulfilled, and
+- (b) the condition set out below is fulfilled.
+
+(2) The condition is that—
+
+- (a) before the time when the chargeable event occurs, all the gain carried forward by virtue of section 229(1) or (3) was in turn carried forward from all the replacement assets to other property on a replacement of business assets, and
+- (b) at the time the chargeable event occurs, the claimant or a person then connected with him is beneficially entitled to all the property.
+
+(3) In a case where this subsection applies, the claimant or connected person (as the case may be) shall be deemed for all purposes of this Act—
+
+- (a) to have disposed of all the property immediately before the time when the chargeable event occurs, and
+- (b) immediately to have reacquired it,
+
+at the relevant value.
+
+(4) The relevant value is such value as secures on the deemed disposal a chargeable gain equal to—
+
+- (a) the amount by which the amount or value of the consideration mentioned in section 229(1)(b) was treated as reduced by virtue of that provision (where it applied), or
+- (b) the amount by which the amount or value of the consideration mentioned in section 229(3)(b) was treated as reduced by virtue of that provision (where it applied).
+
+(5) In a case where subsection (3) above would apply if “all the" in subsection (2) above (in one or more places) read “any of the", subsection (3) shall nevertheless apply, but as if—
+
+- (a) in subsection (3)(a) “all the property" read “ the property concerned ”, and
+- (b) the relevant value were reduced to whatever value is just and reasonable.
+
+(6) Subsection (7) below applies where—
+
+- (a) subsection (3) above applies (whether or not by virtue of subsection (5) above), and
+- (b) before the time when the chargeable event occurs anything has happened as regards any of the replacement assets, or any other property, such that it can be said that a charge has accrued in respect of any of the gain carried forward by virtue of section 229(1) or (3).
+
+(7) If in such a case it is just and reasonable for subsection (3) above to apply as follows, it shall apply as if—
+
+- (a) the relevant value were reduced (or further reduced) to whatever value is just and reasonable, or
+- (b) the relevant value were such value as secures that on the deemed disposal neither a gain nor a loss accrues (if that is just and reasonable);
+
+but paragraph (a) above shall not apply so as to reduce the relevant value below that mentioned in paragraph (b) above.
+
+(8) For the purposes of subsections (2) and (6)(b) above the gain carried forward by virtue of section 229(1) or (3) is the gain represented by the amount which by virtue of either of those provisions falls to be deducted from the expenditure allowable in computing a gain accruing on the disposal of replacement assets (that is, the amount found under subsection (4)(a) or (b) above, as the case may be).
+
+(9) For the purposes of subsection (2) above a gain is carried forward from assets to other property on a replacement of business assets if, by one or more claims under sections 152 to 158, the chargeable gain accruing on a disposal of the assets is reduced, and as a result an amount falls to be deducted from the expenditure allowable in computing a gain accruing on the disposal of the other property.

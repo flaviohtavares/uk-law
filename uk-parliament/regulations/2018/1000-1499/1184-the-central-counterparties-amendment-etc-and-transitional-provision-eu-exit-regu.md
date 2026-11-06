@@ -1,0 +1,595 @@
+---
+title: The Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018
+id: uksi/2018/1184
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2018-11-13'
+text_date: '2025-11-28'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1184
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1184/pdfs/uksiem_20181184_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1184/pdfs/uksi_20181184_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1184/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-11-28. See https://www.legislation.gov.uk/changes/affected/uksi/2018/1184
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1184
+
+Exiting The European Union
+
+Financial Services
+
+The Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018
+
+Made
+
+13th November 2018
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+[^c2343016]The Treasury, in exercise of the powers conferred by sections 8(1) and 8(2)(a), (b), (d) and (g) of, and paragraph 1 of Schedule 4 and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 , makes the following Regulations.
+
+In accordance with paragraph 1(1) and (2) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.[^key-60ed341dbc6bb3c2f753c7e09049d639][^key-7ed4434269deab7a0d3f88356538d053]
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018.
+
+(2) Parts 2 to 5 of these Regulations come into force on exit day.
+
+(3) This Part and Part 6 of these Regulations come into force the day after the day on which they are made.
+
+(4) In these Regulations—
+
+- “**the 2000 Act**” means the Financial Services and Markets Act 2000 [^c2343017];
+- “**central counterparty**” has the meaning given in section 313(1) (interpretation of Part 18) [^c2343018] of the 2000 Act.
+- “**the EMIR Regulation**” means Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories as[^key-4ead064f56a11add62c0d282a78e2927] it forms part of[^key-d2466d5d535696afaae7d616e7c869b0] assimilated[^key-0c13e4e4132137b317c2df6ee3e945e5] law.
+
+## PART 2 — Amendment of primary legislation
+
+### 2. Amendment of the 2000 Act[^key-c75e1cab7511487c14f43bf0b2df0246]
+
+The 2000 Act is amended as follows.
+
+### 3.[^key-6bc2b4852fc9d0483c3fd7a64d8d1762]
+
+(1) Section 285 (exemption for recognised bodies) is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) omit paragraph (c) [^c2343019]; and
+- (b) for paragraph (d) [^c2343020] substitute—
+
+  > - (d) “**third country central counterparty**” means a person established in a country other than the United Kingdom who has been recognised by the Bank of England as a central counterparty pursuant to Article 25 of the EMIR Regulation;
+
+  .
+
+(3) Omit subsection (3B) [^c2343021].
+
+(4) In subsection (3C) [^c2343022], for “ESMA” substitute “ the Bank of England ”.
+
+### 4.[^key-2b29410505f72b56b66036d19b957695]
+
+In section 292(6) (overseas clearing houses) [^c2343023], omit “authorised as an EEA central counterparty or”.
+
+### 5.[^key-6c0f2f8ed4bc13933bce258be5b3f1c2]
+
+In Schedule 17A (further provision in relation to the exercise of Part 18 functions by Bank of England) [^c2343024]—
+
+- (a) in paragraph 22, after “recognised clearing house” insert “ , third country central counterparty ”;
+- (b) in paragraph 32, after “recognised clearing houses,” insert “ third country central counterparties, ”;
+- (c) in paragraph 33, in sub-paragraph (a), after “recognised clearing houses,” insert “ third country central counterparties, ”; and
+- (d) in paragraph 36, in sub-paragraph (1), omit “EEA central counterparties,”.
+
+## PART 3 — Amendment of the EMIR Regulation
+
+### 6. Introduction to amendment of the EMIR Regulation[^key-0a5daf382d796be028be69c40b338e28]
+
+The EMIR Regulation is amended in accordance with this Part.
+
+### 7. Definitions[^key-609b1bad7156a8aa85bb15bee721f6bd][^key-2070308cd518af1a5c371fa758de0e1e]
+
+In Article 2, after point (31) insert—
+
+> (32) ‘third country’ means a country other than the United Kingdom;
+>
+> (33) ‘working day’ means any day other than—
+>
+> - (a) Saturday or Sunday,
+> - (b) Christmas Day or Good Friday, or
+> - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom;
+>
+> (34) ‘FCA’ means the Financial Conduct Authority;
+>
+> (35) ‘PRA’ means the Prudential Regulation Authority.
+
+### 8. Recognition of a third country CCP[^key-9343d1acc41020acb0c9455b2ce4e1d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Revocation of Level 2 Legislation
+
+### 9. Revocation of implementing acts made under Article 25.6 of the EMIR Regulation[^key-ccead75a2bd5c0d300fe701d5e53cd9a]
+
+Any implementing acts which have been adopted by the European Commission under Article 25.6 of the EMIR Regulation and are in force immediately before IP completion day[^key-5ba30c50404e185870bedf6968d2e561] are revoked.
+
+### 9A. Revocation of delegated acts made under Articles 25.2a, 25a.3 or 25d.3 of the EMIR Regulation[^key-1a1eb05c3e33553b841175a338a09d42]
+
+Any delegated acts which have been adopted by the European Commission under Articles 25.2a, 25a.3 or 25d.3 of the EMIR Regulation and are in force immediately before IP completion day are revoked.
+
+## PART 5 — Disapplication of continuation of existing acts, etc.
+
+### 10. Disapplication of ESMA recognition decisions[^key-9d49d05fa7edcef353353241569e85e1]
+
+Paragraph 37(1) of Schedule 8 to the European Union (Withdrawal) Act 2018 does not apply to a decision by the European Securities and Markets Authority to recognise a central counterparty under Article 25 of the EMIR Regulation where that decision is in force immediately before IP completion day[^key-16959233da22e55a60d28b2ad5bd8a7d].
+
+## PART 6 — Transitional provisions
+
+### 11. Interpretation
+
+In this Part—
+
+- “**applicant**” means a person who has submitted an application under regulation 12(1);
+- “**clearing**” has the meaning given in section 313(1) of the 2000 Act; and “**clearing services**”, in relation to a central counterparty, is to be read accordingly;
+- “clearing member” means an undertaking which participates in a central counterparty and which is responsible for discharging the financial obligations arising from that participation;[^key-c8ae1a7535d74069a46edc6382609c0e]
+- “client” means an undertaking with a contractual relationship with a clearing member of a central counterparty which enables that undertaking to clear its transactions with that central counterparty;
+- “**competent authority**” means a regulatory authority which is responsible for the authorisation and supervision of central counterparties in its territory; and
+- “**third country**” means a country other than the United Kingdom.
+
+### 12. Application for deemed recognition pursuant to Article 25 of the EMIR Regulation
+
+(1) A central counterparty established in a third country may apply to be recognised by the Bank of England where it intends to provide clearing services as a central counterparty in the United Kingdom on and after IP completion day[^key-d161dde8b122af9d9f84c6c868f5f288].
+
+(2) The application must—
+
+- (a) be submitted before IP completion day;
+- (b) be made in such manner as the Bank of England may direct;
+- (c) specify the services or activities linked to clearing which the applicant intends to provide and the classes of financial instrument in respect of which the applicant wishes to be recognised; and
+- (d) be accompanied by such other information as the Bank of England may direct.
+
+(3) The Bank of England must confirm promptly receipt of the application to the person making it.
+
+(4) The applicant may withdraw the application by giving notice to the Bank of England at any time before the application is determined.
+
+(5) Where the application has not been determined by the Bank of England before IP completion day, the application is to be treated on IP completion day as if it had been made on that day under Article 25.4 of the EMIR Regulation.
+
+### 13. Deemed recognition pursuant to Article 25 of the EMIR Regulation
+
+(1) The Bank of England may before IP completion day[^key-eb52dd6e41f89134e636745cc9a4b11b] determine that the applicant is to be taken, on and after IP completion day, to be recognised pursuant to Article 25 of the EMIR Regulation if each of the following conditions are met.
+
+(2) The first condition is that the Treasury has made regulations in respect of the country in which the applicant is established in accordance with regulation 14.
+
+(3) The second condition is that the applicant is—
+
+- (a) authorised in the country in which it is established, and
+- (b) subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that country.
+
+(4) The third condition is that the Bank of England has established co-operation arrangements with the competent authority responsible for supervising the applicant in accordance with regulation 16.
+
+(5) The fourth condition is that the applicant is not established or authorised in a country that is considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing [^c2343026], as having strategic deficiencies in its national anti-money laundering and counter financing of terrorism regime that poses significant threats to the financial system of the European Union.
+
+(5A)[^key-5c79b81d4e22f9e70c009157f5ef8163] The fifth condition is that the applicant has not been determined as systemically important or likely to become systemically important in accordance with regulation 13A and is therefore a Tier 1 CCP.
+
+(6) A determination under paragraph (1) must only be made in respect of the services or activities linked to clearing and must specify the services or activities which the applicant is to be taken to be recognised to provide or perform including the classes of financial instruments in respect of which the applicant is to be taken to be recognised.
+
+(7) Where the Bank of England makes a determination under paragraph (1), the applicant in respect of which the determination is made is to be taken to be recognised pursuant to Article 25 of the EMIR Regulation in accordance with that decision.
+
+### 13A. Determination of systemic importance[^key-619a3f081586edee328f42d9358789fb]
+
+(1) The Bank of England must determine whether the applicant is systemically important or likely to become systemically important for the financial stability of the United Kingdom (a “Tier 2 CCP”) by taking into account all of the following criteria—
+
+- (a) the nature, size and complexity of the applicant’s business in the United Kingdom, and outside the United Kingdom to the extent that its business may have a systemic impact on the United Kingdom, including—
+  - (i) the value in aggregate terms and in pounds sterling of transactions cleared by the applicant, or the aggregate exposure of the applicant engaged in clearing activities to its clearing members and, to the extent the information is available, their clients and indirect clients established in the United Kingdom, including where they have been identified by the PRA as other systemically important institutions (O-SIIs) in accordance with regulation 29 of the Capital Requirements (Capital Buffers and Macro-prudential Measures) Regulations 2014; and
+  - (ii) the risk profile of the applicant in terms of, amongst other things, legal, operational and business risk;
+- (b) the effect that the failure of, or a disruption to, the applicant would have on—
+  - (i) financial markets, including the liquidity of the markets served;
+  - (ii) financial institutions;
+  - (iii) the broader financial system; or
+  - (iv) the financial stability of the United Kingdom;
+- (c) the applicant’s clearing membership structure including, to the extent the information is available, the structure of its clearing members’ network of clients and indirect clients, established in the United Kingdom;
+- (d) the extent to which alternative clearing services provided by other central counterparties exist for clearing members and, to the extent the information is available, their clients and indirect clients established in the United Kingdom;
+- (e) the applicant’s relationships, interdependencies, or other interactions with other financial market infrastructures, other financial institutions and the broader financial system to the extent that it is likely to have an impact on the financial stability of the United Kingdom.
+
+(2) Without prejudice to the outcome of determination under regulation 13, the Bank of England must, after conducting the assessment in accordance with paragraph (1), inform the applicant whether it is considered to be a Tier 1 or Tier 2 CCP.
+
+(3) On and after IP completion day, an assessment under this regulation is to be taken as having been carried out in accordance with Article 25.2a of the EMIR Regulation.
+
+### 13B. Conditions for Tier 2 CCPs
+
+(1) Where the Bank of England determines that the applicant is a Tier 2 CCP in accordance with regulation 13A, it may only determine that the central counterparty should be taken to be recognised pursuant to Article 25 of the EMIR Regulation to provide certain clearing services or activities where, in addition to meeting the conditions in paragraphs (2) to (5) of regulation 13, each of the following conditions are met.
+
+(2) The first condition is that the applicant complies with the requirements set out in Article 16 and in Titles IV and V of the EMIR Regulation, as it has effect in EU law as amended from time to time (taking into account, in accordance with regulation 13C, the extent to which the applicant’s compliance with those requirements is satisfied by compliance with comparable requirements applicable in that third country).
+
+(3) The second condition is that the applicant has provided the Bank of England with—
+
+- (a) a written statement, signed by its legal representatives, expressing the unconditional consent of the applicant to—
+  - (i) provide within the time specified in a request by the Bank of England, any documents, records or information and data held by the applicant at the time the request is served, and
+  - (ii) allow the Bank of England to access any of the applicant’s business premises;
+- (b) a reasoned legal opinion by an independent legal expert confirming that the consent expressed is valid and enforceable under the relevant applicable laws.
+
+(4) The third condition is that the applicant has implemented all the necessary measures and established all necessary procedures to ensure the effective compliance with the conditions set out in paragraphs (2) and (3).
+
+### 13C. Comparable compliance
+
+(1) An applicant which has been determined to be a Tier 2 CCP may request that the Bank of England assesses whether its compliance with the applicable third country framework, taking account of the regulations made under regulation 14, may be deemed to satisfy compliance with the requirements in Article 16 and Titles IV and V of the EMIR Regulation.
+
+(2) The request shall include an explanation of why compliance with the requirements applicable in the third country satisfies the requirements set out in Articles 16 and Titles IV and V of the EMIR Regulation.
+
+(3) On and after IP completion day, a request made under this regulation is to be treated as if it were made in accordance with Article 25a of the EMIR Regulation.
+
+(4) A reference to the EMIR Regulation in this regulation is to the EMIR Regulation as it has effect in EU law as amended from time to time.
+
+### 14. Power to make regulations in respect of third countries' regulatory frameworks before IP completion day[^key-58217ffa70289627755f62fc2b7999e7]
+
+(1) The Treasury may before IP completion day[^key-11da9cc3fbff1386732a92e0c670a13e] by regulations specify that—
+
+- (a) the legal and supervisory arrangements of a third country ensure that central counterparties authorised in that country comply with legally binding requirements which are equivalent to the requirements laid down in Title IV of the EMIR Regulation, as it has effect in EU law as amended from time to time;
+- (b) central counterparties authorised in that country are subject to effective supervision and enforcement on an ongoing basis; and
+- (c) the legal framework of that country provides for an effective equivalent system for the recognition of central counterparties authorised under the legal regimes of other countries.
+
+(1A)[^key-16ce47c07aa9cc5fd9c0bf2653b07c36] Regulations made under paragraph (1) may contain such conditions for and limitations on the applicability of the regulations as the Treasury considers appropriate.
+
+(2) On and after IP completion day, regulations under paragraph (1) have effect as if made under Article 25.6 of the EMIR Regulation.
+
+### 15. Bank's power to advise Treasury on regulatory equivalence of central counterparties
+
+(1) The Bank of England may before IP completion day[^key-9725cd6c5d3a932229f8b19c695a6043] provide advice to the Treasury in connection with any regulations made or to be made by the Treasury under regulation 14.
+
+(2) On and after IP completion day, advice provided under this regulation is to be treated as having been provided in accordance with Article 25.6ZA[^key-edb249ecd30c5b42bf7ef859814e002e] of the EMIR Regulation.
+
+### 16. Cooperation arrangements between the Bank of England and the competent authorities of third countries before IP completion day[^key-cb1f63d7373eb827c285aff4227dd863]
+
+(1) Where the Treasury has made regulations under regulation 14, the Bank of England must take such steps as it considers appropriate to establish co-operation arrangements with the relevant competent authority of the third country in respect of which the regulations have been made.
+
+(2)[^key-bc66e9d9592e6600b9b8d882234f3a8b] Such arrangements are to specify such matters as the Bank of England considers appropriate, and may include—
+
+- (a) the mechanism for the exchange of information between the Bank of England and the competent authority, including access to all information requested by the Bank of England regarding central counterparties authorised in that third country, such as significant changes to risk models and parameters, extension of central counterparty activities and services, changes in the clients account structure and in the use of payment systems that substantially affect the United Kingdom;
+- (b) the mechanism for prompt notification to the Bank of England where the competent authority deems a central counterparty it is supervising to be in breach of the conditions of its authorisation or of other law to which it is subject;
+- (c) the mechanism for prompt notification to the Bank of England by the competent authority where a central counterparty it is supervising has been granted the right to provide clearing services to clearing members or clients established in the United Kingdom;
+- (d) the procedures concerning the coordination of supervisory activities;
+- (e) the procedures necessary for the effective monitoring of regulatory and supervisory developments in a third country;
+- (f) the procedures for third-country authorities to assure the effective enforcement of decisions adopted by the Bank of England;
+- (g) the procedures for third-country authorities to inform the Bank of England promptly of any emergency situations relating to the recognised central counterparty, including developments in financial markets, which may have an adverse effect on market liquidity and the stability of the financial systems of the United Kingdom and the procedures and contingency measures to address such situations.
+
+(3) On and after IP completion day[^key-6fd2fc813d1a19282d84bf350405248b], co-operation arrangements established in accordance with this regulation are to be taken as having been established in accordance with Article 25.7 of the EMIR Regulation.
+
+### 17. Eligibility for temporary deemed recognition
+
+(1) This regulation applies to a central counterparty established in a third country (‘A’) if—
+
+- (a) immediately before IP completion day[^key-cfeb497bb32c80a32799022d0bb591c8] the central counterparty is—
+  - (i) authorised in accordance with Article 17 of the EMIR Regulation as it then has effect;
+  - (ii) recognised in accordance with Article 25 of the EMIR Regulation as it then has effect; or
+  - (iii) a central counterparty to which Article 89.4 of the EMIR Regulation as it then has effect applies;
+- (b) the central counterparty has notified the Bank of England in accordance with paragraph (2) that it intends to provide clearing services as a central counterparty in the United Kingdom on and after IP completion day; and
+- (c) where the central counterparty has submitted an application under regulation 12, that application has not been determined by the Bank of England.
+
+(2) For the purposes of paragraph (1)(b), the notification must—
+
+- (a) be made before IP completion day,
+- (b) be made in such manner as the Bank of England may direct, and
+- (c) contain, or be accompanied by, such information as the Bank of England may direct.
+
+(3) The Bank of England must confirm promptly receipt of the notification to the person making it.
+
+(4) During the temporary recognition period determined under regulation 18, A is to be taken to be recognised by the Bank of England pursuant to Article 25 of the EMIR Regulation in respect of the services, activities and classes of financial instrument mentioned in paragraph (5) , and (5A)[^key-b9b8fb7de2087a30a8b200a2810bacce].
+
+(5) The services, activities and classes of financial instrument in respect of which A is to be taken to be recognised are those which meet the following conditions—
+
+- (a) the first condition is that the service, activity and class of financial instrument is one which immediately before IP completion day A is—
+  - (i) authorised to provide or perform under Article 17 of the EMIR Regulation as it then has effect;
+  - (ii) recognised to provide or perform under Article 25 of the EMIR Regulation as it then has effect; or
+  - (iii) in the case of a central counterparty to which Article 89.4 of the EMIR Regulation as it then has effect applies, authorised or recognised to provide or perform in a member State in accordance with that Article; and
+- (b) the second condition is that where A has submitted an application under regulation 12, the service, activity or class of financial instrument is specified in A's application.
+
+(5A)[^key-f8a0300ca41de9ef4ab96c17ff0a1c7e] A is also to be taken to be recognised in respect of other services, activities or classes of financial instrument which meet the following conditions—
+
+- (a) the service, activity or class of financial instrument is one which A is authorised or permitted to provide in the country in which A is established, in accordance with a system of laws or rules applicable to A that is administered by the appropriate regulator in the country concerned;
+- (b) the service, activity or class of financial instrument—
+  - (i) has been notified by A to the Bank of England in accordance with paragraph (5B) as a service, activity or class of financial instrument which A intends to provide to—
+    - (aa) clearing members, or
+    - (bb) trading venues within the meaning of Article 2 of the EMIR Regulation,
+
+    that are established in the United Kingdom, and
+  - (ii) where so notified by A, is one which A intends to provide in addition to services, activities or classes of financial instrument mentioned in paragraph (5) in respect of which A is taken to be recognised by the Bank of England.
+
+(5B) For the purposes of paragraph (5A), the notification must—
+
+- (a) be made in such manner as the Bank of England may direct, and
+- (b) contain, or be accompanied by, such information as the Bank of England may direct.
+
+(5C) The Bank of England must confirm promptly receipt of the notification to the person making it.
+
+(6) The Bank of England must publish on its website a list of central counterparties that are taken to be recognised by the Bank of England pursuant to Article 25 of the EMIR Regulation by virtue of this regulation.
+
+(7) Article 25p[^key-f8f2171af364e8101903c3389fea1f6d] of the EMIR Regulation does not apply to a central counterparty which is taken to be recognised by the Bank of England pursuant to Article 25 of the EMIR Regulation by virtue of this regulation.
+
+### 18. Temporary deemed recognition period
+
+(1) The temporary recognition period is the period of seven years[^key-633f27a4e02d4d767e31c797a70a84f7] beginning with IP completion day[^key-3d16636aa5b51650e78d2aba9b716f9b].
+
+(2) If the Treasury is satisfied that it is necessary and proportionate to avoid disruption to the financial stability of the United Kingdom, it may by regulations amend paragraph (1) to extend the temporary recognition period by a period not exceeding 12 months at a time.
+
+### 19. Cessation of temporary deemed recognition
+
+(1) A central counterparty is, on or after IP completion day[^key-6c02e3ea4455ad840e116f1a190565b3], to cease to be taken to be recognised pursuant to Article 25 of the EMIR Regulation in accordance with regulation 17 where any of the following conditions are met.
+
+(2)[^key-a4c17b33d1b52feaeee9f40336b1d86f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-a4c17b33d1b52feaeee9f40336b1d86f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The first[^key-b1cb9499786a23f9688efdc6cde7fcde] condition is that the Bank of England directs that the central counterparty is to cease to be taken to be recognised pursuant to Article 25 of the EMIR Regulation in accordance with regulation 17.
+
+(5) The second[^key-bca762f29567886fd0be4c3c92ef4959] condition is that, in the case of a central counterparty who has submitted an application under regulation 12 or Article 25.4 of the EMIR Regulation—
+
+- (a) the central counterparty withdraws their application; or
+- (b) the application is determined by the Bank of England.
+
+(6) The third[^key-55411394b28dbda1e0a7f7206e39fae3] condition is that, in the case of a central counterparty which has not submitted an application under regulation 12, the period of 18 months[^key-a3cbc48b5ea5cbe88a1bb0bbdc311777] beginning with IP completion day expires without the central counterparty having submitted an application under Article 25.4 of the EMIR Regulation during that period.
+
+(7) A direction may only be given under paragraph (4) where—
+
+- (a) the Bank of England considers that there would otherwise be an adverse effect on financial stability in the United Kingdom;
+- (b) the central counterparty has not made use of the recognition within the period of twelve months beginning with IP completion day, has expressly renounced the recognition or has provided no services or performed no activity for the preceding six months; or
+- (c) in the case of a central counterparty who has submitted an application under regulation 12 or Article 25.4 of the EMIR Regulation, the central counterparty has made false statements in relation to the application or has sought to obtain recognition by any other irregular means.
+
+### 19A. Eligibility for run-off regime[^key-db98825f2f46f702ed6c0d0c8b2d5639]
+
+(1) This regulation applies to a central counterparty established in a third country where it—
+
+- (a) meets the conditions in regulation 17(1)(a); and
+- (b) is not taken to be recognised pursuant to Article 25 of the EMIR Regulation in accordance with regulation 13 or 17.
+
+(2) This regulation also applies to a central counterparty established in a third country which ceases to be taken to be recognised pursuant to Article 25 of the EMIR Regulation in accordance with regulation 17 where—
+
+- (a) the conditions in regulation [^key-2493bfa9553b74ed22c7d755c081bda5]... 19(4), 19(5)(a) or 19(6) apply, or
+- (b) the condition in regulation 19(5)(b) applies and the Bank determines that the central counterparty should not be recognised pursuant to Article 25 of the EMIR Regulation.
+
+(3) Where this regulation applies, a central counterparty is to be taken to be recognised pursuant to Article 25 of the EMIR Regulation for the relevant period and in respect of the relevant services, activities and classes of financial instruments.
+
+(4) Article 25.5 of the EMIR Regulation does not apply to a central counterparty which is taken to be recognised pursuant to Article 25 of the EMIR Regulation by virtue of this regulation.
+
+### 19B. Relevant period for the purposes of regulation 19A
+
+(1) In relation to a central counterparty within regulation 19A(1), the relevant period for the purposes of regulation 19A(3) is the period of one year beginning with IP completion day[^key-be296e4ca1143d3a2007f69aff399deb].
+
+(2) In relation to a central counterparty within regulation 19A(2), the relevant period for the purposes of regulation 19A(3) is a period determined by the Bank of England in a particular case being a period of no more than 3 years and 6 months[^key-63518e7edee71d3a3c9cd9318639dad4] beginning with the day on which the central counterparty ceases to be taken to be recognised pursuant to Article 25 of the EMIR regulation in accordance with regulation 17.
+
+(3) Where paragraph (2) applies, the Bank may direct that the central counterparty be subject to such transitional arrangements as it considers necessary or expedient.
+
+(4)[^key-178f9d6da5556cfb6b2e00d96734bf3d] The period determined by the Bank of England in a particular case under paragraph (2) (whenever determined) may be varied by the making of a subsequent determination.
+
+(5) Paragraph (6) applies where—
+
+- (a) a central counterparty (A) was taken to be recognised pursuant to Article 25 of the EMIR regulation in accordance with regulation 19A(3), and
+- (b) A ceased to be taken to be so recognised by virtue of the relevant period in the case of A having expired before the commencement day.
+
+(6) The Bank of England—
+
+- (a) may determine that the relevant period in the case of A is (in spite of its expiry) to be treated, as from the making of the determination, as not having expired, and
+- (b) may accordingly exercise its power under this regulation to vary the relevant period on or after the commencement day.
+
+(7) In paragraphs (5) and (6) “**the commencement day**” means the day on which Part 5 of Schedule 2 to the Financial Services and Markets Act 2023 comes into force.
+
+(8) Paragraphs (5) to (7) expire at the end of 31 December 2025 (but without affecting any variation of a relevant period made under this regulation by virtue of paragraph (6)(b) before that time).
+
+### 19C. Relevant services, activities and financial instruments for the purposes of regulation 19A
+
+(1) In relation to a central counterparty within regulation 19A(1), the relevant services, activities and classes of financial instruments referred to in regulation 19A(3) are those which meet the conditions in regulation 17(5) or 17(5A)[^key-9911b5c2efa371600a14732525812198].
+
+(2) In relation to a central counterparty within regulation 19A(2), the relevant services, activities and classes of financial instruments referred to in regulation 19A(3) are those in respect of which the central counterparty was taken to be recognised pursuant to Article 25 of the EMIR Regulation in accordance with regulation 17 immediately before the central counterparty ceased to taken to be recognised in accordance with that regulation.
+
+### 19D. Cessation of eligibility for the run-off regime
+
+(1) A central counterparty is to cease to be taken to be recognised pursuant to Article 25 of the EMIR regulation in accordance with regulation 19A(3) where the conditions in paragraph (2) or (3) are met.
+
+(2) The first condition is that the central counterparty is recognised by the Bank of England pursuant to Article 25 of the EMIR Regulation.
+
+(3) The second condition is that the Bank of England determines that a central counterparty to which regulation 19A applies shall cease to be taken to be recognised pursuant to Article 25 of the EMIR Regulation in accordance with regulation 19A(3) where the Bank considers that there would otherwise be an adverse effect on the financial stability of the United Kingdom.
+
+(4) Where paragraph (3) applies, the Bank—
+
+- (a) must specify the date on which regulation 19A is to cease to apply to the central counterparty (not being a date which occurs after the end of the relevant period); and
+- (b) may direct that the cessation is to have effect subject to such transitional arrangements as it considers necessary or expedient.
+
+### 20. Regulations under this Part
+
+(1) Any power to make regulations conferred on the Treasury by this Part is exercisable by statutory instrument.
+
+(2) Such regulations may—
+
+- (a) contain incidental, supplemental, consequential and transitional provision; and
+- (b) may make different provision for different purposes.
+
+(3) A statutory instrument containing regulations made under this Part is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 21. Application of the 2000 Act to the Bank of England in relation to its functions under this Part
+
+(1) The provisions of the 2000 Act mentioned in regulations 22 to 25 are to apply in relation to the Bank of England in accordance with those regulations.
+
+(2) Any reference in the 2000 Act to the Financial Conduct Authority or Prudential Regulation Authority which is contained in, or relates to, any of those provisions (however expressed) is to be read as a reference to the Bank of England.
+
+### 22.
+
+Sections 348 to 350 and 353 (disclosure of information) [^c2343027] of the 2000 Act apply in relation to information received by the Bank of England for the purposes of, or in discharge of, any of its functions under this Part.
+
+### 23.
+
+Section 398 (misleading FCA or PRA: residual cases) [^c2343028] of the 2000 Act applies to information given to the Bank of England in purported compliance with a requirement that is imposed by or under this Part.
+
+### 24.
+
+(1) Section 401 (proceedings for offences) [^c2343029] of the 2000 Act applies to the Bank of England as if for the purpose of subsections (2)(a) and (3)(a) of that section the Bank of England were the appropriate regulator in respect of an offence under section 398(1) where the information was given to the Bank of England in purported compliance with a requirement that is imposed by or under this Part.
+
+(2) Section 401(3B) of the 2000 Act has effect subject to the provision made by this regulation (so that the FCA is not the appropriate regulator for the purposes of subsections (2)(a) and (3)(a) in respect of the above offence).
+
+### 25.
+
+Paragraph 19 (annual report) [^c2343030] of Schedule 1ZB to the 2000 Act applies in relation to the recording of decisions made by the Bank of England in exercise of its functions under this Part.
+
+### 26. Fees
+
+(1) The Bank of England may require central counterparties to pay fees in connection with the discharge of any of its functions under this Part.
+
+(2) Any fee which is owed to the Bank of England under this regulation may be recovered as a debt due to the Bank.
+
+Craig Whittaker
+
+Paul Maynard
+
+Two Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in the European Union (Withdrawal) Act 2018 (c.16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union, and to make provision for the charging of fees in connection with the exercise of functions conferred upon the Bank of England by these Regulations.
+
+Part 3 amends Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (“EMIR”), and Part 2 makes consequential amendments to Part 18 of, and Schedule 17A to, the Financial Services and Markets Act 2000 (c.8).
+
+Part 4 revokes any implementing acts made under Article 25.6 of EMIR which are in force immediately before exit day. Part 5 provides that any recognition decisions made by the European Securities and Markets Authority in respect of central counterparties under Article 25 before exit day are to cease to have effect on exit day.
+
+Part 6 makes transitional provision in relation to the provision of clearing services in the United Kingdom by central counterparties who are established outside of the United Kingdom and makes provision for the charging of fees.
+
+An impact assessment of the effect that this instrument, and other instruments made by HM Treasury under the European Union (Withdrawal) Act 2018 at or about the same time, will have on the costs of business, the voluntary sector and the public sector is available from HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and is published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^c2343016]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-60ed341dbc6bb3c2f753c7e09049d639]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7ed4434269deab7a0d3f88356538d053]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1184): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c2343017]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^c2343018]: Marginal citation: The definition of central counterparty was inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^key-4ead064f56a11add62c0d282a78e2927]: Textual amendment: Words in reg. 1(4) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [4(2)](https://www.legislation.gov.uk/uksi/2020/646/regulation/4/2)
+
+[^key-d2466d5d535696afaae7d616e7c869b0]: Textual amendment: Words in reg. 1(4) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [44(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/44/2)
+
+[^key-0c13e4e4132137b317c2df6ee3e945e5]: Textual amendment: Word in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/1/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 27](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/27)
+
+[^key-c75e1cab7511487c14f43bf0b2df0246]: Commencement: Reg. 2 in force at 31.12.2020, see reg. 1(2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6bc2b4852fc9d0483c3fd7a64d8d1762]: Commencement: Reg. 3 in force at 31.12.2020, see reg. 1(2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c2343019]: Marginal citation: Paragraph (c) was substituted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504) and amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
+
+[^c2343020]: Marginal citation: Paragraph (d) was substituted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^c2343021]: Marginal citation: Subsection (3B) was inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^c2343022]: Marginal citation: Subsection (3C) was inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^key-2b29410505f72b56b66036d19b957695]: Commencement: Reg. 4 in force at 31.12.2020, see reg. 1(2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c2343023]: Marginal citation: Section 292(6) was inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^key-6c0f2f8ed4bc13933bce258be5b3f1c2]: Commencement: Reg. 5 in force at 31.12.2020, see reg. 1(2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c2343024]: Marginal citation: Schedule 17A was inserted by the paragraph 1 of Schedule 7 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Paragraphs 22, 32 and 33 were amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064). Paragraph 36 was amended by the [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504) and [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
+
+[^key-0a5daf382d796be028be69c40b338e28]: Commencement: Reg. 6 in force at 31.12.2020, see reg. 1(2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-609b1bad7156a8aa85bb15bee721f6bd]: Commencement: Reg. 7 in force at 31.12.2020, see reg. 1(2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2070308cd518af1a5c371fa758de0e1e]: Textual amendment: Reg. 7 substituted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2019/405/regulation/9)
+
+[^key-9343d1acc41020acb0c9455b2ce4e1d0]: Textual amendment: Reg. 8 omitted (25.6.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [4(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/4/3)
+
+[^key-ccead75a2bd5c0d300fe701d5e53cd9a]: Commencement: Reg. 9 in force at 31.12.2020, see reg. 1(2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5ba30c50404e185870bedf6968d2e561]: Textual amendment: Words in reg. 9 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/3/a)
+
+[^key-1a1eb05c3e33553b841175a338a09d42]: Textual amendment: Reg. 9A inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [44(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/44/3)
+
+[^key-9d49d05fa7edcef353353241569e85e1]: Commencement: Reg. 10 in force at 31.12.2020, see reg. 1(2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-16959233da22e55a60d28b2ad5bd8a7d]: Textual amendment: Words in reg. 10 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/3/b)
+
+[^key-c8ae1a7535d74069a46edc6382609c0e]: Textual amendment: Words in reg. 11 inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [4(4)](https://www.legislation.gov.uk/uksi/2020/646/regulation/4/4)
+
+[^key-d161dde8b122af9d9f84c6c868f5f288]: Textual amendment: Words in reg. 12 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/a)
+
+[^key-eb52dd6e41f89134e636745cc9a4b11b]: Textual amendment: Words in reg. 13 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/b)
+
+[^c2343026]: Marginal citation: OJ No. L 141, 5.6.2015, p. 73.
+
+[^key-5c79b81d4e22f9e70c009157f5ef8163]: Textual amendment: Reg. 13(5A) inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [4(5)](https://www.legislation.gov.uk/uksi/2020/646/regulation/4/5)
+
+[^key-619a3f081586edee328f42d9358789fb]: Textual amendment: Regs. 13A-13C inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [4(6)](https://www.legislation.gov.uk/uksi/2020/646/regulation/4/6)
+
+[^key-58217ffa70289627755f62fc2b7999e7]: Textual amendment: Words in reg. 14 heading substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/c)
+
+[^key-11da9cc3fbff1386732a92e0c670a13e]: Textual amendment: Words in reg. 14 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/c)
+
+[^key-16ce47c07aa9cc5fd9c0bf2653b07c36]: Textual amendment: Reg. 14(1A) inserted (30.6.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/628/regulation/6)
+
+[^key-9725cd6c5d3a932229f8b19c695a6043]: Textual amendment: Words in reg. 15 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/d)
+
+[^key-edb249ecd30c5b42bf7ef859814e002e]: Textual amendment: Words in reg. 15(2) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [4(7)](https://www.legislation.gov.uk/uksi/2020/646/regulation/4/7)
+
+[^key-cb1f63d7373eb827c285aff4227dd863]: Textual amendment: Words in reg. 16 heading substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/e)
+
+[^key-bc66e9d9592e6600b9b8d882234f3a8b]: Textual amendment: Reg. 16(2) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [4(8)](https://www.legislation.gov.uk/uksi/2020/646/regulation/4/8)
+
+[^key-6fd2fc813d1a19282d84bf350405248b]: Textual amendment: Words in reg. 16 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/e)
+
+[^key-cfeb497bb32c80a32799022d0bb591c8]: Textual amendment: Words in reg. 17 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(f)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/f)
+
+[^key-b9b8fb7de2087a30a8b200a2810bacce]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/17/4) inserted (15.11.2022) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2022 (S.I. 2022/1080)](https://www.legislation.gov.uk/uksi/2022/1080), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/3/2)
+
+[^key-f8a0300ca41de9ef4ab96c17ff0a1c7e]: Textual amendment: [Reg. 17(5A)-(5C)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/17/5A) inserted (15.11.2022) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2022 (S.I. 2022/1080)](https://www.legislation.gov.uk/uksi/2022/1080), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/3/3)
+
+[^key-f8f2171af364e8101903c3389fea1f6d]: Textual amendment: Words in reg. 17(7) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [4(9)](https://www.legislation.gov.uk/uksi/2020/646/regulation/4/9)
+
+[^key-633f27a4e02d4d767e31c797a70a84f7]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/18/1) substituted (28.11.2025) by [The Central Counterparties (Transitional Provision) (Extension and Amendment) Regulations 2025 (S.I. 2025/1030)](https://www.legislation.gov.uk/uksi/2025/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1030/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1030/regulation/3)
+
+[^key-3d16636aa5b51650e78d2aba9b716f9b]: Textual amendment: Words in reg. 18 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(g)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/g)
+
+[^key-6c02e3ea4455ad840e116f1a190565b3]: Textual amendment: Words in reg. 19 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(h)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/h)
+
+[^key-a4c17b33d1b52feaeee9f40336b1d86f]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/19/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/19/3) omitted (26.11.2024) by virtue of [The Collective Investment Schemes (Temporary Recognition) and Central Counterparties (Transitional Provision) (Amendment) Regulations 2024 (S.I. 2024/1215)](https://www.legislation.gov.uk/uksi/2024/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/3/2/a)
+
+[^key-b1cb9499786a23f9688efdc6cde7fcde]: Textual amendment: Word in [reg. 19(4)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/19/4) substituted (26.11.2024) by [The Collective Investment Schemes (Temporary Recognition) and Central Counterparties (Transitional Provision) (Amendment) Regulations 2024 (S.I. 2024/1215)](https://www.legislation.gov.uk/uksi/2024/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/3/2/b)
+
+[^key-bca762f29567886fd0be4c3c92ef4959]: Textual amendment: Word in [reg. 19(5)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/19/5) substituted (26.11.2024) by [The Collective Investment Schemes (Temporary Recognition) and Central Counterparties (Transitional Provision) (Amendment) Regulations 2024 (S.I. 2024/1215)](https://www.legislation.gov.uk/uksi/2024/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/3/2/c)
+
+[^key-55411394b28dbda1e0a7f7206e39fae3]: Textual amendment: Word in [reg. 19(6)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/19/6) substituted (26.11.2024) by [The Collective Investment Schemes (Temporary Recognition) and Central Counterparties (Transitional Provision) (Amendment) Regulations 2024 (S.I. 2024/1215)](https://www.legislation.gov.uk/uksi/2024/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/3/2/d)
+
+[^key-a3cbc48b5ea5cbe88a1bb0bbdc311777]: Textual amendment: Words in reg. 19(6) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [44(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/44/4)
+
+[^key-db98825f2f46f702ed6c0d0c8b2d5639]: Textual amendment: Regs. 19A-19D inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/405/regulation/8)
+
+[^key-2493bfa9553b74ed22c7d755c081bda5]: Textual amendment: Word in [reg. 19A(2)(a)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/19A/2/a) omitted (26.11.2024) by virtue of [The Collective Investment Schemes (Temporary Recognition) and Central Counterparties (Transitional Provision) (Amendment) Regulations 2024 (S.I. 2024/1215)](https://www.legislation.gov.uk/uksi/2024/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/1215/regulation/3/3)
+
+[^key-be296e4ca1143d3a2007f69aff399deb]: Textual amendment: Words in reg. 19B substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [7(2)(i)](https://www.legislation.gov.uk/uksi/2020/56/regulation/7/2/i)
+
+[^key-63518e7edee71d3a3c9cd9318639dad4]: Textual amendment: Words in [reg. 19B(2)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/19B/2) substituted (29.6.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(1)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/b), [Sch. 2 para. 51(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/51/2) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3))
+
+[^key-178f9d6da5556cfb6b2e00d96734bf3d]: Textual amendment: [Reg. 19B(4)-(8)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/19B/4) inserted (29.6.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(1)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/b), [Sch. 2 para. 51(3)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/51/3) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3))
+
+[^key-9911b5c2efa371600a14732525812198]: Textual amendment: Words in [reg. 19C(1)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/19C/1) inserted (15.11.2022) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2022 (S.I. 2022/1080)](https://www.legislation.gov.uk/uksi/2022/1080), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/3/4)
+
+[^c2343027]: Marginal citation: Section 348 was amended by paragraph 26 of Schedule 2 to the [Financial Services Act 2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), paragraph 18 of Schedule 12 to the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), paragraph 5 of Schedule 8 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), paragraph 45(2) of Schedule 2 to the [Bank of England and Financial Services Act 2016 (c.14)](https://www.legislation.gov.uk/ukpga/2016/14) and [S.I. 2016/1239](https://www.legislation.gov.uk/uksi/2016/1239). Section 349 was amended by section 964(4) of [Companies Act 2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), [S.I. 2006/1183](https://www.legislation.gov.uk/uksi/2006/1183), [S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), and paragraph 19 of Schedule 12 to the Financial Services Act 2012. Section 350 was amended by paragraph 20 of Schedule 12 to the Financial Services Act 2012. Section 353 was amended by section 61 of the [Consumer Credit Act 2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14), paragraph 23 of Schedule 12 of Financial Services Act 2012, and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
+
+[^c2343028]: Marginal citation: Section 398 was amended by the paragraph 36 of Schedule 9 to the [Financial Services Act 2012](https://www.legislation.gov.uk/ukpga/2012/21), [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I. 2015/1882](https://www.legislation.gov.uk/uksi/2015/1882), [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680), [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701) and [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135).
+
+[^c2343029]: Marginal citation: Section 401 was amended by paragraph 38 of Schedule 9 of the [Financial Services Act 2012](https://www.legislation.gov.uk/ukpga/2012/21), [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) and [S.I. 2016/1239](https://www.legislation.gov.uk/uksi/2016/1239).
+
+[^c2343030]: Marginal citation: Schedule 1 was substituted for Schedule 1ZA and 1ZB by Schedule 3 to the [Financial Services Act 2012](https://www.legislation.gov.uk/ukpga/2012/21). Paragraph 19 was amended by sections 5 and 130 of the [Financial Services (Banking Reform) Act 2013](https://www.legislation.gov.uk/ukpga/2013/33) and paragraph 50 of Schedule 2 to the [Bank of England and Financial Services Act 2016](https://www.legislation.gov.uk/ukpga/2016/14).

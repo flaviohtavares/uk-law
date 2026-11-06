@@ -1,0 +1,97 @@
+---
+title: The Income Tax (Indexation) (No.2) Order 2006
+id: uksi/2006/3241
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-12-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/3241
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/3241/pdfs/uksi_20063241_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/3241/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Indexation) (No.2) Order 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 3241
+
+income tax
+
+The Income Tax (Indexation) (No.2) Order 2006
+
+Made
+
+6th December 2006
+
+The Treasury make the following Order in exercise of the powers conferred upon them by section 257C(3) of the Income and Corporation Taxes Act 1988[^f00001]:
+
+## 1. Citation
+
+This Order may be cited as the Income Tax (Indexation) (No.2) Order 2006.
+
+## 2. Amounts of personal allowance, married couple’s allowance and blind person’s allowance for 2006-07
+
+(1) The amounts, which, unless Parliament otherwise determines, will be treated by virtue of sections 257C(1)[^f00002] and 265(1A) of the Income and Corporation Taxes Act 1988 as specified for the year 2007-08 in sections 257, 257A[^f00003], 257AB[^f00004], and 265[^f00005] of that Act are set out in paragraphs (2) to (4) below.
+
+(2) In section 257 of that Act (personal allowance)—
+
+- (a) in subsection (1) (personal allowance) — £5,225;
+- (b) in subsection (2) (personal allowance — age 65-74) - £7,550;
+- (c) in subsection (3) (personal allowance — age 75 and over) — £7,690;
+- (d) in subsection (5) (income limit for age-related allowances) — £20,900.
+
+(3) In section 257A of that Act (married couple’s allowance for couples married before 5th December 2005)—
+
+- (a) in subsection (2) (married couple’s allowance — one spouse aged 72 to 74 and born before 6<sup>th</sup> April 1935) — £6,285;
+- (b) in subsection (3) (married couple’s allowance — age 75 and over) — £6,365;
+- (c) in subsection (5) (income limit for age-related married couple’s allowance) — £ 20,900;
+- (d) in subsection (5A) (minimum married couple’s allowance) — £2,440.
+
+(4) In section 257AB of that Act (married couple’s allowance (marriages contracted and civil partnerships registered after 5<sup>th</sup> December 2005))—
+
+- (a) in subsection (2)(a) (married couple’s allowance — age 75 and over) — £6,365;
+- (b) in subsection (2)(b) (married couple’s allowance — age 72 to 74 and born before 6<sup>th</sup> April 1935) — £6,285;
+- (c) in subsection (4) (income limit for age-related allowances) — £20,900.
+- (d) in subsection (5) (minimum married couple’s allowance) — £2,440.
+
+(5) In section 265(1) of that Act (blind person’s allowance) — £1,730.
+
+Claire Ward
+
+Dave Watts
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+6th December 2006
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 257C(3) of the Income and Corporation Taxes Act 1988 (“the Act”) requires the Treasury to specify, by order made by statutory instrument before 6th April 2007, the amounts which by virtue of that section shall, unless Parliament otherwise determines, be treated as specified for the purposes of sections 257 (personal allowances), 257A (married couple’s allowances for where one spouse born before 6th April 1935 and the marriage is contracted before 5th December 2005), 257AB (married couple’s allowance for marriages contracted and civil partnerships registered on or after 5<sup>th</sup> December 2005), and 265 (blind person’s allowance) of the Act for the year of assessment 2007-08.
+
+The relevant amounts for the purposes of sections 257, 257A, 257AB and 265(1) of the Act were specified for the year 2006-7 by the Income Tax (Indexation) (No.2) Order 2005 ([S.I. 2005/3327](https://www.legislation.gov.uk/uksi/2005/3327)).
+
+For 2007-08, the amounts in those sections are increased by this Order in accordance with the percentage increase in the retail prices index for September 2006 over that for September 2005. Certain of the amounts have been rounded up to the nearest £100 in accordance with section 257C(1)(a) of the Act, and, in the case of other amounts, the increases have been rounded up to the nearest £10 in accordance with section 257C(1)(b) of the Act.
+
+The retail prices index is defined in section 833(2) of the Act, as amended by paragraph 22 of Schedule 2 to the Transfer of Functions (Registration and Statistics) Order 1996 ([S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273)), as the “general index of retail prices (for all items) published by the Office for National Statistics”. The retail prices index for September 2005 is 193.1 and for September 2006 is 200.1.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1). Sections 257 to 257F were substituted for section 257 by section 33 of the Finance Act [1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39) with effect from the year 1990-91 and subsequent years of assessment. Section 257C was amended by Part IV of Schedule 19 to the Finance Act [1990 (c.29)](https://www.legislation.gov.uk/ukpga/1990/29), and Part III (10) of Schedule 23 to, the Finance Act [1993 (c.34)](https://www.legislation.gov.uk/ukpga/1993/34), extended by section 56(2) of the Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16), and further amended by section 25(3) of the Finance Act [1999 (c.16)](https://www.legislation.gov.uk/ukpga/1999/16) and section 27(b) of the Finance Act [2002 (c.23)](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^f00002]: Footnote: Section 257C was amended by regulation 55 of [S.I.2005/3229](https://www.legislation.gov.uk/uksi/2005/3229).
+
+[^f00003]: Footnote: Sections 257 and 257A as substituted by section 33 of the Finance Act 1988 were amended by section 33 of the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26). Section 257 was further amended by paragraph 13 of Schedule 20 and Part V(10) of Schedule 41 to the Finance Act [1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8) and section 257A was further amended by paragraph 1 of Schedule 8 to, the Finance Act [1994 (c.9)](https://www.legislation.gov.uk/ukpga/1994/9) and by paragraph 14 of Schedule 20 to the Finance Act 1996 and was amended and extended by section 31 of the Finance Act 1999.
+
+[^f00004]: Footnote: Section 257AB was inserted by regulation 52 of the Tax and Civil Partnerships Regulations 2005.
+
+[^f00005]: Footnote: Section 265 was substituted by paragraph 8 of Schedule 3 to the Finance Act 1988 with effect for the year 1990-91 and subsequent years of assessment, and was amended by sections 33(10) and 57(4) of the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26), by paragraph 8 of Schedule 5 and Part VII(1) of Schedule 18 to the Finance (No.2) Act [1992 (c.48)](https://www.legislation.gov.uk/ukpga/1992/48), by paragraph 3 of Schedule 10, paragraph 6 of Schedule 21 and Part V(10) of Schedule 41 to the Finance Act [1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8), by section 56 of the Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16), by Part III(15) of Schedule 20 to the Finance Act 1999 and by paragraph 8 of Schedule 35 to the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12) with effect from 6 April 2006.

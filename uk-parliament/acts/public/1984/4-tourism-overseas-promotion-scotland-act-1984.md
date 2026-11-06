@@ -1,0 +1,67 @@
+---
+title: Tourism (Overseas Promotion) (Scotland) Act 1984.
+id: ukpga/1984/4
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1984-03-13'
+text_date: '2007-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1984/4
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1984/4/pdfs/ukpga_19840004_en.pdf
+- http://www.legislation.gov.uk/ukpga/1984/4/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Tourism (Overseas Promotion) (Scotland) Act 1984.
+
+> Text as at 2007-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Tourism (Overseas Promotion) (Scotland) Act 1984.
+
+1984 c. 4
+
+An Act to enable the Scottish Tourist Board to carry on abroad activities to promote tourism to and within Scotland.
+
+\[13th March 1984\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Power of the Scottish Tourist Board to engage outside the UK in the promotion of tourism in Scotland.
+
+(1) Notwithstanding the provisions of subsection (3) of section 2 of the [^c765184]Development of Tourism Act 1969, the powers of VisitScotland[^key-3c0d254eebda44eacc72049590732c54] under the other provisions of section 2 of that Act shall include the power to carry on any activities outside the United Kingdom for the purpose of encouraging people to visit Scotland.
+
+(2)[^c765185] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Nothing in this section shall—
+
+- (a) affect the power of the British Tourist Authority to carry on any activities outside the United Kingdom for the purpose of encouraging people to visit Scotland; or
+- (b) prevent VisitScotland[^key-2ad19c204bda852a10f09f5dc6f01f16] from acting on behalf of the Authority as mentioned in section 2(3) of the [^c765186]Development of Tourism Act 1969.
+
+## 2. Finance.
+
+There shall be paid out of moneys provided by Parliament any increase attributable to this Act in the sums so payable under the provisions of the Development of Tourism Act 1969.
+
+## 3. Short title and commencement.
+
+This Act may be cited as the Tourism (Overseas Promotion) (Scotland) Act 1984 and shall come into force at the end of the period of two months beginning with the day on which it is passed.
+
+## Annotations
+
+[^c765184]: Marginal citation: [1969 c. 51](https://www.legislation.gov.uk/ukpga/1969/51).
+
+[^key-3c0d254eebda44eacc72049590732c54]: Textual amendment: Word in s. 1(1) substituted (E.W.S.) (29.3.2007 in relation to E.W., 1.4.2007 in relation to S.) by [Tourist Boards (Scotland) Act 2006 (Consequential Modifications) Order 2007 (S.I. 2007/1103)](https://www.legislation.gov.uk/uksi/2007/1103), art. 1(1), Sch. para. 4(a); [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), s. 5(1), Sch. 2 para. 4(a); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), art. 2
+
+[^c765185]: Textual amendment: S. 1(2) repealed (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8/paragraph/21), [Sch. 9](https://www.legislation.gov.uk/ukpga/1998/46/schedule/9) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/1), [3](https://www.legislation.gov.uk/uksi/1998/3178/article/3).
+
+[^key-2ad19c204bda852a10f09f5dc6f01f16]: Textual amendment: Word in s. 1(3)(b) substituted (E.W.S.) (29.3.2007 in relation to E.W., 1.4.2007 in relation to S.) by [Tourist Boards (Scotland) Act 2006 (Consequential Modifications) Order 2007 (S.I. 2007/1103)](https://www.legislation.gov.uk/uksi/2007/1103), art. 1(1), Sch. para. 4(b); [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), s. 5(1), Sch. 2 para. 4(b); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), art. 2
+
+[^c765186]: Marginal citation: [1969 c. 51](https://www.legislation.gov.uk/ukpga/1969/51).

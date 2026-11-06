@@ -1,0 +1,455 @@
+---
+title: The Companies Act 2006 (Amendment of Schedule 2) (No. 2) Order 2009, SCHEDULE
+act: The Companies Act 2006 (Amendment of Schedule 2) (No. 2) Order 2009
+section: schedule
+status: revised-with-pending-changes
+text_date: '2011-04-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/1208/schedule
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies Act 2006 (Amendment of Schedule 2) (No. 2) Order 2009, SCHEDULE
+
+> **Warning: changes not yet applied to this text (57).** Text as at 2011-04-22. See https://www.legislation.gov.uk/changes/affected/uksi/2009/1208
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE — Substituted Schedule 2 to the Companies Act 2006[^key-b75a67b11791faa71ded6f6526f45cfc]
+
+*Extent: E+W+S+N.I.*
+
+Article 2
+
+### PART 1 — SPECIFIED PERSONS[^key-a9fd55d6bda264c87a0de00d0dbf42a9]
+
+#### (A) UNITED KINGDOM
+
+**1.** The Secretary of State.
+
+**2.** The Department of Enterprise, Trade and Investment for Northern Ireland.
+
+**3.** The Treasury.
+
+**4.** The Bank of England.
+
+**5.** The Financial Services Authority.
+
+**6.** The Commissioners for Her Majesty’s Revenue and Customs.
+
+**7.** The Lord Advocate.
+
+**8.** The Director of Public Prosecutions.
+
+**9.** The Director of Public Prosecutions for Northern Ireland.
+
+**10.** A constable.
+
+**11.** A procurator fiscal.
+
+**12.** The Scottish Ministers.
+
+#### (B) JERSEY
+
+**1.** The Minister for Economic Development.
+
+**2.** The Minister for Treasury and Resources.
+
+**3.** The Jersey Financial Services Commission.
+
+**4.** The Comptroller of Income Tax.
+
+**5.** The Agent of the Impôts.
+
+**6.** Her Majesty’s Attorney General for Jersey.
+
+**7.** The Viscount.
+
+**8.** A police officer (within the meaning of the Interpretation (Jersey) Law 1954: see Part 1 of the Schedule to that Law).
+
+#### (C) GUERNSEY
+
+**1.** The Commerce and Employment Department.
+
+**2.** The Treasury and Resources Department.
+
+**3.** The Guernsey Financial Services Commission.
+
+**4.** The Director of Income Tax.
+
+**5.** The Chief Officer of Customs and Excise.
+
+**6.** Her Majesty’s Procureur.
+
+**7.** A police officer (within the meaning of the Companies (Guernsey) Law 2008: see section 532 of that Law).
+
+#### (D) ISLE OF MAN
+
+**1.** (1) The members and officers of each of the Departments constituted by section 1(1) of the Government Departments Act 1987 (an Act of Tynwald: c. 13).
+
+(2) In sub-paragraph (1) “member” has the same meaning as it has by virtue of section 7(1) of that Act.
+
+**2.** The Treasury of the Isle of Man.
+
+**3.** The Financial Supervision Commission of the Isle of Man.
+
+**4.** Her Majesty’s Attorney General of the Isle of Man.
+
+**5.** A constable (within the meaning of the Interpretation Act 1976 (an Act of Tynwald: c. 11): see section 3 of that Act).
+
+### PART 2 — SPECIFIED DESCRIPTIONS OF DISCLOSURES[^key-9b8953ef80ba6bed7c2f568bc5918b7b]
+
+#### (A) UNITED KINGDOM
+
+**1.** A disclosure for the purpose of enabling or assisting a person authorised under section 457 of this Act (revision of defective accounts: persons authorised to apply to court) to exercise their functions.
+
+**2.** A disclosure for the purpose of enabling or assisting an inspector appointed under Part 14 of the Companies Act [1985 (c. 6)](https://www.legislation.gov.uk/ukpga/1985/6) (investigation of companies and their affairs, etc) to exercise their functions.
+
+**3.** A disclosure for the purpose of enabling or assisting a person authorised under section 447 of the Companies Act 1985 (power to require production of documents) or section 84 of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40) (exercise of powers by officer etc) to exercise their functions.
+
+**4.** A disclosure for the purpose of enabling or assisting a person appointed under section 167 of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (general investigations) to conduct an investigation to exercise their functions.
+
+**5.** A disclosure for the purpose of enabling or assisting a person appointed under section 168 of the Financial Services and Markets Act 2000 (investigations in particular cases) to conduct an investigation to exercise their functions.
+
+**6.** A disclosure for the purpose of enabling or assisting a person appointed under section 169(1)(b) of the Financial Services and Markets Act 2000 (investigation in support of overseas regulator) to conduct an investigation to exercise their functions.
+
+**7.** A disclosure for the purpose of enabling or assisting the body corporate responsible for administering the scheme referred to in section 225 of the Financial Services and Markets Act 2000 (the ombudsman scheme) to exercise its functions.
+
+**8.** A disclosure for the purpose of enabling or assisting a person appointed under paragraph 4 or 5 of Schedule 17 to the Financial Services and Markets Act 2000 (the panel of ombudsmen or the Chief Ombudsman) to exercise their functions.
+
+**9.** A disclosure for the purpose of enabling or assisting a person appointed under regulations made under section 262(1) and (2)(k) of the Financial Services and Markets Act 2000 (investigations into open-ended investment companies) to conduct an investigation to exercise their functions.
+
+**10.** A disclosure for the purpose of enabling or assisting a person appointed under section 284 of the Financial Services and Markets Act 2000 (investigations into affairs of certain collective investment schemes) to conduct an investigation to exercise their functions.
+
+**11.** A disclosure for the purpose of enabling or assisting the investigator appointed under paragraph 7 of Schedule 1 to the Financial Services and Markets Act 2000 (arrangements for investigation of complaints) to exercise their functions.
+
+**12.** A disclosure for the purpose of enabling or assisting a person appointed by the Treasury to hold an inquiry into matters relating to financial services (including an inquiry under section 15 of the Financial Services and Markets Act 2000) to exercise their functions.
+
+**13.** A disclosure for the purpose of enabling or assisting the Secretary of State or the Treasury to exercise any of their functions under any of the following—
+
+- (a) the Companies Acts;
+- (b) the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45);
+- (c) the Company Directors Disqualification Act [1986 (c. 46)](https://www.legislation.gov.uk/ukpga/1986/46);
+- (d) Part 3 (investigations and powers to obtain information) or 7 (financial markets and insolvency) of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40);
+- (e) Part 5 of the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36) (insider dealing);
+- (f) the Financial Services and Markets Act 2000;
+- (g) Part 42 of this Act (statutory auditors).
+
+**14.** A disclosure for the purpose of enabling or assisting the Scottish Ministers to exercise their functions under the enactments relating to insolvency.
+
+**15.** A disclosure for the purpose of enabling or assisting the Department of Enterprise, Trade and Investment for Northern Ireland to exercise any powers conferred on it by the enactments relating to companies or insolvency.
+
+**16.** A disclosure for the purpose of enabling or assisting a person appointed or authorised by the Department of Enterprise, Trade and Investment for Northern Ireland under the enactments relating to companies or insolvency to exercise their functions.
+
+**17.** A disclosure for the purpose of enabling or assisting an official receiver (including the Accountant in Bankruptcy in Scotland and the Official Assignee in Northern Ireland) to exercise their functions under the enactments relating to insolvency.
+
+**18.** A disclosure for the purpose of enabling or assisting the Insolvency Practitioners Tribunal to exercise its functions under the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45).
+
+**19.** A disclosure for the purpose of enabling or assisting a body that is for the time being a recognised professional body for the purposes of section 391 of the Insolvency Act 1986 (recognised professional bodies) to exercise its functions as such.
+
+**20.** A disclosure for the purpose of enabling or assisting the Pensions Regulator to exercise the functions conferred on it by or by virtue of any of the following—
+
+- (a) the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48);
+- (b) the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26);
+- (c) the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30);
+- (d) the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35);
+- (e) any enactment in force in Northern Ireland corresponding to any of those enactments.
+
+**21.** A disclosure for the purpose of enabling or assisting the Board of the Pension Protection Fund to exercise the functions conferred on it by or by virtue of Part 2 of the Pensions Act 2004 or any enactment in force in Northern Ireland corresponding to that Part.
+
+**22.** A disclosure for the purpose of enabling or assisting the Bank of England to exercise its functions.
+
+**23.** A disclosure for the purpose of enabling or assisting the Commissioners for Her Majesty’s Revenue and Customs to exercise their functions.
+
+**24.** A disclosure for the purpose of enabling or assisting organs of the Society of Lloyd’s (being organs constituted by or under the [Lloyd’s Act 1982 (c. xiv)](https://www.legislation.gov.uk/ukla/1982/14)) to exercise their functions under or by virtue of the Lloyd’s Acts 1871 to 1982.
+
+**25.** A disclosure for the purpose of enabling or assisting the Office of Fair Trading to exercise its functions under any of the following—
+
+- (a) the Fair Trading Act [1973 (c. 41)](https://www.legislation.gov.uk/ukpga/1973/41);
+- (b) the Consumer Credit Act [1974 (c. 39)](https://www.legislation.gov.uk/ukpga/1974/39);
+- (c) the Estate Agents Act [1979 (c. 38)](https://www.legislation.gov.uk/ukpga/1979/38);
+- (d) the Competition Act [1980 (c. 21)](https://www.legislation.gov.uk/ukpga/1980/21);
+- (e) the Competition Act [1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41);
+- (f) the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8);
+- (g) the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40);
+- (h) the Unfair Terms in Consumer Contracts Regulations 1999 ([S.I. 1999/2083](https://www.legislation.gov.uk/uksi/1999/2083));
+- (i) the Business Protection from Misleading Marketing Regulations 2008 ([S.I. 2008/1276](https://www.legislation.gov.uk/uksi/2008/1276));
+- (j) the Consumer Protection from Unfair Trading Regulations 2008 ([S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277)).
+
+**26.** A disclosure for the purpose of enabling or assisting the Competition Commission to exercise its functions under any of the following—
+
+- (a) the Fair Trading Act 1973;
+- (b) the Competition Act 1980;
+- (c) the Competition Act 1998;
+- (d) the Enterprise Act 2002.
+
+**27.** A disclosure with a view to the institution of, or otherwise for the purposes of, proceedings before the Competition Appeal Tribunal.
+
+**28.** A disclosure for the purpose of enabling or assisting an enforcer under Part 8 of the Enterprise Act 2002 (enforcement of consumer legislation) to exercise their functions under that Part.
+
+**29.** A disclosure for the purpose of enabling or assisting the Charity Commission to exercise its functions.
+
+**30.** A disclosure for the purpose of enabling or assisting the Attorney General to exercise their functions in connection with charities.
+
+**31.** A disclosure for the purpose of enabling or assisting the National Lottery Commission to exercise its functions under sections 5 to 10 and 15 of the National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39) (licensing and power of Secretary of State to require information).
+
+**32.** A disclosure by the National Lottery Commission to the National Audit Office for the purpose of enabling or assisting the Comptroller and Auditor General to carry out an examination under Part 2 of the National Audit Act [1983 (c. 44)](https://www.legislation.gov.uk/ukpga/1983/44) into the economy, effectiveness and efficiency with which the National Lottery Commission has used its resources in discharging its functions under sections 5 to 10 of the National Lottery etc. Act 1993.
+
+**33.** A disclosure for the purpose of enabling or assisting a qualifying body under the Unfair Terms in Consumer Contracts Regulations 1999 ([S.I. 1999/2083](https://www.legislation.gov.uk/uksi/1999/2083)) to exercise its functions under those Regulations.
+
+**34.** A disclosure for the purpose of enabling or assisting an enforcement authority under the Consumer Protection (Distance Selling) Regulations 2000 ([S.I. 2000/2334](https://www.legislation.gov.uk/uksi/2000/2334)) to exercise its functions under those Regulations.
+
+**35.** A disclosure for the purpose of enabling or assisting an enforcement authority under the Financial Services (Distance Marketing) Regulations 2004 ([S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095)) to exercise its functions under those Regulations.
+
+**36.** A disclosure for the purpose of enabling or assisting a local weights and measures authority in England and Wales to exercise its functions under section 230(2) of the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40) (notice of intention to prosecute, etc).
+
+**37.** A disclosure for the purpose of enabling or assisting the Financial Services Authority to exercise its functions under any of the following—
+
+- (a) the legislation relating to friendly societies or to industrial and provident societies;
+- (b) the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53);
+- (c) Part 7 of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40) (financial markets and insolvency);
+- (d) the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8).
+
+**38.** A disclosure for the purpose of enabling or assisting the competent authority for the purposes of Part 6 of the Financial Services and Markets Act 2000 (official listing) to exercise its functions under that Part.
+
+**39.** A disclosure for the purpose of enabling or assisting a body corporate established in accordance with section 212(1) of the Financial Services and Markets Act 2000 (compensation scheme manager) to exercise its functions.
+
+**40.** (1) A disclosure for the purpose of enabling or assisting a recognised investment exchange or a recognised clearing house to exercise its functions as such.
+
+(2) In sub-paragraph (1) “recognised investment exchange” and “recognised clearing house” have the same meaning as in section 285 of the Financial Services and Markets Act 2000.
+
+**41.** A disclosure for the purpose of enabling or assisting a person approved under the Uncertificated Securities Regulations 2001 ([S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755)) as an operator of a relevant system (within the meaning of those Regulations) to exercise their functions.
+
+**42.** A disclosure for the purpose of enabling or assisting a body designated under section 326(1) of the Financial Services and Markets Act 2000 (designated professional bodies) to exercise its functions in its capacity as a body designated under that section.
+
+**43.** A disclosure with a view to the institution of, or otherwise for the purposes of, civil proceedings arising under or by virtue of the Financial Services and Markets Act 2000.
+
+**44.** A disclosure for the purpose of enabling or assisting a body designated by order under section 1252 of this Act (delegation of functions of Secretary of State) to exercise its functions under Part 42 of this Act (statutory auditors).
+
+**45.** A disclosure for the purpose of enabling or assisting a recognised supervisory or qualifying body, within the meaning of Part 42 of this Act, to exercise its functions as such.
+
+**46.** A disclosure for the purpose of enabling or assisting the Regulator of Community Interest Companies to exercise functions under the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27).
+
+**47.** A disclosure for the purpose of enabling or assisting a person authorised by the Secretary of State under Part 2, 3 or 4 of the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29) to exercise their functions.
+
+**48.** A disclosure with a view to the institution of, or otherwise for the purposes of, proceedings on an application under section 6, 7 or 8 of the Company Directors Disqualification Act [1986 (c. 46)](https://www.legislation.gov.uk/ukpga/1986/46) (disqualification for unfitness).
+
+**49.** A disclosure with a view to the institution of, or otherwise for the purposes of, proceedings before the Financial Services and Markets Tribunal.
+
+**50.** A disclosure for the purposes of proceedings before the Pensions Regulator Tribunal.
+
+**51.** A disclosure for the purpose of enabling or assisting a body appointed under section 14 of the Companies (Audit, Investigations and Community Enterprise) Act 2004 (supervision of periodic accounts and reports of issuers of listed securities) to exercise functions mentioned in subsection (2) of that section.
+
+**52.** (1) A disclosure with a view to the institution of, or otherwise for the purposes of, disciplinary proceedings relating to the performance by a lawyer, auditor, accountant, valuer or actuary of their professional duties.
+
+(2) In sub-paragraph (1) “lawyer” means—
+
+- (a) a person who for the purposes of the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29) is an authorised person in relation to an activity that constitutes a reserved legal activity (within the meaning of that Act),
+- (b) a solicitor or barrister in Northern Ireland,
+- (c) a solicitor or advocate in Scotland, or
+- (d) a person who is a member, and entitled to practise as such, of a legal profession regulated in a jurisdiction outside the United Kingdom.
+
+(3) Until the coming into force of section 18 of the Legal Services Act 2007, the following is substituted for paragraph (a) of sub-paragraph (2) above—
+
+> - (a) a solicitor or barrister in England and Wales,
+
+.
+
+**53.** (1) A disclosure with a view to the institution of, or otherwise for the purposes of, disciplinary proceedings relating to the performance by a public servant of their duties.
+
+(2) In sub-paragraph (1) “public servant” means—
+
+- (a) an officer or employee of the Crown, or
+- (b) an officer or employee of any public or other authority for the time being designated for the purposes of this paragraph by the Secretary of State by order subject to negative resolution procedure.
+
+#### (B) JERSEY
+
+**1.** A disclosure for the purpose of enabling or assisting an inspector appointed under Part 19 of the Companies (Jersey) Law 1991 to exercise their functions.
+
+**2.** A disclosure for the purpose of enabling or assisting a person appointed under Article 33 of the Financial Services (Jersey) Law 1998 to exercise their functions.
+
+**3.** A disclosure for the purpose of enabling or assisting an inspector appointed under Article 22 of the Collective Investment Funds (Jersey) Law 1988 to exercise their functions.
+
+**4.** A disclosure for the purpose of enabling or assisting the Minister for Economic Development to exercise functions under any of the following—
+
+- (a) the Bankruptcy Désastre (Jersey) Law 1990;
+- (b) the Companies (Jersey) Law 1991;
+- (c) the Financial Services (Jersey) Law 1998.
+
+**5.** A disclosure for the purpose of enabling or assisting the Comptroller of Income Tax to exercise their functions.
+
+**6.** A disclosure for the purpose of enabling or assisting the Agent of the Impôts to exercise their functions.
+
+**7.** A disclosure for the purpose of enabling or assisting the Jersey Competition Regulatory Authority to exercise its functions.
+
+**8.** A disclosure for the purpose of enabling or assisting Her Majesty’s Attorney General for Jersey to exercise their functions in connection with charities.
+
+**9.** A disclosure for the purpose of enabling or assisting Her Majesty’s Attorney General for Jersey to exercise their functions under the Distance Selling (Jersey) Law 2007.
+
+**10.** A disclosure for the purpose of enabling or assisting the Viscount to exercise their functions in relation to désastre or in relation to Part 2 of the Proceeds of Crime (Jersey) Law 1999.
+
+**11.** A disclosure with a view to the institution of, or otherwise for the purposes of, proceedings on an application under Article 78 of the Companies (Jersey) Law 1991 (disqualification orders).
+
+**12.** (1) A disclosure with a view to the institution of, or otherwise for the purposes of, disciplinary proceedings relating to the performance by a solicitor, advocate, foreign lawyer, auditor, accountant, valuer or actuary of their professional duties.
+
+(2) In sub-paragraph (1)—
+
+- (a) “solicitor” means a person who has been admitted as a solicitor under the Advocates and Solicitors (Jersey) Law 1997;
+- (b) “advocate” means a person who has been admitted to the Bar under that Law; and
+- (c) “foreign lawyer” means a person who has not been admitted as mentioned in paragraph (a) or (b) but is a member, and entitled to practise as such, of a legal profession regulated within a jurisdiction outside Jersey.
+
+**13.** (1) A disclosure with a view to the institution of, or otherwise for the purposes of, disciplinary proceedings relating to the performance by a public servant of their duties.
+
+(2) In sub-paragraph (1) “public servant” means—
+
+- (a) an individual who holds office under, or is employed by, the Crown,
+- (b) a member, officer or employee of the States of Jersey or an officer or employee in an administration of the States of Jersey,
+- (c) a member, officer or employee of the Jersey Financial Services Commission, or
+- (d) any person exercising public functions who is declared by Order of the Minister for Economic Development to be a public servant for the purposes of paragraph 25 of the Schedule to the Companies (Takeovers and Mergers Panel) (Jersey) Law 2009.
+
+#### (C) GUERNSEY
+
+**1.** A disclosure for the purpose of enabling or assisting the Registrar of Companies appointed under the Companies (Guernsey) Law 2008 to exercise their functions under that Law.
+
+**2.** A disclosure for the purpose of enabling or assisting a person appointed under—
+
+- (a) section 27E or 41I of the Protection of Investors (Bailiwick of Guernsey) Law 1987,
+- (b) section 27 of the Banking Supervision (Bailiwick of Guernsey) Law 1994,
+- (c) section 10 of the Company Securities (Insider Dealing) (Bailiwick of Guernsey) Law 1996,
+- (d) section 24 of the Regulation of Fiduciaries, Administration Businesses and Company Directors (Bailiwick of Guernsey) Law 2000,
+- (e) section 69 of the Insurance Business (Bailiwick of Guernsey) Law 2002,
+- (f) section 46 of the Insurance Managers and Insurance Intermediaries (Bailiwick of Guernsey) Law 2002,
+- (g) section 19 of the Registration of Non-Regulated Financial Services Business (Bailiwick of Guernsey) Law 2008,
+
+to exercise their functions.
+
+**3.** A disclosure for the purpose of enabling or assisting Her Majesty’s Procureur to exercise their functions in connection with charities.
+
+**4.** A disclosure for the purpose of enabling or assisting the Guernsey Banking Deposit Compensation Scheme, established under section 46 of the Banking Supervision (Bailiwick of Guernsey) Law 1987 by the Banking Deposit Compensation Scheme (Bailiwick of Guernsey) Ordinance 2008, to exercise its functions.
+
+**5.** A disclosure for the purpose of enabling or assisting any supervisory body or professional oversight body to exercise its functions under Part XVIA of the Companies (Guernsey) Law 2008 (regulation of auditors).
+
+**6.** A disclosure with a view to the institution of, or otherwise for the purposes of, proceedings on an application under Part XXV of the Companies (Guernsey) Law 2008 (disqualification orders).
+
+**7.** (1) A disclosure with a view to the institution of, or otherwise for the purposes of, disciplinary proceedings relating to the performance by an Advocate of the Royal Court, foreign lawyer, auditor, accountant, valuer or actuary of their professional duties.
+
+(2) In sub-paragraph (1) “foreign lawyer” means a person who has not been admitted as an Advocate of the Royal Court, but is a member, and entitled to practise as such, of a legal profession regulated within a jurisdiction outside Guernsey.
+
+**8.** (1) A disclosure with a view to the institution of, or otherwise for the purposes of, disciplinary proceedings relating to the performance by a public servant of their duties.
+
+(2) In sub-paragraph (1) “public servant” means—
+
+- (a) an officer or employee of the Crown,
+- (b) a member, officer or employee of the States of Guernsey,
+- (c) a member, officer or employee of the Guernsey Financial Services Commission, or
+- (d) any person exercising public functions who is declared by regulations of the Commerce and Employment Department to be a public servant for the purposes of paragraph 17 of Schedule 6 to the Companies (Guernsey) Law 2008.
+
+#### (D) ISLE OF MAN
+
+**1.** A disclosure for the purpose of enabling or assisting an inspector appointed by the High Court of the Isle of Man under the enactments of the Isle of Man relating to companies to discharge their functions.
+
+**2.** A disclosure for the purpose of enabling or assisting a person conducting an investigation under—
+
+- (a) section 16 of the Collective Investment Schemes Act 2008 (an Act of Tynwald: c. 7);
+- (b) Schedule 2 to the Financial Services Act 2008 (an Act of Tynwald: c. 8); or
+- (c) Schedule 5 to the Insurance Act 2008 (an Act of Tynwald: c. 16),
+
+to exercise their functions.
+
+**3.** A disclosure for the purpose of enabling or assisting the Financial Supervision Commission of the Isle of Man to exercise any of its functions.
+
+**4.** A disclosure for the purpose of enabling or assisting an auditor of a permitted person (within the meaning of the Financial Services Act 2008 (an Act of Tynwald)) to exercise their functions.
+
+**5.** A disclosure for the purpose of enabling or assisting the Office of Fair Trading of the Isle of Man to exercise its functions under Schedule 4 to the Financial Services Act 2008 (an Act of Tynwald) in relation to a financial services dispute within the meaning of paragraph 1(1) of that Schedule.
+
+**6.** A disclosure for the purpose of enabling or assisting an adjudicator appointed under paragraph 4 of Schedule 4 to the Financial Services Act 2008 (an Act of Tynwald) to exercise their functions.
+
+**7.** A disclosure for the purpose of enabling or assisting the body administering a scheme under section 25 of the Financial Services Act 2008 (an Act of Tynwald) (compensation schemes) to exercise its functions under the scheme.
+
+**8.** A disclosure with a view to the institution of, or otherwise for the purposes of, civil proceedings arising under or by virtue of the Financial Services Act 2008 (an Act of Tynwald).
+
+**9.** A disclosure for the purpose of enabling or assisting—
+
+- (a) the Insurance and Pensions Authority of the Isle of Man; or
+- (b) the Retirement Benefits Schemes Supervisor of the Isle of Man,
+
+to exercise its functions under the Retirement Benefits Schemes Act 2000 (an Act of Tynwald: c 14).
+
+**10.** A disclosure for the purpose of enabling or assisting the Assessor of Income Tax to exercise their functions under enactments of the Isle of Man relating to income tax.
+
+**11.** A disclosure for the purpose of enabling or assisting the Office of Fair Trading of the Isle of Man to exercise its functions under any of the following—
+
+- (a) the Unsolicited Goods and Services (Isle of Man) Act 1974 (an Act of Tynwald: c. 5);
+- (b) the Moneylenders Act 1991 (an Act of Tynwald: c. 6);
+- (c) the Consumer Protection Act 1991 (an Act of Tynwald: c. 11);
+- (d) the Fair Trading Act 1996 (an Act of Tynwald: c. 15).
+
+**12.** A disclosure for the purpose of enabling or assisting the Department of Local Government and the Environment of the Isle of Man to exercise its functions under the Estate Agents Act 1975 (an Act of Tynwald: c. 6) or the Estate Agents Act 1999 (an Act of Tynwald: c. 7).
+
+**13.** A disclosure for the purpose of enabling or assisting Her Majesty’s Attorney General of the Isle of Man to exercise their functions in connection with charities.
+
+**14.** A disclosure for the purpose of enabling or assisting the Treasury of the Isle of Man to exercise its functions under the enactments of the Isle of Man relating to companies, insurance companies or insolvency.
+
+**15.** A disclosure for the purpose of enabling or assisting an official receiver appointed in the Isle of Man to exercise their functions under the enactments of the Isle of Man relating to insolvency.
+
+**16.** (1) A disclosure with a view to the institution of, or otherwise for the purposes of, disciplinary proceedings relating to the performance by an advocate, registered legal practitioner, auditor, accountant, valuer or actuary of their professional duties.
+
+(2) In sub-paragraph (1)—
+
+- “advocate” means a person who is qualified to act as an advocate in any court in the Island in accordance with section 7 of the Advocates Act 1976 (an Act of Tynwald: c. 27);
+- “registered legal practitioner” means a legal practitioner within the meaning of section 10 of the Legal Practitioners Registration Act 1986 (an Act of Tynwald: c. 15) who is registered within the meaning of that Act.
+
+**17.** (1) A disclosure with a view to the institution of, or otherwise for the purposes of, disciplinary proceedings relating to the performance by a public servant of their duties.
+
+(2) In sub-paragraph (1) “public servant” means—
+
+- (a) an officer or employee of the Crown, or
+- (b) an officer or employee of any public or other authority for the time being designated for the purposes of this paragraph by order made by the Council of Ministers of the Isle of Man.
+
+#### (E) GENERAL
+
+**1.** A disclosure for the purpose of enabling or assisting—
+
+- (a) the European Central Bank, or
+- (b) the central bank of any country or territory outside the British Islands,
+
+to exercise its functions.
+
+**2.** (1) A disclosure for the purpose of enabling or assisting an overseas regulatory authority to exercise its regulatory functions.
+
+(2) In sub-paragraph (1) “overseas regulatory authority” and “regulatory functions” have the same meaning as in section 82 of the Companies Act 1989 (assistance for overseas regulatory authorities).
+
+**3.** A disclosure with a view to the institution of, or otherwise for the purposes of, criminal proceedings in the British Islands or elsewhere.
+
+**4.** A disclosure for the purpose of the provision of a summary or collection of information framed in such a way as not to enable the identity of any person to whom the information relates to be ascertained.
+
+**5.** A disclosure in pursuance of any EU[^key-876ceaa8305dae90c45ccb0b8816189e] obligation.
+
+### PART 3 — OVERSEAS REGULATORY BODIES[^key-08115b7c782780d9f2105a6a6ebfa466]
+
+**1.** (1) A disclosure is made in accordance with this Part of this Schedule if—
+
+- (a) it is made to a person or body exercising relevant functions under legislation in a country or territory outside the British Islands, and
+- (b) it is made for the purpose of enabling or assisting that person or body to exercise those functions.
+
+(2) “Relevant functions” for this purpose are functions of a public nature that appear to the Panel to be similar to its own functions or those of the Financial Services Authority.
+
+**2.** In determining whether to disclose information to a person or body in accordance with this Part of this Schedule, the Panel must have regard to the following considerations—
+
+- (a) whether the use that the person or body is likely to make of the information is sufficiently important to justify making the disclosure;
+- (b) whether the person or body has adequate arrangements to prevent the information from being used or further disclosed, otherwise than—
+  - (i) for the purposes of carrying out the functions mentioned in paragraph 1(1)(a), or
+  - (ii) for other purposes substantially similar to those for which information disclosed to the Panel could be used or further disclosed.
+
+## Annotations
+
+[^key-b75a67b11791faa71ded6f6526f45cfc]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/1208/schedule) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
+
+[^key-a9fd55d6bda264c87a0de00d0dbf42a9]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/1208/schedule/part/1) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
+
+[^key-9b8953ef80ba6bed7c2f568bc5918b7b]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/1208/schedule/part/2) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
+
+[^key-876ceaa8305dae90c45ccb0b8816189e]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+
+[^key-08115b7c782780d9f2105a6a6ebfa466]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2009/1208/schedule/part/3) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)

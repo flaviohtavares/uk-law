@@ -1,0 +1,97 @@
+---
+title: 'The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Single-Use Plastics) Regulations 2022'
+id: uksi/2022/857
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-07-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/857
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/857/pdfs/uksiem_20220857_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/857/pdfs/uksi_20220857_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/857/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Single-Use Plastics) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 857
+
+United Kingdom Internal Market
+
+The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Single-Use Plastics) Regulations 2022
+
+Made
+
+21st July 2022
+
+Coming into force
+
+11th August 2022
+
+The Secretary of State, in exercise of the powers conferred by section 10(2) of the United Kingdom Internal Market Act 2020[^f00001] (“**the 2020 Act**”), makes the following Regulations.
+
+In accordance with section 10(7) and (9) of the 2020 Act, the Secretary of State has—
+
+- (a) had regard to the importance of facilitating the access to the market within Great Britain of qualifying Northern Ireland goods; and
+- (b) sought the consent of the Scottish Ministers, the Welsh Ministers and the Department for the Economy in Northern Ireland to the making of these Regulations, more than one month before the day on which they are made.
+
+A draft of this instrument was laid before, and approved by resolution of, each House of Parliament in accordance with sections 10(8) and 57(1) of the 2020 Act.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Single-Use Plastics) Regulations 2022.
+
+(2) These Regulations come into force on the twenty-first day after the day on which they are made.
+
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+## 2. Amendment of Schedule 1 to the United Kingdom Internal Market Act 2020
+
+In Schedule 1 to the United Kingdom Internal Market Act 2020 (exclusions from market access principles), after paragraph 12 there is inserted—
+
+> **Single-use plastic items**
+>
+> **13.** (1) The United Kingdom market access principles do not apply to (and sections 2(3) and 5(3) do not affect the operation of) legislation so far as it prohibits the sale of—
+>
+> - (a) single-use plastic straws;
+> - (b) single-use plastic stemmed cotton buds;
+> - (c) single-use plastic drink stirrers;
+> - (d) single-use plastic plates;
+> - (e) single-use plastic cutlery or chopsticks;
+> - (f) single-use plastic balloon sticks;
+> - (g) single-use food containers, drink containers or cups made wholly or partly from expanded or extruded polystyrene.
+>
+> (2) For the purposes of sub-paragraph (1)—
+>
+> - (a) a “single-use” item means an item which is not designed or intended to be re-used;
+> - (b) a “single-use plastic” item means a single-use item which is made wholly or partly from plastic.
+
+.
+
+Steve Double
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+21st July 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend Schedule 1 to the United Kingdom Internal Market Act [2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27) (“**the 2020 Act**”) to insert a further exclusion from the market access principles in Part 1 of the 2020 Act, in respect of certain specified single-use plastic items. The specified items are straws, plastic stemmed cotton buds, drink stirrers, plates, cutlery and chopsticks, balloon sticks, and expanded or extruded polystyrene food and drink containers and cups. In consequence of the amendment, the market access principles will not apply to, or affect the operation of, any legislation so far as it prohibits the sale of the specified items in any part of the United Kingdom. For these purposes, “sale” is defined in section 15 of the 2020 Act.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2020 c. 27](https://www.legislation.gov.uk/ukpga/2020/27).

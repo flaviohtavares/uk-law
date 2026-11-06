@@ -1,0 +1,38 @@
+---
+title: The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004, section 116
+act: The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004
+section: '116'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/865/section/116
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004, section 116
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 116. Modification of section 115 of the Police Act 1997
+
+(1) Until the coming into force of paragraph 4(4) of Schedule 35 to the Criminal Justice Act 2003[^f00109], section 115 of the Police Act 1997[^f00110] shall be read as if—
+
+- (a) in subsection (6C)—
+  - (i) the words “Part 2 of” were omitted, and
+  - (ii) for paragraph (a) there were substituted—
+
+    > - (a) medical practitioners performing primary medical services,
+
+    ; and
+- (b) in subsection (6E)—
+  - (i) in paragraph (a), the words “section 28DA of the National Health Service Act 1977 or” were omitted, and
+  - (ii) in paragraph (b), for “the 1977 Act” there were substituted “the National Health Service Act 1977”.
+
+(2) The modifications made by this article do not extend to Scotland or Northern Ireland.
+
+## Annotations
+
+[^f00109]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^f00110]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Subsections (6C) and (6E) were inserted into section 115 by the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), section 19(3) and section (6E) was amended by the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), Schedule 2, paragraph 64.

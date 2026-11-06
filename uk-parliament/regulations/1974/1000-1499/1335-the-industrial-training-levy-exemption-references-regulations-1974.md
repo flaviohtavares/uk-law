@@ -1,0 +1,224 @@
+---
+title: The Industrial Training (Levy Exemption References) Regulations 1974
+id: uksi/1974/1335
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1974-07-31'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1974/1335
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1974/1335/pdfs/uksi_19741335_en.pdf
+- http://www.legislation.gov.uk/uksi/1974/1335/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Industrial Training (Levy Exemption References) Regulations 1974
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1974 No. 1335
+
+INDUSTRIAL TRAINING
+
+The Industrial Training (Levy Exemption References) Regulations 1974
+
+Made
+
+31st July 1974
+
+Laid before Parliament
+
+12th August 1974
+
+Coming into Operation
+
+2nd September 1974
+
+The Secretary of State in exercise of the powers conferred on him by section 4B(5) of the Industrial Training Act 1964 as inserted by section 6 of and paragraph 6 of Part I of Schedule 2 to the Employment and Training Act 1973 and after consultation with the Council on Tribunals hereby makes the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Industrial Training (Levy Exemption References) Regulations 1974 and shall come into operation on 2nd September 1974.
+
+## 2. Interpretation
+
+(1) In these Regulations, unless the context otherwise requires:—
+
+- “**the Act**” means the Industrial Training Act 1964 as amended by the Employment and Training Act 1973;
+- “**the applicant**” means, in relation to a reference, the person who, having applied for or being the holder of an exemption certificate, refers the relevant decision of the Board under section 4B(4) of the Act for determination by the Referees;
+- “**the Board**” means, in relation to a reference, the respondent industrial training board;
+- “**a chairman**” means the President or a person appointed to be a chairman and in relation to a reference which has been assigned to a division of the Referees under Regulation 5 means the President or the chairman of that division as the case may require;
+- “**the clerk to the Referees**” means the person appointed by the Secretary to act in that capacity at one or more hearings;
+- “**hearing**” means a sitting of the Referees duly constituted for the purpose of receiving evidence, hearing addresses and witnesses or doing anything lawfully requisite to enable the Referees to determine a reference;
+- “**the President**” means the President of the Referees or the person nominated by the Secretary of State to discharge for the time being the functions of the President;
+- “**the Register of References**” means the Register of References kept in pursuance of these Regulations;
+- “**Rule**” means a Rule of Procedure contained in the Schedule to these Regulations;
+- “**the Secretary**” means the Secretary to the Referees for the time being and references to “**the Secretary**” shall be taken to include an assistant secretary;
+- “**the Referees**” means the Referees established by these Regulations and, in relation to a particular reference, the division to whom that reference has been assigned.
+
+(2) The Interpretation Act 1889 applies to the interpretation of these Regulations as it applies to the interpretation of an Act of Parliament.
+
+## 3. Establishment of the Referees
+
+(1) For the purpose of hearing and determining references under section 4B(4) of the Act concerning decisions of industrial training boards there shall be established Referees constituted in accordance with these regulations.
+
+(2) For the purpose aforesaid the Referees shall sit in divisions in accordance with Regulation 5 and two or more such divisions may sit at the same time.
+
+(3) The Referees shall consist of the following persons—
+
+- (a) a person appointed by the Secretary of State to be the President together with such number of persons as the Secretary of State sees fit to appoint to be chairmen;
+- (b) such number of persons as the Secretary of State sees fit to appoint to be members being persons so appointed after consultation with organisations representing employers; and
+- (c) such number of persons as the Secretary of State sees fit to appoint to be members being persons so appointed after consultation with organisations representing employees.
+
+(4) The expenses of the Referees shall be defrayed by the Secretary of State out of moneys provided by Parliament and the Secretary of State may out of such moneys pay to the President, chairmen, members and to any assessors such remuneration and allowances (including allowances for loss of remunerative time) as he may determine with the approval of the Minister for the Civil Service.
+
+(5) The President, chairmen and members appointed under this Regulation shall hold and vacate office under the terms of the instruments under which they are appointed, but may resign office by notice in writing to the Secretary of State; and any such person who ceases to hold office shall be eligible for reappointment.
+
+(6) The functions of the President under these Regulations may, if he is for any reason unable to act or during a vacancy in his office, be discharged by a person nominated for that purpose by the Secretary of State.
+
+## 4. Secretary to the Referees
+
+(1) The Secretary of State shall appoint a Secretary to the Referees and may appoint such other persons as he thinks fit to be assistant secretaries.
+
+(2) It shall be the duty of the Secretary and any assistant secretaries to make all necessary arrangements for the proper and expeditious determination of references under these Regulations.
+
+(3) The Secretary and any assistant secretaries shall carry out their duties under these Regulations in accordance with the general and special directions of the President.
+
+## 5. References
+
+(1) A reference under these regulations shall be assigned by the Secretary to a division of the Referees consisting of:—
+
+- (a) the President or a chairman who shall preside;
+- (b) one member selected from those appointed under paragraph (3)(b) of Regulation 3 above; and
+- (c) one member selected from those appointed under paragraph (3)(c) of the said Regulation.
+
+(2) If for any reason it becomes necessary the Secretary may at any time make such substitutions as respects the persons to whom a reference has been assigned as may be appropriate.
+
+(3) A reference may, with the consent of both parties, be heard in the absence of any one member of the division other than the President or as the case may be the chairman and in such a case the division shall be deemed to be properly constituted.
+
+## 6. Procedure
+
+The Rules of Procedure contained in the Schedule to these Regulations shall have effect in relation to references.
+
+Signed by order of the Secretary of State.
+
+Harold Walker
+
+Joint Parliamentary Under Secretary of State
+
+Department of Employment
+
+31st July 1974
+
+## SCHEDULE — RULES OF PROCEDURE
+
+Regulation 6
+
+### 1. Reference of Decision
+
+The applicant shall, within six months from the date upon which he receives from the Board notice of its determination not to alter its decision or not to alter it to the satisfaction of the applicant, or within six months of the coming into operation of these Regulations, whichever is later, refer the decision to the Referees by sending a notice to the Secretary setting out:—
+
+- (a) the name and address of the applicant; and
+- (b) the grounds of the reference and in particular in what respects the decision of the Board is alleged to be unsatisfactory.
+
+### 2. Registration of Reference
+
+(1) Upon receiving a notice under the preceding Rule the Secretary shall enter particulars of the reference in the Register of References and shall forthwith send a copy of the notice to the Board and shall inform the Board and the applicant in writing of the number of the reference entered in the register which shall thereafter constitute the title of the reference.
+
+(2) Upon receiving the copy of the notice the Board shall forthwith send to the Secretary and to the applicant a copy of the minute of the decision together with a statement of the reasons for that decision and the facts relied upon to support it.
+
+### 3. Further particulars
+
+The President, or a chairman to whom a reference has been assigned, may at any time direct either party to the reference to furnish any further particulars which appear to him to be requisite for the determination of the reference and the party so directed shall send the particulars to the Secretary and to the other party within 14 days of the receipt of the direction.
+
+### 4. Time and Place of Hearing
+
+The Secretary, on the directions of the President, shall fix the date, time and place of the hearing of a reference and shall not less than 14 days before the date so fixed send to the applicant and to the Board a notice stating the date, time and place.
+
+### 5. Appointment of Assessors
+
+The President, or a chairman to whom a reference has been assigned, may, in any case in which he considers it appropriate, appoint a person or persons having special knowledge or experience in relation to the subject matter of the reference to sit with the Referees as assessor or assessors.
+
+### 6. The Hearing
+
+(1) The hearing of a reference shall take place in public, unless the Referees determine at the request of the applicant or of the Board to hear the reference in private, but a member of the Council on Tribunals or of the Scottish Committee of the Council shall be entitled to attend the hearing of any reference in private in his capacity as such member.
+
+(2) If the applicant or the Board desires to submit representations in writing for consideration at the hearing the party concerned shall send such representations to the Secretary not less than 7 days before the hearing and shall at the same time send a copy thereof to the other party.
+
+### 7. Representation
+
+(1) The applicant may appear at the hearing and may be heard in person or be represented by counsel or solicitor or by any other person.
+
+(2) The Board may appear at the hearing and may be represented by any member or officer thereof or by counsel or solicitor.
+
+### 8. Procedure at Hearing
+
+(1) The applicant and the Board shall be entitled to make opening statements, to call witnesses, to cross-examine any witnesses called by the other party and to address the Referees.
+
+(2) The applicant may if he so desires give evidence on his own behalf.
+
+(3) If either or both parties fail to appear or to be represented at the time and place fixed for the hearing of a reference, the Referees may dispose of the reference in the absence of such party or parties or may adjourn the hearing to a later date;
+
+Provided that before disposing of a reference in the absence of either or both parties the Referees shall consider any representations submitted by such party or parties under Rule 6(2).
+
+(4) The Referees may require any witness to give evidence on oath or affirmation, and for that purpose may administer an oath or affirmation in due form.
+
+### 9. Determination of Referees
+
+(1) The determination of the Referees may be made by a majority and, if in accordance with regulation 5(3) the Referees shall be constituted of two persons only, the chairman shall have a second or casting vote.
+
+(2) The determination of the Referees shall be recorded in a document signed by the chairman which shall contain the reasons for the decision and shall where appropriate include a direction requiring the Board to alter their decision in such manner as may be specified in the direction and it shall be the duty of the Board to comply with the said direction.
+
+(3) The clerk to the Referees shall transmit the document signed by the chairman to the Secretary who shall as soon as may be enter it in the Register of References and shall send a copy of the entry to each of the parties.
+
+(4) The Register of References shall be kept at the Office of the Referees and shall be open to the inspection of any person without charge at all reasonable hours.
+
+(5) A chairman shall have power by certificate under his hand to correct any clerical mistake or error in a determination of the Referees arising from any accidental slip or omission.
+
+(6) A copy of any decision so corrected shall be sent with the certificate of the chairman to the Secretary who shall thereupon enter the correction in the Register of References and shall send a copy of the correct entry to each of the parties.
+
+### 10. Miscellaneous powers and duties of Referees
+
+(1) The Referees may if they think fit:—
+
+- (a) extend the time appointed by these Rules for doing any act notwithstanding that the time appointed may have expired;
+- (b) postpone the date or time fixed for, or adjourn the hearing of any reference;
+- (c) if the applicant shall at any time give notice of the abandonment of his reference, dismiss the reference;
+- (d) if the applicant and the Board agree in writing upon the terms of a decision to be made by the Referees, decide accordingly.
+
+(2) In sitting to hear any reference the Referees shall seek to avoid formality in their proceedings so far as it appears to them to be appropriate to do so.
+
+(3) Subject to the provisions of these Rules the Referees may regulate their own procedure.
+
+(4) Any act, other than the hearing and determination of a reference, required or authorised by these Rules to be done by the Referees may be done by, or on the direction of, the chairman of the Referees to whom a reference has been assigned or by the President.
+
+### 11. Applications
+
+(1) An application to the Referees for an extension of the time appointed by these Rules for doing any act shall be addressed to the Secretary and may be made by a party either before or after the expiration of the time so appointed.
+
+(2) Either party may at any time apply to the Referees for directions on any matter arising in connection with a reference.
+
+(3) An application under the foregoing provisions of this Rule or for an extension of the time for referring a decision of the Board shall be made by sending to the Secretary in duplicate a notice which where appropriate shall state the title of the reference and shall set out the grounds of the application.
+
+### 12. Notices etc
+
+(1) Any notice required by these Rules shall be in writing, and all notices and documents required or authorised by these Rules to be sent or given to any person may be sent by the recorded delivery service or delivered—
+
+- (a) in the case of a document directed to the Secretary, to the Office of the Referees;
+- (b) in the case of a document directed to a Board, to the office of the Board;
+- (c) in the case of a document directed to the applicant, to his address for service specified in any notice given under these Rules, or to his last known address or place of business in the United Kingdom or, if the applicant is a company, to the company's registered office;
+
+and if sent or given to the authorised representative of the applicant or the Board shall be deemed to have been sent or given to him or the Board as the case may be.
+
+(2) The applicant may at any time by notice to the Secretary to the Referees and to the Board change his address for service under these Rules.
+
+EXPLANATORY NOTE
+
+These Regulations establish a body of Referees for the purpose of the hearing and determination of references under subsection (4) of section 4(B) of the Industrial Training Act 1964. That section, inserted in the 1964 Act by the Employment and Training Act 1973, provides for the issue of certificates of exemption from industrial training levy to employers whose training meets certain approved and published standards.
+
+The Regulations enable any employer who is dissatisfied with the decision of an Industrial Training Board as respects his application for an exemption certificate to refer that decision to the Referees, and provide for the hearing and determination of, and the rules of procedure governing, the reference.

@@ -1,0 +1,109 @@
+---
+title: The Sentencing Act 2026 (Commencement No. 1) Regulations 2026
+id: uksi/2026/86
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-02-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/86
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/86/pdfs/uksi_20260086_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/86/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sentencing Act 2026 (Commencement No. 1) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 86 (C. 11)
+
+CRIMINAL LAW, ENGLAND AND WALES
+
+The Sentencing Act 2026 (Commencement No. 1) Regulations 2026
+
+Made
+
+2nd February 2026
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 49(1) and (2) of the Sentencing Act 2026[^f00001].
+
+## 1. Citation, extent and interpretation
+
+(1) These Regulations may be cited as the Sentencing Act 2026 (Commencement No. 1) Regulations 2026.
+
+(2) These Regulations extend to England and Wales.
+
+(3) In these Regulations, “**the Act**” means the Sentencing Act 2026.
+
+## 2. Provision coming into force on 22nd March 2026
+
+Section 44 of the Act (amendments to Bail Act 1976) comes into force on 22nd March 2026.
+
+## 3. Provisions coming into force on 31st March 2026
+
+Save to the extent already in force, the following provisions of the Act come into force on 31st March 2026—
+
+- (a) section 32(4) (further release after recall: other offenders eligible for automatic release);
+- (b) save as set out in regulation 4—
+  - (i) section 30 (further release after recall: introductory);
+  - (ii) section 31 (further release after recall: relevant young offenders suitable for automatic release);
+  - (iii) section 32(1) to (3) (further release after recall: other offenders eligible for automatic release);
+  - (iv) section 33 (further release after recall: supplementary);
+  - (v) Schedule 4 (offences where offender not eligible for automatic release under section 255BA after recall).
+
+## 4. Provisions coming into force between 31st March and 12th May 2026
+
+(1) Subject to paragraph (2), in relation to a person who—
+
+- (a) has been recalled before 31st March 2026, and
+- (b) immediately before 31st March 2026 is being detained in custody as the result of having been so recalled,
+
+the provisions in regulation 3(b) come into force on the relevant day.
+
+(2) Where a person who falls within paragraph (1) is being detained as a result of the Parole Board having decided, following a reference under section 255C(4) of the Criminal Justice Act 2003[^f00002], that the person is unsuitable for release, the provisions in regulation 3(b) come into force in relation to that person on the later of—
+
+- (a) the day after the end of the period of 56 days beginning with the day after the day the decision is served on the Secretary of State, and
+- (b) the relevant day.
+
+(3) In this regulation, “**the relevant day**” means—
+
+- (a) 31st March 2026, where the relevant sentence is less than 1702 days;
+- (b) 14th April 2026, where the relevant sentence is greater than 1701 days and less than 2129 days;
+- (c) 21st April 2026, where the relevant sentence is greater than 2128 days and less than 2577 days;
+- (d) 28th April 2026, where the relevant sentence is greater than 2576 days and less than 3305 days;
+- (e) 5th May 2026, where the relevant sentence is greater than 3304 days and less than 4439 days;
+- (f) 12th May 2026, where the relevant sentence is greater than 4438 days.
+
+(4) In paragraph (3), “**the relevant sentence**” means the sentence for which a person who falls within paragraph (1) has been recalled or, where they have been recalled for more than one concurrent sentence, the longest of those sentences.
+
+Timpson
+
+Signed by the authority of the Secretary of State
+
+Ministry of Justice
+
+2nd February 2026
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force specified provisions of the Sentencing Act 2026 (“**the 2026 Act**”). These are the first commencement Regulations made under the 2026 Act.
+
+Regulation 2 brings into force section 44 of the 2026 Act. This provision amends the Bail Act 1976 to amend the ‘no real prospect’ test, the conditions for imposing electronic monitoring and the statutory factors that may be relevant to bail.
+
+Regulations 3 and 4 bring into force sections 30 to 33 of, and Schedule 4 to, the 2026 Act. These provisions amend the recall provisions of the Criminal Justice Act 2003 to provide that all offenders serving adult standard determinate sentences will serve 56 days in custody following recall, unless excluded. At the end of this period, except in exceptional circumstances, they will be re-released on licence. The 2026 Act preserves the existing recall model (prior to the commencement of the Criminal Justice Act 2003 (Suitability for Fixed Term Recall) Order 2025) for those sentenced as children to a standard determinate sentence under section 250 of the Sentencing Code or (historically) under section 91 of the Power of Criminal Courts (Sentencing) Act 2000, where they are not also serving an adult determinate sentence.
+
+An impact assessment has not been produced for this statutory instrument as no impact, or significant impact, on the private, voluntary or public sectors is foreseen. An impact assessment has been published in relation to the 2026 Act and a copy can be obtained from the Ministry of Justice, 102 Petty France, London, SW1H 9AJ, or from this website: https://publications.parliament.uk/pa/bills/cbill/59-01/0299/hcb299.ia.pdf
+
+## Annotations
+
+[^f00001]: Footnote: [2026 c. 2](https://www.legislation.gov.uk/ukpga/2026/2).
+
+[^f00002]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).

@@ -1,0 +1,294 @@
+---
+title: The Police (Retention and Disposal of Vehicles) Regulations 1995
+id: uksi/1995/723
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1995-03-10'
+text_date: '2026-07-22'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1995/723
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/723/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police (Retention and Disposal of Vehicles) Regulations 1995
+
+> Text as at 2026-07-22.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1995 No. 723
+
+POLICE
+
+The Police (Retention and Disposal of Vehicles) Regulations 1995
+
+Made
+
+10th March 1995
+
+Laid before Parliament
+
+17th March 1995
+
+Coming into force
+
+10th April 1995
+
+In exercise of the powers conferred on me by section 67(3) of the Criminal Justice and Public Order Act 1994[^f00001], I hereby make the following Regulations:
+
+## 1. Extent, citation and commencement[^key-d0e37d1d547e430193e098a950fa0556]
+
+These Regulations, which extend to England and Wales and Scotland, may be cited as the Police (Retention and Disposal of Vehicles) Regulations 1995 and shall come into force on 10th April 1995.
+
+## 2. Application and interpretation[^key-21ecbc4f3869e6f3a37c3cc4f8f9389d]
+
+(1) These Regulations apply to vehicles which have been seized and removed by a constable under section 62(1) or 64(4) of the 1994 Act.
+
+(2) In these Regulations —
+
+- “the 1994 Act” means the Criminal Justice and Public Order Act 1994;
+- “the authority” means a police officer or other person authorised by the chief officer under regulation 3(1);
+- “[^key-07dca1d613aa72c132f833a2262476e8]**email address**” means the email address provided on the vehicle’s seizure by the person from whom the vehicle was seized;
+- “G.B. registration mark” means a registration mark issued in relation to a vehicle under the Vehicle Excise and Registration Act 1994[^f00002];
+- “local authority” means —
+  - (a) in relation to England —
+    - (i) a county council or, in a county where there is no county council, a district council;
+    - (ii) a London borough council, or the Common Council of the City of London; or
+    - (iii) the Council of the Isles of Scilly;
+  - (b) in relation to Scotland —
+    - (i) until 1st April 1996, a regional or islands or district council;
+    - (ii) on or after that date, a council constituted under section 2 of the Local Government (Scotland) Act 1994[^f00003];
+  - (c) in relation to Wales —
+    - (i) until 1st April 1996, a county council;
+    - (ii) on or after that date, a county council or county borough council;
+- “owner” includes —
+  - (a) the person by whom, according to the records maintained by the Secretary of State for Transport in connection with any functions exercisable by him by virtue of the Vehicle Excise and Registration Act 1994, the vehicle is kept and used;
+  - (b) in relation to a vehicle which is the subject of a hiring agreement or a hire-purchase agreement, the person entitled to possession of the vehicle under the agreement;
+- “removal notice” means a notice complying with regulation 4;
+- “specified information”, in relation to a vehicle, means such of the following information as can be or could have been ascertained from an inspection of the vehicle, or has been ascertained from any other source, that is to say:
+  - (a) in the case of a vehicle which carries a G.B. registration mark, or a mark indicating registration in a place outside Great Britain, particulars of that mark; and
+  - (b) the make of the vehicle.
+
+## 3. Retention and safe keeping of vehicles[^key-2099eb1a13b421fdc5dd7fc1c102993b]
+
+(1) After a vehicle has been seized and removed under section 62(1) or 64(4) of the 1994 Act, it shall be passed into and remain in the custody of a police officer or other person authorised under this regulation by the chief officer of the police force for the area in which the vehicle was seized (“the authority”) until —
+
+- (a) the authority permit it to be removed from their custody by a person appearing to them to be the person from whom the vehicle was seized or the owner of the vehicle; or
+- (b) it has been disposed of or destroyed under these Regulations.
+
+(2) While the vehicle is in the custody of the authority, they shall be under a duty to take such steps as are reasonably necessary for its safe keeping.
+
+## 4. Service of removal notice[^key-dd7a7465f1e19eda1b658480773b3bea]
+
+(1) The authority shall, as soon as they are able after the vehicle has been taken into their custody, take such steps as are practicable to serve a removal notice on the person from whom the vehicle was seized, except where the vehicle has been removed from their custody under regulation 5 below.
+
+(2) A removal notice required to be served under this regulation or under regulation 6(3) below shall comply with, and shall be served in accordance with, the following provisions of this regulation.
+
+(3) The removal notice shall, in respect of the vehicle to which it relates, contain the specified information and shall state:
+
+- (a) the place where the vehicle was seized;
+- (b) the place where it is now being kept;
+- (c) that the person to whom the notice is directed is required to claim the vehicle from the authority on or before the date specified in the notice, being a date not less than 21 days *(Extent: E+W)* *(affected by repeal, see note)*[^key-8941b4782084c300c6443d9181019853] 7 days *(Extent: E+W)* from the day when the notice is served on him;
+- (d) that unless the vehicle is claimed on or before that date the authority intend to destroy or dispose of it;
+- (e) that charges are payable under these Regulations by the person from whom the vehicle was seized in respect of the removal and retention of the vehicle, and that the vehicle may be retained until such charges are paid.
+
+(4) The removal notice shall be served —
+
+- (a) by delivering it to the person to whom it is directed;
+- (b) by leaving it at his usual or last known place of abode;
+- (c) by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to him at his usual or last known place of abode; [^key-9e3508c589581ea7d02b97523dd83eda]...
+- (cc)[^key-f409d577d5c9b7e4c4a10438abd54f17] by sending it to the email address; or
+- (d) if the person is —
+  - (i) a body corporate, by delivering it to the secretary or clerk of the body at its registered or principal office, or sending it in a prepaid registered letter, or by the recorded delivery service, addressed to the secretary or clerk of the body at that office , or by sending it to the email address[^key-58219c050e0788ee6c6c384b86da8898];
+  - (ii) a Scottish partnership, by delivering it to any member of, or manager employed by, the partnership at the usual place of business of the partnership, or sending it in a prepaid registered letter, or by the recorded delivery service, addressed to such a person at that place.
+
+## 5. Removal of vehicles from custody[^key-238fe5e4b13f8eaa7b13d3cdc67276a0]
+
+(1) Subject to section 67(4) and (7) of the 1994 Act and the following provisions of these Regulations, if at any time a person satisfies the authority that he is the person from whom the vehicle was seized the authority shall permit him to remove the vehicle from their custody.
+
+(2) Paragraph (1) above does not —
+
+- (a) impose a duty on the authority where they reasonably believe that the person referred to is not the owner of the vehicle or authorised by the owner to remove the vehicle; or
+- (b) prevent the authority, in those circumstances, from returning the vehicle to its owner.
+
+## 6. Disposal and destruction of vehicles[^key-2320febf29e087112d3fbb9c4b1ae83e]
+
+(1) Where the authority have been unable to serve a removal notice on the person from whom the vehicle was seized or, following the service of a removal notice, the vehicle has not been removed from their custody under these Regulations, the authority may dispose of or destroy the vehicle in accordance with the following provisions of this regulation.
+
+(2) If the authority are satisfied that the person on whom they have served or attempted to serve a removal notice is the owner of the vehicle, they may dispose of or destroy the vehicle at any time, subject to paragraph (5) below.
+
+(3) Where the authority are not so satisfied, they may, after taking steps under paragraph (4) below to find a person who may be the owner of the vehicle and any other steps for that purpose which appear to them to be practicable, in such manner as they think fit dispose of or destroy the vehicle at any time, subject to paragraph (5) below, if —
+
+- (a) they fail to find such a person, allowing a reasonable time for any person or body from whom they have requested information to respond to the request; or
+- (b) they find such a person but he fails to comply with a removal notice served on him under this paragraph but complying with, and served in accordance with, regulation 4 above; or
+- (c) they find such a person but he is a person on whom the authority have already served or attempted to serve a removal notice under regulation 4 above.
+
+(4) The steps to be taken under this paragraph to find a person who may be the owner of the vehicle shall be such of the following as are applicable to the vehicle —
+
+- (a) if the vehicle carries a G.B. registration mark —
+  - (i) the authority shall ascertain from the records maintained by the Secretary of State for Transport in connection with any functions exercisable by him by virtue of the Vehicle Excise and Registration Act 1994 the name and address of the person by whom the vehicle is kept and used; and
+  - (ii) they shall give, where practicable, the specified information to a relevant agency and shall enquire of them whether they can make any enquiries to find the owner of the vehicle;
+- (b) if the vehicle carries a mark indicating registration in Northern Ireland, the authority shall give the specified information and a description of the place where the vehicle was seized to the Secretary of State for Transport and, where practicable, the specified information to a relevant agency and shall enquire of them whether they can make any enquiries to find the owner of the vehicle;
+- (c) if the vehicle carries a mark indicating registration in the Republic of Ireland, the authority shall give the specified information and a description of the place where the vehicle was seized to the Secretary of State for Transport, and shall enquire of him whether he can make any enquiries to find the owner of the vehicle;
+- (d) if the vehicle carries a registration mark other than one mentioned in sub-paragraphs (a) to (c) above, the authority shall, where practicable, give the specified information to a relevant agency and shall enquire of them whether they can make any enquiries to find the owner of the vehicle.
+
+(5) The authority may not destroy or dispose of the vehicle under this regulation —
+
+- (a) during the period of 3 months *(Extent: E+W)* *(affected by repeal, see note)*[^key-f9b123bab0a2e32647e347c054b576ed] 7 days *(Extent: E+W)* starting with the date on which the vehicle was seized;
+- (b) if the period in sub-paragraph (a) above has expired, until after the date specified by virtue of regulation 4(3)(c) above; or
+- (c) if not otherwise covered by sub-paragraph (a) or (b) above, during the period of 7 days starting with the date on which the vehicle is claimed under regulation 5 above.
+
+(6) In this regulation “relevant agency” means such agency maintaining records of hire purchase agreements about vehicles as the authority considers appropriate.
+
+## 7. Information to be given relating to the disposal of a vehicle[^key-21a177d63d21e558bebb5bdbf6e71852]
+
+(1) Where the authority dispose of or destroy a vehicle pursuant to these Regulations they shall, where it is possible to do so, give information relating to the disposal or destruction of the vehicle to the person from whom the vehicle was seized, to any person who appears to the authority to have been the owner of the vehicle immediately before it was disposed of, and —
+
+- (a) if the vehicle carried a G.B. registration mark, to the Secretary of State for Transport;
+- (b) if the vehicle carried a mark indicating registration in Northern Ireland, to the Secretary of State for Transport and to the Secretary of State for Northern Ireland;
+- (c) if the vehicle carried a mark indicating registration in the Republic of Ireland, to the Secretary of State for Transport and to the Commissioners of Customs and Excise;
+- (d) if the vehicle carried a registration mark other than one mentioned in sub-paragraphs (a) to (c) above, to the Commissioners of Customs and Excise.
+
+(2) In this regulation “information relating to the disposal or destruction of a vehicle” means —
+
+- (a) any information which is sufficient to relate the information now being given to any information previously given to the same person in respect of the removal, retention, disposal or destruction of the vehicle; and
+- (b) such of the specified information as has not been previously given to the same person in respect of the removal, retention, disposal or destruction of the vehicle.
+
+## 8. Payment of proceeds of sale to owner of vehicle[^key-88f3f02aba69b1781bbc3a437146e284]
+
+(1) Where the authority dispose of a vehicle in pursuance of these Regulations by means of sale, they shall pay the net proceeds of sale to any person who, before the end of the period of one year beginning with the date on which the vehicle is sold, satisfies the authority that at the time of the sale he was the owner of the vehicle.
+
+(2) If it appears to the authority that more than one person is the owner of a particular vehicle, such one of them as the authority think fit shall be treated as its owner for the purposes of paragraph (1) above.
+
+(3) In this regulation, “the net proceeds of sale” means any sum by which the proceeds of sale exceed the aggregate of such sums as may be payable under these Regulations in respect of the removal and retention of the vehicle.
+
+## 9. Charges for removal and retention of vehicles[^key-dabb374d0dcf96ff1ec0a6928727b7d5]
+
+(1) The charges for the purpose of section 67(3)(b) of the 1994 Act are—
+
+- (a) the amount payable for the removal of the vehicle as set out in paragraph (2);
+- (b) the amount payable for the retention of the vehicle as set out in paragraph (3).
+
+(2) The amount payable for the removal of the vehicle—
+
+- (a) depends upon the condition of the vehicle, the type of vehicle, whether it is on road or off road, as set out in column 1 of Table 1; and
+- (b) shall be the charge specified in relation to that vehicle in columns 2 to 5 of that Table, the particular charge to be determined by—
+  - (i) reference to the MAM of the vehicle as described in row 1 of that Table; and
+  - (ii) for vehicles exceeding 7.5 tonnes MAM and not falling within row 2 of that Table, whether the vehicle is laden or unladen.
+
+    Table 1
+
+    <table>
+    <thead>
+    <tr><th></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>1</td><td>Vehicle position and condition</td><td>Vehicle equal to or less than 3.5 tonnes MAM</td><td>Vehicle exceeding 3.5 tonnes MAM but equal to or less than 7.5 tonnes MAM</td><td>Vehicle exceeding 7.5 tonnes MAM but equal to or less than 18 tonnes MAM</td><td>Vehicle exceeding 18 tonnes MAM</td></tr>
+    <tr><td>2</td><td>Vehicle on road, upright, and not substantially damaged, or any two wheeled vehicle whatever its condition or position on or off road</td><td>£192</td><td>£256</td><td>£448</td><td>£448</td></tr>
+    <tr><td rowspan="2">3</td><td rowspan="2">Vehicle, excluding a two wheeled vehicle, on road but either not upright or substantially damaged or both</td><td rowspan="2">£320</td><td rowspan="2">£832</td><td>Unladen - £2561</td><td>Unladen - £3842</td></tr>
+    <tr><td>Laden - £3842</td><td>Laden - £5763</td></tr>
+    <tr><td rowspan="2">4</td><td rowspan="2">Vehicle, excluding a two wheeled vehicle, off road, upright and not substantially damaged</td><td rowspan="2">£256</td><td rowspan="2">£512</td><td>Unladen - £1281</td><td>Unladen - £1921</td></tr>
+    <tr><td>Laden - £1921</td><td>Laden - £2561</td></tr>
+    <tr><td rowspan="2">5</td><td rowspan="2">Vehicle, excluding a two wheeled vehicle, off road but either not upright or substantially damaged or both</td><td rowspan="2">£384</td><td rowspan="2">£1089</td><td>Unladen - £3842</td><td>Unladen - £5763</td></tr>
+    <tr><td>Laden - £5763</td><td>Laden - £7684</td></tr>
+    </tbody>
+    </table>
+
+(3) The amount payable for the retention of the vehicle, for each period of 24 hours or a part thereof during which the vehicle is in the custody of the authority, with regards to vehicles set out in row 1 of Table 2, is the charge specified in relation to those vehicles in row 2 of that Table.
+
+Table 2
+
+|  | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Two wheeled vehicle | Vehicle, not including two wheeled vehicle, equal to or less than 3.5 tonnes MAM | Vehicle exceeding 3.5 tonnes MAM but equal to or less than 7.5 tonnes MAM | Vehicle exceeding 7.5 tonnes MAM but equal to or less than 18 tonnes MAM | Vehicle exceeding 18 tonnes MAM |
+| 2 | £13 | £26 | £32 | £38 | £45 |
+
+(4) For the purpose of this regulation, the MAM of a vehicle includes the MAM of any trailer attached to that vehicle.
+
+(5) For the purposes of Table 1 a vehicle will only be considered upright if all the parts of the vehicle are upright.
+
+(6) For the purposes of paragraph (3), each period of 24 hours shall be reckoned from noon on the first day after removal during which the place at which the vehicle is stored is open for the claiming of vehicles before noon.
+
+(7) For the purpose of this regulation—
+
+- “**laden**” means that the vehicle is carrying a load;
+- “**load**” means anything other than—
+- (a) the body and all parts of the vehicle which are necessary to or ordinarily used with the vehicle when working on a road;
+- (b) any water, fuel or accumulators used for the purpose of the supply of power for the propulsion of the vehicle;
+- (c) the driver, any passengers and their personal effects;
+- (d) a crane, works truck as defined in regulation 3(2) of the Road Vehicles (Construction and Use) Regulations 1986, or other special appliance or apparatus which is a permanent or essentially permanent fixture of the vehicle; and
+- (e) any containers or other equipment intended or adapted for the purpose of holding or carrying a load by the vehicle;
+
+- “**MAM**” means maximum authorised mass as defined in regulation 3(1) of the Motor Vehicles (Driving Licences) Regulations 1999;
+- “**off road**” means that no part of the vehicle is in contact with the road;
+- “**on road**” means that any part of the vehicle is in contact with the road;
+- “**road**” means any length of highway or of any other road to which the public has access, and includes bridges over which a road passes;
+- “**substantially damaged**” means such damage to a vehicle that in the reasonable opinion of a constable it cannot be driven safely on the road;
+- “**two wheeled vehicle**” means a mechanically propelled vehicle constructed or adapted to have two wheels or less and the MAM of which does not exceed 3.5 tonnes;
+- “**unladen**” means that the vehicle is not carrying a load.
+
+Michael Howard
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+10th March 1995
+
+(This note is not part of the Regulations)
+
+Under section 62 of the Criminal Justice and Public Order Act 1994 (which relates to trespassers on land) and section 64 (which relates to raves), the police have certain powers to seize and remove vehicles.
+
+These Regulations provide for the retention, safe keeping, disposal and destruction, by the police or persons authorised by them, of vehicles seized under those powers.
+
+Under regulation 4, the authority having custody of the vehicle are obliged to take steps to serve a notice on the person from whom the vehicle was seized requiring him to claim the vehicle within 21 days. The notice must indicate that charges are payable by that person and that the vehicle may be retained until these charges are paid. The level of the charges is prescribed in regulation 9.
+
+Where the authority are unable to serve a notice on the person from whom the vehicle was seized, or that person fails to remove the vehicle from their custody, the authority must take steps to identify and serve a similar notice on the owner of the vehicle, if he is a different person. Where they are unsuccessful, or the owner fails to remove the vehicle, they may destroy or dispose of the vehicle in accordance with regulations 6 and 7.
+
+Regulation 8 provides that where a vehicle is sold, the net proceeds of sale are payable to the owner of a vehicle, if he makes a claim within a year of the sale.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
+
+[^key-d0e37d1d547e430193e098a950fa0556]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+
+[^key-21ecbc4f3869e6f3a37c3cc4f8f9389d]: Commencement: Reg. 2 in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+
+[^key-07dca1d613aa72c132f833a2262476e8]: Textual amendment: Words in reg. 2(2) inserted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/331/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+
+[^f00002]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
+
+[^f00003]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-2099eb1a13b421fdc5dd7fc1c102993b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/723/regulation/3) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+
+[^key-dd7a7465f1e19eda1b658480773b3bea]: Commencement: Reg. 4 in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+
+[^key-8941b4782084c300c6443d9181019853]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/1995/723/regulation/4/3/c) substituted (E.W.) (22.7.2026) by [The Removal, Storage and Disposal of Motor Vehicles Timeframes (Amendment) Regulations 2026 (S.I. 2026/704)](https://www.legislation.gov.uk/uksi/2026/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/704/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/704/regulation/11)
+
+[^key-9e3508c589581ea7d02b97523dd83eda]: Textual amendment: Word in reg. 4(4)(c) omitted (6.4.2023) by virtue of [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/331/regulation/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+
+[^key-f409d577d5c9b7e4c4a10438abd54f17]: Textual amendment: Reg. 4(4)(cc) inserted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/331/regulation/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+
+[^key-58219c050e0788ee6c6c384b86da8898]: Textual amendment: Words in reg. 4(4)(d)(i) inserted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2023/331/regulation/4/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+
+[^key-238fe5e4b13f8eaa7b13d3cdc67276a0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/723/regulation/5) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+
+[^key-2320febf29e087112d3fbb9c4b1ae83e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/723/regulation/6) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+
+[^key-f9b123bab0a2e32647e347c054b576ed]: Textual amendment: Words in [reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/1995/723/regulation/6/5/a) substituted (E.W.) (22.7.2026) by [The Removal, Storage and Disposal of Motor Vehicles Timeframes (Amendment) Regulations 2026 (S.I. 2026/704)](https://www.legislation.gov.uk/uksi/2026/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/704/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/704/regulation/12)
+
+[^key-21a177d63d21e558bebb5bdbf6e71852]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/723/regulation/7) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+
+[^key-88f3f02aba69b1781bbc3a437146e284]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/723/regulation/8) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+
+[^key-dabb374d0dcf96ff1ec0a6928727b7d5]: Textual amendment: Reg. 9 substituted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/331/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))

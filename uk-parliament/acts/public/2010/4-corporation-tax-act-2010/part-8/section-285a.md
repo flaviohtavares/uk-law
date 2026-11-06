@@ -1,0 +1,59 @@
+---
+title: Corporation Tax Act 2010, section 285A
+act: Corporation Tax Act 2010
+section: 285A
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/285A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 285A
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 285A. Restriction on hire etc of relevant assets to be brought into account[^key-56dcae8260c837a90f7b62d6f02b66fb]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) oil contractor activities are, or are to be, carried out, and
+- (b) a company that carries on a ring fence trade makes, or is to make, one or more payments under a lease of a relevant asset, or part of a relevant asset, which is, or is to be, provided, operated or used in the relevant offshore service in question.
+
+(2) The total amount that may be brought into account in respect of the payments for the purposes of calculating the company's ring fence profits in an accounting period is limited to the hire cap.
+
+(3) The “hire cap” is an amount equal to the relevant percentage of TC for the accounting period, subject to subsection (4).
+
+(4) If payments in relation to which subsection (2) or section 356N(2) (restriction on hire for oil contractors under Part 8ZA) applies are also made, or to be made, by one or more other companies in respect of the relevant asset or part, the “hire cap” is to be such proportion of the amount mentioned in subsection (3) as is just and reasonable, having regard (in particular) to the amounts of the payments made, or to be made, by each company.
+
+(5) The “relevant percentage” and TC are to be determined in accordance with section 356N(5) to (16).
+
+(6) To the extent that, by virtue of this section, payments within subsection (1)(b) cannot be brought into account for the purposes of calculating the company's ring fence profits in an accounting period, the payments may be—
+
+- (a) allowed as a deduction from the company's total profits for the accounting period, or
+- (b) treated as a surrenderable amount of the company for the accounting period for the purposes of Part 5 (group relief) (see section 99(7)) as if they were a trading loss,
+
+but this is subject to subsection (7).
+
+(7) No deduction may be made by virtue of subsection (6) from total profits so far as they are ring fence profits or contractor's ring fence profits.
+
+(8) If the company or an associated person enters into arrangements the main purpose or one of the main purposes of which is to secure that subsection (2) does not apply in relation to one or more payments to any extent, that subsection applies in relation to the payments to the extent that it would not otherwise do so.
+
+(9) In subsection (8) “**arrangements**” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
+
+(10) In this section—
+
+- “**associated person**” has the meaning given by section 356LB;
+- “**contractor's ring fence profits**” has the meaning given by section 356LD;
+- “oil contractor activities” and “relevant offshore service” have the meaning given by section 356L;
+- “**relevant asset**” has the meaning given by section 356LA;
+- “**lease**” has the meaning given by section 868.
+
+## Annotations
+
+[^key-56dcae8260c837a90f7b62d6f02b66fb]: Textual amendment: S. 285A and cross-heading inserted (retrospective to 1.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 16 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/3), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/6)

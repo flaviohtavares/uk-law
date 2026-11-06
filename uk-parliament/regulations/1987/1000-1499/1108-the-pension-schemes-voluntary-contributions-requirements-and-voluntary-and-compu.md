@@ -1,0 +1,203 @@
+---
+title: The Pension Schemes (Voluntary Contributions Requirements and Voluntary and Compulsory Membership) Regulations 1987
+id: uksi/1987/1108
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1987-06-25'
+text_date: '2014-01-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1987/1108
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/1108/pdfs/uksi_19871108_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/1108/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pension Schemes (Voluntary Contributions Requirements and Voluntary and Compulsory Membership) Regulations 1987
+
+> Text as at 2014-01-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1987 No. 1108
+
+PENSIONS
+
+The Pension Schemes (Voluntary Contributions Requirements and Voluntary and Compulsory Membership) Regulations 1987
+
+Made
+
+25th June 1987
+
+Laid before Parliament
+
+6th July 1987
+
+Coming into force
+
+For the purposes of personal pension schemes
+
+4th January 1988
+
+For the purposes of occupational pension schemes
+
+6th April 1988
+
+The Secretary of State for Social Services, in exercise of the powers conferred upon him by sections 12(1), 15(1) and 84(1) of the Social Security Act 1986 [^c2180665], and of all other powers enabling him in that behalf, by this instrument, which is made before the end of a period of 12 months from the commencement of the enactments under which it is made, makes the following Regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Pension Schemes (Voluntary Contributions Requirements and Voluntary and Compulsory Membership) Regulations 1987 and shall come into force—
+
+- (a) for the purposes of personal pension schemes on 4th January 1988; and
+- (b) for the purposes of occupational pension schemes on 6th April 1988.
+
+(2) In these Regulations, except where the context otherwise requires—
+
+- “**the Act**” means the Pension Schemes Act 1993[^key-233d481874d389dcbe6da7ce3746c057];
+- “**normal pension age**” and “**public service pension scheme**” shall be construed in accordance with section 181(1) of the Act[^key-c73d402a0bd1b0eba5602ea6ec8cea4c];
+- “**pensionable service**” and “**relevant employment**” shall be construed in accordance with section 70 of the Act[^key-bb1ac5bdfb150ed09c02f2b3ed09f5f1];
+- “**scheme**” means a personal or occupational pension scheme;
+- “**secondary Class 1 contribution**” shall be construed in accordance with section 4 of the Social Security Act 1975 [^c2180668];
+- and other expressions have the same meaning as in the Act.
+
+(3) In these Regulations, except where the context otherwise requires, any reference to a numbered section is to the section of the Act bearing that number.
+
+## 2. Exceptions to section 12(1)
+
+(1) Section 111(1)[^key-d99effb1db9832f769874b7dd109edc0] (voluntary contributions requirements) shall not apply to the rules of any public service pension scheme unless it is an exempt approved scheme for the purposes of section 21 of the Finance Act 1970 [^c2180669].
+
+(2) Section 111(1) shall not apply to the rules of any personal pension scheme in so far as it is comprised in an annuity contract made before 1st July 1988[^M_F_9bf15fa7-1cbd-4a7d-b950-6deac267ba4b].
+
+(3) Section 111(1)(a) and (b)[^key-448630fa5b4d550aad4a642a7f4033ff] shall not apply to the rules of any scheme in so far as they relate to the payment by a member of any sum as voluntary contributions where that payment would not qualify for relief from tax in accordance with section 21(4) or 22(2) of the Finance Act 1970 [^c2180670].
+
+(4) Section 111(1)(a) and (b) shall not apply to the rules of any scheme in so far as they provide that a member of the scheme must give the trustees or managers of the scheme notice, of a period not exceeding 12 months, of his intention to pay voluntary contributions at a specified rate or to vary that rate.
+
+(5) Section 111(1)(a) and (b) shall not apply to the rules of any personal pension scheme in so far as they relate to a member whose rights under the scheme derive only from one or more transfer payments.
+
+(6) Section 111(1)(a) and (b) shall not apply to the rules of any occupational pension scheme (“**the first scheme**”) in so far as they relate to a member—
+
+- (a) in respect of whose current pensionable service the scheme will provide benefit only on his death; or
+- (b) whose pensionable service either has not begun or has terminated; or
+- (c) who is either within one year of reaching, or has reached, normal pension age; or
+- (d) who is, or is eligible to become, a member of at least one other occupational pension scheme which applies to the same employment as the first scheme and which—
+  - (i) if he is a member of it, complies in relation to him, or, if he is not a member of it, would comply in relation to him if he were, with the voluntary contributions requirements, and
+  - (ii) is not a scheme which, if he is a member of it, falls in relation to him, or, if he is not a member of it, would fall in relation to him if he were, to be regarded as a scheme excepted from the application of section 111(1)(a) and (b) by virtue of paragraph (1), (2), (5) or (6)(a), (b) or (c) of this regulation.
+
+(6A)[^M_F_9e343b85-8c07-47d0-8886-b57b3dbb8e6e] Section 111(1)(a) and (b) shall not apply to the rules of any scheme which provides that the only contributions payable in respect of a member shall be the minimum contributions payable by the Secretary of State in respect of that member under section 43[^key-2a54ef3baeaffe6d904a0a4b4f5a29d8] of the Act if—
+
+- (a) the scheme is an appropriate scheme[^key-248839707d763ffc558b6f0e4224ca8a]...; and
+- (b) the member to whom the limitation applies is concurrently a member of an occupational pension scheme; and
+- (c) the scheme is currently the member’s chosen scheme under section 44[^key-ccd10ae699c65d0ff0df590c214dfdb9] of the Act; and
+- (d) the member has entered into a written agreement with the trustees or managers of the scheme that this regulation shall apply in his case.
+
+(7) Section 111(1)(b)[^key-9159c5534f5af0a0d660bfb22c818eb4] shall not apply to the rules of any scheme in so far as they impose, or allow any person to impose, a lower limit on the payment by a member of voluntary contributions in respect of any tax year if that lower limit is not higher than the amount specified in paragraph (8) of this regulation.
+
+(8)[^M_C_157f8754-bb3a-406f-db4a-0fe95d738af0] The amount last mentioned in paragraph (7) of this regulation is 0.5 per cent. of the member's earnings in that tax year, or, if it is greater, 3 times the lower earnings limit (within the meaning of section 1 of the Social Security Pensions Act 1975 [^c2180671] for that tax year.
+
+(9) In paragraph (8) of this regulation, “**member's earnings**” means—
+
+- (a) in the case of a member of a personal pension scheme, his earnings attributable to his employment as an employed earner; or
+- (b) in the case of a member of an occupational pension scheme, his earnings attributable to his relevant employment,
+
+in respect of which secondary Class 1 contributions are payable.
+
+(10) Section 111(1)(b) shall not apply to the rules of any scheme in so far as they impose, or allow any person to impose, an upper limit on the payment by a member of voluntary contributions which is equivalent to the maximum amount which, ignoring any remuneration in kind, could be paid in any period without prejudicing the qualification of the scheme for tax-exemption or tax-approval.
+
+(11) Section 111(1)(c) and (d)[^key-af1e17b77b377f966091216dc7658f26] shall not apply to the rules of any scheme in relation to a member's voluntary contributions to the extent that those contributions are paid under an agreement—
+
+- (a) which was made before the date on which section 12 of the Social Security Act 1986 (from which section 111 of the Act is derived) came into force; and
+- (b) which has not, since that date, been varied.
+
+(12) Section 111(1)(d)(ii)[^key-1a8d9dcd01c02e855e22129aa5055275] shall not apply to the rules of any scheme to the extent that the additional benefits provided in accordance with them are money purchase benefits.
+
+## 2A. Provisions of the Income and Corporation Taxes Act 1988 under which tax-exemption or tax-approval may be given for the purposes of section 12[^M_F_08512512-e78c-4d8f-d7d3-ace727ab51bb]
+
+For the purposes of section 111[^key-24f075b4851b5c99d280a58f646d4305] of the Act (which exempts scheme rules from the need to comply with that section to the extent necessary to qualify for tax-exemption or tax-approval) “tax-exemption” and “tax-approval” mean respectively exemption from tax and approval of the Inland Revenue under either Chapter I or Chapter IV of Part XIV of the Income and Corporation Taxes Act 1988.
+
+## 3. Exceptions to section 15(1)(a)
+
+Section 160(1)(a)[^key-10176ecce579710e8b4cdb40f98f7f51] (terms of contracts of service or schemes restricting choice to be void) shall not apply to any term of a contract of service or any rule of an occupational pension scheme to the effect that an employed earner must be a member of a particular occupational pension scheme or one or other of a number of particular occupational pension schemes, during any period when that scheme is, or those schemes are, so framed that in relation to that period—
+
+- (a) the earner in question is not required to pay contributions to the scheme, and
+- (b) the scheme will provide benefit in respect of that earner only on his death.
+
+Signed by authority of the Secretary of State for Social Services.
+
+Nicholas Scott
+
+Minister of State,
+
+Department of Health and Social Security
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made under either section 12(1) or section 15(1) of the Social Security Act 1986 (“**the 1986 Act**”) before the expiry of the period of 12 months beginning with the bringing into force (on 4th January 1988 for the purposes of personal pension schemes and on 6th April 1988 for the purposes of occupational pension schemes) of those sections.
+
+Consequently, by virtue of section 61(5) of the 1986 Act, the provisions of section 61(2) and (3) of the Social Security Pensions Act 1975 (which, as amended by section 86(1) of, and paragraph 94 of Schedule 10 to, the 1986 Act, require reference to the Occupational Pensions Board of, and a report by the Board on, proposals to make regulations for the purposes of Part I of the 1986 Act), do not apply to them.
+
+Regulation 2 provides that section 12(1) of the 1986 Act (voluntary contributions requirements) shall not apply, to the extent specified, to the rules of occupational and personal pension schemes. In particular, regulation 2(1) provides that none of the voluntary contributions requirements shall apply to the rules of any public service pension scheme other than any such scheme which is an exempt approved scheme for the purposes of section 21 of the Finance Act 1970; regulation 2(2) provides that none of the voluntary contributions requirements shall apply to the rules of any personal pension scheme to the extent that it is comprised in an annuity contract made before 4th January 1988; regulation 2(5) provides that a personal pension scheme is not required to accept voluntary contributions from a member whose rights under the scheme derive only from transfer payments; regulation 2(6) provides that an occupational pension scheme need not accept voluntary contributions from a member—
+
+- (a) in respect of whom the scheme will pay only death benefits;
+- (b) who is not in pensionable service;
+- (c) who is within a year of normal pension age or older; and
+- (d) who is, or is eligible to become, a member of another occupational pension scheme which meets the voluntary contributions requirements;
+
+and regulation 2(7) provides that a scheme may impose a lower limit, not greater than that specified in regulation 2(8), on the voluntary contributions it will accept from a member in a tax year.
+
+Regulation 3 provides that section 15(1)(a) of the 1986 Act (subject to prescribed exceptions, any term of a contract of service or any rule of an occupational pension scheme to the effect that an employed earner must be a member of a particular scheme or one of a number of particular schemes shall be void) does not apply during any period when that scheme is, or those schemes are, so framed that, in relation to that period—
+
+- (a) the earner in question is not required to pay contributions to the scheme, and
+- (b) the scheme will provide benefit in respect of that earner only on his death.
+
+## Annotations
+
+[^c2180665]: Marginal citation: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50); see definitions of “prescribed” and “regulations” in section 84(1).
+
+[^key-233d481874d389dcbe6da7ce3746c057]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/1/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(2)(a)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/2/a)
+
+[^key-c73d402a0bd1b0eba5602ea6ec8cea4c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/1/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/2/b)
+
+[^key-bb1ac5bdfb150ed09c02f2b3ed09f5f1]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/1/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(2)(c)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/2/c)
+
+[^c2180668]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
+
+[^key-d99effb1db9832f769874b7dd109edc0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(3)(a)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/3/a)
+
+[^c2180669]: Marginal citation: [1970 c. 24](https://www.legislation.gov.uk/ukpga/1970/24); section 21(6) was repealed by the [Finance Act 1971 (c. 68)](https://www.legislation.gov.uk/ukpga/1971/68), [sections 56(3)](https://www.legislation.gov.uk/ukpga/1971/68/section/56/3) and 69(7) and Schedule 14, Part IV; section 21(10) and (11) was repealed by the Finance Act 1971, section 69(7) and Schedule 14, Part I.
+
+[^M_F_9bf15fa7-1cbd-4a7d-b950-6deac267ba4b]: Textual amendment: Words in reg. 2(2) substituted (15.12.1987) by [The Personal Pension Schemes (Deferment of Commencement) Regulations 1987 (S.I. 1987/1933)](https://www.legislation.gov.uk/uksi/1987/1933), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1933/regulation/1), [3](https://www.legislation.gov.uk/uksi/1987/1933/regulation/3)
+
+[^key-448630fa5b4d550aad4a642a7f4033ff]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/5)[(6)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/6)[(6A)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/6A) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(3)(b)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/3/b)
+
+[^c2180670]: Marginal citation: Section 22(2) was amended by the [Finance Act 1972 (c. 41)](https://www.legislation.gov.uk/ukpga/1972/41), [section 74(3)](https://www.legislation.gov.uk/ukpga/1972/41/section/74/3).
+
+[^M_F_9e343b85-8c07-47d0-8886-b57b3dbb8e6e]: Textual amendment: Reg. 2(6A) inserted (1.7.1988) by [The Personal Pension Schemes (Miscellaneous Amendments) Regulations 1988 (S.I. 1988/830)](https://www.legislation.gov.uk/uksi/1988/830) [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1988/830/regulation/1/made), [2](https://www.legislation.gov.uk/uksi/1988/830/regulation/2/made)
+
+[^key-2a54ef3baeaffe6d904a0a4b4f5a29d8]: Textual amendment: Words in [reg. 2(6A)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/6A) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(3)(c)(i)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/3/c/i)
+
+[^key-248839707d763ffc558b6f0e4224ca8a]: Textual amendment: Words in [reg. 2(6A)(a)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/6A/a) omitted (12.5.1994) by virtue of [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(3)(c)(ii)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/3/c/ii)
+
+[^key-ccd10ae699c65d0ff0df590c214dfdb9]: Textual amendment: Words in [reg. 2(6A)(c)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/6A/c) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(3)(c)(iii)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/3/c/iii)
+
+[^key-9159c5534f5af0a0d660bfb22c818eb4]: Textual amendment: Words in [reg. 2(7)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/7)[(10)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/10) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(3)(d)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/3/d)
+
+[^M_C_157f8754-bb3a-406f-db4a-0fe95d738af0]: Modification: [Reg. 2(8)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/8) applied (1.4.1998) by [The Local Government Pension Scheme (Scotland) Regulations 1998 (S.I. 1998/366)](https://www.legislation.gov.uk/uksi/1998/366/contents/made), [regs. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1/made), [59(7)](https://www.legislation.gov.uk/uksi/1998/366/regulation/59/made)
+
+[^c2180671]: Marginal citation: Section 1(2) was amended by section 74(6) of the Social Security Act 1986.
+
+[^key-af1e17b77b377f966091216dc7658f26]: Textual amendment: Words in [reg. 2(11)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/11) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(3)(e)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/3/e)
+
+[^key-1a8d9dcd01c02e855e22129aa5055275]: Textual amendment: Words in [reg. 2(12)](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2/12) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(3)(f)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/3/f)
+
+[^M_F_08512512-e78c-4d8f-d7d3-ace727ab51bb]: Textual amendment: Reg. 2A inserted (6.4.1988) by S.I. 1988/474, reg. 1(2)(b), 5
+
+[^key-24f075b4851b5c99d280a58f646d4305]: Textual amendment: Words in [reg. 2A](https://www.legislation.gov.uk/uksi/1987/1108/regulation/2A) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/4)
+
+[^key-10176ecce579710e8b4cdb40f98f7f51]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1987/1108/regulation/3) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 14(5)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/14/5)

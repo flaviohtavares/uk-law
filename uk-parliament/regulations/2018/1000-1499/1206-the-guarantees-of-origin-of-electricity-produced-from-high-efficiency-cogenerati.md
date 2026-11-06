@@ -1,0 +1,618 @@
+---
+title: The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018
+id: uksi/2018/1206
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-11-19'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1206
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1206/pdfs/uksiem_20181206_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1206/pdfs/uksi_20181206_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1206/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1206
+
+Exiting The European Union
+
+Electricity
+
+Energy Conservation
+
+The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018
+
+Sift requirements satisfied
+
+30th October 2018
+
+Made
+
+19th November 2018
+
+Laid before Parliament
+
+22nd November 2018
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c23440001] and section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23440011].
+
+The Secretary of State is a Minister designated [^c23440021] for the purposes of section 2(2) of the European Communities Act 1972 in relation to energy and energy sources.
+
+The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018.
+
+(2) This regulation and Part 2 come into force on the 21st day after the day on which these Regulations are laid.
+
+(3) The remaining provisions of these Regulations come into force on exit day.
+
+## PART 2 — Amendment of subordinate legislation: European Communities Act 1972
+
+### 2. Amendment of the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008
+
+(1) The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 [^c23440031] are amended as follows.
+
+(2) In regulation 2(1), for the definition of “CHPQA”, substitute—
+
+> “**CHPQA**” means the Combined Heat and Power Quality Assurance programme referred to in the CHPQA Standard and accompanying CHPQA guidance notes, Issue 6, October 2016, prepared on behalf of the Department for Business, Energy and Industrial Strategy [^c23440041];
+
+.
+
+## PART 3 — Amendment of subordinate legislation: European Union (Withdrawal) Act 2018
+
+### 3. Amendment of the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007[^key-6924452d6fbfe6c06a30961fb6ae1882]
+
+(1) The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 [^c23440051] are amended as follows.
+
+(2) For regulation 2, substitute—
+
+> **2. Interpretation**
+>
+> In these Regulations—
+>
+> - “**CHPGO**” means a guarantee of origin of electricity produced from high-efficiency cogeneration [^c23440061];
+> - “**the CHPGO holder**” means the person to whom the CHPGO is issued or transferred;
+> - “**cogeneration**” means the simultaneous generation in one process of thermal energy and electrical or mechanical energy;
+> - “**cogeneration unit**” means a unit that is able to operate in cogeneration mode;
+> - “the competent authority” is the Secretary of State for Business, Energy and Industrial Strategy;
+> - “**economically justifiable demand**” means demand that does not exceed the needs for heating or cooling and which would otherwise be satisfied at market conditions by energy generation processes other than cogeneration;
+> - “**electricity from cogeneration**” means electricity generated in a process linked to the production of useful heat and calculated in accordance with the methodology laid down in Schedule 4;
+> - “**energy**” means all forms of energy products, combustible fuels, heat, renewable energy, electricity, or any other form of energy;
+> - “**Energy Efficiency Directive**” means Directive 2012/27/EU of the European Parliament and of the Council of 25th October 2012 on energy efficiency, amending Directives [2009/125/EC](https://www.legislation.gov.uk/eudr/2009/125) and 2010/30/EU and repealing Directives [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8) and [2006/32/EC](https://www.legislation.gov.uk/eudr/2006/32) [^c23440071], as it applies in the European Union;
+> - “**Great Britain**” includes—
+>   - (a) the territorial sea of the United Kingdom which is adjacent to Great Britain; and
+>   - (b) any area designated under the Continental Shelf Act 1964 [^c23440081];
+> - “**guarantee of origin**” means, except in relation to paragraphs (3) to (5) of regulation 10, a certificate issued by the competent authority certifying that the electricity in respect of which the certificate is issued is electricity produced from high-efficiency cogeneration;
+> - “**harmonised efficiency reference values**” means the values indicated in paragraph 7 of Schedule 7 and set in accordance with that paragraph and with Commission Delegated Regulation (EU) 2015/2402 of 12 October 2015 reviewing harmonised efficiency reference values for separate production of electricity and heat in application of Directive 2012/27/EU of the European Parliament and of the Council;
+> - “**high-efficiency cogeneration**” means cogeneration that meets the criteria in Schedule 3;
+> - “**micro-cogeneration unit**” means a cogeneration unit with a maximum capacity below 50 kilowatt electrical (kW<sub>e</sub>);
+> - “**overall efficiency**” means the annual sum of electricity and mechanical energy production and useful heat output divided by the fuel input used for heat produced in a cogeneration process and gross electricity and mechanical energy production;
+> - “**power-to-heat ratio**” means the ratio of electricity from cogeneration to useful heat when operating in full cogeneration mode using operational data of the specific unit;
+> - “**small-scale cogeneration unit**” means a cogeneration unit with installed capacity below 1 megawatt electrical (MW<sub>e</sub>);
+> - “**useful heat**” means heat produced in a cogeneration process to satisfy economically justifiable demand for heating or cooling.
+
+.
+
+(3) In regulation 3—
+
+- (a) in the heading, omit “and designation of the competent authority”;
+- (b) omit paragraph (2).
+
+(4) In regulation 5(3)(a), for “information required by paragraph (b) of Annex X to the Energy Efficiency Directive”, substitute “ matters set out in Schedule 2 ”.
+
+(5) In regulation 10—
+
+- (a) in paragraph (1), for “Annex X to the Energy Efficiency Directive”, substitute “ Schedule 2 ”;
+- (b) for paragraph (3), substitute—
+
+  > (3) Subject to paragraph (4), a public authority must recognise, as proof of the matters referred to in Schedule 2, a CHPGO which has been issued—
+  >
+  > - (a) in a member State in accordance with article 14(10) of the Energy Efficiency Directive; or
+  > - (b) in Northern Ireland in accordance with the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 [^c23440091].
+
+  ;
+- (c) in paragraph (5)—
+  - (i) for “another”, substitute “ a ”;
+  - (ii) for “requires”, substitute “ required before IP completion day[^key-9189d94301e89a0568748cad6cd821e8] ”.
+
+(6) After Schedule 1, insert—
+
+> **SCHEDULE 2 — Information to be contained in a CHPGO**
+>
+> Regulations 5(3) and 10(1) and (3)
+>
+> **1.** The identity, location, type and capacity (thermal and electrical) of the installation where the energy was produced.
+>
+> **2.** The dates and places of production.
+>
+> **3.** The lower calorific value of the fuel source from which the electricity was produced.
+>
+> **4.** The quantity and the use of the heat generated together with the electricity.
+>
+> **5.** The quantity of electricity from high-efficiency cogeneration calculated in accordance with Schedule 3 that the guarantee of origin represents.
+>
+> **6.** The primary energy savings calculated in accordance with Schedule 3 based on the harmonised efficiency reference values.
+>
+> **7.** The nominal electric and thermal efficiency of the plant.
+>
+> **8.** Whether and to what extent the installation has benefited from investment support.
+>
+> **9.** Whether and to what extent the unit of energy has benefited in any other way from a national support scheme, and the type of support scheme.
+>
+> **10.** The date on which the installation became operational.
+>
+> **11.** The date and country of issue and a unique identification number.
+>
+> **SCHEDULE 3 — Methodology for determining the efficiency of the cogeneration process**
+>
+> Regulation 2 and paragraphs 5 and 6 of Schedule 2
+>
+> **1. Values to be used**
+>
+> Values used for calculation of efficiency of cogeneration and primary energy savings must be determined on the basis of the expected or actual operation of the unit under normal conditions of use.
+>
+> **2. High-efficiency cogeneration**
+>
+> For the purposes of these Regulations high-efficiency cogeneration shall fulfil the following criteria—
+>
+> - (a) cogeneration production from cogeneration units shall provide primary energy savings, calculated in accordance with paragraph 3, of at least 10% compared with the references for separate production of heat and electricity;
+> - (b) production from small-scale and micro-cogeneration units providing primary energy savings may qualify as high-efficiency cogeneration.
+>
+> **3. Calculation of primary energy savings**
+>
+> The amount of primary energy savings provided by cogeneration production defined in accordance with Schedule 4 must be calculated on the basis of the following formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2018/1206)
+>
+> where—
+>
+> PES is primary energy savings;
+>
+> CHP Hη is the heat efficiency of the cogeneration production defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity from cogeneration;
+>
+> Ref Hη is the harmonised efficiency reference value for separate heat production;
+>
+> CHP Eη is the electrical efficiency of the cogeneration production defined as annual electricity from cogeneration divided by the fuel input used to produce the sum of useful heat output and electricity from cogeneration. For the purpose only of calculating the electrical efficiency of the cogeneration production, where a cogeneration unit generates mechanical energy, the annual electricity from cogeneration may be increased by an additional element representing the amount of electricity which is equivalent to that of mechanical energy;
+>
+> Ref Eη is the harmonised efficiency reference value for separate electricity production.
+>
+> **4. Calculations of primary energy savings using alternative calculation**
+>
+> (1) The competent authority may calculate primary energy savings from a production of heat and electricity and mechanical energy in accordance with sub-paragraph (2) without applying Schedule 4 to exclude the non-cogenerated heat and electricity parts of the same process. Such a production can be regarded as high-efficiency cogeneration provided it fulfils the efficiency criteria in paragraph 2 and, for cogeneration units with an electrical capacity larger than 25 megawatts (MW), the overall efficiency is above 70%. However, specification of the quantity of electricity from cogeneration produced in such a production, for issuing a guarantee of origin, must be determined in accordance with Schedule 4.
+>
+> (2) If primary energy savings for a process are calculated using the alternative calculation in accordance with sub-paragraph (1), the primary energy savings must be calculated using the formula in paragraph 3 but replacing “CHP Hη” with “Hη” and “CHP Eη” with “Eη”, where—
+>
+> - Hη means the heat efficiency of the process, defined as the annual heat output divided by the fuel input used to produce the sum of heat output and electricity output;
+> - Eη means the electricity efficiency of the process, defined as the annual electricity output divided by the fuel input used to produce the sum of heat output and electricity output. For the purpose only of calculating the electrical efficiency of the cogeneration production, where a cogeneration unit generates mechanical energy, the annual electricity from cogeneration may be increased by an additional element representing the amount of electricity which is equivalent to that of mechanical energy.
+>
+> **5.** The competent authority may use other reporting periods than one year for the purpose of the calculations according to paragraphs 3 and 4.
+>
+> **6.** For micro-cogeneration units the calculation of primary energy savings may be based on certified data.
+>
+> **7. Efficiency reference values for separate production of heat and electricity**
+>
+> (1) The harmonised efficiency reference values consist of a matrix of values differentiated by relevant factors, including year of construction and types of fuel, and must be based on a well-documented analysis taking, inter alia, into account data from operational use under realistic conditions, fuel mix and climate conditions as well as applied cogeneration technologies.
+>
+> (2) The efficiency reference values for separate production of heat and electricity in accordance with the formula set out in paragraph 3 establish the operating efficiency of the separate heat and electricity production that cogeneration is intended to substitute.
+>
+> (3) The efficiency reference values must be calculated according to the following principles—
+>
+> - (a) for cogeneration units the comparison with separate electricity production must be based on the principle that the same fuel categories are compared;
+> - (b) each cogeneration unit must be compared with the best available and economically justifiable technology for separate production of heat and electricity on the market in the year of construction of the cogeneration unit;
+> - (c) the efficiency reference values for cogeneration units older than 10 years of age must be fixed on the reference values of units of 10 years of age;
+> - (d) the efficiency reference values for separate electricity production and heat production must reflect the climate of the United Kingdom.
+>
+> **SCHEDULE 4 — General principles for the calculation of electricity from cogeneration**
+>
+> Regulation 2 and paragraphs 3 and 4 of Schedule 3
+>
+> **General principles**
+>
+> **1.** (1) Values used for calculation of electricity from cogeneration must be determined on the basis of the expected or actual operation of the unit under normal conditions of use. For micro-cogeneration units the calculation may be based on certified values.
+>
+> (2) Electricity production from cogeneration must be considered equal to total annual electricity production of the unit measured at the outlet of the main generators—
+>
+> - (a) in cogeneration units of the types referred to in paragraph 2(b) and (d) to (h) with an annual overall efficiency at a level of at least 75%; and
+> - (b) in cogeneration units of the types referred to in paragraph 2(a) and (c) with an annual overall efficiency at a level of at least 80%.
+>
+> (3) In cogeneration units with an annual overall efficiency below the value referred to in sub-paragraph (2)(a) or with an annual overall efficiency below the value referred to in sub-paragraph (2)(b) cogeneration is calculated according to the following formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2018/1206)
+>
+> where—
+>
+> E<sub>CHP</sub> is the amount of electricity from cogeneration;
+>
+> C is the power-to-heat ratio;
+>
+> H<sub>CHP</sub> is the amount of useful heat from cogeneration (calculated for this purpose as total heat production minus any heat produced in separate boilers or by live steam extraction from the steam generator before the turbine).
+>
+> (4) For the purposes of sub-paragraph (3), the calculation of electricity from cogeneration must be based on the actual power-to-heat ratio. If the actual power-to-heat ratio of a cogeneration unit is not known, the following default values may be used for units of types (a), (b), (c), (d) and (e) referred to in paragraph 2 provided that the calculated cogeneration electricity is less or equal to total electricity production of the unit—
+>
+> | *Type of unit* | *Default power to heat ratio, C* |
+> | --- | --- |
+> | Combined cycle gas turbine with heat recovery | 0.95 |
+> | Steam back pressure turbine | 0.45 |
+> | Steam condensing extraction turbine | 0.45 |
+> | Gas turbine with heat recovery | 0.55 |
+> | Internal combustion engine | 0.75 |
+>
+> (5) If a share of the energy content of the fuel input to the cogeneration process is recovered in chemicals and recycled this share can be subtracted from the fuel input before calculating the overall efficiency used in sub-paragraphs (2) and (3).
+>
+> (6) The power-to-heat ratio when operating in cogeneration mode at a capacity lower than full cogeneration is the ratio of electricity to useful heat determined using operational data of the specific unit.
+>
+> (7) The Secretary of State may use other reporting periods than one year for the purpose of the calculations according to sub-paragraphs (2) and (3).
+>
+> **Cogeneration technologies covered by these Regulations**
+>
+> **2.** The cogeneration technologies covered by these Regulations are—
+>
+> - (a) combined cycle gas turbine with heat recovery;
+> - (b) steam back pressure turbine;
+> - (c) steam condensing extraction turbine;
+> - (d) gas turbine with heat recovery;
+> - (e) internal combustion engine;
+> - (f) microturbines;
+> - (g) Stirling engines;
+> - (h) fuel cells;
+> - (i) steam engines;
+> - (j) Organic Rankine cycles;
+> - (k) any other type of technology or combination thereof involving the simultaneous generation in one process of thermal energy and electrical or mechanical energy.
+>
+> **3.** When determining the values used for the calculation of electricity from cogeneration, the detailed Guidelines established by Commission Decision [2008/952/EC](https://www.legislation.gov.uk/eud/2008/952) of 19 November 2008 establishing detailed guidelines for the implementation and application of Annex 2 to Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8) of the European Parliament and of the Council must be applied.
+
+.
+
+### 4. Amendment of the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008[^key-da2b58c77e768e21c54d9ee50e4cbce7]
+
+(1) The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 are amended as follows.
+
+(2) In regulation 2—
+
+- (a) for paragraph (1), substitute—
+
+  > (1) For the purposes of these Regulations—
+  >
+  > - “**CHPGO**” means a guarantee of origin of electricity produced from high-efficiency cogeneration;
+  > - “**the CHPGO holder**” means the person to whom the CHPGO is issued or transferred;
+  > - “**CHPQA**” means the Combined Heat and Power Quality Assurance programme referred to in the CHPQA Standard and accompanying CHPQA guidance notes, Issue 6, October 2016, prepared on behalf of the Department for Business, Energy and Industrial Strategy [^c23440101];
+  > - “**cogeneration**” means the simultaneous generation in one process of thermal energy and electrical or mechanical energy;
+  > - “**cogeneration unit**” means a unit that is able to operate in cogeneration mode;
+  > - “**the competent authority**” means the Department for the Economy;
+  > - “**economically justifiable demand**” means demand that does not exceed the needs for heating or cooling and which would otherwise be satisfied at market conditions by energy generation processes other than cogeneration;
+  > - “**electricity from cogeneration**” means electricity generated in a process linked to the production of useful heat and calculated in accordance with the methodology laid down in Schedule 4;
+  > - “**energy**” means all forms of energy products, combustible fuels, heat, renewable energy, electricity, or any other form of energy;
+  > - “**Energy Efficiency Directive**” means Directive 2012/27/EU of the European Parliament and of the Council of 25th October 2012 on energy efficiency, amending Directives [2009/125/EC](https://www.legislation.gov.uk/eudr/2009/125) and 2010/30/EU and repealing Directives [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8) and [2006/32/EC](https://www.legislation.gov.uk/eudr/2006/32) [^c23440111], as it applies in the European Union;
+  > - “**Great Britain**” includes—
+  >   - (a) the territorial sea of the United Kingdom which is adjacent to Great Britain; and
+  >   - (b) any area designated under the Continental Shelf Act 1964;
+  > - “**guarantee of origin**” means, except in relation to paragraphs (3) to (5) of regulation 10, a certificate issued by the competent authority certifying that the electricity in respect of which the certificate is issued is electricity produced from high-efficiency cogeneration;
+  > - “**harmonised efficiency reference values**” means the values indicated in paragraph 7 of Schedule 7 and set in accordance with that paragraph and with Commission Delegated Regulation (EU) 2015/2402 of 12 October 2015 reviewing harmonised efficiency reference values for separate production of electricity and heat in application of Directive 2012/27/EU of the European Parliament and of the Council;
+  > - “**high-efficiency cogeneration**” means cogeneration that meets the criteria in Schedule 3;
+  > - “**micro-cogeneration unit**” means a cogeneration unit with a maximum capacity below 50 kilowatt electrical (kW<sub>e</sub>);
+  > - “**overall efficiency**” means the annual sum of electricity and mechanical energy production and useful heat output divided by the fuel input used for heat produced in a cogeneration process and gross electricity and mechanical energy production;
+  > - “**power-to-heat ratio**” means the ratio of electricity from cogeneration to useful heat when operating in full cogeneration mode using operational data of the specific unit;
+  > - “**small-scale cogeneration unit**” means a cogeneration unit with installed capacity below 1 megawatt electrical (MW<sub>e</sub>);
+  > - “**useful heat**” means heat produced in a cogeneration process to satisfy economically justifiable demand for heating or cooling.
+
+  ;
+- (b) omit paragraph (2).
+
+(3) In regulation 3, omit paragraph (2).
+
+(4) In regulation 4(4)(b), for “in another Member State of Great Britain”[^c23440121], substitute “to any person outside Northern Ireland”.
+
+(5) In regulation 5(3)(a), for “information required by paragraph (b) of Annex X to the Energy Efficiency Directive”, substitute “ matters set out in Schedule 2 ”.
+
+(6) In regulation 10—
+
+- (a) in paragraph (1)—
+  - (i) for “any”, substitute “ the ”;
+  - (ii) for “Annex X to the Energy Efficiency Directive”, substitute “ Schedule 2 ”;
+- (b) for paragraph (3), substitute—
+
+  > (3) Subject to paragraph (4), a public authority must recognise, as proof of the matters referred to in Schedule 2, a CHPGO which has been issued—
+  >
+  > - (a) in a member State in accordance with article 14(10) of the Energy Efficiency Directive; or
+  > - (b) in Great Britain in accordance with the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 [^c23440131].
+
+  ;
+- (c) in paragraph (5)—
+  - (i) for “another”, substitute “ a ”;
+  - (ii) for “requires”, substitute “ required before IP completion day[^key-20203033fd31a4b2070e8fb2de259f9a] ”;
+- (d) in paragraph (6), for “another”, substitute “ a ”.
+
+(7) After Schedule 1, insert—
+
+> **SCHEDULE 2 — Information to be contained in a CHPGO**
+>
+> Regulation 5(3) and 10(1) and (3)
+>
+> **1.** The identity, location, type and capacity (thermal and electrical) of the installation where the energy was produced.
+>
+> **2.** The dates and places of production.
+>
+> **3.** The lower calorific value of the fuel source from which the electricity was produced.
+>
+> **4.** The quantity and the use of the heat generated together with the electricity.
+>
+> **5.** The quantity of electricity from high-efficiency cogeneration calculated in accordance with Schedule 3 that the guarantee of origin represents.
+>
+> **6.** The primary energy savings calculated in accordance with Schedule 3 based on the harmonised efficiency reference values.
+>
+> **7.** The nominal electric and thermal efficiency of the plant.
+>
+> **8.** Whether and to what extent the installation has benefited from investment support.
+>
+> **9.** Whether and to what extent the unit of energy has benefited in any other way from a national support scheme, and the type of support scheme.
+>
+> **10.** The date on which the installation became operational.
+>
+> **11.** The date and country of issue and a unique identification number.
+>
+> **SCHEDULE 3 — Methodology for determining the efficiency of the cogeneration process**
+>
+> Regulation 2 and paragraph 5 and 6 of Schedule 2
+>
+> **1. Values to be used**
+>
+> Values used for calculation of efficiency of cogeneration and primary energy savings must be determined on the basis of the expected or actual operation of the unit under normal conditions of use.
+>
+> **2. High-efficiency cogeneration**
+>
+> For the purposes of these Regulations high-efficiency cogeneration shall fulfil the following criteria—
+>
+> - (a) cogeneration production from cogeneration units shall provide primary energy savings, calculated in accordance with paragraph 3, of at least 10% compared with the references for separate production of heat and electricity;
+> - (b) production from small-scale and micro-cogeneration units providing primary energy savings may qualify as high-efficiency cogeneration.
+>
+> **3. Calculation of primary energy savings**
+>
+> The amount of primary energy savings provided by cogeneration production defined in accordance with Schedule 4 must be calculated on the basis of the following formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2018/1206)
+>
+> where—
+>
+> PES is primary energy savings;
+>
+> CHP Hη is the heat efficiency of the cogeneration production defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity from cogeneration;
+>
+> Ref Hη is the harmonised efficiency reference value for separate heat production;
+>
+> CHP Eη is the electrical efficiency of the cogeneration production defined as annual electricity from cogeneration divided by the fuel input used to produce the sum of useful heat output and electricity from cogeneration. For the purpose only of calculating the electrical efficiency of the cogeneration production, where a cogeneration unit generates mechanical energy, the annual electricity from cogeneration may be increased by an additional element representing the amount of electricity which is equivalent to that of mechanical energy;
+>
+> Ref Eη is the harmonised efficiency reference value for separate electricity production.
+>
+> **4. Calculations of primary energy savings using alternative calculation**
+>
+> (1) The competent authority may calculate primary energy savings from a production of heat and electricity and mechanical energy in accordance with sub-paragraph (2) without applying Schedule 4 to exclude the non-cogenerated heat and electricity parts of the same process. Such a production can be regarded as high-efficiency cogeneration provided it fulfils the efficiency criteria in paragraph 2 and, for cogeneration units with an electrical capacity larger than 25 megawatts (MW), the overall efficiency is above 70%. However, specification of the quantity of electricity from cogeneration produced in such a production, for issuing a guarantee of origin, must be determined in accordance with Schedule 4.
+>
+> (2) If primary energy savings for a process are calculated using the alternative calculation in sub-paragraph (1) the primary energy savings must be calculated using the formula in paragraph 3 but replacing “CHP Hη” with “Hη” and “CHP Eη” with “Eη”, where—
+>
+> - Hη means the heat efficiency of the process, defined as the annual heat output divided by the fuel input used to produce the sum of heat output and electricity output;
+> - Eη means the electricity efficiency of the process, defined as the annual electricity output divided by the fuel input used to produce the sum of heat output and electricity output. For the purpose only of calculating the electrical efficiency of the cogeneration production, where a cogeneration unit generates mechanical energy, the annual electricity from cogeneration may be increased by an additional element representing the amount of electricity which is equivalent to that of mechanical energy.
+>
+> **5.** The competent authority may use other reporting periods than one year for the purpose of the calculations according to paragraphs 3 and 4.
+>
+> **6.** For micro-cogeneration units the calculation of primary energy savings may be based on certified data.
+>
+> **7. Efficiency reference values for separate production of heat and electricity**
+>
+> (1) The harmonised efficiency reference values consist of a matrix of values differentiated by relevant factors, including year of construction and types of fuel, and must be based on a well-documented analysis taking, inter alia, into account data from operational use under realistic conditions, fuel mix and climate conditions as well as applied cogeneration technologies.
+>
+> (2) The efficiency reference values for separate production of heat and electricity in accordance with the formula set out in paragraph 3 establish the operating efficiency of the separate heat and electricity production that cogeneration is intended to substitute.
+>
+> (3) The efficiency reference values must be calculated according to the following principles—
+>
+> - (a) for cogeneration units the comparison with separate electricity production must be based on the principle that the same fuel categories are compared;
+> - (b) each cogeneration unit must be compared with the best available and economically justifiable technology for separate production of heat and electricity on the market in the year of construction of the cogeneration unit;
+> - (c) the efficiency reference values for cogeneration units older than 10 years of age must be fixed on the reference values of units of 10 years of age;
+> - (d) the efficiency reference values for separate electricity production and heat production must reflect the climate of the United Kingdom.
+>
+> **SCHEDULE 4 — General principles for the calculation of electricity from cogeneration**
+>
+> Regulation 2 and paragraphs 3 and 4 of Schedule 3
+>
+> **General principles**
+>
+> **1.** (1) Values used for calculation of electricity from cogeneration must be determined on the basis of the expected or actual operation of the unit under normal conditions of use. For micro-cogeneration units the calculation may be based on certified values.
+>
+> (2) Electricity production from cogeneration must be considered equal to total annual electricity production of the unit measured at the outlet of the main generators—
+>
+> - (a) in cogeneration units of the types referred to in paragraph 2(b) and (d) to (h) with an annual overall efficiency at a level of at least 75%; and
+> - (b) in cogeneration units of the types referred to in paragraph 2(a) and (c) with an annual overall efficiency at a level of at least 80%.
+>
+> (3) In cogeneration units with an annual overall efficiency below the value referred to in sub-paragraph (2)(a) or with an annual overall efficiency below the value referred to in sub-paragraph (2)(b) cogeneration is calculated according to the following formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2018/1206)
+>
+> where—
+>
+> E<sub>CHP</sub> is the amount of electricity from cogeneration;
+>
+> C is the power-to-heat ratio;
+>
+> H<sub>CHP</sub> is the amount of useful heat from cogeneration (calculated for this purpose as total heat production minus any heat produced in separate boilers or by live steam extraction from the steam generator before the turbine).
+>
+> (4) For the purposes of sub-paragraph (3), the calculation of electricity from cogeneration must be based on the actual power-to-heat ratio. If the actual power-to-heat ratio of a cogeneration unit is not known, the following default values may be used for units of types (a), (b), (c), (d) and (e) referred to in paragraph 2 provided that the calculated cogeneration electricity is less or equal to total electricity production of the unit—
+>
+> | *Type of unit* | *Default power to heat ratio, C* |
+> | --- | --- |
+> | Combined cycle gas turbine with heat recovery | 0.95 |
+> | Steam back pressure turbine | 0.45 |
+> | Steam condensing extraction turbine | 0.45 |
+> | Gas turbine with heat recovery | 0.55 |
+> | Internal combustion engine | 0.75 |
+>
+> (5) If a share of the energy content of the fuel input to the cogeneration process is recovered in chemicals and recycled this share can be subtracted from the fuel input before calculating the overall efficiency used in sub-paragraphs (2) and (3).
+>
+> (6) The power-to-heat ratio when operating in cogeneration mode at a capacity lower than full cogeneration is the ratio of electricity to useful heat determined using operational data of the specific unit.
+>
+> (7) The competent authority may use other reporting periods than one year for the purpose of the calculations according to sub-paragraphs (2) and (3).
+>
+> **Cogeneration technologies covered by these Regulations**
+>
+> **2.** The cogeneration technologies covered by these Regulations are—
+>
+> - (a) combined cycle gas turbine with heat recovery;
+> - (b) steam back pressure turbine;
+> - (c) steam condensing extraction turbine;
+> - (d) gas turbine with heat recovery;
+> - (e) internal combustion engine;
+> - (f) microturbines;
+> - (g) Stirling engines;
+> - (h) fuel cells;
+> - (i) steam engines;
+> - (j) Organic Rankine cycles;
+> - (k) any other type of technology or combination thereof involving the simultaneous generation in one process of thermal energy and electrical or mechanical energy.
+>
+> **3.** When determining the values used for the calculation of electricity from cogeneration, the detailed Guidelines established by Commission Decision [2008/952/EC](https://www.legislation.gov.uk/eud/2008/952) of 19 November 2008 establishing detailed guidelines for the implementation and application of Annex 2 to Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8) of the European Parliament and of the Council must be applied.
+
+.
+
+## PART 4 — Amendments to retained direct EU legislation
+
+### 5. Amendment of Commission Decision [2008/952/EC](https://www.legislation.gov.uk/eud/2008/952)[^key-be49a5884b940c8c87699d7ff2d5f34d]
+
+(1) Commission Decision [2008/952/EC](https://www.legislation.gov.uk/eud/2008/952) of 19 November 2008 establishing detailed guidelines for the implementation and application of Annex II to Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8) of the European Parliament and of the Council is amended as follows.
+
+(2) In Article 1, for “Annex II to Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8)”, substitute “ Schedule 4 to the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 or the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 (as applicable) ”[^c23440141] .
+
+(3) Omit Article 2.
+
+(4) In Section 1 of the Annex—
+
+- (a) in paragraph 3, for “each Member State as referred to in Article 5(2) of Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8)”, substitute “ in respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”;
+- (b) in paragraph 5.6, for “in Article 3(b) and 3(c) of Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8)”, substitute “of ‘useful heat’ and ‘economically justifiable demand’ in regulation 2 of the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 or the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 (as applicable)”;
+- (c) in paragraph 5.7, for “the Member States practices”, substitute “ practice in the United Kingdom ”;
+- (d) in paragraph 6.1, for “Annex II of the Directive”, substitute “ Schedule 4 to the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 or the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 (as applicable) ”[^c23440151] ;
+- (e) in paragraph 6.2, for “Annex III point (b) to Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8)”, substitute “ paragraph 3 of Schedule 3 to the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 or the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 (as applicable) ”;
+- (f) in paragraph 8.1, for “Annex II to Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8)”, substitute “ paragraph 1 of Schedule 4 to the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 or the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 (as applicable) ”;
+- (g) in paragraph 8.2, for “each Member State as referred to in Article 5 of the Directive”, substitute “ in respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”.
+
+### 6. Amendment of Commission Delegated Regulation (EU) 2015/2402[^key-bbef70758b9c2d33c40ea8810f74d66b]
+
+(1) Commission Delegated Regulation (EU) 2015/2402 of 12 October 2015 reviewing harmonised efficiency reference values for separate production of electricity and heat in application of Directive 2012/27/EU of the European Parliament and of the Council and repealing Commission Implementing Decision 2011/877/EU is amended as follows.
+
+(2) In Article 2—
+
+- (a) in paragraph 1—
+  - (i) for “Member States”, substitute “ In respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”;
+  - (ii) for “each Member State”, substitute “ the United Kingdom ”;
+- (b) in the unnumbered paragraph following paragraph 1—
+  - (i) omit “on the territory of a Member State”;
+  - (ii) for “that Member State”, substitute “ in respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”;
+  - (iii) omit “, subject to notification to the Commission,”;
+- (c) in paragraph 2, for “Member States”, substitute “ In respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”;
+- (d) in paragraph 3—
+  - (i) for “a Member State”, substitute “ in respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”;
+  - (ii) for “it”, substitute “ in respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”.
+
+(3) In Article 3—
+
+- (a) in paragraph 1, for “Member States”, substitute “ In respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”;
+- (b) in paragraph 2, for “Member States”, substitute “ in respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”.
+
+(4) In Article 4, in paragraph 1, for “Member States”, substitute “ In respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”.
+
+(5) After Article 8, omit the sentence beginning with the words “This Regulation shall be binding”.
+
+(6) In Annex 3—
+
+- (a) in point (a)—
+  - (i) for “a Member State” (twice), substitute “ the United Kingdom ”;
+  - (ii) omit “in that Member State”;
+- (b) in point (c)—
+  - (i) for “a given Member State”, substitute “ the United Kingdom ”;
+  - (ii) for “the Member State, then the Member State”, substitute “ the United Kingdom, then in respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”.
+
+Signed by authority of the Secretary of State for Business, Energy and Industrial Strategy.
+
+Claire Perry
+
+Minister of State for Energy and Clean Growth
+
+Department for Business, Energy and Industrial Strategy
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 (S.I. 2007/292) and the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 (S.R. 2008 No. 287).
+
+Part 2 amends the Northern Ireland Regulations to update the Issue version of the Combined Heat and Power Quality Assurance programme referred to in the definition of “CHPQA”, and update the name of the Northern Ireland Department.
+
+Parts 3 and 4 are made in exercise of the powers conferred by section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under paragraphs (a), (c), (f) and (g) of section 8(2)) arising from the withdrawal of the United Kingdom from the European Union.
+
+They make amendments to legislation in the field of cogeneration of heat and electricity (known in the United Kingdom as Combined Heat and Power) and, in particular, amend legislation relating to guarantees of origin (“GOO”) for electricity from cogeneration to—
+
+- — ensure that the European Commission can no longer require public authorities to recognise GOOs issued in EU member States (although the United Kingdom will continue to recognise EU GOOs after exit day);
+- — include in domestic legislation the actual text of various definitions and technical annexes from the Energy Efficiency Directive which are currently only included by way of cross-reference.
+
+Part 3 amends subordinate legislation, and Part 4 amends retained direct EU legislation.
+
+The net costs imposed on business, the voluntary sector and the public sector by these Regulations have been assessed as being less than £5m in any year and therefore a full impact assessment has not been prepared.
+
+## Annotations
+
+[^c23440001]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The European Communities Act 1972 will be repealed on exit day by section 1 of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23440011]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23440021]: Marginal citation: [S.I. 2010/761](https://www.legislation.gov.uk/uksi/2010/761).
+
+[^c23440031]: Marginal citation: S.R. [2008 No. 287](https://www.legislation.gov.uk/ukcm/2008/287), as amended by S.R. [2014 No. 284](https://www.legislation.gov.uk/ukcm/2014/284).
+
+[^c23440041]: Marginal citation: Available online at https://www.gov.uk/combined-heat-power-quality-assurance-programme or available from the CHPQA Administrator by telephoning 01235 753004 or emailing chpqainfo@chpqa.com.
+
+[^key-6924452d6fbfe6c06a30961fb6ae1882]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23440051]: Marginal citation: [S.I. 2007/292](https://www.legislation.gov.uk/uksi/2007/292), as amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), 2014/1403, 2016/992 and 2016/1108.
+
+[^c23440061]: Marginal citation: Cogeneration is commonly referred to in the United Kingdom as combined heat and power or CHP.
+
+[^c23440071]: Marginal citation: OJ L 315 14.11.2012, p. 1, as last amended by Directive (EU) 2018/844 (OJ L 156, 19.6.2018, p. 75).
+
+[^c23440081]: Marginal citation: [1964 c.29](https://www.legislation.gov.uk/ukpga/1964/29), as amended by the [Oil and Gas (Enterprise) Act 1982 (c.23) and the Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^c23440091]: Marginal citation: S.R. [2008 No. 287](https://www.legislation.gov.uk/ukcm/2008/287), as amended by S.R. [2014 No. 284](https://www.legislation.gov.uk/ukcm/2014/284).
+
+[^key-9189d94301e89a0568748cad6cd821e8]: Textual amendment: Words in [reg. 3(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/3/5/c/ii) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/2/2)
+
+[^key-da2b58c77e768e21c54d9ee50e4cbce7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23440101]: Marginal citation: Available online at https://www.gov.uk/combined-heat-power-quality-assurance-programme or available from the CHPQA Administrator by telephoning 01235 753004 or emailing chpqainfo@chpqa.com.
+
+[^c23440111]: Marginal citation: OJ L 315 14.11.2012, p. 1, as last amended by Directive (EU) 2018/844 (OJ L 156, 19.6.2018, p. 75).
+
+[^c23440121]: Marginal citation: The Regulations as originally made contain a typographical error, saying “of” instead of “or”.
+
+[^c23440131]: Marginal citation: [S.I. 2007/292](https://www.legislation.gov.uk/uksi/2007/292), as amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), 2014/1403 and 2016/992 and 1108.
+
+[^key-20203033fd31a4b2070e8fb2de259f9a]: Textual amendment: Words in [reg. 4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/c/ii) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/849/regulation/2/3)
+
+[^key-be49a5884b940c8c87699d7ff2d5f34d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23440141]: Marginal citation: Schedule 3 is inserted into each of the respective Regulations by regulation 2(6) and 3(7) of these Regulations.
+
+[^c23440151]: Marginal citation: Schedule 4 is inserted into each of the respective Regulations by regulation 2(6) and 3(7) of these Regulations.
+
+[^key-bbef70758b9c2d33c40ea8810f74d66b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

@@ -1,0 +1,59 @@
+---
+title: Employment Rights Act 1996, section 104J
+act: Employment Rights Act 1996
+section: 104J
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1996/18/section/104J
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employment Rights Act 1996, section 104J
+
+> **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 104J. Contracts of employment: variations that are not restricted variations[^key-6a21e5b400241e9be85d798b9d088b5e]
+
+*Extent: E+W+S*
+
+(1) This section applies to the dismissal of an employee if—
+
+- (a) the employee was employed for the purposes of a business carried on by the employer, and
+- (b) the reason (or, if more than one, the principal reason) for the dismissal is a reason within subsection (2) or (3).
+
+(2) The reason within this subsection is that—
+
+- (a) the employer sought to vary the employee’s contract of employment,
+- (b) the variation was not a restricted variation or, where the employer sought to make more than one variation, none of the variations was a restricted variation, and
+- (c) the employee did not agree to the variation.
+
+(3) The reason within this subsection is to enable the employer to employ another person, or to re-engage the employee, under a varied contract of employment to carry out the same duties, or substantially the same duties, as the employee carried out before being dismissed.
+
+(4) For the purposes of subsection (3), a contract of employment is a “varied” contract of employment if—
+
+- (a) the terms of the contract are not the same as the terms of the contract of employment under which the employee worked before being dismissed, and
+- (b) none of the differences between the two sets of terms constitutes a restricted variation;
+
+and, in a case where subsection (3) applies, any reference in this section to the variation is to be read accordingly.
+
+(5) The matters that must be considered in determining the question whether the dismissal is fair or unfair include the following—
+
+- (a) the reason for the variation;
+- (b) any consultation carried out by the employer with the employee about varying the employee’s contract of employment;
+- (c) if the employee is of a description in respect of which an independent trade union is recognised by the employer, any consultation carried out by the employer with that trade union;
+- (d) if the employee is not of a description in respect of which an independent trade union is recognised by the employer, any consultation carried out by the employer with any other person representing the interests of the employee that, at the time of the dismissal, had authority to receive information and to be consulted about the dismissal on the employee’s behalf;
+- (e) anything offered to the employee by the employer in return for agreeing to the variation;
+- (f) any matters specified for the purposes of this subsection in regulations made by the Secretary of State.
+
+(6) In this section—
+
+- “**recognised**”, in relation to a trade union, has the same meaning as in the Trade Union and Labour Relations (Consolidation) Act 1992 (see section 178 of that Act);
+- “**restricted variation**” has the same meaning as in section 104I.
+
+## Annotations
+
+[^key-6a21e5b400241e9be85d798b9d088b5e]: Textual amendment: [Ss. 104I-104K](https://www.legislation.gov.uk/ukpga/1996/18/section/104I) inserted (6.1.2026 for specified purposes, 6.4.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(13)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/13/b); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(5)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/5/b)

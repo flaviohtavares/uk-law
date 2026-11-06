@@ -1,0 +1,342 @@
+---
+title: The Jam and Similar Products (England) Regulations 2003
+id: uksi/2003/3120
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-12-01'
+text_date: '2023-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2003/3120
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/3120/pdfs/uksi_20033120_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/3120/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Jam and Similar Products (England) Regulations 2003
+
+> Text as at 2023-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2003 No. 3120
+
+FOOD, ENGLAND
+
+The Jam and Similar Products (England) Regulations 2003
+
+Made
+
+1st December 2003
+
+Laid before Parliament
+
+9th December 2003
+
+Coming into force
+
+31st December 2003
+
+The Secretary of State in exercise of the powers conferred by sections 16(1)(e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and now vested in him[^f00002] and having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] and in accordance with section 48(4) and (4B) of the Food Safety Act 1990, hereby makes the following Regulations:[^key-e6e721fe3973f99efbf746d33aff8eab]
+
+## 1. Title, application and commencement
+
+These Regulations may be cited as the Jam and Similar Products (England) Regulations 2003; they apply in relation to England only and come into force on 31st December 2003.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “the Act” means the Food Safety Act 1990;
+- [^key-bc857d1a90240f4030701accdf6ea8e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “aqueous extract of fruit” means the aqueous extract of fruit which, subject to the losses necessarily occurring in proper manufacturing, contains all the water-soluble constituents of the fruit used;
+- “catering establishment” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the ultimate consumer and is ready for consumption without further preparation;
+- “chestnut” means the fruit of the sweet chestnut tree (Castanea sativa);
+- “Directive 2001/113” means Council Directive 2001/113/EC[^f00005] relating to fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption;
+- [^key-12b785dce08cf8a5b0a5e701c53383fd]...
+- [^key-12b785dce08cf8a5b0a5e701c53383fd]...
+- “food authority” does not include—
+  - (a) the council of a district in a non-metropolitan county in England except where the county functions have been transferred to that council pursuant to a structural change; or
+  - (b) the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and the Middle Temple);
+- [^key-12b785dce08cf8a5b0a5e701c53383fd]...
+- “fruit” means fresh, sound fruit, free from deterioration, containing all of its essential constituents and sufficiently ripe for use, after cleaning, removal of blemishes, topping and tailing, and includes ginger, tomatoes, the edible parts of rhubarb stalks, carrots, sweet potatoes, cucumbers, pumpkins, melons and watermelons;
+- “fruit pulp” means the edible part of the whole fruit, with or without peel, skin, seeds or pips, as appropriate, which may have been sliced or crushed but which has not been reduced to a purée;
+- “fruit purée” means the edible part of the whole fruit, with or without peel, skin, seeds or pips, as appropriate, which has been reduced to a purée by being sieved or subjected to a similar process;
+- “ginger” means the edible root of the ginger plant in a fresh or preserved state and may be dried or preserved in syrup;
+- “ingredient” has the meaning assigned to it by Article 2(2)(f) of Regulation (EU) No 1169/2011[^key-f0b291523099ea6bd49e09883033d2bf];
+- “labelling” has the meaning assigned to it by Article 2(2)(j) of Regulation (EU) No 1169/2011[^key-18419e4521598244b5fad14b62a4da1c];
+- [^key-12b785dce08cf8a5b0a5e701c53383fd]...
+- “permitted additional ingredient” means an ingredient described in paragraph 1 of Schedule 2 which is used as specified in that paragraph;
+- “permitted sweetener” means any sweetener in so far as its use is permitted in specified jam or similar product by[^key-6913f77838e17bb4556dad125886d0b6] Regulation (EC) No 1333/2008 of the European Parliament and of the Council on food additives[^key-bfae34463400604507cd73581c2264a0];
+- “preparation” includes manufacture and any form of processing or treatment;
+- “Regulation ([^key-e3955383b234eed028fdab7b356e5e54]EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers , as last amended by[^key-56f4d716ea5c98abbb7da9cdf14a93ce] [Regulation (EU) 2015/2283](https://www.legislation.gov.uk/eur/2015/2283) of the European Parliament and of the Council on novel foods;
+- “reserved description”, as regards any specified jam or similar product means any description specified in relation to that product in column 1 of Schedule 1 as read with the Notes relating to that Schedule;
+- “sell” includes offer or expose for sale and includes have in possession for sale, and “sale” shall be construed accordingly;
+- “specified jam or similar product” means, subject to paragraph (2), any composition of food specified in column 2 of Schedule 1 as read with the Notes relating to that Schedule;
+- “sugars” means a sugar product defined in the Annex to Council Directive [2001/111/EC](https://www.legislation.gov.uk/eudr/2001/111) relating to certain sugars intended for human consumption[^f00009], fructose syrup, sugar extracted from fruit or brown sugar or any combination thereof;
+- “ultimate consumer” means any person who buys otherwise than—
+  - (a) for the purpose of resale,
+  - (b) for the purposes of a catering establishment, or
+  - (c) for the purposes of a manufacturing business;
+- “vine fruits” means muscatels, raisins, sultanas or currants.
+
+(2) A food described in column 2 of any items 1 to 7 of Schedule 1 is not a specified jam or similar product within the meaning of these Regulations if—
+
+- (a) it contains any additional ingredient other than a permitted additional ingredient;
+- (b) any raw material, to which paragraphs 2 to 4 of Schedule 2 refer, used in the preparation of that food has been subjected to any treatment other than a treatment authorised by those paragraphs.
+
+(3) Any other expression used both in these Regulations and in Directive 2001/113 has the same meaning in these Regulations as in that Directive.
+
+## 3. Scope of Regulations
+
+(1) Subject to paragraphs (2) and (3) these Regulations apply to specified jam or similar products, intended for human consumption and ready for delivery to the ultimate consumer or to a catering establishment.
+
+(2) These Regulations do not apply to any specified jam or similar product intended for the manufacture of fine bakery wares, pastries or biscuits.
+
+(3)[^key-08d9818bebf671eb4a70e0709436e0a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Reserved descriptions
+
+No person shall sell any food with a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description or any derivative thereof or any word or description substantially similar thereto unless—
+
+- (a) such food is the specified jam or similar product to which the reserved description relates;
+- (b) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food; or
+- (c) such description is used in addition to the name of the food and in accordance with practices used to designate other products which cannot be confused with those defined in column 2 of Schedule 1.
+
+## 5. Labelling and description of specified jam products
+
+(1) [^key-0e6a254eba4e19431da0ef578decd1d8]... no person shall sell any specified jam or similar product unless it is marked or labelled with the following particulars—
+
+- (a) the reserved description of the product;
+- (b) where any specified jam or similar product has a residual sulphur dioxide content of more than 10 milligrams per kilogram, then, in addition to any particular required to be identified in a list of ingredients by Regulation ([^key-78badcf162cfee95ebb9195bf67653c7]EU) No 1169/2011, that residual content shall be identified in the list of ingredients according to the percentage by weight of the residue in the product as “sulphur dioxide”.
+
+(2) [^key-a098bb2b8a1ff365924726a9e3fcac98]... no person shall sell any product specified at items 1–7 of Schedule 1 unless it is marked or labelled with the following particulars—
+
+- (a) in the case—
+  - (i) of a product prepared from a single type of fruit, an indication of that type of fruit;
+  - (ii) of a product prepared from two types of fruit, an indication of those types of fruit in descending order of the weight of the fruit pulp, fruit purée, fruit juice, fruit peel and aqueous extract of fruit used in the preparation of the product; and
+  - (iii) of a product prepared from three or more types of fruit, an indication of those types of fruit in descending order of the weight of the fruit pulp, fruit purée, fruit juice, fruit peel and aqueous extract of fruit used in the preparation of the product or alternatively the words “mixed fruit” or similar wording or the number of types of fruit used in the preparation of the product;
+- (b) an indication of the proportion of fruit used in the preparation of the product in the form “prepared with Xg of fruit per 100 g”, there being inserted in place of “X” the quantity in grams of fruit from which the fruit pulp, fruit purée, fruit juice, fruit peel and aqueous extract of fruit used for every hundred grams of the finished product are derived;
+- (c) except where a nutritional claim as regards sugar content is made and the product is marked or labelled, as regards sugar content, with the prescribed nutrition labelling as set out in Articles 30 to 35 of Regulation ([^key-8824e21f4b47eb7a495530c20b024b8c]EU) No 1169/2011, an indication of the total sugar content in the form “total sugar content: Yg per 100 g”, there being inserted in place of “Y” the content in grams of soluble solids in each hundred grams of the product, determined by refractometer at 20°C, the content shown being accurate to ±3 refractometric degrees.
+
+(3) The particulars with which the product is required to be marked or labelled in accordance with paragraph 2(b) and (c) shall appear in the labelling of the food in the same field of vision as the name of the product and in clearly visible characters.
+
+## 6. Manner of marking or labelling[^key-ae44a311984c74ba76d664a6a5733b2d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Penalties and enforcement
+
+(1) Any person who contravenes or fails to comply with regulation 4 or 5 of these Regulations shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) Each food authority shall enforce and execute these Regulations in its area.
+
+## 8. Defence in relation to exports[^key-03054aac16fb73a9bbb028c4a456c9ad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Application of various provisions of the Act
+
+The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or any Part thereof shall be construed as a reference to these Regulations—
+
+- (a) section 2 (extended meaning of sale etc.);
+- (b) section 3 (presumption that food is intended for human consumption);
+- (c) section 20 (offences due to fault of another person);
+- (d) section 21 (defence of due diligence), as it applies for the purposes of section 8, 14 or 15 of the Act;
+- (e) section 22 (defence of publication in the course of a business);
+- (f) section 30(8) (which relates to documentary evidence);
+- (g) section 33(1) (obstruction etc of officers);
+- (h) section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection (1)(b) above” shall be deemed to be a reference to any such requirement as is mentioned in section 33(1)(b) as applied by sub-paragraph (g) above;
+- (i) section 35(1) (punishment of offences), insofar as it relates to offences under section 33(1) as applied by sub-paragraph (g) above;
+- (j) section 35(2) and (3) insofar as it relates to offences under section 33(2) as applied by sub-paragraph (h) above;
+- (k) section 36 (offences by bodies corporate); and
+- (l) section 44 (protection of officers acting in good faith).
+
+## 10. Amendments and revocations
+
+(1) The Jam and Similar Products Regulations 1981[^f00011] and the Jam and Similar Products (Amendment) Regulations 1990[^f00012], insofar as each applies in relation to England, are revoked.
+
+(2) The following entries relating to the Jam and Similar Products Regulations 1981 shall (insofar as the following Regulations apply in relation to England) be omitted—
+
+- (a) in the Food (Revision of Penalties) Regulations 1982[^f00013], in Schedule 1;
+- (b) in the Food (Revision of Penalties) Regulations 1985[^f00014], in Schedule 1, Part I;
+- (c) in the Food Safety Act 1990 (Consequential Modifications) (England and Wales) Order 1990[^f00015], in Schedule 1, Part I, Schedule 3, Part I and Schedule 6;
+- (d) in the Food Safety (Exports) Regulations 1991[^f00016], in Schedule 1, Part 1;
+- (e) in the Food (Forces Exemptions) (Revocations) Regulations 1992[^f00017], in Part 1 of the Schedule;
+- (f) in the Food Labelling Regulations 1996[^f00018] in Schedule 9.
+
+(3) In the Miscellaneous Food Additives Regulations 1995[^f00019] (insofar as they apply in relation to England), in Schedules 2, 3 and 7 for the words “Directive [79/693/EEC](https://www.legislation.gov.uk/european/directive/1979/0693)” in each place where they appear there shall be substituted the words “Directive 2001/113/EC relating to fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption”.
+
+## 11. Transitional provisions
+
+In any proceedings for an offence under these Regulations it shall be a defence for the person charged to prove that—
+
+- (a) the food concerned was marked or labelled before 12th July 2004, and
+- (b) the matters constituting the alleged offence would not have constituted an offence under the Jam and Similar Products Regulations 1981 as they stood immediately before the coming into force of these Regulations.
+
+Signed by authority of the Secretary of State for Health
+
+Melanie Johnson
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+## SCHEDULE 1 — COMPOSITION
+
+Regulation 2(1)
+
+<table>
+<thead>
+<tr><th></th><th>Column 1</th><th>Column 2</th></tr>
+<tr><th></th><th>Reserved Descriptions</th><th>Specified jam or similar product</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="3">NOTES<br>1. In the case of a product prepared from a mixture of types of fruit, column 2 of this Schedule shall be read as if the minimum quantities specified for the various types of fruit mentioned or referred to therein were reduced in proportion to the relative quantities of the types of fruit used.<br>2. The products described in this Schedule must have a soluble dry matter content of 60% or more as determined by refractometer at 20°C except for—<br>(a) those products in respect of which sugars have been wholly or partially replaced by permitted sweeteners;<br>(b) those products labelled “reduced sugar” which may have a soluble dry matter content of not less than 25% and not more than 50%;<br>(c) those products described in items 8 to 11 which must have a soluble dry matter content of 65% or more.<br>3. Column 1 of this Schedule shall be read as if for “X” in item 8 there were substituted—<br>(a) the name of a particular type of fruit; or<br>(b) the words “mixed fruit”; or<br>(c) the word “fruit” preceded by an indication of the number of types of fruit used in the preparation of the food described in column 2 of the item.<br>4. Column 1 of this Schedule shall be read as if for “Y” in item 10 there were substituted—<br>(a) the name of a particular type of fruit; or<br>(b) the words “mixed fruit”.</td></tr>
+</tfoot>
+<tbody>
+<tr><td><strong>1</strong>.</td><td>Jam</td><td>A mixture, brought to a suitable gelled consistency, of sugars, the pulp or purée or both of one or more kinds of fruit and water, such that the quantity of fruit pulp or fruit purée or both used for every 1000 grams of the finished product is not less than—<br>(i) 250 grams in the case of redcurrants, blackcurrants, rosehips, rowanberries, sea buckthorns or quinces,<br>(ii) 150 grams in the case of ginger,<br>(iii) 160 grams in the case of cashew apples,<br>(iv) 60 grams in the case of passion fruit,<br>(v) 350 grams in the case of any other fruit.</td></tr>
+<tr><td><strong>2</strong>.</td><td>Extra Jam</td><td>A mixture, brought to a suitable gelled consistency, of—<br>sugars, the unconcentrated pulp of one or more kinds of fruit and water, or<br>in the case of rosehip extra jam or seedless raspberry, blackberry, blackcurrant, blueberry or redcurrant extra jam, of sugars, the unconcentrated purée of that fruit, or a mixture of the unconcentrated pulp and purée of that fruit, and water,<br>but the following fruits may not be used mixed with others in the manufacture of extra jam: apples, pears, clingstone plums, melons, watermelons, grapes, pumpkins, cucumbers and tomatoes.<br>The quantity of fruit pulp or fruit purée or both used for every 1000 grams of the finished product being not less than—<br>(i) 350 grams in the case of redcurrants, blackcurrants, rosehips, rowanberries, sea buckthorns or quinces,<br>(ii) 250 grams in the case of ginger,<br>(iii) 230 grams in the case of cashew apples,<br>(iv) 80 grams in the case of passion fruit,<br>(v) 450 grams in the case of any other fruit.</td></tr>
+<tr><td><strong>3</strong>.</td><td>Jelly</td><td>An appropriately gelled mixture of sugars and fruit juice or aqueous extract of fruit or both such that the quantity of fruit juice or aqueous extract of fruit or both used for every 1000 grams of the finished product is not less than—<br>(i) 250 grams in the case of redcurrants, blackcurrants, rosehips, rowanberries, sea buckthorns or quinces,<br>(ii) 150 grams in the case of ginger,<br>(iii) 160 grams in the case of cashew apples,<br>(iv) 60 grams in the case of passion fruit,<br>(v) 350 grams in the case of any other fruit.<br>The quantities in paragraphs (i) to (v) above are calculated after deduction of the weight of water used in preparing the aqueous extracts.</td></tr>
+<tr><td><strong>4</strong>.</td><td>Extra Jelly</td><td>An appropriately gelled mixture of sugars and fruit juice or aqueous extract of fruit, or both, but the following fruits may not be used mixed with others in the manufacture of extra jelly: apples, pears, clingstone plums, melons, watermelons, grapes, pumpkins, cucumbers and tomatoes.<br>The quantity of fruit juice or aqueous extract of fruit, or both, used for every kilogram of the finished product being not less than—<br>(i) 350 grams in the case of redcurrants, blackcurrants, rosehips, rowanberries, sea buckthorns or quinces,<br>(ii) 250 grams in the case of ginger,<br>(iii) 230 grams in the case of cashew apples,<br>(iv) 80 grams for passion fruit,<br>(v) 450 grams in the case of any other fruit.<br>The quantities in paragraphs (i) to (v) above are calculated after deduction of the weight of water used in preparing the aqueous extracts.</td></tr>
+<tr><td><strong>5</strong>.</td><td>Jelly marmalade</td><td>The composition of marmalade, as described below but where the product contains no insoluble matter except possibly for small quantities of finely sliced peel.</td></tr>
+<tr><td><strong>6</strong>.</td><td>Marmalade</td><td>A mixture, brought to a suitable gelled consistency, of water, sugars and fruit pulp, fruit purée, fruit juice, fruit peel or aqueous extract of fruit or any combination thereof, in every case obtained from citrus fruit, such that the quantity of citrus fruit used for every 1000 grams of the finished product is not less than 200 grams, of which not less than 75 grams is obtained from the endocarp.</td></tr>
+<tr><td><strong>7</strong>.</td><td>Sweetened chestnut purée</td><td>A mixture brought to a suitable consistency, of water, sugar and puréed chestnuts, such that the quantity of puréed chestnuts used for every 1000 grams of the finished product is not less than 380 grams.</td></tr>
+<tr><td><strong>8</strong>.</td><td>X curd</td><td>An emulsion of edible fat or oil (or both), sugar, whole egg or egg yolk (or both), and any combination of fruit, fruit pulp, fruit purée, fruit juice, aqueous extract of fruit or essential oils of fruit, with or without other edible ingredients, such that—<br>(a) the quantity of fat and oil used for every 1000 grams of the finished product is not less than 40 grams;<br>(b) the quantity of whole and egg yolk used for every 1000 grams of the finished product is not less than 6.5 grams of egg yolk solids; and<br>(c) the quantity of fruit, fruit pulp, fruit purée, fruit juice, aqueous extract of fruit, and essential oil of fruit is sufficient to characterise the finished product.</td></tr>
+<tr><td><strong>9</strong>.</td><td>Lemon cheese</td><td>A food conforming to the description in item 8 above appropriate for lemon curd.</td></tr>
+<tr><td><strong>10</strong>.</td><td>Y flavour curd</td><td>An emulsion of edible fat or oil (or both), sugar, whole egg or egg yolk (or both), and flavouring material with or without other edible ingredients, such that—<br>(a) the quantity of fat and oil used for every 1000 grams of the finished product is not less than 40 grams;<br>(b) the quantity of whole egg and egg yolk used is such that every 1000 grams of the finished product contains not less than 6.5 grams of egg yolk solids; and<br>(c) the quantity of flavouring material used is sufficient to characterise the product.</td></tr>
+<tr><td><strong>11</strong>.</td><td>Mincemeat</td><td>A mixture of sweetening agents, vine fruits, citrus peel, suet or equivalent fat and vinegar or acetic acid, with or without other edible ingredients, such that—<br>(a) the quantity of vine fruits and citrus peel used for every 1000 grams of the finished product is not less than 300 grams, of which not less than 200 grams consists of vine fruits; and<br>(b) the quantity of suet or equivalent fat used for every 1000 grams of the finished product is not less than 25 grams.<br>For the purposes of this entry, “sweetening agents” means—<br>(a) any sugar product defined in the Annex to Directive <a href="https://www.legislation.gov.uk/european/directive/2001/0111">2001/111/EC</a> relating to certain sugars intended for human consumption;<br>(b) brown sugar;<br>(c) cane molasses;<br>(d) honey, as defined in Council Directive <a href="https://www.legislation.gov.uk/european/directive/2001/0110">2001/110/EC</a> relating to honey.</td></tr>
+</tbody>
+</table>
+
+[^f00020][^f00021]
+
+## SCHEDULE 2 — PERMITTED ADDITIONAL INGREDIENTS AND AUTHORISED TREATMENTS FOR PRODUCTS DESCRIBED IN ITEMS 1 TO 7 OF SCHEDULE 1
+
+Regulation 2(1) and (2)
+
+**1.** The following additional ingredients may be used, to the extent stated below:
+
+- (a) honey as defined in Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) of 20 December 2001 relating to honey[^f00022]: in all products as a total or partial substitute for sugars;
+- (b) fruit juice: only in jam;
+- (c) citrus fruit juice: in products obtained from other types of fruit: only in jam, extra jam, jelly and extra jelly;
+- (d) red fruit juices: only in jam and extra jam manufactured from rosehips, strawberries, raspberries, gooseberries, redcurrants, plums and rhubarb;
+- (e) red beetroot juice: only in jam and jelly manufactured from strawberries, raspberries, gooseberries, redcurrants and plums;
+- (f) essential oils of citrus fruits: only in marmalade and jelly marmalade;
+- (g) edible oils and fats as anti-foaming agents: in all products;
+- (h) liquid pectin: in all products;
+- (i) citrus peel: in jam, extra jam, jelly and extra jelly;
+- (j) leaves of *Pelargonium odoratissimum*: in jam, extra jam, jelly and extra jelly, where they are made from quince;
+- (k) spirits, wine and liqueur wine, nuts, aromatic herbs, spices, vanilla and vanilla extracts: in all products;
+- (l) vanilline: in all products;
+- (m)[^key-8b83f6230a92bd1bcb1c8a235533a6dd] any substance permitted pursuant to Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives , as last amended by[^key-c40bdb36b5520e4a389292c5e7865c94] [Commission Regulation (EU) 2018/1497](https://www.legislation.gov.uk/european/regulation/2018/1497).
+
+**2.** Fruit, fruit pulp, fruit purée and aqueous extract of fruit may be treated in the following ways:
+
+- (a) heated, chilled or frozen;
+- (b) freeze-dried;
+- (c) concentrated, to the extent that is technically possible;
+- (d) except in relation to extra jam or extra jelly, sulphited, that is to say sulphur dioxide (E 220) or its salts (E 221, E 222, E 223, E 224, E 226 and E 227) may be used as an aid to manufacture provided that the maximum sulphur-dioxide content laid down in Regulation ([^key-4071e9f699040c93bdac2c3e08578705]EU) No 1333/2008 of the European Parliament and of the Council on food additives , as last amended by[^key-5c451aea08c4250a6b7a7bcc986aaf90] [Commission Regulation (EU) 2018/1497](https://www.legislation.gov.uk/european/regulation/2018/1497), is not exceeded.
+
+**3.** Apricots and plums to be used in the manufacture of jam may also be treated by other drying processes apart from freeze-drying.
+
+**4.** Citrus peel may additionally be preserved in brine.
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply to England, implement Council Directive 2001/113/EC concerning fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption (OJ No. L10, 12.1.2002, p. 67) and also contain national measures. They revoke and replace the Jam and Similar Products Regulations 1981, as amended, in relation to England.
+
+The Regulations—
+
+- (a) prescribe definitions and reserved descriptions for certain specified jam products (*regulation 2 and Schedules 1 and 2*). The products described in the entries numbered 1 to 7 of Schedule 1 are those in relation to which the Directive applies whilst those specified in the entries numbered 8 to 11 in Schedule 1 are included as national measures;
+- (b) provide for the circumstances in which the Regulations apply (*regulation 3*);
+- (c) restrict the use of reserved descriptions to the specified jam and similar products to which they relate (*regulation 4*);
+- (d) prescribe labelling requirements for such products (*regulation 5*);
+- (e) make provision as to the manner of marking and labelling specified jam and similar products (*regulation 6*);
+- (f) specify a penalty for contraventions of the Regulations, enforcement authorities and, in accordance with Articles 2 and 3 of Council Directive [89/397/EEC](https://www.legislation.gov.uk/european/directive/1989/0397) on the official control of foodstuffs (OJ No. L186, 30.6.89, p. 23) and the European Economic Area Agreement, a defence in relation to exports (*regulations 7 and 8*);
+- (g) apply various provisions of the Food Safety Act 1990 (*regulation 9*);
+- (h) revoke the previous Regulations and make consequential amendments and transitional provision (*regulations 10 and 11*).
+
+A full Regulatory Impact Assessment has been prepared and placed in the Library of each House of Parliament, together with a Transposition Note setting out how the main elements of the European legislation referred to above are transposed in these Regulations. Copies may be obtained from the Food Labelling and Standards Division of the Food Standards Agency, Aviation House, 125 Kingsway, London WC2B 6NH.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^f00002]: Footnote: Functions formerly exercisable by “the Ministers” (being, in relation to England and Wales and acting jointly, the Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with health in England and food and health in Wales and, in relation to Scotland, the Secretary of State) are now exercisable in relation to England by the Secretary of State pursuant to paragraph 8 of Schedule 5 to the Food Standards Act 1999 ([1999 c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), and paragraphs 12 and 21 of that Schedule amend respectively sections 17 and 48 of the Food Safety Act 1990. Functions of “the Ministers” so far as exercisable in relation to Wales were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), as read with section 40(3) of the 1999 Act, and those functions so far as exercisable in relation to Scotland were transferred to the Scottish Ministers by section 53 of the Scotland Act 1998 ([1998 c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), as read with section 40(2) of the 1999 Act. Regulation 13(4) of the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (England and Wales) Regulations 2000 (S.I. [2000/656](https://www.legislation.gov.uk/uksi/2000/656)) expressly authorises the Secretary of State to amend or revoke existing Regulations made or having effect as if made by the Minister of Agriculture, Fisheries and Food (whether with others or not) under the Food Safety Act 1990.
+
+[^f00003]: Footnote: OJ No. L31, 1.2.2002, p. 1.
+
+[^key-e6e721fe3973f99efbf746d33aff8eab]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-bc857d1a90240f4030701accdf6ea8e1]: Textual amendment: Words in reg. 2(1) omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/2/a)
+
+[^f00005]: Footnote: OJ No. L10, 12.1.2002, p. 67.
+
+[^key-12b785dce08cf8a5b0a5e701c53383fd]: Textual amendment: Words in reg. 2(1) omitted (17.6.2021) by virtue of [The Food (Amendment and Transitional Provisions) (England) Regulations 2021 (S.I. 2021/616)](https://www.legislation.gov.uk/uksi/2021/616), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/616/regulation/3/2)
+
+[^key-f0b291523099ea6bd49e09883033d2bf]: Textual amendment: Words in reg. 2(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/2/b)
+
+[^key-18419e4521598244b5fad14b62a4da1c]: Textual amendment: Words in reg. 2(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(2)(c)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/2/c)
+
+[^key-6913f77838e17bb4556dad125886d0b6]: Textual amendment: Words in reg. 2(1) substituted (20.1.2010) by [The Food Additives (England) Regulations 2009 (S.I. 2009/3238)](https://www.legislation.gov.uk/uksi/2009/3238), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3238/regulation/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2009/3238/regulation/18/5/a)
+
+[^key-bfae34463400604507cd73581c2264a0]: Textual amendment: Words in reg. 2(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(2)(d)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/2/d)
+
+[^key-e3955383b234eed028fdab7b356e5e54]: Textual amendment: Words in reg. 2(1) inserted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(2)(e)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/2/e)
+
+[^key-56f4d716ea5c98abbb7da9cdf14a93ce]: Textual amendment: Words in reg. 2(1) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/26/2)
+
+[^f00009]: Footnote: OJ No. L10, 12.1.2002, p. 53.
+
+[^key-08d9818bebf671eb4a70e0709436e0a9]: Textual amendment: Reg. 3(3) omitted (17.6.2021) by virtue of [The Food (Amendment and Transitional Provisions) (England) Regulations 2021 (S.I. 2021/616)](https://www.legislation.gov.uk/uksi/2021/616), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/616/regulation/3/3) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2021/616/regulation/6/2))
+
+[^key-0e6a254eba4e19431da0ef578decd1d8]: Textual amendment: Words in reg. 5(1) omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/3/a/i)
+
+[^key-78badcf162cfee95ebb9195bf67653c7]: Textual amendment: Words in reg. 5(1)(b) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/3/a/ii)
+
+[^key-a098bb2b8a1ff365924726a9e3fcac98]: Textual amendment: Words in reg. 5(2) omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/3/b/i)
+
+[^key-8824e21f4b47eb7a495530c20b024b8c]: Textual amendment: Words in reg. 5(2)(c) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/3/b/ii)
+
+[^key-ae44a311984c74ba76d664a6a5733b2d]: Textual amendment: Reg. 6 omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(4)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/4)
+
+[^key-03054aac16fb73a9bbb028c4a456c9ad]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/3120/regulation/8) revoked (1.1.2006) by [The Official Feed and Food Controls (England) Regulations 2005 (S.I. 2005/2626)](https://www.legislation.gov.uk/uksi/2005/2626), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2626/regulation/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2626/schedule/6/part/2)
+
+[^f00011]: Footnote: S.I. [1981/1063](https://www.legislation.gov.uk/uksi/1981/1063) as amended by S.I. [1982/1727](https://www.legislation.gov.uk/uksi/1982/1727), S.I. [1985/67](https://www.legislation.gov.uk/uksi/1985/67), S.I. [1988/2112](https://www.legislation.gov.uk/uksi/1988/2112), S.I. [1990/2085](https://www.legislation.gov.uk/uksi/1990/2085), S.I. [1990/2486](https://www.legislation.gov.uk/uksi/1990/2486), S.I. [1991/1476](https://www.legislation.gov.uk/uksi/1991/1476), S.I. [1992/2596](https://www.legislation.gov.uk/uksi/1992/2596), S.I. [1995/3123](https://www.legislation.gov.uk/uksi/1995/3123), S.I. [1995/3124](https://www.legislation.gov.uk/uksi/1995/3124), S.I. [1995/3187](https://www.legislation.gov.uk/uksi/1995/3187), [1995/1499](https://www.legislation.gov.uk/uksi/1995/1499) and S.I. [1998/1398](https://www.legislation.gov.uk/uksi/1998/1398).
+
+[^f00012]: Footnote: S.I. [1990/2085](https://www.legislation.gov.uk/uksi/1990/2085).
+
+[^f00013]: Footnote: S.I. [1982/1727](https://www.legislation.gov.uk/uksi/1982/1727).
+
+[^f00014]: Footnote: S.I. [1985/67](https://www.legislation.gov.uk/uksi/1985/67).
+
+[^f00015]: Footnote: S.I. [1990/2486](https://www.legislation.gov.uk/uksi/1990/2486).
+
+[^f00016]: Footnote: S.I. [1991/1476](https://www.legislation.gov.uk/uksi/1991/1476).
+
+[^f00017]: Footnote: S.I. [1992/2596](https://www.legislation.gov.uk/uksi/1992/2596).
+
+[^f00018]: Footnote: S.I. [1996/1499](https://www.legislation.gov.uk/uksi/1996/1499).
+
+[^f00019]: Footnote: S.I. [1995/3187](https://www.legislation.gov.uk/uksi/1995/3187).
+
+[^f00020]: Footnote: OJ No. L10, 12.1.2002, p. 53.
+
+[^f00021]: Footnote: OJ No. L10, 12.1.2002, p. 47.
+
+[^f00022]: Footnote: OJ No. L.10, 12.1.2002, p. 47.
+
+[^key-8b83f6230a92bd1bcb1c8a235533a6dd]: Textual amendment: Sch. 2 para. 1(m) substituted (20.1.2010) by [The Food Additives (England) Regulations 2009 (S.I. 2009/3238)](https://www.legislation.gov.uk/uksi/2009/3238), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3238/regulation/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2009/3238/regulation/18/5/b)
+
+[^key-c40bdb36b5520e4a389292c5e7865c94]: Textual amendment: Words in [Sch. 2 para. 1(m)](https://www.legislation.gov.uk/uksi/2003/3120/schedule/2/paragraph/1/m) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [26(3)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/26/3/a)
+
+[^key-4071e9f699040c93bdac2c3e08578705]: Textual amendment: Words in Sch. 2 para. 2(d) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2018/575/regulation/19/5)
+
+[^key-5c451aea08c4250a6b7a7bcc986aaf90]: Textual amendment: Words in [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/2003/3120/schedule/2/paragraph/2/d) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [26(3)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/26/3/b)

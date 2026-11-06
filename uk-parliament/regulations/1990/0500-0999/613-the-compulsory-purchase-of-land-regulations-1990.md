@@ -1,0 +1,258 @@
+---
+title: The Compulsory Purchase of Land Regulations 1990
+id: uksi/1990/613
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1990-03-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/613
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/613/pdfs/uksi_19900613_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/613/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Compulsory Purchase of Land Regulations 1990
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1990 No. 613
+
+ACQUISITION OF LAND, ENGLAND AND WALES
+
+The Compulsory Purchase of Land Regulations 1990
+
+Made
+
+14th March 1990
+
+Coming into force
+
+31st March 1990
+
+The Secretary of State for the Environment, in relation to England, and the Secretary of State for Wales, in relation to Wales, in exercise of the powers conferred upon them by sections 7(2)[^f00001], 10(2), 11(1), 12(1), 15 and 22 of, and paragraphs 2(1), 3(1) and 6 of Schedule 1 and paragraph 9 of Schedule 3 to, the Acquisition of Land Act 1981[^f00002], and of all other powers enabling them in that behalf, hereby make the following Regulations:–
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Compulsory Purchase of Land Regulations 1990, and shall come into force on 31st March 1990.
+
+## 2. Interpretation
+
+In these Regulations–
+
+- “the Act” means the Acquisition of Land Act 1981;
+- “clearance area order” means a compulsory purchase order made pursuant to section 290 of the Housing Act 1985[^f00003];
+- “the Planning Act” means the Town and Country Planning Act 1971[^f00004];
+
+and any reference to a numbered form is a reference to the form bearing that number in the Schedule hereto.
+
+## 3. Prescribed forms in connection with compulsory purchase orders
+
+The prescribed forms in relation to the provisions of the Act mentioned below are as follows–
+
+- (a) for the purposes of section 10, the form of compulsory purchase order (other than a clearance area order) shall be–
+  - (i) Form 1; or
+  - (ii) if the order provides for the vesting of land given in exchange pursuant to section 19 (commons, open spaces etc.), Form 2; or
+  - (iii) if the order does not provide for the vesting of land given in exchange pursuant to section 19, but provides for discharging the land purchased from rights, trusts and incidents pursuant to that section, Form 3;
+- (b) for the purposes of section 10, the form of a clearance area order shall be–
+  - (i) Form 4; or
+  - (ii) if the order provides for the vesting of land given in exchange pursuant to section 19 (commons, open spaces etc.), Form 5; or
+  - (iii) if the order does not provide for the vesting of land given in exchange pursuant to section 19, but provides for discharging the land purchased from rights, trusts and incidents pursuant to that section, Form 6;
+- (c) for the purposes of section 11(1) and paragraph 2(1) of Schedule 1, the form of newspaper notice shall be Form 7;
+- (d) subject to regulation 4 below, for the purposes of section 12(1) and paragraph 3(1) of Schedule 1, the form of notice to owners, lessees and occupiers shall be Form 8, or if the order is made on behalf of a parish (or, in Wales, community) council, Form 9;
+- (e) for the purposes of section 15 and paragraph 6 of Schedule 1, the form of notice of confirmation of a compulsory purchase order shall be Form 10; but in relation to an order made by a Minister, that form shall have effect with the substitution for references to the confirmation of an order submitted of references to the making of the order;
+- (f) for the purposes of section 22 and paragraph 9 of Schedule 3, the form of newspaper notice stating that a certificate has been given under section 16 or 19 of, or paragraph 3 or 6 of Schedule 3 to, the Act shall be Form 11.
+
+## 4. Additional provisions with respect to listed buildings
+
+Where a compulsory purchase order is made under section 114 of the Planning Act (compulsory acquisition of listed buildings in need of repair), there shall be included in Form 8, after the end of paragraph 2, the additional paragraphs set out after the notes to that Form, as follows–
+
+- (a) the additional paragraph numbered 3 shall be included in every case;
+- (b) the additional paragraph numbered 4 shall be included in any case where the notice is required by section 117(3) of the Planning Act (minimum compensa tion in the case of a building deliberately left derelict) to include a statement that the authority or Minister has included a direction for minimum compensation;
+- (c) the additional paragraph numbered 5 shall be included in every case;
+
+and the remaining paragraphs shall be re-numbered as necessary.
+
+## 5. Revocation
+
+The Compulsory Purchase of Land Regulations 1982[^f00005] are, with the exception of regulation 5, hereby revoked.
+
+Chris Patten
+
+Secretary of the State for the Environment
+
+14th March 1990
+
+Peter Walker
+
+Secretary of State for Wales
+
+14th March 1990
+
+## SCHEDULE
+
+CONTENTS
+
+Form 1
+
+Compulsory purchase order (other than a clearance area order).
+
+Form 2
+
+Compulsory purchase order (other than a clearance area order) providing for the vesting of exchange land.
+
+Form 3
+
+Compulsory purchase order (other than a clearance area order) not providing for the vesting of exchange land but providing for discharging the land purchased of rights, trusts and incidents.
+
+Form 4
+
+Clearance area order.
+
+Form 5
+
+Clearance area order providing for the vesting of exchange land.
+
+Form 6
+
+Clearance area order not providing for the vesting of exchange land but providing for discharging the land purchased of rights, trusts and incidents.
+
+Form 7
+
+Newspaper notice concerning a compulsory purchase order.
+
+Form 8
+
+Notice to owners, lessees and occupiers of land comprised in a compulsory purchase order.
+
+Form 9
+
+Notice to owners, lessees and occupiers of land comprised in a compulsory purchase order made on behalf of a parish or community council.
+
+Form 10
+
+Notice of confirmation of a compulsory purchase order.
+
+Form 11
+
+Newspaper notice of the giving of a certificate under section 16 or 19 of, or paragraph 3 or 6 of Schedule 3 to, the Acquisition of Land Act 1981.
+
+FORM 1
+
+FORM OF COMPULSORY PURCHASE ORDER
+
+Regulation 3(a)(i)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_001)
+
+FORM 2
+
+FORM OF COMPULSORY PURCHASE ORDER PROVIDING FOR THE VESTING OF EXCHANGE LAND
+
+Regulation 3(a)(ii)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_002) [image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_003)
+
+FORM 3
+
+FORM OF COMPULSORY PURCHASE ORDER PROVIDING FOR THE DISCHARGE OF RIGHTS, TRUSTS AND INCIDENTS
+
+Regulation 3(a)(iii)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_004) [image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_005)
+
+FORM 4
+
+FORM OF CLEARANCE AREA ORDER
+
+Regulation 3(b)(i)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_006) [image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_007)
+
+FORM 5
+
+FORM OF CLEARANCE ORDER PROVIDING FOR THE VESTING OF EXCHANGE LAND
+
+Regulation 3(b)(ii)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_008) [image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_009)
+
+FORM 6
+
+FORM OF COMPULSORY PURCHASE ORDER PROVIDING FOR THE DISCHARGE OF RIGHTS, TRUSTS AND INCIDENTS
+
+Regulation 3(b)(iii)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_010) [image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_011) [image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_012)
+
+FORM 7
+
+FORM OF NEWSPAPER NOTICE CONCERNING A COMPULSORY PURCHASE ORDER
+
+Regulation 3(c)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_013)
+
+FORM 8
+
+FORM OF NOTICE TO OWNERS, LESSEES AND OCCUPIERS OF LAND COMPRISED IN A COMPULSORY PURCHASE ORDER
+
+Regulation 3(d)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_014) [image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_015)
+
+FORM 9
+
+FORM OF NOTICE TO OWNERS, LESSEES AND OCCUPIERS OF LAND COMPRISED IN A COMPULSORY PURCHASE ORDER MADE ON BEHALF OF A PARISH OR COMMUNITY COUNCIL
+
+Regulation 3(d)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_016)
+
+FORM 10
+
+FORM OF NOTICE OF CONFIRMATION OF A COMPULSORY PURCHASE ORDER
+
+Regulation 3(e)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_017) [image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_018)
+
+FORM 11
+
+NOTICE OF THE GIVING OF A CERTIFICATE UNDER PART III OF OR SCHEDULE 3 TO THE ACQUISITION OF LAND ACT 1981
+
+Regulation 3(f)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/613/images/uksi_19900613_en_019)
+
+(This note is not part of the Regulations)
+
+These Regulations re-enact with amendments the Compulsory Purchase of Land Regulations 1982, other than regulation 5, insofar as they prescribe forms for use in connection with the compulsory purchase of land under the procedure of the Acquisition of Land Act 1981.
+
+The forms prescribed by these Regulations are—
+
+- (i) for the compulsory purchase order itself, Forms 1, 2 and 3 for an order (other than a clearance area order made pursuant to section 290 of the Housing Act 1985), and Forms 4, 5 and 6 in respect of a clearance area order;
+- (ii) the preliminary notices i.e. newspaper notice and the personal notice to owners, lessees and occupiers, describing the effect of the order and specifying how objections can be made (Forms 7, 8 and 9);
+- (iii) the notice of confirmation or making of the order (Form 10);
+- (iv) the notice that a certificate has been given under Part III of, or Schedule 3 to, the Acquisition of Land Act 1981 (Form 11).
+
+In addition to minor and drafting amendments, the Regulations make the following changes of substance. Section 43 of the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63) substitutes, with effect from 31st March 1990, a new section 125 of the Local Government Act 1972, which relates to the compulsory purchase of land on behalf of parish or community councils. This has required changes in Forms 7 and 9 and the omission of a prescribed form relating to inquiries where a district council propose to purchase land on behalf of a parish or community council.
+
+Regulations 3(a)(iii) and 3(b)(iii) prescribe new forms of compulsory purchase order, Forms 3 and 6, for use where the land to be purchased forms part of a common, open space or fuel or field garden allotment, where no land is being given in exchange but where the order will provide for the land purchased to be discharged from rights, trusts and incidents to which it was previously subject.
+
+## Annotations
+
+[^f00001]: Footnote: See definition of “prescribed”.
+
+[^f00002]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
+
+[^f00003]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68); Part IX of the Act is amended by Part II of Schedule 9 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^f00004]: Footnote: [1971 c. 78](https://www.legislation.gov.uk/ukpga/1971/78).
+
+[^f00005]: Footnote: S.I. [1982/6](https://www.legislation.gov.uk/uksi/1982/6).

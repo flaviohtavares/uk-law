@@ -1,0 +1,58 @@
+---
+title: Recall of MPs Act 2015, section 14
+act: Recall of MPs Act 2015
+section: '14'
+status: revised
+text_date: '2023-02-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2015/25/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Recall of MPs Act 2015, section 14
+
+> Text as at 2023-02-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 14. Determination of whether recall petition successful[^key-924274bc05a1d70ff1d06ae03f9d9335]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies unless the petition officer has received a notice under section 13(6) (early termination of recall petition process).
+
+(2) As soon as reasonably practicable after the end of the signing period, the petition officer must—
+
+- (a) determine whether the recall petition was successful,
+- (b) notify the Speaker that the recall petition was successful or unsuccessful, as the case may be, and
+- (c) having done that, give a public notice of the outcome of the recall petition in accordance with regulations under section 18.
+
+(3) For the purposes of this Act, a recall petition is successful if the number of persons who validly sign the petition is at least 10% of the number of eligible registered electors.
+
+“The number of eligible registered electors” is the number of persons registered in the register of parliamentary electors for the constituency on the last day of the signing period excluding those who, according to their entry in the register, are aged under 18 on that day.
+
+(4) Any alteration made to the register of parliamentary electors for the constituency which takes effect—
+
+- (a) after the day on which the Speaker's notice is given, and
+- (b) on or before the cut-off day,
+
+does not have effect for the purposes of subsection (3) if it results from a late application for registration.
+
+(5) Any alteration made to the register of parliamentary electors for the constituency which takes effect after the cut-off day does not have effect for the purposes of subsection (3) unless it takes effect under section 13BC(6) of the Representation of the People Act 1983 (alterations for court orders or errors).
+
+(6) For the purposes of subsection (3), a person validly signs a recall petition if—
+
+- (a) the person signs the petition on a day during the signing period on which the person is entitled to do so under section 10,
+- (b) the person has not previously signed the petition,
+- (c) each condition (if any) imposed by regulations under section 18 of the kind mentioned in section 18(3)(d)(i) (conditions for the exercise of entitlement to sign) applicable to the method of signing used is met,
+- (d) the person's signing of the petition is not invalid for the purposes of this Act under regulations under section 18 of the kind mentioned in section 18(3)(d)(iv), and
+- (e) the person is not within subsection (7).
+
+(7) A person is within this subsection if, on the last day of the signing period, the person is not registered in the register of parliamentary electors for the constituency because the person's entry has been removed by an alteration taking effect under section 13BC(6) of the Representation of the People Act 1983.
+
+(8) The Speaker must lay before the House of Commons any notice received under subsection (2)(b).
+
+## Annotations
+
+[^key-924274bc05a1d70ff1d06ae03f9d9335]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2015/25/section/14) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

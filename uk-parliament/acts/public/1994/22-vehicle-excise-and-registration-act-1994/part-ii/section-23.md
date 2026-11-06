@@ -1,0 +1,42 @@
+---
+title: Vehicle Excise and Registration Act 1994, section 23
+act: Vehicle Excise and Registration Act 1994
+section: '23'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/22/section/23
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Vehicle Excise and Registration Act 1994, section 23
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 23. Registration marks.
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the Secretary of State registers a vehicle under section 21(1) he shall assign to the vehicle a mark (a “registration mark”) indicating the registered number of the vehicle.
+
+(2) The Secretary of State may, in such circumstances as he may determine—
+
+- (a) assign a registration mark to a vehicle to which another registration mark has previously been assigned,
+- (b) assign to a vehicle (whether on its first registration or later) a registration mark previously assigned to another vehicle,
+- (c) (whether or not in connection with an assignment within paragraph (a) or (b)) withdraw any registration mark for the time being assigned to a vehicle, and
+- (d) re-assign to a vehicle a registration mark previously assigned to it but subsequently withdrawn.
+
+(3) The Secretary of State may by regulations provide that the registration mark for the time being assigned to a vehicle shall be fixed, in the manner prescribed by the regulations, on the vehicle, on any other vehicle drawn by the vehicle or on both.
+
+(4) The Secretary of State may by regulations prescribe—
+
+- (a) the size, shape and character of registration marks to be fixed on any vehicle, and
+- (b) the manner in which registration marks are to be displayed and rendered easily distinguishable (whether by day or by night).
+
+(5) The Secretary of State may by regulations—
+
+- (a) make provision for assigning general registration marks to persons holding trade licences and (in particular) prescribe the registration marks to be carried by vehicles the use of which is authorised by a trade licence, and
+- (b) make provision for the issue of trade plates to holders of trade licences and for the charging of a fee for the replacement of trade plates which are or may be lost, stolen, destroyed or damaged.

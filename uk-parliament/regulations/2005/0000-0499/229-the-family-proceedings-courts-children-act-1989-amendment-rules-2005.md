@@ -1,0 +1,193 @@
+---
+title: The Family Proceedings Courts (Children Act 1989) (Amendment) Rules 2005
+id: uksi/2005/229
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-02-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/229
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/229/pdfs/uksiem_20050229_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/229/pdfs/uksi_20050229_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/229/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Family Proceedings Courts (Children Act 1989) (Amendment) Rules 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 229
+
+FAMILY PROCEEDINGS, ENGLAND AND WALES
+
+The Family Proceedings Courts (Children Act 1989) (Amendment) Rules 2005
+
+Made
+
+7th February 2005
+
+Laid before Parliament
+
+8th February 2005
+
+Coming into force
+
+1st March 2005
+
+The Lord Chancellor, in exercise of the powers conferred upon him by section 144 Magistrates' Courts Act 1980[^f00001], and after consultation with the rule committee appointed under that section, makes the following rules:
+
+## 1. Citation, commencement and interpretation
+
+These Rules may be cited as the Family Proceedings Courts (Children Act 1989) (Amendment) Rules 2005 and shall come into force on 1st March 2005.
+
+**2.** In the following Rules—
+
+- (a) a reference to a rule, chapter, Part or Appendix by number alone means the rule, chapter, Part or Appendix so numbered in the Family Proceedings Courts (Children Act 1989) Rules 1991[^f00002]; and
+- (b) a reference to a Form by letter means the form so identified by that letter in Appendix 1 or (as the case may be) 1A to those Rules.
+
+## 3. Amendments to the Family Proceedings Courts (Children Act 1989) Rules 1991
+
+In the Arrangement of Rules after the entry for rule 21J insert—
+
+> **PART IIB**
+>
+> **PROCEEDINGS IN RESPECT OF THE COUNCIL REGULATION**
+>
+> 21K
+>
+> Application by a party for transfer of proceedings to a court of another Member State
+>
+> 21L
+>
+> Application by a court of another Member State for transfer of proceedings
+>
+> 21M
+>
+> A certified copy of a judgment for enforcement in other Member States
+>
+> 21N
+>
+> Application for a certificate in accordance with Article 41
+>
+> 21P
+>
+> Rectification of certificates issued under Article 41
+
+**4.** In rule 1.2(1)
+
+- (a) after the definition of “contribution order” insert—
+
+  > - “the Council Regulation” means Council Regulation [(EC) 2201/2003](https://www.legislation.gov.uk/european/regulation/2003/2201) of 27 November 2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility.
+- (b) after the definition of “officer of the service” insert—
+
+  > - “Member State” means—
+  >   - (a) those parties contracting to the Council Regulation, that is to say, Belgium, Cyprus, Czech Republic, Germany, Greece, Spain, Estonia, France, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Austria, Poland, Portugal, Slovakia, Slovenia, Finland, Sweden and the United Kingdom.
+  >   - (b) a party which has subsequently adopted the Council Regulation
+
+  .
+
+**5.** After rule 21J insert the following—
+
+> **PART IIB — PROCEEDINGS IN RESPECT OF THE COUNCIL REGULATION**
+>
+> **21K. Application by a party for transfer of proceedings to a court of another Member State**
+>
+> (1) A party may make an application that proceedings, or a specific part of those proceedings, be heard in another Member State pursuant to Article 15 of the Council Regulation.
+>
+> (2) An application under paragraph (1) shall be made—
+>
+> - (a) to the court in which the relevant parental responsibility proceedings (within the meaning of the Council Regulation) are pending; and
+> - (b) on notice in form C1; and
+> - (c) such notice shall be filed and served on the respondents not less than 5 business days before the hearing of the application.
+>
+> (3) An application made under paragraph (1) must be supported by an affidavit, which should contain evidence of the child’s particular connection to the other Member State in accordance with Article 15(3) of the Council Regulation. In this paragraph the child referred to is the child subject of the parental responsibility proceedings.
+>
+> (4) The respondents referred to in paragraph (2)(c) mean any other parties, the child and the Central Authority of the relevant Member State.
+>
+> **21L. Application by a court of another Member State for transfer of proceedings**
+>
+> (1) A court of another Member State may make an application that proceedings, or a specific part of those proceedings, be heard in that Member State pursuant to Article 15 of the Council Regulation.
+>
+> (2) An application under paragraph (1) should be made in the first instance to the Central Authority of England and Wales.
+>
+> (3) The Central Authority will forward an application made under paragraph (1) to the court in which the parental responsibility proceedings are pending, or where there are no pending proceedings to the principal registry.
+>
+> (4) When a court receives the application the court shall serve all other parties in England and Wales not less than 5 business days before the hearing of the application.
+>
+> (5) A decision to accept or refuse jurisdiction under Article 15 of the Council Regulation is to be served on all parties, the Central Authority of the relevant Member State and the Central Authority of England and Wales. Service on a Central Authority or court of another Member State shall be made by the Central Authority of England and Wales.
+>
+> **21M. A certified copy of a judgment for enforcement in other Member States**
+>
+> (1) An application for a certified copy of a judgment or certificate referred to in Article 37(1), 39 or 45(1) of the Council Regulation must be made to the court which made the order by witness statement or affidavit without notice being served on any other party.
+>
+> (2) A witness statement or affidavit by which an application for a certified copy of a judgment is made must—
+>
+> - (a) give particulars of the proceedings in which the judgment was obtained;
+> - (b) have annexed to it—
+>   - (i) a copy of the petition or application by which the proceedings were begun;
+>   - (ii) evidence of service on the respondent;
+>   - (iii) copies of the pleadings and particulars, if any; and
+>   - (iv) a statement of the grounds on which the judgment was based together, where appropriate, with any document showing that the applicant is entitled to legal aid or assistance by way of representation for the purposes of the proceedings;
+> - (c) state whether the respondent did or did not object to the jurisdiction, and if so, on what grounds;
+> - (d) show that the judgment has been served in accordance with rule 8 and is not subject to any order for the stay of proceedings;
+> - (e) state that the time for appealing has expired, or, as the case may be, the date on which it will expire and in either case whether notice of appeal against the judgment has been given; and
+> - (f) state—
+>   - (i) whether the judgment provides for the payment of a sum of money;
+>   - (ii) whether interest is recoverable on the judgment or part thereof and if so, the rate of interest, the date from which interest is recoverable, and the date on which interest ceases to accrue.
+>
+> (3) A witness statement or affidavit by which an application for a certificate is made must give—
+>
+> - (a) particulars of the proceedings in which the judgment was obtained;
+> - (b) the full name, country and place of birth and date of birth of the parties;
+> - (c) details of the type of certificate applied for and the reasons for making the application; and
+> - (d) where the application is for a certificate under Annex II to the Council Regulation—
+>   - (i) the full name and, if known, the address and the date and place of birth of any other persons with parental responsibility;
+>   - (ii) information as to whether or not the judgment entails the return of a child wrongfully removed or retained in another Member State and, if so, the full name and address of the person to whom the child should be returned.
+>
+> (4) The certified copy of the judgment shall be an office copy sealed with the seal of the court and signed by the justices' clerk and there shall be issued with the copy of the judgment a certified copy of any order which has varied any of the terms of the original order.
+>
+> **21N. Application for a certificate in accordance with Article 41**
+>
+> (1) An application for a certificate in accordance with Article 41 can be made, after judgment, by any party.
+>
+> (2) An application under paragraph (1) should be made to the court in which the relevant judgment was made and must be supported by an affidavit, which should contain evidence of the cross-border character of the case.
+>
+> **21P. Rectification of certificates issued under Article 41**
+>
+> (1) The court may rectify an error in a certificate issued under Article 41.
+>
+> (2) The court may rectify the certificate of its own motion or pursuant to an application made by any party to the proceedings, or the court or Central Authority of another Member State.
+
+Falconer of Thoroton, C.
+
+Date 7th February 2005
+
+(This note is not part of the Order)
+
+These rules amend the Family Proceedings Courts (Children Act 1989) Rules 1991 to give effect to Council Regulation [(EC) No 2201/2003](https://www.legislation.gov.uk/european/regulation/2003/2201) of 27 November 2003 (the new Council Regulation) on jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility.
+
+The new Council Regulation reproduces and repeals Council Regulation [(EC) No 1347/2000](https://www.legislation.gov.uk/european/regulation/2000/1347) of 29th May 2000 (the previous Council Regulation) extending it to include matters of parental responsibility where there are no matrimonial proceedings.
+
+The amendment to rule 1.2 is to insert a definition of the new Council Regulation and a definition of a “Contracting State”, which gives a list of Member States who have signed up to the new Council Regulation. This is to save cross-reference with other documents when trying to determine if the State in question is one to which the new Council Regulation is relevant. To be consistent with all European documents the list is in alphabetical order in accordance with the spelling of each State’s own spelling of its name.
+
+New rule 21K has been inserted to deal with the procedure required for Article 15 of the new Council Regulation to operate where parties may apply for their case, or part of their case, to be heard in another Member State.
+
+New rule 21L has been inserted to deal with the procedure required for Article 15 of the new Council Regulation to operate where a court of another Member State applies for a case, or part of a case, to be heard in that other Member State.
+
+New rule 21M has been inserted to set out the procedure so that applications for certified copies of judgments or certificates can be made.
+
+New rule 21N is so that an application for a certificate can be made in accordance with Article 41(3).
+
+New Rule 21P allows for a court to rectify an error in a certificate issued under Article 41.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c..43](https://www.legislation.gov.uk/ukpga/1980/43)
+
+[^f00002]: Footnote: S.I. [1991/1395](https://www.legislation.gov.uk/uksi/1991/1395)

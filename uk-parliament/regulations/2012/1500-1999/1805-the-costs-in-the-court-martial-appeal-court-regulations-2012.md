@@ -1,0 +1,242 @@
+---
+title: The Costs in the Court Martial Appeal Court Regulations 2012
+id: uksi/2012/1805
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-07-09'
+text_date: '2024-11-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/1805
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1805/pdfs/uksiem_20121805_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1805/pdfs/uksi_20121805_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1805/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Costs in the Court Martial Appeal Court Regulations 2012
+
+> Text as at 2024-11-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 1805
+
+Court Martial (appeals)
+
+The Costs in the Court Martial Appeal Court Regulations 2012
+
+Made
+
+9th July 2012
+
+Laid before Parliament
+
+12th July 2012
+
+Coming into force
+
+1st October 2012
+
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by sections 31(5)(b) and 33B(1)(e)[^f00001] of the Court Martial Appeals Act 1968[^f00002].
+
+## 1. Citation, commencement, application and interpretation[^key-114cd667c08eb460ccdb529d761e88fc]
+
+These Regulations may be cited as the Costs in the Court Martial Appeal Court Regulations 2012 and come into force on 1st October 2012.
+
+**2.**[^key-e97abcb30140c56d7d1e4861c84d1a67] These Regulations apply to all appeals and references to the Court Martial Appeal Court where the application for leave to appeal or notice of appeal was lodged, or the reference was made, or the notice of reference by the Attorney General under section 273(1) of the Armed Forces Act 2006[^f00003] was served, on or after 1st October 2012.
+
+**3.**[^key-cbf1e23065fed84a65a2a4efda274b5d] In these Regulations—
+
+- “determination” means a determination under section 31(5)(b) of the Court Martial Appeals Act 1968;
+- “direction” means the direction under section 31(1) of the Court Martial Appeals Act 1968 with respect to which a determination is made.
+
+## 3A. Application to appeals against a review of sentence[^key-8ab354934645a2a471f18da471049e51]
+
+(1) These Regulations apply to appeals against a review of sentence under section 304D or 304E of the Armed Forces Act 2006 as they apply to appeals falling within regulation 2 but with the modifications specified in paragraph (2).
+
+(2) The modifications are that—
+
+- (a) any reference to a “determination” is to be read as including a determination under regulation 13(6) of the 2024 Regulations;
+- (b) any reference to a “direction” is to be read as including a direction under regulation 13(2) of the 2024 Regulations with respect to which such a determination is made;
+- (c) any reference to an “**appellant**” (however expressed) has effect as a reference to an offender.
+
+(3) In this Regulation—
+
+- “**2024 Regulations**”means the Armed Forces (Appeals Against Review of Sentence) Regulations 2024;
+- “**offender**”has the meaning given for the purpose of the 2024 Regulations.
+
+## 4. Determination by the registrar[^key-97b61eed35ff6ccfb5c82c0cb49cdcee]
+
+(1) A determination shall be made by the registrar on behalf of the Court Martial Appeal Court in accordance with these Regulations.
+
+(2) In making a determination, the registrar shall consider any receipts or other evidence, and any further particulars, information or documents, submitted by the appellant in accordance with regulation 5.
+
+## 5. Provision of evidence to the registrar[^key-1ff0f3cf4ca75de5403297a85d578f4b]
+
+The appellant—
+
+- (a) subject to regulation 10, shall submit to the registrar within 3 months of the date on which the direction was made receipts or other evidence of the appellant’s payment of the costs to be paid in accordance with the direction; and
+- (b) shall submit to the registrar such further particulars, information and documents as the registrar may require.
+
+## 6. Notification of sums fixed[^key-763214e9c12c7aae36e7077f0504a1c5]
+
+When the registrar has made the determination, the registrar shall notify the appellant of the sums fixed.
+
+## 7. Redetermination of costs by the registrar[^key-6e75cfbfb79d324d8d3025918fa4e8db]
+
+(1) An appellant who is dissatisfied with any sum fixed by the registrar may apply to the registrar to redetermine them.
+
+(2) Subject to regulation 10, the application shall be made, within 21 days of the receipt of notification under regulation 6 of the sums fixed, by giving notice in writing to the registrar specifying any sum in respect of which the application is made and the grounds of objection, and shall be made in such form and manner as the registrar may direct.
+
+(3) The notice of application shall state whether the appellant wishes to appear or to be represented and, if the appellant so wishes, the registrar shall notify the appellant of the time at which he is prepared to hear the appellant or his representative.
+
+(4) The notice of application shall be accompanied by any particulars, information and documents supplied under regulation 5 and the appellant shall supply such further particulars, information and documents as the registrar may require.
+
+(5) The registrar shall redetermine the sum, whether by way of increase, decrease or at the level previously determined, in the light of the objections made the appellant or on his behalf and shall notify the appellant of his decision.
+
+(6) The appellant may request the registrar to give reasons in writing for his decision and, if so requested, the registrar shall comply with the request.
+
+(7) Subject to regulation 10, any request under paragraph (6) shall be made within 21 days of receiving notification of the decision.
+
+## 8. Appeals to a costs judge[^key-c73d2f2eecbf874764c20283ef46b54e]
+
+(1) Where the registrar has given his reasons for his decision on a redetermination under regulation 7, an appellant who is dissatisfied with that decision may appeal to a costs judge.
+
+(2) Subject to regulation 10, an appeal shall be instituted within 21 days of the receipt of the registrar’s reasons by giving notice in writing to the Senior Costs Judge specifying the costs in respect of which the appeal is brought and the grounds of objection.
+
+(3) The appellant shall send a copy of any notice given under paragraph (2) to the registrar.
+
+(4) The notice of appeal shall be accompanied by—
+
+- (a) a copy of the written notice given under regulation 7(2);
+- (b) any particulars, information and documents supplied to the registrar under regulation 7(4), and
+- (c) the registrar’s reasons for his decision given under regulation 7(6).
+
+(5) The notice of appeal shall state whether the appellant wishes to appear or to be represented or whether he will accept a decision given in his absence.
+
+(6) The Senior Costs Judge may, and if so directed by the Lord Chancellor either generally or in a particular case shall, send to the Lord Chancellor a copy of the notice of appeal together with copies of such other documents as the Lord Chancellor may require.
+
+(7) With a view to ensuring that the public interest is taken into account, the Lord Chancellor may arrange for written or oral representations to be made on his behalf and, if he intends to do so, he shall inform the Senior Costs Judge and the appellant.
+
+(8) Any written representations made on behalf of the Lord Chancellor under paragraph (7) shall be sent to the Senior Costs Judge and to the appellant and, in the case of oral representations, the Senior Costs Judge and the appellant shall be informed of the grounds on which such representation will be made.
+
+(9) The appellant shall be permitted a reasonable opportunity to make representations in reply.
+
+(10) The costs judge shall inform the appellant (or his representative) and the Lord Chancellor, where representations have been or are to be made on his behalf, of the date of any hearing and, subject to the provisions of this regulation, may give directions as to the conduct of the appeal.
+
+(11) The costs judge may consult the registrar or any judge of the Court Martial Appeal Court who heard the appeal in respect of which the direction was made, and may require the appellant to provide any further information which the registrar requires for the purpose of the appeal and, unless the costs judge otherwise directs, no further evidence shall be received on the hearing of the appeal and no ground of objection shall be valid which was not raised on the redetermination under regulation 7.
+
+(12) The costs judge shall have the same powers as the registrar under these Regulations and, in the exercise of such powers, may alter the redetermination of the registrar in respect of any sum fixed, whether by increase or decrease, as he thinks fit.
+
+(13) The costs judge shall communicate his decision and the reasons for it in writing to the appellant, the Lord Chancellor and the registrar.
+
+(14) Save where he confirms or decreases the sums redetermined under regulation 7, the costs judge may allow the appellant a sum in respect of part or all of any reasonable costs (including any fee payable in respect of an appeal) incurred by him in connection with the appeal.
+
+## 9. Appeals to the High Court[^key-f5236f9524e7654f9bb4e250bb7150c6]
+
+(1) An appellant who is dissatisfied with the decision of a costs judge on an appeal under regulation 8 may apply to a costs judge to certify a point of principle of general importance.
+
+(2) Subject to regulation 10, an application under paragraph (1) shall be made within 21 days of notification under regulation 8(13) of a cost judge’s decision.
+
+(3) Where the costs judge certifies a point of principle of general importance, the appellant may appeal to the High Court against the decision of the costs judge on an appeal under regulation 8, and the Lord Chancellor shall be the respondent to the appeal.
+
+(4) Subject to regulation 10, an appeal under paragraph (3) shall be instituted within 21 days of receiving the cost judge’s certificate under paragraph (1).
+
+(5) Where the Lord Chancellor is dissatisfied with the decision of a costs judge on an appeal under regulation 8, he may, if no appeal has been made by the appellant under paragraph (3), appeal to the High Court against that decision and the appellant shall be a respondent to the appeal.
+
+(6) Subject to regulation 10, an appeal under paragraph (5) shall be instituted within 21 days of receiving notification of the cost judge’s decision under regulation 8(13).
+
+(7) An appeal under paragraph (3) or (5) shall be brought in the Queen’s Bench Division, follow the procedure set out in Part 52 of the Civil Procedure Rules 1998[^f00004], and be heard and determined by a single judge, whose decision shall be final.
+
+(8) The judge shall have the same powers as the registrar and a costs judge under these Regulations, and may reverse, affirm or amend the decision appealed against or make such other order as he thinks fit.
+
+## 10. Time limits[^key-bc6ac15b64e9cd053cafa321991ce5df]
+
+(1) Subject to paragraph (3), a time limit specified in paragraph (2) may for good reason, be extended by the registrar, the Senior Costs Judge or the High Court as the case may be.
+
+(2) The time limits specified in this paragraph are those stated in—
+
+- (a) regulation 5(a);
+- (b) regulation 7(2);
+- (c) regulation 7(7);
+- (d) regulation 8(2);
+- (e) regulation 9(2);
+- (f) regulation 9(4); and
+- (g) regulation 9(6).
+
+(3) Subject to paragraph (4), where an appellant without good reason has failed (or, if an extension were not granted, would fail) to comply with a time limit specified in paragraph (2), the registrar, the Senior Costs Judge or the High Court, as the case may be, may in exceptional circumstances extend the time limit and shall consider whether it is reasonable in the circumstances to reduce the sums they would otherwise have fixed.
+
+(4) The sums that would otherwise have been fixed shall not be reduced under paragraph (3) unless the appellant or his representative has been allowed a reasonable opportunity to show cause orally or in writing why those sums should not be reduced.
+
+(5) An appellant may appeal to the Senior Costs Judge against a decision made under this regulation by the registrar and such an appeal shall be instituted within 21 days of the decision being given by giving notice in writing to the Senior Costs Judge specifying the grounds for appeal.
+
+Signed by the authority of the Lord Chancellor
+
+J Djanogly
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+9th July 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations provide for the procedures for the determination of sums to be paid by the Secretary of State where the Court Martial Appeal Court (“the Court”) direct the payment by him of costs to a successful appellant but do not fix the sums to be paid. The Regulations also provide for the review of such determinations.
+
+Regulation 2 provides that the Regulations only apply to proceedings in the Court arising on or after 1<sup>st</sup> October 2012.
+
+Regulation 4 lays down procedures for determinations by the registrar of the Court fixing the sums to be paid by the Secretary of State.
+
+Regulation 5 requires the appellant to submit receipts and other evidence within 3 months of the date of the direction and to submit any further particulars, information and documents that the registrar may require.
+
+Regulation 6 requires the registrar to notify the appellant of the sums fixed.
+
+Regulation 7 provides for a redetermination by the registrar of the sums fixed, where the appellant is dissatisfied with the registrar’s decision. The registrar is able to increase, decrease or confirm the sums fixed under the determination. If, following a redetermination, the appellant remains dissatisfied he may appeal to a costs judge in accordance with regulation 8.
+
+Under that regulation, the costs judge has the same powers as the registrar under the Regulations.
+
+Under regulation 9, if the appellant is dissatisfied with the decision of the costs judge, the appellant may apply to a costs judge to certify a point of principle of general importance and, if such certification is given, the appellant may appeal to the High Court against the decision of the costs judge. Regulation 9 also provides for the Lord Chancellor to appeal to the High Court where he is dissatisfied with the decision of the costs judge under regulation 8 and the appellant has not appealed to the High Court.
+
+Regulation 10 provides for the extension of time limits laid down in the Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: Sections 31(5)(b) and 33B(1)(e) are added by section 62 of, and paragraphs 2 and 6 of Schedule 8 to, the Legal Aid Sentencing and Punishment of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^f00002]: Footnote: [1968 c. 20](https://www.legislation.gov.uk/ukpga/1968/20). This Act was originally entitled the Courts-Martial (Appeals) Act 1968 but was re-titled by section 272 of, and paragraph 53 of Schedule 8 to, the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52).
+
+[^key-114cd667c08eb460ccdb529d761e88fc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+
+[^key-e97abcb30140c56d7d1e4861c84d1a67]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1805/regulation/2) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+
+[^f00003]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
+
+[^key-cbf1e23065fed84a65a2a4efda274b5d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1805/regulation/3) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+
+[^key-8ab354934645a2a471f18da471049e51]: Textual amendment: Reg. 3A inserted (20.11.2024) by [The Costs in the Court Martial Appeal Court (Amendment) Regulations 2024 (S.I. 2024/1062)](https://www.legislation.gov.uk/uksi/2024/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1062/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/1062/regulation/3)
+
+[^key-97b61eed35ff6ccfb5c82c0cb49cdcee]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1805/regulation/4) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+
+[^key-1ff0f3cf4ca75de5403297a85d578f4b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1805/regulation/5) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+
+[^key-763214e9c12c7aae36e7077f0504a1c5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1805/regulation/6) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+
+[^key-6e75cfbfb79d324d8d3025918fa4e8db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1805/regulation/7) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+
+[^key-c73d2f2eecbf874764c20283ef46b54e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1805/regulation/8) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+
+[^key-f5236f9524e7654f9bb4e250bb7150c6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1805/regulation/9) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)
+
+[^f00004]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132); relevant amending instruments are [S.I. 2000/221](https://www.legislation.gov.uk/uksi/2000/221), [2005/3515](https://www.legislation.gov.uk/uksi/2005/3515), [2006/1689](https://www.legislation.gov.uk/uksi/2006/1689), [2007/2204](https://www.legislation.gov.uk/uksi/2007/2204) and [2009/3390](https://www.legislation.gov.uk/uksi/2009/3390).
+
+[^key-bc6ac15b64e9cd053cafa321991ce5df]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1805/regulation/10) in force at 1.10.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1805/regulation/1)

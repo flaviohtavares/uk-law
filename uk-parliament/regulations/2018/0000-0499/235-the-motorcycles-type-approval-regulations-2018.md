@@ -1,0 +1,849 @@
+---
+title: The Motorcycles (Type-Approval) Regulations 2018
+id: uksi/2018/235
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2018-02-21'
+text_date: '2022-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/235
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/235/pdfs/uksiem_20180235_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/235/pdfs/uksi_20180235_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/235/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motorcycles (Type-Approval) Regulations 2018
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2022-12-31. See https://www.legislation.gov.uk/changes/affected/uksi/2018/235
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 235
+
+Road Traffic
+
+The Motorcycles (Type-Approval) Regulations 2018
+
+Made
+
+21st February 2018
+
+Laid before Parliament
+
+28th February 2018
+
+Coming into force
+
+20th May 2018
+
+The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 (“**the 1972 Act**”) [^c22908831].
+
+The Secretary of State is designated for the purposes of section 2(2) of the 1972 Act in relation to the regulation of the type, description, construction or equipment of vehicles, and of components of vehicles, and in particular any vehicle type-approval scheme [^c22908841].
+
+These Regulations make provision for a purpose mentioned in that section and it appears to the Secretary of State that it is expedient for references in these Regulations (and in the consequential amendments made by these Regulations) to Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^c22908851] to be construed as references to a version of that Regulation as it may be amended from time to time.
+
+## 1. Citation, commencement and effect
+
+These Regulations—
+
+- (a) may be cited as the Motorcycles (Type-Approval) Regulations 2018;
+- (b) come into force on 20th May 2018; and
+- (c) are of no effect in relation to any matter to which paragraphs 3 to 5 of article 77 of the Motorcycles Regulation applies.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**enforcement authority**” means the Secretary of State;
+- “**the Motorcycles Regulation**” means Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles as it may be amended from time to time;
+- “**relevant products**” means—
+  - (a) vehicles;
+  - (b) systems;
+  - (c) components;
+  - (d) separate technical units;
+  - (e) parts; or
+  - (f) equipment.
+
+(2) Unless otherwise provided, any word or expression used in these Regulations which is defined in article 3 of the Motorcycles Regulation has the meaning given in that article.
+
+## 3. Appointment of approval authority
+
+The Secretary of State is the approval authority for the purposes of these Regulations and the Motorcycles Regulation.
+
+## 4. Market surveillance authority
+
+The Secretary of State is the market surveillance authority for the purposes of—
+
+- (a) these Regulations and the Motorcycles Regulation; and
+- (b) where applied by the Motorcycles Regulation or otherwise applicable to relevant products, Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339) [^c22908861].
+
+## 5. Requests for information: failure to comply
+
+Where a manufacturer who makes an application for type-approval fails to comply with a reasoned request for additional information made under paragraph 5 of article 28 of the Motorcycles Regulation, the approval authority may treat the application as having been withdrawn by the manufacturer.
+
+## 6. Refusal of EU type-approval application
+
+(1) The approval authority must refuse an EU type-approval application if the requirements of—
+
+- (a) articles 29 and 31 to 33; or
+- (b) article 40,
+
+of the Motorcycles Regulation have not been complied with.
+
+(2) The requirements of article 32 of the Motorcycles Regulation are not complied with if the tests required by that article demonstrate that there is non-compliance with the technical prescriptions mentioned in paragraph 1 of that article.
+
+(3) The requirements of article 33 of the Motorcycles Regulation are not complied with if the approval authority is not satisfied that the applicant has made or will make adequate arrangements to ensure that—
+
+- (a) production will conform to the approved type; or
+- (b) the data in the certificates of conformity are correct.
+
+## 7. Conformity of production: record keeping
+
+The holder of an EU type-approval or whole-vehicle type-approval mentioned in article 33 of the Motorcycles Regulation must compile and retain for inspection by the approval authority for a period of five years commencing with the date of compilation, such records of tests and checks undertaken that are sufficient to demonstrate—
+
+- (a) conformity of production to the approved type;
+- (b) compliance of certificates of conformity to article 38 of the Motorcycles Regulation; and
+- (c) that the data in certificates of conformity issued by the holder are correct.
+
+## 8. Making available on the market or entry into service: derogations
+
+The derogations permitted by paragraphs 3 and 4 of article 45 of the Motorcycles Regulation apply.
+
+## 9. Review of decisions
+
+(1) A decision to which article 53 of the Motorcycles Regulation applies must be given by notice in writing (“a relevant notice”).
+
+(2) Where the approval authority has given a person a relevant notice, that person may apply to the approval authority for a reconsideration of the decision given in that notice.
+
+(3) An application under paragraph (2) must—
+
+- (a) be made within the period of 28 days beginning on the date when the relevant notice is received; and
+- (b) state the reasons for making the application and be accompanied by such further evidence as the person believes supports those reasons.
+
+(4) The approval authority may—
+
+- (a) request evidence in support of the application;
+- (b) after giving reasonable notice to the applicant, carry out a re-examination of one or more vehicles for the purpose of determining the issues raised by the application.
+
+(5) The approval authority must as soon as reasonably practicable—
+
+- (a) give written notification to the applicant stating whether the decision is confirmed, amended or reversed; and
+- (b) if the decision is reversed or amended, take the appropriate action in respect of the revised decision.
+
+(6) An applicant aggrieved by the approval authority's notification under paragraph (5) may by notice request the approval authority to appoint an independent assessor to review the decision to which the relevant notice relates.
+
+(7) A request under paragraph (6) must—
+
+- (a) be made not later than 28 days after receipt of the approval authority's notification under paragraph (5); and
+- (b) state the reasons for the request.
+
+(8) As soon as reasonably practicable after the date of receipt of the request under paragraph (6), the approval authority must—
+
+- (a) appoint a person to act as assessor or, at the authority's discretion, not more than three persons to act as an assessment panel; and
+- (b) notify the applicant of the appointment.
+
+(9) The independent assessor or assessment panel may—
+
+- (a) request further evidence in support of the request for review;
+- (b) after giving reasonable notice to the applicant, carry out a re-examination of one or more vehicles for the purpose of determining the issues raised by the request for review.
+
+## 10. Withdrawal of approvals: mistake or error
+
+(1) Subject to the provisions of this regulation, the approval authority may decide to withdraw any approval given by it by reason of mistake or error on the part of that authority.
+
+(2) A decision to withdraw an approval must be given by notice in writing (“a relevant notice”) and specify—
+
+- (a) the nature of the mistake or error; and
+- (b) the date from which the approval is to be withdrawn, which must be not less than 28 days nor more than six months after the date on which the relevant notice is given.
+
+(3) Regulation 9(2) to (9) applies to the review of a decision under this regulation.
+
+(4) Any review of a decision under this regulation may, subject to the requirement in paragraph (2)(b), vary the date from which the approval is to be withdrawn.
+
+## 11. Withdrawal and suspension of approvals: effect
+
+(1) If the holder of an approval which has been withdrawn or suspended pursuant to the Motorcycles Regulation or these Regulations purports by virtue of that approval to—
+
+- (a) issue a certificate of conformity with respect to a vehicle; or
+- (b) affix a statutory plate or mark pursuant to article 39 of the Motorcycles Regulation,
+
+the certificate, plate or mark is invalid.
+
+(2) The approval authority may, by notice given to the holder, exempt from paragraph (1) certificates of conformity or classes of certificates of conformity specified in the notice.
+
+(3) The suspension of an approval does not affect the validity of any certificate of conformity issued under it before that suspension.
+
+## 11A. Products approved in member States or in Northern Ireland[^key-2748517aa8fb3dae2e54cb1661f023c0]
+
+(1) Paragraphs (2) to (6) apply notwithstanding anything in these Regulations or the Motorcycles Regulation.
+
+(2) A manufacturer or an importer may place a qualifying relevant product on the market in Great Britain.
+
+(3) A distributor may make a qualifying relevant product available on the market in Great Britain.
+
+(4) The Secretary of State may issue a licence in accordance with section 7 of the Vehicle Excise and Registration Act 1994 to a qualifying relevant product which is a vehicle.
+
+(5) The Secretary of State may register a qualifying relevant product which is a vehicle in accordance with section 21 of the Vehicle Excise and Registration Act 1994.
+
+(6) In this regulation—
+
+- “**qualifying relevant product**” means a relevant product—
+  - (a) in respect of which the manufacturer of the product holds a relevant approval, or
+  - (b) which the Secretary of State has permitted to be placed on the market, registered or entered into service in accordance with Article 44 of the Motorcycles Regulation as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU Withdrawal Agreement;
+- “**relevant approval**” means—
+  - (a) a valid type-approval issued in accordance with the Motorcycles Regulation, provided that the product to which it relates was in the United Kingdom before IP completion day,
+  - (b) a valid type-approval issued in accordance with section 55(1A) or (1D) of the Road Traffic Act 1988,
+  - (c) a valid type-approval issued in relation to a qualifying Northern Ireland good, within the meaning of section 47 of the United Kingdom Internal Market Act 2020, in accordance with the Motorcycles Regulation as it has effect in EU law,
+  - (d) a valid type approval issued on or after IP completion day by the Secretary of State in accordance with the Motorcycles Regulation as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU Withdrawal Agreement,
+
+  and includes any such approval which is revised or extended.
+
+## 12. Service
+
+(1) Paragraphs (2) to (4) of this regulation have effect in relation to any notice or other document required or authorised by these Regulations or the Motorcycles Regulation to be given to or served on any person by the approval authority, market surveillance authority or enforcement authority.
+
+(2) Any such notice or document may be given to or served on the person in question—
+
+- (a) by delivering it to the person;
+- (b) by leaving it at that person's proper address;
+- (c) by sending it by post to that person at that address;
+- (d) by means of any form of electronic communication agreed with the person to whom it is to be sent.
+
+(3) Any such notice or document may—
+
+- (a) in the case of a body corporate, be given to or served on an officer of that body;
+- (b) in the case of a partnership, be given to or served on any partner;
+- (c) in the case of an unincorporated association other than a partnership, be given to or served on any member of the governing body of that association.
+
+(4) For the purposes of this regulation and section 7 of the Interpretation Act 1978 (service of documents by post) [^c22908871] in its application to this regulation, the proper address of any person is that person's last known address (whether of the person's residence or of a place where the person carries on business or is employed) and also—
+
+- (a) in the case of a body corporate or an officer of that body, the address of the registered or principal office of that body in the United Kingdom;
+- (b) in the case of an unincorporated association other than a partnership or a member of its governing body, its principal office in the United Kingdom;
+- (c) an address within the United Kingdom other than that person's proper address at which that person, or another acting on that person's behalf, will accept service of any notice or document required or authorised by these Regulations or the Motorcycles Regulation to be given to or served on any person by the approval authority.
+
+(5) Any notice or other document or information required by these Regulations or the Motorcycles Regulation to be given to or served by any person on the approval authority, market surveillance authority or enforcement authority must be—
+
+- (a) in writing; or
+- (b) in an electronic format accepted by, and sent by means of any form of electronic communication agreed with, the approval authority, market surveillance authority or enforcement authority (as appropriate).
+
+## 13. Provision of testing stations
+
+The approval authority may provide and maintain stations where examinations of relevant products may be carried out for the purposes of these Regulations or the Motorcycles Regulation and may provide and maintain apparatus for carrying out such examinations.
+
+## 14. Provision of technical information: loss or damage
+
+(1) Where a duty is imposed on a manufacturer by Chapter XIV of the Motorcycles Regulation (provision of technical information), any breach of the duty which causes a person to sustain loss or damage is actionable at the suit of that person.
+
+(2) But, in any proceedings brought against a manufacturer in pursuance of this regulation, it is a defence for the manufacturer to show that the manufacturer took all reasonable steps and exercised all due diligence to avoid the breach.
+
+## 14A. Defeat devices[^key-85d860c5a3c37b4191607dd0c097c853]
+
+(1) For the purposes of articles 19 and 76 of the Motorcycles Regulation, “use of a defeat device” is where a vehicle manufactured by a person—
+
+- (a) is placed on the market or registered in the United Kingdom; and
+- (b) that vehicle is fitted with a defeat device.
+
+(2) A separate offence under article 19 of the Motorcycles Regulation is committed in respect of each such vehicle placed on the market or registered.
+
+(3) Where, following examination of vehicles associated with a single vehicle type approval, the enforcement authority is satisfied that two or more of those vehicles—
+
+- (a) are vehicles for which a certificate of conformity has been issued in respect of that approval; and
+- (b) are fitted with a defeat device,
+
+each vehicle associated with that single vehicle type approval is to be taken to be similarly fitted with a defeat device unless proved otherwise by the manufacturer.
+
+(4) In paragraph (3), a vehicle is associated with a vehicle type approval if a certificate of conformity relating to that type approval has been issued in respect of that vehicle.
+
+(5) In this regulation—
+
+- “placed on the market” means supplying or making available, whether in return for payment or free of charge, to a third party, and includes exposure for sale to a third party;
+- “registered” means registered pursuant to section 21 of the Vehicle Excise and Registration Act 1994.
+
+## 15. Offences, enforcement and civil penalties
+
+(1) Schedule 1 (offences, penalties, enforcement and other matters) has effect.
+
+(2) Except in paragraph 2 of Schedule 1 or in relation to the expression “Officer of Revenue and Customs”, a reference in Schedule 1 to an officer is a reference to any person authorised by the enforcement authority to assist the authority in enforcing these Regulations and the Motorcycles Regulation.
+
+## 16. Consequential amendments and revocations
+
+Schedule 2 (consequential amendments and revocations) has effect.
+
+Signed by authority of the Secretary of State for Transport
+
+Jesse Norman
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+SCHEDULES
+
+## SCHEDULE 1 — Offences, penalties, enforcement and other matters
+
+Regulation 15
+
+### PART 1 — Offences
+
+#### 1. Offences and penalties
+
+A person who is an economic operator is guilty of an offence if that person—
+
+- (a) contravenes any prohibition in these Regulations or the Motorcycles Regulation; or
+- (b) fails to comply with any requirement or obligation in these Regulations or the Motorcycles Regulation.
+
+#### 2. Offences by bodies corporate and partnerships
+
+(1) If an offence under these Regulations committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, an officer of the body corporate, or a person purporting to act as an officer of the body corporate, that officer or person (as well as the body corporate) is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, sub-paragraph (1) applies in relation to the acts and omissions of a member in connection with the member's functions of management as it applies to an officer of the body corporate.
+
+(3) If an offence under these Regulations is—
+
+- (a) committed by a Scottish partnership; and
+- (b) proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, a partner of the partnership,
+
+the partner (as well as the partnership) is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(4) In this paragraph “**officer**” in relation to a body corporate means a director, secretary or other similar officer of the body corporate.
+
+### PART 2 — Penalties
+
+#### 3. Criminal penalties
+
+(1) A person guilty of an offence under these Regulations is punishable on summary conviction—
+
+- (a) in England and Wales by a fine or (in the case of an individual) by imprisonment for a term not exceeding three[^key-994e2d900a2e1e3d52986212295726df] months, or to both; or
+- (b) in Scotland or Northern Ireland by a fine not exceeding level 5 on the standard scale or (in the case of an individual) by imprisonment for a term not exceeding three months, or to both.
+
+(2) But an offence is not punishable under this paragraph if—
+
+- (a) the enforcement authority has required a person to pay a penalty in respect of that offence under paragraph 4; and
+- (b) that penalty has been paid to the enforcement authority.
+
+#### 4. Civil penalties
+
+(1) The enforcement authority may require a person who is an economic operator to pay a penalty if the enforcement authority is satisfied, on a balance of probabilities, that the person has committed an offence mentioned in paragraph 1.
+
+(2) But the enforcement authority may not require a person to pay a penalty if—
+
+- (a) the person shows that there was a reasonable excuse for committing the offence; or
+- (b) criminal proceedings have been instituted against the person in respect of the same offence.
+
+(3) A penalty imposed under this paragraph may not exceed £50,000 per offence.
+
+(4) The penalty is payable to the enforcement authority on demand.
+
+#### 5. Notification of penalty decision
+
+(1) If the enforcement authority decides to require a person to pay a penalty under these Regulations, the enforcement authority must give the person a penalty notice.
+
+(2) A penalty notice must—
+
+- (a) be in writing;
+- (b) state the enforcement authority's reasons for deciding to require the person to pay a penalty;
+- (c) state the amount of the penalty;
+- (d) specify the date on which it is given;
+- (e) specify the date, at least 28 days after the date specified in the notice as the date on which it is given, before which the penalty must be paid;
+- (f) specify how a penalty must be paid;
+- (g) include an explanation of the steps that the person may take if the person objects to the penalty (including specifying the manner and form in which any notice of objection must be given to the enforcement authority); and
+- (h) include an explanation of the steps the enforcement authority may take to recover any unpaid penalty.
+
+#### 6. Objection to penalty decision
+
+(1) The recipient of a penalty notice (the “recipient”) may object to the penalty notice by giving a notice of objection to the enforcement authority.
+
+(2) A notice of objection must—
+
+- (a) give the reasons for the objection;
+- (b) be given to the enforcement authority in the manner and form specified in the penalty notice; and
+- (c) be given before the end of the period of 28 days beginning with the date specified in the penalty notice as the date on which it is given.
+
+(3) Where the enforcement authority receives a notice of objection, the enforcement authority must consider it and—
+
+- (a) cancel the penalty;
+- (b) reduce the penalty;
+- (c) increase the penalty; or
+- (d) determine not to alter the penalty.
+
+(4) After reaching a decision as to how to proceed under sub-paragraph (3), the enforcement authority must notify the recipient of the decision in writing.
+
+(5) A notification under sub-paragraph (4) must be given before the end of the period of 70 days beginning with the date specified in the penalty notice as the date on which it is given, or such longer period as the enforcement authority may agree with the recipient.
+
+(6) A notification under sub-paragraph (4), other than one notifying the recipient that the enforcement authority has decided to cancel the penalty, must—
+
+- (a) state the amount of the penalty following the enforcement authority's consideration of the notice of objection;
+- (b) state the enforcement authority's reasons for the decision under sub-paragraph (3);
+- (c) specify the date, at least 28 days after the date on which the notification is given, before which the penalty must be paid;
+- (d) specify how the penalty must be paid;
+- (e) include an explanation of the recipient's rights of appeal; and
+- (f) include an explanation of the steps the enforcement authority may take to recover any unpaid penalty.
+
+(7)[^key-35f14e2d942576aba231449eafa6d739] A notification under sub-paragraph (4) notifying the recipient that the enforcement authority has decided to cancel the penalty must state the enforcement authority’s reasons for the decision under sub-paragraph (3).
+
+#### 7. Civil penalties: appeals
+
+(1) A person (the “appellant”) may appeal to the court against a decision to require the person to pay a penalty under these Regulations.
+
+(2) An appeal may be brought only if the appellant has given a notice of objection and the enforcement authority has—
+
+- (a) reduced the penalty under paragraph 6(3)(b);
+- (b) increased the penalty under paragraph 6(3)(c); or
+- (c) determined not to alter the penalty under paragraph 6(3)(d).
+
+(3) An appeal must be brought within the period of 28 days beginning with the date on which the person is notified of the enforcement authority's decision on the notice of objection under paragraph 6(4)[^key-fd2174de731215b9d89f7028d8740b79].
+
+(4) On appeal, the court may—
+
+- (a) allow the appeal and cancel the penalty;
+- (b) allow the appeal and reduce the penalty; or
+- (c) dismiss the appeal.
+
+(5) An appeal—
+
+- (a) is to be a re-hearing of the enforcement authority's decision to impose a penalty; and
+- (b) may be determined having regard to matters of which the enforcement authority was unaware.
+
+(6) Sub-paragraph (5)(a) has effect despite any provision of rules of court.
+
+(7) In this paragraph, a reference to “the court” is a reference—
+
+- (a) in England and Wales, to the county court;
+- (b) in Scotland, to the sheriff; and
+- (c) in Northern Ireland, to a county court.
+
+(8) But—
+
+- (a) the county court in England and Wales, or a county court in Northern Ireland, may transfer proceedings under this regulation to the High Court; and
+- (b) the sheriff may transfer proceedings under this regulation to the Court of Session.
+
+### PART 3 — Enforcement and other matters
+
+#### 8. Enforcement of penalty decision
+
+(1) This paragraph applies where a sum is payable to the enforcement authority as a penalty under these Regulations.
+
+(2) In England and Wales the penalty is recoverable as if it were payable under an order of the county court in England and Wales.
+
+(3) In Scotland the penalty may be enforced in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+
+(4) In Northern Ireland the penalty is recoverable as if it were payable under an order of a county court in Northern Ireland.
+
+(5) Where action is taken under this paragraph for the recovery of a sum payable as a penalty under these Regulations, the penalty is—
+
+- (a) in relation to England and Wales, to be treated for the purposes of section 98 of the Courts Act 2003 (register of judgments and orders etc.) [^c22908881] as if it were a judgment entered in the county court;
+- (b) in relation to Northern Ireland, to be treated for the purposes of Article 116 of the Judgments Enforcement (Northern Ireland) Order 1981 (register of judgments) [^c22908891] as if it were a judgment in respect of which an application has been accepted under Article 22 or 23(1) of that Order.
+
+#### 9. Obstruction of officers and false statements
+
+(1) A person must not—
+
+- (a) intentionally obstruct an officer when acting in pursuance of any provision of these Regulations;
+- (b) intentionally fail to comply with any requirement properly made by an officer under any provision of these Regulations; or
+- (c) without reasonable cause, fail to give an officer any other assistance or information which the officer may reasonably require of that person for the purposes of the exercise of the officer's functions under any provision of these Regulations.
+
+(2) A person must not, in giving any information which is required of that person by virtue of sub-paragraph (1)(c)—
+
+- (a) make any statement which the person knows is false in a material particular; or
+- (b) recklessly make a statement which is false in a material particular.
+
+#### 10. Powers of search, etc.
+
+(1) Officers may exercise any of the powers set out in sub-paragraph (2) at all reasonable hours provided—
+
+- (a) the officers identify themselves and produce authority in writing from the enforcement authority for the exercise by the officers of powers conferred on the authority by these Regulations; and
+- (b) state the purpose of the officers' actions and the grounds for undertaking them.
+
+(2) The powers referred to in sub-paragraph (1) are as follows—
+
+- (a) an officer may for the purpose of ascertaining whether an offence under these Regulations has been committed—
+  - (i) inspect any relevant products; and
+  - (ii) enter any premises other than premises used wholly or mainly as a dwelling;
+- (b) if an officer has reasonable cause to suspect that an offence under these Regulations has been committed, the officer may, for the purpose of ascertaining whether it has been committed, require any person carrying on, or employed in connection with, a business to produce any records relating to the relevant products and the officer may take copies of those records or any part of them;
+- (c) if an officer has reasonable cause to suspect that an offence under these Regulations has been committed, the officer may seize and detain any relevant products for the purpose of ascertaining whether the offence has been committed;
+- (d) an officer may seize and detain any relevant products or records which the officer has reason to believe may be required as evidence in proceedings for an offence under these Regulations;
+- (e) an officer may, for the purpose of exercising the officer's powers of seizure under this sub-paragraph, but only if and to the extent that it is reasonably necessary in order to secure that the provisions of these Regulations are duly observed, require any person having authority to do so to open any container and, if that person does not comply with the requirement or if there is no person present having authority to open it, the officer may break open the container.
+
+(3) For the purposes of sub-paragraph (2), the officer may require information stored electronically to be made available in printed form.
+
+(4) An officer may, for the purpose of ascertaining whether an offence has been committed under these Regulations, make a purchase of relevant products.
+
+(5) If a justice is satisfied by any written information on oath—
+
+- (a) that there are reasonable grounds for believing either—
+  - (i) that any relevant products or records, which an officer has power under this paragraph to inspect, copy, seize or require to be produced, is or are on any premises and that the inspection, copying, seizure or production of that item is likely to disclose evidence of the commission of an offence under these Regulations; or
+  - (ii) that any offence under these Regulations has been, is being, or is about to be committed on any premises; and
+- (b) either—
+  - (i) that admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant under this sub-paragraph has been given to the occupier; or
+  - (ii) that an application for admission, or the giving of such a notice, would defeat the object of the entry or that the premises are unoccupied or that the occupier is temporarily absent and it might defeat the object of the entry to await the occupier's return,
+
+the justice may by warrant under the justice's hand, which continues in force for a period of one month, authorise an officer to enter the premises, if need be by force.
+
+(6) On entering any premises by authority of a warrant granted under sub-paragraph (5), an officer must, if the occupier is present, give to the occupier or, if the occupier is temporarily absent, leave in a prominent place on the premises, or an appropriate part of the premises, a notice in writing—
+
+- (a) summarising an officer's powers of seizure and detention of any relevant products or records under this paragraph;
+- (b) explaining that compensation may be payable for damage caused in entering premises and seizing and removing any relevant products or records and giving the address to which an application for compensation should be directed; and
+- (c) indicating at which office of the enforcement authority and within which hours a copy of these Regulations is available to be consulted.
+
+(7) An officer, when entering any premises by virtue of this paragraph, may be accompanied by such persons and take such equipment as appear to the officer to be necessary.
+
+(8) An officer, when leaving any premises which the officer entered by virtue of a warrant, must, if the premises are unoccupied or the occupier is temporarily absent, leave them in as secure a state as that in which they were found.
+
+(9) When exercising any power of seizure and detention under this paragraph, an officer must, as soon as practicable, give to the person against whom the power has been exercised, a written notice stating—
+
+- (a) precisely what has been so seized and detained;
+- (b) that an application for the release of a detained item may be made in accordance with paragraph 12 of this Schedule; and
+- (c) the procedure for making such an application.
+
+(10) A person who is not an officer of the enforcement authority must not purport to act as such under this paragraph.
+
+(11) In sub-paragraph (5), the reference to “**any written information on oath**” is to be construed, in the application of this paragraph to—
+
+- (a) Scotland, as a reference to any evidence on oath;
+- (b) Northern Ireland, as a reference to any complaint on oath.
+
+(12) In this paragraph, “**justice**” means—
+
+- (a) in England and Wales, a justice of the peace;
+- (b) in Scotland, a sheriff or summary sheriff; and
+- (c) in Northern Ireland, a lay magistrate.
+
+#### 11. Powers of customs officers to detain goods
+
+(1) An Officer of Revenue and Customs may, for the purpose of facilitating the exercise by the enforcement authority, or duly authorised officer of the authority, of any powers conferred on the authority or officer by these Regulations seize any imported relevant products or any records, and detain them for not more than two working days.
+
+(2) Anything seized and detained under this paragraph must be dealt with during the period of its detention in such manner as the Commissioners for Her Majesty's Revenue and Customs may direct.
+
+(3) An Officer of Revenue and Customs seizing any relevant products or records under this paragraph must inform the person from whom they are seized that such relevant products or records have been seized.
+
+(4) In sub-paragraph (1) the reference to two working days is a reference to a period of forty-eight hours calculated from the time when the goods in question are seized, but disregarding so much of any period as falls on a Saturday or Sunday or on Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c22908901] in the part of the United Kingdom where the goods are seized.
+
+#### 12. Applications for the release of detained items
+
+(1) Any person having an interest in any relevant products or records detained for the time being under paragraph 10 may apply for an order requiring any item so detained to be released to the applicant or another person.
+
+(2) An application under this paragraph may be made—
+
+- (a) to any magistrates' court in which proceedings have been brought in England and Wales or Northern Ireland for an offence in respect of a contravention of any provision of these Regulations in connection with the detained item;
+- (b) where no such proceedings have been so brought, by way of complaint to a magistrates' court; or
+- (c) in Scotland, by summary application to the sheriff.
+
+(3) A magistrates' court or the sheriff must not make an order under sub-paragraph (1) unless the court or sheriff is satisfied that—
+
+- (a) proceedings have not been brought for an offence in respect of a contravention of any provision of these Regulations in connection with the detained item or, having been brought, have been concluded; and
+- (b) where no such proceedings have been brought, more than six months have elapsed since the seizure was carried out.
+
+(4) Any person aggrieved by an order made under this paragraph by a magistrates' court or sheriff, or by a decision of such a court or sheriff not to make such an order, may appeal against that order or decision—
+
+- (a) in England and Wales, to the Crown Court;
+- (b) in Scotland, to the Sheriff Appeal Court as though it were an appeal under section 110(1) of the Courts Reform (Scotland) Act 2014 [^c22908911]; or
+- (c) in Northern Ireland, to a county court.
+
+(5) In England and Wales or in Northern Ireland, an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c22908921] or Article 146 of the Magistrates' Courts (Northern Ireland) Order 1981 [^c22908931] (statement of case)).
+
+#### 13. Compensation for seizure and detention
+
+(1) Where an officer exercises any power under paragraph 10 to seize and detain any relevant products or records, the enforcement authority is liable to pay compensation to any person having an interest in the item seized and detained in respect of any loss or damage caused by the exercise of the power if—
+
+- (a) there has been no contravention of any provision of these Regulations; and
+- (b) the exercise of the power is not attributable to any neglect or default by that person.
+
+(2) Any disputed question as to the right to, or the amount of, any compensation payable under this paragraph must be determined by arbitration—
+
+- (a) in England and Wales or Northern Ireland, in accordance with the Arbitration Act 1996 [^c22908941]; or
+- (b) in Scotland, in accordance with the Arbitration (Scotland) Act 2010 [^c22908951].
+
+#### 14. Recovery of the expenses of enforcement
+
+(1) This paragraph applies where a court convicts a person of an offence in respect of a contravention of any provision of these Regulations in relation to any relevant products or records.
+
+(2) The court may (in addition to any other order it may make as to costs and expenses) order the person convicted to reimburse the enforcement authority for any expenditure which has been or may be incurred by that authority in connection with any seizure or detention by or on behalf of the authority of the relevant products or records.
+
+#### 15. Power of the Commissioners for Her Majesty's Revenue and Customs to disclose information
+
+(1) If they think it appropriate to do so for the purpose of facilitating the exercise by any person to whom sub-paragraph (2) applies of any functions conferred on that person by any provisions of these Regulations, the Commissioners for Her Majesty's Revenue and Customs may authorise the disclosure to that person of any information obtained for the purposes of the exercise by the Commissioners of their functions in relation to imported goods.
+
+(2) This sub-paragraph applies to the enforcement authority and to any officer authorised by the enforcement authority.
+
+(3) A disclosure of information made to any person under sub-paragraph (1) must be made in such manner as may be directed by the Commissioners for Her Majesty's Revenue and Customs and may be made through such persons acting on behalf of that person as may be so directed.
+
+(4) Information may be disclosed to a person under sub-paragraph (1) whether or not the disclosure of the information has been requested by or on behalf of that person.
+
+#### 16. Savings for certain privileges
+
+Nothing in these Regulations is to be taken as requiring any person—
+
+- (a) to produce any records if that person would be entitled to refuse to produce those records in any proceedings in any court on the grounds that they are the subject of legal professional privilege or, in Scotland, a claim of confidential communications, or as authorising any person to take possession of any records which are in the possession of a person who would be so entitled; or
+- (b) to answer any question or give any information if to do so would incriminate that person or that person's spouse or civil partner.
+
+#### 17. Savings for civil rights
+
+A contract for the supply of relevant products is not void or unenforceable by reason only of a contravention of any provision of these Regulations.
+
+## SCHEDULE 2 — Consequential amendments and revocations
+
+Regulation 16
+
+### PART 1 — Consequential amendments
+
+#### 1. Road Traffic Act 1988
+
+(1) The Road Traffic Act 1988 [^c22908961] is amended as follows.
+
+(2) Section 65A (motor cycles not to be sold without EC certificate of conformity) [^c22908971] is omitted.
+
+(3) In section 85(1) (interpretation of Part 2)—
+
+- (a) in the definition of “EC certificate of conformity”[^c22908981], for paragraph (b), substitute—
+
+  > - (b) in the case of a vehicle to which the motorcycle type approval Regulation applies, a certificate of conformity issued by a manufacturer under Article 38 of that Regulation;
+
+  ;
+- (b) in the definition of “light passenger vehicle”[^c22908991]—
+  - (i) for “1(3)”, substitute “ 4 ”;
+  - (ii) for “Directive”, substitute “ Regulation ”;
+- (c) for the definition of “the motorcycle type approval Directive”[^c22909001], substitute—
+
+  > “**the motorcycle type approval Regulation**” means Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15th January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles as it may be amended from time to time,
+
+  .
+
+(4) In section 86 (index to Part 2), for “Motorcycle type approval Directive”[^c22909011], substitute “Motorcycle type approval Regulation”.
+
+(5) In section 108(1) (interpretation), in the definition of “light quadricycle”—
+
+- (a) for “1(3)(a)”, substitute “ 4 ”;
+- (b) for “Directive”, substitute “ Regulation ”.
+
+(6) In section 183(2) (application to the Crown), for “sections 65 and 65A”[^c22909021], substitute “section 65”.
+
+#### 2. Road Traffic (Northern Ireland) Order 1981
+
+(1) The Road Traffic (Northern Ireland) Order 1981 [^c22909031] is amended as follows.
+
+(2) In Article 19D(1) (interpretation) [^c22909041]—
+
+- (a) in the definition of “moped”[^c22909051]—
+  - (i) for “1(3)(a)”, substitute “ 4 ”;
+  - (ii) for the first instance of “Directive”, substitute “ Regulation ”;
+- (b) in the definition of “motorcycle type approval Directive”[^c22909061], for “Directive”, substitute “ Regulation ”.
+
+(3) In Article 31A(7) (approval of design, construction, etc., of motor vehicles) [^c22909071]—
+
+- (a) for “31B to 31G”, substitute “ 31B to 31E ”;
+- (b) in the definition of “EC certificate of conformity”[^c22909081], for paragraph (b), substitute—
+
+  > - (b) in the case of a vehicle to which the motorcycle type approval Regulation applies, a certificate of conformity issued by a manufacturer under Article 38 of that Regulation;
+
+  ;
+- (c) in the definition of “light passenger vehicle”—
+  - (i) for “1(3)”, substitute “ 4 ”;
+  - (ii) for “Directive”, substitute “ Regulation ”;
+- (d) omit the definition of “the motorcycle type approval Directive”[^c22909091];
+- (e) after the definition of “motor vehicle”, insert—
+
+  > “**the motorcycle type approval Regulation**” means Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15th January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^c22909101] as it may be amended from time to time;
+
+  .
+
+(4) Omit Articles 31F (failure to hold EC certificate of conformity for unregistered light passenger vehicle or motor cycle) and 31G (light passenger vehicles or vehicle to which the motorcycle type approval Directive applies not to be sold without EC certificate of conformity) [^c22909111].
+
+#### 3. Amendment of the Passenger Car (Fuel Consumption and CO2 Emissions Information) Regulations 2001
+
+In regulation 4 of the Passenger Car (Fuel Consumption and CO2 Emissions Information) Regulations 2001 [^c22909121], for “Article 1(3) of Directive [2002/24/EC](https://www.legislation.gov.uk/european/directive/2002/0024) of 18th March 2002 of the European Parliament and of the Council”, substitute “ Article 3 of Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^c22909131] as it may be amended from time to time ”.
+
+#### 4. Amendment of the End-of-Life Vehicles Regulations 2003
+
+In regulation 2 of the End-of-Life Vehicles Regulations 2003 [^c22909141], for the definition of “vehicle”, substitute—
+
+> “**vehicle**” means—
+>
+> - (a) any vehicle designated as category M<sub>1</sub> or N<sub>1</sub> defined in Annex II to Directive [2007/46/EC](https://www.legislation.gov.uk/european/directive/2007/0046) of the European Parliament and of the Council establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles [^c22909151]; and
+> - (b) three-wheel motor vehicles within the meaning of Article 4 and Annex 1 of Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^c22909161] as it may be amended from time to time, but excluding any vehicle of category L5e;
+
+.
+
+#### 5. Amendment of the End-of-Life Vehicles (Producer Responsibility) Regulations 2005
+
+In regulation 2 of the End-of-Life Vehicles (Producer Responsibility) Regulations 2005 [^c22909171], for the definition of “vehicle”, substitute—
+
+> “**vehicle**” means—
+>
+> - (a) any vehicle designated as category M<sub>1</sub> or N<sub>1</sub> defined in Annex II to Directive [2007/46/EC](https://www.legislation.gov.uk/european/directive/2007/0046) of the European Parliament and of the Council establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles [^c22909181]; and
+> - (b) three-wheel motor vehicles within the meaning of Article 4 and Annex 1 of Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^c22909191] as it may be amended from time to time, but excluding any vehicle of category L5e;
+
+.
+
+#### 6. Amendment of the Supply of Machinery (Safety) Regulations 2008
+
+For paragraph 1(e)(iii) of Schedule 3 to the Supply of Machinery (Safety) Regulations 2008 [^c22909201], substitute—
+
+> - (iii) vehicles covered by Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^c22909211] as it may be amended from time to time;
+
+.
+
+#### 7. Amendment of the Road Vehicles (Approval) Regulations 2009
+
+For regulation 5(2)(b) of the Road Vehicles (Approval) Regulations 2009 [^c22909221], substitute—
+
+> - (b) quadricycles, as defined in Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles [^c22909231] as it may be amended from time to time;
+
+.
+
+### PART 2 — Revocations
+
+#### 8. Revocations
+
+The following Regulations are revoked—
+
+- (a) the Motor Cycles Etc (EC Type Approval) Regulations 1999 [^c22909241];
+- (b) the Motor Cycles Etc (EC Type Approval) (Amendment) Regulations 2001 [^c22909251];
+- (c) the Motor Cycles Etc (EC Type Approval) (Amendment) (No 2) Regulations 2001 [^c22909261];
+- (d) the Motor Cycles Etc (EC Type Approval) (Amendment) Regulations 2003 [^c22909271];
+- (e) the Motor Cycles Etc (EC Type Approval) (Amendment) Regulations 2004 [^c22909281];
+- (f) the Motor Cycles Etc (EC Type Approval) (Amendment) (No 2) Regulations 2004 [^c22909291];
+- (g) the Motor Cycles Etc (EC Type Approval) (Amendment) Regulations 2006 [^c22909301];
+- (h) the Motor Cycles Etc (EC Type Approval) (Amendment) Regulations 2007 [^c22909311];
+- (i) the Motor Cycles Etc and Tractors Etc (EC Type Approval) (Amendment) Regulations 2009 [^c22909321];
+- (j) the Motor Cycles Etc and Tractors Etc (EC Type Approval) (Amendment) Regulations 2010 [^c22909331].
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in connection with Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ No L 60, 2.3.2013, p.52) “the Motorcycles Regulation”. In particular, they—
+
+- — appoint the Secretary of State as the approval authority and the market surveillance authority for the purposes of the Motorcycles Regulation (regulations 3 and 4)
+- — specify when the Secretary of State may treat any application as having been withdrawn by the manufacturer (regulation 5) or when it must be refused (regulation 6)
+- — require the holder of a type-approval to retain certain records (regulation 7)
+- — derogate from the requirements of the Motorcycles Regulation in respect of components or separate technical units which have been exempted from one or more provisions of the Motorcycles Regulation, or which are not required to be type-approved by the Motorcycles Regulation (regulation 8)
+- — provide for a review procedure in respect of decision notices given under article 53 of the Motorcycles Regulation (regulation 9)
+- — specify when an approval may be withdrawn (regulation 10) and the effect of such a withdrawal or a suspension (regulation 11)
+- — set out how any notice or other document is to be served on the approval authority, market surveillance authority or enforcement authority (regulation 12)
+- — authorise the approval authority to provide and maintain testing stations and apparatus to use for examination of products for the purposes of the Motorcycles Regulation (regulation 13)
+- — provide that breach of the duty to provide certain technical information which causes a person to sustain loss or damage is actionable at the suit of that person, and a defence available to the manufacturer where they have exercised all due diligence (regulation 14)
+- — provide for breach of the Regulations or the Motorcycles Regulation to be an offence, and for offences to be punishable either by criminal or civil penalties (parts 1 and 2 of Schedule 1)
+- — make provision for enforcement of the Regulations, including in connection with false statements and obstruction of officers, powers of search, detention of goods by customs officers and recovery of expenses of enforcement (part 3 of Schedule 1)
+- — makes consequential amendments to various enactments, and revokes instruments replaced by the Motorcycles Regulation (Schedule 2)
+
+The net costs imposed on business, the voluntary sector and the public sector by these Regulations have been assessed as being less than £5m in any year and therefore a full impact assessment has not been prepared, and a Review provision not included.
+
+## Annotations
+
+[^c22908831]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
+
+[^c22908841]: Marginal citation: See [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^c22908851]: Marginal citation: OJ No L 60, 2.3.2013, p.52.
+
+[^c22908861]: Marginal citation: OJ No L 218, 13.8.2008, p.30.
+
+[^key-2748517aa8fb3dae2e54cb1661f023c0]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2018/235/regulation/11A) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/1273/regulation/8)
+
+[^c22908871]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-85d860c5a3c37b4191607dd0c097c853]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2018/235/regulation/14A) inserted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [19](https://www.legislation.gov.uk/uksi/2018/673/regulation/19)
+
+[^key-994e2d900a2e1e3d52986212295726df]: Textual amendment: Word in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/3/1) substituted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [20(a)](https://www.legislation.gov.uk/uksi/2018/673/regulation/20/a)
+
+[^key-35f14e2d942576aba231449eafa6d739]: Textual amendment: [Sch. 1 para. 6(7)](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/6/7) inserted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [20(b)](https://www.legislation.gov.uk/uksi/2018/673/regulation/20/b)
+
+[^key-fd2174de731215b9d89f7028d8740b79]: Textual amendment: Word in Sch. 1 para. 7(3) substituted (1.7.2018) by [The Road Vehicles (Defeat Devices, Fuel Economy and Type-Approval) (Amendment) Regulations 2018 (S.I. 2018/673)](https://www.legislation.gov.uk/uksi/2018/673), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/1/c), [20(c)](https://www.legislation.gov.uk/uksi/2018/673/regulation/20/c)
+
+[^c22908881]: Marginal citation: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39); [section 98](https://www.legislation.gov.uk/uksi/2018/235/section/98) has been amended by sections 48(1) and 106(2) of, and paragraph 55(1), (2), (3)(a) and (b) of Schedule 8 and paragraph 15 of Schedule 16 to, the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) and section 17(5) of, and paragraph 40(a) and (c) of Part 2 of Schedule 9 to, the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22). Further amendments made by the Tribunals, Courts and Enforcement Act 2007 have yet to be brought into force.
+
+[^c22908891]: Marginal citation: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226).
+
+[^c22908901]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c22908911]: Marginal citation: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
+
+[^c22908921]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c22908931]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
+
+[^c22908941]: Marginal citation: [1996 c.23](https://www.legislation.gov.uk/ukpga/1996/23).
+
+[^c22908951]: Marginal citation: [2010 asp 1](https://www.legislation.gov.uk/asp/2010/1).
+
+[^c22908961]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^c22908971]: Marginal citation: [Section 65A](https://www.legislation.gov.uk/uksi/2018/235/section/65A) was inserted by [S.I. 1992/3107](https://www.legislation.gov.uk/uksi/1992/3107).
+
+[^c22908981]: Marginal citation: The definition of “EC certificate of conformity” was originally inserted by [S.I. 1992/3107](https://www.legislation.gov.uk/uksi/1992/3107) and substituted by [S.I. 2009/818](https://www.legislation.gov.uk/uksi/2009/818).
+
+[^c22908991]: Marginal citation: The definition of “light passenger vehicle” was inserted by [S.I. 1992/3107](https://www.legislation.gov.uk/uksi/1992/3107) and amended by [S.I. 2009/818](https://www.legislation.gov.uk/uksi/2009/818).
+
+[^c22909001]: Marginal citation: The definition of “the motorcycle type approval Directive” was substituted by [S.I. 2003/1099](https://www.legislation.gov.uk/uksi/2003/1099).
+
+[^c22909011]: Marginal citation: The entry for “Motorcycle type approval Directive” was inserted by [S.I. 1992/3107](https://www.legislation.gov.uk/uksi/1992/3107).
+
+[^c22909021]: Marginal citation: The words “sections 65 and 65A” were substituted by paragraph 22(2)(a) of Schedule 23 to the Deregulation Act 2015.
+
+[^c22909031]: Marginal citation: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154).
+
+[^c22909041]: Marginal citation: [Article 19D](https://www.legislation.gov.uk/uksi/2018/235/article/19D) was inserted by [S.I.1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197) and amended by [S.R. 1996/426](https://www.legislation.gov.uk/nisr/1996/426), 2012/170 and 2015/6.
+
+[^c22909051]: Marginal citation: The definition of “moped” was substituted by [S.R. 2012/170](https://www.legislation.gov.uk/nisr/2012/170).
+
+[^c22909061]: Marginal citation: The definition of “motorcycle type approval Directive” was inserted by [S.R. 2012/170](https://www.legislation.gov.uk/nisr/2012/170).
+
+[^c22909071]: Marginal citation: [Article 31A](https://www.legislation.gov.uk/uksi/2018/235/article/31A) was inserted by [S.I. 1985/755 (N.I. 6)](https://www.legislation.gov.uk/nisi/1985/755).
+
+[^c22909081]: Marginal citation: The definition of “EC certificate of conformity” was inserted by [S.R. 1993/246](https://www.legislation.gov.uk/nisr/1993/246); paragraph (b) of that definition was substituted by [S.I. 2003/1099](https://www.legislation.gov.uk/uksi/2003/1099).
+
+[^c22909091]: Marginal citation: The definition of “motorcycle type approval Directive” was inserted by [S.I. 2003/1099](https://www.legislation.gov.uk/uksi/2003/1099).
+
+[^c22909101]: Marginal citation: OJ No L 60, 2.3.2013, p.52.
+
+[^c22909111]: Marginal citation: [Articles 31F](https://www.legislation.gov.uk/uksi/2018/235/article/31F) and 31G were inserted by [S.I. 1985/755 (N.I. 6)](https://www.legislation.gov.uk/nisi/1985/755).
+
+[^c22909121]: Marginal citation: [S.I. 2001/3523](https://www.legislation.gov.uk/uksi/2001/3523), as amended by [S.I. 2004/1661](https://www.legislation.gov.uk/uksi/2004/1661) and 2013/65.
+
+[^c22909131]: Marginal citation: OJ No L 60, 2.3.2013, p.52.
+
+[^c22909141]: Marginal citation: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635).
+
+[^c22909151]: Marginal citation: OJ No L 263, 9.10.2007, p.1.
+
+[^c22909161]: Marginal citation: OJ No L 60, 2.3.2013, p.52.
+
+[^c22909171]: Marginal citation: [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263).
+
+[^c22909181]: Marginal citation: OJ No L 263, 9.10.2007, p.1.
+
+[^c22909191]: Marginal citation: OJ No L 60, 2.3.2013, p.52.
+
+[^c22909201]: Marginal citation: [S.I. 2008/1597](https://www.legislation.gov.uk/uksi/2008/1597).
+
+[^c22909211]: Marginal citation: OJ No L 60, 2.3.2013, p.52.
+
+[^c22909221]: Marginal citation: [S.I. 2009/717](https://www.legislation.gov.uk/uksi/2009/717).
+
+[^c22909231]: Marginal citation: OJ No L 60, 2.3.2013, p.52.
+
+[^c22909241]: Marginal citation: [S.I. 1999/2920](https://www.legislation.gov.uk/uksi/1999/2920).
+
+[^c22909251]: Marginal citation: [S.I. 2001/368](https://www.legislation.gov.uk/uksi/2001/368).
+
+[^c22909261]: Marginal citation: [S.I. 2001/1547](https://www.legislation.gov.uk/uksi/2001/1547).
+
+[^c22909271]: Marginal citation: [S.I. 2003/1099](https://www.legislation.gov.uk/uksi/2003/1099).
+
+[^c22909281]: Marginal citation: [S.I. 2004/1948](https://www.legislation.gov.uk/uksi/2004/1948).
+
+[^c22909291]: Marginal citation: [S.I. 2004/2539](https://www.legislation.gov.uk/uksi/2004/2539).
+
+[^c22909301]: Marginal citation: [S.I. 2006/2935](https://www.legislation.gov.uk/uksi/2006/2935).
+
+[^c22909311]: Marginal citation: [S.I. 2007/2656](https://www.legislation.gov.uk/uksi/2007/2656).
+
+[^c22909321]: Marginal citation: [S.I. 2009/3266](https://www.legislation.gov.uk/uksi/2009/3266).
+
+[^c22909331]: Marginal citation: [S.I. 2010/1114](https://www.legislation.gov.uk/uksi/2010/1114).

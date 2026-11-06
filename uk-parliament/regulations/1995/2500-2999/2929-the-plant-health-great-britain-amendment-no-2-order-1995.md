@@ -1,0 +1,152 @@
+---
+title: The Plant Health (Great Britain) (Amendment) (No.2) Order 1995
+id: uksi/1995/2929
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-11-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/2929
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/2929/made/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Plant Health (Great Britain) (Amendment) (No.2) Order 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 2929
+
+PLANT HEALTH
+
+The Plant Health (Great Britain) (Amendment) (No.2) Order 1995
+
+Made
+
+7th November 1995
+
+Laid before Parliament
+
+15th November 1995
+
+Coming into force
+
+6th December 1995
+
+The Minister of Agriculture, Fisheries and Food in relation to England, the Secretary of State for Scotland in relation to Scotland and the Secretary of State for Wales in relation to Wales, in exercise of the powers conferred on them by sections 2, 3 and 4(1) of the Plant Health Act 1967[^f00001] and now vested in them[^f00002] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Title, extent and commencement
+
+This Order may be cited as the Plant Health (Great Britain) (Amendment) (No. 2) Order 1995 and shall come into force on 6th December 1995.
+
+## 2. Amendment of the Plant Health (Great Britain) Order 1993
+
+The Plant Health (Great Britain) Order 1993[^f00003] shall be amended in accordance with the provisions of articles 3 to 7 below.
+
+**3.** In Schedule 1, Part B, Section (a)—
+
+- (a) in the second column opposite item number 1 in the first column after “P” insert the following words—
+
+  > - (Entre Douro e Minho, Traz-os-Montes, Beira Litoral, Beira Interior, Ribatejo e Oeste, Alentjo, Madeira and Azores)
+
+  ;
+- (b) in the second column for the entry opposite item number 2 in the first column substitute the following—
+
+  > - E (Menorca and Ibiza), IRL, P (Azores and Madeira), UK, S (Malmöhus, Kristianstads, Blekinge, Kalmar, Gotlands Lin, Halland), FI (the districts of Aland, Turku, Uusimaa, Kymi, Hime, Pirkanmaa, Satakunta)
+
+  .
+
+**4.** In Schedule 2, Part B—
+
+- (a) in Section (a)—
+  - (i) in the third column opposite item number 1 in the first column delete “I”;
+  - (ii) in the third column opposite items numbers 2 and 4 in the first column delete “F” and after the words “Isle of Man” insert the words “and Jersey”;
+  - (iii) in the third column opposite item number 8 in the first column after the words “Isle of Man” insert the words “and Jersey”;
+- (b) in section (b), in the third column opposite item number 2 in the first column after the word “Rhône-Alpes” insert the words “— except Department of Rhône—” and after the word “Auvergne” insert the words “— except Department of Puy de Dome—”
+- (c) in Section (c)—
+  - (i) in the third column opposite item number 1 in the first column delete “I (Sicily)”;
+  - (ii) in the third column opposite items numbers 2 and 3 in the first column delete the words “Isle of Man”.
+
+**5.** In Schedule 4, Part B—
+
+- (a) in the third column opposite items numbers 15 and 18 in the first column delete “F” and after the words “Isle of Man” insert the words “and Jersey”;
+- (b) in the third column opposite item number 16 in the first column delete the words “Isle of Man”;
+- (c) in the third column opposite item number 21 in the first column after the word “Rhône-Alpes” insert the words “— except Department of Rhône—” and after the word “Auvergne” insert the words “— except Department of Puy de Dome—”;
+- (d) in the third column opposite item number 24 in the first column after “P” insert the following words—
+
+  > - (Entre Douro e Minho, Traz-os-Montes, Beira Litoral, Beira Interior, Ribatejo e Oeste, Alentejo, Madeira and Azores)
+
+  ;
+- (e) in the first column for item number 27.1 for the word “speed” substitute the word “seed”;
+- (f) in the third column opposite item number 28 in the first column delete “I (Sicily)”.
+
+**6.** In Schedule 8—
+
+- (a) in Section (a)—
+  - (i) in the second column opposite item number 1 in the first column delete the word “Italy”;
+  - (ii) in the second column opposite item number 2 in the first column after the word “Portugal” insert the following words—
+
+    > - (Entre Douro e Minho, Traz-os-Montes, Beira Litoral, Beira Interior, Ribatejo e Oeste, Alentejo, Madeira and Azores)
+
+    ;
+  - (iii) in the second column opposite items numbers 3 and 5 in the first column delete the word “France” and after the words “Isle of Man” insert “and Jersey”;
+  - (iv) in the second column for the words opposite item number 12 in the first column substitute the following words—
+
+    > - Spain (Menorca and Ibiza), Ireland, Portugal (Azores and Madeira), United Kingdom, Sweden (Malmöhus, Kristianstads, Blekinge, Kalmar, Gotlands Län, Halland), Finland (the districts of Aland, Turku, Uusimaa, Kymi, Häme, Pirkanmaa, Satakunta)
+
+    ;
+  - (v) in the second column opposite item number 14 in the first column after the words “Isle of Man” insert “and Jersey”;
+- (b) in Section (b), in the second column opposite item number 2 in the first column after the word “Rhône-Alpes” insert the words “(except Department of Rhône)” and after the word “Auvergne” insert the words “(except Department of Puy de Dome)”;
+- (c) in Section (c)—
+  - (i) in the second column opposite item number 1 in the first column delete the words “Italy (Sicily)”;
+  - (ii) in the second column opposite items numbers 2 and 3 in the first column delete the words “and the Isle of Man”.
+
+**7.** In Schedule 16 at the end insert the following—
+
+> Commission Directive [95/40/EC](https://www.legislation.gov.uk/european/directive/1995/0040) OJ No. L182, 2.8.95, p.14.
+>
+> Commission Directive [95/41/EC](https://www.legislation.gov.uk/european/directive/1995/0041) OJ No. L182, 2.8.95, p.17.
+
+Tim Boswell
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+7th November 1995
+
+Lindsay
+
+Parliamentary Under Secretary of State, Scottish Office
+
+7th November 1995
+
+Signed by authority of the Secretary of State for Wales
+
+Gwilym Jones
+
+Parliamentary Under Secretary of State, Welsh Office
+
+7th November 1995
+
+(This note is not part of the Order)
+
+This Order amends the Plant Health (Great Britain) Order 1993 so as to implement—
+
+- (a) Commission Directive [95/40/EC](https://www.legislation.gov.uk/european/directive/1995/0040) (OJ No. L182, 2.8.95, p.14) amending Commission Directive [92/76/EEC](https://www.legislation.gov.uk/european/directive/1992/0076) (OJ No. L305, 21.10.92, p.12) recognizing protected zones exposed to particular plant health risks in the Community, and
+- (b) Commission Directive [95/41/EC](https://www.legislation.gov.uk/european/directive/1995/0041) (OJ No. L182, 2.8.95, p.17) amending certain Annexes to Council Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093) (OJ No. L26, 31.1.77, p.20) on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community.
+
+The Order, which comes into force on 6th December 1995, amends the protected zones recognized in respect of various specified plant pests (articles 3 to 6).
+
+A minor correction is also made (article 5(e)).
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 8](https://www.legislation.gov.uk/ukpga/1967/8); sections 2(1) and 3(1) and (2) were amended by the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), section 4(1) and Schedule 4, paragraph 8; section 3(4) was substituted by section 42 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).
+
+[^f00002]: Footnote: In the case of the Secretary of State for Wales by virtue of S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272).
+
+[^f00003]: Footnote: S.I. [1993/1320](https://www.legislation.gov.uk/uksi/1993/1320); the relevant amending instrument is S.I. [1995/1358](https://www.legislation.gov.uk/uksi/1995/1358).

@@ -1,0 +1,542 @@
+---
+title: The Mutual Societies (Transfers) Order 2009
+id: uksi/2009/509
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-03-04'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/509
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/509/pdfs/uksiem_20090509_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/509/pdfs/uksi_20090509_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/509/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mutual Societies (Transfers) Order 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 509
+
+Building Societies
+
+Friendly Societies
+
+Industrial And Provident Societies
+
+The Mutual Societies (Transfers) Order 2009
+
+Made
+
+4th March 2009
+
+Coming into force in accordance with article 1(2)
+
+A draft of this Order has been laid before Parliament in accordance with section 3(6) of the Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 and approved by a resolution of each House of Parliament.
+
+The Treasury, in exercise of the powers conferred by sections 3 and 4 of the Building Societies (Funding) and Mutual Societies (Transfers) Act 2007[^f00001], make the following Order:
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement[^key-2ecff6a10bbaf068ba34d0c2d2aacc06]
+
+(1) This Order may be cited as the Mutual Societies (Transfers) Order 2009.
+
+(2) It comes into force on the day after the day on which it is made.
+
+### 2. Interpretation[^key-03fd9881102ffa51904148980d29b164]
+
+In this Order—
+
+- “the 1986 Act” means the Building Societies Act 1986[^f00002];
+- “the 1998 Regulations” means the Building Societies (Transfer of Business) Regulations 1998[^f00003];
+- “the 2007 Act” means the Building Societies (Funding) and Mutual Societies (Transfers) Act 2007.
+
+## PART 2 — Building societies
+
+### 3. Application of Part 2[^key-f2d202a90cbbd4eacc6042d538b5291c]
+
+(1) This Part applies to a transfer of the whole of the business of a building society incorporated or deemed to be incorporated under the 1986 Act to the subsidiary of another mutual society where the transfer agreement contains a statement that it so applies.
+
+(2) A transfer to which this Part applies is referred to in this Part as a “relevant transfer”.
+
+(3) The transfer provisions of the 1986 Act and the 1998 Regulations apply in relation to a relevant transfer with the modifications made by this Part.
+
+(4) In this article “transfer agreement” has the same meaning as in section 97 of the 1986 Act (transfer of business to commercial company).
+
+### 4. Interpretation of the transfer provisions[^key-80eaa2eaf7936a0f15727f386d86e240]
+
+(1) Section 97(12) of the 1986 Act[^f00004] applies in relation to a relevant transfer with the following modifications.
+
+(2) At the appropriate places insert—
+
+> - “the 2007 Act” means the Building Societies (Funding) and Mutual Societies (Transfers) Act 2007;
+
+;
+
+> - “the 2009 Order” means the Mutual Societies (Transfers) Order 2009;
+
+;
+
+> - “holding mutual” means the mutual society of which the successor is a subsidiary;
+
+;
+
+> - “mutual society” has the same meaning as in section 3 of the 2007 Act;
+
+;
+
+> - “parent undertaking” has the same meaning as in the Companies Acts (see section 1162 of, and Schedule 7 to, the Companies Act 2006[^f00005]);
+
+;
+
+> - “subsidiary” (except in the term “subsidiary undertaking”) has the same meaning as in section 3 of the 2007 Act;
+
+.
+
+### 5. The transfer resolution[^key-4f57ba46949cad092a57b882d5f3b7bf]
+
+Paragraph 30 of Schedule 2 to the 1986 Act (transfer resolutions)[^f00006] applies in relation to a relevant transfer with the following modifications—
+
+- (a) in sub-paragraph (1)(b), for “(“the requisite shareholders’ resolution”) is passed in accordance with sub-paragraphs (2) to (5) below”, substitute “is passed as a shareholding members’ resolution”;
+- (b) omit sub-paragraphs (2) to (8).
+
+### 6. Formation of the successor company[^key-15f5e15b49a00cfd3283a1a6a3f30998]
+
+Section 97 of the 1986 Act[^f00007] applies in relation to a relevant transfer with the following modifications—
+
+- (a) in subsection (3), after “formed by the society” insert “or by the holding mutual”;
+- (b) in subsection (12), in the definition of “company”, after “formed by a building society” insert “or by the holding mutual”.
+
+### 7. Distribution of funds of building society or holding mutual[^key-da65ef0af3992cae319bbdcbd684d9dc]
+
+(1) Section 4 of the 2007 Act (transfers to subsidiaries: distribution of funds) has effect in relation to a relevant transfer.
+
+(2) The terms of a relevant transfer may include provision for part of the funds of the transferor building society or of the holding mutual (or both) to be distributed to members of the transferor or of the holding mutual (or both) in consideration of the transfer, in accordance with section 4 of the 2007 Act and this article.
+
+(3) The limit referred to in section 4(3) and (4) of the 2007 Act, in relation to a distribution made by a transferor building society, is—
+
+- (a) five per cent of the value of that society’s total assets, or
+- (b) if less, the sum calculated in accordance with paragraph (4).
+
+(4) The sum referred to in paragraph (3)(b) is calculated by deducting the value of the transferor society’s fixed assets, both tangible and intangible, from the aggregate of that society’s general reserves and, if any, revaluation and other reserves.
+
+(5) For the purposes of paragraphs (3) and (4), the value of any assets, liabilities or reserves of a building society is their value as given in the most recent annual accounts of the society sent to the FCA, and, if the society is a PRA-authorised person, to the PRA in accordance with section 81(2) of the 1986 Act (laying and furnishing accounts, etc., to members and the FCA and the PRA).[^key-0c923a16b37a5b4f64631af4acdfe383].
+
+(6) The limit referred to in section 4(3) and (4) of the 2007 Act, in relation to a distribution made by the holding mutual, is five per cent of the holding mutual’s total assets as shown in the most recent audited accounts of the holding mutual.
+
+(7) The resolution referred to in section 4(3)(a) of the 2007 Act, in the case of the holding mutual, is—
+
+- (a) where the transfer is approved by a resolution of the members of the holding mutual, that resolution, or
+- (b) where the transfer is approved by the board of directors or committee of management of the holding mutual, a resolution of the members of the holding mutual.
+
+(8) Any terms of a transfer of business to which section 4(3) of the 2007 Act and paragraphs (3) to (7) above apply are regulated terms for the purposes of section 97 of the 1986 Act.
+
+(9) In this article—
+
+- “annual accounts” has the same meaning as in Part 8 of the 1986 Act (see section 81B of that Act (interpretation of Part 8)[^f00009]);
+- “transfer of business” and “regulated terms” have the same meaning as in section 97 of the 1986 Act.
+
+### 8. Distribution of funds: regulated term[^key-2e478f4d644b960c3988cd2fb3b3631a]
+
+Section 97 of the 1986 Act applies in relation to a relevant transfer with the following modifications—
+
+- (a) in subsection (4)(b), after “transfer regulations” insert “, and with section 4 of the 2007 Act and article 7 of the 2009 Order”;
+- (b) in subsection (12), in the definition of “regulated terms”, after “section 102” insert “or under article 7 of the 2009 Order”.
+
+### 9. Confirmation of the transfer[^key-0fc496e151b7d429ea915cc1dd70fc00]
+
+(1) Section 98 of the 1986 Act (transfers of business: supplementary provisions)[^f00010] applies in relation to a relevant transfer with the following modifications.
+
+(2) In subsection (3)(d), for “this Act” substitute “an applicable enactment”.
+
+(3) In subsection (4), for “this Act” substitute “an applicable enactment”.
+
+(4) In subsection (7), for “this Act” substitute “an applicable enactment”.
+
+(5) For subsection (8), substitute—
+
+> (8) In this section—
+>
+> - “applicable enactment” means the applicable provisions of this Act (as modified by the 2009 Order), section 4 of the 2007 Act and article 7 of the 2009 Order; and
+> - “relevant requirement”, with reference to an applicable enactment or the rules of a society, means a requirement of an applicable enactment or of any rules prescribing the procedure to be followed by the society in approving the transfer and its terms.
+
+.
+
+### 10. Modified application of section 100 (distributions and share rights)[^key-bbed0debed504b2f31db1c1dc5a7a626]
+
+(1) Section 100 of the 1986 Act (regulated terms etc: distributions and share rights)[^f00011] applies in relation to a relevant transfer with the following modifications.
+
+(2) For subsection (1) substitute—
+
+> (1) Subject to subsections (8) and (10) below, the terms of a transfer of business by a building society to the company which is to be its successor may include provision for rights in relation to shares in the successor to be conferred on members of the society in consideration of the transfer.
+
+.
+
+(3) Omit subsection (9).
+
+(4) For subsection (10) substitute—
+
+> (10) The following restriction applies to any conferring of rights in relation to shares in connection with the transfer of its business from the society to its successor where the successor is a company specially formed by the society or the holding mutual.
+>
+> Where negotiable instruments acknowledging rights to shares are issued by the successor within the period of two years beginning with the vesting date, no such instruments shall be issued to former members of the society unless they are also issued, and on the same terms, to all other members of the company.
+
+.
+
+### 11. Membership of the holding mutual[^key-27ad64402989dc5f698d0c62a05b1e2c]
+
+(1) The transfer provisions apply in relation to a relevant transfer as if after section 100 of the 1986 Act there were inserted—
+
+> **100A. Regulated terms: membership of the holding mutual**
+>
+> (1) The terms of a transfer of business by a building society to the company which is to be its successor must include provision for making membership of the holding mutual available to every qualifying member of the building society and to every person who, after the transfer, becomes a customer of the company.
+>
+> (2) The membership made available pursuant to that provision must be on terms no less favourable than those enjoyed by existing members of the holding mutual.
+>
+> (3) Subsection (1) above does not apply where the terms of the transfer of business include provision for making membership of any parent undertaking of the holding mutual available to the persons mentioned in that subsection on terms no less favourable than those enjoyed by existing members of the parent undertaking.
+>
+> (4) Any terms of a transfer of business to which subsections (1) and (2) above apply are regulated terms for the purposes of section 97.
+>
+> (5) For the purposes of this section, any member of the building society who, on the day immediately preceding the vesting date, is a shareholding or borrowing member of the society, is a qualifying member.
+
+.
+
+(2) Section 97 of the 1986 Act[^f00012] applies in relation to a relevant transfer with the following modifications—
+
+- (a) in subsection (2), after “section 100,” insert “section 100A,”;
+- (b) in subsection (4)(b), after “section 100” insert “, section 100A”;
+- (c) in subsection (12), in the definition of “regulated terms”, after “section 100” insert “, section 100A”.
+
+### 12. Restrictions on further transfer[^key-089610b57b6c030e0ccbcc9a64b78e7a]
+
+(1) Section 101 (protective provisions for specially formed successors)[^f00013] applies in relation to a relevant transfer with the following modifications—
+
+- (a) in subsection (1), after “other than the society” insert “or the holding mutual”;
+- (b) in subsection (4), omit paragraph (b);
+- (c) in subsection (6)—
+  - (i) in the definition of “the protective period”, for “five years” substitute “three years”;
+  - (ii) omit the definition of “the requisite majority”.
+
+(2) The transfer provisions apply in relation to a relevant transfer as if after section 101 of the 1986 Act there were inserted—
+
+> **101A. Protective provisions where successor is an existing company**
+>
+> (1) Section 101 (as modified by the 2009 Order) applies in relation to a successor of a building society which is an existing company as it applies in relation to a successor which is a specially formed company, with the following modification.
+>
+> (2) In subsection (6), for the definition of “the protective period” substitute—
+>
+> > - “the protective period” is the period beginning with the date of any alterations to the company’s articles made to comply with subsection (2) above or, if no alterations are made, beginning with the vesting date, and ending three years after the vesting date or, if this section ceases to apply to the company, ending on the date on which it so ceases
+>
+> .
+
+.
+
+(3) In section 97—
+
+- (a) in subsection (2), after “section 101,” insert “section 101A,”;
+- (b) in subsection (4), for paragraph (a) substitute—
+
+  > - (a) secure that the successor company’s articles of association include the requisite protective provisions;
+
+  ;
+- (c) in subsection (12), for the definition of “the requisite protective provisions” substitute—
+
+  > - “the requisite protective provisions”, in relation to a specially formed company, means the provisions required to be made by section 101(2), and in relation to an existing company, means the provisions required to be made by section 101(2) as applied by section 101A.
+
+  .
+
+### 13. Modified application of sections 102B and 102C of the 1986 Act[^key-5f50a29f7812766e4eba671c49597856]
+
+(1) Section 102B of the 1986 Act (protection of interests of beneficiaries in the case of trustee account holders)[^f00014] applies in relation to a relevant transfer with the following modifications—
+
+- (a) in subsection (2), for paragraph (a) substitute—
+
+  > - (a) a distribution among members of the society of part of the funds of the society or the holding mutual made in accordance with section 4 of the 2007 Act and article 7 of the 2009 Order, but not a distribution within section 100(2)(b), or
+
+  ;
+- (b) in subsection (3), for “and its successor” substitute “, its successor and the holding mutual”;
+- (c) in subsection (6), for “and its successor” substitute “, its successor and the holding mutual”.
+
+(2) Section 102C of the 1986 Act (consequences of false declaration)[^f00015] applies in relation to a relevant transfer with the following modifications—
+
+- (a) in subsection (1)(b)(i), after “the society’s successor” insert “or the holding mutual”;
+- (b) in subsection (2), after “the successor”, in each place where it occurs, insert “or the holding mutual”;
+- (c) in subsection (4), after “the successor”, in each place where it occurs, insert “or the holding mutual”.
+
+### 14. Issue of statement or summary to members[^key-799997aaba8dda6cb5127b68e472bb08]
+
+Regulation 2 of the 1998 Regulations[^f00016] (interpretation) applies in relation to a relevant transfer with the following modifications—
+
+- (a) in the definition of “group”, before “shall be construed” insert “(except in the term “immediate group”)”;
+- (b) after the definition of “group” insert—
+
+  > - “immediate group”, in relation to a successor company, means the immediate parent undertaking of that company and any subsidiary undertakings of that immediate parent undertaking, but does not include any parent undertaking of that immediate parent undertaking.
+
+  .
+
+**15.**[^key-8a71584e12834c1671b6a729c45cbbe9] (1) Regulation 3 of the 1998 Regulations (transfer statements) applies in relation to a relevant transfer with the following modification.
+
+(2) After paragraph (1) insert—
+
+> (1A) Any such transfer statement shall also give particulars of the matters specified in Part 5 of Schedule 1 to these Regulations.
+
+.
+
+**16.**[^key-bb276b4aa5b4b14d4218030cb2ebb377] (1) Schedule 1 to the 1998 Regulations (prescribed matters for transfer statements) applies in relation to a relevant transfer with the following modifications.
+
+(2) In Part 1 (matters of which particulars are to be included in the case of any transfer)—
+
+- (a) for paragraph 4 substitute—
+
+  > **4.** The financial position of the society and its connected undertakings at the most recent reasonably practicable date and of any material change in that position since that date.
+
+  ;
+- (b) in paragraph 9, for “any group” substitute “the immediate group”;
+- (c) in paragraph 21, at the end insert “and of any change to be made in connection with the transfer in the terms governing outstanding loans made by the society which are secured on land”.
+
+(3) In Part 2 (matters of which particulars are to be included in the case of a transfer to an existing company)—
+
+- (a) in paragraph 2, for “any group” substitute “the immediate group”;
+- (b) for paragraph 3 substitute—
+
+  > **3.** The consolidated financial position of the successor company and the immediate group to which it belongs at the most recent reasonably practicable date and of any material change in that position since that date.
+
+  ;
+- (c) in paragraph 4, for “any group” substitute “the immediate group”;
+- (d) for paragraph 5 substitute—
+
+  > **5.** The last three summary financial statements prepared by the directors of the society.
+
+  ;
+- (e) omit paragraph 6;
+- (f) for paragraph 11 substitute—
+
+  > **11.** (1) An explanation by the board of the society of the reasons for the transfer and the choice of successor company.
+  >
+  > (2) The board’s assessment of—
+  >
+  > - (a) the advantages and disadvantages of the transfer for members and employees of the society;
+  > - (b) any other issues which, in the board’s view, are relevant to the transfer.
+
+  ;
+- (g) omit paragraph 12;
+- (h) at the end insert—
+
+  > **13.** The protective provisions for existing companies applied by section 101A of the Act (inserted by the Mutual Societies (Transfers) Order 2009).
+
+  .
+
+(4) In Part 3 (matters of which particulars are to be included in the case of a transfer to a specially formed company)—
+
+- (a) after paragraph 1 insert—
+
+  > **1A.** The structure and activities of the immediate group to which the successor company belongs.
+
+  ;
+- (b) in paragraph 5, at the end insert “(as modified by the Mutual Societies (Transfers) Order 2009)”.
+
+(5) After Part 4 (matters of which particulars are to be included in a case where shares or rights in relation to shares are to be offered in connection with a transfer) insert—
+
+> **PART 5 — Matters of which particulars are to be included in a case to which Part 2 of the Mutual Societies (Transfers) Order 2009 applies**
+>
+> **1.** As a result of the transfer, the members of the society will no longer be members of a building society.
+>
+> **2.** The following information in relation to the membership rights that will be made available to members of the building society in accordance with section 100A of the Act (inserted by the Mutual Societies (Transfers) Order 2009)—
+>
+> - (a) the membership rights that will be made available;
+> - (b) the entity in which membership rights will be made available, including its legal form;
+> - (c) the procedure by which members of the building society may become members of that entity.
+>
+> **3.** A comparison of the rights members enjoy as members of a building society and the membership rights that will be made available to them referred to in paragraph 2 above.
+>
+> **4.** Every person who, after the transfer, becomes a customer of the successor company will be able to obtain similar membership rights to those referred to in paragraph 2.
+>
+> **5.** An explanation of the following statutory requirements relating to the business of a building society and that they will not apply in relation to the successor company—
+>
+> - (a) the purpose or principal purpose of a building society (section 5 of the Act);
+> - (b) the lending limit (section 6 of the Act);
+> - (c) the funding limit (section 7 of the Act);
+> - (d) the restrictions in sections 9A and 9B of the Act.
+>
+> **6.** That the transfer may be approved by a borrowing members’ resolution and a shareholding members’ resolution and an explanation of the requirements for a resolution to be passed as a shareholding members’ resolution and a borrowing members’ resolution.
+>
+> **7.** Part 2 of the Mutual Societies (Transfers) Order 2009 will apply to the transfer.
+
+.
+
+**17.**[^key-62d58e1572787938bbf9125a69443aee] Schedule 2 to the 1998 Regulations (specified information for transfer summaries) applies in relation to a relevant transfer with the following modifications—
+
+- (a) in paragraph 2, for “paragraphs 1, 2, 3, 5, 6, 10 and 11” substitute “paragraphs 1, 2, 3, 5, 10, 11 and 13”;
+- (b) in paragraph 3, for “paragraphs 1 and 4” substitute “paragraphs 1, 1A, 4 and 5”;
+- (c) at the end insert—
+
+  > **5.** Where the proposed transfer of business is one to which Part 2 of the Mutual Societies (Transfers) Order 2009 will apply, information comprising particulars of all the matters described in Part 5 of Schedule 1 to these Regulations.
+
+  .
+
+### 18. Issue of statement or summary to members: powers of Financial Services Authority[^key-bcfeb5a955ea31dc57864476497b6b22]
+
+The modifications to the application of the 1998 Regulations made by articles 14 to 17 are without prejudice to the powers of the appropriate authority[^key-905022396ce4e7179951e3dd4851e0de] in paragraph 3 of Schedule 17 to the 1986 Act to require particulars of any other matters to be provided in the case of a particular transfer, including without limitation any matters omitted by those modifications.
+
+## PART 3 — Supplementary
+
+### 19. Crown Dependency mutual society[^key-15b0433d7517e80b935b8a2c8de010f4][^key-6e5b6a58f224ef7590cc4e7175e8cdb4]
+
+(1) A mutual insurer is a Crown Dependency mutual society[^key-76a034e3e3be1bd952e3affc6db75d65] for the purposes of section 3 of the 2007 Act (transfers to subsidiaries of other mutuals).
+
+(2) A mutual insurer is a body corporate which—
+
+- (a) is a cooperative or mutual undertaking;
+- (b) is established or operates in accordance with the laws of [^key-928f2adfc22562c89fef22d520f7f61e]... any of the Channel Islands or the Isle of Man;
+- (c) has no share capital;
+- (d) is not a wholly-owned subsidiary within the meaning of section 1159(2) of the Companies Act 2006[^f00017]; and
+- (e) is an insurer.
+
+(3) In paragraph (2) “insurer” means—
+
+- (a)[^key-57e1fabcaedea04ae99a31fb7f1572bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) an undertaking which—
+  - (i) is incorporated in any of the Channel Islands or the Isle of Man, and
+  - (ii) would satisfy the requirements for authorisation under the Financial Services and Markets Act 2000 as an insurer, within the meaning of section 339C(4)(b) of that Act[^key-185b2e532d67f85275130ab5cf280d70] if it had its registered office (or if it does not have a registered office, its head office) in the United Kingdom[^key-103f420a40bf9619077e9ec743926dc7].
+
+(4)[^key-3aee205b3dbafd371211a2b0ba79fe9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Frank Roy
+
+Tony Cunningham
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made under sections 3 and 4 of the Building Societies (Funding) and Mutual Societies (Transfers) Act [2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26) (“the 2007 Act”).
+
+Part 1 contains introductory provisions about citation, commencement and interpretation.
+
+Part 2 applies to a transfer of the whole of the business of a building society to the subsidiary of another mutual society (within the meaning of the 2007 Act). It applies only where the transfer agreement contains a statement that it so applies (article 3(1)).
+
+Part 2 modifies the application of certain provisions of the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53) (“the 1986 Act”) and the Building Societies (Transfer of Business) Regulations 1998 ([S.I. 1998 No. 212](https://www.legislation.gov.uk/uksi/1998/212)) (“the 1998 Regulations”) which apply to a transfer of the business of a building society to a company. It also gives effect to section 4 of the 2007 Act in relation to such transfers (article 7).
+
+Article 5 modifies the application of paragraph 30 of Schedule 2 to the 1986 Act so that the transfer needs to be approved by a borrowing members’ resolution and a shareholding members’ resolution, instead of by a borrowing members’ resolution and the “requisite shareholders’ resolution” (the requirements for which are set out in paragraph 30 of that Schedule).
+
+Article 6 modifies the application of section 97 of the 1986 Act so that a specially formed successor company may be formed by the building society itself or by the mutual society of which the company is a subsidiary (“the holding mutual”).
+
+Article 7 gives effect to section 4 of the 2007 Act. A distribution of funds may be made by the building society or by the holding mutual (or both). If a distribution made by the building society exceeds the limit specified in article 7(3), it must be approved by the resolutions approving the transfer. If a distribution made by the holding mutual exceeds the limit specified in article 7(6), it must be approved by the resolution of that mutual approving the transfer, or if the transfer is approved by its board, by a resolution of the members of that mutual. Terms of the transfer agreement relating to distributions are regulated terms for the purposes of the 1986 Act (articles 7(8) and 8).
+
+Article 9 modifies the application of section 98 of the 1986 Act. Section 98(3)(d) provides that the Financial Services Authority shall not confirm a transfer of business if it considers that a relevant requirement of the 1986 Act or of the rules of the society was not fulfilled. The modification adds section 4 of the 2007 Act and article 7 of this Order to the 1986 Act for this purpose.
+
+Article 10 modifies the application of section 100 of the 1986 Act so that it applies only to distributions required by section 100(2)(b) and to rights in relation to shares in the successor.
+
+Article 11 modifies the application of the 1986 Act by inserting a new section. Section 100A requires the terms of the transfer to include a provision making membership of the holding mutual available to members of the building society and to persons who, after the transfer, become customers of the building society’s successor. Membership must be available on terms no less favourable than those enjoyed by existing members of the holding mutual. The requirement does not apply where membership of any parent undertaking of the holding mutual is made available to members of the building society.
+
+Article 12 modifies the application of section 101 of the 1986 Act so that the holding mutual is able to hold more than 15% of the shares in the successor company. It also reduces the protective period during which the restrictions in section 101 apply from five years to three years, and removes the provision which allows a company to disapply the section by passing a special resolution. New section 101A applies section 101 to a successor company which is an existing company.
+
+Article 13 modifies the application of sections 102B and 102C, which are concerned with protecting the interests of beneficiaries in the case of trustee account holders, so that those sections apply in relation to any distribution made by the holding mutual as well as to a distribution made by the building society.
+
+Articles 14 to 17 modify the application of the 1998 Regulations. Schedules 1 and 2 to those Regulations list the matters of which a society must provide particulars to its members in a transfer statement or transfer summary. Articles 16 and 17 modify the application of those Schedules so that particulars of some specific matters are not required and particulars of other additional matters are required. The modifications do not limit the existing powers of the Financial Services Authority to require particulars of any other matters to be provided in a particular transfer, including any matters omitted by the modifications (article 18).
+
+Part 3 is of general application. Article 19 provides that a mutual insurer is an EEA mutual society for the purposes of section 3 of the 2007 Act, and defines mutual insurer.
+
+An Impact Assessment has been prepared for this instrument. It is available from the Savings and Investment Team, HM Treasury, 1 Horse Guards Road, London SW1A 2HQ. It is also annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website (www.opsi.gov.uk). Both documents are available on the Treasury website (www.hm-treasury.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c.26](https://www.legislation.gov.uk/ukpga/2007/26).
+
+[^key-2ecff6a10bbaf068ba34d0c2d2aacc06]: Commencement: Art. 1 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^key-03fd9881102ffa51904148980d29b164]: Commencement: Art. 2 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00002]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^f00003]: Footnote: [S.I. 1998/212](https://www.legislation.gov.uk/uksi/1998/212), to which there are amendments not relevant to this Order.
+
+[^key-f2d202a90cbbd4eacc6042d538b5291c]: Commencement: Art. 3 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^key-80eaa2eaf7936a0f15727f386d86e240]: Commencement: Art. 4 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00004]: Footnote: Section 97(12) was amended by the Building Societies Act [1997 (c.32)](https://www.legislation.gov.uk/ukpga/1997/32), section 43, Schedule 7, paragraph 45(3), and by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
+
+[^f00005]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-4f57ba46949cad092a57b882d5f3b7bf]: Commencement: Art. 5 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00006]: Footnote: Paragraph 30 of Schedule 2 was amended by the Building Societies Act 1997, section 43, Schedule 7, paragraph 57(10), (11) and (12), by [S.I. 1997/2714](https://www.legislation.gov.uk/uksi/1997/2714) and by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
+
+[^key-15f5e15b49a00cfd3283a1a6a3f30998]: Commencement: Art. 6 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00007]: Footnote: Section 97(3) was amended by the Building Societies Act 1997, sections 43 and 46(2), Schedule 7, paragraph 45(2) and Schedule 9. For amendments to section 97(12) see the footnote to article 4.
+
+[^key-da65ef0af3992cae319bbdcbd684d9dc]: Commencement: Art. 7 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^key-0c923a16b37a5b4f64631af4acdfe383]: Textual amendment: Words in [art. 7(5)](https://www.legislation.gov.uk/uksi/2009/509/article/7/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/7/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^f00009]: Footnote: Section 81B was inserted by [S.I. 2004/3380](https://www.legislation.gov.uk/uksi/2004/3380). There are amendments but none are relevant.
+
+[^key-2e478f4d644b960c3988cd2fb3b3631a]: Commencement: Art. 8 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^key-0fc496e151b7d429ea915cc1dd70fc00]: Commencement: Art. 9 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00010]: Footnote: Section 98 was amended by the Building Societies Act 1997, section 30, by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
+
+[^key-bbed0debed504b2f31db1c1dc5a7a626]: Commencement: Art. 10 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00011]: Footnote: There are amendments to section 100 but none are relevant.
+
+[^key-27ad64402989dc5f698d0c62a05b1e2c]: Commencement: Art. 11 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00012]: Footnote: Section 97(2) was amended by the Building Societies (Distributions) Act [1997 (c.41)](https://www.legislation.gov.uk/ukpga/1997/41), section 1(2). Section 97(4) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). For amendments to section 97(12) see the footnote to article 4.
+
+[^key-089610b57b6c030e0ccbcc9a64b78e7a]: Commencement: Art. 12 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00013]: Footnote: Section 101 was substituted by the Building Societies Act 1997, section 41, and subsequently amended by [S.I. 1998/1120](https://www.legislation.gov.uk/uksi/1998/1120), [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194).
+
+[^key-5f50a29f7812766e4eba671c49597856]: Commencement: Art. 13 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00014]: Footnote: Section 102B was inserted by the Building Societies (Distributions) Act 1997, section 1.
+
+[^f00015]: Footnote: Section 102C was inserted by the Building Societies (Distributions) Act 1997, section 1.
+
+[^key-799997aaba8dda6cb5127b68e472bb08]: Commencement: Art. 14 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^f00016]: Footnote: [S.I. 1998/212](https://www.legislation.gov.uk/uksi/1998/212), to which there are amendments not relevant to this Order.
+
+[^key-8a71584e12834c1671b6a729c45cbbe9]: Commencement: Art. 15 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^key-bb276b4aa5b4b14d4218030cb2ebb377]: Commencement: Art. 16 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^key-62d58e1572787938bbf9125a69443aee]: Commencement: Art. 17 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^key-bcfeb5a955ea31dc57864476497b6b22]: Commencement: Art. 18 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^key-905022396ce4e7179951e3dd4851e0de]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/uksi/2009/509/article/18) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/7/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-15b0433d7517e80b935b8a2c8de010f4]: Commencement: Art. 19 in force at 5.3.2009 in accordance with art. 1(2)
+
+[^key-6e5b6a58f224ef7590cc4e7175e8cdb4]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/uksi/2009/509/article/19) heading substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-76a034e3e3be1bd952e3affc6db75d65]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/uksi/2009/509/article/19/1) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-928f2adfc22562c89fef22d520f7f61e]: Textual amendment: Words in [art. 19(2)(b)](https://www.legislation.gov.uk/uksi/2009/509/article/19/2/b) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00017]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-57e1fabcaedea04ae99a31fb7f1572bb]: Textual amendment: [Art. 19(3)(a)](https://www.legislation.gov.uk/uksi/2009/509/article/19/3/a) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(c)(i)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-185b2e532d67f85275130ab5cf280d70]: Textual amendment: Words in [art. 19(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/509/article/19/3/b/ii) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(c)(aa)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/aa)[(ii)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-103f420a40bf9619077e9ec743926dc7]: Textual amendment: Words in [art. 19(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/509/article/19/3/b/ii) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(c)(bb)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/bb)[(ii)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3aee205b3dbafd371211a2b0ba79fe9c]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/uksi/2009/509/article/19/4) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/29/2/b)

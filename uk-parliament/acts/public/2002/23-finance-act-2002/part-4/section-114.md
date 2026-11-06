@@ -1,0 +1,36 @@
+---
+title: Finance Act 2002, section 114
+act: Finance Act 2002
+section: '114'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2002/23/section/114
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2002, section 114
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 114. Penalties for late stamping
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 15B of the Stamp Act 1891 (c. 39) (late stamping: penaties) is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) in paragraph (a) (penalty where instrument not stamped within 30 days of execution), after “is executed in the United Kingdom” insert “ or relates to land in the United Kingdom ”;
+- (b) in paragraph (b) (penalty where instrument not stamped within 30 days of instrument being first received in the United Kingdom), after “is executed outside the United Kingdom” insert “ and does not relate to land in the United Kingdom ”.
+
+(3) After that subsection insert—
+
+> (1A) For the purposes of subsection (1) every instrument that (whether or not it also relates to any other transaction) relates to a transaction which to any extent involves land in the United Kingdom is an instrument relating to land in the United Kingdom.
+
+.
+
+(4) This section applies in relation to instruments executed on or after the day on which this Act is passed.

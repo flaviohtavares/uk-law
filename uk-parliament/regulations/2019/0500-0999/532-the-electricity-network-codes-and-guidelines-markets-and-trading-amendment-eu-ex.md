@@ -1,0 +1,653 @@
+---
+title: The Electricity Network Codes and Guidelines (Markets and Trading) (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/532
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-03-15'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/532
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/532/pdfs/uksiem_20190532_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/532/pdfs/uksi_20190532_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/532/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity Network Codes and Guidelines (Markets and Trading) (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W+S*
+
+2019 No. 532
+
+Exiting The European Union
+
+Electricity
+
+The Electricity Network Codes and Guidelines (Markets and Trading) (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+15th March 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23642351].
+
+In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+*Extent: E+W+S*
+
+## 1. Citation, commencement and extent[^key-62a541b2923340c6bde7f3114f95816c]
+
+(1) These Regulations may be cited as the Electricity Network Codes and Guidelines (Markets and Trading) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
+
+(2 (Extent: N.I.))[^key-933cc48c563ddcc1ec9064fa9184a991] These Regulations do not extend to Northern Ireland. *(Extent: N.I.)*
+
+(3)[^key-418165591cd10b740570302c4757945a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation[^key-db8d1d16621f33f017b0e07b10a2e2c5]
+
+In these Regulations—
+
+- “**the ITC Regulation**” means Commission Regulation (EU) No 838/2010 on laying down guidelines relating to the inter-transmission system operator compensation mechanism and a common regulatory approach to transmission charging;
+- “**the Electricity Balancing Regulation**” means Commission Regulation (EU) No 2017/2195 establishing a guideline on electricity balancing.
+
+## 3. Amendment of the ITC Regulation[^key-718ad001b7ab28b0dd56f9747c7a386f]
+
+The ITC Regulation is amended as set out in Schedule 1.
+
+## 4. Amendment of the Electricity Balancing Regulation[^key-717b78701390a636807ececdabff5107]
+
+The Electricity Balancing Regulation is amended as set out in Schedule 2.
+
+## 5. Revocations[^key-e1f1075f43f40dd04e843ff59466ff25]
+
+(1) The following instruments are revoked—
+
+- (a) Commission Regulation (EU) No 2015/1222 establishing a guideline on capacity allocation and congestion management;
+- (b) Commission Regulation (EU) No 2016/1719 establishing a guideline on forward capacity allocation.
+
+(2)[^key-121eff63eae8cd0f6c115544c1b3f092] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Claire Perry
+
+Minister of State
+
+Department for Business, Energy and Industrial Strategy
+
+*Extent: E+W+S*
+
+## SCHEDULE 1 — Amendments to the ITC Regulation
+
+Regulation 3
+
+**1.**[^key-206e550830fdf6f79146f451a93467cb] The ITC Regulation is amended as follows.
+
+**2.**[^key-b20039c3156fedc1a4a0ad113f6fbe2e] Omit Article 1.
+
+**3.**[^key-e6a645de5ae4d056117381d29da2e9fd] In the text after Article 3, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
+
+**4.**[^key-c03c2b8e5808feb8b475cc0c88e4cc65] Omit Part A of the Annex.
+
+**5.**[^key-1fad68e4c05c39755b6e9694e38644b0] In Part B of the Annex—
+
+- (a) in paragraph 1—
+  - (i) for “each Member State” substitute “Great Britain [^key-0a94d1cf10ab0889c2718aad81724234]...”;
+  - (ii) for “ranges” substitute “range ”;
+- (b) in paragraph 2, for “a Member State” substitute “Great Britain [^key-0a94d1cf10ab0889c2718aad81724234]...”;
+- (c) for paragraph 3 substitute—
+
+  > **3.** Average annual transmission charges paid by producers in Great Britain [^key-0a94d1cf10ab0889c2718aad81724234]... shall be within a range of 0 to 2.5 euros per megawatt hour.
+- (d) omit paragraphs 4 and 5.
+
+## SCHEDULE 2 — Amendments to the Electricity Balancing Regulation
+
+Regulation 4
+
+**1.**[^key-85b5d3bb40dd4a6eb067543827cf1e03] The Electricity Balancing Regulation is amended as follows.
+
+**2.**[^key-786e2c5cd0e8070d40ab15dc96ca9096] (1) Article 1 is amended as follows.
+
+(2) In paragraph 2—
+
+- (a) for “regulatory authorities” substitute “ the regulatory authority ”;
+- (b) omit “, the Agency for the Cooperation of Energy Regulators (‘the Agency’), the European Network of Transmission System Operators for Electricity (‘ENTSO-E’)”.
+
+(3) In paragraph 3, for “in the Union” substitute “ within the jurisdiction of Great Britain ”.
+
+(4) In paragraph 4—
+
+- (a) for the first sentence, substitute “ This Regulation shall apply to all TSOs in Great Britain. ”;
+- (b) in the second sentence, for “Member States” substitute “ the Secretary of State or the regulatory authority ”.
+
+(5) Omit paragraphs 6 and 7.
+
+**3.**[^key-3d1e00787ea2bd14884decfa8fd7d39e] (1) Article 2 is amended as follows.
+
+(2) For the first paragraph substitute—
+
+> Except where stated in this Article, for the purposes of this Regulation, the definitions in Article 2 of Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (recast)[^key-1fa2c38b5d46384ab96eb14c7249f1f1], Article 2 of Commission Regulation (EU) No 543/2013 [^c23642371] and Article 3 of Commission Regulation (EU) 2017/1485 [^c23642381] apply.
+
+.
+
+(3) In the second paragraph—
+
+- (a) omit points (18) to (21) and (23) to (25);
+- (b) in point (27) omit “for a standard product on a common merit order list”;
+- (c) omit points (28) to (32) and (34) to (45);
+- (d) at the end insert—
+
+  > (46) “**day-ahead market gate closure time**” has the meaning given in Article 2 of Commission Regulation (EU) 2015/1222, as it applied in EU law immediately before IP completion day[^key-3631412dfaa27405c93b69527fd1eab6];
+  >
+  > (47) “**day-ahead market time frame**” has the meaning given in Article 2 of Commission Regulation (EU) 2015/1222, as it applied in EU law immediately before IP completion day;
+  >
+  > (48) “**demand facility**” has the meaning given in Article 2 of Commission Regulation (EU) 2016/1388, as it applied in EU law immediately before IP completion day;
+  >
+  > (49)[^key-3e12f1a332af6a7d30090f86a6acefe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-5f8bd2994a1f566d776d9e9414a7607e] (1) Article 3 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) in point (b), omit “European and”;
+- (b) in point (d), omit “in the Union”;
+- (c) in point (e), for “distortions within the internal market in electricity” substitute “ market distortions ”;
+- (d) in point (g), for “support the achievement of the European Union target for the penetration of renewable generation” substitute “ supporting the achievement of any target specified in an enactment for the share of energy from renewable sources ”.
+
+(3) In paragraph 2—
+
+- (a) in the opening words before point (a), for “Member States, relevant regulatory authorities,” substitute “ the Secretary of State, the regulatory authority ”;
+- (b) in point (f), for “national legislation” substitute “ any enactment ”;
+- (c) in point (h), omit “European”.
+
+**5.**[^key-06f2d94af6d318f1811b043387dd2ce0] (1) Article 4 is amended as follows.
+
+(2) In paragraph 1, for “relevant regulatory authorities in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “ regulatory authority ”.
+
+(3) In paragraph 2—
+
+- (a) omit “, with the assistance of ENTSO-E,”;
+- (b) for “relevant regulatory authorities and the Agency” substitute “ regulatory authority ”.
+
+(4) Omit paragraphs 3 to 7.
+
+**6.**[^key-5b64773fe74998cc25d9c90ec01af314] (1) Article 5 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for “Each relevant regulatory authority in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “ The regulatory authority ”;
+- (b) for “paragraphs 2, 3 and 4” substitute “ paragraph 4 ”.
+
+(3) Omit paragraphs 2 and 3.
+
+(4) In paragraph 4—
+
+- (a) in the opening words before point (a)—
+  - (i) for “each regulatory authority” substitute “ the regulatory authority ”;
+  - (ii) omit “of each concerned Member State”;
+- (b) omit points (d) and (e);
+- (c) after point (i), insert—
+
+  > - (j) the exemption, for the geographical area in which the procurement of balancing capacity has taken place, from the requirement to allow balancing service providers to transfer their obligations to provide balancing capacity pursuant to Article 34(1);
+  > - (k) the exemption from the requirement to apply imbalance settlement periods of 15 minutes pursuant to Article 53(2);
+
+  ;
+- (d) in the words after point (k) (as so inserted)—
+  - (i) for “a Member State” substitute “ the Secretary of State ”;
+  - (ii) omit “concerned”.
+
+(5) In paragraph 5—
+
+- (a) in the second sentence—
+  - (i) for “relevant regulatory authorities” substitute “ regulatory authority ”;
+  - (ii) for “all relevant regulatory authorities agree” substitute “ the regulatory authority agrees ”;
+- (b) omit the third and fourth sentences.
+
+(6) Omit paragraphs 6 and 7.
+
+**7.**[^key-e46cef7086cc703d2228bcf30c4daddc] (1) Article 6 is amended as follows.
+
+(2) In paragraph 1, in the first sentence—
+
+- (a) for “one or several regulatory authorities in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72) require” substitute “ the regulatory authority requires ”;
+- (b) for “paragraphs 2, 3 and 4” substitute “ paragraph 4 ”.
+
+(3) In paragraph 1, for “relevant regulatory authorities” in both places that the term occurs, substitute “ regulatory authority ”.
+
+(4) Omit paragraph 2.
+
+(5) In paragraph 3, in the first sentence—
+
+- (a) for “regulatory authorities” substitute “ the regulatory authority ”;
+- (b) omit “responsible for their adoption in accordance with paragraphs 2, 3 and 4 of Article 5”.
+
+**8.**[^key-cdc8ed5a2a09c3297b78eb15ce185b31] In Article 7, for “relevant regulatory authorities” substitute “ regulatory authority ”.
+
+**9.**[^key-4204b77b26b48c4c4ef126a54133bcff] (1) Article 8 is amended as follows.
+
+(2) In paragraph 1, for “relevant regulatory authorities in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “ regulatory authority ”.
+
+(3) In paragraph 2, for “relevant regulatory authority” and “relevant regulatory authorities” substitute “ regulatory authority ” in each case.
+
+(4) In paragraph 3, for “relevant regulatory authorities” substitute “ regulatory authority ”.
+
+**10.**[^key-bf3c9f186840ceaf90c3cf349b6f5bc6] In Article 9, for “Agency, in close cooperation with ENTSO-E,” substitute “ national electricity transmission system operator ”.
+
+**11.**[^key-e253a3eaee4c1dbf5da845362c61f828] (1) Article 10 is amended as follows.
+
+(2) In paragraph 1, for “relevant regulatory authorities of each Member State” substitute “ regulatory authority ”.
+
+(3) Omit paragraphs 2 to 4.
+
+(4) In paragraph 5—
+
+- (a) for “and (i)” substitute “ , (i), (j) and (k). ”;
+- (b) omit “in each concerned Member State”.
+
+(5) In paragraph 6, for “paragraphs 2 to 5” substitute “ paragraph 5 ”.
+
+**12.**[^key-efe940d783b482b4ba7d75141447ecda] (1) Article 11 is amended as follows.
+
+(2) In paragraph 3—
+
+- (a) omit “national law,”;
+- (b) for “other relevant Union legislation” substitute “ any other enactment ”.
+
+(3) In paragraph 4—
+
+- (a) for “national law or Union legislation” substitute “ any other enactment ”;
+- (b) for “regulatory authorities” substitute “ the regulatory authority ”.
+
+**13.**[^key-b090d8623415da00a539b800fc087dae] (1) Article 12 is amended as follows.
+
+(2) In paragraph 3—
+
+- (a) omit points (c) and (d);
+- (b) in point (e)—
+  - (i) in subpoint (iii), omit “separately for standard and specific products”;
+  - (ii) omit subpoint (iv);
+- (c) in point (g), for “relevant regulatory authority in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “ regulatory authority ”;
+- (d) omit points (h) to (l).
+
+(3) In paragraph 4, for “relevant regulatory authority in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “ regulatory authority ”.
+
+(4) In paragraph 5, omit from the words “at least through” until the end of the paragraph.
+
+**14.**[^key-a57369a100e8222898b3c66588bfc488] (1) Article 13 is amended as follows.
+
+(2) In paragraph 1, for “relevant regulatory authorities in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “regulatory authority”.
+
+(3) In paragraph 3, omit “relevant”.
+
+(4) In paragraph 4—
+
+- (a) in the first sentence—
+  - (i) after “Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” insert “as it applied immediately before IP completion day[^key-0fcd88974933d1bfb90235944b1388b5]”;
+  - (ii) for “a Member State” substitute “the Secretary of State”;
+  - (iii) for “a relevant” substitute “the”;
+- (b) omit the second sentence;
+- (c) in the third sentence—
+  - (i) for “Member State” substitute “Secretary of State”;
+  - (ii) omit “relevant”.
+
+(5) In paragraph 5—
+
+- (a) in the first sentence, for “a Member State, or a regulatory authority” substitute “the Secretary of State or the regulatory authority”;
+- (b) in the second sentence, omit “relevant”.
+
+**15.**[^key-234c9a3903058c6294873c38393a9e8e] In Article 14, in paragraph 2, omit the second and third sentences.
+
+**16.**[^key-9f6bf54a46400feb4ab7375cb96798ec] (1) Article 16 is amended as follows.
+
+(2) In paragraph 1, in the first sentence, omit “or, in a TSO-BSP model, by the contracting TSO”.
+
+(3) In paragraph 4, omit “or integrated scheduling process bids”.
+
+(4) In paragraph 5, omit “from standard products or specific products or integrated scheduling process bids”.
+
+(5) In paragraph 6—
+
+- (a) in the first sentence, omit “or integrated scheduling process bids from standard and specific products”;
+- (b) in the third sentence, omit “only apply to specific products pursuant to Article 26(3)(b) and”.
+
+(6) In paragraph 7, omit “or integrated scheduling process bids” in both places in which the term occurs;
+
+**17.**[^key-8e9a5b1661976de07a7c6beb37b0643f] In Article 17, omit paragraphs 3 and 4.
+
+**18.**[^key-c043495555d1b47625d15315218baf21] (1) Article 18 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) in the first subparagraph, for “and for all scheduling areas of a Member State, the TSOs of this Member State” substitute “ TSOs ”;
+- (b) in the second subparagraph, for “relevant regulatory authorities” substitute “ regulatory authority ”.
+
+(3) Omit paragraph 3(b).
+
+(4) In paragraph 5—
+
+- (a) in point (b), omit “, 33”;
+- (b) in point (g), for “standard product and each specific” substitute “ balancing ”.
+
+(5) In paragraph 6(e), for “paragraphs 3 and 4” substitute “ paragraph 4 ”.
+
+(6) In paragraph 7—
+
+- (a) omit point (a);
+- (b) in point (b)—
+  - (i) omit “or integrated scheduling process bids”;
+  - (ii) omit “or the integrated scheduling process gate closure time”.
+- (c) omit point (c);
+- (d) in point (f), omit “for specific products defined in Article 26(3)(b)”;
+- (e) in point (g), for the words from “based” to the end substitute “ containing the information set out in Article 52(2)(d)(i) and (ii) ”.
+
+(7) Omit paragraph 8.
+
+**19.**[^key-b9588af76adce6a3427923d04820e575] Before Article 19, for the heading of Chapter 2 of Title II, substitute “ Failure of the procurement of balancing services ”.
+
+**20.**[^key-44f4449124a9cc8868fcbd56c97d9ae6] Omit Articles 19 to 27.
+
+**21.**[^key-a92dd1191b77416c8553dc86c179a999] (1) Article 28 is amended as follows.
+
+(2) In paragraph 1, for “the procedures referred to in paragraphs 2 and 3 fail” substitute “ the procedure referred to in paragraph 2 fails ”.
+
+(3) Omit paragraph 3.
+
+**22.**[^key-0db51538ccbf910a82dd514529c2e0dd] Omit Chapter 1 of Title III.
+
+**23.**[^key-285dabacde0d91dad38a925766b0da71] (1) Article 32 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) in point (a), omit “and exchange of balancing capacity with neighbouring TSOs”;
+- (b) in point (c)—
+  - (i) omit “both”;
+  - (ii) omit the words from “and within” to the end of the sentence.
+
+(3) In paragraph 3—
+
+- (a) in the second sentence, for “relevant regulatory authority in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “ regulatory authority ”;
+- (b) in point (c), for “balancing resources pursuant to Article 25(6)(b)” substitute “ demand facility owners, third parties and owners of power generating facilities from renewable energy sources as well as owners of energy storage units ”.
+
+**24.**[^key-f731308ce4110eae2379d0b8aba756e6] Omit Article 33.
+
+**25.**[^key-ff84bc917687889a8ec87b16a6dedac7] (1) Article 34 is amended as follows.
+
+(2) In paragraph 3(c), for “Chapters 1 and 2” substitute “ Chapter 1 ”.
+
+(3) Omit paragraph 4.
+
+**26.**[^key-91b1e87898c0614f683416a3157a0c32] Omit Chapter 3 of Title III.
+
+**27.**[^key-0951fce9e2a979246cc3d0ef1f6a878d] Omit Title IV.
+
+**28.**[^key-85d98e299d8ae5cb5e28bff50d129c13] (1) Article 44 is amended as follows.
+
+(2) Omit paragraph 1(d).
+
+(3) In paragraph 2—
+
+- (a) for “Each relevant regulatory authority in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)”, substitute “ The regulatory authority ”;
+- (b) for “the relevant regulatory authority” substitute “ the regulatory authority ”;
+- (c) for “Chapters 2, 3 and 4”, in each place that it occurs, substitute “ Chapters 2 and 4 ”.
+
+(4) In paragraph 3, in the last sentence, omit “relevant”.
+
+(5) In paragraph 4, omit “Chapter 3 or”.
+
+**29.**[^key-25ed7bfe4d2f8318c666daf0ba0868a0] In Article 47, in paragraph 2, omit “pursuant to Article 30”.
+
+**30.**[^key-10a19309f33af00f621d88ba15bdc915] In Article 48, in paragraph 2, omit “pursuant to Article 30”.
+
+**31.**[^key-efa75022e4053d4933e067ab47e110b6] Omit Chapter 3 of Title V.
+
+**32.**[^key-71ec758d4ee7ead134087c67b5a03b25] (1) Article 52 is amended as follows.
+
+(2) In paragraph 2—
+
+- (a) in the opening words before point (a), omit “and harmonise”;
+- (b) in point (d)(i)—
+  - (i) for “its relevant” substitute “ the ”;
+  - (ii) omit “in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)”.
+
+(3) Omit paragraph 3.
+
+(4) In paragraph 4, for “all relevant regulatory authorities in accordance with Article 5(2)” substitute “ the regulatory authority ”.
+
+**33.**[^key-0d7349595b9eff1f1caa5611b51802f7] (1) Article 53 is amended as follows.
+
+(2) In paragraph 2, for “a” substitute “ the GB ”.
+
+(3) For paragraph 3, substitute—
+
+> **3.** The regulatory authority may grant an exemption from the requirement laid down in paragraph 1—
+>
+> - (a) upon a request under paragraph 2; or
+> - (b) on its own initiative.
+
+**34.**[^key-c729eeb080c2b003f78a2edceaf708d8] (1) Article 54 is amended as follows.
+
+(2) In paragraph 2, omit from the words “, except in case” until the end of the sentence.
+
+(3) In paragraph 3, omit point (c).
+
+**35.**[^key-3964656b583269dc35a59929a32a0100] Omit Article 57.
+
+**36.**[^key-0cf9da906721182ebc5da96f002eba18] Omit Title VI.
+
+**37.**[^key-05324c55b64d070e91d86da482f90c22] Omit Article 59.
+
+**38.**[^key-4a9c10f1f66169ca328d195e2a7599fb] (1) Article 60 is amended as follows.
+
+(2) In paragraph 2, omit points (a), (d), (e), (f) and (g).
+
+(3) Omit paragraph 3.
+
+(4) In paragraph 4, for “relevant regulatory authority in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “ regulatory authority ”.
+
+**39.**[^key-f0edd18385720965ca0762fcdc93db81] (1) Article 61 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) in the first sentence, for “relevant regulatory authorities in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “ regulatory authority ”;
+- (b) in the second sentence—
+  - (i) omit “relevant”;
+  - (ii) omit “jointly”.
+
+(3) In paragraph 2—
+
+- (a) in point (e), omit “European and national”;
+- (b) in point (f), omit “European”.
+
+(4) In paragraph 3, for “all relevant regulatory authorities” substitute “ the regulatory authority ”.
+
+**40.**[^key-1cfb2f3b6cadab9e0eb96a4cb5de2ee2] (1) Article 62 is amended as follows.
+
+(2) In paragraph 1, for “A relevant regulatory authority in accordance with Article 37 of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72)” substitute “ The regulatory authority ”.
+
+(3) In paragraph 2—
+
+- (a) omit points (a) to (c);
+- (b) in point (d), for “harmonisation” substitute “ application ”;
+- (c) in point (e), omit “50, 51,”.
+
+(4) In paragraphs 4, 6, 7, 8 and 9, omit “relevant” in each place that it occurs.
+
+(5) In paragraph 5, omit points (d) and (e).
+
+(6) In paragraph 8—
+
+- (a) in point (d), omit “European”;
+- (b) omit point (f).
+
+(7) In paragraph 9, in the final sentence, for “derogations in paragraph 2(c) and 2(d)” substitute “ derogation in paragraph 2(d) ”.
+
+(8) In paragraph 10, for the first sentence, substitute “ The regulatory authority shall notify its decision to the TSO and the Secretary of State. ”
+
+(9) In paragraph 11—
+
+- (a) for “relevant regulatory authorities” substitute “ regulatory authority ”;
+- (b) for “Agency” substitute “ Secretary of State ”;
+- (c) omit “, a copy of which shall be given to ENTSO-E”.
+
+**41.**[^key-bc467176993ea32bf99fa5538055d1c2] Omit Article 63.
+
+**42.**[^key-03e83c049e55a90742280186f643afa2] In the heading of Title X, omit “Transitional and”.
+
+**43.**[^key-4348bff213bb58f6af22ae0cf256aad2] Omit Article 64.
+
+**44.**[^key-0cda0c42e8d2dbccac25764a325f5b22] In the words after Article 65, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
+
+*Extent: E+W+S*
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a) to (e) and (g) of that Act) arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations amend Commission Regulation (EU) No 838/2010 on laying down guidelines relating to the inter-transmission system operator compensation mechanism and a common regulatory approach to transmission charging, and Commission Regulation (EU) No 2017/2195 establishing a guideline on electricity balancing which form part of the domestic law of the United Kingdom on and after exit day by virtue of section 3 of the European Union (Withdrawal) Act 2018.
+
+These Regulations also revoke Commission Regulations (EU) No 2015/1222 and 2016/1719.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c23642351]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-62a541b2923340c6bde7f3114f95816c]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-933cc48c563ddcc1ec9064fa9184a991]: Textual amendment: Reg. 1(2) substituted (N.I.) (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/5/2/a)
+
+[^key-418165591cd10b740570302c4757945a]: Textual amendment: Reg. 1(3) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/5/2/b)
+
+[^key-db8d1d16621f33f017b0e07b10a2e2c5]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-718ad001b7ab28b0dd56f9747c7a386f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-717b78701390a636807ececdabff5107]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-e1f1075f43f40dd04e843ff59466ff25]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-121eff63eae8cd0f6c115544c1b3f092]: Textual amendment: Reg. 5(2) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/5/3)
+
+[^key-206e550830fdf6f79146f451a93467cb]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-b20039c3156fedc1a4a0ad113f6fbe2e]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-e6a645de5ae4d056117381d29da2e9fd]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-c03c2b8e5808feb8b475cc0c88e4cc65]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-1fad68e4c05c39755b6e9694e38644b0]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-0a94d1cf10ab0889c2718aad81724234]: Textual amendment: Words in Sch. 1 para. 5 omitted (E.W.S.) (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/5/4)
+
+[^key-85b5d3bb40dd4a6eb067543827cf1e03]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-786e2c5cd0e8070d40ab15dc96ca9096]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-3d1e00787ea2bd14884decfa8fd7d39e]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-1fa2c38b5d46384ab96eb14c7249f1f1]: Textual amendment: Words in Sch. 2 para. 3(2) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/5/5/a)
+
+[^c23642371]: Marginal citation: Further amendments to Commission Regulation (EU) No 543/2013 are made by [S.I. 2019/534](https://www.legislation.gov.uk/uksi/2019/534).
+
+[^c23642381]: Marginal citation: Further amendments to Commission Regulation (EU) No 2017/1485 are made by [S.I. 2019/533](https://www.legislation.gov.uk/uksi/2019/533).
+
+[^key-3631412dfaa27405c93b69527fd1eab6]: Textual amendment: Words in Sch. 2 para. 3(3)(d) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/5/5/b)
+
+[^key-3e12f1a332af6a7d30090f86a6acefe7]: Textual amendment: Words in Sch. 2 para. 3(3)(d) omitted (16.9.2020) by virtue of [The Electricity and Gas (Internal Markets and Network Codes) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1006)](https://www.legislation.gov.uk/uksi/2020/1006), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1006/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1006/regulation/2/2)
+
+[^key-5f8bd2994a1f566d776d9e9414a7607e]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-06f2d94af6d318f1811b043387dd2ce0]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-5b64773fe74998cc25d9c90ec01af314]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-e46cef7086cc703d2228bcf30c4daddc]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-cdc8ed5a2a09c3297b78eb15ce185b31]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-4204b77b26b48c4c4ef126a54133bcff]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-bf3c9f186840ceaf90c3cf349b6f5bc6]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-e253a3eaee4c1dbf5da845362c61f828]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-efe940d783b482b4ba7d75141447ecda]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-b090d8623415da00a539b800fc087dae]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-a57369a100e8222898b3c66588bfc488]: Commencement: Sch. 2 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-0fcd88974933d1bfb90235944b1388b5]: Textual amendment: Words in Sch. 2 para. 14(4)(a) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/5/5/c)
+
+[^key-234c9a3903058c6294873c38393a9e8e]: Commencement: Sch. 2 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-9f6bf54a46400feb4ab7375cb96798ec]: Commencement: Sch. 2 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-8e9a5b1661976de07a7c6beb37b0643f]: Commencement: Sch. 2 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-c043495555d1b47625d15315218baf21]: Commencement: Sch. 2 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-b9588af76adce6a3427923d04820e575]: Commencement: Sch. 2 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-44f4449124a9cc8868fcbd56c97d9ae6]: Commencement: Sch. 2 para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-a92dd1191b77416c8553dc86c179a999]: Commencement: Sch. 2 para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-0db51538ccbf910a82dd514529c2e0dd]: Commencement: Sch. 2 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-285dabacde0d91dad38a925766b0da71]: Commencement: Sch. 2 para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-f731308ce4110eae2379d0b8aba756e6]: Commencement: Sch. 2 para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-ff84bc917687889a8ec87b16a6dedac7]: Commencement: Sch. 2 para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-91b1e87898c0614f683416a3157a0c32]: Commencement: Sch. 2 para. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-0951fce9e2a979246cc3d0ef1f6a878d]: Commencement: Sch. 2 para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-85d98e299d8ae5cb5e28bff50d129c13]: Commencement: Sch. 2 para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-25ed7bfe4d2f8318c666daf0ba0868a0]: Commencement: Sch. 2 para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-10a19309f33af00f621d88ba15bdc915]: Commencement: Sch. 2 para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-efa75022e4053d4933e067ab47e110b6]: Commencement: Sch. 2 para. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-71ec758d4ee7ead134087c67b5a03b25]: Commencement: Sch. 2 para. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-0d7349595b9eff1f1caa5611b51802f7]: Commencement: Sch. 2 para. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-c729eeb080c2b003f78a2edceaf708d8]: Commencement: Sch. 2 para. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-3964656b583269dc35a59929a32a0100]: Commencement: Sch. 2 para. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-0cf9da906721182ebc5da96f002eba18]: Commencement: Sch. 2 para. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-05324c55b64d070e91d86da482f90c22]: Commencement: Sch. 2 para. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-4a9c10f1f66169ca328d195e2a7599fb]: Commencement: Sch. 2 para. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-f0edd18385720965ca0762fcdc93db81]: Commencement: Sch. 2 para. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-1cfb2f3b6cadab9e0eb96a4cb5de2ee2]: Commencement: Sch. 2 para. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-bc467176993ea32bf99fa5538055d1c2]: Commencement: Sch. 2 para. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-03e83c049e55a90742280186f643afa2]: Commencement: Sch. 2 para. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-4348bff213bb58f6af22ae0cf256aad2]: Commencement: Sch. 2 para. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-0cda0c42e8d2dbccac25764a325f5b22]: Commencement: Sch. 2 para. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

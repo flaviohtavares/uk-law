@@ -1,0 +1,70 @@
+---
+title: Debtors (Scotland) Act 1987, section 39
+act: Debtors (Scotland) Act 1987
+section: '39'
+status: revised-with-pending-changes
+text_date: '2025-04-06'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1987/18/section/39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Debtors (Scotland) Act 1987, section 39
+
+> **Warning: changes not yet applied to this text (40).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1987/18
+>
+> Extent: Scotland.
+
+## 39. Report of warrant sale.
+
+*Extent: S*
+
+**May not be in force at this date. Check the source.**
+
+(1) The officer of court appointed under section 31(2)(a) of this Act shall within a period of 14 days after the date of completion of the warrant sale make to the sheriff a report in the form prescribed by Act of Sederunt (referred to in this Part of this Act as “**the report of sale**”) setting out—
+
+- (a) any articles which have been sold and the amount for which they have been sold;
+- (b) any articles which remain unsold;
+- (c) the expenses chargeable against the debtor under Schedule 1 to this Act;
+- (d) any surplus paid to the debtor; and
+- (e) any balance due by or to the debtor.
+
+(2) The report of sale shall be signed by the officer of court and, if a witness was required to attend at the sale under section 37(2) of this Act, by that witness.
+
+(3) If an officer of court—
+
+- (a) without reasonable excuse makes a report of sale after the expiry of the period mentioned in subsection (1) above; or
+- (b) wilfully refuses or delays to make a report of sale after the expiry of that period,
+
+the sheriff may, without prejudice to his right to report the matter to the Court of Session or the sheriff principal under section 79(1)(b) of this Act, make an order that the officer of court shall be liable for the expenses chargeable against the debtor under Schedule 1 to this Act, either in whole or in part.
+
+(4) The report of sale shall be remitted by the sheriff to the auditor of court who shall—
+
+- (a) tax the expenses chargeable against the debtor under Schedule 1 to this Act;
+- (b) certify the balance due by or to the debtor following the poinding and sale; and
+- (c) make a report to the sheriff,
+
+but shall not alter the amount of the expenses or of the balance referred to in paragraph (b) above without first giving all interested persons an opportunity to make representations.
+
+(5) On receipt of the auditor’s report, the sheriff may make an order—
+
+- (a) declaring the balance due by or to the debtor, as certified by the auditor;
+- (b) declaring such a balance after making modifications to the balance as so certified; or
+- (c) if he is satisfied that there has been a substantial irregularity in the poinding and sale (other than the making of the report of sale after the expiry of the period mentioned in subsection (1) above), declaring the poinding and sale to be void, in which case (subject to subsection (9) below) he may make such consequential order as appears to him to be necessary in the circumstances,
+
+and the sheriff clerk shall intimate the sheriff’s order under this subsection to the debtor.
+
+(6) The sheriff shall not make an order under subsection (5)(b) or (c) above without first giving all interested persons an opportunity to be heard.
+
+(7) The auditor of court shall not be entitled to charge a fee in respect of his report.
+
+(8) The report of sale and the auditor’s report shall be retained by the sheriff clerk for the period prescribed by Act of Sederunt and during that period they shall be open for inspection in the sheriff clerk’s office by any interested person on payment of such fee as may be prescribed in an order made under section 2 of the [^c9361191]Courts of Law Fees (Scotland) Act 1895.
+
+(9) An order under subsection (5)(c) above shall not affect the title of a person to any article acquired by him at the warrant sale, or subsequently, in good faith and for value.
+
+(10) Any rule of law whereby the sheriff may refuse to receive the report of sale shall cease to have effect.
+
+## Annotations
+
+[^c9361191]: Marginal citation: [1895 c. 14](https://www.legislation.gov.uk/ukpga/1895/14).

@@ -1,0 +1,52 @@
+---
+title: Pipe-Lines Act 1962, section 58B
+act: Pipe-Lines Act 1962
+section: 58B
+status: revised-with-pending-changes
+text_date: '2025-05-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/Eliz2/10-11/58/section/58B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pipe-Lines Act 1962, section 58B
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2025-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/10-11/58
+>
+> Extent: England, Wales, Scotland.
+
+## 58B. Exclusion of application of Act to construction of small pipes.[^c7381281]
+
+*Extent: E+W+S*
+
+(1) In relation to the construction, by any person other than a public gas transporter, of a pipe to which this section applies—
+
+- (a) references in sections 1 to 14 of this Act to a pipe-line shall be construed as not including references to such a pipe; and
+- (b) references in those sections to pipe-line works shall be construed as not including references to works executed in connection with the construction of a such a pipe.
+
+(2) This section applies to any pipe—
+
+- (a) by which any premises are proposed to be connected to a distribution main of a public gas transporter; and
+- (b) by which gas is proposed to be conveyed to premises at a rate which is not expected to exceed 75,000 therms in any period of twelve months.
+
+(3) The Secretary of State may, after consulting the Director General of Gas Supply, by order amend subsection (2) above by substituting—
+
+- (a) where the limit is for the time being expressed by reference to a number of therms—
+  - (i) such lower number of therms as he considers appropriate; or
+  - (ii) such lower limit, expressed by reference to a number of kilowatt hours, as he considers appropriate; or
+- (b) where the limit is for the time being expressed by reference to a number of kilowatt hours, such lower number of kilowatt hours as he considers appropriate.
+
+(4) An order under subsection (3) above shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) In this section “**distribution main**” and “**public gas transporter**” have the same meanings as in Part I of the [^c7381291]Gas Act 1986.
+
+(6) In relation to any time after 31st December 1999, the reference in subsection (2) above to 75,000 therms shall be construed as a reference to 2,196,000 kilowatt hours.
+
+(7) This section is without prejudice to anything in section 58 of this Act.
+
+## Annotations
+
+[^c7381281]: Textual amendment: Ss. 58A, 58B inserted (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/16/1), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/6/2); S.I, 1996/218, art. 2
+
+[^c7381291]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44).

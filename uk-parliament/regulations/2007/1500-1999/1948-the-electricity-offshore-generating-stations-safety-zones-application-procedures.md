@@ -1,0 +1,266 @@
+---
+title: The Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) Regulations 2007
+id: uksi/2007/1948
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-07-09'
+text_date: '2024-05-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2007/1948
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/1948/pdfs/uksiem_20071948_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1948/pdfs/uksi_20071948_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1948/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) Regulations 2007
+
+> Text as at 2024-05-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2007 No. 1948
+
+ELECTRICITY
+
+The Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) Regulations 2007
+
+Made
+
+9th July 2007
+
+Laid before Parliament
+
+10th July 2007
+
+Coming into force
+
+6th August 2007
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 96(1) and (3), 188 and 192 of, and paragraphs 3(2), 4(1), 6(2) and 6(6) of Schedule 16 to the Energy Act 2004[^f00001].[^key-41ee606334c620b81f2af1ca8808970b]
+
+## PART 1 — INTRODUCTORY PROVISIONS
+
+### 1. Citation, and commencement[^key-6b44ec46332e411c4070a2cac5aa932e]
+
+These Regulations may be cited as the Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) Regulations 2007 and shall come into force on 6th August 2007.
+
+### 2. Interpretation[^key-0d31c0c41e6b493d145c92f4f03480bd]
+
+In these Regulations—
+
+- “general lighthouse authority” has the same meaning as in section 193(1) of the Merchant Shipping Act 1995[^f00002];
+- “harbour authority” has the same meaning as in section 57(1) of the Harbours Act 1964[^f00003];
+- “major maintenance works” means works relating to any renewable energy installation which has become operational, requiring the attachment to, or anchoring next to, such an installation of a self-elevating platform, jack-up barge, crane barge or other maintenance vessel;
+- “Renewable Energy Zone” means the area designated by the Renewable Energy Zone (Designation of Area) Order 2004[^f00004]; and
+- “standard safety zone” means—
+  - (a) in the case of the proposed or ongoing construction, extension or decommissioning of a wind turbine, or of major maintenance works in respect of such an installation, a safety zone with a radius of 500 metres measured from the outer edge at sea level of the proposed or existing wind turbine tower; or
+  - (b) in the case of the proposed or ongoing operation of a wind turbine, a safety zone with a radius of 50 metres measured from the outer edge at sea level of the proposed or existing wind turbine tower.
+
+## PART 2 — SAFETY ZONE APPLICATION PROCEDURES
+
+### 3. Information in support of a safety zone application[^key-222bd57f37f40dc34577653f09b06565]
+
+An application for the declaration under section 95(2) of a safety zone must include the following information (in addition to that required by paragraph 3(1) and 3(2)(a) of Schedule 16)—
+
+- (a) in relation to any proposed or existing relevant renewable energy installation—
+  - (i) a description of the installation and its proposed or existing location and dimensions (including an explanation of how much of it is (or is expected to be) visible above the water line and how much below it), supported by drawings;
+  - (ii) a description of how the installation operates (or is to operate);
+  - (iii) a description of the location (or proposed location) of—
+    - (aa) any electric line used (or proposed to be used) for the conveyance of electricity to or from the installation; and
+    - (bb) any connection to such an electric line;
+  - (iv) a description of the location (or proposed location) of any offshore sub-station housing connection equipment;
+  - (v) where the zone is sought in respect of more than one relevant renewable energy installation, the proposed or existing distances between such installations; and
+  - (vi) details of any navigational marking that has been specified for use with an installation of the description in question by a general lighthouse authority;
+- (b) in relation to any proposed or existing relevant renewable energy installation powered by waves or tides—
+  - (i) a description of components located (or to be located) above and below the water line;
+  - (ii) details of any moving parts (or proposed parts) and of how far and in which direction such parts may move through waters surrounding the installation;
+  - (iii) a description of the extent and location (or proposed extent and location) of anchors, moorings and cables used (or to be used) in relation to the installation;
+  - (iv) details of the anticipated range of wave heights in the proposed safety zone, which may be given by reference to any generally accepted scale or code for expressing that information; and
+  - (v) a description of typical spring and neap tidal data, and of typical tidal stream speeds and bearings, relating to waters in the proposed safety zone;
+- (c) in relation to the proposed safety zone—
+  - (i) whether the zone relates to the construction, extension, operation or decommissioning of the relevant renewable energy installation;
+  - (ii) whether the applicant seeks the declaration of a standard safety zone, or if not, what dimensions are sought for that zone;
+  - (iii) a description of those works or operations in respect of which the zone is being applied for and their estimated date and duration;
+  - (iv) whether the applicant proposes that the area of the zone will vary and any factors or determinations by reference to which the applicant proposes that such variation may take place;
+  - (v) whether the zone relates to major maintenance works in respect of a relevant renewable energy installation which has become operational;
+  - (vi) a statement setting out what steps, if any, the applicant proposes to take to monitor vessels and activities within the zone; and
+  - (vii) except where the Secretary of State has notified the applicant that it is not required, an up to date shipping traffic survey for the waters comprising the zone; and
+- (d) an assessment of the extent to which navigation might be possible or should be restricted, and whether restrictions would cause navigational problems, within or near waters where the relevant renewable energy installation is to be, or is being, constructed, extended, operated or decommissioned, as the case may be.
+
+### 4. Publication of notice of application for a safety zone notice[^key-5e6f6a8a2ee8457be787f886262d7792]
+
+(1) The applicant shall publish notice of an application—
+
+- (a) in two successive weeks in one or more local newspapers which are likely to come to the attention of those likely to be affected by the safety zone;
+- (b) in Lloyd’s List and in one or more national newspapers;
+- (c) if there are in circulation one or more appropriate fishing trade journals which are published at intervals not exceeding one month, in at least one such trade journal;
+- (d) in the London Gazette, unless the safety zone is proposed or located wholly within waters mentioned in sub-paragraphs (e) or (f);
+- (e) in the case of an application relating to a safety zone proposed or located wholly or partly in an area of Scottish waters or an area of waters in the Scottish part of the Renewable Energy Zone[^f00005], the Edinburgh Gazette; and
+- (f) in the case of an application relating to a safety zone proposed or located wholly or partly in that part of the Renewable Energy Zone that lies in the part of the sea which is treated as adjacent to Northern Ireland for the purposes of article 3(1)of the Adjacent Waters Boundaries (Northern Ireland) Order 2002[^f00006], the Belfast Gazette.
+
+(2) The applicant shall, at the same time as publishing the notice under paragraph (1)(a), send a copy of the notice to—
+
+- (a) the harbour masters of ports whose users are in the opinion of the applicant likely to be affected by the application;
+- (b) the sector office of the Maritime and Coastguard Agency which is responsible for operations in the waters in which the safety zone is proposed or located; and
+- (c) the local office of the Marine and Fisheries Agency which is responsible for operations in the waters in which the safety zone is proposed or located,
+
+requesting that the notice be displayed for a period of not less than 14 days at an address accessible during normal office hours to members of the public likely to be affected by the application.
+
+### 5. Service of notice of application for a safety zone notice[^key-73c627e2231e2ec0375b6b231c9ea8d6]
+
+The applicant shall within 21 days of the earliest date of publication of the notice under regulation 4(1) serve notice of an application upon—
+
+- (a) the Maritime and Coastguard Agency;
+- (b) the Scottish Ministers, in the case of a safety zone proposed or located wholly or partly in an area of Scottish waters or an area of waters in the Scottish part of the Renewable Energy Zone;
+- (c)[^key-7a5742f4745b1c4cff40affd5101a262] the Welsh Ministers, in the case of a safety zone proposed or located wholly or partly in Welsh waters, except where the Welsh Ministers are the appropriate Minister;
+- (d) the owner (and operator, if a different person) of the relevant renewable energy installation where that person is not the applicant.
+
+### 6. Objections by recipients of notice of application[^key-5fbb291cea8f77df86cebec811c7fbe1]
+
+(1) Any notice published or served pursuant to regulations 4 and 5 shall state the time (which shall not be less than 28 days from the date or latest date of publication of the notice, or less than 28 days from the service of the notice) within which, and the manner in which, any objections to the application for a safety zone notice are to be made.
+
+(2) Where a notice requires an objection to be sent to a person other than the Secretary of State, the recipient of that objection shall within 14 days send a copy of it to the Secretary of State.
+
+### 7. Publication of notice of a public inquiry[^key-a5b8553b9cd7b3cfd4c0688e507e0bb5]
+
+Where a public inquiry is to be held in respect of an application and the applicant publishes notice of this pursuant to paragraph 6(2)(b) of Schedule 16—
+
+- (a) the notice shall be publicised within the same area within which the local newspapers used to publicise the notice of application under regulation 4(1) circulate; and
+- (b) the place where a copy of the application for a safety zone, and of the map referred to in it, can be inspected shall be at an address accessible during normal office hours to members of the public likely to be affected by the application.
+
+### 8. Fees[^key-cf6513a454e673ed13e6f632ad904567]
+
+A charge of £2000 shall be payable to the Secretary of State in respect of any application.
+
+## PART 3 — CONTROL OF ACCESS TO SAFETY ZONES
+
+### 9. Vessels and activities permitted in safety zones[^key-ffc10f5971c84eb2287c05a623d8f3ac]
+
+(1) The prohibitions under section 96(1) on a vessel entering and remaining in a safety zone shall not apply if it is a vessel—
+
+- (a) belonging to, or acting under the authority of, a government department, the Environment Agency or the Scottish Environment Protection Agency, and engaged in
+  - (i) the provision of services for,
+  - (ii) the transport of persons or goods to or from, or
+  - (iii) the inspection of,
+
+  any existing or proposed renewable energy installation in that safety zone;
+- (aa)[^key-013414a5fe51b972204b0631a093edbb] (in the case of a safety zone in respect of which the Welsh Ministers are the appropriate Minister) belonging to, or acting under the authority of, a government department, the Environment Agency, the Natural Resources Body for Wales or the Scottish Environment Protection Agency, and engaged in—
+  - (i) the provision of services for,
+  - (ii) the transport of persons or goods to or from, or
+  - (iii) the inspection of,
+
+  any existing or proposed renewable energy installation in that safety zone;
+- (b) belonging to a United Kingdom police force or the armed forces of the Crown, where that force is, or those forces are, acting in the course of its or their powers and duties;
+- (c) belonging to or acting on behalf of a general lighthouse authority, where it is operating within the area specified in section 193(1) of the Merchant Shipping Act 1995 as the area of that authority;
+- (d) belonging to, or acting on behalf of a harbour authority, where that body is acting in the course of its powers and duties;
+- (e) belonging to, or acting on behalf of, the Crown Estate or a relevant person[^key-98e2106091dd01ce99f0400288f3c9ed], where that body or (as the case may be) that person[^key-e2bbc2429c84ada549c9cbb3114088f8] is acting in the exercise of its rights established in a lease or licence relating to a renewable energy installation in that safety zone;
+- (f) belonging to, or acting on behalf of, the holder of a licence granted under section 6(1)(b)[^f00007] of the Electricity Act 1989[^f00008] where that person is carrying out activities which—
+  - (i) it is authorised by the licence to carry on; and
+  - (ii) relate to offshore transmission (within the meaning of section 6F(8) of the Electricity Act 1989[^key-4333d6a909a1c139db2d07513e73325c]);
+- (g) acting in connection with the saving or attempted saving of life or property, or in connection with training exercises relating to the saving of life or property;
+- (h) entering or remaining in a safety zone owing to stress of weather or when in distress: or
+- (i) entering or remaining in a safety zone in connection with an activity mentioned in paragraph (2).
+
+(2) The prohibitions under section 96(2) on a person carrying out activities wholly or partly in a safety zone shall not apply—
+
+- (a) in connection with the construction, service, maintenance or decommissioning by an owner or operator of any existing or proposed renewable energy installation in that safety zone;
+- (b) in connection with the laying, inspection, testing, repair, alteration, renewal or removal of any submarine cable in a safety zone which relates to any existing or proposed renewable energy installation in that zone;
+- (c) in connection with monitoring activities required to be undertaken by or on behalf of an owner or operator in order to comply with the terms of a statutory consent or licence relating to an existing or proposed renewable energy installation in that safety zone, including but not limited to—
+  - (i) bird monitoring
+  - (ii) benthic investigations; and
+  - (iii) sampling of fish densities; or
+- (d) in connection with activities undertaken in accordance with paragraph (1).
+
+(3)[^key-cba0e17a2ebe4c588457835bf749fd5a] In this regulation, “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+
+Malcolm Wicks
+
+Minister of State for Energy and Sustainable Development
+
+Department for Business, Enterprise and Regulatory Reform
+
+9th July 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations apply in relation to any application to the Secretary of State for Business, Enterprise and Regulatory Reform seeking a declaration of a safety zone relating to an offshore renewable energy installation, under section 95(2) of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20) (“the 2004 Act”). In addition they prescribe categories of vessels and activities permitted in such safety zones.
+
+Applications can be made for the declaration of a safety zone to be located in an area of waters around or adjacent to a renewable energy installation, which is defined in section 104(2) and (3) of the 2004 Act, as an offshore installation used, or that has ceased to be used, for purposes connected with the production of energy from water or winds, and that permanently rests on, or is attached to, the seabed and is not connected to dry land. Thus applications can be made in relation to offshore wind turbines, as well as wave and tidal generating devices. Schedule 16(3) of the 2004 Act sets out certain requirements for applications, including use of a map.
+
+Safety zones may be declared in relation to installations located within territorial waters in or adjacent to Great Britain (between the mean low water mark and the seawards limits of the territorial sea) and to waters within the UK Renewable Energy Zone, which was designated under section 84(4) of the 2004 Act in December 2004 via the Renewable Energy Zone (Designation of Area) Order 2004 ([SI 2004/2668](https://www.legislation.gov.uk/uksi/2004/2668)).
+
+Regulation 3 sets out the additional information that is required to accompany an application to the Secretary of State for a declaration under section 95(2) of the 2004 Act. In every case information is required describing any renewable energy installation around which a safety zone is sought and in relation to the purpose and size of such a safety zone.
+
+Regulation 4 identifies those publications in which notice of an application for a safety zone should be advertised, as well as locations where such notices should be displayed.
+
+Regulation 5 lists public and other consultation bodies upon whom notice of an application for a safety zone declaration should be served.
+
+Regulation 6 requires an applicant when advertising and serving notice of an application to state the time and the manner in which objections to an application are to be made to the Secretary of State.
+
+Regulation 7 makes provision for the publication of notice of any public inquiry to be held.
+
+Regulation 8 sets the fee payable to the Secretary of State upon an application for a safety zone declaration.
+
+Regulation 9 makes provision for standard exemptions to the prohibition upon entry into and activities in a safety zone deriving from section 96(1) and (2) of the 2004 Act. Specified categories of vessels, belonging to or acting on behalf of government departments (including vessels operated by executive agencies, such as the Maritime and Coastguard Agency), the Environment Agency and the Scottish Environment Protection Agency, as well as other public and licensed bodies, and in connection with emergencies such as lifesaving, are permitted within safety zones. This regulation also permits certain activities in safety zones connected with the undertaking of development works and the undertaking of scientific monitoring requirements.
+
+A Regulatory Impact Assessment (“RIA”) has been completed in relation to the introduction and operation of Safety Zones relating to offshore renewable energy installations. This RIA is published at http:/www.dti.gov.uk. Copies of the RIA may also be obtained from Department for Business, Enterprise and Regulatory Reform, 1 Victoria Street, London SW1H OET (ref. Tony Keegan).
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^key-41ee606334c620b81f2af1ca8808970b]: Modification: Regulations applied (22.12.2021) by [The Morlais Demonstration Zone Order 2021 (S.I. 2021/1478)](https://www.legislation.gov.uk/uksi/2021/1478), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1478/article/1), [43(3)(4)](https://www.legislation.gov.uk/uksi/2021/1478/article/43/3) (with [arts. 15](https://www.legislation.gov.uk/uksi/2021/1478/article/15), [50](https://www.legislation.gov.uk/uksi/2021/1478/article/50), [Sch. 11 para. 29](https://www.legislation.gov.uk/uksi/2021/1478/schedule/11/paragraph/29))
+
+[^key-6b44ec46332e411c4070a2cac5aa932e]: Commencement: Reg. 1 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+
+[^key-0d31c0c41e6b493d145c92f4f03480bd]: Commencement: Reg. 2 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+
+[^f00002]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00003]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^f00004]: Footnote: [S.I. 2004/2668](https://www.legislation.gov.uk/uksi/2004/2668).
+
+[^key-222bd57f37f40dc34577653f09b06565]: Commencement: Reg. 3 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+
+[^key-5e6f6a8a2ee8457be787f886262d7792]: Commencement: Reg. 4 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+
+[^f00005]: Footnote: “Scottish waters” is defined in section 104(1) of the Energy Act 2004 as internal waters of the United Kingdom that are in or adjacent to Scotland or so much of the territorial sea of the United Kingdom as is adjacent to Scotland. The “Scottish part” of the Renewable Energy Zone was designated by the Renewable Energy Zone (Designation of Area) (Scottish Ministers) Order 2005 ([S.I. 2005/3153](https://www.legislation.gov.uk/uksi/2005/3153)).
+
+[^f00006]: Footnote: [S.I. 2002/791](https://www.legislation.gov.uk/uksi/2002/791)
+
+[^key-73c627e2231e2ec0375b6b231c9ea8d6]: Commencement: Reg. 5 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+
+[^key-7a5742f4745b1c4cff40affd5101a262]: Textual amendment: [Reg. 5(c)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/5/c) substituted (1.4.2019) by [The Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) (Amendment) (Wales) Regulations 2019 (S.I. 2019/293)](https://www.legislation.gov.uk/wsi/2019/293), [regs. 1](https://www.legislation.gov.uk/wsi/2019/293/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/293/regulation/2/2)
+
+[^key-5fbb291cea8f77df86cebec811c7fbe1]: Commencement: Reg. 6 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+
+[^key-a5b8553b9cd7b3cfd4c0688e507e0bb5]: Commencement: Reg. 7 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+
+[^key-cf6513a454e673ed13e6f632ad904567]: Commencement: Reg. 8 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+
+[^key-ffc10f5971c84eb2287c05a623d8f3ac]: Commencement: Reg. 9 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+
+[^key-013414a5fe51b972204b0631a093edbb]: Textual amendment: [Reg. 9(1)(aa)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/aa) inserted (1.4.2019) by [The Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) (Amendment) (Wales) Regulations 2019 (S.I. 2019/293)](https://www.legislation.gov.uk/wsi/2019/293), [regs. 1](https://www.legislation.gov.uk/wsi/2019/293/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/293/regulation/2/3)
+
+[^key-98e2106091dd01ce99f0400288f3c9ed]: Textual amendment: Words in [reg. 9(1)(e)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/e) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 104(a)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/104/a/i)
+
+[^key-e2bbc2429c84ada549c9cbb3114088f8]: Textual amendment: Words in [reg. 9(1)(e)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/e) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 104(a)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/104/a/ii)
+
+[^f00007]: Footnote: Section 6(1)(b) was substituted by section 136 of the Energy Act 2004.
+
+[^f00008]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^key-4333d6a909a1c139db2d07513e73325c]: Textual amendment: Words in [reg. 9(1)(f)(ii)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/f/ii) substituted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/706/regulation/24)
+
+[^key-cba0e17a2ebe4c588457835bf749fd5a]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 104(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/104/b)

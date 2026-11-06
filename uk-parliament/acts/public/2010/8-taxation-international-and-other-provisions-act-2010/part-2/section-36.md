@@ -1,0 +1,56 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 36
+act: Taxation (International and Other Provisions) Act 2010
+section: '36'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/36
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 36
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 36. Amount of limit
+
+*Extent: E+W+S+N.I.*
+
+(1) This section is about the amount of credit allowed under section 18(2) against a person's income tax for any tax year.
+
+(2) The amount of credit in respect of income from any particular source must not exceed the difference between—
+
+- (a) the amount of income tax to which the person would be liable for the tax year if the person were charged to income tax on—
+
+  [formula: see source](https://www.legislation.gov.uk/ukpga/2010/8)
+
+  and
+- (b) the amount of income tax to which the person would be liable for the tax year if the person were charged to income tax on—
+
+  [formula: see source](https://www.legislation.gov.uk/ukpga/2010/8)
+
+(3) If credit is allowed (whether or not under the same tax-relief arrangements) in respect of income from more than one source, apply subsection (2) successively to the income from each source, taking the sources in the order which will result in the greatest reduction in the person's income tax liability for the tax year.
+
+(4) In subsection (2)—
+
+- TI is the person's total income for the tax year,
+- X is the income (if any) to which subsection (2) has already been applied, and
+- C is the income in respect of which the credit is to be allowed.
+
+(5) The rules for calculating an amount of income tax under subsection (2) are—
+
+- (a) the calculation is to be made in accordance with sections 31 and 32, and
+- (b) no credit is to be allowed for foreign tax, and
+- (c) no reduction is to be made under section 26 of FA 2005 (trusts for the benefit of a vulnerable beneficiary), but
+- (d) any other income tax reduction under the Income Tax Acts is to be made.
+
+(6) See section 29(2) and (3) of ITA 2007 (tax reductions limited by reference to tax liability) for further limits on the total amount of credit for foreign tax to be allowed to a person against income tax.
+
+(7) For the purposes of subsection (3) the following are “tax-relief arrangements”—
+
+- (a) double taxation arrangements, and
+- (b) unilateral relief arrangements for a territory outside the United Kingdom.

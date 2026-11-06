@@ -1,0 +1,40 @@
+---
+title: Copyright, Designs and Patents Act 1988, section 128
+act: Copyright, Designs and Patents Act 1988
+section: '128'
+status: revised-with-pending-changes
+text_date: '2025-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/48/section/128
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Copyright, Designs and Patents Act 1988, section 128
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/48
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 128. Effect of order of tribunal as to licence.
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the Copyright Tribunal has made an order under section 125 or 126 and the order remains in force, the person entitled to the benefit of the order shall if he—
+
+- (a) pays to the licensing body any charges payable in accordance with the order or, if the amount cannot be ascertained, gives an undertaking to pay the charges when ascertained, and
+- (b) complies with the other terms specified in the order,
+
+be in the same position as regards infringement of copyright as if he had at all material times been the holder of a licence granted by the owner of the copyright in question on the terms specified in the order.
+
+(2) The benefit of the order may be assigned—
+
+- (a) in the case of an order under section 125, if assignment is not prohibited under the terms of the Tribunal’s order; and
+- (b) in the case of an order under section 126, if assignment was not prohibited under the terms of the original licence.
+
+(3) The Tribunal may direct that an order under section 125 or 126, or an order under section 127 varying such an order, so far as it varies the amount of charges payable, has effect from a date before that on which it is made, but not earlier than the date on which the reference or application was made or, if later, on which the licence was granted or, as the case may be, was due to expire.
+
+If such a direction is made—
+
+- (a) any necessary repayments, or further payments, shall be made in respect of charges already paid, and
+- (b) the reference in subsection (1)(a) to the charges payable in accordance with the order shall be construed, where the order is varied by a later order, as a reference to the charges so payable by virtue of the later order.

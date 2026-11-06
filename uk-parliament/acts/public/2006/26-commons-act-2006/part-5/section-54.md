@@ -1,0 +1,39 @@
+---
+title: Commons Act 2006, section 54
+act: Commons Act 2006
+section: '54'
+status: revised-with-pending-changes
+text_date: '2026-03-25'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2006/26/section/54
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Commons Act 2006, section 54
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/26
+>
+> Extent: England, Wales.
+
+## 54. Power to amend enactments relating to common land or greens
+
+*Extent: E+W*
+
+(1) The appropriate national authority may by order amend any relevant Act so as to secure that—
+
+- (a) a provision of that Act applying to common land does not apply to land to which Part 1 applies and which is not registered as common land;
+- (b) such a provision applies to either or both of the following—
+  - (i) land registered as common land, or particular descriptions or areas of such land;
+  - (ii) land to which Part 1 does not apply, or particular descriptions or areas of such land.
+
+(2) The appropriate national authority may by order amend any relevant Act so as to secure that—
+
+- (a) a provision of that Act which is expressed to apply to a town or village green does not apply to land to which Part 1 applies and which is not registered as a town or village green;
+- (b) such a provision applies to either or both of the following—
+  - (i) land registered as a town or village green, or particular descriptions or areas of such land;
+  - (ii) land to which Part 1 does not apply, or particular descriptions or areas of such land.
+
+(3) In this section, “**relevant Act**” means any public general Act passed before this Act.
+
+(4) For the purposes of subsection (1) a provision applies to common land if it is expressed to apply (generally) to common land, any common or commons, commonable land, land subject to inclosure under any enactment or other land of a similar description.

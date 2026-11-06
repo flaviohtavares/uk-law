@@ -1,0 +1,47 @@
+---
+title: Finance Act 2025, section 12
+act: Finance Act 2025
+section: '12'
+status: revised
+text_date: '2026-04-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/8/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2025, section 12
+
+> Text as at 2026-04-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 12. Rate of CGT for carried interest gains
+
+*Extent: E+W+S+N.I.*
+
+(1) In section 1H of [TCGA 1992](https://www.legislation.gov.uk/ukpga/1992/12) (which sets out the main rates of CGT)—
+
+- (a) omit subsection (2) (which provides for rates of 18% or 28% on carried interest gains accruing to individuals),
+- (b) in subsection (3), for “Other chargeable gains” substitute “Chargeable gains other than carried interest gains (see subsections (4B) and (9) to (11))”,
+- (c) before subsection (5) insert—
+
+  > (4B) Chargeable gains accruing in a tax year to an individual that are carried interest gains are charged to capital gains tax at a rate of 32%.
+
+  , and
+- (d) in subsection (5) (which provides for the rate of CGT on carried interest gains accruing to personal representatives of a deceased individual), for “28%” substitute “32%”.
+
+(2) In section 1I of that Act (income taxed at higher rates or gains exceeding unused basic rate band), as amended by paragraph 2 of Schedule 1—
+
+- (a) before subsection (1) insert—
+
+  > (A1) This section applies for the purpose of determining the rate of capital gains tax that applies to gains accruing to an individual in a tax year that are not carried interest gains and, in the following provisions of this section, references to gains (or amounts chargeable to capital gains tax) do not include carried interest gains.
+
+  ,
+- (b) in subsection (1), for the words from “charged—” to the end substitute “charged at the rate of 24%.”,
+- (c) in subsection (2), in the words after paragraph (b), for the words from “is charged at” to the end substitute “is charged at the rate of 24%.”,
+- (d) in subsection (5), for the words from “are then charged—” to the end substitute “are then charged at the rate of 24%.”,
+- (e) in subsection (7), for the words from “as then remains” to the end substitute “as then remains to gains other than entrepreneur or investor gains.”, and
+- (f) in subsection (9), for the words from “charged—” to the end substitute “charged at the rate of 24%.”
+
+(3) The amendments made by this section have effect in relation to carried interest arising on or after 6 April 2025.

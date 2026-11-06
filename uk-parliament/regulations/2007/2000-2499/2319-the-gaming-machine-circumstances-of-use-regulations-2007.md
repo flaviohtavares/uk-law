@@ -1,0 +1,557 @@
+---
+title: The Gaming Machine (Circumstances of Use) Regulations 2007
+id: uksi/2007/2319
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-08-06'
+text_date: '2019-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2007/2319
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/2319/pdfs/uksiem_20072319_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2319/pdfs/uksi_20072319_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2319/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Gaming Machine (Circumstances of Use) Regulations 2007
+
+> Text as at 2019-04-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2007 No. 2319
+
+betting, GAMING and lotteries
+
+The Gaming Machine (Circumstances of Use) Regulations 2007
+
+Made
+
+6th August 2007
+
+Laid before Parliament
+
+7th August 2007
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 240 and 355(1) of the Gambling Act 2005[^f00001].
+
+## 1. Citation and commencement[^key-9f145bd70dd70c5aaa784774e39d007e]
+
+(1) These Regulations may be cited as the Gaming Machine (Circumstances of Use) Regulations 2007.
+
+(2) Subject to paragraphs (3) and (4) these Regulations come into force on 1st September 2007.
+
+(3) Paragraphs (1)(a) and (5)(b) of regulation 3 come into force on 1st November 2007.
+
+(4) Regulations 10 and 11 come into force on 1st March 2008.
+
+## 2. Interpretation[^key-f75d667cb2a8bc8e2a37d32d9913dd93]
+
+(1) In these Regulations—
+
+- “the Act” means the Gambling Act 2005;
+- “autoplay facility” has the meaning given by regulation 10(6);
+- “category”, in relation to a gaming machine[^f00002], means the category of machine as defined in regulations made under section 236 of the Act, and “Category A”, or B, C or D means that Category (or in the case of Category B, sub-category) as defined in such regulations;
+- “charge for use” means the amount a person pays for using a gaming machine once[^f00003];
+- “committed amount” has the meaning given by regulation 9(4);
+- “the deposited sum” has the meaning given by regulation 9(9); and
+- “prize value” means the amount or value of any prize[^f00004] which can be won as a result of use of a gaming machine once.
+
+(2) For the purposes of these Regulations a person is to be treated as using a gaming machine once, even where he uses the machine to gamble more than once, if the payment for each gamble is made before he is able to know the result of any of them.
+
+(3) Paragraph (2) does not apply in relation to a gaming machine in respect of which—
+
+- (a) the charge for use may only be paid by means of a single coin or token;
+- (b) the coin or token must be inserted into the machine to pay the charge for use; and
+- (c) whether or not a person using the machine wins a prize is determined (wholly or in part) by—
+  - (i) the position in which the coin or token comes to rest after it has been inserted into the machine, together with the position of other coins or tokens which have previously been inserted into the machine to pay a charge for use, or
+  - (ii) if the insertion of a single coin to pay the charge for use enables the person using the machine to release one or more tokens within the machine, the position in which such tokens come to rest after being released, together with the position of other tokens which have previously been so released.
+
+(4) In paragraph (3) “token” means an object of money’s worth.
+
+(5) Subject to paragraph (6), in these Regulations “money prize” means a prize—
+
+- (a) in the form of cash or a cheque (or partly in the form of cash and partly in the form of a cheque); or
+- (b) in the form of a document or object which—
+  - (i) enables the person entitled to it to redeem its value, on the premises where the machine is made available for use, in the form of cash or a cheque (or partly in the form of cash and partly in the form of a cheque), and
+  - (ii) may, but need not, also enable that person to use it to pay for goods or services otherwise available on the premises where the machine is made available for use, including facilities for gambling;
+
+and “non-money prize” is any prize which is not a money prize.
+
+(6) A document or object is not a money prize if it is something which ordinarily is capable of being used for a purpose other than one referred to in paragraph (5)(b).
+
+## 3. Display of information[^key-184d46139951af6382f3da2d518693df][^key-716c1bf649dab49b05f46ab3d85e0385]
+
+(1) A gaming machine shall display the following information—
+
+- (a)[^key-184d46139951af6382f3da2d518693df] the category, or sub-category, of the machine;
+- (b)[^key-716c1bf649dab49b05f46ab3d85e0385] the name and telephone number of a person from whom assistance may be obtained by people who are or may be affected by problems related to gambling; and
+- (c)[^key-716c1bf649dab49b05f46ab3d85e0385] unless it is a Category D gaming machine, information constituting a warning that the machine is not to be used by a child or young person[^f00005].
+
+(2)[^key-716c1bf649dab49b05f46ab3d85e0385] Subject to paragraphs (3) and (4), a gaming machine shall display information—
+
+- (a) about the proportion of amounts paid to use the machine that is returned by way of prizes; or
+- (b) about the odds of winning prizes from use of the machine.
+
+(3)[^key-716c1bf649dab49b05f46ab3d85e0385] A gaming machine is to be treated as having complied with the requirement in paragraph (2) if—
+
+- (a) a notice is displayed on the machine at all times when it is made available for use indicating where the information referred to in paragraph (2) can be found, and
+- (b) that information is held by or in relation to the machine in a way that makes it readily accessible by a person using the machine.
+
+(4)[^key-716c1bf649dab49b05f46ab3d85e0385] Paragraph (2) does not apply to a Category D gaming machine in relation to which there is no mechanism for recording—
+
+- (a) the aggregate of amounts paid to use the machine, and
+- (b) the aggregate of amounts won as prizes,
+
+in which case the machine shall display information stating that the machine provides facilities for gambling.
+
+(5) Subject to paragraph (3), the information required by paragraphs (1), (2) and (4)—
+
+- (a)[^key-716c1bf649dab49b05f46ab3d85e0385] shall be displayed on the machine at all times when the machine is made available for use;
+- (b)[^key-184d46139951af6382f3da2d518693df] in the case of paragraph (1)(a), shall be displayed on the machine in a manner which makes it readily visible to a person inspecting the machine while it is being made available for use; and
+- (c)[^key-716c1bf649dab49b05f46ab3d85e0385] in all other cases shall be displayed on the machine in a manner which makes it readily visible to a person using the machine.
+
+(6)[^key-716c1bf649dab49b05f46ab3d85e0385] Information displayed in accordance with this regulation may take the form of any combination of letters, numbers or symbols.
+
+## 4. Methods of payment[^key-d89fee4f9e5c14aaf77e79c2f81be4c0]
+
+(1) A gaming machine shall not be made available for use if it is designed or adapted to permit money to be paid by means of a credit card or debit card.
+
+(2) A person making a gaming machine available for use shall not participate in, arrange, permit or knowingly facilitate payment of a charge for use by means of a credit card.
+
+(3) In this regulation—
+
+- “credit card” means a credit-token within the meaning of section 14 of the Consumer Credit Act 1974[^f00006]; and
+- “debit card” means a card enabling payment to be debited against a person’s banking account, and which is not a credit card.
+
+## 5. Minimum payment amount[^key-0adee22c132df936696e02bcee5b55c5]
+
+A gaming machine shall not be made available for use if a person can use the machine to gamble once by paying an amount which is not a whole number of pence.
+
+## 6. Nature of prizes[^key-48a951facec980746b9cac5cd1a2a7ad]
+
+(1) A Category A, B or C gaming machine shall not provide an opportunity to win a non-money prize from use of the machine.
+
+(2) A Category D gaming machine shall not provide an opportunity to win a proscribed non-money prize from use of the machine.
+
+(3) In this regulation “proscribed non-money prize” means a good or service which it is illegal to supply or sell to a child or young person under the laws of the place where the gaming machine is made available for use.
+
+## 7. Payment limits[^key-dae4a87d2bb3bd3268d21f392a979aff]
+
+(1) Subject to regulation 9[^key-e8ad71025db5cb946dd4a14cd2320735], where a gaming machine is made available for use, a person must not be able, by means of a single action, to make a payment in respect of the use of the machine which exceeds, in any case to which paragraphs (2) to (7) apply, the amount specified in the relevant paragraph.
+
+(2) In relation to—
+
+- (a) a Category A machine where the payment is of money or money’s worth, and
+- (b) a Category B or C machine, where the payment is of money,
+
+the amount is £20.
+
+(3) In relation to a Category B or C machine where—
+
+- (a) the payment is of money’s worth, and
+- (b) either—
+  - (i) the machine is manufactured on or after 1st September 2007, or
+  - (ii) it is a non-compliant machine,
+
+the amount is £20.
+
+(4) In relation to a Category B1, B2 or B3 machine where—
+
+- (a) the payment is of money’s worth,
+- (b) the payment satisfies—
+  - (i) the supervision condition in paragraph (8),
+  - (ii) the collection condition in paragraph (9), or
+  - (iii) partly satisfies the supervision condition, with the payment of the remaining amount satisfying the collection condition,
+- (c) the machine is manufactured before 1st September 2007, and
+- (d) immediately before that date the machine is designed or adapted for payments of money’s worth to be made in relation to its use,
+
+the amount is £100.
+
+(5) In relation to a Category B1, B2 or B3 machine which meets the conditions in sub-paragraphs (a), (c) and (d) of paragraph (4), but in respect of which the condition in sub-paragraph (b) is not met, the amount is £20.
+
+(6) In relation to a Category B3A, B4 or C machine where—
+
+- (a) the payment is of money’s worth, and
+- (b) the machine is manufactured before 1st September 2007,
+
+the amount is £20.
+
+(7) In relation to a Category D machine, where the payment is of money or money’s worth, the amount is £2.
+
+(8) The supervision condition is that a payment of money’s worth in respect of the use of a Category B1, B2 or B3 gaming machine must—
+
+- (a) be made by means of a document or object which is purchased or obtained from a person acting in the course of a business carried on by an authorised person; or
+- (b) be processed by a person acting in the course of such a business.
+
+(9) The collection condition is that a payment of money’s worth in respect of the use of a Category B1, B2 or B3 gaming machine must be made by means of—
+
+- (a) a document or object collected as a prize from use of a gaming machine, or
+- (b) a document or object delivered by a gaming machine as a means of returning an amount held to the credit of the person using the machine.
+
+(10) In this regulation—
+
+- “authorised person” means a person who holds an operating licence which authorises making gaming machines available for use;
+- “non-compliant machine” means a Category B gaming machine manufactured before 1st September 2007 which does not comply with the condition in paragraph (4)(d); and
+- “payment of money’s worth” includes circumstances where—
+  - (a) a person pays money in relation to use of a gaming machine, and
+  - (b) that payment is made otherwise than by inserting money into the machine.
+
+(11) Where a person makes a payment in respect of a gaming machine, only those amounts of the payment which are—
+
+- (a) used to pay a charge for use, or
+- (b) held to the credit of a person using the machine,
+
+are to be counted for the purposes of paragraphs (1) to (7).
+
+(12) Nothing in this regulation shall prevent a person, by means of a series of actions, from making one or more payments which exceed the limits specified in paragraphs (2) to (7) provided that in each case the amount paid by means of a single action complies with the relevant limit.
+
+## 8. Payment limits: transitional provisions[^key-1e1cdfb7bca0869b0d8ac20958cd009d]
+
+(1) The limits imposed by regulation 7 on payments in respect of the use of—
+
+- (a) a Category B1, B2 or B3 gaming machine which meets the conditions in sub-paragraphs (a) to (d) of paragraph (4), and
+- (b) a Category B3A, B4 or C gaming machine which meets the conditions in sub-paragraphs (a) and (b) of paragraph (6),
+
+do not apply until 1st September 2008.
+
+(2) The limit imposed by regulation 7 on payments made in respect of the use of a Category B or C gaming machine in the circumstances specified in paragraphs (3)(a) and (b) of that regulation does not apply in the case of a gaming machine manufactured before 1st March 2008, until 1st September 2008.
+
+## 9. Committed payment limits[^key-b32160da6916f40963b3d472ba55f208]
+
+(1) This regulation is subject to regulation 11[^key-7724031eae0e25eea4ba49dd37f86e70].
+
+(2) Where a Category A, B or C gaming machine is made available for use, a person must not be able, by means of a single action, to make a committed payment in respect of the use of the machine which exceeds—
+
+- (a) in relation to a Category A, B1, B2, B3 or B3A machine, £10, or
+- (b) in relation to a Category B4 or C machine, £5.
+
+(3) A committed payment is a payment of money or money’s worth where—
+
+- (a) the whole amount is used to pay a charge for use in respect of a gaming machine,
+- (b) the whole amount is held by or in relation to a gaming machine as a committed amount, or
+- (c) part is used to pay a charge for use, with the remaining amount being held by or in relation to the machine as a committed amount.
+
+(4) In these Regulations “committed amount”, in relation to a gaming machine, means an amount of money or money’s worth—
+
+- (a) held to the credit of a person using the machine for the purposes of paying one or more charges for use, and
+- (b) which, immediately after it is paid or (as the case may be) immediately after the action referred to in paragraph (7) is taken in relation to it, is not recoverable by a person using the machine.
+
+(5) Where a part (but not the whole) of a payment is treated in one of the ways described in paragraph (3) the amount of that part of the payment must not exceed the limit specified in paragraph (2) in relation to the relevant category of machine.
+
+(6) Paragraph (5) is without prejudice to any limit which may apply to the whole of the payment by virtue of regulation 7.
+
+(7) Where a person using a gaming machine performs an action whose effect is to cause an amount held as part of the deposited sum to be—
+
+- (a) used to pay a charge for use in respect of the machine,
+- (b) held by or in relation to the machine as a committed amount, or
+- (c) partly used to pay a charge for use, with the remaining amount held by or in relation to the machine as a committed amount,
+
+that action is to be treated for the purposes of this regulation as the making of a committed payment.
+
+(8) Nothing in this regulation shall prevent a person, by means of a series of actions, from making one or more payments which exceed the limits specified in paragraph (2) provided that in each case the amount paid by means of a single action complies with the relevant limit.
+
+(9) In these Regulations “the deposited sum”, in relation to a gaming machine, means the amount of money or money’s worth—
+
+- (a) which for the time being is held by or in relation to the machine to the credit of a person using the machine, and
+- (b) none of which is held as a committed amount.
+
+(10) The limit in paragraph (2) does not apply, in the case of a Category A or B2 gaming machine which is designed or adapted to allow a person to pay a charge for use by using an amount of the deposited sum in relation to the machine, until 1st March 2008.
+
+## 10. Autoplay[^key-6914121381ceeefac97b7a2f2a055757]
+
+(1) This regulation applies to a gaming machine, other than a casino jackpot gaming machine, which—
+
+- (a) is made available for use, and
+- (b) is designed or adapted to allow a charge for use to be paid by using an amount of the deposited sum in relation to the machine.
+
+(2) Subject to the following provisions of this regulation, a charge for use in respect of such a gaming machine must not be payable by means of an autoplay facility.
+
+(3) The prohibition in paragraph (2) does not apply to a gaming machine which is designed or adapted so that it meets the conditions in paragraphs (4) and (5).
+
+(4) The first condition is that—
+
+- (a) a person using the machine is required to perform at least one action in relation to the machine to make an amount of the deposited sum capable of being used to pay a charge for use by means of an autoplay facility, and
+- (b) any such action is in addition to a separate action that the person is required to perform to cause the whole or part of that amount to be used to pay more than one charge for use by means of such a facility.
+
+(5) The second condition is that each amount dealt with in accordance with paragraph (4)(a) does not exceed—
+
+- (a) in relation to a Category A, B1, B2, B3, or B3A machine, £10; and
+- (b) in relation to a Category B4 or C machine, £5.
+
+(6) In these Regulations—
+
+- “autoplay facility” means any facility which enables a person using a gaming machine to pay more than one charge for use in respect of the machine without performing at least one separate action in respect of each charge for use; and
+- “casino jackpot gaming machine” means a gaming machine which—
+  - (a) immediately before 1st September 2007 is—
+    - (i) a machine to which Part 3 of the Gaming Act 1968[^f00007] applies, and
+    - (ii) designed or adapted to be used for gaming in accordance with section 31 of that Act on premises in respect of which a licence under that Act is in force, other than bingo club premises (as defined in section 20 of that Act); and
+  - (b) on or after 1st September 2007 is not adapted, other than—
+    - (i) to alter its maximum charge for use or prize value; or
+    - (ii) to comply with the requirements of regulation 3.
+
+(7) The prohibition in paragraph (2) does not apply, in the case of a gaming machine manufactured before 1st March 2008, until 1st September 2008.
+
+## 11. Special provision for Category A ... machines[^key-0ab48e27912b4bb2e4cecec5d13cebc7][^key-ba3a92fb4e92f3ecf7aaa01a6fb0f9e5]
+
+(1)[^key-cf9fa7c4a6f7becd22c85f9d81f346ec] This regulation applies to a Category A gaming machine which is designed or adapted to allow a person to pay a charge for use by using an amount of the deposited sum in relation to the machine.
+
+(1A)[^key-39ae2418ccb35efa38bf43688169a7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The limit specified in regulation 9(2)(a) does not apply to the payment, in relation to such a machine, of a charge for use which exceeds £10; and, instead, any such payment is subject to the following provisions of this regulation.
+
+(3) Subject to paragraph (5), where the machine is made available for use, the arrangements for the use of the machine must ensure that, for each permitted amount that a person wants to include in the amount he pays as a charge for use, he performs a separate action in relation to the machine to indicate that he wants to use that amount for that purpose.
+
+(4) In this regulation, “permitted amount” is an amount not exceeding £10.
+
+(5) Paragraph (3) does not apply where the conditions set out in paragraph (6), and either the condition set out in paragraph (7) or that in paragraph (8), are met.
+
+(6) The conditions are that—
+
+- (a) a person has previously paid a charge for use of an amount which exceeds £10;
+- (b) the payment for that charge for use was made in accordance with paragraph (3) or paragraphs (5) to (8);
+- (c) a person has used the machine in relation to that charge for use; and
+- (d) before another person has paid to use the machine, the person referred to in sub-paragraph (a) pays a further charge for use in respect of the machine.
+
+(7) Where the charge for use referred to in paragraph (6)(d) does not exceed the amount referred to in paragraph (6)(a), a person is required to take at least two separate actions in relation to the machine in order to pay the charge for use.
+
+(8) Where the charge for use referred to in paragraph (6)(d) exceeds the amount referred to in paragraph (6)(a), a person is required to perform at least the required actions in relation to the machine in order to pay that charge for use.
+
+(9) In paragraph (8), the required actions are—
+
+- (a) a separate action to indicate that he wants to include the original sum in the amount he pays for the charge for use,
+- (b) a further separate action for each permitted amount in addition to the original sum that he wants to include in that amount, and
+- (c) a further separate action to pay the total amount as the charge for use.
+
+(10) In paragraph (9), “the original sum” means the amount referred to in paragraph (6)(a).
+
+## 11A. Additional special provision for Category B2 machines in certain circumstances[^key-ae4a434df3c6b438491112b0a9f37cdc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Residues[^key-8cd3d27c62a98b4c927c585f8a440989]
+
+(1) A gaming machine which is made available for use may not retain the deposited sum in relation to the machine (referred to below as retaining a “residue”) unless the deposited sum—
+
+- (a) consists entirely of cash held by the machine,
+- (b) is an amount of less than £1, and
+- (c) cannot be recovered because—
+  - (i) the machine cannot pay the correct denomination of coins equal to the amount to be recovered, and
+  - (ii) the machine has no alternative means for paying the amount to the person seeking to recover it.
+
+(2) Where a gaming machine, which is designed or adapted to retain a residue as permitted by paragraph (1), is made available for use—
+
+- (a) the machine shall display a warning of that fact, stating the maximum amount which the machine is designed or adapted to retain; and
+- (b) the amount of any such residue shall be made available for paying the whole or part of a further charge for use in relation to the machine and for no other purpose.
+
+(3) Where a gaming machine is designed or adapted to hold an amount of money or money’s worth as a committed amount, any such amount may only be used for paying the whole or part of a further charge for use in relation to the machine and for no other purpose.
+
+## 13. Delivery of prizes: general[^key-7f4f7b4d3b838f8653bfad73814354a1]
+
+(1) Where—
+
+- (a) a gaming machine is made available for use,
+- (b) a person wins a prize by using that machine (“the winner”), and
+- (c) the prize is not made available automatically for collection from the machine at the time of winning,
+
+the arrangements with respect to prizes won using the machine must comply with the provisions of this regulation and regulation 14.
+
+(2) If the prize won is a non-money prize—
+
+- (a) the machine must provide the winner with the means for collecting that prize;
+- (b) information about the type of prize won must be displayed on the machine or upon the premises where the machine is situated; and
+- (c) where the prize is not held by the machine, the prize must be available for collection by the winner, or a person claiming under him—
+  - (i) at the premises where the machine is situated, and
+  - (ii) at a time when gaming machines are available for use on those premises.
+
+(3) If the prize won is a money prize—
+
+- (a) the machine must provide the winner with information about the amount of the prize he has won;
+- (b) the winner must have an opportunity to collect the whole amount of the prize; and
+- (c) where the prize is not held by the machine it must be available for collection by the winner, or a person claiming under him—
+  - (i) at the premises where the machine is situated, and
+  - (ii) at a time when gaming machines are available for use on those premises.
+
+(4) If the prize won is a money prize, the machine must not operate in a way so that the prize, if it is not collected by the winner, is automatically—
+
+- (a) used to pay a charge for use in respect of the machine,
+- (b) held by or in relation to the machine as a committed amount, or
+- (c) partly used to pay a charge for use, with the remaining amount of the prize held by or in relation to the machine as a committed amount.
+
+(5) Where a gaming machine is—
+
+- (a) manufactured before 1st September 2007, and
+- (b) not adapted on or after 1st September 2007, other than—
+  - (i) to alter its maximum charge for use or prize value; or
+  - (ii) to comply with the requirements of regulation 3,
+
+paragraph (3)(b) is to be treated as having been complied with where the whole amount of the prize is added to the deposited sum in relation to the machine, even if the effect of doing so is that an amount of the prize will not be recoverable by virtue of regulation 12.
+
+(6) The requirement imposed by paragraph (3)(b) does not apply in the case of—
+
+- (a) a gaming machine manufactured between 1st September 2007 and 29th February 2008, or
+- (b) a non-compliant machine,
+
+until 1st September 2008.
+
+(7) In—
+
+- (a) paragraph (1), a reference to a machine making a prize available for collection automatically is to a machine making available a prize for collection without the person who has won the prize being required to perform any action to make it available; and
+- (b) paragraph (6), a reference to a “non-compliant machine” means a gaming machine manufactured before 1st September 2007 which does not comply with the conditions in paragraph (5)(b).
+
+## 14. Delivery of money prizes[^key-b3d275d0945c08033f9f8429bf2c31e8]
+
+(1) Subject to paragraph (2) where—
+
+- (a) a money prize is won by using a gaming machine which is designed or adapted to enable a person to pay a charge for use by using an amount of the deposited sum, and
+- (b) the prize—
+  - (i) in relation to a Category A, B1, B2, B3 or B3A machine, exceeds £50,
+  - (ii) in relation to a Category B4 or C machine, exceeds £10, or
+  - (iii) in relation to a Category D machine, is a money prize of any amount,
+
+the prize may not be added to the deposited sum in relation to the machine until the winner has first had an opportunity to collect the full amount of the prize.
+
+(2) Where a money prize is won by using a gaming machine which is designed or adapted to allow a charge for use to be paid by means of an autoplay facility in accordance with regulation 10(3) to (5)—
+
+- (a) paragraph (1) does not apply; but
+- (b) the prize may not be made available to pay a charge for use in relation to that machine unless—
+  - (i) the winner is required to perform at least one action in relation to the machine to make an amount of the prize capable of being used to pay a charge for use by means of an autoplay facility; and
+  - (ii) any such action is in addition to a separate action that the person is required to perform to cause the whole or part of that prize to be used to pay more than one charge for use by means of such a facility.
+
+(3) The requirement imposed by paragraph (1) does not apply in the case of a gaming machine manufactured before 1st March 2008, until 1st September 2008.
+
+Gerry Sutcliffe
+
+Parliamentary Under Secretary of State
+
+Department for Culture, Media and Sport
+
+6th August 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe rules, under section 240 of the Gambling Act 2005 (the Act), controlling how gaming machines are made available for use. “Gaming machine” is defined in section 235 of the Act. Regulations under section 236 of the Act define categories of gaming machine, A to D, including sub-categories of Category B. Section 242(2) of the Act makes it an offence to make a gaming machine available for use which does not comply with these Regulations.
+
+Regulation 1 specifies a principal coming into force date of 1st September 2007 for these Regulations, subject to a number of express exceptions set out in paragraphs (3) and (4).
+
+- Regulations 3(1)(a) and (5)(b) concerning display of information about a machine’s category do not come into force until 1st November 2007 (paragraph (3)).
+- Regulations 10 and 11, concerning autoplay and payment limits for certain types of Category A and B2 machines, do not come into force until 1st March 2008 (paragraph (4) and see also the provision in regulation 9(10) making transitional provision for the application of regulation 9 to such Category A and B2 machines).
+
+Regulations 8, 10(7), 13(6) and 14(3) provide particular transitional arrangements, setting a later coming into force date for specific rules contained in those regulations, for certain categories of gaming machine manufactured:
+
+- before 1st September 2007; or
+- on or after 1st September 2007 and before 1st March 2008.
+
+Regulation 2 defines essential terms in the Regulations, including money and non-money prize.
+
+Regulation 3 sets out information which gaming machines are required to display, and the manner in which it must be displayed, while they are being made available for use.
+
+Regulation 4 prevents credit cards being used to pay for gaming machine use by any means, and limits debit card payments to indirect forms of payment only.
+
+Regulation 5 prevents amounts of less than 1p being included in any charge for use of a gaming machine.
+
+Regulation 6 regulates the types of prizes that Category A, B, C and D machines can deliver. Category D machines, which are the only category of machine permitted to provide non-money prizes, may not provide a non-money prize in the form of goods or services which it is illegal to sell or supply to a person under 18.
+
+Regulations 7, 9 and 11 contain rules about the amounts that can be paid in a single action in relation to use of a gaming machine, depending on—
+
+- the type of payment made,
+- the category of machine, and
+- when the machine was manufactured.
+
+These rules are separate from the maximum individual charges for use for using a gaming machine once (known commonly as “stakes”). Those charges are prescribed by regulations made under section 236 of the Act.
+
+- Regulation 7 specifies limits for depositing money on a gaming machine. In particular, different limits apply depending on—
+  - the category or sub-category of machine;
+  - when the machine is manufactured;
+  - the nature of the payment i.e. money or money’s worth. Examples of payments of money’s worth are payments made by smartcards or tickets; and
+  - in the case of certain payments of money’s worth, whether or not the means of payment is purchased in accordance with a “supervision condition” or a “collection condition” (defined in regulation 7(8) and (9)). Payments of money’s worth include payments by smartcard and payments “loaded from the counter” (regulation 7(10)).
+- Regulation 8 makes transitional arrangements for the limits specified in regulation 7(3), (4) and (6) to apply from 1st September 2008 for gaming machines manufactured before specified dates.
+- Regulation 9 specifies limits for making committed payments, which vary according to the category of machine.
+- Regulation 11 sets out special rules for certain Category A and B2 machines, exempting such machines from the payment limit in regulation 9, and imposing alternative requirements.
+
+Regulation 10 prevents autoplay facilities being made available on certain types of gaming machine which take charges for use direct from deposited sums.
+
+Regulation 12(1) specifies the circumstances in which a gaming machine may retain a residue from deposited sums, and limits such residues to no more than 99p cash. Where a machine does retain a permitted residue, it must display warning information in accordance with paragraph (2). Paragraph (3) specifies that money or money’s worth held as a committed amount on a gaming machine can only be used for paying a charge for use on the machine, and cannot, for example, be removed by the operator of the machine for profit.
+
+Regulations 13 and 14 set out rules about the collection and delivery of prizes, which vary according to—
+
+- whether the prize is a money or non-money prize,
+- whether the charge for use is taken from deposited or committed monies, and
+- the category or sub-category of machine, and its date of manufacture.
+
+Rules controlling the maximum value of prizes which can be won as a result of using a gaming machine once are prescribed by regulations made under section 236 of the Act.
+
+Transitional arrangements apply to regulations 13 and 14, at regulations 13(6) and 14(3).
+
+These regulations were notified in draft to the European Commission in accordance with Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034), as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048) (the Technical Standards Directive).
+
+A Regulatory Impact Assessment is available from the Gambling and National Lottery Licensing Division, Department for Culture, Media and Sport, 2-4 Cockspur Street, London SW1Y 5DH, telephone 020 7211 6368.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
+
+[^key-9f145bd70dd70c5aaa784774e39d007e]: Commencement: Reg. 1 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^key-f75d667cb2a8bc8e2a37d32d9913dd93]: Commencement: Reg. 2 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^f00002]: Footnote: “Gaming machine” is defined in section 235 of the Gambling Act 2005, and the Gambling Act 2005 (Gaming Machines) (Definitions) Regulations 2007, [SI 2007/2082](https://www.legislation.gov.uk/uksi/2007/2082).
+
+[^f00003]: Footnote: Maximum charges for use are prescribed in the Categories of Gaming Machine Regulations 2007, [SI 2007/2158](https://www.legislation.gov.uk/uksi/2007/2158).
+
+[^f00004]: Footnote: “Prize” is defined in section 239 of the Gambling Act 2005.
+
+[^key-184d46139951af6382f3da2d518693df]: Commencement: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/3/1/a)[(5)(b)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/3/5/b) in force at 1.11.2007, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/3)
+
+[^key-716c1bf649dab49b05f46ab3d85e0385]: Commencement: Reg. 3(1)(b)(c)(2)-(4)(5)(a)(c)(6) in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^f00005]: Footnote: For the meaning of “child” and “young person” see section 45 of the Gambling Act 2005.
+
+[^key-d89fee4f9e5c14aaf77e79c2f81be4c0]: Commencement: Reg. 4 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^f00006]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^key-0adee22c132df936696e02bcee5b55c5]: Commencement: Reg. 5 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^key-48a951facec980746b9cac5cd1a2a7ad]: Commencement: Reg. 6 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^key-dae4a87d2bb3bd3268d21f392a979aff]: Commencement: Reg. 7 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^key-e8ad71025db5cb946dd4a14cd2320735]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/7/1) substituted (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/2)
+
+[^key-1e1cdfb7bca0869b0d8ac20958cd009d]: Commencement: Reg. 8 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^key-b32160da6916f40963b3d472ba55f208]: Commencement: Reg. 9 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^key-7724031eae0e25eea4ba49dd37f86e70]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/9/1) substituted (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/3)
+
+[^key-6914121381ceeefac97b7a2f2a055757]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/2319/regulation/10) in force at 1.3.2008, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/4)
+
+[^f00007]: Footnote: [1968 c.65](https://www.legislation.gov.uk/ukpga/1968/65).
+
+[^key-0ab48e27912b4bb2e4cecec5d13cebc7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11) in force at 1.3.2008, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/4)
+
+[^key-ba3a92fb4e92f3ecf7aaa01a6fb0f9e5]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11) heading omitted (1.4.2019) by virtue of [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/4/a)
+
+[^key-cf9fa7c4a6f7becd22c85f9d81f346ec]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11/1) substituted (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/4/b)
+
+[^key-39ae2418ccb35efa38bf43688169a7c0]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11/1A) omitted (1.4.2019) by virtue of [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/4/c)
+
+[^key-ae4a434df3c6b438491112b0a9f37cdc]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11A) omitted (1.4.2019) by virtue of [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/5)
+
+[^key-8cd3d27c62a98b4c927c585f8a440989]: Commencement: Reg. 12 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^key-7f4f7b4d3b838f8653bfad73814354a1]: Commencement: Reg. 13 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+
+[^key-b3d275d0945c08033f9f8429bf2c31e8]: Commencement: Reg. 14 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)

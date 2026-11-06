@@ -1,0 +1,55 @@
+---
+title: Crime (International Co-operation) Act 2003, section 31
+act: Crime (International Co-operation) Act 2003
+section: '31'
+status: revised-with-pending-changes
+text_date: '2022-11-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/32/section/31
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crime (International Co-operation) Act 2003, section 31
+
+> **Warning: changes not yet applied to this text (11).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 31. Hearing witnesses in the UK by telephone[^key-ae08e40ddbfb039b6e1b380e9bc6441b]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where the Secretary of State receives a request, from an authority mentioned in subsection (2) (“**the external authority**”) in a participating country, for a person in the United Kingdom to give evidence by telephone in criminal proceedings before a court in that country.
+
+Criminal proceedings include any proceedings on an appeal before a court against a decision in administrative proceedings.
+
+(2) The authority referred to in subsection (1) is the authority in that country which appears to the Secretary of State to have the function of making requests of the kind to which this section applies.
+
+(3) A request under subsection (1) must—
+
+- (a) specify the court in the participating country,
+- (b) give the name and address of the witness,
+- (c) state that the witness is willing to give evidence by telephone in the proceedings before that court.
+
+(4) Unless he considers it inappropriate to do so, the Secretary of State must by notice in writing nominate a court in the United Kingdom where the witness may be heard in the proceedings in question by telephone.
+
+(5) Anything done by the witness in the presence of the nominated court which, if it were done in proceedings before the court, would constitute contempt of court is to be treated for that purpose as done in proceedings before the court.
+
+(6) Any statement made on oath by a witness giving evidence in pursuance of this section is to be treated for the purposes of—
+
+- (a) section 1 of the Perjury Act 1911 (c. 6),
+- (b) Article 3 of the Perjury (Northern Ireland) Order 1979 (S.I. 1979/ 1714 (N.I. 19)),
+- (c) sections 44 to 46 of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) or, in relation to Scotland, any matter pertaining to the common law crime of perjury,
+
+as made in proceedings before the nominated court.
+
+(7) Part 2 of Schedule 2 (evidence given by telephone link) is to have effect.
+
+(8) Subject to subsections (5) and (6) and the provisions of that Schedule, evidence given in pursuance of this section is not to be treated for any purpose as evidence given in proceedings in the United Kingdom.
+
+(9) In relation to Scotland, references in this section to the Secretary of State are to be read as references to the Lord Advocate.
+
+## Annotations
+
+[^key-ae08e40ddbfb039b6e1b380e9bc6441b]: Commencement: S. 31 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

@@ -1,0 +1,64 @@
+---
+title: Energy Act 2023, section 6
+act: Energy Act 2023
+section: '6'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/6
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 6
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 6. Revocation or withdrawal of exemption[^key-78a29e702d25d2a557ed3f7cb7fa2512]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may by regulations revoke regulations by which an exemption was granted to a person or vary regulations by which more than one exemption was so granted so as to terminate any of the exemptions—
+
+- (a) at the person’s request,
+- (b) in accordance with any provision of the regulations by which the exemption was granted, or
+- (c) if it appears to the Secretary of State inappropriate that the exemption should continue to have effect.
+
+(2) The Secretary of State may by regulations revoke regulations by which an exemption was granted to persons of a class or vary regulations by which more than one exemption was so granted so as to terminate any of the exemptions—
+
+- (a) in accordance with any provision of the regulations by which the exemption was granted, or
+- (b) if it appears to the Secretary of State inappropriate that the exemption should continue to have effect.
+
+(3) The Secretary of State may by regulations withdraw an exemption granted to persons of a class from any person of that class—
+
+- (a) at the person’s request,
+- (b) in accordance with any provision of the regulations by which the exemption was granted, or
+- (c) if it appears to the Secretary of State inappropriate that the exemption should continue to have effect in the case of the person.
+
+(4) Before making regulations under subsection (1)(b) or (c), (2) or (3)(b) or (c), the Secretary of State must—
+
+- (a) give notice of the proposal to do so (with reasons) and of a period within which representations may be made to the Secretary of State, and
+- (b) consider any representations which are duly made and not withdrawn.
+
+(5) The notice under subsection (4) must be given—
+
+- (a) to the economic regulator and any appropriate devolved authority,
+- (b) where the Secretary of State is proposing to make regulations under subsection (1)(b) or (c), by serving a copy of it on the person to whom the exemption was granted,
+- (c) where the Secretary of State is proposing to make regulations under subsection (2), by publishing it in such manner as the Secretary of State considers appropriate for bringing it to the attention of persons of the class of persons to whom the exemption was granted, and
+- (d) where the Secretary of State is proposing to make regulations under subsection (3)(b) or (c), by serving a copy of it on the person from whom the Secretary of State proposes to withdraw the exemption.
+
+(6) For the purposes of subsection (5) the “appropriate devolved authorities” are—
+
+- (a) the Scottish Ministers, if the regulations to which the notice relates contain provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;
+- (b) the Welsh Ministers, if those regulations contain provision that would be within the legislative competence of Senedd Cymru if it were contained in an Act of the Senedd (ignoring any requirement for the consent of a Minister of the Crown imposed under Schedule 7B to the Government of Wales Act 2006);
+- (c) the Department for the Economy in Northern Ireland, if those regulations contain provision that—
+  - (i) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and
+  - (ii) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998.
+
+(7) Regulations under this section and section 5 are subject to the negative procedure.
+
+## Annotations
+
+[^key-78a29e702d25d2a557ed3f7cb7fa2512]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/52/section/6) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

@@ -1,0 +1,30 @@
+---
+title: The Social Security Benefits Up-rating Order 1998, section 5
+act: The Social Security Benefits Up-rating Order 1998
+section: '5'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/470/section/5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Benefits Up-rating Order 1998, section 5
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 5. Increase in rates or amounts of certain benefits under the Pension Schemes Act
+
+(1) It is hereby directed[^f00020] that the sums specified in paragraph (2) below shall be increased from and including the respective dates specified in article 6 below.
+
+(2) Sums which are payable by virtue of section 15(1) of the Pension Schemes Act (which provides for increases in a person’s guaranteed minimum pension if payment of his occupational pension is postponed after he attains pensionable age) to a person who is also entitled to a Category A or Category B retirement pension (including sums payable by virtue of section 17(2) and (3) of that Act), shall be increased by—
+
+- (a) 3.6 per cent. of their amount apart from this Order where the increase under section 15(1) is attributable to earnings factors for the tax year 1987–88 and earlier tax years[^f00021]; and
+- (b) 0.6 per cent. of their amount apart from this Order where the increase under section 15(1) is attributable to earnings factors for the tax years 1988–89 to 1996–97 inclusive.
+
+## Annotations
+
+[^f00020]: Footnote: *See* section 151(2) of the Social Security Administration Act 1992.
+
+[^f00021]: Footnote: *See* section 151(4) of the Social Security Administration Act 1992. Under section 151(4) where an increment under section 15(1) of the Pension Schemes Act is increased by an order under section 109 of that Act, the increase that would otherwise fall to be made by this Order is reduced by the amount of the increase under section 109. Section 109 of the Pension Schemes Act was amended by section 55 of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26). The Guaranteed Minimum Pensions Increase Order 1998 ([S.I. 1998/406](https://www.legislation.gov.uk/uksi/1998/406)) provides for an increase of 3 per cent. where the increase under section 15(1) is attributable to the tax years 1988–89 and subsequent tax years up to and including 1996–97.

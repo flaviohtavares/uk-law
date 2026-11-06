@@ -1,0 +1,46 @@
+---
+title: Taxation of Chargeable Gains Act 1992, section 151C
+act: Taxation of Chargeable Gains Act 1992
+section: 151C
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/12/section/151C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation of Chargeable Gains Act 1992, section 151C
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 151C. Strips: manipulation of price: associated payment giving rise to loss[^key-b61df16b8720e76efac2a95369f08b50]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) as a result of any scheme or arrangement which has an unallowable purpose, the circumstances are, or might have been, as mentioned in paragraph (a), (b) or (c) of section 449(2) of ITTOIA 2005,
+- (b) under the scheme or arrangement, a payment falls to be made otherwise than in respect of the acquisition or disposal of a strip, and
+- (c) as a result of that payment or the circumstances in which it is made, a loss accrues to any person.
+
+(2) The loss shall not be an allowable loss.
+
+(3) For the purposes of this section a scheme or arrangement has an unallowable purpose if the main benefit, or one of the main benefits that might have been expected to result from, or from any provision of, the scheme or arrangement (apart from section 449 of ITTOIA 2005 and this section) is—
+
+- (a) the obtaining of a tax advantage by any person, or
+- (b) the accrual to any person of an allowable loss.
+
+(4) The reference in subsection (1)(b) to the acquisition or disposal of a strip shall be construed as if it were in Chapter 8 of Part 4 of ITTOIA 2005 (profits from deeply discounted securities) (see, in particular, sections 437 and 445 of that Act for the meaning of “disposal” and “acquisition” and section 444 of that Act for the meaning of “strip”).
+
+(5) In subsection (3)(a) “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^key-3fa660fe42f576c7cbe51db26d1d6fb3].
+
+(6) This section applies to losses accruing on or after 17th March 2004.
+
+## Annotations
+
+[^key-b61df16b8720e76efac2a95369f08b50]: Textual amendment: S. 151C inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 438](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/438) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+
+[^key-3fa660fe42f576c7cbe51db26d1d6fb3]: Textual amendment: Words in s. 151C(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 238](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/238) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

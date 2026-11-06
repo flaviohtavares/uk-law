@@ -1,0 +1,27 @@
+---
+title: Finance Act 1991, section 120
+act: Finance Act 1991
+section: '120'
+status: revised-with-pending-changes
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1991/31/section/120
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1991, section 120
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/31
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 120. National savings: date of issue of repayment warrants etc.[^key-d21a669a69a23585dc417adf02291125]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-d21a669a69a23585dc417adf02291125]: Textual amendment: [S. 120](https://www.legislation.gov.uk/ukpga/1991/31/section/120) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4

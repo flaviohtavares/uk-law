@@ -1,0 +1,186 @@
+---
+title: The Civil Partnership (Jurisdiction and Recognition of Judgments) Regulations 2005
+id: uksi/2005/3334
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-12-01'
+text_date: '2022-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/3334
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/3334/pdfs/uksiem_20053334_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3334/pdfs/uksi_20053334_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3334/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Partnership (Jurisdiction and Recognition of Judgments) Regulations 2005
+
+> Text as at 2022-04-06.
+
+2005 No. 3334
+
+JUDGMENTS, ENGLAND AND WALES
+
+JUDGMENTS, NORTHERN IRELAND
+
+FAMILY LAW, ENGLAND AND WALES
+
+FAMILY LAW, NORTHERN IRELAND
+
+The Civil Partnership (Jurisdiction and Recognition of Judgments) Regulations 2005
+
+Made
+
+1st December 2005
+
+Coming into force
+
+5th December 2005
+
+The Lord Chancellor makes the following Order in exercise of the powers conferred by section 219(1), (3), (4) and (5) of the Civil Partnership Act 2004 [^c1241592]. In accordance with section 219(6) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Civil Partnership (Jurisdiction and Recognition of Judgments) Regulations 2005 and shall come into force on 5 December 2005.
+
+## 2. Extent
+
+(1) Except as provided by this regulation, these Regulations extend to England and Wales and Northern Ireland.
+
+(2) Regulation 4 extends[^key-955908f68f9e579638ae952309b94d0a] to England and Wales only.
+
+(3) Regulation 5 extends[^key-c540d1b6e91e566914bb655137f7d786] to Northern Ireland only.
+
+## 3. Application
+
+(1) These Regulations apply to proceedings for the dissolution or annulment of an overseas relationship entitled to be treated as a civil partnership, or the legal separation of the same, as they apply to proceedings for the dissolution or annulment of a civil partnership or the legal separation of civil partners.
+
+(2)[^key-4f84bebeac369fe397f5cd9e04659cde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 1 — Jurisdiction
+
+### 4. Jurisdiction: England and Wales
+
+The courts in England and Wales shall have jurisdiction in relation to proceedings for the dissolution or annulment of a civil partnership or for the legal separation of civil partners where on the date of the application[^key-6323c8519fec768b8636bcf35f238ac1]—
+
+- (a) both civil partners are habitually resident in England and Wales;
+- (b) both civil partners were last habitually resident in England and Wales and one of the civil partners continues to reside there;
+- (c) the respondent is habitually resident in England and Wales;
+- (ca)[^key-d141c2e691b4414718a6d5bd83cf22a0] in a joint application only, either civil partner is habitually resident in England and Wales;
+- (d) the applicant[^key-8a11452830debaf0bc3b5fdb5541772b] is habitually resident in England and Wales and has resided there for at least one year immediately before the application was made[^key-dd5e7c6030e178b824775a1e732b34e4] [^key-50b1d5d47f37b1456b13c387da33cdea]...
+- (e) the applicant[^key-ad3fdf44abc1c7c56b869388e5543658] is domiciled and habitually resident in England and Wales and has resided there for at least six months immediately before the application was made[^key-f7d9b3f49215c708d5e44e6e1177fd9a] or[^key-cef17b915168b39ccb4171dc03d84953]
+- (f)[^key-ec33f4c49348a6fc9672a50961a02581] both civil partners are domiciled in England and Wales.
+
+### 5. Jurisdiction: Northern Ireland
+
+The courts in Northern Ireland shall have jurisdiction in relation to proceedings for the dissolution or annulment of a civil partnership or for the legal separation of civil partners where on the date of the application[^key-75bcb687479c3f51a5827795ab430d1d]—
+
+- (a) both civil partners are habitually resident in Northern Ireland;
+- (b) both civil partners were last habitually resident in Northern Ireland and one of the civil partners continues to reside there;
+- (c) the respondent is habitually resident in Northern Ireland;
+- (d) the applicant[^key-057d9583a29c0c39f38972769b0d8e63] is habitually resident in Northern Ireland and has resided there for at least one year immediately before the application was made[^key-6f3b85ddc5ffc114d86dc0cf890e8a47]; [^key-0239c41e77561d9030f624d006fa408c]...
+- (e) the applicant[^key-b875f4f59b21e10d734eec42eb6725a5] is domiciled and habitually resident in Northern Ireland and has resided there for at least six months immediately before the application was made[^key-6f1378c5ca876b20fedf6bc3cdd8d05b] or[^key-7dd4d8e8cd5b20b7fd02015eafe0e8b6]
+- (f)[^key-9a274134073ee3b654a015706854bfd4] both civil partners are domiciled in Northern Ireland.
+
+## PART 2 — Recognition and Refusal of Recognition of Judgments
+
+### 6. Definitions for Part 2[^key-9e19ca73f9888106ec2d771a36799577]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Recognition of a judgment[^key-9e19ca73f9888106ec2d771a36799577]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Refusal of recognition of a judgment[^key-9e19ca73f9888106ec2d771a36799577]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Jurisdiction and review[^key-9e19ca73f9888106ec2d771a36799577]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10.[^key-9e19ca73f9888106ec2d771a36799577]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Differences in applicable law[^key-9e19ca73f9888106ec2d771a36799577]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Stay of proceedings[^key-9e19ca73f9888106ec2d771a36799577]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Falconer of Thoroton, C
+
+1st December 2005
+
+(This note is not part of the Regulation)
+
+These Regulations are to make corresponding provisions, as far as is possible in domestic law, for civil partnerships as to the jurisdiction and recognition elements of Council Regulation [(EC) 2201/2003](https://www.legislation.gov.uk/european/regulation/2003/2201) for matrimonial matters as regards the law of England and Wales and Northern Ireland.
+
+The Regulations apply to all civil partnerships including overseas relationships entitled to be treated as a civil partnership, by virtue of the Civil Partnership Act 2004.
+
+Regulation 3(2) allows for the recognition and non-recognition of judgments regarding relationships that were formed before the coming into force of these Regulations and the 2004 Act.
+
+Regulations 4 and 5 set out the criteria for accepting jurisdiction for dissolution, annulment or legal separation proceedings in respect of civil partners.
+
+Regulations 7 and 8 set out the criteria for recognition and non-recognition of an order made in another Member States for the dissolution or annulment of a civil partnership or the legal separation of civil partners.
+
+Regulations 9 and 10 prevent the court from reviewing the jurisdiction of the court of the Member State that made the original judgment and also prevents a court from reviewing the substance of that judgment.
+
+Regulation 11 ensures that a judgment is recognised notwithstanding that there might well have been a different outcome if the law of England and Wales or Northern Ireland had been applied to the facts of the case.
+
+Regulation 12 allows the court to stay proceedings for recognition of a judgment when there is an appeal outstanding against that judgment.
+
+## Annotations
+
+[^c1241592]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-955908f68f9e579638ae952309b94d0a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/2/2) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c540d1b6e91e566914bb655137f7d786]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/2/3) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4f84bebeac369fe397f5cd9e04659cde]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/3/2) omitted (31.12.2020) by virtue of [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6323c8519fec768b8636bcf35f238ac1]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2005/3334/regulation/4) inserted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/4/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d141c2e691b4414718a6d5bd83cf22a0]: Textual amendment: [Reg. 4(ca)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/4/ca) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2022 (S.I. 2022/237)](https://www.legislation.gov.uk/uksi/2022/237), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2022/237/schedule/paragraph/2); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+
+[^key-8a11452830debaf0bc3b5fdb5541772b]: Textual amendment: Word in [reg. 4(d)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/4/d) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dd5e7c6030e178b824775a1e732b34e4]: Textual amendment: Words in [reg. 4(d)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/4/d) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/4/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-50b1d5d47f37b1456b13c387da33cdea]: Textual amendment: Word in [reg. 4(d)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/4/d) omitted (31.12.2020) by virtue of [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/4/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad3fdf44abc1c7c56b869388e5543658]: Textual amendment: Word in [reg. 4(e)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/4/e) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f7d9b3f49215c708d5e44e6e1177fd9a]: Textual amendment: Words in [reg. 4(e)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/4/e) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/4/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cef17b915168b39ccb4171dc03d84953]: Textual amendment: Word in [reg. 4(e)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/4/e) inserted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(4)(e)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/4/e) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ec33f4c49348a6fc9672a50961a02581]: Textual amendment: [Reg. 4(f)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/4/f) inserted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(4)(f)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/4/f) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-75bcb687479c3f51a5827795ab430d1d]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2005/3334/regulation/5) inserted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-057d9583a29c0c39f38972769b0d8e63]: Textual amendment: Word in [reg. 5(d)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/5/d) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6f3b85ddc5ffc114d86dc0cf890e8a47]: Textual amendment: Words in [reg. 5(d)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/5/d) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(5)(c)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/5/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0239c41e77561d9030f624d006fa408c]: Textual amendment: Word in [reg. 5(d)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/5/d) omitted (31.12.2020) by virtue of [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(5)(d)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/5/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b875f4f59b21e10d734eec42eb6725a5]: Textual amendment: Word in [reg. 5(e)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/5/e) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6f1378c5ca876b20fedf6bc3cdd8d05b]: Textual amendment: Words in [reg. 5(e)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/5/e) substituted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(5)(c)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/5/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7dd4d8e8cd5b20b7fd02015eafe0e8b6]: Textual amendment: Word in [reg. 5(e)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/5/e) inserted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(5)(e)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/5/e) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9a274134073ee3b654a015706854bfd4]: Textual amendment: [Reg. 5(f)](https://www.legislation.gov.uk/uksi/2005/3334/regulation/5/f) inserted (31.12.2020) by [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(5)(f)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/5/f) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9e19ca73f9888106ec2d771a36799577]: Textual amendment: [Regs. 6-12](https://www.legislation.gov.uk/uksi/2005/3334/regulation/6) omitted (31.12.2020) by virtue of [The Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/495)](https://www.legislation.gov.uk/uksi/2019/495), [regs. 1](https://www.legislation.gov.uk/uksi/2019/495/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2019/495/regulation/5/6) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/495/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

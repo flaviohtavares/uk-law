@@ -1,0 +1,36 @@
+---
+title: Children Act 2004, section 59
+act: Children Act 2004
+section: '59'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2004/31/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children Act 2004, section 59
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/31
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 59. Power to give financial assistance
+
+*Extent: E+W*
+
+(1) Section 14 of the Education Act 2002 (c. 32) (power of Secretary of State and Assembly to give financial assistance for purposes related to education or childcare) is amended as specified in subsections (2) to (4).
+
+(2) In subsection (2) of that section (purposes for which assistance may be given), at the end insert—
+
+> - (j) the promotion of the welfare of children and their parents;
+> - (k) the provision of support for parenting (including support for prospective parents).
+
+(3) After that subsection insert—
+
+> (2A) In subsection (2)(j), “**children**” means persons under the age of twenty.
+
+(4) In the heading to that section, for “childcare” substitute “ children etc ”.
+
+(5) In the heading to Part 2 of that Act, for “childcare” substitute “ children etc ”.

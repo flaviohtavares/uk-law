@@ -1,0 +1,173 @@
+---
+title: The Penalty Charges Enforcement (London) Regulations 2012
+id: uksi/2012/1234
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-05-03'
+text_date: '2022-05-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/1234
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1234/pdfs/uksiem_20121234_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1234/pdfs/uksi_20121234_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1234/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Penalty Charges Enforcement (London) Regulations 2012
+
+> Text as at 2022-05-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 1234
+
+Enforcement Of Civil Penalties, England
+
+London Government
+
+The Penalty Charges Enforcement (London) Regulations 2012
+
+Made
+
+3rd May 2012
+
+Laid before Parliament
+
+10th May 2012
+
+Coming into force
+
+18th June 2012
+
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by section 64(1) and (2) and 82(1) of the London Local Authorities Act 2007[^f00001]:
+
+## 1. Citation, commencement and application[^key-7615ae2304e0ec4a0a098de24ec0080c]
+
+These Regulations may be cited as the Penalty Charges Enforcement (London) Regulations 2012 and shall come into force on 18 June 2012.
+
+## 2. Interpretation[^key-6dcaaf806b8fa534c9390eb7153b5a81]
+
+In these Regulations—
+
+- “the 2007 Act” means the London Local Authorities Act 2007;
+- “borough council” means a London borough council as provided in section 2 of the 2007 Act;
+- “notice of rejection” means a notice served by a borough council rejecting, or not accepting, representations made to it under section 62 of the 2007 Act;
+- “the Representations and Appeals Regulations” means the Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022[^key-c98363603ac7e1837cbd10bc0dc0cede] as applied by section 62(9) of the 2007 Act.
+
+## 3. Charge certificates[^key-02ad83c24061894034a3715e88bbe495]
+
+(1) Where a penalty charge notice is served on any person under section 61(2) of the 2007 Act and the penalty charge to which it relates is not paid before the end of the relevant period, the borough council serving the notice may serve on that person a statement (a “charge certificate”) to the effect that the penalty charge in question is increased by the amount of the applicable surcharge.
+
+(2) The relevant period, in relation to a penalty charge notice, is the period of 28 days beginning—
+
+- (a) where no representations are made under section 62 of the 2007 Act, with the date on which the penalty charge notice is served;
+- (b) where—
+  - (i) such representations are made;
+  - (ii) a notice of rejection is served by the borough council concerned; and
+  - (iii) no appeal against the notice of rejection is made,
+
+  with the date on which the notice of rejection is served;
+- (c) where—
+  - (i) such representations are made;
+  - (ii) a notice of rejection is served by the borough council concerned;
+  - (iii) an appeal against the notice of rejection is made; and
+  - (iv) the adjudicator, under regulation 7[^key-64c1fe627773a6ef1fe562419b12ae45](8) of the Representations and Appeals Regulations, does not allow the appeal but recommends the borough council to cancel the penalty charge notice,
+
+  with the date on which the borough council notifies the appellant under regulation 7(9)[^key-e79d57413ff1299f7a330c927b04cce7] of those Regulations that it does not accept the recommendation; or
+- (d) in a case not falling within sub-paragraph (c) where there has been an unsuccessful appeal to an adjudicator under the Representations and Appeals Regulations against a notice of rejection, with the date on which notice of the adjudicator’s decision is served on the appellant.
+
+(3) Where an appeal against a notice of rejection is made but is withdrawn before the adjudicator serves notice of his decision, the relevant period in relation to a penalty charge notice is the period of 14 days beginning with the date on which the appeal is withdrawn.
+
+## 4. Enforcement of charge certificate[^key-f4f2933f95e288b7606c1e99c134ca01]
+
+Where a charge certificate has been served on any person and the increased penalty charge provided for in the certificate is not paid before the end of the period of 14 days beginning with the date on which the certificate is served, the borough council may, if a county court so orders, recover the increased charge as if it were payable under a county court order.
+
+## 5. Invalid notices[^key-12f158a436a3825ef6f97ac4247f6943]
+
+(1) This regulation applies where—
+
+- (a) a county court makes an order under regulation 4;
+- (b) the person against whom it is made makes a witness statement complying with paragraph (2); and
+- (c) that statement is served on the county court which made the order, before the end of—
+  - (i) the period of 21 days beginning with the date on which notice of the county court’s order is served on him; or
+  - (ii) such longer period as may be allowed under paragraph (4).
+
+(2) The witness statement must state one and only one of the following—
+
+- (a) that the person making it did not receive the penalty charge notice in question;
+- (b) that he made representations to the borough council under section 62 of the 2007 Act but did not receive from that borough council a notice of rejection in accordance with regulation 6 of the Representations and Appeals Regulations;
+- (c) that he appealed to an adjudicator under regulation 7 of those Regulations against the rejection by the borough council of representations made by him under section 62 of the 2007 Act but—
+  - (i) he received no response to the appeal;
+  - (ii) the appeal had not been determined by the time that the charge certificate had been served; or
+  - (iii) the appeal was determined in his favour; or
+- (d) that he has paid the penalty charge to which the charge certificate relates.
+
+(3) Paragraph (4) applies where it appears to a district judge, on the application of a person on whom a charge certificate has been served, that it would be unreasonable in the circumstances of his case to insist on his serving his witness statement within the period of 21 days allowed for by paragraph (1).
+
+(4) Where this paragraph applies, the district judge may allow such longer period for service of the witness statement as he considers appropriate.
+
+(5) Where a witness statement is served under paragraph (1)(c)—
+
+- (a) the order of the court shall be deemed to have been revoked;
+- (b) the charge certificate shall be deemed to have been cancelled;
+- (c) in the case of a statement under paragraph (2)(a), the penalty charge notice to which the charge certificate relates shall be deemed to have been cancelled; and
+- (d) the district judge shall serve written notice of the effect of service of the statement on the person making it and on the borough council concerned.
+
+(6) In the case of a witness statement under paragraph (2)(a), service of the statement shall not prevent the borough council from serving a fresh penalty charge notice.
+
+(7) Where a witness statement under paragraph (2)(b), (c) or (d) has been served, the borough council shall refer the case to the adjudicator who may give such directions as he considers appropriate and the parties shall comply with those directions.
+
+(8) A witness statement under this regulation may be served on the county court by email in accordance with Section I of Practice Direction 5B in Part 5 of the Civil Procedure Rules 1998.
+
+(9) In this regulation, “witness statement” means a statement which is a witness statement for the purposes of the Civil Procedure Rules 1998[^f00003] and which is supported by a statement of truth in accordance with Part 22 of those Rules.
+
+Signed by authority of the Lord Chancellor
+
+J Djanogly
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These regulations make provision about the enforcement by London Borough Councils of penalty charge notices served under Part 4 of the London Local Authorities Act 2007 (“the 2007 Act”). These regulations should be read in conjunction with the Civil Enforcement of Parking Contraventions (England) Representations and Appeals Regulations 2007, provisions of which also apply to such penalty charge notices.
+
+Regulations 1 and 2 make provision about citation and commencement and interpretation of expressions used in the regulations.
+
+Regulation 3 makes provision for the service of charge certificates in respect of unpaid penalty charges (where a penalty charge notice has been served and the avenues of representation and appeal have not been pursued or have been pursued unsuccessfully).
+
+Regulation 4 makes provision for charge certificates to be enforced through a county court.
+
+Regulation 5 makes provision for county court orders to be set aside where the respondent serves a witness statement stating one of the matters mentioned in regulation 5(2).
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c. ii](https://www.legislation.gov.uk/ukla/2007/2).
+
+[^key-7615ae2304e0ec4a0a098de24ec0080c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+
+[^key-6dcaaf806b8fa534c9390eb7153b5a81]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1234/regulation/2) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+
+[^key-c98363603ac7e1837cbd10bc0dc0cede]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1234/regulation/2) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/3/2)
+
+[^key-02ad83c24061894034a3715e88bbe495]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1234/regulation/3) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+
+[^key-64c1fe627773a6ef1fe562419b12ae45]: Textual amendment: Word in [reg. 3(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2012/1234/regulation/3/2/c/iv) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/3/3/a)
+
+[^key-e79d57413ff1299f7a330c927b04cce7]: Textual amendment: Word in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2012/1234/regulation/3/2/c) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/3/3/b)
+
+[^key-f4f2933f95e288b7606c1e99c134ca01]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1234/regulation/4) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+
+[^key-12f158a436a3825ef6f97ac4247f6943]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1234/regulation/5) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+
+[^f00003]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132), to which there are amendments not relevant for this purpose.

@@ -1,0 +1,744 @@
+---
+title: The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001
+id: uksi/2001/934
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-03-13'
+text_date: '2013-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2001/934
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/934/pdfs/uksi_20010934_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/934/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001
+
+> Text as at 2013-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2001 No. 934
+
+PENSIONS
+
+The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001
+
+Made
+
+13th March 2001
+
+Laid before Parliament
+
+15th March 2001
+
+Coming into force
+
+5th April 2001
+
+The Secretary of State for Social Security, in exercise of powers conferred by sections 3(2), 10(3), 41(1) and (6), 124(1) and 174(2) and (3) of the Pensions Act 1995[^c1591841], and sections 1(1)(b), (3), (5) and (7), 3(1), (3)(b), (5) and (9), 8(1)[^c1591842], and 83(4)(a) and (b) and (6)(a) and (b) of the Welfare Reform and Pensions Act 1999[^c1591843], and of all other powers enabling him in that behalf, having consulted such persons as he considered appropriate[^c1591844], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 and shall come into force on 5th April 2001.
+
+(2) In these Regulations, unless the context otherwise requires, a reference to a numbered regulation or numbered schedule, is to the regulation or schedule bearing that number in the Stakeholder Pension Schemes Regulations 2000 [^c1591845].
+
+## 2. Amendment of regulation 1
+
+(1) Regulation 1 (citation, commencement and interpretation) shall be amended as follows.
+
+(2) In paragraph (2) for “and Part IV shall come into force on 8th October 2001.” substitute—
+
+> and—
+>
+> - (a) regulation 23 shall come into force on 6th April 2001; and
+> - (b) Part IV (except regulation 23) shall come into force on 8th October 2001.
+
+.
+
+(3) In paragraph (3)—
+
+- (a) after the definition of “beneficiary” insert—
+
+  > “dilution levy” has the meaning given by—
+  >
+  > - (a) in relation to—
+  >   - (i) a scheme to which Part 4A (single pricing and dealing) of The Financial Services (Regulated Schemes) Regulations 1991 [^c1591846] applies; or
+  >   - (ii) where a scheme to which those Regulations apply has constituent parts for the purposes of Table 12.1 of those Regulations (umbrella schemes: application of regulations) as modified by Part 4C of those Regulations (single pricing: adaptation of regulations), each such constituent part to which that Part 4A applies,
+  >
+  > Schedule 4 to those Regulations as modified by that Part 4C;
+  >
+  > - (b) in relation to a company in relation to which The Financial Services (Open-Ended Investment Companies) Regulations 1997 [^c1591847] apply, Schedule 3 to those Regulations;
+
+  ;
+
+  and
+- (b) after the definition of “reporting accountant” insert—
+
+  > “scheme instruments” means instruments establishing a stakeholder pension scheme;
+
+  .
+
+(4) After paragraph (7) insert—
+
+> (8) In paragraph (3), references in the definition of “dilution levy” to—
+>
+> - (a) The Financial Services (Regulated Schemes) Regulations 1991 are references to those Regulations; and
+> - (b) The Financial Services (Open-Ended Investment Companies) Regulations 1997 are references to those Regulations,
+>
+> as in force on the date on which the Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 were made.
+
+.
+
+## 3. Amendment of regulation 3
+
+(1) Regulation 3 (requirements applying to all stakeholder pension schemes as regards instruments establishing such schemes) [^c1591848] shall be amended as follows.
+
+(2) In paragraph (1) for “the instruments establishing a stakeholder pension scheme (the “scheme instruments”)” substitute “ the scheme instruments ”.
+
+(3) In paragraph (5A) for “Subject to paragraphs (10) and (11) and to regulation 17(1),” substitute—
+
+> Subject to paragraph (10) and to regulation 17(1) and (5),
+
+.
+
+(4) After paragraph (5A) insert—
+
+> (5B) The scheme instruments must, except to the extent necessary to ensure that the scheme has tax-exemption or tax-approval, permit as means of payment of contributions to the scheme payment from a bank account or building society account by—
+>
+> - (a) cheque;
+> - (b) direct debit;
+> - (c) standing order;
+> - (d) direct credit (other than standing order),
+>
+> and (for the avoidance of doubt) for the purposes of this paragraph, those means of payment do not include payment by cash, credit card or debit card (or by any combination thereof).
+
+.
+
+(5) Omit paragraph (11).
+
+## 4. Amendment of regulation 4
+
+(1) Regulation 4 (additional requirements as regards instruments establishing a stakeholder pension scheme established under a trust) [^c1591849] shall be amended as follows.
+
+(2) In paragraph (3) for “The instruments establishing a stakeholder pension” substitute “ The scheme instruments of a ”.
+
+(3) In paragraph (4)(a) for “or by this regulation” substitute “ , by this regulation or by regulation 6 ”.
+
+## 5. Amendment of regulation 8
+
+In regulation 8(6) (requirement applying to all stakeholder pension schemes as regards investments) for the definition of “contract of insurance” substitute—
+
+> “contract of insurance” means a contract—
+>
+> - (a) any (or any part) of whose objects is within any of classes I, III and VII of insurance business specified in Schedule 1 to the Insurance Companies Act 1982 [^c1591850] (classes of long term business); and
+> - (b) which is carried out by a person authorised under that Act to carry on insurance business including carrying out such a contract;
+
+.
+
+## 6. Amendment of regulation 10
+
+(1) Regulation 10 (requirement for manager of schemes not established under a trust to have regard to certain matters, and to take advice, relating to investment) shall be amended as follows.
+
+(2) In paragraph (4) after “proper advice as to whether the investment” insert “ or investment option ”.
+
+(3) After paragraph (4) insert—
+
+> (4A) The manager of the scheme, and any person managing funds held for the purposes of the scheme, must, if retaining any investment or investment option for the purposes of the scheme—
+>
+> - (a) determine at what intervals the circumstances, and in particular the nature of the investment or investment option, make it desirable to obtain and consider in relation to that investment or investment option such advice as is mentioned in paragraph (4); and
+> - (b) obtain and consider such advice accordingly.
+
+.
+
+(4) In paragraph (5) for “For the purposes of paragraph (4)” substitute “ For the purposes of this regulation ”.
+
+(5) In paragraph (6)—
+
+- (a) for “Paragraph (4) does not apply” substitute “ Paragraphs (4) and (4A)(b) do not apply ”; and
+- (b) for “themselves” substitute “ himself ”.
+
+(6) In paragraph (7)—
+
+- (a) after “To the extent that paragraph (4)” insert “ or (4A)(b) ”; and
+- (b) for “persons who may themselves give proper advice” to the end substitute—
+
+  > a person who may himself give proper advice—
+  >
+  > - (a) must—
+  >   - (i) before making any investment or selecting any investment option for the purposes of the scheme, consider; and
+  >   - (ii) if so retaining any investment or investment option, consider at such intervals as are determined by him in relation to that investment or investment option under paragraph (4A)(a),
+  >
+  >   whether the investment or investment option is satisfactory having regard to the matters mentioned in paragraph (3) and the principles contained in the statement under regulation 9; and
+  > - (b) must record in writing the reasons why he considers that any—
+  >   - (i) investment he makes or retains; or
+  >   - (ii) investment option he selects or retains,
+  >
+  >   is satisfactory having regard to those matters and principles.
+
+  .
+
+(7) For paragraph (8) substitute—
+
+> (8) No person shall be regarded as having complied with—
+>
+> - (a) paragraph (4) unless the advice to be obtained and considered by him under that paragraph is given or (by the giver of the advice) confirmed in writing;
+> - (b) paragraph (4A)(a) unless the determination to be made by him under that paragraph is recorded by him in writing;
+> - (c) paragraph (4A)(b) unless the advice to be obtained and considered by him under that paragraph is given or (by the giver of the advice) confirmed in writing.
+
+.
+
+## 7. Amendment of regulation 11
+
+(1) Regulation 11 (requirement for manager of schemes not established under trust to appoint a reporting accountant) shall be amended as follows.
+
+(2) In paragraph (1) for “Subject to paragraph (2), for” substitute “ For ”.
+
+(3) Omit paragraph (2).
+
+(4) For paragraph (3) substitute—
+
+> (3) There shall be appointed as reporting accountant for the scheme (“the reporting accountant”), by the trustees or manager of the scheme, a person who is eligible under paragraph (4) for such appointment.
+
+.
+
+(5) For paragraph (4) substitute—
+
+> (4) A person is eligible for appointment as the reporting accountant only if—
+>
+> - (a) he is not or, in the case of a partnership, no partner or employee of the partnership is a member of the scheme;
+> - (b) he is not or, in the case of a partnership, neither the partnership nor any partner or employee of the partnership is connected with or an associate of the manager, or any of the trustees, of the scheme;
+> - (c) he is eligible (but subject to paragraph (10)) under section 25 of the Companies Act 1989 [^c1591851] (“the 1989 Act”) for appointment as a company auditor; and
+> - (d) he is not by virtue of section 27 of the 1989 Act ineligible for appointment as company auditor of a company which is an employer in relation to the scheme.
+
+.
+
+(6) In paragraphs (6) to (8), for “manager” in each place where it occurs substitute “ trustees or manager ”.
+
+(7) In paragraph (7)—
+
+- (a) after “in the event of his resignation” insert “ (including where he resigns solely or partly because he is required to do so by paragraph (7A)) ”; and
+- (b) for sub-paragraph (b) substitute—
+
+  > - (b) a declaration that he knows of no such circumstances,
+  >
+  > but for the purposes of this paragraph, such circumstances shall not include the mere fact of his being, or having become, ineligible as mentioned in paragraph (7A).
+
+  .
+
+(8) After paragraph (7) insert—
+
+> (7A) Where the reporting accountant is or becomes ineligible, by virtue of paragraph (11) or of not satisfying the conditions in paragraph (4), for his appointment as such—
+>
+> - (a) he shall not act as the reporting accountant (except if required to do so under paragraph (6), and except as required by his agreement under paragraph (7) and as required by sub-paragraphs (c) and (d));
+> - (b) anything done for the purposes of these Regulations by him acting as such while ineligible in contravention of sub-paragraph (a) shall by the trustees or manager be taken for those purposes not to have been done;
+> - (c) he shall resign (with immediate effect) by notice in writing immediately he is or becomes aware, or, as the case may be, should reasonably be or become aware, that he is or has become so ineligible;
+> - (d) he shall state in that notice—
+>   - (i) that he is resigning by reason of ineligibility; and
+>   - (ii) the ground on which he is or has become so ineligible;
+> - (e) notwithstanding sub-paragraph (c), if he is still in place when the trustees or manager are or become aware, or should reasonably be or become aware, that he is or has become so ineligible, the trustees or manager shall remove him immediately.
+
+.
+
+(9) In paragraph (8)—
+
+- (a) for “Where” substitute “ Except in cases falling within paragraph (9), where ”; and
+- (b) for “shall appoint” to the end substitute—
+
+  > shall appoint, in accordance with this regulation, another reporting accountant—
+  >
+  > - (a) within 3 months of the date of that removal, resignation or death; or
+  > - (b) if earlier, as soon as is required in order not to prevent compliance with regulation 12(5) and (6).
+
+  .
+
+(10) After paragraph (8) insert—
+
+> (9) Where under paragraph (7A) the reporting accountant resigns with immediate effect or is removed, the trustees or manager shall appoint, in accordance with this regulation, another reporting accountant—
+>
+> - (a) within one month of the date of that resignation or removal; or
+> - (b) if earlier, as soon as is required in order not to prevent compliance with regulation 12(5) and (6).
+>
+> (10) For the purposes of paragraph (4)(c), a person is not eligible under section 25 of the 1989 Act for appointment as a company auditor if section 34 of that Act applies to him (individuals retaining only authorisation under section 13(1) of the Companies Act 1967) [^c1591852].
+>
+> (11) In this regulation references to a person are references to an individual, a body corporate or a partnership.
+
+.
+
+## 8. Amendment of regulation 12
+
+(1) Regulation 12 (requirement for annual declaration) shall be amended as follows.
+
+(2) In paragraph (2)—
+
+- (a) after “ending on” insert “ and including ”; and
+- (b) for sub-paragraphs (a) to (d) substitute—
+
+  > - (a) a statement that the trustees or manager are responsible for ensuring—
+  >   - (i) that there are in place; and
+  >   - (ii) proper use of,
+  >
+  >   systems which and controls which ensure the proper administration of the scheme;
+  > - (b) a statement describing each of the—
+  >   - (i) principal systems; and
+  >   - (ii) principal controls,
+  >
+  >   designed to ensure the proper administration of the scheme and which were in place for all or any part of the period in relation to which the declaration is made (whether put in place during or prior to that period);
+  > - (c) a statement, in relation to each of those principal systems and principal controls, of which particular aspect of the proper administration of the scheme that system or control was designed to ensure;
+  > - (d) a statement that the (not merely the principal) systems designed as mentioned in sub-paragraph (b) and in place as so mentioned, and controls so designed and so in place, were overall of a design such that, and used such that, they provide reasonable assurance—
+  >   - (i) in relation to each of those systems and controls, that there has been ensured that particular aspect of the proper administration of the scheme which that system or control was designed to ensure; and
+  >   - (ii) that the statement made under sub-paragraph (e) is true;
+  > - (e) a statement—
+  >   - (i) that regulations 13 and 14 of these Regulations have been complied with in relation to the scheme;
+  >   - (ii) that transactions for the purposes of the scheme in securities, property or other assets occur at a fair market value;
+  >   - (iii) that the value of members’ rights has been determined in accordance with the provisions in the instruments establishing the scheme; and
+  >   - (iv) that adequate accounts and records have been maintained for the purposes of providing to members the statement required by regulation 18(2) of these Regulations; and
+  > - (f) a statement that the conditions mentioned in section 1(1) were fulfilled.
+
+  .
+
+(3) Omit paragraph (4).
+
+(4) In paragraph (5)—
+
+- (a) for “In the case of a scheme not established under a trust, the manager shall” substitute “ The trustees or manager shall ”; and
+- (b) for sub-paragraphs (a) and (b) substitute—
+
+  > - (a) a statement—
+  >   - (i) as to whether, in the opinion of the reporting accountant, it was or was not reasonable for the trustees or manager to make the statements mentioned in paragraph (2)(b) and (d) and contained in the declaration;
+  >   - (ii) so far as the reporting accountant is unable to express such an opinion, explaining why he is unable to do so; and
+  > - (b) a statement containing a summary—
+  >   - (i) of the tests performed by the reporting accountant for the purposes of his making the statement mentioned in sub-paragraph (a); and
+  >   - (ii) of the results of those tests.
+
+  .
+
+(5) In each of paragraphs (6) and (7)—
+
+- (a) for “statement” substitute “ statements ”; and
+- (b) omit “(4) or”.
+
+(6) After paragraph (7) insert—
+
+> (8) If either or both of the statements to be obtained by the trustees or manager under paragraph (5) are obtained by them or him from the reporting accountant acting as such while ineligible in contravention of regulation 11(7A)(a)—
+>
+> - (a) the trustees or manager, as the case may be, shall not be regarded as having complied with paragraph (5); and
+> - (b) for the purposes of paragraphs (6) and (7), neither statement shall be regarded as obtained in accordance with paragraph (5).
+
+.
+
+## 9. Amendment of regulation 13
+
+(1) Regulation 13 (expenses, commission etc.—principles) shall be amended as follows.
+
+(2) After paragraph (2) insert—
+
+> (2A) Nothing in paragraph (1) shall be taken to prevent that which is permitted by or under any of the provisions mentioned in paragraph (4).
+
+.
+
+(3) After paragraph (3) insert—
+
+> (4) The provisions referred to in paragraph (2A) are—
+>
+> - (a) section 32 of the 1993 Act and regulation 9 of the Personal and Occupational Pension Schemes (Protected Rights) Regulations 1996 [^c1591853] (protected rights: suspension and forfeiture);
+> - (b) section 159 of the 1993 Act [^c1591854] (inalienability of guaranteed minimum pension and protected rights payments);
+> - (c) sections 91 to 94 of the 1995 Act and regulations under those sections [^c1591855] (inalienability and forfeiture of occupational pensions); and
+> - (d) in the case of a pension scheme established under a trust which—
+>   - (i) is not an occupational pension scheme; but
+>   - (ii) is or has been registered under section 2;
+>
+>   sections 91, 92 and 94 of the 1995 Act and the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997 [^c1591856] (inalienability and forfeiture of occupational pensions) as those sections and Regulations have effect by virtue of section 6(3) of, and Schedule 1 to, the Act and of regulation 32.
+
+.
+
+## 10. Amendment of regulation 14
+
+(1) Regulation 14 (charges etc.—permitted reductions in members’ rights) shall be amended as follows.
+
+(2) In paragraph (5)—
+
+- (a) in sub-paragraph (c) for “are incurred” substitute—
+
+  > (including any dilution levy) are incurred by the trustees or manager
+
+  ;
+- (b) after sub-paragraph (d) insert “ and ”;
+- (c) after sub-paragraph (e) omit “and”; and
+- (d) omit sub-paragraph (f).
+
+(3) In paragraph (8) omit “costs or”.
+
+## 11. Amendment of regulation 15
+
+(1) Regulation 15 (requirement for trustees or manager to satisfy certain conditions in relation to with-profits funds) shall be amended as follows.
+
+(2) In paragraph (3)(c) for “auditor or reporting accountant to certify that the requirements of regulations 13 and 14 have been complied with” substitute—
+
+> reporting accountant to make the statement mentioned in regulation 12(5)(a)(i) so far as that statement relates to regulation 12(2)(d)(ii)
+
+.
+
+(3) In paragraph (4)—
+
+- (a) omit “the auditor to the insurance company or”;
+- (b) for “systems and controls that are designed and used so that” substitute “ systems which and controls which are of a design such that, and used such that ”; and
+- (c) in sub-paragraph (b) for “auditor or reporting accountant, as the case may be,” substitute “ reporting accountant and, as the case may be, to the auditor ”.
+
+## 12. Amendment of regulation 17
+
+(1) Regulation 17 (restrictions on contributions) shall be amended as follows.
+
+(2) In paragraph (1) for “the rules of a stakeholder pension scheme” substitute “ the scheme instruments ”.
+
+(3) After paragraph (4) insert—
+
+> (5) Subject to regulation 3(5B), the scheme instruments may permit restrictions on the means of payment of contributions to the scheme.
+>
+> (6) The scheme instruments of an occupational pension scheme may permit the trustees or manager to refuse to accept, in respect of any member of the scheme who is not an active member of the scheme, any contribution by or on behalf of or in respect of that member.
+>
+> (7) For the purposes of paragraph (6), “active member” has the meaning given by section 124 of the 1995 Act [^c1591857].
+
+.
+
+## 13. Amendment of regulation 18
+
+(1) Regulation 18 (disclosure of information to members) shall be amended as follows.
+
+(2) For paragraph (2) substitute—
+
+> (2) Where a person is a member for all or part of a statement year relating to him, there shall be provided to him—
+>
+> - (a) within 3 months of the end of that statement year; or
+> - (b) where he ceases during that statement year to be a member, during the period beginning with the time at which he so ceases and ending on and including the last day of the three-month period mentioned in sub-paragraph (a),
+>
+> a statement which contains the information mentioned in paragraph (5), so far as that information relates to that statement year or, in cases falling within sub-paragraph (b), to the part of that statement year beginning with the first day of that statement year (whether or not that day is earlier than the day on which he becomes a member) and ending with the time at which he so ceases.
+
+.
+
+(3) In paragraph (3)—
+
+- (a) after ““statement year” means” insert “ , in relation to a person, ”; and
+- (b) for “beginning on a date chosen” to the end substitute—
+
+  > beginning—
+  >
+  > - (a) in the case of a person who becomes a member after 6th April 2001, on a date chosen, in respect of that person, by the trustees or manager which falls—
+  >   - (i) on or before the day on which he becomes a member; but
+  >   - (ii) no earlier than 6th April 2001; and
+  > - (b) in any other case, on 6th April 2001,
+  >
+  > and, subject to paragraph (4), each subsequent period ending on and including the anniversary of the last day of the first statement year.
+
+  .
+
+(4) After paragraph (3) insert—
+
+> (3A) The date to be chosen, in respect of a person, under paragraph (3)(a) must be chosen on or before the day on which that person becomes a member.
+
+.
+
+(5) In paragraph (4)—
+
+- (a) after “the trustees or manager may” insert “ , in respect of any person, ”;
+- (b) after “the statement year” in each of the two places where it occurs insert “ relating to that person ”;
+- (c) after “no other date has been chosen” insert “ in respect of that person ”; and
+- (d) for “ “statement year” shall mean” to the end substitute—
+
+  > “statement year” shall mean, in relation to the person in respect of whom the new date is chosen, the period of 12 months ending on and including that new date (except that, in relation to the first statement year relating to that person, “statement year” shall mean, in relation to him, the period beginning with the day which is, by virtue of paragraph (3)(b) or of a choice under paragraph (3)(a), the first day of that first statement year and ending on and including that new date) and each subsequent period ending on and including the anniversary of that new date.
+
+.
+
+(6) After paragraph (4) insert—
+
+> (4A) For the purposes of paragraphs (3)(a) and (4) different dates may be chosen in respect of different persons.
+
+.
+
+(7) In paragraph (5)—
+
+- (a) after “The information to be provided under paragraph (2) is” insert “ , subject to paragraph (5A) ”;
+- (b) for sub-paragraph (b) substitute—
+
+  > - (b) the value of the member’s rights—
+  >   - (i) on the last day of the statement year, being an amount which is not less than the cash equivalent of those rights on that day; or
+  >   - (ii) where he ceases during the statement year to be a member, at the time immediately prior to the time at which he so ceases, being an amount which is not less than the cash equivalent of those rights at the time immediately prior to the time at which he so ceases,
+  >
+  >   as calculated and verified in a manner consistent with regulations made under section 97 of the 1993 Act (calculation of cash equivalents) [^c1591858];
+
+  ;
+- (c) in sub-paragraph (d) for “made by the member” substitute “ made by or on behalf of, or made in respect of, the member (except contributions falling within sub-paragraph (e)) ”;
+- (d) in sub-paragraph (e) after “on behalf of” insert “ or in respect of ”;
+- (e) after sub-paragraph (q) omit “and”; and
+- (f) after sub-paragraph (r) insert—
+
+  > and
+  >
+  > - (s) in relation to any reduction under any of paragraphs (2) to (4) of regulation 14—
+  >   - (i) the rate, expressed as an annual percentage rate, at which, and the period in relation to which, deductions giving rise to that reduction were made; or
+  >   - (ii) where such deductions were made in relation to different periods at different rates—
+  >     - (aa) each rate, expressed as an annual percentage rate, at which those deductions were made; and
+  >     - (bb) the period in relation to which they were made at that rate.
+
+  .
+
+(8) After paragraph (5) insert—
+
+> (5A) The information mentioned in paragraph (5) does not include—
+>
+> - (a) the amount of any reduction or deduction under any of paragraphs (2) to (4) of regulation 14;
+> - (b) the amount of any reduction under regulation 14(5)(c).
+
+.
+
+(9) After paragraph (10) insert—
+
+> (11) In this regulation “annual percentage rate” means the daily percentage rate at which deductions were made under regulation 14(2), (3) or (4) (being no greater than 1/365 per cent. of the value of the fund, share or rights in the with-profits fund respectively from which they were made) multiplied by 365.
+
+.
+
+## 14. Amendment of regulation 22[^key-35b685c469b1c07bf9fa2b1816416e01]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Amendment of regulation 23
+
+(1) Regulation 23 (exceptions to definition of “relevant employees”) shall be amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) after sub-paragraph (e) omit “and”; and
+- (b) after sub-paragraph (f) insert—
+
+  > - (g) any employee who is now excluded from active membership of an occupational pension scheme of the employer because that employee ceased to be a member or active member of that scheme;
+  > - (h) for the purposes only of consultation pursuant to section 3(2), and in relation to consultation for the purposes of any particular designation of a scheme pursuant to section 3(2), any employee who was not an employee of the employer on the date of commencement of that consultation.
+
+  .
+
+(3) After paragraph (2) insert—
+
+> (3) For the purposes of paragraph (1)(g), “active member” has the meaning given by section 124 of the 1995 Act [^c1591859], and “active membership” shall be construed accordingly.
+
+.
+
+## 16. Amendment of regulation 24
+
+(1) Regulation 24 (payroll deduction of contributions) shall be amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) for “Subject to paragraph (2)” substitute “ Subject to paragraphs (2) and (2A) ”; and
+- (b) for “the end of the pay period following that in which the request is made.” substitute—
+
+  > the end of—
+  >
+  > - (a) the pay period following that in which the request is made; or
+  > - (b) where the request relates to a pay period later than the one following that in which the request is made, that later pay period.
+
+  .
+
+(3) In paragraph (2)—
+
+- (a) for sub-paragraph (a) substitute—
+
+  > - (a) that—
+  >   - (i) he is not complying with the request; and
+  >   - (ii) the reason he is not complying with it is that it was made within 6 months of the employee requesting him to make, vary or cease such deductions and the employer is permitted by these Regulations not to comply with it in such circumstances;
+
+  ;
+
+  and
+- (b) in sub-paragraph (c)—
+  - (i) in sub-paragraph (i) omit “immediately”; and
+  - (ii) in sub-paragraph (ii) after “the employee may make payments,” insert—
+
+    > (subject to the trustees or manager refusing to accept them as permitted by or under these Regulations)
+
+    .
+
+(4) After paragraph (2) insert—
+
+> (2A) Where the trustees or manager of the scheme in relation to which the request is made inform the employer that they will refuse, in accordance with regulation 17, to accept payment—
+>
+> - (a) of a contribution to which the request relates, the employer need not comply with the request so far as the request relates to that contribution;
+> - (b) of contributions of a particular type, the employer need not comply with the request so far as the request relates to a contribution of that particular type.
+>
+> (2B) Where the employer, on a ground mentioned in paragraph (2A), does not comply with the request, he must give notice to the employee in writing—
+>
+> - (a) that, and of the extent to which, he is not complying with the request;
+> - (b) that the reason he is not complying with the request to that extent is that—
+>   - (i) the trustees or manager have informed the employer that they will refuse, in accordance with regulation 17, to accept payment of a contribution to which the request relates or of contributions of a particular type; and
+>   - (ii) the employer is permitted by these Regulations not to comply with the request so far as the request relates to that contribution or to a contribution of that particular type;
+> - (c) where the trustees or manager cite to the employer the ground of refusal in regulation 17 on which they will rely to refuse that contribution or contributions of that particular type, informing him that the trustees or manager have cited that ground of refusal in relation to that contribution or to contributions of that particular type; and
+> - (d) informing him that—
+>   - (i) he may require the employer to cease such deductions (if deductions are being made at the time of the request) but, if the employee makes such a request, the employer is not required to comply with any further request to make such deductions if that further request is made within 6 months of the employee requesting that the deductions cease; and
+>   - (ii) the employee may make payments, (subject to the trustees or manager refusing to accept them as permitted by or under these Regulations) at a rate of his choosing, directly to the qualifying scheme.
+
+.
+
+(5) For paragraph (3) substitute—
+
+> (3) Where an employee requests an employer to cease to make deductions from the employee’s remuneration on account of contributions to a qualifying scheme, the employer must—
+>
+> - (a) comply with that request as soon as possible, but no later than the end of—
+>   - (i) the pay period following that in which that request is made; or
+>   - (ii) where that request relates to a pay period later than the one following that in which that request is made, that later pay period; and
+> - (b) give notice to the employee in writing—
+>   - (i) that the employer is not required to comply with any further request to make such deductions if that further request is made within 6 months of the employee requesting that the deductions cease; and
+>   - (ii) that the employee may make payments, (subject to the trustees or manager refusing to accept them as permitted by or under these Regulations) at a rate of his choosing, directly to the qualifying scheme.
+
+.
+
+(6) After paragraph (5) insert—
+
+> (6) Any notice to be given under any of paragraphs (2), (2B) and (3) must be given prior to the end of—
+>
+> - (a) the pay period following that in which the request to which the notice relates is made; or
+> - (b) where that request relates to a pay period later than the one following that in which that request is made, that later pay period.
+>
+> (7) In this regulation and in regulation 25 references, in relation to an employer, to an employee are references to a relevant employee of that employer where that relevant employee is a member of a qualifying scheme.
+
+.
+
+## 17. Amendment of regulation 25
+
+(1) Regulation 25 (disclosure of information to relevant employees: first-time deduction requests) shall be amended as follows.
+
+(2) In paragraph (1) for “to make or vary (but not cease)” substitute “ to make (but not vary or cease) ”.
+
+(3) In paragraph (2)—
+
+- (a) in sub-paragraph (b) after “need not comply with that request” insert “ within ”;
+- (b) in sub-paragraph (b)(i) omit “within”;
+- (c) in sub-paragraph (c) omit “immediately”;
+- (d) after sub-paragraph (c) omit “and”;
+- (e) in sub-paragraph (d)—
+  - (i) for “the request” where it first occurs substitute “ that request ”; and
+  - (ii) for “the end of the pay period following that in which the request is made.” substitute—
+
+    > the end of—
+    >
+    > - (a) the pay period following that in which that request is made; or
+    > - (b) where that request relates to a pay period later than the one following that in which that request is made, that later pay period.
+
+    ;
+
+    and
+- (f) after sub-paragraph (d) insert—
+
+  > and
+  >
+  > - (e) advice that—
+  >   - (i) the trustees or manager of the scheme may refuse to accept a contribution if accepting it would contravene the scheme’s tax-exemption or tax-approval;
+  >   - (ii) if the instruments establishing the scheme allow it, the trustees or manager may also refuse to accept payments of less than £20; and
+  >   - (iii) where an employee requests an employer to make or vary deductions of the employee’s contributions to a qualifying scheme from the employee’s remuneration, the employer need not comply with that request so far as that request relates to any particular contribution, if the trustees or manager of the scheme inform the employer that they will refuse, in accordance with the regulation which allows them to refuse payments on the grounds referred to in sub-paragraphs (i) and (ii) (and on other grounds), to accept that contribution or contributions of that particular type.
+
+  .
+
+## 18. Amendment of Schedule 2
+
+(1) Schedule 2 (application of other regulations to stakeholder pension schemes) shall be amended as follows.
+
+(2) For “The Occupational Pension Schemes (Requirement to obtain Audited Accounts or a Statement from the Auditor) Regulations 1996” substitute—
+
+> The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations 1996
+
+[^c1591860].
+
+(3) In the entry relating to those Regulations in the right-hand column of the Schedule, before “paragraph 5” insert “ regulations 2(1)(b) and 4 and ”.
+
+## 19. Transitional provision
+
+Where, prior to the coming into force of these Regulations, the reporting accountant appointed for the purposes of regulation 11 has been removed or has resigned or died, regulation 11(8) shall, for the purposes of appointing the next reporting accountant after him for the purposes of regulation 11, continue to have effect as in force immediately prior to the coming into force of these Regulations.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Jeff Rooker
+
+Minister of State,
+
+Department of Social Security
+
+13th March 2001
+
+(This note is not part of the Regulations)
+
+These Regulations are the second set of amendments to the Stakeholder Pension Schemes Regulations 2000 (“the principal Regulations”). The principal Regulations are amended to do (among other things) the following—
+
+**0.** to provide that those who are not employees of the employer on the date of commencement of consultation do not have to be consulted; and to bring regulation 23 into force from the same date (6th April 2001) as section 3 (partially) of the Welfare Reform and Pensions Act 1999. Section 3 is being partially commenced earlier than 8th October 2001 to allow valid consultation and designation for the purposes of section 3 prior to 8th October 2001; (amendments to regulations 1 and 23)
+
+**0.** to make different provision as to means of payment of contributions; (new regulations 3(5B) and 17(5))
+
+**0.** to include the provisions required by regulation 6 among the provisions which the trust instruments are not allowed to enable to be modified or disapplied; (amendment to regulation 4(4))
+
+**0.** to expand on the requirements relating to investments and investment options; and to clarify existing provisions; (amendments to regulation 10)
+
+**0.** to clarify that a reporting accountant must be appointed for a scheme established under a trust; to impose additional requirements for eligibility for appointment as the reporting accountant; to provide for what should happen if he is or becomes ineligible; to provide that a partnership can be a reporting accountant (new regulation 11(11)); to provide that time limits for appointment of a replacement reporting accountant are to be shortened in certain cases; (new regulation 12(8) and amendments to regulation 11)
+
+**0.** to change the required content of the trustees’ or manager’s annual declaration under regulation 12, and of the statements to be obtained from the reporting accountant; and to make related changes; (amendments to regulations 12 and 15)
+
+**0.** to provide for an additional ground of refusal of contributions; (new regulation 17(6))
+
+**0.** to allow different statement years under regulation 18 to be chosen for different persons; to revise the existing provisions as to the start date for a statement year. All statement year start dates already chosen will be overridden by the amendments to regulation 18. The earliest start date in all cases will be 6th April 2001. In some cases, the start date will automatically be 6th April 2001, in others, a fresh choice will have to be made (within new time limits); (amendments to regulation 18)
+
+**0.** to change and clarify what information is to be provided under regulation 18; (new regulation 18(5A) and (11) and amendments to regulation 18(5))
+
+**0.** in relation to the exemptions in regulation 22, to clarify how paragraphs (2) and (8) work in relation to each other; to except employees under 18 from paragraph (8); to clarify “arrangement” in paragraph (4)(a) (see new paragraph (4A)); to remove any overlap between paragraph (4)(a) and (b); to avoid contributions being regarded as not made in accordance with paragraph (3) merely because the employee makes contributions at a higher rate than the employer (the employer must make contributions at at least the rate specified in respect of contributions to be made by the employee, rather than at the actual rate at which the employee is paying); to require paragraph (2)(b) (among other things) to be satisfied for the paragraph (8) exemption to apply; to make paragraph (8) workable in cases where contributions made by the employer are subject to the condition that the employee make contributions to the same scheme at a specified rate (new paragraphs (8)(b) to (8C));
+
+**0.** to prescribe additional exceptions to the definition of “relevant employees”; (amendments to regulation 23)
+
+**0.** to change and clarify provisions governing deductions of contributions from remuneration, including providing for additional grounds of non-compliance with requests as to such deductions; (amendments to regulations 24 and 25)
+
+**0.** to ensure that there remains a time limit for appointment of a replacement reporting accountant in relation to removal, resignation or death with occur prior to the amendment of regulation 11(8) (transitional provision).
+
+## Annotations
+
+[^c1591841]: Marginal citation: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c1591842]: Marginal citation: [Section 8(1)](https://www.legislation.gov.uk/uksi/2001/934/section/8/1) is cited for the meaning given to “prescribed”.
+
+[^c1591843]: Marginal citation: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^c1591844]: Marginal citation: *See* section 120 of the Pensions Act 1995.
+
+[^c1591845]: Marginal citation: [S.I. 2000/1403](https://www.legislation.gov.uk/uksi/2000/1403), amended by [S.I. 2001/104](https://www.legislation.gov.uk/uksi/2001/104).
+
+[^c1591846]: Marginal citation: Not a statutory instrument. Published by the Financial Services Authority, London, 1997. Release 199, as amended by Release 203. The regulations form part of the Financial Services Authority Rulebook, and can be obtained, together with amendments, from the Financial Services Authority, 25 The North Colonnade, Canary Wharf, London E14 5HS. They are also available on the internet at*http://www.fsa.gov.uk/pubs/rules/index-1999.html* (for Release 199) and at*http://www.fsa.gov.uk/pubs/rules/index-2000.html* (for Release 203). They are made under sections 52, 81, 85, 86(3), 87(4) and (5), 88(10) and 90 of the [Financial Services Act 1986 (c.60)](https://www.legislation.gov.uk/ukpga/1986/60). As to instruments under that Act, see [paragraphs 4 to 9](https://www.legislation.gov.uk/ukpga/1986/60/paragraph/4) of Schedule 9 to that Act. Paragraph 7 of that Schedule was amended by [S.I. 1996/2827](https://www.legislation.gov.uk/uksi/1996/2827).
+
+[^c1591847]: Marginal citation: Not a statutory instrument. Published by the Financial Services Authority, London, 1997. Release 200, as amended by Releases 204 and 211. The regulations form part of the Financial Services Authority Rulebook, and can be obtained, together with amendments, from the Financial Services Authority, 25 The North Colonnade, Canary Wharf, London E14 5HS. They are also available on the internet at*http://www.fsa.gov.uk/pubs/rules/index-1999.html* (for Release 200) and at*http://www.fsa.gov.uk/pubs/rules/index-2000.html* (for Releases 204 and 211). They are made under regulation 6 of the Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996, [S.I. 1996/2827](https://www.legislation.gov.uk/uksi/1996/2827) (and under Northern Ireland instrument [S.R. 1997/251](https://www.legislation.gov.uk/nisr/1997/251)), to which there are amendments not relevant to these Regulations.
+
+[^c1591848]: Marginal citation: Paragraphs (5A) and (11) were inserted by [S.I. 2001/104](https://www.legislation.gov.uk/uksi/2001/104).
+
+[^c1591849]: Marginal citation: [Regulation 4](https://www.legislation.gov.uk/uksi/2001/934/regulation/4) was amended by [S.I. 2001/104](https://www.legislation.gov.uk/uksi/2001/104).
+
+[^c1591850]: Marginal citation: [1982 c.50](https://www.legislation.gov.uk/ukpga/1982/50).
+
+[^c1591851]: Marginal citation: [1989 c.40](https://www.legislation.gov.uk/ukpga/1989/40).
+
+[^c1591852]: Marginal citation: [Section 13(1)](https://www.legislation.gov.uk/uksi/2001/934/section/13/1) was repealed by section 29 of, and Schedule 1 to, the [Companies Consolidation (Consequential Provisions) Act 1985 (c.9)](https://www.legislation.gov.uk/ukpga/1985/9), and was replaced by section 389(2) of the [Companies Act 1985 (c.6)](https://www.legislation.gov.uk/ukpga/1985/6) (repealed by section 212 of, and Schedule 24 to, the Companies Act 1989). (*See*, in addition to section 34 of the Companies Act 1989, section 31 of that Act, and in particular section 31(2) which covers cases previously covered by section 389(2) of the Companies Act 1985.)
+
+[^c1591853]: Marginal citation: [S.I. 1996/1537](https://www.legislation.gov.uk/uksi/1996/1537), to which there are amendments not relevant to these Regulations.
+
+[^c1591854]: Marginal citation: [Section 159](https://www.legislation.gov.uk/uksi/2001/934/section/159) was amended by section 122 of, and paragraph 41 of Schedule 3 to, the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26) which inserted subsections (4A) and (4B).
+
+[^c1591855]: Marginal citation: *See* the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997, [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785), amended by [S.I. 1999/1849](https://www.legislation.gov.uk/uksi/1999/1849). Sections 91 to 93 were amended by section 84(1) of, and paragraphs 57 to 59 of Schedule 12 to, the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30). Section 94 was amended by section 18 of, and paragraph 17 of Schedule 2 to, that Act.
+
+[^c1591856]: Marginal citation: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785), amended by [S.I. 1999/1849](https://www.legislation.gov.uk/uksi/1999/1849).
+
+[^c1591857]: Marginal citation: [Section 124](https://www.legislation.gov.uk/uksi/2001/934/section/124) was amended by sections 18 and 84 of, and paragraph 18 of Schedule 2 and paragraph 61 of Schedule 12 to, the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), and by section 56 of, and paragraph 8(3) of Schedule 5 to, the [Child Support, Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^c1591858]: Marginal citation: [Section 97](https://www.legislation.gov.uk/uksi/2001/934/section/97) was amended by section 173 of, and paragraph 4 of Schedule 6 to, the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26) and by section 56 of, and paragraph 8(1) of Schedule 5 to, the [Child Support, Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^key-35b685c469b1c07bf9fa2b1816416e01]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2001/934/regulation/14) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2013/459/regulation/10/b)
+
+[^c1591859]: Marginal citation: [Section 124](https://www.legislation.gov.uk/uksi/2001/934/section/124) was amended by sections 18 and 84 of, and paragraph 18 of Schedule 2 and paragraph 61 of Schedule 12 to, the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), and by section 56 of, and paragraph 8(3) of Schedule 5 to, the [Child Support, Pensions and Social Security Act 2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^c1591860]: Marginal citation: [S.I. 1996/1975](https://www.legislation.gov.uk/uksi/1996/1975), amended by S.I.'s 1997/786, 1997/3038 and 2000/833.

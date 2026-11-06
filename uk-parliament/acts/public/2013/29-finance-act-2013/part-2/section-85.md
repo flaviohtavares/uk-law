@@ -1,0 +1,42 @@
+---
+title: Finance Act 2013, section 85
+act: Finance Act 2013
+section: '85'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/85
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 85
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 85. Claims under agreement not to affect oil allowance
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where—
+
+- (a) a company defaults on a liability under—
+  - (i) a relevant agreement, or
+  - (ii) an abandonment programme,
+
+  to make a payment towards decommissioning expenditure in respect of an oil field,
+- (b) in consequence of the default, another company that has rights under a decommissioning relief agreement at the time of the default incurs decommissioning expenditure in respect of that oil field, and
+- (c) by virtue of section 83, any expenditure incurred by that company (whether or not that decommissioning expenditure) is treated as having been used by that company or any other company (“the affected company”) to reduce its assessable profit in a chargeable period in a particular way.
+
+(2) If, in the absence of section 83, the assessable profit accruing to the affected company from an oil field in that chargeable period would be reduced under section 8(1) of OTA 1975, the amount of the oil allowance for the oil field utilised by the affected company in that chargeable period for the purposes of section 8 of that Act is to be determined as if section 83 did not apply.
+
+(3) In this section—
+
+- “**abandonment programme**” means an abandonment programme approved under Part 4 of the Petroleum Act 1998 (including such a programme as revised),
+- “**company**” has the meaning given by section 1121 of CTA 2010,
+- “**decommissioning expenditure**” has the same meaning as in section 80,
+- “**decommissioning relief agreement**” has the same meaning as in that section,
+- “**oil field**” has the same meaning as in OTA 1975, and
+- “**relevant agreement**” has the meaning given by section 104(5)(a) of FA 1991.

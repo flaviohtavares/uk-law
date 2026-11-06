@@ -1,0 +1,256 @@
+---
+title: The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021
+id: uksi/2021/311
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-03-10'
+text_date: '2021-07-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2021/311
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/311/pdfs/uksiem_20210311_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/311/pdfs/uksi_20210311_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/311/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021
+
+> Text as at 2021-07-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2021 No. 311
+
+Immigration
+
+The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021
+
+Made
+
+10th March 2021
+
+Coming into force
+
+31st March 2021
+
+The Secretary of State, in exercise of the powers conferred by section 141 of the Nationality, Immigration and Asylum Act 2002 [^c24465721], makes the following Order.
+
+The Secretary of State has consulted with such people as appear to her to be appropriate in accordance with section 141(5)(b) of the Nationality, Immigration and Asylum Act 2002.
+
+In accordance with section 141(5)(c) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-848c396255d00b7fc91d0178ace547dc]
+
+(1) This Order may be cited as the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021.
+
+(2) This Order comes into force on the twenty-first day after the day on which it is made.
+
+## 2. Amendment of the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003[^key-f2e6a5c88dcd0c0b940d74aa743b8ca4]
+
+(1) The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003 [^c24465731] is amended as follows.
+
+(2) In article 2 (interpretation), after the definition of “immigration control”, insert—
+
+> “**immigration control enactment**” means an Act of Parliament, or an instrument made under such an Act, which contains provision relating to immigration controls;
+
+.
+
+(3) In article 3 (exercise of functions by French officers), after paragraph (2) insert—
+
+> (3) Any act or omission which—
+>
+> - (a) takes place inside the United Kingdom in a Control Zone,
+> - (b) is committed or omitted in relation to an officer belonging to the French Republic carrying out his functions in accordance with paragraph (1), and
+> - (c) would constitute an offence under an immigration control enactment if committed or omitted in relation to an immigration officer,
+>
+> shall be treated for the purposes of that enactment as if it were an act or omission in relation to an immigration officer.
+>
+> (4) Section 22 of the UK Borders Act 2007 [^c24465741] (assaulting an immigration officer) is modified for the purposes of paragraph (3) so that the reference in subsection (1) of that section to an immigration officer includes a reference to an officer belonging to the French Republic carrying out his functions in accordance with paragraph (1).
+
+.
+
+(4) In article 11 (enactments having effect in a Control Zone in France)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) All immigration control enactments shall, for the purpose of enabling immigration officers to carry out immigration controls, have effect within a Control Zone in France, with the modifications set out in Schedule 2 to this Order.
+
+  ;
+- (b) in paragraph (3), for the words from “Sections 19B” to “the Race Relations Act 1976” substitute “ The Equality Act 2010 ”[^c24465751] .
+
+(5) In article 12 (application of criminal law to a Control Zone in France)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) An act or omission which constitutes an offence under an immigration control enactment shall also be an offence if it takes place in a Control Zone in France.
+
+  ;
+- (b) omit paragraphs (3), (4) and (4A);
+- (c) in paragraph (6), for the words from “in the inner London area” to the end of that paragraph substitute “ in the area consisting of the inner London boroughs ”;
+- (d) after paragraph (6), insert—
+
+  > (7) Any jurisdiction conferred by virtue of this article on any court is without prejudice to any jurisdiction exercisable apart from this article by any French court.
+
+  .
+
+(6) In article 13(1) (powers of arrest and search outside United Kingdom), for sub-paragraphs (a) and (b) substitute “ the Immigration Acts ”.
+
+(7) In Schedule 2 (modification of applied enactments)—
+
+- (a) in paragraph 1 (modification of the Immigration Act 1971 [^c24465761]), after sub-paragraph (3)(c) insert—
+
+  > - (ca) after paragraph 2A(1) insert—
+  >
+  >   > (1a) This paragraph also applies to a person who seeks to arrive in the United Kingdom and is in a Control Zone.
+
+  ;
+- (b) in paragraph 2 (modification of the Terrorism Act 2000 [^c24465771])—
+  - (i) in sub-paragraph (1)—
+    - (aa) after paragraph (d), insert—
+
+      > - (da) in paragraph 5A omit the words “or 3”;
+
+      ;
+    - (bb) after paragraph (e), insert—
+
+      > - (ea) in paragraph 6A omit the words “or 3” in each place where they occur;
+
+      ;
+    - (cc) in paragraph (g), for “omit sub-paragraph (2)” substitute “ omit sub-paragraphs (2), (6)(c) and the “and” preceding (6)(c) ”;
+    - (dd) in paragraph (h)(i), omit “and”;
+    - (ee) for paragraph (h)(ii), substitute—
+
+      > - (ii) omit sub-paragraphs (2A), (2B), (2D) and (2E);
+      > - (iii) in sub-paragraph (2C), omit paragraphs (b), (c) and (d);
+      > - (iv) in sub-paragraph (3), omit paragraphs (a), (c) and (d);
+      > - (v) in paragraph (4)(a), omit the words “or aircraft”;
+      > - (vi) in sub-paragraph (4), omit paragraphs (c), (d) and (e); and
+
+      ;
+  - (ii) in paragraph 2(2)(c), for “and 6 to 37” substitute “ , 10 to 20J and 21 to 38 ”;
+  - (iii) after paragraph 2(2)(c), insert—
+
+    > - (d) in paragraph 6, for the words “or section 41 at a place in England, Wales or Northern Ireland” substitute “ in a Control Zone ”;
+    > - (e) in paragraph 7, for the words “or section 41 in England, Wales or Northern Ireland” substitute “ in a Control Zone ”;
+    > - (f) in paragraph 7A, omit the words “or 3” both times they occur;
+    > - (g) in paragraph 8—
+    >   - (i) in sub-paragraph (1), omit the words “Subject to sub-paragraph (2),”;
+    >   - (ii) omit sub-paragraph (2);
+    > - (h) in sub-paragraph (7) of paragraph 20K, omit paragraph (c) and the “and” preceding it.
+- (c) for paragraph 3 (modification of the Code of Practice for examining officers under the Terrorism Act 2000) substitute—
+
+  > In the Code of Practice entitled “Examining Officers and Review Officers under Schedule 7 to the Terrorism Act 2000” published on 13th August 2020 [^c24465781]—
+  >
+  > - (a) in paragraph 1, after “at a port or the border area in Northern Ireland” insert “ or in a Control Zone ”;
+  > - (b) after paragraph 8, insert—
+  >
+  >   > **8A.**
+  >   >
+  >   > For the purposes of this code, “**Control Zone**” means a Control Zone in France in which immigration officers exercise immigration control in pursuance of the Treaty between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic concerning the Implementation of Frontier Controls at the Sea Ports of Both Countries on the Channel and North Sea [^c24465791].
+  >
+  >   ;
+  > - (c) in paragraph 9, after “at ports or in the border area” insert “ or in a Control Zone ”;
+  > - (d) in paragraph 27, after “at a port or in the border area in Northern Ireland” insert “ or in a Control Zone ”;
+  > - (e) in the heading immediately before paragraph 92, after the words “Northern Ireland” insert “ or in a Control Zone ”;
+  > - (f) in paragraph 136, at the end insert— “ In respect of goods which have arrived in or are about to leave a Control Zone on a ship or in a vehicle ”;
+  > - (g) in paragraph 137, after the words “at a port”, insert “ or in a Control Zone ”;
+
+  ;
+- (d) in paragraph 4 (modification of the Immigration (Leave to Enter and Remain) Order 2000 [^c24465801])—
+  - (i) after sub-paragraph (b), insert—
+
+    > - (ba) in article 4(2B)—
+    >   - (i) after the words “on arrival in the United Kingdom”, insert “ or entry into a Control Zone ”,
+    >   - (ii) after the words “before arrival”, insert “ or entry into a Control Zone ”,
+    >   - (iii) after the words “arrives in the United Kingdom”, insert “ or enters a Control Zone ”;
+    > - (bb) in article 4(2D)—
+    >   - (i) after the words “on arrival in the United Kingdom”, insert “ or entry into a Control Zone ”,
+    >   - (ii) after the words “before arrival”, insert “ or entry into a Control Zone ”,
+    >   - (iii) after the words “date of arrival”, insert “ or entry into the Control Zone ”
+
+    ;
+  - (ii) after sub-paragraph (c), insert—
+
+    > - (ca) in article 4(3B)—
+    >   - (i) after the words “on arrival in the United Kingdom”, insert “ or entry into a Control Zone ”,
+    >   - (ii) after the words “before arrival”, insert “ or entry into a Control Zone ”,
+    >   - (iii) after the words “arrives in the United Kingdom”, insert “ or enters a Control Zone ”;
+    > - (cb) in article 4(5)—
+    >   - (i) after the words “arrival in the United Kingdom”, insert “ or entry into a Control Zone ”;
+
+    ;
+  - (iii) after sub-paragraph (d), insert—
+
+    > - (e) in article 13(5)—
+    >   - (i) after the words “arrival in the United Kingdom”, insert “ or entry into a Control Zone ”,
+    >   - (ii) after the words “before his arrival”, insert “ or entry into a Control Zone ”;
+
+    ;
+- (e) in paragraph 5 (modification of the Immigration (European Economic Area) Regulations 2006 [^c24465811])—
+  - (i) in the heading, for “2006” substitute “ 2016 ”;
+  - (ii) in the words before sub-paragraph (a), for “2006” substitute “ 2016 ”;
+  - (iii) in sub-paragraph (a), for “civil partner” substitute “ Common Travel Area ”;
+  - (iv) after sub-paragraph (a), insert—
+
+    > - (aa) in regulation 11(2), in both places it occurs, after the word “arrival” insert “ or the time of production of the required documents in a Control Zone ”;
+
+    ;
+  - (v) in sub-paragraph (c)—
+    - (aa) for “19(2)” substitute “ 23(4) ”;
+    - (bb) for “regulations 20(4)” substitute “ regulation 24(5) ”;
+- (f)[^key-2f656604e061b29de4b4ad0a3a2947fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. The UK Borders Act 2007[^key-49bea784f9974341d972d14bc501c814]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Chris Philp
+
+Parliamentary Under Secretary of State
+
+Home Office
+
+*(This note is not part of the Order)*
+
+This Order amends the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003 (S.I. 2003/2818) to reconcile the regime at the juxtaposed controls sea ports in Northern France with that for international rail services via the Channel Fixed Link, as set out in the Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813) and the Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405).
+
+Article 2 of this Order extends all immigration control enactments to a Control Zone in France, makes other amendments to the 2003 Order and makes the necessary modifications of other enactments to ensure that UK immigration controls are able to function properly in the Control Zones.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c24465721]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); [section 141](https://www.legislation.gov.uk/uksi/2021/311/section/141) was amended by regulation 12(4) of the Immigration, Nationality and Asylum (EU Exit) Regulations ([S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745)).
+
+[^key-848c396255d00b7fc91d0178ace547dc]: Commencement: Art. 1 in force at 31.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2)
+
+[^key-f2e6a5c88dcd0c0b940d74aa743b8ca4]: Commencement: Art. 2 in force at 31.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2)
+
+[^c24465731]: Marginal citation: [S.I. 2003/2818](https://www.legislation.gov.uk/uksi/2003/2818); relevant amending instruments are [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003), 2006/2908, 2011/1786, 2012/1547, 2013/3032 and 2019/745.
+
+[^c24465741]: Marginal citation: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
+
+[^c24465751]: Marginal citation: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^c24465761]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); amended by the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), the [Immigration Act 2014 (c. 22) and the Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19); no other amendments are relevant.
+
+[^c24465771]: Marginal citation: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); amended by the Anti-terrorism, [Crime and Security Act 2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24), the [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), the [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), the [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), the Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [S.I](https://www.legislation.gov.uk/ukpga/2008/28/section/I). 2011/1938, the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), the Anti-social [Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), the Counter-[Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), the [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), the [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), the Counter-[Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3); amendments pending by the [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22); no other amendments are relevant.
+
+[^c24465781]: Marginal citation: The Code is available online at https://www.gov.uk/government/publications/codes-of-practice-for-officers-using-examination-powers-at-ports. A hard copy can be obtained by writing to the Home Office, 2 Marsham Street, London SW1P 4DF.
+
+[^c24465791]: Marginal citation: Cmd. 6172.
+
+[^c24465801]: Marginal citation: [S.I. 2000/1161](https://www.legislation.gov.uk/uksi/2000/1161); relevant amending instruments are [S.I. 2004/475](https://www.legislation.gov.uk/uksi/2004/475), 2005/1159, 2013/1749, 2015/434, 2016/1132, 2019/686 and 2020/1353.
+
+[^c24465811]: Marginal citation: [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003), revoked by [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052). Paragraph 1 of Schedule 7 to [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052) provides that legislative references to [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003) are to be read as references to [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052). Relevant amending instruments for [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052) are [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), 2017/1, 2017/1242, 2018/801, 2019/468 and 2019/1155.
+
+[^key-2f656604e061b29de4b4ad0a3a2947fb]: Textual amendment: [Art. 2(7)(f)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/f) omitted (7.7.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) (No. 2) Order 2021 (S.I. 2021/784)](https://www.legislation.gov.uk/uksi/2021/784), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/784/article/1/2), [2](https://www.legislation.gov.uk/uksi/2021/784/article/2)
+
+[^key-49bea784f9974341d972d14bc501c814]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2021/311/article/3) omitted (7.7.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) (No. 2) Order 2021 (S.I. 2021/784)](https://www.legislation.gov.uk/uksi/2021/784), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/784/article/1/2), [2](https://www.legislation.gov.uk/uksi/2021/784/article/2)

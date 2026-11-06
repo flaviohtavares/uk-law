@@ -1,0 +1,108 @@
+---
+title: The Feed-in Tariffs (Amendment) (No. 2) Order 2014
+id: uksi/2014/2865
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2014-10-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2014/2865
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2865/pdfs/uksiem_20142865_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2865/pdfs/uksi_20142865_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2865/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Feed-in Tariffs (Amendment) (No. 2) Order 2014
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2014 No. 2865
+
+Electricity
+
+The Feed-in Tariffs (Amendment) (No. 2) Order 2014
+
+Made
+
+27th October 2014
+
+Laid before Parliament
+
+29th October 2014
+
+Coming into force
+
+1st January 2015
+
+The Secretary of State, in exercise of the powers conferred by sections 43(3)(a) and 104(2) of the Energy Act 2008[^f00001], makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Feed-in Tariffs (Amendment) (No. 2) Order 2014 and comes into force on 1st January 2015.
+
+## 2. Amendment to the Feed-in Tariffs Order 2012
+
+(1) Schedule 2 (publication of FIT deployment data) to the Feed-in Tariffs Order 2012[^f00002] is amended as follows.
+
+(2) In paragraph 1, for “the data set out in paragraph 2” substitute—
+
+> —
+>
+> - (a) in respect of any month of publication which falls before April 2015, the data set out in paragraph 2; and
+> - (b) in respect of April 2015 and each subsequent month of publication, the data set out in paragraph 2A
+
+.
+
+(3) In paragraph 2, for “paragraph 1” substitute “paragraph 1(a)”.
+
+(4) After paragraph 2, insert—
+
+> **2A.** The data referred to in paragraph 1(b) are—
+>
+> - (a) the aggregate declared net capacity of solar photovoltaic installations (other than stand-alone solar photovoltaic installations) with declared net capacity of 10 kilowatts or less which were registered on the MCS database in the solar deployment period;
+> - (b) the aggregate declared net capacity of solar photovoltaic installations (other than stand-alone solar photovoltaic installations) with declared net capacity greater than 10 kilowatts but not exceeding 50 kilowatts which were registered on the MCS database in the solar deployment period;
+> - (c) the aggregate total installed capacity of solar photovoltaic installations (other than stand-alone solar photovoltaic installations) with declared net capacity greater than 50 kilowatts—
+>   - (i) which, in the solar deployment period, were determined by the Authority to be entitled to accreditation (excluding installations for which preliminary accreditation had previously been granted);
+>   - (ii) which, in the solar deployment period, the Authority granted preliminary accreditation;
+> - (d) the aggregate of the following capacities of stand-alone solar photovoltaic installations—
+>   - (i) those with declared net capacity not exceeding 50 kilowatts which were registered on the MCS database in the solar deployment period;
+>   - (ii) those with declared net capacity greater than 50 kilowatts which, in the solar deployment period, were determined by the Authority to be entitled to accreditation (excluding installations for which preliminary accreditation had previously been granted); and
+>   - (iii) those which, in the solar deployment period, the Authority granted preliminary accreditation.
+
+.
+
+(5) In paragraph 5, after the definition of “MCS database”, insert—
+
+> - “stand-alone solar photovoltaic installation” means a solar photovoltaic installation which is not wired to provide electricity to a building;
+
+.
+
+Amber Rudd
+
+Parliamentary Under Secretary of State
+
+Department of Energy and Climate Change
+
+27th October 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order, which extends to Great Britain, amends the Feed-in Tariffs Order 2012 (“the 2012 Order”).
+
+Article 2 of the Order amends Schedule 2 (publication of FIT deployment data) to the 2012 Order to require the Secretary of State to distinguish, when determining and publishing data relating to the quarterly deployment of solar photovoltaic installations, between installations which are wired to provide electricity to a building and installations which are stand-alone.
+
+An impact assessment has been prepared in respect of the changes to the FIT scheme effected by this Order and copies can be obtained from the Department of Energy and Climate Change, 3 Whitehall Place, London SW1A 2AW.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32).
+
+[^f00002]: Footnote: [S.I. 2012/2782](https://www.legislation.gov.uk/uksi/2012/2782), amended by [S.I. 2013/1099](https://www.legislation.gov.uk/uksi/2013/1099) and [2014/1601](https://www.legislation.gov.uk/uksi/2014/1601).

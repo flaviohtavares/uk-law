@@ -1,0 +1,72 @@
+---
+title: Companies Act 1985, section 685
+act: Companies Act 1985
+section: '685'
+status: repealed
+text_date: '2026-04-07'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1985/6/section/685
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1985, section 685
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 685. Registration of joint stock company as public company.
+
+*Extent: E+W+S*
+
+**No longer in force (ended 2009-10-01).**
+
+(1) A joint stock company applying to be registered under section 680 as a company limited by shares may, subject to—
+
+- (a) satisfying the conditions set out in section 44(2)(a) and (b) (where applicable) and section 45(2) to (4) as applied by this section, and
+- (b) complying with subsection (4) below,
+
+apply to be so registered as a public company.
+
+(2) Sections 44 and 45 apply for this purpose as in the case of a private company applying to be re-registered under section 43, but as if a reference to the special resolution required by section 43 were to the joint stock company’s resolution that it be a public company.
+
+(3) The resolution may change the company’s name by deleting the word “company” or the words “and company”, or its or their equivalent in Welsh (“cwmni”, “a’r cwmni”), including any abbreviation of them.
+
+(4) The joint stock company’s application shall be made in the form prescribed for the purpose, and shall be delivered to the registrar of companies together with the following documents (as well as those required by section 684), namely—
+
+- (a) a copy of the resolution that the company be a public company,
+- (b) a copy of a written statement by an accountant with the appropriate qualifications that in his opinion a relevant balance sheet shows that at the balance sheet date the amount of the company’s net assets was not less than the aggregate of its called up share capital and undistributable reserves,
+- (c) a copy of the relevant balance sheet, together with a copy of an unqualified report (by an accountant with such qualifications) in relation to that balance sheet,
+- (d) a copy of any valuation report prepared under section 44(2)(b) as applied by this section, and
+- (e) subject to subsection (4A),[^c17418421]a statutory declaration in the prescribed form by a director or secretary of the company—
+  - (i) that the conditions set out in section 44(2)(a) and (b) (where applicable) and section 45(2) to (4) have been satisfied, and
+  - (ii) that, between the balance sheet date referred to in paragraph (b) of this subsection and the joint stock company’s application, there has been no change in the company’s financial position that has resulted in the amount of its net assets becoming less than the aggregate of its called up share capital and undistributable reserves.
+
+(4A)[^c17418431] In place of the statutory declaration referred to in paragraph (e) of subsection (4), there may be delivered to the registrar of companies using electronic communications a statement made by a director or secretary of the company as to the matters set out in sub-paragraphs (i) and (ii) of that paragraph.
+
+(5) The registrar may accept a declaration under subsection (4)(e) or statement under subsection (4A)[^c17418441] as sufficient evidence that the conditions referred to in that paragraph have been satisfied.
+
+(6) In this section—
+
+- “**accountant with the appropriate qualifications**” means a person who would be eligible[^c17418451] for appointment as the company’s auditor, if it were a company registered under this Act,
+- “**relevant balance sheet**” means a balance sheet prepared as at a date not more that 7 months before the joint stock company’s application to be registered as a public company limited by shares, and
+- “**undistributable reserves**” has the meaning given by section 831(4) of the Companies Act 2006[^c19872031];
+
+and section 46 applies (with necessary modifications) for the interpretation of the reference in subsection (4)(c) above to an unqualified report by the accountant.
+
+(6A)[^c17418461] Any person who makes a false statement under subsection (4A) which he knows to be false or does not believe to be true is liable to imprisonment or a fine, or both.
+
+## Annotations
+
+[^c17418421]: Textual amendment: Words in [s. 685(4)(e)](https://www.legislation.gov.uk/ukpga/1985/6/section/685/4/e) inserted (22.12.2000) by [S.I. 2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), [art. 24(1)(2)](https://www.legislation.gov.uk/uksi/2000/3373/article/24/1/2)
+
+[^c17418431]: Textual amendment: [S. 685(4A)](https://www.legislation.gov.uk/ukpga/1985/6/section/685/4A) inserted (22.12.2000) by [S.I. 2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), [art. 24(1)(3)](https://www.legislation.gov.uk/uksi/2000/3373/article/24/1/3)
+
+[^c17418441]: Textual amendment: Words in [s. 685(5)](https://www.legislation.gov.uk/ukpga/1985/6/section/685/5) inserted (22.12.2000) by [S.I. 2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), [art. 24(1)(4)](https://www.legislation.gov.uk/uksi/2000/3373/article/24/1/4)
+
+[^c17418451]: Textual amendment: Words in [s. 685(6)](https://www.legislation.gov.uk/ukpga/1985/6/section/685/6) substituted by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch. para. 53(2)](https://www.legislation.gov.uk/uksi/1991/1997/schedule/paragraph/53/2).
+
+[^c19872031]: Textual amendment: Words in [s. 685(6)](https://www.legislation.gov.uk/ukpga/1985/6/section/685/6) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [3(1)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/83) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+
+[^c17418461]: Textual amendment: [S. 685(6A)](https://www.legislation.gov.uk/ukpga/1985/6/section/685/6A) inserted (22.12.2000) by [S.I. 2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), [art. 24(1)(5)](https://www.legislation.gov.uk/uksi/2000/3373/article/24/1/5)

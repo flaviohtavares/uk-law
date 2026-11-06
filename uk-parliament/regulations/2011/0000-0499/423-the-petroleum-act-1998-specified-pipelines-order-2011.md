@@ -1,0 +1,130 @@
+---
+title: The Petroleum Act 1998 (Specified Pipelines) Order 2011
+id: uksi/2011/423
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-02-09'
+text_date: '2023-09-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/423
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/423/pdfs/uksiem_20110423_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/423/pdfs/uksi_20110423_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/423/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Petroleum Act 1998 (Specified Pipelines) Order 2011
+
+> Text as at 2023-09-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 423
+
+Pipe-lines
+
+The Petroleum Act 1998 (Specified Pipelines) Order 2011
+
+Made
+
+9th February 2011
+
+Laid before Parliament
+
+17th February 2011
+
+Coming into force
+
+6th April 2011
+
+The Secretary of State makes this Order in exercise of the powers conferred by sections 24(2A) and 25(7)(b) of the Petroleum Act 1998[^f00001].
+
+## 1. Citation and commencement[^key-91271298a909eacbab2abe5cbe1d37e9]
+
+This Order—
+
+- (a) may be cited as the Petroleum Act 1998 (Specified Pipelines) Order 2011, and
+- (b) comes into force on 6th April 2011.
+
+## 2. Specified pipelines[^key-b0d013e8c1cd5dee498f984f3825bb7c]
+
+(1) Paragraph (2) specifies a description of pipelines for the purposes of section 24(2A) of the Petroleum Act 1998 (pipelines disregarded for the purposes of Part 3 of that Act etc).
+
+(2) The pipelines are any pipelines other than—
+
+- (a) controlled pipelines used in relation to the exploration for, or exploitation of, petroleum;
+- (b) controlled pipelines used in relation to unloading or storage offshore of relevant substances; [^key-ddecd7e74529b4e002e3971996c8e73f]...
+- (c) controlled pipelines (except those described under sub-paragraph (a) or (b)) used in relation to—
+  - (i) the export from or import into the United Kingdom, or
+  - (ii) the transfer between any of England, Wales, Scotland and Northern Ireland,
+
+  of relevant substances; or[^key-50014c95300988425d67df56cf5fc23f] [^f00002].
+- (d)[^key-08e20a245074c07a05f2a669b29eef0e] controlled pipelines (except those described under sub-paragraph (b) or (c)) used in relation to the conveyance of hydrogen.
+
+(3) In paragraph (2)—
+
+- “unloading or storage offshore” means unloading or storage in controlled waters[^f00003], including the bed and subsoil of those waters;
+- “relevant substances” means oil or relative hydrocarbons, natural gas (including such gas as a liquid) , carbon dioxide or hydrogen[^key-fcf68bda525fb9ce7669827644ee78eb].
+
+## 3. Transitional provisions: existing pipelines[^key-41d2744d25a4bd34306ece34297906f9]
+
+Nothing in this Order applies in relation to a pipeline in respect of which, immediately before the date of coming into force of this Order, an authorisation under Part 3 of the Petroleum Act 1998 was in force.
+
+## 4. Transitional provisions: pending applications[^key-e9fa4781a51fceefed62372ca0a7b3ab]
+
+(1) Paragraph (2) applies where—
+
+- (a) an application is made before the date of coming into force of this Order for an authorisation in respect of a pipeline under Part 3 of that Act; and
+- (b) that application was not determined or withdrawn by that date.
+
+(2) An application described in paragraph (1)—
+
+- (a) is not affected by this Order; and
+- (b) if the application is granted, is an authorisation made under Part 3 of the Petroleum Act 1998.
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+9th February 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order specifies descriptions of pipelines which are to be disregarded for the purposes of Part 3 of the Petroleum Act 1998 (other than for the purposes of section 24(2A), under which this Order is made). Part 3 of that Act deals with submarine pipelines: see section 26 of that Act for the meaning of “pipeline”.
+
+A full impact assessment of the effect that this Order will have on the costs of business, the voluntary sector and the public sector has been prepared. Copies are available from the Licensing Policy Team, Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR and from Defra’s website at www.defra.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17). Subsection (2A) was inserted into section 24 by paragraph 7(2) of Schedule 8 to the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-91271298a909eacbab2abe5cbe1d37e9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/423/article/1) in force at 6.4.2011, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2011/423/article/1/b)
+
+[^key-b0d013e8c1cd5dee498f984f3825bb7c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/423/article/2) in force at 6.4.2011, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2011/423/article/1/b)
+
+[^key-ddecd7e74529b4e002e3971996c8e73f]: Textual amendment: Word in [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2011/423/article/2/2/b) omitted (27.9.2023) by virtue of [The Petroleum Act 1998 (Specified Pipelines) (Amendment) and Importation and Storage of Combustible Gas (Designation of Substance etc.) Order 2023 (S.I. 2023/971)](https://www.legislation.gov.uk/uksi/2023/971), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/971/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/971/article/2/2/a)
+
+[^key-50014c95300988425d67df56cf5fc23f]: Textual amendment: Words in [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/423/article/2/2/c) substituted (27.9.2023) by [The Petroleum Act 1998 (Specified Pipelines) (Amendment) and Importation and Storage of Combustible Gas (Designation of Substance etc.) Order 2023 (S.I. 2023/971)](https://www.legislation.gov.uk/uksi/2023/971), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/971/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/971/article/2/2/b)
+
+[^f00002]: Footnote: See sections 26 and 28(1) of the Petroleum Act 1998 for definitions of “pipeline” and section 28(1) for the definition of “controlled pipeline”.
+
+[^key-08e20a245074c07a05f2a669b29eef0e]: Textual amendment: [Art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2011/423/article/2/2/d) inserted (27.9.2023) by [The Petroleum Act 1998 (Specified Pipelines) (Amendment) and Importation and Storage of Combustible Gas (Designation of Substance etc.) Order 2023 (S.I. 2023/971)](https://www.legislation.gov.uk/uksi/2023/971), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/971/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/971/article/2/2/c)
+
+[^f00003]: Footnote: See section 28(1) of the Petroleum Act 1998 for a definition of “controlled waters”.
+
+[^key-fcf68bda525fb9ce7669827644ee78eb]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/423/article/2/3) substituted (27.9.2023) by [The Petroleum Act 1998 (Specified Pipelines) (Amendment) and Importation and Storage of Combustible Gas (Designation of Substance etc.) Order 2023 (S.I. 2023/971)](https://www.legislation.gov.uk/uksi/2023/971), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/971/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2023/971/article/2/2/d)
+
+[^key-41d2744d25a4bd34306ece34297906f9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/423/article/3) in force at 6.4.2011, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2011/423/article/1/b)
+
+[^key-e9fa4781a51fceefed62372ca0a7b3ab]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/423/article/4) in force at 6.4.2011, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2011/423/article/1/b)

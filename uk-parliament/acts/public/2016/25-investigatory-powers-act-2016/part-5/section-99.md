@@ -1,0 +1,68 @@
+---
+title: Investigatory Powers Act 2016, section 99
+act: Investigatory Powers Act 2016
+section: '99'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/25/section/99
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Investigatory Powers Act 2016, section 99
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/25
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 99. Warrants under this Part: general[^key-d5b1c16c4dc03befa9504c6786f05150]
+
+*Extent: E+W+S+N.I.*
+
+(1) There are two kinds of warrants which may be issued under this Part—
+
+- (a) targeted equipment interference warrants (see subsection (2));
+- (b) targeted examination warrants (see subsection (9)).
+
+(2) A targeted equipment interference warrant is a warrant which authorises or requires the person to whom it is addressed to secure interference with any equipment for the purpose of obtaining—
+
+- (a) communications (see section 135);
+- (b) equipment data (see section 100);
+- (c) any other information.
+
+(3) A targeted equipment interference warrant—
+
+- (a) must also authorise or require the person to whom it is addressed to secure the obtaining of the communications, equipment data or other information to which the warrant relates;
+- (b) may also authorise that person to secure the disclosure, in any manner described in the warrant, of anything obtained under the warrant by virtue of paragraph (a).
+
+(4) The reference in subsections (2) and (3) to the obtaining of communications or other information includes doing so by—
+
+- (a) monitoring, observing or listening to a person's communications or other activities;
+- (b) recording anything which is monitored, observed or listened to.
+
+(5) A targeted equipment interference warrant also authorises the following conduct (in addition to the conduct described in the warrant)—
+
+- (a) any conduct which it is necessary to undertake in order to do what is expressly authorised or required by the warrant, including conduct for securing the obtaining of communications, equipment data or other information;
+- (b) any conduct by any person which is conduct in pursuance of a requirement imposed by or on behalf of the person to whom the warrant is addressed to be provided with assistance in giving effect to the warrant.
+
+(6) A targeted equipment interference warrant may not, by virtue of subsection (3), authorise or require a person to engage in conduct, in relation to a communication other than a stored communication, which would (unless done with lawful authority) constitute an offence under section 3(1) (unlawful interception).
+
+(7) Subsection (5)(a) does not authorise a person to engage in conduct which could not be expressly authorised under the warrant because of the restriction imposed by subsection (6).
+
+(8) In subsection (6), “**stored communication**” means a communication stored in or by a telecommunication system (whether before or after its transmission).
+
+(9) A targeted examination warrant is a warrant which authorises the person to whom it is addressed to carry out the selection of protected material obtained under a bulk equipment interference warrant for examination, in breach of the prohibition in section 193(4) (prohibition on seeking to identify communications of, or private information relating to, individuals in the British Islands).
+
+In this Part, “**protected material**”, in relation to a targeted examination warrant, means any material obtained under a bulk equipment interference warrant under Chapter 3 of Part 6, other than material which is—
+
+- (a) equipment data;
+- (b) information (other than a communication or equipment data) which is not private information.
+
+(10) For provision enabling the combination of targeted equipment interference warrants with certain other warrants or authorisations (including targeted examination warrants), see Schedule 8.
+
+(11) Any conduct which is carried out in accordance with a warrant under this Part is lawful for all purposes.
+
+## Annotations
+
+[^key-d5b1c16c4dc03befa9504c6786f05150]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2016/25/section/99) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/a)

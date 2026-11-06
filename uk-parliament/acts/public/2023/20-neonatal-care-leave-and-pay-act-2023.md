@@ -1,0 +1,978 @@
+---
+title: Neonatal Care (Leave and Pay) Act 2023
+id: ukpga/2023/20
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2023-05-24'
+text_date: '2025-01-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/20
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2023/20/pdfs/ukpgaen_20230020_en.pdf
+- http://www.legislation.gov.uk/ukpga/2023/20/pdfs/ukpga_20230020_en.pdf
+- http://www.legislation.gov.uk/ukpga/2023/20/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Neonatal Care (Leave and Pay) Act 2023
+
+> Text as at 2025-01-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Neonatal Care (Leave and Pay) Act 2023
+
+2023 Chapter 20
+
+An Act to make provision about leave and pay for employees with responsibility for children receiving neonatal care.
+
+\[24th May 2023\]
+
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Neonatal care leave and pay[^key-06167612f1acd7d2642db76ac1e64740][^key-ea64d9c8bdf37f652ae601a8b5675771][^key-efab6c662b00fc5a1fdfe48552e025bb]
+
+In the Schedule—
+
+- (a) Part 1 creates a statutory entitlement to neonatal care leave,
+- (b) Part 2 creates a statutory entitlement to neonatal care pay, and
+- (c) Part 3 contains related amendments.
+
+## 2. Power to make consequential provision[^key-302184efa6bd5991e99e51319c3866e5][^key-4e904ba344c36e0cb8a67a684b64e644]
+
+(1) The Secretary of State may by regulations make provision that is consequential on this Act.
+
+(2) The regulations are to be made by statutory instrument.
+
+(3) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 3. Extent, commencement and short title[^key-7de971120ec150d48f4d44c8e2dcee73]
+
+(1) An amendment or repeal made by the Schedule has the same extent as the provision to which it relates.
+
+(2) Otherwise, this Act extends to England and Wales, Scotland and Northern Ireland.
+
+(3) Section 1, section 2 and the Schedule come into force on such day as the Secretary of State may by regulations made by statutory instrument appoint; and different days may be appointed for different purposes.
+
+(4) This section comes into force on the day on which this Act is passed.
+
+(5) This Act may be cited as the Neonatal Care (Leave and Pay) Act 2023.
+
+## SCHEDULE — Neonatal care leave and pay
+
+Section 1
+
+### PART 1 — Neonatal care leave
+
+**1.**[^key-6272e32f64858034284a0384ed00c1d7][^key-02cdc1f5c371416d849152dbe99cf8b1] The Employment Rights Act 1996 is amended as follows.
+
+**2.**[^key-462061c806b685c4fa45c147b61e44aa][^key-a6322975b0428df60cf232fbc26132e5] After section 80EE insert—
+
+> **CHAPTER 5 — Neonatal care leave**
+>
+> **80EF. Neonatal care leave**
+>
+> (1) The Secretary of State must make regulations entitling an employee to be absent from work on leave under this section if the employee satisfies conditions specified in the regulations as to a parental or other personal relationship with a child who is receiving, or has received, neonatal care.
+>
+> (2) The regulations must include provision for determining—
+>
+> - (a) the extent of an employee’s entitlement to leave under this section in respect of a child;
+> - (b) when leave under this section may be taken.
+>
+> (3) Provision under subsection (2)(a) must secure that where an employee is entitled to leave under this section in respect of a child the employee is entitled to at least a week’s leave.
+>
+> (4) Provision under subsection (2)(b) must secure that leave under this section must be taken before the end of a period of at least 68 weeks beginning with the date of the child’s birth.
+>
+> (5) An employee is entitled to leave under this section only if the neonatal care continues without interruption for a period of at least seven days beginning with the day after the day on which the care starts.
+>
+> (6) For the purposes of this Chapter, “**neonatal care**” means care—
+>
+> - (a) of a medical or palliative kind specified in the regulations, and
+> - (b) that starts before the end of a period of 28 days beginning with the day after the date of the child’s birth.
+>
+> (7) Regulations under subsection (6)(a) may specify a kind of care by reference to the kind of place at which care is provided.
+>
+> (8) The regulations may make provision about how leave under this section is to be taken.
+>
+> (9) In this section “**week**” means any period of seven days.
+>
+> **80EG. Rights during and after neonatal care leave**
+>
+> (1) Regulations under section 80EF must provide—
+>
+> - (a) that an employee who is absent on leave under that section is entitled, for such purposes and to such extent as the regulations may prescribe, to the benefit of the terms and conditions of employment which would have applied but for the absence,
+> - (b) that an employee who is absent on leave under that section is bound, for such purposes and to such extent as the regulations may prescribe, by obligations arising under those terms and conditions (except in so far as they are inconsistent with subsection (1) of that section), and
+> - (c) that an employee who is absent on leave under that section is entitled to return from leave to a job of a kind prescribed by regulations, subject to section 80EH.
+>
+> (2) The reference in subsection (1)(c) to absence on leave under section 80EF includes, where appropriate, a reference to a continuous period of absence attributable partly to leave under that section and partly to any one or more of the following—
+>
+> - (a) maternity leave,
+> - (b) paternity leave,
+> - (c) adoption leave,
+> - (d) shared parental leave,
+> - (e) parental leave, and
+> - (f) parental bereavement leave.
+>
+> (3) In subsection (1)(a), “terms and conditions of employment”—
+>
+> - (a) includes matters connected with an employee’s employment whether or not they arise under the contract of employment, but
+> - (b) does not include terms and conditions about remuneration.
+>
+> (4) Regulations under section 80EF may specify matters which are, or are not, to be treated as remuneration for the purposes of this section.
+>
+> (5) Regulations under section 80EF may make provision, in relation to the right to return mentioned in subsection (1)(c), about—
+>
+> - (a) seniority, pension rights and similar rights;
+> - (b) terms and conditions of employment on return.
+>
+> **80EH. Special cases**
+>
+> (1) Regulations under section 80EF may make provision about—
+>
+> - (a) redundancy during or after a period of leave under that section, or
+> - (b) dismissal (other than by reason of redundancy) during a period of leave under that section.
+>
+> (2) Provision by virtue of subsection (1) may include—
+>
+> - (a) provision requiring an employer to offer alternative employment;
+> - (b) provision for the consequences of failure to comply with the regulations (which may include provision for a dismissal to be treated as unfair for the purposes of Part 10).
+>
+> **80EI. Chapter 5: supplemental**
+>
+> (1) Regulations under section 80EF may—
+>
+> - (a) specify circumstances where neonatal care is to be regarded as continuous despite an interruption;
+> - (b) make provision about notices to be given, evidence to be produced and other procedures to be followed by employees and employers;
+> - (c) make provision requiring employers or employees to keep records;
+> - (d) make provision for the consequences of failure to give notices, to produce evidence, to keep records or to comply with other procedural requirements;
+> - (e) make provision for the consequences of failure to act in accordance with a notice given by virtue of paragraph (b);
+> - (f) make special provision for cases where an employee has a right which corresponds to a right under section 80EF and which arises under the person’s contract of employment or otherwise;
+> - (g) make provision modifying the effect of Chapter 2 of Part 14 (calculation of a week’s pay) in relation to an employee who is or has been absent from work on leave under section 80EF;
+> - (h) make provision applying, modifying or excluding an enactment, in such circumstances as may be specified and subject to any conditions which may be specified, in relation to a person entitled to take leave under section 80EF;
+> - (i) make different provision for different cases or circumstances;
+> - (j) make consequential provision.
+>
+> (2) The cases or circumstances mentioned in subsection (1)(i) include—
+>
+> - (a) more than one child (with whom an employee has a parental or other personal relationship) receiving neonatal care in specified circumstances;
+> - (b) a child receiving neonatal care on two or more separate occasions;
+>
+> and regulations may, in particular, make special provision regarding the applicability and extent of the entitlement to leave in such circumstances.
+
+**3.**[^key-3f54eb0a1ef3e0e7a34899ff441572e4][^key-cd6090d604d54111dd18e6dcb1b826f9] In section 236(3) (orders and regulations subject to affirmative procedure), after “80EA,” insert “80EF,”.
+
+### PART 2 — Neonatal care pay
+
+**4.**[^key-52365875a36962cf2808c93264dad163][^key-008b82eadc0781f81e769a5567ba8789] The Social Security Contributions and Benefits Act 1992 is amended as follows.
+
+**5.**[^key-39be7075e6fcdb14b42051367b4fa48a][^key-5a21352af006f9661479ef880515db4d] After section 171ZZ15 insert—
+
+> **PART 12ZE — Statutory neonatal care pay**
+>
+> **171ZZ16. Entitlement**
+>
+> (1) A person who satisfies the conditions in subsection (2) and any condition prescribed under subsection (3) is entitled in accordance with the following provisions of this Part to payments to be known as “**statutory neonatal care pay**”.
+>
+> (2) The conditions are—
+>
+> - (a) that—
+>   - (i) the person satisfies prescribed conditions as to a parental or other personal relationship with a child who is receiving, or has received, neonatal care, and
+>   - (ii) that care continues without interruption for a period of at least seven days beginning with the day after the day on which the care starts,
+> - (b) that the person has been in employed earner’s employment with an employer for a continuous period of at least 26 weeks ending with the relevant week,
+> - (c) that at the end of the relevant week the person was entitled to be in that employment (but see subsection (7)), and
+> - (d) that the person’s normal weekly earnings for the period of 8 weeks ending with the relevant week are not less than the lower earnings limit in force under section 5(1)(a) at the end of the relevant week.
+>
+> (3) Regulations may provide that a person is not entitled to pay in respect of a particular week or period of consecutive weeks unless, at the beginning of that week or period—
+>
+> - (a) the person is in employed earner’s employment with the employer by reference to whom the condition in subsection (2)(b) is satisfied, and
+> - (b) that employment has been continuous from the end of the relevant week.
+>
+> (4) For the purposes of this Part, “**neonatal care**” means care—
+>
+> - (a) of a prescribed medical or palliative kind, and
+> - (b) that starts before the end of a period of 28 days beginning with the day after the date of the child’s birth.
+>
+> (5) Regulations under subsection (4)(a) may prescribe a kind of care by reference to the kind of place at which care is provided.
+>
+> (6) In this section the “relevant week”—
+>
+> - (a) in any case where the person is entitled to statutory maternity pay under section 164 in respect of the child, is the week immediately preceding the 14th week before the expected week of confinement (within the meaning of Part 12);
+> - (b) in any case where the person is entitled to statutory paternity pay under section 171ZA (birth) in respect of the child, is the same week as the relevant week for the purposes of section 171ZA(2) in that case;
+> - (c) in any case where the person is entitled to statutory paternity pay under section 171ZB (adoption) in respect of the child, is the same week as the relevant week for the purposes of section 171ZB(2) in that case;
+> - (d) in any case where the person is entitled to statutory adoption pay under section 171ZL in respect of the child, is the same week as the relevant week for the purposes of section 171ZL(2) in that case;
+> - (e) in any other case, is the week immediately before the one in which the neonatal care starts.
+>
+> (7) In relation to neonatal care that starts before the day on which section 63(3) of the Welfare Reform Act 2012 comes fully into force, subsection (2) above is to be read as if paragraph (c) were omitted.
+>
+> **171ZZ17. Entitlement: supplementary**
+>
+> (1) A person is entitled to payments of statutory neonatal care pay in respect of any period only if the person gives notice to whoever is liable to make the payments stating the week or weeks in respect of which they are to be made.
+>
+> (2) Regulations may provide for the time by which notice under subsection (1) must be given.
+>
+> (3) The notice must be in writing if the person who is liable to pay the statutory neonatal care pay so requests.
+>
+> (4) The Secretary of State may by regulations—
+>
+> - (a) make special provision regarding the applicability and extent of the entitlement where a person satisfies the conditions in subsection (2) and (if applicable) subsection (3) of section 171ZZ16 in respect of—
+>   - (i) more than one child in prescribed circumstances;
+>   - (ii) a child receiving neonatal care on two or more separate occasions;
+> - (b) specify in what circumstances neonatal care is to be treated as continuous despite an interruption for the purposes of section 171ZZ16;
+> - (c) provide that subsection (2)(b), (2)(d) or (3) of section 171ZZ16 has effect subject to prescribed modifications in such cases as may be prescribed;
+> - (d) provide for circumstances in which section 171ZZ16(2)(c) does not have effect;
+> - (e) provide that subsection (1) of this section does not have effect, or has effect subject to prescribed modifications, in such cases as may be prescribed;
+> - (f) impose requirements about evidence of entitlement;
+> - (g) specify in what circumstances employment is to be treated as continuous for the purposes of section 171ZZ16;
+> - (h) provide that a person is to be treated for the purposes of section 171ZZ16 as being employed for a continuous period of at least 26 weeks where—
+>   - (i) the person has been employed by the same employer for at least 26 weeks under two or more separate con-tracts of service, and
+>   - (ii) those contracts were not continuous;
+> - (i) provide for amounts earned by a person under separate contracts of service with the same employer to be aggregated for the purposes of section 171ZZ16;
+> - (j) provide that—
+>   - (i) the amount of a person’s earnings for any period, or
+>   - (ii) the amount of the person’s earnings to be treated as comprised in any payment made to the person or for the person’s benefit,
+>
+>   is to be calculated or estimated for the purposes of section 171ZZ16 in such manner and on such basis as may be prescribed and that for that purpose payments of a particular class or description made or falling to be made to or by a person shall, to such extent as may be prescribed, be disregarded or, as the case may be, be deducted from the amount of the person’s earnings.
+>
+> **171ZZ18. Liability to make payments**
+>
+> (1) The liability to make payments of statutory neonatal care pay under section 171ZZ16 is a liability of any person of whom the person entitled to the payments has been an employee as mentioned in subsections (2)(b) and (3) of that section.
+>
+> (2) The Secretary of State must by regulations make provision as to a former employer’s liability to pay statutory neonatal care pay to a former employee in any case where the employee’s contract of service with the employer has been brought to an end by the employer solely, or mainly, for the purpose of avoiding liability for statutory neonatal care pay.
+>
+> (3) The Secretary of State may, with the concurrence of the Commissioners for His Majesty’s Revenue and Customs, by regulations specify circumstances in which, notwithstanding this section, liability to make payments of statutory neonatal care pay is to be a liability of the Commissioners.
+>
+> **171ZZ19. Rate and period of pay**
+>
+> (1) Statutory neonatal care pay is payable at such fixed or earnings-related weekly rate as may be prescribed by regulations, which may prescribe different kinds of rate for different cases.
+>
+> (2) Statutory neonatal care pay is payable in respect of—
+>
+> - (a) such week within the qualifying period, or
+> - (b) such number of weeks, not exceeding the prescribed number of weeks, within the qualifying period,
+>
+> as the person entitled may choose in accordance with regulations.
+>
+> (3) Provision under subsection (2)(b) must secure that the prescribed number of weeks is not less than 12.
+>
+> (4) Regulations under subsection (2)(b) may permit a person entitled to receive statutory neonatal care pay to choose to receive such pay in respect of non-consecutive periods each of which is a week or a number of weeks.
+>
+> (5) For the purposes of subsection (2), the qualifying period is to be determined in accordance with regulations, which must secure that it is a period of at least 68 weeks beginning with the date of the child’s birth.
+>
+> (6) A person is not liable to pay statutory neonatal care pay to another in respect of any statutory pay week during any part of which the other works under a contract of service with the person.
+>
+> (7) It is immaterial for the purposes of subsection (6) whether the work referred to in that subsection is work under a contract of service which existed immediately before the statutory pay week or a contract of service which did not so exist.
+>
+> (8) Except in such cases as may be prescribed, statutory neonatal care pay is not payable to a person in respect of a statutory pay week during any part of which the person works for any employer who is not liable to pay the person statutory neonatal care pay.
+>
+> (9) The Secretary of State may by regulations specify circumstances in which there is to be no liability to pay statutory neonatal care pay in respect of a statutory pay week.
+>
+> (10) Where for any purpose of this Part or of regulations it is necessary to calculate the daily rate of statutory neonatal care pay, the amount payable by way of statutory neonatal care pay for any day is to be taken as one seventh of the weekly rate.
+>
+> (11) In this section—
+>
+> - “**statutory pay week**”, in relation to a person entitled to statutory neonatal care pay, means a week chosen by the person as a week in respect of which statutory neonatal care pay is to be payable;
+> - “**week**” means any period of seven days.
+>
+> **171ZZ20. Restrictions on contracting out**
+>
+> (1) An agreement is void to the extent that it purports—
+>
+> - (a) to exclude, limit or otherwise modify any provision of this Part, or
+> - (b) to require a person to contribute (whether directly or indirectly) towards any costs incurred by that person’s employer or former employer under this Part.
+>
+> (2) An agreement between an employer and an employee, authorising any deductions from statutory neonatal care pay which the employer is liable to pay to the employee in respect of any period, is not void by virtue of subsection (1)(a) if the employer—
+>
+> - (a) is authorised by that or another agreement to make the same deductions from any contractual remuneration which the employer is liable to pay in respect of the same period, or
+> - (b) would be so authorised if the employer were liable to pay contractual remuneration in respect of that period.
+>
+> **171ZZ21. Relationship with contractual remuneration**
+>
+> (1) Subject to subsections (2) and (3), any entitlement to statutory neonatal care pay does not affect any right of a person in relation to remuneration under any contract of service (“**contractual remuneration**”).
+>
+> (2) Subject to subsection (3)—
+>
+> - (a) any contractual remuneration paid to a person by an employer of that person in respect of any period is to go towards discharging any liability of that employer to pay statutory neonatal care pay to that person in respect of that period; and
+> - (b) any statutory neonatal care pay paid by an employer to a person who is an employee of that employer in respect of any period is to go towards discharging any liability of that employer to pay contractual remuneration to that person in respect of that period.
+>
+> (3) Regulations may make provision as to payments which are, and those which are not, to be treated as contractual remuneration for the purposes of subsections (1) and (2).
+>
+> **171ZZ22. Crown employment**
+>
+> The provisions of this Part apply in relation to persons employed by or under the Crown as they apply in relation to persons employed otherwise than by or under the Crown.
+>
+> **171ZZ23. Special classes of person**
+>
+> (1) The Secretary of State may with the concurrence of the Treasury make regulations modifying any provision of this Part in such manner as the Secretary of State thinks proper in its application to any person who is, has been or is to be—
+>
+> - (a) employed on board any ship, vessel, hovercraft or aircraft;
+> - (b) outside Great Britain at any prescribed time or in any prescribed circumstances; or
+> - (c) in prescribed employment in connection with continental shelf operations, as defined in section 120(2).
+>
+> (2) Regulations under subsection (1) may, in particular, provide—
+>
+> - (a) for any provision of this Part to apply to any such person, notwithstanding that it would not otherwise apply;
+> - (b) for any such provision not to apply to any such person, notwithstanding that it would otherwise apply;
+> - (c) for excepting any such person from the application of any such provision where the person neither is domiciled nor has a place of residence in any part of Great Britain;
+> - (d) for the taking of evidence, for the purposes of the determination of any question arising under any such provision, in a country or territory outside Great Britain, by a British consular official or such other person as may be determined in accordance with the regulations.
+>
+> **171ZZ24. Supplementary**
+>
+> (1) In this Part—
+>
+> - “**employer**”, in relation to a person who is an employee, means a person who—
+>   - (a) under section 6 is liable to pay secondary Class 1 contributions in relation to any of the earnings of the person who is an employee, or
+>   - (b) would be liable to pay such contributions but for—
+>     - (i) the condition in section 6(1)(b), or
+>     - (ii) the employee being under the age of 16;
+> - “**modifications**” includes additions, omissions and amendments, and related expressions are to be read accordingly;
+> - “**prescribed**” means prescribed by regulations.
+>
+> (2) In this Part, “**employee**” means a person who is gainfully employed in Great Britain either under a contract of service or in an office (including elective office) with earnings (within the meaning of Parts 1 to 5).
+>
+> (3) Regulations may provide—
+>
+> - (a) for cases where a person who falls within the definition in subsection (2) is not to be treated as an employee for the purposes of this Part, and
+> - (b) for cases where a person who would not otherwise be an employee for the purposes of this Part is to be treated as an employee for those purposes.
+>
+> (4) Without prejudice to any other power to make regulations under this Part, regulations may specify cases in which, for the purposes of this Part or of such provisions of this Part as may be prescribed—
+>
+> - (a) two or more employers are to be treated as one;
+> - (b) two or more contracts of service in respect of which the same person is an employee are to be treated as one.
+>
+> (5) In this Part, except section 171ZZ19, “**week**” means a period of 7 days beginning with Sunday or such other period as may be prescribed in relation to any particular case or class of cases.
+>
+> (6) For the purposes of this Part, a person’s normal weekly earnings are, subject to subsection (8), to be taken to be the average weekly earnings which in the relevant period have been paid to the person or paid for the person’s benefit under the contract of service with the employer in question.
+>
+> (7) For the purposes of subsection (6), “earnings” and “relevant period” have the meanings given to them by regulations.
+>
+> (8) In such cases as may be prescribed, a person’s normal weekly earnings are to be calculated in accordance with regulations.
+>
+> (9) Where in consequence of the establishment of one or more National Health Service trusts under the National Health Service (Wales) Act 2006, a person’s contract of employment is treated by a scheme under that Act as divided so as to constitute two or more contracts, regulations may make provision enabling the person to elect for all of those contracts to be treated as one contract for the purposes of this Part or such provisions of this Part as may be prescribed.
+>
+> (10) Regulations under subsection (9) may prescribe—
+>
+> - (a) the conditions that must be satisfied if a person is to be entitled to make such an election;
+> - (b) the manner in which, and the time within which, such an election is to be made;
+> - (c) the persons to whom, and the manner in which, notice of such an election is to be given;
+> - (d) the information which a person who makes such an election is to provide, and the persons to whom, and the time within which, the person is to provide it;
+> - (e) the time for which such an election is to have effect;
+> - (f) which one of the person’s employers under two or more contracts is to be regarded for the purposes of statutory neonatal care pay as the person’s employer under the contract.
+>
+> (11) The powers under subsections (9) and (10) are without prejudice to any other power to make regulations under this Part.
+>
+> (12) Regulations under any of subsections (4) to (10) must be made with the concurrence of the Commissioners for His Majesty’s Revenue and Customs.
+
+**6.**[^key-105adaa9e3a04bb17de4bf2013288ed7][^key-275aa1a3d84d2d675c949b3df3d975c2] In section 176(1) (instruments subject to affirmative procedure), in paragraph (a), at the appropriate place insert—
+
+> - any of sections 171ZZ16 to 171ZZ19;
+
+.
+
+### PART 3 — Further amendments to do with neonatal care leave and pay
+
+#### Social Security Act 1989
+
+**7.**[^key-58cb7c90cb8b0c7f7103d78a549114b9][^key-68758dc8e7c0061694d4ae70e2c35fba] In Schedule 5 to the Social Security Act 1989 (employment-related schemes for pensions or other benefits to comply with the principle of equal treatment), after paragraph 5D insert—
+
+> **Unfair neonatal care leave provisions**
+>
+> **5E.** (1) Where an employment-related benefit scheme includes any unfair neonatal care leave provisions (irrespective of any differences on the basis of sex in the treatment accorded to members under those provisions), then—
+>
+> - (a) the scheme is to be regarded to that extent as not complying with the principle of equal treatment; and
+> - (b) subject to sub-paragraph (3), this Schedule is to apply accordingly.
+>
+> (2) In this paragraph “**unfair neonatal care leave provisions**”, in relation to an employment-related benefit scheme, means any provision—
+>
+> - (a) which relates to continuing membership of, or the accrual of rights under, the scheme during any period of paid neonatal care leave in the case of any member who is (or who, immediately before the commencement of such a period, was) an employed earner and which treats such a member otherwise than in accordance with the normal employment requirement; or
+> - (b) which requires the amount of any benefit payable under the scheme to or in respect of any such member, to the extent that it falls to be determined by reference to earnings during a period which included a period of paid neonatal care leave, to be determined otherwise than in accordance with the normal employment requirement.
+>
+> (3) In the case of any unfair neonatal care leave provision—
+>
+> - (a) the more favourable treatment required by paragraph 3(1) is treatment no less favourable than would be accorded to the member in accordance with the normal employment requirement; and
+> - (b) paragraph 3(2) does not authorise the making of any such election as is there mentioned;
+>
+> but, in respect of any period of paid neonatal care leave, a member is only required to pay contributions on the amount of contractual remuneration or statutory neonatal care pay actually paid to or for the member in respect of that period.
+>
+> (4) In this paragraph—
+>
+> - “the normal employment requirement” is the requirement that any period of paid neonatal care leave is to be treated as if it were a period throughout which the member in question works normally and receives the remuneration likely to be paid for doing so;
+> - “period of paid neonatal care leave”, in the case of a member, means any period—
+>   - (a) throughout which a member who (for the purposes of section 171ZZ16 of the Social Security Contributions and Benefits Act 1992) has a parental or other personal relationship with a child who is receiving, or has received, neonatal care is absent from work for that reason, otherwise than by virtue of a period of leave mentioned in sub-paragraph (5); and
+>   - (b) for which the employer (or if the member is no longer in that person’s employment, his former employer) pays the member any contractual remuneration or statutory neonatal care pay.
+>
+> (5) The periods of leave referred to in paragraph (a) of the definition of “period of paid neonatal care leave” are—
+>
+> - (a) a period of paid paternity leave (within the meaning of paragraph 5A),
+> - (b) a period of maternity leave (within the meaning of the Equality Act 2010),
+> - (c) a period of paid adoption leave (within the meaning of paragraph 5B),
+> - (d) a period of shared parental leave (within the meaning of paragraph 5C), or
+> - (e) a period of parental bereavement leave (within the meaning of paragraph 5D).
+
+#### Finance Act 1989
+
+**8.**[^key-0f6ec487f0d42452719fc361ed3bcb1b][^key-f4c17144b17a5f267170b3a74d69031c] (1) Section 182 of the Finance Act 1989 (offences relating to disclosure of information relating to social security functions etc) is amended as follows.
+
+(2) In subsections (1)(c), (2A)(a), (4)(c)(iii) and (5)(b), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+(3) In subsection (11A)—
+
+- (a) for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”;
+- (b) for “or Part 12ZD” substitute “, Part 12ZD or Part 12ZE”.
+
+#### Social Security Contributions and Benefits Act 1992
+
+**9.**[^key-5960ea7de280801a0608d3f59abcfc37][^key-b2431f24ba445a370a6ec0f2c359ab10] The Social Security Contributions and Benefits Act 1992 is amended as follows.
+
+**10.**[^key-75536906db48b915adfe5c67ee95f951][^key-bd2384761887af607615bac9d0fd0d2e] In section 1 (outline of contributory system), in subsection (5), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
+
+**11.**[^key-4a683fee1fd27b53147e7cf234027662][^key-210419e2ea9739e4f1b4a538d1df68cf] In section 4 (payments treated as remuneration and earnings), in subsection (1)(a)—
+
+- (a) omit “or” at the end of sub-paragraph (vi);
+- (b) at the end of sub-paragraph (vii) (but before the “and”) insert
+
+  > or
+  >
+  > - (viii) statutory neonatal care pay;
+
+  .
+
+**12.**[^key-b3a8b654859166ba19713cc834941e10][^key-ade99a10dac75ada67609e7997524619] In section 4AA (limited liability partnerships), in subsection (2), for “or 171ZZ14” substitute “, 171ZZ14 or 171ZZ24”.
+
+**13.**[^key-803a3689904bc2482bcd7ded2f34cb2f][^key-93384a60a0ceae9d3ee71b131242f310] In section 4C (power to make provision in consequence of provision made by or by virtue of section 4B etc), in subsection (11), in paragraph (a) of the definition of “statutory payment”, for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+#### Social Security Administration Act 1992
+
+**14.**[^key-f9cc68aa419f21f93e934a297c03d430][^key-95782d9c9ef6c4ea24154a4b9df61245] The Social Security Administration Act 1992 is amended as follows.
+
+**15.**[^key-265ffcfa17e1df4a96560d071c268ed9][^key-41ec853250197dbeae7710a509742f69] In section 5 (regulations about claims for and payments of benefits), in subsection (5), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
+
+**16.**[^key-19a7c7d3a580263786280d02d344733e][^key-0b3070e010f385334aa761b9956b3a56] In section 122AA (disclosure of contributions information etc by HMRC), in subsection (1), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+**17.**[^key-93afb8d7449163ca22ad81706d8f5a6c][^key-7aaa8d31ba6c550a5e6ba708d6ed862e] In section 150 (annual up-rating of benefits), in subsection (1)(j), for “or 171ZZ9(1)” substitute “, 171ZZ9(1) or 171ZZ19(1)”.
+
+**18.**[^key-3a2ace8d89c4bc677a1741e8325b649f][^key-6a588b474e223bb8524bed66e8081019] In section 163 (general financial arrangements), in subsection (1)(d), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+**19.**[^key-3ab006fa1daa98dded0e7f7c62a4c48f][^key-9bbdaa7e3e620159c933392d4f9be05d] (1) Section 165 (adjustments between the National Insurance Fund and the Consolidated Fund) is amended as follows.
+
+(2) In subsection (1)(b)—
+
+- (a) omit “and” at the end of sub-paragraph (vi);
+- (b) at the end of sub-paragraph (vii) insert
+
+  > , and
+  >
+  > - (viii) statutory neonatal care pay.
+
+(3) In subsection (5B)(a), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+#### Employment Rights Act 1996
+
+**20.**[^key-282f4a8540caa468b553e4a7f78e1778][^key-9b37b2cb9b4ac05d0a03c77d683bf214] The Employment Rights Act 1996 is amended as follows.
+
+**21.**[^key-2e9a746e99e847afe45cddc2c6a8e98a][^key-9c66130eba292ddc06bba1e328e24a51] In section 27 (meaning of “**wages**”), in subsection (1), after paragraph (cd) insert—
+
+> - (ce) statutory neonatal care pay under Part 12ZE of that Act,
+
+.
+
+**22.**[^key-df43acd63e984167a837e9e5c08211f7][^key-a41cedf12c8a7fc861226cf90bda68bd] In section 47C (leave for family and domestic reasons), in subsection (2), after paragraph (cb) (but before the “or”), insert—
+
+> - (cc) neonatal care leave,
+
+.
+
+**23.**[^key-afed14dd7bba3e2a3965164c01cdd8c8][^key-f781753728f636a261b6c5832e81a5b7] In section 75I (rights during and after shared parental leave), in subsection (3)—
+
+- (a) at the end of paragraph (e) omit “and”;
+- (b) at the end of paragraph (f) insert
+
+  > , and
+  >
+  > - (g) neonatal care leave.
+
+**24.**[^key-3a24de6fbadc8879d30a4cf7cbd29675][^key-9c62f7c69e8784ee377ff09f14e9d0f2] (1) Section 80C (rights during and after paternity leave) is amended as follows.
+
+(2) In subsection (2), after paragraph (bb) (but before the “and”) insert—
+
+> - (bc) neonatal care leave,
+
+.
+
+(3) In subsection (4), after paragraph (bb) insert—
+
+> - (bc) neonatal care leave,
+
+.
+
+**25.**[^key-41394740fae4b6c0075fef7413a05d17][^key-0619cc87e28e0e39ebcb46da174eaa19] In section 80EB (rights during and after bereavement leave), in subsection (2)—
+
+- (a) at the end of paragraph (d) omit “and”;
+- (b) at the end of paragraph (e) insert
+
+  > , and
+  >
+  > - (f) neonatal care leave.
+
+**26.**[^key-067a38b6c70869a1010e48c7a2498fcd][^key-6da8618f1e1ef83d1e4a6cad2cb6f4c1] (1) Section 88 (liability of employer to pay employee during period of notice: employments with normal working hours) is amended as follows.
+
+(2) In subsection (1)(c), after “parental bereavement leave,” insert “neonatal care leave,”.
+
+(3) In subsection (2), after “statutory parental bereavement pay,” insert “neonatal care pay, statutory neonatal care pay,”.
+
+**27.**[^key-da722efac75f7478954116fee9bd59e3][^key-4243d558bac851f60be27326656d7e3b] (1) Section 89 (effect of notice of termination: employments without normal working hours) is amended as follows.
+
+(2) In subsection (3)(b), after “parental bereavement leave,” insert “neonatal care leave,”.
+
+(3) In subsection (4), after “statutory parental bereavement pay,” insert “neonatal care pay, statutory neonatal care pay,”.
+
+**28.**[^key-a7e3e61774a3c51f50c4c40e88f16bdb][^key-bf90b40b1188f0964e44b0c981985409] In section 99 (leave for family reasons), in subsection (3), after paragraph (cb) (but before the “or”), insert—
+
+> - (cc) neonatal care leave,
+
+.
+
+**29.**[^key-9985001858459541e69c51efa202929e][^key-40a5f3b17c72b715b4a8fd8efc3a6678] In section 235 (definitions), in subsection (1)—
+
+- (a) at the appropriate place insert—
+
+  > - “**neonatal care leave**” means leave under section 80EF,
+
+  ;
+- (b) in the definition of “week”, in paragraph (b), after “80EA” insert “, 80EF”.
+
+#### Social Security Contributions (Transfer of Functions, etc.) Act 1999
+
+**30.**[^key-2cb6d1a5af901469dfd218dc93a66725][^key-5a3843483c9986c05912690eea8de305] The Social Security Contributions (Transfer of Functions, etc.) Act 1999 is amended as follows.
+
+**31.**[^key-5957d608cadc171d91f12df8b3a2344f][^key-4f9487b85a6a0847d0f4012b1aedbca4] (1) Section 8 (decisions by officers of Revenue and Customs) is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) in paragraph (f), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”;
+- (b) in paragraph (g), for “12ZD” substitute “12ZE”;
+- (c) in paragraph (g), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”;
+- (d) in paragraph (ga), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+(3) In subsection (3)(b), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+**32.**[^key-133613a38bfebd076ad43ab7c70d434a][^key-69b2972527b7ce8828211f2781d8f401] In section 11 (appeals against decisions of officers of Revenue and Customs), in subsection (2)(a), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+**33.**[^key-34e783bc5d7e8b6fbab524cb9483d825][^key-c09a2d71cc7728b069a39ddb58dc453d] In section 14 (matters arising as respects decisions), in subsections (1)(a)(i) and (3), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+#### Finance Act 1999
+
+**34.**[^key-a30d74de3b554fc7eedd0e8ffc6a5f90][^key-472071e586b4164993a11044732cdffe] (1) Sections 132 and 133 of the Finance Act 1999 have effect as if statutory neonatal care pay were a matter which is under the care and management of the Commissioners for Revenue and Customs.
+
+(2) In this paragraph “**statutory neonatal care pay**” includes statutory pay under Northern Ireland legislation corresponding to the provisions of Part 12ZE of the Social Security Contributions and Benefits Act 1992.
+
+#### Employment Act 2002
+
+**35.**[^key-99c8d6c6171be7c80635f57ce093351f][^key-04c7b319f2537c795b296a3efb6c787f] The Employment Act 2002 is amended as follows.
+
+**36.**[^key-7c16299d5989747e226766cffc103d74][^key-da8da32f5b9e487e3947e45313519c36] (1) Section 7 (funding of employers’ liabilities as regards certain statutory pay) is amended as follows.
+
+(2) In subsection (1), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
+
+(3) In subsection (2)(a) and (b), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+(4) In subsection (3)—
+
+- (a) for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”;
+- (b) omit “or” at the end of paragraph (c);
+- (c) at the end of paragraph (d) insert
+
+  > , or
+  >
+  > - (e) the period for which the payment of statutory neonatal care pay is made,
+
+  .
+
+**37.**[^key-002011a007e694c5d9e9971eb372d7c7][^key-ef89c442d6f975464f4e4108907a807c] In section 8 (regulations about payment), in subsections (1) and (2)(a), (b) and (d), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
+
+**38.**[^key-8dea6b9dfb153269a9121e1626f95401][^key-67b9c6fc6dc5529828796f4c313e4411] In section 10 (powers to require information), in subsections (1) and (2)(a), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+**39.**[^key-ffbe105c6b913f2d9ad347e5613d0390][^key-a17bd2dc3d520e51e641187ecc985f70] In section 11 (penalties for failure to comply), in subsection (6), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+**40.**[^key-50bc5bcd103c906ff4c9b5c809e0f0cc][^key-43b464ab703e9b6588d791a3d83b8b51] In section 12 (penalties for fraud or negligence), in subsections (2)(a), (2)(b) and (4), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory neonatal care pay”.
+
+**41.**[^key-b8d5752f61fa89fe86e02c612dfc442d][^key-8d2619ee1a2c2f5b8b71825eb15a56c8] In section 13 (supply of information held by His Majesty’s Revenue and Customs), in subsection (1), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+**42.**[^key-4c1e28ee5b24c76e97ccc542066096fa][^key-fd89f2b21c2ea810256378c61c988129] In section 14 (supply of information held by the Secretary of State), in subsections (1) and (2), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+
+**43.**[^key-09da8a57ec35b39391d2b11827a10897][^key-7eb4146fc3864af271854bba4827e7ee] In section 15 (use of information by His Majesty’s Revenue and Customs), in subsection (2)—
+
+- (a) omit “and” at the end of paragraph (bb);
+- (b) after paragraph (bb) insert—
+
+  > - (bc) their functions in relation to statutory neonatal care pay; and
+
+  .
+
+**44.**[^key-bf29638f6c26e5385fd29921ea1ab2d2][^key-96f524b59969f2d8063acc6dbb73ec8a] In section 55 (short title etc), in subsection (8)—
+
+- (a) for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”;
+- (b) for “or Part 12ZD” substitute “, Part 12ZD or Part 12ZE”.
+
+#### Proceeds of Crime Act 2002
+
+**45.**[^key-260039f106a72db2026c91a1d20f7394][^key-0aa94be1fed5b82610397a7bb0a2aa01] (1) Section 323 of the Proceeds of Crime Act 2002 (Revenue functions) is amended as follows.
+
+(2) In subsection (1), after paragraph (hb) insert—
+
+> - (hc) statutory neonatal care pay;
+
+.
+
+(3) In subsection (4), after paragraph (eb) insert—
+
+> - (ec) “statutory neonatal care pay” must be construed in accordance with section 171ZZ16 of that Act;
+
+.
+
+(4) In subsection (5), after paragraph (eb) insert—
+
+> - (ec) “statutory neonatal care pay” must be construed in accordance with any Northern Ireland legislation which corresponds to Part 12ZE of that Act;
+
+.
+
+#### Income Tax (Earnings and Pensions) Act 2003
+
+**46.**[^key-55016be86f07cfa77667428583b05f66][^key-55edee9268ee65224c788b2a1f2df0c5] The Income Tax (Earnings and Pensions) Act 2003 is amended as follows.
+
+**47.**[^key-a9dea0e06f5c26d887ace9e4e63f618f][^key-f28947f7938acaa4c73f4916f6bbe671] (1) Section 660 (taxable benefits: UK benefits - Table A) is amended as follows.
+
+(2) In subsection (1), in Table A, after the entry relating to statutory parental bereavement pay insert—
+
+> <table>
+> <tbody>
+> <tr><td rowspan="2">Statutory neonatal care pay</td><td>SSCBA 1992</td><td>Section 171ZZ16</td></tr>
+> <tr><td colspan="2">Any provision made for Northern Ireland which corresponds to section 171ZZ16 of SSCBA 1992</td></tr>
+> </tbody>
+> </table>
+
+.
+
+(3) In subsection (2), after the entry relating to statutory parental bereavement pay insert— “statutory neonatal care pay;”.
+
+**48.**[^key-34ecc73d0641c5c37aecdb1f5e26edb9][^key-936afa6ebe75ae5f19f5a48a567866b5] (1) Schedule 5 (enterprise management incentives) is amended as follows.
+
+(2) In paragraph 12A(4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
+
+(3) In paragraph 26(3)(b), after “parental bereavement leave” insert “, neonatal care leave”.
+
+#### Commissioners for Revenue and Customs Act 2005
+
+**49.**[^key-bdda0de66c09273a0317f28be05154e5][^key-a8a19a9bc4104006cfa7be51ca83a396][^key-91c64463f07b2ca965df8dcae4c7f531] In Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (former Inland Revenue matters where functions vest in officers of Revenue and Customs), after paragraph 26C insert—
+
+> **26D.** Statutory neonatal care pay.
+
+#### Income Tax Act 2007
+
+**50.**[^key-eb345c3e0162d8d54037325a4e0062f1][^key-ecf66d1eebbb833e3ae1e893d0f7099f] The Income Tax Act 2007 is amended as follows.
+
+**51.**[^key-b9131b206ba47cda096f0cb8ebe47537][^key-2db40526655d4637b1406939c2932b12] In section 186A (enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
+
+**52.**[^key-253a2b164b4ad999a99834a1f6ede18d][^key-9e79b8e952ba17b93488666fc8105705] In section 257DJ (seed enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
+
+**53.**[^key-2d493a2acb75b5aa830a794bfaae81a6][^key-626ddcf4e7493517f26cbd1eee39435c] In section 257MH (tax relief for social investments: the number of employees requirement), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
+
+**54.**[^key-e942e48c5dfc4436cc5bd6810d9c6156][^key-2d94091bdc75f3478ace3c7d255cfb7c] In section 297A (venture capital trusts: the number of employees requirement for a qualifying holding), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
+
+#### Welfare Reform Act 2007
+
+**55.**[^key-6c04781b95f15c98a2cb21fb5ce6e859][^key-bf7ec55eaf9beb113252488ab7b5133d] (1) Section 20 of the Welfare Reform Act 2007 (relationship with statutory payments) is amended as follows.
+
+(2) After subsection (7) insert—
+
+> (7A) Except as regulations may provide, a person who is entitled to statutory neonatal care pay is not entitled to an employment and support allowance in respect of a day that falls within a period in respect of which statutory neonatal care pay is payable.
+>
+> (7B) Regulations may provide that—
+>
+> - (a) an amount equal to a person’s statutory neonatal care pay for a period shall be deducted from an employment and support allowance in respect of the same period,
+> - (b) a person shall only be entitled to an employment and support allowance if there is a balance after the deduction, and
+> - (c) if there is such a balance, a person shall be entitled to an employment and support allowance at a weekly rate equal to it.
+
+(3) The references to an employment and support allowance in new subsections (7A) and (7B), and in sub-paragraph (4) of this paragraph, are references to an employment and support allowance payable under Part 1 of the Welfare Reform Act 2007 as amended by the Welfare Reform Act 2012.
+
+(4) For as long as a contributory allowance continues to be payable, new subsections (7A) and (7B) are to apply to a contributory allowance as they apply to an employment and support allowance.
+
+(5) In this paragraph—
+
+- (a) “**new subsections (7A) and (7B)**” means subsections (7A) and (7B) inserted by this paragraph into section 20 of the Welfare Reform Act 2007;
+- (b) “**contributory allowance**” has the meaning given by section 1(7) of the Welfare Reform Act 2007 before its repeal by the Welfare Reform Act 2012.
+
+(6) In subsection (8), in the definition of “the adoption pay period”, for “that Act” substitute “the Contributions and Benefits Act”.
+
+#### Pensions Act 2008
+
+**56.**[^key-6fe2d596270dfb4db99bc0b29c1fb355][^key-62d7ee16fe44810efbe07126233cd444] In section 13 of the Pensions Act 2008 (qualifying earnings), in subsection (3), after paragraph (eb) insert—
+
+> - (ec) statutory neonatal care pay under Part 12ZE of that Act;
+
+.
+
+#### Corporation Tax Act 2009
+
+**57.**[^key-237dad264751bd2152a2141a63a9f14d][^key-f8c7cf8ad848bce1e3d959bdac4a06fe] In section 1058B of the Corporation Tax Act 2009 (PAYE and NIC liabilities), in subsection (5), after paragraph (e) insert—
+
+> - (ea) statutory neonatal care pay;
+
+.
+
+#### Finance Act 2013
+
+**58.**[^key-b3e0d3d2050793a645bb23a5a48f35aa][^key-f012b280de33401e6e83a3d85fccd5f8] In Schedule 45 to the Finance Act 2013 (statutory residence test), in paragraph 145, in the definition of “parenting leave”, for “or parental bereavement leave” substitute “, parental bereavement leave or neonatal care leave”.
+
+## Annotations
+
+[^key-06167612f1acd7d2642db76ac1e64740]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-ea64d9c8bdf37f652ae601a8b5675771]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/20/section/1) in force at 21.8.2023 for specified purposes by [S.I. 2023/904](https://www.legislation.gov.uk/uksi/2023/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/904/regulation/2/a)
+
+[^key-efab6c662b00fc5a1fdfe48552e025bb]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/20/section/1) in force at 17.1.2025 in so far as not already in force by virtue of [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-302184efa6bd5991e99e51319c3866e5]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-4e904ba344c36e0cb8a67a684b64e644]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/20/section/2) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-7de971120ec150d48f4d44c8e2dcee73]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/4)
+
+[^key-6272e32f64858034284a0384ed00c1d7]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-02cdc1f5c371416d849152dbe99cf8b1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/1) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-462061c806b685c4fa45c147b61e44aa]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-a6322975b0428df60cf232fbc26132e5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/2) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-3f54eb0a1ef3e0e7a34899ff441572e4]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-cd6090d604d54111dd18e6dcb1b826f9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/3) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-52365875a36962cf2808c93264dad163]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-008b82eadc0781f81e769a5567ba8789]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/4) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-39be7075e6fcdb14b42051367b4fa48a]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-5a21352af006f9661479ef880515db4d]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/5) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-105adaa9e3a04bb17de4bf2013288ed7]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-275aa1a3d84d2d675c949b3df3d975c2]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/6) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-58cb7c90cb8b0c7f7103d78a549114b9]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-68758dc8e7c0061694d4ae70e2c35fba]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/7) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-0f6ec487f0d42452719fc361ed3bcb1b]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-f4c17144b17a5f267170b3a74d69031c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/8) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-5960ea7de280801a0608d3f59abcfc37]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-b2431f24ba445a370a6ec0f2c359ab10]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/9) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-75536906db48b915adfe5c67ee95f951]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-bd2384761887af607615bac9d0fd0d2e]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/10) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-4a683fee1fd27b53147e7cf234027662]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-210419e2ea9739e4f1b4a538d1df68cf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/11) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-b3a8b654859166ba19713cc834941e10]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-ade99a10dac75ada67609e7997524619]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/12) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-803a3689904bc2482bcd7ded2f34cb2f]: Commencement: Sch. para. 13 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-93384a60a0ceae9d3ee71b131242f310]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/13) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-f9cc68aa419f21f93e934a297c03d430]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-95782d9c9ef6c4ea24154a4b9df61245]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/14) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-265ffcfa17e1df4a96560d071c268ed9]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-41ec853250197dbeae7710a509742f69]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/15) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-19a7c7d3a580263786280d02d344733e]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-0b3070e010f385334aa761b9956b3a56]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/16) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-93afb8d7449163ca22ad81706d8f5a6c]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-7aaa8d31ba6c550a5e6ba708d6ed862e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/17) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-3a2ace8d89c4bc677a1741e8325b649f]: Commencement: Sch. para. 18 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-6a588b474e223bb8524bed66e8081019]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/18) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-3ab006fa1daa98dded0e7f7c62a4c48f]: Commencement: Sch. para. 19 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-9bbdaa7e3e620159c933392d4f9be05d]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/19) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-282f4a8540caa468b553e4a7f78e1778]: Commencement: Sch. para. 20 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-9b37b2cb9b4ac05d0a03c77d683bf214]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/20) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-2e9a746e99e847afe45cddc2c6a8e98a]: Commencement: Sch. para. 21 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-9c66130eba292ddc06bba1e328e24a51]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/21) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-df43acd63e984167a837e9e5c08211f7]: Commencement: Sch. para. 22 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-a41cedf12c8a7fc861226cf90bda68bd]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/22) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-afed14dd7bba3e2a3965164c01cdd8c8]: Commencement: Sch. para. 23 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-f781753728f636a261b6c5832e81a5b7]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/23) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-3a24de6fbadc8879d30a4cf7cbd29675]: Commencement: Sch. para. 24 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-9c62f7c69e8784ee377ff09f14e9d0f2]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/24) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-41394740fae4b6c0075fef7413a05d17]: Commencement: Sch. para. 25 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-0619cc87e28e0e39ebcb46da174eaa19]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/25) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-067a38b6c70869a1010e48c7a2498fcd]: Commencement: Sch. para. 26 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-6da8618f1e1ef83d1e4a6cad2cb6f4c1]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/26) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-da722efac75f7478954116fee9bd59e3]: Commencement: Sch. para. 27 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-4243d558bac851f60be27326656d7e3b]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/27) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-a7e3e61774a3c51f50c4c40e88f16bdb]: Commencement: Sch. para. 28 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-bf90b40b1188f0964e44b0c981985409]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/28) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-9985001858459541e69c51efa202929e]: Commencement: Sch. para. 29 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-40a5f3b17c72b715b4a8fd8efc3a6678]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/29) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-2cb6d1a5af901469dfd218dc93a66725]: Commencement: Sch. para. 30 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-5a3843483c9986c05912690eea8de305]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/30) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-5957d608cadc171d91f12df8b3a2344f]: Commencement: Sch. para. 31 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-4f9487b85a6a0847d0f4012b1aedbca4]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/31) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-133613a38bfebd076ad43ab7c70d434a]: Commencement: Sch. para. 32 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-69b2972527b7ce8828211f2781d8f401]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/32) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-34e783bc5d7e8b6fbab524cb9483d825]: Commencement: Sch. para. 33 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-c09a2d71cc7728b069a39ddb58dc453d]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/33) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-a30d74de3b554fc7eedd0e8ffc6a5f90]: Commencement: Sch. para. 34 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-472071e586b4164993a11044732cdffe]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/34) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-99c8d6c6171be7c80635f57ce093351f]: Commencement: Sch. para. 35 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-04c7b319f2537c795b296a3efb6c787f]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/35) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-7c16299d5989747e226766cffc103d74]: Commencement: Sch. para. 36 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-da8da32f5b9e487e3947e45313519c36]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/36) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-002011a007e694c5d9e9971eb372d7c7]: Commencement: Sch. para. 37 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-ef89c442d6f975464f4e4108907a807c]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/37) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-8dea6b9dfb153269a9121e1626f95401]: Commencement: Sch. para. 38 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-67b9c6fc6dc5529828796f4c313e4411]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/38) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-ffbe105c6b913f2d9ad347e5613d0390]: Commencement: Sch. para. 39 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-a17bd2dc3d520e51e641187ecc985f70]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/39) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-50bc5bcd103c906ff4c9b5c809e0f0cc]: Commencement: Sch. para. 40 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-43b464ab703e9b6588d791a3d83b8b51]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/40) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-b8d5752f61fa89fe86e02c612dfc442d]: Commencement: Sch. para. 41 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-8d2619ee1a2c2f5b8b71825eb15a56c8]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/41) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-4c1e28ee5b24c76e97ccc542066096fa]: Commencement: Sch. para. 42 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-fd89f2b21c2ea810256378c61c988129]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/42) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-09da8a57ec35b39391d2b11827a10897]: Commencement: Sch. para. 43 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-7eb4146fc3864af271854bba4827e7ee]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/43) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-bf29638f6c26e5385fd29921ea1ab2d2]: Commencement: Sch. para. 44 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-96f524b59969f2d8063acc6dbb73ec8a]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/44) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-260039f106a72db2026c91a1d20f7394]: Commencement: Sch. para. 45 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-0aa94be1fed5b82610397a7bb0a2aa01]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/45) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-55016be86f07cfa77667428583b05f66]: Commencement: Sch. para. 46 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-55edee9268ee65224c788b2a1f2df0c5]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/46) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-a9dea0e06f5c26d887ace9e4e63f618f]: Commencement: Sch. para. 47 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-f28947f7938acaa4c73f4916f6bbe671]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/47) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-34ecc73d0641c5c37aecdb1f5e26edb9]: Commencement: Sch. para. 48 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-936afa6ebe75ae5f19f5a48a567866b5]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/48) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-bdda0de66c09273a0317f28be05154e5]: Commencement: Sch. para. 49 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-a8a19a9bc4104006cfa7be51ca83a396]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/49) in force at 21.8.2023 for specified purposes by [S.I. 2023/904](https://www.legislation.gov.uk/uksi/2023/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/904/regulation/2/b)
+
+[^key-91c64463f07b2ca965df8dcae4c7f531]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/49) in force at 17.1.2025 in so far as not already in force by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-eb345c3e0162d8d54037325a4e0062f1]: Commencement: Sch. para. 50 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-ecf66d1eebbb833e3ae1e893d0f7099f]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/50) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-b9131b206ba47cda096f0cb8ebe47537]: Commencement: Sch. para. 51 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-2db40526655d4637b1406939c2932b12]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/51) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-253a2b164b4ad999a99834a1f6ede18d]: Commencement: Sch. para. 52 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-9e79b8e952ba17b93488666fc8105705]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/52) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-2d493a2acb75b5aa830a794bfaae81a6]: Commencement: Sch. para. 53 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-626ddcf4e7493517f26cbd1eee39435c]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/53) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-e942e48c5dfc4436cc5bd6810d9c6156]: Commencement: Sch. para. 54 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-2d94091bdc75f3478ace3c7d255cfb7c]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/54) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-6c04781b95f15c98a2cb21fb5ce6e859]: Commencement: Sch. para. 55 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-bf7ec55eaf9beb113252488ab7b5133d]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/55) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-6fe2d596270dfb4db99bc0b29c1fb355]: Commencement: Sch. para. 56 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-62d7ee16fe44810efbe07126233cd444]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/56) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-237dad264751bd2152a2141a63a9f14d]: Commencement: Sch. para. 57 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-f8c7cf8ad848bce1e3d959bdac4a06fe]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/57) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+
+[^key-b3e0d3d2050793a645bb23a5a48f35aa]: Commencement: Sch. para. 58 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+
+[^key-f012b280de33401e6e83a3d85fccd5f8]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/58) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)

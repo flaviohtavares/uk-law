@@ -1,0 +1,52 @@
+---
+title: Transport Act 1968, section 61A
+act: Transport Act 1968
+section: 61A
+status: repealed
+text_date: '2024-05-07'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1968/73/section/61A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Transport Act 1968, section 61A
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 61A. Maximum numbers of vehicles.[^c15320581]
+
+*Extent: E+W+S*
+
+**No longer in force (ended 1996-01-01).**
+
+(1) An operator’s licence—
+
+- (a) shall specify a maximum number for motor vehicles; and
+- (b) may specify a maximum number for motor vehicles the relevant weight of which exceeds a weight specified in the licence.
+
+(2) An operator’s licence that does not contain a provision such as is mentioned in section 61(1A)(c) of this Act—
+
+- (a) shall specify a maximum number for trailers; and
+- (b) may specify a maximum number for trailers the relevant weight of which exceeds a weight specified in the licence.
+
+(3) The number of vehicles being used under an operator’s licence by virtue of section 61(1)(c) of this Act at any one time may not exceed the maximum number specified in the licence under subsection (1)(a) of this section, less however many motor vehicles are specified in the licence.
+
+(4) Where under subsection (1)(b) of this section an operator’s licence specifies a maximum number for motor vehicles the relevant weight of which exceeds a specified weight—
+
+- (a) the number of such vehicles being used under the licence by virtue of section 61(1)(c) of this Act at any one time may not exceed that maximum number, less however many motor vehicles the relevant weight of which exceeds the specified weight are specified in the licence; and
+- (b) the number of such vehicles that are specified in the licence and being used under it at any one time may not exceed that maximum number.
+
+(5) The number of trailers being used under an operator’s licence at any one time may not exceed the maximum number specified in the licence under subsection (2)(a) of this section.
+
+(6) Where under subsection (2)(b) of this section an operator’s licence specifies a maximum number for trailers the relevant weight of which exceeds a specified weight, the number of such trailers being used under the licence at any one time may not exceed that maximum number.
+
+(7) The definition of “**relevant weight**” in section 61(1B) of this Act applies for the purposes of this section as it applies for the purposes of section 61(1A).
+
+(8) If subsection (3), (4)(a) or (b), (5) or (6) of this section is contravened, the licence-holder shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+## Annotations
+
+[^c15320581]: Textual amendment: S. 61A inserted (*prosp.*) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 42(3)](https://www.legislation.gov.uk/ukpga/1994/40/section/42/3), [82(4)](https://www.legislation.gov.uk/ukpga/1994/40/section/82/4)

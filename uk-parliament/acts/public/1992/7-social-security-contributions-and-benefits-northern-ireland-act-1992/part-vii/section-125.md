@@ -1,0 +1,83 @@
+---
+title: Social Security Contributions and Benefits (Northern Ireland) Act 1992, section 125
+act: Social Security Contributions and Benefits (Northern Ireland) Act 1992
+section: '125'
+status: revised-with-pending-changes
+text_date: '2026-07-09'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/7/section/125
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Security Contributions and Benefits (Northern Ireland) Act 1992, section 125
+
+> **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 125. Trade disputes.
+
+*Extent: N.I.*
+
+(1) This section applies to a person, other than a child or a person of a prescribed description—
+
+- (a) who is prevented from being entitled to a jobseeker’s allowance by Article 16 of the Jobseekers (Northern Ireland) Order 1995 (trade disputes)[^c16393021]; or
+- (b) who would be so prevented[^c16393031] if otherwise entitled to that benefit,
+
+except during any period shown by the person to be a period of incapacity for work [^c16393041]... or to be within the maternity period.
+
+(2) In subsection (1) above “**the maternity period**” means the period commencing at the beginning of the 6th week before the expected week of confinement and ending at the end of the 7th week after the week in which confinement takes place.
+
+(3) For the purpose of calculating income support—
+
+- (a) so long as this section applies to a person who is not a member of a family, the applicable amount shall be disregarded;
+- (b) so long as it applies to a person who is a member of a family but is not a member of a couple[^key-b019cdbb24e3d933c367d6b919881246], the portion of the applicable amount which is included in respect of him shall be disregarded;
+- (c) so long as it applies to one of the members of a couple[^key-3cc4ec7bf710a412bc52dc982fe60f5f]—
+  - (i) if the applicable amount consists only of an amount in respect of them, it shall be reduced to one-half; and
+  - (ii) if it includes other amounts, the portion of it which is included in respect of them shall be reduced to one-half and any further portion of it which is included in respect of the member of the couple to whom this section applies shall be disregarded;
+- (d) so long as it applies to both the members of a couple[^key-87006c5c3221bcab4aea9505fd683580]—
+  - (i) if neither of them is responsible for a child or person of a prescribed description who is a member of the same household, the applicable amount shall be disregarded; and
+  - (ii) in any other case, the portion of the applicable amount which is included in respect of them and any further portion of it which is included in respect of either of them shall be disregarded.
+
+(4) Where a reduction under subsection (3)(c) above would not produce a sum which is a multiple of 5p, the reduction shall be to the nearest lower sum which is such a multiple.
+
+(5) Where this section applies to a person for any period, then, except so far as regulations provide otherwise—
+
+- (a) in calculating the entitlement to income support of that person or a member of his family the following shall be treated as his income and shall not be disregarded—
+  - (i) any payment which he or a member of his family receives or is entitled to obtain by reason of the person to whom this section applies being without employment for that period; and
+  - (ii) without prejudice to the generality of sub-paragraph (i) above, any amount which becomes or would on an application duly made become available to him in that period by way of repayment of income tax deducted from his taxable earnings (as defined by section 10 of the Income Tax (Earnings and Pensions) Act 2003) under[^key-63a99854dcde44faf2f15095fb118dca] PAYE regulations; and
+- (b) any payment by way of income support for that period or any part of it which apart from this paragraph would be made to him, or to a person whose applicable amount is aggregated with his—
+  - (i) shall not be made if the weekly rate of payment is equal to or less than the relevant sum; or
+  - (ii) if it is more than the relevant sum, shall be at a weekly rate equal to the difference.
+
+(6) In respect of any period less than a week, subsection (5) above shall have effect subject to such modifications as may be prescribed.
+
+(7) Subject to subsection (8) below, “**the relevant sum**” for the purposes of subsection (5) above shall be £53.00[^key-305066a72271d1d560152ab7a8b5f3b3].
+
+(8) If an order under section 132 of the Administration Act (annual up-rating) has the effect of increasing payments of income support, from the time when the order comes into operation there shall be substituted, in subsection (5)(b) above, for the references to the sum for the time being mentioned in it references to a sum arrived at by—
+
+- (a) increasing that sum by the percentage by which the personal allowance under paragraph 1(1) of Part I of Schedule 2 to the [^c16393071]Income Support (General) Regulations (Northern Ireland) 1987 for a single person aged not less than 25 has been increased by the order; and
+- (b) if the sum as so increased is not a multiple of 50p, disregarding the remainder if it is 25p and, if it is not, rounding it up or down to the nearest 50p,
+
+and the order shall state the substituted sum.
+
+## Annotations
+
+[^c16393021]: Textual amendment: Words in s. 125(1)(a) substituted (7.10.1996) by [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705), [art. 40(1)](https://www.legislation.gov.uk/nisi/1995/2705/article/40/1), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/nisi/1995/2705/schedule/2/paragraph/14/a); [S.R. 1996/401](https://www.legislation.gov.uk/nisr/1996/401), [art. 2](https://www.legislation.gov.uk/nisr/1996/401/article/2)
+
+[^c16393031]: Textual amendment: Word in s. 125(1)(b) substituted (7.10.1996) by [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705), [art. 40(1)](https://www.legislation.gov.uk/nisi/1995/2705/article/40/1), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/nisi/1995/2705/schedule/2/paragraph/14/b); [S.R. 1996/401](https://www.legislation.gov.uk/nisr/1996/401), [art. 2](https://www.legislation.gov.uk/nisr/1996/401/article/2)
+
+[^c16393041]: Textual amendment: Words in s. 125(1) repealed (13.4.1995) by [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898), [art. 13(1)(2)](https://www.legislation.gov.uk/nisi/1994/1898/article/13/1/2), [Sch. 1 Pt. I para. 31](https://www.legislation.gov.uk/nisi/1994/1898/schedule/1/part/I/paragraph/31), [Sch. 2](https://www.legislation.gov.uk/nisi/1994/1898/schedule/2); [S.R. 1994/450](https://www.legislation.gov.uk/nisr/1994/450), [art. 2(d)](https://www.legislation.gov.uk/nisr/1994/450/article/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/1994/450/schedule/part/IV)
+
+[^key-b019cdbb24e3d933c367d6b919881246]: Textual amendment: Words in [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/125/3/b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 97](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/97); [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule)
+
+[^key-3cc4ec7bf710a412bc52dc982fe60f5f]: Textual amendment: Words in [s. 125(3)(c)](https://www.legislation.gov.uk/ukpga/1992/7/section/125/3/c) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 97](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/97); [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule)
+
+[^key-87006c5c3221bcab4aea9505fd683580]: Textual amendment: Words in [s. 125(3)(d)](https://www.legislation.gov.uk/ukpga/1992/7/section/125/3/d) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 97](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/97); [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule)
+
+[^key-63a99854dcde44faf2f15095fb118dca]: Textual amendment: Words in s. 125(5)(a)(ii) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 200](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/200) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+
+[^key-305066a72271d1d560152ab7a8b5f3b3]: Textual amendment: Sum in [s. 125(7)](https://www.legislation.gov.uk/ukpga/1992/7/section/125/7) substituted (coming into force in accordance with art. 1(1)(g) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(g)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/g), [22](https://www.legislation.gov.uk/nisr/2026/59/article/22)
+
+[^c16393071]: Marginal citation: S.R. (N.I.) [1987 No. 459](https://www.legislation.gov.uk/ukcm/1987/459).

@@ -1,0 +1,183 @@
+---
+title: The Building (Approved Inspectors etc.) (Amendment) Regulations 1995
+id: uksi/1995/1387
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-05-31'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/1387
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/1387/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building (Approved Inspectors etc.) (Amendment) Regulations 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 1387
+
+BUILDING AND BUILDINGS
+
+The Building (Approved Inspectors etc.) (Amendment) Regulations 1995
+
+Made
+
+31st May 1995
+
+Laid before Parliament
+
+6th June 1995
+
+Coming into force
+
+1st July 1995
+
+The Secretary of State for the Environment, in exercise of the powers conferred on him by sections 1(1), 16(9), 17(1) and (6), 35, 47(1), (2), (3) and (4), 49(5), 50(1), (4), (6) and (7), 51(1) and 52(2) of, and paragraphs 1(b), 2(d), 3, 7 and 10 of Schedule 1 to, the Building Act 1984[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Building (Approved Inspectors etc.) (Amendment) Regulations 1995 and shall come into force on 1st July 1995.
+
+## 2. Amendments
+
+The Building (Approved Inspectors etc.) Regulations 1985[^f00002] shall be amended in accordance with the following provisions of these Regulations.
+
+## 3. Termination of approval or designation
+
+In regulation 6, in paragraph (4), delete “(other than a body corporate)” and, after “by whom the approval was given”, substitute “may” for “shall”.
+
+## 4. Initial notice
+
+In regulation 8(4), for “ten”, substitute “five”.
+
+## 5. Independence of approved inspectors
+
+In regulation 9(5), at the end, add—
+
+> or (c) work involving the underpinning of a building;
+
+.
+
+## 6. Functions of approved inspectors
+
+In regulation 10(1), for sub-paragraph (c), substitute “the requirements of regulation 10A are complied with.”.
+
+## 7. Energy ratings
+
+After regulation 10, insert—
+
+> **10A. Energy ratings**
+>
+> (1) In this regulation, “building work” and “material change of use” have the meanings given in regulations 3(1) and 5 respectively of the Building Regulations 1991[^f00003].
+>
+> (2) Where a new dwelling is created by building work or by a material change of use in connection with which building work is carried out, the person carrying out the building work shall, if he has not already done so under paragraph (3) or (4) below, calculate the energy rating of the dwelling by means of a procedure approved by the Secretary of State and shall not later than five days after completion of the dwelling give notice of that rating to the approved inspector who gave the initial notice in relation to the dwelling.
+>
+> (3) Where the work described in an initial notice includes the erection of a new dwelling, and—
+>
+> - (a) the dwelling is occupied, and
+> - (b) no final certificate is given,
+>
+> the person carrying out the work shall calculate the energy rating of the dwelling by means of a procedure approved by the Secretary of State and shall not later than eight weeks beginning with the date of occupation give notice of that rating to the approved inspector who gave the initial notice in relation to the dwelling.
+>
+> (4) Where the building work described in an initial notice is in connection with a material change of use in relation to a dwelling, and
+>
+> - (a) that change of use takes place, and
+> - (b) no final certificate is given,
+>
+> the person carrying out the work shall calculate the energy rating of the dwelling by means of a procedure approved by the Secretary of State and shall not later than eight weeks beginning with the date on which the change of use takes place give notice of that rating to the approved inspector who gave the initial notice in relation to the dwelling.
+
+.
+
+## 8. Period for rejecting plans certificate
+
+In regulation 13(3), for “ten”, substitute “five”.
+
+## 9. Events causing initial notice to cease to be in force
+
+(1) In regulation 16(1), for “one week”, substitute “four weeks”.
+
+(2) In regulation 16(2), (3) and (4), for “six weeks”, on each occasion that it occurs, substitute “eight weeks”.
+
+## 10. Cancellation of initial notice
+
+In regulation 17(1), for “shall”, substitute “may”.
+
+## 11. Section 24 of the Act
+
+Delete—
+
+- (a) regulation 11(2);
+- (b) in regulation 11(3), “or (2)”; and
+- (c) in regulation 16(2)(b)(i), “or is one to which section 24 of the Act (provision of exits etc.) applies”.
+
+## 12. Contravention of certain regulations not to be an offence
+
+In regulation 29, for “regulation 18”, substitute “regulations 10A and 18”.
+
+## 13. Amendments to Schedules 2 and 5
+
+(1) In Schedule 2, delete paragraphs 5 and 10 of Form 4 and renumber the remaining paragraphs accordingly.
+
+(2) In Schedule 5, delete paragraph 6 and renumber the remaining paragraphs accordingly.
+
+## 14. Transitional provisions
+
+(1) Where—
+
+- (a) the condition specified in sub-paragraph (a) of paragraph (2) applies, the amendments contained in regulations 4 and 8 shall not apply; and
+- (b) the conditions specified in paragraph (2) apply, the amendments contained in regulations 6, 7, 9 and 10 shall not apply,
+
+and the Building (Approved Inspectors etc.) Regulations 1985 shall apply to a notice or any building work mentioned in that paragraph as if those amendments had not been made.
+
+(2) The conditions are that—
+
+- (a) before 1st July 1995 an initial notice or a public body’s notice has been given in accordance with sections 47(1) or 54(1), respectively, of the Building Act 1984; and
+- (b) building work is carried out after that date in accordance with such a notice whether with or without any departure from it.
+
+Signed by authority of the Secretary of State for the Environment
+
+Robert Jones
+
+Parliamentary Under Secretary of State,
+
+Department of the Environment
+
+31st May 1995
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Building (Approved Inspectors etc.) Regulations 1985.
+
+Regulation 3 replaces the duty to withdraw the approval of an approved inspector where he has been convicted of an offence under section 57 (false or misleading notices and certificates etc.) of the Building Act 1984 with a discretion to do so. The discretion applies to an approved inspector whether or not it is a body corporate.
+
+Regulations 4, 8 and 9 amend certain time limits.
+
+Regulation 5 amends regulation 9 of the 1985 Regulations so as to allow an approved inspector to supervise work involving the underpinning of a building in which he has a professional or financial interest.
+
+Regulation 6 amends the functions of an approved inspector so as to include a duty to ensure that new regulation 10A is complied with.
+
+Regulation 7 introduces a new regulation 10A which places a duty on a person who is carrying out building work in certain circumstances to calculate an energy rating and to notify the approved inspector of that energy rating. The procedure described in Appendix G to Approved Document L (Conservation of fuel and power 1995 edition which is obtainable from HMSO) will be approved by the Secretary of State as a means of calculating the energy rating required by new regulation 10A.
+
+Regulation 10 amends regulation 17(1) of the 1985 Regulations so as to replace the duty of the approved inspector to issue a notice where there is in his opinion a contravention of the building regulations with a discretion to do so.
+
+Regulation 11 removes references to section 24 of the 1984 Act the requirements of which are now contained in building regulations.
+
+Regulation 12 excludes new regulation 10A from designation as a regulation to which section 35 of the 1984 Act does not apply.
+
+Regulation 13 removes the requirement for an approved inspector to certify in the final certificate that the work covered by the certificate does not include any building or extension over a sewer or that he has consulted the fire authority in accordance with regulation 11 of the 1985 Regulations.
+
+Regulation 14 contains transitional provisions.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). See section 126 for the definition of “prescribed”.
+
+[^f00002]: Footnote: S.I. [1985/1066](https://www.legislation.gov.uk/uksi/1985/1066) to which there are amendments not relevant to these Regulations.
+
+[^f00003]: Footnote: S.I. [1991/2768](https://www.legislation.gov.uk/uksi/1991/2768). Regulation 5 is amended by S.I. [1995/1356](https://www.legislation.gov.uk/uksi/1995/1356).

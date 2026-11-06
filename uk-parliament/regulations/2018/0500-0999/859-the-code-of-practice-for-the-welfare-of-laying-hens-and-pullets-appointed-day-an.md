@@ -1,0 +1,92 @@
+---
+title: The Code of Practice for the Welfare of Laying Hens and Pullets (Appointed Day and Revocation) (England) Order 2018
+id: uksi/2018/859
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2018-07-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2018/859
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/859/pdfs/uksiem_20180859_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/859/pdfs/uksi_20180859_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/859/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Code of Practice for the Welfare of Laying Hens and Pullets (Appointed Day and Revocation) (England) Order 2018
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2018 No. 859
+
+Animals, England
+
+Animal Welfare
+
+The Code of Practice for the Welfare of Laying Hens and Pullets (Appointed Day and Revocation) (England) Order 2018
+
+Made
+
+17th July 2018
+
+The Secretary of State makes this Order in exercise of the powers conferred by sections 15(5) and (7) and 17(1) and (2) of the Animal Welfare Act 2006[^f00001] (“the Act”).
+
+In accordance with section 15(1) of the Act, the Secretary of State published a draft code of practice, consulted on the draft such persons appearing to the Secretary of State to represent any interests concerned as the Secretary of State considered appropriate and considered any representations made by them.
+
+In accordance with section 15(2) of the Act, the Secretary of State laid a draft of the code of practice referred to in article 2 of this instrument before Parliament on 5th June 2018.
+
+In accordance with section 15(4) of the Act, neither House having resolved within a period of forty days[^f00002] not to approve the draft, the Secretary of State issued the code in the form of the draft.
+
+## 1. Citation
+
+This Order may be cited as the Code of Practice for the Welfare of Laying Hens and Pullets (Appointed Day and Revocation) (England) Order 2018.
+
+## 2. Appointed day
+
+The day appointed for the coming into force of the Code of Practice for the Welfare of Laying Hens and Pullets is 8th August 2018.
+
+## 3. Revocation
+
+The Code of Recommendations for the Welfare of Livestock: Laying Hens[^f00003] is revoked on 8th August 2018.
+
+## 4. Transitional provision
+
+(1) This article applies in relation to any proceedings arising from a complaint (whenever presented) alleging that a person has, before 8th August 2018, caused unnecessary suffering to an animal under section 4 of the Animal Welfare Act 2006.
+
+(2) Where this article applies—
+
+- (a) the Code of Practice referred to in article 2 has no effect for the purposes of section 4 of the Animal Welfare Act 2006, and
+- (b) the Code of Recommendations referred to in article 3 continues to have effect for the purposes of that section.
+
+Gardiner of Kimble
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+17th July 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order appoints 8th August 2018 as the day on which the Code of Practice for the Welfare of Laying Hens and Pullets comes into force in England.
+
+Article 3 revokes the previous Code of Recommendations for the Welfare of Livestock: Laying Hens.
+
+Article 4 provides that the new Code of Practice will not apply to proceedings relating to any alleged act causing unnecessary suffering to an animal committed before 8th August 2018. In such cases, the previous Code of Recommendations will continue to apply. This is for the purposes of section 14(4) of the Animal Welfare Act [2006 (c.45)](https://www.legislation.gov.uk/ukpga/2006/45), which provides that failure to comply with a relevant provision of a code of practice may be relied upon as tending to establish liability, and compliance with a relevant provision of such a code of practice may be relied upon as tending to negative liability.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.45](https://www.legislation.gov.uk/ukpga/2006/45).
+
+[^f00002]: Footnote: Laid before Parliament on 5th June 2018.
+
+[^f00003]: Footnote: Originally a Code of Recommendations for the welfare of livestock issued under section 3 of the Agriculture (Miscellaneous Provisions) Act [1968 (c.34)](https://www.legislation.gov.uk/ukpga/1968/34), which became a Welfare Code through article 3(1)(c) of [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711).

@@ -1,0 +1,27 @@
+---
+title: Criminal Justice Act 1967, section 59
+act: Criminal Justice Act 1967
+section: '59'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1967/80/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice Act 1967, section 59
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/80
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 59. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7284101][^c7284111]
+
+*Extent: E+W+S*
+
+## Annotations
+
+[^c7284101]: Textual amendment: [Ss. 59](https://www.legislation.gov.uk/ukpga/1967/80/section/59), [60](https://www.legislation.gov.uk/ukpga/1967/80/section/60) repealed (S.) by [Prisons (Scotland) Act 1989 (c. 45, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1989/45), [s. 45(2)](https://www.legislation.gov.uk/ukpga/1989/45/section/45/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1989/45/schedule/3)
+
+[^c7284111]: Textual amendment: [Ss. 59 to 64](https://www.legislation.gov.uk/ukpga/1967/80/section/59) repealed (E.W.) (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 101(2)](https://www.legislation.gov.uk/ukpga/1991/53/section/101/2), [Sch.13](https://www.legislation.gov.uk/ukpga/1991/53/schedule/13); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2)

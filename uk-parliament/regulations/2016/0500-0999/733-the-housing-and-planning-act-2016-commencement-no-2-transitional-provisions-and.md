@@ -1,0 +1,268 @@
+---
+title: The Housing and Planning Act 2016 (Commencement No.2, Transitional Provisions and Savings) Regulations 2016
+id: uksi/2016/733
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-07-11'
+text_date: '2017-07-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/733
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/733/pdfs/uksi_20160733_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/733/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing and Planning Act 2016 (Commencement No.2, Transitional Provisions and Savings) Regulations 2016
+
+> Text as at 2017-07-19.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2016 No. 733 (C. 53)
+
+Housing, England
+
+Town And Country Planning, England
+
+Acquisition Of Land, England And Wales
+
+The Housing and Planning Act 2016 (Commencement No.2, Transitional Provisions and Savings) Regulations 2016
+
+Made
+
+11th July 2016
+
+The Secretary of State, in exercise of the powers conferred by sections 212 and 216(3) of the Housing and Planning Act 2016[^f00001] and section 104 of the Deregulation Act 2015[^f00002], makes the following Regulations:
+
+## 1. Citation and Interpretation[^key-58461366666c0037cb450833da093880]
+
+These Regulations may be cited as the Housing and Planning Act 2016 (Commencement No.2, Transitional Provisions and Savings) Regulations 2016.
+
+**2.**[^key-df3485042ea9bf1c7e963374ee2f0be3] In these Regulations, “the Act” means the Housing and Planning Act 2016.
+
+## 3. Provisions coming into force on 13th July 2016[^key-2acb8d01fa55f68010c9f606f8d733dd]
+
+The following provisions of the Act come into force on 13th July 2016—
+
+- (a) section 12 (self-build and custom housebuilding: further and consequential amendments);
+- (b) section 66 (voluntary right to buy: monitoring compliance);
+- (c) sections 143 and 144 (local planning);
+- (d) section 150(4) and 150(5) (permission in principle for development of land) and Schedule 12, excluding paragraph 27;
+- (e) section 152(2) to 152(4) (approval condition where development order grants permission for building);
+- (f) section 154 (planning freedoms: right for local areas to request alterations to planning system);
+- (g) sections 169 and 170 (new towns);
+- (h) sections 172 to 179 (right to enter and survey land) and Schedule 14;
+- (i) section 182 (time limits for notice to treat or general vesting declaration);
+- (j) section 190 and Schedule 16 (abolition of alternative possession procedure following notice to treat);
+- (k) section 201 (power to quash decision to confirm compulsory purchase order);
+- (l) section 202 (extension of compulsory purchase time limit during challenge);
+- (m) sections 203 to 206 (power to override easements and other rights) and Schedule 19 (amendments to do with sections 203 and 204).
+
+## 4. Provisions coming into force on 1st October 2016[^key-1e94ef297accb8e98eb20ed1e02f9cd9]
+
+(1) The following provisions of the Act come into force on 1st October 2016—
+
+- (a) section 132 (estate agents: lead enforcement authority);
+- (b) sections 141 and 142 (neighbourhood planning);
+- (c) section 145(1) to 145(4) (intervention by Secretary of State);
+- (d) section 146 (Secretary of State’s default powers);
+- (e) section 147 and Schedule 11 (default powers exercisable by Mayor of London or combined authority);
+- (f) section 148 (costs of independent examinations held by Secretary of State);
+- (g) section 156 (local planning authorities: information about neighbourhood development plans);
+- (h) section 171 (sustainable drainage).
+
+(2) For the purposes of the reference to “a report of the kind mentioned in section 75ZA(1)” in subsection (1)(a) of section 75ZB inserted in the Town and Country Planning Act 1990[^f00003] (“the 1990 Act”) by section 156 of the Act, section 155 of the Act (which inserts section 75ZA in the 1990 Act) is treated as if it were in force.
+
+## 5. Provisions coming into force on 31st<sup></sup>October 2016[^key-54a03e0670a4b92bafb37dff5a4b5a34]
+
+Sections 9, 10 and 11 of the Act (self-build and custom housebuilding) come into force on 31st October 2016.
+
+## 6. Saving and transitional provisions[^key-d6ebbf0b48d2f4b7685ea321c80f7e8a]
+
+(1) The amendments made by section 179 of, and Schedule 14 to, the Act (right to enter and survey land: consequential amendments) do not apply in relation to a case where a person is authorised to enter and survey or value land under any of the relevant provisions and gives notice of the intended entry to the owner or occupier of the land before 13th July 2016.
+
+(2) The relevant provisions are—
+
+- (a) section 16(1) of the Defence Act 1842[^f00004];
+- (b) section 25(1) of the Coast Protection Act 1949[^f00005];
+- (c) section 108(1) of the National Parks and Access to the Countryside Act 1949[^f00006];
+- (d) section 21(1) of the Land Powers (Defence) Act 1958[^f00007];
+- (e) section 26(1) of the Caravan Sites and Control of Development Act 1960[^f00008];
+- (f) section 60(1) of the Criminal Justice Act 1972[^f00009];
+- (g) paragraph 14(1) of Schedule 4 to the Welsh Development Agency Act 1975[^f00010];
+- (h) section 15(1) of the Local Government (Miscellaneous Provisions) Act 1976[^f00011];
+- (i) section 43(1) of the Ancient Monuments and Archaeological Areas Act 1979[^f00012];
+- (j) section 167(1) of the Local Government, Planning and Land Act 1980[^f00013];
+- (k) section 289(1) of the Highways Act 1980[^f00014];
+- (l) section 73(1) of the New Towns Act 1981[^f00015];
+- (m) section 50(2) of the Civil Aviation Act 1982[^f00016];
+- (n) section 14(6) of the Industrial Development Act 1982[^f00017];
+- (o) section 54(1)(a) of the Housing Act 1985[^f00018];
+- (p) section 97(1)(a) of the Local Government and Housing Act 1989[^f00019];
+- (q) paragraph 10(1) of Schedule 4 to the Electricity Act 1989[^f00020];
+- (r) section 324(6) of the Town and Country Planning Act 1990[^f00021];
+- (s) section 88(5) of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00022];
+- (t) section 64(1)(a) or (b) of the Land Drainage Act 1991[^f00023];
+- (u) section 169(1) of the Water Industry Act 1991[^f00024];
+- (v) section 171(1) of the Water Resources Act 1991[^f00025];
+- (w) paragraph (2)(1) of Schedule 6 to the Postal Services Act 2000[^f00026];
+- (x) section 17(1) of the Housing and Regeneration Act 2008[^f00027].
+
+**7.**[^key-ca2e735770132486187036a023835c44] The amendments made by section 182 of the Act (time limits for notice to treat or general vesting declaration) do not apply in relation to a compulsory purchase order which becomes operative before 13th July 2016.
+
+**8.**[^key-5772cf60f2967a2b05e902c6c6a42c70] The amendment made by section 201 of the Act (power to quash decision to confirm compulsory purchase order) does not apply in relation to an application to the High Court under section 23 of the Acquisition of Land Act 1981[^f00028] which is made before 13th July 2016.
+
+**9.**[^key-8db201501c9d688c3ae5a221f1f84e63] The amendments made by section 202 of the Act (extension of compulsory purchase time limit during challenge) do not apply in relation to an application under section 23 of the Acquisition of Land Act 1981 which is made in respect of a compulsory purchase order which becomes operative before 13th July 2016.
+
+**10.**[^key-7f76b363abe8b100fbc4f1095bf59b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Amendment of provisions expressed by reference to commencement[^key-0790c3ede59bb9cf3844efd82f5479d8]
+
+(1) The Self-build and Custom Housebuilding Act 2015[^f00031] is amended as follows.
+
+(2) In section 2A, in subsection (4)(b), for “the day before the day on which section 10 of the Housing and Planning Act 2016 comes into force” substitute “30 October 2016”.
+
+**12.**[^key-64356ba3811b36c0ae790ef72e5f2bb4] (1) The Act is amended as follows.
+
+(2) In section 10, in subsection (3), for “the commencement of this section” substitute “31 October 2016”.
+
+(3)[^key-4497ff958c76aecc274736f56f3c288a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 205(1), in the definition of “other qualifying land”, for “the day on which this section comes into force” substitute “13 July 2016”.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Brandon Lewis
+
+Minister of State
+
+Department for Communities and Local Government
+
+11th July 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force various provisions of the Housing and Planning Act [2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22) (“the Act”) on the dates specified.
+
+Regulation 3 brings the provisions of the Act which are listed into force on 13th July 2016. Paragraph 27 of Schedule 12 is not commenced as it amends a provision that has since been repealed.
+
+Regulation 4 brings the provisions of the Act which are listed into force on 1st October 2016.
+
+Regulation 5 brings the provisions of the Act which are listed into force on 31st October 2016.
+
+Regulations 6 to 10 make saving and transitional provision in relation to compulsory purchase.
+
+Regulation 6 makes transitional provision in relation to the coming into force of section 179 of, and Schedule 14, to the Act, so that the amendments made by that Schedule do not apply in relation to a case where a person is authorised to enter land under any of the relevant provisions and gives notice of the intended entry to the owner or occupier of the land before 13th July 2016.
+
+Regulation 7 makes transitional provision in relation to the coming into force of section 182 of the Act. It ensures that new section 4 of the Compulsory Purchase Act [1965 (c.56)](https://www.legislation.gov.uk/ukpga/1965/56) (time limit for giving notice to treat) and new section 5A of the Compulsory Purchase (Vesting Declarations) Act [1981 (c.66)](https://www.legislation.gov.uk/ukpga/1981/66) (time limit for general vesting declaration) do not apply in relation to a compulsory purchase order which becomes operative before 13th July 2016.
+
+Regulation 8 makes transitional provision in relation to the coming into force of section 201 of the Act. It ensures that the amendment made by section 201 of the Act to section 24 of the Acquisition of Land Act [1981 (c.67)](https://www.legislation.gov.uk/ukpga/1981/67) (“ALA 1981”) does not apply in relation to an application under section 23 of the ALA 1981 which is made before 13th July 2016.
+
+Regulation 9 makes transitional provision in relation to the coming into force of section 202 of the Act. It ensures that the amendments made by section 202 of the Act to the Compulsory Purchase Act 1965 and the Compulsory Purchase (Vesting Declaration) Act 1981 do not apply in relation to an application under section 23 of the ALA 1981 which is made in respect of a compulsory purchase order which becomes operative before 13th July 2016.
+
+Regulation 10 makes saving provision, so that, despite the Regulations commencing paragraphs 12 and 16 of Schedule 19 to the Act on 13th July 2016, Part 1 of Schedule 3 to the Housing and Regeneration Act [2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17) and section 333ZB of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29) continue to apply, as they did before that date, in relation to a company or body through which the Greater London Authority exercises functions in relation to housing or regeneration and to land which has been vested in or acquired by such a company or body for the purposes of housing or regeneration (whether before or after these Regulations come into force).
+
+Regulations 11 and 12 make minor amendments to section 2A of the Self-build and Custom Housebuilding Act [2015 (c.17)](https://www.legislation.gov.uk/ukpga/2015/17) and to section 10 of the Act to specify the coming into force date of section 10 of the Act, and to sections 203 and 205 of the Act to replace references to “the day on which this section comes into force” with the actual coming into force date of these sections.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+| Provision | Date of Commencement | S.I. No. |
+| --- | --- | --- |
+| sections 64, 65, 67, 68 and 145(5) | 26th May 2016 | [2016/609](https://www.legislation.gov.uk/uksi/2016/609) |
+
+## Annotations
+
+[^f00001]: Footnote: [2016 c.22](https://www.legislation.gov.uk/ukpga/2016/22).
+
+[^f00002]: Footnote: [2015 c.20](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^key-58461366666c0037cb450833da093880]: Commencement: Reg. 1 in force at 11.7.2016 at made date
+
+[^key-df3485042ea9bf1c7e963374ee2f0be3]: Commencement: Reg. 2 in force at 11.7.2016 at made date
+
+[^key-2acb8d01fa55f68010c9f606f8d733dd]: Commencement: Reg. 3 in force at 11.7.2016 at made date
+
+[^key-1e94ef297accb8e98eb20ed1e02f9cd9]: Commencement: Reg. 4 in force at 11.7.2016 at made date
+
+[^f00003]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^key-54a03e0670a4b92bafb37dff5a4b5a34]: Commencement: Reg. 5 in force at 11.7.2016 at made date
+
+[^key-d6ebbf0b48d2f4b7685ea321c80f7e8a]: Commencement: Reg. 6 in force at 11.7.2016 at made date
+
+[^f00004]: Footnote: [1842 c. 94](https://www.legislation.gov.uk/ukpga/1842/94); section 16(1) was amended by the Statute Law Revision (No 2) Act [1888 (c. 57)](https://www.legislation.gov.uk/ukpga/1888/57) and by [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177).
+
+[^f00005]: Footnote: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74); section 25(1) was amended by the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), section 31 and Schedule 2, paragraphs 1 and 18.
+
+[^f00006]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97); section 108(1) was amended by the Highways Act [1959 (c. 25)](https://www.legislation.gov.uk/ukpga/1959/25), section 312(2) and Schedule 25, and by the London Government Act [1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33), sections 16(2) and 93(1) and Schedule 6, paragraph 70, and Schedule 18, Part 2.
+
+[^f00007]: Footnote: [1958 c. 30](https://www.legislation.gov.uk/ukpga/1958/30).
+
+[^f00008]: Footnote: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62).
+
+[^f00009]: Footnote: [1972 c. 71](https://www.legislation.gov.uk/ukpga/1972/71).
+
+[^f00010]: Footnote: [1975 c. 70](https://www.legislation.gov.uk/ukpga/1975/70); paragraph 14(1) of Schedule 4 was amended by [S.I. 2005/3226](https://www.legislation.gov.uk/uksi/2005/3226).
+
+[^f00011]: Footnote: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57). Paragraph 1(2)(b) of Schedule 8 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) provides that section 15 of the Local Government (Miscellaneous Provisions) Act 1976 applies in relation to a National Park Authority as if the authority were a local authority for the purposes of that Act.
+
+[^f00012]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
+
+[^f00013]: Footnote: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
+
+[^f00014]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00015]: Footnote: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64).
+
+[^f00016]: Footnote: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
+
+[^f00017]: Footnote: [1982 c. 52](https://www.legislation.gov.uk/ukpga/1982/52); section 14(6) was amended by the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), section 4 and Schedule 2, paragraph 57.
+
+[^f00018]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
+
+[^f00019]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^f00020]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^f00021]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00022]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).
+
+[^f00023]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
+
+[^f00024]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^f00025]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57); section 171(1) was amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120 and Schedule 22, paragraph 128, and by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^f00026]: Footnote: [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26).
+
+[^f00027]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17). Section 333ZD of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29) provides that section 17 of the Housing and Regeneration Act 2008 applies in relation to the Greater London Authority and land in Greater London as it applies in relation to the Homes and Communities Agency and land outside Greater London. Section 210 of the Localism Act [2011(c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) provides that section 17 of the Housing and Regeneration Act 2008 applies in relation to a Mayoral Development Corporation as it applies in relation to the Homes and Communities Agency.
+
+[^key-ca2e735770132486187036a023835c44]: Commencement: Reg. 7 in force at 11.7.2016 at made date
+
+[^key-5772cf60f2967a2b05e902c6c6a42c70]: Commencement: Reg. 8 in force at 11.7.2016 at made date
+
+[^f00028]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67); an amendment has been made to section 23 but it is not relevant to these Regulations.
+
+[^key-8db201501c9d688c3ae5a221f1f84e63]: Commencement: Reg. 9 in force at 11.7.2016 at made date
+
+[^key-7f76b363abe8b100fbc4f1095bf59b10]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/733/regulation/10) revoked (19.7.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 37(5)(a)](https://www.legislation.gov.uk/ukpga/2017/20/section/37/5/a), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/i)
+
+[^key-0790c3ede59bb9cf3844efd82f5479d8]: Commencement: Reg. 11 in force at 11.7.2016 at made date
+
+[^f00031]: Footnote: [2015 c.17](https://www.legislation.gov.uk/ukpga/2015/17). Section 2A is inserted by section 10 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
+
+[^key-64356ba3811b36c0ae790ef72e5f2bb4]: Commencement: Reg. 12 in force at 11.7.2016 at made date
+
+[^key-4497ff958c76aecc274736f56f3c288a]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2016/733/regulation/12/3) revoked (19.7.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 37(5)(b)](https://www.legislation.gov.uk/ukpga/2017/20/section/37/5/b), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/i)

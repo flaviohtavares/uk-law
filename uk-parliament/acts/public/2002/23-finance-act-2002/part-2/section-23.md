@@ -1,0 +1,93 @@
+---
+title: Finance Act 2002, section 23
+act: Finance Act 2002
+section: '23'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2002/23/section/23
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2002, section 23
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 23. Flat-rate scheme
+
+*Extent: E+W+S+N.I.*
+
+(1) In Part 1 of the Value Added Tax Act 1994 (c. 23) (the charge to tax), after section 26A (inserted by section 22 above) insert—
+
+> **26B. Flat-rate scheme**
+>
+> (1) The Commissioners may by regulations make provision under which, where a taxable person so elects, the amount of his liability to VAT in respect of his relevant supplies in any prescribed accounting period shall be the appropriate percentage of his relevant turnover for that period.
+>
+> A person whose liability to VAT is to any extent determined as mentioned above is referred to in this section as participating in the flat-rate scheme.
+>
+> (2) For the purposes of this section—
+>
+> - (a) a person’s “**relevant supplies**” are all supplies made by him except supplies made at such times or of such descriptions as may be specified in the regulations;
+> - (b) the “**appropriate percentage**” is the percentage so specified for the category of business carried on by the person in question;
+> - (c) a person’s “**relevant turnover**” is the total of—
+>   - (i) the value of those of his relevant supplies that are taxable supplies, together with the VAT chargeable on them, and
+>   - (ii) the value of those of his relevant supplies that are exempt supplies.
+>
+> (3) The regulations may designate certain categories of business as categories in relation to which the references in subsection (1) above to liability to VAT are to be read as references to entitlement to credit for VAT.
+>
+> (4) The regulations may provide for persons to be eligible to participate in the flat-rate scheme only in such cases and subject to such conditions and exceptions as may be specified in, or determined by or under, the regulations.
+>
+> (5) Subject to such exceptions as the regulations may provide for, a participant in the flat-rate scheme shall not be entitled to credit for input tax.
+>
+> This is without prejudice to subsection (3) above.
+>
+> (6) The regulations may—
+>
+> - (a) provide for the appropriate percentage to be determined by reference to the category of business that a person is expected, on reasonable grounds, to carry on in a particular period;
+> - (b) provide, in such circumstances as may be prescribed, for different percentages to apply in relation to different parts of the same prescribed accounting period;
+> - (c) make provision for determining the category of business to be regarded as carried on by a person carrying on businesses in more than one category.
+>
+> (7) The regulations may provide for the following matters to be determined in accordance with notices published by the Commissioners—
+>
+> - (a) when supplies are to be treated as taking place for the purposes of ascertaining a person’s relevant turnover for a particular period;
+> - (b) the method of calculating any adjustments that fall to be made in accordance with the regulations in a case where a person begins or ceases to participate in the flat-rate scheme.
+>
+> (8) The regulations may make provision enabling the Commissioners—
+>
+> - (a) to authorise a person to participate in the flat-rate scheme with effect from—
+>   - (i) a day before the date of his election to participate, or
+>   - (ii) a day that is not earlier than that date but is before the date of the authorisation;
+> - (b) to direct that a person shall cease to be a participant in the scheme with effect from a day before the date of the direction.
+>
+>   The day mentioned in paragraph (a)(i) above may be a day before the date on which the regulations come into force.
+>
+> (9) Regulations under this section—
+>
+> - (a) may make different provision for different circumstances;
+> - (b) may make such incidental, supplemental, consequential or transitional provision as the Commissioners think fit, including provision disapplying or applying with modifications any provision contained in or made under this Act.
+
+.
+
+(2) In section 83 of that Act (appeals), after paragraph (f) insert—
+
+> - (fza) a decision of the Commissioners—
+>   - (i) refusing or withdrawing authorisation for a person’s liability to pay VAT (or entitlement to credit for VAT) to be determined as mentioned in subsection (1) of section 26B;
+>   - (ii) as to the appropriate percentage or percentages (within the meaning of that section) applicable in a person’s case.
+
+.
+
+(3) In section 84 of that Act (further provisions relating to appeals), after subsection (4) insert—
+
+> (4ZA) Where an appeal is brought—
+>
+> - (a) against such a decision as is mentioned in section 83(fza), or
+> - (b) to the extent that it is based on such a decision, against an assessment,
+>
+> the tribunal shall not allow the appeal unless it considers that the Commissioners could not reasonably have been satisfied that there were grounds for the decision.
+
+.
+
+(4) This section shall be deemed to have come into force on 24th April 2002.

@@ -1,0 +1,581 @@
+---
+title: The Waste and Agriculture (Legislative Functions) Regulations 2022
+id: uksi/2022/190
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-02-25'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2022/190
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/190/pdfs/uksiem_20220190_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/190/pdfs/uksi_20220190_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/190/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waste and Agriculture (Legislative Functions) Regulations 2022
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+This Statutory Instrument has been made partly to correct defects in [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2022 No. 190
+
+Exiting The European Union
+
+Agriculture
+
+Environmental Protection
+
+Waste
+
+The Waste and Agriculture (Legislative Functions) Regulations 2022
+
+Made
+
+25th February 2022
+
+Coming into force
+
+26th February 2022
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001].
+
+In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and extent[^key-475b9562d867d325dc9d50a2960a2ee8]
+
+(1) These Regulations may be cited as the Waste and Agriculture (Legislative Functions) Regulations 2022, and come into force on the day after the day on which they are made.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland, except as provided in paragraph (3).
+
+(3) Regulations 10, 11, 12 and 13 extend to England and Wales and Scotland.
+
+## PART 2 — Waste: retention of legislative functions
+
+### CHAPTER 1 — Introductory
+
+#### 2. Interpretation of Part 2: general[^key-7b266691b9271255a7e5c6a9997eb3c5]
+
+In this Part—
+
+- “**the 2016 Regulations**” means the Environmental Permitting (England and Wales) Regulations 2016[^f00002];
+- “**the Batteries Directive**” means [Directive 2006/66/EC](https://www.legislation.gov.uk/european/directive/2006/0066) of the European Parliament and of the Council on batteries and accumulators and waste batteries and accumulators[^f00003];
+- “**the End-of-Life Vehicles Directive**” means [Directive 2000/53/EC](https://www.legislation.gov.uk/european/directive/2000/0053) of the European Parliament and of the Council on end-of life vehicles[^f00004];
+- “**the Landfill Directive**” means Council [Directive 1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste[^f00005];
+- “**the Mining Waste Directive**” means [Directive 2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council on the management of waste from extractive industries[^f00006];
+- “**the Waste Framework Directive**” means [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste[^f00007];
+- “**the WEEE Directive**” means [Directive 2012/19/EU](https://www.legislation.gov.uk/european/directive/2012/0019) of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE)[^f00008].
+
+#### 3. Meaning of appropriate authority[^key-ddb9ce94e8e3f87fdfcf6f9553e166a6]
+
+(1) In this Part, “**appropriate authority**” has the meaning given by this regulation.
+
+(2) The “appropriate authority” is—
+
+- (a) for regulations applying in relation to England, the Secretary of State;
+- (b) for regulations applying in relation to Wales, the Welsh Ministers;
+- (c) for regulations applying in relation to Scotland, the Scottish Ministers;
+- (d) for regulations applying in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+(3) But the appropriate authority is the Secretary of State if consent is given by—
+
+- (a) the Welsh Ministers for regulations applying in relation to Wales;
+- (b) the Scottish Ministers for regulations applying in relation to Scotland;
+- (c) the Department of Agriculture, Environment and Rural Affairs for regulations applying in relation to Northern Ireland.
+
+#### 4. Meaning of “appropriate agency”[^key-b9cb903ac74518fc587d6f37c18469c0]
+
+In this Part, “**appropriate agency**” means—
+
+- (a) for regulations applying in relation to England, the Environment Agency;
+- (b) for regulations applying in relation to Wales, the Natural Resources Body for Wales;
+- (c) for regulations applying in relation to Scotland, the Scottish Environment Protection Agency.
+
+### CHAPTER 2 — Retention of function from the Landfill Directive
+
+#### 5. Power to make provision in relation to sampling of waste[^key-7e8dda66b6a911c05af515f2b9ad2d3c]
+
+(1) The appropriate authority may, by regulations, make provision about a standard for the sampling of waste going to landfill.
+
+(2) The provision which may be made under paragraph (1) includes provision modifying Council Decision 2003/33 establishing criteria and procedures for the acceptance of waste at landfills pursuant to Article 16 of and Annex II to [Directive 1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031)[^f00009].
+
+(3) Regulations under paragraph (1) may modify any subordinate legislation.
+
+(4) In this regulation—
+
+- “landfill”—
+  - (a) in relation to England and Wales, has the meaning given by paragraph 2(1)(d) of Schedule 10 to the 2016 Regulations[^f00010];
+  - (b) in relation to Scotland, has the meaning given by regulation 2(1) of the Landfill (Scotland) Regulations 2003[^f00011];
+  - (c) in relation to Northern Ireland, has the meaning given by regulation 2(1) of the Landfill (Northern Ireland) Regulations 2003[^f00012];
+- “**waste**” has the meaning given by section 37 of the Waste and Emissions Trading Act 2003[^f00013].
+
+### CHAPTER 3 — Retention of functions from the End-of-Life Vehicles Directive
+
+#### 6. Power to modify exemptions in light of scientific and technical progress[^key-c309f25ea9b88a55727f582a68790b9e]
+
+(1) The Secretary of State may, by regulations, make provision—
+
+- (a) to establish maximum concentration values up to which the existence of the prohibited substances in specific materials and components of vehicles is to be tolerated;
+- (b) to exempt certain materials and components of vehicles from the prohibition in regulation 6 of the End-of-Life Vehicles Regulations 2003[^f00014] if the use of the prohibited substances is unavoidable;
+- (c) to delete materials and components of vehicles listed in Annex 2 (exempt materials and components) to the End-of-Life Vehicles Directive, if the use of the prohibited substances is avoidable;
+- (d) for the purposes of sub-paragraphs (a) and (b), to—
+  - (i) designate those materials and components of vehicles that can be stripped before further treatment, and
+  - (ii) require any such materials and components to be labelled or made identifiable by other appropriate means.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) modifying any subordinate legislation which makes provision corresponding to that made by Annex 2 to the End-of-Life Vehicles Directive.
+- (b) requiring (whether by modifying subordinate legislation or otherwise) a reference to that Annex (or a reference encompassing that Annex) to be read as a reference to that provision with modifications;
+
+(3) The Secretary of State may exercise the power in paragraph (1) only to the extent that the Secretary of State considers it is appropriate to do so as a result of scientific and technical progress.
+
+(4) In this regulation—
+
+- “**prohibited substances**” means lead, mercury, cadmium or hexavalent chromium;
+- “treatment” and “vehicle” have the meanings given by regulation 2 of the End-of-Life Vehicles Regulations 2003[^f00015].
+
+#### 7. Power to specify minimum requirements for certificate of destruction[^key-aaa1edffb92b5e4833246f5263fce3fc]
+
+(1) The Secretary of State may, by regulations, make provision specifying minimum requirements for the certificate of destruction referred to in Part V of the End-of-Life Vehicles Regulations 2003[^f00016].
+
+(2) Regulations under paragraph (1) may modify any subordinate legislation.
+
+#### 8. Power to modify conditions of storage and treatment in light of scientific and technical progress[^key-6d7ba1115179082f2bf596c2f346666a]
+
+(1) The appropriate authority may, by regulations —
+
+- (a) modify any subordinate legislation which makes provision corresponding to Annex 1 (minimum technical requirements for storage and treatment) to the End-of-Life Vehicles Directive;
+- (b) make provision requiring (whether by modifying subordinate legislation or otherwise) a reference to that Annex (or a reference encompassing that Annex) to be read as a reference to that Annex with modifications.
+
+(2) The appropriate authority may exercise the power in paragraph (1) only to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+#### 9. Power to specify coding standards[^key-26b15f6c27575d1f48f1637b2ae3c8a3]
+
+(1) The Secretary of State may, by regulations, make provision specifying material and component coding standards for the purposes of regulation 15 of the End-of-Life Vehicles Regulations 2003[^f00017].
+
+(2) Regulations under paragraph (1) may modify any subordinate legislation.
+
+(3) Before exercising the power in paragraph (1), the Secretary of State must take account of work in this field undertaken in relevant international forums.
+
+### CHAPTER 4 — Retention of functions from the Mining Waste Directive
+
+*Extent: E+W+S*
+
+#### 10. Power to modify non-essential elements[^key-4139657d052241c4485113810e272120]
+
+(1) The appropriate authority may, by regulations, make provision about—
+
+- (a) technical guidelines for the establishment of the financial guarantee;
+- (b) technical guidelines for inspections of waste facilities in accordance with assimilated[^key-017d17f368cc75605c559dae131aa467] law that implemented Article 17 of the Mining Waste Directive;
+- (c) the completion of the technical requirements for waste characterisation set out in Annex 2 (waste characterisation) to the Mining Waste Directive;
+- (d) the interpretation of the definition of “inert waste” in Article 3(3) of the Mining Waste Directive;
+- (e) the definition of the criteria for the classification of waste facilities in accordance with Annex 3 (criteria for determining the classification of waste facilities) to the Mining Waste Directive;
+- (f) the determination of any standards for sampling and analysis methods required in connection with the technical implementation of the requirements of the Mining Waste Directive.
+
+(2) The provision which may be made under paragraph (1) includes modifying—
+
+- (a) Commission [Decision 2009/335/EC](https://www.legislation.gov.uk/european/decision/2009/0335) on the technical guidelines for the establishment of the financial guarantee in accordance with [Directive 2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council concerning the management of waste from extractive industries[^f00018];
+- (b) Commission [Decision 2009/337/EC](https://www.legislation.gov.uk/european/decision/2009/0337) on the definition of the criteria for the classification of waste facilities in accordance with Annex III of [Directive 2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council concerning the management of waste from extractive industries[^f00019];
+- (c) Commission [Decision 2009/359/EC](https://www.legislation.gov.uk/european/decision/2009/0359) completing the definition of inert waste in implementation of Article 22(1)(f) of [Directive 2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council concerning the management of waste from extractive industries[^f00020];
+- (d) Commission [Decision 2009/360/EC](https://www.legislation.gov.uk/european/decision/2009/0360) completing the technical requirements for waste characterisation laid down by [Directive 2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council on the management of waste from extractive industries[^f00021];
+- (e) Commission Implementing [Decision (EU) 2020/248](https://www.legislation.gov.uk/european/decision/2020/0248) laying down technical guidelines for inspections in accordance with Article 17 of [Directive 2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of [Directive 2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council[^f00022].
+
+(3) Regulations under paragraph (1) may modify any subordinate legislation.
+
+(4) In this regulation—
+
+- (a) in so far as it extends to England and Wales—
+  - “**financial guarantee**” means the financial guarantee referred to in Article 14 of the Mining Waste Directive, as that Directive is read in accordance with paragraph 9 of Schedule 1A to the 2016 Regulations[^f00023];
+  - “**waste facility**” has the meaning given to “mining waste facility” by paragraph 2(1) of Schedule 20 to the 2016 Regulations;
+
+(b) in so far as it extends to Scotland, “financial guarantee” and “waste facility” have the meanings given by regulation 2(1) of the Management of Extractive Waste (Scotland) Regulations 2010[^f00024].
+
+#### 11. Power to update in light of scientific and technical progress[^key-3aa1528e8f584e9ef2c1d9639c21954b]
+
+(1) The appropriate authority may, by regulations—
+
+- (a) modify any subordinate legislation which makes provision corresponding to an Annex to the Mining Waste Directive;
+- (b) make provision requiring (whether by modifying subordinate legislation, or otherwise) a reference to an Annex to the Mining Waste Directive (or a reference encompassing an Annex) to be read as a reference to that Annex with modifications.
+
+(2) The appropriate authority may only exercise the power in paragraph (1)—
+
+- (a) to the extent that the authority considers that it is appropriate to do so as a result of scientific and technical progress, and
+- (b) with a view to achieving a high level of environmental protection.
+
+### CHAPTER 5 — Retention of functions from the Batteries Directive
+
+*Extent: E+W+S*
+
+#### 12. Power to specify criteria relating to export of waste batteries[^key-07be5651ec31976dc7baa32d89451b6c]
+
+(1) The appropriate authority may, by regulations, make provision specifying criteria for the assessment of equivalent conditions where treatment and recycling of waste batteries takes place outside the United Kingdom.
+
+(2) Regulations under paragraph (1) may modify any subordinate legislation.
+
+(3) In paragraph (1)—
+
+- “**equivalent conditions**” means the conditions set out in paragraph 10 of Schedule 4 to the Waste Batteries and Accumulators Regulations 2009[^f00025];
+- “**recycling**”, “**treatment**” and “**waste battery**” have the meanings given by regulation 2 of the Waste Batteries and Accumulators Regulations 2009[^f00026].
+
+#### 13. Power to grant exemptions from labelling requirements[^key-0103957462147ef2aaf38a5bf0acbf05]
+
+(1) The Secretary of State may, by regulations, make provision for exemptions from the labelling requirements for batteries, accumulators and battery packs.
+
+(2) The provision which may be made under paragraph (1) includes provision modifying [Commission Regulation (EU) No 1103/2010](https://www.legislation.gov.uk/european/regulation/2010/1103) establishing, pursuant to [Directive 2006/66/EC](https://www.legislation.gov.uk/european/directive/2006/0066) of the European Parliament and of the Council, rules as regards capacity labelling of portable secondary (rechargeable) and automotive batteries and accumulators[^f00027].
+
+(3) Regulations under paragraph (1) may modify any subordinate legislation.
+
+(4) In paragraph (1), “labelling requirements for batteries, accumulators and battery packs”, means the labelling requirements contained in regulations 5, 5A and 6 of, and Schedule 1 to, the Batteries and Accumulators (Placing on the Market) Regulations 2008[^f00028].
+
+### CHAPTER 6 — Retention of functions from the Waste Framework Directive
+
+#### 14. Meaning of “waste”[^key-bea68844333d9659a3f2d94a050b1138]
+
+In this Chapter, “**waste**” has the meaning given by Article 3(1) of the Waste Framework Directive.
+
+#### 15. Power to prescribe criteria for by-products[^key-af41d237e75e9176fc6764d43ef05258]
+
+(1) The appropriate authority may, by regulations, prescribe detailed criteria on the uniform application of the by-product conditions to specific substances or objects.
+
+(2) In paragraph (1), “**the by-product conditions**” means the conditions set out in paragraph (3) which must be met if a substance or object resulting from a production process, the primary aim of which is not the production of that substance or object, is to be considered to be a by-product and not waste.
+
+(3) The conditions are—
+
+- (a) further use of the substance or object is certain,
+- (b) the substance or object can be used directly without any further processing other than normal industrial practice,
+- (c) the substance or object is produced as an integral part of a production process, and
+- (d) further use of the substance or object is lawful, and for these purposes “**lawful**” means the substance or object fulfils all relevant product, environmental and health protection requirements for the specific use and will not lead to overall adverse environmental or human health impacts.
+
+(4) In exercising the power in paragraph (1), the appropriate authority must—
+
+- (a) ensure a high level of protection of the environment and human health and facilitate the prudent and rational utilisation of natural resources, and
+- (b) prioritise replicable practices of industrial symbiosis.
+
+(5) Regulations under paragraph (1) may modify any subordinate legislation.
+
+#### 16. Power to prescribe end-of-waste status criteria[^key-74a16eba0136da396eeaeea054610997]
+
+(1) The appropriate authority may, by regulations, make provision prescribing detailed criteria on the uniform application of the end-of-waste conditions to specific types of waste.
+
+(2) In paragraph (1), “**the end-of-waste conditions**” means the conditions set out in paragraph (3) which must be met if waste which has undergone a recycling or other recovery operation is to be considered to have ceased to be waste.
+
+(3) The conditions are—
+
+- (a) the substance or object is to be used for specific purposes,
+- (b) a market or demand exists for such a substance or object,
+- (c) the substance or object fulfils the technical requirements for the specific purposes and meets the existing legislation and standards applicable to products, and
+- (d) the use of the substance or object will not lead to overall adverse environmental or human health impacts.
+
+(4) In exercising the power in paragraph (1), the appropriate authority must—
+
+- (a) ensure a high level of protection of the environment and human health and facilitate the prudent and rational utilisation of natural resources, and
+- (b) include provision in relation to—
+  - (i) permissible waste input material for the recovery operation,
+  - (ii) permissible treatment processes and techniques,
+  - (iii) quality criteria for end-of-waste materials resulting from the recovery operation in line with the applicable product standards, including limit values for pollutants where necessary,
+  - (iv) requirements for management systems to demonstrate compliance with the end-of-waste conditions, including criteria for quality control and self-monitoring, and accreditation, where appropriate, and
+  - (v) a requirement for a statement of conformity.
+
+(5) The provision which may be made under paragraph (1) includes modifying—
+
+- (a) Council [Regulation (EU) No 333/2011](https://www.legislation.gov.uk/european/regulation/2011/0333) establishing criteria determining when certain types of scrap metal cease to be waste under [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council[^f00029];
+- (b) [Commission Regulation (EU) No 1179/2012](https://www.legislation.gov.uk/european/regulation/2012/1179) establishing criteria determining when glass cullet ceases to be waste under [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council[^f00030];
+- (c) [Commission Regulation (EU) No 715/2013](https://www.legislation.gov.uk/european/regulation/2013/0715) establishing criteria determining when copper scrap ceases to be waste under [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council[^f00031].
+
+(6) Regulations under paragraph (1) may modify any subordinate legislation.
+
+(7) In this regulation, “**recovery**”, “**recycling**” and “**treatment**” have the meanings given by Article 3 of the Waste Framework Directive.
+
+#### 17. Power to specify the application of the formula for incineration facilities[^key-4f9948f99bc23e145b5937a7950d290f]
+
+(1) The appropriate authority may, by regulations, make provision specifying the application of the formula for incineration facilities referred to in point R1 of Annex 2 (recovery operations) to the Waste Framework Directive.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) modifying provision corresponding to that made by point R1 of Annex 2 to the Waste Framework Directive;
+- (b) requiring a reference to point R1 of Annex 2 to the Waste Framework Directive (or a reference which encompasses that point) to be read as a reference to that point with modifications.
+
+(3) In exercising the power in paragraph (1), the appropriate authority may take into account local climatic conditions, including the severity of the cold and the need for heating, to the extent that those conditions influence the amounts of energy that can be used or produced in the form of electricity, heating, cooling or processing steam.
+
+(4) Regulations under paragraph (1) may modify any subordinate legislation.
+
+### CHAPTER 7 — Retention of functions from the WEEE Directive
+
+#### 18. Power to provide for alternative treatment technologies[^key-06e8f17a57417dde863dd237761e5d5b]
+
+(1) The appropriate authority may, by regulations, make provision to specify technologies for the treatment of materials and components of waste electrical and electronic equipment.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) modifying provision corresponding to that made by Annex 7 (selective treatment for materials and components of waste electrical and electronic equipment) to the WEEE Directive;
+- (b) requiring a reference to Annex 7 to the WEEE Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications.
+
+(3) Any provision made under paragraph (1) must include a requirement for the technology specified to be applied in such a way that environmentally-sound preparation for re-use and recycling of components or whole appliances of waste electrical and electronic equipment is not hindered.
+
+(4) The appropriate authority may exercise the power in paragraph (1) only where the technology specified ensures a level of protection for human health and the environment equivalent to that provided by the technologies set out in Annex 7.
+
+(5) Regulations under paragraph (1) may modify any subordinate legislation.
+
+(6) In this regulation, “waste electrical and electronic equipment” and “treatment” have the meanings given by regulation 2 of the Waste Electrical and Electronic Equipment Regulations 2013[^f00032].
+
+#### 19. Power to update in light of scientific and technical progress[^key-d49b156e33f81809d5857bb0162a1bd2]
+
+(1) The appropriate authority may, by regulations—
+
+- (a) modify provision in any subordinate legislation which corresponds to that made by a relevant Annex to the WEEE Directive;
+- (b) make provision requiring (whether by modifying any subordinate legislation, or otherwise) a reference to a relevant Annex to the WEEE Directive (or a reference encompassing a relevant Annex) to be read as a reference to that Annex with modifications.
+
+(2) The appropriate authority may exercise the power in paragraph (1) only to the extent that the authority considers that it is appropriate to do so as a result of scientific and technical progress.
+
+(3) The relevant Annexes of the WEEE Directive are—
+
+- (a) Annex 4 (non-exhaustive list of EEE which falls within the categories listed in Annex 3 to the WEEE Directive);
+- (b) Annex 7 (selective treatment for materials and components of waste electrical and electronic equipment);
+- (c) Annex 8 (technical requirements).
+
+#### 20. Power to update in light of scientific and technical progress – EEE symbol[^key-27cc77a830e6bbb5bd56ee8ce0111c0e]
+
+(1) The Secretary of State may, by regulations—
+
+- (a) modify provision in any subordinate legislation which corresponds to that made by Annex 9 (symbol for the marking of EEE) to the WEEE Directive;
+- (b) make provision requiring (whether by modifying any subordinate legislation, or otherwise) a reference to Annex 9 to the WEEE Directive (or a reference encompassing Annex 9) to be read as a reference to that Annex with modifications.
+
+(2) The Secretary of State may exercise the power in paragraph (1) only to the extent that the Secretary of State considers that it is appropriate to do so as a result of scientific and technical progress.
+
+### CHAPTER 8 — Consultation
+
+#### 21. Consultation[^key-b8f9ebad2320c2fdc80c41a1720a5e14]
+
+Before making regulations under this Part, the Secretary of State or the appropriate authority (as the case may be) must consult—
+
+- (a) the appropriate agency, in the case of regulations that apply in relation to England, Wales or Scotland;
+- (b) such other persons as the Secretary of State or the appropriate authority thinks appropriate.
+
+## PART 3 — Regulations under Part 2
+
+### 22. Procedure[^key-ba5fec794250e3e29843aba9ef69d93e]
+
+(1) Regulations made by the Secretary of State or the Welsh Ministers under Part 2 are to be made by statutory instrument.
+
+(2) For regulations made by the Scottish Ministers under Part 2, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010[^f00033].
+
+(3) Any power of the Department of Agriculture, Environment and Rural Affairs to make regulations under Part 2 is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979[^f00034].
+
+(4) A statutory instrument containing regulations made by the Secretary of State under Part 2 is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) A statutory instrument containing regulations made by the Welsh Ministers under Part 2 is subject to annulment in pursuance of a resolution of Senedd Cymru.
+
+(6) Regulations made by the Scottish Ministers under Part 2 are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
+
+(7) Regulations made by the Department of Agriculture, Environment and Rural Affairs under Part 2 are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954[^f00035].
+
+### 23. Power to make consequential etc. provision[^key-15b329dec69f50eb5bb3e29373540d09]
+
+Regulations under Part 2 may—
+
+- (a) include consequential, incidental, supplementary, transitional or saving provision (including, for the purposes of this paragraph, provision modifying enactments);
+- (b) make different provision for different purposes.
+
+## PART 4 — Agriculture
+
+### 24. Amendment of [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^key-f7f6e669b63487aca891211764c10334]
+
+In [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy, insofar as it relates to common organisation of the markets and rural development measures[^f00036], in Article 2(1), after point (l) insert—
+
+> - (m) ‘appropriate authority’ means:
+>   - (i) subject to point (ii), the relevant authority for the constituent nation in which the regulations apply;
+>   - (ii) the Secretary of State:
+>     - (aa) in relation to regulations made under Article 66(3) or (4), where the subject matter is outside devolved competence;
+>     - (bb) in relation to Wales, for regulations made under Article 8, 20, 79(2), 84(6), 88 or 106(5) or (6) of this Regulation, if consent is given by the Welsh Ministers;
+>     - (cc) in relation to Scotland, if consent is given by the Scottish Ministers;
+>     - (dd) in relation to Northern Ireland, if consent is given by the Department of Agriculture, Environment and Rural Affairs;
+>
+> For the purposes of point (ii)(aa), it is outside devolved competence to make any provision by subordinate legislation which would be outside the legislative competence of:
+>
+> - (i) in relation to Wales, Senedd Cymru, if it were included in an Act of Senedd Cymru (see section 108A of the Government of Wales Act 2006[^f00037]);
+> - (ii) in relation to Scotland, the Scottish Parliament if it were included in an Act of the Parliament (see section 29 of the Scotland Act 1998[^f00038]);
+> - (iii) in relation to Northern Ireland, the Northern Ireland Assembly if it were included in an Act of the Assembly (see section 6 of the Northern Ireland Act 1998[^f00039]).
+
+.
+
+### 25. Amendment of the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020[^key-aa80b41b645664987c04c2efdfe9bed4]
+
+Regulation 10(2) of the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020[^f00040] is revoked.
+
+Jo Churchill
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+25th February 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers conferred by the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) in order to address failures of retained EU law to operate effectively and other deficiencies arising (in particular under section 8(2)(b) and (f)) from the withdrawal of the United Kingdom from the European Union.
+
+The Regulations provide for legislative functions of the European Commission under various waste Directives to be exercisable instead by a public authority in the United Kingdom, and correct an error in existing provision for legislative functions relating to agriculture.
+
+In Part 2—
+
+- Chapter 2 contains a function from the Landfill Directive (Council [Directive 1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste);
+- Chapter 3 contains functions from the End-of-Life Vehicles Directive ([Directive 2000/53/EC](https://www.legislation.gov.uk/european/directive/2000/0053) of the European Parliament and of the Council on end-of life vehicles);
+- Chapter 4 contains functions from the Mining Waste Directive ([Directive 2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council on the management of waste from extractive industries);
+- Chapter 5 contains functions from the Batteries Directive ([Directive 2006/66/EC](https://www.legislation.gov.uk/european/directive/2006/0066) of the European Parliament and of the Council on batteries and accumulators and waste batteries and accumulators);
+- Chapter 6 contains functions from the Waste Framework Directive ([Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste);
+- Chapter 7 contains functions from the WEEE Directive ([Directive 2012/19/EU](https://www.legislation.gov.uk/european/directive/2012/0019) of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE)).
+-
+
+Part 3 contains procedural provisions and other supplementary matters relating to the regulation-making powers in Part 2.
+
+Part 4 amends [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy, insofar as it relates to common organisation of the markets and rural development measures (EUR 2013/1306) to insert the definition of “appropriate authority” and revokes an earlier amendment.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); section 8 is amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^key-475b9562d867d325dc9d50a2960a2ee8]: Commencement: Reg. 1 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-7b266691b9271255a7e5c6a9997eb3c5]: Commencement: Reg. 2 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
+
+[^f00003]: Footnote: OJ L 266, 26.9.2006, p.1, as last amended by Directive (EU) 2018/849 (OJ L 150, 14.6.2018, p. 93).
+
+[^f00004]: Footnote: OJ L 269, 21.10.2000, p. 34, as last amended by Commission Delegated Directive (EU) 2020/363 (OJ L 67, 5.3.2020, p. 119).
+
+[^f00005]: Footnote: OJ L 182, 16.7.1999, p.1, as last amended by Directive (EU) 2018/850 (OJ L 150, 14.6.2018, p. 100).
+
+[^f00006]: Footnote: OJ L 102, 11.4.2006, p.15, as last amended by Regulation [(EC) 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) (OJ L 188, 18.7.2009, p. 14).
+
+[^f00007]: Footnote: OJ L 312, 22.11.2008, p. 3, as last amended by Directive (EU) 2018/851 (OJ L 150, 14.6.2018, p. 109).
+
+[^f00008]: Footnote: OJ L 197, 24.7.2012, p. 38, as last amended by Directive (EU) 2018/849 (OJ L 150, 14.6.2018, p. 93).
+
+[^key-ddb9ce94e8e3f87fdfcf6f9553e166a6]: Commencement: Reg. 3 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-b9cb903ac74518fc587d6f37c18469c0]: Commencement: Reg. 4 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-7e8dda66b6a911c05af515f2b9ad2d3c]: Commencement: Reg. 5 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00009]: Footnote: EUDN 2003/33, as amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620).
+
+[^f00010]: Footnote: Paragraph 2 of Schedule 10 is amended by [S.I. 2019/39](https://www.legislation.gov.uk/uksi/2019/39), [2020/904](https://www.legislation.gov.uk/uksi/2020/904).
+
+[^f00011]: Footnote: [S.S.I. 2003/235](https://www.legislation.gov.uk/ssi/2003/235); relevant amending instruments are [S.S.I. 2010/60](https://www.legislation.gov.uk/ssi/2010/60), [2011/226](https://www.legislation.gov.uk/ssi/2011/226).
+
+[^f00012]: Footnote: [S.R. 2003/496](https://www.legislation.gov.uk/nisr/2003/496); relevant amending instruments are [S.R. 2006/280](https://www.legislation.gov.uk/nisr/2006/280), [2007/258](https://www.legislation.gov.uk/nisr/2007/258), [2011/101](https://www.legislation.gov.uk/nisr/2011/101).
+
+[^f00013]: Footnote: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33). Section 37 is amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), [2019/620](https://www.legislation.gov.uk/uksi/2019/620), [2020/904](https://www.legislation.gov.uk/uksi/2020/904) and in relation to Scotland was substituted by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226) and amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [2020/904](https://www.legislation.gov.uk/uksi/2020/904).
+
+[^key-c309f25ea9b88a55727f582a68790b9e]: Commencement: Reg. 6 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00014]: Footnote: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635). Regulation 6 is amended by [S.I. 2010/1094](https://www.legislation.gov.uk/uksi/2010/1094).
+
+[^f00015]: Footnote: The definition of “vehicle” is amended by [S.I. 2018/235](https://www.legislation.gov.uk/uksi/2018/235) and [2020/818](https://www.legislation.gov.uk/uksi/2020/818).
+
+[^key-aaa1edffb92b5e4833246f5263fce3fc]: Commencement: Reg. 7 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00016]: Footnote: Part V is amended by [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263), [2010/1094](https://www.legislation.gov.uk/uksi/2010/1094) and [2019/188](https://www.legislation.gov.uk/uksi/2019/188).
+
+[^key-6d7ba1115179082f2bf596c2f346666a]: Commencement: Reg. 8 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-26b15f6c27575d1f48f1637b2ae3c8a3]: Commencement: Reg. 9 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00017]: Footnote: Regulation 15 was substituted by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188).
+
+[^key-4139657d052241c4485113810e272120]: Commencement: Reg. 10 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-017d17f368cc75605c559dae131aa467]: Textual amendment: Word in reg. 10(1)(b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 52](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/52)
+
+[^f00018]: Footnote: EUDN 2009/335, as amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620).
+
+[^f00019]: Footnote: EUDN 2009/337, as amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620).
+
+[^f00020]: Footnote: EUDN 2009/359, as amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620).
+
+[^f00021]: Footnote: EUDN 2009/360, as amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620).
+
+[^f00022]: Footnote: EUDN 2020/248, as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540).
+
+[^f00023]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154). Schedule 1A was inserted by [S.I. 2019/39](https://www.legislation.gov.uk/uksi/2019/39).
+
+[^f00024]: Footnote: [S.S.I. 2010/60](https://www.legislation.gov.uk/ssi/2010/60); relevant amending instruments are [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [2019/273](https://www.legislation.gov.uk/ssi/2019/273).
+
+[^key-3aa1528e8f584e9ef2c1d9639c21954b]: Commencement: Reg. 11 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-07be5651ec31976dc7baa32d89451b6c]: Commencement: Reg. 12 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00025]: Footnote: [S.I. 2009/890](https://www.legislation.gov.uk/uksi/2009/890). Paragraph 10 is amended by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188).
+
+[^f00026]: Footnote: Regulation 2 is amended by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [2020/904](https://www.legislation.gov.uk/uksi/2020/904) and [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226); there are other amending instruments but none is relevant.
+
+[^key-0103957462147ef2aaf38a5bf0acbf05]: Commencement: Reg. 13 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00027]: Footnote: EUDN 2010/1103, as amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [2020/1540](https://www.legislation.gov.uk/uksi/2020/1540).
+
+[^f00028]: Footnote: [S.I. 2008/2164](https://www.legislation.gov.uk/uksi/2008/2164). Regulation 5A was inserted by [S.I. 2012/1139](https://www.legislation.gov.uk/uksi/2012/1139).
+
+[^key-bea68844333d9659a3f2d94a050b1138]: Commencement: Reg. 14 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-af41d237e75e9176fc6764d43ef05258]: Commencement: Reg. 15 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-74a16eba0136da396eeaeea054610997]: Commencement: Reg. 16 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00029]: Footnote: EUR 333/2011, as amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [2020/1540](https://www.legislation.gov.uk/uksi/2020/1540).
+
+[^f00030]: Footnote: EUR 1179/2012, as amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [2020/1540](https://www.legislation.gov.uk/uksi/2020/1540).
+
+[^f00031]: Footnote: EUR 715/2013, as amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [2020/1540](https://www.legislation.gov.uk/uksi/2020/1540).
+
+[^key-4f9948f99bc23e145b5937a7950d290f]: Commencement: Reg. 17 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-06e8f17a57417dde863dd237761e5d5b]: Commencement: Reg. 18 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00032]: Footnote: [S.I. 2013/3113](https://www.legislation.gov.uk/uksi/2013/3113). Regulation 2 is amended by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188); there are other amending instruments but none is relevant.
+
+[^key-d49b156e33f81809d5857bb0162a1bd2]: Commencement: Reg. 19 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-27cc77a830e6bbb5bd56ee8ce0111c0e]: Commencement: Reg. 20 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-b8f9ebad2320c2fdc80c41a1720a5e14]: Commencement: Reg. 21 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-ba5fec794250e3e29843aba9ef69d93e]: Commencement: Reg. 22 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00033]: Footnote: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
+
+[^f00034]: Footnote: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
+
+[^f00035]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(6) is amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
+
+[^key-15b329dec69f50eb5bb3e29373540d09]: Commencement: Reg. 23 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^key-f7f6e669b63487aca891211764c10334]: Commencement: Reg. 24 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00036]: Footnote: EUR 2013/1306. Article 2(1) is amended by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748), as amended in relation to common organisation of the markets and rural development measures by [S.I. 2019/763](https://www.legislation.gov.uk/uksi/2019/763), 831 and 2020/1445. The Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2) incorporated Regulation (EU) 1306/2013 into domestic law with effect from exit day insofar as it relates to direct payment schemes and that Regulation has been amended in relation to direct payment schemes separately. Under Article 138 of the withdrawal agreement and section 7A of the European Union (Withdrawal Agreement) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) certain common organisation of the markets and rural development measures committed under the Multiannual Financial Framework 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.
+
+[^f00037]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 108A was substituted for section 108 by section 3 of the Government of Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) and is amended by section 12(3) of the European Union (Withdrawal) Act 2018, paragraph 2(19) of Schedule 1 to the Senedd and Elections (Wales) [Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1) and section 45(2) of the Fisheries Act [2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22).
+
+[^f00038]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). Section 29 is amended by section 9(2) of the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11) and section 12(1) of the European Union (Withdrawal) Act 2018.
+
+[^f00039]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47). Section 6 is amended by section 12(5) of the European Union (Withdrawal) Act 2018 and paragraph 2 of Schedule 3 to the European Union (Withdrawal Agreement) Act 2020.
+
+[^key-aa80b41b645664987c04c2efdfe9bed4]: Commencement: Reg. 25 in force at 26.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1)
+
+[^f00040]: Footnote: [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445).

@@ -1,0 +1,509 @@
+---
+title: Fishery Limits Act 1976
+id: ukpga/1976/86
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1976-12-22'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1976/86
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1976/86/pdfs/ukpga_19760086_en.pdf
+- http://www.legislation.gov.uk/ukpga/1976/86/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Fishery Limits Act 1976
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Fishery Limits Act 1976
+
+1976 c.86
+
+An Act to extend British fishery limits and make further provision in connection with the regulation of sea fishing.
+
+\[22nd December 1976\][^c801865][^key-522c5d53c6ebf6a8ee08634c2b8992c8]
+
+## Extension of British fishery limits
+
+### 1. British fishery limits.[^M_C_67fc71a9-6d0c-4214-f71c-81ea304cb0b8]
+
+(1)[^key-728e743c07b28b089a6a919691cb82e1] Subject to the following provisions of this section, British fishery limits extend to the seaward limits of any area for the time being designated by Order in Council under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone).
+
+(2) Her Majesty may by Order in Council, for the purpose of implementing any international agreement or the arbitral award of an international body, or otherwise, declare that British fishery limits extend to such other line as may be specified in the Order.
+
+(3)[^key-a1f643f79f64b195fad8afe4c751217f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-a1f643f79f64b195fad8afe4c751217f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Subject to section 10(2)(*b*) below, references to British fishery limits in any enactment for the time being in force relating to sea fishing or whaling are to the limits set by or under this section.
+
+### 2. Access to British fisheries.[^key-2e3e0e991ecb91528a59d83e50996d0c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Regulation of sea fishing, etc.
+
+### 3. Licensing of fishing boats.[^key-063ff5df8c65e0241bf43896d43c1357]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Extension of power to regulate conduct of fishing operations, etc.[^c801891]
+
+(2) In section 5 of the [^c801892]Sea Fisheries Act 1968 (regulation of conduct of fishing operations) in subsection (1) for the words “for the purpose of giving effect to any convention for the time being in force between Her Majesty’s Government in the United Kingdom and the govemment of any other country" there are inserted the words “whenever it appears to them necessaryor expedient".
+
+(2) In subsection (2) of that section, in paragraph (a) (British fishing boats) for the words “anywhere within the convention area to which the order relates" there are substituted the words “wherever they may be".
+
+(3) In subsection (2) of that section, in paragraph (b) (foreign fishing boats) for the words “waters which are within both the fishery limits of the British Islands and that convention area" there are substituted the words “waters within British fishery limits".
+
+(4) At the end of section 10 of the [^c801893] Sea Fisheries (Scotland) Amendment Act 1885 (powers of sea fishery officers) there are added the words “and section 10 of that Act shall apply for the purposes of this Act as if for any reference to section 8 or 9 of that Act there were substituted a reference to this section.".
+
+### 5. Revised penalties for offences.[^c801894]
+
+The enactments mentioned in Schedule 1 to this Act are amended as there provided, being amendments which revise the penalties for certain offences under enactments relating to sea fishing.
+
+## General
+
+### 6. Orders.
+
+(1)[^c801895] Orders made under any provision of this Act shall be made by statutory instrument.
+
+(2) Power conferred by any provision of this Act to make an Order in Council or other order includes power to vary or revoke by a further Order in Council or order under that provision.
+
+### 7. Finance.
+
+(1) The Minister of Agriculture, Fisheries and Food may, with the approval of the Treasury, incur expenditure in employing officers and vessels and generally taking such measures as appear to him necessary to protect British fisheries.
+
+(2) Expenses incurred by the Ministers which are attributable to the provisions of this Act, being—
+
+- (a) such expenses as are referred to in subsection (1) above; or
+- (b) increased administrative expenses,
+
+shall be defrayed out of money provided by Parliament.
+
+### 8. Interpretation.[^c801905][^c801904]
+
+In this Act—
+
+- “**enactment**” includes an enactment of the Parliament of Northern Ireland and a Measure of the Northern Ireland Assembly;
+- “**fishing boat**” means any vessel for the time being employed in fishing operations or any operations ancillary thereto;
+- “[^c801906]**foreign fishing boat**” means a fishing boat which is not—
+- (a) registered in the United Kingdom, the Channel Islands or the Isle of Man; or
+- (b) wholly British-owned;
+
+- “**miles**” means international nautical miles of 1,852 metres;
+- “**the Ministers**” means , in relation to England and Wales and Northern Ireland,[^c801907] the Minister of Agriculture, Fisheries and Food and the Secretaries of State concerned with sea fishing in Scotland and Northern Ireland respectively and, in relation to Scotland, the Scottish Ministers;
+
+- [^key-78601a19f871703d5911d7a0916f05a8]...
+- [^key-78601a19f871703d5911d7a0916f05a8]...
+
+- [^key-78601a19f871703d5911d7a0916f05a8]...
+- [^key-78601a19f871703d5911d7a0916f05a8]...
+
+### 9. Amendments, transitional provisions and repeals.
+
+(1)[^c801912] The enactments mentioned in Schedule 2 to this Act are amended as there provided, being amendments consequential on the provisions of this Act.
+
+(2) The transitional provisions in Schedule 3 to this Act have effect.
+
+(3)[^c801912] The enactments mentioned in Schedule 4 to this Act are repealed to the extent there specified.
+
+### 10. Northern Ireland.
+
+(1) This Act, except the repeals in section 13 of the [^c801914]Sea Fisheries Act 1968 (compensation for damage caused by offence), extends to Northern Ireland.
+
+(2) Subject to subsection (3) below,—
+
+- (a) nothing in this Act affects the extent of British fishery limits in the waters adjacent both to Northern Ireland and the Republic of Ireland to a distance of 12 miles from the baselines from which the breadth of the respective territorial seas is measured; and
+- (b) references to “British fishery limits" in any enactment for the time being in force relating to sea fishing or whaling shall be construed as including a reference to those limits as well as to the limits set by or under section 1 of this Act.
+
+(3) The power conferred on Her Majesty by section 1(2) of this Act to declare the extent of British fishery limits by Order in Council includes power to declare the extent of the limits in the waters referred to in subsection (2)(*a*) above.
+
+### 11. Isle of Man and Channel Islands.
+
+(1) Her Majesty may by Order in Council make such provision for the Isle of Man and the Channel Islands as appears to Her Majesty to be necessary in consequence of the extension of British fishery limits by or under this Act.
+
+(2) Such an Order may, in particular, specify waters adjacent to the Isle of Man or any of the Channel Islands as waters to which enactments relating to sea fishing or whaling apply—
+
+- (a) by virtue of having been extended by Order in Council to the Isle of Man or any of the Channel Islands; and
+- (b) with the exceptions, adaptations and modifications (if any) specified in the extending Order.
+
+(3) Her Majesty may by Order in Council direct that all or any of the provisions of sections 2(2) to (7), 3, 4, 5, 8 and 9 and of the Schedules to this Act—
+
+- (a) shall extend, with such exceptions, adaptations and modifications, if any, as may be specified in the Order, to the Isle of Man or any of the Channel Islands;
+- (b) shall apply, with such exceptions, adaptations and modifications as may be specified in the Order, in relation to British fishing boats registered in the Isle of Man or any of the Channel Islands as they apply in relation to British fishing boats registered in the United Kingdom.
+
+### 12. Short title and commencement.[^c801915]
+
+(1) This Act may be cited as the Fishery Limits Act 1976.
+
+(2) The provisions of this Act come into force on such day as the Ministers may by order appoint and different days may be appointed for different provisions and for different purposes.
+
+(3) Without prejudice to subsection (2) orders under that subsection may so provide that the extension of British fishery limits by section 1 of this Act comes into force on different days in relation to different parts of the United Kingdom, the Channel Islands and the Isle of Man.
+
+(4) An order under subsection (2) may contain such supplementary, incidental and transitional provisions as appear to the Ministers to be necessary or expedient in connection with the provisions of this Act which are thereby brought (wholly or partly) into operation, including such adaptations of those provisions then in force as appear to the Ministers to be necessary or expedient in consequence of their partial operation (whether before, on or after the day appointed by the order).
+
+SCHEDULES
+
+## SCHEDULE 1 — REVISED PENALTIES FOR OFFENCES
+
+Section 5.
+
+### Sea Fisheries Regulation Act 1966 (c. 38)
+
+**1.**[^key-da60755a06e369a75e49d5f0fbfccf01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Sea Fish (Conservation) Act 1967 (c.84)
+
+**2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c801917]
+
+### Sea Fisheries Act 1968 (c. 77)
+
+**3.**[^c801918] (1) In section 5(4) of the Sea Fisheries Act 1968 (contravention of order regulating conduct of sea fishing operations) for the words from “in the case of a first offence" to the end substitute the words “to a fine not exceeding £1,000".
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c801919]
+
+(3) Section 13(1) of that Act (compensation for damage caused by offence) is repealed.
+
+(4) In section 13(3) of that Act omit the words “adjudged or" and the words “magistrates’ court or".
+
+### Sea Fishery Industry Act 1970 (c.11)
+
+**4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c801920]
+
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS[^c801921]
+
+Section 9(1).
+
+### Herring Fisheries (Scotland) Act 1860 (c. 92).
+
+**1.**[^c801922] In section 2 of the Herring Fisheries (Scotland) Act 1860 (definition of “**the coasts of Scotland**”) for the words “the fishery limits of the British Islands" substitute the words “British fishery limits".
+
+### Herring Fisheries (Scotland) Act 1867 (c. 52)
+
+**2.** In section 11 of the Herring Fisheries (Scotland) Act 1867 (definition of “**the coasts of Scotland**”) for the words “the fishery limits of the British Islands" substitute the words “British fishery limits".
+
+### Sea Fisheries Act 1868 (c.45)
+
+**3.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c801923]
+
+### Sea Fisheries (Clam and Bait Beds) Act 1881 (c. 11)
+
+**4.**[^c801924] In section 2 of the Sea Fisheries (Clam and Bait Beds) Act 1881 (power to prohibit beam trawling where injurious to clam and bait beds) for the words “within the fishery limits of the British Islands" substitute the words “not more than six nautical miles from the baselines from which the breadth of the territorial sea is measured".
+
+### Sea Fisheries Act 1883 (c. 22)
+
+**5.**[^c801925] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Sea Fisheries (Scotland) Amendment Act 1885 (c. 70)
+
+**6.**[^c801926] In section 4 of the Sea Fisheries (Scotland) Amendment Act 1885 (control of modes of fishing within defined areas) for the words “the fishery limits of the British Islands" substitute the words “British fishery limits".
+
+### Fisheries Act 1891 (c. 37)
+
+**7.**[^key-7e7df3fc8a5aa27fa204f6cdc6ea8a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Whale Fisheries (Scotland) Act 1907 (c. 41)
+
+**8.**[^c801927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Cran Measures Act 1908 (c. 17)
+
+**9.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c801928]
+
+### Whale Fisheries (Ireland) Act 1908 (c. 31)
+
+**10.** In section 3(4) of the Whale Fisheries (Ireland) Act 1908 (prohibition on whaling in coastal waters) for the words “such part of the fishery limits of the British Islands as is mentioned in section 4(2) of the Fishery Limits Act 1964" substitute the words “waters within British fishery limits which are adjacent to Northem Ireland and are not nearer to any point on the baselines from which the breadth of the territorial sea adjacent to Great Britain or the Isle of Man is measured than to any point on the corresponding Northern Irish baselines".
+
+### Whaling Industry (Regulation) Act 1934 (c. 49)
+
+**11.** In section 17(1) of the Whaling Industry (Regulation) Act 1934 (definition of “**coastal waters**”) for the words “the fishery limits of the British Islands" substitute the words “British fishery limits".
+
+### Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951 (c. 26)
+
+**12.**[^key-947f74524b2cfaf68f0c7bc8c8989e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Weights and Measures Act 1963 (c. 31)
+
+**13.**[^c801929] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Fisheries Act (Northern Ireland) 1966 (c. 17) (N.I.)
+
+**14.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c801930]
+
+### Sea Fisheries (Shellfish) Act 1967 (c. 83)
+
+**15.** In section 1(1) of the Sea Fisheries (Shellfish) Act 1967 (power to make orders as to fisheries for shellfish) for the words “so much of the exclusive fishery limits of the British Islands as is adjacent to Great Britain" substitute the words “waters adjacent to Great Britain to a distance of six nautical miles measured from the baselines from which the breadth of the territorial sea is measured".
+
+### Sea Fish (Conservation) Act 1967 (c. 84)
+
+**16.** (1) In sections . . . [^c801931], 3(2). . . . [^c801931] and 15(3) of the Sea Fish (Conservation) Act 1967, for the words “the fishery limits of the British Islands" substitute the words “British fishery limits".
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c801933]
+
+(3) In section 15(2) of that Act (powers of seizure of sea-fishery officers) for paragraphs (b) and (c) substitute the following paragraphs—
+
+> - (b) any fish caught in contravention of a prohibition imposed by an order under section 4 or 5 of this Act, where the fish are on the fishing boat used in contravention of the prohibition or are in the ownership or custody, or under the control, of the owner, the master or the charterer (if any) of the fishing boat ;
+> - (c) any net or other fishing gear used in contravention of a prohibition imposed by an order under the said section 4 or 5 ;
+
+(4) In section 18 of that Act (enforcement of orders in relation to salmon and migratory trout) in subsection (1) for the words “section 4 of this Act, or any order under section 5 or 6 thereof" substitute the words “any order under section 4, 5 or 6 of this Act".
+
+(5) In the said section 18 in subsection (2) for the words “the said section 4, or any order under the said section 5 or 6," substitute the words “any order under the said section 4, 5 or 6".
+
+(6) Section 19(2) of that Act is repealed.
+
+(7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c801933]
+
+### Sea Fisheries Act 1968 (c. 77)
+
+**17.** (1) In sections 5(3), 8(1), . . . [^c801935], (5) and (6), 9(1) and 10(2) and (3) of the Sea Fisheries Act 1968 for the words “the fishery limits of the British Islands" substitute the words “British fishery limits".
+
+(2) The following provisions of that Act are repealed, that is to say,—
+
+- (a) section 6 ;
+- (b) in section 19(1). the definition of “**outer belt**”;
+- (c) section 19(2) ; and
+- (d) in paragraph 23 of Schedule 1, sub-paragraph (b).
+
+### Sea Fish Industry Act 1970 (c.11)
+
+**18.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c801936]
+
+### Water Act 1973 (c. 37)
+
+**19.**[^c801937] In paragraph 4 of Schedule 2 to the Water Act 1973 (seaward boundary of water authority areas) for the words “in which Her Majesty’s subjects have the exclusive right of fishing" substitute the words “to a distance of six nautical miles measured from the baselines from which the breadth of the territorial sea is measured".
+
+### Salmon and Freshwater Fisheries Act 1975 (c. 51)
+
+**20.** In section 5(1) of the Salmon and Freshwater Fisheries Act 1975 (prohibition on use of explosives, etc. to take or destroy fish) for the words “and within the exclusive fishery limits of the British Islands" substitute the words “to a distance of six nautical miles measured from the baselines from which the breadth of the territorial sea is measured".
+
+## SCHEDULE 3 — Transitional Provisions
+
+Section 9(2).
+
+### Designation orders
+
+**1.**[^key-54801637ecea37fbd30456f87ee89db8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Fish size orders.
+
+**2.** (1) The provisions of this paragraph apply to orders made under section 1 of the [^c801939]Sea Fish (Conservation) Act 1967 prescribing minimum fish sizes for the purpose of prohibitions imposed by and under that section on the carrying, landing and commercial use of under-sized fish.
+
+(2) From the coming into force of the amendment by this Act of subsection (4) of that section replacing the reference to the fishery limits of the British Islands, orders which by virtue of that subsection impose a prohibition on the carrying of under-sized fish by foreign fishing boats shall have effect—
+
+- (a) as if made by virtue of the subsection as amended; and
+- (b) as if the reference in the order to the fishery limits of the British Islands were a reference to British fishery limits.
+
+### Nets and gear orders
+
+**3.** (1) The provisions of this paragraph apply to orders made under section 3 of the [^c801940]Sea Fish (Conservation) Act 1967 imposing requirements relating to nets and other fishing gear carried by fishing boats.
+
+(2) From the coming into force of the amendment by this Act of subsection (2) of that section replacing the reference to the fishery limits of the British Islands, the prohibitions imposed on foreign fishing boats by Articles 5 and 7 of The [^c801941]Fishing Nets (North-East Atlantic) Order 1976 shall have effect—
+
+- (a) as if that order had been made under the subsection as amended; and
+- (b) as if the reference in those Articles to the fishery limits of the British Islands were a reference to British fishery limits.
+
+(3) The said amendment does not, in the case of other orders made before its coming into force, extend any prohibition imposed by virtue of the said subsection (2), but this is without prejudice to—
+
+- (a) the power conferred by paragraph 8(3) below to adapt such orders; or
+- (b) the power to vary such orders under the subsection as amended.
+
+### Licensing orders
+
+**4.** (1) The provisions of this paragraph apply to orders made under section 4 of the [^c801942]Sea Fish (Conservation) Act 1967 specifying an area in which fishing by British fishing boats by way of trade or business is prohibited unless authorised by licence.
+
+(2) Such an order continues in force notwithstanding the substitution of a new section 4 by section 3 of this Act and has effect (and may be varied or revoked) as if it were an order made under the new section 4 prohibiting, unless licensed, fishing by British fishing boats by way of trade or business in the area specified in the order.
+
+(3) Where such an order specifies the areas to which it applies by reference to the “fishery limits of the British Islands", that reference shall continue to be construed in accordance with the [^c801943]Fishery Limits Act 1964.
+
+(4) Where an order continues in force by virtue of sub-paragraph (2), licences authorising fishing in the area to which the order applies also continue in force and have effect (and may be varied, revoked or suspended) as if they had been granted under the new section 4.
+
+### Prohibition orders
+
+**5.** (1) The provisions of this paragraph apply to orders made under section 5 of the [^c801944]Sea Fish (Conservation) Act 1967 imposing a prohibition in relation to fishing in an area specified in the order.
+
+(2) Where such an order specifies the area to which it applies by reference to “the fishery limits of the British Islands", “the exclusive fishery limits" or any similar expression that reference shall continue to be construed in accordance with the [^c801945]Fishery Limits Act 1964.
+
+(3) From the coming into force of the amendment by this Act of subsection (8) of the said section 5 replacing the reference to the fishery limits of the British Islands that subsection applies as amended—
+
+- (a) to the prohibition contained in the [^c801946]Herring (Celtic Sea) (Prohibition of Fishing Method) Order 1971, and
+- (b) to subsection (6) of section 5 (duty to return fish) as that subsection applies to fish caught in contravention of that prohibition.
+
+(4) The subsection applies as unamended—
+
+- (a) to prohibitions contained in other orders made before the coming into force of the amendment, and
+- (b) to subsection (6) of section 5 as that subsection applies to fish caught in contravention of such prohibitions.
+
+### Powers of British sea fishery officers
+
+**6.** (1) The provisions of this paragraph apply to orders made under section 15(3) of the [^c801947]Sea Fish (Conservation) Act 1967 conferring powers on British sea fishery officers to enforce the provisions of sections 1 to 7 of that Act or of orders made under those provisions.
+
+(2) Where by virtue of any of the provisions of paragraphs 2 to 5 above any prohibition contained in, or operating by reference to, an order made under section 1, 3, 4 or 5 of the said Act of 1967 is extended to an area outside the old but within the new fishery limits, the powers conferred for the enforcement of that prohibition shall be correspondingly extended as if the order concerned had been made under section 15(3) as amended by this Act.
+
+(3) In sub-paragraph (2) “**the old fishery limits**” means the fishery limits of the British Islands set by the [^c801948]Fishery Limits Act 1964 and “**the new fishery limits**” means British fishery limits set by or under this Act.
+
+### Stowage of gear orders
+
+**7.**[^key-97b041a69911ab43b4f4350e48275bdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General
+
+**8.** (1) Subject to the foregoing provisions of this Schedule, the provisions of this paragraph apply to references in enactments, and in instruments made under enactments to the “fishery limits of the British Islands", the “exclusive fishery limits" and the “outer belt", and to similar references.
+
+(2) Such a reference in an enactment shall continue to be construed in accordance with the [^c801950]Fishery Limits Act 1964 until there is brought into force under this Act an amendment of the enactment replacing that reference.
+
+(3) An order under section 12 of this Act which appoints a day for the coming into force of an amendment replacing such a reference in an enactment may provide for such consequential adaptations in instruments made under the enactment as appear to the Ministers to be necessary or expedient.
+
+(4) Subject to sub-paragraph (3) above, such a reference in an instrument shall continue to be construed in accordance with the [^c801951]Fishery Limits Act 1964.
+
+**9.** Except so far as expressly provided, the provisions of this Schedule do not prejudice—
+
+- (a) sections 1(5) and 10(2)(*b*) of this Act (meaning of “British fishery limits" in enactments);
+- (b) section 12(2) to (4) of this Act (commencement and related powers);
+- (c) section 31 of the [^c801952]Interpretation Act 1889 (construction of instrument by reference to the enactment under which the instrument is made);
+- (d) section 38 of that Act (effect of repeals).
+
+## SCHEDULE 4 — REPEALS[^c801953]
+
+Section 9(3).
+
+| Chapter | Short Title | Extent of Repeal |
+| --- | --- | --- |
+| 1964 c. 72. | The Fishery Limits Act 1964. | Section 1(1), (3) and (4). |
+|  |  | Section 3(1). |
+| 1967 c. 84. | The Sea Fish (Conservation) Act 1967. | Section 19(2). |
+| 1968 c. 77. | The Sea Fisheries Act 1968. | Section 6. |
+|  |  | Section 13(1). |
+|  |  | In section 13(3), the words “adjudged or" and the words “magistrates’ court or". |
+|  |  | In section 19(1), the definition of “the outer belt". |
+|  |  | Section 19(2). |
+|  |  | In Schedule 1, in paragraph 23, sub-paragraph (b). |
+
+## Annotations
+
+[^c801865]: Modification: Certain functions of Minister of Agriculture, Fisheries and Food now exercisable (W.) by Secretary of State, or Minister and Secretary of State for Wales jointly: [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 2(1)(4)](https://www.legislation.gov.uk/uksi/1978/272/article/2/1/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1978/272/schedule/1)
+
+    Act: power to transfer functions conferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^key-522c5d53c6ebf6a8ee08634c2b8992c8]: Modification: Act: transfer of functions (31.3.2010) by [The Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/760/article/1/3), [4(1)(d)](https://www.legislation.gov.uk/uksi/2010/760/article/4/1/d) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2010/760/article/5/2)[(3)](https://www.legislation.gov.uk/uksi/2010/760/article/5/3))
+
+[^M_C_67fc71a9-6d0c-4214-f71c-81ea304cb0b8]: Modification: S. 1: power to repeal, substitute or amend conferred (31.3.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 4 para. 2(4)(5)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2/4); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+
+[^key-728e743c07b28b089a6a919691cb82e1]: Textual amendment: S. 1(1) substituted (12.11.2009 for specified purposes, 31.3.2014 in so far as not already in force ) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+
+[^key-a1f643f79f64b195fad8afe4c751217f]: Textual amendment: S. 1(3)(4) repealed (31.3.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2/3), [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/1); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+
+[^key-2e3e0e991ecb91528a59d83e50996d0c]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1976/86/section/2) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-063ff5df8c65e0241bf43896d43c1357]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1976/86/section/3) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/7) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^c801891]: Modification: The text of ss. 3–5, 9(1)(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c801892]: Marginal citation: [1968 c. 77](https://www.legislation.gov.uk/ukpga/1968/77).
+
+[^c801893]: Marginal citation: [1885 c. 70](https://www.legislation.gov.uk/ukpga/1885/70).
+
+[^c801894]: Modification: The text of ss. 3–5, 9(1)(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c801895]: Modification: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1976/86/section/6/1) excluded (28.3.2002) by S.I 2002/790, art. 3(3), Sch. 3 para. 4(2)
+
+[^c801905]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/1976/86/section/8) excluded (E.W.N.I.) (21.2.2000) by [S.I. 2000/181](https://www.legislation.gov.uk/uksi/2000/181), [art. 2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2000/181/article/2/2/a/v)
+
+[^c801904]: Modification: Joint functions of Ministers now exercisable by Ministers and Secretary of State for Wales jointly: [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 2(3)](https://www.legislation.gov.uk/uksi/1978/272/article/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1978/272/schedule/1)
+
+[^c801906]: Textual amendment: Words in s. 8 substituted (1.1.1996) by virtue of [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 49(a)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/49/a) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
+
+[^c801907]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukpga/1976/86/section/8) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. 1 para. 57(3)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/1/paragraph/57/3/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^key-78601a19f871703d5911d7a0916f05a8]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukpga/1976/86/section/8) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/2/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^c801912]: Modification: The text of ss. 3–5, 9(1)(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c801914]: Marginal citation: [1968 c. 77](https://www.legislation.gov.uk/ukpga/1968/77).
+
+[^c801915]: Modification: 1.1.1977 appointed under s. 12(2) by [S.I. 1976/2215](https://www.legislation.gov.uk/uksi/1976/2215), [art. 2](https://www.legislation.gov.uk/uksi/1976/2215/article/2)
+
+[^key-da60755a06e369a75e49d5f0fbfccf01]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/1) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
+
+[^c801917]: Textual amendment: [Sch. 1 paras. 2](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/2), [3(2)](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/3/2) repealed by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 46](https://www.legislation.gov.uk/ukpga/1981/29/section/46), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1981/29/schedule/5/part/II)
+
+[^c801918]: Modification: The text of Sch. 1 para. 3, Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c801919]: Textual amendment: [Sch. 1 paras. 2](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/2), [3(2)](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/3/2) repealed by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 46](https://www.legislation.gov.uk/ukpga/1981/29/section/46), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1981/29/schedule/5/part/II)
+
+[^c801920]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/4) repealed by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 46](https://www.legislation.gov.uk/ukpga/1981/29/section/46), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1981/29/schedule/5/part/I)
+
+[^c801921]: Modification: The text of Sch. 1 para. 3, Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c801922]: Textual amendment: [Sch. 2 paras. 1](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/2) repealed (S.) by [Inshore Fishing (Scotland) Act 1984 (c. 26, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1984/26), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1984/26/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1984/26/schedule/2)
+
+[^c801923]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/3) repealed by [Merchant Shipping Act 1988 (c. 12, SIF 111)](https://www.legislation.gov.uk/ukpga/1988/12), [ss. 57(5)](https://www.legislation.gov.uk/ukpga/1988/12/section/57/5), [58(4)](https://www.legislation.gov.uk/ukpga/1988/12/section/58/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1988/12/schedule/7), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/1988/12/schedule/8/paragraph/1)
+
+[^c801924]: Textual amendment: [Sch. 2 paras. 4](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/6) repealed (S.) by [Inshore Fishing (Scotland) Act 1984 (c. 26, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1984/26), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1984/26/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1984/26/schedule/2)
+
+[^c801925]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/5) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/X) Group 2
+
+[^c801926]: Textual amendment: [Sch. 2 paras. 4](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/6) repealed (S.) by [Inshore Fishing (Scotland) Act 1984 (c. 26, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1984/26), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1984/26/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1984/26/schedule/2)
+
+[^key-7e7df3fc8a5aa27fa204f6cdc6ea8a13]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/2)
+
+[^c801927]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/8) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1), [Pt.II](https://www.legislation.gov.uk/ukpga/1993/50/part/II)
+
+[^c801928]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/9) repealed by [Weights and Measures Act 1979 (c. 45, SIF 131)](https://www.legislation.gov.uk/ukpga/1979/45), [s. 23(2)](https://www.legislation.gov.uk/ukpga/1979/45/section/23/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1979/45/schedule/7)
+
+[^key-947f74524b2cfaf68f0c7bc8c8989e88]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/12) repealed (15.11.2006) by [Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2)
+
+[^c801929]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/13) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1), [Pt.II](https://www.legislation.gov.uk/ukpga/1993/50/part/II)
+
+[^c801930]: Textual amendment: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/14) repealed by [S.I. 1981/227 (N.I. 7)](https://www.legislation.gov.uk/nisi/1981/227), [art. 10(4)](https://www.legislation.gov.uk/nisi/1981/227/article/10/4), [Sch. 5](https://www.legislation.gov.uk/nisi/1981/227/schedule/5)
+
+[^c801931]: Textual amendment: Words repealed by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 46](https://www.legislation.gov.uk/ukpga/1981/29/section/46), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1981/29/schedule/5/part/II)
+
+[^c801933]: Textual amendment: [Sch. 2 para. 16(2)(7)](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/16/2/7) repealed by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 46](https://www.legislation.gov.uk/ukpga/1981/29/section/46), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1981/29/schedule/5/part/II)
+
+[^c801935]: Textual amendment: Figure repealed by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 46](https://www.legislation.gov.uk/ukpga/1981/29/section/46), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1981/29/schedule/5/part/II)
+
+[^c801936]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/18) repealed by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 46](https://www.legislation.gov.uk/ukpga/1981/29/section/46), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1981/29/schedule/5/part/I)
+
+[^c801937]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/19) repealed (E.W.) by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [s. 190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [Sch. 27 Pt. I](https://www.legislation.gov.uk/ukpga/1989/15/schedule/27/part/I) (with [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [194(9)](https://www.legislation.gov.uk/ukpga/1989/15/section/194/9), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58))
+
+[^key-54801637ecea37fbd30456f87ee89db8]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1976/86/schedule/3/paragraph/1) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^c801939]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
+
+[^c801940]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
+
+[^c801941]: Marginal citation: [S.I](https://www.legislation.gov.uk/ukpga/1976/86/section/I). 1976, No. 1324.
+
+[^c801942]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
+
+[^c801943]: Marginal citation: [1964 c. 72](https://www.legislation.gov.uk/ukpga/1964/72).
+
+[^c801944]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
+
+[^c801945]: Marginal citation: [1964 c. 72](https://www.legislation.gov.uk/ukpga/1964/72).
+
+[^c801946]: Marginal citation: [S.I](https://www.legislation.gov.uk/ukpga/1976/86/section/I). 1971, No. 1623.
+
+[^c801947]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
+
+[^c801948]: Marginal citation: [1964 c. 72](https://www.legislation.gov.uk/ukpga/1964/72).
+
+[^key-97b041a69911ab43b4f4350e48275bdd]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1976/86/schedule/3/paragraph/7) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^c801950]: Marginal citation: [1964 c. 72](https://www.legislation.gov.uk/ukpga/1964/72).
+
+[^c801951]: Marginal citation: [1964 c. 72](https://www.legislation.gov.uk/ukpga/1964/72).
+
+[^c801952]: Marginal citation: [1889 c. 63](https://www.legislation.gov.uk/ukpga/1889/63).
+
+[^c801953]: Modification: The text of Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991

@@ -1,0 +1,59 @@
+---
+title: Football Governance Act 2025, section 37
+act: Football Governance Act 2025
+section: '37'
+status: revised
+text_date: '2026-11-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2025/21/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Football Governance Act 2025, section 37
+
+> Text as at 2026-11-01.
+>
+> Extent: England, Wales.
+
+## 37. Matters relevant to determinations[^key-0177b385d5ebcfd2f18c2de4d183118e][^key-7436e746974c6eb1a61fcfa882a649c6]
+
+*Extent: E+W*
+
+(1) In making a determination under this Part in relation to a person, the IFR must have regard to any determination which—
+
+- (a) has been made by a competition organiser in relation to the person, and
+- (b) the IFR considers relevant to its determination.
+
+(2) In determining for the purposes of this Part whether it considers that an individual has the requisite honesty and integrity, the IFR must have regard to the following matters—
+
+- (a) whether the individual has been convicted of a criminal offence or subject to criminal proceedings, whether or not in England and Wales (in particular where the offence is or proceedings are in respect of serious criminal conduct);
+- (b) whether, on the balance of probabilities, the individual has engaged in conduct outside England and Wales which would, if done in England and Wales, amount to the commission of a serious offence;
+- (c) whether the individual is or has been a party to proceedings (other than criminal proceedings) in any court or tribunal;
+- (d) any action of a regulatory or disciplinary nature that is being or has been taken in relation to the individual (whether or not by the IFR and whether or not in England and Wales);
+- (e) whether the individual is prohibited from entering the United Kingdom;
+- (f) whether the individual is a designated person as defined by section 9(2) of the Sanctions and Anti-Money Laundering Act 2018;
+- (g) such other matters relating to honesty and integrity as may be specified for the purposes of this paragraph in rules made by the IFR.
+
+(3) In determining for the purposes of this Part whether it considers that an individual is financially sound, the IFR must have regard to the following matters—
+
+- (a) the individual’s financial arrangements, including in particular whether the individual has—
+  - (i) become bankrupt (in relation to England and Wales and Northern Ireland) or made an arrangement with creditors,
+  - (ii) had their estate sequestrated (in relation to Scotland), or
+  - (iii) been subject to any similar procedure (whether or not in the United Kingdom);
+- (b) the financial situation of any body in relation to which the individual holds, or has held, a position of responsibility (whether or not as an officer of the body);
+- (c) such other matters relating to financial soundness as may be specified for the purposes of this paragraph in rules made by the IFR.
+
+(4) In determining for the purposes of this Part whether it considers that an individual has the requisite competence, the IFR must have regard to the individual’s qualifications, experience and training.
+
+(5) In making a determination referred to in subsection (2), (3) or (4), the IFR may not have regard to any matter which is not referred to in that subsection (subject to subsection (1)).
+
+(6) Rules made under subsection (2)(g) or (3)(c) must not have the effect of authorising the IFR to make a determination in relation to any matter based solely on the individual’s connection with the government of any country or territory.
+
+(7) In this section, “**serious offence**” means an offence specified, or falling within a description specified, in Part 1 of Schedule 1 to the Serious Crime Act 2007.
+
+## Annotations
+
+[^key-0177b385d5ebcfd2f18c2de4d183118e]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+
+[^key-7436e746974c6eb1a61fcfa882a649c6]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/21/section/37) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/vi)

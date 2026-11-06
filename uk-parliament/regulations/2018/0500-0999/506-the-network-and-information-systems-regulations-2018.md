@@ -1,0 +1,2043 @@
+---
+title: The Network and Information Systems Regulations 2018
+id: uksi/2018/506
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2018-04-19'
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/506
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/506/pdfs/uksiem_20180506_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/506/pdfs/uksi_20180506_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/506/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Network and Information Systems Regulations 2018
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2018/506
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 506
+
+Electronic Communications
+
+The Network and Information Systems Regulations 2018
+
+Made
+
+19th April 2018
+
+Laid before Parliament
+
+20th April 2018
+
+Coming into force
+
+10th May 2018
+
+The Secretary of State is a Minister designated [^c22950601] for the purposes of section 2(2) of the European Communities Act 1972 [^c22950611] (“**the 1972 Act**”) in relation to electronic communications.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Secretary of State that it is expedient for certain references to provisions of EU instruments to be construed as references to those provisions as amended from time to time.
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A [^c22950621] of Schedule 2 to, the 1972 Act and by section 56 of the Finance Act 1973 [^c22950631] (“**the 1973 Act**”) and, in the case of section 56 of the 1973 Act, with the consent of the Treasury.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement, interpretation and application
+
+(1) These Regulations may be cited as the Network and Information Systems Regulations 2018 and come into force on 10th May 2018.
+
+(2) In these Regulations—
+
+- “**cloud computing service**” means a digital service that enables access to a scalable and elastic pool of shareable computing resources;
+- “**the Commission**” means the Commission of the European Union;
+- “[^key-4fe6152f231ab0942361eaa1b3d7a37b]**EU Regulation 2018/151**” means Commission Implementing Regulation (EU) 2018/151 of 30 January 2018 laying down rules for application of Directive (EU) 2016/1148 of the European Parliament and of the Council as regards further specification of the elements to be taken into account by digital service providers for managing the risks posed to the security of network and information systems and of the parameters for determining whether an incident has a substantial impact;
+- “**Cooperation Group**” means the group established under Article 11(1);
+- “**CSIRTs network**” means the network established under Article 12(1);
+- “**digital service**” means a service within the meaning of point (b) of Article 1(1) of Directive 2015/1535 which is of any the following kinds—
+  - (a) online marketplace;
+  - (b) online search engine;
+  - (c) cloud computing service;
+- “**digital service provider**” means any person who provides a digital service;
+- “**Directive 2013/11**” means Directive 2013/11/EU of the European Parliament and of the Council on alternative dispute resolution for consumer disputes [^c22950641], and amending Regulation [(EC) No 2006/2004](https://www.legislation.gov.uk/eur/2004/2006) and Directive [2009/22/EC](https://www.legislation.gov.uk/eudr/2009/22), as amended from time to time;
+- “**Directive 2015/1535**” means Directive (EU) 2015/1535 of the European Parliament and of the Council laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services [^c22950651], as amended from time to time;
+- “**Directive 2016/1148**” means Directive (EU) 2016/1148 of the European Parliament and of the Council concerning measures for a high common level of security of network and information systems across the Union [^c22950661], as amended from time to time;
+- “**Drinking Water Quality Regulator for Scotland**” means the person appointed by the Scottish Ministers under section 7(1) of the Water Industry (Scotland) Act 2002 [^c22950671];
+- “**essential service**” means a service which is essential for the maintenance of critical societal or economic activities;
+- “First-tier Tribunal” has the meaning given by section 3(1) of the Tribunals, Courts and Enforcement Act 2007[^key-7e22c5f5af351fd7ef8f1ebda968639b];
+- “**GCHQ**” means the Government Communications Headquarters within the meaning of section 3 of the Intelligence Services Act 1994 [^c22950681];
+- “**incident**” means any event having an actual adverse effect on the security of network and information systems;
+- “**network and information system**” (“**NIS**”) means—
+  - (a) an electronic communications network within the meaning of section 32(1) of the Communications Act 2003 [^c22950691];
+  - (b) any device or group of interconnected or related devices, one or more of which, pursuant to a program, perform automatic processing of digital data; or
+  - (c) digital data stored, processed, retrieved or transmitted by elements covered under paragraph (a) or (b) for the purposes of their operation, use, protection and maintenance;
+- “OES” (“operator of an essential service”) means a person who is deemed to be designated as an operator of an essential service under regulation 8(1) or (2A)[^key-c6925a1f20e85cd1ac90d5ccd75cfca2] or is designated as an operator of an essential service under regulation 8(3);
+- “**online marketplace**” means a digital service that allows consumers and/or traders as respectively defined in point (a) and in point (b) of Article 4(1) of Directive 2013/11 to conclude online sales or service contracts with traders either on the online marketplace's website or on a trader's website that uses computing services provided by the online marketplace;
+- “**online search engine**” means a digital service that allows users to perform searches of, in principle, all websites or websites in a particular language on the basis of a query on any subject in the form of a keyword, phrase or other input, and returns links in which information related to the requested content can be found;
+- [^key-9e5758f155c278b061f7f22266b4e571]...
+- “**relevant law-enforcement authority**” has the meaning given in section 63A(1A) of the Police and Criminal Evidence Act 1984 [^c22950701]; and
+- “representative” means any natural or legal person established in the United Kingdom who is able to act on behalf of a digital service provider established outside the United Kingdom with regard to its obligations under these Regulations; and[^key-e371627234b0dc4f3d0de98cf88f3698]
+- “**risk**” means any reasonably identifiable circumstance or event having a potential adverse effect on the security of network and information systems.
+
+(3) In these Regulations a reference to—
+
+- (a)[^key-91cd51ca961dc9963a29f7cc9507dcae] an Article, Annex or paragraph of an Article or Annex is a reference to the Article, Annex or paragraph as numbered in Directive 2016/1148.
+- (b) a numbered regulation, paragraph or Schedule is a reference to the regulation, paragraph or Schedule as numbered in these Regulations;
+- (c) “**the relevant authorities in a Member State**” is a reference to the designated single point of contact (“SPOC”), computer security incident response team (“CSIRT”) or[^key-f0031d7746dc3a275f7a9ac285908676] national competent authorities for that Member State;
+- (d) the “**designated competent authority for an OES[^key-1cf2875f4ccd2ab313fe881db13f8a96]**” is a reference to the competent authority that is designated under regulation 3(1) for the subsector in relation to which that OES[^key-be7294cd7edf8aa225f59297a721e80a] provides an essential service;
+- (e) a “**relevant digital service provider**” (“**RDSP**”) is a reference to a person who provides a digital service in the United Kingdom and satisfies the following conditions—
+  - (i) the head office for that provider is in the United Kingdom or that provider has nominated a representative who is established in the United Kingdom;
+  - (ii) the provider is not a micro or small enterprise as defined in Commission Recommendation 2003/361/EC [^c22950711];
+- (f) the “**NIS enforcement authorities**” is a reference to the competent authorities designated under regulation 3(1) and the Information Commission[^key-4ca3017d29d1afcdc05ec8c0cecb59db];
+- (g) “**security of network and information systems**” means the ability of network and information systems to resist, at a given level of confidence, any action that compromises the availability, authenticity, integrity or confidentiality of stored or transmitted or processed data or the related services offered by, or accessible via, those network and information systems.
+
+(4) Expressions and words used in these Regulations which are also used in Directive 2016/1148 have the same meaning as in Directive 2016/1148.
+
+(5) Nothing in these Regulations prevents a person from taking an action (or not taking an action) which that person considers is necessary for the purposes of safeguarding the United Kingdom's essential State functions, in particular—
+
+- (a) safeguarding national security, including protecting information the disclosure of which the person considers is contrary to the essential interests of the United Kingdom's security; and
+- (b) maintaining law and order, in particular, to allow for the investigation, detection and prosecution of criminal offences [^c22950721].
+
+(6) These Regulations apply to—
+
+- (a) the United Kingdom, including its internal waters;
+- (b) the territorial sea adjacent to the United Kingdom;
+- (c) the sea (including the seabed and subsoil) in any area designated under section 1(7) of the Continental Shelf Act 1964 [^c22950731].
+
+## PART 2 — The National Framework
+
+### 2. The NIS national strategy
+
+(1) A Minister of the Crown must designate and publish a strategy to provide strategic objectives and priorities on the security of network and information systems in the United Kingdom (“the NIS national strategy”).
+
+(2) The strategic objectives and priorities set out in the NIS national strategy must be aimed at achieving and maintaining a high level of security of network and information systems in—
+
+- (a) the sectors specified in column 1 of the table in Schedule 1 (“the relevant sectors”); and
+- (b) digital services.
+
+(3) The NIS national strategy may be published in such form and manner as the Minister considers appropriate.
+
+(4) The NIS national strategy may be reviewed by the Minister at any time and, if it is revised following such a review, the Minister must designate and publish a revised NIS national strategy as soon as reasonably practicable following that review.
+
+(5) The NIS national strategy must, in particular, address the following matters—
+
+- (a) the regulatory measures and enforcement framework to secure the objectives and priorities of the strategy;
+- (b) the roles and responsibilities of the key persons responsible for implementing the strategy;
+- (c) the measures relating to preparedness, response and recovery, including cooperation between public and private sectors;
+- (d) education, awareness-raising and training programmes relating to the strategy;
+- (e) research and development plans relating to the strategy;
+- (f) a risk assessment plan identifying any risks; and
+- (g) a list of the persons involved in the implementation of the strategy.
+
+(6)[^key-28a85e24f9a5c5e5fe3554a02dc9a455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Before publishing the NIS national strategy [^key-09289a455ccdc09e0c458c923738f8b1]..., the Minister may redact any part of it which relates to national security.
+
+(8) In this regulation “**a Minister of the Crown**” has the same meaning as in section 8(1) of the Ministers of the Crown Act 1975 [^c22950741].
+
+### 3. Designation of national competent authorities
+
+(1) The person specified in column 3 of the table in Schedule 1 is designated as the competent authority, for the territorial jurisdiction indicated in that column, and for the subsector specified in column 2 of that table (“the designated competent authorities”).
+
+(2) The Information Commission[^key-54e12aee09fe8b662ac549225d240d96] is designated as the competent authority for the United Kingdom for RDSPs.
+
+(3) In relation to the subsector for which it is designated under paragraph (1), the competent authority must—
+
+- (a) review the application of these Regulations;
+- (b) prepare and publish guidance;
+- (c) keep a list of all the operators of essential services who are designated, or deemed to be designated, under regulation 8 [^key-33ce2ded5dda48ad2d97df17ac802ac7]...;
+- (d) keep a list of all the revocations made under regulation 9;
+- (e) send a copy of the lists mentioned in sub-paragraphs (c) and (d) to GCHQ, as the SPOC designated under regulation 4, to enable it to prepare the report mentioned in regulation 4(3);
+- (f) consult and co-operate with the Information Commission[^key-c10eed4d6c82dd2a0e98986ed56dd83f] when addressing incidents that result in breaches of personal data; and
+- (g) in order to fulfil the requirements of these Regulations, consult and co-operate with—
+  - (i) relevant law-enforcement authorities;
+  - (ii)[^key-bf69834546bfb7b757c7462c57d7cdd5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) other competent authorities in the United Kingdom;
+  - (iv) the SPOC that is designated under regulation 4; and
+  - (v) the CSIRT that is designated under regulation 5.
+
+(3A)[^key-cba497abbcc8f6fe70f7943ade5620f1] In relation to the subsector for which it is designated under paragraph (1), the competent authority may consult and co-operate with a public authority in the EU if it is in the interests of effective regulation of that subsector (whether inside or outside the United Kingdom).
+
+(4) In relation to digital services, the Information Commission[^key-e9eefe347d17f487d30aa91256f9320f] must—
+
+- (a) review the application of these Regulations;
+- (b) prepare and publish guidance; and
+- (c) consult and co-operate with the persons mentioned in paragraph (3)(g), in order to fulfil the requirements of these Regulations.
+
+(5) The guidance that is published [^key-7537de2a641caabe997975fec80479af]... under paragraph (3)(b) or (4)(b) may be—
+
+- (a) published in such form and manner as the competent authority or Information Commission[^key-8ae1de5421812845b3a7d15f5b450772] considers appropriate; and
+- (b) reviewed at any time, and if it is revised following such a review, the competent authority or Information Commission must publish revised guidance as soon as reasonably practicable.
+
+(6) The competent authorities designated under paragraph (1) and the Information Commission[^key-2aa475baed1c5efb9d554e2b45ea1e63] must have regard to the national strategy that is published under regulation 2(1) when carrying out their duties under these Regulations.
+
+### 4. Designation of the single point of contact
+
+(1) GCHQ is designated as the SPOC on the security of network and information systems for the United Kingdom.
+
+(2)[^key-02a82d983dc9fdc7b3ebd2aa1b411f8f] The SPOC may liaise with the relevant authorities in any Member State of the EU, the Cooperation Group and the CSIRTs network if it considers it appropriate.
+
+(2A)[^key-62513d43d70b0f263396d8855e6ff322] The SPOC must—
+
+- (a) consult and co-operate, as it considers appropriate, with relevant law enforcement authorities;
+- (b) co-operate with the NIS enforcement authorities to enable the enforcement authorities to fulfil their obligations under these Regulations.
+
+(3) The SPOC may, if it considers it appropriate to do so[^key-c21062e605f65dfbbae2b8b9c8e12858] submit reports to—
+
+- (a) the Cooperation Group based on the incident reports it received under regulation 11(9) and 12(15), including the number of notifications and the nature of notified incidents; and
+- (b) the Commission identifying the number of operators of essential services for each subsector listed in Schedule 2 [^key-9ca28880a1114ed073c9d9665255e352]....
+
+(4)[^key-b3598734e9d5d9e5062706b8aaf86d54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-b3598734e9d5d9e5062706b8aaf86d54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Designation of computer security incident response team
+
+(1) GCHQ is designated as the CSIRT for the United Kingdom in respect of the relevant sectors and digital services.
+
+(2) The CSIRT must—
+
+- (a) monitor incidents in the United Kingdom;
+- (b) provide early warning, alerts, announcements and dissemination of information to relevant stakeholders about risks and incidents;
+- (c) respond to any incident notified to it under regulation 11(5)(b) or regulation 12(8);
+- (d) provide dynamic risk and incident analysis and situational awareness;
+- (e)[^key-5823bb34164559fbafaafc9ded85a088] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) establish relationships with the private sector to facilitate co-operation with that sector;
+- (g) promote the adoption and use of common or standardised practices for—
+  - (i) incident and risk handling procedures, and
+  - (ii) incident, risk and information classification schemes; and
+- (h) co-operate with NIS enforcement authorities to enable the enforcement authorities to fulfil their obligations under these Regulations.
+
+(3)[^key-70316e3176470846c47a8aefc608f230] The CSIRT may co-operate with or participate in international co-operation networks (including the CSIRTs network) if the CSIRT considers it appropriate to do so.
+
+### 6. Information sharing – enforcement authorities
+
+(1) The NIS enforcement authorities may share information with each other, relevant law-enforcement authorities,[^key-193d4570f97e17465fa4c2e8fba18229] the CSIRT, and public authorities in the EU[^key-7e31ebec28d7bcfc80f64168e50d5510] if that information sharing is—
+
+- (a)[^key-8739e10c9f04f94d0ec8735a48151b75] necessary for—
+  - (i) the purposes of these Regulations or of facilitating the performance of any functions of a NIS enforcement authority under or by virtue of these Regulations or any other enactment;
+  - (ii) national security purposes; or
+  - (iii) purposes related to the prevention or detection of crime, the investigation of an offence or the conduct of a prosecution;
+- (b) limited to information which is relevant and proportionate to the purpose of the information sharing.
+
+(1A)[^key-2937c867c47d8dfbbba6245f6693a3ae] Information shared under paragraph (1) may not be further shared by the person with whom it is shared under that paragraph for any purpose other than a purpose mentioned in that paragraph unless otherwise agreed by the NIS enforcement authority.
+
+(2) When sharing information with a public authority in the EU[^key-8d05983322d72c74f793bebb7824d1e9] under paragraph (1), the NIS enforcement authorities are not required to share—
+
+- (a) confidential information, or
+- (b) information which may prejudice the security or commercial interests of operators of essential services or digital service providers.
+
+### 7. Information sharing – Northern Ireland
+
+(1) In order to facilitate the exercise of the Northern Ireland competent authority's functions under these Regulations—
+
+- (a) a Northern Ireland Department may share information with the Northern Ireland competent authority; and
+- (b) the Northern Ireland competent authority may share information with a Northern Ireland Department.
+
+(2) In this regulation—
+
+- (a) “**the Northern Ireland competent authority**” means the competent authority that is specified for Northern Ireland in column 3 of the table in Schedule 1 in relation to the subsectors specified in column 2 of that table; and
+- (b) “**a Northern Ireland Department**” means a department mentioned in Schedule 1 to the Departments Act (Northern Ireland) 2016 [^c22950751].
+
+## PART 3 — Operators of essential services
+
+### 8. Identification of operators of essential services
+
+(1) If a person provides an essential service of a kind referred to in [^key-a8c9cc8155aaf9922789d00f3cf293d2]... Schedule 2 and that service—
+
+- (a) relies on network and information systems; and
+- (b) satisfies a threshold requirement described for that kind of essential service,
+
+that person is deemed to be designated as an OES for the subsector that is specified with respect to that essential service in that Schedule.
+
+(1A)[^key-0a03d9aaa92349905133c1ad60830db6] Paragraph (1) does not apply to a network provider or service provider who is subject to the requirements of sections 105A to 105C of the Communications Act 2003 and in this paragraph “network provider” and “service provider” have the meanings given in section 105A(5) of that Act.
+
+(2) A person who falls within paragraph (1) must notify the designated competent authority in writing[^key-6b24ab9815408ca690469d84159443e6] of that fact before the notification date.
+
+(2A)[^key-bc160b1c3bfd47ad74d6127a633b12cd] Each integrated care board is deemed to be designated as an OES for the healthcare settings subsector and, in relation to an integrated care board, any services provided by it (including the making of arrangements for the provision of services by others) are deemed to be essential services.
+
+(3) Even if a person does not meet the threshold requirement mentioned in paragraph (1)(b), a competent authority may designate that person as an OES for the subsector in relation to which that competent authority is designated under regulation 3(1), if the following conditions are met—
+
+- (a) that person provides an essential service of a kind specified in [^key-7a8ccf95a43d784c485a75ba54d983be]... Schedule 2 for the subsector in relation to which the competent authority is designated under regulation 3(1);
+- (b) the provision of that essential service by that person relies on network and information systems; and
+- (c) the competent authority concludes that an incident affecting the provision of that essential service by that person is likely to have significant disruptive effects on the provision of the essential service.
+
+(4) In order to arrive at the conclusion mentioned in paragraph (3)(c), the competent authority must have regard to the following factors—
+
+- (a) the number of users relying on the service provided by the person;
+- (b) the degree of dependency of the other relevant sectors on the service provided by that person;
+- (c) the likely impact of incidents on the essential service provided by that person, in terms of its degree and duration, on economic and societal activities or public safety;
+- (d) the market share of the essential service provided by that person;
+- (e) the geographical area that may be affected if an incident impacts on the service provided by that person;
+- (f) the importance of the provision of the service by that person for maintaining a sufficient level of that service, taking into account the availability of alternative means of essential service provision;
+- (g) the likely consequences for national security if an incident impacts on the service provided by that person; and
+- (h) any other factor the competent authority considers appropriate to have regard to, in order to arrive at a conclusion under this paragraph.
+
+(5) A competent authority must designate an OES under paragraph (3) by notice in writing served on the person who is to be designated and provide reasons for the designation in the notice.
+
+(6) Before a competent authority designates a person as an OES under paragraph (3), the authority may—
+
+- (a)[^key-4ea01a06b7d71c63a578e8d3ccbb22ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) invite the person to submit any written representations about the proposed decision to designate it as an OES.
+
+(7)[^key-a38922e465b1258ed76866dac79961ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7A)[^key-0ceca1f5d08aa0c3797718335207abc9] If a person has reasonable grounds to believe that they no longer fall within paragraph (1) or that the conditions for designation under paragraph (3) are no longer met in relation to them, they must as soon as practicable notify the designated competent authority in writing and provide with that notification evidence supporting that belief.
+
+(7B) A competent authority that receives from a person a notification and supporting evidence referred to in paragraph (7A) must have regard to that notification and evidence in considering whether to revoke that person’s designation.
+
+(8) A competent authority must maintain a list of all the persons who are deemed to be designated under paragraph (1) or (2A)[^key-5145be3ef807fdad1022026e8b5afd79] or designated under paragraph (3) for the subsectors in relation to which that competent authority is designated under regulation 3(1).
+
+(9) The competent authority must review the list mentioned in paragraph (8) at regular intervals and in accordance with paragraph (10).
+
+(10) The first review under paragraph (9) must take place before 9th May 2020, and subsequent reviews must take place, at least, biennially.
+
+(11) In this regulation the “notification date” means[^key-567199fe79e6ea7cd62ede251d5df481]—
+
+- (a) 10th August 2018, in the case of a person who falls within paragraph (1) on the date these Regulations come into force; or
+- (b) in any other case, the date three months after the date on which the person falls within that paragraph.
+
+### 8A. Nomination by an OES of a person to act on its behalf in the United Kingdom[^key-4438e96257bffbc2e39232b854b33059]
+
+(1) This regulation applies to any OES who has their head office outside the United Kingdom and—
+
+- (a) provides an essential service of a kind referred to in one or more of paragraphs 1, 2, 3 and 10 of Schedule 2 (energy or digital infrastructure sector) within the United Kingdom; or
+- (b) provides an essential service of a kind referred to in one or more of paragraphs 4 to 9 of Schedule 2 (transport, health or drinking water supply and distribution sector) within the United Kingdom and falls within paragraph (2).
+
+(2) An OES falls within this paragraph if they have received a notice in writing from a designated competent authority for the OES requiring them to comply with this regulation.
+
+(3) An OES to whom this regulation applies must—
+
+- (a) nominate in writing a person in the United Kingdom with the authority to act on their behalf under these Regulations, including for the service of documents for the purposes of regulation 24 (a “nominated person”);
+- (b) before the relevant date, notify the designated competent authority for the OES in writing of—
+  - (i) their name;
+  - (ii) the name and address of the nominated person; and
+  - (iii) up-to-date contact details of the nominated person (including email addresses and telephone numbers).
+
+(4) The OES must notify the designated competent authority for the OES of any changes to the information notified under paragraph (3)(b) as soon as practicable and in any event within seven days beginning with the day on which the change took effect.
+
+(5) The designated competent authority for the OES and GCHQ may, for the purposes of carrying out their responsibilities under these Regulations, contact the nominated person instead of or in addition to the OES.
+
+(6) A nomination under paragraph (3) is without prejudice to any legal action which could be initiated against the OES.
+
+(7) In this regulation, “relevant date” means the date three months after—
+
+- (a) the first day (including that day) on which the OES was deemed to be designated as an OES under regulation 8(1); or
+- (b) the day (including that day) on which the OES was designated as an OES under regulation 8(3),
+
+unless the first day referred to in sub-paragraph (a) or the day referred to in sub-paragraph (b) was before 31st December 2020 in which case it means 31st March 2021.
+
+### 9. Revocation
+
+(1) Even if a person is deemed to be designated as an OES under regulation 8(1), the designated competent authority for the OES[^key-e9b9a40f9a4be5bb274a9d8358cd3012] may revoke the deemed designation , by notice in writing[^key-c94471c381e0f8f6f6d094ee1dfe22db], if the authority concludes that an incident affecting the provision of that essential service by that person is not likely to have significant disruptive effects on the provision of the essential service.
+
+(2) The designated competent authority for an OES may revoke the designation of that OES[^key-bdfe2952a10d5914d3121d8f81ffb8d8] under regulation 8(3), by notice in writing[^key-2e7bf386284186ebf76d7b9856106cad], if the conditions mentioned in that regulation are no longer met by that person.
+
+(3) Before revoking a deemed designation of a person as an OES[^key-d413d0186fdce54f1beddcd85483ccdb] under regulation 8(1), or a designation of a person as an OES under regulation 8(3), the competent authority must—
+
+- (a) serve a notice in writing of proposed revocation on that person;
+- (b) provide reasons for the proposed decision;
+- (c) invite that person to submit any written representations about the proposed decision within such time period as may be specified by the competent authority; and
+- (d) consider any representations submitted by the person under sub-paragraph (c) before a final decision is taken to revoke the designation.
+
+(4) In order to arrive at the conclusion mentioned in paragraph (1), the competent authority must have regard to the factors mentioned in regulation 8(4).
+
+(5)[^key-caa807c22450de45df150a0645430c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. The security duties of operators of essential services
+
+(1) An OES must take appropriate and proportionate technical and organisational measures to manage risks posed to the security of the network and information systems on which their essential service relies.
+
+(2) An OES must take appropriate and proportionate measures to prevent and minimise the impact of incidents affecting the security of the network and information systems used for the provision of an essential service, with a view to ensuring the continuity of those services.
+
+(3) The measures taken under paragraph (1) must, having regard to the state of the art, ensure a level of security of network and information systems appropriate to the risk posed.
+
+(4) Operators of essential services must have regard to any relevant guidance issued by the relevant competent authority when carrying out their duties imposed by paragraphs (1) and (2).
+
+### 11. The duty to notify incidents
+
+(1) An OES must notify the designated competent authority for the OES in writing[^key-3002c787cb9215b9f8453f5a838d810b] about any incident which has a significant impact on the continuity of the essential service which that OES provides (“a network and information systems (“NIS”) incident”).
+
+(2) In order to determine the significance of the impact of an incident an OES must have regard to the following factors—
+
+- (a) the number of users affected by the disruption of the essential service;
+- (b) the duration of the incident; and
+- (c) the geographical area affected by the incident.
+
+(3) The notification mentioned in paragraph (1) must—
+
+- (a) provide the following—
+  - (i) the operator's name and the essential services it provides;
+  - (ii) the time the NIS incident occurred;
+  - (iii) the duration of the NIS incident;
+  - (iv) information concerning the nature and impact of the NIS incident;
+  - (v) information concerning any, or any likely, cross-border impact of the NIS incident; and
+  - (vi) any other information that may be helpful to the competent authority; and
+- (b) be provided to the competent authority—
+  - (i) without undue delay and in any event no later than 72 hours after the operator is aware that a NIS incident has occurred; and
+  - (ii) in such form and manner as the competent authority determines.
+
+(4) The information to be provided by an OES under paragraph (3)(a) is limited to information which may reasonably be expected to be within the knowledge of that OES.
+
+(5) After receipt of a notification under paragraph (1), the competent authority must—
+
+- (a) assess what further action, if any, is required in respect of that incident; and
+- (b) share the NIS incident information with the CSIRT as soon as reasonably practicable.
+
+(6)[^key-86dbde6b8deeb6199988fa8cb3c3d68a] After receipt of the NIS incident information under paragraph (5)(b), and based on that information, the CSIRT may inform the relevant authorities in a Member State if the CSIRT considers that the incident has a significant impact on the continuity of an essential service provision in that Member State.
+
+(7) After receipt of a notification under paragraph (1), the competent authority or CSIRT may inform—
+
+- (a) the OES who provided the notification about any relevant information that relates to the NIS incident, including how it has been followed up, in order to assist that operator to deal with that incident more effectively or prevent a future incident; and
+- (b) the public about the NIS incident, as soon as reasonably practicable, if the competent authority or CSIRT is of the view that public awareness is necessary in order to handle that incident or prevent a future incident.
+
+(8) Before the competent authority or CSIRT informs the public about a NIS incident under paragraph (7)(b), the competent authority or CSIRT must consult each other and the OES who provided the notification under paragraph (1).
+
+(9) The competent authority must provide an annual report to the SPOC identifying the number and nature of NIS incidents notified to it under paragraph (1).
+
+(10) The first report mentioned in paragraph (9) must be submitted on or before 1st July 2018 and subsequent reports must be submitted at annual intervals.
+
+(11) The CSIRT is not required to share information under paragraph (6) if the information contains—
+
+- (a) confidential information; or
+- (b) information which may prejudice the security or commercial interests of an OES.
+
+(12) Operators of essential services must have regard to any relevant guidance issued by the relevant competent authority when carrying out their duties imposed by paragraphs (1) to (4).
+
+## PART 4 — Digital Services
+
+### 12. Relevant digital service providers
+
+(1) A RDSP must identify and take appropriate and proportionate measures to manage the risks posed to the security of network and information systems on which it relies to provide, within the United Kingdom[^key-75ce6850781517ce5eca20b973ceb20e], the following services—
+
+- (a) online marketplace;
+- (b) online search engine; or
+- (c) cloud computing service.
+
+(2) The measures taken by a RDSP under paragraph (1) must—
+
+- (a) (having regard to the state of the art) ensure a level of security of network and information systems appropriate to the risk posed;
+- (b) prevent and minimise the impact of incidents affecting their network and information systems with a view to ensuring the continuity of those services; and
+- (c) take into account the following elements as specified in Article 2 of EU Regulation 2018/151—
+  - (i) the security of systems and facilities;
+  - (ii) incident handling;
+  - (iii) business continuity management;
+  - (iv) monitoring auditing and testing; and
+  - (v) compliance with international standards.
+
+(3) A RDSP must notify the Information Commission[^key-b79e2f8117508c7ac8c31580d3fa83fb] in writing[^key-d279f86010ed9b559f770352a018edcb] about any incident having a substantial impact on the provision of any of the digital services mentioned in paragraph (1) that it provides.
+
+(4) The requirement to notify in paragraph (3) applies only if the RDSP has access to information which enables it to assess whether the impact of an incident is substantial.
+
+(5) The notification mentioned in paragraph (3) must provide the following information—
+
+- (a)[^key-ceb173d2e46fb471a5e04b1c7d2a43f9] the RDSP’s name and the digital services that it provides;
+- (b) the time the [^key-1416a9c008faf3d508411bc45361c20b]... incident occurred;
+- (c) the duration of the [^key-1416a9c008faf3d508411bc45361c20b]... incident;
+- (d) information concerning the nature and impact of the [^key-1416a9c008faf3d508411bc45361c20b]... incident;
+- (e) information concerning any, or any likely, cross-border impact of the [^key-1416a9c008faf3d508411bc45361c20b]... incident; and
+- (f) any other information that may be helpful to the Information Commission[^key-bde88136b78694c61f85ba22b5ac76dd].
+
+(6) The notification under paragraph (3) must—
+
+- (a) be made without undue delay and in any event no later than 72 hours after the RDSP is first[^key-6e0ab1688c737de3cd0a3a9a8deca798] aware that an incident has occurred; and
+- (b) contain sufficient information to enable the Information Commission[^key-3f7c5e7e3c6b69484c8c55732780981a] to determine the significance of any cross-border impact.
+
+(7) In order to determine whether the impact of an incident is substantial the RDSP must—
+
+- (a) take into account the following parameters, as specified in Article 3 of EU Regulation 2018/151—
+  - (i) the number of users affected by the incident and, in particular, the users relying on the digital service for the provision of their own services;
+  - (ii) the duration of the incident;
+  - (iii) the geographical area affected by the incident;
+  - (iv) the extent of the disruption to the functioning of the service;
+  - (v) the extent of the impact on economic and societal activities; and
+- (b)[^key-3adb043b4b2785570e672ecac7602aa4] have regard to any relevant guidance published by the Information Commission[^key-66526ccb37b458115c73d36d28168366].
+
+(8) After receipt of a notification under paragraph (3) the Information Commission[^key-fffd95c6b8128056dbb25c3d4a535639] must share the incident notification with the CSIRT as soon as reasonably practicable.
+
+(9) If an OES is reliant on a RDSP to provide an essential service, the operator must notify the designated competent authority for the OES in writing[^key-025db9dc5b55fd84c45d3cb0bf840f0f] in relation to it about any significant impact on the continuity of the service it provides caused by an incident affecting the RDSP without undue delay[^key-263b425f86886415a9910ceafeedde55].
+
+(10)[^key-dcca321ba0a1fc9c35764b95300c1d15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) The Information Commission[^key-2c5a4ab9eb385e47ddb9aca5ec6bac17] is not required to share information under these Regulations[^key-0a80b2951b6dcaf76f170afa116bdd99] if the information contains—
+
+- (a) confidential information; or
+- (b) information which may prejudice the security or commercial interests of a RDSP.
+
+(12) If the Information Commission or CSIRT—
+
+- (a) consults with the RDSP responsible for an incident notification under paragraph (3), and
+- (b) is of the view that public awareness about that incident is necessary to prevent or manage it, or is in the public interest,
+
+the Information Commission or CSIRT may inform the public about that incident or the Information Commission[^key-0731c67f4e53adc29d3bf66aa560f205] may direct the RDSP responsible for the notification to do so.
+
+(13) Before the Information Commission or CSIRT informs the public about an incident notified under paragraph (3), the Information Commission or CSIRT must consult each other and the RDSP who provided the notification.
+
+(14) The Information Commission may inform the public about an incident affecting digital services in a Member State of the EU[^key-55f1890b9a9bbc679ee8c94804a999ba] if—
+
+- (a) the relevant authorities in the affected Member State notify the Information Commission about the incident;
+- (b) the Information Commission consults with those relevant authorities; and
+- (c) the Information Commission is of the view mentioned in paragraph (12)(b)[^key-66c872f80e64aca45eb81464cd681c1c].
+
+(15) The Information Commission must provide an annual report to the SPOC identifying the number and nature of incidents notified to it under paragraph (3).
+
+(16) The first report mentioned in paragraph (15) must be submitted on or before 1st July 2018 and subsequent reports must be submitted at annual intervals after that date.
+
+(17)[^key-baf491ce97f50f0928e2ffe6167e689e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Co-operation with the European Union[^key-8f8c4109a30d988c6cdd2415ce5709e0]
+
+The Information Commission[^key-358fff2cf9e26b0ef68cb6c82fcf1057] may give information and assistance to, and otherwise co-operate with, a public authority in the EU if the Information Commission considers that to do so would be in the interests of effective supervision of digital service providers (whether inside or outside the United Kingdom), including in the event of an incident notified under regulation 12(3).
+
+### 14. Registration with the Information Commission[^key-43273309c41bdb491ecea2d3958ea6cb]
+
+(1) The Information Commission[^key-0b9840c8a7dadd093d67b8205e9812b2] must maintain a register of all RDSPs that have been notified to it.
+
+(2) A RDSP must submit the following details to the Information Commission before the registration date for the purpose of maintaining the register mentioned in paragraph (1)—
+
+- (a) the name of the RDSP;
+- (b) the address of its head office, or of its nominated representative; and
+- (c) up-to-date contact details (including email addresses and telephone numbers).
+
+(3) A RDSP must notify the Information Commission in writing[^key-d68909692295a7154f23d0d7fa94c1d4] about any changes to the details it submitted under paragraph (2) as soon as possible, and in any event within three months of the date on which the change took effect.
+
+(4) In this regulation, the “**registration date**” means—
+
+- (a) 1st November 2018, in the case of a RDSP who satisfies the conditions mentioned in regulation 1(3)(e) on the coming into force date of these Regulations, or
+- (b) in any other case, the date three months after the RDSP satisfies those conditions.
+
+### 14A. Representatives of digital service providers established outside the United Kingdom[^key-565d7705d43987c95bc7c209472b5ae7]
+
+(1) This regulation applies to any digital service provider which—
+
+- (a) has its head office outside the United Kingdom, but which offers digital services within the United Kingdom; and
+- (b) is not a small or micro enterprise as defined in Commission Recommendation 2003/361/EC.
+
+(2) The digital service provider must—
+
+- (a) nominate in writing a representative in the United Kingdom; and
+- (b) notify the Information Commission[^key-a0563f7cb3d497dd12ddbf616f4583b0] of the name and contact details of that representative.
+
+(3) The digital service provider must comply with paragraph (2)—
+
+- (a) in the case of a provider which is offering digital services within the United Kingdom on the coming into force date of these regulations, within three months of the date on which these regulations come into force; or
+- (b) in any other case, within three months of the provider first offering digital services in the United Kingdom.
+
+(4) The Information Commission[^key-8d46c7c89e77f71781b6a1f4c28454e6] or GCHQ may contact the representative instead of or in addition to the digital service provider for the purposes of ensuring compliance with these Regulations.
+
+(5) A nomination under paragraph (1) is without prejudice to any legal action which could be initiated against the nominating digital service provider.
+
+## PART 5 — Enforcement and penalties
+
+### 15. Information notices
+
+(1) In order to assess whether a person should be an OES, a designated competent authority may serve an information notice in writing[^key-6268e5fcef7b21673f16900b2d0e1d36] upon any person requiring that person to provide it with all such information as[^key-8f86414d60a78a99e91cb14911b9516e] it reasonably requires to establish whether—
+
+- (a) a threshold requirement described in [^key-3657b90cf835765976db9fec92bdb9d0]... Schedule 2 is met; or
+- (b) the conditions mentioned in regulation 8(3) are met.
+
+(2) A designated competent authority may serve an information notice in writing[^key-bf4f27733af3aca6a9b9fab68c5f08bb] upon an OES requiring the OES[^key-386b1fa6417613a2669034cb5cc81423] to provide it with all such information as[^key-312033cd447aecae744319b1c6f3d8c4] it reasonably requires for one or more of the following purposes[^key-5b9aa31f46584c7cbff99180c263380b]—
+
+- (a)[^key-da47c06566687e926022d8753b0518a3] to assess the security of the OES’s network and information systems;
+- (b) to establish whether there have been any events that the authority has reasonable grounds to believe have had, or could have, an adverse effect on the security of network and information systems and the nature and impact of those events;
+- (c) to identify any failure of the OES to comply with any duty set out in these Regulations;
+- (d) to assess the implementation of the OES’s security policies, including from the results of any inspection conducted under regulation 16 and any underlying evidence in relation to such an inspection.
+
+(3) The Information Commission[^key-2e5ddcd578b45b6ff35f76e1054836a4] may serve upon a RDSP an information notice in writing[^key-6d4cc5d88aa9ed79c1a877b5782dfb76] requiring that RDSP to provide the Information Commission with all such information as[^key-f38bf0b03610e2e7289f84fbed6eb702] the Information Commission reasonably requires for one or more of the following purposes[^key-06bc612fa784ff4e3723299467c53180]—
+
+- (a)[^key-ebfb9d7a224e0d9136c043562b2dcc3b] to assess the security of the RDSP’s network and information systems;
+- (b) to establish whether there have been any events that the Information Commission has reasonable grounds to believe have had, or could have, an adverse effect on the security of network and information systems and the nature and impact of those events;
+- (c) to identify any failure of the RDSP to comply with any duty set out in these Regulations;
+- (d) to assess the implementation of the RDSP’s security policies, including from the results of any inspection conducted under regulation 16 and any underlying evidence in relation to such an inspection.
+
+(4)[^key-a694de8398d7868c6718ebcaabb9f9e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) An information notice must—
+
+- (a) describe the information that is required by the designated competent authority or the Information Commission[^key-b3d580e7d3e372ace44ac403fcf5ec6b];
+- (b) provide the reasons for requesting such information;
+- (c) specify the form and manner in which the requested information is to be provided; and
+- (d) specify the time period within which the information must be provided.
+
+(5A)[^key-2c4dd5a6ac599b3d275015596f27c087] A person upon whom an information notice has been served under this regulation must comply with the requirements of the notice.
+
+(6) In a case falling within paragraph (1) the information notice may—
+
+- (a) be served by publishing it in such manner as the designated competent authority considers appropriate in order to bring it to the attention of any persons who are described in the notice as the persons from whom the information is required; and
+- (b) take the form of a general request for a certain category of persons to provide the information that is specified in the notice.
+
+(7) A competent authority or the Information Commission[^key-21e3966f02afcfe1f89566fb6f936eba] may withdraw an information notice by written notice to the person on whom it was served.
+
+(8) An information notice under paragraph (1) may not be served upon the SPOC or CSIRT.
+
+### 16. Power of inspection
+
+(1) The designated competent authority for an OES may—[^key-02a571c55a467638c0c3e9e66f0e0437]
+
+- (a) conduct all or any part of[^key-35cda970cbe236b64b6a6a1b32c5a496] an inspection;
+- (b) appoint a person to conduct all or any part of[^key-8b7066e59b0cefa5b4b2b85f30a7734d] an inspection on its behalf; [^key-574d89105fd99cb7fe94e63d8c035580]...
+- (c) direct the OES to appoint a person who is approved by that authority to conduct all or any part of[^key-455365be041ce2fa936cc7abd9d0e25c] an inspection on its behalf,
+
+[^key-f1fb459c847d01f12cd73c9c8e316765]....
+
+(2) The Information Commission[^key-a819af22c184e757de2d498a9217d93d] may—
+
+- (a) conduct all or any part of[^key-9ce8e9146f6dc5a87e8384a7115bf027] an inspection;
+- (b) appoint a person to conduct all or any part of[^key-845c1b78c5edb481f95e1b08f8194c08] an inspection on its behalf; [^key-b2e8f7c64e867ed8d4f44d8875fe0ab5]...
+- (c) direct that a RDSP appoint a person who is approved by the Information Commission to conduct all or any part of[^key-6ae8b432a3b6504349f27ca034a7c3df] an inspection on its behalf,
+
+[^key-d706c536f33b87c9f58b3ed6e06f69df]....
+
+(3) For the purposes of carrying out the inspection under paragraph (1) or (2), the OES or RDSP (as the case may be) must—
+
+- (a) pay the reasonable costs of the inspection if so required by the relevant competent authority or the[^key-3ee17b59856430daaec72709387d2414] Information Commission[^key-c96a142ba64bf23899fce952fd3a4224] ;
+- (b) co-operate with the inspector[^key-cf01b43dfe2a023a96124650b4876cac];
+- (c) provide the inspector with [^key-2886499e3240a2f72f66d855e52cc684]... access to their premises in accordance with paragraph (5)(a)[^key-26fac1d9605c5722be9bec201727b3cd];
+- (d)[^key-122d32fec95f2413bc82e8f3861bf9d9] allow the inspector to examine, print, copy or remove any document or information, and examine or remove any material or equipment, in accordance with paragraph (5)(d);
+- (e) allow the inspector access to any person from whom the inspector seeks relevant information for the purposes of the inspection;
+- (f)[^key-6b73ecade4c2da52dc54172dd0d2c813] not intentionally obstruct an inspector performing their functions under these Regulations; and
+- (g) comply with any request made by, or requirement of, an inspector performing their functions under these Regulations.
+
+(4) The relevant[^key-7cadc331f9a552a38fdee3a084ba57ab] competent authority or Information Commission[^key-cdbf7c2d5284be5e303e2828b3860054] may appoint a person to conduct all or any part of[^key-57b408ae6edd5aa50507827b60c007bf] an inspection under paragraph (1)(b) or (2)(b) on its behalf on such terms and in such a manner as it considers appropriate.
+
+(5)[^key-b3e91ddc9aff56cfa39cf5e108fa9111] An inspector may—
+
+- (a) at any reasonable time enter the premises of an OES or RDSP (except any premises used wholly or mainly as a private dwelling) if the inspector has reasonable grounds to believe that entry to those premises may be necessary or helpful for the purpose of the inspection;
+- (b) require an OES or RDSP to leave undisturbed and not to dispose of, render inaccessible or alter in any way any material, document, information, in whatever form and wherever it is held (including where it is held remotely), or equipment which is, or which the inspector considers to be, relevant for such period as is, or as the inspector considers to be, necessary for the purposes of the inspection;
+- (c) require an OES or RDSP to produce and provide the inspector with access, for the purposes of the inspection, to any such material, document, information or equipment which is, or which the inspector considers to be, relevant to the inspection, either immediately or within such period as the inspector may specify;
+- (d) examine, print, copy or remove any document or information, and examine or remove any material or equipment (including for the purposes of printing or copying any document or information) which is, or which the inspector considers to be, relevant for such period as is, or as the inspector considers to be, necessary for the purposes of the inspection;
+- (e) take a statement or statements from any person;
+- (f) conduct, or direct the OES or RDSP to conduct, tests;
+- (g) take any other action that the inspector considers appropriate and reasonably required for the purposes of the inspection.
+
+(6) The inspector must—
+
+- (a) produce proof of the inspector’s identity if requested by any person present at the premises; and
+- (b) take appropriate and proportionate measures to ensure that any material, document, information or equipment removed in accordance with paragraph (5)(d) is kept secure from unauthorised access, interference and physical damage.
+
+(7) Before exercising any power under paragraph (5)(b) to (d) or (g), the inspector—
+
+- (a) must take such measures as appear to the inspector appropriate and proportionate to ensure that the ability of the OES or RDSP, as the case may be, to comply with any duty set out in these Regulations will not be affected; and
+- (b) may consult such persons as appear to the inspector appropriate for the purpose of ascertaining the risks, if any, there may be in doing anything which the inspector proposes to do under that power.
+
+(8) Where under paragraph (5)(d) an inspector removes any document, material or equipment, the inspector must provide, to the extent practicable, a notice giving—
+
+- (a) sufficient particulars of that document, material or equipment for it to be identifiable; and
+- (b) details of any procedures in relation to the handling or return of the document, material or equipment.
+
+(9) In this regulation—
+
+- (a) a reference to a “test” is a reference to any process which is—
+  - (i) employed to verify assertions about the security of a network or information system; and
+  - (ii) based on interacting with that system, including components of that system,
+
+  and includes the exercising of any relevant security or resilience management process;
+- (b) “inspection” means any activity carried out (including any steps mentioned in paragraph (5)) for the purpose of—
+  - (i) verifying compliance with the requirements of these Regulations; or
+  - (ii) assessing or gathering evidence of potential or alleged failures to comply with the requirements of these Regulations,
+
+  including any necessary follow-up activity for either purpose;
+- (c) “inspector” means any person conducting all or any part of an inspection in accordance with paragraph (1) or (2).
+
+### 17. Enforcement notices for breach of duties[^key-1d0e42cc82dfa698c49e0c7ed0dd22ac]
+
+(1) Subject to paragraph (2A),[^key-5a3dccdddfdda3fc928a50a3402daad4] the designated competent authority for an OES may serve an enforcement notice upon that OES if the [^key-2ff183bbfc9f5cf6fa2e5836364c2d3e]... authority has reasonable grounds to believe that the OES has failed to—
+
+- (za)[^key-a86c2d49d3c8cc58688010ab09ba519a] notify it under regulation 8(2);
+- (zb) comply with the requirements stipulated in regulation 8A;
+- (a) fulfil the security duties under regulation 10(1) and (2);
+- (b) notify a NIS incident under regulation 11(1);
+- (c) comply with the notification requirements stipulated in regulation 11(3);
+- (d) notify an incident as required by regulation 12(9);
+- (e) comply with an information notice issued under regulation 15; or
+- (f) comply with—
+  - (i) a direction given under regulation 16(1)(c), or
+  - (ii) the requirements stipulated in regulation 16(3).
+
+(2) Subject to paragraph (2A),[^key-7fc1d7da014d2764ba94274d6083f1f5] the Information Commission[^key-26f83ba7db3699de658aed040f77701c] may serve an enforcement notice upon a RDSP if the Information Commission has reasonable grounds to believe that the RDSP has failed to—
+
+- (a) fulfil its duties under regulation 12(1) or (2);
+- (b) notify an incident under regulation 12(3);
+- (c) comply with the notification requirements stipulated in regulation 12(5);
+- (d) comply with a direction made by the Information Commission under regulation 12(12);
+- (da)[^key-aaa6f3bc7707ef4361402e18ee9e606b] comply with the requirements stipulated in regulation 14A;
+- (e) comply with an information notice issued under regulation 15; or
+- (f) comply with—
+  - (i) a direction given under regulation 16(2)(c), or
+  - (ii) the requirements stipulated in regulation 16(3).
+
+(2A)[^key-cc912a63fa4df55da631bcdb2534a430] Before serving an enforcement notice under paragraph (1) or (2), the relevant competent authority or the Information Commission must inform the OES or RDSP, in such form and manner as it considers appropriate having regard to the facts and circumstances of the case, of—
+
+- (a) the alleged failure; and
+- (b) how and by when representations may be made in relation to the alleged failure and any related matters.
+
+(2B) When the relevant competent authority or the Information Commission informs the OES or RDSP in accordance with paragraph (2A), it may also provide notice of its intention to serve an enforcement notice.
+
+(2C) The relevant competent authority or the Information Commission may serve an enforcement notice on the OES or RDSP within a reasonable time, irrespective of whether it has provided any notice in accordance with paragraph (2B), having regard to the facts and circumstances of the case, after it has informed the OES or RDSP in accordance with paragraph (2A).
+
+(2D) The relevant competent authority or the Information Commission must have regard to any representations made under paragraph (2A)(b).
+
+(3) An enforcement notice that is served under paragraph (1) or (2) must be in writing and must specify the following—
+
+- (a) the reasons for serving the notice;
+- (b) the alleged failure which is the subject of the notice; and[^key-692e61abfd14fdd0964f6a540d8236e1]
+- (c) what steps, if any, must be taken to rectify the alleged failure and the time period during which such steps must be taken; [^key-647bd4f8b8cbe96875ea86ce558290b2]...
+- (d)[^key-647bd4f8b8cbe96875ea86ce558290b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^key-bcb1fbf99e3b0d3060881423765dfa41] An OES or RDSP upon whom an enforcement notice has been served under paragraph (1) or (2) must comply with the requirements, if any, of the notice regardless of whether the OES or RDSP has paid any penalty imposed on it under regulation 18.
+
+(4) If the relevant competent authority or Information Commission[^key-7b73470f41ec41781965001ed5f91bdf] is satisfied that no further action is required, having considered—
+
+- (a) any[^key-67ce0cc6898ec1eccad60930cd9bd1e3] representations submitted in accordance with paragraph (2A)[^key-4c02a7485dbd4b586a64aa0a828a33d2]; or
+- (b) any steps taken to rectify the alleged failure;
+
+it must inform the OES or the RDSP, as the case may be, in writing, as soon as reasonably practicable.
+
+(5) The OES or RDSP may request reasons for a decision to take no further action under paragraph (4) within 28 days of being informed of that decision.
+
+(6) Upon receipt of a request under paragraph (5), the relevant competent authority or Information Commission[^key-88512aa0be9f3b407cd0be32fa0ddda5] must provide written reasons for a decision under paragraph (4) within a reasonable time and in any event no later than 28 days.
+
+### 18. Penalties
+
+(1)[^key-7d492cebc7a720982d54bc4f5dfc8dea] The designated competent authority for an OES may serve a notice of intention to impose a penalty on the OES if it has reasonable grounds to believe that the OES has failed to comply with a duty referred to in regulation 17(1) or the duty set out in regulation 17(3A) and considers that a penalty is warranted having regard to the facts and circumstances of the case.
+
+(2) The Information Commission[^key-acb24aa18e66120d8c3c1f59d0abe9a6] may serve a notice of intention to impose a penalty on a RDSP if it has reasonable grounds to believe that the RDSP has failed to comply with a duty referred to in regulation 17(2) or the duty set out in regulation (3A) and considers that a penalty is warranted having regard to the facts and circumstances of the case.
+
+(3) A notice of intention to impose a penalty[^key-266d29157195b99b2f1f2f4107480f65] must be in writing and must specify the following—
+
+- (a) the reasons for imposing a penalty;
+- (b) the sum that is intended[^key-2bbb254ab72291dcf42172345fcd826d] to be imposed as a penalty and how it is to be paid;
+- (c) the date on which the notice of intention to impose a penalty[^key-ff6ceb43f87e8f393aec34e00bf364f8] is given;
+- (d)[^key-971f3cad609cac8c78faa8df4e2a577d] the period within which a penalty will be required to be paid if a penalty notice is served;
+- (e) that the payment of a penalty under a penalty notice (if any) is without prejudice to the requirements of any enforcement notice (if any); and
+- (f) how and when representations may be made about the content of the notice of intention to impose a penalty and any related matters.
+
+(3A)[^key-ef9450234edb6d6c0b89f93e33ffe319] The relevant competent authority may, after considering any representations submitted in accordance with paragraph (3)(f), serve a penalty notice on the OES with a final penalty decision if the authority is satisfied that a penalty is warranted having regard to the facts and circumstances of the case.
+
+(3B) The Information Commission[^key-0df08706e46a9f0c2bf13a20b90df782] may, after considering any representations submitted in accordance with paragraph (3)(f), serve a penalty notice on the RDSP with a final penalty decision if the Information Commission is satisfied that a penalty is warranted having regard to the facts and circumstances of the case.
+
+(3C) The relevant competent authority or the Information Commission may serve a notice of intention to impose a penalty or a penalty notice irrespective of whether it has served or is contemporaneously serving an enforcement notice on the OES or RDSP under regulation 17(1) or (2).
+
+(3D) A penalty notice must—
+
+- (a) be given in writing to the OES or RDSP;
+- (b) include reasons for the final penalty decision;
+- (c) require the OES or RDSP to pay—
+  - (i) the penalty specified in the notice of intention to impose a penalty; or
+  - (ii) such penalty as the relevant competent authority or the Information Commission[^key-545dde8b4953aa0f5a0fadc506ec4227] considers appropriate in the light of any representations made by the OES or RDSP and any steps taken by the OES or RDSP to rectify the failure or to do one or more of the things required by an enforcement notice under regulation 17(3);
+- (d) specify the period within which the penalty must be paid (“the payment period”) and the date on which the payment period is to commence;
+- (e) provide details of the appeal process under regulation 19A; and
+- (f) specify the consequences of failing to make payment within the payment period.
+
+(3E) It is the duty of the OES or RDSP to comply with any requirement imposed by a penalty notice.
+
+(4) A competent authority or the Information Commission[^key-1a02ab26d659c6e28d4ac7992180f99a] may withdraw a penalty notice by informing the person upon whom it was served in writing.
+
+(5) The sum of any penalty imposed[^key-dbf92f8ae87683078a0765a2011fedcb] under this regulation must be an amount that—
+
+- (a) the competent authority or Information Commission[^key-bf5d80f01390c07f240855369a2b8bef] determines is appropriate and proportionate to the failure in respect of which it is imposed; and
+- (b) is in accordance with paragraph (6).
+
+(6) The amount [^key-8c5d6473e9084944fbbd64807294d8a7]... must—
+
+- (a) not exceed £1,000,000 for any contravention which the NIS[^key-fe27cfc87e6e086e24d19eebee3dc029] enforcement authority determines was not a material contravention[^key-8bc73d8abda1fd2592e58e90eef07796];
+- (b)[^key-b4c0e74a9c723f11cf7a45718a388848] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) not exceed £8,500,000 for a material contravention which the NIS[^key-26dda7bd4909dea2916873090c32a595] enforcement authority determines does not meet the criteria set out in sub-paragraph (d)[^key-c5a56276df52a2876c44061d3a8b5288]; and
+- (d) not exceed £17,000,000 for a material contravention which the NIS[^key-4bd151ccdf280496e12a86267d49ff09] enforcement authority determines has or could have created a significant risk to, or significant impact on, or in relation to, the service provision by the OES or RDSP.[^key-840352aa5900cc4ae5a968fc0255d179]
+
+(7) In this regulation—
+
+- (a)[^key-db58fb2af69410c4decaea5c5b116cbd] “a material contravention” means—
+  - (i) a failure to take, or adequately take, one or more of the steps required under an enforcement notice within the period specified in that notice to rectify a failure described in one or more of—[^key-e16096f1ba36ca4cb1b8ad5666fed929]
+    - (aa) sub-paragraphs (a) to (d) of regulation 17(1); or
+    - (bb) sub- paragraphs (a) to (d) of regulation 17(2); or
+  - (ii) where an enforcement notice was not served or where no steps were required to be taken under an enforcement notice, a failure described in one or more of—
+    - (aa) sub-paragraphs (a) to (d) of regulation 17(1); or
+    - (bb) sub-paragraphs (a) to (d) of regulation 17(2).
+- (b)[^key-b52727ebca82bf7ca2e784b23682d74b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Independent review of designation decisions and penalty decisions[^key-fa4b6e958162f8b3fa163a1928d3c565]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19A. Appeal by an OES or RDSP to the First-tier Tribunal[^key-b77e0ee742a80880c5253d61f468472d]
+
+(1) An OES may appeal to the First-tier Tribunal against one or more of the following decisions of the designated competent authority for the OES on one or more of the grounds specified in paragraph (3)—
+
+- (a) a decision under regulation 8(3) to designate that person as an OES;
+- (b) a decision under regulation 9(1) or (2) to revoke the designation of that OES;
+- (c) a decision under regulation 17(1) to serve an enforcement notice on that OES;
+- (d) a decision under regulation 18(3A) to serve a penalty notice on that OES.
+
+(2) A RDSP may appeal to the First-Tier Tribunal against one or both of the following decisions of the Information Commission[^key-26c30037a8a0c1d4a45f537a5a65b791] on one or more of the grounds specified in paragraph (3)—
+
+- (a) a decision under regulation 17(2) to serve an enforcement notice on that RDSP;
+- (b) a decision under regulation 18(3B) to serve a penalty notice on that RDSP.
+
+(3) The grounds of appeal referred to in paragraphs (1) and (2) are—
+
+- (a) that the decision was based on a material error as to the facts;
+- (b) that any of the procedural requirements under these Regulations in relation to the decision have not been complied with and the interests of the OES or RDSP have been substantially prejudiced by the non-compliance;
+- (c) that the decision was wrong in law;
+- (d) that there was some other material irrationality, including unreasonableness or lack of proportionality, which has substantially prejudiced the interests of the OES or RDSP.
+
+### 19B. Decision of the First-tier Tribunal
+
+(1) The First-tier Tribunal must determine the appeal after considering the grounds of appeal referred to in regulation 19A(3) and by applying the same principles as would be applied by a court on an application for judicial review.
+
+(2) The Tribunal may, until it has determined the appeal in accordance with paragraph (1) and unless the appeal is withdrawn, suspend the effect of the whole or part of any of the following decisions to which the appeal relates—
+
+- (a) a decision under regulation 8(3) to designate a person as an OES;
+- (b) a decision under regulation 9(1) or (2) to revoke the designation of a person as an OES;
+- (c) a decision under regulation 17(1) to serve an enforcement notice;
+- (d) a decision under regulation 17(2) to serve an enforcement notice;
+- (e) a decision under regulation 18(3A) to serve a penalty notice; or
+- (f) a decision under regulation 18(3B) to serve a penalty notice.
+
+(3) The Tribunal may—
+
+- (a) confirm any decision to which the appeal relates; or
+- (b) quash the whole or part of any decision to which the appeal relates.
+
+(4) Where the Tribunal quashes the whole or part of a decision to which the appeal relates, it must remit the matter back to the designated competent authority for the OES or, as the case may be, the Information Commission[^key-5b703aef5b3c0f6a1a939962cf1bd07c], with a direction to that authority or the Information Commission to reconsider the matter and make a new decision having regard to the ruling of the Tribunal.
+
+(5) The relevant competent authority or, as the case may be, the Information Commission, must have regard to a direction under paragraph (4).
+
+(6) Where the relevant competent authority or, as the case may be, the Information Commission, makes a new decision in accordance with a direction under paragraph (4), that decision is to be considered final.
+
+### A20. Enforcement by civil proceedings
+
+(1) This regulation applies where—
+
+- (a) a designated competent authority for an OES has reasonable grounds to believe that the OES has failed to comply with the requirements of an enforcement notice as required by regulation 17(3A); or
+- (b) the Information Commission[^key-42c6156bc7ca7755c478e792390b50a6] has reasonable grounds to believe that a RDSP has failed to comply with the requirements of an enforcement notice as required by regulation 17(3A).
+
+(2) This regulation applies irrespective of whether the OES or RDSP has appealed to the First-tier Tribunal under regulation 19A.
+
+(3) But where an OES or RDSP has appealed to the First-tier Tribunal under regulation 19A and the Tribunal has granted a suspension of the effect of the whole or part of the relevant decision under regulation 19B(2), the relevant competent authority or the Information Commission[^key-35db78d6c9bbb9e9e3d20e8f11aa8fbc], as the case may be, may not bring or continue proceedings under this regulation in respect of that decision or that part of that decision for as long as the suspension has effect.
+
+(4) Where paragraph (1)(a) applies, the relevant competent authority may commence civil proceedings against the OES—
+
+- (a) for an injunction to enforce the duty in regulation 17(3A);
+- (b) for specific performance of a statutory duty under section 45 of the Court of Session Act 1988; or
+- (c) for any other appropriate remedy or relief.
+
+(5) Where paragraph (1)(b) applies, the Information Commission[^key-31d3c694177dee365b8ae2014c310dfc] may commence civil proceedings against the RDSP—
+
+- (a) for an injunction to enforce the duty in regulation 17(3A);
+- (b) for specific performance of a statutory duty under section 45 of the Court of Session Act 1988; or
+- (c) for any other appropriate remedy or relief.
+
+(6) No civil proceedings may be commenced under this regulation before the end of a period of 28 days beginning with the day on which the last relevant enforcement notice was served on the OES or, as the case may be, RDSP.
+
+(7) In this regulation, a reference to civil proceedings is a reference to proceedings, other than proceedings in respect of an offence, before a civil court in the United Kingdom.
+
+### 20. Enforcement of penalty notices
+
+(1) This paragraph applies where a sum is payable to an enforcement authority as a penalty under regulation 18.
+
+(2) In England and Wales the penalty is recoverable as if it were payable under an order of the county court or of the High Court.
+
+(3) In Scotland the penalty may be enforced in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom.
+
+(4) In Northern Ireland the penalty is recoverable as if it were payable under an order of a county court or of the High Court.
+
+(5) Where action is taken under this paragraph for the recovery of a sum payable as a penalty under regulation 18, the penalty is —
+
+- (a) in relation to England and Wales, to be treated for the purposes of section 98 of the Courts Act 2003 [^c22950771] (register of judgments and order etc.) as if it were a judgment entered in the county court;
+- (b) in relation to Northern Ireland, to be treated for the purposes of Article 116 of the Judgments Enforcement (Northern Ireland) Order 1981 [^c22950781] (register of judgments) as if it were a judgment in respect of which an application has been accepted under Article 22 or 23(1) of that Order.
+
+(6) No action may be taken under this paragraph for the recovery of a sum payable as a penalty under regulation 18 if an appeal has been brought under regulation 19A and the appeal[^key-12d5ecb69c844cee04ad070a6f11bbb8] has not been determined or withdrawn.
+
+## PART 6 — Miscellaneous
+
+### 21. Fees
+
+(1) A fee is payable by an OES or a RDSP to an enforcement authority, to recover the reasonable costs incurred by, or on behalf of, that authority in carrying out a NIS function in relation to that OES or RDSP.
+
+(2) The fee mentioned in paragraph (1) must be paid to the enforcement authority within 30 days after receipt of the invoice sent by the authority.
+
+(3) The invoice must state the work done and the reasonable costs incurred by, or on behalf of, the enforcement authority, including the time period to which the invoice relates.
+
+(4) An enforcement authority may determine not to charge a fee under paragraph (1) in any particular case.
+
+(5) A fee payable under this regulation is recoverable as a civil debt.
+
+(6) In this regulation—
+
+- (a) a “**NIS function**” means a function that is carried out under these Regulations except any function under regulations 17(1) to (4) and 18 to 20; and
+- (b) “**enforcement authority**” has the same meaning as in regulation 18(7)(b).
+
+### 22. Proceeds of penalties
+
+(1) The sum that is received by a NIS enforcement authority as a result of a penalty notice served under regulation 18 must be paid into the Consolidated Fund unless paragraph (2) applies.
+
+(2) The sum that is received as a result of a penalty notice served under regulation 18 by—
+
+- (a) the Welsh Ministers must be paid into the Welsh Consolidated Fund established under section 117 of the Government of Wales Act 2006 [^c22950791]; and
+- (b) the Scottish Ministers or the Drinking Water Quality Regulator for Scotland, must be paid into the Scottish Consolidated Fund established under section 64 of the Scotland Act 1998 [^c22950801].
+
+### 23. Enforcement action – general considerations
+
+(1) Before a NIS enforcement authority takes any action under regulation 17(1) or (2), 18(3A) or (3B) or A20,[^key-344d8880f2543a04ba85f267752cb672] the enforcement authority must consider whether it is reasonable and proportionate, on the facts and circumstances of the case, to take action in relation to the contravention.
+
+(2) The NIS enforcement authority must, in particular, have regard to the following matters—
+
+- (a) any representations made by the OES or RDSP, as the case may be, about the contravention and the reasons for it, if any;
+- (b) any steps taken by the OES or RDSP to comply with the requirements set out in these Regulations;
+- (c) any steps taken by the OES or RDSP to rectify the contravention;
+- (d) whether the OES or RDSP had sufficient time to comply with the requirements set out in these Regulations; and
+- (e) whether the contravention is also liable to enforcement under another enactment.
+
+### 24. Service of documents
+
+(1) Any document or notice required or authorised by these Regulations to be served on a person may be served by—
+
+- (a) delivering it to that person in person;
+- (b) leaving it at the person's proper address; or
+- (c) sending it by post or electronic means to that person's proper address.
+
+(2) In the case of a body corporate, a document may be served on a director of that body.
+
+(3) In the case of a partnership, a document may be served on a partner or person having control or management of the partnership business.
+
+(4) If a person has specified an address in the United Kingdom (other than that person's proper address) at which that person or someone on that person's behalf will accept service, that address must also be treated as that person's proper address.
+
+(5) For the purposes of this regulation “**proper address**” means—
+
+- (a) in the case of a body corporate or its director—
+  - (i) the registered or principal office of that body; or
+  - (ii) the email address of the secretary or clerk of that body;
+- (b) in the case of a partnership, a partner or person having control or management of the partnership business—
+  - (i) the principal office of the partnership; or
+  - (ii) the email address of a partner or a person having that control or management;
+- (c) in any other case, a person's last known address, which includes an email address.
+
+(6) In this regulation, “**partnership**” includes a Scottish partnership.
+
+### 25. Review and report
+
+(1) The Secretary of State must—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations and in EU Regulation 2018/151[^key-d74f1ab13d2a92ecd47916c487ed0e08]; and
+- (b) publish a report setting out the conclusions of that review.
+
+(2) The first report must be published on or before 9th May 2020 , the second report must be published on or before 9th May 2022[^key-0a63c87e87844a67dac8c563ef4d18c3] and subsequent reports must be published at intervals not exceeding five years[^key-d2e636eb8002ab07bae9ee4e06afd618].
+
+(3)[^key-16c199c4bb456c3120ce363a3ca8d6da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^M_F_a452cca9-9f74-4dbb-f706-3ffb2d918ed3] Section 30(4) of the Small Business, Enterprise and Employment Act 2015[^key-cb272dd112b42d3316f425983babd0ff] requires that reports published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation “regulatory provision” has the same meaning as in sections 28 to 32 of that Act.
+
+Matt Hancock
+
+Secretary of State
+
+Department for Digital, Culture, Media and Sport
+
+We consent
+
+Rebecca Harris
+
+Paul Maynard
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — Designated Competent Authorities
+
+Regulation 3
+
+<table>
+<tbody>
+<tr><th><em>Column 1</em><em>Relevant sectors</em></th><th><em>Column 2</em><em>subsectors</em></th><th><em>Column 3</em><em>designated competent authorities</em></th></tr>
+<tr><td rowspan="6">Energy</td><td rowspan="2">Electricity</td><td>The Secretary of State for Energy Security and Net Zero (England and Wales and Scotland) and the Gas and Electricity Markets Authority (acting jointly).</td></tr>
+<tr><td>The Department of Finance (Northern Ireland)</td></tr>
+<tr><td rowspan="2">Oil</td><td>The Secretary of State for Energy Security and Net Zero (England and Wales and Scotland)</td></tr>
+<tr><td>The Department of Finance (Northern Ireland)</td></tr>
+<tr><td rowspan="2">Gas</td><td>The Secretary of State for Energy Security and Net Zero for the essential services specified in Schedule 2, paragraph 3, sub-paragraphs (5) to (8) (England and Wales and Scotland).<br>Otherwise, the Secretary of State for Energy Security and Net Zero and The Gas and Electricity Markets Authority (acting jointly).</td></tr>
+<tr><td>The Department of Finance (Northern Ireland)</td></tr>
+<tr><td rowspan="7">Transport</td><td>Air Transport</td><td>The Secretary of State for Transport and The Civil Aviation Authority (acting jointly) (United Kingdom).</td></tr>
+<tr><td rowspan="2">Rail Transport</td><td>The Secretary of State for Transport (England and Wales and Scotland)</td></tr>
+<tr><td>The Department of Finance (Northern Ireland)</td></tr>
+<tr><td>Water Transport</td><td>The Secretary of State for Transport (United Kingdom)</td></tr>
+<tr><td rowspan="3">Road Transport</td><td>The Secretary of State for Transport (England and Wales)</td></tr>
+<tr><td>The Scottish Ministers (Scotland)</td></tr>
+<tr><td>The Department of Finance (Northern Ireland)</td></tr>
+<tr><td rowspan="4">Health Sector</td><td rowspan="4">Health care settings (including hospitals, private clinics and online settings)</td><td>The Secretary of State for Health (England)</td></tr>
+<tr><td>The Welsh Ministers (Wales)</td></tr>
+<tr><td>The Scottish Ministers (Scotland)</td></tr>
+<tr><td>The Department of Finance (Northern Ireland)</td></tr>
+<tr><td rowspan="4">Drinking water supply and distribution</td><td rowspan="4">Drinking water supply and distribution</td><td>The Secretary of State for Environment, Food and Rural Affairs (England)</td></tr>
+<tr><td>The Welsh Ministers (Wales)</td></tr>
+<tr><td>The Drinking Water Quality Regulator for Scotland (Scotland)</td></tr>
+<tr><td>The Department of Finance (Northern Ireland)</td></tr>
+<tr><td>Digital Infrastructure</td><td>Digital Infrastructure</td><td>Office of Communications (United Kingdom)</td></tr>
+</tbody>
+</table>
+
+[^key-98e2b964a7dd97a650c63c2c85573291]
+
+## SCHEDULE 2 — Essential Services and Threshold Requirements
+
+Regulation 8
+
+### 1. The electricity subsector
+
+(1) This paragraph describes the threshold requirements which apply to specified kinds of essential services in the electricity subsector.
+
+(2) For the essential service of electricity supply the threshold requirements are—
+
+- (a) in Great Britain—
+  - (i) electricity undertakings that carry out the function of supply to more than 250,000 final customers; or
+  - (ii) electricity undertakings that carry out the function of supply, and generation via generators that when cumulated with the generators operated by affiliated undertakings would have a total capacity, in terms of input to a transmission system, greater than or equal to 2 gigawatts;
+- (b) in Northern Ireland—
+  - (i) the holder of a supply licence under Article 10(1)(c) of the Electricity (Northern Ireland) Order 1992 [^c22950821] who supplies electricity to more than 8,000 consumers; and
+  - (ii) the holder of a generation licence under Article 10(1)(a) of the Electricity (Northern Ireland) Order 1992 with a generating capacity equal to or greater than 350 megawatts.
+
+(3) For the essential service of the single electricity market in Northern Ireland, the threshold requirement is the holder of a Single Electricity Market operator licence under Article 10(1)(d) of the Electricity (Northern Ireland) Order 1992 [^c22950831].
+
+(4) For the essential service of electricity transmission, the threshold requirements are—
+
+- (a) in Great Britain—
+  - (i) transmission system operators with a potential to disrupt delivery of electricity to more than 250,000 final customers;
+  - (ii) holders of offshore transmission licences where the offshore transmission systems of that licence holder and its affiliated undertakings are directly connected to generators that have a total cumulative capacity, in terms of input to a transmission system, greater than or equal to 2 gigawatts; or
+  - (iii) holders of interconnector licences where the electricity interconnector to which the licence relates has a capacity, in terms of input to a transmission system, greater than or equal to 1 gigawatt;
+- (b) in Northern Ireland, the holder of a transmission licence under Article 10(1)(b) of the Electricity (Northern Ireland) Order 1992 [^c22950841].
+
+(5) For the essential service of electricity distribution, the threshold requirements are—
+
+- (a) in Great Britain, distribution system operators with the potential to disrupt delivery of electricity to more than 250,000 final customers;
+- (b) in Northern Ireland, the holder of a distribution licence under Article 10(1)(bb) of the Electricity (Northern Ireland) Order 1992 [^c22950851].
+
+(6) Nuclear electricity generators and generators that are not connected to a transmission system are excluded from the threshold described in sub-paragraph (2)(a)(ii).
+
+(7) Transmission systems for which an offshore transmission licence or interconnector licence applies are excluded from the threshold described in sub-paragraph (4)(a)(i).
+
+(8) In this paragraph—
+
+- (a) “**affiliated undertaking**” has the meaning given by Article 2(12) of Directive 2013/34/EU [^c22950861] of the European Parliament and of the Council on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive [2006/43/EC](https://www.legislation.gov.uk/eudr/2006/43) of the European Parliament and of the Council and repealing Council Directives [78/660/EEC](https://www.legislation.gov.uk/eudr/1978/660) and [83/349/EEC](https://www.legislation.gov.uk/eudr/1983/349);
+- (b) “**distribution**” has the meaning given by Article 2(5) of Directive [2009/72/EC](https://www.legislation.gov.uk/eudr/2009/72) of the European Parliament and of the Council concerning common rules for the internal market in electricity and repealing Directive [2003/54/EC](https://www.legislation.gov.uk/eudr/2003/54) [^c22950871], (“**the Electricity Directive**”);
+- (c) “**distribution system operator**” has the meaning given by Article 2(6) of the Electricity Directive;
+- (d) “**electricity undertaking**” has the meaning given by Article 2(35) of the Electricity Directive;
+- (e) “**final customer**” has the meaning given by Article 2(9) of the Electricity Directive;
+- (f) “**generation**” has the meaning given by Article 2(1) of the Electricity Directive and includes the generation of electricity from stored energy, and “generator” must be interpreted accordingly;
+- (g) “**interconnector licence**” means a licence granted under section 6(1)(e) of the Electricity Act 1989 [^c22950881];
+- (h) “offshore transmission licence” and “offshore transmission” have the meaning given by section 6F(8)[^key-4ffb9b2fce8882faba50072ab48915be] of the Electricity Act 1989 [^c22950891] [^key-64f799886918b97166844d046c47f2bd]...;
+- (i) “**stored energy**” means energy that—
+  - (aa) was converted from electricity, and
+  - (bb) is stored for the purpose of its future reconversion into electricity;
+- (j) “**supply**” has the meaning given by Article 2(19) of the Electricity Directive;
+- (k) “**transmission**” has the meaning given by Article 2(3) of the Electricity Directive; and
+- (l) “**transmission system operator**” has the meaning given by Article 2(4) of the Electricity Directive.
+
+### 2. The oil subsector
+
+(1) This paragraph describes the threshold requirements which apply to specified kinds of essential services in the oil subsector.
+
+(2) For the essential service of the conveyance of oil through relevant upstream petroleum pipelines, the threshold requirement, in the United Kingdom is the operator of a relevant upstream petroleum pipeline which has a throughput of more than 3,000,000 tonnes of oil equivalent per year excluding natural gas, if that operator does not fall within another threshold requirement in relation to this pipeline under this Schedule.
+
+(3) For the essential service of oil transmission by pipeline, the threshold requirements are—
+
+- (a) in Great Britain, operators of any pipeline with throughput [^key-6c7afe6d9ae27a417121dc66d6e7d45e]... of more than 500,000 tonnes of crude oil based fuel per year not including transmission of crude oil[^M_F_fe839b08-d1df-466f-8054-8d694b85b4d9]; and
+- (b) in Northern Ireland, operators of any pipeline with throughput [^key-7c99034bb7bc70d253802c443cffaebe]... of more than 50,000 tonnes of crude oil based fuel per year.
+
+(4) For the essential service of the operation of relevant oil processing facilities, the threshold requirement in the United Kingdom is in the case of—
+
+- (a) a relevant oil processing facility, an operator of a facility with a throughput of more than 3,000,000 tonnes of oil equivalent per year,[^key-e73828ddcde43e94046b7b92d594dbda] or
+- (b) a relevant upstream petroleum pipeline which is connected to and operated from a relevant oil processing facility, an operator of a pipeline with a throughput of more than 3,000,000 tonnes of oil equivalent per year.[^key-c22cbf1b34d1829608a81068458ab305]
+
+[^key-caa7808c3c25d779b4bbc5aff5bb6b16]...
+
+(5) For the essential service of crude oil based fuel[^key-31fd648d0d6dfc33c20ea18bc17da9c9] production, refining, onshore[^key-5f4f786272e782a67d044d96fbc8dace] storage and transmission the threshold requirements are—
+
+- (a) in Great Britain, operators of any facility where that facility has a capacity greater than any of the following values—
+  - (i) storage of 500,000 tonnes of crude oil based fuel;
+  - (ii) production of 500,000 tonnes of crude oil based fuel per year; or
+  - (iii) supply of 500,000 tonnes of crude oil based fuel per year;
+- (b) in Northern Ireland, the operator of a facility which has a storage capacity of greater than 50,000 tonnes of crude oil based fuel.
+
+(6) For the essential service of the operation of petroleum production projects (other than projects which are primarily used for the storage of gas), the threshold requirement in the United Kingdom is, in the case of—
+
+- (i) a relevant offshore installation which is part of a petroleum production project , an operator of an installation with a throughput of more than 3,000,000 tonnes of oil equivalent per year,[^key-3e9da70f776a559ff727504f4fb2c461] or
+- (ii) a relevant upstream petroleum pipeline which is connected to and operated from such an installation, an operator of a pipeline with a throughput of more than 3,000,000 tonnes of oil equivalent per year[^key-464235e1ec4abfa792690964f34b1b72]
+
+[^key-ab5faa8c5b4895ffd107ab23e14ba814]....
+
+(7) In sub-paragraph (5), the following are included within the description of the essential service—
+
+- (a) storage of crude oil based fuel;
+- (b) production of crude oil based fuels through a range of refining or blending processes, but excluding processes for rendering the oil suitable for transportation; and
+- (c) supply of crude oil based fuels to retail sites, airports or other users within the United Kingdom.
+
+(8) In this paragraph—
+
+- (a) “**carbon dioxide pipeline**” has the meaning given by section 90(2) of the Energy Act 2011 [^c22950901];
+- (b) “**crude oil**” means any liquid hydrocarbon mixture occurring naturally in the earth whether or not treated to render it suitable for transportation, and includes—
+  - (i) crude oils from which distillate fractions have been removed, and
+  - (ii) crude oils to which distillate fractions have been added;
+- (c) “**crude oil based fuel**” means substances derived from crude oil, not including crude oil itself;[^key-38ace4ca585bed9d2c548292199875c1]
+- (d) “**foreign sector of the continental shelf**” has the meaning given by section 90(1) of the Energy Act 2011 [^c22950911];
+- (e)[^key-9c4c2fa134da6b065b65adffc9bb87dc] “gas processing facility” has the meaning given by section 12(6) of the Gas Act 1995;
+- (f) “**gas processing operation**” means any of the following operations—
+  - (i) purifying, blending, odorising or compressing gas for the purpose of enabling it to be introduced into a pipeline system operated by a gas transporter or to be conveyed to an electricity generating station, a gas storage facility or any place outside the United Kingdom;
+  - (ii) removing from gas for that purpose any of its constituent gases, or separating from gas for that purpose any oil or water;
+  - (iii) determining the quantity or quality of gas which is or is to be so introduced, or so conveyed, whether generally or by, or on behalf of, a particular person;
+  - (iv) separating, purifying, blending, odorising or compressing gas for the purpose of—
+    - (aa) converting it into a form in which a purchaser is willing to accept delivery from a seller, or
+    - (bb) enabling it to be loaded for conveyance to another place (whether inside or outside the United Kingdom); or
+  - (v) loading gas—
+    - (aa) at a facility which carries out operations of a kind mentioned in paragraph (iv), or
+    - (bb) piped from such a facility
+
+    for the purpose of enabling the gas to be conveyed to another place (whether inside or outside the United Kingdom);
+- (g) “**gas transporter**” has the meaning given by section 7(1) of the Gas Act 1986 [^c22950931];
+- (h) “**oil equivalent**” means petroleum and, for the purposes of assessments of throughput, where petroleum is in a gaseous state 1,100 cubic meters of this petroleum at a temperature of 15 degrees Celsius and pressure of one atmosphere is counted as equivalent to one tonne;
+- (i) “**oil processing facility**” means any facility which carries out oil processing operations;
+- (j) “**oil processing operations**” means any of the following operations—
+  - (i) initial blending and such other treatment of petroleum as may be required to produce stabilised crude oil to the point at which a seller could reasonably make a delivery to a purchaser of such oil;
+  - (ii) receiving stabilised crude oil piped from an oil processing facility carrying out operations of a kind mentioned in sub-paragraph (i), or storing oil so received, prior to their conveyance to another place (whether inside or outside the United Kingdom);
+  - (iii) loading stabilised crude oil piped from a facility carrying out operations of a kind mentioned in sub-paragraph (i) or (ii) for conveyance to another place (whether inside or outside the United Kingdom);
+- (ja)[^key-501ce6000fbffea64920cf2e9c269350] “operator” means—
+  - (i) in relation to a pipeline—
+    - (aa) the person who is to have or (once any fluid or any mixture of fluids is conveyed) has control over the conveyance of any fluid or any mixture of fluids in the pipeline;
+    - (bb) until that person is known, the person who is to commission or (where commissioning has started) commissions the design and construction of the pipeline; or
+    - (cc) when a pipeline is no longer used or is not for the time being used, the person last having control over the conveyance of fluid or any mixture of fluids in it;
+  - (ii) in relation to a production installation—
+    - (aa) the person appointed by the licensee of the operator or by any other person to manage and control directly the execution of the main functions of a production installation; or
+    - (bb) the licensee, where it is not clear to the designated competent authority that one person has been appointed to perform the functions described in paragraph (aa) or, in the opinion of that authority, the person appointed to perform the functions described in that paragraph is incapable of performing those functions satisfactorily;
+- (k) “**petroleum**” has the same meaning as in section 1 of the Petroleum Act 1998 [^c22950941], and includes petroleum that has undergone any processing;
+- (l) “**petroleum production project**” means a project carried out by virtue of a licence granted under—
+  - (i) section 3 of the Petroleum Act 1998 [^c22950951],
+  - (ii) section 2 of the Petroleum (Production) Act 1934 [^c22950961], or
+  - (iii) section 2 of the Petroleum (Production) Act (Northern Ireland) 1964 [^c22950971],
+
+  and includes such a project which is used for the storage of gas;
+- (m) “**piped gas**” means gas which—
+  - (i) originated from a petroleum production project (or an equivalent project in a foreign sector of the continental shelf), and
+  - (ii) has been conveyed only by means of pipes;
+- (n) “**pipeline**” means a pipe or system of pipes for the conveyance of anything;
+- (na)[^key-79939166d907cebc4cb1935f5553c371] “production installation” has the meaning given by regulation 2(1) of the Offshore Installations (Safety Case) Regulations 2005;
+- (o) “**relevant offshore installation**” means an offshore installation within the meaning of section 44 of the Petroleum Act 1998 [^c22950981] which carries on the activities mentioned in subsection (3)(a) or (c) of that section and is a relevant offshore installation only to the extent it is used to carry on those activities;
+- (p) “**terminal**” includes—
+  - (i) facilities for such initial blending and other treatment as may be required to produce stabilised crude oil to the point at which a seller could reasonably make a delivery to a purchaser of such oil;
+  - (ii) oil processing facilities;
+  - (iii) gas processing facilities; and
+  - (iv) a facility for the reception of gas prior to its conveyance to a place outside the United Kingdom;
+- (q) “**upstream petroleum pipeline**” means a pipeline or one of a network of pipelines which is—
+  - (i) operated or constructed as part of a petroleum production project (or an equivalent project in a foreign sector of the continental shelf) and is not a carbon dioxide pipeline;
+  - (ii) used to convey petroleum from the site of one or more such projects—
+    - (aa) directly to premises, in order for that petroleum to be used at those premises for power generation or for an industrial process;
+    - (bb) directly to a place outside the United Kingdom;
+    - (cc) directly to a terminal; or
+    - (dd) indirectly to a terminal by way of one or more other terminals, whether or not such intermediate terminals are of the same kind as the final terminal; or
+  - (iii) used to convey gas directly from a terminal to a pipeline system operated by a gas transporter or to any premises.
+
+(9) In sub-paragraph (8)(f), (l), (m), (p) and (q) “**gas**” means any substance which is or, if it were in a gaseous state, would be gas within the meaning of Part 1 of the Gas Act 1986 [^c22950991].
+
+(10) In this paragraph an upstream petroleum pipeline, oil processing facility, or gas processing facility is “relevant” if and in so far as it is situated in—
+
+- (a) the United Kingdom;
+- (b) the territorial sea adjacent to the United Kingdom; or
+- (c) the sea (including the seabed and subsoil)[^key-4833c772d56a3dc1772b83b0f59d6dbe] in any area designated under section 1(7) of the Continental Shelf Act 1964 [^c22951001].
+
+(11)[^key-d24da807bd20274f24ebefce4c82420c] In this paragraph, “Great Britain” includes—
+
+- (a) Great Britain;
+- (b) the territorial sea adjacent to Great Britain; and
+- (c) the sea (including the seabed and subsoil) in any area designated under section 1(7) of the Continental Shelf Act 1964.
+
+### 3. The gas subsector
+
+(1) This paragraph describes the threshold requirements which apply to specified kinds of essential services in the gas subsector.
+
+(2) For the essential service of gas supply the threshold requirements are—
+
+- (a) in Great Britain, supply undertakings that supply gas to more than 250,000 final customers;
+- (b) in Northern Ireland, the holder of a supply licence under Article 8(1)(c) of the Gas (Northern Ireland) Order 1996 [^c22951011] who supplies gas to more than 2,000 customers.
+
+(3) For the essential service of gas transmission the threshold requirements are—
+
+- (a) in Great Britain—
+  - (i) transmission system operators with a potential to disrupt delivery to more than 250,000 final customers; or
+  - (ii) holders of interconnector licences where the gas interconnector to which the licence relates has the technological capacity to input more than 20 million cubic metres of gas per day to a transmission system; and
+- (b) in Northern Ireland, the holder of a gas conveyance licence under Article 8(1)(a) of the Gas (Northern Ireland) Order 1996.
+
+(4) For the essential service of gas distribution the threshold requirements are—
+
+- (a) in Great Britain, distribution system operators with a potential to disrupt delivery to more than 250,000 final customers; and
+- (b) in Northern Ireland the holder of a licence under Article 8(1)(a) of the Gas (Northern Ireland) Order 1996.
+
+(5) For the essential service of the operation of gas storage facilities, the threshold requirements are—
+
+- (a) in Great Britain, storage system operators where the storage facility has the technological capacity to input more than 20 million cubic metres of gas per day to a transmission system; and
+- (b) in Northern Ireland the holder of a licence under Article 8(1)(b) of the Gas (Northern Ireland) Order 1996 [^c22951021].
+
+(6) For the essential service of the operation of LNG facilities, the threshold requirements are—
+
+- (a) in Great Britain, LNG system operators where the LNG facility has the technological capacity to input more than 20 million cubic metres of gas per day to a transmission system; and
+- (b) in Northern Ireland the holder of a licence under Article 8(1)(d) of the Gas (Northern Ireland) Order 1996 [^c22951031].
+
+(7) For the essential service of the operation of relevant gas processing facilities, the threshold requirement in the United Kingdom is in the case of—
+
+- (a)[^key-9a4a5a5aabf737e9f54a578f5796c9b4] an operator of a relevant gas processing facility, an operator of a facility with a throughput of more than 3,000,000 tonnes of oil equivalent per year; or
+- (b) a relevant upstream pipeline and associated infrastructure that is connected to and operated from such a relevant gas processing facility, and critical to the continued operation of that facility, an operator of a pipeline with a throughput of more than 3,000,000 tonnes of oil equivalent per year,
+
+an operator of a facility or pipeline with a throughput of more than 3,000,000 tonnes of oil equivalent per year.
+
+(8) For the essential service of the operation of petroleum production projects (other than projects which are primarily used for the storage of gas), the threshold requirement in the United Kingdom is—
+
+- (a) in the case of—
+  - (i) a relevant offshore installation which is part of a petroleum production project (other than a project which is primarily used for the storage of gas), or
+  - (ii) a relevant upstream petroleum pipeline which is connected to and operated from such an installation,
+
+an operator of an installation or pipeline with a throughput of more than 3,000,000 tonnes of oil equivalent per year.
+
+(9) In sub-paragraph (3)(a)(i) the threshold requirement does not include transmission systems for which an interconnector licence applies.
+
+(10) In this paragraph—
+
+- (a) “**carbon dioxide pipeline**” has the meaning given by section 90(2) of the Energy Act 2011 [^c22951041];
+- (b) “**crude oil**” means any liquid hydrocarbon mixture occurring naturally in the earth whether or not treated to render it suitable for transportation, and includes—
+  - (i) crude oils from which distillate fractions have been removed, and
+  - (ii) crude oils to which distillate fractions have been added;
+- (c) “**distribution**” has the meaning given by Article 2(5) of Directive [2009/73/EC](https://www.legislation.gov.uk/eudr/2009/73) of the European Parliament and of the Council concerning common rules for the internal market in natural gas and repealing Directive [2003/55/EC](https://www.legislation.gov.uk/eudr/2003/55) [^c22951051], “the Gas Directive”;
+- (d) “**distribution system operator**” has the meaning given by Article 2(6) of the Gas Directive;
+- (e) “**final customer**” has the meaning given by Article 2(27) of the Gas Directive;
+- (f) “**foreign sector of the continental shelf**” has the meaning given by section 90(1) of the Energy Act 2011 [^c22951061];
+- (g) “**gas processing facility**” means any facility which—
+  - (i) carries out gas processing operations in relation to piped gas;
+  - (ii) is operated otherwise than by a gas transporter; and
+  - (iii) is not an LNG import or export facility (within the meaning of section 12 of the Gas Act 1995 [^c22951071]);
+- (h) “**gas processing operation**” means any of the following operations—
+  - (i) purifying, blending, odorising or compressing gas for the purpose of enabling it to be introduced into a pipeline system operated by a gas transporter or to be conveyed to an electricity generating station, a gas storage facility or any place outside the United Kingdom;
+  - (ii) removing from gas for that purpose any of its constituent gases, or separating from gas for that purpose any oil or water;
+  - (iii) determining the quantity or quality of gas which is or is to be so introduced, or so conveyed, whether generally or by, or on behalf of, a particular person;
+  - (iv) separating, purifying, blending, odorising or compressing gas for the purpose of—
+    - (aa) converting it into a form in which a purchaser is willing to accept delivery from a seller, or
+    - (bb) enabling it to be loaded for conveyance to another place (whether inside or outside the United Kingdom); or
+  - (v) loading gas—
+    - (aa) at a facility which carries out operations of a kind mentioned in paragraph (iv), or
+    - (bb) piped from such a facility,
+
+    for the purpose of enabling the gas to be conveyed to another place inside or outside the United Kingdom;
+- (i) “**gas transporter**” has the meaning given by section 7(1) of the Gas Act 1986 [^c22951081];
+- (j) “**interconnector licence**” means a licence granted under section 7ZA of the Gas Act 1986 [^c22951091];
+- (k) “**LNG facility**” has the meaning given by Article 2(11) of the Gas Directive;
+- (l) “**LNG system operator**” has the meaning given by Article 2(12) of the Gas Directive;
+- (m) “**oil equivalent**” means petroleum and, for the purposes of assessments of throughput, where petroleum is in a gaseous state 1,100 cubic meters of this petroleum at a temperature of 15 degrees Celsius and pressure of one atmosphere is counted as equivalent to one tonne;
+- (n) “**oil processing facility**” means any facility which carries out oil processing operations;
+- (o) “**oil processing operations**” means any of the following operations—
+  - (i) initial blending and such other treatment of petroleum as may be required to produce stabilised crude oil to the point at which a seller could reasonably make a delivery to a purchaser of such oil;
+  - (ii) receiving stabilised crude oil piped from an oil processing facility carrying out operations of a kind mentioned in sub-paragraph (i), or storing oil so received, prior to their conveyance to another place (whether inside or outside the United Kingdom);
+  - (iii) loading stabilised crude oil piped from a facility carrying out operations of a kind mentioned in sub-paragraph (i) or (ii) for conveyance to another place (whether inside or outside the United Kingdom);
+- (oa)[^key-4c7ac806180ec7797e335a6237d42b21] “operator” means—
+  - (i) in relation to a pipeline—
+    - (aa) the person who is to have or (once any fluid or any mixture of fluids is conveyed) has control over the conveyance of any fluid or any mixture of fluids in the pipeline;
+    - (bb) until that person is known, the person who is to commission or (where commissioning has started) commissions the design and construction of the pipeline; or
+    - (cc) when a pipeline is no longer used or is not for the time being used, the person last having control over the conveyance of fluid or any mixture of fluids in it;
+  - (ii) in relation to a production installation—
+    - (aa) the person appointed by the licensee of the operator or by any other person to manage and control directly the execution of the main functions of a production installation; or
+    - (bb) the licensee, where it is not clear to the designated competent authority that one person has been appointed to perform the functions described in paragraph (aa) or, in the opinion of that authority, the person appointed to perform the functions described in that paragraph is incapable of performing those functions satisfactorily;
+- (p) “**petroleum**” has the same meaning as in section 1 of the Petroleum Act 1998 [^c22951101], and includes petroleum that has undergone any processing;
+- (q) “**petroleum production project**” means a project carried out by virtue of a licence granted under—
+  - (i) section 3 of the Petroleum Act 1998 [^c22951111];
+  - (ii) section 2 of the Petroleum (Production) Act 1934 [^c22951121]; or
+  - (iii) section 2 of the Petroleum (Production) Act (Northern Ireland) 1964 [^c22951131];
+
+  and includes such a project which is used for the storage of gas;
+- (r) “**piped gas**” means gas which—
+  - (i) originated from a petroleum production project (or an equivalent project in a foreign sector of the continental shelf); and
+  - (ii) has been conveyed only by means of pipes;
+- (s) “**pipeline**” means a pipe or system of pipes for the conveyance of anything;
+- (sa)[^key-ae8161069e7a0ebd14bbe6a605a083dc] “production installation” has the meaning given by regulation 2(1) of the Offshore Installations (Safety Case) Regulations 2005;
+- (t) “**relevant offshore installation**” means an offshore installation within the meaning of section 44 of the Petroleum Act 1998 [^c22951141] which carries on the activities mentioned in subsection (3)(a) or (c) of that section and is a relevant offshore installation only to the extent it is used to carry on those activities;
+- (u) “**storage facility**” has the meaning given by Article 2(9) of the Gas Directive;
+- (v) “**storage system operator**” has the meaning given by Article 2(10) of the Gas Directive;
+- (w) “**supply**” has the meaning given by Article 2(7) of the Gas Directive;
+- (x) “**supply undertaking**” has the meaning given by Article 2(8) of the Gas Directive;
+- (y) “**terminal**” includes—
+  - (i) facilities for such initial blending and other treatment as may be required to produce stabilised crude oil to the point at which a seller could reasonably make a delivery to a purchaser of such oil;
+  - (ii) oil processing facilities;
+  - (iii) gas processing facilities; and
+  - (iv) a facility for the reception of gas prior to its conveyance to a place outside the United Kingdom;
+- (z) “**transmission**” has the meaning given by Article 2(3) of the Gas Directive; and
+- (aa) “**transmission system operator**” has the meaning given by Article 2(4) of the Gas Directive;
+- (bb) “**upstream petroleum pipeline**” means a pipeline or one of a network of pipelines which is—
+  - (i) operated or constructed as part of a petroleum production project (or an equivalent project in a foreign sector of the continental shelf) and is not a carbon dioxide pipeline;
+  - (ii) used to convey petroleum from the site of one or more such projects—
+    - (aa) directly to premises, in order for that petroleum to be used at those premises for power generation or for an industrial process;
+    - (bb) directly to a place outside the United Kingdom;
+    - (cc) directly to a terminal; or
+    - (dd) indirectly to a terminal by way of one or more other terminals, whether or not such intermediate terminals are of the same kind as the final terminal; or
+  - (iii) used to convey gas directly from a terminal to a pipeline system operated by a gas transporter or to any premises.
+
+(11) In—
+
+- (a) sub-paragraphs 2(a), 3(a), 4(a), 5(a) and 6(a), or in any provision of the Gas Directive to which these sub-paragraphs cross-refer, any reference to “gas” or “**natural gas**” means any substance in a gaseous state which consists wholly or mainly of—
+  - (i) methane or hydrogen;
+  - (ii) a mixture of two or more of those gases; or
+  - (iii) a combustible mixture of one or more of those gases and air;
+- (b) sub-paragraphs 10(h), (q), (r), (y) and (bb), “**gas**” means any substance which is or, if it were in a gaseous state, would be gas within the meaning of Part 1 of the Gas Act 1986 [^c22951151].
+
+(12) In this paragraph an upstream petroleum pipeline, oil processing facility, or gas processing facility is “relevant” if and in so far as it is situated in—
+
+- (a) the United Kingdom;
+- (b) the territorial sea adjacent to the United Kingdom; or
+- (c) the sea (including the seabed and subsoil)[^key-aa4e9e27b483c88d1f6fdbc79724e219] in any area designated under section 1(7) of the Continental Shelf Act 1964 [^c22951161].
+
+(13)[^key-269940e7b54f0575b109cad72231b1d2] In this paragraph, “Great Britain” includes—
+
+- (a) Great Britain;
+- (b) the territorial sea adjacent to Great Britain; and
+- (c) the sea (including the seabed and subsoil) in any area designated under section 1(7) of the Continental Shelf Act 1964.
+
+### 4. The air transport subsector
+
+(1) This paragraph describes the threshold requirements which apply to specified kinds of essential services in the air transport subsector.
+
+(2) For the essential service of the provision of services by the owner or manager of an aerodrome, the threshold requirement in the United Kingdom is an owner or manager of an aerodrome with annual terminal passenger numbers greater than 10 million.
+
+(3) For the essential service of the provision of air traffic services (as defined in the Transport Act 2000), the threshold requirement in the United Kingdom is—
+
+- (a) an entity which is granted a licence by the Secretary of State or the Civil Aviation Authority to provide en-route air traffic services in the United Kingdom; or
+- (b) an air-traffic service provider at any airport which has annual terminal passenger numbers greater than 10 million.
+
+(4) For the essential service of the provision of services by air carriers, the threshold requirement in the United Kingdom is an air carrier which has—
+
+- (a) more than thirty percent of the annual terminal passengers at any United Kingdom airport which has annual terminal passenger numbers greater than 10 million; and
+- (b) more than 10 million total annual terminal passengers across all United Kingdom airports.
+
+(5) In this paragraph—
+
+- (a) “**an aerodrome**” has the same meaning as in the Civil Aviation Act 1982 [^c22951171];
+- (b) “**air carrier**” has the same meaning as in Article 3(4) of Regulation [(EC) No 300/2008](https://www.legislation.gov.uk/eur/2008/300) of the European Parliament and of the Council on common rules in the field of civil aviation security and repealing Regulation EC No 2320/2202 [^c22951181].
+
+### 5. The water transport subsector
+
+(1) This paragraph describes the threshold requirements which apply to specified kinds of essential services in the water transport subsector.
+
+(2) For the essential service of shipping in the United Kingdom, the threshold requirement is—
+
+- (a) a shipping company which handles—
+  - (i) over 5 million tonnes of total annual freight at United Kingdom ports; and
+  - (ii) over thirty percent of the freight at any individual United Kingdom port which fulfils at least one of the following criteria—
+    - (aa) it handles more than fifteen percent of the total roll-on roll-off traffic in the United Kingdom;
+    - (bb) it handles more than fifteen percent of the total lift-on lift-off traffic in the United Kingdom;
+    - (cc) it handles more than ten percent of the total liquid bulk traffic in the United Kingdom; or
+    - (dd) it handles more than twenty percent of the total biomass fuel traffic in the United Kingdom; or
+- (b) a shipping company with over thirty percent of the annual passenger numbers at any individual United Kingdom port which has annual passenger numbers greater than 10 million.
+
+(3) For the essential service of the provision of services by a harbour authority for a port in the United Kingdom, the threshold requirement is—
+
+- (a) a harbour authority for a port which has annual passenger numbers greater than 10 million; or
+- (b) a harbour authority for a port which fulfils at least one of the following criteria—
+  - (i) it handles more than fifteen percent of the total roll-on roll-off traffic in the United Kingdom;
+  - (ii) it handles more than fifteen percent of the total lift-on lift-off traffic in the United Kingdom;
+  - (iii) it handles more than ten percent of the total liquid bulk traffic in the United Kingdom; or
+  - (iv) it handles more than twenty percent of the total biomass fuel traffic in the United Kingdom.
+
+(4) For the essential service of the provision of services by an operator of a port facility in the United Kingdom, the threshold requirement is—
+
+- (a) an operator of a port facility which handles passengers at a port which has annual passenger numbers greater than 10 million; or
+- (b) an operator of a port facility at a port which fulfils at least one of the following criteria—
+  - (i) it handles more than fifteen percent of the total roll-on roll-off traffic in the United Kingdom;
+  - (ii) it handles more than fifteen percent of the total lift-on lift-off traffic in the United Kingdom;
+  - (iii) it handles more than ten percent of the total liquid bulk traffic in the United Kingdom; or
+  - (iv) it handles more than twenty percent of the total biomass fuel traffic in the United Kingdom;
+
+  and where that port facility operator handles the same type of freight for which the port fulfils one of the criteria mentioned in sub-paragraphs (i)-(iv).
+
+(5) For the essential service of vessel traffic services in the United Kingdom, the threshold requirement is—
+
+- (a) an operator of vessel traffic services at a port which has annual passenger numbers greater than 10 million; or
+- (b) an operator of vessel traffic services at a port which fulfils at least one of the following criteria—
+  - (i) it handles more than fifteen percent of the total roll-on roll-off traffic in the United Kingdom;
+  - (ii) it handles more than fifteen percent of the total lift-on lift-off traffic in the United Kingdom;
+  - (iii) it handles more than ten percent of the total liquid bulk traffic in the United Kingdom; or
+  - (iv) it handles more than twenty percent of the total biomass fuel traffic in the United Kingdom.
+
+(6) In this paragraph—
+
+- (a) “harbour authority” has the same meaning as[^key-ee61a5726c1386f8d1cbe41d047a316a] in section 313(1) of the Merchant Shipping Act 1995 [^c22951191];
+- (b) “**port facility**” has the same meaning as in regulation 2 of the Port Security Regulations 2009 [^c22951201];
+- (c) “**vessel traffic services**” has the same meaning as in regulation 2(1) of the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004 [^c22951211].
+
+### 6. The rail transport subsector
+
+(1) This paragraph describes the threshold requirements which apply to specified kinds of essential services in the rail transport subsector.
+
+(2) For the essential service of rail services the threshold requirements are—
+
+- (a) in Great Britain, any operator of a mainline railway asset but excluding operators of—
+  - (i) railway assets solely for the provision of international rail services;
+  - (ii) railway assets for metro, tram and other light rail, including underground, systems;
+  - (iii) heritage, museum or tourist railways, whether or not they are operating solely on their own network; and
+  - (iv) networks which are privately owned and exist solely for use by the infrastructure owner for its own freight operations or other passenger or freight services for third parties and operators of passenger or freight services on those networks (including high speed rail services);
+- (b) in Northern Ireland, any railway undertaking in Northern Ireland.
+
+(3) For the essential service of high speed rail services the threshold requirement in the United Kingdom is an operator of a railway asset for high speed rail services.
+
+(4) For the essential service of metros, trams and other light rail services (including underground services), the threshold requirement in the United Kingdom is an operator with more than 50 million annual passenger journeys.
+
+(5) For the essential service of international rail services the threshold requirement in the United Kingdom is an operator of a Channel Tunnel train or the infrastructure manager of the Channel Fixed Link.
+
+(6) In this paragraph—
+
+- (a) “**operator**” and “**railway asset**” have the same meaning as in section 6 of the Railways Act 1993 [^c22951221];
+- (b) “**international rail service**” means a rail service where all carriages on the train cross a border of the United Kingdom and that of a Member State, and where the principal purpose of the service is to carry passengers or goods between stations located in the United Kingdom and a station in at least one Member State;
+- (c) “**mainline railway**” has the same meaning as in the Railways and Other Guided Transport Systems (Safety) Regulations 2006 [^c22951231];
+- (d) “**railway undertaking**” has the same meaning as in section 55 of the Transport Act (Northern Ireland) 1967 [^c22951241] but excludes heritage railways operating solely on their own network; and
+- (e) “**Channel Tunnel train**” has the same meaning as in article 2(1) of the Channel Tunnel (Security) Order 1994 [^c22951251] and “**Channel Fixed Link**” has the same meaning as in section 1 of the Channel Tunnel Act 1987 [^c22951261].
+
+### 7. The road transport subsector
+
+(1) For the essential service of road transport services, the threshold requirement in the United Kingdom is a road authority responsible for roads in the United Kingdom that have vehicles travelling more than 50 billion miles in total on them.
+
+(2) For the essential service of road services provided by Intelligent Transport Systems, the threshold requirement in the United Kingdom is a road authority that provides Intelligent Transport Systems services which covers roads in the United Kingdom that have vehicles travelling more than 50 billion miles in total on them, per year.
+
+(3)
+
+- (a) “road authority” has the same meaning as[^key-b64ee57aaca81b7fc620a595a4b7b600] in Article 2(12) of Commission Delegated Regulation (EU) 2015/962 supplementing Directive 2010/40/EU of the European Parliament and the Council with regard to the provision of EU-wide real-time traffic information services [^c22951271]; and
+- (b) “**Intelligent Transport Systems**” has the same meaning as in Article 4(1) of Directive 2010/40/EU of the European Parliament and of the Council on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport [^c22951281].
+
+### 8. The healthcare subsector
+
+(1) This paragraph describes the threshold requirements which apply to specified kinds of essential services in the healthcare settings sector.
+
+(2) For the essential service of healthcare services the threshold requirements are—
+
+- (a) in England, an NHS Trust as defined in section 25 of the National Health Service Act 2006 [^c22951291] or a Foundation trust as defined in section 30 of the National Health Service Act 2006 [^c22951301];
+- (b) in Wales, a Local Health Board or NHS Trust as defined in the National Health Service (Wales) Act 2006 [^c22951311];
+- (c) in Scotland—
+  - (i) the Common Services Agency for the Scottish Health Service established under section 10 of the National Health Service (Scotland) Act 1978 [^c22951321];
+  - (ii) a Health Board, constituted under section 2 of the National Health Service (Scotland) Act 1978 [^c22951331]; and[^key-4e40953885636066763d1da39e42a212]
+  - (iii) a Special Health Board, constituted under section 2 of the National Health Service (Scotland) Act 1978;
+- (d) in Northern Ireland, the Health and Social Care Trusts within the meaning of “HSC Trust” in section 31 of the Health and Social Care (Reform) Act (Northern Ireland) 2009 [^c22951381].
+
+### 9. The drinking water supply and distribution subsector
+
+The threshold requirement which applies to the essential service of the supply of potable water in the United Kingdom is the supply of water to 200,000 or more people.
+
+### 10. The digital infrastructure subsector
+
+(1) This paragraph describes the threshold requirements which apply to specified kinds of essential services in the digital infrastructure subsector.
+
+(2)[^key-f88d7a15b47ff9dfce005ad5bb4a6641] For the essential service of a TLD Name Registry, irrespective of its place of establishment (whether within, or outside of, the United Kingdom), the threshold in the United Kingdom is a TLD Name Registry which services 14 billion or more queries from any devices located within the United Kingdom in any consecutive 168-hour period for domains registered within the Internet Corporation for Assigned Names and Numbers (“ICANN”).
+
+(3) For the essential service of a DNS resolver service provided by a DNS service provider, irrespective of its place of establishment (whether within, or outside of, the United Kingdom), the threshold in the United Kingdom is a DNS resolver service which services 500,000 or more different Internet Protocol addresses used by persons in the United Kingdom in any consecutive 168-hour period.
+
+(3A) For the essential service of a DNS authoritative hosting service provided by a DNS service provider, irrespective of its place of establishment (whether within, or outside of, the United Kingdom), the threshold in the United Kingdom is a DNS authoritative hosting service which services 100,000 or more domains registered to persons with an address in the United Kingdom.
+
+(4) For the essential service of an IXP provided by an IXP operator, irrespective of its place of establishment (whether within, or outside of, the United Kingdom), the threshold in the United Kingdom is an IXP operator which has 30% or more market share amongst IXP operators in the United Kingdom, in terms of interconnected autonomous systems.
+
+(5) In this paragraph—
+
+- (a) “**DNS**” is a reference to “Domain Name System[^key-d75dee412e3d0904a662d97a4f713522]” which means a hierarchical distributed naming system which processes and responds to queries for DNS resolution;
+- (b) “**DNS service provider**” is a reference to “Domain Name System[^key-cab56b0070bd53be8950c5a6d73b2c1e] service provider” which means an entity which provides DNS services accessible via the internet;
+- (c) “**IXP**” is a reference to “internet exchange point” which means a network facility which—
+  - (i) enables the interconnection of more than two independent autonomous systems, primarily for the purpose of facilitating the exchange of internet traffic;
+  - (ii) provides interconnection only for autonomous systems; and
+  - (iii) does not require the internet traffic passing between any pair of participating autonomous systems to pass through any third autonomous system nor does it alter or otherwise interfere with such traffic; [^key-8acf913fe55f72a012b0aaa9ad701251]...
+- (ca)[^key-15a3b8ecc24fa5d699bbb3d9da2fbe70] “IXP Operator” means a person who provides an IXP to another person and, where one or more persons are employed or engaged to provide an IXP under the direction or control of another person, it means only that other person;
+- (d) “**TLD Name Registry**” is a reference to “top-level domain name registry” which means an entity which administers and operates the registration of internet domain names under a specific top-level domain.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Directive (EU) 2016/1148 of the European Parliament and of the Council concerning measures for a high common level of security of network and information systems across the Union (OJ No L194, 19.7.2016, p1).
+
+Part 2 of these Regulations provides a national framework for the security of network and information systems in the United Kingdom (“UK”). Under regulation 2, a Minister of the Crown must designate and publish a “national strategy” covering the sectors specified in column 1 of the table in Schedule 1 (“the relevant sectors”) and digital services.
+
+Regulation 3(1) designates national competent authorities, specified in column 3 of the table in Schedule 1, for the subsectors specified in column 2 of that table. Regulation 3(2) designates the Information Commissioner as the national competent authority for relevant digital service providers (“RDSPs”). The national competent authorities designated under regulation 3(1) and (2) (referred to as “**NIS enforcement authorities**”) are required to carry out the duties mentioned in regulation 3(3), (4) and (6).
+
+Regulation 4 designates the ‘single point of contact’ (“**SPOC**”) for the UK and regulation 5 designates the UK's computer security incident response team for the relevant sectors and RDSPs.
+
+Part 3 of these Regulations makes provision regarding the designation of operators of essential services and the duties which apply to them.
+
+Under regulation 8, a person is identified as an operator of an essential service (an “OES”) by virtue of either falling within regulation 8(1) or (3). A person is deemed to be an OES under regulation 8(1) if they provide an essential service of kind specified in paragraphs 1 to 9 of Schedule 2 which also satisfies the threshold requirements specified for that kind of essential service. A person may be designated by a competent authority as an OES if they meet the conditions mentioned in regulation 8(3)(a) to (c). The deemed designation of an OES under regulation 8(1), or designation of an OES under regulation 8(3), may be revoked by a competent authority under regulation 9. An OES must fulfil the security duties set out in regulation 10 and the duty to notify incidents set out in regulation 11.
+
+Part 4 of these Regulations makes provision regarding the duties which apply to RDSPs and the Information Commissioner. This includes a duty on all RDSPs to register with the Information Commissioner.
+
+Part 5 of these Regulations makes provision for powers of enforcement and penalties which apply to contraventions of the duties set out in these Regulations. Regulation 15 enables a competent authority to serve an information notice on an OES or any person to obtain information that it reasonably requires for specified purposes. Regulation 19 makes provision for the independent review of a decision to designate an OES or a decision to serve a penalty notice.
+
+Part 6 of these Regulations makes provision about miscellaneous matters such as fees, proceeds of penalties, general considerations that apply to enforcement actions and service of documents.
+
+Regulation 25 sets out a process for the Secretary of State to review the regulatory provision contained within these Regulations and publish a report setting out the conclusions of that review. The first such report must be published on or before 9th May 2020 and subsequent reviews must be carried out biennially after that date.
+
+An impact assessment has been produced by the Department for Digital, Culture, Media and Sport and is published alongside the instrument at www.legislation.gov.uk.
+
+An Explanatory Memorandum and a Transposition Note are published alongside the instrument at www.legislation.gov.uk.
+
+The Directive referred to above is published at http://eur-lex.europa.eu.
+
+## Annotations
+
+[^c22950601]: Marginal citation: [S.I. 2001/3495](https://www.legislation.gov.uk/uksi/2001/3495). See article 2 of, and Schedule 1 to, these Regulations. There are amendments not relevant to these Regulations.
+
+[^c22950611]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). In so far as these Regulations deal with matters that are within the devolved competence of Scottish Ministers, the power of the Secretary of State to make regulations in relation to those matters in or as regards Scotland is preserved by section 57(1) of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c22950621]: Marginal citation: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 and by article 3 of and paragraph 1 of Schedule 1 to SI 2007/1388.
+
+[^c22950631]: Marginal citation: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51). Section 56 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amendments not relevant to these Regulations.
+
+[^key-4fe6152f231ab0942361eaa1b3d7a37b]: Textual amendment: Words in reg. 1 inserted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22950641]: Marginal citation: OJ No L 165, 18.6.2013, p63.
+
+[^c22950651]: Marginal citation: OJ No L 241, 17.9.2015, p1.
+
+[^c22950661]: Marginal citation: OJ No L 194, 19.7.2016, p1.
+
+[^c22950671]: Marginal citation: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
+
+[^key-7e22c5f5af351fd7ef8f1ebda968639b]: Textual amendment: Words in reg. 1(2) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/3/a/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22950681]: Marginal citation: [1994 c.13](https://www.legislation.gov.uk/ukpga/1994/13). Section 3 was amended by section 251(1) and (2) of the [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25).
+
+[^c22950691]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32(1) was amended by regulation 2(1) of, and paragraphs 4 and 9(a) of Schedule 1 to, [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
+
+[^key-c6925a1f20e85cd1ac90d5ccd75cfca2]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/506/regulation/1/2) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 236](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/236); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-9e5758f155c278b061f7f22266b4e571]: Textual amendment: Words in reg. 1(2) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/3/a/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22950701]: Marginal citation: [1984 c.60](https://www.legislation.gov.uk/ukpga/1984/60). Section 63A(1A) and (1B) were substituted by section 81(2) of the [Criminal Justice and Police Act 2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16). Subsection (1A) was amended by sections 117(5)(b) and 59 of, and paragraphs 43 and 46 of Schedule 4 to, the [Serious and Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15); and section 15(3) of, and paragraph 186 of Schedule 8 to, the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^key-e371627234b0dc4f3d0de98cf88f3698]: Textual amendment: Words in reg. 1(2) inserted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1444)](https://www.legislation.gov.uk/uksi/2019/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1444/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/1444/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-91cd51ca961dc9963a29f7cc9507dcae]: Textual amendment: Reg. 1(3)(a) substituted (20.6.2018) by [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/2)
+
+[^key-f0031d7746dc3a275f7a9ac285908676]: Textual amendment: Word in reg. 1(3)(c) substituted (20.6.2018) by [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/3)
+
+[^key-1cf2875f4ccd2ab313fe881db13f8a96]: Textual amendment: Words in reg. 1(3)(d) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/3/b/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-be7294cd7edf8aa225f59297a721e80a]: Textual amendment: Words in reg. 1(3)(d) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/3/b/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22950711]: Marginal citation: Commission Recommendation concerning the definition of micro, small and medium-sized enterprises (OJ No. L 124, 20.5.2003, p. 36).
+
+[^key-4ca3017d29d1afcdc05ec8c0cecb59db]: Textual amendment: Words in [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2018/506/regulation/1/3/f) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^c22950721]: Marginal citation: See Article 1(6) of Directive 2016/1148.
+
+[^c22950731]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) of the Continental Shelf Act 1964 was amended by section 37 of, and Schedule 3 to, the [Oil and Gas (Enterprise) Act 1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), and section 103 of the [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^key-28a85e24f9a5c5e5fe3554a02dc9a455]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2018/506/regulation/2/6) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-09289a455ccdc09e0c458c923738f8b1]: Textual amendment: Words in [reg. 2(7)](https://www.legislation.gov.uk/uksi/2018/506/regulation/2/7) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22950741]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
+
+[^key-54e12aee09fe8b662ac549225d240d96]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/506/regulation/3/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-33ce2ded5dda48ad2d97df17ac802ac7]: Textual amendment: Words in reg. 3(3)(c) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c10eed4d6c82dd2a0e98986ed56dd83f]: Textual amendment: Words in [reg. 3(3)(f)](https://www.legislation.gov.uk/uksi/2018/506/regulation/3/3/f) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-bf69834546bfb7b757c7462c57d7cdd5]: Textual amendment: Reg. 3(3)(g)(ii) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cba497abbcc8f6fe70f7943ade5620f1]: Textual amendment: Reg. 3(3A) inserted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e9eefe347d17f487d30aa91256f9320f]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/506/regulation/3/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-7537de2a641caabe997975fec80479af]: Textual amendment: Word in reg. 3(5) omitted (20.6.2018) by virtue of [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/4)
+
+[^key-8ae1de5421812845b3a7d15f5b450772]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2018/506/regulation/3/5/a)[(b)](https://www.legislation.gov.uk/uksi/2018/506/regulation/3/5/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-2aa475baed1c5efb9d554e2b45ea1e63]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2018/506/regulation/3/6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-02a82d983dc9fdc7b3ebd2aa1b411f8f]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/506/regulation/4/2) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-62513d43d70b0f263396d8855e6ff322]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2018/506/regulation/4/2A) inserted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c21062e605f65dfbbae2b8b9c8e12858]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2018/506/regulation/4/3) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 5(c)(i)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/5/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9ca28880a1114ed073c9d9665255e352]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2018/506/regulation/4/3/b) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b3598734e9d5d9e5062706b8aaf86d54]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2018/506/regulation/4/4)[(5)](https://www.legislation.gov.uk/uksi/2018/506/regulation/4/5) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 5(d)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5823bb34164559fbafaafc9ded85a088]: Textual amendment: [Reg. 5(2)(e)](https://www.legislation.gov.uk/uksi/2018/506/regulation/5/2/e) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-70316e3176470846c47a8aefc608f230]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2018/506/regulation/5/3) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-193d4570f97e17465fa4c2e8fba18229]: Textual amendment: Words in reg. 6(1) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/4/a/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-7e31ebec28d7bcfc80f64168e50d5510]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/506/regulation/6/1) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8739e10c9f04f94d0ec8735a48151b75]: Textual amendment: Reg. 6(1)(a) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/4/a/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-2937c867c47d8dfbbba6245f6693a3ae]: Textual amendment: Reg. 6(1A) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/4/b) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-8d05983322d72c74f793bebb7824d1e9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2018/506/regulation/6/2) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22950751]: Marginal citation: [2016 c. 5](https://www.legislation.gov.uk/ukpga/2016/5).
+
+[^key-a8c9cc8155aaf9922789d00f3cf293d2]: Textual amendment: Words in reg. 8(1) omitted (20.6.2018) by virtue of [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/5)
+
+[^key-0a03d9aaa92349905133c1ad60830db6]: Textual amendment: Reg. 8(1A) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/5/a) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-6b24ab9815408ca690469d84159443e6]: Textual amendment: Words in reg. 8(2) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/5/b) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-bc160b1c3bfd47ad74d6127a633b12cd]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/uksi/2018/506/regulation/8/2A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 237(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/237/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-7a8ccf95a43d784c485a75ba54d983be]: Textual amendment: Words in reg. 8(3)(a) omitted (20.6.2018) by virtue of [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/5)
+
+[^key-4ea01a06b7d71c63a578e8d3ccbb22ff]: Textual amendment: Reg. 8(6)(a) and word omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/5/b) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-a38922e465b1258ed76866dac79961ac]: Textual amendment: [Reg. 8(7)](https://www.legislation.gov.uk/uksi/2018/506/regulation/8/7) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0ceca1f5d08aa0c3797718335207abc9]: Textual amendment: Reg. 8(7A)(7B) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [5(d)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/5/d) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-5145be3ef807fdad1022026e8b5afd79]: Textual amendment: Words in [reg. 8(8)](https://www.legislation.gov.uk/uksi/2018/506/regulation/8/8) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 237(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/237/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+
+[^key-567199fe79e6ea7cd62ede251d5df481]: Textual amendment: Words in reg. 8(11) substituted (20.6.2018) by [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/6)
+
+[^key-4438e96257bffbc2e39232b854b33059]: Textual amendment: Reg. 8A inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1245/regulation/6) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-e9b9a40f9a4be5bb274a9d8358cd3012]: Textual amendment: Words in reg. 9(1) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/7/a/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-c94471c381e0f8f6f6d094ee1dfe22db]: Textual amendment: Words in reg. 9(1) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/7/a/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-bdfe2952a10d5914d3121d8f81ffb8d8]: Textual amendment: Words in reg. 9(2) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [7(b)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/7/b/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-2e7bf386284186ebf76d7b9856106cad]: Textual amendment: Words in reg. 9(2) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/7/b/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-d413d0186fdce54f1beddcd85483ccdb]: Textual amendment: Words in reg. 9(3) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/7/c) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-caa807c22450de45df150a0645430c2a]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2018/506/regulation/9/5) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3002c787cb9215b9f8453f5a838d810b]: Textual amendment: Words in reg. 11(1) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/1245/regulation/8) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-86dbde6b8deeb6199988fa8cb3c3d68a]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2018/506/regulation/11/6) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-75ce6850781517ce5eca20b973ceb20e]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/1) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b79e2f8117508c7ac8c31580d3fa83fb]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-d279f86010ed9b559f770352a018edcb]: Textual amendment: Words in reg. 12(3) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/9/a) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-ceb173d2e46fb471a5e04b1c7d2a43f9]: Textual amendment: Reg. 12(5)(a) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/9/b/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-1416a9c008faf3d508411bc45361c20b]: Textual amendment: Word in reg. 12(5)(b)-(e) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/9/b/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-bde88136b78694c61f85ba22b5ac76dd]: Textual amendment: Words in [reg. 12(5)(f)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/5/f) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-6e0ab1688c737de3cd0a3a9a8deca798]: Textual amendment: Word in reg. 12(6)(a) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/9/c) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-3f7c5e7e3c6b69484c8c55732780981a]: Textual amendment: Words in [reg. 12(6)(b)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/6/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-3adb043b4b2785570e672ecac7602aa4]: Textual amendment: [Reg. 12(7)(b)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/7/b) substituted (12.1.2022) by [The Network and Information Systems (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/1461)](https://www.legislation.gov.uk/uksi/2021/1461), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1461/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1461/regulation/3/2)
+
+[^key-66526ccb37b458115c73d36d28168366]: Textual amendment: Words in [reg. 12(7)(b)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/7/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-fffd95c6b8128056dbb25c3d4a535639]: Textual amendment: Words in [reg. 12(8)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/8) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-025db9dc5b55fd84c45d3cb0bf840f0f]: Textual amendment: Words in reg. 12(9) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [9(d)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/9/d/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-263b425f86886415a9910ceafeedde55]: Textual amendment: Words in reg. 12(9) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [9(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/9/d/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-dcca321ba0a1fc9c35764b95300c1d15]: Textual amendment: [Reg. 12(10)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/10) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/11/b) (as amended by [S.I. 2019/1444](https://www.legislation.gov.uk/uksi/2019/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1444/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1444/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2c5a4ab9eb385e47ddb9aca5ec6bac17]: Textual amendment: Words in [reg. 12(11)-(15)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/11) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-0a80b2951b6dcaf76f170afa116bdd99]: Textual amendment: Words in [reg. 12(11)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/11) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 11(c)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0731c67f4e53adc29d3bf66aa560f205]: Textual amendment: Words in reg. 12(12) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [9(e)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/9/e) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-55f1890b9a9bbc679ee8c94804a999ba]: Textual amendment: Words in [reg. 12(14)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/14) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 11(d)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/11/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-66c872f80e64aca45eb81464cd681c1c]: Textual amendment: Words in reg. 12(14)(c) substituted (20.6.2018) by [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/7/c)
+
+[^key-baf491ce97f50f0928e2ffe6167e689e]: Textual amendment: [Reg. 12(17)](https://www.legislation.gov.uk/uksi/2018/506/regulation/12/17) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 11(e)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/11/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8f8c4109a30d988c6cdd2415ce5709e0]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/506/regulation/13) substituted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-358fff2cf9e26b0ef68cb6c82fcf1057]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2018/506/regulation/13) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/d); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-43273309c41bdb491ecea2d3958ea6cb]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2018/506/regulation/14) heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/e); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-0b9840c8a7dadd093d67b8205e9812b2]: Textual amendment: Words in [reg. 14(1)-(3)](https://www.legislation.gov.uk/uksi/2018/506/regulation/14/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/e); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-d68909692295a7154f23d0d7fa94c1d4]: Textual amendment: Words in reg. 14(3) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2020/1245/regulation/10) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-565d7705d43987c95bc7c209472b5ae7]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2018/506/regulation/14A) inserted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1444)](https://www.legislation.gov.uk/uksi/2019/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1444/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/1444/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a0563f7cb3d497dd12ddbf616f4583b0]: Textual amendment: Words in [reg. 14A(2)(b)](https://www.legislation.gov.uk/uksi/2018/506/regulation/14A/2/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(f)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/f); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-8d46c7c89e77f71781b6a1f4c28454e6]: Textual amendment: Words in [reg. 14A(4)](https://www.legislation.gov.uk/uksi/2018/506/regulation/14A/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(f)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/f); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-6268e5fcef7b21673f16900b2d0e1d36]: Textual amendment: Words in reg. 15(1) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(a)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/a/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-8f86414d60a78a99e91cb14911b9516e]: Textual amendment: Words in reg. 15(1) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/a/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-3657b90cf835765976db9fec92bdb9d0]: Textual amendment: Words in reg. 15(1)(a) omitted (20.6.2018) by virtue of [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/8)
+
+[^key-bf4f27733af3aca6a9b9fab68c5f08bb]: Textual amendment: Words in reg. 15(2) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/b/i/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-386b1fa6417613a2669034cb5cc81423]: Textual amendment: Words in reg. 15(2) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/b/i/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-312033cd447aecae744319b1c6f3d8c4]: Textual amendment: Words in reg. 15(2) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/b/i/cc) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-5b9aa31f46584c7cbff99180c263380b]: Textual amendment: Words in reg. 15(2) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(b)(i)(dd)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/b/i/dd) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-da47c06566687e926022d8753b0518a3]: Textual amendment: Reg. 15(2)(a)-(d) substituted for reg. 15(2)(a)(b) (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/b/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-2e5ddcd578b45b6ff35f76e1054836a4]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2018/506/regulation/15/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(g)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/g); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-6d4cc5d88aa9ed79c1a877b5782dfb76]: Textual amendment: Words in reg. 15(3) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/c/i/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-f38bf0b03610e2e7289f84fbed6eb702]: Textual amendment: Words in reg. 15(3) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/c/i/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-06bc612fa784ff4e3723299467c53180]: Textual amendment: Words in reg. 15(3) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(c)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/c/i/cc) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-ebfb9d7a224e0d9136c043562b2dcc3b]: Textual amendment: Reg. 15(3)(a)-(d) substituted for reg. 15(3)(a)(b) (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/c/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-a694de8398d7868c6718ebcaabb9f9e3]: Textual amendment: Reg. 15(4) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(d)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/d) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-b3d580e7d3e372ace44ac403fcf5ec6b]: Textual amendment: Words in [reg. 15(5)(a)](https://www.legislation.gov.uk/uksi/2018/506/regulation/15/5/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(g)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/g); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-2c4dd5a6ac599b3d275015596f27c087]: Textual amendment: Reg. 15(5A) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [11(e)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11/e) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-21e3966f02afcfe1f89566fb6f936eba]: Textual amendment: Words in [reg. 15(7)](https://www.legislation.gov.uk/uksi/2018/506/regulation/15/7) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(g)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/g); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-02a571c55a467638c0c3e9e66f0e0437]: Textual amendment: Words in reg. 16(1) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(a)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/a/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-35cda970cbe236b64b6a6a1b32c5a496]: Textual amendment: Words in reg. 16(1)(a) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/a/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-8b7066e59b0cefa5b4b2b85f30a7734d]: Textual amendment: Words in reg. 16(1)(b) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/a/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-574d89105fd99cb7fe94e63d8c035580]: Textual amendment: Word in reg. 16(1) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/a/iii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-455365be041ce2fa936cc7abd9d0e25c]: Textual amendment: Words in reg. 16(1)(c) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/a/iv) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-f1fb459c847d01f12cd73c9c8e316765]: Textual amendment: Words in reg. 16(1) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(a)(v)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/a/v) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-a819af22c184e757de2d498a9217d93d]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2018/506/regulation/16/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(h)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/h); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-9ce8e9146f6dc5a87e8384a7115bf027]: Textual amendment: Words in reg. 16(2)(a) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/b/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-845c1b78c5edb481f95e1b08f8194c08]: Textual amendment: Words in reg. 16(2)(b) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/b/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-b2e8f7c64e867ed8d4f44d8875fe0ab5]: Textual amendment: Word in reg. 16(2) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/b/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-6ae8b432a3b6504349f27ca034a7c3df]: Textual amendment: Words in reg. 16(2)(c) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/b/iii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-d706c536f33b87c9f58b3ed6e06f69df]: Textual amendment: Words in reg. 16(2) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/b/iv) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-3ee17b59856430daaec72709387d2414]: Textual amendment: Words in reg. 16(3)(a) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(c)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/c/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-c96a142ba64bf23899fce952fd3a4224]: Textual amendment: Words in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2018/506/regulation/16/3/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(h)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/h); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-cf01b43dfe2a023a96124650b4876cac]: Textual amendment: Word in reg. 16(3)(b) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/c/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-2886499e3240a2f72f66d855e52cc684]: Textual amendment: Word in reg. 16(3)(c) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/c/iii/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-26fac1d9605c5722be9bec201727b3cd]: Textual amendment: Words in reg. 16(3)(c) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/c/iii/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-122d32fec95f2413bc82e8f3861bf9d9]: Textual amendment: Reg. 16(3)(d) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(c)(iv)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/c/iv) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-6b73ecade4c2da52dc54172dd0d2c813]: Textual amendment: Reg. 16(3)(f)(g) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(c)(v)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/c/v) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-7cadc331f9a552a38fdee3a084ba57ab]: Textual amendment: Word in reg. 16(4) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(d)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/d/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-cdbf7c2d5284be5e303e2828b3860054]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2018/506/regulation/16/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(h)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/h); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-57b408ae6edd5aa50507827b60c007bf]: Textual amendment: Words in reg. 16(4) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/d/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-b3e91ddc9aff56cfa39cf5e108fa9111]: Textual amendment: Reg. 16(5)-(9) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [12(e)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12/e) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-1d0e42cc82dfa698c49e0c7ed0dd22ac]: Textual amendment: Word in reg. 17 heading inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/a) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-5a3dccdddfdda3fc928a50a3402daad4]: Textual amendment: Words in reg. 17(1) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/b/i/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-2ff183bbfc9f5cf6fa2e5836364c2d3e]: Textual amendment: Word in reg. 17(1) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/b/i/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-a86c2d49d3c8cc58688010ab09ba519a]: Textual amendment: Reg. 17(1)(za)(zb) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/b/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-7fc1d7da014d2764ba94274d6083f1f5]: Textual amendment: Words in reg. 17(2) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(c)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/c/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-26f83ba7db3699de658aed040f77701c]: Textual amendment: Words in [reg. 17(2)-(2D)](https://www.legislation.gov.uk/uksi/2018/506/regulation/17/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-aaa6f3bc7707ef4361402e18ee9e606b]: Textual amendment: Reg. 17(2)(da) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/c/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-cc912a63fa4df55da631bcdb2534a430]: Textual amendment: Reg. 17(2A)-(2D) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/d) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-692e61abfd14fdd0964f6a540d8236e1]: Textual amendment: Word in reg. 17(3) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(e)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/e/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-647bd4f8b8cbe96875ea86ce558290b2]: Textual amendment: Reg. 17(3)(d) and word omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/e/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-bcb1fbf99e3b0d3060881423765dfa41]: Textual amendment: Reg. 17(3A) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(f)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/f) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-7b73470f41ec41781965001ed5f91bdf]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2018/506/regulation/17/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-67ce0cc6898ec1eccad60930cd9bd1e3]: Textual amendment: Word in reg. 17(4)(a) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(g)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/g/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-4c02a7485dbd4b586a64aa0a828a33d2]: Textual amendment: Word in reg. 17(4)(a) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [13(g)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13/g/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-88512aa0be9f3b407cd0be32fa0ddda5]: Textual amendment: Words in [reg. 17(6)](https://www.legislation.gov.uk/uksi/2018/506/regulation/17/6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-7d492cebc7a720982d54bc4f5dfc8dea]: Textual amendment: Reg. 18(1)(2) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/a) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-acb24aa18e66120d8c3c1f59d0abe9a6]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2018/506/regulation/18/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(j)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-266d29157195b99b2f1f2f4107480f65]: Textual amendment: Words in reg. 18(3) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(b)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/b/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-2bbb254ab72291dcf42172345fcd826d]: Textual amendment: Word in reg. 18(3)(b) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/b/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-ff6ceb43f87e8f393aec34e00bf364f8]: Textual amendment: Words in reg. 18(3)(c) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/b/iii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-971f3cad609cac8c78faa8df4e2a577d]: Textual amendment: Reg. 18(3)(d)-(f) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/b/iv) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-ef9450234edb6d6c0b89f93e33ffe319]: Textual amendment: Reg. 18(3A)-(3E) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/c) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-0df08706e46a9f0c2bf13a20b90df782]: Textual amendment: Words in [reg. 18(3B)](https://www.legislation.gov.uk/uksi/2018/506/regulation/18/3B)[(3C)](https://www.legislation.gov.uk/uksi/2018/506/regulation/18/3C) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(j)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-545dde8b4953aa0f5a0fadc506ec4227]: Textual amendment: Words in [reg. 18(3D)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/506/regulation/18/3D/c/ii) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(j)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-1a02ab26d659c6e28d4ac7992180f99a]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2018/506/regulation/18/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(j)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-dbf92f8ae87683078a0765a2011fedcb]: Textual amendment: Words in reg. 18(5) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(d)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/d) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-bf5d80f01390c07f240855369a2b8bef]: Textual amendment: Words in [reg. 18(5)(a)](https://www.legislation.gov.uk/uksi/2018/506/regulation/18/5/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(j)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-8c5d6473e9084944fbbd64807294d8a7]: Textual amendment: Words in reg. 18(6) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(e)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/e/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-fe27cfc87e6e086e24d19eebee3dc029]: Textual amendment: Word in reg. 18(6)(a) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/e/ii/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-8bc73d8abda1fd2592e58e90eef07796]: Textual amendment: Words in reg. 18(6)(a) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/e/ii/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-b4c0e74a9c723f11cf7a45718a388848]: Textual amendment: Reg. 18(6)(b) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(e)(iii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/e/iii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-26dda7bd4909dea2916873090c32a595]: Textual amendment: Word in reg. 18(6)(c) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(e)(iv)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/e/iv/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-c5a56276df52a2876c44061d3a8b5288]: Textual amendment: Words in reg. 18(6)(c) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(e)(iv)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/e/iv/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-4bd151ccdf280496e12a86267d49ff09]: Textual amendment: Word in reg. 18(6)(d) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(e)(v)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/e/v/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-840352aa5900cc4ae5a968fc0255d179]: Textual amendment: Words in reg. 18(6)(d) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(e)(v)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/e/v/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-db58fb2af69410c4decaea5c5b116cbd]: Textual amendment: Reg. 18(7)(a) substituted (20.6.2018) by [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/9/b)
+
+[^key-e16096f1ba36ca4cb1b8ad5666fed929]: Textual amendment: Reg. 18(7)(a)(i)(ii) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(f)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/f/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-b52727ebca82bf7ca2e784b23682d74b]: Textual amendment: Reg. 18(7)(b) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [14(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14/f/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-fa4b6e958162f8b3fa163a1928d3c565]: Textual amendment: Reg. 19 omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2020/1245/regulation/15) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-b77e0ee742a80880c5253d61f468472d]: Textual amendment: Regs. 19A-A20 inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2020/1245/regulation/16) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-26c30037a8a0c1d4a45f537a5a65b791]: Textual amendment: Words in [reg. 19A(2)](https://www.legislation.gov.uk/uksi/2018/506/regulation/19A/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(k)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/k); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-5b703aef5b3c0f6a1a939962cf1bd07c]: Textual amendment: Words in [reg. 19B(4)-(6)](https://www.legislation.gov.uk/uksi/2018/506/regulation/19B/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(l)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/l); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-42c6156bc7ca7755c478e792390b50a6]: Textual amendment: Words in [reg. A20(1)(b)](https://www.legislation.gov.uk/uksi/2018/506/regulation/A20/1/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(m)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/m); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-35db78d6c9bbb9e9e3d20e8f11aa8fbc]: Textual amendment: Words in [reg. A20(3)](https://www.legislation.gov.uk/uksi/2018/506/regulation/A20/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(m)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/m); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-31d3c694177dee365b8ae2014c310dfc]: Textual amendment: Words in [reg. A20(5)](https://www.legislation.gov.uk/uksi/2018/506/regulation/A20/5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/2)[(3)(m)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/24/3/m); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^c22950771]: Marginal citation: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Section 98 was amended by sections 48(1) and 106(2) of, and paragraph 55(1), (2), (3)(a) and (b) of Schedule 8 and paragraph 15 of Schedule 16 to, the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), and section 17(5) of, and paragraph 40(a) and (c) of Part 2 of Schedule 9 to, the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22). Further amendments made by the Tribunals, Courts and Enforcement Act 2007 have yet to be brought into force.
+
+[^c22950781]: Marginal citation: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226).
+
+[^key-12d5ecb69c844cee04ad070a6f11bbb8]: Textual amendment: Words in reg. 20(6) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2020/1245/regulation/17) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22950791]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^c22950801]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). Sub-section 2A of section 64 was inserted by section 16(1) and (2) of the [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11).
+
+[^key-344d8880f2543a04ba85f267752cb672]: Textual amendment: Words in reg. 23(1) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2020/1245/regulation/18) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-d74f1ab13d2a92ecd47916c487ed0e08]: Textual amendment: Words in [reg. 25(1)(a)](https://www.legislation.gov.uk/uksi/2018/506/regulation/25/1/a) inserted (20.1.2021) by [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 13(a)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0a63c87e87844a67dac8c563ef4d18c3]: Textual amendment: Words in reg. 25(2) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [19(a)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/19/a/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-d2e636eb8002ab07bae9ee4e06afd618]: Textual amendment: Words in reg. 25(2) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [19(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/19/a/ii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-16c199c4bb456c3120ce363a3ca8d6da]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2018/506/regulation/25/3) omitted (20.1.2021) by virtue of [The Network and Information Systems (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/653)](https://www.legislation.gov.uk/uksi/2019/653), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/653/regulation/1/2), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2019/653/schedule/paragraph/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_a452cca9-9f74-4dbb-f706-3ffb2d918ed3]: Textual amendment: Reg. 25(3)-(5) substituted (20.6.2018) by [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [reg. 2(11)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/11)
+
+[^key-cb272dd112b42d3316f425983babd0ff]: Textual amendment: Words in reg. 25(4) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/19/b) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-98e2b964a7dd97a650c63c2c85573291]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/506/schedule/1) table substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 63](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/63) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+
+[^c22950821]: Marginal citation: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231). Article 10(1)(c) was substituted by regulation 6(1) of S.R. [2007 No. 321](https://www.legislation.gov.uk/ukcm/2007/321); there are other amendments to this instrument but none are relevant.
+
+[^c22950831]: Marginal citation: Article 10(1)(d) was inserted by article 4(4)(b) of [S.I.2007/913 (N.I. 7)](https://www.legislation.gov.uk/nisi/2007/913).
+
+[^c22950841]: Marginal citation: Article 10(1)(b) was substituted by article 28(4) of [S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419) and was amended by article 4(4)(a) of [S.I. 2007/913 (N.I. 7)](https://www.legislation.gov.uk/nisi/2007/913).
+
+[^c22950851]: Marginal citation: Article 10(1)(bb) was inserted by regulation 19(a) of S.R. [2011 No. 155](https://www.legislation.gov.uk/ukcm/2011/155).
+
+[^c22950861]: Marginal citation: OJ No. L 182, 29.6.2013, p. 19.
+
+[^c22950871]: Marginal citation: OJ No. L 211, 14.08.2009, p. 55.
+
+[^c22950881]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 of the Electricity Act 1989 was substituted by the [Utilities Act 2000 (c. 30)](https://www.legislation.gov.uk/ukpga/2000/30) and amended by the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20). There are other amendments not relevant to this instrument.
+
+[^key-4ffb9b2fce8882faba50072ab48915be]: Textual amendment: Words in [Sch. 2 para. 1(8)(h)](https://www.legislation.gov.uk/uksi/2018/506/schedule/2/paragraph/1/8/h) substituted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [33(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/33/a)
+
+[^c22950891]: Marginal citation: Section 6C of the [Electricity Act 1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29) was inserted by section 92 of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^key-64f799886918b97166844d046c47f2bd]: Textual amendment: Word in [Sch. 2 para. 1(8)(h)](https://www.legislation.gov.uk/uksi/2018/506/schedule/2/paragraph/1/8/h) omitted (25.5.2024) by virtue of [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [33(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/33/b)
+
+[^key-6c7afe6d9ae27a417121dc66d6e7d45e]: Textual amendment: Word in Sch. 2 para. 2(3)(a) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/i/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^M_F_fe839b08-d1df-466f-8054-8d694b85b4d9]: Textual amendment: Words in Sch. 2 para. 2(3)(a) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/i/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-7c99034bb7bc70d253802c443cffaebe]: Textual amendment: Word in Sch. 2 para. 2(3)(b) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/i/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-e73828ddcde43e94046b7b92d594dbda]: Textual amendment: Words in Sch. 2 para. 2(4)(a) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/ii/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-c22cbf1b34d1829608a81068458ab305]: Textual amendment: Words in Sch. 2 para. 2(4)(b) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/ii/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-caa7808c3c25d779b4bbc5aff5bb6b16]: Textual amendment: Words in Sch. 2 para. 2(4) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/ii/cc) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-31fd648d0d6dfc33c20ea18bc17da9c9]: Textual amendment: Words in Sch. 2 para. 2(5) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/iii/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-5f4f786272e782a67d044d96fbc8dace]: Textual amendment: Word in Sch. 2 para. 2(5) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/iii/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-3e9da70f776a559ff727504f4fb2c461]: Textual amendment: Words in Sch. 2 para. 2(6)(i) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(iv)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/iv/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-464235e1ec4abfa792690964f34b1b72]: Textual amendment: Words in Sch. 2 para. 2(6)(ii) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/iv/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-ab5faa8c5b4895ffd107ab23e14ba814]: Textual amendment: Words in Sch. 2 para. 2(6) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(iv)(cc)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/iv/cc) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22950901]: Marginal citation: [2011 c. 16](https://www.legislation.gov.uk/ukpga/2011/16). There are no amendments relevant to this instrument.
+
+[^key-38ace4ca585bed9d2c548292199875c1]: Textual amendment: Words in Sch. 2 para. 2(8)(c) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(v)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/v/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22950911]: Marginal citation: [2011 c. 16](https://www.legislation.gov.uk/ukpga/2011/16). There are no amendments relevant to this instrument.
+
+[^key-9c4c2fa134da6b065b65adffc9bb87dc]: Textual amendment: Sch. 2 para. 2(8)(e) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(v)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/v/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22950931]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7(1) was substituted by section 76 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27). There are other amendments not relevant to this instrument.
+
+[^key-501ce6000fbffea64920cf2e9c269350]: Textual amendment: Sch. 2 para. 2(8)(ja) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(v)(cc)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/v/cc) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22950941]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
+
+[^c22950951]: Marginal citation: Section 3 of the [Petroleum Act 1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17) was amended by the [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11) and [S.I. 2016/898](https://www.legislation.gov.uk/uksi/2016/898).
+
+[^c22950961]: Marginal citation: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36). This Act was repealed by section 51 of and Schedule 5 to the [Petroleum Act 1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17), subject to the savings provisions set out in Schedule 3.
+
+[^c22950971]: Marginal citation: [1964 c. 28 (N.I.)](https://www.legislation.gov.uk/apni/1964/28).
+
+[^key-79939166d907cebc4cb1935f5553c371]: Textual amendment: Sch. 2 para. 2(8)(na) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(v)(dd)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/v/dd) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22950981]: Marginal citation: There are amendments to section 44 of the [Petroleum Act 1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17) not relevant to this instrument.
+
+[^c22950991]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
+
+[^key-4833c772d56a3dc1772b83b0f59d6dbe]: Textual amendment: Words in Sch. 2 para. 2(10)(c) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(vi)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/vi) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22951001]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) of the Continental Shelf Act 1964 was amended by section 37 of, and Schedule 3 to, the [Oil and Gas (Enterprise) Act 1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), and section 103 of the [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^key-d24da807bd20274f24ebefce4c82420c]: Textual amendment: Sch. 2 para. 2(11) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(a)(vii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/a/vii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22951011]: Marginal citation: [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275). Article 8(1)(c) was amended by regulation 17(1) of S.R. [2013 No. 92](https://www.legislation.gov.uk/ukcm/2013/92). There are other amendments to this instrument but none are relevant.
+
+[^c22951021]: Marginal citation: There are no relevant amendments.
+
+[^c22951031]: Marginal citation: Article 8(1)(d) was added by regulation 17(1) of S.R. [2013 No. 92](https://www.legislation.gov.uk/ukcm/2013/92).
+
+[^key-9a4a5a5aabf737e9f54a578f5796c9b4]: Textual amendment: Sch. 2 para. 3(7)(a)(b) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(b)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/b/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22951041]: Marginal citation: [2011 c. 16](https://www.legislation.gov.uk/ukpga/2011/16). There are no amendments relevant to this instrument.
+
+[^c22951051]: Marginal citation: OJ No. L 211, 14.8.2009, p. 94.
+
+[^c22951061]: Marginal citation: [2011 c. 16](https://www.legislation.gov.uk/ukpga/2011/16). There are no amendments relevant to this instrument.
+
+[^c22951071]: Marginal citation: [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45). Section 12 of the Gas Act 1995 was amended by the [Energy Act 2011 (c. 16) and the Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27). There are other amendments not relevant to this instrument.
+
+[^c22951081]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7(1) was substituted by section 76 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27). There are other amendments not relevant to this instrument.
+
+[^c22951091]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7ZA of the Gas Act 1986 was inserted by section 149 of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^key-4c7ac806180ec7797e335a6237d42b21]: Textual amendment: Sch. 2 para. 3(10)(oa) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/b/ii/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22951101]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
+
+[^c22951111]: Marginal citation: Section 3 of the [Petroleum Act 1998 (c.17)](https://www.legislation.gov.uk/ukpga/1998/17) was amended by the [Scotland Act 2016 (c.11)](https://www.legislation.gov.uk/ukpga/2016/11) and [S.I. 2016/898](https://www.legislation.gov.uk/uksi/2016/898).
+
+[^c22951121]: Marginal citation: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36). This Act was repealed by section 51 of and Schedule 5 to the [Petroleum Act 1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17), subject to the savings provisions set out in Schedule 3.
+
+[^c22951131]: Marginal citation: [1964 c. 28 (N.I.)](https://www.legislation.gov.uk/apni/1964/28).
+
+[^key-ae8161069e7a0ebd14bbe6a605a083dc]: Textual amendment: Sch. 2 para. 3(10)(sa) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/b/ii/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22951141]: Marginal citation: There are amendments to section 44 of the Petroleum Act (c. 17) not relevant to this instrument.
+
+[^c22951151]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
+
+[^key-aa4e9e27b483c88d1f6fdbc79724e219]: Textual amendment: Words in Sch. 2 para. 3(12)(c) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/b/iii) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22951161]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) of the Continental Shelf Act 1964 was amended by section 37 of, and Schedule 3 to, the [Oil and Gas (Enterprise) Act 1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), and section 103 of the [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^key-269940e7b54f0575b109cad72231b1d2]: Textual amendment: Sch. 2 para. 3(13) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/b/iv) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22951171]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16).
+
+[^c22951181]: Marginal citation: OJ No. L 97, 9.4.2008, p72.
+
+[^key-ee61a5726c1386f8d1cbe41d047a316a]: Textual amendment: Word in Sch. 2 para. 5(6)(a) inserted (20.6.2018) by [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/12/a)
+
+[^c22951191]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). The definition for “harbour authority” was substituted by section 29(1) of, and paragraph 19(2)(a) of Schedule 6 to, the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28). There are other amendments not relevant to this instrument.
+
+[^c22951201]: Marginal citation: [S.I. 2009/2048](https://www.legislation.gov.uk/uksi/2009/2048) as amended by [S.I. 2013/2815](https://www.legislation.gov.uk/uksi/2013/2815).
+
+[^c22951211]: Marginal citation: [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110) as amended by [S.I. 2011/2616](https://www.legislation.gov.uk/uksi/2011/2616). There are other amendments not relevant to this instrument.
+
+[^c22951221]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43). There are amendments not relevant to this instrument.
+
+[^c22951231]: Marginal citation: [S.I. 2006/599](https://www.legislation.gov.uk/uksi/2006/599) as amended by [S.I.2013/950](https://www.legislation.gov.uk/uksi/2013/950) and [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682).
+
+[^c22951241]: Marginal citation: [1967 c. 37](https://www.legislation.gov.uk/ukpga/1967/37).
+
+[^c22951251]: Marginal citation: [S.I. 1994/570](https://www.legislation.gov.uk/uksi/1994/570).
+
+[^c22951261]: Marginal citation: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
+
+[^key-b64ee57aaca81b7fc620a595a4b7b600]: Textual amendment: Word in Sch. 2 para. 7(3)(a) inserted (20.6.2018) by [The Network and Information Systems (Amendment) Regulations 2018 (S.I. 2018/629)](https://www.legislation.gov.uk/uksi/2018/629), [regs. 1](https://www.legislation.gov.uk/uksi/2018/629/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2018/629/regulation/2/12/b)
+
+[^c22951271]: Marginal citation: OJ No. L 57, 23.6.2015, p. 21.
+
+[^c22951281]: Marginal citation: OJ No. L 207, 6.8.2010, p. 1.
+
+[^c22951291]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c22951301]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c22951311]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^c22951321]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 10 was amended by sections 25 and 26 of the [Health Services Act 1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53) and section 65 of the [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8).
+
+[^c22951331]: Marginal citation: There are no amendments relevant to this instrument.
+
+[^key-4e40953885636066763d1da39e42a212]: Textual amendment: Sch. 2 para. 8(2)(c)(iii) and word substituted for Sch. 2 para. 8(2)(c)(iii)-(vi) (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(c)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/c) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^c22951381]: Marginal citation: [2009 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1). There are amendments not relevant to this instrument.
+
+[^key-f88d7a15b47ff9dfce005ad5bb4a6641]: Textual amendment: Sch. 2 para. 10(2)-(4) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(d)(i)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/d/i) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-d75dee412e3d0904a662d97a4f713522]: Textual amendment: Words in Sch. 2 para. 10(5)(a) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/d/ii/aa) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-cab56b0070bd53be8950c5a6d73b2c1e]: Textual amendment: Words in Sch. 2 para. 10(5)(b) substituted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/d/ii/bb) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-8acf913fe55f72a012b0aaa9ad701251]: Textual amendment: Word in Sch. 2 para. 10(5) omitted (31.12.2020) by virtue of [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(d)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/d/ii/cc) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))
+
+[^key-15a3b8ecc24fa5d699bbb3d9da2fbe70]: Textual amendment: Sch. 2 para. 10(5)(ca) inserted (31.12.2020) by [The Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 (S.I. 2020/1245)](https://www.legislation.gov.uk/uksi/2020/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1), [20(d)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20/d/ii/cc) (with [reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21))

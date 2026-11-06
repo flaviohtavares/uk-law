@@ -1,0 +1,1022 @@
+---
+title: The Residential Family Centres Regulations 2002
+id: uksi/2002/3213
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-12-21'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2002/3213
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/3213/pdfs/uksi_20023213_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/3213/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Residential Family Centres Regulations 2002
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2002 No. 3213
+
+CHILDREN AND YOUNG PERSONS, ENGLAND
+
+SOCIAL CARE, ENGLAND
+
+The Residential Family Centres Regulations 2002
+
+Made
+
+21st December 2002
+
+Laid before Parliament
+
+23rd December 2002
+
+Coming into force
+
+1st April 2003
+
+The Secretary of State for Health, in exercise of the powers conferred upon him by sections 4(6), 22(1), (2)(a) to (d) and (f) to (j), (5)(a) to (c), (7)(a) to (j), 25(l), 34(l), 35(l), and 118(5) to (7) of the Care Standards Act 2000[^c9644021] and all other powers enabling him in that behalf, and having consulted such persons as he considers appropriate[^c9644031], hereby makes the following Regulations:—
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Residential Family Centres Regulations 2002 and shall come into force on 1st April 2003.
+
+(2) These Regulations apply to residential family centres in England only.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “the 2000 Act” means the Care Standards Act 2000;
+- “the 1989 Act” means the Children Act 1989 [^c9644041];
+- “Chief Inspector” means Her Majesty’s Chief Inspector of Education, Children’s Services and Skills;[^key-a9801be70a83a4f67a9c7cb40d6ef637]
+- “child protection enquiry” has the meaning given to it by regulation 12(3)(a);
+- [^key-e67757258845a660bf6eede43bb7e43e]...
+- “family” means a child and his parent accommodated or to be accommodated together in a residential family centre, and the expression “member of the family” shall be construed accordingly;
+- “general medical practitioner” means a medical practitioner whose name is included in the General Practitioner Register kept by the General Medical Council under section 34C of the Medical Act 1983[^key-59951d904519cf0a888e7902a630d7b4];
+- “organisation” means a body corporate or any unincorporated association other than a partnership;
+- “parent” has the meaning given to it by section 4(2) of the 2000 Act [^c9644071];
+- “placement plan” means the plan prepared in accordance with regulation 13;
+- “placing authority” means, in relation to a family, the local authority or other body that has arranged for the family to be accommodated in a residential family centre;
+- “registered manager”, in relation to a residential family centre, means a person who is registered under Part II of the Act as the manager of the residential family centre;
+- “registered person”, in relation to a residential family centre, means any person who is the registered provider or the registered manager of the residential family centre;
+- “registered provider”, in relation to a residential family centre, means a person who is registered under Part II of the Act as the person carrying on the residential family centre;
+- “resident” means any person who is for the time being accommodated in a residential family centre;
+- “responsible individual” shall be construed in accordance with regulation 5; and
+- “statement of purpose” means the written statement compiled in accordance with regulation 4.
+
+(2) In these Regulations, save where otherwise provided, references to a child do not include a parent accommodated in a residential family centre who is under the age of 18.
+
+(3) In these Regulations, references to employing a person include employing a person whether or not for payment, and whether under a contract of service or a contract for services, and allowing a person to work as a volunteer, and references to an employee or to a person being employed shall be construed accordingly.
+
+### 3. Excepted establishments
+
+For the purposes of the 2000 Act, an establishment is excepted from being a residential family centre if—
+
+- (a)[^key-f1f3ff1356c98912ab4aac7eeef232b9] it is a hospital within the meaning of section 275 of the National Health Service Act 2006 or a care home;
+- (b) it is a hostel or a domestic violence refuge; [^key-2e26c77fc368a27c6cc8404d6c858e62]...
+- (ba)[^key-e3426e3052ea2b090e3f4eea4018bf1d] the main purpose of the establishment is to provide accommodation together with other services or facilities for families, and the fact that the parents’ capacity to respond to their children’s needs and to safeguard their welfare is monitored or assessed, is incidental to the main purpose of the establishment; or
+- (c) the main purpose of the establishment is to provide accommodation together with other services or facilities to adults, and the fact that those adults may be parents, or may be accompanied by their children, is incidental to the main purpose of the establishment.
+
+### 4. Statement of purpose and resident’s guide
+
+(1) The registered person shall compile in relation to the residential family centre a written statement (in these Regulations referred to as “the statement of purpose”) which shall consist of a statement as to the matters listed in Schedule 1.
+
+(2) The registered person shall provide a copy of the statement of purpose to the Chief Inspector[^key-3ec972ada5f8eacad2a6220105bc1d92] and shall make a copy of it available, upon request, for inspection by—
+
+- (a) any person who works at the residential family centre;
+- (b) any resident;
+- (c) any local authority exercising any functions under the 1989 Act in relation to any resident.
+
+(3)[^key-6745ac2ce314690878d06495fd42435a] The registered person shall produce a written guide to the residential family centre (“the resident’s guide”) which shall include:
+
+- (a) a summary of the statement of purpose;
+- (b) a summary of the complaints procedure established under regulation 20;
+- (c) the address and telephone number of the Chief Inspector; and
+- (d) the address and telephone number of the Children’s Rights Director.
+
+(3A) The registered person shall supply a copy of the resident’s guide to:
+
+- (a) the Chief Inspector;
+- (b) each parent accommodated in the residential family centre; and
+- (c) each person in respect of whom accommodation in the centre is being considered.
+
+(4) The registered person shall—
+
+- (a) keep under review and where appropriate revise the statement of purpose and resident’s guide; and
+- (b) notify the Chief Inspector within 28 days of any such revision.
+
+(5) Subject to paragraph (6) the registered person shall ensure that the residential family centre is at all times conducted in a manner which is consistent with its statement of purpose.
+
+(6) Nothing in paragraph (5) or in regulations 14(1) or 21(1) shall require or authorise the registered person to contravene or not comply with—
+
+- (a) any other provision of these Regulations; or
+- (b) the conditions for the time being in force in relation to the registration of the registered person under Part II of the 2000 Act.
+
+## PART II — REGISTERED PERSONS
+
+### 5. Fitness of registered provider
+
+(1) A person shall not carry on a residential family centre unless he is fit to do so.
+
+(2) A person is not fit to carry on a residential family centre unless the person—
+
+- (a) is an individual who carries on the residential family centre—
+  - (i) otherwise than in partnership with others, and satisfies the requirements set out in paragraph (3);
+  - (ii) in partnership with others, and he and each of his partners satisfies the requirements set out in paragraph (3);
+- (b) is a partnership, and each of the partners satisfies the requirements set out in paragraph (3);
+- (c) is an organisation and—
+  - (i) the organisation has given notice to the Chief Inspector[^key-2aff32ce8db1f917d8b285da9ca66c57] of the name, address and position in the organisation of an individual (in these Regulations referred to as “the responsible individual”) who is a director, manager, secretary or other officer of the organisation and is responsible for supervising the management of the residential family centre; and
+  - (ii) that individual satisfies the requirements set out in paragraph (3).
+
+(3) The requirements are that—
+
+- (a) he is of integrity and good character;
+- (b) he is physically and mentally fit to carry on the residential family centre; and
+- (c) he provides in relation to himself, full and satisfactory information in respect of each of the matters listed in Schedule 2.
+
+(4) A person shall not carry on a residential family centre if—
+
+- (a) he has been made[^key-ae8dc8f0176f5cc76ccf023e61147e1b] bankrupt or sequestration of his estate has been awarded or a moratorium period under a debt relief order (within the meaning of section 251A of the Insolvency Act 1986) applies in relation to him[^key-67041af4b0b9c5e43c7a124bb1d44074] and [^key-fcd5b02171a6253698081f44f7274cdb]... he has not been discharged from the bankruptcy or the sequestration[^key-85d1708bd4c182c5a2e2a6d4389413a2] and the bankruptcy order has not been annulled or rescinded; or
+- (b) he has made a composition or arrangement with his creditors, and has not been discharged in respect of it.
+
+### 6. Appointment of manager
+
+(1) The registered provider shall appoint an individual to manage a residential family centre if—
+
+- (a) there is no registered manager in respect of the residential family centre; and
+- (b) the registered provider—
+  - (i) is an organisation or a partnership;
+  - (ii) is not a fit person to manage a residential family centre; or
+  - (iii) is not, or does not intend to be, in full-time day to day charge of the residential family centre.
+
+(2) Where the registered provider appoints a person to manage the residential family centre, he shall forthwith give notice to the Chief Inspector[^key-eda6489a06f18abc9f0029595ddea66a] of—
+
+- (a) the name of the person so appointed; and
+- (b) the date on which the appointment is to take effect.
+
+### 7. Fitness of manager
+
+(1) A person shall not manage a residential family centre unless he is fit to do so.
+
+(2) A person is not fit to manage a residential family centre unless—
+
+- (a) he is of integrity and good character;
+- (b) having regard to the size of the residential family centre, the statement of purpose, and the number and needs of the residents—
+  - (i) he has the qualifications, skills and experience necessary to manage the centre; and
+  - (ii) he is physically and mentally fit to do so;
+- (c) he provides in relation to himself full and satisfactory information in respect of each of the matters listed in Schedule 2.
+
+### 8. Registered person—general requirements
+
+(1) The registered provider and the registered manager shall, having regard to the size of the residential family centre, the statement of purpose, and the number and needs of the residents, carry on or manage the centre (as the case may be) with sufficient care, competence and skill.
+
+(2) If the registered provider is—
+
+- (a) an individual, he shall undertake;
+- (b) an organisation, it shall ensure that the responsible individual undertakes;
+- (c) a partnership, it shall ensure that one of the partners undertakes,
+
+from time to time such training as is appropriate to ensure that he has the skills necessary for carrying on the residential family centre.
+
+(3) The registered manager shall undertake from time to time such training as is appropriate to ensure that he has the skills necessary for managing the residential family centre.
+
+### 9. Notification of offences
+
+Where the registered person or the responsible individual is convicted of any criminal offence, whether in England and Wales or elsewhere, he shall forthwith give notice in writing to the Chief Inspector[^key-913291b35d18ed625a4a899b4b1c0f23] of—
+
+- (a) the date and place of the conviction;
+- (b) the offence of which he was convicted; and
+- (c) the penalty imposed on him in respect of the offence.
+
+## PART III — CONDUCT OF RESIDENTIAL FAMILY CENTRES
+
+### 10. Health and welfare of residents
+
+(1) The registered person shall use reasonable endeavours to[^key-79b954f5a51ccc9abd355dc3a4823175] ensure that the residential family centre is conducted so as to—
+
+- (a) promote and make proper provision for the health (including physical, mental and emotional health)[^key-ff179b2e6a95e0edf1720596cb24dfeb] and welfare of residents;
+- (b) make such provision for the care, treatment, education and supervision of residents as is appropriate to their age and needs.
+
+(2) The registered person shall, so far as is practicable, ascertain and take into account the wishes and feelings of residents when making decisions concerning their health and welfare, or the manner in which they are treated.
+
+(3) The registered person shall make suitable arrangements to ensure that the residential family centre is conducted—
+
+- (a) in a manner which respects the privacy and dignity of residents; and
+- (b) with due regard to the sex, religious persuasion, racial origin, and cultural and linguistic background and any disability of residents.
+
+(4) In complying with this regulation, the registered person shall, wherever there is a conflict between the interests of the members of a family, treat the welfare of the child in that family as paramount.
+
+### 11. Further requirements as to health and welfare
+
+(1) The registered person shall make arrangements for residents to have access to such medical advice or treatment as may be necessary.
+
+(2) The registered person shall make arrangements for the recording, handling, safe keeping, safe administration and disposal of medicines received into the residential family centre.
+
+(3) The registered person shall make suitable arrangements to prevent infection, toxic conditions and the spread of infection at the residential family centre.
+
+(4) The registered person shall ensure that—
+
+- (a) all parts of the residential family centre to which residents have access are so far as reasonably practicable free from hazards to their safety;
+- (b) any activities in which residents participate are so far as reasonably practicable free from avoidable risks; and
+- (c) unnecessary risks to the health or safety of residents are identified and so far as possible eliminated.
+
+(5) The registered person shall make arrangements, by training persons working at the residential family centre or by other measures, to prevent residents being harmed or suffering abuse or being placed at risk of harm or abuse.
+
+(6) The registered person shall ensure that no resident is subject to physical restraint unless restraint of the kind employed is the only practicable means of securing the welfare of that or any other resident and there are exceptional circumstances.
+
+(7) On any occasion on which a resident is subject to physical restraint, the registered person shall record the circumstances, including the nature of the restraint.
+
+(8) The registered person shall ensure that persons working at the residential family centre use no form of corporal punishment at any time on any child or parent under the age of 18 who is accommodated in the residential family centre.
+
+### 12. Arrangements for the protection of children
+
+(1) The registered person shall prepare and implement a written child protection policy which—
+
+- (a) is intended to safeguard children accommodated in the residential family centre from abuse or neglect; and
+- (b) sets out the procedure to be followed in the event of any allegation of abuse or neglect.
+
+(2) The procedure under paragraph (1)(b) must in particular provide for—
+
+- (a) liaison and co-operation with any local authority which is making child protection enquiries in relation to any child accommodated in the residential family centre;
+- (b) the prompt referral to the local authority in whose area the residential family centre is situated, of any allegations of abuse or neglect affecting any child accommodated in the residential family centre;
+- (c) notification (in accordance with regulation 26) of the instigation and outcome of any child protection enquiries involving any child accommodated in the residential family centre, to the Chief Inspector[^key-128fc07c6da8b194f9bf73d8c859477c] and the child’s placing authority;
+- (d) written records to be kept of any allegation of abuse or neglect, and of the action taken in response;
+- (e) consideration to be given in each case to the measures which may be necessary to protect children in the residential family centre following an allegation of abuse or neglect;
+- (f) a requirement for persons working at the residential family centre to report any concerns about the welfare or safety of any child accommodated in the residential family centre to one of the following—
+  - (i) the registered person;
+  - (ii) a police officer;
+  - (iii) an officer of the Chief Inspector;
+  - (iv) an officer of the local authority in whose area the residential family centre is situated; or
+  - (v) an officer of the National Society for the Prevention of Cruelty to Children;
+- (g) arrangements to be made for residents and persons working at the residential family centre, to have access at all times and in an appropriate form, to information which would enable them to contact the local authority in whose area the residential family centre is situated, or the Chief Inspector, concerning the welfare or safety of children accommodated in the residential family centre.
+
+(3) In this regulation—
+
+- (a) “child protection enquiries” means any enquiries carried out by a local authority in the exercise of any of its functions conferred by or under the 1989 Act relating to the protection of children; and
+- (b) “child” also includes any parent who is under the age of 18.
+
+(4) The registered person shall prepare and implement a written policy for the prevention of bullying in the residential family centre which includes, in particular, a procedure for dealing with an allegation of bullying.
+
+### 13. Placements
+
+(1) The registered person shall, before providing a family with accommodation in the residential family centre, or if that is not reasonably practicable, as soon as possible thereafter, draw up in consultation with the placing authority a written plan (in these Regulations referred to as “the placement plan”) setting out, in particular—
+
+- (a) the facilities and services to be provided during the course of the placement;
+- (b) the objectives and intended outcome of the placement;
+- (c)[^key-48d971d28338c3c3b5b6be1be899aa60] an assessment of the risks, if any, which a resident at the residential family centre may present to their own health, safety and welfare or that of other residents or staff at the centre.
+
+(2) The registered person shall keep under review and revise the placement plan as necessary.
+
+(3) In preparing or reviewing the placement plan the registered person shall, so far as practicable—
+
+- (a) seek and take account of the views of the members of the family;
+- (b) take account of any relevant assessment or other report relating to any member of the family which may be provided by the placing authority.
+
+(4) The registered person shall supply a copy of the placement plan and any revision of it to the placing authority and to the parent within the family to which it relates.
+
+### 13A. Assessments[^key-4724a12d36f8eb5d258b9806367c5d54]
+
+(1) The registered person must ensure that the parents’ capacity to respond to the children’s needs and to safeguard their welfare is monitored or assessed by a suitably qualified person in accordance with the requirements of this regulation.
+
+(2) All assessment or monitoring of parents’ capacity to respond to the children’s needs and to safeguard their welfare must be carried out in accordance with appropriate and generally recognised methods for such assessment and, in particular, having due regard to guidance issued by the Secretary of State relating to the assessment of children in need and their parents under section 7(1) of the Local Authority Social Services Act 1970.
+
+(3) The methods of assessment or monitoring must be capable of evaluating the parents’ capacity to change.
+
+(4) The registered person must ensure that conclusions or recommendations are made as a result of the assessment or monitoring and that—
+
+- (a) such conclusions or recommendations are objective and based on verifiable evidence; and
+- (b) the evidence on which they are based is capable of being presented in a manner that is clear, accessible and appropriate to the persons who will need to consider them.
+
+### 14. Facilities and services
+
+(1) Subject to regulation 4(6), the registered person shall provide facilities and services to residents in accordance with the statement of purpose.
+
+(2) The registered person shall having regard to the size of the residential family centre and the number and needs of residents—
+
+- (a) provide telephone facilities which are suitable for the needs of residents, and make arrangements to enable residents to use such facilities in private;
+- (b)[^key-93e8a328c906a061d40bca31308d051a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-93e8a328c906a061d40bca31308d051a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-93e8a328c906a061d40bca31308d051a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-93e8a328c906a061d40bca31308d051a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-93e8a328c906a061d40bca31308d051a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) take adequate precautions against risk of accidents, including the training of persons working at the residential family centre in first aid;
+- (h) provide a place where the money and valuables of residents may be deposited for safe keeping; and
+- (i) provide adequate facilities for recreation and leisure;
+- (j)[^key-3c11ee033acbed744b5d5709b7b2a988] The registered person shall provide suitable washing, cleaning, kitchen and laundry facilities for use by residents accommodated in the home.
+- (k) The registered person shall ensure the residential family centre is suitably furnished with adequate living, storage and communal space to—
+  - (i) meet the needs of the residents; and
+  - (ii) achieve the aims and objectives set out in the statement of purpose.
+
+### 15. Staffing of residential family centre
+
+The registered person shall ensure that there is, having regard to—
+
+- (a) the statement of purpose of the residential family centre, its size and the numbers and needs of its residents; and
+- (b) the need to safeguard and promote the health and welfare of residents,
+
+a sufficient number of suitably qualified, competent and experienced persons working for the residential family centre.
+
+### 16. Fitness of workers
+
+(1) The registered person shall not—
+
+- (a) employ a person to work at the residential family centre unless that person is fit to work at a residential family centre; or
+- (b) allow a person to whom paragraph (2) applies, to work at the residential family centre unless that person is fit to work at a residential family centre.
+
+(2) This paragraph applies to any person who is employed by a person other than the registered person in a position in which he may in the course of his duties have regular contact with residents.
+
+(3) For the purposes of paragraph (1), a person is not fit to work at a residential family centre unless—
+
+- (a) he is of integrity and good character;
+- (b) he has the qualifications, skills and experience necessary for the work he is to perform;
+- (c) he is physically and mentally fit for the work he is to perform; and
+- (d) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 2.
+
+(4) The registered person shall ensure that—
+
+- (a) any offer of employment to a person is subject to paragraph (3)(d) being complied with in relation to that person; and
+- (b) unless paragraph (5) applies, no person starts work at a residential family centre until such time as paragraph (3)(d) has been complied with in relation to him.
+
+(5) Where the following conditions apply, the registered person may permit a person to start work at the residential family centre notwithstanding paragraph (4)(b)—
+
+- (a) the registered person has taken all reasonable steps to obtain full information in respect of each of the matters specified in Schedule 2 in respect of that person, but the enquiries in relation to any of the matters specified in paragraphs 3 to 6 of Schedule 2 are incomplete;
+- (b) full and satisfactory information in respect of that person has been obtained in relation to the matters specified in paragraphs 1 and 2 of Schedule 2;
+- (c) the registered person considers that the circumstances are exceptional; and
+- (d) pending receipt of, and satisfying himself with regard to, any outstanding information, the registered person ensures that the person is appropriately supervised while carrying out his duties.
+
+(6) The registered person shall take reasonable steps to ensure that any person working at the residential family centre who is not employed by him and to whom paragraph (2) does not apply is appropriately supervised while carrying out his duties.
+
+### 17. Employment of staff
+
+(1) The registered person shall—
+
+- (a) ensure that all permanent appointments are subject to the satisfactory completion of a period of probation; and
+- (b) provide all employees with a job description outlining their responsibilities.
+
+(2) The registered person must operate a disciplinary procedure which, in particular—
+
+- (a) provides for the suspension of an employee where necessary in the interests of the safety or welfare of children accommodated in the residential family centre;
+- (b) provides that the failure on the part of an employee to report an incident of abuse, or suspected abuse of a child accommodated in the residential family centre to an appropriate person is a ground on which disciplinary proceedings may be instituted.
+
+(3) For the purposes of paragraph (2)(b), an appropriate person is—
+
+- (a) the registered person;
+- (b) an officer of the Chief Inspector[^key-7d17c84ac9aa3e40dd54bcf9e89c43bc];
+- (c) a police officer;
+- (d) an officer of the local authority in whose area the residential family centre is situated; or
+- (e) an officer of the National Society for the Prevention of Cruelty to Children.
+
+(4) In paragraph (2), “child” also includes a parent who is under the age of 18.
+
+(5) The registered person shall ensure that all persons employed by him—
+
+- (a) receive appropriate training, supervision and appraisal; and
+- (b) are enabled from time to time to obtain further qualifications appropriate to the work they perform.
+
+### 18. Staff views as to conduct of residential family centre
+
+The registered person shall make arrangements to enable persons working at the residential family centre to inform the registered person and the Chief Inspector[^key-07af1d86033239b1cafbc00757e45213] about any matter relating to the conduct of the residential family centre so far as it may affect the health or welfare of residents.
+
+### 19. Records
+
+(1) The registered person shall maintain in respect of each family accommodated in the residential family centre a record which—
+
+- (a) includes the information, documents and other records specified in Schedule 3 relating to the members of the family;
+- (b) is kept up to date;
+- (c) is retained in the residential family centre so long as the family to which it relates is accommodated there; and
+- (d) is retained in a place of security for a period of fifteen years from the date of the last entry.
+
+(2) The record referred to in paragraph (1) shall be kept securely and may not be disclosed to any person except in accordance with—
+
+- (a) any provision of, or made under, or by virtue of, a statute under which access to such records is authorised; or
+- (b) any court order authorising access to such records.
+
+(3) The registered person shall also maintain the records specified in Schedule 4 in respect of the residential family centre.
+
+(4) The registered person shall ensure that the records referred to in paragraph (3) are—
+
+- (a) kept up to date;
+- (b) retained in the residential family centre for a period of not less than three years from the date of the last entry.
+
+(5)[^key-790c345667241318bbdebc331971417b] The records mentioned in paragraphs (1) and (3) may be kept in electronic form, provided the information so recorded is capable of being reproduced in a legible form.
+
+### 20. Complaints
+
+(1) The registered person shall establish a procedure (“the complaints procedure”) for considering complaints made to the registered person by a resident or a person acting on behalf of a resident.
+
+(2) The registered person shall ensure that any complaint made under the complaints procedure is fully investigated.
+
+(3) The registered person shall provide a written copy of the complaints procedure on request to any resident and any person acting on behalf of a resident.
+
+(4) The written copy of the complaints procedure shall include—
+
+- (a) the name and address of the Chief Inspector[^key-8c4e2e3801342f5b6d9a314c9ce1b2e1]; and
+- (b) the procedure (if any) that has been notified by the Chief Inspector to the registered person for the making of complaints to the Chief Inspector relating to residential family centres.
+
+(5) The registered person shall , as far as reasonably practicable[^key-e47103261a063c51258df31fb6d7f413], within 28 days after the date on which the complaint is made, or such shorter period as may be reasonable in the circumstances, inform the person who made the complaint of the action (if any) that is to be taken.
+
+(6) The registered person must ensure that a written record is made of any complaint or representation, the action taken in response, and the outcome of the investigation.
+
+(7) The registered person shall supply to the Chief Inspector[^key-ccaa11efcfeff20faf54868d1f0b05ea] at its request a statement containing a summary of the complaints made during the preceding twelve months and the action that was taken.
+
+(8)[^key-1b14193fbebc7fce7a0e0cd37c8705bf] The procedure mentioned in paragraph (1) and any written record made under paragraph (6) may be kept in electronic form, provided the information so recorded is capable of being reproduced in a legible form.
+
+## PART IV — PREMISES
+
+### 21. Fitness of premises
+
+(1) Subject to regulation 4(6), the registered person shall not use premises for the purposes of a residential family centre unless—
+
+- (a) the premises are suitable for the purpose of achieving the aims and objectives set out in the statement of purpose; and
+- (b) the location of the premises is appropriate to the needs of residents.
+
+(2) The registered person shall ensure that—
+
+- (a) the physical design and layout of the premises to be used as the residential family centre meet the needs of families;
+- (b) the premises to be used as the residential family centre are of sound construction and kept in a good state of repair externally and internally;
+- (c) all parts of the residential family centre are kept clean and reasonably decorated;
+- (d) adequate private and communal accommodation is provided for families;
+- (e) the size and layout of rooms occupied or used by families are suitable for their needs, and each family is provided with at least one room for its exclusive use;
+- (f) suitable facilities are provided for residents to meet, in private, any person authorised by the Chief Inspector[^key-28cafefaeee0e82c9a95be6a64fb59a8];
+- (g) there are provided at appropriate places in the premises sufficient numbers of lavatories, and of wash-basins, baths and showers fitted with a hot and cold water supply;
+- (h) the premises are equipped with what is reasonably necessary, and adapted as necessary, in order to meet the needs arising from the disability of any disabled resident;
+- (i) suitable facilities are provided for private study for any resident requiring them;
+- (j) external grounds which are suitable for, and safe for use by, residents are provided and appropriately maintained;
+- (k)[^key-16914084275772330074fd1692af2e6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The registered person shall provide for persons working at the residential family centre—
+
+- (a) suitable facilities and accommodation, other than sleeping accommodation, including—
+  - (i) facilities for the purpose of changing;
+  - (ii) storage facilities;
+- (b) sleeping accommodation where the provision of such accommodation is needed for persons working at the residential family centre in connection with their work.
+
+### 21A. Use of surveillance[^key-0a09002e28187c07a0c2590e29a88524]
+
+(1) Subject to paragraph (6) and any requirements for electronic monitoring imposed by a court under any enactment, the registered person must ensure that electronic or mechanical monitoring devices for the surveillance of residents are not used in a residential family centre, except for the purpose of—
+
+- (a) safeguarding their welfare, or that of other residents accommodated in the centre; or
+- (b) assessment or monitoring carried out under regulation 13A.
+
+(2) The registered person must ensure that any use of such devices is subject to the following conditions:
+
+- (a) the residents are informed in advance of the intention to use the device; and
+- (b) its use is no more intrusive than necessary.
+
+(3) Where the use of such devices is used for the purpose at paragraph (1)(b), the registered person must also ensure that—
+
+- (a) the resident being assessed or monitored consents to the use of the device in question; and
+- (b) its use is provided for in the placement plan.
+
+(4) The registered person must ensure that staff at the residential family centre are appropriately trained and understand the requirements imposed by this regulation before they use any such devices.
+
+(5) Paragraphs (1)(c) and (d), and (2) of regulation 19 apply to any information or material obtained by means described in paragraph (1) as they do to any other record under that regulation.
+
+(6) This regulation does not apply to monitoring devices commonly used by parents to monitor their children’s safety.
+
+### 22. Fire precautions
+
+(1) Subject to paragraph (1A) the registered person[^key-fa5dcf1d4d51dd2715cf599cf38bf13a] shall after consultation with the fire authority *(affected by repeal, see note)*[^M_F_e1b3e175-95cd-4259-84ef-0cb12f760913]fire and rescue authority—
+
+- (a) take adequate precautions against the risk of fire, including the provision of suitable fire equipment;
+- (b) provide adequate means of escape;
+- (c)[^key-7259bf7716772984241caa87bdca2d15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) make arrangements for persons working at the residential family centre to receive suitable training in fire prevention; and
+- (e) ensure, by means of fire drills and practices at suitable intervals, that the persons working at the residential family centre and, so far as practicable, residents, are aware of the procedure to be followed in case of fire, including the procedure for saving life.
+
+(1A)[^key-5ae3e0af6fe9d3e511fec0fca29469dd] Where the Regulatory Reform (Fire Safety) Order 2005 applies to the residential family centre—
+
+- (a) paragraph (1) does not apply; and
+- (b) the registered person must ensure that the requirements of that Order and any regulations made under it, except for article 23 (duties of employees), are complied with in respect of the premises.
+
+(2)[^M_F_a463436d-b68c-48d2-af1d-178a47ef0eeb] In this regulation, “fire authority” means the authority discharging in the area in which a residential family centre is situated, the function of fire authority under the Fire Services Act 1947 *(affected by repeal, see note)*[^M_F_a463436d-b68c-48d2-af1d-178a47ef0eeb] [^M_F_744d3275-460e-440e-864e-5df186d62473].
+
+(2) In this regulation, “fire and rescue authority” means a fire and rescue authority under the Fire and Rescue Services Act 2004 for the area in which a residential family centre is situated.
+
+## PART V — MANAGEMENT
+
+### 23. Review of quality of care
+
+(1) The registered person shall establish and maintain a system for—
+
+- (a) reviewing at appropriate intervals; and
+- (b) improving,
+
+the quality of care provided at the residential family centre.
+
+(1A)[^key-b99307bf0189ba8b2384511ca2d57e3d] The system referred to in paragraph (1) must provide for adequate consideration of matters raised under regulation 18 by persons working at the residential family centre.
+
+(2) The registered person shall supply to the Chief Inspector[^key-f40d511546cb1746ea3faa10e1e46292] a report in respect of any review conducted by him for the purposes of paragraph (1), and make a copy of the report available to residents.
+
+(3) The system referred to in paragraph (1) shall provide for consultation with residents.
+
+### 24. Financial position
+
+(1) The registered provider shall carry on the residential family centre in such manner as is likely to ensure that it will be financially viable for the purpose of achieving the aims and objectives set out in the statement of purpose.
+
+(2) The registered person shall—
+
+- (a) ensure that adequate accounts are maintained and kept up to date in respect of the residential family centre;
+- (b) supply a copy of the accounts to the Chief Inspector[^key-c25ba6e52314c1e6a6bd9c0443baa3b6] at its request.
+
+(3) The registered person shall, if the Chief Inspector[^key-effae4368df8614a8e967ecdb4d78dbd] so requests, provide the Chief Inspector with such information and documents as it may require for the purpose of considering the financial viability of the residential family centre, including—
+
+- (a) the annual accounts of the residential family centre certified by an accountant;
+- (b) a certificate of insurance for the registered provider in respect of liability which may be incurred by him in relation to the residential family centre in respect of death, injury, public liability, damage or other loss.
+
+### 25. Visits by registered provider
+
+(1) Where the registered provider is an individual, but is not in day to day charge of the residential family centre, he shall visit the residential family centre in accordance with this regulation.
+
+(2) Where the registered provider is an organisation or a partnership, the residential family centre shall be visited in accordance with this regulation by—
+
+- (a) the responsible individual or one of the partners, as the case may be;
+- (b) another of the directors or other persons responsible for the management of the organisation or partnership; or
+- (c) an employee of the organisation or partnership who is not directly concerned with the conduct of the residential family centre.
+
+(3) Visits under paragraph (1) or (2) shall , as far as reasonably practicable,[^key-a66b0486e1d1b04d83d832243544322a] take place at least once a month and may be unannounced.
+
+(4) The person carrying out the visit shall—
+
+- (a) interview, with their consent and in private, such of the residents and persons working at the residential family centre as appears necessary in order to form an opinion of the standard of care provided in the residential family centre;
+- (b) as far as reasonably practicable,[^key-39024930afe69543b22fa8665fea0a9e] inspect the premises of the residential family centre [^key-0300343776ca89c4c73b3f16211ef8c8]... and records of any complaints; and
+- (c) prepare a written report on the conduct of the residential family centre.
+
+(4A)[^key-e716e563184d749215f3940949588d57] Where paragraph (4B) applies any interview carried out under paragraph (4)(a) may be carried out by telephone, video-link or by other electronic means.
+
+(4B) This paragraph applies where complying with paragraph (4)(a)—
+
+- (a) would be contrary to any guidance relating to the incidence or transmission of coronavirus published by Public Health England or the Secretary of State for Health and Social Care, or
+- (b) is not reasonably practicable for a reason relating to the incidence or transmission of coronavirus.
+
+(4C) In paragraph (4B) ‘coronavirus’ means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+(4D) The person carrying out the visit under paragraph (1) and (2) must keep a record of any interview carried out in accordance with paragraph (4A).
+
+(5) The registered provider shall supply a copy of the report required to be made under paragraph (4)(c) to—
+
+- (a) the Chief Inspector[^key-96adc99679341e9a72a5ae092503cc1d];
+- (b) the registered manager; and
+- (c) in the case of a visit under paragraph (2)—
+  - (i) where the registered provider is an organisation, to each of the directors or other persons responsible for the management of the organisation; and
+  - (ii) where the registered provider is a partnership, to each of the partners.
+
+## PART VI — MISCELLANEOUS
+
+### 26. Notifiable events
+
+(1) If, in relation to a residential family centre, any of the events listed in column 1 of the table in Schedule 5 takes place, the registered person shall without delay notify the persons indicated in respect of the event in column 2 of the table.
+
+(2) The registered person shall without delay notify the parent accommodated in the residential family centre with a child of any significant incident affecting the child’s welfare unless to do so is not reasonably practicable or would place the child’s welfare at risk.
+
+(3) Any notification made in accordance with this regulation which is given orally shall be confirmed in writing.
+
+(4) References in column 1 of the table in Schedule 5 to a centre shall be construed as references to a residential family centre.
+
+(5) References in column 2 of the table to a local authority shall be construed as references to the local authority in whose area the residential family centre is situated.
+
+### 27. Notice of absence
+
+(1) Where—
+
+- (a) the registered provider if he is the person in day to day charge of the residential family centre; or
+- (b) the registered manager,
+
+proposes to be absent from the residential family centre for a continuous period of 28 days or more, the registered person shall give notice in writing to the Chief Inspector[^key-3cf3a918aaf2218246122d5bfb05543d] of the proposed absence.
+
+(2) Except in the case of an emergency, the notice referred to in paragraph (1) shall be given at least 28 days before the proposed absence is to start, or within such shorter period as may be agreed with the Chief Inspector, and the notice shall specify—
+
+- (a) the length or expected length of the proposed absence;
+- (b) the reason for the proposed absence;
+- (c) the arrangements which have been made for the running of the residential family centre during that absence;
+- (d) the name, address and qualifications of the person who will be responsible for the residential family centre during the absence; and
+- (e) in the case of the absence of the registered manager, the arrangements that have been, or are proposed to be, made for appointing another person to manage the residential family centre during that absence, including the proposed date by which the appointment is to be made.
+
+(3) Where the absence arises as a result of an emergency, the registered person shall give notice of the absence within one week of its occurrence specifying the matters in sub-paragraphs (a) to (e) of paragraph (2).
+
+(4) Where—
+
+- (a) the registered provider if he is the person in day to day charge of the residential family centre; or
+- (b) the registered manager,
+
+has been absent from the residential family centre for a continuous period of 28 days or more, and the Chief Inspector has not been given notice of the absence, the registered person shall without delay give notice in writing to the Chief Inspector specifying the matters mentioned in sub-paragraphs (a) to (e) of paragraph (2).
+
+(5) The registered person shall inform the Chief Inspector of the return to duty of the registered provider or (as the case may be) the registered manager not later than 7 days after the date of his return.
+
+### 28. Notice of changes
+
+The registered person shall give notice in writing to the Chief Inspector[^key-af6235b8c00aaf3ee978e64bfcc44783] as soon as it is practicable to do so if any of the following events takes place or is proposed to take place—
+
+- (a) a person other than the registered person carries on or manages the residential family centre;
+- (b) a person ceases to carry on or manage the residential family centre;
+- (c) where the registered person is an individual, he changes his name;
+- (d) where the registered provider is a partnership, there is any change in the membership of the partnership;
+- (e) where the registered provider is an organisation—
+  - (i) the name or address of the organisation is changed;
+  - (ii) there is any change of director, manager, secretary or other similar officer of the organisation;
+  - (iii) there is to be any change of responsible individual;
+- (f) where the registered provider is an individual, a trustee in bankruptcy is appointed;
+- (g) where the registered provider is a company or a partnership, a receiver, manager, liquidator or provisional liquidator is appointed in respect of the registered provider; or
+- (h) the premises of the residential family centre are to be significantly altered or extended, or additonal premises are acquired.
+
+### 29. Appoint of liquidators etc.
+
+(1) Any person to whom paragraph (2) applies must—
+
+- (a) forthwith notify the Chief Inspector[^key-36fcc793d69678db133d43bf48073f3e] of his appointment indicating the reasons for it;
+- (b) appoint a manager to take full-time day to day charge of the residential family centre in any case where there is no registered manager; and
+- (c) within 28 days of his appointment, notify the Chief Inspector of his intentions regarding the future operation of the residential family centre.
+
+(2) This paragraph applies to any person appointed as—
+
+- (a) the receiver or manager of the property of a company or a partnership which is a registered provider of a residential family centre;
+- (b) a liquidator or provisional liquidator of a company which is the registered provider of a residential family centre; or
+- (c) the trustee in bankruptcy of a registered provider of a residential family centre.
+
+### 30. Death of registered person
+
+(1) If more than one person is registered in respect of a residential family centre, and a registered person dies, the other registered person shall without delay notify the Chief Inspector[^key-2b061d1bb4436a3bf002f82604a4643e] of the death in writing.
+
+(2) If only one person is registered in respect of a residential family centre, and he dies, his personal representatives shall notify the Chief Inspector in writing—
+
+- (a) without delay of the death; and
+- (b) within 28 days of their intentions regarding the future operation of the residential family centre.
+
+(3) The personal representatives of a deceased registered provider may carry on the residential family centre without being registered in respect of it—
+
+- (a) for a period not exceeding 28 days;
+- (b) for any further period as may be determined in accordance with paragraph (4).
+
+(4) The Chief Inspector may extend the period specified in paragraph (3)(a) by such further period, not exceeding one year, as the Chief Inspector shall determine and shall notify any such determination to the personal representatives in writing.
+
+(5) The personal representatives shall appoint a person to take full-time day to day charge of the residential family centre during any period in which, in accordance with paragraph (3), they carry on the residential family centre without being registered in respect of it.
+
+### 31. Offences[^key-2dacffb58f385d2c0a052e11e3d6cc6e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32. Compliance with regulations
+
+Where there is more than one registered person in respect of a residential family centre, anything which is required under these Regulations to be done by the registered person shall, if done by one of the registered persons, not be required to be done by any of the other registered persons.
+
+Signed by authority of the Secretary of State for Health
+
+Jacqui Smith
+
+Minister of State
+
+Department of Health
+
+## SCHEDULE 1 — INFORMATION TO BE INCLUDED IN THE STATEMENT OF PURPOSE
+
+Regulation 4(1)
+
+**1.** A statement of the aims and objectives of the residential family centre.
+
+**2.**[^key-674433e8acaff8c83f2aca4eba0d62dd] A statement of the services, including details of the types of assessment, monitoring or therapeutic techniques to be used in the centre and of the arrangements for their supervision.
+
+**3.** The name and address of the registered provider and of any registered manager.
+
+**4.** The relevant qualifications and experience of the registered provider and registered manager.
+
+**5.** The number, relevant qualifications and experience of persons working at the residential family centre.
+
+**6.** The organisational structure of the residential family centre.
+
+**7.** The fees and charges of the residential family centre.
+
+**8.** The criteria for admission to the residential family centre, including, as applicable, the minimum and maximum ages (if any) of parents and children to be accommodated.
+
+**9.** A description of the underlying ethos and philosophy of the residential family centre, and where this is based on any theoretical or therapeutic model, a description of that model.
+
+**10.**[^key-fefd947c0e269171f25a2b5089320339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.** A description of the advice, guidance and counselling provided, including the arrangements for professional supervision.
+
+**12.** The fire precautions and associated emergency procedures in the residential family centre.
+
+**13.** The arrangements for dealing with complaints.
+
+**14.** The rules and conditions applying to residents, and the circumstances in which placements may be terminated.
+
+**15.** The arrangements for respecting the privacy and dignity of residents.
+
+**16.** The policy relating to the use of drugs and alcohol in the residential family centre.
+
+**17.** The residential family centre’s confidentiality policy.
+
+**18.** The arrangements for protecting children and parents under the age of 18 accommodated in the residential family centre.
+
+**19.**[^key-c55336a37f7c79ddba3add4c96c106e4] A description of any electronic or mechanical devices for the surveillance of residents which may be used in the centre.
+
+## SCHEDULE 2 — INFORMATION REQUIRED IN RESPECT OF PERSONS SEEKING TO CARRY ON, MANAGE OR WORK AT A RESIDENTIAL FAMILY CENTRE
+
+Regulations 5, 7, 16
+
+**1.** Positive proof of identity.
+
+**2.**[^key-d48b0100ec67c6bebf058e6580e3cc14] Either—
+
+- (a) where the certificate is required for a purpose related to registration under Part 2 of the 2000 Act or the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes suitability information relating to children (within the meaning of section 113BA(2) of that Act) and, where applicable suitability information relating to vulnerable adults (within the meaning of section 113BB(2) of that Act); or
+- (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
+
+**3.** Two written references, including a reference from the last employer, if any.
+
+**4.** Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as reasonably practicable verification of the reason why the employment or position ended.
+
+**5.** Documentary evidence of any relevant qualification.
+
+**6.** A full employment history, together with a satisfactory written explanation of any gaps in employment.
+
+## SCHEDULE 3 — INFORMATION TO BE INCLUDED IN CASE RECORDS
+
+Regulation 19(1)(a)
+
+**1.** In respect of each member of the family—
+
+- (a) his full name and home address;
+- (b) any name by which he has previously been known;
+- (c) his date of birth and sex;
+- (d) his religious persuasion (if any); and
+- (e) a description of his racial origin, cultural and linguistic background.
+
+**2.** The name of the placing authority, if any, and the name, address and telephone number of a representative of that authority.
+
+**3.** The name, address and telephone number of any social worker for the time being assigned to any member of the family.
+
+**4.** The terms of any court order under which the family is provided with accommodation in the residential family centre.
+
+**5.** The name and address of the general medical practitioner[^key-67c654ebb29451323c3fe74b4cd6763a] in whose list the members of the family are included.
+
+**6.** The name, address and telephone number of any school, college or place of work attended by any member of the family.
+
+**7.** The date and circumstances of any serious incident involving any member of the family, and of any disciplinary measures or physical restraint used on any member of the family.
+
+**8.** Any special dietary, dental or other health needs, including details of any allergies, of any member of the family.
+
+**9.** Details of any medicines kept for any member of the family at the residential family centre, and of any medicines administered to any resident by a person working at the residential family centre.
+
+**10.** Details of any accident or serious illness sustained by any member of the family whilst accommodated in the residential family centre.
+
+**11.** Arrangements for, including any restrictions on, contact between any child accommodated in the residential family centre and any other relevant person, and details of any court orders relating to contact with the child by any person.
+
+**12.** Details of any period of absence from the residential family centre by any member of the family including, in the case of a child, whether the absence was authorised by the registered person.
+
+**13.** A copy of the placement plan and any revision of it.
+
+**13A.**[^key-3df21d3b0439555c4d86fcc3cea122c7] A copy of any relevant information, conclusion or recommendation resulting from the assessment or monitoring carried out under regulation 13A.
+
+**14.** A record of any money or valuables deposited by any member of the family for safekeeping, together with the date on which that money was withdrawn, or any valuables were returned.
+
+**15.** The address, and type of establishment or accommodation, to which the family goes when leaving the residential family centre.
+
+## SCHEDULE 4 — OTHER RECORDS WITH RESPECT TO RESIDENTIAL FAMILY CENTRES
+
+Regulation 19(3)
+
+**1.** A copy of the statement of purpose.
+
+**2.** A record in the form of a register showing—
+
+- (a) the name, address, date of birth and marital status of each member of each family;
+- (b) the date on which he took up residence at the residential family centre;
+- (c) the date on which, and the reason why, he ceased to be accommodated there;
+- (d) the name of the person or organisation responsible for arranging the family’s stay in the residential family centre;
+- (e) the name and address of the [^key-25f6ec54e51c8fd04ebd9fba390bb202]... social worker if any, of each member of the family;
+- (ea)[^key-499590759f3cf90ae44704ce2d43b330] The name of the general medical practitioner with whom any member of the family is registered and the address of the premises at which the primary medical services are usually provided;
+- (f) in the case of a child, any court order to which he is subject;
+- (g) in the case of a child who is subject to a care order, the name, address and telephone number of—
+  - (i) the local authority which is the designated local authority in respect of the care order for the purposes of section 31(1) of the Children Act 1989 [^c9644121]; and
+  - (ii) the officer of the authority responsible for the child’s case.
+
+**3.** A statement of the procedure to be followed in the event of accidents or in the event of a resident going missing.
+
+**4.** A statement of the procedure to be followed in the event of a fire.
+
+**5.** A record of every fire practice, drill or test of fire equipment (including fire alarms) conducted in the residential family centre and of any action taken to remedy defects in the fire equipment.
+
+**6.**[^key-ae5967d680f1b4d839cacfdeaba3a20b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.** A record showing in respect of each person employed at the residential family centre—
+
+- (a) his full name;
+- (b) his sex;
+- (c) his date of birth;
+- (d) his home address;
+- (e) his qualifications relevant to, and experience of, work involving children;
+- (f) the position held by him, and the average number of hours worked by him per week.
+
+**8.** A copy of any report made under regulation 25.
+
+**9.** A record of all complaints made by residents or by persons working at the residential family centre about the operation of the residential family centre, and the action taken by the registered person in respect of any such complaint.
+
+**10.** A record of the charges payable by or in respect of each resident, including any extra amounts payable for additional services not covered by those charges, and the amounts paid by or in respect of each resident.
+
+**11.** A copy of the staff duty roster of persons working at the residential family centre, and a record of the actual rosters worked.
+
+**12.** A record of all visitors to the residential family centre.
+
+**13.** A record of all accounts kept in the residential family centre.
+
+## SCHEDULE 5 — EVENTS AND NOTIFICATIONS
+
+Regulation 26(1)
+
+<table>
+<tbody>
+<tr><th><strong>Column 1</strong></th><th colspan="6"><strong>Column 2</strong></th></tr>
+<tr><th><em>Event:</em></th><th colspan="6"><em>To be notified to:</em></th></tr>
+<tr><th></th><th><strong>Chief Inspector</strong></th><th><strong>Placing authority</strong></th><th><strong>Secretary of State</strong></th><th><strong>Local authority</strong></th><th><strong>Police</strong></th><th><strong>Integrated care board and NHS England</strong></th></tr>
+<tr><td>Death of a resident accommodated in the centre</td><td>yes</td><td>yes</td><td>yes</td><td>yes</td><td></td><td>yes</td></tr>
+<tr><td>Referral to the Secretary of State pursuant to section 2(1)(a) of the Protection of Children Act 1999 of an individual working at the centre</td><td>yes</td><td>yes</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Serious illness or serious accident sustained by a resident accommodated in the centre</td><td>yes</td><td>yes</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Outbreak of any infectious disease which in the opinion of a registered medical practitioner attending residents at the centre is sufficiently serious to be so notified</td><td>yes</td><td>yes</td><td></td><td>yes</td><td></td><td>. . .</td></tr>
+<tr><td>Allegation that a resident accommodated in the centre has committed a serious offence</td><td></td><td>yes</td><td></td><td></td><td>yes</td><td></td></tr>
+<tr><td>Involvement or suspected involvement in prostitution of—<br>(i)a child; or<br>(ii)a parent who is under the age of 18, accommodated in the centre</td><td>yes</td><td>yes</td><td></td><td>yes</td><td>yes</td><td></td></tr>
+<tr><td>Serious incident necessitating calling the police to the centre</td><td>yes</td><td>yes</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Absconding by a resident accommodated in the centre</td><td></td><td>yes</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Any serious complaint about the centre or persons working there</td><td>yes</td><td>yes</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Instigation and outcome of any child protection enquiry involving—<br>(i)a child; or<br>(ii)a parent who is under the age of 18, accommodated in the centre</td><td>yes</td><td>yes</td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^key-72a0dc964c3367fca30ea0571e49d06b][^key-6b9785044666f888ce4a4e85832c3e82][^key-8e3c982baba4f787af4b7388ba474662][^key-cbbedfba15dbcae40a652f13aa18c25e][^c9644131][^key-97fa43fe672b22b3fbef3561f1e4e3ee][^key-f7fe995ebc03a1bc20e13ffc5596075d]
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made under the Care Standards Act 2000 (“the Act”) and apply in relation to residential family centres in England only. Part I of the Act establishes, in relation to England, the National Care Standards Commission (“the Commission”) and Part II provides for the registration and inspection of establishments and agencies, including residential family centres, by the Commission. It also provides powers for regulations governing the conduct of establishments and agencies.
+
+Regulation 3 excludes certain establishments from the definition of a residential family centre under section 4(2) of the Act. These include most hospitals (in particular health service hospitals as defined in section 128 of the National Health Service Act 1977 and independent hospitals as defined in section 2 of the Act); and independent clinics and care homes as defined in sections 2 and 3 of the Act. An establishment is also excluded from the definition of residential family centre if it is a hostel or domestic violence refuge, or an establishment whose main purpose is to provide accommodation and services to adults.
+
+By regulation 4, each centre must prepare a statement of purpose consisting of the matters set out in Schedule 1, and a resident’s guide to the centre. The centre must be conducted in a manner which is consistent with the statement of purpose.
+
+Regulations 5 to 9 make provision about the persons carrying on and managing the centre, and require satisfactory information to be available in relation to the matters prescribed in Schedule 2. Where the provider is an organisation, it must nominate a responsible individual in respect of whom this information must be available (regulation 5). Regulation 6 prescribes the circumstances where a manager must be appointed for the centre, and regulation 8 imposes general requirements in relation to the proper conduct of the centre, and the need for appropriate training.
+
+In Part III, regulations 10 to 12 make provision about the conduct of residential family centres, in particular as to the health, welfare, care and education of the residents and as to the protection of children accommodated there. Regulations 13 and 14 make provision for the facilities and services to be provided to residents. Provision is also made about the staffing of centres and the fitness of workers, and about record keeping and complaints (regulations 15 to 20).
+
+Part IV makes provision about the suitability of premises, and the fire precautions to be taken. Part V deals with the management of residential family centres. Regulation 23 requires the registered person to monitor the quality of care provided by the centre. Regulation 24 imposes requirements relating to the centre’s financial position. Regulation 25 requires the registered provider to visit the centre as prescribed.
+
+Part VI deals with miscellaneous matters, including the giving of notices to the Commission, and notification to the Commission and others of the events listed in Schedule 5.
+
+Regulation 31 provides for offences. A breach of the regulations specified in regulation 31 may be an offence on the part of the registered person. However, no prosecution may be brought by the Commission unless it has first given the registered person a notice which sets out in what respect it is alleged he is not complying with a regulation and, where it is practicable for him to do so, the action he should take in order to comply and the period for compliance. The notice must also specify the period within which he may make representations about the notice.
+
+## Annotations
+
+[^c9644021]: Textual amendment: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). These powers are exercisable by the appropriate Minister, who is defined in section 121(1) of the 2000 Act, in relation to England, Scotland and Northern Ireland, as the Secretary of State, and in relation to Wales, as the National Assembly for Wales. “Prescribed” and “regulations” are defined in section 121(1) of that Act.
+
+[^c9644031]: Textual amendment: *See* section 22(9) of the 2000 Act for the requirement to consult.
+
+[^c9644041]: Textual amendment: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-a9801be70a83a4f67a9c7cb40d6ef637]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/3213/regulation/2) inserted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/a/ii)
+
+[^key-e67757258845a660bf6eede43bb7e43e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/3213/regulation/2) omitted (1.4.2007) by virtue of [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(a)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/a/i)
+
+[^key-59951d904519cf0a888e7902a630d7b4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/3213/regulation/2) substituted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/499/regulation/3/1)
+
+[^c9644071]: Textual amendment: Section 4(2) of the 2000 Act provides that “parent” in relation to a child, includes any person who is looking after that child.
+
+[^key-f1f3ff1356c98912ab4aac7eeef232b9]: Textual amendment: [Reg. 3(a)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/3/a) substituted (1.10.2010) by [The Health and Social Care Act 2008 (Miscellaneous Consequential Amendments) Order 2010 (S.I. 2010/1881)](https://www.legislation.gov.uk/uksi/2010/1881), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1), [14](https://www.legislation.gov.uk/uksi/2010/1881/article/14)
+
+[^key-2e26c77fc368a27c6cc8404d6c858e62]: Textual amendment: Word in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/3/b) revoked (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2013/499/regulation/4/a)
+
+[^key-e3426e3052ea2b090e3f4eea4018bf1d]: Textual amendment: [Reg. 3(ba)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/3/ba) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2013/499/regulation/4/b)
+
+[^key-3ec972ada5f8eacad2a6220105bc1d92]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2002/3213/regulation/4) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-6745ac2ce314690878d06495fd42435a]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/4/3)[(3A)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/4/3A) substituted for [reg. 4(3)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/4/3) (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/499/regulation/5)
+
+[^key-2aff32ce8db1f917d8b285da9ca66c57]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/5/2) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-ae8dc8f0176f5cc76ccf023e61147e1b]: Textual amendment: Word in [reg. 5(4)(a)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/5/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+
+[^key-67041af4b0b9c5e43c7a124bb1d44074]: Textual amendment: Words in [reg. 5(4)(a)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/5/4/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 26(2)(a)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/26/2/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+
+[^key-fcd5b02171a6253698081f44f7274cdb]: Textual amendment: Words in [reg. 5(4)(a)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/5/4/a) omitted (1.10.2012) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 26(2)(b)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/26/2/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+
+[^key-85d1708bd4c182c5a2e2a6d4389413a2]: Textual amendment: Words in [reg. 5(4)(a)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/5/4/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 26(2)(c)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/26/2/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+
+[^key-eda6489a06f18abc9f0029595ddea66a]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/6/2) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-913291b35d18ed625a4a899b4b1c0f23]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2002/3213/regulation/9) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-79b954f5a51ccc9abd355dc3a4823175]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/10/1) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/3/2) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+
+[^key-ff179b2e6a95e0edf1720596cb24dfeb]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/10/1/a) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/499/regulation/6)
+
+[^key-128fc07c6da8b194f9bf73d8c859477c]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/12/2) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-48d971d28338c3c3b5b6be1be899aa60]: Textual amendment: [Reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/13/1/c) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/499/regulation/7)
+
+[^key-4724a12d36f8eb5d258b9806367c5d54]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2002/3213/regulation/13A) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/499/regulation/8)
+
+[^key-93e8a328c906a061d40bca31308d051a]: Textual amendment: [Reg. 14(2)(b)-(f)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/14/2/b) omitted (1.4.2013) by virtue of [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2013/499/regulation/9/a)
+
+[^key-3c11ee033acbed744b5d5709b7b2a988]: Textual amendment: [Reg. 14(2)(j)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/14/2/j)[(k)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/14/2/k) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2013/499/regulation/9/b)
+
+[^key-7d17c84ac9aa3e40dd54bcf9e89c43bc]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/17/3) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-07af1d86033239b1cafbc00757e45213]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2002/3213/regulation/18) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-790c345667241318bbdebc331971417b]: Textual amendment: [Reg. 19(5)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/19/5) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/499/regulation/10)
+
+[^key-8c4e2e3801342f5b6d9a314c9ce1b2e1]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/20/4) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-e47103261a063c51258df31fb6d7f413]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/20/5) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/445/regulation/3/3) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+
+[^key-ccaa11efcfeff20faf54868d1f0b05ea]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/20/7) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-1b14193fbebc7fce7a0e0cd37c8705bf]: Textual amendment: [Reg. 20(8)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/20/8) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [11](https://www.legislation.gov.uk/uksi/2013/499/regulation/11)
+
+[^key-28cafefaeee0e82c9a95be6a64fb59a8]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/21/2) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-16914084275772330074fd1692af2e6b]: Textual amendment: [Reg. 21(2)(k)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/21/2/k) omitted (1.4.2013) by virtue of [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/499/regulation/12)
+
+[^key-0a09002e28187c07a0c2590e29a88524]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2002/3213/regulation/21A) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [13](https://www.legislation.gov.uk/uksi/2013/499/regulation/13)
+
+[^key-fa5dcf1d4d51dd2715cf599cf38bf13a]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/22/1) substituted (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/3/paragraph/15/a) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [S.I. 2006/484](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+
+[^M_F_e1b3e175-95cd-4259-84ef-0cb12f760913]: Textual amendment: Words in reg. 22(1) substituted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [65(a)](https://www.legislation.gov.uk/uksi/2004/3168/article/65/a)
+
+[^key-7259bf7716772984241caa87bdca2d15]: Textual amendment: [Reg. 22(1)(c)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/22/1/c) omitted (1.4.2013) by virtue of [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [14](https://www.legislation.gov.uk/uksi/2013/499/regulation/14)
+
+[^key-5ae3e0af6fe9d3e511fec0fca29469dd]: Textual amendment: [Reg. 22(1A)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/22/1A) inserted (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/3/paragraph/15/b) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [S.I. 2006/484](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+
+[^M_F_a463436d-b68c-48d2-af1d-178a47ef0eeb]: Textual amendment: Reg. 22(2) substituted (E.) (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [65(b)](https://www.legislation.gov.uk/uksi/2004/3168/article/65/b)
+
+[^M_F_744d3275-460e-440e-864e-5df186d62473]: Textual amendment: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41).
+
+[^key-b99307bf0189ba8b2384511ca2d57e3d]: Textual amendment: [Reg. 23(1A)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/23/1A) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [15](https://www.legislation.gov.uk/uksi/2013/499/regulation/15)
+
+[^key-f40d511546cb1746ea3faa10e1e46292]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/23/2) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-c25ba6e52314c1e6a6bd9c0443baa3b6]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/24/2) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-effae4368df8614a8e967ecdb4d78dbd]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/24/3) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-a66b0486e1d1b04d83d832243544322a]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/25/3) inserted (temp. until 25.9.2020) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2020/445/regulation/3/4/a) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+
+[^key-39024930afe69543b22fa8665fea0a9e]: Textual amendment: Words in [reg. 25(4)(b)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/25/4/b) inserted (temp. until 25.9.2020) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/445/regulation/3/4/b) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+
+[^key-0300343776ca89c4c73b3f16211ef8c8]: Textual amendment: Words in [reg. 25(4)(b)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/25/4/b) omitted (1.4.2013) by virtue of [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [16](https://www.legislation.gov.uk/uksi/2013/499/regulation/16)
+
+[^key-e716e563184d749215f3940949588d57]: Textual amendment: [Reg. 25(4A)-(4D)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/25/4A) inserted (temp. until 1.10.2021) (25.9.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2020/909/regulation/2/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8)) (as amended (30.3.2021) by [S.I. 2021/261](https://www.legislation.gov.uk/uksi/2021/261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/261/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/261/regulation/4))
+
+[^key-96adc99679341e9a72a5ae092503cc1d]: Textual amendment: Words in [reg. 25(5)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/25/5) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-3cf3a918aaf2218246122d5bfb05543d]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2002/3213/regulation/27) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-af6235b8c00aaf3ee978e64bfcc44783]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2002/3213/regulation/28) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-36fcc793d69678db133d43bf48073f3e]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2002/3213/regulation/29/1) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-2b061d1bb4436a3bf002f82604a4643e]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/uksi/2002/3213/regulation/30) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/i)
+
+[^key-2dacffb58f385d2c0a052e11e3d6cc6e]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2002/3213/regulation/31) omitted (1.4.2013) by virtue of [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [17](https://www.legislation.gov.uk/uksi/2013/499/regulation/17)
+
+[^key-674433e8acaff8c83f2aca4eba0d62dd]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2002/3213/schedule/1/paragraph/2) substituted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2013/499/regulation/18/a)
+
+[^key-fefd947c0e269171f25a2b5089320339]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2002/3213/schedule/1/paragraph/10) omitted (1.4.2013) by virtue of [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2013/499/regulation/18/b)
+
+[^key-c55336a37f7c79ddba3add4c96c106e4]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2002/3213/schedule/1/paragraph/19) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [18(c)](https://www.legislation.gov.uk/uksi/2013/499/regulation/18/c)
+
+[^key-d48b0100ec67c6bebf058e6580e3cc14]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/3213/schedule/2/paragraph/2) substituted (12.10.2009) by [The Care Standards and Adoption (Regulation of Establishments, Agencies and Adult Placement Schemes) (Amendment) Regulations 2009 (S.I. 2009/1895)](https://www.legislation.gov.uk/uksi/2009/1895), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1895/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/1895/regulation/7/2)
+
+[^key-67c654ebb29451323c3fe74b4cd6763a]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2002/3213/schedule/3/paragraph/5) substituted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/499/regulation/3/2)
+
+[^key-3df21d3b0439555c4d86fcc3cea122c7]: Textual amendment: [Sch. 3 para. 13A](https://www.legislation.gov.uk/uksi/2002/3213/schedule/3/paragraph/13A) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [19](https://www.legislation.gov.uk/uksi/2013/499/regulation/19)
+
+[^key-25f6ec54e51c8fd04ebd9fba390bb202]: Textual amendment: Words in [Sch. 4 para. 2(e)](https://www.legislation.gov.uk/uksi/2002/3213/schedule/4/paragraph/2/e) omitted (1.4.2013) by virtue of [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/499/regulation/3/3)
+
+[^key-499590759f3cf90ae44704ce2d43b330]: Textual amendment: [Sch. 4 para. 2(ea)](https://www.legislation.gov.uk/uksi/2002/3213/schedule/4/paragraph/2/ea) inserted (1.4.2013) by [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/499/regulation/3/4)
+
+[^c9644121]: Textual amendment: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). “Designated local authority” is defined in section 31(8).
+
+[^key-ae5967d680f1b4d839cacfdeaba3a20b]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2002/3213/schedule/4/paragraph/6) omitted (1.4.2013) by virtue of [The Residential Family Centres (Amendment) Regulations 2013 (S.I. 2013/499)](https://www.legislation.gov.uk/uksi/2013/499), [regs. 1](https://www.legislation.gov.uk/uksi/2013/499/regulation/1), [20](https://www.legislation.gov.uk/uksi/2013/499/regulation/20)
+
+[^key-72a0dc964c3367fca30ea0571e49d06b]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2002/3213/schedule/5) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2007/603/regulation/12/b/ii)
+
+[^key-6b9785044666f888ce4a4e85832c3e82]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-8e3c982baba4f787af4b7388ba474662]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2002/3213/schedule/5) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 57(b)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/57/b/i)
+
+[^key-cbbedfba15dbcae40a652f13aa18c25e]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^c9644131]: Textual amendment: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14).
+
+[^key-97fa43fe672b22b3fbef3561f1e4e3ee]: Textual amendment: Word in [Sch. 5](https://www.legislation.gov.uk/uksi/2002/3213/schedule/5) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 57(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/57/a)
+
+[^key-f7fe995ebc03a1bc20e13ffc5596075d]: Textual amendment: Word in [Sch. 5](https://www.legislation.gov.uk/uksi/2002/3213/schedule/5) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 57(b)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/57/b/ii)

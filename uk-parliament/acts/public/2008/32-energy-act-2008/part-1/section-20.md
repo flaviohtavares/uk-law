@@ -1,0 +1,61 @@
+---
+title: Energy Act 2008, section 20
+act: Energy Act 2008
+section: '20'
+status: revised
+text_date: '2026-10-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/32/section/20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2008, section 20
+
+> Text as at 2026-10-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 20. Terms and conditions[^key-70f88fe8d0a57382b59c495140f1837e]
+
+*Extent: E+W+S+N.I.*
+
+(1) A licence may be granted on such terms and subject to such conditions as the licensing authority considers appropriate, subject to regulations under section 21.
+
+(2) Subject to such regulations, a licence may, in particular, include provision of a kind mentioned in subsections (3) to (7).
+
+(3) A licence may include—
+
+- (a) provision about the circumstances in which financial security (which may be provided by way of a trust or other arrangements) may be required in respect of the obligations mentioned in section 19(2)(e) (in addition to any security required by virtue of that section), and the form of any such security;
+- (b) provision about the circumstances in which financial security may be released (in whole or in part);
+- (c) provision enabling the licensing authority to review the licence in specified circumstances or at specified intervals;
+- (d) provision enabling the licensing authority, after consulting the licence holder, to modify the licence in specified circumstances (with or without the consent of the licence holder);
+- (e) provision preventing or enabling the licensing authority to prevent a licence holder, in specified circumstances, from carrying on an activity in respect of which the licence was granted;
+- (f) provision about closure of a carbon storage facility;
+- (g) provision about obligations of a licence holder between closure of a carbon storage facility and termination of the licence;
+- (h) provision about termination of the licence (which may include provision about financial arrangements).
+
+(4) The provisions of a licence may be expressed by reference to provision made in a Crown lease and, in particular, may provide—
+
+- (a) for the commencement of the licence to be conditional upon the commencement of a Crown lease which has been or may be granted in respect of the controlled place to which the licence relates or any part of that place;
+- (b) for the period of the licence to be determined by reference to the period of such a Crown lease.
+
+(5) A licence may authorise, in such circumstances and subject to such conditions as are specified, the transfer of the licence to another person (or the inclusion of another person as a joint licence holder).
+
+(6) The provisions of a licence may include—
+
+- (a) provision requiring the licence holder to obtain the prior written consent of the licensing authority or another person for specified acts or omissions;
+- (b) provision providing that any such consent may be given subject to conditions.
+
+(7) The conditions imposed on a consent by virtue of subsection (6)(b) may include conditions requiring, or otherwise providing for, the modification of the licence in such manner as the licensing authority considers appropriate.
+
+(8) In this section—
+
+- “**carbon storage facility**” means a controlled place, or part of a controlled place, in which carbon dioxide has been stored pursuant to a licence;
+- “**closure**”, in relation to a carbon storage facility, means the point at which carbon dioxide has ceased to be added to the facility and the licence holder intends, or the licensing authority directs in accordance with the licence, that the cessation should be permanent;
+- “**Crown lease**” has the same meaning as in section 18;
+- “**specified**”, in relation to a licence, means specified in, or determined in accordance with, the licence.
+
+## Annotations
+
+[^key-70f88fe8d0a57382b59c495140f1837e]: Commencement: S. 20 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)

@@ -1,0 +1,158 @@
+---
+title: The Sea Fish (Specified Sea Area) (Regulation of Nets and Prohibition of Fishing Methods) Order 1989
+id: uksi/1989/1284
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1989-07-25'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1989/1284
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/1284/pdfs/uksi_19891284_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/1284/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fish (Specified Sea Area) (Regulation of Nets and Prohibition of Fishing Methods) Order 1989
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1989 No. 1284
+
+SEA FISHERIES
+
+CONSERVATION OF SEA FISH
+
+The Sea Fish (Specified Sea Area) (Regulation of Nets and Prohibition of Fishing Methods) Order 1989
+
+Made
+
+25th July 1989
+
+Laid before Parliament
+
+7th August 1989
+
+Coming into force
+
+1st January 1990
+
+The Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with the sea fishing industry in Scotland, Wales and Northern Ireland, acting jointly, in exercise of the powers conferred on them by sections 3(1) and (3), 5(1) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order:—
+
+## 1. Title, commencement and interpretation[^key-7d8a9d3ba52286532d227fa61a8854ac]
+
+(1) This Order may be cited as the Sea Fish (Specified Sea Area) (Regulation of Nets and Prohibition of Fishing Methods) Order 1989, and shall come into force on 1st January 1990.
+
+(2) In this Order—
+
+- “the Act” means the Sea Fish (Conservation) Act 1967;
+- [^key-e5d4fb997d82d3f7d344e8fcc7835d6c]...
+- “gill and other specified nets” means any of the following, that is to say gill nets, beach seines, trammel nets, tangle nets, stake nets, drift nets, ring nets, T nets, J nets, hoop nets and any similar nets used for the enmeshing or entrapment of fish, but does not include any trawl, Danish seine or similarly towed net;
+- “the specified sea area” means that area of sea within British fishery limits lying south of lines of latitude drawn through Haverigg Point in Cumbria, in the West, and Donna Nook in Lincolnshire, in the East but excluding waters in that area which are adjacent to Northern Ireland and are not nearer to any point on the baselines from which the breadth of the territorial sea adjacent to Great Britain or the Isle of Man is measured than to any point on the corresponding Northern Irish baselines.
+
+## 2. Prohibition[^key-029b3419cd1a21db04823d29d5ca5d0c]
+
+(1) Subject to article 3 below, in the specified sea area there are hereby prohibited:—
+
+- (a) the fishing for sea fish by any [^key-aee723ae76ab7b69eefa694335471a80]... fishing boat with gill and other specifed nets of a mesh size of at least 71 millimetres[^key-80d7beb4110901c9fc77e78ca8301407] and not more than 89 millimetres; and
+- (b) the carriage by any [^key-e1b10779fa65f004ab280bf8038169ed]... fishing boat of any net of the description contained in subparagraph (a) above.
+
+(2) For the purposes of this Article the mesh size shall be measured in accordance with the provisions of[^key-06e7aea980b587669307b0ea9b8c1e6f] [Commission Regulation (EC) No 517/2008](https://www.legislation.gov.uk/european/regulation/2008/0517) laying down detailed rules for the implementation of Council Regulation [(EC) No 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) as regards the determination of the mesh size and assessing the thickness of twine of fishing nets.
+
+## 3. Exemption[^key-03712dcb7f8967b7adc13157e7842359]
+
+Article 2 of this Order shall not apply to:—
+
+- (a) the carriage of gill or other specified nets which are properly lashed and stowed during carriage in such a way that they cannot readily be used; or
+- (b)[^key-cdd6e3aa06a8d37bbc7f52a76ae51cf4] The carriage of drift nets, beach seines, and ring nets or the use of such nets where they are attended in that area of sea bounded by a line beginning at the southernmost point of Portland Bill (002°27'18" west longitude); thence due south to 050°30'00" north latitude; thence due east to 000°47'06" west longitude; thence due north to the southernmost tip of Selsey Bill.
+
+## 4. Powers of British sea-fishery officers in relation to fishing boats[^key-7fc66429b9bfaff0a0c6ab524daab368]
+
+(1) For the purpose of the enforcement of article 2 of this Order a British sea-fishery officer may exercise [^key-12576294bc4fb3a62de59bdd5e5e025f]... the powers conferred by paragraphs (2) to (4) of this Article—[^key-3823a784d653200323cb7f2cbbb460b9]
+
+- (a) in relation to a British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and
+- (b) in relation to any other fishing boat, in any waters adjacent to the United Kingdom and within British fishery limits.
+
+(2) He may go on board the boat, with or without persons assigned to assist him in his duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
+
+(3) He may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to him to be necessary for the purpose mentioned in paragraph (1) of this Article and, in particular—
+
+- (a) may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to him to be necessary for facilitating the examination;
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board which is in his custody or possession and may take copies of any such document;
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 3 or section 5 of the Act as read with this Order, may search the boat for any such document and may require any person on board the boat to do anything which appears to him to be necessary for facilitating the search; and
+- (d) where the boat is one in relation to which he has reason to suspect that such an offence has been committed, may seize and detain any such document produced to him or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence;
+
+but nothing in subparagraph (d) above shall permit any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(4) Where it appears to a British sea-fishery officer that a contravention of section 3 or section 5 of the Act as read with this Order has at any time taken place within British fishery limits, he may—
+
+- (a) require the master of the boat in relation to which the offence took place to take, or may himself take, the boat and its crew to the port which appears to him to be the nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port;
+
+and where such an officer detains or requires the detention of a boat he shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+In Witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 21st July 1989.
+
+John MacGregor
+
+Minister of Agriculture, Fisheries and Food
+
+Sanderson of Bowden
+
+Minister of State, Scottish Office
+
+Peter Walker
+
+Secretary of State for Wales
+
+Tom King
+
+Secretary of State for Northern Ireland
+
+(This note is not part of the Order)
+
+This Order prohibits fishing for sea fish in a specified area by British fishing boats using gill and other specified nets of a stipulated mesh size and the carriage by those boats of such nets in that area (article 2).
+
+Provision is made for the determination of mesh size (article 2).
+
+There is an exemption in respect of nets which are stowed during carriage so that they cannot readily be used (article 3) and for the carriage and use of drift nets, beach seines and ring nets in a particular area of the sea off the South Coast of England (article 3).
+
+British sea-fishery officers are given enforcement powers in relation to boats to which this Order applies.
+
+Offences are prescribed by sections 3(5) and 5(1) of the Sea Fish (Conservation) Act 1967 and penalties by section 11 of that Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); section 5(1) was substituted by section 22(1) of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29); section 15(3) was substituted by paragraph 38(3) of Schedule 1 to the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77); sections 3 and 15 were amended by section 9(1) of, and paragraph 16(1) of Schedule 2 to, the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86); the definition of “the Ministers” in section 22(2) was amended by sections 19(2) and 45 of the Fisheries Act 1981.
+
+[^key-7d8a9d3ba52286532d227fa61a8854ac]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1989/1284/article/1) in force at 1.1.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/1284/article/1/1)
+
+[^key-e5d4fb997d82d3f7d344e8fcc7835d6c]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/1989/1284/article/1/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/3/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-029b3419cd1a21db04823d29d5ca5d0c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1989/1284/article/2) in force at 1.1.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/1284/article/1/1)
+
+[^key-aee723ae76ab7b69eefa694335471a80]: Textual amendment: Word in [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1284/article/2/1/a) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/3/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-80d7beb4110901c9fc77e78ca8301407]: Textual amendment: Words in [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1284/article/2/1/a) substituted (15.2.1999) by [The Sea Fish (Specified Sea Area) (Regulation of Nets and Prohibition of Fishing Methods) (Variation) Order 1999 (S.I. 1999/74)](https://www.legislation.gov.uk/uksi/1999/74), [arts. 1](https://www.legislation.gov.uk/uksi/1999/74/article/1), [2(2)](https://www.legislation.gov.uk/uksi/1999/74/article/2/2)
+
+[^key-e1b10779fa65f004ab280bf8038169ed]: Textual amendment: Word in [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/1989/1284/article/2/1/b) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/3/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-06e7aea980b587669307b0ea9b8c1e6f]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/1989/1284/article/2/2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2019/526/regulation/19)
+
+[^key-03712dcb7f8967b7adc13157e7842359]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1989/1284/article/3) in force at 1.1.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/1284/article/1/1)
+
+[^key-cdd6e3aa06a8d37bbc7f52a76ae51cf4]: Textual amendment: [Art. 3(b)](https://www.legislation.gov.uk/uksi/1989/1284/article/3/b) substituted (15.2.1999) by [The Sea Fish (Specified Sea Area) (Regulation of Nets and Prohibition of Fishing Methods) (Variation) Order 1999 (S.I. 1999/74)](https://www.legislation.gov.uk/uksi/1999/74), [arts. 1](https://www.legislation.gov.uk/uksi/1999/74/article/1), [2(3)](https://www.legislation.gov.uk/uksi/1999/74/article/2/3)
+
+[^key-7fc66429b9bfaff0a0c6ab524daab368]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1989/1284/article/4) in force at 1.1.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/1284/article/1/1)
+
+[^key-12576294bc4fb3a62de59bdd5e5e025f]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1989/1284/article/4/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/3/4/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-3823a784d653200323cb7f2cbbb460b9]: Textual amendment: [Art. 4(1)(a)](https://www.legislation.gov.uk/uksi/1989/1284/article/4/1/a)[(b)](https://www.legislation.gov.uk/uksi/1989/1284/article/4/1/b) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/3/4/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

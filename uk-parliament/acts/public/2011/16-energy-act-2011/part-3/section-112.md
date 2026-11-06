@@ -1,0 +1,54 @@
+---
+title: Energy Act 2011, section 112
+act: Energy Act 2011
+section: '112'
+status: revised
+text_date: '2022-12-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2011/16/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2011, section 112
+
+> Text as at 2022-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 112. Electricity from renewable sources: National Park authorities and Broads Authority
+
+*Extent: E+W+S*
+
+(1) This section applies to a body which is a National Park authority or the Broads Authority.
+
+(2) The body may—
+
+- (a) produce electricity from a renewable source;
+- (b) establish and operate generating stations and other installations for the purpose of producing electricity from a renewable source;
+- (c) make grants or loans to enable other persons to do anything which the body may do by virtue of paragraph (a) or (b);
+- (d) use, sell or otherwise dispose of electricity produced by virtue of the powers conferred by this section.
+
+(3) A “renewable source” is—
+
+- (a) in England and Wales, a source listed in regulation 2 of the Sale of Electricity by Local Authorities (England and Wales) Regulations 2010 (S.I. 2010/1910);
+- (b) in Scotland, a source listed in regulation 2 of the Sale of Electricity by Local Authorities (Scotland) Regulations 2010 (S.I. 2010/1908).
+
+(4) Any regulations which—
+
+- (a) are made in exercise of the power conferred by section 11(3) of the Local Government (Miscellaneous Provisions) Act 1976 (power to prescribe the circumstances in which local authorities may sell electricity), and
+- (b) amend, revoke or re-enact regulation 2 of the Sale of Electricity by Local Authorities (England and Wales) Regulations 2010,
+
+may amend subsection (3)(a) for the purpose of providing what is a “renewable source” in England and Wales.
+
+(5) Any regulations which—
+
+- (a) are made in exercise of the power conferred by section 170A(3) of the Local Government (Scotland) Act 1973 (power to prescribe the circumstances in which local authorities may sell electricity), and
+- (b) amend, revoke or re-enact regulation 2 of the Sale of Electricity by Local Authorities (Scotland) Regulations 2010,
+
+may amend subsection (3)(b) for the purpose of providing what is a “renewable source” in Scotland.
+
+(6) Nothing in this section—
+
+- (a) exempts a body from the requirements of Part 1 of the Electricity Act 1989, or
+- (b) affects what a body has power to do apart from this section.

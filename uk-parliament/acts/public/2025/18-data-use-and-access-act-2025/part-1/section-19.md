@@ -1,0 +1,63 @@
+---
+title: Data (Use and Access) Act 2025, section 19
+act: Data (Use and Access) Act 2025
+section: '19'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/18/section/19
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Data (Use and Access) Act 2025, section 19
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 19. Duty to review regulations[^key-82049da6e998e9b037cfbffd9811b984][^key-8fb0415a00bdafc653bf2539ee96813e]
+
+*Extent: E+W+S+N.I.*
+
+(1) The relevant person must, by regulations, provide for the review of provision made by the relevant person in exercise of powers to make regulations under other sections in this Part (“Part 1 provision”) (but see the exceptions in subsection (8)).
+
+(2) In this section, “**the relevant person**” means—
+
+- (a) in relation to Part 1 provision made by the Secretary of State, the Secretary of State, and
+- (b) in relation to Part 1 provision made by the Treasury, the Treasury.
+
+(3) Regulations under subsection (1) must require the relevant person—
+
+- (a) to review the Part 1 provision,
+- (b) to prepare and publish a report setting out the findings of each review, and
+- (c) to lay a copy of the report before Parliament.
+
+(4) The regulations must require the relevant person—
+
+- (a) to publish the report setting out the findings of the first review of the Part 1 provision before the end of the period of 5 years beginning with the day on which the provision comes into force, and
+- (b) to publish reports setting out the findings of subsequent reviews at intervals of not more than 5 years.
+
+(5) The regulations must require that, in carrying out a review, the relevant person must consider whether the Part 1 provision remains appropriate, having regard to (among other things)—
+
+- (a) the objectives it is intended to achieve, and
+- (b) to the extent that it is part of data regulations, the matters to which the relevant person was required to have regard in deciding whether to make the provision (see sections 2(5) and 4(5)).
+
+(6) The regulations must provide that the relevant person may omit material from a report before publication if the relevant person thinks that the publication of that material might harm the commercial interests of any person.
+
+(7) The regulations may (whether made by the Secretary of State or the Treasury) provide for the Secretary of State and the Treasury to carry out a joint review, and to produce a joint report, in respect of Part 1 provision made by the Secretary of State and Part 1 provision made by the Treasury.
+
+(8) Subsection (1) does not apply in relation to—
+
+- (a) Part 1 provision that is required to be reviewed by the relevant person by virtue of existing regulations under this section, or
+- (b) Part 1 provision that makes, amends or revokes provision described in paragraph (a),
+
+nor does it require the relevant person to provide for the review of Part 1 provision that has been revoked.
+
+(9) Section 28 of the Small Business, Enterprise and Employment Act 2015 (duty to review regulatory provisions in secondary legislation) does not apply in relation to a power to make regulations under this Part.
+
+## Annotations
+
+[^key-82049da6e998e9b037cfbffd9811b984]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+
+[^key-8fb0415a00bdafc653bf2539ee96813e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/18/section/19) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

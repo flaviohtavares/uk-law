@@ -1,0 +1,475 @@
+---
+title: The Control of Waste (Dealing with Seized Property) (England and Wales) Regulations 2015
+id: uksi/2015/426
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-03'
+text_date: '2015-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/426
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/426/pdfs/uksiem_20150426_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/426/pdfs/uksi_20150426_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/426/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Waste (Dealing with Seized Property) (England and Wales) Regulations 2015
+
+> Text as at 2015-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 426
+
+Environmental Protection, England And Wales
+
+The Control of Waste (Dealing with Seized Property) (England and Wales) Regulations 2015
+
+Made
+
+3rd March 2015
+
+Laid before Parliament
+
+5th March 2015
+
+Laid before the National Assembly for Wales
+
+5th March 2015
+
+Coming into force
+
+6th April 2015
+
+The Secretary of State in relation to England, and the Welsh Ministers in relation to Wales, make these Regulations in exercise of the powers conferred by sections 5A(2) to (4), 6(1)(c) and (5) to (7) and 8(2) of the Control of Pollution (Amendment) Act 1989[^f00001] and section 34C(2) to (4) of the Environmental Protection Act 1990[^f00002].
+
+## PART 1 — General
+
+### 1. Citation, commencement and extent[^key-39e3cfdcf27e96379a96aebfb1b46956]
+
+(1) These Regulations may be cited as the Control of Waste (Dealing with Seized Property) (England and Wales) Regulations 2015 and come into force on 6th April 2015.
+
+(2) These Regulations extend to England and Wales.
+
+### 2. Interpretation[^key-445798757d31e3d1ac242e90849f4ca9]
+
+In these Regulations—
+
+- “the 1989 Act” means the Control of Pollution (Amendment) Act 1989;
+- “the 1990 Act” means the Environmental Protection Act 1990;
+- “claim period” means the period determined in accordance with regulation 10;
+- “date of seizure” means the date on which the property was seized under section 5 of the 1989 Act[^f00003] (power to require production of authority, stop and search etc.) or section 34B of the 1990 Act[^f00004] (power to search and seize vehicles etc.);
+- “date of the determination notice” means the date on which the determination notice is given in accordance with regulation 12(2)(b);
+- “date of the seizure notice” means the first working day on which the period for display of the seizure notice begins in accordance with regulation 7(1)(a)(i);
+- “determination notice” means the notice given in accordance with regulation 12(1)(c);
+- “entitled person” means a person determined under regulation 12(1)(a) as entitled to all or part of the seized property;
+- “forfeiture offence” means an offence specified in section 33C(1) of the 1990 Act (section 33 offences: forfeiture of vehicles), in respect of which an order for forfeiture can be made under subsection (2) of that section[^f00005];
+- “relevant collection period” means the period determined in accordance with regulation 12(1)(b)(ii);
+- “seizure authority” means—
+  - (a) a regulation authority[^f00006] on whose behalf property is seized under section 5 of the 1989 Act; or
+  - (b) an enforcement authority[^f00007] on whose behalf property is seized under section 34B of the 1990 Act;
+- “seizure notice” means a notice given in accordance with regulation 7(1);
+- “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00008].
+
+### 3. Notices[^key-8e6b2950b6797567cef5332e28c30067]
+
+(1) Any notice required by these Regulations to be served on or given to a person may be served or given by—
+
+- (a) personal delivery;
+- (b) leaving it at the person’s proper address; or
+- (c) sending it by post or by electronic means to the person’s proper address.
+
+(2) Any such notice may—
+
+- (a) in the case of a body corporate, be served on or given to the secretary or clerk;
+- (b) in the case of a partnership, be served on or given to a partner or a person having control or management of the partnership business.
+
+(3) For the purposes of this regulation, “proper address” means—
+
+- (a) in the case of a body corporate or its secretary or clerk—
+  - (i) the registered or principal office of that body; or
+  - (ii) the email address of the secretary or clerk;
+- (b) in the case of a partnership or a partner or person having control or management of the partnership business—
+  - (i) the principal office of the partnership; or
+  - (ii) the email address of a partner or a person having that control or management;
+- (c) in any other case, a person’s last known address, including an email address.
+
+(4) For the purposes of this regulation, the principal office of a company registered outside the United Kingdom or of a partnership established outside the United Kingdom is its principal office in the United Kingdom.
+
+## PART 2 — General duties in relation to seized property
+
+### 4. General duty in relation to seized property[^key-e96efeafedde8cd3dde918ffbc3fef53]
+
+Where any property is seized on behalf of a seizure authority under section 5 of the 1989 Act or section 34B of the 1990 Act, the seizure authority must deal with the seized property in accordance with these Regulations.
+
+### 5. Duty of safe custody[^key-5b8a492fa776ea3b50c6daf81f136a0e]
+
+A seizure authority must keep the seized property in safe custody until—
+
+- (a) any duty to return under regulation 14, 15(2)(b), 16(2)(b) or 17(2)(c) ceases in accordance with regulation 19(1); or
+- (b) where applicable, the ability to sell, destroy or otherwise dispose of the seized property arises in accordance with regulation 21 or 22.
+
+### 6. Ascertainment of entitled person[^key-fb27c08fb5319409e2701a38b5adf394]
+
+(1) Where the seized property is a vehicle, a seizure authority must, on the date of seizure or the first working day after that date—
+
+- (a) request information as to the registered keeper of the vehicle—
+  - (i) where there is a Great Britain or Northern Ireland registration mark, from the Driver and Vehicle Licensing Agency;
+  - (ii) where there is a foreign registration mark, from the relevant authority in the country of registration; and
+- (b) take reasonable steps to identify whether the vehicle is subject to a hire-purchase agreement and, if so, to identify the person entitled to possession of the vehicle under that agreement.
+
+(2) In this regulation, “hire-purchase agreement” has the meaning given in section 189(1) of the Consumer Credit Act 1974[^f00009] (definitions).
+
+### 7. Notice of seizure[^key-bf4db4a3aa7183faa755751d3cec0039]
+
+(1) A seizure authority must give notice of the seizure of property under section 5 of the 1989 Act or under section 34B of the 1990 Act by—
+
+- (a) displaying a notice at the office of the seizure authority on whose behalf the seizure was made, for the period—
+  - (i) beginning with the first working day after the date of seizure; and
+  - (ii) ending 15 working days after that date; and
+- (b) publishing such notice in a newspaper or on the seizure authority’s website in accordance with regulation 8.
+
+(2) A seizure notice must contain the following information—
+
+- (a) a brief description of the seized property, including any registration mark;
+- (b) the time and place where the property was seized;
+- (c) the power under which the property was seized;
+- (d) the name and contact details, including the address, of the seizure authority;
+- (e) the address and contact details of where to claim entitlement to the property (if different from that given under sub-paragraph (d));
+- (f) the claim period;
+- (g) an explanation of the evidence that a claimant will need to provide to the seizure authority to establish entitlement to the seized property in accordance with regulation 11; and
+- (h) an explanation that the seized property can be sold, destroyed or otherwise disposed of in accordance with regulation 21 if it is not claimed within the claim period or if a claimant who brought a claim within such period is not determined as entitled.
+
+### 8. Publication of seizure notice[^key-08af0f2cc32d52ce9fb8434793a06c5c]
+
+The requirements in relation to publication in regulation 7(1)(b) are—
+
+- (a) where publication is in a newspaper—
+  - (i) the newspaper must be a local newspaper, or, if there is none, a local newsletter, circular or similar document, circulating within the area of the office of the seizure authority on whose behalf the seizure was made; and
+  - (ii) the seizure notice must be published on at least one occasion within the period beginning with the date of the seizure notice and ending 15 working days after that date;
+- (b) where publication is on the seizure authority’s website—
+  - (i) the website must be its only website or, if not, the website that is wholly or mainly used by the authority to publicise matters relating to waste; and
+  - (ii) the seizure notice must be published for the period beginning with the first working day after the date of the seizure notice and ending 15 working days after that date.
+
+### 9. Service of seizure notice[^key-93e626e83f4bfda7cfdd64024ac50cb2]
+
+(1) A copy of the seizure notice must be served on—
+
+- (a) the chief officer of police for the police area in which the property was seized;
+- (b) the person (if any) identified as the registered keeper under regulation 6(1)(a); and
+- (c) the person (if any) identified as entitled to possession under regulation 6(1)(b).
+
+(2) The copy of the seizure notice must be served—
+
+- (a) in the case of notice served under paragraph (1)(a) or (b), within the period beginning with the date of the seizure notice and ending 5 working days after that date;
+- (b) in the case of notice served under paragraph (1)(c), within the period beginning with the date on which the person entitled to possession was identified and ending 5 working days after that date.
+
+(3) In this regulation, “chief officer of police” has the meaning given in section 101(1) of the Police Act 1996[^f00010] (interpretation).
+
+## PART 3 — Retention and return of seized property
+
+### 10. Claim period[^key-dabded2d818ca37580a1a4801dc48160]
+
+A person may make a claim of entitlement to seized property, accompanied by the evidence required by regulation 11, within the period—
+
+- (a) beginning with the date of seizure; and
+- (b) ending 15 working days after the date of the seizure notice.
+
+### 11. Evidence for determination of entitlement[^key-1a144eb9f6d7ee8f4d7f2f3f7a1545b6]
+
+(1) The evidence accompanying a claim under regulation 10 must be sufficient to enable the seizure authority to make a determination of entitlement to the seized property and must include—
+
+- (a) the claimant’s name, address and proof of identity;
+- (b) where an agent makes the claim on behalf of their principal, the information in sub-paragraph (a) in respect of the agent and proof of authority to act as agent;
+- (c) where the seized property is a vehicle with a registration mark, and the person claiming entitlement purports to be the registered keeper of the vehicle, the registration document.
+
+(2) Where the claimant does not provide sufficient information to satisfy the requirements of paragraph (1), the seizure authority must, within the period beginning with the date on which the claim is made under regulation 10 and ending 1 working day after that date, require the claimant to provide such information within 2 further working days.
+
+### 12. Determination of entitlement[^key-6ebad312856701cdf97da360818ffc0d]
+
+(1) Where a claim is made which satisfies the requirements of regulation 10, a seizure authority must—
+
+- (a) determine entitlement in respect of a claim;
+- (b) where a claimant is determined as entitled, determine—
+  - (i) whether a duty to retain arises under regulation 15(2)(a) or 16(2)(a); and
+  - (ii) where such a duty does not arise, the period for collection, which is the period beginning with the date of the determination notice and ending 10 working days after that date; and
+- (c) give notice of such determination.
+
+(2) The notice under paragraph (1) must—
+
+- (a) meet the requirements of regulation 13; and
+- (b) be given within the period—
+  - (i) beginning with the date on which the claim was made and ending 3 working days after that date; or
+  - (ii) where applicable, beginning with the date on which evidence was provided in accordance with regulation 11(2) and ending 3 working days after that date.
+
+(3) Where there is more than one claim to the seized property or any part of the seized property, a seizure authority must determine under paragraph (1) which person is entitled to such property (including any part of that property) on the basis of the evidence provided to the authority.
+
+### 13. Content of determination notice[^key-8ae839802ca1166198389505698fd519]
+
+The determination notice must state—
+
+- (a) where the determination is of entitlement to all or part of the seized property—
+  - (i) the determination of entitlement;
+  - (ii) the property to which the determination relates; and
+  - (iii) whether the property is to be—
+    - (aa) collected, where regulation 12(1)(b)(ii) applies, and accordingly the relevant collection period and details to enable collection by the claimant including contact details, the place and any times for collection;
+    - (bb) retained in accordance with regulation 15, and accordingly the determination as to retention and an explanation of the ability to retain in accordance with that regulation; or
+    - (cc) retained in accordance with regulation 16, and accordingly the determination as to retention, and the periods for retention and return as determined in accordance with that regulation;
+- (b) where the determination is that a person is not entitled to all or part of the seized property—
+  - (i) the determination that the claimant is not entitled;
+  - (ii) the property to which the determination relates; and
+  - (iii) an explanation that the seized property can be sold, destroyed or otherwise disposed of in accordance with regulation 21.
+
+### 14. Return of seized property[^key-b275d920d5603d7ec51300f25e1c81bc]
+
+Where a seizure authority has made a determination in accordance with regulation 12(1)(b)(ii), it is under a duty to return the seized property by enabling the entitled person to collect the seized property to which that person is entitled within the relevant collection period.
+
+### 15. Retention and return when court proceedings have been commenced[^key-e60c10fbcfabb1781f581e5afe44e2a2]
+
+(1) A seizure authority must deal with seized property in accordance with paragraph (2) where—
+
+- (a) before the date of the determination notice, the authority has commenced proceedings in respect of the offence, or one of the offences, in relation to which the property was seized;
+- (b) such an offence is a forfeiture offence; and
+- (c) the authority is of the opinion that it is necessary to retain the seized property in respect of such proceedings.
+
+(2) The duty in relation to the seized property is to—
+
+- (a) retain it during the continuance of such proceedings while the seizure authority is of the opinion in paragraph (1)(c); and
+- (b) return it in accordance with regulation 18.
+
+### 16. Retention and return when an offence is being investigated[^key-e8618c75ecbdf91fea6d1af02eebd104]
+
+(1) A seizure authority must deal with seized property in accordance with paragraph (2) where—
+
+- (a) before the date of the determination notice, the authority is investigating an offence in respect of which the property was seized; and
+- (b) the authority is of the opinion that it is necessary to retain the property in order to investigate the offence.
+
+(2) The duty in relation to the seized property is to—
+
+- (a) retain it during the continuance of the period determined in accordance with paragraph (3) while the seizure authority is of the opinion in paragraph (1)(b); and
+- (b) return it during the period determined in accordance with paragraph (4), in accordance with regulation 18.
+
+(3) The period for retention is the period which—
+
+- (a) begins with the date of the determination notice; and
+- (b) ends no later than—
+  - (i) 15 working days after that date; or
+  - (ii) 30 working days after that date, where the seizure authority is the Environment Agency or the Natural Resources Body for Wales and the offence, or one of the offences, in respect of which the property was seized is a forfeiture offence.
+
+(4) The period for return is the period which—
+
+- (a) begins with the last day of the period in paragraph (3); and
+- (b) ends 10 working days after that date.
+
+### 17. Retention and return when court proceedings are commenced during the retention period[^key-da0b3aa1f53af6048b17819b41ed03ed]
+
+(1) A seizure authority must deal with seized property in accordance with paragraph (2) where—
+
+- (a) during the period for retention (determined in accordance with regulation 16(3)) the seizure authority has commenced court proceedings in respect of the offence, or one of the offences, in respect of which the property was seized;
+- (b) such an offence is a forfeiture offence; and
+- (c) the authority is of the opinion that it is necessary to retain the seized property in respect of such proceedings.
+
+(2) The duty is to—
+
+- (a) retain the seized property during the continuance of proceedings while the seizure authority is of the opinion in paragraph (1)(c);
+- (b) notify the entitled person of the commencement of such proceedings and of the effect of this regulation; and
+- (c) return the property in accordance with regulation 18.
+
+### 18. Duty to return arising during the retention period[^key-415f7d5e6e816e1cc413efb5bf595148]
+
+(1) Where a seizure authority retains property in accordance with regulation 15(2)(a), 16(2)(a) or 17(2)(a), it must return the seized property to the entitled person and, unless a court order provides for the return of the seized property, it must give notice of the return of the seized property in accordance with paragraph (2), where—
+
+- (a) the authority is no longer of the opinion that it is necessary to retain such property in accordance with the appropriate regulation; or
+- (b) proceedings have been discontinued or have ended.
+
+(2) A notice under paragraph (1) must be given within the period beginning with the date on which paragraph (1)(a) or (1)(b) applies and ending 1 working day after that date, and must state that the seized property may be—
+
+- (a) collected within the period beginning with the date of the notice under this regulation and ending 10 working days after that date; and
+- (b) sold, destroyed or otherwise disposed of in accordance with regulation 21, if it is not collected within that period.
+
+### 19. Ending of duty to return[^key-77f073f161cac35e8860d4e614aac667]
+
+(1) Where a duty to return has arisen under regulation 14, 15(2)(b), 16(2)(b) or 17(2)(c), the duty ceases—
+
+- (a) on the return of the seized property;
+- (b) where the court makes an order for forfeiture of the seized property; or
+- (c) where the entitled person has not collected the seized property by the end of—
+  - (i) the period determined in accordance with regulation 16(4) or, if applicable, 18(2)(a); or
+  - (ii) otherwise, the relevant collection period.
+
+(2) Where the duty to return ceases, any duties of the seizure authority applicable at that date in relation to the seized property under Part 2 or this Part cease to apply.
+
+## PART 4 — Sale, destruction and disposal of seized property
+
+### 20. Prohibition of sale etc.[^key-d63914620d3024cb33050f8bd89c9318]
+
+A seizure authority must not sell, destroy or otherwise dispose of seized property other than in accordance with this Part.
+
+### 21. Circumstances permitting sale etc.[^key-8ec2663017aa806656823c0ba7aa28d3]
+
+A seizure authority may sell, destroy or otherwise dispose of seized property where a seizure notice has been published and served in accordance with regulations 7 to 9 and—
+
+- (a) the claim period has ended and no claim was made;
+- (b) a claim was made within the claim period but the seizure authority did not determine that the claimant was entitled; or
+- (c) a duty to return arose but has ceased in accordance with regulation 19.
+
+### 22. Immediate disposal[^key-852ae57d6550b44f3395bb41d39b1428]
+
+Where the condition of any seized property requires its disposal without delay, a seizure authority may immediately dispose of such property and accordingly—
+
+- (a) the requirements of regulation 21 are dispensed with; and
+- (b) the duties placed on the seizure authority under Part 2 or 3 of these Regulations, if applicable at the time of such disposal, cease to apply.
+
+### 23. Notice of sale[^key-3341d6fc81ad9e5a7e4947e842966e74]
+
+Where a seizure authority has sold seized property in accordance with regulation 21, it must give notice of this within 10 working days of the sale—
+
+- (a) to any person notified in respect of such property under regulation 9(1)(a); and
+- (b) where the seized property is a vehicle with a Great Britain or Northern Ireland registration mark, to the Driver and Vehicle Licensing Agency.
+
+### 24. Notice of destruction or disposal[^key-7f514b0567561dae311c7d35a44e187f]
+
+Where a seizure authority has destroyed seized property in accordance with regulation 21, or disposed of such property in accordance with regulation 21 or 22, it must give notice of this within 10 working days of the destruction or disposal to any person notified in respect of such property under regulation 9(1)(a).
+
+### 25. Proceeds of sale[^key-ba1fa697bef4d197224781f95a305eb0]
+
+(1) Subject to paragraph (2), a seizure authority may use the proceeds of the sale of any seized property sold under regulation 21 towards meeting expenses incurred by the authority in exercising its functions under—
+
+- (a) section 5 or 5A of the 1989 Act; or
+- (b) section 34B or 34C of the 1990 Act.
+
+(2) A seizure authority must pay the net proceeds of sale of any seized property sold under regulation 21 to any person who, before the end of the period of three months beginning with the date on which the property is sold—
+
+- (a) provides the evidence specified in regulation 11(1); and
+- (b) satisfies the authority that at the time of the sale that person was entitled to the property.
+
+(3) Where there is more than one person who claims entitlement to the seized property or any part of the seized property under paragraph (2), a seizure authority must determine which person was entitled to such property (including any part of that property) on the basis of the evidence provided to the authority.
+
+(4) In paragraph (2), “the net proceeds of sale” means any sum by which the proceeds of the sale of the seized property exceed the total expenses incurred by the seizure authority in respect of the seizure, retention and sale of that property.
+
+## PART 5 — Revocation and saving
+
+### 26. Revocation[^key-ef348c6af22903c854e54f560af40113]
+
+The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991[^f00011] are revoked.
+
+### 27. Saving[^key-29f9f9dcc057805cf2d11c401527dd94]
+
+Notwithstanding regulation 26, the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991 continue to have effect in relation to any vehicle seized under section 6 of the 1989 Act[^f00012] (seizure and disposal of vehicles used for illegal waste disposal) before 6th April 2015.
+
+Dan Rogerson
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+3rd March 2015
+
+Carl Sargeant
+
+Minister for Natural Resources, one of the Welsh Ministers
+
+3rd March 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for how seized property must be dealt with in England and Wales, where property is seized under section 5 of the Control of Pollution (Amendment) Act [1989 (c. 14)](https://www.legislation.gov.uk/ukpga/1989/14) (“the 1989 Act”) (power to require production of authority, stop and search etc.) or section 34B of the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43) (“the 1990 Act”) (power to search and seize vehicles etc.). The Environment Agency, the Natural Resources Body for Wales and a waste collection authority (“a seizure authority”) can seize property under these powers.
+
+Part 2 sets out the general duties of a seizure authority in relation to seized property, including keeping the property in safe custody until it is returned or disposed of (regulation 5). Where the seized property is a vehicle, the seizure authority must take steps to identify the registered keeper or person entitled to possession (regulation 6). The seizure authority must take steps to inform persons who may be entitled to seized property of the seizure (regulations 7 to 9).
+
+Part 3 provides for the retention and return of seized property. The seizure authority must return it if a person has claimed the seized property within a prescribed period and the authority has determined that the person is entitled (regulations 10 to 14). If the property was seized in respect of an offence specified in section 33C(1) of the 1990 Act (section 33 offences: forfeiture of vehicles) and court proceedings are commenced in respect of such an offence, the seizure authority must retain and return the seized property in prescribed circumstances (regulations 15 and 17). If there is an investigation of an offence in respect of the seized property, the seizure authority must retain and return the property in prescribed circumstances (regulation 16). The seizure authority must return the seized property in the circumstances mentioned in regulation 18. The duty to return ends in the circumstances mentioned in regulation 19.
+
+Part 4 provides for when seized property may be sold, destroyed or disposed of. Sale, destruction or disposal of seized property is permitted where the notification requirements in Part 2 have been complied with, the claim period has ended and no valid claim has been made in accordance with Part 3, or the duty to return arose but has ceased (regulation 21). Notification of sale, destruction or disposal is required (regulations 23 and 24). Sale proceeds may be used to meet certain expenses incurred by the seizure authority but a person who can show entitlement to the property within three months of the date of sale may claim the net proceeds of sale (excluding expenses incurred in relation to the seizure, retention and sale of that property) (regulation 25).
+
+Part 5 provides for the consequential revocation of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991 ([S.I. 1991/1624](https://www.legislation.gov.uk/uksi/1991/1624)), which relate to the treatment of vehicles seized under section 6 of the 1989 Act (regulation 26). Regulation 27 provides that those Regulations continue to have effect in relation to vehicles seized under section 6 before 6th April 2015.
+
+An impact assessment has not been produced for this instrument as no impact on the costs of business is foreseen. An Explanatory Memorandum is available alongside the instrument at www.legislation.gov.uk .
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c. 14](https://www.legislation.gov.uk/ukpga/1989/14). In relation to Wales, the functions of the Secretary of State conferred by that Act were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 11, paragraph 30. Section 5A was substituted (together with section 5) for section 5 as originally enacted, in relation to England and Wales, by the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), section 37. Section 6 was amended by the 1990 Act, Schedule 15, paragraph 31 and the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 37(4), and is repealed by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425) on the same date as this instrument comes into force. Section 8(2) was amended by the Clean Neighbourhoods and Environment Act 2005, Schedule 4, paragraph 11(4). For the definition of “appropriate person”, see section 9(1) of the 1989 Act.
+
+[^f00002]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). In relation to Wales, the functions of the Secretary of State conferred by that Act were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 11, paragraph 30. Section 34C was inserted, in relation to England and Wales, by the Clean Neighbourhoods and Environment Act 2005, section 46(1). For the definition of “appropriate person”, see section 29(1A) of the 1990 Act.
+
+[^key-39e3cfdcf27e96379a96aebfb1b46956]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/426/regulation/1) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-445798757d31e3d1ac242e90849f4ca9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/426/regulation/2) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^f00003]: Footnote: Section 5 was substituted (together with section 5A), in relation to England and Wales, by the Clean Neighbourhoods and Environment Act 2005, section 37. It was amended by the 1990 Act, Schedule 15, paragraph 31.
+
+[^f00004]: Footnote: Section 34B was inserted, in relation to England and Wales, by the Clean Neighbourhoods and Environment Act 2005, section 46(1). It was amended by [S.I. 2005/2900](https://www.legislation.gov.uk/uksi/2005/2900), [2007/3538](https://www.legislation.gov.uk/uksi/2007/3538), [2010/675](https://www.legislation.gov.uk/uksi/2010/675) and [2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^f00005]: Footnote: Section 33C was inserted, in relation to England and Wales, by the Clean Neighbourhoods and Environment Act 2005, section 44(1). Section 33C(1) was substituted, in relation to England and Wales, by [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538) and amended, in relation to England and Wales, by [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675).
+
+[^f00006]: Footnote: For the definition of “regulation authority”, see section 9(1), (1A) and (1AA) of the 1989 Act.
+
+[^f00007]: Footnote: For the definition of “enforcement authority”, see section 34B(11) of the 1990 Act.
+
+[^f00008]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-8e6b2950b6797567cef5332e28c30067]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/426/regulation/3) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-e96efeafedde8cd3dde918ffbc3fef53]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/426/regulation/4) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-5b8a492fa776ea3b50c6daf81f136a0e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/426/regulation/5) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-fb27c08fb5319409e2701a38b5adf394]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/426/regulation/6) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^f00009]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^key-bf4db4a3aa7183faa755751d3cec0039]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/426/regulation/7) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-08af0f2cc32d52ce9fb8434793a06c5c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/426/regulation/8) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-93e626e83f4bfda7cfdd64024ac50cb2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/426/regulation/9) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^f00010]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
+
+[^key-dabded2d818ca37580a1a4801dc48160]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/426/regulation/10) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-1a144eb9f6d7ee8f4d7f2f3f7a1545b6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/426/regulation/11) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-6ebad312856701cdf97da360818ffc0d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/426/regulation/12) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-8ae839802ca1166198389505698fd519]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/426/regulation/13) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-b275d920d5603d7ec51300f25e1c81bc]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/426/regulation/14) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-e60c10fbcfabb1781f581e5afe44e2a2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/426/regulation/15) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-e8618c75ecbdf91fea6d1af02eebd104]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/426/regulation/16) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-da0b3aa1f53af6048b17819b41ed03ed]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/426/regulation/17) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-415f7d5e6e816e1cc413efb5bf595148]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/426/regulation/18) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-77f073f161cac35e8860d4e614aac667]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/426/regulation/19) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-d63914620d3024cb33050f8bd89c9318]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/426/regulation/20) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-8ec2663017aa806656823c0ba7aa28d3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/426/regulation/21) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-852ae57d6550b44f3395bb41d39b1428]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/426/regulation/22) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-3341d6fc81ad9e5a7e4947e842966e74]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/426/regulation/23) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-7f514b0567561dae311c7d35a44e187f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/426/regulation/24) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-ba1fa697bef4d197224781f95a305eb0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/426/regulation/25) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^key-ef348c6af22903c854e54f560af40113]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2015/426/regulation/26) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^f00011]: Footnote: [S.I. 1991/1624](https://www.legislation.gov.uk/uksi/1991/1624), amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971) and [2011/988](https://www.legislation.gov.uk/uksi/2011/988).
+
+[^key-29f9f9dcc057805cf2d11c401527dd94]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/426/regulation/27) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/426/regulation/1/1)
+
+[^f00012]: Footnote: Section 6 was amended by the 1990 Act, Schedule 15, paragraph 31 and the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 37(4), and is repealed by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425) on the same date as this instrument comes into force.

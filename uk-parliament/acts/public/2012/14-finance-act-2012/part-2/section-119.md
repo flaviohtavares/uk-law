@@ -1,0 +1,38 @@
+---
+title: Finance Act 2012, section 119
+act: Finance Act 2012
+section: '119'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/14/section/119
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2012, section 119
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 119. UK life insurance companies
+
+*Extent: E+W+S+N.I.*
+
+(1) If the assets of a UK life insurance company include securities of a class all of which would, but for this section, be regarded as one holding for the purposes of corporation tax on chargeable gains, the following pooling rules apply instead for those purposes—
+
+- (a) so many of the securities so far as matched to BLAGAB liabilities of the company are treated as a separate holding,
+- (b) so many of the securities so far as matched to other long-term business liabilities of the company are treated as a separate holding,
+- (c) so many of the securities as are held by the company for the purposes of any with-profits fund but are not matched to its long-term business liabilities are treated as a separate holding,
+- (d) so many of the securities as are held for the purposes of the company's long-term business but are not matched to its long-term business liabilities or held by it for the purposes of any with-profits funds are treated as a separate holding, and
+- (e) any remaining securities are treated as a separate holding which is held otherwise than for the purposes of the company's long-term business.
+
+(2) If the company has more than one with-profits fund within subsection (1)(c), so many of the securities as are held by it for the purposes of a particular fund but are not matched to its long-term business liabilities are treated as a separate holding for the purposes of corporation tax on chargeable gains.
+
+(3) Subsection (1) does not apply if all the income of the company's long-term business is chargeable to corporation tax on income under section 35 of CTA 2009.
+
+(4) In that case, if the company's assets include securities of a class all of which would, but for this section, be regarded as one holding for the purposes of corporation tax on chargeable gains, the following pooling rules apply instead for those purposes—
+
+- (a) so many of the securities as are held for the purposes of its long-term business are treated as a separate holding, and
+- (b) any remaining securities are treated as a separate holding which is held otherwise than for the purposes of its long-term business.

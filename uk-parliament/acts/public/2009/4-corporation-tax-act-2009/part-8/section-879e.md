@@ -1,0 +1,51 @@
+---
+title: Corporation Tax Act 2009, section 879E
+act: Corporation Tax Act 2009
+section: 879E
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/879E
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 879E
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 879E. Pre-FA 2019 relevant asset: the second case[^key-c843c63cb5d1d091ee6d4ea36461be9f]
+
+*Extent: E+W+S+N.I.*
+
+(1) For the purposes of this Chapter a relevant asset of a company (“C”) is a pre-FA 2019 relevant asset if—
+
+- (a) another company acquired or created the asset during the period beginning with 8 July 2015 and ending with 31 March 2019,
+- (b) it was a chargeable intangible asset in relation to that other company at any time during the period beginning with 29 October 2018 and ending with 31 March 2019, and
+- (c) C acquired the asset on or after 1 April 2019 otherwise than in case A or case B from a person who was a related party in relation to C.
+
+(2) Case A is where—
+
+- (a) C acquired the asset from a company that was within the charge to corporation tax at the time of the acquisition, and
+- (b) the asset was not a pre-FA 2019 relevant asset in the hands of that company immediately before the acquisition.
+
+(3) Case B is where C acquired the asset from a person (“the intermediary”) who acquired the asset on or after 1 April 2019 from a third person—
+
+- (a) who was not at the time of the intermediary's acquisition a related party in relation—
+  - (i) to the intermediary, or
+  - (ii) if the intermediary was not a company, to a company in relation to which the intermediary was a related party, and
+- (b) who is not, at the time of the acquisition by C, a related party in relation to C.
+
+(4) References in this section to one person being (or not being) a related party in relation to another person are to be read as including references to the participation condition being met (or, as the case may be not being met) as between those persons.
+
+(5) References in subsection (4) to a person include a firm in a case where, for section 1259 purposes, references in this section to a company are read as references to the firm.
+
+(6) In subsection (5) “**section 1259 purposes**” means the purposes of determining under section 1259 the amount of profits or losses to be allocated to a partner in a firm.
+
+(7) Section 148 of TIOPA 2010 (when the participation condition is met) applies for the purposes of subsection (4) as it applies for the purpose of section 147(1)(b) of TIOPA 2010.
+
+## Annotations
+
+[^key-c843c63cb5d1d091ee6d4ea36461be9f]: Textual amendment: Pt. 8 Ch. 15A inserted (with effect in accordance with Sch. 9 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2019/1/schedule/9/paragraph/6)

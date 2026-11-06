@@ -1,0 +1,46 @@
+---
+title: Learning and Skills Act 2000, section 105
+act: Learning and Skills Act 2000
+section: '105'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/21/section/105
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Learning and Skills Act 2000, section 105
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 105. Qualifying arrangements.
+
+*Extent: E+W*
+
+(1) Subsection (2) applies if a provision contained in or made under an enactment requires arrangements to qualify under this section (or to qualify under it at a particular time).
+
+(2) The provision is to be taken to require the arrangements to satisfy conditions specified by the Secretary of State in regulations made under this section (or to satisfy them at the time concerned).
+
+(3) These conditions may be included—
+
+- (a) conditions as to the description of individual who may enter into arrangements;
+- (b) conditions as to the description of body with which arrangements may be made;
+- (c) conditions as to the nature of the arrangements and the way they are to be made;
+- (d) conditions requiring the arrangements to be identified by a specified name.
+
+(4) Conditions as to the description of body with which arrangements may be made may themselves specify the description or may allow the Secretary of State to specify it in a way he thinks fit.
+
+(5) The regulations may provide that a specification of a description of body with which arrangements may be made may include a requirement for bodies to have the benefit of approvals which have been given by the Secretary of State and not withdrawn.
+
+(6) The regulations may contain provision securing that an individual may not simultaneously—
+
+- (a) be a party to more than one set of arrangements which qualify under this section, or
+- (b) be a party to arrangements which qualify under this section and to arrangements falling within subsection (7).
+
+(7) Arrangements fall within this subsection if they are—
+
+- (a) arrangements which qualify under such provision of the law of Scotland as in the opinion of the Secretary of State corresponds to this section, or
+- (b) arrangements which qualify under section 106.

@@ -1,0 +1,48 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 71
+act: Taxation (International and Other Provisions) Act 2010
+section: '71'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/71
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 71
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 71. Foreign taxation of group as single entity
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsections (2) and (3) apply in relation to a claim for credit in respect of underlying tax in relation to a dividend paid by a company resident outside the United Kingdom to a company resident in the United Kingdom if, under the law of a territory outside the United Kingdom, tax is payable by any one company resident in the territory (“the responsible company”) in respect of the aggregate profits, or aggregate profits and aggregate gains, of—
+
+- (a) that company and another company resident in the territory, or
+- (b) that company and two or more other companies resident in the territory,
+
+taken together as a single taxable entity.
+
+(2) This Part, so far as relating to the determination of underlying tax in relation to any dividend paid by any of the companies mentioned in subsection (1)(a) or (b) (the “non-resident companies”) to another company (“the payee company”), has effect as if—
+
+- (a) the non-resident companies, taken together, were a single company,
+- (b) anything done by or in relation to any of the non-resident companies (including the payment of the dividend) were done by or in relation to that single company, and
+- (c) that single company were related to the payee company if the company which actually pays the dividend is related to the payee company.
+
+(3) In particular, this Part has effect as if—
+
+- (a) the relevant profits for the purposes of section 58 is a single aggregate figure in respect of that single company, and
+- (b) the tax paid in the territory by the responsible company is tax paid in the territory by that single company.
+
+(4) For the purposes of this section, a company (“X”) is related to another company (“H”) if H—
+
+- (a) controls directly or indirectly, or
+- (b) is a subsidiary of a company which controls directly or indirectly,
+
+at least 10% of the voting power in X.
+
+(5) For the purposes of subsection (4), H is a subsidiary of another company (“P”) if P controls, directly or indirectly, at least 50% of the voting power in H.

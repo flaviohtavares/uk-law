@@ -1,0 +1,112 @@
+---
+title: The Income-Related Benefits Amendment Regulations 1990
+id: uksi/1990/1657
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1990-08-08'
+text_date: '2006-03-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1657
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1657/pdfs/uksi_19901657_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1657/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income-Related Benefits Amendment Regulations 1990
+
+> Text as at 2006-03-06.
+
+1990 No. 1657
+
+HOUSING, ENGLAND AND WALES
+
+HOUSING, SCOTLAND
+
+SOCIAL SECURITY
+
+The Income-Related Benefits Amendment Regulations 1990
+
+Made
+
+8th August 1990
+
+Laid before Parliament
+
+10th August 1990
+
+Coming into force
+
+1st September 1990
+
+The Secretary of State for Social Security in exercise of powers conferred by section 20(3)(d) and (12)(d) and (h), 22(9)(b) and 84(1) of the Social Security Act 1986[^f00001] and section 166(1) to (3A) of the Social Security Act 1975[^f00002] and of all other powers enabling him in that behalf, after consultation with organisations appearing to him to be representative of authorities concerned[^f00003] and after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^f00004], hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Income-Related Benefits Amendment Regulations 1990 and shall come into force on 1st September 1990 immediately after the Social Security Benefits (Student Loans and Miscellaneous Amendments) Regulations 1990[^f00005].
+
+## 2. Amendment of the Community Charge Benefits (General) Regulations 1989
+
+(1) The Community Charge Benefits (General) Regulations 1989[^f00006] shall be amended in accordance with paragraph (2) of this regulation.
+
+(2) In paragraph 34 of Schedule 3 (income other than earnings to be disregarded) after the words “no contribution is assessed)” there shall be inserted the words “, regulation 42A(2) (treatment of student loans)”.
+
+## 3. Amendment of the Family Credit (General) Regulations 1987
+
+(1) The Family Credit (General) Regulations 1987[^f00007] shall be amended in accordance with paragraph (2) of this regulation.
+
+(2) In paragraph 29 of Schedule 2 (income other than earnings to be disregarded) after the words “where a contribution assessed)” there shall be inserted the words “, regulation 42A(2) (treatment of student loans)”.
+
+## 4. Amendment of the Housing Benefit (General) Regulations 1987[^key-7960e10e32335895133da3be686b1997]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Income Support (General) Regulations 1987
+
+(1) The Income Support (General) Regulations 1987[^f00016] shall be amended in accordance with the following provisions of this Regulation.
+
+(2)[^M_F_023c69b9-a341-453e-eaa4-9cff394aadfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^M_F_023c69b9-a341-453e-eaa4-9cff394aadfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In paragraph 36 of Schedule 9 (income other than earnings to be disregarded) after the words “where a contribution assessed)” there shall be inserted the words “, regulation 66A(2) (treatment of student loans)”.
+
+Signed by authority of the Secretary of State for Social Security
+
+Henley
+
+Parliamentary Under-Secretary of State
+
+Department of Social Security
+
+8th August 1990
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Housing Benefit (General) Regulations 1987 and the Income Support (General) Regulations 1987 by providing for deaf students entitled to certain educational awards because of their disability, to be eligible for housing benefit and income support; and by providing for the disregard on student loans to be subject to the overall £10 limit on income disregards (regulations 4 and 5). The Regulations also amend the Family Credit (General) Regulations 1987 and the Community Charge Benefits (General) Regulations 1989 in this latter respect (regulations 2 and 3).
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50); section 84(1) is an interpretation provision and is cited because of the meanings assigned to the words “prescribed” and “regulations”.
+
+[^f00002]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); section 166(3A) was inserted by section 62(1) of the Social Security Act 1986 and section 166(1) to (3A) is applied by section 83(1) of that Act.
+
+[^f00003]: Footnote: See section 61(7) of the Social Security Act 1986.
+
+[^f00004]: Footnote: See the Social Security Act 1986, section 61(1)(b) and (10). The Social Security Act [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24), Schedule 8, added a definition of “regulations” to section 61(10) of the Social Security Act 1986.
+
+[^f00005]: Footnote: S.I. [1990/1549](https://www.legislation.gov.uk/uksi/1990/1549).
+
+[^f00006]: Footnote: S.I. [1989/1321](https://www.legislation.gov.uk/uksi/1989/1321); relevant amending instruments are [1990/834](https://www.legislation.gov.uk/uksi/1990/834) and [1549](https://www.legislation.gov.uk/uksi/1990/1549).
+
+[^f00007]: Footnote: S.I. [1987/1973](https://www.legislation.gov.uk/uksi/1987/1973); relevant amending instruments are [1990/574](https://www.legislation.gov.uk/uksi/1990/574) and [1549](https://www.legislation.gov.uk/uksi/1990/1549).
+
+[^key-7960e10e32335895133da3be686b1997]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/1657/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^f00016]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are S.I. [1989/1323](https://www.legislation.gov.uk/uksi/1989/1323) and [1990/1549](https://www.legislation.gov.uk/uksi/1990/1549).
+
+[^M_F_023c69b9-a341-453e-eaa4-9cff394aadfd]: Textual amendment: Reg. 5(2)(3) revoked (7.10.1996 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [regs. 1](https://www.legislation.gov.uk/uksi/1996/206/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)

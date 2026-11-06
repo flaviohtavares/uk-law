@@ -1,0 +1,51 @@
+---
+title: Finance Act 2026, section 38
+act: Finance Act 2026
+section: '38'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/38
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2026, section 38
+
+> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 38. Anti-avoidance: reconstructions involving transfer of business
+
+*Extent: E+W+S+N.I.*
+
+(1) In section 139 (reconstruction involving transfer of business)—
+
+- (a) after subsection (4) insert—
+
+  > (4A) Subsection (4B) applies in respect of arrangements relating to a reconstruction as regards which this section applies if the main purpose, or one of the main purposes, of the arrangements is to reduce or avoid liability to capital gains tax, corporation tax or income tax.
+  >
+  > (4B) Any such reduction or avoidance that would (in the absence of this subsection) arise from such arrangements is to be counteracted by the making of such adjustments as are just and reasonable (in light of the reduction or avoidance).
+  >
+  > (4C) This includes, in an appropriate case, disapplying this section insofar as is required to counteract the reduction or avoidance.
+  >
+  > (4D) Any adjustments required to be made under subsection (4B) (whether or not by an officer of Revenue and Customs) may be made by way of—
+  >
+  > - (a) an assessment, or
+  > - (b) the modification of an assessment.
+- (b) in subsection (5)—
+  - (i) for the words from the beginning of the subsection to “operation of this section” substitute “Subsections (4A) to (4D) do not apply”;
+  - (ii) for “for bona fide” to the end of the first sentence substitute “without arrangements in respect of which subsection (4B) applies.”;
+- (c) in subsections (6) and (7), for “subsection (5)” substitute “subsection (4B)”;
+- (d) after subsection (9) insert—
+
+  > (10) In this section, “**arrangements**” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
+
+(2) The amendments made by this section have effect in relation to arrangements involving the transfer of assets of a business on or after 26 November 2025.
+
+(3) But this section does not have effect in relation to a case where—
+
+- (a) a company has made an application under section 139(5) of TCGA 1992 before 26 November 2025,
+- (b) the Commissioners for His Majesty’s Revenue and Customs have notified the company of their satisfaction under that subsection, or the tribunal has notified the company of its satisfaction under section 138(4) of TCGA 1992 (as applied by section 139(5) of that Act), in relation to the application, and
+- (c) the transfer of assets in respect of which the application was made occurs before 26 January 2026 or, if later, before the end of the period of 60 days beginning with the day on which notification mentioned in paragraph (b) was made.

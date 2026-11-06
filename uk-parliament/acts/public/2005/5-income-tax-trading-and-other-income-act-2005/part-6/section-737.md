@@ -1,0 +1,34 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 737
+act: Income Tax (Trading and Other Income) Act 2005
+section: '737'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/737
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 737
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 737. Period for which payments may be made
+
+*Extent: E+W+S+N.I.*
+
+(1) The condition in this section is that the only annual payments provided for by the policy which relate to the health or employment risk it insures against (“**the insured risk**”) are payments in respect of one or more of the following periods.
+
+(2) They are—
+
+- (a) a period throughout which an illness, disability, infirmity or defect insured against by the part of the policy relating to the insured risk continues,
+- (b) a period throughout which, in circumstances insured against by the part of the policy relating to the insured risk, the insured is unemployed, does not hold an office or is not carrying on a trade, profession or vocation,
+- (c) a period throughout which, in circumstances insured against by the part of the policy relating to the insured risk, the insured's income is less than it would otherwise have been, and
+- (d) where a period within paragraph (a), (b) or (c) ends with the death of the insured, a period immediately following that period.
+
+(3) For the purposes of subsection (2)(a), an illness, disability, infirmity or defect is treated as continuing during a period of convalescence or rehabilitation related to it.
+
+(4) For the purposes of subsection (2)(c), income from the policy is ignored.

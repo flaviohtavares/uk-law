@@ -1,0 +1,699 @@
+---
+title: The INSPIRE (Amendment) (EU Exit) Regulations 2018
+id: uksi/2018/1338
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-12-04'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1338
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1338/pdfs/uksiem_20181338_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1338/pdfs/uksi_20181338_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1338/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The INSPIRE (Amendment) (EU Exit) Regulations 2018
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1338
+
+Exiting The European Union
+
+Environmental Protection
+
+Public Sector Information
+
+The INSPIRE (Amendment) (EU Exit) Regulations 2018
+
+Sift requirements satisfied
+
+21st November 2018
+
+Made
+
+4th December 2018
+
+Laid before Parliament
+
+12th December 2018
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23488701].
+
+The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement[^c23518201]
+
+These Regulations may be cited as the INSPIRE (Amendment) (EU Exit) Regulations 2018 and come into force on exit day.
+
+## PART 2 — AMENDMENT OF THE INSPIRE REGULATIONS 2009
+
+### 2. Introductory[^c23518211]
+
+The INSPIRE Regulations 2009 [^c23488711] are amended in accordance with this Part.
+
+### 3. Amendment of regulation 2 (interpretation)[^c23518221]
+
+(1) Regulation 2 is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) after the definition of “the Act”, insert—
+
+  > “**Commission Regulation (EU) No. 1089/2010**” means Commission Regulation (EU) 1089/2010 implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council as regards interoperability of spatial data sets and services;
+
+  ;
+- (b) omit the definition of “the Directive”;
+- (c) in paragraph (b) of the definition of “spatial data set”, for “Annex I, II or III to the Directive” substitute “ Annex 1, 2 or 3 to the Metadata Regulation ”.
+
+(3) Omit paragraph (2).
+
+(4) Omit paragraph (4).
+
+### 4. Amendment of regulation 6 (metadata)[^c23518231]
+
+(1) Regulation 6 is amended as follows.
+
+(2) In paragraph (2)(aa), for “Annex I to the Directive” substitute “ Annex 1 to the Metadata Regulation ”.
+
+(3) For paragraph (4) substitute—
+
+> (4) Public authorities must ensure that they have in place metadata relating to—
+>
+> - (a) spatial data sets corresponding to the themes listed in Annexes 1 to 3 to the Metadata Regulation; and
+> - (b) spatial data services relating to those data sets.
+
+.
+
+(4) Omit paragraph (5).
+
+### 5. Amendment of regulation 6A (interoperability)[^c23518241]
+
+(1) Regulation 6A is amended as follows.
+
+(2) In paragraph (1)(a), for “Annex I to the Directive” substitute “ Annex 1 to the Metadata Regulation ”.
+
+(3) For paragraph (2) substitute—
+
+> (2) The spatial data sets and spatial data services described in paragraph (1) must be available in conformity with the requirements as to the interoperability of spatial data sets and spatial data services set out in Commission Regulation (EU) No. 1089/2010.
+
+.
+
+(4) Omit paragraph (4).
+
+### 6. Amendment of regulation 7 (network services)[^c23518251]
+
+(1) Regulation 7 is amended as follows.
+
+(2) Omit paragraph (1A).
+
+(3) In paragraph (3)(ca), for “Annex I to the Directive” substitute “ Annex 1 to the Metadata Regulation ”.
+
+(4) In paragraph (3A), for “Annex I to the Directive” substitute “ Annex 1 to the Metadata Regulation ”.
+
+### 7. Amendment of regulation 8 (linking to a network)[^c23518261]
+
+In regulation 8(3)(c), for “Annex I to the Directive” substitute “ Annex 1 to the Metadata Regulation ”.
+
+### 8. Amendment of regulation 12 (data sharing between public authorities etc)[^c23518271]
+
+(1) Regulation 12 is amended as follows.
+
+(2) In paragraph (6)—
+
+- (a) for “EU legislation” substitute “ retained EU law ”;
+- (b) for “an institution or body of the EU” substitute “ a relevant body ”.
+
+(3) In paragraph (7)—
+
+- (a) omit sub-paragraphs (b) and (c);
+- (b) in sub-paragraph (d), for “EU and the United Kingdom are parties” substitute “ United Kingdom is a party ”.
+
+### 9. Substitution of regulation 14 (coordination and monitoring)[^c23518281]
+
+For regulation 14 substitute—
+
+> **14. Coordination, monitoring and reporting**
+>
+> (1) The Secretary of State must, for the purposes of ensuring compliance with these Regulations, ensure that appropriate structures and mechanisms are put in place for coordinating, across the different levels of government, the contributions of all persons with an interest in infrastructures for spatial information.
+>
+> (2) In performing the function described in paragraph (1), the Secretary of State must coordinate the contributions of, in particular, users, producers, added-value service providers and coordinating bodies, concerning the identification of relevant data sets, user needs, the provision of information on existing practices and the provision of feedback on the implementation of these Regulations and the Implementing Rules.
+>
+> (3) The Secretary of State must—
+>
+> - (a) ensure that public authorities and third parties comply with these Regulations and the Implementing Rules;
+> - (b) monitor the implementation and use of the infrastructure for spatial information for the purposes of these Regulations, and make the findings available to the public in accordance with Commission Implementing Decision (EU) 2019/1372 (“Commission Implementing Decision (EU) 2019/1372”)[^key-59089e91eb2a5a1b09367f09a3a34d37] implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards monitoring and reporting;
+> - (c) issue guidance to public authorities and third parties which are responsible for spatial data sets or spatial data services about the implementation of these Regulations.
+>
+> (4) Guidance issued under paragraph (3)(c) must include provision relating to the internal complaints procedure which authorities and third parties are required to establish under regulation 13.
+>
+> (5) In performing their functions under these Regulations, public authorities and third parties must have regard to guidance issued under paragraph (3)(c).
+>
+> (6) Public authorities and third parties must provide such information to the Secretary of State as the Secretary of State may require in order to perform the functions described in paragraphs (1) to (3).
+>
+> (7) In this regulation—
+>
+> - (a) “**Implementing Rules**” means the requirements of the Metadata Regulation, [^key-82a23d404106ad6e66a656c888a983b5]... Commission Regulation [(EC) No. 976/2009](https://www.legislation.gov.uk/eur/2009/976) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards the Network Services, Commission Regulation (EU) 1089/2010 and Commission Implementing Decision (EU) 2019/1372[^key-c64a1aa3692f91b496a896fda1da0754];
+> - (b) “**infrastructure for spatial information**” means metadata, spatial data sets and spatial data services; network services and technologies; agreements on sharing, access and use; and coordination and monitoring mechanisms, processes and procedures, established, operated or made available in accordance with, and for the purposes of, these Regulations and the Implementing Rules.
+
+.
+
+## PART 3 — Amendment of retained direct EU legislation
+
+### 10. Amendment of Commission Regulation [(EC) No. 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205)[^c23518291]
+
+(1) Commission Regulation [(EC) No. 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council as regards metadata is amended as follows.
+
+(2) In Article 1, for “Annexes I, II and III to Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ Annexes 1, 2 and 3 ”.
+
+(3) In Article 2—
+
+- (a) for “Article 3 of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ the INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009 ”;
+- (b) for “the Annex”, substitute “ Annex 4 ”.
+
+(4) In Article 3, for “the Annex”, substitute “ Annex 4 ”.
+
+(5) Omit Article 4.
+
+(6) Before the Annex, insert—
+
+> **ANNEX 1 — SPATIAL DATA THEMES CORRESPONDING WITH THE THEMES SET OUT IN ANNEX I TO DIRECTIVE [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) (IMMEDIATELY BEFORE EXIT DAY)**
+>
+> **1. Coordinate reference systems**
+>
+> Systems for uniquely referencing spatial information in space as a set of coordinates (x, y, z) and/or latitude and longitude and height, based on a geodetic horizontal and vertical datum.
+>
+> **2. Geographical grid systems**
+>
+> Harmonised multi-resolution grid with a common point of origin and standardised location and size of grid cells.
+>
+> **3. Geographical names**
+>
+> Names of areas, regions, localities, cities, suburbs, towns or settlements, or any geographical or topographical feature of public or historical interest.
+>
+> **4. Administrative units**
+>
+> Units of administration, dividing areas where jurisdiction is exercised under local, regional and national government, which are separated by administrative boundaries.
+>
+> **5. Addresses**
+>
+> Location of properties based on address identifiers, usually by road name, house number, postal code.
+>
+> **6. Cadastral parcels**
+>
+> Areas defined by cadastral registers or equivalent.
+>
+> **7. Transport networks**
+>
+> Road, rail, air and water transport networks and related infrastructure, including links between different networks.
+>
+> **8. Hydrography**
+>
+> Hydrographic elements, including marine areas and all other water bodies and items related to them, including river basins and sub-basins, where appropriate, according to the definitions set out in the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 [^c23488721], the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 [^c23488731] or, as the case may be, the Water Environment and Water Services (Scotland) Act 2003 [^c23488741], and in the form of networks.
+>
+> **9. Protected sites**
+>
+> Areas designated or managed under legislation or international law to achieve specific conservation objectives.
+>
+> **ANNEX 2 — SPATIAL DATA THEMES CORRESPONDING WITH THE THEMES SET OUT IN ANNEX II TO DIRECTIVE [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) (IMMEDIATELY BEFORE EXIT DAY)**
+>
+> **1. Elevation**
+>
+> Digital elevation models for land, ice and ocean surface, including terrestrial elevation, bathymetry and shoreline.
+>
+> **2. Land cover**
+>
+> Physical and biological cover of the Earth's surface including artificial surfaces, agricultural areas, forests, natural and semi-natural areas, wetlands and water bodies.
+>
+> **3. Orthoimagery**
+>
+> Geo-referenced image data of the Earth's surface, from either satellite or airborne sensors.
+>
+> **4. Geology**
+>
+> Geology characterised according to composition and structure, including bedrock, aquifers and geomorphology.
+>
+> **ANNEX 3 — SPATIAL DATA THEMES CORRESPONDING WITH THE THEMES SET OUT IN ANNEX III TO DIRECTIVE [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) (IMMEDIATELY BEFORE EXIT DAY)**
+>
+> **1. Statistical units**
+>
+> Units for dissemination or use of statistical information.
+>
+> **2. Buildings**
+>
+> Geographical location of buildings.
+>
+> **3. Soil**
+>
+> Soils and subsoil characterised according to depth, texture, structure and content of particles and organic material, stoniness, erosion, where appropriate mean slope and anticipated water storage capacity.
+>
+> **4. Land use**
+>
+> Territory characterised according to its current and future planned functional dimension or socio-economic purpose, including where such dimension or purpose is residential, industrial, commercial, agricultural, forestry or recreational.
+>
+> **5. Human health and safety**
+>
+> (1) Data in relation to—
+>
+> - (a) the geographical distribution of dominance of pathologies, including allergies, cancers and respiratory diseases;
+> - (b) information indicating the effect on human health or well-being of matters linked directly or indirectly to the quality of the environment.
+>
+> (2) For the purposes of sub-paragraph (1)(b)—
+>
+> - (a) “**information indicating the effect on human health**” includes biomarkers, decline of fertility and epidemics;
+> - (b) “**well-being**” includes fatigue and stress;
+> - (c) matters “linked directly to the quality of the environment” include air pollution, chemicals, depletion of the ozone layer and noise;
+> - (d) matters “linked indirectly to the quality of the environment” include food and genetically modified organisms.
+>
+> **6. Utility facilities and governmental services**
+>
+> Data in relation to—
+>
+> - (a) utility facilities, including sewage, waste management, energy supply and water supply;
+> - (b) administrative and social governmental services, including public administration, civil protection sites, schools and hospitals.
+>
+> **7. Environmental monitoring facilities**
+>
+> The location and operation of environmental monitoring facilities, including those which observe or measure emissions, the state of environmental media or other ecosystem parameters, including biodiversity and the ecological condition of vegetation, by or on behalf of a public authority.
+>
+> **8. Production and industrial facilities**
+>
+> Industrial production sites, including installations covered by any law in any part of the United Kingdom which implemented Directive [2008/1/EC](https://www.legislation.gov.uk/european/directive/2008/0001) of the European Parliament and of the Council concerning integrated pollution prevention and control, and water abstraction facilities, mining and storage sites.
+>
+> **9. Agricultural and aquaculture facilities**
+>
+> Farming equipment and production facilities, including irrigation systems, greenhouses and stables.
+>
+> **10. Population distribution — demography**
+>
+> Geographical distribution of people, including population characteristics and activity levels, aggregated by grid, region, administrative unit or other analytical unit.
+>
+> **11. Area management zones, restriction zones, regulation zones and reporting units**
+>
+> Areas or zones established, managed, regulated or used to plan, perform, monitor or control activities for the purpose of achieving specific or defined environmental objectives under an enactment, including—
+>
+> - (a) dumping sites and areas for the dumping of waste;
+> - (b) restricted areas around drinking water sources;
+> - (c) nitrate-vulnerable zones;
+> - (d) regulated fairways at sea or large inland waters;
+> - (e) noise restriction zones;
+> - (f) prospecting and mining permit areas;
+> - (g) river basin districts;
+> - (h) relevant reporting units;
+> - (i) coastal zone management areas.
+>
+> **12. Natural risk zones**
+>
+> Vulnerable areas characterised according to natural hazards, including atmospheric, hydrologic, seismic, volcanic or wildfire hazards that, because of their location, severity, and frequency, have the potential to seriously affect society.
+>
+> **13. Atmospheric conditions**
+>
+> Physical conditions in the atmosphere, including spatial data based on measurements or models (or a combination of measurements and models), including measurement locations.
+>
+> **14. Meteorological geographical features**
+>
+> Weather conditions and their measurements; precipitation, temperature, evapotranspiration, wind speed and direction.
+>
+> **15. Oceanographic geographical features**
+>
+> Physical conditions of oceans, including currents, salinity and wave heights.
+>
+> **16. Sea regions**
+>
+> Physical conditions of seas and saline water bodies divided into regions and sub-regions with common characteristics.
+>
+> **17. Bio-geographical regions**
+>
+> Areas of relatively homogeneous ecological conditions with common characteristics.
+>
+> **18. Habitats and biotopes**
+>
+> Geographical areas characterised by specific ecological conditions, processes, structure, and life support functions that physically support the organisms that live there, including terrestrial and aquatic areas distinguished by geographical, abiotic and biotic features, whether entirely natural or semi-natural.
+>
+> **19. Species distribution**
+>
+> Geographical distribution of occurrence of animal and plant species aggregated by grid, region, administrative unit or other analytical unit.
+>
+> **20. Energy resources**
+>
+> Energy resources, including hydrocarbons, hydropower, bio-energy, solar and wind, including, where relevant for structuring data, depth or height information on the extent of the resource.
+>
+> **21. Mineral resources**
+>
+> Mineral resources including metal ores and industrial minerals including, where relevant for structuring data, depth or height information on the extent of the resource..
+
+.
+
+(7) The Annex is renumbered as “ANNEX 4” and is amended in accordance with the following paragraphs.
+
+(8) In Part B—
+
+- (a) in paragraph 3, for “defined in Annex I, II or III to Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ set out in Annex 1, 2 or 3 ”;
+- (b) in paragraph 4, for “Article 11(2)(e) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 7(3)(d) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(3)(d) of the INSPIRE (Scotland) Regulations 2009 ”;
+- (c) in paragraph 5, omit “as referred to in Article 8(2)(d) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)”;
+- (d) in paragraph 6, for “Article 5(2) and Article 11(2) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulations 6(2) and 7(2)(a)(ii) and (3) of the INSPIRE Regulations 2009 or, as the case may be, regulations 7(2) and 8(2)(a)(ii) and (3) of the INSPIRE (Scotland) Regulations 2009 ”;
+- (e) in paragraph 7 (but see below for the amendments to paragraphs 7.1 and 7.2)—
+  - (i) for “Article 5(2)(a) and Article 11(2)(d) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulations 6(2)(aa) and 7(3)(ca) of the INSPIRE Regulations 2009 or, as the case may be, regulations 7(2)(aa) and 8(3)(ca) of the INSPIRE (Scotland) Regulations 2009 ”;
+  - (ii) for “adopted under Article 7(1) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ set out in Commission Regulation (EU) No. 1089/2010 of 23 November 2010 implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council as regards interoperability of spatial data sets and services ”;
+- (f) in paragraph 7.1—
+  - (i) in each place where it occurs, omit “adopted under Article 7(1) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)”;
+  - (ii) in the second sub-paragraph—
+    - (aa) after “one” insert “ of the ”;
+    - (bb) for “specification” substitute “ specifications ”;
+- (g) in paragraph 7.2, omit “adopted under Article 7(1) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)”;
+- (h) in paragraph 8.1, for “Article 5(2)(b) and Article 11(2)(f) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulations 6(2)(d) and (e) and 7(3)(e) of the INSPIRE Regulations 2009 or, as the case may be, regulations 7(2)(d) and (e) and 8(3)(e) of the INSPIRE (Scotland) Regulations 2009 ”;
+- (i) in paragraph 8.2—
+  - (i) for “Member States” substitute “ data publishers ”;
+  - (ii) for “Article 13 of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 9 of the INSPIRE Regulations 2009 or, as the case may be, regulation 10 of the INSPIRE (Scotland) Regulations 2009 ”;
+- (j) in paragraph 9, for “Article 5(2)(d) and Article 11(2)(g) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulations 6(2)(b) and 7(3)(f) of the INSPIRE Regulations 2009 or, as the case may be, regulations 7(2)(b) and 8(3)(f) of the INSPIRE (Scotland) Regulations 2009 ”;
+- (k) in paragraph 10, for “Article 5(1) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 6 of the INSPIRE Regulations 2009 or, as the case may be, regulation 7 of the INSPIRE (Scotland) Regulations 2009 ”.
+
+(9) In Part C, in the first indent, for “the Annex” substitute “ this Annex ”.
+
+(10) In Part D, in paragraph 2, in each place where it occurs—
+
+- (a) omit “Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)”;
+- (b) for “Annex I” substitute “ Annex 1 ”;
+- (c) for “Annex II” substitute “ Annex 2 ”;
+- (d) for “Annex III” substitute “ Annex 3 ”.
+
+### 11. Amendment of Commission Decision [2009/442/EC](https://www.legislation.gov.uk/eud/2009/442)[^key-bf27ea7aa5272664da0ba8e0e44a7b04]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Amendment of Commission Regulation [(EC) 976/2009](https://www.legislation.gov.uk/european/regulation/2009/0976)[^c23518311]
+
+(1) Commission Regulation [(EC) No. 976/2009](https://www.legislation.gov.uk/european/regulation/2009/0976) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council as regards the Network Services is amended as follows.
+
+(2) For Article 1 substitute—
+
+> **Article 1 — Subject matter**
+>
+> This Regulation sets out the requirements for the establishment and maintenance of the Network Services provided for in regulation 7(2) of the INSPIRE Regulations 2009 and regulation 8(2) of the INSPIRE (Scotland) Regulations 2009 and obligations related to the availability of those Services to public authorities and third parties pursuant to regulation 8 of the INSPIRE Regulations 2009 and to Scottish public authorities and third parties pursuant to regulation 9 of the INSPIRE (Scotland) Regulations 2009.
+
+(3) In Article 2—
+
+- (a) for “the Annex”, in both places where it occurs, substitute “ Annex 4 ”;
+- (b) in paragraph 5, for “Member State” substitute “appropriate authority's”;
+- (c) after paragraph 12, insert—
+
+  > **13.**
+  >
+  > “**Appropriate authority**” means—
+  >
+  > - (i) in relation to England and Wales and Northern Ireland, the Secretary of State;
+  > - (ii) in relation to Scotland, the Scottish Ministers.
+
+  .
+
+(4) Omit Articles 4 and 5.
+
+(5) In Annex 1, in the first paragraph, for “Article 12 of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 8 of the INSPIRE Regulations 2009 or, as the case may be, regulation 9 of the INSPIRE (Scotland) Regulations 2009 ”.
+
+(6) In Annex 2—
+
+- (a) in Part A—
+  - (i) in the paragraph immediately before Table 1, for “Article 11(2) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 7(3) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(3) of the INSPIRE (Scotland) Regulations 2009 ”;
+  - (ii) in Table 1—
+    - (aa) in the first place where it occurs, for “provided for in Article 7(1) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “set out in Commission Regulation (EU) No. 1089/2010 (the “implementing rules”) or the INSPIRE Regulations; and for this purpose “**INSPIRE Regulations**” means the INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009”;
+    - (bb) in the second place where it occurs, omit “provided for in Article 7(1) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)”;
+- (b) in Part B—
+  - (i) in each place where it occurs, omit “Member State”;
+  - (ii) in the paragraph immediately before Table 3, for “Article 11(1) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 7(2) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2) of the INSPIRE (Scotland) Regulations 2009 ”;
+  - (iii) in the paragraph immediately before Table 4, for “Article 12 of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 8 of the INSPIRE Regulations 2009 or, as the case may be, regulation 9 of the INSPIRE (Scotland) Regulations 2009 ”.
+
+(7) In Annex 3—
+
+- (a) in Part A—
+  - (i) in the paragraph immediately before Table 1, for “Article 11(1) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 7(2) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2) of the INSPIRE (Scotland) Regulations 2009 ”;
+  - (ii) in the paragraph immediately before Table 2, for “Article 12 of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 8 of the INSPIRE Regulations 2009 or, as the case may be, regulation 9 of the INSPIRE (Scotland) Regulations 2009 ”;
+  - (iii) in Table 2, omit “Member State”;
+  - (iv) in paragraph 4.1.1, omit “Member State”;
+- (b) in Part B, for “Annex I, point 1 of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ paragraph 1 of Annex 1 to Regulation [(EC) No. 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) ”.
+
+(8) In Annex 4, in Part A—
+
+- (a) in the paragraph immediately before Table 1, for “Article 11(1)(c) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 7(2)(c) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(c) of the INSPIRE (Scotland) Regulations 2009 ”;
+- (b) in Table 1, omit “Member State's”;
+- (c) in paragraph 5, omit “Member State's”;
+- (d) in paragraph 5.1.1, omit “Member State”.
+
+(9) In Annex 5—
+
+- (a) in the paragraph immediately before Table 1, for “Article 11(1)(d) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ regulation 7(2)(d) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(d) of the INSPIRE (Scotland) Regulations 2009 ”;
+- (b) in Table 1, omit “Member State's”;
+- (c) in paragraph 4.1.1, omit “Member State's”.
+
+### 13. Amendment of Commission Regulation (EU) No. 1089/2010[^c23518321]
+
+(1) Commission Regulation (EU) No. 1089/2010 implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council as regards interoperability of spatial data sets and services is amended as follows.
+
+(2) In Article 1, for “Annexes I, II and III to Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ Annexes 1, 2 and 3 to Commission Regulation [(EC) No. 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) ”.
+
+(3) In Article 2—
+
+- (a) in paragraph 2, for “, as referred to in Article 8 (2b) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ between spatial objects ”;
+- (b) in paragraph 3, for “of a type, as referred to in Article 8 (2c) of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ which may have an impact on the environment ”;
+- (c) in paragraph 20, for “Member States” substitute “ appropriate authority ”;
+- (d) after paragraph 38, insert—
+
+  > **39.**
+  >
+  > “**appropriate authority**” means—
+  >
+  > - (a) in relation to England and Wales and Northern Ireland, the Secretary of State;
+  > - (b) in relation to Scotland, the Scottish Ministers;
+  >
+  > **40.**
+  >
+  > any reference to a protected site designated under, or in relation to, Natura 2000 is to be read as a reference to a site which formed part of the Natura 2000 network immediately before exit day or which forms part of any similar or equivalent network under the legislation of any part of the United Kingdom after exit day.
+
+  .
+
+(4) In Article 3, for “Annexes I, II and III to Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ Annexes 1, 2 and 3 to Commission Regulation [(EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) ”.
+
+(5) In Article 4, for “meeting the conditions laid down in Article 4 of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002), Member States” substitute “ falling within regulation 4 of the INSPIRE Regulations 2009 or, as the case may be, regulation 5 of the INSPIRE (Scotland) Regulations 2009, public authorities ”.
+
+(6) In Article 8, for “Member States” substitute “ The appropriate authority ”.
+
+(7) In Article 11, for “the Annex” substitute “ Annex 4 ”.
+
+(8) Omit Article 14a.
+
+(9) Omit Article 15.
+
+(10) In Annex 1—
+
+- (a) in paragraph 7.3.3.1, in the indent relating to the “EU Air Quality Reference Component”, omit “in the context of reporting under Union legislation”;
+- (b) in paragraph 8.1.1.1, for “as those listed in the Eurostat” to “of the Council”, substitute “ listed in the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007), which came into effect on 1st January 2008 and was published in December 2009 ”[^c23488751] ;
+- (c) in paragraph 8.1.3.1—
+  - (i) for the first indent, substitute— “ — the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007); ”;
+  - (ii) in the second indent, before “Section 8” insert “ the table in paragraph 1.1 of ”;
+  - (iii) in the third indent, after “Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)” insert “ (as in force immediately before exit day) ”;
+- (d) in paragraph 8.1.3.2—
+  - (i) omit “the following code lists or other”;
+  - (ii) omit both indents.
+
+(11) In Annex 2—
+
+- (a) in the heading, for “Annex I to Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ Annex 1 to Commission Regulation [(EC) No. 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) ”;
+- (b) in paragraph 1.3.4, omit sub-paragraph 2;
+- (c) in paragraph 2.2, omit sub-paragraph (2);
+- (d) in paragraph 3.1.1, in the row of the table for “localType”, omit “, given in at least one official language of the European Union”;
+- (e) in paragraph 3.3.4, in the row of the table for—
+  - (i) “administrativeUnit”, for “Member States have and/or exercise jurisdictional rights, for local, regional and national governance” substitute “ jurisdiction is exercised under local, regional or national government ”;
+  - (ii) “protectedSite”, for “, Community and Member States'” substitute “ and national ”;
+- (f) in paragraph 4.2.1.2, in the words before the table, for “a Member State has and/or exercises jurisdictional rights, for local, regional and national governance” substitute “ jurisdiction is exercised under local, regional or national government ”;
+- (g) in paragraph 4.4, in sub-paragraph 1, for “a Member State and co-administered units” substitute “ the appropriate authority ”;
+- (h) in paragraph 5.2.4, in the words before the table, for “a Member State has and/or exercises jurisdictional rights, for local, regional and national governance” substitute “ jurisdiction is exercised under local, regional or national government ”;
+- (i) in paragraph 5.3.2, in the row of the table for “adminUnit”, for “a Member State has and/or exercises jurisdictional rights, for local, regional and national governance” substitute “ jurisdiction is exercised under local, regional or national government ”;
+- (j) in paragraph 6.1, for “Member States”, in both places, substitute “ the appropriate authority ”;
+- (k) in paragraph 6.1.4, in the row of the table for “levelName”, omit “, in at least one official language of the European Union”;
+- (l) in paragraph 7.6.1.6, in the table, omit “within a Member State”;
+- (m) in paragraph 7.7.1.15, in the row of the table for “startLane”, for “. For countries” to “left-hand traffic,” substitute “ , where ”;
+- (n) in paragraph 7.9.1, omit “within Member States”;
+- (o) in paragraph 8.7.1—
+  - (i) omit “within Member States”;
+  - (ii) for “used for reporting obligations under Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)” substitute “ , if any, that was used for reporting under Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) immediately before exit day ”;
+- (p) in paragraph, 8.7.2, for “used for reporting obligations under Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)” substitute “ , if any, that was used for reporting under Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) immediately before exit day ”;
+- (q) in paragraph, 8.7.4, for “used for reporting obligations under Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)” substitute “ , if any, that was used for reporting under Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) immediately before exit day ”;
+- (r) in paragraph 9.1.1, in the words before the table, for “, Union and Member States'” substitute “ and national ”;
+- (s) in paragraph 9.4.1—
+  - (i) in the words before the table, for “This code list may be extended by the Member States” substitute “ Data publishers may use additional codes to those set out in the list below ”;
+  - (ii) in the table, omit the row for “natura2000”;
+- (t) in paragraph 9.4.5, in the words before the table, omit “, in accordance with Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) (Habitats Directive)”.
+
+(12) In Annex 3—
+
+- (a) in the heading, for “Annex II to Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ Annex 2 to Commission Regulation [(EC) No. 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) ”;
+- (b) in paragraph 1.7.5, in point (3), for “Member State” substitute “ appropriate authority ”.
+
+(13) In Annex 4—
+
+- (a) in the heading, for “Annex III to Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ Annex 3 to Commission Regulation [(EC) No. 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) ”;
+- (b) in paragraph 1.5, omit point (2);
+- (c) in paragraph 4.7.1.1, in the words before the table—
+  - (i) for “In some Member States the actual” substitute “ The ”;
+  - (ii) for “, in other Member States” substitute “ or ”;
+- (d) in paragraph 4.7.1.2—
+  - (i) in the words before the table, omit “, or spatial planning at the Union level”;
+  - (ii) in the table, in the row for “planTypeName”, omit “that the Member State has given to the plan”;
+- (e) in paragraph 4.7.3.1, in the table—
+  - (i) in the row for “local”, in the corresponding entry in the column headed “Definition”, for “lower level of administration” to the end substitute “ ward concerned ”;
+  - (ii) in the row for “regional”, for “equivalent to NUTS2” to “established in”, substitute “ for the area described in the column for “NUTS2” in the table for the United Kingdom within Annex I of ”;
+  - (iii) in the row for “national”, for “Member State” substitute “ national ”;
+- (f) in paragraph 4.7.3.4, omit “Types of plans as defined in the Member States.”;
+- (g) in paragraph 4.8—
+  - (i) in point (4), for “Member State” substitute “ appropriate authority ”;
+  - (ii) in point (5), for “the Annex” substitute “ Annex 4 ”;
+- (h) in paragraph 5.1.5, in the words before the table, after “municipality” insert “, where “ NUTS 1 ” and “NUTS 2” mean the regions or areas of the United Kingdom within the columns headed “NUTS 1” and “NUTS 2” in the table for the United Kingdom in Annex I to Regulation [(EC) No. 1059/2003](https://www.legislation.gov.uk/european/regulation/2003/1059)”;
+- (i) in paragraph 6.9.1.1, for “scope of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009 ”;
+- (j) in paragraph 9.1—
+  - (i) in point (1), for “. According to Council Regulation [(EC) No. 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073)” substitute “ , and ”;
+  - (ii) in point (2), for “NACE Codes A.1.4. and A.1.5.” substitute “ codes A.01.4 (animal production) and A.01.5 (mixed farming) of the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007) ”;
+- (k) in paragraph 10.3.2, after the table, in the second indent, after “as specified in” insert “ Annex I (NACE Rev. 2) to ”;
+- (l) in paragraph 11.3.1., in the table—
+  - (i) in the row for “airQualityManagementZone”, for “Part of” to “that Member State” substitute “ Zone delimited ”;
+  - (ii) in the row for “noiseRestrictionZone”, for “the Directive [2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council” substitute “ the Environmental Noise (England) Regulations 2006 [^c23488761], the Environmental Noise Regulations (Northern Ireland) 2006 [^c23488771], the Environmental Noise (Scotland) Regulations 2006 [^c23488781] or, as the case may be, the Environmental Noise (Wales) Regulations 2006 [^c23488791] ”;
+  - (iii) in the row for “areaForDisposalOfWaste”—
+    - (aa) for “as defined in” substitute “ , where “**disposal**” has the meaning given in ”;
+    - (bb) after “Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)” insert “ (as in force immediately before exit day) ”;
+  - (iv) in the row for “marineRegion”, omit “international, Union, national or sub-national”;
+  - (v) in the row for “riverBasinDistrict”, omit “under Article 3(1) of Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)”;
+  - (vi) in the row for “floodUnitOfManagement”, omit “under Directive [2007/60/EC](https://www.legislation.gov.uk/european/directive/2007/0060) of the European Parliament and Council”;
+  - (vii) in the row for “waterBodyForWFD”—
+    - (aa) in the column headed “Name”, after “the Water Framework Directive ([2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060))” insert “ implementing regulations, immediately before exit day ”;
+    - (bb) in the column headed “Definition”, omit “to which the environmental objectives of the Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) must apply”;
+  - (viii) in the row for “sensitiveArea”, for “Annex II to Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271)” substitute “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 [^c23488801], the Urban Waste Water Treatment Regulations (Northern Ireland) 2007 [^c23488811] or, as the case may be, the Urban Waste Water Treatment (Scotland) Regulations 1994 [^c23488821] ”;
+  - (ix) in the row for “designatedWaters”, omit “by Member States”;
+- (m) in paragraph 11.4.1, in point (3)(b), omit “For Union legislation, the CELEX number shall be used.”;
+- (n) in paragraph 13.2.1.1, omit “in the context of reporting under Union legislation”;
+- (o) in paragraph 13.3, in point (3), omit “the EU Air Quality Reference Component,”;
+- (p) in paragraph 16.2.3—
+  - (i) in the first indent, before “Union” insert “ European ”;
+  - (ii) omit the second indent;
+- (q) in paragraph 17.4.2—
+  - (i) in the second indent—
+    - (aa) after “according to” insert “ the code list set out in ”;
+    - (bb) after “Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043)” insert “ (as in force immediately before exit day) ”;
+  - (ii) in the third indent, after “Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056)” insert “ (as in force immediately before exit day) ”;
+- (r) in paragraph 17.4.3, in the table—
+  - (i) in the columns headed “Value” and “Name”, in each place where it occurs, including where it is merged with another word, omit “Directive” and “directive”;
+  - (ii) in the column headed “Definition”—
+    - (aa) for “Annex I to Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043)” substitute “ the code list set out in Annex I to Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) (as in force immediately before exit day) ”;
+    - (bb) after “Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056)” insert “ (as in force immediately before exit day) ”;
+- (s) in paragraph 18.4.2, in the second indent—
+  - (i) for “The Unit used for” substitute “ Any unit (“the pre-exit reporting unit”) that was used immediately before exit day for the purpose of ”;
+  - (ii) after “Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043)” insert “ (as in force immediately before exit day), or any unit that is similar to, and which conveys the same information as, the pre-exit reporting unit ”;
+- (t) in paragraph 18.4.7, omit the third indent;
+- (u) in paragraph 18.4.8, in the final row of the table—
+  - (i) in the column headed “Value”, for “natureDirectives” substitute “ nature ”;
+  - (ii) in the column headed “Name”, omit “directives”;
+  - (iii) in the column headed “Definition”, for “in Directives [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147)” to the end substitute “ set out in Annexes I, II and III to Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) (Birds Directive) and Annexes I, II, IV and V to Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) (Habitats Directive), as each was in force immediately before exit day ”;
+- (v) in paragraph 19.1, omit “, in accordance with Article 2 of Directive [2009/28/EC](https://www.legislation.gov.uk/european/directive/2009/0028) of the European Parliament and of the Council”.
+
+(14) In Annex 7, in paragraph 2, for “Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002)” substitute “ INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009 ”.
+
+## PART 4 — Revocation of retained direct EU legislation and removal of EEA reference
+
+### 14. Revocation of Commission Regulation (EU) No. 268/2010[^c23518331]
+
+Commission Regulation (EU) No. 268/2010 implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council as regards the access to spatial data sets and services of the Member States by Community institutions and bodies under harmonised conditions is revoked.
+
+### 15. Amendment of Annex 20 to EEA agreement[^c23518341]
+
+In Annex 20 (environment) to the EEA agreement, so far as it forms part of domestic law (see section 3(2)(b) of the European Union (Withdrawal) Act 2018)), in Chapter 1, omit point 1jd.
+
+Thérèse Coffey
+
+Parliamentary Under Secretary of State
+
+Department for Environment Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 (c.16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union. They relate to the categories of deficiencies in retained EU law specified in section 8(2)(a), (b), (d) and (g) of that Act.
+
+Part 2 amends the INSPIRE Regulations 2009 (S.I. 2009/3157). Part 3 amends retained direct EU legislation which relates to the Regulations amended by Part 2. Part 4 revokes Commission Regulation (EU) No. 268/2010 and makes a consequential amendment to Annex 20 of the EEA agreement.
+
+A full impact assessment has not been produced for these Regulations as no, or no significant, impact on business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^c23488701]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23518201]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23518211]: Commencement: Reg. 2 in force on IP completion day, see reg. 1 and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23488711]: Marginal citation: [S.I. 2009/3157](https://www.legislation.gov.uk/uksi/2009/3157), amended by [S.I. 2012/1672](https://www.legislation.gov.uk/uksi/2012/1672).
+
+[^c23518221]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23518231]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23518241]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23518251]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23518261]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23518271]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23518281]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-59089e91eb2a5a1b09367f09a3a34d37]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2018/1338/regulation/9) substituted (31.12.2020 immediately before IP completion day) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/3/2/a)
+
+[^key-82a23d404106ad6e66a656c888a983b5]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2018/1338/regulation/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/3/2/b/i)
+
+[^key-c64a1aa3692f91b496a896fda1da0754]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2018/1338/regulation/9) substituted (31.12.2020 immediately before IP completion day) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/3/2/b/ii)
+
+[^c23518291]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23488721]: Marginal citation: [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407).
+
+[^c23488731]: Marginal citation: S.R. [2017 No. 81](https://www.legislation.gov.uk/ukcm/2017/81).
+
+[^c23488741]: Marginal citation: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3), to which there are amendments not relevant to these Regulations.
+
+[^key-bf27ea7aa5272664da0ba8e0e44a7b04]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/1338/regulation/11) omitted (31.12.2020 immediately before IP completion day) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/3/3)
+
+[^c23518311]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23518321]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23488751]: Marginal citation: Published by the Office of National Statistics. For information on how to obtain a hard copy, contact the Office for National Statistics, Classifications and Harmonisation Unit, Government Buildings, Cardiff Road, Newport, South Wales NP10 8XG (tel: +44 (0)1329 444970; email: Classifications.Helpdesk@ons.gsi.gov.uk). For an electronic copy, see: https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007.
+
+[^c23488761]: Marginal citation: [S.I. 2006/2238](https://www.legislation.gov.uk/uksi/2006/2238), relevant amending instrument [S.I. 2009/1610](https://www.legislation.gov.uk/uksi/2009/1610).
+
+[^c23488771]: Marginal citation: S.R. [2006 No. 387](https://www.legislation.gov.uk/ukcm/2006/387).
+
+[^c23488781]: Marginal citation: [S.S.I. 2006/465](https://www.legislation.gov.uk/ssi/2006/465).
+
+[^c23488791]: Marginal citation: [S.I. 2006/2629](https://www.legislation.gov.uk/uksi/2006/2629) (W.225), relevant amending instrument [S.I. 2009/47](https://www.legislation.gov.uk/uksi/2009/47) (W.15).
+
+[^c23488801]: Marginal citation: [S.I. 1994/2841](https://www.legislation.gov.uk/uksi/1994/2841), relevant amending instruments [S.I. 2003/1788](https://www.legislation.gov.uk/uksi/2003/1788) and 2013/755.
+
+[^c23488811]: Marginal citation: S.R. [2007 No. 187](https://www.legislation.gov.uk/ukcm/2007/187).
+
+[^c23488821]: Marginal citation: [S.S.I. 1994/2842](https://www.legislation.gov.uk/ssi/1994/2842), relevant amending instruments [S.S.I. 1996/973](https://www.legislation.gov.uk/ssi/1996/973) and 2003/273.
+
+[^c23518331]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23518341]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

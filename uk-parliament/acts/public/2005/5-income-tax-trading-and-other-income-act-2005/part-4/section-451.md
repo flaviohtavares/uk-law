@@ -1,0 +1,58 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 451
+act: Income Tax (Trading and Other Income) Act 2005
+section: '451'
+status: repealed
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/451
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 451
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 451. Market value of strips etc. quoted in foreign stock exchange lists[^c19865051]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force (ended 2007-07-19).**
+
+(1) This section applies if the strip or security referred to in section 450(1)—
+
+- (a) is a security, or a strip of a security, issued by or on behalf of the government of a territory outside the United Kingdom, and
+- (b) is not quoted in The Stock Exchange Daily Official List, but
+- (c) is quoted in a foreign stock exchange list.
+
+(2) The market value on any day on which the foreign stock exchange to which that list relates is open is—
+
+- (a) the lower of the two figures shown in that list for the strip or security for that day, plus
+- (b) one-quarter of the difference between those two figures.
+
+(3) The market value on any day on which the foreign stock exchange to which that list relates is closed is the lower of—
+
+- (a) its market value on the latest previous day on which that exchange is open, and
+- (b) its market value on the earliest subsequent day on which that exchange is open.
+
+(4) But subsections (2) and (3) have effect subject to any modifications that are necessary because of the form of quotation adopted in the exchange in question.
+
+(5) In particular, if a single figure only is published, that figure is to be taken as the market value.
+
+(6) If a strip or security is quoted in more than one foreign stock exchange list—
+
+- (a) any such list published for a foreign stock exchange in the territory of the issuing government is to be used for the purposes of this section in preference to any other such list, and
+- (b) any such list published for a foreign stock exchange which is regarded as the major exchange in that territory for strips or securities is to be used for those purposes in preference to any other such list.
+
+(7) In this section—
+
+- “**foreign stock exchange**” means a recognised stock exchange in a territory outside the United Kingdom on which strips are traded,
+- “**foreign stock exchange list**” means any publication which performs in the case of a foreign stock exchange a function equivalent, or broadly similar, to that performed by The Stock Exchange Daily Official List in relation to strips, and
+- “**issuing government**” means the government which issued the security mentioned in subsection (1)(a).
+
+## Annotations
+
+[^c19865051]: Textual amendment: S. 450 substituted for ss. 450, 451 (19.7.2007 with effect as stated in [Sch. 26 para. 5(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/5/2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 109](https://www.legislation.gov.uk/ukpga/2007/11/section/109), [Sch. 26 para. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/5/1)

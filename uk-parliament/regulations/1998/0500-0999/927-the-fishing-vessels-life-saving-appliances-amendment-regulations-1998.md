@@ -1,0 +1,105 @@
+---
+title: The Fishing Vessels (Life-Saving Appliances) (Amendment) Regulations 1998
+id: uksi/1998/927
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-03-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/927
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/927/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fishing Vessels (Life-Saving Appliances) (Amendment) Regulations 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 927
+
+MERCHANT SHIPPING
+
+SAFETY
+
+The Fishing Vessels (Life-Saving Appliances) (Amendment) Regulations 1998
+
+Made
+
+30th March 1998
+
+Laid before Parliament
+
+7th April 1998
+
+Coming into force
+
+1st May 1998
+
+The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of powers conferred by sections 85(1)(a) and (3), and 86(1) of that Act, and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Fishing Vessels (Life-Saving Appliances) (Amendment) Regulations 1998 and shall come into force on 1st May 1998.
+
+## 2. Purpose
+
+The purpose of these Regulations is to provide for the implementation in part of Council Directive [93/103/EC](https://www.legislation.gov.uk/european/directive/1993/0103) of 23rd November 1993[^f00002], on the introduction of minimum safety and health requirements for work on board fishing vessels.
+
+## 3. Amendment of the Fishing Vessels (Life-Saving Appliances) Regulations 1988
+
+The Fishing Vessel (Life-Saving Appliances) Regulations 1988[^f00003] shall be amended as follows:
+
+(1) In regulation 2(1) there shall be inserted, in the appropriate places, the following definitions:
+
+> - “existing vessel” means a fishing vessel which is not a new fishing vessel;
+
+> - “new fishing vessel” means a fishing vessel:
+>   - (a) for which the building or major conversion contract was placed before 23rd November 1995 (which is delivered three or more years after that date); or
+>   - (b) which is constructed on or after 23rd November 1995;
+>
+>   except that if a building or major conversion contract was placed before that date and the vessel was delivered before 23rd November 1998 the vessel shall be regarded as constructed before 23rd November 1995.
+
+(2) Between regulation 5 and regulation 6 there shall be inserted the following regulations—
+
+> **5A. Additional requirements for new vessels 15 metres and over and existing vessels of 18 metres and over**
+>
+> Regulations 5B and 5C apply only to new fishing vessels of 15 metres or more in length and to existing vessels of 18 metres or more in length.
+>
+> **5B.** All items of life-saving and survival equipment required by these Regulations shall—
+>
+> - (a) be kept in their proper locations, maintained in good working order and be available for immediate use;
+> - (b) be checked by the workers before the vessel leaves port and during the voyage;
+> - (c) be inspected at regular intervals.
+>
+> **5C.** All vessels shall be fitted with an adequate means of recovering a person from the water.
+
+(3) In regulation 8(1), for “3 or 5” then shall be substituted “3, 5, 5B or 5C”.
+
+Signed by authority of the Secretary of State for Environment, Transport and the Regions
+
+Glenda Jackson
+
+Parliamentary Under-Secretary of State
+
+Department of the Environment, Transport and Regions
+
+30th March 1998
+
+(This note is not part of the Regulations)
+
+These Regulations make requirements for life-saving appliances additional to those contained in the Fishing Vessels (Life-Saving Appliances) Regulations 1988, to put into effect requirements of Annex III, paragraphs 1-3 of European Council Directive [93/103/EC](https://www.legislation.gov.uk/european/directive/1993/0103) on the minimum safety and health requirements for work on board fishing vessels. They provide for proper stowage, maintenance and inspection of life-saving appliances on new vessels of 15 metres or more in length and on existing vessels of 18 metres or more; and require such vessels to be fitted with means of recovering persons from the water.
+
+A compliance cost assessment has been prepared and copies can be obtained from the Maritime and Coastguard Agency, Department of the Environment, Transport and the Regions, Spring Place, 105 Commercial Road, Southampton SO15 1EG. A copy has been placed in the library of each House of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00002]: Footnote: OJ No. L 307 13.12.93, p.1.
+
+[^f00003]: Footnote: S.I. [1988/38](https://www.legislation.gov.uk/uksi/1988/38).

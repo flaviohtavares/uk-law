@@ -1,0 +1,64 @@
+---
+title: Education Act 2002, section 182
+act: Education Act 2002
+section: '182'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2002/32/section/182
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education Act 2002, section 182
+
+> **Warning: changes not yet applied to this text (67).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/32
+>
+> Extent: England, Wales.
+
+## 182. Learning agreements[^key-1be72fd85b2fc786bd9e132fadb46deb][^key-f4db660f59ba70612fb4f2cb9b6d816d]
+
+*Extent: E+W*
+
+(1) For the purposes of this section, a “**learning agreement**” is a document which—
+
+- (a) specifies conditions which—
+  - (i) relate to the attendance or conduct of, or completion of assigned tasks by, a person to whom an allowance is or may become payable (in this section referred to as “**the student**”), and
+  - (ii) are either prescribed by regulations or, if regulations so provide, determined in accordance with any prescribed requirements by the person providing the relevant education or training,
+- (b) contains a declaration by the student relating to compliance with those conditions, and
+- (c) deals with such other matters as may be prescribed.
+
+(2) Regulations may require a learning agreement—
+
+- (a) to be in the prescribed form, and
+- (b) to be signed by the student and by or on behalf of such other persons as may be prescribed.
+
+(3) Without prejudice to the generality of section 181(3)(h), regulations may provide—
+
+- (a) that a person is not eligible to receive an allowance unless the person providing the relevant education or training holds a learning agreement signed by him, and
+- (b) that payment of an allowance is conditional on the person providing the relevant education or training from time to time determining that the student has complied with the learning agreement or has done so to a prescribed extent or in prescribed respects.
+
+(4) Regulations may—
+
+- (a) enable or require a learning agreement to specify targets relating to the attendance, conduct or attainments of the student, and
+- (b) enable or require the Secretary of State or the National Assembly for Wales, in any case where the person providing the relevant education or training determines that targets have been met, to make additional payments of allowance to or in respect of the student.
+
+(5) Without prejudice to the generality of section 181(3)(k), regulations may impose obligations relating to learning agreements on—
+
+- (a) the governing body of a maintained school, or
+- (b) the governing body of an institution within the further education sector.
+
+(6) Regulations may contain provision for determining the person by whom any relevant education or training is to be treated for the purposes of this section as being provided.
+
+(7) A learning agreement shall not be capable of creating any obligation in respect of whose breach any liability arises in contract or in tort.
+
+(8) In this section—
+
+- “**allowance**” means an allowance under section 181;
+- “**relevant education or training**” means the education or training referred to in that section.
+
+## Annotations
+
+[^key-1be72fd85b2fc786bd9e132fadb46deb]: Commencement: S. 182 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+
+[^key-f4db660f59ba70612fb4f2cb9b6d816d]: Commencement: S. 182 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)

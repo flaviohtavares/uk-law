@@ -1,0 +1,30 @@
+---
+title: Freedom of Information Act 2000, section 21
+act: Freedom of Information Act 2000
+section: '21'
+status: revised-with-pending-changes
+text_date: '2026-10-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2000/36/section/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Freedom of Information Act 2000, section 21
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-08. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 21. Information accessible to applicant by other means.
+
+*Extent: E+W+S+N.I.*
+
+(1) Information which is reasonably accessible to the applicant otherwise than under section 1 is exempt information.
+
+(2) For the purposes of subsection (1)—
+
+- (a) information may be reasonably accessible to the applicant even though it is accessible only on payment, and
+- (b) information is to be taken to be reasonably accessible to the applicant if it is information which the public authority or any other person is obliged by or under any enactment to communicate (otherwise than by making the information available for inspection) to members of the public on request, whether free of charge or on payment.
+
+(3) For the purposes of subsection (1), information which is held by a public authority and does not fall within subsection (2)(b) is not to be regarded as reasonably accessible to the applicant merely because the information is available from the public authority itself on request, unless the information is made available in accordance with the authority’s publication scheme and any payment required is specified in, or determined in accordance with, the scheme.

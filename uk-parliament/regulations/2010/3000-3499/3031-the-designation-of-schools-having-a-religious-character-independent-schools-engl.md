@@ -1,0 +1,113 @@
+---
+title: The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 4) Order 2010
+id: uksi/2010/3031
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-12-22'
+text_date: '2012-12-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/3031
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/3031/pdfs/uksi_20103031_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/3031/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 4) Order 2010
+
+> Text as at 2012-12-21.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 3031
+
+Education, England
+
+The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 4) Order 2010
+
+Made
+
+22nd December 2010
+
+The Secretary of State for Education makes the following Order in exercise of the powers conferred by section 69(3) of the School Standards and Framework Act 1998[^f00001], as applied in relation to independent schools by section 124B(1)[^f00002] of that Act.
+
+In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
+
+## 1. Citation[^key-2401e5ed4f26aef9f1f14c61ae22d824]
+
+This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 4) Order 2010.
+
+## 2. Interpretation[^key-23da1ef27b79e9c59047a892d99654bd]
+
+In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted.
+
+## 3. Designation of schools[^key-8cb79e17c38efb9f364e99eb5ce6a45f]
+
+(1) The schools listed in column (1) of the Schedule are designated as schools having a religious character.
+
+(2) The relevant religion or religious denomination in relation to a school listed in column (1) of the Schedule is specified in relation to that school in column (2).
+
+P S A Jones
+
+A Deputy Director in the
+
+Department for Education
+
+22nd December 2010
+
+## SCHEDULE — Schools having a religious character[^key-9823654b78ae990bb070bb43a373c98d]
+
+Article 3
+
+| *(1)*<br>*Name and postcode of school* | *(2)*<br>*Relevant religion or religious denomination* |
+| --- | --- |
+| **Birmingham** |  |
+| John Henry Newman Catholic College, B37 5GA | Roman Catholic |
+| **Bristol City** |  |
+| Oasis School Westbury, BS9 4DT | Christian |
+| **Essex** |  |
+| Trinity School, CM15 0DG | Christian |
+| **Kirklees** |  |
+| The Branch Christian School, WF13 4LA | Christian |
+| **Peterborough** |  |
+| The Peterborough School, PE3 6AP | Church of England |
+| **Salford** |  |
+| Beis Malka Belz Girls School, M7 2BT | Orthodox Jewish |
+| **Stockport** |  |
+| [^key-8637749b15182b6c3335dd43861832c5]. . . | [^key-8637749b15182b6c3335dd43861832c5]. . . |
+| **Tower Hamlets** |  |
+| Ebrahim Academy, E1 1EJ | Islam |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates the independent schools named in the Schedule as having a religious character.
+
+Under section 124A of the School Standards and Framework Act 1998, independent schools which are so designated are permitted to take account of certain religious considerations in making specified employment decisions which relate to teaching staff.
+
+Designation by this Order is not of itself a means of acquiring a religious character or of changing religious character. Designation is the recognition of certain existing attributes of the school or its governing body as described in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003 ([S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262)).
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00002]: Footnote: Section 124B was inserted by the Independent Schools (Employment of Teachers in Schools with a Religious Character) Regulations 2003 ([S.I. 2003/2037](https://www.legislation.gov.uk/uksi/2003/2037)).
+
+[^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
+
+[^key-2401e5ed4f26aef9f1f14c61ae22d824]: Commencement: Art. 1 in force at 22.12.2010
+
+[^key-23da1ef27b79e9c59047a892d99654bd]: Commencement: Art. 2 in force at 22.12.2010
+
+[^key-8cb79e17c38efb9f364e99eb5ce6a45f]: Commencement: Art. 3 in force at 22.12.2010
+
+[^key-9823654b78ae990bb070bb43a373c98d]: Commencement: Sch. in force at 22.12.2010
+
+[^key-8637749b15182b6c3335dd43861832c5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/3031/schedule) revoked (21.12.2012) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 3) Order 2012 (S.I. 2012/3174)](https://www.legislation.gov.uk/uksi/2012/3174), [art. 4](https://www.legislation.gov.uk/uksi/2012/3174/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3174/schedule/2)

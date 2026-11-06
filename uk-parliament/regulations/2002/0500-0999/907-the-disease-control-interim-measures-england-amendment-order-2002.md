@@ -1,0 +1,102 @@
+---
+title: The Disease Control (Interim Measures) (England) (Amendment) Order 2002
+id: uksi/2002/907
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-03-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/907
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/907/pdfs/uksi_20020907_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/907/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Disease Control (Interim Measures) (England) (Amendment) Order 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 907
+
+ANIMALS, ENGLAND
+
+ANIMAL HEALTH
+
+The Disease Control (Interim Measures) (England) (Amendment) Order 2002
+
+Made
+
+27th March 2002
+
+Coming into force
+
+28th March 2002
+
+The Secretary of State, in exercise of the powers conferred on her under sections 1, and 8(1) of the Animal Health Act 1981[^f00001] and of all other powers enabling her in that behalf, makes the following Order:
+
+## 1. Title, application and commencement
+
+This Order may be cited as the Disease Control (Interim Measures) (England) (Amendment) Order 2002; it applies to England and shall come into force on 28th March 2002.
+
+## 2. Amendment of the Disease Control (Interim Measures) (England) Order 2002
+
+(1) The Disease Control (Interim Measures) (England) Order 2002[^f00002] shall be amended in accordance with the following provisions of this article.
+
+(2) In article 2 in the definition of “hunting” the word “, hare” shall be added after “mink”.
+
+(3) In article 3—
+
+- (a) for sub-paragraph (2)(b)(xiii) and (xiv) there shall be substituted the following—
+
+  > - (xiii) of pigs or cattle to an artificial insemination centre;
+  > - (xiv) of pigs, sheep, goats, cattle, camelids or deer to a place for veterinary treatment provided (except in the case of pigs) that the animals will be isolated from all other animals there whilst the treatment is carried out; or
+  > - (xv) of a bull for breeding purposes; or
+
+  ;
+- (b) for sub-paragraphs (3)(i) to (k) there shall be substituted the following—
+
+  > - (i) a camelid which is returning to those premises from a trekking expedition or which is crossing them in the course of such an expedition;
+  > - (j) a lamb less than 7 days old in the circumstances described in paragraph (2)(b)(iv) above;
+  > - (k) cattle which are being returned to those premises from an artificial insemination centre; or
+  > - (l) sheep, goats, cattle, camelids or deer being returned to those premises from a place for veterinary treatment or of any offspring to which they have given birth whilst there provided those animals and such offspring have been isolated from all other animals whilst at that place.
+
+  ; and
+- (c) at the beginning of paragraph (5) the following words are inserted—
+
+  > - Except in the cases referred to in paragraphs (2)(b)(xiv), (3)(a)(i), and (3)(1) above,
+
+  .
+
+Signed on 27th March 2002
+
+Lord Whitty
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+(This note is not part of the Order)
+
+This Order amends the Disease Control (Interim Measures) (England) Order 2002 (the “principal Order”) (S.I. [2002/242](https://www.legislation.gov.uk/uksi/2002/242)).
+
+The amendments made are as follows—
+
+- (a) the definition of hunting in article 2 of the Order is amended to include a reference to “hare” (article 2(2));
+- (b) movements of sheep, goats, camelids and deer to places for veterinary treatment, provided they will be isolated from other animals whilst there, are added to the list of movements, set out in article 3(2)(b) of the principal Order, which are exempt from the standstill requirement set out and defined in article 3(1)(b) of that Order (the “standstill requirement”) (article 2(3)(a));
+- (c) the return of the animals referred to in (b) above from the place for veterinary treatment together with any offspring born there (provided they or the offspring have been isolated from other animals whilst there) is added to the list of movements set out in article 3(3) of the principal Order which are exempt from giving rise to the standstill requirement on the animals' premises of origin; (article 2(3)(b))
+- (d) the equivalent existing exemptions with regard to the standstill requirement as they apply to cattle movements to and from places for veterinary treatment are amended so as to require the cattle to be isolated from other animals whilst there (article 2(3)(a) and (b));
+- (e) the list of movements set out in article 3(3) of the principal Order which do not give rise to a standstill requirement is also amended so that the passage of a camelid through any premises on a trekking expedition will not give rise to a standstill requirement there (article 2(2)(b)); and
+- (f) the requirement (pursuant to article 3(3)(a)(i) and 3(5) of the principal Order) that pigs be isolated in approved isolation facilities on returning to their premises of origin from artificial insemination centres or places to which they have been moved for breeding or veterinary treatment, if that return is not to give rise to a standstill requirement at those premises, is replaced with a requirement that they be isolated only from all other animals at those premises for 20 days after their return (article 2(3)(c)).
+
+A regulatory impact assessment has not been prepared for this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Functions conferred under the 1981 Act on “the Ministers” (as defined in section 86 of that Act) were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) order 1999 (S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^f00002]: Footnote: S.I. [2002/242](https://www.legislation.gov.uk/uksi/2002/242).

@@ -1,0 +1,423 @@
+---
+title: The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1991
+id: uksi/1991/1175
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1991-05-10'
+text_date: '2006-03-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/1175
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/1175/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1991
+
+> Text as at 2006-03-06.
+
+1991 No. 1175
+
+SOCIAL SECURITY
+
+HOUSING, ENGLAND AND WALES
+
+HOUSING, SCOTLAND
+
+The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1991
+
+Made
+
+10th May 1991
+
+Laid before Parliament
+
+10th May 1991
+
+Coming into force
+
+11th May 1991
+
+[^c1831476]The Secretary of State for Social Security in exercise of powers conferred by sections 20(1), 22(8), 22(9)(a) to (c), 51(1)(h), 51A(1)(h) and 84(1) of the Social Security Act 1986[^c1831477], sections 22(5) and 30(1) of the Social Security Act 1989[^c1831478] and section 166(1) to (3A) of the Social Security Act 1975[^c1831479] and of all other powers enabling him in that behalf, it having appeared to him, so far as these Regulations relate to housing benefit and community charge benefits, that by reason of the urgency of the matter it is inexpedient to consult with organisations appearing to him to be representative of the authorities concerned[^c1831480], and after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^c1831481], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1991 and shall come into force on 11th May 1991.
+
+(2) In these Regulations—
+
+- “the Community Charge Benefits Regulations" means the Community Charge Benefits (General) Regulations 1989 [^c1831482];
+- “the Family Credit Regulations" means the Family Credit (General) Regulations 1987 [^c1831483];
+- “the Housing Benefit Regulations" means the Housing Benefit (General) Regulations 1987 [^c1831484];
+- “the Income Support Regulations" means the Income Support (General) Regulations 1987 [^c1831485];
+- “the Social Security (Recoupment) Regulations" means the Social Security (Recoupment) Regulations 1990 [^c1831486].
+
+## 2. Amendment of the Community Charge Benefits Regulations
+
+(1) The Community Charge Benefits Regulations shall be amended in accordance with the following paragraphs.
+
+(2) In regulation 2 (interpretation) after the definition of “the Macfarlane (Special Payments) Trust" there shall be inserted the following definition—
+
+> “the Macfarlane (Special Payments) (No. 2) Trust" means the trust of that name, established on 3rd May 1991 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia and other beneficiaries;
+
+.
+
+(3) In regulation 25(3) (notional income) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”.
+
+(4) In regulation 30(6) (income treated as capital) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”.
+
+(5) In regulation 33(3) (notional capital) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”.
+
+(6) In regulation 61(1) (evidence and information to be provided to an authority by a claimant) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”.
+
+(7) In Schedule 3 (sums to be disregarded in the calculation of income other than earnings) for paragraph 35 there shall be substituted the following new paragraph—
+
+> **35.**
+>
+> (1) Any payment made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust (“the Trusts"), or the Independent Living Fund.
+>
+> (2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+>
+> - (a) that person’s partner or former partner from whom he is not, or where that person has died was not, estranged or divorced;
+> - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+> - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+>
+> (3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+>
+> - (a) the person who is suffering from haemophilia;
+> - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+> - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+>
+> (4) Any payment by a person who is suffering from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+>
+> - (a) that person has no partner or former partner from whom he is not estranged or divorced, nor any child or young person who is or had been a member of that person’s family; and
+> - (b) the payment is made either—
+>   - (i) to that person’s parent or step-parent, or
+>   - (ii) where that person at the date of the payment is a child, a young person or a student who has not completed his full-time education and has no parent or step-parent, to his guardian,
+>
+> but only for a period from the date of the payment until the end of two years from that person’s death.
+>
+> (5) Any payment out of the estate of a person who suffered from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+>
+> - (a) that person at the date of his death (the relevant date) had no partner or former partner from whom he was not estranged or divorced, nor any child or young person who was or had been a member of his family; and
+> - (b) the payment is made either—
+>   - (i) to that person’s parent or step-parent, or
+>   - (ii) where that person at the relevant date was a child, a young person or a student who had not completed his full-time education and had no parent or step-parent, to his guardian,
+>
+> but only for a period of two years from the relevant date.
+>
+> (6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any income which derives from any payment of income or capital made under or deriving from any of the Trusts.
+
+.
+
+(8) In Schedule 4 (capital to be disregarded)—
+
+- (a) for paragraph 23 there shall be substituted the following new paragraph—
+
+  > **23.**
+  >
+  > (1) Any payment made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust (“the Trusts"), or the Independent Living Fund.
+  >
+  > (2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+  >
+  > - (a) that person’s partner or former partner from whom he is not, or where that person has died was not, estranged or divorced;
+  > - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+  > - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+  >
+  > (3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+  >
+  > - (a) the person who is suffering from haemophilia;
+  > - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+  > - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+  >
+  > (4) Any payment by a person who is suffering from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+  >
+  > - (a) that person has no partner or former partner from whom he is not estranged or divorced, nor any child or young person who is or had been a member of that person’s family; and
+  > - (b) the payment is made either—
+  >   - (i) to that person’s parent or step-parent, or
+  >   - (ii) where that person at the date of the payment is a child, a young person or a student who has not completed his full-time education and has no parent or step-parent, to his guardian,
+  >
+  > but only for a period from the date of the payment until the end of two years from that person’s death.
+  >
+  > (5) Any payment out of the estate of a person who suffered from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+  >
+  > - (a) that person at the date of his death (the relevant date) had no partner or former partner from whom he was not estranged or divorced, nor any child or young person who was or had been a member of his family; and
+  > - (b) the payment is made either—
+  >   - (i) to that person’s parent or step-parent, or
+  >   - (ii) where that person at the relevant date was a child, a young person or a student who had not completed his full-time education and had no parent or step-parent, to his guardian,
+  >
+  > but only for a period of two years from the relevant date.
+  >
+  > (6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any capital resource which derives from any payment of income or capital made under or deriving from any of the Trusts.
+
+  .
+- (b) in paragraph 32 at the end the following words shall be added “or under the Macfarlane (Special Payments) Trust or the Macfarlane (Special Payments)(No. 2) Trust".
+
+## 3. Amendment of the Family Credit Regulations
+
+(1) The Family Credit Regulations shall be amended in accordance with the following paragraphs.
+
+(2) In regulation 2 (interpretation) after the definition of “the Macfarlane (Special Payments) Trust" there shall be inserted the following definition—
+
+> “the Macfarlane (Special Payments) (No. 2) Trust" means the trust of that name, established on 3rd May 1991 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia and other beneficiaries;
+
+.
+
+(3) In regulation 26(3) (notional income) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”.
+
+(4) In regulation 31 (income treated as capital) for paragraph (3) there shall be substituted the following paragraph—
+
+> (3) Any charitable or voluntary payment which is not made or is not due to be made at regular intervals, other than a payment which is made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust or the Independent Living Fund shall be treated as capital.
+
+.
+
+(5) In regulation 34(3) (notional capital) after the words “the Macfarlane (Special Payments) Trust"there shall be inserted the words “ ,the Macfarlane (Special Payments) (No. 2) Trust ”.
+
+(6) In Schedule 2 (sums to be disregarded in the calculation of income other than earnings) for paragraph 34 there shall be substituted the following new paragraph—
+
+> **34.**
+>
+> (1) Any payment made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust (“the Trusts"), or the Independent Living Fund.
+>
+> (2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+>
+> - (a) that person’s partner or former partner from whom he is not, or where that person has died was not, estranged or divorced;
+> - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+> - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+>
+> (3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+>
+> - (a) the person who is suffering from haemophilia;
+> - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+> - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+>
+> (4) Any payment by a person who is suffering from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+>
+> - (a) that person has no partner or former partner from whom he is not estranged or divorced, nor any child or young person who is or had been a member of that person’s family; and
+> - (b) the payment is made either—
+>   - (i) to that person’s parent or step-parent, or
+>   - (ii) where that person at the date of the payment is a child, a young person or a student who has not completed his full-time education and has no parent or step-parent, to his guardian,
+>
+> but only for a period from the date of the payment until the end of two years from that person’s death.
+>
+> (5) Any payment out of the estate of a person who suffered from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+>
+> - (a) that person at the date of his death (the relevant date) had no partner or former partner from whom he was not estranged or divorced, nor any child or young person who was or had been a member of his family; and
+> - (b) the payment is made either—
+>   - (i) to that person’s parent or step-parent, or
+>   - (ii) where that person at the relevant date was a child, a young person or a student who had not completed his full-time education and had no parent or step-parent, to his guardian,
+>
+> but only for a period of two years from the relevant date.
+>
+> (6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any income which derives from any payment of income or capital made under or deriving from any of the Trusts.
+
+.
+
+(7) In Schedule 3 (capital to be disregarded)—
+
+- (a) for paragraph 23 there shall be substituted the following new paragraph—
+
+  > **23.**
+  >
+  > (1) Any payment made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust (“the Trusts"), or the Independent Living Fund.
+  >
+  > (2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+  >
+  > - (a) that person’s partner or former partner from whom he is not, or where that person has died was not, estranged or divorced;
+  > - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+  > - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+  >
+  > (3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+  >
+  > - (a) the person who is suffering from haemophilia;
+  > - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+  > - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+  >
+  > (4) Any payment by a person who is suffering from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+  >
+  > - (a) that person has no partner or former partner from whom he is not estranged or divorced, nor any child or young person who is or had been a member of that person’s family; and
+  > - (b) the payment is made either—
+  >   - (i) to that person’s parent or step-parent, or
+  >   - (ii) where that person at the date of the payment is a child, a young person or a student who has not completed his full-time education and has no parent or step-parent, to his guardian,
+  >
+  > but only for a period from the date of the payment until the end of two years from that person’s death.
+  >
+  > (5) Any payment out of the estate of a person who suffered from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+  >
+  > - (a) that person at the date of his death (the relevant date) had no partner or former partner from whom he was not estranged or divorced, nor any child or young person who was or had been a member of his family; and
+  > - (b) the payment is made either—
+  >   - (i) to that person’s parent or step-parent, or
+  >   - (ii) where that person at the relevant date was a child, a young person or a student who had not completed his full-time education and had no parent or step-parent, to his guardian,
+  >
+  > but only for a period of two years from the relevant date.
+  >
+  > (6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any capital resource which derives from any payment of income or capital made under or deriving from any of the Trusts.
+
+  ;
+- (b) in paragraph 31 at the end the following words shall be added— “or the Macfarlane (Special Payments) (No. 2) Trust".
+
+## 4. Amendment of the Housing Benefit Regulations[^key-ad298c71b589b12726b563b295ccc0e5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the Income Support Regulations
+
+(1) The Income Support Regulations shall be amended in accordance with the following paragraphs.
+
+(2) In regulation 2 (interpretation) after the definition of “the Macfarlane (Special Payments) Trust" there shall be inserted the following definition—
+
+> “the Macfarlane (Special Payments) (No. 2) Trust" means the trust of that name, established on 3rd May 1991 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia and other beneficiaries;
+
+.
+
+(3) In regulation 42(4) (notional income) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”.
+
+(4) In regulation 48(10)(c) (income treated as capital) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”.
+
+(5) In regulation 51(3) (notional capital) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”.
+
+(6) In regulation 72(1)(a) (assessment of income and capital in urgent cases)—
+
+- (a) after the words “payment of income" there shall be inserted the words “ or income in kind ”;
+- (b) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”;
+- (c) for the words “paragraph 5," there shall be substituted the words “ paragraph 5, 39(2), (3) or (4), ”.
+
+(7) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 21(2) after the words “the Macfarlane (Special Payments) Trust" there shall be inserted the words “ , the Macfarlane (Special Payments) (No. 2) Trust ”;
+- (b) for paragraph 39 there shall be substituted the following new paragraph—
+
+  > **39.**
+  >
+  > (1) Any payment made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust (“the Trusts"), or the Independent Living Fund.
+  >
+  > (2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+  >
+  > - (a) that person’s partner or former partner from whom he is not, or where that person has died was not, estranged or divorced;
+  > - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+  > - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+  >
+  > (3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced, which derives a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or fro the benefit of—
+  >
+  > - (a) the person who is suffering from haemophilia;
+  > - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+  > - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+  >
+  > (4) Any payment by a person who is suffering from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+  >
+  > - (a) that person has no partner or former partner from whom he is not estranged or divorced, nor any child or young person who is or had been a member of that person’s family; and
+  > - (b) the payment is made either—
+  >   - (i) to that person’s parent or step-parent, or
+  >   - (ii) where that person at the date of the payment is a child, a young person or a student who has not completed his full-time education and has no parent or step-parent, to his guardian,
+  >
+  > but only for a period from the date of the payment until the end of two years from that person’s death.
+  >
+  > (5) Any payment out of the estate of a person who suffered from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+  >
+  > - (a) that person at the date of his death (the relevant date) had no partner or former partner from whom he was not estranged or divorced, nor any child or young person who was or had been a member of his family; and
+  > - (b) the payment is made either—
+  >   - (i) to that person’s parent or step-parent, or
+  >   - (ii) where that person at the relevant date was a child, a young person or a student who had not completed his full-time education and had no parent or step-parent, to his guardian,
+  >
+  > but only for a period of two years from the relevant date.
+  >
+  > (6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any income which derives from any payment of income or capital made under or deriving from any of the Trusts.
+
+  .
+
+(8) In Schedule 10 (capital to be disregarded)—
+
+- (a) for paragraph 22 there shall be substituted the following new paragraph—
+
+  > **22.**
+  >
+  > (1) Any payment made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust (“the Trusts"), or the Independent Living Fund.
+  >
+  > (2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+  >
+  > - (a) that person’s partner or former partner from whom he is not, or where that person has died was not, estranged or divorced;
+  > - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+  > - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+  >
+  > (3) Any payment by or on behalf of the partner or former partner of a person who is suffering or who suffered from haemophilia provided that the partner or former partner and that person are not, or if either of them has died were not, estranged or divorced, which derives from a payment made under any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
+  >
+  > - (a) the person who is suffering from haemophilia;
+  > - (b) any child who is a member of that person’s family or who was such a member and who is a member of the claimant’s family; or
+  > - (c) any young person who is a member of that person’s family or who was such a member and who is a member of the claimant’s family.
+  >
+  > (4) Any payment by a person who is suffering from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+  >
+  > - (a) that person has no partner or former partner from whom he is not estranged or divorced, nor any child or young person who is or had been a member of that person’s family; and
+  > - (b) the payment is made either—
+  >   - (i) to that person’s parent or step-parent, or
+  >   - (ii) where that person at the date of the payment is a child, a young person or a student who has not completed his full-time education and has no parent or step-parent, to his guardian,
+  >
+  > but only for a period from the date of the payment until the end of two years from that person’s death.
+  >
+  > (5) Any payment out of the estate of a person who suffered from haemophilia, which derives from a payment under any of the Trusts to which sub-paragraph (1) refers, where—
+  >
+  > - (a) that person at the date of his death (the relevant date) had no partner or former partner from whom he was not estranged or divorced, nor any child or young person who was or had been a member of his family; and
+  > - (b) the payment is made either—
+  >   - (i) to that person’s parent or step-parent, or
+  >   - (ii) where that person at the relevant date was a child, a young person or a student who had not completed his full-time education and had no parent or step-parent, to his guardian,
+  >
+  > but only for a period of two years from the relevant date.
+  >
+  > (6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any capital resource which derives from any payment of income or capital made under or deriving from any of the Trusts.
+- (b) in paragraph 29 at the end the following words shall be added— “or the Macfarlane (Special Payments) (No. 2) Trust".
+
+## 6. Amendment of the Social Security (Recoupment) Regulations
+
+In regulation 4 of the Social Security (Recoupment) Regulations (exempt payments) [^c1831487] after paragraph (e) there shall be inserted the following paragraph—
+
+> - (ee) any payment made from the Macfarlane (Special Payments) (No. 2) Trust established on 3rd May 1991 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia and other beneficiaries;
+
+.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Nicholas Scott
+
+Minister of State,
+
+Department of Social Security
+
+10th May 1991
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Community Charge Benefits (General) Regulations 1989, the Family Credit (General) Regulations 1987, the Housing Benefit (General) Regulations 1987 and the Income Support (General) Regulations 1987 to provide that in calculating a claimant’s income and capital for determining his entitlement to those benefits payments made under the Macfarlane (Special Payments) (No. 2) Trust to haemophiliacs and other beneficiaries are to be disregarded and to provide that certain sums which derive from payments under that Trust, the Macfarlane Trust, or the Macfarlane (Special Payments) Trust are also to be disregarded.
+
+They also amend the Social Security (Recoupment) Regulations 1990 so as to exempt payments made from the Macfarlane (Special Payments) (No.2) Trust from the effects of section 22 of the Social Security Act 1989 (recovery from damages etc. of sums equivalent to benefit).
+
+## Annotations
+
+[^c1831476]: Editorial: This legislation was made on 10.05.1991 and was published on the SLDB on 06.03.1996 for the first time. Some information has now been added to the item but we have not yet completed carrying its effects into other parts of the database.
+
+[^c1831477]: Marginal citation: [1986 c.50](https://www.legislation.gov.uk/ukpga/1986/50); [section 20(1)](https://www.legislation.gov.uk/uksi/1991/1175/section/20/1) was amended and section 51A was inserted by the [Local Government Finance Act 1988 (c.41)](https://www.legislation.gov.uk/ukpga/1988/41), [Schedule 10](https://www.legislation.gov.uk/ukpga/1988/41/schedule/10), [paragraphs 2(2)](https://www.legislation.gov.uk/ukpga/1988/41/paragraph/2/2) and 8 respectively and section 84(1) is cited because of the meaning assigned to the words “prescribed" and “regulations".
+
+[^c1831478]: Marginal citation: [1989 c.24](https://www.legislation.gov.uk/ukpga/1989/24). Section 30 is cited because of the meaning assigned to the words “prescribed" and “regulations".
+
+[^c1831479]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); sub-section (3A) was inserted by section 62(1) of the Social Security Act 1986 and section 166(1) to (3A) was applied by section 83(1) of that Act.
+
+[^c1831480]: Marginal citation: See section 61(7) of the Social Security Act 1986; [section 61(7)](https://www.legislation.gov.uk/uksi/1991/1175/section/61/7) was amended by the [Local Government Finance Act 1988 (c.41)](https://www.legislation.gov.uk/ukpga/1988/41), [Schedule 10](https://www.legislation.gov.uk/ukpga/1988/41/schedule/10), [paragraph 10](https://www.legislation.gov.uk/ukpga/1988/41/paragraph/10).
+
+[^c1831481]: Marginal citation: See section 61(1)(b) and (10) of the Social Security Act 1986; the definition of “regulations" was added to section 61(10) by the [Social Security Act 1989 (c.24)](https://www.legislation.gov.uk/ukpga/1989/24), [Schedule 8](https://www.legislation.gov.uk/ukpga/1989/24/schedule/8), [paragraph 12(4)](https://www.legislation.gov.uk/ukpga/1989/24/paragraph/12/4).
+
+[^c1831482]: Marginal citation: [S.I. 1989/1321](https://www.legislation.gov.uk/uksi/1989/1321); relevant amending instruments are [S.I. 1990/834](https://www.legislation.gov.uk/uksi/1990/834) and 1773.
+
+[^c1831483]: Marginal citation: [S.I. 1987/1973](https://www.legislation.gov.uk/uksi/1987/1973); relevant amending instruments are [S.I. 1988/660](https://www.legislation.gov.uk/uksi/1988/660), 999, 1438 and 1970 and 1990/127 and 574.
+
+[^c1831484]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971); relevant amending instruments are [S.I.1988/661](https://www.legislation.gov.uk/uksi/1988/661), and 1971 and 1990/127, 546 and 1775.
+
+[^c1831485]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), 999, 1445 and 2022, 1989/534 and 1323 and 1990/127, 547 and 1776.
+
+[^c1831486]: Marginal citation: [S.I. 1990/322](https://www.legislation.gov.uk/uksi/1990/322); relevant amending instrument is [S.I. 1990/1558](https://www.legislation.gov.uk/uksi/1990/1558).
+
+[^key-ad298c71b589b12726b563b295ccc0e5]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1991/1175/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c1831487]: Marginal citation: Paragraph (e) was substituted by [S.I. 1990/1558](https://www.legislation.gov.uk/uksi/1990/1558).

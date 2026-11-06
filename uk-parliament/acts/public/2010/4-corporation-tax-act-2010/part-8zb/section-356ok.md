@@ -1,0 +1,40 @@
+---
+title: Corporation Tax Act 2010, section 356OK
+act: Corporation Tax Act 2010
+section: 356OK
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/356OK
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 356OK
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 356OK. Arrangements for avoiding tax[^key-69fcd32a640eaffd104ef40191587e9e]
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (3) applies if an arrangement has been entered into the main purpose or one of the main purposes of which is to enable a company to obtain a relevant tax advantage.
+
+(2) In subsection (1) the reference to obtaining a relevant tax advantage includes obtaining a relevant tax advantage by virtue of any provisions of double taxation arrangements, but only in a case where the relevant tax advantage is contrary to the object and purpose of the provisions of the double taxation arrangements (and subsection (3) has effect accordingly, regardless of anything in section 6(1) of TIOPA 2010).
+
+(3) The tax advantage is to be counteracted by means of adjustments.
+
+(4) For this purpose adjustments may be made (whether by an officer of Revenue and Customs or by the company) by way of an assessment, the modification of an assessment, amendment or disallowance of a claim, or otherwise.
+
+(5) In this section “**relevant tax advantage**” means a tax advantage in relation to corporation tax charged (or which would, if the tax advantage were not obtained, be charged) in respect of amounts treated as profits of a trade by virtue of this Part.
+
+(6) In this section—
+
+- “**double taxation arrangements**” means arrangements which have effect under section 2(1) of TIOPA 2010 (double taxation relief by agreement with territories outside the United Kingdom);
+- “**tax advantage**” has the meaning given by section 1139.
+
+## Annotations
+
+[^key-69fcd32a640eaffd104ef40191587e9e]: Textual amendment: Pt. 8ZB inserted (with effect in accordance with s. 81 of the amending Act and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 77(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/77/1)

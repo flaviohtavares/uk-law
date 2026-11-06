@@ -1,0 +1,49 @@
+---
+title: Registered Designs Act 1949, section 24F
+act: Registered Designs Act 1949
+section: 24F
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/24F
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Registered Designs Act 1949, section 24F
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/88
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24F. Rights and remedies of exclusive licensee[^key-1100f7756af3f614817029d759c5864c]
+
+*Extent: E+W+S+N.I.*
+
+(1) In relation to a registered design, an exclusive licensee has, except against the registered proprietor, the same rights and remedies in respect of matters occurring after the grant of the licence as if the licence had been an assignment.
+
+(2) His rights and remedies are concurrent with those of the registered proprietor; and references to the registered proprietor in the provisions of this Act relating to infringement shall be construed accordingly.
+
+(3) In an action brought by an exclusive licensee by virtue of this section a defendant may avail himself of any defence which would have been available to him if the action had been brought by the registered proprietor.
+
+(4) Where an action for infringement of the right in a registered design brought by the registered proprietor or an exclusive licensee relates (wholly or partly) to an infringement in respect of which they have concurrent rights of action, the proprietor or, as the case may be, the exclusive licensee may not, without the leave of the court, proceed with the action unless the other is either joined as a claimant or added as a defendant.
+
+(5) A registered proprietor or exclusive licensee who is added as a defendant in pursuance of subsection (4) is not liable for any costs in the action unless he takes part in the proceedings.
+
+(6) Subsections (4) and (5) do not affect the granting of interlocutory relief on the application of the registered proprietor or an exclusive licensee.
+
+(7) Where an action for infringement of the right in a registered design is brought which relates (wholly or partly) to an infringement in respect of which the registered proprietor and an exclusive licensee have concurrent rights of action—
+
+- (a) the court shall, in assessing damages, take into account—
+  - (i) the terms of the licence, and
+  - (ii) any pecuniary remedy already awarded or available to either of them in respect of the infringement;
+- (b) no account of profits shall be directed if an award of damages has been made, or an account of profits has been directed, in favour of the other of them in respect of the infringement; and
+- (c) the court shall if an account of profits is directed apportion the profits between them as the court considers just, subject to any agreement between them;
+
+and these provisions apply whether or not the proprietor and the exclusive licensee are both parties to the action.
+
+(8) The registered proprietor shall notify any exclusive licensee having concurrent rights before applying for an order under section 24C of this Act (order for delivery up of infringing article, &c); and the court may on the application of the licensee make such order under that section as it thinks fit having regard to the terms of the licence.
+
+## Annotations
+
+[^key-1100f7756af3f614817029d759c5864c]: Textual amendment: Ss. 24A-24G inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/3)

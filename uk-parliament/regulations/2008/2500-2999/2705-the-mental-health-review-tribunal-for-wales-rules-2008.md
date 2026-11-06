@@ -1,0 +1,660 @@
+---
+title: The Mental Health Review Tribunal for Wales Rules 2008
+id: uksi/2008/2705
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-10-13'
+text_date: '2022-03-25'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2008/2705
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2705/pdfs/uksiem_20082705_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2705/pdfs/uksi_20082705_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2705/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mental Health Review Tribunal for Wales Rules 2008
+
+> Text as at 2022-03-25.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 2705 (L. 17)
+
+Tribunals And Inquiries, England And Wales
+
+The Mental Health Review Tribunal for Wales Rules 2008
+
+Made
+
+13th October 2008
+
+Laid before Parliament
+
+13th October 2008
+
+Coming into force
+
+3rd November 2008
+
+The Lord Chancellor makes these Rules in exercise of the powers conferred by section 78 of the Mental Health Act 1983 [^c19450341] and after consultation with the Administrative Justice and Tribunals Council in accordance with section 8 of the Tribunals and Inquiries Act 1992 [^c19450351].
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement
+
+These Rules may be cited as the Mental Health Review Tribunal for Wales Rules 2008 and come into force on 3rd November 2008.
+
+### 2. Interpretation
+
+(1) In these Rules—
+
+- “**the Act**” means the Mental Health Act 1983;
+- “**applicant**” means a person who—
+  - (a) starts Tribunal proceedings, whether by making an application or a reference, or
+  - (b) is substituted as a party under rule 12 (substitution and addition of parties);
+- “**document**” means anything in which information is recorded in any form, and an obligation under these Rules to provide or allow access to a document or a copy of a document for any purpose means, unless the Tribunal directs otherwise, an obligation to provide or allow access to such document or copy in a legible form or in a form which can be readily made into a legible form;
+- “**final determination**” means a decision of the Tribunal which disposes of proceedings, including a decision with recommendations or a deferred decision for conditional discharge, but a refusal of an application for permission to appeal under rule 30 (application for permission to appeal) is not a final determination;
+- “**hearing**” means an oral hearing and includes a hearing conducted in whole or in part by video link, telephone or other means of instantaneous two-way electronic communication;
+- “**interested party**” means a person added as an interested party under rule 12 (substitution and addition of parties);
+- “legal representative” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act);[^key-3d4107f5a8e7607bcbc18c266773649c]
+- “**party**” means the patient, the responsible authority, the Secretary of State (if the patient is a restricted patient), the Welsh Ministers or Secretary of State in a reference under rule 15(7) (seeking approval under section 86 of the Act) and any other person who starts a case by making an application or referring a matter to the Tribunal under the Act;
+- “**registered person**” means the person or persons registered in respect of a registered establishment;
+- “**responsible authority**” means—
+  - (a) in relation to a patient detained under the Act in a hospital within the meaning of Part 2 of that Act, the managers (as defined in section 145 of the Act);
+  - (b) in relation to a patient subject to guardianship, the responsible local social services authority as defined in section 34(3) of the Act;
+  - (c) in relation to a community patient, the managers of the responsible hospital (as defined in section 145 of the Act);
+  - (d) [^key-1aaae3e14eab6f1d841ed0bfd4f537fd]...
+- “**restricted patient**” has the meaning set out in section 79(1) of the Act;
+- “**Tribunal**” means the Mental Health Review Tribunal for Wales;
+- “**working day**” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a bank holiday under section 1 of the Banking and Financial Dealings Act 1971 [^c19450371].
+
+(2) In these Rules, any reference to a rule or Schedule alone is a reference to a rule or Schedule in these Rules.
+
+### 3. Overriding objective
+
+(1) The overriding objective of these Rules is to enable the Tribunal to deal with cases fairly, justly, efficiently and expeditiously.
+
+(2) Dealing with a case in accordance with paragraph (1) includes—
+
+- (a) avoiding unnecessary formality and seeking flexibility in the proceedings;
+- (b) ensuring, so far as practicable, that the parties are able to participate fully in the proceedings;
+- (c) using any special expertise of the Tribunal effectively; and
+- (d) avoiding delay, so far as compatible with proper consideration of the issues.
+
+(3) The Tribunal must seek to give effect to the overriding objective when it—
+
+- (a) exercises any power under these Rules; or
+- (b) interprets any rule.
+
+## PART 2 — General powers and provisions
+
+### 4. Preliminary and incidental matters
+
+As regards matters preliminary or incidental to an application or reference, the President[^key-6c7c52dd33040d752f2e5839014ef780] may, at any time up to the hearing of an application or reference by the Tribunal, exercise the powers of the Tribunal under rules 5, 6, 10, 12, 13, 14, 15, 16, 17, 21, 22, 26, 28 and 29.
+
+### 5. Case management powers
+
+(1) The Tribunal may give directions at any time in relation to the conduct or disposal of proceedings.
+
+(2) In particular, and without restriction on the general power to give directions under paragraph (1) and any other provisions within these Rules, the Tribunal may by directions—
+
+- (a) extend or shorten the time for complying with any rule or direction (unless such extension or abridgement would conflict with a provision of an enactment containing a time limit [^c19450381] if—
+  - (i) the party requiring the extension or abridgement has shown a good reason why it is necessary; and
+  - (ii) the Tribunal considers the extension or abridgement to be in the interests of justice;
+- (b) permit or require a party to amend a document;
+- (c) permit or require a party or another person to provide documents, information or submissions to the Tribunal or, subject to rule 17 (withholding documents or information likely to cause harm), a party;
+- (d) provide that an issue in the proceedings will be dealt with as a preliminary issue;
+- (e) hold a hearing to consider any matter, including a case management issue;
+- (f) decide the form of any hearing;
+- (g) stay execution of its own decision pending an appeal of such decision;
+- (h) stay proceedings.
+
+(3) Rule 6 (directions) sets out the procedures for applying for and giving directions.
+
+### 6. Directions
+
+(1) The Tribunal may give a direction at any time, including a direction amending or suspending an earlier direction.
+
+(2) The Tribunal may give a direction—
+
+- (a) on the application of one or more of the parties; or
+- (b) on its own initiative.
+
+(3) An application for directions must include the reason for making that application.
+
+(4) An application for directions may be made either—
+
+- (a) by sending or delivering a written application to the Tribunal; or
+- (b) orally during the course of a hearing.
+
+(5) Unless the Tribunal considers that there is a good reason not to do so, the Tribunal must send written notice of any direction to every party and any other person affected by the direction.
+
+### 7. Failure to comply with rules or directions
+
+(1) An irregularity resulting from a failure to comply with any provision of these Rules or a direction does not of itself render void the proceedings or any step taken in the proceedings.
+
+(2) If a party has failed to comply with a requirement in these Rules or a direction, the Tribunal may take such action the Tribunal considers just, which may include—
+
+- (a) waiving the requirement; or
+- (b) requiring the failure to be remedied.
+
+### 8. Calculating time
+
+(1) An act required by these Rules or a direction to be done on or by a particular day must be done before 5pm on that day.
+
+(2) If the time specified by these Rules or a direction for doing any act ends on a day other than a working day, the act is done in time if it is done on the next working day.
+
+### 9. Sending and delivery of documents
+
+(1) Any document to be sent or delivered to the Tribunal under these Rules must be—
+
+- (a) sent by prepaid post or delivered by hand;
+- (b) sent by facsimile transmission to the number specified by the Tribunal; or
+- (c) sent or delivered by such other method as the Tribunal may permit or direct.
+
+(2) Subject to paragraph (3), a party may inform the Tribunal and all other parties that a particular form of communication (other than pre-paid post or delivery by hand) should not be used to send documents to that party.
+
+(3) If a party provides a facsimile transmission number, email address or other details for the electronic transmission of documents to them, that party must accept delivery of documents by that method.
+
+(4) Subject to paragraph (3), where any document is required or authorised by these Rules to be sent to any person it may be sent by prepaid post or delivered to the last known address of the person to whom the document is directed.
+
+### 10. Prohibitions on disclosure or publication
+
+(1) Unless the Tribunal gives a direction to the contrary, information about proceedings before the Tribunal and the names of any persons concerned in such proceedings must not be made public.
+
+(2) The Tribunal may make an order prohibiting the disclosure or publication of—
+
+- (a) specified documents or information relating to the proceedings; or
+- (b) any matter likely to lead members of the public to identify any person who the Tribunal considers should not be identified.
+
+(3) The Tribunal may use the power in paragraph (2) in order to take action under rule 17 (withholding documents or information likely to cause harm) and in such other circumstances as it considers just.
+
+### 11. Appointment of the tribunal
+
+(1) A person shall not be qualified to serve as a member of a Tribunal for the purpose of any proceedings where—
+
+- (a) that person is a member, director or registered person (as the case may be) of the responsible authority concerned in the proceedings; or
+- (b) that person is a member or director of a local health board or National Health Service trust which has the right to discharge the patient under section 23(3) of the Act; or
+- (c) the President or, as the case may be, chairman[^key-4daf12c5cf4963ee13de2a39817330b0] of the Tribunal considers that that person appears to have a conflict of interest or bias of opinion in respect of the patient, or any other member of that Tribunal or party to the proceedings, or has recently been involved with the medical treatment of the patient in a professional capacity.
+
+(2) The persons qualified to serve as chairman[^key-04ae98812bbf478c77e564d1a3611dde] of the Tribunal for the consideration of an application or reference relating to a restricted patient shall be restricted to those legal members who have been approved for that purpose by the Lord Chief Justice after consulting the Lord Chancellor.
+
+(3) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005 [^c20465281]) to exercise his functions referred to in paragraph (2).
+
+### 12. Substitution and addition of parties
+
+(1) The Tribunal may give a direction substituting a party if—
+
+- (a) the wrong person has been named as a party; or
+- (b) the substitution has become necessary because of a change in circumstances since the start of proceedings.
+
+(2) The Tribunal may give a direction adding a person to the proceedings as an interested party.
+
+(3) If the Tribunal gives a direction under paragraph (1) or (2) it may give such consequential directions as it considers appropriate.
+
+### 13. Representatives
+
+(1) A party may appoint a representative (whether legally qualified or not) to represent that party in the proceedings, not being a person liable to be detained or subject to guardianship or after-care under supervision or a community patient under the Act, or a person receiving treatment for mental disorder at the same hospital or registered establishment as the patient.
+
+(2) If a party appoints a representative, that party or representative must send or deliver to the Tribunal written notice of the representative's name and address.
+
+(3) Anything permitted or required to be done by or provided to a party under these Rules or a direction, other than signing a witness statement, may be done by or provided to the representative of that party.
+
+(4) In the event of a representative being duly appointed—
+
+- (a) the Tribunal and other parties may assume that the representative is and remains authorised until receiving written notification to the contrary from the representative or the represented party; and
+- (b) the Tribunal must provide to the representative any document which is required to be sent to the represented party, and need not provide that document to the represented party.
+
+(5) The Tribunal may appoint a legal representative for the patient if—
+
+- (a) the patient has not appointed a representative; and
+- (b)
+  - (i) the patient has stated that they do not wish to conduct their own case or that they wish to be represented; or
+  - (ii) the patient lacks the capacity to appoint a representative but the Tribunal believes that it is in the patient's best interests for the patient to be represented.
+
+(6) Unless the Tribunal otherwise directs, a patient or any other party may be accompanied by such other person as the patient or party wishes, in addition to any representative that may have been appointed under this Rule, provided that such person does not act as the representative of the patient or other party.
+
+## PART 3 — Proceedings before the Tribunal
+
+### CHAPTER 1 — Before the final determination
+
+#### 14. Procedure for applications and references
+
+(1) An application or reference must be made in writing, be signed (in the case of an application, by the applicant or any person authorised by the applicant to do so) and be provided to the Tribunal so that it is received within the time specified in the Act or the Repatriation of Prisoners Act 1984 [^c20465311].
+
+(2) An application or reference must, if possible, include—
+
+- (a) the name and address of the patient;
+- (b) in the event of an application being made by the patient's nearest relative, that person's name, address and relationship to the patient;
+- (c) the provision under which the patient is detained or liable to be detained, subject to guardianship or after-care under supervision or a community patient;
+- (d) whether the person making the application has appointed a representative or intends to do so, and the name and address of any representative appointed;
+- (e) the name and address of the responsible authority in relation to the patient.
+
+(3) On receipt of an application or reference, the Tribunal must send notice of the same to—
+
+- (a) the responsible authority;
+- (b) the patient (where the patient is not the applicant); and
+- (c) if the patient is a restricted patient, the Secretary of State.
+
+#### 15. Statements, reports and documents
+
+(1) Subject to rule 17 (withholding documents or information likely to cause harm), when the Tribunal receives a document from any party it must send a copy of that document to each other party.
+
+(2) When the Tribunal receives an application or reference it must send to the responsible authority or the Secretary of State, as the case may be, a request for the documents and information required to be provided under paragraph (3), (4) or (5).
+
+(3) In proceedings under section 66(1)(a) of the Act (application for admission for assessment), on the earlier of receipt of the copy of the application or receipt of a request from the Tribunal, the responsible authority must send or deliver to the Tribunal by the commencement of the hearing—
+
+- (a) the application for admission;
+- (b) the written medical recommendation or recommendations, as the case may be, of the registered medical practitioners on which the application is founded;
+- (c) such of the information specified in Part A of the Schedule as is within the knowledge of the responsible authority and can reasonably be provided in the time available; and
+- (d) such of the reports specified in Part B of the Schedule as can reasonably be provided in the time available.
+
+(4) If the patient is a conditionally discharged patient the Secretary of State shall send to the Tribunal as soon as practicable, and in any event within 6 weeks of receipt by the Secretary of State of a copy of the application or request from the Tribunal, a statement which shall contain—
+
+- (a) the information specified in Part C of the Schedule, in so far as it is within the knowledge of the Secretary of State; and
+- (b) the reports specified in Part D of the Schedule, in so far as it is reasonably practicable to provide them.
+
+(5) If neither paragraph (3) nor (4) applies, the responsible authority must send a statement to the Tribunal as soon as practicable, and in any event within 3 weeks of receipt by the responsible authority of a copy of the application or receipt of a request from the Tribunal, a statement which shall contain—
+
+- (a) the information specified in Part A of the Schedule, in so far as it is within the knowledge of the responsible authority;
+- (b) the report specified in paragraph 1 of Part B of that Schedule; and
+- (c) the other reports specified in Part B of the Schedule, in so far as it is reasonably practicable to provide them.
+
+(6) If the patient is a restricted patient the responsible authority must also send the statement under paragraph (5) to the Secretary of State, and the Secretary of State must send a statement of any further relevant information to the Tribunal as soon as practicable and in any event—
+
+- (a) in proceedings under section 75(1) of the Act, within 2 weeks of receipt by the Secretary of State of the relevant authority's statement; or
+- (b) otherwise, within 3 weeks of receipt by the Secretary of State of the relevant authority's statement.
+
+(7) If the Welsh Ministers or Secretary of State wish to seek the approval of the Tribunal under section 86(3) of the Act, the Welsh Ministers or Secretary of State, as the case may be, must refer the patient's case to the Tribunal and the provisions of these Rules applicable to references under the Act apply to the proceedings.
+
+#### 16. Notice of proceedings
+
+When the Tribunal receives the information required by rule 15(3), (4) or (5), the Tribunal must give notice of the proceedings—
+
+- (a) where the patient is subject to the guardianship of a private guardian, to the guardian;
+- (b) where there is an extant order of the superior court of record established by section 45(1) of the Mental Capacity Act 2005 [^c19450391], to that court;
+- (c) unless the patient requests otherwise, where any person other than the applicant is named in the responsible authority's statement as exercising the functions of the nearest relative, to that person;
+- (d) [^key-3336508c1f975e629b869ff4f6f091b5]... and
+- (e) to any other person the Tribunal may consider should have an opportunity of being heard.
+
+#### 17. Withholding documents or information likely to cause harm
+
+(1) The Tribunal must give a direction prohibiting the disclosure of a document or information to a person if it is satisfied that—
+
+- (a) such disclosure would be likely to cause that person or some other person serious harm; and
+- (b) having regard to the interests of justice that it is proportionate to give such a direction.
+
+(2) If a party (“**the first party**”) considers that the Tribunal should give a direction under paragraph (1) prohibiting the disclosure of part or all of a document or of information to another party (“**the second party**”), the first party must—
+
+- (a) exclude that part of the relevant document or that information from any document that will be provided to the second party; and
+- (b) provide to the Tribunal the excluded part of document or information and the reason for its exclusion, in order that the Tribunal may decide whether the document or information should be disclosed to the second party or should be the subject of a direction under paragraph (1).
+
+(3) The Tribunal must conduct proceedings as appropriate in order to avoid undermining a direction given under paragraph (1).
+
+(4) If the Tribunal gives a direction under paragraph (1) which prevents disclosure to a party who has a representative, the Tribunal may give a direction that the document or information be disclosed to that representative if it is satisfied that—
+
+- (a) disclosure to the representative would be in the interests of the party; and
+- (b) the representative would not be likely to act contrary to paragraph (5).
+
+(5) Documents or information disclosed to a representative in accordance with a direction under paragraph (4) must not—
+
+- (a) be disclosed either directly or indirectly to any other person without the Tribunal's consent; or
+- (b) be used otherwise than in connection with the proceedings.
+
+#### 18. Further evidence and submissions
+
+(1) Without restriction on the general powers in rule 5(1) and (2) (case management powers), the Tribunal may give directions as to—
+
+- (a) issues on which it requires evidence or submissions;
+- (b) the nature of the evidence or submissions it requires;
+- (c) whether the parties are permitted or requested to provide expert evidence;
+- (d) any limit on the number of witnesses whose evidence a party may put forward, whether in relation to a particular issue or generally;
+- (e) the manner in which any evidence or submissions are to be provided, which may include a direction for them to be given—
+  - (i) orally at a hearing; or
+  - (ii) by written submissions or witness statement; and
+- (f) the time in which any evidence or submissions are to be provided.
+
+(2) The Tribunal may—
+
+- (a) admit evidence whether or not—
+  - (i) the evidence would be admissible in a civil trial in the United Kingdom; or
+  - (ii) the evidence was available to a previous decision maker;
+- (b) exclude evidence that would otherwise be admissible where—
+  - (i) the evidence was not provided within the time allowed by a direction;
+  - (ii) the evidence was otherwise provided in a manner that did not comply with a direction; or
+  - (iii) it would otherwise be unfair to admit the evidence.
+
+(3) The Tribunal may require any witness to give evidence on oath or affirmation, and may administer an oath or affirmation for that purpose.
+
+#### 19. Summoning of witnesses and orders to answer questions or produce documents
+
+(1) On the application of a party or on its own initiative, the Tribunal may—
+
+- (a) by summons require any person to attend as a witness at a hearing at the time and place specified in the summons, provided that—
+  - (i) the person has been given reasonable notice of the hearing; and
+  - (ii) unless the person is a party to the proceedings, the summons makes provision for the person's necessary expenses of attendance to be paid, and states by whom; and
+- (b) by order require any person to answer any questions or produce any documents in that person's possession or control which relate to any issue in the proceedings.
+
+(2) A summons under this rule must, if the person to whom it is addressed has not had an opportunity to object to it, state that the person may apply to the Tribunal to vary or set aside the summons.
+
+(3) When a summons is issued, the Tribunal must send a copy of the summons to each party to the proceedings.
+
+(4) No person may be compelled to give any evidence or produce any document that the person could not be compelled to give or produce on a trial of an action in a court of law in England or Wales.
+
+#### 20. Medical examination
+
+(1) Before the hearing to consider the final determination, a medical member of the Tribunal must, so far as practicable—
+
+- (a) examine the patient; and
+- (b) take such other steps as that member considers necessary to form an opinion of the patient's mental condition.
+
+(2) For the purposes of paragraph (1) that member may—
+
+- (a) examine the patient in private;
+- (b) examine records relating to the detention or treatment of the patient and any after-care services;
+- (c) take notes and copies of records for use in connection with the proceedings.
+
+(3) At any time before the Tribunal makes the final determination, the Tribunal or any one or more of its members may interview the patient, which interview may take place in the absence of any other person.
+
+#### 21. Postponement and adjournment
+
+(1) The Tribunal may at any time postpone or adjourn a hearing for the purpose of obtaining further information or for such other purposes as it may think appropriate.
+
+(2) Before postponing or adjourning any hearing, the Tribunal may give such direction as it thinks fit for ensuring the prompt consideration of the application at a postponed or adjourned hearing.
+
+(3) Where a party requests that a hearing postponed or adjourned in accordance with this rule be reconvened, the hearing must be reconvened if the Tribunal is satisfied that reconvening would be in the interests of the patient.
+
+(4) Save in respect of an application under section 66(1)(a) of the Act, before the Tribunal reconvenes any hearing which has been adjourned without a further hearing date being fixed, it must give to all parties not less than 14 days' notice (or such shorter notice as all parties may consent to) of the date, time and place of the reconvened hearing.
+
+#### 22. Withdrawal
+
+(1) Subject to paragraphs (2) to (3), an applicant may withdraw an application by sending to the Tribunal a written notice of withdrawal stating reasons.
+
+(2) Before making a withdrawal under paragraph (1), the consent of the Tribunal must be obtained.
+
+(3) Where an application is withdrawn, the Tribunal shall so inform the parties and such other persons as the Tribunal considers necessary.
+
+(4) A reference made by the Welsh Ministers or the Secretary of State in circumstances in which they are not by the terms of the Act obliged to make a reference may be withdrawn by the Welsh Ministers or the Secretary of State, as the case may be, at any time before it is considered by the Tribunal and, where a reference is so withdrawn, the Tribunal shall inform the patient and the other parties that the reference has been withdrawn.
+
+#### 23. Transfer of Proceedings
+
+(1) Where any proceedings in relation to a patient have not been disposed of by the members of the Tribunal appointed for the purpose, and the President[^key-7cca9a7a9e399f7cf0b2dbfe6c3d9a91] is of the opinion that it is not practicable or not possible without undue delay for the consideration of those proceedings to be completed by those members, he shall make arrangements for them to be heard by other members of the Tribunal.
+
+(2) Where a patient in respect of whom proceedings are pending moves to the jurisdiction of the First-tier Tribunal [^c19450401], the proceedings shall, if the President of the Tribunal so directs, be transferred to the First-tier Tribunal and notice of the transfer of proceedings shall be given to the parties and such other persons as the Tribunal considers necessary.
+
+### CHAPTER 2 — Hearings
+
+#### 24. Time and place of hearings
+
+(1) In proceedings under section 66(1)(a) of the Act the hearing of the case must start within 7 days after the date on which the Tribunal received the application.
+
+(2) In proceedings under section 75(1) of the Act, the hearing of the case must start at least 5 weeks but no more than 8 weeks after the date that the Tribunal received the reference.
+
+(3) Subject to paragraph (4), the Tribunal must give the parties reasonable notice, and in any event no less than 14 days' notice, of the date, time and place of any hearing (including any adjourned or postponed hearing) and any changes to the time and place of any hearing, except that in proceedings under section 66(1)(a) of the Act the Tribunal must give at least 3 days' notice.
+
+(4) The Tribunal may give less notice than that required under paragraph (3)—
+
+- (a) with the parties' consent; or
+- (b) in urgent or exceptional circumstances.
+
+#### 25. Privacy of hearings
+
+(1) Except where a patient requests a hearing in public and the Tribunal is satisfied that that would be in the interests of the patient, all hearings must be held in private.
+
+(2) Where the Tribunal refuses a request for a public hearing or directs that a hearing which has begun in public shall continue in private, the Tribunal must record in writing its reasons for holding the hearing in private and shall inform the patient of those reasons.
+
+(3) Where a hearing is held in private, the Tribunal may—
+
+- (a) exclude particular individuals from the hearing or part of it; or
+- (b) permit particular individuals to attend the hearing or part of it on such terms as it considers appropriate.
+
+(4) The Tribunal may give a direction excluding from the hearing, or part of it—
+
+- (a) any person whose conduct, in the opinion of the Tribunal, is disrupting or is likely to disrupt the hearing;
+- (b) any person whose presence the Tribunal considers is likely to prevent another person from giving evidence or making submissions freely; or
+- (c) any person who the Tribunal considers should be excluded in order to give effect to a direction under rule 17 (withholding information likely to cause harm).
+
+(5) The Tribunal may give a direction excluding a witness from a hearing until that witness gives evidence.
+
+#### 26. Request to appear at and take part in a hearing
+
+The Tribunal may give a direction permitting or requesting any person to—
+
+- (a) attend and take part in a hearing to such extent as the Tribunal considers appropriate; or
+- (b) make written submissions in relation to a particular issue.
+
+#### 27. Hearings in a party's absence
+
+If a party fails to attend a hearing, the Tribunal may proceed with the hearing if—
+
+- (a) the Tribunal—
+  - (i) is satisfied that the party has been notified of the hearing or that reasonable steps have been taken to notify the party of the hearing; and
+  - (ii) the Tribunal is not aware of any good reason for the failure to attend; or
+- (b) the Tribunal otherwise considers that it is in the interests of the patient to proceed with the hearing.
+
+### CHAPTER 3 — Decisions
+
+#### 28. Decisions
+
+(1) The Tribunal may give a decision orally at a hearing or may reserve its decision.
+
+(2) The Tribunal must send to each party as soon as reasonably practicable following a final determination—
+
+- (a) a notice stating the Tribunal's decision; and
+- (b) written reasons for the decision.
+
+(3) The documents referred to in paragraph (2) must be sent—
+
+- (a) in proceedings under section 66(1)(a) of the Act, within 3 working days of the hearing; and
+- (b) in other proceedings, within 7 days of the hearing.
+
+(4) Where the Tribunal considers that the full disclosure of the recorded reasons for its decision to the patient would cause the patient or any other person serious harm, the Tribunal may instead communicate its decision to him in such manner as it thinks appropriate and may communicate its decision to the other parties subject to any conditions it may think appropriate as to the disclosure thereof to the patient.
+
+(5) Where the Tribunal makes a decision with recommendations, the decision may specify any period at the expiration of which the Tribunal will consider the case further in the event of those recommendations not being complied with.
+
+(6) Subject to rule 10 (prohibitions on disclosure or publication) the Tribunal may, where appropriate, send notice of a decision or the reasons for it to any person.
+
+## PART 4 — Correcting and appealing Tribunal decisions
+
+### 29. Clerical mistakes, accidental slips or omissions and irregularities
+
+(1) The Tribunal may at any time correct any clerical mistake or other accidental slip or omission in a decision, direction or any document produced by it, by sending notification of the amended decision or direction, or a copy of the amended document, to all parties.
+
+(2) Any irregularity resulting from failure to comply with these Rules before the Tribunal has determined an application shall not of itself render the proceedings void, but the Tribunal may, and must if it considers that any person may have been prejudiced, take such steps to cure the irregularity as it thinks fit before determining the application, whether by the amendment of any document, the giving of any notice or otherwise.
+
+### 30. Application for permission to appeal
+
+(1) This rule applies to an application for permission to appeal against a decision of the Tribunal on a point of law under section 78A of the Act (appeal from the Tribunal to the Upper Tribunal).
+
+(2) A party seeking permission to appeal must send or deliver to the Tribunal a written application for permission to appeal so that it is received no later than 28 days after the date that the Tribunal sent written reasons for the decision to the party making the application.
+
+(3) If the party sends or delivers the application to the Tribunal later than the time required by paragraph (2) or by any extension of time under rule 5(2)(a) (power to extend time) —
+
+- (a) the application must include a request for an extension of time and the reason why the application was not provided in time; and
+- (b) unless the Tribunal extends time for the application under rule 5(2)(a), the Tribunal must not admit the application.
+
+(4) An application under paragraph (2) must—
+
+- (a) identify the decision of the Tribunal to which it relates;
+- (b) identify the alleged error or errors of law in the decision; and
+- (c) state the result the party making the application seeks.
+
+(5) Upon considering the application for permission to appeal, the Tribunal must send to the parties as soon as practicable—
+
+- (a) a record of its decision; and
+- (b) if the Tribunal has refused to grant permission—
+  - (i) reasons for such refusal; and
+  - (ii) notification of the right to make an application to the Upper Tribunal for permission to appeal and the time within which, and the method by which, such application must be made.
+
+(6) The Tribunal may grant permission to appeal on limited grounds, but must comply with paragraph (5)(b) in relation to any grounds on which it has refused permission.
+
+## PART 5 — Revocations
+
+### 31. Revocations
+
+The Mental Health Review Tribunal Rules 1983 [^c19450411], the Mental Health Review Tribunal (Amendment) Rules 1996 [^c19450421] and the Mental Health Review Tribunal (Amendment) Rules 1998 [^c19450431] are revoked.
+
+Signed by authority of the Lord Chancellor
+
+Bridget Prentice
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+## SCHEDULE — Statements by the Responsible Authority and the Secretary of State
+
+Rule 15
+
+### PART A — Information about patients (other than conditionally discharged patients)
+
+**1.** The patient's full name (and any alternative names used in patient records).
+
+**2.** The patient's date of birth and age.
+
+**3.** The patient's language of choice and, if it is not English or Welsh, whether an interpreter is required.
+
+**4.** The application, order or direction made under the Act to which the tribunal proceedings relate and the date on which that application, order or direction commenced.
+
+**5.** Details of the original authority for the detention or guardianship of the patient, including the statutory basis for that authority and details of any subsequent renewal of or change in that authority.
+
+**6.** In cases where a patient has been transferred to hospital under section 45A, 47 or 48 of the Act, details of the order, direction or authority under which the patient was being held in custody before his transfer to hospital.
+
+**7.** Except in relation to a patient subject to guardianship or after-care under supervision, or a community patient, the hospital or hospital unit at which the patient is presently liable to be detained under the Act, and the ward or unit on which he is presently detained.
+
+**8.** If a condition or requirement has been imposed that requires the patient to reside at a particular place, details of the condition or requirement and the address at which the patient is required to reside;
+
+**9.** In the case of a community patient, details of any conditions attaching to the patient's community treatment order under section 17B(2) of the Act.
+
+**10.** The name of the patient's responsible clinician and the length of time the patient has been under their care.
+
+**11.** Where another approved clinician is or has recently been largely concerned in the treatment of the patient, the name of that clinician and the period that the patient has spent in that clinician's care.
+
+**12.** The name of any care co-ordinator appointed for the patient.
+
+**13.** Where the patient is subject to the guardianship of a private guardian, the name and address of that guardian.
+
+**14.** Where there is an extant order of the superior court of record established by section 45(1) of the Mental Capacity Act 2005, the details of that order.
+
+**15.** Unless the patient requests otherwise, the name and address of the person exercising the functions of the nearest relative of the patient.
+
+**16.**[^key-649ab8e8393dbf8c362f42fb671e9d92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.** In the case of a patient subject to after-care under supervision, the name and address of the local social services authority and NHS body that are responsible for providing the patient with after-care under section 117 of the Act, or will be when he leaves hospital.
+
+**18.** The name and address of any person who plays a substantial part in the care of the patient but who is not professionally concerned with it.
+
+**19.** The name and address of any other person who the responsible authority considers should be notified to the Tribunal.
+
+### PART B — Reports relating to patients (other than conditionally discharged patients)
+
+**1.** An up-to-date clinical report, prepared for the Tribunal, including the relevant clinical history and a full report on the patient's mental condition.
+
+**2.** An up-to-date social circumstances report prepared for the tribunal including reports on the following—
+
+- (a) the patient's home and family circumstances, including the views of the patient's nearest relative or the person so acting;
+- (b) the opportunities for employment or occupation and the housing facilities which would be available to the patient if discharged;
+- (c) the availability of community support and relevant medical facilities;
+- (d) the financial circumstances of the patient.
+
+**3.** The views of the responsible authority on the suitability of the patient for discharge.
+
+**4.** Where the provisions of section 117 of the Act may apply to the patient, a proposed after care plan in respect of the patient.
+
+**5.** Any other information or observations on the application which the responsible authority wishes to make.
+
+### PART C — Information about conditionally discharged patients
+
+**1.** The patient's full name (and any alternative names used in patient records).
+
+**2.** The patient's date of birth and age.
+
+**3.** The patient's language of choice and, if it is not English or Welsh, whether an interpreter is required.
+
+**4.** The history of the patient's present liability to detention including details of the offence or offences, and the dates of the original order or direction and of the conditional discharge.
+
+**5.** The name and address of any clinician responsible for the care and supervision of the patient in the community, and the period that the patient has spent under the care and supervision of that clinician.
+
+**6.** The name and address of any social worker or probation officer responsible for the care and supervision of the patient in the community and the period that the patient has spent under the care and supervision of that person.
+
+### PART D — Reports relating to conditionally discharged patients
+
+**1.** Where there is a clinician responsible for the care and supervision of the patient in the community, an up-to-date report prepared for the Tribunal including the relevant medical history and a full report on the patient's mental condition.
+
+**2.** Where there is a social worker, probation officer or community psychiatric nurse responsible for the patient's care and supervision in the community, an up-to-date report prepared for the Tribunal on the patient's progress in the community since discharge from hospital.
+
+**3.** A report on the patient's home circumstances.
+
+**4.** The views of the Secretary of State on the suitability of the patient for absolute discharge.
+
+**5.** Any other observations on the application which the Secretary of State wishes to make.
+
+*(This note is not part of the Rules)*
+
+[^c19450441]These Rules are made under section 78 of the Mental Health Act 1983 and govern the practice and procedure to be followed in proceedings before the Mental Health Review Tribunal for Wales (“**the Tribunal**”). Rule 11 also makes provision for circumstances where a person may not sit as a Tribunal member, and for the approval of members qualified to serve as president of the Tribunal for the consideration of an application or reference relating to a restricted patient.
+
+[^c19450451][^c19450461]These Rules replace the Mental Health Review Tribunal Rules 1983 , which governed the practice and procedure of Mental Health Review Tribunals in England and Wales. However, as a result of the transfer of the functions of the Mental Health Review Tribunals for England to the First-tier Tribunal under the Tribunals, Courts and Enforcement Act 2007 , and the making of new Tribunal Procedure Rules to govern the First-tier Tribunal, these Rules need only govern the procedure of the Tribunal.
+
+Part 1 contains provisions for interpreting and applying the Rules and sets out the overriding objective of the Rules.
+
+Part 2 contains general powers and provisions including the Tribunal's general case management powers, the giving of directions, the service of documents and rules about evidence, submissions and witnesses.
+
+Part 3 contains provisions on starting proceedings and on statements by authorities. It also makes provision for hearings and for decisions made by the Tribunal.
+
+Part 4 deals with correcting and appealing against Tribunal decisions.
+
+Part 5 revokes the Mental Health Review Tribunal Rules 1983 and instruments which amended those Rules.
+
+## Annotations
+
+[^c19450341]: Marginal citation: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20), as amended by the [Mental Health Act 2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12).
+
+[^c19450351]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^key-3d4107f5a8e7607bcbc18c266773649c]: Textual amendment: Words in rule 2 substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [20](https://www.legislation.gov.uk/uksi/2009/3348/article/20)
+
+[^key-1aaae3e14eab6f1d841ed0bfd4f537fd]: Textual amendment: Words in rule 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 121(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/121/2)
+
+[^c19450371]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-6c7c52dd33040d752f2e5839014ef780]: Textual amendment: Word in [rule 4](https://www.legislation.gov.uk/uksi/2008/2705/rule/4) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/2) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
+
+[^c19450381]: Marginal citation: Provisions include sections 66(1) and (2), 68(2) (subject to any order made under section 68A), 69(1), (2) and (4), 70, 71(2) (subject to any order made under section 71(3)) and 75(1) and (2) of the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^key-4daf12c5cf4963ee13de2a39817330b0]: Textual amendment: Words in rule 11(1)(c) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/3/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
+
+[^key-04ae98812bbf478c77e564d1a3611dde]: Textual amendment: Word in rule 11(2) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/3/b) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
+
+[^c20465281]: Marginal citation: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^c20465311]: Marginal citation: [1984 c. 47](https://www.legislation.gov.uk/ukpga/1984/47).
+
+[^c19450391]: Marginal citation: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^key-3336508c1f975e629b869ff4f6f091b5]: Textual amendment: Rule 16(d) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 121(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/121/3)
+
+[^key-7cca9a7a9e399f7cf0b2dbfe6c3d9a91]: Textual amendment: Word in rule 23(1)(2) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
+
+[^c19450401]: Marginal citation: The First-tier Tribunal was established under section 3(1) of the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^c19450411]: Marginal citation: [S.I. 1983/942](https://www.legislation.gov.uk/uksi/1983/942).
+
+[^c19450421]: Marginal citation: [S.I. 1996/314](https://www.legislation.gov.uk/uksi/1996/314).
+
+[^c19450431]: Marginal citation: [S.I. 1998/1189](https://www.legislation.gov.uk/uksi/1998/1189).
+
+[^key-649ab8e8393dbf8c362f42fb671e9d92]: Textual amendment: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2008/2705/schedule/paragraph/16) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 121(4)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/121/4)
+
+[^c19450441]: Marginal citation: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^c19450451]: Marginal citation: [S.I. 1983/942](https://www.legislation.gov.uk/uksi/1983/942). The 1983 Rules were amended by the [Mental Health Review Tribunal (Amendment) Rules 1996 (S.I. 1996/314) and the Mental Health Review Tribunal (Amendment) Rules 1998 (S.I. 1996/1189)](https://www.legislation.gov.uk/uksi/1998/1189).
+
+[^c19450461]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).

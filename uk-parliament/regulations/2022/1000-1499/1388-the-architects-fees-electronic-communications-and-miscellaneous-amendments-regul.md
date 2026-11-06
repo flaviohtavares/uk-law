@@ -1,0 +1,219 @@
+---
+title: The Architects (Fees, Electronic Communications and Miscellaneous Amendments) Regulations 2022
+id: uksi/2022/1388
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-12-20'
+text_date: '2024-11-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2022/1388
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/1388/pdfs/uksiem_20221388_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1388/pdfs/uksi_20221388_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1388/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Architects (Fees, Electronic Communications and Miscellaneous Amendments) Regulations 2022
+
+> Text as at 2024-11-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2022 No. 1388
+
+Architects
+
+The Architects (Fees, Electronic Communications and Miscellaneous Amendments) Regulations 2022
+
+Made
+
+20th December 2022
+
+Laid before Parliament
+
+21st December 2022
+
+Coming into force
+
+31st January 2023
+
+The Secretary of State makes the following Regulations—
+
+- (a) in exercise of the powers conferred by section 24A of and paragraph 24 of Schedule 1 to the Architects Act 1997[^f00001];
+- (b) as the appropriate Minister in exercise of the powers conferred by section 8 and section 9(6) of the Electronic Communications Act 2000[^f00002]; and
+- (c) in exercise of the powers conferred by section 12(3) of and paragraph 12 of Schedule 4 to the European Union (Withdrawal Agreement) Act 2020[^f00003][^f00004].
+
+In accordance with paragraph 24(1) of Schedule 1 to the Architects Act 1997 the Secretary of State has consulted the Architects Registration Board and other such persons and bodies as the Secretary of State thought fit.
+
+In accordance with section 8(3) of the Electronic Communications Act 2000, the Secretary of State considers that the authorisation of the use of electronic communication[^f00005] by these Regulations is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications than in other cases.
+
+## 1. Citation, commencement, extent and application[^key-723d021dce62990d36f7a7cf4e3c42e7]
+
+(1) These Regulations may be cited as the Architects (Fees, Electronic Communications and Miscellaneous Amendments) Regulations 2022 and come into force on 31st January 2023.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+(3) These Regulations apply in England and Wales, Scotland and Northern Ireland.
+
+## 2. Fees[^key-dbe60e1e3da064e0fd3081e1a9f49ec6]
+
+(1) The Board[^f00006] may charge a fee in respect of the following services—
+
+- (a) prescribing a qualification under section 4(1)(a) of the Act;
+- (b) providing any document or information about a person whose name is entered on the Register[^f00007];
+- (c) preparing or arranging any test prescribed under section 4(1A) of the Act.
+
+(2)[^key-b28ca7c19be60637c0f058d4e21a3838] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Board may prescribe different fees for different cases.
+
+(4) The amount of a fee charged under paragraph (1) must not exceed the reasonable costs of providing the service, taking one year with another.
+
+(4A)[^key-c4916da958af039a7805b467e90cbcf9] The body that has applied for a qualification to be prescribed under section 4(1)(a) of the Act is liable to pay the fee that the Board may charge under paragraph (1)(a).
+
+(4B) The person requesting a document or information about a person whose name is entered on the Register is liable to pay the fee that the Board may charge under paragraph (1)(b).
+
+(4C) The person intending to sit the test prescribed under section 4(1A) of the Act is liable to pay the fee that the Board may charge under paragraph (1)(c).
+
+(4D) Subject to paragraph (4E), in each calendar year the Board must publish specified information about any fee it charged under this regulation in the preceding calendar year.
+
+(4E) The first calendar year in which the Board must comply with the requirement in paragraph (4D) is 2025.
+
+(4F) In paragraph (4D) “**specified information**” means an explanation of how the fee was calculated including—
+
+- (a) a description, including the amount, of any cost covered by the fee, and
+- (b) an explanation of how the fee complies with the requirement at paragraph (4).
+
+(4G) A fee charged under this regulation may be paid by any means except cash or cheque.
+
+(5) In this regulation “**the Act**” means the Architects Act 1997.
+
+## 3. Amendments to the Architects Act 1997[^key-b7fbd8058c0e869d3b73ada2b57fe8d0]
+
+(1) The Architects Act 1997 is amended as follows.
+
+(2) In section 24—
+
+- (a) after subsection (1) insert—
+
+  > (1A) Any notice required to be served by section 11(a) is to be sent by post as a registered letter.
+
+  ;
+- (b) in subsection (2)—
+  - (i) omit “11(a),”;
+  - (ii) for “sent by post as a registered letter.” substitute—
+
+    > sent—
+    >
+    > - (a) by post as a registered letter, or
+    > - (b) in accordance with subsection (4).
+- (c) after subsection (2) insert—
+
+  > (3) Where a notice or document required to be served by or for the purposes of this Act is sent to a person in accordance with subsection (4), it is to be treated as having been served on the person unless the contrary is proved—
+  >
+  > - (a) if the notice or document is sent on a working day, on the day on which it is sent, or
+  > - (b) if the notice or document is sent on a day which is not a working day, on the next working day.
+  >
+  > (4) A notice or document is sent to a person in accordance with this subsection if—
+  >
+  > - (a) it is sent by a prescribed electronic communications method,
+  > - (b) where rules made by the Board make such provision as is described in subsection (8), the method is prescribed for the purpose of serving a notice or document of that description, and
+  > - (c) the conditions mentioned in subsection (5) are satisfied in relation to the sending of the notice or document.
+  >
+  > (5) The conditions referred to in subsection (4)(c) are—
+  >
+  > - (a) that the person to whom the notice or document is sent has agreed with a relevant body that a notice or document of that description may be served by that method and the agreement has not been withdrawn in accordance with subsection (6) before the notice or document is sent;
+  > - (b) that, if that method consists of or involves sending an email to the person, the email is sent to an email address specified by the person for the purposes of the agreement.
+  >
+  > (6) A person who has agreed to be served by a prescribed electronic communications method may give notice withdrawing the agreement to any of the relevant bodies.
+  >
+  > (7) A withdrawal under subsection (6) takes effect five working days after the day on which the notice is received by the relevant body.
+  >
+  > (8) Rules made by the Board under this section prescribing electronic communications methods may prescribe different methods for the purpose of serving different descriptions of notices or documents.
+  >
+  > (9) In this section—
+  >
+  > - “**electronic communications method**” means a method of sending a notice or document that uses electronic communications (within the meaning of the Electronic Communications Act 2000);
+  > - “**relevant body**” means the Board, the Registrar or a committee of the Board;
+  > - “**working day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
+
+(3) In paragraph 19 of Schedule 1—
+
+- (a) omit sub-paragraph (1);
+- (b) in sub-paragraph (2) omit “Subject to that,” and after “determined by the Board” insert “and may include persons who are not members of the Board”.
+
+## 4. Amendment to the Architects Act 1997 (Amendment) (EU Exit) Regulations 2019[^key-1838282ef8b1bdde01db92c404433fbc]
+
+(1) The Architects Act 1997 (Amendment) (EU Exit) Regulations 2019[^f00008] are amended as follows.
+
+(2) In regulation 37(2)—
+
+- (a) at the start of sub-paragraph (b) insert “subject to sub-paragraph (c),”
+- (b) after sub-paragraph (b) insert—
+
+  > - (c) where the qualifying applicant is a UK or Swiss national, sub-paragraph (b) only applies in relation to—
+  >   - (i) an application for registration made before the end of the period of four years beginning with IP completion day; and,
+  >   - (ii) any appeal made under section 22 of the 1997 Act in relation to such an application.
+
+  .
+
+Signed by authority of the Secretary of State for Levelling Up, Communities and Housing
+
+Lee Rowley
+
+Parliamentary Under Secretary of State
+
+Department for Levelling Up, Housing and Communities
+
+20th December 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision concerning the operation of the Architects Registration Board (“the ARB”) and the implementation, with respect to architects, of the agreement between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation on citizens’ rights following the withdrawal of the United Kingdom from the European Union and the Free Movement of Persons Agreement (the “Swiss Citizens Rights Agreement”).
+
+Regulation 2 gives the ARB the ability to charge fees for certain services. The fees charged must not exceed the reasonable costs of providing the service, to be calculated taking one year with another so that if costs vary from year to year the fees need not.
+
+Regulation 3 makes amendments to the Architects Act 1997 to facilitate the use of electronic communication by the ARB and changes the rules around membership of committees it establishes.
+
+Regulation 4 amends the Architects Act 1997 (Amendment) (EU Exit) Regulations 2019 to implement fully the professional qualifications provisions of the Swiss Citizens Rights Agreement in respect of architects.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 22](https://www.legislation.gov.uk/ukpga/1997/22). Section 24A was inserted by section 159 of the Building Safety Act [2022 (c. 20)](https://www.legislation.gov.uk/ukpga/2022/20).
+
+[^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). See section 9(1) of the Electronic Communications Act 2000 for the meaning of “the appropriate minister”.
+
+[^f00003]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00004]: Footnote: See section 12(4) of the European Union (Withdrawal Agreement) Act 2020 for the meaning of “professional qualification provisions” and section 12(8) for the meaning of “appropriate authority”.
+
+[^f00005]: Footnote: See section 15 of the Electronic Communications Act 2000 for the meaning of “electronic communication”.
+
+[^key-723d021dce62990d36f7a7cf4e3c42e7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1) in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
+
+[^key-dbe60e1e3da064e0fd3081e1a9f49ec6]: Commencement: Reg. 2 in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
+
+[^f00006]: Footnote: The Board is the Architects Registration Board, see section 25 of the Architects Act 1997 (“**the Act**”).
+
+[^f00007]: Footnote: The Register is the register of architects provided for by section 3 of the Act, see section 25 of the Act.
+
+[^key-b28ca7c19be60637c0f058d4e21a3838]: Textual amendment: Reg. 2(2) omitted (10.11.2024) by virtue of [The Architects (Fees, Electronic Communications and Miscellaneous Amendments) (Amendment) Regulations 2024 (S.I. 2024/1017)](https://www.legislation.gov.uk/uksi/2024/1017), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/2/2)
+
+[^key-c4916da958af039a7805b467e90cbcf9]: Textual amendment: Reg. 2(4A)-(4G) inserted (10.11.2024) by [The Architects (Fees, Electronic Communications and Miscellaneous Amendments) (Amendment) Regulations 2024 (S.I. 2024/1017)](https://www.legislation.gov.uk/uksi/2024/1017), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/2/3)
+
+[^key-b7fbd8058c0e869d3b73ada2b57fe8d0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1388/regulation/3) in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
+
+[^key-1838282ef8b1bdde01db92c404433fbc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1388/regulation/4) in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
+
+[^f00008]: Footnote: [S.I. 2019/717](https://www.legislation.gov.uk/uksi/2019/717), as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038).

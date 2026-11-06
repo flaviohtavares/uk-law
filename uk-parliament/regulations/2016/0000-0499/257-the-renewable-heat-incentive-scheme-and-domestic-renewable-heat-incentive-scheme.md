@@ -1,0 +1,472 @@
+---
+title: The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016
+id: uksi/2016/257
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-01'
+text_date: '2018-05-22'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2016/257
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/257/pdfs/uksiem_20160257_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/257/pdfs/uksi_20160257_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/257/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016
+
+> Text as at 2018-05-22.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2016 No. 257
+
+Energy
+
+The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016
+
+Made
+
+1st March 2016
+
+Laid before Parliament
+
+3rd March2016
+
+Coming into force
+
+24th March 2016
+
+The Secretary of State, in exercise of the powers conferred by sections 100(1) and (2) and 104(2) of the Energy Act 2008[^f00001], makes the following Regulations.
+
+In accordance with section 100(7) of that Act, the Secretary of State has obtained the consent of the Scottish Ministers to the making of these Regulations.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-ed80928c90f71de8dab2b681cc4a8931]
+
+These Regulations may be cited as the Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 and come into force on 24th March 2016.
+
+## PART 2 — Amendments to the Renewable Heat Incentive Scheme Regulations 2011
+
+### 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^key-982c701fc2b26f243690db0756078d8e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Amendments to regulation 2 (interpretation)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Amendment to regulation 13 (certification for installation of Microgeneration heating equipment)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Amendment to regulation 23 (treatment of grants from public funds)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Amendments to regulation 36B (ongoing obligation to use sustainable solid biomass or biogas or to produce sustainable biomethane)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Amendment to regulation 36D (sustainability audit reports)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Amendments to regulation 37 (payment of periodic support payments to participants)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Amendments to regulation 37B (calculation of A)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Amendments to regulation 39C (CHP systems accredited in relation to the Renewables Obligation)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Amendment to Schedule 2 (provision of information in relation to the use of biomass in certain circumstances)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Amendments to Schedule 2B (land criteria)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Substitution of Schedule 4 (total expenditure)[^key-982c701fc2b26f243690db0756078d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Amendments to Schedule 5 (expenditure in relation to individual technologies)[^key-982c701fc2b26f243690db0756078d8e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014
+
+### 15. Amendments to the Domestic Renewable Heat Incentive Scheme Regulations 2014[^key-c935475df2436f720cb0a2bf44ccd197]
+
+The Domestic Renewable Heat Incentive Scheme Regulations 2014[^f00012] are amended in accordance with regulations 16 to 28.
+
+### 16. Amendments to regulation 2 (interpretation)[^key-dae6ce151c7e780d7ee0a4dc220f171d]
+
+In regulation 2—
+
+- (a) insert “(1)” before “In these Regulations—”;
+- (b) for the definition of “certified installer” substitute the following definition—
+
+  > - “certified installer” means a person who is certified by the Microgeneration Certification Scheme or a scheme—
+  >   - (a) which is equivalent to the Microgeneration Certification Scheme; and
+  >   - (b) under which installers are certified to that scheme’s standards by a certification body or organisation accredited to EN 45011[^f00013] or EN ISO/IEC 17065:2012[^f00014];
+
+  ;
+- (c) after the definition of “condensing plant” insert the following definition—
+
+  > - “consumer prices index” means—
+  >   - (a) the consumer prices index calculated and published by the Office of National Statistics; or
+  >   - (b) where the index is not published for a year, any substituted index or figures published by that Office;
+
+  ;
+- (d) omit the definition of “Green Deal Assessment”;
+- (e) in the definition of “MCS register” for “accredited under EN 45011 or EN ISO/IEC 17065:2012” substitute “under which installers are certified to that scheme’s standards by a certification body or organisation accredited to EN 45011 or EN ISO/IEC 17065:2012”;
+- (f) for the definition of “relevant EPC” substitute the following definition—
+
+  > - “relevant EPC” means—
+  >   - (a) on the date on which an accredited domestic plant providing heat to an RHI property is given accreditation, the most recent Energy Performance Certificate for that property for which details have been provided to the Authority; or
+  >   - (b) if, after the date on which an accredited domestic plant providing heat to an RHI property is given accreditation, the Authority has requested a new Energy Performance Certificate for that property, the most recent Energy Performance Certificate for that property for which details have been provided to the Authority pursuant to such a request;
+
+  ;
+- (g) after the definition of “working day” insert the following—
+
+  > (2) Where these Regulations provide for a figure to be stated to two decimal places and rounded, that figure must be rounded to the nearest hundredth of a penny with any two hundredth of a penny being rounded upwards.
+
+  .
+
+### 17. Amendment to regulation 8 (certification requirements)[^key-e59e8b65991c5429bed8703bc81f3783]
+
+For regulation 8(1)(b) substitute—
+
+> - (b) a scheme where—
+>   - (i) installers are certified to that scheme’s standards by a certification body or organisation accredited to EN 45011 or EN ISO/IEC 17065:2012;
+>   - (ii) the plant is installed in accordance with the installation requirements applicable to the plant under that scheme on the plant’s first commissioning date and which are equivalent to a relevant installation standard; and
+>   - (iii) that scheme is equivalent to the Microgeneration Certification Scheme.
+
+.
+
+### 18. Amendment to regulation 9 (plants used to generate heat before the first commissioning date)[^key-4e0c5cb94eb46f2b283e67e11ddaed8b]
+
+For regulation 9(2)(a) substitute—
+
+> - (a) components, apart from solar thermal collectors (liquid filled flat plate or evacuated tubes), which solely generate heat for the purpose of heating domestic hot water;
+
+.
+
+### 19. Amendment to regulation 13 (plants where heat generation must be metered)[^key-fdd979861bd8477f7f01ef718f4c493e]
+
+(1) In regulation 13(4), before “Plant A” insert “Subject to paragraph (4A),”.
+
+(2) After regulation 13(4) insert—
+
+> (4A) Subject to regulation 46(1A), paragraph (4) does not apply to eligible new-build properties.
+
+.
+
+### 20. Amendment to regulation 32 (calculation of grant funding deduction)[^key-c4677d07e05bf9074db248747ffc644e]
+
+For regulation 32(2)(b)(ii) substitute—
+
+> - (ii) includes 1st April of any calendar year, the value of A in the previous quarterly period adjusted by the percentage increase or decrease, for the calendar year ending on 31st December immediately preceding that 1st April, in—
+>   - (aa) the retail prices index, if the tariff start date is earlier than 1st April 2016; or
+>   - (bb) the consumer prices index, if the tariff start date is on or after 1st April 2016,
+>
+>   the resulting figure being stated to two decimal places and rounded.
+
+.
+
+### 21. Amendment to regulation 34 (calculation of initial tariffs)[^key-056c986783463829ebde355d1a321986]
+
+In regulation 34(3)—
+
+- (a) after “regulation 35;” omit “and”;
+- (b) after “regulation 36” insert—
+
+  > ; and
+  >
+  > - (c) the resulting figure is stated to two decimal places and rounded.
+
+  .
+
+### 22. Amendment to regulation 35 (calculation of initial tariffs: calculation of A)[^key-e45b90fab91f9cef2624e3313dbc6d30]
+
+For regulation 35(2)(c) substitute—
+
+> - (c) 1st April (other than 1st April 2014), A is C adjusted by the percentage increase or decrease, for the immediately preceding calendar year, in—
+>   - (i) the retail prices index, if the tariff period commences on 1st April 2015 or 1st April 2016; or
+>   - (ii) the consumer prices index, if the tariff period commences on 1st April of any subsequent calendar year,
+>
+>   the resulting figure being stated to two decimal places and rounded.
+
+.
+
+### 23. Amendment to regulation 37 (calculation of subsequent tariffs)[^key-5bf2973a4249cf378ba1f47b705a862e]
+
+(1) In regulation 37(2)(b)—
+
+- (a) for the formula “A x C” substitute—
+
+  > [formula: see source](https://www.legislation.gov.uk/uksi/2016/257)
+- (b) omit the words from “to the nearest hundredth of a penny” to the end.
+
+(2) In regulation 37(3)—
+
+- (a) for the formula “B x C” substitute—
+
+  > [formula: see source](https://www.legislation.gov.uk/uksi/2016/257)
+- (b) omit the words from “to the nearest hundredth of a penny” to the end.
+
+(3) For regulation 37(4)(c) substitute—
+
+> - (c) C is the percentage increase or decrease, for the calendar year ending on 31st December immediately preceding the commencement of the financial year for which the subsequent tariff is being calculated, in—
+>   - (i) the retail prices index, if the tariff start date is earlier than 1st April 2016; or
+>   - (ii) the consumer prices index, if the tariff start date is on or after 1st April 2016.
+
+.
+
+### 24. Amendments to regulation 38 (expenditure forecast statement and tariff change notice)[^key-8b3ecb50cfd849b006bdd775f2bd8706]
+
+(1) In regulation 38(4)(c), after “retail prices index” insert “or consumer prices index”.
+
+(2) In sub-paragraph (b)(i) of the definition of “estimated spend” in regulation 38(7), after “provides heat” insert “is not an eligible new-build property and”.
+
+### 25. Amendment to regulation 46 (changes affecting whether accredited domestic plants must be metered)[^key-04bea85f5aa9f94c6085953e9909b502]
+
+After regulation 46(1) insert—
+
+> (1A) For the purposes of paragraph (1)(c), the exception for eligible new-build properties in regulation 13(4A) does not apply.
+
+### 26. Amendment to Schedule 3 (eligible properties)[^key-85ad962eb7e9afcc97ac3c1370754aff]
+
+In Schedule 3, for paragraph 1(2) substitute—
+
+> (2) The requirements referred to in sub-paragraph (1)(b)(i) are that—
+>
+> - (a) the property was first occupied before the first commissioning date for the plant; and
+> - (b) the period between the date on which the EPC was issued and the RHI date is less than 24 months.
+
+.
+
+### 27. Amendment to Schedule 4 (information required for accreditation)[^key-3bc5e6bbd8798838dbb1aa26231b65d1]
+
+In Schedule 4, omit paragraph 1(j).
+
+### 28. Substitution of Schedule 6 (expenditure for individual technologies)[^key-7f802f196a40b1b7e47b19b27123dcb1]
+
+For Schedule 6 substitute—
+
+> **SCHEDULE 6 — Expenditure for individual technologies**
+>
+> Regulation 36
+>
+> **PART 1 — Biomass plants**
+>
+> Table 1
+>
+> | Assessment Date | Expenditure threshold | Growth threshold | Super expenditure threshold | Super growth threshold |
+> | --- | --- | --- | --- | --- |
+> | 31st July 2014 | £ 2.40m | \- | £ 4.80m | \- |
+> | 31st October 2014 | £ 4.20m | £ 1.80m | £ 8.40m | £ 3.60m |
+> | 31st January 2015 | £ 6.00m | £ 1.80m | £ 12.00m | £ 3.60m |
+> | 30th April 2015 | £ 8.40m | £ 2.40m | £ 16.80m | £ 4.80m |
+> | 31st July 2015 | £ 11.90m | £ 3.60m | £ 23.90m | £ 7.20m |
+> | 31st October 2015 | £ 15.50m | £ 3.60m | £ 31.10m | £ 7.20m |
+> | 31st January 2016 | £ 19.10m | £ 3.60m | £ 38.20m | £ 7.20m |
+> | 30th April 2016 | £ 22.70m | £ 3.60m | £ 45.40m | £ 7.20m |
+> | 31st July 2016 | £ 26.30m | £ 3.60m | £ 52.60m | £ 7.20m |
+> | 31st October 2016 | £ 29.90m | £ 3.60m | £ 59.80m | £ 7.20m |
+> | Any date after 30th January 2017 | £ 33.50m | £ 3.60m | £ 67.00m | £ 7.20m |
+>
+> **PART 2 — Air source heat pumps**
+>
+> Table 2
+>
+> | Assessment Date | Expenditure threshold | Growth threshold | Super expenditure threshold | Super growth threshold |
+> | --- | --- | --- | --- | --- |
+> | 31st July 2014 | £ 2.40m | \- | £ 4.80m | \- |
+> | 31st October 2014 | £ 4.20m | £ 1.80m | £ 8.40m | £ 3.60m |
+> | 31st January 2015 | £ 6.00m | £ 1.80m | £ 12.00m | £ 3.60m |
+> | 30th April 2015 | £ 8.40m | £ 2.40m | £ 16.80m | £ 4.80m |
+> | 31st July 2015 | £ 11.90m | £ 3.60m | £ 23.90m | £ 7.20m |
+> | 31st October 2015 | £ 15.50m | £ 3.60m | £ 31.10m | £ 7.20m |
+> | 31st January 2016 | £ 19.10m | £ 3.60m | £ 38.20m | £ 7.20m |
+> | 30th April 2016 | £ 22.70m | £ 3.60m | £ 45.40m | £ 7.20m |
+> | 31st July 2016 | £ 26.30m | £ 3.60m | £ 52.60m | £ 7.20m |
+> | 31st October 2016 | £ 29.90m | £ 3.60m | £ 59.80m | £ 7.20m |
+> | Any date after 30th January 2017 | £ 33.50m | £ 3.60m | £ 67.00m | £ 7.20m |
+>
+> **PART 3 — Ground source heat pumps**
+>
+> Table 3
+>
+> | Assessment Date | Expenditure threshold | Growth threshold | Super expenditure threshold | Super growth threshold |
+> | --- | --- | --- | --- | --- |
+> | 31st July 2014 | £ 2.40m | \- | £ 4.80m | \- |
+> | 31st October 2014 | £ 4.20m | £ 1.80m | £ 8.40m | £ 3.60m |
+> | 31st January 2015 | £ 6.00m | £ 1.80m | £ 12.00m | £ 3.60m |
+> | 30th April 2015 | £ 8.40m | £ 2.40m | £ 16.80m | £ 4.80m |
+> | 31st July 2015 | £ 11.90m | £ 3.60m | £ 23.90m | £ 7.20m |
+> | 31st October 2015 | £ 15.50m | £ 3.60m | £ 31.10m | £ 7.20m |
+> | 31st January 2016 | £ 19.10m | £ 3.60m | £ 38.20m | £ 7.20m |
+> | 30th April 2016 | £ 22.70m | £ 3.60m | £ 45.40m | £ 7.20m |
+> | 31st July 2016 | £ 26.30m | £ 3.60m | £ 52.60m | £ 7.20m |
+> | 31st October 2016 | £ 29.90m | £ 3.60m | £ 59.80m | £ 7.20m |
+> | Any date after 30th January 2017 | £ 33.50m | £ 3.60m | £ 67.00m | £ 7.20m |
+>
+> **PART 4 — Solar thermal plants**
+>
+> Table 4
+>
+> | Assessment Date | Expenditure threshold | Growth threshold | Super expenditure threshold | Super growth threshold |
+> | --- | --- | --- | --- | --- |
+> | 31st July 2014 | £ 1.20m | \- | £ 2.30m | \- |
+> | 31st October 2014 | £ 2.10m | £ 0.90m | £ 4.10m | £ 1.80m |
+> | 31st January 2015 | £ 2.90m | £ 0.90m | £ 5.90m | £ 1.80m |
+> | 30th April 2015 | £ 3.90m | £ 1.00m | £ 7.80m | £ 1.90m |
+> | 31st July 2015 | £ 5.00m | £ 1.10m | £ 10.00m | £ 2.20m |
+> | 31st October 2015 | £ 6.10m | £ 1.10m | £ 12.20m | £ 2.20m |
+> | 31st January 2016 | £ 7.20m | £ 1.10m | £ 14.40m | £ 2.20m |
+> | 30th April 2016 | £ 8.30m | £ 1.10m | £ 16.60m | £ 2.20m |
+> | 31st July 2016 | £ 9.40m | £ 1.10m | £ 18.80m | £ 2.20m |
+> | 31st October 2016 | £ 10.50m | £ 1.10m | £ 21.00m | £ 2.20m |
+> | Any date after 30th January 2017 | £ 11.60m | £ 1.10m | £ 23.20m | £ 2.20m |
+
+Bourne
+
+Parliamentary Under Secretary of State
+
+Department of Energy and Climate Change
+
+1st March 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations apply to Great Britain and amend the Renewable Heat Incentive Scheme Regulations 2011 (the “2011 Regulations”) and the Domestic Renewable Heat Incentive Scheme Regulations 2014 (the “2014 Regulations”). The 2011 Regulations and 2014 Regulations create schemes under which owners of plants which generate heat from specified renewable sources and meet specified criteria, and producers of biomethane for injection, may receive payments at prescribed tariffs for heat used for eligible purposes.
+
+## The Renewable Heat Incentive Scheme Regulations 2011 – Part 2
+
+Regulation 3 inserts definitions of “consumer prices index” and “environmental quality assurance scheme” into the interpretation provision of the 2011 Regulations, and explains how figures should be rounded to one or two decimal places, where required.
+
+Regulation 4 sets out requirements for a scheme which is equivalent to the MCS.
+
+Regulation 5 amends the 2011 Regulations to ensure that the calculation of any grant funding deduction is adjusted in line with the consumer prices index for participants with a tariff start date on or after 1st April 2016.
+
+Regulation 6 provides that, in respect of biogas or solid biomass used on or after 24th March 2016, the ongoing obligation to use only sustainable biogas or sustainable solid biomass is deemed to be met where the biogas or solid biomass used meets the greenhouse gas and land criteria in the Renewables Obligation Order 2015 or the greenhouse gas emission and land criteria in the Renewables Obligation (Scotland) Order 2009 (as amended).
+
+Regulation 7 provides that no sustainability audit report is required where the obligation to use only sustainable biogas or sustainable solid biomass is deemed to be complied with under amended regulation 36B(3)(a).
+
+Regulation 8 provides that subsequent tariff calculations will be adjusted in accordance with the consumer prices index for all scheme participants with a tariff start date on or after 1st April 2016.
+
+Regulation 9 provides that initial tariff calculations will be adjusted in accordance with the consumer prices index for all scheme participants with a tariff start date on or after 1st April 2017.
+
+Regulation 10 inserts references to the Renewables Obligation Order 2015.
+
+Regulation 11 removes the definition of “environmental quality assurance scheme” from Schedule 2.
+
+Regulation 12 amends the land criteria in Schedule 2B in order to mirror similar provisions in the Renewables Obligation Order 2015. In particular paragraph 5 sets out the definition of what is meant by being obtained from a “sustainable source”.
+
+Regulation 13 amends Schedule 4 to the 2011 Regulations to provide total expenditure figures for the calculation of initial tariffs under regulations 37C and 37D up to 30th January 2017 and for any date thereafter.
+
+Regulation 14 amends Schedule 5 to the 2011 Regulations to provide expenditure and related figures in relation to individual technologies (excluding heat pumps, and producers of biomethane for injection and plants which generate heat from biogas) up to 30th January 2017 and for any date thereafter. The thresholds in Schedules 4 and 5 form part of the cost control mechanism in the 2011 Regulations.
+
+## The Domestic Heat Incentive Scheme Regulations 2014 – Part 3
+
+Regulation 16 amends the interpretation section of the 2014 Regulations by—
+
+- (a) clarifying the definitions for “certified installer” and “MCS register”;
+- (b) inserting a definition of “consumer prices index”;
+- (c) updating the definition for “relevant EPC” so that it includes an EPC which has been issued pursuant to a request from the Office of Gas and Electricity Markets;
+- (d) removing the definition of “Green Deal Assessment”; and
+- (e) explaining how figures should be rounded to two decimal places where required.
+
+Regulation 17 further clarifies the requirements for a scheme which is equivalent to the MCS.
+
+Regulation 18 clarifies that solar thermal collectors cannot have generated heat before the plant’s first commissioning date.
+
+Regulation 19 provides that the 183 day occupation requirement in relation to the 12 month period prior to the RHI date will not apply to eligible new-build properties.
+
+Regulation 20 amends the 2014 Regulations to ensure that the calculation of any grant funding deduction is adjusted in line with the consumer prices index for participants with a tariff start date on or after 1st April 2016.
+
+Regulation 21 clarifies that initial tariffs are to be stated to two decimal places.
+
+Regulation 22 provides that initial tariff calculations will be adjusted in accordance with the consumer prices index for all scheme participants with a tariff start date on or after 1st April 2017.
+
+Regulation 23 provides that subsequent tariff calculations will be adjusted in accordance with the consumer prices index for all scheme participants with a tariff start date on or after 1st April 2016.
+
+Regulation 24 updates the calculation for “estimated spend” when determining the forecast for expenditure so that the Secretary of State is not required to estimate the future occupation of eligible new-build properties which do not meet the requirement prior to the RHI date.
+
+Regulation 25 provides that the exception to the 183 day occupation requirement for eligible new-build properties will not apply where metering requirements are considered under regulation 46.
+
+Regulation 26 removes the requirement for a Green Deal Assessment.
+
+Regulation 27 further removes the requirement for a unique reference number relating to a Green Deal Assessment to be provided as part of an accreditation application.
+
+Regulation 28 amends Schedule 6 to the 2014 Regulations to provide technology-specific expenditure and related figures up to 30th January 2017 and for any date thereafter.
+
+Documents published on www.microgenerationcertification.org are also available from Gemserv Limited at 8 Fenchurch Place, London, EC3M 4AJ.
+
+The Explanatory Memorandum will be published alongside the instrument on www.legislation.gov.uk.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32); section 100 was amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195) and section 51 of the Infrastructure Act [2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 51 also amended section 105 of the Energy Act 2008 (Parliamentary control of subordinate legislation) and inserted subsections (3A) to (3I) concerning provisions which require the affirmative resolution procedure. These Regulations do not contain provisions of the kind described in those subsections.
+
+[^key-ed80928c90f71de8dab2b681cc4a8931]: Commencement: Reg. 1 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-982c701fc2b26f243690db0756078d8e]: Textual amendment: [Regs. 2-14](https://www.legislation.gov.uk/uksi/2016/257/regulation/2) revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(i)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/i) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+
+[^key-c935475df2436f720cb0a2bf44ccd197]: Commencement: Reg. 15 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^f00012]: Footnote: [S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928); relevant amending instruments are [2015/143](https://www.legislation.gov.uk/uksi/2015/143), [145](https://www.legislation.gov.uk/uksi/2015/145) and [1459](https://www.legislation.gov.uk/uksi/2015/1459).
+
+[^key-dae6ce151c7e780d7ee0a4dc220f171d]: Commencement: Reg. 16 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^f00013]: Footnote: The ISBN for the English language version of this standard is ISBN 0580294153. This standard is published by the British Standards Institution and copies can be obtained at www.bsigroup.com.
+
+[^f00014]: Footnote: The ISBN for the English language version of this standard is ISBN 9780580784729. This standard is published by the British Standards Institution and copies can be obtained at www.bsigroup.com.
+
+[^key-e59e8b65991c5429bed8703bc81f3783]: Commencement: Reg. 17 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-4e0c5cb94eb46f2b283e67e11ddaed8b]: Commencement: Reg. 18 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-fdd979861bd8477f7f01ef718f4c493e]: Commencement: Reg. 19 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-c4677d07e05bf9074db248747ffc644e]: Commencement: Reg. 20 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-056c986783463829ebde355d1a321986]: Commencement: Reg. 21 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-e45b90fab91f9cef2624e3313dbc6d30]: Commencement: Reg. 22 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-5bf2973a4249cf378ba1f47b705a862e]: Commencement: Reg. 23 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-8b3ecb50cfd849b006bdd775f2bd8706]: Commencement: Reg. 24 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-04bea85f5aa9f94c6085953e9909b502]: Commencement: Reg. 25 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-85ad962eb7e9afcc97ac3c1370754aff]: Commencement: Reg. 26 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-3bc5e6bbd8798838dbb1aa26231b65d1]: Commencement: Reg. 27 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)
+
+[^key-7f802f196a40b1b7e47b19b27123dcb1]: Commencement: Reg. 28 in force at 24.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1)

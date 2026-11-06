@@ -1,0 +1,63 @@
+---
+title: Banking Act 2009, section 83ZB
+act: Banking Act 2009
+section: 83ZB
+status: revised-with-pending-changes
+text_date: '2026-01-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/1/section/83ZB
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Banking Act 2009, section 83ZB
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-01-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 83ZB. Reports by skilled persons[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where the Bank of England has required or could require a person to whom subsection (2) applies (“the person concerned”) to provide information or produce documents with respect to any matter (“the matter concerned”) under section 83ZA.
+
+(2) This subsection applies to—
+
+- (a) a bank (“B”),
+- (b) a member of B’s group,
+- (c) a partnership of which B is a member, or
+- (d) a person who has at any relevant time been a person falling within paragraph (a), (b) or (c),
+
+who is, or was at the relevant time, carrying on a business.
+
+(3) The Bank of England may either—
+
+- (a) by notice in writing given to the person concerned, require that person to provide the Bank with a report on the matter concerned, or
+- (b) itself appoint a person to provide the Bank with a report on the matter concerned.
+
+(4) When acting under subsection (3)(a), the Bank may require the report to be in such form as may be specified in the notice.
+
+(5) The Bank must give notice of an appointment under subsection (3)(b) to the person concerned.
+
+(6) The person appointed to make a report—
+
+- (a) must be a person appearing to the Bank to have the skills necessary to make a report on the matter concerned, and
+- (b) where the appointment is to be made by the person concerned, must be a person nominated or approved by the Bank.
+
+(7) It is the duty of—
+
+- (a) the person concerned, and
+- (b) any person who is providing (or who has at any time provided) services to the person concerned in relation to the matter concerned,
+
+to give the person appointed to prepare a report all such assistance as the appointed person may reasonably require.
+
+(8) The obligation imposed by subsection (7) is enforceable, on the application of the Bank, by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988.
+
+(9) The Bank may, in relation to an appointment under subsection (3)(b), require B to pay to the Bank a fee to cover the expenses incurred by the Bank in relation to the appointment.
+
+(10) In this section “group” has the meaning given by section 3(2)(b).
+
+## Annotations
+
+[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]: Textual amendment: Pt. 1 Ch. 4 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [97](https://www.legislation.gov.uk/uksi/2014/3329/article/97)

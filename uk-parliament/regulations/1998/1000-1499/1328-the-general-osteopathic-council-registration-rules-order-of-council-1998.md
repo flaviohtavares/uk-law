@@ -1,0 +1,205 @@
+---
+title: The General Osteopathic Council (Registration) Rules Order of Council 1998
+id: uksi/1998/1328
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-05-09'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1998/1328
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1328/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The General Osteopathic Council (Registration) Rules Order of Council 1998
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1998 No. 1328
+
+OSTEOPATHS
+
+The General Osteopathic Council (Registration) Rules Order of Council 1998
+
+Made
+
+9th May 1998
+
+Coming into force
+
+9th May 1998
+
+At the Council Chamber, Whitehall, the 9th day of May 1998
+
+By the Lords of Her Majesty’s Most Honourable Privy Council
+
+Whereas in pursuance of sections 4(4), 6(1)(b), (2), (3) and (4) of the Osteopaths Act 1993[^f00001] the General Osteopathic Council have made the General Osteopathic Council (Registration) Rules 1998 as set out in the Schedule to this Order:
+
+And whereas by section 35(1) of the said Act such rules shall not have effect until approved by the Privy Council:
+
+Now, therefore, Their Lordships, having taken the said rules into consideration, are pleased to, and do hereby, approve the same.
+
+This Order may be cited as the General Osteopathic Council (Registration) Rules Order of Council 1998 and shall come into force on 9th May 1998.
+
+N. H. Nicholls
+
+Clerk of the Privy Council
+
+## SCHEDULE — THE GENERAL OSTEOPATHIC COUNCIL (REGISTRATION) RULES 1998
+
+The General Osteopathic Council, in exercise of their powers under section 4(4), 6(1)(b), (2), (3) and (4) of the Osteopaths Act 1993[^f00002], and of all other powers enabling them in that behalf, hereby make the following Rules:
+
+### 1. Citation and commencement[^key-70463abb456d72e29e79169c0a1c1736]
+
+These Rules may be cited as the General Osteopathic Council (Registration) Rules 1998 and shall come into force on 9th May 1998.
+
+### 2. Interpretation[^key-b614f1590d99b094deb85d7fd96c6e66]
+
+(1) In these Rules, unless the context otherwise requires, “the Act” means the Osteopaths Act 1993.
+
+(2) Unless the context otherwise requires, a reference—
+
+- (a) in these Rules to a numbered rule is a reference to the rule bearing that number in these Rules; and
+- (b) in a rule to a numbered paragraph is a reference to the paragraph bearing that number in that rule.
+
+(3) The address at which a registered osteopath has his principal practice is the address which he has informed the Registrar is the address to be shown as such in the register in relation to his name.
+
+### 3. The form of the register[^key-e2febc7d0a2e11ea6d0037945f1bdb2d]
+
+(1) The register shall contain a separate list of persons falling within each of the following categories—
+
+- (a) persons resident in the United Kingdom [^key-03040e62633aa33a8e13973825546a94]..., the Channel Islands or the Isle of Man (“the Principal List”);
+- (b) persons resident outside the United Kingdom [^key-e6f856480da93b2c61e38d9b598c244c]... or the Channel Islands or the Isle of Man (“the Overseas List”)
+
+and the names of persons entered in both the Principal List and the Overseas List shall be in alphabetical order.
+
+(2) The Registrar shall enter the name of a person entitled to be registered under the Act in the List appropriate to his place of residence and shall allocate to each person registered a unique identifying reference (“unique reference”).
+
+(3) The registrar shall, in respect of each person whose name is entered in the register contain, in addition to his name, the following information—
+
+- (a) the address—
+  - (i) at which he has his practice, or
+  - (ii) if he practises at more than one place, at which he has his principal practice, or
+  - (iii) if he is a non-practising osteopath, which he has informed the Registrar is the address to be shown in the register in relation to his name;
+- (b) the date on which he was fully registered[^key-d671f59ae1af0702fa9e112854af1f98] or conditionally registered[^key-051bbb4823910725967e59f020d106bb] as the case may be;
+- (c) his unique reference;
+- (d) the word “full”[^key-c071003271873087ff9c4bb7e60d952d] or “conditional”[^key-c485132f9dc100fef4a29ddcc0370a01] depending on the status of the osteopath;
+- (e) where the entry was first made—
+  - (i) during the transitional period, the qualification in osteopathy (if any) that he possessed on the date of entry, the institution from which he obtained the qualification and the date on which he obtained it and, where the qualification is a recognised qualification, an indication that it is such a qualification;
+  - (ii) after the transitional period, his recognised qualification, the institution from which he obtained the qualification and the date on which he obtained it;
+- (f) such other qualifications as the General Council have determined may be entered in the register;
+- (g) in the case of a person who is a man the letter “M” and in the case of a person who is a woman the letter “W” and also, if a women so requests, the title “Miss”, “Mrs” or “Ms”.
+
+(4) In this rule—
+
+- (a) “transitional period” has the same meaning as in section 3(7) of the Act;
+- (b)[^key-5c784a3001746ddbb3a4b81d3ff8b6be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-634002c74428f96ae79fbe2dc8c900ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. The keeping of the register[^key-90f7dda5c84311885199d25ef969e4e1]
+
+(1) The register shall be kept secure in a manner which guards against falsification and to this end the Registrar shall ensure that only he and such persons as have been authorised by him in writing for the purpose shall have access to the register.
+
+(2) Where a conditions of practice order or a suspension order has been made under either section 22 or section 23 of the Act in respect of a registered osteopath, the Registrar shall enter the particulars of the order against the name of the osteopath in the register.
+
+(3) Where an order referred to in paragraph (2) ceases to have effect, is revoked or is replaced by another such order, the Registrar shall remove the entry relating to it in the register and, where the order is replaced by another order, enter the particulars of that order in the register.
+
+(4) The register shall indicate whether a person whose name is in the register is a non-practising osteopath.
+
+(5) The Registrar may, on the application in writing of a registered osteopath, amend the particulars entered in the register in relation to his name and in particular may, where the registration of a conditionally registered osteopath has been converted to full registration in accordance with rule 5, amend the register accordingly.
+
+(6) Before amending the register in accordance with an application made under paragraph (5), the Registrar shall satisfy himself as to the accuracy of the information to be entered in the register and may require the registered osteopath making the application to produce a statutory declaration, a marriage certificate or such other documentary evidence as the Registrar considers appropriate in any case.
+
+(7) In this rule, “non-practising osteopath” means a person who pays a reduced entry fee in accordance with rule 10(1)(a) of the General Osteopathic Council (Application for Registration and Fees) Rules 1998[^f00005].
+
+### 5. Conversion from conditional to full registration[^key-8edc1270163d44057f083bbdf3ae7bba]
+
+(1) The registration of a conditionally registered osteopath shall be converted from conditional registration to full registration if he has applied to the Registrar in writing for such conversion and the circumstances specified in either paragraph (2) or paragraph (3) apply.
+
+(2) The circumstances are that where the osteopath concerned has given an undertaking pursuant to section 4(2)(f) of the Act—
+
+- (a) to complete additional training, specified by the Registrar, he has completed that training;
+- (b) to acquire additional experience, specified by the Registrar, he has acquired that experience;
+- (c) to comply with conditions imposed on him by the Registrar, he has complied with those conditions.
+
+(3) Subject to paragraph (4), the circumstances are that the Registrar has not required the osteopath concerned to complete additional training or acquire additional experience and has not imposed conditions on the osteopath concerned.
+
+(4) The circumstances specified in paragraph (3) shall only apply if the osteopath concerned satisfies the Registrar that, during the period starting with his application for registration and ending on the day the Registrar is considering his application under this rule, he has practised osteopathy lawfully, safely and competently.
+
+(5) In this rule, “application for registration” means an application made in accordance with rule 3 of the General Osteopathic Council (Transitional Period) (Application for Registration and Fees) Rules 1998.
+
+### 6. The giving of reasons[^key-dd6c173450c50b57b5f8c88e44f43058]
+
+Where the Registrar removes an entry in the register (except where the removal is pursuant to an order under section 22(4)(d) of the Act) or refuses to renew an entry, he shall give the osteopath concerned reasons in writing for the removal or the refusal as the case may be.
+
+### 7. Issue and form of certificates[^key-d4996080391d8a88fc8331c5f7a838b2]
+
+(1) Where the Registrar enters the name of an osteopath in the register, he shall issue to that osteopath a certificate of registration complying with the requirements of paragraph (2).
+
+(2) A certificate of registration shall be in the form determined by the General Council and shall—
+
+- (a) state—
+  - (i) the name of the osteopath concerned,
+  - (ii) his unique reference;
+  - (iii) the date on which he was registered, and
+  - (iv) whether the osteopath concerned is registered as a fully registered osteopath [^key-27d4d6e105ec9411584cb5bbaffefb1a]... or a conditionally registered osteopath; and
+- (b) be signed by the Registrar.
+
+Given under the official seal of the General Osteopathic Council this 29th day of April nineteen hundred and ninety eight.
+
+Simon Fielding
+
+Chairman
+
+(This note is not part of the Order)
+
+This Order, which is made under the Osteopaths Act 1993, approves rules made by the General Osteopathic Council with respect to the registration of osteopaths. The rules provide, in particular, for the form and keeping of the register, conversion from conditional to full registration, and the issue and form of certificates of registration.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21).
+
+[^f00002]: Footnote: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21).
+
+[^key-70463abb456d72e29e79169c0a1c1736]: Commencement: Sch. rule 1 in force at 9.5.1998
+
+[^key-b614f1590d99b094deb85d7fd96c6e66]: Commencement: Sch. rule 2 in force at 9.5.1998
+
+[^key-e2febc7d0a2e11ea6d0037945f1bdb2d]: Commencement: Sch. rule 3 in force at 9.5.1998
+
+[^key-03040e62633aa33a8e13973825546a94]: Textual amendment: Words in [Sch. rule 3(1)(a)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/1/a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e6f856480da93b2c61e38d9b598c244c]: Textual amendment: Words in [Sch. rule 3(1)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/1/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d671f59ae1af0702fa9e112854af1f98]: Textual amendment: Words in [Sch. rule 3(3)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/b) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [215(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/215/a/ii/aa)
+
+[^key-051bbb4823910725967e59f020d106bb]: Textual amendment: Words in [Sch. rule 3(3)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/b) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/ii/aa) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c071003271873087ff9c4bb7e60d952d]: Textual amendment: Words in [Sch. rule 3(3)(d)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/d) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [215(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/215/a/ii/bb)
+
+[^key-c485132f9dc100fef4a29ddcc0370a01]: Textual amendment: Words in [Sch. rule 3(3)(d)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/d) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/ii/bb) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5c784a3001746ddbb3a4b81d3ff8b6be]: Textual amendment: [Sch. rule 3(4)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/4/b) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [215(a)(iii)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/215/a/iii)
+
+[^key-634002c74428f96ae79fbe2dc8c900ff]: Textual amendment: [Sch. rule 3(4)(c)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/4/c) omitted (18.8.2004) by virtue of [The European Qualifications (Health and Social Care Professions and Accession of New Member States) Regulations 2004 (S.I. 2004/1947)](https://www.legislation.gov.uk/uksi/2004/1947), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1947/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2004/1947/regulation/14/2/b)
+
+[^key-90f7dda5c84311885199d25ef969e4e1]: Commencement: Sch. rule 4 in force at 9.5.1998
+
+[^f00005]: Footnote: S.I. [1998/872](https://www.legislation.gov.uk/uksi/1998/872).
+
+[^key-8edc1270163d44057f083bbdf3ae7bba]: Commencement: Sch. rule 5 in force at 9.5.1998
+
+[^key-dd6c173450c50b57b5f8c88e44f43058]: Commencement: Sch. rule 6 in force at 9.5.1998
+
+[^key-d4996080391d8a88fc8331c5f7a838b2]: Commencement: Sch. rule 7 in force at 9.5.1998
+
+[^key-27d4d6e105ec9411584cb5bbaffefb1a]: Textual amendment: Words in [Sch. rule 7(2)(a)(iv)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/7/2/a/iv) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

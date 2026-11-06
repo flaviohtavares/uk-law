@@ -1,0 +1,121 @@
+---
+title: The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016
+id: uksi/2016/76
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-01-20'
+text_date: '2016-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2016/76
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/76/pdfs/uksiem_20160076_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/76/pdfs/uksi_20160076_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/76/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016
+
+> Text as at 2016-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2016 No. 76
+
+Animals, England
+
+Animal Health
+
+The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016
+
+Made
+
+20th January 2016
+
+Coming into force
+
+6th April 2016
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 1 and 8(1) of the Animal Health Act 1981[^f00001] and now vested in her[^f00002].
+
+## 1. Title and commencement
+
+This Order —
+
+- (a) may be cited as the Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016; and
+- (b) comes into force on 6th April 2016.
+
+## 2. Amendment of the Sheep and Goats (Records, Identification and Movement) (England) Order 2009
+
+(1) The Sheep and Goats (Records, Identification and Movement) (England) Order 2009[^f00003] is amended as follows.
+
+(2) After article 24 (inventory of animals), insert—
+
+> **24A. Notification of holdings where animals are kept**
+>
+> (1) Where, on or after 6th April 2016, a person becomes the keeper of any animal on a holding, they must within 30 days after they begin to keep that animal, notify the Secretary of State in accordance with Article 8(2) of the Council Regulation[^f00004].
+>
+> (2) Where, on 6th April 2016, a person is already the keeper of any animal on a holding but has not notified the Secretary of State in accordance with Article 8(2) of the Council Regulation, they must do so by 6th May 2016.
+>
+> (3) It is an offence for a keeper to fail to comply with this article.
+
+.
+
+(3) In article 43 (review of this order)—
+
+- (a) for paragraph (1), substitute—
+
+  > (1) The Secretary of State must from time to time—
+
+  ;
+- (b) after paragraph (1), insert—
+
+  > (1A) In carrying out the review the Secretary of State must, so far as reasonable, have regard to the powers and mechanisms available in other Member States to enable the provisions of the Council Regulation to be implemented.
+
+  ;
+- (c) for paragraph (3), substitute—
+
+  > (3) The first report under this article must be published before the end of the period of five years beginning with 6th April 2014.
+
+  ;
+- (d) after paragraph (3), insert—
+
+  > (4) Reports under this article are afterwards to be published at intervals not exceeding five years.
+
+  .
+
+George Eustice
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+20th January 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Sheep and Goats (Records, Identification and Movement) (England) Order 2009 ([S.I. 2009/3219](https://www.legislation.gov.uk/uksi/2009/3219)) which implements Council Regulation [(EC) No 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) (OJ No L 5, 9.1.2004. p.8).
+
+Article 2(2) of this Order requires persons who (a) become keepers of sheep and/or goats after the commencement of this Order and (b) are already keepers of sheep and/or goats upon the commencement of this Order, to notify the Secretary of State (if they have not already done so).
+
+Article 2(3) of this Order provides for reviews of the Order at five-yearly intervals following the first review within five years of 6th April 2014 and requires the Secretary of State to have regard to the way in which the Council Regulation is implemented in other Member States when undertaking reviews of the Order.
+
+No impact assessment has been produced for this Order as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22) to which there are amendments not relevant to this Order.
+
+[^f00002]: Footnote: Functions conferred under the 1981 Act on “the Minister” and “the Ministers” are now exercisable by the Secretary of State. Functions of “the Ministers” were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). Functions of the Minister of Agriculture, Fisheries and Food were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^f00003]: Footnote: [S.I. 2009/3219](https://www.legislation.gov.uk/uksi/2009/3219) amended by [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897), [2014/331](https://www.legislation.gov.uk/uksi/2014/331).
+
+[^f00004]: Footnote: OJ No L 5, 9.1.2004, p.8 to which there are amendments not relevant to this Order.

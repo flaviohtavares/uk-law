@@ -1,0 +1,245 @@
+---
+title: The Movement of Animals (Restrictions) (England) Order 2002
+id: uksi/2002/3229
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-12-23'
+text_date: '2024-04-25'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2002/3229
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/3229/pdfs/uksi_20023229_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/3229/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Movement of Animals (Restrictions) (England) Order 2002
+
+> Text as at 2024-04-25.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2002 No. 3229
+
+ANIMALS, ENGLAND
+
+ANIMAL HEALTH
+
+The Movement of Animals (Restrictions) (England) Order 2002
+
+Made
+
+23rd December 2002
+
+Coming into force
+
+20th January 2003
+
+The Secretary of State in exercise of the powers conferred on her by sections 1, 8(1), 17(1), 23, 83(2), 87(2) and (5) and 88(2) and (4) of the Animal Health Act 1981[^f00001] makes the following Order—
+
+## 1. Title, commencement and extent
+
+This Order may be cited as the Movement of Animals (Restrictions) (England) Order 2002; shall come into force on 20th January 2003; and extends to England only.
+
+## 2. Extension of definition of “animals” and “disease”
+
+For the purposes of the Animal Health Act 1981 in its application to this Order—
+
+- (a) the definition of “animals” in section 87(1) of that Act is extended so as to comprise any kind of mammal except man and any kind of four-footed beast which is not a mammal; and
+- (b) the definition of “disease” in section 88(1) of that Act is extended so as to comprise any disease of animals.
+
+## 3. Interpretation and application
+
+(1) In this Order—
+
+- “premises” includes land with or without buildings; and
+- “primary route” has the same meaning as in the Traffic Signs Regulations and General Directions 1994[^f00002].
+
+(2) Where a power contained in this Order could be exercised under the provisions of any other Order, the power under this Order may be exercised in addition to, or instead of, the power in the other Order.
+
+*Extent: E*
+
+(3)[^key-4c7b29903d5902e9712bace12a08b398] But this Order does not apply where the Tuberculosis in Animals (England) Order 2021 applies.
+
+## 4. Restrictions on movement of animals in cases of disease or suspected disease
+
+(1) If a veterinary inspector suspects that disease exists on any premises or means of transport, he may serve a notice on the person in charge of the premises or means of transport prohibiting the movement of any animal, carcase or other thing on to or from those premises or that means of transport, except under the authority of a licence issued by a veterinary inspector.
+
+(2) A notice issued under paragraph (1) may contain such other restrictions or requirements with regard to the premises or means of transport or with regard to persons, animals, carcases or other things on the premises or means of transport as the veterinary inspector considers necessary for the purpose of preventing the spread of disease.
+
+(3) If any person contravenes a notice issued under this article in so far as it applies to an animal, the Secretary of State or an inspector of a local authority, may seize or detain that animal and may dispose of it in such manner as he considers necessary to prevent the spread of disease.
+
+(4) Any expenses incurred by the Secretary of State or inspector in exercise of the powers under paragraph (3) shall be recoverable as a civil debt, by the Secretary of State or local authority, from the person in default.
+
+## 5. Declaration of a temporary control area[^key-f7d45c2c0980313ab1d373c2e389644c]
+
+(1) If the Secretary of State suspects that—
+
+- (a) disease exists on any premises; or
+- (b) animals on any premises may be or have been exposed to disease,
+
+he may declare in writing an area to be a temporary control area.
+
+(2) A temporary control area shall be of such size as the Secretary of State thinks necessary in order to prevent the spread of disease.
+
+(3) Any premises which are partly inside and partly outside a temporary control area shall be deemed to be wholly within that area.
+
+(4) In a declaration under paragraph (1), the Secretary of State shall—
+
+- (a) specify the disease which the Secretary of State suspects to exist, or, if no specific disease is suspected, state that the Secretary of State suspects disease to exist; and
+- (b) specify the species of animal to which the declaration applies.
+
+(5) The Secretary of State may specify in a declaration under paragraph (1)—
+
+- (a) the biosecurity measures which shall be taken on premises in a temporary control area or in any part of that area; and
+- (b) such other measures which are to apply in the temporary control area, or in any part of that area, as the Secretary of State considers necessary in order to prevent the spread of disease.
+
+(6) The Secretary of State may prohibit in a declaration under paragraph (1) the movement of any animal or thing capable of spreading disease—
+
+- (a) into or out of the temporary control area; and
+- (b) onto or from any premises in the temporary control area.
+
+(7) But a person may move any such animal or thing under the authority of a licence issued by a veterinary inspector or an inspector acting under the direction of a veterinary inspector.
+
+(8) A person to whom a requirement or prohibition in a declaration under paragraph (1) applies shall—
+
+- (a) comply with the requirement or prohibition; and
+- (b) comply with any reasonable request which a veterinary inspector or an inspector of the local authority may make to ensure that the requirement or prohibition is complied with.
+
+(9) The Secretary of State may revoke or amend in writing a declaration under paragraph (1) at any time.
+
+(10) Such an amendment or revocation shall—
+
+- (a) refer to the declaration; and
+- (b) state the date and time the revocation or amendment is to take effect.
+
+## 5A. Declaration of an infected area[^key-24a825c7731f9e4d3d374457529e1fca]
+
+(1) If the Secretary of State considers that disease exists or has existed in the preceding 56 days on any premises, he may declare an area to be an infected area.
+
+(2) An infected area declared under paragraph (1) must be of such size as the Secretary of State considers necessary in order to prevent the spread of disease.
+
+(3) A declaration under paragraph (1) must specify one or more of the following—
+
+- (a) the disease in respect of which the infected area is being declared;
+- (b) the species of animals to which the declaration relates;
+- (c) the premises within the infected area to which the declaration relates;
+- (d) the biosecurity measures which must be taken on premises within the infected area; or
+- (e) such other measures that are to apply in the infected area, or in any part of that area, as the Secretary of State considers necessary in order to prevent the spread of disease.
+
+(4) No person shall move an animal belonging to a species to which a declaration under paragraph (1) relates, into or out of an area declared to be an infected area under this Order, except under the authority of a licence issued by a veterinary inspector or an inspector under the direction of a veterinary inspector.
+
+(5) No person shall move an animal to or from premises within an area declared to be an infected area under this Order, except under the authority of a licence issued by a veterinary inspector or an inspector acting under the instructions of a veterinary inspector.
+
+(6) For the purposes of this article, any premises which are partly inside and partly outside an infected area are deemed to be wholly within that area.
+
+(7) Where an animal is transiting an area declared to be an infected area under this Order, the animal must be moved in a vehicle and by the shortest available route without being unloaded.
+
+(8) A declaration made under this Order may be amended, suspended or revoked by the Secretary of State at any time.
+
+(9) A declaration made under this Order and any amendment, suspension or revocation of the declaration must be in writing
+
+## 6. Restrictions on movement of animals within and out of an infected area[^key-03c38fdfef27583e8c5aa4be957c25a7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Veterinary investigation as to the existence of disease
+
+(1) Where, for any reason, the Secretary of State considers it necessary to establish whether or not disease exists on any premises or means of transport, a veterinary inspector may carry out such inquiries, examinations and tests and take such samples as he considers necessary.
+
+(2) A veterinary inspector may mark, or cause to be marked, for identification purposes any animal, carcase or other thing in relation to which any of the powers under paragraph (1) have been exercised.
+
+(3) No person shall deface, obliterate or remove any mark applied under paragraph (2)
+
+(4) The person in charge of the premises or means of transport or any person in his employment shall render such reasonable assistance to a veterinary inspector as he may require for the purpose of facilitating the exercise of his powers under paragraph (1) or (2).
+
+## 8. Restriction on the movement of animals in order to ascertain the presence of disease
+
+Where a veterinary inspector is carrying out an investigation under article 7, he may—
+
+- (a) where the animals under investigation are on premises, serve a notice on the person in charge of the premises, restricting the movement of any animal on to or off those premises; and
+- (b) where the animals under investigation are on a means of transport, serve a notice on the person in charge of the animals or the means of transport requiring him to move the animals to such place as may be specified in the notice.
+
+## 9. Cleansing and disinfection
+
+A veterinary inspector may serve a notice on the person in charge of any premises or means of transport in respect of which a notice under article 4 has been issued, requiring him to cleanse and disinfect those premises or that means of transport in accordance with the requirements of that notice.
+
+## 10. General provisions as to notices and licences
+
+(1) All licences and notices under this Order shall be in writing, may be subject to conditions and may be varied, suspended or revoked by a veterinary inspector in writing at any time.
+
+(1A)[^key-6807cca12f4fb5d1c0b4f8d617501aad] A licence under this Order may be general or specific.
+
+(2) A licence issued under this Order shall accompany whatever is being moved under its authority and any person acting under the authority of such a licence shall, on demand made by the Secretary of State or by an inspector of the local authority or by a member of a police force—
+
+- (a) produce the licence;
+- (b) allow a copy or extract to be taken; and
+- (c) furnish his name and address.
+
+## 11. General powers
+
+(1) If any person moves any animal or thing in contravention of a licence or notice issued under this Order, the Secretary of State or an inspector of the local authority may, without prejudice to any proceedings for an offence arising out of such contravention, serve a notice on the person in charge of that animal or thing, requiring him to move it in accordance with the requirements of the notice.
+
+(2) If any person on whom a notice has been served under article 9 fails to comply with the requirements of that notice, the Secretary of State or an inspector of the local authority may, without prejudice to any proceedings arising out of such default, carry out or cause to be carried out, the cleansing and disinfection required by the notice.
+
+(3) Any expenses reasonably incurred by the Secretary of State or inspector of the local authority in the exercise of the powers under paragraphs (1) or (2) shall be recoverable as a civil debt by the Secretary of State or the local authority, from the person in default.
+
+## 12. Enforcement[^key-c334cb223e0db849e1ad6ee06e6b3719]
+
+(1) Subject to paragraph (2), the provisions of this Order shall, except where otherwise expressly provided, be executed and enforced by the local authority.
+
+(2) The Secretary of State may direct, in relation to cases of a particular description or to particular cases, that this Order is instead to be enforced by the Secretary of State.
+
+(3) Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Act relating to this Order
+
+## 13. Revocations
+
+The following Orders are revoked in so far as they apply to England—
+
+- (a) The Disease of Animals (Ascertainment of Disease) Order 1985[^f00003]; and
+- (b) The Movement of Animals (Restrictions) Order 1990[^f00004];
+
+Michael Meacher
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+(This note is not part of the Order)
+
+This Order revokes and remakes the provisions of the Disease of Animals (Ascertainment of Disease) Order 1985 ([S.I.1985/1765](https://www.legislation.gov.uk/uksi/1985/1765)) and the Movement of Animals (Restrictions) Order 1990 (S.I. [1990/760](https://www.legislation.gov.uk/uksi/1990/760)).
+
+The Order—
+
+- (a) extends to the presence of disease on means of transport as well as on premises; and
+- (b) enables a veterinary inspector to prohibit the movement of animals while investigating whether disease is on the premises or means of transport (article 8(b)).
+
+A Regulatory Impact Assessment has been prepared for this Order and placed in the library of each House of Parliament. Copies can be obtained from the Animal Health and Exotic Diseases Division of the Department for Environment, Food and Rural Affairs, 1a Page Street, London, SW1P 4PQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). See section 86(1) for the definitions of “the Ministers” and “the Minister”. Functions of “the Ministers” so far as exercisable by the Secretaries of State for Scotland and Wales in relation to England, were transferred to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 (S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and were then transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^f00002]: Footnote: S.I. [1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
+
+[^key-4c7b29903d5902e9712bace12a08b398]: Textual amendment: Art. 3(3) inserted (1.10.2021) by The Tuberculosis in [Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2021/1001/article/27/2)
+
+[^key-f7d45c2c0980313ab1d373c2e389644c]: Textual amendment: Art. 5 substituted (25.9.2007 at 3.00 p.m.) by [The Movement of Animals (Restrictions) (England) (Amendment) Order 2007 (S.I. 2007/2809)](https://www.legislation.gov.uk/uksi/2007/2809), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2809/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2007/2809/article/2/2)
+
+[^key-24a825c7731f9e4d3d374457529e1fca]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2002/3229/article/5A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/558/article/3/2)
+
+[^key-03c38fdfef27583e8c5aa4be957c25a7]: Textual amendment: Art. 6 omitted (25.9.2007 at 3.00 p.m.) by virtue of [The Movement of Animals (Restrictions) (England) (Amendment) Order 2007 (S.I. 2007/2809)](https://www.legislation.gov.uk/uksi/2007/2809), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2809/article/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2007/2809/article/2/3)
+
+[^key-6807cca12f4fb5d1c0b4f8d617501aad]: Textual amendment: Art. 10(1A) inserted (25.9.2007 at 3.00 p.m.) by [The Movement of Animals (Restrictions) (England) (Amendment) Order 2007 (S.I. 2007/2809)](https://www.legislation.gov.uk/uksi/2007/2809), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2809/article/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2007/2809/article/2/4)
+
+[^key-c334cb223e0db849e1ad6ee06e6b3719]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2002/3229/article/12) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/558/article/3/3)
+
+[^f00003]: Footnote: S.I. [1985/1765](https://www.legislation.gov.uk/uksi/1985/1765).
+
+[^f00004]: Footnote: S.I. [1990/760](https://www.legislation.gov.uk/uksi/1990/760) as amended by S.I. [1991/1251](https://www.legislation.gov.uk/uksi/1991/1251).

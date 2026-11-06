@@ -1,0 +1,34 @@
+---
+title: Social Security Administration (Northern Ireland) Act 1992, section 81
+act: Social Security Administration (Northern Ireland) Act 1992
+section: '81'
+status: repealed
+text_date: '2026-07-09'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/8/section/81
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Security Administration (Northern Ireland) Act 1992, section 81
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 81. Exemption from deduction in cases involving small payments.
+
+*Extent: N.I.*
+
+**No longer in force (ended 1997-10-06).**
+
+(1) Regulations may make provision exempting persons from liability to make the relevant deduction or the relevant payment in prescribed cases where the amount of the compensation payment in question, or the aggregate amount of two or more connected compensation payments, does not exceed the prescribed sum.
+
+(2) Regulations may make provision for cases where an amount has been deducted and paid to the Department which, by virtue of regulations under subsection (1) above, ought not to have been so deducted and paid, and any such regulations may, in particular, provide for the Department to pay that amount to the intended recipient or the compensator or to pay a prescribed part of it to each of them.
+
+(3) The reference in section 77(3)(a) above to a “**small payment**” is a reference to a payment from which by virtue of this section no relevant deduction falls to be made.
+
+(4) For the purposes of this section—
+
+- (a) two or more compensation payments are “**connected**” if each is made to or in respect of the same victim and in respect of the same accident, injury or disease; and
+- (b) any reference to a compensation payment is a reference to a payment which would be such a payment apart from section 77(3)(a) above.

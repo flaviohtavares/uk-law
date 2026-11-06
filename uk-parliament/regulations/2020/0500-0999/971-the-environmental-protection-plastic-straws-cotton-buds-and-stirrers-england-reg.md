@@ -1,0 +1,986 @@
+---
+title: The Environmental Protection (Plastic Straws, Cotton Buds and Stirrers) (England) Regulations 2020
+id: uksi/2020/971
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-09-10'
+text_date: '2023-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2020/971
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/971/pdfs/uksiem_20200971_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/971/pdfs/uksi_20200971_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/971/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Protection (Plastic Straws, Cotton Buds and Stirrers) (England) Regulations 2020
+
+> Text as at 2023-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2020 No. 971
+
+Environmental Protection, England
+
+The Environmental Protection (Plastic Straws, Cotton Buds and Stirrers) (England) Regulations 2020
+
+Made
+
+10th September 2020
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 140(1)(b) and (c), (3)(c) and (d) and (9) of the Environmental Protection Act 1990[^f00001] (“the 1990 Act”) and section 62(2) of the Regulatory Enforcement and Sanctions Act 2008[^f00002] (“the 2008 Act”).
+
+The Secretary of State—
+
+- (a) has published a notice in the London Gazette as required by section 140(6)(b) of the 1990 Act[^f00003] and has considered the representations made in accordance with that notice;
+- (b) is satisfied in accordance with section 66 of the 2008 Act that local authorities (who are regulators for the purposes of these Regulations) will act in accordance with the principles referred to in section 5(2) of that Act in exercising a power conferred by these Regulations[^f00004];
+- (c) considers it appropriate to make these Regulations for the purpose of preventing the articles specified in them from causing pollution of the environment and harm to the health of animals.
+
+In accordance with section 62(3) of the 2008 Act, a draft of these Regulations has been laid before, and approved by resolution of, each House of Parliament.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and application[^key-6d88a23ccb9b074cc0f51fbaa02c5e4d]
+
+(1) These Regulations may be cited as the Environmental Protection (Plastic Straws, Cotton Buds and Stirrers) (England) Regulations 2020.
+
+(2) These Regulations, except for regulation 4(3) and (4), come into force on the twenty-first day after the day on which they are made.
+
+(3) Regulation 4(3) and (4) comes into force on 3rd July 2021.
+
+(4) These Regulations extend to England and Wales and apply in relation to England only.
+
+### 2. Interpretation[^key-80b1a8592507f916942a883888e24f4a]
+
+In these Regulations—
+
+- “catering establishment” has the meaning given by regulation 6(3);
+- “compliance notice” has the meaning given by paragraph 1(1)(b) of the Schedule;
+- “end user” means any person to whom a product is supplied, other than—
+  - (a) for the purpose of supplying it, in the course of a business, to another person;
+  - (b) for the purposes of a manufacturing process; or
+  - (c) in the case of a single-use plastic straw, for the purposes of a catering establishment or an establishment of a kind referred to in regulation 9(1);
+- “enforcement undertaking” has the meaning given by paragraph 17 of the Schedule;
+- “[^key-20e2c54d146a0bdbca75f202751474d0]**fixed monetary penalty**” has the meaning given by paragraph 1(1)(a) of the Schedule;
+- “health professional” means—
+  - (a) a registered medical practitioner;
+  - (b) a registered nurse or midwife;
+  - (c) a registered dentist within the meaning of section 53 of the Dentists Act 1984[^f00005];
+  - (d) a registered pharmacist or a registered pharmacy technician within the meaning of article 3 of the Pharmacy Order 2010[^f00006];
+  - (e) a registered dietician, occupational therapist or physiotherapist[^f00007];
+- “local authority” means—
+  - (a) in relation to the City of London, the Common Council for the City of London;
+  - (b) in relation to an area in the rest of London, the London borough council for that area;
+  - (c) in relation to the Isles of Scilly, the Council of the Isles of Scilly;
+  - (d) in relation to an area in the rest of England, the county council for that area or, where there is no county council for that area, the district council for that area;
+- “medical purposes” means the purposes of preventative medicine, medical diagnosis, medical research and the provision of medical care and treatment;
+- “plastic” means a material consisting of polymer as defined in Article 3(5) of Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH)[^f00008], to which additives or other substances may have been added, and which can function as a main structural component of final products, with the exception of natural polymers that have not been chemically modified;
+- “plastic drink stirrer” means an implement made partly or wholly of plastic designed and intended for stirring drinks;
+- “regulator” means a local authority;
+- “[^key-0b85b5e5dcaf208e00a2b75430867926]**relevant device**” means a medical device within the meaning given in regulation 2 of the Medical Devices Regulations 2002;
+- “single-use plastic stemmed cotton bud” means an item that consists of a rod made wholly or partly of plastic with cotton wrapped around one or both ends and that is not designed or intended to be re-used;
+- “single-use plastic straw” means a straw that is made wholly or partly from plastic and that is not designed or intended to be re-used;
+- “stop notice” has the meaning given by paragraph 9(2) of the Schedule;
+- “supply” means supply, whether by way of sale or not;
+- “third party undertaking” has the meaning given by paragraph 3(1) of the Schedule;
+- [^key-8f4e45ff544d809c48944da2f088ca96]...
+
+### 3. Relevant devices: transitional provision[^key-560a1d2631c4924d71518fa77c5df922][^key-5005f07bbfe992687ee76ed1daf070b5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Single-use plastic straws
+
+### 4. Offence: supply of single-use plastic straws to an end user[^key-11e6718d170ee2671aff2bd733b68c39][^key-1259812844cbc04124067ea672ca5c07]
+
+(1)[^key-11e6718d170ee2671aff2bd733b68c39] A person who, in the course of a business, supplies or offers to supply to an end user a single-use plastic straw, other than an attached plastic straw, is guilty of an offence.
+
+(2)[^key-11e6718d170ee2671aff2bd733b68c39] Paragraph (1) is subject to the exemptions in regulations 5 to 9, and to regulation 15.
+
+(3)[^key-1259812844cbc04124067ea672ca5c07] A person who, in the course of a business, supplies or offers to supply to an end user a drink product with an attached plastic straw is guilty of an offence.
+
+(4)[^key-1259812844cbc04124067ea672ca5c07] Paragraph (3) is subject to the exemption in regulation 7.
+
+(5)[^key-11e6718d170ee2671aff2bd733b68c39] A person guilty of an offence under paragraph (1) or (3) is liable on summary conviction to a fine.
+
+(6)[^key-11e6718d170ee2671aff2bd733b68c39] In this regulation, “attached plastic straw” means a single-use plastic straw which is attached to the packaging of a drink product and is intended to be used to consume that drink.
+
+### 5. Exemption: retail pharmacy businesses[^key-775f583b7251b1a828a01bc44dbbf6a8]
+
+(1) Regulation 4(1) does not apply to the supply of a single-use plastic straw by a retail pharmacy business in the cases in paragraph (2), provided that the conditions in paragraph (3) are complied with.
+
+(2) The cases referred to in paragraph (1) are where the single-use plastic straw is supplied to an end user—
+
+- (a) at a registered pharmacy; or
+- (b) by means of online or other distance selling arrangements.
+
+(3) The conditions are that single-use plastic straws to which regulation 4(1) applies—
+
+- (a) must not be advertised to customers by the retail pharmacy business; and
+- (b) if supplied at a registered pharmacy—
+  - (i) must not be kept in a place where they are visible to customers, or where customers can access them; and
+  - (ii) must not be offered or provided to a customer unless the customer has requested them.
+
+(4) The condition in paragraph (3)(a) does not prohibit the display of single-use plastic straws for sale on a website or application through which the retail pharmacy business sells products online.
+
+(5) In this regulation, “registered pharmacy” and “retail pharmacy business” have the meanings given in regulation 8(1) of the Human Medicines Regulations 2012[^f00011].
+
+### 6. Exemption: catering establishments[^key-d676c848ae46fcf3f02f54479f7839c4]
+
+(1) Regulation 4(1) does not apply to the supply by a catering establishment of a single-use plastic straw together with food or drink which is supplied for immediate consumption, provided that the conditions in paragraph (2) are complied with.
+
+(2) The conditions are that single-use plastic straws to which regulation 4(1) applies—
+
+- (a) must not be kept in a place where they are visible to customers, or where customers can access them; and
+- (b) must not be offered or provided to a customer unless the customer has requested them.
+
+(3) In this regulation, “catering establishment” means a restaurant, canteen, club, public house or similar establishment (including a vehicle or a fixed or mobile stall) which supplies food or drink that is ready for consumption without further preparation.
+
+### 7. Exemption: relevant devices and medical purposes[^key-d3e0947f44610ad3ae43db18f50ff6cf]
+
+Regulation 4(1) and (3) does not apply to the supply of a product—
+
+- (a) that is a relevant device;
+- (b) for use for medical purposes by or under the direction of a health professional; or
+- (c) by a health professional for medical purposes.
+
+### 8. Exemption: packaging[^key-f7bedf5781bdfae6a298a46f90810f43]
+
+(1) Regulation 4(1) does not apply to the supply of a single-use plastic straw that is packaging.
+
+(2) In this regulation, “packaging” has the same meaning as in regulation 3 of the Packaging (Essential Requirements) Regulations 2015[^f00012].
+
+### 9. Exemption: other establishments[^key-c4dd7571a9f63c68d57eee5eff5b799f]
+
+(1) Regulation 4(1) does not apply to the supply of a single-use plastic straw in—
+
+- (a) a care home;
+- (b) premises used for early years provision;
+- (c) a school; or
+- (d) a prison or other place of detention.
+
+(2) In this regulation—
+
+- “care home” has the same meaning as in section 3 of the Care Standards Act 2000[^f00013];
+- “early years provision” has the same meaning as in section 96(2) of the Childcare Act 2006[^f00014];
+- “prison” has the same meaning as in section 92(1) of the Criminal Justice Act 1991[^f00015];
+- “school” has the same meaning as in section 4 of the Education Act 1996[^f00016].
+
+## PART 3 — Single-use plastic stemmed cotton buds
+
+### 10. Offence: supply of single-use plastic stemmed cotton buds to an end user[^key-1d6c1744f4f1087feb2fff49c5b5867b]
+
+(1) A person who, in the course of a business, supplies or offers to supply a single-use plastic stemmed cotton bud to an end user is guilty of an offence.
+
+(2) Paragraph (1) is subject to the exemptions in regulations 11 to 13, and to regulation 15.
+
+(3) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine.
+
+### 11. Exemption: relevant devices and medical purposes[^key-c7e4516970138621560bd963405ad71b]
+
+Regulation 10(1) does not apply to the supply of a single-use plastic stemmed cotton bud—
+
+- (a) that is a relevant device;
+- (b) for use for medical purposes by or under the direction of a health professional; or
+- (c) by a health professional for medical purposes.
+
+### 12. Exemption: forensic purposes[^key-4c5ab63b07822c1d55515851ec329865]
+
+(1) Regulation 10(1) does not apply to the supply of a single-use plastic stemmed cotton bud to a forensic service provider.
+
+(2) In this regulation, “forensic service provider” has the same meaning as in regulation 2 of the Accreditation of Forensic Service Providers Regulations 2018[^f00017].
+
+### 13. Exemption: scientific purposes[^key-8ff66eeeb13b999ff8d387a7b2e0fe67]
+
+(1) Regulation 10(1) does not apply to the supply of a single-use plastic stemmed cotton bud for scientific purposes.
+
+(2) In this regulation, “scientific purposes” means diagnostic, educational or research purposes.
+
+## PART 4 — Plastic drink stirrers
+
+### 14. Offence: supply of plastic drink stirrers[^key-1316c5c95dfa38fb153584da17cdadf5]
+
+(1) A person who, in the course of a business, supplies or offers to supply a plastic drink stirrer is guilty of an offence.
+
+(2) Paragraph (1) is subject to regulation 15.
+
+(3) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine.
+
+## PART 5 — Offences: general
+
+### 15. Transitional provision: supply of existing stock[^key-e380a1972cc5e3a38f13d3c0b3880310]
+
+(1) The supply of a product, or an offer to supply a product, is not an offence under regulation 4(1), 10(1) or 14(1) if—
+
+- (a) the supply or offer to supply is made within the period of six months beginning with the coming into force date; and
+- (b) the person supplying or offering to supply the product obtained the product before the coming into force date.
+
+(2) In paragraph (1), “the coming into force date” means the date on which these Regulations (except for regulation 4(3) and (4)) come into force.
+
+### 16. Defence of due diligence for suppliers[^key-48d79db524ab2f00636ed17d845348b0]
+
+(1) Subject to paragraphs (2) and (4), in proceedings for an offence under Parts 2 to 4 of these Regulations it is a defence for a person (“P”) to show that P took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(2) P may not rely on a defence under paragraph (1) which involves a third party allegation unless P has—
+
+- (a) served a notice in accordance with paragraph (3); or
+- (b) obtained the leave of the court.
+
+(3) The notice must—
+
+- (a) give any information in P’s possession which identifies or assists in identifying the person who—
+  - (i) committed the act or default; or
+  - (ii) supplied the information on which P relied; and
+- (b) be served on the person bringing the proceedings not less than 7 clear days before the hearing of the proceedings.
+
+(4) P may not rely on a defence under paragraph (1) which involves an allegation that the commission of the offence was due to reliance on information supplied by another person unless it was reasonable for P to have relied on the information, having regard in particular to—
+
+- (a) the steps that P took, and those which might reasonably have been taken, for the purposes of verifying the information; and
+- (b) whether P had any reason to disbelieve the information.
+
+(5) In this regulation, “third party allegation” means an allegation that the commission of the offence was due to—
+
+- (a) the act or default of another person; or
+- (b) reliance on information supplied by another person.
+
+### 17. Time limit for the prosecution of offences[^key-277ce23fb378b507a0d5fc078ca46114]
+
+(1) An information relating to an offence under Parts 2 to 4 of these Regulations may be tried if it is laid within twelve months after the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings comes to the knowledge of the prosecutor.
+
+(2) No proceedings are to be brought more than three years after the commission of the offence.
+
+## PART 6 — Enforcement and civil sanctions
+
+### 18. Enforcement[^key-d2152e1de72e55e2c41b6fafc4248db4]
+
+(1) A regulator may authorise any person to exercise, for an authorised purpose and in accordance with the terms of the authorisation, any of the powers specified in regulation 20, if that person appears to the regulator suitable to exercise them.
+
+(2) An authorisation under paragraph (1) must be in writing.
+
+(3) In this Part—
+
+- “authorised purpose” means the purpose of determining whether an offence under Parts 2 to 4 has been or is being committed, or any requirement of a compliance notice, a stop notice or an enforcement undertaking under these Regulations has been or is being contravened;
+- “enforcement officer” means a person authorised under paragraph (1).
+
+### 19. Civil sanctions[^key-148b75eac668eced148905df87b73f81]
+
+The Schedule (civil sanctions) has effect for the purpose of the enforcement of an offence under Parts 2 to 4 of these Regulations.
+
+### 20. Powers of entry and examination etc.[^key-80a69eb11e10f497cacbafec4e33d64f]
+
+(1) The powers which an enforcement officer may be authorised to exercise are—
+
+- (a) to enter at any reasonable time any premises (other than premises used wholly or mainly as a dwelling) which the enforcement officer has reason to suspect it is necessary to enter for an authorised purpose;
+- (b) when entering any premises under sub-paragraph (a)—
+  - (i) to be accompanied by another enforcement officer; and
+  - (ii) to bring any equipment or materials required for the authorised purpose in question;
+- (c) on entering any premises under sub-paragraph (a)—
+  - (i) to make such examination and investigation as may be necessary;
+  - (ii) to take such measurements and photographs and make such recordings as the enforcement officer considers necessary for the purpose of any such examination or investigation; and
+  - (iii) to require the production of, or where the information is recorded in computerised form, the furnishing of extracts from, any documents which it is necessary for the enforcement officer to see for the purposes of any such examination or investigation;
+- (d) as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to direct that those premises or any part of them, or anything in them, be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of examination or investigation under sub-paragraph (c);
+- (e) to take any samples, or cause samples to be taken, of any articles or substances found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a), and to cause any such articles or substances to be analysed or tested;
+- (f) in the case of any such sample, to take possession of it and to retain it for so long as is necessary for all or any of the following purposes—
+  - (i) to examine it, and subject it to any process or test, or cause it to be examined;
+  - (ii) to ensure that it is not tampered with before the examination is completed;
+  - (iii) to ensure that it is available for use as evidence in any proceedings for an offence under these Regulations.
+
+(2) Where an enforcement officer proposes to enter any premises and—
+
+- (a) entry has been refused or the enforcement officer apprehends on reasonable grounds that entry is likely to be refused, and
+- (b) the enforcement officer apprehends on reasonable grounds that the use of reasonable force may be necessary to effect entry,
+
+any entry onto those premises by virtue of paragraph (1)(a) may only be effected under the authority of a warrant.
+
+(3) Nothing in paragraph (1)(c)(iii) compels the production by a person of any documents of which that person would on grounds of legal professional privilege be entitled to withhold production on an order for disclosure in an action in the County Court or High Court.
+
+(4) An enforcement officer may only exercise the powers in paragraph (1) in the reasonable belief that an offence under Parts 2 to 4 of these Regulations has been or is being committed.
+
+(5) An enforcement officer seeking to exercise a power under paragraph (1) must produce evidence of identity and authority if requested by a person who is, or appears to be—
+
+- (a) a supplier of single-use plastic straws, single-use plastic stemmed cotton buds or plastic drink stirrers;
+- (b) an employee of a supplier referred to in sub-paragraph (a); or
+- (c) the owner or occupier of any premises in which the enforcement officer seeks to exercise the power concerned.
+
+(6) If a justice of the peace, on sworn information in writing, is satisfied—
+
+- (a) that there are reasonable grounds to enter any premises in exercise of the power in paragraph (1)(a); and
+- (b) that any of the conditions in paragraph (2)(a) or (b) is met,
+
+the justice of the peace may by warrant authorise an enforcement officer to enter the premises, if need be by reasonable force.
+
+### 21. Publication of information about enforcement action[^key-d91a77b28bf0f34a3ca116c3661802d8]
+
+(1) Where a regulator imposes civil sanctions under these Regulations in relation to an offence under Parts 2 to 4, the regulator must from time to time publish—
+
+- (a) the cases in which the civil sanction has been imposed;
+- (b) where the civil sanction is a fixed[^key-62940b4e186929a1725bda0d2d128ac6] monetary penalty or compliance notice, the cases in which a third party undertaking has been accepted; and
+- (c) the cases in which an enforcement undertaking has been entered into.
+
+(2) In paragraph (1)(a), the reference to cases in which the civil sanction has been imposed does not include cases where the sanction has been imposed but overturned on appeal.
+
+(3) This regulation does not apply in cases where the regulator considers that publication would be inappropriate.
+
+## PART 7 — Guidance
+
+### 22. Guidance[^key-24b70b2e64de8293f0a10c3627e7f087]
+
+(1) Each regulator must publish guidance about its use of civil sanctions under these Regulations in relation to an offence under Parts 2 to 4.
+
+(2) In the case of guidance relating to a fixed[^key-7867d0d9aeecd18de202699a88b4f60d] monetary penalty, compliance notice or stop notice, the guidance must contain the relevant information set out in paragraph (3).
+
+(3) The relevant information referred to in paragraph (2) is information as to—
+
+- (a) the circumstances in which the penalty or notice is likely to be imposed;
+- (b) the circumstances in which it may not be imposed;
+- (c) rights to make representations and objections and rights of appeal; and
+- (d)[^key-f0517231fcb63273009c19d59c46343f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The regulator must revise the guidance where appropriate.
+
+(5) The regulator must consult such persons as it considers appropriate before publishing any guidance or revised guidance under this regulation.
+
+(6) The regulator must have regard to the guidance or revised guidance in exercising its functions.
+
+### 23. Additional guidance[^key-558e0a0d9583686e494374b7276192f2][^key-8bfdd332de7a7bff3e935b13ce83f9a9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — Review
+
+### 24. Review[^key-40bb29a12e026a4eaf53729d931a4801]
+
+(1) The Secretary of State must—
+
+- (a) as soon as reasonably practicable after the end of the period of three years from the date on which these Regulations come into force carry out a review of the operation of the provisions in Part 6 (enforcement and civil sanctions) and the Schedule;
+- (b) from time to time carry out a review of the regulatory provision contained in these Regulations (including Part 6 and the Schedule); and
+- (c) publish a report setting out the conclusions of any review.
+
+(2) In the case of a review under paragraph (1)(a)—
+
+- (a) section 67 of the Regulatory Enforcement and Sanctions Act 2008 requires that the review must in particular consider whether the provision has implemented its objectives efficiently and effectively;
+- (b) the Secretary of State, in conducting the review, must consult such persons as the Secretary of State considers appropriate; and
+- (c) the Secretary of State must lay a copy of the report under paragraph (1)(c) before Parliament.
+
+(3) In the case of a review under paragraph (1)(b)—
+
+- (a) the first report must be published before the expiry of the period ending five years from the date on which these Regulations come into force;
+- (b) subsequent reports must be published at intervals not exceeding five years; and
+- (c) section 30(4) of the Small Business, Enterprise and Employment Act 2015[^f00019] requires that a report published under this regulation must, in particular—
+  - (i) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(b);
+  - (ii) assess the extent to which those objectives are achieved;
+  - (iii) assess whether those objectives remain appropriate; and
+  - (iv) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(4) In this regulation “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Rebecca Pow
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE — Civil Sanctions
+
+Regulation 19
+
+### PART 1 — Fixed Monetary Penalties and Compliance Notices[^key-86f7914a1b1c0c2557b320642de77962]
+
+#### 1. Imposition of a fixed monetary penalty or compliance notice[^key-cc527ece5d135f86d1a939c4ae6fa0ee][^key-311882ae940b3fa5dfdf78e56802bb67]
+
+(1) In relation to an offence under Parts 2 to 4 of these Regulations, a regulator may by notice impose—
+
+- (a)[^key-d881ba582f4956b181e09029042f4815] a requirement to pay to the regulator a penalty of £200 (a “fixed monetary penalty”)
+- (b) a requirement to take such steps as the regulator may specify, within such period as it may specify, to secure that the offence does not continue or recur (“a compliance notice”).
+
+(2) Before doing so the regulator must be satisfied beyond reasonable doubt that the person has committed the offence.
+
+(3) A requirement under sub-paragraph (1)(a) or (b) may not be imposed on a person on more than one occasion in relation to the same act or omission.
+
+(4)[^key-a704f8b29f9b469a634ac5405a61ad6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-e165aa5b591f0c62ed1a119086137f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2. Notice of intent[^key-5ee8864b07897e47b17d6e9ebc77d173]
+
+(1) Where a regulator proposes to serve a fixed[^key-e217aac1250eb632a0c748893818dbd3] monetary penalty or a compliance notice on a person, the regulator must serve on that person a notice of what is proposed (a “notice of intent”).
+
+(2) The notice of intent must include—
+
+- (a) the grounds for the proposed compliance notice or fixed monetary penalty;
+- (b) the requirements of the proposed compliance notice and, in the case of a penalty, the amount to be paid; and
+- (c) information as to—
+  - (i) the right to make representations and objections within 28 days beginning with the day on which the notice of intent was received;
+  - (ii) the circumstances in which the regulator may not impose the fixed monetary penalty or compliance notice.
+
+(2A)[^key-e6ba1ed08e8ff0f7c98719ddcf9cc119] A notice of intent to serve a fixed monetary penalty must also offer the person on whom the notice is served the opportunity to discharge their liability for the penalty by paying the sum of £100 to the regulator within 28 days beginning with the day on which the notice is received.
+
+(2B) A person’s liability to a fixed monetary penalty is discharged if the person pays the sum of £100 to the regulator within the time specified in sub-paragraph (2A).
+
+(3) A person on whom a notice of intent is served may, within 28 days beginning with the day on which the notice was received, make representations and objections to the regulator in relation to the proposed imposition of a fixed monetary penalty or compliance notice.
+
+(4)[^key-73ef74605d132fa3e2e4fc30d3813eec] Sub-paragraph (3) does not apply in relation to a notice of intent to serve a fixed monetary penalty if the person makes a payment in accordance with sub-paragraph (2B).
+
+#### 3. Third party undertakings[^key-a825f211ce68cf3ff1a82e5902382da7]
+
+(1) A person on whom a notice of intent is served may offer an undertaking as to action to be taken by that person (including the payment of a sum of money) to benefit any third party affected by the offence (a “third party undertaking”).
+
+(2) The regulator may accept or reject any such third party undertaking.
+
+#### 4. Final notice[^key-0b85ea80e96ae9097735354fbb85e7b5]
+
+(1) After the end of the period for making representations and objections, the regulator must decide whether—
+
+- (a) to impose the requirements in the notice of intent, with or without modifications; or
+- (b) to impose any other requirement that the regulator has power to impose under this Part.
+
+(2) Where the regulator decides to impose a requirement, the notice imposing it (the “final notice”) must comply with paragraph 5, in the case of a fixed[^key-1d6bb40487d377e759537ba2b1db29e6] monetary penalty, or paragraph 6, in the case of a compliance notice.
+
+(3) The regulator may not impose a final notice on a person where the regulator is satisfied that the person would not, by reason of any defence, be liable to be convicted of the offence to which the notice relates.
+
+(4) The regulator must take into account any third party undertaking that it accepts in deciding—
+
+- (a) whether or not to serve a final notice[^key-3cd759e46326c12d601907ff1417400e]...
+- (b) [^key-3cd759e46326c12d601907ff1417400e]....
+
+#### 5. Contents of final notice: fixed monetary penalty[^key-2ef86f6ba65e20bdd0e57a1031721d86][^key-c38b861e3e0b545ac34d429bba75a85b]
+
+A final notice for a fixed[^key-d447a46c57c2d5ad3cf09b21a35ac551] monetary penalty must include information as to—
+
+- (a) the grounds for imposing the penalty;
+- (b) the amount to be paid;
+- (c) how payment may be made;
+- (d) the period within which payment must be made, which must be not less than 28 days;
+- (e) rights of appeal; and
+- (f) the consequences of failing to comply with the notice.
+
+#### 6. Contents of final notice: compliance notice[^key-bcd5040c4dc2cf035a6ca9930df1689c]
+
+A final notice relating to a compliance notice must include information as to—
+
+- (a) the grounds for imposing the notice;
+- (b) what compliance is required and the period within which it must be completed;
+- (c) rights of appeal; and
+- (d) the consequences of failing to comply with the notice.
+
+#### 7. Appeals against final notice[^key-fd4ddb69ff341bcb2a61ad6915806420]
+
+(1) The person receiving the final notice may appeal against it.
+
+(2) The grounds for appeal are—
+
+- (a) that the decision was based on an error of fact;
+- (b) that the decision was wrong in law;
+- (c)[^key-91147608aeae4a5069393e6893e7bd02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in the case of a compliance notice, that the nature of the requirement is unreasonable;
+- (e) that the decision is unreasonable for any other reason;
+- (f) any other reason.
+
+#### 8. Criminal proceedings[^key-6400e16fbaa6a56e67b35b5644b478f0]
+
+(1) If—
+
+- (a) a fixed[^key-1e4783fb82680e192930ec5da7449230] monetary penalty or compliance notice is served on any person, or
+- (b) a third party undertaking is accepted from any person,
+
+that person may not at any time be convicted of the offence in respect of the act or omission giving rise to the fixed monetary penalty, compliance notice or third party undertaking except in a case referred to in sub-paragraph (2).
+
+(2) The case referred to in sub-paragraph (1) is a case where—
+
+- (a) a compliance notice is imposed on a person or a third party undertaking is accepted from a person;
+- (b) no fixed monetary penalty is imposed on that person; and
+- (c) that person fails to comply with the compliance notice or third party undertaking.
+
+### PART 2 — Stop Notices
+
+#### 9. Stop notices[^key-445a5314b0133e3a50e1fb34ae059b75]
+
+(1) A regulator may serve a stop notice on any person in a case falling within sub-paragraph (3) or (4).
+
+(2) A “stop notice” is a notice prohibiting a person from carrying on an activity specified in the notice until the person has taken the steps specified in the notice.
+
+(3) A case falling within this sub-paragraph is a case where the regulator reasonably believes that—
+
+- (a) the person is carrying on the activity;
+- (b) the activity as carried on by that person is causing, or presents a significant risk of causing, serious harm to the environment (including the health of animals); and
+- (c) the activity as carried on by that person involves or is likely to involve the commission of an offence under Parts 2 to 4 of these Regulations.
+
+(4) A case falling within this sub-paragraph is a case where the regulator reasonably believes that—
+
+- (a) the person is likely to carry on the activity;
+- (b) the activity as likely to be carried on by that person will cause, or will present a significant risk of causing, serious harm to the environment (including the health of animals); and
+- (c) the activity as likely to be carried on by that person will involve or will be likely to involve the commission of an offence under Parts 2 to 4 of these Regulations.
+
+(5) The steps referred to in sub-paragraph (2) must be steps to remove or reduce the harm or risk of harm to the environment (including the health of animals).
+
+#### 10. Contents of a stop notice[^key-052302b53cb91f071506afb3c6e1addf]
+
+A stop notice must include information as to—
+
+- (a) the grounds for serving the notice;
+- (b) the steps the person must take to comply with the stop notice;
+- (c) rights of appeal; and
+- (d) the consequences of non-compliance.
+
+#### 11. Appeals against stop notices[^key-52720f9afcce7d18698b51213c0ba74c]
+
+(1) The person on whom a stop notice is served may appeal against the decision to serve it.
+
+(2) The grounds for appeal are—
+
+- (a) that the decision was based on an error of fact;
+- (b) that the decision was wrong in law;
+- (c) that the decision was unreasonable;
+- (d) that any step specified in the notice is unreasonable;
+- (e) that the person has not committed the offence and would not have committed it had the stop notice not been served;
+- (f) that the person would not, by reason of any defence, have been liable to be convicted of the offence had the stop notice not been served;
+- (g) any other reason.
+
+#### 12. Completion certificates[^key-88d0d2e99a37cb5fd6dc49c8e8ede064]
+
+(1) Where, after service of a stop notice, the regulator is satisfied that the person has taken the steps specified in the notice, the regulator must issue a certificate to that effect (“a completion certificate”).
+
+(2) The stop notice ceases to have effect on the issue of a completion certificate.
+
+(3) The person on whom the stop notice is served may at any time apply for a completion certificate.
+
+(4) The regulator must make a decision as to whether to issue a completion certificate, and give written notice of the decision to the applicant, within 14 days of such an application.
+
+#### 13. Appeals against decision not to issue a completion certificate[^key-102b73cae1e5bf8703e8708a9c676df1]
+
+The person on whom the stop notice was served may appeal against a decision not to issue a completion certificate on the grounds that the decision—
+
+- (a) was based on an error of fact;
+- (b) was wrong in law;
+- (c) was unfair or unreasonable;
+- (d) was wrong for any other reason.
+
+#### 14. Compensation[^key-9bb2f9fa04c44cc7b88f2ef874ceeb6e]
+
+The regulator must compensate a person for loss suffered as the result of the service of a stop notice or the refusal of a completion certificate if—
+
+- (a) the stop notice is subsequently withdrawn or amended by the regulator because the decision to serve it was unreasonable or any step specified in the notice was unreasonable;
+- (b) the person successfully appeals against the stop notice and the First-tier Tribunal finds that the service of the notice was unreasonable; or
+- (c) the person successfully appeals against the refusal of a completion certificate and the First-tier Tribunal finds that the refusal was unreasonable.
+
+#### 15. Appeal against compensation decision[^key-83d803f576a97f332ee66f216ac1c72c]
+
+A person may appeal against a decision not to award compensation or the amount of compensation awarded—
+
+- (a) on the grounds that the regulator’s decision was unreasonable;
+- (b) on the grounds that the amount offered was based on incorrect facts;
+- (c) for any other reason.
+
+#### 16. Offence[^key-ce3c8c9e22c1668c6cf48f42f33cef11]
+
+(1) Where a person on whom a stop notice is served does not comply with it, the person is guilty of an offence and liable—
+
+- (a) on summary conviction, to a fine, or imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-a60692fb3229e656047ef4c1cf92efa6], or both; or
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
+
+(2) In relation to an offence committed before 2nd May 2022[^key-c43c22303f9915221bfbb68b54bacb0a], the reference in sub-paragraph (1)(a) to the general limit in a magistrates’ court[^key-aeb4a3a56f66ad24db9205960270f357] is to be read as a reference to six months.
+
+### PART 3 — Enforcement Undertakings
+
+#### 17. Enforcement undertakings[^key-f4c3e0480924c25a110d6c4afab9b900]
+
+(1) A regulator may accept an enforcement undertaking given by a person in a case where the regulator has reasonable grounds to suspect that the person has committed an offence under Parts 2 to 4 of these Regulations.
+
+(2) For the purposes of this Part, an “enforcement undertaking” is a written undertaking to take such action as may be specified in the undertaking within such period as may be so specified.
+
+#### 18. Contents of an enforcement undertaking[^key-6c2d8d21e5b44eeadd4dc8c730c8c059]
+
+(1) An enforcement undertaking must specify—
+
+- (a) action to secure the offence does not continue or recur;
+- (b) action (including the payment of a sum of money) to benefit any person affected by the offence; or
+- (c) action that will secure benefit to the environment equivalent to restoration of what has been, or is likely to have been, damaged or destroyed by the commission of the offence.
+
+(2) It must specify the period within which the action must be completed.
+
+(3) It must include—
+
+- (a) a statement that the undertaking is made in accordance with this Schedule;
+- (b) the terms of the undertaking; and
+- (c) information as to how and when the person giving that undertaking is to be considered to have discharged the undertaking.
+
+(4) The enforcement undertaking may be varied, or the period within which the action must be completed may be extended, if both parties agree in writing.
+
+#### 19. Acceptance of an enforcement undertaking[^key-b7fe67d57f3286c925329531781da404]
+
+If a regulator has accepted an enforcement undertaking, then, unless the person from whom the undertaking is accepted has failed to comply with the undertaking or any part of it—
+
+- (a) that person may not at any time be convicted of the offence in respect of the act or omission to which the undertaking relates; and
+- (b) a regulator may not impose on that person a fixed[^key-31aaf64f6654155e29c98fe8aa58ad8d] monetary penalty, a compliance notice or a stop notice in respect of that act or omission.
+
+#### 20. Discharge of an enforcement undertaking[^key-fce5a73256a2407c5ef1c1de9f652105]
+
+(1) If a regulator that has accepted an enforcement undertaking is satisfied that the undertaking has been complied with, it must issue a certificate to that effect.
+
+(2) The regulator may require the person who has given the undertaking to provide sufficient information to determine that the undertaking has been complied with.
+
+(3) The person who gave the undertaking may at any time apply for such a certificate.
+
+(4) The regulator must decide whether to issue such a certificate, and give written notice of the decision to the applicant, within 14 days of such an application.
+
+#### 21. Appeals against decision not to issue a certificate[^key-3c106ed651ee4dad63d7ee9a27363efb]
+
+The person to whom a notice is given under paragraph 20(4) may appeal against a decision not to issue a certificate under paragraph 20 on the grounds that the decision—
+
+- (a) was based on an error of fact;
+- (b) was wrong in law;
+- (c) was unfair or unreasonable;
+- (d) was wrong for any other reason.
+
+#### 22. Inaccurate, misleading or incomplete information[^key-2198dde6d8d79ae9ff712e8a52247c7c]
+
+(1) A person who has given inaccurate, misleading or incomplete information in relation to an enforcement undertaking is to be taken not to have complied with it.
+
+(2) A regulator may by notice in writing revoke a certificate which it issued under paragraph 20 if it was issued on the basis of inaccurate, misleading or incomplete information.
+
+#### 23. Non-compliance with an enforcement undertaking[^key-727cc9496934bd99dbe4a40b77673329]
+
+(1) If an enforcement undertaking is not complied with, the regulator that accepted the undertaking may either—
+
+- (a) serve a fixed[^key-17a240db547a4c14a2634c6a966a17fe] monetary penalty notice, compliance notice, non-compliance penalty or stop notice; or
+- (b) bring criminal proceedings.
+
+(2) If a person has complied partly but not fully with an enforcement undertaking, that partial compliance must be taken into account in the imposition of any criminal or other sanction on the person.
+
+(3) Criminal proceedings for an offence to which an enforcement undertaking relates may be instituted at any time up to six months from the date on which the regulator notifies the person required to comply with that undertaking of that person’s failure to do so.
+
+### PART 4 — Non-compliance penalties
+
+#### 24. Non-compliance penalties[^key-b07339386a4c36817771c544403a2474]
+
+(1) If a person fails to comply with a compliance notice or a third party undertaking, the regulator may serve a notice on that person imposing a monetary penalty (a “non-compliance penalty”) in respect of the same offence, irrespective of whether a fixed[^key-d8408edc9dd102c041a992c4191c6541] monetary penalty was also imposed in respect of that offence.
+
+(2) The amount of the penalty must be determined by the regulator, and must be a percentage of the costs of fulfilling the remaining requirements of the compliance notice or third party undertaking.
+
+(3) The percentage must be determined by the regulator having regard to all the circumstances of the case and may, if appropriate, be 100%.
+
+(4) The notice must include information as to—
+
+- (a) the grounds for imposing the non-compliance penalty;
+- (b) the amount to be paid;
+- (c) how payment may be made;
+- (d) the period in which payment must be made, which must not be less than 28 days;
+- (e) the rights of appeal;
+- (f) the consequences of failure to make payment in the specified period; and
+- (g) any circumstances in which the regulator may reduce the amount of the penalty.
+
+(5) If the requirements of the compliance notice are complied with or the third party undertaking is fulfilled before the time set for payment of the non-compliance penalty, the penalty is not payable.
+
+#### 25. Appeals against non-compliance penalties[^key-40f1f5084bc23bb4639333f7fa0454d2]
+
+(1) The person on whom the notice imposing the non-compliance penalty is served may appeal against it.
+
+(2) The grounds of appeal are—
+
+- (a) that the decision to serve the notice was based on an error of fact;
+- (b) that the decision was wrong in law;
+- (c) that the decision was unfair or unreasonable;
+- (d) that the amount of the penalty was unreasonable;
+- (e) any other reason.
+
+### PART 5 — Administration and Appeals
+
+#### 26. Withdrawing or amending a notice[^key-ff942b7a7d1d1103e9f83d327596bb2f]
+
+A regulator may at any time in writing—
+
+- (a) withdraw a notice imposing a fixed[^key-481ec1d63a23143a4d2556ad0bd88ddd] monetary penalty or a notice imposing a non-compliance penalty, or reduce the amount specified in a notice imposing a non-compliance penalty[^key-836e3a5b2eea719f8d65b0e67b4f75c8]; or
+- (b) withdraw a compliance notice or stop notice, or amend the steps specified, in order to reduce the amount of work necessary to comply with the notice.
+
+#### 27. Enforcement cost recovery notices[^key-2d3cd34783789d594037748b62e8e871]
+
+(1) A regulator may serve a notice (an “enforcement cost recovery notice”) on a person on whom a relevant notice has been served requiring that person to pay the costs incurred by the regulator in relation to the imposition of the requirement imposed by the relevant notice up to the time of its imposition.
+
+(2) In sub-paragraph (1), a “relevant notice” means a fixed[^key-db13d2a0870ca9db97430c17d7beb2cf] monetary penalty notice, compliance notice or stop notice.
+
+(3) “Costs” include in particular—
+
+- (a) investigation costs;
+- (b) administration costs; and
+- (c) costs of obtaining expert advice (including legal advice).
+
+(4) The enforcement cost recovery notice must specify—
+
+- (a) how payment may be made;
+- (b) the amount required to be paid;
+- (c) the period in which payment must be made, which must not be less than 28 days;
+- (d) the grounds for imposing the notice;
+- (e) the right of appeal; and
+- (f) the consequences of a failure to comply with the notice in the specified period.
+
+(5) The person on whom the notice is served may require the regulator to provide a detailed breakdown of the amount.
+
+(6) The person required to pay costs is not liable to pay any costs shown by that person to have been unnecessarily incurred.
+
+#### 28. Appeals against enforcement cost recovery notices[^key-dd286909f5fe64ddb72e7f26cd1fb37a]
+
+The person required to pay costs may appeal—
+
+- (a) against the decision of the regulator to impose the requirement to pay costs;
+- (b) against the decision of the regulator as to the amount of those costs;
+- (c) for any other reason.
+
+#### 29. Power to recover payments[^key-5a66b782ca45be8abd56f06339ceb9e8]
+
+A regulator may recover any fixed[^key-98ce1987acbf85a88e280031475a907c] monetary penalty or non-compliance penalty imposed under this Schedule, on the order of a court, as if payable under a court order.
+
+#### 30. Appeals: general provisions[^key-bb5cb560ad143ee1c529094053855f44]
+
+(1) An appeal under paragraph 7, 11, 13, 15, 21, 25 or 28 of this Schedule is to the First-tier Tribunal.
+
+(2) All notices (other than stop notices) are suspended pending the determination or withdrawal of the appeal.
+
+(3) The First-tier Tribunal may, in relation to the imposition of a requirement or service of a notice under this Schedule—
+
+- (a) withdraw the requirement or notice;
+- (b) confirm the requirement or notice;
+- (c) vary the requirement or notice;
+- (d) take such steps as the regulator could have taken in relation to the act or omission giving rise to the requirement or notice; or
+- (e) remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the regulator.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply in relation to England, prohibit persons from supplying or offering to supply certain plastic items in the course of a business. The prohibitions apply from the twenty-first day after the coming into force of these Regulations, except for the prohibition of the supply of drinks products with single-use plastic straws attached to their packaging, which applies from 3rd July 2021.
+
+Part 2 prohibits the supply of single-use plastic straws to an end user, subject to certain exceptions. The exceptions include the supply of straws by registered pharmacies, the supply of straws by a catering establishment together with food or drink for immediate consumption, and the supply of straws which are medical devices or are for use for medical purposes. Part 2 also prohibits the supply of drinks products with single-use plastic straws attached to their packaging, subject to an exception for medical purposes.
+
+Part 3 prohibits the supply of single-use plastic stemmed cotton buds to an end user, other than for medical, forensic or scientific purposes.
+
+Part 4 prohibits the supply of plastic drink stirrers.
+
+Breach of these prohibitions is an offence (regulations 4, 10 and 14). Regulation 15 makes transitional provision allowing for the continued supply of existing stock; for the period of 6 months beginning with the date on which the regulations come into force, it will not be an offence for a person to supply or offer to supply a product which they obtained before the coming into force date. A civil sanctions regime is also introduced to enable regulators to impose a range of civil sanctions (regulation 19 and the Schedule). These are variable monetary penalties, compliance notices, stop notices and enforcement undertakings. The Regulations make provision for the procedure relating to these sanctions and the available appeal mechanisms. Failure to comply with a stop notice is an offence (paragraph 16 of the Schedule). All appeals relating to a civil sanction are to the First-tier Tribunal.
+
+Regulations 18 and 20 provide for enforcement officers to have powers of entry to carry out the necessary investigations in order to determine whether an offence has been committed.
+
+Regulation 21 provides for the publication of information on enforcement action taken by regulators, and regulations 22 and 23 provide that guidance relating to the use of civil sanctions must be prepared and consulted on and specify information to be included in such guidance. Regulation 24 contains provision for review of the Regulations.
+
+Regulators are able to recover the costs of enforcement (paragraph 27 of the Schedule) in the case of variable monetary penalties, compliance notices and stop notices.
+
+These Regulations were notified in draft to the European Commission in accordance with Directive (EU) 2015/1535 of the European Parliament and of the Council laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ No. L 241, 17.9.2015, p. 1).
+
+A full impact assessment of the effect that these Regulations will have on the costs of business and the voluntary sectors is available from the Waste Team at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR, and is also available together with these Regulations at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 140(3)(c) was amended by [S.I. 1999/1108](https://www.legislation.gov.uk/uksi/1999/1108).
+
+[^f00002]: Footnote: [2008 c. 13](https://www.legislation.gov.uk/ukpga/2008/13).
+
+[^f00003]: Footnote: Section 140(6)(b) was amended by [S.I. 2012/1923](https://www.legislation.gov.uk/uksi/2012/1923).
+
+[^f00004]: Footnote: For the purposes of these Regulations, “regulator” has the meaning given by regulation 2, rather than the meaning given by section 37 of the 2008 Act.
+
+[^key-6d88a23ccb9b074cc0f51fbaa02c5e4d]: Commencement: Reg. 1 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-80b1a8592507f916942a883888e24f4a]: Commencement: Reg. 2 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-20e2c54d146a0bdbca75f202751474d0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/971/regulation/2) inserted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/2/a)
+
+[^f00005]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
+
+[^f00006]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231), to which there are amendments not relevant to these Regulations.
+
+[^f00007]: Footnote: “Registered”, in relation to a dietician, occupational therapist or physiotherapist, means registered in the register maintained under Article 5 of the Health and Social Work Professions Order 2001 ([S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254)); see Article 5(5) of that Order.
+
+[^f00008]: Footnote: OJ No L 396, 30.12.2006, p. 1, as last amended by Commission Regulation (EU) 2019/1691 (OJ No L 259, 10.10.2019, p. 9).
+
+[^key-0b85b5e5dcaf208e00a2b75430867926]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/971/regulation/2) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/2/b)
+
+[^key-8f4e45ff544d809c48944da2f088ca96]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/971/regulation/2) omitted (1.10.2023) by virtue of [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/2/c) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-560a1d2631c4924d71518fa77c5df922]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/971/regulation/3) omitted (1.10.2023) by virtue of [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/3)
+
+[^key-5005f07bbfe992687ee76ed1daf070b5]: Commencement: Reg. 3 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-11e6718d170ee2671aff2bd733b68c39]: Commencement: Reg. 4(1)(2)(5)(6) in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-1259812844cbc04124067ea672ca5c07]: Commencement: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2020/971/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/2020/971/regulation/4/4) in force at 3.7.2021, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/3)
+
+[^key-775f583b7251b1a828a01bc44dbbf6a8]: Commencement: Reg. 5 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^f00011]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), to which there are amendments not relevant to these Regulations.
+
+[^key-d676c848ae46fcf3f02f54479f7839c4]: Commencement: Reg. 6 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-d3e0947f44610ad3ae43db18f50ff6cf]: Commencement: Reg. 7 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-f7bedf5781bdfae6a298a46f90810f43]: Commencement: Reg. 8 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^f00012]: Footnote: [S.I. 2015/1640](https://www.legislation.gov.uk/uksi/2015/1640), to which there are amendments not relevant to these Regulations.
+
+[^key-c4dd7571a9f63c68d57eee5eff5b799f]: Commencement: Reg. 9 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^f00013]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by paragraph 4 of Schedule 5 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00014]: Footnote: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^f00015]: Footnote: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53).
+
+[^f00016]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 4 was amended by section 51 of, and paragraph 10 of Schedule 7 and Schedule 8 to, the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), Part 3 of Schedule 22 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), section 95 of the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), paragraph 9(2) of Schedule 13 to the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) and [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080), [2019/1027](https://www.legislation.gov.uk/uksi/2019/1027).
+
+[^key-1d6c1744f4f1087feb2fff49c5b5867b]: Commencement: Reg. 10 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-c7e4516970138621560bd963405ad71b]: Commencement: Reg. 11 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-4c5ab63b07822c1d55515851ec329865]: Commencement: Reg. 12 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^f00017]: Footnote: [S.I. 2018/1276](https://www.legislation.gov.uk/uksi/2018/1276), to which there are amendments not relevant to these Regulations.
+
+[^key-8ff66eeeb13b999ff8d387a7b2e0fe67]: Commencement: Reg. 13 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-1316c5c95dfa38fb153584da17cdadf5]: Commencement: Reg. 14 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-e380a1972cc5e3a38f13d3c0b3880310]: Commencement: Reg. 15 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-48d79db524ab2f00636ed17d845348b0]: Commencement: Reg. 16 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-277ce23fb378b507a0d5fc078ca46114]: Commencement: Reg. 17 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-d2152e1de72e55e2c41b6fafc4248db4]: Commencement: Reg. 18 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-148b75eac668eced148905df87b73f81]: Commencement: Reg. 19 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-80a69eb11e10f497cacbafec4e33d64f]: Commencement: Reg. 20 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-d91a77b28bf0f34a3ca116c3661802d8]: Commencement: Reg. 21 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-62940b4e186929a1725bda0d2d128ac6]: Textual amendment: Word in [reg. 21(1)(b)](https://www.legislation.gov.uk/uksi/2020/971/regulation/21/1/b) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/4)
+
+[^key-24b70b2e64de8293f0a10c3627e7f087]: Commencement: Reg. 22 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-7867d0d9aeecd18de202699a88b4f60d]: Textual amendment: Word in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/22/2) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 5(a)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/5/a)
+
+[^key-f0517231fcb63273009c19d59c46343f]: Textual amendment: [Reg. 22(3)(d)](https://www.legislation.gov.uk/uksi/2020/971/regulation/22/3/d) omitted (1.10.2023) by virtue of [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 5(b)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/5/b)
+
+[^key-558e0a0d9583686e494374b7276192f2]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/971/regulation/23) omitted (1.10.2023) by virtue of [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/6)
+
+[^key-8bfdd332de7a7bff3e935b13ce83f9a9]: Commencement: Reg. 23 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-40bb29a12e026a4eaf53729d931a4801]: Commencement: Reg. 24 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^f00019]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^key-86f7914a1b1c0c2557b320642de77962]: Textual amendment: Word in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/971/schedule/part/1) heading substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/a) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-cc527ece5d135f86d1a939c4ae6fa0ee]: Commencement: Sch. para. 1 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-311882ae940b3fa5dfdf78e56802bb67]: Textual amendment: Word in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/1) heading substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(b)(i)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/b/i) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-d881ba582f4956b181e09029042f4815]: Textual amendment: [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/1/1/a) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/b/ii) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-a704f8b29f9b469a634ac5405a61ad6e]: Textual amendment: [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/1/4) omitted (1.10.2023) by virtue of [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(b)(iii)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/b/iii) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-e165aa5b591f0c62ed1a119086137f99]: Textual amendment: [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/1/5) omitted (1.10.2023) by virtue of [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(b)(iii)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/b/iii) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-5ee8864b07897e47b17d6e9ebc77d173]: Commencement: Sch. para. 2 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-e217aac1250eb632a0c748893818dbd3]: Textual amendment: Word in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/2) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(c)(i)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/c/i) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-e6ba1ed08e8ff0f7c98719ddcf9cc119]: Textual amendment: [Sch. paras. 2(2A)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/2/2A)[(2B)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/2/2B) inserted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(c)(ii)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/c/ii) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-73ef74605d132fa3e2e4fc30d3813eec]: Textual amendment: [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/2/4) inserted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(c)(iii)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/c/iii) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-a825f211ce68cf3ff1a82e5902382da7]: Commencement: Sch. para. 3 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-0b85ea80e96ae9097735354fbb85e7b5]: Commencement: Sch. para. 4 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-1d6bb40487d377e759537ba2b1db29e6]: Textual amendment: Word in [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/4/2) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(d)(i)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/d/i) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-3cd759e46326c12d601907ff1417400e]: Textual amendment: [Sch. para. 4(4)(b)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/4/4/b) and word omitted (1.10.2023) by virtue of [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(d)(ii)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/d/ii) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-2ef86f6ba65e20bdd0e57a1031721d86]: Commencement: Sch. para. 5 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-c38b861e3e0b545ac34d429bba75a85b]: Textual amendment: Word in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/5) heading substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(e)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/e) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-d447a46c57c2d5ad3cf09b21a35ac551]: Textual amendment: Word in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/5) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(e)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/e) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-bcd5040c4dc2cf035a6ca9930df1689c]: Commencement: Sch. para. 6 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-fd4ddb69ff341bcb2a61ad6915806420]: Commencement: Sch. para. 7 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-91147608aeae4a5069393e6893e7bd02]: Textual amendment: [Sch. para. 7(2)(c)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/7/2/c) omitted (1.10.2023) by virtue of [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(f)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/f) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-6400e16fbaa6a56e67b35b5644b478f0]: Commencement: Sch. para. 8 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-1e4783fb82680e192930ec5da7449230]: Textual amendment: Word in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/8) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(g)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/g) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-445a5314b0133e3a50e1fb34ae059b75]: Commencement: Sch. para. 9 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-052302b53cb91f071506afb3c6e1addf]: Commencement: Sch. para. 10 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-52720f9afcce7d18698b51213c0ba74c]: Commencement: Sch. para. 11 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-88d0d2e99a37cb5fd6dc49c8e8ede064]: Commencement: Sch. para. 12 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-102b73cae1e5bf8703e8708a9c676df1]: Commencement: Sch. para. 13 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-9bb2f9fa04c44cc7b88f2ef874ceeb6e]: Commencement: Sch. para. 14 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-83d803f576a97f332ee66f216ac1c72c]: Commencement: Sch. para. 15 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-ce3c8c9e22c1668c6cf48f42f33cef11]: Commencement: Sch. para. 16 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-a60692fb3229e656047ef4c1cf92efa6]: Textual amendment: Words in [Sch. para. 16(1)(a)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/16/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+
+[^key-c43c22303f9915221bfbb68b54bacb0a]: Textual amendment: Words in [Sch. para. 16(2)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/16/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
+
+[^key-aeb4a3a56f66ad24db9205960270f357]: Textual amendment: Words in [Sch. para. 16(2)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/16/2) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+
+[^key-f4c3e0480924c25a110d6c4afab9b900]: Commencement: Sch. para. 17 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-6c2d8d21e5b44eeadd4dc8c730c8c059]: Commencement: Sch. para. 18 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-b7fe67d57f3286c925329531781da404]: Commencement: Sch. para. 19 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-31aaf64f6654155e29c98fe8aa58ad8d]: Textual amendment: Word in [Sch. para. 19(b)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/19/b) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(h)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/h) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-fce5a73256a2407c5ef1c1de9f652105]: Commencement: Sch. para. 20 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-3c106ed651ee4dad63d7ee9a27363efb]: Commencement: Sch. para. 21 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-2198dde6d8d79ae9ff712e8a52247c7c]: Commencement: Sch. para. 22 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-727cc9496934bd99dbe4a40b77673329]: Commencement: Sch. para. 23 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-17a240db547a4c14a2634c6a966a17fe]: Textual amendment: Word in [Sch. para. 23(1)(a)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/23/1/a) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(i)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/i) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-b07339386a4c36817771c544403a2474]: Commencement: Sch. para. 24 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-d8408edc9dd102c041a992c4191c6541]: Textual amendment: Word in [Sch. para. 24(1)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/24/1) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(j)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/j) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-40f1f5084bc23bb4639333f7fa0454d2]: Commencement: Sch. para. 25 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-ff942b7a7d1d1103e9f83d327596bb2f]: Commencement: Sch. para. 26 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-481ec1d63a23143a4d2556ad0bd88ddd]: Textual amendment: Word in [Sch. para. 26(a)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/26/a) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(k)(i)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/k/i) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-836e3a5b2eea719f8d65b0e67b4f75c8]: Textual amendment: Words in [Sch. para. 26(a)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/26/a) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(k)(ii)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/k/ii) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-2d3cd34783789d594037748b62e8e871]: Commencement: Sch. para. 27 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-db13d2a0870ca9db97430c17d7beb2cf]: Textual amendment: Word in [Sch. para. 27(2)](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/27/2) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(l)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/l) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-dd286909f5fe64ddb72e7f26cd1fb37a]: Commencement: Sch. para. 28 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-5a66b782ca45be8abd56f06339ceb9e8]: Commencement: Sch. para. 29 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)
+
+[^key-98ce1987acbf85a88e280031475a907c]: Textual amendment: Word in [Sch. para. 29](https://www.legislation.gov.uk/uksi/2020/971/schedule/paragraph/29) substituted (1.10.2023) by [The Environmental Protection (Plastic Plates etc. and Polystyrene Containers etc.) (England) Regulations 2023 (S.I. 2023/982)](https://www.legislation.gov.uk/uksi/2023/982), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/982/regulation/1/2), [Sch. 3 para. 7(m)](https://www.legislation.gov.uk/uksi/2023/982/schedule/3/paragraph/7/m) (with [reg. 16(b)](https://www.legislation.gov.uk/uksi/2023/982/regulation/16/b))
+
+[^key-bb5cb560ad143ee1c529094053855f44]: Commencement: Sch. para. 30 in force at 1.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/971/regulation/1/2)

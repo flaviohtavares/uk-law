@@ -1,0 +1,98 @@
+---
+title: The Income Tax (Indexation) Order 2013
+id: uksi/2013/3088
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2013-12-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/3088
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/3088/pdfs/uksi_20133088_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/3088/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Indexation) Order 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 3088
+
+Income Tax
+
+The Income Tax (Indexation) Order 2013
+
+Made
+
+5th December 2013
+
+The Treasury make the following Order in exercise of the powers conferred by sections 21(5) and 57(6) of the Income Tax Act 2007[^f00001]:
+
+## 1. Citation and interpretation
+
+(1) This Order may be cited as the Income Tax (Indexation) Order 2013.
+
+(2) In this Order references to sections are references to sections in the Income Tax Act 2007.
+
+## 2. Indexation of the rate limits for the tax year 2014-15
+
+For the tax year 2014-15—
+
+- (a) the amount specified in section 10(5) (basic rate limit)[^f00002] is replaced with “£33,100”;
+- (b) the amount specified in section 12(3) (starting rate limit for savings)[^f00003] is replaced with “£2,880”.
+
+## 3. Indexation of allowances for the tax year 2014-15
+
+For the tax year 2014-15—
+
+- (a) the amount specified in section 35(1) (personal allowance for those born after 5 April 1948)[^f00004] is replaced with “£9,740”;
+- (b) the amount specified in section 38(1) (blind person’s allowance)[^f00005] is replaced with “£2,230”;
+- (c) the amount specified in section 43 (tax reductions for married couples and civil partners: the minimum amount)[^f00006] is replaced with “£3,140”;
+- (d) the amount specified in section 45(3)(a) (marriages before 5 December 2005: married couple’s allowance)[^f00007] is replaced with “£8,165”;
+- (e) the amount specified in section 46(3)(a) (marriages and civil partnerships on or after 5 December 2005: married couple’s allowance)[^f00008] is replaced with “£8,165”;
+- (f) the amount specified in each of sections 36(2), 37(2), 45(4) and 46(4) (adjusted net income limit)[^f00009] is replaced with “£27,000”.
+
+Mark Lancaster
+
+Sam Gyimah
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+5th December 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+For the tax year 2014-15 this Order replaces certain amounts specified in the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3) with increased amounts. In accordance with the method provided by sections 21 and 57 of that Act, the increases are calculated by reference to the increase in the retail prices index. Where the retail prices index for the September before the start of the tax year is higher than it was for the previous September, an order must be made replacing those amounts. The retail prices index has increased and this Order sets out the new rate limits and allowances for the tax year 2014-15.
+
+Increases made pursuant to section 21 are to the basic rate limit and the starting rate limit for savings. Increases made pursuant to section 57 are to the personal allowance for those born after 5 April 1948, blind person’s allowance, married couple’s allowance, the minimum amount of the married couple’s allowance and the income limit for certain of the personal allowances and the married couple’s allowance.
+
+The basic rate limit and the personal allowance for those born after 5 April 1948 were last amended by the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29). The other amounts were last increased by the Income Tax (Indexation) Order 2012 ([S.I. 2012/3047](https://www.legislation.gov.uk/uksi/2012/3047)).
+
+A Tax Information and Impact Note has not been prepared for this instrument as it gives effect to previously announced policy and relates to a predetermined indexation formula.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3); section 21 was amended by paragraphs 1 and 11 of Schedule 1 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) (“FA 2008”). Section 57 was amended by section 4(3) of the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10) (“FA 2009”), section 4(1) and (6) of the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) (“FA 2012”) and Part 10 of Schedule 1 to the Statute Law (Repeals) Act [2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2) (“SLRA 2013”).
+
+[^f00002]: Footnote: Section 10(5) was substituted by section 4(1) of FA 2008. The amount specified in section 10(5) was last substituted by section 3(1) of the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) (“FA 2013”).
+
+[^f00003]: Footnote: Section 12 was substituted by paragraphs 1 and 5 of Schedule 1 to FA 2008. The amount specified in section 12(3) was last substituted by article 2(b) of [S.I. 2012/3047](https://www.legislation.gov.uk/uksi/2012/3047).
+
+[^f00004]: Footnote: Section 35 was amended by section 4(1) of FA 2009 and section 4(1) and (2) of FA 2012. The amount specified in section 35(1) was last substituted by section 2(1) of FA 2013.
+
+[^f00005]: Footnote: The amount specified in section 38(1) was last substituted by article 3(b) of [S.I. 2012/3047](https://www.legislation.gov.uk/uksi/2012/3047).
+
+[^f00006]: Footnote: The amount specified in section 43 was last substituted by article 3(c) of [S.I. 2012/3047](https://www.legislation.gov.uk/uksi/2012/3047).
+
+[^f00007]: Footnote: Section 45(3) was amended by Part 10 of Schedule 1 to the SLRA 2013. The amount specified in section 45(3)(a) was last substituted by article 3(d)(i) of [SI 2012/3047](https://www.legislation.gov.uk/uksi/2012/3047).
+
+[^f00008]: Footnote: Section 46(3) was amended by Part 10 of Schedule 1 to the SLRA 2013. The amount specified in section 46(3)(a) was last substituted by article 3(e)(i) of [SI 2012/3047](https://www.legislation.gov.uk/uksi/2012/3047).
+
+[^f00009]: Footnote: Section 36(2) was amended by section 4(2) of FA 2009 and section 4(1) and (3) of FA 2012. Section 37(2) was amended by section 4(2) of FA 2009 and section 4(1) and (4) of FA 2012. The amount specified in each of the provisions of this subparagraph was last substituted by article 3(f) of [S.I. 2012/3047](https://www.legislation.gov.uk/uksi/2012/3047).

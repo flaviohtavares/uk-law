@@ -1,0 +1,404 @@
+---
+title: The Social Security (Incapacity Benefit — Increases for Dependants) Regulations 1994
+id: uksi/1994/2945
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1994-11-21'
+text_date: '2014-01-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1994/2945
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/2945/pdfs/uksi_19942945_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1994/2945/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Incapacity Benefit — Increases for Dependants) Regulations 1994
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2014-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/2945
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1994 No. 2945
+
+SOCIAL SECURITY
+
+The Social Security (Incapacity Benefit — Increases for Dependants) Regulations 1994
+
+Made
+
+21st November 1994
+
+Laid before Parliament
+
+24th November 1994
+
+Coming into force—
+
+except for regulation 15(6)(b)(i) and (c)(i)
+
+13th April 1995
+
+regulation 15(6)(b)(i) and (c)(i)
+
+13th May 1995
+
+The Secretary of State for Social Security, in exercise of powers conferred by sections 3(2), 80(7), 86A, 87, 89, 90, 114(1) and 122(1) and (5) of the Social Security Contributions and Benefits Act 1992[^c18010401] and of all other powers enabling him in that behalf, by this instrument, which contains only regulations which are either made under section 86A of that Act or consequential on the other amendments made to the Act of 1992 by the Social Security (Incapacity for Work) Act 1994[^c18010411], and which, being in either case made within 6 months of the coming into force of the latter Act, are not required to be referred to the Social Security Advisory Committee[^c18010421], hereby makes the following Regulations:
+
+## PART I — General
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Incapacity Benefit — Increases for Dependents) Regulations 1994 and shall come into force as follows–
+
+except for regulation 15(6)(b)(i) and (c)(i), on 13th April 1995;
+
+regulation 15(6)(b)(i) and (c)(i) on 13th May 1995.
+
+(2) In these Regulations–
+
+“the Administration Act” means the Social Security Administration Act 1992 [^c18010431];
+
+“benefit week” means a period of seven days ending with the day on which the benefit is due to be paid;
+
+“the Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;
+
+“entitled to child benefit” includes treated as so entitled;
+
+“parent” has the meaning that it bears for the purposes of Part IX of the Contributions and Benefits Act (child benefit);
+
+“standard rate of increase” means the amount specified in column (3) of Part IV of Schedule 4 to the Contributions and Benefits Act which is appropriate in the case of the beneficiary.
+
+(3) In these Regulations, except where the context otherwise requires–
+
+- (a) a reference to a numbered section is a reference to the section of the Contributions and Benefits Act which bears that number;
+- (b) a reference to a numbered regulation is a reference to the regulation in these Regulations which bears that number; and
+- (c) a reference in a regulation to a numbered paragraph is a reference to the paragraph in that regulation which bears that number.
+
+### 2. Provisions as to maintenance for the purposes of increase of benefit in respect of dependants
+
+(1) Subject to paragraph (2), a beneficiary shall not, for the purposes of the Contributions and Benefits Act in so far as they relate to incapacity benefit and of these Regulations, be deemed to be wholly or mainly maintaining another person unless the beneficiary–
+
+- (a) when incapable of work, contributes towards the maintenance of that person an amount not less than the amount of increase of benefit received in respect of that person; and
+- (b) when in employment, or not incapable of work, (except in a case where the dependency did not arise until after that time) contributed more than half of the actual cost of maintenance of that person.
+
+(2) In a case where–
+
+- (a) a person is partly maintained by each of 2 or more other persons each of whom could be entitled to an increase of benefit under the Contributions and Benefits Act in respect of that person if he were wholly or mainly maintaining that person, and
+- (b) the contributions made by those other persons towards the maintenance of that person amount in the aggregate to sums which, if they were contributed by one of them, would be sufficient to satisfy the requirements of paragraph (1),
+
+that person shall for purposes of the Contributions and Benefits Act in so far as they relate to incapacity benefit, be deemed to be wholly or mainly maintained by that one of the said other persons who–
+
+- (i) makes the larger or largest contribution to the maintenance of that person, or
+- (ii) in a case where no person makes the larger or largest contribution, is the elder or eldest of the said other persons, or
+- (iii) in any case, is a person designated in that behalf by a notice in writing signed by a majority of the said other persons and addressed to the Secretary of State,
+
+so long as that one of the said other persons continues to be entitled to benefit under the Contributions and Benefits Act and to satisfy the condition contained in paragraph (1)(a).
+
+(3) A notice given under paragraph (2) and the designation contained in it may be revoked at any time by a fresh notice signed by a majority of such persons and another one of their number may be designated thereby, and accordingly the provisions of that paragraph shall apply to the one so last designated.
+
+### 2A. Disapplication of section 1(1A) of the Administration Act[^M_F_89de2935-ecf2-445c-d64e-6f316252fafe]
+
+Section 1(1A) of the Administration Act (requirement to state national insurance number) shall not apply—
+
+- (a)[^key-ca511cb7e926ece17122ec3380501ac9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) to an adult dependant in respect of whom a claim for an increase of incapacity benefit is made or treated as made before 5th October 1998.
+
+### 3. Allocation of contributions for a spouse or civil partner[^key-cdd823682189dd8041bdd3b7c4398d45][^key-4675a02515e1c579d9c242e67ed77e52]
+
+(1) For the purposes of the Contributions and Benefits Act insofar as it relates to incapacity benefit, any sum paid by a person by way of contribution towards the maintenance of his spouse or civil partner[^key-ec65054780840f38b1f490983450f66e] shall be treated for the purposes of regulations 9 and 12 as such contributions of such respective amounts equal in aggregate to the sum in respect of his spouse or civil partner as would secure as large a payment as possible by way of benefit in respect of dependants.
+
+### 4. Deeming abated benefit to be a contribution for the maintenance of child or adult dependants
+
+Where for any period a person (in this regulation referred to as A) is entitled to, or to an increase in the amount of, any benefit prescribed under section 74(3)(a) of the Administration Act (income support and other payments) in respect of another person (in this regulation referred to as B) and the amount of, or of the increase in, any such benefit is abated under that section, then in determining for the purpose of the Contributions and Benefits Act whether A is wholly or mainly maintaining or is contributing at any weekly rate to the maintenance of, or is or has been contributing at any weekly rate to the cost of providing for, B, the amount by which such benefit for any week has been so abated shall be deemed to be a contribution of that amount for that week made by A for the maintenance of B.
+
+### 5. Attribution of earnings[^key-38dcece6ef4539ac9574295f55797a3e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART II — Child Dependants
+
+### 6. Circumstances in which a person who is not entitled to child benefit is to be treated as if so entitled[^key-7aeca48da297606cc9548ce88125b853]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Circumstances in which a person entitled to child benefit is to be treated as if he were not so entitled[^key-7aeca48da297606cc9548ce88125b853]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Contribution towards cost of providing for child[^key-7aeca48da297606cc9548ce88125b853]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART III — Adult Dependants
+
+### 9. Increase of incapacity benefit for adult dependants and persons having the care of children or qualifying young persons[^key-35bcfc5b07566df1535dce51990605fe]
+
+(1) Subject to regulation 14, a beneficiary shall be entitled to an increase of incapacity benefit under section 86A(1) if–
+
+- (a) he is residing with a spouse or civil partner[^key-344c5c03d9db45a452b05ce312822aff] of his and either–
+  - (i) the spouse or civil partner has reached the qualifying age referred to in section 1(6) of the State Pension Credit Act 2002[^key-9ac9998ceb22108b05c2f1881c482fa0]; or
+  - (ii)[^key-3bdd935edde95314657dee568b8daf7b] the beneficiary is entitled to child benefit in respect of a child or qualifying young person[^key-3478f48144cb0eac1c7f5babc12eca7a]; or
+- (b) he has a spouse or civil partner[^key-e1363a3e1dd9e309d994c56ef907a4ab] who has reached the qualifying age referred to in section 1(6) of the State Pension Credit Act 2002[^key-26eeb957198e6d4253c8ec709915db70] and not residing with him but to whose maintenance he contributes at a weekly rate equal to or greater than the rate of the increase; or
+- (c) there is an adult who–
+  - (i) is resident with him; and
+  - (ii)[^key-e9349c67f928bacd86b4f4ec73cd7898] cares for a child or qualifying young person in respect of whom the beneficiary is entitled to child benefit; or
+- (d) subject to paragraph (3) there is an adult who–
+  - (i) is not resident with him; and
+  - (ii)[^key-ff9cb32cb7280bf2936f82fd885c6ce0] cares for a child or qualifying young person in respect of whom the beneficiary is entitled to child benefit
+
+  and in regulation 10 “dependant” means a person who satisfies the conditions set out in any of the sub–paragraphs of this paragraph.
+
+(2)[^key-575bc600cca81a333cdc7c6a932abe39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2A)[^key-25ae36822aad61ac7e4ead0381ccc2b6] For the purposes of, and subject to, paragraph (1), where, on any day, an adult dependant is a person who does approved work on a trial basis within the meaning of regulation 10A of the Social Security (Incapacity for Work) (General) Regulations 1995 (certain persons participating in work trials to be treated as incapable of work), the beneficiary shall be treated as entitled to an increase under section 86A of the Contributions and Benefits Act.
+
+(2B)[^key-67bcdb8f8947d9025e39d3c53572264f] For the purposes of paragraph (1)(c) a beneficiary shall be treated as if he were entitled to child benefit in respect of a child or qualifying young person for any period throughout which—
+
+- (a) child benefit has been awarded to a parent of that child or qualifying young person with whom that child or qualifying young person is living and with whom the beneficiary is residing and either—
+  - (i) the child or qualifying young person is being wholly or mainly maintained by the beneficiary; or
+  - (ii) the beneficiary is also a parent of the child or qualifying young person; or
+- (b)
+  - (i) the beneficiary;
+  - (ii) his spouse or civil partner with whom he is residing; or
+  - (iii) a parent (other than the beneficiary) to whom sub-paragraph (a) would refer if that parent were entitled to child benefit,
+
+  would have been entitled to child benefit in respect of that child had the child been born at the end of the week immediately preceding the week in which the birth occurred.
+
+(2C) Where for any period a person who is in Great Britain could have been entitled to an increase of incapacity benefit pursuant to paragraph (1)(c) but for the fact that in pursuance of any agreement with the government of a country outside the United Kingdom—
+
+- (a) he;
+- (b) his spouse or civil partner who is residing with him; or
+- (c) a parent (other than the beneficiary) to whom paragraph (2B)(a) would refer if that parent were entitled to child benefit,
+
+is entitled in respect of the child or qualifying young person in question to the family benefits of that country and is not entitled to child benefit, he shall for the purposes of entitlement to the increase be treated as if he were entitled to child benefit for the period in question.
+
+(2D) For the purposes of paragraphs (2B) and (2C)—
+
+- (a) “week” means a period of 7 days beginning with a Monday; and
+- (b) a child or qualifying young person shall not be regarded as living with a person unless he can be so regarded for the purposes of section 143 (meaning of “person responsible for child or qualifying young person”).
+
+(3) A beneficiary shall not be entitled to an increase of incapacity benefit under paragraph (1)(d) unless the other person–
+
+- (a) is employed by the beneficiary in an employment in respect of which the weekly expenses incurred by the beneficiary are not less than the standard rate of increase and was so employed before the beneficiary became incapable of work, subject to the qualification that the condition of employment before that event shall not apply in a case where the necessity for the employment first arose thereafter; or
+- (b) is a person to whose maintenance the beneficiary is contributing at a weekly rate not less than the standard rate of increase.
+
+### 10. Earnings rule for increases for adult dependants
+
+(1) Subject to paragraphs (2) and (3), the increase in benefit to which a beneficiary is entitled under regulation 9 shall not be payable for the benefit week immediately following any benefit week in which the dependant has earnings which exceed the amount of the standard rate of increase.
+
+(2) Where the beneficiary is entitled to long–term incapacity benefit or to short–term incapacity benefit at a higher rate under section 30B(4), and the dependant is residing with the beneficiary, the increase of benefit shall not be payable for the benefit week immediately following any benefit week in which the dependant has earnings which exceed the amount specified in paragraph 1 of Part I of Schedule 4 to the Contributions and Benefits Act. *(affected by repeal, see note)*[^key-f21e56bbf2ae9a4d97d0ca3f71899b1a] the amoiunt for the time being specified in regulation 79(1)(c) of the Jobseeker’s Allowance Regulations 1996 (age related amount for a claimant who has attained the age of 25).
+
+(3) In determining the earnings of a dependant for the purposes of this regulation no account shall be taken of any earnings of the dependant from employment by the beneficiary to care for a child or qualifying young person[^key-5a2ba42ab3ac91e7c005622446836a91] such as is mentioned in regulation 9(1)(c).
+
+(4) Where the dependant satisfies the conditions set out in regulation 9(1)(d) and is employed by the beneficiary to care for a child or qualifying young person such as is mentioned in that sub– paragraph, the increase shall be payable irrespective of the dependant’s earnings.
+
+### 11. Apportionment of payments by way of occupational or personal pension made otherwise than weekly
+
+For the purpose of section 89 (earnings to include occupational or personal pension or[^key-74e0137bd2d43a9a1176e37671f97a18] PPF periodic payment for certain purposes) in so far as it relates to incapacity benefit, where payment by way of occupational or personal pension or PPF periodic payment is for any period made otherwise than weekly, the amount of any such payment for any week in that period shall be determined–
+
+- (a) where payment is made for a year, by dividing the total by 52;
+- (b) where payment is made for three months, by dividing the total by 13;
+- (c) where payment is made for a month, by multiplying the total by 12 and dividing the result by 52;
+- (d) where payment is made for two or more months, otherwise than for a year or for three months, by dividing the total by the number of months, multiplying the result by 12 and dividing the result of that multiplication by 52; or
+- (e) in any other case, by dividing the amount of the payment by the number of days in the period for which it is made and multiplying the result by 7.
+
+### 12. Contribution to maintenance of adult dependant
+
+(1) Subject to paragraph (2), for the purposes of regulation 9 (increase of incapacity benefit for adult dependants and persons having the care of children or qualifying young persons[^key-5cd1150f2f9f4e4852938d6f6be57e4f])–
+
+- (a) a beneficiary shall not be deemed to satisfy the requirement contained in that regulation that he is contributing to the maintenance of his spouse or civil partner[^key-ff9254a0f2a5b99a9870140412c1486e] or a person having the care of a child or qualifying young person[^key-d970f509b42474d330fd2bd7dde2916b], as the case may be, at a weekly rate of not less than the standard rate of increase unless when in employment, or not incapable of work, (except in a case where the dependency did not arise until later), he contributed to that spouse’s, civil partner's[^key-e6ce746c7fd38b65688c353a3f49b407] or person’s maintenance at a weekly rate of not less than the standard rate of increase;
+- (b) in a case where an increase of benefit is, apart from the said requirement, payable at a weekly rate less than the standard rate of increase, a beneficiary shall, subject to sub–paragraph (a) above, be deemed to satisfy the said requirement if he is contributing to the maintenance of the spouse, civil partner[^key-130af5d8d9ff4484c9a1e9ecb44bc3b1] or the person having the care of a child or qualifying young person at a weekly rate of not less than that of the increase.
+
+(2) Where, within one month of having been entitled to an increase–
+
+- (a) of unemployment benefit under section 82 by virtue of having satisfied the requirement of either–
+  - (i) subsection (1)(a)(ii) of that section; or
+  - (ii) subsection (3)(b) of that section by reason of her contributing to the maintenance of her husband; or
+- (b) of incapacity benefit under regulation 9 by virtue of having satisfied either the requirement in paragraph (1)(b) or the requirement in paragraph (3)(b) of that regulation,
+
+a person becomes entitled to incapacity benefit which attracts a standard rate of increase higher than that to which he had been entitled, he shall be deemed to satisfy the condition in paragraph (1)(a) if he satisfies it in relation to the benefit to which he had been entitled; and in this paragraph “entitled” includes deemed to have been entitled.
+
+(3) Until 13th May 1995 the reference in paragraph (2)(a) to unemployment benefit includes a reference to sickness benefit.
+
+### 13. Increase of short–term incapacity benefit for persons over pensionable age
+
+(1) In relation to any increase of short–term incapacity benefit to which section 87 (rate of increase where associated retirement pension is attributable to reduced contributions) [^c18010481] applies the amount of such increase shall be determined in accordance with the following provisions of this regulation.
+
+(2) The amount of the increase shall be the relevant percentage of the amount specified in column 3 of paragraph 1A of Part IV of Schedule 4 to the Contributions and Benefits Act (increases for dependants).
+
+(3) In this regulation “relevant percentage” means the percentage specified in regulation 6(3B) of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations 1979 [^c18010491] (reduced rates of benefit where contribution record is deficient).
+
+### 14. Disqualification for receipt of increases in cases of imprisonment and absence abroad
+
+(1) Subject to paragraph (2), where an adult (other than the spouse or civil partner[^key-b666816a00a90021547c9e1c62f9222f] of the beneficiary) in respect of whom a beneficiary is entitled to an increase of incapacity benefit under paragraph (1)(c) or (d) of regulation 9 is absent from Great Britain, or is undergoing imprisonment or detention in legal custody, the beneficiary shall not be entitled to that increase.
+
+(2) Paragraph (1) shall not apply in the case of an adult who is absent from Great Britain and who is resident with the beneficiary in circumstances where the disqualification for receipt of incapacity benefit does not apply in the case of the beneficiary by virtue of regulation 2 of the Social Security Benefit (Persons Abroad) Regulations 1975 [^c18010501].
+
+## PART IV — Consequential Amendments
+
+### 15. Amendment of the Social Security (Dependency) Regulations 1977
+
+(1) The Social Security (Dependency) Regulations 1977 [^c18010511] shall be amended in accordance with the following provisions of this regulation.
+
+(2) In regulation 1 of those Regulations–
+
+- (a) for paragraph (3) there shall be substituted the following paragraph–
+
+  > (3) Regulations 2(2) and (3), 4 and 5(1) shall, with any necessary modifications, apply to invalid care allowance as they apply to retirement pension.
+
+  ; and
+- (b) after paragraph (3) there shall be inserted the following paragraph–
+
+  > (3A) Nothing in these Regulations applies for the purposes of incapacity benefit under section 30A of the Contributions and Benefits Act.
+
+  .
+
+(3) In regulation 3 of those Regulations–
+
+- (a) in paragraph (1) the words “47(1)(a)” shall be omitted; and
+- (b) in paragraph (5) for the words “,45A(2)(b) and 47(1)(a)” there shall be substituted the words “and 45A(2)(b)”.
+
+(4) In paragraph (1)(a) of regulation 8 of those Regulations the words “or invalidity pension” shall be omitted.
+
+(5) In regulation 10 of those Regulations–
+
+- (a) in paragraph (1) the words “or sickness” and the words “or an invalidity pension” shall be omitted; and
+- (b) in paragraph (3) the words “sickness benefit, or” shall be omitted.
+
+(6) In regulation 11 of those Regulations–
+
+- (a) in paragraph (1) the words “47(1)(a)” and (in both places where they occur) the words “, sickness benefit, an invalidity pension”, shall be omitted;
+- (b) in paragraph (2)–
+  - (i) the words “, or sickness benefit” shall be omitted; and
+  - (ii) after the words “(but no other requirement in that sub–paragraph),” there shall be inserted the words “or of having been entitled to an increase of short–term incapacity benefit by virtue of having satisfied the requirements of regulation 9(1)(b) or (3)(b) of the Social Security (Incapacity Benefit — Increases for Dependants) Regulations 1994,”;
+- (c) in paragraph (2A) [^c18010521]–
+  - (i) the words “or sickness benefit” shall be omitted; and
+  - (ii) after the words “at a weekly rate not less than the standard rate of increase,” there shall be inserted the words “or of having been entitled to an increase of short–term incapacity benefit by virtue of having satisfied the requirements of regulation 9(1)(b) or (3)(b) of the Social Security (Incapacity Benefit — Increases for Dependants) Regulations 1994,”; and
+- (d) in paragraph (3) the words “or sickness benefit” shall be omitted.
+
+(7) For regulation 12 of those Regulations there shall be substituted the following regulation–
+
+> **12. Prescribed circumstances for the purposes of section 90 of the Social Security Contributions and Benefits Act**
+>
+> (1) The provisions of Part IV of the Contributions and Benefits Act (increases for dependants) and of the Social Security (Incapacity Benefit — Increases for Dependants) Regulations 1994 shall apply in relation to increases of severe disablement allowance for child or adult dependants under section 90 of the Contributions and Benefits Act as they apply to increases of long–term incapacity benefit for child or adult dependants.
+>
+> (2) For the purposes of increases of invalid care allowance for child or adult dependants under section 90 of the Contributions and Benefits Act, the prescribed circumstances in which a beneficiary is entitled to such an increase shall be as set out in Schedule 2 to these Regulations.
+
+.
+
+(8)[^key-77cccb8188c6efe847c4b5f71f2ec58b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART V — TRANSITIONAL PROVISION[^key-470126022eafc893d5493fd6b8548aca]
+
+### 16. Effect of an increase of benefit under regulation 12, 13, 15, 19, 20, 24 or 25 of the Social Security (Incapacity Benefit) (Transitional) Regulations 1995
+
+Where a woman is entitled to an increase of benefit for a dependant in accordance with regulation 12, 13, 15, 19, 20, 24 or 25 of the Social Security (Incapacity Benefit) (Transitional) Regulations 1995, regulation 9(1)(a) shall be treated for the purposes of the Contributions and Benefits Act as if such an increase was an increase of incapacity benefit prescribed in regulations made under section 86A of that Act.
+
+Signed by authority of the Secretary of State for Social Security.
+
+William Hague
+
+Minister of State,
+
+Department of Social Security
+
+(This note is not part of the Regulations)
+
+These Regulations set out the circumstances in which recipients of incapacity benefit are entitled to an increase of that benefit in respect of adult dependants and certain child dependants.
+
+Part I contains commencement and interpretation provisions (regulation 1); provisions as to the circumstances in which a person is to be deemed to be wholly or mainly maintaining another person (regulation 2); provisions about the way in which maintenance payments are to be allocated between a spouse and children (regulation 3); provision for treating the amount by which benefit is abated under section 74(3)(a) of the Social Security Administration Act 1992 as being a contribution towards the maintenance of another person (regulation 4) and provision about the period to which earnings are to be attributed (regulation 5).
+
+Part II contains provisions relating to child dependants. Regulation 6 sets out the circumstances in which a person not entitled to child benefit is to be treated as if he were so entitled and regulation 7 sets out the circumstances in which a person who is entitled to child benefit is to be treated as if he were not so entitled. Regulation 8 provides for deeming, in certain circumstances, a person to be contributing to the cost of maintaining a child.
+
+Part III contains provisions relating to adult dependants. Regulation 9 provides for the circumstances in which an increase of incapacity benefit is to be payable for an adult dependant. Regulation 10 sets our the rules about how much an adult dependant may earn if an increase of incapacity benefit is to be payable in respect of him. Regulation 11 deals with the apportionment of payments of occupational pension (which are treated as earnings) where they are paid otherwise than weekly. Regulation 12 sets out the circumstances in which a person is to be deemed to be contributing to the maintenance of an adult dependant. Regulation 13 provides for an increase of short–term incapacity benefit for persons over pensionable age and regulation 14 provides for disqualification from receipt of increase of incapacity benefit in cases of imprisonment and absence abroad.
+
+Part IV makes amendments to the Social Security (Dependency) Regulations 1977 which are consequential on the abolition of sickness and invalidity benefit and the introduction of incapacity benefit.
+
+The Regulations are made within six months of the coming into force of section 2(5) of the Social Security (Incapacity for Work) Act 1994 (c.18) which inserts section 86A into the Social Security Contributions and Benefits Act 1992 (c.4) and accordingly are not required to be referred to the Social Security Advisory Committee by virtue of section 173(5) of the Social Security Administration Act 1992 (c.5).
+
+## Annotations
+
+[^c18010401]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 86A was inserted by the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18), [section 2(5)](https://www.legislation.gov.uk/ukpga/1994/18/section/2/5). Section 122(1) is cited for the meaning assigned to the word “prescribe”.
+
+[^c18010411]: Marginal citation: [1994 c.18](https://www.legislation.gov.uk/ukpga/1994/18).
+
+[^c18010421]: Marginal citation: *See*[section 173(5)(b)](https://www.legislation.gov.uk/uksi/1994/2945/section/173/5/b) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5). The definition of “relevant enactments” in section 170 of that Act is extended to include the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18) by section 11(1) of, and paragraph 51 of Schedule 1 to, the latter Act.
+
+[^c18010431]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^M_F_89de2935-ecf2-445c-d64e-6f316252fafe]: Textual amendment: Reg. 2A inserted (1.12.1997) by [The Social Security (National Insurance Number Information: Exemption) Regulations 1997 (S.I. 1997/2676)](https://www.legislation.gov.uk/uksi/1997/2676) reg. 1, 9(2A).
+
+[^key-ca511cb7e926ece17122ec3380501ac9]: Textual amendment: [Reg. 2A(a)](https://www.legislation.gov.uk/uksi/1994/2945/regulation/2A/a) omitted (6.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/a), [2(5)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/5)
+
+[^key-cdd823682189dd8041bdd3b7c4398d45]: Textual amendment: Reg. 3 substituted (6.4.2003) by [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/b), [2(7)(a)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/7/a)
+
+[^key-4675a02515e1c579d9c242e67ed77e52]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1994/2945/regulation/3) heading added (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 23(2)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/23/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-ec65054780840f38b1f490983450f66e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1994/2945/regulation/3) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 23(2)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/23/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-38dcece6ef4539ac9574295f55797a3e]: Textual amendment: Reg. 5 revoked (25.11.1996) by [The Social Security Benefit (Computation of Earnings) Regulations 1996 (S.I. 1996/2745)](https://www.legislation.gov.uk/uksi/1996/2745), [reg. 1](https://www.legislation.gov.uk/uksi/1996/2745/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1996/2745/schedule/4)
+
+[^key-7aeca48da297606cc9548ce88125b853]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/uksi/1994/2945/part/II) omitted (6.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/b), [2(7)(b)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/7/b)
+
+[^key-35bcfc5b07566df1535dce51990605fe]: Textual amendment: Words in reg. 9 heading added (10.4.2006) by [The Social Security (Provisions relating to Qualifying Young Persons) (Amendment) Regulations 2006 (S.I. 2006/692)](https://www.legislation.gov.uk/uksi/2006/692), [regs. 1](https://www.legislation.gov.uk/uksi/2006/692/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2006/692/regulation/4/2/a)
+
+[^key-344c5c03d9db45a452b05ce312822aff]: Textual amendment: Words in reg. 9(1)(a) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 23(3)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/23/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-9ac9998ceb22108b05c2f1881c482fa0]: Textual amendment: Words in [reg. 9(1)(a)(i)](https://www.legislation.gov.uk/uksi/1994/2945/regulation/9/1/a/i) substituted (28.6.2010) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/840/regulation/5)
+
+[^key-3bdd935edde95314657dee568b8daf7b]: Textual amendment: Words in reg. 9(1)(a)(ii) substituted (6.4.2003) by [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/b), [2(7)(aa)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/7/aa)[(c)(i)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/7/c/i)
+
+[^key-3478f48144cb0eac1c7f5babc12eca7a]: Textual amendment: Words in reg. 9(1) inserted (10.4.2006) by [The Social Security (Provisions relating to Qualifying Young Persons) (Amendment) Regulations 2006 (S.I. 2006/692)](https://www.legislation.gov.uk/uksi/2006/692), [regs. 1](https://www.legislation.gov.uk/uksi/2006/692/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2006/692/regulation/4/2/b)
+
+[^key-e1363a3e1dd9e309d994c56ef907a4ab]: Textual amendment: Words in reg. 9(1)(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 23(3)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/23/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-26eeb957198e6d4253c8ec709915db70]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/1994/2945/regulation/9/1/b) substituted (28.6.2010) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/840/regulation/5)
+
+[^key-e9349c67f928bacd86b4f4ec73cd7898]: Textual amendment: Words in reg. 9(1)(c)(ii) substituted (6.4.2003) by [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/b), [2(7)(bb)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/7/bb)[(c)(i)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/7/c/i)
+
+[^key-ff9cb32cb7280bf2936f82fd885c6ce0]: Textual amendment: Words in reg. 9(1)(d)(ii) substituted (6.4.2003) by [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/b), [2(7)(c)(i)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/7/c/i)[(cc)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/7/cc)
+
+[^key-575bc600cca81a333cdc7c6a932abe39]: Textual amendment: Reg. 9(2) omitted (6.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/b), [2(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/7/c/ii)
+
+[^key-25ae36822aad61ac7e4ead0381ccc2b6]: Textual amendment: Reg. 9(2A) inserted (3.4.2000) by [The Social Security (Approved Work) Regulations 2000 (S.I. 2000/678)](https://www.legislation.gov.uk/uksi/2000/678), [regs. 1](https://www.legislation.gov.uk/uksi/2000/678/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/678/regulation/6)
+
+[^key-67bcdb8f8947d9025e39d3c53572264f]: Textual amendment: Reg. 9(2B)-(2D) inserted (1.10.2006) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/2378/regulation/9)
+
+[^key-f21e56bbf2ae9a4d97d0ca3f71899b1a]: Textual amendment: Words in reg. 10(2) substituted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/19/2) (with [reg. 19(3)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/19/3)[(4)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/19/4))
+
+[^key-5a2ba42ab3ac91e7c005622446836a91]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/1994/2945/regulation/10/3)[(4)](https://www.legislation.gov.uk/uksi/1994/2945/regulation/10/4) inserted (10.4.2006) by [The Social Security (Provisions relating to Qualifying Young Persons) (Amendment) Regulations 2006 (S.I. 2006/692)](https://www.legislation.gov.uk/uksi/2006/692), [regs. 1](https://www.legislation.gov.uk/uksi/2006/692/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2006/692/regulation/4/3/a)
+
+[^key-74e0137bd2d43a9a1176e37671f97a18]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1994/2945/regulation/11) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/1069/regulation/3)
+
+[^key-5cd1150f2f9f4e4852938d6f6be57e4f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1994/2945/regulation/12/1) inserted (10.4.2006) by [The Social Security (Provisions relating to Qualifying Young Persons) (Amendment) Regulations 2006 (S.I. 2006/692)](https://www.legislation.gov.uk/uksi/2006/692), [regs. 1](https://www.legislation.gov.uk/uksi/2006/692/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2006/692/regulation/4/a)
+
+[^key-ff9254a0f2a5b99a9870140412c1486e]: Textual amendment: Words in reg. 12(1)(a) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 23(4)(a)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/23/4/a/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-d970f509b42474d330fd2bd7dde2916b]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1994/2945/regulation/12/1) inserted (10.4.2006) by [The Social Security (Provisions relating to Qualifying Young Persons) (Amendment) Regulations 2006 (S.I. 2006/692)](https://www.legislation.gov.uk/uksi/2006/692), [regs. 1](https://www.legislation.gov.uk/uksi/2006/692/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2006/692/regulation/4/b)
+
+[^key-e6ce746c7fd38b65688c353a3f49b407]: Textual amendment: Words in reg. 12(1)(a) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 23(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/23/4/a/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-130af5d8d9ff4484c9a1e9ecb44bc3b1]: Textual amendment: Words in reg. 12(1)(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 23(4)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/23/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^c18010481]: Marginal citation: Section 87 is amended by paragraph 24 of Schedule 1 to the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18).
+
+[^c18010491]: Marginal citation: [S.I. 1979/642](https://www.legislation.gov.uk/uksi/1979/642). The relevant amending instrument is [S.I. 1990/2642](https://www.legislation.gov.uk/uksi/1990/2642).
+
+[^key-b666816a00a90021547c9e1c62f9222f]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1994/2945/regulation/14/1) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 23(5)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/23/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^c18010501]: Marginal citation: [S.I. 1975/563](https://www.legislation.gov.uk/uksi/1975/563). The relevant amending instruments are [S.I. 1977/342](https://www.legislation.gov.uk/uksi/1977/342) and 1679, 1983/186, 1984/1303, 1986/1545, 1990/40 and 1994/268.
+
+[^c18010511]: Marginal citation: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343). The relevant amending instruments are [S.I. 1978/1698](https://www.legislation.gov.uk/uksi/1978/1698), 1980/827, 1983/186 and 1001, 1984/1698, 1699 and 1728, 1985/1190 and 1305, 1987/355, 1989/523 and 1642 and 1992/247 and 3041.
+
+[^c18010521]: Marginal citation: Paragraph (2A) was inserted into regulation 11 by [S.I. 1987/355](https://www.legislation.gov.uk/uksi/1987/355), [regulation 4(b)](https://www.legislation.gov.uk/uksi/1987/355/regulation/4/b).
+
+[^key-77cccb8188c6efe847c4b5f71f2ec58b]: Textual amendment: Reg. 15(8) revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+
+[^key-470126022eafc893d5493fd6b8548aca]: Textual amendment: Pt. 5 inserted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/1995/829/regulation/23) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))

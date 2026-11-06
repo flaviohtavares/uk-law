@@ -1,0 +1,63 @@
+---
+title: Broadcasting Act 1996, section 11
+act: Broadcasting Act 1996
+section: '11'
+status: revised-with-pending-changes
+text_date: '2026-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1996/55/section/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Broadcasting Act 1996, section 11
+
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/55
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 11. Failure to begin providing licensed service and financial penalties on revocation of licence.[^c11522501]
+
+*Extent: E+W+S+N.I.*
+
+(1) Subject to subsection (2), subsection (3) applies where at any time after a multiplex licence has been granted to any person but before the licence has come into force—
+
+- (a) that person indicates to OFCOM[^key-38187296a1bdc9e0f02b1d37d7ac0fa0] that he does not intend to provide the service in question, or
+- (b) OFCOM for any other reason have reasonable grounds for believing that that person will not provide that service once the licence has come into force.
+
+(2) Subsection (3) shall not apply in the case of any person by virtue of paragraph (b) of subsection (1) unless OFCOM have served on him a notice stating their grounds for believing that he will not provide the service in question once his licence has come into force; and they shall not serve such a notice on him unless they have given him a reasonable opportunity of making representations to them about the matters complained of.
+
+(3) Where this subsection applies—
+
+- (a) OFCOM shall serve on the person to whom the licence has been granted a notice revoking the licence as from the time the notice is served on him, and
+- (b) section 8 shall (subject to subsection (4)) have effect as if he had not made an application for the licence.
+
+(4) Section 8 shall not have effect as mentioned in subsection (3) if the Commission decide that it would be desirable to publish a fresh notice under section 7(1) in respect of the grant of the licence.
+
+(5) Where OFCOM revoke a multiplex licence under this section or under any other provision of this Part, they shall serve on the licence holder a notice requiring him to pay to them, within a specified period, a specified financial penalty [^key-a4c58a6b294c33243d9f83538373faf6]...
+
+(5A)[^key-107b11299e19055b4fba81c114078287] The maximum amount which a person may be required to pay by way of a penalty under subsection (5) is the maximum penalty given by subsections (5B) and (5C).
+
+(5B) In a case where the licence is revoked under this section or the penalty is imposed before the end of the first complete accounting period of the licence holder to fall within the period for which the licence is in force, the maximum penalty is whichever is the greater of—
+
+- (a) £500,000; and
+- (b) 7 per cent. of the amount which OFCOM estimate would have been the multiplex revenue for the first complete accounting period of the licence holder falling within the period for which the licence would have been in force.
+
+(5C) In any other case, the maximum penalty is whichever is the greater of—
+
+- (a) £500,000; and
+- (b) 7 per cent. of the multiplex revenue for the last complete accounting period of the licence holder falling within the period for which the licence is in force.
+
+(5D) Section 14 applies for estimating or determining multiplex revenue for the purposes of subsection (5B) or (5C) above.
+
+(7) Any financial penalty payable by any body by virtue of subsection (5) shall, in addition to being recoverable from that body as provided by section 38(4), be recoverable by OFCOM as a debt due to them from any person who controls that body.
+
+## Annotations
+
+[^c11522501]: Modification: S. 11 applied (with modifications)(20.11.1996) by [S.I. 1996/2760](https://www.legislation.gov.uk/uksi/1996/2760), [art. 5(1)(2)(4)](https://www.legislation.gov.uk/uksi/1996/2760/article/5/1/2/4)
+
+[^key-38187296a1bdc9e0f02b1d37d7ac0fa0]: Textual amendment: Words in s. 11 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 83](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/83) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-a4c58a6b294c33243d9f83538373faf6]: Textual amendment: Words in s. 11(5) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 13 para. 11(1)(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/13/paragraph/11/1), Sch. 19(1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-107b11299e19055b4fba81c114078287]: Textual amendment: S. 11(5A)-(5D) substituted for s. 11(6) (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 13 para. 11(2)(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/13/paragraph/11/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

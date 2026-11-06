@@ -1,0 +1,761 @@
+---
+title: The Excise Warehousing (Etc.) Regulations 1988
+id: uksi/1988/809
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1988-04-29'
+text_date: '2025-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1988/809
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/809/pdfs/uksi_19880809_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/809/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Excise Warehousing (Etc.) Regulations 1988
+
+> Text as at 2025-05-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1988 No. 809
+
+CUSTOMS AND EXCISE
+
+The Excise Warehousing (Etc.) Regulations 1988
+
+Made
+
+29th April 1988
+
+Laid before Parliament
+
+9th May 1988
+
+Coming into force
+
+1st June 1988
+
+The Commissioners of Customs and Excise, in exercise of the powers conferred on them by section 93 of the Customs and Excise Management Act 1979[^f00001], and sections 2(3A), 15 and 56(1) of the Alcoholic Liquor Duties Act 1979[^f00002] and of all other powers enabling them in that behalf, hereby make the following regulations:[^M_C_b0e41908-cc43-4486-8279-c8976a48c627][^key-11e81f860f803fc7249ba18de4bae49f]
+
+## PART I — PRELIMINARY
+
+### 1. Citation and commencement[^key-f12a9c368bad24ca3f4b0accf6b0778c][^key-11e81f860f803fc7249ba18de4bae49f]
+
+These Regulations may be cited as the Excise Warehousing (Etc.) Regulations 1988 and shall come into force on 1st June 1988, but the Commissioners may give consent and agree conditions, restrictions or requirements under regulation 5 (variation of provisions at request of occupier or proprietor) before that date.
+
+### 2. Interpretation[^key-7ef7e603ebf70c1bca0d5e71b7632626][^key-11e81f860f803fc7249ba18de4bae49f]
+
+In these Regulations, unless the context otherwise requires—
+
+- “duty” means excise duty;
+- “occupier” means the occupier of an excise warehouse [^key-3272377c8f45d35cd7203a4383781efc]...;
+- “package” includes any bundle, case, carton, cask, or other container whatsoever;
+- “proprietor” means the proprietor of goods in an excise warehouse or of goods which have been in, or are to be deposited in, or are treated as being in, an excise warehouse, and “proprietorship” shall be construed accordingly;
+- “warehoused” means warehoused or rewarehoused in an excise warehouse, and “warehousing” and “rewarehousing” shall be construed accordingly.
+
+### 3. Application[^key-d708bce54aafde39ee5ffb3a68008241][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) Except as provided by or under the Hydrocarbon Oil Duties Act 1979[^f00003], Parts I to IV of these Regulations apply to all goods chargeable with a duty of excise.
+
+(2)[^key-23ca9177866421700be210538cbb348b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Designated file[^key-5b63421b6b8ab45f27ae4b2bfcce1042][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) For the purposes of these Regulations delivery to the proper officer of anything in writing—
+
+- (a) shall be effected by placing it in the relevant designated file; and
+- (b) the time of such delivery shall be when it is placed in that designated file,
+
+but the proper officer may direct that delivery shall be effected in another manner.
+
+(2) Nothing in a designated file shall be removed without the permission of the proper officer.
+
+(3) Nothing in a designated file shall be altered in any way, and an amendment to anything in it shall be made by depositing a notice of amendment in the designated file.
+
+(4) The designated file shall be kept at such place as the Commissioners direct and, if kept at the excise warehouse, shall be provided by the occupier.
+
+(5) The designated file shall be a receptacle approved by the Commissioners for the secure keeping of written material, and different files may be approved for different purposes.
+
+(6) For the purposes of these Regulations delivery to the proper officer of anything not in writing shall be effected in such manner, and be subject to such conditions, as the Commissioners direct.
+
+### 5. Variation of provisions at request of occupier or proprietor[^key-b528d6534e844dcd72ba9ef79592220a][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) The Commissioners may, if they see fit, consent in writing to an application by an occupier or proprietor for variation of any condition, restriction or requirement contained in or arising under regulations 11 to 24 below, and may make that consent subject to compliance with such other condition, restriction or requirement (as the case may be) as may be agreed by them and the applicant in writing.
+
+(2) Where under paragraph (1) above any condition or restriction is varied or another is substituted for it, then, if the varied or substituted condition or restriction is one—
+
+- (a) subject to which goods may be deposited in, secured in, kept in or removed from an excise warehouse or made available there to their owner for any prescribed purpose; or
+- (b) subject to which an operation may be carried out on goods in an excise warehouse,
+
+breach of the varied or substituted condition or restriction shall give rise to forfeiture of those goods, provided that breach of the original condition or restriction would have given rise to forfeiture.
+
+### 6. Limitation of penalties[^key-78475b68169fde2306e5736e7ec2969c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Manner of Commissioners' directions etc.[^key-ab1ecc0e54b385608db765201eafbcc3][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) Where, by or under these Regulations, it is provided that the Commissioners may—
+
+- (a) make a direction or requirement;
+- (b) give their permission or consent;
+- (c) grant approval; or
+- (d) impose a condition or restriction,
+
+then they may do so only in writing; and they may make a direction or requirement or impose a condition or restriction by means of a public notice.
+
+(2) Any request for the proper officer to give his permission or grant approval under these Regulations shall, if he or the Commissioners direct, be made in writing.
+
+(3) Any right granted to the Commissioners or the proper officer by these Regulations to—
+
+- (a) make a direction or requirement;
+- (b) give permission or consent;
+- (c) grant approval; or
+- (d) impose a condition or restriction,
+
+shall include a right to revoke, vary or replace any such direction, requirement, permission, consent, approval, condition or restriction.
+
+### 8. Form of entries etc.[^key-7d4b7c07fa49e34fb52d27b5be1bc263][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) Except as the Commissioners otherwise allow, and subject to paragraph (2) below, any entry, account, notice, specification, record or return required by or under these Regulations shall be in writing.
+
+(2) This regulation does not apply to the records referred to in regulation 22(3) and (4) below (records kept for the purposes of any relevant business or activity).
+
+### 9. Revocation[^key-02c2e71715f477037eb8bcdf1031ff04][^key-11e81f860f803fc7249ba18de4bae49f]
+
+The Excise Warehousing (Etc.) Regulations 1982[^f00004] and the Excise Warehousing (Etc.) (Amendment) Regulations 1986[^f00005] are hereby revoked.
+
+## PART II — PROCEDURES FOR EXCISE WAREHOUSES AND WAREHOUSED GOODS
+
+### 10. Time of warehousing[^key-b45c7e55a7c732c23d2ff75e887e934a][^key-11e81f860f803fc7249ba18de4bae49f]
+
+Goods brought to an excise warehouse for warehousing shall be deemed to be warehoused when they are put in the excise warehouse.
+
+### 10A. Goods to which section 46 of the Customs and Excise Management Act 1979 applies[^key-ad3dcdb1a709a9be6f58f3c7b3cea752]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Receipt of goods into warehouse[^key-56c44b81ac2bbd37edc4a9027b1b76f3][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) When[^key-2a48fa3d2b4e8482398fccbce6bc2bc7] goods are warehoused the occupier shall immediately deliver to the proper officer an entry of the goods in such form and containing such particulars as the Commissioners direct.
+
+(2) When goods are warehoused the occupier shall take account of the goods and deliver a copy of that account to the proper officer by the start of business on the next day after warehousing that the warehouse is open.
+
+(3) The occupier shall, if there is any indication that the goods may have been subject to loss or tampering in the course of removal to the excise warehouse, immediately inform the proper officer and retain the goods intact for his examination.
+
+(4) Except in any case to which the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 apply[^key-3b696fe8552f894ec4f057a2f15af169], the occupier shall, within 5 days of goods being warehoused, send a certificate of receipt for the goods to the person from whom they were received identifying the goods and stating the quantity which has been warehoused.
+
+(4A)[^key-afe945386a07fcb9f3b62ee4ee77b66a] Where goods are warehoused in circumstances where duty may be drawn back the certificate of receipt mentioned in paragraph (4) above shall—
+
+- (a) be in such form and contain such particulars as the Commissioners may require, and
+- (b) be endorsed on one of the copies of the warehousing advice note that accompanied the goods,
+
+and in this paragraph “warehousing advice note” means a document (in such form and containing such particulars as the Commissioners may require) drawn up by the person to whom the certificate of receipt will be sent.
+
+(5) Except as the proper officer otherwise allows the occupier shall give only one receipt required by paragraph (4) above for each lot or parcel of goods warehoused.
+
+(6)[^key-3954a1f675f813f439cdac0e98f57b5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Should the occupier fail to comply with any condition or restriction imposed by or under paragraphs (1), (2) or (3)[^key-93086dc6a0f2712ebda56246a8297003] above any goods in respect of which the failure occurred shall be liable to forfeiture.
+
+### 12. Securing, marking and taking stock of warehoused goods[^key-757afb8035f80f06991aedaf66b79743][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) The occupier shall take all necessary steps to ensure that no access is had to warehoused goods other than as allowed by or under these Regulations.
+
+(2) Goods shall be warehoused in the packages and lots in which they were first entered for warehousing.
+
+(3) The occupier shall—
+
+- (a) legibly and uniquely mark and keep marked warehoused goods so that at any time they can be identified in the stock records; and
+- (b) stow warehoused goods so that safe and easy access may be had to each package or lot.
+
+(4) The occupier shall, when required by the proper officer to do so, promptly produce to him any warehoused goods which have not lawfully been removed from the warehouse.
+
+(5) The occupier shall take stock of all goods in the warehouse—
+
+- (a)[^key-d3a5fdb1915520f638a164a8e87205be] monthly in the case of bulk goods in vats or in storage tanks; and
+- (b) annually in the case of all other goods,
+
+and shall take stock at such other times and to such extent as the Commissioners may for reasonable cause require.
+
+(6) In accordance with the Commissioners' directions the occupier shall—
+
+- (a) balance his stock accounts and reconcile the quantities of those balances with his Excise Warehouse Returns; and
+- (b) balance his stock accounts so that they can be compared with the result of any stock-taking.
+
+(7) The occupier shall notify the proper officer immediately in writing of any deficiency, surplus or other discrepancy concerning stocks or records of stocks whenever or however discovered.
+
+(8) Any goods—
+
+- (a) found not to be marked in accordance with paragraph (3) above; or
+- (b) found to be in excess of the relevant stock account and not immediately notified to the proper officer,
+
+shall be liable to forfeiture.
+
+### 13. Proprietor’s examination of goods[^key-11e81f860f803fc7249ba18de4bae49f][^key-d0439a7124774dcfb7037aab14562516][^key-4ac185f82362a84bc33badb44bfd4a0e]
+
+The proprietor of warehoused goods may, provided that the occupier has first given his consent and has given at least 6 hours' notice to the proper officer—
+
+- (a) examine the goods and their packaging;
+- (b) take any steps necessary to prevent any loss therefrom; or
+- (c) display them for sale.
+
+### 14. Operations[^key-11e81f860f803fc7249ba18de4bae49f][^key-7b24afbf6559822554c087756a34f88f][^key-4ac185f82362a84bc33badb44bfd4a0e]
+
+(1) Except as provided by or under this regulation or by section 86 of the Finance (No. 2) Act 2023 (mixing alcoholic products)[^key-989af8160ba102ed5d46c939b42a6e85], no operation shall be carried out on warehoused goods.
+
+(2) The Commissioners may allow the operations described in Schedule 1 to these Regulations to be carried out on warehoused goods, and may allow other operations if they are satisfied that the control of the goods and the security and collection of the revenue will not be prejudiced.
+
+(3) Save as the proper officer may allow in cases of emergency for the preservation of the goods, no operation shall be commenced unless the occupier has delivered to the proper officer a notice of the proposed operation with a specification of the goods involved, and 24 hours have elapsed following the delivery of that notice.
+
+(4) Before commencing any operation on goods the occupier shall ensure that an account is taken of those goods and that immediately after completion of the operation an account is taken of the out-turn quantities.
+
+(5) The occupier shall deliver to the proper officer a notice containing such detail of the accounts required by paragraph (4) above as the proper officer requires.
+
+(6) The occupier shall ensure that—
+
+- (a) any operation is carried out in a part of the warehouse approved by the Commissioners for that purpose, or in such other part as the proper officer allows; and
+- (b) such other requirements as the proper officer may impose in any particular circumstances are observed.
+
+(7) Any goods in respect of which this regulation is not observed shall be liable to forfeiture.
+
+(8) Nothing in paragraph (2) above shall permit the mixing of spirits with wine or other fermented product[^key-487574b19d92e756061c3f12cda041ed] while that operation is excluded from the provisions of section 93(2)(c) of the Customs and Excise Management Act 1979.
+
+### 15. Removal from warehouse—occupier’s responsibilities[^key-11e81f860f803fc7249ba18de4bae49f][^key-e44caee91aa6f0a0482f2b15e8c68609][^key-35ef27587cee9eb80207740988e6337c]
+
+The occupier shall ensure that—
+
+- (a) notice of intention to remove the goods is given to the proper officer in accordance with any directions made by the Commissioners;
+- (b) an entry of the goods is delivered to the proper officer in such form and containing such particulars as the Commissioners may direct;
+- (c) no goods are removed until any duty chargeable has been paid, secured, or otherwise accounted for;
+- (d) no goods are removed contrary to any condition or restriction imposed by the proper officer;
+- (e) an account of the goods is taken in such manner and to such extent as the proper officer requires and a copy of the account is delivered to the proper officer; [^key-d6c933ef85fdf79acffdcf4b441006db]...
+- (f) except in any case to which the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 apply,[^key-334dd24930537429ea1fa05b2c57b82f] when goods are removed other than for home use, a certificate of receipt is obtained showing that all the goods arrived at the place to which they were entered on removal and, if no such receipt is obtained within 21 days of the removal, notice of that fact is given to the proper officer for the excise warehouse from which the goods were removed ; and[^key-28e9695c83f5c301829e72a172ab84f7]
+- (g)[^key-73d18ebdf635515aa313e6a054e5872d] in any case where, in accordance with regulations made under section 60A of the Customs and Excise Management Act 1979, authorisation is required to ship goods as stores without payment of duty, a copy of the authorisation is obtained before the goods are removed.
+
+### 16. Removal from warehouse—entry[^key-11e81f860f803fc7249ba18de4bae49f][^key-7000c81b086be271ca566f300c9ea173][^key-d78ff3fc46cd470942a904f93a4ca0ee]
+
+(1) Goods may be entered for removal from warehouse for—
+
+- (a) home use, if so eligible;
+- (b) exportation;
+- (c) shipment as stores; or
+- (d) removal to the Isle of Man ;[^key-6323815dc1975c847e96f0dba4453509]
+
+provided that, where goods are warehoused in circumstances where duty may be drawn back they may not, under this paragraph, be entered for removal from warehouse for any purpose that may result in their being consumed in the United Kingdom or the Isle of Man.
+
+(2) The Commissioners may allow goods to be entered for removal from warehouse for—
+
+- (a) rewarehousing in another excise warehouse;
+- (b) temporary removal for such purposes and such periods as they may allow;
+- (c) scientific research and testing;
+- (d) removal to premises where goods of the same class or description may, by or under the customs and excise Acts, be kept without payment of excise duty;
+- (e) denaturing or destruction; or
+- (f) such other purpose as they permit,
+
+and may by direction impose conditions and restrictions on the entry of goods or classes of goods for any of the above purposes.
+
+(3) Save as the Commissioners direct no goods may be removed from warehouse unless they have been entered in accordance with this regulation.
+
+(4)[^key-27daef66be96c6558ae8d82b95821160][^key-58b2199297e49d7543fbcf656a47605c] Goods entered for home use may be removed from warehouse only if—
+
+- (a) the duty has been paid to the Commissioners;
+- (b) the removal is in accordance with provisions of, or under, the customs and excise Acts, allowing payment of the duty to be deferred; or
+- (c) the removal is permitted under an arrangement approved by the Commissioners for the payment of duty on the day the goods are removed.
+
+(5)[^key-27daef66be96c6558ae8d82b95821160][^key-58b2199297e49d7543fbcf656a47605c] Goods entered for a purpose other than home use may be removed from warehouse without payment of duty only if security for that duty is given (by bond or otherwise) to the satisfaction of the Commissioners and the security is such as to remain in force until the accomplishment of the purpose for which entry is made.
+
+(6)[^key-3efce88ea43d578fed1c64df372f92c1] In any case where, in accordance with regulations made under section 60A of the Customs and Excise Management Act 1979, authorisation is required to ship goods as stores without payment of duty, goods entered for shipment as stores may be removed from warehouse without payment of duty only if a copy of the authorisation has been given to the occupier.
+
+### 17. Removal from warehouse—general[^key-11e81f860f803fc7249ba18de4bae49f][^key-d222d63ef5fdf37d8f7f5a4e92e1ceb5][^key-f887e4b85a325d1ab50358fc46937e1b]
+
+(1) Any goods removed from an excise warehouse without payment of duty as samples or for scientific research and testing and which are no longer required for the purpose for which they were removed shall be—
+
+- (a) destroyed to the satisfaction of the proper officer;
+- (b) rewarehoused in an excise warehouse; or
+- (c) diverted to home use on payment of the duty chargeable thereon.
+
+(2) The proper officer may require any goods entered for removal from an excise warehouse for any purpose, other than home use, to be secured or identified by the use of a seal, lock or mark, and any such requirement may continue after the goods have been removed.
+
+(3) In such cases as the Commissioners may direct the proper officer may impose conditions and restrictions on the removal of goods from an excise warehouse in addition to those imposed elsewhere in these Regulations.
+
+(4) Any goods in respect of which any of the provisions of these Regulations relating to removal of goods from an excise warehouse (other than regulation 15(f)) is contravened shall be liable to forfeiture.
+
+(5) The Commissioners may direct that any provision of these Regulations relating to removal of goods from an excise warehouse shall not apply in the case of hydrocarbon oils.
+
+(6)[^key-c2377926fc49f521f53990855e532ca2] Subject to paragraph (7) below, goods entered for removal from an excise warehouse for any of the purposes set out in regulation 16 above shall be accompanied by an accompanying document that has been completed and is used in accordance with the instructions for completion and use set out on the reverse of copy 1 of that document.
+
+(7) Paragraph (6) above does not apply to—
+
+- (a) goods entered for removal for home use, shipment as stores or denaturing;
+- (b) goods entered for removal for use by a person to whom section 13A of the Customs and Excise Duties (General Reliefs) Act 1979 (reliefs from duties and taxes for persons enjoying certain immunities and privileges) applies;
+- (c) goods entered for removal that are, in accordance with regulations made under section 12(1) of the Customs and Excise Duties (General Reliefs) Act 1979 (supply of duty-free goods to Her Majesty’s ships), to be treated as exported;
+- (d) spirits entered for removal for use by a person authorised to receive them in accordance with section 78(1) and (2) of the Finance (No. 2) Act 2023 (authorised use for certain purposes)[^key-6cc7218f593329ea3edcf39504b9590f];
+- (e)[^key-93860db81d4139c310e44b7278e07485] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ea)[^key-29c53b3d74feee2c77408886a3e59bdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (eb)[^key-59d0941515a33a81d284b481d83cdba4] goods entered for removal in circumstances to which Part 8 of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 apply;
+- (f) goods that are being lawfully moved under the cover of a single administrative document; or
+- (g) any goods that are entered for removal from an excise warehouse for any of the purposes set out in regulation 16 above before 1st October 2002 if those goods are accompanied by a document that has been approved by the Commissioners for that purpose.
+
+(8) If there is a contravention of, or failure to comply with, paragraph (6) above, the excise duty point for excise goods that are required by this regulation to be accompanied by an accompanying document is the time those goods were removed from the excise warehouse.
+
+(9) The person liable to pay the excise duty at the excise duty point is—
+
+- (a) the person who arranged for the security required by regulation 16(5) above, or
+- (b) if regulation 16(5) above was not complied with, the authorized warehousekeeper.
+
+(10) Any person whose conduct caused a contravention of, or failure to comply with, paragraph (6) above is jointly and severally liable to pay the excise duty with the person specified in paragraph (9) above.
+
+(11) Any excise duty that any person is liable to pay by virtue of this regulation must be paid immediately.
+
+(12) In this regulation—
+
+- “single administrative document” means the single administrative document provided for in a public notice made by the Commissioners under paragraph 5 of Schedule 1 to the Taxation (Cross-border Trade) Act 2018;[^key-d2141e5d63ff5e4ac1aad4dc4067af87]
+- “accompanying document” means the document set out in Schedule 4 below.
+
+### 18. Entry of goods not in warehouse[^key-11e81f860f803fc7249ba18de4bae49f][^key-28f5d8d81323ea6506566d7f3b7be62c][^key-b5f26f81c068673800608a742e89af27]
+
+Except in such cases as the Commissioners direct, goods which are to be warehoused and goods which have been lawfully removed from an excise warehouse without payment of duty may, with the permission of the proper officer, be entered or further entered by their proprietor for any of the purposes referred to in paragraphs (1) and (2) of regulation 16 above as if they were to be removed from the excise warehouse:
+
+Provided that where any such goods are packaged and part only is to be further entered, that part shall consist of one or more complete packages.
+
+### 19. Samples[^key-11e81f860f803fc7249ba18de4bae49f][^key-5d012753a8b84416d00ac9313eab0575][^key-b5f26f81c068673800608a742e89af27]
+
+(1) The Commissioners may make directions—
+
+- (a) allowing the proprietor of warehoused goods to draw samples thereof for such purposes and subject to such conditions as they specify; and
+- (b)[^key-920b8a685a40e906fc2acd25e3f9e43e][^key-63851ed3d568f316231f253ef820ce33] allowing the removal of samples from an excise warehouse with or without payment of duty,
+
+and no sample shall be drawn or removed except as allowed by, and in accordance with directions and conditions under, this regulation.
+
+(2) Any samples drawn or removed in breach of this regulation shall be liable to forfeiture.
+
+## PART III — RETURNS AND RECORDS
+
+### 20. Returns[^key-d5265cc5530d04a1d8f46fcab613ded0][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) The occupier shall complete and sign an Excise Warehouse Return and shall deliver such return to the proper officer within 14 days of the end of the stock period to which it relates.
+
+(2) A return shall be in such form and contain such particulars of goods received into, stored in and delivered from an excise warehouse as the Commissioners direct, and different provisions may be made for goods of different classes or descriptions.
+
+(3) The Commissioners may direct that separate returns be made in respect of goods of different classes or descriptions.
+
+(4) The occupier shall support each return with such schedules and further information relating to the goods as the Commissioners may require.
+
+(5) “Stock period” means one calendar month or such other period, not exceeding 5 weeks, as the proper officer, at the request of the occupier, allows.
+
+### 21. Records to be kept[^key-00a7b04080a459fd3884121cd9067399][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) The occupier shall, in relation to goods in an excise warehouse, keep the records prescribed by Schedule 2 to these Regulations.
+
+(2)[^key-44086c1a2d90412546cee6953adc450f] The proprietor of goods in an excise warehouse, or of goods which have been removed from an excise warehouse without payment of duty, or which are to be warehoused, may be required by the proper officer to keep the records prescribed by Schedule 3 to these Regulations in so far as they relate to his proprietorship of the goods.
+
+(3) In addition to the other records required by this regulation the occupier shall, in relation to his occupation of the warehouse, keep such records of the receipt and use of goods received into the excise warehouse other than for warehousing therein as the proper officer requires.
+
+(4) Records required by or under this regulation shall—
+
+- (a) be entered up promptly;
+- (b) identify the goods to which they relate;
+- (c) in the case of an occupier be kept at the warehouse;
+- (d) in the case of a proprietor be kept at his principal place of business in the United Kingdom, or at such other place as the proper officer allows; and
+- (e) be kept in such form and manner and contain such information as the Commissioners direct.
+
+### 22. Preservation of records[^key-737f4be6f1156c02ee065c8c4af0cd36][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) The occupier shall preserve, for not less than 3 years from the lawful removal of the goods or such shorter period as the Commissioners direct, all records which he is required to keep by virtue of regulation 21(1) above, but no record shall be destroyed until the relevant stock accounts have been balanced and any discrepancy reconciled.
+
+(2)[^key-de6f6e90301997c6d38a020ed785ed77] The proprietor shall preserve, for not less than 3 years from when he ceased to be the proprietor of the goods, or for such shorter period as the Commissioners direct, all records which he is required to keep by virtue of regulation 21(2) above.
+
+(3) Each occupier and proprietor shall preserve all records (other than those referred to in paragraphs (1) and (2) above) kept by him for the purposes of any relevant business or activity for not less than 3 years from the events recorded in them, except that such records need not be preserved if they are records which (or records of a class which) the Commissioners have directed as not needing preservation.
+
+(4) The requirements to preserve records imposed by paragraph (3) above may be discharged by the preservation in a form approved by the Commissioners of the information contained in those records.
+
+### 23. Production of records[^key-9ef450c9f7ce4388e5491a8ca47dc458][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) The occupier or the proprietor shall, when required by the Commissioners, produce or cause to be produced to the proper officer any records, copy records or information which he was required by these Regulations to preserve.
+
+(2) Production under paragraph (1) above shall—
+
+- (a) take place at such reasonable time as the proper officer requires; and
+- (b) take place at the excise warehouse or at such other place as the proper officer may reasonably require.
+
+(3) The proper officer may inspect, copy or take extracts from and may remove at a reasonable time and for a reasonable period any record produced or required to be produced to him under this regulation, and the occupier and proprietor shall permit such inspection, copying, extraction and removal.
+
+(4) Where the records required to be produced by this regulation are preserved in a form which is not readily legible, or which is legible only with the aid of equipment, the occupier or proprietor shall, if the proper officer so requires, produce a transcript or other permanently legible reproduction of the records and shall permit the proper officer to retain that reproduction.
+
+### 24. Information for the protection of the revenue[^key-3ea9fc76309d55921ce4bb8a2bd258a7][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) The occupier or the proprietor shall furnish the Commissioners with any information relating to any relevant business or activity of his which they specify as information which they think it is necessary or expedient for them to be given for the protection of the revenue.
+
+(2) Such information shall be furnished to the Commissioners within such time, and at such place and in such form as they may reasonably require.
+
+### 25. Further provision as to records[^key-c39cd56afc6391e033cbc9196aceb73d][^key-11e81f860f803fc7249ba18de4bae49f]
+
+For the purposes of regulations 21 to 24 above, in relation to a proprietor—
+
+- (a) goods which are to be warehoused shall be treated as if they were warehoused in the warehouse to which they are being removed; and
+- (b) goods which have been removed from warehouse without payment of duty shall be treated as if they were warehoused in the warehouse from which they have been removed.
+
+## PART IV — DUTY CHARGEABLE ON WAREHOUSED GOODS
+
+### 26. Duty chargeable on goods removed for home use[^key-6ed122d5c93b9bffbaed4b644e1a4822][^key-7d1996cf6934e70c60897b498c8fb2b3][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1)[^key-2c8e98a3e267e970455c571742e18210] The duty and the rate thereof chargeable on any warehoused goods removed from an excise warehouse for home use shall be those in force for goods of that class or description at the time of their removal.
+
+(2)[^key-6dbde8481df41f27372f2e76c2cabcd2] Where the removal for home use of any tobacco product takes place on a day upon which an increase in the rate of duty chargeable on that product takes effect then if that removal takes place after 11.59 am on that day the time of removal is deemed to be the time at which that increase takes effect.
+
+### 27. Duty chargeable on goods diverted to home use after removal without payment of duty[^key-9bb2937e38630565f339339ad729ffa8][^key-7d1996cf6934e70c60897b498c8fb2b3][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) The duty and the rate thereof chargeable on any goods removed from an excise warehouse without payment of duty and in respect of which duty is payable under regulation 17(1)(c) above shall be those in force for goods of that class or description at the time of payment of the duty.
+
+(2) The duty and the rate thereof chargeable on any goods which have been entered for home use under regulation 18 above shall be those in force for goods of that class or description—
+
+- (a) where removal for home use is allowed under section 119 of the Customs and Excise Management Act 1979[^f00008] on the giving of security for the duty chargeable thereon, at the time of giving of the security, or
+- (b) in any other case, at the time of payment.
+
+### 28. Duty chargeable on missing or deficient goods[^key-150e586fba98d82e9655a3988ac5d352][^key-11e81f860f803fc7249ba18de4bae49f]
+
+The duty and the rate thereof chargeable on any goods found to be missing or deficient and upon which duty is payable under section 94 of the Customs and Excise Management Act 1979[^f00009], shall be those in force for goods of that class or description at the time the loss or deficiency occurred:
+
+Provided that where that time cannot be ascertained to the proper officer’s satisfaction, the rate of duty chargeable on such goods shall be the highest rate applicable thereto from the time of their deposit in the excise warehouse, or, where appropriate, from the time that the last account of them was taken, until the loss or deficiency came to the notice of the proper officer.
+
+### 29. Calculation of duty[^key-b77059d8a4250a186c8699527403623b][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1)[^key-5c69ea2662ee156a9e1cf6c68309e5b3] Where duty is charged on any such goods as are referred to in regulation 26 above, the quantity of those goods shall be ascertained by reference to any account taken in accordance with these Regulations at the time of their removal from the excise warehouse or, if no account is taken, the quantity declared to and accepted by the proper officer as the quantity of goods being removed or, if greater, the actual quantity of goods being removed.
+
+(2) Where duty is charged on any such goods as are referred to in regulations 27 or 28 above the quantity of such goods shall be ascertained by reference to the last account taken in accordance with these Regulations, or, if no account has been taken, the quantity declared to and accepted by the proper officer as the quantity of goods on which duty is to be charged, or, if greater, the actual quantity of goods. taken in accordance with these Regulations, or, if no account has been taken, the quantity declared to and accepted by the proper officer as the quantity of goods on which duty is to be charged, or, if greater, the actual quantity of goods.
+
+### 30. Ascertainment of quantity by taking an account[^key-f3eb632ae2afb31ced61318187439fd3][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(1) Where the quantity of warehoused goods is to be ascertained by taking an account thereof, it shall be ascertained for the purposes of these Regulations by reference to weight, measure, strength, original gravity or number as the case may require.
+
+(2) Where under these Regulations an occupier is required to deliver a copy of an account of goods he shall deliver to the proper officer a notice giving such details of the account as the proper officer requires, and the taking of the account shall not be complete until that notice has been delivered.
+
+## PART V — ASCERTAINMENT OF DUTY BY REFERENCE TO LABELS ETC.
+
+### 31. Ascertainment of duty by reference to labels etc.[^key-9cf1bb49a614889e69a430c088032dd7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+P. G. Willmott
+
+Commissioner of Customs and Excise
+
+New King’s Beam House 22 Upper Ground London SE1 9PJ
+
+## SCHEDULE 1 — OPERATIONS WHICH MAY BE PERMITTED ON WAREHOUSED GOODS[^key-9176b43f0791e34bbf3292a70f7d77b5][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(Regulation 14(2))
+
+**1.**[^key-892a5b32483fbb27391587ae97606e8c] Sorting, separating, packing or repacking and such other operations as are necessary for the preservation, sale, shipment or disposal of the goods.
+
+**2.**[^key-097b668f158939d7804d0c70aef724af] The rectifying and compounding of spirits.
+
+**3.**[^key-4099d867bba4413044bc557cde9cc5dc] The rendering sparkling of wine and other fermented product[^key-4d55158f39fe152073ebf71534258215].
+
+**4.**[^key-993781d3e7a425169a4feb734088c750] The mixing of a fermented alcoholic product[^key-2faf40f88b903cdadf5cd4d96e513e8b] or a alcoholic product derived from a fermented alcoholic product with any other alcoholic product or substance so as to produce other fermented product[^key-241b98736be093f9fd188e706492f8f8].
+
+**5.**[^key-f0e5768b399a7e6c7c8922d9203411a6] The mixing of lime or lemon juice with spirits for shipment as stores or for exportation.
+
+**6.**[^key-c396efa59bc580e46fde7fd99c35c1b3] Denaturing.
+
+**7.**[^key-804ec0d4ba6329332a2350e50636754d] Reducing.
+
+**8.**[^key-0e55ac43f8dfd890691e350414110f07] Marrying.
+
+**9.**[^key-09d5e012c738351461618a8faee0a5b7] Blending.
+
+## SCHEDULE 2 — RECORDS TO BE KEPT BY THE OCCUPIER[^key-2bbe9baf21fcc917e3458add598bbc88][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(Regulation 21(1))
+
+[^key-3bd25232759da4aa2806763753887ece]Records of
+
+- (a) goods deposited in the excise warehouse, from where and from whom received, and date of warehousing;
+- (aa) any certificate or other document that accompanied beer that contained a statement of the amount of beer produced in the brewery where the beer was produced;[^key-6bd6070f3194f47d910d0abd2f718961]
+- (b) goods removed from the excise warehouse, the purpose of the removal, date of removal and (if the purpose of the removal is other than for home use) the place to which the goods are removed;
+- (c) stock of warehoused goods;
+- (d) deficiencies and increases in stock;
+- (e) operations performed;
+- (f) deficiencies and increases in operation;
+- (g) accounts taken of goods deposited in the excise warehouse, removed from the excise warehouse, put into operation, received from operation, and of stocks in the excise warehouse;
+- (h) [^key-3bd25232759da4aa2806763753887ece]samples drawn from warehoused goods, samples removed from warehouse, and the person to whom samples are delivered;
+- (i) the manner in which duty is paid or accounted for when goods chargeable with duty are removed for home use;
+- (j) the manner in which security is given when goods chargeable with duty are removed for purposes other than home use, and the dates when certificates of receipt or shipment are received;
+- (jj) a copy of any authorisation which is required, in accordance with regulations made under section 60A of the Customs and Excise Management Act 1979, to ship goods as stores without payment of duty;[^key-010518232403d27cad1efbbda741bf44]
+- (k) notices delivered to the proper officer and of the manner and time of delivery;
+- (l) times when the excise warehouse is opened and closed;
+- (m) names and titles of keyholders to the excise warehouse;
+- (n) the name and address of the proprietor of each lot or parcel of goods, and of changes of proprietorship.
+
+## SCHEDULE 3 — RECORDS WHICH THE PROPRIETOR MAY BE REQUIRED TO KEEP[^key-e6c866ec38d0dfebfa2af4d9307c3392][^key-11e81f860f803fc7249ba18de4bae49f]
+
+(Regulation 21(2))
+
+[^key-146475ff2ed0b925cd9443e1669d3342]Records of
+
+- (a) goods which are to be warehoused in an excise warehouse;
+- (b) goods which have been warehoused in an excise warehouse;
+- (c) goods which have been removed from an excise warehouse otherwise than for home use on payment of the duty chargeable, and all movements of such goods;
+- (d) his stock of goods in each excise warehouse;
+- (e) operations performed;
+- (f) samples drawn, removed from warehouse and, where that removal is other than on payment of the duty chargeable, their use, location and disposal;
+- (g) the time and manner in which the duty chargeable on goods to which regulation 21(2) relates is paid, secured or accounted for.
+
+## SCHEDULE 4[^key-e401bfc600e17b0af9334b0cddee8df3][^key-068893fba49142d678e957b96eeef012][^M_F_506b043c-f82b-416b-ec1b-f73b328ca400][^key-2f6a852a617f7b7d55cae8908ae1b1b2]
+
+Regulation 17
+
+ 
+
+[image: see source](https://www.legislation.gov.uk/uksi/1988/809/images/uksi_19880809_en_epp_003.gif)
+
+ 
+
+[image: see source](https://www.legislation.gov.uk/uksi/1988/809/images/uksi_19880809_en_epp_004.gif)
+
+ 
+
+[image: see source](https://www.legislation.gov.uk/uksi/1988/809/images/uksi_19880809_en_epp_005.gif)
+
+ 
+
+[image: see source](https://www.legislation.gov.uk/uksi/1988/809/images/uksi_19880809_en_epp_006.gif)
+
+ 
+
+[image: see source](https://www.legislation.gov.uk/uksi/1988/809/images/uksi_19880809_en_epp_007.gif)
+
+ 
+
+[image: see source](https://www.legislation.gov.uk/uksi/1988/809/images/uksi_19880809_en_epp_008.gif)
+
+.  
+
+## SCHEDULE 5 — Particulars which must be contained in a document[^key-34f7e86a1ad9b7faac2b2ec143024faa]
+
+Regulation 10A
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 1st June 1988, replace the Excise Warehousing (Etc.) Regulations 1982 and the Excise Warehousing (Etc.) (Amendment) Regulations 1986.
+
+The Regulations prescribe conditions for the receipt into, removal from and secure storage of goods in excise warehouses and the operations which may be conducted on those goods in such warehouses.
+
+The Regulations provide for the records to be kept and preserved by the occupier of an excise warehouse and the proprietor of goods in an excise warehouse and provide also for the production of such records and the furnishing of information for the protection of the revenue.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 93 was amended by the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), section 11(1) and Schedule 8, paragraph 2, and by the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), section 5 and Schedule 3, paragraphs 1 to 7.
+
+[^f00002]: Footnote: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4); subsection 2(3A) was inserted by the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), section 11(1) and Schedule 8, paragraph 10; section 15 was amended by the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), section 11(1) and Schedule 8, paragraph 14, and by the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), section 5 and Schedule 3, paragraph 8; section 56(1) was amended by the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), section 114 and Schedule 23, Part IV.
+
+[^M_C_b0e41908-cc43-4486-8279-c8976a48c627]: Modification: Regulations modified (1.5.2004) by [The Excise Duty Points (Etc.) (New Member States) Regulations 2004 (S.I. 2004/1003)](https://www.legislation.gov.uk/uksi/2004/1003), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1), [7](https://www.legislation.gov.uk/uksi/2004/1003/regulation/7)
+
+[^key-11e81f860f803fc7249ba18de4bae49f]: Modification: Regulations, as they had effect immediately before IP completion day, continued (N.I.) (31.12.2020) with respect to excise goods by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1), [100(2)(b)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/100/2/b)
+
+[^key-f12a9c368bad24ca3f4b0accf6b0778c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-7ef7e603ebf70c1bca0d5e71b7632626]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/809/regulation/2) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-3272377c8f45d35cd7203a4383781efc]: Textual amendment: Words in reg. 2 omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/1/2) (with [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/1/4))
+
+[^key-d708bce54aafde39ee5ffb3a68008241]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/809/regulation/3) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^f00003]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
+
+[^key-23ca9177866421700be210538cbb348b]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/1988/809/regulation/3/2) omitted (31.7.2023) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/2) (with [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/7))
+
+[^key-5b63421b6b8ab45f27ae4b2bfcce1042]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/809/regulation/4) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-b528d6534e844dcd72ba9ef79592220a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/809/regulation/5) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-78475b68169fde2306e5736e7ec2969c]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/809/regulation/6) omitted (1.6.1995) by virtue of [The Excise Goods (Drawback) Regulations 1995 (S.I. 1995/1046)](https://www.legislation.gov.uk/uksi/1995/1046), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1046/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/15/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/1995/1046/regulation/3))
+
+[^key-ab1ecc0e54b385608db765201eafbcc3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1988/809/regulation/7) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-7d4b7c07fa49e34fb52d27b5be1bc263]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/809/regulation/8) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-02c2e71715f477037eb8bcdf1031ff04]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1988/809/regulation/9) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^f00004]: Footnote: [S.I. 1982/612](https://www.legislation.gov.uk/uksi/1982/612).
+
+[^f00005]: Footnote: [S.I. 1986/79](https://www.legislation.gov.uk/uksi/1986/79).
+
+[^key-b45c7e55a7c732c23d2ff75e887e934a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1988/809/regulation/10) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-ad3dcdb1a709a9be6f58f3c7b3cea752]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/1988/809/regulation/10A) revoked (1.4.2010 with effect in relation to goods imported on or after 1.1.2011) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3)
+
+[^key-56c44b81ac2bbd37edc4a9027b1b76f3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1988/809/regulation/11) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-2a48fa3d2b4e8482398fccbce6bc2bc7]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1988/809/regulation/11/1) substituted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/1/3/a) (with [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/1/4))
+
+[^key-3b696fe8552f894ec4f057a2f15af169]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/1988/809/regulation/11/4) substituted (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/2/1)
+
+[^key-afe945386a07fcb9f3b62ee4ee77b66a]: Textual amendment: [Reg. 11(4A)](https://www.legislation.gov.uk/uksi/1988/809/regulation/11/4A) inserted (1.6.1995) by [The Excise Goods (Drawback) Regulations 1995 (S.I. 1995/1046)](https://www.legislation.gov.uk/uksi/1995/1046), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1046/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/15/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/1995/1046/regulation/3))
+
+[^key-3954a1f675f813f439cdac0e98f57b5c]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/1988/809/regulation/11/6) omitted (1.2.2025) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/1/3/b) (with [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/1/4))
+
+[^key-93086dc6a0f2712ebda56246a8297003]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1988/809/regulation/11/7) substituted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/1/3/c) (with [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/1/4))
+
+[^key-757afb8035f80f06991aedaf66b79743]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1988/809/regulation/12) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-d3a5fdb1915520f638a164a8e87205be]: Modification: [Reg. 12(5)(a)](https://www.legislation.gov.uk/uksi/1988/809/regulation/12/5/a) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-d0439a7124774dcfb7037aab14562516]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1988/809/regulation/13) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-4ac185f82362a84bc33badb44bfd4a0e]: Modification: [Regs. 13](https://www.legislation.gov.uk/uksi/1988/809/regulation/13), [14](https://www.legislation.gov.uk/uksi/1988/809/regulation/14) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-7b24afbf6559822554c087756a34f88f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1988/809/regulation/14) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-989af8160ba102ed5d46c939b42a6e85]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1988/809/regulation/14/1) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/3/a) (with [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/7))
+
+[^key-487574b19d92e756061c3f12cda041ed]: Textual amendment: Words in [reg. 14(8)](https://www.legislation.gov.uk/uksi/1988/809/regulation/14/8) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/3/b) (with [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/7))
+
+[^key-e44caee91aa6f0a0482f2b15e8c68609]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1988/809/regulation/15) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-35ef27587cee9eb80207740988e6337c]: Modification: Reg. 15(a)(b)(e)(f) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-d6c933ef85fdf79acffdcf4b441006db]: Textual amendment: Word in reg. 15 omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Excise Goods (Aircraft and Ship’s Stores) Regulations 2015 (S.I. 2015/368)](https://www.legislation.gov.uk/uksi/2015/368), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2015/368/regulation/14/a)
+
+[^key-334dd24930537429ea1fa05b2c57b82f]: Textual amendment: Words in reg. 15(f) inserted (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/2/2)
+
+[^key-28e9695c83f5c301829e72a172ab84f7]: Textual amendment: Word in reg. 15 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Excise Goods (Aircraft and Ship’s Stores) Regulations 2015 (S.I. 2015/368)](https://www.legislation.gov.uk/uksi/2015/368), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/368/regulation/14/b)
+
+[^key-73d18ebdf635515aa313e6a054e5872d]: Textual amendment: Reg. 15(g) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Excise Goods (Aircraft and Ship’s Stores) Regulations 2015 (S.I. 2015/368)](https://www.legislation.gov.uk/uksi/2015/368), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2015/368/regulation/14/c)
+
+[^key-7000c81b086be271ca566f300c9ea173]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1988/809/regulation/16) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-d78ff3fc46cd470942a904f93a4ca0ee]: Modification: Reg. 16 excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-6323815dc1975c847e96f0dba4453509]: Textual amendment: Words in reg. 16(1) inserted (1.6.1995) by [The Excise Goods (Drawback) Regulations 1995 (S.I. 1995/1046)](https://www.legislation.gov.uk/uksi/1995/1046), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1046/regulation/1), [15(c)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/15/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/1995/1046/regulation/3))
+
+[^key-27daef66be96c6558ae8d82b95821160]: Modification: Reg. 16(4)(5) excluded (20.10.1995) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1), [119](https://www.legislation.gov.uk/uksi/1995/2518/regulation/119)
+
+[^key-58b2199297e49d7543fbcf656a47605c]: Modification: Reg. 16(4)(5) excluded by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AC(a)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AC/a) (with [reg. 133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L)) (as inserted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+
+[^key-3efce88ea43d578fed1c64df372f92c1]: Textual amendment: Reg. 16(6) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Excise Goods (Aircraft and Ship’s Stores) Regulations 2015 (S.I. 2015/368)](https://www.legislation.gov.uk/uksi/2015/368), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/368/regulation/15)
+
+[^key-d222d63ef5fdf37d8f7f5a4e92e1ceb5]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1988/809/regulation/17) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-f887e4b85a325d1ab50358fc46937e1b]: Modification: [Reg. 17](https://www.legislation.gov.uk/uksi/1988/809/regulation/17) excluded in part (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-c2377926fc49f521f53990855e532ca2]: Textual amendment: [Reg. 17(6)-(12)](https://www.legislation.gov.uk/uksi/1988/809/regulation/17/6) inserted (1.4.2002) by [The Excise Goods (Accompanying Documents) Regulations 2002 (S.I. 2002/501)](https://www.legislation.gov.uk/uksi/2002/501), [regs. 1](https://www.legislation.gov.uk/uksi/2002/501/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2002/501/regulation/27/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/501/regulation/3))
+
+[^key-6cc7218f593329ea3edcf39504b9590f]: Textual amendment: Words in [reg. 17(7)(d)](https://www.legislation.gov.uk/uksi/1988/809/regulation/17/7/d) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/4) (with [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/7))
+
+[^key-93860db81d4139c310e44b7278e07485]: Textual amendment: [Reg. 17(7)(e)](https://www.legislation.gov.uk/uksi/1988/809/regulation/17/7/e) omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/15)](https://www.legislation.gov.uk/uksi/2019/15), [regs. 1](https://www.legislation.gov.uk/uksi/2019/15/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/15/regulation/2/2/a) (with [reg. 20](https://www.legislation.gov.uk/uksi/2019/15/regulation/20)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1494/regulation/4)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-29c53b3d74feee2c77408886a3e59bdf]: Textual amendment: [Reg. 17(7)(ea)](https://www.legislation.gov.uk/uksi/1988/809/regulation/17/7/ea) omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/15)](https://www.legislation.gov.uk/uksi/2019/15), [regs. 1](https://www.legislation.gov.uk/uksi/2019/15/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/15/regulation/2/2/a) (with [reg. 20](https://www.legislation.gov.uk/uksi/2019/15/regulation/20)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1494/regulation/4)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-59d0941515a33a81d284b481d83cdba4]: Textual amendment: [Reg. 17(7)(ea)](https://www.legislation.gov.uk/uksi/1988/809/regulation/17/7/ea)[(eb)](https://www.legislation.gov.uk/uksi/1988/809/regulation/17/7/eb) inserted (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/2/3)
+
+[^key-d2141e5d63ff5e4ac1aad4dc4067af87]: Textual amendment: Words in [reg. 17(12)](https://www.legislation.gov.uk/uksi/1988/809/regulation/17/12) substituted (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/15)](https://www.legislation.gov.uk/uksi/2019/15), [regs. 1](https://www.legislation.gov.uk/uksi/2019/15/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/15/regulation/2/2/b) (with [reg. 20](https://www.legislation.gov.uk/uksi/2019/15/regulation/20)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1494/regulation/4)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+
+[^key-28f5d8d81323ea6506566d7f3b7be62c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1988/809/regulation/18) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-b5f26f81c068673800608a742e89af27]: Modification: [Regs. 18](https://www.legislation.gov.uk/uksi/1988/809/regulation/18), [19](https://www.legislation.gov.uk/uksi/1988/809/regulation/19) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-5d012753a8b84416d00ac9313eab0575]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1988/809/regulation/19) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-920b8a685a40e906fc2acd25e3f9e43e]: Modification: [Reg. 19(1)(b)](https://www.legislation.gov.uk/uksi/1988/809/regulation/19/1/b) excluded (20.10.1995) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1), [119](https://www.legislation.gov.uk/uksi/1995/2518/regulation/119)
+
+[^key-63851ed3d568f316231f253ef820ce33]: Modification: Reg. 19(1)(b) excluded by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AC(a)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AC/a) (with [reg. 133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L)) (as inserted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+
+[^key-d5265cc5530d04a1d8f46fcab613ded0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1988/809/regulation/20) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-00a7b04080a459fd3884121cd9067399]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1988/809/regulation/21) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-44086c1a2d90412546cee6953adc450f]: Modification: [Reg. 21(2)](https://www.legislation.gov.uk/uksi/1988/809/regulation/21/2) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-737f4be6f1156c02ee065c8c4af0cd36]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1988/809/regulation/22) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-de6f6e90301997c6d38a020ed785ed77]: Modification: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/1988/809/regulation/22/2) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-9ef450c9f7ce4388e5491a8ca47dc458]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1988/809/regulation/23) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-3ea9fc76309d55921ce4bb8a2bd258a7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1988/809/regulation/24) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-c39cd56afc6391e033cbc9196aceb73d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1988/809/regulation/25) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-6ed122d5c93b9bffbaed4b644e1a4822]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1988/809/regulation/26) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-7d1996cf6934e70c60897b498c8fb2b3]: Modification: [Regs. 26](https://www.legislation.gov.uk/uksi/1988/809/regulation/26), [27](https://www.legislation.gov.uk/uksi/1988/809/regulation/27) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-2c8e98a3e267e970455c571742e18210]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/1988/809/regulation/26) renumbered as reg. 26(1) (1.6.2001) by virtue of [The Tobacco Products Regulations 2001 (S.I. 2001/1712)](https://www.legislation.gov.uk/uksi/2001/1712), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1712/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/27/a)
+
+[^key-6dbde8481df41f27372f2e76c2cabcd2]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/1988/809/regulation/26/2) inserted (1.6.2001) by [The Tobacco Products Regulations 2001 (S.I. 2001/1712)](https://www.legislation.gov.uk/uksi/2001/1712), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1712/regulation/1), [27(b)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/27/b)
+
+[^key-9bb2937e38630565f339339ad729ffa8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1988/809/regulation/27) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^f00008]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 119 was amended by the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), Schedule 6, paragraph 8, and by the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), Schedule 4, Part II.
+
+[^key-150e586fba98d82e9655a3988ac5d352]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1988/809/regulation/28) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^f00009]: Footnote: Section 94 was amended by the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), Schedule 19, Part III.
+
+[^key-b77059d8a4250a186c8699527403623b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1988/809/regulation/29) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-5c69ea2662ee156a9e1cf6c68309e5b3]: Modification: [Reg. 29(1)](https://www.legislation.gov.uk/uksi/1988/809/regulation/29/1) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-f3eb632ae2afb31ced61318187439fd3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1988/809/regulation/30) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-9cf1bb49a614889e69a430c088032dd7]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/1988/809/regulation/31) omitted (31.7.2023) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/5) (with [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/7))
+
+[^key-9176b43f0791e34bbf3292a70f7d77b5]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1988/809/schedule/1) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-892a5b32483fbb27391587ae97606e8c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/1) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-097b668f158939d7804d0c70aef724af]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/2) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-4099d867bba4413044bc557cde9cc5dc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/3) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-4d55158f39fe152073ebf71534258215]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/3) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 3(6)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/6/a) (with [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/7))
+
+[^key-993781d3e7a425169a4feb734088c750]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/4) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-2faf40f88b903cdadf5cd4d96e513e8b]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/4) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 3(6)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/6/b) (with [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/7))
+
+[^key-241b98736be093f9fd188e706492f8f8]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/4) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 3(6)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/6/a) (with [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/3/7))
+
+[^key-f0e5768b399a7e6c7c8922d9203411a6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/5) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-c396efa59bc580e46fde7fd99c35c1b3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/6) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-804ec0d4ba6329332a2350e50636754d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/7) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-0e55ac43f8dfd890691e350414110f07]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/8) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-09d5e012c738351461618a8faee0a5b7]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1988/809/schedule/1/paragraph/9) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-2bbe9baf21fcc917e3458add598bbc88]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1988/809/schedule/2) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-3bd25232759da4aa2806763753887ece]: Modification: Sch. 2 para. (h) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-6bd6070f3194f47d910d0abd2f718961]: Textual amendment: Sch. 2 para. (aa) inserted (1.6.2002) by [The Beer and Excise Warehousing (Amendment) Regulations 2002 (S.I. 2002/1265)](https://www.legislation.gov.uk/uksi/2002/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1265/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/1265/regulation/3/2)
+
+[^key-010518232403d27cad1efbbda741bf44]: Textual amendment: Sch. 2 para. (jj) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Excise Goods (Aircraft and Ship’s Stores) Regulations 2015 (S.I. 2015/368)](https://www.legislation.gov.uk/uksi/2015/368), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2015/368/regulation/16)
+
+[^key-e6c866ec38d0dfebfa2af4d9307c3392]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1988/809/schedule/3) in force at 1.6.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/809/regulation/1)
+
+[^key-146475ff2ed0b925cd9443e1669d3342]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/1988/809/schedule/3) excluded (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [6](https://www.legislation.gov.uk/uksi/2000/645/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+
+[^key-e401bfc600e17b0af9334b0cddee8df3]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1988/809/schedule/4) inserted (1.4.2002) by [The Excise Goods (Accompanying Documents) Regulations 2002 (S.I. 2002/501)](https://www.legislation.gov.uk/uksi/2002/501), [reg. 1](https://www.legislation.gov.uk/uksi/2002/501/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2002/501/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/501/regulation/3))
+
+[^key-068893fba49142d678e957b96eeef012]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1988/809/schedule/4): at the end of the explanatory note to Box 18a words “If alcohol or alcoholic beverages are stamped with duty stamps, a statement to this effect.” inserted (22.2.2006) by [The Duty Stamps Regulations 2006 (S.I. 2006/202)](https://www.legislation.gov.uk/uksi/2006/202), [regs. 1](https://www.legislation.gov.uk/uksi/2006/202/regulation/1), [39](https://www.legislation.gov.uk/uksi/2006/202/regulation/39)
+
+[^M_F_506b043c-f82b-416b-ec1b-f73b328ca400]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1988/809/schedule/4): in the explanatory note to Box 18a, words “If alcohol or alcoholic beverages are stamped with duty stamps, a statement to this effect.” omitted (1.5.2025) by [Finance Act 2025 (2025 c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(2)(g)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/2/g)
+
+[^key-2f6a852a617f7b7d55cae8908ae1b1b2]: Textual amendment: Sch. 4: at the end of the explanatory note to Box 25 (additional information) the words “If appropriate add the following certificate— “It is hereby certified that the beer described has been produced by an independent small brewery with a production in the previous year of … hectolitres.”” inserted (1.6.2002) by [The Beer and Excise Warehousing (Amendment) Regulations 2002 (S.I. 2002/1265)](https://www.legislation.gov.uk/uksi/2002/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1265/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/1265/regulation/3/3)
+
+[^key-34f7e86a1ad9b7faac2b2ec143024faa]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/1988/809/schedule/5) revoked (1.4.2010 with effect in relation to goods imported on or after 1.1.2011) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3)

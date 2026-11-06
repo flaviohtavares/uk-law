@@ -1,0 +1,30 @@
+---
+title: The Prisons and Young Offenders Institutions (Scotland) Rules 1994, section 57
+act: The Prisons and Young Offenders Institutions (Scotland) Rules 1994
+section: '57'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/1931/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Prisons and Young Offenders Institutions (Scotland) Rules 1994, section 57
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 57. Entitlement to accumulated visits
+
+(1) This rule applies to a prisoner who–
+
+- (a) is a life prisoner or is serving a sentence of imprisonment for a term of more than 12 months and has served at least 6 months of that sentence;
+- (b) is moved from a prison to any other prison, whether or not for the purpose of enabling him to use any accumulated unused allowance of visits; and
+- (c) has accumulated an unused allowance of visits in terms of rule 55 at the prison from which he is moved which is not less than the amount of visits which he would have been entitled to receive at that prison in terms of that rule in a period of 6 months.
+
+(2) Subject to paragraph (3), a prisoner to whom this rule applies shall be entitled to carry forward the accumulated period of unused allowance and to use that accumulated allowance at the prison to which he is moved in addition to his allowance in terms of rule 55 at that prison.
+
+(3) The exercise by a prisoner of his entitlement under paragraph (2) shall be subject to any direction by the Secretary of State in relation to the following:–
+
+- (a) the circumstances in which a prisoner who is moved from a prison to any other prison may not be allowed to carry forward, or may be restricted from carrying forward, any accumulated allowance of visits; and
+- (b) the conditions which may be imposed (including conditions as to the period in which an accumulated allowance must be used) by the Governor where a prisoner is entitled to carry forward such an allowance.

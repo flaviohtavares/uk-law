@@ -1,0 +1,39 @@
+---
+title: The Housing Renovation etc. Grants (Reduction of Grant) Regulations 1990, section 25
+act: The Housing Renovation etc. Grants (Reduction of Grant) Regulations 1990
+section: '25'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1189/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing Renovation etc. Grants (Reduction of Grant) Regulations 1990, section 25
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 25. Deduction of tax and contributions for self-employed earners
+
+(1) The amount to be deducted in respect of income tax under regulation 24(1)(b)(i), (3)(b)(i) or (9)(a)(i) (determination of net profit of self-employed earners) shall be determined on the basis of the amount of chargeable income and as if that income were assessable to income tax at the basic rate of tax in the year of assessment in which the application was made less only the personal relief to which the relevant person is entitled under sections 257(1), (6) and (7) and 259(1)(a) and (2) of the Income and Corporation Taxes Act 1988[^f00045] (personal relief) as is appropriate to his circumstances; but, if the assessment period is less than a year, the amount of the personal relief deductable under this paragraph shall be calculated on a pro-rata basis.
+
+(2) The amount to be deducted in respect of social security contributions under regulation 24(1)(b)(i), 3(b)(ii) or (9)(a)(ii) shall be the total of–
+
+- (a) the amount of Class 2 contributions payable under section 7(1) or, as the case may be, (4) of the 1975 Act[^f00046] except where the relevant person’s chargeable income is less than the amount for the time being specified in section 7(5) of that Act[^f00047] (small earnings exception); and
+- (b) the amount of Class 4 contributions (if any) which would be payable under section 9 of that Act[^f00048] (Class 4 contributions recoverable under Tax Acts) in respect of profits or gains equal to the amount of that income.
+
+(3) In this regulation “chargeable income” means–
+
+- (a) except where sub-paragraph (b) applies, the earnings derived from the employment less any expenses deducted under paragraph (3)(a) or, as the case may be, (4) of regulation 24;
+- (b) in the case of employment as a child minder, one third of the earnings of that employment.
+
+## Annotations
+
+[^f00045]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 257 was amended by section 25(1) of the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), and see section 35 and Schedule 3, paragraph 5.
+
+[^f00046]: Footnote: Section 7(1) was amended by section 2(4) of the Education (School-leaving Dates) Act [1976 (c. 5)](https://www.legislation.gov.uk/ukpga/1976/5), section 17(1) of the Health and Social Security Act [1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48), and article 3 of S.I. [1990/321](https://www.legislation.gov.uk/uksi/1990/321).
+
+[^f00047]: Footnote: Section 7(5) was amended by article 3 of S.I. [1989/26](https://www.legislation.gov.uk/uksi/1989/26).
+
+[^f00048]: Footnote: Section 9 was amended by section 4 of, and Schedule 5 to, the Social Security Pensions Act [1975 (c. 60)](https://www.legislation.gov.uk/ukpga/1975/60), by the Social Security (Contributions) Act [1982 (c. 2)](https://www.legislation.gov.uk/ukpga/1982/2), section 1 and by article 5 of S.I. [1990/321](https://www.legislation.gov.uk/uksi/1990/321).

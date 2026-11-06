@@ -1,0 +1,42 @@
+---
+title: Superannuation Act 1972, section 14
+act: Superannuation Act 1972
+section: '14'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1972/11/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Superannuation Act 1972, section 14
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 14. Metropolitan civil staffs.
+
+*Extent: E+W+S*
+
+(1)[^c8519791] Section 15 of the [^c8519801]Superannuation (Miscellaneous Provisions) Act 1967 (which applies the legislation governing the superannuation of civil servants to certain persons employed under the Commissioner of Police for the Metropolis, justices’ clerks for the inner London area and other persons employed by the committee of magistrates for that area) shall be amended as follows.
+
+(2)[^c8519791] In subsection (1)(b) (definition of “civil service provisions”) for the words from “the Superannuation Act” to “any other” there shall be substituted the words “ the principal civil service pension scheme within the meaning of section 2 of the Superannuation Act 1972 and any ”.
+
+(3)[^c8519791] In subsection (3) (which empowers the Secretary of State by regulations to provide that any of the civil service provisions shall have effect for the purposes of pensions or other benefits under the section and certain other purposes subject to exceptions, modifications and adaptations specified in the regulations)—
+
+- (a) after the word “may”, where first occuring, there shall be inserted the words “ with the consent of the Minister for the Civil Service ” ; and
+- (b) in paragraph (a), after the word “exceptions” there shall be inserted the word “ additions ”.
+
+(4)[^c8519791] Subsection (5) (which authorises the Secretary of State in certain circumstances to confer on himself power to make rules or regulations in relation to members of the metropolitan civil staffs where the Minister has power to make similar rules or regulations in relation to civil servants) shall be omitted.
+
+(5)[^c8519791] For subsection (6) (which provides that regulations under the section shall be subject to annulment in pursuance of a resolution of either House of Parliament) there shall be substituted the following subsection:—
+
+> (6) Before making regulations under subsection (3) of this section the Secretary of State shall consult with persons appearing to him to represent the metropolitan civil staffs, and before any such regulations come into operation the Secretary of State shall lay a copy thereof before Parliament.
+
+## Annotations
+
+[^c8519791]: Editorial: The text of ss. 10(5), 14, 16(2), 17(1), 27(2), 28, 29, Sch. 6 paras. 1-3, 5, 9, 10, 12, 16-21, 24-27, 29-33, 39-41, 43, 46, 48, 51, 56-58, 60-67, 70, 72-74, 77, 78, 80-93, Sch. 8 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c8519801]: Marginal citation: [1967 c. 28](https://www.legislation.gov.uk/ukpga/1967/28).

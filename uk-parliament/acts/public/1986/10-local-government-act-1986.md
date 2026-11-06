@@ -1,0 +1,591 @@
+---
+title: Local Government Act 1986
+id: ukpga/1986/10
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1986-03-26'
+text_date: '2026-10-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1986/10
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1986/10/pdfs/ukpga_19860010_en.pdf
+- http://www.legislation.gov.uk/ukpga/1986/10/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Act 1986
+
+> Text as at 2026-10-05.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+*Extent: E+W*
+
+Local Government Act 1986
+
+1986 c. 10
+
+An Act to require rating authorities to set a rate on or before 1st April; to prohibit political publicity and otherwise restrain local authority publicity; to require the mortgagor’s consent and make other provision in connection with the disposal of local authority mortgages; to amend the law as to the effect of retirement and re-election of, and the allowances payable to, members of certain authorities; and for connected purposes.
+
+\[26th March 1986\]
+
+[^c2579761]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Rating
+
+*Extent: E+W*
+
+### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c2579781]
+
+## Part II — Local Authority Publicity[^key-53c457b5eaf1ea12f1ce43f94e07dd51][^key-d3654c0d3d5f202c36b7ab2b9656e143][^key-1038754cc138b4071c9c6b71454b0f6e][^c13731761]
+
+### 2. Prohibition of political publicity.
+
+(1) A local authority shall not publish, or arrange for the publication of,[^key-1c73a2715b92ae602f314e89d2aed0a3] any material which, in whole or in part, appears to be designed to affect public support for a political party.
+
+(2)[^c2579961] In determining whether material falls within the prohibition regard shall be had to the content and style of the material, the time and other circumstances of publication and the likely effect on those to whom it is directed and, in particular, to the following matters—
+
+- (a) whether the material refers to a political party or to persons identified with a political party or promotes or opposes a point of view on a question of political controversy which is identifiable as the view of one political party and not of another;
+- (b) where the material is part of a campaign, the effect which the campaign appears to be designed to achieve.
+
+(3) A local authority shall not give financial or other assistance to a person for the publication of material which the authority are prohibited by this section from publishing themselves.
+
+### 2A. Prohibition on promoting homosexuality by teaching or by publishing material.[^c13731841]
+
+[^c13731831] [^key-237cc2e4715bdfafe2fdb8aa7acc8a98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Other restrictions of existing powers.
+
+(1) In section 142 of the [^c2580151]Local Government Act 1972 and section 88 of the [^c2580161]Local Government (Scotland) Act 1973 (general powers to provide information)—-
+
+- (a) in subsection (1) (power to make information available) after “other authorities” insert “mentioned in subsection (1B) below” and for “as to local government matters affecting the area” substitute “relating to the functions of the authority”;
+- (b) after that subsection insert—
+
+  > (1A) A local authority may arrange for the publication within their area of information as to the services available in the area provided by them or by other authorities mentioned in subsection (1B) below.
+
+  ;
+- (c) in subsection (2)(a) (power to publish certain information) for “on matters relating to local government” substitute “relating to the functions of the authority”.
+
+(2) After the subsection (1A) inserted by subsection (1) above, in section 142 of the 1972 Act insert—
+
+> (1B) The other authorities referred to above are any other local authority, the Inner London Education Authority, a joint authority established by Part IV of the Local Government Act 1985 and any authority, board or committee which discharges functions which would otherwise fall to be discharged by two or more local or other such authorities.
+
+;
+
+and in section 88 of the 1973 Act insert—
+
+> (1B) The other authorities referred to above are any other local authority and any authority, board or committee which discharges functions which would otherwise fall to be discharged by two or more local authorities.
+
+.
+
+(3) In section 137 of the [^c2580171]Local Government Act 1972 (power to incur expenditure for purposes not otherwise authorised), after subsection (2B) insert—
+
+> (2C) A local authority may incur expenditure under subsection (1) above on publicity only—
+>
+> - (a) for the purpose of promoting the economic development of the authority’s area where the publicity is incidental to other activities undertaken or to be undertaken by the authority for that purpose, or
+> - (b) by way of assistance to a public body or voluntary organisation where the publicity is incidental to the main purpose for which the assistance is given;
+>
+> but the following provisions of this section apply to expenditure incurred by a local authority under section 142 below on information as to the services provided by them under this section, or otherwise relating to their functions under this section, as they apply to expenditure incurred under this section.
+>
+> (2D) In subsection (2C) above—
+>
+> - “**publicity**” means any communication, in whatever form, addressed to the public at large or to a section of the public; and
+> - “**voluntary organisation**” means a body which is not a public body but whose activities are carried on otherwise than for profit.
+
+;
+
+and in section 83 of the [^c2580181]Local Government (Scotland) Act 1973 (which makes corresponding provision for Scotland), after subsection (2B) insert—
+
+> (2C) A local authority may incur expenditure under subsection (1) above on publicity only by way of assistance to a public body or voluntary organisation where the publicity is incidental to the main purpose for which the assistance is given; but the following provisions of this section apply to expenditure incurred by a local authority under section 88 below on information as to the services provided by them under this section, or otherwise relating to their functions under this section, as they apply to expenditure incurred under this section.
+>
+> (2D) In subsection (2C) above—
+>
+> - “**publicity**” means any communication, in whatever form, addressed to the public at large or to a section of the public; and
+> - “**voluntary organisation**” means a body which is not a public body but whose activities are carried on otherwise than for profit.
+
+.
+
+### 4. Codes of recommended practice as regards publicity.
+
+(1) The Secretary of State may issue one or more codes of recommended practice as regards the content, style, distribution and cost of local authority publicity, and such other related matters as he thinks appropriate, ; and local authorities shall have regard to the provisions of any such code in coming to any decision on publicity.[^c2580201]
+
+(2) Codes may deal with different kinds of publicity or different kinds of local authority or the same kind of local authority in different circumstances or different areas.
+
+(3) The Secretary of State may revise or withdraw a code issued under this section.
+
+(4) The Secretary of State shall before issuing, revising or withdrawing a code consult such associations of local authorities as appear to him to be concerned and any local authority with whom consultation appears to him to be desirable.
+
+(5) A code shall not be issued unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+(6) Where the Secretary of State proposes to revise a code he shall lay a draft of the proposed alterations before each House of Parliament and—
+
+- (a) he shall not make the revision until after the expiration of the period of 40 days beginning with the day on which the draft is laid (or, if copies are laid before each House of Parliament on different days, with the later of those days), and
+- (b) if within that period either House resolves that the alterations be withdrawn, he shall not proceed with the proposed alterations (but without prejudice to the laying of a further draft).
+
+In computing the period of 40 days no account shall be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+(7)[^c2580211] Subsections (5) and (6) do not apply to a code which applies only to Scottish local authorities and such a code shall not be issued unless a draft of it has been laid before and approved by a resolution of the Scottish Parliament.
+
+(8) Where the Scottish Ministers propose to revise such a code as is mentioned in subsection (7), they shall lay a draft of the proposed alterations before the Scottish Parliament and–
+
+- (a) they shall not make the revision until after the expiration of the period of 40 days beginning with the day on which the draft is laid, and
+- (b) if within that period the Parliament resolves that the alterations be withdrawn, they shall not proceed with the proposed alterations (but without prejudice to the laying of a further draft).
+
+In computing the period of 40 days no account shall be taken of any time during which the Parliament is dissolved or is in recess for more than 4 days.
+
+### 4A (Extent: E+W). Power to direct compliance with code (Extent: E+W)[^key-0aa4b492fd5a3d94e6e7106f146b8399]
+
+(1 (Extent: E+W)) The Secretary of State may direct one or more specified local authorities in England to comply with a code issued under section 4 that applies to that authority or those authorities. *(Extent: E+W)*
+
+(2 (Extent: E+W)) A direction may require compliance with— *(Extent: E+W)*
+
+- (a (Extent: E+W)) one or more specified provisions of a code, or *(Extent: E+W)*
+- (b (Extent: E+W)) all of the provisions of a specified code. *(Extent: E+W)*
+
+(3 (Extent: E+W)) A direction may— *(Extent: E+W)*
+
+- (a (Extent: E+W)) specify the steps that an authority to which it is given must take to comply with it; *(Extent: E+W)*
+- (b (Extent: E+W)) specify the time within which such an authority must comply with it. *(Extent: E+W)*
+
+(4 (Extent: E+W)) The Secretary of State may give a direction to an authority whether or not the Secretary of State thinks that the authority is complying with the code to which it relates. *(Extent: E+W)*
+
+(5 (Extent: E+W)) Before giving a direction to an authority, the Secretary of State must give the authority notice in writing of the proposed direction. *(Extent: E+W)*
+
+(6 (Extent: E+W)) The Secretary of State may not give a direction to an authority before the end of the period of 14 days beginning with the day on which notice under subsection (5) was given to it. *(Extent: E+W)*
+
+(7 (Extent: E+W)) The authority may make written representations to the Secretary of State about the proposed direction within that period. *(Extent: E+W)*
+
+(8 (Extent: E+W)) The Secretary of State may modify or withdraw a direction under this section by notice in writing to the authority or authorities to which it was given. *(Extent: E+W)*
+
+(9 (Extent: E+W)) Subsections (5) to (7) apply to the modification or withdrawal of a direction as they apply to the giving of a direction, but as if— *(Extent: E+W)*
+
+- (a (Extent: E+W)) the reference to the proposed direction were to the proposed modification or proposal to withdraw the direction, and *(Extent: E+W)*
+- (b (Extent: E+W)) subsection (6) permitted the Secretary of State to withdraw the direction before the end of the 14 day period with the agreement of the authorities to which it applies. *(Extent: E+W)*
+
+(10 (Extent: E+W)) In this section “ *(Extent: E+W)* **specified *(Extent: E+W)*** ” means specified in a direction under this section. *(Extent: E+W)*
+
+### 4B (Extent: E+W). Power to make order requiring compliance with code (Extent: E+W)
+
+(1 (Extent: E+W)) The Secretary of State may by order made by statutory instrument impose a duty on all local authorities in England, or all local authorities in England of a specified description, to comply with a code issued under section 4 that applies to those authorities. *(Extent: E+W)*
+
+(2 (Extent: E+W)) An order under this section may impose a duty to comply with— *(Extent: E+W)*
+
+- (a (Extent: E+W)) one or more specified provisions of a code, or *(Extent: E+W)*
+- (b (Extent: E+W)) all of the provisions of a specified code. *(Extent: E+W)*
+
+(3 (Extent: E+W)) An order under this section may— *(Extent: E+W)*
+
+- (a (Extent: E+W)) specify the steps that an authority to which the duty applies must take to comply with it; *(Extent: E+W)*
+- (b (Extent: E+W)) specify the time within which such an authority must comply with the duty. *(Extent: E+W)*
+
+(4 (Extent: E+W)) The Secretary of State may make an order under this section which applies to an authority whether or not the Secretary of State thinks that the authority is complying with the code to which the order relates. *(Extent: E+W)*
+
+(5 (Extent: E+W)) An order under this section— *(Extent: E+W)*
+
+- (a (Extent: E+W)) may make different provision for different cases or classes of case, including different provision for different descriptions of local authority; *(Extent: E+W)*
+- (b (Extent: E+W)) may make incidental, supplementary, consequential, transitional or transitory provision or savings. *(Extent: E+W)*
+
+(6 (Extent: E+W)) A statutory instrument containing an order under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament. *(Extent: E+W)*
+
+(7 (Extent: E+W)) In this section “ *(Extent: E+W)* **specified *(Extent: E+W)*** ” means specified in an order under this section. *(Extent: E+W)*
+
+### 5. Separate account of expenditure on publicity.[^c13571411]
+
+*Extent: E+W*
+
+(1)[^c2580301] A local authority shall keep a separate account of their expenditure on publicity.
+
+(2) Any person interested may at any reasonable time and without payment inspect the account and make copies of it or any part of it.
+
+(3) A person having custody of the account who intentionally obstructs a person in the exercise of the rights conferred by subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) The regulation making power conferred by section 32(1)(e) of the Local Audit and Accountability Act 2014[^key-38863281439bde870c196a474149fcc5], section 39(1)(e) of the Public Audit (Wales) Act 2004[^key-fa410143fb4bc23b676539ccb1c7ae73] or section 105(1) (d) of the [^c2580321]Local Government (Scotland) Act 1973 (power to make provision as to exercise of right of inspection and as to informing persons of those rights) applies to the right of inspection conferred by subsection (2).
+
+(5) The Secretary of State may by order provide that subsection (1) does not apply to publicity or expenditure of a prescribed description.
+
+(6) Before making an order the Secretary of State shall consult such associations of local authorities as appear to him to be concerned and any local authority with whom consultation appears to him to be desirable.
+
+(7) An order shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 5. Separate account of expenditure on publicity.[^c2580261]
+
+*Extent: S*
+
+(1)[^c2580271] A local authority shall keep a separate account of their expenditure on publicity.
+
+(2) Any person interested may at any reasonable time and without payment inspect the account and make copies of it or any part of it.
+
+(3) A person having custody of the account who intentionally obstructs a person in the exercise of the rights conferred by subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) The regulation making power conferred by section 23(1) (e) of the [^c2580281]Local Government Finance Act 1982 or section 105(1) (d) of the [^c2580291]Local Government (Scotland) Act 1973 (power to make provision as to exercise of right of inspection and as to informing persons of those rights) applies to the right of inspection conferred by subsection (2).
+
+(5) The Secretary of State may by order provide that subsection (1) does not apply to publicity or expenditure of a prescribed description.
+
+(6) Before making an order the Secretary of State shall consult such associations of local authorities as appear to him to be concerned and any local authority with whom consultation appears to him to be desirable.
+
+(7) An order shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 6. Interpretation and application of Part II.
+
+(1) References in this Part to local authorities and to publicity, and related expressions, shall be construed in accordance with the following provisions.
+
+(2)[^c2581151][^c2581161][^key-f2fda9221871919c767bd55659046b33] “**Local authority**” means—
+
+- (a) in England and Wales—
+  - a county, district or London borough council,
+  - the Common Council of the City of London
+  - the Broads Authority (except in section 3),[^c2581171]
+  - a police and crime commissioner,[^key-f0c5e1988bd76faeb5e4cd4fda2ab791]
+  - the Mayor's Office for Policing and Crime
+  - [^c3465911]. . .
+  - [^c2581221]...
+  - a joint authority established by Part IV of the [^c2581231]Local Government Act 1985,
+  - an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009,[^key-9806bbab44efd2e41e7ef2259823bd7e]
+  - a combined authority established under section 103 of that Act,
+  - a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,[^key-4df72303d7b4fe4e37149f03b590bd05]
+  - a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^key-f74fd65d93b7c4c9fff6e480dedbf9f2]
+  - the London Fire Commissioner,[^key-ebd8ae0f973c5c9eeb73c748fc7c4cf4]
+  - the Council of the Isles of Scilly, or
+  - a parish or community council;
+- (b) in Scotland, a council constituted under section 2 of the Local Government[^c2581251] etc. (Scotland) Act 1994;
+
+and includes any authority, board or committee which discharges functions which would otherwise fall to be discharged by two or more such authorities.
+
+(3) This Part applies to the Common Council of the City of London as local authority, police authority or port health authority.
+
+(4) “Publicity”, “publish” and “publication” refer to any communication, in whatever form, addressed to the public at large or to a section of the public.
+
+(5) This Part applies to any such publicity expressly or impliedly authorised by any statutory provision, including—
+
+- section 111 of the [^c2581261]Local Government Act 1972 or section 69 of the [^c2581271]Local Government (Scotland) Act 1973 (general subsidiary powers of local authorities),
+- section 141 of the Local Government Act 1972 or section 87 of the Local Government (Scotland) Act 1973 (research and collection of information), and
+- section 145(1)(a) of the Local Government Act 1972 or section 16(1)(a) of the [^c2581281]Local Government and Planning (Scotland) Act 1982 (provision of entertainments, etc.).
+
+(6) Nothing in this Part shall be construed as applying to anything done by a local authority in the discharge of their duties under Part VA of the Local Government Act 1972 or Part IIIA of the Local Government (Scotland) Act 1973 (duty to afford public access to meetings and certain documents).
+
+(7)[^c2581291] Nothing in this Part shall be construed as applying to anything done by a person in the discharge of any duties under regulations made under section 22 of the Local Government Act 2000 (access to information etc.)[^c2581301].
+
+## Part III — Transfer of Local Authority Mortgages[^c13731851]
+
+*Extent: E+W*
+
+### 7. Transfer requires mortgagor’s consent.[^c2581311][^key-c0374d598933cb2f32249dd18eead705][^key-c73daaf56903d616e7744b774f418759]
+
+(1) A local authority shall not dispose of their interest as mortgagee of land without the prior written consent of the mortgagor (or, if there is more than one mortgagor, of all of them) specifying the name of the person to whom the interest is to be transferred.
+
+(2) Consent given for the purposes of this section—
+
+- (a) may be withdrawn by notice in writing to the authority at any time before the disposal is made, and
+- (b) ceases to have effect if the disposal is not made within six months after it is given;
+
+and if consent is withdrawn or ceases to have effect the authority shall return to the mortgagor any document in their possession by which he gave his consent.
+
+(3) A disposal made without the consent required by this section is void, subject to subsection (4).
+
+(4) If consent has been given and the local authority certify in the instrument effecting the disposal that it has not been withdrawn or ceased to have effect, the disposal is valid notwithstanding that consent has in fact been withdrawn or ceased to have effect.
+
+(5) In such a case any person interested in the equity of redemption may, within six months of the disposal, by notice in writing served on the local authority, require the authority, the transferee and any person claiming under the transferee to undo the disposal, on such terms as may be agreed between them or determined by the court, and execute any documents and take any other steps necessary to vest back in the local authority the interest disposed of by them to the transferee.
+
+(6) The Secretary of State may by regulations—
+
+- (a) require a local authority to give to a mortgagor whose consent is sought such information as may be prescribed,
+- (b) prescribe the form of the document by which a mortgagor’s consent is given,
+- (c) require a local authority making a disposal to secure that notice of the fact that the disposal has been made is given to the mortgagor, and
+- (d) prescribe the form of that notice and the period within which it must be given.
+
+(7) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(8) This section applies—
+
+- (a) to disposals on or after 24th July 1985 of a local authority’s interest as mortgagee under a Housing Act mortgage, and
+- (b) to disposals on or after 1st April 1986 of a local authority’s interest as mortgagee under any description of mortgage,
+
+except, in either case, where the disposal is carried out in pursuance of a contract entered into before that date.
+
+(9) For this purpose a “**Housing Act mortgage**” means a mortgage entered into (whether by the local authority in question or a predecessor in title) under—
+
+- the Small Dwellings Acquisition Acts 1899 to 1923,
+- section 104 or 119 of the [^c2581321]Housing Act 1957,
+- section 43 of the [^c2581331]Housing (Financial Provisions) Act 1958,
+- section 100 of the [^c2581341]Housing Act 1974, or
+- section 1(1)(c) of the [^c2581351]Housing Act 1980.
+
+### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c2581361]
+
+### 9. Interpretation and application of Part III.[^c2581791]
+
+(1) In this Part—
+
+- (a)[^c2581801][^c2581811][^key-c149e41f9dafcfc12ed97d5886f9e2aa] “**local authority**” means—
+  - a county, district or London borough council,
+  - the Common Council of the City of London,
+  - a police and crime commissioner,[^key-bb1e4babed01ebdd6c5415f8d872b8b1]
+  - the Mayor's Office for Policing and Crime
+  - [^c3465931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - [^c2581861]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - a joint authority established by Part IV of the [^c2581871]Local Government Act 1985,
+  - a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009,[^key-8a565177a7d0a599412ab204f8c186ba]
+  - a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,[^key-bfdd9fac752c154b5eacf11ec0ab70fe]
+  - a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,[^key-813670ee1145d829aa662e7b006b71b6]
+  - the London Fire Commissioner,[^key-5c9c4d933d08624afa810b053a02b293]
+  - the Council of the Isles of Scilly, or
+  - any other authority prescribed for the purposes of this Part by regulations made by the Secretary of State,
+
+  and includes any authority, board or committee which discharges functions which would otherwise fall to be discharged by two or more such authorities,
+- (b) references to a local authority’s interest as mortgagee of land include any interest of the authority in the land or in the debt secured, and
+- (c) references to the disposal of such an interest are to any transfer of the interest otherwise than by operation of law;
+
+and for the purposes of this Part the disposal of an interest in registered land shall be taken to occur when the transfer is made and not when it is registered.
+
+(2) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) At the end of Schedule 13 to the [^c2581891]Local Government Act 1985 (provisions with respect to residuary bodies) add—
+
+> **25.**
+>
+> A residuary body shall be treated as a local authority for the purposes of Part III of the Local Government Act 1986 (transfer of local authority mortgages).
+
+.
+
+## Part IV — Miscellaneous and General
+
+### Miscellaneous
+
+*Extent: E+W*
+
+#### 10. Retirement and re-election not to affect membership of joint authority.
+
+(1) In section 32 of the Local Government Act 1985, after subsection (1) (appointment to joint authority to terminate if person appointed ceases to be a member of constituent council) insert—
+
+> (1A) For the purposes of this section a person shall not be treated as ceasing to be a member of a constituent council where he retires by virtue of—
+>
+> - (a) section 7(3) of the Local Government Act 1972 (retirement of metropolitan district councillors), or
+> - (b) paragraph 6(3) of Schedule 2 to that Act (retirement of London borough councillors),
+>
+> and is re-elected to membership of the council not later than the day of his retirement.
+
+.
+
+(2) In section 31 of that Act (replacement of members of joint authority), at the end add—
+
+> (3) Where a constituent council exercises its powers under this section to replace a person who has continued to be a member of a joint authority by virtue of section 32(1A) below and notice is given not later than seven days after the council’s annual meeting next following his retirement and re-election, his appointment shall terminate and the new appointment shall take effect upon the notice being given.
+
+;
+
+and in subsection (2)(b) after “subject to” insert “subsection (3) below and to”.
+
+(3) In Schedule 12 to the [^c2581911]Local Government Act 1972 for paragraph 6A (annual meeting of the new authorities) substitute—
+
+> **6A.**
+>
+> (1) Paragraph 1 above applies to a joint authority as it applies to a principal council, except that the annual meeting of the authority shall be held on such day between 1st March and 30th June (both inclusive) as the authority may fix.
+>
+> (2) Paragraph 1 above applies to the Inner London Education Authority as it applies to the council of a London borough.
+
+.
+
+#### 11. Allowances payable to members of new authorities.[^c13731861]
+
+(1) Section 177 of the Local Government Act 1972 (supplementary provisions as to allowances payable to members of local authorities and other bodies) is amended as follows.
+
+(2) In subsection (2) (meaning of “approved duty”: things done as member of certain prescribed bodies), for “paragraphs (b) to (f) of subsection (1) above” (which does not reflect the amendment made to subsection (1) by paragraph 19 of Schedule 14 to the [^c2581921]Local Government Act 1985) substitute “paragraphs (ab) to (f) of subsection (1) above”.
+
+(3) After that subsection insert—
+
+> (2A) References in sections 173 and 173A above to a local authority and a councillor include references—
+>
+> - (a) to the Inner London Education Authority and a member of the Authority, and
+> - (b) to a joint authority and a member of the authority appointed by one of the authority’s constituent councils;
+>
+> and in relation to such a member of a joint authority the references in section 173A(3) to his election shall be construed as references to his appointment.
+
+.
+
+(4) In subsection (3) (co-opted members of committees to be treated as members of authority) after “For the purposes of sections 173 to 176 above”, insert “(but not for the purposes of subsection (2A) above)”.
+
+(5) The reference in section 177(2A) of the [^c2581931]Local Government Act 1972 (as inserted by subsection (3) above) to members of the Inner London Education Authority shall be construed, in relation to the period before elected members of the Authority first take office, as a reference to persons who are members of the Authority by virtue of section 18(5) of the [^c2581941]Local Government Act 1985 and who are, or immediately before its abolition were, councillors of the Greater London Council.
+
+(6) Section 84(2) and (3) of the Local Government Act 1985 (application of local authority provisions to new authorities) apply in relation to this section and the amendments made by this section as if they had been contained in Schedule 14 to that Act as originally enacted.
+
+(7) A person who was a member of the Inner London Education Authority or a joint authority at any time before the commencement of this section may within one month of commencement give such notices under section 173A of the Local Government Act 1972 (right to opt for financial loss allowance) as he could have given if the amendments made by this section had come into force on the date on which they are, by virtue of subsection (6), deemed to have come into force and, in the case of a member of the Inner London Education Authority, as if he had been elected to membership of that authority on the date on which he became a member.
+
+### General
+
+#### 12. Short title, commencement and extent.
+
+(1) This Act may be cited as the Local Government Act 1986.
+
+(2)[^c2581961] The provisions of this Act come into force as follows—
+
+- [^c2581971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- Part II, except section 5, comes into force on 1st April 1986;
+- section 5 comes into force on such day as the Secretary of State may appoint by order made by statutory instrument;
+- Part III, except section 8, comes into force on the day this Act is passed;
+- section 8 comes into force on 1st April 1986;
+- Part IV comes into force on the day this Act is passed.
+
+(3) Part II, other than sections 4A and 4B,[^key-bb70da6844ef76702674e8150abf8607] and this section extend to England and Wales and Scotland; the other provisions of this Act extend to England and Wales only.
+
+## Annotations
+
+[^c2579761]: Modification: Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c2579781]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1986/10/section/1) repealed by [Local Government Finance Act 1988 (c. 41, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/41), [s. 149](https://www.legislation.gov.uk/ukpga/1988/41/section/149), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1988/41/schedule/13/part/I)
+
+[^key-53c457b5eaf1ea12f1ce43f94e07dd51]: Modification: Pt. II modified (E.W.) (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1778/article/1), [33](https://www.legislation.gov.uk/uksi/2004/1778/article/33)
+
+[^key-d3654c0d3d5f202c36b7ab2b9656e143]: Modification: Pt. II modified (E.W.) (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [33](https://www.legislation.gov.uk/uksi/2004/1777/article/33)
+
+[^key-1038754cc138b4071c9c6b71454b0f6e]: Modification: Pt. II applied (with modifications) (E.W.) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2), 3
+
+[^c13731761]: Modification: Pt. II (ss. 2-6) extended (E.W.) (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 65(7)](https://www.legislation.gov.uk/ukpga/1995/25/section/65/7), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/9) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
+
+    Pt. II (ss. 2-6) applied (temp. until 1.4.1996) by [S.I. 1995/789](https://www.legislation.gov.uk/uksi/1995/789), [art. 2](https://www.legislation.gov.uk/uksi/1995/789/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/1995/789/schedule/paragraph/8)
+
+    Pt. II (ss. 2-6) power to apply conferred (1.9.1997) by [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/44/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/50/schedule/4) para. (g)(i); [S.I. 1997/1930](https://www.legislation.gov.uk/uksi/1997/1930), [art. 3(m)](https://www.legislation.gov.uk/uksi/1997/1930/article/3/m)
+
+[^key-1c73a2715b92ae602f314e89d2aed0a3]: Textual amendment: Words in s. 2(1) inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 349(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/349/3), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^c2579961]: Textual amendment: S. 2(2) substituted by [Local Government Act 1988 (c. 9, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 27(1)](https://www.legislation.gov.uk/ukpga/1988/9/section/27/1)
+
+[^c13731841]: Textual amendment: S. 2A inserted by [Local Government Act 1988 (c. 9, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 28(1)](https://www.legislation.gov.uk/ukpga/1988/9/section/28/1)
+
+[^c13731831]: Textual amendment: S. 2A repealed (S.) (29.3.2001) by [2000 asp 7](https://www.legislation.gov.uk/asp/2000/7), [s. 34](https://www.legislation.gov.uk/asp/2000/7/section/34) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2001/113](https://www.legislation.gov.uk/ssi/2001/113), [art. 2(a)](https://www.legislation.gov.uk/ssi/2001/113/article/2/a)
+
+[^key-237cc2e4715bdfafe2fdb8aa7acc8a98]: Textual amendment: S. 2A repealed (E.W.) (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 122](https://www.legislation.gov.uk/ukpga/2003/26/section/122), [128(2)(d)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/d)(f)(i), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)
+
+[^c2580151]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c2580161]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c2580171]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c2580181]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c2580201]: Textual amendment: Words substituted by [Local Government Act 1988 (c. 9, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 27(2)](https://www.legislation.gov.uk/ukpga/1988/9/section/27/2)
+
+[^c2580211]: Textual amendment: S. 4(7)(8) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 84](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/84); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2)
+
+[^key-0aa4b492fd5a3d94e6e7106f146b8399]: Textual amendment: Ss. 4A, 4B inserted (E.W.) (30.3.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 39(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/39/1), [49(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/2)
+
+[^c13571411]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only.
+
+[^c2580301]: Modification: S. 5(1) excluded (E.W.) by [S.I. 1987/2004](https://www.legislation.gov.uk/uksi/1987/2004), [arts. 3–7](https://www.legislation.gov.uk/uksi/1987/2004/article/3)
+
+    S. 5(1) applied (with modifications) (4.6.1996) by [S.I. 1996/1243](https://www.legislation.gov.uk/uksi/1996/1243), [art. 18](https://www.legislation.gov.uk/uksi/1996/1243/article/18), [Sch. 5 Pt. I para. 3](https://www.legislation.gov.uk/uksi/1996/1243/schedule/5/part/I/paragraph/3)
+
+[^key-38863281439bde870c196a474149fcc5]: Textual amendment: Words in s. 5(4) substituted (E.W.) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/15); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+
+[^key-fa410143fb4bc23b676539ccb1c7ae73]: Textual amendment: Words in s. 5(4) inserted (E.W) (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/6); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)
+
+[^c2580321]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c2580261]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only.
+
+[^c2580271]: Modification: S. 5(1) excluded (S.) by [S.I. 1988/332](https://www.legislation.gov.uk/uksi/1988/332), [arts. 3–7](https://www.legislation.gov.uk/uksi/1988/332/article/3)
+
+[^c2580281]: Marginal citation: [1982 c. 32](https://www.legislation.gov.uk/ukpga/1982/32).
+
+[^c2580291]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c2581151]: Modification: S. 6(2) extended (E.W.) by [S.I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110), [art. 2(2)](https://www.legislation.gov.uk/uksi/1987/2110/article/2/2), [Sch. 1 para. 8(q)](https://www.legislation.gov.uk/uksi/1987/2110/schedule/1/paragraph/8/q)
+
+[^c2581161]: Modification: S. 6(2) amended (E.W.) by [S.I. 1989/1815](https://www.legislation.gov.uk/uksi/1989/1815), [art. 2](https://www.legislation.gov.uk/uksi/1989/1815/article/2), [Sch. 1 para. 6(e)](https://www.legislation.gov.uk/uksi/1989/1815/schedule/1/paragraph/6/e)
+
+[^key-f2fda9221871919c767bd55659046b33]: Modification: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1986/10/section/6/2) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(l)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/l) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+
+[^c2581171]: Textual amendment: Words inserted by [Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/4), [ss. 21](https://www.legislation.gov.uk/ukpga/1988/4/section/21), [23(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/23/2), [27(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/27/2), [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/1988/4/schedule/6/paragraph/27)
+
+[^key-f0c5e1988bd76faeb5e4cd4fda2ab791]: Textual amendment: Words in s. 6(2)(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 173](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/173); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/50))
+
+[^c3465911]: Textual amendment: Words in s. 6(2)(a) repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2001/16/section/128/1), [137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 6 Pt. 2 para. 41](https://www.legislation.gov.uk/ukpga/2001/16/schedule/6/part/2/paragraph/41), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/m)
+
+[^c2581221]: Textual amendment: Words repealed by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(2)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/2), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1988/40/schedule/13/part/I)
+
+[^c2581231]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
+
+[^key-9806bbab44efd2e41e7ef2259823bd7e]: Textual amendment: Words in s. 6(2)(a) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 71(2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/71/2); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+
+[^key-4df72303d7b4fe4e37149f03b590bd05]: Textual amendment: Words in s. 6(2)(a) inserted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 88](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/88) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-f74fd65d93b7c4c9fff6e480dedbf9f2]: Textual amendment: Words in s. 6(2)(a) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/52); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+
+[^key-ebd8ae0f973c5c9eeb73c748fc7c4cf4]: Textual amendment: Words in s. 6(2)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 77](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/77); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+
+[^c2581251]: Textual amendment: Words in s. 6(2)(b) substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 145](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/145); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
+
+[^c2581261]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c2581271]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c2581281]: Marginal citation: [1982 c. 43](https://www.legislation.gov.uk/ukpga/1982/43).
+
+[^c2581291]: Textual amendment: S. 6(7) inserted (E.) (11.7.2001) by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), [arts. 2(g)](https://www.legislation.gov.uk/uksi/2001/2237/article/2/g), [15](https://www.legislation.gov.uk/uksi/2001/2237/article/15) and (W.) (1.4.2002) by [S.I. 2002/808](https://www.legislation.gov.uk/uksi/2002/808), [art. 14](https://www.legislation.gov.uk/uksi/2002/808/article/14)
+
+[^c2581301]: Marginal citation: [See the Local Authorities (Executive Arrangements) (Access to Information) (England) Regulations 2000 (S.I. 2000/3272)](https://www.legislation.gov.uk/uksi/2000/3272).
+
+[^c13731851]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1986/10/part/III) (ss. 7-9) power to apply conferred (1.9.1997) by [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/44/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/50/schedule/4) para. (g)(ii); [S.I. 1997/1930](https://www.legislation.gov.uk/uksi/1997/1930), [art. 3(m)](https://www.legislation.gov.uk/uksi/1997/1930/article/3/m)
+
+[^c2581311]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1986/10/section/7) extended (5.7.1994) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [ss. 39](https://www.legislation.gov.uk/ukpga/1994/19/section/39), [66(2)(b)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/2/b), [Sch. 13 para. 20(m)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/13/paragraph/20/m) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2))
+
+[^key-c0374d598933cb2f32249dd18eead705]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1986/10/section/7) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/11)
+
+[^key-c73daaf56903d616e7744b774f418759]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1986/10/section/7) excluded (29.6.2026) by 2011 c. 13, Sch. 10A para. 51 (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+
+[^c2581321]: Marginal citation: [1957 c. 56](https://www.legislation.gov.uk/ukpga/1957/56).
+
+[^c2581331]: Marginal citation: [1958 c. 42](https://www.legislation.gov.uk/ukpga/1958/42).
+
+[^c2581341]: Marginal citation: [1974 c. 44](https://www.legislation.gov.uk/ukpga/1974/44).
+
+[^c2581351]: Marginal citation: [1980 c. 51](https://www.legislation.gov.uk/ukpga/1980/51).
+
+[^c2581361]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1986/10/section/8) repealed by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/2), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/I)
+
+[^c2581791]: Modification: S. 9 extended (5.7.1994) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [ss. 39](https://www.legislation.gov.uk/ukpga/1994/19/section/39), [66(2)(b)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/2/b), [Sch. 13 para. 20(m)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/13/paragraph/20/m) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2))
+
+[^c2581801]: Modification: S. 9(1)(*a*) extended by [S.I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110), [art. 2(2)](https://www.legislation.gov.uk/uksi/1987/2110/article/2/2), [Sch. 1 para. 8(q)](https://www.legislation.gov.uk/uksi/1987/2110/schedule/1/paragraph/8/q)
+
+[^c2581811]: Modification: S. 9(1)(*a*) amended by [S.I. 1989/1815](https://www.legislation.gov.uk/uksi/1989/1815), [art. 2](https://www.legislation.gov.uk/uksi/1989/1815/article/2), [Sch. 1 para. 6(e)](https://www.legislation.gov.uk/uksi/1989/1815/schedule/1/paragraph/6/e)
+
+[^key-c149e41f9dafcfc12ed97d5886f9e2aa]: Modification: [S. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1986/10/section/9/1/a) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(l)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/l) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+
+[^key-bb1e4babed01ebdd6c5415f8d872b8b1]: Textual amendment: Words in s. 9(1)(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 174](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/174); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/51))
+
+[^c3465931]: Textual amendment: Words in s. 9(1)(a) repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2001/16/section/128/1), [137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 6 Pt. 2 para. 42](https://www.legislation.gov.uk/ukpga/2001/16/schedule/6/part/2/paragraph/42), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/m)
+
+[^c2581861]: Textual amendment: Words repealed by [Education Reform Act 1988 (c. 40, SIF 41:1)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237(2)](https://www.legislation.gov.uk/ukpga/1988/40/section/237/2), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1988/40/schedule/13/part/I)
+
+[^c2581871]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
+
+[^key-8a565177a7d0a599412ab204f8c186ba]: Textual amendment: Words in s. 9(1)(a) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 71(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/71/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+
+[^key-bfdd9fac752c154b5eacf11ec0ab70fe]: Textual amendment: Words in s. 9(1)(a) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 89](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/89) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-813670ee1145d829aa662e7b006b71b6]: Textual amendment: Words in s. 9(1)(a) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/53); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+
+[^key-5c9c4d933d08624afa810b053a02b293]: Textual amendment: Words in s. 9(1)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 78](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/78); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+
+[^c2581891]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
+
+[^c2581911]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c13731861]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1986/10/section/11) repealed ( prosp. ) by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [ss. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [195(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/195/2), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/I)
+
+[^c2581921]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
+
+[^c2581931]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c2581941]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
+
+[^c2581961]: Subordinate legislation: Power of appointment conferred by s. 12(2) fully exercised: 1.4.1988 appointed for s. 5 by [S.I. 1987/2003](https://www.legislation.gov.uk/uksi/1987/2003), [art. 2](https://www.legislation.gov.uk/uksi/1987/2003/article/2)
+
+[^c2581971]: Textual amendment: Words repealed by [Local Government Finance Act 1988 (c. 41, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/41), [s. 149](https://www.legislation.gov.uk/ukpga/1988/41/section/149), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1988/41/schedule/13/part/I)
+
+[^key-bb70da6844ef76702674e8150abf8607]: Textual amendment: Words in [s. 12(3)](https://www.legislation.gov.uk/ukpga/1986/10/section/12/3) inserted (30.3.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/39/2), [49(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/2)

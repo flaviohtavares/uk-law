@@ -1,0 +1,1332 @@
+---
+title: The Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010
+id: uksi/2010/2600
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-10-28'
+text_date: '2025-05-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/2600
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/2600/pdfs/uksiem_20102600_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2600/pdfs/uksi_20102600_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2600/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010
+
+> Text as at 2025-05-30.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 2600 (L. 15)
+
+Tribunals And Inquiries, England And Wales
+
+The Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010
+
+Made
+
+28th October 2010
+
+Laid before Parliament
+
+2nd November 2010
+
+Coming into force
+
+29th November 2010
+
+After consulting in accordance with paragraph 28(1) of Schedule 5 to the Tribunals, Courts and Enforcement Act 2007 [^c20565791], the Tribunal Procedure Committee has made the following Rules in exercise of the power conferred by sections 10(3), 16(9), 22 and 29(3) and (4) of, and Schedule 5 to, that Act, section 84(3A) of the Law of Property Act 1925 [^c20565801] and section 2(5) of the Rights of Light Act 1959 [^c20565811].
+
+The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of Schedule 5 to the Tribunals, Courts and Enforcement Act 2007.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement, application and interpretation
+
+(1) These Rules may be cited as the Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010 and come into force on 29th November 2010.
+
+(2) These Rules apply to proceedings before the Lands Chamber of the Upper Tribunal.
+
+(3) In these Rules—
+
+- “**the 1949 Act**” means the Lands Tribunal Act 1949 [^c20565821];
+- “**the 1961 Act**” means the Land Compensation Act 1961 [^c20565831];
+- “**the 2007 Act**” means the Tribunals, Courts and Enforcement Act 2007;
+- “**appellant**” means a person who sends or delivers a notice of appeal to the Tribunal and any person added or substituted as an appellant under rule 9 (addition, substitution and removal of parties);
+- “**applicant**” means a person who makes an application to the Tribunal and includes a person who—
+  - (a) makes an application under section 84 of the Law of Property Act 1925;
+  - (b) makes an application under section 2 of the Rights of Light Act 1959;
+  - (ba) makes an application under section 130 or 135 of the Environment Act 2021;[^key-3c7fc82ad6e0b463d7f318c3093ea5ed]
+  - (c) applies for permission to appeal;
+  - (d) in judicial review proceedings transferred to the Tribunal, was a claimant in the proceedings immediately before they were transferred; or
+  - (e) is added or substituted as an applicant under rule 9 (addition, substitution and removal of parties);
+- “**claimant**” means a party to a reference sent or delivered under Part 5 (references) who is not a respondent authority, acquiring authority or compensating authority or has been added or substituted as a claimant under rule 9 (addition, substitution and removal of parties);
+- “**hearing**” means an oral hearing and includes a hearing conducted in whole or in part by video link, telephone or other means of instantaneous two-way electronic communication;
+- “**objector**” means a person who gives to the Tribunal notice of objection to an application under —[^key-2692882ed2173469ae95a7db40f37f6b]
+  - (a) section 84 of the Law of Property Act 1925; or
+  - (b) section 130 or 135 of the Environment Act 2021;
+- “**party**” means—
+  - (a) an appellant;
+  - (b) an applicant;
+  - (c) a claimant;
+  - (d) a respondent authority, an acquiring authority or a compensating authority in a reference made under Part 5 (references);
+  - (e) an objector;
+  - (f) a respondent; or
+  - (g) in a case transferred to the Tribunal, any person who was a party to the proceedings immediately before the transfer or who has been added or substituted as a party under rule 9 (addition, substitution and removal of parties);
+- “**practice direction**” means a direction given under section 23 of the 2007 Act;
+- “**respondent**” means—
+  - (a) in an application for permission to appeal or in an appeal against a decision of a tribunal, any person other than the applicant or the appellant who was a party in the proceedings before that tribunal and who—
+    - (i) was present or represented at the hearing before that tribunal; or
+    - (ii) where the proceedings were determined without a hearing, made representations in writing to that tribunal,
+
+    unless the person has ceased to be a respondent under rule 25(2) (respondent's notice);
+  - (b) a person added or substituted as a respondent under rule 9 (addition, substitution and removal of parties); and
+  - (c) in a reference made under Part 5 (references) by consent, any person other than the claimant;
+- “**Tribunal**” means the Lands Chamber of the Upper Tribunal.
+
+### 2. Overriding objective and parties' obligation to co-operate with the Tribunal
+
+(1) The overriding objective of these Rules is to enable the Tribunal to deal with cases fairly and justly.
+
+(2) Dealing with a case fairly and justly includes—
+
+- (a) dealing with the case in ways which are proportionate to the importance of the case, the complexity of the issues, the anticipated costs and the resources of the parties;
+- (b) avoiding unnecessary formality and seeking flexibility in the proceedings;
+- (c) ensuring, so far as practicable, that the parties are able to participate fully in the proceedings;
+- (d) using any special expertise of the Tribunal effectively; and
+- (e) avoiding delay, so far as compatible with proper consideration of the issues.
+
+(3) The Tribunal must seek to give effect to the overriding objective when it—
+
+- (a) exercises any power under these Rules; or
+- (b) interprets any rule or practice direction.
+
+(4) Parties must—
+
+- (a) help the Tribunal to further the overriding objective; and
+- (b) co-operate with the Tribunal generally.
+
+### 3. Alternative dispute resolution and arbitration
+
+(1) The Tribunal should seek, where appropriate—
+
+- (a) to bring to the attention of the parties the availability of any appropriate alternative procedure for the resolution of the dispute; and
+- (b) if the parties wish and provided that it is compatible with the overriding objective, to facilitate the use of the procedure.
+
+(2) Except where rule 30 (references by consent: application of the Arbitration Act 1996) applies, Part 1 of the Arbitration Act 1996 [^c20565841] does not apply to proceedings before the Tribunal.
+
+## PART 2 — General powers and provisions
+
+### 4. Delegation to staff
+
+(1) Staff appointed under section 40(1) of the 2007 Act (tribunal staff and services) or section 2(1) of the Courts Act 2003 (court officers, staff and services)[^key-9cc16512204fedac7e36332a447b47ed] may, if authorised by[^key-04d37578aa4c2c2923c04e8e20e22a9d] the Senior President of Tribunals under paragraph 3(3) of Schedule 5 to the 2007 Act[^key-4ee137dd6a9df4a2ecc3345b6ef670bc] , carry out functions of a judicial nature permitted or required to be done by the Tribunal.
+
+(2)[^key-16e4a7aebbefaaacc51fa7dfa1cfb74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Within 14 days after the date on which the Tribunal sends notice of a decision made by a member of staff under paragraph (1) to a party, that party may apply in writing to the Tribunal for that decision to be considered afresh by a judge.
+
+### 5. Case management powers
+
+(1) Subject to the provisions of the 2007 Act and any other enactment, the Tribunal may regulate its own procedure.
+
+(2) The Tribunal may give a direction in relation to the conduct or disposal of proceedings at any time, including a direction amending, suspending or setting aside an earlier direction.
+
+(3) In particular, and without restricting the general powers in paragraphs (1) and (2), the Tribunal may—
+
+- (a) extend or shorten the time for complying with any rule or practice direction and order an extension even if the application for an extension is not made until after the time limit has expired;
+- (b) consolidate or hear together two or more sets of proceedings or parts of proceedings raising common issues, or treat a case as a lead case;
+- (c) permit or require a party to amend a document;
+- (d) permit or require a party or another person to provide documents, information, evidence or submissions to the Tribunal or a party;
+- (e) deal with an issue in the proceedings as a separate or preliminary issue;
+- (f) hold a hearing to consider any matter, including a case management issue;
+- (g) decide the form of any hearing;
+- (h) adjourn or postpone a hearing;
+- (i) require a party to produce a bundle for a hearing;
+- (j) stay proceedings;
+- (k) transfer proceedings to another court or tribunal if that other court or tribunal has jurisdiction in relation to the proceedings and—
+  - (i) because of a change of circumstances since the proceedings were started, the Tribunal no longer has jurisdiction in relation to the proceedings; or
+  - (ii) the Tribunal considers that the other court or tribunal is a more appropriate forum for the determination of the case;
+- (l) suspend the effect of its own decision pending an appeal or review of that decision;
+- (m) in an appeal, or an application for permission to appeal, against the decision of another tribunal, suspend the effect of that decision pending the determination of the application for permission to appeal, and any appeal; or
+- (n) require any person, body or other tribunal whose decision is the subject of proceedings before the Tribunal to provide reasons for the decision, or other information or documents in relation to the decision or any proceedings before that person, body or tribunal.
+
+### 6. Procedure for applying for and giving directions
+
+(1) The Tribunal may give a direction on the application of one or more of the parties or on its own initiative.
+
+(2) An application for a direction may be made—
+
+- (a) by sending or delivering a written application to the Tribunal; or
+- (b) orally during the course of a hearing.
+
+(3) An application for a direction must include the reason for making that application.
+
+(4) If a written application for a direction is made with the consent of every party, it must be accompanied by consents signed by or on behalf of each party.
+
+(5) If a written application for a direction is not made with the consent of every party the applicant must provide—
+
+- (a) a copy of the proposed application to every other party before it is made; and
+- (b) confirmation to the Tribunal that the other parties have been notified that any objection they wish to make to the application must be provided in accordance with paragraph (6).
+
+(6) A party who wishes to object to an application for a direction must within 10 days of being sent a copy of the application, send written notice of the objection to the Tribunal and the applicant.
+
+(7) Unless the Tribunal considers that there is good reason not to do so, the Tribunal must send written notice of any direction to every party and to any other person affected by the direction.
+
+(8) If a party or any other person sent notice of the direction under paragraph (7) wishes to challenge a direction which the Tribunal has given, they may do so by applying for another direction which amends, suspends or sets aside the first direction.
+
+### 7. Failure to comply with rules etc.
+
+(1) An irregularity resulting from a failure to comply with any requirement in these Rules, a practice direction or a direction, does not of itself render void the proceedings or any step taken in the proceedings.
+
+(2) If any party has failed to comply with a requirement in these Rules, a practice direction or a direction, the Tribunal may, on the application of any party or on its own initiative, take such action as it considers just, which may include—
+
+- (a) waiving the requirement;
+- (b) requiring the failure to be remedied;
+- (c) exercising its power under section 25 of the 2007 Act (supplementary powers of the Tribunal); or
+- (d) exercising its power under rule 8 (striking out a party's case).
+
+(3) A party will automatically be barred from taking further part in the proceedings or part of the proceedings if that party has failed to comply with a direction that stated that failure by that party to comply with the direction would lead to such a barring of that party.
+
+(4) If a party has been barred under paragraph (3), that party may apply to the Tribunal for the lifting of the bar.
+
+(5) An application made under paragraph (4) must be made in writing and received by the Tribunal within 14 days after the date on which the Tribunal sent notification of the bar to the parties.
+
+(6) If a party has been barred from taking further part in proceedings under this rule and that bar has not been lifted, the Tribunal need not consider any response or other submission made by that party, and may summarily determine any or all issues against that party.
+
+### 8. Striking out a party's case
+
+(1) The proceedings, or the appropriate part of them, will automatically be struck out if the appellant, applicant or claimant has failed to comply with a direction that stated that failure by that party to comply with the direction would lead to the striking out of the proceedings or that part of them.
+
+(2) The Tribunal must strike out the whole or a part of the proceedings if the Tribunal—
+
+- (a) does not have jurisdiction in relation to the proceedings or that part of them; and
+- (b) does not exercise its power under rule 5(3)(k)(i) (transfer to another court or tribunal) in relation to the proceedings or that part of them.
+
+(3) The Tribunal may strike out the whole or a part of the proceedings if—
+
+- (a) a party to the proceedings has failed to comply with a direction which stated that failure by that party to comply with the direction could lead to the striking out of the proceedings or part of them;
+- (b) the appellant, applicant or claimant has failed to co-operate with the Tribunal to such an extent that the Tribunal cannot deal with the proceedings fairly and justly; or
+- (c) the Tribunal considers there is no reasonable prospect of the case of the appellant, applicant or claimant, or part of it, succeeding.
+
+(4) The Tribunal may not strike out the whole or a part of the proceedings under paragraph (2) or (3)(b) or (c) without first giving the appellant, applicant or claimant an opportunity to make representations in relation to the proposed striking out.
+
+(5) If the proceedings have been struck out under paragraph (1) or (3)(a), the appellant, applicant or claimant may apply for the proceedings, or part of them, to be reinstated.
+
+(6) An application made under paragraph (5) must be made in writing and received by the Tribunal within 14 days after the date on which the Tribunal sent notification of the striking out to the appellant, applicant or claimant.
+
+### 9. Addition, substitution and removal of parties
+
+(1) The Tribunal may give a direction adding, substituting or removing a party in any proceedings.
+
+(2) If the Tribunal gives a direction under paragraph (1) it may give such consequential directions as it considers appropriate.
+
+(3) A person who is not a party may apply to the Tribunal to be added or substituted as a party.
+
+(4) If a person who is entitled to be a party to proceedings by virtue of another enactment applies to be added as a party, and the conditions (if any) applicable to that entitlement have been satisfied, the Tribunal must give a direction adding that person as a party.
+
+### 10. Orders for costs[^key-daf9f5c08602ff7a91f5605473e16795]
+
+(1) The Tribunal may make an order for costs on an application or on its own initiative.
+
+(2) Any order under paragraph (1)—
+
+- (a) may only be made in accordance with the conditions or in the circumstances referred to in paragraphs (3) to (6);
+- (b) must, in a case to which section 4 of the 1961 Act applies, be in accordance with the provisions of that section.
+
+(3) The Tribunal may in any proceedings make an order for costs—
+
+- (a) under section 29(4) of the 2007 Act (wasted costs) and for costs incurred in applying for an order for such costs;
+- (b) if the Tribunal considers that a party or its representative has acted unreasonably in bringing, defending or conducting the proceedings; or
+- (c) in the circumstances to which paragraph (14) refers.
+
+(4) Except in proceedings to which paragraph (5) or (6) apply, the Tribunal may—
+
+- (a) with the consent of the parties, or
+- (b) where there is a disparity of interest or resources between the parties,
+
+direct that an order for costs may be made in the proceedings against one or more of the parties in respect of costs incurred following such a direction.
+
+(5) The Tribunal may make an order for costs in judicial review proceedings.
+
+(6) The Tribunal may make an order for costs in proceedings—
+
+- (a) for compensation for compulsory purchase;
+- (aa)[^key-0045351680dd394ed869baf9f2639af4] under section 18 of the 1961 Act;
+- (b) for injurious affection of land;
+- (c) under section 84 of the Law of Property Act 1925 (discharge or modification of restrictive covenants affecting land);
+- (d) on an appeal from a decision of the Valuation Tribunal for England or the Valuation Tribunal for Wales ;[^key-0d2e2476ac00e8576e75e2028c3051c4]
+- (e) under Schedule 3A to the Communications Act 2003; [^key-e6215d6f82168f571d499e0fe752b178]...
+- (f) under the Riot Compensation Act 2016 and,[^key-9c6061f69750c4a4b35eb9dc3ef049ce]
+- (g) on any appeal from the First-tier Tribunal relating to—
+  - (i) a reference by the Chief Land Registrar, or
+  - (ii) any other application, matter or appeal under the Land Registration Act 2002.
+
+(7) Subject to paragraph (3), in proceedings to which paragraph (6) applies, the Tribunal may direct that no order for costs may be made against one or more specified parties in respect of costs subsequently incurred.
+
+(8) In proceedings to which paragraph (6) applies, the Tribunal must have regard to the size and nature of the matters in dispute.
+
+(9) A person making an application for an order for costs, or a direction regarding costs—
+
+- (a) must send or deliver a written application to the Tribunal and to the person against whom it is proposed that the order be made;
+- (b) must include in the application, where it is for a direction regarding costs, the person’s reasons why the conditions or circumstances relevant to making such a direction under paragraph (4) or (7) apply; and
+- (c) may send or deliver with the application a schedule of the costs claimed in sufficient detail to allow summary assessment of such costs by the Tribunal.
+
+(10) An application for an order for costs may be made at any time during the proceedings but may not be made later than 14 days after the date on which—
+
+- (a) the Tribunal sends a decision notice recording the decision which finally disposes of all issues in the proceedings;
+- (b) the Tribunal sends notice under rule 20 (withdrawal) that a withdrawal which ends the proceedings has taken effect; or
+- (c) notice of withdrawal is sent to the Tribunal with the consent of all parties.
+
+(11) The Tribunal may not make an order for costs against a person (the “paying person”) without first giving that person an opportunity to make representations.
+
+(12) The amount of costs to be paid under an order under this rule may be determined by—
+
+- (a) summary assessment by the Tribunal;
+- (b) agreement of a specified sum by the paying person and the person entitled to receive the costs (the “receiving person”); or
+- (c) detailed assessment of the whole or a specified part of the costs (including the costs of the assessment) incurred by the receiving person—
+  - (i) on the standard basis; or
+  - (ii) on the indemnity basis, if so specified in the costs order, by the Tribunal or by the Senior Courts Costs Office or by a county court;
+
+  and the Civil Procedure Rules 1998 shall apply, with necessary modifications, to that application and assessment as if the proceedings in the Tribunal had been proceedings in a court to which the Civil Procedure Rules 1998 apply.
+
+(13) The Tribunal may order an amount to be paid on account before the costs are assessed.
+
+(14) The Tribunal may order a party to pay to another party costs of an amount equal to the whole or part of any fee paid (which has not been remitted by the Lord Chancellor under the Upper Tribunal (Lands Chamber) Fees Order 2009) in the proceedings by that other party that is not otherwise included in an award of costs.
+
+### 11. Representatives
+
+(1) A party may appoint a representative (whether a legal representative or not) to represent that party in the proceedings.
+
+(2) If a party appoints a representative, that party (or the representative if the representative is a legal representative) must send or deliver to the Tribunal and to each other party to the proceedings written notice of the representative's name and address.
+
+(3) Anything permitted or required to be done by a party under these Rules, a practice direction or a direction may be done by the representative of that party, except signing a witness statement.
+
+(4) A person who receives notice of the appointment of a representative—
+
+- (a) must provide to the representative any document which is required to be provided to the represented party, and need not provide that document to the represented party; and
+- (b) may assume that the representative is and remains authorised as such until they receive written notification that this is not so from the representative or the represented party.
+
+(5) At a hearing a party may be accompanied by another person whose name and address has not been notified under paragraph (2) but who, with the permission of the Tribunal, may act as a representative or otherwise assist in presenting the party's case at the hearing.
+
+(6) Paragraphs (2) to (4) do not apply to a person who accompanies a party under paragraph (5).
+
+(7) In this rule “**legal representative**” means a person who, for the purposes of the Legal Services Act 2007 [^c20565871], is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation within the meaning of that Act.
+
+### 12. Calculating time
+
+(1) An act required by these Rules, a practice direction or a direction to be done on or by a particular day must be done by 5 pm on that day.
+
+(2) If the time specified by these Rules, a practice direction or a direction for doing any act ends on a day other than a working day, the act is done in time if it is done on the next working day.
+
+(3) In this Rule “**working day**” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a bank holiday under section 1 of the Banking and Financial Dealings Act 1971 [^c20565881].
+
+### 13. Sending and delivery of documents
+
+(1) Subject to paragraph (1A),[^key-5993333f8811f1e92e59e85ebe4a8a6c] any document to be provided to the Tribunal under these Rules, a practice direction or a direction must be—
+
+- (a) sent by pre-paid post or by document exchange, or delivered by hand, to the address of the office of the Tribunal;
+- (b) sent by fax to the fax number of the office of the Tribunal; [^key-3f7fb3b61efc2b68f1631dbf94a889b0]...
+- (ba)[^key-1fce4f837aae304a19b5fcad302a23bb] uploaded to the Tribunal’s secure portal; or
+- (c) sent or delivered by such other method as the Tribunal may permit or direct.
+
+(1A)[^key-7f1a91863e06f4a5175a322eb49036d6] A practice direction may specify for any document subject to paragraph (1)—
+
+- (a) the requirements that must be fulfilled for it to be uploaded to the Tribunal’s secure portal; and
+- (b) for any specified category of party in any specified category of case, that it must be so uploaded to the Tribunal’s secure portal.
+
+(2) Subject to paragraphs (2A) and (3)[^key-316ee8e0c40ef42f48f66afd9db01db1], if a party provides a fax number, email address or other details for the electronic transmission of documents to them (including transmission through the Tribunal’s secure portal)[^key-41b0a441a03575f97c26985a5ca31c44], that party must accept delivery of documents by the relevant method.
+
+(2A)[^key-ddceba69342873e034338998f93b537f] A party is required to accept delivery of documents through the Tribunal’s secure portal only if the document is sent through that portal to that party by the Tribunal.
+
+(3) If a party informs the Tribunal and all other parties that a particular form of communication, other than pre-paid post or delivery by hand, should not be used to provide documents to that party, that form of communication must not be so used.
+
+(4) If the Tribunal or a party sends a document to a party or the Tribunal by email or any other electronic means of communication (including transmission through the Tribunal’s secure portal)[^key-53361e3c8987f6e59cd637e5396c3742], the recipient may request that the sender provide a hard copy of the document to the recipient. The recipient must make such a request as soon as reasonably practicable after receiving the document electronically.
+
+(5) The Tribunal and each party may assume that the address provided by a party or its representative is and remains the address to which documents should be sent or delivered until it receives written notification to the contrary.
+
+### 14. Waiver or alternative method of service
+
+The Tribunal may waive a requirement under these Rules to send or deliver a notice or other document to a person or may make an order for service by an alternative method (whether by advertisement in a newspaper or otherwise) as the Tribunal may think fit—
+
+- (a) if that person cannot be found after all diligent enquiries have been made;
+- (b) if that person has died and has no personal representative; or
+- (c) if for any other reason a notice or other document cannot readily be sent or delivered to that person in accordance with these Rules.
+
+### 15. Use of documents and information
+
+The Tribunal may make an order prohibiting the disclosure or publication of—
+
+- (a) specified documents or information relating to the proceedings; or
+- (b) any matter likely to lead members of the public to identify any person whom the Tribunal considers should not be identified.
+
+### 16. Evidence and submissions
+
+(1) Without restriction on the general powers in rule 5(1) and (2) (case management powers), the Tribunal may give directions as to —
+
+- (a) issues on which it requires evidence or submissions;
+- (b) the nature of the evidence or submissions it requires;
+- (c) whether the parties are permitted to provide expert evidence, and if so whether the parties must jointly appoint a single expert to provide such evidence;
+- (d) any limit on the number of witnesses whose evidence a party may put forward, whether in relation to a particular issue or generally;
+- (e) the manner in which any evidence or submissions are to be provided, which may include a direction for them to be given—
+  - (i) orally at a hearing; or
+  - (ii) by written submission or witness statement; and
+- (f) the time by which any evidence or submissions are to be provided.
+
+(2) The Tribunal may—
+
+- (a) admit evidence whether or not—
+  - (i) the evidence would be admissible in a civil trial in England or Wales; or
+  - (ii) the evidence was available to a previous decision maker; or
+- (b) exclude evidence that would otherwise be admissible where—
+  - (i) the evidence was not provided within the time allowed by a direction or a practice direction;
+  - (ii) the evidence was otherwise provided in a manner that did not comply with a direction or a practice direction; or
+  - (iii) it would otherwise be unfair to admit the evidence.
+
+(3) The Tribunal may consent to a witness giving, or require any witness to give, evidence on oath, and may administer an oath for that purpose.
+
+(4) A witness statement must contain the words “I believe that the facts stated in this witness statement are true”, and be signed by the person who makes it.
+
+(5) Where a witness who has made a witness statement is called to give oral evidence, their witness statement shall stand as their evidence in chief unless the Tribunal directs otherwise, but the witness may with the permission of the Tribunal—
+
+- (a) amplify the witness statement they have made; and
+- (b) give evidence in relation to new matters which have arisen since the witness statement was provided to the other parties.
+
+### 17. Expert evidence
+
+(1) It is the duty of an expert to help the Tribunal on matters within the expert's expertise and this duty overrides any obligation to the person from whom the expert has received instructions or by whom the expert is paid.
+
+(2) Subject to paragraph (3), no party may call more than one expert witness without the permission of the Tribunal.
+
+(3) In proceedings relating to mineral valuations or business disturbance, no party may call more than two expert witnesses without the permission of the Tribunal.
+
+(4) Expert evidence is to be given in a written report unless the Tribunal directs otherwise.
+
+(5) A written report of an expert must—
+
+- (a) contain a statement that the expert understands the duty in paragraph (1) and has complied with it,
+- (b) contain the words “I believe that the facts stated in this report are true and that the opinions expressed are correct”,
+- (c) comply with the requirements of any practice direction as regards its form and contents, and
+- (d) be signed by the expert.
+
+### 18. Summoning of witnesses and orders to answer questions or produce documents
+
+(1) On the application of a party or on its own initiative, the Tribunal may—
+
+- (a) by summons, require any person to attend as a witness at a hearing at the time and place specified in the summons; and
+- (b) order any person to answer any questions or produce any documents in that person's possession or control which relate to any issue in the proceedings.
+
+(2) A summons under paragraph (1)(a) must—
+
+- (a) give the person required to attend 14 days' notice of the hearing or such shorter period as the Tribunal may direct; and
+- (b) where the person is not a party, make provision for the person's necessary expenses of attendance to be paid, and state who is to pay them.
+
+(3) No person may be compelled to give any evidence or produce any document that the person could not be compelled to give or produce on a trial of an action in a court of law.
+
+(4) A person who receives a summons or order may apply to the Tribunal for it to be varied or set aside if they did not have an opportunity to object to it before it was made or issued.
+
+(5) A person making an application under paragraph (4) must do so as soon as reasonably practicable after receiving notice of the summons or order.
+
+(6) A summons or order under this rule must—
+
+- (a) state that the person on whom the requirement is imposed may apply to the Tribunal to vary or set aside the summons or order, if they did not have an opportunity to object to it before it was made or issued; and
+- (b) state the consequences of failure to comply with the summons or order.
+
+### 19. Site inspections
+
+(1) Subject to paragraph (2), the Tribunal may, with the consent of the occupier, enter and inspect—
+
+- (a) the land or property that is the subject of the proceedings; and
+- (b) as far as practicable, any other land or property relevant to the proceedings to which the attention of the Tribunal is drawn.
+
+(2) If the Tribunal proposes to enter any premises under paragraph (1) it must—
+
+- (a) give reasonable notice to the occupier of the premises; and
+- (b) give notice to the parties of the proposed inspection.
+
+### 20. Withdrawal
+
+(1) Subject to paragraph (2), a party may give notice of the withdrawal of its case, or any part of it—
+
+- (a) [^key-b8b43c1e213e7e18eefa852f76f5fe6a]...by sending or delivering to the Tribunal and all other parties a written notice of withdrawal; or
+- (b) orally at a hearing.
+
+(2) Notice of withdrawal will not take effect unless the Tribunal consents to the withdrawal.
+
+(3) The requirement in paragraph (2) does not apply to—
+
+- (a) an application for permission to appeal; or
+- (b) a notice of withdrawal to which all the parties to the proceedings consent.
+
+(4) A party which has withdrawn its case or part of it may apply to the Tribunal for the case to be reinstated.
+
+(5) An application under paragraph (4) must be made in writing and be received by the Tribunal within 1 month after—
+
+- (a) the date on which the Tribunal received the notice under paragraph (1)(a); or
+- (b) the date of the hearing at which the case (or part of it) was withdrawn orally under paragraph (1)(b).
+
+## PART 3 — Applications for permission to appeal
+
+### 21. Application to the Tribunal for permission to appeal
+
+(1) Where permission to appeal to the Tribunal against the decision of another tribunal is required, a person may apply to the Tribunal for permission to appeal to the Tribunal against such a decision only if—
+
+- (a) they have made an application for permission to appeal to the tribunal which made the decision challenged; and
+- (b) that application has been refused or has not been admitted.
+
+(2) An application for permission to appeal must be made in writing and received by the Tribunal no later than 14 days after the date on which the tribunal that made the decision under challenge sent notice of its refusal of permission to appeal or refusal to admit the application for permission to appeal , or sent notice that permission has been granted only on limited grounds,[^key-16ef338d1aa3841cad1f9d618db7c52c] to the applicant.
+
+(3) The application must be signed and dated and must state—
+
+- (a) the name and address of the applicant and, if represented,—
+  - (i) the name and address of the applicant's representative; and
+  - (ii) the professional capacity, if any, in which the applicant's representative acts;
+- (b) an address where documents for the applicant may be sent or delivered;
+- (c) details (including the full reference) of the decision challenged;
+- (d) the grounds of appeal on which the applicant relies;
+- (e) the name and address of each respondent; and
+- (f) whether the applicant wants the application to be dealt with at a hearing.
+
+(4) The applicant must provide with the application—
+
+- (a) a copy of—
+  - (i) any written record of the decision being challenged;
+  - (ii) any separate written statement of reasons for that decision;
+  - (iii) the notice of refusal of permission to appeal or refusal to admit the application for permission to appeal from the other tribunal; and
+  - (iv) any other document relied on in the application to the Tribunal; and
+- (b) the fee payable to the Tribunal.
+
+(5) If the applicant provides the application to the Tribunal later than the time required by paragraph (2) or by an extension of time allowed under rule 5(3)(a) (power to extend time)—
+
+- (a) the application must include a request for an extension of time and the reason why the application was not provided in time; and
+- (b) unless the Tribunal extends time for the application under rule 5(3)(a) (power to extend time), the Tribunal must not admit the application.
+
+(6) If the tribunal that made the decision under challenge refused to admit the applicant's application for permission to appeal because the application for such permission or for a written statement of reasons was not made in time—
+
+- (a) the application to the Tribunal must include the reason why the application to the other tribunal for permission to appeal or for a written statement of reasons, as the case may be, was not made in time; and
+- (b) the Tribunal must only admit the application if the Tribunal considers that it is in the interests of justice for it to do so.
+
+(7) The applicant must send or deliver to the Tribunal with the application for permission sufficient copies of the application and accompanying documents for service on the respondent.
+
+(8) Unless it decides to dismiss the application without representations from the respondent, the Tribunal must send or deliver a copy of the application and accompanying documents to the respondent, and must specify a time limit within which any representations relating to the application must be made.
+
+### 22. Respondent's representations in relation to permission to appeal
+
+(1) A respondent who wishes to make representations in relation to the application—
+
+- (a) must do so in writing within the time limit specified under rule 21(8);
+- (b) may include an application for permission to cross-appeal if the applicant is granted permission to appeal;
+- (c) must at the same time send a copy of the representations and any application to all the other parties and inform the Tribunal in writing that this has occurred; and
+- (d) must state whether the respondent wants the application to be dealt with at a hearing.
+
+(2) An application for permission to cross-appeal under paragraph (1)(b) must state the grounds on which the application is made and must include a copy of any document relied on in the application.
+
+### 23. Decision in relation to permission to appeal
+
+(1) The Tribunal may give permission to appeal with such limitations or conditions as the Tribunal thinks fit.
+
+(2) If the Tribunal refuses permission to appeal, it must send written notice of the refusal and of the reasons for the refusal to the applicant.
+
+(3) If the Tribunal gives permission to appeal—
+
+- (a) the Tribunal must send written notice of the permission, and of the reasons for any limitations or conditions on such permission, to each party;
+- (b) subject to any direction by the Tribunal, the application for permission to appeal stands as the notice of appeal; and
+- (c) the Tribunal may, with the consent of the parties, determine the appeal without further representations.
+
+(4) In this rule, references to appeals include cross-appeals where appropriate.
+
+## PART 4 — Appeals
+
+### 24. Notice of appeal
+
+(1) This rule applies—
+
+- (a) if another tribunal has given permission for a party to appeal to the Tribunal;
+- (b) if permission to appeal against the decision of another tribunal is not required; or
+- (c) subject to any other direction by the Tribunal, if the Tribunal has given permission to appeal and has given a direction that the application for permission to appeal does not stand as the notice of appeal.
+
+(2) Unless some other time limit is prescribed by or under another enactment, the appellant must provide a notice of appeal to the Tribunal so that it is received within 1 month after—
+
+- (a) the date that the tribunal that gave permission to appeal sent notice of such permission to the appellant; or
+- (b) the date on which the notice of decision to which the appeal relates was sent to the appellant, if permission to appeal is not required.
+
+(3) The notice of appeal must be signed and dated and must include the information listed in rule 21(3) (content of the application for permission to appeal).
+
+(4) If another tribunal has given permission to appeal, or if permission is not required, the appellant must provide with the notice of appeal—
+
+- (a) a copy of—
+  - (i) any written record of the decision being challenged;
+  - (ii) any separate written statement of reasons for that decision;
+  - (iii) any notice of permission to appeal; and
+  - (iv) if the appeal is against the decision of the Valuation Tribunal for England or the Valuation Tribunal for Wales[^key-27f50867d5a743074061bacb46a970ff], a copy of the proposal or determination that was the subject of the appeal to that tribunal; and
+- (b) the fee payable to the Tribunal.
+
+(5) If the appellant provides the notice of appeal to the Tribunal later than the time required by paragraph (2)—
+
+- (a) the notice of appeal must include a request for an extension of time and the reasons why the notice was not provided in time; and
+- (b) unless the Tribunal extends time for the notice of appeal under rule 5(3)(a) (power to extend time) the Tribunal must not admit the notice of appeal.
+
+(6) The appellant must send or deliver to the Tribunal with the notice of appeal sufficient copies of the notice and accompanying documents for each respondent.
+
+(7) When the Tribunal receives the notice of appeal it must send a copy of the notice and any accompanying documents to each respondent.
+
+### 25. Respondent's notice
+
+(1) A respondent may provide a respondent's notice to an appeal.
+
+(2) A respondent shall, unless given permission to cross-appeal, cease to be a respondent if no respondent's notice is provided within the time specified in paragraph (3) or such further time as may be allowed under rule 5(3)(a) (power to extend time).
+
+(3) Any respondent's notice must be in writing and must be sent or delivered to the Tribunal and the appellant so that it is received no later than 1 month after the date on which the Tribunal sent—
+
+- (a) notice that it had given permission to appeal to the respondent; or
+- (b) a copy of the notice of appeal to the respondent.
+
+(4) The respondent's notice must be signed and dated and must state—
+
+- (a) the name and address of the respondent and, if represented,—
+  - (i) the name and address of the respondent's representative; and
+  - (ii) the professional capacity, if any, in which the respondent's representative acts;
+- (b) an address where documents for the respondent may be sent or delivered;
+- (c) the grounds on which the respondent relies in opposing the appeal or in support of a cross-appeal; and
+- (d) whether the respondent wants the case to be dealt with at a hearing.
+
+(5) If the respondent provides a respondent's notice to the Tribunal later than the time required by paragraph (2), the notice must include a request for an extension of time and the reasons why the notice was not provided in time.
+
+(6) If, in any proceedings, the Tribunal receives a respondent's notice from more than one respondent, it must send a copy of each notice received to each of the other respondents.
+
+### 26. Appellant's reply
+
+(1) Subject to any direction given by the Tribunal, the appellant may provide a reply to any respondent's notice provided under rule 25 (respondent's notice).
+
+(2) Any reply provided under paragraph (1) must be in writing and must be sent or delivered to the Tribunal and every respondent so that it is received within 1 month after the date on which the relevant respondent sent the respondent's notice to the appellant.
+
+## PART 5 — References
+
+### 26A. Interpretation[^key-738afd2d7f8c6d33d836de3f1ee7236d]
+
+In this Part, “reference” includes—
+
+- (a) proceedings under Schedule 3A to the Communications Act 2003; and
+- (b) proceedings under the Riot Compensation Act 2016.
+
+### 27. Application of Part 5
+
+Part 5 applies to any proceedings allocated to the Tribunal except—
+
+- (a) an application for permission to appeal, or an appeal, against the decision of another tribunal;
+- (b) an application to which Part 6 (applications under section 84 of the Law of Property Act 1925) or Part 7 (applications under section 2 of the Rights of Light Act 1959) applies;
+- (c) proceedings to which Part 8 (proceedings, including judicial review proceedings, transferred to the Tribunal) applies.
+
+### 28. Notice of reference
+
+(1) Proceedings to which this Part applies must be started by way of reference made by sending or delivering to the Tribunal a notice of reference.
+
+(2) The parties to the proceedings are the person making the reference and any person named as a party in the notice of reference.
+
+(3) The notice of reference must be signed and dated and must state—
+
+- (a) the name and address of the person making the reference and, if represented,—
+  - (i) the name and address of that person's representative; and
+  - (ii) the professional capacity, if any, in which the person's representative acts;
+- (b) an address where documents for the person making the reference may be sent or delivered;
+- (bb)[^key-686ac25bcab7210026ab88c7528f6b38] the name and address of any person named as a party other than the person making the reference;
+- (c) the address or description of the land to which the reference relates;
+- (d)[^key-db7cd4ef547c92d233294ea4a6fe1cda] the name and address of every person—
+  - (i) with an interest in the land or property; or
+  - (ii) in occupation of the land or property.
+- (e)[^key-27556d1cfedbc779528edf8ac0ba8b39] the nature of the—
+  - (i) interest in the land or property; and
+  - (ii) the right of occupation;
+- (f) the statutory provision under which the reference is made (unless the reference is a reference by consent under section 1(5) of the 1949 Act);
+- (g) if the reference is made by a claimant for compensation or other monetary award, the amount claimed, an explanation of how that amount is calculated and a summary of the reasons for making that claim;
+- (h) the matter on which the person making the reference seeks the determination of the Tribunal and a summary of the reasons for seeking that determination and, where the reference is an appeal under the Riot Compensation Act 2016, the grounds of appeal on which the applicant relies.[^key-9c73068bf1a0e9e2d1f190febf8eeb15]; and
+- (i) whether the person making the reference wants the reference to be determined without a hearing.
+
+(4) The person making the reference must provide with the notice of reference—
+
+- (a) a copy of the order or other documents in consequence of which the reference is made including any agreement conferring jurisdiction on the Tribunal;
+- (b) if the reference relates to compensation payable on the compulsory acquisition of land, a copy of any—
+  - (i) notice to treat that has been served;
+  - (ii) notice of entry that has been served; and
+  - (iii) notice of claim and amendments to it delivered to the acquiring authority in pursuance of section 4 of the 1961 Act; and
+- (c) the fee payable to the Tribunal.
+
+(5) The person making the reference must provide with the notice of reference sufficient copies for every other person named as a party in the notice of reference, of—
+
+- (a) the notice of reference; and
+- (b) the documents listed in paragraph (4).
+
+(6) A notice of reference in relation to compensation payable on the compulsory acquisition of land may not be sent or delivered to the Tribunal earlier than 1 month after the date of service or deemed service under section 7 of the Compulsory Purchase (Vesting Declarations) Act 1981 [^c20565891] of the notice to treat, or, if no such notice is served or deemed in accordance with any enactment to be served, of the notice of claim.
+
+(7) The notice of reference must be sent or delivered so that it is received by the Tribunal within 1 month of—
+
+- (a) the date of service of a counter-notice, where the reference is made under section 153(1) of the Town and Country Planning Act 1990 [^c20565901];
+- (b) the date of issue of notice of the decision or findings to which the reference relates, where the reference is made under regulation 7(1) or 12(3) of the Town and Country Planning (Compensation and Certificates) Regulations 1974 [^c20565911];
+- (c) the date of the Secretary of State's determination, where the reference is made under regulation 15(1) of the Town and Country Planning (Compensation and Certificates) Regulations 1974;
+- (d)[^key-a83d4976d1b1c854db01279c76f07f8d] the date of issue of the certificate, where the reference is made under section 18(1) of the 1961 Act;
+- (e)[^key-25e825443f6bb7860cbcccd25f51d29a] the date of the decision against which the appeal is brought, where the reference is an appeal under the Riot Compensation Act 2016.
+
+(8) When the Tribunal receives a reference, it must send copies of the notice and the accompanying documents to the persons named in the notice.
+
+### 29. Response to notice of reference
+
+(1) A person to whom the Tribunal sends a copy of the notice of reference must, within 1 month of the Tribunal sending the notice, send or deliver to the Tribunal and the party who made the reference a response to the notice of reference.
+
+(2) The response to the notice of reference must be signed and dated and must state whether the person making the response intends to take part in the proceedings and, if so, must—
+
+- (a) state their name and address and, if represented,—
+  - (i) the name and address of their representative; and
+  - (ii) the professional capacity, if any, in which the representative acts;
+- (b) provide an address where documents for the person making the response may be sent or delivered;
+- (c) provide a summary of the contentions of the person making the response in relation to the reference;
+- (d) if the person making the response is a claimant and the claim is for compensation or a monetary award, the amount claimed, an explanation of how that amount is calculated and a summary of the reasons for making that claim; and
+- (e) whether the person making the response wants the reference to be determined without a hearing.
+
+(3) After receipt of a response to a notice of reference the Tribunal must direct either—
+
+- (a) that the person who made the reference and any person making a response must, within such period as is stated in the direction, send or deliver to the Tribunal and each other party a statement of case that complies with the requirements of any practice direction; or
+- (b) that the notice of reference and any response to a notice of reference shall stand as the statement of case of the party that gave the notice or made the response.
+
+### 30. References by consent: application of the Arbitration Act 1996
+
+If the reference is by consent under section 1(5) of the 1949 Act and the parties have not agreed otherwise, the following provisions of the Arbitration Act 1996 apply to the proceedings—
+
+- (a) section 8 (whether agreement discharged by death of a party):
+- (b) section 9 (stay of legal proceedings);
+- (c) section 10 (reference of interpleader issue to arbitration);
+- (d) section 12 (power of court to extend time for beginning arbitral proceedings, etc.);
+- (e) section 23 (revocation of arbitrator's authority);
+- (f)[^key-65f73ae44f6cd09dedb9a281073a8978] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) section 57 (correction of award or additional award) in so far as it relates to costs and so that the reference to “**award**” includes a reference to any decision of the Tribunal; and[^key-9a9f26cc92b1e094780aa22e1f1b0440]
+- (h) section 60 (agreement to pay costs in any event).[^key-bc4482e04b4ae4aed9ec0dfd02e418bb]
+- (i)[^key-d34c3357cba8e7bb00b8c92f51fb3281] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — Applications under section 84 of the Law of Property Act 1925 (discharge or modification of restrictive covenants affecting land)
+
+### 31. Interpretation
+
+In this Part—
+
+- “**application land**” means the land to which the application relates;
+- “**section 84**” means section 84 of the Law of Property Act 1925; and
+- “**restriction**” means a restriction, arising under a covenant or otherwise, as to the user of or building on any freehold land or any leasehold land held for a term of more than 40 years of which at least 25 have expired.
+
+### 32. Method of making application
+
+(1) An application under section 84 is made by sending or delivering to the Tribunal an application which must be signed and dated and must state—
+
+- (a) the name and address of the applicant and, if represented,—
+  - (i) the name and address of the applicant's representative; and
+  - (ii) the professional capacity, if any, in which the applicant's representative acts;
+- (b) an address where documents for the applicant may be sent or delivered;
+- (c) the address or description of the application land;
+- (d) the nature of the applicant's interest in the application land;
+- (e) the name of any other person with an interest in the application land and the nature of their interest;
+- (f) the address or description of the land which is subject to the restriction;
+- (g) the address or description of the land which, and the identity of any person (if known) who has the benefit of the restriction, or any person who the applicant believes may have such benefit and the reasons for that belief;
+- (h) the ground or grounds in section 84 on which the applicant relies and the reasons for considering that that ground or those grounds apply;
+- (i) whether the applicant is applying to discharge or modify the restriction, in which case details of the discharge or modification sought must also be provided; and
+- (j) details of any planning permission in respect of the application land that has been applied for, granted or refused within the 5 years preceding the application.
+
+(2) The applicant must provide with the application—
+
+- (a) a copy of the instrument imposing the restriction and any attached plan coloured in accordance with the original or, if the instrument cannot be found, other documentary evidence of the restriction;
+- (b) a plan identifying—
+  - (i) the application land;
+  - (ii) if ascertainable, any additional land which is subject to the restriction; and
+  - (iii) the land which has the benefit of the restriction; and
+- (c) the fee payable to the Tribunal.
+
+(3) An application may be made jointly by two or more persons if the land in which they are interested is the same land or different parts of the land affected by the restriction.
+
+### 33. Notices to be given
+
+(1) Upon receipt of an application, the Tribunal must send written directions to the applicant specifying—
+
+- (a) what notices are to be given to persons who appear to be entitled to the benefit of the restriction;
+- (b) the time within which such notices are to be given; and
+- (c) whether such notices should be given by advertisement or otherwise.
+
+(2) The notices must require any person who claims to be entitled to the benefit of the restriction, who objects to the discharge or modification of it proposed by the application, or who claims compensation for such modification or discharge, to send to the Tribunal and to the applicant notice of any objections they may have and of the amount of compensation they claim, if any.
+
+(3) The notices to be given under paragraph (1) must be given by the applicant who, as soon as reasonably practicable after the end of the period for sending or delivering a notice of objection in rule 34(1) (notice of objection), must certify in writing to the Tribunal that directions as to the giving of those notices have been complied with.
+
+### 34. Notice of objection
+
+(1) Notice of an objection to an application and any claim for compensation must be in writing and must be sent or delivered to the Tribunal and the applicant so that it is received by the Tribunal within 1 month from the giving of the notices referred to in rule 33(1) (notices to be given).
+
+(2) The notice of objection must be signed and dated and must state—
+
+- (a) the name and address of the objector and, if represented,—
+  - (i) the name and address of the objector's representative; and
+  - (ii) the professional capacity, if any, in which the objector's representative acts;
+- (b) an address where documents for the objector may be sent or delivered;
+- (c) the basis upon which the objector claims to be entitled to the benefit of the restriction;
+- (d) any ground of objection; and
+- (e) whether the objector wants the case to be determined at a hearing.
+
+### 35. Admission of objectors
+
+(1) Within 14 days of receipt of a notice of objection, if the applicant does not accept that the objector is entitled to the benefit of the restriction, the applicant must send or deliver to the Tribunal and the objector a notice stating why the applicant does not accept that the objector is entitled to the benefit of the restriction.
+
+(2) Any objector to whom the applicant does not send or deliver a notice under paragraph (1) shall be admitted to oppose the application.
+
+(3) An objector who receives a notice from the applicant under paragraph (1) must within 14 days send or deliver to the Tribunal and the applicant evidence of their entitlement to the benefit of the restriction.
+
+(4) Within 14 days of receipt of evidence under paragraph (3) the applicant must inform the Tribunal and the objector whether the applicant accepts that the objector is entitled to the benefit of the restriction.
+
+(5) As soon as practical after receipt of a notice under paragraph (4) that the applicant does not accept the evidence of entitlement, but after giving to the applicant and the objector the opportunity to be heard, the Tribunal must determine whether the objector should be admitted to oppose the application and notify the applicant and the objector of its determination.
+
+(6) Where an objector who has not been admitted to oppose the application is dissatisfied with the determination of the Tribunal under paragraph (5) and notifies the Tribunal within 14 days of the date of that determination that the objector has applied to the court under subsection (2) of section 84 to declare who, if anyone, is entitled to enforce the restriction, the Tribunal must stay the proceedings until that application is determined or withdrawn.
+
+(7) Following any declaration made by the court as to who, if anyone, is entitled to enforce the restriction, the Tribunal may set aside a determination made under paragraph (5) and make a new determination.
+
+### 36. Statements of case
+
+If an objector has been admitted to oppose the application, the Tribunal must direct either—
+
+- (a) that the applicant and each objector, within such periods as are stated in the direction, send or deliver to the Tribunal and each other party a statement of case; or
+- (b) that the application and each notice of objection shall stand as the statement of case of the party that made the application or gave such notice.
+
+### 37. Power to direct additional notices
+
+If it appears to the Tribunal at any time before the determination of the application that any person who has not received notice of the application otherwise than by advertisement should have received specific notice, the Tribunal may require the applicant to give notice to that person and give such case management directions as may be appropriate.
+
+### 38. Enquiries of local authorities
+
+If before or at the hearing of an application the Tribunal considers that enquiries should be made at any local authority within whose area the land affected by the restriction is situated, the Tribunal may direct those enquiries to be made and give such case management directions as may be appropriate.
+
+### 39. Orders where compensation is payable
+
+Where the Tribunal orders the discharge or modification of a restriction subject to the payment of compensation—
+
+- (a) the discharge or modification shall not take effect until the Tribunal has endorsed on the order that the compensation has been paid; and
+- (b) the Tribunal may direct that the order shall cease to have effect if the compensation is not paid within a specified time.
+
+## PART 6A — Applications under section 130 or 135 of the Environment Act 2021 (discharge or modification of an obligation under a conservation covenant, and declarations about conservation covenants)[^key-853e887e76710366fc6e79c8a7ac255d]
+
+### 39A. Interpretation
+
+In this Part references to a section or Schedule by number only are to the section or Schedule so numbered in the Environment Act 2021, and “conservation covenant” and “conservation covenant agreement” used in this Part have the meanings given in that Act, and—
+
+- “**application covenant**” means a conservation covenant to which an application relates;
+- “**application land**” means the land to which an application relates;
+- “**landowner**” means a person bound by an obligation under an application covenant;
+- “**relevant obligation**” means the obligation under an application covenant to which an application relates;
+- “**responsible body**” means the responsible body in relation to an application covenant.
+
+### 39B. Method of making application
+
+(1) An application under section 130 or 135 is made by sending or delivering to the Tribunal an application which must be signed and dated and must state—
+
+- (a) the name and address of the applicant and, if represented—
+  - (i) the name and address of the applicant’s representative; and
+  - (ii) the professional capacity, if any, in which the applicant’s representative acts;
+- (b) an address where documents for the applicant may be sent or delivered;
+- (c) the address or description of the application land;
+- (d) whether the applicant is a landowner or a responsible body;
+- (e) the relevant obligation;
+- (f) the name and address of any person who is bound by the relevant obligation, or any person who the applicant believes may be so bound, and the reasons for that belief;
+- (g) if the applicant is a landowner—
+  - (i) the applicant’s interest in the application land;
+  - (ii) the name and address of any other person with an interest in the application land and what is their interest;
+  - (iii) the name and address of the responsible body;
+- (h) if the applicant is applying to discharge or modify the relevant obligation under section 130, details of the discharge or modification sought, and details of the matters in paragraph 3 or 9 of Schedule 18 on which the applicant relies;
+- (i) if the applicant is applying for a declaration under section 135, details of the declaration and the reasons for seeking it.
+
+(2) The applicant must provide with the application—
+
+- (a) a copy of the conservation covenant agreement imposing the application covenant including any attached plan coloured in accordance with the original;
+- (b) a plan identifying the application land; and
+- (c) the fee payable to the Tribunal.
+
+(3) An application may be made jointly by two or more persons if—
+
+- (a) each of those persons is entitled to make an application under section 130 or 135;
+- (b) the application land[^key-38a0589dd4881b9f852151e1b8cd2ab3] is (for each person) the same land or different parts of the same land; and
+- (c) the application covenant is (for each person) the same conservation covenant.
+
+(4) When the Tribunal receives an application under this Part, it must send a copy of the application and any accompanying documents to any person, other than the applicant, that is identified in the application either as landowner or as[^key-10d19325bdcaf91d948b973910be98e0] having an interest in the application land or in other land to which the application relates, or as a responsible body.
+
+### 39C. Notice of objection
+
+(1) Notice of an objection to an application and any claim for compensation must be in writing and must be sent or delivered to the Tribunal and to the applicant, so that it is received by the Tribunal within one month of the date on which the Tribunal sent a copy of the application to the objector.
+
+(2) The notice of objection must be signed and dated and must state—
+
+- (a) the name and address of the objector and, if represented—
+  - (i) the name and address of the objector’s representative; and
+  - (ii) the professional capacity, if any, in which the objector’s representative acts;
+- (b) an address where documents for the objector may be sent or delivered;
+- (c) any ground of objection; and
+- (d) whether the objector wants the case to be determined at a hearing.
+
+(3) After receipt of a notice of objection the Tribunal must give such case management directions as may be appropriate.
+
+### 39D. Orders where compensation is payable
+
+Where the Tribunal orders the discharge or modification of a relevant obligation subject to the payment of compensation—
+
+- (a) the discharge or modification must not take effect until the Tribunal has endorsed on the order that the compensation has been paid; and
+- (b) the Tribunal may direct that the order must cease to have effect if the compensation is not paid within a specified time.
+
+## PART 7 — Applications under section 2 of the Rights of Light Act 1959
+
+### 40. Interpretation
+
+In this Part “**section 2**” means section 2 of the Rights of Light Act 1959.
+
+### 41. Method of making application
+
+(1) An application for a certificate of the Tribunal under section 2 is made by sending or delivering to the Tribunal an application which must be signed and dated and must state—
+
+- (a) the name and address of the applicant;
+- (b) the name and address of the applicant's representative (if any);
+- (c) whether the applicant is—
+  - (i) the owner;
+  - (ii) the tenant for a term of years certain and, if so, when the term will expire; or
+  - (iii) the mortgagee in possession of the servient land;
+- (d) a description of the servient land;
+- (e)[^key-f5dfbf16f3d2d7342365a1c181f2ebcd] whether the relevant register of local land charges is kept by the Chief Land Registrar or the local authority in whose area the dominant building is situated, and if kept by a local authority the name of that local authority;
+- (f) the names and addresses of all persons known by the applicant, after conducting all reasonable enquiries, to be occupying the dominant building or to have a proprietary interest in it; and
+- (g) if the application is for a temporary certificate, the grounds upon which it is claimed that the case is of exceptional urgency.
+
+(2) The applicant must provide with an application under paragraph (1)—
+
+- (a) three copies of the application for the registration of a light obstruction notice under section 2 that the applicant proposes to make [^key-fe942eb8633bd64eb43b4309f925dac2]... and any attached plans; and
+- (b) the fee payable to the Tribunal.
+
+### 42. Notices to be given
+
+(1) Upon receipt of an application the Tribunal must send or deliver written directions to the applicant specifying—
+
+- (a) what notices are to be given to persons who appear to the Tribunal to be likely to be affected by the registration in the register of local land charges of a notice under section 2;
+- (b) the time by which such notices are to be given; and
+- (c) whether such notices should be given by advertisement or otherwise.
+
+(2) The notices that the Tribunal directs shall be given under this rule must be given by the applicant who must—
+
+- (a) as soon as reasonably practicable notify the Tribunal in writing once this has been done; and
+- (b) set out full particulars of the steps taken.
+
+### 43. Issue of temporary certificate
+
+(1) If the Tribunal is satisfied that the case is one of exceptional urgency that requires the immediate registration of a temporary notice in the register of local land charges, the Tribunal shall issue a temporary certificate.
+
+(2) A temporary certificate shall last no longer than 4 months.
+
+### 44. Issue of definitive certificate of adequate notice
+
+The Tribunal shall issue a definitive certificate of adequate notice when it is satisfied that any notices which it has directed must be given under rule 42 (notices to be given) have been given.
+
+## PART 8 — Cases transferred to the Tribunal, including judicial review proceedings[^key-0faa7ade1644e5d91bd3f4b266bc0c54]
+
+### 44A. Transfer from the First-tier Tribunal[^key-26f2b1929361738c167489fadb464da6]
+
+Where a case is transferred by a direction made under rule 25 of the Tribunal Procedure (First-tier Tribunal) (Property Chamber) Rules 2013—
+
+- (a) subject to that direction and to any direction given under rule 45(b) of these Rules, the Tribunal Procedure (First-tier Tribunal) (Property Chamber) Rules 2013 shall continue to apply, with necessary modifications, to the case; and
+- (b) Part 2 of these Rules only applies to the extent provided for by a direction of the Tribunal.
+
+### 45. Proceedings transferred to the Tribunal
+
+When proceedings, including judicial review proceedings, are transferred to the Tribunal, the Tribunal—
+
+- (a) must notify each party in writing that the proceeding have been transferred to the Tribunal; and
+- (b) must give directions as to the future conduct of the proceedings.
+
+## PART 9 — Hearings
+
+### 46. Decision with or without a hearing
+
+(1) Subject to paragraph (2), the Tribunal may make any decision without a hearing.
+
+(2) The Tribunal must have regard to any view expressed by a party when deciding whether to hold a hearing to consider any matter, and the form of any such hearing.
+
+### 47. Notice of hearings
+
+(1) The Tribunal must give each party reasonable notice of the time and place of any hearing and any change to the time and place of the hearing.
+
+(2) The period of notice under paragraph (1) must be at least 14 days except that the Tribunal may give shorter notice—
+
+- (a) with the parties' consent; or
+- (b) in urgent or exceptional cases.
+
+### 48. Public and private hearings
+
+(1) Subject to the following paragraphs, all hearings must be held in public.
+
+(2) Subject to paragraph (6), each party is entitled to attend a hearing.
+
+(3) Except in a compulsory purchase compensation reference, the Tribunal may give a direction that a hearing, or part of it, is to be held in private.
+
+(3A)[^key-a03f779a101503e2faadb3bb2bd285a6] In particular, the Tribunal may direct that a hearing, or part of it, is to be held in private if—
+
+- (a) the Tribunal directs that the proceedings are to be conducted wholly or partly as video proceedings or audio proceedings;
+- (b) it is not reasonably practicable for such a hearing, or such part, to be accessed in a court or tribunal venue by persons who are not parties entitled to participate in the hearing;
+- (c) a media representative is not able to access the proceedings remotely while they are taking place; and
+- (d) such a direction is necessary to secure the proper administration of justice.
+
+(4) If the Tribunal is acting as an arbitrator in a reference by consent under section 1(5) of the 1949 Act, any hearing must be held in private unless the parties agree otherwise.
+
+(5) Where a hearing, or part of it, is to be held in private, the Tribunal may determine who is entitled to attend the hearing or part of it.
+
+(6) The Tribunal may give a direction excluding from any hearing, or part of it, any person whose conduct the Tribunal considers is disrupting or is likely to disrupt the hearing.
+
+(7) The Tribunal may give a direction excluding a witness from a hearing until that witness gives evidence.
+
+(8) In this rule, “**compulsory purchase compensation reference**” means a reference of a question to the Tribunal—
+
+- (a) under section 1 of the 1961 Act;
+- (b) under section 11(4) of the Compulsory Purchase (Vesting Declarations) Act 1981 [^c20565921]; or
+- (c) to which the provisions of section 4 of the 1961 Act apply, with the exception of references—
+  - (i) under section 16(7) of the City of London (Various Powers) Act 1967 [^c20565931];
+  - (ii) under section 307(1) of the Highways Act 1980 [^c20565941]; and
+  - (iii) under regulation 96(2) of the Conservation (Natural Habitats, &c.) Regulations 1994 [^c20565951].
+
+### 48A. Coronavirus temporary rule (recording of remote hearings)[^key-e436044178784f61aa494b4c345e385b]
+
+(1) In the circumstances set out in paragraph (3), the Tribunal must direct that the hearing be recorded, if practicable.
+
+(2) Where the Tribunal has made a direction under paragraph (1), it may direct the manner in which the hearing must be recorded.
+
+(3) The circumstances referred to in paragraph (1) are that the hearing, or part of it, is—
+
+- (a) held in private under rule 48(3A); or
+- (b) only treated as held in public by virtue of a media representative being able to access the proceedings remotely while they are taking place.
+
+(4)[^key-7bfd566889b8e0b96923275b2d2476b1]  On the application of any person, any recording made pursuant to a direction under paragraph (1) is to be accessed with the consent of the Tribunal in such manner as the Tribunal may direct.
+
+### 49. Hearings in a party's absence
+
+If a party fails to attend a hearing, the Tribunal may proceed with the hearing if the Tribunal—
+
+- (a) is satisfied that the party has been notified of the hearing or that reasonable steps have been taken to notify the party of the hearing; and
+- (b) considers that it is in the interests of justice to proceed with the hearing.
+
+## PART 10 — Decisions
+
+### 50. Consent orders
+
+(1) The Tribunal may, at the request of the parties but only if it considers it appropriate, make a consent order disposing of the proceedings and making such other appropriate provision as the parties have agreed.
+
+(2) Notwithstanding any other provision of these Rules, the Tribunal need not hold a hearing before making an order under paragraph (1).
+
+### 51. Decisions
+
+(1) The Tribunal may give a decision orally at a hearing.
+
+(2) The Tribunal must provide to each party as soon as reasonably practicable after making a decision which finally disposes of all issues in the proceedings or a separate or preliminary issue (except a decision under Part 11 (correcting, setting aside, reviewing and appealing decisions of the Tribunal))—
+
+- (a) a decision notice stating the Tribunal's decision; and
+- (b) notification of any rights of review or appeal against the decision and the time and manner in which such rights of review or appeal may be exercised.
+
+(3) The Tribunal must provide written reasons for its decision with a decision notice provided under paragraph (2)(a) unless—
+
+- (a) the decision was made with the consent of the parties; or
+- (b) the parties have consented to the Tribunal not giving written reasons.
+
+(4) The Tribunal may provide written reasons for any decision to which paragraph (2) does not apply.
+
+### 51A. Interest[^key-d33d4e7a70e556d02fd08e4a1521a82d]
+
+(1) Where the decision of the Tribunal provides for a sum to be payable, including a sum awarded in respect of costs of the proceedings before the Tribunal, the provisions listed in paragraph (2) apply, with necessary modifications, as if the proceedings in the Tribunal were proceedings in a court to which those provisions apply.
+
+(2) The provisions to which paragraph (1) refers are—
+
+- (a) section 35A of the Senior Courts Act 1981;
+- (b) section 74 of the County Courts Act 1984;
+- (c) section 17 of the Judgments Act 1838;
+- (d) the County Courts (Interest on Judgment Debts) Order 1991.
+
+## PART 11 — Correcting, setting aside, reviewing and appealing decisions of the Tribunal
+
+### 52. Interpretation
+
+In this Part—
+
+- “**appeal**” means the exercise of a right of appeal under section 13 of the 2007 Act; and
+- “**review**” means the review of a decision by the Tribunal under section 10 of the 2007 Act.
+
+### 53. Clerical mistakes and accidental slips or omissions
+
+The Tribunal may at any time correct any clerical mistake or other accidental slip or omission in a decision or record of a decision by—
+
+- (a) sending notification of the amended decision, or a copy of the amended record, to all parties; and
+- (b) making any necessary amendment to any information published in relation to the decision or record.
+
+### 54. Setting aside a decision which disposes of proceedings
+
+(1) The Tribunal may , on the application of a party or on its own initiative,[^key-d170863ca5f7a169d388f22b2a83881b] set aside a decision which disposes of proceedings, or part of such a decision, and re-make the decision or the relevant part of it, if—
+
+- (a) the Tribunal considers that it is in the interests of justice to do so; and
+- (b) one or more of the conditions in paragraph (2) are satisfied.
+
+(2) The conditions are—
+
+- (a) a document relating to the proceedings was not sent or delivered to, or was not received at an appropriate time by, a party or a party's representative;
+- (b) a document relating to the proceedings was not sent or delivered to the Tribunal at an appropriate time;
+- (c) a party, or a party's representative, was not present at a hearing related to the proceedings; or
+- (d) there has been some other procedural irregularity in the proceedings.
+
+(3) A party applying for a decision or part of a decision to be set aside under paragraph (1) must send a written application to the Tribunal and all other parties so that it is received no later than 1 month after the date on which the Tribunal sent notice of the decision to the party.
+
+(4)[^key-7a46d5c374c27269e9cb40609112393b] If the Tribunal sets aside a decision or part of a decision under this rule, the Tribunal must notify each party in writing as soon as reasonably practicable.
+
+### 55. Application for permission to appeal
+
+(1) A person seeking permission to appeal from the decision of the Tribunal must make a written application to the Tribunal for permission to appeal.
+
+(2) The application must be sent or delivered to the Tribunal so that it is received within 1 month after the latest of the dates on which the Tribunal sent to the person making the application—
+
+- (za)[^key-7802c9f9e9ef36e4b9d2e01a790d3ebe] the relevant decision notice;
+- (a) written reasons for the decision, if the decision disposes of—
+  - (i) all issues in the proceedings; or
+  - (ii) subject to paragraph (2A), a separate or preliminary issue dealt with following a direction under rule 5(3)(e);
+- (b) notification of a decision to award, or refuse to award, costs;
+- (c) notification of amended reasons for, or correction of, the decision following a review;
+- (d) notification that an application for the decision to be set aside has been unsuccessful.
+
+(2A)[^key-ccb81d3bc854b1449f7de584b82a98c0] The Tribunal may direct that the 28 days within which a party may send or deliver to the Tribunal an application for permission to appeal against a decision that disposes of a separate or preliminary issue shall run from the date of the decision that disposes of all issues in the proceedings.
+
+(3) The date in paragraph (2)(b) applies only if the application for costs was made within the time stipulated in rule 10(10)[^key-820ed54282cebe104d5990ba2e08d2ea] (orders for costs).
+
+(4) The date in paragraph (2)(d) applies only if the application for the decision to be set aside was made within the time stipulated in rule 54 (setting aside a decision which disposes of proceedings) or any extension of that time granted by the Tribunal.
+
+(5) If the person seeking permission to appeal provides the application to the Tribunal later than the time required—
+
+- (a) the application must include a request for an extension of time and the reason why the application notice was not provided in time; and
+- (b) unless the Tribunal extends time for the application under rule 5(3)(a) (power to extend time) the Tribunal must refuse the application.
+
+(6) The application must—
+
+- (a) identify the decision of the Tribunal to which it relates;
+- (b) identify the alleged error or errors of law in the decision; and
+- (c) state the result the party making the application is seeking.
+
+### 56. Tribunal's consideration of application for permission to appeal
+
+(1) On receiving an application for permission to appeal the Tribunal may review the decision in accordance with rule 57 (review of a decision), but may only do so if—
+
+- (a) when making the decision the Tribunal overlooked a legislative provision or binding authority which could have had a material effect on the decision; or
+- (b) since the Tribunal's decision, a court has made a decision which is binding on the Tribunal and which, had it been made before the Tribunal's decision, could have had a material effect on the decision.
+
+(2) If the Tribunal decides not to review the decision, or reviews the decision and decides to take no action in relation to the decision or part of it, the Tribunal must consider whether to give permission to appeal in relation to the decision or that part of it.
+
+(3) The Tribunal must send a record of its decision to the parties as soon as practicable.
+
+(4) If the Tribunal refuses permission to appeal it must send with the record of its decision—
+
+- (a) a statement of its reasons for such refusal; and
+- (b) notification of the right to make an application to the relevant appellate court for permission to appeal and the time within which, and the method by which, such application must be made.
+
+(5) The Tribunal may give permission to appeal on limited grounds, but must comply with paragraph (4) in relation to any grounds on which it has refused permission.
+
+### 57. Review of a decision
+
+(1) The Tribunal may only undertake a review of a decision pursuant to rule 56(1) (Tribunal's consideration of application for permission to appeal).
+
+(2) The Tribunal must notify the parties in writing of the outcome of any review and of any rights of review or appeal in relation to the outcome.
+
+(3) If the Tribunal decides to take any action in relation to a decision following a review without first giving every party an opportunity to make representations, the notice under paragraph (2) must state that any party that did not have an opportunity to make representations may apply for such action to be set aside and for the decision to be reviewed again.
+
+### 58. Power to treat an application as a different type of application
+
+The Tribunal may treat an application for a decision to be corrected, set aside or reviewed, or for permission to appeal against the decision, as an application for any other one of those things.
+
+## PART 12 — Revocations and transitional provision
+
+### 59. Revocations
+
+The Lands Tribunal Rules 1996 [^c20565961] are revoked.
+
+### 60. Transitional provision
+
+In proceedings which were started before 29th November 2010, the Tribunal may give any direction to ensure that the proceedings are dealt with fairly and, in particular, may—
+
+- (a) apply any provision of the Lands Tribunal Rules 1996 which applied to the proceedings before 29th November 2010; and
+- (b) disapply provisions of these Rules.
+
+We make these Rules
+
+Paul Walker
+
+Lesley Clare
+
+Bronwyn McKenna
+
+Michael Reed
+
+George Bartlett QC
+
+Douglas J. May
+
+Nicholas Warren
+
+Mark Rowland
+
+I allow these Rules
+
+J Djanogly
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+*(This note is not part of the Rules)*
+
+These Rules replace the Lands Tribunal Rules 1996 (S.I. 1996/1022) as amended. They correspond closely to the Tribunal Procedure (Upper Tribunal) Rules 2008 (S.I. 2008/2698).
+
+Part 1 (introduction) contains interpretation provisions and states the overriding objective applicable to proceedings before the Lands Chamber.
+
+Part 2 (general powers and provisions) covers matters such as case management directions, sanctions for non-compliance, costs orders, representation and evidence.
+
+Part 3 (applications for permission to appeal), Part 4 (appeals), Part 5 (references), Part 6 (applications under section 84 of the Law of Property Act 1925 (discharge or modification of restrictive covenants affecting land)) and Part 7 (applications under section 22 of the Rights of Light Act 1959), cover the time limits and other requirements for starting and responding to different types of proceedings heard in the Lands Chamber.
+
+Part 8 (proceedings, including judicial review proceedings, transferred to the Tribunal) provides for the giving of directions in the event that proceedings that started elsewhere are transferred to the Lands Chamber.
+
+Part 9 (hearings) provides for the manner in which hearings are notified and conducted.
+
+Part 10 (decisions) provides for the manner in which decisions of the Lands Chamber are given and notified.
+
+Part 11 (correcting, setting aside, reviewing and appealing decisions of the Tribunal) relates to certain post-hearing decisions that the Lands Chamber may make in consequence of its main decision on a case.
+
+## Annotations
+
+[^c20565791]: Marginal citation: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15)
+
+[^c20565801]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20). Subsection (3A) of section 84 was inserted by section 28(6) of the [Law of Property Act 1969 (c.59)](https://www.legislation.gov.uk/ukpga/1969/59).
+
+[^c20565811]: Marginal citation: [1959 c. 56](https://www.legislation.gov.uk/ukpga/1959/56)
+
+[^c20565821]: Marginal citation: [1949 c. 42](https://www.legislation.gov.uk/ukpga/1949/42)
+
+[^c20565831]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33)
+
+[^key-3c7fc82ad6e0b463d7f318c3093ea5ed]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/uksi/2010/2600/rule/1/3) inserted (1.11.2022) by [The Tribunal Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/1030)](https://www.legislation.gov.uk/uksi/2022/1030), [rules 1](https://www.legislation.gov.uk/uksi/2022/1030/rule/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2022/1030/rule/6/2/a)
+
+[^key-2692882ed2173469ae95a7db40f37f6b]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/uksi/2010/2600/rule/1/3) substituted (1.11.2022) by [The Tribunal Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/1030)](https://www.legislation.gov.uk/uksi/2022/1030), [rules 1](https://www.legislation.gov.uk/uksi/2022/1030/rule/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2022/1030/rule/6/2/b)
+
+[^c20565841]: Marginal citation: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
+
+[^key-9cc16512204fedac7e36332a447b47ed]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2010/2600/rule/4/1) inserted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [8(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/651/rule/8/2/a/i)
+
+[^key-04d37578aa4c2c2923c04e8e20e22a9d]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2010/2600/rule/4/1) substituted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [8(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/651/rule/8/2/a/ii)
+
+[^key-4ee137dd6a9df4a2ecc3345b6ef670bc]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2010/2600/rule/4/1) inserted (21.7.2020) by [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [8(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/651/rule/8/2/a/iii)
+
+[^key-16e4a7aebbefaaacc51fa7dfa1cfb74d]: Textual amendment: [Rule 4(2)](https://www.legislation.gov.uk/uksi/2010/2600/rule/4/2) omitted (21.7.2020) by virtue of [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/651/rule/8/2/b)
+
+[^key-daf9f5c08602ff7a91f5605473e16795]: Textual amendment: Rule 10 substituted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [3](https://www.legislation.gov.uk/uksi/2013/1188/article/3) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-0045351680dd394ed869baf9f2639af4]: Textual amendment: [Rule 10(6)(aa)](https://www.legislation.gov.uk/uksi/2010/2600/rule/10/6/aa) inserted (6.4.2022) by [The Tribunal Procedure (Amendment) Rules 2022 (S.I. 2022/312)](https://www.legislation.gov.uk/uksi/2022/312), [rules 1](https://www.legislation.gov.uk/uksi/2022/312/rule/1), [4(2)](https://www.legislation.gov.uk/uksi/2022/312/rule/4/2)
+
+[^key-0d2e2476ac00e8576e75e2028c3051c4]: Textual amendment: Rule 10(6)(e)(f) inserted (coming into force in accordance with rule 3 of the amending S.I.) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [24](https://www.legislation.gov.uk/uksi/2017/1168/rule/24)
+
+[^key-e6215d6f82168f571d499e0fe752b178]: Textual amendment: Word in rule 10(6)(e) omitted (14.5.2018) by virtue of [The Tribunal Procedure (Amendment) Rules 2018 (S.I. 2018/511)](https://www.legislation.gov.uk/uksi/2018/511), [rules 1](https://www.legislation.gov.uk/uksi/2018/511/rule/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/511/rule/2/2/a)
+
+[^key-9c6061f69750c4a4b35eb9dc3ef049ce]: Textual amendment: Rule 10(6)(g) and word inserted (14.5.2018) by [The Tribunal Procedure (Amendment) Rules 2018 (S.I. 2018/511)](https://www.legislation.gov.uk/uksi/2018/511), [rules 1](https://www.legislation.gov.uk/uksi/2018/511/rule/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/511/rule/2/2/b)
+
+[^c20565871]: Marginal citation: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29)
+
+[^c20565881]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
+
+[^key-5993333f8811f1e92e59e85ebe4a8a6c]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/uksi/2010/2600/rule/13/1) inserted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/2/a/i)
+
+[^key-3f7fb3b61efc2b68f1631dbf94a889b0]: Textual amendment: Word in [rule 13(1)(b)](https://www.legislation.gov.uk/uksi/2010/2600/rule/13/1/b) omitted (6.4.2023) by virtue of [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/2/a/ii)
+
+[^key-1fce4f837aae304a19b5fcad302a23bb]: Textual amendment: [Rule 13(1)(ba)](https://www.legislation.gov.uk/uksi/2010/2600/rule/13/1/ba) inserted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/2/a/iii)
+
+[^key-7f1a91863e06f4a5175a322eb49036d6]: Textual amendment: [Rule 13(1A)](https://www.legislation.gov.uk/uksi/2010/2600/rule/13/1A) inserted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/2/b)
+
+[^key-316ee8e0c40ef42f48f66afd9db01db1]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2010/2600/rule/13/2) substituted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(2)(c)(i)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/2/c/i)
+
+[^key-41b0a441a03575f97c26985a5ca31c44]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2010/2600/rule/13/2) inserted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/2/c/ii)
+
+[^key-ddceba69342873e034338998f93b537f]: Textual amendment: [Rule 13(2A)](https://www.legislation.gov.uk/uksi/2010/2600/rule/13/2A) inserted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/2/d)
+
+[^key-53361e3c8987f6e59cd637e5396c3742]: Textual amendment: Words in [rule 13(4)](https://www.legislation.gov.uk/uksi/2010/2600/rule/13/4) inserted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(2)(e)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/2/e)
+
+[^key-b8b43c1e213e7e18eefa852f76f5fe6a]: Textual amendment: Words in [rule 20(1)(a)](https://www.legislation.gov.uk/uksi/2010/2600/article/20/1/a) omitted (1.7.2013) by virtue of [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1188/article/4) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-16ef338d1aa3841cad1f9d618db7c52c]: Textual amendment: Words in rule 21(2) inserted (6.4.2014) by [The Tribunal Procedure (Amendment) Rules 2014 (S.I. 2014/514)](https://www.legislation.gov.uk/uksi/2014/514), [rules 1](https://www.legislation.gov.uk/uksi/2014/514/article/1), [15](https://www.legislation.gov.uk/uksi/2014/514/article/15)
+
+[^key-27f50867d5a743074061bacb46a970ff]: Textual amendment: Words in [rule 24(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2010/2600/article/24/4/a/iv) substituted (6.4.2012) by [The Tribunal Procedure (Amendment) Rules 2012 (S.I. 2012/500)](https://www.legislation.gov.uk/uksi/2012/500), [rules 1(2)](https://www.legislation.gov.uk/uksi/2012/500/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2012/500/article/6/2)
+
+[^key-738afd2d7f8c6d33d836de3f1ee7236d]: Textual amendment: [Rule 26A](https://www.legislation.gov.uk/uksi/2010/2600/rule/26A) inserted (coming into force in accordance with rule 3 of the amending S.I.) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [25](https://www.legislation.gov.uk/uksi/2017/1168/rule/25)
+
+[^key-686ac25bcab7210026ab88c7528f6b38]: Textual amendment: Rule 28(3)(bb) inserted (coming into force in accordance with rule 3 of the amending S.I.) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [26(a)(i)](https://www.legislation.gov.uk/uksi/2017/1168/rule/26/a/i)
+
+[^key-db7cd4ef547c92d233294ea4a6fe1cda]: Textual amendment: Rule 28(3)(d) substituted (coming into force in accordance with rule 3 of the amending S.I.) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [26(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1168/rule/26/a/ii)
+
+[^key-27556d1cfedbc779528edf8ac0ba8b39]: Textual amendment: Rule 28(3)(e) substituted (coming into force in accordance with rule 3 of the amending S.I.) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [26(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1168/rule/26/a/iii)
+
+[^key-9c73068bf1a0e9e2d1f190febf8eeb15]: Textual amendment: Words in rule 28(3)(h) inserted (coming into force in accordance with rule 3 of the amending S.I.) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [26(a)(iv)](https://www.legislation.gov.uk/uksi/2017/1168/rule/26/a/iv)
+
+[^c20565891]: Marginal citation: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66)
+
+[^c20565901]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8)
+
+[^c20565911]: Marginal citation: [S.I. 1974/1242](https://www.legislation.gov.uk/uksi/1974/1242)
+
+[^key-a83d4976d1b1c854db01279c76f07f8d]: Textual amendment: Rule 28(7)(d) inserted (6.4.2012) by [The Tribunal Procedure (Amendment) Rules 2012 (S.I. 2012/500)](https://www.legislation.gov.uk/uksi/2012/500), [rules 1(2)](https://www.legislation.gov.uk/uksi/2012/500/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2012/500/article/6/3)
+
+[^key-25e825443f6bb7860cbcccd25f51d29a]: Textual amendment: Rule 28(7)(e) inserted (coming into force in accordance with rule 3 of the amending S.I.) by [The Tribunal Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/1168)](https://www.legislation.gov.uk/uksi/2017/1168), [rules 1](https://www.legislation.gov.uk/uksi/2017/1168/rule/1), [26(b)](https://www.legislation.gov.uk/uksi/2017/1168/rule/26/b)
+
+[^key-65f73ae44f6cd09dedb9a281073a8978]: Textual amendment: Rule 30(f) omitted (1.7.2013) by virtue of [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2013/1188/article/5/a) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-9a9f26cc92b1e094780aa22e1f1b0440]: Textual amendment: Word in rule 30(g) inserted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2013/1188/article/5/b) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-bc4482e04b4ae4aed9ec0dfd02e418bb]: Textual amendment: Full stop in rule 30(h) substituted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2013/1188/article/5/c) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-d34c3357cba8e7bb00b8c92f51fb3281]: Textual amendment: Rule 30(i) omitted (1.7.2013) by virtue of [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [5(d)](https://www.legislation.gov.uk/uksi/2013/1188/article/5/d) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-853e887e76710366fc6e79c8a7ac255d]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2010/2600/part/6A) inserted (1.11.2022) by [The Tribunal Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/1030)](https://www.legislation.gov.uk/uksi/2022/1030), [rules 1](https://www.legislation.gov.uk/uksi/2022/1030/rule/1), [6(3)](https://www.legislation.gov.uk/uksi/2022/1030/rule/6/3)
+
+[^key-38a0589dd4881b9f852151e1b8cd2ab3]: Textual amendment: Word in [rule 39B(3)(b)](https://www.legislation.gov.uk/uksi/2010/2600/rule/39B/3/b) inserted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/3/a)
+
+[^key-10d19325bdcaf91d948b973910be98e0]: Textual amendment: Words in [rule 39B(4)](https://www.legislation.gov.uk/uksi/2010/2600/rule/39B/4) inserted (6.4.2023) by [The Tribunal Procedure (Amendment) Rules 2023 (S.I. 2023/327)](https://www.legislation.gov.uk/uksi/2023/327), [rules 1](https://www.legislation.gov.uk/uksi/2023/327/rule/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2023/327/rule/6/3/b)
+
+[^key-f5dfbf16f3d2d7342365a1c181f2ebcd]: Textual amendment: [Rule 41(1)(e)](https://www.legislation.gov.uk/uksi/2010/2600/rule/41/1/e) substituted (3.6.2019) by [The Tribunal Procedure (Amendment) Rules 2019 (S.I. 2019/925)](https://www.legislation.gov.uk/uksi/2019/925), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/925/rule/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/925/rule/4/2/a)
+
+[^key-fe942eb8633bd64eb43b4309f925dac2]: Textual amendment: Words in [rule 41(2)(a)](https://www.legislation.gov.uk/uksi/2010/2600/rule/41/2/a) omitted (3.6.2019) by virtue of [The Tribunal Procedure (Amendment) Rules 2019 (S.I. 2019/925)](https://www.legislation.gov.uk/uksi/2019/925), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/925/rule/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/925/rule/4/2/b)
+
+[^key-0faa7ade1644e5d91bd3f4b266bc0c54]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2010/2600/part/8) heading substituted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [6](https://www.legislation.gov.uk/uksi/2013/1188/article/6) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-26f2b1929361738c167489fadb464da6]: Textual amendment: Rule 44A inserted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [7](https://www.legislation.gov.uk/uksi/2013/1188/article/7) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-a03f779a101503e2faadb3bb2bd285a6]: Textual amendment: [Rule 48(3A)](https://www.legislation.gov.uk/uksi/2010/2600/rule/48/3A) inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/8/2) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2))
+
+[^c20565921]: Marginal citation: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66)
+
+[^c20565931]: Marginal citation: [1967 c. 42](https://www.legislation.gov.uk/ukpga/1967/42)
+
+[^c20565941]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66)
+
+[^c20565951]: Marginal citation: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716)
+
+[^key-e436044178784f61aa494b4c345e385b]: Textual amendment: Rule 48A inserted (temp.) (10.4.2020) by virtue of [The Tribunal Procedure (Coronavirus) (Amendment) Rules 2020 (S.I. 2020/416)](https://www.legislation.gov.uk/uksi/2020/416), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/416/rule/8/3) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/416/rule/1/2))
+
+[^key-7bfd566889b8e0b96923275b2d2476b1]: Textual amendment: [Rule 48A(4)](https://www.legislation.gov.uk/uksi/2010/2600/rule/48A/4) inserted (temp.) (21.7.2020) by virtue of [The Tribunal Procedure (Amendment) Rules 2020 (S.I. 2020/651)](https://www.legislation.gov.uk/uksi/2020/651), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/651/rule/8/3) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/651/rule/1/2))
+
+[^key-d33d4e7a70e556d02fd08e4a1521a82d]: Textual amendment: [Rule 51A](https://www.legislation.gov.uk/uksi/2010/2600/article/51A) inserted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [8](https://www.legislation.gov.uk/uksi/2013/1188/article/8) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-d170863ca5f7a169d388f22b2a83881b]: Textual amendment: Words in [rule 54(1)](https://www.legislation.gov.uk/uksi/2010/2600/rule/54/1) inserted (30.5.2025) by [The Tribunal Procedure (Amendment) Rules 2025 (S.I. 2025/561)](https://www.legislation.gov.uk/uksi/2025/561), [rules 1](https://www.legislation.gov.uk/uksi/2025/561/rule/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/561/rule/8/2/a)
+
+[^key-7a46d5c374c27269e9cb40609112393b]: Textual amendment: [Rule 54(4)](https://www.legislation.gov.uk/uksi/2010/2600/rule/54/4) inserted (30.5.2025) by [The Tribunal Procedure (Amendment) Rules 2025 (S.I. 2025/561)](https://www.legislation.gov.uk/uksi/2025/561), [rules 1](https://www.legislation.gov.uk/uksi/2025/561/rule/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/561/rule/8/2/b)
+
+[^key-7802c9f9e9ef36e4b9d2e01a790d3ebe]: Textual amendment: Rule 55(2)(za)(a) substituted for rule 55(2)(a) (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2013/1188/article/9/a) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-ccb81d3bc854b1449f7de584b82a98c0]: Textual amendment: Rule 55(2A) inserted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2013/1188/article/9/b) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^key-820ed54282cebe104d5990ba2e08d2ea]: Textual amendment: Words in rule 55(3) substituted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/article/1), [9(c)](https://www.legislation.gov.uk/uksi/2013/1188/article/9/c) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/article/10))
+
+[^c20565961]: Marginal citation: [S.I. 1996/1022](https://www.legislation.gov.uk/uksi/1996/1022), as amended by [S.I. 1997/1965](https://www.legislation.gov.uk/uksi/1997/1965), 1998/22, 2003/2945, 2006/680, 2006/880, 2009/1307 and [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43).

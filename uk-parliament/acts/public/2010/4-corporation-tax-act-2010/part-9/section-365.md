@@ -1,0 +1,45 @@
+---
+title: Corporation Tax Act 2010, section 365
+act: Corporation Tax Act 2010
+section: '365'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/365
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 365
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 365. “Starting value” where plant or machinery originally unqualifying
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if the conditions in subsection (2) are met in relation to a long funding operating lease to which section 363 applies.
+
+(2) The conditions are that—
+
+- (a) the lessor owns the plant or machinery as a result of having incurred expenditure on its provision for purposes other than those of a qualifying activity,
+- (b) the plant or machinery is brought into use by the lessor for the purposes of a qualifying activity on or after 1 April 2006, and
+- (c) that qualifying activity is the leasing of the plant or machinery under the lease.
+
+(3) For the purposes of section 363 the starting value is the lower of—
+
+- (a) first use market value, and
+- (b) first use amortised market value.
+
+(4) “**First use market value**” means the market value of the plant or machinery at the time when it is first brought into use for the purposes of the qualifying activity.
+
+(5) “**First use amortised value**” means the value that the plant or machinery would have at the time when it is first brought into use for the purposes of the qualifying activity on the assumptions in subsection (6).
+
+(6) The assumptions are that—
+
+- (a) the cost of acquiring the plant or machinery had been written off on a straight line basis over its remaining useful economic life, and
+- (b) any further capital expenditure incurred had been written off on a straight line basis over so much of its remaining economic life as remains at the time when the expenditure is incurred.
+
+(7) For the meaning of “qualifying activity”, “remaining useful economic life” and writing off on a straight line basis, see section 381(4), (3)(i) and (5) respectively.

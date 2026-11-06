@@ -1,0 +1,1096 @@
+---
+title: The Environment (Legislative Functions from Directives) (EU Exit) Regulations 2019
+id: uksi/2019/1350
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-10-15'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/1350
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/1350/pdfs/uksiem_20191350_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1350/pdfs/uksi_20191350_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1350/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environment (Legislative Functions from Directives) (EU Exit) Regulations 2019
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 1350
+
+Exiting The European Union
+
+Environmental Protection
+
+Marine Management
+
+Public Sector Information
+
+Water
+
+Water Resources
+
+The Environment (Legislative Functions from Directives) (EU Exit) Regulations 2019
+
+Made
+
+15th October 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23900041].
+
+In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement[^key-53a56dd61826e432f218da9977160e48]
+
+These Regulations may be cited as the Environment (Legislative Functions from Directives) (EU Exit) Regulations 2019 and come into force on exit day.
+
+### 2. Interpretation[^key-315f3e0d1f6480a6b11665811c5346b3]
+
+In these Regulations, “**enactment**” has the meaning given by section 20 of the European Union (Withdrawal) Act 2018.
+
+## PART 2 — Air quality
+
+### CHAPTER 1 — Introductory
+
+#### 3. Interpretation of Part 2: general[^key-271885ac878dffbc6fd1d1626844c48b]
+
+In this Part—
+
+- “**Directive 2004/42/CE**” means Directive 2004/42/CE of the European Parliament and of the Council on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products [^c23900051];
+- “**Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50)**” means Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50) of the European Parliament and of the Council on ambient air quality and cleaner air for Europe [^c23900061];
+- “**Directive 2010/75/EU**” means Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) [^c23900071];
+- “**Directive 2015/2193/EU**” means Directive (EU) 2015/2193 of the European Parliament and of the Council on the limitation of emissions of certain pollutants into the air from medium combustion plants [^c23900081];
+- “**Directive 2016/2284/EU**” means Directive (EU) 2016/2284 of the European Parliament and of the Council on the reduction of national emissions of certain atmospheric pollutants [^c23900091].
+
+#### 4. Meaning of appropriate authority[^key-ecf0a2c8da412da714b2e8898be995b5]
+
+(1) In this Part, “**appropriate authority**” has the meaning given by this regulation.
+
+(2) The “appropriate authority” is—
+
+- (a) for regulations applying in relation to England, the Secretary of State;
+- (b) for regulations applying in relation to Wales, the Welsh Ministers;
+- (c) for regulations applying in relation to Scotland, the Scottish Ministers;
+- (d) for regulations applying in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+(3) But the appropriate authority is the Secretary of State if consent is given by—
+
+- (a) for regulations applying in relation to Wales, the Welsh Ministers;
+- (b) for regulations applying in relation to Scotland, the Scottish Ministers;
+- (c) for regulations applying in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+### CHAPTER 2 — Retention of functions from Directive 2004/42/CE
+
+#### 5. Power to specify format for monitoring data[^key-01a7d74691c3296854461cdb0fc23d99]
+
+(1) The Secretary of State may, by regulations, make provision for or in connection with establishing the format of information to be reported or published for the purpose of regulation 7 of the Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012 [^c23900101].
+
+(2) The provision which may be made under paragraph (1) includes provision amending—
+
+- (a) the Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012;
+- (b) Commission Implementing Decision 2015/6674/EU establishing a common format for the submission of Member State reports on the implementation of Directive [2004/42/EC](https://www.legislation.gov.uk/eudr/2004/42) of the European Parliament and of the Council on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products [^c23900111].
+
+#### 6. Power to update in light of technical progress[^key-15265074792951fd0d6feca7332ee799]
+
+(1) The Secretary of State may, by regulations—
+
+- (a) amend provision in any enactment which corresponds to that made by Annex 3 to Directive 2004/42/CE;
+- (b) make provision requiring (whether by amending an enactment, or otherwise) a reference to Annex 3 to Directive 2004/42/CE (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications.
+
+(2) But the Secretary of State may exercise the power in paragraph (1) only to the extent that the Secretary of State considers that it is appropriate to do so as a result of technical progress.
+
+### CHAPTER 3 — Retention of functions from Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50)
+
+#### 7. Power to amend non-essential elements[^key-92810e9ac5b2da62e884de8bf35e2690]
+
+(1) The appropriate authority may, by regulations—
+
+- (a) amend provision in any enactment which corresponds to that made by a relevant Annex to Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50);
+- (b) make provision requiring (whether by amending an enactment, or otherwise) a reference to a relevant Annex to Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50) (or a reference which encompasses a relevant Annex) to be read as a reference to that Annex with modifications.
+
+(2) But the appropriate authority may not exercise the power in paragraph (1) to the extent that it would result in—
+
+- (a) changes to—
+  - (i) the limit values;
+  - (ii) exposure reduction targets;
+  - (iii) critical levels;
+  - (iv) target values;
+  - (v) information or alert thresholds;
+  - (vi) long-term objectives;
+- (b) any change to a date by which compliance with the matters referred to in sub-paragraph (a) is required.
+
+(3) The relevant Annexes to Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50) are—
+
+- (a) Annex 1 (data quality objectives);
+- (b) Annex 2 (determination of requirements for assessment of concentrations of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM<sub>10</sub> and PM<sub>2.5</sub>), lead, benzene and carbon monoxide in ambient air within a zone or agglomeration);
+- (c) Annex 3 (assessment of ambient air quality and location of sampling points for the measurement of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10 and PM2,5), lead, benzene and carbon monoxide in ambient air);
+- (d) Annex 4 (measurements at rural background locations irrespective of concentration);
+- (e) Annex 5 (criteria for determining minimum number of sampling points for fixed measurement of concentrations of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM<sub>10</sub>, PM<sub>2.5</sub>), lead, benzene and carbon monoxide in ambient air);
+- (f) Annex 6 (reference methods for assessment of concentrations of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM<sub>10</sub> and PM<sub>2.5</sub>), lead, benzene, carbon monoxide, and ozone);
+- (g) Annex 8 (criteria for classifying and locating sampling points for assessments of ozone concentrations);
+- (h) Annex 9 (criteria for determining the minimum number of sampling points for fixed measurement of concentrations of ozone);
+- (i) Annex 10 (measurements of ozone precursor substances);
+- (j) Annex 15 (information to be included in the local, regional or national air quality plans for improvement in ambient air quality).
+
+### CHAPTER 4 — Retention of functions from Directive 2010/75/EU
+
+#### 8. Power to update in light of scientific and technical progress[^key-50495291e09100a5f56e5e7eedb87954]
+
+(1) The appropriate authority may, by regulations—
+
+- (a) amend provision in any enactment which corresponds to that made by a relevant provision of Directive 2010/75/EU;
+- (b) make provision requiring (whether by amending an enactment, or otherwise) a reference to a relevant provision of Directive 2010/75/EU (or a reference which encompasses a relevant provision) to be read as a reference to that provision as modified.
+
+(2) But the appropriate authority may exercise the power in paragraph (1) only to the extent that the appropriate authority considers that it is appropriate to do so as a result of scientific and technical progress.
+
+(3) The relevant provisions of Directive 2010/75/EU are—
+
+- (a) Parts 3 and 4 of Annex 5 (technical provisions relating to combustion plants);
+- (b) Parts 2, 6, 7 and 8 of Annex 6 (technical provisions relating to waste incineration plants and waste co-incineration plants);
+- (c) Parts 5, 6, 7 and 8 of Annex 7 (technical provisions relating to installations and activities using organic solvents).
+
+#### 9. Power to specify rules for determining start-up and shut-down periods[^key-53414277579a72186eaf950ac62dd5fb]
+
+(1) The appropriate authority may, by regulations, make provision for or in connection with the determination of start-up and shut-down periods, as referred to in point 27 of Article 3 and point 1 of Part 4 of Annex 5 to Directive 2010/75/EU, for the purposes of assimilated[^key-c3b6a463134a91cf0a5d1868ade37f02] law which implemented that Directive.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) amending provision which corresponds to that made by point 27 of Article 3 of, or point 1 of Part 4 of Annex 5 to, Directive 2010/75/EU, in so far as it concerns start-up and shut-down periods;
+- (b) requiring a reference to point 27 of Article 3 of, or point 1 of Part 4 of Annex 5 to, Directive 2010/75/EU (or a reference which encompasses either or both of those provisions) to be read as a reference to those provisions with modifications.
+
+(3) Regulations under paragraph (1) may amend any enactment.
+
+#### 10. Power to specify reporting requirements[^key-9299aa5bb659a60cb198e4173d3a2978]
+
+(1) The appropriate authority may, by regulations, make provision—
+
+- (a) concerning the type, format and frequency of information to be prepared by the appropriate authority under Commission Implementing Decision 2018/1135 establishing the type, format and frequency of information to be made available by the Member States for the purposes of reporting on the implementation of Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions [^c23900121];
+- (b) specifying the activities or pollutants for which information is to be prepared in accordance with sub-paragraph (a).
+
+(2) The provision which may be made under paragraph (1) includes provision amending the Decision referred to in paragraph (1)(a).
+
+### CHAPTER 5 — Retention of functions from Directive 2015/2193/EU
+
+#### 11. Power to update in light of scientific and technical progress[^key-fdc933c97018db1d1d7c368ca5517c31]
+
+(1) The appropriate authority may, by regulations—
+
+- (a) amend provision in any enactment which corresponds to that made by point 2 of Part 2 of Annex 3 to Directive 2015/2193/EU;
+- (b) make provision requiring (whether by amending an enactment, or otherwise) a reference to point 2 of Part 2 of Annex 3 to Directive 2015/2193/EU (or a reference encompassing that provision) to be read as a reference to that provision as modified.
+
+(2) But the appropriate authority may exercise the power in paragraph (1) only to the extent that the appropriate authority considers that it is appropriate to do so as a result of scientific and technical progress.
+
+### CHAPTER 6 — Retention of functions from Directive 2016/2284/EU
+
+#### 12. Power to specify detailed rules for the purposes of derogations and the format of the national air pollution control programmes[^key-b145dac50ffc3df083331a61db2732ca]
+
+(1) The Secretary of State may, by regulations, make provision for or in connection with—
+
+- (a) the preparation of an adjusted inventory of emissions in accordance with regulation 4(1) of the National Emission Ceilings Regulations 2018 [^c23900131];
+- (b) exercising a derogation described in regulation 8(2), (3) or (4) of those Regulations;
+- (c) establishing the format of a national air pollution control programme to be prepared or revised in accordance with regulation 9 of those Regulations.
+
+(2) The provision which may be made under paragraph (1) includes provision specifying—
+
+- (a) methods to be employed;
+- (b) factors to be taken into account;
+- (c) requirements for how any information is to be published or otherwise dealt with.
+
+(3) Regulations under paragraph (1) may amend any enactment.
+
+#### 13. Power to update in light of scientific and technical progress[^key-32e99d575661e4189ec7cb48ecbbd87e]
+
+(1) The Secretary of State may, by regulations—
+
+- (a) amend any enactment which makes provision corresponding to a relevant provision of Directive 2016/2284/EU;
+- (b) make provision requiring (whether by amending an enactment, or otherwise) a reference to a relevant provision of Directive 2016/2284/EU (or a reference encompassing a relevant provision) to be read as a reference to that provision with modifications.
+
+(2) But the Secretary of State may only make regulations under paragraph (1)—
+
+- (a) to the extent that the Secretary of State considers that it is appropriate to do so as a result of scientific and technical progress;
+- (b) if doing so is consistent with the framework of the 1979 UNECE Convention on Long-Range Transboundary Air Pollution [^c23900141].
+
+(3) The relevant provisions of Directive 2016/2284/EU are—
+
+- (a) Annex 1 (monitoring and reporting of atmospheric pollutants);
+- (b) Part 2 of Annex 3 (emission reduction measures);
+- (c) Annex 4 (preparation of inventories, reports and adjusted inventories);
+- (d) Annex 5 (optional indicators for monitoring air pollution impacts).
+
+#### 14. Procedure for regulations under Chapter 6[^key-3daf64971860bc90bd99b8ab183d1a81]
+
+(1) The Secretary of State may not make regulations under this Chapter without the consent of—
+
+- (a) in relation to Wales, the Welsh Ministers;
+- (b) in relation to Scotland, the Scottish Ministers;
+- (c) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+(2) Where any of the parties mentioned in paragraph (1)(a) to (c) requests that the Secretary of State make regulations under Chapter 6, the Secretary of State must have regard to that request.
+
+### CHAPTER 7 — Consultation
+
+#### 15. Consultation[^key-a71595891dff3aea49fc7bf81f05b9c6]
+
+Before making any regulations under this Part, the Secretary of State or the appropriate authority (as the case may be) must consult—
+
+- (a) such bodies or persons as appear to the Secretary of State or the appropriate authority to be representative of the interests likely to be substantially affected by the regulations;
+- (b) such other persons as the Secretary of State or the appropriate authority considers appropriate.
+
+## PART 3 — Environmental noise
+
+### 16. Retention of function from Directive [2002/49/EC](https://www.legislation.gov.uk/eudr/2002/49): power to update in light of scientific and technical progress[^key-6dba300f023882b92f48fb450cfe65c3]
+
+(1) The appropriate authority may, by regulations—
+
+- (a) amend any enactment which makes provision corresponding to that made by a relevant provision;
+- (b) make provision requiring (whether by amending an enactment, or otherwise) a reference to a relevant provision in any enactment (or a reference which encompasses a relevant provision) to be read as a reference to that provision with modifications.
+
+(2) But the appropriate authority may exercise the power in paragraph (1) only to the extent that the appropriate authority considers that it is appropriate to do so as a result of scientific and technical progress.
+
+(3) In paragraph (1), “**relevant provision**” means one of the following provisions of Directive [2002/49/EC](https://www.legislation.gov.uk/eudr/2002/49) of the European Parliament and of the Council relating to the assessment and management of environmental noise [^c23900151]—
+
+- (a) point 3 of Annex 1 (supplementary noise indicators);
+- (b) Annex 2 (assessment methods for noise indicators).
+
+(4) In this regulation, “**appropriate authority**” means—
+
+- (a) for regulations applying in relation to England, the Secretary of State;
+- (b) for regulations applying in relation to Wales, the Welsh Ministers;
+- (c) for regulations applying in relation to Scotland, the Scottish Ministers;
+- (d) for regulations applying in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+(5) But the appropriate authority is the Secretary of State if consent is given by—
+
+- (a) for regulations applying in relation to Wales, the Welsh Ministers;
+- (b) for regulations applying in relation to Scotland, the Scottish Ministers;
+- (c) for regulations applying in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+## PART 4 — Infrastructure for spatial information: INSPIRE
+
+### CHAPTER 1 — Introductory
+
+#### 17. Interpretation of Part 4: general[^key-76b4673b5c60224abc32845c6f3a52a1]
+
+(1) In this Part—
+
+- “**the INSPIRE Regulations**” means the INSPIRE Regulations 2009 [^c23900161] or, as the case may be, the INSPIRE (Scotland) Regulations 2009 [^c23900171];
+- “**the Interoperability Implementing Regulation**” means Commission Regulation (EU) No 1089/2010 implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards interoperability of spatial data sets and services;
+- “**the Metadata Implementing Regulation**” means Commission Regulation [(EC) No 1205/2008](https://www.legislation.gov.uk/eur/2008/1205) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards metadata;
+- “**the Monitoring and Reporting Implementing Decision**” means Commission Implementing Decision (EU) 2019/1372[^key-0837043b38a4a4123faba92de55f1d38] implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards monitoring and reporting;
+- “**the Network Services Implementing Regulation**” means Commission Regulation [(EC) No 976/2009](https://www.legislation.gov.uk/eur/2009/976) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards the Network Services;
+- “**infrastructure for spatial information**” means metadata, spatial data sets and spatial data services; network services and technologies; agreements on sharing, access and use; and coordination and monitoring mechanisms, processes and procedures, established, operated or made available in accordance with the INSPIRE Regulations, the Interoperability Implementing Regulation, the Metadata Implementing Regulation, the Monitoring and Reporting Implementing Decision, and the Network Services Implementing Regulation;
+- “**spatial object**” means an abstract representation of a real-world phenomenon related to a specific location or geographical area.
+
+(2) Other terms used in this Part have the meanings given in the INSPIRE Regulations.
+
+#### 18. Meaning of appropriate authority[^key-193232cd19cf4fc678c5bb96532c3dde]
+
+(1) In this Part, “**appropriate authority**” has the meaning given by this regulation.
+
+(2) The “appropriate authority” is—
+
+- (a) for regulations applying in relation to England, Wales or Northern Ireland, the Secretary of State;
+- (b) for regulations applying in relation to Scotland, the Scottish Ministers.
+
+(3) But the appropriate authority is the Secretary of State, in relation to regulations applying in relation to Scotland, if consent is given by the Scottish Ministers.
+
+### CHAPTER 2 — Retention of functions from Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2)
+
+#### 19. Power to make provision in relation to metadata for spatial data sets and services[^key-8f12c50ba7644a1422504d2f5c3d800a]
+
+(1) The appropriate authority may, by regulations, make provision for or in connection with the creation and maintenance of metadata for spatial data sets and spatial data services corresponding to the themes listed in Annexes 1, 2 and 3 to the Metadata Implementing Regulation [^c23900181].
+
+(2) Regulations under paragraph (1) may, in particular, amend the Metadata Implementing Regulation.
+
+(3) In exercising the power under paragraph (1), the appropriate authority must have regard to relevant existing international standards and user requirements, in particular those in relation to validation metadata.
+
+#### 20. Power to make provision in relation to interoperability and harmonisation of spatial data sets and services[^key-a0220213fcd4ba2dd4c87b2cc14aa227]
+
+(1) The appropriate authority may, by regulations, make provision for or in connection with the interoperability and harmonisation of spatial data sets and spatial data services.
+
+(2) Regulations under paragraph (1) may, in particular, amend the Interoperability Implementing Regulation.
+
+(3) In exercising the power under paragraph (1), the appropriate authority must have regard to—
+
+- (a) relevant user requirements,
+- (b) existing initiatives,
+- (c) international standards for the harmonisation of spatial data sets, and
+- (d) feasibility and cost benefit considerations.
+
+(4) Regulations under paragraph (1) must (when taken together with the Interoperability Implementing Regulation)—
+
+- (a) incorporate any standards to ensure the interoperability or harmonisation of spatial data sets and spatial data services which have been adopted by any organisation established under international law;
+- (b) include provision defining and classifying spatial objects relevant to spatial data sets relating to the themes listed in Annex 1, 2 or 3 to the Metadata Implementing Regulation and the way in which those spatial data are geo-referenced;
+- (c) so far as they relate to spatial data sets corresponding to one or more of the themes listed in Annex 1 or 2 to the Metadata Implementing Regulation—
+  - (i) contain provision concerning the matters in paragraph (5),
+  - (ii) ensure consistency between items of information which refer to the same location or between items of information which refer to the same object represented at different scales, and
+  - (iii) ensure that information derived from different spatial data sets is comparable as regards the matters referred to in sub-paragraph (b) and paragraph (5).
+
+(5) The matters are—
+
+- (a) a common framework for the unique identification of spatial objects, to which identifiers can be mapped in order to ensure interoperability between them;
+- (b) the relationship between spatial objects;
+- (c) the key attributes and the corresponding multilingual thesauri commonly required for policies which may have an impact on the environment;
+- (d) information on the temporal dimension of the data;
+- (e) updates of the data.
+
+(6) Before making regulations under this regulation, the appropriate authority must consult such persons with an interest in the spatial data concerned as the appropriate authority considers appropriate.
+
+#### 21. Power to make provision in relation to network services for spatial data sets and services[^key-a5f4a9ff79fa1259768cfbe81275fddd]
+
+(1) The appropriate authority may, by regulations, make provision for or in connection with the establishment and operation of network services for spatial data sets and spatial data services.
+
+(2) Regulations under paragraph (1) may, in particular, amend the Network Services Implementing Regulation.
+
+(3) Regulations under paragraph (1) must (when taken together with the Network Services Implementing Regulation)—
+
+- (a) include provision setting out technical specifications and minimum performance criteria for the network services;
+- (b) include provision about requirements to be met in order to link spatial data sets and spatial data services to the network services.
+
+(4) In exercising the power under paragraph (1), the appropriate authority must have regard to any existing reporting requirements, e-commerce services and technological progress in relation to network services for spatial data sets and spatial data services.
+
+#### 22. Power to make provision in relation to monitoring and reporting of infrastructures for spatial information[^key-a75f381034f347aa4e1d2fafeb67f437]
+
+(1) The appropriate authority may, by regulations, make provision for or in connection with monitoring and reporting by the appropriate authority, on the implementation and use of infrastructures for spatial information.
+
+(2) Regulations under paragraph (1) may, in particular, amend the Monitoring and Reporting Implementing Decision.
+
+(3) Regulations under paragraph (1) must (when taken together with the Monitoring and Reporting Implementing Decision) contain provision about—
+
+- (a) how public sector providers and users of spatial data sets and spatial data services and intermediary bodies are coordinated, the relationship with third parties and the organisation of quality assurance;
+- (b) the contribution made by public authorities (or, as the case may be, Scottish public authorities) or third parties to the functioning and coordination of the infrastructure for spatial information;
+- (c) how the infrastructure for spatial information is used;
+- (d) how public authorities (or, as the case may be, Scottish public authorities) share data;
+- (e) the costs and benefits of the Interoperability Implementing Regulation, the Metadata Implementing Regulation, the Monitoring and Reporting Implementing Decision, the Network Services Implementing Regulation and the INSPIRE Regulations;
+- (f) the publication of reports providing updated information in relation to the items referred to in sub-paragraphs (a) to (e).
+
+## PART 5 — Marine strategy
+
+### 23. Retention of functions from Directive [2008/56/EC](https://www.legislation.gov.uk/eudr/2008/56)[^key-44c7baf2a38b892e49228c13d761d46e]
+
+In the Marine Strategy Regulations 2010 [^c23900191], after regulation 20 insert—
+
+> **PART 6 — Powers to make regulations**
+>
+> **21. Power to lay down standardised methods for monitoring and assessment of the status of the marine environment**
+>
+> The Secretary of State may, by regulations, make provision laying down specifications and standardised methods for monitoring and assessment with the purpose of ensuring comparability of those assessments across the marine strategy area.
+>
+> **22. Power to make provision in relation to ecosystem elements, anthropogenic pressures and human activities, characteristics for setting environmental targets, and monitoring programmes**
+>
+> (1) The Secretary of State may, by regulations, make provision—
+>
+> - (a) specifying indicative lists of ecosystem elements, anthropogenic pressures and human activities relevant to the marine waters (see Annex 3 to the Directive);
+> - (b) specifying an indicative list of characteristics to be taken into account for setting environmental targets (see Annex 4 to the Directive);
+> - (c) specifying requirements for monitoring programmes (see Annex 5 to the Directive).
+>
+> (2) The provision which may be made under paragraph (1) includes—
+>
+> - (a) requiring a reference to a relevant Annex to the Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications;
+> - (b) amending a provision which corresponds to that made by a relevant Annex.
+>
+> (3) Regulations under paragraph (1) may amend any subordinate legislation (which, for the purpose of this regulation, has the meaning given by section 20(1) of the European Union (Withdrawal) Act 2018) or retained direct EU legislation.
+>
+> (4) The Secretary of State may only exercise the power in paragraph (1) to the extent that the Secretary of State considers it appropriate to do so as a result of scientific and technical progress.
+>
+> (5) When exercising the power in paragraph (1) the Secretary of State must take into account the period for review and updating of the marine strategy (or elements of it) developed in accordance with regulation 5 of these Regulations.
+>
+> (6) The relevant Annexes to the Directive are—
+>
+> - (a) Annex 3 (indicative lists of ecosystem elements, anthropogenic pressures and human activities relevant to marine waters);
+> - (b) Annex 4 (indicative list of characteristics to be taken into account for setting environmental targets);
+> - (c) Annex 5 (monitoring programmes).
+>
+> **23. Power to establish standardised methods**
+>
+> The Secretary of State may, by regulations, make provision specifying standardised methods relating to the application of—
+>
+> - (a) any qualitative descriptors for determining good environmental status (see Annex 1 to the Directive);
+> - (b) any ecosystem elements, anthropogenic pressures and human activities relevant to marine waters (see Annex 3 to the Directive);
+> - (c) any characteristics to be taken into account for setting environmental targets (see Annex 4 to the Directive);
+> - (d) any monitoring programmes (see Annex 5 to the Directive).
+>
+> **24. Regulations: general**
+>
+> (1) The Secretary of State may make regulations under this Part in relation to the whole of the marine strategy area.
+>
+> (2) Before making any regulations under this Part, the Secretary of State must obtain the consent of—
+>
+> - (a) for regulations applying in relation to Scotland (which has the meaning given by section 126(1) of the Scotland Act 1998 [^c23900201]), the Scottish Ministers;
+> - (b) for regulations applying in relation to Wales (which has the meaning given by section 158(1) of the Government of Wales Act 2006 [^c23900211]), the Welsh Ministers;
+> - (c) for regulations applying in relation to Northern Ireland (which has the meaning given by section 98(1) of the Northern Ireland Act 1998 [^c23900221]), the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.
+>
+> (3) Before making any regulations under this Part which affect or are likely to affect the exercise of any devolved function, the Secretary of State must obtain the consent of the relevant devolved policy authority.
+>
+> (4) Where any devolved policy authority requests that the Secretary of State make regulations under this Part, the Secretary of State must have regard to that request.
+>
+> **25. Regulations: consultation**
+>
+> (1) Before making any regulations under this Part, the Secretary of State must consult—
+>
+> - (a) the devolved policy authorities;
+> - (b) such bodies or persons as appear to the Secretary of State to be interested in or affected by the making of the regulations, including the OSPAR Commission (the Commission established by Article 10 of the Convention for the Protection of the Marine Environment of the North-East Atlantic) and any other interested organ of an international organisation.
+>
+> (2) After taking any decision following consultation under paragraph (1), the Secretary of State must publish a report in respect of that decision.
+>
+> **26. Regulations: procedure**
+>
+> (1) Any power to make regulations under this Part is exercisable by statutory instrument.
+>
+> (2) A statutory instrument containing regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (3) Regulations made under this Part may—
+>
+> - (a) contain consequential, incidental, supplementary, transitional or saving provision (including provision amending, repealing or revoking enactments or retained direct EU legislation);
+> - (b) make different provision for different purposes.
+
+.
+
+## PART 6 — Water quality
+
+### CHAPTER 1 — Introductory
+
+#### 24. Interpretation of Part 6: general[^key-db6a8186e50a8664715c38459ff8d9e8]
+
+(1) In this Part—
+
+- “**the WEWS Act**” means the Water Environment and Water Services (Scotland) Act 2003 [^c23900231];
+- “**the Sewage Sludge Directive**” means Council Directive [86/278/EEC](https://www.legislation.gov.uk/eudr/1986/278) on the protection of the environment, and in particular of the soil, when sewage sludge is used in agriculture [^c23900241];
+- “**the Urban Waste Water Treatment Directive**” means Council Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271) concerning urban waste water treatment [^c23900251];
+- “**the Nitrates Directive**” means Council Directive [91/676/EEC](https://www.legislation.gov.uk/eudr/1991/676) concerning the protection of waters against pollution caused by nitrates from agricultural sources [^c23900261];
+- “**the Drinking Water Directive**” means Directive [1998/83/EC](https://www.legislation.gov.uk/eudr/1998/83) of the European Parliament and of the Council on the quality of water intended for human consumption [^c23900271];
+- “**the Water Framework Directive**” means Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework in the field of water policy [^c23900281];
+- “**the Bathing Water Directive**” means Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council concerning the management of bathing water quality [^c23900291];
+- “**the Groundwater Directive**” means Directive [2006/118/EC](https://www.legislation.gov.uk/eudr/2006/118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration [^c23900301];
+- “**the EQS Directive**” means Directive [2008/105/EC](https://www.legislation.gov.uk/eudr/2008/105) of the European Parliament and of the Council on environmental quality standards in the field of water policy [^c23900311].
+
+(2) In Chapters 2 and 3, “body of groundwater” and “body of surface water” have the meaning given by the Water Framework Directive.
+
+#### 25. Meaning of appropriate authority[^key-266b98f35e0b651ab7df0d421d8b051c]
+
+(1) In this Part, “**appropriate authority**” has the meaning given by this regulation.
+
+(2) The “appropriate authority” is—
+
+- (a) for regulations applying in relation to England, the Secretary of State;
+- (b) for regulations applying in relation to Wales, the Welsh Ministers;
+- (c) for regulations applying in relation to Scotland, the Scottish Ministers;
+- (d) for regulations applying in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+(3) But the appropriate authority is the Secretary of State if consent is given by—
+
+- (a) for regulations applying in relation to Wales, the Welsh Ministers;
+- (b) for regulations applying in relation to Scotland, the Scottish Ministers;
+- (c) for regulations applying in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs.
+
+#### 26. Meaning of appropriate agency[^key-3cffafbc63c9c6010b051f137c772cb0]
+
+In this Part, except where otherwise specified, the “**appropriate agency**” means—
+
+- (a) for regulations applying in relation to England, the Environment Agency;
+- (b) for regulations applying in relation to Wales, the Natural Resources Body for Wales;
+- (c) for regulations applying in relation to Scotland, the Scottish Environment Protection Agency;
+- (d) for regulations applying in relation to Northern Ireland, the Northern Ireland Environment Agency.
+
+### CHAPTER 2 — Retention of functions from the Water Framework Directive
+
+#### 27. Power to make provision in relation to the economic analysis for river basin districts[^key-3605e1505bb728b6dd39f7a5558e4bca]
+
+(1) The appropriate authority may, by regulations, make provision in relation to the technical specifications for the economic analysis which must be carried out under assimilated[^key-759db819c113809a49a64bf1544f0f79] law which implemented Article 5(1) of the Water Framework Directive.
+
+(2) The provision which may be made under paragraph (1) includes —
+
+- (a) requiring a reference to Annex 3 to the Water Framework Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications;
+- (b) amending provision corresponding to that made by that Annex.
+
+(3) Regulations under paragraph (1) may amend the WEWS Act or any subordinate legislation.
+
+(4) The appropriate authority may exercise the power in paragraph (1) only to the extent that the authority considers it appropriate to do so as a result of scientific and technical progress.
+
+#### 28. Power to make provision in relation to monitoring of water quality[^key-5d65067ed3769b846f6395510dfa503d]
+
+(1) The appropriate authority may, by regulations, make provision, for the purposes of assimilated[^key-0702b45e4445d9ac9a65c1e4c0d1a41a] law which implemented Article 8 of the Water Framework Directive—
+
+- (a) specifying the technical specifications and standardised methods for analysis to be used when undertaking monitoring of the status of bodies of groundwater and surface water;
+- (b) specifying the national or international standards which must be conformed with when carrying out monitoring in bodies of surface water of biological quality elements and physico-chemical parameters.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to Commission Directive [2009/90/EC](https://www.legislation.gov.uk/eudr/2009/90) laying down, pursuant to Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council, technical specifications for chemical analysis and monitoring of water status [^c23900321] to be read as a reference to that Directive with modifications;
+- (b) requiring a reference to paragraph 1.3.6 of Annex 5 to the Water Framework Directive (or a reference which encompasses that paragraph) to be read as a reference to that paragraph with modifications;
+- (c) amending provision corresponding to the provision made by Commission Directive [2009/90/EC](https://www.legislation.gov.uk/eudr/2009/90) or by paragraph 1.3.6 of Annex 5 to the Water Framework Directive.
+
+(3) Regulations under paragraph (1) may amend the WEWS Act or any subordinate legislation.
+
+(4) The appropriate authority may exercise the power in paragraph (1) only to the extent that the authority considers it appropriate to do so as a result of scientific and technical progress.
+
+### CHAPTER 3 — Retention of functions from the Groundwater Directive
+
+#### 29. Power to make provision in relation to groundwater threshold values[^key-39fe6dcec8bee86577ae73af290147a0]
+
+(1) The appropriate authority may, by regulations, make provision—
+
+- (a) about the procedure for establishing threshold values, under assimilated[^key-e65701653d05ff484ebb71a53b09aa01] law which implemented the Groundwater Directive, for pollutants and indicators of pollutants which indicate that a body of groundwater is at risk of failing to achieve good groundwater chemical status;
+- (b) specifying the information relating to threshold values which is to be included in river basin management plans, which may include—
+  - (i) information about bodies of groundwater or groups of such bodies characterised as being at risk;
+  - (ii) the threshold values that have been set and the area to which they apply;
+  - (iii) the methodology for determining background levels;
+  - (iv) information about the groundwater chemical status assessment.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to Part A or Part C of Annex 2 to the Groundwater Directive (or a reference which encompasses that provision) to be read as a reference to that provision with modifications;
+- (b) amending provision corresponding to provision made by Part A or Part C of Annex 2 to the Groundwater Directive.
+
+(3) Regulations under paragraph (1) may amend the WEWS Act or subordinate legislation.
+
+(4) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+(5) In this regulation, “**background levels**” means the concentration of a substance or the value of an indicator in a body of groundwater corresponding to no, or only very minor, anthropogenic alterations to undisturbed conditions.
+
+#### 30. Power to make provision in relation to the procedure for assessing groundwater chemical status[^key-311cde47e9103ba564d1cb01082271fc]
+
+(1) The appropriate authority may, by regulations, make provision, for the purposes of assimilated[^key-f477a17aa57662bd4a4205f2671e813a] law which implemented Article 4(2) of the Groundwater Directive, about the assessment procedure for determining the chemical status of a body of groundwater or a group of such bodies.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to Annex 3 to the Groundwater Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications;
+- (b) amending provision corresponding to that made by Annex 3 to the Groundwater Directive.
+
+(3) Regulations under paragraph (1) may amend the WEWS Act or any subordinate legislation.
+
+(4) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+#### 31. Power to make provision in relation to upward trends in groundwater pollutants[^key-b5924c6043a62b95fe920ef2b79e0096]
+
+(1) The appropriate authority may, by regulations, make provision, for the purposes of assimilated[^key-e44da873feaf3f01cdc8630fcf38aa17] law which implemented Article 5 of the Groundwater Directive—
+
+- (a) about the procedure for identifying significant and sustained upward trends in pollutants (or indicators of pollutants) in bodies of groundwater (or groups of such bodies) that are characterised as being at risk;
+- (b) about the requirements for reversing such trends.
+
+(2) The provision under paragraph (1)(a) may include, in particular, provision about the design of, and technical standards relating to, the monitoring programme for bodies of groundwater.
+
+(3) The provision under paragraph (1)(b) may include, in particular, provision about how the starting point for trend reversal is to be determined, and the monitoring requirements for the purposes of demonstrating trend reversals.
+
+(4) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to Annex 4 to the Groundwater Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications;
+- (b) amending provision corresponding to that made by Annex 4 to the Groundwater Directive.
+
+(5) Regulations under paragraph (1) may amend the WEWS Act or any subordinate legislation.
+
+(6) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+### CHAPTER 4 — Retention of functions from the EQS Directive
+
+#### 32. Power to amend the watch list of substances[^key-11d6a57018bc6fc7d3077cc691a5a112]
+
+(1) The appropriate authority may, by regulations, amend the Annex to Commission Implementing Decision (EU) 2018/840 establishing a watch list of substances for Union-Wide monitoring in the field of water policy pursuant to Directive [2008/105/EC](https://www.legislation.gov.uk/eudr/2008/105) of the European Parliament and of the Council.
+
+(2) The provision which may be made under paragraph (1) is provision—
+
+- (a) adding a substance to or removing a substance from column 1 of the table;
+- (b) amending any of columns 2 to 5;
+- (c) inserting or amending a footnote to the table, or omitting such a footnote.
+
+(3) A substance may only be added to column 1 if the appropriate authority considers that, taking into account new or emerging robust scientific evidence, the available data suggest that the substance may pose a threat to, or via, the aquatic environment in the British Islands or in the rest of Europe.
+
+#### 33. Power to make provision in relation to environmental quality standards for certain metals[^key-3847f721833561c47d9b359cadf6da3d]
+
+(1) The appropriate authority may, by regulations, make provision specifying how the environmental quality standards set by Part A of Annex 1 to the EQS Directive for cadmium, lead, mercury and nickel are to be applied.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to paragraph 3 of Part B of Annex 1 to the EQS Directive (or a reference which encompasses that paragraph) to be read as a reference to that paragraph with modifications;
+- (b) amending provision which corresponds to that made by paragraph 3 of Part B of Annex 1 to the EQS Directive.
+
+(3) Regulations under paragraph (1) may amend the WEWS Act or any subordinate legislation.
+
+(4) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+### CHAPTER 5 — Retention of functions from the Bathing Water Directive
+
+#### 34. Power to specify symbols about bathing waters[^key-1d03a688e811c500b97ae2e17c6a2b62]
+
+(1) The appropriate authority may, by regulations, make provision, for the purposes of assimilated[^key-ffa3420622396bb34fb4bae08a0fd15d] law which implemented Article 12(1)(a) of the Bathing Water Directive, specifying the symbols for—
+
+- (a) information on bathing prohibition or advice against bathing;
+- (b) information on bathing water classification.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) amending Commission Implementing Decision 2011/321/EU establishing, pursuant to Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council, a symbol for information to the public on bathing water classification and any bathing prohibition or advice against bathing;
+- (b) requiring a reference to Article 12(1)(a) of the Bathing Water Directive (or a reference which encompasses that provision) to be read as a reference to that Article with modifications;
+- (c) amending provision which corresponds to that made by Article 12 of the Bathing Water Directive.
+
+(3) Regulations under paragraph (1) may amend any subordinate legislation.
+
+#### 35. Power to specify reference methods of analysis for microbiological methods[^key-fb7d304ef2793fcb104fb92b1ee91e40]
+
+(1) The appropriate authority may, by regulations—
+
+- (a) for the purposes of assimilated[^key-80ebc5603398f21f76314a2924b69932] law which implemented Article 3(9) of the Bathing Water Directive, specify an EN standard [^c23900331] or a standard of the International Organization for Standardization for establishing the equivalence of microbiological methods;
+- (b) for the purposes of assimilated law which implemented Annex 1 to the Bathing Water Directive, specify the reference methods of analysis for intestinal enterococci and *Escherichia coli*.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) amending Commission Decision (EU) 2017/1583 specifying, pursuant to Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council, EN ISO 17994:2014 as the standard on the equivalence of microbiological methods;
+- (b) requiring a reference to Article 3(9) of or Annex 1 to the Bathing Water Directive (or a reference which encompasses either or both of those provisions) to be read as a reference to that Article or Annex with modifications;
+- (c) amending provision which corresponds to that made by Article 3(9) of or Annex 1 to the Bathing Water Directive.
+
+(3) Regulations under paragraph (1) may amend any subordinate legislation.
+
+(4) The appropriate authority may only exercise the power in paragraph (1)(b) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+#### 36. Power to make provision in relation to handling of samples[^key-2ce9cb80638ebe3ffc7401482f7ec520]
+
+(1) The appropriate authority may, by regulations, for the purposes of assimilated[^key-f40e4a65f6cf522bf51b58858658ef94] law which implemented Annex 5 to the Bathing Water Directive, make provision about the handling of samples for microbiological analyses, including provision about the requirements for—
+
+- (a) sampling points;
+- (b) sterilisation of sample bottles;
+- (c) the process of sampling;
+- (d) storage and transport of samples before analysis.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to Annex 5 to the Bathing Water Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications;
+- (b) amending provision which corresponds to that made by Annex 5 to the Bathing Water Directive.
+
+(3) Regulations under paragraph (1) may amend any subordinate legislation.
+
+(4) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers that it is appropriate to do so as a result of scientific and technical progress.
+
+### CHAPTER 6 — Retention of functions from the Drinking Water Directive
+
+#### 37. Power to make provision in relation to monitoring of drinking water[^key-57af408ad9a4bc3c471f4593f412af41]
+
+(1) The appropriate authority may, by regulations, for the purposes of assimilated[^key-61c97ff50dd8ee593275ae4d4cbbcc9e] law which implemented Annexes 2 and 3 to the Drinking Water Directive, make provision for or in connection with the monitoring of water intended for human consumption.
+
+(2) The provision which may be made under paragraph (1) includes specifying—
+
+- (a) the general objectives of and provisions of monitoring programmes for water intended for human consumption;
+- (b) the general framework for monitoring programmes, including the list of parameters and the sampling frequencies;
+- (c) standards for risk assessment;
+- (d) standards for sampling and sampling points;
+- (e) standards for the methods of analysis used for monitoring, including those for microbiological parameters, and the performance characteristics for methods for chemical and indicator parameters.
+
+(3) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to Annex 2 or 3 to the Drinking Water Directive (or a reference which encompasses either of those Annexes) to be read as a reference to those Annexes with modifications;
+- (b) amending provision which corresponds to that made by Annex 2 or 3 to the Drinking Water Directive.
+
+(4) Regulations under paragraph (1) may amend any subordinate legislation.
+
+(5) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+(6) Before making any regulations under paragraph (1), the appropriate authority must consult—
+
+- (a) the appropriate drinking water regulator, and
+- (b) such other persons as the authority considers appropriate.
+
+(7) In this regulation, the “**appropriate drinking water regulator**” means—
+
+- (a) for regulations applying in England, the Chief Inspector of Drinking Water;
+- (b) for regulations applying in Wales, the Chief Inspector of Drinking Water, or the Chief Inspector of Drinking Water for Wales, if different;
+- (c) for regulations applying in Scotland, the Drinking Water Quality Regulator for Scotland;
+- (d) for regulations applying in Northern Ireland, the Drinking Water Inspectorate for Northern Ireland.
+
+### CHAPTER 7 — Retention of functions from the Urban Waste Water Treatment Directive
+
+#### 38. Interpretation of Chapter 7[^key-6ba85f71bfe431b6b139393b460a1479]
+
+In this Chapter—
+
+- “**collecting system**” means a system of conduits which collects and conducts urban waste water;
+- “**domestic waste water**” means waste water from residential settlements and services which originates predominantly from the human metabolism and from household activities;
+- “**industrial waste water**” means any waste water which is discharged from premises used for carrying on any trade or industry, other than domestic waste water and run-off rain water;
+- “**urban waste water**” means domestic waste water or domestic waste water mixed with either or both of industrial waste water and run-off rain water.
+
+#### 39. Power to make provision in relation to requirements of collecting systems[^key-13125879a98b745ea58b53629f5914f6]
+
+(1) The appropriate authority may, by regulations, for the purposes of assimilated[^key-99ebd1f9d50e04ec93e4ea01cb6db030] law which implemented section A of Annex 1 to the Urban Waste Water Treatment Directive, make provision as to the requirements of collecting systems for urban waste water.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to section A of Annex 1 to the Urban Waste Water Treatment Directive (or a reference which encompasses that provision) to be read as a reference to that provision with modifications;
+- (b) amending provision which corresponds to that made by section A of Annex 1 to the Urban Waste Water Treatment Directive.
+
+(3) Regulations under paragraph (1) may amend any subordinate legislation.
+
+#### 40. Power to make provision in relation to requirements for discharges from urban waste water treatment plants[^key-cdeb11c3f3e14b38b368b4a5ebda2a06]
+
+(1) The appropriate authority may, by regulations, for the purposes of assimilated[^key-e8265a997fbbaab4ac947881c5600e29] law which implemented section B of Annex 1 (including Tables 1 and 2) to the Urban Waste Water Treatment Directive, make provision as to the requirements for discharges from urban waste water treatment plants.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to section B of Annex 1 (including Tables 1 and 2) to the Urban Waste Water Treatment Directive (or a reference which encompasses that provision) to be read as a reference to that provision with modifications;
+- (b) amending provision which corresponds to that made by section B of Annex 1 (including Tables 1 and 2) to the Urban Waste Water Treatment Directive.
+
+(3) Regulations under paragraph (1) may amend any subordinate legislation.
+
+#### 41. Power to make provision in relation to requirements for discharges of industrial waste water[^key-87e3389e273bf39c9fdf92fa132d6798]
+
+(1) The appropriate authority may, by regulations, for the purposes of assimilated[^key-76d4730431ac1873de0eb489329a8220] law which implemented section C of Annex 1 to the Urban Waste Water Treatment Directive, make provision as to the requirements for discharges of industrial waste water to collecting systems and urban waste water treatment plants.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to section C of Annex 1 to the Urban Waste Water Treatment Directive (or a reference which encompasses that provision) to be read as a reference to that provision with modifications;
+- (b) amending provision which corresponds to that made by section C of Annex 1 to the Urban Waste Water Treatment Directive.
+
+(3) Regulations under paragraph (1) may amend any subordinate legislation.
+
+### CHAPTER 8 — Retention of functions from the Nitrates Directive
+
+#### 42. Power to specify the criteria for identifying waters[^key-c2fce13bb1aed27fbdff34c2555c228c]
+
+(1) The appropriate authority may, by regulations, for the purposes of assimilated[^key-827d61cacbfc1cf92d6ebf2e5ce08604] law which implemented Annex 1 to the Nitrates Directive, make provision—
+
+- (a) specifying the criteria for identifying waters affected, or which could be affected, by pollution from nitrates from agricultural sources;
+- (b) as to the factors that may be taken into account in applying the criteria.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to Annex 1 to the Nitrates Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications;
+- (b) amending provision which corresponds to that made by Annex 1 to the Nitrates Directive.
+
+(3) Regulations under paragraph (1) may amend any subordinate legislation.
+
+(4) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+#### 43. Power to make provision about action programmes[^key-7f3e4245d742d5b059b23e11a8567e2a]
+
+(1) The appropriate authority may, by regulations, for the purposes of assimilated[^key-a66202631d4dea82e3066833450deb07] law which implemented Annex 3 to the Nitrates Directive, make provision about the measures to be included in programmes of action to reduce pollution of surface freshwaters or groundwater from nitrates from agricultural sources.
+
+(2) In particular, the regulations may make provision as to—
+
+- (a) periods when the application of certain types of fertiliser to land is prohibited;
+- (b) the capacity of storage vessels for manure;
+- (c) other limitations on the application of fertilisers to land, consistent with good agricultural practice;
+- (d) the total amount of livestock manure which may be applied, including provision specifying—
+  - (i) that for each farm or livestock unit the total amount of nitrogen in livestock manure applied to the land each calendar year, whether directly by an animal or by spreading, does not exceed a specified amount per hectare;
+  - (ii) how that amount is to be calculated.
+
+(3) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to Annex 3 to the Nitrates Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications;
+- (b) amending provision which corresponds to that made by Annex 3 to the Nitrates Directive.
+
+(4) Regulations under paragraph (1) may amend any subordinate legislation.
+
+(5) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+#### 44. Power to make provision in relation to reference methods of measurement for nitrate concentration[^key-94724ba2fafa4b35580880d263ba4328]
+
+(1) The appropriate authority may, by regulations, for the purposes of assimilated[^key-cb56dd37be903a105f322f2862c181a3] law which implemented Annex 4 to the Nitrates Directive, make provision about the reference methods of measurement for—
+
+- (a) nitrogen compounds in chemical fertiliser;
+- (b) the concentration of nitrates in freshwaters, coastal waters and marine waters.
+
+(2) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to Annex 4 to the Nitrates Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications;
+- (b) amending provision which corresponds to that made by Annex 4 to the Nitrates Directive.
+
+(3) Regulations under paragraph (1) may amend any subordinate legislation.
+
+(4) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+### CHAPTER 9 — Retention of functions from the Sewage Sludge Directive
+
+#### 45. Power to make provision about the criteria for testing of sludge and agricultural soil[^key-1156db0c6e69f22263ce4a574fd03553]
+
+(1) The appropriate authority may, by regulations, for the purposes of assimilated[^key-77c3be35b7acbf61de3a1b1e8e77821c] law which implemented the Annexes to the Sewage Sludge Directive, make provision about—
+
+- (a) the limit values in sludge and in soil on which sludge is used or on which its use is considered;
+- (b) sludge analysis and information relating to sludge analysis;
+- (c) analysis of soil on which sludge is used or on which its use is considered;
+- (d) reference methods for sampling and analysis of sludge and soil on which it is used.
+
+(2) But regulations under paragraph (1) must not make provision which corresponds to or which has the effect of amending provision corresponding to—
+
+- (a) the parameters and values listed in Annexes 1A, 1B and 1C to the Sewage Sludge Directive;
+- (b) any factors likely to affect the evaluation of those values;
+- (c) the parameters for analysis referred to in Annexes 2A and 2B to the Sewage Sludge Directive.
+
+(3) The provision which may be made under paragraph (1) includes—
+
+- (a) requiring a reference to the Annexes to the Sewage Sludge Directive (or a reference which encompasses those Annexes) to be read as a reference to those Annexes with modifications;
+- (b) amending provision which corresponds to that made by the Annexes to the Sewage Sludge Directive.
+
+(4) Regulations under paragraph (1) may amend any subordinate legislation.
+
+(5) The appropriate authority may only exercise the power in paragraph (1) to the extent that the authority considers it is appropriate to do so as a result of scientific and technical progress.
+
+### CHAPTER 10 — Consultation
+
+#### 46. Requirement to consult[^key-a345ebcea7fddd035afe201a709b91d9]
+
+Before making regulations under this Part, apart from under Chapter 6, the appropriate authority must consult—
+
+- (a) the appropriate agency;
+- (b) such other persons as the authority considers appropriate.
+
+## PART 7 — Regulations
+
+### 47. Procedure[^key-54539beb8d6cb3d9d14fb1cf81263fe0]
+
+(1) Regulations made by the Secretary of State or the Welsh Ministers under these Regulations are to be made by statutory instrument.
+
+(2) For regulations made by the Scottish Ministers under these Regulations, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23900341].
+
+(3) Any power of the Department of Agriculture, Environment and Rural Affairs to make regulations under these Regulations is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 [^c23900351].
+
+(4) A statutory instrument containing regulations made by the Secretary of State under these Regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) A statutory instrument containing regulations made by the Welsh Ministers under these Regulations is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+(6) Regulations made by the Scottish Ministers under these Regulations are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
+
+(7) Regulations made by the Department of Agriculture, Environment and Rural Affairs under these Regulations are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 [^c23900361].
+
+### 48. Power to make consequential etc. provision[^key-c218d394708bf7a619c72aeff8977eed]
+
+Regulations made under these Regulations may—
+
+- (a) contain consequential, incidental, supplementary, transitional or saving provision (including provision amending, repealing or revoking enactments);
+- (b) make different provision for different purposes.
+
+George Eustice
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(b) and (f)) arising from the withdrawal of the UK from the European Union.
+
+The Regulations provide for legislative functions of the European Commission under various environmental Directives to be exercisable instead by a public authority in the United Kingdom.
+
+Part 2 contains functions from Directives relating to air quality.
+
+Part 3 contains a function from the Environmental Noise Directive (Directive [2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council relating to the assessment and management of environmental noise).
+
+Part 4 contains functions from the INSPIRE Directive (Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community).
+
+Part 5 inserts functions from the Marine Strategy Framework Directive (Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council establishing a framework for community action in the field of marine environmental policy) into the Marine Strategy Regulations 2010 (S.I. 2010/1627).
+
+Part 6 contains functions from Directives relating to water quality.
+
+Part 7 contains procedural provisions and other supplementary matters relating to the regulation-making powers.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c23900041]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-53a56dd61826e432f218da9977160e48]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-315f3e0d1f6480a6b11665811c5346b3]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-271885ac878dffbc6fd1d1626844c48b]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900051]: Marginal citation: OJ No L 143, 30.4.2004, p. 87.
+
+[^c23900061]: Marginal citation: OJ No L 152, 11.06.2008, p. 1, as amended by Commission Directive (EU) 2015/1480 (OJ No L 226, 29.8.2015, p. 4).
+
+[^c23900071]: Marginal citation: OJ No L 334, 17.12.2010, p. 17, as corrected by a corrigendum (OJ No L 158, 19.6.2012, p. 25).
+
+[^c23900081]: Marginal citation: OJ No L 313, 28.11.2015, p. 1.
+
+[^c23900091]: Marginal citation: OJ No L 344, 17.12.2016, p. 1.
+
+[^key-ecf0a2c8da412da714b2e8898be995b5]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-01a7d74691c3296854461cdb0fc23d99]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900101]: Marginal citation: [S.I. 2012/1715](https://www.legislation.gov.uk/uksi/2012/1715).
+
+[^c23900111]: Marginal citation: As amended by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407).
+
+[^key-15265074792951fd0d6feca7332ee799]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-92810e9ac5b2da62e884de8bf35e2690]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-50495291e09100a5f56e5e7eedb87954]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-53414277579a72186eaf950ac62dd5fb]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-c3b6a463134a91cf0a5d1868ade37f02]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/9/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/a)
+
+[^key-9299aa5bb659a60cb198e4173d3a2978]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900121]: Marginal citation: As amended by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407).
+
+[^key-fdc933c97018db1d1d7c368ca5517c31]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-b145dac50ffc3df083331a61db2732ca]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900131]: Marginal citation: [S.I. 2018/129](https://www.legislation.gov.uk/uksi/2018/129).
+
+[^key-32e99d575661e4189ec7cb48ecbbd87e]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900141]: Marginal citation: The Convention can be obtained or viewed at the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF or accessed at https://www.unece.org/fileadmin/DAM/env/lrtap/full%20text/1979.CLRTAP.e.pdf
+
+[^key-3daf64971860bc90bd99b8ab183d1a81]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-a71595891dff3aea49fc7bf81f05b9c6]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-6dba300f023882b92f48fb450cfe65c3]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900151]: Marginal citation: OJ No L 189, 18.7.2002, p. 12, as last amended by Commission Directive (EU) 2015/996 (OJ No L 168, 1.7.2015, p. 1).
+
+[^key-76b4673b5c60224abc32845c6f3a52a1]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900161]: Marginal citation: [S.I. 2009/3157](https://www.legislation.gov.uk/uksi/2009/3157), amended by section 211 of, and Schedule 19 to, the [Data Protection Act 2018 (c.12)](https://www.legislation.gov.uk/ukpga/2018/12) and by [S.I. 2012/1672](https://www.legislation.gov.uk/uksi/2012/1672) and 2018/1338.
+
+[^c23900171]: Marginal citation: [S.S.I. 2009/440](https://www.legislation.gov.uk/ssi/2009/440), amended by [S.S.I. 2012/284](https://www.legislation.gov.uk/ssi/2012/284).
+
+[^key-0837043b38a4a4123faba92de55f1d38]: Textual amendment: Words in reg. 17 substituted (31.12.2020 immediately before IP completion day) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1091/regulation/5)
+
+[^key-193232cd19cf4fc678c5bb96532c3dde]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-8f12c50ba7644a1422504d2f5c3d800a]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900181]: Marginal citation: Annexes 1, 2 and 3 were inserted into Commission Regulation (EC) No 1205/2008 by [S.I. 2018/1338](https://www.legislation.gov.uk/uksi/2018/1338).
+
+[^key-a0220213fcd4ba2dd4c87b2cc14aa227]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-a5f4a9ff79fa1259768cfbe81275fddd]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-a75f381034f347aa4e1d2fafeb67f437]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-44c7baf2a38b892e49228c13d761d46e]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900191]: Marginal citation: [S.I. 2010/1627](https://www.legislation.gov.uk/uksi/2010/1627), as amended by [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), 1012, 1013, 2018/287, 942, 1399, 2019/42 and [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323).
+
+[^c23900201]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c23900211]: Marginal citation: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^c23900221]: Marginal citation: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47).
+
+[^key-db6a8186e50a8664715c38459ff8d9e8]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900231]: Marginal citation: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3).
+
+[^c23900241]: Marginal citation: OJ No L 181, 4.7.1986, p. 6, as last amended by Decision (EU) 2018/853 (OJ No L 150, 14.6.2018. p. 155).
+
+[^c23900251]: Marginal citation: OJ No L 135, 30.5.1991, p. 40, as last corrected by a corrigendum (OJ No L 189, 17.7.2005, p. 41).
+
+[^c23900261]: Marginal citation: OJ No L 375, 31.12.1991, p. 1, as last amended by Regulation (EC) No 1137/2008 (OJ No L 311, 21.11.2008, p. 1).
+
+[^c23900271]: Marginal citation: OJ No L 330, 5.12.1998, p. 32, as last amended by Commission Directive 2015/1787/EU (OJ No L 260, 7.10.2015, p. 6).
+
+[^c23900281]: Marginal citation: OJ No L 327, 22.12. 2000, p. 1, as last amended by Commission Directive 2014/101/EU (OJ No L 311, 31.10.2014, p. 32).
+
+[^c23900291]: Marginal citation: OJ No L 64, 4.3.2006, p. 37, as last amended by Council Directive 2013/641/EU (OJ No L 353, 28.12.2013, p. 8).
+
+[^c23900301]: Marginal citation: OJ No L 372, 27.12.2006, p. 19, as last amended by Commission Directive 2014/80/EU (OJ No L 182, 21.6.2014, p. 52).
+
+[^c23900311]: Marginal citation: OJ No L 348, 24.12.2008, p. 84, as last amended by Directive 2013/39/EU (OJ No L 226, 24.8. 2013, p. 1).
+
+[^key-266b98f35e0b651ab7df0d421d8b051c]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-3cffafbc63c9c6010b051f137c772cb0]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-3605e1505bb728b6dd39f7a5558e4bca]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-759db819c113809a49a64bf1544f0f79]: Textual amendment: Word in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/27/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/b)
+
+[^key-5d65067ed3769b846f6395510dfa503d]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-0702b45e4445d9ac9a65c1e4c0d1a41a]: Textual amendment: Word in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/28/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/c)
+
+[^c23900321]: Marginal citation: OJ No L 201, 1.8.2009, p. 36.
+
+[^key-39fe6dcec8bee86577ae73af290147a0]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-e65701653d05ff484ebb71a53b09aa01]: Textual amendment: Word in [reg. 29(1)(a)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/29/1/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/d)
+
+[^key-311cde47e9103ba564d1cb01082271fc]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-f477a17aa57662bd4a4205f2671e813a]: Textual amendment: Word in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/30/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/e)
+
+[^key-b5924c6043a62b95fe920ef2b79e0096]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-e44da873feaf3f01cdc8630fcf38aa17]: Textual amendment: Word in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/31/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/f)
+
+[^key-11d6a57018bc6fc7d3077cc691a5a112]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-3847f721833561c47d9b359cadf6da3d]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-1d03a688e811c500b97ae2e17c6a2b62]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-ffa3420622396bb34fb4bae08a0fd15d]: Textual amendment: Word in [reg. 34(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/34/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(g)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/g)
+
+[^key-fb7d304ef2793fcb104fb92b1ee91e40]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-80ebc5603398f21f76314a2924b69932]: Textual amendment: Word in [reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/35/1/a)[(b)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/35/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(h)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/h)
+
+[^c23900331]: Marginal citation: Copies of the relevant EN standards can be obtained from BSI, 389 Chiswick High Road, London W4 4AL (or by email from cservices@bsigroup.com).
+
+[^key-2ce9cb80638ebe3ffc7401482f7ec520]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-f40e4a65f6cf522bf51b58858658ef94]: Textual amendment: Word in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/36/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/i)
+
+[^key-57af408ad9a4bc3c471f4593f412af41]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-61c97ff50dd8ee593275ae4d4cbbcc9e]: Textual amendment: Word in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/37/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/j)
+
+[^key-6ba85f71bfe431b6b139393b460a1479]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-13125879a98b745ea58b53629f5914f6]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-99ebd1f9d50e04ec93e4ea01cb6db030]: Textual amendment: Word in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/39/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(k)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/k)
+
+[^key-cdeb11c3f3e14b38b368b4a5ebda2a06]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-e8265a997fbbaab4ac947881c5600e29]: Textual amendment: Word in [reg. 40(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/40/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(l)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/l)
+
+[^key-87e3389e273bf39c9fdf92fa132d6798]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-76d4730431ac1873de0eb489329a8220]: Textual amendment: Word in [reg. 41(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/41/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(m)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/m)
+
+[^key-c2fce13bb1aed27fbdff34c2555c228c]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2019/1350/regulation/42) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/1350/regulation/1)
+
+[^key-827d61cacbfc1cf92d6ebf2e5ce08604]: Textual amendment: Word in [reg. 42(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/42/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(n)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/n)
+
+[^key-7f3e4245d742d5b059b23e11a8567e2a]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-a66202631d4dea82e3066833450deb07]: Textual amendment: Word in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/43/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(o)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/o)
+
+[^key-94724ba2fafa4b35580880d263ba4328]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-cb56dd37be903a105f322f2862c181a3]: Textual amendment: Word in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/44/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(p)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/p)
+
+[^key-1156db0c6e69f22263ce4a574fd03553]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-77c3be35b7acbf61de3a1b1e8e77821c]: Textual amendment: Word in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2019/1350/regulation/45/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 44(q)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/44/q)
+
+[^key-a345ebcea7fddd035afe201a709b91d9]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-54539beb8d6cb3d9d14fb1cf81263fe0]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23900341]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
+
+[^c23900351]: Marginal citation: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
+
+[^c23900361]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(6) was amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
+
+[^key-c218d394708bf7a619c72aeff8977eed]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

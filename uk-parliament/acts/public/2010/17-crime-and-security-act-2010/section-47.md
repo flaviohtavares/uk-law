@@ -1,0 +1,34 @@
+---
+title: Crime and Security Act 2010, section 47
+act: Crime and Security Act 2010
+section: '47'
+status: revised-with-pending-changes
+text_date: '2022-04-28'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/17/section/47
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crime and Security Act 2010, section 47
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 47. Introductory
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may make arrangements for making payments to, or in respect of, persons who are injured as a result of an act designated under subsection (2).
+
+(2) The Secretary of State may designate an act under this subsection if—
+
+- (a) it took place outside the United Kingdom,
+- (b) it took place on or after 18 January 2010,
+- (c) in the view of the Secretary of State the act constitutes terrorism within the meaning of the Terrorism Act 2000 (see section 1 of that Act), and
+- (d) having regard to all the circumstances, the Secretary of State considers that it would be appropriate to designate it.
+
+(3) Nothing in this section affects any power of the Secretary of State to make payments to, or in respect of, persons who are injured as a result of terrorism outside the United Kingdom.
+
+(4) In sections 47 to 54, “**injury**” includes fatal injury (and “**injured**” is to be construed accordingly).

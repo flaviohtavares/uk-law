@@ -1,0 +1,58 @@
+---
+title: Local Government and Housing Act 1989, section 110
+act: Local Government and Housing Act 1989
+section: '110'
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1989/42/section/110
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government and Housing Act 1989, section 110
+
+> **Warning: changes not yet applied to this text (36).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
+>
+> Extent: England, Wales, Scotland.
+
+## 110. Landlords.
+
+*Extent: E+W*
+
+**May not be in force at this date. Check the source.**
+
+(1) Subject to section 126 below, this section applies—
+
+- (a) where an application for a grant is accompanied by a certificate ofintended letting with respect to a dwelling and is not a tenant’s application;and
+- (b) where an application for an HMO grant is accompanied by a certificateunder section 106(7) above; and
+- (c) where, by virtue of section 136 below, sections 104 and 106 above do notapply to an application for a grant; and
+- (d) where an application for a grant is a landlord’s common parts application.
+
+(2) Subject to the following provisions of this section and to section 116(5)below, the amount of the grant (if any) shall be such as may be determined bythe local housing authority, having regard to—
+
+- (a) the cost of the relevant works;
+- (b) if the dwelling is currently let or subject to a statutory tenancy, theamount of the rent payable and of any increase which might reasonably beexpected in that rent to take account of the relevant works, when completed;
+- (c) if paragraph (b) above does not apply, the amount of the rent which mightreasonably be expected to be obtained on a letting of the dwelling on the openmarket under an assured tenancy (assuming that no premium is paid); and
+- (d) such other matters as the Secretary of State may direct.
+
+(3) In considering the matters in paragraphs (b) and (c) of subsection (2)above, the local housing authority may seek and act upon the advice of rentofficers; and, for this purpose, in section 121 of the [^c15274581]Housing Act 1988 (additional functions of rent officers) at the endof subsection (1) there shall be added the words “and applications to whichsection 110 of the Local Government and Housing Act 1989 applies".
+
+(4) Where the applicant is a charity or the application is in respect of glebeland, the local housing authority shall also have regard—
+
+- (a) to any obligation or practice on the part of the applicant to letdwellings at a rent less than that which could be obtained on the open market;
+- (b) to any financial resources available to the applicant in addition to therent from the dwelling; and
+- (c) generally to the circumstances of the applicant concerned.
+
+(5) In the case of an application for an HMO grant, in subsections (2) and (4)above, any reference to rent shall be construed as a reference to theaggregate of the consideration under licences or lettings of the house inquestion and any reference to letting a dwelling shall be construedaccordingly.
+
+(6) Where the application is for a grant in respect of the residence house ofan ecclesiastical benefice, paragraphs (b) and (c) of subsection (2) aboveshall not apply and the local housing authority shall also have regard—
+
+- (a) to any financial resources available to the applicant; and
+- (b) generally to the circumstances of the applicant.
+
+(7) In a case where the application is a landlord’s common parts application,each of the dwellings in the building concerned shall be taken into accountunder paragraph (b) or paragraph (c) of subsection (2) above so as todetermine an aggregate rent for the purposes of that subsection.
+
+## Annotations
+
+[^c15274581]: Marginal citation: [1988 c.50](https://www.legislation.gov.uk/ukpga/1988/50).

@@ -1,0 +1,676 @@
+---
+title: The Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012
+id: uksi/2012/1483
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-06-08'
+text_date: '2023-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2012/1483
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1483/pdfs/uksiem_20121483_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1483/pdfs/uksi_20121483_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1483/pdfs/uksi_20121483_280215_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1483/pdfs/uksi_20121483_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1483/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012
+
+> Text as at 2023-04-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2012 No. 1483
+
+Social Security
+
+The Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012
+
+Made
+
+8th June 2012
+
+Laid before Parliament
+
+11th June 2012
+
+Coming into force
+
+2nd July 2012
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 130(2) and (7), 131(1), (3) and (11), 132(8) and 133(1) and (2) of the Welfare Reform Act 2012 [^c2129637].
+
+In respect of provisions in these Regulations relating to housing benefit, the Secretary of State has consulted with organisations appearing to him to be representative of the authorities concerned [^c2129638].
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012 and come into force on 2nd July 2012.
+
+### 2. Interpretation
+
+In these Regulations—
+
+- “**the 2012 Act**” means the Welfare Reform Act 2012;
+- “**the benefit cap**” means the benefit cap (if any) which is provided for in regulations under section 96 of the 2012 Act;
+- “Careers Wales” means the company with the name Career Choices Dewis Gyrfa[^key-732decac81dc9175f35f63f56dd13825] Ltd. which is trading as Careers Wales and which is established by the Welsh Government to provide careers services in Wales under sections 2, 8 and 10 of the Employment and Training Act 1973;
+- “**the Contributions and Benefits Act**” means the Social Security Contributions and Benefits Act 1992 [^c2129639];
+- “council tax reduction scheme”—[^key-2c2020711f9ae172dd93f22d96d5f835]
+  - (a) in England and Wales, has the meaning given in section 13A(9) of the Local Government Finance Act 1992 and (in England) includes a default scheme within the meaning of paragraph 4 of Schedule 1A to that Act and (in Wales) includes a default scheme within the meaning of paragraph 6(1)(e) of Schedule 1B to that Act[^key-1dda3256e30063bb5d093998fcc7589a]; and
+  - (b) in Scotland, means a means-tested reduction to an individual’s council tax liability in accordance with the Council Tax Reduction (Scotland) Regulations 2012 *(Extent: S)* *(affected by repeal, see note)*[^key-b625458ec31155544425586252e3fe6e] Council Tax Reduction (Scotland) Regulations 2021 *(Extent: S)* or the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012;
+- “**disabled person's badge**” means a badge issued under section 21 of the Chronically Sick and Disabled Persons Act 1970 (badges for display on motor vehicles used by disabled persons) [^c2129640];
+- “the healthy start scheme” means the scheme established by the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005;[^key-488803d80b9d6b9141ab419745f1baa3]
+- “**housing benefit**” means housing benefit under section 130 of the Contributions and Benefits Act;
+- “**housing benefit claimant**” means a person who has made a claim for or is in receipt of housing benefit;
+- “**the Housing Benefit Regulations**” means the Housing Benefit Regulations 2006 [^c2129641];
+- “**the Housing Benefit (State Pension Credit) Regulations**” means the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c2129642];
+- “**housing support services**” means—
+- in England, non-statutory assistance;
+- in Wales, services provided under the supporting people programme in Wales;
+- in Scotland, services of a type falling within the Schedule to the Housing (Scotland) Act 2001 (Housing Support Services) Regulations 2002 [^c2129643];
+- “**landlord**” includes a person to whom rent allowance is payable under the Housing Benefit Regulations or regulation 76 of the Housing Benefit (State Pension Credit) Regulations (circumstances in which payment is to be made to a landlord), as the case may require;
+- “local welfare provision” means occasional financial or other assistance given by a local authority, the Scottish Ministers or the Welsh Ministers, or a person authorised to exercise any function of theirs or providing a service to them, to or in respect of individuals for the purpose of—[^key-0feadf88487148bb19377502724f9a42]
+  - (a) meeting, or helping to meet, an immediate short term need—
+    - (i) arising out of an exceptional event or exceptional circumstances; and
+    - (ii) that requires to be met in order to avoid a risk to the well-being of an individual; or
+  - (b) enabling individuals to establish or maintain a settled home, where those individuals have been or, without the assistance, might otherwise be—
+    - (i) in prison, hospital, a residential care establishment or other institution; or
+    - (ii) homeless or otherwise living an unsettled way of life;
+- “**non-statutory assistance**” means assistance provided by a local authority in England, in the form of the funding, planning, monitoring or delivery of housing-related support services for the purpose of enabling people aged 16 or over to overcome barriers to participation in society by assisting such people to live more independently within their home or community, but does not include the grant of a tenancy or the provision of accommodation;
+- “offence relating to a council tax reduction” means—[^key-b18563a8870cd1ae9ff6d2b25f790130]
+  - (a) any criminal offence in connection with the making of an application for a reduction under a council tax reduction scheme;
+  - (b) any criminal offence in connection with the award of a reduction under a council tax reduction scheme;
+  - (c) any criminal offence committed for the purpose of facilitating the commission (whether or not by the same person) of an offence of a kind referred to in paragraph (a) or (b); or
+  - (d) any attempt or conspiracy to commit an offence of a kind referred to in paragraph (a) or (b);
+- “**regulations relating to under-occupation**” means regulations (if any) that have been made under section 130A of the Contributions and Benefits Act [^c2129644] which restrict, by reference to the number of bedrooms in relation to the number of people occupying the dwelling as their home, the amount of housing benefit available to housing benefit claimants whose landlord is a social landlord or local authority;
+- “**rent**” is to be construed in accordance with regulation 2(1) of the Housing Benefit Regulations or regulation 2(1) of the Housing Benefit (State Pension Credit) Regulations, as the case may require;
+- “**residential care**” means—
+  - (a) in England [^key-38a2a2662a85b1b2e9263337ed7d923a]..., the provision of accommodation together with nursing and personal care in a care home as defined in section 3 of the Care Standards Act 2000 [^c2129645];
+  - (b) in Scotland, the provision of accommodation together with nursing, personal care or personal support by a care home service as defined in paragraph 2 of Schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-9bb4ad7c907626ad8bc9789d244b39a4] [^c2129646];
+- “social landlord” means—[^key-0c50df03a0af48908522c4a1decc8d37]
+  - (a) in a case to which the Housing Benefit Regulations apply, a landlord falling within regulation 13C(5)(a)(i), (ii) or (iii) of those Regulations;
+  - (b) in a case to which the Housing Benefit (State Pension Credit) Regulations apply, a landlord falling within regulation 13C(5)(a)(i), (ii) or (iii) of those Regulations;
+  - (c) in a case to which the Universal Credit Regulations 2013 apply, a provider of social housing within the definition given in paragraph 2 of Schedule 4 (housing costs element for renters) to those Regulations;
+- “**the supporting people programme in Wales**” means the programme of assistance provided by local authorities in Wales, in the form of the funding, planning, monitoring or delivery of housing-related support services for the purpose of enabling people aged 16 or over to overcome barriers to participation in society by assisting such people to live more independently within their home or community, other than through the grant of a tenancy or the provision of accommodation;
+- “troubled families programme” means any programme of assistance provided by a local authority[^key-7960c0fd15c0e3921217472a1bf77aad] in England, for the purpose of engaging with households who face multiple disadvantages (such as crime, worklessness, truancy and anti-social behaviour), in the form of the funding, planning, monitoring or delivery of support services which assist members of such households to obtain employment, education or training, improve school attendance, or address crime and anti-social behaviour;
+- “universal credit” means universal credit under Part 1 of the 2012 Act.[^key-7ce11f1f9f61df0f4a0921a3fa6003a7]
+- “universal credit claimant” means a person who has made a claim for or has an award of universal credit;[^key-358a1ebafd0c1f12ce647d6302ed15c6]
+- “universal support initiative” means any initiative under which advice, assistance or support is provided by the Secretary of State or any qualifying persons listed in regulation 10(1)(e) to a universal credit claimant for the purposes of assisting them with—
+  - (a) managing their claim for or award of universal credit, including accessing and using online services, or
+  - (b) managing their financial affairs.
+
+## PART 2 — INFORMATION-SHARING IN RELATION TO PROVISION OF OVERNIGHT CARE ETC. UNDER SECTION 130 OF THE 2012 ACT
+
+### 3. Prescribed information
+
+(1) The information prescribed under section 130(2)(c) of the 2012 Act (information held by a local authority) is—
+
+- (a) whether a resident is meeting in full the cost of the provision to them of residential care and if so the date this commenced and the period over which the cost is intended to be met;
+- (b) whether the local authority is funding or has funded in full or in part the cost of the provision to a resident of residential care and if so—
+  - (i) the date from which the funding commenced and the period covered or intended to be covered by it;
+  - (ii) the date when the funding stopped or is intended to stop;
+  - (iii) the enactment under which the funding is being or was provided;
+  - (iv) whether there exists any agreement enabling the local authority to recover the cost of the funding on the sale of the resident's home and if so, whether that recovery has commenced or when it is intended to commence; and
+  - (v) whether the local authority has entered into a deferred payment agreement with the resident and if so the date this commenced and the period the agreement is intended to cover.
+
+(2) In this regulation—
+
+- (a) “**deferred payment agreement**” has the meaning given in section 55(3) of the Health and Social Care Act 2001 [^c2129649] or (in Scotland) section 6(2) of the Community Care and Health (Scotland) Act 2002 [^c2129650];
+- (b) “**resident**” means a recipient of residential care.
+
+### 4. Prescribed benefits
+
+The benefits prescribed under section 130(7)(d) of the 2012 Act are—
+
+- (a) attendance allowance under section 64 of the Contributions and Benefits Act [^c2129651];
+- (b) disability living allowance under section 71 of the Contributions and Benefits Act [^c2129652]
+- (c) income-based jobseeker's allowance within the meaning given in section 1(4) of the Jobseekers Act 1995 [^c2129653];
+- (d) income-related employment and support allowance payable in accordance with section 1(2)(b) of the Welfare Reform Act 2007 [^c2129654];
+- (e) income support under section 124 of the Contributions and Benefits Act [^c2129655]; [^key-3d8beeaef1403d3d31b291b3b1542bf9]...
+- (f) state pension credit under section 1 of the State Pension Credit Act 2002 [^c2129656]; and[^key-bc59119d8702d5852a938f7b14dd00fb]
+- (g) personal independence payment under Part 4 of the 2012 Act.
+
+## PART 3 — INFORMATION-SHARING IN RELATION TO WELFARE SERVICES OR HOUSING BENEFIT ... UNDER SECTIONS 131 TO 133 OF THE 2012 ACT[^key-e61975ca23d2757ac3ed0febf957f8c3][^key-34df6449d42710f7b886995cf7177599]
+
+### 5. Supply of relevant information by the Secretary of State
+
+(1) The purposes prescribed under section 131(1) of the 2012 Act in relation to welfare services[^key-45bcb3c49a3054e61e00925f2d876d96] (purposes for which the Secretary of State or a person providing services to the Secretary of State may supply relevant information to a qualifying person) are—
+
+- (a)[^key-65d475bffcd494ad9972680c9dbeeff4] determining a person’s eligibility or continued eligibility for—
+  - (i) a disabled person’s badge;
+  - (ii) assistance under the healthy start scheme; or
+  - (iii) local welfare provision;
+- (b) determining whether to make to any person any grant or payment listed in paragraph (2) and if so the amount of any such grant or payment;
+- (c) determining whether a person applying for or receiving a welfare service listed in paragraph (3) is liable to contribute towards the cost of that service and if so the amount of that contribution; [^key-ff7ff96fd29e7d6fb54e4088fd96d43e]...
+- (d)[^key-c8385a151a5731ea2412cc7b49bf35d8] where the qualifying person is a local authority in England—
+  - (i) identifying households eligible for support under a troubled families programme;
+  - (ii) providing appropriate types of advice, support and assistance to members of such households under such programmes; and
+  - (iii) monitoring and evaluating such programmes;
+- (e)[^key-7d930e630d309fdcc2c34c29e597c287] discharging any functions under Part 7 of the Housing Act 1996 or (in Scotland) Part 2 of the Housing (Scotland) Act 1987; [^key-1436b4cb23cd6b6ce84c82ab9da281a6]...
+- (f) identifying, and providing appropriate types of advice, support and assistance to, persons in receipt of a relevant social security benefit who are or may be affected by—
+  - (i) the benefit cap;
+  - (ii) regulations relating to under-occupation.
+- (g)[^key-3f548bcd2d998cbccc43c15136ebec74] where the qualifying person is a social landlord and the relevant information is limited to information referred to in paragraph (3A), determining whether a universal credit claimant, whose award includes or is likely to include a housing costs element in respect of accommodation provided by that social landlord, needs advice, assistance or support in relation to managing their financial affairs;
+- (h) where the qualifying person is listed in regulation 10(1)(e) and the Secretary of State or any qualifying person listed in regulation 10(1)(e) determines that a universal credit claimant needs advice, assistance or support under a universal support initiative—
+  - (i) providing such advice, assistance or support to that person; and
+  - (ii) monitoring and evaluating the provision of such advice, assistance or support.
+
+  ; and[^key-03a2458dcc8b96a2c81a61e4c539ab31]
+- (i) where the qualifying person is Careers Wales—
+  - (i) identifying persons in Wales aged 18 or over but under 25 who are not in employment and not receiving either education or training;
+  - (ii) providing advice, assistance and support to such persons;
+  - (iii) monitoring and evaluating the provision of such advice, assistance and support.
+
+(2) The grants and payments referred to in paragraph (1)(b) are—
+
+- (a) a disability adaptation grant;
+- (b) a disabled facilities grant;
+- (c) a discretionary housing payment.
+
+(3) The welfare services referred to in paragraph (1)(c) are—
+
+- (a) housing support services;
+- (b) the provision of domiciliary care;
+- (c) the provision of residential care.
+
+(3A)[^key-e91b3b7ec248688b8faae367b87ba56c] The information referred to in paragraph (1)(g) is information confirming—
+
+- (a) the identity of the universal credit claimant;
+- (b) that the universal credit claimant has a tenancy with the social landlord;
+- (c) the date on which the universal credit claimant made a claim for or was awarded universal credit; or
+- (d) in a case where universal credit has been awarded to the universal credit claimant—
+  - (i) the date on which the next payment of universal credit is due to be paid;
+  - (ii) whether the next payment is the first payment under the award; or
+  - (iii) the amount of housing costs element in the next payment under the award.
+
+(4) In this regulation—
+
+- (a) “**disability adaptation grant**” means a grant paid under Part 2 of the Housing (Scotland) Act 2006 [^c2129657] to assist with the adaptation of a house for a disabled person to make it suitable for the accommodation, welfare or employment of that person;
+- (b) “**disabled facilities grant**” means a grant paid under Chapter 1 of Part 1 of the Housing Grants, Construction and Regeneration Act 1996 [^c2129658];
+- (c) “**discretionary housing payment**” means a payment made pursuant to regulation 2(1) of the Discretionary Financial Assistance Regulations 2001 [^c2129659];
+- (d) “**domiciliary care**” means care or assistance of any description provided to an adult person by reason of their age, health or any disability, whether provided continuously or not and whether or not provided at a place where they live, but excludes care or assistance provided to a person in residential care.
+- (e)[^key-38e55c67bc6442489339a0395e6de861] “housing costs element” means an amount in respect of housing costs which is included in an award of universal credit under section 11 of the 2012 Act.
+
+### 6. Holding purposes
+
+(1) The purposes prescribed under section 131(3) of the 2012 Act in relation to welfare services[^key-f6e95c425cf949d7ec5b234e702ad8fa] or housing benefit[^key-463a7458fd9e1a8e3a460708e466c545] as purposes for which relevant information must be held by a qualifying person in order for them to use or supply it as set out in that subsection, are any of the following—
+
+- (a)[^key-2d2b7e801506b62b104d8880085d1e6e] determining a person’s eligibility or continued eligibility for—
+  - (i) a disabled person’s badge;
+  - (ii) assistance under the healthy start scheme;
+  - (iii) housing support services; or
+  - (iv) local welfare provision;
+- (b) determining whether to make to any person any grant or payment listed in regulation 5(2) and if so the amount of any such grant or payment;
+- (c) determining whether a person applying for or receiving a welfare service listed in regulation 5(3) is liable to contribute towards the cost of that service and if so the amount of that contribution;
+- (d)[^key-0b25a26c3f841f15d71c7b86ce2ac926] where the qualifying person is a local authority in England, a person providing services to a local authority in England relating to a troubled families programme, or a person who falls within regulation 10(1)(b)—
+  - (i) identifying households eligible for support under a troubled families programme;
+  - (ii) providing appropriate types of advice, support and assistance to members of such households under such programmes; and
+  - (iii) monitoring and evaluating such programmes;
+- (e) discharging any functions under Part 7 of the Housing Act 1996 [^c2129660] or (in Scotland) Part 2 of the Housing (Scotland) Act 1987 [^c2129661];
+- (f) determining whether a person is in receipt of housing benefit;
+- (g) determining the size of a dwelling occupied by a person in receipt of a relevant social security benefit[^key-914b44b3661ddf993824b05b65a410de] and the number of persons occupying that dwelling as their home;
+- (h) identifying persons in receipt of a relevant social security benefit[^key-72cb228f201fa26a791a65fc673f44aa] who are or may be affected by regulations relating to under-occupation, and providing appropriate types of advice, support and assistance to such persons;
+- (i) identifying persons in receipt of a relevant social security benefit who are or may be affected by the benefit cap, and providing appropriate types of advice, support and assistance to such persons;
+- (j) determining the amount of housing benefit payable to a housing benefit claimant by reference to the local housing allowance;
+- (k)[^key-069030d3ffd3e78c037c3a769cb3820d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l) determining whether a person in receipt of a relevant social security benefit is likely to have difficulty in managing their financial affairs;
+- (m) determining the probability that a housing benefit claimant will pay their rent;
+- (n) determining whether the landlord of a housing benefit claimant—
+  - (i) was to provide qualifying welfare services to that housing benefit claimant but has not done so, or
+  - (ii) is to provide qualifying welfare services to that housing benefit claimant but is unlikely to do so;
+- (o) determining whether—
+  - (i) the landlord of a housing benefit claimant is a social landlord,
+  - (ii) a housing benefit claimant occupies as their home a dwelling which is exempt accommodation,
+  - (iii) the tenancy of a housing benefit claimant is an excluded tenancy,
+  - (iv) a housing benefit claimant occupies as their home a houseboat, caravan or mobile home, or
+  - (v) a housing benefit claimant resides in a hostel.
+- (p)[^key-305825d620c03ff9eae915b6539ad75a] identifying the amount of housing costs included in an award of universal credit by reference to the local housing allowance.
+- (q)[^key-257b7cb61f1ddf641589098f4f340e3f] where the qualifying person is listed in regulation 10(1)(e)—
+  - (i) providing advice, assistance or support to a universal credit claimant under a universal support initiative; and
+  - (ii) monitoring and evaluating the provision of such advice, assistance or support.
+- (r)[^key-2e28463fa0d4aa6cb73ed9ebd7d13a51] where the qualifying person is Careers Wales—
+  - (i) identifying persons in Wales aged 18 or over but under 25 who are not in employment and not receiving either education or training;
+  - (ii) providing advice, assistance and support to such persons;
+  - (iii) monitoring and evaluating the provision of such advice, assistance and support.
+
+(2) In this regulation—
+
+- (a) “**excluded tenancy**” means a tenancy of a type falling within any of paragraphs 4 to 11 of Schedule 2 to the Housing Benefit Regulations or paragraphs 4 to 11 of Schedule 2 to the Housing Benefit (State Pension Credit) Regulations, as the case may require;
+- (b) “**exempt accommodation**” has the meaning given in paragraph 4(10) of Schedule 3 to the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 [^c2129663] (transitional and savings provision);
+- (c) “**hostel**” has the meaning given in regulation 2(1) of the Housing Benefit Regulations or regulation 2(1) of the Housing Benefit (State Pension Credit) Regulations, as the case may require;
+- (d) “**local housing allowance**” means an allowance determined in accordance with paragraph 2 of Schedule 3B to the Rent Officers Order;
+- (e) “**Rent Officers Order**” means the Rent Officers (Housing Benefit Functions) Order 1997 [^c2129664] or (in Scotland) the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997 [^c2129665];
+
+### 7. Using purposes connected with welfare services and housing benefit
+
+(1) This regulation applies to relevant information held by a qualifying person for any purpose listed in regulation 6 except the purposes listed in regulation 6(1)(a)(ii), (iv) or (d)[^key-fef37a4a978477b04ff5186fc7ebd08d].
+
+(2) The purposes set out in paragraph (3) are prescribed—
+
+- (a) under section 131(3)(a) of the 2012 Act as purposes for which the information may be used by that qualifying person; and
+- (b) subject to regulation 11, under section 131(3)(b) of the 2012 Act as purposes for use in relation to which the information may be supplied by that qualifying person to another qualifying person.
+
+(3) The purposes are any purposes connected with—
+
+- (a)[^key-f55fe75c5ce53985e1adee8c06498c74] the purposes referred to in regulation 6(1)(a)(i) or (iii), (b), (c), (e), (h) or (i);
+- (b) applying any of the following regulations—
+  - (i) regulation 13C(5) of the Housing Benefit Regulations (cases where a maximum rent (LHA) is not to be determined);
+  - (ii) regulation 96(3) or (3A) of the Housing Benefit Regulations [^c2129666] (circumstances in which payment may be made to a landlord);
+  - (iii) regulation 13C(5) of the Housing Benefit (State Pension Credit) Regulations (cases where a maximum rent (LHA) is not to be determined);
+  - (iv) regulation 77(3) or (3A) of the Housing Benefit (State Pension Credit) Regulations [^c2129667] (circumstances in which payment may be made to a landlord);
+- (c) determining whether the qualifying person who uses the information or to whom it is supplied holds other relevant information about a person in receipt of a relevant social security benefit[^key-4eb8dc24088bfc0be91a5641153139c4] for any purpose prescribed in regulation 6.
+
+### 8. Using purposes connected with a troubled families programme[^key-53760079a3908bd5d05000090093a8b3]
+
+(1) This regulation applies to relevant information held by a qualifying person which is a local authority in England or a person who falls within regulation 10(1)(b)[^key-6ed04eb5f41d5d2d5267ae2e41787daa] for the purpose listed in regulation 6(1)(d)[^key-bf39f44e378e313fa8bd78c719f9ff82] or the purpose listed in regulation 6(1)(i)[^key-92e09741fa1f623fdfbdf78296d6962c].
+
+(2) The purposes set out in paragraph (3) are prescribed—
+
+- (a) under section 131(3)(a) of the 2012 Act as purposes for which the information may be used by that qualifying person; and
+- (b) under section 131(3)(b) of the 2012 Act as purposes for use in relation to which the information may be supplied by that qualifying person to another qualifying person.
+
+(3) The purposes are any purposes connected with a troubled families programme[^key-124764e4e269a370d4b507d3f1fa8785].
+
+(4) This regulation permits relevant information to be supplied to another qualifying person only where that other qualifying person is also a local authority in England or a person who falls within regulation 10(1)(b).[^key-ea5c746b191bf240df2b6097721e0909]
+
+(5)[^key-551b00364f0e77698b0f6a43ccd92e4f] The references in regulations 8(1) and (4) to a local authority in England include references to a person providing services to a local authority in England relating to a troubled families programme.
+
+### 9. Using purposes connected with under-occupation and benefit cap
+
+(1) This regulation applies to relevant information held by a qualifying person for any purpose listed in regulation 6(1)(f)[^key-1b1fcf23bdaa28f68f150d263f1b3d72] to (i).
+
+(2) The purposes set out in paragraph (3) are prescribed—
+
+- (a) under section 131(3)(a) of the 2012 Act as purposes for which the information may be used by that qualifying person; and
+- (b) under section 131(3)(b) of the 2012 Act as purposes for use in relation to which the information may be supplied by that qualifying person to another qualifying person.
+
+(3) The purposes are any purposes connected with—
+
+- (a) identifying persons in receipt of a relevant social security benefit[^key-6049ceb563d42619c75e4e98d99fa4fb] who are or may be affected by regulations relating to under-occupation, and providing appropriate types of advice, support and assistance to such persons;
+- (b) identifying persons in receipt of a relevant social security benefit who are or may be affected by the benefit cap, and providing appropriate types of advice, support and assistance to such persons.
+
+### 9A. Using purposes connected with the healthy start scheme[^key-b9deeed9d0ce9bc1087ef437fb55743f]
+
+(1) This regulation applies to relevant information held by the Secretary of State for Health or by a person providing services to the Secretary of State for Health and Social Care[^key-71d81e869fa54fae524a3d864199db67] , as a qualifying person for the purpose listed in regulation 6(1)(a)(ii).
+
+(2) The purposes set out in paragraph (3) are prescribed—
+
+- (a) under section 131(3)(a) of the 2012 Act as purposes for which the information may be used by that qualifying person; and
+- (b) under section 131(3)(b) of the 2012 Act as purposes for use in relation to which the information may be supplied by that qualifying person to another qualifying person.
+
+(3) The purposes are any purposes connected with the healthy start scheme.
+
+(4) This regulation permits relevant information to be supplied to another qualifying person only where that other qualifying person is the Secretary of State for Health and Social Care[^key-210ea1e7af910a6f7f453b54658a04eb] or a person providing services to the Secretary of State for Health relating to the healthy start scheme.
+
+### 9B. Using purposes connected with local welfare provision
+
+(1) This regulation applies to relevant information held by a qualifying person listed in regulation 10(1)(d) or section 131(11)(a) to (c) of the 2012 Act for the purpose listed in regulation 6(1)(a)(iv).
+
+(2) The purposes set out in paragraph (3) are prescribed—
+
+- (a) under section 131(3)(a) of the 2012 Act as purposes for which the information may be used by a qualifying person; and
+- (b) subject to regulation 11, under section 131(3)(b) of the 2012 Act as purposes for use in relation to which the information may be supplied by that qualifying person to another qualifying person.
+
+(3) The purposes are any purposes connected with local welfare provision.
+
+(4) This regulation permits relevant information to be supplied to another qualifying person only where that other qualifying person is listed in regulation 10(1)(d) or section 131(11)(a) to (c) of the 2012 Act.
+
+### 9C. Using purposes connected with a universal support initiative[^key-02830773baf1e4cbc60d5af0d6c2d930]
+
+(1) This regulation applies to relevant information held by a qualifying person listed in regulation 10(1)(e) for the purposes listed in regulation 6(1)(q).
+
+(2) The purposes set out in paragraph (3) are prescribed—
+
+- (a) under section 131(3)(a) of the 2012 Act as purposes for which the information may be used by that qualifying person; and
+- (b) under section 131(3)(b) of the 2012 Act as purposes for use in relation to which the information may be supplied by that qualifying person to another qualifying person.
+
+(3) The purposes are any purposes connected with—
+
+- (a) providing advice, assistance or support to a universal credit claimant under a universal support initiative; and
+- (b) monitoring and evaluating the provision of such advice, assistance or support.
+
+(4) This regulation permits relevant information to be supplied to another qualifying person only where that other qualifying person is listed in regulation 10(1)(e).
+
+### 10. Qualifying persons[^key-24668e8b215dbe1702ec768e6f067d7b]
+
+(1) The following persons are prescribed as qualifying persons under section 131(11)(g) of the 2012 Act—
+
+- (a) for the purposes of regulations 5(1)(g),[^key-b1bb1a2f3b9c22d81c1df23774fffbd2] 6(1)(f) to (i) and 9, a social landlord;
+- (b) for the purposes of regulations 6(1)(d) and 8, a person who carries out activities in connection with a troubled families programme;
+- (c) for the purposes of regulations 5(1)(a)(ii), 6(1)(a)(ii) and 9A—
+  - (i) the Secretary of State for Health and Social Care[^key-9d2792d579963301b60ddd060e92900c] ;
+  - (ii) a person providing services to the Secretary of State for Health relating to the healthy start scheme;
+- (d) for the purposes of regulations 5(1)(a)(iii), 6(1)(a)(iv) and 9B—
+  - (i) the Scottish Ministers;
+  - (ii) a person authorised to exercise any function of the Scottish Ministers relating to local welfare provision;
+  - (iii) a person providing to the Scottish Ministers services relating to local welfare provision;
+  - (iv) the Welsh Ministers;
+  - (v) a person authorised to exercise any function of the Welsh Ministers relating to local welfare provision;
+  - (vi) a person providing to the Welsh Ministers services relating to local welfare provision.
+- (e)[^key-0b6001d6fe655d0dc9c27fd5776855ce] for the purposes of regulations 5(1)(h), 6(1)(q), 9C, 16(d) and 17(3)(c)—
+  - (i) a person listed in section 131(11)(a), (b) or (c) of the 2012 Act,
+  - (ii) a member of the National Association of Citizens Advice Bureaux or the Scottish Association of Citizens Advice Bureaux,
+  - (iii) a credit union within section 1 of the Credit Unions Act 1979,
+  - (iv) a social landlord,
+  - (v) a charity entered in the register of charities maintained under Part 4 of the Charities Act 2011 or a body entered on the register of charities maintained under the Charities and Trustee Investment (Scotland) Act 2005.
+- (f)[^key-50415f46f9f7957d3d5c41e26217e917] for the purposes of regulations 5(1)(i) and 6(1)(r), Careers Wales.
+
+(2) The provisions of section 132 of the 2012 Act (offence of unlawful disclosure) apply to—
+
+- (a) the qualifying persons listed in paragraph (1) other than the Secretary of State for Health and Social Care[^key-f5258005ee126ef7912fc656942c7b3a] , the Scottish Ministers and the Welsh Ministers; and
+- (b) any person (“A”) associated with a qualifying person listed in paragraph (1)(a), (c)(i), (d)(i) or (iv) by reason of A’s office or employment or otherwise.
+
+### 11. Excepted matters
+
+(1) Regulation 7(2)(b) does not permit relevant information held by a Welsh body or a Scottish body for a purpose listed in regulation 6(1)(a)(i) or (iii)[^key-7af9af8fc7c824aa6dcfc4569653ace0], (b), (c) or (e) to be supplied by that body to another qualifying person for use in relation to the same or any other such purpose.
+
+(1A)[^key-2b5f3a7bbd5897bf4f218a84a35c250d] Regulation 9B(2)(b) does not permit relevant information held by a Welsh body or a Scottish body to be supplied by that body to another qualifying person for use in relation to any purpose connected with local welfare provision.
+
+(2) This regulation does not apply if the information was supplied by, or is derived from information supplied to another person by, the Secretary of State or a person providing services to the Secretary of State or a person engaged in the administration of housing benefit.
+
+## PART 4 — INFORMATION-SHARING IN RELATION TO COUNCIL TAX UNDER SECTIONS 131 TO 133 OF THE 2012 ACT[^key-0519c868639dad92a06006cd68cb3439]
+
+### 12. Supply of relevant information by the Secretary of State
+
+The purposes prescribed under section 131(1) of the 2012 Act in relation to council tax (purposes for which the Secretary of State or a person providing services to the Secretary of State may supply relevant information to a qualifying person) are—
+
+- (a) making a council tax reduction scheme;
+- (b) determining a person’s entitlement or continued entitlement to a reduction under a council tax reduction scheme.
+- (c)[^key-91c1d10eb062eb64641641c594ddb762] preventing, detecting, securing evidence of, or prosecuting the commission of, an offence relating to a council tax reduction.
+
+### 13. Holding purposes
+
+The purposes prescribed under section 131(3) of the 2012 Act in relation to council tax as purposes for which relevant information must be held by a qualifying person in order for them to use or supply it as set out in that subsection, are—
+
+- (a) making a council tax reduction scheme;
+- (b) determining a person’s entitlement or continued entitlement to a reduction under a council tax reduction scheme.
+- (c)[^key-88e0178d7a563444021095ff40fc308c] preventing, detecting, securing evidence of, or prosecuting the commission of, an offence relating to a council tax reduction.
+
+### 14. Using purposes[^key-2583550d94e0821741c8bbdaa036d80c]
+
+(1) This regulation applies to relevant information held by a qualifying person for any purpose listed in regulation 13.
+
+(2) The purposes set out in paragraph (3) are prescribed—
+
+- (a) under section 131(3)(a) of the 2012 Act as purposes for which the information may be used by that qualifying person; and
+- (b) subject to regulation 15, under section 131(3)(b) of the 2012 Act as purposes for use in relation to which the information may be supplied by that qualifying person to another qualifying person.
+
+(3) The purposes are any purposes connected with—
+
+- (a) making a council tax reduction scheme;
+- (b) determining a person’s entitlement or continued entitlement to a reduction under a council tax reduction scheme;
+- (c) preventing, detecting, securing evidence of, or prosecuting the commission of, an offence relating to a council tax reduction;
+- (d) any proceedings in connection with a reduction under a council tax reduction scheme before—
+  - (i) the Valuation Tribunal for England, established under Part 1 of Schedule 11 to the Local Government Finance Act 1988;
+  - (ii) the Valuation Tribunal for Wales, established under Part 2 of Schedule 11 to the Local Government Finance Act 1988; or
+  - (iii)[^key-d29cd6e85db45a381ffc7e5d4500441d] The First-tier Tribunal for Scotland or the Upper Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014;
+- (e) the purposes referred to in regulation 6(1)(a)(i) or (iii), (b) or (c).
+
+### 15. Excepted matters
+
+(1) Subject to paragraph (2), regulation 14 does not permit relevant information held by a Welsh body or a Scottish body to be supplied by that body to another qualifying person for use in relation to that purpose.
+
+(2) Paragraph (1) does not apply if the information was supplied by, or is derived from, information supplied to another person by the Secretary of State (or a person providing services to the Secretary of State) or a person engaged in the administration of housing benefit.
+
+## PART 5 — INFORMATION-SHARING IN RELATION TO SOCIAL SECURITY BENEFITS UNDER SECTION 131(2) OF THE 2012 ACT[^key-e5c7edf7034fc97cd62a4e54ed099868]
+
+### 16. Holding purposes
+
+The purposes prescribed under section 131(2) of the 2012 Act (supply of information to the Secretary of State or service provider for purposes relating to relevant social security benefit) as purposes for which relevant information must be held by a qualifying person in order for them to supply it as set out in that subsection, are any of the following—
+
+- (a) determining whether a person occupies as their home a dwelling which falls within paragraph 4(1)(b) of Schedule 3 to the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006;
+- (b) determining whether a person has, or is likely to have, difficulty in managing their financial affairs;
+- (c) where the qualifying person is a local authority in England—
+  - (i) identifying households eligible for support under a troubled families programme;
+  - (ii) providing appropriate types of advice, support and assistance to members of such households under such programmes; and
+  - (iii) monitoring and evaluating such programmes.
+- (d)[^key-fc49e09c8f7227e5aca142d11c94e121] where the qualifying person is listed in regulation 10(1)(e)—
+  - (i) providing advice, assistance or support to a universal credit claimant under a universal support initiative; and
+  - (ii) monitoring and evaluating the provision of such advice, assistance or support.
+
+### 17. Prescribed purposes relating to a relevant social security benefit
+
+(1) This regulation applies to relevant information held by a qualifying person for any purpose listed in regulation 16.
+
+(2) The purposes set out in paragraph (3) are prescribed under section 131(2) of the 2012 Act as purposes for which the information may be supplied to the Secretary of State or a person providing services to the Secretary of State.
+
+(3) Those purposes are—
+
+- (a) in relation to the purposes prescribed in regulation 16(a) and (b), any purpose connected with the administration of universal credit;
+- (b) in relation to any purpose prescribed in regulation 16(c)—
+  - (i) any purpose connected with providing appropriate types of advice, support and assistance to a person in connection with their receipt of a relevant social security benefit; and
+  - (ii) any purpose connected with monitoring and evaluating the effect of participation in a troubled families programme on receipt of a relevant social security benefit.
+- (c)[^key-d2a092672b7423bee8a8f1dc8bd1df56] in relation to either of the purposes prescribed in regulation 16(d)—
+  - (i) providing advice, assistance or support to a universal credit claimant under a universal support initiative; and
+  - (ii) monitoring and evaluating the provision of such advice, assistance or support.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Steve Webb
+
+Minister of State,
+
+Department for Work and Pensions
+
+*(This note is not part of the Regulations)*
+
+These Regulations, made under sections 130 to 133 of the Welfare Reform Act 2012 (c.5) (“**the 2012 Act**”), prescribe the extent of information-sharing which is permitted under those sections.
+
+Part 1 of these Regulations contains general provisions including definitions in regulation 2.
+
+Part 2 of these Regulations contains provisions made under powers contained in section 130 of the 2012 Act (information-sharing in relation to provision of overnight care etc). Section 130 applies where a local authority holds information as to the provision of overnight care services to an individual, or the date when such provision begins or ends. Regulation 3 extends this to other information relating to overnight care services. Section 130 enables the local authority to use such information, or supply it to another local authority or the Secretary of State (or their service providers or persons exercising functions of a local authority), for purposes relating to the payment of a “relevant benefit”. This is defined in section 130(7) to include universal credit, housing benefit or council tax benefit. Regulation 4 extends this to certain other benefits.
+
+Part 3 of these Regulations contains provisions made under powers contained in sections 131 to 132 of the 2012 Act (information-sharing in relation to welfare services etc).
+
+Section 131(1) allows the Secretary of State (or a person providing services to the Secretary of State) to supply relevant information relating to certain social security benefits or welfare services (defined in section 131(12)) to a “qualifying person”. Regulation 5 prescribes the purposes for which such information may be supplied.
+
+Section 131(3) allows a qualifying person who holds information of this kind for a prescribed purpose to use that information, or supply it to another qualifying person for use in relation to, a prescribed purpose. Regulation 6 prescribes the purposes for which relevant information must be held by a qualifying person in order for them to use or supply it for purposes prescribed in regulations 7 to 9. Regulation 7 prescribes purposes for which local authorities may use or supply relevant information. This includes discharging their homelessness functions and the application of provisions in the Housing Benefit Regulations (defined in regulation 2). Regulation 8 permits the use and supply of relevant information for purposes connected to the troubled families programme (defined in regulation 2). Regulation 9 concerns the use and supply of information by local authorities and social landlords (defined in regulation 2) for purposes connected to regulations relating to the under-occupation of a dwelling or the benefit cap. Regulation 7 is subject to exceptions in regulation 11 relating to Welsh and Scottish bodies as defined in section 131 of the 2012 Act.
+
+“Qualifying person” is defined in section 131(11) as a local authority or an authority which administers housing benefit (or their service providers or persons exercising functions on their behalf). Regulation 10 prescribes that, in addition, a social landlord is a qualifying person for the limited purpose of identifying and assisting housing benefit claimants who may be affected by regulations relating to the under-occupation of a dwelling or the benefit cap (defined in regulation 2). It also applies to them the provisions of section 132 of the 2012 Act, which make it an offence to disclose without lawful authority personal information obtained by virtue of section 131(1), (3) or (4).
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c2129637]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5). Section 133(1) is an interpretation provision and is cited for the meaning of the word “prescribed”.
+
+[^c2129638]: Marginal citation: See section 176(1) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5). Section 176(1)(a) is amended by paragraph 23 of Schedule 9 to the [Local Government Finance Act 1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^key-732decac81dc9175f35f63f56dd13825]: Textual amendment: Reg. 2A inserted (15.11.2017) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2017 (S.I. 2017/1016)](https://www.legislation.gov.uk/uksi/2017/1016), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1016/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1016/regulation/2/2/b)
+
+[^c2129639]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-2c2020711f9ae172dd93f22d96d5f835]: Textual amendment: Words in reg. 2 inserted (11.2.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2013 (S.I. 2013/41)](https://www.legislation.gov.uk/uksi/2013/41), [regs. 1](https://www.legislation.gov.uk/uksi/2013/41/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/41/regulation/2/2)
+
+[^key-1dda3256e30063bb5d093998fcc7589a]: Textual amendment: Words in reg. 2 added (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/2/a)
+
+[^key-b625458ec31155544425586252e3fe6e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1483/regulation/2) substituted (S.) (with application in accordance with reg. 2 of the amending S.S.I.) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 5 para. 5(2)](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/5/2) (with [regs. 97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+
+[^c2129640]: Marginal citation: [1970 c.44](https://www.legislation.gov.uk/ukpga/1970/44); section 21 was amended by Schedule 30 to the [Local Government Act 1972 (c.70)](https://www.legislation.gov.uk/ukpga/1972/70), [section 68](https://www.legislation.gov.uk/ukpga/1972/70/section/68) of the [Transport Act 1982 (c.49)](https://www.legislation.gov.uk/ukpga/1982/49), [paragraph 35](https://www.legislation.gov.uk/ukpga/1982/49/paragraph/35) of Schedule 13 and paragraph 1 of Schedule 8 to the [Road Traffic Regulation Act 1984 (c.27)](https://www.legislation.gov.uk/ukpga/1984/27), [paragraph 8](https://www.legislation.gov.uk/ukpga/1984/27/paragraph/8) of Schedule 10 and Schedule 18 to the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19), [paragraph 86](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/86) of Schedule 13 to the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), [section 73](https://www.legislation.gov.uk/ukpga/1994/39/section/73) of the Transport (Scotland) Act 2001 (asp.2), section 94 of the [Traffic Management Act 2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18), [paragraph 41](https://www.legislation.gov.uk/ukpga/2004/18/paragraph/41) of part 2 of Schedule 1 to the [Disability Discrimination Act 2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13), [section 49](https://www.legislation.gov.uk/ukpga/2005/13/section/49) of the Transport (Scotland) Act 2005 (asp.12), and paragraph 2 of Schedule 8 to the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^key-488803d80b9d6b9141ab419745f1baa3]: Textual amendment: Words in reg. 2 inserted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/2/b)
+
+[^c2129641]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
+
+[^c2129642]: Marginal citation: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
+
+[^c2129643]: Marginal citation: [S.S.I. 2002/444](https://www.legislation.gov.uk/ssi/2002/444).
+
+[^key-0feadf88487148bb19377502724f9a42]: Textual amendment: Words in reg. 2 inserted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/2/c)
+
+[^key-b18563a8870cd1ae9ff6d2b25f790130]: Textual amendment: Words in reg. 2 inserted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/2/d)
+
+[^c2129644]: Marginal citation: Section 130A is inserted by section 30(2) of the Welfare Reform Act 2007 and amended by section 69 of the 2012 Act.
+
+[^key-38a2a2662a85b1b2e9263337ed7d923a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1483/regulation/2) omitted (2.4.2018) by virtue of [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2018/228/regulation/12/2/a)
+
+[^c2129645]: Marginal citation: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 is amended by paragraph 4 of Schedule 5 to the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^key-9bb4ad7c907626ad8bc9789d244b39a4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1483/regulation/2) inserted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2018/228/regulation/12/2/b)
+
+[^c2129646]: Marginal citation: 2010 asp.8.
+
+[^key-0c50df03a0af48908522c4a1decc8d37]: Textual amendment: Words in reg. 2 substituted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/2/a)
+
+[^key-7960c0fd15c0e3921217472a1bf77aad]: Textual amendment: Words in reg. 2 substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/2/e)
+
+[^key-7ce11f1f9f61df0f4a0921a3fa6003a7]: Textual amendment: Words in reg. 2 inserted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(2)(f)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/2/f)
+
+[^key-358a1ebafd0c1f12ce647d6302ed15c6]: Textual amendment: Words in reg. 2 inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/2/b)
+
+[^c2129649]: Marginal citation: [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15).
+
+[^c2129650]: Marginal citation: 2002 asp. 5.
+
+[^c2129651]: Marginal citation: Section 64 is amended by section 66(1) of the Welfare Reform & [Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^c2129652]: Marginal citation: Section 71 is amended by section 67(1) of the Welfare Reform and Pensions Act 1999.
+
+[^c2129653]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18). The definition is amended by Schedule 7 to the Welfare Reform and Pensions Act 1999.
+
+[^c2129654]: Marginal citation: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^c2129655]: Marginal citation: Section 124 is amended by section 41(4) and (5) of, and paragraph 30 of Schedule 2 and Schedule 3, to the [Jobseekers Act 1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18), [section 70](https://www.legislation.gov.uk/ukpga/1995/18/section/70) of, and paragraph 28 of Part IV of Schedule 8 to, the Welfare Reform and Pensions Act 1999, sections 14 and 21 of, and paragraphs 1, 2(1), (2) and (3) of Part 1 of Schedule 2 and Schedule 3 to, the [State Pension Credit Act 2002 (c.16)](https://www.legislation.gov.uk/ukpga/2002/16), [section 254(1)](https://www.legislation.gov.uk/ukpga/2002/16/section/254/1) of, and paragraph 42 of Part 3 of Schedule 24 to, the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), [sections 28(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/28/1) and 67 of, and paragraph 9(1), (9) and (10) of Schedule 3 and Schedule 8 to, the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^key-3d8beeaef1403d3d31b291b3b1542bf9]: Textual amendment: Word in reg. 4(e) omitted (8.4.2013) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 48(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/48/a)
+
+[^c2129656]: Marginal citation: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^key-bc59119d8702d5852a938f7b14dd00fb]: Textual amendment: Reg. 4(g) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 48(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/48/b)
+
+[^key-e61975ca23d2757ac3ed0febf957f8c3]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2012/1483/part/3) heading inserted (8.11.2021) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2021 (S.I. 2021/1129)](https://www.legislation.gov.uk/uksi/2021/1129), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1129/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1129/regulation/2/2)
+
+[^key-34df6449d42710f7b886995cf7177599]: Textual amendment: Word in Pt. 3 omitted (11.2.2013) by virtue of [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2013 (S.I. 2013/41)](https://www.legislation.gov.uk/uksi/2013/41), [regs. 1](https://www.legislation.gov.uk/uksi/2013/41/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/41/regulation/2/3)
+
+[^key-45bcb3c49a3054e61e00925f2d876d96]: Textual amendment: Words in reg. 5(1) inserted (11.2.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2013 (S.I. 2013/41)](https://www.legislation.gov.uk/uksi/2013/41), [regs. 1](https://www.legislation.gov.uk/uksi/2013/41/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/41/regulation/2/4)
+
+[^key-65d475bffcd494ad9972680c9dbeeff4]: Textual amendment: Reg. 5(1)(a) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/3/a)
+
+[^key-ff7ff96fd29e7d6fb54e4088fd96d43e]: Textual amendment: Word in reg. 5(1)(c) omitted (1.4.2013) by virtue of [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/3/b)
+
+[^key-c8385a151a5731ea2412cc7b49bf35d8]: Textual amendment: Reg. 5(1)(d) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(3)(c)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/3/c)
+
+[^key-7d930e630d309fdcc2c34c29e597c287]: Textual amendment: Reg. 5(1)(e)(f) added (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(3)(d)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/3/d)
+
+[^key-1436b4cb23cd6b6ce84c82ab9da281a6]: Textual amendment: Word in reg. 5(1)(e) omitted (15.11.2017) by virtue of [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2017 (S.I. 2017/1016)](https://www.legislation.gov.uk/uksi/2017/1016), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1016/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/1016/regulation/2/3/a)
+
+[^key-3f548bcd2d998cbccc43c15136ebec74]: Textual amendment: Reg. 5(1)(g)(h) inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/3/a)
+
+[^key-03a2458dcc8b96a2c81a61e4c539ab31]: Textual amendment: Reg. 5(1)(i) and word inserted (15.11.2017) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2017 (S.I. 2017/1016)](https://www.legislation.gov.uk/uksi/2017/1016), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1016/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/1016/regulation/2/3/b)
+
+[^key-e91b3b7ec248688b8faae367b87ba56c]: Textual amendment: Reg. 5(3A) inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/3/b)
+
+[^c2129657]: Marginal citation: 2006 asp. 1.
+
+[^c2129658]: Marginal citation: [1996 c.53](https://www.legislation.gov.uk/ukpga/1996/53) as amended by the [Housing Act 2004 (c.34)](https://www.legislation.gov.uk/ukpga/2004/34).
+
+[^c2129659]: Marginal citation: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167).
+
+[^key-38e55c67bc6442489339a0395e6de861]: Textual amendment: Reg. 5(4)(e) inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/3/c)
+
+[^key-f6e95c425cf949d7ec5b234e702ad8fa]: Textual amendment: Words in reg. 6(1) inserted (11.2.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2013 (S.I. 2013/41)](https://www.legislation.gov.uk/uksi/2013/41), [regs. 1](https://www.legislation.gov.uk/uksi/2013/41/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/41/regulation/2/4)
+
+[^key-463a7458fd9e1a8e3a460708e466c545]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/1483/regulation/6/1) inserted (8.11.2021) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2021 (S.I. 2021/1129)](https://www.legislation.gov.uk/uksi/2021/1129), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1129/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1129/regulation/2/3)
+
+[^key-2d2b7e801506b62b104d8880085d1e6e]: Textual amendment: Reg. 6(1)(a) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/4/a)
+
+[^key-0b25a26c3f841f15d71c7b86ce2ac926]: Textual amendment: Reg. 6(1)(d) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/4/b)
+
+[^c2129660]: Marginal citation: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52).
+
+[^c2129661]: Marginal citation: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26).
+
+[^key-914b44b3661ddf993824b05b65a410de]: Textual amendment: Words in reg. 6(1)(g)(l) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/4/c)
+
+[^key-72cb228f201fa26a791a65fc673f44aa]: Textual amendment: Words in reg. 6(1)(h)(i) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(4)(d)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/4/d)
+
+[^key-069030d3ffd3e78c037c3a769cb3820d]: Textual amendment: Reg. 6(1)(k) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+
+[^key-305825d620c03ff9eae915b6539ad75a]: Textual amendment: Reg. 6(1)(p) added (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(4)(e)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/4/e)
+
+[^key-257b7cb61f1ddf641589098f4f340e3f]: Textual amendment: Reg. 6(1)(q) inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/4)
+
+[^key-2e28463fa0d4aa6cb73ed9ebd7d13a51]: Textual amendment: Reg. 6(1)(r) inserted (15.11.2017) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2017 (S.I. 2017/1016)](https://www.legislation.gov.uk/uksi/2017/1016), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1016/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/1016/regulation/2/4)
+
+[^c2129663]: Marginal citation: [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217). Paragraph 4 is substituted by [S.I. 2007/2870](https://www.legislation.gov.uk/uksi/2007/2870).
+
+[^c2129664]: Marginal citation: [S.I. 1997/1984](https://www.legislation.gov.uk/uksi/1997/1984). Schedule 3B is inserted by article 4 of the [Rent Officers (Housing Benefit Functions) Amendment Order 2007 (S.I. 2007/2871)](https://www.legislation.gov.uk/uksi/2007/2871) and amended by [S.I. 2008/3156](https://www.legislation.gov.uk/uksi/2008/3156), 2009/2459 and 2010/2836.
+
+[^c2129665]: Marginal citation: S.I 1997/1995. Schedule 3B is inserted by article 13 of the [Rent Officers (Housing Benefit Functions) Amendment Order 2007 (S.I. 2007/2871)](https://www.legislation.gov.uk/uksi/2007/2871) and amended by [S.I. 2008/3156](https://www.legislation.gov.uk/uksi/2008/3156), 2009/2459 and 2010/2836.
+
+[^key-fef37a4a978477b04ff5186fc7ebd08d]: Textual amendment: Words in reg. 7(1) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/5/a)
+
+[^key-f55fe75c5ce53985e1adee8c06498c74]: Textual amendment: Reg. 7(3)(a) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/5/b)
+
+[^c2129666]: Marginal citation: Relevant amending instruments are [S.I. 2007/2868](https://www.legislation.gov.uk/uksi/2007/2868) and 2010/2835.
+
+[^c2129667]: Marginal citation: Relevant amending instruments are [S.I. 2007/2868](https://www.legislation.gov.uk/uksi/2007/2868) and 2010/2835.
+
+[^key-4eb8dc24088bfc0be91a5641153139c4]: Textual amendment: Words in reg. 7(3)(c) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/5/c)
+
+[^key-53760079a3908bd5d05000090093a8b3]: Textual amendment: Words in reg. 8 heading substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/6/a)
+
+[^key-6ed04eb5f41d5d2d5267ae2e41787daa]: Textual amendment: Words in reg. 8(1) added (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/6/b/i)
+
+[^key-bf39f44e378e313fa8bd78c719f9ff82]: Textual amendment: Word in reg. 8(1) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/6/b/ii)
+
+[^key-92e09741fa1f623fdfbdf78296d6962c]: Textual amendment: Word in reg. 8(1) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/6/b/iii)
+
+[^key-124764e4e269a370d4b507d3f1fa8785]: Textual amendment: Words in reg. 8(3) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/6/a)
+
+[^key-ea5c746b191bf240df2b6097721e0909]: Textual amendment: Words in reg. 8(4) added (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/6/c)
+
+[^key-551b00364f0e77698b0f6a43ccd92e4f]: Textual amendment: Reg. 8(5) added (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(6)(d)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/6/d)
+
+[^key-1b1fcf23bdaa28f68f150d263f1b3d72]: Textual amendment: Word in reg. 9(1) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/7)
+
+[^key-6049ceb563d42619c75e4e98d99fa4fb]: Textual amendment: Words in reg. 9(3)(a)(b) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/8)
+
+[^key-b9deeed9d0ce9bc1087ef437fb55743f]: Textual amendment: Regs. 9A, 9B inserted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/9)
+
+[^key-71d81e869fa54fae524a3d864199db67]: Textual amendment: Words in [reg. 9A(1)](https://www.legislation.gov.uk/uksi/2012/1483/regulation/9A/1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(p)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/p) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-210ea1e7af910a6f7f453b54658a04eb]: Textual amendment: Words in [reg. 9A(4)](https://www.legislation.gov.uk/uksi/2012/1483/regulation/9A/4) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(p)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/p) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-02830773baf1e4cbc60d5af0d6c2d930]: Textual amendment: Reg. 9C inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/5)
+
+[^key-24668e8b215dbe1702ec768e6f067d7b]: Textual amendment: Reg. 10 substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/10)
+
+[^key-b1bb1a2f3b9c22d81c1df23774fffbd2]: Textual amendment: Word in reg. 10(1)(a) inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/6/a)
+
+[^key-9d2792d579963301b60ddd060e92900c]: Textual amendment: Words in [reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2012/1483/regulation/10/1/c) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(p)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/p) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-0b6001d6fe655d0dc9c27fd5776855ce]: Textual amendment: Reg. 10(1)(e) inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/6/b)
+
+[^key-50415f46f9f7957d3d5c41e26217e917]: Textual amendment: Reg. 10(1)(f) inserted (15.11.2017) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2017 (S.I. 2017/1016)](https://www.legislation.gov.uk/uksi/2017/1016), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1016/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/1016/regulation/2/5)
+
+[^key-f5258005ee126ef7912fc656942c7b3a]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2012/1483/regulation/10/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(p)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/p) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-7af9af8fc7c824aa6dcfc4569653ace0]: Textual amendment: Word in reg. 11(1) substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/11)
+
+[^key-2b5f3a7bbd5897bf4f218a84a35c250d]: Textual amendment: Reg. 11(1A) inserted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/12)
+
+[^key-0519c868639dad92a06006cd68cb3439]: Textual amendment: Pt. 4 added (11.2.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2013 (S.I. 2013/41)](https://www.legislation.gov.uk/uksi/2013/41), [regs. 1](https://www.legislation.gov.uk/uksi/2013/41/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/41/regulation/2/5)
+
+[^key-91c1d10eb062eb64641641c594ddb762]: Textual amendment: Reg. 12(c) added (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/13)
+
+[^key-88e0178d7a563444021095ff40fc308c]: Textual amendment: Reg. 13(c) added (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(14)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/14)
+
+[^key-2583550d94e0821741c8bbdaa036d80c]: Textual amendment: Reg. 14 substituted (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(15)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/15)
+
+[^key-d29cd6e85db45a381ffc7e5d4500441d]: Textual amendment: [Reg. 14(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2012/1483/regulation/14/3/d/iii) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 20](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/20) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+
+[^key-e5c7edf7034fc97cd62a4e54ed099868]: Textual amendment: Pt. 5 added (1.4.2013) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Amendment and Prescribed Bodies Regulations 2013 (S.I. 2013/454)](https://www.legislation.gov.uk/uksi/2013/454), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/454/regulation/1/2), [3(16)](https://www.legislation.gov.uk/uksi/2013/454/regulation/3/16)
+
+[^key-fc49e09c8f7227e5aca142d11c94e121]: Textual amendment: Reg. 16(d) inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/7)
+
+[^key-d2a092672b7423bee8a8f1dc8bd1df56]: Textual amendment: Reg. 17(3)(c) inserted (13.2.2015) by [The Social Security (Information-sharing in relation to Welfare Services etc.) (Amendment) Regulations 2015 (S.I. 2015/46)](https://www.legislation.gov.uk/uksi/2015/46), [regs. 1](https://www.legislation.gov.uk/uksi/2015/46/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2015/46/regulation/2/8)

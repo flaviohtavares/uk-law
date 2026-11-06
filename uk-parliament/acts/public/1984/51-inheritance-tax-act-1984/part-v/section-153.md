@@ -1,0 +1,61 @@
+---
+title: Inheritance Tax Act 1984, section 153
+act: Inheritance Tax Act 1984
+section: '153'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1984/51/section/153
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Inheritance Tax Act 1984, section 153
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/51
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 153. Overseas pensions.
+
+*Extent: E+W+S+N.I.*
+
+(1) In determining for the purposes of this Act the value of a person’s estate immediately before his death there shall be left out of account any pension payable under the regulations or rules relating to any fund vested in Commissioners under section 273 of the [^c13612151]Government of India Act 1935 or to any fund administered under a scheme made under section 2 of the [^c13612161]Overseas Pensions Act 1973 which is certified by the Secretary of State for the purpose of this section to correspond to an Order in Council under subsection (1) of the said section 273.
+
+(2) For the purposes of this Act—
+
+- (a) a pension paid under the authority of a scheme made under section 2 of the Overseas Pensions Act 1973 which is constituted by the [^c13612171]Pensions (India, Pakistan and Burma) Act 1955 or is certified by the Secretary of State for the purposes of this section to correspond to the said Act of 1955 shall be treated as if it had been paid by the Government of India or the Government of Pakistan (according as the arrangements in pursuance of which the pension was first paid under the said Act of 1955 were made with the one or the other Government);
+- (b) a pension paid out of any fund established in the United Kingdom by the Government of any country which, at the time when the fund was established, was, or formed part of, a colony, protectorate, protected state or United Kingdom trust territory shall, if the fund was established for the sole purpose of providing pensions, whether contributory or not, payable in respect of service under the Government be treated as if it had been paid by the Government by which the fund was established;
+- (c) a pension paid out of the Central African Pension Fund established by section 24 of the [^c13612181]Federation of Rhodesia and Nyasaland (Dissolution) Order in Council 1963 shall be treated as if it had been paid by the Government of a territory outside the United Kingdom; and
+- (d) so much of any pension paid to or in respect of any person under—
+  - (i) the scheme which by virtue of subsection (3) of section 2 of the Overseas Pensions Act 1973 is constituted under that section by section 2 or subsection (2) of section 4 of the [^c13612191]Overseas Service Act 1958, or
+  - (ii) such other scheme made under section 2 of the Overseas Pensions Act 1973 as is certified by the Secretary of State for the purposes of the Taxes Act to correspond to section 2 or subsection (2) of section 4 of the Overseas Service Act 1958,
+
+  as is certified by the Secretary of State to be attributable to service under the Government of an overseas territory shall be treated as if it had been paid by the Government of that territory.
+
+(3) Subsection (1) above shall be construed as if contained in section 273 of the [^c13612201]Government of India Act 1935; and for the purposes of subsection (2) above—
+
+- (a) “**pension**” includes a gratuity and any sum payable on or in respect of death, and a return of contributions with or without interest thereon or any other addition thereto;
+- (b) “**United Kingdom trust territory**” means a territory administered by the Government of the United Kingdom under the trusteeship system of the United Nations;
+- (c) “**overseas territory**” means any country or territory outside the United Kingdom;
+- (d) references to the Government of any such country or territory as is mentioned in paragraph (b) or (d) of that subsection include a Government constituted for two or more such countries or territories and any authority established for the purpose of providing or administering services which are common to, or relate to matters of common interest to, two or more such countries or territories.
+
+(4) If, by reason of Her Majesty’s Government in the United Kingdom having assumed responsibility for a pension, allowance or gratuity within the meaning of section 1 of the [^c13612211]Overseas Pensions Act 1973, payments in respect of it are made under that section, this section shall apply in relation to the pension, allowance or gratuity, exclusive of so much (if any) of it as is paid by virtue of the application to it of any provisions of the [^c13612221]Pensions (Increase) Act 1971 or any enactment repealed by that Act, as if it continued to be paid by the Government or other body or fund which had responsibility for it before that responsibility was assumed by Her Majesty’s Government in the United Kingdom.
+
+## Annotations
+
+[^c13612151]: Marginal citation: [1935 c. 2](https://www.legislation.gov.uk/ukpga/1935/2).
+
+[^c13612161]: Marginal citation: [1973 c. 21](https://www.legislation.gov.uk/ukpga/1973/21).
+
+[^c13612171]: Marginal citation: [1955 c. 22](https://www.legislation.gov.uk/ukpga/1955/22).
+
+[^c13612181]: Marginal citation: [S.I. 1963/2085](https://www.legislation.gov.uk/uksi/1963/2085).
+
+[^c13612191]: Marginal citation: [1958 c. 14](https://www.legislation.gov.uk/ukpga/1958/14).
+
+[^c13612201]: Marginal citation: [1935 c. 2](https://www.legislation.gov.uk/ukpga/1935/2).
+
+[^c13612211]: Marginal citation: [1973 c. 21](https://www.legislation.gov.uk/ukpga/1973/21).
+
+[^c13612221]: Marginal citation: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).

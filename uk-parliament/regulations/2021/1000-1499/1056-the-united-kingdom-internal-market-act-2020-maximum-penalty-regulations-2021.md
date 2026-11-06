@@ -1,0 +1,85 @@
+---
+title: The United Kingdom Internal Market Act 2020 (Maximum Penalty) Regulations 2021
+id: uksi/2021/1056
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-09-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/1056
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/1056/pdfs/uksiem_20211056_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/1056/pdfs/uksi_20211056_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/1056/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The United Kingdom Internal Market Act 2020 (Maximum Penalty) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 1056
+
+Exiting The European Union
+
+The United Kingdom Internal Market Act 2020 (Maximum Penalty) Regulations 2021
+
+Made
+
+10th September 2021
+
+Laid before Parliament
+
+17th September 2021
+
+Coming into force
+
+12th October 2021
+
+The Secretary of State has consulted with the persons listed in section 43(8) of the United Kingdom Internal Market Act 2020[^f00001].
+
+Accordingly, the Secretary of State, in exercise of the powers conferred by section 43(4) and (5) of that Act, makes the following Regulations.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the United Kingdom Internal Market Act 2020 (Maximum Penalty) Regulations 2021 and come into force on 12th October 2021.
+
+(2) In these Regulations, references to sections are references to sections of the United Kingdom Internal Market Act 2020.
+
+## 2. Maximum penalties
+
+The maximum penalties for the purposes of section 43(4) are—
+
+- (a) in the case of a fixed amount, £30,000;
+- (b) in the case of an amount calculated by reference to a daily rate, an amount per day of £15,000;
+- (c) in the case of a fixed amount and an amount calculated by reference to a daily rate, a fixed amount of £30,000 and an amount per day of £15,000.
+
+**3.** The maximum penalty for the purpose of section 43(5) is a fixed amount of £30,000.
+
+Paul Scully
+
+Parliamentary Under Secretary of State
+
+Department for Business, Energy and Industrial Strategy
+
+10th September 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision about the power of the Competition and Markets Authority to impose penalties under section 42 of the United Kingdom Internal Market Act [2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27) (“the Act”) by setting the maximum penalties that may be imposed, using the powers in section 43(4) and (5) of the Act.
+
+Regulation 2 prescribes the maximum penalty amounts that may be imposed in relation to a breach of section 42(1) of the Act. In the case of a fixed amount, the maximum penalty is £30,000. In the case of an amount calculated by reference to a daily rate, the maximum amount per day is £15,000. In the case of a fixed amount and an amount calculated by reference to a daily rate, the maximum fixed amount is £30,000 and the maximum amount per day is £15,000.
+
+Regulation 3 prescribes £30,000 as the maximum penalty that may be imposed in relation to a breach of section 42(2) of the Act.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2020 c. 27](https://www.legislation.gov.uk/ukpga/2020/27).

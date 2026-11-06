@@ -1,0 +1,80 @@
+---
+title: Financial Services Act 2021, section 22
+act: Financial Services Act 2021
+section: '22'
+status: revised-with-pending-changes
+text_date: '2024-11-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/22/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services Act 2021, section 22
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-11-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 22. Regulated activities and Gibraltar
+
+*Extent: E+W+S+N.I.*
+
+(1) Part 3 of the Financial Services and Markets Act 2000 (authorisation and exemption) is amended in accordance with subsections (2) to (4).
+
+(2) In section 31(1) (authorised persons), after paragraph (a) insert—
+
+> - (aa) a Gibraltar-based person who has a Schedule 2A permission to carry on one or more regulated activities;
+
+.
+
+(3) After section 32 insert—
+
+> **32A. Gibraltar-based persons**
+>
+> (1) The Treasury must, for each reporting period, prepare a report about the operation of Schedule 2A during the period.
+>
+> (2) The report must, among other things, consider whether the conditions in paragraphs 7, 8 and 9 of Schedule 2A continue to be satisfied in connection with each regulated activity which is an approved activity for the purposes of that Schedule.
+>
+> (3) The Treasury must consult the FCA and the PRA during the preparation of the report.
+>
+> (4) The Treasury must lay a copy of the report before Parliament as soon as reasonably practicable after the end of the reporting period.
+>
+> (5) The reporting periods are—
+>
+> - (a) the period of two years beginning with the day on which Schedule 2A comes fully into force, and
+> - (b) each subsequent period of two years.
+
+(4) After section 36 insert—
+
+> **UK-based persons carrying on activities in Gibraltar**
+>
+> **36A. UK-based persons carrying on activities in Gibraltar**
+>
+> Schedule 2B makes provision about the carrying on of activities corresponding to regulated activities in Gibraltar by UK-based persons.
+
+(5)[^key-6f26b102a0c28156cba9312781fe6fdf] Schedule 6 inserts Schedule 2A to the Financial Services and Markets Act 2000 (Gibraltar-based persons carrying on activities in the UK).
+
+(6) Schedule 7 inserts Schedule 2B to the Financial Services and Markets Act 2000 (UK-based persons carrying on activities in Gibraltar).
+
+(7)[^key-7abd90266095d330801a4fc63b0a3de7] Schedule 8 contains minor and consequential amendments.
+
+(8)[^key-98cb3ce0b6a10a48dd520f6c2ed71096] The Treasury may by regulations—
+
+- (a) amend Part 7 of the Financial Services and Markets Act 2000 (control of business transfers) to make provision about the operation of that Part in relation to cases involving a Gibraltar-based person;
+- (b) amend Part 18A of the Financial Services and Markets Act 2000 (suspension and removal of financial instruments from trading) to make provision about the operation of that Part in relation to cases involving a Gibraltar-based person;
+- (c) make provision relating to a Gibraltar-based person equivalent to provision in an enactment in force immediately before IP completion day relating to an EEA firm of a kind mentioned in Schedule 3 to the Financial Services and Markets Act 2000, with such modifications as the Treasury consider appropriate.
+
+(9)[^key-98cb3ce0b6a10a48dd520f6c2ed71096] The powers to make regulations under subsection (8) do not restrict the Treasury's power to make consequential provision under section 45.
+
+(10)[^key-98cb3ce0b6a10a48dd520f6c2ed71096] Section 45(3) to (5) apply in relation to regulations under subsection (8) as they apply to regulations under that section.
+
+(11)[^key-98cb3ce0b6a10a48dd520f6c2ed71096] In this section, “**Gibraltar-based person**” has the same meaning as in Schedule 2A to the Financial Services and Markets Act 2000 (inserted by Schedule 6 to this Act) (see paragraph 1 of that Schedule).
+
+## Annotations
+
+[^key-6f26b102a0c28156cba9312781fe6fdf]: Commencement: [S. 22(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/5) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/a)
+
+[^key-7abd90266095d330801a4fc63b0a3de7]: Commencement: [S. 22(7)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/7) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b)
+
+[^key-98cb3ce0b6a10a48dd520f6c2ed71096]: Commencement: [S. 22(8)-(11)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/8) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/c)

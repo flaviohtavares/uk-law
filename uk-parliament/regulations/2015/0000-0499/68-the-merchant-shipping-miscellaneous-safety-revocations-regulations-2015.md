@@ -1,0 +1,102 @@
+---
+title: The Merchant Shipping (Miscellaneous Safety) (Revocations) Regulations 2015
+id: uksi/2015/68
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-01-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/68
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/68/pdfs/uksiem_20150068_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/68/pdfs/uksi_20150068_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/68/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Miscellaneous Safety) (Revocations) Regulations 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 68
+
+Merchant Shipping
+
+Safety
+
+The Merchant Shipping (Miscellaneous Safety) (Revocations) Regulations 2015
+
+Made
+
+8th January 2015
+
+Laid before Parliament
+
+4th February 2015
+
+Coming into force
+
+28th February 2015
+
+The Secretary of State, in exercise of the powers conferred by sections 85(1), (3), (5), (6) and (7) and 86(1) and (2)(a) of the Merchant Shipping Act 1995[^f00001], makes the following Regulations.
+
+The Secretary of State has consulted such persons in the United Kingdom as the Secretary of State considers will be affected by the exercise of powers in this instrument in accordance with section 86(4) of the Merchant Shipping Act 1995.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Merchant Shipping (Miscellaneous Safety) (Revocations) Regulations 2015 and come into force on 28th February 2015.
+
+## 2. Revocations
+
+The instruments listed in the Schedule are revoked.
+
+Signed by authority of the Secretary of State for Transport
+
+John Hayes
+
+Minister of State
+
+Department for Transport
+
+8th January 2015
+
+## SCHEDULE
+
+Regulation 2
+
+Revocations
+
+| Regulations revoked | Reference |
+| --- | --- |
+| The Merchant Shipping (Pilot Ladders) Rules 1965[^f00002] | [S.I. 1965/1046](https://www.legislation.gov.uk/uksi/1965/1046) |
+| The Merchant Shipping (Pilot Ladders) (Amendment No. 2) Rules 1972[^f00003] | [S.I. 1972/531](https://www.legislation.gov.uk/uksi/1972/531) |
+| The Merchant Shipping (Means of Access) Regulations 1988[^f00004] | [S.I. 1988/1637](https://www.legislation.gov.uk/uksi/1988/1637) |
+| The Merchant Shipping (Safe Movement on Board Ship) Regulations 1988[^f00005] | [S.I. 1988/1641](https://www.legislation.gov.uk/uksi/1988/1641) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+This instrument revokes two sets of Rules and two sets of Regulations relating to merchant shipping safety.
+
+*The Merchant Shipping (Pilot Ladders) Rules 1965* ([S.I. 1965/1046](https://www.legislation.gov.uk/uksi/1965/1046)) (“the 1965 Rules”) and one amending instrument ([S.I. 1972/531](https://www.legislation.gov.uk/uksi/1972/531)) required the provision of a pilot ladder in ships of certain classes so as to implement certain provisions of the International Convention for the Safety of Life at Sea 1960. This Convention was superseded by the International Convention for the Safety of Life at Sea 1974 (“the SOLAS Convention”) (as amended) and the requirements relating to pilot ladders in Chapter V of the SOLAS Convention are implemented by the Merchant Shipping (Safety of Navigation) Regulations 2002 ([S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473)). The 1965 Rules which, following earlier revocations, only apply to certain British Overseas Territories which do not maintain a shipping register, are therefore spent.
+
+*The Merchant Shipping (Means of Access) Regulations 1988* ([S.I. 1988/1637](https://www.legislation.gov.uk/uksi/1988/1637)) set out requirements relating to safe access to ships. *The Merchant Shipping (Safe Movement on Board Ship) Regulations 1988* ([S.I. 1988/1641](https://www.legislation.gov.uk/uksi/1988/1641)) require the maintenance of a safe means of access to any place on a ship where a person may be expected to be, together with other safety requirements. These two sets of Regulations gave effect, in part, to the Merchant Shipping (Minimum Standards) Convention 1976 (International Labour Organisation Convention No. 147). These requirements have been superseded by the implementation in the United Kingdom of the Maritime Labour Convention, 2006 (Cm 7049) by virtue of the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014 ([S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613)) and the Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 ([S.I. 2014/1616](https://www.legislation.gov.uk/uksi/2014/1616)).
+
+A full impact assessment of the effect that the revocation of the Merchant Shipping (Means of Access) Regulations 1988 and the Merchant Shipping (Safe Movement on Board Ship) Regulations 1998 will have on the costs of business and the voluntary sector is available and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk. An impact assessment has not been produced for the other measures in this instrument as no impact on the private, public or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); section 85 enables the Secretary of State to make regulations, referred to in that Act as “safety regulations”. Section 85 is amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8, 29(2) and Schedule 7, part 1. There are other amendments which are not relevant to this instrument.
+
+[^f00002]: Footnote: These Rules were made under powers in section 427 of the Merchant Shipping Act [1894 (c. 60)](https://www.legislation.gov.uk/ukpga/1894/60). Following the repeal of this section by the Merchant Shipping (Registration etc.) Act [1993 (c. 22)](https://www.legislation.gov.uk/ukpga/1993/22) these Rules were saved (see the saving provision in Schedule 5, Part 2) until superseded by regulations made under section 21 of the Merchant Shipping Act [1979 (c. 39)](https://www.legislation.gov.uk/ukpga/1979/39). Following the repeal of the Merchant Shipping (Registration etc.) Act 1993 and the Merchant Shipping Act 1979, and the re-enactment of the powers in sections 21 and 22 of the Merchant Shipping Act 1979 (with modifications) in sections 85 and 86 of the Merchant Shipping Act 1995, the saving is continued by paragraph 7 of Schedule 14 to that Act. These Rules are revoked to the extent that they applied to United Kingdom ships and other ships which were within the United Kingdom or its territorial waters by [S.I. 1980/543](https://www.legislation.gov.uk/uksi/1980/543), regulation 2(2) and [S.I. 1981/581](https://www.legislation.gov.uk/uksi/1981/581), regulation 2.
+
+[^f00003]: Footnote: See footnote (a).
+
+[^f00004]: Footnote: These Regulations were made under sections 21 and 22 of the Merchant Shipping Act [1979 (c. 39)](https://www.legislation.gov.uk/ukpga/1979/39). Following the repeal of these provisions and the re-enactment of the powers (with modifications) in sections 85 and 86 of the Merchant Shipping Act 1995, these Regulations have effect as if made under those re-enacted provisions. These Regulations are amended by the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), sections 51 and 52; [S.I. 1988/2274](https://www.legislation.gov.uk/uksi/1988/2274), article 3; [S.I. 1993/1072](https://www.legislation.gov.uk/uksi/1993/1072), regulation 3 and Schedule 2, part 4, and [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), article 2(15) and Schedule 15.
+
+[^f00005]: Footnote: These Regulations were made under sections 21 and 22 of the Merchant Shipping Act [1979 (c. 39)](https://www.legislation.gov.uk/ukpga/1979/39). Following the repeal of these provisions and the re-enactment of the powers (with modifications) in sections 85 and 86 of the Merchant Shipping Act 1995, these Regulations have effect as if made under those re-enacted provisions. These Regulations are amended by the Criminal Justice Act 1988, sections 51 and 52; [S.I. 1988/2274](https://www.legislation.gov.uk/uksi/1988/2274), article 6; [S.I. 1993/1072](https://www.legislation.gov.uk/uksi/1993/1072), regulation 3 and Schedule 2, part 4; [S.I. 2001/3444](https://www.legislation.gov.uk/uksi/2001/3444), regulation 1(2); [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), article 2(15) and Schedule 15, and [S.I. 2006/2183](https://www.legislation.gov.uk/uksi/2006/2183), regulation 1(2)(b).

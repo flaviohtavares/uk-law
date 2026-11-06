@@ -1,0 +1,435 @@
+---
+title: The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/278
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-02-15'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/278
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/278/pdfs/uksiem_20190278_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/278/pdfs/uksi_20190278_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/278/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 278
+
+Exiting The European Union
+
+Civil Aviation
+
+The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+15th February 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23588881], section 2(2) of the European Communities Act 1972 [^c23588891] and section 71 of the Civil Aviation Act 1982 [^c23588901].
+
+The Secretary of State is a Minister designated [^c23588911] for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to air transport.
+
+In accordance with section 71(2) of the Civil Aviation Act 1982, the Secretary of State has consulted with the Civil Aviation Authority before making these Regulations.
+
+In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018 and paragraph 2(2) of Schedule 2 to the European Communities Act 1972 a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-3052913273e8208b68b8210eedc6853a]
+
+(1) These Regulations may be cited as the Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 and come into force in accordance with paragraphs (2) and (3).
+
+(2) This regulation and regulation 5(1) and (2) come into force 22 days after the day on which these Regulations are made.
+
+(3) Regulations 2 to 4, 5(3) and 6 to 9 come into force on exit day.
+
+## PART 2 — Amendment of primary legislation
+
+### 2. Amendment of the Carriage by Air Act 1961[^key-fbbc1713a01f3e03963d2d1017b08ee9]
+
+(1) The Carriage by Air Act 1961 [^c23588921] is amended as follows.
+
+(2) In section 1(2) (Convention to have force of law), for “Community air carriers” substitute “ UK air carriers ”.
+
+(3) In section 14(2) (interpretation)—
+
+- (a) omit the definition of “Community air carrier” (including the “and” at the end of it);
+- (b) at the end of the definition of “court”, insert—
+
+  > ; and
+  >
+  > “**UK air carrier**” has the meaning given by Article 2 of the Council Regulation
+
+  .
+
+## PART 3 — Amendment of secondary legislation
+
+### 3. Amendment of the Air Carrier Liability Regulations 2004[^key-3e2185a834b06e4429ea1b7099863693]
+
+(1) The Air Carrier Liability Regulations 2004 [^c23588931] are amended as follows.
+
+(2) For regulation 2 (interpretation) substitute—
+
+> **2.**
+>
+> In these Regulations—
+>
+> - “**the Council Regulation**” means Council Regulation [(EC) No 2027/97](https://www.legislation.gov.uk/eur/1997/2027) as amended by Regulation [(EC) No 889/2002](https://www.legislation.gov.uk/eur/2002/889) of the European Parliament and of the Council;
+> - “**UK air carrier**” has the meaning given by Article 2 of the Council Regulation.
+
+.
+
+(3) In regulation 3 (enforcement of Articles 3a and 6 of the Council Regulation), in paragraph (1), for “Community air carrier” substitute “ UK air carrier ”.
+
+### 4. Amendment of the Carriage by Air Acts (Application of Provisions) Order 2004[^key-a13514c7ebd876a96fcc4fa668cfb04a]
+
+(1) The Carriage by Air Acts (Application of Provisions) Order 2004 [^c23588941] is amended as follows.
+
+(2) In article 2 (interpretation)—
+
+- (a) omit the definition of “Community air carrier”;
+- (b) omit the word “and” immediately following the definition of “the MP4 Convention”;
+- (c) at the end of the definition of “the Montreal Convention” insert—
+
+  > ; and
+  >
+  > “**UK air carrier**” has the meaning given by Article 2 of the Council Regulation
+
+  .
+
+(3) In article 3 (application), in paragraph (2), for “Community air carriers” substitute “ UK air carriers ”.
+
+### 5. Amendment of the Civil Aviation (Denied Boarding, Compensation and Assistance) Regulations 2005[^key-97b21921c9d9780748d62c0b8cbfae65]
+
+(1)[^key-97b21921c9d9780748d62c0b8cbfae65] The Civil Aviation (Denied Boarding, Compensation and Assistance) Regulations 2005 [^c23588951] are amended as follows.
+
+(2)[^key-97b21921c9d9780748d62c0b8cbfae65] In regulation 3 (offences) for paragraph (1), substitute—
+
+> (1) An operating air carrier is guilty of an offence if, in the United Kingdom or elsewhere, it fails to comply with an obligation imposed on it by Article 4, 5, 6, 10, 11 or 14 in respect of a passenger whose flight is either from—
+>
+> - (a) an airport in the United Kingdom, or
+> - (b) a country which is not an EEA state to such an airport.
+
+.
+
+(3)[^key-afed20ccdfd83ba9151f6c03bc7da6fb] In regulation 3 (offences), in paragraph (1) as substituted by regulation 5(2) of these Regulations, omit the words from “ in respect of ” to the end.
+
+### 6. Amendment of the Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012[^key-8045ef72477bb93a3523cbfa0719b91d]
+
+(1) The Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012 [^c23588961] are amended as follows.
+
+(2) In regulation 4 (interpretation), in paragraph (1), in the definition of “travel service”, for paragraph (c)(iii) substitute—[^key-26b68766ba3eea3b011bfc3269e9b7bd]
+
+> - (iii) motorcycles requiring a Category A driving licence in accordance with Part 1 of Schedule 2 to the Motor Vehicles (Driving Licences) Regulations 1999;
+
+.
+
+(3) In regulation 9 (who may make available flight accommodation), omit paragraph (2).
+
+(4) In regulation 9A (procuring flight accommodation as agent for the consumer), omit paragraphs (3) and (4).
+
+(5) In regulation 9B (facilitating the making available of flight accommodation by another person), omit paragraphs (4) and (5).
+
+(6) In regulation 10(1) (persons exempt from requirement to hold an ATOL), omit sub-paragraphs (d) and (j).
+
+## PART 4 — Amendment of retained direct EU legislation
+
+### 7. Amendment of Council Regulation [(EC) No 2027/97](https://www.legislation.gov.uk/eur/1997/2027)[^key-e5a9f8dbe2a28cf9d5440da9cfcf2eb3]
+
+(1) Council Regulation [(EC) No 2027/97](https://www.legislation.gov.uk/eur/1997/2027) of the Council of 9 October 1997 on air carrier liability in respect of the carriage of passengers and their baggage by air [^c23588991] is amended as follows.
+
+(2) In Article 1, for “a single Member State” substitute “ the United Kingdom ”.
+
+(3) In Article 2, in paragraph 1, for point (b) substitute—
+
+> - (b) “**UK air carrier**” means an air carrier with a valid operating licence granted by the Civil Aviation Authority in accordance with Chapter II of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the United Kingdom;
+
+.
+
+(4) In Article 3—
+
+- (a) in paragraph 1, for “Community air carrier” substitute “ UK air carrier ”;
+- (b) omit paragraph 2.
+
+(5) In Article 3a, for “Community air carrier” substitute “ UK air carrier ”.
+
+(6) In Article 5—
+
+- (a) in paragraphs 1 and 3, for “Community air carrier” substitute “ UK air carrier ”;
+- (b) in paragraph 2, for “euro” substitute “ sterling ”.
+
+(7) In Article 6—
+
+- (a) in paragraph 1—
+  - (i) for “Community”, in the first place it occurs, substitute “ United Kingdom ”; and
+  - (ii) for “Community air carriers” substitute “ UK air carriers ”;
+- (b) in paragraph 2, for “Community” substitute “ United Kingdom ”;
+- (c) in paragraph 3—
+  - (i) for “Community air carriers” substitute “ UK air carriers ”;
+  - (ii) for “Community air carrier” substitute “ UK air carrier ”;
+  - (iii) for “non-Community air carriers” substitute “ non-UK air carriers ”; and
+  - (iv) for “within the Community” substitute “ within the United Kingdom ”.
+
+(8) Omit Article 7 and the second paragraph of Article 8.
+
+(9) In the Annex—
+
+- (a) in the first paragraph (air carrier liability for passengers and their baggage), for “Community air carriers” to the end, substitute “ UK air carriers ”;
+- (b) in the eleventh paragraph (basis for the information)—
+  - (i) for “Community” substitute “ United Kingdom in respect of UK air carriers ”; and
+  - (ii) omit “and national legislation of the Member States”.
+
+### 8. Amendment of Regulation [(EC) No 261/2004](https://www.legislation.gov.uk/eur/2004/261)[^key-639c58d4a8dbfa0807ffe8a7543ef745]
+
+(1) Regulation [(EC) No 261/2004](https://www.legislation.gov.uk/eur/2004/261) of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation [(EEC) No 295/91](https://www.legislation.gov.uk/eur/1991/295) is amended as follows.
+
+(2) In Article 1 (subject) omit paragraphs 2 and 3.
+
+(3) In Article 2 (definitions)—
+
+- (a) for point (c), substitute—
+
+  > - (c) ‘Community carrier’ means an air carrier with a valid operating licence granted by a Member State in accordance with Chapter II of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community as it has effect in EU law [^c23589001];
+
+  ;
+- (b) in point (d), for “Article 2, point 2, of Council Directive [90/314/EEC](https://www.legislation.gov.uk/eudr/1990/314) of 13 June 1990 on package travel, package holidays and package tours” substitute “ regulation 2(1) of the Package Travel and Linked Travel Arrangements Regulations 2018 ”[^c23589011] ;
+- (c) in point (e), for “Article 2, point 1, of Directive [90/314/EEC](https://www.legislation.gov.uk/eudr/1990/314)” substitute “ regulation 2(5) of the Package Travel and Linked Travel Arrangements Regulations 2018 ”;
+- (d) after point (l) insert—
+
+  > - (m) ‘UK air carrier’ means an air carrier with a valid operating licence granted by the Civil Aviation Authority in accordance with Chapter II of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the United Kingdom.
+
+  .
+
+(4) In Article 3 (scope)—
+
+- (a) in paragraph 1, in point (a), for “the territory of a Member State to which the Treaty applies” substitute “ the United Kingdom ”;
+- (b) for point (b) substitute—
+
+  > - (b) to passengers departing from an airport located in a country other than the United Kingdom to an airport situated in—
+  >   - (i) the United Kingdom if the operating air carrier of the flight concerned is a Community carrier or a UK air carrier; or
+  >   - (ii) the territory of a Member State to which the Treaty applies if the operating air carrier of the flight concerned is a UK air carrier,
+  >
+  >   unless the passengers received benefits or compensation and were given assistance in that other country.
+
+  ;
+- (c) in paragraph 6, for “Directive [90/314/EEC](https://www.legislation.gov.uk/eudr/1990/314)” substitute “ the Package Travel and Linked Travel Arrangements Regulations 2018 ”.
+
+(5) In Article 6 (delay), in paragraph 1, in point (b), omit “intra-Community flights of more than 1500 kilometres and of all other”.
+
+(6) In Article 7 (right to compensation)—
+
+- (a) for paragraph 1 substitute—
+
+  > **1.**
+  >
+  > Where reference is made to this Article, passengers shall receive compensation amounting to—
+  >
+  > - (a) £220 for all flights of 1500 kilometres or less;
+  > - (b) £350 for all flights between 1500 and 3500 kilometres;
+  > - (c) £520 for all flights not falling under (a) or (b).
+  >
+  > In determining the distance, the basis shall be the last destination at which the denial of boarding or cancellation will delay the passenger's arrival after the scheduled time.
+
+  ;
+- (b) in paragraph 2, in point (b), omit “intra-Community flights of more than 1500 kilometres and for all other”.
+
+(7) In Article 8 (right to reimbursement or re-routing), in paragraph 2, for “Directive [90/314/EEC](https://www.legislation.gov.uk/eudr/1990/314)” substitute “ the Package Travel and Linked Travel Arrangements Regulations 2018 ”.
+
+(8) In Article 10 (upgrading and downgrading)—
+
+- (a) in paragraph 2, in point (b), omit the words from “intra-Community” to “other”;
+- (b) in paragraph 2, in point (c), omit the words from “, including” to the end.
+
+(9) In Article 16 (infringements)—
+
+- (a) for paragraphs 1 and 2 substitute—
+
+  > **1.**
+  >
+  > A body designated under the Civil Aviation (Denied Boarding, Compensation and Assistance) Regulations 2005 [^c23589021] for the purposes of this paragraph is responsible for the enforcement of this Regulation. Where appropriate, this body shall take the measures necessary to ensure that the rights of passengers are respected.
+  >
+  > **2.**
+  >
+  > Without prejudice to Article 12, each passenger may complain to any body designated for the purposes of paragraph 1 or to a body designated for the purposes of this paragraph, about an alleged infringement of this Regulation.
+
+  ;
+- (b) omit paragraph 3.
+
+(10) Omit Article 17 (report).
+
+(11) After Article 19 (entry into force) omit the paragraph beginning with the words “This Regulation”.
+
+### 9. Amendment of Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/eur/2006/1107)[^key-e0f94b1f9db743358dd75b2d1ee7d5f0]
+
+(1) Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/eur/2006/1107) of the European Parliament and of the Council of 5 July 2006 concerning the rights of disabled persons and persons with reduced mobility when travelling by air is amended as follows.
+
+(2) In Article 1 (purpose and scope)—
+
+- (a) in paragraph 2, for “territory of a Member State to which the Treaty applies” substitute “ United Kingdom ”;
+- (b) for paragraph 3 substitute—
+
+  > **3.**
+  >
+  > Articles 3, 4 and 10 shall also apply to passengers departing from an airport situated in a country other than the United Kingdom to an airport situated in—
+  >
+  > - (a) the United Kingdom, if the operating carrier is a Community air carrier or a UK air carrier; or
+  > - (b) the territory of a Member State to which the Treaty applies, if the operating carrier is a UK air carrier.
+
+  ;
+- (c) in paragraph 4, for “established by Directive [90/314/EEC](https://www.legislation.gov.uk/eudr/1990/314)” substitute “ under the Package Travel and Linked Travel Arrangements Regulations 2018 ”;
+- (d) in paragraph 5, for “Directive [96/67/EC](https://www.legislation.gov.uk/eudr/1996/67)” substitute “ the Airports (Groundhandling) Regulations 1997 [^c23589031] ”;
+- (e) omit paragraphs 6 and 7.
+
+(3) In Article 2 (definitions)—
+
+- (a) for point (d) substitute—
+
+  > - (d) ‘Community air carrier’ means an air carrier with a valid operating licence granted by a Member State in accordance with Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community as it has effect in EU law [^c23589041];
+
+  ;
+- (b) in point (e) for “Article 2(2) and (3) of Directive [90/314/EEC](https://www.legislation.gov.uk/eudr/1990/314)” substitute “ regulation 2(1) of the Package Travel and Linked Travel Arrangements Regulations 2018 ”;
+- (c) after point (l) insert—
+
+  > - (m) ‘UK air carrier’ means an air carrier with a valid operating licence granted by the Civil Aviation Authority in accordance with Chapter II of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the United Kingdom.
+
+  .
+
+(4) In Article 4 (derogations, special conditions and information), in paragraph 1, in point (a), for “international, Community or national law” substitute “ international law or the law of England and Wales, Scotland or Northern Ireland ”.
+
+(5) In Article 6 (transmission of information)—
+
+- (a) in paragraph 1, for “territory of the Member States to which the Treaty applies” substitute “ United Kingdom ”;
+- (b) in paragraph 4, for “territory of a Member State to which the Treaty applies” substitute “ United Kingdom ”.
+
+(6) In Article 12 (compensation for lost or damaged wheelchairs, other mobility equipment and assistive devices) for “international, Community and national law” substitute “ international law and the law of England and Wales, Scotland and Northern Ireland ”.
+
+(7) For Article 14 (enforcement body and its tasks) substitute—
+
+> **1.**
+>
+> A body designated under the Civil Aviation (Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) Regulations 2014 [^c23589051] for this purpose is responsible for the enforcement of this Regulation. Where appropriate, this body shall take the measures necessary to ensure that the rights of disabled persons and persons with reduced mobility are respected, including compliance with the quality standards referred to in Article 9(1).
+>
+> **2.**
+>
+> A body designated under the Civil Aviation (Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) Regulations 2014 for this purpose shall also ensure the satisfactory implementation of Article 8, including as regards the provisions on charges with a view to avoiding unfair competition.
+
+.
+
+(8) In Article 15 (complaint procedure)—
+
+- (a) for paragraph 2 substitute—
+
+  > **2.**
+  >
+  > If the disabled person or person with reduced mobility cannot obtain satisfaction in such way, complaints about an alleged infringement of this Regulation may be made to a body designated for the purpose of Article 14(1) or for the purposes of this paragraph under the Civil Aviation (Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) Regulations 2014.
+
+  ;
+- (b) omit paragraph 3;
+- (c) for paragraph 4 substitute—
+
+  > **4.**
+  >
+  > A body designated under the Civil Aviation (Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) Regulations 2014 for the purpose of Article 14(1) shall take measures to inform disabled persons and persons with reduced mobility of their rights under this Regulation and of the possibility of complaint to a body designated for the purposes of Article 15(2).
+
+  .
+
+(9) Omit Article 16 (penalties) and Article 17 (report).
+
+(10) After Article 18 (entry into force) omit the paragraph beginning with the words “This Regulation shall be”.
+
+Signed by authority of the Secretary of State for Transport
+
+Sugg
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8(1) of and paragraph 21 of Schedule 7 to the European Union (Withdrawal) Act 2018 (c. 16) (“**the 2018 Act**”) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union. Regulation 6 contains provision for this purpose made under section 71 of the Civil Aviation Act 1982 (c. 16). These Regulations also include provision at regulation 5(2) made under section 2(2) of the European Communities Act 1972 (c. 68).
+
+These Regulations make amendments to legislation in the field of aviation, relating to the rights of passengers and the Air Travel Organisers' Licensing (“ATOL”) scheme.
+
+Part 2 (regulation 2) makes a consequential amendment to the Carriage by Air Act 1961 to reflect changes made to Council Regulation [(EC) No 2027/97](https://www.legislation.gov.uk/european/regulation/1997/2027) by Part 4 of these Regulations.
+
+In Part 3, regulations 3 and 4 make consequential amendments to subordinate legislation to reflect changes made to Council Regulation [(EC) No 2027/97](https://www.legislation.gov.uk/european/regulation/1997/2027) by Part 4 of these Regulations.
+
+Regulation 5(2) widens offences for breaches of certain provisions of Regulation [(EC) No 261/2004](https://www.legislation.gov.uk/european/regulation/2004/0261) to cover breaches committed abroad. It comes into force 22 days after these Regulations are made. On EU exit, regulation 5(3) will further amend the offences for breach of those provisions, to align the scope of those offences with the scope of Regulation [(EC) No 261/2004](https://www.legislation.gov.uk/european/regulation/2004/0261) as amended by Part 4 of these Regulations.
+
+Regulation 6 makes changes to the ATOL scheme in light of the withdrawal of the United Kingdom from the EU, including at regulation 6(3) to (6) removal of provision which is based on mutual recognition of insolvency protection measures.
+
+Part 4 amends Council Regulation [(EC) No 2027/97](https://www.legislation.gov.uk/european/regulation/1997/2027) which concerns the obligations of air carriers as regards liability in relation to injury to passengers and damage to baggage; Regulation [(EC) No 261/2004](https://www.legislation.gov.uk/european/regulation/2004/0261) which concerns the rights of passengers if they are denied boarding against their will, or their flight is cancelled or delayed; and Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/european/regulation/2006/1107) which concerns the rights of disabled passengers and those with reduced mobility to access air transport and receive free-of-charge assistance to enable them to use it on an equal footing with other passengers. The amendments to these EU Regulations are made to ensure that they operate effectively as part of retained EU law by addressing deficiencies falling within section 8(2)(a) and (b) of the 2018 Act. For example, these Regulations remove redundant references to EU entities and concepts (e.g. Member States, the Community and Commission).
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. An Explanatory Memorandum has been published alongside these Regulations and is available with these Regulations at www.legislation.gov.uk.
+
+## Annotations
+
+[^c23588881]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23588891]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3 of the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c23588901]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16). Section 71 was amended by section 94 of the [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19) and section 1 of the [Air Travel Organisers' Licensing Act 2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33).
+
+[^c23588911]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661), to which there are amendments not relevant to these Regulations.
+
+[^key-3052913273e8208b68b8210eedc6853a]: Commencement: Reg. 1 in force at 9.3.2019, see reg. 1(2)
+
+[^key-fbbc1713a01f3e03963d2d1017b08ee9]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23588921]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27). Sections 1 and 14(2) were substituted by [S.I. 2002/263](https://www.legislation.gov.uk/uksi/2002/263) and section 14(2) was subsequently amended by [S.I. 2004/1418](https://www.legislation.gov.uk/uksi/2004/1418); there are other amending instruments but none is relevant.
+
+[^key-3e2185a834b06e4429ea1b7099863693]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23588931]: Marginal citation: [S.I. 2004/1418](https://www.legislation.gov.uk/uksi/2004/1418), to which there are amendments not relevant to these Regulations.
+
+[^key-a13514c7ebd876a96fcc4fa668cfb04a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23588941]: Marginal citation: [S.I. 2004/1899](https://www.legislation.gov.uk/uksi/2004/1899), amended by [S.I. 2004/1974](https://www.legislation.gov.uk/uksi/2004/1974).
+
+[^key-97b21921c9d9780748d62c0b8cbfae65]: Commencement: Reg. 5(1)(2) in force at 9.3.2019, see reg. 1(2)
+
+[^c23588951]: Marginal citation: [S.I. 2005/975](https://www.legislation.gov.uk/uksi/2005/975).
+
+[^key-afed20ccdfd83ba9151f6c03bc7da6fb]: Commencement: Reg. 5(3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^key-8045ef72477bb93a3523cbfa0719b91d]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23588961]: Marginal citation: [S.I. 2012/1017](https://www.legislation.gov.uk/uksi/2012/1017), amended by [S.I. 2012/1134](https://www.legislation.gov.uk/uksi/2012/1134) and 2018/670.
+
+[^key-26b68766ba3eea3b011bfc3269e9b7bd]: Textual amendment: Words in reg. 6(2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 37(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/37/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^key-e5a9f8dbe2a28cf9d5440da9cfcf2eb3]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23588991]: Marginal citation: As amended by Regulation (EC) No 889/2002 of the European Parliament and of the Council of 13 May 2002 amending Council Regulation (EC) No 2027/97 on air carrier liability in the event of accidents.
+
+[^key-639c58d4a8dbfa0807ffe8a7543ef745]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23589001]: Marginal citation: OJ L 293, 31.10.2008, p. 3.
+
+[^c23589011]: Marginal citation: [S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634).
+
+[^c23589021]: Marginal citation: [S.I. 2005/975](https://www.legislation.gov.uk/uksi/2005/975), amended by [S.I. 2016/729](https://www.legislation.gov.uk/uksi/2016/729).
+
+[^key-e0f94b1f9db743358dd75b2d1ee7d5f0]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23589031]: Marginal citation: [S.I. 1997/2389](https://www.legislation.gov.uk/uksi/1997/2389), amended by S.I 1998/2918; there are other amending instruments but none is relevant.
+
+[^c23589041]: Marginal citation: OJ L 293, 31.10.2008, p. 3.
+
+[^c23589051]: Marginal citation: [S.I. 2014/2833](https://www.legislation.gov.uk/uksi/2014/2833), amended by [S.I. 2016/729](https://www.legislation.gov.uk/uksi/2016/729).

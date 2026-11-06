@@ -1,0 +1,36 @@
+---
+title: Serious Crime Act 2007, section 56
+act: Serious Crime Act 2007
+section: '56'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/27/section/56
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Serious Crime Act 2007, section 56
+
+> **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 56. Persons who may be perpetrators or encouragers etc.[^key-b52f5dfe9ad333af2385c22568869a01][^key-8fac712985455041598b9ce15117ddd2][^key-8fac712985455041598b9ce15117ddd2]
+
+*Extent: E+W+N.I.*
+
+(1) In proceedings for an offence under this Part (“the inchoate offence”) the defendant may be convicted if—
+
+- (a) it is proved that he must have committed the inchoate offence or the anticipated offence; but
+- (b) it is not proved which of those offences he committed.
+
+(2) For the purposes of this section, a person is not to be treated as having committed the anticipated offence merely because he aided, abetted, counselled or procured its commission.
+
+(3) In relation to an offence under section 46, a reference in this section to the anticipated offence is to be read as a reference to an offence specified in the indictment.
+
+## Annotations
+
+[^key-b52f5dfe9ad333af2385c22568869a01]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2007/27/section/56) in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+
+[^key-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))

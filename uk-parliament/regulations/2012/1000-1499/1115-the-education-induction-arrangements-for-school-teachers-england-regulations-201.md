@@ -1,0 +1,788 @@
+---
+title: The Education (Induction Arrangements for School Teachers) (England) Regulations 2012
+id: uksi/2012/1115
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-04-18'
+text_date: '2025-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/1115
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1115/pdfs/uksiem_20121115_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1115/pdfs/uksi_20121115_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1115/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Induction Arrangements for School Teachers) (England) Regulations 2012
+
+> Text as at 2025-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 1115
+
+Education, England
+
+The Education (Induction Arrangements for School Teachers) (England) Regulations 2012
+
+Made
+
+18th April 2012
+
+Laid before Parliament
+
+20th April 2012
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 135A, 135B, 141C(1)(b), 210(4) and (7) and 214(1) and (2)(b) of the Education Act 2002 [^c21244941].
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Education (Induction Arrangements for School Teachers) (England) Regulations 2012 and, subject to paragraph (2), come into force on 1st September 2012.
+
+(2) Regulation 16(b) comes into force on 1st September 2013.
+
+(3) These Regulations apply in relation to England.
+
+## 2. Revocations and transitional provision
+
+(1) Subject to paragraph (2), the 2008 Induction Regulations are revoked.
+
+(2) The 2008 Induction Regulations continue to apply to any person who completed an induction period within the meaning of those Regulations before 1st September 2012, and these Regulations do not apply to any such person.
+
+(3) In paragraph (2) the reference to a person who has completed an induction period includes a person—
+
+- (a) whose induction period is extended under regulation 16(3)(b), 19(3)(c) or 19(4)(c) of the 2008 Induction Regulations; and
+- (b) who immediately before 1st September 2012 has not completed the induction period as extended.
+
+## 3. Interpretation
+
+(1) In these Regulations—
+
+- “**appropriate body**” means the appropriate body under regulation 4;
+- “**authority**” means a local authority;
+- “**institution**” means a school or institution in which an induction period may be served under these Regulations;
+- “teaching school hub” means a school which has been designated as such by the Secretary of State[^key-b3c9804bfb91e5c38473294bfdced970]
+- “**the 1998 Act**” means the School Standards and Framework Act 1998 [^c21244951];
+- “**the 2003 Qualifications Regulations**” means the Education (School Teachers' Qualifications) (England) Regulations 2003 [^c21244961];
+- “**the 2008 Induction Regulations**” means the Education (Induction Arrangements for School Teachers) (England) Regulations 2008 [^c21244971];
+- “**the Welsh Induction Regulations**” means the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015[^key-6708688e56da2c3fe1b6b064a68bebba].
+
+(2) For the purposes of these Regulations, “**head teacher**” includes the principal of an institution.
+
+## 4. Appropriate body
+
+(1) For the purposes of these Regulations the appropriate body —
+
+- (a) in relation to a relevant school [^c21244991] is a body mentioned in paragraph (2) which has agreed to act as the appropriate body in relation to the school;
+- (b) in relation to an independent school, a 16 to 19 Academy F2, an alternative provision Academy F3 or a non-maintained nursery school is a body mentioned in paragraph (2) which has agreed to act as the appropriate body in relation to the school or Academy (as the case may be);
+- (c) in relation to a further education institution is a body mentioned in paragraph (2) [^key-f608b13d4607cad1ea5f21ebba23978b]...(c) which has agreed to act as the appropriate body in relation to the institution.
+
+(2) A body referred to in paragraph (1) is —
+
+- (a) any body of persons (corporate or unincorporate) whom the Secretary of State has determined may act as the appropriate body in relation to such institutions; or[^key-23d74193329ad04ebef40993ea3d4a13]
+- (b)[^key-8689e11a11eea1e3bd08010b658999e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) subject to paragraph (3), a teaching school hub[^key-602456da505196617267e4bb92ce15a9].
+
+(3) A teaching school hub[^key-6bfae97d52170b3b4dd8fa12b4040d08] may not act as the appropriate body in relation to an institution in respect of any teacher—
+
+- (a) who has been assessed by that teaching school hub as meeting the specified standards for the purposes of the award of qualified teacher status; or
+- (b) who is serving any part of their induction period at that school.
+
+(4) For the purposes of this regulation, “**specified standards**” means the standards set out in “Teachers' Standards” published by the Secretary of State in July 2011 [^c21245021].
+
+## 5. Requirement to serve an induction period
+
+Subject to the exceptions in Schedule 1, no qualified teacher [^c21245031] is to be employed or engaged as a teacher at a relevant school unless that person has satisfactorily completed an induction period in accordance with these Regulations.
+
+## 6. Institutions in which an induction period may be served
+
+(1) Subject to paragraphs (3) and (4), an induction period may be served in—
+
+- (a) a relevant school;
+- (b) a nursery school that—
+  - (i) is not maintained by an authority; and
+  - (ii) is not a special school;
+- (c) an independent school in England;
+- (d) an independent school overseas, provided that—
+  - (i) such a school is a member of an organisation which the Secretary of State has determined may represent independent schools overseas; and
+  - (ii) an inspection within the previous six years by an inspectorate accredited by the Secretary of State has confirmed that the school complies with the standards [^c21245041] issued by the Secretary of State for such schools;
+- (e) a 16 to 19 Academy and an alternative provision Academy; or
+- (f) a further education institution.
+
+(2) Subject to paragraph (3), an induction period may also be served in a school or a further education institution in Wales in which an induction period may be served under the Welsh Induction Regulations.
+
+(3) An induction period may not be served in—
+
+- (a) a school which is eligible for intervention by virtue of section 62 of the 2006 Act, unless—
+  - (i) the person in question first worked as a qualified teacher, or was employed on an employment-based teacher training scheme, at the school at a time when the school was not eligible for intervention by virtue of section 62 of the 2006 Act or at a time when the circumstances described in section 15(6) of the 1998 Act did not apply; or
+  - (ii) the Chief Inspector has certified in writing that the Chief Inspector is satisfied that the school, or the part of such a school in which the person in question teaches, is fit for the purpose of providing supervision and training during an induction period; or
+- (b) a further education institution where the most recent report made pursuant to section 124(4)(a) of the 2006 Act stated that the Chief Inspector considered that the education or training inspected was not of an adequate quality, unless—
+  - (i) the person in question first worked as a qualified teacher in that institution at a time when the most recent of such reports did not state that the Chief Inspector considered that the education or training inspected was not of an adequate quality; or
+  - (ii) the Chief Inspector has certified in writing that the institution, or the part of such an institution in which the person in question teaches, is fit for the purpose of providing supervision and training during an induction period.
+
+(4) An induction period may not be served unless, before the start of the induction period, it has been agreed that an appropriate body is to act as such.
+
+(5) For the purposes of this regulation—
+
+- (a) “**the 2006 Act**” means the Education and Inspections Act 2006 [^c21245051];
+- (b) “**employment-based teacher training scheme**” means a scheme established, or having effect as if established, by the Secretary of State for the purposes of paragraph 10 of Schedule 2 to the 2003 Qualifications Regulations [^c21245061];
+- (c) “**Chief Inspector**” means Her Majesty's Chief Inspector of Education, Children's Services and Skills.
+
+## 7. Length of an induction period
+
+(1) Subject to the following provisions of this regulation, the length of the induction period is a period equivalent to six school terms, divided into two parts each consisting of three school terms of the institution in which induction is begun[^key-74bcceaf433923f30f0c45cc31257469], based on a school year of three terms.
+
+(2)[^key-42e92e054abff34c721d0837329d8ea8] Where an induction period started before 1st September 2021 and is completed by 1st September 2023, it must be served for a period equivalent to no less than three school terms of the institution in which induction is begun, based on a school year of three terms.
+
+(2) A period of continuous employment as a qualified teacher of at least the equivalent of one school term, based on a school year of three terms, counts towards an induction period.
+
+(3) The appropriate body may, with the consent of the teacher concerned, reduce the induction period which the teacher is required to serve to a minimum of one school term if they are satisfied that the teacher has met the standards referred to in regulation 10(5).
+
+(4) Unless, before the start of the induction period, the head teacher of the institution agrees, no period of engagement as a supply teacher counts towards an induction period.
+
+## 8. Extension of an induction period before completion
+
+(1)[^key-a5ed149abeb4e7b73d42236b4914531c] Subject to paragraph (2), where a person serving an induction period is absent from work on 30 or more days in either the first or the second part of an induction period, then the relevant part is to be extended by the aggregate period of that person’s absence within that part.
+
+(1A)[^key-ed27123e9019580230cbc5020918c51b] For the purposes of paragraph 1, no account is to be taken of any absence before 1st September 2022[^key-bbff924fbf6c539268435b5ce6b18531] which is for a reason relating to the incidence or transmission of coronavirus.
+
+(2)[^key-0b185c63f93ef0398d4b117bfd8cf797] Paragraph (1) does not apply where a person is absent from work for more than 30 days for one of, or a combination of, the following reasons—
+
+- (a) the maternity leave period specified in regulation 7(1) of the Maternity and Parental Leave etc Regulations 1999;
+- (b) taking parental bereavement leave within the meaning given in regulation 3 of the Parental Bereavement Leave Regulations 2020;
+- (c)[^key-3e08b60ae4b68ab9004b11f05963b448] the exercise of the right to parental leave conferred by or under section 76 of the Employment Rights Act 1996;
+- (d) the exercise of the right to paternity leave conferred by or under section 80A or 80B of the Employment Rights Act 1996;
+- (e) the exercise of the right to adoption leave conferred by or under section 75A or 75B of the Employment Rights Act 1996;[^key-d70c97605c0098ab4e202d4520f7e2b6]
+- (f)[^key-0a9a11ede58d878bbd13be3a02d00161] the exercise of the right to carer’s leave conferred by or under section 80J of the Employment Rights Act 1996 ;[^key-844403e768a4d7abcdf1ece4dc2fa07b]
+- (g)[^key-f80a6b80cafe639e1c928a74b5100005] the exercise of the right to neonatal care leave conferred by or under section 80EF of the Employment Rights Act 1996;
+
+unless that person requests that the induction period is extended in accordance with paragraph (1).
+
+(3) Where an induction period is extended under regulation 10 of the Welsh Induction Regulations and the person serving the induction period becomes employed at an institution in England, the induction period is to be treated as having been extended under this regulation.
+
+(4) Except as provided for in this regulation an induction period may not be extended before its completion.
+
+(5)[^key-39b8740c55da3b24dd483c076a2d4f79] In paragraph (1A) “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+## 9. Service of more than one induction period
+
+No person may serve more than one induction period.
+
+## 10. Supervision, training and assessment
+
+(1) The head teacher of an institution in which a person is serving an induction period and the appropriate body are responsible for that person's supervision and training during that induction period.
+
+(2) Where a person serving an induction period is employed in two or more institutions simultaneously, the head teachers of those institutions must agree which of them, and which appropriate body, is to be responsible for that person's supervision and training.
+
+(3) The duties assigned to a person serving an induction period, that person's supervision and the conditions under which that person works are to be such as to facilitate a fair and effective assessment of that person's conduct and efficiency as a teacher.
+
+(4)[^key-32e967130c731d90e30e2027c75f87ab] A person serving an induction period in a relevant school must not—
+
+- (a) during the first three school terms of that induction period, teach for more than 90 per cent of the time that a teacher at the school would be expected to teach; and
+- (b) during the second three school terms of that induction period, teach for more than 95 per cent of the time that a teacher at the school would be expected to teach.
+
+(5) The Secretary of State may determine the standards against which a person is to be assessed for the purpose of deciding whether the person has satisfactorily completed an induction period.
+
+## 11. Completion of an induction period
+
+(1) A person (“P”) has completed an induction period for the purposes of this regulation where that person has served an induction period of the length specified in regulation 7 and any extension to that period provided for by these Regulations.
+
+(2) This regulation is subject to Schedule 1A[^key-6df377cf62d5f8e0907de183180df350].
+
+(3) The head teacher of the institution at which P is employed at the completion of the induction period must within 10 working days beginning with the date on which the induction period was completed make a written recommendation to the appropriate body as to whether P— 
+
+- (a) has achieved the standards mentioned in regulation 10(5); or
+- (b) should have the induction period extended by such period as the head teacher recommends,
+
+and at the same time send a copy of the recommendation to P.
+
+(4) P may make written representations to the appropriate body with regard to the head teacher's recommendation under paragraph (3) within 10 working days beginning with the date on which the recommendation is received.
+
+(5) The appropriate body must within 20 working days beginning with the date on which they received the head teacher's recommendation under paragraph (3), or a written request under paragraph 2 of Schedule 1A,[^key-2d851c1a683aaeca5d009ec1559f9584] decide whether P—
+
+- (a) has achieved the standards mentioned in regulation 10(5) and has accordingly satisfactorily completed the induction period;
+- (b) should have the induction period extended by such period as they determine; or
+- (c) has failed satisfactorily to complete the induction period.
+
+(6) Before making a decision under paragraph (5) the appropriate body must have regard to any written representations made in accordance with paragraph (4) or Schedule 1A[^key-b5d0d377027b55e87a2227a21c6c34be].
+
+(7) The appropriate body must, within 3 working days (or as soon as practicable in the case of the Secretary of State) beginning with the date on which the decision was made under paragraph (5), give written notice of the decision to—
+
+- (a) P;
+- (b) the head teacher of the institution at which P was employed at the completion of the induction period;
+- (c) if P is not employed by the appropriate body, P's employer at the completion of the induction period; and
+- (d) the Secretary of State.
+
+(8) Where the appropriate body made a decision falling within paragraph (5)(b) or (c), the appropriate body must also give P written notice of—
+
+- (a) P's right to appeal pursuant to regulation 14 against the decision;
+- (b) the address to which an appeal should be sent; and
+- (c) the time period for making an appeal.
+
+(9) In this regulation “**appropriate body**” means the appropriate body for the institution at which the person is employed at the completion of the induction period.
+
+## 12. Termination of employment following failure satisfactorily to complete an induction period
+
+(1) This paragraph applies to a person employed as a teacher at a relevant school in England when the decision is made under regulation 11(5)(c) of these Regulations, or regulation 13(3)(c)[^key-5086216b59d1382d7d6ebcc702652316] of the Welsh Induction Regulations, that the person has failed satisfactorily to complete their induction period.
+
+(2) The employer of a person to whom paragraph (1) applies must secure the termination of the person's employment as a teacher if—
+
+- (a) no appeal is made to the Secretary of State or the Education Workforce Council[^key-862df44e0b9c39c716c08ea0bff9211e] against the decision of the appropriate body; or
+- (b) such an appeal is dismissed.
+
+(3) An employer must take the steps necessary to secure the termination of the person's employment in the circumstances mentioned in paragraph (2)(a) so that the termination takes effect within 10 working days beginning with the date on which—
+
+- (a) the employer received written notification from the person that they did not intend to appeal to the Secretary of State; or
+- (b) the time limit for appeal imposed by paragraph 2 of Schedule 3 or by paragraph 2(1) of Schedule 3[^key-996196c40656cad3431d4bdd4bea8acc] to the Welsh Induction Regulations expired, as the case may be.
+
+(4) The employer must take the steps necessary to secure the termination of the person's employment in the circumstances mentioned in paragraph (2)(b) so that the termination takes effect within 10 working days beginning with the date on which the employer received written notice of the outcome of the appeal hearing.
+
+## 13. Inclusion on the list of persons who have failed satisfactorily to complete an induction period
+
+(1) Subject to paragraph (2), the name of any person in respect of whom a decision is made under regulation 11(5)(c) that the person has failed satisfactorily to complete an induction period which the person is required to serve must be included on the list kept by the Secretary of State under section 141C(1)(b) of the Education Act 2002 [^c21245081].
+
+(2) The name of the person shall not be included on the list until—
+
+- (a) the time within which an appeal may be made against the decision has expired; or
+- (b) any such appeal is dismissed.
+
+## 14. Appeals
+
+(1) Where the appropriate body makes a decision under regulation 11(5) that a person —
+
+- (a) should have the induction period extended; or
+- (b) has failed satisfactorily to complete the induction period,
+
+that person may appeal to the Secretary of State against the decision.
+
+(2) Schedule 3 has effect in relation to appeals under this regulation.
+
+(3) Where a person appeals against a decision to extend the induction period, the Secretary of State may—
+
+- (a) allow the appeal;
+- (b) dismiss the appeal; or
+- (c) substitute a different period of extension.
+
+(4) Where a person appeals against a decision that they have failed satisfactorily to complete the induction period, the Secretary of State may—
+
+- (a) allow the appeal;
+- (b) dismiss the appeal; or
+- (c) extend the induction for such period as the Secretary of State thinks fit.
+
+## 15. Other functions of the appropriate body
+
+The appropriate body may provide—
+
+- (a) guidance, support and assistance to institutions; and
+- (b) training for teachers,
+
+in connection with providing training, supervision and assessment under these Regulations.
+
+## 16. Charges
+
+Where an appropriate body exercises a function under these Regulations, they may make a reasonable charge not exceeding the cost of exercising that function—
+
+- (a) to the proprietor of an independent school, 16 to 19 Academy, alternative provision Academy or nursery school, or to the governing body of a further education institution; or
+- (b) to the governing body of a relevant school.
+
+## 17. Guidance given by the Secretary of State
+
+A person or body exercising a function under these Regulations must have regard to any guidance given by the Secretary of State from time to time as to the exercise of that function.
+
+## 18. Notice under these Regulations
+
+Notice under these Regulations may be given to a person by facsimile, electronic mail or other similar means which are capable of producing a document containing the text of the communication, in which case the notice will be deemed to have been received on the second day after the day on which it was transmitted.
+
+Nick Gibb
+
+Minister of State
+
+Department for Education
+
+## SCHEDULE 1 — Cases in which a person may be employed as a qualified teacher in a relevant school without having satisfactorily completed an induction period under these Regulations
+
+Regulation 5
+
+**1.** A person who on 7th May 1999 was a qualified teacher.
+
+**2.** A person who—
+
+- (a) is serving an induction period (including an extended induction period); or
+- (b) has completed such an induction period and is being employed to work as a teacher pending a decision of the appropriate body pursuant to regulation 11(5) of these Regulations or regulation 13(2)[^key-7c8e515881018900ab5f5f877251ff2e] of the Welsh Induction Regulations.
+
+**3.** A person who has failed satisfactorily to complete an induction period who continues to be employed pending the outcome of that person's appeal.
+
+**4.** A person who is employed for one or more periods of less than one school term as a supply teacher during the period of five years starting on the date on which that person becomes a qualified teacher.
+
+**5.** A person who can no longer be employed under paragraph 4 of this Schedule but who is employed for a period as a supply teacher while serving an induction period in part-time service.
+
+**6.** A person who has satisfactorily completed an induction period under regulations made from time to time under or under section 17 of the Education (Wales) Act 2014[^key-56f92188b439c71c09ead0654ad6d124] in relation to teachers in Wales.
+
+**7.** A person—
+
+- (a) who qualified as a teacher in England on or after 7th May 1999 but on or before 1st April 2003;
+- (b) whose first post as a teacher (including as a supply teacher) following that person's qualification was in a school in Wales; and
+- (c) who on or before 1st April 2003 has completed not less than two school terms' service in such a post.
+
+**8.**[^key-658a9b8ef049cbebcb604fe5ca3230d0] A person who—
+
+- (a) has, or is eligible for, full registration as a teacher of primary or secondary education with the General Teaching Council for Scotland; and
+- (b) unless the person had, or was eligible for, such registration immediately before 1st February 2023, has successfully completed a probationary period in Scotland.
+
+**9.** A person who—
+
+- (a) has successfully completed the induction stage of teacher education in Northern Ireland; or
+- (b) was employed as a teacher in Northern Ireland at any time prior to the introduction of the induction stage of teacher training in Northern Ireland.
+
+**10.**[^key-9d96d9ec56dc0c01706786ec7ac1f61f] (1)[^key-1a6db13882eb3e661a406dc3c5fc7548] A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 8 or paragraph 8A of Schedule 2 to, the 2003 Qualifications Regulations —[^key-a607df75418afd053be64f4fdc7db970]
+
+- (a) before 1st February 2023 and remains so qualified; or
+- (b) pursuant to—
+  - (i) a decision taken or determination made under the 2007 Regulations in accordance with paragraph 50 or paragraph 51 of Schedule 1 to the 2019 Regulations in respect of a transitional application; or
+  - (ii) a decision taken or determination made under the 2015 Regulations in accordance with paragraph 44 of Schedule 1 to the 2019 Regulations or paragraphs 1, 2(2) and (3) of Schedule 1 to the Professional Qualifications Act 2022 (Commencement No. 3) Regulations 2023[^key-a3cad99aa47b85b7317427bd59c8abdf] in respect of a transitional application
+
+(2)[^key-195132be71294766c291a7498c74bf8d] In this paragraph “**transitional application**” means an application made, but not finally determined, before the transition end date—
+
+- (a) under, or relying on an entitlement under, Chapters 1 and 2 of Part 3 of the 2007 Regulations;
+- (b) for recognition of a relevant qualification (within the meaning of paragraph 51 of Schedule 1 to the 2019 Regulations); or
+- (c) under, or relying on an entitlement under, Chapters 1 and 2 of Part 3 of the 2015 Regulations.
+
+(3) For the purposes of sub-paragraph (2)—
+
+- (a) “**transition end date**” means—
+  - (i) in the case of an application made for recognition of a relevant qualification, the end of the period of four years beginning with IP completion day;
+  - (ii) in any other case, 1st February 2023;
+- (b) an application is finally determined if the competent authority has notified, or is deemed to have notified, the applicant of its decision and either—
+  - (i) the period for appeal against that decision under regulation 36 of the 2007 Regulations or, as the case may be, regulation 68 of the 2015 Regulations has expired without an appeal being made; or
+  - (ii) where an appeal was made against that decision, that appeal has been finally determined or withdrawn;
+- (c) “**competent authority**” has the meaning that it has for the purposes of the 2007 Regulations or, as the case may be, the 2015 Regulations.
+
+(4) In this paragraph—
+
+- “**the 2007 Regulations**” means the European Communities (Recognition of Professional Qualifications) Regulations 2007;
+- “**the 2015 Regulations**” means the European Union (Recognition of Professional Qualifications) Regulations 2015;
+- “**the 2019 Regulations**” means the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019.
+
+**11.** A person who has successfully completed a probationary period for teachers under arrangements approved and supervised by the Director of Education of Gibraltar.
+
+**12.** A person who has successfully completed the States of Jersey Induction Programme for Newly Qualified Teachers.
+
+**13.** A person who has been approved by the States of Guernsey Education Department as having successfully completed an induction period for teachers.
+
+**14.** A person who has successfully completed an induction period for teachers under arrangements approved and supervised by the Isle of Man Department of Education and Children.
+
+**15.** A person who on or before 7th May 1999—
+
+- (a) was employed as a teacher at a relevant school in England or Wales; and
+- (b) either—
+  - (i) had successfully completed a course of initial training for teachers in schools at an educational institution in Scotland; or
+  - (ii) was registered as a teacher of primary or secondary education with the General Teaching Council for Scotland.
+
+**16.** A person who on or before 7th May 1999—
+
+- (a) was employed as a teacher at a relevant school in England or Wales; and
+- (b) either—
+  - (i) had successfully completed a course of initial training for teachers in schools at an educational institution in Northern Ireland; or
+  - (ii) had been awarded confirmation of recognition as a teacher in schools in Northern Ireland by the Northern Ireland Department of Education, that confirmation not having been withdrawn at any time subsequent to the award.
+
+**17.** A person who is a qualified teacher and who became so qualified by virtue of regulation 5 of, and paragraph 12 of Schedule 2 to, the 2003 Qualifications Regulations.
+
+**18.** A person who—
+
+- (a) has successfully completed a programme of professional training for teachers in any country outside the United Kingdom and which is recognised as such by the competent authority in that country;
+- (b) has not less than two years' full-time teaching experience, or its equivalent, in the United Kingdom or elsewhere;
+- (c) is a qualified teacher who became so qualified on or after 26th April 2001 by virtue of regulation 5 of, and paragraph 9 or 10 of Schedule 2 to, the 2003 Qualifications Regulations; and
+- (d) has been assessed by a person approved by the Secretary of State as meeting the standards mentioned in regulation 10(5).
+
+**19.** A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 13 of Schedule 2 to, the 2003 Qualifications Regulations.
+
+**20.**[^key-db03dee5c575d966cfc624af5b178c71] A person who has successfully completed an induction programme for teachers in a school which is administered or maintained by, or on behalf of, the Secretary of State for Defence and outside the United Kingdom.
+
+**21.** A person who on or before 1st September 2003 has successfully completed a course of initial teacher training in an educational institution in Wales.
+
+**22.** A person who is a qualified teacher and became so qualified by virtue of regulation 5 of, and paragraph 13A of Schedule 2 to, the 2003 Qualifications Regulations.
+
+**23.** A person who is a qualified teacher and became so qualified by virtue of regulation 5 of, and paragraph 13B of Schedule 2 to, the 2003 Qualifications Regulations.
+
+**24.** (1) A person —
+
+- (a) who has been informed in error by the General Teaching Council for England or the Secretary of State that they are exempt from the requirement to complete an induction period; or
+- (b) who has satisfactorily completed an induction period but is unable to produce verifying data,
+
+and in relation to whom the appropriate body are satisfied, on the basis of the information referred to in sub-paragraph (2), that they have met the standards referred to in regulation 10(5).
+
+(2) The information referred to is the person's most recent available appraisal report, covering a period of one year within the previous five years, from an institution referred to in regulation 6.
+
+(3) For the purposes of this paragraph, an appraisal report means a report of an appraisal or its equivalent carried out under the School Teacher Appraisal (Wales) Regulations 2002 [^c21245111], the Education (School Teacher Performance Management) (England) Regulations 2006 [^c21245121] or the Education (School Teachers' Appraisal) (England) Regulations 2012 [^c21245131].
+
+**25.**[^key-75ad4c9d2af7343ada2fd4f0f2e45fd5] (1) A person who—
+
+- (a) is a qualified teacher and became so qualified on or after 1st February 2023 by virtue of—
+  - (i) regulation 5 of, and paragraph 8 or 8A of Schedule 2 to, the 2003 Qualifications Regulations, otherwise than following a transitional application (within the meaning given in paragraph 10 of this Schedule); or
+  - (ii) regulation 5 of, and paragraph 13E or 13F[^key-dc363af794bca3e7929a873d2d9a8754] of Schedule 2 to, the 2003 Qualifications Regulations, and
+- (b) has not less than two years’ full-time teaching experience, or its equivalent, in the United Kingdom or elsewhere.
+
+## SCHEDULE 1A — Special provisions applying to qualified teachers for whom the requirement to pass a numeracy skills test has been abolished[^key-65bfb7e178a81da3de48d1c3c06b8183]
+
+Regulation 11
+
+### 1. Persons to whom this Schedule applies
+
+This Schedule applies to a person (in this Schedule, “P”) who—
+
+- (a) qualified as a teacher between 1st May 2000 and 30th April 2001;
+- (b) has completed an induction period;
+- (c) had not passed a numeracy skills test before 25th June 2020; and
+- (d) was required to pass a numeracy skills test in order to achieve the standards mentioned in regulation 10(5).
+
+### 2. Ability of P to ask appropriate body to make decision
+
+(1) P may ask the appropriate body to decide whether P has satisfactorily completed an induction period.
+
+(2) A request under sub-paragraph (1) must be submitted in writing, with any written representations or other evidence upon which P wishes to rely, to—
+
+- (a) the appropriate body; and
+- (b) the Secretary of State.
+
+### 3. Decision of appropriate body
+
+When making a decision pursuant to paragraph 2 [^key-c1df6a309416cd3770447dc9532928d9]..., the appropriate body must disregard the fact that P had not passed a numeracy skills test before 25th June 2020.
+
+### 4. Interpretation
+
+In this Schedule—
+
+- “appropriate body” has the meaning given in regulation 11(9);
+- “numeracy skills test” means any numeracy test determined by the Secretary of State, before 25th June 2020, as an induction standard under regulation 10(5) in relation to a person who qualified as a teacher between 1st May 2000 and 30th April 2001.
+
+## SCHEDULE 2 — Special provisions applying to a qualified teacher who has not passed the numeracy skills test on completion of the induction period[^key-8d09f0a836d58c152512a72721bac6f0]
+
+**No longer in force.**
+
+Regulation 11
+
+**1.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Procedure for appeal against a decision of the appropriate body
+
+Regulation 14
+
+### 1. Interpretation
+
+In this Schedule—
+
+- “**appellant**” means a person who appeals to the Secretary of State under regulation 14(1);
+- “**the parties**” means the appellant and the respondent and a “**party**” means the appellant or the respondent, or either of the parties, as the context requires;
+- “**respondent**” means the appropriate body which took the decision which is the subject of the appeal.
+
+### 2. Time for appeal
+
+An appeal to the Secretary of State must be made by notice served on the Secretary of State within 20 working days beginning with the day on which the appellant is deemed to have received the notice under regulation 11(7).
+
+### 3. Notice of appeal
+
+A notice of appeal must—
+
+- (a) contain—
+  - (i) the name and contact details of the appellant;
+  - (ii) the name and contact details of the institution at which the appellant was employed at the completion of the induction period;
+  - (iii) if the appellant is employed in a teaching capacity at the date the appellant makes the appeal, the name and contact details of the appellant's employer;
+  - (iv) the name and contact details of any person representing the appellant in respect of the appeal;
+  - (v) the grounds on which the appellant appeals;
+  - (vi) a statement as to whether or not the appellant requests an oral hearing;
+- (b) be signed by or on behalf of the appellant;
+- (c) be accompanied by a copy of—
+  - (i) the notice given under regulation 11(7);
+  - (ii) any reasons given by the respondent in support of such notice;
+  - (iii) any other information on which the appellant seeks to rely for the purposes of the appeal.
+
+**4.** (1) The appellant may serve an amended notice of appeal on the Secretary of State at any time and, subject to sub-paragraph (2), the Secretary of State must send a copy to the respondent.
+
+(2) The Secretary of State need not comply with sub-paragraph (1) if the amended notice of appeal is received after the Secretary of State has—
+
+- (a) determined to decide the appeal without a hearing; or
+- (b) (as the case may be) notified the parties in accordance with paragraph 13(1).
+
+(3) Paragraph 3(a)(i) and (v), (b) and (c)(iii) apply in relation to an amended notice of appeal as they apply to a notice of appeal.
+
+### 5. Acknowledgment of notice of appeal
+
+The Secretary of State must—
+
+- (a) send the appellant an acknowledgement of the notice of appeal;
+- (b) send a copy of the notice of appeal and accompanying documents to the respondent;
+- (c) send a copy of the notice of appeal to—
+  - (i) the head teacher of the institution at which the appellant was employed at the completion of the induction period;
+  - (ii) any person named in the notice of appeal as the appellant's employer.
+
+### 6. Reply from appropriate body etc.
+
+(1) The respondent must reply to the Secretary of State within 20 working days beginning with the day on which the respondent receives the copy of the notice of appeal.
+
+(2) The reply must state whether the respondent seeks to defend the decision which is the subject of the appeal.
+
+(3) Where the respondent seeks to defend the decision which is the subject of the appeal the reply must—
+
+- (a) contain—
+  - (i) the respondent's response to the grounds on which the appellant appeals;
+  - (ii) a statement as to whether or not the respondent requests an oral hearing;
+- (b) be accompanied by—
+  - (i) any document or information on which the respondent wishes to rely in seeking to uphold the decision which is the subject of the appeal;
+  - (ii) the respondent's reasons for giving notice under regulation 11(7), if not already provided to the appellant.
+
+(4) The respondent may serve an amended reply on the Secretary of State at any time and, subject to sub-paragraph (5), the Secretary of State must send a copy to the appellant.
+
+(5) The Secretary of State need not comply with sub-paragraph (4) if the amended reply is received after the Secretary of State has—
+
+- (a) determined to decide the appeal without a hearing; or
+- (b) (as the case may be) notified the parties in accordance with paragraph 13(1).
+
+(6) Sub-paragraph (3) applies in relation to an amended reply as it applies to a reply.
+
+### 7. Acknowledgment of reply etc.
+
+The Secretary of State must acknowledge the reply and send a copy of the reply and any accompanying documents and information to the appellant.
+
+### 8. Information: further provision
+
+(1) The Secretary of State may require the appellant or the respondent to provide the Secretary of State with such further documents or information as the Secretary of State considers appropriate by the date specified in the request.
+
+(2) The Secretary of State must inform the appellant or the respondent (as the case may be) of any request made under sub-paragraph (1).
+
+(3) The appellant or the respondent may provide further documents or information to the Secretary of State at any time.
+
+(4) Subject to sub-paragraph (5), the Secretary of State must send a copy of any document or information provided by one of the parties to the other party.
+
+(5) The Secretary of State need not comply with sub-paragraph (4) where the further document or information is received after the Secretary of State has—
+
+- (a) determined to decide the appeal without a hearing; or
+- (b) (as the case may be) notified the parties in accordance with paragraph 13(1).
+
+### 9. Withdrawal of appeal or reply
+
+(1) The appellant may withdraw the appeal at any time by notice served on the Secretary of State.
+
+(2) The respondent may withdraw the reply at any time by notice served on the Secretary of State.
+
+(3) The Secretary of State must notify the respondent if the appellant withdraws the appeal and the appellant if the respondent withdraws the reply.
+
+### 10. Determination of appeal on failure to defend the appeal or withdrawal of appeal or reply
+
+(1) The Secretary of State must allow the appeal where—
+
+- (a) the respondent's reply states that the respondent does not seek to defend the decision which is the subject of the appeal; or
+- (b) the respondent withdraws the reply.
+
+(2) The Secretary of State must notify the appellant if the appeal is allowed under sub-paragraph (1).
+
+### 11. Determination of appeal without a hearing
+
+At any time after the expiry of the period in paragraph 6(1) if neither of the parties has requested a hearing the Secretary of State may decide the appeal without a hearing.
+
+### 12. Appeal panels
+
+(1) Where there is to be a hearing the Secretary of State must appoint a panel in accordance with sub-paragraph (2) to consider the appeal.
+
+(2) A panel must include at least three persons, comprising—
+
+- (a) one or more teachers or persons who have been teachers in the past five years; and
+- (b) one or more other persons.
+
+### 13. Notification of hearing date etc.
+
+(1) Where there is to be a hearing the Secretary of State must—
+
+- (a) notify the parties of the time and date of the hearing (which must be at least 15 working days after the date of the notice of the hearing), and its location;
+- (b) offer the parties the opportunity to submit written representations instead of attending the hearing;
+- (c) advise the parties of the possible consequences of failing to attend the hearing without having submitted written representations.
+
+(2) The Secretary of State must notify the parties of any change of date, time or location of a hearing.
+
+### 14. Preparations for hearing
+
+Each of the parties must, no later than 10 working days before the date of the hearing, inform the Secretary of State—
+
+- (a) whether or not the party intends to appear or be represented at the hearing;
+- (b) of the name of any witness the party intends to call at the hearing.
+
+### 15. Written representations
+
+(1) A party choosing to submit written representations instead of appearing or being represented at a hearing must do so no later than 10 working days before the date of the hearing.
+
+(2) The Secretary of State must send a copy of any written representations to the other party to the appeal.
+
+### 16. Procedure at the hearing
+
+(1) A hearing must be in public except so far as the Secretary of State determines the hearing is to be in private.
+
+(2) The procedure at the hearing is to be determined by the Secretary of State, and the panel appointed under paragraph 12 must consider cases referred to it by the Secretary of State in accordance with such procedure.
+
+(3) The panel must make a recommendation to the Secretary of State as to whether the appeal should be allowed.
+
+(4) The Secretary of State may adjourn a hearing.
+
+### 17. Notification of decision on an appeal
+
+(1) The Secretary of State must notify in writing the persons specified in sub-paragraph (2) of the decision on an appeal and the reasons for that decision.
+
+(2) The persons referred to in sub-paragraph (1) are—
+
+- (a) the parties; and
+- (b) the head teacher of the institution at which the appellant was employed at the completion of the appellant's induction period.
+
+(3) The Secretary of State must notify in writing any person named in the notice of appeal as the appellant's employer of the decision.
+
+### 18. Time limits and irregularities
+
+(1) The Secretary of State may extend any time limit imposed on the appellant or the respondent by this Schedule (whether before or after the expiry of the time limit) if the Secretary of State considers it appropriate to do so.
+
+(2) An irregularity in the procedure for an appeal does not of itself invalidate the decision on appeal.
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Education (Induction Arrangements for School Teachers) (England) Regulations 2008.
+
+Subject to the exceptions set out in Schedule 1, no qualified teacher may be employed in a maintained school or a non-maintained special school unless they have satisfactorily completed an induction period in accordance with these Regulations (regulation 5).
+
+The Regulations provide for the institutions in which induction may be served, and the conditions which apply in relation to those (regulation 6). The length of an induction period will normally be the equivalent to three school terms of the institution in which induction is begun, although this may be reduced in certain circumstances (regulation 7) and may also be extended before its completion (regulation 8).
+
+Regulation 10 makes provision for a person's supervision, training and assessment when serving induction. It provides that a person serving induction in a relevant school must not teach for more than 90 per cent of the time that a teacher at the school would be expected to teach.
+
+The Secretary of State sets standards which must be met in order for a person to complete the induction period satisfactorily (regulation 10). On completion of that period, the head teacher or principal of the institution where induction is completed must make a recommendation to the appropriate body as to whether those standards have been met (regulation 11). The appropriate body in respect of each institution where induction may be served is specified in regulation 4. The appropriate body must then decide whether (i) the person has achieved the standards and satisfactorily completed induction, (ii) the induction period should be extended, or (iii) the person has failed satisfactorily to complete induction.
+
+A person whose induction period is extended, or who has failed to complete induction satisfactorily, may appeal that decision to the Secretary of State (regulation 14). Schedule 3 sets out the procedure for such appeals.
+
+Section 141C(1)(b) of the Education Act 2002 (inserted by the Education Act 2011) provides that the Secretary of State must keep a list containing the names of persons who have begun, but who have failed satisfactorily to complete, an induction period in prescribed circumstances. Regulation 13 provides that the name of any person who has failed satisfactorily to complete an induction period must be included on that list. The name cannot be added until the time for appeal has expired or the appeal has been dismissed.
+
+Any person exercising functions under these Regulations must have regard to any guidance given by the Secretary of State.
+
+An impact assessment has not been prepared for these Regulations as no impact on businesses or civil society organisations is foreseen. The impact on the public sector is minimal.
+
+## Annotations
+
+[^c21244941]: Marginal citation: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). Sections 135A, 135B and 135C were inserted by section 9 of the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) (“**the 2011 Act**”). Section 141C(1)(b) was inserted by section 8. See section 212(1) of the Education Act 2002 for the definitions of “prescribed” and “regulations”.
+
+[^key-b3c9804bfb91e5c38473294bfdced970]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/1115/regulation/3) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(2)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/2/a)
+
+[^c21244951]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^c21244961]: Marginal citation: [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662), as amended by section 74 of the [Education Act 2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18) and further amended by [S.I. 2007/2782](https://www.legislation.gov.uk/uksi/2007/2782), [2009/3156](https://www.legislation.gov.uk/uksi/2009/3156), [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and [2012/431](https://www.legislation.gov.uk/uksi/2012/431).
+
+[^c21244971]: Marginal citation: [S.I. 2008/657](https://www.legislation.gov.uk/uksi/2008/657), as amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and [S.I. 2012/513](https://www.legislation.gov.uk/uksi/2012/513).
+
+[^key-6708688e56da2c3fe1b6b064a68bebba]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/1115/regulation/3) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/2/b)
+
+[^c21244991]: Marginal citation: See section 135A(4) of the Education Act 2002 for the definition of a relevant school.
+
+[^key-f608b13d4607cad1ea5f21ebba23978b]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/1/c) omitted (1.9.2023) by virtue of [The Education (Induction Arrangements for School Teachers) (England) (Amendment) Regulations 2023 (S.I. 2023/448)](https://www.legislation.gov.uk/uksi/2023/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/448/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/448/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/448/regulation/3))
+
+[^key-23d74193329ad04ebef40993ea3d4a13]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/2/a) inserted (1.9.2023) by [The Education (Induction Arrangements for School Teachers) (England) (Amendment) Regulations 2023 (S.I. 2023/448)](https://www.legislation.gov.uk/uksi/2023/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/448/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/448/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/448/regulation/3))
+
+[^key-8689e11a11eea1e3bd08010b658999e8]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/2/b) omitted (1.9.2023) by virtue of [The Education (Induction Arrangements for School Teachers) (England) (Amendment) Regulations 2023 (S.I. 2023/448)](https://www.legislation.gov.uk/uksi/2023/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/448/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/448/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/448/regulation/3))
+
+[^key-602456da505196617267e4bb92ce15a9]: Textual amendment: Word in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/2/c) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/3)
+
+[^key-6bfae97d52170b3b4dd8fa12b4040d08]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/3) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/3)
+
+[^c21245021]: Marginal citation: The Teachers' Standards can be found at https://www.gov.uk/government/publications/teachers-standards.
+
+[^c21245031]: Marginal citation: See section 132 of the Education Act 2002 for the definition of a qualified teacher.
+
+[^c21245041]: Marginal citation: The standards for independent schools overseas can be found at https://www.gov.uk/government/publications/british-schools-overseas-standards-for-schools.
+
+[^c21245051]: Marginal citation: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^c21245061]: Marginal citation: By paragraph 5 of Schedule 1 to [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662), the employment-based teacher training programme established under paragraph 19 of Schedule 2 to [S.I. 1999/2166](https://www.legislation.gov.uk/uksi/1999/2166) as amended has effect as if established under paragraph 10 of Schedule 2 to [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662).
+
+[^key-74bcceaf433923f30f0c45cc31257469]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/7/1) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/4/a)
+
+[^key-42e92e054abff34c721d0837329d8ea8]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/7/2) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/4/b)
+
+[^key-a5ed149abeb4e7b73d42236b4914531c]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/1) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(5)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/5/a)
+
+[^key-ed27123e9019580230cbc5020918c51b]: Textual amendment: Reg. 8(1A) inserted (21.5.2020) by [The Education (School Teachers Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/464/regulation/3/2/a)
+
+[^key-bbff924fbf6c539268435b5ce6b18531]: Textual amendment: Words in [reg. 8(1A)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/1A) substituted (18.4.2022) by [The Education (Induction Arrangements for School Teachers) (England) (Coronavirus) (Amendment) Regulations 2022 (S.I. 2022/369)](https://www.legislation.gov.uk/uksi/2022/369), [regs. 1](https://www.legislation.gov.uk/uksi/2022/369/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/369/regulation/2/2)
+
+[^key-0b185c63f93ef0398d4b117bfd8cf797]: Textual amendment: Reg. 8(2) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/27/2)
+
+[^key-3e08b60ae4b68ab9004b11f05963b448]: Textual amendment: [Reg. 8(2)(c)-(e)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/c) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(5)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/5/b)
+
+[^key-d70c97605c0098ab4e202d4520f7e2b6]: Textual amendment: [Reg. 8(2)(e)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/e): semicolon substituted for full stop (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/5/2)
+
+[^key-0a9a11ede58d878bbd13be3a02d00161]: Textual amendment: [Reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/f) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/5/2)
+
+[^key-844403e768a4d7abcdf1ece4dc2fa07b]: Textual amendment: [Reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/f): semicolon substituted for full stop (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/17/2/a)
+
+[^key-f80a6b80cafe639e1c928a74b5100005]: Textual amendment: [Reg. 8(2)(g)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/g) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/17/2/b)
+
+[^key-39b8740c55da3b24dd483c076a2d4f79]: Textual amendment: Reg. 8(5) inserted (21.5.2020) by [The Education (School Teachers Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/464/regulation/3/2/b)
+
+[^key-32e967130c731d90e30e2027c75f87ab]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/10/4) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(6)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/6)
+
+[^key-6df377cf62d5f8e0907de183180df350]: Textual amendment: Words in reg. 11(2) substituted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/a/i)
+
+[^key-2d851c1a683aaeca5d009ec1559f9584]: Textual amendment: Words in reg. 11(5) inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/a/ii)
+
+[^key-b5d0d377027b55e87a2227a21c6c34be]: Textual amendment: Words in reg. 11(6) inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/a/iii)
+
+[^key-5086216b59d1382d7d6ebcc702652316]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/12/1) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(7)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/7/a)
+
+[^key-862df44e0b9c39c716c08ea0bff9211e]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/12/2/a) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(7)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/7/b)
+
+[^key-996196c40656cad3431d4bdd4bea8acc]: Textual amendment: Words in [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/12/3/b) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(7)(c)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/7/c)
+
+[^c21245081]: Marginal citation: Section 141C(1)(b) of the Education Act 2002 provides for the Secretary of State to maintain a list including the names of persons who have begun, but have failed satisfactorily to complete, an induction period in prescribed circumstances. Section 141C(1)(b) was inserted by section 8 of the 2011 Act.
+
+[^key-7c8e515881018900ab5f5f877251ff2e]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/2/b) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(8)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/8/a)
+
+[^key-56f92188b439c71c09ead0654ad6d124]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/6) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(8)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/8/b)
+
+[^key-658a9b8ef049cbebcb604fe5ca3230d0]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/8) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/2)
+
+[^key-9d96d9ec56dc0c01706786ec7ac1f61f]: Textual amendment: Sch. 1 para. 10 substituted (31.12.2020) by [The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/312)](https://www.legislation.gov.uk/uksi/2019/312), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/312/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/312/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1a6db13882eb3e661a406dc3c5fc7548]: Textual amendment: Sch. 1 para. 10 renumbered as Sch. 1 para. 10(1) (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/3/a)
+
+[^key-a607df75418afd053be64f4fdc7db970]: Textual amendment: [Sch. 1 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/1/b) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/3/b)
+
+[^key-a3cad99aa47b85b7317427bd59c8abdf]: Textual amendment: Words in [Sch. 1 para. 10(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/1/b/ii) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/2/2)
+
+[^key-195132be71294766c291a7498c74bf8d]: Textual amendment: [Sch. 1 para. 10(2)-(4)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/2) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/3/c)
+
+[^key-db03dee5c575d966cfc624af5b178c71]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/20) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/4)
+
+[^c21245111]: Marginal citation: [S.I. 2002/1394](https://www.legislation.gov.uk/uksi/2002/1394), as amended by [S.I. 2007/944](https://www.legislation.gov.uk/uksi/2007/944) and further amended by [S.I. 2009/2159](https://www.legislation.gov.uk/uksi/2009/2159), [2009/2864](https://www.legislation.gov.uk/uksi/2009/2864) and [2010/1142](https://www.legislation.gov.uk/uksi/2010/1142).
+
+[^c21245121]: Marginal citation: [S.I. 2006/2661](https://www.legislation.gov.uk/uksi/2006/2661), as amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
+
+[^c21245131]: Marginal citation: [S.I. 2012/115](https://www.legislation.gov.uk/uksi/2012/115).
+
+[^key-75ad4c9d2af7343ada2fd4f0f2e45fd5]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/25) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/5)
+
+[^key-dc363af794bca3e7929a873d2d9a8754]: Textual amendment: Words in [Sch. 1 para. 25(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/25/1/a/ii) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/5/2)
+
+[^key-65bfb7e178a81da3de48d1c3c06b8183]: Textual amendment: Sch. 1A inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/b)
+
+[^key-c1df6a309416cd3770447dc9532928d9]: Textual amendment: Words in [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1A/paragraph/3) omitted (1.9.2021) by virtue of [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(9)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/9)
+
+[^key-8d09f0a836d58c152512a72721bac6f0]: Textual amendment: Sch. 2 omitted (25.6.2020) by virtue of [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/c)

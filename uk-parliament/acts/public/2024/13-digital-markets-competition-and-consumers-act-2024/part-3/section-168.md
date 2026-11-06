@@ -1,0 +1,46 @@
+---
+title: Digital Markets, Competition and Consumers Act 2024, section 168
+act: Digital Markets, Competition and Consumers Act 2024
+section: '168'
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2024/13/section/168
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Digital Markets, Competition and Consumers Act 2024, section 168
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 168. Monetary penalties under sections 166 and 167: amount[^key-a42287cf3355b4a7438c7c4425694d49][^key-6d7ef7e10408123794f07ae567a5ed11]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies in relation to a monetary penalty imposed on a person (“**the respondent**”) by an order made under section 166 or 167.
+
+(2) The amount of the penalty must be—
+
+- (a) a fixed amount,
+- (b) an amount calculated by reference to a daily rate, or
+- (c) a combination of a fixed amount and an amount calculated by reference to a daily rate.
+
+(3) The penalty must not exceed—
+
+- (a) in the case of a fixed amount, £150,000 or, if higher, 5% of the total value of the turnover (if any) of the respondent;
+- (b) in the case of an amount calculated by reference to a daily rate, for each day £15,000 or, if higher, 5% of the total value of the daily turnover (if any) of the respondent;
+- (c) in the case of a fixed amount and an amount calculated by reference to a daily rate, such fixed amount and such amount per day.
+
+(4) In imposing a penalty by reference to a daily rate—
+
+- (a) no account is to be taken of any days before notice of the application under section 166(3) or 167(2) was given to the respondent, and
+- (b) unless the court determines an earlier date, the amount payable ceases to accumulate on the day on which the requirements of the undertaking that the respondent has failed to comply with are complied with.
+
+## Annotations
+
+[^key-a42287cf3355b4a7438c7c4425694d49]: Commencement: S. 168 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+
+[^key-6d7ef7e10408123794f07ae567a5ed11]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2024/13/section/168) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

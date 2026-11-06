@@ -1,0 +1,43 @@
+---
+title: Merchant Shipping Act 1995, section 253
+act: Merchant Shipping Act 1995
+section: '253'
+status: revised-with-pending-changes
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/21/section/253
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping Act 1995, section 253
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 253. Powers of lighthouse authorities in relation to wrecks.[^c14528131]
+
+*Extent: E+W+S+N.I.*
+
+(1) Where—
+
+- (a) any vessel is sunk, stranded or abandoned in any fairway or on the seashore or on or near any rock, shoal or bank in the United Kingdom or any of the adjacent seas or islands; and
+- (b) there is no harbour authority or conservancy authority having power to raise, remove or destroy the vessel;
+
+the general lighthouse authority for the place in or near which the vessel is situated shall, if in the authority’s opinion the vessel is, or is likely to become, an obstruction or danger to navigation or to lifeboats engaged in lifeboat service, have the same powers in relation thereto as are conferred by section 252.
+
+(2) Where a general lighthouse authority have incurred expenses in the exercise of their powers under this section in relation to any vessel, then—
+
+- (a) if the proceeds of any sale made under section 252 in connection with the exercise of those powers in relation to the vessel are insufficient to reimburse the authority for the full amount of those expenses, the authority may recover the amount of the deficiency from the relevant person, or
+- (b) if there is no such sale, the authority may recover the full amount of those expenses from the relevant person.
+
+(3) Any expenses so incurred which are not recovered by the authority either out of the proceeds of any such sale or in accordance with subsection (2) above shall be paid out of the General Lighthouse Fund, but section 213 shall apply to those expenses as if they were expenses of the authority falling within subsection (1) of that section other than establishment expenses.
+
+(4) In this section “**the relevant person**”, in relation to any vessel, means the owner of the vessel at the time of the sinking, stranding or abandonment of the vessel.
+
+## Annotations
+
+[^c14528131]: Modification: S. 253 excluded (E.W.S.) (23.12.1999) by [S.S.I. 1999/202](https://www.legislation.gov.uk/ssi/1999/202), [art. 25(4)](https://www.legislation.gov.uk/ssi/1999/202/article/25/4)
+
+    S. 253 applied (with modifications) (E.W.S.) (14.7.2000) by [S.S.I. 2000/233](https://www.legislation.gov.uk/ssi/2000/233), [arts. 33](https://www.legislation.gov.uk/ssi/2000/233/article/33), [34](https://www.legislation.gov.uk/ssi/2000/233/article/34)

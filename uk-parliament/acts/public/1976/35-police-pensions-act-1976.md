@@ -1,0 +1,920 @@
+---
+title: Police Pensions Act 1976
+id: ukpga/1976/35
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1976-07-22'
+text_date: '2023-08-17'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1976/35
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1976/35/pdfs/ukpga_19760035_en.pdf
+- http://www.legislation.gov.uk/ukpga/1976/35/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police Pensions Act 1976
+
+> Text as at 2023-08-17.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Police Pensions Act 1976
+
+1976 c.35
+
+An Act to consolidate the Police Pensions Act 1948 and certain other enactments relating to the pensions to be paid to and in respect of members of police forces.
+
+\[22nd July 1976\][^c7219051][^c7219061][^c7219071][^c7219081]
+
+## 1. Police pensions regulations.[^c7219101]
+
+(1) Regulations to be made by the Secretary of State, with the consent of the Minister for the Civil Service and after consultation with the appropriate advisory or negotiating body[^M_F_c53830ee-3356-4aff-d108-6a20194e14bb], shall make provision—
+
+- (a) as to the pensions which are to be paid to and in respect of members of police forces, whether as of right or otherwise;
+- (b) as to the contributions in respect of pension rights which are to be made by members of police forces; and
+- (c) as to the times at which and the circumstances in which members of police forces are or may be required to retire otherwise than on the ground of misconduct.
+
+(1ZA)[^key-ac04ef69e735c94cc2e4676f7d2292a0] In subsection (1) above, “**the appropriate advisory or negotiating body**” means—
+
+- (a) as regards England and Wales, the Police Advisory Board for England and Wales;
+- (b) as regards Scotland, the Police Negotiating Board for Scotland.
+
+(1ZB) When carrying out consultation under subsection (1) above as regards England and Wales, the Secretary of State shall also invite the views of the Northern Ireland Policing Board and the Police Association for Northern Ireland.
+
+(1A)[^key-f5608e29c85e5669494ee6746e5b1542] Subsection (1) is subject to sections 18 and 19 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
+
+(2) Without prejudice to the generality of the provisions of subsection (1) above, any such regulations shall provide for the payment subject to the regulations—
+
+- (a) of pensions to and in respect of persons who cease to be members of a police force after having served for such period as may be prescribed by the regulations;
+- (b) of pensions to and in respect of persons who cease to be members of a police force after such shorter period as may be prescribed by the regulations by reason of infirmity of mind or body;
+- (c) of pensions to and in respect of persons who cease to be members of a police force by reason of injury received in the execution of their duty;
+- (d) of pensions to and in respect of persons who cease to be members of a police force on the ground of age; and
+- (e) of pensions in respect of persons who die while serving as members of police forces.
+
+(2A)[^c7219111] Without prejudice to the generality of the provisions of subsection (1) above, any such regulations may make provision for the payment and receipt by police pension authorities[^key-38bbd098ef8becc17784d26f9d57a074] of transfer values or of other lump sum payments made for the purpose of creating or restoring pension rights.
+
+(3) Regulations made under this section may contain such consequential or incidental provisions as appear to the Secretary of State to be necessary or expedient, including, in particular, provision as to the cases in which pensions are to be—
+
+- (a) varied, suspended, terminated or forfeited; or
+- (b) applied otherwise than by being paid to the person to whom they were awarded;
+
+and may provide for a pension to be forfeited wholly or in part and for the forfeiture to be permanent or temporary.
+
+(4) Without prejudice to the generality of subsection (3) above, the provision which may be made by regulations under this section with respect to forfeiture shall include provision by reference not only to the fact that a person to whom a pension has been awarded has committed and been convicted of an offence as specified in the regulations but also to the fact that the offence in question has been certified by a Minister of the Crown either to have been gravely injurious to the State or to be liable to lead to serious loss of confidence in the public service.
+
+(5) Regulations made under this section may be framed so as to have effect as from a date earlier than the making of the regulations.
+
+(6) The power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 2. Application of regulations to existing members.[^c7219131][^c7219141]
+
+(1) Any regulations made under section 1 above shall be so framed as to secure, for existing members of police forces, the results—
+
+- (a) as to compulsory age of retirement, and
+- (b) as to scale of pensions payable under the regulations, specified respectively in subsections (2) and (3) below.
+
+(2) The result as to compulsory age of retirement referred to in subsection (1) above is that the times at which an existing member of a police force is or may be required under the regulations to retire on the ground of age do not, unless he at any time elects otherwise, differ from those which would have been applicable in his case if the regulations in question had not come into force.
+
+(3) The result as to scale of pensions referred to in subsection (1) above is that the scale of pensions payable under the regulations to an existing member of a police force who ceases to be a member of that police force either—
+
+- (a) after having served for any period prescribed by the regulations in question, or
+- (b) by reason of infirmity of mind or body (not being due to injury received in the execution of his duty) after having served for any shorter period so prescribed,
+
+is not, unless he elects otherwise within such time and in such manner as may be so prescribed, less favourable than the scale applicable in his case immediately before the coming into force of the regulations.
+
+(4)[^c7219151] Regulations made under section 1 above shall not be invalid by reason that in fact they do not secure the results specified in subsections (2) and (3) above, but if the Secretary of State is satisfied, or it is held by the High Court or by the Court of Session, that any such regulations have failed to secure those results, the Secretary of State shall so soon as may be make under section 1 the necessary amending regulations, and any such amending regulations shall have effect as from the date of the coming into force of the regulations which they amend.
+
+(5) In this section, “**existing member**”, in relation to any police force, means a person who is serving in that police force at the date when the regulations in questions come into force.
+
+## 3. Application of regulations to former members.[^c7219171][^c7219181]
+
+(1) Subject to the following provisions of this section, any regulations made under section 1 above may be framed—
+
+- (a) so as to apply in relation to the pensions which are being paid or may become payable under the regulations to or in respect of persons who, having served as members of police forces, have ceased so to serve or died before the regulations come into force; or
+- (b) so as to require or authorise the payment of pensions to or in respect of such person.
+
+(2) No provision shall be made by regulations under section 1 above by virtue of subsection (1) above unless any person who is placed in a worse position than he would have been in if the provision had not applied in relation to any pension which is being paid or may become payable to him is by the regulations given an opportunity to elect that the provision shall not so apply.
+
+(3) No provision with respect to the forfeiture of pensions included in regulations made under section 1 above shall apply in relation to pensions granted under any of the enactments, rules and regulations specified in paragraph 3 of Schedule 1 to this Act; and that Schedule shall have effect—
+
+- (a) for the purpose of excluding entirely certain pensions to or in respect of former members of police forces from the operation of regulations made under section 1; and
+- (b) with respect to the forfeiture of pensions so granted and appeals against forfeiture in certain cases.
+
+## 4. Transfers.[^c7219201][^c7219211]
+
+(1) Without prejudice to the generality of section 1 above, regulations made under that section may contain such provision as appears to the Secretary of State to be necessary or expedient in relation to a person who transfers or has transferred from or to service in a police force to or from other service or employment, whether in a police force or not.
+
+(2) Regulations made by virtue of subsection (1) above may include provisions enabling the other service or employment in question to be reckoned in whole or in part as service in a police force and provisions authorising or requiring payments to be made by or to the person or into or out of the fund out of which a pension may become or might have become payable to or in respect of the person in question as a member of a police force including—
+
+- (a) payments of contributions;
+- (b) payments of transfer values;
+- (c) payments towards the burden of a pension payable by another person or out of another fund; or
+- (d) other payments directed to the creation or preservation of pension rights of the person in question.
+
+(3) Regulations made by virtue of subsection (1) above, in so far as they apply in relation to persons who have ceased to be members of a police force before the date on which the regulations come into force,—
+
+- (a) may authorise, but shall not require, such payments as are mentioned in subsection (2) above; and
+- (b) shall not affect any pension payable to or in respect of any person as a person who ceased to be a member of a police force before that date.
+
+## 5. Servicemen.[^c7219251][^c7219261]
+
+(1) Without prejudice to the generality of section 1 above, regulations made under that section may provide that where a person is a member of a police force immediately before—
+
+- (a) he undertakes compulsory national service;
+- (b) he undertakes any other service of a description specified in Schedule 1 to the [^c7219271]Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951; or
+- (c) he attends for hourly instruction as defined in section 42 of that Act;
+
+the period of that service or attendance and such further period, if any, as may be specified in the regulations may be treated, in such manner, to such extent and on such conditions as to contributions or otherwise as may be so specified, as a period of service as a member of a police force.
+
+(2) A person who, before 5th July 1948, had ceased to be a member of a police force in order to undertake—
+
+- (a) any service by virtue of which he was at that date a person to whom section 1 of the [^c7219281]Police and Firemen (War Service) Act 1939 applied; or
+- (b) compulsory national service;
+
+shall, in such circumstances and to such extent as may be provided by regulations made under section 1 above, be treated as if he had been still a member of a police force at that date.
+
+(3) In this section, “**compulsory national service**” means service in any of the armed forces of the Crown undertaken by virtue of an enlistment notice or a training notice served under the National Service Acts 1939 to 1947 or under Part I of the [^c7219291]National Service Act 1948 (as the case may require), or work or training in pursuance of an order made or direction given under Part I of the said Act of 1948 as respects a conditionally registered conscientious objector.
+
+## 6. Appeals.[^c7219301][^c7219311]
+
+(1) Subject to the following provisions of this section, regulations made under section 1 above shall make provision as to the court or other person by whom appeals are to be heard and determined in the case of any person who is aggrieved—
+
+- (a) by the refusal of the police pension authority[^key-544f1e99e0f47b09d0605dd9cbec5768] to admit a claim to receive as of right a pension, or a larger pension than that granted, under regulations made under that section; or
+- (b) by the forfeiture of any pension granted to him thereunder.
+
+(2) No provision made in the regulations by virtue of subsection (1) above shall confer a right of appeal against anything done by the police pension authority[^key-bbef42f53ee9993fd229b51876234fb1] in the exercise of any power which is conferred on that authority[^key-16cb79464b30186e195e183f0b209e83] by the regulations and is expressly declared by the regulations to be a power which that authority is[^key-51875a260492f0d3eca599f9c30b01df] to exercise in their discretion.
+
+(3) The regulations may provide, in relation to questions arising thereunder, for the reference of any such matter as is prescribed, either by the police pension authority[^key-73ad1d31e14f41b562f16d3c13f7a7b7] or by the court, to a medical practitioner whose decision thereon shall, subject to such rights of appeal as may be provided by the regulations to such tribunal as may be constituted thereunder, be final on the matter so referred.
+
+## 7. Payment of pensions and contributions.[^c7219751][^c7219761]
+
+(1) Regulations made under section 1 above shall specify the persons by and to whom and the funds into or out of which pensions and contributions in respect of pension rights are to be payable, may provide for the establishment or continuance of special funds for the purpose, and, subject to the provisions of subsection (2) below, may provide for payments of contributions or pensions, and such other payments and receipts as are mentioned in sections 1(2A) and 4(2) above, being paid[^c7219771] into the Consolidated Fund or out of moneys provided by Parliament.
+
+(2) No regulations made by virtue of this section shall provide for payments into the Consolidated Fund or out of moneys provided by Parliament except in relation to a person who is or has been—
+
+- (a) such a person as is mentioned in section 1(1) of the [^c7219781]Police (Overseas Service) Act 1945;
+- (b)[^c7219791] an officer engaged on service pursuant to an appointment under section 10 of the Overseas Development and Co-operation Act 1980 or an appointment made in connection with the provision by the Secretary of State of assistance under the International Development Act 2002[^c7219801];
+- (ba) a person engaged on temporary service in accordance with arrangements made under section 26(2) of the Police Act 1996[^c7219811] or engaged on temporary service in pursuance of section 15 of the Police and Fire Reform (Scotland) Act 2012 with any person engaged in activity outwith the United Kingdom[^key-4afb6527bfae717c9122b0aec3a20c6e] ;
+- (bb) a person engaged on service in the Royal Ulster Constabulary, whose service is or was for the time being service in respect of which the provisions of section 97of the Police Act 1996[^c7219821] [^key-27e02fa04926ffdc3013f77ca463dee3]... have or had effect;
+- (c) an inspector or assistant inspector of constabulary; or
+- (ca)[^key-923c21bb4e52c465dd0e870fb89a98f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (cb)[^key-923c21bb4e52c465dd0e870fb89a98f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (cc)[^key-923c21bb4e52c465dd0e870fb89a98f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (cd)[^key-923c21bb4e52c465dd0e870fb89a98f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ce)[^key-4a6868808ea6acf88b6b4defc130af01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (cf)[^key-c2d361dd02171b1347ddae5530459342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (cg)[^key-fdaed3522b4e4dcdf3eac8f351b6ff6c] a member of staff of the Disclosure and Barring Service[^key-0279e48584d252a976fe18070694f68f] who holds the office of constable;
+- (cfa)[^key-b7cf1333198d135fdb68d16f6137d099] a constable of the Police Service of Scotland engaged on any of the following kinds of temporary service in pursuance of section 15 of the Police and Fire Reform (Scotland) Act 2012—
+  - (i) service in accordance with section 72(1)(b) or 73(1)(b) of the Police and Fire Reform (Scotland) Act 2012 as an assistant inspector of constabulary or, as the case may be, as a staff officer of the inspectors of constabulary;
+  - (ii) service under the Crown in connection with research or other services connected with the police provided by the Scottish Ministers;
+  - (iii) service with the Scottish Ministers in connection with their functions under Part 5 or 8 of the Proceeds of Crime Act 2002;
+  - (iv) service in accordance with arrangements made under paragraph 6(2) of Schedule 2 to the Police Reform Act 2002;
+  - (v) service as a member of staff of SOCA; or
+  - (vi) service in the Police Service of Northern Ireland;
+- (cfb) a person (other than a constable of the Police Service of Scotland) who—
+  - (i) is serving as member of the Scottish Police Authority’s staff in accordance with arrangements made under paragraph 7(1) of schedule 1 to the Police and Fire Reform (Scotland) Act 2012; and
+  - (ii) immediately before beginning such service, is or is eligible to be a member of a pension scheme provided for under section 1 above
+- (ch)[^key-f2ceb00e5561c32e82eed0b6f337261d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ci)[^key-f2ceb00e5561c32e82eed0b6f337261d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (cj)[^key-e1d045e096718541a32aec1b534f4452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ck)[^key-e1d045e096718541a32aec1b534f4452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ch (Extent: E+W))[^key-387b8a9ecd2f2b467f1febde952d8d59] the Chief Inspector of the *(Extent: E+W)* UK *(Extent: E+W)* Border Agency; *(Extent: E+W)*
+- (d) a person engaged on central service;
+- (da)[^key-9f5831716fd11d336c05ae1a9c53821b] a National Crime Agency officer whose service as such is eligible service;
+- (e)[^key-2e7df65b6e49fbec2dd0315112ad9111] a person serving as a senior NCA officer;
+- (f)[^key-ba0b7dbc0f50d2ec994e8b7aad7a0b9d] a person to whom section 100A of the Police Act 1996 applies (senior police officer appointed as member of staff of College of Policing);
+
+or any other person whose salary or remuneration is or was wholly or partly payable out of moneys provided by Parliament or who is or may become entitled to or eligible for a pension so payable.
+
+(3) For the purposes of subsection (2) above regulations shall not be treated as providing for payments out of moneys provided by Parliament by reason only that, as a result of the making of the regulations, an increased sum may be payable out of moneys provided by way of a grant towards the expenses of a police force.
+
+(4)[^c7219861] Where regulations are made under section 1 above by the Scottish Ministers by reason of a transfer of functions under the Scotland Act 1998, this section shall have effect with the following modifications:–
+
+- (a) in each of subsections (1) and (2), for “into the Consolidated Fund or out of money provided by Parliament” substitute “ into or out of the Scottish Consolidated Fund ” ;
+- (b) in subsection (3), for “money provided by Parliament” substitute “ the Scottish Consolidated Fund ” .
+
+## 8. Consolidation of regulations.[^c7219871]
+
+(1) Regulations made under section 1 above which revoke regulations previously so made, either wholly or as respects cases or matters of any description, shall contain provisions having the same effect as the provisions they revoke, except for any change (whether by way of alteration or omission) made in accordance with this Act.
+
+(2) Subsection (4) of section 2 above shall effect as if the reference to subsections (2) and (3) of that section included a reference to subsection (1) above.
+
+## 8A. Information in connection with police pensions etc.[^c7219931][^c7219921]
+
+(1) A police pension authority[^key-976a167abaa0af1a4478d051e7408a0d] may in prescribed circumstances—
+
+- (a) provide information in connection with the questions specified in subsection (2) below to a prescribed person; and
+- (b) require that person to pay a reasonable fee in respect of any administrative expenses incurred in providing that information.
+
+(2) The following are the questions mentioned in subsection (1) above—
+
+- (a) whether an individual who has opted or transferred out has suffered loss as a result of a contravention which is actionable under section 62 of the [^c7219941] Financial Services Act 1986 or[^c7219951] section 138D[^key-22d522f21baa0535e9aa43e4560da76f] of the Financial Services and Markets Act 2000 (actions for damages in respect of contravention of rules etc. made under the Act), and
+- (b) if so, what payment would need to be made in respect of that individual to the police pension authority concerned to restore the position to what it would have been if that individual had not opted or transferred out.
+
+(3) Where—
+
+- (a) an individual who has opted or transferred out becomes entitled to make contributions to a police pension authority in respect of police pension rights, or
+- (b) a payment is made to a police pension authority in respect of such an individual for the purpose mentioned in subsection (2)(b) above,
+
+the police pension authority may require a prescribed person to pay a reasonable fee in respect of any administrative expenses incurred in connection with that entitlement or payment.
+
+(4) For the purposes of this section, an individual shall be taken to have opted or transferred out if—
+
+- (a) for any period during which he is a member of a police force, he does not make contributions in respect of police pension rights but instead makes contributions to a personal pension scheme; or
+- (b) a transfer value is paid in respect of the individual by a police pension authority to a personal pension scheme.
+
+(5) In this section—
+
+- “ **personal pension scheme** ” has the meaning given by section 1 of the [^c7219961] Pension Schemes Act 1993;
+- “ **police pension rights** ” means pensions rights under regulations made under section 1 above;
+- “ **prescribed** ” means prescribed by regulations made under this section.
+
+(6) The power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 9. Assignment etc. of pension to be void.
+
+Every assignment of or charge on a pension granted under the regulations made under section 1 above, and every agreement to assign or charge such a pension shall, except so far as it is made for the benefit of a dependant of the pensioner, be void; and on the bankruptcy of the pensioner such a pension shall not pass to any trustee or other person acting on behalf of the creditors.
+
+## 10. Obtaining pension by self-inflicted injury etc.
+
+If any person obtains or attempts to obtain for himself or any other person any pension under any regulations made under section 1 above by maiming or injuring himself, or causing himself to be maimed or injured, or otherwise producing disease or infirmity, he shall be liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years; or
+- (b) on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding £25.
+
+## 11. Interpretation.
+
+(1) This Act shall have effect as if any reference (however expressed) to membership of a police force or to service or employment in a police force included a reference to—
+
+- (a)[^c7221181] service as an officer pursuant to an appointment under section 10 of the [^c7221191] Overseas Development and Co-operation Act 1980 or an appointment made in connection with the provision by the Secretary of State of assistance under the International Development Act 2002[^c7221201] ;
+- (aa) temporary service in accordance with arrangements made under section 26(2) of the Police Act 1996[^c7221211] or engaged on temporary service in pursuance of section 15 of the Police and Fire Reform (Scotland) Act 2012 with any person engaged in activity outwith the United Kingdom[^key-cada8c203d6d8a7562498be8362c02cb] ;
+- (ab) service in the Royal Ulster Constabulary in respect of which the provisions of section 97 of the Police Act 1996[^c7221221] [^key-74bede8bca28d985d31afb3086072a4c]... have effect;
+- (b) service as an inspector or assistant inspector of constabulary appointed on or after 1st August 1964; and
+- (ba)[^key-05c70778a2540e7e0c65cc501c5b4cf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bb)[^key-05c70778a2540e7e0c65cc501c5b4cf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bc)[^key-05c70778a2540e7e0c65cc501c5b4cf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bd)[^key-05c70778a2540e7e0c65cc501c5b4cf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (be)[^key-2b66abf896e97d0eacd366ca2ba073c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bf)[^key-f5fc4adfec93f5d42912f00eb241a2a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bg)[^key-0174880c2fac110969f56454166bbc20] service, by a person holding the office of constable, as a member of staff of the Disclosure and Barring Service[^key-a59ac29f56ac41ca9f7b8ff115570413];
+- (bfa)[^key-7bfc911d91dda4803ac9de9e3c3e64b8] any of the following kinds of temporary service by a constable of the Police Service of Scotland in pursuance of section 15 of the Police and Fire Reform (Scotland) Act 2012—
+  - (i) service as a member of the Scottish Police Authority’s staff in accordance with arrangements made under paragraph 7(1) of schedule 1 to the Police and Fire Reform (Scotland) Act 2012;
+  - (ii) service in accordance with section 72(1)(b) or 73(1)(b) of the Police and Fire Reform (Scotland) Act 2012 as an assistant inspector of constabulary or, as the case may be, as a staff officer of the inspectors of constabulary;
+  - (iii) service under the Crown in connection with research or other services connected with the police provided by the Scottish Ministers;
+  - (iv) service with the Scottish Ministers in connection with their functions under Part 5 or 8 of the Proceeds of Crime Act 2002;
+  - (v) service in accordance with arrangements made under paragraph 6(2) of Schedule 2 to the Police Reform Act 2002;
+  - (vi) service as a National Crime Agency officer[^key-5fbafa843310b4fe9243fcbc57c67443] ; or
+  - (vii) service in the Police Service of Northern Ireland;
+- (bfb) service by a person (other than a constable of the Police Service of Scotland) as a member of the Scottish Police Authority’s staff in accordance with arrangements made under paragraph 7(1) of schedule 1 to the Police and Fire Reform (Scotland) Act 2012 who, immediately before beginning such service, is or is eligible to be a member of a pension scheme provided for under section 1 above;
+- (bh)[^key-3f02e0c5609e4aacd6c63e968c8be9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bi)[^key-3f02e0c5609e4aacd6c63e968c8be9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bj)[^key-7a5973119f2e477a5ecd6ee3d51f11d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bk)[^key-7a5973119f2e477a5ecd6ee3d51f11d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bh (Extent: E+W))[^key-a3880e125e44a14fef226795db08cffb] service as the Chief Inspector of the *(Extent: E+W)* UK *(Extent: E+W)* Border Agency; *(Extent: E+W)*
+- (c)[^c7221241] central service in respect of which the provisions of section 97 of the Police Act 1996 [^key-c06c7cc1438a3d4ea855ac61b1dbfeb9]... have effect.
+- (ca)[^key-395a15a0e57a5b8c18744d004e92f406] eligible service as a National Crime Agency officer.
+- (d)[^key-6609e4d9294866c63535baf482705478] service as a senior NCA officer;
+- (e)[^key-5486cd06d6896f52fc3a1c21f1219581] service, by a person to whom section 100A of the Police Act 1996 applies, as a member of the staff of the College of Policing;
+
+(2)[^key-5a11d03843fb3f5d565e828e6d7c0687] In this Act—
+
+- “ **police pension authority** ” means—
+  - (a) the chief constable of any police force maintained under section 2 of the Police Act 1996;
+  - (b) the Commissioner of Police of the Metropolis;
+  - (c) the Common Council of the City of London in its capacity as a police authority; and
+  - (d) the Scottish Police Authority;[^key-ed5afc2ea1448e923453d79ac4040a22]
+- “ **pension supervising authority** ” means—
+  - (a) any local policing body within the meaning of the Police Act 1996; and
+  - (b) the Scottish Police Authority.[^key-0acbacff2032d6a03dfbb9789764f9c1]
+
+(2A) But—
+
+- (a) in relation to any regulations made under the [^c7221261]Police (Overseas Service) Act 1945 and any service such as is mentioned in subsection (1)(*a*) above, “police pension authority” or “pension supervising authority”[^key-53631d4bbf8ec43992c50faa917bfb07] means the Secretary of State or the Minister of Overseas Development; [^c7221271]. . .
+- (b) in relation to any service such as is mentioned in subsection (1) (aa), (ab),[^c7221281] (*b*) , *(Extent: E+W)*[^key-ab96ba05f5d5a2f8f6690fcbcb9b53d9] (bfa)(vii),[^key-1bb4b52db4ff7a582a90b08cfd791538] *(Extent: E+W)* (bh) *(Extent: E+W)*or ( *(Extent: E+W)* *(affected by repeal, see note)*[^key-05651e697dfa10511ee403a11161fcad]*c *(Extent: E+W)* *(affected by repeal, see note)*[^key-05651e697dfa10511ee403a11161fcad]*) *(Extent: E+W)* *(affected by repeal, see note)*[^key-05651e697dfa10511ee403a11161fcad] , (c) or (d) *(Extent: E+W)* above, “ police pension authority ” or “pension supervising authority” means , subject to paragraphs[^c7221291] (ba)[^key-8ae6ded6cd951c224cdd452e523c8f3a] to (e) below, the Secretary of State.
+- (ba)[^key-60ebef20c71153d8dfefaddec0cd46bb] in relation to service of the kind described in section 97(1)(aa) of the Police Act 1996 (c. 16) or mentioned in subsection (1)(bfa)(v) above[^key-88be668ce341c41c0e53dc006a95fb38] , “police pension authority” or “pension supervising authority” means the Independent Police Complaints Commission *(affected by repeal, see note)*[^key-cc46e3c5e594b5fb2fa44e1bff49f4c1] Independent Office for Police Conduct ;
+- (c)[^key-650cb92097f5bd2da26134976819438e] in relation to any such service as is mentioned in subsection (1)(bfa)(vi) or subsection (1)(ca) above, or any service of the kind described in section 97(1)(cj) of the Police Act 1996, “**police pension authority**” means the Director General of the National Crime Agency and “**pension supervising authority**” means the Secretary of State;
+- (da)[^key-2598ef57b4d03a4010563d805d788f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-2598ef57b4d03a4010563d805d788f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-82852e6f8430424e81119304bf9c13ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bg)[^key-7f62a50b2dfc4eb9ac9c953a8d00c25e] in relation to any service such as is mentioned in subsection (1)(bg), “police pension authority” or “pension supervising authority” means the Disclosure and Barring Service[^key-97aa357addb3d20a8ca44b0330d5dcf1] ;
+- (h)[^key-5e240f84125e9222170bd942b5f6b65a][^key-64487d6124a0ae78ca180780e66afa22] in relation to any service such as is mentioned in subsection (1)(bg), (bh), (bi), (bj) or (bk) above, “police pension authority” or “pension supervising authority” means the Scottish Police Services Authority.
+- (i)[^key-36988facaf4404c09a48df0ba6678ea3] in relation to any service such as is mentioned in subsection (1)(e) or any service of the kind described in section 97(1)(i) of the Police Act 1996, “police pension authority” or “pension supervising authority” means [^key-4df9eb20d2d4057872e7ef9c4250486d]... the College of Policing.
+
+  ; and[^key-10bb4db90f2817c83359fff47ff17136]
+- (j) in relation to any service such as is mentioned in subsection (1)(bfa)(ii), (iii) or (iv), “police pension authority” and “pension supervising authority” means the Scottish Ministers.
+
+(3) In this Act, except so far as the context otherwise requires, “ **police force** ” means any police force within the meaning of the Police Act 1996[^c7221321] or the Police Service of Scotland[^key-5ae94dd778ef9ef92fada242ede876d1] , and, in respect of—
+
+- (a) any person such as is mentioned in section 1(1) of the Police (Overseas Service) Act 1945; and
+- (b) any person engaged or employed in any service such as is mentioned in subsection (1)( *a* ), (aa), (ab),[^c7221331] (ba), (bb), (bc), (bd),[^c7221341] [^key-8a370cb2f83c9233b69b1a42dda982f6]... (bf),[^key-64a346109a53f4f7b915474c7f450abf] (bg),[^key-401d929f7894529f8a42d7471bc06e08] (bfa), (bfb)[^key-4a553d27704834b55835b29c8707ba31] (bh), *(Extent: E+W)*[^key-4973a11ac0ecabbec5704452739481a7]( *b* ) (c), (d) or (e)[^key-f3656293bb582a69e350289d88d18b84] above;
+
+any body in or with[^c7221361] which that person is serving or, in the case of service such as is mentioned in subsection (1)(bh) *(Extent: E+W)*[^key-fb0cb9fdca1934d12747db1a858a736d] or (d) *(Extent: E+W)*[^key-b707811c478696c2315781335ac08fb2] *(Extent: E+W)* , the department of the Secretary of State *(Extent: E+W)*.
+
+(4) This Act shall have effect—
+
+- (a) as if commissioners and assistant commissioners of the metropolitan police force and commissioners of the City of London police force were members of those forces respectively; and
+- (b) in relation to any person who on 5th July 1948 was or had been the surgeon of the City of London police force or a clerk or other person employed in or in connection with that force, as if such surgeons, clerks or other persons employed in or in connection with that force were members of that force;
+
+and references in this Act to membership of a police force shall be construed accordingly.
+
+(5) Except so far as the context otherwise requires, in this Act—
+
+- “[^c7221371] **central service** ”—
+  - (a) means relevant service within paragraph (aa),[^key-6ea624b167c1e9d065a12c4646dd4052] (b), (c), [^key-bef99d0f9bdae58abfac3cd46214a978] ... [^key-1efb33eb53782737df86e097e40e01e8] ... (cf)[^key-52879d2027c5adda5ef2c8a231a76477] or (d) of section 97(1) of the Police Act 1996, or
+  - (b) [^key-ba9f12660f8474dec397547c16c475e1]...
+
+  [^key-ba9f12660f8474dec397547c16c475e1]...
+- “ **injury** ” includes disease;
+- “ **pension** ”, in relation to a person, means a pension, whether contributory or not, of any kind whatsoever payable to or in respect of him, and includes a lump sum or a gratuity so payable and a return of contributions; and
+- “ **pension rights** ” includes, in relation to any person, all forms of right to, or eligibility for, the present or future payment of a pension to or in respect of that person.
+- “senior[^key-c82c9f63d50a7312eff322770a53fd21] NCA officer” means—
+  - (a) the Director General and Deputy Director General of the body known as the National Crime Agency;
+  - (b) the officers of that body who report directly to the Director General or Deputy Director General; and
+  - (c) the Head of the National Cyber Crime Unit in that body;
+- [^key-55917a032ee5001ba4f7a9432dd736fe]...
+
+(6)[^c7221401] References in this Act to the Director General of the National Criminal Intelligence Service and to his service have effect only in relation to cases in which the person in question was a serving police officer for the purposes of section 6 of the Police Act 1997 (c. 50) immediately before his appointment to that office took effect.
+
+(7)[^key-2f806fc912ceb8a19d7c7c914808b3fd] References in this Act to an inspector or assistant inspector of constabulary, and to service as such, do not have effect in relation to cases in which the person in question—
+
+- (a) was appointed on or after 1st January 1999, and
+- (b) did not serve as a member of a police force at any time before his appointment took effect.
+
+(8 (Extent: E+W))[^key-072d095b9371a994ec044d060385ebc4]  References in this Act to the Chief Inspector of the *(Extent: E+W)* UK *(Extent: E+W)* Border Agency, and to service as such, have effect only in relation to cases in which the person in question— *(Extent: E+W)*
+
+- (a (Extent: E+W)) has held the office of constable, and *(Extent: E+W)*
+- (b (Extent: E+W)) immediately before the appointment as Chief Inspector took effect, was serving as a member of a police force (whether or not as a constable). *(Extent: E+W)*
+
+(8A)[^key-ba3a733a48f053ab1147c56d0923cd86] References in this Act to a senior NCA officer or a member of the staff of[^key-ae7cf644f0543967043adc7c3bb2f6b0] the College of Policing, and to service as such, have effect only in relation to cases where the person in question is (immediately before beginning that service) a member, or eligible to be a member, of a pension scheme provided for under section 1 above or section 25(2)(k) or 26(2)(g) of the Police (Northern Ireland) Act 1998.
+
+(9)[^key-feecad6ce4a0a163159c2e6288550985] A person's service as a National Crime Agency officer is “**eligible service**” for the purposes of this Act in any of the following cases.
+
+(10) The first case is where—
+
+- (a) the person's service as a National Crime Agency officer is—
+  - (i) service as the Director General, or
+  - (ii) service that is designated for this purpose by the Director General, and
+- (b) the person is (immediately before beginning that service) a member, or eligible to be a member, of a police pension scheme.
+
+(11) The second case is where—
+
+- (a) immediately before beginning the service as a National Crime Agency officer, the person—
+  - (i) is serving as a member of the staff of the Serious Organised Crime Agency, and
+  - (ii) by virtue of that service is, or is eligible to be, a member of a police pension scheme, and
+- (b) the person becomes a National Crime Agency officer by virtue of a scheme under paragraph 2 of Schedule 8 to the Crime and Courts Act 2013.
+
+(12) The third case is where—
+
+- (a) immediately before beginning the service as a National Crime Agency officer, the person—
+  - (i) is serving as a member of a police force, and
+  - (ii) by virtue of that service is, or is eligible to be, a member of a police pension scheme, and
+- (b) the person becomes a National Crime Agency officer by virtue of a scheme under paragraph 2 of Schedule 8 to the Crime and Courts Act 2013.
+
+(13) In subsections (10) to (12) “**police pension scheme**” means a pension scheme provided for under—
+
+- (a) section 1 above, or
+- (b) section 25(2)(k) or 26(2)(g) of the Police (Northern Ireland) Act 1998.
+
+## 11A (Extent: E+W). Power to amend (Extent: E+W)[^key-9be88ba019b175ac039cb6c850367f96]
+
+(1 (Extent: E+W)) The Secretary of State may by order amend section 11 for the purpose of altering the descriptions of service to which subsection (1) applies. *(Extent: E+W)*
+
+(2 (Extent: E+W)) An order under this section may make transitional, consequential, incidental and supplemental provision or savings. *(Extent: E+W)*
+
+(3 (Extent: E+W)) The provision that may be made under subsection (2) includes provision amending any enactment. *(Extent: E+W)*
+
+(4 (Extent: E+W)) An order under this section shall be made by statutory instrument. *(Extent: E+W)*
+
+(5 (Extent: E+W)) A statutory instrument containing an order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(Extent: E+W)*
+
+## 12. Savings and transitional provisions.
+
+(1) Nothing in any repeal made by this Act shall affect any regulations made or other thing done under any enactment repealed by this Act, and any such regulations or thing, if in force, existing or effective at the passing of this Act shall, subject to the provisions of this Act, remain in force, existence or effect, and be deemed to have been made or done under the corresponding provision of this Act.
+
+(2)[^c7221411] In so far as, by virtue of section 15(4) of the [^c7221421]Superannuation Act 1972, the provisions of sections 4(1) and (2) and 5(1) and (5) of the [^c7221431]Police Pensions Act 1948, as in force immediately before 25th March 1972, continued to apply, immediately before the passing of this Act, in relation to pensions granted under regulations made under section 1 of the said Act of 1948, those provisions shall be deemed to have effect as if they were provisions of regulations made under section 1 of this Act, and may be revoked accordingly.
+
+(3) Any reference in any document (including an enactment) to any enactment repealed by this Act, whether a specific reference or a reference to provisions of a description which includes, or apart from any repeal made by this Act includes, the enactment so repealed shall be construed as, or, as the case may require, as including, a reference to the corresponding enactment in this Act.
+
+(4) Nothing in this section, in section 13 below or in Schedule 2 to this Act shall be taken as prejudicing the operation of sections 16(1) and 17(2)([^c7221441]*a*) of the [^c7221451]Interpretation Act 1978 (which relates to the effect of repeals).
+
+## 13. Consequential amendments and repeals.[^c7221461]
+
+(1) The enactments specified in Schedule 2 to this Act shall have effect subject to the amendments set out in that Schedule, being amendments consequential on the preceding provisions of this Act.
+
+(2) The enactments specified in Schedule 3 to this Act (which include enactments which were spent before the passing of this Act) are hereby repealed to the extent specified in the third column of that schedule.
+
+## 14. Short title and extent.
+
+(1) This Act may be cited as the Police Pensions Act 1976.
+
+(2) This Act shall not extend to Northern Ireland; but this subsection shall not be construed as preventing any regulations such as are referred to in section 4 above from requiring payments to be made to a person or into a fund in Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE 1 — Pensions Under Repealed Enactments
+
+Section 3(3).
+
+### Pensions excluded from the operation of regulations under this Act
+
+**1.** (1) Nothing in regulations made under section 1 of this Act shall—
+
+- (a) affect any pension granted by virtue of section 4(3) of the [^c7221471]Police and Firemen (War Service) Act 1939, if the period (or last period, if more than one) which, by virtue of section 2(1) of that Act, is treated as a period of approved service in the case of the person in question, ended before 5th July 1948; or
+- (b) apply to any pension to or in respect of a person to whom the [^c7221481]National Fire Service (Preservation of Pensions) (Police Firemen) Regulations 1941 apply; or
+- (c) apply to any pension to any person who, having formerly been a member of a police force, was on 5th July 1948 serving in any capacity mentioned in section 10(1)(i) of the [^c7221491]Police Pensions Act 1921, and has not since and does not after the passing of this Act again become a member of a police force.
+
+(2) Except so far as relates to the forfeiture of any such pension as is mentioned in sub-paragraph (1) above, nothing in this Act shall be taken as affecting the application in relation to any such pension of the pensions enactments applicable thereto immediately before the passing of this Act.
+
+### Forfeiture of pensions under repealed enactments
+
+**2.** (1) Every pension (whether described as a pension or as an allowance) granted under any of the enactments specified in paragraph 3(1) below (which reproduces so far as relevant Part I of Schedule 1 to the [^c7221501]Police Pensions Act 1948) shall be deemed to have been granted only upon condition that it may be forfeited by the pension supervising authority[^key-4e989ce93708f9c28565f380ec8ad823] in any of the cases mentioned in sub-paragraph (2) below.
+
+(2) The cases referred to in sub-paragraph (1) above are any of the following, that is to say, if the grantee—
+
+- (a) is convicted of any offence and is sentenced to preventive detention or corrective training or to imprisonment for a term exceeding twelve months; or
+- (b) enters into or continues to carry on any business, occupation or employment which is illegal, or in which the grantee has made use of the fact of former employment in a police force in a manner which is discreditable or improper; or
+- (c) supplies to any person or publishes in a manner which is discreditable or improper any information which the grantee had obtained in the course of employment in a police force; or
+- (d) solicits or, without the consent of the pension supervising authority, accepts directly or indirectly any testimonial or gift having any pecuniary value on retirement from the police force or otherwise in connnection with his service in a police force; or
+- (e) enters into or continues in any business, occupation or employment as a private detective, after the pension supervising authority have given him notice in writing requiring him on any reasonable grounds not to do so.
+
+(3) A pension shall not be forfeited under sub-paragraph (2)(*b*) above unless reasonable warning has previously been given in writing by the pension supervising authority.
+
+(4) A forfeiture under this paragraph may affect the pension wholly or in part, and may be permanent or temporary as the pension supervising authority may determine.
+
+(5) Without prejudice to the validity of any forfeiture before the passing of this Act, a pension to which this paragraph applies shall not be capable of being forfeited otherwise than in accordance with the provisions of this paragraph.
+
+(6) This paragraph shall apply in relation to the rules and regulations specified in sub-paragraph (2) of paragraph 3 below (which reproduces so far as relevant Part II of Schedule 1 to the [^c7221511]Police Pensions Act 1948) as it applies in relation to the enactments specified in sub-paragraph (1) of that paragraph, subject, however, to any necessary adaptations.
+
+**3.** (1) The enactments referred to in paragraph 2(1) above are—
+
+The [^c7221521]Metropolitan Police Act 1829;
+
+The [^c7221531]County and Borough Police Act 1859;
+
+The [^c7221541]Police Superannuation Act 1865;
+
+The [^c7221551]Police (Pensions) Act 1918;
+
+The [^c7221561]Police Pensions Act 1921;
+
+The [^c7221571]Police and Firemen (War Service) Act 1939;
+
+The [^c7221581]Police (Overseas Service) Act 1945;
+
+The [^c7221591]Police Act 1946;
+
+The [^c7221601]Police (Scotland) Act 1946.
+
+(2) The rules and regulations referred to in paragraph 2(6) above are—
+
+The Women’s Auxiliary Police Corps Rules 1945;
+
+The Women’s Auxiliary Police Corps (Scotland) Rules 1945;
+
+The Police (Overseas Service) (Germany) Regulations 1947;
+
+The Police (Overseas Service) (Austria) Regulations 1947;
+
+The Police (Overseas Service) (Greece) Regulations 1948.
+
+**4.** (1) If any person is aggrieved by the forfeiture under paragraph 2 above of any pension granted to him under any of the enactments specified in paragraph 3(1) above, he may appeal to the Crown Court and that Court, after enquiring into the case, may make such order in the matter as appears to the Court to be just.
+
+(2) In the application of sub-paragraph (1) above to Scotland, for the reference therein to the Crown Court there shall be substituted a reference to the sheriff having jurisdiction in the place where the person concerned last served as a member of a police force.
+
+## SCHEDULE 2 — Consequential Amendments[^c7221611]
+
+Section 13(1).
+
+**1.**[^c7221631] The reference in section 2(1) of the [^c7221641]Police (Overseas Service) Act 1945 to a pension, allowance or gratuity becoming payable to a person out of moneys provided by Parliament by virtue of regulations made under that Act shall be construed as including a reference to a pension (as defined for the purposes of this Act) payable by virtue of regulations made under this Act, being a pension which becomes payable in such circumstances as may be specified for the purposes of this paragraph by the last mentioned regulations.
+
+**2.** In section 63 of the [^c7221651]Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951, for the words from “Police Pensions Act 1948” to “of this Act” there shall be substituted the words “Police Pensions Act 1976”.
+
+**3.** In section 1 of the [^c7221661]Police Pensions Act 1961—
+
+(a) in subsection (2), for the words “the said section one” in the first place where they occur there shall be substituted the words “section one of the Police Pensions Act 1976” and
+
+(b) in subsection (3), for the words from the beginning to “principal” in the second place where it occurs there shall be substituted the words “Subsection (4) of section 2 of the said Act of 1976 (which provides for regulations not to be invalid by reason only of their failure to secure the results specified in subsections (2) and (3) of that section but requires their amendment to secure those results) shall have effect as if the reference to the said subsections (2) and (3) included a reference to subsection (2) of this section and as if the references to regulations or amending regulations under section one of that”.
+
+**4.** In section 2 of the Police Pensions Act 1961—
+
+(a) in subsection (1), the words from “and this” to the end shall be omitted; and
+
+(b) in subsection (2), the words from the beginning to “in Northern Ireland” shall be omitted.
+
+**5.**[^c7221701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.** In the [^c7221731]Police (Scotland) Act 1967—
+
+(a) for the words “Police Pensions Act 1948”in section 38(1); and[^c7221741]
+
+(b) for those words in both places where they occur in subsection (4) of section 23 (as substituted by section 146(8) of the [^c7221751]Local Government (Scotland) Act 1973) ; there shall be substituted the words “Police Pensions Act 1976”.
+
+**7.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7221761]
+
+**8.** In Schedule 2 to the [^c7221771]Pensions (Increase) Act 1971—
+
+(a) in paragraph 15, for the words “Police Pensions Act 1948” there shall be substituted the words “Police Pensions Act 1976”; and
+
+(b) in paragraph 43, for the words from the beginning of subparagraph (a) to “that Act” there shall be substituted the words “the Police Pensions Act 1976, or any enactment repealed by the Police Pensions Act 1948”.
+
+**9.**[^c7221791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.** In section 24(1)(a) of the [^c7221801]Superannuation Act 1972, for the words “Police Pensions Act 1948” there shall be substituted the words “Police Pensions Act 1976”.
+
+**11.**[^c7221821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — ENACTMENTS REPEALED[^c7221831]
+
+Section 13(2).
+
+| Chapter | Short title | Extent of repeal |
+| --- | --- | --- |
+| 11 & 12 Geo. 6. c. 24. | The Police Pensions Act 1948. | The whole Act. |
+| 11 & 12 Geo. 6. c. 58. | The Criminal Justice Act 1948. | In Schedule 9, the entry relating to the Police Pensions Act 1948. |
+| 12,13 & 14 Geo. 6. c. 94. | The Criminal Justice (Scotland) Act 1949. | In Schedule 11, the entry relating to the Police Pensions Act 1948. |
+| 14 & 15 Geo. 6. c. 65. | The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951. | Section 43. |
+|  |  | In section 44(1), the words from “and any regulations” to “police force”. |
+| 6 & 7 Eliz. 2. c. 14. | The Overseas Service Act 1958. | Section 5(3). |
+|  |  | Schedule 2. |
+| 9 & 10 Eliz. 2. c. 35. | The Police Pensions Act 1961. | Section 1(1) and (4). |
+|  |  | In section 2, in subsection (1) the words from “and this” to the end, and in subsection (2) the words from the beginning to “in Northern Ireland”. |
+| 1964 c. 48. | The Police Act 1964. | Section 40. |
+|  |  | Section 43(4). |
+|  |  | Schedule 6. |
+|  |  | In Schedule 9, the entries relating to the Police Pensions Act 1948. |
+| 1967 c. 28. | The Superannuation (Miscellaneous Provisions) Act 1967. | Section 11(7). |
+| 1967 c. 77. | The Police (Scotland) Act 1967. | Section 35. |
+|  |  | Section 38(4). |
+|  |  | In Schedule 4, the entry relating to the Police Pensions Act 1948. |
+| 1969 c. 63. | The Police Act 1969. | In section 4(5), the words preceding paragraph (a). |
+| 1972 c. 11. | The Superannuation Act 1972. | In section 15, subsections (1) to (4) and in subsection (5), paragraph (a). |
+|  |  | In Schedule 6, paragraph 23. |
+
+## Annotations
+
+[^c7219051]: Extent: Extent E.W.S but see [s. 14(2)](https://www.legislation.gov.uk/ukpga/1976/35/section/14/2)
+
+[^c7219061]: Modification: Power to modify conferred by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50), [s. 17(2)(3)](https://www.legislation.gov.uk/ukpga/1986/50/section/17/2/3)(*e*)
+
+[^c7219071]: Commencement: Act wholly in force at Royal Assent.
+
+[^c7219081]: Modification: Power to modify conferred (*prosp.*) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [ss. 164](https://www.legislation.gov.uk/ukpga/1993/48/section/164), [188-190](https://www.legislation.gov.uk/ukpga/1993/48/section/188), [193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2), [Sch. 6 Pt. II para. 17(3)(f)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6/part/II/paragraph/17/3/f).
+
+[^c7219101]: Modification: S. 1: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^M_F_c53830ee-3356-4aff-d108-6a20194e14bb]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1976/35/section/1/1A) substituted (1.9.2014 for E.W., 17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 133(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/133/3/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2125/article/3/a); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/829/article/2/b)
+
+[^key-ac04ef69e735c94cc2e4676f7d2292a0]: Textual amendment: [S. 1(1ZA)](https://www.legislation.gov.uk/ukpga/1976/35/section/1/1A)[(1ZB)](https://www.legislation.gov.uk/ukpga/1976/35/section/1/1B) inserted (1.9.2014 for E.W., 17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 133(3)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/133/3/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2125/article/3/a); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/829/article/2/b)
+
+[^key-f5608e29c85e5669494ee6746e5b1542]: Textual amendment: S. 1(1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/12) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(e)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/e)
+
+[^c7219111]: Textual amendment: S. 1(2A) inserted (*retrospective* to 22.7.1976) by [1997 c. 52](https://www.legislation.gov.uk/ukpga/1997/52), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1997/52/section/1/1)
+
+[^key-38bbd098ef8becc17784d26f9d57a074]: Textual amendment: Words in s. 1(2A) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 129](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/129); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c7219131]: Subordinate legislation: S. 2: for previous execises of power see Index to Government Orders
+
+    S. 2: S. 1 ( with ss. 2, 3, 4, 5, 6, 7 ) : power exercised by [S.I. 1991/1304](https://www.legislation.gov.uk/uksi/1991/1304)
+
+[^c7219141]: Modification: S. 2: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c7219151]: Modification: S. 2(4) amended by [Police Pensions Act 1961 (c. 35)](https://www.legislation.gov.uk/ukpga/1961/35), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1961/35/section/1/3)
+
+[^c7219171]: Subordinate legislation: S. 3: for previous exercises of power see Index to Government Orders
+
+    S. 3: s. 1 (with ss. 3 and 4) power exercised by [S.I.1991/1517](https://www.legislation.gov.uk/uksi/1991/1517).
+
+    S. 3 : S. 1 ( with ss. 2, 3, 4, 5, 6, 7 ) : power exercised by [S.I. 1991/1304](https://www.legislation.gov.uk/uksi/1991/1304)
+
+[^c7219181]: Modification: S. 3: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c7219201]: Subordinate legislation: S. 4 : for previous exercises of power see Index to Government Orders
+
+    S. 4: s. 1 (with ss. 3 and 4) power exercised by [S.I.1991/1517](https://www.legislation.gov.uk/uksi/1991/1517).
+
+    S. 4: S. 1 ( with ss. 2, 3, 4, 5, 6, 7 ) : power exercised by [S.I. 1991/1304](https://www.legislation.gov.uk/uksi/1991/1304)
+
+[^c7219211]: Modification: S. 4: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c7219251]: Subordinate legislation: S. 5: for previous exercises of power see Index to Government Orders
+
+    S. 5: S. 1 ( with ss. 2, 3, 4, 5, 6, 7 ) : power exercised by [S.I.1991/1304](https://www.legislation.gov.uk/uksi/1991/1304)
+
+[^c7219261]: Modification: S. 5: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c7219271]: Marginal citation: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65).
+
+[^c7219281]: Marginal citation: [1939 c. 103](https://www.legislation.gov.uk/ukpga/1939/103).
+
+[^c7219291]: Marginal citation: [1948 c. 64](https://www.legislation.gov.uk/ukpga/1948/64).
+
+[^c7219301]: Subordinate legislation: S. 6: for previous exercises of power see Index to Government Orders
+
+    S. 6: S. 1 ( with ss. 2, 3, 4, 5, 6, 7 ) : power exercised by [S.I.1991/1304](https://www.legislation.gov.uk/uksi/1991/1304)
+
+[^c7219311]: Modification: S. 6: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^key-544f1e99e0f47b09d0605dd9cbec5768]: Textual amendment: Words in [s. 6(1)(a)](https://www.legislation.gov.uk/ukpga/1976/35/section/6/1/a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 130(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/130/a); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-bbef42f53ee9993fd229b51876234fb1]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1976/35/section/6/2) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 130(b)(i)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/130/b/i); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-16cb79464b30186e195e183f0b209e83]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1976/35/section/6/2) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 130(b)(ii)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/130/b/ii); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-51875a260492f0d3eca599f9c30b01df]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1976/35/section/6/2) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 130(b)(iii)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/130/b/iii); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-73ad1d31e14f41b562f16d3c13f7a7b7]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1976/35/section/6/3) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 130(c)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/130/c); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c7219751]: Subordinate legislation: s. 7: for previous exercises of power see Index to Government Orders
+
+    S. 7: S. 1 ( with ss. 2, 3, 4, 5, 6, 7 ) : power exercised by [S.I. 1991/1304](https://www.legislation.gov.uk/uksi/1991/1304)
+
+[^c7219761]: Modification: S. 7: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c7219771]: Textual amendment: Words in s. 7(1) substituted (21.3.1997) by [1997 c. 52](https://www.legislation.gov.uk/ukpga/1997/52), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1997/52/section/1/2)
+
+[^c7219781]: Marginal citation: [1945 c. 17](https://www.legislation.gov.uk/ukpga/1945/17).
+
+[^c7219791]: Textual amendment: S. 7(2)(b)(ba)(bb) substituted for s. 7(2)(b) (21.7.1994 for specified purposes and otherwise 1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [ss. 44](https://www.legislation.gov.uk/ukpga/1994/29/section/44), [94(3)(c)](https://www.legislation.gov.uk/ukpga/1994/29/section/94/3/c), [Sch. 5 Pt. II para. 19](https://www.legislation.gov.uk/ukpga/1994/29/schedule/5/part/II/paragraph/19); [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262), [art. 4](https://www.legislation.gov.uk/uksi/1994/3262/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1994/3262/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/1994/3262/article/5))
+
+[^c7219801]: Textual amendment: Words in s. 7(2)(b) inserted (17.6.2002) by [2002 c. 1](https://www.legislation.gov.uk/ukpga/2002/1), [s. 19](https://www.legislation.gov.uk/ukpga/2002/1/section/19), [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/6/1) (with [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2002/1/schedule/5/paragraph/5)); [S.I. 2002/1408](https://www.legislation.gov.uk/uksi/2002/1408), [art. 2](https://www.legislation.gov.uk/uksi/2002/1408/article/2)
+
+[^c7219811]: Textual amendment: Words in s. 7(2)(ba) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103), [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1), [Sch. 7 Pt. II para. 29(2)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/29/2)
+
+[^key-4afb6527bfae717c9122b0aec3a20c6e]: Textual amendment: Words in s. 7(2)(ba) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/2/a) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^c7219821]: Textual amendment: Words in s. 7(2)(bb) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103), [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1), [Sch. 7 Pt. II para. 29(3)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/29/3)
+
+[^key-27e02fa04926ffdc3013f77ca463dee3]: Textual amendment: Words in s. 7(2)(bb) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/2/b) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-923c21bb4e52c465dd0e870fb89a98f9]: Textual amendment: S. 7(2)(ca)-(cd) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 25(a)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/25/a/i) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-4a6868808ea6acf88b6b4defc130af01]: Textual amendment: S. 7(2)(e) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+
+[^key-c2d361dd02171b1347ddae5530459342]: Textual amendment: S. 7(2)(cf) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 25(a)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/25/a/ii) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-fdaed3522b4e4dcdf3eac8f351b6ff6c]: Textual amendment: S. 7(2)(cg) inserted (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 9 para. 11(2)](https://www.legislation.gov.uk/ukpga/2006/47/schedule/9/paragraph/11/2) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
+
+[^key-0279e48584d252a976fe18070694f68f]: Textual amendment: Words in s. 7(2) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/2/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
+[^key-b7cf1333198d135fdb68d16f6137d099]: Textual amendment: S. 7(2)(cfa)(cfb) substituted for s. 7(2)(cg)(1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/2/c) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-f2ceb00e5561c32e82eed0b6f337261d]: Textual amendment: S. 7(2)(ch)(ci) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(2)(d)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/2/d) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-e1d045e096718541a32aec1b534f4452]: Textual amendment: S. 7(2)(cj)(ck) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(2)(d)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/2/d) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-387b8a9ecd2f2b467f1febde952d8d59]: Textual amendment: S. 7(2)(ch) inserted (E.W.) (15.4.2010) by [Police Pensions (Descriptions of Service) Order 2010 (S.I. 2010/899)](https://www.legislation.gov.uk/uksi/2010/899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/899/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2010/899/article/2/2)
+
+[^key-9f5831716fd11d336c05ae1a9c53821b]: Textual amendment: S. 7(2)(da) inserted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 25(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/25/b) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-2e7df65b6e49fbec2dd0315112ad9111]: Textual amendment: S. 7(2)(e)(f) inserted (E.W.) (21.12.2012) by [The Police (Descriptions of Service) Order 2012 (S.I. 2012/2954)](https://www.legislation.gov.uk/uksi/2012/2954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2954/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/2954/article/2/2)
+
+[^key-ba0b7dbc0f50d2ec994e8b7aad7a0b9d]: Textual amendment: S. 7(2)(f) substituted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 84](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/84) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(c)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/c)
+
+[^c7219861]: Textual amendment: S. 7(4) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/4) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c7219871]: Modification: S. 8: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c7219931]: Modification: S. 8A: Power to delegate functions conferred (20.7.1997) by [S.I. 1997/1736](https://www.legislation.gov.uk/uksi/1997/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/1736/article/2/1)
+
+    S. 8A: transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c7219921]: Textual amendment: S. 8A inserted (21.5.1997) by [1997 c. 52](https://www.legislation.gov.uk/ukpga/1997/52), [ss. 2](https://www.legislation.gov.uk/ukpga/1997/52/section/2), [4(2)](https://www.legislation.gov.uk/ukpga/1997/52/section/4/2)
+
+[^key-976a167abaa0af1a4478d051e7408a0d]: Textual amendment: Words in s. 8A substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 131](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/131); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c7219941]: Marginal citation: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
+
+[^c7219951]: Textual amendment: Words in s. 8A(2)(a) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [109](https://www.legislation.gov.uk/uksi/2001/3649/article/109)
+
+[^key-22d522f21baa0535e9aa43e4560da76f]: Textual amendment: Words in [s. 8A(2)(a)](https://www.legislation.gov.uk/ukpga/1976/35/section/8A/2/a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 41](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/41) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+
+[^c7219961]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^c7221181]: Textual amendment: S. 11(1)(a)(aa)(ab) substituted for s. 11(1)(a) (21.7.1994 for specified purposes and otherwise 1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29) , [ss. 44](https://www.legislation.gov.uk/ukpga/1994/29/section/44) , [94(3)(c)](https://www.legislation.gov.uk/ukpga/1994/29/section/94/3/c) , [Sch. 5 Pt. II para. 20(2)](https://www.legislation.gov.uk/ukpga/1994/29/schedule/5/part/II/paragraph/20/2) ; [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262) , [art. 4](https://www.legislation.gov.uk/uksi/1994/3262/article/4) , [Sch.](https://www.legislation.gov.uk/uksi/1994/3262/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/1994/3262/article/5) )
+
+[^c7221191]: Marginal citation: [1980 c. 63](https://www.legislation.gov.uk/ukpga/1980/63)
+
+[^c7221201]: Textual amendment: Words in s. 11(1)(a) inserted (17.6.2002) by [2002 c. 1](https://www.legislation.gov.uk/ukpga/2002/1) , [s. 19](https://www.legislation.gov.uk/ukpga/2002/1/section/19) , [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3) . para. 6(2) (with s. 20, Sch. 5 para. 5); [S.I. 2002/1408](https://www.legislation.gov.uk/uksi/2002/1408) , [art. 2](https://www.legislation.gov.uk/uksi/2002/1408/article/2)
+
+[^c7221211]: Textual amendment: Words in s. 11(1)(aa) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16) , [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103) , [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1) , [Sch. 7 Pt. II para. 30(2)(a)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/30/2/a)
+
+[^key-cada8c203d6d8a7562498be8362c02cb]: Textual amendment: Words in s. 11(1)(aa) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/a/i) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^c7221221]: Textual amendment: Words in s. 11(1)(ab) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16) , [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103) , [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1) , [Sch. 7 Pt. II para. 30(2)(b)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/30/2/b)
+
+[^key-74bede8bca28d985d31afb3086072a4c]: Textual amendment: Words in s. 11(1)(ab) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/a/ii) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-05c70778a2540e7e0c65cc501c5b4cf5]: Textual amendment: S. 11(1)(ba)-(bd) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 26(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/26/2/a/i) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-2b66abf896e97d0eacd366ca2ba073c5]: Textual amendment: S. 11(1)(be) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+
+[^key-f5fc4adfec93f5d42912f00eb241a2a1]: Textual amendment: S. 11(1)(bf) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 26(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/26/2/a/ii) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-0174880c2fac110969f56454166bbc20]: Textual amendment: S. 11(1)(bg) inserted (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 9 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2006/47/schedule/9/paragraph/11/3/a) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
+
+[^key-a59ac29f56ac41ca9f7b8ff115570413]: Textual amendment: Words in s. 11(1) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/2/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
+[^key-7bfc911d91dda4803ac9de9e3c3e64b8]: Textual amendment: S. 11(1)(bfa)(bfb) substituted (1.4.2013) for s. 11(1)(bg) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/a/iii) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-5fbafa843310b4fe9243fcbc57c67443]: Textual amendment: Words in s. 11(1)(bfa)(vi) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 26(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/26/2/b) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-3f02e0c5609e4aacd6c63e968c8be9f8]: Textual amendment: S. 11(1)(bh)(bi) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/a/iv) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-7a5973119f2e477a5ecd6ee3d51f11d3]: Textual amendment: S. 11(1)(bj)(bk) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/a/iv) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-a3880e125e44a14fef226795db08cffb]: Textual amendment: S. 11(1)(bh) inserted (E.W.) (15.4.2010) by [Police Pensions (Descriptions of Service) Order 2010 (S.I. 2010/899)](https://www.legislation.gov.uk/uksi/2010/899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/899/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/899/article/2/3/a)
+
+[^c7221241]: Textual amendment: S. 11(1)(c) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16) , [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103) , [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1) , [Sch. 7 Pt. II para. 30(2)(c)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/30/2/c)
+
+[^key-c06c7cc1438a3d4ea855ac61b1dbfeb9]: Textual amendment: Words in s. 11(1)(c) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(a)(v)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/a/v) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-395a15a0e57a5b8c18744d004e92f406]: Textual amendment: S. 11(1)(ca) inserted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 26(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/26/2/c) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-6609e4d9294866c63535baf482705478]: Textual amendment: S. 11(1)(d)(e) inserted (E.W.) (21.12.2012) by [The Police (Descriptions of Service) Order 2012 (S.I. 2012/2954)](https://www.legislation.gov.uk/uksi/2012/2954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2954/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/2954/article/2/3/a)
+
+[^key-5486cd06d6896f52fc3a1c21f1219581]: Textual amendment: S. 11(1)(e) substituted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 85(2)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/85/2) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(d)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/d)
+
+[^key-5a11d03843fb3f5d565e828e6d7c0687]: Textual amendment: Words in s. 11 substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 132(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/132/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/41))
+
+[^key-ed5afc2ea1448e923453d79ac4040a22]: Textual amendment: Words in s. 11(2) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/b/i)
+
+[^key-0acbacff2032d6a03dfbb9789764f9c1]: Textual amendment: Words in s. 11(2) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/b/ii)
+
+[^c7221261]: Marginal citation: [1945 c. 17 (9 & 10 Geo. 6)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/17) .
+
+[^key-53631d4bbf8ec43992c50faa917bfb07]: Textual amendment: Words in s. 11(2A)(a)-(h) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 132(4)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/132/4); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c7221271]: Textual amendment: Word in s. 11(2)(a) repealed (1.4.1998) by [Police Act 1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) , [s.134(1)(2)](https://www.legislation.gov.uk/ukpga/1997/50/section/134/1/2) , [Sch. 9 para. 33(2)(a)](https://www.legislation.gov.uk/ukpga/1997/50/schedule/9/paragraph/33/2/a) , [Sch. 10](https://www.legislation.gov.uk/ukpga/1997/50/schedule/10) ; [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354) , [art. 2(2)(bb)](https://www.legislation.gov.uk/uksi/1998/354/article/2/2/bb)
+
+[^c7221281]: Textual amendment: Words in s. 11(2)(b) inserted (21.7.1994 for specified purposes and otherwise 1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29) , [ss. 44](https://www.legislation.gov.uk/ukpga/1994/29/section/44) , [94(3)(c)](https://www.legislation.gov.uk/ukpga/1994/29/section/94/3/c) , [Sch. 5 Pt. II para. 20(3)](https://www.legislation.gov.uk/ukpga/1994/29/schedule/5/part/II/paragraph/20/3) ; [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262) , [art. 4](https://www.legislation.gov.uk/uksi/1994/3262/article/4) , [Sch.](https://www.legislation.gov.uk/uksi/1994/3262/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/1994/3262/article/5) )
+
+[^key-ab96ba05f5d5a2f8f6690fcbcb9b53d9]: Textual amendment: Word in s. 11(2)(b) inserted (E.W.) (15.4.2010) by [Police Pensions (Descriptions of Service) Order 2010 (S.I. 2010/899)](https://www.legislation.gov.uk/uksi/2010/899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/899/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/899/article/2/3/b)
+
+[^key-1bb4b52db4ff7a582a90b08cfd791538]: Textual amendment: Words in s. 11(2A)(b) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(c)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/c/i) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-05651e697dfa10511ee403a11161fcad]: Textual amendment: Words in s. 11(2A)(b) substituted (E.W.) (21.12.2012) by [The Police (Descriptions of Service) Order 2012 (S.I. 2012/2954)](https://www.legislation.gov.uk/uksi/2012/2954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2954/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/2954/article/2/3/b)
+
+[^c7221291]: Textual amendment: Words in s. 11(2)(b) inserted (1.4.1998) by [Police Act 1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) , [s. 134(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/134/1) , [Sch. 9 para. 33(2)(b)](https://www.legislation.gov.uk/ukpga/1997/50/schedule/9/paragraph/33/2/b) ; [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354) , [art. 2(2)(bb)](https://www.legislation.gov.uk/uksi/1998/354/article/2/2/bb)
+
+[^key-8ae6ded6cd951c224cdd452e523c8f3a]: Textual amendment: Word in s. 11(2)(b) substituted (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) , [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2) , [Sch. 7 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/7/paragraph/7/2/a) ; [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913) , [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/913/article/2/e)
+
+[^key-60ebef20c71153d8dfefaddec0cd46bb]: Textual amendment: S. 11(2)(ba) inserted (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) , [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2) , [Sch. 7 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/7/paragraph/7/2/b) ; [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913) , [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/913/article/2/e)
+
+[^key-88be668ce341c41c0e53dc006a95fb38]: Textual amendment: Words in s. 11(2A)(ba) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/c/ii) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-cc46e3c5e594b5fb2fa44e1bff49f4c1]: Textual amendment: Words in s. 11(2A)(ba) substituted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 62](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/62)
+
+[^key-650cb92097f5bd2da26134976819438e]: Textual amendment: S. 11(2A)(c) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 26(3)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/26/3/a) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-2598ef57b4d03a4010563d805d788f60]: Textual amendment: S. 11(2)(da)(e) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6)); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+
+[^key-82852e6f8430424e81119304bf9c13ce]: Textual amendment: S. 11(2A)(f) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 26(3)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/26/3/b) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-7f62a50b2dfc4eb9ac9c953a8d00c25e]: Textual amendment: S. 11(2)(bg) inserted (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 9 para. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2006/47/schedule/9/paragraph/11/3/b) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
+
+[^key-97aa357addb3d20a8ca44b0330d5dcf1]: Textual amendment: Words in s. 11(2A) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/2/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
+[^key-5e240f84125e9222170bd942b5f6b65a]: Textual amendment: S. 11(2A): "the second paragraph (g) becomes paragraph (h)" (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 132(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/132/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^key-64487d6124a0ae78ca180780e66afa22]: Textual amendment: S. 11(2)(g) inserted (1.4.2007) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (Consequential Provisions and Modifications) Order 2007 (S.I. 2007/1098)](https://www.legislation.gov.uk/uksi/2007/1098), [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1098/article/1/3), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2007/1098/schedule/paragraph/2/3/b)
+
+[^key-36988facaf4404c09a48df0ba6678ea3]: Textual amendment: S. 11(2A)(i) inserted (21.12.2012) by [The Police (Descriptions of Service) Order 2012 (S.I. 2012/2954)](https://www.legislation.gov.uk/uksi/2012/2954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2954/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2012/2954/article/2/3/c)
+
+[^key-4df9eb20d2d4057872e7ef9c4250486d]: Textual amendment: Words in s. 11(2A)(i) omitted (13.5.2014) by virtue of [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 85(3)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/85/3) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(d)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/d)
+
+[^key-10bb4db90f2817c83359fff47ff17136]: Textual amendment: S. 11(2A)(j) and word inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(c)(v)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/c/v) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^c7221321]: Textual amendment: Words in s. 11(3) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16) , [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103) , [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1) , [Sch. 7 Pt. II para. 30(4)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/30/4)
+
+[^key-5ae94dd778ef9ef92fada242ede876d1]: Textual amendment: Words in s. 11(3) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(d)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/d/i) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^c7221331]: Textual amendment: Words in s. 11(3)(b) inserted (21.7.1994 for specified purposes and otherwise 1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29) , [ss. 44](https://www.legislation.gov.uk/ukpga/1994/29/section/44) , [94(3)(c)](https://www.legislation.gov.uk/ukpga/1994/29/section/94/3/c) , [Sch. 5 Pt. II para. 20(4)(a)](https://www.legislation.gov.uk/ukpga/1994/29/schedule/5/part/II/paragraph/20/4/a) ; [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262) , [art. 4](https://www.legislation.gov.uk/uksi/1994/3262/article/4) , [Sch.](https://www.legislation.gov.uk/uksi/1994/3262/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/1994/3262/article/5) )
+
+[^c7221341]: Textual amendment: Words in s. 11(3)(b) inserted (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16) , [s. 126(4)](https://www.legislation.gov.uk/ukpga/2001/16/section/126/4) ; [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344) , [art. 3](https://www.legislation.gov.uk/uksi/2002/344/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4) )
+
+[^key-8a370cb2f83c9233b69b1a42dda982f6]: Textual amendment: Words in s. 11(3)(b) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+
+[^key-64a346109a53f4f7b915474c7f450abf]: Textual amendment: Word in s. 11(3)(b) inserted (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 1 para. 59(4)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/1/paragraph/59/4); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/709/article/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+
+[^key-401d929f7894529f8a42d7471bc06e08]: Textual amendment: Word in s. 11(3)(b) inserted (12.10.2009) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 9 para. 11(3)(c)](https://www.legislation.gov.uk/ukpga/2006/47/schedule/9/paragraph/11/3/c) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
+
+[^key-4a553d27704834b55835b29c8707ba31]: Textual amendment: Words in s. 11(3)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/d/ii) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-4973a11ac0ecabbec5704452739481a7]: Textual amendment: Word in s. 11(3)(b) inserted (15.4.2010) by [Police Pensions (Descriptions of Service) Order 2010 (S.I. 2010/899)](https://www.legislation.gov.uk/uksi/2010/899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/899/article/1/2), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2010/899/article/2/3/c/i)
+
+[^key-f3656293bb582a69e350289d88d18b84]: Textual amendment: Words in s. 11(3)(b) substituted (21.12.2012) by [The Police (Descriptions of Service) Order 2012 (S.I. 2012/2954)](https://www.legislation.gov.uk/uksi/2012/2954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2954/article/1/2), [2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2012/2954/article/2/3/d/i)
+
+[^c7221361]: Textual amendment: Words in s. 11(3) inserted (21.7.1994 for specified purposes and otherwise 1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29) , [ss. 44](https://www.legislation.gov.uk/ukpga/1994/29/section/44) , [94(3)(c)](https://www.legislation.gov.uk/ukpga/1994/29/section/94/3/c) , [Sch. 5 Pt. II para. 20(4)(b)](https://www.legislation.gov.uk/ukpga/1994/29/schedule/5/part/II/paragraph/20/4/b) ; [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262) , [art. 4](https://www.legislation.gov.uk/uksi/1994/3262/article/4) , [Sch.](https://www.legislation.gov.uk/uksi/1994/3262/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/1994/3262/article/5) )
+
+[^key-fb0cb9fdca1934d12747db1a858a736d]: Textual amendment: Words in s. 11(3) inserted (E.W.) (15.4.2010) by [Police Pensions (Descriptions of Service) Order 2010 (S.I. 2010/899)](https://www.legislation.gov.uk/uksi/2010/899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/899/article/1/2), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/899/article/2/3/c/ii)
+
+[^key-b707811c478696c2315781335ac08fb2]: Textual amendment: Words in s. 11(3) inserted (E.W.) (21.12.2012) by [The Police (Descriptions of Service) Order 2012 (S.I. 2012/2954)](https://www.legislation.gov.uk/uksi/2012/2954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2954/article/1/2), [2(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2012/2954/article/2/3/d/ii)
+
+[^c7221371]: Textual amendment: Definition of “central service” in s. 11(5) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16) , [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103) , [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1) , [Sch. 7 Pt. II para. 30(5)](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/30/5)
+
+[^key-6ea624b167c1e9d065a12c4646dd4052]: Textual amendment: Word in s. 11(5) inserted (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) , [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2) , [Sch. 7 para. 7(3)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/7/paragraph/7/3) ; [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913) , [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/913/article/2/e)
+
+[^key-bef99d0f9bdae58abfac3cd46214a978]: Textual amendment: Words in s. 11(5) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 31(4)(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/31/4/a) , [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2) ; [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378) , [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(m)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/m)
+
+[^key-1efb33eb53782737df86e097e40e01e8]: Textual amendment: Words in s. 11(5) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+
+[^key-52879d2027c5adda5ef2c8a231a76477]: Textual amendment: Word in s. 11(5) inserted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) , [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8) , [Sch. 4 para. 31(4)(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/31/4/a) ; [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378) , [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1) , [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
+
+[^key-ba9f12660f8474dec397547c16c475e1]: Textual amendment: Words in s. 11(5) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 12(3)(e)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/12/3/e) (with [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/6))
+
+[^key-c82c9f63d50a7312eff322770a53fd21]: Textual amendment: Words in s. 11(5) inserted (21.12.2012) by [The Police (Descriptions of Service) Order 2012 (S.I. 2012/2954)](https://www.legislation.gov.uk/uksi/2012/2954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2954/article/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2012/2954/article/2/3/e)
+
+[^key-55917a032ee5001ba4f7a9432dd736fe]: Textual amendment: Words in s. 11(5) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 26(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/26/4) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^c7221401]: Textual amendment: S. 11(6) inserted (1.10.2002) by [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30) , [s. 107](https://www.legislation.gov.uk/ukpga/2002/30/section/107) , [Sch. 7 para. 7(4)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/7/paragraph/7/4) ; [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306) art. 2(g)(i)(ii)
+
+[^key-2f806fc912ceb8a19d7c7c914808b3fd]: Textual amendment: S. 11(7) inserted (15.1.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/4); [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(k)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/k)
+
+[^key-072d095b9371a994ec044d060385ebc4]: Textual amendment: S. 11(8) inserted (E.W.) (15.4.2010) by [Police Pensions (Descriptions of Service) Order 2010 (S.I. 2010/899)](https://www.legislation.gov.uk/uksi/2010/899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/899/article/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2010/899/article/2/3/d)
+
+[^key-ba3a733a48f053ab1147c56d0923cd86]: Textual amendment: S. 11(8A) inserted (E.W.) (21.12.2012) by [The Police (Descriptions of Service) Order 2012 (S.I. 2012/2954)](https://www.legislation.gov.uk/uksi/2012/2954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2954/article/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2012/2954/article/2/3/f)
+
+[^key-ae7cf644f0543967043adc7c3bb2f6b0]: Textual amendment: Words in s. 11(8A) substituted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 85(4)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/85/4) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(d)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/d)
+
+[^key-feecad6ce4a0a163159c2e6288550985]: Textual amendment: S. 11(9)-(13) inserted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 26(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/26/5) (with [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/10/2)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-9be88ba019b175ac039cb6c850367f96]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/1976/35/section/11A) inserted (E.W.) (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/10/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/125/article/2/a)
+
+[^c7221411]: Modification: S. 12(2) modified by [S.I. 1987/257](https://www.legislation.gov.uk/uksi/1987/257), [reg. K5(8)](https://www.legislation.gov.uk/uksi/1987/257/regulation/K5/8)
+
+[^c7221421]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^c7221431]: Marginal citation: [1948 c. 24](https://www.legislation.gov.uk/ukpga/1948/24).
+
+[^c7221441]: Textual amendment: Words substituted by virtue of [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1978/30/section/25/2)
+
+[^c7221451]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c7221461]: Modification: The text of s. 13(1)(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c7221471]: Marginal citation: [1939 c. 103](https://www.legislation.gov.uk/ukpga/1939/103).
+
+[^c7221481]: Marginal citation: [S.I. 1941/1271](https://www.legislation.gov.uk/uksi/1941/1271).
+
+[^c7221491]: Marginal citation: [1921 c. 31](https://www.legislation.gov.uk/ukpga/1921/31).
+
+[^c7221501]: Marginal citation: [1948 c. 24](https://www.legislation.gov.uk/ukpga/1948/24).
+
+[^key-4e989ce93708f9c28565f380ec8ad823]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1976/35/schedule/1/paragraph/2) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 133](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/133); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+
+[^c7221511]: Marginal citation: [1948 c. 24](https://www.legislation.gov.uk/ukpga/1948/24)
+
+[^c7221521]: Marginal citation: [1829 c. 44](https://www.legislation.gov.uk/ukpga/1829/44).
+
+[^c7221531]: Marginal citation: [1859 c. 32](https://www.legislation.gov.uk/ukpga/1859/32).
+
+[^c7221541]: Marginal citation: [1865 c. 35](https://www.legislation.gov.uk/ukpga/1865/35).
+
+[^c7221551]: Marginal citation: [1918 c. 51](https://www.legislation.gov.uk/ukpga/1918/51).
+
+[^c7221561]: Marginal citation: [1921 c. 31](https://www.legislation.gov.uk/ukpga/1921/31).
+
+[^c7221571]: Marginal citation: [1939 c. 103](https://www.legislation.gov.uk/ukpga/1939/103).
+
+[^c7221581]: Marginal citation: [1945 c. 17 (9 & 10 Geo. 6)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/17).
+
+[^c7221591]: Marginal citation: [1946 c. 46](https://www.legislation.gov.uk/ukpga/1946/46).
+
+[^c7221601]: Marginal citation: [1946 c. 71](https://www.legislation.gov.uk/ukpga/1946/71).
+
+[^c7221611]: Modification: The text of Sch. 2 paras. 2–6 and 8–11 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and except as specified does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c7221631]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1976/35/schedule/2/paragraph/1) repealed (1.4.1995 so far as extending to Scotland and otherwise*prosp.*) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [s. 93](https://www.legislation.gov.uk/ukpga/1994/29/section/93), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1994/29/schedule/9/part/I); [S.I. 1995/492](https://www.legislation.gov.uk/uksi/1995/492), [art. 2](https://www.legislation.gov.uk/uksi/1995/492/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/492/schedule/1)
+
+[^c7221641]: Marginal citation: [1945 c. 17 (9 & 10 Geo. 6)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/17)
+
+[^c7221651]: Marginal citation: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65).
+
+[^c7221661]: Marginal citation: [1961 c. 35](https://www.legislation.gov.uk/ukpga/1961/35).
+
+[^c7221701]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1976/35/schedule/2/paragraph/5) repealed (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103), [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1996/16/schedule/9/part/I)
+
+[^c7221731]: Marginal citation: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77).
+
+[^c7221741]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1976/35/schedule/2/paragraph/6) repealed (1.4.1995 so far as extending to Scotland and otherwise*prosp.*) by virtue of [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [ss. 93](https://www.legislation.gov.uk/ukpga/1994/29/section/93), [94(3)(c)](https://www.legislation.gov.uk/ukpga/1994/29/section/94/3/c), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1994/29/schedule/9/part/I); [S.I. 1995/492](https://www.legislation.gov.uk/uksi/1995/492), [art. 2](https://www.legislation.gov.uk/uksi/1995/492/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/492/schedule/1)
+
+[^c7221751]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c7221761]: Textual amendment: [Sch. 2 para.7](https://www.legislation.gov.uk/ukpga/1976/35/schedule/2/paragraph/7) repealed by [Police Negotiating Board Act 1980 (c. 10, SIF 95)](https://www.legislation.gov.uk/ukpga/1980/10), [s. 3(3)](https://www.legislation.gov.uk/ukpga/1980/10/section/3/3)(*c*)
+
+[^c7221771]: Marginal citation: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
+
+[^c7221791]: Textual amendment: [Para. 9](https://www.legislation.gov.uk/ukpga/1976/35/paragraph/9) repealed (1.10.1992) by [Tribunals and Inquiries Act 1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/18/2), [19(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/19/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1992/53/schedule/4), [Pt.I](https://www.legislation.gov.uk/ukpga/1992/53/part/I)
+
+[^c7221801]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^c7221821]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/1976/35/schedule/2/paragraph/11) repealed (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [ss. 164](https://www.legislation.gov.uk/ukpga/1993/48/section/164), [188](https://www.legislation.gov.uk/ukpga/1993/48/section/188), [Sch. 5 Pt.I](https://www.legislation.gov.uk/ukpga/1993/48/schedule/5/part/I); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+
+[^c7221831]: Modification: The text of Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

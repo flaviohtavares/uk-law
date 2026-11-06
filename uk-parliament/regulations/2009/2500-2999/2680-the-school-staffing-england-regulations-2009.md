@@ -1,0 +1,1005 @@
+---
+title: The School Staffing (England) Regulations 2009
+id: uksi/2009/2680
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-10-02'
+text_date: '2015-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/2680
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2680/pdfs/uksiem_20092680_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2680/pdfs/uksiem_20092680_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2009/2680/pdfs/uksi_20092680_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2680/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Staffing (England) Regulations 2009
+
+> Text as at 2015-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 2680
+
+Education, England
+
+The School Staffing (England) Regulations 2009
+
+Made
+
+2nd October 2009
+
+Laid before Parliament
+
+9th October 2009
+
+Coming into force
+
+2nd November 2009
+
+The Secretary of State for Children, Schools and Families, in exercise of the powers conferred by sections 72 and 138(7) of the School Standards and Framework Act 1998[^f00001] and sections 19(3), 26, 34(5), 35(4) and (5), 36(4) and (5) and 210(7) of the Education Act 2002[^f00002] makes the following Regulations:[^key-c3c2554d7916904908129f7c140a0f2b]
+
+## PART 1 — General
+
+### 1. Citation, commencement and application[^key-2f7c1292fbce27bcf90eb7f6d56efdd9]
+
+(1) These Regulations may be cited as the School Staffing (England) Regulations 2009 and they come into force on 2nd November 2009.
+
+(2) These Regulations apply only in relation to England.
+
+### 2. Revocations and amendments[^key-a8dbc1185d99e9d0548b0a3484bb360b]
+
+The Regulations specified in Schedule 1 are revoked to the extent specified in the third column of that Schedule.
+
+### 3. Interpretation[^key-c1096eb595ac2e2a4b1865cc9348f6f8][^key-effc197f7b56b3a18b97a18237021159]
+
+(1) In these Regulations—
+
+- “PA 1997” means the Police Act 1997[^f00003];
+- “EA 2002” means the [Education Act 2002](https://www.legislation.gov.uk/ukpga/2002/32);
+- “authority” means the local education authority by which a maintained school is, or a proposed school is to be, maintained;
+- “dismissal” is to be interpreted in accordance with sections 95 and 136 of the Employment Rights Act 1996[^f00004];
+- “employment business” has the meaning given by section 13(3) of the Employment Agencies Act 1973[^f00005];
+- “enhanced criminal record certificate” means an enhanced criminal record certificate issued under[^key-59f7816803fe2027cb0896b9c503789f] section 113B of PA 1997 which includes , in such cases as are from time to time prescribed under section 113BA(1) of that Act,[^key-f500623dcd2a779fc70a8bb1d9bcd249] suitability information relating to children within the meaning of section 113BA(2) of that Act;
+- “interim prohibition order” means an order made by virtue of paragraph 3 of Schedule 11A to[^key-5d1ac2436f44bd164ac6c636c967229e] EA 2002;
+- “negative up-date information” means up-date information of a kind falling within section 116A(8)(b)(i) or (c)(i) of PA 1997;[^key-74fd178db4f50f258378fba7ceb905d1]
+- “prohibition order” has the meaning given by section 141B of EA 2002;
+- “relevant activity” means any activity which is a regulated activity relating to children within the meaning of—[^key-4306d4c66e732c03d8685734a69851f2]
+  - (a) Part 1 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006; or
+  - (b) Part 1 of Schedule 4 to that Act as it had effect immediately before the coming into force of section 64 of the Protection of Freedoms Act 2012;
+- “safer recruitment training” means training provided [^key-77fa157c43fd4ffcd5e9c1a86b558611]... for the purpose of ensuring that those who undertake it know how to take proper account of the need to safeguard and promote the welfare of[^key-2e28e74aa9052da863f6ae4e5c67d76e] children when recruiting staff;
+- “support staff” means any member of a school’s staff other than a teacher;
+- “teacher” means—
+  - (a) a person who is a school teacher for the purposes of section 122 of EA 2002 Act; and
+  - (b) a person who would fall within paragraph (a) but for the fact that the other party to the contract is not an authority or a governing body of a school falling within Part 3 of these Regulations.
+- “up-date information” has the meaning given by section 116A(8) of PA 1997.[^key-c8bf46b7490147914ac0482c0e86e955]
+
+(2) References to a vacancy in any post include a prospective vacancy in the post.
+
+(3) A person is to be treated as meeting any staff qualification requirements if the person—
+
+- (a) fulfils any requirements with respect to qualifications or registration which apply to the person as a result of regulations made under sections 132 to 135 of EA 2002[^f00006] and regulations made under section 19 of the Teaching and Higher Education Act 1998[^f00007];
+- (b) meets any conditions with respect to health and physical capacity which apply to the person as a result of regulations made under section 141 of the 2002 Act[^f00008];[^key-e37ec84a2afd700240c1f46d9ff6247e]...
+- (c)[^key-cadae47ccabf4936807057734ec2d356] is not barred from regulated activity relating to children in accordance with section 3(2) of the Safeguarding Vulnerable Groups Act 2006 in any case where it is intended that the person will engage in any activity which is a regulated activity relating to children within the meaning of Part 1 of Schedule 4 to that Act; and
+- (d) is not subject to a prohibition order or interim prohibition order or subject to any direction made under section 142 of EA 2002 or any prohibition, restriction or order having effect as such a direction.
+
+(4) References to support staff include support staff employed, or engaged otherwise than under a contract of employment, to provide community facilities and services under section 27 of EA 2002.
+
+(5) For the purposes of these Regulations a person applies for an enhanced criminal record certificate if—
+
+- (a) the person countersigns an application for the certificate as a registered person, within the meaning of section 120 of PA 1997, or an application is countersigned on the person’s behalf; and
+- (b) the application is submitted [^key-4968dd785ed430e8ec6d8ae85e6fb643]... in accordance with Part 5 of that Act.
+
+(6)[^key-6e283157613a4ef23152802c11d52cc5] For the purposes of these Regulations an enhanced criminal record certificate is subject to up-date arrangements in the circumstances set out in section 116A(3) of PA 1997.
+
+(7) References to the giving of negative up-date information are references to the giving of such information under section 116A(1) of PA 1997.
+
+### 4. Delegation of authority[^key-f89f0689778a48a26ef5f28bba6262a1][^key-d5eebdaf4c33f209ab50aa797be0d117]
+
+(1) The governing body may delegate—
+
+- (a) any of the functions conferred upon it by these Regulations other than those conferred by regulations 5 to 8 and 9[^key-dd90be46529b60061a42f6ad5e5d3f3c], 15(3) and (5) and 27(3) and (5); and
+- (b) its power to appoint or dismiss any member of staff at a school to which Part 3 applies.
+
+(2) Subject to paragraph (4), any delegation under paragraph (1) may be to—
+
+- (a) the head teacher,
+- (b) one or more governors; or
+- (ba)[^key-b2db96955a6df35b06e54fedf548355d] a committee established by the governing body; or
+- (c) one or more governors acting together with the head teacher.
+
+(3) Where the governing body has made any delegation under paragraph (1) to one or more governors and the function being delegated does not directly concern the head teacher —
+
+- (a) the head teacher may attend and offer advice at all relevant proceedings; and
+- (b) the governor or governors to whom the delegation has been made must consider any such advice.
+
+(4) Any delegation under paragraph (1) of—
+
+- (a) the determination that the head teacher should cease to work at the school; or
+- (b) the power to appoint or dismiss the head teacher,
+
+may be to one or more governors, other than a governor who is the head teacher.
+
+(5)[^key-9e0d9b064b001589104e4ddad05e7c88] Paragraph (2)(ba) does not authorise delegation to a committee that includes an associate member who is a pupil or a member of staff at the school.
+
+### 5. Head teacher duties and entitlements[^key-1b57a1941a5ff91e94e2db70f7b662b1]
+
+(1) The governing body must ensure that the head teacher at the school—
+
+- (a) complies with the duties imposed upon the head teacher; and
+- (b) benefits from any entitlement conferred upon the head teacher,
+
+by any order under section 122 of the EA 2002 (teachers’ pay and conditions)[^f00010].
+
+(2) In discharging its duty under paragraph (1)(a), the governing body must have regard to the desirability of the head teacher being able to achieve a satisfactory balance between the time spent discharging the professional duties of a head teacher and the time spent by the head teacher pursuing personal interests outside work.
+
+### 6. Performance of head teacher[^key-c8633ec0f2dc6fc11496aa09b8a28840][^key-d0364e0a6262a6abe307dd1c1d7e75cc]
+
+(1) Where the authority has any serious concerns about the performance of the head teacher of a school it must—
+
+- (a) make a written report of its concerns to the governing body of the school; and
+- (b) at the same time, send a copy of the report to the head teacher.
+
+(2) The governing body must notify the authority in writing of the action it proposes to take in the light of the authority’s report.
+
+### 7. Conduct and discipline of staff[^key-4826c87b9bd56c156ce9dde6cc34111a][^key-d0364e0a6262a6abe307dd1c1d7e75cc]
+
+(1) The governing body must establish procedures—
+
+- (a) for the regulation of the conduct and discipline of staff at the school; and
+- (b) by which staff may seek redress for any grievance relating to their work at the school.
+
+(2) Where the implementation of any determination made by the governing body in operation of the procedures requires any action which—
+
+- (a) is not within the functions exercisable by the governing body by or under EA 2002; but
+- (b) is within the power of the authority,
+
+the authority must take that action at the request of the governing body.
+
+### 8. Capability of staff[^key-8df720fb69904b446b7cf9a596e82459][^key-d0364e0a6262a6abe307dd1c1d7e75cc]
+
+The governing body must establish procedures for dealing with lack of capability on the part of staff at the school.
+
+### 8A. Provision of information about staff capability[^key-d0364e0a6262a6abe307dd1c1d7e75cc][^key-282cc16bfcb6c76b8ac36260a651015b]
+
+(1) This regulation applies where a member of the teaching staff at a school (School A) applies for a teaching post at another school (School B), where School B is a maintained school or an Academy school[^f00003].
+
+(2) The governing body of School A must, at the request of the governing body or proprietor (as the case may be) of School B—
+
+- (a) advise in writing whether or not that member of staff has, in the preceding two years, been the subject of the procedures established by the governing body in accordance with regulation 8 and, if so,
+- (b) provide written details of the concerns which gave rise to this, the duration of the proceedings and their outcome.
+
+### 9. Safer recruitment training[^key-cc5d3583a63f9997c000731f9f11f638][^key-d0364e0a6262a6abe307dd1c1d7e75cc]
+
+With effect from 1<sup>st</sup> January 2010, the governing body must ensure that—
+
+- (a) any person who interviews an applicant for any post under these Regulations has completed the safer recruitment training; or
+- (b) in the case where—
+  - (i) a selection panel is appointed for that purpose under regulation 15 or 27; or
+  - (ii) the governing body delegates the appointment of a member of staff to two or more governors or one or more governors and the head teacher under regulation 4(1),
+
+  at least one member of that panel or group has completed the safer recruitment training.
+
+### 10. Amendment of the School Governance (Procedures) (England) Regulations 2003[^key-f9d4bc51da0bbacf7ccb079f4da877b4]
+
+The School Governance (Procedures) (England) Regulations 2003[^f00011] are amended as follows—
+
+- (a) in regulation 16, for paragraph (1) substitute-
+
+  > (1) Subject to regulation 17 of these Regulations, regulation 3(2) of the Religious Character of Schools (Designation Procedure) Regulations 1998[^f00012] and regulation 6 of the Education (School Government) (Terms of Reference) (England) Regulations 2000[^f00013], the governing body may delegate any of its functions to—
+  >
+  > - (a) a committee;
+  > - (b) any governor other than a governor who is the head teacher; or
+  > - (c) where the function being delegated does not directly concern the head teacher, the head teacher (whether or not he is a governor).
+
+  ;
+- (b) in regulation 17, after paragraph (4) insert-
+
+  > (5) The governing body may not delegate functions relating to powers conferred, and the duties imposed, on governing bodies by or under the School Staffing (England) Regulations 2009[^f00014] save as provided in those Regulations.
+
+  .
+
+## PART 2 — Provisions Relating to Community, Voluntary Controlled, Community Special and Maintained Nursery Schools
+
+### 11. Application of Part 2[^key-ce6e87931e8e873f28cb53279fa243e5]
+
+This Part applies to community, voluntary controlled, community special and maintained nursery schools.
+
+### 12. Manner of appointment[^key-a8a9ace79311d1d167355a523007bdbe][^key-7e02f25254e6865eb5751bc75a18516c]
+
+(1) Where a governing body approves, identifies, selects or recommends a person for appointment under regulation 15(5), 15(7), 16(3) or 17(1), it must determine whether that person is to be appointed—
+
+- (a) under a contract of employment with the authority;
+- (b) by the authority otherwise than under a contract of employment; or
+- (c) by the governing body otherwise than under a contract of employment.
+
+(2) The governing body must check—
+
+- (a) the identity of any such person;
+- (b) that the person meets all relevant staff qualification requirements; and
+- (c) that the person has a right to work in the United Kingdom.
+
+(3) Where it is intended that the person will engage in relevant activity, the[^key-42e6c93235d5ddd1dd072c7df659fb21] governing body must obtain an enhanced criminal record certificate in respect of any such person before, or as soon as practicable after, the person’s appointment.
+
+(3A)[^key-b4e883f27c92eb8aa04abb028b56681b] Where a governing body obtains an enhanced criminal record certificate in respect of any such person and that certificate is subject to up-date arrangements, it must consider whether to request up-date information in relation to the certificate under section 116A(1) of PA 1997.
+
+(4) In the case of any such person for whom, by reason of having lived outside the United Kingdom, obtaining such a certificate is not sufficient to establish that person’s suitability to work in a school, the governing body must make such further checks as the authority consider appropriate, having regard to any guidance issued by the Secretary of State.
+
+(5) The governing body must complete the checks referred to in paragraphs (2) and (4) before a person is appointed.
+
+(6) Paragraphs (3) and (4) do not apply to a person who has worked in—
+
+- (a) a school in England in a post—
+  - (i) which brought the person regularly into contact with children or young persons; or
+  - (ii) to which the person was appointed on or after 12th May 2006 and which did not bring the person regularly into contact with children or young persons; or
+- (b) an institution within the further education sector in England , or in a 16 to 19 Academy,[^key-052076f3b135dce08e60a565495da55d] in a post which involved the provision of education which brought the person regularly into contact with children or young persons,
+
+during a period which ended not more than three months before the person’s appointment.
+
+(7) The governing body must keep a register containing the information specified in Schedule 2.
+
+### 13. Application of regulation 12 to other appointments[^key-1fa5325e126f69b42e12533c980b8991][^key-7e02f25254e6865eb5751bc75a18516c]
+
+Regulation 12(2) to (6) and (7) (insofar as it relates to paragraphs 2 to 4A[^key-fe0cb961d0c065535c341542d8bcc23f], 7 and 8 of Schedule 2) also applies in relation to—
+
+- (a) any person appointed by an authority for the purpose of working at a school to which this Part applies in the temporary absence of a member of staff of the school; and
+- (b) any person appointed by an authority to work at a school as a member of the school meals staff.
+
+### 14. Authority’s entitlement to offer advice[^key-2583f8faf0f7b0f8e6683d03b80fc0e9][^key-7e02f25254e6865eb5751bc75a18516c]
+
+(1) A representative of the authority may attend and offer advice at all proceedings relating to the selection or dismissal of any teacher.
+
+(2) The governing body must consider any advice offered by the authority pursuant to paragraph (1).
+
+### 15. Appointment of head teacher and deputy head teacher[^key-e8fcda9512ec2f2f238f421231bfe395][^key-7e02f25254e6865eb5751bc75a18516c]
+
+(1) The governing body must notify the authority in writing of—
+
+- (a) any vacancy for the head teacher; and
+- (b) any post for a deputy head teacher which it has identified as one to be filled.
+
+(2) The governing body must advertise any such vacancy or post in such manner as it considers appropriate unless it has good reason not to.
+
+(3) Where the governing body advertises any such vacancy or post, it must appoint a selection panel, consisting of at least three of its members, other than a governor who is the head teacher or (as the case may be) a deputy head teacher, to—
+
+- (a) select for interview such applicants for the post as it thinks fit and, where the post is that of head teacher, notify the authority in writing of the names of the applicants selected;
+- (b) interview those applicants who attend for that purpose; and
+- (c) where it considers it appropriate, recommend to the governing body for appointment one of the applicants interviewed.
+
+(4) If, within a period of seven days beginning with the date when it receives notification under paragraph (3)(a), the authority makes written representations to the selection panel that any applicant is not a suitable person for the post, the selection panel must—
+
+- (a) consider those representations; and
+- (b) where it decides to recommend for appointment any person about whom representations have been made, notify the governing body and authority in writing of its reasons.
+
+(5) Subject to regulation 12(2) and, where appropriate, regulation 12(4), where the person recommended by the selection panel is approved by the governing body for appointment, the authority must appoint that person, unless the governing body has determined that the person is to be appointed by the governing body otherwise than under a contract of employment pursuant to regulation 12(1)(c).
+
+(6) If—
+
+- (a) the selection panel does not recommend a person to the governing body;
+- (b) the governing body declines to approve the person recommended by the selection panel; or
+- (c) the authority declines to appoint the person that the governing body approves,
+
+the selection panel may recommend another person for appointment in accordance with this regulation (but this does not prevent it from recommending an existing applicant).
+
+(7) Subject to regulation 12(2) and, where appropriate, regulation 12(4), where the governing body decides for good reason not to advertise and conduct a selection process to fill the vacancy or post in accordance with paragraphs (2) to (4), the authority must appoint the person identified by the governing body to fill the vacancy or post, unless the governing body has determined that the person is to be appointed by the governing body otherwise than under a contract of employment pursuant to regulation 12(1)(c).
+
+### 16. Appointment of other teachers[^key-26e09ad7c4e94083dce7f04e6cc02849][^key-7e02f25254e6865eb5751bc75a18516c]
+
+(1) This regulation applies to any post of teacher, other than a post of head teacher or deputy head teacher.
+
+(2) Where the governing body identifies any such post to be filled for a period of more than four months, it must provide the authority with a specification for the post.
+
+(3) Subject to regulation 12(2) and, where appropriate, regulation 12(4), where a person is selected by the governing body for appointment, the authority must appoint that person, unless the governing body has determined that the person is to be appointed by the governing body otherwise than under a contract of employment pursuant to regulation 12(1)(c).
+
+(4) If the authority declines to appoint a person that the governing body selects, the governing body may select another person for appointment in accordance with this regulation (but this does not prevent it from selecting an existing applicant).
+
+### 17. Appointment of support staff[^key-6a1123037ed7eb9c2ab08962d7093e55][^key-7e02f25254e6865eb5751bc75a18516c]
+
+(1) Subject to regulation 21, where the governing body identifies a support staff post to be filled, it may recommend a person to the authority for appointment.
+
+(2) Where the governing body recommends a person to the authority for appointment under paragraph (1) it must provide the authority with—
+
+- (a) the name of any person it recommends pursuant to paragraph (1); and
+- (b) a job specification for the post, which must include the governing body’s recommendations as to—
+  - (i) the duties to be performed,
+  - (ii) the hours of work (where the post is part-time),
+  - (iii) the duration of the appointment,
+  - (iv) the grade; and
+  - (v) the remuneration.
+
+(3) The grade must be on the scale of grades applicable in relation to employment with the authority and such as the governing body considers appropriate.
+
+(4) Where the authority has discretion with respect to remuneration, it must exercise that discretion in accordance with the governing body’s recommendation.
+
+(5) The authority may be regarded as having discretion with respect to remuneration if any provisions regulating the rates of remuneration or allowances payable to persons in the authority’s employment—
+
+- (a) do not apply in relation to that appointment; or
+- (b) leave to the authority any degree of discretion as to the rate of remuneration.
+
+(6) If, within a period of seven days after receiving the job specification, the authority makes written representations to the governing body relating to the grade or remuneration to be paid, the governing body must—
+
+- (a) consider those representations; and
+- (b) where it decides not to change the grade or remuneration to be paid, notify the authority in writing of its reasons.
+
+(7) Subject to regulation 12(2) and, where appropriate, regulation 12(4), the authority must appoint the person recommended by the governing body to the post, unless the governing body has determined that the person is to be appointed by the governing body otherwise than under a contract of employment pursuant to regulation 12(1)(c).
+
+### 18. Supply staff[^key-81c8e02408839dfa6fdae727dba3b940][^key-7e02f25254e6865eb5751bc75a18516c]
+
+(1) The governing body must ensure that no person supplied by an employment business to a school is allowed to begin work as a teacher or member of support staff at the school unless the authority or (as the case may be) the governing body has received—
+
+- (a) written notification from the employment business in relation to that person—
+  - (i) that it has made the checks referred to in paragraphs 5(a)(i)[^key-3728ac0713744460078efdeba24556a2] , (iii) and (iv)[^key-f16d22b9cc78f7e7fa6504c71f992cc2] and 5A of Schedule 2;
+  - (ii) where it is intended that the person will engage in relevant activity,[^key-fff7de5256fddc0e6432b71579f551de] that it or another employment business has applied for an enhanced criminal record certificate or has obtained such a certificate in response to an application made by that or another employment business; [^key-698328d1773d9fbf91d9b5a2c3d8744f]...
+  - (iii) whether, if the employment business has obtained such a certificate before the person is due to begin work at the school, it disclosed any matter or information, or any information was provided to the employment business in accordance with section 113B(6) of PA 1997; and
+  - (iv)[^key-b90428008540507593dcdcbf6bfd4f6f] whether, if the employment business or another employment business has obtained such a certificate before the person is due to begin work at the school and the certificate is or has been subject to up-date arrangements, the employment business or another employment business has been given negative up-date information in relation to the certificate not more than three months before the person is due to begin work at the school; and
+- (b) where the employment business has obtained an enhanced criminal record certificate before the person is due to begin work at the school which disclosed any matter or information or any information was provided to the employment business in accordance with section 113B(6) of PA 1997, a copy of the certificate ; and[^key-c7a1352b4af342aca6663e389317e53b]
+- (c) where an enhanced criminal record certificate is or has been subject to up-date arrangements and the employment business has been given negative up-date information in relation to the certificate not more than three months before the person is due to begin work at the school, a copy of the information.
+
+(2) Subject to paragraph (3), the certificate referred to in paragraph (1)(a)(ii) must have been issued and[^key-2c300c222766ad97cd1ece87a551fafd] obtained not more than three months before the person is due to begin work at the school unless that certificate is or has been subject to up-date arrangements and the employment business or another employment business has been given negative up-date information in relation to the certificate not more than three months before the person is due to begin work at the school[^key-f7c712948b663a07d94949d825286e22].
+
+(3) Paragraph (2) does not apply in relation to a person who has worked in—
+
+- (a) a school in England in a post—
+  - (i) which brought the person regularly into contact with children or young persons; or
+  - (ii) to which the person was appointed on or after 12th May 2006 and which did not bring the person regularly into contact with children or young persons; or
+- (b) an institution within the further education sector in England , or in a 16 to 19 Academy,[^key-0cdd9537024d890319ab152d637b4b1a] in a post which involved the provision of education which brought the person regularly into contact with children or young persons,
+
+during a period which ended not more than three months before the person is due to begin work at the school.
+
+(4) Before a person offered for supply by an employment business may begin work at the school the governing body must check the person’s identity (whether or not the employment business made such a check before the person was offered for supply).
+
+(5) The authority or (as the case may be) the governing body must, either in the contract or in other arrangements which it makes with any employment business, require it, in respect of any person whom the employment business supplies to the school—
+
+- (a) to provide the notification referred to in paragraph (1)(a); [^key-e99bf3dee17c2f504b7b1d937f45b67f]...
+- (b) if any enhanced criminal record certificate which the employment business obtains contains any matter or information, or if any information was provided to the employment business in accordance with section 113B(6) of PA 1997, to provide a copy of the certificate ; and[^key-044c6df6c14440514f6f2d6932ec7733]
+- (c) if any such certificate is or has been subject to up-date arrangements and the employment business has been given negative up-date information in relation to the certificate not more than three months before the person is due to begin work at the school, to provide a copy of the information.
+
+### 19. Suspension of staff[^key-70adb4281b139f1f710cd123757eec17][^key-7e02f25254e6865eb5751bc75a18516c]
+
+(1) Subject to regulation 21, the governing body or the head teacher may suspend any person employed or engaged otherwise than under a contract of employment to work at the school where, in the opinion of the governing body or (as the case may be) the head teacher, such suspension is required.
+
+(2) The governing body or (as the case may be) the head teacher must immediately inform the authority and the head teacher or (as the case may be) the governing body when a person is suspended under paragraph (1).
+
+(3) Only the governing body may end a suspension under paragraph (1).
+
+(4) On ending such a suspension, the governing body must immediately inform the authority and the head teacher.
+
+(5) In this regulation “suspend” means suspend without loss of emoluments.
+
+### 20. Dismissal of staff[^key-96db2c1f2de3341c76cd9132eb296546][^key-7e02f25254e6865eb5751bc75a18516c]
+
+(1) Subject to regulation 21, where the governing body determines that any person employed or engaged by the authority to work at the school should cease to work there, it must notify the authority in writing of its determination and the reasons for it.
+
+(2) If the person concerned is employed or engaged to work solely at the school (and does not resign), the authority must, before the end of the period of fourteen days beginning with the date of the notification under paragraph (1), either—
+
+- (a) terminate the person’s contract with the authority, giving such notice as is required under that contract; or
+- (b) terminate such contract without notice if the circumstances are such that it is entitled to do so by reason of the person’s conduct.
+
+(3) If the person concerned is not employed or engaged by the authority to work solely at the school, the authority must require the person to cease to work at the school.
+
+### 21. School meals staff[^key-0919055807a901ae1b31c630a408ff91][^key-7e02f25254e6865eb5751bc75a18516c]
+
+(1) Subject to paragraphs (2) to (5), the authority is responsible for the appointment, discipline, suspension and dismissal of school meals staff who work or are to work at a school.
+
+(2) Before exercising any such function the authority must consult the school’s governing body to such extent as the authority thinks fit.
+
+(3) Where an order is in force under section 512A(1) of the Education Act 1996[^f00015] imposing on the governing body of a school a duty corresponding to a duty of the authority mentioned in section 512(3) and (4) of that Act (duty to provide school lunches) or section 512ZB(1) of that Act (duty to provide school lunches free of charge), paragraph (4) or (5) applies as appropriate.
+
+(4) Where the governing body and the authority have agreed that the authority will provide lunches at the school and the governing body determines that any member of the school meals staff should cease to work at the school—
+
+- (a) the governing body must notify the authority in writing of its determination and the reasons for it; and
+- (b) the authority must require the person to cease to work at the school.
+
+(5) Where no such agreement has been made, regulations 7, 17, 19 and 20 apply in relation to school meals staff.
+
+### 22. Checks on change of post[^key-a6e9cb3dc839dc1c67db7e81c39358fc][^key-7e02f25254e6865eb5751bc75a18516c]
+
+Where a member of the school staff who was appointed before 12th May 2006 moves from a post which did not bring the person regularly into contact with children or young persons to a post which does, the governing body must obtain an enhanced criminal record certificate in respect of the person before, or as soon as practicable after the move.
+
+## PART 3 — Provisions relating to foundation, voluntary aided and foundation special schools
+
+### 23. Application of Part 3[^key-5fb63b60209f8167aae0a15f4234a5af]
+
+This Part applies to foundation, voluntary aided and foundation special schools.
+
+### 24. Manner of appointment[^key-d0d5febb4abb4baf127c3c76d1248176]
+
+(1) Where the governing body has selected a person for appointment it may appoint that person either—
+
+- (a) under a contract of employment; or
+- (b) otherwise than under a contract of employment.
+
+(2) The governing body must check—
+
+- (a) the identity of any such person;
+- (b) that the person meets all relevant staff qualification requirements; and
+- (c) that the person has a right to work in the United Kingdom.
+
+(3) Where it is intended that the person will engage in relevant activity, the[^key-0daed23f068fb95c75cb492f846a3268] governing body must obtain an enhanced criminal record certificate in respect of any such person, before, or as soon as practicable after, the person’s appointment.
+
+(3A)[^key-481896a4cfb3d416cabb2a4c9bb2c2fd] Where a governing body obtains an enhanced criminal record certificate in respect of any such person and that certificate is subject to up-date arrangements, it must consider whether to request up-date information in relation to the certificate under section 116A(1) of PA 1997.
+
+(4) In the case of any such person for whom, by reason of having lived outside the United Kingdom, obtaining such a certificate is not sufficient to establish the person’s suitability to work in a school, the governing body must make such further checks as it considers appropriate, having regard to any guidance issued by the Secretary of State.
+
+(5) The governing body must complete the checks referred to in paragraphs (2) and (4) before a person is appointed.
+
+(6) Paragraphs (3) and (4) do not apply to a person who has worked in—
+
+- (a) a school in England in a post—
+  - (i) which brought the person regularly into contact with children or young persons; or
+  - (ii) to which the person was appointed on or after 12th May 2006 and which did not bring the person regularly into contact with children or young persons; or
+- (b) an institution within the further education sector in England , or in a 16 to 19 Academy,[^key-966874d0b8b897d877b6a9e0d5bccd46] in a post which involved the provision of education which brought the person regularly into contact with children or young persons,
+
+during a period which ended not more than three months before the person’s appointment.
+
+(7) The governing body must keep a separate register which contains the information specified in Schedule 2.
+
+### 25. Application of regulation 24 to other appointments[^key-f40c514b0b24b9ff1c99bd48cd6d314e]
+
+Regulation 24(2) to (6) and (7) (insofar as it relates to paragraphs 2 to 4A[^key-b74e6d9b35390f0628231f711fed57b5], 7 and 8 of Schedule 2) also applies in relation to any person appointed by an authority for the purpose of working at a school to which this Part applies in the temporary absence of a member of staff of the school.
+
+### 26. Authority’s entitlement to offer advice[^key-66723b844a09d11bc887ead91d566e73]
+
+(1) The authority may offer advice to the governing body in relation to the exercise of the governing body’s functions of appointment and dismissal of any teacher, to the extent provided by, and subject to, any relevant agreement.
+
+(2) A “relevant agreement” is an agreement in writing between the authority and the governing body which entitles the authority to offer advice to the governing body in relation to the exercise of any such function to the extent provided, and which has not been terminated by the governing body by notice in writing to the authority.
+
+(3) The governing body must consider any advice offered by the authority pursuant to paragraph (1).
+
+### 27. Appointment of head teacher and deputy head teacher[^key-f2b58f9dd6411e8a41c789660b7c6c29]
+
+(1) The governing body must notify the authority in writing of—
+
+- (a) any vacancy for the head teacher; and
+- (b) any post of deputy head teacher which it has identified as one to be filled.
+
+(2) The governing body must advertise any such vacancy or post in such manner as it considers appropriate unless it has good reason not to.
+
+(3) Where the governing body advertises any such vacancy or post, it must appoint a selection panel, consisting of at least three of its members, other than a governor who is the head teacher or (as the case may be) a deputy head teacher, to—
+
+- (a) select for interview such applicants for the post as it thinks fit and, where the post is that of head teacher, notify the authority in writing of the names of the applicants so selected;
+- (b) interview those applicants who attend for that purpose; and
+- (c) where it considers it appropriate to do so, recommend to the governing body for appointment one of the applicants interviewed.
+
+(4) If, within a period of seven days beginning with the date when it receives notification under paragraph (3)(a), the authority makes written representations to the selection panel that any of the applicants is not a suitable person for the post, the selection panel must—
+
+- (a) consider those representations; and
+- (b) where it decides to recommend for appointment the person about whom the representations have been made, notify the authority in writing of its reasons.
+
+(5) Subject to regulation 24(2) and, where appropriate, regulation 12(4), the governing body may appoint the person recommended by the selection panel to the vacancy or the post to be filled.
+
+(6) If—
+
+- (a) the selection panel does not recommend a person to the governing body; or
+- (b) the governing body declines to appoint the person recommended by the selection panel,
+
+the selection panel may recommend another person for appointment in accordance with this regulation (but this does not prevent it from recommending an existing applicant).
+
+(7) Subject to regulation 24(2) and, where appropriate, regulation 12(4), if the governing body decides, for good reason, not to advertise and conduct a selection process to fill the vacancy or post in accordance with paragraphs (2) to (4), it may appoint the person it has identified to the vacancy or post to be filled.
+
+(8) Paragraphs (2) to (7) are subject to regulation 34.
+
+### 28. Appointment of other teachers[^key-1f0cd00f07c614861cc68c3c96644c20]
+
+Where the governing body identifies any post of teacher (other than head teacher or deputy head teacher) which is to be filled for a period of more than four months, it must send a specification for the post to the authority.
+
+### 29. Appointment of support staff[^key-80cd3ec23230f1a789fb02d2390d2676]
+
+The governing body is responsible for the appointment of support staff unless the governing body and the authority agree that the authority will make such appointments.
+
+### 30. Supply staff[^key-f2746687a5e5fd59ea98195ffaab4010]
+
+(1) The governing body must ensure that no person supplied by an employment business to a school is allowed to begin work as a teacher or member of support staff at the school unless the governing body has received—
+
+- (a) written notification from the employment business in relation to that person—
+  - (i) that it has made the checks referred to in paragraphs 5(a)(i), (iii) and (iv) and 5A[^key-63a72dc05872a59eaf7f351c0e0dea9f] of Schedule 2;
+  - (ii) where it is intended that the person will engage in relevant activity,[^key-b70f6caffb0e9e037f507c6bb0e60322] that it or another employment business has applied for an enhanced criminal record certificate or has obtained such a certificate in response to an application made by that or another employment business; [^key-c33a115cdf9fa6c0143e491bead2305d]...
+  - (iii) whether, if the employment business has obtained such a certificate before the person is due to begin work at the school, it disclosed any matter or information, or any information was provided to the employment business in accordance with section 113B(6) of PA 1997; and
+  - (iv)[^key-8930a37b292ef924d8044360fdeccde1] whether, if the employment business or another employment business has obtained such a certificate before the person is due to begin work at the school and the certificate is or has been subject to up-date arrangements, the employment business or another employment business has been given negative up-date information in relation to the certificate not more than three months before the person is due to begin work at the school; and
+- (b) where the employment business has obtained such a certificate before the person is due to begin work at the school which disclosed any matter or information, or any information was provided to the employment business in accordance with section 113B(6) of PA 1997, a copy of the certificate ; and[^key-feb57c720c654a47e9e9dfce5747510c]
+- (c) where an enhanced criminal record certificate is or has been subject to up-date arrangements and the employment business has been given negative up-date information in relation to the certificate not more than three months before the person is due to begin work at the school, a copy of the information.
+
+(2) Subject to paragraph (3), the certificate referred to in paragraph (1)(a)(ii) must have been issued and[^key-d60d24e4f772f74cda6125cac9e053c1] obtained not more than three months before the person is due to begin work at the school unless that certificate is or has been subject to up-date arrangements and the employment business or another employment business has been given negative up-date information in relation to the certificate not more than three months before the person is due to begin work at the school[^key-af86c5759ed408f470b003b110ebff7d].
+
+(3) Paragraph (2) does not apply in relation to a person who has worked in—
+
+- (a) a school in England in a post—
+  - (i) which brought the person regularly into contact with children or young persons; or
+  - (ii) to which the person was appointed on or after 12th May 2006 and which did not bring the person regularly into contact with children or young persons; or
+- (b) an institution within the further education sector in England , or in a 16 to 19 Academy,[^key-2536fb449a7cecfeddb6871d04b1e2f1] in a post which involved the provision of education which brought the person regularly into contact with children or young persons,
+
+during a period which ended not more than three months before the person is due to begin work at the school.
+
+(4) Before a person offered for supply by an employment business may begin work at the school the governing body must check the person’s identity (whether or not the employment business made such a check before the person was offered for supply).
+
+(5) The governing body must, either in the contract or in other arrangements which it makes with any employment business, require it, in respect of any person whom the employment business supplies to the school—
+
+- (a) to provide the notification referred to in paragraph (1)(a); [^key-a2a93914cda8d8ed509b26b635f5a7ea]...
+- (b) where the employment business obtains an enhanced criminal record certificate which discloses any matter or information, or if any information is provided to the employment business in accordance with section 113B(6) of PA 1997, to provide a copy of the certificate ; and[^key-838525188069260154d871f2562dafbe]
+- (c) if any such certificate is or has been subject to up-date arrangements and the employment business has been given negative up-date information in relation to the certificate not more than three months before the person is due to begin work at the school, to provide a copy of the information.
+
+### 31. Suspension of staff[^key-173eb46f2c462df6dd3a66d0ac78ceef]
+
+(1) The governing body or the head teacher may suspend any person employed or engaged otherwise than under a contract of employment to work at the school where, in the opinion of the governing body or (as the case may be) the head teacher, the person’s suspension from the school is required.
+
+(2) The governing body or (as the case may be) head teacher must immediately inform the head teacher or (as the case may be) the governing body when a person is suspended under paragraph (1).
+
+(3) Only the governing body may end a suspension under paragraph (1).
+
+(4) On ending such a suspension, the governing body must inform the head teacher.
+
+(5) In this regulation “suspend” means suspend without loss of emoluments.
+
+### 32. Suspension and dismissal of authority staff[^key-aa0c50737908f04fe9fc39148f70d298]
+
+In the case of staff employed, or engaged otherwise than under a contract of employment, by the authority in accordance with regulation 29, regulation 19 (in place of regulation 31) and regulation 20 apply as they apply to schools referred to in regulation 11.
+
+### 33. Checks on change of post[^key-5431083f38193173afcb60c51caae31b]
+
+Where a member of the school staff who was appointed before 12th May 2006 moves from a post which did not bring the person regularly into contact with children or young persons to a post which does, the governing body must obtain an enhanced criminal record certificate in respect of the person before, or as soon as practicable after, the move.
+
+### 34. Appointment of head teachers for schools of Roman Catholic Religious Orders[^key-09e66e1366dfc7e454db6b28d6e66857]
+
+(1) This regulation applies in relation to a voluntary aided school if the trustees under a trust deed relating to the school are also trustees of a Roman Catholic Religious Order (“ the Order”).
+
+(2) Subject to paragraph (5), paragraphs (3) and (4) have effect in relation to the filling of a vacancy in the post of head teacher of the school, in place of regulation 27(2) to (7).
+
+(3) The governing body must notify the Major Superior of the vacancy in writing.
+
+(4) The governing body must—
+
+- (a) interview such persons who are members of the Order as are proposed as candidates for appointment to the post by the Major Superior; and
+- (b) appoint to the post one of the persons so interviewed unless, by virtue of regulation 24(2) or otherwise, the governing body has good reason for not making any such appointment.
+
+(5) If the governing body does not make an appointment under paragraph (4)(b), regulation 27(2) to (7), has effect in relation to the filling of the vacancy.
+
+(6) In this regulation—
+
+- “the Major Superior” means the Major Superior of the Order;
+- “Roman Catholic Religious Order” means a Roman Catholic religious institute or society of apostolic life.
+
+## PART 4 — Collaboration between schools
+
+### 35. General[^key-328733b3ce83dc4b5d9b1728d1860c35]
+
+(1) Where two or more governing bodies agree to collaborate on the discharge of any function relating to individual members of the school staff, these Regulations apply, subject to this Part.
+
+(2) In this Part—
+
+- “collaborating governing bodies” means two or more governing bodies which arrange for any of their functions to be discharged jointly;
+- “relevant school” means the school or schools to which any member of staff is, or is to be, appointed.
+
+### 36. Appointment of head teacher and deputy head teacher[^key-92b5aee8f531d8917b338008a8066542]
+
+(1) In relation to the appointment of a head teacher or a deputy head teacher under regulation 15 or 27—
+
+- (a) the collaborating governing bodies may delegate the notification to the authority and the advertisement of any vacancy or post to—
+  - (i) the head teacher of one or more of the collaborating schools;
+  - (ii) one or more governors from any of the collaborating schools;
+  - (iii) one or more head teachers acting together with one or more governors from any of the collaborating schools;
+- (b) the selection panel must consist of at least three governors taken from any of the collaborating governing bodies other than a governor who is the head teacher or (as the case may be) a deputy head teacher of the relevant school; and
+- (c) the selection panel must make its recommendation to the governing body of the relevant school.
+
+(2) If the governing body does not approve the recommendation the selection panel of the collaborating governing bodies must repeat the selection process unless the relevant school’s governing body withdraws from the agreement to collaborate.
+
+### 37. Appointment of other teachers and support staff[^key-d9da0f80dda76888cb05a6ee6214aa43]
+
+(1) The collaborating governing bodies may delegate the appointment of any teacher (other than the head teacher and deputy head teacher) and the appointment of any member of the support staff to—
+
+- (a) the head teacher of one or more of the collaborating schools;
+- (b) one or more governors from any of the collaborating schools;
+- (c) one or more head teachers acting together with one or more governors from any of the collaborating schools.
+
+(2) Where the collaborating governing bodies have delegated the appointment of a member of staff, other than to the head teacher of the relevant school—
+
+- (a) the head teacher of the relevant school may attend all relevant proceedings and offer advice; and
+- (b) the person or persons to whom the delegation has been made must consider any such advice.
+
+### 38. Dismissal of staff[^key-ca7056ae6001af78431fc83f449ae2df]
+
+(1) The collaborating governing bodies may delegate—
+
+- (a) the determination that a member of staff (other than the head teacher) should cease to work at a relevant school; or
+- (b) the power to dismiss a member of staff (other than the head teacher) from a relevant school.
+
+(2) Any such delegation may be to—
+
+- (a) the head teacher of one or more of the collaborating schools;
+- (b) one or more governors from any of the collaborating schools;
+- (c) one or more head teachers acting together with one or more governors from any of the collaborating schools.
+
+(3) The collaborating governing bodies may delegate—
+
+- (a) the determination that the head teacher should cease to work at a relevant school; or
+- (b) the power to dismiss the head teacher from a relevant school,
+
+to one or more governors.
+
+### 39. Authority’s entitlement to offer advice[^key-babf155727c81857fee15950aeee5e2b]
+
+(1) Where the authority is entitled to offer advice to any individual governing body in relation to the exercise of any function under regulation 14 or 26, it is also entitled to offer advice to any other collaborating governing bodies in relation to the exercise of any such function.
+
+(2) The collaborating governing bodies must consider any advice offered by the authority pursuant to paragraph (1).
+
+## PART 5 — Staffing of new schools
+
+### 40. Interpretation of provisions applied by Part 5[^key-766d2a0a89558aaab1cda7db7cdbe9c2]
+
+Any provision of these Regulations or Schedule 2 to EA 2002 which applies in relation to a proposed school as a result of this Part has effect for that purpose as if—
+
+- (a) any reference to a “governing body” were a reference to a temporary governing body; and
+- (b) any reference to a “governor” were a reference to a temporary governor.
+
+### 41. Staffing of proposed community, voluntary controlled, community special and maintained nursery schools having delegated budgets[^key-2bc3f20d9580a5033f942cd4abc7aa61][^key-eb9cfc83ef9118c7834c45caf9c4ee43]
+
+Where a proposed community, voluntary controlled, community special or maintained nursery school has a delegated budget, regulations 4 to 9 and 12 to 22 apply.
+
+### 42. Staffing of proposed foundation, voluntary aided and foundation special schools having delegated budgets[^key-e8ab899821584d8d12a6da5e12b6035f]
+
+Where a proposed foundation, voluntary aided or foundation special school has a delegated budget, regulations 4 to 9 and 24 to 34 apply.
+
+### 43. Staffing of proposed community, voluntary controlled, community special and maintained nursery schools without delegated budgets[^key-54cf5a0f921065c8b3877189d9a50afc][^key-cd73712a95e01716012834785ab9ca67]
+
+Where a proposed community, voluntary controlled, community special or maintained nursery school does not have a delegated budget, the provisions of Part 1 of Schedule 2 to EA 2002 apply.
+
+### 44. Staffing of proposed foundation, voluntary aided or foundation special schools without delegated budgets[^key-e62c6f3104883db09c3a8d8213a8d490]
+
+Where a proposed foundation, voluntary aided or foundation special school does not have a delegated budget, the provisions of Part 2 of Schedule 2 to EA 2002 apply.
+
+Iain Wright
+
+Parliamentary Under Secretary of State
+
+Department for Children, Schools and Families
+
+2nd October 2009
+
+## SCHEDULE 1 — Revocation Schedule[^key-3cc66c019d22cc6cb941deba83860f17]
+
+Regulation 2
+
+| Regulations revoked | References | Extent of revocation |
+| --- | --- | --- |
+| The School Staffing (England) Regulations 2003 | [S.I. 2003/1963](https://www.legislation.gov.uk/uksi/2003/1963) | The whole Regulations |
+| The School Staffing (England) (Amendment) Regulations 2003 | [S.I. 2003/2725](https://www.legislation.gov.uk/uksi/2003/2725) | The whole Regulations |
+| The School Staffing (England) (Amendment) Regulations 2006 | [S.I. 2006/1067](https://www.legislation.gov.uk/uksi/2006/1067) | The whole Regulations |
+| The School Staffing (England) (Amendment) (No.2) Regulations 2006 | [S.I. 2006/3197](https://www.legislation.gov.uk/uksi/2006/3197) | The whole Regulations |
+| The Education (Review of Staffing Structure) (England) Regulations 2005 | [S.I. 2005/1032](https://www.legislation.gov.uk/uksi/2005/1032) | The whole Regulations |
+| The Education (Miscellaneous Amendments relating to Safeguarding Children) (England) Regulations 2009 | [S.I. 2009/1924](https://www.legislation.gov.uk/uksi/2009/1924) | Regulation 8 |
+
+## SCHEDULE 2 — Information to be recorded in the Register[^key-b3d32f5e119d30d29d18caac36d16fce]
+
+Regulations 12(7) and 24(7)
+
+**1.**[^key-62ffd7c89973217f5629c7332f2b57fe] The register referred to in regulations 12(7) and 24(7) must contain the following information.
+
+**2.**[^key-83f5c1e4a9e39b2fe8bd2f4fa60cb374] In relation to each member of staff appointed on or after 1st January 2007, whether—
+
+- (a) a check was made to establish the person’s identity;
+- (b) a check was made to establish that the person is not barred from regulated activity relating to children in accordance with section 3(2) of the Safeguarding Vulnerable Groups Act 2006 or subject to any direction made under section 142 of EA 2002 or any prohibition, restriction or order having effect as such a direction;
+- (c) checks were made to establish that the person meets the requirements with respect to qualifications or registration mentioned in regulation 3(3)(a);
+- (d) an enhanced criminal record certificate was obtained in respect of the person;
+- (e) further checks were made pursuant to regulation 12(4) or 24(4), as the case may be;
+- (f) a check was made to establish the person’s right to work in the United Kingdom and
+- (g) the date on which each such check was completed or the certificate obtained.
+
+**3.**[^key-1c9bc3324aad4419b511438eea3519d3] Subject to paragraph 4, in relation to each member of staff in post on 1st April 2007 who was appointed at any time before 1st January 2007—
+
+- (a) whether each check referred to in paragraph 2 was made;
+- (b) whether an enhanced criminal record certificate was obtained; and
+- (c) the date on which each such check was completed or certificate obtained.
+
+**4.**[^key-4c4de1b95086c05203e36f0b9681e3b8] Paragraph 3 applies, in the case of a member of staff who was appointed at any time before 12th May 2006, only if the work brings the person regularly into contact with children or young persons.
+
+**4A.**[^key-cf4418a976b253e2e34ff72c5d047bae] In relation to each member of staff appointed on or after 2<sup>nd</sup> September 2013, whether a check was made to establish that the person is not subject to a prohibition order or interim prohibition order.
+
+**5.**[^key-ff80ee0f93e01d6b19e873a91400f576] (1)[^key-6947d9efc333b88400160ddb96404266] In relation to any person supplied by an employment business to work at the school—
+
+- (a) whether written notification has been received from the employment business that—
+  - (i) it has made checks corresponding to those which paragraph 2(a) [^key-72e81a391a4e922f7b6e6a7416794754]... (c), (e) and (f) requires to be recorded in relation to a member of staff of a school; [^key-72e81a391a4e922f7b6e6a7416794754]...
+  - (ii) it or another employment business has applied for an enhanced criminal record certificate or has obtained such a certificate in response to an application made by that or another employment business; [^key-e29136dfe18e0f0f9875e0a865d1f4fa]...
+  - (iii)[^key-d5e9a3616c32dcf58e3dc32cf23f31ce] it has made a check to establish that the person is not subject to any direction under section 142 of EA 2002 or any prohibition, restriction or order having effect as such a direction; and
+  - (iv) subject to sub-paragraph (2), it has made a check to establish that the person is not barred from regulated activity relating to children in accordance with section 3(2) of the Safeguarding Vulnerable Groups Act 2006; and
+- (b) the date on which such notification was received.
+
+(2)[^key-5eaf97d4cb9fb7895bd9f9d5b9f7488e] In the case of a person supplied on or after 29th June 2015, sub-paragraph (1)(a)(iv) applies only if it is intended that the person will engage in any activity which is a regulated activity relating to children within the meaning of Part 1 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006.
+
+**5A.**[^key-b7477f0a1019112340d74855955ff416] In relation to any person supplied by an employment business on or after 2<sup>nd</sup> September 2013, whether a check was made to establish that the person is not subject to a prohibition order or interim prohibition order.
+
+**6.**[^key-8801c46a576ca2f0166e5edc88b1417e] Where written notification has been received from the employment business in accordance with a contract or other arrangements made pursuant to regulation 18(5) or 30(5)[^key-679bbbf19950c5bc6a0e6ea004da64ba] that it has obtained an enhanced criminal record certificate which disclosed any matter or information, or that information was provided to it in accordance with section 113B(6) of PA 1997, whether the employment business provided a copy of the certificate to the school.
+
+**6A.**[^key-4b646a13ef8b684eeb941b3df3753a0f] In relation to any person supplied by an employment business on or after 29th June 2015, where written notification has been received from the employment business in accordance with a contract or other arrangements made pursuant to regulation 18(5) or 30(5) that it has been given negative up-date information in relation to an enhanced criminal record certificate not more than three months before the person was due to begin work at the school, whether the employment business provided a copy of the information.
+
+**7.**[^key-8fdb3cf7cd50cfac7897c04b2dc6d5ee] It is immaterial for the purposes of paragraphs 2 and 3 whether the check was made or certificate obtained pursuant to a legal obligation.
+
+**8.**[^key-2bc8261568e8fb8f64e88fa6a911e41f] The register may be kept in electronic form, provided that the information so recorded is capable of being reproduced in legible form.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision relating to the staffing of maintained schools.
+
+Part 1 covers general matters and, in particular, delegation of authority, the management and performance of the head teacher, conduct and discipline of staff and the capability of staff.
+
+Part 2 relates to community, voluntary controlled, community special and maintained nursery schools and deals with the appointment of staff, suspension of staff, dismissal of staff and the authority’s entitlement to offer advice. Part 2 also provides for the appointment of school meals staff.
+
+Part 3 relates to foundation, voluntary aided and foundation special schools and deals with the appointment of staff, suspension of staff, dismissal of staff and the authority’s entitlement to offer advice. Part 3 also provides for the appointment of head teachers for schools of Roman Catholic Religious Orders.
+
+Part 4 relates to collaborating schools and deals with the appointment of staff, dismissal of staff and the authority’s entitlement to offer advice.
+
+Part 5 relates to the staffing of new schools either with or without delegated budgets.
+
+Schedule 1 contains a list of the Regulations revoked by regulation 2(1).
+
+[S.I. 2003/1963](https://www.legislation.gov.uk/uksi/2003/1963), [S.I. 2003/2725](https://www.legislation.gov.uk/uksi/2003/2725), [S.I. 2006/1067](https://www.legislation.gov.uk/uksi/2006/1067), [S.I. 2006/3197](https://www.legislation.gov.uk/uksi/2006/3197) and regulation 8 of [S.I. S.I.2009/1924](https://www.legislation.gov.uk/uksi/2009/1924) make provision for the staffing of maintained schools and are replaced by these Regulations. [S.I. 2005/1032](https://www.legislation.gov.uk/uksi/2005/1032) require schools to review their staffing arrangements to ensure effective use of resources and implement any changes by 31 December 2008. Regulation 5 of those Regulations deals with the management of the head teacher and is now incorporated into these Regulations.
+
+Schedule 2 contains the information which must be recorded in the register referred to in regulations 12(7) and 24(7).
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31). Section 72 has been amended by the 2002 Act, section 215(1), Schedule 21, paragraph 106. By virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 19999/672](https://www.legislation.gov.uk/uksi/1999/672)) the powers conferred by these provisions are exercisable by the Secretary of State only in relation to England. For the meaning of “prescribed” and “regulations” see section 142 of the School Standards and Framework Act 1998.
+
+[^f00002]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). By virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 19999/672](https://www.legislation.gov.uk/uksi/1999/672)) the powers conferred by these provisions are exercisable by the Secretary of State only in relation to England. For the meaning of “prescribed” and “regulations” see section 212(1) of EA 2002.
+
+[^key-c3c2554d7916904908129f7c140a0f2b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/2680) applied (with modifications) (1.9.2012) by [The School Governance (Federations) (England) Regulations 2012 (S.I. 2012/1035)](https://www.legislation.gov.uk/uksi/2012/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1), [25](https://www.legislation.gov.uk/uksi/2012/1035/regulation/25), [Sch. 7](https://www.legislation.gov.uk/uksi/2012/1035/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2012/1035/regulation/2))
+
+[^key-2f7c1292fbce27bcf90eb7f6d56efdd9]: Commencement: Reg. 1 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-a8dbc1185d99e9d0548b0a3484bb360b]: Commencement: Reg. 2 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-c1096eb595ac2e2a4b1865cc9348f6f8]: Commencement: Reg. 3 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-effc197f7b56b3a18b97a18237021159]: Modification: Reg. 3 applied (with modifications) by [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/28) (as substituted (1.4.2013) by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/9))
+
+[^f00003]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50).
+
+[^f00004]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^f00005]: Footnote: [1973 c.35](https://www.legislation.gov.uk/ukpga/1973/35).
+
+[^key-59f7816803fe2027cb0896b9c503789f]: Textual amendment: Words in reg. 3(1) substituted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [3(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/887/regulation/3/1/a/i)
+
+[^key-f500623dcd2a779fc70a8bb1d9bcd249]: Textual amendment: Words in reg. 3(1) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/887/regulation/3/1/a/ii)
+
+[^key-5d1ac2436f44bd164ac6c636c967229e]: Textual amendment: Words in reg. 3(1) inserted (1.9.2013) by [The School Staffing (England) (Amendment) Regulations 2013 (S.I. 2013/1940)](https://www.legislation.gov.uk/uksi/2013/1940), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1940/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1940/regulation/2/2)
+
+[^key-74fd178db4f50f258378fba7ceb905d1]: Textual amendment: Words in reg. 3(1) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2015/887/regulation/3/1/b)
+
+[^key-4306d4c66e732c03d8685734a69851f2]: Textual amendment: Words in reg. 3(1) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2015/887/regulation/3/1/c)
+
+[^key-77fa157c43fd4ffcd5e9c1a86b558611]: Textual amendment: Words in reg. 3(1) omitted (1.9.2014) by virtue of [The School Staffing (England) (Amendment) Regulations 2014 (S.I. 2014/798)](https://www.legislation.gov.uk/uksi/2014/798), [regs. 1](https://www.legislation.gov.uk/uksi/2014/798/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/798/regulation/2/2)
+
+[^key-2e28e74aa9052da863f6ae4e5c67d76e]: Textual amendment: Words in reg. 3(1) inserted (1.9.2014) by [The School Staffing (England) (Amendment) Regulations 2014 (S.I. 2014/798)](https://www.legislation.gov.uk/uksi/2014/798), [regs. 1](https://www.legislation.gov.uk/uksi/2014/798/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/798/regulation/2/2)
+
+[^key-c8bf46b7490147914ac0482c0e86e955]: Textual amendment: Words in reg. 3(1) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2015/887/regulation/3/1/d)
+
+[^f00006]: Footnote: The Education (School Teachers’ Qualifications) (England) Regulations 2003 ([S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662)), The Education (Recognition of School Teachers’ Professional Qualifications) (Consequential Provisions) (England) Regulations 2007 ([S.I. 2007/2782](https://www.legislation.gov.uk/uksi/2007/2782)), The Education (Specified Work and Registration) (England) Regulations 2003 ([S.I. 2003/1663](https://www.legislation.gov.uk/uksi/2003/1663)), as amended by [S.I.2007/2117](https://www.legislation.gov.uk/uksi/2007/2117), and the Education (Head Teachers’ Qualifications) (England ) Regulations 2003 ([S.I. 2003/3111](https://www.legislation.gov.uk/uksi/2003/3111)), as mended by [S.I. 2005/875](https://www.legislation.gov.uk/uksi/2005/875) and [S.I. 2005/3322](https://www.legislation.gov.uk/uksi/2005/3322).
+
+[^f00007]: Footnote: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30). The Education (Induction Arrangements for School Teachers) (Consolidation) (England) Regulations 2008 ([S.I. 2008/ 657](https://www.legislation.gov.uk/uksi/2008/657).
+
+[^f00008]: Footnote: The Education (Health Standards) (England) Regulations 2003 ([S.I. 2003/3139](https://www.legislation.gov.uk/uksi/2003/3139)).
+
+[^key-e37ec84a2afd700240c1f46d9ff6247e]: Textual amendment: Word in reg. 3(3)(b) omitted (29.6.2015) by virtue of [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2015/887/regulation/3/2/a)
+
+[^key-cadae47ccabf4936807057734ec2d356]: Textual amendment: Reg. 3(3)(c)(d) substituted for reg. 3(3)(c) (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2015/887/regulation/3/2/b)
+
+[^key-4968dd785ed430e8ec6d8ae85e6fb643]: Textual amendment: Words in reg. 3(5)(b) omitted (29.6.2015) by virtue of [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/887/regulation/3/3)
+
+[^key-6e283157613a4ef23152802c11d52cc5]: Textual amendment: Reg. 3(6)(7) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/887/regulation/3/4)
+
+[^key-f89f0689778a48a26ef5f28bba6262a1]: Commencement: Reg. 4 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-d5eebdaf4c33f209ab50aa797be0d117]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/2680/regulation/4) applied (with modifications) by [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/28) (as substituted (1.4.2013) by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/9))
+
+[^key-dd90be46529b60061a42f6ad5e5d3f3c]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/4/1/a) substituted (1.9.2012) by [The School Staffing (England) (Amendment) Regulations 2012 (S.I. 2012/1740)](https://www.legislation.gov.uk/uksi/2012/1740), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1740/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1740/regulation/2/2)
+
+[^key-b2db96955a6df35b06e54fedf548355d]: Textual amendment: [Reg. 4(2)(ba)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/4/2/ba) inserted (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2015/883/regulation/5/2/a)
+
+[^key-9e0d9b064b001589104e4ddad05e7c88]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/4/5) inserted (1.9.2015) by [The School Governance (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/883)](https://www.legislation.gov.uk/uksi/2015/883), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/883/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2015/883/regulation/5/2/b)
+
+[^key-1b57a1941a5ff91e94e2db70f7b662b1]: Commencement: Reg. 5 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^f00010]: Footnote: By virtue of section 124(3) of EA 2002, an order under section 122 may make provision by reference to a document.
+
+[^key-c8633ec0f2dc6fc11496aa09b8a28840]: Commencement: Reg. 6 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-d0364e0a6262a6abe307dd1c1d7e75cc]: Modification: [Regs. 6-9](https://www.legislation.gov.uk/uksi/2009/2680/regulation/6) applied (with modifications) by [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/28) (as substituted (1.4.2013) by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/9))
+
+[^key-4826c87b9bd56c156ce9dde6cc34111a]: Commencement: Reg. 7 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-8df720fb69904b446b7cf9a596e82459]: Commencement: Reg. 8 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-282cc16bfcb6c76b8ac36260a651015b]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2009/2680/regulation/8A) inserted (1.9.2012) by [The School Staffing (England) (Amendment) Regulations 2012 (S.I. 2012/1740)](https://www.legislation.gov.uk/uksi/2012/1740), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1740/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1740/regulation/2/3)
+
+[^key-cc5d3583a63f9997c000731f9f11f638]: Commencement: Reg. 9 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-f9d4bc51da0bbacf7ccb079f4da877b4]: Commencement: Reg. 10 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^f00011]: Footnote: [S.I. 2003/1377](https://www.legislation.gov.uk/uksi/2003/1377). Regulation 17 was amended by [S.I. 2007/959](https://www.legislation.gov.uk/uksi/2007/959).
+
+[^f00012]: Footnote: [S.I. 1998/2535](https://www.legislation.gov.uk/uksi/1998/2535).
+
+[^f00013]: Footnote: [S.I. 2000/2122](https://www.legislation.gov.uk/uksi/2000/2122).
+
+[^f00014]: Footnote: [S.I. 2009/2680](https://www.legislation.gov.uk/uksi/2009/2680).
+
+[^key-ce6e87931e8e873f28cb53279fa243e5]: Commencement: Reg. 11 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-a8a9ace79311d1d167355a523007bdbe]: Commencement: Reg. 12 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-7e02f25254e6865eb5751bc75a18516c]: Modification: Regs. 12-22 applied (with modifications) by [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/28) (as substituted (1.4.2013) by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/9))
+
+[^key-42e6c93235d5ddd1dd072c7df659fb21]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/12/3) substituted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2015/887/regulation/4/1)
+
+[^key-b4e883f27c92eb8aa04abb028b56681b]: Textual amendment: [Reg. 12(3A)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/12/3A) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/887/regulation/4/2)
+
+[^key-052076f3b135dce08e60a565495da55d]: Textual amendment: Words in reg. 12(6)(b) inserted (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/26)
+
+[^key-1fa5325e126f69b42e12533c980b8991]: Commencement: Reg. 13 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-fe0cb961d0c065535c341542d8bcc23f]: Textual amendment: Word in [reg. 13](https://www.legislation.gov.uk/uksi/2009/2680/regulation/13) substituted (1.9.2013) by [The School Staffing (England) (Amendment) Regulations 2013 (S.I. 2013/1940)](https://www.legislation.gov.uk/uksi/2013/1940), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1940/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/1940/regulation/2/4)
+
+[^key-2583f8faf0f7b0f8e6683d03b80fc0e9]: Commencement: Reg. 14 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-e8fcda9512ec2f2f238f421231bfe395]: Commencement: Reg. 15 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-26e09ad7c4e94083dce7f04e6cc02849]: Commencement: Reg. 16 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-6a1123037ed7eb9c2ab08962d7093e55]: Commencement: Reg. 17 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-81c8e02408839dfa6fdae727dba3b940]: Commencement: Reg. 18 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-3728ac0713744460078efdeba24556a2]: Textual amendment: Words in reg. 18(1)(a)(i) substituted (E.) (1.9.2013) by [The School Staffing (England) (Amendment) Regulations 2013 (S.I. 2013/1940)](https://www.legislation.gov.uk/uksi/2013/1940), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1940/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/1940/regulation/2/5)
+
+[^key-f16d22b9cc78f7e7fa6504c71f992cc2]: Textual amendment: Words in reg. 18(1)(a)(i) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/1)
+
+[^key-fff7de5256fddc0e6432b71579f551de]: Textual amendment: Words in reg. 18(1)(a)(ii) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/3/a/i)
+
+[^key-698328d1773d9fbf91d9b5a2c3d8744f]: Textual amendment: Word in reg. 18(1)(a)(ii) omitted (29.6.2015) by virtue of [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/3/a/ii)
+
+[^key-b90428008540507593dcdcbf6bfd4f6f]: Textual amendment: Reg. 18(1)(a)(iv) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/3/b)
+
+[^key-c7a1352b4af342aca6663e389317e53b]: Textual amendment: Reg. 18(1)(c) and word inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/3/c)
+
+[^key-2c300c222766ad97cd1ece87a551fafd]: Textual amendment: Words in reg. 18(2) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/4/a)
+
+[^key-f7c712948b663a07d94949d825286e22]: Textual amendment: Words in reg. 18(2) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/4/b)
+
+[^key-0cdd9537024d890319ab152d637b4b1a]: Textual amendment: Words in reg. 18(3)(b) inserted (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/26)
+
+[^key-e99bf3dee17c2f504b7b1d937f45b67f]: Textual amendment: Word in reg. 18(5)(a) omitted (29.6.2015) by virtue of [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/5/a)
+
+[^key-044c6df6c14440514f6f2d6932ec7733]: Textual amendment: Reg. 18(5)(c) and word inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/5/b)
+
+[^key-70adb4281b139f1f710cd123757eec17]: Commencement: Reg. 19 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-96db2c1f2de3341c76cd9132eb296546]: Commencement: Reg. 20 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-0919055807a901ae1b31c630a408ff91]: Commencement: Reg. 21 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^f00015]: Footnote: The Education Act [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 512A was inserted by section 116 of the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31), and amendment by EA 2002, sections 201(2) and 215(1) and Schedule 21, and by the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), section 112.
+
+[^key-a6e9cb3dc839dc1c67db7e81c39358fc]: Commencement: Reg. 22 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-5fb63b60209f8167aae0a15f4234a5af]: Commencement: Reg. 23 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-d0d5febb4abb4baf127c3c76d1248176]: Commencement: Reg. 24 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-0daed23f068fb95c75cb492f846a3268]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/24/3) substituted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2015/887/regulation/4/1)
+
+[^key-481896a4cfb3d416cabb2a4c9bb2c2fd]: Textual amendment: [Reg. 24(3A)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/24/3A) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/887/regulation/4/2)
+
+[^key-966874d0b8b897d877b6a9e0d5bccd46]: Textual amendment: Words in reg. 24(6)(b) inserted (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/26)
+
+[^key-f40c514b0b24b9ff1c99bd48cd6d314e]: Commencement: Reg. 25 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-b74e6d9b35390f0628231f711fed57b5]: Textual amendment: Word in [reg. 25](https://www.legislation.gov.uk/uksi/2009/2680/regulation/25) substituted (1.9.2013) by [The School Staffing (England) (Amendment) Regulations 2013 (S.I. 2013/1940)](https://www.legislation.gov.uk/uksi/2013/1940), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1940/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/1940/regulation/2/6)
+
+[^key-66723b844a09d11bc887ead91d566e73]: Commencement: Reg. 26 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-f2b58f9dd6411e8a41c789660b7c6c29]: Commencement: Reg. 27 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-1f0cd00f07c614861cc68c3c96644c20]: Commencement: Reg. 28 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-80cd3ec23230f1a789fb02d2390d2676]: Commencement: Reg. 29 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-f2746687a5e5fd59ea98195ffaab4010]: Commencement: Reg. 30 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-63a72dc05872a59eaf7f351c0e0dea9f]: Textual amendment: Words in reg. 30(1)(a)(i) substituted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/2)
+
+[^key-b70f6caffb0e9e037f507c6bb0e60322]: Textual amendment: Words in reg. 30(1)(a)(ii) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/3/a/i)
+
+[^key-c33a115cdf9fa6c0143e491bead2305d]: Textual amendment: Word in reg. 30(1)(a)(ii) omitted (29.6.2015) by virtue of [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/3/a/ii)
+
+[^key-8930a37b292ef924d8044360fdeccde1]: Textual amendment: Reg. 30(1)(a)(iv) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/3/b)
+
+[^key-feb57c720c654a47e9e9dfce5747510c]: Textual amendment: Reg. 30(1)(c) and word inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/3/c)
+
+[^key-d60d24e4f772f74cda6125cac9e053c1]: Textual amendment: Words in reg. 30(2) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/4/a)
+
+[^key-af86c5759ed408f470b003b110ebff7d]: Textual amendment: Words in reg. 30(2) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/4/b)
+
+[^key-2536fb449a7cecfeddb6871d04b1e2f1]: Textual amendment: Words in reg. 30(3)(b) inserted (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/26)
+
+[^key-a2a93914cda8d8ed509b26b635f5a7ea]: Textual amendment: Word in reg. 30(5)(a) omitted (29.6.2015) by virtue of [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/5/a)
+
+[^key-838525188069260154d871f2562dafbe]: Textual amendment: Reg. 30(5)(c) and word inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2015/887/regulation/5/5/b)
+
+[^key-173eb46f2c462df6dd3a66d0ac78ceef]: Commencement: Reg. 31 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-aa0c50737908f04fe9fc39148f70d298]: Commencement: Reg. 32 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-5431083f38193173afcb60c51caae31b]: Commencement: Reg. 33 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-09e66e1366dfc7e454db6b28d6e66857]: Commencement: Reg. 34 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-328733b3ce83dc4b5d9b1728d1860c35]: Commencement: Reg. 35 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-92b5aee8f531d8917b338008a8066542]: Commencement: Reg. 36 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-d9da0f80dda76888cb05a6ee6214aa43]: Commencement: Reg. 37 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-ca7056ae6001af78431fc83f449ae2df]: Commencement: Reg. 38 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-babf155727c81857fee15950aeee5e2b]: Commencement: Reg. 39 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-766d2a0a89558aaab1cda7db7cdbe9c2]: Commencement: Reg. 40 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-2bc3f20d9580a5033f942cd4abc7aa61]: Commencement: Reg. 41 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-eb9cfc83ef9118c7834c45caf9c4ee43]: Modification: [Reg. 41](https://www.legislation.gov.uk/uksi/2009/2680/regulation/41) applied (with modifications) by [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/28) (as substituted (1.4.2013) by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/9))
+
+[^key-e8ab899821584d8d12a6da5e12b6035f]: Commencement: Reg. 42 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-54cf5a0f921065c8b3877189d9a50afc]: Commencement: Reg. 43 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-cd73712a95e01716012834785ab9ca67]: Modification: [Reg. 43](https://www.legislation.gov.uk/uksi/2009/2680/regulation/43) applied (with modifications) by [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/28) (as substituted (1.4.2013) by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/9))
+
+[^key-e62c6f3104883db09c3a8d8213a8d490]: Commencement: Reg. 44 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-3cc66c019d22cc6cb941deba83860f17]: Commencement: Sch. 1 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-b3d32f5e119d30d29d18caac36d16fce]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2680/schedule/2) applied (with modifications) by [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/28) (as substituted (1.4.2013) by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/9))
+
+[^key-62ffd7c89973217f5629c7332f2b57fe]: Commencement: Sch. 2 para. 1 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-83f5c1e4a9e39b2fe8bd2f4fa60cb374]: Commencement: Sch. 2 para. 2 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-1c9bc3324aad4419b511438eea3519d3]: Commencement: Sch. 2 para. 3 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-4c4de1b95086c05203e36f0b9681e3b8]: Commencement: Sch. 2 para. 4 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-cf4418a976b253e2e34ff72c5d047bae]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/2009/2680/schedule/2/paragraph/4A) inserted (1.9.2013) by [The School Staffing (England) (Amendment) Regulations 2013 (S.I. 2013/1940)](https://www.legislation.gov.uk/uksi/2013/1940), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1940/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2013/1940/regulation/2/7/a)
+
+[^key-ff80ee0f93e01d6b19e873a91400f576]: Commencement: Sch. 2 para. 5 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-6947d9efc333b88400160ddb96404266]: Textual amendment: Sch. 2 para. 5 renumbered as Sch. 2 para. 5(1) (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2015/887/regulation/6/2/a)
+
+[^key-72e81a391a4e922f7b6e6a7416794754]: Textual amendment: Words in Sch. 2 para. 5(1)(a)(i) omitted (29.6.2015) by virtue of [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2015/887/regulation/6/2/b)
+
+[^key-e29136dfe18e0f0f9875e0a865d1f4fa]: Textual amendment: Word in Sch. 2 para. 5(1)(a)(ii) omitted (29.6.2015) by virtue of [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2015/887/regulation/6/2/c)
+
+[^key-d5e9a3616c32dcf58e3dc32cf23f31ce]: Textual amendment: Sch. 2 para. 5(1)(a)(iii)(iv) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2015/887/regulation/6/2/d)
+
+[^key-5eaf97d4cb9fb7895bd9f9d5b9f7488e]: Textual amendment: Sch. 2 para. 5(2) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [6(2)(e)](https://www.legislation.gov.uk/uksi/2015/887/regulation/6/2/e)
+
+[^key-b7477f0a1019112340d74855955ff416]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/uksi/2009/2680/schedule/2/paragraph/5A) inserted (1.9.2013) by [The School Staffing (England) (Amendment) Regulations 2013 (S.I. 2013/1940)](https://www.legislation.gov.uk/uksi/2013/1940), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1940/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2013/1940/regulation/2/7/b)
+
+[^key-8801c46a576ca2f0166e5edc88b1417e]: Commencement: Sch. 2 para. 6 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-679bbbf19950c5bc6a0e6ea004da64ba]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/2680/schedule/2/paragraph/6) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2015/887/regulation/6/3)
+
+[^key-4b646a13ef8b684eeb941b3df3753a0f]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/uksi/2009/2680/schedule/2/paragraph/6A) inserted (29.6.2015) by [The School Staffing (England) (Amendment) Regulations 2015 (S.I. 2015/887)](https://www.legislation.gov.uk/uksi/2015/887), [regs. 1](https://www.legislation.gov.uk/uksi/2015/887/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2015/887/regulation/6/4)
+
+[^key-8fdb3cf7cd50cfac7897c04b2dc6d5ee]: Commencement: Sch. 2 para. 7 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)
+
+[^key-2bc8261568e8fb8f64e88fa6a911e41f]: Commencement: Sch. 2 para. 8 in force at 2.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2680/regulation/1/1)

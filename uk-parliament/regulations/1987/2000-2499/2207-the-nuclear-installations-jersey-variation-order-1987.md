@@ -1,0 +1,131 @@
+---
+title: The Nuclear Installations (Jersey) (Variation) Order 1987
+id: uksi/1987/2207
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-12-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/2207
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/2207/pdfs/uksi_19872207_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/2207/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Nuclear Installations (Jersey) (Variation) Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 2207
+
+ATOMIC ENERGY AND RADIOACTIVE SUBSTANCES
+
+The Nuclear Installations (Jersey) (Variation) Order 1987
+
+Made
+
+18th December 1987
+
+Coming into force
+
+18th January 1988
+
+At the Court at Buckingham Palace, the 18th day of December 1987
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in pursuance of section 28 of the Nuclear Installations Act 1965[^f00001] as extended by section 4(6) of the Congenital Disabilities (Civil Liability) Act 1976[^f00002] and section 33 of the Energy Act 1983[^f00003] is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+**1.** This Order may be cited as the Nuclear Installations (Jersey) (Variation) Order 1987 and shall come into force on 18th January 1988.
+
+**2.** (1) The Nuclear Installations (Jersey) Order 1980[^f00004] shall be varied in accordance with the provisions of the Schedule to this Order.
+
+(2) In so far as it relates to paragraphs 1 and 3 of the Schedule to this Order, paragraph (1) of this article shall not have effect in respect of any occurrence before (or beginning before) the commencement of this Order.
+
+(3) In so far as it relates to paragraph 2 of the Schedule to this Order, paragraph (1) of this article applies in respect of births after (but not before) the commencement of this Order.
+
+G. I. de Deney
+
+Clerk of the Privy Council
+
+## SCHEDULE — VARIATIONS TO THE NUCLEAR INSTALLATIONS (JERSEY) ORDER 1980
+
+Article 2
+
+**1.** In article 3, for the words “the Nuclear Installations Act 1965 and Schedule 2 thereto” there shall be substituted the words “and Schedule 2 to the Nuclear Installations Act 1965 as amended by the Energy Act 1983”.
+
+**2.** After article 3 there shall be inserted the following article:—
+
+> **4.** Section 3 of the Congenital Disabilities (Civil Liability) Act 1976 shall extend to Jersey with the following exceptions, adaptations and modifications, that is to say—
+>
+> - (a) any reference to an enactment shall be construed as a reference to that enactment as it has effect in Jersey;
+> - (b) subsection (1) shall be omitted;
+> - (c) in subsection (2), for the words “that Act” there shall be substituted the words “the Nuclear Installations Act 1965”;
+> - (d) in subsection (3)—
+>   - (i) for the words “any of sections 7 to 11” there shall be substituted the words “section 10 or 11”, and
+>   - (ii) for the words “nuclear site licensees” there shall be substituted the words “relevant operators”, and
+> - (e) after subsection (5) there shall be inserted the following subsection:—
+>
+>   > (6) In this section—
+>   >
+>   > - (a) references to a child being born disabled or with disabilities are to its being born with any deformity, disease or abnormality, including predisposition (whether or not susceptible of immediate prognosis) to physical or mental defect in the future; and
+>   > - (b) “born” means born alive (the moment of a child’s birth being when it first has a life separate from its mother), and “birth” has a corresponding meaning.
+>
+>   .
+
+.
+
+**3.** (1) The Schedule shall be varied in accordance with the following provisions of this paragraph.
+
+(2) In paragraph 7(a), after the words “(1) to (3)” there shall be inserted the words “and (5A)”.
+
+(3) After paragraph 18 there shall be inserted the following paragraph:—
+
+> **18A.** In section 17(5A) for the words “the United Kingdom” there shall be substituted the word “Jersey”.
+
+.
+
+(4) In paragraph 20, for the words “of £2,100,000” there shall be substituted the words “amount which is the equivalent in sterling (on the day, or first day, of that occurrence) of 5 million special drawing rights”.
+
+(5) After paragraph 20 there shall be inserted the following paragraph:—
+
+> **20A.** In section 21(1A), for the words “the Treasury” there shall be substituted the words “Her Majesty’s Treasury”.
+
+.
+
+(6) In paragraph 23, after the words “21(4)” there shall be inserted the words “and (4A)”.
+
+(7) After paragraph 39 there shall be inserted the following paragraphs:—
+
+> **39A.** In section 25A—
+>
+> - (a) the words “16(1A), 18(1B) or” shall be omitted, and
+> - (b) for the words “but no such order” to the end there shall be substituted the words “and any such order shall have effect in Jersey as it has effect in the United Kingdom if registered in the Royal Court of Jersey and from the date of such registration”.
+>
+> **39B.** In section 25B—
+>
+> - (a) for the words “the Treasury” wherever they occur there shall be substituted the words “Her Majesty’s Treasury”, and
+> - (b) in subsection (3), the words from “and any fee” to the end shall be omitted.
+
+.
+
+(This note is not part of the Order)
+
+The Nuclear Installations (Jersey) Order 1980 extends certain provisions of the Nuclear Installations Act 1965 to Jersey, with exceptions, adaptations and modifications. The present Order varies that Order so as to extend to Jersey (i) amendments to those provisions effected by the Energy Act 1983 and (ii) section 3 of the Congenital Disabilities (Civil Liability) Act 1976 (disabled birth due to radiation), with exceptions, adaptations and modifications.
+
+## Annotations
+
+[^f00001]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57); section 17 was repealed in part by Part II of Schedule 4 to the Energy Act [1983 (c. 25)](https://www.legislation.gov.uk/ukpga/1983/25); sections 13, 17, 21 and 26 were amended by sections 27, 31, 29 and 32 respectively of that Act and sections 25A and 25B were inserted by section 30 of that Act.
+
+[^f00002]: Footnote: [1976 c. 28](https://www.legislation.gov.uk/ukpga/1976/28).
+
+[^f00003]: Footnote: [1983 c. 25](https://www.legislation.gov.uk/ukpga/1983/25).
+
+[^f00004]: Footnote: S.I. [1980/1527](https://www.legislation.gov.uk/uksi/1980/1527).

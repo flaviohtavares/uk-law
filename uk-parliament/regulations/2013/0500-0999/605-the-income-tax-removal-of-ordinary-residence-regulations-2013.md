@@ -1,0 +1,149 @@
+---
+title: The Income Tax (Removal of Ordinary Residence) Regulations 2013
+id: uksi/2013/605
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2013-03-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/605
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/605/pdfs/uksiem_20130605_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/605/pdfs/uksi_20130605_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/605/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Removal of Ordinary Residence) Regulations 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 605
+
+Income Tax
+
+The Income Tax (Removal of Ordinary Residence) Regulations 2013
+
+Made
+
+13th March 2013
+
+Laid before House of Commons
+
+14th March 2013
+
+Coming into force
+
+6th April 2013
+
+The Treasury in exercise of the powers conferred by section 151 of the Taxation of Capital Gains Act 1992[^f00001], sections 273ZA(1) and (2) of the Finance Act 2004[^f00002], sections 694, 695, 695A and 701 of the Income Tax (Trading and Other Income) Act 2005[^f00003], sections 966(6) and 970(5) of the Income Tax Act 2007[^f00004], section 45 of the Finance Act 2009[^f00005], and sections 354(1) and (5) of the Taxation (International and Other Provisions) Act 2010[^f00006] make the following Regulations:
+
+## 1. Citation, commencement and effect
+
+These regulations may be cited as the Income Tax (Removal of Ordinary Residence) Regulations 2013 and come into force on 6th April 2013.
+
+**2.** The amendments made—
+
+- (a) by regulations 3, 4 and 7 have effect for the purposes of a person’s liability to income tax for the tax year 2013-14 or any subsequent tax years,
+- (b) by regulation 5 have effect in relation to a scheme chargeable payment treated as made in the tax year 2013-14 or any subsequent tax years,
+- (c) by regulations 6(2) and 6(3) have effect in relation to interest distributions made on or after 6 April 2014, and
+- (d) by regulations 6(4), 6(5) and 6(6) have effect in relation to the making of declarations on or after 6 April 2014. Any declarations made before that date continue to have effect in respect of interest distributions made on or after that date as if those amendments had not been made.
+
+## 3. Amendment of the Income Tax (Entertainers and Sportsmen) Regulations 1987
+
+In the Income Tax (Entertainers and Sportsmen) Regulations 1987[^f00007], in regulation 3 (payments or transfers with prescribed connection), in paragraph (3)(b)(i) omit “and ordinarily resident”.
+
+## 4. Amendment of the Individual Savings Account Regulations 1998
+
+(1) The Individual Savings Account Regulations 1998[^f00008] are amended as follows.
+
+(2) In regulation 2 (interpretation), in paragraph (1)(a) in the definition of ‘eligible child’, omit “and ordinarily resident” from paragraph (b)(i).
+
+(3) In regulation 10 (qualifying individuals who may invest under an account that is not a junior ISA account), in paragraph (2)(d)(i) omit “and ordinarily resident”.
+
+(4) In regulation 12 (conditions for application to open an account that is not a junior ISA account), in paragraphs (3)(f) and (3)(f)(i), omit “and ordinarily resident”.
+
+(5) In regulation 12A (conditions for application to open an account that is a junior ISA account), in paragraph (7)(d)(i) omit “and ordinarily resident”.
+
+## 5. Amendment of the Pensions Schemes (Taxable Property Provisions) Regulations 2006
+
+In the Pensions Schemes (Taxable Property Provisions) Regulations 2006[^f00009], in regulation 10 (scheme chargeable payment on income and gains from non-UK taxable property), in paragraph (3) omit “or ordinarily resident”.
+
+## 6. Amendment of the Investment Trusts (Dividends) (Optional Treatment as Interest Distributions) Regulations 2009
+
+(1) The Investment Trusts (Dividends) (Optional Treatment as Interest Distributions) Regulations 2009[^f00010] are amended as follows.
+
+(2) In regulation 14 (the reputable intermediary condition), in paragraph (3) omit “ordinarily”.
+
+(3) In regulation 16 (the reputable intermediary condition: consequences of reasonable but incorrect belief), in paragraph (5) omit “ordinarily”.
+
+(4) In regulation 17 (the residence condition)—
+
+- (a) in paragraphs (2), (3)(b) and (4)(b) omit “ordinarily”,
+- (b) in paragraph (5) omit “either not ordinarily resident or, in the case of a company,”,
+- (c) in paragraph 6(b) omit “either not ordinarily resident or, in the case of a beneficiary which is a company,”.
+
+(5) In regulation 18 (the residence condition: declarations)—
+
+- (a) in paragraph 2(b) omit “ordinarily”, and
+- (b) in paragraphs (4)(c)(ii) and (iii) omit “ordinarily resident or, in the case of a company,”.
+
+(6) In regulation 20 (interest distributions: declarations and position of investment trust or prospective investment trust), in paragraphs (3) and (4) omit “or ordinarily resident”.
+
+## 7. Amendment of the Offshore Funds (Tax) Regulations 2009
+
+(1) The Offshore Funds (Tax) Regulations 2009[^f00011] are amended as follows.
+
+(2) In regulation 20 (application to gains of non-resident settlements) in paragraph (1) for “neither resident nor ordinarily” substitute “not”.
+
+(3) In regulation 21 (application of transfer of assets abroad provisions), in paragraphs (3) and (5)(a) omit “or ordinarily resident”.
+
+(4) In regulation 24 (application of section 13 of TCGA 1992) in paragraph (7) omit “or ordinarily resident”.
+
+Anne Milton
+
+David Evennett
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+13th March 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These regulations amend the Income Tax (Entertainers and Sportsmen) Regulations 1987 ([S.I. 1987/530](https://www.legislation.gov.uk/uksi/1987/530)) (‘the Entertainers Regulations’), the Individual Savings Account Regulations 1998 ([S.I 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870)) (‘the ISA Regulations’), the Pensions Schemes (Taxable Property Provisions) Regulations 2006 ([S.I. 2006/1958](https://www.legislation.gov.uk/uksi/2006/1958)) (‘the Pensions Schemes Regulations’), the Investment Trusts (Dividends) (Optional Treatment as Interest Distributions) Regulations 2009 ([S.I. 2009/2034](https://www.legislation.gov.uk/uksi/2009/2034)) (‘the Investment Trust Regulations’) and the Offshore Funds (Tax) Regulations 2009 ([S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)) (‘the Offshore Funds Regulations’).
+
+The effect of these regulations is to remove references to being ‘ordinarily’ resident from the above mentioned regulations.
+
+These regulations come into force on 6 April 2013. The amendments to the Entertainers Regulations, the ISA Regulations and the Offshore Funds Regulations have effect in relation to a person’s liability to income tax for the tax year 2013-14 or any subsequent tax years. The amendments to the Pensions Schemes Regulations have effect in relation to a scheme chargeable payment treated as made in the tax year 2013-14 or any subsequent tax years. The amendments to the Investment Trust Regulations have effect in relation to interest distributions made on or after 6 April 2014, and in relation to the making of declarations on or after 6 April 2014. The amendments do not affect declarations made before that date, which will continue to operate on the basis of declaring and notifying changes to ordinary residence status.
+
+A Tax Information and Impact Note covering this instrument was published on 11 December 2012 alongside the Finance Bill 2013 and is available on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12); section 151(4) was inserted by section 85 of the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34); section 151(2) was substituted by section 64(2) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) which also inserted subsection (2A); the substituted subsection (2) and inserted subsection (2A) were substituted by a further subsection (2) by paragraph 436 of Schedule 1 to the Income Tax (Trading and Other Income) Act [2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5); the substituted subsection (2) was amended by paragraph 40 of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^f00002]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 273ZA was inserted by paragraphs 2 and 10 of Schedule 21 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25).
+
+[^f00003]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5); sections 694(1A), 695A and 701(6) were inserted by section 40 of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9); sections 695(3) and (4) were amended by paragraphs 131 and 132 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^f00004]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^f00005]: Footnote: [2009 c.10](https://www.legislation.gov.uk/ukpga/2009/10); section 45 was amended by paragraphs 706 and 710 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^f00006]: Footnote: [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8).
+
+[^f00007]: Footnote: [S.I. 1987/530](https://www.legislation.gov.uk/uksi/1987/530), to which there are amendments not relevant to these Regulations.
+
+[^f00008]: Footnote: [SI 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870). Relevant amending instruments are [S.I. 2001/908](https://www.legislation.gov.uk/uksi/2001/908), [S.I. 2005/3230](https://www.legislation.gov.uk/uksi/2005/3230), [S.I. 2008/704](https://www.legislation.gov.uk/uksi/2008/704) and [S.I. 2011/1780](https://www.legislation.gov.uk/uksi/2011/1780).
+
+[^f00009]: Footnote: [S.I. 2006/1958](https://www.legislation.gov.uk/uksi/2006/1958).
+
+[^f00010]: Footnote: [S.I. 2009/2034](https://www.legislation.gov.uk/uksi/2009/2034), to which there are amendments not relevant to these Regulations.
+
+[^f00011]: Footnote: [S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001), to which there are amendments not relevant to these Regulations.

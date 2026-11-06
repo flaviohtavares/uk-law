@@ -1,0 +1,2336 @@
+---
+title: The Transfer of Tribunal Functions Order 2008, SCHEDULE 3
+act: The Transfer of Tribunal Functions Order 2008
+section: schedule-3
+status: revised-with-pending-changes
+text_date: '2013-08-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2008/2833/schedule/3
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transfer of Tribunal Functions Order 2008, SCHEDULE 3
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2013-08-19. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2833
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 3 — Minor, consequential and supplemental provisions
+
+*Extent: E+W+S+N.I.*
+
+Article 6
+
+### 1. War Pensions (Administrative Provisions) Act 1919[^key-d20e45cf6b57c990b9586472992c49cf]
+
+The War Pensions (Administrative Provisions) Act 1919[^f00007] is amended as follows.
+
+**2.**[^key-b3bf99948087e4cb2209810540b02a98] In section 8 (appeals to Pensions Appeal Tribunals)—
+
+- (a) in the heading, omit “to Pensions Appeal Tribunals”;
+- (b) in subsection (1) for the words from “a Pensions Appeal Tribunal” to the end substitute “the appropriate tribunal, whose decision shall be final (subject, in the case of a decision of the First-Tier Tribunal, to provision made by or under Chapter 2 of Part 1 of the Tribunals, Courts and Enforcement Act 2007).”;
+- (c) after that subsection insert—
+
+  > (1A) For the purposes of subsection (1) above “the appropriate tribunal” means—
+  >
+  > - (a) in relation to England and Wales, the First-tier Tribunal;
+  > - (b) in relation to Scotland, a Pensions Appeal Tribunal for Scotland established under this section; and
+  > - (c) in relation to Northern Ireland, a Pensions Appeal Tribunal for Northern Ireland established under this section.
+
+  ; and
+- (d) in subsection (2)—
+  - (i) for “such parts of the United Kingdom as may be determined” substitute “Scotland and Northern Ireland”; and
+  - (ii) for “of Pensions Appeal Tribunals” substitute “of those tribunals”.
+
+**3.**[^key-cdfe1b27483c963fba883e39b1846dc3] In paragraph 1 of the Schedule (constitution jurisdiction and procedure of Pensions Appeal Tribunals) for the words from the beginning to “Kingdom” substitute “Such number of pensions appeal tribunals shall be constituted for Scotland and Northern Ireland”.
+
+### 4. Pensions Appeal Tribunals Act 1943[^key-cf5703f553b87d3c8c54b31b2d97ec76]
+
+The Pensions Appeal Tribunals Act 1943[^f00008] is amended as follows.
+
+**5.**[^key-a0d239e1cca3283f8ae59750e05106fc] In section 1 (appeals against rejection of war pension claims)—
+
+- (a) in subsection (1) for “a Pensions Appeal Tribunal constituted under this Act (hereafter in this Act referred to as “the Tribunal”)” substitute “the appropriate tribunal”; and
+- (b) in subsections (2), (3), (3A) and (4) for “Tribunal” substitute “appropriate tribunal”.
+
+**6.**[^key-0b8c3015c1e23094d6a2bac212f9e44b] In section 2(1) and (2) (appeals against rejection of war pension claims made in respect of mariners, pilots etc) for “Tribunal” substitute “appropriate tribunal”.
+
+**7.**[^key-cb01700ed6ea32a52b02dfa015eae451] In section 3(1) and (2) (appeals against rejection of war pension claims made in respect of civil defence volunteers and other civilians) for “Tribunal” substitute “appropriate tribunal”.
+
+**8.**[^key-8e4fdbfd147d0fc2d891058df6ffd9a3] In section 4(1) and (2) (appeals in cases where award is withheld or reduced on ground of serious negligence or misconduct) for “Tribunal” substitute “appropriate tribunal”.
+
+**9.**[^key-b8d126f8266d281c220c8275cef3704c] In section 5 (appeals against assessment of extent of disablement)—
+
+- (a) in subsection (1) for “Tribunal”, in both places, substitute “appropriate tribunal”; and
+- (b) in subsection (2)—
+  - (i) for “Tribunal”, in each place, substitute “appropriate tribunal”; and
+  - (ii) for “Tribunal’s” substitute “appropriate tribunal’s”.
+
+**10.**[^key-59d05cfbd085e9ed1ccb6bfeae25a78f] In subsection 5A(1)(b) (appeals in other cases) for “Tribunal” substitute “appropriate tribunal”.
+
+**11.**[^key-e70681f2cb45d1d681920e9886a209cc] In section 5B (matters relevant on appeal) for “appeal, a Pensions Appeal Tribunal” substitute “appeal under any provision of this Act, the appropriate tribunal”.
+
+**12.**[^key-b4718e22b78aa5125c2dde47615b3d20] (1) Section 6 (constitution, jurisdiction and procedure of Pensions Appeal Tribunals) is amended as follows.
+
+(2) In the heading, at the end insert “for Scotland and Northern Ireland etc”.
+
+(3) In subsection (1), at the end insert “for Scotland and Northern Ireland”.
+
+(4) In subsection (2C)—
+
+- (a) in paragraph (a) for “Tribunal, or” substitute “Pensions Appeal Tribunal for Scotland or Northern Ireland,”;
+- (b) after paragraph (b) insert—
+
+  > - (c) the First-tier Tribunal reviews a decision made by it under this Act which it sets aside under section 9(4)(c) of the Tribunals, Courts and Enforcement Act 2007, or
+  > - (d) a case involving a decision made by the First-tier Tribunal under this Act is remitted to it by the Upper Tribunal under section 12(2)(b)(i) of that Act,
+
+  ; and
+- (c) for “or direction” substitute “, direction, setting aside or remittal”.
+
+(5) In subsection (3)—
+
+- (a) omit the “and” at the end of paragraph (a);
+- (b) after paragraph (b) insert—
+
+  > , and
+  >
+  > - (c) provision made by or under Chapter 2 of Part 1 of the Tribunals, Courts and Enforcement Act 2007,
+
+  ; and
+- (c) for “the Tribunal” substitute “the appropriate tribunal”.
+
+(6) In subsection (4) for “Tribunal”, in both places, substitute “appropriate tribunal”.
+
+**13.**[^key-5010ab04d445cab62f9bf813a5746969] (1) Section 6A (appeals from Tribunal to Social Security Commissioner) is amended as follows.
+
+(2) For the heading substitute “Appeals from Pensions Appeal Tribunal for Scotland or Northern Ireland”.
+
+(3) For subsection (1) substitute—
+
+> (1) Subject to the provisions of this section, an appeal shall lie to the appropriate body from any decision of a Pensions Appeal Tribunal for Scotland or Northern Ireland under any of sections 1 to 5A of this Act on the ground that the decision was erroneous in point of law.
+>
+> (1A) For the purposes of this section “the appropriate body” means—
+>
+> - (a) in relation to a decision of a Pensions Appeal Tribunal for Scotland, the Upper Tribunal; and
+> - (b) in relation to a decision of a Pensions Appeal Tribunal for Northern Ireland—
+>   - (i) the Upper Tribunal in the case of a decision under section 5 of this Act; and
+>   - (ii) a Northern Ireland Social Security Commissioner in any other case.
+
+.
+
+(4) In subsection (2) for “Tribunal” substitute “Pensions Appeal Tribunal for Scotland or Northern Ireland”.
+
+(5) In subsection (3)—
+
+- (a) for “the appeal” substitute “an appeal under this section to a Northern Ireland Social Security Commissioner”; and
+- (b) for “the Tribunal” substitute “a Pensions Appeal Tribunal for Northern Ireland”.
+
+(6) In subsection (4)—
+
+- (a) after “Where” insert “an appeal is made to a Northern Ireland Social Security Commissioner and”;
+- (b) in paragraph (a)(i) for “the Tribunal” substitute “the Pensions Appeal Tribunal for Northern Ireland”; and
+- (c) in paragraph (b) for “the Tribunal” substitute “a Pensions Appeal Tribunal for Northern Ireland”.
+
+(7) After subsection (4) insert—
+
+> (4A) Section 12 of the Tribunals, Courts and Enforcement Act 2007 (proceedings on appeal to Upper Tribunal) applies in relation to appeals to the Upper Tribunal under this section as it applies in relation to appeals to it under section 11 of that Act, but as if references to the First-tier Tribunal were references to the Pensions Appeal Tribunal for Scotland or Northern Ireland.
+
+.
+
+(8) In subsection (5)—
+
+- (a) for “the Commissioner” substitute “the Northern Ireland Social Security Commissioner”; and
+- (b) for “Tribunal” substitute “Pensions Appeal Tribunal for Scotland or Northern Ireland”.
+
+(9) After subsection (5) insert—
+
+> (5A) No appeal lies under this section to the Upper Tribunal without the leave of the Pensions Appeal Tribunal for Scotland or Northern Ireland concerned, or of the Upper Tribunal, on an application by the party.
+
+.
+
+(10) In subsection (6)—
+
+- (a) after “under this section” insert “to a Northern Ireland Social Security Commissioner”;
+- (b) in paragraph (a) for “the Tribunal” substitute “the tribunal concerned”;
+- (c) in paragraph (b) for “the part of the United Kingdom for which the Tribunal was appointed” substitute “Northern Ireland”; and
+- (d) in paragraph (c) for “an appropriate Social Security Commissioner” substitute “a Northern Ireland Social Security Commissioner”.
+
+(11) In subsection (7)—
+
+- (a) after “appeals” insert “to a Northern Ireland Social Security Commissioner”; and
+- (b) for “to appeal” substitute “to bring such appeals”.
+
+(12) In subsection (8) for “Commissioner” substitute “Northern Ireland Social Security Commissioner”.
+
+(13) Omit subsection (9).
+
+(14) In subsection (10) for “Tribunal, a Great Britain Social Security Commissioner may direct that an application or appeal to him” substitute “appropriate tribunal under section 1, 2, 3, 4 or 5A, the Upper Tribunal may direct that an application or appeal to it”.
+
+**14.**[^key-145ec529ac6b26496c50455c224aa956] In section 6B (redetermination etc of appeals by Pensions Appeal Tribunal)—
+
+- (a) in the title for “Pensions Appeal Tribunal” substitute “appropriate tribunal”;
+- (b) for subsection (1) substitute—
+
+  > (1) Subsections (2) and (3) apply where an application is made to—
+  >
+  > - (a) a Pensions Appeal Tribunal for Scotland or Northern Ireland under section 6A(5A) of this Act, or
+  > - (b) a person under section 6A(6)(a) of this Act,
+  >
+  > for leave to appeal from a decision of the tribunal concerned.
+
+  ;
+- (c) in subsection (2)—
+  - (i) for “the person” substitute “the tribunal or person to whom the application is made”;
+  - (ii) for “he” substitute “that tribunal or person”;
+  - (iii) for “the Tribunal” substitute “the tribunal concerned”; and
+  - (iv) for “constituted Tribunal” substitute “constituted Pensions Appeal Tribunal for Scotland or Northern Ireland”; and
+- (d) in subsection (3)—
+  - (i) for “the person” substitute “the tribunal or person to whom the application is made”; and
+  - (ii) for “constituted Tribunal” substitute “constituted Pensions Appeal Tribunal for Scotland or Northern Ireland”; and
+- (e) after that subsection insert—
+
+  > (4) Subsection (5) applies where an application is made to the First-tier Tribunal for permission to appeal to the Upper Tribunal from any decision of the First-tier Tribunal under this Act.
+  >
+  > (5) If each of those who would be parties to the appeal if permission were granted expresses the view that the decision was erroneous in point of the law, the First-tier Tribunal shall set aside the decision and refer the case for determination by a differently constituted First-tier Tribunal.
+
+  .
+
+**15.**[^key-07324295d7430db18f90a9ae609085f8] In section 6C (appeals from Commissioner)—
+
+- (a) in subsections (1) to (4) for “a Commissioner” substitute “a Northern Ireland Social Security Commissioner”; and
+- (b) in subsection (3)(a) for “the Tribunal” substitute “the tribunal concerned”.
+
+**16.**[^key-0763d0d6fe22f1e8bce465f81ce3fa24] In section 6D (procedure in proceedings before Commissioner)—
+
+- (a) in subsections (1), (3), (4) and (6)(a) for “a Commissioner” substitute “a Northern Ireland Social Security Commissioner”;
+- (b) in subsection (1)—
+  - (i) for “section 16 of the Social Security Act 1998” substitute “Article 16 of the Social Security (Northern Ireland) Order 1998[^f00009]”; and
+  - (ii) for “that Act” substitute “that Order”;
+- (c) in subsection (2)(a)—
+  - (i) omit “or, in Scotland, by the Secretary of State”; and
+  - (ii) for “Commissioners” substitute “Northern Ireland Social Security Commissioners”;
+- (d) in subsection (5)—
+  - (i) for “the Chief Commissioner” substitute “the Chief Social Security Commissioner appointed under the Social Security Administration (Northern Ireland) Act 1992[^f00010]”; and
+  - (ii) for “Commissioners”, in each place, substitute “Northern Ireland Social Security Commissioners”;
+- (e) in subsection (8) omit “England and Wales or”; and
+- (f) omit subsection (9).
+
+**17.**[^key-088231775f4304f3aefc88015431b3a0] In section 8(1), (3) and (5) (time limit for appeals) for “the Tribunal” substitute “a Pensions Appeal Tribunal for Scotland or Northern Ireland”.
+
+**18.**[^key-5d71a095b18cce715d1b09b3889b2c9a] In section 9 (notices) for “Tribunal” substitute “appropriate tribunal”.
+
+**19.**[^key-665d88ebf28d91817873644e336c19d3] In section 11A(5) (regulations) omit paragraph (b) (together with the “or” immediately before it).
+
+**20.**[^key-97b93f187994784885f40de6d27475e2] In section 12 (interpretation)—
+
+- (a) before the definition of “detention” insert—
+
+  > - “the appropriate tribunal” means the First-tier Tribunal or a Pensions Appeal Tribunal for Scotland or Northern Ireland (and see paragraphs 6 to 6B of the Schedule for determining which of those tribunals hears an appeal under this Act);
+
+  ;
+- (b) omit the definition of “Chief Commissioner”;
+- (c) omit the definition of “Commissioner”;
+- (d) omit the definition of “Great Britain Social Security Commissioner”; and
+- (e) in the definition of “Northern Ireland Social Security Commissioner” at the end insert “, and includes a tribunal of Commissioners constituted under section 6D(5) of this Act”.
+
+**21.**[^key-682fe5ca6485804a888737f7a38b60be] (1) The Schedule (constitution, jurisdiction and procedure of Pensions Appeal Tribunals) is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) omit sub-paragraph (1);
+- (b) after sub-paragraph (3) insert—
+
+  > (3A) In this Schedule “Tribunal” means a Pensions Appeal Tribunal for Scotland or Northern Ireland constituted in accordance with the provisions of this Schedule.
+
+  ; and
+- (c) omit sub-paragraph (4).
+
+(3) In paragraph 2—
+
+- (a) omit sub-paragraph (1)(a);
+- (b) in sub-paragraph (2A) omit “(3A),”;
+- (c) omit sub-paragraph (3A); and
+- (d) in sub-paragraph (4) for “sub-paragraphs (3A) and (3B)” substitute “sub-paragraph (3B)”.
+
+(4) In paragraph 2B—
+
+- (a) in sub-paragraph (1) for “each part of the United Kingdom” substitute “Scotland or Northern Ireland”;
+- (b) omit sub-paragraph (2)(a); and
+- (c) in sub-paragraphs (5) and (6)—
+  - (i) for “any part of the United Kingdom” substitute “Scotland or Northern Ireland”; and
+  - (ii) for “that part of the United Kingdom” substitute “Scotland or Northern Ireland”.
+
+(5) In paragraph 3A—
+
+- (a) for “any part of the United Kingdom” substitute “Scotland or Northern Ireland”; and
+- (b) in paragraph (a) for “that part of the United Kingdom” substitute “Scotland or Northern Ireland”.
+
+(6) In paragraph 3B—
+
+- (a) for “any part of the United Kingdom” substitute “Scotland or Northern Ireland”; and
+- (b) for “such Tribunals in that part of the United Kingdom” substitute “a Pensions Appeal Tribunal for Scotland or Northern Ireland”.
+
+(7) In paragraph 3C(2)—
+
+- (a) for “any part of the United Kingdom” substitute “Scotland or Northern Ireland”; and
+- (b) omit paragraph (a).
+
+(8) In paragraph 5—
+
+- (a) in sub-paragraph (1)(a) for “Pensions Appeals Tribunals” substitute “Tribunals”; and
+- (b) omit sub-paragraph (1A)(a).
+
+(9) In paragraph 6—
+
+- (a) for “the Tribunal” substitute “the appropriate tribunal”;
+- (b) for “such one of the Tribunals appointed for England as may be prescribed by or under rules made for those Tribunals under this Schedule” substitute “the First-tier Tribunal”;
+- (c) for “a Tribunal” substitute “the appropriate tribunal”; and
+- (d) for “another Tribunal” substitute “another such tribunal”.
+
+(10) In paragraph 6B—
+
+- (a) for “the Tribunal” substitute “the appropriate tribunal”; and
+- (b) for “a Tribunal appointed for another part of the United Kingdom” substitute “another appropriate tribunal”.
+
+(11) In paragraph 7 for “such appeal” substitute “appeal to a Tribunal”.
+
+(12) In paragraph 7B, omit sub-paragraph (1).
+
+### 22. Administration of Justice Act 1960[^key-e15f5c6210ff06a207b3069dfef7cc04]
+
+In section 12(1)(b) of the Administration of Justice Act 1960[^f00011] (publication of information relating to proceedings in private) for “a Mental Health Review Tribunal or to” substitute “the First-tier Tribunal, the Mental Health Review Tribunal for Wales or”.
+
+### 23. Parliamentary Commissioner Act 1967[^key-8359613b0ca4b7015cd745d02b5ca4d7]
+
+The Parliamentary Commissioner Act 1967[^f00012] is amended as follows.
+
+**24.**[^key-a8385325560ffb8d28f550a547dbdf60] Omit section 11B(2)(b) and (3)(b) (the Criminal Injuries Compensation Scheme).
+
+**25.**[^key-2a1ab23e79f3117f73e17d9f3c4e613b] Omit paragraph 6C of Schedule 3 (matters not subject to investigation).
+
+**26.**[^key-dc9214d9f40746424c9ddd4c68355142] (1) Schedule 4 (relevant tribunals for the purposes of section 5(7)) is amended as follows.
+
+(2) Omit the entries relating to —
+
+- (a) the Care Standards Tribunal constituted under section 9 of the Protection of Children Act 1999; and
+- (b) the Special Educational Needs and Disability Tribunal constituted under section 333 of the Education Act 1996.
+
+(3) In the entry relating to the Mental Health Review Tribunals, for “Tribunals” substitute “Tribunal for Wales”.
+
+### 27. Local Authority Social Services Act 1970[^key-b43856f4c00303959748424240b8755b]
+
+In Schedule 1 to the Local Authority Social Services Act 1970[^f00013] (social services functions), in the entry relating to the Mental Health Act 1983, for “Mental Health Review Tribunals” substitute “the First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+### 28. House of Commons Disqualification Act 1975[^key-6c63263f183417d86355bc5d34f81231]
+
+(1) Schedule 1 to the House of Commons Disqualification Act 1975[^f00014] (disqualifying offices) is amended as follows.
+
+(2) In Part 1 (judicial offices) omit the first entry beginning “Chief or other Child Support Commissioner”.
+
+(3) In Part 3 (other offices) omit the entries relating to—
+
+- (a) an adjudicator appointed under section 5 of the Criminal Injuries Compensation Act 1995;
+- (b) an Asylum Support Adjudicator; and
+- (c) the President of the Special Educational Needs Tribunal, or a member of a panel of persons appointed to act as chairman or other member of that Tribunal.
+
+### 29. Northern Ireland Assembly Disqualification Act 1975[^key-f54530ad5a53f88a447e5495400e7edb]
+
+(1) Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975[^f00015] (disqualifying offices) is amended as follows.
+
+(2) In Part 1 (judicial offices) omit the first entry beginning “Chief or other Child Support Commissioner”.
+
+(3) In Part 3 (other offices) omit the entry relating to an Asylum Support Adjudicator.
+
+### 30. Vaccine Damage Payments Act 1979[^key-8f3ce7d4bdb6a186afa7c4ff3d61166d]
+
+The Vaccine Damage Payments Act 1979[^f00016] is amended as follows.
+
+**31.**[^key-e933273279e1f1693215aa302602e909] In section 3A(1) (decisions reversing earlier decisions) for “an appeal tribunal” substitute “a tribunal”.
+
+**32.**[^key-d879decfb2408014791a287483ae32a0] In section 4 (appeals to appeal tribunals) as it has effect before the commencement of section 57(2) of, and paragraph 1(2) and (3) of Schedule 7 to, the Welfare Reform Act 2007—
+
+- (a) in subsection (1) for “an appeal tribunal” substitute “the First-tier Tribunal”;
+- (b) omit subsection (2)(b) (together with the “and” immediately before it); and
+- (c) in subsection (4) for “an appeal tribunal” substitute “the First-tier Tribunal”.
+
+**33.**[^key-d5793e6ac33a633596f5c359ba3a916d] In section 4 (appeals to appeal tribunals) as it has effect after the commencement of section 57(2) of, and paragraph 1(2) and (3) of Schedule 7 to, the Welfare Reform Act 2007—
+
+- (a) in subsection (1A)—
+  - (i) for “In subsection (1) the reference” substitute “In this section any reference”; and
+  - (ii) in paragraph (b) for “an appeal tribunal constituted under Chapter 1 of Part 1 of the Social Security Act 1998” substitute “the First-tier Tribunal”;
+- (b) in subsection (2)—
+  - (i) for “an appeal tribunal constituted under Chapter 1 of Part 1 of the Social Security Act 1998” substitute “the First-tier Tribunal”; and
+  - (ii) omit paragraph (b) (together with the “and” immediately before it); and
+- (c) in subsection (4) for “an appeal tribunal” substitute “an appropriate appeal tribunal”.
+
+**34.**[^key-62cd32b3301b2d5a73b9d74193e1dedc] In section 7A(1) (correction of errors and setting aside of decisions)—
+
+- (a) in subsection (1)—
+  - (i) in paragraph (a), as it has effect both before and after the commencement of paragraph 1(4) of Schedule 7 to the Welfare Reform Act 2007, for “3, 3A or 4” substitute “3 or 3A”;
+  - (ii) in paragraph (a), as it has effect after the commencement of that provision, omit “, other than a decision of an appeal tribunal constituted under Chapter 1 of Part 2 of the Social Security (Northern Ireland) Order 1998”; and
+  - (iii) omit paragraph (b) (together with the “and” immediately before it), as it has effect both before and after the commencement of that provision; and
+- (b) in subsection (2) omit “or set aside decisions”.
+
+**35.**[^key-cc58427497a25895f6397e575bb8b1ee] Omit section 9A (interpretation).
+
+**36.**[^key-dd6ebabae74feac53bcf1d337898ebb4] In section 12(3) (financial provision)—
+
+- (a) omit paragraph (b); and
+- (b) in paragraph (c) omit “or tribunal”.
+
+### 37. Judicial Pensions Act 1981[^key-f29518a0ea5d03ab784c8ef69d2c1fe6]
+
+In section 13 of the Judicial Pensions Act 1981[^f00017] (Social Security Commissioners) omit subsections (1A)(a) and (7).
+
+### 38. Forfeiture Act 1982[^key-d54bc78006ddfa359f153bc9373e8e15]
+
+In section 4 of the Forfeiture Act 1982[^f00018] (Commissioner to decide whether rule applies to social security benefits)—
+
+- (a) in the heading for “Commissioner” substitute “Upper Tribunal”;
+- (b) in subsections (1), (1A), (1G) and (1H) for “a Commissioner”, in each place, substitute “the Upper Tribunal”;
+- (c) in subsections (1A), (1B) and (1E) for “the Commissioner”, in each place, substitute “the Upper Tribunal”;
+- (d) in subsection (1B) for “he” substitute “it”;
+- (e) in subsection (1E) for “he may direct that his” substitute “the Upper Tribunal may direct that its”;
+- (f) in subsection (2)—
+  - (i) for the words from the beginning to “expedient” substitute “Tribunal Procedure Rules may make provision”;
+  - (ii) for “the regulations” substitute “the rules”; and
+  - (iii) omit paragraph (b) (together with the “and” immediately before it);
+- (g) omit subsections (3) and (4); and
+- (h) in subsection (5) omit the definition of “Commissioner”.
+
+### 39. Mental Health Act 1983[^key-25592ebb2879316308d05b9229775856]
+
+The Mental Health Act 1983[^f00019] is amended as follows.
+
+**40.**[^key-1d517fbdab30b2b9f511b368e7a1e0a7] In section 21(3) (patients absent without leave) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**41.**[^key-1e0519ffd3257e883e61d08403b774cf] In section 41(3)(b) (power of higher courts to restrict discharge from hospital) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**42.**[^key-3b830406f197796d7d3f1b2143ba2229] In section 50(1) (prisoners under sentence) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**43.**[^key-6e5a1abbf8770a3f56cc0cd7235ed0ff] In section 51(3) (detained persons) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**44.**[^key-62c9c94ab6f10f8edab54558da3ffe81] In section 53(2) (civil prisoners and persons detained under the Immigration Acts) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**45.**[^key-78b884eef05fb29ab832cc20cb15aae6] In section 65 (Mental Health Review Tribunals)—
+
+- (a) in the title for “Tribunals” substitute “Tribunal for Wales”;
+- (b) in subsection (1) (as substituted by section 38(2) of the Mental Health Act 2007[^f00020]) for the words from “be” to the end substitute “be a Mental Health Review Tribunal for Wales.”;
+- (c) in subsection (1A) (as substituted by section 38(2) of that Act) for “the Mental Health Review Tribunals” substitute “that tribunal”;
+- (d) in subsection (2) for “Mental Health Review Tribunals” substitute “the Mental Health Review Tribunal for Wales”;
+- (e) in subsection (3) for “a Mental Health Review Tribunal”, in both places, substitute “the Mental Health Review Tribunal for Wales”; and
+- (f) for subsection (4) substitute—
+
+  > (4) The Welsh Ministers may pay to the members of the Mental Health Review Tribunal for Wales such remuneration and allowances as they may determine, and defray the expenses of that tribunal to such amount as they may determine, and may provide for that tribunal such officers and servants, and such accommodation, as that tribunal may require.
+
+**46.**[^key-cf008e4a67922d7f9f1397a64c9d1ab7] In section 66 (applications to tribunals)—
+
+- (a) in subsection (1) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”; and
+- (b) after subsection (3) insert—
+
+  > (4) In this Act “the appropriate tribunal” means the First-tier Tribunal or the Mental Health Review Tribunal for Wales.
+  >
+  > (5) For provision determining to which of those tribunals applications by or in respect of a patient under this Act shall be made, see section 77(3) and (4) below.
+
+**47.**[^key-967ccac7cf283e57b0f7980837ea788b] In section 67(1) (references to tribunals by Secretary of State concerning Part II patients) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**48.**[^key-603805d546c72307b24ac1899be82ade] In section 68(2), (6) and (7) (duty of managers of hospitals to refer cases to tribunal) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**49.**[^key-f2a231a26be753e20ecb1df45d418cfd] In section 68A(5) (power to reduce periods under section 68) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**50.**[^key-0ea890351ce6f8d2b0bc9f45191634ff] In section 69(1) and (2) (applications to tribunals concerning patients subject to hospital and guardianship orders) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**51.**[^key-25c143243b2510b31970fcf7f14f2dfd] In section 70 (applications to tribunals concerning restricted patients) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**52.**[^key-676a1174cbfc2abb2a06da408e5d4ec7] In section 71(1) and (2) (references by Secretary of State concerning restricted patients) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**53.**[^key-dddde216353a99923f24c7dea945fdf5] In section 72 (powers of tribunals)—
+
+- (a) in subsections (1), (4) and (6) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”;
+- (b) in subsections (1)(a) to (c) and (4) for “they are” substitute “it is”;
+- (c) in subsection (3) for “do not” substitute “does not”;
+- (d) in subsection (3A) for “they think” substitute “it thinks”; and
+- (e) in subsection (6) for “such a tribunal” substitute “the appropriate tribunal”.
+
+**54.**[^key-f9a02725ce05682a1b3d6a2ecabdcc95] In section 73 (power to discharge restricted patients)—
+
+- (a) in subsection (1)—
+  - (i) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”;
+  - (ii) for “such a tribunal” substitute “the appropriate tribunal”; and
+  - (iii) for “the tribunal are”, in both places, substitute “the tribunal is”; and
+- (b) in subsection (7) for “their satisfaction” substitute “its satisfaction”.
+
+**55.**[^key-00333fe58619436688bb72152813e71a] In section 74 (restricted patients subject to restriction directions)—
+
+- (a) in subsection (1)—
+  - (i) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”;
+  - (ii) for “such a tribunal” substitute “the appropriate tribunal”;
+  - (iii) for “their” substitute “its”; and
+  - (iv) for “they notify” substitute “the tribunal notifies”;
+- (b) in subsections (2) and (4) for “notify” substitute “notifies”; and
+- (c) in subsections (3), (4) and (5A) for “the tribunal have” substitute “the tribunal has”.
+
+**56.**[^key-7944246db2a4c7fa280603c7e27440e6] In section 75 (applications and references concerning conditionally discharged restricted patients)—
+
+- (a) in subsections (1)(a) and (2) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”; and
+- (b) in subsection (3) for “give” substitute “gives”.
+
+**57.**[^key-db1bb1d0e40d64a4130e1725a3fbea7c] In section 76(1) (visiting and examination of patients) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**58.**[^key-1a7a3d111eca51a966aa8be80afbedcb] In section 77 (general provisions concerning tribunal applications)—
+
+- (a) in subsection (1) for “a Mental Health Review Tribunal by or in respect of a patient” substitute “the appropriate tribunal by or in respect of a patient under this Act”;
+- (b) in subsection (2) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”;
+- (c) in subsection (3)—
+  - (i) for “a Mental Health Review Tribunal” substitute “a tribunal”;
+  - (ii) in paragraph (a), for “to the tribunal for the area in which that hospital is situated” substitute “to the First-tier Tribunal where that hospital is in England and to the Mental Health Review Tribunal for Wales where that hospital is in Wales”;
+  - (iii) in paragraph (b), for “to the tribunal for the area in which the responsible hospital is situated” substitute “to the First-tier Tribunal where the responsible hospital is in England and to the Mental Health Review Tribunal for Wales where that hospital is in Wales”; and
+  - (iv) in paragraph (c), for “to the tribunal for the area in which the patient is residing” substitute “to the First-tier Tribunal where the patient resides in England and to the Mental Health Review Tribunal for Wales where the patient resides in Wales”; and
+- (d) in subsection (4) for “to the tribunal for the area in which the patient resides” substitute “to the First-tier Tribunal where the patient resides in England and to the Mental Health Review Tribunal for Wales where the patient resides in Wales”.
+
+**59.**[^key-77cb4af26f4b4f7d45deabe6f646e41a] Section 78 (procedure of tribunals) is amended as follows.
+
+(1) In the heading, for “tribunals” substitute “Mental Health Review Tribunal for Wales”.
+
+(2) In subsection (1)—
+
+- (a) for “Mental Health Review Tribunals” substitute “the Mental Health Review Tribunal for Wales”; and
+- (b) for “such tribunals” substitute “that tribunal”.
+
+(3) In subsection (2)—
+
+- (a) for “a tribunal”, in each place, substitute “the tribunal”;
+- (b) in paragraph (a) for the words from “by that or” to the end substitute “under this Act by the tribunal or the First-tier Tribunal”;
+- (c) for paragraph (b) substitute—
+
+  > - (b) for the transfer of proceedings to or from the Mental Health Review Tribunal for Wales in any case where, after the making of the application, the patient is moved into or out of Wales;
+
+  ; and
+- (d) in paragraph (j)—
+  - (i) for “tribunals” substitute “tribunal”; and
+  - (ii) for “their” substitute “its”.
+
+(4) In subsection (3)—
+
+- (a) for “Mental Health Review Tribunals” substitute “the Mental Health Review Tribunal for Wales”; and
+- (b) for “such tribunals” substitute “that tribunal”.
+
+(5) In subsection (4)—
+
+- (a) for “a tribunal”, in each place, substitute “the tribunal”; and
+- (b) for paragraph (b) substitute—
+
+  > - (b) for the transfer of proceedings to or from the tribunal in any case where, after the making of a reference or application in accordance with section 71(4) or 77(4) above, the patient begins or ceases to reside in Wales.
+
+(6) In subsection (6) for “a Mental Health Review Tribunal” substitute “the Mental Health Review Tribunal for Wales”.
+
+(7) In subsection (7) for “A Mental Health Review Tribunal” substitute “The Mental Health Review Tribunal for Wales”.
+
+(8) Omit subsection (8).
+
+(9) In subsection (9) for “a Mental Health Review Tribunal” substitute “the Mental Health Review Tribunal for Wales”.
+
+**60.**[^key-fb7f34f23b1ebe2595f9aab726b384f2] After section 78 insert—
+
+> **78A. Appeal from the Mental Health Review Tribunal for Wales to the Upper Tribunal**
+>
+> (1) A party to any proceedings before the Mental Health Review Tribunal for Wales may appeal to the Upper Tribunal on any point of law arising from a decision made by the Mental Health Review Tribunal for Wales in those proceedings.
+>
+> (2) An appeal may be brought under subsection (1) above only if, on an application made by the party concerned, the Mental Health Review Tribunal for Wales or the Upper Tribunal has given its permission for the appeal to be brought.
+>
+> (3) Section 12 of the Tribunals, Courts and Enforcement Act 2007 (proceedings on appeal to the Upper Tribunal) applies in relation to appeals to the Upper Tribunal under this section as it applies in relation to appeals to it under section 11 of that Act, but as if references to the First-tier Tribunal were references to the Mental Health Review Tribunal for Wales.
+
+**61.**[^key-c2a684875de5f2e148800250433a45ee] In section 79 (interpretation of Part 5) omit subsection (7).
+
+**62.**[^key-0d6b7940be9aeaefc7995fbdfa422d25] In section 86(3) (removal of alien patients) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+**63.**[^key-93f42595075dd5408f4f95f6205f9bf6] In section 132(1)(b) (duty of managers of hospitals to give information to detained patients) for “Mental Health Review Tribunal” substitute “tribunal”.
+
+**64.**[^key-b259a428856ef113267f991476a423c2] In section 132A(1)(b) (duty of managers of hospitals to give information to community patients) for “Mental Health Review Tribunal” substitute “tribunal”.
+
+**65.**[^key-60aa7ca2bc0d5f0a3d827a109f5c9685] In section 134(3) (correspondence of patients)—
+
+- (a) in paragraph (d) for “a Mental Health Review Tribunal” substitute “the First-tier Tribunal or the Mental Health Review Tribunal for Wales”; and
+- (b) after paragraph (h) insert—
+
+  > and for the purposes of paragraph (d) above the reference to the First-tier Tribunal is a reference to that tribunal so far as it is acting for the purposes of any proceedings under this Act or paragraph 5(2) of the Schedule to the Repatriation of Prisoners Act 1984[^f00021].
+
+**66.**[^key-48d4cb3957cff1e0b0871578a4eee876] In section 145(1) (interpretation) after the definition of “application for admission for treatment” insert—
+
+> - “the appropriate tribunal” has the meaning given by section 66(4) above;
+
+.
+
+**67.**[^key-1b91463c1fc9a94507e6bd1c29916d60] In Schedule 2 (Mental Health Review Tribunals)—
+
+- (a) in the title for “Tribunals” substitute “Tribunal for Wales”;
+- (b) in paragraph 1 for “Each of the Mental Health Review Tribunals” substitute “The Mental Health Review Tribunal for Wales”;
+- (c) in paragraph 2 for “Mental Health Review Tribunals” substitute “the Mental Health Review Tribunal for Wales”;
+- (d) in paragraph 2A for “a Mental Heath Review Tribunal” substitute “the Mental Health Review Tribunal for Wales”;
+- (e) in paragraph 3, as it has effect before the commencement of section 38(6) of the Mental Health Act 2007, for “each Mental Health Review Tribunal” substitute “the Mental Health Review Tribunal for Wales”;
+- (f) in paragraph 3, as it has effect after the commencement of section 38(6) of that Act, omit sub-paragraph (1);
+- (g) in paragraph 4 for “a Mental Health Review Tribunal” substitute “the Mental Health Review Tribunal for Wales”; and
+- (h) omit paragraph 5.
+
+**68.**[^key-95f87376cd74db10694eca2fb972eabe] In paragraph 34(4) of Schedule 5 (transitional and saving provisions) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”.
+
+### 69. Repatriation of Prisoners Act 1984[^key-1391bae8d7fd6f72dcb526c2391eb011]
+
+In paragraph 5 of the Schedule to the Repatriation of Prisoners Act 1984 (operation of mental health legislation in relation to the prisoner)—
+
+- (a) in sub-paragraph (2) for “a Mental Health Review Tribunal” substitute “the appropriate tribunal”; and
+- (b) after that sub-paragraph insert—
+
+  > (2A) For the purposes of sub-paragraph (2) above “the appropriate tribunal” means—
+  >
+  > - (a) the First-tier Tribunal, in any case where the prisoner is detained in England;
+  > - (b) the Mental Health Review Tribunal for Wales, in any case where the prisoner is detained in Wales; and
+  > - (c) the Mental Health Review Tribunal for Northern Ireland, in any case where the prisoner is detained in Northern Ireland.
+
+### 70. Disabled Persons (Services, Consultation and Representation) Act 1986[^key-44fc75bfc72c5b8aac496c5ee915ca6b]
+
+In section 7(2)(a) of the Disabled Persons (Services, Consultation and Representation) Act 1986[^f00022] (persons discharged from hospital) for “a Mental Health Review Tribunal” substitute “the First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+### 71. Children Act 1989[^key-d42bafb1d531d42662f3ac240ac636f7]
+
+The Children Act 1989[^f00023] is amended as follows.
+
+**72.**[^key-396a6e52ce9e613c4b8ab9b353a5faa3] In section 65(3)(b) (persons disqualified from carrying on, or being employed in, children’s homes) for “Tribunal established under section 9 of the Protection of Children Act 1999” substitute “First-tier Tribunal”.
+
+**73.**[^key-9f12021589567cfd5fe5befdeed4c680] In section 65A(1) (appeal against refusal of authority to give consent under section 65) for “Tribunal established under section 9 of the Protection of Children Act 1999” substitute “First-tier Tribunal”.
+
+**74.**[^key-037009b57358c51e9de6c11e7356279f] Omit section 79B(8) (other definitions, etc).
+
+**75.**[^key-9a75e0290e40c27db3fdbb2d4ab03894] In section 79H(2) (suspension of registration) before “Tribunal” insert “First-tier”.
+
+**76.**[^key-07eebcf295716e03eb017d52087de6c4] In section 79M(1) and (2) (appeals) before “Tribunal” insert “First-tier”.
+
+### 77. Child Support Act 1991[^key-72f9b414afe60b81cc4331275c64b4a8]
+
+The Child Support Act 1991[^f00024] is amended as follows.
+
+**78.**[^key-a5214fd0db284f66102c8c5b5b061981] In section 16(1A)(c) (revision of decisions)[^f00025] for “an appeal tribunal” substitute “the First-tier Tribunal”.
+
+**79.**[^key-6fd7982aec7592490feacf3fc5969f39] In section 17(1)(decisions superseding earlier decisions)[^f00026]—
+
+- (a) in paragraphs (b) and (d) for “an appeal tribunal” substitute “the First-tier Tribunal”; and
+- (b) in paragraph (e) for “a Child Support Commissioner” substitute “the Upper Tribunal”.
+
+**80.**[^key-ad63ab1e48e526bbce9fee4d4515f7fd] In section 20 (appeals to appeal tribunals)[^f00027] as it has effect without the substitution made by section 10 of the Child Support, Pensions and Social Security Act 2000—
+
+- (a) in the heading for “appeal tribunals” substitute “First-tier Tribunal”;
+- (b) in subsections (1) to (3) and (7) for “an appeal tribunal” substitute “the First-tier Tribunal”; and
+- (c) in subsection (5) omit paragraph (b) (together with the “and” immediately before it).
+
+**81.**[^key-e767b4ad3f80289c929ac5deb50e4830] In section 20 (appeals to appeal tribunals) as substituted by section 10 of that Act—
+
+- (a) in the heading for “appeal tribunals” substitute “First-tier Tribunal”;
+- (b) in subsections (1), (7) and (7A)[^f00028] for “an appeal tribunal” substitute “the First-tier Tribunal”;
+- (c) in subsection (4) omit paragraph (b) (together with the “and” immediately before it); and
+- (d) in subsection (8) for “appeal tribunal” substitute “First-tier Tribunal”.
+
+**82.**[^key-26af74bd74e9365b80ca444e726e1940] Omit section 22 (Child Support Commissioners)[^f00029].
+
+**83.**[^key-c5ea94c1434f4d5ba1a16f9b7ae95d80] In section 23(3) (Child Support Commissioners for Northern Ireland) omit “, subject to the modifications set out in paragraph 8”.
+
+**84.**[^key-0f04c853c0f0767f1b4763e2bbf809d5] In section 23A (redetermination of appeals)[^f00030]—
+
+- (a) in subsection (1) for the words from “to a person” to the end substitute “to the First-tier Tribunal for permission to appeal to the Upper Tribunal from any decision of the First-tier Tribunal under section 20”;
+- (b) omit subsection (2); and
+- (c) in subsection (3)—
+  - (i) for “the person” substitute “the First-tier Tribunal”; and
+  - (ii) for “tribunal” substitute “First-tier Tribunal”.
+
+**85.**[^key-e495bf13b14637093303ebb5e5d672a0] In section 24 (appeal to Child Support Commissioner)[^f00031]—
+
+- (a) for the heading substitute “Appeals to Upper Tribunal”;
+- (b) for subsection (1), as it has effect before the substitution made by paragraph 16(2) of Schedule 3 to the Child Maintenance and Other Payments Act 2008, substitute—
+
+  > (1) Each of the following may appeal to the Upper Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007 from any decision of the First-tier Tribunal under section 20 of this Act—
+  >
+  > - (a) the Secretary of State, and
+  > - (b) any person who is aggrieved by the decision of the First-tier Tribunal.
+
+  ;
+- (c) in subsection (1), as it has effect after the substitution made by paragraph 16(2) of Schedule 3 to the Child Maintenance and Other Payments Act 2008, for “to a Child Support Commissioner on a question of law” substitute “to the Upper Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007 from any decision of the First-tier Tribunal under section 20 of this Act”; and
+- (d) for subsections (2) to (9) substitute—
+
+  > (2) Where a question which would otherwise fall to be determined by the Commission or the Secretary of State under this Act first arises in the course of an appeal to the Upper Tribunal, that tribunal may, if it thinks fit, determine the question even though it has not been considered by the Commission or the Secretary of State.
+
+  .
+
+**86.**[^key-a32b736faeb6cabaeb8ceebbf846bc71] Omit section 25 (appeal from Child Support Commissioner on question of law)[^f00032].
+
+**87.**[^key-757a52125e464993d551b7b236e8b434] In section 28ZA(1)(b) (decisions involving issues that arise on appeal in other cases)[^f00033], as it has effect both with and without the amendment made by paragraph 11(11)(b) of Schedule 3 to the Child Support, Pensions and Social Security Act 2000[^f00034], for “a Child Support Commissioner” substitute “the Upper Tribunal”.
+
+**88.**[^key-821223582826db11f044e34c8e6d2bdf] (1) Section 28ZB (appeals involving issues that arise on appeal in other cases)[^f00035] is amended as follows.
+
+(2) In subsection (1)(a), as it has effect both with and without the amendment made by paragraph 11(12)(a) of Schedule 3 to the Child Support, Pensions and Social Security Act 2000, for “an appeal tribunal, or from an appeal tribunal to a Child Support Commissioner” substitute “the First-tier Tribunal, or from the First-tier Tribunal to the Upper Tribunal”.
+
+(3) In subsection (1)(b) for “a Child Support Commissioner” substitute “the Upper Tribunal”.
+
+(4) In subsection (2) for “tribunal or Child Support Commissioner” substitute “First-tier Tribunal or Upper Tribunal”.
+
+(5) In subsection (3)(a) and (b) for “tribunal” substitute “First-tier Tribunal”.
+
+(6) In subsection (4)—
+
+- (a) for “appeal tribunal or Child Support Commissioner” substitute “First-tier Tribunal or Upper Tribunal”;
+- (b) in paragraph (b) for “tribunal or Child Support Commissioner” substitute “First-tier Tribunal or Upper Tribunal”.
+
+(7) In subsection (5)—
+
+- (a) for “appeal tribunal or Child Support Commissioner” substitute “First-tier Tribunal or Upper Tribunal”; and
+- (b) for “tribunal or Child Support Commissioner” substitute “First-tier Tribunal or Upper Tribunal”.
+
+(8) In subsection (7)(a) for “a Child Support Commissioner”, in both places, substitute “the Upper Tribunal”.
+
+**89.**[^key-64bfae18fc330ded02f81353fe3a43bc] In section 28ZC (restrictions on liability in certain cases of error)[^f00036]—
+
+- (a) in subsection (1)(a) for “a Child Support Commissioner” substitute “the Upper Tribunal”;
+- (b) in subsection (3) for “Commissioner” substitute “Upper Tribunal”;
+- (c) in subsection (6) in the definition of “adjudicating authority” for “an appeal tribunal” substitute “the First-tier Tribunal”; and
+- (d) in subsection (8)(a) and (b) for “a Child Support Commissioner” substitute “the Upper Tribunal”.
+
+**90.**[^key-7a600c8306519c3c7d82dd910af7141d] In section 28ZD(1) (correction of errors and setting aside of decisions)[^f00037]—
+
+- (a) in subsection (1)
+  - (i) in paragraph (a) after “decision”, in both places, insert “of the Secretary of State”; and
+  - (ii) omit paragraph (b) (together with the “and” immediately before it); and
+- (b) in subsection (2) omit “or set aside decisions”.
+
+**91.**[^key-faab18b9ca68069204d1e5c232bb473b] In section 28D (determination of applications)[^f00038]
+
+- (a) in subsections (1)(b) and (3), as it has effect both with and without the amendments made by section 5(3)(a) of the Child Support, Pensions and Social Security Act 2000, for “an appeal tribunal” substitute “the First-tier Tribunal”.
+
+**92.**[^key-f84570655f73122ebe78040e0a17c85c] In section 45 (jurisdiction of courts in certain proceedings under Act)[^f00039]—
+
+- (a) in subsection (1)(a) for “an appeal tribunal” substitute “the First-tier Tribunal”;
+- (b) omit subsection (6); and
+- (c) in subsection (7) omit “or (6)”.
+
+**93.**[^key-6377aeea7a98506530e49d050ba9a05b] In section 46A(1) (finality of decisions)[^f00040]—
+
+- (a) after “Subject to the provisions of this Act” insert “and to any provision made by or under Chapter 2 of Part 1 of the Tribunals, Courts and Enforcement Act 2007”; and
+- (b) for “an appeal tribunal” substitute “the First-tier Tribunal”.
+
+**94.**[^key-2f27cfc6f7277b837bd42b27cdea6a5c] In section 46B(1) (matters arising as respects decisions)[^f00041]—
+
+- (a) in paragraph (b) for “an appeal tribunal” substitute “the First-tier Tribunal”; and
+- (b) in paragraph (c) for “a Child Support Commissioner under section 24” substitute “the Upper Tribunal in relation to a decision of the First-tier Tribunal under this Act”.
+
+**95.**[^key-18e8d473097bee4709199888ad34c11a] In section 50 (unauthorised disclosure of information)[^f00042]—
+
+- (a) in subsection (1A) before paragraph (a) insert—
+
+  > - (za) any member of staff appointed under section 40(1) of the Tribunals, Courts and Enforcement Act 2007 in connection with the carrying out of any functions in relation to appeals from decisions made under this Act;
+
+  ;
+- (b) in subsection (1A)(a) after “tribunal” insert “constituted under Chapter 1 of Part 1 of the Social Security Act 1998”;
+- (c) in subsection (1A)(b) for “an” substitute “any such”;
+- (d) in subsection (5) (as it has effect until the commencement of the repeal of that subsection made by Schedule 8 to the Child Maintenance and Other Payments Act 2008) in paragraph (c) after “an appeal tribunal” insert “constituted under Chapter 1 of Part 1 of the Social Security Act 1998”; and
+- (e) in subsection (5) (as it so has effect) after paragraph (d) insert—
+
+  > - (da) any member of staff appointed under section 40(1) of the Tribunals, Courts and Enforcement Act 2007 in connection with the carrying out of any functions in relation to appeals from decisions made under this Act;
+
+  .
+
+**96.**[^key-82996589c6debd765c93665b095b5fca] In section 54 (interpretation)[^f00043] omit the definition of “appeal tribunal”.
+
+**97.**[^key-fd378b695da1b1b04c60c0d3e658cd90] (1) Schedule 4 (Child Support Commissioners)[^f00044] is amended as follows.
+
+(2) In the heading after “Commissioners” insert “for Northern Ireland”.
+
+(3) In paragraph 1—
+
+- (a) in sub-paragraph (1) after “Child Support Commissioner” insert “for Northern Ireland”; and
+- (b) omit sub-paragraphs (3) to (3B).
+
+(4) In paragraph 2—
+
+- (a) in sub-paragraph (1)—
+  - (i) omit “pensions,”; and
+  - (ii) after “Child Support Commissioners” insert “for Northern Ireland”; and
+- (b) in sub-paragraph (2) after “Child Support Commissioner” insert “for Northern Ireland”.
+
+(5) Omit paragraph 2A.
+
+(6) For paragraph 3 substitute—
+
+> **3.** A Child Support Commissioner for Northern Ireland, so long as he holds office as such, shall not practise as a barrister or act for any remuneration to himself as arbitrator or referee or be directly or indirectly concerned in any matter as a conveyancer, notary public or solicitor.
+
+.
+
+(7) In paragraph 4—
+
+- (a) in sub-paragraph (1)—
+  - (i) for “Lord Chancellor” substitute “First Minister and deputy First Minister, acting jointly,”; and
+  - (ii) after “Child Support Commissioners”, in each place, insert “for Northern Ireland”;
+- (b) in sub-paragraph (2) after “Child Support Commissioner” insert “for Northern Ireland”;
+- (c) in sub-paragraph (2) for paragraph (a) (together with the “and” at the end of that paragraph) substitute—
+
+  > - (a) from among persons who are barristers or solicitors of not less than the number of years’ standing specified in section 23(2); and
+
+  ;
+- (d) in sub-paragraph (2)(b) for “Lord Chancellor thinks” substitute “First Minister and deputy First Minister think”;
+- (e) in sub-paragraph (2A) after “Child Support Commissioner” insert “for Northern Ireland”; and
+- (f) for sub-paragraph (3) substitute—
+
+  > (3) Paragraph 2 applies to deputy Child Support Commissioners for Northern Ireland, but paragraph 3 does not apply to them.
+
+(8) Omit paragraphs 4A to 8.
+
+**98.**[^key-de8ec9a9e247979b3fffba03115113e6] In Schedule 4A(departure directions)[^f00045], as it has effect without the substitution made by Part 1 of Schedule 2 to the Child Support, Pensions and Social Security Act 2000—
+
+- (a) omit paragraphs 2(b) and 8(2); and
+- (b) omit paragraph 9.
+
+**99.**[^key-a1cdeace878adb40b4576a4649584757] In Schedule 4A (applications for a variation), as substituted by Part 1 of Schedule 2 to the Child Support, Pensions and Social Security Act 2000, omit paragraphs 2(b) and 5(3).
+
+**100.**[^key-3af8af65d171e30e0a74617b842f1ee5] (1) Schedule 4C (decisions and appeals: departure directions and reduced benefit directions etc)[^f00046] is amended as follows.
+
+(2) In paragraph 1(c) for “an appeal tribunal” substitute “the First-tier Tribunal”.
+
+(3) In paragraph 2 for “an appeal tribunal”, in each place, substitute “the First-tier Tribunal”.
+
+(4) In paragraph 3(2) for “the appeal tribunal” substitute “the First-tier Tribunal”.
+
+(5) In paragraph 4—
+
+- (a) in sub-paragraph (1)(a)(ii) for “an appeal tribunal” substitute “the First-tier Tribunal”;
+- (b) in sub-paragraph (1)(b) for “a Child Support Commissioner” substitute “the Upper Tribunal”; and
+- (c) in sub-paragraph (3)(a)(i) and (b)(i) for “appeal tribunal” substitute “First-tier Tribunal”.
+
+(6) In paragraph 5(1)—
+
+- (a) in paragraph (a) for “an appeal tribunal” substitute “the First-tier Tribunal”; and
+- (b) in paragraph (b) for “a Child Support Commissioner” substitute “the Upper Tribunal”.
+
+(7) In paragraph 6—
+
+- (a) in sub-paragraph (1)(a) for “a Child Support Commissioner” substitute “the Upper Tribunal”; and
+- (b) in sub-paragraph (3) for “an appeal tribunal” substitute “the First-tier Tribunal”.
+
+### 101. Social Security Administration Act 1992[^key-2001e12feab60e3e2511569bc9e2e5ab]
+
+The Social Security Administration Act 1992[^f00047] is amended as follows.
+
+**102.**[^key-ac83e15bfbca09f08ccf2bb22e55328d] In section 2B(6) (supplementary provisions relating to work-focused interviews) for “appeal tribunal” substitute “First-tier Tribunal”.
+
+**103.**[^key-b7b41a4ba7cd4fdb7b73ce86fa3e3d47] In section 71(2) (over-payments—general)—
+
+- (a) for “a tribunal” substitute “the First-tier Tribunal”; and
+- (b) for “a Commissioner” substitute “the Upper Tribunal”.
+
+**104.**[^key-868e2fe163146706f1644fb6019dcc2d] (1) Schedule 4 (persons employed in social security administration or adjudication) is amended as follows.
+
+(2) In Part 1 in the entry headed “*Government departments*” for “Lord Chancellor’s Department” substitute “Ministry of Justice”.
+
+(3) In Part 1 in the entry headed “*Adjudicating bodies*” omit paragraph (a).
+
+(4) In Part 1 in the entry headed “*Former officers*” at the end insert—
+
+> The clerk to, or other officer or member of the staff of, an appeal tribunal.
+>
+> The clerk to, or other officer or member of the staff of, a Pensions Appeal Tribunal for England and Wales.
+
+(5) In paragraph 3 of Part 2—
+
+- (a) for “Lord Chancellor’s Department” substitute “Ministry of Justice”;
+- (b) for “that Department” substitute “that Ministry”;
+- (c) in paragraph (a) after “functions of” insert “the First-tier Tribunal or Upper Tribunal which relate to social security or to occupational or personal pension schemes or to war pensions or functions of”; and
+- (d)[^key-44726b475f0abdd09de40ec71403b9b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) After that paragraph insert—
+
+> **3ZA.** Any reference in Part 1 of this Schedule to the Ministry of Justice includes a reference to—
+>
+> - (a) the former Lord Chancellor’s Department, and
+> - (b) the former Department of Constitutional Affairs,
+>
+> to the extent that the functions carried out by persons in its employ were, or were connected with, functions of the Chief, or any other, Social Security Commissioner (and paragraph 3 above does not apply for the purposes of this paragraph).
+
+.
+
+### 105. Tribunals and Inquiries Act 1992[^key-da63f804388baef50f52cba11a70610a]
+
+The Tribunals and Inquiries Act 1992[^f00048] is amended as follows.
+
+**106.**[^key-e2bb5223982925fd573eb8fa86bf36f0] In section 11(1) (appeals from certain tribunals) omit “, 40B”.
+
+**107.**[^key-5b8691a0821bc46faf587c57cdaaae9d] In Part 1 of Schedule 1 (tribunals under direct supervision of the Council on Tribunals)—
+
+- (a) omit the entry at paragraph 2A relating to asylum-seekers support;
+- (b) omit the entry at paragraph 12 relating to criminal injuries compensation;
+- (c) in the entry relating to pensions, in the second column, omit paragraph 35(a) and (b);
+- (d) omit the entry at paragraph 36B relating to the protection of children and vulnerable adults, and care standards; and
+- (e) in the entry relating to special educational needs and disability discrimination, in the second column, omit paragraph 40B(a).
+
+### 108. Judicial Pensions and Retirement Act 1993[^key-0e0c660133af0d0e1bed04589027e96a]
+
+The Judicial Pensions and Retirement Act 1993[^f00049] is amended as follows.
+
+**109.**[^key-f1f676f3240dbc457384ddd44a4d15fd] In Part 2 of Schedule 1[^f00050] (other appointments – members of tribunals) omit—
+
+- (a) the first entry beginning “Chief or other Child Support Commissioner”;
+- (b) the entry relating to the chairman of a Mental Health Review Tribunal for England;
+- (c) the entry relating to an Asylum Support Adjudicator; and
+- (d) the entry relating to the President of the tribunal constituted under section 9 of the Protection of Children Act 1999 and members of the chairmen’s panel appointed under paragraph 1(1)(b) of the Schedule to that Act.
+
+**110.**[^key-96d1fd99f9dad49c3d211a0b90c9e9e7] In Schedule 5[^f00051] (retirement provisions: the relevant offices) omit—
+
+- (a) the first entry beginning “Chief or other Child Support Commissioner”;
+- (b) the entry relating to an Asylum Support Adjudicator; and
+- (c) the entry relating to the President of the tribunal constituted under section 9 of the Protection of Children Act 1999 and members of the chairmen’s panel appointed under paragraph 1(1)(b) of the Schedule to that Act.
+
+### 111. Pensions Schemes Act 1993[^key-b177d687e960632cb187ba6fb9d2c122]
+
+The Pensions Schemes Act 1993[^f00052] is amended as follows.
+
+**112.**[^key-e46917497f3b02906faede5aca680763] In section 170(6) (decisions and appeals) for “appeal tribunal” substitute “First-tier Tribunal”.
+
+**113.**[^key-76acbc7071144b214fdeb66251862bde] In section 171A(1) (reports by Inland Revenue) for “an appeal tribunal constituted under Chapter I of Part I of the Social Security Act 1998” substitute “the First-tier Tribunal”.
+
+### 114. Disability Discrimination Act 1995[^key-0ed26089408bbd2088d6b25fac9ec2d4]
+
+The Disability Discrimination Act 1995[^f00053] is amended as follows.
+
+**115.**[^key-61f7adeac1706693bc608e01c99a1dd4] In section 28H (tribunals)—
+
+- (a) omit subsection (1);
+- (b) in subsection (2) omit the definition of “the Tribunal” (together with the “and” following that definition); and
+- (c) in subsection (3)—
+  - (i) for “those tribunals” substitute “the Welsh Tribunal”; and
+  - (ii) for “each of them” substitute “the Welsh Tribunal”.
+
+**116.**[^key-2849b0fd4cc3ccfadb49bd448d307835] In section 28I(5)(a) (jurisdiction and powers of the Tribunal) for “Tribunal” substitute “First-tier Tribunal”.
+
+**117.**[^key-1e8b8f7a58a94051e35cd91555eb4996] In section 28J (procedure)—
+
+- (a) in subsection (1)—
+  - (i) after “Regulations may” insert “, with the agreement of the Welsh Ministers,”;
+  - (ii) in paragraph (a) before “Tribunal” insert “Welsh”; and
+  - (iii) in paragraph (b) after “claim” insert “to the Welsh Tribunal”;
+- (b) in subsection (2)(b) and (k) before “Tribunal” insert “Welsh”;
+- (c) omit subsection (2A);
+- (d) in subsection (3) omit “the Tribunal or”;
+- (e) in subsection (5)—
+  - (i) after “State may” insert “, with the agreement of the Welsh Ministers,”; and
+  - (ii) omit “the Tribunal or”;
+- (f) omit subsection (6);
+- (g) in subsection (7) omit “the Tribunal or”;
+- (h) in subsection (8)(b) for “Tribunal” substitute “First-tier Tribunal”;
+- (i) after subsection (9) insert—
+
+  > (9A) A person who without reasonable excuse fails to comply with a requirement which—
+  >
+  > - (a) is imposed by Tribunal Procedure Rules in relation to claims of unlawful discrimination under this Chapter made to the First-tier Tribunal, and
+  > - (b) corresponds to a requirement mentioned in subsection (9)(a) or (b),
+  >
+  > is guilty of an offence.
+
+  ; and
+- (j) in subsection (10) after “subsection (9)” insert “or (9A)”.
+
+**118.**[^key-d557be8a89c59a5bed55c4787796b4c0] After section 28J insert—
+
+> **28JA. Appeal from the Welsh Tribunal to the Upper Tribunal**
+>
+> (1) A party to any proceedings under this Chapter before the Welsh Tribunal may appeal to the Upper Tribunal on any point of law arising from a decision made by the Welsh Tribunal in those proceedings.
+>
+> (2) An appeal may be brought under subsection (1) only if, on an application made by the party concerned, the Welsh Tribunal or the Upper Tribunal has given its permission for the appeal to be brought.
+>
+> (3) Section 12 of the Tribunals, Courts and Enforcement Act 2007 (proceedings on appeal to Upper Tribunal) applies in relation to appeals to the Upper Tribunal under this section as it applies in relation to appeals to it under section 11 of that Act, but as if references to the First-tier Tribunal were references to the Welsh Tribunal.
+
+**119.**[^key-856824ecc414cf541c0e23d82e1517e2] In section 28M(5) (roles of the Secretary of State and the Welsh Ministers) for “Tribunal” substitute “First-tier Tribunal”.
+
+**120.**[^key-1e4896e463e41b5fff999f0bee8b4743] In section 28N(5)(b) (civil proceedings: Scotland) for “Tribunal” substitute “First-tier Tribunal”.
+
+**121.**[^key-50ca279dec5f1f0173368fe19a79004e] In paragraph 10 of Part 3 of Schedule 3 (discrimination in schools) in sub-paragraphs (1), (3) and (4) omit “Tribunal or the”.
+
+### 122. Criminal Injuries Compensation Act 1995[^key-c98374141f1cd5b71ce8bb4f69c66f99]
+
+The Criminal Injuries Compensation Act 1995[^f00054] is amended as follows.
+
+**123.**[^key-90496a3cec0c56efddb1d0b6656fe7b5] In section 1(4) (the Criminal Injuries Compensation Scheme) omit the definition of “adjudicator”.
+
+**124.**[^key-7f23ad4c62108d84fb70c02385910e06] In section 5 (appeals)—
+
+- (a) for subsections (1) to (7) substitute—
+
+  > (1) The Scheme shall include provision for rights of appeal to the First-tier Tribunal against decisions taken on reviews under provisions of the Scheme made by virtue of section 4.
+
+  ; and
+- (b) in subsection (9) for “adjudicator or adjudicators” substitute “First-tier Tribunal”.
+
+**125.**[^key-99534969402a307427f3e71d5a627e8d] In section 9 (financial provisions)—
+
+- (a) in subsection (1) omit “(other than adjudicators)”; and
+- (b) omit subsections (2) and (3).
+
+**126.**[^key-8b530399a9e9c7dc7917fb5606be96d1] In section 11(4) (parliamentary control) omit paragraph (b) (together with the “or” immediately before it).
+
+### 127. Education Act 1996[^key-0c978cc7a454dcfa4251422a61e8e980]
+
+The Education Act 1996[^f00055] is amended as follows.
+
+**128.**[^key-e617e00695190247baf08d1505362d1d] In section 313(5) (code of practice)—
+
+- (a) omit “(except sections 333 to 336)”; and
+- (b) in paragraph (a) for “the Special Educational Needs and Disability Tribunal” substitute “the First-tier Tribunal”.
+
+**129.**[^key-c1ba3895955a95952c7e46eae37e264e] In section 326A(6) (unopposed appeals)—
+
+- (a) in paragraph (a) for “to the Special Educational Needs and Disability Tribunal” substitute “against a decision of a local education authority in England”; and
+- (b) in paragraph (b) for “to the Special Educational Needs Tribunal for Wales, by the National Assembly for Wales” substitute “against a decision of a local education authority in Wales, by the Welsh Ministers”.
+
+**130.**[^key-660a2531bf4f0c087bc8a79f3265dd47] In section 333 (constitution of tribunal)—
+
+- (a) in the title before “Tribunal” insert “Welsh”;
+- (b) omit subsection (1Z);
+- (c) after that subsection insert—
+
+  > (1ZA) There continues to be a tribunal known as Tribiwnlys Anghenion Addysgol Arbennig Cymru or the Special Educational Needs Tribunal for Wales.
+  >
+  > (1ZB) In this section and sections 334 to 336ZB “Welsh Tribunal” means Tribiwnlys Anghenion Addysgol Arbennig Cymru or the Special Educational Needs Tribunal for Wales.
+
+  ;
+- (d) in subsections (1), (2)(a) to (c) and (5)(a) and (b) before “Tribunal” insert “Welsh”;
+- (e) in subsection (4) after “appointed by” insert “the Welsh Ministers with the agreement of”;
+- (f) in subsection (5)—
+  - (i) for “Regulations may” substitute “Regulations made by the Welsh Ministers with the agreement of the Secretary of State may”; and
+  - (ii) in paragraph (b) for “Secretary of State considers” substitute “Welsh Ministers , with the agreement of the Secretary of State, consider”; and
+- (g) for subsection (6) substitute—
+
+  > (6) The Welsh Ministers may provide such staff and accommodation as the Welsh Tribunal may require.
+
+**131.**[^key-3752925a76991b656e837324391af27c] In section 334 (the President and members of the panels)—
+
+- (a) in subsection (2) after “prescribed” insert “in regulations made by the Welsh Ministers with the agreement of the Secretary of State”; and
+- (b) in subsection (5)(a) for “Secretary of State” substitute “Welsh Ministers”.
+
+**132.**[^key-652fdb86575339b946cf4e5c62a4a75d] For section 335(1) and (2) (remuneration and expenses) substitute—
+
+> (1) The Welsh Ministers may pay to the President, and to any other person in respect of his service as a member of the Welsh Tribunal, such remuneration and allowances as the Welsh Ministers may determine.
+>
+> (2) The Welsh Ministers may defray the expenses of the Welsh Tribunal to such amount as they may determine.
+
+**133.**[^key-e865e1e376f4bab63be173fc5e7d29f1] In section 336 (tribunal procedure)—
+
+- (a) in subsection (1)—
+  - (i) after “Regulations” insert “made by the Welsh Ministers”, and
+  - (ii) before “Tribunal” insert “Welsh”;
+- (b) in subsection (2)—
+  - (i) in paragraphs (b) and (o) before “Tribunal” insert “Welsh”; and
+  - (ii) in paragraph (j) for “prescribed circumstances” substitute “circumstances prescribed in the regulations”;
+- (c) in subsection (2A)—
+  - (i) before “Tribunal” insert “Welsh”; and
+  - (ii) for “prescribed circumstances” substitute “circumstances prescribed in the regulations”;
+- (d) for subsection (3) substitute—
+
+  > (3) The Welsh Ministers may pay such allowances for the purpose of or in connection with the attendance of persons at the Welsh Tribunal as the Welsh Ministers may determine.
+
+  ;
+- (e) in subsection (4)—
+  - (i) before “Tribunal” insert “Welsh”; and
+  - (ii) after “regulations” insert “made by the Welsh Ministers”;
+- (f) in subsection (4A)—
+  - (i) for “The regulations” substitute “Regulations made under subsection (1)”; and
+  - (ii) for “prescribed circumstances” substitute “circumstances prescribed in the regulations”;
+- (g) after subsection (5) insert—
+
+  > (5A) Any person who without reasonable excuse fails to comply with any requirement which—
+  >
+  > - (a) is imposed by Tribunal Procedure Rules in relation to appeals under this Part made to the First-Tier Tribunal, and
+  > - (b) corresponds to a requirement mentioned in subsection (5)(a) or (b),
+  >
+  > is guilty of an offence.
+
+  ; and
+- (h) in subsection (6) after “subsection (5)” insert “or (5A)”.
+
+**134.**[^key-4680b9112a9934ecacd519be55742c9b] Omit section 336ZA (Special Educational Needs Tribunal for Wales).
+
+**135.**[^key-5618f1b4f9f232a7016de5ad0d98f06a] After that section insert—
+
+> **336ZB. Appeals from the Welsh Tribunal to the Upper Tribunal**
+>
+> (1) A party to any proceedings under this Part before the Welsh Tribunal may appeal to the Upper Tribunal on any point of law arising from a decision made by the Welsh Tribunal in those proceedings.
+>
+> (2) An appeal may be brought under subsection (1) only if, on an application made by the party concerned, the Welsh Tribunal or the Upper Tribunal has given its permission for the appeal to be brought.
+>
+> (3) Section 12 of the Tribunals, Courts and Enforcement Act 2007 (proceedings on appeal to Upper Tribunal) applies in relation to appeals to the Upper Tribunal under this section as it applies in relation to appeals to it under section 11 of that Act, but as if references to the First-tier Tribunal were references to the Welsh Tribunal.
+
+**136.**[^key-313e898101795307ef1c35e40aa4490e] In section 336A(2) (compliance with orders)—
+
+- (a) in paragraph (a) for “the Special Educational Needs and Disability Tribunal” substitute “the First-tier Tribunal”; and
+- (b) in paragraph (b) for “the Special Educational Needs Tribunal for Wales, by the National Assembly for Wales” substitute “the Welsh Tribunal, by the Welsh Ministers”.
+
+### 137. Employment Tribunals Act 1996[^key-b93c92f711d5203346ba27fcfccc7d6c]
+
+In section 16(5)(d) of the Employment Tribunals Act 1996 (power to provide for recoupment of social security benefits)[^f00056] for “an appeal tribunal constituted under Chapter 1 of Part 1 of the Social Security Act 1998” substitute “the First-tier Tribunal”.
+
+### 138. Social Security (Recovery of Benefits) Act 1997[^key-99300fe8ed208ea136c24aa494efbd53]
+
+The Social Security (Recovery of Benefits) Act 1997[^f00057] is amended as follows.
+
+**139.**[^key-9eba8517a2dcc19b85c9a065f0a2a4ec] In section 11(5) (appeals against certificates of recoverable benefits) omit paragraph (b) (but not the “and” at the end of that paragraph).
+
+**140.**[^key-e0bce7af11c944d6cf6f3ca05ab9db4f] In section 12 (reference of questions to medical appeal tribunal)—
+
+- (a) in the heading for “medical appeal tribunal” substitute “First-tier Tribunal”; and
+- (b) in subsections (1) and (4) for “an appeal tribunal” substitute “the First-tier Tribunal”.
+
+**141.**[^key-3014e953ffb281205d032bb5585a4871] In section 13 (appeal to Social Security Commissioner)—
+
+- (a) in the heading for “Social Security Commissioner” substitute “Upper Tribunal”;
+- (b) omit subsection (1);
+- (c) in subsection (2) for “under this section” substitute “to the Upper Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007 which arises from any decision of the First-Tier Tribunal made under section 12 of this Act”; and
+- (d) omit subsection (3).
+
+**142.**[^key-5d4d706a8c76553e52ec940ec26a4e52] In section 29 (general interpretation) omit the definitions of “appeal tribunal” and “Commissioner”.
+
+### 143. Social Security Act 1998[^key-2f9a0c1cac6b7fe5d1ef2a635879cd37]
+
+The Social Security Act 1998[^f00058] is amended as follows.
+
+**144.**[^key-12d1c1d74af5301b902ec2834e8f1e3e] Omit section 4 (unified appeal tribunals).
+
+**145.**[^key-85d77ffe6a0be52f42e8242c3a3b6a4b] Omit section 5 (President of appeal tribunals)[^f00059].
+
+**146.**[^key-92fa46edccc13fff5a9fb90f23dcd365] Omit section 6 (panel for appointment to appeal tribunals).
+
+**147.**[^key-6822e0bbc34c71dbcf61b98bbd945058] Omit section 7 (constitution of appeal tribunals).
+
+**148.**[^key-c76f4da681b6d60f252aac63d19e672c] In section 10(1)(b) (decisions superseding earlier decisions) for “of an appeal tribunal or a Commissioner” substitute “of the First-tier Tribunal or any decision of the Upper Tribunal which relates to any such decision”.
+
+**149.**[^key-35314505fd09eb3bcc16a38ca6259138] In section 12 (appeal to appeal tribunal)[^f00060]—
+
+- (a) in the heading for “appeal tribunal” substitute “First-tier Tribunal”; and
+- (b) in subsections (2), (4), (5) and (8) for “an appeal tribunal” substitute “the First-tier Tribunal”.
+
+**150.**[^key-7e5f1aaa9960b9567609a222b4fa3399] In section 13 (redetermination etc of appeals by tribunal)[^f00061]—
+
+- (a) in subsection (1) for the words from “to a person” to the end substitute “to the First-tier Tribunal for permission to appeal to the Upper Tribunal from any decision of the First-tier Tribunal under section 12 or this section”;
+- (b) omit subsection (2); and
+- (c) in subsection (3)—
+  - (i) for “the person” substitute “the First-tier Tribunal”; and
+  - (ii) for “tribunal” substitute “First-tier Tribunal”.
+
+**151.**[^key-a5242e81e245882705f6a3bb1b691e7b] In section 14 (appeal from tribunal to Commissioner)[^f00062]—
+
+- (a) in the heading for “tribunal to Commissioner” substitute “First-tier Tribunal to Upper Tribunal”;
+- (b) omit subsection (1);
+- (c) in subsections (3) and (4) for “lies under this section” substitute “to the Upper Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007 from any decision of the First-Tier Tribunal under section 12 or 13 above lies”; and
+- (d) omit subsections (7) to (12).
+
+**152.**[^key-c19dec06897273c346d9f2144aea1068] In section 15 (appeal from Commissioner on point of law)—
+
+- (a) for the heading substitute “Applications for permission to appeal against a decision of the Upper Tribunal”;
+- (b) omit subsections (1) and (2);
+- (c) in subsection (3)—
+  - (i) for “An application for leave under this section in respect of a Commissioner’s decision” substitute “An application for permission to appeal from a decision of the Upper Tribunal in respect of a decision of the First-tier Tribunal under section 12 or 13”;
+  - (ii) in paragraph (a) for “Commissioner”, in both places, substitute “Upper Tribunal”;
+  - (iii) in that paragraph for “Commissioner’s” substitute “Upper Tribunal’s”;
+  - (iv) in paragraph (c) for “leave” substitute “permission”; and
+  - (v) omit the words from “and regulations” to the end; and
+- (d) omit subsections (4) and (5).
+
+**153.**[^key-ba35d8e1d57fd680a5077750482375fa] After section 15 insert—
+
+> **15A.** Functions of Senior President of Tribunals
+>
+> (1) The Senior President of Tribunals shall ensure that appropriate steps are taken by the First-tier Tribunal to secure the confidentiality, in such circumstances as may be prescribed, of any prescribed material, or any prescribed classes or categories of material.
+>
+> (2) Each year the Senior President of Tribunals shall make to the Secretary of State and the Child Maintenance and Enforcement Commission a written report, based on the cases coming before the First-tier Tribunal, on the standards achieved by the Secretary of State and the Child Maintenance and Enforcement Commission in the making of decisions against which an appeal lies to the First-tier Tribunal.
+>
+> (3) The Lord Chancellor shall publish the report.
+
+.
+
+**154.**[^key-9f5ad3d16cd7ac21621738261860bbc9] In section 16 (procedure) omit subsections (2), (3)(a) (together with the “and” at the end of that paragraph) and (6) to (9).
+
+**155.**[^key-5763276810151f4556280afbe890914a] In section 17(1) (finality of decisions) after “this Chapter”, in the first place where it occurs, insert “and to any provision made by or under Chapter 2 of Part 1 of the Tribunals, Courts and Enforcement Act 2007”.
+
+**156.**[^key-08ce682616bb4163d64ef7bac92ecf5f] In section 18(1)(a) (matters arising as respects decisions) for “, an appeal tribunal or a Commissioner” substitute “or the First-tier Tribunal, or any decision of the Upper Tribunal which relates to any decision under this Chapter of the First-Tier Tribunal,”.
+
+**157.**[^key-4818ed7afa0ab2f82d28f65e637609fd] In section 20 (medical examination required by appeal tribunal)—
+
+- (a) in subsection (2)—
+  - (i) for “An eligible person may, if prescribed conditions” substitute “The First-tier Tribunal may, if conditions prescribed by Tribunal Procedure Rules”;
+  - (ii) for “the eligible person” substitute “the First-tier Tribunal”;
+  - (iii) for “an appeal tribunal” substitute “it”; and
+  - (iv) omit the second sentence beginning “In this subsection”; and
+- (b) in subsection (3) for “an appeal tribunal, except in prescribed cases or circumstances,” substitute “the First-tier Tribunal, except in cases or circumstances prescribed by Tribunal Procedure Rules,”.
+
+**158.**[^key-247ed284a27cce7dbbadb791987122de] After section 20 insert—
+
+> **20A.** Travelling and other allowances
+>
+> (1) The Lord Chancellor may pay to any person required under this Part (whether for the purposes of this Part or otherwise) to attend for or to submit to medical or other examination or treatment such travelling and other allowances as the Lord Chancellor may determine.
+>
+> (2) In subsection (1) the reference to travelling and other allowances includes compensation for loss of remunerative time but such compensation shall not be paid to any person in respect of any time during which the person is in receipt of remuneration under section 28 of, or paragraph 5 of Schedule 2 to, the Tribunals, Courts and Enforcement Act 2007 (assessors and judges of First-Tier Tribunal).
+
+.
+
+**159.**[^key-4b09235328693448415b80592c0b6ee7] In section 21 (suspension in prescribed cases)—
+
+- (a) in subsection (2)—
+  - (i) in paragraph (c) for “an appeal tribunal, a Commissioner” substitute “the First-tier Tribunal, the Upper Tribunal”; and
+  - (ii) in paragraph (d) for “a Commissioner” substitute “the Upper Tribunal”; and
+- (b) in subsection (3)(b) and (c) for “leave” substitute “permission”.
+
+**160.**[^key-b58ef8144944da5eced20d2f51ed4c11] In section 24A (appeals dependent on issues falling to be decided by Inland Revenue)[^f00063]—
+
+- (a) in subsection (1) for “an appeal tribunal or Commissioner” substitute “the First-tier Tribunal or Upper Tribunal”; and
+- (b) in subsection (2)(c)(iii) for “appeal tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”.
+
+**161.**[^key-1389856d5e1f5447a3c86fe27d81e53e] In section 25(1)(b) (decisions involving issues that arise on appeal in other cases) for “a Commissioner” substitute “the Upper Tribunal”.
+
+**162.**[^key-51ff6f11aa1534eab561f057998ad00b] (1) Section 26 (appeals involving issues that arise on appeal in other cases) is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) in paragraph (a) for “an appeal tribunal, or from an appeal tribunal to a Commissioner” substitute “the First-tier Tribunal, or from the First-tier Tribunal to the Upper Tribunal”; and
+- (b) in paragraph (b) for “a Commissioner” substitute “the Upper Tribunal”.
+
+(3) In subsection (2) for “tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”.
+
+(4) In subsection (3)(a) and (b) for “tribunal” substitute “First-tier Tribunal”.
+
+(5) In subsection (4)—
+
+- (a) for “appeal tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”; and
+- (b) in paragraph (b) for “tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”.
+
+(6) In subsection (5)—
+
+- (a) for “appeal tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”; and
+- (b) for “tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”.
+
+(7) In subsection (7)(a) for “a Commissioner”, in both places, substitute “the Upper Tribunal”.
+
+**163.**[^key-48fa31db81268805b789e5ed0be38c75] In section 27 (restrictions on entitlement to benefit in certain cases of error)—
+
+- (a) in subsections (1)(a) and (10)(a) and (b) for “a Commissioner” substitute “the Upper Tribunal”; and
+- (b) in subsection (3) for “the Commissioner” substitute “the Upper Tribunal”.
+
+**164.**[^key-38a32e351fd330c6e52ec0bf9d2da231] In section 28 (correction of errors and setting aside of decisions)[^f00064]—
+
+- (a) in subsection (1)—
+  - (i) in paragraph (a) after “decision”, in both places, insert “of the Secretary of State”; and
+  - (ii) omit paragraph (b) (together with the “and” immediately before it);
+- (b) in subsection (1A) after “not include” insert “any decision of the First-tier Tribunal or”; and
+- (c) in subsection (2) omit “or set aside decisions”.
+
+**165.**[^key-6780f9f7fc18bca26710fe868e52ac44] In section 29(3) (decision that accident is an industrial accident), for “, an appeal tribunal or a Commissioner” substitute “, the First-tier Tribunal or the Upper Tribunal”.
+
+**166.**[^key-2f91d331543c32048b8da6a893652908] Before section 39 insert—
+
+> **39ZA. Certificates**
+>
+> - A document bearing a certificate which—
+>   - (a) is signed by a person authorised in that behalf by the Secretary of State, and
+>   - (b) states that the document, apart from the certificate, is a record of a decision of an officer of the Secretary of State,
+> - shall be conclusive evidence of the decision; and a certificate purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+
+.
+
+**167.**[^key-1b1f40839ad5b02b3bd42314f189c77b] In section 39(1) (interpretation etc of Chapter 2) omit the definitions of “appeal tribunal” and “Commissioner”.
+
+**168.**[^key-9bd66089799a12c34fa91d11ff6c6146] In section 79 (regulations and orders)—
+
+- (a) in subsection (1) for the words from the beginning to “to this Act,” substitute “Subject to subsection (2A) below,”; and
+- (b) omit subsections (2) and (9).
+
+**169.**[^key-5b610778614038c7540d3341b105d5c9] In section 80 (Parliamentary control of regulations)[^f00065]—
+
+- (a) in subsection (1)(a) omit “7, ”;
+- (b) in subsection (1)(b)—
+  - (i) omit “paragraph 12 of Schedule 1,”; and
+  - (ii) omit “or paragraph 2 of Schedule 5”; and
+- (c) omit subsections (3) and (4).
+
+**170.**[^key-7c8a2daa2e8ad76a06a11271b955f8dd] In section 81(1) (reports by Secretary of State) for “an appeal tribunal constituted under Chapter 1 of Part 1” substitute “the First-tier Tribunal”.
+
+**171.**[^key-19bf59be62aa6ad8821fc917507839ea] Omit Schedule 1 (appeal tribunals: supplementary provisions)[^f00066].
+
+**172.**[^key-6f45d9f7a9ff28bfa413d118b2cd2b7d] Omit Schedule 4 (Social Security Commissioners)[^f00067].
+
+**173.**[^key-36dc517c4b610488b0d8bda3d0c15232] In Schedule 5 (regulations as to procedure: provision which may be made)—
+
+- (a) in paragraph 1(a) and (b) omit “, an appeal tribunal or a Commissioner”; and
+- (b) omit paragraphs 2 and 5 to 8.
+
+### 174. Protection of Children Act 1999[^key-b752a670da119dd4cd6212dc20f59524]
+
+The Protection of Children Act 1999[^f00068] is amended as follows.
+
+**175.**[^key-0813711205f8f7ca1ea2c7b73af9c180] In section 9 (the tribunal)—
+
+- (a) omit subsection (1);
+- (b) in subsection (2) for the words from the beginning to “Tribunal” substitute “Tribunal Procedure Rules may make any provision within subsection (3) in relation to the proceedings of the First-tier Tribunal (“the Tribunal”)—”;
+- (c) for subsection (3) substitute—
+
+  > (3) The provision within this subsection is provision—
+  >
+  > - (a) as to the circumstances in which applications for permission may be made; or
+  > - (b) for obtaining a medical report in a case where the decision appealed against was made on medical grounds.
+
+  ;
+- (d) in subsection (3A) (as that subsection has effect before the commencement of its repeal by paragraph 8(3)(c) of Schedule 9 to the Safeguarding Vulnerable Groups Act 2006[^f00069])—
+  - (i) for “The regulations” substitute “Tribunal Procedure Rules”; and
+  - (ii) omit “; and the provision that may be made by virtue of subsection (3)(j) and (k) above includes provision in relation to such investigations”;
+- (e) omit subsection (3B);
+- (f) for subsection (3C) substitute—
+
+  > (3C) Before making in Tribunal Procedure Rules provision within subsection (3) in relation to proceedings of the Tribunal on an appeal or determination within subsection (2)(c) or (d), the Tribunal Procedure Committee must consult the Welsh Ministers.
+
+  ;
+- (g) omit subsection (4);
+- (h) for subsection (5) substitute—
+
+  > (5) Any person who without reasonable excuse fails to comply with any requirement—
+  >
+  > - (a) which is imposed by Tribunal Procedure Rules in relation to any of the proceedings of the Tribunal mentioned in subsection (2) above, and
+  > - (b) which is—
+  >   - (i) a requirement imposing reporting restrictions,
+  >   - (ii) a requirement in respect of the discovery or inspection of documents of a kind which could be imposed by a county court, or
+  >   - (iii) a requirement for persons to attend to give evidence or produce documents,
+  >
+  > is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+  ; and
+- (i) omit subsections (6) and (7).
+
+**176.**[^key-c978082a775d68c85c71f8250f01b756] In section 12(1) (interpretation) in the definition of “Tribunal” (as that definition has effect before the commencement of its repeal by paragraph 8(4)(a) of Schedule 9 to the Safeguarding Vulnerable Groups Act 2006) for “tribunal established under section 9 above” substitute “First-tier Tribunal”.
+
+**177.**[^key-75cad3c7320cfad41ed689d2c8dec494] Omit the Schedule (the tribunal).
+
+### 178. Access to Justice Act 1999[^key-588bc0116ec071faf901c05b94aee64d]
+
+In paragraph 2(1) of Schedule 2 to the Access to Justice Act 1999[^f00070] (Community Legal Service: excluded services) for paragraph (g) substitute—
+
+> - (g) the First-tier Tribunal under any provision of the Mental Health Act 1983 or paragraph 5(2) of the Schedule to the Repatriation of Prisoners Act 1984, or the Mental Health Review Tribunal for Wales,
+> - (ga) the Upper Tribunal arising out of proceedings within paragraph (g),
+
+.
+
+### 179. Immigration and Asylum Act 1999[^key-3d884014697251b6eca7300aadeed821]
+
+The Immigration and Asylum Act 1999[^f00071] is amended as follows.
+
+**180.**[^key-8fee6f108d4e65e9d1bbf1c0f76929b8] In section 94(1) (interpretation of Part 6) omit the definition of “adjudicator”.
+
+**181.**[^key-e3deeacf9f39052dbb3a95dfd53a33e4] Omit section 102 (Asylum Support Adjudicators).
+
+**182.**[^key-3846f62379789e0e9caf158121378649] In section 103 (appeals) as it has effect before the commencement of section 53 of the Nationality, Immigration and Asylum Act 2002[^f00072]—
+
+- (a) in subsections (1), (2), (2A) and (7) for “an adjudicator” substitute “the First-tier Tribunal”;
+- (b) in subsections (3) and (5) for “adjudicator” substitute “First-tier Tribunal”;
+- (c) in subsection (3)(b) for “his” substitute “its”; and
+- (d) omit subsection (4).
+
+**183.**[^key-73d84dc53fccd01a8519e51a7c257f29] In section 103 (appeals) as it has effect after the commencement of section 53 of the Nationality, Immigration and Asylum Act 2002—
+
+- (i) in subsections (2), (3) and (5) for “an adjudicator” substitute “the First-tier Tribunal”;
+- (ii) in subsection (5)(b) for “his” substitute “its”; and
+- (iii) omit subsection (6).
+
+**184.**[^key-97ce789657ae339c0b07a1f4b81a84a9] In section 103A(1) (appeals: location of support under section 4 or 95) for “an adjudicator” substitute “the First-tier Tribunal”.
+
+**185.**[^key-43562defa54fe4790731ad8a35324559] Omit section 104 (Lord Chancellor’s rules).
+
+**186.**[^key-128dd35ec1622c0dbc4300bf83964c35] Omit Schedule 10 (Asylum Support Adjudicators).
+
+### 187. Care Standards Act 2000[^key-54ef844dcab595d8746485c6bdf38d22]
+
+In section 121(1) of the Care Standards Act 2000[^f00073] (general interpretation) in the definition of “the Tribunal” for “tribunal established by section 9 of the 1999 Act” substitute “First-tier Tribunal”.
+
+### 188. Freedom of Information Act 2000[^key-ee17adfe3ba305e08e32205e0bdc1815]
+
+In Part 6 of Schedule 1 of the Freedom of Information Act 2000[^f00074] (public bodies and offices) omit the entry relating to the Criminal Injuries Compensation Appeals Panel.
+
+### 189. Criminal Justice and Court Services Act 2000[^key-a095c53f114818efdab13508f03d1d75]
+
+In section 42(1) of the Criminal Justice and Court Services Act 2000[^f00075] (interpretation of Part 2) in the definition of “the Tribunal” for “tribunal established by section 9 of the Protection of Children Act 1999” substitute “First-tier Tribunal”.
+
+### 190. Child Support, Pensions and Social Security Act 2000[^key-d0b1e2c29f61990578035e2528d3d0d3]
+
+(1) Schedule 7 to the Child Support, Pensions and Social Security Act 2000[^f00076] (housing benefit and council tax benefit: revisions and appeals) is amended as follows.
+
+(2) In paragraph 4 (decisions superseding earlier decisions)—
+
+- (a) in sub-paragraph (1)(b) for “of an appeal tribunal or a Commissioner” substitute “of the First-tier Tribunal or any decision of the Upper Tribunal which relates to any such decision”; and
+- (b) in sub-paragraph (2)—
+  - (i) for “tribunal” substitute “First-tier Tribunal”; and
+  - (ii) for “Commissioner” substitute “Upper Tribunal”.
+
+(3) In paragraph 6 (appeal to appeal tribunal)—
+
+- (a) in the heading for “appeal tribunal” substitute “First-tier Tribunal”; and
+- (b) in sub-paragraphs (3), (6) and (9) for “an appeal tribunal” substitute “the First-tier Tribunal”.
+
+(4) In paragraph 7 (redetermination etc of appeals by tribunal)—
+
+- (a) in sub-paragraph (1) for the words from “to a person” to the end substitute “to the First-tier Tribunal for permission to appeal to the Upper Tribunal from any decision of the First-tier Tribunal under paragraph 6”;
+- (b) omit sub-paragraph (2); and
+- (c) in sub-paragraph (3)—
+  - (i) for “the person” substitute “the First-tier Tribunal”; and
+  - (ii) for “tribunal” substitute “First-tier Tribunal”.
+
+(5) In paragraph 8 (appeal from tribunal to Commissioner)—
+
+- (a) in the heading for “tribunal to Commissioner” substitute “First-tier Tribunal to Upper Tribunal”;
+- (b) omit sub-paragraph (1);
+- (c) in sub-paragraph (2)—
+  - (i) for “lies under this paragraph” substitute “to the Upper Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007 from any decision of the First-tier Tribunal under paragraph 6 or 7 lies”; and
+  - (ii) in paragraph (c) for “appeal tribunal” substitute “First-tier Tribunal”; and
+- (d) omit sub-paragraphs (3) to (8).
+
+(6) In paragraph 9 (appeal from Commissioner on point of law)—
+
+- (a) for the heading substitute “Applications for permission to appeal against a decision of the Upper Tribunal”;
+- (b) omit sub-paragraphs (1) and (2); and
+- (c) in sub-paragraph (3)—
+  - (i) for “An application for leave under this paragraph in respect of a Commissioner’s decision” substitute “An application for permission to appeal from a decision of the Upper Tribunal in respect of a decision of the First-tier Tribunal under paragraph 6 or 7”;
+  - (ii) in paragraph (a) for “Commissioner”, in both places, substitute “Upper Tribunal”;
+  - (iii) in paragraphs (a) and (b) for “Commissioner’s” substitute “Upper Tribunal’s”;
+  - (iv) in paragraph (c) for “leave” substitute “permission”; and
+  - (v) omit the words from “and regulations” to the end; and
+- (d) omit sub-paragraphs (4) and (5).
+
+(7) In paragraph 10 (procedure) omit sub-paragraphs (2) to (8).
+
+(8) In paragraph 11 (finality of decisions) after “Subject to the provisions of this Schedule” insert “and to any provision made by or under Chapter 2 of Part 1 of the Tribunals, Courts and Enforcement Act 2007”.
+
+(9) In paragraph 12(a) (matters arising as respects decisions) for “, an appeal tribunal or a Commissioner” substitute “or the First-tier Tribunal, or any decision of the Upper Tribunal which relates to any decision under this Schedule of the First-Tier Tribunal,”.
+
+(10) In paragraph 13 (suspension in prescribed circumstances)—
+
+- (a) in sub-paragraph (2)—
+  - (i) in paragraph (c) for “an appeal tribunal, a Commissioner” substitute “the First-tier Tribunal, the Upper Tribunal”; and
+  - (ii) in paragraph (d) for “a Commissioner” substitute “the Upper Tribunal”; and
+- (b) in sub-paragraph (3)(b) and (c) for “leave” substitute “permission”.
+
+(11) In paragraph 16(1)(b) (decisions involving issues that arise on appeal in other cases) for “a Commissioner” substitute “the Upper Tribunal”.
+
+(12) In paragraph 17 (appeals involving issues that arise on appeal in other cases)—
+
+- (a) in sub-paragraph (1)—
+  - (i) in paragraph (a) for “an appeal tribunal, or from an appeal tribunal to a Commissioner” substitute “the First-tier Tribunal, or from the First-tier Tribunal to the Upper Tribunal”; and
+  - (ii) in paragraph (b) for “a Commissioner” substitute “the Upper Tribunal”;
+- (b) in sub-paragraph (2) for “tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”;
+- (c) in sub-paragraph (3)(a) and (b) for “tribunal” substitute “First-tier Tribunal”;
+- (d) in sub-paragraph (4)—
+  - (i) for “appeal tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”; and
+  - (ii) in paragraph (b) for “tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”;
+- (e) in sub-paragraph (5)—
+  - (i) for “appeal tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”; and
+  - (ii) for “tribunal or Commissioner” substitute “First-tier Tribunal or Upper Tribunal”; and
+- (f) in sub-paragraph (7)(a) for “a Commissioner”, in both places, substitute “the Upper Tribunal”.
+
+(13) In paragraph 18 (restrictions on entitlement to benefit in certain cases of error)—
+
+- (a) in sub-paragraph (1)(a) for “by virtue of this Schedule to a Commissioner” substitute “to the Upper Tribunal”;
+- (b) in sub-paragraph (3) for “the Commissioner” substitute “the Upper Tribunal”; and
+- (c) in sub-paragraph (9)(a) and (b) for “a Commissioner” substitute “the Upper Tribunal”.
+
+(14) In paragraph 19(1) (correction of errors and setting aside of decisions)—
+
+- (a) in sub-paragraph (1)—
+  - (i) in paragraph (a) after “record of a decision made” insert “by the relevant authority”; and
+  - (ii) omit paragraph (b) (together with the “and” immediately before it); and
+- (b) in sub-paragraph (2) omit “or set aside decisions”.
+
+(15) In paragraph 20 (regulations)—
+
+- (a) in paragraph (1) for the words from “exercisable—” to the end “substitute “exercisable by the Secretary of State”; and
+- (b) omit sub-paragraph (6).
+
+(16) In paragraph 23 (interpretation) omit the definitions of “appeal tribunal”, “the Chief Commissioner” and “Commissioner”.
+
+### 191. Tax Credits Act 2002[^key-eff8d4a11b4e3844858492b59fca6c00]
+
+(1) Section 63 of the Tax Credits Act 2002[^f00077] (tax credits appeals etc: temporary modifications) is amended as follows.
+
+(2)[^key-efed7c715e93238c0d18a5b89f81304c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-efed7c715e93238c0d18a5b89f81304c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-efed7c715e93238c0d18a5b89f81304c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-efed7c715e93238c0d18a5b89f81304c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-efed7c715e93238c0d18a5b89f81304c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-efed7c715e93238c0d18a5b89f81304c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In subsection (13) for the words from the beginning to “in Northern Ireland,” substitute “ “Northern Ireland Social Security Commissioner” means”.
+
+### 192. Education Act 2002[^key-f171fc1c2d41605cdc200dc4237bb321]
+
+The Education Act 2002[^f00078] is amended as follows.
+
+**193.**[^key-3e48212e44d3d11a02d57cf74650b62f] In section 144(1) (directions under section 142: appeal) for “Tribunal established under section 9 of the Protection of Children Act [1999 (c.14)](https://www.legislation.gov.uk/ukpga/1999/14)” substitute “First-tier Tribunal”.
+
+**194.**[^key-ca170b7b10c5ceb8255fda5f364088ec] In section 166(1) (appeals) for “tribunal established under section 9 of the Protection of Children Act [1999 (c.14)](https://www.legislation.gov.uk/ukpga/1999/14)” substitute “First-tier Tribunal”.
+
+**195.**[^key-24e4061314631e71f328cb8737dcc26e] In subsection 167(1) (determination of appeals) for “tribunal established under section 9 of the Protection of Children Act [1999 (c.14)](https://www.legislation.gov.uk/ukpga/1999/14)” substitute “First-tier Tribunal”.
+
+**196.**[^key-dc5be5356d05f7ec6783f801773daeb4] In section 167B(1) (directions under section 167A: appeals) for “Tribunal established under section 9 of the Protection of Children Act 1999” substitute “First-tier Tribunal”.
+
+### 197. Nationality, Immigration and Asylum Act 2002[^key-c12227e31244e9a405e651b4adeb90de]
+
+In section 36(6) of the Nationality, Immigration and Asylum Act 2002[^f00079] (education: general) for “Special Educational Needs Tribunal” substitute “First-tier Tribunal or the Special Educational Needs Tribunal for Wales”.
+
+### 198. Health and Social Care (Community Health and Standards) Act 2003[^key-afc149b1236b529ffa7f89dd690eb819]
+
+The Health and Social Care (Community Health and Standards) Act 2003[^f00080] is amended as follows.
+
+**199.**[^key-20a76d2b2c33fe320ef746f128ea1742] In section 157 (appeal against a certificate or a waiver decision)—
+
+- (a) in subsection (6) for “sections 158 and 159” substitute “section 158”; and
+- (b) in subsection (7) omit paragraph (c) (but not the “and” at the end of the paragraph).
+
+**200.**[^key-365d8164d90d6a7fcfdcba577f038d7d] In section 158 (appeal tribunals)—
+
+- (a) in subsection (1) for “an appeal tribunal constituted under Chapter 1 of Part 1 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14)” substitute “the First-tier Tribunal”;
+- (b) in subsection (4) for “the tribunal” substitute “a tribunal”; and
+- (c) omit subsection (7).
+
+**201.**[^key-dde104d3f4508de55c9cde79c0d2606b] Omit section 159 (appeal to Social Security Commissioner).
+
+### 202. Child Trust Funds Act 2004[^key-1b23859ba25f295674c342302fefc018]
+
+(1) Section 24 of the Child Trust Funds Act 2004[^f00081] (temporary modifications) is amended as follows.
+
+(2) In subsection (2)—
+
+- (a) for “appeal tribunal”, in both places, substitute “appropriate tribunal”;
+- (b) for “a Social Security Commissioner” substitute “the Upper Tribunal or a Northern Ireland Social Security Commissioner”; and
+- (c) for “the Social Security Commissioner” substitute “the Upper Tribunal or the Northern Ireland Social Security Commissioner”.
+
+(3) In subsection (3)—
+
+- (a) for “an appeal tribunal” substitute “the appropriate tribunal”; and
+- (b) in paragraph (b) for “appeal tribunal” substitute “appropriate tribunal”.
+
+(4) In subsection (4) for “an appeal tribunal” substitute “the appropriate tribunal”.
+
+(5) In subsection (5)—
+
+- (a) for “an appeal tribunal” substitute “the appropriate tribunal”; and
+- (b) for “a Social Security Commissioner” substitute “the Upper Tribunal or a Northern Ireland Social Security Commissioner”.
+
+(6) For subsection (6) substitute—
+
+> (6) “Appropriate tribunal” means
+>
+> - (a) the First-tier Tribunal, or
+> - (b) an appeal tribunal constituted under Chapter 1 of Part 2 of the Social Security (Northern Ireland) Order 1998.
+
+.
+
+(7) In subsection (7) for the words from the beginning to “in Northern Ireland,” substitute “ “Northern Ireland Social Security Commissioner” means”.
+
+### 203. Asylum and Immigration (Treatment of Claimants, etc) Act 2004[^key-e508cc5a9d3368cf575dd8552eddbb9a]
+
+In section 9(4) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004[^f00082] (failed asylum seekers: withdrawal of support) for “adjudicator” substitute “First-tier Tribunal”.
+
+### 204. Domestic Violence, Crime and Victims Act 2004[^key-cfaec455aec292460bd4c1b51840aca8]
+
+The Domestic Violence, Crime and Victims Act 2004[^f00083] is amended as follows.
+
+**205.**[^key-aa2ac47d41f6a64c3922687591b17d0d] In section 37(5) (representations where restriction order made) for “A Mental Health Review Tribunal” substitute “The First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**206.**[^key-fc7cc8ee07c4cab76fa3a6bae7aa2a7e] In section 37A(6) (representations where restriction order not made) for “A Mental Health Review Tribunal” substitute “The First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**207.**[^key-5ccaf931e6aa131fc231979611f9d2e5] In section 38(5)(a) and (b) (information where restriction order made) for “a Mental Health Review Tribunal” substitute “the First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**208.**[^key-a61fd700903d3be206b391a7c2862dfa] In section 38A(4)(a) to (c) (information where restriction order not made) for “a Mental Health Review Tribunal” substitute “the First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**209.**[^key-8335f2d13b5d3cc94a7be0480446b1ea] In section 40(5) (representations) for “A Mental Health Review Tribunal” substitute “The First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**210.**[^key-369e0498f81cc8f142fa5b066374ad9b] In section 41(5)(a) and (b) (information) for “a Mental Health Review Tribunal” substitute “the First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**211.**[^key-a835d1ca4b96636ef5d5ce0ef6eab025] In section 43(5) (representations where restriction direction made) for “A Mental Health Review Tribunal” substitute “The First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**212.**[^key-8c4d2ab1a1da280d85a5c81dd4a6ad5e] In section 43A(6) (representations where restriction direction not given) for “A Mental Health Review Tribunal” substitute “The First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**213.**[^key-a525c19908c41de4d521db7357ee7875] In section 44(5)(a) and (b) (information where restriction direction made) for “a Mental Health Review Tribunal” substitute “the First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**214.**[^key-ecaf4689dd259b699e5d62ab7284e0ba] In section 44A(4)(a) to (c) (information where restriction direction not given) for “a Mental Health Review Tribunal” substitute “the First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+**215.**[^key-1a979e471d676d945063d8dd781e59fb] In paragraph 17 of Schedule 9 (authorities within the remit of the Commissioner for Victims and Witnesses) for “Criminal Injuries Compensation Appeals Panel” substitute “Persons exercising functions relating to the carrying on of the business of the First-tier Tribunal in respect of appeals under the Criminal Injuries Compensation Scheme by virtue of section 5(1) of the Criminal Injuries Compensation Act 1995”.
+
+### 216. Constitutional Reform Act 2005[^key-740aefb0ac34eded7c8d9c9eac7ffafb]
+
+The Constitutional Reform Act 2005[^f00084] is amended as follows.
+
+**217.**[^key-50380f4f391cd9109a041deb270c4c91] Omit section 3(7B)(f) (guarantee of continued judicial independence).
+
+**218.**[^key-f2ebc1b2903c0b8a5344d24b59c1de26] In the table in section 94B(3) (appointments not subject to section 85: tribunals) omit the entries relating to a Deputy Child Support Commissioner and Deputy Social Security Commissioner.
+
+**219.**[^key-5f46d96b3690975dfed2c3a9bdd8d53b] (1) Paragraph 4 of Schedule 7 (protected functions of the Lord Chancellor under particular enactments) is amended as follows.
+
+(2) In the entry relating to the Child Support Act 1991—
+
+- (a) omit “Section 22”, “Section 24” and “Section 25”; and
+- (b) in the entry relating to Schedule 4, for “1(3), 2(1) and (2), 2A(1), 4(1), 4A(1) and 7” substitute “2(1) and (2)”.
+
+(3) Omit the entry relating to the Protection of Children Act 1999.
+
+(4) Omit the entry relating to the Child Support, Pensions and Social Security Act 2000.
+
+**220.**[^key-70e9223eddec024f7abf5779913e0c11] (1) Schedule 14 (the Judicial Appointments Commission: relevant offices and enactments) is amended as follows.
+
+(2) In Part 1 (appointments by Her Majesty) omit the entries relating to—
+
+- (a) a Chief Child Support Commissioner and Child Support Commissioner; and
+- (b) a Chief Social Security Commissioner and Social Security Commissioner.
+
+(3) In Part 3 (appointments by the Lord Chancellor: offices to which paragraph 2(2)(d) of Schedule 12 applies) omit the entries relating to—
+
+- (a) a Deputy Child Support Commissioner;
+- (b) the President of the Special Educational Needs and Disability Tribunal and a member of the chairmen’s panel of that tribunal;
+- (c) the President of appeal tribunals appointed under section 5(1) of the Social Security Act 1998;
+- (d) a member of the panel of persons appointed under section 6(2) of that Act to act as members of appeal tribunals;
+- (e) a Social Security Commissioner (deputy);
+- (f) the President of the Tribunal, and a member of the chairmen’s panel of the Tribunal, appointed under paragraph 2(1) of the Schedule to the Protection of Children Act 1999; and
+- (g) a member of the lay panel of the Tribunal appointed under paragraph 2(3) of that Schedule.
+
+### 221. Childcare Act 2006[^key-7b12ca051b41964ae6899643cfe5e7b8]
+
+In section 69(11) of the Childcare Act 2006[^f00085] (suspension of registration) for “Tribunal established by section 9 of the Protection of Children Act [1999 (c 14)](https://www.legislation.gov.uk/ukpga/1999/14)” substitute “First-tier Tribunal”.
+
+### 222. Safeguarding Vulnerable Groups Act 2006[^key-92f17967de9dc5067416f162e37e97b2]
+
+In section 4 of the Safeguarding Vulnerable Groups Act 2006[^f00086] (appeals)—
+
+- (a) before “Tribunal”, in each place, insert “Upper”; and
+- (b) omit subsections (8) to (11).
+
+### 223. Mental Health Act 2007[^key-5f8bb3546ab2c6886e9917282eb0bb1a]
+
+In paragraph 2(2)(b) of Schedule 10 to the Mental Health Act 2007[^f00087] (transitional provisions and savings) for “a Mental Health Review Tribunal” substitute “the First-tier Tribunal or the Mental Health Review Tribunal for Wales”.
+
+### 224. Child Maintenance and Other Payments Act 2008[^key-fe826f10f8134c9343ae9337a0a46107]
+
+The Child Maintenance and Other Payments Act 2008[^f00088] is amended as follows.
+
+**225.**[^key-87c2d9387a3f8fa26cd2f19881e70509] In section 6 (fees)—
+
+- (a) in subsection (5) for “an appeal tribunal” substitute “the First-tier Tribunal”; and
+- (b) in subsection (6) for “appeal tribunals” substitute “First-tier Tribunal”.
+
+**226.**[^key-8656c97e8d9d6fdbda7db42bda2796be] In section 50 (appeal to appeal tribunal)—
+
+- (a) in the heading for “appeal tribunal” substitute “First-tier Tribunal”;
+- (b) in subsection (2) for the words from “an appeal tribunal” to the end substitute “the First-tier Tribunal”; and
+- (c) omit subsection (4)(b).
+
+**227.**[^key-c5d9da57a658e680ff5038a8f5c17ed8] Omit section 51 (appeal to Social Security Commissioner).
+
+### 228. Repeals and revocations[^key-82535ac33743109c1272b5ba23d882b6]
+
+In consequence of the amendments made by the above provisions of this Schedule, the following provisions are repealed or (as the case may be) revoked—
+
+- (a) paragraph 63(1), (2) and (3)(a) of Schedule 2 to the Social Security (Consequential Provisions) Act 1992[^f00089];
+- (b) paragraph 23(4) of Schedule 6 to the Judicial Pensions and Retirement Act 1993[^f00090];
+- (c) section 17 of, and paragraph 18 of Schedule 3 to, the Child Support Act 1995[^f00091];
+- (d) paragraphs 3(1), 11, 29, 30, 36, 42, 47(a), 51, 52, 113(b), 152(1) and (3) and 153 of Schedule 7 to the Social Security Act 1998[^f00092];
+- (e) paragraph 8 of the Schedule to the Protection of Children Act 1999[^f00093];
+- (f) paragraphs 71(b), 72(b) and 95 of Schedule 14 to the Immigration and Asylum Act 1999[^f00094];
+- (g) paragraph 21 of Schedule 4 to the Care Standards Act 2000[^f00095];
+- (h) paragraph 22(2) and (3) of Schedule 7 to the Child Support, Pensions and Social Security Act 2000[^f00096];
+- (i) paragraph 20(b) of Schedule 8 to the Special Educational Needs and Disability Act 2001[^f00097];
+- (j) paragraph 22 of Schedule 3 and paragraph 47 of Schedule 12 to the Justice (Northern Ireland) Act 2002[^f00098];
+- (k) paragraphs 4, 5 and 10(2) of Schedule 18 to the Education Act 2002[^f00099];
+- (l) section 7(2) of the Armed Forces (Pensions and Compensation) Act 2004[^f00100];
+- (m) paragraphs 25, 28(3)(d) and 221 of Schedule 4 to the Constitutional Reform Act 2005[^f00101];
+- (n) paragraphs 273 and 274 of Schedule 4 to the Constitutional Reform Act 2005;
+- (o) paragraph 1(4)(a), (8) and (9) of Schedule 7 to the Welfare Reform Act 2007[^f00102];
+- (p) section 38(3)(b) and (c), (4) and (8) of the Mental Health Act 2007[^f00103];
+- (q) paragraphs 22(2), (4) and (5) and 31 of Schedule 10 to the Tribunals, Courts and Enforcement Act 2007[^f00104];
+- (r) paragraph 29 of Schedule 10 to the Tribunals, Courts and Enforcement Act 2007;
+- (s) paragraphs 16(3) to (5), 17 and 54 of Schedule 3 to the Child Maintenance and Other Payments Act 2008[^f00105];
+- (t) the entries in the Schedule to the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999[^f00106] relating to sections 22, 24 and 25 of, and Schedule 4 to, the Child Support Act 1991;
+- (u) paragraph 2 of Schedule 10 to the Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc) Order 1999[^f00107];
+- (v) the entries in Schedule 1 to the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc) Order 1999[^f00108] relating to sections 22(3), 24(9) and 25(6) of, and Schedule 4 to, the Child Support Act 1991;
+- (w) the Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) (No.2) Order 2003[^f00109];
+- (x) paragraph 53 of Schedule 1 to the Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007[^f00110].
+- (y) the Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) (No.2) Order 2007[^f00111].
+
+## Annotations
+
+[^key-d20e45cf6b57c990b9586472992c49cf]: Commencement: Sch. 3 para. 1 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00007]: Footnote: [1919 c.53](https://www.legislation.gov.uk/ukpga/1919/53) Section 8(1) was amended by Part 3 of the Statute Laws (Repeals) Act [1986 (c.12)](https://www.legislation.gov.uk/ukpga/1986/12), section 8(2) of the War Pensions Act [1920 (c.23)](https://www.legislation.gov.uk/ukpga/1920/23), and paragraph 10 of Schedule 26 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-b3bf99948087e4cb2209810540b02a98]: Commencement: Sch. 3 para. 2 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-cdfe1b27483c963fba883e39b1846dc3]: Commencement: Sch. 3 para. 3 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-cf5703f553b87d3c8c54b31b2d97ec76]: Commencement: Sch. 3 para. 4 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00008]: Footnote: [1943 c.39](https://www.legislation.gov.uk/ukpga/1943/39). Section 2(2) was amended by section 23(1) and (2)(c) of the Chronically Sick and Disabled Persons Act [1970 (c.44)](https://www.legislation.gov.uk/ukpga/1970/44). Sections 5A and 5B were inserted by sections 57(1) and 59 of the Child Support, Pensions and Social Security Act [2000 (c.19.)](https://www.legislation.gov.uk/ukpga/2000/19). Section 6(2C) was inserted by section 43(1) of the Social Security and Housing Benefits Act [1982 (c.24)](https://www.legislation.gov.uk/ukpga/1982/24) and subsections (2C) and (3) were amended by paragraphs 1 and 3(1), (3) and (4) of Schedule 1 to the Armed Forces (Pensions and Compensation) Act [2004 (c.32)](https://www.legislation.gov.uk/ukpga/2004/32). Sections 6A, 6B, 6C, 6D and 11A were inserted by section 5 of, and paragraphs 1 and 4 to 6 of Schedule 1 to, the 2004 Act. Section 6D(9) was inserted by paragraphs 24 and 25 of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4). Section 8 was amended by paragraphs 1 and 5 of Schedule 1 to the 2004 Act. In section 12 the definitions of “Chief Commissioner” and “Commissioner” were inserted by paragraphs 1 and 7(1) and (2)(b) of Schedule 1 to the 2004 Act. In the Schedule: paragraph 1 was substituted by section 15(1) of, and paragraphs 24 and 28(1) and (2) of Schedule 4 to, the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4); paragraph 2 was substituted by section 26 of, and paragraph 39 of Schedule 6 to, the Judicial Pensions and Retirement Act [1993 (c.8)](https://www.legislation.gov.uk/ukpga/1993/8), sub-paragraph (2A) was inserted by section 60(2) of the 2000 Act and amended by paragraphs 24 and 28(1) and (3)(b) of Schedule 4 to the 2005 Act, sub-paragraph (3A) was inserted by paragraphs 24 and 28(1) and (3)(c) of Schedule 4 to the 2005 Act and sub-paragraph (4) was amended by paragraphs 24 and 28(1) and (3)(d) of Schedule 4 to the 2005 Act; paragraphs 2B, 3A, 3B and 3C were inserted by section 60(3) and (4) of the 2000 Act; paragraph 5(1A) was inserted by paragraphs 24 and 28(1) and (6)(c) of Schedule 4 of the 2005 Act; paragraph 6 was amended by paragraphs 1 and 10(1) and (3) of Schedule 1 to the 2004 Act; paragraph 6B was inserted by paragraphs 1 and 10(1) and (5) of Schedule 1 to the 2004 Act; and paragraph 7B was inserted by paragraphs 24 and 28(1) and (7) of Schedule 4 to the 2005 Act.
+
+[^key-a0d239e1cca3283f8ae59750e05106fc]: Commencement: Sch. 3 para. 5 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-0b8c3015c1e23094d6a2bac212f9e44b]: Commencement: Sch. 3 para. 6 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-cb01700ed6ea32a52b02dfa015eae451]: Commencement: Sch. 3 para. 7 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-8e4fdbfd147d0fc2d891058df6ffd9a3]: Commencement: Sch. 3 para. 8 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-b8d126f8266d281c220c8275cef3704c]: Commencement: Sch. 3 para. 9 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-59d05cfbd085e9ed1ccb6bfeae25a78f]: Commencement: Sch. 3 para. 10 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-e70681f2cb45d1d681920e9886a209cc]: Commencement: Sch. 3 para. 11 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-b4718e22b78aa5125c2dde47615b3d20]: Commencement: Sch. 3 para. 12 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-5010ab04d445cab62f9bf813a5746969]: Commencement: Sch. 3 para. 13 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-145ec529ac6b26496c50455c224aa956]: Commencement: Sch. 3 para. 14 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-07324295d7430db18f90a9ae609085f8]: Commencement: Sch. 3 para. 15 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-0763d0d6fe22f1e8bce465f81ce3fa24]: Commencement: Sch. 3 para. 16 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00009]: Footnote: [S.I. 1998/1506 (N.I.10)](https://www.legislation.gov.uk/nisi/1998/1506).
+
+[^f00010]: Footnote: [1992 c.8](https://www.legislation.gov.uk/ukpga/1992/8).
+
+[^key-088231775f4304f3aefc88015431b3a0]: Commencement: Sch. 3 para. 17 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-5d71a095b18cce715d1b09b3889b2c9a]: Commencement: Sch. 3 para. 18 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-665d88ebf28d91817873644e336c19d3]: Commencement: Sch. 3 para. 19 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-97b93f187994784885f40de6d27475e2]: Commencement: Sch. 3 para. 20 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-682fe5ca6485804a888737f7a38b60be]: Commencement: Sch. 3 para. 21 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-e15f5c6210ff06a207b3069dfef7cc04]: Commencement: Sch. 3 para. 22 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00011]: Footnote: [1960 c.65](https://www.legislation.gov.uk/ukpga/1960/65). Section 12(1)(b) was amended by paragraph 10 of Schedule 6 to the Mental Incapacity Act [2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^key-8359613b0ca4b7015cd745d02b5ca4d7]: Commencement: Sch. 3 para. 23 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00012]: Footnote: [1967 c.13](https://www.legislation.gov.uk/ukpga/1967/13). Section 11B and paragraph 6C of Schedule 3 were inserted by section 10(1) and (2) of the Criminal Injuries Compensation Act [1995 (c.53)](https://www.legislation.gov.uk/ukpga/1995/53). Schedule 4 was inserted by section 1(3) of the Parliamentary Commissioner Act [1994 (c.14)](https://www.legislation.gov.uk/ukpga/1994/14) and substituted by article 3 of, and Schedule 2 to, the Parliamentary Commissioner Order 2007 ([S.I. 2007/3470](https://www.legislation.gov.uk/uksi/2007/3470)).
+
+[^key-a8385325560ffb8d28f550a547dbdf60]: Commencement: Sch. 3 para. 24 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-2a1ab23e79f3117f73e17d9f3c4e613b]: Commencement: Sch. 3 para. 25 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-dc9214d9f40746424c9ddd4c68355142]: Commencement: Sch. 3 para. 26 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-b43856f4c00303959748424240b8755b]: Commencement: Sch. 3 para. 27 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00013]: Footnote: [1970 c.42](https://www.legislation.gov.uk/ukpga/1970/42). The entry relating to the Mental Health Act 1983 was amended by paragraph 27 of Schedule 4 to the Mental Health Act [1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983/20) and section 55(2) of the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31).
+
+[^key-6c63263f183417d86355bc5d34f81231]: Commencement: Sch. 3 para. 28 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00014]: Footnote: [1975 c.24](https://www.legislation.gov.uk/ukpga/1975/24). The entry for an Asylum Support Adjudicator was inserted by paragraph 71(b) of Schedule 14 to the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-f54530ad5a53f88a447e5495400e7edb]: Commencement: Sch. 3 para. 29 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00015]: Footnote: [1975 c.25](https://www.legislation.gov.uk/ukpga/1975/25). The entry for an Asylum Support Adjudicator was inserted by paragraph 72(b) of Schedule 14 to the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-8f3ce7d4bdb6a186afa7c4ff3d61166d]: Commencement: Sch. 3 para. 30 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00016]: Footnote: [1979 c.17](https://www.legislation.gov.uk/ukpga/1979/17). Sections 3A and 4 were substituted by sections 45 and 46 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14) respectively. Section 4(1A) was inserted by section 57 of the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5) and sections 4(2) and (3) were amended by paragraph 1(1) to (3) of Schedule 7 to the 2007 Act. Section 7A was inserted by section 47 of the 1998 Act and subsection (1)(a) was amended by paragraph 1(1) and (4) of Schedule 7 to the 2007 Act. Section 9A is to be inserted from a date to be appointed by paragraph 1(1) and (8) of Schedule 7 to the 2007 Act.
+
+[^key-e933273279e1f1693215aa302602e909]: Commencement: Sch. 3 para. 31 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-d879decfb2408014791a287483ae32a0]: Commencement: Sch. 3 para. 32 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-d5793e6ac33a633596f5c359ba3a916d]: Commencement: Sch. 3 para. 33 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-62cd32b3301b2d5a73b9d74193e1dedc]: Commencement: Sch. 3 para. 34 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-cc58427497a25895f6397e575bb8b1ee]: Commencement: Sch. 3 para. 35 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-dd6ebabae74feac53bcf1d337898ebb4]: Commencement: Sch. 3 para. 36 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-f29518a0ea5d03ab784c8ef69d2c1fe6]: Commencement: Sch. 3 para. 37 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00017]: Footnote: [1981 c.20](https://www.legislation.gov.uk/ukpga/1981/20). Section 13(1A) and (7) were inserted by paragraphs 109 and 113(1), (2) and (3) of Part 1 of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^key-d54bc78006ddfa359f153bc9373e8e15]: Commencement: Sch. 3 para. 38 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00018]: Footnote: [1982 c.34](https://www.legislation.gov.uk/ukpga/1982/34). Subsections (1A) to (1H) were inserted by section 76(2) of the Social Security Act [1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50). Subsection (2)(b) was amended by paragraph 11(1) of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14). In subsection (5) the definition of “Commissioner” was amended by paragraph 11(2) of Schedule 7 to the 1998 Act.
+
+[^key-25592ebb2879316308d05b9229775856]: Commencement: Sch. 3 para. 39 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00019]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). Section 21(3) was inserted by section 37 of the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12). Section 65(1A) was substituted by paragraph 107 of Schedule 1 to the Health Authorities Act [1995 (c.17)](https://www.legislation.gov.uk/ukpga/1995/17) and by section 38 of the 2007 Act. Sections 68 and 68A were substituted by section 37 of the 2007 Act. Section 72(1)(c) was inserted by paragraph 21 of Schedule 3 to the 2007 Act. Section 72(3A) was inserted by paragraph 10 of Schedule 1 to the Mental Health (Patients in the Community) Act [1995 (c.52)](https://www.legislation.gov.uk/ukpga/1995/52) and substituted by paragraph 21 of Schedule 3 to the 2007 Act. Section 73(1) was substituted by article 4 of the Mental Health Act 1983 (Remedial) Order 2001 ([S.I. 2001/3712](https://www.legislation.gov.uk/uksi/2001/3712)). Section 74(5A) was inserted by section 295 of the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 79(7) was inserted by paragraph 107 of Schedule 1 to the Health Authorities Act [1995 (c.17)](https://www.legislation.gov.uk/ukpga/1995/17) and substituted by section 38 of the 2007 Act. Section 132A was inserted by paragraph 30 of Schedule 3 to the 2007 Act.
+
+[^key-1d517fbdab30b2b9f511b368e7a1e0a7]: Commencement: Sch. 3 para. 40 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-1e0519ffd3257e883e61d08403b774cf]: Commencement: Sch. 3 para. 41 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-3b830406f197796d7d3f1b2143ba2229]: Commencement: Sch. 3 para. 42 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-6e5a1abbf8770a3f56cc0cd7235ed0ff]: Commencement: Sch. 3 para. 43 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-62c9c94ab6f10f8edab54558da3ffe81]: Commencement: Sch. 3 para. 44 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-78b884eef05fb29ab832cc20cb15aae6]: Commencement: Sch. 3 para. 45 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00020]: Footnote: [2007 c.12](https://www.legislation.gov.uk/ukpga/2007/12).
+
+[^key-cf008e4a67922d7f9f1397a64c9d1ab7]: Commencement: Sch. 3 para. 46 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-967ccac7cf283e57b0f7980837ea788b]: Commencement: Sch. 3 para. 47 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-603805d546c72307b24ac1899be82ade]: Commencement: Sch. 3 para. 48 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-f2a231a26be753e20ecb1df45d418cfd]: Commencement: Sch. 3 para. 49 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-0ea890351ce6f8d2b0bc9f45191634ff]: Commencement: Sch. 3 para. 50 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-25c143243b2510b31970fcf7f14f2dfd]: Commencement: Sch. 3 para. 51 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-676a1174cbfc2abb2a06da408e5d4ec7]: Commencement: Sch. 3 para. 52 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-dddde216353a99923f24c7dea945fdf5]: Commencement: Sch. 3 para. 53 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-f9a02725ce05682a1b3d6a2ecabdcc95]: Commencement: Sch. 3 para. 54 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-00333fe58619436688bb72152813e71a]: Commencement: Sch. 3 para. 55 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-7944246db2a4c7fa280603c7e27440e6]: Commencement: Sch. 3 para. 56 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-db1bb1d0e40d64a4130e1725a3fbea7c]: Commencement: Sch. 3 para. 57 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-1a7a3d111eca51a966aa8be80afbedcb]: Commencement: Sch. 3 para. 58 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-77cb4af26f4b4f7d45deabe6f646e41a]: Commencement: Sch. 3 para. 59 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-fb7f34f23b1ebe2595f9aab726b384f2]: Commencement: Sch. 3 para. 60 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-c2a684875de5f2e148800250433a45ee]: Commencement: Sch. 3 para. 61 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-0d6b7940be9aeaefc7995fbdfa422d25]: Commencement: Sch. 3 para. 62 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-93f42595075dd5408f4f95f6205f9bf6]: Commencement: Sch. 3 para. 63 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-b259a428856ef113267f991476a423c2]: Commencement: Sch. 3 para. 64 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-60aa7ca2bc0d5f0a3d827a109f5c9685]: Commencement: Sch. 3 para. 65 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00021]: Footnote: [1984 c.47](https://www.legislation.gov.uk/ukpga/1984/47).
+
+[^key-48d4cb3957cff1e0b0871578a4eee876]: Commencement: Sch. 3 para. 66 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-1b91463c1fc9a94507e6bd1c29916d60]: Commencement: Sch. 3 para. 67 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-95f87376cd74db10694eca2fb972eabe]: Commencement: Sch. 3 para. 68 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-1391bae8d7fd6f72dcb526c2391eb011]: Commencement: Sch. 3 para. 69 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-44fc75bfc72c5b8aac496c5ee915ca6b]: Commencement: Sch. 3 para. 70 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00022]: Footnote: [1986 c.33](https://www.legislation.gov.uk/ukpga/1986/33).
+
+[^key-d42bafb1d531d42662f3ac240ac636f7]: Commencement: Sch. 3 para. 71 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00023]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41). Section 65(3)(b) was substituted and section 65A was inserted by paragraph 14 of Schedule 4 to the Care Standards Act [2000 (c.14)](https://www.legislation.gov.uk/ukpga/2000/14). Sections 79B, 79H and 79M were inserted by section 79(1) of that Act.
+
+[^key-396a6e52ce9e613c4b8ab9b353a5faa3]: Commencement: Sch. 3 para. 72 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-9f12021589567cfd5fe5befdeed4c680]: Commencement: Sch. 3 para. 73 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-037009b57358c51e9de6c11e7356279f]: Commencement: Sch. 3 para. 74 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-9a75e0290e40c27db3fdbb2d4ab03894]: Commencement: Sch. 3 para. 75 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-07eebcf295716e03eb017d52087de6c4]: Commencement: Sch. 3 para. 76 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-72f9b414afe60b81cc4331275c64b4a8]: Commencement: Sch. 3 para. 77 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00024]: Footnote: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
+
+[^key-a5214fd0db284f66102c8c5b5b061981]: Commencement: Sch. 3 para. 78 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00025]: Footnote: Section 16 was substituted by section 40 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14). Subsection (1A) was inserted by section 8 of the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^key-6fd7982aec7592490feacf3fc5969f39]: Commencement: Sch. 3 para. 79 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00026]: Footnote: Section 17 was substituted by section 41 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14). Paragraphs (c) to (e) of subsection 17(1) were substituted for previous Paragraph (c) by section 9 of, and Part 1 of Schedule 9 to, the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^key-ad63ab1e48e526bbce9fee4d4515f7fd]: Commencement: Sch. 3 para. 80 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00027]: Footnote: Section 20 was substituted by section 42 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-e767b4ad3f80289c929ac5deb50e4830]: Commencement: Sch. 3 para. 81 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00028]: Footnote: Subsection (7A) was inserted by paragraph 1(6) of Schedule 7 to the Child Maintenance and Other Payments Act [2008 (c.6)](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^key-26af74bd74e9365b80ca444e726e1940]: Commencement: Sch. 3 para. 82 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00029]: Footnote: Section 22 was amended by paragraph 22(1) and (2) of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15), paragraph 29 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14) and article 2(1) of, and the Schedule to, the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)). Functions under subsection (3) were further transferred to Scottish Ministers under the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+
+[^key-c5ea94c1434f4d5ba1a16f9b7ae95d80]: Commencement: Sch. 3 para. 83 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-0f04c853c0f0767f1b4763e2bbf809d5]: Commencement: Sch. 3 para. 84 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00030]: Footnote: Section 23A was inserted by section 11 of the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^key-e495bf13b14637093303ebb5e5d672a0]: Commencement: Sch. 3 para. 85 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00031]: Footnote: Section 24 was amended by paragraph 30 of Schedule 7 to the Social Security Act [1998 (c.19)](https://www.legislation.gov.uk/ukpga/1998/19) and the Schedule to the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)). Functions under subsection (9) were transferred further to Scottish Ministers under the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+
+[^key-a32b736faeb6cabaeb8ceebbf846bc71]: Commencement: Sch. 3 para. 86 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00032]: Footnote: Section 25 was amended by the Schedule to the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)). Functions under subsection (3) were further transferred to Scottish Ministers under the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+
+[^key-757a52125e464993d551b7b236e8b434]: Commencement: Sch. 3 para. 87 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00033]: Footnote: Section 28ZA was inserted by section 43 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00034]: Footnote: [2000 c.19](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^key-821223582826db11f044e34c8e6d2bdf]: Commencement: Sch. 3 para. 88 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00035]: Footnote: Section 28ZB was inserted by section 43 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-64bfae18fc330ded02f81353fe3a43bc]: Commencement: Sch. 3 para. 89 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00036]: Footnote: Section 28ZC was inserted by section 44 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14). Subsection (6) was amended by paragraph 11(1) and (13)(e) of Schedule 3 to the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^key-7a600c8306519c3c7d82dd910af7141d]: Commencement: Sch. 3 para. 90 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00037]: Footnote: Section 28ZD was inserted by section 44 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-faab18b9ca68069204d1e5c232bb473b]: Commencement: Sch. 3 para. 91 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00038]: Footnote: Section 28D was inserted by section 4 of the Child Support Act [1995 (c.34)](https://www.legislation.gov.uk/ukpga/1995/34). Subsections (1)(b) and (3) were amended by paragraph 36 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-f84570655f73122ebe78040e0a17c85c]: Commencement: Sch. 3 para. 92 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00039]: Footnote: Subsections (1) and (6) of section 45 were amended by paragraph 42 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14) and subsection (6) was also amended by article 2(1) of, and the Schedule to, the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)).
+
+[^key-6377aeea7a98506530e49d050ba9a05b]: Commencement: Sch. 3 para. 93 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00040]: Footnote: Section 46A was inserted by paragraph 44 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-2f27cfc6f7277b837bd42b27cdea6a5c]: Commencement: Sch. 3 para. 94 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00041]: Footnote: Section 46B was inserted by paragraph 44 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-18e8d473097bee4709199888ad34c11a]: Commencement: Sch. 3 para. 95 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00042]: Footnote: Section 50(1A) was inserted by paragraph 1(20) of Schedule 7 to the Child Maintenance and Other Payments Act [2008 c.6](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^key-82996589c6debd765c93665b095b5fca]: Commencement: Sch. 3 para. 96 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00043]: Footnote: In section 54 the definition of “appeal tribunal” was inserted by paragraph 47(a) of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-fd378b695da1b1b04c60c0d3e658cd90]: Commencement: Sch. 3 para. 97 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00044]: Footnote: Paragraphs 1(3A) and (3B) and 8(ab) were inserted by paragraphs 218 and 221(1) and (2) of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4). Paragraphs 2A and 8(bb) were inserted by paragraph 18(1) and (2) of Schedule 3 to the Child Support Act [1995 (c.34)](https://www.legislation.gov.uk/ukpga/1995/34) and sub-paragraph (1) substituted by paragraph 51 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14). Paragraph 4(2)(a) was amended by paragraph 22(1) and (4) of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15). The effect of the amendment to paragraph 8 made by paragraph 22(5) of that Schedule has been retained in the amendments made by paragraph 97(7)(c) of this Schedule. Paragraph 4A was inserted by section 17(1) of the Child Support Act [1995 (c.34)](https://www.legislation.gov.uk/ukpga/1995/34). Paragraphs 5 and 6 were amended by paragraph 52 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14). Paragraph 7 was amended by paragraph 23(4) of Schedule 6 to the Judicial Pensions and Retirement Act [1993 (c.8)](https://www.legislation.gov.uk/ukpga/1993/8). Paragraph 8(aa) was inserted by paragraph 47 of Schedule 12 to the Justice (Northern Ireland) Act [2002 (c.26)](https://www.legislation.gov.uk/ukpga/2002/26) and sub-Paragraphs (ai) and (ia) of paragraph 8(d) were inserted by paragraph 22 of Schedule 3 of that Act.
+
+[^key-de8ec9a9e247979b3fffba03115113e6]: Commencement: Sch. 3 para. 98 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00045]: Footnote: Schedule 4A was inserted by section 1 of, and Schedule 1 to, the Child Support Act [1995 (c.34)](https://www.legislation.gov.uk/ukpga/1995/34) and was amended by paragraph 53 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-a1cdeace878adb40b4576a4649584757]: Commencement: Sch. 3 para. 99 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-3af8af65d171e30e0a74617b842f1ee5]: Commencement: Sch. 3 para. 100 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00046]: Footnote: Schedule 4C was repealed by the Part 1 of Schedule 9 to the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19) but remains in for force for certain cases until a day to be appointed.
+
+[^key-2001e12feab60e3e2511569bc9e2e5ab]: Commencement: Sch. 3 para. 101 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00047]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). Section 2B was inserted by section 57 of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30). Section 71(2) was inserted by section 1(2) of the Social Security (Overpayments) Act [1996 (c.51)](https://www.legislation.gov.uk/ukpga/1996/51) and amended by paragraph 81(1) of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14). In Part 1 of Schedule 4 the entry at (a) under “adjudicating bodies” was amended by paragraph 113(b) of Schedule 7 to the Social Security act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-ac83e15bfbca09f08ccf2bb22e55328d]: Commencement: Sch. 3 para. 102 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-b7b41a4ba7cd4fdb7b73ce86fa3e3d47]: Commencement: Sch. 3 para. 103 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-868e2fe163146706f1644fb6019dcc2d]: Commencement: Sch. 3 para. 104 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-44726b475f0abdd09de40ec71403b9b8]: Textual amendment: [Sch. 3 para. 104(5)(d)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/104/5/d) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 72](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/72)
+
+[^key-da63f804388baef50f52cba11a70610a]: Commencement: Sch. 3 para. 105 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00048]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53). Section 11(1) was amended by paragraph 20 of Schedule 8 to the Special Educational Needs and Disability Act [2001 (c.10)](https://www.legislation.gov.uk/ukpga/2001/10). In Schedule 1 the entry relating to an Asylum Support Adjudicator was inserted by paragraphs 94 and 95 of Schedule 14 to the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33). The entry relating to adjudicators appointed under the Criminal Injuries Compensation Act 1995 was substituted by section 5(8) of the Criminal Injuries Compensation Act [1995 (c.53)](https://www.legislation.gov.uk/ukpga/1995/53). The entry relating to the tribunal constituted under section 9 of the Protection of Children Act 1999 was inserted by paragraph 8 of the Schedule to the Protection of Children Act [1999 (c.14)](https://www.legislation.gov.uk/ukpga/1999/14) and amended by paragraph 21 of Schedule 4 to the Care Standards Act [2000 (c.14)](https://www.legislation.gov.uk/ukpga/2000/14). The entry relating to the Special Educational Needs and Disability Tribunal was inserted by paragraphs 19 and 22 of Schedule 8 to, the Special Educational Needs and Disability Act [2001 (c.10)](https://www.legislation.gov.uk/ukpga/2001/10) and amended by paragraph 15(a) of Schedule 18 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^key-e2bb5223982925fd573eb8fa86bf36f0]: Commencement: Sch. 3 para. 106 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-5b8691a0821bc46faf587c57cdaaae9d]: Commencement: Sch. 3 para. 107 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-0e0c660133af0d0e1bed04589027e96a]: Commencement: Sch. 3 para. 108 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00049]: Footnote: [1993 c.8](https://www.legislation.gov.uk/ukpga/1993/8).
+
+[^key-f1f676f3240dbc457384ddd44a4d15fd]: Commencement: Sch. 3 para. 109 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00050]: Footnote: In Schedule 1: the entry relating to the chairman of a Mental Health Review Tribunal for England was inserted by the Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) (No.2) Order 2003 ([S.I. 2003/2589](https://www.legislation.gov.uk/uksi/2003/2589)) and amended by article 2(1) of the Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) (No.2) Order 2008 ([S.I. 2008/171](https://www.legislation.gov.uk/uksi/2008/171)); the entry relating to an Asylum Support Adjudicator was inserted by articles 2 and 3 of the Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) Order 2007 ([S.I. 2007/675](https://www.legislation.gov.uk/uksi/2007/675)); and the entry relating to the President of the tribunal constituted under the Protection of Children Act 1999 and members of the chairmen’s panel appointed under paragraph 1(1)(b) of the Schedule to that Act was inserted by article 2 of the Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) (No.2) Order 2007 ([S.I. 2007/2185](https://www.legislation.gov.uk/uksi/2007/2185)).
+
+[^key-96d1fd99f9dad49c3d211a0b90c9e9e7]: Commencement: Sch. 3 para. 110 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00051]: Footnote: In Schedule 5: the entry relating to an Asylum Support Adjudicator was inserted by article 4 of the Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) Order 2007 ([S.I. 2007/675](https://www.legislation.gov.uk/uksi/2007/675)); and the entry relating to the President of the tribunal constituted under the Protection of Children Act 1999 and members of the chairmen’s panel appointed under paragraph 1(1)(b) of the Schedule to that Act was inserted by article 3 of the Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) (No.2) Order 2007 ([S.I. 2007/2185](https://www.legislation.gov.uk/uksi/2007/2185)).
+
+[^key-b177d687e960632cb187ba6fb9d2c122]: Commencement: Sch. 3 para. 111 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00052]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). Section 170 was substituted by paragraph 131 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14). Section 171A was inserted by section 18 of, and paragraph 20 of Schedule 7 to, the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^key-e46917497f3b02906faede5aca680763]: Commencement: Sch. 3 para. 112 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-76acbc7071144b214fdeb66251862bde]: Commencement: Sch. 3 para. 113 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-0ed26089408bbd2088d6b25fac9ec2d4]: Commencement: Sch. 3 para. 114 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00053]: Footnote: [1995 c.50](https://www.legislation.gov.uk/ukpga/1995/50). Section 28H was inserted by section 17 of the Special Educational Needs and Disability Act [2001 (c.10)](https://www.legislation.gov.uk/ukpga/2001/10); the heading and subsection (2) of that section were substituted by paragraph 8 of Schedule 18 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32). Section 28I was inserted by section 18 of the 2001 Act; subsection (5) was inserted by paragraph 9 of Schedule 18 to the 2002 Act. Section 28J was inserted by section 19 of the 2001 Act; subsection (2A) was inserted and subsections (3) and (5) to (8) were amended by paragraph 10 of Schedule 18 to the 2002 Act; and subsections (2A) and (6) were amended by paragraph 53 of Schedule 1 to the Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 ([S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388)). Section 28M was inserted by section 22 of the 2001 Act and subsection (5) was amended by paragraph 11 of Schedule 18 to the 2002 Act. Section 28N was inserted by section 23 of the 2001 Act and subsection (5) was amended by paragraph 24 of Schedule 1 to the Disability Discrimination Act [2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13). Part 3 of Schedule 3 was inserted by paragraph 1 of Schedule 3 to the 2001 Act and amended by paragraph 12 of Schedule 18 to the 2002 Act.
+
+[^key-61f7adeac1706693bc608e01c99a1dd4]: Commencement: Sch. 3 para. 115 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-2849b0fd4cc3ccfadb49bd448d307835]: Commencement: Sch. 3 para. 116 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-1e8b8f7a58a94051e35cd91555eb4996]: Commencement: Sch. 3 para. 117 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-d557be8a89c59a5bed55c4787796b4c0]: Commencement: Sch. 3 para. 118 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-856824ecc414cf541c0e23d82e1517e2]: Commencement: Sch. 3 para. 119 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-1e4896e463e41b5fff999f0bee8b4743]: Commencement: Sch. 3 para. 120 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-50ca279dec5f1f0173368fe19a79004e]: Commencement: Sch. 3 para. 121 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-c98374141f1cd5b71ce8bb4f69c66f99]: Commencement: Sch. 3 para. 122 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00054]: Footnote: [1995 c.53](https://www.legislation.gov.uk/ukpga/1995/53). The definition of “adjudicator” in section 1(4) and section 5 were amended, and subsections (1A) and (1B) of section 5 were inserted, by paragraph 2 of Schedule 10 to the Scotland Act 1998 (Cross-Border Public Authorities) (Adaptation of Functions etc) Order 1999 ([S.I. 1999/1747](https://www.legislation.gov.uk/uksi/1999/1747)).
+
+[^key-90496a3cec0c56efddb1d0b6656fe7b5]: Commencement: Sch. 3 para. 123 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-7f23ad4c62108d84fb70c02385910e06]: Commencement: Sch. 3 para. 124 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-99534969402a307427f3e71d5a627e8d]: Commencement: Sch. 3 para. 125 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-8b530399a9e9c7dc7917fb5606be96d1]: Commencement: Sch. 3 para. 126 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-0c978cc7a454dcfa4251422a61e8e980]: Commencement: Sch. 3 para. 127 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00055]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 313(5) was inserted by paragraph 2 of Schedule 18 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32). Section 326A was inserted by section 5 of the Special Educational Needs and Disability Act [2001 (c.10)](https://www.legislation.gov.uk/ukpga/2001/10) and subsection (6) of that section was substituted by paragraph 3 of Schedule 18 to the 2002 Act. In section 333, subsection (1Z) was inserted by paragraph 4 of Schedule 18 to the 2002 Act and subsection (1) was substituted by paragraph 3 of Schedule 8 to the 2001 Act. Section 336 was amended by paragraph 13 of Schedule 8 to the 2001 Act. Section 336ZA was inserted by paragraph 5 of Schedule 18 to the 2002 Act. Section 336A was inserted by section 4 of the 2001 Act and subsection (2) of that section was substituted by paragraph 6 of Schedule 18 to the 2002 Act.
+
+[^key-e617e00695190247baf08d1505362d1d]: Commencement: Sch. 3 para. 128 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-c1ba3895955a95952c7e46eae37e264e]: Commencement: Sch. 3 para. 129 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-660a2531bf4f0c087bc8a79f3265dd47]: Commencement: Sch. 3 para. 130 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-3752925a76991b656e837324391af27c]: Commencement: Sch. 3 para. 131 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-652fdb86575339b946cf4e5c62a4a75d]: Commencement: Sch. 3 para. 132 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-e865e1e376f4bab63be173fc5e7d29f1]: Commencement: Sch. 3 para. 133 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-4680b9112a9934ecacd519be55742c9b]: Commencement: Sch. 3 para. 134 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-5618f1b4f9f232a7016de5ad0d98f06a]: Commencement: Sch. 3 para. 135 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-313e898101795307ef1c35e40aa4490e]: Commencement: Sch. 3 para. 136 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-b93c92f711d5203346ba27fcfccc7d6c]: Commencement: Sch. 3 para. 137 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00056]: Footnote: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17). Section 16(5)(d) was substituted by paragraph 147(b) of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-99300fe8ed208ea136c24aa494efbd53]: Commencement: Sch. 3 para. 138 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00057]: Footnote: [1997 c.27](https://www.legislation.gov.uk/ukpga/1997/27). Sections 12(1) and (4) and 13(1) and (3) were amended by paragraphs 151(1) and (3) and 152(1) and (3) respectively of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14). In section 25 the definitions of “appeal tribunal” and “Commissioner” were inserted by paragraph 153 of Schedule 7 to the 1998 Act.
+
+[^key-9eba8517a2dcc19b85c9a065f0a2a4ec]: Commencement: Sch. 3 para. 139 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-e0bce7af11c944d6cf6f3ca05ab9db4f]: Commencement: Sch. 3 para. 140 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-3014e953ffb281205d032bb5585a4871]: Commencement: Sch. 3 para. 141 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-5d4d706a8c76553e52ec940ec26a4e52]: Commencement: Sch. 3 para. 142 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-2f9a0c1cac6b7fe5d1ef2a635879cd37]: Commencement: Sch. 3 para. 143 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00058]: Footnote: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-12d1c1d74af5301b902ec2834e8f1e3e]: Commencement: Sch. 3 para. 144 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-85d77ffe6a0be52f42e8242c3a3b6a4b]: Commencement: Sch. 3 para. 145 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00059]: Footnote: Subsections (1) and (2) of section 5 were amended by paragraph 29(1) and (2) of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) and subsection (1) was also amended by article 2(1) of, and the Schedule to, the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)).
+
+[^key-92fa46edccc13fff5a9fb90f23dcd365]: Commencement: Sch. 3 para. 146 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-6822e0bbc34c71dbcf61b98bbd945058]: Commencement: Sch. 3 para. 147 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-c76f4da681b6d60f252aac63d19e672c]: Commencement: Sch. 3 para. 148 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-35314505fd09eb3bcc16a38ca6259138]: Commencement: Sch. 3 para. 149 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00060]: Footnote: Subsection (2) of section 12 was inserted by paragraph 25(3) of Schedule 7 to the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^key-7e5f1aaa9960b9567609a222b4fa3399]: Commencement: Sch. 3 para. 150 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00061]: Footnote: Subsection (4) of section 13 was inserted by paragraph 26 of Schedule 7 to the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^key-a5242e81e245882705f6a3bb1b691e7b]: Commencement: Sch. 3 para. 151 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00062]: Footnote: Section 14 was amended by paragraph 27(a) of Schedule 7 to the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^key-c19dec06897273c346d9f2144aea1068]: Commencement: Sch. 3 para. 152 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-ba35d8e1d57fd680a5077750482375fa]: Commencement: Sch. 3 para. 153 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-9f5ad3d16cd7ac21621738261860bbc9]: Commencement: Sch. 3 para. 154 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-5763276810151f4556280afbe890914a]: Commencement: Sch. 3 para. 155 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-08ce682616bb4163d64ef7bac92ecf5f]: Commencement: Sch. 3 para. 156 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-4818ed7afa0ab2f82d28f65e637609fd]: Commencement: Sch. 3 para. 157 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-247ed284a27cce7dbbadb791987122de]: Commencement: Sch. 3 para. 158 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-4b09235328693448415b80592c0b6ee7]: Commencement: Sch. 3 para. 159 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-b58ef8144944da5eced20d2f51ed4c11]: Commencement: Sch. 3 para. 160 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00063]: Footnote: Section 24A was inserted by paragraph 33 of Schedule 7 to the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^key-1389856d5e1f5447a3c86fe27d81e53e]: Commencement: Sch. 3 para. 161 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-51ff6f11aa1534eab561f057998ad00b]: Commencement: Sch. 3 para. 162 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-48fa31db81268805b789e5ed0be38c75]: Commencement: Sch. 3 para. 163 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-38a32e351fd330c6e52ec0bf9d2da231]: Commencement: Sch. 3 para. 164 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00064]: Footnote: Section 28(1A) was inserted by paragraph 34 of Schedule 7 to the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^key-6780f9f7fc18bca26710fe868e52ac44]: Commencement: Sch. 3 para. 165 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-2f91d331543c32048b8da6a893652908]: Commencement: Sch. 3 para. 166 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-1b1f40839ad5b02b3bd42314f189c77b]: Commencement: Sch. 3 para. 167 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-9bd66089799a12c34fa91d11ff6c6146]: Commencement: Sch. 3 para. 168 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-5b610778614038c7540d3341b105d5c9]: Commencement: Sch. 3 para. 169 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00065]: Footnote: Subsection of section 80 was inserted by paragraph 29(5) of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^key-7c8a2daa2e8ad76a06a11271b955f8dd]: Commencement: Sch. 3 para. 170 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-19bf59be62aa6ad8821fc917507839ea]: Commencement: Sch. 3 para. 171 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00066]: Footnote: In Schedule 1: Paragraph 1 was amended by article 2(1) of, and the Schedule to, the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)) and paragraphs 271 and 273 of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4); paragraph 8 was amended by paragraph 4 of Schedule 5 to the National Assembly of Wales (Transfer of Functions) Order 2000 ([S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253)); and ministerial functions in respect of Scotland were further transferred by article 2 of, and Schedule 1 to, the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+
+[^key-6f45d9f7a9ff28bfa413d118b2cd2b7d]: Commencement: Sch. 3 para. 172 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00067]: Footnote: In Schedule 4: paragraph 1 was amended by paragraph 5 of Schedule 11 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) and paragraph 29(1), (6) and (7) of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15); paragraph 3 was amended by section 7(2) of the Armed Forces (Pensions and Compensation) Act [2004 (c.32)](https://www.legislation.gov.uk/ukpga/2004/32) and paragraph 22(3) of Schedule 7 to the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19); sub-paragraphs (1A) and (1B) of paragraph 5 were inserted by paragraphs 271 and 274 of Schedule 4 to the 2005 Act; paragraph 8 was amended by article 2(1) of, and the Schedule to, the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)); and ministerial functions in respect of Scotland were further transferred by article 2 of, and Schedule 1 to, the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+
+[^key-36dc517c4b610488b0d8bda3d0c15232]: Commencement: Sch. 3 para. 173 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-b752a670da119dd4cd6212dc20f59524]: Commencement: Sch. 3 para. 174 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00068]: Footnote: [1999 c.14](https://www.legislation.gov.uk/ukpga/1999/14). Section 9(2) was amended by paragraph 26 of Schedule 4 to, the Care Standards Act [2000 (c.14)](https://www.legislation.gov.uk/ukpga/2000/14), paragraph 157 of Schedule 7 to the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), paragraph 6 of Schedule 14, paragraph 122 of Schedule 21 and Part 3 of Schedule 23 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), paragraph 23 of Schedule 9 and Part 1 of Schedule 19 to the Education Act [2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18), paragraph 38 of Schedule 2 and Part 2 of Schedule 3 to the Childcare Act [2006 (c.21)](https://www.legislation.gov.uk/ukpga/2006/21), and section 170(3) of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40). Subsections (3A) to (3C) of section 9 were inserted by paragraph 26 of Schedule 4 to the Care Standards Act 2000. The Schedule was amended by paragraph 31 of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^key-0813711205f8f7ca1ea2c7b73af9c180]: Commencement: Sch. 3 para. 175 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00069]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^key-c978082a775d68c85c71f8250f01b756]: Commencement: Sch. 3 para. 176 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-75cad3c7320cfad41ed689d2c8dec494]: Commencement: Sch. 3 para. 177 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-588bc0116ec071faf901c05b94aee64d]: Commencement: Sch. 3 para. 178 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00070]: Footnote: [1999 c.22](https://www.legislation.gov.uk/ukpga/1999/22).
+
+[^key-3d884014697251b6eca7300aadeed821]: Commencement: Sch. 3 para. 179 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00071]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33). Subsection (2A) was inserted into section 103 (as it had effect before the commencement of section 53 of the Nationality, Immigration and Asylum Act 2002) by section 10 of the Asylum and Immigration (Treatment of Claimants, etc) Act [2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19). Section 103A is substituted, from a date to be appointed, by section 53 of the 2002 Act.
+
+[^key-8fee6f108d4e65e9d1bbf1c0f76929b8]: Commencement: Sch. 3 para. 180 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-e3deeacf9f39052dbb3a95dfd53a33e4]: Commencement: Sch. 3 para. 181 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-3846f62379789e0e9caf158121378649]: Commencement: Sch. 3 para. 182 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00072]: Footnote: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^key-73d84dc53fccd01a8519e51a7c257f29]: Commencement: Sch. 3 para. 183 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-97ce789657ae339c0b07a1f4b81a84a9]: Commencement: Sch. 3 para. 184 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-43562defa54fe4790731ad8a35324559]: Commencement: Sch. 3 para. 185 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-128dd35ec1622c0dbc4300bf83964c35]: Commencement: Sch. 3 para. 186 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-54ef844dcab595d8746485c6bdf38d22]: Commencement: Sch. 3 para. 187 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00073]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^key-ee17adfe3ba305e08e32205e0bdc1815]: Commencement: Sch. 3 para. 188 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00074]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36). The entry relating to the Criminal Injuries Compensation Appeals Panel was inserted by article 2 of, and Schedule to, the Freedom of Information (Additional Public Authorities) Order 2002 ([S.I. 2002/2623](https://www.legislation.gov.uk/uksi/2002/2623)).
+
+[^key-a095c53f114818efdab13508f03d1d75]: Commencement: Sch. 3 para. 189 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00075]: Footnote: [2000 c.43](https://www.legislation.gov.uk/ukpga/2000/43).
+
+[^key-d0b1e2c29f61990578035e2528d3d0d3]: Commencement: Sch. 3 para. 190 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00076]: Footnote: [2000 c.19](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^key-eff8d4a11b4e3844858492b59fca6c00]: Commencement: Sch. 3 para. 191 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00077]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^key-efed7c715e93238c0d18a5b89f81304c]: Textual amendment: [Sch. 3 para. 191(2)-(7)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/191/2) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 186](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/186)
+
+[^key-f171fc1c2d41605cdc200dc4237bb321]: Commencement: Sch. 3 para. 192 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00078]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). Section 167B is inserted, from a date to be appointed, by section 169 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^key-3e48212e44d3d11a02d57cf74650b62f]: Commencement: Sch. 3 para. 193 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-ca170b7b10c5ceb8255fda5f364088ec]: Commencement: Sch. 3 para. 194 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-24e4061314631e71f328cb8737dcc26e]: Commencement: Sch. 3 para. 195 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-dc5be5356d05f7ec6783f801773daeb4]: Commencement: Sch. 3 para. 196 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-c12227e31244e9a405e651b4adeb90de]: Commencement: Sch. 3 para. 197 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00079]: Footnote: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^key-afc149b1236b529ffa7f89dd690eb819]: Commencement: Sch. 3 para. 198 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00080]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43).
+
+[^key-20a76d2b2c33fe320ef746f128ea1742]: Commencement: Sch. 3 para. 199 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-365d8164d90d6a7fcfdcba577f038d7d]: Commencement: Sch. 3 para. 200 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-dde104d3f4508de55c9cde79c0d2606b]: Commencement: Sch. 3 para. 201 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-1b23859ba25f295674c342302fefc018]: Commencement: Sch. 3 para. 202 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00081]: Footnote: [2004 c.6](https://www.legislation.gov.uk/ukpga/2004/6).
+
+[^key-e508cc5a9d3368cf575dd8552eddbb9a]: Commencement: Sch. 3 para. 203 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00082]: Footnote: [2004 c.19](https://www.legislation.gov.uk/ukpga/2004/19).
+
+[^key-cfaec455aec292460bd4c1b51840aca8]: Commencement: Sch. 3 para. 204 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00083]: Footnote: [2004 c.28](https://www.legislation.gov.uk/ukpga/2004/28). Section 37A was inserted by paragraph 5 of Schedule 6 to the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12). Section 38A was inserted by paragraph 7 of Schedule 6 to the 2007 Act. Section 43A was inserted by paragraph 13 of Schedule 6 to the 2007 Act. Section 44A was inserted by paragraph 15 of Schedule 6 to the 2007 Act.
+
+[^key-aa2ac47d41f6a64c3922687591b17d0d]: Commencement: Sch. 3 para. 205 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-fc7cc8ee07c4cab76fa3a6bae7aa2a7e]: Commencement: Sch. 3 para. 206 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-5ccaf931e6aa131fc231979611f9d2e5]: Commencement: Sch. 3 para. 207 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-a61fd700903d3be206b391a7c2862dfa]: Commencement: Sch. 3 para. 208 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-8335f2d13b5d3cc94a7be0480446b1ea]: Commencement: Sch. 3 para. 209 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-369e0498f81cc8f142fa5b066374ad9b]: Commencement: Sch. 3 para. 210 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-a835d1ca4b96636ef5d5ce0ef6eab025]: Commencement: Sch. 3 para. 211 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-8c4d2ab1a1da280d85a5c81dd4a6ad5e]: Commencement: Sch. 3 para. 212 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-a525c19908c41de4d521db7357ee7875]: Commencement: Sch. 3 para. 213 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-ecaf4689dd259b699e5d62ab7284e0ba]: Commencement: Sch. 3 para. 214 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-1a979e471d676d945063d8dd781e59fb]: Commencement: Sch. 3 para. 215 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-740aefb0ac34eded7c8d9c9eac7ffafb]: Commencement: Sch. 3 para. 216 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00084]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4). Sections 3(7B) and 94B were inserted by sections 1 and 53(1) and (2) of the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) respectively.
+
+[^key-50380f4f391cd9109a041deb270c4c91]: Commencement: Sch. 3 para. 217 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-f2ebc1b2903c0b8a5344d24b59c1de26]: Commencement: Sch. 3 para. 218 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-5f46d96b3690975dfed2c3a9bdd8d53b]: Commencement: Sch. 3 para. 219 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-70e9223eddec024f7abf5779913e0c11]: Commencement: Sch. 3 para. 220 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-7b12ca051b41964ae6899643cfe5e7b8]: Commencement: Sch. 3 para. 221 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00085]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^key-92f17967de9dc5067416f162e37e97b2]: Commencement: Sch. 3 para. 222 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00086]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^key-5f8bb3546ab2c6886e9917282eb0bb1a]: Commencement: Sch. 3 para. 223 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00087]: Footnote: [2007 c.12](https://www.legislation.gov.uk/ukpga/2007/12).
+
+[^key-fe826f10f8134c9343ae9337a0a46107]: Commencement: Sch. 3 para. 224 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00088]: Footnote: [2008 c.6](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^key-87c2d9387a3f8fa26cd2f19881e70509]: Commencement: Sch. 3 para. 225 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-8656c97e8d9d6fdbda7db42bda2796be]: Commencement: Sch. 3 para. 226 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-c5d9da57a658e680ff5038a8f5c17ed8]: Commencement: Sch. 3 para. 227 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^key-82535ac33743109c1272b5ba23d882b6]: Commencement: Sch. 3 para. 228 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+
+[^f00089]: Footnote: [1992 c.6](https://www.legislation.gov.uk/ukpga/1992/6).
+
+[^f00090]: Footnote: [1993 c.8](https://www.legislation.gov.uk/ukpga/1993/8).
+
+[^f00091]: Footnote: [1995 c.34](https://www.legislation.gov.uk/ukpga/1995/34).
+
+[^f00092]: Footnote: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00093]: Footnote: [1999 c.14](https://www.legislation.gov.uk/ukpga/1999/14).
+
+[^f00094]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00095]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^f00096]: Footnote: [2000 c.19](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^f00097]: Footnote: [2001 c.10](https://www.legislation.gov.uk/ukpga/2001/10).
+
+[^f00098]: Footnote: [2002 c.26](https://www.legislation.gov.uk/ukpga/2002/26).
+
+[^f00099]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^f00100]: Footnote: [2004 c.32](https://www.legislation.gov.uk/ukpga/2004/32).
+
+[^f00101]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^f00102]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^f00103]: Footnote: [2007 c.12](https://www.legislation.gov.uk/ukpga/2007/12).
+
+[^f00104]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^f00105]: Footnote: [2008 c.6](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^f00106]: Footnote: [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)
+
+[^f00107]: Footnote: [S.I. 1999/1747](https://www.legislation.gov.uk/uksi/1999/1747).
+
+[^f00108]: Footnote: [S.I 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)
+
+[^f00109]: Footnote: [S.I. 2003/2589](https://www.legislation.gov.uk/uksi/2003/2589).
+
+[^f00110]: Footnote: [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
+
+[^f00111]: Footnote: [S.I. 2007/2185](https://www.legislation.gov.uk/uksi/2007/2185).

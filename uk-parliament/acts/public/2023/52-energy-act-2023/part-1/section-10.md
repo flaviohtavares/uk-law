@@ -1,0 +1,63 @@
+---
+title: Energy Act 2023, section 10
+act: Energy Act 2023
+section: '10'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 10
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 10. Competitive tenders for licences[^key-708b787a945ff9c4759b4d579867023f]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may by regulations make such provision as the Secretary of State considers appropriate for facilitating the making, in prescribed cases, of a determination on a competitive basis of the person to whom a licence is to be granted.
+
+(2) That provision may include—
+
+- (a) provision, in prescribed cases, for the publication of a proposal to grant a licence;
+- (b) provision for the inclusion in such a proposal of an invitation to apply for a licence;
+- (c) provision restricting the making of applications for a licence and imposing requirements as to the period within which they must be made;
+- (d) provision for regulating the manner in which applications are considered and determined;
+- (e) provision authorising the Secretary of State to direct, in relation to a particular competition, that specified functions which would, apart from the direction, be exercisable by the economic regulator are, so far as they relate to that competition, to be exercised instead by a specified person.
+
+(3) Before making regulations under subsection (1) the Secretary of State must give notice to the economic regulator and the appropriate devolved authorities—
+
+- (a) stating that the Secretary of State proposes to make regulations under this section, and
+- (b) specifying the period (of not less than 28 days from the date on which the notice is given) within which representations must be made with respect to the proposed provisions,
+
+and must consider any representations duly made and not withdrawn.
+
+(4) Regulations under subsection (1)—
+
+- (a) may make provision by reference to a determination by the economic regulator or to the opinion of the economic regulator as to any matter;
+- (b) may dispense with or supplement provision made in relation to applications for licences under section 9.
+
+(5) Regulations under subsection (1) are subject to the affirmative procedure.
+
+(6) For the purposes of subsection (3) the “appropriate devolved authorities” are—
+
+- (a) the Scottish Ministers, if the regulations contain provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;
+- (b) the Welsh Ministers, if the regulations contain provision that would be within the legislative competence of Senedd Cymru if it were contained in an Act of the Senedd (ignoring any requirement for the consent of a Minister of the Crown imposed under Schedule 7B to the Government of Wales Act 2006);
+- (c) the Department for the Economy in Northern Ireland, if the regulations contain provision that—
+  - (i) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and
+  - (ii) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998.
+
+(7) In this section—
+
+- “**competition**” means a determination such as is mentioned in subsection (1);
+- “**prescribed**” means prescribed in, or determined under, regulations under subsection (1);
+- “**specified**”, in relation to a direction under subsection (2)(e), means specified in the direction.
+
+## Annotations
+
+[^key-708b787a945ff9c4759b4d579867023f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/52/section/10) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

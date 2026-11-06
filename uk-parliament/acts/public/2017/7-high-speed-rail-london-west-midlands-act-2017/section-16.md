@@ -1,0 +1,34 @@
+---
+title: High Speed Rail (London - West Midlands) Act 2017, section 16
+act: High Speed Rail (London - West Midlands) Act 2017
+section: '16'
+status: revised-with-pending-changes
+text_date: '2024-10-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2017/7/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# High Speed Rail (London - West Midlands) Act 2017, section 16
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/7
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 16. Use of roads
+
+*Extent: E+W+S+N.I.*
+
+(1) The nominated undertaker may use any road situated on land specified in—
+
+- (a) the table in Schedule 8, or
+- (b) the table in paragraph 2 of Schedule 11,
+
+for the passage of persons or vehicles (with or without materials, plant or machinery) for Phase One purposes.
+
+(2) The power under subsection (1) may not be exercised after the end of five years beginning with the date on which Phase One of High Speed 2 is brought into general use.
+
+(3) The nominated undertaker must compensate the person having the management of a road to which subsection (1) applies for any loss which the person may suffer by reason of the exercise of the power under that subsection.
+
+(4) Any dispute as to a person's entitlement to compensation under subsection (3), or as to the amount of compensation, must be determined under and in accordance with Part 1 of the Land Compensation Act 1961.

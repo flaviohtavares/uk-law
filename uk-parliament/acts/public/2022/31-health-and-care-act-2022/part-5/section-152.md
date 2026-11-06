@@ -1,0 +1,42 @@
+---
+title: Health and Care Act 2022, section 152
+act: Health and Care Act 2022
+section: '152'
+status: revised
+text_date: '2025-07-07'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/2022/31/section/152
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Health and Care Act 2022, section 152
+
+> Text as at 2025-07-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 152. Offence of carrying out hymenoplasty: Scotland[^key-4d86c958b7060ae762f3735a210d90b0][^key-b3ac0b622a82d3ab095d5a1cfbd0eff3]
+
+*Extent: S*
+
+(1) It is an offence under the law of Scotland for a person to carry out hymenoplasty.
+
+(2) “**Hymenoplasty**” means the reconstruction of the hymen (with or without consent).
+
+(3) An offence is committed under subsection (1) only if the person—
+
+- (a) is in Scotland, or
+- (b) is outside the United Kingdom, and is a United Kingdom national or habitually resident in Scotland.
+
+(4) “**United Kingdom national**” means an individual who is—
+
+- (a) a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen,
+- (b) a person who under the British Nationality Act 1981 is a British subject, or
+- (c) a British protected person within the meaning of that Act.
+
+## Annotations
+
+[^key-4d86c958b7060ae762f3735a210d90b0]: Commencement: S. 152 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+
+[^key-b3ac0b622a82d3ab095d5a1cfbd0eff3]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2022/31/section/152) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

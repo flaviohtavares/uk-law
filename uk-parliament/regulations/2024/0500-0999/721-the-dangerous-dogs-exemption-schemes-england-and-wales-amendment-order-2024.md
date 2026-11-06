@@ -1,0 +1,113 @@
+---
+title: The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024
+id: uksi/2024/721
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2024-05-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2024/721
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/721/pdfs/uksiem_20240721_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2024/721/pdfs/uksi_20240721_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/721/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2024 No. 721
+
+Dogs, England And Wales
+
+The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024
+
+Made
+
+28th May 2024
+
+Laid before Parliament
+
+29th May 2024
+
+Coming into force
+
+20th June 2024
+
+The Secretary of State makes this Order in exercise of the powers conferred by section 1(5) and (6) of the Dangerous Dogs Act 1991[^f00001].
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024.
+
+(2) This Order comes into force on 20th June 2024.
+
+(3) This Order extends to England and Wales.
+
+## PART 2 — Amendment of the Dangerous Dogs (Compensation and Exemption Schemes) (England and Wales) Order 2023
+
+**2.** (1) The Dangerous Dogs (Compensation and Exemption Schemes) (England and Wales) Order 2023[^f00002] is amended as follows.
+
+(2) In article 9 (neutering)—
+
+- (a) before paragraph (1), insert—
+
+  > (A1) The holder of a certificate of exemption in respect of a dog that was at least 12 months old on the appointed day must—
+  >
+  > - (a) ensure that the dog is neutered on or before the relevant date; and
+  > - (b) provide the Secretary of State, on or before 26th July 2024, with such evidence as the Secretary of State may reasonably require which confirms that the dog was neutered in accordance with sub-paragraph (a).
+
+  ;
+- (b) in paragraph (1), after “exemption”, insert “in respect of a dog that was less than 12 months old on the appointed day”;
+- (c) in paragraph (2), in the words before the definition of “neutered”, for “paragraph (1)” substitute “this article”.
+
+## PART 3 — Amendment of the Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023
+
+**3.** (1) The Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023[^f00003] is amended as follows.
+
+(2) In article 7 (neutering)—
+
+- (a) before paragraph (1), insert—
+
+  > (A1) The holder of a certificate of exemption in respect of a dog that was at least 12 months old on 31st January 2024 must—
+  >
+  > - (a) ensure that the dog is neutered on or before the relevant date; and
+  > - (b) provide the Secretary of State, on or before 26th July 2024, with such evidence as the Secretary of State may reasonably require which confirms that the dog was neutered in accordance with sub-paragraph (a).
+
+  ;
+- (b) in paragraph (1), after “exemption”, insert “in respect of a dog that was less than 12 months old on 31st January 2024”;
+- (c) in paragraph (2), in the words before the definition of “neutered”, for “paragraph (1)” substitute “this article”.
+
+Douglas-Miller
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+28th May 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends article 9 of the Dangerous Dogs (Compensation and Exemption Schemes) (England and Wales) Order 2023 ([S.I. 2023/1204](https://www.legislation.gov.uk/uksi/2023/1204)) (“**the first Order**”) and article 7 of the Dangerous Dogs (Exemption Schemes and Miscellaneous Provisions) (England and Wales) Order 2023 ([S.I. 2023/1407](https://www.legislation.gov.uk/uksi/2023/1407)) (“**the second Order**”).
+
+Article 9 of the first Order and article 7 of the second Order impose requirements in relation to the neutering of XL Bully dogs in respect of which certificates of exemption have been granted under those Orders. In the case of an XL Bully dog that was at least 12 months old on 31st January 2024, the holder of a certificate of exemption in respect of such a dog must ensure that the dog is neutered on or before 30th June 2024. The holder must also, on or before that date, provide the Secretary of State with such evidence as the Secretary of State may reasonably require that the dog has been neutered. This Order amends these requirements to allow the holder of such a certificate of exemption to provide that evidence to the Secretary of State no later than 26th July 2024.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 65](https://www.legislation.gov.uk/ukpga/1991/65).
+
+[^f00002]: Footnote: [S.I. 2023/1204](https://www.legislation.gov.uk/uksi/2023/1204).
+
+[^f00003]: Footnote: [S.I. 2023/1407](https://www.legislation.gov.uk/uksi/2023/1407), to which there are amendments not relevant to these Regulations.

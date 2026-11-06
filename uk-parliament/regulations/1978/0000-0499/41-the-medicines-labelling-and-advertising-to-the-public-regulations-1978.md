@@ -1,0 +1,439 @@
+---
+title: The Medicines (Labelling and Advertising to the Public) Regulations 1978
+id: uksi/1978/41
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1978-01-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1978/41
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1978/41/pdfs/uksi_19780041_en.pdf
+- http://www.legislation.gov.uk/uksi/1978/41/made/data.pdf
+pending_changes: 9
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Medicines (Labelling and Advertising to the Public) Regulations 1978
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1978 No. 41
+
+MEDICINES
+
+The Medicines (Labelling and Advertising To the Public) Regulations 1978
+
+Made
+
+16th January 1978
+
+Laid before Parliament
+
+17th January 1978
+
+Coming into Operation
+
+1st February 1978
+
+The Secretaries of State respectively concerned with health in England and in Wales, the Secretary of State concerned with health and with agriculture in Scotland, the Minister of Agriculture, Fisheries and Food, the Department of Health and Social Services for Northern Ireland and the Department of Agriculture for Northern Ireland, acting jointly, in exercise of powers conferred by section 85(1), section 86(1), section 91(2), section 95(1), (2), (3), (5) and (6) and section 129(5) of the Medicines Act 1968 and now vested in them[^f00001] and of all other powers enabling them in that behalf, after consulting such organisations as appear to them to be representative of interests likely to be substantially affected by the following regulations, hereby make the following regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Medicines (Labelling and Advertising to the Public) Regulations 1978 and shall come into operation on 1st February 1978.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Medicines Act 1968;
+- “**advertisement**” has the same meaning as in section 92(1) and (2) of the Act;
+- “**certified midwife**” has the same meaning as in section 11(2) of the Act;
+- “**commercially interested party**” has the same meaning as in section 92(4) of the Act;
+- “**local authority**” means:
+  - (a) in relation to England and Wales, the Greater London Council, a county council, a London borough council, a district council or the Common Council of the City of London;
+  - (b) in relation to Scotland, a regional, islands or district council;
+  - (c) in relation to Northern Ireland, a district council;
+- “**registered nurse**” has the same meaning as in section 11(2) of the Act;
+- “**representation**” has the same meaning as in section 92(5) of the Act;
+- “**spermicidal contraceptive**” means a contraceptive substance or article (not being a veterinary drug) which acts wholly or mainly by chemical spermicidal means, but does not include—
+  - (a) a contraceptive substance or article which is administered orally,
+  - (b) an intra-uterine contraceptive device, or
+  - (c) a spermicidal lubricant which is or is to be applied to a condom, cap, or diaphragm;
+- “**venereal disease**” means syphilis, gonorrhoea or soft chancre;
+
+and other expressions have the same meanings as in the Act.
+
+(3) Except in so far as the context otherwise requires, any reference in these regulations to any provision of any enactment shall be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which may re-enact or replace it.
+
+(4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of these regulations as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Prohibition of advertisements for medicinal products and other substances and articles referring to specified diseases
+
+(1) Subject to the following provisions of these regulations, no advertisement shall be issued which is likely to lead to the use of any medicinal product or other substance or article—
+
+- (a) for the purpose of the treatment of human beings for any disease specified in Schedule 1 to these regulations, the diagnosis of any such disease, except under the instruction of a doctor or dentist, or
+- (b) for the purpose of procuring the miscarriage of women.
+
+(2) The prohibition imposed by paragraph (1) of this regulation does not apply in relation to the issue of an advertisement which relates to a medicinal product or other substance or article which is sold or supplied as a food or dietary supplement for persons suffering from diabetes.
+
+(3) For the purposes of this regulation the following shall be included among the acts taken to constitute the issue of an advertisement, that is to say—
+
+- (a) the sale or supply or offer or exposure for sale or supply, of a medicinal product in a labelled container or package;
+- (b) the supply, with a medicinal product of any description, of a leaflet relating solely to medicinal products of that description.
+
+## 3. Prohibition of advertisements for medicinal products on prescription only
+
+Subject to the following provisions of these regulations, no advertisement shall be issued likely to lead to the use of any medicinal product which is for use by being administered to human beings and is of a description or falling within a class specified—
+
+- (a) in any order made under section 58(1) of the Act (medicinal products on prescription only) which is subject to the restrictions imposed by section 58(2) of the Act, or
+- (b) in any order made under section 62(1) of the Act which prohibits the retail sale or the supply in circumstances corresponding to retail sale of that medicinal product except where such sale or supply—
+  - (i) takes place on premises which are a registered pharmacy and is by or under the supervision of a pharmacist in accordance with a prescription given by a doctor or a dentist, or
+  - (ii) is by a doctor or dentist to his patient or to a person responsible for the care of his patient.
+
+## 4. Prohibition of advertisements relating to medicinal products for the purpose of treatment of specified diseases
+
+(1) Subject to the following provisions of these regulations, no advertisement shall be issued relating to any medicinal product which is for use by being administered to human beings, not being a medicinal product of a description or falling within a class specified in regulation 3 of these regulations, which is likely to lead to the use of such a medicinal product—
+
+- (a) for the purpose of the treatment of human beings for, or the prevention in human beings of—
+  - (i) any disease of a description specified in column 1 of Part I of Schedule 2 to these regulations, except a purpose specified in column 2 of that Part of that Schedule, subject to the restrictions (if any) specified in column 3 of that Part of that Schedule, or
+  - (ii) any disease of any system or part of the body specified in column 1 of Part II of that Schedule, except a purpose specified in column 2 of that Part of that Schedule, subject to the restrictions (if any) specified in column 3 of that Part of that Schedule, or
+  - (iii) any adverse condition specified in column 2 of Part III of that Schedule opposite a system or part of the body specified in column 1 of that part of that Schedule, except a purpose specified in column 3 of that Part of that Schedule;
+- (b) for the purpose of the treatment of human beings for any physical injury specified in column 1 of Part IV of that Schedule except where the medicinal product is in a form and used for a purpose specified in column 2 of that Part of that Schedule;
+- (c) for any purpose specified in Part V of that Schedule.
+
+(2) The restrictions imposed by paragraph (1) of this regulation shall not apply in relation to the issue of an advertisement in a newspaper or journal or to the transmission of any advertisement by the Independent Broadcasting Authority under the Independent Broadcasting Act 1973 where the holder of a product licence has, as soon as is reasonably possible, complied with or taken all necessary steps to ensure compliance with any direction in writing given by the licensing authority to the effect that an advertisement relating to medicinal products of the particular description to which such product licence relates ought not to be issued for any of the purposes to which paragraph (1) relates.
+
+(3) For the purposes of this regulation the following shall be included among the acts taken to constitute the issue of an advertisement, that is to say—
+
+- (a) the sale or supply, or offer or exposure for sale or supply, of a medicinal product in a labelled container or package;
+- (b) the supply, with a medicinal product of any description, of a leaflet relating solely to medicinal products of that description.
+
+## 5. Prohibition of representations
+
+(1) Subject to the following provisions of these regulations no representation shall be made by a commercially interested party which is likely to lead to the use of a medicinal product or other substance or article to which regulation 2 of these regulations applies for a purpose specified in regulation 2, or a medicinal product to which regulation 4 of these regulations applies for a purpose specified in regulation 4, if the representation—
+
+- (a) is made in connection with the sale or supply, or offer for sale or supply, of a medicinal product or other substance or article to which regulation 2 applies, or a medicinal product to which regulation 4 applies, or
+- (b) is made to any person for the purpose of inducing him to purchase a medicinal product or other substance or article to which regulation 2 applies or a medicinal product to which regulation 4 applies from a person selling by retail medicinal products or other substances or articles to which regulation 2 or regulation 4 applies, or
+- (c) in the case of medicinal products to which regulation 2 or regulation 4 applies, is made to the patient of a doctor or dentist for the purpose of inducing him to request the doctor or dentist to prescribe medicinal products of that description.
+
+(2) The prohibition imposed by sub-paragraph (a) or sub-paragraph (b) of paragraph (1) above does not apply to any representation—
+
+- (a) which is made by a pharmacist in relation to the sale or supply of a medicinal product where—
+  - (i) the pharmacist dispenses the medicinal product in accordance with a prescription given by a doctor or dentist; or
+  - (ii) the pharmacist is requested by or on behalf of a person to sell or supply the medicinal product in accordance with the pharmacist's own judgment as to the treatment required; or
+- (b) which is made by a chiropodist registered by the Chiropodists Board under the Professions Supplementary to Medicine Act 1960 to a person who is a patient of his in relation to a medicinal product for the purpose of treatment by being administered to the surface of the foot; or
+- (c) which is made to a patient in relation to a medicinal product by a registered nurse or a certified midwife.
+
+## 6. Prohibition of advertisements for, and containers and packages of, spermicidal contraceptives and leaflets
+
+(1) Subject to the following provisions of these regulations, no advertisement shall be issued relating to a spermicidal contraceptive which contains any statement or suggestion that the spermicidal contraceptive to which the advertisement relates is a highly reliable means of contraception when used or applied otherwise than in conjunction with another method of contraception.
+
+(2) Subject to the following provisions of these regulations, every advertisement relating to a spermicidal contraceptive shall contain, and every container and package of a spermicidal contraceptive shall be labelled to show, and any leaflet which is supplied, or is intended to be supplied, with a spermicidal contraceptive shall contain, the warning specified in paragraph 1 of Schedule 3 to these regulations. Such warning shall be clearly legible and shall appear conspicuously and in a prominent position in the advertisement, labelled container or package or leaflet.
+
+(3) An advertisement, labelled container or package or leaflet to which paragraph (2) above applies may include a reference to a contraceptive substance, article, instrument, apparatus or appliance of any kind other than a spermicidal contraceptive, but shall not contain any recommendation for the use of a diaphragm or cap as a means of contraception where such diaphragm or cap is made of any substance which would be likely to be deleteriously affected if used in conjunction with the spermicidal contraceptive to which that advertisement, labelled container, labelled package or leaflet relates.
+
+(4) Any container or package of, and any leaflet supplied, or intended to be supplied with, a spermicidal contraceptive shall also show or contain the warning specified in paragraph 2 of Schedule 3 to these regulations. Such warning shall appear in bold face, not less than the size of type used in the greater part of the printed text of the label on the container or package or the printed text of the leaflet.
+
+## 7. Prohibition of advertisements containing certain words or phrases
+
+No advertisement shall be issued relating to any medicinal product which is for use by being administered to human beings which contains any reference to the Commission, an appropriate committee or the licensing authority unless the licensing authority specifically require such reference.
+
+## 8. General exceptions
+
+(1) The prohibitions, restrictions and requirements imposed by any provision of these regulations do not apply to any advertisement relating to a medicinal product where the holder of the product licence which relates to the medicinal product has sent or delivered a copy of the advertisement to the licensing authority and the authority have not within the period of 42 days commencing with the date of receipt of the advertisement by the authority notified the holder of the product licence that the advertisement ought not to be issued.
+
+(2) The prohibitions, restrictions and requirements imposed by any provision of these regulations do not apply to—
+
+- (a) any letter written to a person in reply to a specific inquiry made by or on behalf of that person in relation to a medicinal product of a particular description;
+- (b) any letter or other communication specifically addressed to a member of either House of Parliament or of the Northern Ireland Assembly;
+- (c) any representation made by a commercially interested person or any advertisement sent or supplied exclusively, or any advertisement included in a journal or other publication supplied or directed mainly or exclusively to, or any cinematographic film or sound recording played to—
+  - (i) persons who in the usual course of their business or profession may lawfully prescribe, sell, supply, manufacture, assemble or administer the medicinal product or other substance or article to which that advertisement relates, or
+  - (ii) persons who in the course of such business or profession provide training or instruction to persons undergoing training with a view to obtaining a qualification in such business or profession, or
+  - (iii) persons who in the course of such business or profession as aforesaid are engaged in the preparation or publication of printed matter, cinematograph film, sound recording or matter intended for sound broadcasting or television in relation to the medicinal product or other substance or article to which that advertisement relates or in relation to the treatment or prevention of any disease to which any provision of these regulations applies, or
+  - (iv) a Minister of the Crown, a Government Department, a local authority, or a charitable, educational or scientific body, in relation to any of the functions of any of such bodies relating to medicinal products or other substances or articles, or the treatment, prevention or diagnosis of any of the diseases specified in Schedule 1 or Schedule 2 to these regulations;
+- (d) any reference to a medicinal product of a description or falling within a class specified in regulation 3 of these regulations where such reference is contained in a statutory report circulated to members of a company formed and registered under the Companies Act 1948 or the Companies Act (Northern Ireland) 1960 or formed and registered under or incorporated by or under any other Act of Parliament or any other report, circular, notice or announcement prepared solely for the purpose of providing information about a company's affairs;
+- (e) any printed matter, photograph, cinematograph film, sound recording, sound broadcasting, television broadcast or sound or television programme transmitted to subscribers to a diffusion service (in this paragraph referred to as “**the material**”), if—
+  - (i) the material has not been prepared or issued by or on behalf of or at the request of a commercially interested party, and
+  - (ii) the material has not been prepared or issued for the purposes of inducing any person to purchase, or to request a doctor or dentist to prescribe, a medicinal product or other substance or article;
+- (f) any notice displayed for the purpose of encouraging employees to participate in a health care programme.
+
+(3) The prohibitions, restrictions and requirements imposed by any provision of these regulations do not apply for the period up to and including the 1st January 1981 to the use of the name of a medicinal product where such name is that shown in the product licence issued in respect of such product.
+
+## 9. Exceptions for labels and leaflets
+
+(1) The prohibitions, restrictions and requirements imposed by any provision of these regulations do not apply to any labelled container or package of a medicinal product or any other substance or article or any leaflet supplied with such product where that product is prepared or dispensed with a view to administration to a person in accordance with the prescription of a doctor or dentist.
+
+(2) The prohibition imposed by regulation 4(1) of these regulations does not apply to a labelled container or package of a medicinal product or to a leaflet supplied, or intended to be supplied with a medicinal product which—
+
+- (a) is a herbal remedy, not being a herbal remedy of a description, or falling within a class, specified in any order made under section 56(3) of the Act (exceptions in respect of herbal remedies), or
+- (b) consists of one or more of the dilutions of unit preparations of any substance having been diluted to at least one part of a million (6x),
+- (c) is a medicinal product prepared and dispensed by a pharmacist in accordance with his own judgment for the treatment required by the person to whom that medicinal product is to be administered if—
+  - (i) he prepares or dispenses that medicinal product at the request of that person, and
+  - (ii) that person is present in the pharmacy in which that medicinal product is so prepared at the time of making such request,
+
+and the conditions specified in paragraph (3) below are satisfied.
+
+(3) The conditions referred to in paragraph (2) above are—
+
+- (a) that the labelled container and package of, and any leaflet supplied with, a medicinal product to which that paragraph applies shall not include any word or phrase specified in Schedule 4 to these regulations except in so far as the inclusion of any such word or phrase is necessary to explain the contra-indications or precautions or the action to be taken in the event of over-dosage of the medicinal product;
+- (b) that every container and package of such medicinal product shall be labelled to show, and every leaflet supplied with such medicinal product shall include, such of the phrases and particulars specified in paragraph 1 of Schedule 5 to these regulations as may be appropriate in any particular case and the warning specified in paragraph 2 of that Schedule, which shall be completed in the manner specified in paragraph 3 of that Schedule;
+- (c) that the labelled container and package of, and any leaflet supplied, or intended to be supplied with, the medicinal product shall not contain any reference to any disease or purpose in respect of which the issue of advertisements is prohibited by the provisions of these regulations, other than the name of any disease which is required to be shown on containers and packages and included in leaflets in accordance with the requirements imposed by sub-paragraph (b) above and Schedule 5 to these regulations;
+- (d) that the warning required to be shown on containers and packages and leaflets in accordance with sub-paragraph (b) above shall be within a rectangle within which there shall be no other matter of any kind.
+
+(4) In this regulation “**unit preparation**” means a preparation, including a mother tincture, prepared by a process of solution, extraction or trituration with a view to being further diluted tenfold, or serially in multiple powers of ten, in an inert diluent, and then used either in this diluted form or, where applicable, by impregnating tablets, granules, powders or other inert substances for the purpose of being administered to human beings.
+
+## 10. Exceptions for advertisements for certain classes of medicinal products
+
+The prohibitions, restrictions and requirements imposed by regulations 2, 4 and 5 of these regulations do not apply to any advertisement or representation relating to a medicinal product, or any labelled container or package of a medicinal product, or any leaflet supplied, or intended to be supplied, with a medicinal product if such advertisement, representation, labelled container or package or leaflet corresponds with the terms of the provisions of the product licence which relates to the medicinal product and the product licence—
+
+- (a) is or was granted on or after 17th March 1976, not being a licence the number of which, as allocated by the licensing authority, includes the figures “59” as the fifth and sixth digits respectively of that number (being a licence granted under circumstances corresponding to those applying upon the grant of a licence of right), or
+- (b) is a product licence which has been varied as to indications on or after 17th March 1976.
+
+## 11. Temporary and transitional provisions
+
+(1) The provisions of these regulations other than regulation 2 shall not apply to the issue of any advertisement before 1st August 1978.
+
+(2) The provisions of these regulations shall not have effect in relation to labelled containers and packages of, or leaflets supplied, or intended to be supplied, with a medicinal product to which a product licence has been granted before the coming into operation of these regulations or, where such licence has been granted thereafter—
+
+- (a) in the case of a spermicidal contraceptive, until 30th September 1978;
+- (b) in the case of any other product, until 30th September 1979.
+
+(3) Where a person, in the course of a business carried on by him, sells or supplies or has in his possession for sale or supply by way of wholesale dealing such a medicinal product as is mentioned in paragraph (2) above in such circumstances as to comply with all requirements as to labelling which applied to that product immediately before these regulations came into operation, but not with the requirements of these regulations, and the product is assembled in the same labelled container in which the product is to be sold by retail or supplied in circumstances corresponding to retail sale, for the purposes of the application of these regulations in relation to such sale or supply or possession during the period until and including 31st December 1979 the requirements of these regulations shall be regarded as having been complied with.
+
+(4) Where a person, in the course of a business carried on by him, sells by retail, supplies in circumstances corresponding to retail sale, or has in his possession for the purpose of such sale or supply such a medicinal product as is mentioned in paragraph (2) above in such circumstances as to comply with all requirements as to labelling which applied to that product immediately before these regulations came into operation, but not with the requirements of these regulations, for the purposes of the application of these regulations in relation to such sale or supply or possession during the period until and including 31st December 1980 the requirements of these regulations shall be regarded as having been complied with.
+
+## 12. Offences
+
+Any person who contravenes these regulations or who contravenes the provisions of section 85(3) or section 86(2) of the Act shall be guilty of an offence and—
+
+- (a) shall be liable on summary conviction to a fine not exceeding £400, and
+- (b) shall be liable on conviction on indictment to a fine or to imprisonment for a term not exceeding 2 years or to both.
+
+## 13. Amendment of regulation 19 of the Medicines (Labelling) Regulations 1976
+
+(1) Regulation 19 of the Medicines (Labelling) Regulations 1976, as amended[^f00002], shall be further amended in accordance with the following paragraphs of this regulation.
+
+(2) In paragraph (1)(c), for the words “30th June 1978” there shall be substituted the words “31st December 1979”, and for the words “30th June 1979” there shall be substituted the words “31st December 1979”.
+
+(3) In paragraph (1)(d), for the words “30th June 1979” there shall be substituted the words “31st December 1980”, and for the words “30th June 1980” there shall be substituted the words “31st December 1980”.
+
+David Ennals
+
+Secretary of State for Social Services
+
+3rd January 1978
+
+John Morris
+
+Secretary of State for Wales
+
+10th January 1978
+
+Bruce Millan
+
+Secretary of State for Scotland
+
+10th January 1978
+
+In witness whereof the official seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 11th January 1978.
+
+John Silkin
+
+Minister of Agriculture, Fisheries and Food
+
+Sealed with the official seal of the Department of Health and Social Services for Northern Ireland this 13th day of January 1978.
+
+N. Dugdale
+
+Permanent Secretary
+
+Sealed with the official seal of the Department of Agriculture for Northern Ireland this 16th day of January 1978.
+
+J. A. Young
+
+Permanent Secretary
+
+## SCHEDULE 1 — DISEASES IN RESPECT OF WHICH ADVERTISEMENTS ARE PROHIBITED
+
+Regulation 2(1)
+
+- Venereal disease
+- Paralysis
+- Tuberculosis
+- Cataract
+- Cancer
+- Glaucoma
+- Diabetes
+- Epilepsy or fits
+- Kidney disease
+
+## SCHEDULE 2
+
+Regulation 4
+
+### PART I — INFECTIONS, DEGENERATIVE AND DEFICIENCY CONDITIONS
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th>Description of disease</th><th>Purpose for which advertising is permitted</th><th>Restrictions on permitted advertisements</th></tr>
+</thead>
+<tbody>
+<tr><td>1. Infections including viral, bacterial and fungal diseases.</td><td>Treatment or prevention of minor cutaneous infections where a medicinal product is to be administered to an external surface of the body, including treatment by means of preparations for the relief of pruritus or exanthematous rashes of childhood infection and treatment of boils and the treatment or prevention of athlete's foot.</td><td>None.</td></tr>
+<tr><td></td><td>Aphthous ulcers.</td><td>None.</td></tr>
+<tr><td></td><td>Relief of symptoms of common colds, coughs, conditions commonly referred to as influenza and similar upper respiratory tract infections.</td><td>None.</td></tr>
+<tr><td></td><td>Treatment of minor acute inflammatory conditions of the buccal cavity and pharynx.</td><td>None.</td></tr>
+<tr><td>2. Parasitic diseases.</td><td>Treatment of scabies or an infestation by thread-worms, lice, or round-worms.</td><td>That advertisements consist solely of labelled containers or packages in which, or leaflets with which, a medicinal product is supplied.</td></tr>
+<tr><td>3. Senility and degenerative conditions associated with ageing.</td><td>None.</td></tr>
+<tr><td>4. Treatment of diseases of malnutrition including vitamin and mineral deficiency states.</td><td>Dietary supplements.</td><td>None.</td></tr>
+</tbody>
+</table>
+
+### PART II
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th>System or part of the body</th><th>Purposes for which advertising is permitted</th><th>Restrictions on permitted advertisements</th></tr>
+</thead>
+<tbody>
+<tr><td>1. The gastro-intestinal system.</td><td>Relief of such symptoms as are commonly referred to as indigestion, heart-burn, hyperacidity, dyspepsia, halitosis (bad breath) or flatulence.</td><td>None.</td></tr>
+<tr><td></td><td>Symptomatic relief of colicky pain, stomach ache or nausea.</td><td>None.</td></tr>
+<tr><td></td><td>Relief of occasional or non-persistent diarrhoea or constipation.</td><td>None.</td></tr>
+<tr><td></td><td>Prevention of travel sickness or related symptoms.</td><td>None.</td></tr>
+<tr><td>2. Liver, biliary system and pancreas.</td><td>None.</td></tr>
+<tr><td>3. Kidneys and ureters.</td><td>None.</td></tr>
+<tr><td>4. The nervous system.</td><td>Symptomatic relief of headache including migrainous headache.</td></tr>
+<tr><td></td><td>Prevention of migraine.<br>Treatment of the condition known as neuralgia.</td><td>That advertisements consist solely of labelled containers or packages in which, or leaflets with which, a medicinal product is supplied.</td></tr>
+<tr><td>5. The genito-urinary system and mammary glands.</td><td>Symptomatic relief of dysmenorrhea.</td><td>None.</td></tr>
+<tr><td></td><td>Relief of sore nipples during lactation by means of local applications.</td><td>None.</td></tr>
+<tr><td></td><td>Contraception by means of the use of spermicidal contraceptives.</td><td>The restrictions and requirements imposed by regulation 6 of these regulations.</td></tr>
+<tr><td>6. The skin, hair and scalp.</td><td>Treatment, where applied to an external surface of the body, of acne.</td><td>None.</td></tr>
+<tr><td></td><td>Prevention or treatment of dandruff by means of external applications.</td><td>None.</td></tr>
+<tr><td></td><td>Temporary relief of psoriasis by application to an external surface of the body.</td></tr>
+<tr><td></td><td>Treatment, where applied to an external surface of the body, of eczema and skin allergies.</td></tr>
+<tr><td></td><td>Treatment of hard skin and corns by means of the application of corn plasters or solvents.</td><td>None.</td></tr>
+<tr><td></td><td>Prevention or treatment of contact dermatitis by means of protective applications.</td><td>None.</td></tr>
+<tr><td></td><td>Relief or prevention of common minor skin conditions including dry and chapped skin, cold sores, nettle rashes, pruritus, insect bites and napkin rash.</td><td>None.</td></tr>
+</tbody>
+</table>
+
+### PART III
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th>System or part of the body</th><th>Adverse conditions of those systems</th><th>Purposes for which advertising is permitted.</th></tr>
+</thead>
+<tbody>
+<tr><td>1. The cardio-vascular system.</td><td>(<em>a</em>) All diseases of the myocardium and heart valves, including rheumatic heart disease and coronary artery disease.</td><td>None.</td></tr>
+<tr><td></td><td>(<em>b</em>) Hypertension.</td><td>None.</td></tr>
+<tr><td></td><td>(<em>c</em>) Thrombosis.</td><td>None.</td></tr>
+<tr><td></td><td>(<em>d</em>) Oedema.</td><td>None.</td></tr>
+<tr><td></td><td>(<em>e</em>) Peripheral artery disease.</td><td>Treatment of chilblains.</td></tr>
+<tr><td></td><td>(<em>f</em>) Peripheral venous disease.</td><td>Treatment of haemorhoids by relief of symptoms by means of locally effective preparations or stool softening agents and lubricants.</td></tr>
+<tr><td></td><td>(<em>g</em>) Retinal vascular change.</td><td>None.</td></tr>
+<tr><td>2. The blood and the lymphatic system.</td><td>(<em>a</em>) Anaemia.</td><td>Prophylactic administration of iron and folic acid to avoid deficiency states in persons with inadequate diet or with increased dietary requirements.</td></tr>
+<tr><td></td><td>(<em>b</em>) Bleeding disorders.</td><td>None.</td></tr>
+<tr><td></td><td>(<em>c</em>) Leukaemia or other lymphoproliferative diseases.</td><td>None.</td></tr>
+<tr><td>3. The endocrine system.</td><td>Any organic or functional condition related to under or over activity of any part of the system.</td><td>Weight reduction dependent upon mechanism involving a reduced calorie or joule intake.</td></tr>
+<tr><td>4. The optical and auditory system.</td><td>Any organic condition affecting sight, hearing or balance.</td><td>Relief of symptoms by means of the local administration of eye preparations.<br>Relief of symptoms by means of the local administration of preparations as a solvent for ear wax.</td></tr>
+<tr><td>5. The musculo-skeletal system.</td><td>Any condition referred to as slipped disc, arthritis, osteoarthritis, rheumatoid arthritis or gout.</td><td>Symptomatic relief of muscular pain and stiffness including backache, sciatica, lumbago, fibrositis, rheumatic pain and cramp.</td></tr>
+<tr><td>6. The respiratory system.</td><td>Diseases of the lungs, pleura and bronchial tree.</td><td>Temporary relief of symptoms of hay fever, rhinitis or catarrh.<br>Relief of blocked-up sinuses.<br>Alleviation of an attack of bronchial asthma.</td></tr>
+<tr><td>7. The teeth and gums.</td><td>Pyorrhoea.<br>Gingivitis.</td><td>Prevention and treatment of gingivitis and prevention of pyorrhoea by means of oral hygiene.</td></tr>
+</tbody>
+</table>
+
+### PART IV
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Physical Injuries</th><th>Purposes for which advertising is permitted</th></tr>
+</thead>
+<tbody>
+<tr><td>Skeletal fractures and extensive burns, scalds or injuries.</td><td>Dressings, plasters, bandages or preparations applied to a surface of the body for the purpose of alleviation of any discomfort, or for the protection of an injured part of the body (including the prevention of infection and sunburn).</td></tr>
+</tbody>
+</table>
+
+### PART V — PURPOSES FOR WHICH IT IS PROHIBITED TO ADVERTISE ANY MEDICINAL PRODUCT TO THE PUBLIC
+
+**1.** Diagnosis of any disease or the ascertainment of the existence, degree or extent of any physiological condition specified in Schedule 1 to these regulations or in Part I, III or IV of this Schedule, or any disease of any system or part of the body specified in column 1 of Part II of this Schedule.
+
+**2.** Treatment or prevention of any clinical psychiatric or psychotic condition.
+
+**3.** Restoration or enhancement of sexual potency or libido.
+
+**4.** Alleviation of fatigue or tiredness of a chronic or persistent nature.
+
+**5.** Rejuvenation or the prevention of ageing.
+
+**6.** Contraception except by means of spermicidal contraceptives.
+
+**7.** Increasing or decreasing fertility.
+
+**8.** Treatment of addiction to any substance, except for the purpose of diminishing the desire to smoke tobacco by means of the administration of a medicinal product sold or supplied for that purpose.
+
+**9.** The treatment of sleeplessness or insomnia other than by the secondary effect of relief of pain or other symptoms.
+
+**10.** Sedation or tranquillising.
+
+**11.** General anaesthesia.
+
+**12.** Regulation of menstrual flow.
+
+## SCHEDULE 3 — WARNING AND NOTICE RELATING TO SPERMICIDAL CONTRACEPTIVES
+
+Regulation 6
+
+**1.** Warning. A higher degree of protection against pregnancy will be afforded by using another method of contraception in addition to a spermicidal contraceptive.
+
+**2.** Where avoidance of pregnancy is essential, the choice of contraceptive should be made in consultation with a doctor or a family planning clinic.
+
+## SCHEDULE 4 — WORDS AND PHRASES THE USE OF WHICH IS PROHIBITED IN CERTAIN LABELLED CONTAINERS AND PACKAGES AND LEAFLETS
+
+Regulation 9(3)
+
+- Amenorrhea
+- Angina
+- Atherosclerosis
+- Erysipelas
+- Gallstones
+- Multiple sclerosis
+- Osteoarthritis
+- Phlebitis
+- Thrombosis
+- Ulcer (except when used in the phrase Aphthous ulcer or Mouth ulcer)
+
+## SCHEDULE 5 — PHRASES AND PARTICULARS REQUIRED TO BE INCLUDED IN CERTAIN LABELLED CONTAINERS AND PACKAGES AND LEAFLETS
+
+Regulation 9(3)
+
+**1.** Where a medicinal product is sold or supplied—
+
+- (a) as a herbal remedy, the phrase “A herbal remedy for”;
+- (b) as a homoeopathic medicinal product, the phrase “A homoeopathic remedy for”;
+- (c) as a biochemic medicinal product, the phrase “A biochemic remedy for”;
+- (d) as an anthroposophic medicinal product, the phrase “An anthroposophic remedy for”;
+
+and there shall be stated immediately after such phrase the name of the disease for the treatment of which the medicinal product is sold or supplied.
+
+**2.** Warning: If you think you have \[        \] consult a registered medical practitioner before taking this product. If you are already receiving medical treatment, tell your doctor that you are also taking this product.
+
+**3.** The name of the disease for the treatment of which the medicinal product is sold or supplied (not being a word or phrase specified in Schedule 4 to these regulations) shall be inserted in the warning specified in paragraph 2 above after the words “If you think you have”. For the words “this product” in paragraph 2 there may be substituted the name of the medicinal product in the labelled container but no other words may be substituted.
+
+EXPLANATORY NOTE
+
+These Regulations made under the Medicines Act 1968 impose requirements relating to the prohibition, restrictions and requirements for advertisements directed to the public relating to medicinal products and other substances and articles for administration to human beings.
+
+They prohibit the advertisement of medicinal products which are available on prescription only and certain representations made by commercially interested parties. They contain provisions dealing specifically with the contents and form of advertisements for, and the containers and packages of, spermicidal contraceptives and leaflets supplied with such products.
+
+The Regulations contain provisions prescribing exceptions to the requirements set out therein. They also contain transitional provisions and penalties for criminal offences in relation to both the regulations and related provisions in the 1968 Act. Amendments to the Medicines (Labelling) Regulations 1976 are also included which have the effect of altering the dates upon which whole-salers and retailers must comply with those regulations.
+
+## Annotations
+
+[^f00001]: Footnote: In the case of the Secretaries of State concerned with health in England and in Wales by virtue of Article 2(2) of, and Schedule 1 to, the Transfer of Functions (Wales) Order 1969 (S.I. 1969/388; 1969 I, p. 1070), and in the case of the Northern Ireland Departments by virtue of section 40 of, and Schedule 5 to, the Northern Ireland Constitution Act 1973 (c. 36), and section 1(3) of, and paragraph 2(1)(b) of Schedule 1 to, the Northern Ireland Act 1974 (c. 28).
+
+[^f00002]: Footnote: S.I. 1977/996.

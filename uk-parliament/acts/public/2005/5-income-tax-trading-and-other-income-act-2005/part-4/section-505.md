@@ -1,0 +1,48 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 505
+act: Income Tax (Trading and Other Income) Act 2005
+section: '505'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/505
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 505
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 505. Assignments etc. involving co-ownership
+
+*Extent: E+W+S+N.I.*
+
+(1) For the purposes of this Chapter (except this section and section 506)—
+
+- (a) a transaction to which this section applies is taken to be one or more assignments of part only of the rights under the policy or contract in respect of which the transaction occurs, and
+- (b) those assignments are the ones specified in section 506.
+
+(2) If subsection (1) applies to a transaction that is an assignment—
+
+- (a) of the whole of the rights under a policy or contract, or
+- (b) of a part of or a share in those rights,
+
+any reference to the assignment in this Chapter (except this section and section 506) is to be read as a reference to the assignment or assignments that the transaction is taken to be under subsection (1).
+
+(3) This section applies to a transaction in respect of which conditions A and B and either condition C or D or E are met.
+
+(4) Condition A is that—
+
+- (a) immediately before the transaction the whole or part of, or a share in, the rights under the policy or contract (“**the ownership interest**”) was in the beneficial ownership of one person or of two or more persons jointly (“**the old ownership**”), and
+- (b) as a result of the transaction the ownership interest becomes beneficially owned by one person or by two or more persons jointly or in common (“**the new ownership**”).
+
+(5) Condition B is that at least one person who is a member of the old ownership is also a member of the new ownership.
+
+(6) Condition C is that there is only one member of the old ownership and there are two or more members of the new ownership.
+
+(7) Condition D is that there are two or more members of the old ownership and at least one of them is not a member of the new ownership.
+
+(8) Condition E is that there are two or more members of the old ownership and the share in the ownership interest of at least one of those members (see section 506(5)) exceeds that member's share in the ownership interest as a member of the new ownership (see section 506(6)).

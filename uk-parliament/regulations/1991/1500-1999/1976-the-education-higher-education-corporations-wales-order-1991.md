@@ -1,0 +1,76 @@
+---
+title: The Education (Higher Education Corporations) (Wales) Order 1991
+id: uksi/1991/1976
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-08-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/1976
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/1976/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Higher Education Corporations) (Wales) Order 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No. 1976
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Higher Education Corporations) (Wales) Order 1991
+
+Made
+
+30th August 1991
+
+Laid before Parliament
+
+10th September 1991
+
+Coming into force
+
+1st October 1991
+
+In exercise of the powers conferred on the Secretary of State by sections 122(1), 126(2) and 232(5) and (6) of, and paragraphs 1 and 4 of Schedule 7 to, the Education Reform Act 1988[^f00001] the Secretary of State for Wales, having consulted in accordance with the said paragraph 4 such associations of local authorities as appeared to him to be concerned and obtained the consent of the local education authority concerned, South Glamorgan County Council, to the making of this Order insofar as it relates to the Welsh College of Music and Drama pursuant to section 122(2) of the said 1988 Act, hereby makes the following Order:–
+
+**1.** This Order may be cited as the Education (Higher Education Corporations) (Wales) Order 1991 and shall come into force on 1st October 1991.
+
+**2.** There shall be established, as from 1st October 1991, bodies corporate by the names given in column 1 of the Schedule to this Order to conduct, as from 1st April 1992, the institutions specified opposite in column 2 being institutions which appear to the Secretary of State to satisfy the criteria set out in section 122(1) of the Education Reform Act 1988 and, save in the case of the Welsh College of Music and Drama, whose respective full-time equivalent enrolment numbers for courses of higher education appear to him to exceed 350.
+
+**3.** 1st April 1992 is hereby appointed as the transfer date for each such corporation for the purposes of section 126 of that Act.
+
+**4.** (1) In relation to each such corporation the local authority specified opposite in column 3 of the said Schedule shall be the nominating authority for the number of initial nominee members specified opposite in column 4.
+
+(2) In this article “the nominating authority” means the local authority entitled to nominate one or more local authority nominees as initial nominee members of a corporation.
+
+## SCHEDULE
+
+| *Corporation* | *Institution* | *Nominating Authority* | *Number of initial nominee members* |
+| --- | --- | --- | --- |
+| Cardiff Institute of Higher Education | Cardiff Institute of Higher Education | South Glamorgan County Council | 1 |
+| Coleg Normal Bangor Higher Education Corporation | Y Coleg Normal, Bangor | Gwynedd County Council | 1 |
+| Gwent College of Higher Education | Gwent College of Higher Education | Gwent County Council | 1 |
+| The Polytechnic of Wales | The Polytechnic of Wales | Mid Glamorgan County Council | 2 |
+| Swansea Institute of Higher Education | West Glamorgan Institute of Higher Education | West Glamorgan County Council | 1 |
+| The Welsh College of Music and Drama | The Welsh College of Music and Drama | South Glamorgan County Council | 1 |
+
+David Hunt
+
+Secretary of State for Wales
+
+30th August 1991
+
+(This note is not part of the Order)
+
+This Order, made under section 122 of the Education Reform Act 1988 as applied, in relation to institutions in Wales by the Education Reform Act 1988 (Application of section 122 to Institutions in Wales) Order 1991, provides for the establishment of bodies corporate to conduct the institutions in Wales specified in column 2 of the Schedule to the Order. The bodies corporate are established by virtue of paragraph 1(2) of Schedule 7 to the Education Reform Act 1988 by the names given in column 1 on 1st October 1991 to prepare themselves for the conduct of those institutions from 1st April 1992 which date is appointed as the transfer date, defined in section 123(2) of that Act as the date for the transfer of local education authority property, rights and liabilities to those corporations. The Order also specifies, in relation to each such corporation, the local authority or authorities able to nominate one or more local authority nominees to become initial nominee members of the corporation.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40); section 122 was applied in relation to institutions in Wales by the Education Reform Act 1988 (Application of Section 122 to Institutions in Wales) Order 1991 (S.I. [1991/1391](https://www.legislation.gov.uk/uksi/1991/1391)).

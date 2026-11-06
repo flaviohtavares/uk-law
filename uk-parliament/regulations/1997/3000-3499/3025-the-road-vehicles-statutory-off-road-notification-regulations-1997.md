@@ -1,0 +1,152 @@
+---
+title: The Road Vehicles (Statutory Off-Road Notification) Regulations 1997
+id: uksi/1997/3025
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-12-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/3025
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/3025/made/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Vehicles (Statutory Off-Road Notification) Regulations 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 3025
+
+ROAD TRAFFIC
+
+The Road Vehicles (Statutory Off-Road Notification) Regulations 1997
+
+Made
+
+17th December 1997
+
+Laid before Parliament
+
+19th December 1997
+
+Coming into force
+
+15th January 1998
+
+The Secretary of State, in exercise of the powers conferred by sections 22(1D), (1E), (1G) and (2) and 57(1), (2) and (3) of the Vehicle Excise and Registration Act 1994[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Road Vehicles (Statutory Off-Road Notification) Regulations 1997 and shall come into force on 15th January 1998.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “the 1994 Act” means the Vehicle Excise and Registration Act 1994;
+- “keeper” in relation to a vehicle means the person by whom the vehicle is kept;
+- “the required declaration” means a declaration in writing made to the Secretary of State by a person surrendering a vehicle licence or the keeper of a vehicle to the effect that (except for use under a trade licence) he does not for the time being intend to use or keep the vehicle on a public road and will not do so without first taking out a vehicle licence (or if appropriate a nil licence) for the vehicle;
+- “the required particulars” in relation to a vehicle are particulars furnished in writing to the Secretary of State of—
+  - (a) the registration mark of the vehicle;
+  - (b) the make and model of the vehicle; and
+  - (c) the address of the premises at which the vehicle is to be kept; and
+- “vehicle” means a mechanically propelled vehicle which is—
+  - (a) registered in the records kept under the 1994 Act by the Driver and Vehicle Licensing Agency on behalf of the Secretary of State; and
+  - (b) kept in Great Britain,
+
+  and a reference to a vehicle which is “unlicensed” is to a vehicle for which no vehicle licence is for the time being in force.
+
+(2) For the purposes of these Regulations a person is a “motor vehicle trader” in relation to a vehicle if he falls within a description mentioned in column (2) of an item in the table below and the vehicle falls within the description mentioned in column (3) of that item—
+
+**TABLE**
+
+| (1) Item | (2) Descriptions of person | (3) Descriptions of vehicle |
+| --- | --- | --- |
+| 1\. | The holder of a trade licence | A vehicle temporarily in his possession in the course of the business by virtue of which he is a person eligible to hold such a licence |
+| 2\. | An auctioneer of mechanically propelled vehicles | A vehicle temporarily in his possession in the course of his business as such an auctioneer |
+| 3\. | A motor dealer | A vehicle temporarily in his possession in the course of his business as a motor dealer |
+| 4\. | A person who carries on business as a dismantler of vehicles | A vehicle temporarily in his possession in the course of that business |
+| 5\. | An authorised insurer | A vehicle temporarily in his possession in consequence of settling a claim under a policy of insurance relating to the vehicle |
+| 6\. | The holder of a licence under Part III of the Consumer Credit Act 1974[^f00002] | A vehicle temporarily in his possession under an order for the repossession of the vehicle made in pursuance of a personal credit agreement relating to the vehicle |
+
+(3) In paragraph (2) above “authorised insurer” has the meaning given in section 145(5) of the Road Traffic Act 1988[^f00003] and “personal credit agreement” has the meaning given in section 8(1) of the Consumer Credit Act 1974.
+
+## 3. Application
+
+These Regulations have effect for the purpose of prescribing the particulars to be furnished and the declarations to be made, and the times at which and the manner in which they are to be furnished or made, by a person—
+
+- (a) who surrenders a vehicle licence for a vehicle;
+- (b) who does not renew such a licence; or
+- (c) who keeps an unlicensed vehicle.
+
+## 4. Exemptions
+
+These Regulations shall not apply in relation to a vehicle—
+
+- (a) which is an exempt vehicle falling within a description specified in paragraph 2, 2A, 3, 23 or 24 of Schedule 2 to the 1994 Act; or
+- (b) in relation to which the following conditions are satisfied—
+  - (i) neither a vehicle licence nor a nil licence was in force for the vehicle on 31st January 1998;
+  - (ii) such a licence has not been taken out for the vehicle for a period starting after that date; and
+  - (iii) the vehicle has not been used or kept on a public road on or after that date.
+
+## 5. Surrender of vehicle licence
+
+(1) Where after 31st January 1998 the holder of a vehicle licence surrenders it under section 10(2) of the 1994 Act, he shall make the required declaration and furnish the required particulars in relation to the vehicle for which the licence was taken out.
+
+(2) Paragraph (1) does not apply where the vehicle to which the licence relates is no longer kept by the holder of the licence or the holder is a motor vehicle trader in relation to that vehicle.
+
+## 6. Vehicle licence not renewed
+
+Where, on or after 31st January 1998, a vehicle licence ceases to be in force for a vehicle by reason of the expiration of the period for which the licence was granted and a further vehicle licence (or if appropriate a nil licence) for the vehicle is not taken out so as to run from the expiration of that period, the keeper of the vehicle shall make the required declaration and furnish the required particulars in relation to the vehicle—
+
+- (a) if he is a motor trader, not later than the end of the period of three months starting with the day following the expiration of that period; or
+- (b) in any other case, not later than that day.
+
+## 7. Person keeping an unlicensed vehicle
+
+(1) Subject to paragraph (2) where at any time after 31st January 1999—
+
+- (a) a person keeps an unlicensed vehicle; and
+- (b) a period of 12 months has elapsed throughout which the vehicle has been kept in Great Britain unlicensed and within which a nil licence has not been in force, the required declaration has not been made and the required particulars have not been furnished in relation to the vehicle,
+
+then, unless a vehicle licence (or if appropriate a nil licence) for the vehicle has been taken out so as to run from the end of that period of 12 months, the keeper of the vehicle shall, not later than the day following the end of that period, make the required declaration and furnish the required particulars in relation to the vehicle.
+
+(2) For the purposes of paragraph (1)(b) above, where a vehicle licence has been surrendered under section 10(2) of the 1994 Act, the vehicle to which it relates shall be taken to be unlicensed from the first day of the month in which the licence was surrendered.
+
+(3) On a change of keeper of an unlicensed vehicle, unless a vehicle licence (or if appropriate a nil licence) for the vehicle is taken out, the new keeper shall make the required declaration and furnish the required particulars in relation to the vehicle—
+
+- (a) if he is a motor vehicle trader, not later than the end of the period of 3 months beginning with the day following the day on which the change of keeper occurs; or
+- (b) in any other case, not later than the day following the day on which the change of keeper occurs.
+
+Signed by authority of the Secretary of State
+
+Helene Hayman
+
+Parliamentary Under-Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+17th December 1997
+
+(This note is not part of the Regulations)
+
+These Regulations prescribe the particulars to be furnished and the declarations to be made, and the times at which and the circumstances and the manner in which they are to be furnished or made, by a person—
+
+- (a) who surrenders a vehicle licence relating to a vehicle registered in and kept in Great Britain (regulation 5);
+- (b) who does not renew a vehicle licence for such a vehicle when it is kept by him (regulation 6); or
+- (c) who keeps such a vehicle while it is unlicensed (regulation 7).
+
+Regulation 2 contains definitions. Regulation 3 defines the application of the Regulations and regulation 4 specifies exemptions.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22). Subsections (1D) to (1G) of section 22 were inserted by the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8). Schedule 2, paragraph 7.
+
+[^f00002]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^f00003]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).

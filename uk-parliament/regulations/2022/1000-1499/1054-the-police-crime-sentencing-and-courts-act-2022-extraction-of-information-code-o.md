@@ -1,0 +1,81 @@
+---
+title: 'The Police, Crime, Sentencing and Courts Act 2022 (Extraction of Information: Code of Practice) Regulations 2022'
+id: uksi/2022/1054
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-10-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/1054
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/1054/pdfs/uksiem_20221054_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1054/pdfs/uksi_20221054_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1054/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police, Crime, Sentencing and Courts Act 2022 (Extraction of Information: Code of Practice) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 1054
+
+Electronic Information
+
+The Police, Crime, Sentencing and Courts Act 2022 (Extraction of Information: Code of Practice) Regulations 2022
+
+Made
+
+12th October 2022
+
+Laid before Parliament
+
+17th October 2022
+
+Coming into force
+
+8th November 2022
+
+The Secretary of States makes these Regulations in exercise of the power conferred by section 42(6) of the Police, Crime, Sentencing and Courts Act 2022 (“**the Act**”)[^f00001].
+
+In accordance with section 42(3) of the Act, the Secretary of State in preparing the code of practice has consulted with the persons specified in that subsection and such other persons as she considered appropriate.
+
+In accordance with section 42(5) of the Act, after preparing the code, the Secretary of State laid it before Parliament and published it.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Police, Crime, Sentencing and Courts Act 2022 (Extraction of Information: Code of Practice) Regulations 2022 and come into force on 8th<sup></sup>November 2022.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+## 2. Code of Practice
+
+The code of practice entitled “Extraction of information from electronic devices: Code of Practice” laid before Parliament and published on 17th October 2022 comes into force on 8th November 2022.
+
+Jeremy Quin
+
+Minister of State
+
+Home Office
+
+12th October 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force on 8th November 2022 a code of practice containing guidance on the exercise of the powers conferred by virtue of sections 37(1) and 41(1) of the Police, Crime, Sentencing and Courts Act (“**the 2022 Act**”).
+
+Sections 37(1) and 41(1) are in Chapter 3 of Part 2 of the 2022 Act. Chapter 3 of the 2022 Act introduces a new statutory power for the extraction of information from electronic devices. Section 37(1) provides that an authorised person may extract information stored on an electronic device if (i) the user of the device has voluntarily provided the device to an authorised person, and (ii) the user has agreed that the information stored on the device may be extracted by an authorised person. Section 41(1) provides that an authorised person may extract information stored on an electronic device if a user has died and immediately prior to their death they were the user of the device.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen. However, the economic impact of the 2022 Act was assessed and published alongside the equality impact assessment, found online at www.gov.uk
+
+A copy of the code of practice referred to in this instrument can be found online at www.gov.uk and hard copies can be obtained by writing to the Home Office, 2 Marsham Street, London SW1P 4DF.
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 32](https://www.legislation.gov.uk/ukpga/2022/32).

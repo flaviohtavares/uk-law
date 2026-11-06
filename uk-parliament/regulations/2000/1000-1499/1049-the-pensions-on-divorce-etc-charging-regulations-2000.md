@@ -1,0 +1,369 @@
+---
+title: The Pensions on Divorce etc. (Charging) Regulations 2000
+id: uksi/2000/1049
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2000-04-13'
+text_date: '2016-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/1049
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1049/pdfs/uksi_20001049_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1049/pdfs/uksi_20001049_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1049/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions on Divorce etc. (Charging) Regulations 2000
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2000/1049
+
+2000 No. 1049
+
+PENSIONS
+
+FAMILY LAW
+
+The Pensions on Divorce etc. (Charging) Regulations 2000
+
+Made
+
+13th April 2000
+
+Laid before Parliament
+
+19th April 2000
+
+Coming into force
+
+1st December 2000
+
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 23(1)(d) and (3), 24, 41(1) and (2) and 83(4) and (6) of the Welfare Reform and Pensions Act 1999[^c1601121] and of all other powers enabling him in that behalf, after consulting such persons as he considered appropriate[^c1601122], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Pensions on Divorce etc. (Charging) Regulations 2000 and shall come into force on 1st December 2000.
+
+(2) In these Regulations, unless the context otherwise requires—
+
+“the 1999 Act" means the Welfare Reform and Pensions Act 1999;
+
+“the Provision of Information Regulations" means the Pensions on Divorce etc. (Provision of Information) Regulations 2000 [^c1601123];
+
+“day" means any day other than—
+
+- (a) Christmas Day or Good Friday; or
+- (b) a bank holiday, that is to say, a day which is, or is to be observed as, a bank holiday or a holiday under Schedule 1 to the Banking and Financial Dealings Act 1971 [^c1601124];
+
+“implementation period" has the meaning given by section 34(1) of the 1999 Act;
+
+“normal pension age” has the meaning given by section 180 of the Pension Schemes Act 1993;[^key-5e7bc18aa89df90ea5f87cdcdb4a4b73]
+
+“notice of implementation" has the meaning given by regulation 1(2) of the Provision of Information Regulations;
+
+“pension arrangement" has the meaning given to that expression in section 46(1) of the 1999 Act;
+
+“pension credit" means a credit under section 29(1)(b) of the 1999 Act;
+
+“pension credit benefit" has the meaning given by section 101B of the Pensions Schemes Act 1993 [^c1601125];
+
+“pension credit rights" has the meaning given by section 101B of the Pension Schemes Act 1993;
+
+“pension sharing activity" has the meaning given by section 41(5) of the 1999 Act;
+
+“pension sharing order or provision" means an order or provision which is mentioned in section 28(1) of the 1999 Act;
+
+“person responsible for a pension arrangement" has the meaning given to that expression in section 46(2) of the 1999 Act;
+
+[^key-f17a7d4e196a941bce79674816b181ff]...
+
+“the relevant date" has the meaning given by section 10(3) of the Family Law (Scotland) Act 1985 [^c1601126];
+
+“trustees or managers" has the meaning given by section 46(1) of the 1999 Act.
+
+## 2. General requirements as to charges
+
+(1) Subject to paragraph (8), a person responsible for a pension arrangement shall not recover any charges incurred in connection with—
+
+- (a) the provision of information under—
+  - (i) regulation 2 of the Provision of Information Regulations (basic information about pensions and divorce) or dissolution of a civil partnership[^key-9db049c30d2744e5c2ed01d4f16c334e];
+  - (ii) regulation 4 of those Regulations (provision of information in response to a notification that a pension sharing order or provision may be made); or
+  - (iii) regulation 10 of those Regulations (provision of information after receipt of an earmarking order);
+- (b) complying with any order specified in section 24 of the 1999 Act (charges by pension arrangements in relation to earmarking orders); or
+- (c) any description of pension sharing activity specified in regulation 5 of these Regulations,
+
+unless he has complied with the requirements of paragraphs (2) to (5).
+
+(2) The requirements mentioned in paragraph (1) are that the person responsible for a pension arrangement shall, before a pension sharing order or provision is made—
+
+- (a) inform the member or the member’s spouse or civil partner[^key-f02069bb5b4573af0dc1b07013c8330f], as the case may be, in writing of his intention to recover costs incurred in connection with any of the matters specified in sub-paragraph (a), (b) or (c) of paragraph (1); and
+- (b) provide the member or the member’s spouse or civil partner, as the case may be, with a written schedule of charges in accordance with paragraphs (3) and (4) in respect of those matters specified in sub-paragraph (a) or (c) of paragraph (1) for which a charge may be recoverable.
+
+(3) No charge shall be recoverable in respect of any of the items mentioned in paragraph (4) unless the person responsible for a pension arrangement has specified in the written schedule of charges mentioned in paragraph (2)(b) that a charge may be recoverable in respect of that item.
+
+(4) The items referred to in paragraph (3) are—
+
+- (a) the provision of a cash equivalent other than one which is provided in accordance with the provisions of—
+  - (i) section 93A or 94 of the 1993 Act (right to statement of entitlement: benefits other than money purchase and right to cash equivalent)[^key-8592a8838d0caec963b4eeef92d2ada2];
+  - (ii) regulation 11(1) of the Occupational Pension Schemes (Transfer Values) Regulations 1996 [^c1601128] (disclosure); or
+  - (iii)[^key-2d214e8f44348d03a329116b858b51db] regulation 17 (statements of benefits: money purchase benefits) or any of the provisions of Part 6 (statements of benefits; lifestyling and accessing benefits) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013;
+- (b) subject to regulation 3(2)(b) or (c), as the case may be, the provision of a valuation in accordance with regulation 2(2) of the Provision of Information Regulations;
+- (c) whether a person responsible for a pension arrangement intends to recover the cost of providing membership of the pension arrangement to the person entitled to a pension credit, before or after the pension sharing order is implemented;
+- (d) whether the person responsible for a pension arrangement intends to recover additional charges in the circumstances prescribed in regulation 6 of these Regulations in respect of pension sharing activity described in regulation 5 of these Regulations;
+- (e) whether the charges are inclusive or exclusive of value added tax, where the person responsible for a pension arrangement is required to charge value added tax in accordance with the provisions of the Value Added Tax Act 1994 [^c1601130];
+- (f) periodical charges in respect of pension sharing activity which the person responsible for a pension arrangement may make when a person entitled to a pension credit becomes a member of the pension arrangement from which the pension credit is derived;
+- (g) whether the person responsible for a pension arrangement intends to recover charges specified in regulation 10 of these Regulations.
+
+(5) In the case of the cost referred to in paragraph (4)(c) or the charges to be imposed in respect of pension sharing activity described in regulation 5 of these Regulations, the person responsible for a pension arrangement shall provide—
+
+- (a) a single estimate of the overall cost of the pension sharing activity;
+- (b) a range of estimates of the overall cost of the pension sharing activity which is dependent upon the complexity of an individual case; or
+- (c) a breakdown of the cost of each element of pension sharing activity for which a charge shall be made.
+
+(6) Subject to regulation 9(3) and (4), a person responsible for a pension arrangement shall recover only those sums which represent the reasonable administrative expenses which he has incurred or is likely to incur in connection with any of the activities mentioned in paragraph (1), or in relation to a pension sharing order having been made the subject of an application for leave to appeal out of time.
+
+(7) The requirements of paragraph (2) do not apply in connection with the recovery by a person responsible for a pension arrangement of costs incurred in relation to a pension sharing order having been made the subject of an application for leave to appeal out of time.
+
+(8)[^key-972093015b1f925fd9429eef8d018510] The information specified in regulation 2(2) and (3) of the Provision of Information Regulations shall be provided to the member or the member’s spouse or civil partner[^key-1b629d05dda1ae69e35b4fb1d0e23e1d] without charge unless—
+
+- (a) the person responsible for the pension arrangement has furnished the information to the member, the member’s spouse, civil partner[^key-30f7e125714fa8683b7081676601aa64] or the court within a period of 12 months immediately prior to the date of the request or the court order for the provision of that information;
+- (b) the member has reached normal pension age on or before the date of the request or the court order for the provision of the information;
+- (c) the request or the court order for the provision of the information is made within 12 months prior to the member reaching normal pension age; or
+- (d) the circumstances referred to in regulation 3(2)(b)(i) apply.
+
+## 3. Charges recoverable in respect of the provision of basic information
+
+(1) Subject to paragraph (2), the charges prescribed for the purposes of section 23(1)(d) of the 1999 Act (charges which a person responsible for a pension arrangement may recover in respect of supplying pension information in connection with divorce etc.) are any charges incurred by the person responsible for the pension arrangement in connection with the provision of any of the information set out in—
+
+- (a) regulation 2 of the Provision of Information Regulations which may be recovered in accordance with regulation 2(8) of these Regulations;
+- (b) regulation 4 of those Regulations; or
+- (c) regulation 10 of those Regulations.
+
+(2) The charges mentioned in paragraph (1) shall not include any costs incurred by a person responsible for a pension arrangement in respect of the matters specified in sub-paragraphs (a) to (f)—
+
+- (a) any costs incurred by the person responsible for a pension arrangement which are directly related to the fulfilment of his obligations under regulation 2(3) of the Provision of Information Regulations, other than charges which may be recovered in the circumstances described in regulation 2(8) of these Regulations;
+- (b) any costs incurred by the person responsible for the pension arrangement as a result of complying with a request for, or an order of the court requiring, a valuation under regulation 2(2) of the Provision of Information Regulations, unless—
+  - (i) he is required by a member or a court to provide that valuation in less than 3 months beginning with the date the person responsible for the pension arrangement receives that request or order for the valuation;
+  - (ii) the valuation is requested by a member who is not entitled to a cash equivalent under any of the provisions referred to in regulation 2(4)(a);
+  - (iii) a member has requested a cash equivalent in accordance with any of those provisions within 12 months immediately prior to the date of the request for a valuation under regulation 2(2) of the Provision of Information Regulations;
+- (c) any costs incurred by the person responsible for the pension arrangement as a result of providing a valuation of benefits calculated and verified in accordance with regulation 3 of the Divorce etc. (Pensions) (Scotland) Regulations 2000 [^c1601131] (valuation), unless—
+  - (i) he is required by the court to provide that valuation in less than 3 months beginning with the date the person responsible for the pension arrangement receives that order;
+  - (ii) the valuation is requested by a member who is not entitled to a cash equivalent under any of the provisions referred to in regulation 2(4)(a);
+  - (iii) a member has requested a cash equivalent in accordance with any of those provisions within 12 months immediately prior to the date of the request for a valuation under regulation 2(2) of the Provision of Information Regulations; or
+  - (iv) the relevant date is more than 12 months immediately prior to the date the person responsible for the pension arrangement receives the request for the valuation;
+- (d)[^key-7847281f3e30c51a3603c53301c0d3ce] any costs incurred by the trustees or managers of an occupational or personal pension scheme in connection with the provision of information under regulation 6 (basic scheme information) or 7 (basic scheme information to be given by certain schemes) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013, that the trustees or managers provide to the member free of charge under those Regulations;
+- (e) any costs incurred by the trustees or managers of an occupational pension scheme, or a personal pension scheme, as the case may be, in connection with the provision of a transfer value in accordance with the provisions of—
+  - (i) section 93A or 94 of the 1993 Act;
+  - (ii) regulation 11(1) of the Occupational Pension Schemes (Transfer Values) Regulations 1996; or
+  - (iii)[^key-2a8b0d212e855eeeef1f69d8b6099622] regulation 17 or any of the provisions of Part 6 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013; or
+- (f) any costs not specified by the person responsible for a pension arrangement in the information on charges provided to the member pursuant to regulation 2 of the Provision of Information Regulations with the exception of any additional amounts under regulation 6(1)(a) of these Regulations.
+
+## 4. Charges in respect of the provision of information — method of recovery
+
+(1) A person responsible for a pension arrangement may recover the charges specified in regulation 3(1) by using either of the methods described in sub-paragraph (a) or (b)—
+
+- (a) requiring payment of charges at any specified time between the request for basic information and the completion of the implementation of a pension sharing order or provision, or the compliance with an order specified in section 24 of the 1999 Act, as the case may be; or
+- (b) subject to paragraph (2), requiring as a condition of providing information in accordance with—
+  - (i) regulation 2 of the Provision of Information Regulations; or
+  - (ii) regulation 10 of those Regulations,
+
+  that payment of the charges to which regulation 3(1) refers shall be made in full by the member before the person responsible for the pension arrangement becomes obliged to provide the information.
+
+(2) Paragraph (1)(b) shall not apply—
+
+- (a) where a court has ordered a member to obtain the information specified in regulation 2 of the Provision of Information Regulations;
+- (b) where, in accordance with regulation 2(8) of these Regulations, the person responsible for the pension arrangement shall provide that information without charge; or
+- (c) where the person responsible for the pension arrangement is required to supply that information by virtue of regulation 4 of the Provision of Information Regulations.
+
+## 5. Charges in respect of pension sharing activity
+
+(1) The charges prescribed in respect of prescribed descriptions of pension sharing activity for the purposes of section 41(1) of the 1999 Act (charges in respect of pension sharing costs) are any costs reasonably incurred by the person responsible for the pension arrrangement in connection with pension sharing activity other than those costs specified in paragraph (3).
+
+(2) The descriptions of pension sharing activity prescribed for the purposes of section 41(1) of the 1999 Act are any type of activity which fulfils the requirements of section 41(5) of the 1999 Act.
+
+(3) The costs specified in this paragraph are any costs which are not directly related to the costs which arise in relation to an individual case.
+
+## 6. Additional amounts recoverable in respect of pension sharing activity
+
+(1) The circumstances in which a person responsible for a pension arrangement may recover additional amounts are—
+
+- (a) where a period of more than 12 months has elapsed between the person responsible for the pension arrangement supplying information in accordance with regulation 2 of the Provision of Information Regulations and the taking effect of an order or provision specified in subsection (1) of section 28 of the 1999 Act (activation of pension sharing); or
+- (b) in the case of an occupational pension scheme, where the trustees or managers of that scheme undertake activity from time to time associated with pension credit rights or pension credit benefit in that scheme which belong to a member.
+
+(2) For the purposes of section 41(2)(d) of the 1999 Act, the additional amounts are—
+
+- (a) in the circumstances described in paragraph (1)(a), interest calculated at a rate not exceeding increases in the retail prices index on the amounts of any charges not yet due, or of any charges requested but yet to be recovered, which are specified in the schedule of charges issued to the member in accordance with regulation 2(2)(b) of these Regulations; and
+- (b) in the circumstances described in paragraph (1)(b), an amount not exceeding an increase calculated by reference to increases in the retail prices index on the amounts which relate to the costs referred to in regulation 2(4)(d) and which are specified in the schedule of charges provided to the member and the member’s spouse or civil partner[^key-64aa9c2a60dbc4218afbfaa256a92a60] in accordance with regulation 2(2)(b).
+
+(3) Where a person responsible for a pension arrangement intends to recover an additional amount specified in paragraph (2)(a) in the circumstances described in paragraph (1)(a), he shall set out this intention, the rate of interest to be used, and the total costs recoverable in the notice of implementation and final costs issued in accordance with regulation 7 of the Provision of Information Regulations (provision of information after receiving a pension sharing order or provision).
+
+(4) Where the trustees or managers of an occupational pension scheme intend to recover an additional amount specified in paragraph (2)(b) in the circumstances described in paragraph (1)(b), they shall inform the parties involved in pension sharing in writing of this intention in the schedule of charges issued in accordance with regulation 2(2)(b) of these Regulations.
+
+## 7. Charges in respect of pension sharing activity — postponement of implementation period
+
+(1) The circumstances when the start of the implementation period may be postponed are when a person responsible for a pension arrangement—
+
+- (a) issues a notice to the member and the person entitled to the pension credit no later than 21 days after the day on which the person responsible for the pension arrangement receives the pension sharing order or provision; and
+- (b) in that notice, requires the charges specified in regulation 3, 5 or 6 to be paid before the implementation of the pension sharing order or provision is commenced.
+
+(2) Paragraph (1) shall apply only if the person responsible for the pension arrangement has specified at a stage no later than in his response to the notification that a pension sharing order or provision may be made, issued in accordance with regulation 4 of the Provision of Information Regulations—
+
+- (a) that he requires the charges mentioned in paragraph (1) to be paid before the implementation period is commenced; and either
+- (b) whether he requires those charges to be paid in full; or
+- (c) the proportion of those charges which he requires to be paid as full settlement of those charges.
+
+(3) Once payment of the charges mentioned in paragraph (1) has been made in accordance with the requirements of the person responsible for the pension arrangement—
+
+- (a) that person shall—
+  - (i) issue the notice of implementation in accordance with regulation 7(1)(c) of the Provision of Information Regulations, and
+  - (ii) begin the implementation period for the pension credit,
+
+  within 21 days from the date the charges are paid, provided that the person responsible for the pension arrangement would otherwise be able to begin to implement the pension sharing order or provision, and
+- (b) subject to paragraph (4), that person shall not be entitled to recover any further charges in respect of the pension sharing order or provision in question.
+
+(4) Paragraph (3)(b) shall not apply—
+
+- (a) in relation to the recovery of charges referred to in regulations 2(4)(d) and 6(2)(b); or
+- (b) where the pension credit depends on a pension sharing order and the order is the subject of an application for leave to appeal out of time.
+
+## 8. Charges in respect of pension sharing activitiy — reimbursement as between the parties to pension sharing
+
+A payment in respect of charges recoverable under regulation 3, 5 or 6 made by one party to pension sharing on behalf of the other party to pension sharing, shall be recoverable by the party who made the payment from that other party as a debt.
+
+## 9. Charges in respect of pension sharing activity — method of recovery
+
+(1) Subject to paragraphs (7) and (8), a person responsible for a pension arrangement may recover the charges specified in regulations 3, 5 and 6 by using any of the methods described in paragraph (2).
+
+(2) The methods of recovery described in this paragraph are—
+
+- (a) subject to regulation 7 requiring the charges referred to in paragraph (1) to be paid before the implementation period for the pension sharing order or provision is commenced;
+- (b) deduction from a pension credit;
+- (c) deduction from the accrued rights of the member;
+- (d) where a pension sharing order or provision is made in respect of a pension which is in payment, deduction from the member’s pension benefits;
+- (e) where liability in respect of a pension credit is discharged by the person responsible for the pension arrangement in accordance with paragraph 1(2), 2(2), or 3(2) of Schedule 5 to the 1999 Act (mode of discharge of liability for pension credits), deduction from payments of pension credit benefit; or
+- (f)[^key-73ec585c575f1e90d093a8d794026529] deduction from the amount of a transfer value which is calculated in accordance with regulation 24 of the Pension Sharing (Pension Credit Benefit) Regulations 2000 (manner of calculation and verification of cash equivalents).
+
+(3) A person responsible for a pension arrangement shall not recover charges referred to in paragraph (1) by using any of the methods described in paragraph (2)(b), (c), (d), (e) or (f) unless—
+
+- (a) a pension sharing order or provision corresponding to any order or provision specified in subsection (1) of section 28 of the 1999 Act has been made;
+- (b) the implementation period has commenced;
+- (c) where a pension sharing order has been made, the person responsible for a pension arrangement is not aware of an appeal against the order having begun on or after the day on which the order takes effect;
+- (d) there are charges which are unpaid and for which the party, to whom paragraph (2)(b), (c), (d), (e) or (f) applies, is liable;
+- (e) the person responsible for the pension arrangement has issued a notice of implementation in accordance with regulation 7 of the Provision of Information Regulations;
+- (f) the person responsible for a pension arrangement specifies in the notice of implementation that recovery of the charges may be made by using any of those methods; and
+- (g) 21 days have elapsed since the notice of implentation was issued to the parties to pension sharing in accordance with the requirements of regulation 7 of the Provision of Information Regulations.
+
+(4) If a pension sharing order or provision includes provision about the apportionment between the parties to pension sharing of any charge under section 41 of the 1999 Act or under corresponding Northern Ireland legislation, by virtue of section 24D of the Matrimonial Causes Act 1973 [^c1601136] (pension sharing orders: apportionment of charges) or section 8A of the Family Law (Scotland) Act 1985 [^c1601137] (pension sharing orders: apportionment of charges), the recovery of charges using any of the methods described in paragraph (2) by the person responsible for the pension arrangement shall comply with the terms of the order or provision.
+
+(5) A person responsible for a pension arrangement shall not recover charges referred to in paragraph (1) by using any of the methods described in paragraph (2), from a party to pension sharing, if that party has paid in full the proportion of the charges for which he is liable.
+
+(6) A person responsible for a pension arrangement may recover charges by using any of the methods described in paragraph (2)(b), (c) or (d)—
+
+- (a) at any time within the implementation period prescribed by section 34 of the 1999 Act (“implementation period");
+- (b) following an application by the trustees or managers of an occupational pension scheme, such longer period as the Pensions Regulator[^M_F_48bc02ba-da06-4500-dca8-91bb7cbcac52] may allow in accordance with section 33(4) of the 1999 Act (extension of time for discharge of liability); or
+- (c) within 21 days after the end of the period referred to in sub-paragraph (a) or (b).
+
+(7) Where the commencement of the implementation period is postponed, or its operation ceases in accordance with regulation 4 of the Pension Sharing (Implementation and Discharge of Liability) Regulations 2000 [^c1601138] (postponement or cessation of implementation period where an application is made for leave to appeal out of time) a person responsible for a pension arrangement may require any outstanding charges referred to in paragraph (1) to be paid immediately, in respect of—
+
+- (a) all costs which have been incurred prior to the date of postponement or cessation; or
+- (b) any reasonable costs related to—
+  - (i) the application for leave to appeal out of time; or
+  - (ii) the appeal out of time itself.
+
+(8) Paragraph (7) applies even if, prior to receiving the notification of the application for leave to appeal out of time, a person responsible for a pension arrangement has indicated to the parties to pension sharing that he will not be using the method of recovery specified in paragraph (2)(a).
+
+## 10. Charges in relation to earmarking orders
+
+The prescribed charges which a person responsible for a pension arrangement may recover in respect of complying with an order specified in section 24 of the 1999 Act are those charges which represent the reasonable administrative expenses which he has incurred or is likely to incur by reason of the order.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Jeff Rooker
+
+Minister of State,
+
+Department of Social Security
+
+(This note is not part of the Regulations)
+
+These Regulations set out the circumstances in which a person responsible for a pension arrangement may recover charges in respect of the provision of information in connection with pensions on divorce, separation or nullity, complying with an earmarking or attachment order, or in connection with pension sharing activity.
+
+Regulation 1 provides for citation, commencement and interpretation of the Regulations.
+
+Regulation 2 specifies the requirements which must be met by persons responsible for pension arrangements before they may recover charges.
+
+Regulation 3 specifies what charges a person responsible for a pension arrangement may recover as a result of providing information in accordance with the Pensions on Divorce etc. (Provision of Information) Regulations 2000.
+
+Regulation 4 sets out how a person responsible for a pension arrangement may recover charges in respect of the provision of information.
+
+Regulation 5 specifies the charges which are recoverable in respect of pension sharing activity.
+
+Regulation 6 provides that additional amounts such as interest may be recovered by a person responsible for a pension arrangement in respect of pension sharing activity even though these amounts may not have been included in the schedule of charges issued to the member.
+
+Regulation 7 provides that a person responsible for a pension arrangement may postpone the commencement of the implementation period pending the payment in full or in part of outstanding charges in respect of pension sharing activity.
+
+Regulation 8 provides that if one party to pension sharing pays the other party’s proportion of the charges, he may recover from the other party the amount paid as a debt.
+
+Regulation 9 sets out how a person responsible for a pension arrangement may recover charges in respect of pension sharing activity.
+
+Regulation 10 specifies the prescribed charges which are recoverable by a person responsible for a pension arrangement in relation to complying with an earmarking order.
+
+An assessment of the cost to business of the provisions of the Welfare Reform and Pensions Act 1999, including these Regulations, is detailed in the Regulatory Impact Assessment for that Act. A copy of this Assessment has been placed in the libraries of both Houses of Parliament. Copies can be obtained by post from the Department of Social Security, Pensions on Divorce, 3rd Floor, The Adelphi, 1-11 John Adam Street, London WC2N 6HT.
+
+## Annotations
+
+[^c1601121]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^c1601122]: Marginal citation: *See* section 83(11) of the Welfare Reform and Pensions Act 1999.
+
+[^c1601123]: Marginal citation: [S.I. 2000/1048](https://www.legislation.gov.uk/uksi/2000/1048).
+
+[^c1601124]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-5e7bc18aa89df90ea5f87cdcdb4a4b73]: Textual amendment: Words in reg. 1(2) inserted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/9/2)
+
+[^c1601125]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 101B is inserted by section 37 of the Welfare Reform and Pensions Act 1999.
+
+[^key-f17a7d4e196a941bce79674816b181ff]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/1/2) omitted (6.4.2009) by virtue of [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/13/2)
+
+[^c1601126]: Marginal citation: [1985 c. 37](https://www.legislation.gov.uk/ukpga/1985/37). Section 10 was amended by section 167(2) of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), and is amended by paragraph 8 of Schedule 12 to the Welfare Reform and Pensions Act 1999.
+
+[^key-9db049c30d2744e5c2ed01d4f16c334e]: Textual amendment: Words in reg. 2(1)(a)(i) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-f02069bb5b4573af0dc1b07013c8330f]: Textual amendment: Words in reg. 2(2) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-8592a8838d0caec963b4eeef92d2ada2]: Textual amendment: Words in [reg. 2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/2/4/a/i) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/2/a)
+
+[^c1601128]: Marginal citation: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847) to which there are amendments not relevant to these Regulations.
+
+[^key-2d214e8f44348d03a329116b858b51db]: Textual amendment: [Reg. 2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/2/4/a/iii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/2/b)
+
+[^c1601130]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
+
+[^key-972093015b1f925fd9429eef8d018510]: Textual amendment: Reg. 2(8) substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/9/3)
+
+[^key-1b629d05dda1ae69e35b4fb1d0e23e1d]: Textual amendment: Words in reg. 2(8) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/c/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-30f7e125714fa8683b7081676601aa64]: Textual amendment: Words in reg. 2(8)(a) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/c/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^c1601131]: Marginal citation: [S.S.I. 2000/112](https://www.legislation.gov.uk/ssi/2000/112).
+
+[^key-7847281f3e30c51a3603c53301c0d3ce]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/3/2/d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/3/a)
+
+[^key-2a8b0d212e855eeeef1f69d8b6099622]: Textual amendment: [Reg. 3(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/3/2/e/iii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/3/b)
+
+[^key-64aa9c2a60dbc4218afbfaa256a92a60]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/6/2/b) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-73ec585c575f1e90d093a8d794026529]: Textual amendment: [Reg. 9(2)(f)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/9/2/f) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/4)
+
+[^c1601136]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18). Section 24D is inserted by paragraph 4 of Schedule 3 to the Welfare Reform and Pensions Act 1999.
+
+[^c1601137]: Marginal citation: Section 8A is inserted by paragraph 7 of Schedule 12 to the Welfare Reform and Pensions Act 1999.
+
+[^M_F_48bc02ba-da06-4500-dca8-91bb7cbcac52]: Textual amendment: Words in reg. 9(6)(b) substituted (6.4.09) by [S.I. 2009/615](https://www.legislation.gov.uk/uksi/2009/615), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2009/615/regulation/13/3)
+
+[^c1601138]: Marginal citation: [S.I. 2000/1053](https://www.legislation.gov.uk/uksi/2000/1053).

@@ -1,0 +1,710 @@
+---
+title: The Airports Slot Allocation Regulations 2006
+id: uksi/2006/2665
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-10-05'
+text_date: '2021-04-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/2665
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/2665/pdfs/uksiem_20062665_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2665/pdfs/uksi_20062665_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2665/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Airports Slot Allocation Regulations 2006
+
+> Text as at 2021-04-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2006 No. 2665
+
+CIVIL AVIATION
+
+The Airports Slot Allocation Regulations 2006
+
+Made
+
+5th October 2006
+
+Laid before Parliament
+
+11th October 2006
+
+Coming into force
+
+1st January 2007
+
+The Secretary of State for Transport is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to air transport.[^key-e523d0fc78783610faa1302e4630b73c]
+
+Accordingly, the Secretary of State makes the following Regulations in exercise of the powers conferred upon him by that section.[^key-e523d0fc78783610faa1302e4630b73c]
+
+## 1. Citation and commencement[^key-46f537b6538c63ff4f1bde4f946e3ba6]
+
+These Regulations may be cited as the Airports Slot Allocation Regulations 2006 and shall come into force on 1st January 2007.
+
+## 2. Interpretation[^key-429d4133112f627eee8d035d2687e4aa]
+
+(1) In these Regulations—
+
+- “address”, in relation to electronic communications, means any number or address used for the purposes of such communications;
+- “air carrier” means any air transport undertaking holding a valid operating licence or equivalent at the latest on 31st January for the following summer season or on 31st August for the following winter season, together with—
+  - (a) for the purposes of regulations 7 and 14 to 19, all other civil aircraft operators; or
+  - (b) for the purpose of regulation 9, other business aviation operators when they operate to a schedule;
+- “air traffic services” has the meaning given in section 98 of the Transport Act 2000[^f00003];
+- “air traffic services licence, exemption, approval or designation” means, respectively—
+  - (a) a licence or an exemption granted pursuant to Chapter I of Part I of the Transport Act 2000;
+  - (b) an approval granted pursuant to article 100 of the Air Navigation Order 2005[^f00004]; and
+  - (c) a designation issued pursuant to Article 8 of Council Regulation [(EC) No. 550/2004](https://www.legislation.gov.uk/european/regulation/2004/0550)[^f00005];
+- “air traffic services provider” means a person who provides air traffic services pursuant to an air traffic services licence, exemption, approval or designation;
+- “amending regulations” means each of—
+  - (a) [Council Regulation (EEC) No. 894/2002](https://www.legislation.gov.uk/european/regulation/2002/0894)[^f00006]amending [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095)[^f00007] on common rules for the allocation of slots at Community airports;
+  - (b) Council Regulation [(EC) No. 1554/2003](https://www.legislation.gov.uk/european/regulation/2003/1554)[^f00008] amending [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) on common rules for the allocation of slots at Community airports; [^key-22959db870733b17bf9d36f4eed887f5]...
+  - (c) Council Regulation [(EC) No. 793/2004](https://www.legislation.gov.uk/european/regulation/2004/0793)[^f00009] amending [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) on common rules for the allocation of slots at Community airports; and[^key-a6b6f5aaefd018ee44513430c50e61d5]
+  - (d) the Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019;
+- “business aviation” has the meaning given in Article 2(l) of the Council Regulation;
+- “CAA” means the Civil Aviation Authority;
+- “coordinated airport”—
+  - (a) for the purposes of regulations 3(1) and 4(7) and the definition of fully coordinated airport, means an airport where a coordinator has been appointed to facilitate the operations of air carriers operating or intending to operate at that airport, in accordance with the original council regulation; and
+  - (b) for all other purposes, has the meaning given in Article 2(g) of the council regulation;
+- “coordination parameters” has the meaning given in Article 2(m) of the council regulation;
+- “council regulation” means [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) on common rules for the allocation of slots at United Kingdom[^key-295b85d2d89009cc935646fa1891c01d] airports, as amended by the amending regulations [^key-e8ad07239eb6774e34c85bb1e6d5b9c7]...;
+- [^key-317586db026c32084e07606d488ed672]...
+- “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00013];
+- “enforcement code” means a code adopted by a coordinator or a schedules facilitator pursuant to regulation 18, as amended or modified in accordance with that regulation;
+- “fully coordinated airport” means a coordinated airport where, in order to land or take off, during the periods for which it is fully coordinated, it is necessary for an air carrier to have a slot allocated by a coordinator, in accordance with the original council regulation;
+- “independent reviewer” means a person appointed in accordance with regulation 19;
+- “managing body of an airport” has the meaning given in Article 2(j) of the council regulation and “managing body” shall be construed accordingly;
+- “new entrant” has the meaning given in Article 2(b) of the council regulation;
+- “1993 regulations” means the Airports Slot Allocation Regulations 1993[^f00014];
+- “Olympic coordinated airport” means an airport which is designated, on or after 1st August 2011, as a coordinated airport in accordance with paragraph 6 of Article 3 of the council regulation by reason of the Olympic Games;[^key-593ee0ffbd4cd729f0fd8bec4a263c7c]
+- “Olympic Games” means that part of the London Olympics which consist of the Games more particularly described in section 1(1)(a) of the London Olympic Games and Paralympic Games Act 2006;
+- “operative date” means 30th July 2004, being the date on which Council Regulation [(EC) No. 793/2004](https://www.legislation.gov.uk/european/regulation/2004/0793) came into force (except as stated in paragraph 2 of Article 2 of that Regulation);
+- “original committee” means a coordination committee established at a fully coordinated airport prior to the operative date in accordance with Article 5 of the original council regulation and the 1993 regulations and which continues to subsist;
+- “original coordinator” means any person who, prior to the operative date, was appointed as a coordinator in accordance with Article 4 of the original council regulation and the 1993 regulations and whose appointment is still in force;
+- “original council regulation” means the council regulation prior to amendment by Council Regulation [(EC) No. 793/2004](https://www.legislation.gov.uk/european/regulation/2004/0793);
+- “schedules facilitated airport” has the meaning given in Article 2(i) of the council regulation; and
+- “slot” has the meaning given in Article 2(a) of the council regulation.
+
+(2) Terms defined in paragraph (1) and other terms used in these Regulations shall be construed consistently with equivalent terms defined or used in the council regulation.
+
+## 3. Conditions for airport coordination[^key-d390fc6ac4619bf6775b912d7e1e04a5]
+
+(1) An airport which, prior to the operative date, was designated by the Secretary of State in accordance with Article 3 of the original council regulation as a coordinated airport shall be deemed to have been designated in accordance with Article 3 of the council regulation as a schedules facilitated airport.
+
+(2) An airport which, prior to the operative date, was designated by the Secretary of State in accordance with Article 3 of the original council regulation as a fully coordinated airport shall be deemed to have been designated in accordance with Article 3 of the council regulation as a coordinated airport.
+
+(3) Subject to paragraphs (4) and (5), the managing body of an airport—
+
+- (a) with no designation status; or
+- (b) which has been designated (or deemed to have been designated by paragraph (1)) as a schedules facilitated airport,
+
+shall carry out a thorough capacity analysis in the circumstances specified in (and in accordance with) paragraph 3 of Article 3 of the council regulation.
+
+(4) The managing body of an airport specified in paragraph (3) may appoint any competent body to carry out a capacity analysis.
+
+(5) The Secretary of State may by written notice served on the managing body of an airport specified in paragraph (3) appoint any competent body to carry out a capacity analysis, if it appears to the Secretary of State that the managing body is not willing or able to do so.
+
+(6) The managing body of an airport specified in paragraph (3) shall bear the costs of any appointment pursuant to paragraph (4) or shall reimburse the cost of any appointment made pursuant to paragraph (5).
+
+(7) On request made by the Secretary of State by written notice served on the CAA, the CAA shall publish in its publication entitled “United Kingdom Air Pilot” notice of any determination by the Secretary of State in accordance with Article 3 of the council regulation that an airport shall be (or shall cease to be) designated as a—
+
+- (a) schedules facilitated airport; or
+- (b) coordinated airport.
+
+## 4. The schedules facilitator and the coordinator[^key-950c1dac719ff5f13008d3de21040231]
+
+(1) The managing body of an airport which is designated as a schedules facilitated airport shall appoint a person as the schedules facilitator for that airport.
+
+(2) The managing body of an airport which is designated as a coordinated airport shall , subject to paragraph (2A),[^key-7b0dff168dabe241010ffba469f53c1e] appoint a person as the coordinator for that airport.
+
+(2A)[^key-1cbbeb6246c047d1b19edec312503998] In relation to an Olympic coordinated airport, the Secretary of State shall appoint a person as the coordinator for that airport.
+
+(3) No person shall be appointed pursuant to paragraph (1) or paragraph (2) unless that appointment has been approved by the Secretary of State following consultation by him in accordance with paragraph 1 of Article 4 of the council regulation.
+
+(4) No person shall be appointed pursuant to paragraph (2) or (2A) respectively[^key-a2fe6c2b0d11c444af04b69541da1189] unless the managing body or, as the case may be, the Secretary of State[^key-3d6f948e9eea6f52b5f89b84a3f84dcc] is satisfied that—
+
+- (a) that person’s functions in his capacity as a coordinator are separate or will be separated from the functions of any interested party; and
+- (b) that person’s activities in his capacity as a coordinator are financed by means of a system that guarantees the coordinator’s independence.
+
+(5) Each coordinator or schedules facilitator shall act in an independent, neutral, non-discriminatory and transparent manner.
+
+(6) The Secretary of State may by written notice served on the managing body of an airport and the coordinator or schedules facilitator for that airport withdraw any approval given pursuant to paragraph (3) if the Secretary of State is satisfied that any breach of paragraph (4) (in the case of a coordinator only) or paragraph (5) has occurred in relation to that person.
+
+(7) Any original coordinator appointed in respect of a coordinated airport shall be deemed to have been duly approved and appointed as the schedules facilitator for that airport in accordance with—
+
+- (a) Article 4 of the council regulation; and
+- (b) this regulation.
+
+(8) Any original coordinator appointed in respect of a fully coordinated airport shall be deemed to have been duly approved and appointed as the coordinator for that airport in accordance with—
+
+- (a) Article 4 of the council regulation; and
+- (b) this regulation.
+
+(9) Any appointment (or deemed appointment) referred to in this regulation shall , subject to paragraph (9A),[^key-5411e326fc53a3912eb025ff03c0a7ac] continue unless and until, following consultation by the Secretary of State in accordance with paragraph 1 of Article 4 of the council regulation, the Secretary of State determines that such appointment shall cease to have effect by written notice served on the—
+
+- (a) managing body of the airport to which the appointment relates; and
+- (b) the schedules facilitator or coordinator for that airport.
+
+(9A)[^key-2822e5aa1893c2f37643e9d14c0400df] The Secretary of State may, by written notice served on the managing body of an Olympic coordinated airport and the coordinator for that airport, withdraw the appointment of that coordinator if the Secretary of State is satisfied that a breach of paragraph (4) or (5) has occurred in relation to that person.
+
+(10) If a notice is served in accordance with paragraph (9), an appointment shall cease to have effect at the end of the period specified in that notice but without prejudice to any rights or liabilities acquired or incurred by the—
+
+- (a) managing body of the airport to which the appointment relates; and
+- (b) schedules facilitator or coordinator at that airport.
+
+(10A)[^key-40643edb4ae8e6e8b20ab728339f389d] Where an appointment under paragraph (2A) ceases to have effect in accordance with paragraph (10) it shall also be without prejudice to any rights or liabilities acquired or incurred by—
+
+- (a) the managing body of London City Airport, Gatwick Airport, Heathrow Airport and Stansted Airport; and
+- (b) the coordinator to whom the appointment relates,
+
+in connection with regulation 4A(1)(b).
+
+(11) No person shall act as a schedules facilitator for an airport which is designated (or deemed to have been designated by regulation 3(1)) as a schedules facilitated airport or as a coordinator for an airport which is designated (or deemed to have been designated by regulation 3(2)) as a coordinated airport unless he is either—
+
+- (a) duly approved as the case may require[^key-b3bab2c4e63617786f4ebefc42bd6f57] and appointed by virtue of paragraphs (1) to (3); or
+- (b) deemed to be so duly approved and appointed by virtue of paragraph (7) or paragraph (8).
+
+(12) Any person who contravenes paragraph (11) shall be guilty of an offence.
+
+## 4A. Charging – Olympic Games[^key-6c2bd418da8ead344636608dd8340f93]
+
+(1) A coordinator appointed under regulation 4(2A) may charge the managing body of—
+
+- (a) an Olympic coordinated airport; and
+- (b) London City Airport, Gatwick Airport, Heathrow Airport and Stansted Airport,
+
+a fee calculated using the formula specified in paragraph (2).
+
+(2) The formula referred to in paragraph (1) is—
+
+- A ÷ B = C
+- where—
+- ‘A’ is the total reasonable cost incurred by the coordinator in the exercise of the coordinator’s functions connected with the Olympic Games;
+- ‘B’ is the total number of air traffic movements during the period beginning on 21st July 2012 and ending on 15th August 2012 at all the airports referred to in paragraph (1)(a) and (b); and
+- ‘C’ is the fee payable to the coordinator by the managing body of an airport referred to in paragraph (1)(a) or (b) in respect of each air traffic movement at that airport during that period.
+
+(3) In this regulation—
+
+- “air traffic movement” means any take-off or landing requiring a slot.
+
+## 5. Coordination committee[^key-29d603165d39cc8a407d8b56ccaced93]
+
+(1) The managing body of an airport which is designated (or deemed to have been designated by regulation 3(2)) as a coordinated airport shall , subject to regulation 5A,[^key-798ad0f6d3cb0a6581e1e4ea500797a9] establish and maintain a coordination committee in accordance with Article 5 of the council regulation.
+
+(2) Any original committee shall be deemed to have been established in accordance with—
+
+- (a) Article 5 of the council regulation; and
+- (b) this regulation.
+
+## 5A. Coordination committee - Olympic Games[^key-9eee2c83a40555ef2e517f1bc4c3a1ac]
+
+(1) In relation to an Olympic coordinated airport, the Secretary of State shall establish and maintain a coordination committee in accordance with Article 5 of the council regulation.
+
+(2) That same committee shall also act as the coordination committee for all other Olympic coordinated airports.
+
+(3) In addition to those entitled to be members of the committee by virtue of Article 5 of the council regulation, membership is also open to representatives from the coordination committee at London City Airport, Gatwick Airport, Heathrow Airport and Stansted Airport.
+
+(4) The tasks of the committee are restricted to matters connected with the Olympic Games.
+
+## 6. Coordination parameters[^key-dd8edadfd6716f40dfb15b2cb07d9254]
+
+The managing body at each coordinated airport shall determine the parameters for slot allocation biannually in accordance with Article 6 of the council regulation.
+
+## 6A. Coordination parameters – Olympic Games[^key-e6fab5b6be3e4969b9d9e3b4f8a5a9fd]
+
+(1) A determination made under regulation 6, in relation to an Olympic coordinated airport, may be modified by the Secretary of State.
+
+(2) In making such modification, the Secretary of State shall adopt the approach set out in paragraphs 1 and 3 of Article 6 of the council regulation.
+
+## 7. Information for schedules facilitators and coordinators[^key-2c317a9f23e6d81fdc31b41c4bbbe580]
+
+Subject to regulations 17, 18 and 19, a penalty of up to £20,000 may be imposed by a coordinator or schedules facilitator by written notice served on any air carrier or managing body of an airport with no designation status on each occasion on which that person—
+
+- (a) fails to comply with a request for information made by that coordinator or schedules facilitator pursuant to paragraph 1 of Article 7 of the council regulation without reasonable excuse; or
+- (b) in purported compliance with that paragraph, knowingly or recklessly furnishes information which is false in a material particular.
+
+## 8. Process of slot allocation[^key-ac7b4e63aaf4cc5f731cbe77ad2b4447]
+
+(1) The managing body of a coordinated airport shall—
+
+- (a) be the competent body for the purpose of approving any local guidelines proposed by the coordination committee at that airport in accordance with paragraph 5 of Article 8 of the council regulation; and
+- (b) give written notice to the Secretary of State of the adoption, amendment or revocation of any such local guidelines.
+
+(2) A coordinator shall give written notice to the Secretary of State of such additional rules established by the air transport industry worldwide or within Europe[^key-1f37e59358a68e55d3186751854646f5] as that coordinator has taken into account in accordance with paragraph 5 of Article 8 of the council regulation.
+
+## 9. Slot mobility[^key-50b6ad6881f9e785a46917a859c08b62]
+
+An air carrier who exchanges or transfers a slot contrary to the requirements of Article 8a of the council regulation shall be guilty of an offence.
+
+## 10. Public service obligations[^key-9252c52eb3dbb24214c9268cad2bed68]
+
+A coordinator shall perform his duties under the council regulation subject to and in accordance with any reservation of slots—
+
+- (a) effected by the Secretary of State pursuant to Article 9 of the council regulation; and
+- (b) notified by the Secretary of State to him.
+
+## 11. Slot pool[^key-ca61f35e963e76056b14addc7227395c]
+
+(1) In the circumstances described in paragraph (2), the managing body of a coordinated airport shall—
+
+- (a) convene a meeting of the coordination committee for that airport to examine possible means of remedying serious capacity problems at that airport; and
+- (b) invite the Secretary of State[^key-50d644745c062dbf1af006cac9d511cd] to attend the meeting.
+
+(2) Paragraph (1) applies if, after application of the procedures set out in paragraphs 1 to 8 of Article 10 of the council regulation—
+
+- (a) the coordinator for that airport is unable to satisfy the requests of new entrants for additional slots; and
+- (b) in consequence, serious capacity problems continue to exist at that airport for new entrants.
+
+## 12. Complaints[^key-c58a391e3f635e936fcb02d836817973]
+
+(1) Save in cases of gross negligence or wilful misconduct, none of the persons specified in paragraph (2) shall be liable in damages in relation to any exercise or purported exercise of (or failure to exercise) his functions under—
+
+- (a) the council regulation;
+- (b) these Regulations; or
+- (c) any enforcement code.
+
+(2) The persons referred to in paragraph (1) are—
+
+- (a) a coordinator;
+- (b) a schedules facilitator; and
+- (c) an independent reviewer.
+
+(3) Save in cases of gross negligence or wilful misconduct, none of the persons specified in paragraph (4) shall be liable in damages in relation to anything done in compliance or purported compliance with—
+
+- (a) any direction issued pursuant to regulation 15; or
+- (b) any enforcement code.
+
+(4) The persons referred to in paragraph (3) are—
+
+- (a) an air traffic services provider; and
+- (b) a managing body of an airport.
+
+## 13. Relations with third countries[^key-edf689c547a583b0a9a09955de805f5e]
+
+A schedules facilitator or coordinator shall perform his duties and an air carrier’s rights shall be subject to any measures which the Secretary of State—
+
+- (a) takes[^key-3a23383f3a88413f81184caa20cc95cc] pursuant to paragraph 1 of Article 12 of the council regulation; and
+- (b) notifies in writing to that schedules facilitator, coordinator or air carrier.
+
+## 14. Enforcement[^key-7550f4526b0284aaf53c4b5a8703703e]
+
+An air carrier operating at a coordinated airport shall not repeatedly and intentionally—
+
+- (a) operate air services at times significantly different from the allocated slots; or
+- (b) use slots in a significantly different way from that indicated at the time of allocation, where such use causes prejudice to airport or air traffic operations.
+
+## 15. Directions[^key-749b9f8f4e895b5f1e54cd3c756c6c0b]
+
+(1) A coordinator may issue a direction to any of the persons specified in paragraph (2) for the purpose of securing compliance by an air carrier with the duty set out in paragraph 14, subject to the conditions specified in paragraph (3).
+
+(2) The persons referred to in paragraph (1) are—
+
+- (a) that air carrier;
+- (b) the managing body of an airport; and
+- (c) an air traffic services provider.
+
+(3) The conditions referred to in paragraph (1) are that—
+
+- (a) in the case of a direction served upon the managing body of an airport or an air traffic services provider, the coordinator has first consulted that person; and
+- (b) the direction does not relate to an air traffic service required by—
+  - (i) an arriving aircraft; or
+  - (ii) a departing aircraft which has commenced push back from its stand.
+
+(4) A person to whom a direction is issued shall comply with that direction except to the extent that, in his reasonable opinion, compliance would (or would be likely to)—
+
+- (a) conflict with any other requirement having the force of law including any applicable—
+  - (i) airport by-laws; or
+  - (ii) air traffic services licence, exemption, approval or designation;
+- (b) prejudice safety; or
+- (c) in the case of a direction served upon the managing body of an airport or an air traffic services provider, incur or increase any cost to or liability of that person.
+
+(5) A person specified in paragraph (2) who receives a direction issued (or purporting to have been issued) by a coordinator pursuant to this regulation shall be entitled to assume that it has been lawfully and properly issued by that coordinator.
+
+## 16. Penalties and other proceedings[^key-1de149a40d7e5fafdaaf72be8e39a8dd]
+
+(1) Subject to regulations 17, 18 and 19, a penalty of up to £20,000 may be imposed by a coordinator by written notice served on any air carrier on each occasion on which that air carrier fails to comply with either of the duties set out in regulations 14 and 15(4).
+
+(2) Subject to paragraph (3), each of the duties specified in regulations 14 and 15(4) shall be owed to the coordinator and shall not be actionable at the suit of any other person who suffers loss or is otherwise affected by breach of the duty or duties.
+
+(3) The duty referred to in regulation 15(4) shall be owed by each air carrier to whom a direction is given to all persons likely to suffer loss or otherwise be affected by breach of the direction.
+
+(4) No penalty may be imposed on any person pursuant to paragraph (1) and no other proceedings may be commenced under these Regulations in respect of any failure by any person to comply with either of the duties set out in regulations 14 and 15(4) to the extent that the person concerned demonstrates that the failure in question was beyond his reasonable control.
+
+## 17. Enforcement procedure[^key-a5645c5a9adcc2b22ad2b386c80b3cfe]
+
+(1) A coordinator or schedules facilitator shall give reasons which explain—
+
+- (a) why a penalty has been imposed pursuant to regulation 7 or 16;
+- (b) the amount of a penalty; and
+- (c) why a direction has been issued pursuant to regulation 15.
+
+(2) Any person upon whom such a penalty may be imposed or to whom such a direction may be issued shall have an opportunity to—
+
+- (a) subject to paragraph (3), make representations to the coordinator or schedules facilitator before or after the penalty is imposed or direction is issued;
+- (b) in the circumstances described in paragraph (4), require a review of the decision of the coordinator or schedules facilitator by an independent reviewer;
+- (c) subject to paragraph (3), make representations to that independent reviewer for the purpose of that review.
+
+(3) The representations referred to in sub-paragraphs (a) and (c) of paragraph (2) may be written or, if the person upon whom a penalty may be imposed or to whom a direction may be issued so requests, may be made at an oral hearing which, if that person so requests, shall be held in public but from which the press and public may be excluded to the extent that the protection of commercial confidentiality requires.
+
+(4) A review may be required on any of the following grounds—
+
+- (a) the decision of the coordinator or schedules facilitator was substantially flawed;
+- (b) the decision-making process adopted by the coordinator or schedules facilitator was substantially unfair;
+- (c) new information has become available after the decision that could not reasonably have been made available to the coordinator or schedules facilitator before the decision and which, had it been made available, would have resulted in a substantially different decision; or
+- (d) the penalty or direction is disproportionate.
+
+(5) Upon completion of a review, an independent reviewer may endorse the decision in question or direct that—
+
+- (a) the coordinator or schedules facilitator reconsider the decision;
+- (b) the amount of any penalty be increased or reduced;
+- (c) the decision be varied in any other respect; or
+- (d) the decision be cancelled,
+
+in each case, to such extent or in such manner as the independent reviewer may specify.
+
+(6) A coordinator or schedules facilitator shall reconsider a decision to impose a penalty or (in the case of a coordinator) to issue a direction—
+
+- (a) if an opportunity is afforded to make representations after the decision is made; or
+- (b) to the extent that an independent reviewer directs that the decision should be reconsidered,
+
+and, in either case, may vary or cancel the decision to such extent as the coordinator or schedules facilitator deems appropriate in the circumstances.
+
+(7) Decisions of a coordinator or schedules facilitator shall be published in such manner as the coordinator or schedules facilitator considers appropriate, except to the extent that the protection of commercial confidentiality requires.
+
+(8) A penalty imposed pursuant to regulation 7 or regulation 16 shall be—
+
+- (a) recoverable by a coordinator or schedules facilitator as a civil debt; and
+- (b) upon collection, shall be paid together with any accrued interest into the consolidated fund after deduction of all costs and expenses reasonably and properly incurred by the coordinator or schedules facilitator for the purpose of enforcement.
+
+(9) The costs and expenses to be deducted for the purpose of paragraph (8)(b) shall include the costs of any review (including any legal costs) incurred by the coordinator or schedules facilitator (including the fees and expenses of the independent reviewer) which are not reimbursed by the person who has required the review pursuant to regulation 19(5)(b).
+
+(10) A coordinator shall publish an annual report concerning the implementation of regulations 14 to 16 in such manner and in such form and containing such information (including a summary of any penalties imposed or directions issued) as he considers appropriate or as the Secretary of State may by written notice require from time to time.
+
+## 18. Enforcement code[^key-2175150029fa56566f9442e0aa7fdf71]
+
+(1) A coordinator or schedules facilitator shall adopt and publish an enforcement code which makes provision for the manner in which that coordinator or schedules facilitator will—
+
+- (a) impose penalties pursuant to regulation 7 or, in the case of a coordinator, regulation 16; or
+- (b) in the case of a coordinator, issue directions pursuant to regulation 15.
+
+(2) An enforcement code—
+
+- (a) shall comply with regulation 17;
+- (b) shall make provision as to—
+  - (i) the circumstances in which the coordinator or schedules facilitator intends to impose penalties or (in the case of a coordinator) issue directions;
+  - (ii) the procedures which the coordinator or schedules facilitator intends to adopt for the purpose of imposing any penalty or (in the case of a coordinator) issuing any direction;
+  - (iii) the extent to which the amount of any penalty may vary depending upon the nature of the breach of duty in question; and
+  - (iv) any other factors that the coordinator or schedules facilitator intends to take into account in determining the amount of any penalty;
+- (c) may contain such incidental or supplementary provisions as the coordinator or schedules facilitator considers appropriate; and
+- (d) subject to paragraph (3), may be amended or revoked by the coordinator or schedules facilitator.
+
+(3) Before adopting, amending or revoking an enforcement code, a coordinator or schedules facilitator shall consult the Secretary of State and, unless otherwise agreed in writing by the Secretary of State—
+
+- (a) the managing body of an airport to which the code relates;
+- (b) the members of the coordination committee for that airport; and
+- (c) each air traffic services provider.
+
+(4) The Secretary of State may at any time by written notice served on a coordinator or schedules facilitator require that the enforcement code that has been adopted and published by that coordinator or schedules facilitator be modified in such manner as may be specified in the notice, provided that the Secretary of State has first consulted—
+
+- (a) the coordinator or schedules facilitator; and
+- (b) the persons specified in sub-paragraphs (a) to (c) of paragraph (3).
+
+(5) Each of the persons specified in paragraph (6) shall comply with the enforcement code adopted by a coordinator or schedules facilitator, subject to the exception that applies to regulation 15(4) in respect of each of sub-paragraphs (a) to (c) of that regulation.
+
+(6) The persons referred to in paragraph (5) are—
+
+- (a) the coordinator or schedules facilitator;
+- (b) each independent reviewer appointed by that coordinator or schedules facilitator;
+- (c) the managing body of an airport to which the code relates;
+- (d) air carriers operating at that airport; and
+- (e) any air traffic services provider.
+
+(7) Following the adoption, amendment, revocation or modification of any provision of an enforcement code (“a relevant event”)—
+
+- (a) the coordinator or schedules facilitator shall give written notice of the relevant event and, in the case of adoption, a copy of the provision or, in the case of amendment or modification, details of the change, to each of—
+  - (i) the CAA;
+  - (ii) the persons specified in sub-paragraphs (b) to (e) of paragraph (6); and
+- (b) the CAA shall publish in its publication entitled “United Kingdom Air Pilot” any notice received by it from the coordinator or schedules facilitator in accordance with sub-paragraph (a).
+
+(8) The modification, amendment or revocation of any provision of any enforcement code shall not affect the validity of anything previously done under that provision.
+
+## 19. Independent reviewer[^key-8c67ce0a66c371359365950f855d78b4]
+
+(1) An independent reviewer shall be a natural person—
+
+- (a) nominated by the coordinator or schedules facilitator after consulting the persons specified in sub-paragraphs (a) to (c) of regulation 18(3), for which purpose—
+  - (i) the person nominated shall disclose in writing to the coordinator or schedules facilitator any relationship with or interest in any—
+    - (aa) airport operator;
+    - (bb) air carrier; or
+    - (cc) air traffic services provider; and
+  - (ii) the coordinator or schedules facilitator shall disclose in writing to each of the persons specified in sub-paragraphs (a) to (c) of regulation 18(3), in such form as the coordinator or schedules facilitator considers appropriate, any relationship or interest disclosed to that coordinator or schedules facilitator pursuant to sub-paragraph (i); and
+- (b) whose identity, qualifications and terms of appointment by the coordinator or schedules facilitator have been approved in writing by the Secretary of State.
+
+(2) Any approval given by the Secretary of State pursuant to paragraph (1)(b) may relate to an appointment for the purpose of a particular review or a standing appointment of—
+
+- (a) a single independent reviewer; or
+- (b) a panel comprising two or more independent reviewers, any one of whom may be selected for the purpose of a particular review.
+
+(3) If it appears to the Secretary of State that any independent reviewer appointed for the purpose of a particular review is not independent and impartial having regard to the circumstances of the review in question, the Secretary of State may by notice in writing to the coordinator or schedules facilitator require that, for the purpose of that review, the independent reviewer—
+
+- (a) ceases to act as such; and
+- (b) is replaced by another independent reviewer.
+
+(4) Subject to paragraph (5), the fees and expenses of an independent reviewer shall be borne by the coordinator or schedules facilitator but otherwise an independent reviewer shall not have any relationship with or interest in any coordinator or schedules facilitator.
+
+(5) The costs of any review (including any legal costs) incurred by the person who has required the review and by the coordinator or schedules facilitator (including the fees and expenses of the independent reviewer) shall be—
+
+- (a) borne, as between the coordinator or schedules facilitator and the person who has required the review, in such manner as the independent reviewer may determine to be fair, having regard to all of the circumstances; and
+- (b) to the extent that the independent reviewer determines that such costs incurred by the coordinator or schedules facilitator shall be borne by the person who has required the review, reimbursed by that person to the coordinator or schedules facilitator; or
+- (c) to the extent that the independent reviewer determines that such costs incurred by the person who has required the review shall be borne by the coordinator or schedules facilitator, reimbursed by the coordinator or schedules facilitator to that person.
+
+(6) Notwithstanding any of the terms of appointment of an independent reviewer, the appointment of an independent reviewer shall not be terminated without the prior written approval of the Secretary of State except in consequence of—
+
+- (a) death;
+- (b) resignation; or
+- (c) expiry of the period of the appointment.
+
+## 20. Offences[^key-c3201f620db6d2055a389e67ed44af05]
+
+(1) A person guilty of an offence under these Regulations shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; and
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+(2) Where an offence under these Regulations has been committed by a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of any—
+
+- (a) director;
+- (b) manager;
+- (c) secretary;
+- (d) other similar officer of the body corporate; or
+- (e) any person who was purporting to act in any such capacity,
+
+he as well as the body corporate shall be guilty of that offence and liable to be proceeded against and punished accordingly.
+
+(3) Where the affairs of a body corporate are managed by its members, paragraph (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(4) Where a limited partnership is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or the connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+## 21. Notices[^key-2fd44ddb209ce51322d1d80a9607376c]
+
+(1) In any case where notice may be or is required to be given to or served on any person by these Regulations, that notice may be given or served—
+
+- (a) in a manner set out in regulation 4 of the Civil Aviation Authority Regulations 1991[^f00015]; or
+- (b) where—
+  - (i) an address for service using electronic communications has been given by that person and not withdrawn in accordance with paragraph (5); and
+  - (ii) that person has agreed to accept service by electronic communications of documents in a certain form and has not withdrawn that agreement in accordance with that paragraph,
+
+  by using electronic communications to send the document in that form to that person at that address.
+
+(2) A document given to or served on a person in accordance with paragraph (1)(b) must be in a form sufficiently permanent to be used for subsequent reference.
+
+(3) Where a document is given to or served on a person in accordance with paragraph (1)(b), the document shall be deemed to have been given to or served on that person at the time at which the electronic communication is transmitted unless—
+
+- (a) the contrary is proved; or
+- (b) paragraph (4) applies.
+
+(4) If the time at which an electronic communication is transmitted to a person is not a time at which that person’s principal place of business in the country in which the addressee is situated is normally open for business, the document shall be deemed to have been given or served on that person on the next day on which that person’s principal place of business in the country in which the addressee is situated is normally open for business.
+
+(5) A person who has supplied an address for service using electronic communications and has agreed to accept service of documents in a certain form in accordance with paragraph (1)(b) may give notice withdrawing that address or that agreement or both.
+
+(6) A withdrawal under paragraph (5) shall take effect on the later of—
+
+- (a) the date specified by the person in the notice; and
+- (b) the date which is fourteen days after the date on which the notice is given.
+
+(7) \`This regulation shall not apply to any document in relation to the service of which provision is made by the rules of the court.
+
+## 22. Revocation[^key-7107aded4c66c4451fd0fc8422194f12]
+
+The following Regulations are revoked—
+
+- (a) the Airports Slot Allocation Regulations 1993;
+- (b) the Airports Slot Allocation (Amendment) Regulations 1993[^f00016];
+- (c) the Airports Slot Allocation (Second Amendment) Regulations 1994[^f00017]; and
+- (d) regulation 6 of the EC/Swiss Air Transport Agreement (Consequential Amendments) Regulations 2004[^f00018].
+
+Signed by authority of the Secretary for State
+
+G Merron
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations replace the Airports Slot Allocation Regulations 1993, which require extensive amendment in consequence of changes made to [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) by Council Regulation [(EC) No. 793/2004](https://www.legislation.gov.uk/european/regulation/2004/0793).
+
+Regulation 3 provides that an airport formerly designated as coordinated or fully coordinated is to be treated as if it had been designated as, respectively, schedules facilitated or coordinated. It also implements Article 3(3) of the council regulation by requiring a capacity analysis to be conducted at other airports in specified circumstances.
+
+Regulation 4 implements Articles 4(1) and 4(2) of the council regulation by requiring the appointment of schedules facilitators or coordinators and sets out the conditions to be complied with in respect of appointments. It provides that any person previously appointed as a coordinator for an airport formerly designated as coordinated shall be treated as if he had been appointed as a schedules facilitator for that airport. Similarly, any person previously appointed as a coordinator for an airport formerly designated as fully coordinated shall be treated as if he had been appointed as a coordinator for that airport. This regulation maintains existing criminal offences in respect of unauthorised persons who act in either capacity.
+
+Regulation 5 implements Article 5 of the council regulation by requiring the operators of coordinated airports to establish coordination committees.
+
+Regulation 6 implements Article 6(1) of the council regulation by requiring the operators of coordinated airports to determine slot allocation parameters biannually.
+
+Regulation 7 implements Article 7(1) of the council regulation by permitting a coordinator or a schedules facilitator to impose financial penalties on persons who fail to comply with their obligations under that Article to provide information. Breach of the original Article 7 was previously a criminal offence.
+
+Regulation 8 implements Article 8(5) of the council regulation by requiring the operators of coordinated airports and coordinators to notify the Secretary of State of local guidelines and rules which require to be notified to the European Commission.
+
+Regulation 9 maintains the existing criminal offence in respect of slot transfers which breach Article 8a of the council regulation.
+
+Regulation 10 implements Article 9(1) of the council regulation by requiring coordinators to comply with slot reservations made for the purpose of public service obligations.
+
+Regulation 11 implements Article 10(9) of the council regulation by requiring the operators of coordinated airports to convene a meeting of the local coordination committee in certain circumstances.
+
+Regulation 12 implements Article 11(2) of the council regulation by protecting coordinators and schedules facilitators from civil claims, except in cases of gross negligence or wilful default
+
+Regulation 13 implements Article 12(1) of the council regulation by requiring that coordinators and air carriers observe any measures that the Secretary of State is required to take by the European Commission.
+
+Regulation 14 implements Article 14(5) of the council regulation by prohibiting the misuse of slots at coordinated airports. The council regulation does not require an equivalent prohibition in the case of schedules facilitated airports.
+
+Regulation 15 gives power to a coordinator to issue directions in order to secure compliance with Regulation 14.
+
+Regulation 16 permits a coordinator to impose non-criminal sanctions in the form of financial penalties.
+
+Regulation 17 establishes an enforcement procedure with which a coordinator or schedules facilitator must comply.
+
+Regulation 18 obliges a coordinator or schedules facilitator to adopt an enforcement code and makes provision as to its content, amendment, revocation or modification.
+
+Regulation 19 makes provision for the appointment of an independent reviewer to whom enforcement decisions of a coordinator or schedules facilitator may be appealed.
+
+Regulation 20 maintains the existing penalties for existing criminal offences.
+
+Regulation 21 permits notices to be served either by traditional means or by electronic communications.
+
+Regulation 22 revokes the Airports Slot Allocation Regulations 1993 and subsequent amending Regulations.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business has been produced and a copy placed in the library of both Houses of Parliament. Copies may be obtained from the Department for Transport, 76 Marsham Street, London SW1P 4DR. Alternatively, copies may be obtained from the Department for Transport’s website which is at www.dft.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-e523d0fc78783610faa1302e4630b73c]: Modification: Regulations: power to amend conferred (29.4.2021) by Regulation (EEC) No. 95/1993, Art. 10aa (as inserted (E.W.S.) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2021/12/section/12/2), [21(1)(b)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/b))
+
+[^key-46f537b6538c63ff4f1bde4f946e3ba6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-429d4133112f627eee8d035d2687e4aa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^f00003]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^f00004]: Footnote: [S.I. 2005/1970](https://www.legislation.gov.uk/uksi/2005/1970), to which there are amendments not relevant to these Regulations.
+
+[^f00005]: Footnote: O.J. No. L 96, 31.03.2004, p. 10.
+
+[^f00006]: Footnote: O.J. No. L 142, 31.05.2002, p.3.
+
+[^f00007]: Footnote: O.J. No. L 14, 22.01.1993, p.1.
+
+[^f00008]: Footnote: O.J. No. L 221, 04.09.2003, p.1.
+
+[^key-22959db870733b17bf9d36f4eed887f5]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) omitted (31.12.2020) by virtue of [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00009]: Footnote: O.J. No. L 138, 30.04.2004, p.50.
+
+[^key-a6b6f5aaefd018ee44513430c50e61d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) inserted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-295b85d2d89009cc935646fa1891c01d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e8ad07239eb6774e34c85bb1e6d5b9c7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) omitted (31.12.2020) by virtue of [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-317586db026c32084e07606d488ed672]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) omitted (31.12.2020) by virtue of [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00013]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” in section 15(1) of that Act was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00014]: Footnote: [S.I. 1993/1067](https://www.legislation.gov.uk/uksi/1993/1067), amended by [S.I. 1993/3042](https://www.legislation.gov.uk/uksi/1993/3042), [S.I. 1994/1736](https://www.legislation.gov.uk/uksi/1994/1736) and [S.I. 2004/1256](https://www.legislation.gov.uk/uksi/2004/1256).
+
+[^key-593ee0ffbd4cd729f0fd8bec4a263c7c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/1610/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-d390fc6ac4619bf6775b912d7e1e04a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/2665/regulation/3) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-950c1dac719ff5f13008d3de21040231]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-7b0dff168dabe241010ffba469f53c1e]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/2) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-1cbbeb6246c047d1b19edec312503998]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/2A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-a2fe6c2b0d11c444af04b69541da1189]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/4) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/c/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-3d6f948e9eea6f52b5f89b84a3f84dcc]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/4) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/c/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-5411e326fc53a3912eb025ff03c0a7ac]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/9) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-2822e5aa1893c2f37643e9d14c0400df]: Textual amendment: [Reg. 4(9A)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/9A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/e) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-40643edb4ae8e6e8b20ab728339f389d]: Textual amendment: [Reg. 4(10A)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/10A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/f) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-b3bab2c4e63617786f4ebefc42bd6f57]: Textual amendment: Words in [reg. 4(11)(a)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/11/a) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(g)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/g) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-6c2bd418da8ead344636608dd8340f93]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/1610/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-29d603165d39cc8a407d8b56ccaced93]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/2665/regulation/5) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-798ad0f6d3cb0a6581e1e4ea500797a9]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/5/1) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/6/1) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-9eee2c83a40555ef2e517f1bc4c3a1ac]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2006/2665/regulation/5A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/6/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-dd8edadfd6716f40dfb15b2cb07d9254]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/2665/regulation/6) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-e6fab5b6be3e4969b9d9e3b4f8a5a9fd]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2006/2665/regulation/6A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/1610/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+
+[^key-2c317a9f23e6d81fdc31b41c4bbbe580]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2665/regulation/7) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-ac7b4e63aaf4cc5f731cbe77ad2b4447]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/2665/regulation/8) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-1f37e59358a68e55d3186751854646f5]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/8/2) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-50b6ad6881f9e785a46917a859c08b62]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/2665/regulation/9) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-9252c52eb3dbb24214c9268cad2bed68]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/2665/regulation/10) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-ca61f35e963e76056b14addc7227395c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/2665/regulation/11) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-50d644745c062dbf1af006cac9d511cd]: Textual amendment: Words in [reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/11/1/b) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c58a391e3f635e936fcb02d836817973]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/2665/regulation/12) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-edf689c547a583b0a9a09955de805f5e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/2665/regulation/13) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-3a23383f3a88413f81184caa20cc95cc]: Textual amendment: Word in [reg. 13(a)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/13/a) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7550f4526b0284aaf53c4b5a8703703e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/2665/regulation/14) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-749b9f8f4e895b5f1e54cd3c756c6c0b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2006/2665/regulation/15) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-1de149a40d7e5fafdaaf72be8e39a8dd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/2665/regulation/16) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-a5645c5a9adcc2b22ad2b386c80b3cfe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/2665/regulation/17) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-2175150029fa56566f9442e0aa7fdf71]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/2665/regulation/18) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-8c67ce0a66c371359365950f855d78b4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/2665/regulation/19) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-c3201f620db6d2055a389e67ed44af05]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2006/2665/regulation/20) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^key-2fd44ddb209ce51322d1d80a9607376c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2006/2665/regulation/21) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^f00015]: Footnote: [S.I. 1991/1672](https://www.legislation.gov.uk/uksi/1991/1672), to which there are amendments not relevant to these Regulations.
+
+[^key-7107aded4c66c4451fd0fc8422194f12]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2006/2665/regulation/22) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+
+[^f00016]: Footnote: [S.I. 1993/3042](https://www.legislation.gov.uk/uksi/1993/3042).
+
+[^f00017]: Footnote: [S.I. 1994/1736](https://www.legislation.gov.uk/uksi/1994/1736).
+
+[^f00018]: Footnote: [S.I. 2004/1256](https://www.legislation.gov.uk/uksi/2004/1256).

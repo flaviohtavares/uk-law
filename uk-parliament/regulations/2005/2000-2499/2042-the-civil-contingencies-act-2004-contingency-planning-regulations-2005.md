@@ -1,0 +1,1126 @@
+---
+title: The Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005
+id: uksi/2005/2042
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2005-07-22'
+text_date: '2026-02-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2005/2042
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2042/pdfs/uksiem_20052042_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2042/pdfs/uksi_20052042_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2042/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2005/2042
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2005 No. 2042
+
+CIVIL CONTINGENCIES
+
+The Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005
+
+Made
+
+22nd July 2005
+
+Laid before Parliament
+
+27th July 2005
+
+Coming into force
+
+14th November 2005
+
+- (a)
+- (b)
+- (c)
+
+hereby makes the following Regulations:[^key-84f236cd1cd80e7996227d56c8800c02]
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005.
+
+(2) These Regulations come into force on 14th November 2005.
+
+### 2. Northern Ireland
+
+Regulations 4, 5, 9 to 11, 15 to 17, 32 to 34 and 36 to 44 do not extend to Northern Ireland.
+
+### 3. Interpretation[^key-d26dd3fa5db010c139c4189859a7937d]
+
+(1) In these Regulations –
+
+- “**the Act**” means the Civil Contingencies Act 2004;
+- “**the Assembly**” means the National Assembly for Wales;
+- “**body which deals with security matters**” means any of –
+  - (a) the Security Service;
+  - (b) the Secret Intelligence Service;
+  - (c) the Government Communications Headquarters;
+  - (d) the Serious Organised Crime Agency[^key-de7107e237ae219bbcaa96ba367d02c7];
+- “**Category 1 responder**” means a person or body listed in Part 1 or 2 of Schedule 1 [^c12282381];
+- “**Category 2 responder**” means a general Category 2 responder or a Scottish Category 2 responder;
+- “**community risk register**” has the meaning given by –
+  - (a) in England and Wales, regulation 15;
+  - (b) in Scotland, regulation 17;
+- “**emergency**” has the meaning given by section 1(1);
+- “**function**” has the meaning given by section 18(1);
+- “**general Category 1 responder**” means a person or body listed in Part 1 of Schedule 1;
+- “**general Category 2 responder**” means –
+  - (a) a person or body listed in paragraph 19, 20, 21, 22, 24, 25, 29 or 29A of Part 3 of Schedule 1;
+  - (b) a person or body listed in paragraph 23 of Part 3 of Schedule 1 which is a relevant railway operator;
+  - (c) a person or body listed in paragraph 26 of Part 3 of Schedule 1 which is a relevant airport operator; and
+  - (d) a person or body listed in paragraph 27 of Part 3 of Schedule 1 which is a relevant harbour authority;
+- “**general responder**” means a general Category 1 responder or a general Category 2 responder;
+- “**local resilience area**” in relation to each general responder (other than a general responder whose functions are exercisable only in Northern Ireland) means –
+  - (b) in so far as the responder has functions which are exercisable in relation to a London borough or the City of London, London;[^key-3a46d4f430d896583426f260b25d688e]
+  - (c) otherwise, the police area in which the responder's functions are exercisable;
+- “**local resilience forum**” has the meaning given by regulation 4(4)(b)[^key-9ccde1709c2c259be66f843324d3b9c1];
+- “London” means the area comprising the areas of the London boroughs and the City of London;[^key-d4431fa2f07138d7da313e3c07d98e99]
+- “**non-lead general Category 1 responders**” has the meaning given in regulation 9(4);
+- “**relevant airport operator**” means an airport operator, within the meaning of section 82(1) of the Airports Act 1986 [^c12282391], which is responsible for an airport through which, in the most recent year for which data is available, at least 50,000 passengers or 10,000 tonnes of freight and mail were transported;
+- “**relevant harbour authority**” means a harbour authority, within the meaning of section 46(1) of the Aviation and Maritime Security Act 1990 [^c12282401], which is responsible for a harbour through which the average annual maritime traffic, calculated by reference to the most recent three years for which data is available, is at least 1.5 million tonnes of cargo or 200,000 passengers;
+- “**relevant railway operator**” means a person who holds a licence under section 8 of the Railways Act 1993 (operation of railway assets) in so far the licence relates to activity in Great Britain and in so far as the licence held is –
+  - (a) a network licence (within the meaning of that Act);
+  - (b) a passenger licence (within the meaning of that Act);
+  - (c) a station licence (within the meaning of that Act); or
+  - (d) a non-passenger licence (meaning a licence authorising a person to be the operator of a train being used on a network for a purpose other than carrying passengers), where such licence is held for the purpose of operating trains for the carriage of goods by railway and connected purposes,
+
+  except where such a licence is held only for the purpose of carrying out light maintenance activities (within the meaning of that Act);
+- “**responder**” means a Category 1 responder or a Category 2 responder;
+- “**Scottish Category 1 responder**” means a person or body listed in Part 2 of Schedule 1;
+- “**Scottish Category 2 responder**” means –
+  - (a) a person or body listed in paragraph 30 to 35 of Part 4 of Schedule 1;
+  - (b) a person or body listed in paragraph 36 of Part 4 of Schedule 1 which is a relevant airport operator; and
+  - (c) a person or body listed in paragraph 37 of Part 4 of Schedule 1 which is a relevant harbour authority;
+- “**sensitive information**” has the meaning given by regulation 45;
+- “**strategic co-ordinating group**” has the meaning given by regulation 5(3);
+- “**voluntary organisation**” means a body (other than a public or local authority) whose activities are not carried on for profit.
+
+(2) In these Regulations, unless otherwise specified, any reference to a section, Part or Schedule is a reference to that section or Part of, or Schedule to, the Act.
+
+## PART 2 — General
+
+### 4. Co-operation and local resilience forums – England and Wales[^key-39074b61074806424a1dca360afe50bc]
+
+*Extent: E+W+S*
+
+(1) Relevant general Category 1 responders must co-operate—
+
+- (a) with each other in connection with the performance of their duties under section 2(1); and
+- (b) with relevant general Category 2 responders in so far as such co-operation relates to or facilitates the performance of the relevant general Category 1 responder’s duties under section 2(1).
+
+(2) Relevant general Category 2 responders must co-operate with each relevant general Category 1 responder in connection with the performance by that relevant general Category 1 responder of its duties under section 2(1).
+
+(3) Relevant general Category 2 responders must co-operate with each other in so far as such co-operation is necessary to enable each such relevant Category 2 responder to perform its duties under paragraph (2).
+
+(4) The co-operation referred to in paragraphs (1) to (3) shall take such form as may be agreed between the relevant responders, but must include—
+
+- (a) the provision by all relevant general Category 1 and Category 2 responders of information necessary for the performance of their functions under the Act in accordance with Part 8; and
+- (b) a forum of all relevant general Category 1 and Category 2 responders (referred to in these Regulations as the “local resilience forum”).
+
+(5) Subject to paragraphs (6), (7) and (8), the arrangements for each local resilience forum shall be agreed by the relevant general Category 1 responders.
+
+(6) Before agreeing arrangements under paragraph (5), the relevant general Category 1 responders must consult all relevant general Category 2 responders.
+
+(7) Relevant general Category 1 responders may hold meetings of the local resilience forum and any groups and sub-groups at such times as they may agree and must—
+
+- (a) hold a meeting of the local resilience forum, to which the chief officer of each relevant general Category 1 responder and each relevant general Category 2 responder is invited, at least once every six months (“the Chief Officers Group”);
+- (b) in the local resilience area for London, hold a meeting in respect of each London borough and the City of London at least once every six months (“a borough resilience forum”) to which each general Category 1 responder which exercises functions in the relevant London borough or the City of London is invited.
+
+(8) A relevant general Category 1 responder—
+
+- (a) must, so far as is reasonably practicable, attend meetings of the Chief Officers Group or be effectively represented at such meetings by another responder; and
+- (b) in all other cases, must consider, in relation to meetings of—
+  - (i) the local resilience forum;
+  - (ii) other groups or sub-groups of a local resilience forum; or
+  - (iii) in London, a relevant borough resilience forum,
+
+  whether it is appropriate for it to attend the meeting or to be effectively represented at the meeting by another responder.
+
+(9) A relevant general Category 2 responder—
+
+- (a) must, so far as is reasonably practicable, attend or be effectively represented by another responder at meetings of the Chief Officers Group for the local resilience area if it is invited to do so by all the relevant general Category 1 responders; and
+- (b) in the case of any other meetings of a local resilience forum, any groups or sub-groups, or, where the general Category 2 responder exercises functions in London, a borough resilience forum, must consider whether it is appropriate for it to attend the meeting or to be effectively represented at the meeting by another responder.
+
+(10) For the purposes of enabling relevant general Category 2 responders to comply with paragraph (9), the relevant general Category 1 responders must—
+
+- (a) keep each relevant general Category 2 responder informed of—
+  - (i) when meetings of the local resilience forum, any groups and sub-groups and, in London, relevant borough resilience forums, are to take place;
+  - (ii) the location of such meetings; and
+  - (iii) the matters which are likely to be discussed at such meetings; and
+- (b) enable each relevant general Category 2 responder to—
+  - (i) attend meetings of the Chief Officers Group where it must do so; and
+  - (ii) attend any meetings of the local resilience forum, any groups and sub-groups and, in London, relevant borough resilience forums, where the relevant general Category 2 responder wishes to do so.
+
+(11) For the purposes of this regulation—
+
+- ‘arrangements’ include the structures and administration of the local resilience forum, any groups and sub-groups and, in London, a borough resilience forum, and, subject to paragraph (7)(a), the frequency with which meetings are held;
+- ‘chief officer’ means the chief officer or equivalent person employed by a general responder;
+- ‘relevant general Category 1 responder’ means a general Category 1 responder which has functions which are exercisable in a particular local resilience area in England and Wales;
+- ‘relevant general Category 2 responder’ means a general Category 2 responder which has functions which are exercisable in a particular local resilience area in England and Wales.
+
+### 5. Co-operation and strategic co-ordination groups – Scotland
+
+*Extent: E+W+S*
+
+(1) General Category 1 responders which have functions which are exercisable in a particular local resilience area in Scotland must co-operate with each Category 1 responder which has functions which are exercisable in that local resilience area in connection with the performance by that other responder of its duties under section 2(1).
+
+(2) The co-operation referred to in paragraph (1) –
+
+- (a) may take the form of one general Category 1 responder co-operating with one or more Category 1 responder; and
+- (b) must take the form of general Category 1 responders co-operating with the other Category 1 responders which have functions which are exercisable in that local resilience area in a single forum.
+
+(3) The form of co-operation referred to in paragraph (2)(b) is referred to in these Regulations as the “**strategic co-ordinating group**”.
+
+(4) As part of the strategic co-ordinating group, general Category 1 responders which have functions which are exercisable in a particular local resilience area in Scotland must make arrangements to hold a meeting with the other Category 1 responders which have functions which are exercisable in that local resilience area at least once every six months; each general Category 1 responder must, so far as reasonably practicable, attend such a meeting or be effectively represented at that meeting.
+
+(5) General Category 2 responders which have functions which are exercisable in a particular local resilience area in Scotland must co-operate with each Category 1 responder which has functions which are exercisable in that local resilience area in connection with the performance by that Category 1 responder of its duties under section 2(1).
+
+(6) A general Category 2 responder which has functions which are exercisable in a particular local resilience area in Scotland –
+
+- (a) must, so far as reasonably practicable, attend a meeting of the strategic co-ordinating group for that local resilience area or be effectively represented at that meeting if it is invited to do so by all of those Category 1 responders which have functions which are exercisable in that local resilience area; and
+- (b) in the case of any other meeting of that local resilience forum, must consider whether it is appropriate for it to attend the meeting or to be effectively represented at the meeting.
+
+(7) Paragraph (8) applies for the purposes of –
+
+- (a) enabling general Category 2 responders to comply with paragraph (6); and
+- (b) enabling Scottish Category 2 responders to comply with a provision in regulations made by the Scottish Ministers under Part 1 which imposes an obligation on Scottish Category 2 responders which is analogous to that imposed on general Category 2 responders under paragraph (6).
+
+(8) For the purposes specified in paragraph (7), general Category 1 responders which have functions which are exercisable in a particular local resilience area in Scotland must –
+
+- (a) keep each Category 2 responder which has functions which are exercisable in that local resilience area informed of –
+  - (i) when meetings of the strategic co-ordinating group are to take place;
+  - (ii) the location of such meetings;
+  - (iii) the matters which are likely to be discussed at such meetings;
+- (b) make arrangements for a Category 2 responder to attend any such meetings where the Category 2 responder wishes to do so; and
+- (c) consider whether a Category 2 responder should be invited to attend such a meeting.
+
+### 6. Co-operation – Northern Ireland
+
+(1) General Category 1 responders which have functions which are exercisable in Northern Ireland must co-operate with each other in connection with the performance of their duties under section 2(1).
+
+(2) General Category 2 responders which have functions which are exercisable in Northern Ireland must co-operate with each Category 1 responder which has functions which are exercisable in Northern Ireland in connection with the performance by that Category 1 responder of its duties under section 2(1).
+
+### 7. Protocols
+
+(1) In order to facilitate co-operation under regulation 4 or 6, general responders may enter into protocols with each other.
+
+(2) In order to facilitate co-operation under regulation 5 or under a provision in regulations made by the Scottish Ministers under Part 1 which imposes an analogous duty on Scottish Category 1 responders or Scottish Category 2 responders, general responders may enter into protocols with Scottish Category 1 responders.
+
+(3) Such protocols may in particular include provisions which relate to –
+
+- (a) the timing of co-operation;
+- (b) the form of co-operation;
+- (c) contact details for the individuals who are to be involved in the co-operation.
+
+(4)[^key-381a4440b273d84df2d75dd5e468c0d8] A protocol which facilitates co-operation under regulation 4 may in particular include provision relating to the performance of a general Category 2 responder’s duty under—
+
+- (a) regulation 4(2) (duty to co-operate);
+- (b) regulation 4(9) (duty to attend meetings of local resilience forums); and
+- (c) Part 8 (information).
+
+(5) Where a protocol entered into by a general Category 2 responder and all general Category 1 responders which have functions which are exercisable in respect of a particular local resilience area includes any of the provision set out in paragraph (4), the general Category 2 responder’s duties under regulation 4 or 49 as appropriate in respect of that local resilience area shall be varied to the extent specified in the protocol.
+
+### 8. Joint discharge of functions etc.
+
+Each general Category 1 responder may –
+
+- (a) perform a duty under section 2(1) jointly with another responder;
+- (b) make arrangements with another responder for that responder to perform such a duty on behalf of the general Category 1 responder.
+
+### 9. Identification of Category 1 responder with lead responsibility
+
+*Extent: E+W+S*
+
+(1) For the purposes of this regulation and regulations 10 and 11, a “**relevant civil protection duty**” means the duty under paragraph (a), (b), (c), (d), (e) or (f) of section 2(1) in relation to a particular emergency or an emergency of a particular kind.
+
+(2) Paragraph (3) applies if more than one Category 1 responder which has functions which are exercisable in a particular local resilience area is subject to the same relevant civil protection duty.
+
+(3) If this paragraph applies, a general Category 1 responder which is subject to the relevant civil protection duty may co-operate with another Category 1 responder which has functions which are exercisable in that particular local resilience area and which is subject to the same relevant civil protection duty for the purpose of identifying which of them will be the Category 1 responder with lead responsibility for performing that duty in relation in that local resilience area.
+
+(4) If, pursuant to paragraph (3) or an analogous provision in regulations made by the Scottish Ministers under Part 1, one of the Category 1 responders is identified as being the Category 1 responder with lead responsibility for performing a relevant civil protection duty in a particular local resilience area, the other Category 1 responders in that local resilience area which are subject to that duty are referred to in these Regulations as “**non-lead Category 1 responders**”.
+
+### 10. Role of Category 1 responder with lead responsibility
+
+*Extent: E+W+S*
+
+If, pursuant to regulation 9 or an analogous provision in regulations made by the Scottish Ministers under Part 1, a general Category 1 responder has been identified as the Category 1 responder with lead responsibility for performing a relevant civil protection duty in a particular local resilience area, that general Category 1 responder must –
+
+- (a) take the lead responsibility in performing that duty in that local resilience area;
+- (b) consult the Category 1 responders which –
+  - (i) have functions which are exercisable in that local resilience area, and
+  - (ii) are non-lead Category 1 responders in relation to that duty,
+
+  in the course of performing the duty;
+- (c) ensure that those non-lead Category 1 responders are kept informed of how the Category 1 responder with the lead responsibility is performing the duty;
+- (d) co-operate with those non-lead Category 1 responders (and in particular, co-operate for the purpose of ensuring so far as is reasonably practicable that those Category 1 responders approve of the way in which the Category 1 responder with lead responsibility is performing the duty).
+
+### 11. Role of Category 1 responders which do not have lead responsibility
+
+*Extent: E+W+S*
+
+(1) Paragraph (2) applies if a Category 1 responder has been identified as the responder with lead responsibility in a local resilience area for the performance of a relevant civil protection duty pursuant to regulation 9 or an analogous provision in regulations made by the Scottish Ministers under Part 1.
+
+(2) Where this paragraph applies, a general Category 1 responder which has functions which are exercisable in that local resilience area and which are non-lead Category 1 responders in relation to that duty –
+
+- (a) must co-operate with the Category 1 responder with lead responsibility for performing that duty in connection with the performance of that duty by the Category 1 responder with lead responsibility;
+- (b) must provide any information to the Category 1 responder with lead responsibility for performing that duty which it considers will assist that responder in performing that duty (unless the information is sensitive information);
+- (c) must assist the Category 1 responder with lead responsibility for performing that duty with any exercises or training that that Category 1 responder wishes to carry out in connection with that duty;
+- (d) need not perform that duty to the extent that to do so would unnecessarily duplicate the performance of that duty by the Category 1 responder which has lead responsibility for performing that duty in that local resilience area.
+
+### 12. Existing emergency planning duties
+
+General Category 1 responders need not perform a duty under section 2(1) in relation to an emergency which is –
+
+- (a) a major accident, within the meaning of regulation 2(1) of the Control of Major Accident Hazards Regulations 2015[^key-eced297951c1867625b6c648fd83d690], resulting from developments in the course of the operation of an establishment to which Part 2 of those Regulations applies;
+- (b) a major accident, within the meaning of regulation 2(1) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-f7ea8717d31cb172cd517f39eeee0c1c], resulting from developments in the course of the operation of an establishment to which Part 2 of those Regulations applies;
+- (c) a major accident, within the meaning of regulation 2(1) of the Pipelines Safety Regulations 1996 [^c12282431], involving a dangerous fluid (within the meaning of those Regulations) which is in, or has been conveyed in, a pipeline to which those Regulations apply;
+- (d) a major accident, within the meaning of regulation 2(1) of the Pipelines Safety Regulations (Northern Ireland) 1997 [^c12282441], involving a dangerous fluid (within the meaning of those Regulations) which is in, or has been conveyed in, a pipeline to which those Regulations apply;
+- (e) a radiation emergency, within the meaning of regulation 2 of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-f1e9a726b4d12f12f346197897d291ca], which results from work with ionising radiation (within the meaning of those Regulations) to which those Regulations apply; or
+- (f) a radiation emergency, within the meaning of regulation 2 of the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019[^key-24cb47acbdfa757c2392ee27619892dd], which results from work with ionising radiation (within the meaning of those Regulations) to which those Regulations apply.
+
+## PART 3 — Duty to assess risk of emergency occurring
+
+### 13. Kinds of emergency in relation to which risk should be assessed
+
+A general Category 1 responder need only perform the duty under section 2(1)(a) (duty to assess risk of emergency occurring) in relation to an emergency which affects or may affect the area in which the functions of the general Category 1 responder are exercisable.
+
+### 14. Guidance and assessments issued by Minister etc. as to likelihood and impact
+
+(1) A Minister of the Crown may issue to a general Category 1 responder guidance as to –
+
+- (a) the likelihood of a particular emergency or an emergency of a particular kind occurring; or
+- (b) the extent to which a particular emergency or an emergency of a particular kind would or might (if it occurred) cause damage to human welfare in a place in the United Kingdom, the environment of a place in the United Kingdom or the security of the United Kingdom.
+
+(2) A Minister of the Crown may issue to a general Category 1 responder an assessment of the matter specified in sub-paragraph (a) or (b) of paragraph (1).
+
+(3) A Minister of the Crown shall consult the Assembly before issuing to a general Category 1 responder which has functions which are exercisable in Wales guidance under paragraph (1) or an assessment under paragraph (2) which relates to the exercise of such functions in Wales.
+
+(4) The Assembly may, with the consent of a Minister of the Crown, issue to a general Category 1 responder which has functions which are exercisable in Wales guidance as to –
+
+- (a) the likelihood of a particular emergency or an emergency of a particular kind occurring; or
+- (b) the extent to which a particular emergency or an emergency of a particular kind would or might (if it occurred) cause damage to human welfare in a place in Wales, the environment of a place in Wales or the security of the United Kingdom.
+
+(5) The Assembly may, with the consent of the Minister of the Crown, issue to a general Category 1 responder which has functions which are exercisable in Wales an assessment of the matter specified in sub-paragraph (a) or (b) of paragraph (3).
+
+(6) The Office of the First Minister and Deputy First Minister may issue to a general Category 1 responder which has functions which are exercisable in Northern Ireland guidance as to –
+
+- (a) the likelihood of a particular emergency or an emergency of a particular kind occurring; or
+- (b) the extent to which a particular emergency or an emergency or a particular kind would or might (if it occurred) cause damage to human welfare in a place in Northern Ireland, the environment of a place in Northern Ireland or the security of the United Kingdom.
+
+(7) The Office of the First Minister and Deputy First Minister may issue to a general Category 1 responder which has functions which are exercisable in Northern Ireland an assessment of the matter specified in sub-paragraph (a) or (b) of paragraph (5).
+
+(8) The Scottish Ministers may issue to a general Category 1 responder which has functions which are exercisable in Scotland guidance as to –
+
+- (a) the likelihood of a particular emergency or an emergency of a particular kind occurring; or
+- (b) the extent to which a particular emergency or an emergency or a particular kind would or might (if it occurred) cause damage to human welfare in a place in the Scotland, the environment of a place in Scotland or the security of the United Kingdom.
+
+(9) The Scottish Ministers may issue to a general Category 1 responder which has functions which are exercisable in Scotland an assessment of the matter specified in sub-paragraph (a) or (b) of paragraph (7).
+
+(10) In performing its duty under section 2(1)(a), a general Category 1 responder must –
+
+- (a) take into account any guidance issued to it under paragraph (1), (4), (6) or (8); and
+- (b) adopt any assessment issued to it under paragraph (2), (5), (7) or (9).
+
+(11) Any guidance issued under paragraph (1), (4), (6) or (8) or assessment issued under paragraph (2), (5), (7) or (9) must be in writing.
+
+### 15. Community risk register – England and Wales
+
+*Extent: E+W+S*
+
+(1) As part of the local resilience forum, general Category 1 responders which have functions which are exercisable in a particular local resilience area in England or Wales must co-operate with each other in maintaining a register (“**the community risk register**”) of the assessments carried out by each general Category 1 responder under section 2(1)(a).
+
+(2) For the purpose of complying with paragraph (1), each general Category 1 responder must, subject to paragraph (3), from time to time inform the other general Category 1 responders which have functions which are exercisable in that local resilience area of the assessment carried out by it under section 2(1)(a).
+
+(3) Paragraph (2) does not apply to the extent that an assessment carried out by a general Category 1 responder contains sensitive information and the general Category 1 responder has reasonable grounds to believe that informing the other general Category 1 responders of the assessment would –
+
+- (a) in the case of sensitive information of the kind specified by paragraph (1)(a) of regulation 45, adversely affect national security;
+- (b) in the case of sensitive information of the kind specified by paragraph (1)(b), (c) or (d) of regulation 45, adversely affect the confidentiality of the information.
+
+(4) In performing its duties under section 2(1)(a) and (b), a general Category 1 responder must have regard to any relevant community risk register maintained under this regulation.
+
+### 16. Sharing of community risk register – England and Wales
+
+*Extent: E+W+S*
+
+(1) A general Category 1 responder which has functions which are exercisable in a particular local resilience area in England or Wales must from time to time provide the Category 1 responders which have functions which are exercisable in any neighbouring local resilience area with a copy of the community risk register which it maintains for that local resilience area under paragraph (1) of regulation 15.
+
+(2) For the purposes of paragraph (2), a local resilience area neighbours another local resilience area if any part of first local resilience area adjoins the second local resilience area.
+
+(3) A general Category 1 responder which has functions which are exercisable in a local resilience area in Wales must from time to time provide the Assembly with a copy of the community risk register which it maintains for that local resilience area under paragraph (1) of regulation 15.
+
+(4) A general Category 1 responder which has functions which are exercisable in a local resilience area in England must from time to time provide a Minister of the Crown[^key-ac5d14b4142fa652d4bab5b098296c5d] with a copy of the community risk register which it maintains for that local resilience area under paragraph (1) of regulation 15.
+
+### 17. Community risk register – Scotland
+
+*Extent: E+W+S*
+
+(1) As part of the strategic co-ordinating group, general Category 1 responders which have functions which are exercisable in a particular local resilience area in Scotland must co-operate with the other Category 1 responders which have functions which are exercisable in that local resilience area in maintaining a register (“**the community risk register**”) of the assessments carried out by each Category 1 responder under section 2(1)(a).
+
+(2) For the purpose of complying with paragraph (1), each general Category 1 responder must, subject to paragraph (3), from time to time inform the other Category 1 responders which have functions which are exercisable in that local resilience area of the assessments carried out by it under section 2(1)(a).
+
+(3) Paragraph (2) does not apply to the extent that an assessment carried out by a general Category 1 responder contains sensitive information and the general Category 1 responder has reasonable grounds to believe that informing the other Category 1 responders of the assessment would –
+
+- (a) in the case of sensitive information of the kind specified by paragraph (1)(a) of regulation 45, adversely affect national security;
+- (b) in the case of sensitive information of the kind specified by paragraph (1)(b), (c) or (d) of regulation 45, adversely affect the confidentiality of the information.
+
+(4) In performing its duties under section 2(1)(a) and (b), a general Category 1 responder which has functions which are exercisable in Scotland must have regard to any relevant community risk register maintained under this regulation.
+
+### 18. Provision of information relating to assessment of risk to other responders
+
+A general Category 1 responder must consider whether it is appropriate to provide information about the risk of a particular emergency or an emergency of a particular kind occurring to a Category 1 responder which –
+
+- (a) is likely to be seriously obstructed in the performance of its functions if that emergency or an emergency of that particular kind occurred; or
+- (b) is likely to consider it necessary or desirable to take action to –
+  - (i) prevent that emergency or an emergency of that particular kind;
+  - (ii) reduce, control or mitigate the effects of that emergency or an emergency of that particular kind; or
+  - (iii) otherwise take action in connection with that emergency or an emergency of that particular kind,
+
+  and would be unable to take that action without changing the deployment of resources or acquiring additional resources.
+
+## PART 4 — Duty to maintain plans
+
+### 19. Risk assessment
+
+In performing its duty under section 2(1)(c) or (d) (duty to maintain business continuity plans and emergency plans), a general Category 1 responder must have regard to any relevant assessment which it has carried out under section 2(1)(a) or (b).
+
+### 20. Arrangements to warn, inform and advise the public
+
+In performing its duty under section 2(1)(d), a general Category 1 responder must have regard to any relevant arrangements which it maintains under section 2(1)(g) (arrangements to warn the public, and to provide information and advice to the public, if an emergency is likely to occur or has occurred).
+
+### 21. Generic and specific plans
+
+In performing its duty under section 2(1)(c) or (d), a general Category 1 responder –
+
+- (a) may maintain plans which relate to a particular emergency or an emergency of a particular kind; and
+- (b) may maintain plans which relate to more than one emergency or more than one kind of emergency.
+
+### 22. Multi-agency emergency plans
+
+(1) Paragraph (2) applies to a general Category 1 responder if it has a duty under section 2(1)(d) in relation to a particular emergency or an emergency of a particular kind, and another Category 1 responder has –
+
+- (a) a duty under section 2(1)(d) in relation to that emergency or an emergency of that kind; and
+- (b) functions which are exercisable in a local resilience area in which the functions of the general Category 1 responder are exercisable.
+
+(2) Where this paragraph applies, the general Category 1 responder must consider whether it would be appropriate to perform the duty under section 2(1)(d) in relation to that emergency or an emergency of that kind by collaborating with that other Category 1 responder in maintaining a multi-agency plan.
+
+(3) In paragraph (2), a “**multi-agency plan**” means a plan maintained by more than one Category 1 responder acting jointly.
+
+### 23. Voluntary organisations
+
+(1) In performing its duty under section 2(1)(c) or (d), a general Category 1 responder must have regard to the activities of voluntary organisations which carry on activities –
+
+- (a) in the area in which the functions of that general Category 1 responder are exercisable; and
+- (b) which are relevant in an emergency.
+
+(2) For the purposes of paragraph (1), a voluntary organisation carries on activities which are relevant in an emergency if it carries on activities for the purpose of –
+
+- (a) preventing an emergency;
+- (b) reducing, controlling or mitigating the effects of an emergency; or
+- (c) taking other action in connection with an emergency.
+
+(3) For the purposes of paragraph (2), it is immaterial if the voluntary organisation also carries on activities for other purposes.
+
+### 24. Procedure for determining whether an emergency has occurred
+
+(1) Every plan maintained by a general Category 1 responder under section 2(1)(c) must include a procedure for determining whether an emergency which is likely seriously to obstruct the general Category 1 responder in the performance of its functions has occurred.
+
+(2) Any plan maintained by a general Category 1 responder under section 2(1)(d) must include a procedure for determining whether –
+
+- (a) an emergency which makes it necessary or desirable for it to take action to prevent the emergency, to reduce, control or mitigate its effects or otherwise in connection with it has occurred; and
+- (b) whether the general Category 1 responder would be able to take that action without changing the deployment of resources or acquiring additional resources.
+
+(3) The procedure under paragraph (1) or (2) must –
+
+- (a) identify the person who should determine whether an emergency of the kind specified in paragraph (1) or (2) (as appropriate) has occurred or enable that person to be identified;
+- (b) specify the procedure which that person should adopt in taking that decision;
+- (c) specify the persons who should be consulted before such a decision is taken;
+- (d) specify the persons who should be informed once such a decision is taken.
+
+### 25. Training and exercises
+
+Every plan maintained by a general Category 1 responder under section 2(1)(c) or (d) must include provision for –
+
+- (a) the carrying out of exercises for the purpose of ensuring that the plan is effective;
+- (b) the provision of training of –
+  - (i) an appropriate number of suitable staff of the general Category 1 responder; and
+  - (ii) such other persons as that general Category 1 responder considers appropriate,
+
+  for the purposes of ensuring that the plan is effective.
+
+### 26. Plan revision
+
+If a Minister of the Crown, the Assembly, the Office of the First Minister and the Deputy First Minister or the Scottish Ministers issues guidance or an assessment under regulation 14 to a general Category 1 responder, that general Category 1 responder must consider whether that guidance or assessment makes it necessary or expedient to add to or to modify plans maintained under section 2(1)(c) or (d).
+
+## PART 5 — Publication of plans and assessments
+
+### 27. Alarming the public unnecessarily
+
+In performing its duty under section 2(1)(f) (duty to arrange for the publication of assessments and plans), a general Category 1 responder must have regard to the importance of not alarming the public unnecessarily.
+
+## PART 6 — Arrangements for warning and provision of information and advice to the public
+
+### 28. Duty to have regard to emergency plans
+
+In performing its duty under section 2(1)(g) (duty to maintain arrangements to warn, inform and advise the public if an emergency occurs or is likely to occur), a general Category 1 responder must have regard to any relevant plan which it maintains under section 2(1)(d).
+
+### 29. Generic and specific arrangements to warn etc.
+
+In performing its duty under section 2(1)(g), a general Category 1 responder –
+
+- (a) may maintain arrangements which relate to a particular emergency or an emergency of a particular kind;
+- (b) may maintain arrangements which relate to more than one emergency or more than one kind of emergency.
+
+### 30. Alarming the public unnecessarily
+
+In performing its duty under section 2(1)(g), a general Category 1 responder must have regard to the importance of not alarming the public unnecessarily.
+
+### 31. Training and exercises
+
+The arrangements maintained by a general Category 1 responder under section 2(1)(g) must include provision for –
+
+- (a) the carrying out of exercises for the purpose of ensuring that the arrangements are effective; and
+- (b) the provision of training of –
+  - (i) an appropriate number of suitable staff of the general Category 1 responder; and
+  - (ii) such other persons as that general Category 1 responder considers appropriate;
+
+  for the purpose of ensuring that the arrangements are effective.
+
+### 32. Identification of Category 1 responder with lead responsibility for warning, informing and advising
+
+*Extent: E+W+S*
+
+(1) Paragraph (2) applies if more than one Category 1 responder which has functions which are exercisable in a particular local resilience area is subject to a duty under section 2(1)(g) in relation to a particular emergency or an emergency of a particular kind.
+
+(2) If this paragraph applies, each general Category 1 responder which has functions which are exercisable in that local resilience area and which is subject to that duty must co-operate with the other Category 1 responders which have functions which are exercisable in that local resilience area and which are subject to that duty for the purpose of identifying which of them will be the Category 1 responder with lead responsibility for warning the public and for providing information and advice to the public if the emergency to which that duty relates, or an emergency of the kind to which that duty relates, is likely to occur or has occurred.
+
+(3) In performing their duty under paragraph (2), general Category 1 responders –
+
+- (a) may identify a particular Category 1 responder as the Category 1 responder with lead responsibility for warning the public and providing information and advice to the public in relation to a particular emergency or an emergency of a particular kind before that emergency or an emergency of that kind is likely to occur or has occurred;
+- (b) may adopt a procedure by virtue of which the Category 1 responder with lead responsibility for warning the public and providing information and advice to the public may be identified when a particular emergency or an emergency of a particular kind is likely to occur or has occurred; and
+- (c) may adopt a procedure by virtue of which the identity of the Category 1 responder with lead responsibility for warning the public and providing information and advice to the public (whether identified by virtue of arrangements of the kind specified in sub-paragraph (a) or (b)) may be changed when an emergency is likely to occur or has occurred.
+
+### 33. Arrangements to be maintained by general Category 1 responder with lead responsibility
+
+*Extent: E+W+S*
+
+(1) Paragraph (2) applies to a general Category 1 responder which –
+
+- (a) has been, pursuant to regulation 32 or an analogous provision in regulations made by the Scottish Ministers under Part 1, identified as the Category 1 responder with lead responsibility for warning the public and providing advice and information in a particular local resilience area if a particular emergency or an emergency of a particular kind is likely to occur or has occurred; or
+- (b) is likely to be identified as the Category 1 responder with lead responsibility for that activity by virtue of procedures adopted pursuant to regulation 32(2)(b) or (c) or an analogous provision in regulations made by the Scottish Ministers under Part 1.
+
+(2) A general Category 1 responder to which this paragraph applies must ensure so far as reasonably practicable that the arrangements maintained under section 2(1)(g) in relation to a particular emergency or an emergency of a particular kind in relation to which it has the lead responsibility for warning the public and providing advice and information ensure that –
+
+- (a) it is able to contact the other Category 1 responders which have functions which are exercisable in that local resilience area and which are subject to a duty under section 2(1)(g) in relation to that emergency or an emergency of that particular kind;
+- (b) it informs those Category 1 responders of the actions it is taking, and action that it proposes to take, to warn the public and to provide information and advice to the public;
+- (c) it is able to collaborate with those Category 1 responders in warning the public and providing information and advice to the public.
+
+### 34. Arrangements to be maintained by other general Category 1 responders
+
+*Extent: E+W+S*
+
+The arrangements maintained by a general Category 1 responder under section 2(1)(g) in relation to a particular emergency or an emergency of a particular kind in relation to which it is not the Category 1 responder with lead responsibility for warning the public and providing advice and information must provide for that general Category 1 responder –
+
+- (a) to consult the Category 1 responder with lead responsibility for warning the public and providing advice and information to the public in that local resilience area in relation to that emergency or an emergency of that particular kind on a regular basis;
+- (b) to inform the Category 1 responder referred to in paragraph (a) of the actions that it is taking and action that it proposes to take to warn the public, and to provide information and advice to the public.
+
+### 35. Advice etc. provided by other responders and other bodies
+
+(1) In performing its duty under section 2(1)(g), general Category 1 responders –
+
+- (a) must have regard to the arrangements maintained by each of the following persons to warn the public, and to provide information and advice to the public, if an emergency is likely to occur or has occurred –
+  - (i) other Category 1 responders;
+  - (ii) Category 2 responders;
+  - (iii) the Meteorological Office;
+  - (iv) the Secretary of State;
+  - (v) the Food Standards Agency; and
+- (b) need not maintain arrangements to warn the public, and to provide information and advice to the public, which would unnecessarily duplicate the information, warning and advice which is likely to be provided by those persons under those arrangements.
+
+(2) For the purposes of paragraph (1), it is immaterial whether the person specified in paragraph (1)(a) maintains arrangements to warn the public, and to provide information and advice to the public, if an emergency is likely to occur or has occurred by virtue of section 2(1)(g), a duty under another enactment or otherwise.
+
+## PART 7 — Advice and assistance to business and voluntary organisations
+
+*Extent: E+W+S*
+
+### 36. Interpretation of Part 7[^key-b3329f3379c74d6538fca3d942760daf]
+
+In this Part of the Regulations –
+
+- (a) “**relevant responder**” means a body which is listed in paragraph 1 or 2 of Schedule 1 (local authority in England or Wales);
+- (b) “**advice and assistance to business**” means advice and assistance to the public in connection with the making of arrangements for the continuance of the commercial activities by the public in the event of an emergency; and any reference to “**a business**” means a member of the public who carries on commercial activities;
+- (c) “**advice and assistance to voluntary organisations**” means advice and assistance to voluntary organisations in connection with the making of arrangements by voluntary organisations for the continuance of their activities in the event of an emergency.
+
+### 37. Transitional provision
+
+Until 15<sup>th</sup> May 2006, these Regulations shall have effect as if –
+
+- (a) each reference to performing a duty under section 4(1) were a reference to exercising a power under section 4(1);
+- (b) each reference to the duty under section 4(1) were a reference to the power under section 4(1);
+- (c) in regulation 39(3)(a), for “must” there were substituted “ may ”.
+
+### 38. Risk assessment
+
+In performing its duty under section 4(1) (duty to give advice and assistance to business and voluntary organisations), a relevant responder must take into account any relevant community risk register maintained by virtue of regulation 15.
+
+### 39. Extent of the duty under section 4(1) in relation to business
+
+(1) This regulation applies to the duty of a relevant responder under section 4(1) in so far as it relates to advice and assistance to business.
+
+(2) A relevant responder need only give advice and assistance to those businesses which carry on commercial activities in the area in which the functions of the relevant responder are exercisable.
+
+(3) In the course of performing that duty, a relevant responder –
+
+- (a) must, subject to paragraph (2), provide advice and assistance to businesses at large;
+- (b) may provide advice and assistance to an individual business; and
+- (c) may provide advice and assistance to businesses in connection with –
+  - (i) identifying a business continuity consultant who provides advice and assistance to business in the area in which the functions of the relevant responder are exercisable; and
+  - (ii) obtaining advice and assistance from such a business continuity consultant.
+
+(4) In paragraph (3), “**business continuity consultant**” means a person who –
+
+- (a) is competent to provide advice and assistance to business; and
+- (b) has experience of so doing.
+
+### 40. Extent of the duty under section 4(1) in relation to voluntary organisations
+
+(1) This regulation applies to the duty of a relevant responder under section 4(1) in so far as it relates to advice and assistance to voluntary organisations.
+
+(2) A relevant responder need only provide advice and assistance to those voluntary organisations which it considers appropriate.
+
+(3) A relevant responder may determine the manner in which such advice and assistance is provided, and may in particular –
+
+- (a) provide advice and assistance to voluntary organisations at large;
+- (b) provide advice and assistance to an individual voluntary organisation; and
+- (c) provide advice and assistance to voluntary organisations in connection with –
+  - (i) identifying a business continuity consultant who provides advice and assistance to voluntary organisations in the area in which the functions of the relevant responder are exercisable; and
+  - (ii) obtaining advice and assistance from such a business continuity consultant.
+
+(4) In paragraph (3), “**business continuity consultant**” means a person who –
+
+- (a) is competent to provide advice and assistance to voluntary organisations; and
+- (b) has experience of so doing.
+
+(5) In determining whether a voluntary organisation is appropriate for the purposes of paragraph (2), a relevant responder must consider –
+
+- (a) whether the organisation carries on activities in the area in which the functions of the relevant responder are exercisable;
+- (b) the nature and extent of activities carried on by the organisation, and in particular the extent to which the organisation carries on activities which contribute to –
+  - (i) the prevention of an emergency occurring;
+  - (ii) the reduction, control or mitigation of the effects of an emergency;
+  - (iii) otherwise taking action in connection with an emergency;
+  - (iv) social welfare;
+- (c) the number of staff employed by the organisation;
+- (d) the turnover of the organisation;
+- (e) the nature of the organisation, and in particular whether the nature of the organisation is such that the advice and assistance provided by the relevant responder is likely to improve the ability of the organisation to continue to carry on its activities in the event of an emergency.
+
+### 41. Co-operation, relevant responder with lead responsibility etc.
+
+(1) Relevant responders which have functions which are exercisable in a particular local resilience area must co-operate with each other in connection with the performance of their duty under section 4(1).
+
+(2) General responders (other than relevant responders) which have functions which are exercisable in a particular local resilience area must co-operate with each relevant responder which has functions which are exercisable in that local resilience area in connection with the performance by that relevant responder of its duty under section 4(1).
+
+(3) A relevant responder may –
+
+- (a) perform its duty under section 4(1) jointly with another responder;
+- (b) make arrangements with another responder for that responder to perform such a duty on behalf of the relevant responder.
+
+(4) Regulations 9, 10 and 11 apply to relevant responders for the purpose of performing the duty under section 4(1) as if –
+
+- (a) each reference to a Category 1 responder or a general Category 1 responder were a reference to a relevant responder;
+- (b) each reference to a relevant civil protection duty were a reference to the duty under section 4(1) in relation to an emergency or an emergency of a particular kind.
+
+### 42. Co-operation with Scottish Category 1 responders
+
+General responders may co-operate with a Scottish Category 1 responder in connection with the performance by that Scottish Category 1 responder of the duty under section 4(1).
+
+### 43. Activities of other responders
+
+(1) In performing its duty under section 4(1), a relevant responder –
+
+- (a) must have regard to any advice and assistance to business or advice and assistance to voluntary organisations provided by other responders which have functions which are exercisable in the area in which the functions of the relevant responder are exercisable; and
+- (b) need not perform that duty to the extent that to do so would unnecessarily duplicate that advice and assistance.
+
+(2) For the purposes of paragraph (1), it is immaterial whether the advice and assistance provided by another responder is provided by virtue of section 4(1), a duty under another enactment or otherwise.
+
+### 44. Charging
+
+Relevant responders may make a charge for advice or assistance provided on request under section 4(1) (including advice and assistance which it is required to provide under regulation 39(3)(a)) but that charge must not exceed the aggregate of –
+
+- (a) the direct costs of providing the advice or assistance; and
+- (b) a reasonable share of any costs indirectly related to the provision of the advice or assistance.
+
+## PART 8 — Information
+
+**44A.**[^key-19d25a3384c188b7c1003b97169d0475] (1) Subject to regulations 45 to 53, general responders may disclose information on request to another general responder in connection with the performance by either of a function under the Act which relates to emergencies.
+
+(2) In relation to the Chief Constable of the Police Service of Northern Ireland, “emergencies” means an emergency falling within section 1(1)(c).
+
+### 45. Sensitive information
+
+(1) In these Regulations, “**sensitive information**” means information which is –
+
+- (a) information the disclosure of which to the public would, or would be likely to, adversely affect national security;
+- (b) information the disclosure of which to the public would, or would be likely to, adversely affect public safety;
+- (c) information disclosure of which to the public would, or would be likely to, prejudice the commercial interests of any person; or
+- (d) information which is personal data [^key-2b645a800d4999bb0c897a09305a6aae]... if the condition in paragraph (1A), (1B) or (1C)[^key-ebd764ef2621c787f070c97516090371] is satisfied.
+
+(1A)[^key-f17f360e3db0b90eed1a78bebe6b0b9f] The condition in this paragraph is that the disclosure of the information to a member of the public—
+
+- (a) would contravene any of the data protection principles, or
+- (b) would do so if the exemptions in section 24(1) of the Data Protection Act 2018 (manual unstructured data held by public authorities) were disregarded.
+
+(1B) The condition in this paragraph is that the disclosure of the information to a member of the public would contravene—
+
+- (a) Article 21 of the UK GDPR[^key-2fadf12ee03b185888c69b3ba8f3798a] (general processing: right to object to processing), or
+- (b) section 99 of the Data Protection Act 2018 (intelligence services processing: right to object to processing).
+
+(1C) The condition in this paragraph is that—
+
+- (a) on a request under Article 15(1) of the UK GDPR[^key-bf37b93b16da470153bcc34b6537549a] (general processing: right of access by the data subject) for access to personal data, the information would be withheld in reliance on provision made by or under section 15, 16 or 26 of, or Schedule 2, 3 or 4 to, the Data Protection Act 2018,
+- (b) on a request under section 45(1)(b) of that Act (law enforcement processing: right of access by the data subject), the information would be withheld in reliance on subsection (4) of that section, or
+- (c) on a request under section 94(1)(b) of that Act (intelligence services processing: rights of access by the data subject), the information would be withheld in reliance on a provision of Chapter 6 of Part 4 of that Act.
+
+(1D) In this regulation—
+
+- “**the data protection principles**” means the principles set out in—
+  - (a) Article 5(1) of the UK GDPR[^key-ff2d8b9c87920c2b34b9d017a7139ccc] ,
+  - (b) section 34(1) of the Data Protection Act 2018, and
+  - (c) section 85(1) of that Act;
+- [^key-577e959f48214b05fb3d0ff84b040852]...
+- “**personal data**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act).
+- “[^key-5ebc7a8add6b278593aedd815658fccb]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
+
+(1E) In determining for the purposes of this regulation whether the lawfulness principle in Article 5(1)(a) of the UK GDPR[^key-742b73ee12ebce06074477d43449ef21] would be contravened by the disclosure of information, Article 6(1) of the UK GDPR (lawfulness) is to be read as if the second sub-paragraph (disapplying the legitimate interests gateways[^key-6a1f2a9431381e6d9803b1a790e5b421] in relation to public authorities) disapplied only the gateway in point (ea) (recognised legitimate interests)[^key-9265d00f11586867f546dbfaa37174d0].
+
+(2)[^key-877d0f53924f9604def239d41f49b196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-877d0f53924f9604def239d41f49b196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-877d0f53924f9604def239d41f49b196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 46. Sensitive information – certificates in relation to national security
+
+(1) A certificate signed by a Minister of the Crown certifying that disclosure of information to the public would, or would be likely to, adversely affect national security is conclusive evidence of that fact.
+
+(2) A certificate under paragraph (1) may identify the information to which it applies by means of a general description and may be expressed to have prospective effect.
+
+(3) A document purporting to be a certificate under paragraph (1) shall be received in evidence and deemed to be such a certificate unless the contrary is proved.
+
+(4) A document which purports to be certified by or on behalf of a Minister of the Crown as a true copy of a certificate issued by that Minister under paragraph (1) shall in any legal proceedings be evidence (or in Scotland, sufficient evidence) of that certificate.
+
+(5) The power conferred by paragraph (1) on a Minister of the Crown shall not be exercisable except by a Minister who is a member of the Cabinet or by the Attorney General, the Advocate General for Scotland or the Attorney General for Northern Ireland.
+
+### 47. Information sharing – making a request for information
+
+(1) Paragraph (4) applies to a Category 1 responder or a Category 2 responder (referred to in this Part of the Regulations as the “requesting responder”) to the extent that it is satisfied that the conditions in paragraphs (2) and (3) are satisfied.
+
+(2) The condition in this paragraph is that the requesting responder reasonably requires information which is held by a general Category 1 responder or a general Category 2 responder –
+
+- (a) in connection with the performance of a duty under section 2(1)(a) to (d) or section 4(1); or
+- (b) in connection with the performance of another function which relates to an emergency.
+
+(3) The condition in this paragraph is that the requesting responder is satisfied that **–**
+
+- (a) the information is not held by the requesting responder; and
+- (b) it is not reasonable to seek to obtain the information by other means ; and[^key-618dd5b4c46280fb05e98359df369edb]
+- (c) the general Category 1 responder or general Category 2 responder which holds the information will not provide or is unable to provide the information without a request under this Regulation.
+
+(4) To the extent that this paragraph applies, the requesting responder may make a request for the information to a general Category 1 responder or a general Category 2 responder (referred to in this Part of the Regulations as “the receiving responder”).
+
+### 48. Information sharing – procedure for making a request
+
+(1) In this Part of the Regulations, a reference to a “**request for information**” is a reference to such a request which –
+
+- (a) is in writing;
+- (b) states the name of the requesting responder and an address for correspondence;
+- (c) describes the information requested; and
+- (d) states the reason why the requesting responder requires the information in connection with the performance of a duty under section 2(1)(a) to (d) or section 4(1) or in connection with the performance of another function which relates to an emergency (as the case may be).
+
+(2) For the purposes of paragraph (1), a request is to be treated as made in writing where the text of the request –
+
+- (a) is transmitted by electronic means;
+- (b) is received in legible form; and
+- (c) is capable of being used for subsequent reference.
+
+### 49. Information sharing – obligation to provide information
+
+(1) Subject to paragraphs (2) and (4), the receiving responder must comply with a request for information.
+
+(2) To the extent that the receiving responder is satisfied that –
+
+- (a) the request for information relates to sensitive information of the kind specified by paragraph (1)(a) of regulation 45 and disclosure to the requesting responder would, or would be likely to, adversely affect national security;
+- (b) the request for information relates to sensitive information of the kind specified by paragraph (1)(b), (c) or (d) of regulation 45 and disclosure to the requesting responder would, or would be likely to, adversely affect the confidentiality of the information,
+
+the receiving responder must not comply with the request for information.
+
+(3) If a receiving responder refuses to comply with a request in the circumstances specified in paragraph (2)(b), it must give reasons.
+
+(4) To the extent that the receiving responder is satisfied that a request for information relates to sensitive information which has been directly or indirectly supplied to the receiving responder by a body which deals with security matters, the receiving responder must not comply with the request unless that body has given its consent to the provision of the information to the requesting responder; such consent may contain conditions.
+
+### 50. Information sharing – response to request
+
+The receiving responder must respond to the request for information –
+
+- (a) before the end of such reasonable period as may be specified by the requesting responder; and
+- (b) at such place as may be reasonably specified by that responder.
+
+### 51. Disclosure or publication of sensitive information
+
+(1) Except where required to do so under another provision of these Regulations, a general responder must not publish or disclose to any person sensitive information which –
+
+- (a) it has received under or by virtue of a provision of these Regulations; or
+- (b) it has received under or by virtue of a provision in regulations made by the Scottish Ministers under Part 1,
+
+unless paragraph (2) or (6) applies.
+
+(2) This paragraph applies, subject to paragraph (3), if consent for the publication or disclosure has been given by –
+
+- (a) in relation to sensitive information of the kind specified by paragraph (1)(a) or (b) of regulation 45 the originator of the information or (if different) a Minister of the Crown;
+- (b) in relation to sensitive information of the kind specified by paragraph (1)(c) or (d) of regulation 45, the person to whom the information relates.
+
+(3) Paragraph (2) does not apply to information of the kind specified by paragraph (1)(a) of regulation 45 if a Minister of the Crown has issued a certificate in writing indicating that publication or disclosure of the information would adversely affect national security.
+
+(4) Consent under paragraph (2) may –
+
+- (a) identify the information to which it applies by means of a general description;
+- (b) be expressed to have prospective effect;
+- (c) may include conditions.
+
+(5) In paragraph (2), “**originator of the information**” means –
+
+- (a) if the information has been directly or indirectly supplied to the responder by a body which deals with security matters, that body;
+- (b) if sub-paragraph (a) does not apply, the information takes the form of a document and that document has been created by a public authority, that public authority;
+- (c) otherwise, the person who supplied the information to the responder.
+
+(6) This paragraph applies if –
+
+- (a) the information is sensitive information of the kind specified by paragraph (1)(c) or (d) of regulation 45;
+- (b) the information is not sensitive information of the kind specified by paragraph (1)(a) or (b) of regulation 45;
+- (c) the responder is satisfied that the public interest in publishing or disclosing the information outweighs the legitimate interests of the person to whom that information relates; and
+- (d) the responder has informed the person to whom the sensitive information relates of its intention to publish or disclose the information and its reasons for being satisfied of the matter specified in sub-paragraph (c).
+
+### 52. Use of sensitive information
+
+(1) Subject to paragraph (2), sensitive information which a general responder has received –
+
+- (a) under or by virtue of a provision of these Regulations;
+- (b) under or by virtue of a provision in regulations made by the Scottish Ministers under Part 1,
+
+may only be used by that responder for the purpose of performing the function for which, or in connection with which, the information was requested.
+
+(2) Sensitive information may be used for purposes other than those specified in paragraph (1) or (2) if consent for such use is given by –
+
+- (a) in relation to sensitive information of the kind specified by paragraph (1)(a) or (b) of regulation 45, the originator or (if different) a Minister of the Crown;
+- (b) in relation to sensitive information of the kind specified by paragraph (1)(c) or (d) of regulation 45, the person to whom the information relates.
+
+(3) Consent under paragraph (2) may –
+
+- (a) identify the information to which it applies by means of a general description;
+- (b) be expressed to have prospective effect;
+- (c) may include conditions.
+
+(4) In paragraph (2), “**originator of the information**” means –
+
+- (a) if the information has been directly or indirectly supplied to the responder by a body which deals with security matters, that body;
+- (b) if sub-paragraph (a) does not apply, the information takes the form of a document and that document has been created by a public authority, that public authority;
+- (c) otherwise, the person who supplied the information to the responder.
+
+(5) In this regulation, “**use**” does not include publication or disclosure.
+
+### 53. Security of sensitive information
+
+(1) This regulation applies to sensitive information –
+
+- (a) received by a general responder under or by virtue of a provision of these Regulations;
+- (b) received under or by virtue of a provision in regulations made by the Scottish Ministers under Part 1; or
+- (c) has been created by a general responder in discharging its duties under the Act or these Regulations.
+
+(2) Each general responder must have in place arrangements for ensuring that the confidentiality of sensitive information to which this regulation applies is not adversely affected.
+
+(3) The arrangements specified by paragraph (2) must include arrangements for ensuring that –
+
+- (a) sensitive information is clearly identifiable as such;
+- (b) only those persons who –
+  - (i) are involved in the performance of a duty under section 2 or 4 or other function which relates to an emergency, and
+  - (ii) as a result, need to have access to sensitive information,
+
+  have access to sensitive information;
+- (c) sensitive information is stored in a secure manner;
+- (d) sensitive information is transferred (including transferral by electronic means) in a secure manner.
+
+### 54. Health and Safety at Work etc Act 1974
+
+(1) Sections 28(2) and (7) of the Health and Safety at Work etc Act 1974 [^c12282501] (restrictions on disclosure of information) do not apply to the disclosure of information by the Health and Safety Executive to another responder if the disclosure is made –
+
+- (a) in connection with the performance by that other responder of a duty under –
+  - (i) section 2 or 4;
+  - (ii) a provision of these Regulations; or
+  - (iii) a provision in regulations made by the Scottish Ministers under Part 1;
+- (b) in connection with another function of that responder which relates to emergencies; or
+- (c) in connection with a function of the Health and Safety Executive which relates to emergencies.
+
+(2) For the purposes of paragraph (1), it is immaterial whether the disclosure is made pursuant to a request made under regulation 47.
+
+(3) In paragraph (1), the reference to the H[^key-ec7e6d87960a9b2281d678e7978a2839]ealth and Safety Executive includes a reference to an officer of the Executive.
+
+### 54A. Energy Act 2013
+
+(1) Paragraph 2 of Schedule 9 to the Energy Act 2013 (prohibition on disclosing protected information*)* does not apply to the disclosure of information by the Office for Nuclear Regulation to another responder if the disclosure is made—
+
+- (a) in connection with the performance by that other responder of a duty under—
+  - (i) section 2 or 4;
+  - (ii) a provision of these Regulations; or
+  - (iii) a provision in regulations made by the Scottish Ministers under Part 1;
+- (b) in connection with another function of that responder which relates to emergencies; or
+- (c) in connection with a function of the Office for Nuclear Regulation which relates to emergencies.
+
+(2) For the purposes of paragraph (1), it is immaterial whether the disclosure is made pursuant to a request made under regulation 47.
+
+(3) In paragraph (1), the reference to the Office for Nuclear Regulation includes a reference to an officer of the Office.
+
+## PART 9 — London
+
+### 55. Role of the London Fire Commissioner[^key-8f2dc8ea4817f0d3110010f0aa69098b]
+
+(1) In London, it shall be the function of the London Fire Commissioner[^key-e60b71217b5eb4d6f500cc4fd46cc0db] to –
+
+- (a)[^key-893796194a196a51385f5ee9b2702cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) on behalf of all relevant Category 1 responders which have functions which are exercisable in London, take the lead responsibility for performing the duty under section 2(1)(d) (duty to maintain emergency plans) in relation to pan-London emergencies;
+- (c) at the request of a relevant Category 1 responder which has functions which are exercisable in London, assist that responder in –
+  - (i) carrying out exercises for the purpose of ensuring that a plan maintained by that relevant Category 1 responder by virtue of section 2(1)(c) or (d) in relation to a pan-London emergency is effective;
+  - (ii) the provision of training of staff of that Category 1 responder or other persons for the purposes of ensuring that a plan maintained by that relevant Category 1 responder by virtue of section 2(1)(c) or (d) is effective.
+
+(2) In this regulation –
+
+- (a) “**pan-London emergency**” means an emergency which threatens serious damage to –
+  - (i) human welfare in London; or
+  - (ii) the environment of London;
+- (b) “**relevant Category 1 responder**” means any Category 1 responder which is specified in paragraph 1 of Schedule 1 (local authorities).
+
+(3) Subsections (2) and (3) of section 1 apply for the purposes of paragraph (2).
+
+### 56. Role of other Category 1 responders in London
+
+Category 1 responders which have functions which are exercisable in London, other than the London Fire Commissioner[^key-2a19e225a65e6254ea660c2f2fddba2e], shall co-operate with the London Fire Commissioner in connection with the performance by the Commissioner of the Commissioner’s functions[^key-bef20349a8e3ccadab1f9bdef34f37d0] under regulation 55.
+
+## PART 10 — Northern Ireland
+
+### 57. Duty to have regard to the activities of other bodies involved in civil protection
+
+(1) In performing their duties under section 2(1)(a) (duty to assess risk of emergency occurring), each general Category 1 responder which has functions which are exercisable in Northern Ireland –
+
+- (a) must have regard to any assessment of the risk of an emergency occurring which has been carried out by a body specified in paragraph (4) and of which it is aware; and
+- (b) may adopt or have regard to that assessment.
+
+(2) In performing their duties under section 2(1)(g) (duty to maintain arrangements to warn, inform and advice the public in the event of an emergency), each general Category 1 responder which has functions which are exercisable in Northern Ireland –
+
+- (a) must have regard to the arrangements maintained by the bodies specified in paragraph (4) to warn the public, and to provide information and advice to the public, if an emergency is likely to occur or has occurred; and
+- (b) need not maintain arrangements to warn the public, and to provide information and advice to the public, which would unnecessarily duplicate the warning, information and advice provided by those bodies.
+
+(3) For the purposes of paragraph (2), it is immaterial whether a body specified in paragraph (4) maintain the arrangements by virtue of a duty under an enactment or otherwise.
+
+(4) The bodies specified in this paragraph are –
+
+- (a) a Northern Ireland department;
+- (b) a district council established under the Local Government Act (Northern Ireland) 1972 [^c12282511];
+- (c) the Northern Ireland Housing Executive;
+- (d) the Fire Authority for Northern Ireland;
+- (e) an Education and Library Board established under Article 3 of the Education and Libraries (Northern Ireland) Order 1986 [^c12282521];
+- (f) a Health and Social Services trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 [^c12282531];
+- (g) a Health and Social Services Board established under Article 16 of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c12282541];
+- (h) the Northern Ireland Central Services Agency for the Health and Social Services established under Article 26 of the Health and Personal Social Services (Northern Ireland) Order 1972;
+- (i) the Northern Ireland Blood Transfusion Service Agency;
+- (j) the Health Protection Agency established by section 1 of the Health Protection Agency Act 2004 [^c12282551];
+- (k) the Northern Ireland Regional Medical Physics Agency;
+- (l) the Food Standards Agency;
+- (m) the Health and Safety Executive for Northern Ireland;
+- (n) a harbour authority, within the meaning of section 46(1) of the Aviation and Maritime Security Act 1990 [^c12282561], in Northern Ireland;
+- (o) the Northern Ireland Transport Holding Company (established by the Transport Act (Northern Ireland) 1967 [^c12282571]);
+- (p) Ulsterbus Limited;
+- (q) Citybus Limited;
+- (r) Northern Ireland Railways Company Limited
+- (s) a person holding a licence granted under Article 10(1)(b) of the Electricity (Northern Ireland) Order 1992 [^c12282581];
+- (t) a person holding a licence granted under Article 8(1) of the Gas (Northern Ireland) Order 1996 [^c12282591].
+
+### 58. Joint discharge of functions etc.
+
+Each general Category 1 responder which has functions which are exercisable in Northern Ireland may –
+
+- (a) make arrangements with a body specified in paragraph (4) of regulation 57 to perform a duty of the general Category 1 responder under section 2(1) jointly with that body;
+- (b) make arrangements with such a body for that body to perform such a duty on behalf of the general Category 1 responder.
+
+## Part 11 — Review[^key-aac26a6c2bd11e1fd81a8ca9f3d0a5e2]
+
+**59.** (1) Before the end of the review period, the Minister for the Cabinet Office must—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) lay the report before Parliament.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) “Review period” means—
+
+- (a) the period of five years beginning with 1st April 2012; and
+- (b) subject to paragraph (4), each successive period of five years.
+
+(4) If a report under this regulation is laid before Parliament before the last day of the review period to which it relates, the following review period is to begin with the day on which the report is laid.
+
+Jim Murphy
+
+Parliamentary Secretary, Cabinet Office
+
+## SCHEDULE — Local resilience areas in London[^key-2b27afb190126f48153bc266627f66b5]
+
+**No longer in force.**
+
+Regulation 3(1)
+
+[^key-2b27afb190126f48153bc266627f66b5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+These Regulations relate to the extent of the duties imposed on certain persons and bodies (referred to as “**general Category 1 responders**”) listed in Part 1 of Schedule 1 to the Civil Contingencies Act 2004 (“**the Act**”) under sections 2 and 4 of that Act (duties to assess, and plan for emergencies and duties to provide advice and assistance to business) and the manner in which those duties are to be performed.
+
+Part 2 of these Regulations makes general provisions about the extent and performance of those duties. Regulation 4 requires general Category 1 responders which have functions which are exercisable in a particular area in England or Wales to co-operate with each other. This form of co-operation is referred to as the local resilience forum. In addition, persons and bodies listed in Part 3 of Schedule 1 to the Act (referred to as “**general Category 2 responders**”) responders may ask to be, or be asked, to participate in the local resilience forum process. Regulation 5 makes similar provision for general Category 1 responders which have functions which are exercisable in Scotland. General responders in Scotland are also required to co-operate with those persons and bodies specified in Part 2 of Schedule 1 to the Act (“Scottish Category 1 responders”). The form of co-operation required under regulation 5 is referred to as the strategic co-ordinating group. Regulation 6 requires general Category 1 responders and general Category 2 responders in Northern Ireland to co-operate with each other. Regulation 7 enables general Category 1 and general Category 2 responders to enter into protocols with each other and with Scottish Category 1 responders and those persons or bodies specified in Part 4 of Schedule 1 to the Act (“Scottish Category 2 responders”) so as to facilitate co-operation. Regulation 8 enables general Category 1 and general Category 2 responders to make arrangements with each other and with Scottish Category 1 and Scottish Category 2 responders for the discharge of the duties of general Category 1 responders under section 2 of the Act jointly or for one responder to perform those duties on behalf of another. Regulations 9 to 11 enable general Category 1 responders to identify one Category 1 responder as having the lead responsibility for performing certain functions under section 2 of the Act in a particular local resilience area. Regulation 12 provides that the duties of general Category 1 responders under section 2 of the Act do not apply to certain emergencies. These are emergencies in relation to which existing legislation already makes provision which is analogous to the Act.
+
+Part 3 of these Regulations relates to the duty of general Category 1 responders under section 2(1)(a) and (b) of the Act to assess the risk of an emergency occurring. Regulation 13 specifies that the duty only applies in relation to an emergency which affects or may affect the area in which the functions of the general Category 1 responder are exercisable. Regulation 14 enables a Minister of the Crown to issue guidance as to the risk of a particular emergency occurring or impact that it would have or an assessment of a particular emergency occurring or the impact of such an emergency. Regulation 14 also enables the Assembly, the Office of the Firs Minister and Deputy First Minister and the Scottish Ministers to issue such guidance to general Category 1 responders. Regulation 15 requires general Category 1 responders in England and Wales, as part of the local resilience forum, to collaborate with each other in maintaining a register (referred to as the “**community risk register**”) of the assessment carried out by each of them under section 2. Regulation 16 requires general Category 1 responders in England and Wales to share the community risk register with neighbouring local resilience forums, the Assembly and the Secretary of State. Regulation 17 requires general Category 1 responders in Scotland to collaborate with Scottish Category 1 responders in maintaining a community risk register. Regulation 18 requires general Category 1 responders to provide information about risk to other general Category 1 responders or Scottish Category 1 responders where the information relates to an emergency which would affect that responder.
+
+Part 4 of these Regulations relates to the duty of Category 1 responders under section 2(1)(c) and (d) of the Act to maintain plans to respond to an emergency. Regulation 19 requires general Category 1 responders to have regard to any assessment of risk carried out by it by virtue of section 2(1)(a) or (b) of the Act. Regulation 20 requires general Category 1 responders to have regard to any relevant arrangements which it maintains under section 2(1)(g) of the Act (arrangements to warn the public and to provide information and advice). Regulation 21 provides that, in performing that duty, general Category 1 responders may maintain a single, generic plan which relates to any emergency to which those duties apply or maintain specific plans to deal with particular emergencies. Regulation 22 requires general Category 1 responders to consider whether it would be appropriate to perform their functions under section 2(1)(d) by way of a plan maintained by more than one Category 1 responder (a “multi-agency plan”). Regulation 23 requires general Category 1 responders to have regard to the activities carried out by certain voluntary organisations. Regulation 24 requires general Category 1 responders to include in the plans maintained by virtue of section 2(1)(c) and (d) of the Act a procedure for determining whether an emergency has occurred. Regulation 25 requires those plans to include arrangements for exercises and training. Regulation 26 requires Category 1 responders to consider whether such plans must be revised when a Minister of the Crown or a devolved administration issues guidance or an assessment under regulation 14.
+
+Part 5 of these Regulations relates to the duty of general Category 1 responders under section 2(1)(f) of the Act to publish in part the assessments made and plans maintained under section 2(1)(a) to (d) of the Act. Regulation 27 requires general Category 1 responders to have regard to the importance of not alarming the public unnecessarily.
+
+Part 6 of these Regulations relates to the duty of general Category 1 responders under section 2(1)(g) of the Act to maintain arrangements to warn and provide advice to the public in the event of an emergency. Regulation 28 provides that general Category 1 responders must have regard to the plans they maintain by virtue of section 2(1)(d). Regulation 29 provides that general Category 1 responders may maintain general arrangements to warn and provide advice to the public or specific arrangements or arrangements which relate to a particular emergency. Regulation 30 requires general Category 1 responders to have regard to the importance of not alarming the public unnecessarily. Regulation 31 requires general Category 1 responders to exercise their arrangements and to train their staff in operating those arrangements. Regulations 32 to 34 require general Category 1 responders to identify or have arrangements to identify the Category 1 responder with lead responsibility for warning, informing and advising the public. Regulation 35 requires responders to have regard to the warnings, information and advice provided to the public and by other responders, the Meteorological Office, the Secretary of State and the Food Standards Agency and provides that Category 1 responders need not duplicate that effort.
+
+Part 7 of these Regulations relates to the duty of certain general Category 1 responders (referred to as “**relevant responders**”) under section 4(1) of the Act to give advice and assistance to the public in connection with the making of arrangements for the continuance of commercial activities by the public or the carrying on by voluntary organisations of their activities in the event of an emergency. Regulation 37 makes transitional provision in connection with this duty. Regulation 38 requires relevant responders to take into account any relevant community risk register maintained under regulation 15. Regulation 39 specifies the scope of the duty in relation to those who carry on commercial activities. It provides that the duty only applies to members of the public who carry on commercial activities in the area in which the functions of the responder are exercisable. It also provides that relevant responders must provide advice and assistance to those members of the public at large, and may in addition provide advice and assistance to individual members of the public or assist them in identifying, and obtaining advice from, a business continuity consultant. Regulation 40 specifies the scope of the duty in relation to voluntary organisations. It provides that relevant responders must determine which voluntary organisations should receive advice and assistance, having had regard to the factors listed in this regulation. Regulation 41 requires relevant responders which have functions which are exercisable in a particular area to co-operate with each other. Relevant responders may make arrangements with each other for the discharge of their duties under section 4 of the Act jointly or for one relevant responder to perform those duties on behalf of another. Regulation 42 relates to cross-border co-operation between relevant responders in Scotland and in the rest of the United Kingdom. Regulation 43 requires relevant responders to have regard to the advice and assistance of this kind provided by other responders and provides that relevant responders need not unnecessarily duplicate that advice or assistance. Regulation 44 enables relevant responders to charge for any advice or assistance provided on request. Such charge may not exceed the costs of the provision of that advice or assistance (taking in to account the indirect costs).
+
+Part 8 relates to information. Regulation 45 defines “sensitive information”. Regulation 46 makes provision in relation to Ministerial certificates in connection with national security. Regulations 47 to 50 enable general Category 1 responders, general Category 2 responders, Scottish Category 1 responders and Scottish Category 2 responders to seek information from general Category 1 or Category 2 responders in connection with their duties under section 2(1)(a) to (d) or 4 of the Act or other functions which relate to emergencies. Regulation 51 provides that Category 1 responders must not publish or disclose sensitive information obtained or created by virtue of the Act or these Regulations unless certain conditions are satisfied. Regulation 52 limits the use that can be made of sensitive information which has been obtained under these Regulations. Regulation 53 imposes requirements on responders as to storage and handling of sensitive information obtained under these Regulations. Regulation 54 makes a connected amendment to the Health and Safety at Work Act 1974.
+
+Part 9 relates to the performance of these functions in London. Regulation 55 requires the London Fire and Emergency Planning Authority (a fire and rescue authority) to take the lead responsibility for maintaining community risk registers in London and, at the request of any other Category 1 responder which is a local authority and which has functions which are exercisable in London, to assist with exercises and training. Regulation 56 requires other Category 1 responders which have functions which are exercisable in London to co-operate with the London Fire and Emergency Planning Authority in connection with the performance by it of its functions under regulation 55.
+
+Part 10 relates to the performance of the duties under the Act in Northern Ireland. Regulation 57 requires general Category 1 responders to have regard to the activities of certain other bodies in Northern Ireland which are involved in civil protection. Regulation 58 enables general Category 1 responders to exercise their functions under the Act jointly with such a body or to make arrangements for such a body to perform such a function on its behalf.
+
+## Annotations
+
+[^key-84f236cd1cd80e7996227d56c8800c02]: Modification: Regulations continued (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 110(1)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/110/1)
+
+[^key-d26dd3fa5db010c139c4189859a7937d]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2042/regulation/3) modified (temp.) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [47(1)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/47/1/a)
+
+[^key-de7107e237ae219bbcaa96ba367d02c7]: Textual amendment: Words in reg. 3(1) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/46)
+
+[^c12282381]: Marginal citation: Amended by [S.I. 2005/2043](https://www.legislation.gov.uk/uksi/2005/2043).
+
+[^key-3a46d4f430d896583426f260b25d688e]: Textual amendment: Words in reg. 3(1) substituted (1.4.2011) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2011/615/regulation/5/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
+
+[^key-9ccde1709c2c259be66f843324d3b9c1]: Textual amendment: Word in reg. 3(1) substituted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/624/regulation/3)
+
+[^key-d4431fa2f07138d7da313e3c07d98e99]: Textual amendment: Words in reg. 3(1) inserted (1.4.2011) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2011/615/regulation/5/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
+
+[^c12282391]: Marginal citation: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31).
+
+[^c12282401]: Marginal citation: [1990 c. 31](https://www.legislation.gov.uk/ukpga/1990/31).
+
+[^key-39074b61074806424a1dca360afe50bc]: Textual amendment: Reg. 4 substituted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/624/regulation/4)
+
+[^key-381a4440b273d84df2d75dd5e468c0d8]: Textual amendment: Reg. 7(4)(5) inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/624/regulation/5)
+
+[^key-eced297951c1867625b6c648fd83d690]: Textual amendment: Word in reg. 12(a) substituted (E.W.S.) (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+
+[^key-f7ea8717d31cb172cd517f39eeee0c1c]: Textual amendment: Words in reg. 12(b) substituted (N.I.) (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2015/325/schedule/6/part/2) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
+
+[^c12282431]: Marginal citation: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825); amended by the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) s.328.
+
+[^c12282441]: Marginal citation: [S.I. 1997/193](https://www.legislation.gov.uk/uksi/1997/193).
+
+[^key-f1e9a726b4d12f12f346197897d291ca]: Textual amendment: Words in reg. 12(e) substituted (E.W.S.) (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+
+[^key-24cb47acbdfa757c2392ee27619892dd]: Textual amendment: Words in reg. 12(f) substituted (N.I.) (1.11.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019 (S.R. 2019/185)](https://www.legislation.gov.uk/nisr/2019/185), [reg. 1](https://www.legislation.gov.uk/nisr/2019/185/regulation/1), [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2019/185/schedule/9/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2019/185/regulation/3))
+
+[^key-ac5d14b4142fa652d4bab5b098296c5d]: Textual amendment: Words in reg. 16(4) substituted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/624/regulation/6)
+
+[^key-b3329f3379c74d6538fca3d942760daf]: Modification: [Reg. 36](https://www.legislation.gov.uk/uksi/2005/2042/regulation/36) modified (temp.) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [47(1)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/47/1/b)
+
+[^key-19d25a3384c188b7c1003b97169d0475]: Textual amendment: Reg. 44A inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/624/regulation/7)
+
+[^key-2b645a800d4999bb0c897a09305a6aae]: Textual amendment: Words in reg. 45(1)(d) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-ebd764ef2621c787f070c97516090371]: Textual amendment: Words in reg. 45(1)(d) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-f17f360e3db0b90eed1a78bebe6b0b9f]: Textual amendment: Reg. 45(1A)-(1E) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-2fadf12ee03b185888c69b3ba8f3798a]: Textual amendment: Words in [reg. 45(1B)(a)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1B/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bf37b93b16da470153bcc34b6537549a]: Textual amendment: Words in [reg. 45(1C)(a)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1C/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ff2d8b9c87920c2b34b9d017a7139ccc]: Textual amendment: Words in [reg. 45(1D)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1D) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-577e959f48214b05fb3d0ff84b040852]: Textual amendment: Words in [reg. 45(1D)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1D) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5ebc7a8add6b278593aedd815658fccb]: Textual amendment: Words in [reg. 45(1D)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1D) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(3)(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/3/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-742b73ee12ebce06074477d43449ef21]: Textual amendment: Words in [reg. 45(1E)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1E) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6a1f2a9431381e6d9803b1a790e5b421]: Textual amendment: Word in [reg. 45(1E)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(a)(9)(e)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/e), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
+
+[^key-9265d00f11586867f546dbfaa37174d0]: Textual amendment: Words in [reg. 45(1E)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(b)(9)(e)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/e), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
+
+[^key-877d0f53924f9604def239d41f49b196]: Textual amendment: Reg. 45(2)-(4) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-618dd5b4c46280fb05e98359df369edb]: Textual amendment: Reg. 47(3)(c) and word inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/624/regulation/8)
+
+[^c12282501]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15); the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [Schedule 14](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14); the [Consumer Protection Act 1987 (c. 43)](https://www.legislation.gov.uk/ukpga/1987/43), [Schedule 3](https://www.legislation.gov.uk/ukpga/1987/43/schedule/3); the [Norfolk and Suffolk Broads Act 1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4), [Schedule 6](https://www.legislation.gov.uk/ukpga/1988/4/schedule/6); the [Education Reform Act 1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), [Schedule 13](https://www.legislation.gov.uk/ukpga/1988/40/schedule/13); the [Water Act 1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), [Schedule 25](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25); the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [Schedule 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22); the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [Schedule 29](https://www.legislation.gov.uk/ukpga/1999/29/schedule/29); the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [section 105](https://www.legislation.gov.uk/ukpga/2003/20/section/105); [S.I. 2004/1822](https://www.legislation.gov.uk/uksi/2004/1822); and [S.I. 2004/3363](https://www.legislation.gov.uk/uksi/2004/3363).
+
+[^key-ec7e6d87960a9b2281d678e7978a2839]: Textual amendment: Reg. 54A inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 192](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/192) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-8f2dc8ea4817f0d3110010f0aa69098b]: Textual amendment: Reg. 55 heading substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/2/a)
+
+[^key-e60b71217b5eb4d6f500cc4fd46cc0db]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/55/1) substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/2/b)
+
+[^key-893796194a196a51385f5ee9b2702cc5]: Textual amendment: Reg. 55(1)(a) omitted (1.4.2011) by virtue of [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [6(2)](https://www.legislation.gov.uk/uksi/2011/615/regulation/6/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
+
+[^key-2a19e225a65e6254ea660c2f2fddba2e]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2005/2042/regulation/56) substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/3/a)
+
+[^key-bef20349a8e3ccadab1f9bdef34f37d0]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2005/2042/regulation/56) substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/3/b)
+
+[^c12282511]: Marginal citation: [1972 c. 9](https://www.legislation.gov.uk/ukpga/1972/9).
+
+[^c12282521]: Marginal citation: S.I.. 1986/594.
+
+[^c12282531]: Marginal citation: S.I.. 1991/194 (N.I. 1).
+
+[^c12282541]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
+
+[^c12282551]: Marginal citation: [2004 c. 17](https://www.legislation.gov.uk/ukpga/2004/17).
+
+[^c12282561]: Marginal citation: [1990 c. 31](https://www.legislation.gov.uk/ukpga/1990/31); amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 4](https://www.legislation.gov.uk/ukpga/1997/28/schedule/4).
+
+[^c12282571]: Marginal citation: [1967 c. 37](https://www.legislation.gov.uk/ukpga/1967/37).
+
+[^c12282581]: Marginal citation: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231)
+
+[^c12282591]: Marginal citation: [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
+
+[^key-aac26a6c2bd11e1fd81a8ca9f3d0a5e2]: Textual amendment: Pt. 11 inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [9](https://www.legislation.gov.uk/uksi/2012/624/regulation/9)
+
+[^key-2b27afb190126f48153bc266627f66b5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2005/2042/schedule) revoked (1.4.2011) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [8](https://www.legislation.gov.uk/uksi/2011/615/regulation/8) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))

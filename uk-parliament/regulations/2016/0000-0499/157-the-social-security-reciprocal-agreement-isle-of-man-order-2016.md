@@ -1,0 +1,297 @@
+---
+title: The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016
+id: uksi/2016/157
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-02-10'
+text_date: '2019-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2016/157
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/157/pdfs/uksi_20160157_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/157/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016
+
+> Text as at 2019-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2016 No. 157
+
+Social Security
+
+The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016
+
+Made
+
+10th February 2016
+
+Coming into force
+
+6th April 2016
+
+At the Court at Buckingham Palace, the 10th day of February 2016
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Section 179(1)(a), (2), (3), (4) and (5) of the Social Security Administration Act 1992[^f00001] provides that for the purpose of giving effect to any agreement with the government of a country outside the United Kingdom providing for reciprocity in matters relating to payments for purposes similar or comparable to the purposes of legislation to which that section applies, Her Majesty may by Order in Council make provision for modifying or adapting the Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992[^f00002] and Part 1 of the Pensions Act 2014[^f00003], and any regulations made under those Acts or that Part, in their application to cases affected by the agreement.
+
+Accordingly, Her Majesty is pleased by and with the advice of Her Privy Council, in exercise of the powers conferred by section 179(1)(a), (2), (3) and (5) and section 189(4), (5) and (6)[^f00004] of the Social Security Administration Act 1992, to order as follows.
+
+## 1. Citation and commencement[^key-0822e8c3a3393a326d746330e6a3ff20]
+
+This Order may be cited as the Social Security (Reciprocal Agreement) (Isle of Man) Order 2016 and shall come into force on 6th April 2016.
+
+## 2. Modification of legislation[^key-e4287a7f7413e9e9ce6d49ba7ea50cd3]
+
+The Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992, Part 1 of the Pensions Act 2014 and regulations made under those Acts or that Part, shall be modified to such extent as may be required to give effect to the provisions contained in the Agreement relating to pensions set out in the Schedule to this Order, so far as those provisions relate to England and Wales and Scotland.
+
+## 3. Revocation[^key-4619a6fc5f323dae0fcd15f88088d9a6]
+
+The National Insurance (Isle of Man Reciprocal Agreement) Order 1948[^f00005] is revoked.
+
+Ceri King
+
+Deputy Clerk of the Privy Council
+
+## SCHEDULE — AGREEMENT RELATING TO STATE PENSION AND RETIREMENT PENSION BETWEEN THE SECRETARY OF STATE FOR WORK AND PENSIONS AND THE DEPARTMENT FOR COMMUNITIES IN NORTHERN IRELAND OF THE ONE PART, AND THE MINISTER FOR THE TREASURY OF THE ISLE OF MAN OF THE OTHER PART[^key-4fe5302c2ea2df7355891ffd02ddebff]
+
+Article 2
+
+### 1. Interpretation[^key-a89696c655b96d8f1ebc53b278fbefe8]
+
+(1) In this Agreement—
+
+- “the 1977 Agreement” means the agreement contained in Schedule 1 to the Social Security (Isle of Man) Order 1977[^f00006];
+- “the Isle of Man Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992 (of Parliament) as it applies in the Isle of Man from time to time by virtue of the Social Security Contributions and Benefits Act 1992 (Application) Order 1994 (S.D. 505/94);
+- “the Isle of Man Pensions Act” means Part 1 of the Pensions Act 2014[^key-e837879ca56569fdea446957b35bf7c8][^f00007] as it applies in the Isle of Man from time to time by virtue of the Pensions Act 2014 (Application) Order 2018 (S.D. 2018/0076);
+- “Party” means the United Kingdom or the Isle of Man;
+- “the Pensions Acts” means in relation to the United Kingdom, Part 1 (state pension) of the Pensions Act 2014 and Part 1 (state pension) of the Pensions Act (Northern Ireland) 2015[^f00007];
+- “territory” means in relation to the United Kingdom, England, Scotland, Wales and Northern Ireland, and in relation to the Isle of Man, the Isle of Man.
+
+(2) Unless the context otherwise requires, in the application of this Agreement to a territory, expressions in this Agreement shall have the same meaning as in the United Kingdom or Isle of Man Acts referred to in this Agreement.
+
+(3) The rules for the construction of Acts of Parliament and instruments contained in the Interpretation Act 1978[^f00008] shall apply for the purposes of the interpretation of this Agreement as they apply for the purposes of the interpretation of an Act of Parliament or instrument.
+
+### 2. Application of Agreement[^key-38c2db835a2edd203216205e3e5f4773]
+
+This Agreement shall apply to a person for the purposes of claims for and determining entitlement to a state pension under the Pensions Acts or the Isle of Man Pensions Act[^key-7d580d83dbd935f550aef3c93ad55551].
+
+**3.**[^key-d210bb8532441fb64bf6fda17643aa5a] The 1977 Agreement shall not apply and this Agreement shall apply to a person for the purposes of claims for and determining entitlement to a retirement pension under the Isle of Man Contributions and Benefits Act of a person who reaches pensionable age on or after 6th April 2016 but before 6th April 2019[^key-859058eb9d82281c0d9442a6e1dfa32b].
+
+**4.**[^key-df40fdefd934ea04952fe4cba419bade] The 1977 Agreement shall not apply and this Agreement shall apply to a person who reaches pensionable age before 6th April 2016 and whose spouse or civil partner reaches pensionable age on or after that date but before 6th April 2019[^key-ae9d1d9fd3d06bb01425d353189c44a6], for the purposes of claims for and determining entitlement to—
+
+- (a) a Category A retirement pension by virtue of section 48[^f00009] (use of former spouse’s contributions) of the Social Security Contributions and Benefits Act 1992 or section 48 (use of former spouse’s contributions) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- (b) a Category B retirement pension under Part 2 (contributory benefits) of the Social Security Contributions and Benefits Act 1992 or Part 2 (contributory benefits) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- (c) a Category A retirement pension by virtue of section 48 of the Isle of Man Contributions and Benefits Act;
+- (d) a Category B retirement pension under Part 2 of the Isle of Man Contributions and Benefits Act.
+
+**4A.**[^key-0d83c458beac43ab767648f6c85a0f7e] The 1977 Agreement shall not apply and this Agreement shall apply to a person who reaches pensionable age on or after 6th April 2019 for the purposes of claims for and determining entitlement to a Manx state pension under the Isle of Man Pensions Act.
+
+### 5. Minimum number of qualifying years and rate of pension payable[^key-6dd2975f8490777e4692bf768ec94a6a][^key-1f31bc9db66c3684c2482d38143f1352]
+
+Subject to Articles 7 and 8, in the case of a person to whom Article 2 applies—
+
+- (a) for the purpose of determining only whether a person has at least the minimum number of qualifying years for a state pension to be payable under section 2 or 4 of the Pensions Acts, any tax year for which a person’s earnings factor is sufficient to satisfy paragraph 5A(2)(b) of Schedule 3 to the Isle of Man Contributions and Benefits Act[^f00010] shall be taken into account in the United Kingdom; and
+- (b) the rate at which state pension is payable to a person under section 2 or 4 of the Pensions Acts is to be determined by reference only to the number of qualifying years under section 2 or 4 of those Acts.
+
+**5A.**[^key-6b58d8edae94aa8f6f61b7a504872a6a] Subject to Articles 7 and 8, in the case of a person to whom Article 2 applies—
+
+- (a) for the purpose of determining only whether a person has at least the minimum number of qualifying years for a Manx state pension to be payable under section 2 or 4 of the Isle of Man Pensions Act, any tax year for which that person’s earnings factor is sufficient to satisfy paragraph 5A(2)(b) of Schedule 3 to the Social Security Contributions and Benefits Act 1992[^f00008] or paragraph 5A(2)(b) of Schedule 3 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992 shall be taken into account in the Isle of Man; and
+- (b) the rate at which a Manx state pension is payable to a person under section 2 or 4 of the Isle of Man Pensions Act is to be determined by reference only to the number of qualifying years under section 2 or 4 of that Act.
+
+### 6. Provisions applying to the United Kingdom and the Isle of Man[^key-9c38a48bc6b13d175d62ca8a01e17f8c]
+
+Subject to Articles 7 and 8, in the case of a person to whom Article 3 or 4 applies, for the purposes of claims for and determining entitlement to a retirement pension where a person’s, or where applicable their spouse or civil partner’s, contributions were last recorded on the National Insurance system of—
+
+- (a) the Isle of Man in respect of a tax year, that person’s contributions in respect of that tax year are to be treated as paid or credited under the Isle of Man Contributions and Benefits Act;
+- (b) the United Kingdom in respect of a tax year, that person’s contributions in respect of that tax year are to be treated as paid or credited under Part 1 (contributions) of the Social Security Contributions and Benefits Act 1992 or Part 1 (contributions) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
+
+**7.**[^key-7b4150bdef5b8bed1e02df4d67b0bf60] In the case of a person to whom this Agreement applies—
+
+- (a) where that person’s, or where applicable their spouse or civil partner’s, contributions were last recorded on the National Insurance system of the Isle of Man in respect of the tax year 1977-1978, any contributions that have been paid by, or have been credited to, that person or their spouse or civil partner (including graduated contributions and payments in place of graduated contributions) for any tax year before that tax year shall be treated as paid to the National Insurance system of the Isle of Man under Part 1 of the National Insurance (Isle of Man) Act 1948[^f00011], the National Insurance (Isle of Man) Act 1971[^f00012] and Part 1 of the Isle of Man Contributions and Benefits Act; and
+- (b) that person, or where applicable their spouse or civil partner, shall not be treated as having paid or been credited with contributions (including graduated contributions and payments in place of graduated contributions) in the United Kingdom under—
+  - (i) Part 1 of the National Insurance Act 1965[^f00013];
+  - (ii) Part 1 of the National Insurance Act (Northern Ireland) 1966[^f00014];
+  - (iii) Part 1 of the Security Contributions and Benefits Act 1992; or
+  - (iv) Part 1 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992,
+
+  in respect of all tax years before the tax year 1977-1978.
+
+**8.**[^key-d7ceb0715e27798fde62edf95d942a2f] In the case of a person to whom this Agreement applies—
+
+- (a) where that person’s, or where applicable their spouse or civil partner’s, contributions were last recorded on the National Insurance system of the United Kingdom in respect of the tax year 1977-1978, any contributions that have been paid by, or have been credited to, that person or their spouse or civil partner (including graduated contributions and payments in place of graduated contributions) for any tax year before that tax year shall be treated as paid to the National Insurance system of the United Kingdom under—
+  - (i) Part 1 of the National Insurance Act 1965;
+  - (ii) Part 1 of the National Insurance Act (Northern Ireland) 1966;
+  - (iii) Part 1 of the Social Security Contributions and Benefits Act 1992; or
+  - (iv) Part 1 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; and
+- (b) that person, or where applicable their spouse or civil partner, shall not be treated as having paid or been credited with contributions (including graduated contributions and payments in place of graduated contributions) in the Isle of Man under Part 1 of the National Insurance (Isle of Man) Act 1948, the National Insurance (Isle of Man) Act 1971 and Part 1 of the Isle of Man Contributions and Benefits Act in respect of all tax years before the tax year 1977-78.
+
+**9.**[^key-a7ba7e942f429eb64fbaa885ba2fecd9] In the case of a person to whom this Agreement applies—
+
+- (a) where but for this paragraph, the person would be entitled to pay contributions voluntarily under the legislation of either Party in respect of the same tax year, that person shall be entitled to pay such contributions only under the legislation of one Party of their choice; but
+- (b) where—
+  - (i) the person has paid, is treated as having paid or has been credited with Class 1 contributions, or has paid Class 2 contributions for which that person is liable, in respect of a tax year under the legislation of one or both Parties;
+  - (ii) but the earnings on which the Class 1 contributions have been paid, treated as paid or credited, or the Class 2 contributions, do not give rise to an earnings factor which is equal to or greater than the qualifying earnings factor for that tax year in either territory,
+
+  that person shall be entitled to pay contributions voluntarily in either or both territories in order to acquire a qualifying earnings factor in either or both territories in respect of that tax year.
+
+### 10. Movement between territories[^key-52d2fd494c7677d5ac8c40633de3fe3e]
+
+A person to whom this Agreement applies, who is entitled to a state pension under the Pensions Acts, shall be entitled to receive any increase in the rate of that pension, while that person is in the territory of the Isle of Man, as if that person were in the territory of the United Kingdom.
+
+**10A.**[^key-1aa5ae3feec4f04ff6f28bb99dbd63e6] A person to whom this Agreement applies, who is entitled to a Manx state pension under the Isle of Man Pensions Act, shall be entitled to receive any increase in the rate of that pension, while that person is in the territory of the United Kingdom, as if that person were in the territory of the Isle of Man.
+
+**11.**[^key-7bafd6788af6a803faa71f485a19f919] A person to whom this Agreement applies, who is entitled to a retirement pension under the Isle of Man Contributions and Benefits Act, shall be entitled to receive any increase in the rate of that pension, while that person is in the territory of the United Kingdom, as if that person were in the territory of the Isle of Man.
+
+**12.**[^key-ba5f99af8c86e3dfa5e2c3dcc8722aee] A person to whom this Agreement applies, who is entitled to —
+
+- (a) a Category A retirement pension by virtue of section 48 of the Social Security Contributions and Benefits Act 1992 or section 48 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; or
+- (b) a Category B retirement pension under Part 2 of the Social Security Contributions and Benefits Act 1992 or Part 2 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992,
+
+shall be entitled to receive any increase in the rate of that pension, while that person is in the territory of the Isle of Man, as if that person were in the territory of the United Kingdom.
+
+### 13. General Provisions[^key-1adafc444cd4a3cfff7281ccb9db2bee]
+
+The Secretary of State for Work and Pensions (with the consent of the Treasury) and, as the case may require, the Department for Communities[^key-6e9968b2b8ad405a916c6bce3303ed1e] in Northern Ireland (with the consent of the Department of Finance and Personnel) and the Minister for the Treasury of the Isle of Man shall be responsible for making any necessary financial adjustments between the National Insurance Funds of the territories as they may agree to be necessary.
+
+**14.**[^key-fe38e530cd5e17dad4a250cabff6be5e] The Secretary of State for Work and Pensions and, as the case may require, the Department for Communities in Northern Ireland and the Minister for the Treasury of the Isle of Man shall from time to time determine the administrative procedures appropriate for the purposes of giving effect to the provisions of this Agreement.
+
+### 15. Double Benefit[^key-127c984253a8be0bf2ea70c9a82c18d1]
+
+The provisions of the 1977 Agreement and this Agreement shall not confer a right to a double benefit under Part 2 of the Social Security Contributions and Benefits Act 1992, Part 2 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 or the Isle of Man Contributions and Benefits Act.
+
+Given under the Official Seal of the Secretary of State for Work and Pensions this 28th day of January 2016.
+
+Baroness Altmann
+
+Minister of State
+
+Department for Work and Pensions
+
+Given under the Official Seal of the Department for Social Development in Northern Ireland this 28th day of January 2016.
+
+Anne McCleary
+
+A senior Officer of the Department for Social Development in Northern Ireland
+
+Department for Social Development in Northern Ireland
+
+Given under the hand of the Minister for the Treasury of the Isle of Man this 28th day of January 2016.
+
+William Edward Teare
+
+Minister for the Treasury of the Isle of Man
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Part 1 of the Pensions Act 2014 creates a new benefit called state pension to which people in Great Britain reaching pensionable age on or after 6th April 2016 may be entitled.
+
+This Order provides that the Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992, Part 1 of the Pensions Act 2014 and regulations made under those Acts or that Part, are to be modified to give effect to the provisions of the Agreement made with the Government of the Isle of Man set out in the Schedule to this Order.
+
+This Agreement provides for a degree of reciprocity between the United Kingdom and the Isle of Man in regard to state pension matters. The Agreement is necessary because the Isle of Man will not be applying in its territory the state pension provided for in Part 1 of the Pensions Act 2014 and Part 1 of the Pensions Act (Northern Ireland) 2015.
+
+The Agreement provides, amongst other things, that the territory on whose National Insurance system a person’s contributions were last recorded in a tax year shall be the territory where all the contributions of that person shall be treated as paid or credited in that tax year. However for the purposes of entitlement to a state pension under Part 1 of the Pensions Act 2014 and Part 1 of the Pensions Act (Northern Ireland) 2015, any tax year in which a person’s earnings factor in the Isle of Man is sufficient, will be taken into account for the purpose of helping that person to meet the requirement to have at least the minimum number of qualifying years for entitlement to a new state pension. Finally the rate of a person’s state pension shall not be affected if they move between the United Kingdom and the Isle of Man.
+
+An impact assessment has not been produced for this Order as it has no impact on business or civil society organisations. An impact assessment for the changes made by the Pensions Act 2014 is available from the Better Regulation Unit, Department for Work and Pensions, Caxton House, 6 – 12 Tothill Street, London SW1H 9NA or
+
+https://www.gov.uk/government/publications/pensions-act-2014-impact-assessments-may-2014
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). Section 179 is to be amended by paragraph 25 of Schedule 12 to the Pensions Act 2014. Other amendments to section 179 are not relevant to this Order.
+
+[^f00002]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00003]: Footnote: [2014 c.19](https://www.legislation.gov.uk/ukpga/2014/19).
+
+[^f00004]: Footnote: Sub-sections (4), (5) and (6) of section 189 were amended by paragraph 109 of Schedule 7 to the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14) and [S.I. 2013/252](https://www.legislation.gov.uk/uksi/2013/252).
+
+[^key-0822e8c3a3393a326d746330e6a3ff20]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-e4287a7f7413e9e9ce6d49ba7ea50cd3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/157/article/2) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-4619a6fc5f323dae0fcd15f88088d9a6]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2016/157/article/3) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^f00005]: Footnote: [S.I. 1948/1844](https://www.legislation.gov.uk/uksi/1948/1844).
+
+[^key-4fe5302c2ea2df7355891ffd02ddebff]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2016/157/schedule) heading substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/2)
+
+[^key-a89696c655b96d8f1ebc53b278fbefe8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/1) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^f00006]: Footnote: [S.I. 1977/2150](https://www.legislation.gov.uk/uksi/1977/2150). This S.I. was modified by S.I.s [1988/591](https://www.legislation.gov.uk/uksi/1988/591) and [1996/1928](https://www.legislation.gov.uk/uksi/1996/1928) and amended by S.I.s [1989/483](https://www.legislation.gov.uk/uksi/1989/483) and [1989/2001](https://www.legislation.gov.uk/uksi/1989/2001).
+
+[^key-e837879ca56569fdea446957b35bf7c8]: Textual amendment: Words in [Sch. art. 1(1)](https://www.legislation.gov.uk/uksi/2016/157/schedule/article/1/1) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/3)
+
+[^f00007]: Footnote: [2015 c.5](https://www.legislation.gov.uk/ukpga/2015/5).
+
+[^f00008]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-38c2db835a2edd203216205e3e5f4773]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/2) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-7d580d83dbd935f550aef3c93ad55551]: Textual amendment: Words in [Sch. art. 2](https://www.legislation.gov.uk/uksi/2016/157/schedule/article/2) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/4)
+
+[^key-d210bb8532441fb64bf6fda17643aa5a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/3) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-859058eb9d82281c0d9442a6e1dfa32b]: Textual amendment: Words in [Sch. art. 3](https://www.legislation.gov.uk/uksi/2016/157/schedule/article/3) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/5)
+
+[^key-df40fdefd934ea04952fe4cba419bade]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/4) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-ae9d1d9fd3d06bb01425d353189c44a6]: Textual amendment: Words in [Sch. art. 4](https://www.legislation.gov.uk/uksi/2016/157/schedule/article/4) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/6)
+
+[^f00009]: Footnote: Section 48 was amended by paragraph 24 of Schedule 24 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), by paragraph 30 of Schedule 7 to the Marriage (Same Sex Couples) Act [2013 (c.30)](https://www.legislation.gov.uk/ukpga/2013/30) and by [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229).
+
+[^key-0d83c458beac43ab767648f6c85a0f7e]: Textual amendment: [Sch. art. 4A](https://www.legislation.gov.uk/uksi/2016/157/schedule/article/4A) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/7)
+
+[^key-6dd2975f8490777e4692bf768ec94a6a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/5) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-1f31bc9db66c3684c2482d38143f1352]: Textual amendment: [Sch. art. 5](https://www.legislation.gov.uk/uksi/2016/157/schedule/article/5) heading substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/8)
+
+[^f00010]: Footnote: Paragraph 5A was inserted by section 1(3) of the Pensions Act [2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22) and amended by [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229).
+
+[^key-6b58d8edae94aa8f6f61b7a504872a6a]: Textual amendment: [Sch. art. 5A](https://www.legislation.gov.uk/uksi/2016/157/schedule/article/5A) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/9)
+
+[^key-9c38a48bc6b13d175d62ca8a01e17f8c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/6) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-7b4150bdef5b8bed1e02df4d67b0bf60]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/7) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^f00011]: Footnote: Vol. XVII of the Revised Statutes of the Isle of Man, p.197.
+
+[^f00012]: Footnote: Isle of Man 20 & 21 Eliz. II c.29.
+
+[^f00013]: Footnote: [1965 c.51](https://www.legislation.gov.uk/ukpga/1965/51). Part 1 was repealed by the Social Security Act [1973 (c.38)](https://www.legislation.gov.uk/ukpga/1973/38) and by the Social Security (Consequential Provisions) Act [1975 (c.18)](https://www.legislation.gov.uk/ukpga/1975/18).
+
+[^f00014]: Footnote: [1966 c.6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6).
+
+[^key-d7ceb0715e27798fde62edf95d942a2f]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/8) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-a7ba7e942f429eb64fbaa885ba2fecd9]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/9) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-52d2fd494c7677d5ac8c40633de3fe3e]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/10) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-1aa5ae3feec4f04ff6f28bb99dbd63e6]: Textual amendment: [Sch. art. 10A](https://www.legislation.gov.uk/uksi/2016/157/schedule/article/10A) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/10)
+
+[^key-7bafd6788af6a803faa71f485a19f919]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/11) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-ba5f99af8c86e3dfa5e2c3dcc8722aee]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/12) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-1adafc444cd4a3cfff7281ccb9db2bee]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/13) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-6e9968b2b8ad405a916c6bce3303ed1e]: Textual amendment: Words in [Sch. art. 13](https://www.legislation.gov.uk/uksi/2016/157/schedule/article/13) substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1359)](https://www.legislation.gov.uk/uksi/2018/1359), [art. 1](https://www.legislation.gov.uk/uksi/2018/1359/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1359/schedule/paragraph/11)
+
+[^key-fe38e530cd5e17dad4a250cabff6be5e]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/14) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)
+
+[^key-127c984253a8be0bf2ea70c9a82c18d1]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/15) in force at 6.4.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1)

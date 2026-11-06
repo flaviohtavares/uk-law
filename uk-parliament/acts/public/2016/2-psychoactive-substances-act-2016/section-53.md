@@ -1,0 +1,61 @@
+---
+title: Psychoactive Substances Act 2016, section 53
+act: Psychoactive Substances Act 2016
+section: '53'
+status: revised
+text_date: '2023-02-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/2/section/53
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Psychoactive Substances Act 2016, section 53
+
+> Text as at 2023-02-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 53. Return of item to person entitled to it, or disposal if return impracticable[^key-5404ab502263228c4cd1b44c66aa8619]
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the retention of an item has been, but is no longer, authorised under this Act—
+
+- (a) the item must be returned to a person entitled to it (but see subsection (4));
+- (b) the appropriate court must, if asked to do so by a person entitled to the item, order it to be returned to that person.
+
+(2) A person who claims to be entitled to an item retained under this Act may apply to the appropriate court for an order under subsection (1)(b) or section 51(7) (as appropriate).
+
+(3) Where—
+
+- (a) a court makes an order under this Act requiring an item to be returned to a particular person, and
+- (b) reasonable efforts have been made, without success, to find that person, or it is for some other reason impracticable to return the item to that person,
+
+the order has effect as if it required the item to be returned to any person entitled to it.
+
+(4) Where—
+
+- (a) an item is required by a provision of this Act, or an order made under this Act, to be returned to a person entitled to it, and
+- (b) reasonable efforts have been made, without success, to find a person entitled to the item, or it is for some other reason impracticable to return the item to a person entitled to it,
+
+a relevant enforcement officer may dispose of the item in whatever way the officer thinks is suitable.
+
+(5) In this section “**the appropriate court**” means—
+
+- (a) in relation to England and Wales—
+  - (i) where the person making the application is an individual who is under the age of 18, a youth court, and
+  - (ii) in any other case, a magistrates' court;
+- (b) in relation to Scotland, the sheriff;
+- (c) in relation to Northern Ireland—
+  - (i) where the person making the application is an individual who is under the age of 18, a youth court, and
+  - (ii) in any other case, a court of summary jurisdiction.
+
+(6) The persons “entitled” to an item for the purposes of this section are—
+
+- (a) the person from whom it was seized;
+- (b) (if different) any person to whom it belongs.
+
+## Annotations
+
+[^key-5404ab502263228c4cd1b44c66aa8619]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2016/2/section/53) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

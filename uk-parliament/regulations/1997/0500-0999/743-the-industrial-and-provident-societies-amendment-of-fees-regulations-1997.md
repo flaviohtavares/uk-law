@@ -1,0 +1,114 @@
+---
+title: The Industrial and Provident Societies (Amendment of Fees) Regulations 1997
+id: uksi/1997/743
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-03-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/743
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/743/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Industrial and Provident Societies (Amendment of Fees) Regulations 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 743
+
+INDUSTRIAL AND PROVIDENT SOCIETIES
+
+The Industrial and Provident Societies (Amendment of Fees) Regulations 1997
+
+Made
+
+10th March 1997
+
+Laid before Parliament
+
+11th March 1997
+
+Coming into force
+
+1st April 1997
+
+The Treasury, in exercise of the powers conferred upon them by sections 70(1) and 71(1) of the Industrial and Provident Societies Act 1965[^f00001], and by those sections as applied by section 7(2) of the Industrial and Provident Societies Act 1967[^f00002], and of all other powers enabling them in that behalf, hereby make the following Regulations:—
+
+**1.** These Regulations may be cited as the Industrial and Provident Societies (Amendment of Fees) Regulations 1997 and shall come into force on 1st April 1997.
+
+**2.** The Industrial and Provident Societies Regulations 1965[^f00003] shall be amended by substituting for Schedule 2 thereto the following Schedule—
+
+> **SCHEDULE 2 — FEES PAYABLE FOR REGISTRATION AND SUNDRY OTHER MATTERS**
+>
+> Regulation 13
+>
+> | *Nature of Application* | *Fee Payable £* |
+> | --- | --- |
+> | **1.** For the acknowledgement of registration of a society (except as provided in paragraphs 15 or 16 of this Schedule). | 670 |
+> | **2.** For the acknowledgement of registration of an amendment of rules being a substitution of an entire set of rules for the existing set of rules (except as provided in paragraph 17 of this Schedule). | 410 |
+> | **3.** For the acknowledgement of registration of an amendment of rules not being a substitution of an entire set of rules for the existing set of rules (except that this fee shall not be payable for the acknowledgement of registration of an amendment of rules made for the purposes of section 10(2)(b) and section 11 of the Industrial and Provident Societies Act 1965). | 205 |
+> | **4.** No fee shall be payable in respect of a partial amendment of rules made solely to ensure that all members of a society enjoy equal rights. |  |
+> | **5.** For the approval of a change of name. | 160 |
+> | **6.** For the registration of a notice of change in the situation of a registered office. | 40 |
+> | **7.** For the registration of a special resolution—<br>- (a) where the special resolution relates to an amalgamation or a transfer of engagements; | 250 |
+> | - (b) where the special resolution relates to a conversion of a society to a company registered under the Companies Acts; | 515 |
+> | - (c) where the special resolution relates to the conversion of a company registered under the Companies Act to a society (as a separate fee to that applicable in relation to the acknowledgement of registration of the new society). | 50 |
+> | **8.** For the appointment of an inspector, or the calling of a special meeting by the Chief Registrar or the Assistant Registrar for Scotland. | 205 |
+> | **9.** For the registration of an instrument of dissolution or alteration therein. | 260 |
+> | **10.** On every direction for division or appropriation of the assets of a society—<br>- (a) where the value of the assets is £1,000 or less, 20 per cent of that value.<br>- (b) where the value of the assets exceeds £1,000, £200 with an additional £10 for every £100 or part thereof in excess of £1,000. |  |
+> | **11.** For every document (except as otherwise provided) required to be signed by a Registrar or to bear the seal of the Central Office not chargeable with any other fee. | 40 |
+> | **12.** For inspection on any particular day of documents on the file kept by a Registrar under regulation 12 of these Regulations relating to a single society. | 8 |
+> | **13.** For the provision of a copy of the whole of or an extract from any document—<br>- (a) where the copy is not certified as a true copy of a document in the custody of the Registrar—<br>  - (i) where the copy does not exceed 5 pages, or for the first 5 pages of a copy which exceeds 5 pages | 3 |
+> | - (ii) for every page of a copy after the fifth page | 0.60 |
+> | - (b) where the copy is certified as provided in subparagraph (a) above (as an addition to whatever fee would be payable if the copy were not so certified). | 8 |
+> | **14.** In addition to any fee payable under paragraph 13 above, for the provision of a copy or copies of the whole of or an extract from any document by post. | 5 |
+> | **15.** For the acknowledgement of registration of a society where (except as provided in paragraph 16 of this Schedule)—<br>- (a) the society’s rules are in the form of model rules and the application for the registration is made through and endorsed by the association or body which has sponsored the rules contained in the said model; | 90 |
+> | - (b) the society’s rules are in the form of model rules but with up to a maximum of six amendments to such model rules and the application for the registration is made through and endorsed by the association or body which has sponsored the rules contained in the said model. | 310 |
+> | **16.** No fee shall be payable for the acknowledgement of registration of a society which applies for registration in accordance with section 84A of the Friendly Societies Act 1974[^f00004]. |  |
+> | **17.** For the acknowledgement of registration of an amendment of rules being a substitution of an entire set of rules for the existing set of rules where:<br>- (a) the entire set of rules are in the form of model rules and where the application for registration is made through and endorsed by the association or body which has sponsored the rules contained in the said model; | 90 |
+> | - (b) the entire set of rules are in the form of model rules but with up to a maximum of six amendments to such model rules and where the application for registration is made through and endorsed by the association or body which has sponsored the rules contained in the said model. | 295 |
+> | **18.** For the registration of an annual return for a year of account ended on or after 31 August 1995. | 25 |
+> | **19.** No fee shall be payable in respect of the examination or authentication of copies of rules or amendments of rules to be used for recording under section 8 of the Industrial and Provident Societies Act 1965. |  |
+> | **20.** For the approval of a form of model rules submitted by a sponsoring association or body. | 670 |
+> | **21.** For the approval of a form of model rules submitted by a sponsoring association or body, such form of model rules being based upon an already approved form of model rules and containing a maximum of six amendments to such approved model rules. | 205 |
+> | **22.** For the registration of an application to cancel the registration of a society. | 40 |
+
+**3.** The Industrial and Provident Societies Regulations 1967[^f00005] are hereby amended by substitution of “£52” for “£50” in regulation 5.
+
+**4.** The Industrial and Provident Societies (Amendment of Fees) Regulations 1996[^f00006] are hereby revoked.
+
+Patrick McLoughlin
+
+Richard Ottaway
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+10th March 1997
+
+(This note is not part of the Regulations)
+
+These regulations supersede the Industrial and Provident Societies (Amendment of Fees) Regulations 1996. They generally increase, by an average of 3%, the fees to be paid for matters to be transacted under the Industrial and Provident Societies Acts 1965 and 1967.
+
+In order to clarify the fees currently charged for the replacement by a society of one set of model rules for another, the description of the relevant fees for such transactions has been reworded to provide for separate fees where the new model is used unamended and for cases where further amendments to the new model are made.
+
+A review of the cost of compliance with these Regulations has been undertaken and the resulting compliance cost assessment may be purchased from the Registry of Friendly Societies, Victory House, 30—34 Kingsway, London WC2B 6ES.
+
+## Annotations
+
+[^f00001]: Footnote: [1965 c. 12](https://www.legislation.gov.uk/ukpga/1965/12).
+
+[^f00002]: Footnote: [1967 c. 48](https://www.legislation.gov.uk/ukpga/1967/48).
+
+[^f00003]: Footnote: S.I. [1965/1995](https://www.legislation.gov.uk/uksi/1965/1995), amended by S.I. [1996/613](https://www.legislation.gov.uk/uksi/1996/613).
+
+[^f00004]: Footnote: [1974 c. 46](https://www.legislation.gov.uk/ukpga/1974/46); section 84A was inserted by paragraph 32 of Schedule 16 to the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40).
+
+[^f00005]: Footnote: S.I. [1967/1310](https://www.legislation.gov.uk/uksi/1967/1310), amended by S.I. [1996/613](https://www.legislation.gov.uk/uksi/1996/613).
+
+[^f00006]: Footnote: S.I. [1996/613](https://www.legislation.gov.uk/uksi/1996/613).

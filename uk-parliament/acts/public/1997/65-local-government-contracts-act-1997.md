@@ -1,0 +1,306 @@
+---
+title: Local Government (Contracts) Act 1997
+id: ukpga/1997/65
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1997-11-27'
+text_date: '2015-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1997/65
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1997/65/pdfs/ukpga_19970065_en.pdf
+- http://www.legislation.gov.uk/ukpga/1997/65/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government (Contracts) Act 1997
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2015-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/65
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Local Government (Contracts) Act 1997
+
+1997 c. 65
+
+An Act to make provision about the powers of local authorities (including probation committees and the Receiver for the Metropolitan Police District) to enter into contracts; to enable expenditure of local authorities making administrative arrangements for magistrates’ courts to be treated for some purposes as not being capital expenditure; and for connected purposes.
+
+\[27th November 1997\] [^c8777691]
+
+[^c8777701]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a9924928536c81d0196b90b326fc3369][^key-f93b535f1f5b8a3180e2fd52eb699be2][^key-a5d65927368dd3332ce6978ef56b2268]
+
+## Contracts for provision of assets or services
+
+### 1. Functions to include power to enter into contracts.
+
+(1) Every statutory provision conferring or imposing a function on a local authority confers power on the local authority to enter into a contract with another person for the provision or making available of assets or services, or both, (whether or not together with goods) for the purposes of, or in connection with, the discharge of the function by the local authority.
+
+(2) Where—
+
+- (a) a local authority enters into a contract such as is mentioned in subsection (1) (“**the provision contract**”) under any statutory provision, and
+- (b) in connection with the provision contract, a person (“**the financier**”) makes a loan to, or provides any other form of finance for, a party to the provision contract other than the local authority,
+
+the statutory provision also confers power on the local authority to enter into a contract with the financier, or any insurer of or trustee for the financier, in connection with the provision contract.
+
+(3) The following are local authorities for the purposes of this Act—
+
+- (a) any authority with respect to the finances of which Part IV of the *(affected by repeal, see note)*[^key-e53a9ecd0799c4460bd670a786334178] [^c877771]Local Government and Housing Act 1989 *(affected by repeal, see note)*[^key-e53a9ecd0799c4460bd670a786334178] Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance) has effect at the time in question,
+- (b) any probation committee,
+- (c) the Receiver for the Metropolitan Police District, and
+- (d) any local authority or joint board as defined in section 235(1) of the [^c8777721]Local Government (Scotland) Act 1973.
+
+(4) In this Act “**assets**” means assets of any description (whether tangible or intangible), including (in particular) land, buildings, roads, works, plant, machinery, vehicles, vessels, apparatus, equipment and computer software.
+
+(5) Regulations may be made amending subsection (4).
+
+## Certified contracts
+
+### 2. Certified contracts to be intra vires.[^c8777771]
+
+(1) Where a local authority has entered into a contract, the contract shall, if it is a certified contract, have effect (and be deemed always to have had effect) as if the local authority had had power to enter into it (and had exercised that power properly in entering into it).
+
+(2) For the purposes of this Act a contract entered into by a local authority is a certified contract if (and, subject to subsections (3) and (4), only if) the certification requirements have been satisfied by the local authority with respect to the contract and they were so satisfied before the end of the certification period.
+
+(3) A contract entered into by a local authority shall be treated as a certified contract during the certification period if the contract provides that the certification requirements are intended to be satisfied by the local authority with respect to the contract before the end of that period.
+
+(4) Where a local authority has entered into a contract which is a certified contract (“**the existing contract**”) and the existing contract is replaced by a contract entered into by it with a person or persons not identical with the person or persons with whom it entered into the existing contract, the replacement contract is also a certified contract if—
+
+- (a) the period for which it operates or is intended to operate ends at the same time as the period for which the existing contract was to operate, and
+- (b) apart from that, its provisions are the same as those of the existing contract.
+
+(5) In this Act “**the certification period**”, in relation to a contract entered into by a local authority, means the period of six weeks beginning with the day on which the local authority entered into the contract.
+
+(6) Subsection (1) is subject to section 5 (special provisions about judicial reviews and audit reviews).
+
+(7) The application of subsection (1) in relation to a contract entered into by a local authority does not affect any claim for damages made by a person who is not (and has never been) a party to the contract in respect of a breach by the local authority of any duty to do, or not to do, something before entering into the contract (including, in particular, any such duty imposed by a statutory provision for giving effect to any EU[^key-7d7ab3629616c4f1889d87accb56427b] obligation relating to public procurement or by section 17(1) of the [^c8777781]Local Government Act 1988).
+
+### 3. The certification requirements.[^c8777791]
+
+(1) In this Act “**the certification requirements**”, in relation to a contract entered into by a local authority, means the requirements specified in subsections (2) to (4).
+
+(2) The requirement specified in this subsection is that the local authority must have issued a certificate (whether before or after the contract is entered into)—
+
+- (a) including details of the period for which the contract operates or is to operate,
+- (b) describing the purpose of the contract,
+- (c) containing a statement that the contract is or is to be a contract falling within section 4(3) or (4),
+- (d) stating that the local authority had or has power to enter into the contract and specifying the statutory provision, or each of the statutory provisions, conferring the power,
+- (e) stating that a copy of the certificate has been or is to be given to each person to whom a copy is required to be given by regulations,
+- (f) dealing in a manner prescribed by regulations with any matters required by regulations to be dealt with in certificates under this section, and
+- (g) confirming that the local authority has complied with or is to comply with any requirement imposed by regulations with respect to the issue of certificates under this section.
+
+(3) The requirement specified in this subsection is that the local authority must have secured that the certificate is signed by any person who is required by regulations to sign it.
+
+(4) The requirement specified in this subsection is that the local authority must have obtained consent to the issue of a certificate under this section from each of the persons with whom the local authority has entered, or is to enter, into the contract.
+
+### 4. Certified contracts: supplementary.[^c8777801]
+
+(1) Where the certification requirements have been satisfied in relation to a contract by a local authority, the certificate which has been issued shall have effect (and be deemed always to have had effect) as if the local authority had had power to issue it (and had exercised that power properly in issuing it); and a certificate which has been so issued is not invalidated by reason that anything in the certificate is inaccurate or untrue.
+
+(2) Where the certification requirements have been satisfied in relation to a contract by a local authority within section 1(3)(a) or (d), the local authority shall secure that throughout the period for which the contract operates—
+
+- (a) a copy of the certificate which has been issued is open to inspection by members of the public at all reasonable times without payment, and
+- (b) members of the public are afforded facilities for obtaining copies of that certificate on payment of a reasonable fee.
+
+(3) A contract entered into by a local authority falls within this subsection if—
+
+- (a) it is entered into with another person for the provision or making available of services (whether or not together with assets or goods) for the purposes of, or in connection with, the discharge by the local authority of any of its functions, and
+- (b) it operates, or is intended to operate, for a period of at least five years.
+
+(4) A contract entered into by a local authority falls within this subsection if it is entered into, in connection with a contract falling within subsection (3), with—
+
+- (a) a person who, in connection with that contract, makes a loan to, or provides any other form of finance for, a party to that contract other than the local authority, or
+- (b) any insurer of or trustee for such a person.
+
+(5) Regulations may be made amending subsection (3) or (4).
+
+### 5. Special provision for judicial reviews and audit reviews.[^c8777811]
+
+(1) Section 2(1) does not apply for the purposes of determining any question arising on—
+
+- (a) an application for judicial review, or
+- (b) an audit review,
+
+as to whether a local authority had power to enter into a contract (or exercised any power properly in entering into a contract).
+
+(2) Section 2(1) has effect subject to any determination or order made in relation to a certified contract on—
+
+- (a) an application for judicial review, or
+- (b) an audit review.
+
+(3) Where, on an application for judicial review or an audit review relating to a certified contract entered into by a local authority, a court—
+
+- (a) is of the opinion that the local authority did not have power to enter into the contract (or exercised any power improperly in entering into it), but
+- (b) (having regard in particular to the likely consequences for the financial position of the local authority, and for the provision of services to the public, of a decision that the contract should not have effect) considers that the contract should have effect,
+
+the court may determine that the contract has (and always has had) effect as if the local authority had had power to enter into it (and had exercised that power properly in entering into it).
+
+(4) In this section and sections 6 and 7 references to an application for judicial review include any appeal (or further appeal) against a determination or order made on such an application.
+
+### 6. Relevant discharge terms.[^c8777821]
+
+(1) No determination or order made in relation to a certified contract on—
+
+- (a) an application for judicial review, or
+- (b) an audit review,
+
+shall affect the enforceability of any relevant discharge terms relating to the contract.
+
+(2) In this section and section 7 “**relevant discharge terms**”, in relation to a contract entered into by a local authority, means terms—
+
+- (a) which have been agreed by the local authority and any person with whom the local authority entered into the contract,
+- (b) which either form part of the contract or constitute or form part of another agreement entered into by them not later than the day on which the contract was entered into, and
+- (c) which provide for a consequence mentioned in subsection (3) to ensue in the event of the making of a determination or order in relation to the contract on an application for judicial review or an audit review.
+
+(3) Those consequences are—
+
+- (a) the payment of compensatory damages (measured by reference to loss incurred or loss of profits or to any other circumstances) by one of the parties to the other,
+- (b) the adjustment between the parties of rights and liabilities relating to any assets or goods provided or made available under the contract, or
+- (c) both of those things.
+
+(4) Where a local authority has agreed relevant discharge terms with any person with whom it has entered into a contract and the contract is a certified contract, the relevant discharge terms shall have effect (and be deemed always to have had effect) as if the local authority had had power to agree them (and had exercised that power properly in agreeing them).
+
+### 7. Absence of relevant discharge terms.[^c8777831]
+
+(1) Subsection (2) applies where—
+
+- (a) the result of a determination or order made by a court on an application for judicial review or an audit review is that a certified contract does not have effect, and
+- (b) there are no relevant discharge terms having effect between the local authority and a person who is a party to the contract.
+
+(2) That person shall be entitled to be paid by the local authority such sums (if any) as he would have been entitled to be paid by the local authority if the contract—
+
+- (a) had had effect until the time when the determination or order was made, but
+- (b) had been terminated at that time by acceptance by him of a repudiatory breach by the local authority.
+
+(3) For the purposes of this section the circumstances in which there are no relevant discharge terms having effect between the local authority and a person who is a party to the contract include (as well as circumstances in which no such terms have been agreed) circumstances in which the result of a determination or order of a court, made (despite section 6(4)) on an application for judicial review or an audit review, is that such terms do not have effect.
+
+### 8. Audit reviews.[^c8777871][^c8777881]
+
+(1) In this Act “**an audit review**” means—
+
+- (a) an application or appeal under section 28 of the Local Audit and Accountability Act 2014[^key-060e08543e35c892d463a312d15a3ea7] or section 32 of the Public Audit (Wales) Act 2004[^key-48b8cfe84174a4132f740a460833624f] (application by auditor, or appeal by person objecting to accounts, for declaration as to unlawful item of account),
+- (b)[^key-5d4fac28c33be882beea73395ba91a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-5d4fac28c33be882beea73395ba91a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) consideration by the Controller of Audit of whether to make a special report to the Accounts Commission for Scotland under section 102(3) of the [^c8777931]Local Government (Scotland) Act 1973 (reports to Commission by Controller of Audit),
+- (e) consideration by the Accounts Commission for Scotland of whether to send a special report to the Secretary of State under section 103(3) of that Act (action by Commission on reports by Controller of Audit), or
+- (f) consideration by the Court of Session of a case stated under section 103(2)(c) of that Act (Commission may state case on a question of law for opinion of Court of Session),
+
+or any appeal (or further appeal) against a decision made on an application referred to in paragraph (a) or on an appeal referred to in that paragraph[^key-29c9f32df2baca88fa215db541e7dcba] .
+
+(2)[^key-a17c914b72a5f7e67abf7c9550f2578b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Contracting out of functions in connection with certified contracts.[^c8777961]
+
+(1) An authorisation given by virtue of an order under section 70 of the [^c8777971]Deregulation and Contracting Out Act 1994 (authorisation by local authority of exercise by another person of functions of authority for period not exceeding ten years) may specify that it is to be for a period exceeding ten years if it is given in connection with a certified contract.
+
+(2) But an authorisation given in connection with a certified contract may not by virtue of subsection (1) specify that it is to be for a period exceeding the shorter of—
+
+- (a) the period for which the contract is to operate, and
+- (b) forty years.
+
+(3) For the purposes of this section an authorisation is given in connection with a certified contract if—
+
+- (a) the authority by which it is given is a local authority for the purposes of this Act,
+- (b) the authority and the authorised person are parties to the contract, and
+- (c) the authorisation is given to enable the authorised person to perform or better perform his obligations under the contract.
+
+## Grants relating to expenditure in respect of magistrates’ courts
+
+*Extent: E+W*
+
+### 10. Power to treat expenditure as not being capital expenditure.[^key-f2d51870f0d01f263474b7553d60256e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Supplementary
+
+### 11. Regulations.
+
+(1) Any power to make regulations under this Act is exercisable by the Secretary of State by statutory instrument and may be exercised so as to make different provision for different purposes or for different cases (including different provision for different areas).
+
+(2) No regulations shall be made under section 4(5) unless a draft of the statutory instrument containing them has been laid before and approved by a resolution of each House of Parliament.
+
+(3) Subject to that, a statutory instrument containing regulations under this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 12. Short title, commencement and extent.
+
+(1) This Act may be cited as the Local Government (Contracts) Act 1997.
+
+(2)[^c8777991] Sections 2 to 9 shall not come into force until a day appointed by the Secretary of State by order made by statutory instrument; and different days may be appointed for different provisions or purposes.
+
+(3) Sections 1 to 9 apply to any contract which a local authority enters into after 12th June 1997; but in relation to a contract entered into before the day on which section 2 comes into force “**the certification period**” means the period of six weeks beginning with that day.
+
+(4)[^key-77d3705a3e68f6f8d3c720e3e1334dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) This Act does not extend to Northern Ireland.
+
+## Annotations
+
+[^c8777691]: Modification: Act: power to apply conferred (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 39](https://www.legislation.gov.uk/ukpga/1998/38/section/39); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
+
+    Act applied (with modifications)(1.7.1999) by [S.I. 1999/1545](https://www.legislation.gov.uk/uksi/1999/1545), [art. 2](https://www.legislation.gov.uk/uksi/1999/1545/article/2)
+
+    Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c8777701]: Extent: Act extends to Great Britain but see [s. 12(4)(5)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/4/5) for exception.
+
+[^key-a9924928536c81d0196b90b326fc3369]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/65) applied (S.) (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 1 para. 16(1)(b)](https://www.legislation.gov.uk/asp/2005/12/schedule/1/paragraph/16/1/b); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+
+[^key-f93b535f1f5b8a3180e2fd52eb699be2]: Modification: Act: power to apply (with modifications) conferred by Government of Wales Act 2006 (c. 32), s. 59(5) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+
+[^key-a5d65927368dd3332ce6978ef56b2268]: Modification: Act: power to apply (with modifications) inserted by Government of Wales Act 2006 (c. 32), s. 27, Sch. 2 para. 4(7) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+
+[^key-e53a9ecd0799c4460bd670a786334178]: Textual amendment: Words in s. 1(3)(a) substituted (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 7 para. 64](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/64); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I); S.I. 2003/2938, art. 7(a) (with art. 8, Sch.)
+
+[^c877771]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^c8777721]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c8777771]: Commencement: S. 2 wholly in force; s. 2 not in force at Royal Assent see s. 12(2); s. 2 in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2843/article/2/2); s. 2 in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2878/article/2/2)
+
+[^key-7d7ab3629616c4f1889d87accb56427b]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+
+[^c8777781]: Marginal citation: [1988 c. 9](https://www.legislation.gov.uk/ukpga/1988/9).
+
+[^c8777791]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/1997/65/section/3) wholly in force; [s. 3](https://www.legislation.gov.uk/ukpga/1997/65/section/3) not in force at Royal Assent see [s. 12(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/2); [s. 3(2)(e)(f)(3)](https://www.legislation.gov.uk/ukpga/1997/65/section/3/2/e/f/3) in force at 1.12.1997 for certain purposess and s. 3 in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2](https://www.legislation.gov.uk/uksi/1997/2843/article/2); [s. 3(2)(e)(f)(3)](https://www.legislation.gov.uk/ukpga/1997/65/section/3/2/e/f/3) in force at 2.12.1997 for certain purposess and s. 3 in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2](https://www.legislation.gov.uk/uksi/1997/2878/article/2)
+
+[^c8777801]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/1997/65/section/4) wholly in force; [s. 4](https://www.legislation.gov.uk/ukpga/1997/65/section/4) not in force at Royal Assent see [s. 12(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/2); [s. 4](https://www.legislation.gov.uk/ukpga/1997/65/section/4) in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2843/article/2/2); [s. 4](https://www.legislation.gov.uk/ukpga/1997/65/section/4) in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2878/article/2/2)
+
+[^c8777811]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/1997/65/section/5) wholly in force; [s. 5](https://www.legislation.gov.uk/ukpga/1997/65/section/5) not in force at Royal Assent see [s. 12(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/2); [s. 5](https://www.legislation.gov.uk/ukpga/1997/65/section/5) in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2843/article/2/2); [s. 5](https://www.legislation.gov.uk/ukpga/1997/65/section/5) in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2878/article/2/2)
+
+[^c8777821]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/1997/65/section/6) wholly in force; [s. 6](https://www.legislation.gov.uk/ukpga/1997/65/section/6) not in force at Royal Assent see [s. 12(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/2); [s. 6](https://www.legislation.gov.uk/ukpga/1997/65/section/6) in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2843/article/2/2); [s. 6](https://www.legislation.gov.uk/ukpga/1997/65/section/6) in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2878/article/2/2)
+
+[^c8777831]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/1997/65/section/7) wholly in force; [s. 7](https://www.legislation.gov.uk/ukpga/1997/65/section/7) not in force at Royal Assent see [s. 12(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/2); [s. 7](https://www.legislation.gov.uk/ukpga/1997/65/section/7) in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2843/article/2/2); [s. 7](https://www.legislation.gov.uk/ukpga/1997/65/section/7) in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2878/article/2/2)
+
+[^c8777871]: Commencement: S. 8 wholly in force; s. 8 not in force at Royal Assent see s. 12(2); s. 8 in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2843/article/2/2); s. 8 in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2878/article/2/2)
+
+[^c8777881]: Extent: This version of this provision extends to England and Wales; a separate version has been created for Scotland only
+
+[^key-060e08543e35c892d463a312d15a3ea7]: Textual amendment: Words in [s. 8(1)(a)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1/a) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/2/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+
+[^key-48b8cfe84174a4132f740a460833624f]: Textual amendment: Words in s. 8(1)(a) inserted (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 20(a)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/20/a); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)
+
+[^key-5d4fac28c33be882beea73395ba91a89]: Textual amendment: [S. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1/b)[(c)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1/c) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(2)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/2/b); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+
+[^c8777931]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^key-29c9f32df2baca88fa215db541e7dcba]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(2)(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/2/c); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+
+[^key-a17c914b72a5f7e67abf7c9550f2578b]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/2) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+
+[^c8777961]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/1997/65/section/9) wholly in force; [s. 9](https://www.legislation.gov.uk/ukpga/1997/65/section/9) not in force at Royal Assent see [s. 12(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/2); [s. 9](https://www.legislation.gov.uk/ukpga/1997/65/section/9) in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2843/article/2/2); [s. 9](https://www.legislation.gov.uk/ukpga/1997/65/section/9) in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2878/article/2/2)
+
+[^c8777971]: Marginal citation: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).
+
+[^key-f2d51870f0d01f263474b7553d60256e]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1997/65/section/10) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+
+[^c8777991]: Subordinate legislation: S. 12(2) power partly exercised (28.11.1997): different dates appointed for specified provisions by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843)
+
+    S. 12(2) power partly exercised (1.12.1997): different dates appointed for specified provisions by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2](https://www.legislation.gov.uk/uksi/1997/2878/article/2)
+
+[^key-77d3705a3e68f6f8d3c720e3e1334dbc]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/4) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)

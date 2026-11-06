@@ -1,0 +1,77 @@
+---
+title: The South Buckinghamshire National Health Service Trust (Establishment) Amendment Order 2002
+id: uksi/2002/1490
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-03-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/1490
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/1490/pdfs/uksi_20021490_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/1490/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The South Buckinghamshire National Health Service Trust (Establishment) Amendment Order 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 1490
+
+NATIONAL HEALTH SERVICE, ENGLAND
+
+The South Buckinghamshire National Health Service Trust (Establishment) Amendment Order 2002
+
+Made
+
+25th March 2002
+
+Coming into force
+
+1st April 2002
+
+The Secretary of State for Health, in exercise of the powers conferred on him by section 126(3) and (4) of the National Health Service Act 1977[^f00001] and section 5(1) of the National Health Service and Community Care Act 1990[^f00002] and of all other powers enabling him in that behalf, having completed the consultation prescribed under section 5(2) of that latter Act[^f00003], hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the South Buckinghamshire National Health Service Trust (Establishment) Amendment Order 2002 and shall come into force on 1st April 2002.
+
+(2) In this Order—
+
+- “the Order” means the South Buckinghamshire National Health Service Trust (Establishment) Order 1992[^f00004];
+- “the trust” means the National Health Service trust established by the Order.
+
+## 2. Amendment of article 3 of the Order
+
+In paragraph (2) of article 3 of the Order (nature and functions of the trust) the words “and community health services” are deleted.
+
+Signed by authority of the Secretary of State for Health
+
+Hazel Blears
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+25th March 2002
+
+(This note is not part of the Order)
+
+This Order amends the South Buckinghamshire National Health Service Trust (Establishment) Order 1992, which established the South Buckinghamshire National Health Service Trust.
+
+Article 2 of the Order amends article 3 of the Establishment Order (nature and functions of the trust) so that the trust no longer can provide community health services.
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 126(3) and (4) was amended by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), section 65(2), by the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17) (“the 1995 Act”), Schedule 1, paragraph 57, by the National Health Service (Primary Care) Act [1997 (c. 19)](https://www.legislation.gov.uk/ukpga/1997/19), Schedule 2, paragraph 27 and by the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), Schedule 4, paragraph 37.
+
+[^f00002]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19); section 5 was amended by the 1995 Act, Schedule 1, paragraph 69 and by the 1999 Act, section 13(1).
+
+[^f00003]: Footnote: *See* [S.I. 1996/653](https://www.legislation.gov.uk/uksi/1996/653), regulation 2.
+
+[^f00004]: Footnote: [S.I. 1992/2575](https://www.legislation.gov.uk/uksi/1992/2575) as amended by [S.I. 1996/988](https://www.legislation.gov.uk/uksi/1996/988) and [2001/1224](https://www.legislation.gov.uk/uksi/2001/1224).

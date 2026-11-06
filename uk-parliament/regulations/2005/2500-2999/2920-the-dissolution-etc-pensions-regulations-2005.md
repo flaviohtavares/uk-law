@@ -1,0 +1,261 @@
+---
+title: The Dissolution etc (Pensions) Regulations 2005
+id: uksi/2005/2920
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-10-18'
+text_date: '2016-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2920
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2920/pdfs/uksiem_20052920_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2920/pdfs/uksi_20052920_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2920/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dissolution etc (Pensions) Regulations 2005
+
+> Text as at 2016-04-06.
+
+2005 No. 2920
+
+FAMILY LAW, ENGLAND AND WALES
+
+PENSIONS, ENGLAND AND WALES
+
+CIVIL PARTNERSHIP, ENGLAND AND WALES
+
+The Dissolution etc (Pensions) Regulations 2005
+
+Made
+
+18th October 2005
+
+Laid before Parliament
+
+25th October 2005
+
+Coming into force
+
+5th December 2005
+
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by paragraphs 19(2), 27(c), 28 and 57(3) of Schedule 5, and paragraph 14(4) of Schedule 7 to, the Civil Partnership Act 2004 [^c1232204]:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Dissolution etc (Pensions) Regulations 2005 and shall come into force on 5th December 2005.
+
+## 2. Interpretation
+
+In these Regulations:
+
+- (a) a reference to a section or Schedule by number alone means the section or Schedule so numbered in the Civil Partnership Act 2004;
+- (b) “**the Act of 2004**” means the Civil Partnership Act 2004;
+- (c) “**the other civil partner**” means the party to the civil partnership who is not the civil partner with pension rights;
+- (d) expressions defined in paragraph 16 and 29 of Schedule 5 have the meanings assigned by those paragraphs;
+- (e) every reference to a rule by number alone means the rule so numbered in the Family Proceedings Rules 1991 *(affected by repeal, see note)*[^key-231caf9bf19467709595548740cdee4d]Family Procedure Rules 2010 *(affected by repeal, see note)*[^key-231caf9bf19467709595548740cdee4d].
+
+## 3. Valuation
+
+(1) For the purposes of the court's functions in connection with the exercise of any of its powers under Schedule 5 to the Act of 2004, benefits under a pension arrangement shall be calculated and verified in the manner set out in regulation 3 of the Pensions on Divorce etc (Provision of Information) Regulations 2000 [^c1232206], and—
+
+- (a) the benefits shall be valued as at a date to be specified by the court (being not earlier than one year before the date of the petition and not later than the date on which the court is exercising its power);
+- (b) in determining that value the court may have regard to information furnished by the person responsible for the pension arrangement pursuant to any of the provisions set out in paragraph (2); and
+- (c) in specifying a date under sub-paragraph (a) the court may have regard to the date specified in any information furnished as mentioned in sub-paragraph (b).
+
+(2) The relevant provisions for the purposes of paragraph (1)(b) are:
+
+- (a) the Pensions on Divorce etc (Provision of Information) Regulations 2000;
+- (b) regulation 5 of and Schedule 2 to the Occupational Pension Schemes (Disclosure of Information) Regulations 1996 [^c1232207] and regulation 11 of and Schedule 1 to the Occupational Pension Schemes (Transfer Value) Regulations 1996 [^c1232208];
+- (c) sections 93A and 94(1)[^key-d0faa3bad8bd8b842a89ea5eae1ecc60] of the Pension Schemes Act 1993 [^c1232209];
+- (d) section 94(2)[^key-447bcdee3100a64e7ce3761af95637c0] of the Pension Schemes Act 1993 or paragraph 2(a) (or, where applicable, 2(b)) of Schedule 2 to the Personal Pension Schemes (Disclosure of Information) Regulations 1987 [^c1232210].
+
+## 4. Pension attachment: notices
+
+(1) This regulation applies in the circumstances set out in sub-paragraphs (a) and (b) of paragraph 27 of Schedule 5 (transfers of pension rights).
+
+(2) Where this regulation applies, the person responsible for the first arrangement must give notice in accordance with the following paragraphs of this regulation to—
+
+- (a) the person responsible for the new arrangement, and
+- (b) the other civil partner.
+
+(3) The notice to the person responsible for the new arrangement shall include copies of the following documents—
+
+- (a) every order made under Part 1 of Schedule 5 imposing any requirement on the person responsible for the first arrangement in relation to the rights transferred;
+- (b) any order varying such an order;
+- (c) all information or particulars which the other civil partner has been required to supply under any provision of rule 2.70 *(affected by repeal, see note)*[^key-3fa040a3d4057c2894ed37cccb54e505]rule 9.33 or 9.34 *(affected by repeal, see note)*[^key-3fa040a3d4057c2894ed37cccb54e505] for the purpose of enabling the person responsible for the first arrangement—
+  - (i) to provide information, documents or representations to the court to enable it to decide what if any requirement should be imposed on that person; or
+  - (ii) to comply with any order imposing such a requirement;
+- (d) any notice given by the other civil partner to the person responsible for the first arrangement under regulation 6; and
+- (e) where the pension rights under the first arrangement were derived wholly or partly from rights held under a previous pension arrangement, any notice given to the person responsible for the previous arrangement under paragraph (2) on the occasion of that acquisition of rights.
+
+(4) The notice to the other civil partner must contain the following particulars—
+
+- (a) the fact that the pension rights have been transferred;
+- (b) the date on which the transfer takes effect;
+- (c) the name and address of the person responsible for the new arrangement;
+- (d) the fact that the order made under Part 1 of Schedule 5 is to have effect as if it had been made in respect of the person responsible for the new arrangement.
+
+(5) Both notices must be given—
+
+- (a) within the period provided by section 99 of the Pension Schemes Act 1993 [^c1232211] for the person responsible for the first arrangement to carry out what the member requires; and
+- (b) before the expiry of 21 days after the person responsible for the first arrangement has made all required payments to the person responsible for the new arrangement.
+
+## 5. Pension attachment: reduction in benefits
+
+(1) This regulation applies where—
+
+- (a) an order under Part 1 of Schedule 5 or under paragraph 9 of Schedule 7 has been made by virtue of Part 6 of Schedule 5 imposing any requirement on the person responsible for a pension arrangement;
+- (b) an event has occurred which is likely to result in a significant reduction in the benefits payable under the arrangement, other than:
+  - (i) the transfer from the arrangement of all the rights of the civil partner with pension rights in the circumstances set out in sub-paragraphs (a) and (b) of paragraph 27 of Schedule 5, or
+  - (ii) a reduction in the value of assets held for the purposes of the arrangement by reason of a change in interest rates or other market conditions.
+
+(2) Where this regulation applies, the person responsible for the arrangement must, within 14 days of the occurrence of the event mentioned in paragraph (1)(b), give notice to the other civil partner of—
+
+- (a) that event;
+- (b) the likely extent of the reduction in the benefits payable under the arrangement.
+
+(3) Where the event mentioned in paragraph 1(b) consists of a transfer of some but not all of the rights of the civil partner with pension rights from the arrangement, the person responsible for the first arrangement must, within 14 days of the transfer, give notice to the other civil partner of the name and address of the person responsible for any pension arrangement under which the civil partner with pension rights has acquired rights as a result of that event.
+
+## 6. Pension attachment: change of circumstances
+
+(1) This regulation applies where—
+
+- (a) an order under Part 1 of Schedule 5 or under paragraph 9 of Schedule 7 has been made by virtue of Part 6 of Schedule 5 imposing any requirement on the person responsible for a pension arrangement; and
+- (b) any of the events set out in paragraph (2) has occurred.
+
+(2) Those events are—
+
+- (a) any of the particulars supplied by the other civil partner under rule 2.70 *(affected by repeal, see note)*[^key-b72cc82320a82d76b38c00842e23c92f]rule 9.33 or 9.34 *(affected by repeal, see note)*[^key-b72cc82320a82d76b38c00842e23c92f] for any purpose mentioned in regulation 4(3)(c) has ceased to be accurate; or
+- (b) by reason of the formation of a subsequent civil partnership or marriage by the other civil partner or otherwise, the order has ceased to have effect.
+
+(3) Where this regulation applies, the other civil partner must, within 14 days of the event, give notice of it to the person responsible for the pension arrangement.
+
+(4) Where, because of the inaccuracy of the particulars supplied by the other civil partner under rule 2.70 *(affected by repeal, see note)*[^key-59adec994512449e1186fbf5f39ff5fd]rule 9.33 or 9.34 *(affected by repeal, see note)*[^key-59adec994512449e1186fbf5f39ff5fd] or because the other civil partner has failed to give notice of their having ceased to be accurate, it is not reasonably practicable for the person responsible for the pension arrangement to make a payment to the other civil partner as required by the order—
+
+- (a) it may instead make that payment to the civil partner with pension rights, and
+- (b) it shall then be discharged of liability to the other civil partner to the extent of that payment.
+
+(5) Where an event set out in paragraph 2(b) has occurred and, because the other civil partner has failed to give notice in accordance with paragraph (3), the person responsible for the pension arrangement makes a payment to the other civil partner as required by the order—
+
+- (a) its liability to the civil partner with pension rights shall be discharged to the extent of that payment, and
+- (b) the other civil partner must, within 14 days of the payment being made, make a payment to the civil partner with pension rights to the extent of that payment.
+
+## 7. Pension attachment: transfer of rights
+
+(1) This regulation applies where—
+
+- (a) a transfer of rights has taken place in the circumstances set out in sub-paragraphs (a) and (b) of paragraph 27 of Schedule 5;
+- (b) notice has been given in accordance with regulation 4(2)(a) and (b);
+- (c) any of the events set out in regulation 6(2) has occurred; and
+- (d) the other civil partner has not, before receiving notice under regulation 4(2)(b), given notice of that event to the person responsible for the first arrangement under regulation 6(3).
+
+(2) Where this regulation applies, the other civil partner must, within 14 days of the event, give notice of it to the person responsible for the new arrangement.
+
+(3) Where, because of the inaccuracy of the particulars supplied by the other civil partner under rule 2.70 *(affected by repeal, see note)*[^key-474fbf17834d43a90120a49e507453e3]rule 9.33 or 9.34 *(affected by repeal, see note)*[^key-474fbf17834d43a90120a49e507453e3] for any purpose mentioned in regulation 4(3)(c) or because the other civil partner has failed to give notice of their having ceased to be accurate, it is not reasonably practicable for the person responsible for the new arrangement to make a payment to the other civil partner as required by the order—
+
+- (a) it may instead make that payment to the civil partner with pension rights, and
+- (b) it shall then be discharged of liability to the other civil partner to the extent of that payment.
+
+(4) Subject to paragraph (5), where this regulation applies and the other civil partner, within one year from the transfer, gives to the person responsible for the first arrangement notice of the event set out in regulation 6(2) in purported compliance with regulation 7(2), the person responsible for the first arrangement must—
+
+- (a) send that notice to the person responsible for the new arrangement, and
+- (b) give the other civil partner a second notice under regulation 4(2)(b);
+
+and the other civil partner shall be deemed to have given notice under regulation 7(2) to the person responsible for the new arrangement.
+
+(5) Upon complying with paragraph (4), the person responsible for the first arrangement shall be discharged from any further obligation under regulation 4 or 7(4), whether in relation to the event in question or any further event set out in regulation 6(2) which may be notified to it by the other civil partner.
+
+## 7A. Pension attachment: discharge of liability of the Board[^M_F_bf348dc1-1a26-4bbd-ce50-6abacc1eb6a1]
+
+(1) This regulation applies where—
+
+- (a) the Board has assumed responsibility for a pension arrangement as mentioned in paragraph 37(2) of Schedule 5;
+- (b) the Board has given notice that it has so assumed responsibility to members and beneficiaries of the pension arrangement in compliance with regulation 3(6) of the Pension Protection Fund (Provision of Information) Regulations 2005.
+
+(2) Where—
+
+- (a) any of the events set out in regulation 6(2) have occurred; and
+- (b) the other civil partner has not, before receiving the notice referred to in (1)(b) above, given notice of that event to the person responsible for the pension arrangement in accordance with regulation 6(3),
+
+the other civil partner shall, within 14 days of the event, give notice of it to the Board.
+
+(3) Paragraph (4) applies where it is not reasonably practicable for the Board to make a payment to the other civil partner as required by the order because—
+
+- (a) of the inaccuracy of the particulars supplied by the other civil partner under rule 2.70 *(affected by repeal, see note)*[^key-8317766373e3262fff6b64833c1293d8]rule 9.33 or 9.34 *(affected by repeal, see note)*[^key-8317766373e3262fff6b64833c1293d8] for any purpose mentioned in regulation 4(3)(c); or
+- (b) the other civil partner has failed to give notice that the particulars have ceased to be accurate.
+
+(4) Where this paragraph applies, the Board—
+
+- (a) may instead make the payment due to the other civil partner to the civil partner entitled to PPF compensation; and
+- (b) shall then be discharged of liability to the other civil partner to the extent of that payment.
+
+(5) Where an event set out in regulation 6(2)(b) has occurred and, because the other civil partner has failed to give notice in accordance with paragraph (2), the Board makes a payment to the other civil partner as required by the order—
+
+- (a) its liability to the civil partner entitled to PPF compensation shall be discharged to the extent of that payment; and
+- (b) the other civil partner shall, within 14 days of the payment being made, make a payment to the civil partner entitled to PPF compensation to the extent of that payment.
+
+(6) In this regulation, “the Board” has the meaning given in paragraph 37 of Schedule 5 and “ PPF compensation” has the meaning given in paragraph 30(3) of that Schedule.
+
+## 8. Service
+
+A notice under regulation 4, 5, 6 ,7 or 7A[^M_F_62fa766c-82d6-498c-dbf0-bcc96d06c60a] may be sent by fax or by ordinary first class post to the last known address of the intended recipient and shall be deemed to have been received on the seventh day after the day on which it was sent.
+
+## 9. Pension sharing order not to take effect pending appeal
+
+(1) No pension sharing order under Part 4 of Schedule 5 or variation of a pension sharing order under Part 11 of Schedule 5 shall take effect earlier than 7 days after the end of the period for filling notice of appeal against the order.
+
+(2) The filing of a notice of appeal within the time allowed for doing so prevents the order taking effect before the appeal has been dealt with.
+
+Falconer of Thoroton, C
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision relating to orders made under the Civil Partnership Act 2004 (c. 33), including those made after proceedings overseas, for ancillary relief in proceedings for dissolution, separation or nullity of civil partnership which relate to the pension rights of a party to the civil partnership.
+
+The Regulations provide in particular for:
+
+- (a) the valuation of pension rights by the court;
+- (b) notices of change of circumstances to be provided by the person responsible for the pension arrangement to the civil partner without pension rights, or by that civil partner to the person responsible to the pension arrangement; and
+- (c) the stay period during which pension sharing orders cannot take effect.
+
+## Annotations
+
+[^c1232204]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-231caf9bf19467709595548740cdee4d]: Textual amendment: Words in reg. 2(e) substituted (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [31](https://www.legislation.gov.uk/uksi/2011/1045/article/31) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^c1232206]: Marginal citation: [S.I. 2000/1048](https://www.legislation.gov.uk/uksi/2000/1048); there are amending instruments but none is relevant.
+
+[^c1232207]: Marginal citation: [S.I. 1996/1655](https://www.legislation.gov.uk/uksi/1996/1655); as amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786); [S.I. 1997/3038](https://www.legislation.gov.uk/uksi/1997/3038); [S.I. 1999/3198](https://www.legislation.gov.uk/uksi/1999/3198); [S.I. 2000/1403](https://www.legislation.gov.uk/uksi/2000/1403); [S.I. 2000/2691](https://www.legislation.gov.uk/uksi/2000/2691); [S.I. 2002/459](https://www.legislation.gov.uk/uksi/2002/459); [S.I. 2002/1383](https://www.legislation.gov.uk/uksi/2002/1383).
+
+[^c1232208]: Marginal citation: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847); as amended by [S.I. 2005/72](https://www.legislation.gov.uk/uksi/2005/72); there are other amending instruments but none is relevant.
+
+[^key-d0faa3bad8bd8b842a89ea5eae1ecc60]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2005/2920/regulation/3/2/c) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/8/a)
+
+[^c1232209]: Marginal citation: c. 48; section 93A was inserted by the Pensions Act 1995 section 153, subsection 1A was inserted by the Welfare Reform and Pensions Act 1999 section 84(1), Schedule 12 Part 1 paragraphs 28, 34; section 94(1)(a) was amended and sub-paragraph (aa) was inserted by the Pensions Act 1995 section 154(1), (2).
+
+[^key-447bcdee3100a64e7ce3761af95637c0]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2005/2920/regulation/3/2/d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/8/b)
+
+[^c1232210]: Marginal citation: [S.I. 1987/1110](https://www.legislation.gov.uk/uksi/1987/1110); there are amending instruments but none is relevant.
+
+[^key-3fa040a3d4057c2894ed37cccb54e505]: Textual amendment: Words in reg. 4(3)(c) substituted (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [32](https://www.legislation.gov.uk/uksi/2011/1045/article/32) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^c1232211]: Marginal citation: Section 99 was amended by the Pensions Act 1995 section 173, Schedule 6 paragraphs 6(a), (b), (c), (d), (e); the Pensions Act 2004 section 319(1), Schedule 12, paragraphs 9, 14(a), (b); section 320, Schedule 13, Part 1.
+
+[^key-b72cc82320a82d76b38c00842e23c92f]: Textual amendment: Words in reg. 6(2)(a) substituted (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [32](https://www.legislation.gov.uk/uksi/2011/1045/article/32) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^key-59adec994512449e1186fbf5f39ff5fd]: Textual amendment: Words in reg. 6(4) substituted (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [32](https://www.legislation.gov.uk/uksi/2011/1045/article/32) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^key-474fbf17834d43a90120a49e507453e3]: Textual amendment: Words in reg. 7(3) substituted (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [32](https://www.legislation.gov.uk/uksi/2011/1045/article/32) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^M_F_bf348dc1-1a26-4bbd-ce50-6abacc1eb6a1]: Textual amendment: Reg. 7A inserted (8.8.2006) by [The Dissolution etc. (Pension Protection Fund) Regulations 2006 (S.I. 2006/1934)](https://www.legislation.gov.uk/uksi/2006/1934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1934/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2006/1934/regulation/5/a)
+
+[^key-8317766373e3262fff6b64833c1293d8]: Textual amendment: Words in reg. 7A(3) substituted (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [32](https://www.legislation.gov.uk/uksi/2011/1045/article/32) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^M_F_62fa766c-82d6-498c-dbf0-bcc96d06c60a]: Textual amendment: Words in reg. 8 inserted (8.8.2006) by [The Dissolution etc. (Pension Protection Fund) Regulations 2006 (S.I. 2006/1934)](https://www.legislation.gov.uk/uksi/2006/1934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1934/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2006/1934/regulation/5/b)

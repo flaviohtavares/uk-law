@@ -1,0 +1,114 @@
+---
+title: The Police (Conduct) (Amendment) Regulations 2026
+id: uksi/2026/597
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-06-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/597
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/597/pdfs/uksiem_20260597_en_002.pdf
+- http://www.legislation.gov.uk/uksi/2026/597/pdfs/uksiem_20260597_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2026/597/pdfs/uksi_20260597_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/597/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police (Conduct) (Amendment) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 597
+
+POLICE, ENGLAND AND WALES
+
+The Police (Conduct) (Amendment) Regulations 2026
+
+Made
+
+4th June 2026
+
+Laid before Parliament
+
+9th June 2026
+
+Coming into force
+
+30th June 2026
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 50(1) and (2)(e) and 51(1) and (2)(ba) of the Police Act 1996[^f00001].
+
+In accordance with section 63(3)(a) of the Police Act 1996[^f00002], the Secretary of State has supplied the Police Advisory Board for England and Wales with a draft of these Regulations and has taken into consideration the representations made by that Board before making these Regulations.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Police (Conduct) (Amendment) Regulations 2026 and come into force on 30th June 2026.
+
+(2) These Regulations extend to England and Wales.
+
+## 2. Amendment of the Police (Conduct) Regulations 2020
+
+(1) The Police (Conduct) Regulations 2020[^f00003] are amended as follows.
+
+(2) In Schedule 2 (standards of professional behaviour), for the fifth paragraph (use of force) substitute—
+
+> - Police officers only use force when they honestly believe this to be necessary. The force used should be necessary, proportionate and reasonable.
+
+.
+
+## 3. Transitional provision
+
+(1) The amendment made by regulation 2 does not have effect in relation to—
+
+- (a) a pre-commencement allegation, or
+- (b) an allegation against a police officer or former police officer which—
+  - (i) relates to a matter in respect of which a pre-commencement allegation against that person has been made, and
+  - (ii) comes to the attention of a local policing body[^f00004], a chief officer of police[^f00005] or the Director General on or after 30th June 2026 at a time when the pre-commencement allegation is being handled in accordance with—
+    - (aa) the Police (Conduct) Regulations 2020 as in force before 30th June 2026, or
+    - (bb) Part 2 of the Police Reform Act 2002[^f00006].
+
+(2) In this regulation—
+
+- “**Director General**” means the Director General of the Independent Office for Police Conduct;
+- “**former police officer**” means a person who has ceased to be a member of a police force or special constable;
+- “**police officer**” means a member of a police force or special constable;
+- “**pre-commencement allegation**” means an allegation against a police officer or former police officer which came to the attention of a local policing body, a chief officer of police or the Director General before 30th June 2026.
+
+Sarah Jones
+
+Minister of State
+
+4th June 2026
+
+Home Office
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Police (Conduct) Regulations 2020 ([S.I. 2020/4](https://www.legislation.gov.uk/uksi/2020/4)) (“**the Conduct Regulations**”).
+
+Regulation 2 amends Schedule 2 to the Conduct Regulations to update the ‘use of force’ standard in the Standards of Professional Behaviour.
+
+Regulation 3 makes transitional provision. It provides that the amendment made by regulation 2 does not apply to an allegation made before these Regulations come into force, or to a later allegation that relates to the same matter where the earlier allegation is still being handled under the Conduct Regulations (as in force immediately before the coming into force of these Regulations) or under the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30).
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 51(2)(ba) was inserted by section 35 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) and amended by paragraph 4(2) in Part 1 of Schedule 22 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) (“**the 2008 Act**”).
+
+[^f00002]: Footnote: Section 63(3) was substituted by paragraph 78(3) of Schedule 4 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15). Relevant amendments to section 63(3) were made by paragraph 6(2) of Schedule 22 to the 2008 Act, section 10(3)(b) of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) and sections 123(4) and 133(2) of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
+
+[^f00003]: Footnote: [S.I. 2020/4](https://www.legislation.gov.uk/uksi/2020/4), to which there are amendments not relevant to these Regulations.
+
+[^f00004]: Footnote: For the meaning of “local policing body”, see section 101(1) of the Police Act 1996.
+
+[^f00005]: Footnote: For the meaning of “chief officer of police”, see section 101(1) of the Police Act 1996.
+
+[^f00006]: Footnote: [2002c. 30](https://www.legislation.gov.uk/ukpga/2002/30).

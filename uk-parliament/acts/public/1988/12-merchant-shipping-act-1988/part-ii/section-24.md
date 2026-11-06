@@ -1,0 +1,25 @@
+---
+title: Merchant Shipping Act 1988, section 24
+act: Merchant Shipping Act 1988
+section: '24'
+status: repealed
+text_date: '2015-05-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/12/section/24
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping Act 1988, section 24
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24. Penalties for offences under s. 22 or 23 and other provisions relating to such offences.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .

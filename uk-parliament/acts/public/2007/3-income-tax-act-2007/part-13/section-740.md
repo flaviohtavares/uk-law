@@ -1,0 +1,38 @@
+---
+title: Income Tax Act 2007, section 740
+act: Income Tax Act 2007
+section: '740'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/3/section/740
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax Act 2007, section 740
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/3
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 740. Exemption: relevant transactions include both pre-5 December 2005 and post-4 December 2005 transactions
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if the relevant transactions include both pre-5 December transactions and post-4 December transactions.
+
+(2) An individual is not liable to tax under this Chapter for the tax year by reference to the relevant transactions if—
+
+- (a) the condition in section 737(2) (exemption where all relevant transactions are post-4 December 2005 transactions) is met by reference to the post-4 December 2005 transactions, and
+- (b) the condition in section 739(2) (exemption where all relevant transactions are pre-5 December 2005 transactions) is met by reference to the pre-5 December transactions.
+
+(3) If subsection (2)(b) applies but subsection (2)(a) does not, this Chapter applies with the modifications in subsections (4) to (6).
+
+(4) For the purposes of sections 720 to 730, any income arising before 5 December 2005 must not be brought into account as income of the person abroad.
+
+(5) In determining the relevant income of an earlier tax year for the purposes of section 733(1) (see Step 4), it does not matter whether that year was a year for which the individual was not liable under section 731 because of section 739 or this section.
+
+(6) For the purposes of Step 1 in section 733(1), a benefit received by the individual in or before the tax year 2005-06 is to be left out of account.
+
+(7) But, in the case of a benefit received in the tax year 2005-06, subsection (6) applies only so far as, on a time apportionment basis, the benefit fell to be enjoyed in any part of the year that fell before 5 December 2005.

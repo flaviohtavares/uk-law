@@ -1,0 +1,241 @@
+---
+title: The Building Regulations &c. (Amendment) Regulations 2016
+id: uksi/2016/285
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-10'
+text_date: '2024-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/285
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/285/pdfs/uksiem_20160285_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/285/pdfs/uksi_20160285_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/285/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Regulations &c. (Amendment) Regulations 2016
+
+> Text as at 2024-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 285
+
+Building And Buildings, England And Wales
+
+The Building Regulations &c. (Amendment) Regulations 2016
+
+Made
+
+10th March 2016
+
+Laid before Parliament
+
+15th March 2016
+
+Coming into force in accordance with regulation 1(4) and (5)
+
+The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the environment.
+
+The Secretary of State has consulted the Building Regulations Advisory Committee for England and such other bodies as appear to be representative of the interests concerned in accordance with section 14(3) of the Building Act 1984[^f00003].
+
+The Secretary of State makes the following Regulations, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and by sections 1, 1A, 3, 8(6), 34, 35, 47(1) and 126 of, and paragraphs 1, 2, 4, 4A, 7, 8 and 10 of Schedule 1 to, the Building Act 1984.
+
+## 1. Citation, application and commencement[^key-2d3a8fd9c36a734ddedb6cf08de835d6]
+
+(1) These Regulations may be cited as the Building Regulations &c. (Amendment) Regulations 2016.
+
+(2) These Regulations extend to England and Wales.
+
+(3) These Regulations do not apply to any building in Wales other than an excepted energy building, and “excepted energy building” shall have the same meaning as in the Schedule to the Welsh Ministers (Transfer of Functions) (No.2) Order 2009[^f00004].
+
+(4) These Regulations come into force on 6th April 2016, except regulation 2(19)(b).
+
+(5) Regulation 2(19)(b) comes into force on 1st May 2016.
+
+## 2. Amendments to the Building Regulations 2010[^key-0d36c800f9151af5949d2a06853212a7][^key-9ab041527f91117edaeb559448980ec1]
+
+(1)[^key-0d36c800f9151af5949d2a06853212a7] The Building Regulations 2010[^f00005] are amended in accordance with the following paragraphs.
+
+(2)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 2(1) (interpretation)—
+
+- (a) in the definition “energy efficiency requirements” omit “, 29”; and
+- (b) omit the definition “energy performance certificate”.
+
+(3)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 10(2) (exemption of the Metropolitan Police Authority from procedural requirements) omit “, other than regulation 29,”.
+
+(4)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 11(3) (power to dispense with or relax requirements) insert “and” before “26” and omit the remainder of the paragraph after “26”.
+
+(5)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 17(2A) (completion certificates)—
+
+- (a) for subparagraph (c) substitute—
+
+  > - (c) regulation 26A (target fabric energy efficiency requirements for new dwellings);
+
+  ;
+- (b) after subparagraph (e) omit “and”; and
+- (c) after subparagraph (f) add—
+
+  > - (g) regulation 7A (energy performance certificates on construction) of the Energy Performance of Buildings (England and Wales) Regulations 2012[^f00006]
+
+  .
+
+(6)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 19(1) (supervision of building work otherwise than by local authorities) omit “29 (energy performance certificates),”.
+
+(7)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 24(2) (methodology of calculation and expression of energy performance)—
+
+- (a) in the definition “asset rating” for “a numerical indicator of” substitute “an energy performance indicator determined from”; and
+- (b) for the definition “operational rating” substitute—
+
+  > - “operational rating” means an energy performance indicator determined from the amount of energy consumed during the occupation of a building over a period of time and the energy demand associated with a typical use of the building over that period.
+
+  .
+
+(8)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 25 (minimum energy performance requirements for new buildings) after “State,” insert “calculated and expressed”.
+
+(9)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 26 (CO2 emission rates for new buildings) after “25” insert “, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24”.
+
+(10)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 26A—
+
+- (a) insert before the text of the regulation the heading “Fabric energy efficiency rates”; and
+- (b) for the words after “the dwelling” to the end of the regulation substitute “that has been approved pursuant to regulation 25, applying the methodology of calculation and expression of the energy performance of buildings approved pursuant to regulation 24”.
+
+(11)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 27 (CO2 emission rate calculations)—
+
+- (a) in paragraph (2)(a) after “building” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (b) in paragraph (2)(b) omit “calculated”, and after “designed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (c) in paragraph (3)(a)(i) after “building” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (d) in paragraph (3)(a)(ii) omit “calculated”, and after “constructed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (e) in paragraph (4) for “such certificates” substitute “energy performance certificates”.
+
+(12)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 27A (fabric energy efficiency rate calculations)—
+
+- (a) in paragraph (2)(a) after “dwelling” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (b) in paragraph (2)(b) omit “calculated”, and after “designed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (c) in paragraph (3)(a)(i) after “dwelling” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (d) in paragraph (3)(a)(ii) omit “calculated”, and after “constructed” insert “, calculated and expressed in accordance with the methodology approved pursuant to regulation 24”;
+- (e) in paragraph (4) for “such certificates” substitute “energy performance certificates”.
+
+(13)[^key-0d36c800f9151af5949d2a06853212a7] Omit regulation 29 (energy performance certificates) and Schedule 4A (Green Deal information).
+
+(14)[^key-0d36c800f9151af5949d2a06853212a7] Omit regulations 29A to 33.
+
+(15)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 34(1) (application of building regulations to educational buildings, buildings of statutory undertakers and Crown buildings) omit the references from “29” to “29A”.
+
+(16)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 35 (interpretation of Part 6)—
+
+- (a) in paragraph (1)—
+  - (i) in the definition “energy assessor” for “regulation 30” substitute “regulation 22 (accreditation schemes) of the Energy Performance of Buildings (England and Wales) Regulations 2012”
+  - (ii) after that definition insert the following definitions—
+
+    > - “energy performance certificate” means a certificate which complies with the requirements of regulation 9 (energy performance certificates) or 9A (energy performance certificates in respect of excluded buildings) of the Energy Performance of Buildings (England and Wales) Regulations 2012;”;
+    > - “energy performance of a building” means the calculated or measured amount of energy needed to meet the energy demand associated with a typical use of the building, which includes, inter alia, energy used for heating, cooling, ventilation, hot water and lighting;
+
+    ; and
+- (b) omit paragraph (2).
+
+(17)[^key-0d36c800f9151af5949d2a06853212a7] In regulation 47(a) (contravention of certain regulations not to be an offence) omit “29,”.
+
+(18)[^key-0d36c800f9151af5949d2a06853212a7] Omit regulation 48(1)(i) and (j) (electronic service of documents).
+
+(19) In Schedule 3 (self-certification schemes and exemptions from requirement to give building notice or deposit full plans)—
+
+- (a)[^key-0d36c800f9151af5949d2a06853212a7] in column 2 of item 2 omit “HETAS Limited,”;
+- (b)[^key-9ab041527f91117edaeb559448980ec1] in column 2 of items 8 and 10 omit “BSI Assurance UK Limited,”;
+- (c)[^key-0d36c800f9151af5949d2a06853212a7] in column 2 of item 17 after “Cavity Insulation Guarantee Agency” omit “Limited”.
+
+## 3 (Extent: E) (affected by repeal, see note). Amendments to the Building (Approved Inspectors (Extent: E) (affected by repeal, see note) etc. (Extent: E) (affected by repeal, see note)) Regulations 2010 (Extent: E) (affected by repeal, see note)[^key-b5074ebaeb3d4b44c0a19360e47f0a77][^key-e0d384b33dd08a94537a337b23a5a6a5][^key-e0d384b33dd08a94537a337b23a5a6a5][^key-e0d384b33dd08a94537a337b23a5a6a5][^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+(1 (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] The Building (Approved Inspectors *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5] etc. *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]) Regulations 2010 *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5][^f00007] are amended in accordance with the following paragraphs. *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+(2 (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] In regulation 8(1)(b) (functions of approved inspectors)— *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] omit “29,”; and *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+- (b (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] after “Principal Regulations” insert “and regulation 7A (energy performance certificates on construction) of the Energy Performance of Buildings (England and Wales) Regulations 2012” *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5][^f00008]. *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+(3 (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] In regulation 20 (application of regulations 20, 20A, *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5] etc *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5])— *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] in paragraph (1)— *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+  - (i (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] omit “29 (energy performance certificates) ,”, and *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+  - (ii (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] after “Principal Regulations” insert “and regulation 7A (energy performance certificates on construction) of the Energy Performance of Buildings (England and Wales) Regulations 2012”; *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+- (b (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] omit paragraph (3); and *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+- (c (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] after paragraph (6) add— *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+  > (7 (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] Regulation 7A(3) of the Energy Performance of Buildings (England and Wales) Regulations 2012 applies in relation to building work which is the subject of an initial notice as if after “work has been completed” there were inserted “, or, if earlier, the date in which in accordance with regulation 17 of the Building (Approved Inspectors *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5] etc. *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]) Regulations 2010 the initial notice ceases to be in force. *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+  . *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+(4 (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] In regulation 32 (electronic service of documents)— *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+- (a (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] omit paragraphs (e) and (f); and *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+- (b (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] after paragraph (k) add— *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+  > - (l (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] an energy performance certificate under regulation 7A(2)(a) of the Energy Performance of Buildings (England and Wales) Regulations 2012 as applied by regulation 20; *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+  > - (m (Extent: E) (affected by repeal, see note))[^key-e0d384b33dd08a94537a337b23a5a6a5] a notice under regulation 7A(2)(b) of the Energy Performance of Buildings (England and Wales) Regulations 2012 as applied by regulation 20 *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+  . *(Extent: E)* *(affected by repeal, see note)*[^key-e0d384b33dd08a94537a337b23a5a6a5]
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+James Wharton
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+10th March 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Regulation 2 amends the Building Regulations 2010 ([S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), as amended by [S.I. 2011/1515](https://www.legislation.gov.uk/uksi/2011/1515), [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058), [S.I. 2012/809](https://www.legislation.gov.uk/uksi/2012/809), [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10), [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), [S.I. 2013/1105](https://www.legislation.gov.uk/uksi/2013/1105), [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [S.I. 2014/579](https://www.legislation.gov.uk/uksi/2014/579) and [S.I. 2015/767](https://www.legislation.gov.uk/uksi/2015/767)) (“the Building Regulations”).
+
+Regulation 2(2), (3), (4), (5)(b) and (c), (6), (11)(e), (12)(e), (13), (14), (15), (16)(a)(i) and (a)(ii), first definition, (16)(b), (17) and (18), revoke requirements relating to the provision of energy performance certificates for new and certain converted buildings. Those requirements are being consolidated in amendments made to the Energy Performance of Buildings (England and Wales) Regulations 2012 ([S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118), as amended by [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10); [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181); [S.I. 2013/603](https://www.legislation.gov.uk/uksi/2013/603); [S.I. 2014/880](https://www.legislation.gov.uk/uksi/2014/880); [S.I. 2015/609](https://www.legislation.gov.uk/uksi/2015/609) and [S.I. 2015/1681](https://www.legislation.gov.uk/uksi/2015/1681)) by the Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 ([S.I. 2016/284](https://www.legislation.gov.uk/uksi/2016/284)).
+
+Regulation 2(6)(a), (7), (8), (9), (10), (11)(a) to (d), (12)(a) to (d), and (16)(a)(ii), second definition, amend and supplement the implementation of Articles 3 (adoption of a methodology for calculating the energy performance of buildings) and 4 (setting of minimum energy performance requirements) [Directive 2010/31/EU](https://www.legislation.gov.uk/european/directive/2010/0031) of the European Parliament and of the Council on the energy performance of buildings (recast) (OJ No L 153, 18.6.2010, p. 13) (“[Directive 2010/31/EU](https://www.legislation.gov.uk/european/directive/2010/0031)”).
+
+Regulation 2(7) and (16)(a)(ii), second definition, amend and supplement definitions relating to the energy performance of buildings. Regulation 2(5)(a) corrects an omission concerning certification of compliance with the Building Regulations.
+
+Regulation 2(8) to (10), (11)(a) to (d) and (12)(a) to (d) clarify that methodologies approved by the Secretary of State must be used in determining the energy performance of buildings under the various provisions in the Building Regulations.
+
+Regulation 2(19) updates the list in Schedule 3 to the Building Regulations of persons authorised to issue certificates of compliance with the requirements of those Regulations for their own work.
+
+Regulation 3 amends the Building (Approved Inspectors etc.) 2010 ([S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215), as amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119); [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959) and [S.I. 2014/579](https://www.legislation.gov.uk/uksi/2014/579)). It makes provision consequential on the revocation in regulation 2 of requirements relating to the provision of energy performance certificates for new and certain converted buildings and their consolidation in the Energy Performance of Buildings (England and Wales) Regulations 2012.
+
+No impact assessment has been produced for these Regulations as no impact, or minimal impact, on the public, private, or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00003]: Footnote: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55). Section 1 was amended by section 1(1) to (3) and section 1A inserted by section 2 of the Sustainable and Secure Buildings Act 2004 (“the 2004 Act”). Section 14(3) was amended by Article 8(1) and (3) of [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019). Section 47(1) was amended by article 3(2) of [S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905) and section 8(2) of the 2004 Act. Section 126 is cited for the definition “prescribed”. In Schedule 1, paragraph 4A was inserted by section 8(1); paragraph 7(a)(xxiib) was inserted by section 3(1) and (5), and paragraph 8(2) to (5) by section 3(1) and (7) of the 2004 Act. There are other amendment to paragraphs 7 and 8 but none is relevant to this instrument.
+
+[^key-2d3a8fd9c36a734ddedb6cf08de835d6]: Commencement: Reg. 1 in force at 6.4.2016, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/285/regulation/1/4)
+
+[^f00004]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
+
+[^key-0d36c800f9151af5949d2a06853212a7]: Commencement: Reg. 2(1)-(18)(19)(a)(c) in force at 6.4.2016, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/285/regulation/1/4)
+
+[^key-9ab041527f91117edaeb559448980ec1]: Commencement: [Reg. 2(19)(b)](https://www.legislation.gov.uk/uksi/2016/285/regulation/2/19/b) in force at 1.5.2016, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2016/285/regulation/1/5)
+
+[^f00005]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), as amended by [S.I. 2011/1515](https://www.legislation.gov.uk/uksi/2011/1515), [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058), [S.I. 2012/809](https://www.legislation.gov.uk/uksi/2012/809), [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10), [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), [S.I. 2013/1105](https://www.legislation.gov.uk/uksi/2013/1105), [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [S.I. 2014/579](https://www.legislation.gov.uk/uksi/2014/579) and [S.I. 2015/767](https://www.legislation.gov.uk/uksi/2015/767).
+
+[^f00006]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118), as amended by [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10); [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181); [S.I. 2013/603](https://www.legislation.gov.uk/uksi/2013/603); [S.I. 2014/880](https://www.legislation.gov.uk/uksi/2014/880); [S.I. 2015/609](https://www.legislation.gov.uk/uksi/2015/609); [S.I. 2015/1681](https://www.legislation.gov.uk/uksi/2015/1681); and [S.I. 2016/284](https://www.legislation.gov.uk/uksi/2016/284).
+
+[^key-b5074ebaeb3d4b44c0a19360e47f0a77]: Commencement: Reg. 3 in force at 6.4.2016, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/285/regulation/1/4)
+
+[^key-e0d384b33dd08a94537a337b23a5a6a5]: Textual amendment: Reg. 3 revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(vii)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/vii) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+
+[^f00007]: Footnote: [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215), as amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [S.I. 2014/579](https://www.legislation.gov.uk/uksi/2014/579) and [S.I. 2015/767](https://www.legislation.gov.uk/uksi/2015/767).
+
+[^f00008]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118), as amended by [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10); [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181); [S.I. 2013/603](https://www.legislation.gov.uk/uksi/2013/603); [S.I. 2014/880](https://www.legislation.gov.uk/uksi/2014/880); [S.I. 2015/609](https://www.legislation.gov.uk/uksi/2015/609); [S.I. 2015/1681](https://www.legislation.gov.uk/uksi/2015/1681); and [S.I. 2016/284](https://www.legislation.gov.uk/uksi/2016/284).

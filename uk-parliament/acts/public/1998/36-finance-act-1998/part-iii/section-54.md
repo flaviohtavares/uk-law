@@ -1,0 +1,67 @@
+---
+title: Finance Act 1998, section 54
+act: Finance Act 1998
+section: '54'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1998/36/section/54
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1998, section 54
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 54. Amendments consequential on sections 50 to 53.
+
+*Extent: E+W+S+N.I.*
+
+(1) The [^c16420731]Taxation of Chargeable Gains Act 1992 shall be amended as follows.
+
+(2) After subsection (5) of section 120 (increase of expenditure by reference to tax charged in relation to shares) there shall be inserted the following subsections—
+
+> (5A) Where an amount is chargeable to tax under section 140A of the Taxes Act in respect of—
+>
+> - (a) the acquisition or disposal of any interest in shares, or
+> - (b) any interest in shares ceasing to be only conditional,
+>
+> the relevant amount is a sum equal to the amount so chargeable.
+>
+> (5B) Where an amount is chargeable to tax under section 140D of the Taxes Act in respect of the conversion of shares, the relevant amount is a sum equal to the amount so chargeable.
+
+(3) In subsection (7) of that section—
+
+- (a) after “(5)," there shall be inserted “ , (5A), (5B) ”; and
+- (b) after “138" there shall be inserted “ , 140A, 140D ”.
+
+(4) After that subsection there shall be inserted the following subsection—
+
+> (8) For the purposes of subsection (5A) above this section shall have effect as if references in this section to shares included anything referred to as shares in section 140A of the Taxes Act.
+
+(5) After section 149A there shall be inserted the following section—
+
+> **149B. Employee incentive schemes: conditional interests in shares.**
+>
+> (1) Where—
+>
+> - (a) an individual has acquired an interest in any shares or securities which is only conditional,
+> - (b) that interest is one which for the purposes of section 140A of the Taxes Act is taken to have been acquired by him as a director or employee of a company, and
+> - (c) by virtue of section 17(1)(b) the acquisition of that interest would, apart from this section, be an acquisition for a consideration equal to the market value of the interest,
+>
+> section 17 shall not apply for calculating the consideration.
+>
+> (2) Instead, the consideration for the acquisition shall be taken (subject to section 120) to be equal to the actual amount or value of the consideration given for that interest as computed in accordance with section 140B of the Taxes Act.
+>
+> (3) This section shall apply in relation only to the individual making the acquisition and, accordingly, shall be disregarded in calculating the consideration received by the person from whom the interest is acquired.
+>
+> (4) Expressions used in this section and in section 140A of the Taxes Act have the same meanings in this section as in that section.
+
+(6) This section has effect in relation to disposals on or after 17th March 1998 of interests and shares acquired on or after that date.
+
+## Annotations
+
+[^c16420731]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).

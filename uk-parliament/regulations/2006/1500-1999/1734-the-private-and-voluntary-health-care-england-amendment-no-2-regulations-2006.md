@@ -1,0 +1,108 @@
+---
+title: The Private and Voluntary Health Care (England) (Amendment No. 2) Regulations 2006
+id: uksi/2006/1734
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-06-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/1734
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/1734/pdfs/uksiem_20061734_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/1734/pdfs/uksi_20061734_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/1734/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Private and Voluntary Health Care (England) (Amendment No. 2) Regulations 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 1734
+
+PUBLIC HEALTH, ENGLAND
+
+The Private and Voluntary Health Care (England) (Amendment No. 2) Regulations 2006
+
+Made
+
+28th June 2006
+
+Laid before Parliament
+
+5th July 2006
+
+Coming into force
+
+1st August 2006
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 16(3) and 118(6) of the Care Standards Act 2000[^f00001].
+
+## 1. Citation, commencement, interpretation and application
+
+(1) These Regulations may be cited as the Private and Voluntary Health Care (England) (Amendment No.2) Regulations 2006 and shall come into force on 1st August 2006.
+
+(2) In these Regulations, “the PVH Regulations” means the Private and Voluntary Health Care (England) Regulations 2001[^f00002].
+
+(3) These Regulations apply in relation to England only.
+
+## 2. Amendment of the PVH Regulations
+
+In regulation 2 (interpretation) of the PVH Regulations, in paragraph (1), in the appropriate alphabetical position, insert—
+
+> - “certificate” means a certificate of registration;
+> - “existing provider” means a person who immediately before 1st August 2006 was registered under Part 2 of the Care Standards Act 2000 as carrying on an independent hospital, an independent clinic or an independent medical agency[^f00003];
+> - “Fees Regulations” means the Commission for Healthcare Audit and Inspection (Fees and Frequency of Inspections) Regulations 2004[^f00004];
+> - “new provider” means a person who carries on an independent hospital, an independent clinic or an independent medical agency and did so for the first time on or after 1st August 2006.
+
+.
+
+**3.** After regulation 32A of the PVH Regulations, insert—
+
+> **32B. Annual fees**
+>
+> The annual fee due under section 16(3) of the Act shall be payable by the registered provider on—
+>
+> - (a) in the case of an existing provider whose annual fee became payable under regulation 5 of the Fees Regulations between 1st April 2006 and 31st July 2006 (including on either of those two dates), 1st August 2006 and thereafter on the anniversary of the date on which the annual fee was payable under regulation 5 of those Regulations;
+> - (b) in the case of any other existing provider, the anniversary of the date on which the annual fee was payable under regulation 5 of the Fees Regulations; and
+> - (c) in the case of a new provider, the date on which the certificate is issued and thereafter on the anniversary of that date.
+
+## 4. Revocations
+
+The Commission for Healthcare Audit and Inspection (Fees and Frequency of Inspections) Regulations 2004[^f00005] and the Commission for Healthcare Audit and Inspection (Fees and Frequency of Inspections) (Amendment) Regulations 2005[^f00006] are revoked.
+
+Signed by authority of the Secretary of State for Health
+
+Andrew Burnham
+
+Minister of State,
+
+Department of Health
+
+28th June 2006
+
+(This note is not part of the Regulations)
+
+These Regulations are made under the Care Standards Act 2000 (“the Act”), and apply in relation to England only. Regulation 3 inserts regulation 32B (annual fees) in the Private and Voluntary Health Care (England) Regulations 2001. New regulation 32B prescribes the time for payment of an annual fee by health care establishments and agencies under section 16(3) of the Act.
+
+Regulation 4 revokes the Commission for Healthcare Audit and Inspection (Fees and Frequency of Inspections) Regulations 2004 and the Commission for Healthcare Audit and Inspection (Fees and Frequency of Inspections) (Amendment) Regulations 2005.
+
+A Regulatory Impact Assessment has been prepared for these Regulations and a copy has been placed in the library of each House of Parliament. Copies of the Regulatory Impact Assessment can be obtained from the Department of Health’s website www.doh.gov.uk/regulatoryimpact/index.htm In addition, a copy can be obtained from Room 418 Wellington House, 133-135 Waterloo Road, London SE1 8UG.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). The functions of the National Care Standards Commission under Part 2 of the Act were transferred either to the Commission for Healthcare Audit and Inspection (“the CHAI”) or to the Commission for Social Care Inspection in accordance with section 102 of the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43) (“the 2003 Act”) with effect from 1st April 2004. Section 16(3) of the Act has been amended by the 2003 Act, section 105(6). The power in section 16(3) is exercisable by the appropriate Minister, who is defined in section 121(1) of the Act, in relation to England, Scotland or Northern Ireland, as the Secretary of State. See: section 121(1) for the definitions of “prescribed” and “regulations”.
+
+[^f00002]: Footnote: S.I. [2001/3968](https://www.legislation.gov.uk/uksi/2001/3968); the relevant amending instrument is S.I. [2006/539](https://www.legislation.gov.uk/uksi/2006/539).
+
+[^f00003]: Footnote: See section 2 of the Care Standards Act 2000 for the definitions of “independent hospital”, “independent clinic” and “independent medical agency”.
+
+[^f00004]: Footnote: S.I. [2004/661](https://www.legislation.gov.uk/uksi/2004/661) as amended by S.I. [2005/647](https://www.legislation.gov.uk/uksi/2005/647).
+
+[^f00005]: Footnote: S.I. [2004/661](https://www.legislation.gov.uk/uksi/2004/661) as amended by S.I, [2005/647](https://www.legislation.gov.uk/uksi/2005/647).
+
+[^f00006]: Footnote: S.I. [2005/647](https://www.legislation.gov.uk/uksi/2005/647).

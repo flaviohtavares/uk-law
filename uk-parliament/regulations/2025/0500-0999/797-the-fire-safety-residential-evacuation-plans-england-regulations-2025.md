@@ -1,0 +1,348 @@
+---
+title: The Fire Safety (Residential Evacuation Plans) (England) Regulations 2025
+id: uksi/2025/797
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-07-03'
+text_date: '2026-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2025/797
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/797/pdfs/uksiem_20250797_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/797/pdfs/uksi_20250797_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/797/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fire Safety (Residential Evacuation Plans) (England) Regulations 2025
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2025 No. 797
+
+FIRE PRECAUTIONS, ENGLAND
+
+The Fire Safety (Residential Evacuation Plans) (England) Regulations 2025
+
+Made
+
+3rd July 2025
+
+Laid before Parliament
+
+4th July 2025
+
+Coming into force
+
+6th April 2026
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by article 24(1) and (5)(b) and (c) of the Regulatory Reform (Fire Safety) Order 2005[^f00001].
+
+In accordance with article 24(4) of that Order the Secretary of State has consulted with such persons or bodies of persons as appeared to the Secretary of State to be appropriate.
+
+## Part 1 — Introductory
+
+### 1. Citation, commencement, extent and application[^key-0108fa7fb9903a55817934ef3c4af43c]
+
+(1) These Regulations may be cited as the Fire Safety (Residential Evacuation Plans) (England) Regulations 2025.
+
+(2) These Regulations come into force on 6th April 2026.
+
+(3) These Regulations extend to England and Wales but apply in England only.
+
+(4) These Regulations do not apply in relation to domestic premises[^f00002] within the Palace of Westminster or to military premises.
+
+### 2. Interpretation[^key-6747ab798317ea8c9389276c10d8e0b3]
+
+In these Regulations—
+
+- “**emergency evacuation statement**” has the meaning given in regulation 8(b)(i);
+- “**local fire and rescue authority**” means, in relation to a specified residential building, the fire and rescue authority[^f00003] in whose area the specified residential building is situated;
+- “**military premises**” means—
+  - (a) military barracks,
+  - (b) a building occupied solely for the purposes of the armed forces, or
+  - (c) a building occupied solely for the purposes of any visiting force or an international headquarters or defence organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964[^f00004];
+- “**mitigating measure**” means a measure to mitigate a risk identified in the person-centred fire risk assessment;
+- “**person-centred fire risk assessment**” has the meaning given in regulation 6(2);
+- “**relevant resident**” has the meaning given in regulation 4;
+- “**secure information box**” means, in relation to a specified residential building, a box which meets the requirements in regulation 4(2) of the Fire Safety (England) Regulations 2022[^f00005];
+- “**specified residential building**” has the meaning given in regulation 3.
+
+### 3. Meaning of “specified residential building”[^key-12e0265e6c19e6b2091aa9045c53d672]
+
+(1) A “**specified residential building**” means a building which contains two or more sets of domestic premises and which—
+
+- (a) is at least 18 metres in height above ground level,
+- (b) has at least seven storeys, or
+- (c) is more than 11 metres in height above ground level and has a simultaneous evacuation strategy.
+
+(2) For the purposes of paragraph (1)—
+
+- (a) the height of a building is to be measured to the height of the top storey in accordance with Appendix D to Approved Document B;
+- (b) when determining the number of storeys a building has—
+  - (i) any storey which is below ground level is to be ignored,
+  - (ii) any mezzanine floor is a storey if its internal floor area is at least 50% of the internal floor area of the largest storey in the building which is not below ground level, and
+  - (iii) a storey is treated as below ground level if any part of the finished surface of the ceiling of the storey is below the ground level immediately adjacent to that part of the building.
+
+(3) In this regulation—
+
+- “**Approved Document B**” means Document B (Fire safety), supporting requirements B1 to B5 of Part B of Schedule 1 to the Building Regulations 2010[^f00006];
+- “**simultaneous evacuation strategy**” means a strategy for evacuation whereby the responsible person in relation to the specified residential building[^f00007] has determined that all persons in the building should leave the building immediately in the event of a fire.
+
+### 4. Meaning of “relevant resident”[^key-0370c7f869fd567a6f781b9b5eb4bd4d]
+
+A “**relevant resident**” means a relevant person[^f00008]—
+
+- (a) who is a resident of domestic premises in a specified residential building, where the domestic premises are that person’s only or principal residence, and
+- (b) whose ability to evacuate the building without assistance in the event of a fire is compromised as a result of a cognitive or physical impairment or condition.
+
+## Part 2 — Residential personal emergency evacuation plans
+
+### 5. Identification of relevant residents[^key-2a0d3ce73079208e25189cc418e8c256]
+
+The responsible person in relation to a specified residential building must use reasonable endeavours to identify relevant residents of that building.
+
+### 6. Person-centred fire risk assessment[^key-a1f1bda673f30d0a73347af6050775d8]
+
+(1) The responsible person in relation to a specified residential building must—
+
+- (a) offer to carry out a person-centred fire risk assessment for each relevant resident identified under regulation 5, and
+- (b) ensure a person-centred fire risk assessment is carried out for each relevant resident who requests one.
+
+(2) A person-centred fire risk assessment means an assessment of—
+
+- (a) the risks[^f00009] to the relevant resident arising from the resident’s compromised ability to evacuate the building without assistance in the event of a fire, and
+- (b) any other risks to the resident as regards the building in light of the resident’s cognitive or physical impairment or condition.
+
+### 7. Mitigation of risks[^key-7987e876bd1bf08195e0de6d3ca16bba]
+
+(1) Following a person-centred fire risk assessment, the responsible person must, after discussion with the relevant resident—
+
+- (a) implement any mitigating measures that it is reasonable and proportionate for the responsible person to take on the basis that the costs of any such measures are borne by the responsible person or shared by the residents of the building;
+- (b) subject to paragraph (3), implement any mitigating measures that it is reasonable and proportionate for the responsible person to take on the basis that the costs of any such measures are borne by the relevant resident.
+
+(2) For the purposes of paragraph (1)(a), the costs of a mitigating measure may only be shared by the residents of the building where the measure would benefit the majority of the residents for the time being of that building.
+
+(3) The responsible person is not required to implement a mitigating measure falling within paragraph (1)(b) unless the relevant resident pays the costs of the measure.
+
+### 8. Emergency evacuation statement[^key-f3455ebc92d3841a249ab660cfe977e2]
+
+The responsible person must, taking into account the risks identified in the person-centred fire risk assessment and any mitigating measures that are to be implemented under regulation 7—
+
+- (a) use reasonable endeavours to agree with the relevant resident the approach to the resident’s evacuation in the event of a fire, and
+- (b) where the approach is agreed—
+  - (i) record the approach in a statement in writing (an “emergency evacuation statement”), and
+  - (ii) provide the relevant resident with a copy of the emergency evacuation statement.
+
+### 9. Review by the responsible person[^key-f0618e20103516b40512903468f1ec3b]
+
+(1) Where a person-centred fire risk assessment has been carried out in relation to a relevant resident of a specified residential building, the responsible person in relation to that building must review that assessment, any mitigating measures required to be implemented under regulation 7 in relation to the resident and any emergency evacuation statement for the resident.
+
+(2) Following a review under paragraph (1), the responsible person must, where appropriate—
+
+- (a) update the person-centred fire risk assessment;
+- (b) implement any further mitigating measures under regulation 7;
+- (c) where an emergency evacuation statement was agreed, update or withdraw it;
+- (d) where no approach was agreed under regulation 8, repeat the steps in that regulation.
+
+(3) The responsible person must carry out the review specified in paragraph (1)—
+
+- (a) no later than 12 months after the date on which the emergency evacuation statement was first recorded, or, where no approach was agreed, the person-centred fire risk assessment was completed, and
+- (b) before the end of every period of 12 months thereafter.
+
+(4) The responsible person must also carry out the review specified in paragraph (1)—
+
+- (a) if there is reason to believe the person-centred fire risk assessment or emergency evacuation statement requires amending, or
+- (b) at the reasonable request of the relevant resident.
+
+(5) Where the responsible person carries out a review under paragraph (4)—
+
+- (a) before a review is due under paragraph (3)(a), the obligation to review arising under paragraph (3)(a) does not apply, and the obligation arising under paragraph (3)(b) is to be calculated from the date of the review under paragraph (4);
+- (b) before a review is due under paragraph (3)(b), any further obligation arising under that paragraph is to be calculated from the date of the review under paragraph (4).
+
+### 10. Provision of information to local fire and rescue authority[^key-d4827970634e57a3250194b258648f05]
+
+(1) Subject to paragraph (2), the responsible person in relation to a specified residential building must provide the local fire and rescue authority with the following information relating to each relevant resident of that building—
+
+- (a) the resident’s flat number;
+- (b) the resident’s floor number;
+- (c) basic information regarding the degree of assistance that the resident may require to evacuate the building;
+- (d) whether the resident has an emergency evacuation statement.
+
+(2) The responsible person must not provide the information in paragraph (1) to the local fire and rescue authority unless the relevant resident has given explicit consent to the provision of that information.
+
+(3) The responsible person must provide the information in paragraph (1) to the local fire and rescue authority by whichever of the following means the local fire and rescue authority chooses—
+
+- (a) electronic means;
+- (b) placing a hard copy in a secure information box.
+
+(4) Where the local fire and rescue authority chooses the option set out in paragraph (3)(b), if a secure information box is not already installed[^f00010]—
+
+- (a) the responsible person must install and maintain a secure information box in or on the building, and
+- (b) the requirements in regulation 4(3) to (5) of the Fire Safety (England) Regulations 2022 apply in relation to that box.
+
+### 11. Relevant resident’s representative[^key-67b61ace01da41627c662a77e2b19b39]
+
+(1) In the provisions set out in paragraph (2), a reference to the relevant resident includes a reference to the relevant resident’s representative.
+
+(2) The provisions are—
+
+- (a) regulation 6(1)(b), for the purpose of making a request;
+- (b) the opening words of regulation 7(1);
+- (c) regulation 8;
+- (d) regulation 9(4)(b);
+- (e) regulation 10(2).
+
+(3) In paragraph (1), the “**relevant resident’s representative**” means—
+
+- (a) a person with parental responsibility for the relevant resident;
+- (b) where the relevant resident lacks capacity in relation to the matters to which the provisions set out in paragraph (2) relate, a person who is—
+  - (i) the attorney under a registered enduring power of attorney which relates to that resident,
+  - (ii) the donee of a lasting power of attorney which relates to that resident, or
+  - (iii) a deputy appointed in relation to that resident by the Court of Protection.
+
+(4) For the purposes of paragraph (3)—
+
+- (a) “**parental responsibility**” has the same meaning as in section 3 of the Children Act 1989[^f00011];
+- (b) a relevant resident lacks capacity in relation to a matter if that resident lacks capacity in relation to it for the purposes of section 2 of the Mental Capacity Act 2005[^f00012].
+
+### 12. Data protection[^key-e3ea4b1b3047b37cac72bc57e77ac8bc]
+
+(1) This regulation applies to a duty or power to process information that is imposed or conferred by these Regulations.
+
+(2) Nothing in these Regulations requires or authorises the processing of information which would contravene the data protection legislation, but the duty or power is to be taken into account in determining whether the processing would contravene that legislation.
+
+(3) In this regulation, “**data protection legislation**” has the same meaning as in section 3 of the Data Protection Act 2018[^f00013].
+
+## Part 3 — Building emergency evacuation plan
+
+### 13. Building emergency evacuation plan[^key-eb8de28fb7e32a88da37db85ffa490c7]
+
+(1) The responsible person in relation to a specified residential building must—
+
+- (a) prepare an evacuation plan for that building in the event of a fire (a “building emergency evacuation plan”),
+- (b) provide a copy of the building emergency evacuation plan to the local fire and rescue authority, and
+- (c) where the building has a secure information box, place a copy of the building emergency evacuation plan in that box.
+
+(2) The building emergency evacuation plan must include—
+
+- (a) any instructions to residents relating to the evacuation strategy for the building required under regulation 9(2)(b)(i) of the Fire Safety (England) Regulations 2022,
+- (b) confirmation as to whether or not there are relevant residents, and
+- (c) information relating to any other arrangements for evacuating the building.
+
+(3) The responsible person must review the building emergency evacuation plan—
+
+- (a) no later than 12 months after the date on which the plan is first prepared, and
+- (b) before the end of every period of 12 months thereafter.
+
+(4) The responsible person must also review the building emergency evacuation plan if there is reason to believe the plan requires amending.
+
+(5) Where the responsible person carries out a review under paragraph (4)—
+
+- (a) before a review is due under paragraph (3)(a), the obligation to review arising under paragraph (3)(a) does not apply, and the obligation arising under that paragraph is to be calculated from the date of the review under paragraph (4);
+- (b) before a review is due under paragraph (3)(b), any further obligation arising under paragraph (3)(b) is to be calculated from the date of the review under paragraph (4).
+
+(6) If, as a result of a review under paragraph (3) or (4), the plan is amended, the responsible person must, as soon as reasonably practicable—
+
+- (a) provide a copy of the amended plan to the local fire and rescue authority, and
+- (b) place a copy in the secure information box, where paragraph (1)(c) applies.
+
+## Part 4 — Amendment of the Fire Safety (England) Regulations 2022
+
+### 14. Amendment of the Fire Safety (England) Regulations 2022[^key-83194561b612a8e2ee039a0a451f5dab]
+
+In regulation 4(2)(b) of the Fire Safety (England) Regulations 2022, after “these Regulations” insert “and the Fire Safety (Residential Evacuation Plans) (England) Regulations 2025”.
+
+Signed by authority of the Secretary of State for Housing, Communities and Local Government
+
+Alex Norris
+
+Parliamentary Under Secretary of State
+
+Ministry of Housing, Communities and Local Government
+
+3rd July 2025
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations are made under article 24 of the Regulatory Reform (Fire Safety) Order 2005 ([S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541)) (“**the Fire Safety Order**”), which enables the making of regulations regarding precautions to be taken or observed in relation to the risk to safety of persons from fire in premises to which that Order applies.
+
+These Regulations make provision for personal and building emergency evacuation plans in relation to specified residential buildings (see regulation 3).
+
+Part 1 sets out definitions used in these Regulations.
+
+Part 2 sets out the residential personal emergency evacuation plan process. It makes provision requiring the responsible person (defined in article 3(b) of the Fire Safety Order in relation to specified residential buildings) to identify residents with cognitive or physical impairments that may affect their ability to evacuate a building in the event of a fire (regulation 5) and to undertake a person-centred fire risk assessment for any such resident that requests it (regulation 6). It also makes provision relating to measures to mitigate any risks identified (regulation 7) and for the responsible person to agree with the resident an emergency evacuation statement (regulation 8). Regulation 9 provides for review of the person-centred fire risk assessment, mitigating measures and emergency evacuation statement. Regulation 11 provides for the responsible person to conduct the process with the relevant resident’s representative in specified circumstances. Regulation 12 clarifies that the duties and powers imposed and conferred by the Regulations must be exercised in accordance with data protection legislation.
+
+Part 3 requires a responsible person to prepare a building level emergency evacuation plan, and provides for review of that plan.
+
+Regulations 10 and 13 provide for the provision of information relating to personal and building emergency evacuation plans to the local fire and rescue authority.
+
+Regulation 14 makes a consequential amendment to the Fire Safety (England) Regulations 2022 ([S.I. 2022/547](https://www.legislation.gov.uk/uksi/2022/547)).
+
+An impact assessment of the effect that this instrument will have on the costs to business and the voluntary sector is available from the Fire Safety Unit, Ministry of Housing, Communities and Local Government, 2 Marsham Street, London SW1P 4DF and is published with an Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541) (“**the 2005 Order**”). See article 6 of the 2005 Order (application to premises), as amended by section 1 of the Fire Safety Act [2021 (c. 24)](https://www.legislation.gov.uk/ukpga/2021/24), for the application of the 2005 Order to buildings containing domestic premises.
+
+[^key-0108fa7fb9903a55817934ef3c4af43c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/797/regulation/1) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^f00002]: Footnote: See article 2 of the 2005 Order for the meaning of “domestic premises”.
+
+[^key-6747ab798317ea8c9389276c10d8e0b3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/797/regulation/2) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^f00003]: Footnote: See article 2 of the 2005 Order for the meaning of “fire and rescue authority”.
+
+[^f00004]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
+
+[^f00005]: Footnote: [S.I. 2022/547](https://www.legislation.gov.uk/uksi/2022/547).
+
+[^key-12e0265e6c19e6b2091aa9045c53d672]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/797/regulation/3) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^f00006]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214). Approved Document B can be accessed at https://www.gov.uk/government/publications/fire-safety-approved-document-b. A hard copy may be inspected free of charge by contacting MHCLG at 2 Marsham Street, London SW1P 4DF.
+
+[^f00007]: Footnote: See article 3(b) of the 2005 Order for the meaning of “**responsible person**” in relation to specified residential buildings (as defined in these Regulations).
+
+[^key-0370c7f869fd567a6f781b9b5eb4bd4d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/797/regulation/4) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^f00008]: Footnote: See article 2 of the 2005 Order for the meaning of “relevant persons”.
+
+[^key-2a0d3ce73079208e25189cc418e8c256]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/797/regulation/5) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^key-a1f1bda673f30d0a73347af6050775d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/797/regulation/6) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^f00009]: Footnote: See article 2 of the 2005 Order for the meaning of “risk”.
+
+[^key-7987e876bd1bf08195e0de6d3ca16bba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/797/regulation/7) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^key-f3455ebc92d3841a249ab660cfe977e2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/797/regulation/8) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^key-f0618e20103516b40512903468f1ec3b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/797/regulation/9) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^key-d4827970634e57a3250194b258648f05]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/797/regulation/10) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^f00010]: Footnote: See regulation 4 of the Fire Safety (England) Regulations 2022 for the requirement to install and maintain a secure information box in relation to a high-rise residential building (as defined in regulation 2 of those Regulations). See also Approved Document B, paragraphs 15.18 to 15.21 for the recommendation in relation to buildings over 11 metres.
+
+[^key-67b61ace01da41627c662a77e2b19b39]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/797/regulation/11) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^f00011]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00012]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^key-e3ea4b1b3047b37cac72bc57e77ac8bc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/797/regulation/12) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^f00013]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3 was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
+
+[^key-eb8de28fb7e32a88da37db85ffa490c7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/797/regulation/13) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)
+
+[^key-83194561b612a8e2ee039a0a451f5dab]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/797/regulation/14) in force at 6.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2)

@@ -1,0 +1,37 @@
+---
+title: The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019, section 48
+act: The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019
+section: '48'
+status: revised
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/459/section/48
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019, section 48
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 48. Article 3a of Regulation [(EC) No 551/2004](https://www.legislation.gov.uk/eur/2004/551)[^key-cef64d3bb850c0407dd39be1ecb5ec03]
+
+*Extent: E+W+S+N.I.*
+
+(1) Article 3a (electronic aeronautical information) is amended as follows.
+
+(2) In paragraph 1 for the words beginning with “Without” and ending with “cooperation” substitute “ The national supervisory authority, working in consultation ”.
+
+(3) In paragraph 2—
+
+- (a) in the opening words for “Commission” substitute “ national supervisory authority ”,
+- (b) in point (a) for “ensure the development of a Community wide” substitute “ contribute to the development of an ”, and
+- (c) in point (b) for “close cooperation” substitute “ consultation ”.
+
+(4) Omit paragraph 3.
+
+## Annotations
+
+[^key-cef64d3bb850c0407dd39be1ecb5ec03]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

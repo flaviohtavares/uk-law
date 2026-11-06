@@ -1,0 +1,147 @@
+---
+title: The Homelessness (Suitability of Accommodation) (England) Order 2012
+id: uksi/2012/2601
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-10-11'
+text_date: '2024-05-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/2601
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2601/pdfs/uksiem_20122601_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2601/pdfs/uksi_20122601_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2601/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Homelessness (Suitability of Accommodation) (England) Order 2012
+
+> Text as at 2024-05-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 2601
+
+Housing, England
+
+The Homelessness (Suitability of Accommodation) (England) Order 2012
+
+Made
+
+11th October 2012
+
+Laid before Parliament
+
+17th October 2012
+
+Coming into force
+
+9th November 2012
+
+The Secretary of State in exercise of the powers conferred by sections 210(2)(a), (2)(b) and 215(2) of the Housing Act 1996[^f00001], makes the following Order:[^key-99e8f937478ca663c9dbc683fac02c5e]
+
+## 1. Citation, commencement and application[^key-4439f31f5644a01b28b089440df62c91]
+
+(1) This Order may be cited as the Homelessness (Suitability of Accommodation) (England) Order 2012 and comes into force on 9th November 2012.
+
+(2) This Order applies in relation to England only.
+
+## 2. Matters to be taken into account in determining whether accommodation is suitable for a person[^key-02214e5d99390773e679472732abe59e]
+
+In determining whether accommodation is suitable for a person, the local housing authority must take into account the location of the accommodation, including—
+
+- (a) where the accommodation is situated outside the district of the local housing authority, the distance of the accommodation from the district of the authority;
+- (b) the significance of any disruption which would be caused by the location of the accommodation to the employment, caring responsibilities or education of the person or members of the person’s household;
+- (c) the proximity and accessibility of the accommodation to medical facilities and other support which—
+  - (i) are currently used by or provided to the person or members of the person’s household; and
+  - (ii) are essential to the well-being of the person or members of the person’s household; and
+- (d) the proximity and accessibility of the accommodation to local services, amenities and transport.
+
+## 3. Circumstances in which accommodation is not to be regarded as suitable for a person[^key-95a0d50618a044d0095253ca893b057b]
+
+(1)[^key-a9ea00565ffef97a1fb9fa9f98792e66] For the purposes mentioned in paragraph (2)[^key-52fddbc1c1c84eca0b236b19b216cd7a], accommodation shall not be regarded as suitable where one or more of the following apply–
+
+- (a) the local housing authority are of the view that the accommodation is not in a reasonable physical condition;
+- (b) the local housing authority are of the view that any electrical equipment supplied with the accommodation does not meet the requirements of Schedule 1 to the Electrical Equipment (Safety) Regulations 2016[^key-c05d2caf3f9ccdfd5e372477bc86ec50];
+- (c) the local housing authority are of the view that the landlord has not taken reasonable fire safety precautions with the accommodation and any furnishings supplied with it;
+- (d) the local housing authority are of the view that the landlord has not taken reasonable precautions to prevent the possibility of carbon monoxide poisoning in the accommodation;
+- (e) the local housing authority are of the view that the landlord is not a fit and proper person to act in the capacity of landlord, having considered if the person has:
+  - (i) committed any offence involving fraud or other dishonesty, or violence or illegal drugs, or any offence listed in Schedule 3 to the Sexual Offences Act 2003[^f00003] (offences attracting notification requirements);
+  - (ii) practised unlawful discrimination on grounds of sex, race, age, disability, marriage or civil partnership, pregnancy or maternity, religion or belief, sexual orientation, gender identity or gender reassignment in, or in connection with, the carrying on of any business;
+  - (iii) contravened any provision of the law relating to housing (including landlord or tenant law); or
+  - (iv) acted otherwise than in accordance with any applicable code of practice for the management of a house in multiple occupation, approved under section 233 of the Housing Act 2004[^f00004];
+- (f) the accommodation is a house in multiple occupation subject to licensing under section 55 of the Housing Act 2004 and is not licensed;
+- (g) the accommodation is a house in multiple occupation subject to additional licensing under section 56 of the Housing Act 2004 and is not licensed;
+- (h) the accommodation is or forms part of residential property which does not have a valid energy performance certificate as required by the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007[^f00005];
+- (i) the accommodation is or forms part of relevant premises which do not have a current gas safety record in accordance with regulation 36 of the Gas Safety (Installation and Use) Regulations 1998[^f00006]; or
+- (j) the landlord has not provided to the local housing authority a written tenancy agreement, which the landlord proposes to use for the purposes of a private rented sector offer, and which the local housing authority considers to be adequate.
+
+(2)[^key-c10ea2aae13c7ec33d5fc0b6efda0309] The purposes are—
+
+- (a) determining, in accordance with section 193(7F) of the Housing Act 1996, whether a local housing authority may approve a private rented sector offer;
+- (b) determining, in accordance with section 193A(6) or 193C(9) of that Act, whether a local housing authority may approve a final accommodation offer made by a private landlord;
+- (c) determining whether any accommodation—
+  - (i) secured for a person who has a priority need by a local housing authority in discharge of their functions under section 189B(2) or 195(2) of that Act, and
+  - (ii) made available for occupation under a tenancy with a private landlord,
+
+  is suitable for the purposes of the section concerned.
+
+Signed by the authority of the Secretary of State for Communities and Local Government
+
+Mark Prisk
+
+Minister of State
+
+Department for Communities and Local Government
+
+11th October 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Accommodation secured by a local housing authority, or secured from another person on the advice and assistance of the local housing authority, in the discharge of their housing functions under Part VII of the Housing Act 1996 (“the 1996 Act”) must be suitable (section 206(1) of the 1996 Act).
+
+The local housing authority is also required to be satisfied that the accommodation offered to an applicant by way of a private rented sector offer, under section 193(7AA) of the 1996 Act, is suitable for the applicant. An applicant who is eligible for assistance, in priority need and unintentionally homeless is owed the main homelessness duty (section 193(2) of the 1996 Act) by the local housing authority, to secure that accommodation is made available for occupation by the applicant. Section 193 of the 1996 Act was amended by the Localism Act 2011 to include a power for local housing authorities to discharge the main homelessness duty by way of a private rented sector offer (section 193(7AA) of the 1996 Act). A private rented sector offer is an offer of an assured shorthold tenancy by a private landlord which is made, with the approval of the authority, in pursuance of arrangements by the authority with the landlord with a view to bringing the authority’s homelessness duty to an end. The assured shorthold tenancy offered is a fixed term tenancy for a period of at least 12 months. Section 193(7F) of the 1996 Act requires that a local housing authority is satisfied that the private rented sector offer accommodation is suitable.
+
+The Secretary of State has the power to specify, by order, circumstances in which accommodation is or is not to be regarded as suitable for a person (section 210(2)(a) of the 1996 Act) and matters to be taken into account in determining whether accommodation is suitable for a person (section 210(2)(b) of the 1996 Act).
+
+Article 2 makes provision for matters to be taken into account in determining whether accommodation is suitable for a person.
+
+Article 3 sets out circumstances where accommodation which is being provided to an applicant for the purpose of a private rented sector offer under section 193(7F) of the 1996 Act is not to be regarded as suitable.
+
+An impact assessment has been prepared in respect of this Order. It has been deposited in the Library of each House of Parliament and is available from the Department for Communities and Local Government, Eland House, Bressenden Place, London SW1E 5DU or email john.bentham@communities.gsi.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52); section 193(7F) was inserted by the Homelessness Act [2002 (c.7)](https://www.legislation.gov.uk/uksi/2002/7), section 7(1) and (4); and was amended by the Housing and Regeneration Act [2008 (c.17)](https://www.legislation.gov.uk/uksi/2008/17), section 314 and Schedule 15, paragraphs 1.5(1) and (6); and, in relation to England, by the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/uksi/2011/20), section 148(1) and (9) and Schedule 25, Part 22.
+
+[^key-99e8f937478ca663c9dbc683fac02c5e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/2601) modified (temp.) (1.6.2022) by [The Homelessness (Suitability of Accommodation) (Amendment) (England) Order 2022 (S.I. 2022/521)](https://www.legislation.gov.uk/uksi/2022/521), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/521/article/5/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2022/521/article/2)) (as amended (31.5.2024) by [The Homelessness (Suitability of Accommodation) (England) (Amendment) Order 2024 (S.I. 2024/371)](https://www.legislation.gov.uk/uksi/2024/371), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/371/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/371/article/2))
+
+[^key-4439f31f5644a01b28b089440df62c91]: Commencement: Art. 1 in force at 9.11.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/1/1)
+
+[^key-02214e5d99390773e679472732abe59e]: Commencement: Art. 2 in force at 9.11.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/1/1)
+
+[^key-95a0d50618a044d0095253ca893b057b]: Commencement: Art. 3 in force at 9.11.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/1/1)
+
+[^key-a9ea00565ffef97a1fb9fa9f98792e66]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2012/2601/article/3/1): art. 3 renumbered as art. 3(1) (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/2), [13](https://www.legislation.gov.uk/ukpga/2017/13/section/13) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/5)); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)
+
+[^key-52fddbc1c1c84eca0b236b19b216cd7a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/2601/article/3) substituted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/3), [13](https://www.legislation.gov.uk/ukpga/2017/13/section/13) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/5)); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)
+
+[^key-c05d2caf3f9ccdfd5e372477bc86ec50]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2601/article/3/b) substituted (8.12.2016) by [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
+
+[^f00003]: Footnote: [2003 c.42](https://www.legislation.gov.uk/ukpga/2003/42). There are amendments to Schedule 3 not relevant to this Order. Schedule 3 was most recently amended by section 177 of and Schedule 21 to the Coroners and Justice Act 2009.
+
+[^f00004]: Footnote: [2004 c.34](https://www.legislation.gov.uk/ukpga/2004/34).
+
+[^f00005]: Footnote: [SI 2007/991](https://www.legislation.gov.uk/uksi/2007/991). The SI has been amended by [SIs 2007/1669](https://www.legislation.gov.uk/uksi/2007/1669), [2007/3302](https://www.legislation.gov.uk/uksi/2007/3302), [2008/647](https://www.legislation.gov.uk/uksi/2008/647), [2008/2363](https://www.legislation.gov.uk/uksi/2008/2363), [2009/1900](https://www.legislation.gov.uk/uksi/2009/1900), [2010/1456](https://www.legislation.gov.uk/uksi/2010/1456), [2011/2452](https://www.legislation.gov.uk/uksi/2011/2452) and [2012/809](https://www.legislation.gov.uk/uksi/2012/809).
+
+[^f00006]: Footnote: [SI 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
+
+[^key-c10ea2aae13c7ec33d5fc0b6efda0309]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2012/2601/article/3/2) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/4), [13](https://www.legislation.gov.uk/ukpga/2017/13/section/13) (with [s. 12(5)](https://www.legislation.gov.uk/ukpga/2017/13/section/12/5)); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)

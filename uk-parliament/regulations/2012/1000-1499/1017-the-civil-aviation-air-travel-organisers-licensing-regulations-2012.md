@@ -1,0 +1,1173 @@
+---
+title: The Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012
+id: uksi/2012/1017
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2012-04-02'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/1017
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1017/pdfs/uksiem_20121017_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1017/pdfs/uksi_20121017_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1017/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/uksi/2012/1017
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 1017
+
+Civil Aviation
+
+The Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012
+
+Made
+
+2nd April 2012
+
+Laid before Parliament
+
+4th April 2012
+
+Coming into force
+
+for the purpose of all regulations other than regulation 10(f)
+
+30th April 2012
+
+for the purpose of regulation 10(f)
+
+30th April 2019
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 2(3), 7(1) and (2), 71 and 71A of and paragraph 15 of Schedule 1 to, Part 2 of, and paragraphs 1 and 2 of Part 3 of, Schedule 13 to the Civil Aviation Act 1982 [^c21235221].
+
+In accordance with sections 71(2) and 71B of that Act, the Secretary of State has consulted with the Civil Aviation Authority and the trustees of the Air Travel Trust, and in accordance with paragraph 24(1) of Part 3 of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007 [^c21235231], the Secretary of State has consulted with the Administrative Justice and Tribunals Council.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012.
+
+(2) [^key-73d871b193af262053ac87d81ac6ef68]... These Regulations come into force on 30th April 2012.
+
+(3)[^key-c683b8f9621db95b3111ca05e8e5ac4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Directive ([^key-75564a205abfb31fa89eaa598726b8f3]EU) 2015/2302 of the European Parliament and of the Council of 25 November 2015 on package travel and linked travel arrangements, amending Regulation [(EC) No 2006/2004](https://www.legislation.gov.uk/eur/2004/2006) and [Directive 2011/83/EU](https://www.legislation.gov.uk/eudr/2011/0083) of the European Parliament and of the Council and repealing Council [Directive 90/314/EEC](https://www.legislation.gov.uk/eudr/1990/0314) is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations [^key-e121cca97ee4a23c2678b0d7b7d75d08]... come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+### 3. Revocation of Regulations
+
+The Regulations specified in the Schedule are revoked.
+
+### 4. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Civil Aviation Act 1982;
+- “**accountable person**” means a director of the company, sole trader or partner in a partnership with authority to ensure that the ATOL holder complies with the terms and conditions of its ATOL, these Regulations and the Civil Aviation (Contributions to the Air Travel Trust) Regulations 2007 [^c21235251];
+- “**accredited body**” means a body accredited as an accredited body pursuant to regulation 33 and “**accreditation**” is to be construed accordingly;
+- “**accredited body standard terms**” means the schedule of standard terms for an accredited body published by the CAA under regulation 48(1);
+- “**agency worker**” has the meaning specified in regulation 3 of the Agency Workers Regulations 2010 [^c21235261];
+- “**agent for an ATOL holder**” has the meaning specified in regulation 12;
+- “**airline ticket agent**” has the meaning specified in regulation 13(1);
+- “**ATOL**” means an air travel organiser's licence granted by the CAA under these Regulations;
+- “**ATOL Certificate**” means a document which complies with the requirements published in accordance with regulation 19;
+- “**ATOL holder**” means a person who holds an ATOL;
+- “**ATOL number**” means the number provided for an ATOL by the CAA under regulation 31(6);
+- “**ATOL standard terms**” means the schedule of standard terms for an ATOL published by the CAA under regulation 40(1);
+- “**confirmed ticket**” means a document or information which gives to every person specified in the document or information access to the flight specified in the document or information without the need for any further payment;
+- “**consumer**” includes a traveller and[^key-df5534374fe210d47980d6ad1b78570d] means an individual who—
+  - (a) makes use of flight accommodation for travel in person or provides it to another person who uses that flight accommodation for travel in person;
+  - (b) intends to make use of flight accommodation for travel in person or intends to provide it to another person to use that flight accommodation for travel in person; or
+  - (c) makes use of flight accommodation for travel in person which has been provided to them by a person who is a consumer by reason of sub-paragraph (a);
+
+  but is not a person who procures flight accommodation in the course of business while acting as the agent of another person who uses that flight accommodation for travel in person;
+- “**director**” has the meaning specified in section 250 of the Companies Act 2006 [^c21235271];
+- “**electronic communication**” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
+  - (a) by means of an electronic communications network (within the meaning set out in section 32(1) of the Communications Act 2003 [^c21235281]); or
+  - (b) by other means while in an electronic form;
+- “**employee of the ATOL holder**” means an individual who has entered into or works under a contract of service or apprenticeship with the ATOL holder, whether express or implied, and (if it is express) whether oral or in writing;
+- “**failure of an ATOL holder**” has the meaning specified in regulation 23;
+- “**flight accommodation**” means accommodation for the carriage of persons on flights in any part of the world;
+- “**Flight-Only provider**” means a person who as a principal or agent makes available flight accommodation only;
+- [^key-d9d687f4c3e50c850128c4e2551037d7]...
+- “insolvency” of a person occurs where any of the following steps, or an equivalent step, has been taken by or against the person under the law of a court having jurisdiction over the person's affairs—
+  - (a) bankruptcy or insolvency is adjudicated against the person;
+  - (b) the court approves a compromise, composition or similar arrangement of the person's debts on the basis of a receiving order;
+  - (c) the person makes a valid assignment, composition or similar arrangement for the benefit of all its creditors;
+  - (d) the court orders the winding-up or liquidation of the person's affairs;
+  - (e) an effective resolution is passed for the voluntary winding-up or liquidation of the person;
+  - (f) a compromise, composition or similar arrangement of the person's debts is made binding on the person and substantially all of its creditors; or
+  - (g) a receiver, trustee, liquidator, administrator or similar person is appointed on behalf of the creditors of the person;
+- “**Member**” means a person appointed by the Secretary of State under section 2 of the Act to be a member of the CAA;
+- “**Official Record**” means a document of that name published on the website of the CAA;
+- “organiser”, in relation to a package means—[^key-dfc07b3310b59087982dfa2c1e442e79]
+  - (a) a trader who combines and sells, or offers for sale, packages, either directly or through another trader or together with another trader; or
+  - (b) the trader who transmits the traveller’s data to another trader in accordance with regulation 4A(1)(b)(v);
+- “[^key-30c9d5e7d5c87ec8cd687256b2db7bc2]**package**” has the meaning specified in regulation 4A;
+- “Package Travel Regulations” means the Package Travel and Linked Travel Arrangements Regulations 2018;
+- “retailer” means a trader other than the organiser who sells or offers for sale packages combined by an organiser;
+- “**schedule of agency terms**” means the schedule of terms to be included in a written agency agreement published by the CAA under regulation 22(1);
+- “**specified method**” has the meaning specified in regulation 18;
+- “**temporary work agency**” has the meaning specified in regulation 4 of the Agency Workers Regulations 2010;
+- “**trader**”, in relation to a package, means any person who is acting, including through any other person acting in their name or on their behalf, for purposes relating to their trade, business, craft or profession in relation to contracts covered by the Package Travel Regulations, whether acting in the capacity of organiser, retailer, trader facilitating a linked travel arrangement or as a travel service provider;
+- “**travel service**” means—
+  - (a) the carriage of passengers;
+  - (b) the provision of accommodation which is not intrinsically part of the carriage of passengers and is not for residential purposes;
+  - (c) the rental of—
+    - (i) cars;
+    - (ii) other motor vehicles within the meaning of Article 3(16) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles;[^key-f1f0b65885484e1d5d03617fb1a040ed] or
+    - (iii) motorcycles requiring a Category A driving licence in accordance with Part 1 of Schedule 2 to the Motor Vehicles (Driving Licences) Regulations 1999;[^key-e6ecb9c606ae53b031258be7eb362b80]
+  - (d) any other tourist service not intrinsically part of a travel service within the meaning of paragraph (a), (b), or (c);
+- “**traveller**” means any individual who is seeking to conclude a contract, or is entitled to travel on the basis of a contract concluded, within the scope of the Package Travel Regulations; and
+- “**worker for an ATOL holder**” means an individual who is—
+  - (a) an officer of a company holding an ATOL;
+  - (b) a partner of a partnership holding an ATOL;
+  - (c) a member of a limited liability partnership holding an ATOL;
+  - (d) an employee of the ATOL holder; or
+  - (e) an agency worker supplied by a temporary work agency to work temporarily for and under the supervision and direction of the ATOL holder.
+
+(2) A reference in these Regulations to a document or any other thing in writing includes that document or thing in electronic form.
+
+(3) The periods of time specified in regulations 7(6), [^key-46c75671547bd5ee1185baffe9023928]... 36, 40(3), 44, 48(3), 53(2), 57(1), 57(3), 68(3) [^key-8503c795b9216aedfafb0c441764313d]... as a number of days are exclusive of the first day and inclusive of the last day, unless the last day falls on a Saturday, Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 [^c21235291] in any part of the United Kingdom, in which case the period of time is exclusive of that day also.
+
+### 4A. Definition of package[^key-7e8ddbd90f4322248db99112c848efba]
+
+(1) In these Regulations, subject to paragraph (2), a “package” means a combination of at least two different types of travel service for the purpose of the same trip or holiday, if—
+
+- (a) those services are combined by one trader, including at the request of, or in accordance with, the selection of the traveller, before a single contract on all services is concluded; or
+- (b) those services are—
+  - (i) purchased from a single point of sale and those services have been selected before the traveller agrees to pay,
+  - (ii) offered, sold or charged at an inclusive or total price,
+  - (iii) advertised or sold under the term “package” or under a similar term,
+  - (iv) combined after the conclusion of a contract by which the trader entitles the traveller to choose among a selection of different types of travel services, or
+  - (v) purchased from separate traders through linked online booking processes where—
+    - (aa) the traveller’s name, payment details and e-mail address are transmitted from the trader with whom the first contract is concluded to another trader or traders; and
+    - (bb) a contract with the latter trader or traders is concluded at the latest 24 hours after the confirmation of the booking of the first travel service,
+
+  irrespective of whether the traveller concludes separate contracts with individual travel service providers.
+
+(2) A combination of travel services where not more than one type of travel service as referred to in sub-paragraphs (a), (b) or (c) of the definition of “travel service”, in regulation 4(1), (“the principal travel service”) is combined with one or more tourist services referred to in sub-paragraph (d) of that definition is not a package if the latter services—
+
+- (a) do not account for a significant proportion of the value of the combination and are not advertised as, and do not otherwise represent, an essential feature of the combination; or
+- (b) are selected and purchased after the performance of the principal travel service has started.
+
+(3) In this regulation—
+
+- “point of sale” means—
+  - (a) any retail premises, whether movable or immovable;
+  - (b) a retail website or similar online sales facility, including where retail websites or online sales facilities are presented to travellers as a single facility; or
+  - (c) a telephone service.
+
+### 4B. Procuring flight accommodation and facilitating its availability
+
+These Regulations (other than regulations 9 and 16) apply to—
+
+- (a) the procuring of flight accommodation on behalf of a consumer in circumstances where regulation 9A(1) applies; and
+- (b) facilitating the making available of flight accommodation by another person in circumstances where regulation 9B(1) applies;
+
+as they apply to the activity of making available flight accommodation and references to making available flight accommodation, and similar expressions, in these Regulations (other than in regulations 9 and 16) are to be read as including these activities.
+
+### 5. Requirements for service of documents
+
+(1) Subject to paragraph (2), a notice or other document required to be served under these Regulations must be served in accordance with regulation 6 or 7.
+
+(2) Anything which is required to be served on the CAA under these Regulations may be served electronically by sending it to an e-mail address which the CAA has published for the purpose.
+
+(3) A document is served on a person under regulation 6 if served on, in the case of—
+
+- (a) an individual, that person;
+- (b) a body corporate, a director, secretary, chief executive, treasurer, manager or other officer of the company;
+- (c) a limited liability partnership, any designated member as defined by section 18 of the Limited Liability Partnerships Act 2000 [^c21235301];
+- (d) a partnership, a partner or any person having control or management of the business;
+- (e) an unincorporated body or association, the proprietor or a person concerned in the management or control of the body or association.
+
+### 6. Service by post etc
+
+(1) A notice or other document is served on a person in accordance with this regulation if it is set out in writing and —
+
+- (a) delivered to that person;
+- (b) left at the person's proper address;
+- (c) sent by post to that address; or
+- (d) sent to the person at that address by fax or other similar means which produce a document containing a text of the communication, in which event the document is regarded as served when it is received.
+
+(2) In paragraph (1), “**proper address**” means in the case of—
+
+- (a) an individual, that person's usual or last known place of business, employment, or residence;
+- (b) a body corporate, its principal or registered office or its principal place of business;
+- (c) a limited liability partnership, the address of its principal or registered office; or
+- (d) a partnership or an unincorporated body or association, its principal office or principal place of business.
+
+### 7. Electronic service by the CAA
+
+(1) A notice or other document required to be served by the CAA is served in accordance with this regulation if—
+
+- (a) an address for service using electronic communication has been given by that person and not withdrawn in accordance with paragraph (5);
+- (b) that person has agreed to accept service by electronic communication of documents in a certain form and has not withdrawn that agreement in accordance with paragraph (5); and
+- (c) electronic communication is used to send the notice or other document in that form to that person at that address.
+
+(2) A document given to or served on a person in accordance with paragraph (1) must be in a form sufficiently permanent to be used for subsequent reference.
+
+(3) If a document is given to or served on a person in accordance with paragraph (1), the document is deemed to have been given to or served on that person at the time at which the electronic communication is transmitted unless—
+
+- (a) the contrary is proved; or
+- (b) paragraph (4) applies.
+
+(4) If the time at which an electronic communication is transmitted to a person is a time at which that person's principal place of business in the country in which the addressee is situated is not normally open for business, the document is deemed to have been given or served on that person on the next day on which that person's principal place of business in the country in which the addressee is situated is normally open for business.
+
+(5) A person who has supplied an address for service using electronic communication and has agreed to accept service of documents in a certain form in accordance with paragraph (1)(b) may give notice withdrawing that address or that agreement or both.
+
+(6) A withdrawal under paragraph (5) takes effect on the later of—
+
+- (a) the date specified by the person in the notice; and
+- (b) the date which is 14 days after the date on which the notice is given.
+
+(7) This regulation does not apply to any document the service of which is provided for by the rules of the court.
+
+### 8. Manner of publication by the CAA
+
+(1) Any notice or other matter required by these Regulations to be published must be[^key-2b427a5d2b27cc50bac1d1e4f1e500cd] published by the CAA in its Official Record.
+
+(2) Where the CAA is required to publish any information or document, including its Official Record, it may do so electronically or otherwise.
+
+(3) Any notice that is required to be published for a particular period and is published for a part, but not all, of the period is deemed to have been published for the whole of the relevant period if the failure to publish that notice throughout that period is wholly attributable to circumstances which it would not be reasonable to have expected the CAA to prevent or avoid.
+
+## PART 2 — REGULATION OF PROVISION OF ACCOMMODATION IN AIRCRAFT
+
+### 9. Who may make available flight accommodation
+
+(1)[^key-1fdbc5a8c01a1e09bc890f6caa87bff9] A person must not in the United Kingdom make available flight accommodation unless that person is—
+
+- (a) the operator of the relevant aircraft;
+- (b) an ATOL holder acting in accordance with the terms of its ATOL;
+- (c) a person who is exempt from the need to hold an ATOL by reason of regulation 10; or
+- (d) a person who is exempted by the CAA under regulation 11 from the need to hold an ATOL.
+
+(2)[^key-4287ea0a732aaea66a35a4a3ecb63711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9A. Procuring flight accommodation as agent for the consumer[^key-f53437a0c5161ec4b890f29ea0690b76]
+
+(1) Where this paragraph applies, a person (“A”) must not in the United Kingdom procure flight accommodation on behalf of a consumer (“B”) unless A is a person referred to in regulation 9(1)(b), (c) or (d).
+
+(2) Paragraph (1) applies where—
+
+- (a) A is acting in the course of business; and
+- (b) A is acting as agent for B.
+
+(3)[^key-2c74823b46bd62e3c031b91c63544adf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-082d0d9982d15be310b8aa4fec328b77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9B. Facilitating the making available of flight accommodation by another person
+
+(1) Where this paragraph applies, a person (“P”) must not in the United Kingdom facilitate the making available of flight accommodation by another person (“Q”) unless P is a person referred to in regulation 9(1)(b), (c) or (d).
+
+(2) Paragraph (1) applies where—
+
+- (a) the flight accommodation is a component of a package of which P is the organiser and one of the arrangements relating to payment specified in paragraph (3) applies; or
+- (b)
+  - (i) P is acting in the course of business;
+  - (ii) the facilitation is not limited to arranging payment; and
+  - (iii) the arrangement relating to payment specified in paragraph (3)(a) applies.
+
+(3) The arrangements relating to payment are that P—
+
+- (a) receives a payment in connection with the flight accommodation from a consumer which P passes in whole or in part to Q;
+- (b) arranges for a payment in connection with the flight accommodation to be made by a consumer directly to Q; or
+- (c) receives a payment from Q as a consequence of a flight accommodation booking made by a consumer.
+
+(4)[^key-8898d0467f23532611e702c6d8dd9efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-e477cfd9a80c8ca91d3481c22aaade61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Persons exempt from requirement to hold an ATOL[^key-f0e32f8f8b49a9dfd7d58d17e7669025]
+
+(1) The following persons are exempt from the need to hold an ATOL—
+
+- (a) subject to regulation 15, an agent for an ATOL holder;
+- (b) a person who acts as a member of an accredited body and in accordance with the conditions of membership of that accredited body;
+- (c) an airline ticket agent, except when making available flight accommodation which constitutes a component of a package;
+- (d)[^key-29f7b3940e136012cbbad40337c7fcc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) a worker for an ATOL holder;
+- (f) the CAA;
+- (g) the trustees of the Air Travel Trust acting in their capacity as trustees;
+- (h) a person who is making available flight accommodation under and in accordance with the terms of a general business travel agreement which includes all current terms that have been published by the CAA under paragraph (2);
+- (i) a person making available flight accommodation occasionally on a not-for-profit basis to a limited group of consumers;
+- (j)[^key-b28a3bdff0847bba5e3465df96a4419b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The CAA may—
+
+- (a) publish terms to be included in a general business travel agreement for the purposes of paragraph (1)(h);
+- (b) publish a variation to any such terms, which must not come into force until at least 28 days after the date of publication.
+
+(3) In this regulation, “general business travel agreement” means an agreement which is concluded between a trader and another person, for the purpose of booking travel arrangements in connection with that other person’s trade, business, craft or profession.
+
+### 11. Power to exempt
+
+(1) The CAA may exempt from the need to hold an ATOL any person or any class or description of persons.
+
+(2) The CAA may exempt from any of the provisions of these Regulations any person or class or description of persons [^key-fe4a32867d9552b86217cd20ca3f71f9]... provided the CAA is satisfied that consumers will receive a level of consumer protection equivalent to that which would otherwise be required under these Regulations.
+
+(3) Any exemption issued under paragraph (1) or (2)—
+
+- (a) must be in writing;
+- (b) may be subject to such conditions as the CAA thinks fit;
+- (c) may be revoked or varied in writing by the CAA; and
+- (d) must be published by the CAA.
+
+(4) An exemption issued under paragraph (1) or (2) comes into force on the day after the date on which such exemption is published by the CAA.
+
+### 12. Acting as agent for an ATOL holder
+
+(1) “**Agent for an ATOL holder**” means, subject to paragraph (2), a person who acts as agent on behalf and with the authority of a disclosed identified principal who is an ATOL holder.
+
+(2) A person does not act as an agent for an ATOL holder unless, immediately upon receipt by that person of any payment for the flight accommodation being made available, that person—
+
+- (a) is entitled to supply an ATOL Certificate on behalf of the ATOL holder without reference to the ATOL holder;
+- (b) is able to bind the ATOL holder to the contract for flight accommodation; and
+- (c) acts in accordance with the terms of a written agency agreement which complies with regulation 22.
+
+(3) For the purposes of these Regulations, a worker for an ATOL holder is not an agent for an ATOL holder.
+
+### 13. Acting as an airline ticket agent
+
+(1) “**Airline ticket agent**” means, subject to paragraphs (2) to (5), a person appointed by an aircraft operator as its agent to make available flight accommodation on a flight operated by that aircraft operator.
+
+(2) An airline ticket agent must not make available flight accommodation except to a person who the airline ticket agent has reasonable grounds for believing is the consumer of that flight accommodation.
+
+(3) An airline ticket agent must act in accordance with a written agency agreement under which the airline ticket agent is entitled to supply a confirmed ticket as required by paragraph (4).
+
+(4) An airline ticket agent must, immediately upon receipt of any payment for the flight accommodation supply a confirmed ticket by the specified method.
+
+(5) When supplying a confirmed ticket as required by paragraph (4), the airline ticket agent must at the same time and by the same method, notify the person to whom the ticket is supplied that they are an airline ticket agent for that aircraft operator.
+
+(6) The CAA may require at any time an airline ticket agent or any person purporting to be an airline ticket agent to provide the CAA with a copy of the written agency agreement required under paragraph (3) by serving a notice on that airline ticket agent or on that person purporting to be an airline ticket agent.
+
+(7) Any notice served by the CAA under paragraph (6) must specify a reasonable period during which the person receiving the notice must provide the CAA with a copy of the written agency agreement.
+
+(8) An airline ticket agent must provide the CAA with a copy of the written agency agreement required under paragraph (3) within the period specified by the CAA in the notice served under paragraph (6).
+
+### 14. Acting as member of an accredited body
+
+Where a member of an accredited body makes available flight accommodation, the accredited body is liable to the consumer to the same extent as if it were the member.
+
+### 15. Restrictions on when flight accommodation may be made available[^key-b307544d7a29b6918fca8b4ed729e2f6]
+
+(1) A person cannot, in the capacity of an agent for an ATOL holder, rely on the exemption in regulation 10(1)(a) when making available flight accommodation which constitutes a component of a package unless both of the conditions in paragraph (2) are met.
+
+(2) The conditions are that—
+
+- (a) the person’s involvement in the creation of the package is limited to selecting or enabling a consumer to select from a closed group of travel services made available by the ATOL holder; and
+- (b) the ATOL holder (and not the agent for the ATOL holder) is responsible for and performs the obligations imposed on the organiser of the package under the Package Travel Regulations.
+
+### 16. Who may hold themselves out as being able to provide flight accommodation
+
+A person must not in the United Kingdom—
+
+- (a) hold themselves out as a person who may make available flight accommodation unless—
+  - (i) they may make available that flight accommodation under regulation 9; and
+  - (ii) at all times in the course of holding themselves out as a person who may make available flight accommodation, they disclose to the consumer the capacity in which they are making that flight accommodation available; or
+- (b) give an indication directly or indirectly by whatever means that they—
+  - (i) hold an ATOL which they do not hold; or
+  - (ii) are a member of an accredited body when they are not a member.
+
+### 17. Supply of ATOL Certificate
+
+(1) Any person [^key-9225635902cb69958be28240b6c9ec9d]... who, in circumstances in which an ATOL is required to be held by them or another person under these Regulations,[^key-58ab9b92af84cc36ed3f3100aa8a8dc0] makes available flight accommodation to a consumer—
+
+- (a) on its own, or[^key-df22270b5e63f30a88ebf19b8cfecedf]
+- (b) as a component of a package, [^key-d26a35520788bec447a638f12637bad2]...
+- (c)[^key-695092c2302fddbe3e0264574d3cd5c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+must supply an ATOL Certificate to the consumer by the specified method where paragraph (2) applies.
+
+(2) This paragraph applies when a person specified in paragraph (1)—
+
+- (a) accepts a first payment, whether in part or in full, for flight accommodation;
+- (b) makes a booking for the flight accommodation requested by the consumer where payment for such flight accommodation is made by the consumer to the aircraft operator or another ATOL holder; or
+- (c) accepts a first payment, whether in part or in full, for anything other than the flight accommodation which is or would be a component of a package[^key-fda9f083a22b0833842d499d9668801a].
+
+(3) A person must not supply an ATOL Certificate unless they are required to do so by paragraph (1).
+
+### 18. Meaning of specified method[^key-ecf68c3729308b9e21e72f1e6b67cea9]
+
+The specified method means in relation to the supply of an ATOL Certificate or a confirmed ticket—
+
+- (a) in the case of a consumer who is present, providing the ATOL Certificate or the confirmed ticket to that consumer, or sending the ATOL Certificate or the confirmed ticket to that consumer by electronic communication,[^key-7d4b85f3f4e0139d410b55e99a846141] at the time such payment is made;
+- (b) in the case of a consumer who is not present, immediately sending to that consumer[^key-9eab47a76d5bb0beaf402cc9b69d0a3d] the ATOL Certificate or the confirmed ticket by electronic communication[^key-3d768823e149f4610a685969628ed434]; or
+- (c) in the case of a consumer who makes a booking by telephone, either the method specified in paragraph (b) or immediately posting the ATOL Certificate or the confirmed ticket to that consumer.
+
+(2)[^key-910dd3de9888d5f449b1c64dba05b78f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Form and content of an ATOL Certificate
+
+(1) An ATOL Certificate is a document which complies with any requirements as to the form and content of an ATOL Certificate which have been published by the CAA.
+
+(2) The CAA must publish requirements as to the form and content of an ATOL Certificate.
+
+### 20. Information to be provided to the consumer when making available flight accommodation
+
+Where a person makes available flight accommodation in circumstances in which an ATOL is required to be held under these Regulations[^key-e15ba53a1bf2b5b400ab7e45bd513381], that person must provide to the consumer—
+
+- (a) the name of the person who would be accepting the payment;
+- (b) the capacity in which that person is making available the flight accommodation; and[^key-473d8b1b61369ddb22db0161e5561b24]
+- (c)[^key-349e23da7fad8ca9317cebd2877eb165] the name of the ATOL holder and the ATOL number of the ATOL under which the flight accommodation is being made available.
+- (d)[^key-1a4b98aeb90ce5e5be302e7e5ce51c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-1a4b98aeb90ce5e5be302e7e5ce51c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Compliance
+
+A person must not contravene any term or condition of an ATOL or of an accreditation as an accredited body which they hold.
+
+### 22. Requirement for a written agency agreement
+
+(1) The CAA must publish a schedule of terms to be included in a written agency agreement which the ATOL holder must include in any agency agreement with its agents.
+
+(2) An ATOL holder who makes available flight accommodation and sells it to a consumer via an agent for the ATOL holder, must have a written agency agreement with that agent—
+
+- (a) which authorises the transaction;
+- (b) under which the agent undertakes not to accept payment for the making available of flight accommodation unless the agent supplies to the consumer, by the specified method, an ATOL Certificate on behalf of the ATOL holder; and
+- (c) which includes [^key-2a92f11cf2d090dc68fa69596e3b8d2a]... the schedule of agency terms [^key-2a92f11cf2d090dc68fa69596e3b8d2a]... .
+
+(3) The CAA may at any time propose to vary the schedule of agency terms or any part of that schedule and any such proposal is for the purposes of these Regulations to be treated as a proposal for the variation of every ATOL to which the schedule of agency terms or any part of that schedule applies.
+
+### 23. Failure of an ATOL holder
+
+(1) The CAA must publish a Register of Failed ATOL Holders.
+
+(2) “Failure of an ATOL holder” occurs where paragraphs (a) and (b) are satisfied—
+
+- (a) the CAA holds an opinion that an ATOL holder or a person who held an ATOL within the previous 6 months—
+  - (i) has gone into insolvency;
+  - (ii) cannot or will not be able to meet its obligations to its consumers; or
+  - (iii) will fail to meet its obligations to its consumers;
+- (b) the CAA publishes a notice of the failure of that ATOL holder in the Register of Failed ATOL Holders.
+
+(3) The date on which failure of an ATOL holder occurs is the date on which the relevant notice of the failure of the ATOL holder is published in the Register of Failed ATOL Holders.
+
+## PART 3 — REGULATION OF FLIGHT-PLUS[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+
+**No longer in force.**
+
+### 24. Definition of a Flight-Plus[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Definition of Flight-Plus arranger[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Obligations of a Flight-Plus arranger to provide alternative flight accommodation, living accommodation and self-drive car hire prior to departure[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Obligations of a Flight-Plus arranger to provide alternative flight accommodation, living accommodation and self-drive car hire after departure[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Extent of compensation to be provided for flight accommodation, living accommodation and self-drive car hire[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Obligations of a Flight-Plus arranger to provide a refund for tourist services other than flight accommodation, living accommodation and self-drive car hire[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Limitation of obligations of Flight-Plus arranger[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — LICENSING PROVISIONS
+
+### CHAPTER 1 — Application for, and refusal of, an ATOL or accreditation as an accredited body
+
+#### 31. Application for and grant of an ATOL or a variation to an ATOL
+
+(1) The CAA must specify and publish the requirements for an application for an ATOL or a variation to an ATOL.
+
+(2) Subject to paragraph (4), an application for the grant or variation of an ATOL must be made in a form and manner published by the CAA.
+
+(3) Where such an application is received the CAA must—
+
+- (a) grant an ATOL or a variation to an ATOL to the applicant in the terms requested in the application;
+- (b) grant an ATOL or a variation to an ATOL in those terms with such modifications and subject to such conditions as the CAA thinks fit; or
+- (c) refuse to grant an ATOL or a variation to an ATOL.
+
+(4) The CAA may refuse to consider an application unless it is accompanied by the charge payable under a charging scheme made under section 11 of the Act.
+
+(5) The CAA may require as a condition or a term of the ATOL compliance with one or more of the ATOL standard terms and all or any part of the schedule of agency terms.
+
+(6) When granting an ATOL, the CAA must provide a number for that ATOL, unique to that ATOL.
+
+#### 32. Refusal to grant an ATOL
+
+(1) The CAA must refuse to grant an ATOL if the CAA is not satisfied that the applicant is a fit person to make available flight accommodation.
+
+(2) The CAA may refuse to grant an ATOL or a variation to an ATOL if the CAA is not satisfied—
+
+- (a) that the applicant is competent to make available flight accommodation;
+- (b) that the resources of the applicant and the financial arrangements made by the applicant are adequate for discharging the actual and potential obligations in respect of the activities in which the applicant is engaged (if any) and in which the applicant may be expected to engage if granted the ATOL;
+- (c) that it has appointed a person acceptable to the CAA as its accountable person; or
+- (d) that the applicant has complied with all or any of regulations 7, 8 and 9 of the Civil Aviation (Contributions to the Air Travel Trust) Regulations 2007 [^c21235311] which are applicable to it in the circumstances.
+
+(3) In determining whether the applicant is a fit and competent person under paragraph (1) or 2(a) the CAA must have regard to—
+
+- (a) the past activities generally of the applicant and the applicant's employees; and
+- (b) where the applicant is a body corporate, the past activities generally of the persons appearing to the CAA to control that body.
+
+(4) The CAA is not obliged to refuse an ATOL on the grounds that the applicant has insufficient experience in making available flight accommodation.
+
+#### 33. Application for and grant of accreditation as an accredited body
+
+(1) The CAA must specify and publish the requirements for an application for an accreditation as an accredited body or a variation of such an accreditation.
+
+(2) Subject to paragraph (4), an application for accreditation as an accredited body or a variation of such an accreditation must be made in a form and manner published by the CAA.
+
+(3) Where such an application is received the CAA must—
+
+- (a) grant an accreditation or a variation to such an accreditation to the applicant in the terms requested in the application;
+- (b) grant an accreditation or a variation to such an accreditation subject to such conditions as the CAA thinks fit; or
+- (c) refuse to grant an accreditation or a variation to such an accreditation.
+
+(4) The CAA may refuse to consider an application unless it is accompanied by the charge payable under a charging scheme made under section 11 of the Act.
+
+(5) The CAA may require as a condition or a term of the accreditation compliance with one or more of the accredited body standard terms and all or any part of the schedule of agency terms.
+
+#### 34. Refusal to grant an accreditation
+
+The CAA must refuse to grant an accreditation as an accredited body or a variation to such an accreditation for the purposes of these Regulations unless—
+
+- (a) the applicant is an ATOL holder; and
+- (b) the CAA is satisfied that the applicant's—
+  - (i) organisation, staffing, financial and other arrangements; and
+  - (ii) conditions of membership and its arrangements for supervising its members,
+
+  are such that a person dealing with a member of the accredited body will receive a level of protection which is equivalent to the one they would receive if dealing similarly with an ATOL holder that is not an accredited body.
+
+### CHAPTER 2 — Revocation, suspension, variation and refusal of ATOL or accreditation
+
+#### SECTION 1 — ATOL
+
+##### 35. Revocation, suspension or variation of an ATOL
+
+(1) The CAA must revoke, suspend or vary an ATOL if the CAA is no longer satisfied that the ATOL holder is a fit person to make available flight accommodation.
+
+(2) The CAA may revoke, suspend or vary an ATOL if—
+
+- (a) it is no longer satisfied with regard to any of the matters specified in regulation 32(2), or
+- (b) the ATOL holder fails to comply with any term or condition of its ATOL.
+
+##### 36. Procedure for revocation, suspension, variation or refusal of ATOL
+
+Subject to regulation 37, if it is proposed to—
+
+- (a) revoke, suspend or vary an ATOL otherwise than on the application of the holder;
+- (b) grant or vary an ATOL in terms other than those requested by the applicant; or
+- (c) refuse to grant an ATOL,
+
+the CAA must serve on the ATOL holder or the applicant for the ATOL at least 21 days notice of the proposal to make such a decision and its reasons for the proposal.
+
+##### 37. Expedited suspension of an ATOL
+
+(1) The CAA may suspend an ATOL notwithstanding that it has not complied with the requirements of regulation 36 if it—
+
+- (a) is no longer satisfied that—
+  - (i) the ATOL holder is a fit or competent person to make available flight accommodation; or
+  - (ii) the resources and financial arrangements of the ATOL holder are adequate for discharging the actual and potential obligations in respect of the activities in which the ATOL holder is engaged;
+- (b) serves on the ATOL holder at least 72 hours notice of its proposal to suspend the ATOL and its reasons for the proposal; and
+- (c) considers any representations which may be made to it by the ATOL holder before the expiration of such notice.
+
+(2) In computing the period of 72 hours specified in paragraph (1)(b), the whole of any Saturday, Sunday, Christmas Day, Good Friday, or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom is to be disregarded.
+
+##### 38. Provisional variation of an ATOL
+
+(1) Where in the CAA's opinion it is in the interests of consumers to do so, the CAA may provisionally vary an ATOL with immediate effect.
+
+(2) When issuing a provisional variation the CAA must supply a summary of the reasons for the provisional variation to the ATOL holder.
+
+(3) Within a period of 28 days beginning with the date of issue of a provisional variation the CAA must service a notice under regulation 36 to revoke, suspend or vary the ATOL unless the provisional variation is withdrawn by the CAA.
+
+(4) A provisional variation may impose such terms or conditions on the ATOL as the CAA considers necessary for the protection of current or potential consumers.
+
+##### 39. Application for revocation, suspension or variation of an ATOL
+
+(1) The ATOL holder may make an application to the CAA to revoke, suspend or vary its ATOL at any time.
+
+(2) No application may be made to revoke, suspend or vary the ATOL standard terms.
+
+(3) The CAA may refuse to consider any application for variation of an ATOL unless it is accompanied by the charge payable under a charging scheme made under section 11 of the Act.
+
+##### 40. Compliance with and variation of ATOL standard terms
+
+(1) The CAA must publish a schedule of standard terms for an ATOL.
+
+(2) The CAA may publish a proposed variation to ATOL standard terms.
+
+(3) A proposal to vary one or more of the ATOL standard terms must specify the date on which the variation will come into force which must be at least 28 days after the date of publication.
+
+(4) Where an ATOL is subject to one or more of the ATOL standard terms, the ATOL holder must comply with any variation to the ATOL standard terms applicable to its ATOL.
+
+##### 41. Supplying false information
+
+A person must not, knowingly or recklessly, supply to the CAA any information which is false in a material respect for the purpose of obtaining for themselves or for another person an ATOL or a variation of an ATOL or the cancellation of the suspension of an ATOL.
+
+#### SECTION 2 — Accreditation
+
+##### 42. Validity of an accreditation
+
+An accreditation ceases to be valid if the accredited body ceases to hold an ATOL or its ATOL is suspended.
+
+##### 43. Revocation, suspension or variation of an accreditation
+
+The CAA may revoke, suspend or vary an accreditation if—
+
+- (a) it is no longer satisfied with regard to any of the matters specified in regulation 34(b);
+- (b) the accreditation body fails to comply with any term or condition of its accreditation; or
+- (c) it discovers that false information has been supplied for an application for an accreditation as an accredited body or a variation of such an accreditation.
+
+##### 44. Procedure for revocation, suspension, variation or refusal of accreditation
+
+Subject to regulation 45, if it is proposed to—
+
+- (a) revoke, suspend or vary an accreditation otherwise than on the application of the accredited body;
+- (b) grant or vary an accreditation in terms other than those requested by the applicant; or
+- (c) refuse to grant an accreditation,
+
+the CAA must serve on the accredited body or the applicant for the accreditation at least 21 days notice of the proposal to make such a decision and its reasons for the proposal.
+
+##### 45. Expedited suspension of an accreditation
+
+(1) The CAA may suspend an accreditation notwithstanding that it has not complied with the requirements of regulation 44 if it—
+
+- (a) is no longer satisfied that the applicant's—
+  - (i) organisation, staffing, financial and other arrangements; and
+  - (ii) conditions of membership and its arrangements for supervising its members,
+
+  are such that a person dealing with a member of the accredited body will receive a level of protection which is equivalent to the one they would receive if dealing similarly with an ATOL holder that is not an accredited body.
+- (b) serves on the accredited body at least 72 hours notice of its proposal to suspend the accreditation and its reasons for the proposal; and
+- (c) considers any representations which may be made to it by the accredited body before the expiration of such notice.
+
+(2) In computing the period of 72 hours specified in paragraph (1)(b) the whole of any Saturday, Sunday, Christmas Day, Good Friday, or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom is to be disregarded.
+
+##### 46. Provisional variation of accreditation
+
+(1) Where in the CAA's opinion it is in the interests of consumers to do so, the CAA may provisionally vary an accreditation with immediate effect.
+
+(2) When issuing a provisional variation the CAA must supply a summary of the reasons for the provisional variation.
+
+(3) A provisional variation remains in force until a decision is reached on the proposal to revoke, suspend or vary the accreditation unless the provisional variation is withdrawn by the CAA.
+
+(4) A provisional variation may impose such terms and conditions on the accreditation as the CAA considers necessary for the protection of current or potential consumers.
+
+##### 47. Application for revocation, suspension or variation of accreditation
+
+(1) The accredited body may apply for its accreditation to be revoked, suspended or varied at any time, but may not apply for the variation of the accredited body standard terms.
+
+(2) The CAA may refuse to consider any application for variation of an accreditation unless it is accompanied by the charge payable under a charging scheme made under section 11 of the Act.
+
+##### 48. Compliance with and variation of accredited body standard terms
+
+(1) The CAA must publish a schedule of standard terms for an accredited body.
+
+(2) The CAA may publish a proposed variation to accredited body standard terms.
+
+(3) A proposal to vary one or more of the accredited body standard terms must specify the date on which the variation will come into force which must be at least 28 days after the date of publication.
+
+(4) Where an accreditation as an accredited body is subject to one or more of the accredited body standard terms, the accredited body must comply with any variation to the accredited body standard terms applicable to its accreditation.
+
+## PART 5 — DECISIONS AND HEARINGS
+
+### CHAPTER 1 — Licensing Procedures
+
+#### 49. Meaning of “the person concerned”
+
+(1) In this Part, “**the person concerned**” means the applicant for or holder of an ATOL or accreditation which is the subject of the proceedings.
+
+(2) In this part, “**the CAA's employee responsible for the proposal**” means an employee of the CAA designated by them to consider whether an ATOL or accreditation ought to be revoked, suspended or varied and who proposes what action should be taken to the Member.
+
+#### 50. Decisions to be made by Member
+
+(1) This Part applies to the CAA's function of making a decision to—
+
+- (a) revoke, suspend or vary an ATOL or accreditation otherwise than on the application of the person concerned,
+- (b) grant or vary an ATOL or accreditation in terms other than those requested by the person concerned[^key-aeaa20c7805bfc146264bc6ad13b68f8],
+- (c) refuse to grant an ATOL or accreditation, or
+- (d) provisionally vary an ATOL or accreditation.
+
+(2)[^key-89dffca555c550afd8f4946d7033593e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where this Part applies, the quorum of the CAA is one Member.
+
+(4) Where a decision is to be made by more than one Member, references in this Part to “Member” shall include all such Members.
+
+#### 51. Application for extension of time limit
+
+(1) The CAA may extend any time limit imposed by this Part whether or not it has already expired, if—
+
+- (a) it would not be reasonable to expect any person subject to such a limit to comply or to have complied with the time limit; or
+- (b) not to extend the time limit would result in substantial injustice.
+
+(2) Before deciding whether or not to extend the time limit the CAA must give persons entitled to attend a hearing under regulation 59 an opportunity to submit written representations.
+
+#### 52. Confidential information
+
+(1) In this regulation, confidential information means personal data (as defined in section 1 of the Data Protection Act 1998 [^c21235321]) or information which in the opinion of the CAA relates to the commercial or financial affairs of any person.
+
+(2) The CAA must exclude from a statement of reasons or decision which it is required to publish any confidential information which cannot be disclosed without disadvantage to the person to whom it relates where, by comparison with the advantage to the public, its disclosure is unwarranted.
+
+#### 53. Consideration of representations
+
+(1) Before making a decision specified in regulation 50(1)(a), (b) or (c), the Member must consider any representations and evidence submitted by the person concerned and the CAA's employee responsible for the proposal.
+
+(2) The requirement to consider the representations only applies if they are provided to the CAA by the person concerned within 10 days beginning with the date of service of the notice under regulation 36 or regulation 44 or such additional period as the Member may determine in accordance with regulation 51.
+
+(3) The Member may request further information and specify the period of time in which it must be supplied from the person concerned or the CAA employee responsible for the proposal after considering any representations and evidence submitted.
+
+#### 54. Statement of reasons
+
+Where the CAA makes a decision to—
+
+- (a) revoke, suspend or vary an ATOL or an accreditation otherwise than on the application of the person concerned;
+- (b) grant or vary an ATOL or an accreditation in terms other than those requested by the person concerned; or
+- (c) refuse to grant an ATOL or an accreditation,
+
+the CAA must supply a statement of its reasons for the decision to the person concerned.
+
+#### 55. Publication of Decision
+
+Where the CAA decides to revoke or suspend an ATOL or accreditation the decision must be published by the CAA.
+
+### CHAPTER 2 — Requirement for and conduct of hearing
+
+#### 56. Requirement to hold a hearing
+
+(1) Within the time limit under regulation 53 for providing representations to the CAA, the person concerned may request a hearing.
+
+(2) Where the person concerned requests a hearing, the Member must before making a decision, hold a hearing and consider any representations made or evidence submitted at such a hearing.
+
+(3) Where the person concerned does not request a hearing, the Member may hold a hearing, if the Member considers it appropriate following consideration of representations and evidence submitted under regulation 53.
+
+#### 57. Giving notice of hearing
+
+(1) Subject to regulation 51, no hearing is to be held under this Part unless the CAA has served on the person concerned at least 7 days notice of the date, time and place of the hearing.
+
+(2) The notice must clearly identify the matter to which it relates.
+
+(3) The notice must be published at least 7 days before the date of the hearing unless the hearing is to be held in private.
+
+(4) On the day of the hearing, the notice must be exhibited in a visible and accessible place at the venue where the hearing is scheduled to take place unless the hearing is to be held in private.
+
+#### 58. Expedited hearing
+
+(1) If the CAA is satisfied that for reasons of urgency it is desirable to do so, a hearing may be held without notice having been served, published and exhibited in accordance with regulation 57.
+
+(2) In such a case, the CAA must give notice of the date, time and place of the hearing, being notice of such length and by such means as it thinks fit, to the applicant, the ATOL holder or accredited body.
+
+#### 59. Entitlement to attend and be heard
+
+The person concerned and the CAA's employee who has made the proposal under regulation 36 or regulation 44 to be determined have a right to attend and be heard at the hearing.
+
+#### 60. Absence of party
+
+Where the CAA is required to hold a hearing under this Part, the hearing may proceed in the absence of the person concerned or that person's representative and the CAA must consider any representations made or evidence submitted by any person entitled to attend who is in attendance.
+
+#### 61. Technical assessors
+
+The Member conducting a hearing may appoint a technical assessor, so long as that assessor did not participate in the application or proposal which is the subject of the hearing, to provide advice and assistance.
+
+#### 62. Right to be represented, produce evidence and examine other persons
+
+(1) At a hearing every person with a right to be heard may appear in person or be represented by any other person who they have authorised to represent them.
+
+(2) A person with a right to be heard or their representative may—
+
+- (a) produce oral and written evidence; and
+- (b) examine the other persons being heard, and any witness produced by such persons.
+
+#### 63. Hearings in public or in private
+
+(1) All hearings must be in public unless—
+
+- (a) the CAA is satisfied that a private hearing is required—
+  - (i) in the interests of morals, public order or national security in a democratic society,
+  - (ii) the interests of juveniles or the protection of the private lives of the parties, or
+  - (iii) to the extent strictly necessary in the opinion of the CAA in special circumstances if publicity would prejudice the interests of justice; or
+- (b) where the person concerned has requested in writing that the hearing be in private and the CAA is satisfied that there is no important public interest consideration that calls for the public to be present.
+
+(2) The CAA may decide under paragraph (1) that part only of the hearing is to be in private or that information about the proceedings before the CAA, the names and identifying characteristics of persons concerned in the proceedings or specified evidence given in the proceedings must not be made public or disclosed to the person concerned.
+
+(3) Any person who the CAA, with the consent of the person concerned or their representative, permits to attend the hearing may attend a hearing, whether or not it is in private.
+
+#### 64. Procedure at hearing
+
+(1) At the beginning of any hearing the CAA must explain the manner and order of proceeding, having regard to any applicable burden and standard of proof and rules of evidence.
+
+(2) The CAA may conduct the hearing in the manner it considers most suitable—
+
+- (a) to the clarification of the issues before it; and
+- (b) to enable the CAA, with the assistance of the person concerned (or their representative) and the CAA employee responsible for the proposal, to deal with the case fairly and justly;
+
+seeking to avoid, where appropriate, formality and inflexibility in its proceedings.
+
+(3) The CAA may consider evidence of any fact which seems to the CAA to be relevant even if the evidence would be inadmissible in proceedings before a court of law.
+
+#### 65. Provision of transcripts
+
+(1) All the proceedings at a hearing in accordance with this Part must be recorded in writing.
+
+(2) Subject to paragraphs (3), (4) and (5), a copy of the transcript of the proceedings must be made available to any person on request, unless a decision has been taken to hold the hearing in private, in which case a transcript must only be made available to those present at the hearing.
+
+(3) If part of the hearing is held in private, a copy of the transcript of that part of the proceedings must only be supplied to persons present during that part.
+
+(4) The CAA is entitled to require payment of a reasonable fee before supplying a copy of any transcript.
+
+(5) The CAA is not required to supply an electronic recording or transcript of the proceedings at any time more than one year after it has published or notified its decision.
+
+#### 66. Exclusions[^key-3059bb0e36c40ab754b94ffe8000db4c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — APPEALS AND TRANSFER OF LICENCE
+
+### 67. Appeal to County Court or Sheriff Court
+
+(1) Subject to paragraphs (3) and (4), an appeal lies to a county court from any decision of the CAA that a person is not a fit person to hold an ATOL.
+
+(2) If the court is satisfied that on the evidence submitted to the CAA it was wrong in deciding that a person is not a fit person to hold an ATOL, the court may reverse the CAA's decision and the CAA must give effect to the court's determination.
+
+(3) If the appellant resides or has its registered or principal office in Scotland the appeal lies to the sheriff court within whose jurisdiction the appellant resides or has its registered or principal office and the appeal is by way of summary application [^c21235331].
+
+(4) If the appellant resides or has its registered or principal office in Northern Ireland the appeal lies to a county court held under the County Courts (Northern Ireland) Order 1980 [^c21235341].
+
+(5) The CAA will be named by the appellant as respondent to any appeal under this regulation.
+
+(6) For the purposes of any provision relating to the time within which an appeal may be brought, the CAA's decision is deemed to have been taken on the date on which the CAA supplied a statement of its reasons for the decision to the applicant for an ATOL or the holder or former holder of it.
+
+### 68. Transfer of ATOL
+
+(1) Subject to the provisions of this regulation, if the sole holder of an ATOL (being an individual) dies, the ATOL must be treated from the time of death as if it had been granted to the ATOL holder's legal personal representative.
+
+(2) The legal personal representative required by paragraph (1) of this regulation to be treated as the holder of the ATOL may apply to the CAA for the transfer of the ATOL to any person entitled to a beneficial interest in the deceased's estate (including themselves in their personal capacity if, in that capacity, they are entitled to such an interest).
+
+(3) The application must state the grounds on which it is based and must be served on the CAA within a period of 21 days beginning with the day on which the applicant first became entitled to make the application.
+
+(4) If no such application is made within that period, the ATOL ceases at the expiration of that period to be treated as if granted to a person other than the person to whom it was granted.
+
+(5) The CAA must not grant an application for the transfer of an ATOL to any person if it would be bound under regulation 32(1) to refuse that application if it were an application for the grant of an ATOL to that person, and the provisions of Part 5 as to decisions and hearings apply accordingly and references in that Part to “the person concerned” are to be construed accordingly as including references to the legal personal representative.
+
+(6) For the purposes of this regulation “**legal personal representative**” means a person constituted executor, administrator or other representative of a deceased person by probate, administration or other instrument.
+
+## PART 7 — OFFENCES, PENALTIES AND PROCEEDINGS
+
+### 69. Offences and penalties
+
+(1) A person who contravenes regulation 13(2), 17 or 21 is guilty of an offence and is liable on summary conviction to a fine not exceeding the statutory maximum.
+
+(2) A person who contravenes regulation 9, 9A, 9B,[^key-3f13858c92e1dbfd60acf1a17204c7b5] [^key-acf5c81b3978a703620b3df95a590d04]... 16 or 41 is guilty of an offence and liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum, or in Scotland, a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding 2 years or both.
+
+### 70. Due diligence defence
+
+(1) In any proceedings against a person for an offence under regulation 9, 9A, 9B,[^key-f34955495c25c20f59cdbc26cae8dafd] 13(2), [^key-5fab0141b491779d89cd1291a32fae85]... 16, 17 or 21 it is a defence for that person to prove that that person took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(2) A person shall not be entitled to rely on the defence provided in paragraph (1) by reason of reliance on information supplied by another unless that person proves that it was reasonable in all the circumstances for that person to have relied on the information, having regard in particular to—
+
+- (a) the steps taken, and those that might reasonably have been taken, for the purpose of verifying the information; and
+- (b) whether the person had any reason to disbelieve the information.
+
+### 71. Time limit for prosecution
+
+(1) Notwithstanding anything in section 127(1) of the Magistrates' Courts Act 1980 [^c21235351], an information relating to an offence under these Regulations which is triable by a magistrates' court in England and Wales may be so tried if it is laid at any time before the end of the period of twelve months beginning with the date of the commission of the offence.
+
+(2) Notwithstanding anything in section 136 of the Criminal Procedure (Scotland) Act 1995 [^c21235361] summary proceedings in Scotland for an offence under these Regulations may be commenced at any time before the end of the period of twelve months beginning with the date of the commission of the offence.
+
+(3) For the purposes of paragraph (2), section 136(3) of the Criminal Procedure (Scotland) Act 1995 applies.
+
+(4) Notwithstanding anything in article 19(1) of the Magistrates' Courts (Northern Ireland) Order 1981 [^c21235371], a complaint charging an offence under these Regulations which is triable by a magistrates' court in Northern Ireland may be so tried if it is made at any time before the end of the period of twelve months beginning with the date of the commission of the offence.
+
+## PART 8 — AMENDMENTS
+
+### 72. The Civil Aviation (Contributions to the Air Travel Trust) Regulations 2007
+
+Regulation 2(1) of the Civil Aviation (Contributions to the Air Travel Trust) Regulations 2007 [^c21235381] is amended as follows—
+
+- (a) before the definition of “ATOL Regulations”, insert—
+
+  > “**accredited body**” means a body accredited as an accredited body by the CAA under the ATOL Regulations;
+
+  ;
+- (b) in the definition of “ATOL Regulations”, for “1995” substitute “ 2012 ”;
+- (c) the definition of “end user” is omitted;
+- (d) after the definition of “ATOL Regulations”, insert—
+
+  > “**consumer**” means an individual who—
+  >
+  > - (a) [^key-8da35a5add18be5421fdff609e9b71ba]... makes use of flight accommodation for travel in person or provides it to another person who uses that flight accommodation for travel in person,
+  > - (b) intends to make use of flight accommodation for travel in person or intends to provide it to another person to use that flight accommodation for travel in person; or
+  > - (c) makes use of flight accommodation for travel in person which has been provided to them by a person who is a consumer by reason of sub-paragraph (a);
+  >
+  > but is not a person who procures flight accommodation in the course of business while acting as the agent of another person who uses that flight accommodation for travel in person;;
+
+  ;
+- (e) in the definition of “relevant booking”, for “an end user” in sub-paragraph (a), substitute “ a consumer ” and for sub-paragraph (b), substitute—
+
+  > - (b) which is accepted by—
+  >   - (i) an air travel organiser, or
+  >   - (ii) where a licence is held by an accredited body, a member of that accredited body,
+  >
+  >   and constitutes an activity in respect of which that organiser or accredited body is required to hold a licence.
+
+  ;
+- (f) for the definition of “SBA”, substitute—
+
+  > “**SBA**” means a licence (a Small Business ATOL) which authorises the holder to accept relevant bookings which include not more than—
+  >
+  > - (a) 500 passengers; or
+  > - (b) such greater number as the CAA may publish from time to time; and
+
+  ;
+- (g) for regulation 8(2), substitute—
+
+  > (2) Within a period of 42 days beginning with the date of commencement of a SBA renewal, the holder of that SBA must pay to the CAA (or such other person as the CAA may direct) the sum calculated by adding together the contribution amounts for all relevant bookings made during the period of the immediately preceding SBA.
+
+  ;
+- (h) after regulation 8(2) insert—
+
+  > (3) For the purpose of paragraph (2), the contribution amount for each relevant booking is calculated by multiplying—
+  >
+  > - (a) the number of passengers included in that relevant booking, by
+  > - (b) the rate of contribution in force on the date the relevant booking was made.
+
+  .
+
+## PART 9 — TRANSITIONAL AND SAVING PROVISION
+
+### 73. Licences granted under the Civil Aviation (Air Travel Organisers' Licensing) Regulations 1995
+
+Any licence granted by the CAA under the Civil Aviation (Air Travel Organisers' Licensing) Regulations 1995 [^c21235391] which is in effect immediately before the day on which these Regulations come into force—
+
+- (a) has effect on and after that date as if it were granted under these Regulations; and
+- (b) subject to the provisions of these Regulations remains in force until the expiry of that licence.
+
+### 74. ATOL Certificates[^key-99d80452e6aa39945d5376d736d48848]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State
+
+Norman Baker
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE — Revocations
+
+Regulation 3
+
+| *SI number* | *Title* | *Extent of revocation* |
+| --- | --- | --- |
+| 1995/1054 | The Civil Aviation (Air Travel Organisers' Licensing) Regulations 1995 | The entire instrument |
+| 1996/1390 | The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 1996 | The entire instrument |
+| 1997/2912 | The Civil Aviation (Air Travel Organisers' Licensing) (Second Amendment) Regulations 1997 | The entire instrument |
+| 2003/1741 | The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2003 | The entire instrument |
+| 2007/2999 | The Civil Aviation (Contributions to the Air Travel Trust) Regulations 2007 | Regulation 19 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Civil Aviation (Air Travel Organisers' Licensing) Regulations 1995, as amended. In addition to some minor and drafting amendments the following changes are made.
+
+*Regulation 2* requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+Part 2 (regulations 9 to 23) regulates who in the United Kingdom is entitled to provide flight accommodation, and restricts how such provision is made.
+
+*Regulation 9* requires an Air Travel Organiser's Licence (ATOL) to be held by anyone in the United Kingdom (other than an aircraft operator) who makes available flight accommodation, unless they are exempt under regulation 10 or 11. The exemption applies to agents of an ATOL holder, persons acting as a member of an accredited body, airline ticket agents, those persons established in an EEA state other than the UK who is not a Flight-Only provider, a worker for an ATOL holder, the CAA, the trustees of the Air Travel Trust (acting in that capacity) and those exempted by the CAA under regulation 11. “**Accredited body**” and “**airline ticket agent**” are defined in regulations 4, 13 and 33. Regulation 10(f) also exempts a person who is making available flight accommodation as a component of a Flight-Plus, but this exemption will not come into force until 30th April 2019.
+
+*Regulation 22* requires the CAA to publish a schedule of terms for written agency agreements which may be required to be included in any agency agreement between an ATOL holder and its agent.
+
+Part 3 (regulations 24 to 30) regulates the arrangement of a Flight-Plus; this term is defined in regulation 24 but in brief, it relates to where a flight out of or into the United Kingdom is made available, and living accommodation and car hire abroad are requested to be booked. A Flight-Plus arranger (defined in regulation 25) is liable to the consumer for the provision of the flight accommodation, living accommodation and self-drive car hire provided as part of a Flight-Plus. If prior to departure by the consumer, the Flight-Plus arranger becomes aware that any of these elements will not be provided, the Flight-Plus arranger must provide suitable alternatives at no extra cost to the consumer (regulation 26). If after departure the Flight-Plus arranger becomes aware that the flight will not be provided, the Flight-Plus arranger must provide the consumer at no extra cost suitable alternative transport back to the place of departure. In the case of living accommodation or self-drive car hire not being provided, the Flight-Plus arranger must provide the consumer at no extra cost with suitable alternative living accommodation or self-drive car hire, as appropriate (regulation 27). Where suitable alternative arrangements cannot be made, the Flight-Plus arranger must compensate the consumer (regulation 28). However, the Flight-Plus arranger is not liable unless the reason for the non-availability of the flight or living accommodation or self-drive car hire is due to the insolvency of any person concerned with its provision or the failure of the ATOL holder providing the flight accommodation (regulation 30).
+
+Part 4 (regulations 31 to 48) regulates the process for the CAA in dealing with applications, refusals and variations for ATOLs and accreditations as an accredited body. Regulations 32 and 34 specify circumstances where the CAA must or may refuse an ATOL or accreditation. Regulations 37 and 45 provide for expedited suspension of an ATOL or accreditation and regulations 38 and 46 provide for provisional variation of an ATOL or accreditation where the CAA believes such provisional variation is in the interests of consumers. The CAA is required to publish a schedule of ATOL standard terms and in granting an ATOL, the CAA may make an ATOL subject to one or more of the ATOL standard terms (regulation 40). The CAA is also required to publish a schedule of standard terms which may be made applicable to accredited bodies (regulation 48).
+
+Part 5 (regulations 49 to 66) regulates the process by which decisions on licensing are made by the CAA. Regulation 50 requires certain decisions to be made by a Member of the CAA, whilst other decisions may be made by a Member or an employee of the CAA. “Member” is defined in regulation 4. The process incorporates an opportunity for representations to be made by the person concerned (regulation 53) and for that person to make a request for a hearing (regulation 56). There is also provision for an expedited hearing for urgent cases (regulation 58) and hearings in private (regulation 63). CAA is required to publish decisions to revoke or suspend a licence or accreditation (regulation 55).
+
+Part 6 (regulations 67 and 68) provides for appeals to the county court, or in Scotland the sheriff court, from any decision of the CAA that a person is not a fit person to hold an ATOL, and for the transfer of an ATOL following the death of a sole holder of an ATOL.
+
+Part 7 (regulations 69 to 71) deals with offences and penalties. Regulation 69 specifies the offences and penalties and regulation 70 provides for a due diligence defence. Regulation 71 extends the time limit for prosecution to 12 months beginning with the date of the commission of the offence.
+
+Part 8 (regulation 72) makes amendments to the Civil Aviation (Contributions to the Air Travel Trust) Regulations 2007.
+
+Part 9 makes transitional and saving provision. *Regulation 73* provides for an ATOL granted by the CAA under the Civil Aviation (Air Travel Organisers' Licensing) Regulations 1995 to remain in force. *Regulation 74* provides for supplying an ATOL Certificate “immediately” in regulation 18 to include posting or emailing within 3 days, until the end of September 2012.
+
+An impact assessment has been prepared in relation to these Regulations. The assessment has been placed in the Library of each House of Parliament and can be found on the Department for Transport website (http://www.dft.gov.uk).
+
+## Annotations
+
+[^c21235221]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16). The expression “prescribed” is defined in section 105(1); section 7(2) was amended by sections 37 and 75 of the [Criminal Justice Act 1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48). Sections 71A and 71B were inserted by section 10 of the [Civil Aviation Act 2006 (c.34)](https://www.legislation.gov.uk/ukpga/2006/34).
+
+[^c21235231]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). The Civil Aviation Authority is a “**listed tribunal**” for the purposes of Schedule 7 to that Act by virtue of SI 2007/2951.
+
+[^key-73d871b193af262053ac87d81ac6ef68]: Textual amendment: Words in reg. 1(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/3/1/a)
+
+[^key-c683b8f9621db95b3111ca05e8e5ac4a]: Textual amendment: Reg. 1(3) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/3/1/b)
+
+[^key-75564a205abfb31fa89eaa598726b8f3]: Textual amendment: Words in reg. 2(2) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2018/670/regulation/4/1)
+
+[^key-e121cca97ee4a23c2678b0d7b7d75d08]: Textual amendment: Words in reg. 2(4) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/4/2)
+
+[^c21235251]: Marginal citation: [S.I. 2007/2999](https://www.legislation.gov.uk/uksi/2007/2999).
+
+[^c21235261]: Marginal citation: [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93). Regulation 3 has been amended by regulation 2(1) and (2) of the [Agency Workers (Amendment) Regulations 2011 (S.I. 2011/1941)](https://www.legislation.gov.uk/uksi/2011/1941).
+
+[^key-df5534374fe210d47980d6ad1b78570d]: Textual amendment: Words in reg. 4(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/a)
+
+[^c21235271]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c21235281]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32(1) has been amended by regulation 2(1) and paragraph 9 of Schedule 1 of the [Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210).
+
+[^key-d9d687f4c3e50c850128c4e2551037d7]: Textual amendment: Words in reg. 4(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/d)
+
+[^key-dfc07b3310b59087982dfa2c1e442e79]: Textual amendment: Words in reg. 4(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/c)
+
+[^key-30c9d5e7d5c87ec8cd687256b2db7bc2]: Textual amendment: Words in reg. 4(1) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/b)
+
+[^key-f1f0b65885484e1d5d03617fb1a040ed]: Textual amendment: Words in reg. 4(1) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 27(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/27/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^key-e6ecb9c606ae53b031258be7eb362b80]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020) by [S.I. 2019/278](https://www.legislation.gov.uk/uksi/2019/278), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/2) (as amended by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 37(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/37/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-46c75671547bd5ee1185baffe9023928]: Textual amendment: Words in reg. 4(3) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(a)
+
+[^key-8503c795b9216aedfafb0c441764313d]: Textual amendment: Words in reg. 4(3) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/2)
+
+[^c21235291]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-7e8ddbd90f4322248db99112c848efba]: Textual amendment: Regs. 4A, 4B inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/670/regulation/6)
+
+[^c21235301]: Marginal citation: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12). Section 18 cross-refers to section 8 of the Limited Liability Partnerships Act 2000 and section 8 has been amended by regulation 85 of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804).
+
+[^key-2b427a5d2b27cc50bac1d1e4f1e500cd]: Textual amendment: Words in reg. 8(1) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/670/regulation/7)
+
+[^key-1fdbc5a8c01a1e09bc890f6caa87bff9]: Textual amendment: Reg. 9 renumbered as reg. 9(1) (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2018/670/regulation/8/1)
+
+[^key-4287ea0a732aaea66a35a4a3ecb63711]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9/2) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f53437a0c5161ec4b890f29ea0690b76]: Textual amendment: Regs. 9A, 9B inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/8/3)
+
+[^key-2c74823b46bd62e3c031b91c63544adf]: Textual amendment: [Reg. 9A(3)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9A/3) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-082d0d9982d15be310b8aa4fec328b77]: Textual amendment: [Reg. 9A(4)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9A/4) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8898d0467f23532611e702c6d8dd9efb]: Textual amendment: [Reg. 9B(4)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9B/4) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(5)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e477cfd9a80c8ca91d3481c22aaade61]: Textual amendment: [Reg. 9B(5)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9B/5) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(5)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f0e32f8f8b49a9dfd7d58d17e7669025]: Textual amendment: Reg. 10 substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [9](https://www.legislation.gov.uk/uksi/2018/670/regulation/9)
+
+[^key-29f7b3940e136012cbbad40337c7fcc2]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/10/1/d) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b28a3bdff0847bba5e3465df96a4419b]: Textual amendment: [Reg. 10(1)(j)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/10/1/j) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fe4a32867d9552b86217cd20ca3f71f9]: Textual amendment: Words in reg. 11(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/670/regulation/10)
+
+[^key-b307544d7a29b6918fca8b4ed729e2f6]: Textual amendment: Reg. 15 substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [11(1)](https://www.legislation.gov.uk/uksi/2018/670/regulation/11/1)
+
+[^key-9225635902cb69958be28240b6c9ec9d]: Textual amendment: Words in reg. 17(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/a)
+
+[^key-58ab9b92af84cc36ed3f3100aa8a8dc0]: Textual amendment: Words in reg. 17(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/b)
+
+[^key-df22270b5e63f30a88ebf19b8cfecedf]: Textual amendment: Word in reg. 17(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/c)
+
+[^key-d26a35520788bec447a638f12637bad2]: Textual amendment: Word in reg. 17(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(d)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/d)
+
+[^key-695092c2302fddbe3e0264574d3cd5c3]: Textual amendment: Reg. 17(1)(c) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(e)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/e)
+
+[^key-fda9f083a22b0833842d499d9668801a]: Textual amendment: Word in reg. 17(2)(c) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/3)
+
+[^key-ecf68c3729308b9e21e72f1e6b67cea9]: Textual amendment: Reg. 18(1) renumbered as reg. 18 (29.4.2012) by [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(b)
+
+[^key-7d4b85f3f4e0139d410b55e99a846141]: Textual amendment: Words in reg. 18(a) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/13/2)
+
+[^key-9eab47a76d5bb0beaf402cc9b69d0a3d]: Textual amendment: Word in reg. 18(1)(b) substituted (29.4.2012) by [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(b)
+
+[^key-3d768823e149f4610a685969628ed434]: Textual amendment: Words in reg. 18(b) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/13/3)
+
+[^key-910dd3de9888d5f449b1c64dba05b78f]: Textual amendment: Reg. 18(2) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(c)
+
+[^key-e15ba53a1bf2b5b400ab7e45bd513381]: Textual amendment: Words in reg. 20 inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/2)
+
+[^key-473d8b1b61369ddb22db0161e5561b24]: Textual amendment: Word in reg. 20(b) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/3)
+
+[^key-349e23da7fad8ca9317cebd2877eb165]: Textual amendment: Reg. 20(c) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/4)
+
+[^key-1a4b98aeb90ce5e5be302e7e5ce51c14]: Textual amendment: Reg. 20(d)(e) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(5)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/5)
+
+[^key-2a92f11cf2d090dc68fa69596e3b8d2a]: Textual amendment: Words in reg. 22(2)(c) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, [2(e)](https://www.legislation.gov.uk/uksi/2012/1134/regulation/2/e)
+
+[^key-0cae5d6ca40c47c9bef1e56601f3d752]: Textual amendment: Pt. 3 omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/670/regulation/15)
+
+[^c21235311]: Marginal citation: [S.I. 2007/2999](https://www.legislation.gov.uk/uksi/2007/2999).
+
+[^key-aeaa20c7805bfc146264bc6ad13b68f8]: Textual amendment: Words in reg. 50(1)(b) substituted (29.4.2012) by [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, [2(f)](https://www.legislation.gov.uk/uksi/2012/1134/regulation/2/f)
+
+[^key-89dffca555c550afd8f4946d7033593e]: Textual amendment: Reg. 50(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/670/regulation/16)
+
+[^c21235321]: Marginal citation: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^key-3059bb0e36c40ab754b94ffe8000db4c]: Textual amendment: Reg. 66 omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/670/regulation/17)
+
+[^c21235331]: Marginal citation: Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc Rules) 1999 [S.I. 1999/929](https://www.legislation.gov.uk/uksi/1999/929).
+
+[^c21235341]: Marginal citation: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397), to which there are amendments not relevant to these Regulations.
+
+[^key-3f13858c92e1dbfd60acf1a17204c7b5]: Textual amendment: Words in reg. 69(2) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/18/a)
+
+[^key-acf5c81b3978a703620b3df95a590d04]: Textual amendment: Word in reg. 69(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/18/b)
+
+[^key-f34955495c25c20f59cdbc26cae8dafd]: Textual amendment: Words in reg. 70(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/19/a)
+
+[^key-5fab0141b491779d89cd1291a32fae85]: Textual amendment: Word in reg. 70(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/19/b)
+
+[^c21235351]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c21235361]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^c21235371]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
+
+[^c21235381]: Marginal citation: [S.I. 2007/2999](https://www.legislation.gov.uk/uksi/2007/2999).
+
+[^key-8da35a5add18be5421fdff609e9b71ba]: Textual amendment: Words in reg. 72(d) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, [2(g)](https://www.legislation.gov.uk/uksi/2012/1134/regulation/2/g)
+
+[^c21235391]: Marginal citation: [S.I. 1995/1054](https://www.legislation.gov.uk/uksi/1995/1054).
+
+[^key-99d80452e6aa39945d5376d736d48848]: Textual amendment: Reg. 74 omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [20](https://www.legislation.gov.uk/uksi/2018/670/regulation/20)

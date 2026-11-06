@@ -1,0 +1,27 @@
+---
+title: Criminal Justice and Immigration Act 2008, section 36
+act: Criminal Justice and Immigration Act 2008
+section: '36'
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2008/4/section/36
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Immigration Act 2008, section 36
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 36. Power to revoke a referral order[^key-587fb9173dd2c341ae892a24a3c92eb9]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-587fb9173dd2c341ae892a24a3c92eb9]: Textual amendment: Ss. 35-38 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

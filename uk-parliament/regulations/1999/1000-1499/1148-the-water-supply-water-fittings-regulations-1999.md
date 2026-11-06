@@ -1,0 +1,723 @@
+---
+title: The Water Supply (Water Fittings) Regulations 1999
+id: uksi/1999/1148
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-04-01'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1999/1148
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1148/pdfs/uksi_19991148_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/1148/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Supply (Water Fittings) Regulations 1999
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+*This Statutory Instrument has been amended by S.I. 1999/1506 and is being issued free of charge to all known recipients of S.I. 1999/1148.*
+
+1999 No. 1148
+
+WATER INDUSTRY, ENGLAND AND WALES
+
+The Water Supply (Water Fittings) Regulations 1999
+
+Made
+
+1st April 1999
+
+Laid before Parliament
+
+14th April 1999
+
+Coming into force
+
+1st July 1999
+
+The Secretary of State for the Environment, Transport and the Regions and the Secretary of State for Wales acting jointly, in exercise of their powers under sections 74, 84 and 213(2) of the Water Industry Act 1991[^c16587121], hereby make the following Regulations:
+
+## PART I — PRELIMINARY
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Water Supply (Water Fittings) Regulations 1999 and shall come into force on 1st July 1999.
+
+(2) In these Regulations–
+
+- “the Act" means the Water Industry Act 1991;
+- “approved contractor" means a person who–
+  - (a) has been approved by the water undertaker for the area where a water fitting is installed or used, or
+  - (b) has been certified as an approved contractor by an organization specified in writing by the regulator;
+- [^key-bde7a67e8a6961e165304394097339e1]...
+- [^key-b040a6138694c2a90868465661d3aff4]...
+- [^key-b040a6138694c2a90868465661d3aff4]...
+- [^key-bde7a67e8a6961e165304394097339e1]...
+- “fluid category" means a category of fluid described in Schedule 1 to these Regulations;
+- [^key-bde7a67e8a6961e165304394097339e1]...
+- “material change of use" means a change in the purpose for which, or the circumstances in which, premises are used, such that after that change the premises are used (where previously they were not so used)–
+  - (i) as a dwelling;
+  - (ii) as an institution;
+  - (iii) as a public building; or
+  - (iv) for the purposes of the storage or use of substances which if mixed with water result in a fluid which is classified as either fluid category 4 or 5;
+- “regulator" means–
+  - (a) in relation to any water undertakers whose area of appointment is wholly or mainly in Wales and their area of appointment, the National Assembly of Wales;
+  - (b) in relation to all other water undertakers and their area of appointment, the Secretary of State;
+- “supply pipe" means so much of any service pipe as is not vested in the water undertaker;
+
+and paragraph 1 of Schedule 2 has effect for the purposes of that Schedule.
+
+### 2. Application of Regulations
+
+(1) Subject to the following provisions of this regulation, these Regulations apply to any water fitting installed or used, or to be installed or used, in premises to which water is or is to be supplied by a water undertaker or[^key-0f58fdc78742101d53d5c79f582287ab] water supply licensee[^key-5da903b6821b5038d4b7ba99aa100ffa].
+
+(2) These Regulations do not apply to a water fitting installed or used, or to be installed or used, in connection with water supplied for purposes other than domestic or food production purposes, provided that–
+
+- (a) the water is metered;
+- (b) the supply of the water is for a period not exceeding one month, or, with the written consent of the water undertaker whose supply system is used for the purposes of that supply[^key-4e1e6e5b9251bd970f6200538828ecee], three months; and
+- (c) no water can return through the meter to any pipe vested in a water undertaker or[^key-9a17ef9c1a85c4e7b60c06250c49d45b] water supply licensee.
+
+(3) Except for the purposes of paragraph 14 of Schedule 2 (prevention of cross connection to unwholesome water), these Regulations do not apply to water fittings which are not connected or to be connected to water supplied by a water undertaker or[^key-1d3c7b6ce2bbdc8ea131b257b86a4630] water supply licensee.
+
+(4) Nothing in these Regulations shall require any person to remove, replace, alter, disconnect or cease to use any water fitting which was lawfully installed or used, or capable of being used, before 1st July 1999.
+
+## PART II — REQUIREMENTS
+
+### 3. Restriction on installation etc. of water fittings
+
+(1) No person shall–
+
+- (a) instal a water fitting to convey or receive water supplied by a water undertaker or[^key-89ea5f09969d787d1a36dccc25bdede4] water supply licensee[^key-aa2838b94fac267519b15e502706ecb7], or alter, disconnect or use such a water fitting; or
+- (b) cause or permit such a water fitting to be installed, altered, disconnected or used,
+
+in contravention of the following provisions of this Part.
+
+(2) No water fitting shall be installed, connected, arranged or used in such a manner that it causes or is likely to cause–
+
+- (i) waste, misuse, undue consumption or contamination of water supplied by a water undertaker or water supply licensee; or
+- (ii) the erroneous measurement of water supplied by a water undertaker or water supply licensee.
+
+(3) No water fitting shall be installed, connected, arranged or used which by reason of being damaged, worn or otherwise faulty, causes or is likely to cause–
+
+- (i) waste, misuse, undue consumption or contamination of water supplied by a water undertaker or water supply licensee; or
+- (ii) the erroneous measurement of water supplied by a water undertaker or water supply licensee.
+
+### 4. Requirements for water fittings etc.
+
+(1) Every water fitting shall–
+
+- (a) be of an appropriate quality and standard; and
+- (b) be suitable for the circumstances in which it is used.
+
+(2) For the purposes of this regulation, a water fitting is of an appropriate quality or standard only if–
+
+- (a)[^key-8e61b3d963b16808ab50948dbd0385f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-756224f977e47c126f9627de51a79d05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) it conforms to an appropriate British Standard or some other national specification [^key-755a4169fe7bacfcd900ac518d225994]... which provides an equivalent level of protection and performance; or
+- (d) it conforms to a specification approved by the regulator.
+
+(3) Every water fitting shall comply with the requirements of Schedule 2 to these Regulations as it applies to that fitting.
+
+(4) Where any requirement of Schedule 2 relates to a water system, every water fitting which forms part of that system shall be fitted or, as the case may be, altered or replaced so as to comply with that requirement.
+
+(5) Every water fitting shall be installed, connected, altered, repaired or disconnected in a workmanlike manner.
+
+(6) For the purposes of this regulation, a water fitting is installed, connected, altered, repaired or disconnected in a workmanlike manner only if the work is carried out so as to conform–
+
+- (a) to an appropriate British Standard [^key-b6c26db13f7cfdc55b0af357d49e60e9]... or some other national specification [^key-4e7be6a32f080e04782fae6da97614b5]... which provides an equivalent level of protection and performance;
+- (b) to a specification approved by the regulator; or
+- (c) to a method of installation approved by the water undertaker.
+
+### 5. Notification
+
+(1) Subject to paragraph (2), any person who proposes to instal a water fitting in connection with any of the operations listed in the Table below–
+
+- (a) shall give notice to the water undertaker that he proposes to begin work;
+- (b) shall not begin that work without the consent of that undertaker which shall not be withheld unreasonably; and
+- (c) shall comply with any conditions to which the undertaker’s consent is subject.
+
+  TABLE
+
+  |  |
+  | --- |
+  | 1.The erection of a building or other structure, not being a pond or swimming pool. |
+  | 2.The extension or alteration of a water system on any premises other than a house. |
+  | 3.A material change of use of any premises. |
+  | 4.The installation of–<br>(a)a bath having a capacity, as measured to the centre line of overflow, of more than 230 litres;<br>(b)a bidet with an ascending spray or flexible hose;<br>(c)a single shower unit (which may consist of one or more shower heads within a single unit), not being a drench shower installed for reasons of safety or health, connected directly or indirectly to a supply pipe which is of a type specified by the regulator;<br>(d)a pump or booster drawing more than 12 litres per minute, connected directly or indirectly to a supply pipe;<br>(e)a unit which incorporates reverse osmosis;<br>(f)a water treatment unit which produces a waste water discharge or which requires the use of water for regeneration or cleaning;<br>(g)a reduced pressure zone valve assembly or other mechanical device for protection against a fluid which is in fluid category 4 or 5;<br>(h)a garden watering system unless designed to be operated by hand; or<br>(i)any water system laid outside a building and either less than 750mm or more than 1350mm below ground level. |
+  | 5.The construction of a pond or swimming pool with a capacity greater than 10,000 litres which is designed to be replenished by automatic means and is to be filled with water supplied by a water undertaker or[^key-78cf64d2e5283ca86dbf0346f11278c9] water supply licensee[^key-05d9606c5f6c8c9acac973987f6a4776]. |
+
+(2) This regulation does not apply to the installation by an approved contractor of a water fitting falling within paragraph 2, 4(b) or 4(g) in the Table.
+
+(3) The notice required by paragraph (1) shall include or be accompanied by–
+
+- (a) the name and address of the person giving the notice, and (if different) the name and address of the person on whom notice may be served under paragraph (4) below;
+- (b) a description of the proposed work or material change of use, and
+- (c) particulars of the location of the premises to which the proposal relates, and the use or intended use of those premises;
+- (d) except in the case of a fitting falling within paragraph 4(a), (c), (h) or 5 in the Table[^key-f70faf0cb0288397fb36c3037904551f] above–
+  - (i) a plan of those parts of the premises to which the proposal relates, and
+  - (ii) a diagram showing the pipework and fitting to be installed; and
+- (e) where the work is to be carried out by an approved contractor, the name of the contractor.
+
+(4) The water undertaker may withhold consent required under paragraph (1), or grant it subject to conditions, by a notice given before the expiry of the period of ten working days commencing with the day on which notice under that paragraph was given.
+
+(5) If no notice is given by the water undertaker within the period mentioned in paragraph (4), the consent required under paragraph (1) shall be deemed to have been granted unconditionally.
+
+### 6. Contractor’s certificate
+
+(1) Where a water fitting is installed, altered, connected or disconnected by an approved contractor, the contractor shall upon completion of the work furnish a signed certificate stating whether the water fitting complies with the requirements of these Regulations to the person who commissioned the work.
+
+(2) In the case of a fitting for which notice is required under regulation 5(1)[^key-be92b013e55c64fb98ce79af69ca9040] above, the contractor shall send a copy of the certificate to the water undertaker.
+
+## PART III — ENFORCEMENT ETC.
+
+### 7. Penalty for contravening regulations
+
+(1) Subject to the following provisions of this regulation, a person who–
+
+- (a) contravenes any of the provisions of regulation 3(1), (2) or (3) or 6(1) or (2);
+- (b) commences an operation listed in the Table in regulation 5(1) without giving the notice required by that paragraph;
+- (c) commences an operation listed in the Table in regulation 5(1) without the consent required by that paragraph; or
+- (d) carries out an operation listed in the Table in regulation 5(1) in breach of a condition imposed under regulation 5(4);
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) In any proceedings against an owner or occupier for an offence under paragraph (1) which is based on the installation, alteration, repair, connection or disconnection of a water fitting, it shall be a defence to prove–
+
+- (a) that the work in question was carried out by or under the direction of an approved contractor, and
+- (b) that the contractor certified to the person who commissioned that work that the water fitting complied with the requirements of these Regulations.
+
+### 8. Modification of section 73 of the Act
+
+In section 73 of the Act (offences of contaminating, wasting and misusing water etc.), after subsection (1) there shall be inserted:–
+
+> (1A) In any proceedings under subsection (1) above it shall be a defence to prove–
+>
+> - (a) that the contamination or likely contamination, or the wastage, misuse or undue consumption, was caused (wholly or mainly) by the installation, alteration, repair or connection of the water fitting on or after 1st July 1999;
+> - (b) that the works were carried out by or under the direction of an approved contractor within the meaning of the Water Supply (Water Fittings) Regulations 1999; and
+> - (c) that the contractor certified to the person who commissioned those works that the water fitting complied with the requirements of those regulations.
+
+### 9. Inspections, measurements and tests
+
+Any person designated in writing–
+
+- (a) for the purposes of section 74(4) or 170(3), by a water undertaker, or
+- (b) for the purposes of section 84(2), by any local authority,
+
+may carry out such inspections, measurements and tests on premises entered by that person or on water fittings or other articles found on any such premises, and take away such samples of water or of any land, and such water fittings and other articles, as that person may consider necessary for the purposes for which those premises were entered.
+
+### 10. Enforcement
+
+(1) A water undertaker shall enforce the requirements of these Regulations in relation to the area for which it holds an appointment under Part II[^key-7cf86ed545511eefd7d453a473e98c6a] of the Act.
+
+(2) The duty of a water undertaker under this regulation shall be enforceable under section 18 of the Act–
+
+- (a) by the regulator; or
+- (b) with the consent of or in accordance with a general authorisation given by the regulator, by the Authority[^key-2bd26fb8fed78f692dc8fa9359ce6b20].
+
+### 11. Relaxation of requirements
+
+(1) Where a water undertaker considers that any requirement of Schedule 2 to these Regulations would be inappropriate in relation to a particular case, the undertaker may apply to the regulator to authorise a relaxation of that requirement.
+
+(2) The water undertaker shall give notice of any proposed relaxation in such manner and to such persons as the regulator may direct.
+
+(3) The regulator may grant the authorisation applied for with such modifications and subject to such conditions as he thinks fit.
+
+(4) The regulator shall not grant an authorisation before the expiration of one month from the giving of the notice, and shall take into consideration any objection which may have been received by him.
+
+(5) A water undertaker to whom an authorisation is granted under paragraph (3) in a particular case may relax the requirements of Schedule 2 in that case in accordance with the terms of that authorisation.
+
+### 12. Approval by the regulator or the water undertaker
+
+(1) Before approving a specification under regulation 4 or under Schedule 2, the regulator shall consult–
+
+- (a) every water undertaker;
+- (aa)[^key-8e1b1b29c18f5be28149afda3dc24cae] every water supply licensee[^key-8e8702fe1c85079dbe0d98699c3257f2];
+- (b) such trade associations as he considers appropriate; and
+- (c) such organisations appearing to him to be concerned with the interests of water users as he considers appropriate.
+
+(2) Where the regulator approves a specification under regulation 4 or under Schedule 2, he shall give notice of the approval to all persons who were consulted under paragraph (1) and shall publish it in such manner as he considers appropriate.
+
+(3) Where the water undertaker approves a method of installation under regulation 4, the undertaker shall give notice of the approval to the regulator and shall publish it in such manner as the undertaker considers appropriate.
+
+(4) This regulation applies to the revocation or modification of an approval as it applies to the giving of that approval.
+
+### 13. Disputes
+
+Any dispute between a water undertaker and a person who has installed or proposes to instal a water fitting–
+
+- (a) as to whether the water undertaker has unreasonably withheld consent, or attached unreasonable conditions, under regulation 5 above; or
+- (b) as to whether the water undertaker has unreasonably refused to apply to the regulator for a relaxation of the requirements of these Regulations,
+
+shall be referred to arbitration by a single arbitrator to be appointed by agreement between the parties or, in default of agreement, by the regulator.
+
+### 14. Revocation of byelaws
+
+The byelaws referred to in column (2) of Schedule 3, being made or having effect as if made by the water undertakers referred to in column (1) of Schedule 3 under section 17 of the Water Act 1945 [^c16587161], are hereby revoked.
+
+Signed by authority of the Secretary of State for the Environment, Transport and the Regions
+
+Michael Meacher
+
+Minister of State,
+
+Department of the Environment, Transport and the Regions
+
+Signed by authority of the Secretary of State for Wales
+
+Jon Owen Jones
+
+Parliamentary Under-Secretary of State, Welsh Office
+
+## SCHEDULE 1 — FLUID CATEGORIES
+
+Regulation 1
+
+### Fluid category 1
+
+Wholesome water supplied by a water undertaker or[^key-39e6b45504e5d0c4b950df129b51c527] water supply licensee[^key-37595b8d1c85b7268411d24aced8c021] and complying with the requirements of regulations made under section 67 of the Water Industry Act 1991 [^c16587171].
+
+### Fluid category 2
+
+Water in fluid category 1 whose aesthetic quality is impaired owing to–
+
+- (a) a change in its temperature, or
+- (b) the presence of substances or organisms causing a change in its taste, odour or appearance,
+
+including water in a hot water distribution system.
+
+### Fluid category 3
+
+Fluid which represents a slight health hazard because of the concentration of substances of low toxicity, including any fluid which contains–
+
+- (a) ethylene glycol, copper sulphate solution or similar chemical additives, or
+- (b) sodium hypochlorite (chloros and common disinfectants).
+
+### Fluid category 4
+
+Fluid which represents a significant health hazard because of the concentration of toxic substances, including any fluid which contains–
+
+- (a) chemical, carcinogenic substances or pesticides (including insecticides and herbicides), or
+- (b) environmental organisms of potential health significance.
+
+### Fluid category 5
+
+Fluid representing a serious health hazard because of the concentration of pathogenic organisms, radioactive or very toxic substances, including any fluid which contains–
+
+- (a) faecal material or other human waste;
+- (b) butchery or other animal waste; or
+- (c) pathogens from any other source.
+
+## SCHEDULE 2 — REQUIREMENTS FOR WATER FITTINGS
+
+Regulation 4(3)
+
+#### Interpretation
+
+**1.** In this Schedule–
+
+- “backflow" means flow upstream, that is in a direction contrary to the intended normal direction of flow, within or from a water fitting;
+- “cistern" means a fixed container for holding water at atmospheric pressure;
+- “combined feed and expansion cistern" means a cistern for supplying cold water to a hot water system without a separate expansion cistern;
+- “combined temperature and pressure relief valve" means a valve capable of performing the function of both a temperature relief valve and a pressure relief valve;
+- “contamination" includes any reduction in chemical or biological quality of water due to a change in temperature or the introduction of polluting substances;
+- “distributing pipe" means any pipe (other than a warning, overflow or flushing pipe) conveying water from a storage cistern, or from hot water apparatus supplied from a cistern and under pressure from that cistern;
+- “expansion cistern" or “expansion vessel" means a cistern or vessel connected to a water heating system which accommodates the increase in volume of water in the system when the water is heated from cold;
+- “expansion valve" means a pressure-activated valve designed to release expansion water from an unvented water heating system;
+- “flushing cistern" means a cistern provided with valve or device for controlling the discharge of the stored water into a water closet pan or urinal;
+- “overflow pipe" means a pipe from a cistern in which water flows only when the water level in the cistern exceeds a predetermined level;
+- “pressure relief valve" means a pressure-activated valve which opens automatically at a specified pressure to discharge fluid;
+- “primary circuit" means an assembly of water fittings in which water circulates between a boiler or other source of heat and a primary heat exchange inside a hot water storage vessel, and includes any space heating system;
+- “secondary circuit" means an assembly of water fittings in which water circulates in supply pipes or distributing pipes of a hot water storage system;
+- “secondary system" means an assembly of water fittings comprising the cold feed pipe, any hot water storage vessel, water heater and pipework from which hot water is conveyed to all points of draw-off;
+- “servicing valve" means a valve for shutting off for the purpose of maintenance or service the flow of water in a pipe connected to a water fitting;
+- “stopvalve" means a valve, other than a servicing valve, used for shutting off the flow of water in a pipe;
+- “storage cistern" means a cistern for storing water for subsequent use, not being a flushing cistern;
+- “temperature relief valve" means a valve which opens automatically at a specified temperature to discharge fluid;
+- “terminal fitting" means a water outlet device; and
+- “vent pipe" means a pipe open to the atmosphere which exposes the system to atmospheric pressure at its boundary.
+
+#### Materials and substances in contact with water
+
+**2.** (1) Subject to sub-paragraph (2) below, no material or substance, either alone or in combination with any other material or substance or with the contents of any water fitting of which it forms a part, which causes or is likely to cause contamination of water shall be used in the construction, installation, renewal, repair or replacement of any water fitting which conveys or receives, or may convey or receive, water supplied for domestic or food production purposes.
+
+(2) This requirement does not apply to a water fitting downstream of a terminal fitting supplying wholesome water where–
+
+- (a) the use to which the water downstream is put does not require wholesome water; and
+- (b) a suitable arrangement or device to prevent backflow is installed.
+
+#### Requirements for water fittings
+
+**3.** Every water fitting shall–
+
+- (a) be immune to or protected from corrosion by galvanic action or by any other process which is likely to result in contamination or waste of water; and
+- (b) be constructed of materials of such strength and thickness as to resist damage from any external load, vibration, stress or settlement, pressure surges, or temperature fluctuation to which it is likely to be subjected.
+
+**4.** Every water fitting shall–
+
+- (a) be watertight;
+- (b) be so constructed and installed as to–
+  - (i) prevent ingress by contaminants, and
+  - (ii) inhibit damage by freezing or any other cause;
+- (c) be so installed as to minimise the risk of permeation by, or deterioration from contact with, any substance which may cause contamination; and
+- (d) be adequately supported.
+
+**5.** Every water fitting shall be capable of withstanding an internal water pressure not less than 1½ times the maximum pressure to which that fitting is designed to be subjected in operation.
+
+**6.** No water fitting shall be installed, connected or used which is likely to have a detrimental effect on the quality or pressure of water in a water main or other pipe of a water undertaker or[^key-3d8f0c3287f24d44e4e4454bd505fd2a] water supply licensee[^key-444827940970b28ce753da568b5eae3a].
+
+**7.** (1) No water fitting shall be embedded in any wall or solid floor.
+
+(2) No fitting which is designed to be operated or maintained, whether manually or electronically, or which consists of a joint, shall be a concealed water fitting.
+
+(3) Any concealed water fitting or mechanical backflow prevention device, not being a terminal fitting, shall be made of gunmetal, or another material resistant to dezincification.
+
+(4) Any water fitting laid below ground level shall have a depth of cover sufficient to prevent water freezing in the fitting.
+
+(5) In this paragraph “concealed water fitting" means a water fitting which–
+
+- (a) is installed below ground;
+- (b) passes through or under any wall, footing or foundation;
+- (c) is enclosed in any chase or duct; or
+- (d) is in any other position which is inaccessible or renders access difficult.
+
+#### Water system design and installation
+
+**8.** No water fitting shall be installed in such a position, or pass through such surroundings, that it is likely to cause contamination or damage to the material of the fitting or the contamination of water supplied by the water undertaker or[^key-c2dce2316e7de498fb979229102a8568] water supply licensee.
+
+**9.** Any pipe supplying cold water for domestic purposes to any tap shall be so installed that, so far as is reasonably practicable, the water is not warmed above 25°C.
+
+**10.** (1) Every supply pipe or distributing pipe providing water to separate premises shall be fitted with a stopvalve conveniently located to enable the supply to those premises to be shut off without shutting off the supply to any other premises.
+
+(2) Where a supply pipe or distributing pipe provides water in common to two or more premises, it shall be fitted with a stopvalve to which each occupier of those premises has access.
+
+**11.** Water systems[^key-6f758cf506b57a416b10684ba61eb9b3] shall be capable of being drained down and be fitted with an adequate number of servicing valves and drain taps so as to minimize the discharge of water when water fittings are maintained or replaced. A sufficient number of stopvalves shall be installed for isolating parts of the pipework.
+
+**12.** (1) The water system shall be capable of withstanding an internal water pressure not less than 1½ times the maximum pressure to which the installation or relevant part is designed to be subjected in operation (“the test pressure").
+
+(2) This requirement shall be deemed to be satisfied–
+
+- (a) in the case of a water system that does not include a pipe made of plastics, where–
+  - (i) the whole system is subjected to the test pressure by pumping, after which the test continues for one hour without further pumping;
+  - (ii) the pressure in the system is maintained for one hour; and
+  - (iii) there is no visible leakage throughout the test;
+- (b) in any other case, where either of the following tests is satisfied–
+
+  | **TEST A** | **TEST B** |
+  | --- | --- |
+  | (i)the whole system is subjected to the test pressure by pumping for 30 minutes, after which the test continues for 90 minutes without further pumping;<br>(ii)the pressure is reduced to one third of the test pressure after 30 minutes;<br>(iii)the pressure does not drop below one third of the test pressure over the following 90 minutes; and<br>(iv)there is no visible leakage throughout the test. | (i)the whole system is subjected to the test pressure by pumping for 30 minutes, after which the pressure is noted and the test continues for 150 minutes without further pumping;<br>(ii)the drop in pressure is less than 0.6 bar (60kPa) after the following 30 minutes, or 0.8 bar (80kPa) after the following 150 minutes; and<br>(iii)there is no visible leakage throughout the test. |
+
+**13.** Every water system shall be tested, flushed and where necessary disinfected before it is first used.
+
+#### Prevention of cross connection to unwholesome water
+
+**14.** (1) Any water fitting conveying–
+
+- (a) rain water, recycled water or any fluid other than water supplied by a water undertaker or[^key-e4fbaa59f19b52252c9a7a5d01e6652e] water supply licensee; or
+- (b) any fluid that is not wholesome water;
+
+shall be clearly identified so as to be easily distinguished from any supply pipe or distributing pipe.
+
+(2) No supply pipe, distributing pipe or pump delivery pipe drawing water from a supply pipe or distributing pipe shall convey, or be connected so that it can convey, any fluid falling within sub-paragraph (1) unless a device for preventing backflow is installed in accordance with paragraph 15.[^key-9c3c5bb0c359f743f876aabac009b4de]
+
+#### Backflow prevention
+
+**15.** (1) Subject to the following provisions of this paragraph, every water system shall contain an adequate device or devices for preventing backflow of fluid from any appliance, fitting or process from occurring.
+
+(2) Paragraph (1) does not apply to–
+
+- (a) a water heater where the expanded water is permitted to flow back into a supply pipe, or
+- (b) a vented water storage vessel supplied from a storage cistern,
+
+where the temperature of the water in the supply pipe or the cistern does not exceed 25°C.
+
+(3) The device used to prevent backflow shall be appropriate to the highest applicable fluid category to which the fitting is subject downstream before the next such device.
+
+(4) Backflow prevention shall be provided on any supply pipe or distributing pipe–
+
+- (a) where it is necessary to prevent backflow between separately occupied premises, or
+- (b) where the water undertaker has given notice for the purposes of this Schedule that such prevention is needed for the whole or part of any premises.
+
+(5) A backflow prevention device is adequate for the purposes of paragraph (1) if it is in accordance with a specification approved by the regulator for the purposes of this Schedule.
+
+#### Cold water services
+
+**16.** (1) Every pipe supplying water connected to a storage cistern shall be fitted with an effective adjustable valve capable of shutting off the inflow of water at a suitable level below the overflowing level of the cistern.
+
+(2) Every inlet to a storage cistern, combined feed and expansion cistern, WC flushing cistern or urinal flushing cistern shall be fitted with a servicing value on the inlet pipe adjacent to the cistern.
+
+(3) Every storage cistern, except one supplying water to the primary circuit of a heating system, shall be fitted with a servicing valve on the outlet pipe.
+
+(4) Every storage cistern shall be fitted with–
+
+- (a) an overflow pipe, with a suitable means of warning of an impending overflow, which excludes insects;
+- (b) a cover positioned so as to exclude light and insects; and
+- (c) thermal insulation to minimize freezing or undue warming.
+
+(5) Every storage cistern shall be so installed as to minimize the risk of contamination of stored water. The cistern shall be of an appropriate size, and the pipe connections to the cistern shall be so positioned, as to allow free circulation and to prevent areas of stagnant water from developing.
+
+#### Hot water services
+
+**17.** (1) Every unvented water heater, not being an instantaneous water heater with a capacity not greater than 15 litres, and every secondary coil contained in a primary system shall–
+
+- (a) be fitted with a temperature control device and either a temperature relief valve or a combined temperature and pressure relief valve[^key-93cc1ea942b8977e6612136e5c7d75a8]; or
+- (b) be capable of accommodating expansion within the secondary hot water system.
+
+(2) An expansion valve shall be fitted with provision to ensure that water is discharged in a correct manner in the event of a malfunction of the expansion vessel or system.
+
+**18.** Appropriate vent pipes, temperature control devices and combined temperature pressure and relief valves shall be provided to prevent the temperature of the water within a secondary hot water system from exceeding 100°C.
+
+**19.** Discharges from temperature relief valves, combined temperature pressure and relief valves and expansion valves shall be made in a safe and conspicuous manner.
+
+**20.** (1) No vent pipe from a primary circuit shall determine over a storage cistern containing wholesome water for domestic supply or for supplying water to a secondary system.
+
+(2) No vent pipe from a secondary circuit shall terminate over any combined feed and expansion cistern connection to a primary circuit.
+
+**21.** Every expansion cistern or expansion vessel, and every cold water combined feed and expansion cistern connected to a primary circuit, shall be such as to accommodate any expansion water from that circuit during normal operation.
+
+**22.** (1) Every expansion valve, temperature relief valve or combined temperature and pressure relief valve connected to any fitting or appliance shall close automatically after a discharge of water.
+
+(2) Every expansion valve shall–
+
+- (a) be fitted on the supply pipe close to the hot water vessel and without any intervening valves; and
+- (b) only discharge water when subjected to a water pressure of not less than 0.5 bar (50 kPa) above the pressure to which the hot water vessel is, or is likely to be, subjected in normal operation.
+
+**23.** (1) A temperature relief valve or combined temperature and pressure relief valve shall be provided on every unvented hot water storage vessel with a capacity greater than 15 litres.
+
+(2) the valve shall–
+
+- (a) be located directly on the vessel in an appropriate location, and have a sufficient discharge capacity, to ensure that the temperature of the stored water does not exceed 100°C; and
+- (b) only discharge water at below its operating temperature when subjected to a pressure of not less than 0.5 bar (50 kPa) in excess of the greater of the following–
+  - (i) the maximum working pressure in the vessel in which it is fitted, or
+  - (ii) the operating pressure of the expansion valve.
+
+(3) In this paragraph “unvented hot water storage vessel" means a hot water storage vessel that does not have a vent pipe to the atmosphere.
+
+**24.** No supply pipe or secondary circuit shall be permanently connected to a closed circuit for filling a heating system unless it incorporates a backflow prevention device in accordance with a specification approved by the regulator for the purposes of this schedule.
+
+#### WC’s, flushing devices and urinals
+
+**25.** (1) Subject to the following provisions of this paragraph–
+
+- (a) every water closet pan shall be supplied with water from a flushing cistern, pressure flushing cistern or pressure flushing valve, and shall be so made and installed that after normal use its contents can be cleared effectively by a single flush of water, or, where the installation is designed to receive flushes of different volumes, by the largest of those flushes;
+- (b) no pressure flushing valve shall be installed–
+  - (i) in a house, or
+  - (ii) in any building not being a house where a minimum flow rate of 1.2 litres per second cannot be achieved at the appliance;
+- (c) where a pressure flushing valve is connected to a supply pipe or distributing pipe, the flushing arrangement shall incorporate a backflow prevention device consisting of a permanently vented pipe interrupter located not less than 300mm above the spillover level of the WC pan or urinal;
+- (d) no flushing device installed for use with a WC pan shall give a single flush exceeding 6 litres;
+- (e) no flushing device designed to give flushes of different volumes shall have a lesser flush exceeding two-thirds of the largest flush volume;
+- (f) every flushing cistern, other than a pressure flushing cistern, shall be clearly marked internally with an indelible line to show the intended volume of flush, together with an indication of that volume;
+- (g) a flushing device designed to give flushes of different volumes–
+  - (i) shall have a readily discernible method of actuating the flush at different volumes; and
+  - (ii) shall have instructions, clearly and permanently marked on the cistern or displayed nearby, for operating it to obtain the different volumes of flush;
+- (h) every flushing cistern, not being a pressure flushing cistern or a urinal cistern, shall be fitted with a warning pipe or with a no less effective device;
+- (i) every urinal that is cleared by water after use shall be supplied with water from a flushing device which–
+  - (i) in the case of a flushing cistern, is filled at a rate suitable for the installation;
+  - (ii) in all cases, is designed or adapted to supply no more water than is necessary for effective flow over the internal surface of the urinal and for replacement of the fluid in the trap; and
+- (j) except in the case of a urinal which is flushed manually, or which is flushed automatically by electronic means after use, every pipe which supplies water to a flushing cistern or trough used for flushing a urinal shall be fitted with an isolating valve controlled by a time switch and a lockable isolating valve, or with some other equally effective automatic device for regulating the periods during which the cistern may fill.
+
+(2) Every water closet, and every flushing device designed for use with a water closet, shall comply with a specification approved by the regulator for the purposes of this Schedule.
+
+(3) The requirements of sub-paragraphs (1) and (2) do not apply where faeces or urine are disposed of through an appliance that does not solely use fluid to remove the contents.
+
+(4) The requirement in sub-paragraph (1)(i) shall be deemed to be satisfied–
+
+- (a) in the case of an automatically operated flushing cistern servicing urinals which is filled with water at a rate not exceeding–
+  - (i) 10 litres per hour for a cistern serving a single urinal;
+  - (ii) 7.5 litres per hour per urinal bowl or stall, or, as the case may be, for each 700mm width of urinal slab, for a cistern serving two or more urinals;
+- (b) in the case of a manually or automatically operated pressure flushing valve used for flushing urinals which delivers not more than 1.5 litres per bowl or position each time the device is operated.
+
+(5) Until 1st January 2001 paragraphs (1)(a) and (d) shall have effect as if they provided as follows–
+
+- “(a) every water closet pan shall be supplied with water from a flushing cistern or trough of the valveless type which incorporates siphonic apparatus;"
+- “(d) no flushing device installed for use with a WC pan shall give a single flush exceeding 7.5 litres;".
+
+(6) Notwithstanding sub-paragraph (1)(d) a flushing cistern installed before 1st July 1999 may be replaced by a cistern which delivers a similar volume and which may be either single flush or dual flush; but a single flush cistern may not be so replaced by a dual flush cistern.
+
+(7) In this paragraph–
+
+- “pressure flushing cistern" means a WC flushing device that utilises the pressure of water within the cistern supply pipe to compress air and increase the pressure of water available for flushing a WC pan;
+- “pressure flushing valve" means a self-closing valve supplied with water directly from a supply pipe or a distributing pipe which when activated will discharge a pre-determined flush volume;
+- “trap" means a pipe fitting, or part of a sanitary appliance, that retains liquid to prevent the passage of foul air; and
+- “warning pipe" means an overflow pipe whose outlet is located in a position where the discharge of water can readily be seen.
+
+#### Baths, sinks, showers and taps
+
+**26.** All premises supplied with water for domestic purposes shall have at least one tap conveniently situated for the drawing of drinking water.
+
+**27.** A drinking water tap shall be supplied with water from–
+
+- (a) a supply pipe;
+- (b) a pump delivery pipe drawing water from a supply pipe; or
+- (c) a distributing pipe drawing water exclusively from a storage cistern supplying wholesome water.
+
+**28.** (1) Subject to paragraph (2), every bath, wash basin, sink or similar appliance shall be provided with a watertight and readily accessible plug or other device capable of closing the waste outlet.
+
+(2) This requirement does not apply to–
+
+- (a) an appliance where the only taps provided are spray taps;
+- (b) a washing trough or wash basin whose waste outlet is incapable of accepting a plug and to which water is delivered at a rate not exceeding 0.06 litres per second exclusively from a fitting designed or adapted for that purpose;
+- (c) a wash basin or washing trough fitted with self-closing taps;
+- (d) a shower bath or shower tray;
+- (e) a drinking water fountain or similar facility; or
+- (f) an appliance which is used in medical, dental or veterinary premises and is designed or adapted for use with an unplugged outlet.
+
+#### Washing machines, dishwashers and other appliances
+
+**29.** (1) Subject to paragraph (2), clothes washing machines, clothes washer-driers and dishwashers shall be economical in the use of water.
+
+(2) The requirements of this paragraph shall be deemed to be satisfied in the case of machines having a water consumption per cycle of not greater than the following–
+
+- (a) for domestic horizontal axis washing machines, 27 litres per kilogram of washload for a standard 60°C cotton cycle;
+- (b) for domestic washer-driers, 48 litres per kilogram of washload for a standard 60°C cotton cycle;
+- (c) for domestic dishwashers, 4.5 litres per place setting.
+
+#### Water for outside use
+
+**30.** Every pipe which conveys water to a drinking vessel for animals or poultry shall be fitted with–
+
+- (a) a float-operated valve, or some other no less effective device to control the inflow of water, which is–
+  - (i) protected from damage and contamination; and
+  - (ii) prevents contamination of the water supply; and
+- (b) a stopvalve or servicing valve as appropriate.
+
+**31.** Every pond, fountain or pool shall have an impervious lining or membrane to prevent the leakage or seepage of water.
+
+## SCHEDULE 3 — BYELAWS REVOKED
+
+Regulation 14
+
+| **Water undertaker** | **Byelaws** |
+| --- | --- |
+| **(1)** | **(2)** |
+| Anglian Water Services Ltd. | The byelaws made on 1st October 1987. |
+| Bournemouth and West Hampshire Water plc. | The byelaws made on 14th January 1987. |
+| Bristol Water plc. | The byelaws made on 23rd February 1987. |
+| Cambridge Water plc. | The byelaws made on 29th January 1987. |
+| Dee Valley Water plc. | (a)the byelaws made on 30th March 1987 by the Chester Water Company;<br>(b)the byelaws made on 3rd January 1988 by the Wrexham Water Company. |
+| Dwr Cymru Cyfyngedig. | The byelaws made on 6th December 1988. |
+| Essex & Suffolk Water plc. | The byelaws made on 1st May 1987. |
+| Folkestone & Dover Water Services Ltd. | The byelaws made on 27th March 1987. |
+| Hartlepool Water plc. | The byelaws made on 20th March 1987. |
+| Mid Kent Water plc. | The byelaws made on 24th March 1987. |
+| North Surrey Water Ltd. | The byelaws made on 26th February 1987. |
+| North West Water Ltd. | The byelaws made on 12th March 1987. |
+| Northumbrian Water Ltd. | The byelaws made on 7th April 1987. |
+| Portsmouth Water plc. | The byelaws made on 26th February 1987. |
+| Severn Trent Water Ltd. | The byelaws made on 13th March 1987. |
+| South Staffordshire Water plc. | The byelaws made on 18th March 1987. |
+| South East Water Ltd. | The byelaws made on 9th March 1987. |
+| South West Water Services Ltd. | The byelaws made on 8th April 1987. |
+| Southern Water Services Ltd. | The byelaws made on 2nd April 1987. |
+| Sutton and East Surrey Water plc. | The byelaws made on 13th March 1987. |
+| Tendring Hundred Water Services Ltd. | The byelaws made on 31st March 1987. |
+| Thames Water Utilities Ltd. | The byelaws made on 3rd April 1987. |
+| Three Valleys Water Services plc. | The byelaws made on 24th March 1987. |
+| Wessex Water Services Ltd. | The byelaws made on 16th January 1987. |
+| York Waterworks plc. | The byelaws made on 11th March 1987. |
+| Yorkshire Water Services Ltd. | The byelaws made on 17th March 1987. |
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for preventing contamination and waste of water supplied by a water undertaker. They do not apply to certain water fittings in connection with water supplied for non-domestic purposes, or to water fittings lawfully installed before 1st July 1999: regulation 2.
+
+Part II of the Regulations deals with the principal requirements.
+
+Regulations 3 and 4 impose general requirements in relation to water fittings. Water fittings must not be installed, connected, arranged or used in such a manner that they are likely to cause waste, misuse, undue consumption or contamination, or erroneous measurement, of the water supplied. They must be of an appropriate quality or standard, and be suitable for the circumstances in which they are used; and they must be installed, connected or disconnected in a workmanlike manner.
+
+Regulation 5 requires a person who proposes to instal certain water fittings to notify the undertaker, and not to commence installation without the undertaker’s consent. The undertaker may withhold consent or grant it on certain conditions. This requirement does not apply to some fittings which are installed by a contractor who is approved by the undertaker or certified by an organization specified by the regulator. Where an approved contractor instals, alters, connects or disconnects a water fitting, he must provide a certificate stating whether it complies with the Regulations: regulation 6.
+
+Part III of the Regulations deals with enforcement etc.
+
+Regulation 7 provides a fine not exceeding level 3 on the standard scale for contravening the Regulations. It is a defence to show that the work on a water fitting was done by or under the direction of an approved contractor, and that the contractor certified that it complied with the Regulations. This defence is extended to the offences of contaminating, wasting and misusing water under section 73 of the Water Industry Act 1991: regulation 8.
+
+Regulation 9 enables water undertakers and local authorities who enter premises to carry out inspections, measurements and tests for the purposes of the Regulations.
+
+Regulation 10 requires the water undertaker to enforce the requirements of the Regulations; this duty is enforceable by the regulator or the Director General of Water Services.
+
+Regulation 11 enables the regulator to relax the requirements of these Regulations on the application of the water undertaker.
+
+Regulation 12 requires the regulator to consult water undertakers and organisations representing water users before giving an approval for the purpose of the Regulations, and to publicize approvals.
+
+Regulation 13 provides for disputes arising under the Regulations between a water undertaker and a person who has installed or proposes to instal a water fitting to be referred to arbitration.
+
+Regulation 14 revokes the existing water byelaws made by water undertakers under section 17 of the Water Act 1945.
+
+## Annotations
+
+[^c16587121]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^key-bde7a67e8a6961e165304394097339e1]: Textual amendment: Words in reg. 1(2) omitted (1.7.2013) by virtue of [The Construction Products Regulations 2013 (S.I. 2013/1387)](https://www.legislation.gov.uk/uksi/2013/1387), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1387/regulation/1), [Sch. 5 para. 2(a)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/5/paragraph/2/a)
+
+[^key-b040a6138694c2a90868465661d3aff4]: Textual amendment: Words in reg. 1(2) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0f58fdc78742101d53d5c79f582287ab]: Textual amendment: Words in reg. 2(1) inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(2)(a)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/2/a)
+
+[^key-5da903b6821b5038d4b7ba99aa100ffa]: Textual amendment: Words in reg. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [17](https://www.legislation.gov.uk/uksi/2017/506/article/17)
+
+[^key-4e1e6e5b9251bd970f6200538828ecee]: Textual amendment: Words in reg. 2(2)(b) inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(2)(b)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/2/b)
+
+[^key-9a17ef9c1a85c4e7b60c06250c49d45b]: Textual amendment: Words in reg. 2(2)(c) inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(2)(c)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/2/c)
+
+[^key-1d3c7b6ce2bbdc8ea131b257b86a4630]: Textual amendment: Words in reg. 2(3) inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(2)(d)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/2/d)
+
+[^key-89ea5f09969d787d1a36dccc25bdede4]: Textual amendment: Words in reg. 3 inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(3)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/3)
+
+[^key-aa2838b94fac267519b15e502706ecb7]: Textual amendment: Words in reg. 3 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [17](https://www.legislation.gov.uk/uksi/2017/506/article/17)
+
+[^key-8e61b3d963b16808ab50948dbd0385f5]: Textual amendment: Reg. 4(2)(a) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-756224f977e47c126f9627de51a79d05]: Textual amendment: Reg. 4(2)(b) omitted (1.7.2013) by virtue of [The Construction Products Regulations 2013 (S.I. 2013/1387)](https://www.legislation.gov.uk/uksi/2013/1387), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1387/regulation/1), [Sch. 5 para. 2(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/5/paragraph/2/b)
+
+[^key-755a4169fe7bacfcd900ac518d225994]: Textual amendment: Words in reg. 4(2)(c) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b6c26db13f7cfdc55b0af357d49e60e9]: Textual amendment: Words in reg. 4(6)(a) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [8(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/558/regulation/8/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4e7be6a32f080e04782fae6da97614b5]: Textual amendment: Words in reg. 4(6)(a) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [8(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/558/regulation/8/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-78cf64d2e5283ca86dbf0346f11278c9]: Textual amendment: Words in reg. 5 inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/4)
+
+[^key-05d9606c5f6c8c9acac973987f6a4776]: Textual amendment: Words in reg. 5 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [17](https://www.legislation.gov.uk/uksi/2017/506/article/17)
+
+[^key-f70faf0cb0288397fb36c3037904551f]: Textual amendment: Words in reg. 5(3)(d) substituted (1.7.1999) by [The Water Supply (Water Fittings) (Amendment) Regulations 1999 (S.I. 1999/1506)](https://www.legislation.gov.uk/uksi/1999/1506), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1506/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1999/1506/regulation/2/2)
+
+[^key-be92b013e55c64fb98ce79af69ca9040]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/1148/regulation/6/2) substituted (1.7.1999) by [The Water Supply (Water Fittings) (Amendment) Regulations 1999 (S.I. 1999/1506)](https://www.legislation.gov.uk/uksi/1999/1506), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1506/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1999/1506/regulation/2/3)
+
+[^key-7cf86ed545511eefd7d453a473e98c6a]: Textual amendment: Words in reg. 10(1) substituted (1.7.1999) by [The Water Supply (Water Fittings) (Amendment) Regulations 1999 (S.I. 1999/1506)](https://www.legislation.gov.uk/uksi/1999/1506), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1506/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1999/1506/regulation/2/4)
+
+[^key-2bd26fb8fed78f692dc8fa9359ce6b20]: Textual amendment: Word in reg. 10(2)(b) substituted (1.4.2006) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/5), [16](https://www.legislation.gov.uk/uksi/2005/2035/regulation/16)
+
+[^key-8e1b1b29c18f5be28149afda3dc24cae]: Textual amendment: Reg. 12(1)(aa) inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(5)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/5)
+
+[^key-8e8702fe1c85079dbe0d98699c3257f2]: Textual amendment: Words in reg. 12(1)(aa) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [17](https://www.legislation.gov.uk/uksi/2017/506/article/17)
+
+[^c16587161]: Marginal citation: [1945 c. 42](https://www.legislation.gov.uk/ukpga/1945/42).
+
+[^key-39e6b45504e5d0c4b950df129b51c527]: Textual amendment: Words in Sch. 1 inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(6)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/6)
+
+[^key-37595b8d1c85b7268411d24aced8c021]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1148/schedule/1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [17](https://www.legislation.gov.uk/uksi/2017/506/article/17)
+
+[^c16587171]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^key-3d8f0c3287f24d44e4e4454bd505fd2a]: Textual amendment: Words in Sch. 2 para. 6 inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(7)(a)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/7/a)
+
+[^key-444827940970b28ce753da568b5eae3a]: Textual amendment: Words in Sch. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [17](https://www.legislation.gov.uk/uksi/2017/506/article/17)
+
+[^key-c2dce2316e7de498fb979229102a8568]: Textual amendment: Words in Sch. 2 para. 8 inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(7)(b)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/7/b)
+
+[^key-6f758cf506b57a416b10684ba61eb9b3]: Textual amendment: Words in Sch. 2 para. 11 substituted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(7)(c)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/7/c)
+
+[^key-e4fbaa59f19b52252c9a7a5d01e6652e]: Textual amendment: Words in Sch. 2 para. 14(1)(a) inserted (1.12.2005) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/4), [8(7)(d)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/8/7/d)
+
+[^key-9c3c5bb0c359f743f876aabac009b4de]: Textual amendment: Words in Sch. 2 para. 14(2) inserted (1.7.1999) by [The Water Supply (Water Fittings) (Amendment) Regulations 1999 (S.I. 1999/1506)](https://www.legislation.gov.uk/uksi/1999/1506), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1506/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/1999/1506/regulation/2/5/a)
+
+[^key-93cc1ea942b8977e6612136e5c7d75a8]: Textual amendment: Words in Sch. 2 para. 17(1)(a) substituted (1.7.1999) by [The Water Supply (Water Fittings) (Amendment) Regulations 1999 (S.I. 1999/1506)](https://www.legislation.gov.uk/uksi/1999/1506), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1506/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/1999/1506/regulation/2/5/b)

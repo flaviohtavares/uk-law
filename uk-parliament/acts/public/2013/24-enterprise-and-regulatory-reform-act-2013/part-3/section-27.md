@@ -1,0 +1,67 @@
+---
+title: Enterprise and Regulatory Reform Act 2013, section 27
+act: Enterprise and Regulatory Reform Act 2013
+section: '27'
+status: revised-with-pending-changes
+text_date: '2025-08-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/24/section/27
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Enterprise and Regulatory Reform Act 2013, section 27
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 27. Transfer schemes[^key-d9ce710ce961d3c5607e86337f93bc05]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may make one or more transfer schemes in connection with—
+
+- (a) the establishment of the CMA under this Act,
+- (b) the transfer of functions under or by virtue of this Act from the Competition Commission or the Office of Fair Trading to the CMA, or
+- (c) the abolition of that Commission or that Office under this Act.
+
+(2) A transfer scheme is a scheme for the transfer of property, rights and liabilities of the Competition Commission or the Office of Fair Trading to—
+
+- (a) the CMA, or
+- (b) a Minister of the Crown (as defined by section 8 of the Ministers of the Crown Act 1975).
+
+(3) The things that may be transferred under a transfer scheme include—
+
+- (a) property, rights and liabilities that could not otherwise be transferred;
+- (b) property acquired, and rights and liabilities arising, after the making of the scheme.
+
+(4) A transfer scheme may make consequential, supplementary, incidental or transitional provision and may in particular—
+
+- (a) create rights, or impose liabilities, in relation to property or rights transferred;
+- (b) make provision about the continuing effect of things done by the transferor in respect of anything transferred;
+- (c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of, or in relation to the transferor in respect of anything transferred;
+- (d) make provision for references to the transferor in an instrument or other document in respect of anything transferred to be treated as references to the transferee;
+- (e) make provision for the shared ownership or use of property;
+- (f) make provision that is the same as or similar to the TUPE regulations.
+
+(5) A transfer scheme may provide—
+
+- (a) for the scheme to be modified by agreement after it comes into effect;
+- (b) for modifications to have effect from the date when the scheme first came into effect.
+
+(6) For the purposes of this section—
+
+- (a) an individual who holds employment in the civil service is to be treated as employed by virtue of a contract of employment, and
+- (b) the terms of the individual's employment in the civil service are to be regarded as constituting the terms of the contract of employment.
+
+(7) In this section—
+
+- “**civil service**” means the civil service of the State;
+- “**TUPE regulations**” means the Transfer of Undertakings (Protection of Employment) Regulations 2006 (SI 2006/246);
+- references to rights and liabilities include rights and liabilities relating to a contract of employment;
+- references to the transfer of property include references to the grant of a lease.
+
+## Annotations
+
+[^key-d9ce710ce961d3c5607e86337f93bc05]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2013/24/section/27) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/b)

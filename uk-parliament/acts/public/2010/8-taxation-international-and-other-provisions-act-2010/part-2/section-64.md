@@ -1,0 +1,49 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 64
+act: Taxation (International and Other Provisions) Act 2010
+section: '64'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/64
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 64
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 64. Meaning of “dividend-paying chain” of companies
+
+*Extent: E+W+S+N.I.*
+
+(1) For the purposes of sections 65, 67 and 70 there is a dividend-paying chain if—
+
+- (a) condition A is met, and
+- (b) one of conditions B to D is met.
+
+(2) Condition A is that a company (“**the second company**”) pays a dividend to another company (“**the first company**”).
+
+(3) Condition B is that there is a third company which is a 10% associate of, and pays a dividend to, the second company.
+
+(4) Condition C is that there is a succession of companies consisting of—
+
+- (a) a third company which is a 10% associate of, and pays a dividend to, the second company, and
+- (b) a fourth company which is a 10% associate of, and pays a dividend to, the third company.
+
+(5) Condition D is that there is a succession of companies consisting of—
+
+- (a) a third company which is a 10% associate of, and pays a dividend to, the second company, and
+- (b) two or more companies (the fourth and fifth companies, and so on) each of which is a 10% associate of, and pays a dividend to, the company above it in the succession.
+
+(6) For the purposes of this section, a company (“X”) is a 10% associate of another company (“H”) if H—
+
+- (a) controls directly or indirectly, or
+- (b) is a subsidiary of a company which controls directly or indirectly,
+
+at least 10% of the voting power in X or at least 10% of the ordinary share capital of X.
+
+(7) For the purposes of subsection (6), a company (“S”) is a subsidiary of another company (“P”) if P controls, directly or indirectly, at least 50% of the voting power in S.

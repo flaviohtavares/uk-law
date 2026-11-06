@@ -1,0 +1,209 @@
+---
+title: The Telecommunications (Licence Modification)(Standard Schedules) Regulations 1999, SCHEDULE 4
+act: The Telecommunications (Licence Modification)(Standard Schedules) Regulations 1999
+section: schedule-4
+status: repealed
+text_date: '2003-12-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1999/2450/schedule/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Telecommunications (Licence Modification)(Standard Schedules) Regulations 1999, SCHEDULE 4
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 4 — EXCEPTIONS AND CONDITIONS RELATING TO THE APPLICATION OF THE TELECOMMUNICATIONS CODE[^key-c6e5534ef9329c35873e656cb36abb31]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+Regulation 2
+
+### PART 1: — DEFINITIONS AND INTERPRETATION RELATING TO THE CONDITIONS IN SCHEDULE 4[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**1.**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2: — EXCEPTIONS AND CONDITIONS RELATING TO THE APPLICATION OF THE TELECOMMUNICATIONS CODE — LINES[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 1**
+
+**1.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1.3**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1.4**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1.5**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1.6**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1.7**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1.8**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### INSTALLATION OF TELECOMMUNICATION APPARATUS OTHER THAN LINES ABOVE THE GROUND[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 2**
+
+**2.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.3**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.4**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.5**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.6**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.7**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.8**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CONSERVATION AREAS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 3**
+
+**3.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.3**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.4**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.5**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.6**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### LISTED BUILDINGS AND ANCIENT MONUMENTS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 4**
+
+**4.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.3**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### NATIONAL PARKS ETC[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 5**
+
+**5.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.3**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.4**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.5**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### NATIONAL TRUST AND NATIONAL TRUST FOR SCOTLAND[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 6**
+
+**6.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PLACING OF UNDERGROUND LINES IN DUCTS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 7**
+
+**7.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### MAINTENANCE AND THE SAFETY OF APPARATUS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 8**
+
+**8.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### ARRANGEMENTS WITH ELECTRICITY SUPPLIERS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 9**
+
+**9.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.3**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### INSTRUCTIONS FOR THE INSTALLATION OF APPARATUS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 10**
+
+**10.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.3**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.4**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### RECORDS OF APPARATUS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 11**
+
+**11.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.3**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.4**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### EMERGENCY WORKS AND URGENT WORKS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 12**
+
+**12.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PUBLIC OR PRIVATE EVENTS AND CONSTRUCTION SITES ETC[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 13**
+
+**13.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### EMERGENCY ORGANISATIONS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 14**
+
+**14.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PUBLIC INSPECTION OF CODE RELATED LICENCE CONDITIONS[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 15**
+
+**15.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### FUNDS FOR MEETING LIABILITIES[^key-c6e5534ef9329c35873e656cb36abb31]
+
+**Condition 16**
+
+**16.1**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.2**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.3**[^key-c6e5534ef9329c35873e656cb36abb31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-c6e5534ef9329c35873e656cb36abb31]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1999/2450) revoked (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

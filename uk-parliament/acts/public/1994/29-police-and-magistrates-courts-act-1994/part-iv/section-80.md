@@ -1,0 +1,37 @@
+---
+title: Police and Magistrates’ Courts Act 1994, section 80
+act: Police and Magistrates’ Courts Act 1994
+section: '80'
+status: repealed
+text_date: '2008-07-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1994/29/section/80
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police and Magistrates’ Courts Act 1994, section 80
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 80. Organisation of justices’ clerks in inner London area.
+
+*Extent: E+W*
+
+**No longer in force (ended 1997-06-19).**
+
+(1) Section 37 of the 1979 Act (which obliges the committee of magistrates for the inner London area to appoint a principal chief clerk and chief clerks, together with such senior deputy chief clerks, deputy chief clerks and other officers as may be necessary) shall cease to have effect.
+
+(2) Any person who, immediately before the commencement of subsection (1) above, holds office as principal chief clerk for the inner London area shall be taken to have been appointed by the magistrates’ courts committee for the inner London area as justices’ chief executive in accordance with section 24D of the 1979 Act.
+
+(3) Any person who, immediately before the commencement of subsection (1) above, holds office as chief clerk for any petty sessional division of the inner London area or for the youth courts or family proceedings courts for that area and the City of London shall be taken to have been appointed by the magistrates’ courts committee for the inner London area in accordance with section 25 of the 1979 Act as a justices’ clerk for that petty sessional division or, as the case requires, in accordance with section 34B of that Act as a justices’ clerk for those courts.
+
+(4) Except as provided by subsections (5) to (7) of section 25 of the 1979 Act, any person to whom subsection (2) or (3) above applies shall hold and vacate office in accordance with the terms of his appointment or, if he has entered into a contract of service (whether before or after the commencement of subsection (1) above), in accordance with the terms of his contract of service.
+
+(5) The abolition by virtue of subsection (1) above of the statutory offices of senior deputy chief clerk and deputy chief clerk shall not affect the continuation of the contract of service of any person who holds either of those offices immediately before the commencement of that subsection.
+
+(6) A person who is employed under a contract of service to which subsection (5) above applies shall not be dismissed from his employment without the approval of the Lord Chancellor; and before approving the dismissal of any such person the Lord Chancellor shall consider any representations made by him.
+
+(7) Any reference in any instrument or document to the chief clerk for any petty sessional division of the Inner London area or for the youth courts or family proceedings courts for that area and the City of London shall have effect, in relation to any time after the commencement of subsection (1) above, as a reference to the justices’ clerk for that petty sessional division or, as the case may be, for those courts.

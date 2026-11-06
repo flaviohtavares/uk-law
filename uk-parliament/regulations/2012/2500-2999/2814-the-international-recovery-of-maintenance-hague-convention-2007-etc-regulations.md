@@ -1,0 +1,1124 @@
+---
+title: The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012
+id: uksi/2012/2814
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-11-07'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/2814
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2814/pdfs/uksiem_20122814_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2814/pdfs/uksi_20122814_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2814/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 2814
+
+Judgments
+
+The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012
+
+Made
+
+7th November 2012
+
+Laid before Parliament
+
+9th November 2012
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State for Justice, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c21442411] in relation to private international law [^c21442421], makes the following Regulations in exercise of the power under section 2(2) of the European Communities Act 1972.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012, and, subject as follows, shall come into force on the day on which the Convention enters into force in respect of the European Union, which day will be notified in the London, Edinburgh and Belfast Gazettes.
+
+(2) Regulations 1, 2, 3 and 9, and Schedule 5 come into force on 7th December 2012.
+
+(3) Regulation 6 and Schedule 2 come into force on 1st April 2013, except in so far as they apply to the enforcement of a maintenance decision registered under the Convention.
+
+## 2.
+
+(1) Subject as follows, these Regulations extend only to England and Wales.
+
+(2) Regulations 1 to 3, 4(2), 6, 7 and 10 and Schedules 2 and 3 also extend to Scotland.
+
+(3) Regulations 1 to 3, 4(2), 7 and 10 and Schedule 3 also extend to Northern Ireland.
+
+(4) Any amendment, repeal or revocation made by these Regulations has the same extent as the enactment to which it relates.
+
+## 3. Interpretation
+
+In these Regulations—
+
+- “**the Convention**” means the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007; [^key-be1f340b981bea62a0f9034cc425f64e]...
+- [^key-be1f340b981bea62a0f9034cc425f64e]...
+
+## 4. Central Authority for England and Wales
+
+(1) The Lord Chancellor is designated under Article 4 of the Convention as the Central Authority in relation to England and Wales.
+
+(2) If a person outside the United Kingdom does not know to which Central Authority in the United Kingdom a communication should be addressed, the person may address it to the Lord Chancellor.
+
+## 5. The Convention
+
+*Extent: E+W*
+
+Schedule 1 (which contains provisions relating to the establishment, modification, recognition and enforcement in England and Wales pursuant to the Convention of maintenance decisions made in States bound by the Convention [^key-210a716d6ff9e426feca9a6dc2a41d9c]...) has effect.
+
+## 6. Enforcement
+
+*Extent: E+W+S*
+
+Schedule 2 (which contains provisions for the enforcement in England and Wales and Scotland of certain international maintenance obligations in relation to children by way of driving disqualification orders) has effect.
+
+## 7. Provisions relating to information
+
+Schedule 3 (which contains provisions relating to access to, and the transmission and use of, information) has effect.
+
+## 8. Consequential amendments
+
+*Extent: E+W*
+
+Schedule 4 (which makes consequential amendments) has effect.
+
+## 9. Further amendments[^key-2d2cd2fee8b9c20813734e8f336204e8]
+
+*Extent: E+W*
+
+Schedule 5 (which contains further amendments [^key-e38e4f4068be032b912a778d5cda40fc]...) has effect.
+
+## 10. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the provisions of these Regulations,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Convention has been given effect in other Contracting States[^key-a2968e36ed249aa967093df2cd68a673].
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the provisions of these Regulations,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate, and, if so, the extent to which they could be achieved with a system which imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day specified in regulation 1(1).
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Justice
+
+McNally
+
+Minister of State
+
+Ministry of Justice
+
+## SCHEDULE 1 — RECOGNITION AND ENFORCEMENT OF ... MAINTENANCE DECISIONS, AND ESTABLISHMENT AND MODIFICATION OF MAINTENANCE OBLIGATIONS UNDER THE CONVENTION[^key-235a03a3688f6015475611c45a91671f]
+
+*Extent: E+W*
+
+Regulation 5
+
+### 1. Interpretation
+
+(1) In this Schedule—
+
+- “**Contracting State**” means a State bound by the Convention [^key-609e2fb4bfc4f12b74e09cef008fd527]...;
+- “**court**”, in relation to a maintenance decision given in a Contracting State, includes a tribunal, and any administrative authority (within the meaning of Article 19(3)) with competence to make a decision in respect of a maintenance obligation;
+- “**maintenance decision**” means a decision, or part of a decision, made by a court in a Contracting State, to which Chapter V of the Convention applies by virtue of Article 19(1).
+
+(2) In this Schedule, any reference to a numbered Article is a reference to the Article so numbered in the Convention and any reference to a sub-division of a numbered Article shall be construed accordingly.
+
+(3)[^key-54e9f31fe277a1f9bc7055a59081a5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Recognition and enforcement of maintenance decisions made by courts in Contracting States
+
+(1) Subject to sub-paragraph (2), the court in England and Wales to which an application for registration of a maintenance decision under the Convention is to be made is the family court[^key-832edcdeeeb44889a4e8475ae432fbd2] .
+
+(2) An application for registration is to be transmitted by the Lord Chancellor to the family court[^key-fe8faecd7284727e7db6952b0dd77727] (“the registering court”).
+
+(3) Jurisdiction in relation to applications for registration of maintenance decisions lies with the courts of England and Wales if—
+
+- (a) the person against whom enforcement is sought is resident in England and Wales, or
+- (b) assets belonging to that person and which are susceptible to enforcement are situated or held in England and Wales.
+
+(4) An application for registration shall be determined in the first instance by the prescribed officer of the registering court. In this sub-paragraph and in sub-paragraph (5), “**prescribed**” means prescribed by rules of court.
+
+(5) The decision of the prescribed officer may be appealed to the registering court in accordance with rules of court.
+
+(6) For the purposes of the enforcement of a maintenance decision registered under the Convention in the registering court—
+
+- (a) the decision shall be of the same force and effect,
+- (b) the registering court shall have in relation to its enforcement the same powers, and
+- (c) proceedings for or with respect to its enforcement may be taken,
+
+as if the decision had originally been made by the registering court.
+
+(7) Sub-paragraph (6) is subject to sub-paragraph (8).
+
+(8) A maintenance decision which is so registered shall be enforceable in the family court[^key-0c1c4e67efaee3f6de3848e125df99be] in the same manner as a maintenance order made by that court, [^key-66322fa6ff9eb1296e5b9dde653a3d6e].... .
+
+In this sub-paragraph “**maintenance order**” has the meaning given by section 1(10) of the Maintenance Enforcement Act 1991[^key-90b1f6ebbd1a1aa44b223971ae733a60]
+
+(9) Sub-paragraph (6) is also subject to—
+
+- (a) paragraph 3;
+- (b) any provision made by rules of court as to the procedure for the enforcement of maintenance decisions registered in accordance with this paragraph.
+
+(10) The debtor under a maintenance decision registered in accordance with this paragraph in the family court[^key-0220dcd905bc49ba0c396ade4614afa2] must give notice of any change of address to the court officer of the family court in the Designated Family Judge area in which the maintenance decision is registered[^key-66e18b7338e94680b3bb61e4603b771b].
+
+In this sub-paragraph, “**debtor**” has the meaning given by Article 3.
+
+(11) A person who without reasonable excuse fails to comply with sub-paragraph (10) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+### 3. Interest on judgments
+
+(1) Subject to sub-paragraph (2)[^key-fc3869518d66832b0d50a737d9037439] and rules of court as to the payment of interest under this paragraph, where a person applying for registration of a maintenance decision shows that—
+
+- (a) the decision provides for the payment of money, and
+- (b) in accordance with the law of the Contracting State in which the maintenance decision was given and the terms of the decision, interest on that sum is recoverable at a particular rate and from a particular date or time,
+
+the debt resulting from registration of the decision is to carry interest at that rate and from that date or time.
+
+(2) Interest is not recoverable under sub-paragraph (1) unless the rate of interest and the date or time referred to in sub-paragraph (1)(b) are registered with the decision.
+
+(3)[^key-8c0b55949b06e6255ca8f3fdd485c37f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-6956937d2ff4665e74723343e104ced7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Currency of payments under a maintenance decision
+
+(1) Sums payable under a maintenance decision registered in England and Wales under the Convention, including any arrears so payable, shall be paid in sterling.
+
+(2) Where the maintenance decision is expressed in any other currency, the amounts shall be converted on the basis of the exchange rate prevailing on the date on which the application for registration was received by the Lord Chancellor for transmission to a court.
+
+(3) For the purposes of this paragraph, a written certificate purporting to be signed by an officer of any bank in England and Wales and stating the exchange rate prevailing on a specified date shall be evidence of the facts stated.
+
+### 5. Proof and admissibility of certain maintenance decisions and related documents
+
+(1) For the purposes of proceedings relating to the Convention a document, duly authenticated, which purports to be a copy of a maintenance decision given by a court in a Contracting State shall without further proof be deemed to be a true copy, unless the contrary is shown.
+
+(2) A document purporting to be a copy of a maintenance decision given by a court in a Contracting State is duly authenticated for the purposes of this paragraph if it purports—
+
+- (a) to bear the seal of that court; or
+- (b) to be certified by any person in that person's capacity as a judge or officer of that court to be a true copy of a maintenance decision given by that court.
+
+(3) Nothing in this paragraph shall prejudice the admission in evidence of any document which is admissible apart from this paragraph.
+
+### 6. Maintenance arrangements
+
+(1) References in this paragraph to maintenance arrangements are to those maintenance arrangements (as defined in Article 3(e)) which are to be recognised and enforceable in the same way as maintenance decisions by virtue of Article 30.
+
+(2) In relation to a maintenance arrangement which is enforceable as a maintenance decision in the Contracting State of origin, this Schedule applies, subject to the modifications in sub-paragraphs (3), (4) and (5), as if that maintenance arrangement was a maintenance decision given by a court of that State.
+
+(3) Paragraph 2 applies to maintenance arrangements as if—
+
+- (a) in sub-paragraph (6), for “as if the decision had originally” there were substituted “ as if it were a decision which had originally ”;
+- (b) after sub-paragraph (9)(b) there were inserted—
+
+  > - (c) Article 30(6) (restriction on enforcement where there is a challenge to a maintenance arrangement in the Contracting State of origin).
+
+  .
+
+(4) Paragraph 3 applies to maintenance arrangements as if in sub-paragraph (1)(b), for the word “given” there were substituted “ concluded ”.
+
+(5) Paragraph 5 applies to maintenance arrangements as if—
+
+- (a) in sub-paragraph (1), for “given by a court” there were substituted “ formally drawn up or registered as an authentic instrument by, or authenticated by, or concluded, registered or filed with a competent authority ”;
+- (b) for sub-paragraph (2) there were substituted—
+
+  > (2) A document purporting to be a copy of a maintenance arrangement drawn up or registered as an authentic instrument by, or authenticated by, or concluded, registered or filed with a competent authority in a Contracting State is duly authenticated for the purposes of this paragraph if it purports to be certified to be a true copy of such an arrangement by a person duly authorised in that State to do so.
+
+  .
+
+(6) Section 18 [^c21442491] of the Civil Jurisdiction and Judgments Act 1982 does not apply to maintenance arrangements.
+
+### 7. Applications for establishment or modification of maintenance in England and Wales
+
+(1) Upon receipt of an application submitted under Article 10 for establishment or modification of a decision, the Lord Chancellor shall send that application to the court officer of the family court in[^key-08767ae3945c4bff1f46fb2a001143e3] the Maintenance Enforcement Business Centre for the area[^key-85cdd83a7a27a189f79cd168fdd2bfce] in which the respondent is residing.
+
+(2) Upon receipt of the application under sub-paragraph (1), the court officer[^key-cf26225f2de67c68b16964fcf23ba880] of that court shall decide—
+
+- (a) whether the courts of England and Wales have jurisdiction to determine the application by virtue of [^key-2e592c05adc511e65c83bc4a1815be06]... Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 [^c21442501]; and
+- (b)[^key-463883ef0b2396c823d693bc5f284a9c] if so, whether the family court has the power to make the decision or modification sought under the law in force in England and Wales.
+
+(3) Where the court officer[^key-73f12944680cd301914307f66a50212e] decides under sub-paragraph (2)(a) that the courts of England and Wales do not have jurisdiction to determine the application, the court officer shall return the application to the Lord Chancellor with a written explanation of the reasons for that decision.
+
+(4)[^key-00fbcb9ae897c0d4924645d47c64be9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Subject to sub-paragraph (6), if the court officer[^key-cf87455e70e2f7473c142ab178a75a33] decides under sub-paragraph (2)(b) that the family court[^key-1eb30fb74552d0e4f52ca6df58b618f7] has power to make the decision or modification sought, the court officer shall issue the application and serve it on the respondent.
+
+(6) If the respondent does not reside in the area covered by the Maintenance Enforcement Business Centre[^key-ac7269ca5de2085d15f2df62b87e4031] to which the application has been sent, the court officer[^M_F_46cc2e3b-6506-4d5d-d100-542098382dcb] shall—
+
+- (a) if satisfied that the respondent is residing within the area covered by another Maintenance Enforcement Business Centre[^key-1073056d23104fc0ae15dc22f8a99b27], send the application to the court officer of the family court[^key-8265c568367a2bfbd4f9786a9fcf8940] in the Maintenance Enforcement Business Centre for[^key-349a4f5d3435fb80d36cd46f236ba089] that other area and inform the Lord Chancellor that it has been so sent; or
+- (b) if unable to establish where the respondent is residing, return the application to the Lord Chancellor.
+
+(7) A court officer[^key-4089e159470fa8768f78f8a3d84ebec4] who receives an application by virtue of sub-paragraph (6)(a) shall proceed under sub-paragraph (5) as if that court officer had decided that the family court[^key-37107c08635a7740040f229d5f086d1e] has power to make the decision or modification sought.
+
+(8) Where the court officer[^key-fee6c8f792d067bdeaafc038fa22b1fb] has determined in accordance with sub-paragraph (2)(b) that the family court[^key-0a4425a4e951a0ba8a20d365171527d5] has power to make the decision or modification sought, the application shall be treated for the purpose of establishment or modification of a decision under the law in force in England and Wales.[^key-2ea65262e6a9c70cd35d1d10fb9a9b22]
+
+(9) In this paragraph—
+
+“**respondent**” means the person who is alleged in an application for establishment of a decision under Article 10 to owe maintenance, or where the application is for modification of a decision, the applicant for the original decision; and a reference to an application is a reference to an application together with any documents which accompany it.
+
+## SCHEDULE 2 — ENFORCEMENT OF INTERNATIONAL MAINTENANCE ORDERS – DRIVING DISQUALIFICATION ORDERS
+
+*Extent: E+W+S*
+
+Regulation 6
+
+### 1. Application
+
+The provisions of this Schedule apply in relation to the enforcement of a maintenance decision relating to a child where that maintenance decision is registered for enforcement, or enforceable, by virtue of—
+
+- (a)[^key-abd5cc41cba1753a88c9d0311f0f14fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-abd5cc41cba1753a88c9d0311f0f14fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-1ee0f46fafbb8d337e88112445bee87f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+- (d) the Convention.
+
+### 2. Interpretation
+
+(1) In this Schedule—
+
+- “**the 1980 Act**” means the Magistrates' Courts Act 1980;
+- [^key-e82ab7ecdd223f78ad01f6df26eab972]...
+- [^key-e82ab7ecdd223f78ad01f6df26eab972]...
+- “**arrears**” means a sum or sums payable to the creditor from the debtor which have fallen due under the terms of a maintenance decision and which the debtor has not paid;
+- “**the court**” means—
+  - in England and Wales, a magistrates' court;
+  - in Scotland, the sheriff court;
+- “**the creditor**” means a person to whom a sum or sums of maintenance are owed by the debtor under the terms of a maintenance decision in relation to which an application under this Schedule is made, and includes—
+  - a public body acting in place of an individual to whom maintenance is owed or to which reimbursement is owed for benefits provided in place of maintenance, to the extent that such a body may seek enforcement of a maintenance decision under the terms of an international agreement referred to in paragraph 1; and
+  - an officer of the family court, where the sum or sums of maintenance must be paid to the family court;[^key-b55703fe5bc4b13fe73019135077ed1e]
+- “**the debtor**” means the person who is liable to pay a sum or sums to the creditor under the terms of the maintenance decision in relation to which a complaint referred to in paragraph 3(2) or an application referred to in paragraph 4(1) of this Schedule is made;
+- “**driving disqualification order**” means an order under paragraph 5(1)(a) of this Schedule;
+- “**maintenance decision**” means a maintenance obligation to which an international agreement mentioned in paragraph 1 applies and which is—
+  - in England and Wales, a maintenance order enforceable in the family court[^key-2d008182d9c3559b6ebf99ea50e7f812];
+  - in Scotland, a maintenance order within the meaning of section 106 of the Debtors (Scotland) Act 1987 [^c21442551].
+
+(2) In this Schedule—
+
+- (a) “**child**” means a person who—
+  - (i) either—
+    - (aa) has not attained the age of 16, or
+    - (bb) has not attained the age of 20, and is receiving full time education or vocational training; and
+  - (ii) is not or has not been party to a marriage, to a civil partnership or to an overseas relationship treated as a civil partnership under section 215 of the Civil Partnership Act 2004, and for the purposes of sub-paragraph (ii) “marriage” and “civil partnership” include a void marriage and a void civil partnership respectively;
+- (b)
+  - (i) “**driving licence**” means a licence to drive a motor vehicle granted under Part III of the Road Traffic Act 1988 [^c21442561];
+  - (ii)[^key-e897e7d83fd4f988d8ddb80628361901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-af4ceadbb6bd38c9d19eff0ba4597944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Application for a driving disqualification order – England and Wales
+
+(1) This paragraph applies to England and Wales only.
+
+(2)[^key-213542b98dda48c79a88d981ac3dc049] Where payment under a maintenance decision is in arrears, the court may make a driving disqualification order on complaint made by a creditor.
+
+(2A)[^key-3a6e3b9ac412fb77949402660c1c168e] A complaint under sub-paragraph (2) shall not be made earlier than the fifteenth day after the making of the maintenance decision to which it relates, but subject to this such a complaint may be made at any time.
+
+(2B) Section 55 of the 1980 Act shall not apply in relation to a complaint under sub-paragraph (2).
+
+(2C) Section 56 of the 1980 Act shall have effect in relation to a complaint under sub-paragraph (2) as if the words “if evidence has been received on a previous occasion” were omitted.
+
+(2D) Sub-paragraph (2E) applies where, at the time and place appointed for the hearing or adjourned hearing of a complaint under sub-paragraph (2), the complainant appears but the defendant does not.
+
+(2E) The court may proceed in the absence of the defendant if—
+
+- (a) it is proved to the satisfaction of the court, on oath or in such other manner as may be prescribed in rules of court, that the summons was served on the defendant within what appears to the court to be a reasonable time before the hearing or adjourned hearing; or
+- (b) the defendant has appeared on a previous occasion to answer the complaint.
+
+(2F) If a complaint under sub-paragraph (2) is substantiated on oath, any justice of the peace acting in the same local justice area as a court having jurisdiction to hear the complaint may issue a warrant for the defendant’s arrest, whether or not a summons has been issued previously.
+
+(3) The court shall not make a driving disqualification order—
+
+- (a) in the absence of the debtor;
+- (b) if it considers that, in a case in which it has power to do so, it is appropriate to—
+  - (i) make an attachment of earnings order;
+  - (ii) make an order under section 59(4)[^key-9026bdf06883c90b023a95191720d2a2] of the 1980 Act; or
+  - (iii) issue a warrant of control for the purpose of recovering the arrears under section 76(1) [^c21442601] of that Act;
+- (c) unless either—
+  - (i) the creditor has sought to obtain a charging order or a third party debt order in respect of the arrears and the arrears or any portion of them remain unpaid; or
+  - (ii) the debtor has no assets in England and Wales which are susceptible to such methods of enforcement.
+
+(4) Pending the entry into force of section 62 of, and Schedule 12 to, the Tribunals, Courts and Enforcement Act 2007 [^c21442611], the reference in sub-paragraph (b)(iii) to obtaining a warrant of control is to be read as a reference to obtaining a warrant of distress.
+
+### 4. Application for a driving disqualification order – Scotland
+
+(1) In Scotland, the creditor may, by summary application, apply to the court for a driving disqualification order where the conditions mentioned in sub-paragraphs (2), (3) and (4) are met.
+
+(2) The first condition is that arrears have arisen under the maintenance decision.
+
+(3) The second condition is that—
+
+- (a) a diligence against earnings listed in section 46(1) of the Debtors (Scotland) Act 1987 has been executed or made under Part 3 of that Act to secure the payment of sums due under the maintenance decision and it has proved ineffective as a means of securing that payments are made in accordance with the maintenance decision; or
+- (b) such diligence against earnings is inappropriate because the debtor is unemployed or otherwise has no earnings which could be the subject of a diligence against earnings.
+
+(4) The third condition is that the creditor has sought to recover the arrears by—
+
+- (a) an attachment;
+- (b) an arrestment; or
+- (c) an inhibition,
+
+and the arrears or any portion of them remain unpaid or the debtor has no assets in Scotland which are susceptible to the methods of enforcement mentioned in this sub-paragraph.
+
+### 5. Making of a driving disqualification order
+
+(1) If, but only if, the court is of the opinion that the failure to pay the arrears is due to wilful refusal or culpable neglect on the part of the debtor, it may—
+
+- (a) make an order (a driving disqualification order) disqualifying the debtor from holding or obtaining a driving licence for such period specified in the order, not exceeding two years, as it thinks fit; or
+- (b) make a driving disqualification order but suspend its operation until such time and on such conditions (if any) as it thinks just.
+
+(2) The court shall not make a driving disqualification order unless it has enquired, in the presence of the debtor, as to—
+
+- (a) the debtor's means;
+- (b) whether the debtor needs a driving licence to earn his or her living; and
+- (c) whether the failure to pay the arrears is due to wilful refusal or culpable neglect on the part of the debtor.
+
+**6.** A driving disqualification order must state the amount of arrears in respect of which it is made and the period to which they relate and the amount may not exceed the arrears owing under the maintenance decision at the date on which the complaint referred to in paragraph 3 or the application under paragraph 4 was made.
+
+**7.** A court which makes a driving disqualification order shall require the person to whom it relates to produce any driving licence held by that person.
+
+**8.** (1) The court shall not, in relation to arrears—
+
+- (a) make a driving disqualification order during the currency of a warrant committing the debtor to prison in respect of the same arrears;
+- (b) issue a warrant committing the debtor to prison where a driving disqualification order has been made in respect of the same arrears but the period of disqualification specified in the driving disqualification order has not expired.
+
+(2) In sub-paragraph (1)—
+
+- (a) references to a warrant committing the debtor to prison include such a warrant which has been postponed;
+- (b) references to a driving disqualification order include such an order which has been suspended in accordance with paragraph 5(1)(b); and
+- (c) references to the currency of a warrant, or to the period of disqualification specified in a driving disqualification order, are to be read as including references to the period of postponement of a warrant or suspension of disqualification respectively.
+
+### 9. Variation, revocation and expiry of driving disqualification order
+
+(1) On application by the creditor or the debtor, the court—
+
+- (a) may, if part of the amount in respect of which the order is made is paid to any person authorised to receive it, make an order substituting a shorter period of disqualification, or revoking the driving disqualification order; and
+- (b) must, if the whole of the amount is so paid, make an order revoking the driving disqualification order.
+
+(2) An application under sub-paragraph (1) shall be made—
+
+- (a) in England and Wales, by complaint;
+- (b) in Scotland, by summary application.
+
+**10.** Upon the making of a further complaint under paragraph 3(2) of this Schedule[^key-fce6dc978159cc471277445b08c2fea5] or application under paragraph 4 of this Schedule, the court may make a further driving disqualification order if the arrears in respect of which the driving disqualification order was made have not been paid in full when the period of disqualification specified in that order expires.
+
+### 11. Notification to the Secretary of State
+
+**May not be in force at this date. Check the source.**
+
+Where a court—
+
+- (a) makes a driving disqualification order; or
+- (b) makes an order varying or revoking a driving disqualification order,
+
+it shall send notice of that fact and any driving licence produced to the court to the Secretary of State.
+
+### 12. Production of driving licence in England and Wales
+
+**May not be in force at this date. Check the source.**
+
+In England and Wales, a justice of the peace may issue a summons to the debtor to produce to a magistrates' court any driving licence held by the debtor, and issue a warrant for the debtor's arrest if the debtor does not comply.
+
+### 13. Procedure on an application for a driving disqualification order in Scotland
+
+**May not be in force at this date. Check the source.**
+
+In Scotland, the power of the Court of Session by Act of Sederunt to regulate the procedure and practice in civil proceedings in the sheriff court includes the power to make, in relation to driving disqualification orders made under this Schedule, provision—
+
+- (a) as to the form of any order issued under this Schedule;
+- (b) allowing an application under this Schedule to be renewed where no order is issued;
+- (c) that a statement in writing to the effect that wages of any amount have been paid to the debtor during any period, purported to be signed by or on behalf of the debtor's employer, is sufficient evidence of the facts stated;
+- (d) that, for the purposes of enabling an inquiry to be made as to the debtor's conduct and means, the sheriff may issue a citation to the debtor to appear before the sheriff and (if the debtor does not obey) may issue a warrant for the debtor's arrest;
+- (e) that, for the purposes of enabling such an inquiry, the sheriff may issue a warrant for the debtor's arrest without issuing a citation;
+- (f) as to the execution of a warrant of arrest.
+
+## SCHEDULE 3 — PROVISIONS RELATING TO INFORMATION
+
+Regulation 7
+
+**1.** (1) Subject to the provisions of this Schedule, the Secretary of State, and Revenue and Customs officials, shall provide to the Central Authority such information mentioned at paragraph 3 as they hold in the course of their ordinary activities and which is necessary to facilitate establishment, modification, recognition, registration or enforcement of a maintenance obligation to which the Convention applies, except that provision of information may be refused where it would pose a threat to public safety or national security.
+
+(2) The information to be supplied by the Secretary of State is limited to information held for functions relating to social security, child support, employment or training.
+
+(3) In this Schedule, references to the Secretary of State include a person providing services to the Secretary of State in connection with the functions mentioned at sub-paragraph (2).
+
+**2.** (1) The information shall be provided to the Central Authority upon its request.
+
+(2) The Central Authority may not request the information unless the following conditions are met—
+
+- (a) the application to which the request relates has been made under Chapter III of the Convention (applications through Central Authorities) or is an application for a specific measure under Article 7 relating to the location of the debtor or creditor, or to obtaining the information in Article 6(2)(c) (relevant financial circumstances);
+- (b) the request is limited to information which is relevant for the establishment, modification, recognition, registration or enforcement (as the case may be) of the maintenance obligation in question.
+
+**3.** (1) Subject to sub-paragraphs (2) to (4), the information to be supplied under paragraph 1 is—
+
+- (a) the address of the debtor or of the creditor;
+- (b) details of the debtor's income;
+- (c) the identity and contact details of the debtor's employer;
+- (d) details of any deposit account or withdrawable share account that the debtor holds with a deposit-taker;
+- (e) details of the debtor's assets.
+
+(2) Where the application to which the request relates is for establishment or modification of a maintenance obligation, the Central Authority may only request the address of the debtor or of the creditor.
+
+(3) The information at sub-paragraph (1)(e) may not be requested unless the information at sub-paragraphs (1)(b) to (d) is insufficient to enable enforcement of the maintenance obligation.
+
+(4) Where the application to which the request relates is for a specific measure in accordance with paragraph 2(2)(a), the information in sub-paragraph (1)(b), (d) and (e)—
+
+- (a) shall consist only of an indication as to whether the debtor has income or assets in England and Wales, Scotland or Northern Ireland (as the case may be); and
+- (b) shall be supplied only if the creditor produces to the Central Authority a copy of the maintenance obligation or an abstract from it together with the document required by Article 25(1)(b) or Article 30(3)(b), as appropriate, stating that it is enforceable in the Contracting State in which it was made,
+
+and no information may be supplied in relation to the identity and contact details of the debtor's employer.
+
+**4.** (1) The Central Authority shall transmit the information received in accordance with this Schedule to—
+
+- (a) the relevant court in England and Wales, or Scotland or Northern Ireland (as the case may be) seised of the application referred to in paragraph 2(2)(a);
+- (b) where necessary, the requesting Central Authority,
+
+as appropriate.
+
+**5.** Subject to the provisions of the Convention and of this Schedule, the persons and authorities to whom the Central Authority transmits information in accordance with this Schedule and the requirements of Articles 6 and 7 may process that information in any manner necessary to facilitate the adjudication and recovery of the maintenance obligation to which the request relates.
+
+**6.** The Central Authority, any court to which it transmits information in accordance with paragraph 4, and any person or authority within the United Kingdom to whom that information is transmitted (whether by a court or by the Central Authority)—
+
+- (a) may use information provided under this Schedule only for the purpose of facilitating recovery of maintenance in accordance with this Schedule and the Convention;
+- (b) may not disclose to the applicant the information so provided, except that—
+  - (i) the existence, or not as the case may be, of an address, income or assets in England and Wales, or Scotland or Northern Ireland (as relevant) may be so disclosed;
+  - (ii) the information may be disclosed if required by rules of court;
+- (c) may not store the information beyond the period necessary for the purpose it was provided to it.
+
+**7.** (1) Subject to paragraph 6(b), information referred to in paragraph 3(1) which is received by a Central Authority from a person or an authority listed in paragraph 1 cannot be disclosed to another person unless the disclosure is in connection with a function of the Central Authority under Articles 6 and 7, and Chapter III.
+
+(2) Sub-paragraph (1) does not apply to—
+
+- (a) the disclosure of information which is in the form of a summary or collection of information so framed as not to enable identification of any person from the information;
+- (b) disclosure which is made in pursuance of an order of a court;
+- (c) disclosure which is required by any other enactment.
+
+**8.** (1) Subject to sub-paragraph (3), a person who—
+
+- (a) is or has been employed by the Central Authority; or
+- (b) provides or has provided services to the Central Authority,
+
+is guilty of an offence if that person makes disclosure, otherwise than in accordance with this Schedule, of information referred to in paragraph 3 which has been obtained from a person or authority listed in paragraph 1 and which relates to a person whose identity is specified in the information disclosed or can be deduced from it.
+
+(2) It is a defence to prove that, at the time of the alleged offence, the person making the disclosure believed that the person was making the disclosure lawfully in accordance with this Schedule and the Convention, and had no reasonable cause to believe otherwise.
+
+(3) Sub-paragraph (1) does not apply to disclosure of information received by such a person from the Secretary of State where the information so disclosed is held by the Secretary of State for the purposes of employment or training only.
+
+**9.** A person found guilty of an offence under this Schedule shall be liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 2 years, to a fine or to both;
+- (b) on summary conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding the statutory maximum or to both.
+
+**10.** (1) In this Schedule—
+
+- “**Central Authority**” means—
+  - (a) in relation to England and Wales, the Lord Chancellor;
+  - (b) in relation to Scotland, the Scottish Ministers; and
+  - (c) in relation to Northern Ireland, the Department of Justice,
+
+  and references to “Central Authority” include persons employed by or supplying services to that Central Authority;
+- “**deposit-taker**” means any person who may, in the course of their business, lawfully accept deposits in the United Kingdom;
+- “**maintenance obligation**” means any maintenance obligation to which the Convention (as applied by the United Kingdom) applies, and includes maintenance arrangements as defined in Article 3(e);
+- “**requesting Central Authority**” means the Central Authority of another Contracting State to the Convention which has made the request for information or sent the application under Article 10, or the specific measures request under Article 7;
+- “**Revenue and Customs officials**” has the meaning given by section 18 of the Commissioners for Revenue and Customs Act 2005 [^c21442621];
+- “**functions relating to social security**” includes functions relating to statutory payments as defined in section 4C(11) of the Social Security Contributions and Benefits Act 1992 [^c21442631] and maternity allowance under section 35 of that Act.
+
+(2) In this Schedule any reference to a numbered Article or Chapter is to the Article or Chapter so numbered in the Convention and any reference to a sub-division of a numbered Article shall be construed accordingly.
+
+## SCHEDULE 4 — CONSEQUENTIAL AMENDMENTS
+
+*Extent: E+W*
+
+Regulation 8
+
+### 1. Maintenance Orders Act 1958 (c.39)
+
+(1) Section 1 [^c21442641] of the Maintenance Orders Act 1958 is amended as follows.
+
+(2) In subsection (1A), after “settlement” insert “ , arrangement ”.
+
+(3)[^key-366551ea912e52344a24f82fceba0a45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Administration of Justice Act 1970 (c.31)
+
+(1) The Administration of Justice Act 1970 is amended as follows.
+
+(2) In section 28(1) [^c21442651], in the definition of “maintenance order”, after “settlement” insert “ , arrangement ”.
+
+(3) In Schedule 8 (which lists maintenance orders for the purposes of the Maintenance Orders Act 1958 and Part 2 of the Administration of Justice Act 1970), after paragraph 13B [^c21442661] insert—
+
+> **13C.** A decision or maintenance arrangement which is registered in a magistrates' court under the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007.
+
+.
+
+### 3. Attachment of Earnings Act 1971 (c.32)
+
+(1) The Attachment of Earnings Act 1971 is amended as follows.
+
+(2) In section 2 [^c21442671], in the definition of “maintenance order”, after “settlement” insert “ , arrangement ”.
+
+(3) In section 3(1), after paragraph (c) insert—
+
+> - (ca)[^key-a3beda325447566aafae788f1c76be64] without prejudice to paragraphs (a) and (c) above, an officer of the family court if the application is to the family court to secure payments under a maintenance order described in paragraphs 13, 14, 14A or 14B of Schedule 1 and those payments are to be made to the court;
+
+.
+
+(4) In Schedule 1 (which lists maintenance orders to which that Act applies) after paragraph 14A [^c21442681]insert—
+
+> **14B.** A decision or maintenance arrangement which is registered in a magistrates' court under the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007.
+
+.
+
+### 4. Magistrates' Courts Act 1980 (c.43)[^key-bf51b985a6280a1490d5323960449f6c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Civil Jurisdiction and Judgments Act 1982 (c.27)
+
+(1) The Civil Jurisdiction and Judgments Act 1982 [^c21442721] is amended as follows.
+
+(2) In section 18 (enforcement of UK judgments in other parts of the UK), in subsection (7), after “Act 1972” insert “ , the International Recovery of Maintenance (Hague Convention 2007) Regulations 2012 ”.
+
+(3) In section 32 [^c21442731](overseas judgments given in proceedings brought in breach of agreement for settlement of disputes), in subsection (4)(a) after “the Maintenance Regulation” insert “ or the 2007 Hague Convention ”.
+
+(4) In section 33 [^c21442741](certain steps not to amount to submission to jurisdiction of overseas court), in subsection (2) after “or the Maintenance Regulation” insert “ or the 2007 Hague Convention ”.
+
+### 6. Social Security Administration Act 1992 (c.5)
+
+In section 108 [^c21442751] of the Social Security Administration Act 1992 (reduction of expenditure on income support: certain maintenance orders to be enforceable by the Secretary of State), in subsection (4)—
+
+- (a)[^key-245a67c1b06b4e5643079b6e5a01693b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) after paragraph (aa) insert—
+
+  > - (ab) to apply for recognition and enforcement of the maintenance order under the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007, to the extent permitted by Article 36 of that Convention; and
+
+  .
+
+### 7. Recovery Abroad of Maintenance (Convention Countries) Order 1975
+
+(1) In the Schedule to the Recovery Abroad of Maintenance (Convention Countries) Order 1975 [^c21442761] the reference to Norway is revoked.
+
+(2) At the end of the Schedule, insert—
+
+> (For special provision about Norway, see paragraph 7 of Schedule 4 to the International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012.)
+
+.
+
+(3) Despite sub-paragraph (1), Norway is , and so are Austria, Belgium, Cyprus, Czech Republic, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, Netherlands (Kingdom in Europe), Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden,[^key-2bb2a0fb6551cd3eeb63d71300856322] to continue to be treated as a Convention Country for the purposes of Part 2 of the Act in relation to—
+
+- (a) proceedings on an application to which section 27A, 28C or 31(1) of the Act apply and which were continuing on the coming into force date;
+- (b) proceedings on an application for variation or revocation of an order registered under Part 2 of the Act which were continuing on the coming into force date;
+- (c) enforcement of an order registered under Part 2 of the Act before the coming into force date or upon the making of an order in proceedings within paragraph (a).
+
+(4) Despite sub-paragraph (1), Norway is, and so are Austria, Belgium, Cyprus, Czech Republic, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, Netherlands (Kingdom in Europe), Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden,[^key-7d44612e6be394a20c661e005ab98842] to continue to be treated as a Convention Country for the purposes of Part 2 of the Act in relation to any matter relating to maintenance which is—
+
+- (a) within scope of the United Nations Convention on the Recovery Abroad of Maintenance done at New York on 20th June 1956 [^c21442771]; and
+- (b) not within scope of the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007, [^key-577cfcdf816a0addaee970a315176194]....
+
+(5) In this paragraph—
+
+- “**the Act**” means the Maintenance Orders (Reciprocal Enforcement) Act 1972 [^c21442781];
+- “**the coming into force date**” means the day on which the Convention on the International Recovery of Child Support and other forms of Family maintenance done at The Hague on 23rd November 2007 enters into force in respect of the United Kingdom[^key-d5da2d2f2224f9276084b02295f7d834].
+
+### 8. Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993
+
+(1) The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993 [^c21442791] is amended as follows.
+
+(2) In Schedule 1, the reference to Norway is revoked.
+
+(3) At the end of Schedule 1, insert—
+
+> (For special provision about Norway, see paragraph 8 of Schedule 4 to the International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012.)
+
+.
+
+(4) Despite sub-paragraph (2), Norway is, and so are Austria, Belgium, Cyprus, Czech Republic, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, Netherlands (Kingdom in Europe), Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden,[^key-09b1cef1971a189194ea2facadbbc98b] to continue to be treated as a Hague Convention Country for the purposes of Part 1 of the Act as modified by Schedule 2 to the Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993—
+
+- (a) in accordance with Article 48 of the 2007 Hague Convention, in relation to any matter relating to maintenance which is—
+  - (i) within scope of the 1973 Hague Convention, and
+  - (ii) not within the scope of the 2007 Hague Convention;
+- (b) in accordance with Article 56(2) of the 2007 Hague Convention, in relation to an application for recognition and enforcement of a maintenance decision given in Norway, Austria, Belgium, Cyprus, Czech Republic, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, Netherlands (Kingdom in Europe), Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden,[^key-1e67f3bc48c8ede0436361135e170540] before the entry into force of that Convention for Norway, Austria, Belgium, Cyprus, Czech Republic, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, Netherlands (Kingdom in Europe), Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, where—
+  - (i) the conditions of recognition and enforcement under the 2007 Hague Convention prevent the recognition and enforcement of the decision, and
+  - (ii) but for sub-paragraph (2), the decision would have been recognised and enforced under Part 1 of the Act as modified as mentioned above;
+- (c) in relation to any of the following proceedings which are continuing on the day on which these Regulations come into force in accordance with regulation 1(1)—
+  - (i) proceedings for the establishment of a maintenance order under section 3 of the Act pursuant to an application made before that date, save that where a maintenance order is made in those proceedings on or after that date, recognition and enforcement of that order may not be sought pursuant to section 3(6D) and (6E);
+  - (ii) proceedings under section 5 of the Act for the variation or revocation of a maintenance order to which that section applies pursuant to an application made before that date, save that where an order is made in those proceedings on or after that date, section 5(8) does not apply;
+  - (iii) proceedings under section 6 of the Act for registration of a maintenance order where the certified copy of the order has been received by the Lord Chancellor or the Secretary of State before that date;
+- (d) in relation to—
+  - (i) the enforcement or variation of a registered order pursuant to section 8 or 9 of the Act;
+  - (ii) the cancellation of the registration, or the transfer, of a registered order pursuant to section 10 of the Act;
+  - (iii) steps taken by the Lord Chancellor or the Secretary of State pursuant to section 11 of the Act in relation to a registered order.
+
+(5) In this paragraph—
+
+- “**the Act**” means the Maintenance Orders (Reciprocal Enforcement) Act 1972;
+- “**the 2007 Hague Convention**” means the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007, as it applies in the United Kingdom by virtue of any declaration made by the United Kingdom[^key-7abe75439130dce5d8c7fe6dd30d79f3] pursuant to Article 2(3) of that Convention;
+- “**the 1973 Hague Convention**” means the Convention on the Recognition and Enforcement of Decisions Relating to Maintenance Obligations done at The Hague on 2nd October 1973 [^c21442801]as it applies in the United Kingdom;
+- “**maintenance decision**” means a decision, or part of a decision, made by a court in a Contracting State, to which Chapter V of the 2007 Hague Convention applies by virtue of Article 19(1), or to which the 1973 Hague Convention applies, as the case may be;
+- “**registered order**” has the meaning given in section 21(1) of the Act.
+
+### 9. The Armed Forces (Forfeitures and Deductions) Regulations 2009
+
+(1) The Armed Forces (Forfeitures and Deductions) Regulations 2009 [^c21442811] are amended as follows.
+
+(2) In regulation 2, after the definition of the 2000 Council Regulation, insert—
+
+> -
+>   - “**the 2007 Hague Convention**” means the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007;
+
+.
+
+(3) In regulation 8 [^c21442821], in paragraph (10)(a)—
+
+- (a)[^key-1ed51ba9c6bbbe409cf6a802a38a3e60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) after paragraph (v), insert—
+
+  > or
+  >
+  > - (vi) the 2007 Hague Convention.
+
+  .
+
+(4) In regulation 9, after paragraph (2) insert—
+
+> (2A) For the purposes of regulation 8, a reference to a maintenance order is to include a reference to a maintenance arrangement which is to be recognised and enforceable in the same way as a maintenance decision by virtue of Article 30 of the 2007 Hague Convention.
+
+.
+
+## SCHEDULE 5 — AMENDMENTS RELATING TO THE MAINTENANCE REGULATION
+
+*Extent: E+W*
+
+Regulation 9
+
+### 1. Maintenance Orders (Facilities for Enforcement) Act 1920 (c.33)
+
+(1) The Maintenance Orders (Facilities for Enforcement) Act 1920 is amended as follows.
+
+(2) In section 3 [^c21442831](power to make provisional orders of maintenance against persons resident in Her Majesty's dominions)—
+
+- (a) in subsection (1), after “if that person had been” insert “ habitually ”;
+- (b) in subsection (3), after “if the person against whom the order is made had been” insert “ habitually ”;
+- (c) in subsection (6), after “the order is sought to be made been” insert “ habitually ”.
+
+(3) In section 4A [^c21442841] (variation and revocation of maintenance orders)—
+
+- (a) in subsection (2), for the second “residing” substitute “ habitually resident ”;
+- (b) in subsection (3), for the second “residing” substitute “ habitually resident ”.
+
+### 2. Maintenance Orders (Reciprocal Enforcement) Act 1972 (c.18)
+
+(1) The Maintenance Orders (Reciprocal Enforcement) Act 1972 is amended as follows.
+
+(2) In section 3 [^c21442851](power of magistrates' court to make provisional maintenance order against person residing in reciprocating country)—
+
+- (a) in subsection (1)(a), for “residing” substitute “ habitually resident ”;
+- (b) in subsection (7)(a), in subsection (1)(a) as substituted by that provision, for “ residing ” substitute “habitually resident”.
+
+(3) In section 17 [^c21442861] (proceedings in magistrates' courts)—
+
+- (a) in subsection (5A), for the second “residing” substitute “ habitually resident ”;
+- (b) in subsection (6), for the second “residing” substitute “ habitually resident ”.
+
+(4) In section 27A [^c21442871], in subsection (2), after “Lord Chancellor.” insert —
+
+> This subsection does not confer jurisdiction on a court in England and Wales that it would not otherwise have.
+
+.
+
+(5) In section 28C [^c21442881], in subsection (2), after “Lord Chancellor.” insert—
+
+> This subsection does not confer jurisdiction on a court in Northern Ireland that it would not otherwise have.
+
+.
+
+(6) In section 35 [^c21442891](further provisions with respect to variation etc of orders by magistrates' courts in England and Wales)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) Subsection (1A) applies in relation to an application for the variation or revocation of a registered order registered in a magistrates' court in England and Wales (“the registering court”) made—
+  >
+  > - (a) by the person against whom or on whose application the registered order was made, and
+  > - (b) in circumstances where the person by or against whom the application is made is residing outside England and Wales.
+  >
+  > (1A) The registering court has jurisdiction to hear the application even though—
+  >
+  > - (a) a party to the application is residing outside England and Wales, and
+  > - (b) the requirement in section 30(1) of the Domestic Proceedings and Magistrates' Courts Act 1978 [^c21442901] as applied by section 28(2) or 28A(6) of this Act [^c21442911], is not satisfied.
+  >
+  > (1B) But if the application or part of it relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation [^c21442921] and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 [^c21442931], the registering court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+
+  ;
+- (b) after subsection (3) insert—
+
+  > (4) In subsection (1B) “**the Maintenance Regulation**” means Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+(7) In section 35A [^c21442941](further provisions with respect to variation etc of orders by magistrates' courts in Northern Ireland)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) Subsection (1A) applies in relation to an application for the variation or revocation of a registered order registered in a magistrates' court in Northern Ireland (“the registering court”) made—
+  >
+  > - (a) by the person against whom or on whose application the registered order was made, and
+  > - (b) in circumstances where the person by or against whom the application is made is residing outside Northern Ireland.
+  >
+  > (1A) The registering court has jurisdiction to hear the application even though—
+  >
+  > - (a) a party to the application is residing outside England and Wales, and
+  > - (b) the requirement in Article 32 of the Domestic Proceedings (Northern Ireland) Order 1980 [^c21442951], as applied by section 29(2) or 29A(6) of this Act [^c21442961], is not satisfied.
+  >
+  > (1B) But if the application or part of it relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, the registering court may not entertain the application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
+
+  ;
+- (b) after subsection (3) insert—
+
+  > (4) In subsection (1B) “**the Maintenance Regulation**” means Council Regulation [(EC) 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) including as applied in relation to Denmark by virtue of the Agreement made on 19th October 2005 between the European Community and the Kingdom of Denmark.
+
+  .
+
+### 3. Children Act 1989 (c.41)
+
+In Schedule 1 to the Children Act 1989, for the italic heading before paragraph 14 [^c21442971], substitute— “ *Jurisdiction in relation to matters relating to maintenance* ”
+
+### 4. Recovery Abroad of Maintenance (Convention Countries) Order 1975
+
+(1) In the Schedule to the Recovery Abroad of Maintenance (Convention Countries) Order 1975 [^c21442981], references to the following countries are revoked—
+
+- (a) Austria;
+- (b) Belgium;
+- (c) Cyprus;
+- (d) Czech Republic;
+- (e) Denmark;
+- (f) Finland;
+- (g) France, including the overseas departments of Guadeloupe, Guiana, Martinique and Reunion;
+- (h) Germany;
+- (i) Greece;
+- (j) Hungary;
+- (k) Ireland;
+- (l) Italy;
+- (m) Luxembourg;
+- (n) Netherlands (Kingdom in Europe);
+- (o) Poland;
+- (p) Portugal;
+- (q) Romania;
+- (r) Slovakia;
+- (s) Slovenia;
+- (t) Spain;
+- (u) Sweden.
+
+(2)[^key-a32691cbf956ddeeadd1c1a3f4d4a50b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-be8e84ddb6e14972afacf01bedba07f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 1975
+
+(1) In the Schedule to the Reciprocal Enforcement of Maintenance Orders (Designation of Reciprocating Countries) Order 1975 [^c21443011], the reference to Malta in column (1) and the corresponding entry in column (2) are revoked.
+
+(2)[^key-7300aa3638dd468ed3b65f3a34fc4b8d] Despite sub-paragraph (1), Malta is to continue to be treated as a reciprocating country for the purposes of Part 1 of the Act—
+
+- (a) in relation to any matter relating to maintenance which is—
+  - (i) within scope of the Act, and
+  - (ii) not within scope of the 2007 Hague Convention”;
+- (b) in accordance with Article 56(2) of the 2007 Hague Convention, in relation to an application for recognition and enforcement of a maintenance decision given in Malta before the entry into force of that Convention for Malta where—
+  - (i) the conditions of recognition and enforcement under the 2007 Hague Convention prevent the recognition and enforcement of the decision, and
+  - (ii) but for sub-paragraph (1), the decision would have been recognised and enforced under Part 1 of the Act;
+- (c) in relation to—
+  - (i) the enforcement or variation of a registered order pursuant to section 8 or 9 of the Act;
+  - (ii) the cancellation of the registration, or the transfer, of a registered order pursuant to section 10 of the Act;
+  - (iii) steps taken by the Lord Chancellor or the Secretary of State pursuant to section 11 of the Act in relation to a registered order.
+
+(3) In sub-paragraph (2), “**the Act**” means the Maintenance Orders (Reciprocal Enforcement) Act 1972 [^c21443021]; and “[^key-03b124868f22e61f9b32aabd2888dcc8]**the 2007 Hague Convention**” means the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007.
+
+### 6. Reciprocal Enforcement of Maintenance Orders (United States of America) Order 1995
+
+(1) The Reciprocal Enforcement of Maintenance Orders (United States of America) Order 1995 [^c21443031] is amended as follows.
+
+(2) In Schedule 2, in paragraph 16(3), in section 17(6) of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as substituted by paragraph 16(3)), for the second “ residing ” substitute “habitually resident”.
+
+(3) In Schedule 3, section 17 of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as it has effect as set out in that Schedule) is amended as follows—
+
+- (a) in subsection (5A), for the second “residing” substitute “ habitually resident ”;
+- (b) in subsection (6), for the second “residing” substitute “ habitually resident ”.
+
+### 7. Reciprocal Enforcement of Maintenance Orders (United States of America) Order 2007
+
+(1) The Reciprocal Enforcement of Maintenance Orders (United States of America) Order 2007 [^c21443041] is amended as follows.
+
+(2) In Schedule 1, in paragraph 15(2)—
+
+- (a) in section 17(5A) of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as substituted by paragraph 15(2)), for the second “ residing ”, substitute “habitually resident”;
+- (b) in section 17(6) of that Act (as substituted by paragraph (15(2)), for the second “ residing ”, substitute “habitually resident”.
+
+(3) In Schedule 2, section 17 of the Maintenance Orders (Reciprocal Enforcement) Act 1972 (as it has effect as set out in that Schedule) is amended as follows—
+
+- (a) in subsection (5A), for the second “residing”, substitute “ habitually resident ”;
+- (b) in subsection (6), for the second “residing”, substitute “ habitually resident ”.
+
+### 8. Civil Jurisdiction and Judgments (Maintenance) Regulations 2011[^key-a3654b096781bfc92c4290af11f5fb91]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision to facilitate the application of the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007 (“**the Convention**”) in England and Wales. This provision is extended to Scotland in relation to enforcement of international maintenance decisions by way of driving disqualification, and both Scotland and Northern Ireland regarding the sharing of information by certain Government departments to facilitate establishment and enforcement of maintenance decisions to which the 2007 Hague Convention applies.
+
+The Convention will be concluded by the European Union on a date yet to be determined by virtue of Council Decision 2011/432/EU (OJ No. L 192, 22.7.2011, pages 39 to 50). European Union Member States (apart from Denmark) are bound to apply the Convention by virtue of conclusion by the European Union.
+
+Regulation 4 designates the Lord Chancellor as Central Authority for England and Wales as required by Article 4 of the Convention.
+
+Regulation 5 and Schedule 1 make provision for the enforcement of maintenance decisions and maintenance arrangements made in Contracting States to the Convention by the courts of England and Wales. Provision is also made for the treatment by the Central Authority and by the courts of an application to establish maintenance received from the Central Authority of a Contracting State.
+
+Regulation 6 and Schedule 2 enable courts to which an application is made to enforce a maintenance decision under certain international instruments to do so by way of a driving disqualification order. For the courts of England and Wales, the power to impose driving disqualification is provided within the existing process for enforcement following a complaint under section 93 of the Magistrates' Courts Act. For cases in Scotland, a summary application is to be made to the sheriff court.
+
+Regulation 7 and Schedule 3 make provision to enable the Central Authorities for the Convention in England and Wales, Scotland and Northern Ireland to request specific information from certain public bodies for use in recovery of maintenance in cases under the Convention. This power enables the Central Authorities to fulfil certain of their duties under the Convention (in particular, those under Article 6). The provisions broadly reflect those of Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) relating to cross border maintenance matters between the Member States of the European Union, and the provision made in support of that Regulation in the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 at Schedule 2.
+
+Regulation 8 and Schedule 4 make amendments to legislation consequential upon the application of the Convention in the United Kingdom, in particular to adapt the existing legislative machinery for enforcement of maintenance orders so that it can be applied to enforce maintenance decisions under the Convention. Provision is also made to revoke references to Norway in two existing instruments, subject to certain transitional and savings arrangements. Norway is already a Contracting State to the Convention and upon the Convention coming into force for the European Union, the recovery of maintenance in international cases between Norway and the United Kingdom will be primarily governed by the Convention. Future ratification or accession of States to the Convention will require further legislative provision where the United Kingdom has existing arrangements with such States for enforcement of maintenance which are superseded by the Convention.
+
+Regulation 9 and Schedule 5 make further provision consequential on the application of Council Regulation [(EC) No 4/2009](https://www.legislation.gov.uk/european/regulation/2009/0004) in the United Kingdom from 18th June 2011. In particular, further amendments have been made to reflect the jurisdictional requirements of that Regulation, and revocations of the references to certain European Union Member States made in existing legislation where the Regulation supersedes the international agreements which that legislation implemented. Amendments are also made to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 in Schedule 1 regarding arrangements for the treatment by the Central Authorities and the courts of England and Wales, and Northern Ireland, of applications for establishment of maintenance made under the Regulation.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available and is annexed to the explanatory memorandum which is available alongside the instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^c21442411]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2 was amended by section 27(1)(a) and (b) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c21442421]: Marginal citation: [The European Communities (Designation) (No.2) Order 2008 (S.I.2008/1792)](https://www.legislation.gov.uk/uksi/2008/1792). Under section 57 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of the functions in relation to the implementation of obligations under European Union law in respect of private international law, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by the Secretary of State as regards Scotland. Implementation of obligations under European Union law in respect of devolved matters is itself a devolved matter in Northern Ireland. However, the designation of the Secretary of State under the European Communities (Designation) (No.2) Order 2008 in relation to private international law remains exercisable in relation to Northern Ireland. This is despite the designation of Northern Ireland Departments in relation to that matter by virtue of the [European Communities (Designation) (No.5) Order 2010 (S.I. 2010/2690)](https://www.legislation.gov.uk/uksi/2010/2690) as that designation does not restrict the scope of other designations.
+
+[^key-be1f340b981bea62a0f9034cc425f64e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/2814/regulation/3) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(2)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-210a716d6ff9e426feca9a6dc2a41d9c]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2012/2814/regulation/5) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(3)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2d2cd2fee8b9c20813734e8f336204e8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2814/regulation/9) heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e38e4f4068be032b912a778d5cda40fc]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2012/2814/regulation/9) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a2968e36ed249aa967093df2cd68a673]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2012/2814/regulation/10/2) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(6)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-235a03a3688f6015475611c45a91671f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2814/schedule/1) heading omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(7)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/7/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-609e2fb4bfc4f12b74e09cef008fd527]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/1/paragraph/1/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(7)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/7/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-54e9f31fe277a1f9bc7055a59081a5a5]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/1/paragraph/1/3) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [137](https://www.legislation.gov.uk/uksi/2014/879/article/137)
+
+[^key-832edcdeeeb44889a4e8475ae432fbd2]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [138(a)](https://www.legislation.gov.uk/uksi/2014/879/article/138/a)
+
+[^key-fe8faecd7284727e7db6952b0dd77727]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [138(b)](https://www.legislation.gov.uk/uksi/2014/879/article/138/b)
+
+[^key-0c1c4e67efaee3f6de3848e125df99be]: Textual amendment: Words in Sch. 1 para. 2(8) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [138(c)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/138/c/i)
+
+[^key-66322fa6ff9eb1296e5b9dde653a3d6e]: Textual amendment: Words in Sch. 1 para. 2(8) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [138(c)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/138/c/ii)
+
+[^key-90b1f6ebbd1a1aa44b223971ae733a60]: Textual amendment: Words in Sch. 1 para. 2(8) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [138(c)(iii)](https://www.legislation.gov.uk/uksi/2014/879/article/138/c/iii)
+
+[^key-0220dcd905bc49ba0c396ade4614afa2]: Textual amendment: Words in Sch. 1 para. 2(10) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [138(d)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/138/d/i)
+
+[^key-66e18b7338e94680b3bb61e4603b771b]: Textual amendment: Words in Sch. 1 para. 2(10) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [138(d)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/138/d/ii)
+
+[^key-fc3869518d66832b0d50a737d9037439]: Textual amendment: Words in Sch. 1 para. 3(1) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [139(a)](https://www.legislation.gov.uk/uksi/2014/879/article/139/a)
+
+[^key-8c0b55949b06e6255ca8f3fdd485c37f]: Textual amendment: [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/1/paragraph/3/3) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [139(b)](https://www.legislation.gov.uk/uksi/2014/879/article/139/b)
+
+[^key-6956937d2ff4665e74723343e104ced7]: Textual amendment: Sch. 1 para. 3(4) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [139(b)](https://www.legislation.gov.uk/uksi/2014/879/article/139/b)
+
+[^c21442491]: Marginal citation: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27).
+
+[^key-08767ae3945c4bff1f46fb2a001143e3]: Textual amendment: Words in Sch. 1 para. 7(1) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(a)](https://www.legislation.gov.uk/uksi/2014/879/article/140/a)
+
+[^key-85cdd83a7a27a189f79cd168fdd2bfce]: Textual amendment: Words in Sch. 1 para. 7(1) substituted (31.7.2015) by [The Civil Jurisdiction and Judgments (Maintenance) and International Recovery of Maintenance (Hague Convention 2007 etc) (Amendment) Order 2015 (S.I. 2015/1489)](https://www.legislation.gov.uk/uksi/2015/1489), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2015/1489/article/4/a)
+
+[^key-cf26225f2de67c68b16964fcf23ba880]: Textual amendment: Words in Sch. 1 para. 7(2) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(b)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/140/b/i)
+
+[^key-2e592c05adc511e65c83bc4a1815be06]: Textual amendment: Words in [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/1/paragraph/7/2/a) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(7)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/7/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21442501]: Marginal citation: [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^key-463883ef0b2396c823d693bc5f284a9c]: Textual amendment: Sch. 1 para. 7(2)(b) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(b)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/140/b/ii)
+
+[^key-73f12944680cd301914307f66a50212e]: Textual amendment: Words in Sch. 1 para. 7(3) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(c)](https://www.legislation.gov.uk/uksi/2014/879/article/140/c)
+
+[^key-00fbcb9ae897c0d4924645d47c64be9d]: Textual amendment: Sch. 1 para. 7(4) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(d)](https://www.legislation.gov.uk/uksi/2014/879/article/140/d)
+
+[^key-cf87455e70e2f7473c142ab178a75a33]: Textual amendment: Words in Sch. 1 para. 7(5) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(e)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/140/e/i)
+
+[^key-1eb30fb74552d0e4f52ca6df58b618f7]: Textual amendment: Words in Sch. 1 para. 7(5) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(e)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/140/e/ii)
+
+[^key-ac7269ca5de2085d15f2df62b87e4031]: Textual amendment: Words in Sch. 1 para. 7(6) substituted (31.7.2015) by [The Civil Jurisdiction and Judgments (Maintenance) and International Recovery of Maintenance (Hague Convention 2007 etc) (Amendment) Order 2015 (S.I. 2015/1489)](https://www.legislation.gov.uk/uksi/2015/1489), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3), [4(b)(i)](https://www.legislation.gov.uk/uksi/2015/1489/article/4/b/i)
+
+[^M_F_46cc2e3b-6506-4d5d-d100-542098382dcb]: Textual amendment: Words in Sch. 1 para. 7(6) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(f)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/140/f/i)
+
+[^key-1073056d23104fc0ae15dc22f8a99b27]: Textual amendment: Words in Sch. 1 para. 7(6)(a) substituted (31.7.2015) by [The Civil Jurisdiction and Judgments (Maintenance) and International Recovery of Maintenance (Hague Convention 2007 etc) (Amendment) Order 2015 (S.I. 2015/1489)](https://www.legislation.gov.uk/uksi/2015/1489), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1489/article/4/b/aa)[(aa)](https://www.legislation.gov.uk/uksi/2015/1489/article/4/b/ii)
+
+[^key-8265c568367a2bfbd4f9786a9fcf8940]: Textual amendment: Words in Sch. 1 para. 7(6)(a) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(f)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/879/article/140/f/bb)
+
+[^key-349a4f5d3435fb80d36cd46f236ba089]: Textual amendment: Words in Sch. 1 para. 7(6)(a) inserted (31.7.2015) by [The Civil Jurisdiction and Judgments (Maintenance) and International Recovery of Maintenance (Hague Convention 2007 etc) (Amendment) Order 2015 (S.I. 2015/1489)](https://www.legislation.gov.uk/uksi/2015/1489), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1489/article/4/b/bb)[(bb)](https://www.legislation.gov.uk/uksi/2015/1489/article/4/b/ii)
+
+[^key-4089e159470fa8768f78f8a3d84ebec4]: Textual amendment: Words in Sch. 1 para. 7(7) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(g)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/140/g/i)
+
+[^key-37107c08635a7740040f229d5f086d1e]: Textual amendment: Words in Sch. 1 para. 7(7) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(g)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/140/g/ii)
+
+[^key-fee6c8f792d067bdeaafc038fa22b1fb]: Textual amendment: Words in Sch. 1 para. 7(8) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(h)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/140/h/i)
+
+[^key-0a4425a4e951a0ba8a20d365171527d5]: Textual amendment: Words in Sch. 1 para. 7(8) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(h)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/140/h/ii)
+
+[^key-2ea65262e6a9c70cd35d1d10fb9a9b22]: Textual amendment: Words in Sch. 1 para. 7(8) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [140(h)(iii)](https://www.legislation.gov.uk/uksi/2014/879/article/140/h/iii)
+
+[^key-abd5cc41cba1753a88c9d0311f0f14fa]: Textual amendment: [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/2/paragraph/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/2/paragraph/1/b) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [80(a)](https://www.legislation.gov.uk/uksi/2019/479/regulation/80/a) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1ee0f46fafbb8d337e88112445bee87f]: Textual amendment: Words in Sch. 2 para. 1(c) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(8)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e82ab7ecdd223f78ad01f6df26eab972]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/2814/schedule/2/paragraph/2) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [80(b)](https://www.legislation.gov.uk/uksi/2019/479/regulation/80/b) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b55703fe5bc4b13fe73019135077ed1e]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/2814/schedule/2/paragraph/2) substituted (31.7.2015) by [The Civil Jurisdiction and Judgments (Maintenance) and International Recovery of Maintenance (Hague Convention 2007 etc) (Amendment) Order 2015 (S.I. 2015/1489)](https://www.legislation.gov.uk/uksi/2015/1489), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/1489/article/1/3), [5](https://www.legislation.gov.uk/uksi/2015/1489/article/5)
+
+[^key-2d008182d9c3559b6ebf99ea50e7f812]: Textual amendment: Words in Sch. 2 para. 2(1) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [142(a)](https://www.legislation.gov.uk/uksi/2014/879/article/142/a)
+
+[^c21442551]: Marginal citation: [1987 c.18](https://www.legislation.gov.uk/ukpga/1987/18). Section 106 was amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^c21442561]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^key-e897e7d83fd4f988d8ddb80628361901]: Textual amendment: Sch. 2 para. 2(2)(b)(ii) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/17)
+
+[^key-af4ceadbb6bd38c9d19eff0ba4597944]: Textual amendment: Sch. 2 para. 2(2)(c) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [142(b)](https://www.legislation.gov.uk/uksi/2014/879/article/142/b)
+
+[^key-213542b98dda48c79a88d981ac3dc049]: Textual amendment: [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/2/paragraph/3/2) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [143(a)](https://www.legislation.gov.uk/uksi/2014/879/article/143/a)
+
+[^key-3a6e3b9ac412fb77949402660c1c168e]: Textual amendment: Sch. 2 para. 3(2A)-(2F) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [143(b)](https://www.legislation.gov.uk/uksi/2014/879/article/143/b)
+
+[^key-9026bdf06883c90b023a95191720d2a2]: Textual amendment: Words in [Sch. 2 para. 3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/2/paragraph/3/3/b/ii) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [143(c)](https://www.legislation.gov.uk/uksi/2014/879/article/143/c)
+
+[^c21442601]: Marginal citation: Section 76(1) is amended by section 62(3) and paragraphs 45 and 46 of Schedule 13 to the [Tribunals Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) from a date to be appointed.
+
+[^c21442611]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^key-fce6dc978159cc471277445b08c2fea5]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2012/2814/schedule/2/paragraph/10) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [144](https://www.legislation.gov.uk/uksi/2014/879/article/144)
+
+[^c21442621]: Marginal citation: [2005 c.11](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^c21442631]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 4C was inserted by section 1(1) of the [National Insurance Contributions Act 2006 (c.10)](https://www.legislation.gov.uk/ukpga/2006/10), and subsection 11 was amended by section 11(1) of and paragraph 5 of Schedule 1 to the [Work and Families Act 2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18).
+
+[^c21442641]: Marginal citation: [1958 c.39](https://www.legislation.gov.uk/ukpga/1958/39). Section 1(1A) was inserted by section 27(3) of the [Administration of Justice Act 1970 (c.31)](https://www.legislation.gov.uk/ukpga/1970/31) and amended by regulation 9 of and paragraph 2(1) to (3) of Schedule 7 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); [section 1(4)](https://www.legislation.gov.uk/uksi/2012/2814/section/1/4) was inserted by setion 22 of and paragraph 4 of the Schedule to the [Maintenance Orders (Reciprocal Enforcement) Act 1972 (c.18)](https://www.legislation.gov.uk/ukpga/1972/18), and amended by sections 15, 23, and 36 of and Part I of Schedule 12 to the [Civil Jurisdiction and Judgments Act 1982 (c.27)](https://www.legislation.gov.uk/ukpga/1982/27), [article 5](https://www.legislation.gov.uk/ukpga/1982/27/article/5) of and paragraph 5 of Schedule 5
+
+[^key-366551ea912e52344a24f82fceba0a45]: Textual amendment: [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/1/3) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+
+[^c21442651]: Marginal citation: The definition of maintenance order in section 28(1) was amended by regulation 9 of and paragraph 3 of Schedule 7 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^c21442661]: Marginal citation: [Paragraph 13B](https://www.legislation.gov.uk/uksi/2012/2814/paragraph/13B) was inserted by regulation 9 and paragraph 3 of Schedule 7 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^c21442671]: Marginal citation: The definition of maintenance order in section 2 was amended by regulation 9 of, and paragraph 4 of Schedule 7 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^key-a3beda325447566aafae788f1c76be64]: Textual amendment: Words in Sch. 4 para. 3(3) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [145](https://www.legislation.gov.uk/uksi/2014/879/article/145)
+
+[^c21442681]: Marginal citation: Paragraph 14A was inserted by regulation 9 of, and paragraph 4 of Schedule 7 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^key-bf51b985a6280a1490d5323960449f6c]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/4) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+
+[^c21442721]: Marginal citation: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27). The Civil Jurisdiction and Judgments Act 1982 was amended by section 3 of, and Schedule 2 to the [Civil Jurisdiction and Judgments Act 1991 (c.12)](https://www.legislation.gov.uk/ukpga/1991/12), [Article 4](https://www.legislation.gov.uk/ukpga/1991/12/article/4) of, and Schedule 2 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [regulations 2](https://www.legislation.gov.uk/uksi/2001/3929/regulation/2), [16](https://www.legislation.gov.uk/uksi/2001/3929/regulation/16) and 17 of [S.I.2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and section 226(1) of and paragraph 12 of Schedule 5 to the Bankruptcy and Diligence etc (Scotland) Act 2007 ([2007 asp 3](https://www.legislation.gov.uk/asp/2007/3)).
+
+[^c21442731]: Marginal citation: Subsection (4)(a) was amended by section 3 of and paragraph 14 of Schedule 2 to the [Civil Jurisdiction and Judgments Act 1991 (c.12)](https://www.legislation.gov.uk/ukpga/1991/12), [article 4](https://www.legislation.gov.uk/ukpga/1991/12/article/4) of and paragraph 14 of Part IV of Schedule 2 to [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), and regulation 6 of and paragraphs 1 and 9 of Schedule 4 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^c21442741]: Marginal citation: Subsection (2) was amended by section 3 of and paragraph 15 of Schedule 2 to the [Civil Jurisdiction and Judgments Act 1991 (c.12)](https://www.legislation.gov.uk/ukpga/1991/12), [article 4](https://www.legislation.gov.uk/ukpga/1991/12/article/4) of and paragraph 15 of Part IV of Schedule 2 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), and regulation 6 of and paragraphs 1 and 10 of Schedule 4 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^c21442751]: Marginal citation: [Section 108](https://www.legislation.gov.uk/uksi/2012/2814/section/108) is prospectively repealed from a day to be appointed by sections 9(30(b) and 58(1) of, and Part 1 of Schedule 7 to the [Welfare Reform Act 2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24). Subsection (4)(aa) was inserted by regulation 9 of and paragraph 14(b) of Schedule 7 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^key-245a67c1b06b4e5643079b6e5a01693b]: Textual amendment: [Sch. 4 para. 6(a)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/6/a) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+
+[^c21442761]: Marginal citation: [S.I.1975/423](https://www.legislation.gov.uk/uksi/1975/423).
+
+[^key-2bb2a0fb6551cd3eeb63d71300856322]: Textual amendment: Words in [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/7/3) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(9)(a)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/9/a/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7d44612e6be394a20c661e005ab98842]: Textual amendment: Words in [Sch. 4 para. 7(4)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/7/4) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(9)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/9/a/ii/aa) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21442771]: Marginal citation: Cmd 6084.
+
+[^key-577cfcdf816a0addaee970a315176194]: Textual amendment: Words in [Sch. 4 para. 7(4)(b)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/7/4/b) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(9)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/9/a/ii/bb) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21442781]: Marginal citation: [1972 c.18](https://www.legislation.gov.uk/ukpga/1972/18).
+
+[^key-d5da2d2f2224f9276084b02295f7d834]: Textual amendment: Words in [Sch. 4 para. 7(5)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/7/5) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(9)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/9/a/iii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21442791]: Marginal citation: [S.I. 1993/593](https://www.legislation.gov.uk/uksi/1993/593).
+
+[^key-09b1cef1971a189194ea2facadbbc98b]: Textual amendment: Words in [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/8/4) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(9)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/9/b/i/aa) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1e67f3bc48c8ede0436361135e170540]: Textual amendment: Words in [Sch. 4 para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/8/4/b) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(9)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/9/b/i/bb) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7abe75439130dce5d8c7fe6dd30d79f3]: Textual amendment: Words in [Sch. 4 para. 8(5)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/8/5) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/9/b/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21442801]: Marginal citation: Cmd 7939.
+
+[^c21442811]: Marginal citation: [S.I. 2009/1109](https://www.legislation.gov.uk/uksi/2009/1109).
+
+[^c21442821]: Marginal citation: Sub-paragraph (10)(a)(iv) was amended by, and sub-paragraph (10)(a)(b) was inserted by regulation 9 of and paragraph 29 of Schedule 7 to [S.I.2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^key-1ed51ba9c6bbbe409cf6a802a38a3e60]: Textual amendment: [Sch. 4 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/4/paragraph/9/3/a) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+
+[^c21442831]: Marginal citation: [Section 3](https://www.legislation.gov.uk/uksi/2012/2814/section/3) is prospectively repealed by section 22(2)(a) of the Maintenance Orders (Reciprocal Enforcement) Act 1972 form a date to be appointed. Subsections (1), (3) and (6) were amended by section 1(1) of and paragraph 1 of Part I of Schedule 1 to the [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c.56)](https://www.legislation.gov.uk/ukpga/1992/56).
+
+[^c21442841]: Marginal citation: [Section 4A](https://www.legislation.gov.uk/uksi/2012/2814/section/4A) was inserted by section 1(1) of and paragraph 3 of Part I of Schedule 1 to the Maintenance Orders (Reciprocal Enforcement) Act 1992. It is prospectively repealed as from a day to be appointed by section 22(2) of the Maintenance Orders (Reciprocal Enforcement) Act 1972. Subsection (3) was amended by Article 185(1) of and paragraph 5 of Schedule 9 to [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755).
+
+[^c21442851]: Marginal citation: Subsection (1) was substituted by section 1(2) of and paragraph 6 of Part II of Schedule 1 to the Maintenance Orders (Reciprocal Enforcement) Act 1992. Subsection (7) was substituted by article 185(1) of and paragraph 66 of Schedule 9 to [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755).
+
+[^c21442861]: Marginal citation: Subsection (5A) was inserted by Section 1(2) of and paragraph 10 of Part II of Schedule 1 to the Maintenance Orders (Reciprocal Enforcement) Act 1992. Subsection (6) was substituted by article 185(1) of and paragraph 70 of Schedule 9 to [S.I.1995/755](https://www.legislation.gov.uk/uksi/1995/755).
+
+[^c21442871]: Marginal citation: [Section 27A](https://www.legislation.gov.uk/uksi/2012/2814/section/27A) was substituted by section 1(2) of and paragraph 13 of Part II to Schedule 1 of the [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c.56)](https://www.legislation.gov.uk/ukpga/1992/56).
+
+[^c21442881]: Marginal citation: [Section 28C](https://www.legislation.gov.uk/uksi/2012/2814/section/28C) was substituted by section 1(2) of and paragraph 13 of Part II to Schedule 1 of the Maintenance Orders (Reciprocal Enforcement) Act 1992.
+
+[^c21442891]: Marginal citation: [Section 35](https://www.legislation.gov.uk/uksi/2012/2814/section/35) was substituted by section 1(2) of and paragraph 16 of Part II to Schedule 1 of the Maintenance Orders (Reciprocal Enforcement) Act 1992. Section 35(1) was amended by article 11 of and paragraph 15 of Schedule 1 to S.I.1 1993/ 1576.
+
+[^c21442901]: Marginal citation: 1978 (c.22). Section 30(1) was amended by regulation 9 of and paragraph 8 of Schedule 7 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), [section 68(1)](https://www.legislation.gov.uk/uksi/2011/1484/section/68/1) of and paragraph 24 of Schedule 1 to the [Family Law Act 1986 (c.55)](https://www.legislation.gov.uk/ukpga/1986/55), [section 154](https://www.legislation.gov.uk/ukpga/1986/55/section/154) of and paragraph 163 of Schedule 7 to the [Magistrates' Courts Act 1980 (c.43)](https://www.legislation.gov.uk/ukpga/1980/43), and section 109(1) of and paragraph 194 of Schedule 8 to the [Courts Act 2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39).
+
+[^c21442911]: Marginal citation: [Sections 28](https://www.legislation.gov.uk/uksi/2012/2814/section/28) and 28A were substituted by section 1(2) of and paragraph 13 of Part II to Schedule 1 of the Maintenance Orders (Reciprocal Enforcement) Act 1992.
+
+[^c21442921]: Marginal citation: O.J. No. L 7, 10.1.2009, p.1-79.
+
+[^c21442931]: Marginal citation: [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^c21442941]: Marginal citation: [Section 35A](https://www.legislation.gov.uk/uksi/2012/2814/section/35A) was substituted by section 1(2) of and paragraph 16 of Part II to Schedule 1 of the Maintenance Orders (Reciprocal Enforcement) Act 1992, and article 185(1) of and paragraph 75 of Schedule 9 to S.I. 1995/ 755.
+
+[^c21442951]: Marginal citation: [S.I. 1980/563](https://www.legislation.gov.uk/uksi/1980/563) (NI 5)
+
+[^c21442961]: Marginal citation: [Sections 29](https://www.legislation.gov.uk/uksi/2012/2814/section/29) and 29A substituted by article 185(1) of and paragraph 72 of Schedule 9 to [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755).
+
+[^c21442971]: Marginal citation: [Paragraph 14](https://www.legislation.gov.uk/uksi/2012/2814/paragraph/14) of Schedule 1 was substituted by regulation 9 of and paragraph 12 of Schedule 7 to [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
+
+[^c21442981]: Marginal citation: [S.I.1975/423](https://www.legislation.gov.uk/uksi/1975/423). In the Schedule, the references to Cyprus, Romania, Slovakia, and Slovenia were inserted by article 2(2) of [S.I. 1996/1925](https://www.legislation.gov.uk/uksi/1996/1925); the reference to the Czech Republic substituted by article 2(2) of that S.I.; and the reference to Ireland inserted by article 2(2) of [S.I. 2002/2839](https://www.legislation.gov.uk/uksi/2002/2839).
+
+[^key-a32691cbf956ddeeadd1c1a3f4d4a50b]: Textual amendment: [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/4/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(10)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/10/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-be8e84ddb6e14972afacf01bedba07f1]: Textual amendment: [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/4/3) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(10)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/10/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21443011]: Marginal citation: [S.I.1975/2187](https://www.legislation.gov.uk/uksi/1975/2187)
+
+[^key-7300aa3638dd468ed3b65f3a34fc4b8d]: Textual amendment: [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/5/2) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(10)(b)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/10/b/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21443021]: Marginal citation: [1972 c.18](https://www.legislation.gov.uk/ukpga/1972/18).
+
+[^key-03b124868f22e61f9b32aabd2888dcc8]: Textual amendment: Words in [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/5/3) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/10/b/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21443031]: Marginal citation: [S.I.1995/2709](https://www.legislation.gov.uk/uksi/1995/2709). Superseded by [S.I. 2007/2005](https://www.legislation.gov.uk/uksi/2007/2005) and [S.S.I. 2007/354](https://www.legislation.gov.uk/ssi/2007/354) as from 1st October 2007.
+
+[^c21443041]: Marginal citation: [S.I. 2007/2005](https://www.legislation.gov.uk/uksi/2007/2005)
+
+[^key-a3654b096781bfc92c4290af11f5fb91]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2012/2814/schedule/5/paragraph/8) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 39(10)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/39/10/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

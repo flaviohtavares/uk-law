@@ -1,0 +1,129 @@
+---
+title: The National Health Service (Charges for Drugs and Appliances) (Amendment) Regulations 2020
+id: uksi/2020/201
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-02-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/201
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/201/pdfs/uksiem_20200201_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/201/pdfs/uksi_20200201_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/201/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Charges for Drugs and Appliances) (Amendment) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 201
+
+National Health Service, England
+
+The National Health Service (Charges for Drugs and Appliances) (Amendment) Regulations 2020
+
+Made
+
+26th February 2020
+
+Laid before Parliament
+
+3rd March 2020
+
+Coming into force
+
+1st April 2020
+
+The Secretary of State for Health and Social Care makes the following Regulations in exercise of the powers conferred by sections 172(1) and (2), 174, 178 and 272(7) and (8)(a) of the National Health Service Act 2006[^f00001].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the National Health Service (Charges for Drugs and Appliances) (Amendment) Regulations 2020 and come into force on 1st April 2020.
+
+(2) In these Regulations, “the Charges Regulations” means the National Health Service (Charges for Drugs and Appliances) Regulations 2015[^f00002].
+
+## 2. Amendment of the Charges Regulations
+
+The Charges Regulations are amended in accordance with regulations 3 to 5.
+
+## 3. Amendments relating to charges for drugs and appliances
+
+(1) In each of the following provisions, for “£9.00”, at each place that it occurs, substitute “£9.15”—
+
+- (a) regulation 3(1)(a), (b) and (c), (2)(a), (b) and (c) and (7) (supply of drugs and appliances by chemists);
+- (b) regulation 4(1)(a), (b) and (c) and (4) (supply of drugs and appliances by doctors);
+- (c) regulation 5(1)(a), (b) and (c) (out of hours supply of drugs and appliances by providers of out of hours services);
+- (d) regulation 6(1)(a), (d) and (e) (supply of drugs and appliances by NHS trusts and NHS foundation trusts);
+- (e) regulation 7(1)(a), (b) and (c) and (5) (supply of drugs and appliances at walk-in centres);
+- (f) regulation 8(1) (supply of drugs under Patient Group Directions); and
+- (g) regulation 9(1)(a), (d) and (e) and (8) (supply of drugs and appliances by other providers of NHS services).
+
+(2) In each of the following provisions, for “£18.00”, at each place that it occurs, substitute “£18.30”—
+
+- (a) regulation 3(1)(a) and (2)(a) (supply of drugs and appliances by chemists);
+- (b) regulation 4(1)(a) (supply of drugs and appliances by doctors);
+- (c) regulation 5(1)(a) (out of hours supply of drugs and appliances by providers of out of hours services);
+- (d) regulation 6(1)(a) and (c) (supply of drugs and appliances by NHS trusts and NHS foundation trusts);
+- (e) regulation 7(1)(a) (supply of drugs and appliances at walk-in centres); and
+- (f) regulation 9(1)(a) and (b) (supply of drugs and appliances by other providers of NHS services).
+
+(3) In column (2) of Schedule 1 (charges for fabric supports and wigs)—
+
+- (a) for “£29.50” substitute “£30.05”;
+- (b) for “£44.55” substitute “£45.35”;
+- (c) for “£72.80” substitute “£74.15”;
+- (d) for “£192.85” substitute “£196.40”; and
+- (e) for “£282.00” substitute “£287.20”.
+
+## 4. Amendment of regulation 16
+
+In regulation 16 (pre-payment certificates: application and grant), in paragraph (3)—
+
+- (a) in sub-paragraph (a), for “£29.10” substitute “£29.65”;
+- (b) in sub-paragraph (b), for £104.00” substitute “£105.90”; and
+- (c) in sub-paragraph (c), for “£10.40” substitute “£10.59”.
+
+## 5. Amendment of regulation 17
+
+In regulation 17 (pre-payment certificates: repayment)—
+
+- (a) in paragraph (4)—
+  - (i) in sub-paragraph (a) for “£29.10” substitute “£29.65”, and
+  - (ii) in sub-paragraphs (b) and (c )(i) and (ii), for “£104.00”, at each place that it occurs, substitute “£105.90”; and
+- (b) in paragraph (5), for “£29.10” substitute “£29.65”.
+
+## 6. Transitional provision relating to the Charges Regulations
+
+Where, on or after 1st April 2020, an appliance specified in Schedule 1 to the Charges Regulations (charges for fabric supports and wigs) is supplied pursuant to an order given before that date, the Charges Regulations are to have effect in relation to that supply as if these Regulations had not come into force.
+
+Matt Hancock
+
+Secretary of State,
+
+Department of Health and Social Care
+
+26th February 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (Charges for Drugs and Appliances) Regulations 2015 (“the Charges Regulations”).
+
+The Charges Regulations include the charges that are payable for the supply of NHS drugs and appliances in England. Regulation 3 amends regulations 3 to 9 of the Charges Regulations to increase the single prescription charge applied for the supply of drugs, appliances and elastic hosiery from £9.00 to £9.15 (if the hosiery charge is for a pair, the charge is double that amount). This is an increase of around 1.7%. There are also increases to the charges for wigs and fabric supports of around 1.8%.
+
+Regulations 4 and 5 amend regulations 16 and 17 to increase the cost of a 3 month pre-payment certificate from £29.10 to £29.65, and the cost of a 12 month pre-payment certificate from £104.00 to £105.90. This increases the monthly cost of paying for a pre-payment certificate by direct debit from £10.40 to £10.59. This is an increase of around 1.9%.
+
+Regulation 6 makes transitional provision in relation to fabric supports and wigs supplied pursuant to NHS prescriptions before 1st April 2020.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). *See* section 275(1) of the National Health Service Act 2006 (“the Act”) for the definitions of “prescribed” and “regulations” that are relevant to the powers being exercised. The powers conferred by these sections are exercisable by the Secretary of State only in relation to England, by virtue of section 271(1) of the Act.
+
+[^f00002]: Footnote: [S.I. 2015/570](https://www.legislation.gov.uk/uksi/2015/570): as amended by [S.I. 2015/1879](https://www.legislation.gov.uk/uksi/2015/1879), [2016/325](https://www.legislation.gov.uk/uksi/2016/325), [696](https://www.legislation.gov.uk/uksi/2016/696) and [1077](https://www.legislation.gov.uk/uksi/2016/1077), [2017/408](https://www.legislation.gov.uk/uksi/2017/408), [2018/48](https://www.legislation.gov.uk/uksi/2018/48), [201](https://www.legislation.gov.uk/uksi/2018/201) and [1114](https://www.legislation.gov.uk/uksi/2018/1114) and [2019/248](https://www.legislation.gov.uk/uksi/2019/248), [287](https://www.legislation.gov.uk/uksi/2019/287), [990](https://www.legislation.gov.uk/uksi/2019/990) and [1094](https://www.legislation.gov.uk/uksi/2019/1094).

@@ -1,0 +1,443 @@
+---
+title: The Uncertificated Securities (Amendment and EU Exit) Regulations 2019
+id: uksi/2019/679
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-03-26'
+text_date: '2023-12-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/679
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/679/pdfs/uksiem_20190679_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/679/pdfs/uksi_20190679_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/679/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Uncertificated Securities (Amendment and EU Exit) Regulations 2019
+
+> Text as at 2023-12-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 679
+
+Exiting The European Union
+
+Financial Services
+
+The Uncertificated Securities (Amendment and EU Exit) Regulations 2019
+
+Made
+
+26th March 2019
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+[^key-4359988b07ab45ab8b458d3ed934b3ad]The Treasury, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972 [^c23665891], sections 784(1), 785(1), 788 and 1292 of the Companies Act 2006 [^c23665901] and section 8(1) of, and paragraph 1 of Schedule 4 and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23665911], make the following Regulations.
+
+The Treasury are designated [^c23665921] for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services.
+
+In accordance with section 789 of the Companies Act 2006, the Treasury have carried out such consultation as appeared to them to be appropriate.
+
+In accordance with sections 784(3) and 1290 of the Companies Act 2006, paragraph 2(2) of Schedule 2 to the European Communities Act 1972 [^c23665931] and paragraphs 1(1) and 12 of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.[^key-fb6dcf4b6131c922fc84a9bd3dc681f0]
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-b5aa7c943653b9ef070d330668318767]
+
+(1) These Regulations may be cited as the Uncertificated Securities (Amendment and EU Exit) Regulations 2019.
+
+(2) Parts 1 to 4 come into force on the day after the day on which these Regulations are made.
+
+(3) Part 5 comes into force on exit day.
+
+## PART 2 — Amendment of primary legislation
+
+### 2. Consequential amendments to the Companies Act 2006[^key-463f203cddba53856b3e342aab1102a4]
+
+(1) The Companies Act 2006 is amended as follows.
+
+(2) In paragraph 41 of Part 2 of Schedule 2 [^c23665941] (specified persons, descriptions of disclosures etc. for the purposes of section 948 of the Companies Act 2006), for “approved under the Uncertificated Securities Regulations 2001 (SI 2001/3755) as an operator of a relevant system (within the meaning of those Regulations)” substitute “ who is an operator of a relevant system for the purposes of the Uncertificated Securities Regulations 2001 (SI 2001/3755) ”.
+
+(3) In paragraph 56 of Part 2 of Schedule 11A [^c23665951] (specified persons, descriptions, disclosures etc. for the purposes of section 1224A of the Companies Act 2006), for “approved under the Uncertificated Securities Regulations 2001 (SI 2001/3755) as an operator of a relevant system (within the meaning of those regulations)” substitute “ who is an operator of a relevant system for the purposes of the Uncertificated Securities Regulations 2001 (SI 2001/3755) ”.
+
+### 3. Consequential amendments to the Financial Services (Banking Reform) Act 2013[^key-b9ff79d5685302d0598581f1e9f9a3e4]
+
+(1) The Financial Services (Banking Reform) Act 2013 [^c23665961] is amended as follows.
+
+(2) In section 41(2)(d) (meaning of “payment system”), after “recognised clearing house” insert “ or a recognised CSD ”.
+
+(3) In section 112(2)(b) (interpretation: infrastructure companies) omit “operating a securities settlement system”.
+
+(4) In section 115(1A) (objective of FMI administration) omit “operating a securities settlement system”.
+
+## PART 3 — Amendment of subordinate legislation
+
+### 4. Amendments to the Uncertificated Securities Regulations 2001[^key-81c51546e872bf441e13bee37253f3f9]
+
+(1) The Uncertificated Securities Regulations 2001 [^c23665971] are amended as follows.
+
+(2) In regulation 3(1) (interpretation)—
+
+- (a) in the appropriate place insert—
+
+  > “**CSD regulation**” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories;
+
+  ;
+- (b) for the definition of “Operator”[^c23665981] substitute—
+
+  > “**Operator**” means a person operating or proposing to operate a relevant system subject to these Regulations, who is—
+  >
+  > - (a) a recognised CSD within the meaning of section 285(1)(e) of the 2000 Act [^c23665991],
+  > - (b) an EEA CSD within the meaning of section 285(1)(f) of the 2000 Act, or
+  > - (c) a third country CSD within the meaning of section 285(1)(g) of the 2000 Act;
+
+  ;
+- (c) in the definition of “settlement”[^c23666001], omit “except in paragraph 28 of Schedule 1,”.
+
+(3) Omit regulation 4 [^c23666011] (applications for approval).
+
+(4) For regulation 5 [^c23666021] (grant and refusal of approval) substitute—
+
+> **5. Operating conditions for relevant system**
+>
+> Schedule 1 [^c23666031] contains the requirements which must be satisfied with respect to the Operator, the Operator's rules and practices and the relevant system.
+
+.
+
+(5) In regulation 6 [^c23666041] (fees charged by the Bank of England)—
+
+- (a) omit paragraph (1);
+- (b) omit sub-paragraph (a) of paragraph (3).
+
+(6) Omit regulation 7 [^c23666051] (withdrawal of approval).
+
+(7) Omit regulation 12 [^c23666061] (international obligations).
+
+(8) Omit regulation 13 [^c23666071] (prevention of excessive regulatory provision).
+
+(9) In Schedule 1 (requirements for approval of a person as Operator)—
+
+- (a) for the heading substitute “ Requirements for operation of a relevant system ”;
+- (b) omit paragraphs 1 to 4;
+- (c) in paragraph 5—
+  - (i) for sub-paragraph (1) substitute—
+
+    > (1) A relevant system must satisfy the requirements of sub-paragraphs (3) to (6).
+
+    ;
+  - (ii) omit sub-paragraph (2);
+  - (iii) in sub-paragraph (3)—
+    - (aa) for paragraph (a) substitute—
+
+      > - (a) in accordance with the specifications of the Operator, and those specifications shall provide that each dematerialised instruction is identifiable as being from the computers of the Operator or of a particular system-participant; or
+
+      ;
+    - (bb) in paragraph (b) omit “and” at the end of sub-paragraph (i) and omit sub-paragraph (ii);
+  - (iv) in sub-paragraph (7), in the definition of “depositary” after “ “**depositary**” means” insert “ a CSD within the meaning of the CSD regulation or ”;
+- (d) omit paragraphs 6 to 8;
+- (e) omit paragraphs 10 and 11;
+- (f) omit paragraphs 23 and 24;
+- (g) omit paragraph 25(a) and (d);
+- (h) omit paragraphs 27 and 28.
+
+(10) Omit Schedule 2 (prevention of excessive regulatory provision).
+
+(11) In Schedule 3 [^c23666081] (procedure for refusal or withdrawal of approval as Operator, or for giving directions etc.)—
+
+- (a) for the heading substitute “ Procedure for giving directions ”;
+- (b) in paragraph 1 omit sub-paragraphs (a) and (b);
+- (c) in paragraph 2(a) omit “refuse the application, withdraw the approval or”;
+- (d) in paragraph 5 omit “refuse the application, withdraw the approval, or”;
+- (e) in paragraph 6(1)—
+  - (i) omit sub-paragraphs (a) and (b);
+  - (ii) after “decision” insert “ and the reasons for its decision ”;
+- (f) after paragraph 6 insert—
+
+  > **9.**
+  >
+  > If the Bank of England decides to give the direction, the Operator may refer the matter to the Upper Tribunal.
+  >
+  > **10.**
+  >
+  > Part 9 of the 2000 Act (hearings and appeals) applies to a reference to the Upper Tribunal under paragraph 9 as it applies to a reference to the Upper Tribunal under the 2000 Act, with the following modifications—
+  >
+  > - (a) a reference is a “**disciplinary reference**” for the purposes of section 133 of the 2000 Act [^c23666091] if it is in respect of a decision to give a direction under this Schedule;
+  > - (b) section 133(1)(a) and (c) of the 2000 Act does not apply.
+
+  ;
+- (g) omit paragraphs 7 and 8.
+
+### 5. Consequential amendment to the Stamp Duty Reserve Tax Regulations 1986[^key-abbeccb39d87025145bd3d5d9520816a]
+
+In regulation 2 of the Stamp Duty Reserve Tax Regulations 1986 [^c23666101] (interpretation), for paragraph (a) of the definition of “operator” substitute—
+
+> an Operator for the purposes of regulation 3(1) of the Treasury Regulations operating a relevant system within the United Kingdom;
+
+### 6. Consequential amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-eeceaecc5d9420ff00aded7b35f3e0cc]
+
+In article 45 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c23666111] (sending dematerialised instructions)—
+
+- (a) in paragraph (1), for “in respect of which an Operator is approved under the 2001 Regulations” substitute “ within the meaning of the 2001 Regulations ”;
+- (b) in paragraph (3)(b) omit “ “Operator”,”.
+
+### 7. Consequential amendment to the Financial Services and Markets Act 2000 (Exemption) Order 2001[^key-d52b1787a221ccdb1c66802e09f6800c]
+
+In Part 3 of the Schedule to the Financial Services and Markets Act 2000 (Exemption) Order 2001 [^c23666121] (persons exempt in respect of any regulated activity mentioned in article 5(1)), omit paragraph 37.
+
+### 8. Consequential amendment to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-73feff7b606000e959eaeb46b98b0055]
+
+In the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 [^c23666131], in Schedule 2, in the first column, for the entry commencing “A person approved” substitute—
+
+> A person that is an Operator of a relevant system under the Uncertificated Securities Regulations 2001 [^c23666141] (within the meaning of those regulations)
+
+.
+
+### 9. Consequential amendment to the Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014[^key-9b1c91b9a968d97b688e7d52aad1de17]
+
+(1) The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014 [^c23666151] is amended as follows.
+
+(2) In Article 13(11) (prohibitions: inter-bank payment systems), in paragraph (a) of the definition of “inter-bank payment system”—
+
+- (a) in sub-paragraph (i), after “a recognised clearing house” insert “ or recognised CSD, in each case ”;
+- (b) for sub-paragraph (ii) substitute—
+
+  > - (ii) the Operator of a relevant system for the purposes of the Uncertificated Securities Regulations 2001;
+
+  .
+
+## PART 4 — Transitional provisions and review
+
+### 10. Transitional provisions: interpretation[^key-0d55a50e03dbd117cb11087338c549e9]
+
+In this regulation and in regulations 11 and 12—
+
+- “**the Act**” means the Financial Services and Markets Act 2000;
+- “**CSD Operator**” means a person established in the United Kingdom who immediately before 30th March 2017—
+  - (a) was an Operator approved under the Uncertificated Securities Regulations 2001,
+  - (b) operated a securities settlement system referred to in point (3) of Section A of the Annex to the CSD regulation in the United Kingdom, and
+  - (c) provided at least one other core service listed in Section A of that Annex in the United Kingdom;
+- “**commencement**” means the coming into force of this Part of these Regulations;
+- “**CSD regulation**” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23rd July 2014 on improving securities settlement in the European Union and on central securities depositories;
+- “**Operator register of securities**” has the meaning given in regulation 3 of the Uncertificated Securities Regulations 2001;
+- “**recognised CSD**” has the meaning given in section 285 of the 2000 Act.
+
+### 11. Transitional and saving provisions for Operators[^key-d355b9501bc9f913a2139139bbb561e6]
+
+(1) The transition period for a CSD Operator begins with commencement.
+
+(2) The transition period for a CSD Operator ends immediately after—
+
+- (a) the Bank of England determines its application under section 288A of the 2000 Act in accordance with Article 17 of the CSD regulation and any directly applicable EU regulation made under that Article, or
+- (b) if the CSD Operator has not made an application under section 288A of the 2000 Act before the end of that period, the end of the six month period specified in Article 69(2) of the CSD regulation.
+
+(3) Regulations 2 to 9 do not apply in respect of a CSD Operator during its transition period.
+
+(4) Nothing in these Regulations affects the validity of a CSD Operator's approval as an Operator under the Uncertificated Securities Regulations 2001 during its transition period.
+
+(5) Where—
+
+- (a) a CSD Operator has made an application under section 288A of the 2000 Act, and
+- (b) the Bank of England has determined that application in accordance with Article 17 of the CSD regulation and any directly applicable EU regulation made under that Article,
+
+any previous approval as an Operator under the Uncertificated Securities Regulations 2001 shall cease to have effect.
+
+(6) Following any decision of the Bank under paragraph (5)—
+
+- (a) such decision shall not itself invalidate or otherwise affect any act of the CSD Operator carried out in its capacity as an approved Operator before such decision, and
+- (b) unless the context requires otherwise, any such act shall be treated as an act of the CSD Operator in its capacity as an Operator as defined in regulation 3(1) of the Uncertificated Securities Regulations 2001.
+
+### 12. Transitional and savings provisions for issuers[^key-b57fba69ece83317b3900ff3f65c094a]
+
+(1) Paragraphs (2) and (3) apply where—
+
+- (a) title to units of a security to which Article 49(1) of the CSD regulation applies is recorded on the Operator register of securities of a CSD Operator immediately before the transition period for that CSD Operator ends (in accordance with regulation 11(2)), and
+- (b) the CSD Operator is recognised as a recognised CSD.
+
+(2) The issuer of the security is not required to make a request under Article 49(2) of the CSD regulation for recording its securities in the relevant system.
+
+(3) The fact that the issuer of the security has not made a request as described in paragraph (2) does not prevent—
+
+- (a) title to units of that security continuing to be evidenced otherwise than by a certificate by virtue of the Uncertificated Securities Regulations 2001, and
+- (b) transfer of title to units of that security continuing to be subject to those Regulations.
+
+### 13. Review[^key-4359988b07ab45ab8b458d3ed934b3ad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Amendments in connection with exiting the European Union
+
+### 14. Amendments to the Uncertificated Securities Regulations 2001[^key-8b2c1a88ef364013d3568f2e5f3152b6]
+
+(1) The Uncertificated Securities Regulations 2001 are amended as follows.
+
+(2) In regulation 3(1) (interpretation), omit paragraph (b) of the definition of Operator.
+
+(3) In Schedule 1 (requirements for approval of a person as Operator), in paragraph 5(7)—
+
+- (a) In paragraph (ba) [^c23666171] omit “an EEA central counterparty or ”;
+- (b) In the definition of “depositary” for “a CSD within the meaning of the CSD regulation” substitute “ a CSD or third-country CSD within the meaning of the CSD regulation as amended from time to time ”.
+
+### 15. Amendment to Article 15 of Regulation EU No. 236/2012[^key-9f6fc2f9b66fffcfb4660cc200f51d4e]
+
+In Article 15 of Regulation EU No. 236/2012 of the European Parliament and of the Council of 14th March 2012 on short selling and certain aspects of credit default swaps, for “a Member State”, both times it occurs, substitute “ the United Kingdom ”.
+
+### 16. Amendment to the Central Securities Depositories Regulations 2014[^key-549fa39ed10f8d6d8abba04750d3524b]
+
+(1) The Central Securities Depositories Regulations 2014 [^c23666181] are amended as follows.
+
+(2) After regulation 5N (Part 8) insert—
+
+> **PART 8A — Fees**
+>
+> **5O. Fees**
+>
+> (1) The Bank may, in connection with the discharge of any of its qualifying functions, require third country CSDs to pay fees to the Bank.
+>
+> (2) The “qualifying functions” of the Bank are—
+>
+> - (a) its functions under or as a result of—
+>   - (i) the CSD regulation,
+>   - (ii) any EU regulation, originally made under the CSD regulation, which is retained direct EU legislation, or
+>   - (iii) any subordinate legislation (within the meaning of the Interpretation Act 1978 [^c23666191]) made under the CSD regulation on or after IP completion day[^key-e15261d27dd3eab6dc34b13cc315a584],
+>
+>   so far as they are its functions by virtue of regulations made under section 8 of the European Union (Withdrawal) Act 2018 [^c23666201]; and
+> - (b) any other functions it has by virtue of regulations made under section 8 of the European Union (Withdrawal) Act 2018 in connection with the CSD regulation.
+>
+> (3) The power of the Bank to set fees includes power to set fees for the purpose of meeting expenses incurred by it or the FCA—
+>
+> - (a) in preparation for the exercise by the Bank of the qualifying functions specified in paragraph (2), or
+> - (b) for the purpose of facilitating the exercise by the Bank of those functions or otherwise in connection with their exercise by it.
+>
+> (4) It is irrelevant when the expenses were incurred.
+>
+> (5) Any fee which is owed to the Bank under this regulation may be recovered as a debt due to the Bank.
+
+.
+
+Rebecca Harris
+
+Paul Maynard
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Uncertificated Securities Regulations (S.I. 2001/3755) (“the USR”) to revoke certain provisions which overlap with requirements now the subject of the Central Securities Depositories Regulations 2017 (S.I. 2017/1064) (“**the 2017 Regulations**”).
+
+Part 2 amends primary legislation. This reflects the change from Central Securities Depositories being approved operators under the USR to being authorised or recognised under the 2017 Regulations and Part 18 of the Financial Services and Markets Act 2000 (c.8).
+
+Part 3 amends the USR and other subordinate legislation. It expands the concept of “**operator**” for the purposes of the USR, ensuring that the term covers authorised Central Securities Depositories that are established in the UK or the EEA, or recognised Central Securities Depositories that are established in third countries.
+
+These Regulations also amend Schedule 1 to the USR, which sets out requirements for approval of a person as an Operator. This is to remove requirements which are now provided for in the 2017 Regulations.
+
+Part 5 is made in exercise of the powers in section 8(1) of and Schedule 4 to the European Union (Withdrawal) Act 2018 (c.16). It addresses failures of retained EU law to operate effectively arising from the withdrawal of the United Kingdom from the European Union. It also enables the Bank of England to charge fees to third country Central Securities Depositories in connection with certain of its functions in relation to them after withdrawal.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^key-4359988b07ab45ab8b458d3ed934b3ad]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/679) revoked (14.12.2023 for the revocation of reg. 13) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xxiii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xxiii)
+
+[^c23665891]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2019/679/section/2/2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c23665901]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Section 785 was amended by section 112 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^c23665911]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23665921]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
+
+[^c23665931]: Marginal citation: [Paragraph 2(2)](https://www.legislation.gov.uk/uksi/2019/679/paragraph/2/2) was amended by section 27 of the Legislative and Regulatory Reform Act 2006.
+
+[^key-fb6dcf4b6131c922fc84a9bd3dc681f0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/679): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-b5aa7c943653b9ef070d330668318767]: Commencement: Reg. 1 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^key-463f203cddba53856b3e342aab1102a4]: Commencement: Reg. 2 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^c23665941]: Marginal citation: [Schedule 2](https://www.legislation.gov.uk/uksi/2019/679/schedule/2) was substituted by [S.I. 2009/1208](https://www.legislation.gov.uk/uksi/2009/1208).
+
+[^c23665951]: Marginal citation: [Schedule 11A](https://www.legislation.gov.uk/uksi/2019/679/schedule/11A) was inserted by [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
+
+[^key-b9ff79d5685302d0598581f1e9f9a3e4]: Commencement: Reg. 3 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^c23665961]: Marginal citation: [2013 c.33](https://www.legislation.gov.uk/ukpga/2013/33). Sections 41, 112 and 115 were amended by SI 2017/1064. There are other amendments which are not relevant.
+
+[^key-81c51546e872bf441e13bee37253f3f9]: Commencement: Reg. 4 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^c23665971]: Marginal citation: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755).
+
+[^c23665981]: Marginal citation: The definition of “Operator” was amended by [S.I. 2013/632](https://www.legislation.gov.uk/uksi/2013/632).
+
+[^c23665991]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8); paragraphs (e) to (g) of section 285(1) were inserted by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
+
+[^c23666001]: Marginal citation: The definition of “settlement” was amended by [S.I. 2007/124](https://www.legislation.gov.uk/uksi/2007/124).
+
+[^c23666011]: Marginal citation: [Regulation 4](https://www.legislation.gov.uk/uksi/2019/679/regulation/4) was amended by [S.I. 2013/632](https://www.legislation.gov.uk/uksi/2013/632).
+
+[^c23666021]: Marginal citation: [Regulation 5](https://www.legislation.gov.uk/uksi/2019/679/regulation/5) was amended by [S.I. 2013/632](https://www.legislation.gov.uk/uksi/2013/632).
+
+[^c23666031]: Marginal citation: [Schedule 1](https://www.legislation.gov.uk/uksi/2019/679/schedule/1) was amended by [S.I. 2003/1633](https://www.legislation.gov.uk/uksi/2003/1633), 2007/124, 2013/472, 2013/504, 2013/632, 2013/3115 and 2017/701.
+
+[^c23666041]: Marginal citation: [Regulation 6](https://www.legislation.gov.uk/uksi/2019/679/regulation/6) was amended by [S.I. 2013/632](https://www.legislation.gov.uk/uksi/2013/632).
+
+[^c23666051]: Marginal citation: [Regulation 7](https://www.legislation.gov.uk/uksi/2019/679/regulation/7) was amended by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755) and 2013/632.
+
+[^c23666061]: Marginal citation: [Regulation 12](https://www.legislation.gov.uk/uksi/2019/679/regulation/12) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and 2013/632.
+
+[^c23666071]: Marginal citation: [Regulation 13](https://www.legislation.gov.uk/uksi/2019/679/regulation/13) was amended, and Schedule 2 was substituted, by [S.I. 2013/632](https://www.legislation.gov.uk/uksi/2013/632).
+
+[^c23666081]: Marginal citation: [Schedule 3](https://www.legislation.gov.uk/uksi/2019/679/schedule/3) was amended by [S.I. 2013/632](https://www.legislation.gov.uk/uksi/2013/632).
+
+[^c23666091]: Marginal citation: [Section 133](https://www.legislation.gov.uk/uksi/2019/679/section/133) was substituted by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22) and amended by section 23 of the Financial Services Act 2012, paragraph 83 in Part 3 of Schedule 9 to the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [section 4](https://www.legislation.gov.uk/ukpga/2013/22/section/4) of the Financial Services (Banking Reform) Act 2013 and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388), 2014/3329, 2016/680 and 2017/1064.
+
+[^key-abbeccb39d87025145bd3d5d9520816a]: Commencement: Reg. 5 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^c23666101]: Marginal citation: [S.I. 1986/1711](https://www.legislation.gov.uk/uksi/1986/1711). Regulation 2 was inserted by [S.I. 1997/2430](https://www.legislation.gov.uk/uksi/1997/2430).
+
+[^key-eeceaecc5d9420ff00aded7b35f3e0cc]: Commencement: Reg. 6 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^c23666111]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). Article 45 was amended by [S.I. 2001/3544](https://www.legislation.gov.uk/uksi/2001/3544) and 2002/682.
+
+[^key-d52b1787a221ccdb1c66802e09f6800c]: Commencement: Reg. 7 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^c23666121]: Marginal citation: [S.1](https://www.legislation.gov.uk/uksi/2019/679/section/1). 2001/1201. Paragraph 37 was amended by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^key-73feff7b606000e959eaeb46b98b0055]: Commencement: Reg. 8 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^c23666131]: Marginal citation: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188).
+
+[^c23666141]: Marginal citation: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755).
+
+[^key-9b1c91b9a968d97b688e7d52aad1de17]: Commencement: Reg. 9 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^c23666151]: Marginal citation: [S.I. 2014/2080](https://www.legislation.gov.uk/uksi/2014/2080).
+
+[^key-0d55a50e03dbd117cb11087338c549e9]: Commencement: Reg. 10 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^key-d355b9501bc9f913a2139139bbb561e6]: Commencement: Reg. 11 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^key-b57fba69ece83317b3900ff3f65c094a]: Commencement: Reg. 12 in force at 27.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2)
+
+[^key-8b2c1a88ef364013d3568f2e5f3152b6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/679/regulation/14) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/3)
+
+[^c23666171]: Marginal citation: Paragraph (ba) was inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^key-9f6fc2f9b66fffcfb4660cc200f51d4e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2019/679/regulation/15) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/3)
+
+[^key-549fa39ed10f8d6d8abba04750d3524b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/679/regulation/16) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/3)
+
+[^c23666181]: Marginal citation: [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879).
+
+[^c23666191]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-e15261d27dd3eab6dc34b13cc315a584]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/16/2) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/39)
+
+[^c23666201]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).

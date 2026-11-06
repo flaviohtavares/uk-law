@@ -1,0 +1,49 @@
+---
+title: Pension Schemes Act 2021, section 131
+act: Pension Schemes Act 2021
+section: '131'
+status: revised
+text_date: '2026-07-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/1/section/131
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pension Schemes Act 2021, section 131
+
+> Text as at 2026-07-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 131. Commencement
+
+*Extent: E+W+S+N.I.*
+
+(1) This Act comes into force on such day as the Secretary of State may by regulations appoint, subject to subsections (2) and (3).
+
+(2) Subject to subsection (3), the following provisions come into force on such day as the Department for Communities in Northern Ireland may by order appoint—
+
+- (a) Part 2;
+- (b) section 117 and Schedule 8;
+- (c) section 120 and Schedule 9;
+- (d) section 129 and Schedule 11.
+
+(3) The following provisions come into force on the day on which this Act is passed—
+
+- (a) any provision of Part 1, 2 or 4 so far as it confers power to make regulations or is otherwise necessary for enabling the exercise of such a power on or after the day on which this Act is passed;
+- (b) any provision of Schedule 10 so far as it confers power to make regulations or is otherwise necessary for enabling the exercise of such a power on or after the day on which this Act is passed and section 123 so far as relating to that provision;
+- (c) any provision of Part 1 of Schedule 11 so far as it confers power to make regulations or is otherwise necessary for enabling the exercise of such a power on or after the day on which this Act is passed and section 129 so far as relating to that provision;
+- (d) section 130;
+- (e) this section;
+- (f) section 132.
+
+(4) Regulations or orders under this section may appoint different days for different purposes.
+
+(5) The Secretary of State may by regulations make transitional, transitory or saving provision in connection with the coming into force of a provision of this Act, other than a provision mentioned in subsection (2).
+
+(6) The Department for Communities in Northern Ireland may by order make transitional, transitory or saving provision in connection with the coming into force of a provision mentioned in subsection (2).
+
+(7) Regulations made by the Secretary of State under this section are to be made by statutory instrument.
+
+(8) The power of the Department for Communities in Northern Ireland to make an order under subsection (2) or (6) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).

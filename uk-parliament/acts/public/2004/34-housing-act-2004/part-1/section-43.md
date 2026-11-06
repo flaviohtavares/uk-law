@@ -1,0 +1,53 @@
+---
+title: Housing Act 2004, section 43
+act: Housing Act 2004
+section: '43'
+status: revised-with-pending-changes
+text_date: '2026-06-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2004/34/section/43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 2004, section 43
+
+> **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 43. Emergency prohibition orders[^c2051231]
+
+*Extent: E+W*
+
+(1) If—
+
+- (a) the local housing authority are satisfied that a category 1 hazard exists on any residential premises, and
+- (b) they are further satisfied that the hazard involves an imminent risk of serious harm to the health or safety of any of the occupiers of those or any other residential premises, and
+- (c) no management order is in force under Chapter 1 or 2 of Part 4 in relation to the premises mentioned in paragraph (a),
+
+making an emergency prohibition order under this section in respect of the hazard is a course of action available to the authority in relation to the hazard for the purposes of section 5 (category 1 hazards: general duty to take enforcement action).
+
+(2) An emergency prohibition order under this section is an order imposing, with immediate effect, such prohibition or prohibitions on the use of any premises as are specified in the order in accordance with subsection (3) and section 44.
+
+(3) As regards the imposition of any such prohibition or prohibitions, the following provisions apply to an emergency prohibition order as they apply to a prohibition order under section 20—
+
+- (a) subsections (3) to (5) of that section, and
+- (b) subsections (3) to (5) and (7) to (9) of section 22.
+
+(4) Part 1 of Schedule 2 (service of copies of prohibition orders) applies in relation to an emergency prohibition order as it applies to a prohibition order, but any requirement to serve copies within a specified period of seven days is to be read as a reference to serve them on the day on which the emergency prohibition order is made (or, if that is not possible, as soon after that day as is possible).
+
+(5) The following provisions also apply to an emergency prohibition order as they apply to a prohibition order (or to a prohibition order which has become operative, as the case may be)—
+
+- (a) section 25 (revocation and variation);
+- (b) sections 32 to 36 (enforcement);
+- (c) sections 37 to 39 (supplementary provisions); and
+- (d) Part 2 of Schedule 2 (notices relating to revocation or variation);
+- (e) Part 3 of that Schedule (appeals) so far as it relates to any decision to vary, or to refuse to revoke or vary, a prohibition order; and
+- (f) sections 584A and 584B of the Housing Act 1985 (c. 68) (payment, and repayment, of compensation).
+
+(6) For the purposes of the operation of any provision relating to prohibition orders as it applies in connection with emergency prohibition orders by virtue of this section or section 45, any reference in that provision to the specified premises is to be read as a reference to the premises specified, in accordance with section 44(2)(c), as the premises in relation to which prohibitions are imposed by the order.
+
+## Annotations
+
+[^c2051231]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2004/34/section/43) wholly in force at 16.6.2006; [s. 43](https://www.legislation.gov.uk/ukpga/2004/34/section/43) not in force at Royal Assent see [s. 270(4)(5)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4/5); [s. 43](https://www.legislation.gov.uk/ukpga/2004/34/section/43) in force for E. at 6.4.2006 by [S. I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [s. 43](https://www.legislation.gov.uk/ukpga/2004/34/section/43) in force for W. at 16.6.2006 by [S. I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))

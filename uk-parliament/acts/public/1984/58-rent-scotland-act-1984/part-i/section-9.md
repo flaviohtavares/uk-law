@@ -1,0 +1,37 @@
+---
+title: Rent (Scotland) Act 1984, section 9
+act: Rent (Scotland) Act 1984
+section: '9'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1984/58/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Rent (Scotland) Act 1984, section 9
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/58
+>
+> Extent: Scotland.
+
+## 9. Short tenancies.
+
+*Extent: S*
+
+(1) A protected tenancy created on or after 1st December 1980 is a short tenancy for the purposes of this Act where—
+
+- (a) immediately before the creation of the tenancy the tenant was not a protected or statutory tenant of the dwelling-house, except where he was then a tenant under a short tenancy or a statutory tenant following on the expiry of a short tenancy;
+- (b) the tenancy is for a period specified in the tenancy agreement of not less than one year nor more than five years;
+- (c) the tenancy agreement does not contain any provision whereby the landlord may terminate the tenancy before the expiry of the said specified period other than for non-payment of rent or for breach of any other obligation of the tenancy;
+- (d) before the creation of the tenancy the landlord has served on the tenant notice in writing informing him that the tenancy will be a short tenancy for the purposes of this Act; and
+- (e) either—
+  - (i) there is, at the commencement of the tenancy, a rent registered for the dwelling-house which is the subject of the tenancy in the register of rents kept for the purposes of Part V of this Act, or
+  - (ii) the landlord has applied for and been granted a certificate of fair rent under section 47 below, and has, within 14 days after the commencement of the tenancy, made an application for that fair rent to be registered under subsection (4) of that section.
+
+(2) Where a short tenancy has been created in a case to which sub-paragraph (e)(ii) of subsection (1) above applies, the application referred to in that sub-paragraph may not be withdrawn and, notwithstanding the provisions of section 50(1) and (4) below, the rent registered for the dwelling-house shall take effect from the commencement of the tenancy.
+
+(3) The Secretary of State may by order made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament dispense with the requirements of subsection (1)(e) above in relation to any registration area within the meaning of section 43 below.
+
+(4) The Secretary of State may by order made by statutory instrument prescribe the form of notice required under subsection (1)(d) above.

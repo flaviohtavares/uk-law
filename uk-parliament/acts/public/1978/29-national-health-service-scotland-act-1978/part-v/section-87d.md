@@ -1,0 +1,25 @@
+---
+title: National Health Service (Scotland) Act 1978, section 87D
+act: National Health Service (Scotland) Act 1978
+section: 87D
+status: revised-with-pending-changes
+text_date: '2026-07-22'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1978/29/section/87D
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Health Service (Scotland) Act 1978, section 87D
+
+> **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 87D. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c14171921]
+
+*Extent: S*
+
+## Annotations
+
+[^c14171921]: Textual amendment: [S. 87D](https://www.legislation.gov.uk/ukpga/1978/29/section/87D) repealed (1.10.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 45](https://www.legislation.gov.uk/ukpga/1999/8/section/45), [65(2)](https://www.legislation.gov.uk/ukpga/1999/8/section/65/2), [Sch. 4 para. 58](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/58), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(a)(c)](https://www.legislation.gov.uk/ssi/1999/90/article/2/a/c), [Sch. 1](https://www.legislation.gov.uk/ssi/1999/90/schedule/1), [Sch. 2](https://www.legislation.gov.uk/ssi/1999/90/schedule/2)

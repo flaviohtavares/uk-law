@@ -1,0 +1,45 @@
+---
+title: Finance Act 2003, section 172
+act: Finance Act 2003
+section: '172'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/14/section/172
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2003, section 172
+
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 172. Charges under life insurance policies for exceptional risk of disability
+
+*Extent: E+W+S+N.I.*
+
+(1) In Schedule 15 to the Taxes Act 1988 (provisions for determining whether an insurance policy is a “qualifying policy”)—
+
+- (a) in paragraph 12(a) (disregard of so much of premium as is charged on the grounds of exceptional risk of death), and
+- (b) in paragraph 12(b) (disregard of provision in policy charging, on those grounds, a sum as a debt against capital sum guaranteed on death),
+
+after “death” insert “ or disability ”.
+
+(2) Accordingly, in the heading before paragraph 12 of that Schedule, for “mortality risk” substitute “ risk of death or disability ”.
+
+(3) In paragraph 3 of that Schedule (friendly society policies), omit paragraphs (b)(iii) and (c) of sub-paragraph (8) (which make provision corresponding to paragraph 12(a) and (b) but are unnecessary).
+
+(4) In paragraph 18 of that Schedule (rules about substituted policies applied where policies are varied) insert after sub-paragraph (3)—
+
+> (4) For the purposes of this paragraph there is no variation in the terms of a policy where—
+>
+> - (a) an amount of premium chargeable on the grounds that an exceptional risk of death or disability is involved becomes or ceases to be payable, or
+> - (b) the policy is amended by the insertion, variation or removal of a provision under which, on those grounds, any sum may become chargeable as a debt against the capital sum guaranteed by the policy on death or disability.
+
+.
+
+(5) In section 460 of that Act (registered friendly societies: exemption from tax in respect of life or endowment business), in subsection (3)(b) (which makes provision corresponding to paragraph 12(a) of Schedule 15) after “death” insert “ or disability ”.
+
+(6) The amendments made by this section shall be deemed always to have had effect; but this section shall be disregarded to the extent that it would prevent a policy from being a qualifying policy at any time before 9th April 2003.

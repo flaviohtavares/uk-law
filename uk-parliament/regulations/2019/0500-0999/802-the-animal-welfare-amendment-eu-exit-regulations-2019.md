@@ -1,0 +1,858 @@
+---
+title: The Animal Welfare (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/802
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-04-04'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/802
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/802/pdfs/uksiem_20190802_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/802/pdfs/uksi_20190802_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/802/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Animal Welfare (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 802
+
+Exiting The European Union
+
+Animals
+
+The Animal Welfare (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+4th April 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23704731].
+
+In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-ed49e6f93aac32f20faab843dab9b0c6]
+
+These Regulations may be cited as the Animal Welfare (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
+
+## 2. Amendment of Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/eur/1997/1255)[^key-34d2215788f12f85103b5ea0a72d5e76]
+
+(1) Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/eur/1997/1255) concerning Community criteria for control posts and amending the route plan referred to in the Annex to Directive [91/628/EEC](https://www.legislation.gov.uk/eudr/1991/628) is amended as follows.
+
+(2) In Article 1(2), omit “Community”.
+
+(3) In Article 2—
+
+- (a) the existing text is renumbered as paragraph 1;
+- (b) in the existing text, for “91/496/EEC and 91/628/EEC” substitute “and 91/496/EEC and Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/1) (other than the definitions of ‘competent authority’ in Article 2(6) of Council Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) and Article 2(f) of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/1))”;
+- (c) after paragraph 1 (as renumbered), insert—
+
+  > **2.**
+  >
+  > For the purposes of this Regulation, the following definitions apply:
+  >
+  > - (a) ‘Appropriate Minister’ means:
+  >   - (i) in relation to England, the Secretary of State;
+  >   - (ii) in relation to Wales, the Welsh Ministers;
+  >   - (iii) in relation to Scotland, the Scottish Ministers;
+  >   - (iv)[^key-cf8726f13f889bdfcc12e76855e91482] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (b) ‘Competent authority’ means the authority responsible for carrying out veterinary checks or any authority to which it has delegated that responsibility.
+  > - (c)[^key-1ed98cfaa1ae838b87d389181458f9c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (d) ‘TARP Regulation’ means:
+  >   - (i) in relation to England, the Trade in Animals and Related Products Regulation 2011 [^c23704751];
+  >   - (ii) in relation to Wales, the Trade in Animals and Related Products (Wales) Regulations 2011 [^c23704761];
+  >   - (iii) in relation to Scotland, the Trade in Animals and Related Products (Scotland) Regulations 2012 [^c23704771];
+  >   - (iv)[^key-ca78dd25bebb3c96b74dd6298a4f328e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (e) ‘Third country’ means any country other than the British Islands [^key-66b65e03246bf237cec98781f8c95e27]....
+  >
+  > **3.[^key-fdd103ac3d7383d134765da7851f8d94]**
+  >
+  > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  .
+
+(4) Article 3 is amended in accordance with paragraphs (5) to (9).
+
+(5) In paragraph 1—
+
+- (a) in the first subparagraph—
+  - (i) in the first sentence, for “competent authority” substitute “ Appropriate Minister ”;
+  - (ii) omit the third sentence;
+- (b) omit the second subparagraph.
+
+(6) In paragraph 2, for the words from “the Commission” to the end substitute “ each Appropriate Minister in relation to their own territories. The Secretary of State shall maintain a central list of all control posts in Great Britain[^key-f31184928b65f452e64a1c86ad90a500]”.
+
+(7) In paragraph 3—
+
+- (a) in the words before point (a)—
+  - (i) for “Member States” substitute “The Appropriate Minister”;
+  - (ii) before “competent”, in both places it occurs, insert “relevant”;
+  - (iii) omit “as defined in Article 2(6) of Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425)”;
+- (b) in point (a), for “Community” substitute “retained direct EU”;
+- (c) in point (c), for “Community rules” substitute “retained direct EU legislation”.
+
+(8) In paragraph 4—
+
+- (a) for “A Member State” substitute “The Appropriate Minister”;
+- (b) for “Commission and the other Member States”, in both places it occurs, substitute “other Appropriate Ministers and the competent authorities”.
+
+(9) In paragraph 5—
+
+- (a) for the words from the beginning to “1/2005,” substitute “The Appropriate Minister”;
+- (b)[^key-ec5b03eac34713a695d59a630af92f30] for “experts of the Commission as referred to in Article 28 of that Regulation” substitute “relevant competent authority”;
+- (c)[^key-74573dd039227e484defb8d15252c7b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) for “Community” substitute “retained direct EU”.
+
+(10) In Article 4—
+
+- (a) in paragraph 2—
+  - (i) for “Member States” substitute “each Appropriate Minister in relation to their own territories”;
+  - (ii) for the words from “defined in Article 2(o)” to “91/68/EEC” substitute “approved by a TARP Regulation”;
+- (b) in paragraph 3—
+  - (i) in point (a), for “Community” substitute “retained direct EU”;
+  - (ii) in point (b)(i)—
+    - (aa) omit “Community”;
+    - (bb) in the first paragraph, for “Annex A to Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425)” substitute “Annex 2 to this Regulation”;
+    - (cc) in the second paragraph, for “comply with the requirements of Article 4b(4) of Directive [91/68/EEC](https://www.legislation.gov.uk/eudr/1991/68)” substitute “that after leaving the holding of origin and before arrival at destination, transit was through only one approved assembly centre situated in Great Britain[^key-bbf402782991b7318d24d1876e510847]. Where the sheep and goats are for slaughter, the approved assembly centre may be substituted by an approved dealer's premises situated in Great Britain”;
+  - (iii) in point (b)(ii), for “Article 2(1) of Decision [93/444/EEC](https://www.legislation.gov.uk/eud/1993/444)” substitute “a TARP Regulation”;
+- (c) omit paragraph 4.
+
+(11) In Article 5—
+
+- (a) in point (a), for “Community” substitute “retained direct EU”;
+- (b) in point (e), for “Directive [93/119/EC](https://www.legislation.gov.uk/eudr/1993/119)” substitute “Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099)”;
+- (c) in points (h) and (i), before “competent”, in both places it occurs, insert “relevant”.
+
+(12) In Article 6—
+
+- (a) in paragraph 1—
+  - (i) in the first sentence—
+    - (aa) before “competent” insert “relevant”;
+    - (bb) omit “Annex II of”;
+  - (ii) in the second sentence, for “Member States” substitute “The Appropriate Minister”;
+- (b) omit paragraph 2.
+
+(13) In Article 6b—
+
+- (a) in the first sentence, for “Member States” substitute “Appropriate Minister”;
+- (b) omit the second sentence.
+
+(14) In Article 7, omit the third paragraph.
+
+(15) In the Annex, in the heading—
+
+- (a) for “Annex” substitute “Annex 1”;
+- (b) omit “Community”
+- (c) in section B, paragraph 5, for “Directive [90/667/EEC](https://www.legislation.gov.uk/eudr/1990/667)” substitute “Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069)”.
+
+(16) After that Annex insert—
+
+> **ANNEX 2 — RELEVANT VETERINARY LEGISLATION**
+>
+> This Annex lists the legislation relevant to Article 4:
+>
+> - (a) the legislation which transposed the following:
+>   - (i) Council Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) on animal health problems affecting intra-Community trade in bovine animals and swine [^c23704791];
+>   - (ii) Council Directive [88/407/EEC](https://www.legislation.gov.uk/eudr/1988/407) laying down the animal health requirements applicable to intra-Community trade in and imports of deep-frozen semen of domestic animals of the bovine species [^c23704801];
+>   - (iii) Council Directive [89/556/EEC](https://www.legislation.gov.uk/eudr/1989/556) on animal health conditions governing intra-Community trade in and importation from third countries of embryos of domestic animals of the bovine species [^c23704811]
+>   - (iv) Council Directive [90/426/EEC](https://www.legislation.gov.uk/eudr/1990/426) on the health policy conditions governing the movement of equidae and their import from third countries [^c23704821];
+>   - (v) Council Directive [2009/156/EC](https://www.legislation.gov.uk/eudr/2009/156) on animal health conditions governing the movement and importation from third countries of equidae [^c23704831];
+>   - (vi) Council Directive [90/539/EEC](https://www.legislation.gov.uk/eudr/1990/539) on animal health conditions governing intra- Community trade in, and imports from third countries of, poultry and hatching eggs [^c23704841];
+>   - (vii) Council Directive [2006/88/EC](https://www.legislation.gov.uk/eudr/2006/88) on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals [^c23704851];
+>   - (viii) Council Directive [91/68/EEC](https://www.legislation.gov.uk/eudr/1991/68) on animal health conditions governing intra-Community trade in ovine and caprine animals [^c23704861];
+>   - (ix) Council Directive [92/65/EEC](https://www.legislation.gov.uk/eudr/1992/65) laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(I)(1) to Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) [^c23704871];
+>   - (x) Council Directive [92/118/EEC](https://www.legislation.gov.uk/eudr/1992/118) laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662) and, as regards pathogens, to Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) [^c23704881];
+>
+> (2) the following instruments:
+>
+> - (a) Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/1) on the protection of animals during transport and related operations;
+> - (b) Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption;
+> - (c) Regulation (EU) 2016/429 of the European Parliament and of the Council on transmissible animal diseases.
+
+.
+
+## 3. Amendment of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/1)[^key-c41e7ca81d32a0946b35603e921f6e66]
+
+(1) Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/1) on the protection of animals during transport and related operations is amended as follows.
+
+(2) In Article 1—
+
+- (a)[^key-1138ac19d2e6dd5f1f2b7c8159b8b71f] in paragraph 1—
+  - (i) for “the Community”, in both places it occurs, substitute “Great Britain”;
+  - (ii) omit “the customs territory of”;
+- (b) omit paragraphs 3 and 4.
+
+(3) In Article 2—
+
+- (a) the existing text is renumbered as paragraph 1;
+- (b) for point (d) substitute—
+
+  > - (d) ‘border inspection post’ means a border control post as defined in Article 3(38) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;[^key-6b4e04766abd36fcafe9f1faa7a295be]
+
+  ;
+- (c) in point (e)—
+  - (i) for “Community” substitute “ retained EU ”;
+  - (ii) for “Chapter I of Annex A to Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425)” substitute “ Annex 2A to this Regulation ”;
+- (d)[^key-1cb74edcf3f1e375df76da01a16ac231] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-f7de69d58b8b3c37b07e4e5926ab568b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-66877b4058552e562e8afefee13b6926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-45d8467fcb2ea3fa5aa52ec6c5fb9a37] in point (q)(iii), for “Annex II” substitute “the form published by an Appropriate Minister from time to time”;
+- (h) in point (r), in the second paragraph, for “Community” substitute “ retained EU ”;
+- (i) in point (u), for “means registered equidae as referred to in Directive [90/426/EEC](https://www.legislation.gov.uk/eudr/1990/426)” substitute—
+
+  > - (u) ‘registered Equidae’:
+  >   - (i) for equidae registered in Great Britain[^key-01cf98bb6300e27e9220169963eceb42], has the meaning given in Article 2(e) of Commission Implementing Regulation (EU) 2015/262;
+  >   - (ii) for all other registered equidae, has the meaning given in Article 2(c) of Council Directive [2009/156/EC](https://www.legislation.gov.uk/eudr/2009/156);
+
+  ;
+- (j) after point (z), insert—
+
+  > - (z1) ‘Appropriate Minister’ means:
+  >   - (i) in relation to England, the Secretary of State;
+  >   - (ii) in relation to Wales, the Welsh Ministers;
+  >   - (iii) in relation to Scotland, the Scottish Ministers;
+  >   - (iii)[^key-ca42fa384025b22951a61dbf1c9a5039] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (z2) ‘third country’ means any country other than the British Islands[^key-711b546655a6cba94ced996cd8f8b2cb];
+  > - (z3) ‘EU Council Regulation’ means Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/1) as it has effect in EU law as amended from time to time;
+  > - (z4)[^key-7df4c6a722829d539b16254784d2d170] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >
+  > **2.[^key-7ff8230b6bd3373aabb5f7eb359e6251]**
+  >
+  > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  .
+
+(3A)[^key-3ac93def624b2da018854f9a65d22b94] Before Article 3 insert—
+
+> **Article 2b — Authorisations and certificates issued in the Channel Islands and the Isle of Man**
+>
+> For the purposes of Chapter 2 and Chapter 3 of, and Annex 2 to, this Regulation, a transporter authorisation, certificate of competence or certificate of approval granted or issued in the Channel Islands or the Isle of Man is to be recognised as if it were issued by a competent authority in Great Britain.
+
+.
+
+(4) In Article 4(2), before “competent” insert “ relevant ”.
+
+(5) In Article 5—
+
+- (a) at the end of paragraph 1, insert “ of this Regulation or authorised in Northern Ireland[^key-605a4b06c5c01ff5b22d387944f27a83] in accordance with Article 10(1) or 11(1) of the EU Council Regulation ”.
+- (b) in paragraph 3(b), before “competent” insert “ relevant ”;
+- (c)[^key-b59a30a719bba48886d651dc48fa7741] in paragraph 4—
+  - (i) for “Member States and with” substitute “Great Britain and”;
+  - (ii) for “Annex II” substitute “the form published by an Appropriate Minister from time to time”.
+
+(6) Article 6 is amended in accordance with paragraphs (7) to (12).
+
+(7) In paragraph 1—
+
+- (a) for the first sentence substitute—
+
+  > **1.**
+  >
+  > No person shall act as a transporter unless that person holds:
+  >
+  > - (a) an authorisation issued by a competent authority pursuant to Article 10(1) or, for long journeys, Article 11(1), of this Regulation, or
+  > - (b) an authorisation issued in Northern Ireland[^key-d536b3c8ac2deccc69cea5d8e310bd07], where that authorisation is issued pursuant to Article 10(1), or for long journeys, Article 11(1) of the EU Council Regulation.
+
+  ;
+- (b) the second sentence becomes paragraph 1A;
+- (c) in that paragraph, before “competent” insert “ relevant ”.
+
+(8) In paragraph 2, before “competent” insert “ relevant ”.
+
+(9) For paragraph 4 substitute—
+
+> **4.[^key-a9908401544b8268f49b0d3f3099de69]**
+>
+> Transporters must entrust the handling of the animals to personnel who have:
+>
+> - (a) received training on the relevant provisions of Annex 1 to this Regulation and the form to be published by the Appropriate Minister from time to time, or
+> - (b) received training in Northern Ireland on the relevant provisions of Annexes 1 and 2 of the EU Council Regulation.
+
+.
+
+(10) In paragraph 5—
+
+- (a) for the first sentence substitute—
+
+  > **5.**
+  >
+  > No person shall drive, or act as an attendant on a road vehicle transporting domestic Equidae or domestic animals of bovine, ovine, caprine or porcine species or poultry unless he holds a certificate of competence pursuant to:
+  >
+  > - (a) Article 17(2) of this Regulation, or
+  > - (b) a certificate of competence issued in Northern Ireland[^key-45e3e582dc2597d934b3190c71d69819] pursuant to the EU Council Regulation;
+
+  ;
+- (b) the second sentence becomes paragraph 5A;
+- (c) in that paragraph, before “competent” insert “ relevant ”.
+
+(11) In paragraph 8, for the words from “the certificate” to the end substitute “ to the relevant competent authority the certificate of approval as provided for in Article 18(2) or 19(2) of this Regulation or , where the certificate of approval was issued in Northern Ireland, Article 18(2) or 19(2)[^key-b9f65d3cbada8473a297090a146938d0] of the EU Council Regulation ”.
+
+(12) In paragraph 9—
+
+- (a) in the first sentence omit the words from “, as from 1 January 2007” to the end;
+- (b) in the second sentence, before “competent” insert “ relevant ”;
+- (c) omit the third sentence.
+
+(13) In Article 7—
+
+- (a) at the end of paragraph 1, insert “ of this Regulation or has been inspected and approved in Northern Ireland under Article 18(1)[^key-794779b4fce336f3eb7beb0bdd822cc6] of the EU Council Regulation ”.
+- (b)[^key-8bd2560a536235fb8da3fcb4c020df5f] in paragraph 2—
+  - (i) for “Community port” substitute “port in Great Britain”;
+  - (ii) at the end, insert “of this Regulation or has been inspected and approved in Northern Ireland under Article 19(1) of the EU Council Regulation”.
+
+(14) In Article 8—
+
+- (a) in paragraph 2—
+  - (i) in the first sentence, for “Member States and with third countries” substitute “Great Britain and[^key-8f9e87b5928e6127af7344e0d57fc6f4] a third country ”;
+  - (ii)[^key-14483ef55aef438fadfe5e16b2413000] in the second sentence—
+    - (aa) after “long journeys” insert “between Great Britain and third countries”;
+    - (bb) for “Annex II” substitute “the form published by an Appropriate Minister from time to time”.
+
+(15) In Article 9(2)—
+
+- (a) in the words before point (a), for “Community” substitute “ retained EU ”;
+- (aa)[^key-17960a25d71f7c914f01a890b46c3c56] in point (a), after the words “Annex I” insert “or have followed training courses in Northern Ireland on the relevant technical rules set out in Annex I of the EU Regulation”;
+- (b) in points (c) and (d), for “the competent” substitute “ a competent ”.
+
+(16) In Article 10—
+
+- (a) in paragraph 1—
+  - (i) in the words before point (a), for “The” substitute “ A ”;
+  - (ii) in point (a)—
+    - (aa)[^key-5e7de8dd4c8e4efbc311abf725c1910a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb)[^key-642a668eb2e96f800f528cb01fa60d6c] for “the Member State where they apply for authorisation” substitute “Great Britain”;
+  - (iii) in point (c)—
+    - (aa) for “Community legislation” substitute “ retained EU law ”;
+    - (bb) omit “national”;
+    - (cc) for “Competent Authority” substitute “ relevant competent authority ”;
+- (b) in paragraph 2, in the first sentence—
+  - (i) for “The” substitute “ A ”;
+  - (ii) for “specimen set out in Chapter I of Annex III” substitute “ form published by the Appropriate Minister from time to time ”.
+
+(17) In Article 11—
+
+- (a) in paragraph 1—
+  - (i) in the words before point (a), for “The” substitute “ A ”;
+  - (ii) in point (b)(i), for the words from “as provided” to the end substitute “ for all drivers and attendants carrying out long journeys, as provided for in Article 17(2) of this Regulation or , where the certificate of competence has been issued in Northern Ireland, Article 17(2)[^key-c3be3f381f358ff38141b0e4107c2b92] of the EU Council Regulation ”;
+  - (iii) in point (b)(ii), for the words from “as provided” to the end substitute “ for all means of transport by road to be used for long journeys, as provided for in Article 18(2) of this Regulation or , where the certificate of approval has been issued in Northern Ireland, Article 18(2)[^key-03a77d6d8acad7e8b29b78787869b3b8] of the EU Council Regulation ”;
+- (b) omit paragraph 2(a) and (b);
+- (c) in paragraph 3, in the first sentence—
+  - (i) for “The” substitute “ A ”;
+  - (ii) for “set out in Chapter II of Annex III” substitute “ form published by the Appropriate Minister from time to time ”.
+
+(18) In Article 12, omit “, in no more than one Member State”.
+
+(19) In Article 13—
+
+- (a) in the heading, for “the” substitute “ a ”;
+- (b) in paragraph 1—
+  - (i) for “The” substitute “ A ”;
+  - (ii) for “provided for in” substitute “ issued by it under ”;
+- (c) in paragraph 2—
+  - (i) in the first sentence—
+    - (aa) for “The” substitute “ A ”;
+    - (bb)[^key-e9eb1ffd9846b0a0a02eb4360bf17a95] for “the Member State” substitute “Great Britain”;
+  - (ii) in the second sentence, for the words from “the official” to the end substitute “ English and other languages may also appear ”;
+- (d) in paragraph 3—
+  - (i) for “The” substitute “ A ”;
+  - (ii) for “provided for in” substitute “ issued by it under ”;
+  - (iii) for “authority” substitute “ authorities ”;
+- (e) for paragraph 4 substitute—
+
+  > **4.**
+  >
+  > The relevant competent authority shall record authorisations it has issued pursuant to Article 11(1) in an electronic database. The transporter's name and authorisation number shall be made publicly available by the issuing competent authority during the period of validity of the authorisation. Subject to rules regarding privacy protection, public access to other data in relation to transporters' authorisations shall be granted by the relevant competent authority.
+
+  .
+
+(20)[^key-aaab4b3e9f549ba25a538dca3081bb9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(21)[^key-aaab4b3e9f549ba25a538dca3081bb9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(22)[^key-aaab4b3e9f549ba25a538dca3081bb9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(23) In Article 17—
+
+- (a) in paragraph 1, after “Article 6(4)” insert “ (a) ”;
+- (b) for paragraph 2 substitute—
+
+  > **2.**
+  >
+  > The certificate of competence for drivers and attendants of road vehicles transporting domestic Equidae or domestic animals of bovine, ovine, caprine or porcine species or poultry as referred to in Article 6(5)(a) shall be granted in accordance with Annex IV[^key-f2d5eb41f8cd65cf6a98d0446cbff16e]. The certificate of competence shall be drawn up in English and other languages may also appear. The certificate of competence shall be issued by a competent authority and in accordance with the form published by an Appropriate Minister from time to time. The scope of the said certificate of competence may be limited to a specific species or group of species.
+
+  .
+
+(24) In Article 18—
+
+- (a) in paragraph 1—
+  - (i) in the words before point (a), for the words from the beginning to “Member State” substitute “ A competent authority ”;
+  - (ii) in point (a), omit “in the same or another Member State”;
+  - (iii) in point (b), for the words from “the competent” to “Member State” substitute “ a competent authority ”;
+- (b) in paragraph 2, for the first and second sentences substitute—
+
+  > A competent authority shall issue each certificate with a number unique in Great Britain[^key-0dbc2351e4b75b00e1f5225a043827f3] and in accordance with the form published by an Appropriate Minister from time to time. The certificate shall be drawn up in English and other languages may also appear.
+
+  ;
+- (c) in paragraph 3—
+  - (i) for “The competent authority” substitute “ The issuing competent authority ”;
+  - (ii) omit “in a manner enabling them to be rapidly identified by the competent authorities in all Member States, in particular in the event of failure to comply with the requirements of this Regulation”.
+
+(25) In Article 19—
+
+- (a) in paragraph 1—
+  - (i) in the words before point (a), for the words from the beginning to “Member State” substitute “ A competent authority ”;
+  - (ii)[^key-0fde61da4c5ab8f197347990c02669b2] in point (a), for “the Member State where the application is made” substitute “Great Britain”;
+  - (iii) in point (b), omit “in the same or another Member State”;
+  - (iv) in point (c), for the words from “the competent” to “Member State” substitute “ a competent authority ”;
+- (b) for paragraph 2 substitute—
+
+  > A competent authority shall issue each certificate with a number unique in Great Britain[^key-afd2ee8b5b2662d3bd1ba9ef5b9e5c11]. The certificate shall be drawn up in English and other languages may also appear. Certificates shall be valid for a period of not more than five years from the date of issue and shall become invalid as soon as the means of transport are modified or refitted in a way that affects the welfare of the animals.
+
+  ;
+- (c) in paragraphs 3 and 4, for “The” substitute “ A ”.
+
+(26) In Article 20(1) and (2), in the words before point (a), before “competent” insert “ relevant ”.
+
+(27) In Article 21—
+
+- (a) in paragraph 1—
+  - (i) for “Regulation [(EC) No 639/2003](https://www.legislation.gov.uk/eur/2003/639)” substitute “ Regulation [(EC) No 817/2010](https://www.legislation.gov.uk/eur/2010/817) ”;
+  - (ii) in the words before point (a), for “the Member States” substitute “ a competent authority ”;
+  - (iii)[^key-0a2d490a7ac967a56c615ca306ede5f8] in point (a), for the words from “Article 10(1)” to the end, substitute—
+
+    > - (i) Article 10(1) of this Regulation or, where the authorisation has been issued in Northern Ireland, Article 10(1) of the EU Council Regulation, or
+    > - (ii) for long journeys, Article 11(1) of this Regulation or, where the authorisation has been issued in Northern Ireland, Article 11(1) of the EU Council Regulation
+
+    ;
+  - (iv)[^key-549c23907a221499c877405f2480e542] in point (b), at the end insert “or, where the certificate of competence has been issued in Northern Ireland, Article 17(2) of the EU Council Regulation”;
+- (b) in paragraph 2—
+  - (i) in the first sentence, for “Annex II” substitute “ accordance with the form published by an Appropriate Minister from time to time ”;
+  - (ii) for “or print out as referred to in Annex I or Annex IB to Regulation [(EEC) No 3821/85](https://www.legislation.gov.uk/eur/1985/3821)” substitute “ as defined in Regulation (EU) No 165/2014 ”;
+- (c) in paragraph 3, before “competent” insert “ relevant ”.
+
+(28) In Article 22—
+
+- (a) in paragraph 1, for “The competent”, in both places it occurs, substitute “ A competent ”;
+- (b)[^key-21d9ff31801fee6fb048db53752c67ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(29)[^key-a4ea622bc32cb582816913c67f16a4f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(30) Omit Article 24[^key-49aa722b86207f43a56e4faaf328d512].
+
+(31)[^key-76d378677a4305ea2a0f32dba7604cf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(32)[^key-76d378677a4305ea2a0f32dba7604cf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(33)[^key-76d378677a4305ea2a0f32dba7604cf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(34) In Article 29—
+
+- (a) in the first sentence, for “Member States” substitute “ The Appropriate Minister ”;
+- (b) omit the second and third sentences.
+
+(35) Omit Article 30(7).
+
+(36) Omit Articles 31 and 32.
+
+(37) For Article 33 substitute—
+
+> **33.**
+>
+> References to Directive [91/628/EEC](https://www.legislation.gov.uk/eudr/1991/628) [^c23704901] and Regulation [(EC) No 411/98](https://www.legislation.gov.uk/eur/1998/411) shall be construed as references to this Regulation.
+
+.
+
+(38) Omit Articles 34 to 36.
+
+(39) After Article 37, omit the words from “This Regulation” to “Member States.”
+
+(40) In Annex 1—
+
+- (a) in Chapter 1, in paragraph 3(b), for “Council Directive [86/609/EEC](https://www.legislation.gov.uk/eudr/1986/609)” substitute “ the Animals (Scientific Procedures) Act 1986 [^c23704911] ”;
+- (b) in Chapter 2, in paragraph 1.6, omit “Community or national”;
+- (c) in Chapter 3, in paragraph 2.2, omit the words from “provided that” to the end;
+- (d) in Chapter 4, in paragraph 1, for “the competent” substitute “ a competent ”;
+- (e)[^key-db5e298466e10dbc53ae30b1c73cfd4b] in Chapter 5—
+  - (i) in paragraph 1.7(b), omit “of the Community”;
+  - (ii) omit paragraph 1.9;
+- (f) in Chapter 6—
+  - (i) in paragraph 3.3, for “the competent” substitute “ a competent ”;
+  - (ii) omit paragraph 3.5;
+  - (iii) in paragraph 4.1, for “as referred to in Annex II, Section 4” substitute “ in accordance with the form published by an Appropriate Minister from time to time ”;
+  - (iv) omit paragraphs 4.2 and 4.3.
+
+(41) In Annex 2—
+
+- (a) in paragraph 2, for the final sentence substitute—
+
+  > The Appropriate Minister may publish models for each section.
+
+  ;
+- (b) in paragraph 3(b) and (c), for “the competent” substitute “ a competent ”;
+- (c) in paragraph 3(e), for “to a third country” substitute “from Great Britain[^key-9643ae8a43693bc76c5897289ba392b4]”;
+- (d) in paragraph 4—
+  - (i) for “the[^key-61d93cdc4751fdb75f55061b9c124367] territory of the Community” substitute “Great Britain[^key-fe1761a4df9dcac7b10cb5ff939d96aa]”;
+  - (ii) before “competent” insert “ relevant ”;
+- (e) in paragraph 5—
+  - (i) in the first subparagraph, for “the[^key-2425522376146999c429e16fe0081b1d] territory of the Community” substitute “Great Britain[^key-2e60b9f181ee41712d980899b6fa02cb]”;
+  - (ii) in the second subparagraph, for “the competent” substitute “ a competent ”;
+- (f) in paragraph 6, for “the[^key-b71e7e161644c14c9513697b7ace2ea5] territory of the Community” substitute “Great Britain[^key-3763c80dc9af826b443ee8500f044de6]”;
+- (g) in paragraph 8—
+  - (i) before “competent”, in each place it occurs, insert “ relevant ”;
+  - (ii) in the third subparagraph, omit the words from “in accordance” to “31(2),”;
+- (h) omit the Appendix.
+
+(42) After Annex 2 insert—
+
+> **ANNEX 2A — RELEVANT RETAINED EU VETERINARY LEGISLATION**
+>
+> This Annex lists the retained EU veterinary legislation relevant to this Regulation:
+>
+> (1) The legislation which transposed the following Directives:
+>
+> - (i) Council Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) on animal health problems affecting intra-Community trade in bovine animals and swine;
+> - (ii) Council Directive [88/407/EEC](https://www.legislation.gov.uk/eudr/1988/407) laying down the animal health requirements applicable to intra-Community trade in and imports of deep-frozen semen of domestic animals of the bovine species;
+> - (iii) Council Directive [89/556/EEC](https://www.legislation.gov.uk/eudr/1989/556) on animal health conditions governing intra-Community trade in and importation from third countries of embryos of domestic animals of the bovine species;
+> - (iv) Council Directive [90/426/EEC](https://www.legislation.gov.uk/eudr/1990/426) on animal health conditions governing the movement and import from third countries of equidae;
+> - (v) Council Directive [2009/156/EC](https://www.legislation.gov.uk/eudr/2009/156) on animal health conditions governing the movement and importation from third countries of equidae;
+> - (vi) Council Directive [90/539/EEC](https://www.legislation.gov.uk/eudr/1990/539) on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs;
+> - (vii) Council Directive [2006/88/EC](https://www.legislation.gov.uk/eudr/2006/88) on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals;
+> - (viii) Council Directive [91/68/EEC](https://www.legislation.gov.uk/eudr/1991/68) on animal health conditions governing intra-Community trade in ovine and caprine animals;
+> - (ix) Council Directive [92/65/EEC](https://www.legislation.gov.uk/eudr/1992/65) laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(I)(1) to Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425);
+> - (x) Council Directive [92/118/EEC](https://www.legislation.gov.uk/eudr/1992/118) laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662) and, as regards pathogens, to Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425);
+>
+> (2) The following instruments:
+>
+> - (i) Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/1) on the protection of animals during transport and related operations;
+> - (ii) Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption.
+
+.
+
+(43) Omit Annex 3.
+
+(44) In Annex 4—
+
+- (a) in paragraph 1, for “the competent” substitute “ a competent ”;
+- (b) in paragraph 2, in the words before point (a), for “Community legislation” substitute “ retained EU law ”.
+- (c)[^key-d001582ff5c77b71d03248933d98e6cd] after paragraph 2, insert—
+
+  > **3.** Where a road driver or attendant holds a certificate of competence issued in the Republic of Ireland in accordance with Article 17(2) of the EU Council Regulation, that person will be deemed to have met the requirements of paragraph 1 for the purposes of this Regulation.
+
+  .
+
+## 4. Amendment of Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099)[^key-4a74048589195da696433ffa32c7bd7a]
+
+(1) Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) on the protection of animals at the time of killing is amended as follows.
+
+(2) In Article 1(3)(a)(i), for “of a competent authority” substitute—
+
+> of:
+>
+> - — in England, Wales or Scotland, the Secretary of State;
+> - [^key-30df4168840feeac4713a49d1c7b683e]...
+
+.
+
+(3) In Article 2—
+
+- (a) the existing paragraph is renumbered as paragraph 1;
+- (b)[^key-5e52c04155c7e191bb2a2ff6bdfb66e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) after point (r), insert—
+
+  > - (s) ‘Appropriate Minister’ means:
+  >   - (i) in relation to England, the Secretary of State;
+  >   - (ii) in relation to Wales, the Welsh Ministers;
+  >   - (iii) in relation to Scotland, the Scottish Ministers;
+  >   - (iv)[^key-51225b622a2c9dc43e60ac5e5656857a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (t) ‘third country’ means any country other than the British Islands [^key-6bb488a6bd0efd40791af0339d54e858]....
+  >
+  > **2.[^key-f01593eaaeb1c1f952189035dab857dc]**
+  >
+  > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  .
+
+(4) In Article 13—
+
+- (a) in paragraph 1—
+  - (i) for “Member States” substitute “The Appropriate Minister”;
+  - (ii) after “ “dissemination” insert “from time to time”;
+- (b) in paragraph 2(a), omit “, competent authorities”;
+- (c) in paragraph 3—
+  - (i) before “competent” insert “relevant”;
+  - (ii) omit “Community”;
+- (d) in paragraph 4, before “competent” substitute “relevant”;
+- (e) omit paragraph 5.
+
+(5) In Article 17(6)—
+
+- (a) in the third subparagraph, in the words before point (a), for “Member States” substitute “the Appropriate Minister”;
+- (b) in point (a), for the words from “within the” to “Regulation)” substitute “the live weight of which is more than 300kg”.
+
+(6) In Article 18—
+
+- (a) in paragraph 1, in the second subparagraph, for “Community” substitute “retained EU”;
+- (b) for paragraph 4 substitute—
+
+  > **4.**
+  >
+  > By 30 June each year, each competent authority shall publish a report on the depopulation operations carried out during the previous year.
+
+  ;
+
+(7) In Article 20—
+
+- (a) in paragraph 1, in the words before point (a)—
+  - (i) for “Each Member State” substitute “The Appropriate Minister”;
+  - (ii) for “authorities” substitute “authority”;
+- (b) in paragraph 2—
+  - (i)[^key-760524d7294e63f83965aec0eb1ddfd9] in the first subparagraph, for “the Member States concerned” substitute “Great Britain”;
+  - (ii) in the second subparagraph—
+    - (aa) in the first sentence, for “Member State” substitute “Appropriate Minister”;
+    - (bb) in the second sentence, for “with its counterparts and the Commission” substitute “with its counterparts at the other competent authorties".
+
+(8) In Article 21—
+
+- (a) in paragraph 1, in the words before point (a), for “Member States shall designate the competent authority” substitute “each competent authority is”;
+- (b)[^key-a219aeddc618a4d494e18afe712ac16c] for paragraph 4 substitute—
+
+  > **4.** Competent authorities must recognise certificates of competence issued:
+  >
+  > - (a) by other competent authorities in Great Britain in accordance with this Regulation;
+  > - (b) in Northern Ireland in accordance with Article 21 of Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) as it has effect by virtue of section 7A of the European Union (Withdrawal) Act 2018.
+
+  ;
+- (c) in paragraph 5, in the words before point (a), for “The” substitute “A”;
+- (d) in paragraph 6, for “Community law and/or national law” substitute “provisions in retained EU law or any other law applicable in the United Kingdom”;
+- (e) in paragraph 7, for “Member States” substitute “Each competent authority”;
+
+(9)[^key-8b6c6cfd4f0b5158e67e9e0580754c23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) Omit Articles 23 and 25.
+
+(11) In Article 26—
+
+- (a) in the heading, omit “national”;
+- (b) in paragraph 1—
+  - (i) in the first subparagraph—
+    - (aa) for “Member States” substitute “the Appropriate Minister”;
+    - (bb) omit “national”;
+  - (ii) omit the second subparagraph;
+- (c) in paragraph 2—
+  - (i) in the first subparagraph—
+    - (aa) for “Member States” substitute “The Appropriate Minister”;
+    - (bb) omit “national”;
+  - (ii) omit the second subparagraph;
+- (d) omit paragraphs 3 and 4.
+
+(12) Omit Article 27.
+
+(13) In Article 28—
+
+- (a) in paragraph 1—
+  - (i) omit the first subparagraph;
+  - (ii) in the second subparagraph, in the words before point (a), omit “However,”;
+- (b) in paragraph 2, omit “repealed”.
+
+(14) Omit Article 29(2).
+
+(15) After Article 30, omit the words from “This Regulation” to “Member States”.
+
+David Rutley
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained direct EU legislation to operate effectively and other deficiencies (in particular under section 8(2)(b), (c), (d) and (g)) arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to retained direct EU legislation in the fields of control posts, animal welfare at transport and animal welfare at slaughter.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c23704731]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-ed49e6f93aac32f20faab843dab9b0c6]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-34d2215788f12f85103b5ea0a72d5e76]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-cf8726f13f889bdfcc12e76855e91482]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2019/802/regulation/2/3/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(3)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/3/i)
+
+[^key-1ed98cfaa1ae838b87d389181458f9c5]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2019/802/regulation/2/3/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(3)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/3/ii)
+
+[^c23704751]: Marginal citation: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197), to which there are amendments not relevant to these Regulations.
+
+[^c23704761]: Marginal citation: [S.I. 2012/2379](https://www.legislation.gov.uk/uksi/2012/2379), to which there are amendments not relevant to these Regulations.
+
+[^c23704771]: Marginal citation: [S.S.I. 2012/1197](https://www.legislation.gov.uk/ssi/2012/1197), to which there are amendments not relevant to these Regulations.
+
+[^key-ca78dd25bebb3c96b74dd6298a4f328e]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2019/802/regulation/2/3/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(3)(iii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/3/iii)
+
+[^key-66b65e03246bf237cec98781f8c95e27]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2019/802/regulation/2/3/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(3)(iv)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/3/iv)
+
+[^key-fdd103ac3d7383d134765da7851f8d94]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2019/802/regulation/2/3/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(3)(v)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/3/v)
+
+[^key-f31184928b65f452e64a1c86ad90a500]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/2019/802/regulation/2/6) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(4)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/4)
+
+[^key-ec5b03eac34713a695d59a630af92f30]: Textual amendment: [Reg. 2(9)(b)](https://www.legislation.gov.uk/uksi/2019/802/regulation/2/9/b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/5/a)
+
+[^key-74573dd039227e484defb8d15252c7b9]: Textual amendment: [Reg. 2(9)(c)](https://www.legislation.gov.uk/uksi/2019/802/regulation/2/9/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/5/b)
+
+[^key-bbf402782991b7318d24d1876e510847]: Textual amendment: Words in [reg. 2(10)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2019/802/regulation/2/10/b/ii/cc) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(6)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/6)
+
+[^c23704791]: Marginal citation: OJ No P 121, 29.7.1964, p. 1977, as last amended by Commision Implementing Decision (EU) 2015/819 (OJ No L 129, 27.5.2015, p. 28).
+
+[^c23704801]: Marginal citation: OJ No L 194, 22.7.1988, p. 10, as last amended by Commision Implementing Decision (EU) 2011/629 (OJ No L 247, 24.9.2011, p. 22).
+
+[^c23704811]: Marginal citation: OJ No L 302, 19.10.1989, p. 1, as last amended by Council Directive 2008/73/EC (OJ No L 219, 14.8.2008, p.40).
+
+[^c23704821]: Marginal citation: OJ No L 224, 18.8.1990, p.42, as last amended by Council Directive 2009/156/EC (OJ No L 192, 23.7.2010, p. 1).
+
+[^c23704831]: Marginal citation: OJ No L 192, 23.7.2010, p. 1, as last amended by Commission Implementing Decision (EU) 2016/1840 (OJ No L 280, 18.10.2016, p. 33).
+
+[^c23704841]: Marginal citation: OJ No L 303, 31.10.1990, p.6, as last amended by Council Directive 2009/158/EC (OJ No L 343, 22.12.2009, p.74).
+
+[^c23704851]: Marginal citation: OJ No L 328, 24.11.2006, p.14, as last amended by Commission Implementing Directive 2014/22/EU (OJ L 44, 14.2.2014, p.45).
+
+[^c23704861]: Marginal citation: OJ No L 46, 19.2.1991, p.19, as last amended by Commission Implementing Decision (EU) 2016/2002 (OJ No L L 308, 16.11.2016, p.29).
+
+[^c23704871]: Marginal citation: OJ No L 268, 14.9,1992. p.54, as last amended by Commission Implementing Decision (EU) 2017/2174 (OJ No L 306, 22.11.2017, p.28).
+
+[^c23704881]: Marginal citation: OJ No L 62, 15.3.1993. p.49, as last amended by Directive 2004/41/EC (OJ No L 157, 30.4.2004, p. 407).
+
+[^key-c41e7ca81d32a0946b35603e921f6e66]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-1138ac19d2e6dd5f1f2b7c8159b8b71f]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(8)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/8)
+
+[^key-6b4e04766abd36fcafe9f1faa7a295be]: Textual amendment: Words in reg. 3(3)(b) substituted (E.W.S.) (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/2/a/i) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^key-1cb74edcf3f1e375df76da01a16ac231]: Textual amendment: Reg. 3(3)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/2/a/ii) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^key-f7de69d58b8b3c37b07e4e5926ab568b]: Textual amendment: Reg. 3(3)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/2/a/ii) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^key-66877b4058552e562e8afefee13b6926]: Textual amendment: Reg. 3(3)(f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/2/a/ii) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^key-45d8467fcb2ea3fa5aa52ec6c5fb9a37]: Textual amendment: Reg. 3(3)(g) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/9/a)
+
+[^key-01cf98bb6300e27e9220169963eceb42]: Textual amendment: Words in reg. 3(3)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/9/b)
+
+[^key-ca42fa384025b22951a61dbf1c9a5039]: Textual amendment: Words in reg. 3(3)(j) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(9)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/9/c/i)
+
+[^key-711b546655a6cba94ced996cd8f8b2cb]: Textual amendment: Words in reg. 3(3)(j) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(9)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/9/c/ii)
+
+[^key-7df4c6a722829d539b16254784d2d170]: Textual amendment: Words in reg. 3(3)(j) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(9)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/9/c/iii)
+
+[^key-7ff8230b6bd3373aabb5f7eb359e6251]: Textual amendment: Words in reg. 3(3)(j) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(9)(c)(iv)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/9/c/iv)
+
+[^key-3ac93def624b2da018854f9a65d22b94]: Textual amendment: Reg. 3(3A) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(10)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/10)
+
+[^key-605a4b06c5c01ff5b22d387944f27a83]: Textual amendment: Words in reg. 3(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(11)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/11/a)
+
+[^key-b59a30a719bba48886d651dc48fa7741]: Textual amendment: Reg. 3(5)(c) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(11)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/11/b)
+
+[^key-d536b3c8ac2deccc69cea5d8e310bd07]: Textual amendment: Words in reg. 3(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(12)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/12)
+
+[^key-a9908401544b8268f49b0d3f3099de69]: Textual amendment: Words in reg. 3(9) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(13)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/13)
+
+[^key-45e3e582dc2597d934b3190c71d69819]: Textual amendment: Words in reg. 3(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(14)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/14)
+
+[^key-b9f65d3cbada8473a297090a146938d0]: Textual amendment: Words in reg. 3(11) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(15)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/15)
+
+[^key-794779b4fce336f3eb7beb0bdd822cc6]: Textual amendment: Words in reg. 3(13)(a) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(16)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/16/a)
+
+[^key-8bd2560a536235fb8da3fcb4c020df5f]: Textual amendment: Reg. 3(13)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(16)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/16/b)
+
+[^key-8f9e87b5928e6127af7344e0d57fc6f4]: Textual amendment: Words in reg. 3(14)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(17)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/17/a)
+
+[^key-14483ef55aef438fadfe5e16b2413000]: Textual amendment: Reg. 3(14)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(17)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/17/b)
+
+[^key-17960a25d71f7c914f01a890b46c3c56]: Textual amendment: Reg. 3(15)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(18)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/18)
+
+[^key-5e7de8dd4c8e4efbc311abf725c1910a]: Textual amendment: Reg. 3(16)(a)(ii)(aa) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(19)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/19/a)
+
+[^key-642a668eb2e96f800f528cb01fa60d6c]: Textual amendment: Reg. 3(16)(a)(ii)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(19)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/19/b)
+
+[^key-c3be3f381f358ff38141b0e4107c2b92]: Textual amendment: Words in reg. 3(17)(a)(ii) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(20)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/20/a)
+
+[^key-03a77d6d8acad7e8b29b78787869b3b8]: Textual amendment: Words in reg. 3(17)(a)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(20)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/20/b)
+
+[^key-e9eb1ffd9846b0a0a02eb4360bf17a95]: Textual amendment: Reg. 3(19)(c)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(21)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/21)
+
+[^key-aaab4b3e9f549ba25a538dca3081bb9f]: Textual amendment: Reg. 3(20)-(22) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/2/b) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^key-f2d5eb41f8cd65cf6a98d0446cbff16e]: Textual amendment: Words in reg. 3(23)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(24)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/24)
+
+[^key-0dbc2351e4b75b00e1f5225a043827f3]: Textual amendment: Words in reg. 3(24)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(25)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/25)
+
+[^key-0fde61da4c5ab8f197347990c02669b2]: Textual amendment: Reg. 3(25)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(26)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/26/a)
+
+[^key-afd2ee8b5b2662d3bd1ba9ef5b9e5c11]: Textual amendment: Words in reg. 3(25)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(26)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/26/b)
+
+[^key-0a2d490a7ac967a56c615ca306ede5f8]: Textual amendment: Reg. 3(27)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(27)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/27/a)
+
+[^key-549c23907a221499c877405f2480e542]: Textual amendment: Reg. 3(27)(a)(iv) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(27)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/27/b)
+
+[^key-21d9ff31801fee6fb048db53752c67ec]: Textual amendment: Reg. 3(28)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/2/b) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^key-a4ea622bc32cb582816913c67f16a4f7]: Textual amendment: Reg. 3(29) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/2/b) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^key-49aa722b86207f43a56e4faaf328d512]: Textual amendment: Words in reg. 3(30) substituted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(2)(c)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/2/c) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^key-76d378677a4305ea2a0f32dba7604cf1]: Textual amendment: Reg. 3(31)-(33) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(2)(d)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/2/d) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^c23704901]: Marginal citation: OJ No L 340, 11.12.1991, p. 17, as last amended by Council Regulation (EC) No 1/2005 (OJ No L 3, 5.1.2005, p. 1).
+
+[^c23704911]: Marginal citation: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14).
+
+[^key-db5e298466e10dbc53ae30b1c73cfd4b]: Textual amendment: Reg. 3(40)(e) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(29)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/29)
+
+[^key-9643ae8a43693bc76c5897289ba392b4]: Textual amendment: Words in reg. 3(41)(c) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(30)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/30/a)
+
+[^key-61d93cdc4751fdb75f55061b9c124367]: Textual amendment: Word in reg. 3(41)(d)(i) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(30)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/30/b/i)
+
+[^key-fe1761a4df9dcac7b10cb5ff939d96aa]: Textual amendment: Words in reg. 3(41)(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(30)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/30/b/ii)
+
+[^key-2425522376146999c429e16fe0081b1d]: Textual amendment: Word in reg. 3(41)(e)(i) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(30)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/30/b/i)
+
+[^key-2e60b9f181ee41712d980899b6fa02cb]: Textual amendment: Words in reg. 3(41)(e)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(30)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/30/b/ii)
+
+[^key-b71e7e161644c14c9513697b7ace2ea5]: Textual amendment: Word in reg. 3(41)(f) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(30)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/30/b/i)
+
+[^key-3763c80dc9af826b443ee8500f044de6]: Textual amendment: Words in reg. 3(41)(f) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(30)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/30/b/ii)
+
+[^key-d001582ff5c77b71d03248933d98e6cd]: Textual amendment: Reg. 3(44)(c) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(31)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/31)
+
+[^key-4a74048589195da696433ffa32c7bd7a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-30df4168840feeac4713a49d1c7b683e]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2019/802/regulation/4/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(33)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/33)
+
+[^key-5e52c04155c7e191bb2a2ff6bdfb66e2]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2019/802/regulation/4/3/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/3) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+
+[^key-51225b622a2c9dc43e60ac5e5656857a]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2019/802/regulation/4/3/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(34)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/34/a/i)
+
+[^key-6bb488a6bd0efd40791af0339d54e858]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2019/802/regulation/4/3/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(34)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/34/a/ii)
+
+[^key-f01593eaaeb1c1f952189035dab857dc]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2019/802/regulation/4/3/c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(34)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/34/a/iii)
+
+[^key-760524d7294e63f83965aec0eb1ddfd9]: Textual amendment: [Reg. 4(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/802/regulation/4/7/b/i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(35)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/35)
+
+[^key-a219aeddc618a4d494e18afe712ac16c]: Textual amendment: [Reg. 4(8)(b)](https://www.legislation.gov.uk/uksi/2019/802/regulation/4/8/b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [2(36)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/2/36)
+
+[^key-8b6c6cfd4f0b5158e67e9e0580754c23]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/uksi/2019/802/regulation/4/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [42(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/42/3) (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))

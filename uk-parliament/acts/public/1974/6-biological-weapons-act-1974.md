@@ -1,0 +1,198 @@
+---
+title: Biological Weapons Act 1974
+id: ukpga/1974/6
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1974-02-08'
+text_date: '2014-03-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1974/6
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1974/6/pdfs/ukpga_19740006_en.pdf
+- http://www.legislation.gov.uk/ukpga/1974/6/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Biological Weapons Act 1974
+
+> Text as at 2014-03-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Biological Weapons Act 1974
+
+1974 c.6
+
+An Act to prohibit the development, production, acquisition and possession of certain biological agents and toxins and of biological weapons.
+
+\[8th February 1974\]
+
+## 1. Restriction on development etc. of certain biological agents and toxins and of biological weapons.[^c706074]
+
+(1) No person shall develop, produce, stockpile, acquire or retain—
+
+- (a) any biological agent or toxin of a type and in a quantity that has no justification for prophylactic, protective or other peaceful purposes; or
+- (b) any weapon, equipment or means of delivery designed to use biological agents or toxins for hostile purposes or in armed conflict.
+
+(1A)[^c706075] A person shall not—
+
+- (a) transfer any biological agent or toxin to another person or enter into an agreement to do so, or
+- (b) make arrangements under which another person transfers any biological agent or toxin or enters into an agreement with a third person to do so,
+
+if the biological agent or toxin is likely to be kept or used (whether by the transferee or any other person) otherwise than for prophylactic, protective or other peaceful purposes and he knows or has reason to believe that that is the case.
+
+(2) In this section—
+
+- “**biological agent**” means any microbial or other biological agent; and
+- “**toxin**” means any toxin, whatever its origin or method of production.
+
+(3) Any person contravening this section shall be guilty of an offence and shall, on conviction on indictment, be liable to imprisonment for life.
+
+## 1A. Extraterritorial application of section 1[^c706076]
+
+(1) Section 1 applies to acts done outside the United Kingdom, but only if they are done by a United Kingdom person.
+
+(2) Proceedings for an offence committed under section 1 outside the United Kingdom may be taken, and the offence may for incidental purposes be treated as having been committed, in any place in the United Kingdom.
+
+(3) Her Majesty may by Order in Council extend the application of section 1, so far as it applies to acts done outside the United Kingdom, to bodies incorporated under the law of any of the Channel Islands, the Isle of Man or any colony.
+
+(4) In this section “**United Kingdom person**” means a United Kingdom national, a Scottish partnership or a body incorporated under the law of a part of the United Kingdom.
+
+(5) For this purpose a United Kingdom national is an individual who is—
+
+- (a) a British citizen, a British Dependent Territories citizen, a British National (Overseas) or a British Overseas citizen;
+- (b) a person who under the British Nationality Act 1981 (c. 61) is a British subject; or
+- (c) a British protected person within the meaning of that Act.
+
+(6) Nothing in this section affects any criminal liability arising otherwise than under this section.
+
+## 1B. Revenue and Customs prosecutions[^c706077][^key-27ed086bc9b98ca28c4d429243ffa826]
+
+(1) Proceedings for a biological weapons offence may be instituted by[^key-ff5d0c16943a1d7cabfb68a20454360a] the Director of Public Prosecutions[^key-0936c5b8bbc7add955e76d8e0d9925c1] or by order of the Commissioners for Her Majesty’s Revenue and Customs if it appears to the Director or to the Commissioners[^key-b53384e050448d218559427c303ec703] that the offence has involved—
+
+- (a) the development or production outside the United Kingdom of any thing mentioned in section 1(1)(a) or (b) above;
+- (b) the movement of any such thing into or out of any country or territory;
+- (c) any proposal or attempt to do anything falling within paragraph (a) or (b) above.
+
+(2)[^key-ec84fe3e525dcab49411b203859e2aaf] In this section “ **biological weapons offence** ” means an offence under section 1 of this Act or section 50 of the Anti-terrorism, Crime and Security Act 2001 (including an offence of aiding, abetting, counselling, procuring or inciting the commission of, or attempting or conspiring to commit, such an offence).
+
+(3) Any proceedings for an offence which are instituted by order of the Commissioners[^key-630d5359b44345c1916edb9bcf34ef51] under subsection (1) above shall be commenced in the name of an officer of Revenue and Customs[^key-62af8b17dcf97950e34f68169fe5f238], but may be continued by another officer.
+
+(4) Where the Commissioners[^key-4b61048f8c573b247a0aeae916f5b7ab] investigate, or propose to investigate, any matter with a view to determining—
+
+- (a) whether there are grounds for believing that a biological weapons offence has been committed, or
+- (b) whether a person should be prosecuted for such an offence,
+
+that matter shall be treated as an assigned matter within the meaning of the Customs and Excise Management Act 1979.
+
+(5) Nothing in this section affects any power of any person (including any officer) apart from this section.
+
+(6)[^key-6cefd842dd6c71a7fa4a3a350e3f564b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) This section does not apply to the institution of proceedings in Scotland.
+
+## 2. Prosecution of offences.
+
+(1) Proceedings for an offence under section 1 above shall not be instituted—
+
+- (a) in England or Wales, except by or with the consent of the Attorney General; or
+- (b) in Northern Ireland, except by or with the consent of the Advocate General for Northern Ireland[^key-78540959dafebe99227ddc290021f1a9].
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c706078]
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c706079]
+
+## 3. Offences by bodies corporate.
+
+Where an offence under section 1 of this Act which is committed by a body corporate is proved to have been committed with the consent and connivance of, or to be attributable to any negligence on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+## 4. Powers to search and obtain evidence.
+
+(1) [^c706083]If a justice of the peace is satisfied by information on oath, or in Scotland the sheriff or a magistrate or justice of the peace is satisfied by evidence on oath, that there is reasonable ground for suspecting that an offence under section 1 of this Act has been, or is about to be, committed, he may grant a search warrant authorising a constable . . . —
+
+- (a) to enter, at any time within one month *(Extent: E+W)* *(affected by repeal, see note)*[^key-dc5294f90c355db4a207bfc04da3f2ac] three months *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-dc5294f90c355db4a207bfc04da3f2ac] from the date of the warrant, any premises or place named therein[^c706084], if necessary by force, and to search the premises or place and every person found therein;
+- (b)[^key-def13bc62ccc9cdf39456167ede03025][^key-08d9733543db8e7c7d781453331d9919][^key-384762710f5c565d04ecc91c100e7c9f] to inspect any document found in the premises or place or in the possession of any person found therein, and to take copies of, or seize or detain any such document;
+- (c)[^key-def13bc62ccc9cdf39456167ede03025][^key-08d9733543db8e7c7d781453331d9919][^key-384762710f5c565d04ecc91c100e7c9f] to inspect, seize and detain any equipment so found; and
+- (d)[^key-def13bc62ccc9cdf39456167ede03025][^key-08d9733543db8e7c7d781453331d9919][^key-384762710f5c565d04ecc91c100e7c9f] to inspect, sample, seize and detain any substance so found.
+
+(2) A warrant issued under subsection (1) above, authorising a constable to take the steps mentioned in that subsection, may also authorise any person named in the warrant to accompany the constable and assist him in taking any of those steps.
+
+## 5. Amendment of Army, Air Force and Naval Discipline Acts.[^c706088]
+
+(1) Section 70 of the Army Act 1955 [^c706089] and section 70 of the Air Force Act 1955 (civil offenders) [^c706090], as amended by section 1(6) of the Genocide Act 1969 [^c706091], shall each be amended by inserting in subsection (4), after the word “genocide”, the words “ or an offence under section 1 of the Biological Weapons Act 1974 ”.
+
+(2) In section 48(2) of the Navy Discipline Act 1957 (exclusion of jurisdiction of courts-martial) [^c706092], as amended by section 1(7) of the Genocide Act 1969, after the word “genocide” there shall be inserted the words “ or an offence under section 1 of the Biological Weapons Act 1974 ”.
+
+## 6. Extent.
+
+(1) This Act extends to Northern Ireland.
+
+(2) Her Majesty may by Order in Council make provision for extending this Act, with such exceptions, adaptations or modifications as may be specified in the order, to any of the Channel Islands, the Isle of Man, any colony (other than a colony for whose external relations a country other than the United Kingdom is responsible) or any country outside Her Majesty’s dominions in which Her Majesty has jurisdiction in right of Her Majesty’s Government of the United Kingdom.
+
+(3) An Order in Council under this section may be varied or revoked by a subsequent Order in Council.
+
+## 7. Short title.
+
+This Act may be cited as the Biological Weapons Act 1974.
+
+## Annotations
+
+[^c706074]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1974/6/section/1) extended (*prosp.*) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [ss. 62(2)(b)](https://www.legislation.gov.uk/ukpga/2000/11/section/62/2/b), [128](https://www.legislation.gov.uk/ukpga/2000/11/section/128)
+
+[^c706075]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/1974/6/section/1/1A) inserted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [s. 43](https://www.legislation.gov.uk/ukpga/2001/24/section/43)
+
+[^c706076]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/1974/6/section/1A) inserted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [s. 44](https://www.legislation.gov.uk/ukpga/2001/24/section/44)
+
+[^c706077]: Textual amendment: S. 1B inserted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [s. 45](https://www.legislation.gov.uk/ukpga/2001/24/section/45)
+
+[^key-27ed086bc9b98ca28c4d429243ffa826]: Textual amendment: S. 1B heading substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 17(e)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/17/e); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+
+[^key-ff5d0c16943a1d7cabfb68a20454360a]: Textual amendment: Words in s. 1B(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 17(a)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/17/a/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+
+[^key-0936c5b8bbc7add955e76d8e0d9925c1]: Textual amendment: Words in s. 1B(1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/1)
+
+[^key-b53384e050448d218559427c303ec703]: Textual amendment: Words in s. 1B(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 17(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/17/a/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+
+[^key-ec84fe3e525dcab49411b203859e2aaf]: Modification: S. 1B(2) modified (E.W.N.I.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/2) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+
+[^key-630d5359b44345c1916edb9bcf34ef51]: Textual amendment: Words in s. 1B(3) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 17(b)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/17/b/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+
+[^key-62af8b17dcf97950e34f68169fe5f238]: Textual amendment: Words in s. 1B(3) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 17(b)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/17/b/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+
+[^key-4b61048f8c573b247a0aeae916f5b7ab]: Textual amendment: Words in s. 1B(4) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 17(c)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/17/c); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+
+[^key-6cefd842dd6c71a7fa4a3a350e3f564b]: Textual amendment: S. 1B(6) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 17(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/17/d), [5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+
+[^key-78540959dafebe99227ddc290021f1a9]: Textual amendment: Words in [s. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1974/6/section/2/1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/27); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
+
+[^c706078]: Textual amendment: S.2(2) repealed by [Judicature (Northern Ireland) Act 1978 (c. 23, SIF 38)](https://www.legislation.gov.uk/ukpga/1978/23), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1978/23/schedule/9/part/I)
+
+[^c706079]: Textual amendment: S. 2(3) repealed by [Criminal Jurisdiction Act 1975 (c. 59)](https://www.legislation.gov.uk/ukpga/1975/59), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1975/59/schedule/6/part/I)
+
+[^c706083]: Textual amendment: Words repealed by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [art. 90(2)(3)](https://www.legislation.gov.uk/nisi/1989/1341/article/90/2/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisi/1989/1341/schedule/7/part/I)
+
+[^key-dc5294f90c355db4a207bfc04da3f2ac]: Textual amendment: Words in s. 4(1)(a) substituted (E.W.) (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/16/paragraph/5); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(s)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/s)
+
+[^c706084]: Textual amendment: Words repealed (E.W.) by [Police and Criminal Evidence Act 1984 (c. 60, SIF 95)](https://www.legislation.gov.uk/ukpga/1984/60), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1984/60/section/119/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1984/60/schedule/7)
+
+[^key-def13bc62ccc9cdf39456167ede03025]: Modification: S. 4(1)(b)(c)(d) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 51](https://www.legislation.gov.uk/ukpga/2001/16/section/51), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/79) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
+
+[^key-08d9733543db8e7c7d781453331d9919]: Modification: S. 4(1)(b)(c)(d) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/17) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
+
+[^key-384762710f5c565d04ecc91c100e7c9f]: Modification: S. 4(1)(b)(c)(d) modified (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 55](https://www.legislation.gov.uk/ukpga/2001/16/section/55), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 para. 96](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/96) (with [ss. 57(3)](https://www.legislation.gov.uk/ukpga/2001/16/section/57/3), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
+
+[^c706088]: Modification: The text of s. 5(1)(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c706089]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
+
+[^c706090]: Marginal citation: [1955 c. 19](https://www.legislation.gov.uk/ukpga/1955/19).
+
+[^c706091]: Marginal citation: [1969 c. 12](https://www.legislation.gov.uk/ukpga/1969/12).
+
+[^c706092]: Marginal citation: [1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53)

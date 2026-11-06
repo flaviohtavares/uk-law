@@ -1,0 +1,1102 @@
+---
+title: The Offshore Funds (Tax) (Amendment) Regulations 2011
+id: uksi/2011/1211
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-05-04'
+text_date: '2013-06-28'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1211
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1211/pdfs/uksiem_20111211_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1211/pdfs/uksi_20111211_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1211/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Offshore Funds (Tax) (Amendment) Regulations 2011
+
+> Text as at 2013-06-28.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 1211
+
+Income Tax
+
+Corporation Tax
+
+Capital Gains Tax
+
+The Offshore Funds (Tax) (Amendment) Regulations 2011
+
+Made
+
+4th May 2011
+
+Laid before the House of Commons
+
+5th May 2011
+
+Coming into force
+
+27th May 2011
+
+The Treasury make the following Regulations in exercise of the powers conferred by section 354 of the Taxation (International and Other Provisions) Act 2010[^f00001].
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and effect[^key-a347e70c0872d7e379c33a021f836c26]
+
+(1) These Regulations may be cited as the Offshore Funds (Tax) (Amendment) Regulations 2011 and shall come into force on 27th May 2011.
+
+(2) These Regulations have effect—
+
+- (a) for the purposes of income tax for distributions made, or treated as made, on or after 27th May 2011;
+- (b) for the purposes of corporation tax—
+  - (i) on chargeable gains, in relation to disposals made on or after that date, and
+  - (ii) for distributions made, or treated as made, on or after that date;
+- (c) for the purposes of capital gains tax, in relation to disposals made on or after that date.
+
+This is subject to regulation 16(1).
+
+### 2. Amendment of the Offshore Funds (Tax) Regulations 2009[^key-f32dd3898e79801e45d85c94448810cd]
+
+The Offshore Funds (Tax) Regulations 2009[^f00002] (“the principal Regulations”) are amended as follows.
+
+### 3. Structure of these Regulations and interpretation[^key-6c4200dbda069163d1c7db2b50cb0d1c]
+
+(1) The structure of these Regulations is as follows—
+
+- this Part contains introductory provisions;
+- Part 2 deals with equalisation arrangements;
+- Part 3 deals with an exception from the charge to tax in relation to funds investing in certain types of unlisted trading company;
+- Part 4 deals with transparent funds;
+- Part 5 makes other amendments to the principal Regulations;
+- Part 6 makes amendments to primary legislation.
+
+(2) In these Regulations—
+
+- “equalisation arrangements” has the meaning given by regulation 50A of the principal Regulations (inserted by regulation 5 of these Regulations);
+- “transparent fund” has the same meaning as in regulation 11 of the principal Regulations.
+
+## PART 2 — Equalisation Arrangements
+
+### CHAPTER 1
+
+#### Introduction and amendments to principal Regulations
+
+##### 4. Introduction[^key-1a3a05320864cce443653cee723df666]
+
+This Part makes the following provisions in relation to equalisation arrangements—
+
+- (a) this Chapter makes amendments to the principal Regulations,
+- (b) Chapter 2 makes transitional provisions.
+
+##### 5. Insertion of new regulation 50A (meaning of “equalisation arrangements”, “full equalisation arrangements” and “equalisation amount”)[^key-d6b00db1d60c6b02a5a9252c83ef18aa]
+
+After regulation 50 insert—
+
+> **50A. Meaning of “equalisation arrangements”, “full equalisation arrangements” and “equalisation amount”**
+>
+> For the purposes of this Part—
+>
+> - (a) a reporting fund operates equalisation arrangements if it has given a statement under regulation 53(1)(h) that it intends to operate such arrangements;
+> - (b) a reporting fund operates full equalisation arrangements if in relation to any interest acquired by way of initial purchase in the reporting period—
+>   - (i) the equalisation amount included in the consideration for the purchase is specified by the fund in a statement in writing to the participant making the acquisition, or
+>   - (ii) the equalisation amount per unit of interest in the fund is included in the report made available in accordance with regulation 90;
+> - (c) “equalisation amount” has the meaning given in regulation 72(2).
+
+.
+
+##### 6. Amendment to regulation 53 (contents of an application)[^key-5cdde956560a3041655a35061db3699e]
+
+In regulation 53 (contents of an application) in paragraph (1) at the end insert—
+
+> - (h) a statement whether or not the fund intends to operate equalisation arrangements;
+> - (i) in a case in which the fund does intend to operate equalisation arrangements, a statement whether or not the fund intends to operate full equalisation arrangements;
+> - (j) in a case in which the fund does not intend to operate equalisation arrangements, a statement specifying whether or not the fund intends to make income adjustments in a reporting period;
+> - (k) in a case in which the fund intends to make income adjustments in a reporting period, a statement specifying—
+>   - (i) whether the fund intends to make those adjustments on the basis of reported income (see regulation 92A) or on the basis of accounting income (see regulation 92B), and
+>   - (ii) the length of the computation period (see regulation 92C);
+> - (l) in a case in which the fund intends to make income adjustments in a reporting period on the basis of accounting income—
+>   - (i) a statement by the fund manager specifying how the accounting income is to be determined,
+>   - (ii) a statement by the fund manager that, on the basis of this determination, it is reasonable to expect that the difference between the amount of reported income per unit calculated using this method and the amount of reported income per unit calculated on the basis of reported income will be 10% or less of the latter of those amounts, and
+>   - (iii) an undertaking by the manager to meet the requirements relating to alternative income adjustments and notice to HMRC[^f00003] (see regulation 92B(5)).
+
+.
+
+##### 7. Amendment to regulation 55 (response by HMRC to application)[^key-11f4b08f0279b30e63f8d55ca48fd7d1]
+
+(1) Amend regulation 55 (response by HMRC to application) as follows.
+
+(2) In paragraph (3) after “5” insert “or 6A”.
+
+(3) After paragraph (3) insert—
+
+> (3A) Where the fund intends to make income adjustments on the basis of accounting income (see regulation 53(1)(l)), HMRC must not accept an application if they do not consider that it is reasonable to expect that the difference between the amount of reported income per unit calculated using this method and the amount of reported income per unit calculated on the basis of reported income will be 10% or less of the latter of those amounts.
+
+.
+
+##### 8. Insertion of Chapter 2A (amendment to application for this Part to apply)[^key-53ee78e3d59358c63ebf87658fb3dc51]
+
+After regulation 56 insert—
+
+> **CHAPTER 2A**
+>
+> **AMENDMENT TO APPLICATION FOR THIS PART TO APPLY**
+>
+> **56A. Amending a statement relating to equalisation**
+>
+> (1) The manager of a reporting fund may apply to amend any statement under regulation 53(1)(h) to (l) in relation to a reporting period and subsequent reporting periods by application in writing to HMRC before the end of the first reporting period in relation to which the amendment is to have effect.
+>
+> (2) Paragraphs (4) to (8) do not apply in relation to an application to amend a statement under regulation 53(1)(h) and (i) or under regulation 53(1)(i) if the amendment sought is that the fund intends to operate full equalisation arrangements.
+>
+> (3) An application to which paragraph (2) applies must be accepted by HMRC within 28 days beginning with the day on which HMRC receive the application.
+>
+> (4) An application under paragraph (1) must specify—
+>
+> - (a) the reason for the application,
+> - (b) the amendment sought to the statement, and
+> - (c) the first reporting period in which the amendment is to apply.
+>
+> (5) Within 28 days beginning with the day on which HMRC receive the application, HMRC must give notice to the manager—
+>
+> - (a) accepting the application,
+> - (b) rejecting the application, or
+> - (c) asking for further information in order to consider the application.
+>
+> (6) HMRC must not accept an application if—
+>
+> - (a) they consider the application is made for reasons other than commercial or administrative reasons, or
+> - (b) an application was accepted under this regulation in relation to either of the previous two reporting periods.
+>
+> (7) Paragraph (8) applies if—
+>
+> - (a) HMRC have given notice under paragraph (5)(c), and
+> - (b) the manager provides further information within a period of 28 days beginning with the day on which HMRC ask for further information or within such longer period as is agreed by HMRC.
+>
+> (8) Within 28 days beginning with the day on which HMRC receive the further information, HMRC must give notice to the manager—
+>
+> - (a) accepting the application, or
+> - (b) rejecting the application.
+>
+> **56B. Appeal against refusal of application to amend a statement**
+>
+> (1) If HMRC reject an application the manager may appeal.
+>
+> (2) The notice of appeal must be given to HMRC within a period of 42 days beginning with the day on which the notice rejecting the application is given.
+>
+> (3) On an appeal, the tribunal may uphold or quash the rejection of the application.
+>
+> (4) If the tribunal quashes the rejection of the application, this Part applies as if HMRC had accepted the application.
+
+.
+
+##### 9. Substitution of regulation 72 (treatment of reporting funds operating equalisation arrangements)[^key-d05334dcea08526c106feb96361364c9]
+
+For regulation 72 (treatment of reporting funds operating equalisation arrangements) substitute—
+
+> **72. Treatment of reporting funds operating equalisation arrangements**
+>
+> (1) This regulation applies if a reporting fund operates equalisation arrangements.
+>
+> (2) If a person acquires an interest in the fund by way of initial purchase, the reportable income must be increased by an amount equal to that part of the acquisition price which is attributable to the undistributed income which has accrued to the fund in the period of account up to the time of the acquisition and which is taken into account in determining the acquisition price (“the equalisation amount”).
+>
+> (3) If a participant disposes of an interest in the fund by way of redemption, the reportable income must be reduced by an amount equal to that part of the redemption price which is attributable to the undistributed income which has accrued to the fund in the period of account up to the time of the redemption and which is taken into account in determining the redemption price.
+>
+> (4) For the purposes of these Regulations a person acquires an interest in an offshore fund by way of initial purchase if the acquisition is by way of subscription for or allotment of new shares, units or other interests issued or created by the fund or by way of direct purchase from the managers of the fund acting in their capacity as managers of the fund.
+>
+> (5) For the purposes of this regulation a person disposes of an interest in a fund by way of redemption if the disposal is by way of cancellation of the units, shares or other interest or by way of direct sale to the managers of the fund acting in their capacity as managers of the fund.
+
+.
+
+##### 10. Amendment to regulation 92 (contents of report to participants)[^key-d245c50efe596b8735b9170c2bd930dc]
+
+(1) Amend regulation 92 (contents of report to participants) as follows.
+
+(2) In paragraph (1) at the end insert—
+
+> - (f) if the fund operates full equalisation arrangements and has not given a statement under regulation 50A(b)(i), the equalisation amount per unit of interest in the fund in relation to any interest acquired by way of initial purchase in the reporting period.
+
+.
+
+(3) In paragraph (3) for sub-paragraphs (a) and (b) substitute—
+
+> - (a) the reported income per unit of a reporting fund for a reporting period is—
+>   - (i) in the case of a reporting fund which operates equalisation arrangements, computed by dividing the reported income of the fund for the reporting period by the number of units in the fund in issue at the end of the reporting period,
+>   - (ii) in the case of a reporting fund which does not operates equalisation arrangements and does not make income adjustments, computed by dividing the reported income of the fund for the reporting period by the number of units in the fund in issue at the end of the reporting period,
+>   - (iii) in the case of a reporting fund which does not operate equalisation arrangements and which makes income adjustments in a reporting period on the basis of reported income, the amount determined in accordance with regulation 92A(2),
+>   - (iv) in the case of a reporting fund which does not operate equalisation arrangements and which makes income adjustments in a reporting period on the basis of accounting income, the amount determined in accordance with regulation 92B(2),
+> - (b) the amount actually distributed to participants per unit of interest in the fund in respect of the reporting period must be computed at the time the distribution is made,
+> - (ba) subject to paragraphs (3A) and (3B), the fund may chose to calculate the equalisation amount per unit of interest in the fund either on the basis of—
+>   - (i) the sum of all the equalisation amounts in relation to all acquisitions by way of initial purchase in the reporting period divided by the total number of units acquired by way of initial purchase in the period, or
+>   - (ii) the equalisation amount in relation to the acquisition by the participant to whom the report is made available divided by the number of units acquired on that acquisition, and
+
+.
+
+(4) After paragraph (3) insert—
+
+> (3A) A fund cannot change the basis for calculating the equalisation amount per unit of interest in the fund more than once in three successive reporting periods.
+>
+> (3B) In any reporting period all reports to participants must use the same basis for calculating the equalisation amount per unit of interest in the fund .
+
+.
+
+##### 11. Insertion of new regulations 92A, 92B and 92C (funds which do not operate equalisation arrangements)[^key-6c1f88c00dbf1d58a0a6198edbf0f20e]
+
+After regulation 92 insert—
+
+> **92A. Funds which do not operate equalisation arrangements: income adjustments on the basis of reported income**
+>
+> (1) This regulation applies if a reporting fund does not operate equalisation arrangements and—
+>
+> - (a) the fund has given a statement under regulation 53(1)(k) that it intends to make income adjustments in a reporting period on the basis of reported income, or
+> - (b) regulation 92B(5) applies.
+>
+> (2) The reported income per unit of the fund for a reporting period is the sum of the reported income per unit for all the computation periods in the reporting period.
+>
+> (3) The reported income per unit for a computation period is calculated by dividing the reported income of the fund for the computation period by the average number of units in the fund in issue during the computation period.
+>
+> (4) For the purposes of paragraph (3) the reported income of the fund for a computation period means the reportable income of the fund for that period computed in accordance with Chapters 5 and 6 of this Part.
+>
+> (5) In the computation referred to in paragraph (4) Chapters 5 and 6 of this Part apply as if references to a period of account of the fund were references to a computation period.
+>
+> (6) For the purposes of paragraph (3) and regulation 92B(3) the average number of units in issue during a computation period is the sum of the units in the fund in issue during the period after each unit has been multiplied by the fraction of the period for which it is held.
+>
+> **92B. Funds which do not operate equalisation arrangements: income adjustments on the basis of accounting income**
+>
+> (1) This regulation applies if a reporting fund does not operate equalisation arrangements and the fund has given a statement under regulation 53(1)(k) that it intends to make income adjustments in a reporting period on the basis of accounting income.
+>
+> (2) The reported income per unit of the fund for a reporting period is calculated as follows—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2011/1211)
+>
+> where—
+>
+> - AIU is the sum of the accounting income per unit for all the computation periods in the reporting period,
+> - RI is the reported income of the fund for the reporting period, and
+> - AI is the sum of accounting income for all the computation periods in the reporting period.
+>
+> This is subject to paragraphs (4) and (5).
+>
+> (3) The accounting income per unit for a computation period is calculated by dividing accounting income for the computation period by the average number of units in the fund in issue during the computation period.
+>
+> (4) Where RI is zero the reported income per unit of the fund for a reporting period is zero.
+>
+> (5) Where the difference in the amount of reported income per unit calculated using this method and the amount of reported income per unit calculated on the basis of reported income is or is likely to be more than 10% of the latter of those amounts—
+>
+> - (a) the fund must make income adjustments in that and future reporting periods on the basis of reported income, and
+> - (b) the manager must give notice to HMRC[^f00004] of the change in the method of income adjustment with the information provided to HMRC in relation to that period under regulation 106 (reporting requirements).
+>
+> (6) In this Part “accounting income” means an amount proportionally related to the reportable income of the fund determined from the interim or management accounts of the fund, but this amount must not be less than zero.
+>
+> **92C. Funds which do not operate equalisation arrangements: computation period**
+>
+> In this Part a “computation period” means a period determined by a fund in accordance with the following rules.
+>
+> - *Rule 1*
+>
+>   A new computation period must start—
+>
+>   - (a) at the beginning of a reporting period, and
+>   - (b) immediately after the end of a previous computation period.
+> - *Rule 2*
+>
+>   A computation period must end—
+>
+>   - (a) at the end of a reporting period, and
+>   - (b) on any date on which income is allocated to participants for distribution or accumulation.
+> - *Rule 3*
+>
+>   Subject to rules 1 and 2, if a reporting period consists of more than one computation period those periods must be of approximately equal length.
+
+.
+
+##### 12. Insertion of regulation 94A[^key-a6951e73a15d29d249e8d8214fec544c]
+
+After regulation 94 insert—
+
+> **94A. Equalisation amounts not treated as distributions**
+>
+> (1) This regulation applies if—
+>
+> - (a) a participant has acquired by way of initial purchase an interest in a reporting fund, and
+> - (b) the reporting fund operates full equalisation arrangements.
+>
+> (2) Where this regulation applies—
+>
+> - (a) the amount of any excess treated as additional distributions made to the participant is reduced by the equalisation amount, and
+> - (b) the amount of any actual distributions to the participant in respect of the reporting period shall be treated as reduced by the amount, if any, by which the equalisation amount exceeds the excess.
+>
+> (3) But the amount of any excess treated as additional distributions or any actual distributions shall not be reduced to below nil.
+>
+> (4) For the purposes of paragraph (2) the excess is the amount treated as additional distributions made to the participant in accordance with regulation 94(1) and (2).
+
+.
+
+##### 13. Amendment to regulation 99 (disposals of interests)[^key-9af72ac7a3dbcf80e3ac3983b0dd9f7f]
+
+In regulation 99 (disposals of interests) after paragraph (2) insert—
+
+> (2A) But where regulation 94A has applied, the expenditure given for the acquisition of the asset shall be treated as reduced by an amount equal to the amount of any reduction under regulation 94A(2)(b).
+
+.
+
+### CHAPTER 2
+
+#### Transitional provisions
+
+##### 14. Transitional provisions: introduction[^key-016e55cf6038b83f05b7536c9f307e13]
+
+(1) This Chapter applies to offshore funds which are reporting funds at the date these Regulations come into force.
+
+(2) In this Chapter a reference to regulation 53(1) or any sub-paragraph of that regulation is a reference to regulation 53(1) (contents of an application) of the principal Regulations as amended by regulation 6 of these Regulations.
+
+(3) In this Chapter—
+
+- “HMRC” means Her Majesty’s Revenue and Customs;
+- “transitional fund” means a fund to which this Chapter applies.
+
+##### 15. Transitional provisions: general provisions[^key-901a981a87a18dd60929f37fa8514433]
+
+(1) The manager of a transitional fund must give the statements required by sub-paragraphs (h) to (l) of regulation 53(1) by a notice in writing to HMRC within one year of the date these Regulations come into force.
+
+(2) A transitional fund will be treated as having operated equalisation arrangements or full[^key-83c8f825d82b7eb6114f219a302a33a6] equalisation arrangements or as not operating equalisation arrangements in accordance with those statements from the time that the fund first became a reporting fund for the purposes of any report made to participants after the date these Regulations come into force.
+
+This is subject to regulation 16.
+
+##### 16. Transitional provisions: special cases[^key-ebe52a688ab3dc7ed0f31e5034e8d80f]
+
+(1) The amendments made by this Part shall not apply in relation to a reporting period which ended before the date these Regulations come into force if the manager of a transitional fund so elects by notice in writing given with the notice under regulation 15(1).
+
+(2) If no notice is given under regulation 15(1) or if paragraph (3) applies, a transitional fund shall be treated as having given a statement under regulation 53(1)(k)(i) and be treated from the time that the fund first became a reporting fund as not operating equalisation arrangements and as intending to make adjustments on the basis of reported income.
+
+(3) This paragraph applies if—
+
+- (a) a transitional fund has given a statement that it does not intend to operate equalisation arrangements and intends to make income adjustments on the basis of accounting income (see regulation 53(1)(l)), and
+- (b) HMRC do not consider that it is reasonable to expect that the difference between the amount of reported income per unit calculated using this method and the amount of reported income per unit calculated on the basis of reported income will be 10% or less of the latter of those amounts.
+
+(4) Where paragraph (3) applies HMRC must give notice to the manager of the transitional fund within 28 days of receiving the notice under regulation 15(1).
+
+(5) The notice under paragraph (4) must state that paragraph (2) of this regulation applies to the fund.
+
+##### 17. Appeal against a refusal to accept a statement[^key-8321a00ccd8c5ffe0300d0675770915f]
+
+(1) If HMRC give notice under regulation 16(4), the manager of the transitional fund may appeal.
+
+(2) The notice of appeal must be given to HMRC within a period of 42 days beginning with the day on which the notice under regulation 16(4) is given.
+
+(3) On an appeal, the tribunal may uphold or quash the notice.
+
+(4) If the tribunal quashes the notice, this Chapter applies as if regulation 16(3) had never applied.
+
+## PART 3 — Unlisted Trading Company Exception
+
+### 18. Introduction[^key-d2b92e8ea4826f9b4ae4819bb73abc24]
+
+This Part inserts a new exception to the charge to tax arising under regulation 17 of the principal Regulations.
+
+### 19. Insertion of regulations 31A to 31C (unlisted trading company exception)[^key-8b844d82428a395cbec1899e4373f4b9]
+
+After regulation 31 insert—
+
+> **31A. Unlisted trading company exception**
+>
+> (1) No liability to tax arises under regulation 17 if conditions A to D are met.
+>
+> (2) Condition A is that the disposal is a disposal of an interest in an offshore fund.
+>
+> (3) Condition B is that the sole or main purpose of the fund is to invest in qualifying companies.
+>
+> (4) Condition C is that throughout the period starting with the date on which the interest was acquired and ending 12 months before the date of the disposal the fund met the investment condition.
+>
+> This is subject to paragraph (6).
+>
+> (5) Condition D is that participants in the fund have access to, and are able to obtain copies of, sufficient information to demonstrate that the fund intends to dispose of any holdings of shares or securities within regulation 31B(1)(b) or (d).
+>
+> (6) Condition C is treated as met in relation to the period—
+>
+> - (a) starting at the beginning of the first period of account of the fund, and
+> - (b) ending on the earlier of—
+>   - (i) the expiry of 3 months, and
+>   - (ii) the date the fund meets the investment condition,
+>
+> if the only asset of the fund during that period is cash.
+>
+> (7) For the purposes of this regulation and regulation 31B—
+>
+> - “cash” means cash deposited in a bank account or similar account, but not cash acquired wholly or partly for the purpose of realising a gain on its disposal;
+> - “qualifying company” means a trading company or the holding company of a trading group or a trading subgroup, where—
+>   - (a) the shares of the company are not listed on a recognised stock exchange or admitted to trading on a regulated market, and
+>   - (b) the activities of the trading company or, in the case of a holding company, the activities of the members of the group or subgroup taken together, do not include to a substantial extent the carrying out of investment transactions undertaken in the course of a trade.
+>
+> (8) In paragraph (7) in the definition of “qualifying company”, “holding company”, “trading company”, “trading group” and “trading subgroup” have the same meanings as in Schedule 7AC to TCGA 1992[^f00005] (see paragraphs 20 to 24 and 26 and 27 of that Schedule).
+>
+> **31B. Unlisted trading company exception: the investment condition**
+>
+> (1) The investment condition is that at least 90% of the value of the assets of the fund consists of—
+>
+> - (a) direct or indirect holdings in qualifying companies,
+> - (b) holdings of shares or securities listed on a recognised stock exchange or admitted to trading on a regulated market which the fund intends to dispose of as soon as reasonably practicable, taking into account market conditions and commercial and contractual constraints, and which—
+>   - (i) were acquired by the fund in exchange for shares or securities in a qualifying company, or
+>   - (ii) were shares in a qualifying company at the time of their acquisition by the fund,
+> - (c) holdings of shares or securities listed on a recognised stock exchange or admitted to trading on a regulated market, which are holdings in a company that would be a qualifying company if it were not so listed or admitted, where it is reasonable to believe that the shares or securities will cease to be so listed or admitted within 12 months,
+> - (d) shares or securities which have ceased to be within sub-paragraph (c) because it is no longer reasonable to believe that they will cease to be listed or admitted, which the fund intends to dispose of as soon as reasonably practicable taking into account market conditions and commercial and contractual constraints.
+>
+> (2) For the purposes of the investment condition—
+>
+> - (a) any holding of cash shall be disregarded, and
+> - (b) a holding in a qualifying company is held indirectly if it is held by a corporate body which is a 51% subsidiary of the fund.
+>
+> (3) For the purposes of paragraph (2) section 1154 of CTA 2010 applies to determine whether a corporate body is a 51% subsidiary of a fund.
+>
+> **31C. Unlisted trading company exception: further provision**
+>
+> No liability to tax arises under regulation 17 if—
+>
+> - (a) the disposal is of an interest in an offshore fund whose business consists solely of holding an interest in another offshore fund (“X”), and
+> - (b) conditions B to D of regulation 31A apply in relation to X.
+
+.
+
+### 20. Amendment to regulation 81 (meaning of investment transaction)[^key-d8628d10c93c959c102cacc06d685915]
+
+In regulation 81 (meaning of investment transaction) for “this Part” substitute “these Regulations”.
+
+## PART 4 — Transparent Funds
+
+### 21. Introduction[^key-219625f11b2f6d26345aeda04f0464ed]
+
+This Part makes amendments in relation to transparent funds.
+
+### 22. Amendment to regulation 49 (structure of this Part)[^key-ab35bedee33071cd55dde0c41a234a32]
+
+(1) Amend regulation 49 (structure of this Part) as follows.
+
+(2) In the heading after “structure” insert “and application”.
+
+(3) In paragraph (1) after sub-paragraph (f) insert—
+
+> - (fa) Chapter 6A deals with transparent reporting funds;
+
+.
+
+(4) In paragraph (2)—
+
+- (a) in sub-paragraph (a) omit “and”,and
+- (b) after sub-paragraph (a) insert—
+
+  > - (aa) transparent reporting funds (see Chapter 6A), and
+
+  .
+
+(5) At the end insert—
+
+> (3) Chapters 4 to 6 do not apply to transparent reporting funds.
+
+.
+
+### 23. Amendment to regulation 58 (general duties of reporting funds)[^key-4ac303fe974be2929580a2a5ed01c941]
+
+(1) Amend regulation 58 (general duties of reporting funds) as follows.
+
+(2) In paragraph (a) at the end insert “(except in the case of transparent reporting funds)”.
+
+(3) In paragraph (b) at the end insert “or 6A, as the case may be”.
+
+### 24. Insertion of new Chapter 6A in Part 3[^key-96a20831d85ad09b0c911ded7f9ebb3f]
+
+After regulation 89 insert—
+
+> **CHAPTER 6A**
+>
+> **TRANSPARENT REPORTING FUNDS**
+>
+> **89A. Transparent reporting funds**
+>
+> (1) This Chapter explains how reportable income is computed in the case of a transparent reporting fund.
+>
+> (2) For the purposes of these Regulations a “transparent reporting fund” is a reporting fund which is a transparent fund.
+>
+> **89B. Reportable income: general**
+>
+> (1) A transparent reporting fund must provide a computation of its reportable income for a period of account.
+>
+> (2) The reportable income of a transparent reporting fund for a period of account is comprised of—
+>
+> - (a) each of the separate sums of income for the period which fall within paragraph (a) or (b) of regulation 11 (meaning of transparent funds), and
+> - (b) the adjustments made to those sums in accordance with regulations 89C to 89E.
+>
+> (3) For the purposes of this Part the adjustments referred to in paragraph (2)(b) are excesses of reported income of the fund over the sums which form part of the income of the fund within paragraph (2)(a).
+>
+> **89C. Adjustment in relation to income from other reporting funds**
+>
+> (1) This regulation applies if a transparent reporting fund (“TRF”) has an interest in another reporting fund (“RF”).
+>
+> (2) The reportable income of TRF in relation to that interest shall include the excess (if any) of the income reported by RF in respect of TRF’s interest in RF over the amount distributed by RF in relation to that interest.
+>
+> (3) The excess is treated as reportable income of TRF for the period of account in which the fund distribution date of RF falls.
+>
+> (4) If RF does not make a report available in accordance with regulation 90(5), TRF must—
+>
+> - (a) include its best estimate of reported income from RF as an adjustment to the computation of its reportable income in relation to that interest for the period of account in which the latest possible fund distribution date for RF falls (to the extent that any such amount has not already been recognised in the computation of TRF’s reportable income for that or any earlier period of account), and
+> - (b) make any necessary corrections to its best estimate in its computation of reportable income for the first later period of account in which it has sufficient information to make those corrections.
+>
+> **89D. Adjustment in relation to income from non-reporting funds: first case**
+>
+> (1) This regulation applies if—
+>
+> - (a) a transparent reporting fund has an interest in a non-reporting fund, and
+> - (b) the conditions in paragraph (2) are met for a period of account.
+>
+> (2) The conditions are that—
+>
+> - (a) the transparent reporting fund has access to the accounts of the non-reporting fund;
+> - (b) the transparent reporting fund has sufficient information about the non-reporting fund to enable it to prepare a computation of reportable income for the non-reporting fund; and
+> - (c) the transparent reporting fund can reasonably expect to rely on continued access to that information for the period in which it will hold the investment in the non-reporting fund.
+>
+> (3) Regulation 89C applies as if the transparent reporting fund were TRF and the non-reporting fund were RF.
+>
+> (4) For the purposes of the computation mentioned in paragraph (2)(b), regulation 80 applies if (and only if) the non-reporting fund is a UCITS fund.
+>
+> **89E. Adjustment in relation to income from non-reporting funds: second case**
+>
+> (1) This regulation applies if a transparent reporting fund has an interest in a non-reporting fund, but the conditions in regulation 89D(2) are not met for a period of account.
+>
+> (2) The reportable income of the transparent reporting fund for a period of account in relation to that interest shall include an amount equal to the increase in the fair value of the interest in the non-reporting fund in that period.
+>
+> (3) But if the condition specified in paragraph (4) is met, decreases in the fair value of that interest in earlier periods of account may be set against the increase referred to in paragraph (2) to reduce the amount of the increase, but—
+>
+> - (a) not to below zero, and
+> - (b) only to the extent that the decreases in fair value have not previously had the effect of reducing the amount of a fair value increase.
+>
+> (4) The condition specified is that the decrease in fair value in earlier periods of account all occurred during periods in which this Part applied continuously to the transparent reporting fund.
+>
+> (5) In this regulation “fair value” in relation to an interest in a non-reporting fund means the amount which, at the time the value is to be determined, is the amount for which the interest could be exchanged between knowledgeable and willing parties dealing at arm’s length.
+
+.
+
+### 25. Amendment to regulation 92 (contents of report to participants)[^key-3a0171e7f590ab76e8cbea5884d8fd7d]
+
+(1) Amend regulation 92 (contents of report to participants) as follows.
+
+(2) In the heading after “participants” insert “: non-transparent funds”.
+
+(3) In paragraph (1) at the beginning insert “In the case of reporting funds which are not transparent funds,”.
+
+### 26. Insertion of regulation 92D (contents of reports to participants: transparent reporting funds)[^key-da54ea82393e03c113aa93f27e5d4aec]
+
+After regulation 92C (inserted by regulation 11 of these Regulations) insert—
+
+> **92D. Contents of reports to participants: transparent reporting funds**
+>
+> In the case of transparent reporting funds, the report to participants for a reporting period must—
+>
+> - (a) contain sufficient information to enable those participants to meet their tax obligations in the United Kingdom with respect to their interests in the fund, and
+> - (b) include a statement whether or not the fund remains a reporting fund at the date the fund makes the report available.
+
+.
+
+### 27. Amendment to regulation 106 (reporting requirements)[^key-6d2ced06354e4507b2af595f32a57e89]
+
+In regulation 106 (reporting requirements) in paragraph (1)—
+
+- (a) in sub-paragraph (a) omit “(see Chapter 4)”,
+- (b) in sub-paragraph (b) after “5” insert “or 6A, as the case may be”,
+- (c) in sub-paragraph (c) after “92(1)” insert “or 92D, as the case may be”.
+
+## PART 5 — Miscellaneous Amendments
+
+### 28. Amendment to regulation 4 (classification of offshore funds)[^key-0a92009dd63949c2ff334dec5e0e26ee]
+
+In regulation 4 (classification of offshore funds) in paragraph (2)—
+
+- (a) at the beginning insert “In a period of account”, and
+- (b) omit “for a period of account”.
+
+### 29. Amendment to regulation 12 (general interpretation)[^key-0d23a7a3c21afa23393e07302c17e9eb]
+
+In regulation 12 (general interpretation) after the definition of “prospectus” insert—
+
+> - “regulated market” has the same meaning as in Directive [2004/39/EC](https://www.legislation.gov.uk/european/directive/2004/0039) of the European Parliament and the Council on markets in financial instruments[^f00006] (see article 4.1(14));
+
+.
+
+### 30. Amendment to regulation 16 (treatment of certain amounts as distributions)[^key-16ec87d042f1d7848e64346f6dcb843e]
+
+In regulation 16 (treatment of certain amounts as distributions) in paragraph (2) for “94(2)” substitute “94(1) or (2)”.
+
+### 31. Amendment to regulation 54 (form, timing and withdrawal of application)[^key-a33cb4dfaa2e3443586247cbd0a8b98c]
+
+In regulation 54 (form, timing and withdrawal of application)[^f00007] for paragraphs (2) and (3) substitute—
+
+> (2) The application must be received by HMRC[^f00008] before the later of—
+>
+> - (a) the end of the first period of account for which it is proposed that this Part should apply to the fund, and
+> - (b) the expiry of a period of 3 months beginning with the first day on which interests in the fund are made available to investors resident in the United Kingdom.
+>
+> (3) The application may be withdrawn—
+>
+> - (a) at any time during a period beginning with the day the application is made and ending on the expiry of a period of 28 days beginning on the day on which HMRC give notice under regulation 55(1) or (5), or
+> - (b) at any later time, but before the end of the first reporting period, if HMRC are satisfied that the fund is not in breach of the requirements imposed by Part 3.
+
+.
+
+### 32. Amendment to regulation 57 (effects of entry into the reporting fund regime)[^key-8aeaba7dbb618069e075307236051397]
+
+(1) Amend regulation 57 (effects of entry into the reporting fund regime) as follows.
+
+(2) In paragraphs (1) at the end insert—
+
+> This paragraph and paragraphs (2) and (3) are subject to paragraph (4).
+
+.
+
+(3) At the end insert—
+
+> (4) Where an application has been withdrawn under regulation 54(3)(b), the fund and its participants shall be treated as if the fund had never been a reporting fund.
+
+.
+
+### 33. Amendment to regulation 67 (income from wholly-owned subsidiaries)[^key-34570b68af27e850b303f7b8e46654cd]
+
+In regulation 67 (income from wholly-owned subsidiaries) in paragraph (2)—
+
+- (a) in sub-paragraph (a) for “and beneficially” substitute “or indirectly”, and
+- (b) in sub-paragraph (b) after “directly” insert “or indirectly”.
+
+### 34. Amendment to regulation 68 (income from other reporting funds)[^key-9f306657fbc9998e554e7354ec1733bb]
+
+(1) Amend regulation 68 (income from other reporting funds) as follows.
+
+(2) In paragraph (3) for “specified in paragraphs (4) and (5)” substitute “in which the fund distribution date of RF2 falls or, if earlier, in which the date on which the reported income from RF2 in respect of that reporting period is recognised in the accounts of RF1”.
+
+(3) Omit paragraph (4).
+
+(4) In paragraph (5) for the words from “the fund” to “94(4)(b)” substitute “RF2 does not make a report available in accordance with regulation 90(5)”.
+
+### 35. Insertion of new regulation 68A (index tracking funds)[^key-a18082e92987896930bccdb1c72a8885]
+
+After regulation 68 insert—
+
+> **68A. Index tracking funds**
+>
+> (1) This regulation applies if—
+>
+> - (a) a reporting fund has an interest in a non-reporting fund, and
+> - (b) the conditions in paragraph (2) are met for a period of account.
+>
+> (2) The conditions are that—
+>
+> - (a) in accordance with the reporting fund’s rule or the instrument constituting the reporting fund, the aim of the fund’s investment policy is to replicate the performance of a qualifying index,
+> - (b) the main purpose of the investment in the non-reporting fund is to represent the composition of the qualifying index, and
+> - (c) the capital and income returns of the reporting fund replicate as closely as practicable the returns of the investments comprised in the qualifying index.
+>
+> (3) For the purposes of paragraph (2) an index is a “qualifying index” if—
+>
+> - (a) it is based solely on the value of securities listed on a recognised stock exchange or admitted to trading on a regulated market,
+> - (b) an authority responsible for regulating offshore funds recognises the index on the basis that—
+>   - (i) its composition is sufficiently diverse,
+>   - (ii) it represents an adequate benchmark for the market to which it refers, and
+>   - (iii) it is published in such a way that it is widely available, and
+> - (c) it is calculated and published by a body which is managed independently from the management of the reporting fund.
+>
+> (4) Regulations 69 to 71 do not apply in respect of the interest in the non-reporting fund.
+
+.
+
+### 36. Amendment to regulation 69 (income from non-reporting funds: first case)[^key-d7b7605911f79df6b0f32d0a356f0155]
+
+(1) Amend regulation 69 (income from non-reporting funds: first case) as follows.
+
+(2) In paragraph (2) omit sub-paragraph (a).
+
+(3) In paragraph (3) for “68” substitute “68(1) to (3)”.
+
+(4) After paragraph (4) insert—
+
+> (5) For the purposes of applying regulation 68, “fund distribution date” means the date six months after the end of the period of account in which the income arose.
+>
+> (6) If the period of account referred to in paragraph (5) is more than 12 months, there shall be two periods of account and two fund distribution dates for the purposes of applying regulation 68.
+>
+> The first fund distribution date is the date six months after the end of the first 12 months in the period of account.
+>
+> The second fund distribution date is the date six months after the end of the period of account in which the income arose.
+
+.
+
+### 37. Amendment to regulation 74 (the equivalence condition)[^key-b45a5f101d1597f7e0254465495593e9]
+
+(1) Amend regulation 74 (the equivalence condition) as follows.
+
+(2) In paragraph (1) for “or B” substitute “, B or C”.
+
+(3) At the end insert—
+
+> (4) Condition C is that the fund—
+>
+> - (a) is constituted in another EEA state and authorised by the competent authority in that state to market to retail or professional investors, and
+> - (b) is required either by the competent authority in that state or by other binding arrangements to limit its borrowing and its exposure under derivative contracts and forward transactions to 100% of its net asset value.
+>
+> (5) In paragraph (4), the competent authority in an EEA state is the authority designated in accordance with Article 97 of Council Directive [2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065)[^f00009] in relation to that fund.
+
+.
+
+### 38. Amendment to regulation 75 (the genuine diversity of ownership condition)[^key-b5a215c210599a0c0b04155f61aaef85]
+
+(1) Amend regulation 75 (the genuine diversity of ownership condition) as follows.
+
+(2) In paragraph (1) after “meets” insert “,or, in relation to a fund constituted by a class of interests in the main arrangements, the main arrangements meet,”.
+
+(3) At the end insert—
+
+> (5) A fund also meets the genuine diversity of ownership condition if—
+>
+> - (a) an investor in the fund is an offshore fund, an open-ended investment company or an authorised unit trust scheme (“the feeder fund”),
+> - (b) conditions A to C are met in relation to the fund after taking into account—
+>   - (i) the fund documents relating to the feeder fund, and
+>   - (ii) the intended investors in the feeder fund, and
+> - (c) the fund and the feeder fund have the same manager (or proposed manager).
+
+.
+
+### 39. Amendment to regulation 90 (report to participants for a reporting period)[^key-1a79062a14b5f7faccd2f24bde26012a]
+
+(1) Amend regulation 90 (report to participants for a reporting period) as follows.
+
+(2) In the following places before “participant” insert “relevant”—
+
+- (a) paragraph (1);
+- (b) paragraph (2)(a) and (b);
+- (c) paragraph (4) in the first place it occurs.
+
+(3) In paragraph (3) for “paragraph (2)(c)” substitute “this regulation”.
+
+### 40. Amendment to regulation 94 (reported income: general provisions)[^key-091f5e361d071b74d16c50d4591fdf2e]
+
+(1) Amend regulation 94 (reported income: general provisions) as follows.
+
+(2) In paragraph (2A)[^f00010] for “paragraph” substitute “paragraphs (1) and”.
+
+(3) In paragraph (3) after “date,” insert “or on such earlier date as the reported income in respect of that reporting period is recognised in the participant’s accounts,”.
+
+(4) After paragraph (3) insert—
+
+> (3A) If—
+>
+> - (a) a participant disposes of an interest in a reporting fund in a reporting period (“the earlier period”), and
+> - (b) section 106A of TCGA 1992 (identification of securities: capital gains tax)[^f00011] applies to identify the whole or any part of that interest with an interest acquired in the next reporting period,
+>
+> then, for the purposes of paragraph (3), the disposal of the interest so identified shall be ignored and the participant shall be treated as holding that interest at the end of the earlier period.
+
+.
+
+(5) In paragraph (4) for the words from “means—” to the end substitute “means the date six months following the last day of the reporting period”.
+
+### 41. Amendment to regulation 106 (reporting requirements)[^key-7b341b6561cd2a9311ff289e07029d3f]
+
+(1) Amend regulation 106 (reporting requirements) as follows.
+
+(2) In paragraph (1)(a) at the beginning insert “subject to paragraph (3),”.
+
+(3) At the end insert—
+
+> (3) A reporting fund may provide unaudited accounts for a period of account if HMRC[^f00012] are satisfied, in relation to that period, that—
+>
+> - (a) it would be impossible or unreasonable to provide audited accounts, and
+> - (b) there is no reason to believe that the unaudited accounts cannot be relied upon for the purposes of calculating reportable income.
+
+.
+
+### 42. Amendment to Schedule 1 (transitional provisions and savings)[^key-c53700fbaaad29d7a3ed9d16adebc2d5]
+
+(1) In Schedule 1 (transitional provisions and savings) amend paragraph 3 as follows.
+
+(2) For sub-paragraphs (2) and (3) substitute—
+
+> (2) The fund or any person within paragraph 18(1) of Schedule 27 to ICTA may apply in writing to HMRC for the fund to be treated as a distributing fund in respect of the overlap period or any earlier period of account.
+>
+> (3) If the fund or any person within paragraph 18(1) of Schedule 27 to ICTA has made a successful application under sub-paragraph (2), the fund or that person may apply in writing to HMRC for the fund to be continued to be treated as a distributing fund in respect of the succeeding period.
+>
+> (3ZA) But no application may be made under paragraph (3) if HMRC have accepted an application for Part 3 to apply to the fund.
+
+.
+
+(3) In sub-paragraph (3B)[^f00013] for “2011” substitute “2012”.
+
+### 43. Amendment to Schedule 3 (abbreviations and defined expressions)[^key-c9af25fbda26a8fdb459869b16ee483b]
+
+(1) Amend Schedule 3 (abbreviations and defined expressions) as follows.
+
+(2) In Part 1 (abbreviations of Acts) at the end insert—
+
+> |  |  |
+> | --- | --- |
+> | CTA 2010 | The Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4) |
+
+.
+
+(3) In Part 2 (index of expressions defined or otherwise explained in these Regulations)—
+
+- (a) in the definition of “investment transaction” omit “(in Part 3)”, and
+- (b) insert the following definitions in the appropriate places—
+
+  > |  |  |
+  > | --- | --- |
+  > | Accounting income (in Part 4) | Regulation 92B(6) |
+  > | Acquisition by way of initial purchase (in Part 4) | Regulation 72(4) |
+  > | Computation period (in Part 4) | Regulation 92C |
+  > | Equalisation amount per unit of interest (in Part 4) | Regulation 92(3)(ba) |
+  > | Equalisation amount (in Part 4) | Regulation 72(2) |
+  > | Fund operating equalisation arrangements (in Part 4) | Regulation 50A(a) |
+  > | Fund operating full equalisation arrangements (in Part 4) | Regulation 50A(b) |
+  > | Regulated market | Regulation 12 |
+  > | Transparent reporting fund | Regulation 89A(2) |
+
+  .
+
+## PART 6 — Amendments to Primary Legislation
+
+### 44. Amendment to the Taxation of Chargeable Gains Act 1992[^key-4fd513232beda80b276b2de46a67c958]
+
+(1) Amend the Taxation of Chargeable Gains Act 1992 as follows.
+
+(2) In section 103A (application of Act to certain offshore funds)[^f00014]—
+
+- (a) in subsection (2)(a) after “company” insert “or by two or more persons carrying on a trade or business in partnership”, and
+- (b) for subsection (3) substitute—
+
+  > (3) In this section and section 103B—
+  >
+  > - “offshore fund” has the meaning given in section 355 of TIOPA 2010[^f00015];
+  > - “participant”, in relation to a fund, has the meaning given in section 362(1) of that Act.
+
+  .
+
+(3) In Part 3, after section 103A insert—
+
+> **103B. Application of section 99B to transparent funds**
+>
+> (1) This section applies in relation to an offshore fund which is a transparent fund but is not a unit trust scheme (“the fund”).
+>
+> (2) Section 99B applies for the purposes of computing the gain accruing on a disposal by a participant of an interest in the fund and for all other provisions of this Act as if—
+>
+> - (a) the fund were a unit trust scheme,
+> - (b) the interest in the fund were units in a unit trust scheme (but not an authorised unit trust), and
+> - (c) the participant were a unit holder.
+>
+> (3) In this section “transparent fund” has the meaning given by the Offshore Funds (Tax) Regulations 2009 ([S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)) (see regulation 11).
+
+.
+
+(4) In section 106A (identification of securities: capital gains tax)[^f00016] in subsection (10), in the definition of “relevant securities”, for paragraph (c) substitute—
+
+> - (c) securities which are interests in a non-reporting fund, within the meaning of the Offshore Funds (Tax) Regulations 2009 ([S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)) (see regulation 4(2)).
+
+.
+
+### 45. Amendment to the Corporation Tax Act 2009[^key-e994d16d5586634a9faedc803ebfdbcc]
+
+In section 490 of the Corporation Tax Act 2009[^f00017] (holdings in OEICs, unit trusts and offshore funds treated as creditor relationship rights) in subsection (7)—
+
+- (a) for “But arrangements” substitute—
+
+  > But the following are not treated as such a holding—
+  >
+  > - (a) arrangements
+
+  , and
+- (b) for “are not treated as such a holding” substitute-
+
+  > , and
+  >
+  > - (b) a holding in an offshore fund (including a unit trust which is also an offshore fund) if the income arising to the fund is treated as the income of the company
+
+  .
+
+Michael Fabricant
+
+Angela Watkinson
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+4th May 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Offshore Funds (Tax) Regulations 2009 (“the principal Regulations”) which make provision for the tax treatment of participants in offshore funds.
+
+These Regulations are in six Parts, with Part 2 being divided into Chapters.
+
+Part 1 contains introductory provisions. Regulation 1 deals with citation, commencement and effect; regulation 2 introduces the amendments; regulation 3 sets out the structure of these Regulations and contains interpretation provisions.
+
+Part 2 concerns equalisation arrangements.
+
+Chapter 1 of Part 2 (consisting of regulations 4 to 13) makes amendments to the principal Regulations in relation to equalisation arrangements. Regulation 4 introduces the provisions. Regulation 5 inserts regulation 50A which defines the terms “equalisation arrangements”, “full equalisation arrangements” and “equalisation amount”. Regulation 6 amends regulation 53 to make provisions for statements to be made by an offshore fund in relation to equalisation arrangements on making an application to become a reporting fund. Regulation 7 amends regulation 55 to insert a reference to Chapter 6A (which is inserted into Part 3 of the principal regulations by these Regulations) and to provide for a case where Her Majesty’s Revenue and Customs (“HMRC”) must not accept an application from an offshore fund to become a reporting fund not operating equalisation arrangements.
+
+Regulation 8 inserts Chapter 2A into Part 3 of the principal Regulations. The inserted regulations 56A and 56B make provision for an offshore fund to amend a statement relating to equalisation made in its application to become a reporting fund and for an appeal against a refusal of such an application.
+
+Regulation 9 substitutes regulation 72 to make provision for the adjustments to the reportable income of a fund which operates equalisation arrangements on the acquisition or disposal of an interest in the fund. Regulation 10 amends regulation 92 to make provision for the information to be provided in the report to participants in relation to the equalisation arrangements operated by the fund and to provide how amounts to be reported are to be determined.
+
+Regulation 11 inserts regulations 92A, 92B and 92C which provide how the reported income per unit of the fund is to be calculated in the case of funds which do not operate equalisation arrangements. Regulation 12 inserts regulation 94A to make provision for the treatment of an equalisation amount where a participant has acquired an interest in a fund which operates full equalisation arrangements. Regulation 13 amends regulation 99 to reduce the acquisition cost of an interest where the amount of an actual distribution made to the participant has been treated as reduced by an equalisation amount.
+
+Chapter 2 of Part 2 (consisting of regulations 14 to 17) makes transitional provisions in relation to equalisation arrangements. Regulation 14 introduces the provisions. Regulation 15 provides that an existing reporting fund must give the statements relating to equalisation arrangements required by the amendments made to regulation 53(1) by these Regulations; the fund will then be treated as having operated equalisation arrangements, full equalisation arrangements or as not operating equalisation arrangements, as the case may be, in accordance with the statements given, from the time that the fund first became a reporting fund.
+
+Regulation 16 makes provision for special cases: it allows a fund to elect that the amendments made by Part 2 should not apply in relation to a reporting period which has ended before the Regulations come into force and makes provision for cases where no statement is given under regulation 15 or HMRC do not accept the statement is reasonable. Regulation 17 provides for an appeal against a refusal by HMRC to accept a statement.
+
+Part 3 (consisting of regulations 18 to 20) makes provision for a new exception from the charge to tax under regulation 17 of the principal Regulations in relation to the disposal of interests in offshore funds investing in certain unlisted trading companies. Regulation 18 introduces the Part and regulation 19 inserts regulations 31A to 31C into the principal Regulations to provide for the exception. Regulation 20 amends regulation 81 to extend the meaning of investment transaction so that it will apply for the purposes of these provisions.
+
+Part 4 (consisting of regulations 21 to 27) makes provision in relation to transparent funds. Regulation 21 introduces the amendments. Regulation 22 amends regulation 49 to insert a reference to Chapter 6A (inserted into Part 3 of the principal Regulations by these Regulations) and disapply Chapters 4 to 6 of Part 3 of the principal regulations in relation to reporting funds which are transparent funds. Regulation 23 makes consequential amendments to regulation 58.
+
+Regulation 24 inserts Chapter 6A which contains regulations 89A to 89E which explain how reportable income is to be computed in the case of reporting funds which are transparent funds. Inserted regulation 89A contains an introduction and a definition of “transparent reporting fund”. Inserted regulation 89B requires transparent reporting funds to provide a computation of reportable income for a period of account and provides a general rule to identify the sums comprised in the reportable income of such funds. Inserted regulations 89C to 89E make provision for those sums to be adjusted in relation to income from other reporting funds and income from non-reporting funds.
+
+Regulation 25 makes consequential amendments to regulation 92. Regulation 26 inserts regulation 92F to make provision in relation to the information to be contained in the report to participants in a transparent reporting fund. Regulation 27 makes consequential amendments to regulation 106.
+
+Part 5 (consisting of regulations 28 to 41) contains miscellaneous amendments. Regulation 28 amends regulation 4 to clarify the definition of non-reporting fund. Regulation 29 amends regulation 12 to insert a definition of “regulated market”. Regulation 30 amends regulation 16 to clarify the amounts to be treated as distributions to participants. Regulation 31 amends regulation 54 to amend the time limits for making and withdrawing an application to become a reporting fund. Regulation 32 amends regulation 57 to make provision to ensure that where an application to become a reporting fund has been withdrawn the fund and its participants are treated as though the fund had never been a reporting fund.
+
+Regulation 33 amends regulation 67 to extend the adjustment to be made to the reportable income of a reporting fund to income from wholly owned subsidiaries where the shares are owned indirectly by the fund or a trustee. Regulation 34 amends regulation 68 to amend the period of account in which income adjustments in relation to income from another fund are to be made. Regulation 35 inserts 68A which disapplies the adjustments made to reportable income in relation to income from non-reporting funds in certain cases where the reporting fund tracks an recognised index of listed securities. Regulation 36 amends regulation 69 to amend the conditions to be satisfied for the regulation to apply and to specify the period of account in which an income adjustment is to be made.
+
+Regulation 37 extends the equivalence condition in regulation 74. Regulation 38 extends the genuine diversity of ownership condition in regulation 75. Regulation 39 extends the use of the defined term “relevant participant” in regulation 90. Regulation 40 amends regulation 94 to amend the date when an additional distribution is treated as made in certain cases and amends the definition of “fund distribution date”. Regulation 41 amends regulation 106 to permit a fund to provide unaudited accounts to HMRC in certain cases.
+
+Regulation 42 amends Schedule 1 to extend the transitional provisions. Regulation 43 amends Schedule 3 to include the abbreviated reference to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4) and expressions defined or otherwise explained in the amendments made by these Regulations to the principal Regulations.
+
+Part 6 (consisting of regulations 44 and 45) makes provision for consequential amendments to primary legislation.
+
+A Tax Information and Impact Note covering this instrument will be published on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm .
+
+## Annotations
+
+[^f00001]: Footnote: [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8).
+
+[^key-a347e70c0872d7e379c33a021f836c26]: Commencement: Reg. 1 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-f32dd3898e79801e45d85c94448810cd]: Commencement: Reg. 2 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001), amended by [S.I 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139); there is another amending instrument but it is not relevant. These Regulations are referred to in the footnotes to these Regulations as “the principal Regulations”.
+
+[^key-6c4200dbda069163d1c7db2b50cb0d1c]: Commencement: Reg. 3 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-1a3a05320864cce443653cee723df666]: Commencement: Reg. 4 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-d6b00db1d60c6b02a5a9252c83ef18aa]: Commencement: Reg. 5 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-5cdde956560a3041655a35061db3699e]: Commencement: Reg. 6 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00003]: Footnote: “HMRC” is defined in regulation 12 of the principal Regulations.
+
+[^key-11f4b08f0279b30e63f8d55ca48fd7d1]: Commencement: Reg. 7 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-53ee78e3d59358c63ebf87658fb3dc51]: Commencement: Reg. 8 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-d05334dcea08526c106feb96361364c9]: Commencement: Reg. 9 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-d245c50efe596b8735b9170c2bd930dc]: Commencement: Reg. 10 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-6c1f88c00dbf1d58a0a6198edbf0f20e]: Commencement: Reg. 11 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00004]: Footnote: “HMRC” is defined in regulation 12 of the principal Regulations.
+
+[^key-a6951e73a15d29d249e8d8214fec544c]: Commencement: Reg. 12 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-9af72ac7a3dbcf80e3ac3983b0dd9f7f]: Commencement: Reg. 13 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-016e55cf6038b83f05b7536c9f307e13]: Commencement: Reg. 14 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-901a981a87a18dd60929f37fa8514433]: Commencement: Reg. 15 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-83c8f825d82b7eb6114f219a302a33a6]: Textual amendment: Words in reg. 15(2) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2013/1411/regulation/15) (with [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3/4))
+
+[^key-ebe52a688ab3dc7ed0f31e5034e8d80f]: Commencement: Reg. 16 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-8321a00ccd8c5ffe0300d0675770915f]: Commencement: Reg. 17 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-d2b92e8ea4826f9b4ae4819bb73abc24]: Commencement: Reg. 18 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-8b844d82428a395cbec1899e4373f4b9]: Commencement: Reg. 19 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00005]: Footnote: “TCGA 1992” is an abbreviation for the Taxation of Chargeable Gains Act [1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12) given in Part 1 of Schedule 3 to the principal Regulations; Schedule 7AC was inserted by paragraph 1 of Schedule 8 to the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^key-d8628d10c93c959c102cacc06d685915]: Commencement: Reg. 20 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-219625f11b2f6d26345aeda04f0464ed]: Commencement: Reg. 21 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-ab35bedee33071cd55dde0c41a234a32]: Commencement: Reg. 22 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-4ac303fe974be2929580a2a5ed01c941]: Commencement: Reg. 23 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-96a20831d85ad09b0c911ded7f9ebb3f]: Commencement: Reg. 24 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-3a0171e7f590ab76e8cbea5884d8fd7d]: Commencement: Reg. 25 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-da54ea82393e03c113aa93f27e5d4aec]: Commencement: Reg. 26 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-6d2ced06354e4507b2af595f32a57e89]: Commencement: Reg. 27 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-0a92009dd63949c2ff334dec5e0e26ee]: Commencement: Reg. 28 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-0d23a7a3c21afa23393e07302c17e9eb]: Commencement: Reg. 29 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00006]: Footnote: OJ No L 145, 30.4.2004, p1.
+
+[^key-16ec87d042f1d7848e64346f6dcb843e]: Commencement: Reg. 30 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-a33cb4dfaa2e3443586247cbd0a8b98c]: Commencement: Reg. 31 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00007]: Footnote: Regulation 54 has been amended by [S.I. 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139).
+
+[^f00008]: Footnote: “HMRC” is defined in regulation 12 of the principal Regulations.
+
+[^key-8aeaba7dbb618069e075307236051397]: Commencement: Reg. 32 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-34570b68af27e850b303f7b8e46654cd]: Commencement: Reg. 33 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-9f306657fbc9998e554e7354ec1733bb]: Commencement: Reg. 34 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-a18082e92987896930bccdb1c72a8885]: Commencement: Reg. 35 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-d7b7605911f79df6b0f32d0a356f0155]: Commencement: Reg. 36 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-b45a5f101d1597f7e0254465495593e9]: Commencement: Reg. 37 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00009]: Footnote: OJ No L 302, 17.11.2009, p32.
+
+[^key-b5a215c210599a0c0b04155f61aaef85]: Commencement: Reg. 38 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-1a79062a14b5f7faccd2f24bde26012a]: Commencement: Reg. 39 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-091f5e361d071b74d16c50d4591fdf2e]: Commencement: Reg. 40 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00010]: Footnote: Paragraph (2A) was inserted by [S.I. 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139).
+
+[^f00011]: Footnote: Section 106A was inserted by section 124(1) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36).
+
+[^key-7b341b6561cd2a9311ff289e07029d3f]: Commencement: Reg. 41 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00012]: Footnote: “HMRC” is defined in regulation 12 of the principal Regulations.
+
+[^key-c53700fbaaad29d7a3ed9d16adebc2d5]: Commencement: Reg. 42 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00013]: Footnote: Paragraph (3B) was inserted by [S.I. 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139).
+
+[^key-c9af25fbda26a8fdb459869b16ee483b]: Commencement: Reg. 43 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^key-4fd513232beda80b276b2de46a67c958]: Commencement: Reg. 44 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00014]: Footnote: Section 103A was inserted by paragraph 8 of Schedule 22 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
+
+[^f00015]: Footnote: “TIOPA 2010” is defined as the Taxation (International and Other Provisions) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8) in section 288 of the Taxation of Chargeable Gains Act 1992. The definition is inserted by paragraph 319 of Schedule 8 to the Taxation (International and Other Provisions) Act 2010.
+
+[^f00016]: Footnote: Section 106A was inserted by section 124(1) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36).
+
+[^key-e994d16d5586634a9faedc803ebfdbcc]: Commencement: Reg. 45 in force at 27.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1)
+
+[^f00017]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).

@@ -1,0 +1,129 @@
+---
+title: The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025
+id: uksi/2025/1154
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2025-11-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2025/1154
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/1154/pdfs/uksiem_20251154_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/1154/pdfs/uksi_20251154_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/1154/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2025 No. 1154
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025
+
+Made
+
+3rd November 2025
+
+Laid before Parliament
+
+4th November 2025
+
+Coming into force
+
+3rd December 2025
+
+The Treasury make the following Order in exercise of the powers conferred by sections 22(1) and (5) and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000[^f00001].
+
+## 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025.
+
+(2) This Order comes into force on 3rd December 2025.
+
+(3) This Order extends to England and Wales, Scotland and Northern Ireland.
+
+## 2. Amendment of the Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025
+
+(1) The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025[^f00002] is amended as follows.
+
+(2) In article 3 (amendment of the Regulated Activities Order) in paragraph (2), in new article 36FB (activities in relation to certain regulated credit agreements)—
+
+- (a) in paragraph (1), omit the words from “, unless” to the end of the paragraph;
+- (b) omit paragraphs (2) and (3);
+- (c) in paragraph (4), omit the definition of “customer”.
+
+(3) In article 6 (interpretation of Part 4), in the definition of “relevant activity”—
+
+- (a) in paragraph (a) omit “36A (credit broking) or”;
+- (b) in paragraph (b) for “activities specified by those articles”, substitute “activities specified by that article”.
+
+(4) After article 6 insert—
+
+> **6A. Transitional provision: person with Part 4A permission to carry on an activity in relation to article 60B**
+>
+> (1) Subject to paragraph (3), where a person has a Part 4A permission to carry on an activity specified by article 60B[^f00003] (regulated credit agreements) of the Regulated Activities Order immediately before the regulatory commencement date (“the permission”), then on or after that date the permission is to be treated as permission to carry on an activity of a kind specified by that article as it has effect following the amendments made by this Order.
+>
+> (2) Subject to paragraph (3), where a person has a Part 4A permission to carry on an activity specified by article 64[^f00004] (agreeing to carry on specified kinds of activity) of the Regulated Activities Order, so far as it relates to the activities specified by article 60B of that Order immediately before the regulatory commencement date (“the permission”), then on or after that date the permission is to be treated as permission to carry on an activity of a kind specified by article 64 so far as it relates to the activities specified by article 60B as it has effect following the amendments made by this Order.
+>
+> (3) A Part 4A permission that is treated as having been varied in accordance with paragraph (1) or (2) remains subject to any limitation or requirement imposed in relation to that permission which was in force immediately before the regulatory commencement date.
+>
+> (4) Paragraphs (1) to (3) do not affect the ability of the FCA to—
+>
+> - (a) vary or cancel a Part 4A permission under the 2000 Act or;
+> - (b) impose, vary or cancel a requirement in relation to a Part 4A permission under the 2000 Act.
+
+.
+
+(5) In article 10(3) (temporary permission)—
+
+- (a) in sub-paragraph (c)(i)—
+  - (i) after “in respect of article”, omit “36A or”;
+  - (ii) for “activities specified by those articles”, substitute “activity specified by that article”.
+- (b) in sub-paragraph (d)(i)—
+  - (i) after “in respect of article”, omit “36A or”;
+  - (ii) for “activities specified by those articles”, substitute “activity specified by that article”.
+
+(6) In article 11 (application of the 2000 Act to persons with temporary permission)—
+
+- (a) in paragraph (4), in the words following sub-paragraph (b) for “some or all”, substitute “either or both”;
+- (b) in paragraph (5) for “some or all”, substitute “either or both”.
+
+Taiwo Owatemi
+
+Gen Kitchen
+
+Two of the Lords Commissioners of His Majesty's Treasury
+
+3rd November 2025
+
+Explanatory Note
+
+(This note is not part of the Order)
+
+This Order amends the Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 ([S.I. 2025/859](https://www.legislation.gov.uk/uksi/2025/859)) (“**the 2025 Order**”), which provides for certain deferred payment credit agreements, also referred to as “**buy-now-pay-later**” agreements, to become regulated credit agreements within the meaning of article 60B(3) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ([S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544)) (“**RAO**”).
+
+Article 2(2) of this Order provides that domestic premises suppliers are excluded from article 36A (credit broking) of the RAO when carrying on activities in relation to a regulated deferred payment credit agreement, under article 36FB of the RAO inserted by the 2025 Order. The effect is that all credit broking activities carried on in relation to a regulated deferred payment credit agreement are now excluded from article 36A of the RAO.
+
+Article 2(4) of this Order makes amendments relating to the transition to the new regime to regulate deferred payment credit agreements. It provides that when a person has a Part 4A permission immediately before the regulatory commencement date, 15th July 2026, to carry on an activity specified by article 60B (regulated credit agreements) of the RAO or article 64 (agreeing to carry on specified kinds of activity) of the RAO, that permission is to be treated as permission to carry on an activity of a kind specified by that article as it has effect following the amendments made by this Order.
+
+A full impact assessment of the effect that the 2025 Order will have on the costs of business, the voluntary sector and the public sector is available from His Majesty’s Treasury, 1 Horse Guards Road, London SW1A 2HQ or on www.gov.uk and is published alongside the 2025 Order on www.legislation.gov.uk.
+
+A de minimis impact assessment of the effect of this instrument is available from HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ and is published alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Paragraph 25 of Schedule 2 was amended by section 8 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and section 27 of the Financial Guidance and Claims Act [2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10). Section 428 was amended by section 66 of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29).
+
+[^f00002]: Footnote: [S.I. 2025/859](https://www.legislation.gov.uk/uksi/2025/859).
+
+[^f00003]: Footnote: Article 60B was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), and the definition of “credit agreement” was substituted by [S.I. 2014/1850](https://www.legislation.gov.uk/uksi/2014/1850).
+
+[^f00004]: Footnote: Article 64 was amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682), [2006/3384](https://www.legislation.gov.uk/uksi/2006/3384), [2009/1389](https://www.legislation.gov.uk/uksi/2009/1389), [2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [2017/488](https://www.legislation.gov.uk/uksi/2017/488), [2018/135](https://www.legislation.gov.uk/uksi/2018/135) and [2018/1253](https://www.legislation.gov.uk/uksi/2018/1253).

@@ -1,0 +1,343 @@
+---
+title: The Lord President of the Council Order 2010
+id: uksi/2010/1837
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-07-21'
+text_date: '2013-01-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/1837
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1837/pdfs/uksiem_20101837_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1837/pdfs/uksi_20101837_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1837/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Lord President of the Council Order 2010
+
+> Text as at 2013-01-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 1837
+
+Ministers Of The Crown
+
+The Lord President of the Council Order 2010
+
+Made
+
+21st July 2010
+
+Laid before Parliament
+
+28th July 2010
+
+Coming into force
+
+18th August 2010
+
+At the Court at Buckingham Palace, the 21st day of July 2010
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred by sections 1 and 2 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of Her Privy Council, to order as follows:—
+
+## 1. Citation and commencement[^key-47312ecfc16712291042c313976d4c44]
+
+(1) This Order may be cited as the Lord President of the Council Order 2010.
+
+(2) This Order comes into force on 18th August 2010.
+
+## 2. Interpretation etc[^key-f235977e2455126270cda976a1c8ceaf]
+
+(1) In this Order—
+
+- “instrument” includes, in particular, Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, licences, authorisations, consents, approvals, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents;
+- “the Lord President” means the Lord President of the Council.
+
+(2) This Order does not affect the validity of anything done (or having effect as if done) by or in relation to a Minister of the Crown, or the department or an officer of a Minister of the Crown, before the coming into force of this Order.
+
+## 3. Functions of the Secretary of State to be exercisable concurrently with the Lord President[^key-65d0dc24fa9e8307ffc8fd7e9776a2bd]
+
+(1)[^key-eed696082ebb3e36bbefc71c9328f8b5][^key-afd9d659c77e39a87412fe68be4956c6] The Secretary of State’s functions under the following enactments, and any instrument having effect under any of those enactments, are to be exercisable concurrently with the Lord President[^f00002]—
+
+- (a) the Representation of the People Act 1983[^f00003], excluding sections 10ZA, 54 and 161 and rules 3(3) and 51(6) in Schedule 1;
+- (b) the Representation of the People Act 1985[^f00004], excluding sections 6 to 10;
+- (c) the Parliamentary Constituencies Act 1986[^f00005];
+- (d) section 17A of the Greater London Authority Act 1999[^f00006];
+- (e) the Representation of the People Act 2000[^f00007];
+- (f) sections 44 and 45 of the Local Government Act 2000[^f00008];
+- (g) the European Parliamentary Elections Act 2002[^f00009];
+- (h) the European Parliament (Representation) Act 2003[^f00010];
+- (i) the Electoral Administration Act 2006[^f00011], excluding section 63;
+- (j) the Political Parties and Elections Act 2009[^f00012], excluding sections 9(9) to (11) and 19(5) to (7).
+
+(2) The functions covered by paragraph (1) include any functions under any provision not yet in force at the time this Order is made (and in paragraph (1)(a) to (j) a reference to an enactment includes a reference to the enactment as amended by any provision of an enactment or instrument passed or made before that time even though the amending provision is not yet in force at that time).
+
+(3) In the following paragraphs “relevant function” means a function covered by paragraph (1) so far as—
+
+- (a) at the time this Order is made, it is entrusted to the Secretary of State for Justice, and
+- (b) at the coming into force of this Order, it becomes entrusted to the Lord President from the Secretary of State for Justice by virtue of a decision taken before this Order is made.
+
+(4) There are transferred to the Lord President all property, rights and liabilities to which the Secretary of State for Justice is entitled or subject at the coming into force of this Order in connection with any relevant function.
+
+(5) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Secretary of State for Justice may, so far as it relates to any relevant function or anything transferred by paragraph (4), be continued by or in relation to the Lord President.
+
+(6) Anything done (or having effect as if done) by or in relation to the Secretary of State for Justice in connection with any relevant function or anything transferred by paragraph (4) has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Lord President.
+
+(7) Documents or forms printed for use in connection with any relevant function may be used in connection with the exercise of that function by the Lord President even though they contain, or are to be read as containing, references to the Secretary of State for Justice; and for the purposes of the use of any such documents or forms in connection with the exercise of that function by the Lord President, those references are to be read as references to the Lord President.
+
+(8) So far as necessary for the purposes of or in consequence of paragraph (1) or (4) or the entrusting to the Lord President of any relevant function, any enactment or instrument passed or made before the coming into force of this Order has effect as if references to (and references which are to be read as references to)—
+
+- (a) the Secretary of State (but not a particular Secretary of State), or
+- (b) the Secretary of State for Justice,
+
+were or included references to the Lord President.
+
+(9) In paragraphs (5) to (8)—
+
+- (a) references to the Secretary of State or the Secretary of State for Justice include references to the department or an officer of the Secretary of State or that Secretary of State, and
+- (b) references to the Lord President are to be read as including references to the Cabinet Office or an officer in the Cabinet Office accordingly.
+
+## 4. Transfer of functions from the Lord Chancellor to the Lord President[^key-88c7d29a83f6060ee8cd88ed072a0b1c]
+
+(1) The following functions of the Lord Chancellor are transferred to the Lord President[^f00013]—
+
+- (a) functions under section 1(2) of the Chartered Associations (Protection of Names and Uniforms) Act 1926[^f00014];
+- (b) functions under section 2(4) of the Lieutenancies Act 1997[^f00015];
+- (c) functions under section 2(2)(b) of the Political Parties, Elections and Referendums Act 2000[^f00016];
+- (d) any function which arises under a charter which provides for the incorporation or establishment of an organisation or body.
+
+(2) The functions under the Political Parties, Elections and Referendums Act 2000, and any instrument having effect under that Act, that are exercisable concurrently by the Secretary of State and the Lord Chancellor are instead to be exercisable concurrently by the Secretary of State and the Lord President[^f00017].
+
+(3) The functions covered by paragraph (2) include any functions under any provision not yet in force at the time this Order is made (and the reference to the 2000 Act includes a reference to that Act as amended by any provision of an enactment or instrument passed or made before that time even though the amending provision is not yet in force at that time).
+
+(4) There are transferred to the Lord President all property, rights and liabilities to which the Lord Chancellor is entitled or subject at the coming into force of this Order in connection with any function covered by paragraph (1) or (2).
+
+(5) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Lord Chancellor may, so far as it relates to any function covered by paragraph (1) or (2) or anything transferred by paragraph (4), be continued by or in relation to the Lord President.
+
+(6) Anything done (or having effect as if done) by or in relation to the Lord Chancellor in connection with any function covered by paragraph (1) or (2) or anything transferred by paragraph (4) has effect, so far as necessary for continuing its effect after the coming into force of this Order, as if done by or in relation to the Lord President.
+
+(7) Documents or forms printed for use in connection with any function covered by paragraph (1) or (2) may be used in connection with the exercise of that function by the Lord President even though they contain, or are to be read as containing, references to the Lord Chancellor; and for the purposes of the use of any such documents or forms in connection with the exercise of that function by the Lord President, those references are to be read as references to the Lord President.
+
+(8) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as necessary for the purposes of or in consequence of paragraph (1), (2) or (4), as if references to (and references which are to be read as references to) the Lord Chancellor were or included references to the Lord President.
+
+(9) In paragraphs (5) to (8) references to the Lord Chancellor include references to the department or an officer of the Lord Chancellor; and references to the Lord President are to be read as including references to the Cabinet Office or an officer in the Cabinet Office accordingly.
+
+## 5. Consequential amendments[^key-54e1dc9edbf179e4dfa66b8bbf23a377]
+
+The Schedule has effect.
+
+Judith Simpson
+
+Clerk of the Privy Council
+
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS
+
+Article 5
+
+### 1. Chartered Associations (Protection of Names and Uniforms) Act [1926 (c. 26)](https://www.legislation.gov.uk/ukpga/1926/26)[^key-0712a30a3bcc2396fd7a8cb1c1f23faf]
+
+In section 1(2)[^f00018] of the Chartered Associations (Protection of Names and Uniforms) Act 1926 for “Lord Chancellor” (wherever occurring) substitute “Lord President of the Council”.
+
+### 2. Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)[^key-1294637aaff52910d066cf69e1d81dc4]
+
+At the beginning of Part 5 of the Representation of the People Act 1983 insert—
+
+> **199ZA.** Functions of the Lord President of the Council
+>
+> - See the Lord President of the Council Order 2010 by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Lord President of the Council.
+
+### 3. Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50)[^key-d3b7817c870584725ea541fec746e64f]
+
+After section 27(2) of the Representation of the People Act 1985 insert—
+
+> (2ZA) See the Lord President of the Council Order 2010 by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Lord President of the Council.
+
+### 4. Parliamentary Constituencies Act [1986 (c. 56)](https://www.legislation.gov.uk/ukpga/1986/56)[^key-38812596e69d1684180b16523dc675ed]
+
+Before section 7 of the Parliamentary Constituencies Act 1986 insert—
+
+> **6B. Functions of the Lord President of the Council**
+>
+> See the Lord President of the Council Order 2010 by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Lord President of the Council.
+
+### 5. Lieutenancies Act [1997 (c. 23)](https://www.legislation.gov.uk/ukpga/1997/23)[^key-2f2d4cabfbe3a8e10e6a39f422d46716]
+
+In section 2(4)[^f00019] of the Lieutenancies Act 1997 for “Lord Chancellor” substitute “Lord President of the Council”.
+
+### 6. Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29)[^key-f06cc603f24de0c5f3aebe56f7cc8738]
+
+In section 17A(3) and (6)[^f00020] of the Greater London Authority Act 1999 after “Secretary of State” insert “or the Lord President of the Council”.
+
+### 7. Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2)[^key-f13f3964d12005631488a8df9555e334]
+
+After section 16 of the Representation of the People Act 2000 insert—
+
+> **16A. Functions of the Lord President of the Council**
+>
+> See the Lord President of the Council Order 2010 by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Lord President of the Council.
+
+### 8. Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22)[^key-a4ea68e9b6ddaca8b60b4cf148a789ac]
+
+At the end of Part 2 of the Local Government Act 2000 insert—
+
+> **48A.** Functions of the Lord President of the Council
+>
+> - See the Lord President of the Council Order 2010 by virtue of which functions of the Secretary of State under sections 44 and 45 are exercisable concurrently with the Lord President of the Council.
+
+### 9. Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^key-ba07e7757cbd9d145e2ef760721d8443]
+
+In the following provisions of the Political Parties, Elections and Referendums Act 2000 for “Lord Chancellor” substitute “Lord President of the Council”—
+
+- (a) section 2(2)(b)[^f00021];
+- (b) section 159A[^f00022] and the heading to that section;
+- (c) paragraph 2(1)(c) of Schedule 2[^f00023].
+
+### 10. European Parliamentary Elections Act [2002 (c. 24)](https://www.legislation.gov.uk/ukpga/2002/24)[^key-f7595c3d3093cd4ebc8d4961fa3acde3]
+
+Before section 17 of the European Parliamentary Elections Act 2002 insert—
+
+> **16B. Functions of the Lord President of the Council**
+>
+> See the Lord President of the Council Order 2010 by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Lord President of the Council.
+
+### 11. European Parliament (Representation) Act [2003 (c. 7)](https://www.legislation.gov.uk/ukpga/2003/7)[^key-856bd3565ca90c204162117f7cf530ef]
+
+Before section 27 of the European Parliament (Representation) Act 2003 insert—
+
+> **26A. Functions of the Lord President of the Council**
+>
+> See the Lord President of the Council Order 2010 by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Lord President of the Council.
+
+### 12. Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22)[^key-e8790067c967a33b855d6febf1c83a6c]
+
+After section 74 of the Electoral Administration Act 2006 insert—
+
+> **74A. Functions of the Lord President of the Council**
+>
+> See the Lord President of the Council Order 2010 by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Lord President of the Council.
+
+### 13. Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12)[^key-1a240a9c44ac95811917a8f563a0ddf3]
+
+After section 38 of the Political Parties and Elections Act 2009 insert—
+
+> **38A.** Functions of the Lord President of the Council
+>
+> - See the Lord President of the Council Order 2010 by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Lord President of the Council.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order in Council is made under sections 1 and 2 of the Ministers of the Crown Act 1975.
+
+The Order makes provision for various functions of the Secretary of State in relation to elections, political parties and related matters to be exercisable concurrently with the Lord President of the Council (“the Lord President”), including some functions that have been exercisable concurrently by the Secretary of State and the Lord Chancellor. It also transfers some miscellaneous functions from the Lord Chancellor to the Lord President. It also makes supplementary provision in connection with these matters.
+
+Article 3 provides for functions of the Secretary of State under the Representation of the People Act 1983 (except sections 10ZA, 54 and 161 and rules 3(3) and 51(6) in Schedule 1), the Representation of the People Act 1985 (except sections 6 to 10), the Parliamentary Constituencies Act 1986, section 17A of the Greater London Authority Act 1999, the Representation of the People Act 2000, sections 44 and 45 of the Local Government Act 2000, the European Parliamentary Elections Act 2002, the European Parliament (Representation) Act 2003, the Electoral Administration Act 2006 (except section 63) and the Political Parties and Elections Act 2009 (except sections 9(9) to (11) and 19(5) to 7)) to be exercisable concurrently with the Lord President. It also provides for the transfer to the Lord President of property, rights and liabilities of the Secretary of State for Justice (who has principally exercised the functions in question) and makes supplementary provision for continuity in relation to the exercise of those functions and any property, rights or liabilities transferred.
+
+Article 4 transfers to the Lord President functions of the Lord Chancellor under section 1(2) of the Chartered Associations (Protection of Names and Uniforms) Act 1926, section 2(4) of the Lieutenancies Act 1997 and section 2(2)(b) of the Political Parties, Elections and Referendums Act 2000, and functions arising under certain charters, and provides for functions under the Political Parties, Elections and Referendums Act 2000 which are exercisable concurrently by the Secretary of State and Lord Chancellor to be exercisable concurrently by the Secretary of State and Lord President instead. It also provides for the transfer to the Lord President of property, rights and liabilities of the Lord Chancellor connected with the functions in question and makes supplementary provision for continuity in relation to the exercise of those functions and any property, rights or liabilities transferred.
+
+Article 5 and the Schedule make consequential amendments to relevant legislation.
+
+Nothing in this Order alters the functions of the Welsh Ministers, the Scottish Ministers or the devolved authorities in Northern Ireland.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26). In relation to functions of the Lord Chancellor, section 1 was amended by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), s. 20.
+
+[^key-47312ecfc16712291042c313976d4c44]: Commencement: Art. 1 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-f235977e2455126270cda976a1c8ceaf]: Commencement: Art. 2 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-65d0dc24fa9e8307ffc8fd7e9776a2bd]: Commencement: Art. 3 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-eed696082ebb3e36bbefc71c9328f8b5]: Modification: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2010/1837/article/3/1) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(11)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/11), [19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2)
+
+[^key-afd9d659c77e39a87412fe68be4956c6]: Modification: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2010/1837/article/3/1) modified (31.1.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/25/2), [27(3)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/3)
+
+[^f00002]: Footnote: Provision relating to these functions that is relevant to this Order was made by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), art. 11(1) and [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), art. 4.
+
+[^f00003]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
+
+[^f00004]: Footnote: [1985 c. 50](https://www.legislation.gov.uk/ukpga/1985/50).
+
+[^f00005]: Footnote: [1986 c. 56](https://www.legislation.gov.uk/ukpga/1986/56).
+
+[^f00006]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^f00007]: Footnote: [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2).
+
+[^f00008]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
+
+[^f00009]: Footnote: [2002 c. 24](https://www.legislation.gov.uk/ukpga/2002/24).
+
+[^f00010]: Footnote: [2003 c. 7](https://www.legislation.gov.uk/ukpga/2003/7).
+
+[^f00011]: Footnote: [2006 c. 22](https://www.legislation.gov.uk/ukpga/2006/22).
+
+[^f00012]: Footnote: [2009 c. 12](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^key-88c7d29a83f6060ee8cd88ed072a0b1c]: Commencement: Art. 4 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^f00013]: Footnote: Provision relating to these functions that is relevant to this Order was made by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), art. 3 and [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), art. 11(2).
+
+[^f00014]: Footnote: [1926 c. 26](https://www.legislation.gov.uk/ukpga/1926/26).
+
+[^f00015]: Footnote: [1997 c. 23](https://www.legislation.gov.uk/ukpga/1997/23).
+
+[^f00016]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41).
+
+[^f00017]: Footnote: Provision relating to these functions that is relevant to this Order was made by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), art. 11(1).
+
+[^key-54e1dc9edbf179e4dfa66b8bbf23a377]: Commencement: Art. 5 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-0712a30a3bcc2396fd7a8cb1c1f23faf]: Commencement: Sch. para. 1 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^f00018]: Footnote: Section 1(2) was amended by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), Sch. 2.
+
+[^key-1294637aaff52910d066cf69e1d81dc4]: Commencement: Sch. para. 2 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-d3b7817c870584725ea541fec746e64f]: Commencement: Sch. para. 3 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-38812596e69d1684180b16523dc675ed]: Commencement: Sch. para. 4 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-2f2d4cabfbe3a8e10e6a39f422d46716]: Commencement: Sch. para. 5 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^f00019]: Footnote: Section 2(4) was amended by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), Sch. 2. By virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), the functions of a Minister of the Crown under section 2(4) are exercisable by the Scottish Ministers in or as regards Scotland.
+
+[^key-f06cc603f24de0c5f3aebe56f7cc8738]: Commencement: Sch. para. 6 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^f00020]: Footnote: Section 17A was inserted by the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), s. 14. Section 17A(3) was amended by [S.I. 2001/648](https://www.legislation.gov.uk/uksi/2001/648), Sch. 1.
+
+[^key-f13f3964d12005631488a8df9555e334]: Commencement: Sch. para. 7 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-a4ea68e9b6ddaca8b60b4cf148a789ac]: Commencement: Sch. para. 8 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-ba07e7757cbd9d145e2ef760721d8443]: Commencement: Sch. para. 9 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^f00021]: Footnote: Section 2(2)(b) was amended by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Sch. 2.
+
+[^f00022]: Footnote: Section 159A was inserted by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Sch. 2 and amended by [S.I. 2008/1319](https://www.legislation.gov.uk/uksi/2008/1319), art. 4(2).
+
+[^f00023]: Footnote: Paragraph 2(1)(c) was amended by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Sch. 2.
+
+[^key-f7595c3d3093cd4ebc8d4961fa3acde3]: Commencement: Sch. para. 10 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-856bd3565ca90c204162117f7cf530ef]: Commencement: Sch. para. 11 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-e8790067c967a33b855d6febf1c83a6c]: Commencement: Sch. para. 12 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)
+
+[^key-1a240a9c44ac95811917a8f563a0ddf3]: Commencement: Sch. para. 13 in force at 18.8.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2)

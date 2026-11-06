@@ -1,0 +1,659 @@
+---
+title: The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012
+id: uksi/2012/3122
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2012-12-17'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/3122
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/3122/pdfs/uksiem_20123122_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/3122/pdfs/uksi_20123122_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/3122/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2012/3122
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 3122
+
+Financial Services And Markets
+
+The Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012
+
+Made
+
+17th December 2012
+
+Laid before Parliament
+
+18th December 2012
+
+Coming into force
+
+15th January 2013
+
+[^c21492501][^c21492511] The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services.
+
+The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, make the following Regulations:[^key-be42be90ab057baf47eaed4c972c02f0][^key-cbc1f35683bf8ec88072fb386202719f]
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 and come into force on 15th January 2013.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2000 Act**” means the Financial Services and Markets Act 2000 [^c21492521];
+- “**the Authority**” means the Financial Conduct Authority[^key-288148d1e7856048dbe84e894f7291b4];
+- “**the 2009[^key-81d7bb4999f3901400431e53c2f40ec2] Regulation**” means Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/eur/2009/924) of the European Parliament and of the Council on cross-border payments in the Community and repealing Regulation 2560/2001 [^c21492531];
+- “**the 2012[^key-5e2f9f3badbd912f77595f1e66c99e7d] Regulation**” means Regulation (EU) No 260/2012 of the European Parliament and of the Council on establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/eur/2009/924) [^c21492541];
+- “the Regulations” means the 2009 Regulation or the 2012 Regulation;[^key-056bd99dec39315944c283b4692d7698]
+- “**payment services**”, “**payment service provider**”, “**payment service user**” and “**payment system**” have the same meaning as in the Payment Services Regulations 2017[^key-c32d0d58aa805f5bcdb3fac7d23494f8].
+
+(2) Expressions used in these Regulations and in a modification to a provision in primary or secondary legislation applied by these Regulations have the same meaning as in these Regulations.
+
+## 3. Functions of the Authority
+
+The Authority is to have the functions conferred on it by these Regulations.
+
+## 4. Monitoring and enforcement
+
+(1) The Authority must maintain arrangements designed to enable it to determine whether payment service providers on whom requirements are imposed by the Regulations[^key-8465e132644d6dfc40cd32d84bb2c3a4] are complying with them.
+
+(2) The arrangements referred to in paragraph (1) may provide for functions to be performed on behalf of the Authority by any body or person who is, in its opinion, competent to perform them.
+
+(3) The Authority must also maintain arrangements for enforcing the provisions of these Regulations.
+
+(4) Paragraph (2) does not affect the Authority's duty under paragraph (1).
+
+## 5. Public censure
+
+If the Authority considers that a payment service provider has contravened a requirement imposed on it by the Regulations the Authority may publish a statement to that effect.
+
+## 6. Financial penalties
+
+(1) The Authority may impose a penalty of such amount as it considers appropriate on a payment service provider who has contravened a requirement imposed on it by the Regulations.
+
+(2) A penalty under this regulation is a debt due from that payment service provider to the Authority and is recoverable accordingly.
+
+## 7. Proposal to take disciplinary measures
+
+(1) Where the Authority proposes to publish a statement under regulation 5 or to impose a penalty under regulation 6, it must give the payment service provider concerned a warning notice.
+
+(2) The warning notice must set out the terms of the proposed statement or state the amount of the proposed penalty.
+
+(3) If, having considered any representations made in response to the warning notice, the Authority decides to publish a statement under regulation 5 or to impose a penalty under regulation 6, it must without delay give the payment service provider concerned a decision notice.
+
+(4) The decision notice must set out the terms of the statement or state the amount of the penalty.
+
+(5) After a statement under regulation 5 is published, the Authority must send a copy of it to the payment service provider concerned and to any person to whom a copy of the decision notice was given under section 393(4) of the 2000 Act (third party rights) (as applied by paragraph 5 of the Schedule to these Regulations).
+
+## 8. Injunctions
+
+(1) If, on the application of the Authority, the court is satisfied—
+
+- (a) that there is a reasonable likelihood that a payment service provider will contravene a requirement imposed by the Regulations; or
+- (b) that a payment service provider has contravened such a requirement and that there is a reasonable likelihood that the contravention will continue or be repeated,
+
+the court may make an order restraining (or in Scotland, an interdict prohibiting) the contravention.
+
+(2) If, on the application of the Authority, the court is satisfied—
+
+- (a) that a payment service provider has contravened a requirement imposed by the Regulations, and
+- (b) that there are steps which could be taken for remedying the contravention,
+
+the court may make an order requiring that person, and any other person who appears to have been knowingly concerned in the contravention, to take such steps as the court may direct to remedy it.
+
+(3) If, on the application of the Authority, the court is satisfied that—
+
+- (a) a payment service provider may have contravened a requirement imposed by the Regulations, or
+- (b) any person may have been knowingly concerned in the contravention of such a requirement,
+
+it may make an order restraining (or in Scotland, an interdict prohibiting) them from disposing of, or otherwise dealing with, any assets of theirs which it is satisfied they are reasonably likely to dispose of or otherwise deal with.
+
+(4) The jurisdiction conferred by this regulation is exercisable by the High Court and the Court of Session.
+
+(5) In paragraph (2), references to remedying a contravention include references to mitigating its effect.
+
+## 9. Power of Authority to require restitution
+
+(1) The Authority may exercise the power in paragraph (2) if it is satisfied that a payment service provider has contravened a requirement imposed by the Regulations, or has been knowingly concerned in the contravention of such a requirement, and that—
+
+- (a) profits have accrued to the payment service provider concerned as a result of the contravention; or
+- (b) one or more persons have suffered loss or been otherwise adversely affected as a result of the contravention.
+
+(2) The power referred to in paragraph (1) is a power to require the payment service provider concerned, in accordance with such arrangements as the Authority considers appropriate, to pay to the appropriate person or distribute among the appropriate persons such amount as appears to the Authority to be just having regard—
+
+- (a) in a case within sub-paragraph (a) of paragraph (1), to the profits appearing to the Authority to have accrued;
+- (b) in a case within sub-paragraph (b) of paragraph (1), to the extent of the loss or other adverse effect;
+- (c) in a case within both of those sub-paragraphs, to the profits appearing to the Authority to have accrued and to the extent of the loss or other adverse effect.
+
+(3) In paragraph (2) “**appropriate person**” means a person appearing to the Authority to be someone—
+
+- (a) to whom the profits mentioned in paragraph (1)(a) are attributable; or
+- (b) who has suffered the loss or adverse effect mentioned in paragraph (1)(b).
+
+## 10. Proposal to require restitution
+
+(1) If the Authority proposes to exercise the power under regulation 9(2), it must give the payment service provider concerned a warning notice.
+
+(2) The warning notice must state the amount which the Authority proposes to require the payment service provider to pay or distribute as mentioned in regulation 9(2).
+
+(3) If, having considered any representations made in response to the warning notice, the Authority decides to exercise the power under regulation 9(2), it must without delay give the person a decision notice.
+
+(4) The decision notice must—
+
+- (a) state the amount that the payment service provider concerned is to pay or distribute;
+- (b) identify the person to whom that amount is to be paid or among whom that amount is to be distributed; and
+- (c) state the arrangements in accordance with which the payment or distribution is to be made.
+
+## 11. Reference to the Upper Tribunal
+
+If the Authority decides to—
+
+- (a) publish a statement under regulation 5;
+- (b) impose a penalty under regulation 6; or
+- (c) exercise the power under regulation 9(2),
+
+the payment service provider concerned may refer the matter to the Upper Tribunal.
+
+## 12. Complaints
+
+(1) The Authority must maintain arrangements designed to enable payment service users and other interested parties to submit complaints to it that a requirement imposed by the Regulations has been breached by a payment service provider.
+
+(2) Where it considers it appropriate, the Authority must include in any reply to a complaint under paragraph (1) details of the ombudsman scheme established under Part 16 of the 2000 Act (the Ombudsman Scheme).
+
+## 13. Compliance by operators of payment systems
+
+The provisions in regulations 4 to 11, and in the 2000 Act as applied and modified by the Schedule to these Regulations, apply to operators of payment systems in respect of requirements imposed by Article 4(2) of the 2012 Regulation[^key-54809f33802c541dbd1c08e73bd9038c] as they apply to payment service providers.
+
+## 14. Costs of supervision
+
+(1) The functions of the Authority under these Regulations are to be treated for the purposes of paragraph 23 of Part 3 of Schedule 1ZA[^key-b7ebafc7ef8d92e654d5364d3100747c] to the 2000 Act (fees) as functions conferred on the Authority under that Act.
+
+(2) The 2000 Act applies in relation to those functions with the following modifications—
+
+- (a) section 1B(5)(a) (regulatory principles to be applied by[^key-40dd60d4e287902c723dd30e188362d3] FCA) does not apply to the making of rules under paragraph 23 of Part 3 of Schedule 1ZA[^key-c0ba3d7c54e8a7942226b4ffd5e9da7c] by virtue of this regulation;
+- (b) rules made under paragraph 23 of Part 3 of Schedule 1ZA by virtue of this regulation are not to be treated as regulating provisions for the purposes of section 140A(1)[^key-f95ed598deeaa797d456eea33cc5a8b3] (competition scrutiny: interpretation); and
+- (c) paragraph 23(7) of Part 3 of Schedule 1ZA[^key-52a23bf934e3212ccbbd1657406e304f] are omitted.
+
+(3)[^key-eddb92d3f5d287134aeb003f01cffa24] The Authority must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under regulation 6.
+
+(4) The Treasury may give directions to the Authority as to how the Authority is to comply with its duty under paragraph (3).
+
+(5) The directions may in particular—
+
+- (a) specify the time when any payment is required to be made to the Treasury, and
+- (b) require the Authority to provide the Treasury at specified times with information relating to penalties that the Authority has imposed under regulation 6.
+
+(6) The Treasury must pay into the Consolidated Fund any sums received by them under this regulation.
+
+## 15. Guidance
+
+(1) The Authority may give guidance consisting of such information and advice as it considers appropriate with respect to—
+
+- (a)[^key-e575a96abb3fbd1e6a658afbec0ccc0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the operation of these Regulations;
+- (c) any matters relating to the functions of the Authority under these Regulations;
+- (d) any other matters about which it appears to the Authority to be desirable to give information or advice in connection with these Regulations.
+
+(2) The Authority may—
+
+- (a) publish its guidance;
+- (b) offer copies of its published guidance for sale at a reasonable price; and
+- (c) if it gives guidance in response to a request made by any person, make a reasonable charge for that guidance.
+
+## 16. Authority's exemption from liability in damages
+
+The functions of the Authority under these Regulations are to be treated for the purposes of paragraph 25[^key-2c5b7b94172f72a28160c772f7d8b38f] (exemption from liability in damages) of Part 4 of Schedule 1ZA to the 2000 Act as functions conferred on the Authority under that Act.
+
+## 17. Exchange of information[^key-c329164cfe2ae3c1865e01288262134d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Civil proceedings
+
+(1)[^key-8a7e5f80fcb91f311bd777d1f9de3d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Any contravention by a payment service provider of—
+
+- (a) Article 5(3) or 5(8); or
+- (b) Article 8(1),
+
+in the 2012 Regulation is actionable at the suit (or in Scotland, the instance) of a private person who suffers loss as a result of the contravention, subject to the defences and other incidents applying to actions for breach of statutory duty.
+
+(3) A person acting in a fiduciary or representative capacity may bring an action under paragraph (1) or (2) on behalf of a private person if any remedy—
+
+- (a) will be exclusively for the benefit of the private person; and
+- (b) cannot be obtained by way of an action brought otherwise than at the suit (or in Scotland, the instance) of the fiduciary or representative.
+
+(4) In this regulation “**private person**” means—
+
+- (a) any individual, except where the individual suffers the loss in question in the course of providing payment services; and
+- (b) any person who is not an individual, except where that person suffers the loss in question in the course of carrying on business of any kind;
+
+but does not include a government, a local authority (in the United Kingdom or elsewhere) or an international organisation.
+
+## 19. Derogations under the 2012 European Regulation[^key-1294169c0873d15417d3dec07f54ba81]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Application to Gibraltar
+
+These Regulations apply in relation to any branch in the UK of a firm which—
+
+- (a) has its head office in Gibraltar; and
+- (b) is authorised in Gibraltar to provide payment services,
+
+as they apply in relation to a payment service provider.
+
+## 21. Application and modification of primary and secondary legislation
+
+The provisions of primary and secondary legislation set out in the Schedule apply in respect of the Authority's functions under these Regulations with the modifications set out in the Schedule.
+
+## 22. Revocation and savings
+
+(1) Subject to paragraph (2), the Cross-Border Payments in Euro Regulations 2010 [^c21492591] (“**the 2010 Regulations**”) are revoked.
+
+(2) The revocation referred to in paragraph (1) does not affect—
+
+- (a) any action brought by—
+  - (i) the Authority using its powers under regulations 4 to 10 of, and the Schedule to, the 2010 Regulations;
+  - (ii) a person under regulation 17 of the 2010 Regulations; or
+- (b) any references made to the Upper Tribunal under regulation 11 of the 2010 Regulations,
+
+before 1st February 2013.
+
+David Evennett
+
+Desmond Swayne
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE — Application and modification of legislation
+
+Regulation 21
+
+### PART 1 — Application and modification of the 2000 Act
+
+#### 1. Disciplinary powers
+
+Sections 66 (disciplinary powers) to 70 (statements of policy: procedure) of the 2000 Act apply with the following modifications—
+
+- (a)[^M_F_56b87576-6f90-4aae-a081-104160f7540e] in section 66 omit subsections (1A)(b), (3)(aa) to (ac), (3A) to (3D), (5A), (8) and (9);
+- (aa) for section 66A substitute—
+
+  > **66A.** (1) A person (“P”) is guilty of misconduct if, while a relevant person, P has been knowingly concerned in a contravention by a payment service provider of either or both—
+  >
+  > - (a) Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/eur/2009/0924) of the European Parliament and of the Council on cross-border payments in the Community and repealing Regulation [(EC) No 2560/2001](https://www.legislation.gov.uk/eur/2001/2560);
+  > - (b) Regulation (EU) No 260/2012 of the European Parliament and of the Council establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/eur/2009/0924).
+  >
+  > (2) “Relevant person” means any person responsible for the management of the payment service provider or, where relevant, any person responsible for the management of the payment service provider’s payment services activities.
+
+  ;
+- (ab) omit section 66B;
+- (b) in section 67—
+  - (i) in subsections (1) and (4), omit the words “and if it” to the end;
+  - (ii)[^key-60c08c1fa7c752af2b646c006790944d] omit subsections (2A), (2B), (5A) and (5B);
+  - (iii) in subsection (7), omit the words from “and if the regulator[^key-c6b60733447f7532c83f75b47564662d]” to the end; and
+  - (iv) omit subsections (8) and (9);
+- (c) at the end of section 69 (statement of policy) insert—
+
+  > (9) Until such time as a statement has been issued in respect of the imposition and amount of penalties under section 66 as applied by paragraph 1 of the Schedule to the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 (“**the 2012 Regulations**”), the statement issued in respect of the imposition and amount of penalties under section 66 as applied by paragraph 1 of the Schedule to the Cross-Border Payments in Euro Regulations 2010 shall apply for the purposes of the 2012 Regulations.
+
+  .
+
+#### 2. Information gathering and investigations
+
+Part 11 of the 2000 Act (information gathering and investigations) applies with the following modifications—
+
+- (a) in section 165 ( regulator’s[^key-e5fff1db9fd3c872d09e99c7f75b16aa] power to require information: authorised persons etc)—
+  - (i) for references to “an authorised person” substitute “ a payment service provider ”;
+  - (ii) in subsection (4), for “this Act” substitute “ the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 ”;
+  - (iii) in subsection (7) omit paragraphs (b), (c) and (d)[^key-5d7908f143b492b576297ff3bd4f2ae2]; and
+  - (iv) for subsection (8), substitute—
+
+    > (8) “**Payment service provider**” has the meaning given by regulation 2 of the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012.
+
+    ;
+- (b) omit section 165A (PRA[^key-ca15495408449ba1872e7398c0051a59]'s power to require information: financial stability), 165B (safeguards etc in relation to exercise of power under section 165A) and 165C (orders under section 165A(2)(d));
+- (c)[^key-9bd8f374ea75035a0964ee5c08e929b7] in sections 166 (reports by skilled persons) and 166A (appointment of skilled person to collect and update information)—
+  - (i) for “an authorised person” in each place those words appear, substitute “a payment service provider (within the meaning given by regulation 2 of the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012)”;
+  - (ii) omit subsections (10) and (11) of section 166;
+- (d) omit section 167 (appointment of persons to carry out general investigations);
+- (e) in section 168 (appointment of persons to carry out investigations in particular cases)—
+  - (i) in subsection (1)—
+    - (aa) for paragraph (a) substitute—
+
+      > - (a) a payment service provider may have contravened any requirement imposed by either—
+      >   - (i) Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924) of the European Parliament and of the Council on cross-border payments in the Community and repealing Regulation [(EC) No 2560/2001](https://www.legislation.gov.uk/european/regulation/2001/2560); or
+      >   - (ii) Regulation (EU) No 260/2012 of the European Parliament and Council establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924);
+
+      ;
+    - (bb) in paragraph (b) omit from “191F”[^key-a97ca1a457efc974de965401e3dee07f] to the end;
+  - (ii) omit subsections (2), (4) and (5); and
+  - (iii)[^key-b545cbec312c9447d3e0b20353da7e28] for subsection (6), substitute—
+
+    > (6) “Investigating authority” means the FCA.
+
+    ;
+- (f) omit section 169 (investigations etc in support of overseas regulator) and section 169A (support of overseas regulator with respect to financial stability);
+- (g) in section 170 (investigations: general)—
+  - (i) in subsection (1) for “section 167 or 168(3) or (5)” substitute “ section 168(3) ”;
+  - (ii) in subsection (3)(a) omit “or (4)”;
+  - (iii) omit subsection (3)(b); and
+  - (iv) for subsection (10) substitute—
+
+    > (10) “**Investigating authority**”, in relation to an investigator, means the Authority.
+
+    ;
+- (h) omit section 171 (powers of persons appointed under section 167);
+- (i) in the heading and subsection (4) of section 172 (additional power of persons appointed as a result of section 168(1) or (4)), omit “or (4)”;
+- (j) omit section 173 (powers of persons appointed as a result of section 168(2));
+- (k) in section 174 (admissibility of statements made to investigators)—
+  - (i) in subsection (2) omit “or in proceedings in relation to action to be taken against that person under section 123”;
+  - (ii) in subsection (3)(a) omit “or 398”;
+  - (iii) in subsection (4), for “section 167 or 168(3) or (5)” substitute “ section 168(3) ”;
+  - (iv) in subsection (5) for “section 171, 172, 173 or 175” substitute “ section 172 or 175 ”;
+- (l) in subsection (8) of section 175 (information and documents: supplemental provisions) for “section 167 or 168(3) or (5)” substitute “ section 168(3) ”;
+- (m) in section 176 (entry of premises under warrant)—
+  - (i) in subsection (1)—
+    - (aa) omit “the Secretary of State,”; and
+    - (bb) for “the first, second or third” substitute “ the first or second ”;
+  - (ii) in subsection (3)(a) for “an authorised person or an appointed representative” substitute “ a payment service provider ”;
+  - (iii) omit subsection (4);
+  - (iv) in subsection (10) for “section 167 or 168(3) or (5)” substitute “ section 168(3) ”;
+  - (v) in subsection (11)(a) omit “87C, 87J,” and “,165A,169A”;
+  - (vi) in subsection (11)(b) for “section 171, 172, 173 or 175” substitute “ section 172 or 175 ”; and
+- (n) in subsection (5)(a) of section 177 (offences), for “six months” substitute “ three months ”.
+
+#### 3. Disciplinary measures[^key-da8724770107b675b34c3f92f1a4f4e4]
+
+Sections 210 (statements of policy) and 211 (statements of policy: procedure) apply in respect of the imposition and amount of penalties under regulation 6 as they apply in respect of the imposition and amount of penalties under section 206 (financial penalties) of the 2000 Act with the following modifications to section 210—
+
+- (a) a reference to a regulator is to the FCA; and
+- (b) after subsection (8) insert—
+
+  > (9) Until such time a statement of policy has been issued in respect of the imposition and amount of penalties under regulation 6 of the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012, any statement issued under this section as applied by paragraph 3 of the Schedule to the Cross-Border Payments in Euro Regulations 2010 shall also apply for the purposes of this section.
+
+  .
+
+#### 4. Restriction on disclosure of information
+
+Sections 348, 349 and 352 of the 2000 Act apply with the following modifications—
+
+- (a) in section 348—
+  - (i) in subsection (2)(b) for the words from “, the PRA[^key-5e6f09b657c4e64dbdc263e952665dc8]” to the end substitute “ under the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012. ”;
+  - (ii) in subsection (3)(a) for “this Act” substitute “ the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 ”;
+  - (iii) in subsection (5)—
+    - (aa) for “this Part”, substitute “ the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012 ”;
+    - (bb) omit paragraphs (aa)[^key-c2b04f069cb27b94cde3bffa00aca0be] and (c);
+    - (cc)[^key-2e268748c2867fae4803777ad2aaf2a6] for paragraph (d), substitute—
+
+      > - (d) a person appointed to make a report under section 166 or 166A;
+
+      ;
+    - (dd) in paragraph (e) for “paragraphs (a) to (c)” substitute “ paragraph (a) ”; and
+    - (ee) in paragraphs (ea) and (f)[^key-bfa262838742713b14d275927c46dd5d], for “those paragraphs” substitute “ that paragraph ”;
+  - (iv)[^key-12b1e2cd31c57f5531c67c09de491ec2] for subsection (6) substitute—
+
+    > (6) In subsection (5)(f), “expert” includes any body or person appointed under regulation 4(2) of the Payment in Euros (Credit Transfers and Direct Debits) Regulations 2012.
+
+    ;
+- (b) in section 349 omit subsections (3A) and (3B).
+
+#### 5. Warning notices and decision notices
+
+Part 26 of the 2000 Act (notices) applies with the following modifications—
+
+- (a) omit section 388(2) (decision notices);
+- (b) in section 390 (final notices)—
+  - (i) omit subsections (6) and (10); and
+  - (ii) in subsection (8) omit “or (6)(c)”;
+- (c) in section 391 (publication), omit subsections (5), (5A), (6A),[^key-ab6e3f0f16dfc87e0c71074c395bcde9] (7A), (7B), (8) and (10);
+- (d) for section 392 (application of sections 393 and 394) substitute—
+
+  > **392.** **Application of sections 393 and 394**
+  >
+  > Sections 393 and 394 apply to—
+  >
+  > - (a) a warning notice given in accordance with regulation 7(1) or 10(1) of the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012;
+  > - (b) a decision notice given in accordance with regulation 7(3) or 10(3) of the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012.
+
+  ; and
+- (e) in section 395 (the FCA[^key-0fadadce695998f22dfc1aa2bac7787a]’s and PRA’s procedures)—
+  - (i) omit subsections (1)(a), (3) and (4);
+  - (ii) in subsection (9) omit “a supervisory notice, or”; and
+  - (iii) for subsection (13) substitute—
+
+    > (13) Until such time as a statement has been issued in accordance with subsection (5), the procedures applicable to the giving of warning notices under section 395 as applied by paragraph 5 of the Schedule to the Cross-Border Payments in Euro Regulations 2010, shall apply to the giving of warning notices under regulations 7(1) and 10(1), and decision notices under regulations 7(3) and 10(3), of the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012.
+
+    .
+
+#### 6. Limitation on power to require documents
+
+Section 413 of the 2000 Act (protected items) applies for the purposes of these Regulations as it applies for the purposes of that Act.
+
+### PART 2 — Application and modification of the 2000 Act in respect of the Upper Tribunal
+
+**7.** Part 9 (hearings and appeals) of the 2000 Act applies in respect of any references to the Upper Tribunal made under regulation 11 as it applies in respect of references made to that Tribunal under that Act, with the following modifications—
+
+- (a) in section 133A (proceedings before Tribunal: decision and supervisory notices etc)—
+  - (i) in subsection (1) omit “, as a result of section 388(2),”, and
+  - (ii)[^key-0f8937d28becf72af468d62214890b53] omit subsection (5); and
+- (b) omit sections 134 to 136 (legal assistance before the Tribunal).
+
+### PART 3 — Application and modification of secondary legislation
+
+#### 8. The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001
+
+The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001 [^c21492601] apply to any notice, direction or document of any kind given by or to the Authority under these Regulations as they apply to any notice, direction or document of any kind given by the Authority[^key-3e6e1269aff7bb6cb9721529e6b005e2] under the 2000 Act.
+
+#### 9. The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001
+
+The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 [^c21492611] apply with the following modifications—
+
+- (a) in paragraph (a) of the definition of “third country regulatory authority”[^key-c46daa52ae81bdb6dcf4fab12d431ddd] in regulation 2, after “of the Act” insert—
+
+  > or an authority in a country or territory outside the United Kingdom which exercises any function of a kind corresponding to a function[^key-bd6f61ecbb8c5535b68b38487a3768a2] conferred under national legislation in the implementation of either—
+  >
+  > - (a) Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924) of the European Parliament and of the Council on cross-border payments in the Community and repealing Regulation [(EC) No 2560/2001](https://www.legislation.gov.uk/european/regulation/2001/2560); or
+  > - (b) Regulation (EU) No 260/2012 of the European Parliament and Council establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924);
+
+  ;
+- (b) in regulation 5(4)(a) for “an authorised person, former authorised person or former regulated person” substitute “ a payment service provider or former payment service provider (within the meaning of regulation 2 of the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012) ”;
+- (c) in regulation 5(6)(e) for “an authorised person, former authorised person or former regulated person” substitute “ a payment service provider or former payment service provider (within the meaning of regulation 2 of the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012) ”;
+- (d) in regulation 8 after sub-paragraph (b) insert—
+
+  > - (c) confidential information received by the Authority in the course of discharging its functions corresponding to[^key-22e4d32c0ffab71780071b90cf539e61] either—
+  >   - (i) Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924) of the European Parliament and of the Council on cross-border payments in the Community and repealing Regulation [(EC) No 2560/2001](https://www.legislation.gov.uk/european/regulation/2001/2560); or
+  >   - (ii) Regulation (EU) No 260/2012 of the European Parliament and Council establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924);
+
+  ;
+- (e) in regulation 9—
+  - (i) in paragraph (1) for “(3),(3A), (3C) and (4)” substitute “ (3), (3A) and (4) ”; and
+  - (ii) after paragraph (4) insert—
+
+    > (4A) Paragraph (1) does not permit disclosure to the persons specified in the first column in Part 5 of Schedule 1 unless the disclosure is of confidential information received by the Authority in the course of discharging its functions as corresponding to[^key-f9c7fe3b901bb41837415c766a1d23ad] either—
+    >
+    > - (a) Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924) of the European Parliament and of the Council on cross-border payments in the Community and repealing Regulation [(EC) No 2560/2001](https://www.legislation.gov.uk/european/regulation/2001/2560); or
+    > - (b) Regulation (EU) No 260/2012 of the European Parliament and Council establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924).
+
+    ;
+- (f) in regulation 11 after sub-paragraph (e) insert—
+
+  > - (f) confidential information received by the Authority in the course of discharging its functions corresponding to[^key-c7903688736672d6151bc6f2c427817e] either—
+  >   - (i) Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924) of the European Parliament and of the Council on cross-border payments in the Community and repealing Regulation [(EC) No 2560/2001](https://www.legislation.gov.uk/european/regulation/2001/2560); or
+  >   - (ii) Regulation (EU) No 260/2012 of the European Parliament and Council establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924);
+
+  ;
+- (g) in the second column in Part 1 of Schedule 1, in the list of functions beside—
+  - (i) “An official receiver appointed under section 399 of the Insolvency Act 1986, or an official receiver for Northern Ireland appointed under article 355 of the Insolvency (Northern Ireland) Order 1989”, after paragraph (ii) insert—
+
+    > or
+    >
+    > - (iii) payment service providers or former payment service providers
+
+    ;
+  - (ii) “The Department for the Economy in Northern Ireland”[^key-91607a795726b1068d6f39be44834755] , after paragraph (c)(ii) insert—
+
+    > or
+    >
+    > - (iii) payment service providers or former payment service providers
+
+    ;
+  - (iii) “The Pensions Regulator”, after paragraph (ii) insert—
+
+    > or
+    >
+    > - (iii) payment service providers or former payment service providers
+
+    ;
+  - (iv) “The Charity Commissioners for England and Wales”, after paragraph (ii) insert—
+
+    > or
+    >
+    > - (iii) payment service providers or former payment service providers
+
+    ; and
+- (h) in Schedule 1, after Part 4 insert—
+
+  > **PART 5**
+  >
+  > | *Person* | *Function* |
+  > | --- | --- |
+  > | The Commissioners for Her Majesty's Revenue and Customs | Their functions under the Money Laundering Regulations 2007 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made pursuant to the United Kingdom's obligations under Regulation [(EC) No. 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924) of the European Parliament and of the Council (OJ No L266, 9.10.2009, p11) (“**the 2009 European Regulation**”) and Regulation (EU) No 260/2012 of the European Parliament and Council (OJ No L94, 30.3.2012, p22) (“**the 2012 European Regulation**”). The 2009 European Regulation lays down rules on cross-border payments in euro; the 2012 European Regulation sets business and technical standards for payments in euro wherever they take place.
+
+- (i) Regulations 3 to 17 confer functions on the Financial Services Authority (“FSA”) in relation to the supervision and enforcement of the 2009 and 2012 European Regulations. These include the requirement to maintain arrangements for determining whether compliance is being breached, powers to gather information, impose penalties or disciplinary measures, apply to court for an injunction and require restitution. The FSA is also required to maintain arrangements for dealing with complaints and has power to issue guidance and exchange information with other competent authorities in the European Union in order to resolve disputes. Provision is made for the FSA's supervisory costs and its exemption from liability in damages.
+- (j) Regulation 18 makes provision for civil proceedings to be brought in cases where a person has suffered a loss due to an institution breaching certain articles of the European Regulations.
+- (k) Regulation 19 provides for a derogation under Article 16(3) and (4) of the 2012 European Regulation to apply so that the requirements of Articles 8(2) and (3) of that Regulation do not apply until 1st<sup></sup>February 2016. (The derogations under Article 16(2) and (8), applying to Member States which do not have the euro as their currency, mean that the requirements of Articles 3, 4 and 5 of the 2012 European Regulation do not apply until 31st October 2016.)
+- (l) Regulation 20 makes provision for the application of these Regulations to UK branches of Gibraltar-based firms.
+- (m) Regulation 21 and the Schedule apply certain provisions of the Financial Services and Markets Act 2000 (c.8) and secondary legislation (with modifications) in respect of the FSA's functions.
+- (n) Regulation 22 revokes, with savings, the Cross-Border Payments in Euro Regulations 2010 (S.I. 2010/89).
+
+An impact assessment on the effect of the 2012 European Regulation has been prepared and is available on HM Treasury's website (www.hm-treasury.gov.uk).
+
+## Annotations
+
+[^c21492501]: Marginal citation: [The European Communities (Designation) Order 2012 (S.I. 2012/1759)](https://www.legislation.gov.uk/uksi/2012/1759).
+
+[^c21492511]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2012/3122/section/2/2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of and Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (2008 c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^key-be42be90ab057baf47eaed4c972c02f0]: Modification: Regulations: power to revoke conferred (31.12.2020) by [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [reg. 15](https://www.legislation.gov.uk/uksi/2018/1199/regulation/15) (as amended by ([S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301)), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/5/b)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cbc1f35683bf8ec88072fb386202719f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/3122): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c21492521]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Relevant amending instruments are the [Financial Services Act 2010 (c. 2)](https://www.legislation.gov.uk/ukpga/2010/2), [sections 12(1) to (4)](https://www.legislation.gov.uk/ukpga/2010/2/section/12/1),13(1) to (4) and 24(1) and (2) and Schedule 2, paragraphs 1, 8 to 10, 15 to17, 20 and 26; [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209), [S.I](https://www.legislation.gov.uk/uksi/2009/209/section/I). 2010/22, [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99) and [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916).
+
+[^key-288148d1e7856048dbe84e894f7291b4]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/2)
+
+[^key-81d7bb4999f3901400431e53c2f40ec2]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/2/1) substituted (31.12.2020) by [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/3/2/a) (as substituted by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/2/a)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21492531]: Marginal citation: OJ No L 266, 9.10.2009, p.11.
+
+[^key-5e2f9f3badbd912f77595f1e66c99e7d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/2/1) substituted (31.12.2020) by [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/3/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21492541]: Marginal citation: OJ No L 94, 30.3.2112, p.22.
+
+[^key-056bd99dec39315944c283b4692d7698]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/2/1) substituted (31.12.2020) by [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/3/2/b) (as substituted by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(2)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/2/b)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c32d0d58aa805f5bcdb3fac7d23494f8]: Textual amendment: Word in reg. 2(1) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-8465e132644d6dfc40cd32d84bb2c3a4]: Textual amendment: Words in [regs. 4-18](https://www.legislation.gov.uk/uksi/2012/3122/regulation/4) substituted (31.12.2020) by [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/3/3/a) (as substituted by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/3)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-54809f33802c541dbd1c08e73bd9038c]: Textual amendment: Words in [regs. 4-18](https://www.legislation.gov.uk/uksi/2012/3122/regulation/4) substituted (31.12.2020) by [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/3/3/b) (as substituted by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/3)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b7ebafc7ef8d92e654d5364d3100747c]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/14/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(3)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/3/a)
+
+[^key-40dd60d4e287902c723dd30e188362d3]: Textual amendment: Words in [reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/14/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(3)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/3/b)
+
+[^key-c0ba3d7c54e8a7942226b4ffd5e9da7c]: Textual amendment: Words in [reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/14/2/a)[(b)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/14/2/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(3)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/3/a)
+
+[^key-f95ed598deeaa797d456eea33cc5a8b3]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/14/2/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(3)(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/3/c)
+
+[^key-52a23bf934e3212ccbbd1657406e304f]: Textual amendment: Words in [reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/14/2/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(3)(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/3/d)
+
+[^key-eddb92d3f5d287134aeb003f01cffa24]: Textual amendment: [Reg. 14(3)-(6)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/14/3) substituted for [reg. 14(3)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/14/3) (1.4.2013) by [The Payment to Treasury of Penalties Regulations 2013 (S.I. 2013/429)](https://www.legislation.gov.uk/uksi/2013/429), [regs. 1](https://www.legislation.gov.uk/uksi/2013/429/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2013/429/regulation/2/7)
+
+[^key-e575a96abb3fbd1e6a658afbec0ccc0b]: Textual amendment: [Reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/15/1/a) omitted (31.12.2020) by virtue of [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/3/5/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2c5b7b94172f72a28160c772f7d8b38f]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2012/3122/regulation/16) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(4)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/4)
+
+[^key-c329164cfe2ae3c1865e01288262134d]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/3122/regulation/17) omitted (31.12.2020) by virtue of [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/3/5/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8a7e5f80fcb91f311bd777d1f9de3d9c]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/uksi/2012/3122/regulation/18/1) omitted (31.12.2020) by virtue of [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/3/5/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1294169c0873d15417d3dec07f54ba81]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/3122/regulation/19) omitted (31.12.2020) by virtue of [The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1199)](https://www.legislation.gov.uk/uksi/2018/1199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/1/2), [3(5)(d)](https://www.legislation.gov.uk/uksi/2018/1199/regulation/3/5/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21492591]: Marginal citation: [S.I. 2010/89](https://www.legislation.gov.uk/uksi/2010/89).
+
+[^M_F_56b87576-6f90-4aae-a081-104160f7540e]: Textual amendment: Sch. para. 1(a)-(ab) substituted for Sch. para. 1(a) (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/163/article/5/4)
+
+[^key-60c08c1fa7c752af2b646c006790944d]: Textual amendment: Sch. para. 1(b)(ii) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/163/article/5/3)
+
+[^key-c6b60733447f7532c83f75b47564662d]: Textual amendment: Word in Sch. para. 1(b)(iii) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2016/163/article/5/4)
+
+[^key-e5fff1db9fd3c872d09e99c7f75b16aa]: Textual amendment: Word in Sch. para. 2(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/b)
+
+[^key-5d7908f143b492b576297ff3bd4f2ae2]: Textual amendment: Words in Sch. para. 2(a)(iii) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/c)
+
+[^key-ca15495408449ba1872e7398c0051a59]: Textual amendment: Word in Sch. para. 2(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/d)
+
+[^key-9bd8f374ea75035a0964ee5c08e929b7]: Textual amendment: Sch. para. 2(c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/e)
+
+[^key-a97ca1a457efc974de965401e3dee07f]: Textual amendment: Word in Sch. para. 2(e)(i)(bb) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/f)
+
+[^key-b545cbec312c9447d3e0b20353da7e28]: Textual amendment: Sch. para. 2(e)(iii) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(g)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/g)
+
+[^key-da8724770107b675b34c3f92f1a4f4e4]: Textual amendment: Sch. para. 3 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(h)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/h)
+
+[^key-5e6f09b657c4e64dbdc263e952665dc8]: Textual amendment: Word in Sch. para. 4(a)(i) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/i)
+
+[^key-c2b04f069cb27b94cde3bffa00aca0be]: Textual amendment: Word in Sch. para. 4(a)(iii)(bb) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(j)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/j)
+
+[^key-2e268748c2867fae4803777ad2aaf2a6]: Textual amendment: Sch. para. 4(a)(iii)(cc) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(k)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/k)
+
+[^key-bfa262838742713b14d275927c46dd5d]: Textual amendment: Words in Sch. para. 4(a)(iii)(ee) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(l)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/l)
+
+[^key-12b1e2cd31c57f5531c67c09de491ec2]: Textual amendment: Sch. para. 4(a)(iv) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(m)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/m)
+
+[^key-ab6e3f0f16dfc87e0c71074c395bcde9]: Textual amendment: Words in Sch. para. 5(c) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(n)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/n)
+
+[^key-0fadadce695998f22dfc1aa2bac7787a]: Textual amendment: Words in Sch. para. 5(e) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(o)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/o)
+
+[^key-0f8937d28becf72af468d62214890b53]: Textual amendment: Sch. para. 7(a)(ii) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(p)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/p)
+
+[^c21492601]: Marginal citation: [S.I. 2001/1420](https://www.legislation.gov.uk/uksi/2001/1420); relevant amending instruments are [S.I. 2005/274](https://www.legislation.gov.uk/uksi/2005/274) and 2010/1193.
+
+[^key-3e6e1269aff7bb6cb9721529e6b005e2]: Textual amendment: Words in Sch. para. 8 inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 248(6)(q)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/248/6/q)
+
+[^c21492611]: Marginal citation: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188); relevant amending instruments are the Enterprise Act [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40) section 2 and [S.I. 2001/3437](https://www.legislation.gov.uk/uksi/2001/3437), 2001/3624, 2003/693, 2003/1473, 2003/2174; 2004/1862; 2005/3071, 2006/3413, 2007/3255, 2010/2628, 2011/1043, 2011/1265, 2012/916 and 2012/2554.
+
+[^key-c46daa52ae81bdb6dcf4fab12d431ddd]: Textual amendment: Words in [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/9/a) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/681/regulation/7/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bd6f61ecbb8c5535b68b38487a3768a2]: Textual amendment: Words in [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/9/a) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/681/regulation/7/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-22e4d32c0ffab71780071b90cf539e61]: Textual amendment: Words in [Sch. para. 9(d)](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/9/d) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/681/regulation/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f9c7fe3b901bb41837415c766a1d23ad]: Textual amendment: Words in [Sch. para. 9(e)](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/9/e) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [7(2)(c)](https://www.legislation.gov.uk/uksi/2019/681/regulation/7/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c7903688736672d6151bc6f2c427817e]: Textual amendment: Words in [Sch. para. 9(f)](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/9/f) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [7(2)(d)](https://www.legislation.gov.uk/uksi/2019/681/regulation/7/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-91607a795726b1068d6f39be44834755]: Textual amendment: Words in [Sch. para. 9(g)(ii)](https://www.legislation.gov.uk/uksi/2012/3122/schedule/paragraph/9/g/ii) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [7(2)(e)](https://www.legislation.gov.uk/uksi/2019/681/regulation/7/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

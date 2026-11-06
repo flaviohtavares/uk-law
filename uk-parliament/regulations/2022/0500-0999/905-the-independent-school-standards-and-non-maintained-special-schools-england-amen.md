@@ -1,0 +1,134 @@
+---
+title: The Independent School Standards and Non-Maintained Special Schools (England) (Amendment) Regulations 2022
+id: uksi/2022/905
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-08-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/905
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/905/pdfs/uksiem_20220905_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/905/pdfs/uksi_20220905_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/905/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Independent School Standards and Non-Maintained Special Schools (England) (Amendment) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 905
+
+Education, England
+
+The Independent School Standards and Non-Maintained Special Schools (England) (Amendment) Regulations 2022
+
+Made
+
+11th August 2022
+
+Laid before Parliament
+
+15th August 2022
+
+Coming into force
+
+5th September 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 342(2) and (4) and 569(4) of the Education Act 1996[^f00001] and sections 94(1)(c), (d) and (e) and (2) and 166(6) of the Education and Skills Act 2008[^f00002].
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Independent School Standards and Non-Maintained Special Schools (England) (Amendment) Regulations 2022 and come into force on 5th September 2022.
+
+(2) These Regulations extend to England and Wales.
+
+## 2. Amendments to the Education (Independent School Standards) Regulations 2014
+
+(1) The Education (Independent School Standards) Regulations 2014[^f00003] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) in the definition of “the National Minimum Standards for Boarding Schools”[^f00004], for “April 2015” substitute “May 2022”; and
+- (b) in the definition of “the National Minimum Standards for Residential Special Schools”, for “April 2015” substitute “May 2022”.
+
+(3) In the Schedule—
+
+- (a) in each of paragraphs 18(2)(f) and 19(2)(e)—
+  - (i) for “Standard 14” where it first occurs substitute “Standard 19”; and
+  - (ii) for “Standard 14” where it next occurs substitute “Standard 24”; and
+- (b) in paragraph 30—
+  - (i) for “Standard 5” where it first occurs substitute “Standard 4”; and
+  - (ii) for “Standard 5” where it next occurs substitute “Standard 9”.
+
+## 3. Amendment to Non-Maintained Special Schools (England) Regulations 2015
+
+(1) The Non-Maintained Special Schools (England) Regulations 2015[^f00005] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the definition of “National Minimum Standards” for “April 2015” substitute “May 2022”.
+
+## 4. Transitional provisions
+
+(1) Where after the coming into force of these Regulations, the Secretary of State makes a decision specified in the left-hand column of the following table in the circumstances specified in the right-hand column, that decision is to be taken as if the amendments made by these Regulations had not been made.
+
+<table>
+<thead>
+<tr><th>Specified decision</th><th colspan="2">Specified Circumstances</th></tr>
+</thead>
+<tbody>
+<tr><td>Determination under section 162 of the Education Act 2002 of an application for approval of a material change.</td><td colspan="2">Where the application was made before the coming into force of these Regulations.</td></tr>
+<tr><td>Determination under section 99(2) of the Education and Skills Act 2008 of an application for registration.</td><td colspan="2">Where the application was made before the coming into force of these Regulations.</td></tr>
+<tr><td>A decision to require the submission of an action plan under section 114(3) of the Education and Skills Act 2008 or to take enforcement action under section 116 of that Act.</td><td>Where the most recent report made to the Secretary of State under section 109 of that Act in relation to the institution in question—<br>(i) was received by the Secretary of State before the coming into force of these Regulations; or<br>(ii) is a report of an inspection to which paragraph (2) applies.</td></tr>
+<tr><td>A decision whether to approve or reject an action plan under section 114(6) of the Education and Skills Act 2008.</td><td colspan="2">Where the Secretary of State served notice requiring submission of the action plan under section 114(5) of that Act before the coming into force of these Regulations.</td></tr>
+</tbody>
+</table>
+
+[^f00006]
+
+(2) Where an inspection of a description specified in the left-hand column of the following table is carried out in the circumstances specified in the right-hand column, that inspection is to be carried out, and the report of that inspection made, as though the amendments made by these Regulations had not been made.
+
+| Specified inspection | Specified circumstances |
+| --- | --- |
+| An inspection carried out under section 162(4) of the Education Act 2002 or section 99(1) of the Education and Skills Act 2008. | Where the application in respect of which the inspection is carried out was made before the coming into force of these Regulations. |
+| An inspection carried out under section 109 of the Education and Skills Act 2008. | Where inspection of the institution in question began before the coming into force of these Regulations. |
+
+Barran
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+11th August 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education (Independent School Standards) Regulations 2014 (“**the 2014 Regulations**”) and the Non-Maintained Special Schools (England) Regulations 2015 (“**the 2015 Regulations**”).
+
+Regulations 2 and 3 amend certain provisions of the 2014 and 2015 Regulations consequential on the publication of new National Minimum Standards for Boarding Schools and the Minimum Standards for Residential Special Schools in May 2022.
+
+Regulation 4 makes transitional provision which sets out circumstances in which the 2014 should continue to apply as they were immediately before the coming into force of these Regulations in order to ensure that no changes are required to the applicable standards in respect of inspections which have already commenced, applications which have already been made and decisions which rely on existing evidence.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+An Explanatory Memorandum is published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 342 was substituted by the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31). Amendments have been made to section 342(1) by paragraph 37 of Schedule 3 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 142(3) of, and Schedule 2 to, the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25) (“**the 2008 Act**”) and section 57(3) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2). See section 579(1) of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56) and section 168(1) of the 2008 Act for the definition of “prescribed” and “regulations”.
+
+[^f00002]: Footnote: [2008 c. 25](https://www.legislation.gov.uk/ukpga/2008/25); there is an amendment to section 94 which is not relevant to these Regulations.
+
+[^f00003]: Footnote: [S.I. 2014/3283](https://www.legislation.gov.uk/uksi/2014/3283), amended by [S.I. 2018/205](https://www.legislation.gov.uk/uksi/2018/205); there are other amendments to this instrument which are not relevant to these Regulations.
+
+[^f00004]: Footnote: The National Minimum Standards for Boarding Schools and the National Minimum Standards for Residential Special Schools are available from the Independent Education and Boarding Team, Department of Education, Bishopsgate, Feethams, Darlington, DL1 5QE and accessible on the Department’s internet website at http://www.education.gov.uk/.
+
+[^f00005]: Footnote: [S.I. 2015/728](https://www.legislation.gov.uk/uksi/2015/728) amended by [S.I. 2018/901](https://www.legislation.gov.uk/uksi/2018/901); there are other amendments to the instrument which are not relevant to these Regulations.
+
+[^f00006]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). The 2002 Act was amended by the 2008 Act to, amongst other things, narrow its application to independent schools in Wales only. Despite this, Part 10 of the 2002 Act remains in force for the purpose of enabling section 162 of that Act to have effect in England, see article 4 of [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364). By virtue of article 4(b) of that S.I., references to the “**independent school standards**” are to be construed for the purposes of section 162 as references to the standards prescribed by the Secretary of State under section 94(1) of the 2008 Act.

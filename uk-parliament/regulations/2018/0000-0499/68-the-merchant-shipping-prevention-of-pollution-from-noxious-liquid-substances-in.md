@@ -1,0 +1,1307 @@
+---
+title: The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018
+id: uksi/2018/68
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-02-05'
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/68
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/68/pdfs/uksiem_20180068_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/68/pdfs/uksi_20180068_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/68/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018
+
+> Text as at 2026-06-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 68
+
+Merchant Shipping
+
+The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018
+
+Made
+
+5th February 2018
+
+Laid before Parliament
+
+15th February 2018
+
+Coming into force
+
+12th March 2018
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by articles 3 and 5 of the Merchant Shipping (Prevention and Control of Pollution) Order 1987 [^c22910631], article 2 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996 [^c22910641] and sections 85(1), (1A), (1B), (3) and (5) to (7), 86(1), 302(1) and 306A of the Merchant Shipping Act 1995 [^c22910651].
+
+The Secretary of State has consulted such persons in the United Kingdom as the Secretary of State considers will be affected by the exercise of powers in this instrument in accordance with section 86(4) of the Merchant Shipping Act 1995.
+
+These Regulations are made with the consent of the Treasury in so far as is required under section 302(1) of the Merchant Shipping Act 1995.[^key-8069218c843fe1ef349745f7cc5f40a0]
+
+## PART 1 — General
+
+### 1. Citation, commencement, amendments and revocations
+
+(1) These Regulations may be cited as the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 and come into force on 12th March 2018.
+
+(2) The amendments listed in Part 1 of the Schedule have effect.
+
+(3) The Regulations listed in the first column of the Table in Part 2 of the Schedule are revoked to the extent specified in the third column of that table.
+
+### 2. Transitional provision
+
+(1) Except in circumstances determined by the Secretary of State, a certificate issued or endorsed under Annex II by—
+
+- (a) an appropriate Certifying Authority; or
+- (b) the Administration of a Contracting State,
+
+which is valid on the day on which these Regulations come into force, continues to be valid until the date of its expiry under regulation 10 of Annex II.
+
+(2) A certificate referred to in paragraph (1) is to be treated as if it had been issued or endorsed under these Regulations.
+
+(3) In this regulation—
+
+- (a) “**appropriate Certifying Authority**” means the Secretary of State or any person authorised by the Secretary of State and includes in particular (if so authorised) Lloyd's Register of Shipping, Bureau Veritas, Det Norske Veritas, Germanischer Lloyd, the American Bureau of Shipping, Registro Italiano Navale and Nippon Kaiji Kyokat; and
+- (b) regulation 3(6) does not apply.
+
+### 3. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1995 Act**” means the Merchant Shipping Act 1995;
+- “**Annex II**” means Annex II to the Convention [^c22910661];
+- “**anniversary date**” means the day and month of each year which correspond to the date of expiry of a relevant NLS certificate;
+- “**annual survey period**” means the period of six months beginning three months before each anniversary date;
+- “**approved**” in relation to a Procedures and Arrangements Manual or Marine Pollution Emergency Plan means—
+  - (a) in the case of a United Kingdom NLS ship, approved by a Certifying Authority as respects that ship; and
+  - (b) in the case of any other NLS ship, approved by or on behalf of the government of the Contracting State in which the ship is registered;
+- “BCH Code” has the same meaning as that given to “Bulk Chemical Code” in regulation 1 of Annex II[^key-1f0ed2bc136f8462c5a8b375f392dd57][^M_F_485c9c50-1380-49ec-cfe1-3f4c7c0e39c3];
+- “**Cargo Record Book**” has the meaning given in regulation 29(1);
+- “Certifying Authority”, except in regulation 2, means the Secretary of State or any person authorised by the Secretary of State in accordance with paragraph (6);
+- “**chemical tanker**” means a cargo ship constructed or adapted for the carriage in bulk of any liquid substance listed in Chapter 17 of the IBC Code, but does not include an offshore support vessel or a gas carrier;
+- “**constructed**” in relation to a ship has the meaning in paragraph 14 of regulation 1 of Annex II;
+- “**Contracting State**” means a State which has consented to be bound by the Convention;
+- “**controlled waters**” means the areas of sea specified by the Merchant Shipping (Prevention of Pollution) (Limits) Regulations 2014 [^c22910681] as waters within which the jurisdiction and rights of the United Kingdom are exercisable in accordance with Part XII of the United Nations Convention on the Law of the Sea [^c22910691] for the protection and preservation of the marine environment;
+- “**the Convention**” means the International Convention for the Prevention of Pollution from Ships, 1973 [^c22910701];
+- “**discharge**”, in relation to noxious liquid substances, means any release howsoever caused from a ship and includes any escape, disposal, spilling, leaking, pumping, emitting or emptying, but does not include the release of noxious liquid substances directly arising from the exploration, exploitation and associated off-shore processing of sea-bed mineral resources, or the release of such substances for purposes of legitimate scientific research into pollution abatement or control;
+- “flag State”, in relation to a ship, means the State whose flag the ship is entitled to fly;[^key-376084f366f48527b2d34c4e2f54c5f2]
+- “**gas carrier**” means a cargo ship—
+  - (a) for which a certificate certifying compliance with the IGC Code (an International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk) is in force;
+  - (b) which is constructed or adapted for the carriage in bulk of any substance listed in Chapter 19 of the IGC Code and identified in that list by an asterisk; and
+  - (c) which is not intended for, or engaged in, the carriage of any other noxious liquid substance in bulk;
+- “**gross tonnage**” means gross tonnage as determined in accordance with regulation 6 of the Merchant Shipping (Tonnage) Regulations 1997 [^c22910711];
+- “**harbour master**” includes a dock master, pier master and any person specifically appointed by a harbour authority (within the meaning of section 151(1) of the 1995 Act) for the purpose of enforcing the provisions of these Regulations;
+- “IBC Code” has the same meaning as that given to “International Bulk Chemical Code” in regulation 1 of Annex II[^key-0d14648ff187b751fc3350ca6c8677c1];
+- “IGC Code” has the same meaning as that given to “International Gas Carrier Code” in regulation 11.1 of Chapter VII in the Annex to the International Convention for the Safety of Life at Sea, 1974[^key-92a5feebe62885ede05fc7ffb2234b24];
+- “**IMO**” means the International Maritime Organization;
+- “**in bulk**” means directly and without any intermediate form of containment in a tank forming an integral part of, or permanently located in, or on, a ship;
+- “**intermediate survey period**” means a period of six months beginning three months before the second or third anniversary date;
+- “**Marine Pollution Emergency Plan**” has the meaning given in regulation 30;
+- “**Merchant Shipping Notice**” means a Notice described as such, issued by the Maritime and Coastguard Agency (an executive agency of the Department for Transport), and includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;
+- “**nautical mile**” means an international nautical mile of 1,852 metres;
+- “**NLS ship**” means a ship intended for, or engaged in, the carriage of noxious liquid substances in bulk;
+- “**noxious liquid substance**” means—
+  - (a) any substance which has been categorised in accordance with the provisions of regulation 6 of Annex II and which is indicated in the Pollution Category column of chapter 17 or 18 of the IBC Code as falling within category X, Y or Z;
+  - (b) any mixture containing a substance referred to in sub-paragraph (a);
+  - (c) any substance which has been provisionally assessed as falling within category X, Y or Z in accordance with the provisions of regulation 6.3 of Annex II, and which is either—
+    - (i) listed in MEPC.2/Circ. on the Provisional Categorisation of Liquid Substances in Accordance with Annex II and the IBC Code, issued on 1st December each year [^c22910741]; or
+    - (ii) in the case of any substance provisionally assessed after the publication of MEPC.2/Circ. in any given year but in advance of the publication of the next MEPC.2/Circ., publicised by the IMO [^c22910751] as such; and
+  - (d) any mixture containing a substance referred to in sub-paragraph (c);
+- “**offshore installation**” means fixed or floating platforms including drilling rigs, floating production, storage and offloading facilities used for the offshore production and storage of oil or noxious liquid substances, and floating storage units used for the offshore storage of produced oil;
+- “**offshore support vessel**” means—
+  - (a) a vessel which is primarily engaged in the transport of stores, materials and equipment to and from mobile offshore drilling units, fixed or floating platforms or other similar offshore installations; or
+  - (b) a vessel, including a well-stimulation vessel but excluding a mobile offshore drilling unit, derrick barge, pipelaying barge or floating accommodation unit, which is otherwise primarily engaged in supporting the work of offshore installations;
+- “OSV Chemical Code” means the Code for the Transport and Handling of Hazardous and Noxious Liquid Substances in Bulk on Offshore Support Vessels[^key-06babe698a0fdd02bf0d7665544b9fe5];
+- “**OSV Guidelines**” means the Guidelines for the Transport and Handling of Limited Amounts of Hazardous and Noxious Liquid Substances in Bulk on Offshore Support Vessels (OSV) [^key-e08f2fc73b3e5b6c2bdc9f7a6048581a]... [^c22910761];
+- “**Polar Code**” means the International Code for Ships Operating in Polar Waters, consisting of an introduction, parts I-A and II-A and parts I-B and II-B as adopted by IMO Resolutions MSC.385(94) and MEPC.264(68) [^c22910771];
+- “**polar waters**” means the Antarctic area and Arctic waters and, for the purposes of this definition, the “**Antarctic area**” means the sea area south of latitude 60<sup>o</sup>S, and “**Arctic waters**” has the meaning given in regulation 21.2 of Annex II;
+- “**Procedures and Arrangements Manual**” has the meaning given in regulation 28;
+- “**RO Code**” means the Code for Recognised Organisations adopted on 17th May 2013 by IMO Resolution MEPC.237(65) [^c22910781];
+- “**sea**” includes any estuary or arm of the sea;
+- “**ship**” means a vessel of any type whatsoever operating in the marine environment and includes hydrofoil boats, air-cushion vehicles, submersibles, floating craft and fixed or floating platforms;
+- “**Shipboard Marine Pollution Emergency Plan**” has the meaning given in regulation 30(4);
+- “**surveyor**” means a surveyor of ships, or any other person appointed by a Certifying Authority other than the Secretary of State to be a surveyor, and “**survey**” means a survey carried out by a surveyor;
+- “**United Kingdom NLS ship**” means an NLS ship which is a United Kingdom ship; and
+- “**United Kingdom ship**” means a ship which—
+  - (a) is registered in the United Kingdom; or
+  - (b) is not registered under the law of any country but is wholly owned by persons each of whom is—
+    - (i) a British citizen, a British overseas territories citizen or a British Overseas citizen; or
+    - (ii) a body corporate which is established under the law of any part of the United Kingdom and has its principal place of business in the United Kingdom.
+
+(2) In these Regulations—
+
+- (a) a reference to an initial, renewal, annual, intermediate or additional survey is a reference to an initial, renewal, annual, intermediate or, as the case may be, additional survey carried out—
+  - (i) in the case of an NLS ship which is a chemical tanker constructed or adapted before 1st July 1986, in accordance with section 1.6 of the BCH Code;
+  - (ii) in the case of an NLS ship which is a chemical tanker constructed or adapted on or after 1st July 1986, in accordance with section 1.5.2 of the IBC Code;
+  - (iii) in the case of an NLS ship which is a gas carrier, in accordance with regulation 8.1 of Annex II;
+  - (iv)[^key-31c9eca570fe957c7ab04071c23afb78] in the case of an NLS ship which is an offshore support vessel constructed or adapted before 1st July 2018, in accordance with regulation 8.1 of Annex II and section 1.5 of the OSV Guidelines;
+  - (iva) in the case of an NLS ship which is an offshore support vessel constructed or adapted on or after 1st July 2018, in accordance with regulation 8.1 of Annex II and section 1.4 of the OSV Chemical Code;
+  - (v) in the case of any other NLS ship, in accordance with regulation 8.1 of Annex II; and
+- (b) “**relevant**” in relation to a survey carried out in respect of an NLS ship means a survey described in any of sub-paragraph (a)(i) to (v) which is relevant to that ship.
+
+(3) In these Regulations—
+
+- (a) “**relevant NLS certificate**” means a certificate drawn up in English and comprising—
+  - (i) as respects an NLS ship which is a chemical tanker constructed or adapted before 1st July 1986, a BCH Code certificate in the form set out in the Appendix to the BCH Code issued and endorsed for a specified period in accordance with the requirements of that Code;
+  - (ii) as respects an NLS ship which is a chemical tanker constructed or adapted on or after 1st July 1986, an IBC Code certificate in the form set out in the Appendix to the IBC Code issued and endorsed for a specified period in accordance with the requirements of that Code;
+  - (iii) as respects an NLS ship which is a gas carrier, a certificate in the form set out in Appendix 3 to Annex II which satisfies the requirements of regulations 9 (issue or endorsement of certificate) and 10 (duration and validity of certificate) of that Annex;
+  - (iv)[^key-315a16924064fa81ec8f2e0bb78310ac] as respects an NLS ship which is an offshore support vessel constructed or adapted before 1st July 2018, a Certificate of Fitness as set out in Appendix 2 to the OSV Guidelines issued and endorsed for a specified period in accordance with the requirements of the OSV Guidelines, together with a certificate as described in paragraph (iii);
+  - (iva) as respects an NLS ship which is an offshore support vessel constructed or adapted on or after 1st July 2018, a Certificate of Fitness as set out in Appendix 1 to the OSV Chemical Code issued and endorsed for a specified period in accordance with the requirements of the OSV Chemical Code, together with a certificate as described in paragraph (iii);
+  - (v) as respects any other NLS ship, a certificate as described in paragraph (iii); and
+- (b) “**endorsement**” in relation to a relevant NLS certificate means an endorsement drawn up in English which—
+  - (i) is issued in connection with a certificate described in sub-paragraph (a)(i) to (v); and
+  - (ii) satisfies the requirements specified in the Code, Regulation, Appendix or Guidelines applicable to that certificate,
+
+  and “endorse” and “endorsed” are to be construed accordingly.
+
+(4) Any reference in these Regulations to the date of construction of a ship is a reference to the date on which the keel of the ship is laid or on which the ship is at a stage of construction at which—
+
+- (a) construction identifiable with a specific ship has begun; and
+- (b) assembly of that ship has commenced comprising at least 50 tonnes or one per cent of the estimated mass of all structural material, whichever is less.
+
+(5) Any approval, exemption, direction or notice given by the Secretary of State pursuant to these Regulations is valid only if given in writing and may be—
+
+- (a) given subject to such conditions and limitations as the Secretary of State may specify; and
+- (b) altered or cancelled by a notice given in writing by the Secretary of State,
+
+any reference in these Regulations to the provision of any approval, exemption, direction or notice “**in writing**” includes the provision of such communication by electronic mail, facsimile or similar means which are capable of producing a document containing the text of any communication.
+
+(6) A person authorised by the Secretary of State as a Certifying Authority must be authorised [^c22910791] in accordance with—
+
+- (a) the Convention;
+- (b) Parts 1 and 2 of the RO Code (which are mandatory); and
+- (c) Part 3 of the RO Code (which is recommendatory).
+
+(7) In any provision of the BCH Code, the IBC Code, the IGC Code, Annex II, the Polar Code, the RO Code , the OSV Chemical Code[^key-135b1cfaba513097447d04925cf2416d] or the OSV Guidelines which is applied by these Regulations—
+
+- (a) references to the Administration are, in relation to United Kingdom ships, to be read as references to the Secretary of State;
+- (b) references to the Port Administration are, in relation to any ship in the territorial waters of the United Kingdom, to be read as references to the Secretary of State; [^key-abff4dcd5872e0f3e2e16eb551d12c73]...
+- (c)[^key-72a0761bdc1d01fe206fbb86eaa0462f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Ambulatory reference
+
+(1) Any reference in these Regulations to a specific provision in the Convention, Annex II, the BCH Code, the IBC Code, the IGC Code, the Polar Code, the RO Code , the OSV Chemical Code[^key-c9cb8a9d4fe03dda51f19874afd6415e] or the OSV Guidelines is to be construed as—
+
+- (a) a reference to the provision in that instrument as modified from time to time; and
+- (b) a reference, if the instrument is replaced by another instrument, to the provision in that other instrument.
+
+(2) For the purposes of paragraph (1) the Convention is modified if omissions, additions or other alterations to the text take effect in accordance with Article 16 of the Convention.
+
+(3) For the purposes of paragraph (1) the Polar Code is modified if—
+
+- (a) amendments to the Introduction and Chapter 2 of part II-A of that Code are adopted, brought into force and take effect in accordance with Article 16 of the Convention as applicable to amendments to an Annex to that Convention; and
+- (b) amendments to part II-B of that Code are adopted by a Resolution of the Marine Environment Protection Committee in accordance with the rules of procedure of that Committee.
+
+(4) For the purposes of paragraph (1)—
+
+- (a) Parts 1 and 2 of the RO Code are modified if omissions, additions or other alterations to the text take effect in accordance with Article 16 of the Convention;
+- (b) Part 3 of the RO Code is modified if omissions, additions or other alterations to the text are adopted by a Resolution of the Marine Environment Protection Committee in accordance with the rules of procedure which apply to that Committee; and
+- (c) any modifications referred to in sub-paragraph (a) or (b) adopted by a Resolution of the Maritime Safety Committee and the Marine Environment Protection Committee must be identical and come into force, or take effect, at the same time.
+
+(5) A modification to, or replacement of—
+
+- (a) the Convention by virtue of paragraph (2);
+- (b) the Polar Code by virtue of paragraph (3)(a); or
+- (c) the RO Code by virtue of paragraph (4)(a),
+
+has effect at the time that such modification or replacement comes into force in accordance with Article 16(8) of the Convention.
+
+(6) For the purposes of paragraph (1) the BCH Code, the IBC Code, the IGC Code , the OSV Chemical Code[^key-45b8c9c9f367193469cdb6e3e8a13fa3] or the OSV Guidelines are modified if omissions, additions or other alterations to the text take effect in accordance with a Resolution of either the Marine Environment Protection Committee or the Maritime Safety Committee of the IMO.
+
+(7) A modification of the BCH Code, the IBC Code, the IGC Code, the Polar Code, the RO Code , the OSV Chemical Code[^key-701a22ba3339e09af684ca9b090ea8be] or the OSV Guidelines has effect at the time specified in any Resolution described in paragraph (3)(b), (4)(c) or (6).
+
+(8) No modification or replacement of a reference to an instrument by virtue of paragraph (1) affects any rights or liabilities arising before the date on which the modification or replacement has effect.
+
+### 5. Application
+
+(1) Subject to paragraphs (2) to (5), these Regulations apply to—
+
+- (a) a United Kingdom NLS ship wherever it may be; and
+- (b) any other NLS ship while it is within United Kingdom waters.
+
+(2) Subject to paragraph (5), regulation 20(1) and (2) apply to a ship which—
+
+- (a) is not a United Kingdom ship;
+- (b) is engaged in voyages to ports or offshore installations under the jurisdiction of a Contracting State other than the United Kingdom; and
+- (c) is—
+  - (i) in a port in the United Kingdom; or
+  - (ii) at an offshore installation in the United Kingdom or controlled waters, other than a floating platform which is in transit.
+
+(3) Subject to paragraph (5), regulation 24 applies to the discharge into the sea from any ship which has caused, or is likely to cause, pollution within United Kingdom waters or controlled waters[^key-570d5b0256430c4e462bce6a223b49cc].
+
+(4) Subject to paragraph (5), regulation 26 applies to any ship which, having been enabled to proceed contrary to the requirements of that regulation, has caused, or is likely to cause, pollution within United Kingdom waters or controlled waters[^key-ada0b160b3e3f480e1038ef2e70d186c].
+
+(5) These Regulations do not apply to any—
+
+- (a) warship;
+- (b) naval auxiliary; or
+- (c) other ship owned or operated by a State and used for the time being on government, non-commercial service.
+
+### 6. Exemptions
+
+(1) Subject to paragraph (3), the Secretary of State may exempt any ship or any description of ship from any of the provisions of these Regulations.
+
+(2) An exemption by the Secretary of State is valid only if given in writing, and may be—
+
+- (a) given subject to such conditions and limitations as the Secretary of State may specify; and
+- (b) altered or cancelled by a notice given in writing by the Secretary of State.
+
+(3) An exemption under paragraph (1) may be granted only if the exemption is permitted under Annex II.
+
+### 7. Equivalents
+
+Any fitting, material, appliance or apparatus may be fitted in an NLS ship as an alternative to one that complies with these Regulations if it has been approved by the Secretary of State and—
+
+- (a) the owner or master of the ship has made an application to the Secretary of State for permission to fit the fitting, material, appliance or apparatus to the ship;
+- (b) a surveyor—
+  - (i) is satisfied that the fitting, material, appliance or apparatus is at least as effective as that required by these Regulations; and
+  - (ii) has endorsed the application to the Secretary of State to that effect; and
+- (c) the fitting, material, appliance or apparatus is fitted to the ship in accordance with any conditions or limitations set out in the approval and is used and operated in accordance with any such conditions or limitations.
+
+## PART 2 — Survey and Certification of NLS ships
+
+### 8. Relevant requirements
+
+(1) In this Part of these Regulations the “relevant requirements” in respect of an NLS ship means the relevant requirements concerning structure, equipment, systems, fittings, arrangements and materials specified in paragraph (2) in relation to that ship.
+
+(2) The relevant requirements are—
+
+- (a) as respects an NLS ship which is a chemical tanker constructed or adapted before 1st July 1986, as set out in —
+  - (i) regulation 12.1, 12.5 to 12.11 and Appendix 5 to Annex II; and
+  - (ii) Chapters II and III of the BCH Code;
+- (b) as respects an NLS ship which is a chemical tanker constructed or adapted on or after 1st July 1986 and before 1st January 2007, as set out in—
+  - (i) regulation 12.2, 12.5 to 12.11 and Appendix 5 to Annex II; and
+  - (ii) Chapters 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13 and 14 of the IBC Code;
+- (c) as respects an NLS ship which is a chemical tanker constructed or adapted on or after 1st January 2007, as set out in—
+  - (i) regulation 12.3, 12.5, 12.6 and 12.8 to 12.11 and Appendix 5 to Annex II; and
+  - (ii) Chapters 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13 and 14 of the IBC Code;
+- (d) as respects an NLS ship which is a gas carrier, as set out in Regulation 5.3 of Annex II;
+- (e)[^key-e169fa3cad2730601e20e73952d084ae] as respects an NLS ship which is an offshore support vessel constructed or adapted before 1st July 2018, as set out in Chapters 2, 3, 4, 5 and 7 of the OSV Guidelines;
+- (f) as respects an NLS ship which is an offshore support vessel constructed or adapted on or after 1st July 2018, as set out in Chapters 2 to 14 and 18 of the OSV Chemical Code; and
+- (g) as respects any other NLS ship, as set out in—
+  - (i) regulation 12.1, 12.2 or 12.3 of Annex II; and
+  - (ii) Appendix 5 to Annex II.
+
+(3) For the purposes of these Regulations a fitting, material, appliance or apparatus fitted to an NLS ship as an alternative to any of the requirements listed in paragraph (2) meets the relevant requirements providing it has been approved in accordance with the procedure specified in regulation 7.
+
+### 9. Initial surveys of United Kingdom NLS ships
+
+(1) A United Kingdom NLS ship must not—
+
+- (a) be put into service; or
+- (b) (if it is already in service) be enabled to continue in service,
+
+unless the requirements in paragraph (2) are met.
+
+(2) The requirements are that—
+
+- (a) a relevant initial survey has been carried out in respect of the ship;
+- (b) at the date of the survey the surveyor is satisfied that—
+  - (i) the structure, equipment, systems, fittings, arrangements and materials comply with the relevant requirements;
+  - (ii) there is on board the ship an approved Procedures and Arrangements Manual and Cargo Record Book; and
+  - (iii) in the case of an NLS ship of 150 gross tonnage or more, there is on board an approved Marine Pollution Emergency Plan or an approved Shipboard Marine Pollution Emergency Plan; and
+- (c) a relevant NLS certificate has been issued in respect of the ship which is still valid.
+
+### 10. Renewal surveys of United Kingdom NLS ships
+
+(1) A United Kingdom NLS ship must not be enabled to—
+
+- (a) proceed to sea; or
+- (b) (if it is already at sea) remain at sea,
+
+after the date of expiry of a relevant NLS certificate issued in respect of that ship unless the requirements in paragraph (2) are met.
+
+(2) The requirements are that—
+
+- (a) a relevant renewal survey has been carried out in respect of the ship;
+- (b) at the date of the survey the surveyor is satisfied that—
+  - (i) the structure, equipment, systems, fittings, arrangements and materials comply with the relevant requirements;
+  - (ii) there is on board the ship an approved Procedures and Arrangements Manual and Cargo Record Book; and
+  - (iii) in the case of an NLS ship of 150 gross tonnage or more, there is on board an approved Marine Pollution Emergency Plan or an approved Shipboard Marine Pollution Emergency Plan; and
+- (c) a new relevant NLS certificate has been issued in respect of the ship following the relevant renewal survey which is still valid.
+
+### 11. Annual surveys of United Kingdom NLS ships
+
+(1) A United Kingdom NLS ship must not be enabled to—
+
+- (a) proceed to sea; or
+- (b) (if it is already at sea) remain at sea,
+
+after the end of any annual survey period for that ship unless the requirements in paragraph (2) are met.
+
+(2) The requirements are that—
+
+- (a) a relevant annual survey has been carried out in respect of the ship;
+- (b) at the date of the survey the surveyor is satisfied that—
+  - (i) the structure, equipment, systems, fittings, arrangements and materials comply with the relevant requirements;
+  - (ii) there is on board the ship an approved Procedures and Arrangements Manual and Cargo Record Book; and
+  - (iii) in the case of an NLS ship of 150 gross tonnage or more, there is on board an approved Marine Pollution Emergency Plan or an approved Shipboard Marine Pollution Emergency Plan; and
+- (c) the surveyor has endorsed the relevant NLS certificate in respect of the ship.
+
+### 12. Intermediate surveys of United Kingdom NLS ships
+
+(1) A United Kingdom NLS ship must not be enabled to—
+
+- (a) proceed to sea; or
+- (b) (if it is already at sea) remain at sea,
+
+after the third anniversary date in respect of that ship unless the requirements in paragraph (2) are met.
+
+(2) The requirements are that—
+
+- (a) a relevant intermediate survey has been carried out in respect of the ship during the intermediate survey period;
+- (b) at the date of the survey the surveyor is satisfied that—
+  - (i) the structure, equipment, systems, fittings, arrangements and materials comply with the relevant requirements;
+  - (ii) there is on board the ship an approved Procedures and Arrangements Manual and Cargo Record Book; and
+  - (iii) in the case of an NLS ship of 150 gross tonnage or more, there is on board an approved Marine Pollution Emergency Plan or an approved Shipboard Marine Pollution Emergency Plan; and
+- (c) the surveyor has endorsed the relevant NLS certificate in respect of the ship.
+
+### 13. Responsibilities of the owner and master of an NLS ship
+
+(1) The owner and the master of an NLS ship must ensure that the condition of the ship and its equipment are maintained to conform with the relevant requirements which apply to the ship, so as to ensure that the ship in all respects remains fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment (including to waters within the seaward limits of the territorial waters of the United Kingdom).
+
+(2) The owner and the master of an NLS ship must ensure that, after any survey of the ship required by these Regulations has been completed, no change, except by way of direct replacement, is made to the structure, equipment, systems, fittings, arrangements and materials of the ship covered by the survey without the approval of either—
+
+- (a) the Certifying Authority who appointed the surveyor to carry out the survey; or
+- (b) the Secretary of State, where the relevant survey was carried out and the relevant NLS certificate was issued by a Contracting State other than the United Kingdom following a request made by the Secretary of State pursuant to regulation 16,
+
+as the case may be.
+
+(3) Whenever—
+
+- (a) an accident occurs to an NLS ship; or
+- (b) a defect is discovered in an NLS ship,
+
+which substantially affects the integrity of the ship or the efficiency or completeness of the equipment of the ship as required under these Regulations, the owner and the master of the ship must comply with the requirements of paragraph (4).
+
+(4) The requirements are that—
+
+- (a) the accident or defect is reported at the earliest opportunity to the Certifying Authority that issued the relevant NLS certificate in respect of the ship; and
+- (b) in the case of a ship in a port outside the United Kingdom the accident or the defect is immediately reported to the appropriate maritime authorities in the country in which the port is situated.
+
+(5) Whenever an accident or defect is reported to a Certifying Authority in accordance with paragraph (4)(a), the Certifying Authority—
+
+- (a) must cause an investigation to be initiated to determine whether or not an additional survey and any repair is necessary; and
+- (b) must, if it considers that an additional survey or repair is necessary, cause that survey or repair to be carried out.
+
+(6) Whenever an accident or defect is reported to a Certifying Authority in accordance with paragraph (4)(a) and the ship in question is in a port outside the United Kingdom, the Certifying Authority must take all appropriate steps to ascertain that the requirement in paragraph (4)(b) has been complied with.
+
+(7) In paragraph (2) “**direct replacement**” means the direct replacement of equipment and fittings with equipment and fittings that conform with the relevant requirements which apply to that ship.
+
+### 14. Additional surveys of United Kingdom NLS ships
+
+(1) This regulation applies to a United Kingdom NLS ship where—
+
+- (a) a repair resulting from an investigation referred to in regulation 13(5) has been made to the ship; or
+- (b) an important repair or renewal has been made to the ship.
+
+(2) A ship to which this regulation applies must not be enabled to—
+
+- (a) proceed to sea; or
+- (b) (if it is already at sea) remain at sea,
+
+unless the requirements in paragraph (3) are met.
+
+(3) The requirements are that—
+
+- (a) a relevant additional survey has been carried out in respect of the ship;
+- (b) at the date of the survey the surveyor is satisfied that—
+  - (i) the repair or renewal has been made effectively;
+  - (ii) the materials used in, and the workmanship of, the repair or renewal are satisfactory in all respects; and
+  - (iii) the ship complies in all respects with the requirements of these Regulations; and
+- (c) the surveyor has issued a report expressing the satisfaction required by sub-paragraph (b).
+
+(4) For the purposes of paragraph (1)(b) an important repair or renewal is a repair or renewal which is required to be effected in order to—
+
+- (a) address a defect which substantially affects the integrity of the ship or the efficiency or completeness of the equipment of the ship; or
+- (b) ensure compliance with the requirements of Annex II.
+
+(5) In the case of a dispute as to whether a repair or renewal effected or intended to be effected in respect of a ship is an important repair or renewal for the purposes of paragraph (1)(b), the owner or master of a ship may serve a written request upon the Secretary of State seeking advice.
+
+(6) A repair or renewal is to be regarded as not being an important repair or renewal for those purposes unless the Secretary of State advises to the contrary within 21 days of receipt of a request under paragraph (5).
+
+### 15. Certification of United Kingdom NLS ships by UK authorities
+
+(1) A Certifying Authority must issue a relevant NLS certificate in respect of a United Kingdom NLS ship where—
+
+- (a) that Authority has been notified by a surveyor that the surveyor has carried out a relevant initial or renewal survey;
+- (b) the notification described in paragraph (a) includes confirmation that, at the date of that survey, the surveyor is satisfied that the ship complies with the relevant requirements which apply to that ship; and
+- (c) any fee due under the Merchant Shipping (Fees) Regulations 2018[^key-8834b63862218e695024dcc0067c0f2c] has been paid to that Authority.
+
+(2) A Certifying Authority must issue a relevant NLS certificate in respect of a ship which becomes a United Kingdom NLS ship on transfer from the flag of another Contracting State where—
+
+- (a) a certificate which satisfies the requirements of Annex II has been issued by a Contracting State other than the UK in respect of the ship;
+- (b) the certificate described in paragraph (a) was valid immediately before the transfer;
+- (c) the Certifying Authority has caused a survey to be carried out in respect of the ship; and
+- (d) the Certifying Authority is satisfied that—
+  - (i) the condition of the ship and its structure, equipment, systems, fittings, arrangements and materials is such that it is fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment; and
+  - (ii) no change, other than a change referred to in paragraph (3), has been made to the structure of the ship or its equipment, systems, fittings, arrangements or materials covered by the last survey carried out in accordance with the requirements of Annex II without the approval of the Contracting State in question.
+
+(3) The changes referred to in paragraph (2)(d)(ii) are the direct replacement of equipment and fittings with equipment and fittings that conform with the relevant requirements.
+
+### 16. Survey and certification of United Kingdom NLS ships by other Contracting States
+
+(1) The Secretary of State may request a Contracting State other than the United Kingdom to carry out a relevant survey of a United Kingdom NLS ship.
+
+(2) If a Contracting State which has received a request under paragraph (1) is satisfied that the relevant requirements as notified by the Secretary of State have been complied with in respect of that ship, that State must—
+
+- (a) issue or authorise the issue of a relevant NLS certificate in respect of that ship; or
+- (b) endorse, or authorise the endorsement of, an existing relevant certificate.
+
+(3) Where a relevant NLS certificate is issued or endorsed in accordance with paragraph (2)—
+
+- (a) the Secretary of State is to be treated as the Certifying Authority in relation to that NLS certificate; and
+- (b) any reference in these Regulations to the Certifying Authority that issued a certificate is, in the case of a certificate to which this regulation applies, to be treated as a reference to the Secretary of State.
+
+### 17. Survey and certification of non-United Kingdom NLS ships by the Secretary of State
+
+(1) The Secretary of State, when requested to do so by a Contracting State other than the United Kingdom, may cause a survey to be carried out in respect of an NLS ship which is not a United Kingdom ship.
+
+(2) If a survey described in paragraph (1) has been carried out and the Secretary of State is satisfied that the relevant requirements are complied with the Secretary of State must, subject to the payment of any fee due under the Merchant Shipping (Fees) Regulations 2018[^key-fdb4423d061bcbe4cb49d924498a8e37]—
+
+- (a) in the case of a ship for which there is no NLS certificate, issue a new certificate; or
+- (b) in the case of a ship for which there is an existing NLS certificate, endorse that certificate.
+
+(3) A certificate issued or endorsed under paragraph (2)—
+
+- (a) must be in the form appropriate to that ship as prescribed in Annex II;
+- (b) must contain a statement that it has been so issued or endorsed; and
+- (c) has the same effect as if it had been issued or endorsed by the Contracting State who made the request referred to in paragraph (1).
+
+(4) The Secretary of State must, as soon as possible after completion of a survey carried out under paragraph (1), send to the Contracting State who made the request a copy of—
+
+- (a) the report of that survey; and
+- (b) any certificate issued or endorsed under paragraph (2).
+
+(5) The Secretary of State must not issue or endorse a certificate in respect of a ship which—
+
+- (a) is registered in a country which is not a Contracting State; or
+- (b) is not so registered, but is entitled to fly the flag of a country which is not a Contracting State.
+
+### 18. Duration and validity of NLS certificates
+
+(1) Subject to the following paragraphs and to regulations 20(3) and 23(1), a relevant NLS certificate issued in respect of a United Kingdom NLS ship is valid for such period as is specified in the certificate, not exceeding five years beginning with the date of completion of the relevant initial or renewal survey which immediately preceded the issue of the certificate.
+
+(2) Subject to paragraph (3) and regulation 19(9), where a relevant NLS renewal survey of a United Kingdom NLS ship is completed—
+
+- (a) within the final three month period; or
+- (b) after the expiry of the latest relevant NLS certificate,
+
+the new relevant NLS renewal certificate issued following completion of the relevant NLS renewal survey is valid for such period as is specified in that certificate, beginning with the date of the completion of the relevant NLS renewal survey and ending with a date not exceeding five years from the date of expiry of the previous relevant NLS certificate.
+
+(3) A relevant NLS certificate issued in respect of a United Kingdom NLS ship ceases to be valid—
+
+- (a) if the ship is transferred to the flag of another State;
+- (b) if the ship is enabled to proceed to sea when—
+  - (i) an important repair or renewal has been made to the ship; but
+  - (ii) the requirements of regulation 14(3) have not been complied with;
+- (c) if a survey under regulations 9, 10, 11 or 12 is not completed in accordance with the requirements of these Regulations;
+- (d) if the relevant NLS certificate is not endorsed in accordance with the requirements of these Regulations;
+- (e) upon a new relevant NLS certificate being issued in respect of that ship; or
+- (f) upon the date of expiry of the certificate.
+
+(4) Where a United Kingdom NLS ship is transferred to the flag of another Contracting State, and within three months after the date of transfer the Government of that State so requests, the Secretary of State must send that Government a copy of—
+
+- (a) the relevant NLS certificate issued in respect of that ship; and
+- (b) any current relevant survey report, if available, in respect of that ship.
+
+(5) In this regulation any dispute as to whether a repair or renewal is an important repair or renewal is subject to the procedure prescribed in regulation 14(5) and (6), and—
+
+- “**final three month period**” means the period of three months ending on the date of expiry of the certificate in question; and
+- “**important repair or renewal**” has the meaning given in regulation 14(4).
+
+### 19. Extension of periods of validity of NLS certificates
+
+(1) Where the period of validity of a relevant NLS certificate issued in respect of a United Kingdom NLS ship is less than five years, the Certifying Authority that issued the certificate may extend its period of validity to a maximum period of five years provided that any survey required under regulation 11 or 12 has been carried out.
+
+(2) Where—
+
+- (a) a relevant renewal survey has been completed by a surveyor; but
+- (b) a new relevant NLS certificate in respect of that renewal survey cannot be issued or placed on board the ship before the date on which the existing relevant NLS certificate is due to expire,
+
+the surveyor may endorse the existing relevant NLS certificate.
+
+(3) Where a relevant NLS certificate has been endorsed under paragraph (2), that certificate is valid for such further period as is specified in the certificate, not exceeding five months beginning with the original date of expiry of the certificate.
+
+(4) Where—
+
+- (a) a relevant survey in respect of a United Kingdom NLS ship has not been completed before the date on which a relevant NLS certificate expires; and
+- (b) at the date of expiry the ship is not in the port in which the survey is to be carried out,
+
+the Certifying Authority that issued the relevant NLS certificate may extend the period of validity of that certificate for a period not exceeding three months, if it appears to the Certifying Authority that it is proper and reasonable to do so solely for the purpose of enabling that ship to proceed to the port in which the survey is to be carried out.
+
+(5) Where the period of validity of a relevant NLS certificate has been extended under paragraph (4), the ship in question must not be enabled to leave the port of survey until a new relevant NLS certificate has been issued in respect of that ship.
+
+(6) Subject to paragraph (7), the Certifying Authority that issued a relevant NLS certificate in respect of a United Kingdom NLS ship engaged solely on short voyages may extend the period of validity of that certificate for a period not exceeding one month.
+
+(7) A Certifying Authority must not extend the period of validity of a relevant NLS certificate under paragraph (6) if the period of validity of that certificate has already been extended under paragraph (1), (3), (4) or (6).
+
+(8) Subject to paragraph (9) and to regulations 20(3) and 23(1), where a relevant renewal survey has been completed and a new relevant NLS certificate has been issued in respect of a ship referred to in paragraph (4) or (6), the new relevant NLS certificate is valid for such period as is specified in the certificate, not exceeding five years beginning with the original date of expiry of the previous relevant NLS certificate.
+
+(9) In the circumstances described in paragraph (10) the period of validity of a new relevant NLS certificate which is—
+
+- (a) issued in respect of a ship referred to in paragraph (4) or (6); or
+- (b) issued in respect of a ship referred to in regulation 18(2)(b) after the date of expiry of a relevant NLS certificate,
+
+is such period as is specified in the new certificate, not exceeding five years beginning with the date of the completion of the relevant renewal survey in question.
+
+(10) The circumstances are where the owner of the ship—
+
+- (a) submits a request to the Certifying Authority for the new period of certification to begin on the date of the completion of the relevant renewal survey;
+- (b) satisfies the Certifying Authority that the owner is justified in making such a request; and
+- (c) complies with any reasonable additional survey requirements which the Certifying Authority may impose.
+
+(11) Where the period of validity of a relevant NLS certificate is extended under paragraph (1), (4) or (6), or an endorsement is to be made pursuant to paragraph (2), the Certifying Authority in question must endorse the relevant NLS certificate.
+
+(12) Where—
+
+- (a) a relevant annual survey is completed under regulation 11 before the beginning of the annual survey period; or
+- (b) a relevant intermediate survey is completed under regulation 12 before the beginning of the intermediate survey period,
+
+the anniversary date shown on the relevant NLS certificate must be amended by an endorsement on the relevant NLS certificate by the surveyor undertaking the relevant survey to a date which is not more than three months later than the date on which the survey referred to in sub-paragraph (a) or (b) was completed.
+
+(13) Where the anniversary date on a relevant NLS certificate is amended in accordance with paragraph (12) any subsequent relevant annual or intermediate survey must be completed at the intervals prescribed by these Regulations using the new anniversary date.
+
+(14) Where—
+
+- (a) a relevant annual survey is completed under regulation 11 before the beginning of the annual survey period; or
+- (b) a relevant intermediate survey is completed under regulation 12 before the beginning of the intermediate survey period,
+
+the date of expiry of the relevant NLS certificate may remain unchanged provided that any surveys required by regulation 11 or 12 are carried out, and endorsed on the relevant NLS certificate by the surveyor, so that the maximum intervals between the surveys as required by these Regulations are not exceeded.
+
+(15) In this regulation—
+
+- “**short voyage**” means a voyage which—
+  - (a) does not exceed 1,000 nautical miles between the last port of call in the country in which the voyage begins and the last port of call in the voyage before beginning any return voyage; and
+  - (b) on any return voyage does not exceed 1,000 nautical miles between the port of call in which the ship begins its return voyage and the first port of call in the country in which the voyage began,
+
+  and, for the purposes of this definition, no account is to be taken of any deviation by a ship from its intended voyage due solely to stress of weather or any other circumstances that neither the master nor the owner nor the charterer (if any) of the ship could have prevented or forestalled; and
+- “**the original date of expiry**” means the date on which a relevant NLS certificate would have expired but for any extension of its period of validity.
+
+### 20. Procedure to be adopted when a ship is deficient
+
+(1) This regulation applies to an NLS ship where a surveyor determines that—
+
+- (a) the condition of the ship or its equipment does not correspond substantially with the particulars of the relevant NLS certificate (if any) issued in respect of the ship; or
+- (b) a ship is not fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment.
+
+(2) In the circumstances described in paragraph (1) the surveyor must—
+
+- (a) immediately advise the owner or master of the corrective action which, in the opinion of the surveyor, is required; and
+- (b) where the ship has a valid relevant NLS certificate, notify the Certifying Authority that issued the relevant NLS certificate as respects that ship that the owner or master has been so advised.
+
+(3) The Certifying Authority must suspend the validity of any relevant NLS certificate if the corrective action advised in accordance with paragraph (2)(a) is not taken within the time specified by the surveyor.
+
+(4) Where a Certifying Authority suspends the validity of the relevant NLS certificate issued in respect of a ship it must immediately give notice of such suspension—
+
+- (a) to the owner of the ship; and
+- (b) where the ship is in a port outside the United Kingdom, to the appropriate maritime authorities of the country in which the port is situated.
+
+(5) Where the owner of the ship is given notice of suspension, that owner must notify the master of the ship in question of the suspension.
+
+### 21. Prohibition on non-United Kingdom NLS ships proceeding to sea
+
+An NLS ship other than a United Kingdom NLS ship must not be enabled to proceed to sea from a port in the United Kingdom unless—
+
+- (a) a Contracting State has issued, and where appropriate endorsed, a relevant NLS certificate in respect of that ship and that certificate (and, where appropriate, that endorsement) is still valid;
+- (b) the Government of a State which is not a Contracting State has issued, and where appropriate endorsed, a certificate in respect of that ship which is deemed by the Certifying Authority to have the same force as a certificate issued in accordance with the requirements of Annex II and that certificate (and, where appropriate, that endorsement) is still valid;
+- (c) a surveyor of ships—
+  - (i) has carried out a survey of the ship as if regulation 9 applied to that ship; and
+  - (ii) is satisfied that the ship can proceed to sea without presenting an unreasonable threat of harm to the marine environment; or
+- (d) a person having power to detain the ship—
+  - (i) is satisfied that the ship can proceed to sea for the purpose of proceeding to the nearest appropriate repair yard available without presenting an unreasonable threat of harm to the marine environment; and
+  - (ii) has permitted the ship to so proceed.
+
+### 22. Arbitration
+
+(1) If an applicant is dissatisfied for any reason with the outcome of a relevant survey carried out in respect of a United Kingdom NLS ship, the applicant may serve a written notice on the responsible person within 21 days of receiving notification of that outcome—
+
+- (a) stating that there is a dispute between them; and
+- (b) requesting that the dispute be referred to a single arbitrator.
+
+(2) Subject to paragraph (3), an arbitrator referred to in paragraph (1) must be appointed by agreement between the applicant and the responsible person.
+
+(3) In default of an agreement between the applicant and the responsible person, the arbitrator is such person as may be appointed by the President or Vice President of the Chartered Institute of Arbitrators following a request made by—
+
+- (a) a party, after giving written notice to the other party; or
+- (b) the parties jointly,
+
+but this paragraph does not apply in Scotland.
+
+(4) No person is to be an arbitrator under this regulation unless that person is—
+
+- (a) a person who holds a certificate to act as—
+  - (i) a master or chief mate on a seagoing ship of 3,000 gross tonnage or more, in accordance with Regulation II/2 of Chapter 2 of the Annex to the STCW Convention; or
+  - (ii) a chief engineer officer or second engineer officer on a seagoing ship powered by main propulsion machinery of 3,000kW propulsion power or more, in accordance with Regulation III/2 of Chapter 3 of the Annex to the STCW Convention;
+- (b) a person who holds a certificate of competency equivalent to a certificate referred to in sub-paragraph (a);
+- (c) a naval architect;
+- (d) a qualified person;
+- (e) a person with special experience of shipping matters or of activities carried on in ports; or
+- (f) a member of the Chartered Institute of Arbitrators.
+
+(5) An arbitrator appointed under this regulation has the powers of an inspector conferred by section 259 of the 1995 Act.
+
+(6) In the application of this regulation to Scotland—
+
+- (a) any reference to an arbitrator is to be construed as a reference to an arbiter; and
+- (b) the reference in paragraph (2) to a single arbitrator appointed by agreement between the applicant and the responsible person is to be construed as a reference to a single arbiter so appointed or, in default of agreement, appointed by a sheriff.
+
+(7) The rules for arbitration set out in Merchant Shipping Notice M1613 [^c22910811] apply unless alternative procedures are agreed between the applicant and the responsible person before the commencement of arbitration proceedings.
+
+(8) In this regulation—
+
+- “**applicant**” means a person who makes an application for a survey required by these Regulations;
+- “**qualified person**” means—
+  - (a) a person who satisfies the judicial-appointment eligibility condition defined in section 50 of the Tribunals, Courts and Enforcement Act 2007 [^c22910821] on a seven-year basis;
+  - (b) a person who is an advocate or solicitor in Scotland of at least seven years' standing; or
+  - (c) a person who is a member of the Bar of Northern Ireland or a solicitor of the Court of Judicature of Northern Ireland of at least seven years' standing;
+- “**responsible person**” means—
+  - (a) the Certifying Authority responsible under regulation 15 or 16 for the issue of the relevant NLS certificate in connection with which a survey required by these Regulations is carried out; or
+  - (b) in the case of a dispute relating to a relevant additional survey required by regulation 14, the Certifying Authority which issued the relevant NLS certificate in respect of the ship;
+- “**the STCW Convention**” means the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as amended [^c22910831], and any reference to a Regulation in a numbered Chapter of the Annex to the STCW Convention is a reference to a Regulation contained in the numbered Chapter in Attachment 1 to the Final Act of the 2010 Manila Conference of Parties to the STCW Convention.
+
+### 23. Miscellaneous provisions relating to NLS certificates
+
+(1) The Secretary of State may cancel a relevant NLS certificate issued in respect of a United Kingdom NLS ship where the Secretary of State has reason to believe that—
+
+- (a) the certificate was issued on false or erroneous information; or
+- (b) since the completion of any survey required by these Regulations, the equipment or machinery of the ship has sustained damage or is otherwise deficient.
+
+(2) The Secretary of State may require that a relevant NLS certificate issued in respect of a United Kingdom NLS ship and which has expired, or been cancelled, is to be surrendered.
+
+(3) In relation to a United Kingdom NLS ship, a person must not—
+
+- (a) intentionally alter a relevant NLS certificate;
+- (b) intentionally make a false relevant NLS certificate;
+- (c) knowingly or recklessly provide false information in connection with a survey required under these Regulations;
+- (d) with intent to deceive use, lend, or allow to be used by another, a relevant NLS certificate;
+- (e) fail to surrender a relevant NLS certificate where required to do so under paragraph (2); or
+- (f) in Scotland, forge a relevant certificate.
+
+(4) The owner and the master of a United Kingdom NLS ship, in respect of which a relevant NLS certificate has been issued, must ensure that the certificate is readily available on board the ship for inspection at all times.
+
+## PART 3 — Operational Requirements
+
+### 24. Control of discharges of Noxious Liquid Substances from ships
+
+(1) Subject to the provisions of this regulation, the discharge into the sea from any ship of—
+
+- (a) any noxious liquid substance; or
+- (b) any ballast water, tank washings or other mixture containing a noxious liquid substance,
+
+is prohibited.
+
+(2) Subject to paragraph (3), it is permitted for a noxious liquid substance to be discharged into the sea from a certificated NLS ship , except from a certificated NLS ship which is an offshore support vessel,[^key-42faa24e471278bcaa453c242b0779a2] where—
+
+- (a) the ship is proceeding en route at a speed of at least—
+  - (i) 7 knots in the case of a ship which is self-propelled; or
+  - (ii) 4 knots in the case of a ship which is not self-propelled;
+- (b) the discharge is made below the waterline through one or more underwater discharge outlets at a rate not exceeding the maximum for which the outlet is designed;
+- (c) the discharge is made—
+  - (i) at a distance of not less than 12 nautical miles from the nearest land; and
+  - (ii) in a depth of water of not less than 25 metres; and
+- (d) the discharge complies with the conditions and limitations prescribed in regulation 13, paragraphs 1.2 and 4 to 7, of Annex II.
+
+(3) Notwithstanding paragraph (2), any discharge of a noxious liquid substance, or mixture containing such substances, into the sea in polar waters is prohibited.
+
+(4) In the case of a certificated NLS ship constructed before 1st January 2007 the discharge into the sea of a Category Z substance is not required to comply with paragraph (2)(b).
+
+(5) Any ventilation procedures used to remove cargo residues from a tank must be carried out in accordance with Appendix 7 of Annex II.
+
+(6) Following the use of ventilation procedures in accordance with paragraph (5) any water subsequently introduced into the tank is not to be treated as a noxious liquid substance.
+
+(7) Paragraphs (1) and (3) do not apply to the discharge of noxious liquid substances, or ballast water, tank washings or other mixtures containing noxious liquid substances, from a certificated NLS ship into the sea where the discharge—
+
+- (a) is necessary to secure the safety of the ship or for saving life;
+- (b) results from damage to the ship or its equipment and—
+  - (i) all reasonable precautions have been taken by the master and owner after the occurrence of the damage or discovery of the discharge for the purpose of preventing or minimising the discharge; and
+  - (ii) the owner or master did not act either with intent to cause damage or act recklessly and with knowledge that damage would probably result; or
+- (c) has been approved by the Secretary of State for the purpose of combating specific pollution incidents in order to minimize the damage from pollution.
+
+(8) In this Regulation—
+
+- “**category Z substance**” means—
+  - (a) any substance which has been categorised in accordance with the provisions of regulation 6 of Annex II and which is indicated in the Pollution Category column of chapter 17 or 18 of the IBC Code as falling within category Z;
+  - (b) any mixture containing a substance referred to in sub-paragraph (a);
+  - (c) any substance which has been provisionally assessed as falling within category Z in accordance with the provisions of regulation 6.3 of Annex II and which is either—
+    - (i) listed in MEPC.2/Circ. on the Provisional Categorisation of Liquid Substances in Accordance with Annex II and the IBC Code, issued on 1st December each year [^c22910841]; or
+    - (ii) in the case of any substance provisionally assessed after the publication of MEPC.2/Circ. in any given year but in advance of the publication of the next MEPC.2/Circ., publicised by the IMO [^c22910851] as such; and
+  - (d) any mixture containing a substance referred to in sub-paragraph (c); and
+- “**certificated NLS ship**” means—
+  - (a) a United Kingdom NLS ship which has a valid relevant NLS certificate; or
+  - (b) an NLS ship, other than a United Kingdom NLS ship, which has a certificate that—
+    - (i) was issued, and where appropriate endorsed, in accordance with the requirements of Annex II; and
+    - (ii) (along with any endorsement) is still valid in accordance with those requirements.
+
+### 25. Unloading arrangements
+
+Where noxious liquid substances are unloaded from an NLS ship to a cargo unloading terminal, the master must ensure that any noxious liquid substance in cargo hoses and piping systems of that terminal is not drained back to the ship.
+
+### 26. Prohibition on the carriage and discharge of unassessed liquid substances
+
+(1) The master of a ship must not enable that ship to—
+
+- (a) proceed to sea; or
+- (b) (if it is already at sea) remain at sea,
+
+if it is carrying in bulk any liquid substance which has not been categorised, provisionally assessed or evaluated in accordance with regulation 6 of Annex II.
+
+(2) The discharge into the sea from a ship of any liquid substance which has not been categorised, provisionally assessed or evaluated in accordance with regulation 6 of Annex II is prohibited.
+
+### 27. Loading and carriage in bulk of noxious liquid substances
+
+(1) The master of a ship must not permit that ship to be loaded with, or to carry, any noxious liquid substance in bulk which is subject to a tripartite agreement unless—
+
+- (a) there is in force in respect of that ship, and any substance which is to be loaded or carried, a relevant NLS certificate issued and endorsed in accordance with these Regulations; and
+- (b) the loading and carriage of that substance is in accordance with the terms of that certificate.
+
+(2) In this Regulation “**tripartite agreement**” means an agreement between—
+
+- (a) the country which produced and provisionally assessed the substance in accordance with regulation 6.3 of Annex II;
+- (b) the Administration of the Flag State of the country which is to receive the substance; and
+- (c) the Administration of the Flag State of the vessel which is to load and carry the substance.
+
+### 28. Procedures and Arrangements Manual
+
+(1) Every NLS ship must carry on board an approved Procedures and Arrangements Manual.
+
+(2) The Procedures and Arrangements Manual must be in the standard format specified in Appendix 4 to Annex II.
+
+(3) The Procedures and Arrangements Manual must—
+
+- (a) in the case of a United Kingdom NLS ship, be written in English; and
+- (b) in the case of any other NLS ship be written in, or translated into, English, French or Spanish.
+
+### 29. Cargo Record Book
+
+(1)[^key-6def182502553913d3b0c7dabc7a0548] Every NLS ship must be provided with a Cargo Record Book in—
+
+- (a) the format specified in regulation 15.1 of Annex II (cargo record book); or
+- (b) the form specified in Appendix 2 to Annex II (form of cargo record book).
+
+(2) Following completion of any operation specified in Appendix 2 to Annex II, that operation must be recorded promptly in the Cargo Record Book.
+
+(3) In the event of—
+
+- (a) an accidental discharge of a noxious liquid substance, or of a mixture containing such a substance, from the ship; or
+- (b) a discharge made under the provisions of regulation 3 of Annex II,
+
+an entry must be made in the Cargo Record Book stating the circumstances of, and the reason for, the discharge.
+
+(4) Each entry in the Cargo Record Book must be signed by the officer or officers in charge of the relevant operation.
+
+(5) Each page of , or group of electronic entries in,[^key-71fdb8b85e76931e5d51d7615d4932f5] the Cargo Record Book must be signed by the master of the ship.
+
+(6) In the case of a United Kingdom NLS ship, the Cargo Record Book must be written in English and, in the case of any other NLS ship, it must be written in or translated into English, French or Spanish.
+
+(7) Where an entry has been written in the national language of the State whose flag the ship is entitled to fly as well as in English, French or Spanish, in the case of any dispute or discrepancy the entry made in that national language prevails.
+
+(8) The Cargo Record Book must be kept in such a place as to be readily available for inspection and, except in the case of unmanned ships under tow, must be kept on board the ship to which it relates.
+
+(9) A Cargo Record Book must be retained for a period of three years after the last entry has been made.
+
+### 30. Marine Pollution Emergency Plan
+
+(1) An NLS ship of 150 gross tonnage or more must carry on board a Marine Pollution Emergency Plan which is in a form approved by the administration of the Contracting State in which the ship is registered.
+
+(2) The Marine Pollution Emergency Plan must—
+
+- (a) be developed in accordance with the relevant Guidelines;
+- (b) be written in a working language or languages understood by the master and officers on board the ship; and
+- (c) contain, as a minimum, the information specified in regulation 17.2.1 to 17.2.4 of Annex II.
+
+(3) In the case of an NLS ship to which regulation 37 of Annex I of the Convention [^c22910861] also applies, an approved Marine Pollution Emergency Plan may be combined with the approved Shipboard Oil Pollution Emergency Plan required by regulation 34 of the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^key-6b8bf6f4b66ad13c7576d3146042be85].
+
+(4) Where paragraph (3) applies the title of the combined plan must be “Shipboard Marine Pollution Emergency Plan”.
+
+(5) In this regulation “**the relevant Guidelines**” means the Guidelines for the Development of Shipboard Marine Pollution Emergency Plans For Oil and/or Noxious Liquid Substances in IMO[^key-a747ebd911de1a3292a4e116b87b420c] Resolution MEPC.85(44) [^c22910881], as adopted on 13th March 2000, and includes any amendment or replacement of those Guidelines which is considered by the Secretary of State to be relevant from time to time and which is specified in a Merchant Shipping Notice.
+
+## PART 4 — Polar Code
+
+### 31. Application of Polar Code to NLS ships
+
+(1) This regulation applies to a United Kingdom NLS ship operating in polar waters.
+
+(2) The owner or master of a ship to which this regulation applies must ensure that the construction and operation of the ship complies with—
+
+- (a) the environment-related provisions of the Introduction to; and
+- (b) Chapter 2 of Part II-A of,
+
+the Polar Code.
+
+(3) In ensuring compliance with paragraph (2)(b) consideration must be given to the guidance in Part II-B of the Polar Code.
+
+## PART 5 — Enforcement
+
+### 32. Inspection of ships
+
+(1) In so far as sections 258 (power to inspect ships and their equipment etc.) and 259 (powers of inspectors in relation to premises and ships) of the 1995 Act [^c22910891] apply in relation to a ship to which these Regulations apply, for the purposes of checking compliance with these Regulations those sections have effect subject to the following modifications.
+
+(2) The power in those sections to inspect a ship and its equipment, any part of the ship, any articles on board and any documentation carried in the ship, is limited to—
+
+- (a) verifying whether a relevant NLS certificate has been issued in respect of the ship and is still valid;
+- (b) verifying whether documentation referred to in regulation 21 has been issued in respect of the ship and is still valid;
+- (c) investigating any operation regulated by these Regulations, if there are clear grounds for believing that the master or the crew are not familiar with essential shipboard procedures relating to the prevention of pollution by noxious liquid substances;
+- (d) verifying whether the ship has discharged any noxious liquid substance in violation of these Regulations;
+- (e) inspecting the Procedures and Arrangements Manual;
+- (f) inspecting the Cargo Record Book; or
+- (g) inspecting the Marine Pollution Emergency Plan,
+
+except where there are clear grounds for believing that the condition of the ship or its equipment does not correspond substantially with the particulars of the appropriate certificate or other documentation referred to in sub-paragraphs (a), (b), (e), (f) or (g).
+
+(3) The power in those sections to go on board a ship may only be exercised if the ship in question is—
+
+- (a) in a port in the United Kingdom; or
+- (b) at an offshore installation in United Kingdom waters or controlled waters.
+
+(4) Where a ship which is not a United Kingdom ship is inspected for the purposes of paragraph (2)(d), the person exercising the powers of inspection must ensure that the report of the inspection is sent to—
+
+- (a) the consul or diplomatic representative of the State whose flag the ship is entitled to fly or the appropriate maritime authorities of that State; and
+- (b) any other Contracting State that requested the inspection.
+
+(5) Where Cargo Record Book entries are inspected under paragraph (2)(f) the person exercising the power of inspection may—
+
+- (a) make a copy of any entry in that book; and
+- (b) require the master of the ship to certify that the copy is a true copy of the original.
+
+(6) Any copy certified in accordance with paragraph (5) is to be admissible in any judicial proceeding as evidence of the facts stated in it.
+
+### 33. Investigation of alleged violations by United Kingdom ships
+
+Upon receiving evidence that a noxious liquid substance has been discharged from a United Kingdom ship in violation of these Regulations the Secretary of State must—
+
+- (a) cause the matter to be investigated;
+- (b) inform the IMO of the action taken; and
+- (c) where another State has reported the violation, inform that State of the action taken.
+
+### 34. Detention of ships
+
+(1) Subject to paragraph (2), where a determination of the kind mentioned in regulation 20(1) is made in relation to a ship, or a surveyor of ships has clear grounds for believing that—
+
+- (a) a relevant NLS certificate is required to have been issued in respect of a ship but has not been issued, or has been issued but is not valid;
+- (b) documentation referred to in regulation 21 (“appropriate documentation”) is required to have been issued in respect of a ship but has not been issued, or has been issued but is not valid;
+- (c) the condition of a ship or its equipment does not correspond substantially with the particulars of any relevant NLS certificate or other appropriate documentation;
+- (d) the master or crew of a ship are not familiar with essential shipboard procedures relating to the prevention of pollution by noxious liquid substances; or
+- (e) an offence listed in regulation 38 is being committed in respect of a ship,
+
+the ship is liable to be detained until a surveyor of ships is satisfied that it can proceed to sea without presenting any unreasonable threat of harm to the marine environment.
+
+(2) A person having powers to detain a ship may permit a ship which is liable to be detained under paragraph (1) to proceed to sea for the purpose of proceeding to the nearest appropriate repair yard available.
+
+(3) Where a surveyor of ships has clear grounds for believing that an offence under regulation 24 or 26(2) has been committed in respect of a ship, the ship is liable to be detained.
+
+(4) The power under this regulation to detain a ship may only be exercised if the ship in question is—
+
+- (a) in a port in the United Kingdom; or
+- (b) at an offshore installation in United Kingdom waters or controlled waters.
+
+(5) Section 284 of the 1995 Act [^c22910901] (enforcing detention of a ship) applies where a ship is liable to be detained under the preceding provisions of this regulation as if—
+
+- (a) references to detention of a ship under the 1995 Act were references to detention of the ship in question under the preceding provisions of this regulation; and
+- (b) subsection (7) were omitted.
+
+(6) Where a ship is liable to be detained under the preceding provisions of this regulation, the person detaining the ship must serve on the master of the ship a detention notice which—
+
+- (a) states the grounds for the detention; and
+- (b) requires the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the 1995 Act.
+
+(7) Where a ship other than a United Kingdom ship is detained, the Secretary of State must immediately inform the consul or diplomatic representative of the State whose flag the ship is entitled to fly or the appropriate maritime authorities of that State.
+
+(8) Where a ship is detained under paragraph (3), a person having power to detain the ship must, at the request of the owner, master, demise charterer or manager, immediately release the ship—
+
+- (a) if no proceedings for an offence under regulation 24 or 26(2) are instituted within the period of seven days beginning with the day on which the ship is detained;
+- (b) if proceedings for any such offence, having been instituted within that period, are concluded without the owner, manager, demise charterer or master being convicted;
+- (c) if either—
+  - (i) the sum of £30,000 is paid to the Secretary of State by way of security; or
+  - (ii) security which, in the opinion of the Secretary of State, is satisfactory and is for an amount not less than £30,000 is given to the Secretary of State,
+
+  by or on behalf of the owner, manager, demise charterer or master;
+- (d) where the owner, manager, demise charterer or master is convicted of an offence under regulation 24 or 26(2), if any costs or expenses ordered to be paid by that person, and any fine imposed on that person, have been paid; or
+- (e) if the release is ordered by a court or tribunal referred to in Article 292 of the United Nations Convention on the Law of the Sea 1982 [^c22910911], and any bond or other financial security ordered by such court or tribunal is posted.
+
+(9) The Secretary of State must repay any sum paid in pursuance of paragraph (8)(c) or release any security so given—
+
+- (a) if no proceedings for an offence under regulation 24 or 26(2) are instituted within the period of seven days beginning with the day on which the sum is paid; or
+- (b) if proceedings for any such offence, having been instituted within that period, are concluded without the owner, manager or demise charterer or master being convicted.
+
+(10) Where a sum has been paid, or security has been given, by any person under paragraph (8)(c) and the owner, manager, demise charterer or master is convicted of an offence under regulation 24 or 26(2), the sum so paid or the amount made available under the security must be applied as follows—
+
+- (a) first, in payment of any costs or expenses ordered by the court to be paid by the owner, manager, demise charterer or master; and
+- (b) next, in payment of any fine imposed by the court,
+
+and any balance must be repaid to the first-mentioned person.
+
+(11) Section 145 of the 1995 Act [^c22910921] (interpretation of section 144) applies for the purposes of paragraphs (8) to (10) as if—
+
+- (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master; and
+- (b) references to an offence under section 131 were references to an offence under regulation 24 or 26(2).
+
+### 35. Power for harbour master to detain
+
+(1) Where the harbour master of a harbour in the United Kingdom has clear grounds for believing that an offence under regulation 24 or 26(2) has been committed in respect of a ship, the harbour master may detain that ship.
+
+(2) Section 144(2) and (3) of the 1995 Act (harbour master's power of detention of ships for certain offences) applies to a detention under paragraph (1) as it applies to a detention under section 144(1) of that Act.
+
+(3) Where a ship is liable to be detained under this regulation, the harbour master detaining the ship must serve on the master of the ship a detention notice which—
+
+- (a) states the grounds for the detention; and
+- (b) requires the terms of the notice to be complied with until the ship is released by the harbour authority.
+
+(4) Where a ship is detained under this regulation, the harbour master must immediately release the ship—
+
+- (a) if no proceedings for an offence under regulation 24 or 26(2) are instituted within the period of seven days beginning with the day on which the ship is detained;
+- (b) if proceedings for any such offence, having been instituted within that period, are concluded without the owner, manager, demise charterer or master being convicted;
+- (c) if either—
+  - (i) the sum of £30,000 is paid to the harbour authority by way of security; or
+  - (ii) security which, in the opinion of the harbour authority, is satisfactory and is for an amount not less than £30,000 is given to the harbour authority,
+
+  by or on behalf of the owner, manager, demise charterer or master;
+- (d) where the owner, manager, demise charterer or master is convicted of an offence under regulation 24 or 26(2), if any costs or expenses ordered to be paid by that person, and any fine imposed on that person, have been paid; or
+- (e) if the release is ordered by a court or tribunal referred to in article 292 of the United Nations Convention on the Law of the Sea 1982, and any bond or other financial security ordered by such court or tribunal is posted.
+
+(5) The harbour authority must repay any sum paid under paragraph (4)(c) or release any security so given—
+
+- (a) if no proceedings for an offence under regulation 24 or 26(2) are instituted within the period of seven days beginning with the day on which the sum is paid; or
+- (b) if proceedings for any such offence, having been instituted within that period, are concluded without the owner, manager, demise charterer or master being convicted.
+
+(6) Where a sum has been paid, or security has been given, by any person under paragraph (4)(c) and the owner, manager, demise charterer or master is convicted of an offence under regulation 24 or 26(2), the sum so paid or the amount made available under the security must be applied as follows—
+
+- (a) first, in payment of any costs or expenses ordered by the court to be paid by the owner, manager, demise charterer or master; and
+- (b) next, in payment of any fine imposed by the court,
+
+and any balance must be repaid to the first-mentioned person.
+
+(7) Section 145 of the 1995 Act (interpretation of section 144) applies for the purposes of paragraphs (4) to (6) as if—
+
+- (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master; and
+- (b) references to an offence under section 131 were references to an offence under regulation 24 or 26(2).
+
+### 36. Duty of harbour master to report deficient ships
+
+If the harbour master of a harbour in the United Kingdom has reason to believe that a ship is about to enter or leave the harbour and does not comply with the requirements of these Regulations, the harbour master must immediately report the matter to the Secretary of State.
+
+### 37. Right of appeal and compensation
+
+(1) Regulations 20 and 21[^key-05f7dd13308ec7cc5b7615143e3a1e87] of the Merchant Shipping (Port State Control) Regulations 2026 (arbitration and compensation for unjustified detention) apply in relation to the exercise of the powers of detention under these Regulations as they apply in relation to the exercise of those powers under Part 1 of those Regulations, subject to the modifications in paragraph (2).
+
+(2) The modifications are—
+
+- (a) references to “inspector” are to be read as references to the authority detaining the ship, or the harbour master, as the case may be;
+- (b) references to—
+  - (i) “issue of a refusal of access notice”;
+  - (ii)[^key-d468aba27950648f789c46f6abc7a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) “refusal of access notice”;
+  - (iv) “served with a refusal of access notice”; and
+  - (v) “service of a refusal of access notice”,
+
+  are omitted; and
+- (c) in regulation 21(3)[^key-05b048ede31002ad0320ba41941de0d6] after the word “State” insert “ , except where the ship is detained by a harbour master, in which case any compensation awarded under this section is payable by the harbour authority. ”.
+
+### 38. Offences
+
+(1) Any contravention of—
+
+- (a) regulations 9 to 12, 13(1), (2) or (3), 14, 21 or 23(2) or (4) is an offence by the owner and by the master of the ship in question;
+- (b) regulations 19(5), 24, 26, 27, 28, 29, 30 or 31 is an offence by the owner, manager, demise charterer and master of the ship in question;
+- (c) regulation 20(5) is an offence by the owner of the ship in question;
+- (d) regulation 23(3) is an offence by the person in question;
+- (e) regulation 25 is an offence by the master of the ship in question.
+
+(2) Any failure by a master to comply with a requirement under regulation 32(5)(b) is an offence.
+
+(3) An offence under paragraph (1) or (2) is punishable—
+
+- (a) on summary conviction—
+  - (i) in England and Wales by a fine; or
+  - (ii) in Scotland and Northern Ireland by a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment by a fine.
+
+### 39. Service of documents on foreign companies
+
+Section 143(6) of the 1995 Act [^c22910941] (service of documents on foreign companies required or authorised by any statutory provision in connection with proceedings for an offence under section 131 of the 1995 Act) applies to proceedings for an offence under these Regulations as it applies to proceedings for an offence under section 131 as if—
+
+- (a) the reference to section 131 were to these Regulations; and
+- (b) the reference to the owner were to the owner, manager or demise charterer.
+
+### 40. Enforcement and application of fines
+
+Section 146 of the 1995 Act (enforcement and application of fines) applies to any fine for an offence comprising a contravention of regulation 24, 25, 26, 27, 28, 29, 30 or 31 as if—
+
+- (a) in subsection (1) of that section the reference to proceedings against the owner or master of a ship for an offence under Chapter 2 were a reference to proceedings against the owner, manager, demise charterer or master for an offence comprising a contravention of regulation 24, 25, 26, 27, 28, 29, 30 or 31; and
+- (b) in subsection (2) of that section, the reference to an offence under section 131 were a reference to an offence comprising a contravention of regulation 24 or 26(2).
+
+### 41. Restriction on jurisdiction over offences outside United Kingdom limits
+
+(1) In the case of a contravention of regulation 24 or 26(2) in respect of a ship which is not a United Kingdom ship, and which is in the internal waters, territorial sea or exclusive economic zone of a foreign State, proceedings in respect of the offence must not be instituted in the United Kingdom unless—
+
+- (a) that foreign State, the flag State of the ship in question or a State polluted or threatened with pollution as a result of the offence requests that proceedings be taken; or
+- (b) the offence has caused or is likely to cause pollution in controlled waters or United Kingdom waters.
+
+(2) Where such proceedings have been instituted but not concluded, they must be suspended upon the request of the foreign State in question and the Secretary of State must send all the evidence, court records and documents relating to the case, together with any sum paid or security given, to the foreign State.
+
+(3) In this regulation—
+
+- “**exclusive economic zone**”, in relation to a foreign state, means the area beyond and adjacent to the territorial sea of that State, but not extending beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured; and
+- “**foreign State**” means a State other than the United Kingdom.
+
+### 42. Suspension of proceedings at flag State request
+
+(1) This regulation applies to proceedings instituted but not concluded in the United Kingdom in respect of a contravention of regulation 24 or 26(2) committed outside United Kingdom waters by a ship which is not a United Kingdom ship.
+
+(2) Subject to paragraph (3), any proceedings must be suspended if the court is satisfied that the flag State of the ship in question has instituted proceedings corresponding to the proceedings in the United Kingdom in respect of the contravention of that provision within six months of the institution of the proceedings by the United Kingdom.
+
+(3) Paragraph (2) does not apply where—
+
+- (a) the contravention of regulation 24 or 26(2) resulted in serious pollution to the United Kingdom; or
+- (b) the Secretary of State certifies that the flag State in question has repeatedly disregarded its obligation to enforce effectively the requirements of the Convention in respect of its ships.
+
+(4) Where proceedings instituted by the flag State have been brought to a conclusion, the suspended proceedings must be terminated.
+
+### 43. Defences
+
+(1) In any proceedings for an offence under these Regulations, it is a defence for the person charged to prove that that person took all reasonable steps and exercised all due diligence to ensure that the regulation in question was complied with.
+
+(2) Without prejudice to paragraph (1), in any proceedings for an offence comprising a contravention of regulation 24 or 26(2) it is a defence for the person charged to prove that—
+
+- (a) the ship was not a United Kingdom ship;
+- (b) the discharge took place in waters that were neither controlled waters nor United Kingdom waters; and
+- (c) the ship was in a port in the United Kingdom at the time of the institution of proceedings by reason only of stress of weather or any other reason beyond the control of the master or owner or any charterer or manager.
+
+### 44. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provisions contained in these Regulations; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 12th March 2023.
+
+(3) Subsequent reports must be published at intervals not exceeding five years.
+
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015 [^c22910951] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the obligations under Annex II are implemented in other countries which are subject to the obligations.
+
+(5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provisions referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(6) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Signed by authority of the Secretary of State for Transport
+
+Nusrat Ghani
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+We approve the making of these Regulations
+
+Mark Spencer
+
+David Rutley
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE — Amendments and Revocations
+
+Regulation 1
+
+### PART 1 — Amendments
+
+#### 1. The Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995
+
+In regulation 2(2) (interpretation and revocation) of the Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995 [^c22910961], in the definition of “permitted level” for the words “Merchant Shipping (Dangerous or Noxious Liquid Substances in Bulk) Regulations 1996” substitute “ Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 ”.
+
+#### 2. The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003
+
+In regulation 2(1) (interpretation) of the Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003 [^c22910971], in the definition of “oil” for the words “Merchant Shipping (Dangerous or Noxious Substances in Bulk) Regulations 1996” substitute “ Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 ”.
+
+#### 3. The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004
+
+In regulation 12(10)(ca) (reporting of incidents and accidents at sea) of the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004 [^c22910981], in the definition of “permitted level” for the words “Merchant Shipping (Dangerous or Noxious Substances in Bulk) Regulations 1996” substitute “ Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 ”.
+
+#### 4. The Merchant Shipping (Fees) Regulations 2006
+
+In the table in paragraph 1 of Part 1 of Schedule 1 (fees under the Merchant Shipping Act 1995) to the Merchant Shipping (Fees) Regulations 2006 [^c22910991], for the entry under heading J (prevention and control of pollution) relating to the Merchant Shipping (Dangerous or Noxious Liquid Substances in Bulk) Regulations 1996—
+
+- (a) in column 1, substitute “ Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 ”;
+- (b) in column 2 substitute “ S.I. 2018/68 ”; and
+- (c) omit the entry in column 3.
+
+#### 5. The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015[^key-ef3c4687bcf67c3cc4e8fc2156b8176e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Revocations
+
+| *Regulations revoked* | *References* | *Extent of revocation* |
+| --- | --- | --- |
+| The Merchant Shipping (Dangerous or Noxious Liquid Substances in Bulk) Regulations 1996 | S.I. 1996/3010 | The whole Regulations |
+| The Merchant Shipping (Dangerous or Noxious Liquid Substances in Bulk) (Amendment) Regulations 1998 | S.I. 1998/1153 | The whole Regulations |
+| The Merchant Shipping (Dangerous or Noxious Liquid Substances in Bulk) (Amendment) Regulations 2004 | S.I. 2004/930 | The whole Regulations |
+| The Merchant Shipping (Implementation of Ship-Source Pollution Directive) Regulations 2009 | S.I. 2009/1210 | Regulation 5 |
+| The Merchant Shipping (Prevention of Pollution) (Limits) Regulations 2014 | S.I. 2014/3306 | Schedule 2, paragraph 3 |
+| The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 | S.I. 2015/664 | Schedule 4, Part 1, paragraph 56 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement the revised version of Annex II of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 (“**the MARPOL Convention**”). Annex II contains regulations for the Control of Pollution by Noxious Liquid Substances in Bulk. As a consequence of these Regulations, the Merchant Shipping (Dangerous or Noxious Liquid Substances in Bulk) Regulations 1996 (S.I. 1996/3010) and amending instruments (S.I. 1998/1153 and S.I. 2004/930) which implemented the previous version of Annex II, are revoked. Other consequential amendments and partial revocations are also made. Future amendments of provisions of the Convention and other instruments specified in these Regulations will be automatically incorporated into the Regulations by way of ambulatory reference (regulation 4).
+
+The current version of Annex II came into force internationally on 1st January 2007 and further modifications have been made since that time. One of the key changes is to the way in which noxious liquid substances (“NLS”) are categorised; products are assigned to one of four pollution categories based on an evaluation of their potential harm to the marine environment.
+
+Part 2 of the Regulations provides for the survey and certification of ships which are intended for, or engaged in, the carriage of NLS in bulk. It mainly applies to United Kingdom ships, but also includes provision for the survey of other NLS ships by UK authorities (regulation 17), and prohibiting other NLS ships from proceeding to sea in certain circumstances (regulation 21).
+
+Part 3 of the Regulations imposes operational requirements on the carriage, discharge and unloading of NLS and on the documentation required to be carried on board an NLS ship. Part 3 applies to UK NLS ships wherever they are, and to other NLS ships in UK waters. In addition, regulations 24 (control of discharges of NLS from ships) and 26 (prohibition on the carriage and discharge of unassessed liquid substances) also apply to ships other than NLS ships and to ships other than UK ships which make a discharge which has caused, or is likely to cause, pollution within UK waters.
+
+Part 4 of the Regulations applies provisions of the Polar Code to UK NLS ships operating in polar waters (the Antarctic Area and Arctic waters). The Polar Code came into force on 1st January 2017.
+
+Part 5 of the Regulations makes provision in relation to powers of inspection and detention of ships, and in relation to offences and penalties.
+
+Information supporting these Regulations may be published in a Merchant Shipping Notice. Merchant Shipping Notices are published by the Maritime and Coastguard Agency. Copies may be obtained from https://www.gov.uk/government/organisations/maritime-and-coastguard-agency, by e-mail from mnotices@ecgroup.co.uk with ‘Subscribe’ in the subject heading, or from M-Notices Subscriptions, PO Box 362, Europa Park, Grays, Essex RM17 9AY; Tel: 01375 484548; Fax: 01375 484556.
+
+The MARPOL Convention (including its Protocols, Annexes and amendments), the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STWC), the the International Convention for the Safety of Life at Sea (SOLAS), the BCH Code, IBC Code, IGC Code, Polar Code, and the OSV Guidelines can be obtained from the International Maritime Organization (“IMO”) at IMO Publishing, 4 Albert Embankment, London SE1 7SR, www.imo.org/publications; email: sales@imo.org; telephone: 0207 735 7611. The RO Code and resolutions of the IMO can be obtained from the IMO Library at the same address as IMO Publishing and from www.imo.org/en/MediaCentre/Pages/Default.aspx; email: media@imo.org; telephone: 020 7587 3134. Except where otherwise stated copies of the Command Papers referred to in this instrument are not available electronically but are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW; email: archives@parliament.uk; telephone: 0207 219 3074.
+
+A copy of the UNCLOS Convention may be obtained from http://treaties.fco.gov.uk/docs/pdf/1999/TS0081.pdf. or from the United Nations at the Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, Room DC2-0450, United Nations, New York, NY 10017: telephone: 212 963 3950: email doalos@un.org, and at http://www.un.org/Depts/los/convention\_agreements/texts/unclos/unclos\_e.pdf.
+
+Future amendments to the Convention and other documents to which the ambulatory reference provision applies may be obtained from IMO Publishing or, where such amendments are made by a resolution of the IMO, from the IMO Library. An amendment will be published in advance of its in force date by means of a Parliamentary Statement to both Houses of Parliament and by way of a Merchant Shipping Notice.
+
+A full Impact Assessment has not been produced for this instrument as it is not expected to have significant impact on the public or voluntary sectors and only minimal impact on the private sector is foreseen. A Regulatory Triage Assessment of the effect that this instrument will have on the costs of business and the voluntary sector is published with the Explanatory Memorandum alongside these Regulations at www.legislation.gov.uk.
+
+## Annotations
+
+[^c22910631]: Marginal citation: [S.I. 1987/470](https://www.legislation.gov.uk/uksi/1987/470). Following the consolidation of section 20 of the [Merchant Shipping Act 1979 (c. 39)](https://www.legislation.gov.uk/ukpga/1979/39), [S.I](https://www.legislation.gov.uk/ukpga/1979/39/section/I). 1987/470 has effect as if made under section 128 of the [Merchant Shipping Act 1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21). Article 3 is amended by [S.I. 1990/2595](https://www.legislation.gov.uk/uksi/1990/2595). Article 5 was inserted by [S.I. 1997/2569](https://www.legislation.gov.uk/uksi/1997/2569) and amended by [S.I. 1998/254](https://www.legislation.gov.uk/uksi/1998/254) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664). The effect of the Order is extended by the Merchant Shipping Act 1995, section 128(5), so as to authorise the making of regulations for the purpose of giving effect to agreements which modify the agreements described in section 128(1).
+
+[^c22910641]: Marginal citation: [S.I. 1996/282](https://www.legislation.gov.uk/uksi/1996/282). Article 2 is amended by the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [Schedule 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4), [Part 1](https://www.legislation.gov.uk/ukpga/2009/23/part/1), [paragraph 3](https://www.legislation.gov.uk/ukpga/2009/23/paragraph/3). Article 3 is amended by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
+
+[^c22910651]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Section 85 is amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [sections 8](https://www.legislation.gov.uk/ukpga/1997/28/section/8) and 29 and Schedule 7, Part 1. Section 306A is inserted by the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [section 106](https://www.legislation.gov.uk/ukpga/2015/20/section/106). There are other amendments but none is relevant. Sections 85 and 86 apply to hovercraft by virtue of article 4 of the [Hovercraft (Application of Enactments) Order 1989 (S.I. 1989/1350)](https://www.legislation.gov.uk/uksi/1989/1350).
+
+[^key-8069218c843fe1ef349745f7cc5f40a0]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e))
+
+[^c22910661]: Marginal citation: Regulations for the Control of Pollution by Noxious Liquid Substances in Bulk. See footnote (e) for further information.
+
+[^key-1f0ed2bc136f8462c5a8b375f392dd57]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/i)
+
+[^M_F_485c9c50-1380-49ec-cfe1-3f4c7c0e39c3]: Textual amendment: The BCH Code is the Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk, adopted by Resolution MEPC.20(22), and may be obtained in copy from the International Maritime Organization (IMO) of 4 Albert Embankment, London SE1 7SR or the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk). Annex II is defined in regulation 3(1) of the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 as meaning Annex II to the International Convention for the Prevention of Pollution from Ships, 1973 (“MARPOL”). MARPOL was published in Cmnd. 5748, and amended by the Protocols of 1978 (Cmnd. 7347) and 1997 (Cm. 4427). Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW. The Parliamentary Archives catalogue numbers are as follows: HL/PO/JO/10/11/1853/505 (Cmnd. 5748), HL/PO/JO/10/11/1959/2033 (Cmnd. 7347) and HL/PO/JO/10/11/3156/2285 (Cm. 4427). The BCH Code has been amended by IMO Resolutions MSC.212(81), MEPC.144(54), MEPC.249(66), MSC.376(93), MEPC.303(72), MSC.446(99), MEPC.319(74) and MSC.463(101). The amendments to the BCH Code are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
+
+[^c22910681]: Marginal citation: [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306).
+
+[^c22910691]: Marginal citation: This Convention (the “UNCLOS” Convention) was published in Cmnd. 8941, and subsequently in Cmnd 4524. Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW. A copy of the Convention may be obtained from the United Nations.
+
+[^c22910701]: Marginal citation: This Convention (the “MARPOL” Convention) was published in Cmnd. 5748, and amended by the Protocol of 1978 (Cmnd. 7347) and 1997 (Cmnd. 4427). Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW. IMO Resolution MEPC.21(22) introduced Protocol 1 to the Convention, which was amended by MEPC.68(38). Annex II was revised and replaced by IMO Resolution MEPC.118(52) and further amended by MEPC.216(63), MEPC.238(65), MEPC.246(66), MEPC.265(86), MEPC.270(69) and the Polar Code. The MEPC Resolutions may be obtained from the IMO Library. The 2017 Consolidated Version of the Convention, which contains all amendments up to the date of publication of this instrument, may be obtained from IMO Publishing: ISBN: 978-92-801-16571.
+
+[^key-376084f366f48527b2d34c4e2f54c5f2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/ii)
+
+[^c22910711]: Marginal citation: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510). These regulations are amended by [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916) and [S.I. 1999/3206](https://www.legislation.gov.uk/uksi/1999/3206). There are other amendments but none is relevant.
+
+[^key-0d14648ff187b751fc3350ca6c8677c1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/iv)
+
+[^key-92a5feebe62885ede05fc7ffb2234b24]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/v)
+
+[^c22910741]: Marginal citation: The MEPC.2/Circ. lists noxious liquid substances with associated categories and minimum carriage requirements which have been established through Tripartite Agreements and registered with the IMO Secretariat in accordance with regulation 6.3 of Annex II. The current circular is MEPC.2/Circ.23 dated December 2017 and is available at http://www.imo.org/en/OurWork/Environment/PollutionPrevention/ChemicalPollution/Documents/MEPC.2-Circ.23.pdf or from the IMO Library.
+
+[^c22910751]: Marginal citation: Products assessed between the dates of publication of MEPC.2/Circ. are published by the IMO at http://www.imo.org/en/OurWork/Environment/PollutionPrevention/ChemicalPollution/Pages/TripartiteAgreements.aspx and available from the IMO Library.
+
+[^key-06babe698a0fdd02bf0d7665544b9fe5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/iii)
+
+[^key-e08f2fc73b3e5b6c2bdc9f7a6048581a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) omitted (3.8.2021) by virtue of [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/vi)
+
+[^c22910761]: Marginal citation: These Guidelines were adopted by IMO Assembly Resolution A.673(16) in October 1989 and amended and adopted by IMO Resolution MSC.184(79), MEPC.158(55) and MSC.236(82). The 2007 Edition is available from IMO Publishing: ISBN 978-92-801-14874. Copies of the Resolutions are available from the IMO Library.
+
+[^c22910771]: Marginal citation: The Polar Code took effect on 1st January 2017 upon entry into force of new Chapter XIV of the International Convention for the Safety of Life at Sea 1974 (“SOLAS”). The Polar Code (ISBN 978-92-801-16281) and SOLAS (ISBN: 978-92-801-49906) are available from IMO Publishing. Copies of the Resolutions are available from the IMO Library.
+
+[^c22910781]: Marginal citation: The RO Code is available from the IMO Library.
+
+[^key-31c9eca570fe957c7ab04071c23afb78]: Textual amendment: [Reg. 3(2)(a)(iv)(iva)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/2/a/iv/iva) substituted for [reg. 3(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/2/a/iv) (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/b)
+
+[^key-315a16924064fa81ec8f2e0bb78310ac]: Textual amendment: [Reg. 3(3)(a)(iv)(iva)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/3/a/iv/iva) substituted for [reg. 3(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/3/a/iv) (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/c)
+
+[^c22910791]: Marginal citation: Regulation (EC) No. 391/2009 of the European Parliament and of the Council of 23rd April 2009 on common rules and standards for ship inspection and survey organisations may also be applicable.
+
+[^key-135b1cfaba513097447d04925cf2416d]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/7) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/d/i)
+
+[^key-abff4dcd5872e0f3e2e16eb551d12c73]: Textual amendment: Word in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/7) omitted (3.8.2021) by virtue of [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/d/ii)
+
+[^key-72a0761bdc1d01fe206fbb86eaa0462f]: Textual amendment: [Reg. 3(7)(c)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/7/c) omitted (3.8.2021) by virtue of [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/d/iii)
+
+[^key-c9cb8a9d4fe03dda51f19874afd6415e]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/4/1) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/3/a)
+
+[^key-45b8c9c9f367193469cdb6e3e8a13fa3]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2018/68/regulation/4/6) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/3/b)
+
+[^key-701a22ba3339e09af684ca9b090ea8be]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2018/68/regulation/4/7) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/3/a)
+
+[^key-570d5b0256430c4e462bce6a223b49cc]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2018/68/regulation/5/3) inserted (1.6.2020) by [The Merchant Shipping (Port State Control and Prevention of Pollution from Noxious Liquid Substances in Bulk) (Amendment) Regulations 2020 (S.I. 2020/496)](https://www.legislation.gov.uk/uksi/2020/496), [regs. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/496/regulation/3/2)
+
+[^key-ada0b160b3e3f480e1038ef2e70d186c]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2018/68/regulation/5/4) inserted (1.6.2020) by [The Merchant Shipping (Port State Control and Prevention of Pollution from Noxious Liquid Substances in Bulk) (Amendment) Regulations 2020 (S.I. 2020/496)](https://www.legislation.gov.uk/uksi/2020/496), [regs. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/496/regulation/3/2)
+
+[^key-e169fa3cad2730601e20e73952d084ae]: Textual amendment: [Reg. 8(2)(e)-(g)](https://www.legislation.gov.uk/uksi/2018/68/regulation/8/2/e) substituted for [reg. 8(2)(e)(f)](https://www.legislation.gov.uk/uksi/2018/68/regulation/8/2/e) (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/4)
+
+[^key-8834b63862218e695024dcc0067c0f2c]: Textual amendment: Words in [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2018/68/regulation/15/1/c) substituted (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/1/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/7/2/e)
+
+[^key-fdb4423d061bcbe4cb49d924498a8e37]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2018/68/regulation/17/2) substituted (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/1/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/7/2/e)
+
+[^c22910811]: Marginal citation: MSN 1613 Merchant Shipping (Survey and Certification) Regulations 1995: Arbitration Procedure, published by the MCA on 1st June 1995.
+
+[^c22910821]: Marginal citation: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^c22910831]: Marginal citation: Cmnd 9266. The Command Paper is available electronically at http://treaties.fco.gov.uk/docs/pdf/1984/TS0050.pdf. Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW. Following a review of the Convention amendments were adopted by a Conference of Parties to the STCW Convention in Manila from 21st to 25th June 2010 and a consolidated text produced. This 2011 Consolidated version of the Convention, including the Final Act of the 2010 Manila Conference of Parties to the STCW Convention, is available from IMO Publishing. ISBN 978-92-801-15284. Further amendments have been made by IMO resolutions MSC.373(93) and MSC 396.(95). It is prospectively amended by IMO regulation MSC.417(97) which comes into effect on 1st July 2018. Copies of the resolutions are available from the IMO Library.
+
+[^key-42faa24e471278bcaa453c242b0779a2]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2018/68/regulation/24/2) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/5)
+
+[^c22910841]: Marginal citation: The MEPC.2/Circ. lists noxious liquid substances with associated categories and minimum carriage requirements which have been established through Tripartite Agreements and registered with the IMO Secretariat in accordance with regulation 6.3 of Annex II. The current circular is MEPC.2/Circ.23 dated December 2017 and is available from the IMO Library or http://www.imo.org/en/OurWork/Environment/PollutionPrevention/ChemicalPollution/Documents/MEPC.2-CIRC.23.pdf.
+
+[^c22910851]: Marginal citation: Products assessed between the dates of publication of MEPC.2/Circ. are published by the IMO at http://www.imo.org/en/OurWork/Environment/PollutionPrevention/ChemicalPollution/Pages/TripartiteAgreements.aspx and available from the IMO Library.
+
+[^key-6def182502553913d3b0c7dabc7a0548]: Textual amendment: [Reg. 29(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/29/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/6/a)
+
+[^key-71fdb8b85e76931e5d51d7615d4932f5]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/uksi/2018/68/regulation/29/5) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/6/b)
+
+[^c22910861]: Marginal citation: Regulations for the Prevention of Pollution by Oil.
+
+[^key-6b8bf6f4b66ad13c7576d3146042be85]: Textual amendment: Words in reg. 30(3) substituted (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/7) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
+
+[^key-a747ebd911de1a3292a4e116b87b420c]: Textual amendment: Words in [reg. 30(5)](https://www.legislation.gov.uk/uksi/2018/68/regulation/30/5) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/7)
+
+[^c22910881]: Marginal citation: A copy of the Guidelines may be obtained from the IMO Library.
+
+[^c22910891]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Section 258 is amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 1](https://www.legislation.gov.uk/ukpga/1997/28/schedule/1), [paragraph 4](https://www.legislation.gov.uk/ukpga/1997/28/paragraph/4) and Schedule 7, Part 1, and the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [section 115(2)](https://www.legislation.gov.uk/ukpga/2012/9/section/115/2), [Schedule 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2012/9/part/1) and Schedule 10, Part 2.
+
+[^c22910901]: Marginal citation: [Section 284](https://www.legislation.gov.uk/uksi/2018/68/section/284) is amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 1](https://www.legislation.gov.uk/ukpga/1997/28/schedule/1), [paragraph 5](https://www.legislation.gov.uk/ukpga/1997/28/paragraph/5), and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
+
+[^c22910911]: Marginal citation: This Convention was published in Cmnd. 8941, and subsequently in Cmnd 4524. Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW. A copy of the Convention may be obtained from the United Nations.
+
+[^c22910921]: Marginal citation: [Section 145](https://www.legislation.gov.uk/uksi/2018/68/section/145) is amended by the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 36](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36), [Part 2](https://www.legislation.gov.uk/ukpga/2003/44/part/2), [paragraph 13](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/13), and by the [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [Schedule 11](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11), [paragraph 16](https://www.legislation.gov.uk/ukpga/2015/2/paragraph/16).
+
+[^key-05f7dd13308ec7cc5b7615143e3a1e87]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/37/1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+
+[^key-d468aba27950648f789c46f6abc7a9ef]: Textual amendment: [Reg. 37(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/68/regulation/37/2/b/ii) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+
+[^key-05b048ede31002ad0320ba41941de0d6]: Textual amendment: Word in [reg. 37(2)(c)](https://www.legislation.gov.uk/uksi/2018/68/regulation/37/2/c) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+
+[^c22910941]: Marginal citation: [Section 143(6)](https://www.legislation.gov.uk/uksi/2018/68/section/143/6) is amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^c22910951]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [section 19](https://www.legislation.gov.uk/ukpga/2016/12/section/19).
+
+[^c22910961]: Marginal citation: [S.I. 1995/2498](https://www.legislation.gov.uk/uksi/1995/2498). The definition of “permitted level” was inserted by [S.I. 1999/2121](https://www.legislation.gov.uk/uksi/1999/2121). There are other amendments not relevant to this instrument.
+
+[^c22910971]: Marginal citation: [S.I. 2003/1809](https://www.legislation.gov.uk/uksi/2003/1809). There are amendments to this regulation which are not relevant to this instrument.
+
+[^c22910981]: Marginal citation: [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110). The definition of “permitted level” was inserted by [S.I. 2005/1092](https://www.legislation.gov.uk/uksi/2005/1092). There are other amendments to this regulation which are not relevant to this instrument.
+
+[^c22910991]: Marginal citation: [S.I. 2006/2055](https://www.legislation.gov.uk/uksi/2006/2055).
+
+[^key-ef3c4687bcf67c3cc4e8fc2156b8176e]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/68/schedule/paragraph/5) revoked (10.1.2023) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 (S.I. 2022/1342)](https://www.legislation.gov.uk/uksi/2022/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/part/2)

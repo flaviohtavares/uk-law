@@ -1,0 +1,83 @@
+---
+title: The Customs (Export Declarations) (Amendment) Regulations 2022
+id: uksi/2022/588
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-05-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/588
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/588/pdfs/uksiem_20220588_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/588/pdfs/uksi_20220588_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/588/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Customs (Export Declarations) (Amendment) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 588
+
+Customs
+
+The Customs (Export Declarations) (Amendment) Regulations 2022
+
+Made
+
+26th May 2022
+
+Laid before the House of Commons
+
+27th May 2022
+
+Coming into force
+
+18th June 2022
+
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 32(8) and (10) and 35(2)(b), (3)(a) and (4)(a) of, and paragraph 6(1) and (2) of Schedule 1 to, the Taxation (Cross-border Trade) Act 2018[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Customs (Export Declarations) (Amendment) Regulations 2022 and come into force on 18th June 2022.
+
+## 2. Amendment of the Customs (Export) (EU Exit) Regulations 2019
+
+(1) The Customs (Export) (EU Exit) Regulations 2019[^f00002] are amended as follows.
+
+(2) In regulation 17(1A) (export declarations made orally by an individual) for “2022” substitute “2023”.
+
+(3) In regulation 21(1)(e) (export declarations by conduct: certain goods with pedestrians) for “2022” substitute “2023”.
+
+(4) In regulation 22(1)(b) (export declarations by conduct: certain goods in vehicles) for “2022” substitute “2023”.
+
+Justin Holliday
+
+Joanna Rowland
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+26th May 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of these Regulations)
+
+These Regulations are made by the Commissioners for Her Majesty’s Revenue and Customs under Part 1 of the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22).
+
+Regulation 1 provides for citation and commencement.
+
+Regulation 2 makes amendments to the Customs (Export) (EU Exit) Regulations 2019 ([S.I 2019/108](https://www.legislation.gov.uk/uksi/2019/108)) to provide for goods listed in Part G of the Oral or By Conduct list (which is defined in [S.I. 2018/248](https://www.legislation.gov.uk/uksi/2018/248); regulation 14) to continue to be declared to the common export procedure by an oral or conduct declaration after 19<sup>th</sup> June 2022 until 19<sup>th</sup> June 2023.
+
+A Tax Information and Impact Note covering this instrument will be published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Section 37(1) defines “HMRC Commissioners” as the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^f00002]: Footnote: [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108); relevant amending instruments are [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486), [2019/1215](https://www.legislation.gov.uk/uksi/2019/1215), [2020/1234](https://www.legislation.gov.uk/uksi/2020/1234), [2020/1552](https://www.legislation.gov.uk/uksi/2020/1552), [2021/478](https://www.legislation.gov.uk/uksi/2021/478), [2021/1205](https://www.legislation.gov.uk/uksi/2021/1205) and [2022/271](https://www.legislation.gov.uk/uksi/2022/271).

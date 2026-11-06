@@ -1,0 +1,474 @@
+---
+title: The Pension Sharing (Implementation and Discharge of Liability) Regulations 2000
+id: uksi/2000/1053
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2000-04-13'
+text_date: '2021-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2000/1053
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1053/pdfs/uksi_20001053_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1053/pdfs/uksi_20001053_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1053/data.pdf
+pending_changes: 10
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pension Sharing (Implementation and Discharge of Liability) Regulations 2000
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2021-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2000/1053
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2000 No. 1053
+
+PENSIONS
+
+The Pension Sharing (Implementation and Discharge of Liability) Regulations 2000
+
+Made
+
+13th April 2000
+
+Laid before Parliament
+
+19th April 2000
+
+Coming into force
+
+1 December 2000
+
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 10(2)(b), 124(1)[^c1601241] and 174(2) and (3) of the Pensions Act 1995[^c1601242], sections 33(2)(a) and (4), 34(4)(c), 35(2)(b) and 83(4) and (6) of, and paragraphs 1(2)(b), (3)(c), 3(3)(c), 4(2)(c), (4), 5(b), 6(2)(b), 7(1)(b), (2)(a), (2)(b), (3), (4), (6), 8(1), (2), 9, 10, and 13 of Schedule 5 to, the Welfare Reform and Pensions Act 1999[^c1601243], and of all other powers enabling him in that behalf, after consulting such persons as he considered appropriate[^c1601244], hereby makes the following Regulations:
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Pension Sharing (Implementation and Discharge of Liability) Regulations 2000 and shall come into force on 1 December 2000.
+
+(2) In these Regulations—
+
+- “the 1993 Act" means the Pension Schemes Act 1993 [^c1601245];
+- “the 1995 Act" means the Pensions Act 1995;
+- “the 1999 Act" means the Welfare Reform and Pensions Act 1999;
+- “the 2004 Act” means the Pensions Act 2004;[^key-8271ef4c78c3ed24d12257dd0f88d72a]
+- “base rate" means the base rate for the time being quoted by the reference banks or, where there is for the time being more than one such base rate, the base rate which, when the base rate quoted by each bank is ranked in a descending sequence of seven, is fourth in the sequence;
+- [^key-54c81d6f005b0f9071b658b9a7f53272]...
+- [^key-8eb846e3a9ba498825d3c379bf73d040]...
+- [^key-8eb846e3a9ba498825d3c379bf73d040]...
+- [^key-dc49ce1871d6da207c17d45581e214d6]...
+- [^key-54c81d6f005b0f9071b658b9a7f53272]...
+- [^key-54c81d6f005b0f9071b658b9a7f53272]...
+- “the implementation period" has the meaning given by section 34 of the 1999 Act;
+- “the Inland Revenue” means the Commissioners of Inland Revenue;[^key-04464c6499b2010541d5fa02a38eee9c]
+- “normal benefit age" has the meaning given by section 101B of the 1993 Act [^c1601247];
+- “occupational pension scheme" has the meaning given by section 1 of the 1993 Act;
+- “pension arrangement" has the meaning given by section 46(1) of the 1999 Act;
+- “pension credit" means a credit under section 29(1)(b) of the 1999 Act;
+- “pension sharing order” means an order which is mentioned in section 28(l) of the 1999 Act;[^key-440788d408322d9873a41c322ee065a1]
+- “personal pension scheme" has the meaning given by section 1 of the 1993 Act [^c1601248];
+- “person responsible for a pension arrangement" has the meaning given to that expression in section 46(2) of the 1999 Act;
+- [^key-e53360c32a422a9b9ae2856b7c035033]...
+- “the reference banks” means the seven largest persons for the time being who—[^key-ec0c7b210cc1c83e3b334016e77a59a2]
+  - (a) have permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits,
+  - (b) are incorporated in the United Kingdom and carrying on there the regulated activity of accepting deposits, and
+  - (c) quote a base rate in sterling;
+
+  and for the purpose of this definition the size of a person at any time is to be determined by the gross assets denominated in sterling of that person, together with any subsidiary (as defined in section 736 of the Companies Act 1985), as shown in the end of year accounts last published before that time;
+- “the Regulatory Authority" means the Pensions Regulator[^key-bf51e9245efbe965c0eeee8851456ab0];
+- [^key-e1b2c7a0ef7e61982f22c988e48a27e6]...
+- [^key-8eb846e3a9ba498825d3c379bf73d040]...
+- “scheme reconciliation service” means the service set up by[^key-aae1591991e82c7df9f20f2a43489ad2] HMRC which allows schemes to compare the scheme’s records of members who have been contracted-out, and the value of members’ guaranteed minimum pensions, with HMRC’s records of the same, with a view to removing any errors in the scheme’s or HMRC’s records;
+- [^key-54c81d6f005b0f9071b658b9a7f53272]...
+- “section 9(2B) rights” has the meaning given in regulation 2(1) of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015;[^key-ef624896371a081c0502ae430284bf1a]
+- “transferee" has the meaning given by section 34 (5) of the 1999 Act;
+- “transferor" has the meaning given by section 34 (5) of the 1999 Act;
+- “the Transfer Values Regulations” means the Occupational Pension Schemes (Transfer Values) Regulations 1996;[^key-2acd542ee80113aac6238c883aadbde7]
+- “trustees or managers", in relation to an occupational pension scheme or a personal pension scheme means—
+  - (a) in the case of a scheme established under a trust, the trustees of the scheme, and
+  - (b) in any other case, the managers of the scheme;
+- “the valuation day" has the meaning given in section 29(7) of the 1999 Act.
+
+(3)[^key-068e849051d47ea39298368f0709e3b6] The definition of “the reference banks” in paragraph (2) must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act;
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act.
+
+## PART II — EXTENSION, POSTPONEMENT OR CESSATION OF IMPLEMENTATION PERIOD
+
+### 2. Time period for notification to the Regulatory Authority of failure by the trustees or managers of an occupational pension scheme to discharge their liability in respect of a pension credit
+
+The period prescribed for the purposes of section 33(2)(a) of the 1999 Act (period within which notice must be given of non-discharge of pension credit liability) is the period of 21 days beginning with the day immediately following the end of the implementation period.
+
+### 3. Circumstances in which an application for an extension of the implementation period may be made
+
+The circumstances in which an application may be made for the purposes of section 33(4) of the 1999 Act (application for extension of period within which pension credit liability is to be discharged) are that the application is made to the Regulatory Authority before the end of the implementation period; and—
+
+- (a) the Regulatory Authority is satisfied that—
+  - (i) the scheme is being wound up or is about to be wound up;
+  - (ii)[^key-380e6e13507867bfcc664b6ce4dbed39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the financial interests of the members of the scheme generally will be prejudiced if the trustees or managers do what is needed to discharge their liability for the pension credit within that period;
+  - (iv) the transferor or the transferee has not taken such steps as the trustees or managers can reasonably expect in order to satisfy them of any matter which falls to be established before they can properly discharge their liability for the pension credit;
+  - (v) the trustees or managers have not been provided with such information as they reasonably require properly to discharge their liability for the pension credit within the implementation period;
+  - (vi) the transferor or the transferee has disputed the amount of the cash equivalent calculated and verified for the purposes of section 29 of the 1999 Act (creation of pension debits and credits);
+- (b) the provisions of section 53 of the 1993 Act [^c1601256] (supervision: former contracted-out schemes) apply; or
+- (c) the application has been made on one or more of the grounds specified in paragraph (a) or (b), and the Regulatory Authority’s consideration of the application cannot be completed before the end of the implementation period.
+
+### 4. Postponement or cessation of implementation period when an application is made for leave to appeal out of time
+
+(1) The modifications to the operation of section 34 of the 1999 Act (“implementation period") where the pension credit depends on a pension sharing order and the order is the subject of an application for leave to appeal out of time are—
+
+- (a) where the implementation period has not commenced, its commencement shall be postponed; or
+- (b) where the implementation period has commenced, its operation shall cease and it shall not commence afresh until the person responsible for the pension arrangement has received the documents referred to in paragraph (2).
+
+(2) The postponement or cessation referred to in paragraph (1)(a) or (b) shall continue until the person responsible for the pension arrangement is in receipt of—
+
+- (a) confirmation from the court that the order which was the subject of the application for leave to appeal out of time has not been varied or discharged; or
+- (b) a copy of the varied pension sharing order.
+
+(3) Where the person responsible for the pension arrangement has discharged his liability in respect of the pension credit which depends on a pension sharing order and that person subsequently receives notification of an application for leave to appeal out of time in respect of that order, he shall inform the court within 21 days from the date on which he received the notification that liability in respect of that pension credit has been discharged.
+
+### 5. Civil penalties
+
+For the purpose of section 33(2)(b) or (3) of the 1999 Act, the maximum amount of the penalty which may be imposed by the Regulatory Authority under section 10(2)(b) of the 1995 Act is—
+
+- (a) £1,000 in the case of an individual, and
+- (b) £10,000 in any other case.
+
+## PART III — DEATH OF PERSON ENTITLED TO A PENSION CREDIT BEFORE LIABILITY IN RESPECT OF THE PENSION CREDIT IS DISCHARGED
+
+### 6. Discharge of liability in respect of a pension credit following the death of the person entitled to the pension credit[^key-eedb88c67ebeb45d0d33882076cb0928]
+
+(1) The person responsible for the pension arrangement shall following the death of the person entitled to the pension credit discharge his liability in respect of a pension credit in accordance with this regulation.
+
+(2) Where the rules or provisions of a pension arrangement so provide and provided that any requirements of the Inland Revenue under Part 4 of the Finance Act 2004 (pension schemes[^key-15c17b4b3632fdd4610de2e188868de7] etc ) are satisfied, the person responsible for the pension arrangement shall discharge his liability in respect of a pension credit by undertaking to—
+
+- (a) make—
+  - (i) a payment of a lump sum; or
+  - (ii) payments of a pension; or
+  - (iii) payments of both a lump sum and a pension,
+
+  to one or more persons; or
+- (b) enter into an annuity contract or take out a policy of insurance with an insurance company for the benefit of one or more persons; or
+- (c) make a payment or, as the case may be, payments under sub-paragraph (a) and enter into an annuity contract or take out an insurance policy under sub-paragraph (b).
+
+(3) Where paragraph (2)(b) or (c) applies, the annuity contract entered into or insurance policy taken out must satisfy the requirements of paragraph 6(2) of Schedule 5 to the 1999 Act (qualifying arrangements) and regulation 11 of these Regulations.
+
+(4) Where the provisions of paragraph (2) do not apply, liability in respect of a pension credit shall be discharged by retaining the value of the pension credit in the pension arrangement from which that pension credit was derived.
+
+(5) Where—
+
+- (a) liability in respect of a pension credit has been discharged in accordance with paragraph (2); and
+- (b) the value of the payment or payments made, the annuity contract entered into or the insurance policy taken out, as the case may be, is less than the value of the pension credit,
+
+the value of an amount equal to the difference between the value of the pension credit and the value of that payment or those payments, that contract or policy, as the case may be, shall be retained in the pension arrangement from which that pension credit was derived.
+
+## PART IV — DISCHARGE OF LIABILITY IN RESPECT OF A PENSION CREDIT
+
+### 7. Funded pension schemes
+
+(1) The circumstances in which the trustees or managers of a scheme, to which paragraph 1 of Schedule 5 to the 1999 Act applies, may discharge their liability in respect of a pension credit in accordance with sub-paragraph (2)(b) of that paragraph are where—
+
+- (a) the person entitled to the credit has failed to provide his consent in accordance with paragraph 1(2)(a) and (4) of that Schedule; and
+- (b) the circumstances set out in paragraph 1(3) of that Schedule do not apply.
+
+(2) The circumstances in which the trustees or managers of a scheme, to which paragraph 1 of Schedule 5 to the 1999 Act applies, may discharge their liability in respect of a pension credit in accordance with sub-paragraph (3)(c) of that paragraph are where—
+
+- (a) the person entitled to the credit has failed to provide his consent in accordance with paragraph 1(3)(c)[^key-5dc5a15311b476e06ebf24a0489440fa] of that Schedule; and
+- (b)[^key-c261630c294532802a31b046c9090435] either—
+  - (i) the person entitled to the pension credit has failed to provide his consent in accordance with paragraph 1(2)(a) and (4) of that Schedule; or
+  - (ii) the trustees or managers of the scheme have not discharged their liability in accordance with paragraph (1) above.
+
+### 8. Unfunded occupational pension schemes other than public service pension schemes
+
+(1) The circumstances in which the trustees or managers of a scheme, to which paragraph 3 of Schedule 5 to the 1999 Act applies, may discharge their liability in respect of a pension credit in accordance with sub-paragraph (3)(c) of that paragraph are those specified in—
+
+- (a) sub-paragraphs (a) and (b) of paragraph (2), in the case of a registered[^key-38a27dd18a156fe39d029133f1f5b20b] scheme; and
+- (b) sub-paragraphs (a), (b) and (c) of paragraph (2), in the case of an unregistered[^key-d18cefe653d5dcaee9316dbb9c180b65] scheme.
+
+(2) The circumstances specified in this paragraph are—
+
+- (a) the liability of the trustees or managers has not been discharged in accordance with the provisions of paragraph 3(2) of that Schedule;
+- (b) the person entitled to the pension credit has not consented to the discharge of liability in accordance with paragraph 3(3) of that Schedule; and
+- (c) the employer who is associated with the scheme from which the pension credit derives—
+  - (i) consents to the trustees or managers discharging their liability for the credit in accordance with paragraph 3(3) of that Schedule; and
+  - (ii) agrees to compensate the person entitled to the credit fully for any tax liability which he may incur as a result of the trustees or managers of the scheme discharging their liability for the credit in accordance with paragraph 3(3) of that Schedule.
+
+(3)[^key-cc4bcb149fc975c32f6820600e269e91] In this regulation—
+
+- (a) “registered scheme” means an occupational pension scheme which is registered under section 153 of the Finance Act 2004; and
+- (b) “unregistered scheme” means an occupational pension scheme which is not a registered scheme under section 153 of the Finance Act 2004.
+
+### 9. Other pension arrangements
+
+(1) The circumstances in which the person responsible for a pension arrangement, to which paragraph 4 of Schedule 5 to the 1999 Act applies, may discharge his liability in respect of a pension credit in accordance with sub-paragraph (2)(c) of that paragraph are where his liability has not been discharged in accordance with the provisions of paragraph 4(3) or (4) of that Schedule.
+
+(2) The circumstances in which the person responsible for the pension arrangement may discharge his liability in respect of the pension credit under paragraph 4(4) of Schedule 5 to the 1999 Act are where the person responsible for the pension arrangement has not discharged his liability in accordance with the provisions of—
+
+- (a) paragraph (1) above;
+- (b) paragraph 4(2) of that Schedule; or
+- (c) paragraph 4(3) of that Schedule.
+
+### 10. Calculation of the value of appropriate rights[^key-ef522326affb63fa7c21dd781f6a0e87]
+
+The value of rights conferred on a person entitled to a pension credit are to be calculated in a manner which is consistent with the methods adopted and assumptions made when transfers of other pension rights are received by the person responsible for the pension arrangement.
+
+### 11. Qualifying arrangements
+
+(1) The requirements referred to in paragraph 6(2)(b) of Schedule 5 to the 1999 Act (requirements applying to annuity contracts or policies of insurance for the purpose of sub-paragraph (1) of that paragraph) are that the annuity contract is entered into or the insurance policy is taken out with an insurance company which is—
+
+- (a)[^key-e1f47032cca102cc5d9c51293f99398c] a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance; [^key-269fbd34113b8c45f0b35e0adc0a414b]...
+- (b)[^key-269fbd34113b8c45f0b35e0adc0a414b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-643dbcfd289b313b9c90baae9a704c0f] Paragraph (1)(a) [^key-8549f6caf81e5a30755168e356f477ee]... must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000;
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act.
+
+### 12. Disqualification as a destination for pension credit—general
+
+The requirements referred to in paragraph 7(1)(b) of Schedule 5 to the 1999 Act (requirements to be satisfied to qualify pension arrangements as destinations for pension credits) are that the pension arrangement—
+
+- (a) is an arrangement which carries on pension business as defined by section 431B of the Income and Corporation Taxes Act 1988 [^c1601266] (meaning of “pension business");
+- (b) is an overseas arrangement within the meaning given by regulation 1(2) of the Contracting-out (Transfer and Transfer Payment) Regulations 1996 [^c1601267] (citation, commencement and interpretation); or[^key-83e26276faa885b4ce6f0e4a6c7b747f]
+- (c) is an overseas scheme within the meaning given by regulation 1(2) [^c1601268] of the Contracting-out (Transfer and Transfer Payment) Regulations 1996.
+
+### 13. Disqualification as a destination for pension credit—contracted-out or safeguarded rights[^key-6f93ff5abfe624e03b99d5db6da1679f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Disqualification as a destination for pension credit—occupational pension schemes
+
+The calculation of the value of the rights of the person entitled to the pension credit for the purposes of paragraph 7(3) of Schedule 5 to the 1999 Act shall be made in accordance with the methods adopted and assumptions made by the scheme which are consistent with the methods adopted and assumptions made by that scheme when transfers of other pension rights are received by the scheme.
+
+### 15. Disqualification as a destination for pension credit—annuity contracts and insurance policies
+
+(1) The circumstances referred to in paragraph 7(4) of Schedule 5 to the 1999 Act (circumstances in which an annuity contract or insurance policy is disqualified as a destination for a pension credit) are where the requirements specified in paragraphs (2) to (7) are not satisfied.
+
+(2) The annuity contract or insurance policy must provide that that contract or policy, as the case may be, may not be assigned or surrendered unless—
+
+- (a) the person entitled to the pension credit; or
+- (b) if the person entitled to the pension credit has died, his widow, widower or surviving civil partner[^key-e0fa6849177c5ccbff2b3a6278246046],
+
+has consented to the assignment or surrender.
+
+(3) The benefits previously secured by the annuity contract or insurance policy become secured, or are replaced by benefits which are secured by another qualifying arrangement.
+
+(4) The annuity contract or insurance policy, as the case may be, must provide that the benefits secured by that contract or policy may be commuted if [^key-2fc516b6cd50ca351dc7861691d39506]...—
+
+- (a) the conditions set out in paragraph (5) are satisfied; or
+- (aa)[^key-e128832437c3a4193811beb4e4118218] the condition set out in paragraph (5A) is satisfied; or
+- (b) the conditions set out in paragraph (6) are satisfied.
+
+(5) The conditions referred to in paragraph (4)(a) are—
+
+- (a) the benefits secured by the annuity contract or insurance policy have become payable[^key-73ab0812312a844f40b4dd340badcc44]...;
+- (b)[^key-498c3a9f1ad64e2fba97b68133ee3dfa] any lump sum payment—
+  - (i) is permitted by the lump sum rule in section 166 of the Finance Act 2004; and
+  - (ii) qualifies as a trivial commutation lump sum for the purposes of paragraph 7 of Part 1 of Schedule 29 to that Act; and
+- (c) all of the interest of the person entitled to the pension credit under the annuity contract or insurance policy is discharged upon payment of a lump sum.
+
+(5A)[^key-af55216af7fb8ccf397334d7d45fb7d0] The condition referred to in paragraph (4)(aa) is that the lump sum payment is—
+
+- (a) made by a registered pension scheme (within the meaning given in section 150(2) of the Finance Act 2004 (meaning of “pension scheme”));
+- (b) a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009; and
+- (c) made to or in respect of a member.
+
+(6) The conditions referred to in paragraph (4)(b) are—
+
+- (a) the benefits secured by the annuity contract or insurance policy have become payable and the person entitled to the pension credit requests or consents to the commutation;
+- (b) the person entitled to the pension credit is suffering from serious ill health prior to normal benefit age; and
+- (c) the insurance company with which the annuity contract is entered into, or with which the insurance policy is taken out, assumes an obligation to pay the benefits secured by the annuity contract or insurance policy to—
+  - (i) the person entitled to the pension credit;
+  - (ii) the trustees of a trust for the benefit of the person entitled to the pension credit; or
+  - (iii) the trustees of a trust for the benefit of the dependants of the person entitled to the pension credit.
+
+(7) The annuity contract or insurance policy must contain, or be endorsed with, terms so as to provide for any increase in accordance with regulation 32 of the Pension Sharing (Pension Credit Benefit) Regulations 2000 [^c1601274] (increase of relevant pension) which would have been applied to the benefits which have become secured or been replaced by the annuity contract or insurance policy had the discharge of liability not taken place.
+
+(8) In this regulation—
+
+“serious ill health" means ill health which is such as to give rise to a life expectancy of less than one year from the date on which commutation of the benefits secured by the annuity contract or insurance policy is applied for.
+
+### 16. Adjustments to the amount of the pension credit—occupational pension schemes which are underfunded on the valuation day
+
+(1) The circumstances referred to in paragraph 8(1)(d) of Schedule 5 to the 1999 Act (adjustments to amount of pension credit) are—
+
+- (a) the discharge of liability in respect of the pension credit in accordance with paragraph 1(3) of Schedule 5 to the 1999 Act is at the request, or with the consent, of the person entitled to the pension credit;
+- (b) the person entitled to the pension credit has refused an offer by the trustees or managers of the occupational pension scheme from which the pension credit is derived to discharge their liability in respect of the pension credit, without any reduction in the amount of the credit, in accordance with the provisions of paragraph 1(2) of Schedule 5 to the 1999 Act (conferring appropriate rights in that scheme on the person entitled to the pension credit); and
+- (c) prior to making his request or giving his consent in accordance with sub-paragraph (a) the person entitled to the pension credit has received from the trustees or managers of the occupational pension scheme from which the pension credit is derived, a written statement which provides the following information—
+  - (i) the reasons why the amount of the pension credit has been reduced;
+  - (ii) the amount by which the pension credit has been reduced; and
+  - (iii) where possible, an estimate of the date by which it will be possible to pay the full, unadjusted amount of the pension credit.
+
+(2)[^key-556c7a7bed09bcfff019e8ab6e5f0c5a] Reductions may be made to a pension credit in accordance with paragraphs 2 to 6 of Schedule 1A to the Transfer Values Regulations modified as if—
+
+- (a) in paragraph 2, the reference to “initial cash equivalent” were a reference to “pension credit”;
+- (b) in paragraph 3(b), the words “in respect of which the member’s cash equivalent is being calculated and verified” were “to which the pension credit relates”;
+- (c) in paragraph 4, the words “member’s initial cash equivalent that is payable in respect of” were “pension credit that relates to”; and
+- (d) in paragraph 5, the words “a member’s initial cash equivalent” were “the pension credit”.
+
+### 17. Adjustments to the amount of the pension credit—payments made without knowledge of the pension debit
+
+For the purposes of paragraph 9 of Schedule 5 to the 1999 Act (adjustments to amount of pension credit), where the cash equivalent of the member’s shareable rights after deduction of the payment referred to in sub-paragraph (b) of that paragraph, is less than the amount of the pension debit, the pension credit shall be reduced to that lesser amount.
+
+### 18. Adjustments to the amount of the pension credit—increasing the amount of the pension credit
+
+(1) For the purposes of paragraph 10 of Schedule 5 to the 1999 Act (adjustments to amount of pension credit) the trustees or managers of an occupational pension scheme to which paragraph 1(3) or 3(3) of Schedule 5 to the 1999 Act applies shall increase the amount of the pension credit by—
+
+- (a) the amount, if any, by which the amount of that pension credit falls short of what it would have been if the valuation day had been the day on which the trustees or managers make the payment; or
+- (b) if it is greater, interest on the amount of that pension credit calculated on a daily basis over the period from the valuation day to the day on which the trustees or managers make the payment, at an annual rate of one per cent. above the base rate.
+
+(2) For the purposes of paragraph 10 of Schedule 5 to the 1999 Act the trustees or managers of a personal pension scheme to which paragraph 1(3) of Schedule 5 to the 1999 Act applies, or a person responsible for a pension arrangement to which paragraph 4(2) of Schedule 5 to the 1999 Act applies, shall increase the amount of the pension credit by—
+
+- (a) the interest on the amount of that pension credit, calculated on daily basis over the period from the valuation day to the day on which the trustees or managers or the person responsible for the pension arrangement make the payment, at the same rate as that payable for the time being on judgment debts by virtue of section 17 of the Judgments Act 1838 [^c1601277]; or
+- (b) if it is greater, the amount, if any, by which the amount of that pension credit falls short of what it would have been if the valuation day had been the day on which the trustees or managers or the person responsible for the pension arrangement make the payment.
+
+Signed by authority of the Secretary of State for Social Security
+
+Jeff Rooker
+
+Minister of State,
+
+Department of Social Security
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the circumstances in which the implementation period may be extended, postponed or in which it may cease, and how a person responsible for a pension arrangement may discharge his liability in respect of a pension credit.
+
+Part I and regulation 1 provide for citation, commencement and interpretation.
+
+Part II and regulations 2 to 5 deal with the extension, postponement or cessation of the implementation period.
+
+Regulation 2 specifies the period within which the trustees or managers of an occupational pension scheme are to notify the Occupational Pensions Regulatory Authority (OPRA) should they fail to discharge their liability in respect of a pension credit within the implementation period.
+
+Regulation 3 sets out the circumstances in which OPRA may grant an extension of the implementation period.
+
+Regulation 4 provides for the postponement or cessation of the implementation period for a pension credit when an application is made for leave to appeal out of time.
+
+Regulation 5 sets out the maximum penalties which OPRA may impose in any case where OPRA is satisfied that a trustee or manager has not taken all reasonable steps to ensure that their liability for the pension credit was discharged within the implementation period, or to ensure that OPRA was notified of the failure to discharge that liability within the period prescribed by regulation 2.
+
+Part III and regulation 6 provide for how liability in respect of a pension credit may be discharged in the event of the death of the person entitled to a pension credit.
+
+Part IV and regulations 7 to 18 provide for how liability in respect of a pension credit may be discharged.
+
+Regulations 7 and 8 set out the circumstances in which the trustees or managers of a funded pension scheme and an unfunded pension scheme other than a public service scheme may discharge their liability in respect of a pension credit.
+
+Regulation 9 sets out the circumstances in which a person responsible for an annuity contract or an insurance policy may discharge his liability in respect of a pension credit.
+
+Regulation 10 provides for how the value of appropriate rights is to be calculated.
+
+Regulation 11 specifies the requirements to be met by annuity contracts or policies of insurance in order for them to be qualifying arrangements.
+
+Regulations 12 to 15 specify the requirements to be met by a pension arrangement in order for it not to be disqualified as a destination for a pension credit.
+
+Regulations 16 to 18 specify the circumstances in which the amount of a pension credit may be reduced or increased.
+
+An assessment of the cost to business of the provisions of the Welfare Reform and Pensions Act 1999, including these Regulations, is detailed in the Regulatory Impact Assessment for that Act. A copy of this Assessment has been placed in the libraries of both Houses of Parliament. Copies can be obtained by post from the Department of Social Security, Pensions on Divorce, 3rd Floor, The Adelphi, 1-11 John Adam Street, London WC2N 6HT.
+
+## Annotations
+
+[^c1601241]: Marginal citation: [Section 124(1)](https://www.legislation.gov.uk/uksi/2000/1053/section/124/1) is cited because of the meaning there given to “prescribed" and “regulations".
+
+[^c1601242]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c1601243]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^c1601244]: Marginal citation: *See* sections 120(1) of the Pensions Act 1995 and 83(11) of the Welfare Reform and Pensions Act 1999.
+
+[^c1601245]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^key-8271ef4c78c3ed24d12257dd0f88d72a]: Textual amendment: Words in reg. 1(2) inserted (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/3/paragraph/10/2)
+
+[^key-54c81d6f005b0f9071b658b9a7f53272]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/1/2) omitted (6.4.2021) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2016/200/article/1/5), [36(2)](https://www.legislation.gov.uk/uksi/2016/200/article/36/2)
+
+[^key-8eb846e3a9ba498825d3c379bf73d040]: Textual amendment: Words in reg. 1(2) omitted (1.10.2008) by virtue of [Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 6(a)(ii)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/6/a/ii)
+
+[^key-dc49ce1871d6da207c17d45581e214d6]: Textual amendment: Words in reg. 1(2) deleted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/11/2/a)
+
+[^key-04464c6499b2010541d5fa02a38eee9c]: Textual amendment: Words in reg. 1(2) inserted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/11/2/b)
+
+[^c1601247]: Marginal citation: Section 101B is inserted by section 37 of the Welfare Reform and Pensions Act 1999.
+
+[^key-440788d408322d9873a41c322ee065a1]: Textual amendment: Words in reg. 1(2) substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [11(2)(c)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/11/2/c)
+
+[^c1601248]: Marginal citation: The definition of “personal pension scheme" is amended by paragraph 3(1)(a) of Schedule 2 to the Welfare Reform and Pensions Act 1999.
+
+[^key-e53360c32a422a9b9ae2856b7c035033]: Textual amendment: Words in reg. 1(2) deleted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [11(2)(d)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/11/2/d)
+
+[^key-ec0c7b210cc1c83e3b334016e77a59a2]: Textual amendment: Words in reg. 1(2) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [590(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/590/1)
+
+[^key-bf51e9245efbe965c0eeee8851456ab0]: Textual amendment: Words in reg. 1(2) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/14/2)
+
+[^key-e1b2c7a0ef7e61982f22c988e48a27e6]: Textual amendment: Words in reg. 1(2) omitted (6.4.2009) by virtue of [Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/598/article/7/2)
+
+[^key-aae1591991e82c7df9f20f2a43489ad2]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/1/2) inserted (6.4.2017) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/200/article/1/3), [30(2)](https://www.legislation.gov.uk/uksi/2016/200/article/30/2)
+
+[^key-ef624896371a081c0502ae430284bf1a]: Textual amendment: Words in reg. 1(2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2016/200/article/16/2/b)
+
+[^key-2acd542ee80113aac6238c883aadbde7]: Textual amendment: Words in reg. 1(2) inserted (1.10.2008) by [Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 6(a)(i)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/6/a/i)
+
+[^key-068e849051d47ea39298368f0709e3b6]: Textual amendment: Reg. 1(3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [590(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/590/2)
+
+[^key-380e6e13507867bfcc664b6ce4dbed39]: Textual amendment: [Reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/3/a/ii) omitted (6.4.2021) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2016/200/article/1/5), [36(3)](https://www.legislation.gov.uk/uksi/2016/200/article/36/3)
+
+[^c1601256]: Marginal citation: Section 53 was amended by paragraph 48 of Schedule 5 to the Pensions Act 1995 and by paragraphs 52 and 53 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
+
+[^key-eedb88c67ebeb45d0d33882076cb0928]: Textual amendment: Reg. 6 substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/11/3)
+
+[^key-15c17b4b3632fdd4610de2e188868de7]: Textual amendment: Words in reg. 6(2) substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [art. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [17(2)](https://www.legislation.gov.uk/uksi/2006/744/regulation/17/2)
+
+[^key-5dc5a15311b476e06ebf24a0489440fa]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/7/2/a) substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [11(4)(a)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/11/4/a)
+
+[^key-c261630c294532802a31b046c9090435]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/7/2/b) substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [11(4)(b)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/11/4/b)
+
+[^key-38a27dd18a156fe39d029133f1f5b20b]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/8/1/a) substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [art. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1)[art. 17(3)(a)(i)](https://www.legislation.gov.uk/uksi/2006/744/regulation/17/3/a/i)
+
+[^key-d18cefe653d5dcaee9316dbb9c180b65]: Textual amendment: Word in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/8/1/b) substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [art. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1)[art. 17(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/744/regulation/17/3/a/ii)
+
+[^key-cc4bcb149fc975c32f6820600e269e91]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/8/3) substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [art. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1)[art. 17(3)(b)](https://www.legislation.gov.uk/uksi/2006/744/regulation/17/3/b)
+
+[^key-ef522326affb63fa7c21dd781f6a0e87]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/1053/regulation/10) substituted (1.10.2008) by [Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/6/b)
+
+[^key-e1f47032cca102cc5d9c51293f99398c]: Textual amendment: Reg. 11(1)(a)(b) substituted (1.12.2001) for reg. 11(1)(a)-(c) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [591(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/591/1)
+
+[^key-269fbd34113b8c45f0b35e0adc0a414b]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/11/1/b) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/13/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-643dbcfd289b313b9c90baae9a704c0f]: Textual amendment: Reg. 11(2) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [591(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/591/2)
+
+[^key-8549f6caf81e5a30755168e356f477ee]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/11/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2019/192/regulation/13/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1601266]: Marginal citation: Section 431B was inserted by paragraph 2 of Schedule 8 to the [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).
+
+[^c1601267]: Marginal citation: [S.I. 1996/1462](https://www.legislation.gov.uk/uksi/1996/1462).
+
+[^key-83e26276faa885b4ce6f0e4a6c7b747f]: Textual amendment: Word in [reg. 12(b)](https://www.legislation.gov.uk/uksi/2000/1053/regulation/12/b) substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [11(6)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/11/6)
+
+[^c1601268]: Marginal citation: The definition of “overseas scheme" was amended by paragraph 7(2) of Schedule 1 to [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786).
+
+[^key-6f93ff5abfe624e03b99d5db6da1679f]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/1053/regulation/13) omitted (6.4.2009) by virtue of [Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2009/598/article/7/3)
+
+[^key-e0fa6849177c5ccbff2b3a6278246046]: Textual amendment: Words in reg. 15(2)(b) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-2fc516b6cd50ca351dc7861691d39506]: Textual amendment: Word in reg. 15(4) omitted (1.12.2009) by virtue of [Occupational and Personal Pension Schemes (Authorised Payments) Amendment Regulations 2009 (S.I. 2009/2930)](https://www.legislation.gov.uk/uksi/2009/2930), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2930/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/uksi/2009/2930/regulation/8/a/i)
+
+[^key-e128832437c3a4193811beb4e4118218]: Textual amendment: Reg. 15(4)(aa) inserted (1.12.2009) by [Occupational and Personal Pension Schemes (Authorised Payments) Amendment Regulations 2009 (S.I. 2009/2930)](https://www.legislation.gov.uk/uksi/2009/2930), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2930/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2009/2930/regulation/8/a/ii)
+
+[^key-73ab0812312a844f40b4dd340badcc44]: Textual amendment: Words in reg. 15(5)(a) omitted (6.4.2006) by virtue of [Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [art. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1)[art. 17(4)(a)](https://www.legislation.gov.uk/uksi/2006/744/regulation/17/4/a)
+
+[^key-498c3a9f1ad64e2fba97b68133ee3dfa]: Textual amendment: Reg. 15(5)(b) substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [art. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1)[art. 17(4)(b)](https://www.legislation.gov.uk/uksi/2006/744/regulation/17/4/b)
+
+[^key-af55216af7fb8ccf397334d7d45fb7d0]: Textual amendment: Reg. 15(5A) inserted (1.12.2009) by [Occupational and Personal Pension Schemes (Authorised Payments) Amendment Regulations 2009 (S.I. 2009/2930)](https://www.legislation.gov.uk/uksi/2009/2930), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2930/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2009/2930/regulation/8/b)
+
+[^c1601274]: Marginal citation: [S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054).
+
+[^key-556c7a7bed09bcfff019e8ab6e5f0c5a]: Textual amendment: Reg. 16(2) substituted (1.10.2008) for reg. 16(2)-(3) by [Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/6/c)
+
+[^c1601277]: Marginal citation: 1 & 2 Vic. c. 110; the rate of interest was amended by [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564).

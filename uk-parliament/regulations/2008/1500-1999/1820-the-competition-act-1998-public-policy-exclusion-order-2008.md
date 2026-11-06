@@ -1,0 +1,109 @@
+---
+title: The Competition Act 1998 (Public Policy Exclusion) Order 2008
+id: uksi/2008/1820
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-07-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/1820
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/1820/pdfs/uksiem_20081820_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1820/pdfs/uksi_20081820_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/1820/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Competition Act 1998 (Public Policy Exclusion) Order 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 1820
+
+Competition
+
+The Competition Act 1998 (Public Policy Exclusion) Order 2008
+
+Made
+
+8th July 2008
+
+Laid before Parliament
+
+10th July 2008
+
+Coming into force
+
+1st September 2008
+
+The Secretary of State is satisfied that there are exceptional and compelling reasons of public policy why the prohibition contained in Chapter I of the Competition Act 1998[^f00001] ought not to apply to agreements of the description specified in this Order. In exercise of the powers conferred by paragraphs 7(1) and (2) of Schedule 3 to the Competition Act 1998, the Secretary of State makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Competition Act 1998 (Public Policy Exclusion) Order 2008 and shall come into force on 1st September 2008.
+
+## 2. Interpretation
+
+In this Order—
+
+- “Core Competence” means the ability to provide or manage installations, buildings or services required for a nuclear submarine or a nuclear reactor and the ability to do one or more of the following—
+  - (a) design and build a nuclear submarine and integrate its equipment and systems;
+  - (b) design and build a nuclear reactor;
+  - (c) provide or manage the repair and maintenance of a nuclear submarine and a nuclear reactor; or
+  - (d) provide or manage the removal of a nuclear reactor, the nuclear reactor fuel and other radioactive material from a nuclear submarine;
+- “equipment” means an item or items required for the construction or operation of a nuclear submarine but does not include any weapon;
+- “joint buying agreement” means an agreement between two or more Submarine Enterprise Collaboration Participants for the joint purchase of goods or services;
+- “nuclear reactor” means a nuclear reactor for a nuclear submarine;
+- “nuclear submarine” means a submarine developed or manufactured for the Secretary of State where that submarine is powered by a nuclear steam raising plant;
+- “Submarine Enterprise Collaboration Participant” means a person satisfying the criteria in article 3;
+- “systems” means assemblies of equipment that are to be integrated into a nuclear submarine.
+
+## 3. Submarine Enterprise Collaboration Participant
+
+In order to be a Submarine Enterprise Collaboration Participant, a person shall—
+
+- (a) have one or more Core Competences; and
+- (b) be a party to one or more agreements with the Secretary of State that—
+  - (i) concern the whole or part of a nuclear submarine; and
+  - (ii) designate that person as a Submarine Enterprise Collaboration Participant.
+
+## 4. Exclusion from the Chapter I prohibition
+
+(1) The prohibition contained in Chapter I of the Competition Act 1998 shall not apply to an agreement concerning any part of a Core Competence and made in the circumstances set out in paragraph (2) where it is between—
+
+- (a) the Secretary of State and one or more Submarine Enterprise Collaboration Participants;
+- (b) two or more Submarine Enterprise Collaboration Participants; or
+- (c) one or more Submarine Enterprise Collaboration Participants and any other person in order to give effect to a joint buying agreement.
+
+(2) The circumstances referred to in paragraph (1) are—
+
+- (a) the purpose of the agreement is to protect the essential security interests of the United Kingdom; and
+- (b) the agreement does not have as its object or effect the prevention, restriction or distortion of competition within the United Kingdom except to the extent that it concerns the exercise of any part of a Core Competence by a Submarine Enterprise Collaboration Participant.
+
+John Hutton
+
+Secretary of State
+
+Department for Business, Enterprise and Regulatory Reform
+
+8th July 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Chapter I of the Competition Act 1998 prohibits agreements between undertakings, decisions by associations or concerted practices which may affect trade within the United Kingdom, and have as their object or effect the prevention, restriction or distortion of competition within the United Kingdom.
+
+Where there are exceptional and compelling reasons of public policy to do so, the Secretary of State may exclude agreements or descriptions of agreements from the prohibition contained in Chapter I.
+
+This Order applies to nuclear submarines developed or manufactured for the Secretary of State. It disapplies the prohibition contained in Chapter I of the Competition Act 1998 in the case of agreements concerning any part of a Core Competence between the Secretary of State and a Submarine Enterprise Collaboration Participant, or between two or more Submarine Enterprise Collaboration Participants, or between one or more Submarine Enterprise Collaboration Participants and any other person in order to give effect to a joint buying agreement. A joint buying agreement is an agreement between two or more Submarine Enterprise Collaboration Participants for the joint purchase of goods or services. The agreement must have the purpose of protecting the essential security interests of the United Kingdom. In addition, an agreement must not have as its object or effect the prevention, restriction or distortion of competition within the United Kingdom except to the extent that it concerns the exercise of any part of a Core Competence by a Submarine Enterprise Collaboration Participant.
+
+An impact assessment for this Order has been prepared by the Ministry of Defence and is available from Defence Equipment and Support, Ministry of Defence, Abbey Wood, Bristol, BS34 8JH and on the Ministry of Defence website at http://www.mod.uk/DefenceInternet/AboutDefence/CorporatePublications/ConsultationsandCommunications/PublicConsultations/ .
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c.41](https://www.legislation.gov.uk/ukpga/1998/41).

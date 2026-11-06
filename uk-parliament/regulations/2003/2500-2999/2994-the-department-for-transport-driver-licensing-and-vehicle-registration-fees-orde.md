@@ -1,0 +1,150 @@
+---
+title: The Department for Transport (Driver Licensing and Vehicle Registration Fees) Order 2003
+id: uksi/2003/2994
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-11-20'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/2994
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2994/pdfs/uksi_20032994_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2994/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Department for Transport (Driver Licensing and Vehicle Registration Fees) Order 2003
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 2994
+
+FEES AND CHARGES
+
+The Department for Transport (Driver Licensing and Vehicle Registration Fees) Order 2003
+
+Made
+
+20th November 2003
+
+Coming into force
+
+21st November 2003
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 102 of the Finance (No. 2) Act 1987 [^c5098181], and of all other powers enabling him in that behalf, hereby makes the following Order, a draft of which has been approved by a resolution of the House of Commons:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Department for Transport (Driver Licensing and Vehicle Registration Fees) Order 2003 and shall come into force on the day after it is made.
+
+(2) In this Order—
+
+- “**the 1988 Act**” means the Road Traffic Act 1988 [^c5098191]; and
+- “**the 1994 Act**” means the Vehicle Excise and Registration Act 1994 [^c5098201].
+
+## 2. Costs to be taken into account in fixing driver licensing or vehicle registration fees
+
+(1) In relation to each of the powers to fix fees specified in paragraph (2), the functions listed in paragraph (3) below are hereby specified for the purposes of section 102(3) of the Finance (No. 2) Act 1987 [^c5098211] as functions, the costs of which are to be taken into account in determining the amount of those fees.
+
+(2) The powers to fix fees are—
+
+- (a) the powers in section 97(1)(a) [^c5098221] (power to prescribe a fee relating to a driving licence application) of the 1988 Act; [^key-2f2399fb8cd56eb7d25f7762ab9ff481]...
+- (aa)[^key-c4527a4c3a9905bccbc014f6e1193f47] the powers in section 99(7ZA) of the 1988 Act (power to prescribe a fee for the renewal of a photocard driving licence);
+- (ab) the powers in section 105(2)(e) of the 1988 Act (power to prescribe a fee for the issue of a driving licence in the place of a lost or defaced licence); and
+- (b) the respective powers in each of section 7(6)(b) [^c5098231] (power to prescribe a fee to be paid on the issue of a new vehicle licence), section 21(3) [^c5098241] (power to prescribe a fee for registration of a vehicle), section 22(1)(c) (power to fix a fee for the making available of particulars contained in the vehicle register), section 22(1)(i) [^c5098251] (power to fix a fee for the issue of new registration documents in specified circumstances), and section 22(2A)(c) [^c5098261] (power to make provision for the payment of a fee with respect to a lost, stolen, destroyed or damaged nil licence), of the 1994 Act.
+
+(3) The functions are—
+
+- (a) the functions of the Secretary of State in relation to driver licensing under Parts III and IV of the 1988 Act and Schedule 1 to the Road Traffic (Driver Licensing and Information System) Act 1989 [^c5098271], other than the functions relating to the test of competence to drive motor vehicles or to training courses for drivers of motor vehicles;
+- (b) all other functions of the Secretary of State in connection with driver licensing (other than the functions relating to the test of competence to drive motor vehicles or to training courses for drivers of motor vehicles) including without prejudice to the generality of the foregoing—
+  - (i) carrying out enforcement work relating to keeping records of endorsements and disqualifications and ensuring the recovery of erroneous or revoked licences; and
+  - (ii) the acquisition, provision, or sharing, of data, or information on data, from, to, or with, the concerned data subjects or any other authorised or entitled parties;
+- (c) the functions of the Secretary of State in relation to the processing of vehicle registration applications or the registration of vehicles under the 1994 Act;
+- (d) the functions of maintaining the register of vehicles, and all vehicle and keeper details and registrations in relation thereto, and the functions of checking and investigating the accuracy of all such information other than the functions of vehicle examination provided for under section 22A(2)(a) [^c5098281] of the 1994 Act;
+- (e) the functions of the Secretary of State in satisfying himself before registering a vehicle that, in so far as they apply, the requirements of section 66 [^c5098291] (prohibition of the grant of excise licences for certain vehicles) of the 1988 Act, or (as the case may be) of article 72 of the Road Traffic (Northern Ireland) Order 1995 [^c5098301], are fulfilled in relation to the vehicle;
+- (f) all other functions of the Secretary of State in relation to the registration of vehicles including without prejudice to the generality of the foregoing—
+  - (i) ensuring that registration requirements are fulfilled in respect of imported, exported, and badly damaged vehicles;
+  - (ii) activities relating to the change or assignment of a vehicle registration mark, the transfer of registration marks between vehicles, or the retention of a registration mark without allocation to a vehicle; and
+  - (iii) providing information on data held to the relevant data subject or to lawfully authorised or entitled third parties;
+- (g) the functions of preventing, investigating, or prosecuting offences relating to driver licensing or vehicle registration or otherwise relating to any form of identity fraud, and taking or aiding any enforcement in relation thereto; and
+- (h) the functions of the Secretary of State in relation to anything done or proposed to be done by any[^key-05ac00fb7082b4ed37e0a38abc6a9732] international body with respect to driver licensing or vehicle registration or to any of the functions or their subject matter in sub-paragraphs (a) to (g) inclusive.
+
+## 3. Matters to be taken into account in determining costs
+
+In relation to any functions the costs of which fall to be taken into account in the exercise of a power to fix a fee specified in article 2(2) (whether by virtue of article 2(3) or otherwise) the matters specified for the purposes of section 102(4) of the Finance (No. 2) Act 1987 [^c5098311] shall be the following—
+
+- (a) all costs incurred by the Secretary of State which are directly attributable to the functions specified in article 2(3);
+- (b) that proportion of the costs, not falling within paragraph (a) above, incurred by, or on behalf of the Secretary of State, in relation to staff, management functions, financial charges or penalties, legal costs, equipment, premises, facilities and all other matters connected directly or indirectly therewith, being the proportion which falls to be attributed to any of the functions specified in article 2(3);
+- (c) a return on the resources employed in carrying out any of the functions specified in article 2(3);
+- (d) net income arising from services provided by the Secretary of State in connection with, or relating but additional to, the functions specified in article 2(3);
+- (e) the allocation of sums in respect of matters which would otherwise be covered by insurance, and the allocation of a sum in respect of superannuation payments and provision for bad debts in relation to any of the functions specified in article 2(3);
+- (f) amounts recovered in relation to any of the functions specified in article 2(3) other than by way of such fees as are referred to in this Order;
+- (g) the allocation over a period of years of initial or exceptional costs in relation to any of the functions specified in article 2(3);
+- (h) the recovery of any deficits incurred or accrued in relation to any of the functions specified in article 2(3); and
+- (i) the transfer of, or obligation to transfer, sums corresponding to any part of any fees paid in connection with vehicle registration or driver licensing so as to offset any subsidy arising between Northern Ireland and Great Britain in connection with vehicle registration or driver licensing.
+
+## 4. Revocation
+
+In Schedule 1 to the Department of Transport (Fees) Order 1988 [^c5098321], item 6 in Table III, and item 1 in Table VI, are revoked.
+
+Signed by authority of the Secretary of State
+
+David Jamieson
+
+Parliamentary Under Secretary of State,
+
+Department for Transport
+
+*(This note is not part of the Order)*
+
+This Order specifies the functions, the costs of which the Secretary of State may recover when setting the fees relating to driver licensing and vehicle registration. In particular it provides that he may recover costs relating to vehicle licensing when setting driver licensing fees and vice versa. It also extends the range of matters which may be taken into account in determining the costs of the specified functions.
+
+The Order revokes relevant provisions of the Department of Transport (Fees) Order 1988 as amended.
+
+A full regulatory impact of the assessment of the effect that this instrument will have on the costs of business is available from the Vehicle Policy Group, DVLA, Longview Road, Morriston, Swansea, SA6 7JL.
+
+## Annotations
+
+[^c5098181]: Marginal citation: [1987 c. 51](https://www.legislation.gov.uk/ukpga/1987/51).
+
+[^c5098191]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^c5098201]: Marginal citation: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
+
+[^c5098211]: Marginal citation: [1987 c. 51](https://www.legislation.gov.uk/ukpga/1987/51).
+
+[^c5098221]: Marginal citation: Section 97(1)(a) was amended by the [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22)](https://www.legislation.gov.uk/ukpga/1989/22), [section 7](https://www.legislation.gov.uk/ukpga/1989/22/section/7) and Schedule 3, paragraph 9(b).
+
+[^key-2f2399fb8cd56eb7d25f7762ab9ff481]: Textual amendment: Word in [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/2/a) omitted (28.3.2008) by virtue of [The Department for Transport (Driver Licensing and Vehicle Registration Fees) (Amendment) Order 2008 (S.I. 2008/908)](https://www.legislation.gov.uk/uksi/2008/908), [arts. 1](https://www.legislation.gov.uk/uksi/2008/908/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/908/article/3/a)
+
+[^key-c4527a4c3a9905bccbc014f6e1193f47]: Textual amendment: [Art. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/2/aa)[(ab)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/2/ab) inserted (28.3.2008) by [The Department for Transport (Driver Licensing and Vehicle Registration Fees) (Amendment) Order 2008 (S.I. 2008/908)](https://www.legislation.gov.uk/uksi/2008/908), [arts. 1](https://www.legislation.gov.uk/uksi/2008/908/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/908/article/3/b)
+
+[^c5098231]: Marginal citation: Section 7(6)(b) was amended by the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [section 23](https://www.legislation.gov.uk/ukpga/1996/8/section/23) and Schedule 2, paragraph 2(4)(c).
+
+[^c5098241]: Marginal citation: Section 21(3) was inserted by the [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [section 19](https://www.legislation.gov.uk/ukpga/1995/4/section/19) and Schedule 4, paragraph 33.
+
+[^c5098251]: Marginal citation: Section 22(1)(i) was inserted by the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [section 23](https://www.legislation.gov.uk/ukpga/1996/8/section/23) and Schedule 2, paragraph 4(5).
+
+[^c5098261]: Marginal citation: Section 22(2A) was inserted by the [Finance (No.2) Act 1997 (c. 58)](https://www.legislation.gov.uk/ukpga/1997/58), [section 14(3)](https://www.legislation.gov.uk/ukpga/1997/58/section/14/3), and subsection (2A)(c) was inserted by the [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [section 18](https://www.legislation.gov.uk/ukpga/1998/36/section/18).
+
+[^c5098271]: Marginal citation: [1989 c. 22](https://www.legislation.gov.uk/ukpga/1989/22).
+
+[^c5098281]: Marginal citation: Section 22A was inserted by the [Vehicles (Crime) Act 2001 (c. 3)](https://www.legislation.gov.uk/ukpga/2001/3), [section 33(2)](https://www.legislation.gov.uk/ukpga/2001/3/section/33/2).
+
+[^c5098291]: Marginal citation: In section 66, subsections (1)(a) and (3) were amended by the 1994 Act, section 63 and Schedule 3, paragraph 24(1) and subsection (4A) was inserted by the [Motor Vehicles (E.C. Type Approval) Regulations 1992 (S.I. 1992/3107)](https://www.legislation.gov.uk/uksi/1992/3107).
+
+[^c5098301]: Marginal citation: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994).
+
+[^key-05ac00fb7082b4ed37e0a38abc6a9732]: Textual amendment: Word in [art. 2(3)(h)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/3/h) substituted (31.12.2020) by [The Department for Transport (Fees) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1121)](https://www.legislation.gov.uk/uksi/2018/1121), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1121/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1121/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5098311]: Marginal citation: [1987 c. 51](https://www.legislation.gov.uk/ukpga/1987/51).
+
+[^c5098321]: Marginal citation: [S.I. 1988/643](https://www.legislation.gov.uk/uksi/1988/643) in relation to which the relevant amending instruments are statutory instruments 1991/811, 1995/1684, 1996/1961, 1998/459, and 2003/1094.

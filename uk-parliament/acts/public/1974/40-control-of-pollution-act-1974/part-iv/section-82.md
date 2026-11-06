@@ -1,0 +1,59 @@
+---
+title: Control of Pollution Act 1974, section 82
+act: Control of Pollution Act 1974
+section: '82'
+status: revised-with-pending-changes
+text_date: '2026-09-14'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1974/40/section/82
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Control of Pollution Act 1974, section 82
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 82. Regulations about research and publicity.[^c2458821][^c2458831]
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+(1) The Secretary of State shall by regulations prescribe the manner in which, and the methods by which, local authorities are to perform their functions under sections 79 and 80 of this Act.
+
+(2) It shall be the duty of the Secretary of State, before he makes regulations under this section, to consult such persons appearing to him to represent local authorities, such persons appearing to him to represent industrial interests and such persons appearing to him to be conversant with problems of air pollution as he considers appropriate.
+
+(3) Regulations under this section may in particular—
+
+- (a) prescribe the kinds of emissions to which notices under section 80 of this Act may relate;
+- (b) prescribe the kinds of information which may be required by those notices;
+- (c) prescribe the manner in which any such notice is to be given, and the evidence which is to be sufficient evidence of its having been given, and of its contents and authenticity;
+- (d) require each local authority to maintain in a prescribed form a register containing—
+  - (i) information obtained by the authority by virtue of section 79(2) of this Act, other than information as to which a direction in pursuance of subsection (2) of the preceding section provides that the information is not to be disclosed to the public; and
+  - (ii) such information (if any) as the Secretary of State may determine, or as may be determined by or under regulations, with respect to any appeal in pursuance of the preceding section which was against a notice served by the authority and which the Secretary of State did not dismiss;
+- (e) specify the circumstances in which local authorities may enter into arrangements with owners or occupiers of premises under which they will record and measure emissions on behalf of the local authorities;
+- (f) specify the kinds of apparatus which local authorities are to have power to provide and use for measuring and recording emissions, and for other purposes.
+
+(4) Regulations under subsection (3)(b) of this section may in particular require returns of—
+
+- (a) the total volume of gases, whether pollutant or not, discharged from the premises in question over any period;
+- (b) the concentration of pollutant in the gases discharged;
+- (c) the total of the pollutant discharged over any period;
+- (d) the height or heights at which discharges take place;
+- (e) the hours during which discharges take place;
+- (f) the concentration of pollutants at ground level.
+
+(5) A register maintained by a local authority in pursuance of regulations made by virtue of subsection (3)(d) of this section shall be open to public inspection at the principal office of the authority free of charge at all reasonable hours, and the authority shall afford members of the public reasonable facilities for obtaining from the authority, on payment of reasonable charges, copies of entries in the register.
+
+## Annotations
+
+[^c2458821]: Modification: [Ss. 79-83](https://www.legislation.gov.uk/ukpga/1974/40/section/79): certain functions transferred (7.8.1991) by [S.I. 1991/1773](https://www.legislation.gov.uk/uksi/1991/1773), [art. 8(1)(3)](https://www.legislation.gov.uk/uksi/1991/1773/article/8/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/1773/schedule/2)
+
+    [Ss. 79-83](https://www.legislation.gov.uk/ukpga/1974/40/section/79) modified (7.8.1991) by [S.I. 1991/1773](https://www.legislation.gov.uk/uksi/1991/1773), [art. 8(2)(3)](https://www.legislation.gov.uk/uksi/1991/1773/article/8/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/1773/schedule/2)
+
+[^c2458831]: Modification: [Ss. 79-83](https://www.legislation.gov.uk/ukpga/1974/40/section/79): certain functions transferred (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8(1)(3)](https://www.legislation.gov.uk/uksi/1991/2913/article/8/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
+
+    [Ss. 79-83](https://www.legislation.gov.uk/ukpga/1974/40/section/79) modified (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8(2)(3)](https://www.legislation.gov.uk/uksi/1991/2913/article/8/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)

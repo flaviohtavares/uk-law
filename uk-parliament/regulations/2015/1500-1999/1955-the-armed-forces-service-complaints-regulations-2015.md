@@ -1,0 +1,365 @@
+---
+title: The Armed Forces (Service Complaints) Regulations 2015
+id: uksi/2015/1955
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2015-12-03'
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/1955
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1955/pdfs/uksiem_20151955_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1955/pdfs/uksi_20151955_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1955/data.pdf
+pending_changes: 17
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Armed Forces (Service Complaints) Regulations 2015
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2015/1955
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 1955
+
+Defence
+
+The Armed Forces (Service Complaints) Regulations 2015
+
+Made
+
+3rd December 2015
+
+Laid before Parliament
+
+7th December 2015
+
+Coming into force
+
+1st January 2016
+
+The Defence Council, in exercise of the powers conferred by sections 340B(1), (2) and (4), 340C(1) and (2), 340D(1), (2) and (6), 340F(2), 340G(1) and (3), and 340M(5) of the Armed Forces Act 2006[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement[^key-dc2e6440166772b7a4b5aad6e4bd638f]
+
+These Regulations may be cited as the Armed Forces (Service Complaints) Regulations 2015 and come into force on 1st January 2016*.*
+
+## 2. Interpretation[^key-2c41a9693d5712d9459b5e29679fcb65]
+
+(1) In these Regulations—
+
+- “the Act” means the Armed Forces Act 2006;
+- “[^key-6ef02fb0ba934549f6bd3a7caa3b0469]**Commissioner**” means the Armed Forces Commissioner;
+- [^key-310f738b183f671c621a92c8c219a7c2]...
+- “service complaints process” means the process for the redress of service complaints under Part 14A of the Act or under any previous process for the redress of individual grievances under Part 14 of the Act;
+- “specified officer” means, in relation to a service complaint, the officer appointed[^key-9fbe10ef5783223173c8bbff3c81fa8f] in relation to that complaint in accordance with regulation 3;
+- “statement of complaint” means the statement referred to in regulation 4(1).
+
+(2) In these Regulations, unless otherwise specified, a reference to a section is a reference to that section of the Act.
+
+(3) The actions under these Regulations specified in paragraph (4) must be carried out by posting, sending electronically or delivering in person to the intended recipient.
+
+(4) The actions specified in this paragraph are—
+
+- (a) notifying the complainant;
+- (b) the complainant making a service complaint;
+- (c) the complainant making an application to the Commissioner[^key-1cdf4aa95e3b43ff48f2a32798de223f];
+- (d) the complainant bringing an appeal;
+- (e) sending a draft copy of a decision or determination to a person under regulation 14(6);
+- (f) giving a notification under regulation 15.
+
+(5) Any reference in these Regulations to the day on which a person received notification shall be deemed to be a reference to the second day after the day on which the notification was posted, sent electronically or delivered in person to the intended recipient.
+
+(6) Where a complainant—
+
+- (a) makes a service complaint in accordance with regulation 4(1),
+- (b) makes an application to the Commissioner under regulation 7(1),
+- (c) brings an appeal under regulation 10(1), or
+- (d) makes an application to the Commissioner under regulation 12(1),
+
+the complainant shall be deemed to have done so on the day on which the statement of complaint, application or, as the case may be, the appeal was posted, sent electronically or delivered in person to the recipient in accordance with the requirements of these Regulations.
+
+## 3. Specified officer[^key-0af2d988da4fa4f439ccfe9bfbf8a106]
+
+(1) Subject to paragraph (2), a specified officer is an officer appointed by the Defence Council, or by a person authorised by the Defence Council, for the purposes of deciding whether any service complaint is admissible.
+
+(2) If in relation to a service complaint the officer who would be the specified officer in accordance with paragraph (1) is also the subject of the service complaint, or is alleged in the statement of complaint to be implicated in any way in the matter or matters complained of, the specified officer is an officer appointed by the Defence Council or by a person authorised by the Defence Council who is not so subject or alleged to be implicated.
+
+## 4. Procedure for making a service complaint[^key-794162e827eb3b0b871ce9a98edc3c3c]
+
+(1) A service complaint is made by a complainant making a statement of complaint in writing to the specified officer.
+
+(2) The statement of complaint must state—
+
+- (a) how the complainant thinks himself or herself wronged;
+- (b)[^key-5909bde4f4b9ea51335cc337ae835913] the name, where known, of any person who is alleged by the complainant to be the subject of the complaint or implicated in any way in the matter, or matters, complained about;
+- (c) whether any matter stated in accordance with sub-paragraph (a) involved discrimination, harassment, bullying, dishonest or biased behaviour, a failure by the Ministry of Defence to provide medical, dental or nursing care for which the Ministry of Defence was responsible or the improper exercise by a service policeman of statutory powers as a service policeman;
+- (d) if the complaint is not made within the period which applies under regulation 6(1), (4) or (5), the reason why the complaint was not made within that period;
+- (e) the redress sought; and
+- (f) the date on which the statement of complaint is made.
+
+(3) The statement of complaint must also state one of the following—
+
+- (a) the date on which, to the best of the complainant’s recollection, the matter complained about occurred or probably occurred;
+- (b) that the matter complained about occurred over a period, and the date on which, to the best of his or her recollection, that period ended or probably ended;
+- (c) that the matter complained about is continuing to occur;
+- (d) that the complainant is unable to recollect the date referred to in sub-paragraph (a) or (b).
+
+(4) A service complaint may only be made by one person, but other persons may make service complaints about the same or similar matters.
+
+(5) In this regulation, “discrimination” means discrimination or victimisation on the grounds of colour, race, ethnic or national origin, nationality, sex, gender reassignment, status as a married person or civil partner, religion, belief or sexual orientation, and less favourable treatment of the complainant as a part-time employee.
+
+## 5. Action on receipt of a service complaint and admissibility[^key-34ff9565dd7c71a5ff7fec74b3caa5e5]
+
+(1) After receipt of a statement of complaint, the specified officer must decide whether the complaint is admissible in accordance with section 340B(5).
+
+(2) For the purposes of section 340B(5)(c), a service complaint is not admissible if—
+
+- (a) the complaint does not meet the requirements of whichever of section 340A(1) and (2) applies to the complainant; or
+- (b) the complaint is substantially the same as a complaint brought by the same person which has either been decided previously under the service complaints process or is currently being considered under the service complaints process.
+
+(3) If the specified officer decides that any part or all of the service complaint is admissible, he must notify the complainant in writing of the decision and refer that part or all of the service complaint to the Defence Council.
+
+(4) If the specified officer decides that any part or all of the service complaint is not admissible, he must notify the complainant in writing of the decision, giving the reasons for the decision and informing the complainant of his or her right to apply for a review of the decision by the Commissioner.
+
+## 6. Period for making a service complaint and power to stay[^key-ac89d99fd4894e8950e6cc6e49644e52]
+
+(1) Subject to paragraphs (4) and (5), a person may not make a service complaint after three months beginning with the relevant day.
+
+(2) Except in a case within paragraph (3), the “relevant day” means the day on which the matter the person wishes to complain about occurred or (if it occurred over a period of time) the last day on which it occurred.
+
+(3) Where it appears to the specified officer that, before a service complaint about a matter is or would be considered, the person is or was expected or required to comply with another formal system for the consideration of that matter, the “relevant day” means the day on which it appears to the specified officer that the person exhausts or exhausted the process provided for under that other formal system.
+
+(4) If a matter is or has been capable of being pursued as a claim under Chapter 3 of Part 9 of the Equality Act 2010[^f00002], a service complaint may not be made about the matter after six months beginning with the day on which the matter complained about occurred or, where the matter occurred over a period of time, the final day of that period.
+
+(5) If a matter is or has been capable of being pursued as a claim under Chapter 4 of Part 9 of the Equality Act 2010, a service complaint may not be made about the matter after the end of the qualifying period for a claim as determined in accordance with section 129 of that Act.
+
+(6) A person may make a service complaint after the end of the period in whichever of paragraphs (1) and (4) applies to the complaint if, in all the circumstances, the specified officer considers it is just and equitable to allow this.
+
+(7) Where a person makes a service complaint about a matter, and it appears to the specified officer that the person is expected or required to comply with another formal system for consideration of that matter, the specified officer may stay consideration of part or all of the complaint until the person has exhausted the process provided for under that other formal system.
+
+## 7. Commissioner’s review of admissibility[^key-673a39f5efdf52c9b52289691671530e][^key-16bb00307eb9f422e639fc790b14e255]
+
+(1) After receiving an application by the complainant for a review of the specified officer’s decision that a service complaint is not admissible, the Commissioner must decide whether the service complaint is admissible and notify both the specified officer and the complainant in writing of his or her decision and the reasons for it.
+
+(2) The Commissioner must not consider an application under paragraph (1) made after four weeks beginning with the day the complainant received notification of the specified officer’s decision, unless the Commissioner considers it is just and equitable to allow the complainant to apply after that period.
+
+(3) A decision by the Commissioner in relation to admissibility is binding on the complainant and the specified officer.
+
+(4) Where under paragraph (1) the Commissioner decides that the service complaint is admissible, the specified officer must refer the complaint to the Defence Council as soon as reasonably practicable.
+
+## 8. Application of these regulations where further matters raised by way of complaint[^key-e73eb7bed0913b376f48f18c0bc39d58]
+
+If the complainant raises an additional matter by way of complaint at any time after the specified officer has made a decision on the admissibility of a service complaint, that matter must be made the subject of, and dealt with as, a fresh service complaint.
+
+## 9. Decisions on a service complaint[^key-818a528515a17e14492d55ab459f01f8]
+
+(1) After they receive a referral of a service complaint from the specified officer, the Defence Council must decide whether the complaint is to be dealt with—
+
+- (a) by a person or panel of persons appointed by the Council; or
+- (b) by the Council themselves.
+
+(2) The person or panel of persons appointed to deal with the service complaint or (in a paragraph (1)(b) case) the Defence Council must—
+
+- (a) decide whether the complaint is well-founded; and
+- (b) if the decision is that the complaint is well-founded—
+  - (i) decide what redress (if any), within the authority of the person or persons on the panel or (in a paragraph (1)(b) case) the Defence Council, would be appropriate; and
+  - (ii) grant any such redress.
+
+(3) The person or panel of persons appointed to deal with the service complaint or (in a paragraph (1)(b) case) the Defence Council must notify the complainant in writing of a decision made under paragraph (2)(a) or (b), giving reasons for the decision.
+
+(4) If a decision under paragraph (2)(a) or (b) is made by a person or panel of persons appointed under paragraph (1)(a), that person or panel of persons must inform the complainant of the right of appeal under regulation 10(1).
+
+(5) If a decision under paragraph (2)(a) or (b) is made by the Defence Council, they must inform the complainant of the right to apply to the Commissioner to conduct an investigation in relation to the service complaint under section 340H(1).
+
+## 10. Appeal against decisions on a service complaint[^key-faef31d7ba61ecc7417234b532b44741]
+
+(1)[^key-4a62779e774a09a38d201fc7e6940a6c] Where a decision under regulation 9(2)(a) or (b) is made by a person or panel of persons appointed under regulation 9(1)(a), the complainant may appeal to the Defence Council against that decision on one or more of the following grounds—
+
+- (a) that there was a material procedural error;
+- (b) that the decision was based on a material error as to the facts;
+- (c) that there is new evidence, and it is likely that the decision would have been materially different if the new evidence had been made available to that person or panel.
+
+(1A)[^key-538268eae66f3b764fd76b4250e96cab] For the purposes of paragraph (1)(c), “new evidence” is evidence which was not available, and could not with the exercise of reasonable diligence by the complainant have been made available, before the decision was made.
+
+(2) An appeal under paragraph (1) must be brought by the complainant in writing to the Defence Council.
+
+(3) The appeal must be dated and must set out the grounds on which the appeal against the decision is made.[^key-6f2b22911c43be16177e1c85432158b5]
+
+(4) If the complainant brings an appeal after the end of the period stated in regulation 11(1)(b)[^key-433fcc7d48625b4229e8673d1d45b0c6] the appeal must state the reason why it was not brought within that period.
+
+## 11. Further provision about bringing an appeal[^key-580990e45a294ee6b52e622464273682]
+
+(1) An appeal under regulation 10(1) against a decision under regulation 9(2)(a) or (b) may be proceeded with if—
+
+- (a) the Defence Council decides the appeal is brought on at least one valid ground under regulation 10(1); and
+- (b) the appeal is brought—
+  - (i) within two weeks beginning with the day on which the complainant received notification under regulation 9(3) of the decision on the service complaint; or
+  - (ii) after the end of the period stated in paragraph (i) but the Defence Council consider it is just and equitable to allow the appeal to be proceeded with.
+
+(2) If the Defence Council decides that an appeal cannot be proceeded with, they must notify the complainant in writing, giving reasons for that decision and informing the complainant of the right to apply for a review of that decision by the Commissioner.
+
+## 12. Commissioner’s review of a decision not to proceed with an appeal[^key-8ca8512d76b265fe35c7b2476ce92191][^key-c072239d84353309e7e4d0789ea1b6f9]
+
+(1) After receiving an application by the complainant for a review of the Defence Council’s decision under regulation 11(2), the Commissioner must decide whether the appeal can be proceeded with and notify both the Council and the complainant in writing of his or her decision, giving reasons for the decision.
+
+(2) The Commissioner must not consider an application under paragraph (1) made after four weeks beginning with the day the complainant received notification of the decision under regulation 11(2), unless the Commissioner considers it is just and equitable to allow the complainant to apply after that period.
+
+(3) A decision by the Commissioner in relation to whether an appeal can be proceeded with is binding on the complainant and the Defence Council.
+
+## 13. Determination of appeals[^key-ea5eae6fd942261b98c8ca2ba15691a9]
+
+(1) Where the Defence Council decide, or following a review the Commissioner decides, that the appeal can be proceeded with, the Defence Council must decide whether the appeal is to be determined—
+
+- (a) by a person or panel of persons appointed by the Council; or
+- (b) by the Council themselves.
+
+(2) The person or panel of persons appointed to consider the appeal or (in a paragraph (1)(b) case) the Defence Council must—
+
+- (a) determine whether the complaint is well-founded; and
+- (b) if the determination is that the complaint is well-founded—
+  - (i) determine what redress (if any), within the authority of the person or persons on the panel, or (in a paragraph (1)(b) case) the Defence Council, would be appropriate; and
+  - (ii) grant any such redress.
+
+(3) The person or panel of persons appointed to consider the appeal or, as the case may be, the Defence Council, must notify the complainant in writing of a determination under paragraph (2)(a) or (b), giving reasons for the determination and informing the complainant of the complainant’s right to apply to the Commissioner to conduct an investigation under section 340H(1) in relation to the service complaint.
+
+## 14. Procedure with respect to decisions and determinations[^key-716349d90c574d81a179d153750aefac]
+
+(1) For the purposes of making a decision under regulation 9(2)(a) or (b), or a determination under regulation 13(2)(a) or (b), the person or panel of persons or, as the case may be, the Defence Council may request the complainant, or such other person as they consider appropriate, to supply information or produce documents.
+
+(2) In respect of a request under paragraph (1), the person or panel of persons or, as the case may be, the Defence Council may impose any such time limit for the supply of the information or production of other documents, as they consider reasonable in the circumstances.
+
+(3) Should the information or documents requested under paragraph (1) not be supplied or produced within the time limit under paragraph (2), the person or panel of persons or, as the case may be, the Defence Council may proceed to reach a decision or a determination based on the information or documents available.
+
+(4) For the purposes of making a decision under regulation 9(2)(a) or (b), or a determination under regulation 13(2)(a) or (b), the person or panel of persons or, as the case may be, the Defence Council must give—
+
+- (a) any person who they consider is a subject of the complaint, and
+- (b) any person who they consider is likely to be the subject of criticism in the decision or determination in relation to that person’s character or professional reputation,
+
+an opportunity to comment on any allegations about that person stated in the complaint.
+
+(5) Any comments received under paragraph (4) must be given due weight in making the decision or determination.
+
+(6) The person or panel of persons or, as the case may be, the Defence Council may send a copy of a draft decision under regulation 9(2)(a) or (b), or a copy of a draft determination under regulation 13(2)(a) or (b), to any person within paragraph (4).
+
+(7) If they receive any comments from such a person on the draft decision or determination, they may refer to those comments in the final decision or determination and may state in the decision or determination their response to those comments.
+
+## 15. Procedure with respect to reconsiderations[^key-ed4725d1774841ef641e676c45e60d0d]
+
+Where a person or panel of persons appointed by the Defence Council, or the Defence Council themselves, reconsider a service complaint under section 340M(2) (reconsideration of a complaint following a report by the Commissioner), they must give notice in writing of their decision on the complaint to—
+
+- (a) the complainant;
+- (b) the Commissioner; and
+- (c) any person to whom the Commissioner sent a copy of a report on the complaint in accordance with regulations made for the purposes of section 340L(5)(c).
+
+## 16. Delegation of functions by the Defence Council[^key-de1849aa703bcb26eb5eef963e9c57da]
+
+The Defence Council may delegate to any person, to such extent and subject to such conditions as the Council consider appropriate, any of the Council’s functions under Part 14A of the Act, except those referred to in section 340F(3).
+
+Mark Lancaster
+
+Stuart Peach
+
+Members of the Defence Council
+
+Ministry of Defence
+
+3rd December 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Under section 340A(1) and (2) of the Armed Forces Act 2006 (“the Act”) a person subject to service law, or who has ceased to be subject to service law, who thinks himself or herself wronged in any matter relating to his or her service, may make a service complaint about the matter.
+
+These Regulations make provision about the procedure for making and dealing with a service complaint.
+
+Under regulation 4 service complaints are to be made by making a statement of complaint to the specified officer. The specified officer is defined in regulation 3 and will usually be the complainant’s commanding officer.
+
+Under regulation 5 the specified officer has to decide whether a complaint is admissible. Regulation 5(2) specifies grounds on which a service complaint is not admissible in addition to the grounds of inadmissibility under section 340B(5) of the Act.
+
+Regulation 6 specifies the period for making a service complaint, and also provides for the circumstances in which a person may make a complaint after the end of that period. Under regulation 6(7) the specified officer may stay consideration of a complaint where the complainant is expected to comply beforehand with another formal system for considering the matter in question.
+
+Regulations 7 and 12 provide respectively for the Service Complaints Ombudsman to review a specified officer’s decision that a complaint is not admissible and a Defence Council decision that an appeal may not be proceeded with. Regulation 7(2) and 12(2) specify the periods for applying for such a review and the circumstances in which an application may be considered after such a period.
+
+Where a complainant raises a new matter of complaint after the specified officer has decided on admissibility, regulation 8 provides that the new matter must be made and dealt with as a fresh service complaint.
+
+Under regulation 9 the Defence Council has to decide whether a complaint is to be decided by a person, a panel of persons or by the Defence Council themselves.
+
+Regulation 10 provides for appeals by the complainant to the Defence Council against a decision made under regulation 9(2).
+
+Regulation 11 provides for time-limits for appeals under regulation 10(1).
+
+Regulation 13 requires the Defence Council to decide whether an appeal under regulation 10(1) is to be decided by a person, a panel or persons or by the Defence Council themselves. It also imposes requirements to give notice of the determination of the appeal.
+
+Regulation 14 empowers those deciding a complaint or an appeal to request persons to provide information or documents and to continue with their decision if the information or documents are not provided within such time-limits as they consider reasonable. Under regulation 14(4) a person who is the subject of a complaint or who is likely to be criticised in a decision or appeal determination must be given an opportunity to comment.
+
+Where a decision on a complaint is reconsidered following a decision by the Ombudsman, regulation 15 imposes a duty to notify certain persons, including the complainant, of the result of that reconsideration.
+
+Regulation 16 provides for the delegations which the Defence Council may make to any person in respect of its functions under Part 14A of the Act.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). Sections 340B, 340C, 340D, 340F, 340G and 340M were inserted by section 2(1) of the Armed Forces (Service Complaints and Financial Assistance) Act [2015 c. 19](https://www.legislation.gov.uk/ukpga/2015/19). Section 340B(3) provides for the minimum period which must be specified in service complaints regulations made under section 340B(2)(c). Section 340B(5) prescribes, for the purposes of section 340B(4), the grounds on which a service complaint is not admissible. Section 340D(3) provides for the minimum period which must be specified in regulations made for the purposes of section 340D(2)(b). Section 340G(2) identifies one of the consequences which may be provided for in regulations made for the purposes of section 340G(1)(c).
+
+[^key-dc2e6440166772b7a4b5aad6e4bd638f]: Commencement: Reg. 1 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-2c41a9693d5712d9459b5e29679fcb65]: Commencement: Reg. 2 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-6ef02fb0ba934549f6bd3a7caa3b0469]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/2/1) inserted (1.4.2026) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2026 (S.I. 2026/21)](https://www.legislation.gov.uk/uksi/2026/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/21/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/21/regulation/2/2/a)
+
+[^key-310f738b183f671c621a92c8c219a7c2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/2/1) omitted (1.4.2026) by virtue of [The Armed Forces (Service Complaints) (Amendment) Regulations 2026 (S.I. 2026/21)](https://www.legislation.gov.uk/uksi/2026/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/21/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/21/regulation/2/2/b)
+
+[^key-9fbe10ef5783223173c8bbff3c81fa8f]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/2/1) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/2)
+
+[^key-1cdf4aa95e3b43ff48f2a32798de223f]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/uksi/2015/1955) substituted (1.4.2026) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2026 (S.I. 2026/21)](https://www.legislation.gov.uk/uksi/2026/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/21/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/21/regulation/2/3)
+
+[^key-0af2d988da4fa4f439ccfe9bfbf8a106]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1955/regulation/3) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/3)
+
+[^key-794162e827eb3b0b871ce9a98edc3c3c]: Commencement: Reg. 4 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-5909bde4f4b9ea51335cc337ae835913]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/4/2/b) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/4)
+
+[^key-34ff9565dd7c71a5ff7fec74b3caa5e5]: Commencement: Reg. 5 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-ac89d99fd4894e8950e6cc6e49644e52]: Commencement: Reg. 6 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^f00002]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15); Part 9 was amended by paragraphs 12 to 15 of the Schedule to the Armed Forces (Service Complaints and Financial Assistance) Act [2015 c. 19](https://www.legislation.gov.uk/ukpga/2015/19).
+
+[^key-673a39f5efdf52c9b52289691671530e]: Commencement: Reg. 7 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-16bb00307eb9f422e639fc790b14e255]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2015/1955/regulation/7) heading substituted (1.4.2026) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2026 (S.I. 2026/21)](https://www.legislation.gov.uk/uksi/2026/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/21/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/21/regulation/2/4/a)
+
+[^key-e73eb7bed0913b376f48f18c0bc39d58]: Commencement: Reg. 8 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-818a528515a17e14492d55ab459f01f8]: Commencement: Reg. 9 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-faef31d7ba61ecc7417234b532b44741]: Commencement: Reg. 10 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-4a62779e774a09a38d201fc7e6940a6c]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/10/1) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/5/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/494/regulation/3))
+
+[^key-538268eae66f3b764fd76b4250e96cab]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/10/1A) inserted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/494/regulation/3))
+
+[^key-6f2b22911c43be16177e1c85432158b5]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/10/3) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/5/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/494/regulation/3))
+
+[^key-433fcc7d48625b4229e8673d1d45b0c6]: Textual amendment: Word in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2015/1955/regulation/10/4) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/5/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/494/regulation/3))
+
+[^key-580990e45a294ee6b52e622464273682]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1955/regulation/11) substituted (15.6.2022) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2022 (S.I. 2022/494)](https://www.legislation.gov.uk/uksi/2022/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/494/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/494/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/494/regulation/3))
+
+[^key-8ca8512d76b265fe35c7b2476ce92191]: Commencement: Reg. 12 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-c072239d84353309e7e4d0789ea1b6f9]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2015/1955/regulation/12) heading substituted (1.4.2026) by [The Armed Forces (Service Complaints) (Amendment) Regulations 2026 (S.I. 2026/21)](https://www.legislation.gov.uk/uksi/2026/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/21/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/21/regulation/2/4/b)
+
+[^key-ea5eae6fd942261b98c8ca2ba15691a9]: Commencement: Reg. 13 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-716349d90c574d81a179d153750aefac]: Commencement: Reg. 14 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-ed4725d1774841ef641e676c45e60d0d]: Commencement: Reg. 15 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)
+
+[^key-de1849aa703bcb26eb5eef963e9c57da]: Commencement: Reg. 16 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1955/regulation/1)

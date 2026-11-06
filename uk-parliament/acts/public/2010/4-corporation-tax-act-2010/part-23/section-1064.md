@@ -1,0 +1,37 @@
+---
+title: Corporation Tax Act 2010, section 1064
+act: Corporation Tax Act 2010
+section: '1064'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/1064
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 1064
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 1064. Certain expenses of close companies treated as distributions
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if a close company incurs an expense in, or in connection with, the provision for any participator of—
+
+- (a) living or other accommodation,
+- (b) entertainment,
+- (c) domestic or other services, or
+- (d) other benefits or facilities of any kind.
+
+(2) The company is treated for the purposes of the Corporation Tax Acts as making a distribution to the participator of an amount equal to—
+
+- (a) the expense, less
+- (b) any part of the expense that the participator makes good to the company (so far as not already deducted in calculating the amount of the expense in accordance with subsection (3)).
+
+(3) For the purposes of subsection (2)(a), the amount of the expense is equal to what would, under Chapter 6, 7 or 10 of Part 3 of ITEPA 2003, be the cash equivalent of the resultant benefit to the participator.
+
+(4) Subsection (2) is subject to sections 1065 and 1066, and to any other express exceptions.

@@ -1,0 +1,71 @@
+---
+title: The Superannuation (National Buildings Record) Transfer Rules 1965
+id: uksi/1965/1040
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1965-04-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1965/1040
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1965/1040/pdfs/uksi_19651040_en.pdf
+- http://www.legislation.gov.uk/uksi/1965/1040/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Superannuation (National Buildings Record) Transfer Rules 1965
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1965 No. 1040
+
+PENSIONS
+
+The Superannuation (National Buildings Record) Transfer Rules 1965
+
+Made
+
+27th April 1965
+
+Laid before Parliament
+
+4th May 1965
+
+Coming into Operation
+
+5th May 1965
+
+The Treasury, in exercise of the powers conferred upon them by section 2 of the Superannuation Act 1957 as extended by paragraph 25(3) of Schedule 2 to the Superannuation (Amendment) Act 1965 and of all other powers enabling them in that behalf, hereby make the following Rules:—
+
+**1.** (1) Where a person was on the 1st April 1963 taken into the service of the Royal Commission on Historical Monuments (England) after having been employed by the National Buildings Record on work concerned with the compilation, maintenance and use of architectural records in England and Wales, and his employment with the National Buildings Record was, in the opinion of the Treasury, of the same nature and for the same purpose as his employment in the service of the Royal Commission on Historical Monuments (England), his service in employment by the National Buildings Record before the 1st April 1963 but not before the 1st January 1919 may be reckoned for the purposes of the Superannuation Acts as employment in an unestablished capacity within the meaning of section3 of the Superannuation Act 1935
+
+(2) Where a person to whom the foregoing paragraph applies was, before he was taken into the service of the Royal Commission on Historical Monuments (England), a participant in a pension scheme under which contributions were paid in respect of him by the National Buildings Record, and under that scheme he has been granted or is eligible for any benefit other than a return (whether with or without interest) of the contributions made by him, it shall be a condition of the making of any payment under the Superannuation Acts in respect of his service, so far as the amount of that payment is dependent on the provisions of the foregoing paragraph, that there has been paid to the Treasury either
+
+- (a) a sum equal to the aggregate amount of the contributions paid in respect of him by the National Buildings Record, together with compound interest therein calculated from the date on which each such contribution became payable at the rate of 3 per cent. per annum with yearly rests; or
+- (b) a sum equal to the amount of the benefit received by him.
+
+whichever is the less
+
+(3) These Rules shall not have effect so as to authorise an increase in an annual superannuation allowance or pension so far as the allowance or pension is payable in respect of a period before the coming into operation of these Rules.
+
+**2.** (1) In these Rules “**the Superannuation Acts**” means the Superannuation Acts 1834 to 1965.
+
+(2) The Interpretation Act 1889 shall apply for the interpretation of these Rules as it applies for the interpretation of an Act of Parliament.
+
+**3.** These Rules may be cited as the Superannuation (National Buildings Record) Transfer Rules 1965 and shall come into operation on 5th May 1965.
+
+George Lawson
+
+Ifor Davies
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+27th April 1965
+
+EXPLANATORY NOTE
+
+Service with the Royal Commission on Historical Monuments (England) is treated for superannuation purposes as service in the Civil Service of the State. These Rules provide that service (not being before 1st January 1919 or before age 18) with the National Buildings Record of certain employees who, on 1st April 1963, were taken into the service of the Royal Commission on Historical Monuments (England) may be reckoned subject to certain conditions as unestablished civil service for the purposes of the Superannuation Acts.

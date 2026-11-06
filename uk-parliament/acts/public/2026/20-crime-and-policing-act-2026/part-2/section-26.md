@@ -1,0 +1,63 @@
+---
+title: Crime and Policing Act 2026, section 26
+act: Crime and Policing Act 2026
+section: '26'
+status: not-yet-in-force
+text_date: '2026-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2026/20/section/26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crime and Policing Act 2026, section 26
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 26. Notices[^key-c47a0cdae8960d6e2086a1603ba40e88]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) This section applies in relation to any notice that must or may be given to a person under this Chapter.
+
+(2) A notice may be given to a person by—
+
+- (a) delivering it by hand to the person,
+- (b) leaving it at the person’s proper address,
+- (c) sending it by post to the person at that address, or
+- (d) sending it by email to the person’s email address.
+
+(3) A notice to a body corporate may be given to any officer of that body.
+
+(4) A notice to a partnership may be given to any partner or to a person who has the control or management of the partnership business.
+
+(5) A notice sent by first class post to an address in the United Kingdom, is treated as given at noon on the second working day after the day of posting, unless the contrary is proved.
+
+(6) A notice sent by email is treated as given at the time it is sent unless the contrary is proved.
+
+(7) In this section—
+
+- “**director**” includes any person occupying the position of a director, by whatever name called;
+- “**email address**”, in relation to a person, means—
+  - (a) an email address provided by that person for the purposes of this Chapter, or
+  - (b) any email address published for the time being by that person as an address for contacting that person;
+- “**officer**”, in relation to an entity, includes a director, a manager, a partner, the secretary or, where the affairs of the entity are managed by its members, a member;
+- “**proper address**” means—
+  - (a) in the case of an entity, the address of the entity’s registered office or principal office;
+  - (b) in any other case, the person’s last known address;
+- “**working day**” means any day other than—
+  - (a) a Saturday or Sunday, or
+  - (b) a day that is a bank holiday in any part of the United Kingdom under the Banking and Financial Dealings Act 1971.
+
+(8) In the case of an entity registered or carrying on business outside the United Kingdom, or with offices outside the United Kingdom, the reference in subsection (7), in the definition of “proper address”, to the entity’s principal office includes—
+
+- (a) its principal office in the United Kingdom, or
+- (b) if the entity has no office in the United Kingdom, any place in the United Kingdom at which the person giving the notice believes, on reasonable grounds, that the notice will come to the attention of any director or other officer of that entity.
+
+## Annotations
+
+[^key-c47a0cdae8960d6e2086a1603ba40e88]: Commencement: S. 26 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

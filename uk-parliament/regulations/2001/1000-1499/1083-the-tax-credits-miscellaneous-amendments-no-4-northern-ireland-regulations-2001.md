@@ -1,0 +1,194 @@
+---
+title: The Tax Credits (Miscellaneous Amendments No. 4) (Northern Ireland) Regulations 2001
+id: uksi/2001/1083
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-03-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/1083
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1083/pdfs/uksi_20011083_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1083/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tax Credits (Miscellaneous Amendments No. 4) (Northern Ireland) Regulations 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 1083
+
+SOCIAL SECURITY, NORTHERN IRELAND
+
+TAXES, NORTHERN IRELAND
+
+The Tax Credits (Miscellaneous Amendments No. 4) (Northern Ireland) Regulations 2001
+
+Made
+
+20th March 2001
+
+Laid before Parliament
+
+20th March 2001
+
+Coming into force
+
+10th April 2001
+
+The Treasury, in exercise of the powers conferred upon them by sections 127(1)(d), 128(1)(d), 132(1), (3) and (4), 133(1) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and section 2(1)(a) and (4) of, and paragraphs 3(c), (d) and (g) and 22(a) of Schedule 2 to, the Tax Credits Act 1999[^f00002], hereby make the following Regulations:
+
+## 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Tax Credits (Miscellaneous Amendments No. 4) (Northern Ireland) Regulations 2001 and shall come into force on 10th April 2001.
+
+(2) These Regulations shall have effect in relation to award periods commencing on or after 10th April 2001.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “award periods” means award periods of disabled person’s tax credit or, as the case may be, working families' tax credit;
+- “the Disability Working Allowance Regulations” means the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00003];
+- “the Family Credit Regulations” means the Family Credit (General) Regulations (Northern Ireland) 1987[^f00004].
+
+## 3. Amendments to the Disability Working Allowance Regulations and the Family Credit Regulations
+
+Amend the Disability Working Allowance Regulations and the Family Credit Regulations as follows.
+
+## 4. Interpretation
+
+In the definition of “training allowance” in regulation 2 of the Disability Working Allowance Regulations and regulation 2 of the Family Credit Regulations[^f00005]—
+
+- (a) in paragraph (a) after the words “Department of Economic Development” add “, the Learning and Skills Council for England, or the National Assembly for Wales”;
+- (b)
+
+in paragraph (c) after the words “Department of Economic Development” add “, or the National Assembly for Wales”.
+
+## 5. Membership of a family
+
+In regulation 8(1) of the Disability Working Allowance Regulations and regulation 6(1) of the Family Credit Regulations for the words “Article 4(1)(b) of the Child Benefit (Northern Ireland) Order 1975” substitute “section 138(1)(c) of the Contributions and Benefits Act”.
+
+## 6. Income to be disregarded
+
+(1) Amend Schedule 3 to the Disability Working Allowance Regulations (“Schedule 3”) and Schedule 2 to the Family Credit Regulations (“Schedule 2”) as follows.
+
+(2) In paragraph 65 of Schedule 3 and paragraph 67 of Schedule 2[^f00006]—
+
+- (a) after the words “participating in” insert “a course of training or instruction funded by or on behalf of the Secretary of State for Education and Employment, the National Assembly for Wales, the Scottish Enterprise or the Highlands and Islands Enterprise, or”;
+- (b) for the words “under the scheme” substitute “under the course or scheme”;
+- (c) for the words “in the scheme” substitute “in the course or scheme”.
+
+## 7. Capital to be disregarded
+
+Amend Schedule 4 to the Disability Working Allowance Regulations (“Schedule 4”) and Schedule 3 to the Family Credit Regulations (“Schedule 3”) in accordance with regulations 8 and 9.
+
+**8.** Add as paragraph 67 of Schedule 4 and paragraph 68 of Schedule 3[^f00007] the following paragraph—
+
+> (1) Subject to sub-paragraph (2), the amount of any trust payment made to a claimant, or a member of a claimant’s family, who is—
+>
+> - (a) a diagnosed person; or
+> - (b) the diagnosed person’s partner, or the person who was his partner at the date of his death; or
+> - (c) a parent of a diagnosed person or a person acting in the place of his parents; or
+> - (d) a member of the diagnosed person’s family (other than his partner) or a person who was a member of his family (other than his partner) at the date of his death.
+>
+> (2) Where a trust payment is made to—
+>
+> - (a) a person referred to in sub-paragraph (1)(a) or (b), that sub-paragraph shall apply for the period beginning on the date on which the trust payment is made and ending on the date on which that person dies;
+> - (b) a person referred to in sub-paragraph (1)(c), that sub-paragraph shall apply for the period beginning on the date on which the trust payment is made and ending two years after that date;
+> - (c) a person referred to in sub-paragraph (1)(d), that sub-paragraph shall apply for the period beginning on the date on which the trust payment is made and ending—
+>   - (i) two years after that date; or
+>   - (ii) on the day before the day on which that person ceases full-time education or attains the age of 19,
+>
+>   whichever is the later.
+>
+> (3) Subject to sub-paragraph (4), the amount of any payment out of the estate of a person to whom a trust payment has been made which is made to a claimant, or a member of a claimant’s family, who is—
+>
+> - (a) the person who was the diagnosed person’s partner at the date of his death; or
+> - (b) a parent of a diagnosed person or a person acting in the place of his parents; or
+> - (c) a person who was a member of the diagnosed person’s family (other than his partner) at the date of his death,
+>
+> but only to the extent that such payments do not exceed the total amount of any trust payments made to the person to whom the trust payment had been made.
+>
+> (4) Where a payment out of an estate as referred to in sub-paragraph (3) is made to—
+>
+> - (a) the person referred to in sub-paragraph (3)(a), that sub-paragraph shall apply for the period beginning on the date on which the payment is made and ending on the date on which that person dies;
+> - (b) a person referred to in sub-paragraph (3)(b), that sub-paragraph shall apply for the period beginning on the date on which the payment is made and ending two years after that date;
+> - (c) a person referred to in sub-paragraph (3)(c), that sub-paragraph shall apply for the period beginning on the date on which the payment is made and ending—
+>   - (i) two years after that date; or
+>   - (ii) on the day before the day on which that person ceases full-time education or attains the age of 19,
+>
+>   whichever is the later.
+>
+> (5) In this paragraph, a reference to a person being a member of the diagnosed person’s family at the date of the diagnosed person’s death shall include a person who would have been a member of his family but for the diagnosed person being in residential accommodation, a residential care home or a nursing home on that date.
+>
+> (6) In this paragraph—
+>
+> - “diagnosed person” means a person who has been diagnosed as suffering from, or who after his death has been diagnosed as having suffered from, variant Creutzfeldt-Jakob disease;
+> - “full-time education” means either—
+>   - (a) full-time attendance on a course of full-time education at a recognised educational establishment as defined in section 143(1) of the Contributions and Benefits Act, or
+>   - (b) full-time education provided otherwise than at a recognised educational establishment, if such education is recognised by the Department pursuant to section 138(2) of that Act and is not a course of advanced education for the purposes of Chapter VII of Part IV of these Regulations;
+> - “relevant trust” means a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for payments in accordance with its provisions;
+> - “residential accommodation”, “residential care home” and “nursing home” have the same meanings as for the purposes of the Income Support (General) Regulations (Northern Ireland) 1987[^f00008];
+> - “trust payment” means a payment under a relevant trust.
+
+.
+
+**9.** Add as paragraph 68 of Schedule 4 and paragraph 69 of Schedule 3 the following paragraph—
+
+> - Any ex-gratia payment made by the Secretary of State for Northern Ireland directly to the family of a victim of violence within the meaning given by section 1(4) of the Northern Ireland (Location of Victims' Remains) Act 1999[^f00009].
+
+.
+
+Greg Pope
+
+Jim Dowd
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+20th March 2001
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Disability Working Allowance (General) Regulations (Northern Ireland) 1992 ([S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78)) and the Family Credit (General) Regulations (Northern Ireland) 1987 ([S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463)). The amendments have effect in relation to award periods of working families' tax credit and disabled person’s tax credit commencing on or after 10th April 2001.
+
+Regulation 1 provides for citation, commencement and effect and regulation 2 for interpretation.
+
+Regulation 3 introduces regulations 4 to 9.
+
+Regulation 4 amends the definition of “training allowance” in the Regulations to take account of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21).
+
+Regulation 5 updates a cross reference in regulation 8 of the Disability Working Allowance Regulations and regulation 6 of the Family Credit Regulations (membership of a family).
+
+Regulation 6 amends Schedule 3 to the Disability Working Allowance Regulations and Schedule 2 to the Family Credit Regulations (income to be disregarded) so as to add payments under Government training courses for self-employed persons.
+
+Regulation 7 introduces regulations 8 and 9.
+
+Regulation 8 amends Schedule 4 to the Disability Working Allowance Regulations and Schedule 3 to the Family Credit Regulations (capital to be disregarded) so as to add payments under a trust established out of funds provided by the Secretary of State in respect of persons suffering from variant Creutzfeldt-Jakob disease.
+
+Regulation 9 further amends Schedule 4 to the Disability Working Allowance Regulations and Schedule 3 to the Family Credit Regulations so as to add ex-gratia payments by the Secretary of State for Northern Ireland to the families of victims of violence.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). Section 127 was amended by paragraphs 1 and 4(g) of Schedule 1 to the Tax Credits Act [1999 (c. 10)](https://www.legislation.gov.uk/ukpga/1999/10). Section 133(1) is cited because of the definition of the word “prescribed”.
+
+[^f00002]: Footnote: [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10).
+
+[^f00003]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78).
+
+[^f00004]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463).
+
+[^f00005]: Footnote: The definition of “training allowance” was inserted in regulation 2 of the Disability Working Allowance Regulations by regulation 2(2)(b) of [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), and was inserted in regulation 2 of the Family Credit Regulations by regulation 2(c) of [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148).
+
+[^f00006]: Footnote: Paragraph 66 of Schedule 3 and paragraph 68 of Schedule 2 were added by regulation 8(3) of S.I. [2000/2979](https://www.legislation.gov.uk/uksi/2000/2979).
+
+[^f00007]: Footnote: Paragraph 66 of Schedule 4 and paragraph 67 of Schedule 3 were added by regulation 4 of S.I. [2001/20](https://www.legislation.gov.uk/uksi/2001/20).
+
+[^f00008]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459). The definition of “residential accommodation” was substituted by regulation 2(c) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by paragraph 1 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139). The definition of “residential care home” was inserted by regulation 2(2)(d) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149).
+
+[^f00009]: Footnote: [1999 c. 7](https://www.legislation.gov.uk/ukpga/1999/7).

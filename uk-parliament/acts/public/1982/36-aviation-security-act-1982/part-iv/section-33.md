@@ -1,0 +1,49 @@
+---
+title: Aviation Security Act 1982, section 33
+act: Aviation Security Act 1982
+section: '33'
+status: revised-with-pending-changes
+text_date: '2024-03-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1982/36/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Aviation Security Act 1982, section 33
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2024-03-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 33. Contributions to the Fund.[^c794752]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may make regulations containing such provisions as he considers appropriate for requiring managers of aerodromes to pay him, in respect of all aerodromes or of aerodromes of a prescribed class, contributions to the Aviation Security Fund calculated in accordance with the following provisions of this section.
+
+(2) Those contributions shall be payable in respect of prescribed periods and the contribution payable for any aerodrome in respect of each such period shall be one of the following amounts, or if the regulations so provide, the aggregate of those amounts, that is to say—
+
+- (a) an amount ascertained by multiplying a prescribed sum by the number of passengers, or passengers of a prescribed description, who during that period arrived by air at or departed by air from that aerodrome or the number of such passengers in excess of a prescribed limit;
+- (b) an amount ascertained by multiplying a prescribed sum by the total prescribed units of weight of each aircraft, or aircraft of a prescribed description, which during that period arrived at or departed from that aerodrome.
+
+(3) Without prejudice to the generality of subsection (1) above, regulations under this section may—
+
+- (a) prescribe the time when any contribution is to be paid;
+- (b) charge interest at a rate prescribed with the consent of the Treasury on so much of any contribution as is overdue;
+- (c) require managers of aerodromes, in relation to the aerodromes under their management, to furnish the Secretary of State with such information, to keep such records and to make such returns to him about the matters mentioned in subsection (2) above as may be prescribed;
+- (d) provide that contravention of any prescribed provision of the regulations (other than a failure to pay a contribution or interest on any overdue contribution) shall be an offence, either triable on indictment or summarily or triable only summarily, and punishable in each case with a fine, not exceeding, in the case of a summary conviction—
+  - (i) in Great Britain, the statutory maximum if the offence is also triable on indictment or £1,000 if it is not;
+  - (ii) in Northern Ireland, £1,000;
+- (e) make such incidental, supplemental and transitional provision as the Secretary of State thinks fit; and
+- (f) make different provision for different cases.
+
+(4) The Secretary of State shall pay into the Aviation Security Fund all money received by him by virtue of regulations made under this section.
+
+(5) The power to make regulations under this section shall be exercisable by statutory instrument; and regulations shall not be made under this section unless a draft of the regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+(6) In this section prescribed means prescribed by regulations under this section.
+
+## Annotations
+
+[^c794752]: Modification: By [S.I. 1983/1644](https://www.legislation.gov.uk/uksi/1983/1644), [art. 2](https://www.legislation.gov.uk/uksi/1983/1644/article/2) it is declared that the winding up of the Aviation Security Fund was completed on 31.10.1983 and therefore ss. 32(1)(5)–(7), 33 and 36(2) ceased to have effect on 31.10.1983

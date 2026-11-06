@@ -1,0 +1,35 @@
+---
+title: Crofters (Scotland) Act 1993, section 37
+act: Crofters (Scotland) Act 1993
+section: '37'
+status: revised-with-pending-changes
+text_date: '2017-11-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1993/44/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crofters (Scotland) Act 1993, section 37
+
+> **Warning: changes not yet applied to this text (269).** Text as at 2017-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/44
+>
+> Extent: Scotland.
+
+## 37. Crofter’s right to share in value of land taken possession of compulsorily.
+
+*Extent: S*
+
+(1) Where in pursuance of any enactment providing for the acquisition and taking of possession of land compulsorily by any person (in this section referred to as an “acquiring authority”), an acquiring authority acquire and take possession of a croft or a part thereof from a crofter, the crofter shall be entitled to receive from the acquiring authority, in addition to any compensation payable to him under section 114 of the [^c861318]Lands Clauses Consolidation (Scotland) Act 1845, a share in the value of the land of which possession has been taken, the amount whereof shall be one half of the difference between, subject to subsection (4) below, the market value of the land (on the date on which such possession is taken) as determined by the Land Court in accordance with subsection (2) below (less any compensation payable as aforesaid) and the crofting value thereof.
+
+(2) The market value for the purposes of subsection (1) above shall be a sum equal to the amount which the land, if sold in the open market by a willing seller, might be expected to realise assuming that the land were not land to which this Act applies.
+
+(3) Section 21(4) of this Act shall apply to land which has been taken possession of compulsorily by an acquiring authority as it applies to land of which the Land Court has authorised resumption.
+
+(4) For the purposes of this section, where any development has been carried out by any person, other than the crofter or any of his predecessors in the tenancy, on the land referred to in subsection (1) above before the land has been acquired by and taken possession of by the acquiring authority, there shall be deducted from the market value such amount thereof as, in the opinion of the Land Court, is attributable to that development.
+
+(5) In this section “**crofting value**”, in relation to land which has been taken possession of compulsorily, has the same meaning as it has in section 14 of this Act in relation to croft land.
+
+## Annotations
+
+[^c861318]: Marginal citation: [1845 c. 19](https://www.legislation.gov.uk/ukpga/1845/19).

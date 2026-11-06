@@ -1,0 +1,290 @@
+---
+title: The Goods Infringing Intellectual Property Rights (Customs) Regulations 2004
+id: uksi/2004/1473
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-06-04'
+text_date: '2010-04-16'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2004/1473
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1473/pdfs/uksiem_20041473_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1473/pdfs/uksi_20041473_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1473/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Goods Infringing Intellectual Property Rights (Customs) Regulations 2004
+
+> Text as at 2010-04-16.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2004 No. 1473
+
+CUSTOMS AND EXCISE
+
+INTELLECTUAL PROPERTY
+
+The Goods Infringing Intellectual Property Rights (Customs) Regulations 2004
+
+Made
+
+4th June 2004
+
+Laid before Parliament
+
+7th June 2004
+
+Coming into force
+
+1st July 2004
+
+The Commissioners of Customs and Excise, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972[^f00001], being a Department designated[^f00002] for the purposes of that subsection in relation to counterfeit and pirated goods, goods infringing a patent, goods infringing a supplementary protection certificate, goods infringing Community plant variety rights and goods infringing plant breeders' rights, designations of origin, geographical indications and geographical designations, hereby make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Goods Infringing Intellectual Property Rights (Customs) Regulations 2004 and shall come into force on 1st July 2004.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “the 1979 Act” means the Customs and Excise Management Act 1979[^f00003];
+- “application” means an application under Article 5 of the Council Regulation;
+- “the Commissioners” means the Commissioners of Customs and Excise;
+- [^key-633f9d5c76b39aaac515799366bdfbb5]...
+- [^key-ed65eaf26640d03862e0e4eaf65b7c92]...
+- “the Council Regulation” means Council Regulation [(EC) No 1383/2003](https://www.legislation.gov.uk/european/regulation/2003/1383) concerning customs action against goods suspected of infringing certain intellectual property rights and the measures to be taken against goods found to have infringed such rights[^f00006];
+- “the customs and excise Acts” has the meaning given in section 1(1) of the 1979 Act;
+- “database rights” has the meaning given in regulation 13 of the Copyright and Rights in Databases Regulations 1997[^f00007];
+- “decision” means a decision granting an application in accordance with Article 8 of the Council Regulation;
+- “declarant” has the meaning given in Article 4(18) of Council Regulation [(EEC) No 2913/1992](https://www.legislation.gov.uk/european/regulation/1992/2913) establishing the Community Customs Code[^f00008];
+- [^key-0a3a0bf1b0a9f44db2091491f15db523]...
+- [^key-5093e13dc301ec7d606e31b76ede9ed0]...
+- [^key-01e172344af2f141051e372214ef53e1]...
+- [^key-9650fc4c175ca095bc3aadc8783a6d5b]...
+- [^key-d423a78d288adf350f8cc6ddf70c23af]...
+- “goods infringing an intellectual property right” has the meaning given in Article 2(1) of the Council Regulation and related expressions shall be construed accordingly;
+- [^key-1c1a17dd1fd2b2e3905959729ad2470a]...
+- [^key-e10524b534a73ee8fb589819ec0f6145]...
+- “publication rights” has the meaning given in regulation 16 of the Copyright and Related Rights Regulations 1996[^f00012];
+- [^key-5188e8a64738f1abf68e8f0de47284ba]...
+- “right-holder” has the meaning given in Article 2(2) of the Council Regulation;
+- [^key-8fccd2cafc05b6ecceb569cc490d7d36]...
+- “working days” has the meaning given in Article 3(1) of Council Regulation (EEC, Euratom) No 1182/1971 determining the rules applicable to periods, dates and time limits[^f00014].
+
+(2) For the purposes of these Regulations, any reference in the Council Regulation to “copyright or related right” is to be construed as a reference to “copyright, rights in performances, publication rights or database rights”.
+
+(3) These Regulations shall apply to goods which fall to be treated by virtue of Article 2[^key-23692b95f5bb95a9e64da08a3b47c600] of the Council Regulation as being goods infringing an intellectual property right; but these Regulations shall not apply to any goods in relation to which the Council Regulation does not apply by virtue of Article 3 thereof.
+
+## 3. Infringing goods liable to forfeiture[^key-68a7d7dd20c4bcb7f96cdd79d8f559f1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Application for action[^key-a05ad998eebaaf521015993deef19051]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Decision to cease to have effect
+
+A decision shall have no further effect where—
+
+- (a) any change, following the making of the application, which takes place in the ownership or authorised use of the intellectual property right specified in the application, is not communicated in writing to the Commissioners; or
+- (b) the intellectual property right specified in the application expires.
+
+## 6. Samples of goods[^key-a05ad998eebaaf521015993deef19051]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Simplified procedure[^key-d177d8d1b98fb38110572cfa784b7e57]
+
+(1) The Commissioners may treat as abandoned for destruction goods which have been suspended from release or detained by virtue of Article 9 of the Council Regulation[^key-bc80e5b8e1d2c4fd8a8375db128b2fe3] where the right-holder has informed the Commissioners in writing within the specified period that those goods infringe an intellectual property right and either of the following conditions applies—
+
+- (a) the right-holder has provided the Commissioners with the written agreement of the declarant, the holder or the owner of the goods (“the interested parties”) that the goods may be[^key-0b7bca5d47b22d21692248f20e47bd88] destroyed; or
+- (b) none of the interested parties has specifically opposed the destruction of the goods within the specified period.
+
+(2) The Commissioners may not treat the goods as abandoned for destruction where one interested party has given its written agreement as mentioned in regulation 7(1)(a), but either or both of the other interested parties has specifically opposed destruction within the specified period.
+
+(3) The Commissioners may, at their discretion, accept the written agreement mentioned in regulation 7(1)(a) directly from the interested party.
+
+(4) Where goods are treated as abandoned for destruction by virtue of paragraph (1)—
+
+- (a) the right-holder must bear the expense and the responsibility for the destruction of the goods, unless otherwise specified by the Commissioners; and
+- (b) the Commissioners must retain a sample of the goods in such conditions that it can be used if required as evidence in legal proceedings.
+
+(5) The specified period means ten working days from receipt of the notification to the right-holder provided for in Article 9 of the Council Regulation[^key-070aeb1ea963d7e56d8816fa1cd5bb01] , or three working days in the case of perishable goods. The Commissioners may, at their discretion, extend this period by a further ten working days.
+
+(6) A reference in this regulation to the Commissioners is to be construed as including a reference to the Secretary of State.
+
+## 8. Detention and seizure of goods infringing specified intellectual property rights[^key-2d42c19281406d838ac80437b38d6934]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Initiation of proceedings[^key-2d42c19281406d838ac80437b38d6934]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Relationship with other powers
+
+Nothing in these Regulations shall be taken to affect—
+
+- (a) any power of the Commissioners conferred otherwise than by any provision of these Regulations to suspend the release of, or detain, any goods; or
+- (b) the power of any court to grant any relief, including any power to make an order by way of interim relief.
+
+## 11. Misuse of information by a right-holder
+
+(1) Where the Commissioners have reasonable grounds for believing that there has been a misuse of information by a right-holder the Commissioners may suspend the decision in force at the time of the misuse of information, in relation to a relevant intellectual property right, for the remainder of its period of validity.
+
+(2) Where the Commissioners have reasonable grounds for believing that there has been a further misuse of information within three years of a previous misuse of information by that right-holder the Commissioners may—
+
+- (a) suspend the decision in force at the time of the further misuse of information, in relation to a relevant intellectual property right, for the remainder of its period of validity; and
+- (b) for a period of up to one year from its expiry, refuse to renew the decision in force at the time of the further misuse of information, or to accept a new application, in relation to a relevant intellectual property right.
+
+(3) In this regulation—
+
+- (a) “misuse of information” means the use of information supplied to a right-holder pursuant to the first sub-paragraph of Article 9(3) of the Council Regulation other than for the purposes specified in Articles 10, 11 and 13(1) of the Council Regulation, or pursuant to an enactment or order of a court, and related expressions shall be construed accordingly;
+- (b) “relevant intellectual property right” means any intellectual property right in relation to a suspected infringement of which information was supplied to a right-holder pursuant to the first sub-paragraph of Article 9(3) of the Council Regulation, and in relation to which the Commissioners have reasonable grounds for believing that there has been a misuse of that information.
+
+## 12. Amendment of the Copyright, Designs and Patents Act 1988
+
+For subsection (3B) of section 111 of the Copyright, Designs and Patents Act 1988[^f00017] there shall be substituted—
+
+> (3B) This section does not apply to goods placed in, or expected to be placed in, one of the situations referred to in Article 1(1), in respect of which an application may be made under Article 5(1), of Council Regulation [(EC) No 1383/2003](https://www.legislation.gov.uk/european/regulation/2003/1383) concerning customs action against goods suspected of infringing certain intellectual property rights and the measures to be taken against goods found to have infringed such rights[^f00018].
+
+.
+
+## 13. Amendment of the Trade Marks Act 1994
+
+For subsection (3) of section 89 of the Trade Marks Act 1994[^f00019] there shall be substituted—
+
+> (3) This section does not apply to goods placed in, or expected to be placed in, one of the situations referred to in Article 1(1), in respect of which an application may be made under Article 5(1), of Council Regulation [(EC) No 1383/2003](https://www.legislation.gov.uk/european/regulation/2003/1383) concerning customs action against goods suspected of infringing certain intellectual property rights and the measures to be taken against goods found to have infringed such rights[^f00020].
+
+.
+
+## 14. Revocations
+
+The Regulations listed in the Schedule are hereby revoked.
+
+M J Hanson
+
+Commissioner of Customs and Excise
+
+New King’s Beam House, 22 Upper Ground, London, SE1 9PJ
+
+## SCHEDULE — Revocations
+
+Regulation 14
+
+| Regulations revoked | References |
+| --- | --- |
+| The Trade Marks (EC Measures Relating to Counterfeit Goods) Regulations 1995. | S.I. [1995/1444](https://www.legislation.gov.uk/uksi/1995/1444) |
+| The Goods Infringing Intellectual Property Rights (Customs) Regulations 1999. | S.I. [1999/1601](https://www.legislation.gov.uk/uksi/1999/1601) |
+| The Goods Infringing Intellectual Property Rights (Consequential Provisions) Regulations 1999. | S.I. [1999/1618](https://www.legislation.gov.uk/uksi/1999/1618) |
+| The Goods Infringing Intellectual Property Rights (Customs) Regulations 2003. | S.I. [2003/2316](https://www.legislation.gov.uk/uksi/2003/2316) |
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 1st July 2004, revoke and replace the Goods Infringing Intellectual Property Rights (Customs) Regulations 1999 (S.I. [1999/1601](https://www.legislation.gov.uk/uksi/1999/1601), amended by S.I. [2003/2316](https://www.legislation.gov.uk/uksi/2003/2316)) and the Goods Infringing Intellectual Property Rights (Consequential Provisions) Regulations 1999 (S.I. [1999/1618](https://www.legislation.gov.uk/uksi/1999/1618)). Those Regulations made provisions consequential upon Council Regulation [(EC) No 3295/1994](https://www.legislation.gov.uk/european/regulation/1994/3295) (OJ No L 341, 30.12.94, p 8), as amended by Council Regulation [(EC) No 241/1999](https://www.legislation.gov.uk/european/regulation/1999/0241) (OJ No L 27, 2.2.99, p 1), which laid down measures concerning the entry into the Community, and the export and re-export from the Community, of goods infringing certain intellectual property rights.
+
+Council Regulation [(EC) No 1383/2003](https://www.legislation.gov.uk/european/regulation/2003/1383) (OJ No L 196, 2.8.03, p 7), which replaces Regulation 3295/1994 with effect from 1st July 2004, introduces the following principal changes:
+
+- (a) the use of a standard application form, containing a declaration by the right-holder;
+- (b) the abolition of application fees;
+- (c) the provision of additional information to the right-holder at an earlier stage;
+- (d) the introduction of sanctions if a right-holder misuses information supplied to him; and
+- (e) the extension to goods infringing a national plant variety right, a Community plant variety right, a designation of origin, a geographical indication, or a geographical designation.
+
+These Regulations re-enact regulations 2 to 8 of S.I. [1999/1618](https://www.legislation.gov.uk/uksi/1999/1618) amended to reflect Regulation [1383/2003](https://www.legislation.gov.uk/uksi/1383/2003), make new provisions consequential upon Regulation [1383/2003](https://www.legislation.gov.uk/uksi/1383/2003) and re-enact paragraphs 8(b) and (c) of S.I. [1999/1601](https://www.legislation.gov.uk/uksi/1999/1601). The other provisions of S.I. [1999/1601](https://www.legislation.gov.uk/uksi/1999/1601), relating to the application form, the provision of security by the applicant and the application fee, are rendered otiose by the changes introduced by Regulation [1383/2003](https://www.legislation.gov.uk/uksi/1383/2003).
+
+These Regulations revoke and replace the Trade Marks (EC Measures Relating to Counterfeit Goods) Regulations 1995 (S.I. [1995/1444](https://www.legislation.gov.uk/uksi/1995/1444)) which excluded goods covered by Regulation 3295/1994 from the operation of section 89 of the Trade Marks Act 1994. These Regulations also amend section 111(3B) of the Copyright, Designs and Patents Act 1988.
+
+These Regulations revoke the Goods Infringing Intellectual Property Rights (Customs) Regulations 2003 (S.I. [2003/2316](https://www.legislation.gov.uk/uksi/2003/2316)), which abolished fees for applications to the Commissioners with effect from 1<sup>st</sup> October 2003 and which are now otiose.
+
+Regulations 2, 3, 7, 9 and 10 re-enact regulations 2, 3, 5, 7 and 8 of S.I. [1999/1618](https://www.legislation.gov.uk/uksi/1999/1618), amended to reflect the provisions of Regulation [1383/2003](https://www.legislation.gov.uk/uksi/1383/2003).
+
+Regulation 4 re-enacts regulation 4 of S.I. [1999/1618](https://www.legislation.gov.uk/uksi/1999/1618), with the addition of paragraph (1)(a) and of the reference to the declarant in paragraph (1)(b).
+
+Regulation 5 re-enacts paragraphs 8(b) and (c) of S.I. [1999/1601](https://www.legislation.gov.uk/uksi/1999/1601).
+
+Regulation 6 is a new provision setting out circumstances in which samples of suspected infringing goods may be provided to the right-holder.
+
+Regulation 8 re-enacts regulation 6 of S.I. [1999/1618](https://www.legislation.gov.uk/uksi/1999/1618), amended to reflect the extended scope of Regulation [1383/2003](https://www.legislation.gov.uk/uksi/1383/2003) and to provide for a 3 day period where perishable goods are involved.
+
+Regulation 11 is a new provision setting out the sanctions which the Commissioners may impose if there has been a misuse of information by a right-holder. In all cases the Commissioners may suspend the decision in relation to a relevant intellectual property right for the remainder of its period of validity (the maximum period of validity is one year). If the right-holder has misused information within the previous three years the Commissioners may also refuse to renew the decision, or to accept an application, in relation to a relevant intellectual property right for a period of up to one year from the date of its expiry.
+
+Regulations 12 and 13 amend section 111(3B) of the Copyright, Designs and Patents Act 1988 and section 89(3) of the Trade Marks Act 1994 to refer to Regulation 1383/2003.
+
+Regulation 14 revokes the four Regulations referred to above and listed in the Schedule.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: S.I. [1995/751](https://www.legislation.gov.uk/uksi/1995/751) (in relation to counterfeit and pirated goods), S.I. [1999/654](https://www.legislation.gov.uk/uksi/1999/654) (in relation to goods infringing a patent and goods infringing a supplementary protection certificate) and S.I. [2004/706](https://www.legislation.gov.uk/uksi/2004/706) (in relation to goods infringing Community plant variety rights and goods infringing plant breeders' rights, designations of origin, geographical indications and geographical designations).
+
+[^f00003]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^key-633f9d5c76b39aaac515799366bdfbb5]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/a)
+
+[^key-ed65eaf26640d03862e0e4eaf65b7c92]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/b)
+
+[^f00006]: Footnote: OJ No L 196, 2.8.03, p 7.
+
+[^f00007]: Footnote: S.I. [1997/3032](https://www.legislation.gov.uk/uksi/1997/3032).
+
+[^f00008]: Footnote: OJ No L 302, 19.10.92, p 1.
+
+[^key-0a3a0bf1b0a9f44db2091491f15db523]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/c)
+
+[^key-5093e13dc301ec7d606e31b76ede9ed0]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/d)
+
+[^key-01e172344af2f141051e372214ef53e1]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/e)
+
+[^key-9650fc4c175ca095bc3aadc8783a6d5b]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/f)
+
+[^key-d423a78d288adf350f8cc6ddf70c23af]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(g)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/g)
+
+[^key-1c1a17dd1fd2b2e3905959729ad2470a]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(h)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/h)
+
+[^key-e10524b534a73ee8fb589819ec0f6145]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(i)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/i)
+
+[^f00012]: Footnote: S.I. [1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), amended by S.I. [2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
+
+[^key-5188e8a64738f1abf68e8f0de47284ba]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(j)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/j)
+
+[^key-8fccd2cafc05b6ecceb569cc490d7d36]: Textual amendment: Words in reg. 2(1) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [3(k)](https://www.legislation.gov.uk/uksi/2010/992/regulation/3/k)
+
+[^f00014]: Footnote: OJ No L 124, 8.6.71, p 1.
+
+[^key-23692b95f5bb95a9e64da08a3b47c600]: Textual amendment: Words in reg. 2(3) substituted (16.4.2010) by [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/992/regulation/4)
+
+[^key-68a7d7dd20c4bcb7f96cdd79d8f559f1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1473/regulation/3) omitted (10.3.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) Regulations 2010 (S.I. 2010/324)](https://www.legislation.gov.uk/uksi/2010/324), [regs. 1](https://www.legislation.gov.uk/uksi/2010/324/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/324/regulation/2/1)
+
+[^key-a05ad998eebaaf521015993deef19051]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1473/regulation/6) omitted (16.4.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/992/regulation/5)
+
+[^key-d177d8d1b98fb38110572cfa784b7e57]: Textual amendment: Reg. 7 substituted (10.3.2010) by [Goods Infringing Intellectual Property Rights (Customs) (Amendment) Regulations 2010 (S.I. 2010/324)](https://www.legislation.gov.uk/uksi/2010/324), [regs. 1](https://www.legislation.gov.uk/uksi/2010/324/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/324/regulation/2/2)
+
+[^key-bc80e5b8e1d2c4fd8a8375db128b2fe3]: Textual amendment: Words in reg. 7(1) substituted (16.4.2010) by [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2010/992/regulation/6/a)
+
+[^key-0b7bca5d47b22d21692248f20e47bd88]: Textual amendment: Word in reg. 7(1)(a) inserted (16.4.2010) by [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2010/992/regulation/6/b)
+
+[^key-070aeb1ea963d7e56d8816fa1cd5bb01]: Textual amendment: Words in reg. 7(5) substituted (16.4.2010) by [Goods Infringing Intellectual Property Rights (Customs) (Amendment) (No.2) Regulations 2010 (S.I. 2010/992)](https://www.legislation.gov.uk/uksi/2010/992), [regs. 1](https://www.legislation.gov.uk/uksi/2010/992/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/992/regulation/7)
+
+[^key-2d42c19281406d838ac80437b38d6934]: Textual amendment: Reg. 8 omitted (10.3.2010) by virtue of [Goods Infringing Intellectual Property Rights (Customs) (Amendment) Regulations 2010 (S.I. 2010/324)](https://www.legislation.gov.uk/uksi/2010/324), [regs. 1](https://www.legislation.gov.uk/uksi/2010/324/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/324/regulation/2/1)
+
+[^f00017]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48); subsection (3B) was inserted by S.I. [1995/1445](https://www.legislation.gov.uk/uksi/1995/1445).
+
+[^f00018]: Footnote: OJ No L 196, 2.8.03, p 7.
+
+[^f00019]: Footnote: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26); subsection (3) was substituted by S.I. [1995/1444](https://www.legislation.gov.uk/uksi/1995/1444).
+
+[^f00020]: Footnote: OJ No L 196, 2.8.03, p 7.

@@ -1,0 +1,44 @@
+---
+title: Sentencing Act 2020, section 136
+act: Sentencing Act 2020
+section: '136'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2020/17/section/136
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Sentencing Act 2020, section 136
+
+> **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 136. Road accidents[^key-c8335e602af9113ec8595f0588d43d25]
+
+*Extent: E+W*
+
+(1) A compensation order may not be made in respect of funeral expenses or bereavement in respect of a death due to a road accident.
+
+(2) A compensation order may be made in respect of injury, loss or damage due to a road accident only if it is in respect of—
+
+- (a) loss suffered by a person's dependants in consequence of the person's death,
+- (b) damage which is treated by section 137 as resulting from an offence under the Theft Act 1968 or Fraud Act 2006, or
+- (c) uninsured harm.
+
+(3) In subsection (2), “**uninsured harm**” means injury, loss or damage as respects which—
+
+- (a) the offender was uninsured in relation to the use of the vehicle in question, and
+- (b) compensation is not payable under any arrangements to which the Secretary of State is a party.
+
+An offender is not uninsured in relation to the use of a vehicle for this purpose if that use of it is exempted from insurance by section 144 of the Road Traffic Act 1988.
+
+(4) Where a compensation order is made in respect of injury, loss or damage due to a road accident, the amount to be paid may include an amount representing all or part of any loss of, or reduction in, preferential rates of insurance attributable to the accident.
+
+(5) In this Chapter, “**road accident**” means an accident arising out of the presence of a motor vehicle on a road.
+
+## Annotations
+
+[^key-c8335e602af9113ec8595f0588d43d25]: Commencement: S. 136 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

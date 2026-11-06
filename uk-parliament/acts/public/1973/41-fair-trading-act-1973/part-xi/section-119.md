@@ -1,0 +1,55 @@
+---
+title: Fair Trading Act 1973, section 119
+act: Fair Trading Act 1973
+section: '119'
+status: revised
+text_date: '2026-01-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1973/41/section/119
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Fair Trading Act 1973, section 119
+
+> Text as at 2026-01-19.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 119. Regulations relating to such trading schemes.
+
+*Extent: E+W+S+N.I.*
+
+(1) Regulations made by the Secretary of State by statutory instrument may make provision with respect to the issue, circulation or distribution of any form of advertisement, prospectus, circular or notice which contains any information[^c10705841] calculated to lead directly or indirectly to persons becoming participants in such a training scheme, and may prohibit any such advertisement, prospectus, circular or notice from being issued, circulated or distributed unless it complies with such requirements as to the matters to be included or not included in it as may be prescribed by the regulations.
+
+(2) Regulations made by the Secretary of State by statutory instrument may prohibit the promoter or any of the promoters of, or any participant in, a trading scheme to which this Part of this Act applies from—
+
+- (a) supplying any goods to a participant in the trading scheme, or
+- (b) supplying any training facilities or other services for such a participant, or
+- (c) providing any goods or services under a transaction effected by such a participant, or
+- (d) being a party to any arrangements under which goods or services are supplied or provided as mentioned in any of the preceding paragraphs, or
+- (e) accepting from any such participant any payment, or any undertaking to make a payment, in respect of any goods or services supplied or provided as mentioned in any of paragraphs (a) to (d) of this subsection or in respect of any goods or services to be so supplied or provided,
+
+unless (in any such case) such requirements as are prescribed by the regulations are complied with.
+
+(3) Any requirements prescribed by regulations under subsection (2) of this section shall be such as the Secretary of State considers necessary or expedient for the purpose of preventing participants in trading schemes to which this Part of this Act applies from being unfairly treated; and, without prejudice to the generality of this subsection, any such requirements may include provisions—
+
+- (a) requiring the rights and obligations of every participant under such a trading scheme to be set out in full in an agreement in writing made between the participant and the promoter or (if more than one) each of the promoters;
+- (b) specifying rights required to be conferred on every such participant, and obligations required to be assumed by the promoter or promoters, under any such trading scheme; or
+- (c) imposing restrictions on the liabilities to be incurred by such a participant in respect of any of the matters mentioned in paragraphs (a) to (e) of subsection (2) of this section.
+
+(4) Regulations made under subsection (2) of this section—
+
+- (a) may include provision for enabling a person who has made a payment as a participant in a trading scheme to which this Part of this Act applies, in circumstances where any of the requirements prescribed by the regulations were not complied with, to recover the whole or part of that payment from any person to whom or for whose benefit it was paid, and
+- (b) subject to any provision made in accordance with the preceding paragraph, may prescribe the degree to which anything done in contravention of the regulations is to be treated as valid or invalid for the purposes of any civil proceedings.
+
+(5) The power to make regulations under this section may be exercised so as to make different provision—
+
+- (a) in relation to different descriptions of trading schemes to which this Part of this Act applies, or
+- (b) in relation to trading schemes which are or were in operation on a date specified in the regulations and trading schemes which are or were not in operation on that date,
+
+or in relation to different descriptions of participants in such trading schemes.
+
+## Annotations
+
+[^c10705841]: Textual amendment: Words in [s. 119(1)](https://www.legislation.gov.uk/ukpga/1973/41/section/119/1) substituted (6.2.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 2(1)(a)(b)](https://www.legislation.gov.uk/ukpga/1997/32/section/2/1/a/b); [S.I. 1997/29](https://www.legislation.gov.uk/uksi/1997/29), [art. 2](https://www.legislation.gov.uk/uksi/1997/29/article/2)

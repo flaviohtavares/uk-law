@@ -1,0 +1,67 @@
+---
+title: The Misuse of Drugs (Amendment) Regulations 1995
+id: uksi/1995/2048
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: repealed
+made_date: '1995-08-01'
+text_date: '2002-02-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/2048
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/2048/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Misuse of Drugs (Amendment) Regulations 1995
+
+> This law has been repealed or revoked.
+
+**No longer in force.**
+
+1995 No. 2048
+
+DANGEROUS DRUGS
+
+The Misuse of Drugs (Amendment) Regulations 1995 (revoked)[^key-f976fb5a2fbfcd20dffcdb0ebf7f674d]
+
+Made
+
+1st August 1995
+
+Laid before Parliament
+
+10th August 1995
+
+Coming into force
+
+1st September 1995
+
+[^key-f976fb5a2fbfcd20dffcdb0ebf7f674d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+## 1.[^key-f976fb5a2fbfcd20dffcdb0ebf7f674d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2.[^key-f976fb5a2fbfcd20dffcdb0ebf7f674d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3.[^key-f976fb5a2fbfcd20dffcdb0ebf7f674d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-f976fb5a2fbfcd20dffcdb0ebf7f674d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-f976fb5a2fbfcd20dffcdb0ebf7f674d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-f976fb5a2fbfcd20dffcdb0ebf7f674d]: Textual amendment: Regulations revoked (1.2.2002) by [The Misuse of Drugs Regulations 2001 (S.I. 2001/3998)](https://www.legislation.gov.uk/uksi/2001/3998), [Sch. 7](https://www.legislation.gov.uk/uksi/2001/3998/schedule/7) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2001/3998/regulation/2/3)); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

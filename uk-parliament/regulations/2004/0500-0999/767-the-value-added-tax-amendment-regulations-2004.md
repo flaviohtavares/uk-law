@@ -1,0 +1,153 @@
+---
+title: The Value Added Tax (Amendment) Regulations 2004
+id: uksi/2004/767
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-03-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/767
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/767/pdfs/uksi_20040767_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/767/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Amendment) Regulations 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No. 767
+
+VALUE ADDED TAX
+
+The Value Added Tax (Amendment) Regulations 2004
+
+Made
+
+17th March 2004
+
+Laid before the House of Commons
+
+17th March 2004
+
+Coming into force
+
+1st April 2004
+
+The Commissioners of Customs and Excise, in exercise of the powers conferred upon them by sections 25(1) and 26B of, and paragraph 2(1), (7) and (11) of Schedule 11 to, the Value Added Tax Act 1994[^f00001], hereby make the following regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Value Added Tax (Amendment) Regulations 2004 and come into force on 1st April 2004.
+
+## 2. Transitional provision: couriers using the flat-rate scheme for small businesses
+
+(1) If—
+
+- (a) a person notified the Commissioners, on or before 2nd March 2004, of his desire to participate in the flat-rate scheme, and
+- (b) at 1st April 2004 his main business activity is expected, on reasonable grounds, to be that of courier in the period beginning with 1st April 2004 and ending with 30th June 2004,
+
+regulation 6 has effect in relation to him on 1st July 2004, not on 1st April 2004.
+
+(2) Except that if—
+
+- (a) he begins to carry on a new business activity or ceases to carry on an existing business activity on any day falling within the period beginning with 1st April 2004 and ending with 30th June 2004, and
+- (b) at the date of that change his main business activity is expected, on reasonable grounds, to be one other than that of courier in the period beginning with the date of the change and ending with 30th June 2004,
+
+regulation 6 has effect in relation to him on the day that the change occurs.
+
+(3) In this regulation, “his main business activity” in a period is to be determined by reference to regulation 55K(4) of the Value Added Tax Regulations 1995[^f00002].
+
+## 3. Amendment
+
+The Value Added Tax Regulations 1995[^f00003] are amended as follows.
+
+## 4. Annual accounting scheme
+
+In regulation 52(1)(b) (admission), for “£600,000” substitute “£660,000”.
+
+**5.** In regulations 53(2)(a) and 54(1)(e) and (2) (exit), for “£750,000” substitute “£825,000”.
+
+## 6. Flat-rate scheme for small businesses
+
+In regulation 55K (category of business), in the Table—
+
+- (a) in the box in the left-hand column that corresponds with the percentage of 2%, above the entry beginning “Retailing food” insert “Post offices”,
+- (b) in the box in the left-hand column that corresponds with the percentage of 5.5%, delete “Postal and courier services”,
+- (c) in the box in the left-hand column that corresponds with the percentage of 9%, for “Transport or storage, including freight, removals and taxis” substitute “Transport or storage, including couriers, freight, removals and taxis”.
+
+## 7. Cash accounting scheme
+
+In regulation 58(1)(a) (admission), for “£600,000” substitute “£660,000”.
+
+**8.** In regulation 60(1) (exit), for “£750,000” substitute “£825,000”.
+
+**9.** For regulation 61 (rules on withdrawal), substitute—
+
+> **61.** (1) Subject to paragraph (2), a person who ceases to operate the scheme, either of his own volition or because the value of taxable supplies made by him exceeds the level provided for in regulation 60(1), must—
+>
+> - (a) settle up, or
+> - (b) apply transitional arrangements.
+>
+> (2) Where the value of taxable supplies made by a person in the period of three months ending at the end of the prescribed accounting period in which he ceased to operate the scheme has exceeded £660,000, he may not apply transitional arrangements.
+>
+> (3) In paragraph (1)(a), “settle up” means account for and pay on a return made for the prescribed accounting period in which he ceased to operate the scheme—
+>
+> - (a) all VAT that he would have been required to pay to the Commissioners during the time when he operated the scheme, if he had not then been operating the scheme, minus
+> - (b) all VAT accounted for and paid to the Commissioners in accordance with the scheme, subject to any adjustment for credit for input tax.
+>
+> (4) In paragraph (1)(b), “apply transitional arrangements” means continue to operate the scheme in respect of his scheme supplies for 6 months after the end of the prescribed accounting period in which he ceased to operate the scheme.
+>
+> (5) In paragraph (4), “scheme supplies” means supplies made and received while he operated the scheme that are not excluded from the scheme by virtue of regulation 57A or 58 or conditions described in a notice.
+>
+> (6) Where a person chooses to apply transitional arrangements, he shall account for and pay on a return made for the first prescribed accounting period that ends 6 months or more after the end of the prescribed accounting period in which he ceased to operate the scheme—
+>
+> - (a) all VAT that he would have been required to pay to the Commissioners during the time when he operated the scheme, if he had not then been operating the scheme, minus
+> - (b) all VAT accounted for and paid to the Commissioners in accordance with the scheme (including any VAT accounted for and paid because he applied transitional arrangements), subject to any adjustment for credit for input tax.
+
+**10.** After regulation 64 insert—
+
+> **64A. Bad debt relief**
+>
+> Where a person accounts for and pays VAT in relation to a supply in accordance with regulation 61(3) or (6) or 64(2), he shall be treated for the purposes of section 36(1)(a) of the Act[^f00004] as having accounted for and paid VAT on the supply in the prescribed accounting period in which he ceased to operate the scheme.
+
+.
+
+M J Hanson
+
+Commissioner of Customs and Excise
+
+New King’s Beam House 22 Upper Ground London SE1 9PJ
+
+17th March 2004
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 1st April 2004, further amend Parts 7 (annual accounting scheme), 7A (flat-rate scheme for small businesses) and 8 (cash accounting scheme) of the Value Added Tax Regulations 1995 (S.I. [1995/2518](https://www.legislation.gov.uk/uksi/1995/2518)) (“principal Regulations”).
+
+Regulation 4 increases the maximum turnover limit for entrants to the annual accounting scheme from £600,000 to £660,000. Regulation 5 increases the maximum turnover limit for those already operating the scheme from £750,000 to £825,000. Consequential amendment is made to regulation 54(2) of the principal Regulations.
+
+Regulation 6 amends the Table of categories of business and appropriate percentages that applies for the purposes of the flat-rate scheme. The category of “postal and courier services” is deleted from the Table. Persons who would have fallen within this category will now fall within either the new category of “post offices” or the amended category of “transport or storage, including couriers, freight, removals and taxis”. Regulation 2 provides transitional arrangements for persons already authorised to use the flat-rate scheme and whose main business activity is that of courier. The amendments made by regulation 6 will apply to such a person from 1st July 2004, unless between 1<sup>st</sup> April and 1<sup>st</sup> July, his main business activity changes from that of courier. In such cases, the amendments made by regulation 6 will apply at the time of the change.
+
+Regulation 7 increases the maximum turnover limit for entrants to the cash accounting scheme from £600,000 to £660,000. Regulation 8 increases the maximum turnover limit for those already operating the scheme from £750,000 to £825,000.
+
+Regulation 9 substitutes a new regulation 61 of the principal Regulations, which provides for new arrangements for bringing outstanding VAT into account when persons leave the cash accounting scheme voluntarily or because they reach the maximum turnover limit.
+
+Regulation 10 inserts a new regulation 64A into the principal Regulations. The new regulation modifies section 36(1)(a) of the Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23) (bad debt relief scheme) so that a person who leaves the cash accounting scheme is entitled to claim bad debt relief at the end of the prescribed accounting period in which he leaves the cash accounting scheme (provided he satisfies the other conditions of the bad debt relief scheme).
+
+A full regulatory impact assessment on the changes to the cash accounting, annual accounting and flat rate schemes was published on 17th March 2004 and is available on www.hmce.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); section 96(1) defines “the Commissioners” as meaning the Commissioners of Customs and Excise and “regulations” as meaning regulations made by the Commissioners under the Act. Section 26B was added by section 23 of the Finance Act [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23). Paragraph 2(1) of Schedule 11 was amended by section 24 of the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^f00002]: Footnote: S.I. [1995/2518](https://www.legislation.gov.uk/uksi/1995/2518); regulation 55K was inserted by S.I. [2002/1142](https://www.legislation.gov.uk/uksi/2002/1142) and amended by S.I. [2003/1069](https://www.legislation.gov.uk/uksi/2003/1069) and S.I. [2003/3220](https://www.legislation.gov.uk/uksi/2003/3220).
+
+[^f00003]: Footnote: S.I. [1995/2518](https://www.legislation.gov.uk/uksi/1995/2518); relevant amending instruments are S.I. [1996/542](https://www.legislation.gov.uk/uksi/1996/542), S.I. [2001/677](https://www.legislation.gov.uk/uksi/2001/677), S.I. [2002/1142](https://www.legislation.gov.uk/uksi/2002/1142) and S.I. [2003/1069](https://www.legislation.gov.uk/uksi/2003/1069) (annual accounting), S.I. [2002/1142](https://www.legislation.gov.uk/uksi/2002/1142), S.I. [2003/1069](https://www.legislation.gov.uk/uksi/2003/1069) and S.I. [2003/3220](https://www.legislation.gov.uk/uksi/2003/3220) (FRS), and S.I. [1997/1614](https://www.legislation.gov.uk/uksi/1997/1614), S.I [2001/677](https://www.legislation.gov.uk/uksi/2001/677) and S.I. [2002/1142](https://www.legislation.gov.uk/uksi/2002/1142) (cash accounting) .
+
+[^f00004]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); section 36 was amended by section 39 of, and Part 4(3) of Schedule 18 to, the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), section 23 of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), section 15 of the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16) and section 22 of, and Part 2 of Schedule 40 to, the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).

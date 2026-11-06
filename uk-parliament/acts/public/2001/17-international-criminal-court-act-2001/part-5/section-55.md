@@ -1,0 +1,54 @@
+---
+title: International Criminal Court Act 2001, section 55
+act: International Criminal Court Act 2001
+section: '55'
+status: revised-with-pending-changes
+text_date: '2024-01-04'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2001/17/section/55
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# International Criminal Court Act 2001, section 55
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 55. Meaning of “ancillary offence”
+
+*Extent: E+W+N.I.*
+
+(1) References in this Part to an ancillary offence under the law of England and Wales are to—
+
+- (a) aiding, abetting, counselling or procuring the commission of an offence,
+- (b)[^c19677321][^key-9e65d6c7f62de1fdfbeb1ad1a663bfaf] inciting a person to commit an offence,
+- (c) attempting or conspiring to commit an offence, or
+- (d) assisting an offender or concealing the commission of an offence.
+
+(2) In subsection (1)(a) the reference to aiding, abetting, counselling or procuring is to conduct that in relation to an indictable offence would be punishable under section 8 of the Accessories and Abettors Act 1861 (c. 94).
+
+(3)[^key-24b627030f91de60705b1c8850ae51cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In subsection (1)(c)—
+
+- (a) the reference to an attempt is to conduct amounting to an offence under section 1 of the Criminal Attempts Act 1981 (c. 47); and
+- (b) the reference to conspiracy is to conduct amounting to an offence of conspiracy under section 1 of the Criminal Law Act 1977 (c. 45).
+
+(5) In subsection (1)(d)—
+
+- (a) the reference to assisting an offender is to conduct that in relation to a relevant offence[^c18085941] would amount to an offence under section 4(1) of the Criminal Law Act 1967 (c. 58); and
+- (b) the reference to concealing an offence is to conduct that in relation to a relevant offence[^c18336621] would amount to an offence under section 5(1) of that Act.
+
+## Annotations
+
+[^c19677321]: Modification: S. 55(1)(b) modified (prosp.) by Serious Crime Act 2007, ss. 63(1)(2), 94, {Sch. 6 para. 42} (with Sch. 13 para. 5)
+
+[^key-9e65d6c7f62de1fdfbeb1ad1a663bfaf]: Modification: S. 55(1)(b) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 42](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/42) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+
+[^key-24b627030f91de60705b1c8850ae51cd]: Textual amendment: [S. 55(3)](https://www.legislation.gov.uk/ukpga/2001/17/section/55/3) repealed (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 61(2)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/61/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a/i)
+
+[^c18085941]: Textual amendment: Words in s. 55(5)(a) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 49(3)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/49/3); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/2))
+
+[^c18336621]: Textual amendment: Words in s. 55(5)(b) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [148(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/148/8), [Sch. 7 para. 49(3)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/49/3); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/2))

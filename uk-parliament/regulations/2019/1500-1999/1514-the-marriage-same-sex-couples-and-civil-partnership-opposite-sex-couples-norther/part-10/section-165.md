@@ -1,0 +1,29 @@
+---
+title: The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019, section 165
+act: The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019
+section: '165'
+status: revised
+text_date: '2020-12-07'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/1514/section/165
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019, section 165
+
+> Text as at 2020-12-07.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 165. Patient and Client Council (Membership and Procedure) Regulations (Northern Ireland) 2009[^key-4db280d8689646ce3cb38d00c06fdd34]
+
+*Extent: N.I.*
+
+In regulation 9 of the Patient and Client Council (Membership and Procedure) Regulations (Northern Ireland) 2009[^f00274] (disclosure of pecuniary interest etc), in paragraph (4), in the words after paragraph (b), for “married persons living together the interest of one spouse” substitute “two people who are spouses, or civil partners, of each other and who are living together, the interest of one of them”.
+
+## Annotations
+
+[^key-4db280d8689646ce3cb38d00c06fdd34]: Commencement: Reg. 165 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+
+[^f00274]: Footnote: [S.R. (N.I.) 2009/98](https://www.legislation.gov.uk/nisr/2009/98).

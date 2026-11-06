@@ -1,0 +1,186 @@
+---
+title: The Shropshire (District of The Wrekin) (Structural Change) Order 1996
+id: uksi/1996/1866
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-07-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/1866
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/1866/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Shropshire (District of The Wrekin) (Structural Change) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 1866
+
+LOCAL GOVERNMENT, ENGLAND AND WALES
+
+The Shropshire (District of The Wrekin) (Structural Change) Order 1996
+
+Made
+
+18th July 1996
+
+Coming into force
+
+For the purposes of articles 2(2), 4(1), (3) and (4), 7 and 8
+
+19th July 1996
+
+For all other purposes
+
+1st April 1998
+
+Whereas the Local Government Commission for England, acting pursuant to section 15(4) of the Local Government Act 1992[^f00001], has submitted to the Secretary of State a report on its review of the district of The Wrekin in the county of Shropshire together with its recommendations:
+
+And whereas the Secretary of State has decided to give effect, with modifications, to the recommendations in respect of the district of The Wrekin:
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred on him by sections 17[^f00002], 18(3)(a) and 26 of the Local Government Act 1992, and of all other powers enabling him in that behalf, hereby makes the following Order, a draft of which has been laid before, and approved by a resolution of, each House of Parliament:
+
+## PART I — GENERAL
+
+### 1. Citation and commencement
+
+This Order may be cited as the Shropshire (District of The Wrekin) (Structural Change) Order 1996 and shall come into force for the purposes of articles 2(2), 4(1), (3) and (4), 7 and 8 on the day after the day on which it is made and for all other purposes on 1st April 1998.
+
+### 2. Interpretation
+
+(1) In this Order—
+
+- “the Act” means the Local Government Act 1992;
+- “the 1972 Act” means the Local Government Act 1972[^f00003];
+- “the relevant date” means 5th May 1997;
+- “relevant provision” means a provision in any subordinate legislation made under the Act or made, in connection with the Act or such provision, under any other enactment;
+- “the reorganisation date” means 1st April 1998;
+- “Shropshire” means the non-metropolitan county of Shropshire and “the County Council” means the council of that county;
+- “subordinate legislation” has the same meaning as in section 21 of the Interpretation Act 1978[^f00004]; and
+- “The Wrekin” (except in references to the county of The Wrekin) means the district of The Wrekin and “The Wrekin Council” means the council of that district.
+
+(2) The period beginning with the relevant date and ending immediately before the reorganisation date is specified as the preliminary period for the purposes of any statutory instrument made under the Act.
+
+## PART II — LOCAL GOVERNMENT REORGANISATION IN THE WREKIN
+
+### 3. Structural change
+
+The functions of the County Council in relation to The Wrekin shall, subject to the following provisions of this Part and to any other relevant provision, be transferred to The Wrekin Council.
+
+### 4. Fire services
+
+(1) In this article—
+
+- “the 1947 Act” means the Fire Services Act 1947[^f00005]; and
+- “the relevant area” means the area comprising Shropshire (as constituted on and after the reorganisation date) and The Wrekin.
+
+(2) The Wrekin shall, subject to any combination scheme under the 1947 Act, become the area of a fire authority for the purposes of that Act.
+
+(3) For the purposes of the making of a combination scheme with respect to the relevant area before the reorganisation date in accordance with section 10 of the 1947 Act (power to make schemes in advance of alterations to local government areas), section 5(2) of that Act shall have effect, in relation to that area, as if—
+
+- (a) in paragraphs (a) and (d) of that subsection, for “the constituent authorities”, wherever those words occur, there were substituted “the council of the county of Shropshire”; and
+- (b) in paragraphs (e) and (f) of that subsection, for “any of the constituent authorities” there were substituted “the council of the county of Shropshire”.
+
+(4) Section 10 of the 1947 Act shall have effect, in relation to the relevant area, as if after the word “but” there were inserted the words “, except so far as it relates to the constitution of an authority as the fire authority for the combined area constituted by the scheme and the performance by that authority of any functions necessary for bringing the scheme into full operation on that date,”.
+
+### 5. Planning functions
+
+(1) The structure plan applying immediately before the reorganisation date to Shropshire and any proposals prepared before that date for the alteration or replacement of that plan shall be treated as if it had been prepared jointly by the County Council and The Wrekin Council; and section 50 of the Town and Country Planning Act 1990[^f00006] (“the 1990 Act”) shall apply accordingly.
+
+(2) In relation to The Wrekin Council—
+
+- (a) section 36(5) of the 1990 Act (which provides that a local plan shall not contain policies in respect of minerals or waste) shall not apply;
+- (b) subsection (1) of section 37 of that Act (minerals local plans) shall have effect as if, after the words “local plan”, there were added the words “or include in their local plan their detailed policies in respect of development consisting of the winning and working of minerals or involving the deposit of mineral waste”; and
+- (c) subsection (2) of section 38 of that Act (waste policies) shall have effect as if, after paragraph (b), there were added the following—
+
+  > or
+  >
+  > - (c) include their waste policies in their local plan.
+
+  .
+
+### 6. Constitution of new county of The Wrekin
+
+(1) The Wrekin shall cease to form part of Shropshire.
+
+(2) A new county shall be constituted comprising the area of The Wrekin and shall be named the county of The Wrekin.
+
+(3) Section 2(1) of the 1972 Act (which provides that every county shall have a council) shall not apply to the county of The Wrekin.
+
+## PART III — TRANSITIONAL PROVISION
+
+### 7. Election of councillors in The Wrekin in 1997 and subsequent years
+
+(1) The District of The Wrekin (Electoral Arrangements) Order 1978[^f00007] shall have effect subject to the provisions of this article.
+
+(2) Elections of all councillors of The Wrekin Council shall be held simultaneously on the ordinary day of election of councillors in 1997, 2000, 2003 and every fourth year after 2003[^f00008].
+
+(3) The term of office of any councillor so elected shall be, in the case of the councillors elected in 1997 and 2000, three years and, in any other case, four years.
+
+(4) On the fourth day after any such elections—
+
+- (a) the persons who were councillors immediately before those elections shall retire; and
+- (b) the newly elected councillors shall come into office.
+
+### 8. Suspension of elections and retirement of councillors
+
+(1) The ordinary election of councillors in 1997 for the electoral divisions of Shropshire comprised in The Wrekin[^f00009] shall not take place; and any councillor for such a division holding office immediately before the relevant date who would, but for this paragraph, have retired on that date shall, unless he resigns his office or it otherwise becomes vacant, continue to hold office until the reorganisation date.
+
+(2) Section 89 of the 1972 Act (filling of casual vacancies in case of councillors) shall have effect—
+
+- (a) in the case of a casual vacancy occurring in the office of councillor of The Wrekin Council before the relevant date, as if the reference in subsection (3) of that section to the day on which the councillor whose office is vacant would regularly have retired were a reference to the relevant date; and
+- (b) in the case of a casual vacancy occurring in the office of councillor for any electoral division referred to in paragraph (1) above, as if that reference in that subsection were a reference to the reorganisation date.
+
+(3) The electoral divisions of Shropshire comprised in The Wrekin shall cease to be electoral divisions on the reorganisation date.
+
+Signed by authority of the Secretary of State
+
+David Curry
+
+Minister of State,
+
+Department of the Environment
+
+18th July 1996
+
+(This note is not part of the Order)
+
+This Order gives effect to recommendations by the Local Government Commission for England in respect of the structure of local government in the district of The Wrekin (“The Wrekin”).
+
+Article 3 effects the structural change by providing for the transfer, on 1st April 1998, of the functions of Shropshire County Council in relation to The Wrekin to the council of that district.
+
+Article 4 makes provision for the purposes of subordinate legislation which may be made under the Fire Services Act 1947 in respect of fire services.
+
+Article 5 makes provision in relation to the Shropshire structure plan and to enable the local plan prepared by the council of The Wrekin under the Town and Country Planning Act 1990 to contain minerals and waste policies.
+
+Article 6 provides for The Wrekin to cease to form part of Shropshire on 1st April 1998 and for a new county of The Wrekin to be constituted on that date (but without a county council).
+
+Article 7 makes provision for a whole council election in The Wrekin in 1997, 2000 and 2003 and every fourth year after 2003.
+
+Article 8 provides for the suspension of county council elections in 1997 in electoral divisions in The Wrekin and extends the term of office of councillors for such divisions until 1st April 1998. It also makes provision in respect of casual vacancies in the office of councillor of the local authorities affected by this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 19](https://www.legislation.gov.uk/ukpga/1992/19).
+
+[^f00002]: Footnote: Amended by section 39(4) and (5) of the Police and Magistrates’ Courts Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29).
+
+[^f00003]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00004]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^f00005]: Footnote: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41); section 10 of this Act is amended by paragraph 2 of Schedule 3 to the Local Government Act 1992.
+
+[^f00006]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). In this Act, sections 36 to 38 were substituted by paragraph 17 of Schedule 4 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and section 50 was amended by paragraph 24 of that Schedule.
+
+[^f00007]: Footnote: S.I. [1978/1591](https://www.legislation.gov.uk/uksi/1978/1591).
+
+[^f00008]: Footnote: For the ordinary day of election of councillors of local government areas, *see* section 37 of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), amended by section 18 of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50).
+
+[^f00009]: Footnote: The electoral divisions of the county of Shropshire are constituted by the County of Shropshire (Electoral Arrangements) Order 1980 (S.I. [1980/1297](https://www.legislation.gov.uk/uksi/1980/1297)).

@@ -1,0 +1,614 @@
+---
+title: Office of Communications Act 2002
+id: ukpga/2002/11
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2002-03-19'
+text_date: '2022-11-03'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2002/11
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2002/11/pdfs/ukpga_20020011_en.pdf
+- http://www.legislation.gov.uk/ukpga/2002/11/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Office of Communications Act 2002
+
+> Text as at 2022-11-03.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Office of Communications Act 2002
+
+2002 c. 11
+
+An Act to establish a body corporate to be known as the Office of Communications; and to confer functions in relation to proposals about the regulation of communications on that body, on certain existing regulators and on the Secretary of State.
+
+\[19th March 2002\]
+
+[^c55247]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. The Office of Communications[^c55248][^key-1f669f846b0aae44cca6fcf90e15d72d][^key-78f07995c6ff267ea4394b63be1929c4][^key-51566e6b08a8ce7ddc0fee12dc70b75b]
+
+(1) There shall be a body corporate to be known as the Office of Communications (in this Act referred to as “**OFCOM**”).
+
+(2) OFCOM shall consist of such number of members as the Secretary of State may determine; but he shall not determine a membership for OFCOM of less than three or more than thirteen[^key-30f0818e8343dafad13cd07c096791f7].
+
+(3) The membership of OFCOM shall comprise—
+
+- (a) a chairman appointed by the Secretary of State;
+- (aa)[^key-55362f33394478fbbdd0f65dfe404211] a member appointed by the Scottish Ministers;
+- (ab)[^key-ce4612842e783d4cfaf1d70dcf427a97] a member appointed by the Welsh Ministers;
+- (ac)[^key-4531ad5728b9f7c296567b51b929f628] a member appointed by the Minister for the Economy in Northern Ireland;
+- (b) such number of other members appointed by the Secretary of State as he may determine; and
+- (c) the executive members.
+
+(3A)[^key-334c43f46bafa14969dc68e3e35dcfca] Before appointing a member under subsection (3)(aa) the Scottish Ministers must consult the Secretary of State.
+
+(3B)[^key-08da3d84918483c4a82ddb5d66bda2d1] Before appointing a member under subsection (3)(ab) the Welsh Ministers must consult the Secretary of State.
+
+(3C)[^key-5f0cb91104f3c4b8874b5bd881419b8b] Before appointing a member under subsection (3)(ac) the Minister for the Economy must consult the Secretary of State.
+
+(4) The executive members of OFCOM shall comprise—
+
+- (a) the chief executive of OFCOM; and
+- (b) such other persons (if any) as may be appointed to membership of OFCOM from amongst their employees.
+
+(5) It shall be for the members of OFCOM mentioned in subsection (3)(a) , (aa)[^key-0bd942fbdafb7f3fb5e31edbf37dff89] , (ab)[^key-4ac1a4a0ea2b833da7d87e4880343ecc] , (ac)[^key-532d8b778a6fc9107675c40a0b51cf37] and (b), after consulting the chief executive of OFCOM—
+
+- (a) to determine whether there should be any executive members falling within subsection (4)(b) and (subject to subsections (2) and (6)(a)) how many; and
+- (b) to make any appointments of executive members required for the purposes of any such determination.
+
+(6) The Secretary of State—
+
+- (a) may, by a direction to OFCOM, set a maximum and a minimum number for the executive members of OFCOM; and
+- (b) shall exercise his powers under this section to secure that the number of executive members of OFCOM is, so far as practicable, at all times less than the number of other members.
+
+(7) The Secretary of State may by order made by statutory instrument modify the numbers for the time being specified in subsection (2) as the maximum and minimum membership for OFCOM.
+
+(8) A statutory instrument containing an order under subsection (7) shall be subject to annulment in pursuance of a resolution of either House of Parliament; and the power to make such an order shall include power to make such incidental, supplemental, consequential and transitional provision as the Secretary of State thinks fit.
+
+(9) OFCOM shall not be treated for any purposes as a body exercising functions on behalf of the Crown; and, accordingly, no person shall be treated as a servant of the Crown by reason only of his membership of, or employment by, OFCOM.
+
+(10) The Schedule (which makes provision in relation to OFCOM) shall have effect.
+
+(11)[^key-6aa9123d0275d234c14a08a000ac2891] Paragraphs 1 and 2 of the Schedule apply in relation to the appointment made under subsection (3)(aa) as if—
+
+- (a) any reference to the Secretary of State was to the Scottish Ministers, and
+- (b) after paragraph 2(6) there were inserted—
+
+  > (7) Before the Scottish Ministers remove a person from office they must consult the Secretary of State.
+
+(12)[^key-804d0550a762cfbabab2e6e9a1b80472] Paragraphs 1 and 2 of the Schedule apply in relation to the appointment made under subsection (3)(ab) as if—
+
+- (a) any reference to the Secretary of State were to the Welsh Ministers, and
+- (b) after the paragraph 2(7) treated as inserted by subsection (11) there were inserted—
+
+  > (8) Before the Welsh Ministers remove a person from office they must consult the Secretary of State.
+
+(13)[^key-d20fa019c127f6281f1c07a33034dd8d] Paragraphs 1 and 2 of the Schedule apply in relation to the appointment made under subsection (3)(ac) as if—
+
+- (a) any reference to the Secretary of State were to the Minister for the Economy, and
+- (b) at the end of paragraph 2 there were inserted—
+
+  > (9) Before the Minister for the Economy removes a person from office the Minister must consult the Secretary of State.”
+
+## 2. Initial function of OFCOM[^key-ad18e1be7d1131262de95c0eed75bdca]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Management of OFCOM
+
+OFCOM shall, in managing their affairs, have regard—
+
+- (a) to such general guidance concerning the management of the affairs of public bodies as OFCOM consider appropriate; and
+- (b) subject to any such guidance and only to the extent that they may reasonably be regarded as applicable in relation to a statutory corporation, to generally accepted principles of good corporate governance.
+
+## 4. Functions of existing regulators[^key-f6f4267d2e9e40c53b0ff29e69a5bce7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Winding up of OFCOM on abandonment etc. of proposals[^key-a8836b076bfc87b5a946611e469ddd2c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Interpretation[^key-8da9325870a6337d2e72ade830292da8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Short title, commencement and extent[^key-b4fe7eb1e6e6daae1e7027796ff43c38][^key-0692319998463c67b8b0f1c1251e0260][^key-1e6eeb7887c8d73271ff2dc615929d82]
+
+(1) This Act may be cited as the Office of Communications Act 2002.
+
+(2)[^c55249][^c1991833] Sections 1, 2 and 3 and the Schedule shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be appointed under this subsection for different purposes.
+
+(3) This Act extends to Northern Ireland.
+
+(4) Her Majesty may by Order in Council extend the provisions of this Act, with such modifications as appear to Her Majesty in Council to be appropriate, to any of the Channel Islands or to the Isle of Man.
+
+[^c55250]
+
+## SCHEDULE — Further provision about OFCOM[^key-35b5f78b276c3aba28b6d8103cfec480][^key-5f507ba597cf1417a5c9ab98ae388885][^key-93bd4fa911f5d1b3457392306894a5a1]
+
+Section 1
+
+### 1. Qualification for membership of non-executive members
+
+(1) Before appointing a person to be the chairman or another non-executive member of OFCOM, the Secretary of State shall satisfy himself that that person will have no such financial or other interest as is likely to affect prejudicially the carrying out by him of his functions as a member of OFCOM.
+
+(2) The Secretary of State shall also satisfy himself from time to time with respect to the chairman and every other non-executive member of OFCOM that that member has no such interest.
+
+(3) Every person who—
+
+- (a) is a person whom the Secretary of State proposes to appoint to be the chairman or another non-executive member of OFCOM, or
+- (b) is the chairman or another non-executive member of OFCOM,
+
+shall, whenever requested by the Secretary of State to do so, furnish him with such information as the Secretary of State considers necessary for the performance by him of his duties under sub-paragraphs (1) and (2).
+
+(4)[^key-f559da215008d6707ca20b57169ef4e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Tenure of office
+
+(1) Subject to the following provisions of this paragraph, the chairman and every other non-executive member of OFCOM shall each hold and vacate office in accordance with the terms of his appointment.
+
+(2) A person’s appointment to be the chairman or another non-executive member of OFCOM must state the period for which the appointment is made; but a person shall be eligible for re-appointment at the end of any such period.
+
+(3) The chairman and every other non-executive member of OFCOM may at any time resign his office by notice in writing to the Secretary of State.
+
+(4) If the Secretary of State is satisfied that the chairman or another non-executive member of OFCOM—
+
+- (a) is an undischarged bankrupt or a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986),[^key-65c10d07f7739d2420018b2f9f2da2d1] or has had his estate sequestrated without being discharged,
+- (b) has made an arrangement with his creditors, or has entered into a trust deed for creditors, or has made a composition contract with his creditors,
+- (c) has such a financial or other interest as is likely to affect prejudicially the carrying out by him of his functions as a member of OFCOM,
+- (d) has been guilty of misbehaviour, or
+- (e) is otherwise incapable of carrying out, or unfit to carry out, the functions of his office,
+
+the Secretary of State may by notice in writing remove him from office.
+
+(5)[^key-e2234ff640e2af4c45d06d03e47c4b6e] At the time of removing a person from office under sub-paragraph (4) the Secretary of State must make public the decision to remove the person.
+
+(6) The Secretary of State must—
+
+- (a) give the person a statement of reasons for the removal, and
+- (b) if so requested by the person, publish the statement.
+
+### 3. Remuneration and pensions of non-executive members
+
+(1) OFCOM may pay to the chairman and other non-executive members of OFCOM such remuneration and allowances as the Secretary of State may determine.
+
+(2) OFCOM may pay, or make provision for paying, to or in respect of the chairman and other non-executive members of OFCOM, such sums by way of pensions, allowances or gratuities as the Secretary of State may determine.
+
+(3) Where—
+
+- (a) a person ceases, otherwise than on the expiry of his term of office, to be the chairman or to be a non-executive member other than the chairman, and
+- (b) it appears to the Secretary of State that there are special circumstances which make it right for him to receive compensation,
+
+OFCOM may make a payment to him of such amount as the Secretary of State may determine.
+
+(4) If any non-executive member of OFCOM—
+
+- (a) is a participant in any pension scheme applicable to his membership of OFCOM, and
+- (b) on ceasing to be a non-executive member of OFCOM, becomes an employee of OFCOM or both such an employee and an executive member,
+
+he may, if the Secretary of State so determines, be treated for the purposes of the pension scheme as if his service (after ceasing to be a non-executive member of OFCOM) as an employee or executive member of OFCOM were service as a non-executive member of OFCOM.
+
+### 4. Deputy chairman
+
+(1) The Secretary of State may appoint any member of OFCOM who is a non-executive member to be the deputy chairman of OFCOM.
+
+(2) A person appointed to be the deputy chairman—
+
+- (a) shall cease to be the deputy chairman if he ceases to be a member of OFCOM; but
+- (b) shall otherwise hold and vacate that office in accordance with the terms of his appointment.
+
+(3) The deputy chairman of OFCOM shall be entitled to carry out the functions of the chairman, in such cases and in such manner as may be determined by or in accordance with any directions given by the chairman or the Secretary of State.
+
+### 5. Chief executive and other employees of OFCOM
+
+(1) There shall be a chief executive of OFCOM.
+
+(2) The chief executive shall be appointed by the chairman and other non-executive members of OFCOM with the approval of the Secretary of State.
+
+(3) OFCOM may appoint such other employees as they may determine and make such other arrangements for the staffing of OFCOM as they think fit.
+
+(4) Sub-paragraph (1) shall not apply in relation to any time before such date as the Secretary of State may notify to OFCOM as the date from which they are required to have a chief executive; and the membership of OFCOM shall not be required at any time before that date to include any executive member.
+
+### 6. Terms and conditions of executive members of OFCOM
+
+(1) The chief executive shall be appointed to hold his office, and the other executive members of OFCOM shall be appointed as executive members and employed by OFCOM, on such terms and conditions, including terms and conditions as to remuneration, as the chairman and other non-executive members may determine.
+
+(2) If the chairman and other non-executive members of OFCOM so determine in the case of any of the employees of OFCOM who are executive members, OFCOM shall—
+
+- (a) pay, to or in respect of those employees, such pensions, allowances or gratuities, or
+- (b) provide and maintain for them such pension schemes (whether contributory or not),
+
+as the chairman and the other non-executive members may determine.
+
+(3) If any employee of OFCOM who is an executive member—
+
+- (a) is a participant in any pension scheme applicable to his employment, and
+- (b) becomes a non-executive member of OFCOM,
+
+he may, if the Secretary of State so determines, be treated for the purposes of the pension scheme as if his service as a non-executive member were service as an employee of OFCOM.
+
+(4) If any employee of OFCOM who is an executive member—
+
+- (a) is a participant in any pension scheme applicable to his membership of OFCOM, and
+- (b) ceases to be an executive member without ceasing to be an employee of OFCOM,
+
+he may, if the Secretary of State so determines, be treated for the purposes of the pension scheme as if his service (after ceasing to be an executive member) as an employee of OFCOM were service as an executive member of OFCOM.
+
+### 7. Other employees of OFCOM
+
+(1) The employees of OFCOM who are not executive members shall be appointed to and hold their employments on such terms and conditions, including terms and conditions as to remuneration, as OFCOM may determine.
+
+(2) If OFCOM so determine in the case of any of the employees of OFCOM who are not executive members, OFCOM shall—
+
+- (a) pay to or in respect of those employees such pensions, allowances or gratuities, or
+- (b) provide and maintain for them such pension schemes (whether contributory or not),
+
+as OFCOM may determine.
+
+(3) If any employee of OFCOM—
+
+- (a) is a participant in any pension scheme applicable to his employment, and
+- (b) becomes an executive member or a non-executive member of OFCOM,
+
+he may, if the Secretary of State so determines, be treated for the purposes of the pension scheme as if his service as a member of OFCOM were service as an employee of OFCOM.
+
+### 8. Finances of OFCOM
+
+(1)[^key-03cc94e76a0909b9ac7efdd01df80641] It shall be the duty of OFCOM so to conduct their affairs as to secure that their revenues so far as they —
+
+- (a) derive from the exercise of powers to impose charges or fees in respect of the carrying out of particular functions, and
+- (b) do not fall to be paid into the Consolidated Fund of the United Kingdom or of Northern Ireland,
+
+are at least sufficient to enable OFCOM to meet the costs of carrying out the functions to which the revenues relate.
+
+(2) Any excess of OFCOM’s revenues for any financial year over the sums required by them for that year for meeting their obligations and carrying out their functions shall be applied by OFCOM in such manner as the Secretary of State, after consultation with OFCOM, may direct.
+
+(3) A direction under sub-paragraph (2) may require the whole or any part of any such excess to be paid to the Secretary of State.
+
+(4) The Secretary of State shall pay any sums received by him under sub-paragraph (3) into the Consolidated Fund.
+
+(5)[^key-d023785e1d65a169426cb60a00a49548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Grants to OFCOM
+
+(1) The Secretary of State may, with the consent of the Treasury, make grants to OFCOM of such sums as he may think fit for the purpose of enabling OFCOM to incur or meet liabilities in respect of capital and revenue expenditure.
+
+(2) Grants under this paragraph shall be paid out of money provided by Parliament.
+
+### 10. Advances to OFCOM
+
+(1) The Secretary of State may make advances to OFCOM out of money provided by Parliament.
+
+(2) Any sums advanced under this paragraph shall be repaid to the Secretary of State at such times and by such methods, and interest on those sums shall be paid to him at such times and at such rates, as he may from time to time direct.
+
+### 11. Accounts and audit
+
+(1) OFCOM shall—
+
+- (a) keep proper accounts and proper records in relation to the accounts, and
+- (b) prepare in respect of each financial year a statement of accounts in such form as the Secretary of State may direct.
+
+(2) OFCOM shall, within such period after the end of the financial year to which it relates as the Secretary of State may direct, send copies of every statement prepared under sub-paragraph (1)(b) to—
+
+- (a) the Secretary of State; and
+- (b) the Comptroller and Auditor General.
+
+(3) The Comptroller and Auditor General shall—
+
+- (a) examine, certify and report on every statement sent to him under sub-paragraph (2); [^key-ef578527ef9cdae27954bcde93ac0059]...
+- (b) lay a copy of the statement and of his report before each House of Parliament , and[^key-b433d1cb2f871a53a9ffde4a46b22d00]
+- (c) send a copy of the statement and of his report to the Scottish Ministers and the Welsh Ministers[^key-2f8b362f3f0cc579b9f41de4936ca8f1] and the Minister for the Economy in Northern Ireland[^key-7b99fee44b61c522773abd6355633aef].
+
+(4)[^key-43b2edab6e26f392632a2978f17fa3cb] The Scottish Ministers shall lay a copy of the statement and report sent to them under sub-paragraph (3) before the Scottish Parliament.
+
+(5)[^key-3feb76f690f6bae797f5e60ece6e40ad] The Welsh Ministers shall lay a copy of the statement and report sent to them under sub-paragraph (3) before the National Assembly for Wales.
+
+(6)[^key-3d5dfcfbfa931bfab2250bc217c809d1] The Minister for the Economy in Northern Ireland shall lay a copy of the statement and report sent to the Minister under sub-paragraph (3) before the Northern Ireland Assembly.
+
+### 12. Annual report[^key-f2ec27cb02c8d4383f1d5b38c636e0d7][^key-35b5f78b276c3aba28b6d8103cfec480][^key-5f507ba597cf1417a5c9ab98ae388885][^key-93bd4fa911f5d1b3457392306894a5a1][^key-35b5f78b276c3aba28b6d8103cfec480][^key-5f507ba597cf1417a5c9ab98ae388885][^key-93bd4fa911f5d1b3457392306894a5a1]
+
+(1) As soon as possible after the end of each financial year, OFCOM shall prepare and send to the Secretary of State , the Scottish Ministers and the Welsh Ministers[^key-cbdece664e789e570e75c10ea4058a5c] and the Minister for the Economy in Northern Ireland[^key-fbc5b183c0474043b9638dda8a01ab1f] a report of the carrying out of their functions during that financial year.
+
+(2) Every report under this paragraph shall incorporate—
+
+- (a) a report of OFCOM’s proceedings during that year; [^key-068c5703b69285210c20c06cec8ba8a1]...
+- (aa)[^key-671771db12174805baf0296f16782e39] a report about OFCOM 's performance, during that year, of their duty under section 29 of the Postal Services Act 2011 (duty to secure provision of universal postal service); and
+- (b) such information relating to the financial position of OFCOM, and to any other matters that he considers appropriate, as the Secretary of State may direct.
+
+(3) The Secretary of State shall lay a copy of every report sent to him under this paragraph before each House of Parliament.
+
+(4)[^key-1a79b2feb1e07465191b5fb1bdf991e9] The Scottish Ministers shall lay a copy of every report sent to them under this paragraph before the Scottish Parliament.
+
+(5)[^key-3f80278ffbcbe3ea2c5ea1919c0a9287] The Welsh Ministers shall lay a copy of every report sent to them under this paragraph before the National Assembly for Wales.
+
+(6)[^key-2b88edadee47968565ea23918e947dde] The Minister for the Economy in Northern Ireland shall lay a copy of every report sent to the Minister under this paragraph before the Northern Ireland Assembly.
+
+### 13. Authentication of OFCOM’s seal
+
+*Extent: E+W+N.I.*
+
+(1) The application of OFCOM’s seal shall be authenticated by the signature of—
+
+- (a) the chairman or another member of OFCOM; or
+- (b) any other person authorised by OFCOM (whether generally or specially) for the purpose.
+
+(2) Subject to sub-paragraph (3), a document purporting to be duly executed under the seal of OFCOM or to be signed on behalf of OFCOM, shall be received in evidence and, except to the extent that the contrary is shown, taken to be duly so executed or signed.
+
+(3) This paragraph shall not extend to Scotland.
+
+### 14. Committees of OFCOM and advisory committees
+
+(1) OFCOM may make such arrangements as they think fit—
+
+- (a) for the carrying out of any of their functions by committees established by them; and
+- (b) for committees established by OFCOM to give advice to them about matters relating to the carrying out of OFCOM’s functions.
+
+(2) Subject to sub-paragraph (3), the committees established by OFCOM may include committees the membership of which comprises or includes persons (including persons constituting a majority of the committee) who are neither members nor employees of OFCOM.
+
+(3) Except where—
+
+- (a) the committee is established for the sole purpose of advising OFCOM on matters relating to the carrying out of their functions, and
+- (b) is not authorised under paragraph 18 to carry out functions on behalf of OFCOM,
+
+the membership of every committee established by OFCOM must contain at least one person who is either a member or an employee of OFCOM, or who is both.
+
+(3A)[^M_F_43ec99c9-25ae-4ff0-9e5f-a6c79e4461a7] Sub-paragraph (3) has effect in the case of a committee of OFCOM which—
+
+- (a) is not the Content Board, but
+- (b) has functions that are confined to functions falling within section 13(2) of the Communications Act 2003 (functions within the Content Board’s remit),
+
+as if the reference in that sub-paragraph to a member of OFCOM included a reference to a member of the Content Board who is not a member of OFCOM.
+
+(4) Where a person who is neither a member nor an employee of OFCOM is a member of any committee established by OFCOM, OFCOM may pay to that person such remuneration and expenses as they may determine.
+
+### 15. Proceedings of OFCOM and their committees etc.
+
+(1) OFCOM may make such other arrangements for regulating their own procedure, and such arrangements for regulating the procedure of the committees established by them, as they think fit.
+
+(2) The procedure for the carrying out of the separate functions which under this Schedule are conferred on the chairman and non-executive members of OFCOM shall be in accordance with such arrangements as may be determined by a majority of the non-executive members.
+
+(3) Arrangements under this paragraph may include arrangements as to quorums and as to the making of decisions by a majority.
+
+(4) OFCOM shall publish, in such manner as they consider appropriate, any arrangements which they make under this paragraph.
+
+(5) This paragraph has effect subject to paragraph 17.
+
+**16.** OFCOM shall make arrangements for the keeping of proper records—
+
+- (a) of their proceedings;
+- (b) of the proceedings of any committee established by them;
+- (c) of the proceedings at any meeting of the chairman and other non-executive members of OFCOM; and
+- (d) of anything done by an employee or member of OFCOM under paragraph 18(a).
+
+### 17. Disqualification for acting in relation to certain matters
+
+(1) This paragraph applies if at any meeting of—
+
+- (a) OFCOM,
+- (b) the chairman and other non-executive members of OFCOM, or
+- (c) any committee established by OFCOM,
+
+any member of OFCOM or, as the case may be, of the committee has any form of direct or indirect interest in any matter falling to be considered at that meeting.
+
+(2) The person with the interest shall declare it and the declaration shall be recorded in the minutes of the meeting.
+
+(3) The person with the interest shall not take part in any discussion or decision relating to the matter in which he has an interest, unless—
+
+- (a) in the case of a meeting of OFCOM or of the chairman and other non-executive members of OFCOM, the other members of OFCOM who are present when the discussion or decision falls to take place or is made have resolved unanimously that the interest is to be disregarded; or
+- (b) in any other case, the other members of the committee who are present when the discussion or decision falls to take place or is made have so resolved in the manner authorised by OFCOM.
+
+(4) It shall be the duty of OFCOM, in granting authorisations for the purposes of sub-paragraph (3)(b), to secure that a resolution for those purposes does not allow a person to take part in a discussion or decision at a meeting of a committee established by virtue of paragraph 14(1)(a) unless at least the following requirements are met—
+
+- (a) the number of other members of the committee in favour of the resolution is not less than two thirds of those who are both present and entitled to vote on the resolution; and
+- (b) the number of other members of the committee in favour of the resolution is not less than its quorum.
+
+(5) For the purposes of this paragraph a general notification given at or sent to a meeting of OFCOM, of the chairman and other non-executive members of OFCOM or of a committee established by OFCOM that—
+
+- (a) a person is a member of a company or firm, and
+- (b) is to be regarded as interested in any matter involving that company or firm,
+
+shall be regarded (subject to sub-paragraph (6)(b)), as compliance in relation to any such matter with sub-paragraph (2) for the purposes of that meeting and any subsequent meeting of OFCOM, of the chairman and other non-executive members of OFCOM or of the committee established by OFCOM which is held while the notification is in force.
+
+(6) A notification for the purposes of sub-paragraph (5)—
+
+- (a) shall remain in force until it is withdrawn, and
+- (b) if given at or sent to a meeting of the chairman and other non-executive members of OFCOM or to a committee shall have effect in relation only to meetings of the chairman and other non-executive members or, as the case may be, to meetings of that committee.
+
+(7) A person required to make a declaration for the purposes of this paragraph in relation to any meeting—
+
+- (a) shall not be required to attend the meeting; but
+- (b) shall be taken to have complied with the requirements of this paragraph if he takes reasonable steps to secure that notice of his interest is read out at, and taken into consideration at, the meeting in question.
+
+(8)[^key-8aa16044be68681478883571813057c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-8aa16044be68681478883571813057c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Delegation of functions
+
+(1)[^M_F_f478e22c-89ab-4a46-8b73-b2564c178cc5] Anything that is authorised or required by or under any enactment to be done by OFCOM may be done on their behalf by—
+
+- (a) any employee or member of OFCOM who has been authorised by OFCOM (whether generally or specially) for the purpose;
+- (b) any committee established by OFCOM which has been so authorised.
+
+(2)[^M_F_350bfb18-9c34-48a8-8d6f-320bae310f7d] Sub-paragraph (1) is subject to provision in rules made under section 51 of the Competition Act 1998 by virtue of paragraph 1A of Schedule 9 to that Act in respect of the exercise of a function under Part 1 of that Act.
+
+### 19. Validity of proceedings
+
+(1) The validity of any proceedings of OFCOM, of the chairman and other non-executive members of OFCOM or of any committee established by OFCOM shall not be affected by—
+
+- (a) any vacancy in the membership of OFCOM or of such a committee;
+- (b) any defect in the appointment of the chairman, deputy chairman or any other member of OFCOM;
+- (c) any failure of the Secretary of State to comply with the requirements of section 1(6)(b); or
+- (d) any failure to comply with any arrangements under paragraph 15 or with any of the requirements of paragraph 17.
+
+(2) Nothing in sub-paragraph (1)(d) shall validate any proceedings of a meeting which (apart from any matter falling within sub-paragraph (1)(b) or (c)) is inquorate.
+
+### 20. Membership of OFCOM not a disqualification for membership of an existing regulator etc.[^key-d5290c6e9a330c6f01fa086c6f8210c2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Disqualification for House of Commons and Northern Ireland Assembly
+
+In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (bodies of which all members are disqualified), there shall be inserted, at the appropriate place—
+
+> The Office of Communications.
+>
+> ;
+
+and a corresponding amendment shall be made in Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (c. 25).
+
+### 22. Freedom of information
+
+In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (c. 36) (public authorities for the purposes of that Act), there shall be inserted, at the appropriate place—
+
+> The Office of Communications.
+
+### 23. Public records
+
+In paragraph 3 of Schedule 1 to the Public Records Act 1958 (c. 51) (administrative and departmental records of certain bodies to be public records), in the Table, in Part 2, at the appropriate place there shall be inserted—
+
+> Office of Communications.
+
+### 24. Interpretation
+
+(1) In this Schedule—
+
+- “**employee**”, in relation to OFCOM, includes the chief executive;
+- “**financial year**” means—
+  - (a) the period of not more than twelve months beginning with the date on which OFCOM are established under this Act and ending with 31st March; and
+  - (b) every subsequent period of twelve months ending with 31st March;
+
+  and
+- “**non-executive member**”, in relation to OFCOM, means a member of OFCOM who is not an executive member.
+
+(2) In this Schedule—
+
+- (a) references to pensions, allowances or gratuities include references to any similar benefits provided on death or retirement; and
+- (b) references to the payment of pensions, allowances or gratuities to or in respect of any persons includes a reference to the making of payments towards the provision of the payment of pensions, allowances or gratuities to or in respect of those persons.
+
+(3) In this Schedule references to functions of OFCOM include references to functions conferred by any enactment or subordinate legislation at any time after the passing of this Act.
+
+## Annotations
+
+[^c55247]: Commencement: Act partly in force; Act partly in force at Royal Assent
+
+[^c55248]: Commencement: S. 1 wholly in force at 29.11.2002; s. 1 not in force at Royal Assent see s. 7(2); s. 1(1)-(6)(9)(10) in force at 1.7.2002 by [S.I. 2002/1483](https://www.legislation.gov.uk/uksi/2002/1483), [art. 2](https://www.legislation.gov.uk/uksi/2002/1483/article/2); s. 1(7)(8) in force at 29.11.2002 by [S.I. 2002/2955](https://www.legislation.gov.uk/uksi/2002/2955), [art. 2](https://www.legislation.gov.uk/uksi/2002/2955/article/2)
+
+[^key-1f669f846b0aae44cca6fcf90e15d72d]: Modification: S. 1 extended (Guernsey) (with modifications) (29.12.2003) by [Communications (Bailiwick of Guernsey) Order 2003 (S.I. 2003/3195)](https://www.legislation.gov.uk/uksi/2003/3195), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3195/article/1/2)[(2)](https://www.legislation.gov.uk/uksi/2003/3195/article/1/2)[5](https://www.legislation.gov.uk/uksi/2003/3195/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3195/schedule/1)
+
+[^key-78f07995c6ff267ea4394b63be1929c4]: Modification: S. 1 extended (Jersey) (with modifications) (29.12.2003) by [Communications (Jersey) Order 2003 (S.I. 2003/3197)](https://www.legislation.gov.uk/uksi/2003/3197), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2), [5](https://www.legislation.gov.uk/uksi/2003/3197/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3197/schedule/1)
+
+[^key-51566e6b08a8ce7ddc0fee12dc70b75b]: Modification: S. 1 extended (Isle of Man) (with modifications) (29.12.2003) by [Communications (Isle of Man) Order 2003 (S.I. 2003/3198)](https://www.legislation.gov.uk/uksi/2003/3198), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3198/article/1/2), [5](https://www.legislation.gov.uk/uksi/2003/3198/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3198/schedule/1)
+
+[^key-30f0818e8343dafad13cd07c096791f7]: Textual amendment: Word in [s. 1(2)](https://www.legislation.gov.uk/ukpga/2002/11/section/1/2) substituted (3.11.2022) by [The Office of Communications (Membership) (Modification) Order 2022 (S.I. 2022/1033)](https://www.legislation.gov.uk/uksi/2022/1033), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1033/article/1), [2](https://www.legislation.gov.uk/uksi/2022/1033/article/2)
+
+[^key-55362f33394478fbbdd0f65dfe404211]: Textual amendment: S. 1(3)(aa) inserted (18.8.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/65/2), [72(4)(f)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/f); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)
+
+[^key-ce4612842e783d4cfaf1d70dcf427a97]: Textual amendment: [S. 1(3)(ab)](https://www.legislation.gov.uk/ukpga/2002/11/section/1/3/ab) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/2017/4/section/68/2), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+
+[^key-4531ad5728b9f7c296567b51b929f628]: Textual amendment: [S. 1(3)(ac)](https://www.legislation.gov.uk/ukpga/2002/11/section/1/3/ac) inserted (29.10.2021) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 99(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/99/2), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)
+
+[^key-334c43f46bafa14969dc68e3e35dcfca]: Textual amendment: S. 1(3A) inserted (18.8.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 65(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/65/3), [72(4)(f)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/f); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)
+
+[^key-08da3d84918483c4a82ddb5d66bda2d1]: Textual amendment: [S. 1(3B)](https://www.legislation.gov.uk/ukpga/2002/11/section/1/3B) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 68(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/68/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+
+[^key-5f0cb91104f3c4b8874b5bd881419b8b]: Textual amendment: [S. 1(3C)](https://www.legislation.gov.uk/ukpga/2002/11/section/1/3C) inserted (29.10.2021) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 99(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/99/3), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)
+
+[^key-0bd942fbdafb7f3fb5e31edbf37dff89]: Textual amendment: Words in s. 1(5) inserted (18.8.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 65(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/65/4), [72(4)(f)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/f); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)
+
+[^key-4ac1a4a0ea2b833da7d87e4880343ecc]: Textual amendment: Word in [s. 1(5)](https://www.legislation.gov.uk/ukpga/2002/11/section/1/5) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 68(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/68/4), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+
+[^key-532d8b778a6fc9107675c40a0b51cf37]: Textual amendment: Word in [s. 1(5)](https://www.legislation.gov.uk/ukpga/2002/11/section/1/5) inserted (29.10.2021) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 99(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/99/4), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)
+
+[^key-6aa9123d0275d234c14a08a000ac2891]: Textual amendment: S. 1(11) inserted (18.8.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 65(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/65/5), [72(4)(f)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/f); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)
+
+[^key-804d0550a762cfbabab2e6e9a1b80472]: Textual amendment: [S. 1(12)](https://www.legislation.gov.uk/ukpga/2002/11/section/1/12) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 68(5)](https://www.legislation.gov.uk/ukpga/2017/4/section/68/5), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+
+[^key-d20fa019c127f6281f1c07a33034dd8d]: Textual amendment: [S. 1(13)](https://www.legislation.gov.uk/ukpga/2002/11/section/1/13) inserted (29.10.2021) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 99(5)](https://www.legislation.gov.uk/ukpga/2017/30/section/99/5), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)
+
+[^key-ad18e1be7d1131262de95c0eed75bdca]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2002/11/section/2) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 171](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/171), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-f6f4267d2e9e40c53b0ff29e69a5bce7]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2002/11/section/4) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 171](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/171), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-a8836b076bfc87b5a946611e469ddd2c]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2002/11/section/5) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 171](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/171), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-8da9325870a6337d2e72ade830292da8]: Textual amendment: S. 6 repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 171](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/171), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-b4fe7eb1e6e6daae1e7027796ff43c38]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2002/11/section/7) extended (Jersey) (with modifications) (29.12.2003) by [Communications (Jersey) Order 2003 (S.I. 2003/3197)](https://www.legislation.gov.uk/uksi/2003/3197), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2), [5](https://www.legislation.gov.uk/uksi/2003/3197/article/5), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/3197/schedule/1)
+
+[^key-0692319998463c67b8b0f1c1251e0260]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2002/11/section/7) extended (Isle of Man) (with modifications) (29.12.2003) by [Communications (Isle of Man) Order 2003 (S.I. 2003/3198)](https://www.legislation.gov.uk/uksi/2003/3198), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3198/article/1/2), [5](https://www.legislation.gov.uk/uksi/2003/3198/article/5), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/3198/schedule/1)
+
+[^key-1e6eeb7887c8d73271ff2dc615929d82]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2002/11/section/7) extended (Guernsey) (with modifications) (29.12.2003) by [Communications (Bailiwick of Guernsey) Order 2003 (S.I. 2003/3195)](https://www.legislation.gov.uk/uksi/2003/3195), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3195/article/1/2)[(2)](https://www.legislation.gov.uk/uksi/2003/3195/article/1/2)[5](https://www.legislation.gov.uk/uksi/2003/3195/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3195/schedule/1)
+
+[^c55249]: Subordinate legislation: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2002/11/section/7/2) Power partly exercised: 1.7.2002 appointed for specified provisions by [S.I.2002/1483](https://www.legislation.gov.uk/uksi/2002/1483), [art. 2](https://www.legislation.gov.uk/uksi/2002/1483/article/2); 29.11.2002 appointed for further specified provisions by [S.I.2002/2955](https://www.legislation.gov.uk/uksi/2002/2955), [art.2](https://www.legislation.gov.uk/uksi/2002/2955/article/2)
+
+[^c1991833]: Modification: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2002/11/section/7/2) power partly exercised: different dates appointed for further specified provisions and purposes by {[S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142)}, art. 3
+
+[^c55250]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/11/schedule/1) partly in force; [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/11/schedule/1) not in force at Royal Assent; [Sch. 1](https://www.legislation.gov.uk/ukpga/2002/11/schedule/1) except for paragraph 12 in force at (1.7.2002) by [S.I. 2002/1483](https://www.legislation.gov.uk/uksi/2002/1483), [art.2](https://www.legislation.gov.uk/uksi/2002/1483/article/2)
+
+[^key-35b5f78b276c3aba28b6d8103cfec480]: Modification: Sch. extended (Jersey) (with modifications) (29.12.2003) by [Communications (Jersey) Order 2003 (S.I. 2003/3197)](https://www.legislation.gov.uk/uksi/2003/3197), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2), [5](https://www.legislation.gov.uk/uksi/2003/3197/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3197/schedule/1)
+
+[^key-5f507ba597cf1417a5c9ab98ae388885]: Modification: Sch. extended (Isle of Man) (with modifications) (29.12.2003) by [Communications (Isle of Man) Order 2003 (S.I. 2003/3198)](https://www.legislation.gov.uk/uksi/2003/3198), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3198/article/1/2), [5](https://www.legislation.gov.uk/uksi/2003/3198/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3198/schedule/1)
+
+[^key-93bd4fa911f5d1b3457392306894a5a1]: Modification: Sch. extended (Guernsey) (with modifications) (29.12.2003) by [Communications (Bailiwick of Guernsey) Order 2003 (S.I. 2003/3195)](https://www.legislation.gov.uk/uksi/2003/3195), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3195/article/1/2), [5](https://www.legislation.gov.uk/uksi/2003/3195/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3195/schedule/1)
+
+[^key-f559da215008d6707ca20b57169ef4e9]: Textual amendment: Sch. para. 1(4) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 172(2)(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/172/2/a), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-65c10d07f7739d2420018b2f9f2da2d1]: Textual amendment: Words in Sch. para. 2(4)(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/46) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+
+[^key-e2234ff640e2af4c45d06d03e47c4b6e]: Textual amendment: Sch. para. 2(5)(6) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/3) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+
+[^key-03cc94e76a0909b9ac7efdd01df80641]: Textual amendment: Sch. para. 8(1) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 172(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/172/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-d023785e1d65a169426cb60a00a49548]: Textual amendment: Sch. para. 8(5) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 172(2)(b)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/172/2/b), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-ef578527ef9cdae27954bcde93ac0059]: Textual amendment: Word in Sch. para. 11(3)(a) omitted (18.8.2016) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11) , [ss. 65(7)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/65/7/a) , [72(4)(f)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/f) ; [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759) , [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)
+
+[^key-b433d1cb2f871a53a9ffde4a46b22d00]: Textual amendment: Sch. para. 11(3)(c) and word inserted (18.8.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11) , [ss. 65(7)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/65/7/b) , [72(4)(f)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/f) ; [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759) , [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)
+
+[^key-2f8b362f3f0cc579b9f41de4936ca8f1]: Textual amendment: Words in [Sch. para. 11(3)(c)](https://www.legislation.gov.uk/ukpga/2002/11/schedule/paragraph/11/3/c) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 68(7)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/68/7/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+
+[^key-7b99fee44b61c522773abd6355633aef]: Textual amendment: Words in [Sch. para. 11(3)(c)](https://www.legislation.gov.uk/ukpga/2002/11/schedule/paragraph/11/3/c) inserted (29.10.2021) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 99(7)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/99/7/a), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)
+
+[^key-43b2edab6e26f392632a2978f17fa3cb]: Textual amendment: Sch. para. 11(4) inserted (18.8.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11) , [ss. 65(8)](https://www.legislation.gov.uk/ukpga/2016/11/section/65/8) , [72(4)(f)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/f) ; [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759) , [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)
+
+[^key-3feb76f690f6bae797f5e60ece6e40ad]: Textual amendment: [Sch. para. 11(5)](https://www.legislation.gov.uk/ukpga/2002/11/schedule/paragraph/11/5) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 68(7)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/68/7/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+
+[^key-3d5dfcfbfa931bfab2250bc217c809d1]: Textual amendment: [Sch. para. 11(6)](https://www.legislation.gov.uk/ukpga/2002/11/schedule/paragraph/11/6) inserted (29.10.2021) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 99(7)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/99/7/b), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)
+
+[^key-f2ec27cb02c8d4383f1d5b38c636e0d7]: Commencement: Sch. para. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-cbdece664e789e570e75c10ea4058a5c]: Textual amendment: Words in Sch. para. 12(1) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 68(8)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/68/8/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+
+[^key-fbc5b183c0474043b9638dda8a01ab1f]: Textual amendment: Words in [Sch. para. 12(1)](https://www.legislation.gov.uk/ukpga/2002/11/schedule/paragraph/12/1) inserted (29.10.2021) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 99(8)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/99/8/a), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)
+
+[^key-068c5703b69285210c20c06cec8ba8a1]: Textual amendment: Word in Sch. para. 12(2)(a) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 168](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/168); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+
+[^key-671771db12174805baf0296f16782e39]: Textual amendment: Sch. para. 12(2)(aa) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 168](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/168); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+
+[^key-1a79b2feb1e07465191b5fb1bdf991e9]: Textual amendment: Sch. para. 12(4) inserted (18.8.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 65(9)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/65/9/b), [72(4)(f)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/f); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 2](https://www.legislation.gov.uk/uksi/2016/759/regulation/2)
+
+[^key-3f80278ffbcbe3ea2c5ea1919c0a9287]: Textual amendment: Sch. para. 12(5) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 68(8)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/68/8/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+
+[^key-2b88edadee47968565ea23918e947dde]: Textual amendment: [Sch. para. 12(6)](https://www.legislation.gov.uk/ukpga/2002/11/schedule/paragraph/12/6) inserted (29.10.2021) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 99(8)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/99/8/b), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)
+
+[^M_F_43ec99c9-25ae-4ff0-9e5f-a6c79e4461a7]: Textual amendment: Sch. para. 14(3A) inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 172(4)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/172/2/d) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^key-8aa16044be68681478883571813057c0]: Textual amendment: Sch. para. 17(8)(9) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 172(2)(c)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/172/2/c), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+
+[^M_F_f478e22c-89ab-4a46-8b73-b2564c178cc5]: Textual amendment: Sch. 1 para. 18 renumbered as Sch. 1 para. 18(1) (1.14.2014) by [2013 c. 24](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 40(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/40/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f), [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule)
+
+[^M_F_350bfb18-9c34-48a8-8d6f-320bae310f7d]: Textual amendment: Sch. 1 para. 18(2) inserted (1.14.2014) by [2013 c. 24](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 40(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/40/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f), [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule)
+
+[^key-d5290c6e9a330c6f01fa086c6f8210c2]: Textual amendment: Sch. para. 20 repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 172(2)(d)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/172/2/d), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

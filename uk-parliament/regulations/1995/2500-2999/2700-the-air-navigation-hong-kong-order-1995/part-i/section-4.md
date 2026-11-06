@@ -1,0 +1,75 @@
+---
+title: The Air Navigation (Hong Kong) Order 1995, section 4
+act: The Air Navigation (Hong Kong) Order 1995
+section: '4'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/2700/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Navigation (Hong Kong) Order 1995, section 4
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 4. Registration of aircraft in Hong Kong
+
+(1) The Governor shall be the authority for the registration of aircraft in Hong Kong. He may cause a register to be kept and may record therein the particulars specified in paragraph (7) of this Article in either a legible or a non-legible form, so long as the recording is capable of being reproduced in a legible form.
+
+(2) Subject to the provisions of this Article, an aircraft shall not be registered or continue to be registered in Hong Kong if it appears to the Governor that:
+
+- (a) the aircraft is registered outside Hong Kong and that such registration does not cease by operation of law upon the aircraft being registered in Hong Kong; or
+- (b) an unqualified person holds any legal or beneficial interest by way of ownership in the aircraft or any share therein; or
+- (c) the aircraft could more suitably be registered in some other country or territory; or
+- (d) it would be inexpedient in the public interest for the aircraft to be or to continue to be registered in Hong Kong.
+
+(3) The following persons and no others shall be qualified to hold a legal or beneficial interest by way of ownership in an aircraft registered in Hong Kong or a share therein:
+
+- (a) the Crown in right of Her Majesty’s Government in the United Kingdom or in right of the Government of Hong Kong;
+- (b) British Nationals;
+- (c) British protected persons;
+- (d) bodies incorporated in or under the law of Hong Kong or in the United Kingdom and having their principal place of business in Hong Kong or the United Kingdom.
+
+(4) If an unqualified person residing or having a place of business in Hong Kong holds a legal or beneficial interest by way of ownership in an aircraft, or a share therein, the Governor, upon being satisfied that the aircraft may otherwise be properly so registered, may register the aircraft in Hong Kong. The person aforesaid shall not cause or permit the aircraft, while it is registered in pursuance of this paragraph, to be used for the purpose of public transport or aerial work.
+
+(5) If an aircraft is chartered by demise to a person qualified as aforesaid the Governor may, whether or not an unqualified person is entitled as owner to a legal or beneficial interest therein, register the aircraft in Hong Kong in the name of the charterer upon being satisfied that the aircraft may otherwise be properly so registered, and subject to the provisions of this Article the aircraft may remain so registered during the continuation of the charter.
+
+(6) Application for the registration of an aircraft in Hong Kong shall be made in writing to the Governor, and shall include or be accompanied by such particulars and evidence relating to the aircraft and the ownership and chartering thereof as he may require to enable him to determine whether the aircraft may properly be registered in Hong Kong and to issue the certificate referred to in paragraph (8) of this Article. In particular, the application shall include the proper description of the aircraft according to column 4 of the “General Classification of Aircraft” set forth in Part A of Schedule 1 to this Order.
+
+(7) Upon receiving an application for the registration of an aircraft in Hong Kong and being satisfied that the aircraft may properly be so registered, the Governor shall register the aircraft, wherever it may be, and shall include in the register the following particulars:
+
+- (a) the number of the certificate;
+- (b) the nationality mark of the aircraft, and the registration mark assigned to it by the Governor;
+- (c) the name of the constructor of the aircraft and its designation;
+- (d) the serial number of the aircraft; and
+- (e)
+  - (i) the name and address of every person who is entitled as owner to a legal interest in the aircraft or a share therein, or, in the case of an aircraft which is the subject of a charter by demise, the name and address of the charterer by demise; and
+  - (ii) in the case of an aircraft registered in pursuance of paragraph (4) or (5) of this Article, an indication that it is so registered.
+
+(8) The Governor shall furnish to the person in whose name the aircraft is registered (hereinafter in this Article referred to as “the registered owner”) a certificate of registration, which shall include the foregoing particulars and the date on which the certificate was issued:
+
+- Provided that the Governor shall not be required to furnish a certificate of registration if the registered owner is the holder of an aircraft dealer’s certificate granted under this Order who has made to the Governor and has not withdrawn a statement of his intention that the aircraft is to fly only in accordance with the conditions set forth in Part C of Schedule 1 to this Order, and in that case the aircraft shall fly only in accordance with those conditions.
+
+(9) The Governor may grant to any person qualified as aforesaid an aircraft dealer’s certificate if he is satisfied that he has a place of business in Hong Kong for buying and selling aircraft.
+
+(10) Subject to paragraphs (4) and (5) of this Article, if at any time after an aircraft has been registered in Hong Kong an unqualified person becomes entitled to a legal or beneficial interest by way of ownership in the aircraft or a share therein, the registration of the aircraft shall thereupon become void and the certificate of registration shall forthwith be returned by the registered owner to the Governor.
+
+(11) Any person who is the registered owner of an aircraft registered in Hong Kong shall forthwith inform the Governor in writing of:
+
+- (a) any change in the particulars which were furnished to the Governor upon application being made for the registration of the aircraft;
+- (b) the destruction of the aircraft, or its permanent withdrawal from use;
+- (c) in the case of an aircraft registered in pursuance of paragraph (5) of this Article, the termination of the demise charter.
+
+(12) Any person who becomes the owner of an aircraft registered in Hong Kong shall within 28 days inform the Governor in writing to that effect.
+
+(13) The Governor may, whenever it appears to him necessary or appropriate to do so for giving effect to this Part of this Order or for bringing up to date or otherwise correcting the particulars entered on the register, amend the register or, if he thinks fit, may cancel the registration of the aircraft, and shall cancel that registration within two months of being satisfied that there has been a change in the ownership of the aircraft.
+
+(14) Deleted.
+
+(15) In this Article references to an interest in an aircraft do not include references to an interest in an aircraft to which a person is entitled only by virtue of his membership of a flying club and the reference in paragraph (11) of this Article to the registered owner of an aircraft includes in the case of a deceased person, his legal personal representative, and in the case of a body corporate which has been dissolved, its successor.
+
+(16) Nothing in this Article shall require the Governor to cancel the registration of an aircraft if in his opinion it would be inexpedient in the public interest to do so.
+
+(17) The Governor shall transmit to the Civil Aviation Authority particulars of all registrations and of changes in or cancellations of registrations, entered in the register.

@@ -1,0 +1,30 @@
+---
+title: National Heritage Act 1983, section 28
+act: National Heritage Act 1983
+section: '28'
+status: revised
+text_date: '2024-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1983/47/section/28
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Heritage Act 1983, section 28
+
+> Text as at 2024-11-04.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 28. Lending and borrowing of objects.
+
+*Extent: E+W*
+
+(1) Subject to subsection (2), the Board may lend any object the property in which is vested in them and which is comprised in their collections (whether or not the loan is for purposes of public exhibition, and whether or not under the terms of the loan the object is to remain in the United Kingdom).
+
+(2) In deciding whether or not to lend an object, and in determining the time for which and the conditions subject to which an object is to be lent, the Board—
+
+- (a) shall give special consideration to a request for the loan of an object for public exhibition, and
+- (b) subject to that, shall have regard to the interests of students and other persons visiting the Board’s collections, the suitability of the prospective borrower, the purpose of the loan, the physical condition and degree of rarity of the object, and any risks to which it is likely to be exposed.
+
+(3) The Board may accept loans of objects for the purpose (depending on the terms of the loan) of exhibiting them, or of study or research by the Board or by persons seeking to inspect them.

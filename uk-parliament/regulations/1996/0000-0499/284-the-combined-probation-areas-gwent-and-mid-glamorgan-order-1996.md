@@ -1,0 +1,77 @@
+---
+title: The Combined Probation Areas (Gwent and Mid Glamorgan) Order 1996
+id: uksi/1996/284
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-02-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/284
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/284/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Combined Probation Areas (Gwent and Mid Glamorgan) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 284
+
+PROBATION
+
+The Combined Probation Areas (Gwent and Mid Glamorgan) Order 1996
+
+Made
+
+13th February 1996
+
+Coming into force in accordance with article 1
+
+The Secretary of State, in exercise of the powers conferred upon him by section 2 of the Probation Service Act 1993[^f00001], and after the consultation required by that section, hereby makes the following Order:
+
+**1.** (1) This Order may be cited as the Combined Probation Areas (Gwent and Mid Glamorgan) Order 1996.
+
+(2) This Order shall come into force on 1st April 1996 save that, for the purpose of making appointments to the probation committee for the Gwent Probation Area to take effect on that date, this Order shall come into force forthwith.
+
+**2.** For that part of Schedule 2 to the Combined Probation Areas Order 1986[^f00002] which relates to the Gwent Probation Area[^f00003] there shall be substituted the following—
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th>Petty Sessions Area</th><th>Probation Area</th><th>Number of Justices on Probation Committee</th></tr>
+</thead>
+<tbody>
+<tr><td>Bedwellty</td><td>Gwent</td><td>3</td></tr>
+<tr><td>East Gwent</td><td></td><td>3</td></tr>
+<tr><td>Lower Rhymney Valley</td><td></td><td>2</td></tr>
+<tr><td>Newport</td><td></td><td>5</td></tr>
+<tr><td>Upper Rhymney Valley</td><td></td><td>1</td></tr>
+</tbody>
+</table>
+
+**3.** In that part of Schedule 2 to the Combined Probation Areas Order 1986 which relates to the Mid Glamorgan Probation Area, the entries relating to Lower Rhymney Valley and Upper Rhymney Valley shall be omitted.
+
+Blatch
+
+Minister of State
+
+Home Office
+
+13th February 1996
+
+(This note is not part of the Order)
+
+This Order amends the Combined Probation Areas Order 1986 (S.I. [1986/1713](https://www.legislation.gov.uk/uksi/1986/1713)) so as to alter the boundary between the Gwent and Mid Glamorgan probation areas. From 1st April 1996, the petty sessions areas of Lower Rhymney Valley and Upper Rhymney Valley, currently included in the Mid Glamorgan Probation Area, will become part of the Gwent Probation Area. The justice representation on the Mid Glamorgan committee will accordingly be reduced from fourteen to eleven. The Order also provides for the number of justices appointed to the Gwent committee to be reduced from nineteen to fourteen.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 47](https://www.legislation.gov.uk/ukpga/1993/47).
+
+[^f00002]: Footnote: S.I. [1986/1713](https://www.legislation.gov.uk/uksi/1986/1713), amended by S.I. [1992/2121](https://www.legislation.gov.uk/uksi/1992/2121) (which is amended by S.I. [1993/92](https://www.legislation.gov.uk/uksi/1993/92)) and [1993/716](https://www.legislation.gov.uk/uksi/1993/716).
+
+[^f00003]: Footnote: The part relating to Gwent was amended by S.I. [1990/771](https://www.legislation.gov.uk/uksi/1990/771).

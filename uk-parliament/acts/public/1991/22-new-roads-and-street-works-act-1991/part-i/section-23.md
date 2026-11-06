@@ -1,0 +1,65 @@
+---
+title: New Roads and Street Works Act 1991, section 23
+act: New Roads and Street Works Act 1991
+section: '23'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1991/22/section/23
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# New Roads and Street Works Act 1991, section 23
+
+> **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 23. Execution of works by highway authority at expense of another.
+
+*Extent: E+W*
+
+In Part XIII of the Highways Act 1980 (financial provisions), for section 278 (contributions by persons deriving special benefit from works) substitute—
+
+> **278. Agreements as to execution of works.**
+>
+> (1) A highway authority may, if they are satisfied it will be of benefit to the public, enter into an agreement with any person—
+>
+> - (a) for the execution by the authority of any works which the authority are or may be authorised to execute, or
+> - (b) for the execution by the authority of such works incorporating particular modifications, additions or features, or at a particular time or in a particular manner,
+>
+> on terms that that person pays the whole or such part of the cost of the works as may be specified in or determined in accordance with the agreement.
+>
+> (2) Without prejudice to the generality of the reference in subsection (1) to the cost of the works, that reference shall be taken to include—
+>
+> - (a) the whole of the costs incurred by the highway authority in or in connection with—
+>   - (i) the making of the agreement,
+>   - (ii) the making or confirmation of any scheme or order required for the purposes of the works,
+>   - (iii) the granting of any authorisation, permission or consent required for the purposes of the works, and
+>   - (iv) the acquisition by the authority of any land required for the purposes of the works; and
+> - (b) all relevant administrative expenses of the highway authority, including an appropriate sum in respect of general staff costs and overheads.
+>
+> (3) The agreement may also provide for the making to the highway authority of payments in respect of the maintenance of the works to which the agreement relates and may contain such incidental and consequential provisions as appear to the highway authority to be necessary or expedient for the purposes of the agreement.
+>
+> (4) The fact that works are to be executed in pursuance of an agreement under this section does not affect the power of the authority to acquire land, by agreement or compulsorily, for the purposes of the works.
+>
+> (5) If any amount due to a highway authority in pursuance of an agreement under this section is not paid in accordance with the agreement, the authority may—
+>
+> - (a) direct that any means of access or other facility afforded by the works to which the agreement relates shall not be used until that amount has been paid,
+> - (b) recover that amount from any person having an estate or interest in any land for the benefit of which any such means of access or other facility is afforded, and
+> - (c) declare that amount to be a charge on any such land (identifying it) and on all estates and interests therein.
+>
+> (6) If it appears to the highway authority that a direction under subsection (5)(a) is not being complied with, the authority may execute such works as are necessary to stop up the means of access or deny the facility, as the case may be, and may for that purpose enter any land.
+>
+> (7) Where a highway authority recovers an amount from a person by virtue of subsection (5)(b), he may in turn recover from any other person having an estate or interest in land for the benefit of which the means of access or other facility was afforded such contribution as may be found by the court to be just and equitable.
+>
+> This does not affect the right of any of those persons to recover from the person liable under the agreement the amount which they are made to pay.
+>
+> (8) The [^c14148521] Local Land Charges Act 1975 applies in relation to a charge under subsection (5)(c) in favour of the Secretary of State as in relation to a charge in favour of a local authority.
+
+.
+
+## Annotations
+
+[^c14148521]: Marginal citation: 1975 C. 76

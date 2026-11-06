@@ -1,0 +1,83 @@
+---
+title: Electricity Act 1989, section 42C
+act: Electricity Act 1989
+section: 42C
+status: revised-with-pending-changes
+text_date: '2026-07-24'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1989/29/section/42C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Electricity Act 1989, section 42C
+
+> **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 42C. Remuneration and service standards.[^c4113971]
+
+*Extent: E+W+S*
+
+(1) This section applies to any company which is authorised by a licence to carry on activities subject to price regulation.
+
+(2) As soon as reasonably practicable after the end of each financial year of the company it must make a statement to the Authority—
+
+- (a) disclosing whether or not remuneration has been paid or become due during that financial year to the directors of the company as a result of arrangements falling within subsection (3); and
+- (b) where such remuneration has been paid or become due, describing the arrangements and the remuneration.
+
+(3) Arrangements fall within this subsection if they are arrangements for linking the remuneration of the directors of the company to levels of performance as respects service standards in connection with activities subject to price regulation.
+
+(4) A description under subsection (2)(b) must include in particular—
+
+- (a) a statement of when the arrangements were made;
+- (b) a description of the service standards in question;
+- (c) an explanation of the means by which the levels of performance as respects those service standards are assessed; and
+- (d) an explanation of how the remuneration was calculated.
+
+(5) The statement required by subsection (2) must also state—
+
+- (a) whether or not there are in force in respect of the financial year during which the statement is made arrangements falling within subsection (3); or
+- (b) if not, whether the company intends that such arrangements will be in force at some time during that financial year,
+
+and if there are, or it is intended that there will be, such arrangements in force the statement must describe those arrangements.
+
+(6) A description under subsection (5) must—
+
+- (a) include in particular the matters listed in subsection (4)(a), (b) and (c); and
+- (b) where the arrangements described are different from any arrangements described under subsection (2)(b), state the likely effect of those differences on the remuneration of each director of the company.
+
+(7) The statement required by subsection (2) must be made to the Authority in such manner as may be required by the Authority.
+
+(8) The statement required by subsection (2)—
+
+- (a) must be published by the company making the statement in such manner as it reasonably considers will secure adequate publicity for it; and
+- (b) may be published by the Authority in such manner as it may consider appropriate.
+
+(9) The duty of a company under this section applies in respect of any person who has at any time been a director of the company.
+
+(10) In this section—
+
+- “activities subject to price regulation”, in relation to any company, are activities for which—
+  - (a) a maximum price which may be charged by the company, or a method for calculating such a maximum price; or
+  - (b) a maximum revenue which may be received by the company, or a method for calculating such a maximum revenue,
+
+  is determined by or under the licence granted under this Part;
+- “company” means a company (as defined in section 1(1) of the Companies Act 2006) that—[^key-4e1491eb835e5bd89e894bd926f89626]
+  - (a) is limited by shares, and
+  - (b) has its registered office in Great Britain.
+- “remuneration” in relation to a director of a company—
+  - (a) means any form of payment, consideration or other benefit (including pension benefit), paid or due to or in respect of the director; and
+  - (b) includes remuneration in respect of any of his services while a director of the company;
+- “**service standards**” in relation to any company, means standards relating to the quality of service received by customers or potential customers of the company, including any such standards which are—
+  - (a) set by or under any conditions included in a licence granted under this Part;
+  - (b) prescribed by the Authority in regulations made under section 39 or 39A;
+  - (c) determined by the Authority under section 40 or 40A; or
+  - (d) set or agreed to by the company.
+
+## Annotations
+
+[^c4113971]: Textual amendment: S. 42C inserted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 61](https://www.legislation.gov.uk/ukpga/2000/27/section/61); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
+
+[^key-4e1491eb835e5bd89e894bd926f89626]: Textual amendment: Words in s. 42C(10) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 102(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/102/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

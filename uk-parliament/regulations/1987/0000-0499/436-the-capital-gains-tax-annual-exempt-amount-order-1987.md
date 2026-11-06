@@ -1,0 +1,60 @@
+---
+title: The Capital Gains Tax (Annual Exempt Amount) Order 1987
+id: uksi/1987/436
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-03-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/436
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/436/pdfs/uksi_19870436_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/436/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Capital Gains Tax (Annual Exempt Amount) Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 436
+
+TAXES
+
+The Capital Gains Tax (Annual Exempt Amount) Order 1987
+
+Made
+
+17th March 1987
+
+The Treasury, in pursuance of section 5(1C) of the Capital Gains Tax Act 1979[^f00001], hereby make the following Order:
+
+**1.** This Order may be cited as the Capital Gains Tax (Annual Exempt Amount) Order 1987.
+
+**2.** The amount specified, which by virtue of section 5 of the Capital Gains Tax Act 1979 is, unless Parliament otherwise determines, the exempt amount for the year 1987—88, is £6,600.
+
+Tim Sainsbury
+
+Michael Neubert
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+17th March 1987
+
+(This note is not part of the Order)
+
+This Order specifies £6,600 as the amount which, under section 5 of the Capital Gains Tax Act 1979 (as amended by section 80 of the Finance Act 1982), is the exempt amount for the year 1987—88 unless Parliament otherwise determines. The amount of £6,600 is the amount for 1986—87 (£6,300: S.I. [1986/527](https://www.legislation.gov.uk/uksi/1986/527)) increased by the amount of the percentage increase (3.72%) in the retail prices index for December 1986 over that for December 1985. The figure has been rounded up to the nearest £100 in accordance with section 5(1B).
+
+The“retail prices index” is defined in section 24(8) of the Finance Act [1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48) (as extended to the Capital Gains Tax Act 1979 by section 80(4) of the Finance Act 1982) as “the general index of retail prices (for all items) published by the Department of Employment”. The retail prices index for December 1985 is 378.9 and for December 1986 393.0 (based on January 1974 as 100). (Table 6.4 of the Department of Employment Gazette, February 1987).
+
+The exempt amount has several applications for capital gains tax. Under section 5(1) an individual’s gains for a year of assessment are chargeable to tax only to the extent that they exceed the exempt amount. Under paragraphs 4 to 6 of Schedule 1 section 5(1) also applies, subject to detailed rules, to personal representatives, trustees of settlements for mentally disabled persons or persons in receipt of attendance allowance, and, as to one half of the exempt amount, trustees of other settlements.
+
+Under section 5(5) an individual may, if appropriate, and unless an Inspector otherwise requires, satisfy his obligation to make a return of chargeable gains by stating that his gains do not exceed the exempt amount for the year and that the proceeds of his disposals in the year do not exceed an amount equal to twice the exempt amount. Under paragraphs 4 to 6 of Schedule 1 section 5(5) also applies to personal representatives and, subject to detailed rules, to trustees.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 14](https://www.legislation.gov.uk/ukpga/1979/14); section 5(1C) was inserted by section 80(2) of the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39).

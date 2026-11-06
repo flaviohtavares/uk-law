@@ -1,0 +1,92 @@
+---
+title: The Child Benefit Up-rating Order 2007
+id: uksi/2007/1053
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-03-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1053
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/1053/pdfs/uksiem_20071053_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1053/pdfs/uksi_20071053_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1053/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Benefit Up-rating Order 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 1053
+
+SOCIAL SECURITY
+
+The Child Benefit Up-rating Order 2007
+
+Made
+
+28th March 2007
+
+Coming into force
+
+9th April 2007
+
+As a result of carrying out a review in Great Britain of the sums specified in section 150(1)(i) (rates of benefits, etc.) of the Social Security Administration Act 1992 [^f00001] (“the Great Britain Administration Act”), the Treasury have determined that the general level of prices was higher at the end of the period under review than it was at the beginning.
+
+A draft of the following Order was laid before and approved by resolution of each House of Parliament in accordance with sections 150(2) and 190(1)(a) of that Act.
+
+Section 132(1) of the Social Security Administration (Northern Ireland) Act 1992 [^f00002] (“the Northern Ireland Administration Act”) provides that, whenever the Treasury make an Order under section 150 of the Great Britain Administration Act, they may make corresponding provision in respect of Northern Ireland.
+
+A draft of the following Order was laid before and approved by resolution of each House of Parliament pursuant to sections 132(1) and 166(10A) of the Northern Ireland Administration Act [^f00003].
+
+Accordingly the Treasury in exercise of the powers conferred by sections 150(2) and 189(4) of the Great Britain Administration Act and by sections 132(2) and 165(4) of the Northern Ireland Administration Act 1992 and now vested in them [^f00004], make the following Order:
+
+## 1. Citation and Commencement
+
+This Order may be cited as the Child Benefit Up-rating Order 2007 and shall come into force on 9th April 2007.
+
+## 2. Amendment of the Child Benefit (Rates) Regulations 2006
+
+In regulation 2(1) of the Child Benefit (Rates) Regulations 2006 [^f00005]—
+
+- (a) in sub-paragraph (a) for “£17.45” substitute “£18.10”; and
+- (b) in sub-paragraph (b) for “£11.70” substitute “£12.10”.
+
+Claire Ward
+
+Dave Watts
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+28th March 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made by the Treasury as the consequence of a review, conducted by them under section 150 of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5), of the general level of prices. It details the amounts of child benefit across the whole of the United Kingdom which it falls to the Treasury to determine in consequence of the transfer of functions in respect of child benefit under section 49(3) and (4) of the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21).
+
+Article 1 provides for the citation and commencement of the Order.
+
+Article 2 increases the weekly rate of child benefit prescribed in sub-paragraphs (a) and (b) of regulation 2(1) of the Child Benefit (Rates) Regulations 2006 ([S.I. 2006/965](https://www.legislation.gov.uk/uksi/2006/965)) from £17.45 to £18.10 and from £11.70 to £12.10.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+This Order does not impose any new costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00002]: Footnote: [1992 (c.8)](https://www.legislation.gov.uk/ukpga/1992/8).
+
+[^f00003]: Footnote: Subsection (10A) was inserted by paragraph 50(4) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) and amended by paragraph 11(3) of Schedule 4 to the [Tax Credits Act 2002 (“the 2002 Act”) (c.21)](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^f00004]: Footnote: The functions of the Secretary of State in respect of child benefit under Part 10 of Great Britain Administration Act which are relevant to the making of this Order were transferred to the Treasury by section 49(3) of the 2002 Act .The functions of the Department for Social Development in respect of child benefit under section 132 of the Northern Ireland Administration Act which are relevant to the making of this Order were transferred to the Treasury by section 49(4) of the 2002 Act.
+
+[^f00005]: Footnote: [S.I. 2006/965](https://www.legislation.gov.uk/uksi/2006/965).

@@ -1,0 +1,52 @@
+---
+title: Health Act 1999, section 46
+act: Health Act 1999
+section: '46'
+status: revised-with-pending-changes
+text_date: '2022-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1999/8/section/46
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Health Act 1999, section 46
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2022-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 46. Establishment orders.
+
+*Extent: S*
+
+(1) In section 12A of the 1978 Act (NHS trusts)—
+
+- (a) in subsection (1), for paragraphs (a) and (b) there is substituted “ to provide goods and services for the purposes of the health service ”,
+- (b) for subsection (4) there is substituted—
+
+  > (4) The functions which may be specified in an order under subsection (1) include a duty to provide goods or services so specified at, from, or through a hospital or other establishment or facility so specified.
+
+(2) In section 108(1) (interpretation) after the definition of “property” there is inserted—
+
+> “**provide**” includes manage
+
+.
+
+(3) Any order under section 12A(1) of that Act—
+
+- (a) is to be treated as always having had effect with the omission of any obligation for the NHS trust to which the order relates to own land specified in the order, and
+- (b) so far as any functions specified in it could have been specified under that provision as amended by this Act, is to be treated as having been made under that provision as so amended.
+
+(4) Any restriction preventing the acquisition by any NHS trust (including any NHS trust dissolved before the commencement of this section) of land merely because the land did not comprise a hospital or other establishment or facility previously managed or provided by a Health Board or the Agency is to be treated as never having had effect.
+
+(5) An order under section 63 of this Act may—
+
+- (a) provide for any provision made by it for the purposes of, in consequence of, or for giving full effect to, this section to be treated as having had effect from a time before the commencement of this section,
+- (b) make such provision about an NHS trust dissolved before that commencement.
+
+(6) In paragraph 3(2) of Schedule 7A to the 1978 Act (establishment orders), for “assume responsibility for the ownership and management of” there is substituted “ provide services at ”.
+
+(7) In paragraph 3 of Schedule 7B to that Act (borrowing limits), in sub-paragraph (1), for the words from “established” to “manage” there is substituted “ which are required to provide services at or from ”.
+
+(8) The 1978 Act is to be treated as always having had effect subject to the amendments made by this section.

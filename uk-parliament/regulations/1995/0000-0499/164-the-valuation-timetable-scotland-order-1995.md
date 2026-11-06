@@ -1,0 +1,106 @@
+---
+title: The Valuation Timetable (Scotland) Order 1995
+id: uksi/1995/164
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-01-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/164
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/164/made/data.pdf
+pending_changes: 13
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Valuation Timetable (Scotland) Order 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 164 (S.4)
+
+RATING AND VALUATION
+
+The Valuation Timetable (Scotland) Order 1995
+
+Made
+
+24th January 1995
+
+Coming into force
+
+27th January 1995
+
+The Secretary of State, in exercise of the powers conferred on him by sections 13(1) and 42 of the Valuation and Rating (Scotland) Act 1956[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Valuation Timetable (Scotland) Order 1995 and shall come into force on 27th January 1995.
+
+## 2. Interpretation
+
+In this Order—
+
+- “year” means a period of 12 months beginning with 1st April;
+- “year of revaluation” means the year 1995-96 and each fifth year thereafter.
+
+## 3. Prescribed dates
+
+In relation to a valuation roll which comes into force on or after 1st April 1995, the date on which, or the period within which, any notice requires to be given, or any other thing requires to be done, for the purposes of the Valuation Acts, on or after the coming into force of this Order shall be, in respect of the notice or other thing mentioned in column 1 of the Schedule to this Order, the date or period set out in column 2 of that Schedule.
+
+## 4. Revocations
+
+(1) Subject to paragraph (2) below, the Valuation Timetable (Scotland) Order 1989[^f00002] and the Valuation Timetable (Scotland) Amendment (No.3) Order 1993[^f00003] are hereby revoked.
+
+(2) The Orders referred to in paragraph (1) above shall continue to have effect in relation to any valuation roll which came into force on 1st April 1990.
+
+Allan Stewart
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+24th January 1995
+
+## SCHEDULE
+
+Article 3
+
+| *Column 1* | *Column 2* |
+| --- | --- |
+| Valuations to be made on the basis of level of rents prevailing as at | 1st April in the year which is 2 years prior to a year of revaluation. |
+| Last date for the assessor to send certified copies of estimates of revaluation to local authorities, and the Secretary of State, in accordance with section 7(4) of the Local Government (Financial Provisions) (Scotland) Act 1963[^f00004] | 1st November in the year preceding a year of revaluation. |
+| Valuations to be made on the basis of the physical circumstances of properties as at | 1st January in the year preceding a year of revaluation. |
+| Last date for the assessor to deliver copies of the valuation roll to the rating authority, in accordance with section 1(4) of the Local Government (Scotland) Act 1975[^f00005] | 15th March in the year preceding a year of revaluation. |
+| In relation to any entry or alteration made in a valuation roll, the last date for lodging of any—<br>- (a) appeal or application for redress under section 3(2) of the Local Government (Scotland) Act 1975<br>- (b) complaint under section 13 of the Lands Valuation (Scotland) Act 1854[^f00006]<br>- (c) complaint under section 6 of the Valuation of Lands (Scotland) Amendment Act 1879[^f00007] | Whichever is the later of the following dates:—<br>- (i) 15th September in the year of revaluation;<br>- (ii) the last day of the 6 month period commencing on the date on which the relevant notice under section 3(2) of the Local Government (Scotland) Act 1975 was sent. |
+| Last date for the disposal by a valuation appeal committee of appeals and complaints lodged with it | Whichever is the latest of the following dates:—<br>- (i) 31st March in the second year following the year of revaluation;<br>- (ii) 31st December in the year following the year in which the appeal or complaint is lodged;<br>- (iii) 12 months after the date on which the appeal or complaint is lodged. |
+
+(This note is not part of the Order)
+
+This Order prescribes a new timetable for—
+
+- (a) certain things which require to be done in connection with the making up of a valuation roll at the time of revaluation; and
+- (b) applications for redress to the assessor, the lodging of appeals and complaints with the valuation appeal committee, and the disposal of appeals and complaints by the valuation appeal committee.
+
+This Order also revokes the Valuation Timetable (Scotland) Order 1989 which will, however, continue to have effect in relation to any valuation roll which came into force on 1st April 1990.
+
+## Annotations
+
+[^f00001]: Footnote: [1956 c. 60](https://www.legislation.gov.uk/ukpga/1956/60); section 13(1) was extended by the Local Government (Financial Provisions) (Scotland) Act [1963 (c. 12)](https://www.legislation.gov.uk/ukpga/1963/12), section 22(d) and amended by the Local Government (Scotland) Act [1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), Schedule 6, paragraph 20(a).
+
+[^f00002]: Footnote: [S.I. 1989/2386](https://www.legislation.gov.uk/uksi/1989/2386).
+
+[^f00003]: Footnote: [S.I. 1993/2242](https://www.legislation.gov.uk/uksi/1993/2242).
+
+[^f00004]: Footnote: [1963 c. 12](https://www.legislation.gov.uk/ukpga/1963/12); section 7(4) was amended by the Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), Schedule 9, paragraph 53 and by the Local Government (Scotland) Act 1975, Schedule 6, Part II, paragraph 23, and is amended (prospectively) by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 60(2).
+
+[^f00005]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30).
+
+[^f00006]: Footnote: [1854 c. 91](https://www.legislation.gov.uk/ukpga/1854/91); section 13 was amended by S.R. & O. [1930/1026](https://www.legislation.gov.uk/nisro/1930/1026).
+
+[^f00007]: Footnote: [1879 c. 42](https://www.legislation.gov.uk/ukpga/1879/42).

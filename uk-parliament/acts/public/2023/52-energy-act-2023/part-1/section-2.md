@@ -1,0 +1,64 @@
+---
+title: Energy Act 2023, section 2
+act: Energy Act 2023
+section: '2'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 2
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 2. Prohibition on unlicensed activities[^key-df9bc6047c06186de52e87c844d682a8]
+
+*Extent: E+W+S+N.I.*
+
+(1) It is an offence for a person to carry on an activity within subsection (2) unless the person is authorised to do so by a licence.
+
+(2) The activities are—
+
+- (a) operating a site for the disposal of carbon dioxide by way of geological storage;
+- (b) providing a service of transporting carbon dioxide by a licensable means of transportation.
+
+(3) In this Part “**licensable means of transportation**” means—
+
+- (a) a pipe or system of pipes, or
+- (b) any other means of transportation that may be specified by regulations made by the Secretary of State,
+
+which falls within subsection (4).
+
+(4) A means of transportation falls within this subsection if it is used (with or without other means of transportation) for transporting carbon dioxide all or part of the way to a site for the geological storage of carbon dioxide.
+
+(5) A person who commits an offence under this section is liable—
+
+- (a) on summary conviction in England and Wales, to a fine;
+- (b) on summary conviction in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum;
+- (c) on conviction on indictment, to a fine.
+
+(6) No proceedings may be instituted in England and Wales in respect of an offence under this section except by or on behalf of the Secretary of State or the economic regulator.
+
+(7) Regulations under subsection (3)(b) may make consequential, transitional, incidental or supplementary provision including—
+
+- (a) amendments (or repeals or revocations) in any provision of this Act or any other enactment, and
+- (b) provision modifying any standard conditions of licences or provision determining the conditions which are to be standard conditions for the purposes of licences authorising the undertaking of activities which are to become licensable activities.
+
+(8) But regulations made by virtue of subsection (7)(a) may not make provision amending (or repealing or revoking) any provision of—
+
+- (a) an Act of the Scottish Parliament, or an instrument made under such an Act, unless the Scottish Ministers have consented to the making of that provision;
+- (b) a Measure or Act of Senedd Cymru, or an instrument made under such a Measure or Act, unless the Welsh Ministers have consented to the making of that provision;
+- (c) Northern Ireland legislation, or an instrument made under Northern Ireland legislation, unless the Department for the Economy in Northern Ireland has consented to the making of that provision.
+
+(9) Regulations under subsection (3)(b) are subject to the affirmative procedure.
+
+(10) For the purposes of this Part the person who “operates” a site for the geological storage of carbon dioxide is the person who carries on or (where different) controls activities at the site.
+
+## Annotations
+
+[^key-df9bc6047c06186de52e87c844d682a8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/52/section/2) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

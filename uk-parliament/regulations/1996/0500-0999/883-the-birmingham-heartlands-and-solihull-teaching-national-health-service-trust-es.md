@@ -1,0 +1,91 @@
+---
+title: The Birmingham Heartlands and Solihull (Teaching) National Health Service Trust (Establishment) Order 1996
+id: uksi/1996/883
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-03-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/883
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/883/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Birmingham Heartlands and Solihull (Teaching) National Health Service Trust (Establishment) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 883
+
+NATIONAL HEALTH SERVICE, ENGLAND AND WALES
+
+The Birmingham Heartlands and Solihull (Teaching) National Health Service Trust (Establishment) Order 1996
+
+Made
+
+19th March 1996
+
+Coming into force
+
+1st April 1996
+
+The Secretary of State for Health, in exercise of powers conferred on him by section 5(1) of, and paragraphs 1, 3, 4, 5 and 6(2)(d) of Schedule 2 to, the National Health Service and Community Care Act 1990[^f00001] and of all other powers enabling him in that behalf, having directed the relevant Regional Health Authority, as defined in section 5(4) of that Act, to consult the persons or bodies referred to in section 5(2) of that Act and having received and considered the results of that consultation, and being of the opinion that the trust established by the Order is to have functions which are appropriate in relation to the provision of services for one or more health authorities, and that a hospital for which the trust is to assume responsibility has a significant teaching and research commitment, hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Birmingham Heartlands and Solihull (Teaching) National Health Service Trust (Establishment) Order 1996 and shall come into force on 1st April 1996.
+
+(2) In this Order, unless the context otherwise requires—
+
+- “the Act” means the National Health Service and Community Care Act 1990;
+- “operational date” has the meaning assigned to it in paragraph 3(1)(e) of Schedule 2 to the Act;
+- “the trust” means the Birmingham Heartlands and Solihull (Teaching) National Health Service Trust established by article 2 of this Order.
+
+## 2. Establishment of the trust
+
+There is hereby established an NHS trust which shall be called the Birmingham Heartlands and Solihull (Teaching) National Health Service Trust.
+
+## 3. Nature and functions of the trust
+
+(1) The trust is established for the purpose specified in section 5(1)(a) of the Act.
+
+(2) The trust’s functions shall be to own and manage hospital accommodation and services provided at Bordesley Green East, Birmingham B9 5SS and associated hospitals (including the management of its teaching and research facilities).
+
+## 4. Directors of the trust
+
+(1) The trust shall have, in addition to the chairman, 5 non-executive directors and 5 executive directors.
+
+(2) There shall be included among the non-executive directors a person appointed from the University of Birmingham.
+
+## 5. Operational date and accounting date of the trust
+
+(1) The operational date of the trust shall be 1st April 1996.
+
+(2) The accounting date of the trust shall be 31st March.
+
+## 6. Restriction on disposal of assets
+
+The sum specified for the purposes of paragraph 6(2)(d) of Schedule 2 to the Act (maximum value of freely disposable assets) in relation to the trust shall be £1,000,000.
+
+Signed by authority of the Secretary of State for Health
+
+Gerald Malone
+
+Minister of State,
+
+Department of Health
+
+19th March 1996
+
+(This note is not part of the Order)
+
+This Order establishes the Birmingham Heartlands and Solihull (Teaching) National Health Service Trust, an NHS trust provided for in section 5 of the National Health Service and Community Care Act 1990. It also provides for the functions of the trust (article 3). It specifies the operational date and the accounting date of the trust (article 5), and the value of assets in excess of which the Secretary of State is to consider the disposal of the asset (article 6).
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19); paragraph 1 of Schedule 2 is cited for the definition of “an order”.

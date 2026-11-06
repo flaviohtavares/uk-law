@@ -1,0 +1,100 @@
+---
+title: The Territorial Sea (Amendment) Order 1998
+id: uksi/1998/2564
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-10-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/2564
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/2564/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Territorial Sea (Amendment) Order 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 2564
+
+TERRITORIAL SEA
+
+The Territorial Sea (Amendment) Order 1998
+
+Made
+
+21st October 1998
+
+Coming into force
+
+15th November 1998
+
+At the Court at Buckingham Palace, the 21st day of October 1998
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred upon Her by section 1(1)(b) of the Territorial Sea Act 1987[^f00001] and all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+**1.** This Order may be cited as the Territorial Sea (Amendment) Order 1998 and shall come into force on 15th November 1998.
+
+**2.** For the Schedule to the Territorial Waters Order in Council 1964[^f00002] there shall be substituted the Schedule set out below:
+
+**3.** The positions of points 1 to 28 are defined by co-ordinates of latitude and longitude on the Ordnance Survey of Great Britain (1936) Datum (OSGB 36).
+
+**4.** The Territorial Sea (Amendment) Order 1996[^f00003] is hereby revoked.
+
+N. H. Nicholls
+
+Clerk of the Privy Council
+
+## SCHEDULE — POINTS BETWEEN CAPE WRATH AND LAGGAN JOINED BY GEODESICS TO FORM BASELINES
+
+|  | *Latitude North* | *Longitude West* | *Name of Feature* |
+| --- | --- | --- | --- |
+| 1\. | 58°37'40" | 05°00'13" | Cape Wrath |
+| 2\. | 58°31'12" | 06°15'41" | Lith-Sgeir |
+| 3\. | 58°30'44" | 06°16'55" | Gealltiug |
+| 4\. | 58°29'09" | 06°20'17" | Dell Rock |
+| 5\. | 58°18'28" | 06°47'45" | Tiumpan Head |
+| 6\. | 58°17'36" | 06°52'43" | Màs Sgeir |
+| 7\. | 58°17'09" | 06°55'20" | Old Hill |
+| 8\. | 58°14'30" | 07°02'06" | Gallan Head |
+| 9\. | 58°14'01" | 07°02'57" | Islet SW of Gallan Head |
+| 10\. | 58°10'39" | 07°06'54" | Eilean Molach |
+| 11\. | 57°59'08" | 07°17'42" | Gasker |
+| 12\. | 57°41'19" | 07°43'13" | Haskeir Eagach |
+| 13\. | 57°32'22" | 07°43'58" | Huskeiran |
+| 14\. | 57°14'33" | 07°27'44" | Rubha Ardvule |
+| 15\. | 57°00'50" | 07°31'42" | Greuab Head |
+| 16\. | 56°58'07" | 07°33'24" | Doirlinn Head |
+| 17\. | 56°56'57" | 07°34'17" | Aird a'Chaolais |
+| 18\. | 56°56'05" | 07°34'55" | Biruaslum |
+| 19\. | 56°49'21" | 07°39'32" | Guarsay Mor |
+| 20\. | 56°48'00" | 07°39'57" | Sron an Duin |
+| 21\. | 56°47'07" | 07°39'36" | Skate Point |
+| 22\. | 56°19'17" | 07°07'02" | Skerryvore |
+| 23\. | 56°07'58" | 06°38'00" | Dubh Artach |
+| 24\. | 55°41'36" | 06°32'02" | Frenchman’s Rocks |
+| 25\. | 55°40'24" | 06°30'59" | Orsay Island |
+| 26\. | 55°35'24" | 06°20'18" | Mull of Oa |
+| 27\. | 55°17'57" | 05°47'54" | Mull of Kintyre |
+| 28\. | 54°58'29" | 05°11'07" | Laggan |
+
+(This note is not part of the Order)
+
+This Order amends the Schedule to the Territorial Waters Order in Council 1964 by adding a new baseline between the Mull of Kintyre and Laggan, as well as by making minor changes to points 5, 9 and 22, which result from the publication of a new larger scale chart of the area.
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c. 49](https://www.legislation.gov.uk/ukpga/1987/49).
+
+[^f00002]: Footnote: 1965 III, p. 6452A; revised Schedules were substituted by the Territorial Waters (Amendment) Order in Council 1979 and the Territorial Sea (Amendment) Order 1996.
+
+[^f00003]: Footnote: S.I. [1996/1628](https://www.legislation.gov.uk/uksi/1996/1628).

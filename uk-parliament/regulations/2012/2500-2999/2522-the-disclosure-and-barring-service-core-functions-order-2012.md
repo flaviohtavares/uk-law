@@ -1,0 +1,134 @@
+---
+title: The Disclosure and Barring Service (Core Functions) Order 2012
+id: uksi/2012/2522
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-10-03'
+text_date: '2014-03-10'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/2522
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2522/pdfs/uksiem_20122522_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2522/pdfs/uksi_20122522_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2522/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Disclosure and Barring Service (Core Functions) Order 2012
+
+> Text as at 2014-03-10.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 2522
+
+Children And Young Persons, England and Wales
+
+Protection Of Vulnerable Adults, England and Wales
+
+The Disclosure and Barring Service (Core Functions) Order 2012
+
+Made
+
+3rd October 2012
+
+Laid before Parliament
+
+5th October 2012
+
+Coming into force
+
+1st December 2012
+
+The Secretary of State makes the following Order in exercise of the powers conferred by paragraph 8(1)(d) of Schedule 8 to the Protection of Freedoms Act 2012[^f00001].
+
+## 1. Citation, commencement, extent and interpretation[^key-f8f12018bdab7646df305371e4800a4b]
+
+(1) This Order may be cited as the Disclosure and Barring Service (Core Functions) Order 2012 and comes into force on 1st December 2012.
+
+(2) This Order extends to England and Wales.
+
+(3) In this Order “the 1997 Act” means the Police Act 1997[^f00002].
+
+## 2. Core functions under Part 5 of the Police Act 1997[^key-44a84c18af80a332371f551497cfddb8]
+
+The following functions are specified as core functions of the Disclosure and Barring Service[^f00003] under Part 5 of the 1997 Act for the purposes of Schedule 8 to the Protection of Freedoms Act 2012—
+
+- (a) treating an application under section 113A[^f00004] of the 1997 Act as an application under section 113B[^f00005] of the 1997 Act and vice versa (in accordance with sections 113A(5) and 113B(7) of the 1997 Act);
+- (b) determining the conditions on which an application under section 113A or 113B of the 1997 Act can be transmitted electronically (in accordance with sections 113A(2A) and 113B(2A) of the 1997 Act;
+- (c) the identification of the relevant chief officer under section 113B(9) of the 1997 Act;
+- (d) imposing any conditions concerning information to be provided in relation to a request for update information under section 116A(2)[^f00006] of the 1997 Act;
+- (e)[^key-a645cbeca82c6a5339b7810a752b5d74] handling any disputes raised under section 117 of the 1997 Act, except for any disputes raised in relation to the accuracy of information contained in a criminal conviction certificate within the meaning of section 112 of the 1997 Act;
+- (f)[^key-40d26630dc040f1c3f4f5466633b4caf] verifying identity under section 118 of the 1997 Act, except in relation to an application for a criminal conviction certificate within the meaning of section 112 of the 1997 Act;
+- (g)[^key-b92dfdb8e137a1f0805a3eb3856d37c8] receiving information under section 119(1) of the 1997 Act, other than information made available for the purpose of carrying out functions under Part 5 of the 1997 Act relating to an application for a criminal conviction certificate within the meaning of section 112 of the 1997 Act;
+- (h) requiring information from the chief officer of police under section 119(1B)[^f00010] of the 1997 Act;
+- (i) paying such fee as the Secretary of State considers appropriate under section 119(3)[^f00011] of the 1997 Act;
+- (j) receiving information under section 119(4)[^f00012] of the 1997 Act for the purposes of considering any application for registration, any application mentioned in section 116A(4)(a) or (5)(a), or the determination of whether a person should continue to be a registered person;
+- (k) the maintenance of the register of registered persons under sections 120 and 120ZA[^f00013] of the 1997 Act;
+- (l) the refusal, cancellation or suspension of registration under sections 120A[^f00014], 120AA[^f00015], 120AB[^f00016] of the 1997 Act;
+- (m) the refusal to issue a certificate or the decision to suspend or cancel the registration of a person under section 122(3), (3A) or (3B)[^f00017] of the 1997 Act;
+- (n) the determination of forms under section 125B[^f00018] of the 1997 Act.
+
+Taylor of Holbeach
+
+Parliamentary Under-Secretary of State
+
+Home Office
+
+3rd October 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order specifies the core functions of the Disclosure and Barring Service (“DBS”) under Part 5 of the Police Act 1997 (“the 1997 Act”). Functions which are core functions of the DBS cannot be delegated to a person who is neither an appointed member nor a member of staff of the DBS (under paragraph 7 of Schedule 8 to the Protection of Freedoms Act 2012). The functions specified in article 2 of this Order are the functions under Part 5 of the 1997 Act which cannot be delegated.
+
+These functions include decision-making about what information needs to be submitted in an application for a certificate, whether a certificate was correctly applied for, setting conditions for the use of the electronic service and the up-date service, indentifying the chief officer of police for the purposes of providing information in relation to an application, dealing with disputes over certificates, verifying the identity of applicants, receiving police information and paying fees for that information and maintaining the register of persons able to countersign applications, including dealing with suspension and cancellation of that registration.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
+
+[^key-f8f12018bdab7646df305371e4800a4b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2522/article/1) in force at 1.12.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2522/article/1/1)
+
+[^f00002]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
+
+[^key-44a84c18af80a332371f551497cfddb8]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2522/article/2) in force at 1.12.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2522/article/1/1)
+
+[^f00003]: Footnote: The Disclosure and Barring Service was established by section 87(1) of the Protection of Freedoms Act 2012.
+
+[^f00004]: Footnote: Section 113A was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15). Subsection (2A) was inserted by [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203); subsection (9) was amended by section 82(3) of the Protection of Freedoms Act; there are other amendments but none relevant to this Order.
+
+[^f00005]: Footnote: Section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act 2005. Subsection (2A) was inserted by [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203); there are other amendments but none relevant to this Order.
+
+[^f00006]: Footnote: Section 116A was inserted by section 83 of the Protection of Freedoms Act 2012.
+
+[^key-a645cbeca82c6a5339b7810a752b5d74]: Textual amendment: [Art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2522/article/2/e) substituted (10.3.2014) by [The Disclosure and Barring Service (Core Functions) (Amendment) Order 2014 (S.I. 2014/238)](https://www.legislation.gov.uk/uksi/2014/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/238/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/238/article/2/2/a)
+
+[^key-40d26630dc040f1c3f4f5466633b4caf]: Textual amendment: [Art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2522/article/2/f) substituted (10.3.2014) by [The Disclosure and Barring Service (Core Functions) (Amendment) Order 2014 (S.I. 2014/238)](https://www.legislation.gov.uk/uksi/2014/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/238/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/238/article/2/2/b)
+
+[^key-b92dfdb8e137a1f0805a3eb3856d37c8]: Textual amendment: [Art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2522/article/2/g) substituted (10.3.2014) by [The Disclosure and Barring Service (Core Functions) (Amendment) Order 2014 (S.I. 2014/238)](https://www.legislation.gov.uk/uksi/2014/238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/238/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/238/article/2/2/c)
+
+[^f00010]: Footnote: Section 119(1B) was inserted by section 63 of, and paragraph 14 of Schedule 9 to, the Safeguarding Vulnerable Groups Act 2006.
+
+[^f00011]: Footnote: Section 119(3) was amended by sections 325 and 423 of, and paragraph 112 of Schedule 27 and Part 7 of Schedule 34 to, the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), section 134 of the Criminal Justice and Police Act 2001, section 165 of the Serious Organised Crime and Police Act 2005 and section 1 of, and paragraphs 221 and 223 of Schedule 16 to, the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^f00012]: Footnote: Section 119(4) was amended by section 134 of the Criminal Justice and Police Act 2001 and section 115(1) of, and paragraphs 104 and 110 of Schedule 9 to, the Protection of Freedoms Act 2012.
+
+[^f00013]: Footnote: Section 120ZA was inserted by section 328 of, and paragraphs 1 and 7 of Schedule 35 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and amended by section 163 of, and paragraphs 1 and 7 of Schedule 14 to, the Serious Organised Crime and Police Act 2005 and [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203).
+
+[^f00014]: Footnote: Section 120A was inserted by section 134 of the Criminal Justice and Police Act 2001 and amended by section 328 of, and paragraphs 1 and 8 of Schedule 35 to, the Criminal Justice Act 2003, sections 163(3) and 165 of, and paragraphs 1 and 8 of Schedule 14 to, the Serious Organised Crime and Police Act 2005, section 96 of the Policing and Crime Act 2009, [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203) and section 115(1) and (2) of, and paragraphs 35 and 42 of Schedule 9 and Part 5 of Schedule 10 to, the Protection of Freedoms Act 2012.
+
+[^f00015]: Footnote: Section 120AA was inserted by section 328 of, and paragraphs 1 and 9 of Schedule 35 to, the Criminal Justice Act 2003 and amended by [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203) and section 81 of the Protection of Freedoms Act 2012.
+
+[^f00016]: Footnote: Section 120AB was inserted by section 328 of, and paragraphs 1 and 9 of Schedule 35 to, the Criminal Justice Act 2003 and amended by [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203).
+
+[^f00017]: Footnote: Section 122(3A) and (3B) was inserted by section 29 of the Safeguarding Vulnerable Groups Act 2006.
+
+[^f00018]: Footnote: Section 125B was inserted by section 97 of the Policing and Crime Act 2009 and amended by section 115(1) of, and paragraphs 104 and 117 of Schedule 9 to, the Protection of Freedoms Act 2012.

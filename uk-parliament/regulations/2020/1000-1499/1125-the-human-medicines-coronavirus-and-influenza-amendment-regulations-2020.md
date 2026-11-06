@@ -1,0 +1,552 @@
+---
+title: The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020
+id: uksi/2020/1125
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-10-15'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2020/1125
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1125/pdfs/uksiem_20201125_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1125/pdfs/uksi_20201125_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1125/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2020 No. 1125
+
+Medicines
+
+The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020
+
+Made
+
+15th October 2020
+
+Laid before Parliament
+
+16th October 2020
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State and the Minister of Health in Northern Ireland make the following Regulations in exercise of the powers conferred by section 2(2) and (5) of the European Communities Act 1972 [^c24304091]. They have been designated for the purposes of section 2(2) of that Act in relation to medicinal products [^c24304101].
+
+## 1. Citation and commencement[^key-dc5f1f4c376c6d78397e5e14575622b3][^key-dc5f1f4c376c6d78397e5e14575622b3]
+
+(1) These Regulations may be cited as the Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020.
+
+(2) Subject to paragraph (3), these Regulations come into force on the twenty-first day after the day on which they are laid before Parliament.
+
+(3) This regulation and regulations 2 (in so far as it relates to regulations 3, 4, 6, 12 and 32), 3, 4, 6, 12 and 32 come into force on the day after the day on which they are laid before Parliament.
+
+## 2. Amendment of the Human Medicines Regulations 2012[^key-75b8cbbd980dc71d33cf722f30bdbd8a][^M_I_71e0ce66-5ad1-4c06-a38e-138fc2bbc8cb]
+
+The Human Medicines Regulations 2012 [^c24304111] are amended as follows.
+
+## 3. Amendment of regulation 8[^key-4924e9492b49491ee17c372bc0e149ec][^key-4924e9492b49491ee17c372bc0e149ec]
+
+In regulation 8 [^c24304121] (general interpretation), in paragraph (1), at the appropriate place insert—
+
+> “coronavirus” and “coronavirus disease” have the meanings given in section 1(1) of the Coronavirus Act 2020 [^c24304131];
+
+; and
+
+> “**occupational health vaccinator**” means a person who is employed or engaged by a person operating an occupational health scheme, who is—
+>
+> - (a) a registered nurse, a registered midwife or, in England, a registered nursing associate;
+> - (b) an operating department practitioner, a paramedic or a physiotherapist who is registered in Part 13, 8 or 9 of the Health and Care Professions Council register; or
+> - (c) a pharmacist;
+
+.
+
+## 4. Amendment of regulation 19[^key-e9b232502013488b976555276af0ea8a][^key-e9b232502013488b976555276af0ea8a]
+
+In regulation 19 [^c24304141] (exemptions from requirement for wholesale dealer's licence), after paragraph (4) insert—
+
+> (4A) Regulation 18 does not apply in connection with the distribution by way of wholesale dealing of a medicinal product to be used for vaccination or immunisation against coronavirus or influenza virus, where the person distributing the medicinal product—
+>
+> - (a) was supplied with the medicinal product for the purposes of the administration of it under relevant arrangements;
+> - (b) is supplying the medicinal product for the purposes of the administration of it by the person to whom it is being supplied (or by a person employed or engaged by them) under relevant arrangements; and
+> - (c) is authorised by the body making the arrangements to supply the medicinal product as mentioned in sub-paragraph (b) under the relevant arrangements.
+>
+> (4B) Regulation 18 does not apply in connection with the distribution by way of wholesale dealing of a medicinal product to be supplied or administered in accordance with a protocol of the type mentioned in regulation 247, where the person distributing the medicinal product—
+>
+> - (a) was supplied with the medicinal product for the purposes of the supply or administration of it to a patient under relevant arrangements;
+> - (b) is supplying the medicinal product for the purposes of the supply or administration of it to a patient by the person to whom it is being supplied (or by a person employed or engaged by them) under relevant arrangements; and
+> - (c) is authorised by the body making the arrangements to supply the medicinal product as mentioned in sub-paragraph (b) under the relevant arrangements.
+>
+> (4C) In this regulation, “**relevant arrangements**” means—
+>
+> - (a) arrangements for the provision of services as part of—
+>   - (i) in England, the health service as defined by section 275(1) of the National Health Service Act 2006 [^c24304151],
+>   - (ii) in Scotland, the health service as defined by section 108(1) of the National Health Service (Scotland) Act 1978 [^c24304161],
+>   - (iii) in Wales, the health service as defined by section 206(1) of the National Health Service (Wales) Act 2006 [^c24304171], and
+>   - (iv) in Northern Ireland, the system of health and social care promoted under section 2(1) of the Health and Social Care (Reform) Act (Northern Ireland) 2009 [^c24304181]; or
+> - (b) arrangements for the provision of services (otherwise than as mentioned in sub-paragraph (a)) as part of the medical services of Her Majesty's Forces.
+>
+> (4D) Paragraphs (4A) to (4C) cease to have effect on 1st April 2022.
+
+.
+
+## 5. Amendment of regulation 41[^key-7bc1fe2abc30d3bf8e9176fb2e393f70]
+
+In regulation 41 (requirements as to qualified persons), in paragraph (11), after “medicinal products or” insert “ , unless conditions attached in accordance with regulation 174A(1) provide otherwise, ”.
+
+## 6. New regulation 174A[^key-b336bad8a49f8c4a05484783620dab8e][^key-b336bad8a49f8c4a05484783620dab8e]
+
+After regulation 174 (supply in response to spread of pathogenic agents etc) insert—
+
+> **174A. Conditions of temporary authorisations under regulation 174**
+>
+> (1) Where the sale or supply of a medicinal product is authorised by the licensing authority on a temporary basis under regulation 174, the licensing authority may attach conditions to that authorisation, those being conditions to which the following are subject—
+>
+> - (a) its recommendation or requirement as to the use of that product for the purposes of regulation 345; and
+> - (b) its authorisation of the sale or supply of that product.
+>
+> (2) The sale or supply of that medicinal product is not authorised by the licensing authority for the purposes of regulation 174 if—
+>
+> - (a) the sale or supply is for the purpose of any use other than the recommended or required use, as mentioned in paragraph (1)(a); or
+> - (b) a condition attached in accordance with paragraph (1) to the authorisation of the sale or supply is breached.
+>
+> (3) The use of that medicinal product is not in accordance with a recommendation or requirement of the licensing authority for the purposes of regulation 345 if—
+>
+> - (a) a condition attached in accordance with paragraph (1) to the authorisation of its sale or supply is breached; and
+> - (b) any risk of death or personal injury that is wholly or partly attributable to that breach is such that a reasonable person with relevant expertise in the subject matter of the breach would regard the breach as sufficiently serious to justify the licensing authority setting aside the recommendation or requirement.
+>
+> (4) Notwithstanding paragraph (3), the persons mentioned in regulation 345(3) are not subject to any civil liability resulting from a use of that medicinal product that was (but for the operation of that paragraph) in accordance with the recommendation or requirement of the licensing authority, if those persons were not wholly or partly responsible for the breach in question.
+>
+> (5) As soon as is reasonably practical after the end of one year beginning on the day on which the first conditions are attached in accordance with paragraph (1), the Secretary of State must—
+>
+> - (a) review the operation of this regulation with a view to evaluating whether there have been any adverse consequences for the market in medicines or for patient safety as a consequence of the operation of this regulation;
+> - (b) set out the conclusions of the review in a report; and
+> - (c) publish the report.
+
+.
+
+## 7. Amendment of regulation 229[^key-5d999c931c1b0b3d74b05a9f705b32e1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of regulation 230[^key-db0bd512ded1f78926a364f6c2f46d0d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of regulation 231[^key-fe3f31ff7bad5ee0ac14d1d563cd27b9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Amendment of regulation 233[^key-2944e0aba20d37e6810a4ebad2efb493]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Amendment of regulation 234[^key-8ba190183c16400456290ba86fdb888b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Amendment of regulation 235[^key-c943cdd811189de8d8808a3b55edfa1a][^key-c943cdd811189de8d8808a3b55edfa1a]
+
+In regulation 235 (exemption for sale, supply or administration by certain persons), after paragraph (7) insert—
+
+> (8) The following entries in Schedule 17 cease to have effect on 1st April 2022—
+>
+> - (a) in Part 2, item 6a in the table;
+> - (b) in Part 3, item 5a in the table; and
+> - (c) in Part 5, item 10a in the table.
+
+.
+
+## 13. Amendment of regulation 247[^key-512ced82bafb154935b00b009547d4a8]
+
+In regulation 247 [^c24304241] (exemption for supply in the event or anticipation of pandemic disease), in paragraph (3)(b), for “the symptoms of and” substitute “ how the medicinal product is to be used for the prevention of or as a ”.
+
+## 14. New regulation 247A[^key-135cf3a8deec96d18b1ea77a5d1d1804]
+
+After regulation 247 (exemption for supply in the event or anticipation of pandemic disease) insert—
+
+> **247A. Protocols relating to coronavirus and influenza vaccinations and immunisations**
+>
+> (1) Regulations 214, 220 and 221 do not apply to the supply or administration of a medicinal product used for vaccination or immunisation against coronavirus or influenza virus (of any type) that meets the following conditions.
+>
+> (2) Condition A is that the supply is made, or the medicinal product is administered, while a disease (which may be neither coronavirus disease nor influenza) is, or in anticipation of a disease being imminently—
+>
+> - (a) pandemic; and
+> - (b) a serious risk or potentially serious risk to human health.
+>
+> (3) Condition B is that the supply or administration is in accordance with the requirements of a protocol that is approved by the Secretary of State, the Scottish Ministers, the Welsh Ministers or the Minister of Health in Northern Ireland.
+>
+> (4) Condition C is that the protocol specifies (amongst other matters)—
+>
+> - (a) the classes of persons permitted to administer medicinal products under the protocol;
+> - (b) the process by which a person of the specified class is designated, and by whom, as a person authorised to administer medicinal products under the protocol;
+> - (c) requirements as to the recording of the name of a person who, on any particular occasion, administers a medicinal product under the protocol; and
+> - (d) requirements, where appropriate, for the supervision of a person who, on any particular occasion, administers a medicinal product under the protocol.
+>
+> (5) Condition D is that when the medicine is supplied, there is in force in relation to it—
+>
+> - (a) an authorisation by the licensing authority on a temporary basis under regulation 174;
+> - (b) before 1st January 2021, a marketing authorisation; or
+> - (c) on and after 1st January 2021, a UK marketing authorisation or, in Northern Ireland, an EU marketing authorisation.
+>
+> (6) As soon as is reasonably practical after the end of one year beginning on the day on which the first protocol approved under this regulation has effect, the Secretary of State must—
+>
+> - (a) review the operation of this regulation with a view to evaluating whether there have been any adverse consequences for the market in prescription only medicines or for patient safety as a consequence of the operation of this regulation;
+> - (b) set out the conclusions of the review in a report; and
+> - (c) publish the report.
+
+.
+
+## 15. Amendment of regulation 250[^key-eb676e67df1b21eab33ca3d317e03321]
+
+In regulation 250 (exceptions to regulation 249), after paragraph (4), insert—
+
+> (4A) A person may, in the course of a business consisting (wholly or partly) of manufacturing medicinal products or of selling products by way of wholesale dealing, sell by way of wholesale dealing a prescription only medicine to any person who by virtue of regulation 247 or 247A may supply or administer that medicine in accordance with a protocol of the types mentioned in those regulations.
+
+.
+
+## 16. Amendment of regulation 277[^key-6fd225bf0ad35f5d5dbadf0d870507fb]
+
+In regulation 277 (interpretation), in paragraph (1), at the appropriate place insert—
+
+> “**holder of a temporary authorisation**” means, where there is in force in relation to a medicinal product an authorisation by the licensing authority on a temporary basis under regulation 174 (but not an authorisation, certificate or registration as mentioned in regulation 279(a) or (b) to (d)), the person who is responsible for placing that product on the market in the United Kingdom;
+
+.
+
+## 17. Amendment of regulation 279[^key-a6c56318d75fc3a96a3fad5d2a90d214]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Amendment of regulation 280[^key-87e14b1a14d0316b0bcfb33490e556d0]
+
+In regulation 280 [^c24304261] (general principles), after paragraph (3) insert—
+
+> (4) A person may not publish an advertisement for a medicinal product in relation to which there is in force an authorisation by the licensing authority on a temporary basis under regulation 174 (but not an authorisation, certificate or registration as mentioned in regulation 279(a) or (b) to (d)), unless it is published as part of a campaign that has been approved by the Ministers.
+
+.
+
+## 19. Amendment of regulation 281[^key-dd058006709ac1edd561ee84d7dc3ff0]
+
+In regulation 281 [^c24304271] (duties of authorisation holders and registration holders), after paragraph (1) insert—
+
+> (1A) Paragraphs (3) to (5) apply to the holder of a temporary authorisation in relation to a medicinal product.
+
+.
+
+## 20. Amendment of regulation 284[^key-4148dc57d4b6ddfba5fc7ded3ce90006]
+
+In regulation 284 (prescription only medicines), in paragraph (2), after “subject to” insert “ regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.) and ”.
+
+## 21. Amendment of regulation 285[^key-ef900aa7c55a0d5d70a6dfefd67d4cf6]
+
+In regulation 285 (narcotic and psychotropic substances), in paragraph (2), after “subject to” insert “ regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.) and ”.
+
+## 22. Amendment of regulation 287[^key-4769c3ac5ae8fc33d35588b3de3fd20d]
+
+In regulation 287 (material about effects of a medicinal product), in paragraph (5), after “subject to” insert “ regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.) and ”.
+
+## 23. Amendment of regulation 291[^key-c1a12e8cb98e81482c09419b52c03a26]
+
+In regulation 291(form and content of advertisement), after paragraph (4) insert—
+
+> (5) Paragraph (2)(d) is subject to regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.).
+
+.
+
+## 24. New regulation 291A[^key-877fb5acc889b8ed54680a526e3c948d]
+
+After regulation 291 (form and content of advertisement) insert—
+
+> **291A. Campaigns relating to the suspected or confirmed spread of pathogenic agents etc.**
+>
+> (1) Regulations 284 (prescription only medicines), 285 (narcotic and psychotropic substances), 287(4)(b) (material about effects of a medicinal product) and 291(2)(d) (form and content of advertisement) do not apply to an advertisement as part of a campaign that—
+>
+> - (a) relates to the use of a medicinal product in response to the suspected or confirmed spread of—
+>   - (i) pathogenic agents,
+>   - (ii) toxins,
+>   - (iii) chemical agents, or
+>   - (iv) nuclear radiation; and
+> - (b) has been approved by the Ministers.
+>
+> (2) Before approving a campaign that relates to—
+>
+> - (a) all or any area of Scotland, the Ministers must consult the Scottish Ministers;
+> - (b) all or any areas of Wales, the Ministers must consult the Welsh Ministers.
+
+.
+
+## 25. Amendment of regulation 293[^key-33f8177221c7f40a936d4a771f351814]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 26. Amendment of regulation 294[^key-918f5ac6da35bfe5baebdc72bdae89fd]
+
+(1) Regulation 294 [^c24304291] (general requirements) is amended as follows.
+
+(2) In paragraph (2)(a), for “paragraph (3),” substitute “ paragraphs (2C) and (3), ”.
+
+(3) After paragraph (2B) insert—
+
+> (2C) Paragraph 1 of Schedule 30 does not apply in the case of a product in relation to which there is in force an authorisation by the licensing authority on a temporary basis under regulation 174.
+
+.
+
+## 27. Amendment of regulation 295[^key-d01969f61dacc70f542f7a281a1eeea1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 28. Amendment of regulation 297[^key-2401ae4f2bbed15ad9eb75d665c522e9]
+
+(1) Regulation 297 (written material accompanying promotions) is amended as follows.
+
+(2) In paragraph (1)(a), before “contains particulars” insert “ subject to paragraph (1A), ”.
+
+(3) After paragraph (1) insert—
+
+> (1A) Paragraph 1 of Schedule 30 does not apply in the case of a product in relation to which there is in force an authorisation by the licensing authority on a temporary basis under regulation 174.
+
+.
+
+## 29. Amendment of regulation 345[^key-02c511368b8497700d0ff87db8871c7e]
+
+In regulation 345 [^c24304301] (immunity from civil liability), in paragraph (3)—
+
+- (a) after sub-paragraph (a) insert—
+
+  > - (aa) if there is no holder of an authorisation for the product but the sale or supply of the product is authorised by the licensing authority on a temporary basis under regulation 174, the person responsible for placing the product on the market in the United Kingdom;
+
+  ;
+- (b) in sub-paragraph (c), for “paragraph (a) or (b); or” substitute “ sub-paragraph (a), (aa) or (b); ”;
+- (c) insert “ ; or ” at the end of sub-paragraph (d); and
+- (d) after sub-paragraph (d) insert—
+
+  > - (e) any person, not being a health care professional, who administers the product in accordance with a protocol of the type mentioned in regulation 247A.
+
+  .
+
+## 30. Amendment of regulation 346[^key-2628df8cae0644aba643e5e84b72052f]
+
+In regulation 346 [^c24304311] (review), in paragraph (2)(c)—
+
+- (a) after paragraph (xxviiia) insert—
+
+  > - (xxviiiaa) regulation 174A,
+
+  ; and
+- (b) after paragraph (xxviiig) insert—
+
+  > - (xxviiiga) regulation 247A,
+
+  .
+
+## 31. Amendment of Schedule 1[^key-784ef43ff0f3b8f8e0bfb99179cdb3d0]
+
+(1) Schedule 1 (further provisions for classification of medicinal products) is amended as follows.
+
+(2) In Part 1 [^c24304321] (descriptions of certain medicinal products to be available only on prescription), in paragraph 1—
+
+- (a) omit “and” at the end of sub-paragraph (f);
+- (b) insert “ ; and ” at the end of sub-paragraph (g); and
+- (c) after sub-paragraph (g) insert—
+
+  > - (h) a product which is authorised by the licensing authority on a temporary basis under regulation 174, in circumstances where the licensing authority has attached a condition to that authorisation to the effect that, for the duration of the temporary authorisation, the product is classified as a prescription only medicine.
+
+  .
+
+(3) In Part 2 [^c24304331] (descriptions of certain medicinal products to be available only from a pharmacy), in paragraph 3—
+
+- (a) insert “ ; and ” at the end of sub-paragraph (c); and
+- (b) after sub-paragraph (c) insert—
+
+  > - (d) a product which is authorised by the licensing authority on a temporary basis under regulation 174, in circumstances where the licensing authority has attached a condition to that authorisation to the effect that, for the duration of the temporary authorisation, it is only to be available from a pharmacy.
+
+  .
+
+## 32. Amendment of Schedule 17[^key-31191ec3a19c1dbd99c66cf5685cb8b8][^key-31191ec3a19c1dbd99c66cf5685cb8b8]
+
+(1) Schedule 17 (exemption for sale, supply or administration by certain persons) is amended as follows.
+
+(2) In Part 2 [^c24304341] (exemption from the restriction on supply of prescription only medicines), after item 6 in the table insert—
+
+|  |  |  |
+| --- | --- | --- |
+| 6a. An NHS body or a local authority operating an occupational health scheme and occupational health vaccinators employed or engaged by them. | 6b. A prescription only medicine used for vaccination or immunisation against coronavirus or influenza virus (of any type) sold or supplied to a person operating an occupational health scheme mentioned in entry 6a in response to an order in writing signed by a doctor or an occupational health vaccinator. | 6c. The supply of the medicine is in the course of an occupational health scheme mentioned in entry 6a and is made, if not by a doctor, by an occupational health vaccinator acting in accordance with the written directions of a doctor as to the circumstances in which such medicines are to be used. |
+
+(3) In Part 3 [^c24304351] (exemptions from the restriction on administration of prescription only medicines), after item 5 in the table insert—
+
+|  |  |  |
+| --- | --- | --- |
+| 5a. An NHS body or a local authority operating an occupational health scheme and occupational health vaccinators employed or engaged by them. | 5b. A prescription only medicine used for vaccination or immunisation against coronavirus or influenza virus (of any type) sold or supplied to a person operating an occupational health scheme mentioned in entry 5a in response to an order in writing signed by a doctor or an occupational health vaccinator. | 5c. The administration of the medicine is in the course of an occupational health scheme mentioned in entry 5a, and the individual administering the medicine is, if not a doctor, an occupational health vaccinator acting in accordance with the written directions of a doctor as to the circumstances in which such medicines are to be used. |
+
+(4) In Part 5 [^c24304361] (exemptions from the restrictions in regulations 220 and 221 for certain persons who supply medicinal products), after item 10 in the table insert—
+
+|  |  |  |
+| --- | --- | --- |
+| 10a. An NHS body or a local authority operating an occupational health scheme and occupational health vaccinators employed or engaged by them. | 10b. A prescription only medicine used for vaccination or immunisation against coronavirus or influenza virus (of any type) sold or supplied to a person operating an occupational health scheme mentioned in entry 10a in response to an order in writing signed by a doctor or an occupational health vaccinator. | 10c. The supply of the medicine is in the course of an occupational health scheme mentioned in entry 10a, and the individual supplying the medicine is, if not a doctor, an occupational health vaccinator acting in accordance with the written directions of a doctor as to the circumstances in which such medicines are to be used. |
+
+## 33. Amendment of Schedule 30[^key-d8a03d0c5c419bc059d8c8c3e6613abb]
+
+(1) Schedule 30 [^c24304371] (particulars for advertisements to persons qualified to prescribe or supply) is amended as follows.
+
+(2) In paragraph 2, after “holder of” insert “ the temporary authorisation or ”.
+
+(3) In paragraph 6, after “for the product” insert “ or, in the case of a product in relation to which there is in force an authorisation by the licensing authority on a temporary basis under regulation 174, the indications for the medicinal product consistent with the recommendation or requirement of the licensing authority as to the use of that product ”.
+
+(4) In paragraph 7, after “product characteristics” insert “ , or in any equivalent summary published by the holder of a temporary authorisation, ”.
+
+Signed by the authority of the Secretary of State
+
+Jo Churchill
+
+Parliamentary Under Secretary of State
+
+Department of Health and Social Care
+
+Robin Swann
+
+Minister of Health
+
+Department of Health in Northern Ireland
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Human Medicines Regulations 2012 (“**the 2012 Regulations**”), which govern the arrangements, across the United Kingdom, for the licensing, manufacture, wholesale dealing and sale or supply of medicines for human use.
+
+Subject to various exceptions, medicines for human use may only be sold or supplied if they have been granted a marketing authorisation by the licensing authority (which is either, or both, of the Secretary of State and the Minister of Health in Northern Ireland). One of those exceptions is that, in certain types of public health emergency, the licensing authority may temporarily authorise the sale or supply of medicines without marketing authorisations. These Regulations make it clear that conditions may be attached to those temporary authorisations, including classifying the product as a prescription only medicine (POM) or a pharmacy medicine and requirements in relation to qualified persons. The changes also provide for the consequences of breach of those conditions (regulations 5, 6 and 31).
+
+Subject to various exceptions in Part 12 of the 2012 Regulations but by virtue of restrictions in that Part, POMs may only be sold or supplied in accordance with a prescription of, or administered parenterally by, a health care professional classed as an appropriate practitioner. Also, subject to various exceptions in Part 12 of the 2012 Regulations but by virtue of restrictions in that Part, POMs and pharmacy medicines must be sold or supplied, by or under the supervision of a pharmacist, from a registered pharmacy. In a pandemic situation, these Regulations allow the Secretary of State, the Scottish Ministers, the Welsh Ministers or the Minister of Health in Northern Ireland to approve protocols setting aside the core Part 12 restrictions and allowing for the supply of coronavirus and influenza immunisations by persons of the classes specified in the protocol (that is, persons other than appropriate practitioners), elsewhere than at registered pharmacies – subject to compliance with the conditions set out in the protocol. As soon as is reasonably practical after one year after the first such protocol is approved, the Secretary of State must publish a report on the operation of the new protocol provisions (regulation 14).
+
+The 2012 Regulations already provided for some of the core Part 12 restrictions to be set aside by a protocol in a pandemic situation, where the POM was for the treatment of the pandemic disease. These Regulations amend those earlier protocol arrangements so they can be used for POMs that prevent, as well as POMs that treat, the pandemic disease (regulation 13). The 2012 Regulations also already provided for some or all of the core Part 12 restrictions to be set aside by instruments known as Patient Group Directions (PGDs). PGDs can generally only be used for products that have been granted marketing authorisations (or some equivalent regulatory approvals). These Regulations amend some of the provisions allowing for PGD supply so that they can also be used for POMs covered by the temporary authorisations described above (regulations 7 to 11). Another route to exceptions from the core Part 12 restrictions are a series of exceptions set out in Schedule 17, which are targeted at various practical situations such as the needs on board ships or aircraft, and occupational health schemes. The current arrangements that would allow parenteral immunisations as part of occupational health schemes limit the administration of the POMs to doctors and nurses. These Regulations allow for other specified categories of registered health care professionals to administer coronavirus and influenza immunisations as part of the occupational health schemes of local authorities and specified NHS bodies. These arrangements are time limited to 1st April 2022 (regulations 3, 12 and 32).
+
+The arrangements that allow for the supply under protocols of medicines covered by temporary authorisations mean that some persons who may not be registered health care professionals may be supplying or administering these medicines. Where a temporary authorisation is given to a medicine without a marketing authorisation for a recommended use – or, in a public health emergency, a new use is temporarily recommended for a medicine with a marketing authorisation – immunity from civil liability is given to specified persons in relation to loss or damage resulting from the use of the medicine in accordance with the licensing authority's recommendation. Prior to these Regulations, this immunity was given to registered health care professionals supplying or administering such medicines to patients but not to other individuals doing the same. These Regulations extend that immunity to persons supplying or administering such medicines under the relevant powers to issue protocols. Prior to these Regulations, this immunity already extended, in the case of medicines without marketing authorisations, to the manufacturer of the medicine but not to the person placing it on the market. These Regulations extend that immunity to the person placing the unauthorised medicine on the market. The immunity does not however extend to specified requirements under consumer protection legislation, nor to where a person who would otherwise be able to claim the immunity is responsible for a sufficiently serious breach of the conditions attached by the licensing authority to the product's supply (regulations 6 and 29).
+
+Sale or supply of a medicine other than at the final stage of the medicines supply chain normally requires a wholesale dealer's licence. Both as part of a campaign for influenza or coronavirus immunisations, or in a case of a campaign for distribution of medicines for the prevention or treatment of pandemic disease for supply under protocols, the possibility exists that the NHS providers at the final stage of the supply chain will need to share stock between them to ensure the campaign runs as efficiently as possible. Subject to authorisation from the relevant NHS commissioners, these Regulations will allow such sharing without a wholesale dealer's licence until 1st April 2022 (regulation 4). Such campaigns may also require the delivery of medicines to persons who would not normally be supplying or administering medicines to patients, and these Regulations permit such unusual deliveries, if they are to persons who are able to supply or administer the medicines under the relevant protocols (regulation 15).
+
+Part 14 of the 2012 Regulations contains a number of restrictions relating to the advertising of medicines. Persons are only allowed to advertise medicines if they have marketing authorisations, or some equivalent regulatory approvals, and this is extended to allow advertising of medicines covered by the temporary authorisations described above. The requirements that would normally be placed on the marketing authorisation holder are instead placed on the person responsible for placing the product without a marketing authorisation on the market – and some of these are adapted to take account of the fact that there is no marketing authorisation in place (regulations 16 to 19 and 25). Advertising of medicines to the public, for example of POMs, is significantly restricted by Part 14, but there are already exceptions for approved vaccination campaigns, and a parallel exception is created for approved campaigns relating to the sort of public health emergencies that may lead to the temporary authorisations described above (although approved campaigns would not be limited to medicines covered by temporary authorisations) (regulations 20 to 24). There are special requirements for advertisements wholly or mainly directed at persons qualified to prescribe the medicines in question, and these are also adapted to take account of the new arrangements for temporary authorisations (regulations 26 to 29 and 33).
+
+The review provision in the 2012 Regulations has also been modified to take account of these Regulations (regulation 30).
+
+## Annotations
+
+[^c24304091]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Section 2(5) was amended by section 41(1) of, and Part 1 of Schedule 6 to, the [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36). Section 2 has been repealed by section 1 of the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) (“**the 2018 Act**”) but, until IP completion day, it continues to have effect, by virtue of subsection (2) of section 1[A of the 2018 Act (inserted by section 1 of the European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) (“**the 2020 Act**”)), as provided by subsections (3) to (5) of that section. For these purposes, “**IP completion day**” has the meaning given in section 39 of the 2020 Act.
+
+[^c24304101]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^key-dc5f1f4c376c6d78397e5e14575622b3]: Commencement: Reg. 1 in force at 17.10.2020, see reg. 1(3)
+
+[^key-75b8cbbd980dc71d33cf722f30bdbd8a]: Commencement: Reg. 2 in force at 17.10.2020 for specified purposes, see reg. 1(3)
+
+[^M_I_71e0ce66-5ad1-4c06-a38e-138fc2bbc8cb]: Commencement: Reg. 2 in force in so far as not already in force at 6.11.2020, see reg. 1(2)
+
+[^c24304111]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^key-4924e9492b49491ee17c372bc0e149ec]: Commencement: Reg. 3 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+
+[^c24304121]: Marginal citation: [Regulation 8](https://www.legislation.gov.uk/uksi/2020/1125/regulation/8) has been amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855), 2015/1503, 2016/186, 190 and 696, 2017/715, 2018/199 and 2019/62, 593, 703, 775 and 1094.
+
+[^c24304131]: Marginal citation: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
+
+[^key-e9b232502013488b976555276af0ea8a]: Commencement: Reg. 4 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+
+[^c24304141]: Marginal citation: [Regulation 19](https://www.legislation.gov.uk/uksi/2020/1125/regulation/19) has been amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and 2019/775.
+
+[^c24304151]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). There are amendments to section 275(1), but none of them are relevant.
+
+[^c24304161]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). There are amendments to section 108(1), but none of them are relevant.
+
+[^c24304171]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42). There are amendments to section 206(1), but none of them are relevant.
+
+[^c24304181]: Marginal citation: [2009 c. 1 (N. I.)](https://www.legislation.gov.uk/nia/2009/1).
+
+[^key-7bc1fe2abc30d3bf8e9176fb2e393f70]: Commencement: Reg. 5 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-b336bad8a49f8c4a05484783620dab8e]: Commencement: Reg. 6 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+
+[^key-5d999c931c1b0b3d74b05a9f705b32e1]: Textual amendment: Reg. 7 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/a)
+
+[^key-db0bd512ded1f78926a364f6c2f46d0d]: Textual amendment: Reg. 8 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/b)
+
+[^key-fe3f31ff7bad5ee0ac14d1d563cd27b9]: Textual amendment: Reg. 9 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(c)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/c)
+
+[^key-2944e0aba20d37e6810a4ebad2efb493]: Textual amendment: Reg. 10 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(d)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/d)
+
+[^key-8ba190183c16400456290ba86fdb888b]: Textual amendment: Reg. 11 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(e)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/e)
+
+[^key-c943cdd811189de8d8808a3b55edfa1a]: Commencement: Reg. 12 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+
+[^key-512ced82bafb154935b00b009547d4a8]: Commencement: Reg. 13 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^c24304241]: Marginal citation: [Regulation 247](https://www.legislation.gov.uk/uksi/2020/1125/regulation/247) has been amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
+
+[^key-135cf3a8deec96d18b1ea77a5d1d1804]: Commencement: Reg. 14 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-eb676e67df1b21eab33ca3d317e03321]: Commencement: Reg. 15 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-6fd225bf0ad35f5d5dbadf0d870507fb]: Commencement: Reg. 16 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-a6c56318d75fc3a96a3fad5d2a90d214]: Textual amendment: Reg. 17 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(f)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/f)
+
+[^key-87e14b1a14d0316b0bcfb33490e556d0]: Commencement: Reg. 18 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^c24304261]: Marginal citation: [Regulation 280](https://www.legislation.gov.uk/uksi/2020/1125/regulation/280) has been amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
+
+[^key-dd058006709ac1edd561ee84d7dc3ff0]: Commencement: Reg. 19 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^c24304271]: Marginal citation: [Regulation 281](https://www.legislation.gov.uk/uksi/2020/1125/regulation/281) has been amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
+
+[^key-4148dc57d4b6ddfba5fc7ded3ce90006]: Commencement: Reg. 20 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-ef900aa7c55a0d5d70a6dfefd67d4cf6]: Commencement: Reg. 21 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-4769c3ac5ae8fc33d35588b3de3fd20d]: Commencement: Reg. 22 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-c1a12e8cb98e81482c09419b52c03a26]: Commencement: Reg. 23 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-877fb5acc889b8ed54680a526e3c948d]: Commencement: Reg. 24 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-33f8177221c7f40a936d4a771f351814]: Textual amendment: Reg. 25 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(g)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/g)
+
+[^key-918f5ac6da35bfe5baebdc72bdae89fd]: Commencement: Reg. 26 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^c24304291]: Marginal citation: [Regulation 294](https://www.legislation.gov.uk/uksi/2020/1125/regulation/294) has been amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
+
+[^key-d01969f61dacc70f542f7a281a1eeea1]: Textual amendment: Reg. 27 revoked (31.12.2020 immediately after [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) comes into force) by [The Human Medicines (Coronavirus) (Further Amendments) Regulations 2020 (S.I. 2020/1594)](https://www.legislation.gov.uk/uksi/2020/1594), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/1/3), [2(h)](https://www.legislation.gov.uk/uksi/2020/1594/regulation/2/h)
+
+[^key-2401ae4f2bbed15ad9eb75d665c522e9]: Commencement: Reg. 28 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^key-02c511368b8497700d0ff87db8871c7e]: Commencement: Reg. 29 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^c24304301]: Marginal citation: [Regulation 345](https://www.legislation.gov.uk/uksi/2020/1125/regulation/345) has been amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
+
+[^key-2628df8cae0644aba643e5e84b72052f]: Commencement: Reg. 30 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^c24304311]: Marginal citation: [Regulation 346(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/346/2) has been amended by [S.I. 2013/2593](https://www.legislation.gov.uk/uksi/2013/2593), 2014/490, 2015/323, 903 and 1503, 2016/186, 2017/715, 2018/199 and 2019/62 and 775.
+
+[^key-784ef43ff0f3b8f8e0bfb99179cdb3d0]: Commencement: Reg. 31 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^c24304321]: Marginal citation: [Part 1](https://www.legislation.gov.uk/uksi/2020/1125/part/1) has been amended by [S.I. 2014/490](https://www.legislation.gov.uk/uksi/2014/490) and 2019/775.
+
+[^c24304331]: Marginal citation: [Part 2](https://www.legislation.gov.uk/uksi/2020/1125/part/2) has been amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
+
+[^key-31191ec3a19c1dbd99c66cf5685cb8b8]: Commencement: Reg. 32 in force at 17.10.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/3)
+
+[^c24304341]: Marginal citation: [Part 2](https://www.legislation.gov.uk/uksi/2020/1125/part/2) has been amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878), 2015/1503, 2016/186 and 2019/62.
+
+[^c24304351]: Marginal citation: [Part 3](https://www.legislation.gov.uk/uksi/2020/1125/part/3) has been amended by [S.I. 2014/490](https://www.legislation.gov.uk/uksi/2014/490) and 2017/715.
+
+[^c24304361]: Marginal citation: [Part 5](https://www.legislation.gov.uk/uksi/2020/1125/part/5) has been amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878), 2015/1503, 2018/199 and 2019/62, 598 and 703.
+
+[^key-d8a03d0c5c419bc059d8c8c3e6613abb]: Commencement: Reg. 33 in force at 6.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2)
+
+[^c24304371]: Marginal citation: [Schedule 30](https://www.legislation.gov.uk/uksi/2020/1125/schedule/30) has been amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878) and 2019/775.

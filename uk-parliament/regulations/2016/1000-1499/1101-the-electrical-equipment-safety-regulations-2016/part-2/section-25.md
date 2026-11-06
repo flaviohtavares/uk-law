@@ -1,0 +1,23 @@
+---
+title: The Electrical Equipment (Safety) Regulations 2016, section 25
+act: The Electrical Equipment (Safety) Regulations 2016
+section: '25'
+status: revised
+text_date: '2024-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/1101/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electrical Equipment (Safety) Regulations 2016, section 25
+
+> Text as at 2024-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25. Duty to act with due care
+
+*Extent: E+W+S+N.I.*
+
+When making electrical equipment available on the market, a distributor must act with due care to ensure that it is in conformity with Part 2.

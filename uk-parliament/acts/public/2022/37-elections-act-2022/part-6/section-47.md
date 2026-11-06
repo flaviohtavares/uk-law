@@ -1,0 +1,54 @@
+---
+title: Elections Act 2022, section 47
+act: Elections Act 2022
+section: '47'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/37/section/47
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Elections Act 2022, section 47
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/37
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 47. Exceptions to section 41[^key-bb8c0dc422bb033e1d1fe760a531cbb7][^key-1455ca396b43e0bb0dd6f1090ba2606e]
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 41 does not apply to the republication of electronic material if—
+
+- (a) when it was previously published—
+  - (i) section 41 applied to it, and
+  - (ii) it was published in compliance with that section, and
+- (b) it is not materially altered when it is republished.
+
+(2) In subsection (1)(b) the reference to electronic material not being materially altered includes a reference to the electronic material retaining—
+
+- (a) the information within section 41(3), or
+- (b) the access to such information,
+
+as a result of which its previous publication complied with section 41.
+
+(3) Section 41 does not apply to the publication of electronic material on a website or mobile application whose primary purpose, or one of whose primary purposes, is the publication of journalism created for publication on the website or mobile application, unless the electronic material consists of an advertisement.
+
+(4) In subsection (3) “**mobile application**” means application software designed and developed for use by the general public on mobile devices such as smartphones and tablets.
+
+(5) Section 41 does not apply to any party political broadcast or referendum campaign broadcast included by a broadcaster in its broadcasting services.
+
+(6) In subsection (5)—
+
+- “**broadcaster**” has the meaning given in section 37(2) of PPERA;
+- “**referendum campaign broadcast**” has the meaning given in section 127(2) of PPERA.
+
+(7) The Secretary of State may by regulations amend this section so as to add, modify or remove cases to which section 41 does not apply.
+
+## Annotations
+
+[^key-bb8c0dc422bb033e1d1fe760a531cbb7]: Commencement: S. 47 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+
+[^key-1455ca396b43e0bb0dd6f1090ba2606e]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/37/section/47) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

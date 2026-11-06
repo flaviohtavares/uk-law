@@ -1,0 +1,1407 @@
+---
+title: The Armed Forces (Summary Hearing and Activation of Suspended Sentences of Service Detention) Rules 2009
+id: uksi/2009/1216
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-05-07'
+text_date: '2023-11-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/1216
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/1216/pdfs/uksiem_20091216_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1216/pdfs/uksi_20091216_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1216/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Armed Forces (Summary Hearing and Activation of Suspended Sentences of Service Detention) Rules 2009
+
+> Text as at 2023-11-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 1216
+
+Defence
+
+The Armed Forces (Summary Hearing and Activation of Suspended Sentences of Service Detention) Rules 2009
+
+Made
+
+7th May 2009
+
+Laid before Parliament
+
+14th May 2009
+
+Coming into force
+
+31st October 2009
+
+The Secretary of State makes the following Rules in exercise of the powers conferred by section 153 of the Armed Forces Act 2006[^f00001]:
+
+## PART 1 — Preliminary Provisions and Delegation
+
+### 1. Citation and commencement[^key-33f4d88b3a267b260ce6f55a60934ce1]
+
+These Rules may be cited as the Armed Forces (Summary Hearing and Activation of Suspended Sentences of Service Detention) Rules 2009 and shall come into force on 31st October 2009.
+
+### 2. Interpretation[^key-81a5fa11806c1ebea4fc454376d8c9eb]
+
+(1) In these Rules—
+
+- “the Act” means the Armed Forces Act 2006;
+- “activation order” means an order under section 193 of the Act;
+- “charge sheet” has the same meaning as in regulations made under section 128 of the Act;
+- “disciplinary record” means all formal disciplinary records of the accused maintained and held by any of Her Majesty’s forces;
+- “subordinate commander” means an officer under the command of the commanding officer who is of at least the rank of naval lieutenant, military or marine captain or flight lieutenant.
+
+(2) References in these rules to an accused’s assisting officer are to be construed in accordance with rule 10.
+
+(3) References in these Rules to a person’s rank or rate are—
+
+- (a) where he holds no acting rank or rate, to his substantive rank or rate;
+- (b) where he holds an acting rank or rate, to that rank or rate.
+
+(4) References in these Rules to a charge brought against a person include a charge that has been substituted for another charge.
+
+(5) References in these Rules to proven offences are to—
+
+- (a) offences in respect of which a charge has been brought, where—
+  - (i) the charge has been found by an officer or the Summary Appeal Court to be proved, and
+  - (ii) that finding has not been quashed;
+- (b) service offences of which a person is convicted; and
+- (c) offences in the British Islands of which a person is convicted.
+
+### 3. Delegation and subordinate commanders[^key-cf70a2af5f9313d0ab25274c2e37f49b]
+
+(1) Subject to paragraphs (3) and (4), a commanding officer may delegate to a subordinate commander his relevant functions in relation to a charge, subject to such conditions as the commanding officer considers appropriate.
+
+(2) Subject to paragraph (5), where a commanding officer makes a delegation to a subordinate commander under paragraph (1) in relation to a charge, the subordinate commander has all of the commanding officer’s relevant functions in relation to the charge.
+
+(3) A commanding officer shall not make a delegation under paragraph (1) in relation to a charge—
+
+- (a) in respect of an offence which is within section 54(2) of the Act;
+- (b) in respect of an offence alleged to have been committed by an accused during—
+  - (i) the operational period of a suspended sentence of service detention passed on him;
+  - (ii) the operational period of a suspended sentence of imprisonment passed on him by the Court Martial, the Court Martial Appeal Court or the Supreme Court on an appeal brought from the Court Martial Appeal Court;
+  - (iii) the term of an order made under section 211 of the Act; or
+- (c) brought against a person above the rank or rate of chief petty officer, marine colour sergeant, military staff sergeant, or flight sergeant.
+
+(4) A commanding officer shall not make a delegation under paragraph (1) to a subordinate commander of the rank of naval lieutenant, military or marine captain or flight lieutenant in relation to a charge brought against a person above the rank or rate of leading rate, military or marine corporal or air force corporal.
+
+(5) A subordinate commander to whom a delegation has been made under paragraph (1) may not—
+
+- (a) if he is of the rank of naval lieutenant, military or marine captain or flight lieutenant, award any punishment in column 1 of the Table in Schedule 1;
+- (b) if he is of the rank of lieutenant commander, major or squadron leader, award any punishment in column 2 of the Table in Schedule 1; or
+- (c) if he is of or above the rank of commander, lieutenant-colonel or wing commander, award any punishment in column 3 of the Table in Schedule 1.
+
+(6) Where a commanding officer has made a delegation under paragraph (1) in relation to a charge, he may revoke it in relation to that charge at any time before a determination is made as to whether or not that charge has been proved.
+
+(7) Where in relation to a charge—
+
+- (a) a delegation under paragraph (1) is revoked, and
+- (b) the subordinate commander to whom the delegation was made has complied with rule 12(2) and taken further steps in relation to the charge,
+
+the officer who hears the charge after the revocation shall proceed as if the subordinate commander had taken no further steps in relation to the charge after complying with rule 12(2).
+
+(8) Where a charge in relation to which paragraph (7) applies is one which has been—
+
+- (a) amended under section 123(2)(a) of the Act,
+- (b) substituted for another charge under section 123(2)(b) of the Act, or
+- (c) added under section 123(2)(c) of the Act,
+
+the reference in paragraph (7)(b) to rule 12(2) is a reference to that rule as modified by rule 26.
+
+(9) In this rule “relevant function” means a function under Chapter 1 of Part 6 of the Act or Part 2 of these Rules.
+
+## PART 2 — Summary Hearings
+
+### 4. Application of Part 2[^key-f56496a27a64c803d26cb0b777218bc7]
+
+(1) Subject to paragraph (2), this Part applies where a charge brought against a person (“the accused”) is—
+
+- (a) capable of being heard summarily; and
+- (b) regarded for the purposes of Part 5 of the Act as allocated for summary hearing.
+
+(2) If an application made under rule 5(2) in relation to the charge is unsuccessful, these Rules shall cease to apply in relation to the charge.
+
+### 5. Applications to hear charges summarily[^key-e9e6ffed342b731b6e8b04f37368f6ed]
+
+(1) If—
+
+- (a) the charge is one in respect of an offence within section 54(2) of the Act, and
+- (b) the commanding officer is below the rank of rear admiral, major-general or air vice-marshal,
+
+this rule applies.
+
+(2) If he considers that the charge should be heard summarily the commanding officer shall make an application to higher authority for permission to hear the charge.
+
+(3) Any application under paragraph (2) shall be made as soon as reasonably practicable and shall contain—
+
+- (a) the commanding officer’s reasons for considering that the charge should be heard summarily;
+- (b) a copy of the charge sheet;
+- (c) a copy of the written evidence relevant to the charge;
+- (d) a copy of any unused written material gathered as part of the investigation of the charge;
+- (e) a copy of any disciplinary record of the accused; and
+- (f) any other material which may in the opinion of the commanding officer be relevant to the application.
+
+(4) Where an application under paragraph (2) is granted the commanding officer shall provide the accused with a copy of the notification from higher authority that the application has been granted.
+
+### 6. Applications for extended powers in relation to punishment[^key-ed70c4ed061ddb18ed55934d59f41c30]
+
+(1) If the commanding officer—
+
+- (a) is below the rank of rear admiral, major-general or air vice-marshal,
+- (b) considers that the charge should be dealt with summarily, and
+- (c) considers that his powers of punishment might be insufficient to deal with the accused if the charge is [^key-7115ab22d2760e6259825021b8917210]... proved unless he has extended powers for the purposes of one or more provisions of the Act,
+
+he shall make an application to higher authority for extended powers.
+
+(2) Any application under paragraph (1) shall be made as soon as reasonably practicable and shall contain—
+
+- (a) the commanding officer’s reasons for considering that his powers of punishment might be insufficient to deal with the accused if the charge is proved unless he has extended powers for the purposes of one or more provisions of the Act;
+- (b) a copy of the charge sheet;
+- (c) a copy of the written evidence relevant to the charge;
+- (d) a copy of any unused written material gathered as part of the investigation of the charge;
+- (e) a copy of any disciplinary record of the accused;
+- (f) details of all provisions for the purposes of which the commanding officer considers he needs extended powers; and
+- (g) any other material which may in the opinion of the commanding officer be relevant to the application.
+
+(3) Where an application under paragraph (1) is granted the commanding officer shall provide the accused with a copy of the notification from higher authority that the application has been granted.
+
+### 7. Applications for extended powers in relation to activation orders[^key-0f6ce68435c33b5c5d9d990740809e11]
+
+(1) If the commanding officer—
+
+- (a) is below the rank of rear admiral, major-general or air vice-marshal, and
+- (b) considers that his powers might be insufficient to deal with the accused if the charge is proved unless he has extended powers for the purposes of section 194 of the Act,
+
+he shall make an application to higher authority for extended powers for the purposes of section 194.
+
+(2) Any application under paragraph (1) shall be made as soon as reasonably practicable and shall contain—
+
+- (a) the commanding officer’s reasons for considering that his powers might be insufficient to deal with the accused if the charge is proved unless he has extended powers for the purposes of section 194;
+- (b) a copy of the written record of the summary hearing, or a copy of any record of the proceedings before the Summary Appeal Court, at which the suspended sentence of service detention was awarded;
+- (c) such details as are known to the commanding officer of all proven offences committed by the accused during the operational period of the suspended sentence of service detention;
+- (d) copies of—
+  - (i) the written records of any summary hearings,
+  - (ii) the written records of any hearings under Part 3 of these Rules, and
+  - (iii) any records of proceedings before any of the Summary Appeal Court, the Court Martial and the Court Martial Appeal Court,
+
+  at which reasons were given for any decision not to make an order under section 191 or 193 of the Act, in relation to the suspended sentence of service detention;
+- (e) a copy of any disciplinary record of the accused;
+- (f) a copy of the charge sheet;
+- (g) a copy of the written evidence relevant to the charge;
+- (h) a copy of any unused written material gathered as part of the investigation of the charge;
+- (i) any other material which may in the opinion of the commanding officer be relevant to the application.
+
+(3) Where an application under paragraph (1) is granted the commanding officer shall provide the accused with a copy of the notification from higher authority that the application has been granted.
+
+### 8. Preliminary procedures[^key-5c5f8c0efbbafc2eb30fac84b49d82ab]
+
+(1) As soon as reasonably practicable, the commanding officer or a person authorised by him shall—
+
+- (a) prepare a summary of the evidence relevant to the charge (“the case summary”);
+- (b) inform the accused in writing of—
+  - (i) his right under section 129 of the Act to elect Court Martial trial;
+  - (ii) his right under rule 10 to representation;
+  - (iii) his right under rule 15 to question witnesses whose evidence is adduced by the commanding officer;
+  - (iv) his right under rule 16 to give evidence;
+  - (v) his right under rule 17 to adduce the evidence of witnesses;
+  - (vi) the right of appeal under section 141 of the Act;
+- (c) subject to paragraph (3), provide the accused with—
+  - (i) a copy of the charge sheet;
+  - (ii) a copy of the case summary;
+  - (iii) a copy of the written evidence relevant to the charge;
+  - (iv) details of all exhibits which form part of the evidence relevant to the charge together with notice of where and when they may be inspected by the accused or his accused’s assisting officer;
+  - (v) a copy of any unused written material gathered as part of the investigation of the charge;
+  - (vi) details of any other unused material gathered as part of the investigation of the charge, together with notice of where and when it may be inspected by the accused or his accused’s assisting officer;
+  - (vii) an opportunity to inspect all exhibits which form part of the evidence relevant to the charge, and any unused non-written material;
+  - (viii) a copy of any disciplinary record of the accused;
+- (d) if this sub-paragraph applies, inform the accused in writing of—
+  - (i) the power to make an order under section 193 of the Act;
+  - (ii) the right of appeal under section 141 of the Act and the effect of section 195 of the Act;
+  - (iii) his right to make submissions under rule 23(3);
+- (e) if this sub-paragraph applies, and subject to paragraph (3), provide the accused with—
+  - (i) a copy of the written record of the summary hearing, or a copy of any record of the proceedings before the Summary Appeal Court, at which the suspended sentence of service detention was awarded;
+  - (ii) such details as are known to the commanding officer of all proven offences committed by the offender during the operational period of the suspended sentence of service detention;
+  - (iii) copies of—
+    - (aa) the written records of any summary hearings,
+    - (bb) the written records of any hearings under Part 3 of these Rules, and
+    - (cc) any records of proceedings before any of the Summary Appeal Court, the Court Martial and the Court Martial Appeal Court,
+
+    at which reasons were given for any decision not to make an order under section 191 or 193 of the Act, in relation to the suspended sentence of service detention; and
+- (f) in accordance with paragraphs (4) to (6), fix a time for the hearing and give the accused notice in writing of that time.
+
+(2) Paragraphs (1)(d) and (e) apply if the offence which is the subject of the charge is alleged to have been committed during the operational period of a suspended sentence of service detention passed on the accused by an officer or the Summary Appeal Court.
+
+(3) If the commanding officer or a person authorised by him is satisfied that the accused already has a copy of a document that is to be provided by virtue of paragraph (1)(c) or (e) he need not provide a further copy.
+
+(4) In fixing a time for the hearing the commanding officer shall allow the accused a reasonable time to prepare for the hearing.
+
+(5) If the commanding officer has made an application under any of rules 5(2), 6(1) and 7(1) he shall not fix the time for the hearing until he has received notification of the result of the application or applications.
+
+(6) The time fixed for the hearing shall be not less than 24 hours after the commanding officer has complied with—
+
+- (a) paragraph (1);
+- (b) where permission to hear the charge summarily has been granted, rule 5(4);
+- (c) where an application under rule 6(1) has been granted, rule 6(3); and
+- (d) where an application under rule 7(1) has been granted, rule 7(3).
+
+### 9. Changing the time fixed for a hearing[^key-f2198123600bca13d3af414f473af167]
+
+(1) Subject to paragraph (3), at any time before the hearing the commanding officer may fix a different time for the hearing.
+
+(2) Subject to paragraphs (3) and (4), if after the commanding officer fixes a time for the hearing—
+
+- (a) he makes an application under any of rules 5(2), 6(1) and 7(1), or
+- (b) the accused, 24 hours or less before the time fixed, requests the commanding officer’s assistance in finding a person to nominate under rule 10(1),
+
+the commanding officer shall cancel the time fixed and fix a different time for the hearing.
+
+(3) Where a different time is fixed for a hearing—
+
+- (a) it shall be fixed in accordance with rule 8(4) to (6); and
+- (b) the commanding officer shall notify the accused of it in writing.
+
+(4) Where the commanding officer fixes a different time for the hearing by virtue of paragraph (2)(b), the time fixed shall be not less than 24 hours after he has complied with rule 10(5).
+
+### 10. Representation[^key-c3ab1f7b5353c04159b968c99f145f6b]
+
+(1) Subject to paragraphs (2) and (3) the accused may nominate a person to represent him at the hearing (the “accused’s assisting officer”).
+
+(2) A person may only be nominated as an accused’s assisting officer if he—
+
+- (a) is subject to service law;
+- (b) is of at least the rank or rate of petty officer, military or marine sergeant, or air force sergeant; and
+- (c) consents to be nominated.
+
+(3) A person may only continue to act as an accused’s assisting officer while subject to service law.
+
+(4) Subject to paragraphs (2) and (3), if a person ceases to act as his accused’s assisting officer the accused may nominate another person to act in that role.
+
+(5) If the accused requests the commanding officer’s assistance in finding a person to nominate under paragraph (1), the commanding officer shall provide him with the names of at least two people available to be nominated under that paragraph.
+
+(6) Where a person consents to act as an accused’s assisting officer he may, on behalf of the accused, exercise any right of the accused to question witnesses or make submissions by virtue of this Part.
+
+### 11. Co-accused and multiple charges[^key-d41d29dc1d2e3554af0da0b498b84f08]
+
+(1) The commanding officer may at a single hearing hear—
+
+- (a) a charge brought against more than one accused; and
+- (b) charges against more than one accused if the charges are founded on the same facts.
+
+(2) If more than one charge is brought against an accused the commanding officer may at a single hearing hear—
+
+- (a) all charges which are founded on the same facts; and
+- (b) all charges in respect of offences which form, or are part of, a series of offences of the same or a similar character.
+
+### 11A. Interpretation, translation and communication through an intermediary[^key-6c17b60e5984e5b9ff1e7c9e3734203e]
+
+(1) This rule applies unless the commanding officer is satisfied that the accused does not need interpretation.
+
+(2) The commanding officer shall appoint an interpreter to act at the hearing.
+
+(3) On application or on his own initiative, the commanding officer may require a written translation of any document or part of a document to be provided for the accused, unless―
+
+- (a) translation of that document, or part, is not needed to explain the case against the accused; or
+- (b) the accused agrees to do without, and the commanding officer is satisfied—
+  - (i) that the agreement is clear and voluntary; and
+  - (ii) that the accused has had legal advice or otherwise understands the consequences.
+
+(4) If so requested by the accused, the commanding officer shall take such steps as he thinks appropriate, including the appointment of a different interpreter, where―
+
+- (a) no interpretation is provided;
+- (b) no translation is required, or provided, in response to a previous request by the accused; or
+- (c) the accused complains about the quality of any interpretation or translation provided.
+
+(5) Where the accused has a hearing or speech impediment, references in this rule to an interpreter include a person appointed—
+
+- (a) to communicate to the accused anything said at the hearing, and explain it so far as necessary to enable the accused to understand it, or
+- (b) to communicate any answers given by the accused, and any other matters that the accused seeks to convey, and explain them so far as necessary to enable the commanding officer to understand them,
+
+and references to interpretation shall be construed accordingly.
+
+### 12. Election and starting a summary hearing[^key-6f7d91e1afb2aee76040fd64854a1402]
+
+(1) Before starting the hearing the commanding officer shall—
+
+- (a) satisfy himself that the accused—
+  - (i) understands the charge or charges;
+  - (ii) has had a reasonable time to prepare for the hearing;
+- (b) if section 129(1) of the Act applies in respect of one or more charges, give the accused the opportunity to elect Court Martial trial.
+
+(2) If section 129(1) does not apply or if the accused does not elect Court Martial trial, the commanding officer or a person authorised by him shall start the hearing by—
+
+- (a) reading the charge or charges to the accused; and
+- (b) asking him to state whether he admits or denies each charge.
+
+(3) If the accused admits—
+
+- (a) all of the charges, or
+- (b) if only one charge is to be heard, that charge,
+
+rule 21 shall apply.
+
+(4) If the accused denies—
+
+- (a) one or more of the charges, or
+- (b) if only one charge is to be heard, that charge,
+
+the commanding officer shall proceed to hear the evidence and rule 13 shall apply.
+
+(5) Where the accused neither admits nor denies a charge the commanding officer shall proceed as if the accused had denied that charge.
+
+### 13. Order of evidence[^key-e218bbe99ddb817873343fb10863d35f]
+
+(1) Subject to paragraph (2), evidence at a hearing shall be heard in the following order—
+
+- (a) evidence adduced by the commanding officer under rule 15(1);
+- (b) evidence of the accused if he chooses to give evidence;
+- (c) evidence adduced by the accused;
+- (d) evidence adduced by the commanding officer under rule 15(2).
+
+(2) Where the commanding officer proceeds with a hearing after a charge has been amended, substituted or added, he may determine the order in which evidence is heard.
+
+### 14. Oaths and affirmations[^key-ab22f5db95ed4681d27283d25a99dd39]
+
+(1) No witness shall give evidence orally under any provision of these Rules unless an oath has first been administered to him.
+
+(2) Paragraphs (3) and (4) apply where an oath is required to be administered to a person by virtue of paragraph (1).
+
+(3) Sections 1 and 3 to 6 of the Oaths Act 1978[^f00002] shall apply, as modified by paragraph (4), as they would apply if the person were required to take an oath in England and Wales.
+
+(4) Where section 1 or 6 of that Act applies by virtue of this rule, the reference in that section to the words of the oath prescribed by law is to be read as a reference to the following words: “… the evidence I shall give shall be the truth, the whole truth, and nothing but the truth”.
+
+### 15. Evidence adduced by the commanding officer[^key-b8f1956c03c481686e84ab3f296ad790]
+
+(1) Subject to paragraph (2), the commanding officer may not adduce the evidence of a witness unless—
+
+- (a) that witness has made a written statement;
+- (b) a copy of the statement has been provided to the accused in accordance with rule 8(1)(c)(iii); and
+- (c) where the witness is to produce an exhibit, the commanding officer has complied with rules 8(1)(c)(iv) and (vii).
+
+(2) Where evidence given or adduced by the accused gives rise to an issue of fact—
+
+- (a) which could not have been foreseen by the commanding officer, and
+- (b) in relation to which no witness whose evidence may be adduced under paragraph (1) can give evidence,
+
+the commanding officer may adduce the evidence of a witness who can give evidence in relation to the issue.
+
+(3) Where the commanding officer adduces the evidence of a witness—
+
+- (a) if the witness has made a statement it shall be read to the accused by the commanding officer or a person authorised by him;
+- (b) the commanding officer may question the witness before giving the accused an opportunity to do so;
+- (c) the commanding officer shall give the accused an opportunity to question the witness;
+- (d) the commanding officer may question the witness after the accused has had the opportunity to do so.
+
+### 15A. Offences under sections 20(1)(a) and 20A of the Act: use of specimens[^key-3652a184b7ac83b239444dd038020636]
+
+(1) This rule and rule 15B apply to the hearing of a charge of an offence under—
+
+- (a) section 20(1)(a) of the Act (unfitness for duty through alcohol or drugs); or
+- (b) section 20A of the Act (exceeding alcohol limit for prescribed safety-critical duties).
+
+(2) In this rule and rule 15B “drug”, “**medical establishment**”, “**service police establishment**” and “**service policeman**” have the meanings given by section 93I of the Act.
+
+(3) Evidence of the proportion of alcohol or any drug in a specimen of breath, blood or urine provided by or taken from the accused shall, in all cases (including cases where the specimen was not provided or taken in connection with the alleged offence), be taken into account and, subject to paragraph (4), it shall be assumed that the proportion of alcohol in the accused’s breath, blood or urine at the time of the alleged offence was not less than in the specimen.
+
+(4) That assumption shall not be made if the accused proves—
+
+- (a) that he consumed alcohol before he provided the specimen or had it taken from him, and after the time of the alleged offence; and
+- (b) that had he not done so the proportion of alcohol in his breath, blood or urine—
+  - (i) in the case of an offence under section 20(1)(a) of the Act, would not have been such as to impair his ability to carry out the duty in question;
+  - (ii) in the case of an offence under section 20A of the Act, would not have exceeded the relevant limit (within the meaning of that section).
+
+(5) A specimen of blood shall be disregarded unless—
+
+- (a) it was taken from the accused under section 93E of the Act; or
+- (b) it was taken from the accused under section 93G of the Act and the accused subsequently gave his permission for a laboratory test of the specimen.
+
+(6) Where, at the time a specimen of blood or urine was provided by the accused, he asked to be provided with such a specimen, the commanding officer may not adduce evidence of the proportion of alcohol or any drug found in the specimen unless—
+
+- (a) the specimen in which the alcohol or drug was found is one of two parts into which the specimen provided by the accused was divided at the time it was provided; and
+- (b) the other part was supplied to the accused.
+
+(7) Where a specimen of blood was taken from the accused under section 93G of the Act, the commanding officer may not adduce evidence of the proportion of alcohol or any drug found in the specimen unless—
+
+- (a) the specimen in which the alcohol or drug was found is one of two parts into which the specimen taken from the accused was divided at the time it was taken; and
+- (b) any request to be supplied with the other part which was made by the accused at the time when he gave his permission for a laboratory test of the specimen was complied with.
+
+### 15B. Offences under sections 20(1)(a) and 20A of the Act: documentary evidence as to specimens
+
+(1) Evidence of the proportion of alcohol or any drug in a specimen of breath, blood or urine may, subject to paragraphs (3) and (4) and to rule 15A(6) and (7), be given by the production of a document or documents purporting to be whichever of the following is appropriate, that is to say—
+
+- (a) a statement automatically produced by the device by which the proportion of alcohol in a specimen of breath was measured and a certificate signed by a service policeman (which may but need not be contained in the same document as the statement) that the statement relates to a specimen provided by the accused at the date and time shown in the statement; and
+- (b) a certificate signed by an authorised analyst as to the proportion of alcohol or any drug found in a specimen of blood or urine identified in the certificate.
+
+(2) Subject to paragraphs (3) and (4), evidence that a specimen of blood was taken from the accused with his consent by a registered medical practitioner or a registered nurse may be given by the production of a document purporting to certify that fact and to be signed by a registered medical practitioner or registered nurse.
+
+(3)  Subject to paragraph (4)—
+
+- (a) the commanding officer may, in pursuance of this rule, adduce in evidence a document purporting to be such a statement or such a certificate (or both such a statement and such a certificate) as is mentioned in paragraph (1)(a) only if the accused was handed a copy of it when the document was produced, or has been provided with a copy not later than seven days before the hearing; and
+- (b) the commanding officer may so adduce any other document only if the accused has been provided with a copy of it not later than seven days before the hearing.
+
+(4) The commanding officer may not so adduce a document purporting to be a certificate (or so much of a document as purports to be a certificate) if the accused, not later than three days before the hearing or within such further time as the commanding officer may in special circumstances allow, has notified the commanding officer that he requires the attendance at the hearing of the person by whom the document purports to be signed.
+
+(5) In this rule “**authorised analyst**” means—
+
+- (a) any person possessing the qualifications prescribed by regulations made under section 27 of the Food Safety Act 1990 as qualifying persons for appointment as public analysts under that Act; and
+- (b) any other person authorised by the Secretary of State to make analyses for the purposes of section 16 of the Road Traffic Offenders Act 1988 or this rule.
+
+### 16. Evidence given by the accused[^key-28d7dec1095fd00dc73da21d0a2e4157]
+
+(1) The accused may give evidence but shall not be compelled to do so.
+
+(2) If the accused gives evidence he may do so orally or in writing and the commanding officer may question him.
+
+(3) If the accused gives evidence in writing his evidence shall be read to the commanding officer by the accused or his accused’s assisting officer.
+
+### 17. Evidence adduced by the accused[^key-a3d6de2cc35e34c4a94f83b7b82a3b67]
+
+(1) Where the time fixed for the hearing is 48 hours or more after the commanding officer has complied with rule 8(1) the accused may not adduce the evidence of a witness unless—
+
+- (a) he has notified the commanding officer not less than 24 hours before the hearing that he wishes to adduce the evidence of the witness; or
+- (b) he has the permission of the commanding officer.
+
+(2) Where the accused adduces the evidence of a witness—
+
+- (a) such evidence may be given orally or in writing;
+- (b) if the witness gives evidence in writing—
+  - (i) his evidence shall be read to the commanding officer by the accused or his accused’s assisting officer; and
+  - (ii) the accused shall provide the commanding officer with a copy of the evidence;
+- (c) the commanding officer shall give the accused an opportunity to question the witness; and
+- (d) the commanding officer may question the witness after the accused has had the opportunity to do so.
+
+### 18. Further questioning of witnesses[^key-f24a893e9aa402a8213a616b115cfb79]
+
+(1) Where he considers that it would be in the interests of fairness to the accused to do so, the commanding officer may at any time before determining whether or not the charge has been proved give the accused a further opportunity to question any witness whose evidence has been adduced.
+
+(2) Where the accused has had an opportunity to question a witness by virtue of paragraph (1), the commanding officer may question the witness.
+
+### 19. Equivocal admissions[^key-f0312f9b1adeb16906286f1fd5257205]
+
+If at any time in the course of the hearing the commanding officer is of the opinion that an assertion of fact made by the accused after admitting the charge would have amounted to a defence to the charge if it had been raised as such and proved, he shall proceed to hear the charge as if the accused had denied it.
+
+### 20. Procedure at the conclusion of the evidence[^key-6db557d93b61a84a5b95ba6402f75d46]
+
+(1) At the conclusion of the evidence the accused may address the commanding officer on any matter.
+
+(2) After hearing the evidence and any address from the accused the commanding officer shall determine whether or not each charge denied by the accused has been proved and record his finding.
+
+(3) The commanding officer shall not determine that a charge that was denied has been proved unless, on the basis of all of the evidence heard, he is sure that the accused committed the offence charged.
+
+(4) Rule 22 shall apply in relation to all charges—
+
+- (a) which were denied and determined to have been proved;
+- (b) which were admitted but in respect of which evidence was heard by virtue of rule 12(4).
+
+### 21. Determination of facts on admission of all charges[^key-547a45b716e61f093298341c10a9c0dc]
+
+(1) Where this rule applies—
+
+- (a) the commanding officer or a person authorised by him shall read the case summary to the accused; and
+- (b) the commanding officer shall ask the accused whether he disputes any of the facts contained in the case summary.
+
+(2) If the accused does not dispute any of the facts contained in the case summary the commanding officer shall treat them as the facts of the case for the purposes of sentencing and rule 22 shall apply.
+
+(3) If—
+
+- (a) the accused disputes any of the facts contained in the case summary, and
+- (b) the commanding officer considers that any of the disputed facts is relevant to sentencing,
+
+he shall determine the facts of the case for the purposes of sentencing and rule 22 shall apply.
+
+(4) For the purposes of making a determination under paragraph (3) the commanding officer shall—
+
+- (a) assume that any undisputed facts contained in the case summary are true; and
+- (b) hear evidence on the disputed facts from—
+  - (i) such witnesses as he considers can give relevant evidence; and
+  - (ii) the accused if he wishes to give evidence.
+
+(5) In determining which witnesses can give relevant evidence for the purposes of paragraph (4)(b)(i) the commanding officer shall take into account any submissions of the accused on that matter.
+
+(6) Where a witness is called to give evidence for the purposes of a determination under paragraph (3)—
+
+- (a) the witness shall give evidence orally;
+- (b) the commanding officer shall give the accused an opportunity to question the witness; and
+- (c) the commanding officer may question the witness after the accused has had the opportunity to do so.
+
+### 22. Sentencing[^key-935e0a40a4ebeb0baf4770bb615f1ad8]
+
+(1) Where this rule applies the commanding officer shall give the accused an opportunity to—
+
+- (a) adduce evidence as to his character;
+- (b) make a plea in mitigation.
+
+(2) Where the accused adduces the evidence of a witness as to his character—
+
+- (a) such evidence may be given orally or in writing;
+- (b) if the witness gives evidence in writing—
+  - (i) his evidence shall be read to the commanding officer by the accused or his accused’s assisting officer; and
+  - (ii) the accused shall provide the commanding officer with a copy of the evidence;
+- (c) the commanding officer shall give the accused an opportunity to question the witness; and
+- (d) the commanding officer may question the witness after the accused has had the opportunity to do so.
+
+(3) Subject to rules 19 and 23(2), after hearing any evidence as to character and any plea in mitigation the commanding officer shall—
+
+- (a) if the accused admitted the charge, determine that the charge has been proved and record his finding;
+- (b) subject to rule 23(2) award one or more punishments, in accordance with section 131(4)(b) of the Act;
+- (c) give his reasons for deciding on the sentence passed, in accordance with section 252(1)(a) of the Act; and
+- (d) remind the accused of—
+  - (i) his right of appeal under section 141 of the Act;
+  - (ii) his right to seek independent legal advice on whether to exercise his right of appeal; and
+  - (iii) if service detention has been awarded, his right to make an election under whichever of sections 290(2) and 291(2) of the Act applies.
+
+### 23. Activation of suspended sentences of service detention[^key-26bfe5f728105ac670bab406f15c83be]
+
+(1) This rule applies where the commanding officer records a finding that a charge has been proved, and the offence was committed during the operational period of a suspended sentence of service detention passed on the accused by an officer or the Summary Appeal Court.
+
+(2) Where this rule applies, the commanding officer shall not—
+
+- (a) award one or more punishments in accordance with section 131(4)(b) of the Act before he has complied with paragraph (3); or
+- (b) make any activation order before he has complied with rule 22(1).
+
+(3) The commanding officer shall give the accused an opportunity to make submissions either orally or in writing about—
+
+- (a) the appropriateness of making an activation order;
+- (b) the appropriate terms of such an order if it were made.
+
+(4) In considering whether to make an activation order and, if such an order is to be made, what its terms should be the commanding officer shall take into account the following matters—
+
+- (a) the details of the offence or offences for which the suspended sentence of service detention was imposed;
+- (b) such details as are known to the commanding officer of all proven offences committed by the offender during the operational period of the suspended sentence of service detention;
+- (c) the reasons given for any decision not to make an order under section 191 or 193 of the Act in relation to the suspended sentence of service detention;
+- (d) any disciplinary record of the accused;
+- (e) any submissions made by the accused about the matters mentioned in paragraph (3);
+- (f) any character evidence adduced by the accused;
+- (g) any other matters that appear to the commanding officer to be relevant.
+
+(5) The commanding officer shall—
+
+- (a) inform the accused of his decision as to whether to make an activation order; and
+- (b) give his reasons for the decision.
+
+(6) If the commanding officer makes an activation order he shall—
+
+- (a) inform the accused of the terms of the order;
+- (b) remind the accused of his right of appeal under section 141 of the Act; and
+- (c) remind the accused of his right to make an election under whichever of sections 290(2) and 291(2) of the Act, as modified by section 292, applies.
+
+### 24. Adjournments[^key-a9eba91d94a32e7102ddcb9173e223cb]
+
+The commanding officer may adjourn a hearing at any point if he considers that to do so would be—
+
+- (a) in the interests of fairness to the accused; or
+- (b) expedient for any purpose and not unfair to the accused.
+
+### 25. Rectification of errors[^key-4375402f4518d581352dcb4b7b27730d]
+
+(1) Where—
+
+- (a) the commanding officer has not yet determined whether the charge has been proved, and
+- (b) there has been a failure to comply with any provision of these Rules,
+
+the commanding officer may if possible rectify the failure unless to do so would in his opinion be unfair to the accused.
+
+(2) Where—
+
+- (a) the commanding officer has determined that the charge has been proved but has not yet awarded a punishment, and
+- (b) there has been a failure to comply with rule 22 or any provision of these rules in respect of sentencing,
+
+the commanding officer may if possible rectify the failure unless to do so would in his opinion be unfair to the accused.
+
+### 26. Effect of provisions where charges are amended, substituted or added[^key-1b3c5f2b076324245436bbfb6fc48fcb]
+
+(1) This rule applies where, after the start of a summary hearing—
+
+- (a) a charge is amended under section 123(2)(a) of the Act;
+- (b) a charge is substituted for another charge under section 123(2)(b) of the Act; or
+- (c) an additional charge is brought under section 123(2)(c) of the Act.
+
+(2) In relation to the charge amended, substituted or added, these rules have effect with the following modifications.
+
+(3) Where a charge is amended, rule 8 shall apply as if the charge were a fresh charge falling within rule 4(1)
+
+(4) In rules 8 and 9—
+
+- (a) references to fixing a time for the hearing are to be read as if they were references to fixing a time for proceeding with the hearing; and
+- (b) references to the time fixed for a hearing are to be read as references to the time fixed for proceeding with that hearing.
+
+(5) References in rules 12(1) and 12(2) to starting the hearing are to be read as if they were references to proceeding with the hearing;
+
+(6) In rules 12(1)(a)(i) and 12(2)—
+
+- (a) references to a charge are to be read as references to a charge amended, substituted or added after the start of the hearing;
+- (b) references to charges are to be read as references to each charge amended, substituted or added after the start of the hearing.
+
+(7) In rule 17—
+
+- (a) the reference to the time fixed for the hearing has effect as if it were a reference to the time fixed for proceeding with the hearing;
+- (b) the reference to compliance with rule 8(1) means compliance with that rule in relation to all amended, substituted or additional charges.
+
+### 27. Written record[^key-18aeed3119ae1d2b596d786c44af245a]
+
+(1) The commanding officer shall produce a written record of the hearing containing the following matters—
+
+- (a) the name, rank or rate and service number of the accused;
+- (b) the date and time of the hearing;
+- (c) details of the charge or charges heard;
+- (d) whether the accused admitted or denied each charge;
+- (e) any determination that a charge has been proved;
+- (f) any dismissal of a charge;
+- (g) details of all punishments awarded;
+- (h) any orders made;
+- (i) any reasons given in accordance with section 252(1)(a) of the Act;
+- (j) the discontinuance, after the start of the hearing, of proceedings on any charge;
+- (k) any referral, after the start of the hearing, of a charge to the Director of Service Prosecutions;
+- (ka)[^key-2cc875dc56a06b9c9d3faa96d53dde8a] the identity of any interpreter;
+- (kb) any decision on an application under rule 11A(3);
+- (kc) any agreement under rule 11A(3)(b) to do without a written translation of a document or part of a document;
+- (kd) any steps taken under rule 11A(4);
+- (l) such other matters as he considers should be recorded.
+
+(2) If the power to make an activation order arose in the course of the hearing, the written record shall also contain the commanding officer’s reasons for his decision whether or not to make such an order.
+
+(3) Where a written record has been produced in accordance with paragraph (1) in a case where a charge has been determined to have been proved the commanding officer shall, as soon as reasonably practicable after the hearing, provide the accused with a copy of it.
+
+### 28. Notification to court administration officer[^key-447d179fad83c06f540d89b2be377fdf]
+
+(1) Where the commanding officer records a finding that a charge has been proved, and the offence was committed during the operational period of a relevant sentence passed on the accused by—
+
+- (a) the Court Martial,
+- (b) the Court Martial Appeal Court, or
+- (c) the Supreme Court on an appeal brought from the Court Martial Appeal Court,
+
+the commanding officer shall notify the court administration officer of the finding and provide him with a copy of the written record.
+
+(2) In this Rule, “the operational period of a relevant sentence” means—
+
+- (a) the operational period of a suspended sentence of service detention;
+- (b) the operational period of a suspended sentence of imprisonment;
+- (c) the term of an order made under section 211 of the Act.
+
+## PART 3 — Hearings as Regards the Making of Activation Orders
+
+### 29. Application of Part 3[^key-2d223c07b530775bf1abde3d108ddc1d]
+
+This Part applies where—
+
+- (a) an offender has been convicted of an offence in the British Islands which was committed during the operational period of a suspended sentence of service detention passed on him by an officer or the Summary Appeal Court; and
+- (b) the offender’s commanding officer has decided to hold a hearing as regards the making of an activation order.
+
+### 30. Applications for extended powers where Part 3 applies[^key-fd2cd5522646f93b59f0b202efb9ad65]
+
+(1) If the commanding officer—
+
+- (a) is below the rank of rear admiral, major-general or air vice-marshal, and
+- (b) considers that his powers might be insufficient to deal with the offender unless he had extended powers for the purposes of section 194,
+
+he shall make an application to higher authority for extended powers for those purposes.
+
+(2) Any application under paragraph (1) shall be made as soon as reasonably practicable and shall contain—
+
+- (a) the commanding officer’s reasons for considering that he needs extended powers for the purposes of section 194;
+- (b) a copy of the written record of the summary hearing, or a copy of any record of the proceedings before the Summary Appeal Court, at which the suspended sentence of service detention was awarded;
+- (c) such details as are known to the commanding officer of all proven offences committed by the offender during the operational period of the suspended sentence of service detention;
+- (d) copies of—
+  - (i) the written records of any summary hearings,
+  - (ii) the written records of any hearings under Part 3 of these Rules, and
+  - (iii) any records of proceedings before any of the Summary Appeal Court, the Court Martial and the Court Martial Appeal Court,
+
+  at which reasons were given for any decision not to make an order under section 191 or 193 of the Act, in relation to the suspended sentence of service detention;
+- (e) any disciplinary record of the offender; and
+- (f) any other material which may in the opinion of the commanding officer be relevant to the application.
+
+(3) Where an application under paragraph (1) is granted the commanding officer shall provide the offender with a copy of the notification from higher authority that the application has been granted.
+
+### 31. Preliminary procedures[^key-13aa2fd2c6f02f1e5b52680116b859ce]
+
+(1) The offender’s commanding officer shall as soon as reasonably practicable—
+
+- (a) inform the offender in writing of—
+  - (i) the power to make an order under section 193 of the Act;
+  - (ii) his right under rule 33 to representation;
+  - (iii) the right of appeal under section 141 of the Act;
+  - (iv) his right to make submissions under rule 34(1)(b);
+- (b) provide the offender with—
+  - (i) a copy of the written record of the summary hearing, or a copy of any record of the proceedings before the Summary Appeal Court, at which the suspended sentence of service detention was awarded;
+  - (ii) such details as are known to the commanding officer of all proven offences committed by the offender during the operational period of the suspended sentence of service detention;
+  - (iii) copies of —
+    - (aa) the written records of any summary hearings,
+    - (bb) the written records of any hearings under Part 3 of these Rules, and
+    - (cc) any records of proceedings before any of the Summary Appeal Court, the Court Martial and the Court Martial Appeal Court,
+
+    at which reasons were given for any decision not to make an order under section 191 or 193 of the Act, in relation to the suspended sentence;
+  - (iv) a copy of any disciplinary record of the offender; and
+- (c) in accordance with paragraphs (2) to (4), fix a time for the hearing and give the offender notice in writing of that time.
+
+(2) In fixing the time for the hearing the commanding officer shall allow the offender a reasonable time to prepare for the hearing.
+
+(3) If the commanding officer has made an application under rule 30(1) he shall not fix a time for the hearing until he has received notification of the result of the application.
+
+(4) The time fixed for the hearing shall be not less than 24 hours after the commanding officer has complied with—
+
+- (a) paragraph (1); and
+- (b) where an application under rule 30(1) has been granted, rule 30(3).
+
+### 32. Changing the time of a hearing[^key-eebaa1355590838594f0d06ee4703f0d]
+
+(1) Subject to paragraph (2)—
+
+- (a) at any time before the hearing the commanding officer may fix a different time for the hearing;
+- (b) if after fixing a time for the hearing the commanding officer makes an application under rule 30(1), he shall cancel the time fixed and fix a different time for the hearing;
+- (c) if, 24 hours or less before the time fixed for the hearing, the offender requests the commanding officer’s assistance in finding a person to nominate under rule 33(1), the commanding officer shall cancel the time fixed and fix a different time for the hearing.
+
+(2) Where a different time is fixed for a hearing—
+
+- (a) it shall be fixed in accordance with rule 31(2) to (4);
+- (b) the commanding officer shall notify the offender of it in writing.
+
+(3) Where the commanding officer fixes a different time for the hearing by virtue of paragraph (1)(c), the time fixed shall be not less than 24 hours after he has complied with rule 33(5).
+
+### 33. Representation[^key-0b6ac9bc924915ef796ae8d816bb213d]
+
+(1) Subject to paragraphs (2) and (3) the offender may nominate a person to represent him at the hearing (the “offender’s assisting officer”).
+
+(2) A person may only be nominated as an offender’s assisting officer if he—
+
+- (a) is subject to service law;
+- (b) is of at least the rank or rate of petty officer, military or marine sergeant, or air force sergeant; and
+- (c) consents to be nominated.
+
+(3) A person may only continue to act as an offender’s assisting officer while subject to service law.
+
+(4) Subject to paragraphs (2) and (3), if a person ceases to act as his offender’s assisting officer the offender may nominate another person to act in that role.
+
+(5) If the offender requests the commanding officer’s assistance in finding a person to nominate under paragraph (1), the commanding officer shall provide him with the names of at least two people available to be nominated under that paragraph.
+
+(6) Where a person consents to act as an offender’s assisting officer he may, on behalf of the offender, exercise any right of the offender to question witnesses or make submissions by virtue of this Part.
+
+### 33A. Interpretation, translation and communication through an intermediary[^key-8d887036c001c55deb85d9bc4c787a87]
+
+(1) This rule applies unless the commanding officer is satisfied that the offender does not need interpretation.
+
+(2) The commanding officer shall appoint an interpreter to act at the hearing.
+
+(3) On application or on his own initiative, the commanding officer may require a written translation of any document or part of a document to be provided for the offender, unless―
+
+- (a) translation of that document, or part, is not needed to explain the purpose of the hearing; or
+- (b) the offender agrees to do without, and the commanding officer is satisfied—
+  - (i) that the agreement is clear and voluntary; and
+  - (ii) that the offender has had legal advice or otherwise understands the consequences.
+
+(4) If so requested by the offender, the commanding officer shall take such steps as he thinks appropriate, including the appointment of a different interpreter, where―
+
+- (a) no interpretation is provided;
+- (b) no translation is required, or provided, in response to a previous request by the offender; or
+- (c) the offender complains about the quality of any interpretation or translation provided.
+
+(5) Where the offender has a hearing or speech impediment, references in this rule to an interpreter include a person appointed—
+
+- (a) to communicate to the offender anything said at the hearing, and explain it so far as necessary to enable the offender to understand it, or
+- (b) to communicate any answers given by the offender, and any other matters that the offender seeks to convey, and explain them so far as necessary to enable the commanding officer to understand them,
+
+and references to interpretation shall be construed accordingly.
+
+### 34. The hearing[^key-30a1f9441d2c4c1190593970bd8cc513]
+
+(1) At the hearing the commanding officer shall—
+
+- (a) satisfy himself that the offender understands the purpose of the hearing and has had sufficient time to prepare for it;
+- (b) give the offender an opportunity to adduce evidence as to his character; and
+- (c) give the offender an opportunity to make submissions either orally or in writing about—
+  - (i) the appropriateness of making an activation order;
+  - (ii) the appropriate terms of such an order if it were made.
+
+(2) Where the offender adduces the evidence of a witness as to his character—
+
+- (a) such evidence may be given orally or in writing;
+- (b) if the witness gives evidence in writing—
+  - (i) his evidence shall be read to the commanding officer by the offender or his offender’s assisting officer; and
+  - (ii) the offender shall provide the commanding officer with a copy of the evidence;
+- (c) the commanding officer shall give the offender an opportunity to question the witness; and
+- (d) the commanding officer may question the witness after the offender has had the opportunity to do so.
+
+(3) In considering whether to make an activation order and, if such an order is to be made, what its terms should be the commanding officer shall take into account the following matters—
+
+- (a) the details of the offence or offences for which the suspended sentence of service detention was imposed;
+- (b) such details as are known to the commanding officer of all proven offences committed by the offender during the operational period of the suspended sentence of service detention;
+- (c) the reasons given for any decision not to make an order under section 191 or 193 of the Act in relation to the suspended sentence of service detention;
+- (d) any disciplinary record of the offender;
+- (e) any submissions made by the offender about the matters mentioned in paragraph (1)(c);
+- (f) any character evidence adduced by the offender;
+- (g) any other matters that appear to the commanding officer to be relevant.
+
+(4) The commanding officer shall—
+
+- (a) inform the offender of his decision as to whether to make an activation order; and
+- (b) give his reasons for the decision.
+
+(5) If the commanding officer makes an activation order he shall—
+
+- (a) inform the offender of the terms of the order;
+- (b) remind the offender of his right of appeal under section 141 of the Act; and
+- (c) remind the offender of his right to make an election under whichever of sections 290(2) and 291(2) of the Act, as modified by section 292, applies.
+
+### 35. Adjournments[^key-d8bc4cf244adf4f79e5acd62c49b18ca]
+
+The commanding officer may adjourn a hearing at any point if he considers that to do so would be—
+
+- (a) in the interests of fairness to the offender; or
+- (b) expedient for any purpose and not unfair to the offender.
+
+### 36. Written record[^key-9f23e2644195676e4af9bf30dc8c627c]
+
+(1) The commanding officer shall produce a written record of the hearing containing the following matters—
+
+- (a) the name, rank or rate and service number of the offender;
+- (b) the date of the hearing;
+- (c) his decision as to whether to make an activation order;
+- (d) his reasons for his decision; [^key-eb69255ea8c5580afc2ddabc878a9b83]...
+- (e) any order made ;[^key-d65a9dafbd42bf3d592ee777add85b80]
+- (f)[^key-67e776fc9ae0b3e23fd34c57697b7cc3] the identity of any interpreter;
+- (g) any decision on an application under rule 33A(3);
+- (h) any agreement under rule 33A(3)(b) to do without a written translation of a document or part of a document; and
+- (i) any steps taken under rule 33A(4).
+
+(2) The commanding officer shall, as soon as reasonably practicable after the hearing, provide the offender with a copy of the written record.
+
+## Part 3A — Variation of punishments and rescission of activation orders[^key-5d1ed5c9f702a6aeb11b930cd11500e1]
+
+### 36A. Application of Part 3A
+
+This Part applies where a commanding officer has, on or after 13th November 2023—
+
+- (a) awarded an offender a punishment, or made an activation order in respect of an offender, at a summary hearing under Part 2, or
+- (b) made an activation order in respect of an offender at a hearing under Part 3.
+
+### 36B. Interpretation of Part 3A
+
+In this Part—
+
+- “**commanding officer**” means the commanding officer or subordinate commander who imposed the original punishment;
+- “**original punishment**” means a punishment awarded following a summary hearing;
+- “**variation proceedings**” means proceedings under this Part;
+- “**varied punishment**” means a punishment substituted for the original punishment in accordance with this Part.
+
+### 36C. Power to vary punishment or rescind activation order
+
+(1) The commanding officer may vary or rescind the original punishment or rescind the activation order if it appears to the commanding officer that they had no power to award the original punishment or make the activation order.
+
+(2) The power conferred by this rule—
+
+- (a) may only be exercised within the period of 56 days beginning with the day on which the original punishment was awarded or the activation order was made;
+- (b) may not be exercised in relation to any punishment or activation order if an appeal, or an application for leave to appeal, against the punishment or activation order has been determined;
+- (c) may not be exercised so as to impose a varied punishment which is more severe than the original punishment.
+
+(3) A varied punishment takes effect from the beginning of the day on which the original punishment was awarded, unless the commanding officer otherwise directs.
+
+(4) When exercising the power conferred by this rule, the commanding officer may not—
+
+- (a) award detention if the original punishment did not include an award of detention;
+- (b) increase any period of detention awarded under the original punishment.
+
+### 36D. Commencement of variation proceedings
+
+(1) Variation proceedings may be commenced—
+
+- (a) by the commanding officer on their own motion or in response to a reference made under section 152(2B) of the 2006 Act,
+- (b) on the application of the offender.
+
+(2) Where proceedings are commenced by the commanding officer, the commanding officer must give the offender notice in writing of—
+
+- (a) the grounds on which the commanding officer proposes to vary the original punishment,
+- (b) the proposed varied punishment, and
+- (c) the reasons why the commanding officer considers that the varied punishment should be imposed.
+
+(3) An application by an offender under this rule must be made in writing to the commanding officer, and must state—
+
+- (a) the grounds on which the offender says that the commanding officer had no power to award the original sentence or make the activation order, and
+- (b) the reasons the sentence should be varied or rescinded or the activation order rescinded.
+
+### 36E. Variation hearings
+
+(1) Where variation proceedings are commenced, the commanding officer or a person authorised by the commanding officer must fix a time for the hearing and give the offender notice in writing of that time.
+
+(2) In fixing the time for a hearing, the commanding officer, or the person authorised by the commanding officer under paragraph (1), must allow the offender a reasonable time to prepare for the hearing.
+
+(3) Rules 9 (changing the time fixed for a hearing), 10 (representation), 11A (interpretation, translation and communication through an intermediary) and 24 (adjournments) apply in respect of the hearing and for the purposes of this rule—
+
+- (a) references in rules 9, 10, 11A, and 24 to “the accused” are to be read as references to the offender, and
+- (b) rule 9(2)(a) does not apply.
+
+### 36F. Announcement of varied punishment or recission of activation order
+
+(1) The commanding officer must communicate the outcome of variation proceedings to the offender at the end of the hearing or as soon as is practicable after the commanding officer has reached a decision.
+
+(2) In communicating the outcome of variation proceedings, the commanding officer must—
+
+- (a) notify the offender of—
+  - (i) the award of any varied punishment, any decision to rescind an activation order or original punishment, or the refusal of the offender’s application for variation;
+  - (ii) the commanding officer’s reasons, in accordance with section 252(1)(duty to give reasons and explain sentence) of the Act, for taking the action referred to in paragraph (i).
+- (b) when imposing a varied punishment, remind the offender of—
+  - (i) their right of appeal under section 141 (right of appeal) of the Act,
+  - (ii) their right to seek independent legal advice on whether to exercise the right of appeal, and
+  - (iii) if service detention has been awarded, the right to make an election under whichever of sections 290(2) (commencement of term of service detention awarded by CO) or 291(2) (commencement of consecutive term of service detention awarded by CO) of the 2006 Act applies.
+
+### 36G. Addendum to written record
+
+(1) After the conclusion of the variation proceedings in which the commanding officer varies the original punishment or rescinds any activation order, the commanding officer must produce an addendum to the written record (as provided for in rule 27) containing—
+
+- (a) the details of any varied punishment, or the fact that the original punishment or activation order has been rescinded,
+- (b) the commanding officer’s reasons, in accordance with section 252 (duty to give reasons and explain sentence) of the Act for taking the decision described in sub-paragraph (a), and
+- (c) such other matters as the commanding officer considers should be recorded.
+
+(2) The commanding officer shall, as soon as reasonably practicable after the hearing, provide the offender with a copy of the addendum to the written record.
+
+### 36H. Power to order offender’s release from detention
+
+(1) This rule applies where an offender is in detention by virtue of an original punishment awarded or activation order made by the commanding officer and the commanding officer has varied or rescinded the original punishment or rescinded the activation order in accordance with this Part.
+
+(2) The commanding officer must order that the offender be released immediately if—
+
+- (a) the commanding officer has rescinded an activation order or rescinded the original punishment and there is no other lawful reason for the offender’s continued detention, or
+- (b) the offender has served all or more than the term of detention under the varied punishment and there is no other lawful reason for the offender’s continued detention.
+
+(3) The power conferred by this rule may not be exercised in relation to any punishment or activation order if an appeal, or an application for leave to appeal, against the punishment or activation order has been determined.
+
+(4) This rule is without prejudice to any other provision in this Part.
+
+## PART 4 — Supplementary
+
+### 37. Transitional provisions[^key-73a608408f0897b843a5115e81944c88]
+
+Schedule 2 shall have effect.
+
+### 38. Transitory provision[^key-32146d78def1687b5dd681f41ce584c0]
+
+Until section 23 of the Constitutional Reform Act 2005[^f00003] comes into force, references in these Rules to the Supreme Court are to be read as references to the House of Lords.
+
+Kevan Jones
+
+Parliamentary Under Secretary of State
+
+Ministry of Defence
+
+7th May 2009
+
+## SCHEDULE 1 — PUNISHMENTS THAT MAY NOT BE AWARDED BY SUBORDINATE COMMANDERS OF PARTICULAR RANKS[^key-375825c787430286eaad7178cab76102]
+
+Rule 3
+
+| Row Number | Column 1 | Column 2 | Column 3 |
+| --- | --- | --- | --- |
+| 1 | detention | detention | detention |
+|  |  |  |  |
+| 2 | forfeiture of seniority | forfeiture of seniority | forfeiture of seniority |
+|  |  |  |  |
+| 3 | reduction in rank and disrating | reduction in rank and disrating | reduction in rank and disrating |
+|  |  |  |  |
+| 4 | a fine exceeding 7 days’ pay | a fine exceeding 10 days’ pay | a fine exceeding 14 days’ pay |
+|  |  |  |  |
+| 5 | a severe reprimand | a severe reprimand | a severe reprimand |
+|  |  |  |  |
+| 6 | a service supervision and punishment order | a service supervision and punishment order | a service supervision and punishment order |
+|  |  |  |  |
+| 7 | a stoppage of leave order specifying a number of days exceeding 7 | a stoppage of leave order specifying a number of days exceeding 10 |  |
+|  |  |  |  |
+| 8 | a service compensation order of an amount exceeding £500 | a service compensation order of an amount exceeding £750 | a service compensation order of an amount exceeding £1000 |
+|  |  |  |  |
+| 9 | a service compensation order where any part of the compensation relates to personal injury | a service compensation order where any part of the compensation relates to personal injury | a service compensation order where any part of the compensation relates to personal injury |
+
+## SCHEDULE 2 — TRANSITIONAL PROVISIONS
+
+Rule 37
+
+### PART 1 — General
+
+#### 1. Interpretation[^key-075ad9c9b5c02cc2cd0e873532576be5]
+
+In this Schedule, and in any provision treated by virtue of this Schedule as inserted or substituted in these Rules—
+
+- “commencement” means the beginning of 31st October 2009;
+- “AA 1955” means the Army Act 1955[^f00004];
+- “AFA 1955” means the Air Force Act 1955[^f00005];
+- “NDA 1957” means the Naval Discipline Act 1957[^f00006];
+- “NSDR” means the Naval Summary Discipline Regulations (July) 2008 or the Naval Summary Discipline Regulations (February) 2009[^f00007], as the case may be;
+- “the Transitional Order” means the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009[^f00008];
+- “naval suspended sentence” means a sentence of detention under section 43(1)(e) of NDA 1957 which has been suspended under section 90(1) of that Act, including one awarded and suspended after commencement by virtue of article 55 of the Transitional Order (award of SDA sentence where finding of guilt recorded before commencement);
+- “the new provisions” means the Act, the Transitional Order and these Rules.
+
+#### 2. Proven offences[^key-84c1fd5335975be4e72cc3bb722bdf1b]
+
+In these Rules, references to proven offences include—
+
+- (a) offences of which a person has been convicted by court-martial; and
+- (b) offences as respects which—
+  - (i) a finding that a charge has been proved has been recorded under section 76B(7) of AA 1955 or AFA 1955; or
+  - (ii) a finding of guilt has been recorded under section 52D(7) of NDA 1957.
+
+#### 3. Charges[^key-622e0f7bde7b6f032bbbc0bd1367a6bf]
+
+In these Rules, references to a charge include—
+
+- (a) a charge which by virtue of article 46 or 54(5) of the Transitional Order is regarded for the purposes of Part 5 of the Act as allocated for summary hearing; and
+- (b) a charge which is so regarded by virtue of having been referred to the accused’s commanding officer under section 125(2)(e) of the Act following initial allocation of the charge (or of a charge for which it was substituted or to which it was added) for Court Martial trial under article 44 or 47(2) of the Transitional Order.
+
+#### 4. Charges which may be heard summarily only with permission or by senior officer[^key-0f6529acc075e046100a19a98bb3b7c5]
+
+In these Rules, references to an offence within section 54(2) of the Act include an offence which by virtue of article 16 of the Transitional Order (SDA civil offences) is treated as such an offence for the purposes of section 54(1).
+
+#### 5. Delegation and subordinate commanders[^key-f8e8b117c5c0db497b05c92db054d4b9]
+
+(1) A commanding officer shall not make a delegation under rule 3(1) in relation to a charge if a sentence awarded to the accused under AA 1955, AFA 1955 or NDA 1957 (including one awarded after commencement by virtue of article 55 of the Transitional Order) is for the time being suspended, within the meaning given by article 93 of that Order.
+
+(2) Where—
+
+- (a) before commencement, an officer did anything which, had the new provisions been in force, would have constituted a delegation of his relevant functions in relation to a charge, and
+- (b) the officer did nothing before commencement which, had the new provisions been in force, would have constituted a revocation of the delegation,
+
+the officer is to be regarded as having delegated his relevant functions in relation to the charge under rule 3(1).
+
+(3) In this paragraph “relevant function” has the same meaning as in rule 3.
+
+#### 6. Preliminary steps taken before commencement[^key-109acedd1c3c18df9b675d6187e27c53]
+
+Where—
+
+- (a) an act was done before commencement, and
+- (b) had the new provisions been in force when the act was done, the act would have been done in accordance with any provision of rules 5, 6, 8, 9, 10(1) to (5), 31, 32 and 33(1) to (5),
+
+the act is to be regarded for the purposes of these Rules as having been done in accordance with that provision, at the time when it was in fact done.
+
+### PART 2 — Activation of naval suspended sentence
+
+#### 7. Approval by higher authority[^key-03b353372deba1c0fa2ea975a7df80e1]
+
+A commanding officer may not make an activation order in relation to a naval suspended sentence, or include any provision in such an order by virtue of section 193(4) of the Act, without the written approval of—
+
+- (a) Commander-in-Chief Fleet;
+- (b) Commander-in-Chief Naval Home Command;
+- (c) Deputy Commander-in-Chief Fleet;
+- (d) Flag Officer Sea Training;
+- (e) Flag Officer Scotland, Northern England and Northern Ireland;
+- (f) Chief of Staff (Capability) to Commander-in-Chief Fleet;
+- (g) Chief of Staff (Aviation) to Commander-in-Chief Fleet;
+- (h) Commander Operations;
+- (i) Commander British Forces Gibraltar;
+- (j) United Kingdom Maritime Component Commander Bahrain; or
+- (k) an officer under the command of an officer mentioned in any of sub-paragraphs (a) to (j), to whom that officer has delegated in writing the power to give such approval.
+
+#### 8. Preliminary procedures[^key-d2284e0e1e6e9c2dcd4b7d9743ab50c0]
+
+(1) This paragraph applies where, if a commanding officer found a charge proved, he would (subject to paragraph 7) have power to make an activation order in relation to a naval suspended sentence.
+
+(2) Rule 8(1)(d) applies.
+
+(3) Rule 8(1)(e) applies, with the following modifications.
+
+(4) If the naval suspended sentence was awarded at a summary trial under NDA 1957, for paragraph (i) substitute—
+
+> - (i) a copy of—
+>   - (aa) the form S241 (charge sheet and record of punishment) relating to the offence or offences for which the naval suspended sentence was awarded, and to the sentence;
+>   - (bb) the warrant required by regulation 45 of NSDR (approval of punishments by higher authority) in relation to the sentence;
+
+.
+
+(5) If the naval suspended sentence was awarded by the summary appeal court, for paragraph (i) substitute—
+
+> - (i) a copy of any record of the proceedings before the summary appeal court in which the naval suspended sentence was awarded;
+
+.
+
+(6) In paragraph (ii), the reference to proven offences committed by the offender during the operational period of the suspended sentence of service detention is to proven offences committed by the offender since the naval suspended sentence was suspended.
+
+(7) In paragraph (iii), the reference to the suspended sentence of service detention is to the naval suspended sentence.
+
+(8) After paragraph (iii), insert—
+
+> - (iv) copies of—
+>   - (aa) the written records of any hearings before an officer at which reasons were given for any decision not to make an order under section 91B of NDA 1957 in relation to the naval suspended sentence by virtue of section 91B(1)(b);
+>   - (bb) any records of proceedings before the summary appeal court, a court-martial or the Courts-Martial Appeal Court in which reasons were given for any decision not to make an order under section 91 or 91B of NDA 1957 in relation to the naval suspended sentence; and
+
+.
+
+#### 9. Activation following finding that a charge has been proved[^key-bebd23741c5a33857244dfd1feec0062]
+
+(1) Paragraphs 10 and 11 apply where a commanding officer—
+
+- (a) records a finding that a charge has been proved; and
+- (b) by virtue of that finding, has power (subject to paragraph 7) to make an activation order in respect of a naval suspended sentence.
+
+**10.**[^key-79fe2a62f3aecdc54617a6d2945fee5b] (1) Rule 23 applies, with the following modifications.
+
+(2) In paragraph (4), for “In considering whether to make an activation order and, if such an order is to be made, what its terms should be” substitute “In considering whether to seek approval for the making of an activation order and, if so, on what terms”.
+
+(3) In paragraph (4)(a), the reference to the suspended sentence of service detention is to the naval suspended sentence.
+
+(4) In paragraph (4)(b), the reference to proven offences committed by the offender during the operational period of the suspended sentence of service detention is to proven offences committed by the offender since the naval suspended sentence was suspended.
+
+(5) For paragraph (4)(c), substitute—
+
+> - (c) the reasons given—
+>   - (i) by an officer for any decision not to make an order under section 91B of NDA 1957 in relation to the naval suspended sentence by virtue of section 91B(1)(b);
+>   - (ii) by the summary appeal court, a court-martial or the Courts-Martial Appeal Court for any decision not to make an order under section 91 or 91B of NDA 1957 in relation to the naval suspended sentence;
+>   - (iii) for any decision not to make an order under section 191 or 193 of the Act in relation to the naval suspended sentence;
+
+.
+
+(6) For paragraph (5), substitute—
+
+> (5) The commanding officer shall—
+>
+> - (a) inform the accused whether an activation order is to be made;
+> - (b) if he has not sought approval for the making of an activation order, give his reasons for his decision not to do so;
+> - (c) if he has sought such approval—
+>   - (i) give his reasons for his decision to do so; and
+>   - (ii) inform the accused of any reasons given by another officer for that officer’s decision to give or (as the case may be) to withhold such approval.
+
+**11.**[^key-b89f59339e6efd72a1fc06991378d82c] Rule 27(2) is to be read as requiring the written record of the hearing to contain the matters mentioned in rule 23(5) as substituted by paragraph 10(6) above.
+
+#### 12. Notification of finding to court administration officer[^key-e8c0bff68fbf4930eb614299756c713c]
+
+Rule 28 applies where—
+
+- (a) a commanding officer records a finding that a charge has been proved; and
+- (b) the Court Martial would, by virtue of that finding, have power to issue a summons or warrant under article 96(8) of the Transitional Order (offender subject to naval suspended sentence passed by court-martial).
+
+#### 13. Part 3 hearings[^key-43fc3704170c7c0198c708df7d7a6496]
+
+Part 3 of these Rules (except rule 30) applies, as modified by paragraphs 14 to 16, where—
+
+- (a) a person has been convicted (before or after commencement) of an offence in the British Islands;
+- (b) by virtue of that conviction, the person’s commanding officer has power (subject to paragraph 7) to make an activation order in respect of a naval suspended sentence; and
+- (c) the commanding officer has decided to hold a hearing as regards the making of an activation order.
+
+**14.**[^key-a46aa14e385eaa6ff1150da1c3efc8a2] (1) Rule 31(1)(b) is modified as follows.
+
+(2) If the naval suspended sentence was awarded at a summary trial under NDA 1957, for paragraph (i) substitute—
+
+> - (i) a copy of—
+>   - (aa) the form S241 (charge sheet and record of punishment) relating to the offence or offences for which the naval suspended sentence was awarded, and to the sentence;
+>   - (bb) the warrant required by regulation 45 of NSDR (approval of punishments by higher authority) in relation to the sentence;
+
+.
+
+(3) If the naval suspended sentence was awarded by the summary appeal court, for paragraph (i) substitute—
+
+> - (i) a copy of any record of the proceedings before the summary appeal court in which the naval suspended sentence was awarded;
+
+.
+
+(4) In paragraph (ii), the reference to proven offences committed by the offender during the operational period of the suspended sentence of service detention is to proven offences committed by the offender since the naval suspended sentence was suspended.
+
+(5) In paragraph (iii), the reference to the suspended sentence of service detention is to the naval suspended sentence.
+
+(6) After paragraph (iii), insert—
+
+> - (iiia) copies of—
+>   - (aa) the written records of any hearings before an officer at which reasons were given for any decision not to make an order under section 91B of NDA 1957 in relation to the naval suspended sentence by virtue of section 91B(1)(b);
+>   - (bb) any records of proceedings before the summary appeal court, a court-martial or the Courts-Martial Appeal Court in which reasons were given for any decision not to make an order under section 91 or 91B of NDA 1957 in relation to the naval suspended sentence;
+
+.
+
+**15.**[^key-f143f06eb8dc88d32f268a1d297c0185] (1) Rule 34 is modified as follows.
+
+(2) In paragraph (3), for “In considering whether to make an activation order and, if such an order is to be made, what its terms should be” substitute “In considering whether to seek approval for the making of an activation order and, if so, on what terms”.
+
+(3) In paragraph (3)(a), the reference to the suspended sentence of service detention is to the naval suspended sentence.
+
+(4) In paragraph (3)(b), the reference to proven offences committed by the offender during the operational period of the suspended sentence of service detention is to proven offences committed by the offender since the naval suspended sentence was suspended.
+
+(5) For paragraph (3)(c), substitute—
+
+> - (c) the reasons given—
+>   - (i) by an officer for any decision not to make an order under section 91B of NDA 1957 in relation to the naval suspended sentence by virtue of section 91B(1)(b);
+>   - (ii) by the summary appeal court, a court-martial or the Courts-Martial Appeal Court for any decision not to make an order under section 91 or 91B of NDA 1957 in relation to the naval suspended sentence; and
+>   - (iii) for any decision not to make an order under section 191 or 193 of the Act in relation to the naval suspended sentence;
+
+.
+
+(6) For paragraph (4), substitute—
+
+> (4) The commanding officer shall—
+>
+> - (a) inform the offender whether an activation order is to be made;
+> - (b) if he has not sought approval for the making of an activation order, give his reasons for his decision not to do so;
+> - (c) if he has sought such approval—
+>   - (i) give his reasons for his decision to do so; and
+>   - (ii) inform the offender of any reasons given by another officer for that officer’s decision to give or (as the case may be) to withhold such approval.
+
+**16.**[^key-72a65dfb539ea29b4d67d246883e7f7d] Rule 36(1)(c) and (d) are to be read as requiring the written record of the hearing to contain the matters mentioned in rule 34(4) as substituted by paragraph 15(6) above.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules make provision with respect to the summary hearing by commanding officers of charges brought and allocated for summary hearing under Part 5 of the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52). The Rules also make provision with respect to hearings where a commanding officer may activate a suspended sentence of service detention after an individual has been convicted of an offence in the British Islands (i.e. a civilian offence rather than a service offence), committed during the operational period of the suspended sentence.
+
+Subject to specified limits, rule 3 permits commanding officers to delegate certain functions to more junior officers (“subordinate commanders”) and to revoke such delegations.
+
+Part 2 relates to the summary hearing of charges. Rule 5 makes provision for applications by commanding officers for permission to hear charges in respect of certain types of offence which may not he heard summarily without the permission of higher authority. Applications by commanding officers to higher authority for extended powers in relation to punishment and in relation to the activation of suspended sentences and provided for in rules 6 and 7 respectively.
+
+Rule 8 makes provision as to preliminary procedures, including the provision of information and documents to the accused, and the fixing of times for hearings. Rule 9 makes provision as to changing the time fixed for a hearing. Rule 10 makes provision about who may represent an accused at a summary hearing and the steps a commanding officer must take to help the accused find a person willing to represent him.
+
+Rules 12 to 21 make provision as to the procedure to be followed at a hearing, including the way in which a commanding officer must give the accused the opportunity of electing Court Martial trial (see section 129(1) of the 2006 Act). Rules 22 and 23 relate, respectively, to sentencing and, where applicable, the activation of suspended sentences where charges heard summarily and determined to have been proved are in respect of offences committed during the operational periods of suspended sentences.
+
+Part 3 makes provision in relation to hearings as regards the activation of suspended sentences of service detention where the power to activate arises from convictions in the British Islands rather than determinations that charges have been proved at summary hearings.
+
+Rule 38 makes transitory provision in relation to the Supreme Court to be established under the Constitutional Reform Act 2005.
+
+The table in Schedule 1 sets out those punishments which may not be awarded by subordinate commanders of particular ranks.
+
+Schedule 2 makes transitional provision (see also rule 37).
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
+
+[^key-33f4d88b3a267b260ce6f55a60934ce1]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-81a5fa11806c1ebea4fc454376d8c9eb]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2009/1216/rule/2) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-cf70a2af5f9313d0ab25274c2e37f49b]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/1216/rule/3) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-f56496a27a64c803d26cb0b777218bc7]: Commencement: Rule 4 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-e9e6ffed342b731b6e8b04f37368f6ed]: Commencement: Rule 5 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-ed70c4ed061ddb18ed55934d59f41c30]: Commencement: Rule 6 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-7115ab22d2760e6259825021b8917210]: Textual amendment: Word in rule 6(1)(c) omitted (13.11.2023) by virtue of [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1097/rule/15)
+
+[^key-0f6ce68435c33b5c5d9d990740809e11]: Commencement: Rule 7 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-5c5f8c0efbbafc2eb30fac84b49d82ab]: Commencement: Rule 8 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-f2198123600bca13d3af414f473af167]: Commencement: Rule 9 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-c3ab1f7b5353c04159b968c99f145f6b]: Commencement: Rule 10 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-d41d29dc1d2e3554af0da0b498b84f08]: Commencement: Rule 11 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-6c17b60e5984e5b9ff1e7c9e3734203e]: Textual amendment: Rule 11A inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [10](https://www.legislation.gov.uk/uksi/2013/2527/article/10)
+
+[^key-6f7d91e1afb2aee76040fd64854a1402]: Commencement: Rule 12 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-e218bbe99ddb817873343fb10863d35f]: Commencement: Rule 13 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-ab22f5db95ed4681d27283d25a99dd39]: Commencement: Rule 14 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^f00002]: Footnote: [1978 c. 19](https://www.legislation.gov.uk/ukpga/1978/19).
+
+[^key-b8f1956c03c481686e84ab3f296ad790]: Commencement: Rule 15 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-3652a184b7ac83b239444dd038020636]: Textual amendment: Rules 15A, 15B inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [11](https://www.legislation.gov.uk/uksi/2013/2527/article/11)
+
+[^key-28d7dec1095fd00dc73da21d0a2e4157]: Commencement: Rule 16 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-a3d6de2cc35e34c4a94f83b7b82a3b67]: Commencement: Rule 17 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-f24a893e9aa402a8213a616b115cfb79]: Commencement: Rule 18 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-f0312f9b1adeb16906286f1fd5257205]: Commencement: Rule 19 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-6db557d93b61a84a5b95ba6402f75d46]: Commencement: Rule 20 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-547a45b716e61f093298341c10a9c0dc]: Commencement: Rule 21 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-935e0a40a4ebeb0baf4770bb615f1ad8]: Commencement: Rule 22 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-26bfe5f728105ac670bab406f15c83be]: Commencement: Rule 23 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-a9eba91d94a32e7102ddcb9173e223cb]: Commencement: Rule 24 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-4375402f4518d581352dcb4b7b27730d]: Commencement: Rule 25 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-1b3c5f2b076324245436bbfb6fc48fcb]: Commencement: Rule 26 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-18aeed3119ae1d2b596d786c44af245a]: Commencement: Rule 27 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-2cc875dc56a06b9c9d3faa96d53dde8a]: Textual amendment: Rule 27(1)(ka)-(kd) inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [12](https://www.legislation.gov.uk/uksi/2013/2527/article/12)
+
+[^key-447d179fad83c06f540d89b2be377fdf]: Commencement: Rule 28 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-2d223c07b530775bf1abde3d108ddc1d]: Commencement: Rule 29 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-fd2cd5522646f93b59f0b202efb9ad65]: Commencement: Rule 30 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-13aa2fd2c6f02f1e5b52680116b859ce]: Commencement: Rule 31 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-eebaa1355590838594f0d06ee4703f0d]: Commencement: Rule 32 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-0b6ac9bc924915ef796ae8d816bb213d]: Commencement: Rule 33 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-8d887036c001c55deb85d9bc4c787a87]: Textual amendment: Rule 33A inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [13](https://www.legislation.gov.uk/uksi/2013/2527/article/13)
+
+[^key-30a1f9441d2c4c1190593970bd8cc513]: Commencement: Rule 34 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-d8bc4cf244adf4f79e5acd62c49b18ca]: Commencement: Rule 35 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-9f23e2644195676e4af9bf30dc8c627c]: Commencement: Rule 36 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-eb69255ea8c5580afc2ddabc878a9b83]: Textual amendment: Word in rule 36(1)(d) omitted (27.10.2013) by virtue of [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2013/2527/article/14/a)
+
+[^key-d65a9dafbd42bf3d592ee777add85b80]: Textual amendment: Rule 36(1)(e): semi-colon substituted for full stop (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [14(b)(i)](https://www.legislation.gov.uk/uksi/2013/2527/article/14/b/i)
+
+[^key-67e776fc9ae0b3e23fd34c57697b7cc3]: Textual amendment: Rule 36(1)(f)(i) inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [14(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2527/article/14/b/ii)
+
+[^key-5d1ed5c9f702a6aeb11b930cd11500e1]: Textual amendment: Pt. 3A inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2023/1097/rule/16)
+
+[^key-73a608408f0897b843a5115e81944c88]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2009/1216/rule/37) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-32146d78def1687b5dd681f41ce584c0]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2009/1216/rule/38) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^f00003]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^key-375825c787430286eaad7178cab76102]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1216/schedule/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-075ad9c9b5c02cc2cd0e873532576be5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^f00004]: Footnote: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
+
+[^f00005]: Footnote: [1955 c. 19](https://www.legislation.gov.uk/ukpga/1955/19).
+
+[^f00006]: Footnote: [1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53).
+
+[^f00007]: Footnote: These Regulations are made by the Defence Council under sections 43, 52E and 52F of NDA 1957 and published in the Manual of Naval Law.
+
+[^f00008]: Footnote: [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059).
+
+[^key-84c1fd5335975be4e72cc3bb722bdf1b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/2) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-622e0f7bde7b6f032bbbc0bd1367a6bf]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/3) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-0f6529acc075e046100a19a98bb3b7c5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/4) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-f8e8b117c5c0db497b05c92db054d4b9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/5) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-109acedd1c3c18df9b675d6187e27c53]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/6) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-03b353372deba1c0fa2ea975a7df80e1]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/7) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-d2284e0e1e6e9c2dcd4b7d9743ab50c0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/8) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-bebd23741c5a33857244dfd1feec0062]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/9) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-79fe2a62f3aecdc54617a6d2945fee5b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/10) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-b89f59339e6efd72a1fc06991378d82c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/11) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-e8c0bff68fbf4930eb614299756c713c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/12) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-43fc3704170c7c0198c708df7d7a6496]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/13) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-a46aa14e385eaa6ff1150da1c3efc8a2]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/14) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-f143f06eb8dc88d32f268a1d297c0185]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/15) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+
+[^key-72a65dfb539ea29b4d67d246883e7f7d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/16) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)

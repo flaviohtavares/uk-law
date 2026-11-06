@@ -1,0 +1,75 @@
+---
+title: Civic Government (Scotland) Act 1982, section 51A
+act: Civic Government (Scotland) Act 1982
+section: 51A
+status: revised-with-pending-changes
+text_date: '2026-03-26'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1982/45/section/51A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Civic Government (Scotland) Act 1982, section 51A
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-03-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/45
+>
+> Extent: England, Wales, Scotland.
+
+## 51A. Extreme pornography[^key-82d2f3c3ee2e94eef45e7a14f2e3dd91]
+
+*Extent: S*
+
+(1) A person who is in possession of an extreme pornographic image is guilty of an offence under this section.
+
+(2) An extreme pornographic image is an image which is all of the following—
+
+- (a) obscene,
+- (b) pornographic,
+- (c) extreme.
+
+(3) An image is pornographic if it is of such a nature that it must reasonably be assumed to have been made solely or principally for the purpose of sexual arousal.
+
+(4) Where (as found in the person's possession) an image forms part of a series of images, the question of whether the image is pornographic is to be determined by reference to—
+
+- (a) the image itself, and
+- (b) where the series of images is such as to be capable of providing a context for the image, its context within the series of images,
+
+and reference may also be had to any sounds accompanying the image or the series of images.
+
+(5) So, for example, where—
+
+- (a) an image forms an integral part of a narrative constituted by a series of images, and
+- (b) having regard to those images as a whole, they are not of such a nature that they must reasonably be assumed to have been made solely or principally for the purpose of sexual arousal,
+
+the image may, by virtue of being part of that narrative, be found not to be pornographic (even if it may have been found to be pornographic where taken by itself).
+
+(6) An image is extreme if it depicts, in an explicit and realistic way any of the following—
+
+- (a) an act which takes or threatens a person's life,
+- (b) an act which results, or is likely to result, in a person's severe injury,
+- (c) rape or other non-consensual penetrative sexual activity,
+- (d) sexual activity involving (directly or indirectly) a human corpse,
+- (e) an act which involves sexual activity between a person and an animal (or the carcase of an animal).
+
+(7) In determining whether (as found in the person's possession) an image depicts an act mentioned in subsection (6), reference may be had to—
+
+- (a) how the image is or was described (whether the description is part of the image itself or otherwise),
+- (b) any sounds accompanying the image,
+- (c) where the image forms an integral part of a narrative constituted by a series of images—
+  - (i) any sounds accompanying the series of images,
+  - (ii) the context provided by that narrative.
+
+(8) A person guilty of an offence under this section is liable—
+
+- (a) on summary conviction, to imprisonment for a period not exceeding 12 months or to a fine not exceeding the statutory maximum or to both,
+- (b) on conviction on indictment, to imprisonment for a period not exceeding 3 years or to a fine or to both.
+
+(9) In this section, an “image” is—
+
+- (a) a moving or still image (made by any means), or
+- (b) data (stored by any means) which is capable of conversion into such an image.
+
+## Annotations
+
+[^key-82d2f3c3ee2e94eef45e7a14f2e3dd91]: Textual amendment: Ss. 51A-51C inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 42(2)](https://www.legislation.gov.uk/asp/2010/13/section/42/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

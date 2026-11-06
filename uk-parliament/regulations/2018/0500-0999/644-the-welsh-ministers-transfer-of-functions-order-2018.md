@@ -1,0 +1,1212 @@
+---
+title: The Welsh Ministers (Transfer of Functions) Order 2018
+id: uksi/2018/644
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2018-05-23'
+text_date: '2019-12-18'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2018/644
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/644/pdfs/uksiem_20180644_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/644/pdfs/uksi_20180644_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/644/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welsh Ministers (Transfer of Functions) Order 2018
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2019-12-18. See https://www.legislation.gov.uk/changes/affected/uksi/2018/644
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 644
+
+Constitutional Law
+
+Devolution, Wales
+
+The Welsh Ministers (Transfer of Functions) Order 2018
+
+Made
+
+23rd May 2018
+
+Coming into force in accordance with article 1
+
+At the Court at Buckingham Palace, the 23rd day of May 2018
+
+Present,
+
+The Queen's Most Excellent Majesty in Council
+
+A draft of this Order has been laid before, and approved by a resolution of, each House of Parliament in accordance with section 58(4)(a) of the Government of Wales Act 2006 [^c22945231] and has been approved by the Welsh Ministers in accordance with section 58(4)(b) of that Act.
+
+Her Majesty, in exercise of the powers conferred by sections 58(1) and (3) and 157(2) of, and paragraph 2(1) of Schedule 4 to, that Act [^c22945241], is pleased, by and with the advice of Her Privy Council, to order as follows:
+
+## 1. Citation, commencement, interpretation and general provision
+
+(1) This Order may be cited as the Welsh Ministers (Transfer of Functions) Order 2018 and save as is provided in paragraph (2) comes into force on the day after the date on which it is made.
+
+(2) Article 39 (which transfers functions in relation to the Education Act 2002 [^c22945251]) comes into force on 30th September 2018.
+
+(3) In this Order—
+
+- “**the 1999 Order**” means the National Assembly for Wales (Transfer of Functions) Order 1999 [^c22945261];
+- “**cross-border harbour**” has the meaning given to that expression in section 34 of the Wales Act 2017 [^c22945271];
+- “**reserved trust port**” has the meaning given to that expression in section 32 of the Wales Act 2017.
+
+(4) In this Order, an expression used in relation to an enactment has the same meaning as in the enactment to which the expression relates.
+
+(5) Any reference in this Order to a function of a Minister of the Crown under an enactment includes a reference to any functions of that Minister which are included in any scheme, regulations, rules, order, bye-laws or other instrument having effect under or in relation to that enactment, and the power to confer functions on that Minister by any such scheme, regulations, rules, order, bye-laws or other instrument has effect as a power to confer such functions on the Welsh Ministers.
+
+(6) Paragraph 1(1) (transfer of property, rights and liabilities connected with transferred functions) of Schedule 4 to the Government of Wales Act 2006 does not apply to any documentary or electronic records to which a Minister of the Crown is entitled at the coming into force of any provision in this Order in connection with any function exercisable by the Minister which is transferred by this Order.
+
+## 2. Agriculture (Artificial Insemination) Act 1946
+
+(1) The functions of the Minister under section 1 (power in connection with research as to the artificial insemination of livestock) of the Agriculture (Artificial Insemination) Act 1946 [^c22945281] (“**the 1946 Act**”), currently exercisable by the Welsh Ministers and the Secretary of State jointly [^c22945291] are, so far as they are exercisable in relation to Wales, transferred to the Welsh Ministers (who may accordingly exercise those functions in relation to Wales acting alone).
+
+(2) The 1946 Act applies in relation to the exercise of the functions under section 1(1) by the Welsh Ministers as if section 1(2) were omitted.
+
+## 3. Industrial Organisation and Development Act 1947
+
+(1) Subject to paragraph (3), the functions of a Minister of the Crown under the Industrial Organisation and Development Act 1947 [^c22945301] (“**the 1947 Act**”), so far as they are exercisable in relation to Wales and have not already been transferred by the 1999 Order, are transferred to the Welsh Ministers.
+
+(2) Accordingly—
+
+- (a) section 9(4) of the 1947 Act applies in relation to the exercise of functions under that subsection by the Welsh Ministers as if for “as the Treasury may direct” there were substituted “ as the Welsh Ministers consider appropriate ”; and
+- (b) the Welsh Ministers may exercise the functions of the Board of Trade under section 11 of the 1947 Act in relation to Wales acting alone and without the need for Treasury approval.
+
+(3) The function under section 7(4) (reports, and accounts, of development councils) of the 1947 Act [^c22945311] is not transferred so far as it relates to a development council exercising functions in relation to England and Wales or in relation to Great Britain.
+
+## 4. Agriculture Act 1947
+
+The functions of the Lord Chancellor under section 73(3) (power to set procedure for the Agricultural Land Tribunal for Wales (or Tribiwnlys Tir Amaethyddol Cymru)) of the Agriculture Act 1947 [^c22945321] are transferred to the Welsh Ministers.
+
+## 5. Coast Protection Act 1949
+
+(1) Except as set out in paragraph (3), the functions of a Minister of the Crown under section 17 (notification to coast protection authority of coast protection work to be carried out by certain authorities) of the Coast Protection Act 1949 [^c22945331] so far as they are exercisable in relation to Wales and so far as not already transferred under the 1999 Order are transferred to the Welsh Ministers.
+
+(2) Accordingly, all references in that section to a Minister concerned, or to the appropriate Minister (however expressed) are to be construed as a reference to the Welsh Ministers in relation to the exercise of functions transferred by paragraph (1).
+
+(3) Paragraph (1) does not operate to transfer any function to the extent that it is exercisable in relation to a cross-border harbour or a reserve trust port.
+
+## 6. National Parks and Access to the Countryside Act 1949
+
+The functions of the Minister under the following provisions of the National Parks and Access to the Countryside Act 1949 [^c22945341], so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers—
+
+- (a) section 65(3) (access orders);
+- (b) section 72 (claims for compensation and interest);
+- (c) section 78(1) (maps of land subject to public access); and
+- (d) paragraph 4 of Schedule 1 (provisions as to the making, confirmation, coming into operation and validity of certain instruments).
+
+## 7. Agricultural Marketing Act 1958
+
+(1) Except as set out in paragraph (2), it is directed that the functions of a Minister of the Crown under section 22 (Agricultural Marketing Funds) of the Agricultural Marketing Act 1958 [^c22945351] (“**the 1958 Act**”), so far as they are exercisable in relation to a scheme applicable in Wales (whether or not any such scheme is also applicable in England or Scotland), are to be exercisable by the Minister of the Crown only with the agreement of the Welsh Ministers.
+
+(2) Paragraph (1) does not apply to any function of the Treasury under section 22 of the 1958 Act.
+
+## 8. Plant Varieties and Seeds Act 1964
+
+(1) The functions of a Minister of the Crown under the Plant Varieties and Seeds Act 1964 [^c22945361] (“**the 1964 Act**”), so far as they are exercisable in relation to Wales and so far as not already transferred by the 1999 Order, are transferred to the Welsh Ministers.
+
+(2) The requirement under section 24(4) (official testing stations and certificates of test) of the 1964 Act to obtain Treasury approval for the authorisation of the charging of fees under that section ceases to apply in relation to fees charged in Wales under an authorisation of the Welsh Ministers.
+
+## 9. Plant Health Act 1967
+
+(1) The Treasury consent requirements under sections 4(1) (execution of Act by Government Departments) and 4A (charges in connection with import and export licences and certificates) of the Plant Health Act 1967 [^c22945371] (“**the 1967 Act**”) cease to apply in so far as the functions under those sections are exercised by the Welsh Ministers.
+
+(2) Section 4(3) of the 1967 Act applies in so far as the functions under section 4 are exercised by the Welsh Ministers as if the words from “, but shall not” to the end were omitted.
+
+## 10. Agriculture Act 1967
+
+The Treasury approval requirements under section 53(2) and (3) (Boards' annual report and accounts) of the Agriculture Act 1967 [^c22945381] cease to apply in so far as the functions under that provision are exercised by the Welsh Ministers.
+
+## 11. Conservation of Seals Act 1970
+
+The functions of the Secretary of State under section 1(2) (prohibited methods of killing seals) of the Conservation of Seals Act 1970 [^c22945391], so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers.
+
+## 12. Agriculture Act 1970
+
+The Treasury approval requirement under section 78(10) (further analysis by Government Chemist) of the Agriculture Act 1970 [^c22945401] ceases to apply in so far as the function under that provision is exercised by the Welsh Ministers.
+
+## 13. Chronically Sick and Disabled Persons Act 1970
+
+(1) Section 21 (badges for display on motor vehicles used by disabled people) of the Chronically Sick and Disabled Persons Act 1970 [^c22945411] is amended in accordance with paragraphs (2) and (3).
+
+(2) In subsection (1A)—
+
+- (a) in paragraph (a) omit “and Wales”;
+- (b) after paragraph (a) insert—
+
+  > - (aa) of a form specified or approved by the Welsh Ministers, in the case of a badge issued by a local authority in Wales;
+
+  .
+
+(3) In subsection (8C), for “(1A)(b)” substitute “ (1A)(aa) or (b) ”.
+
+## 14. Local Government Act 1972
+
+It is directed that section 244 (saving of transfer of certain powers under local Acts from Treasury to the Secretary of State) of the Local Government Act 1972 [^c22945421] applies as if subsection (2) were omitted in relation to the exercise of functions under subsection (1) by the Welsh Ministers.
+
+## 15. Salmon and Freshwater Fisheries Act 1975
+
+(1) The functions of “the Minister” under section 37A (fixed penalty notices for certain offences) of the Salmon and Freshwater Fisheries Act 1975 [^c22945431] (“**the 1975 Act**”), so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers.
+
+(2) The functions of the Secretary of State under section 38 (works below high water mark) of the 1975 Act, so far as they are exercisable in relation to Wales or the Welsh zone, are transferred to the Welsh Ministers.
+
+## 16. Fisheries Act 1981
+
+The Treasury approval requirements under sections 15 and 16 (schemes of financial assistance and administration) of the Fisheries Act 1981 [^c22945441] cease to apply in so far as the functions under those sections are exercisable by the Welsh Ministers in relation to Wales or the Welsh zone [^c22945451].
+
+## 17. New Towns Act 1981
+
+Section 69(1) (Secretary of State's accounts) of the New Towns Act 1981 [^c22945461] applies in relation to the exercise of functions under that provision by the Welsh Ministers, as if for “as the Treasury may direct” there were substituted “ as the Welsh Ministers consider appropriate ”.
+
+## 18. Acquisition of Land Act 1981
+
+(1) Except as set out in paragraph (2), and subject to paragraphs (4) and (5), the functions of the Secretary of State as “the appropriate Minister” under the provisions of the Acquisition of Land Act 1981 [^c22945471] (“**the 1981 Act**”) listed in paragraph (3), so far as they are exercisable in relation to Wales (and so far as not already transferred by the 1999 Order) are transferred to the Welsh Ministers.
+
+(2) Paragraph (1) does not operate to transfer any function to the extent that it is exercisable in relation to a cross-border harbour or a reserve trust port.
+
+(3) The provisions of the 1981 Act referred to in paragraph (1) are—
+
+- (a) section 16 (statutory undertakers' land excluded from compulsory purchase);
+- (b) section 32(6) (power to extinguish certain public rights of way); and
+- (c) paragraph 3 of Schedule 3 (statutory undertakers land).
+
+(4) The transfer of functions under section 16 of, and paragraph 3 of Schedule 3 to, the 1981 Act applies only in respect of objections to compulsory purchase orders raised after this article comes into force.
+
+(5) The transfer of the function under section 32(6) of the 1981 Act applies only in respect of decisions made under section 32(2) of that Act after this article comes into force.
+
+## 19. Industrial Training Act 1982
+
+(1) Subject to this article, the functions of the Secretary of State under the Industrial Training Act 1982 [^c22945481] (“**the 1982 Act**”), so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers.
+
+(2) No functions are transferred in relation to the industrial training boards specified in section H2 of Schedule 7A to the Government of Wales Act 2006 [^c22945491] (reserved matters: industrial training boards).
+
+(3) The function under section 4 (winding up of boards) [^c22945501] of the 1982 Act of making provision for the imposition of a levy on employers in a revocation order made under section 1 [^c22945511] of that Act for the purpose of raising an amount to meet the expenses of winding up a board and meeting its liabilities may be exercised by the Welsh Ministers only with the agreement of the Secretary of State.
+
+(4) The functions under sections 11, 12, 13, 14 and 16 [^c22945521] of the 1982 Act (which relate to levies) are not transferred.
+
+(5) The function of giving a direction under section 15(1) or (2) (default powers in relation to proposals) of the 1982 Act [^c22945531] is transferred only in respect of proposals submitted to the Welsh Ministers under section 5(5) of the 1982 Act (functions of boards) [^c22945541].
+
+(6) The requirements in sections 2(2)(a), 4(6)(a) and 8(1) of, and in paragraphs 4, 5 and 12 of Schedule 1 to, the 1982 Act to obtain Treasury approval cease to apply in so far as the functions under those provisions are exercised by the Welsh Ministers.
+
+(7) Paragraph 7(1) of Schedule 1 to the 1982 Act applies in relation to industrial training boards established by the Welsh Ministers as if for from the opening words to “as he may specify may each”, there were substituted “ The Welsh Ministers may ”.
+
+## 20. Mental Health Act 1983
+
+The functions of the Lord Chancellor under section 78 (the Mental Health Review Tribunal for Wales) of the Mental Health Act 1983 [^c22945551] are transferred to the Welsh Ministers.
+
+## 21. Food and Environment Protection Act 1985
+
+(1) The functions of a Minister of the Crown under sections 16 and 18 (control of pesticides) of the Food and Environment Protection Act 1985 [^c22945561] (“**the 1985 Act**”), so far as those functions are exercisable in relation to Wales and so far as they have not already been transferred, are transferred to the Welsh Ministers (and accordingly the Welsh Ministers may exercise the functions under those sections in relation to Wales, acting alone).
+
+(2) The requirements for Treasury consent under section 16(2)(j)(ii) and 18(3) of the 1985 Act cease to apply in so far as the functions under those sections are exercised by the Welsh Ministers.
+
+## 22. Environment and Safety Information Act 1988
+
+(1) The Environment and Safety Information Act 1988 [^c22945571] is amended in accordance with paragraphs (2) and (3).
+
+(2) In section 2(2) (interpretation)—
+
+- (a) in paragraphs (b) and (c) for “or the Secretary of State” substitute “ , the Secretary of State or the Welsh Ministers ”;
+- (b) after paragraph (c) (but before the “or” following it) insert—
+
+  > - (ca) in any case not falling within paragraphs (a) to (c) where the notice is served in Wales, the Welsh Ministers;
+
+  .
+
+(3) In section 4(6) (protection of trade secrets etc)—
+
+- (a) after paragraph (a) insert—
+
+  > - (aa) in relation to notices served in Wales under that Act or the Regulatory Reform (Fire Safety) Order 2005 [^c22945581], the Welsh Ministers;
+
+  ; and
+- (b) in paragraph (b), after “paragraph (a)” insert “ or (aa) ”.
+
+## 23. Local Government Finance Act 1988
+
+(1) Paragraph 1(2) (non-domestic rating accounts) of Schedule 8 to the Local Government Finance Act 1988 [^c22945591] is amended in accordance with paragraphs (2) and (3).
+
+(2) In paragraph (a) for “as the Treasury may direct” substitute “ as they consider appropriate ”.
+
+(3) In paragraph (b) for “as the Treasury may direct” substitute “ as they consider appropriate ”.
+
+## 24. Electricity Act 1989
+
+(1) Section 62 (public inquiries) of the Electricity Act 1989 [^c22945601] is amended in accordance with paragraphs (2) to (4).
+
+(2) In subsection (1), at the end insert “ or the Welsh Ministers ”.
+
+(3) After subsection (1A) insert—
+
+> (1B) The Welsh Ministers may cause an inquiry to be held in any case where they consider it advisable to do so in connection with any matter relating to the exercise by them of any function under this Part.
+
+.
+
+(4) After subsection (5) insert—
+
+> (6) Where—
+>
+> - (a) an inquiry is to be caused to be held by the Welsh Ministers under this Part or Schedule 16 to the Energy Act 2004 [^c22945611] in connection with any matter; and
+> - (b) in the case of some other matter required or authorised (whether by this Part, that Schedule or by any other enactment) to be the subject of an inquiry which is to be caused to be held by the Welsh Ministers, it appears to the Welsh Ministers that the matters are so far cognate that they should be considered together,
+>
+> the Welsh Ministers may direct that the two inquiries be held concurrently or combined as one inquiry.
+
+.
+
+## 25. Town and Country Planning Act 1990
+
+The following functions under the Town and Country Planning Act 1990 [^c22945621], so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers—
+
+- (a) the functions of the appropriate Minister in relation to the statutory undertakers mentioned in section 265(1)(a) apart from a statutory undertaker that is carrying on a harbour undertaking where the harbour is a reserved trust port or a cross-border harbour; and
+- (b) the functions of the appropriate Minister in relation to the Natural Resources Body for Wales (in pursuance of the definition in section 265(3)(aa)).
+
+## 26. Planning (Hazardous Substances) Act 1990
+
+The function of the “appropriate Minister” under section 36B (rights of entry: supplementary provisions) of the Planning (Hazardous Substances) Act 1990 [^c22945631], so far as exercisable in relation to Wales, and so far as it has not already been transferred, is transferred to the Welsh Ministers.
+
+## 27. Environmental Protection Act 1990
+
+The Treasury approval requirement under section 113(1) (fees and charges) of the Environmental Protection Act 1990 [^c22945641] ceases to apply in so far as the functions under that provision are exercised by the Welsh Ministers.
+
+## 28. Agriculture and Forestry (Financial Provisions) Act 1991
+
+The Treasury approval requirement under section 2(1) (recovery of cost of supervising Community livestock carcase grading procedures) of the Agriculture and Forestry (Financial Provisions) Act 1991 [^c22945651] ceases to apply in so far as the function under that provision is exercised by the Welsh Ministers.
+
+## 29. Deer Act 1991
+
+The functions of the Secretary of State under the Deer Act 1991 [^c22945661], so far as they are exercisable in relation to Wales and so far as they have not already been transferred, are transferred to the Welsh Ministers.
+
+## 30. Further and Higher Education Act 1992
+
+The Treasury approval requirements under paragraph 16(2) (accounts) of Schedule 1 to the Further and Higher Education Act 1992 [^c22945671] cease to apply in so far as the functions under that provision are exercised by the Welsh Ministers.
+
+## 31. Local Government Finance Act 1992
+
+The functions of the Treasury under paragraph 5(1) (penalties) of Schedule 3 to the Local Government Finance Act 1992 [^c22945681], so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers.
+
+## 32. Tribunals and Inquiries Act 1992
+
+(1) The Tribunals and Inquiries Act 1992 [^c22945691] is amended in accordance with paragraphs (2) to (5).
+
+(2) In section 9 (procedure in connection with statutory inquiries) [^c22945701], after subsection (6) insert—
+
+> (7) In the application of this section to inquiries held in Wales by or on behalf of the Welsh Ministers, the power in subsection (1) to make rules is exercisable by the Welsh Ministers (and not by the Lord Chancellor).
+
+.
+
+(3) In section 10 (reasons to be given for decisions) [^c22945711], after subsection (9) insert—
+
+> (10) In relation to—
+>
+> - (a) any tribunal specified in Schedule 1 which sits in Wales, and
+> - (b) statutory inquiries held in Wales by or on behalf of the Welsh Ministers,
+>
+> the power to make an order under subsection (7) or (8) is exercisable by the Welsh Ministers (and not by any Minister of the Crown) and those subsections are to be read accordingly.
+
+.
+
+(4) In section 15 (rules and orders), after subsection (2) [^c22945721] insert—
+
+> (3) Any power of the Welsh Ministers to make rules or orders under this Act is exercisable by statutory instrument subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+.
+
+(5) In section 16 (interpretation) after subsection (2A) [^c22945731] insert—
+
+> (2B) The power to make an order under subsection (2) is not exercisable in relation to inquiries or hearings held or to be held in Wales by or on behalf of the Welsh Ministers.
+>
+> (2C) The Welsh Ministers may by order designate for the purposes of this section any inquiry or hearing held or to be held in Wales by or on behalf of the Welsh Ministers in pursuance of a power conferred by any statutory provision specified or described in the order, or any class of such inquiries or hearings.
+
+.
+
+## 33. Deregulation and Contracting Out Act 1994
+
+(1) The functions of the Minister under section 70 (functions of local authorities) of the Deregulation and Contracting Out Act 1994 [^c22945741] (“**the 1994 Act**”) are transferred to the Welsh Ministers so far as they are exercisable in relation to local authorities in Wales and relate to matters which would fall within the legislative competence of the Assembly.
+
+(2) The function of the Secretary of State under section 79C(1) (regulations for the purpose of sections 79A and 79B) of the 1994 Act of making regulations for the purposes of section 79B(h) [^c22945751] (“local authority”: Wales) is transferred to the Welsh Ministers.
+
+## 34. Lieutenancies Act 1997
+
+The functions of the Lord President of the Council in section 2 (deputy lieutenants) of the Lieutenancies Act 1997 [^c22945761], so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers.
+
+## 35. School Standards and Framework Act 1998
+
+The functions of the Secretary of State under section 137 (Education Transfer Council: alteration of functions and provision for dissolution) of the School Standards and Framework Act 1998 [^c22945771], so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers.
+
+## 36. Pollution Prevention and Control Act 1999
+
+(1) The functions of the Secretary of State under section 2 (regulation of polluting activities) of the Pollution Prevention and Control Act 1999 [^c22945781] in relation to offshore oil and gas exploration and exploitation, so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers.
+
+(2) It is directed that in so far as any of the functions mentioned in paragraph (1) are exercisable in relation to a cross-border body, but which by their nature are not functions which can be specifically exercised in relation to Wales, such functions are exercisable by the Welsh Ministers in relation to that body concurrently with the Secretary of State.
+
+## 37. Local Government Act 2000
+
+(1) The Local Government Act 2000 (“**the 2000 Act**”) [^c22945791] is amended in accordance with paragraphs (2) to (6).
+
+(2) In section 5 (power to amend or repeal enactments)—
+
+- (a) in subsection (1)—
+  - (i) for “Secretary of State thinks” substitute “ Welsh Ministers think ”;
+  - (ii) for “he” substitute “ they ”;
+- (b) after subsection (3) insert—
+
+  > (3A) Subject to subsection (3B), a statutory instrument which contains an order under this section is not to be made unless a draft of the instrument has been laid before and approved by a resolution of the National Assembly for Wales.
+  >
+  > (3B) A statutory instrument containing an order under this section which is made only for the purpose of amending an earlier such order—
+  >
+  > - (a) so as to extend the earlier order, or any provision of the earlier order, to a particular authority or to authorities of a particular description, or
+  > - (b) so that the earlier order, or any provision of the earlier order, ceases to apply to a particular authority or authorities of a particular description,
+  >
+  > is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+  ; and
+- (c) omit subsections (4), (4A), (4B) and (5).
+
+(3) In the italic heading above section 9, for “section 5 or 6” substitute “ sections 5 to 7 ”.
+
+(4) In section 9 (procedure for orders under section 5 or 6)—
+
+- (a) in the heading, for “under section 5 or 6” substitute “ made by the Secretary of State under section 6 ”;
+- (b) in subsections (1), (3), (4) and (6) to (8), for “section 5 or 6” substitute “ section 6 ”.
+
+(5) In section 9A (procedure for orders under section 7)—
+
+- (a) in the heading, for “under section 7” substitute “ made by the Welsh Ministers under section 5 or 7 ”;
+- (b) in subsections (1) and (2), for “section 7” substitute “ section 5 or 7 ”;
+- (c) in subsection (3)—
+  - (i) for “section 7” substitute “ section 5 or 7 ”;
+  - (ii) after “for Wales”, in the second place those words occur, insert “ in accordance with section 5(3A) or 7(10) ”; and
+- (d) in subsections (5) to (7) for “section 7” substitute “ section 5 or 7 ”.
+
+(6) In section 105 (orders and regulations) [^c22945801], in subsections (6) and (6A), omit “, 5”.
+
+## 38. Vehicles (Crime) Act 2001
+
+(1) The functions of the Secretary of State under section 38(1), (3) and (4) (unified power of the Secretary of State to fund speed cameras etc) of the Vehicles (Crime) Act 2001 [^c22945811], so far as they are exercisable in relation to Wales and consist of a power to provide funding for safety cameras, are transferred to the Welsh Ministers.
+
+(2) In paragraph (1), “**safety camera**” means a camera designed to prevent or detect any of the offences specified in section 38(2) of the Vehicles (Crime) Act 2001.
+
+## 39. Education Act 2002
+
+(1) In the Education Act 2002 [^c22945821] (“**the 2002 Act**”), in section 7 (exemptions available to qualifying schools), omit subsection (5).
+
+(2) The function of the Secretary of State under section 10(2) (determination of pay and conditions during and after exemption) of the 2002 Act, so far as it is exercisable in relation to an order made under section 7(2) by the Welsh Ministers [^c22945831], is transferred to the Welsh Ministers.
+
+(3) The functions of the Secretary of State under sections 122 to 124, 126 and 127 (teachers' pay and conditions) of the 2002 Act [^c22945841], so far as they are exercisable in relation to school teachers in Wales, are transferred to the Welsh Ministers.
+
+(4) Section 125 (reference to review body) of the 2002 Act does not apply in relation to an order under section 122 made by the Welsh Ministers.
+
+(5) Subject to paragraph (6), the functions of the Secretary of State under section 186 (student loans) of the 2002 Act, so far as they are exercisable in relation to Wales, are exercisable by the Welsh Ministers concurrently with the Secretary of State.
+
+(6) The function of making regulations in relation to loans of the description in section 186(2)(a) (loans under the Education (Student Loans) Act 1990) of the 2002 Act [^c22945851] is not exercisable by the Welsh Ministers.
+
+(7) References to the Secretary of State in the provisions in the Sale of Student Loans Act 2008 [^c22945861] mentioned in paragraph (8) are (despite section 9(4) of that Act) to be read as references to the Welsh Ministers so far as may be necessary in consequence of the transfer of functions effected by paragraph (5).
+
+(8) The provisions of the 2008 Act are—
+
+- (a) section 2(4)(a);
+- (b) section 2(5) as it has effect by virtue of section 2(6).
+
+## 40. Local Government Act 2003
+
+(1) The Local Government Act 2003 [^c22945871] (“**the 2003 Act**”) is amended in accordance with paragraphs (2) to (4).
+
+(2) In section 97 [^c22945881] (power to modify enactments in connection with charging or trading)—
+
+- (a) in subsection (1)—
+  - (i) for “Secretary of State” substitute “ appropriate authority ”;
+  - (ii) for “he” substitute “ the appropriate authority ”;
+- (b) in subsection (2) for “Secretary of State” substitute “ appropriate authority ”;
+- (c) omit subsections (7A) to (7C) and (8) [^c22945891];
+- (d) in subsection (9), after “no order shall be made” insert “ by the Secretary of State ”;
+- (e) in subsection (10), after “made” insert “ by the Secretary of State ”;
+- (f) after subsection (10) insert—
+
+  > (10A) Subject to subsection (10B), no order may be made by the Welsh Ministers under this section unless a draft of the statutory instrument containing the order has been laid before, and approved by a resolution of, the National Assembly for Wales.
+  >
+  > (10B) An order under this section which is made by the Welsh Ministers only for the purpose mentioned in subsection (10) is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+  ; and
+- (g) in subsection (11)—
+  - (i) before the definition of “discretionary service” insert—
+
+    > “**the appropriate authority**” means—
+    >
+    > - (a) in relation to England, the Secretary of State; and
+    > - (b) in relation to Wales, the Welsh Ministers;
+
+    ; and
+  - (ii) for the definition of “relevant authority” substitute—
+
+    > “**relevant authority**” means—
+    >
+    > - (a) in relation to England—
+    >   - (i) a best value authority in England;
+    >   - (ii) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;
+    >   - (iii) a parish council; or
+    >   - (iv) a parish meeting of a parish which does not have a separate parish council; and
+    > - (b) in relation to Wales—
+    >   - (i) a Welsh improvement authority; or
+    >   - (ii) a community council.
+
+    .
+
+(3) In section 98 (procedure for orders under section 97) [^c22945901]—
+
+- (a) in the heading, at the end insert “ : England ”;
+- (b) in subsection (2)—
+  - (i) omit the words from “and, where” to “section 97”;
+  - (ii) for “that section” substitute “ section 97 ”;
+  - (iii) at the end of paragraph (b) insert “ and ”;
+  - (iv) omit the word “and” at the end of paragraph (c); and
+  - (v) omit paragraph (d).
+
+(4) After section 98 insert—
+
+> **98A. Procedure for orders under section 97: Wales**
+>
+> (1) Before making an order under section 97, the Welsh Ministers must consult—
+>
+> - (a) such relevant authorities as appear to them to be likely to be affected by their proposals, and
+> - (b) such other persons as appear to them to be representative of interests likely to be so affected.
+>
+> (2) If, following consultation under subsection (1), the Welsh Ministers propose to make an order under section 97, they must lay before the National Assembly for Wales a document which—
+>
+> - (a) explains their proposals,
+> - (b) sets them out in the form of a draft order, and
+> - (c) gives details of the consultation under subsection (1).
+>
+> (3) Where a document relating to proposals is laid before the National Assembly for Wales under subsection (2), no draft of an order under section 97 to give effect to the proposals (with or without modification) may be laid before the Assembly until after the expiry of the period of sixty days beginning with the day on which the document was laid.
+>
+> (4) In calculating the period mentioned in subsection (3) no account is to be taken of any time during which the National Assembly for Wales is dissolved or is in recess for more than four days.
+>
+> (5) In preparing a draft order under section 97 the Welsh Ministers must consider any representations made during the period mentioned in subsection (3).
+>
+> (6) A draft order laid before the National Assembly for Wales in accordance with section 97(10A) must be accompanied by a statement of the Welsh Ministers giving details of—
+>
+> - (a) any representations considered in accordance with subsection (5), and
+> - (b) any changes made to the proposals contained in the document laid before the Assembly under subsection (2).
+>
+> (7) Nothing in this section applies to an order under section 97 which is made only for the purpose mentioned in section 97(10B).
+>
+> (8) In this section, “**relevant authority**” has the meaning given in section 97.
+
+.
+
+## 41. Civil Contingencies Act 2004
+
+(1) The Civil Contingencies Act 2004 [^c22945911] is amended in accordance with this article.
+
+(2) In section 2 (duty to assess, plan and advise)—
+
+- (a) in subsections (1) and (2), for “Part 1 or 2 of Schedule 1” substitute “ Part 1, 2 or 2A of Schedule 1 ”;
+- (b) after subsection (4) insert—
+
+  > (4A) The Welsh Ministers may, in relation to a person or body listed in Part 2A of Schedule 1, make regulations about—
+  >
+  > - (a) the extent of a duty under subsection (1) (subject to subsection (2));
+  > - (b) the manner in which a duty under subsection (1) is to be performed.
+
+  ;
+- (c) after subsection (6) insert—
+
+  > (6A) Subsection (5) has effect in relation to subsection (4A) as it has effect in relation to subsection (3), but as if—
+  >
+  > - (a) paragraph (e) were omitted,
+  > - (b) in paragraphs (h) and (i)—
+  >   - (i) a reference to Part 1 or 3 of Schedule 1 were a reference to Part 2A or 5 of that Schedule, and
+  >   - (ii) a reference to Part 1 of that Schedule were a reference to Part 2A of that Schedule, and
+  > - (c) in paragraph (p) the references to a Minister of the Crown, the Scottish Ministers and a Northern Ireland department were omitted.
+
+  .
+
+(3) In section 3 (section 2: supplemental)—
+
+- (a) after subsection (2) insert—
+
+  > (2A) The Welsh Ministers may issue guidance to a person or body listed in Part 2A or 5 of Schedule 1 about the matters specified in section 2(4A) and (5) (as applied by section 2(6A)).
+
+  ;
+- (b) in subsection (3)(a) for “section 2(3) or (4)” substitute “ section 2(3), (4) or (4A) ”;
+- (c) in subsection (3)(b) for “subsection (1) or (2)” substitute “ subsection (1), (2) or (2A) ”;
+- (d) in subsection (4) for “Part 1 or 2 of” substitute “ Part 1, 2 or 2A of ”;
+- (e) in subsection (5) for “Part 3 or 4 of” substitute “ Part 3, 4 or 5 of ”.
+
+(4) In section 4 (advice and assistance to the public)—
+
+- (a) in subsection (1) for “paragraph 1, 2 or 13” substitute “ paragraph 1, 13 or 18A ”;
+- (b) in subsection (2) for “paragraph 1 or 2” substitute “ paragraph 1 ”;
+- (c) after subsection (3) insert—
+
+  > (3A) The Welsh Ministers may, in relation to a body specified in paragraph 18A of that Schedule, make regulations about—
+  >
+  > - (a) the extent of the duty under subsection (1);
+  > - (b) the manner in which the duty under subsection (1) is to be performed.
+
+  ;
+- (d) in subsection (4) for “subsection (2) or (3)” substitute “ subsection (2), (3) or (3A) ”;
+- (e) in subsection (6) for “paragraph 1 or 2” substitute “ paragraph 1 ”;
+- (f) after subsection (7) insert—
+
+  > (7A) The Welsh Ministers may issue guidance to a body specified in paragraph 18A of that Schedule about the matters specified in subsections (3A) and (4).
+
+  ;
+- (g) in subsection (8)(a) for “subsection (2) or (3)” substitute “ subsection (2), (3) or (3A) ”;
+- (h) in subsection (8)(b) for “subsection (6) or (7)” substitute “ subsection (6), (7) or (7A) ”.
+
+(5) In section 5 (general measures)—
+
+- (a) after subsection (2) insert—
+
+  > (2A) The Welsh Ministers may by order require a person or body listed in Part 2A of Schedule 1 to perform a function of that person or body for the purpose of—
+  >
+  > - (a) preventing the occurrence of an emergency,
+  > - (b) reducing, controlling or mitigating the effects of an emergency, or
+  > - (c) taking other action in connection with an emergency.
+
+  ;
+- (b) after subsection (5) insert—
+
+  > (5A) Subsection (4) has effect in relation to subsection (2A) as it has effect in relation to subsection (1), but as if—
+  >
+  > - (a) in paragraphs (d) and (e)—
+  >   - (i) a reference to Part 1 or 3 of Schedule 1 were a reference to Part 2A or 5 of that Schedule, and
+  >   - (ii) a reference to Part 1 of that Schedule were a reference to Part 2A of that Schedule, and
+  > - (b) in paragraph (f) the references to a Minister of the Crown, to the Scottish Ministers and to a Northern Ireland department were omitted.
+
+  .
+
+(6) In section 6 (disclosure of information)—
+
+- (a) after subsection (2) insert—
+
+  > (2A) The Welsh Ministers may make regulations requiring or permitting one person or body listed in Part 2A or 5 of Schedule 1 (“**the provider**”) to disclose information on request to another person or body listed in any Part of that Schedule (“**the recipient**”).
+
+  ;
+- (b) in subsection (3) for “subsection (1) or (2)” substitute “ subsection (1), (2) or (2A) ”;
+- (c) after subsection (5) insert—
+
+  > (5A) The Welsh Ministers may issue guidance to a person or body about the performance of functions under regulations made under subsection (2A).
+
+  .
+- (d) in subsection (6)(a) for “subsection (1) or (2)” substitute “ subsection (1), (2) or (2A) ”;
+- (e) in subsection (6)(b) for “subsection (4) or (5)” substitute “ subsection (4), (5) or (5A) ”.
+
+(7) After section 8 (urgency: Scotland) insert—
+
+> **8A. Urgency: Wales**
+>
+> (1) This section applies where—
+>
+> - (a) there is an urgent need to make provision of the kind that could be made by an order under section 5(2A) or by regulations under section 6(2A), but
+> - (b) there is insufficient time for the order or regulations to be made.
+>
+> (2) The Welsh Ministers may by direction make provision of the kind that could be made by an order under section 5(2A) or by regulations under section 6(2A).
+>
+> (3) A direction under subsection (2) must be in writing.
+>
+> (4) Where the Welsh Ministers give a direction under subsection (2)—
+>
+> - (a) they may revoke or vary the direction by further direction,
+> - (b) they must revoke the direction as soon as is reasonably practicable (and they may, if or in so far as they think it desirable, re-enact the substance of the direction by way of an order under section 5(2A) or by way of regulations under section 6(2A)), and
+> - (c) the direction ceases to have effect at the end of the period of 21 days beginning with the day on which it is given (but without prejudice to the power to give a new direction).
+>
+> (5) A provision of a direction under subsection (2) is to be treated for all purposes as if it were a provision of an order under section 5(2A) or of regulations under section 6(2A).
+
+.
+
+(8) In section 9 (monitoring by Government)—
+
+- (a) after subsection (2) insert—
+
+  > (2A) The Welsh Ministers may require a person or body listed in Part 2A or 5 of Schedule 1—
+  >
+  > - (a) to provide information about action taken by the person or body for the purpose of complying with a duty under this Part, or
+  > - (b) to explain why the person or body has not taken action for the purpose of complying with a duty under this Part.
+
+  ;
+- (b) in subsection (3) for “subsection (1) or (2)” substitute “ subsection (1), (2) or (2A) ”;
+- (c) in subsection (4) for “subsection (1) or (2)” substitute “ subsection (1), (2) or (2A) ”.
+
+(9) In section 10(1) (enforcement) for “15(7) or 15A(8)” substitute “ 15(7), 15A(8) or 15B(7) ”.
+
+(10) After section 11 (enforcement: Scotland) insert—
+
+> **11A. Enforcement: Wales**
+>
+> (1) Any of the following may bring proceedings in the High Court in respect of a failure by a person or body listed in Part 2A or 5 of Schedule 1 to comply with section 2(1), 3(3), 4(1) or (8), 5(3), 6(6), 9(4) or 15B(7)—
+>
+> - (a) the Welsh Ministers,
+> - (b) a person or body listed in Part 2A of Schedule 1, and
+> - (c) a person or body listed in Part 5 of Schedule 1.
+>
+> (2) In proceedings under subsection (1) the High Court may grant any relief, or make any order, that it thinks appropriate.
+
+.
+
+(11) In section 13 (amendment of lists of responders)—
+
+- (a) after subsection (2) insert—
+
+  > (2A) The Welsh Ministers may by order amend Schedule 1 so as to—
+  >
+  > - (a) add an entry for a devolved Welsh authority to Part 2A or 5;
+  > - (b) remove an entry from Part 2A or 5;
+  > - (c) move an entry from Part 2A to Part 5 or vice versa.
+  >
+  > (2B) In subsection (2A) “**devolved Welsh authority**” has the meaning given in section 157A of the Government of Wales Act 2006 [^c22945921].
+
+  ;
+- (b) in subsection (3) for “subsection (1) or (2)” substitute “ subsection (1), (2) or (2A) ”.
+
+(12) After section 14A (Northern Ireland: consultation) insert—
+
+> **14B. Wales: consultation**
+>
+> (1) A Minister of the Crown must consult the Welsh Ministers before making regulations or an order under this Part in relation to a person or body if or in so far as the person or body exercises functions in relation to Wales.
+>
+> (2) The Welsh Ministers must consult a Minister of the Crown before making regulations or an order under this Part.
+
+.
+
+(13) In section 15 (Scotland: cross-border collaboration)—
+
+- (a) in subsection (1) for “Part 1” in each place it occurs, substitute “ Part 1 or 2A ”;
+- (b) in subsection (5)—
+  - (i) for “section 5(1)” substitute “ section 5(1) or (2A) ”;
+  - (ii) for “Part 1” in each place that it occurs, substitute “ Part 1 or 2A ”.
+
+(14) In section 15A (Northern Ireland: cross-border collaboration)—
+
+- (a) in subsection (1)(a)—
+  - (i) for “section 15(3) or (6)” substitute “ section 15(3) or (6), or section 15B(3) or (6) ”; and
+  - (ii) for “Part 2” substitute “ Part 2 or 2A ”;
+- (b) in subsection (1)(b) for “section 15(4)” substitute “ section 15(4) or 15B(4) ”.
+
+(15) After section 15A insert—
+
+> **15B. Wales: cross-border collaboration**
+>
+> (1) Where a person or body listed in Part 1 or 2 of Schedule 1 has a duty under section 2 or 4, the Welsh Ministers may make regulations—
+>
+> - (a) permitting or requiring a person or body listed in Part 2A or 5 of that Schedule to co-operate, to such extent and in such manner as may be specified, with the person or body listed in Part 1 or 2 of that Schedule in connection with the performance of the duty;
+> - (b) permitting or requiring a person or body listed in Part 2A or 5 of that Schedule to provide information, either on request or in other specified circumstances, to the person or body listed in Part 1 or 2 of that Schedule in connection with the performance of the duty.
+>
+> (2) The Welsh Ministers may issue guidance about a matter addressed in regulations under subsection (1).
+>
+> (3) Where a person or body listed in Part 2A of Schedule 1 has a duty under section 2 or 4, a Minister of the Crown may make regulations—
+>
+> - (a) permitting or requiring a person or body listed in Part 1 or 3 of that Schedule to co-operate, to such extent and in such manner as may be specified, with the person or body listed in Part 2A of that Schedule in connection with the performance of the duty;
+> - (b) permitting or requiring a person or body listed in Part 1 or 3 of that Schedule to provide information, either on request or in other specified circumstances, to the person or body listed in Part 2A of that Schedule in connection with the performance of the duty.
+>
+> (4) A Minister of the Crown may issue guidance about a matter addressed in regulations under subsection (3).
+>
+> (5) If an order is made under section 5(1) or (2) imposing a duty on a person or body listed in Part 1 or 2 of Schedule 1, the Welsh Ministers may make an order—
+>
+> - (a) permitting or requiring a person or body listed in Part 2A or 5 of that Schedule to co-operate, to such extent and in such manner as may be specified, with the person or body listed in Part 1 or 2 of that Schedule in connection with the duty;
+> - (b) permitting or requiring a person or body listed in Part 2A or 5 of that Schedule to provide information, either on request or in other specified circumstances, to the person or body listed in Part 1 or 2 of that Schedule in connection with the duty.
+>
+> (6) If the Welsh Ministers make an order under section 5(2A) imposing a duty on a person or body listed in Part 2A of Schedule 1, a Minister of the Crown may make an order—
+>
+> - (a) permitting or requiring a person or body listed in Part 1 or 3 of that Schedule to co-operate, to such extent and in such manner as may be specified, with the person or body listed in Part 2A of that Schedule in connection with the duty;
+> - (b) permitting or requiring a person or body listed in Part 1 or 3 of that Schedule to provide information, either on request or in other specified circumstances, to the person or body listed in Part 2A of that Schedule in connection with the duty.
+>
+> (7) A person or body must—
+>
+> - (a) comply with regulations or an order under this section, and
+> - (b) have regard to guidance under this section.
+>
+> (8) In this Act, except where the contrary intention appears—
+>
+> - (a) a reference to an order under section 5(1) includes a reference to an order under subsection (6) above; and
+> - (b) a reference to an order under section 5(2A) includes a reference to an order under subsection (5) above.
+
+.
+
+(16) In section 16 (National Assembly for Wales)—
+
+- (a) omit subsection (1);
+- (b) omit subsection (4)(a); and
+- (c) in subsection (4)(b) for “paragraph 4, 5, 8, 9, 10, 11 or 21 of that Schedule” substitute “ paragraph 9 or 10 of Schedule 1 ”.
+
+(17) In section 17 (regulations and orders)—
+
+- (a) in subsection (1) for “or the Scottish Ministers” substitute “ , the Scottish Ministers or the Welsh Ministers ”;
+- (b) after subsection (3) insert—
+
+  > (3ZA) An order under section 5(2A) or 13(2A) may not be made by the Welsh Ministers unless a draft has been laid before and approved by a resolution of the National Assembly for Wales.
+
+  ;
+- (c) after subsection (5) insert—
+
+  > (5ZA) Regulations made by the Welsh Ministers under this Part are subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+  .
+
+(18) In Schedule 1 (category 1 and 2 responders), in Part 1 (category 1 responders: general)—
+
+- (a) omit paragraph 2;
+- (b) in paragraph 4, after “fire and rescue authority” insert “ in England, ”;
+- (c) omit paragraph 5;
+- (d) omit paragraph 8;
+- (e) in paragraph 10, after “port health authority” insert “ in England ”; and
+- (f) omit paragraph 12A [^c22945931].
+
+(19) In Schedule 1, after Part 2 (category 1 responders: Scotland) insert—
+
+> **PART 2A — Category 1 Responders: Wales**
+>
+> **18A. Local authorities**
+>
+> (1) A county council in Wales.
+>
+> (2) A county borough council.
+>
+> **18B. Emergency services**
+>
+> A fire and rescue authority in Wales within the meaning of section 1 of the Fire and Rescue Services Act 2004 [^c22945941].
+>
+> **18C. Health**
+>
+> A National Health Service trust established under section 18 of the National Health Service (Wales) Act 2006 [^c22945951] if, and so far as, it has the function of providing—
+>
+> - (a) ambulance services,
+> - (b) hospital accommodation and services in relation to accidents and emergencies, or
+> - (c) services in relation to public health.
+>
+> **18D.**
+>
+> A Local Health Board established under section 11 of the National Health Service (Wales) Act 2006.
+>
+> **18E. Environment**
+>
+> The Natural Resources Body for Wales.
+>
+> **18F. Port Health Authorities**
+>
+> A port health authority in Wales constituted under section 2(4) of the Public Health (Control of Disease) Act 1984 [^c22945961].
+
+.
+
+(20) In Schedule 1, in Part 3 (category 2 responders: general) in paragraph 21 after “sewerage undertaker” insert “ for an area wholly or mainly in England ”.
+
+(21) In Schedule 1, after Part 4 (category 2 responders: Scotland), insert—
+
+> **PART 5 — Category 2 Responders: Wales**
+>
+> **39. Utilities**
+>
+> A water undertaker or sewerage undertaker appointed under section 6 of the Water Industry Act 1991 [^c22945971] for an area wholly or mainly in Wales.
+>
+> **40. Transport**
+>
+> The Welsh Ministers, in so far as their functions relate to matters for which they are responsible by virtue of section 1 of the Highways Act 1980 [^c22945981].
+
+.
+
+## 42. Health Act 2006
+
+(1) The Health Act 2006 [^c22945991] is amended in accordance with paragraphs (2) and (3).
+
+(2) In section 13 (power to amend age for sale of tobacco etc)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) The Secretary of State may from time to time by order amend the enactments mentioned in subsection (1B) to—
+  >
+  > - (a) substitute, in each place where a person's age is specified, a different age specified in the order; and
+  > - (b) provide that the substitutions apply in relation to England only.
+  >
+  > (1A) The Welsh Ministers may from time to time by order amend the enactments mentioned in subsection (1B) to—
+  >
+  > - (a) substitute, in each place where a person's age is specified, a different age specified in the order, and
+  > - (b) provide that the substitutions apply in relation to Wales only.
+  >
+  > (1B) The enactments are—
+  >
+  > - (a) section 7 of the Children and Young Persons Act 1933 [^c22946001] (sale of tobacco etc to persons under 16),
+  > - (b) section 4 of the Children and Young Persons (Protection from Tobacco) Act 1991 [^c22946011] (warning statements in retail premises and on vending machines).
+
+  .
+- (b) in subsection (2), after (1) insert “ or (1A) ”.
+
+(3) In section 79(4A) (orders and regulations) [^c22946021] for “regulations under section 9(1A) or paragraph 17 of Schedule 1” substitute—
+
+> - (a) regulations under section 9(1A),
+> - (b) an order under section 13, or
+> - (c) regulations under paragraph 17 of Schedule 1,
+
+.
+
+## 43. National Health Service Act 2006
+
+(1) The functions of the Secretary of State under section 251 (control of patient information) of the National Health Service Act 2006 [^c22946031] (“**the 2006 Act**”), so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers.
+
+(2) In relation to regulations made by the Welsh Ministers under section 251 of the 2006 Act, section 252 (consultation with the Care Quality Commission) of that Act does not apply.
+
+## 44. Planning Act 2008
+
+(1) Subject to paragraph (2), the functions of the Secretary of State under Part 11 (community infrastructure levy) of the Planning Act 2008 [^c22946041] (“**the 2008 Act**”), so far as they are exercisable in relation to Wales, are transferred to the Welsh Ministers.
+
+(2) The function of the Secretary of State under section 218(12) Act (power to amend subsection (11) of that section) of the 2008 is not transferred by paragraph (1).
+
+(3) The Treasury consent requirement in section 205(1) (the levy) of the 2008 Act ceases to apply in so far as the function under that provision is exercised by the Welsh Ministers.
+
+## 45. Transfer of functions in relation to electoral legislation[^key-f1740e7c7f4d80a37c35b010373ae86b]
+
+(1) The functions of a Minister of the Crown conferred by or by virtue of the Acts and instruments listed in Schedule 1, so far as those functions are exercisable within devolved competence [^c22946051], are exercisable by the Welsh Ministers in accordance with that Schedule instead of by the Minister.
+
+(2) For the purposes of this article—
+
+- (a) the exercise of a function of making, confirming or approving subordinate legislation is within devolved competence if the provisions of that subordinate legislation would be within the legislative competence of the Assembly if they were included in an Act of the Assembly; and
+- (b) the exercise of any other function (or the exercise of any other function in any way) is within devolved competence so far as a provision conferring that function (or conferring it so as to be exercisable in that way) would be within the legislative competence of the Assembly if it were included in an Act of the Assembly.
+
+(3) So far as may be necessary for the purposes of, or in consequence of, the exercise of a function transferred to the Welsh Ministers by this article and Schedule 1, any enactments passed before the coming into force of this article, any instrument made under those enactments, and any other document, are to be read as if a reference to a Minister of the Crown (however described) was a reference to the Welsh Ministers.
+
+## 46. Consequential provision
+
+Schedule 2 (which makes provision consequential to articles 36 and 45) has effect.
+
+## 47. Transitory provisions
+
+(1) The Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005 [^c22946061] have effect until immediately before the first regulations made by the Welsh Ministers under section 2 or 4 of the Civil Contingencies Act 2004 (as amended by this Order) come into force for any purpose, with the following modifications—
+
+- (a) regulation 3 (interpretation) is to be read as if—
+  - (i) in the definition of “Category 1 responder”, for “Part 1 or 2 of Schedule 1” there were substituted “ Part 1, 2 or 2A of Schedule 1 ”;
+  - (ii) in the definition of “general Category 1 responder” for “Part 1 of Schedule 1” there were substituted “ Part 1 or 2A of Schedule 1 ”;
+  - (iii) in the definition of “general Category 2 responder”, at the end of paragraph (a), there were inserted “or paragraph 39 of Part 5 of that Schedule”;
+- (b) regulation 36 (interpretation of Part 7) is to be read as if in paragraph (a) for “paragraph 1 or 2 of Schedule 1” there were substituted “ paragraph 1 or 18A of Schedule 1 ”.
+
+(2) Until the repeal of section 25 of the National Health Service Act 2006 [^c22946071] by section 179 of the Health and Social Care Act 2012 [^c22946081] comes into force, Part 1 of Schedule 1 to the Civil Contingencies Act 2004 has effect as if paragraph 5 were not omitted but instead read as if—
+
+- (a) the words “or section 18 of the National Health Service (Wales) Act 2006” were omitted;
+- (b) the word “or” were inserted at the end of sub-paragraph (a); and
+- (c) sub-paragraph (c) (and the “or” preceding it) were omitted.
+
+Ceri King
+
+Deputy Clerk to the Privy Council
+
+## SCHEDULE 1 — Electoral legislation[^key-c481ecec6052af98d251d7a742cc6e13]
+
+Article 45
+
+**1.** The Representation of the People Act 1983 [^c22946091]. Article 45(1) does not operate to transfer the function of the Lord Chancellor under section 161 (justice of the peace) to the Welsh Ministers.
+
+**2.** The Representation of the People Act 2000 [^c22946101].
+
+**3.** Section 44 of the Local Government Act 2000 (power to make provision about elections) [^c22946111].
+
+**4.** The Political Parties, Elections and Referendums Act 2000 [^c22946121].
+
+- (a) Section 6F(5) (code of practice on attendance of observers at elections etc) applies in relation to a code on which the Electoral Commission consults the Welsh Ministers under section 6F(4) as if the reference to each House of Parliament were a reference to the Assembly;
+- (b) Section 155 (power to vary specified sums or percentages) has effect in relation to the exercise of the function under subsection (1) of that section by the Welsh Ministers as if after subsection (4B) there were inserted—
+
+  > (4C) In each National Assembly for Wales, other than one that is dissolved less than two years after the date of its first sitting, the Welsh Ministers must either make an order in pursuance of subsection (2)(a), or lay before the Assembly a statement setting out the Welsh Ministers' reasons for not doing so.
+
+  .
+
+**5.** The Electoral Administration Act 2006 [^c22946131].
+
+**6.** The Political Parties and Elections Act 2009 [^c22946141].
+
+**7.** The Electoral Registration and Administration Act 2013 [^c22946151].
+
+**8.** Regulation 91(5) of the Representation of the People (England and Wales) Regulations 2001 [^c22946161].
+
+**9.** The National Assembly for Wales (Representation of the People) Order 2007 [^c22946171] (“**the 2007 Order**”). Article 45(1) of this Order does not operate to transfer the function of the Lord Chancellor under article 113 of the 2007 Order (justice of the peace) to the Welsh Ministers.
+
+## SCHEDULE 2 — Consequential provision
+
+Article 46
+
+### 1. Representation of the People Act 1983
+
+Paragraph 11 of Schedule ZA1 to the Representation of the People Act 1983 (civil penalties under section 9E) [^c22946181], in a case where the penalty is received by a registration officer in Wales, is to have effect as if the reference to the Consolidated Fund were a reference to the Welsh Consolidated Fund.
+
+### 2. Government of Wales Act 2006
+
+In the table in paragraph 1 of Schedule 3A (functions of Ministers of Crown, etc exercisable concurrently or jointly with Welsh Ministers) to the Government of Wales Act 2006 [^c22946191]—
+
+- (a) in the entry relating to the Pollution Prevention and Control Act 1999, in the second column, omit paragraph (b) (and the word “but” immediately before it);
+- (b) at the end of the first column insert “ Education Act 2002 ”; and
+- (c) in the second column, for that entry, insert “ Functions of the Secretary of State under section 186 (student loans), but excluding the power to make regulations in relation to loans of the description in section 186(2)(a) ”.
+
+### 3. Representation of the People (England and Wales) Regulations 2001
+
+(1) The Representation of the People (England and Wales) Regulations 2001 [^c22946201] are amended in accordance with this paragraph.
+
+(2) In regulation 26 (applications for registration) [^c22946211] after paragraph (6) insert—
+
+> (6A) Before giving approval under paragraph (6) in respect of the design of forms under paragraphs (3), (4) and (5A), the Minister must consult the Welsh Ministers.
+
+.
+
+(3) In regulation 26A (application for alteration of register in respect of a name under section 10ZD) [^c22946221] after paragraph (3) insert—
+
+> (3A) Before giving approval under paragraph (3), the Minister must consult the Welsh Ministers.
+
+.
+
+(4) In regulation 29 (procedure for determining applications for registration and objections without a hearing) [^c22946231], after paragraph (2BF) insert—
+
+> (2BG) Before giving the approval referred to in paragraph (2BF)(b), the Minister must consult the Welsh Ministers.
+
+.
+
+(5) In regulation 32ZA (annual canvass) [^c22946241] after paragraph (2) insert—
+
+> (2A) Before giving the approval referred to in paragraph (2)(b), the Minister must consult the Welsh Ministers.
+
+.
+
+(6) In regulation 32ZC (invitations to apply for registration) [^c22946251] after paragraph (1) insert—
+
+> (1A) Before giving the approval referred to in paragraph (1)(b), the Minister must consult the Welsh Ministers.
+
+.
+
+### 4. National Assembly for Wales (Representation of the People) Order 2007
+
+In article 90 (judges' expenses and reception) of the National Assembly for Wales (Representation of the People) Order 2007 for “be defrayed by the Secretary of State out of money provided by Parliament” substitute “ be paid out of the Welsh Consolidated Fund ”.
+
+*(This note is not part of the Order)*
+
+This instrument transfers functions exercisable in relation to Wales from Ministers of the Crown to the Welsh Ministers and makes consequential amendments to primary and secondary legislation.
+
+Articles 2 to 45 and Schedule 1 specify the functions within enactments which are transferred.
+
+Articles 13, 22 to 24, 32, 37 and 39 to 42 and paragraph 2 of Schedule 2 amend primary legislation. Articles 2, 3, 5, 9, 14, 17, 19, 39, 43 and 45, paragraph 4 of Schedule 1 and paragraph 1 of Schedule 2 modify the application of primary legislation.
+
+Articles 7(1) and 36(2) provide for Minister of the Crown functions to be exercisable only with the consent of the Welsh Ministers.
+
+Articles 2, 3, 8, 9, 10, 12, 16, 19, 21, 23, 27, 28, 30, 31 and 44 remove the requirement to obtain Treasury consent to the exercise of a function and article 39(1) removes the requirement to obtain the consent of the Secretary of State to the exercise of a function.
+
+Article 47 makes transitory provision in relation to the Civil Contingencies Act 2004 and regulations made under that Act.
+
+Schedule 2 makes consequential amendments to primary and secondary legislation.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c22945231]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^c22945241]: Marginal citation: [Section 58(1)](https://www.legislation.gov.uk/uksi/2018/644/section/58/1) was amended by section 43(4) of, and paragraph 6(1), and (3)(a) to (c) of Part 2 of Schedule 4 to, the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) and by sections 21(1) and 49 of the [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^c22945251]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^c22945261]: Marginal citation: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^c22945271]: Marginal citation: [2017 c. 4](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^c22945281]: Marginal citation: [1946 c. 29](https://www.legislation.gov.uk/ukpga/1946/29).
+
+[^c22945291]: Marginal citation: The functions of the Minister were transferred, so far as they are exercisable in relation to Wales, to the Secretary of State for Wales acting jointly with the Minister of Agriculture, Fisheries and Food by article 2 of, and Schedule 1 to, [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272). The functions transferred by that instrument to the Secretary of State were transferred to the National Assembly for Wales by the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^c22945301]: Marginal citation: [1947 c. 40](https://www.legislation.gov.uk/ukpga/1947/40); the functions of the Minister of Agriculture, Fisheries and Food were transferred to the National Assembly for Wales by the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945311]: Marginal citation: [Section 7(4)](https://www.legislation.gov.uk/uksi/2018/644/section/7/4) was amended by article 5 of, and paragraph 1(1) of Schedule 1 to, [S.I. 2017/1313](https://www.legislation.gov.uk/uksi/2017/1313).
+
+[^c22945321]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48); [section 73](https://www.legislation.gov.uk/uksi/2018/644/section/73) was amended by section 8(1) of paragraph 3 of Part 1 of Schedule 1 to, the [Agriculture Act 1958 (c. 71)](https://www.legislation.gov.uk/ukpga/1958/71), [section 100](https://www.legislation.gov.uk/ukpga/1958/71/section/100) of, and paragraph 18 of Schedule 14 to, the [Agricultural Holdings Act 1986 (c. 5)](https://www.legislation.gov.uk/ukpga/1986/5) and article 6(1) of, and paragraphs 189 and 190(a) to (c), (d)(ii) and (iii), and (e) to (f) of Part 2 of Schedule 1 to, [S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036).
+
+[^c22945331]: Marginal citation: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74); there are amendments to section 17 which are not relevant to this instrument. The functions of Ministers of the Crown other than “the Minister” and the Minister of Agriculture, Fisheries and Food, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945341]: Marginal citation: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97); [paragraph 4](https://www.legislation.gov.uk/uksi/2018/644/paragraph/4) of Schedule 1 was amended by section 312(2) of, and Schedule 25 to, the [Highways Act 1959 (c. 25)](https://www.legislation.gov.uk/ukpga/1959/25).
+
+[^c22945351]: Marginal citation: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47); there have been amendments to section 22 which are not relevant to this instrument.
+
+[^c22945361]: Marginal citation: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14); the functions of the Minister of Agriculture, Fisheries and Food, so far as they are exercisable in relation to Wales, were transferred to the Secretary of State by article 2 of, and Schedule 1 to, the [Transfer of Functions (Wales) (No. 1) Order 1978 (S.I. 1978/272)](https://www.legislation.gov.uk/uksi/1978/272). Those functions were then transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945371]: Marginal citation: [1967 c. 8](https://www.legislation.gov.uk/ukpga/1967/8); [section 4](https://www.legislation.gov.uk/uksi/2018/644/section/4) was amended by section 4 of and paragraph 8(1) and (3) of Schedule 4 to the [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68) and section 4A was inserted by section 3 of the [Agriculture Act 1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49). The functions of the Minister of Agriculture, Fisheries and Food under section 4, so far as they are exercisable in relation to Wales, were transferred to the Secretary of State for Wales by article 2 of, and Schedule 1 to, the Transfer of Functions (Wales) (No. 1) Order 1978; those functions and the functions of the competent authority under section 4A, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order, subject to the continuing requirement for Treasury consent. Those functions are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945381]: Marginal citation: [1967 c. 22](https://www.legislation.gov.uk/ukpga/1967/22); the functions of the appropriate Minister were transferred to the Welsh Ministers, subject to the continuing requirement for Treasury approval, by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945391]: Marginal citation: [1970 c. 30](https://www.legislation.gov.uk/ukpga/1970/30).
+
+[^c22945401]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40); subsection (10) was amended by [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537). The functions of the Secretary of State, so far as they are exercisable in relation to Wales, were transferred to National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945411]: Marginal citation: [1970 c. 44](https://www.legislation.gov.uk/ukpga/1970/44); subsections (1A) and (8C) were inserted into section 21 by section 1(1) and (3) of [Disabled Persons' Parking Badges Act 2013 (c. 4)](https://www.legislation.gov.uk/ukpga/2013/4); subsection (8C) was amended by article 4(1) and (2)(a) and (b) of [S.I. 2016/436](https://www.legislation.gov.uk/uksi/2016/436).
+
+[^c22945421]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c22945431]: Marginal citation: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51); [section 37A](https://www.legislation.gov.uk/uksi/2018/644/section/37A) was inserted by section 104 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and was amended by article 4(1) of, and paragraphs 127 and 147 (1) to (3) of Part 1 of Schedule 2 to, [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). The functions of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the Welsh Ministers by article 2 of, and Schedule 1 to, the 1999 Order, leaving the functions of “the Minister” exercisable by a Minister of the Crown. The expression “the Ministers” is defined in section 37A as meaning the Secretary of State and the Minister – thus the transfer effected by this article transfers all the Minister of the Crown functions under this section which are exercisable in relation to Wales, to the Welsh Ministers.
+
+[^c22945441]: Marginal citation: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29); there are amendments to sections 15 and 16 which are not relevant to this instrument. The functions of the Minister under sections 15 and 16, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order, and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945451]: Marginal citation: See article 4 of the [Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760) as to the functions of the Welsh Ministers in relation to the Welsh Zone. The functions of a Minister of the Crown under sections 15 and 16, so far as exercisable in relation to the Welsh Zone, were transferred to the Welsh Ministers by articles 4(1)(e), 5(2) and (3), 6(2) and 7 of that Order.
+
+[^c22945461]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64); [section 69(1)](https://www.legislation.gov.uk/uksi/2018/644/section/69/1) was amended by sections 50(2) and 321(1) of, and paragraphs 1, 22(1), (2)(a) of Schedule 15, and Schedule 16 to, the [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17). The functions of the Secretary of State, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945471]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67); there are amendments to section 16 which are not relevant to this instrument; see [section 8(3)](https://www.legislation.gov.uk/ukpga/1981/67/section/8/3) for the definition of “appropriate Minister”. See article 2 of, and Schedule 1 to, the 1999 Order as to the functions transferred to the National Assembly for Wales and which are exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945481]: Marginal citation: [1982 c. 10](https://www.legislation.gov.uk/ukpga/1982/10).
+
+[^c22945491]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); [Schedule 7A](https://www.legislation.gov.uk/uksi/2018/644/schedule/7A) was inserted by Schedule 1 to the [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^c22945501]: Marginal citation: There are amendments to section 4 which are not relevant to this instrument.
+
+[^c22945511]: Marginal citation: There are amendments to section 1 which are not relevant to this instrument.
+
+[^c22945521]: Marginal citation: There are amendments to sections 11, 12, 13, 14 and 16 which are not relevant to this instrument.
+
+[^c22945531]: Marginal citation: [Section 15(1)](https://www.legislation.gov.uk/uksi/2018/644/section/15/1) and (2) was amended by section 22(4) of, and paragraph 13 of Schedule 4 to, the [Employment Act 1989 (c. 38)](https://www.legislation.gov.uk/ukpga/1989/38).
+
+[^c22945541]: Marginal citation: [Section 5(5)](https://www.legislation.gov.uk/uksi/2018/644/section/5/5) was amended by sections 22(4) of, and paragraph 4 of Schedule 4 to, the Employment Act 1989.
+
+[^c22945551]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20); [section 78](https://www.legislation.gov.uk/uksi/2018/644/section/78) was amended by section 107(1) of, and paragraph 40 of Schedule 3 to, the [Arbitration Act 1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23), [section 38(1)](https://www.legislation.gov.uk/ukpga/1996/23/section/38/1) and (3), and 55 of, and Part 6 of Schedule 11 to, the [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [section 208(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/208/1) of, and paragraphs 53 and 60 of Schedule 21 to, the [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29) and articles 9(1) and 39 of, and paragraphs 58 and 59 of Schedule 3 to, [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
+
+[^c22945561]: Marginal citation: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48). There are amendments to sections 16 which are not relevant to this instrument; [section 16(2)](https://www.legislation.gov.uk/uksi/2018/644/section/16/2) was amended by section 1(2) and (3) of the [Pesticides Act 1998 (c. 26)](https://www.legislation.gov.uk/ukpga/1998/26); [section 16(13A)](https://www.legislation.gov.uk/uksi/2018/644/section/16/13A) was inserted by, and section 18 substituted by, section 1(1) of the [Pesticides (Fees and Enforcement) Act 1989 (c. 27)](https://www.legislation.gov.uk/ukpga/1989/27). The functions of the Minister of Agriculture, Fisheries and Food under sections 16 and 18, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945571]: Marginal citation: [1988 c. 30](https://www.legislation.gov.uk/ukpga/1988/30).
+
+[^c22945581]: Marginal citation: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541).
+
+[^c22945591]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); [paragraph 1(2)](https://www.legislation.gov.uk/uksi/2018/644/paragraph/1/2) was amended by section 5(1) and (2)(a) of, and paragraphs 2 and 3 of Part 1 of Schedule 3 to, the [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17). The functions of a Minister of the Crown under paragraph 1(2), so far as they are exercisable in relation to Wales, apart from the Treasury function, were transferred to the Welsh Ministers by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945601]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29); [section 62](https://www.legislation.gov.uk/uksi/2018/644/section/62) was amended by section 3(2) of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), [section 102(1)](https://www.legislation.gov.uk/ukpga/2000/27/section/102/1) and (3) of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) and article 6(1) of, and paragraph 8 of Schedule 5 to, [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750).
+
+[^c22945611]: Marginal citation: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^c22945621]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8); [section 265(1)(a)](https://www.legislation.gov.uk/uksi/2018/644/section/265/1/a) was repealed by article 6(1) of, and paragraphs 11 and 14(a) of the Schedule to, [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971) and a new paragraph (a) was inserted by article 20 of, and paragraphs 15(1) and (4)(a) of Schedule 2 to, [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626); subsection (3)(aa) was inserted by article 4(1) of, and paragraphs 198 and 203 of Part 1 of Schedule 2 to, [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). There are other amendments to section 265 not relevant to this instrument.
+
+[^c22945631]: Marginal citation: [1990 c. 10](https://www.legislation.gov.uk/ukpga/1990/10); [section 36B](https://www.legislation.gov.uk/uksi/2018/644/section/36B) was inserted by section 25 of, and paragraph 12 of Schedule 3 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). The function of the “appropriate Minister” in section 36B, so far as it is exercisable in relation to Wales, was transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order only to the extent of its operation in cases where the Environment Agency and water and sewerage undertakers are deemed to be statutory undertakers. That function is now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945641]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). The functions of the Secretary of State under section 113, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945651]: Marginal citation: [1991 c. 33](https://www.legislation.gov.uk/ukpga/1991/33); [section 2(1)](https://www.legislation.gov.uk/uksi/2018/644/section/2/1) was amended by article 6(1)(e) of [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). The functions of the Minister under section 2, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales, subject to the continuing requirement for Treasury approval, by article 2 of, and Schedule 1 to, the 1999 Order. Those functions are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945661]: Marginal citation: [1991 c. 54](https://www.legislation.gov.uk/ukpga/1991/54). The functions of the Secretary of State under sections 2 and 7, so far as they are exercisable in relation to Wales (but in the case of section 7(5)(b), only the function of the Secretary of State as “agriculture Minister”), were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945671]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13). The provisions of paragraph 16 were modified, and the functions of a Minister of the Crown under that paragraph so far as they are exercisable in relation to Wales, subject to a continuing requirement for Treasury consent, were transferred to the National Assembly for Wales, by article 2 of, and Schedule 1 to, the 1999 Order. Those functions are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945681]: Marginal citation: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^c22945691]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^c22945701]: Marginal citation: There have been amendments to section 9 which are not relevant to this instrument; subsection (6) was inserted by article 15(5) of, and paragraph 48(1) and (2) of Part 1 of Schedule 18 to, [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
+
+[^c22945711]: Marginal citation: There have been amendments to section 10 which are not relevant to this instrument; subsection (9) was inserted by article 15(5) of, and paragraph 48(1) and (3) of Part 1 of Schedule 18 to, [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
+
+[^c22945721]: Marginal citation: Subsection (2) was inserted by article 15(5) of, and paragraph 48(1) and (5) of Schedule 18 to, [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
+
+[^c22945731]: Marginal citation: Subsection (2A) was inserted by article 15(5) of, and paragraph 48(1) and (7) of Schedule 18 to, [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
+
+[^c22945741]: Marginal citation: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40); relevant amendments were made by articles 2(n) and 28(a) of [S.I. 2002/808](https://www.legislation.gov.uk/uksi/2002/808) and section 6 of, and paragraphs 73 and 74 of Part 2 of Schedule 1 to, the [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3). There are other amendments which are not relevant to this instrument.
+
+[^c22945751]: Marginal citation: [Sections 79B](https://www.legislation.gov.uk/uksi/2018/644/section/79B) and 79C were inserted by the Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^c22945761]: Marginal citation: [1997 c. 23](https://www.legislation.gov.uk/ukpga/1997/23); [section 2](https://www.legislation.gov.uk/uksi/2018/644/section/2) was amended by articles 4 and 5 of, and paragraph 5 of the Schedule to, [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837).
+
+[^c22945771]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31); [section 137](https://www.legislation.gov.uk/uksi/2018/644/section/137) was amended by section 149 of, and paragraph 87 of Schedule 9 to, the [Learning and Skills Act 2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21).
+
+[^c22945781]: Marginal citation: [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24); [section 2](https://www.legislation.gov.uk/uksi/2018/644/section/2) was amended by section 62(13) of the [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21) and article 4(1) of, and paragraphs 394 and 395 of Part 1 of Schedule 2 to, [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). The functions of the Secretary of State, so far as they are exercisable in relation to Wales and do not consist of functions relating to offshore oil and gas exploration and exploitation, were transferred to the Welsh Ministers by [S.I. 2005/1958](https://www.legislation.gov.uk/uksi/2005/1958).
+
+[^c22945791]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22); [sections 5](https://www.legislation.gov.uk/uksi/2018/644/section/5) and 9 were amended by section 115 of the Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28) and section 126(3) of the Local Government (Wales) Measure 2011 (nawm 4).
+
+[^c22945801]: Marginal citation: Subsection (6) was amended by, and subsection (6A) was inserted by, section 100 of, and paragraphs 11 and 14 of Schedule 3 to, the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26); subsections (6) and (6A) were amended by sections 22 and 26 of, and paragraphs 8 and 70 of Schedule 3 and paragraphs 7 and 52 of Schedule 4 to, the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^c22945811]: Marginal citation: [2001 c. 3](https://www.legislation.gov.uk/ukpga/2001/3); [section 38](https://www.legislation.gov.uk/uksi/2018/644/section/38) was amended by section 109(1) of, and paragraph 394 of Schedule 8 to, the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and section 99 of, and paragraphs 274 and 276 of Part 3 of Schedule 19 to, the [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13). Prospective amendments, not yet in force, have been made by section 2 of the [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49).
+
+[^c22945821]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^c22945831]: Marginal citation: The order-making function conferred on the National Assembly for Wales under section 7(2) was transferred to the Welsh Ministers by paragraph 30(2)(c) of Schedule 11 to the Government of Wales Act 2006.
+
+[^c22945841]: Marginal citation: [Sections 122](https://www.legislation.gov.uk/uksi/2018/644/section/122), [123](https://www.legislation.gov.uk/uksi/2018/644/section/123), [126](https://www.legislation.gov.uk/uksi/2018/644/section/126) and 127 were amended by article 5(1) of, and paragraph 11 of Part 1 of Schedule 2 to, [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^c22945851]: Marginal citation: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6).
+
+[^c22945861]: Marginal citation: [2008 c. 10](https://www.legislation.gov.uk/ukpga/2008/10).
+
+[^c22945871]: Marginal citation: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^c22945881]: Marginal citation: [Section 97(1)](https://www.legislation.gov.uk/uksi/2018/644/section/97/1) and (2) was amended by section 136(3) of, and paragraphs 3(1) and 7 of Schedule 7 to, the Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^c22945891]: Marginal citation: Subsections (7A) to (7C) were inserted by, and subsection (8) was amended by, section 141(2) of the Local Government and Public Involvement in Health Act 2007.
+
+[^c22945901]: Marginal citation: [Section 98](https://www.legislation.gov.uk/uksi/2018/644/section/98) was amended by sections 136(3), 141(3) and 144(2) of, paragraph 3(1) and (8) of Schedule 7, and paragraph 25 of Part 2 of Schedule 8 to, the Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^c22945911]: Marginal citation: [2004 c. 36](https://www.legislation.gov.uk/ukpga/2004/36); [sections 2](https://www.legislation.gov.uk/uksi/2018/644/section/2), [3](https://www.legislation.gov.uk/uksi/2018/644/section/3), [5](https://www.legislation.gov.uk/uksi/2018/644/section/5), [6](https://www.legislation.gov.uk/uksi/2018/644/section/6), [9](https://www.legislation.gov.uk/uksi/2018/644/section/9) 10, 13 and 15 were amended by article 5 of, and paragraphs 94, 96 to 99, 101, 102, 104 and 106 of Schedule 3 to, [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976); [sections 14A](https://www.legislation.gov.uk/uksi/2018/644/section/14A) and 15A were inserted by paragraphs 105 and 107 of that Schedule..
+
+[^c22945921]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); [section 157A](https://www.legislation.gov.uk/uksi/2018/644/section/157A) was inserted by section 4(1) of the [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^c22945931]: Marginal citation: [Paragraph 12A](https://www.legislation.gov.uk/uksi/2018/644/paragraph/12A) was inserted by article 4(1) of, and paragraph 429 of Part 1 of Schedule 2 to, [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^c22945941]: Marginal citation: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
+
+[^c22945951]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^c22945961]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
+
+[^c22945971]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^c22945981]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66); the functions of the Minister in section 1, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 Order and are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006. Section 1 was amended by section 8 of, and paragraph 1 of Part 1 of Schedule 4 to, the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [section 21(2)](https://www.legislation.gov.uk/ukpga/1985/51/section/21/2) of the [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), [section 22](https://www.legislation.gov.uk/ukpga/1991/22/section/22) of, and paragraph 1 of Schedule 7 to, the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), [section 259(1)](https://www.legislation.gov.uk/ukpga/1994/19/section/259/1) and (2) of the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and section 1(6) of, and paragraphs 1 and 2 of Part 1 of Schedule 1 to, the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
+
+[^c22945991]: Marginal citation: [2006 c. 28](https://www.legislation.gov.uk/ukpga/2006/28).
+
+[^c22946001]: Marginal citation: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12).
+
+[^c22946011]: Marginal citation: [1991 c. 23](https://www.legislation.gov.uk/ukpga/1991/23).
+
+[^c22946021]: Marginal citation: Subsection (4A) was inserted by section 95(1) and (5)(c) of the [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
+
+[^c22946031]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41); [section 251](https://www.legislation.gov.uk/uksi/2018/644/section/251) was amended by section 19 of, and paragraphs 1 and 7 of Schedule 4 to, the [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
+
+[^c22946041]: Marginal citation: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29); [Part 11](https://www.legislation.gov.uk/uksi/2018/644/part/11) was amended by sections 114 and 115 of the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [section 354](https://www.legislation.gov.uk/ukpga/2011/20/section/354) of, and paragraph 13 of Part 2 of Schedule 7 to, the [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [article 5](https://www.legislation.gov.uk/ukpga/2011/25/article/5) of [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), [regulation 63](https://www.legislation.gov.uk/uksi/2009/1307/regulation/63) of [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948) and regulation 4(2) of [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
+
+[^key-f1740e7c7f4d80a37c35b010373ae86b]: Modification: [Art. 45](https://www.legislation.gov.uk/uksi/2018/644/article/45) modified (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1506/article/3)
+
+[^c22946051]: Marginal citation: *See* section B1, [paragraphs 6](https://www.legislation.gov.uk/uksi/2018/644/paragraph/6) and 7 of Part 1 of, and paragraphs 20 to 27 of Part 2 of Schedule 7A to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) as to the electoral functions which are reserved and consequently outside the legislative competence of the National Assembly for Wales.
+
+[^c22946061]: Marginal citation: [S.I. 2005/2042](https://www.legislation.gov.uk/uksi/2005/2042).
+
+[^c22946071]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c22946081]: Marginal citation: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^key-c481ecec6052af98d251d7a742cc6e13]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2018/644/schedule/1) modified (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1506/article/3)
+
+[^c22946091]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
+
+[^c22946101]: Marginal citation: [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2).
+
+[^c22946111]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22); [section 44](https://www.legislation.gov.uk/uksi/2018/644/section/44) was amended by section 158(1) of, and paragraph 18(1) and (2) of Schedule 21 to, the [Political Parties, Elections and Referendums Act 2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41), [article 10](https://www.legislation.gov.uk/ukpga/2000/41/article/10) of, and paragraph 8(1) and (3) of Part 1 of Schedule 2 to, [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376) and article 13 of, and paragraph 13(c) of Part 1 of Schedule 2 to, [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997).
+
+[^c22946121]: Marginal citation: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41).
+
+[^c22946131]: Marginal citation: [2006 c. 22](https://www.legislation.gov.uk/ukpga/2006/22).
+
+[^c22946141]: Marginal citation: [2009 c. 12](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^c22946151]: Marginal citation: [2013 c. 6](https://www.legislation.gov.uk/ukpga/2013/6).
+
+[^c22946161]: Marginal citation: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341); [regulation 91(5)](https://www.legislation.gov.uk/uksi/2018/644/regulation/91/5) was amended by regulation 12(1) and (3) of [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).
+
+[^c22946171]: Marginal citation: [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236).
+
+[^c22946181]: Marginal citation: Schedule ZA1 was inserted by section 5 of, and Schedule 3 to, the [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6).
+
+[^c22946191]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); [Schedule 3A](https://www.legislation.gov.uk/uksi/2018/644/schedule/3A) was inserted by 21(4) of, and Schedule 4 to, the [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^c22946201]: Marginal citation: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341).
+
+[^c22946211]: Marginal citation: [Regulation 26](https://www.legislation.gov.uk/uksi/2018/644/regulation/26) was substituted by regulation 10 of [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198) and paragraph (6) was amended by regulations 2 and 4(e) of [S.I. 2016/694](https://www.legislation.gov.uk/uksi/2016/694) and article 13 of, and paragraph 33(1) and (2)(b) of Part 2 of Schedule 2 to, [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997).
+
+[^c22946221]: Marginal citation: [Regulation 26A](https://www.legislation.gov.uk/uksi/2018/644/regulation/26A) was inserted by regulation 11 of [S.I. 2016/3198](https://www.legislation.gov.uk/uksi/2016/3198) and paragraph (3) was amended by article 13 of, and paragraph 33(1) and (2)(c) of Part 2 of Schedule 2 to, [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997).
+
+[^c22946231]: Marginal citation: Paragraph (2BF) was inserted into regulation 29 by regulations 2 and 6(1) of [S.I. 2015/1971](https://www.legislation.gov.uk/uksi/2015/1971), and that paragraph was amended by article 13 of, and paragraphs 33(1) and (2)(f) of Part 2 of Schedule 2 to [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997); there are other amendments not relevant to this instrument.
+
+[^c22946241]: Marginal citation: [Regulation 32ZA](https://www.legislation.gov.uk/uksi/2018/644/regulation/32ZA) was inserted by regulation 22 of [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198) and paragraph (2) was amended by article 13 of, and paragraph 33(1) and (2)(g) of Part 2 of Schedule 2 to [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997).
+
+[^c22946251]: Marginal citation: [Regulation 32ZC](https://www.legislation.gov.uk/uksi/2018/644/regulation/32ZC) was inserted by regulation 22 of [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198) and paragraph (1) was amended by article 13 of, and paragraph 33(1) and (2)(h) of Part 2 of Schedule 2 to, [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997).

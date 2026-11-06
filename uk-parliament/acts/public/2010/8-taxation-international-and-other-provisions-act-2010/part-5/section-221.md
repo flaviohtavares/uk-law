@@ -1,0 +1,33 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 221
+act: Taxation (International and Other Provisions) Act 2010
+section: '221'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/221
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 221
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 221. Effect of revocation of agreement or breach of its conditions
+
+*Extent: E+W+S+N.I.*
+
+(1) An advance pricing agreement does not have effect in accordance with section 220(2) in relation to any determination of a question if any of conditions A, B and C is met.
+
+(2) Condition A is that a time to which the question relates is after a time as from which an officer has revoked the agreement in accordance with the agreement's terms.
+
+(3) Condition B is that the question relates to a time after, or in relation to which, there has been a failure by a party to the agreement to comply with a significant provision of the agreement.
+
+(4) Condition C is that the question relates to a matter as respects which a key condition has not been met or is no longer met.
+
+(5) A provision of the agreement is “**significant**” for the purposes of subsection (3) if compliance with that provision is, under the terms of the agreement, to be a condition of the agreement's having effect.
+
+(6) Any other condition that, under the terms of the agreement, is to be a condition of the agreement's having effect is a “**key condition**” for the purposes of subsection (4).

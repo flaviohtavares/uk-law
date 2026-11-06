@@ -1,0 +1,40 @@
+---
+title: The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014, section 53J
+act: The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014
+section: 53J
+status: revised
+text_date: '2026-07-09'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/1613/section/53J
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014, section 53J
+
+> Text as at 2026-07-09.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 53J. Duty on shipowner to notify seafarers if shipowner’s security is to be terminated[^key-b2476b875e9b569c760afecc0f36919d]
+
+*Extent: E+W+S+N.I.*
+
+(1) Where a shipowner becomes aware that any shipowner’s security that relates to the ship is to be, or has been, terminated before the end of its period of validity, the shipowner must give notice to that effect to all seafarers who work on the ship during the notification period.
+
+(2) A notice under paragraph (1) must—
+
+- (a) be in writing;
+- (b) state the date on which the shipowner’s security is to be or was terminated; and
+- (c) be given as soon as reasonably practicable after the shipowner becomes aware that the shipowner’s security is to be or was terminated.
+
+(3) A breach of paragraph (1) is an offence by the shipowner.
+
+(4) In this regulation, the “notification period” means the period —
+
+- (a) beginning with the date on which the shipowner becomes aware that the shipowner’s security is to be, or has been, terminated before the end of its period of validity; and
+- (b) ending with the date that the shipowner becomes aware that the shipowner’s security has been replaced or reinstated.
+
+## Annotations
+
+[^key-b2476b875e9b569c760afecc0f36919d]: Textual amendment: Pt. 10A inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/7)

@@ -1,0 +1,48 @@
+---
+title: Companies Act 2006, section 509
+act: Companies Act 2006
+section: '509'
+status: revised-with-pending-changes
+text_date: '2026-07-16'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/2006/46/section/509
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 2006, section 509
+
+> **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/46
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 509. Guidance for regulatory authorities: Scotland[^c20617951][^key-22e8df7d6c049c512f7312efc09e240b][^c19906551]
+
+*Extent: S*
+
+(1) The Lord Advocate may issue guidance for the purpose of helping relevant regulatory authorities to determine how they should carry out their functions in cases where behaviour occurs that—
+
+- (a) appears to involve the commission of an offence under section 507 (offences in connection with auditor's report), and
+- (b)[^key-f9906be32fb2307d1493b7a3e2f73e60] has been, is being or may be investigated—
+  - (i) pursuant to arrangements under paragraph 15 of Schedule 10 (investigation of complaints against auditors and supervisory bodies), or
+  - (ii) by the competent authority under the Statutory Auditors and Third Country Auditors Regulations 2016.
+
+(2) The Lord Advocate must consult the Secretary of State before issuing any such guidance.
+
+(3) In this section “**relevant regulatory authorities**” means—
+
+- (a) supervisory bodies within the meaning of Part 42 of this Act,
+- (b) bodies to which the Secretary of State may make grants under section 16(1) of the Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27) (bodies concerned with accounting standards etc), and
+- (c) the Secretary of State.
+
+(4) This section applies only to Scotland.
+
+## Annotations
+
+[^c20617951]: Modification: Ss. 484-539 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/11) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
+
+[^key-22e8df7d6c049c512f7312efc09e240b]: Modification: Ss. 507-509 applied (with modifications) by S.I. 2008/565, reg. 8A (as inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/9) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+
+[^c19906551]: Modification: Ss. 507-509 applied (with modifications) (1.10.2008) by [The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 (S.I. 2008/1911)](https://www.legislation.gov.uk/uksi/2008/1911), [reg. 42](https://www.legislation.gov.uk/uksi/2008/1911/regulation/42)
+
+[^key-f9906be32fb2307d1493b7a3e2f73e60]: Textual amendment: S. 509(1)(b) substituted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 20(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/20/2) (with [reg. 1(12)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/12))

@@ -1,0 +1,251 @@
+---
+title: The Control of Pollution (Oil Storage) (England) Regulations 2001
+id: uksi/2001/2954
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-08-21'
+text_date: '2020-03-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2001/2954
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/2954/pdfs/uksi_20012954_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/2954/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Pollution (Oil Storage) (England) Regulations 2001
+
+> Text as at 2020-03-27.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2001 No. 2954
+
+WATER RESOURCES, ENGLAND
+
+The Control of Pollution (Oil Storage) (England) Regulations 2001
+
+Made
+
+21st August 2001
+
+Laid before Parliament
+
+29th August 2001
+
+Coming into force
+
+1st March 2002
+
+The Secretary of State, in exercise of the powers conferred upon her by sections 92 and 219(2) of the Water Resources Act 1991[^f00001], hereby makes the following Regulations:[^key-08a7a91788449ef8262ccf507406af61]
+
+## 1. Citation, commencement, extent and interpretation
+
+(1) These Regulations, which may be cited as the Control of Pollution (Oil Storage) (England) Regulations 2001, shall come into force on 1st March 2002 and extend to England only.
+
+(2) In these Regulations—
+
+- “container” means a fixed tank, a drum or a mobile bowser or (even if not connected to fixed pipework) an intermediate bulk container;
+- “drum” means an oil drum or similar container used for storing oil;
+- “fixed tank” includes an intermediate bulk container which is connected to fixed pipework;
+- “oil” means any kind of oil and includes petrol; and
+- “secondary containment system” means a drip tray, an area surrounded by a bund or any other system for preventing oil which is no longer in its container from escaping from the place where it is stored.
+
+## 2. Application of Regulations
+
+(1) Subject to paragraph (2), these Regulations apply to the storage of oil on any premises.
+
+(2) These Regulations do not apply to the storage of oil—
+
+- (a) if the oil is waste oil within the meaning of regulation 2(1) of[^key-6801715d1d47c6ba39f99e6c1c1deab6] the Environmental Permitting (England and Wales) Regulations 2016[^key-653936adbc60e6a8517d0558c24e2c33];
+- (b) in any container which is situated in a building or wholly underground;
+- (c) in any container with a storage capacity of 200 litres or less;
+- (d) on any premises used—
+  - (i) wholly or mainly as a private dwelling if the storage capacity of the container in which it is stored is 3500 litres or less;
+  - (ii) for refining oil; or
+  - (iii) for the onward distribution of oil to other places; or
+- (e) on any farm if the oil is for use in connection with agriculture within the meaning of the Agriculture Act 1947[^f00003].
+
+## 3. Requirements for storage of oil—general
+
+(1) Oil shall be stored in a container which is of sufficient strength and structural integrity to ensure that it is unlikely to burst or leak in its ordinary use.
+
+(2) The container must be situated within a secondary containment system which satisfies the following requirements—
+
+- (a) subject to paragraph (5), it must have a capacity of not less than 110% of the container’s storage capacity or, if there is more than one container within the system, of not less than 110% of the largest container’s storage capacity or 25% of their aggregate storage capacity, whichever is the greater;
+- (b) it must be positioned, or other steps must be taken, so as to minimise any risk of damage by impact so far as is reasonably practicable;
+- (c) its base and walls must be impermeable to water and oil;
+- (d) its base and walls must not be penetrated by any valve, pipe or other opening which is used for draining the system; and
+- (e) if any fill pipe, or draw off pipe, penetrates its base or any of its walls, the junction of the pipe with the base or walls must be adequately sealed to prevent oil escaping from the system.
+
+(3) Any valve, filter, sight gauge, vent pipe or other equipment ancillary to the container (other than a fill pipe or draw off pipe or, if the oil has a flashpoint of less than 32°C, a pump) must be situated within the secondary containment system.
+
+(4) Where a fill pipe is not within the secondary containment system, a drip tray must be used to catch any oil spilled when the container is being filled with oil.
+
+(5) Where any drum is used for the storage of oil in conjunction with a drip tray as the secondary containment system, it is sufficient if the tray has a capacity of not less than 25% of—
+
+- (a) the drum’s storage capacity; or
+- (b) if there is more than one drum used at the same time with the tray, the aggregate storage capacity of the drums.
+
+## 4. Fixed tanks
+
+(1) Any fixed tank used for storing oil shall satisfy the following requirements.
+
+(2) Any sight gauge must be properly supported and fitted with a valve which must be closed automatically when not in use.
+
+(3) Any fill pipe, draw off pipe or overflow pipe must be positioned, or other steps must be taken, so as to minimise any risk of damage by impact so far as is reasonably practicable and—
+
+- (a) if above ground, must be properly supported;
+- (b) if underground—
+  - (i) must have no mechanical joints, except at a place which is accessible for inspection by removing a hatch or cover;
+  - (ii) must be adequately protected from physical damage;
+  - (iii) must have adequate facilities for detecting any leaks;
+  - (iv) if fitted with a leakage detection device which is used continuously to monitor for leaks, the detection device must be maintained in working order and tested at appropriate intervals to ensure that it works properly; and
+  - (v) if not fitted with such a device, must be tested for leaks before it is first used and further tests for leaks must be performed, in the case of pipes which have mechanical joints, at least once in every 5 years and, in other cases, at least once in every 10 years; and
+- (c) if made of materials which are liable to corrosion, must be adequately protected against corrosion.
+
+(4) The tank must be fitted with an automatic overfill prevention device if the filling operation is controlled from a place where it is not reasonably practicable to observe the tank and any vent pipe.
+
+(5) Any screw fitting or other fixed coupling which is fitted and is in good condition must be used when the tank is being filled with oil.
+
+(6) Where oil from the tank is delivered through a flexible pipe which is permanently attached to the container—
+
+- (a) the pipe must be fitted with a tap or valve at the delivery end which closes automatically when not in use;
+- (b) the tap or valve must not be capable of being fixed in the open position unless the pipe is fitted with an automatic shut off device;
+- (c) the pipe must be enclosed in a secure cabinet which is locked shut when not in use and is equipped with a drip tray or the pipe must—
+  - (i) have a lockable valve where it leaves the container which is locked shut when not in use; and
+  - (ii) be kept within the secondary containment system when not in use.
+
+(7) Any pump must be—
+
+- (a) fitted with a non-return valve in its feed line;
+- (b) positioned, or other steps must be taken, so as to minimise any risk of damage by impact so far as is reasonably practicable; and
+- (c) protected from unauthorised use.
+
+(8) Any permanent vent pipe, tap or valve through which oil can be discharged from the tank to the open must satisfy the following requirements—
+
+- (a) it must be situated within the secondary containment system;
+- (b) it must be arranged so as to discharge the oil vertically downwards and be contained within the system; and
+- (c) in the case of a tap or valve, it must be fitted with a lock and locked shut when not in use.
+
+## 5. Mobile bowsers
+
+(1) Any mobile bowser used for storing oil shall satisfy the following requirements.
+
+(2) Any tap or valve permanently fixed to the unit through which oil can be discharged to the open must be fitted with a lock and locked shut when not in use.
+
+(3) Where oil is delivered through a flexible pipe which is permanently attached to the unit—
+
+- (a) the pipe must be fitted with a manually operated pump or with a valve at the delivery end which closes automatically when not in use;
+- (b) the pump or valve must be provided with a lock and locked shut when not in use;
+- (c) the pipe must be fitted with a lockable valve at the end where it leaves the container and must be locked shut when not in use.
+
+## 6. Transitional provisions
+
+(1) Subject to paragraphs (2) and (3) below, the preceding provisions of these Regulations shall not apply until 1st September 2005 to the storage of oil in any container if the container was used for that purpose on any premises before 1st September 2001 .
+
+(2) Subject to paragraph (3), if the container or, if there is more than one container within the secondary containment system, any of them is situated less than—
+
+- (a) 10 metres away from any inland freshwaters or coastal waters; or
+- (b) 50 metres away from a well or borehole.
+
+the preceding provisions of these Regulations shall apply from 1st September 2003.
+
+(3) If a notice under regulation 7 is not complied with in relation to any container by the date specified in the notice, the preceding provisions of these Regulations shall apply from whichever is the latest of the following—
+
+- (a) the date specified in the notice;
+- (b) if the period for compliance is extended under regulation 7(4), the expiry of the extension;
+- (c) if there is an appeal against the notice, the date on which the appeal is determined or withdrawn.
+
+## 7. Notices to minimise pollution risks in transitional cases
+
+(1) In a case where—
+
+- (a) regulation 6(1) or (2) applies; and
+- (b) the Agency considers that there is a significant risk of pollution of controlled waters from the entry of the oil in question into those waters if steps are not immediately taken to minimise that risk,
+
+the Agency may serve notice on the person having custody or control of that oil requiring him to carry out such works, take such precautions or such other steps as, in the opinion of the Agency, are appropriate for minimising that risk having regard to the requirements of regulations 3 to 5.
+
+(2) The notice shall—
+
+- (a) specify or describe the works, precautions or other steps which the person is required to carry out or take;
+- (b) state the period within which any such requirement is to be complied with; and
+- (c) inform him of his rights under regulation 8.
+
+(3) The period for compliance shall be such period as is reasonable in the circumstances and shall not in any case be less than 28 days.
+
+(4) The Agency may at any time—
+
+- (a) withdraw the notice;
+- (b) extend the period for compliance with any requirement of the notice;
+- (c) with the consent of the person on whom it is served, modify the requirements of the notice,
+
+and shall do so if so directed by the Secretary of State under regulation 8(4).
+
+## 8. Right of appeal in transitional cases
+
+(1) A person served with a notice under regulation 7 may within the period of 28 days beginning with the day on which the notice is served (or within such longer period as the Secretary of State may allow) appeal to the Secretary of State against the notice.
+
+(2) An appeal shall be made by the appellant serving notice on the Secretary of State and the notice shall contain or be accompanied by a statement of the appellant’s reasons for appealing and the matters which he wishes the Secretary of State to take into account in determining the appeal.
+
+(3) Before determining an appeal the Secretary of State shall—
+
+- (a) take into account any written representations of the appellant or the Agency; and
+- (b) if requested to do so by the appellant or the Agency, afford them the opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose.
+
+(4) On determining an appeal the Secretary of State may direct the Agency to withdraw the notice under regulation 7, modify any of its requirements, extend the period for compliance or dismiss the appeal.
+
+(5) The period for compliance with a notice under regulation 7 shall, subject to any direction under paragraph (4) be extended so that it expires on the date on which the Secretary of State determines the appeal or, if the appeal is withdrawn, the date on which it is withdrawn.
+
+## 9. Offences
+
+A person who has custody or control of any oil in circumstances in which there is a contravention of any provision of regulations 3 to 5 or the requirements of a notice under regulation 7 shall be guilty of an offence and shall be liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+## 10. Civil sanctions[^key-87d16a414302b9dec4265edcfe17406e]
+
+(1) The Environment Agency may impose a fixed monetary penalty, variable monetary penalty, restoration notice or stop notice, or accept an enforcement undertaking, in relation to an offence under regulation 9 as if it were an offence under a provision specified in relation to that sanction in Schedule 5 to the Environmental Civil Sanctions (England) Order 2010.
+
+(2) The terms used in this regulation have the same meaning as in that Order.
+
+(3) The provisions of that Order in relation to those sanctions apply as if they were provisions of these Regulations.
+
+Whitty
+
+Parliamentary Under-Secretary of State,
+
+Department for Environment, Food and Rural Affairs
+
+(This note is not part of the Regulations)
+
+These Regulations require a person having custody or control of oil to carry out certain works and take certain precautions and other steps for preventing pollution of any waters which are controlled waters for the purposes of Part III of the Water Resources Act 1991.
+
+Regulation 2(2) sets out circumstances in which these Regulations do not apply to the storage of oil.
+
+Regulation 3 imposes general requirements in relation to the storage of oil. Additional requirements which apply to specific types of container are imposed by regulation 4 (fixed tanks) and regulation 5 (mobile bowsers).
+
+Regulation 6 contains transitional provisions. Where in a transitional case the Environment Agency considers that there is a significant risk of pollution of controlled waters from the oil in question it has the power to serve a notice on the person having custody or control to minimise the risk (*see regulation 7*). A person served with a notice has a right of appeal to the Secretary of State under regulation 8.
+
+Failure to comply with any of the requirements of regulations 3 to 5 or a notice under regulation 7 is a criminal offence (see regulation 9), punishable on conviction on indictment to an unlimited fine or on summary conviction to a fine not exceeding the statutory maximum (currently £5,000).
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57); there are amendments to sections 92 and 219(2) which are not relevant to these regulations. The relevant powers of the Secretary of State have been devolved in relation to Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), although there are concurrent powers in relation to those parts of Wales which are within the catchment areas of the rivers, Dee, Wye and Severn (see the entry in Schedule 1 to the Order for the Water Resources Act 1991).
+
+[^key-08a7a91788449ef8262ccf507406af61]: Modification: Regulations applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(h)](https://www.legislation.gov.uk/uksi/2020/214/article/5/h)
+
+[^key-6801715d1d47c6ba39f99e6c1c1deab6]: Textual amendment: Words in reg. 2(2)(a) substituted (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 41](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/41) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+
+[^key-653936adbc60e6a8517d0558c24e2c33]: Textual amendment: Words in reg. 2(2)(a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/10) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^f00003]: Footnote: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
+
+[^key-87d16a414302b9dec4265edcfe17406e]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/2954/regulation/10) added (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/1159/regulation/4)

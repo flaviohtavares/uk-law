@@ -1,0 +1,500 @@
+---
+title: The Companies (Revision of Defective Accounts and Reports) Regulations 2008
+id: uksi/2008/373
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-02-19'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2008/373
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/373/pdfs/uksiem_20080373_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/373/pdfs/uksi_20080373_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/373/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies (Revision of Defective Accounts and Reports) Regulations 2008
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2008 No. 373
+
+COMPANIES
+
+The Companies (Revision of Defective Accounts and Reports) Regulations 2008
+
+Made
+
+19th February 2008
+
+Laid before Parliament
+
+20th February 2008
+
+Coming into force
+
+6th April 2008
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 454(3) and (4) and 1292(1)(a) and (c) of the Companies Act 2006 [^c19114101].
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the Companies (Revision of Defective Accounts and Reports) Regulations 2008.
+
+(2) These Regulations come into force on 6th April 2008 and apply in relation to companies' financial years beginning on or after that date.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2006 Act**” means the Companies Act 2006;
+- “**date of the original annual accounts**” means the date on which the original annual accounts were approved by the board of directors under section 414 of the 2006 Act (approval and signing of accounts);
+- “date of the original directors' remuneration report” means the date on which the original directors' remuneration report was approved by the board of directors under section 422 of the 2006 Act (approval and signing of directors' remuneration report);
+- “date of the original revised directors’ remuneration policy” means the date on which the original revised directors’ remuneration policy prepared in accordance with section 422A of the[^key-0fe30606d826fd19f4d6fcb027e915d8] 2006 Act was approved by the board of directors under section 422A of the 2006 Act (approval and signing of revised directors’ remuneration policy);
+- “date of the original directors' report” means the date on which the original directors' report was approved by the board of directors under section 419 of the 2006 Act (approval and signing of directors' report);
+- “date of the original strategic report” means the date on which the original strategic report was approved by the board of directors under section 414D of the[^key-907f8bb705454db30d6c3ea4c297c900] 2006 Act (approval and signing of strategic report);
+- “**date of revision**” means the date on which revised accounts are approved by the board of directors under regulation 4 or (as the case may be) a revised report or[^key-43ebf707854e429d4826b35c2431161b] policy[^M_F_15ccaca0-8455-41ca-b286-df6bf971b13b] is approved by them under regulation 4A,[^key-cf6eda8c07569daa616c6208f593c850] 5, 6 or 6A[^key-b97acbe826392ee024a52606d83d2cd5];
+- “original”, in relation to annual accounts, or a strategic report or directors’ report or directors’ remuneration report or revised directors’ remuneration policy, means the annual accounts or (as the case may be) strategic report or directors’ report or directors’ remuneration report or revised directors’ remuneration policy which are the subject of revision by, respectively, revised accounts or a revised report or policy[^key-85e5445231256797948d3062acc7cf9c][^key-8e0c4f586d7d410534e41dfb33510c0a]...;
+- “**revised accounts**” mean revised annual accounts of a company prepared by the directors under section 454 of the 2006 Act (voluntary revision of accounts etc), either through revision by replacement or revision by supplementary note; in the latter case the revised accounts comprise the original annual accounts together with the supplementary note;
+- “revised directors’ remuneration policy” means a revised directors’ remuneration policy within the meaning of section 422A of the[^key-31cd9e6cf3ddcbec5cac31add4925870] 2006 Act
+- “revised policy” means a revised revised directors’ remuneration policy prepared by the directors under section 454 of the 2006 Act, either through revision by replacement or revision by supplementary note; in the latter case the revised policy comprises the original directors’ remuneration policy together with the supplementary note;[^key-f62d6aa528d3b5932b63273c075577a6]
+- “revised report” means a revised strategic report, revised directors’ report or revised directors’ remuneration report prepared by the directors under section 454 of the 2006 Act, either through revision by replacement or revision by supplementary note; in the latter case the revised report comprises the original strategic report, directors’ report or directors’ remuneration report together with the supplementary note;
+- “revised report or policy” means a revised report or a revised policy;[^key-fa45468c85b478b791aeab8096ba968c]
+- “**revision by replacement**” means revision by the preparation of a replacement set of accounts, strategic report or[^key-68d3a8410f25fe6140e8393beaf0d7ac] directors' report or directors' remuneration report revised directors’ remuneration policy[^key-3979911ee21a9917177cbbaeda895349], in substitution for the original annual accounts, strategic report or directors' report or directors' remuneration report revised directors’ remuneration policy; and
+- “**revision by supplementary note**” means revision by the preparation of a note indicating corrections to be made to the original annual accounts, strategic report,[^key-6567356da34398f4ecef22ab7b7c8332] directors' report or directors' remuneration report or revised directors’ remuneration policy.
+
+(2) References in these Regulations to a member or members of a company include a reference to a person nominated to enjoy information rights under section 146 of the 2006 Act (traded companies: nomination of persons to enjoy information rights).
+
+(3) References in these Regulations to provisions or requirements of the 2006 Act as to matters to be included in annual accounts and reports include relevant provisions of the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 [^c19114111] and the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 [^c19114121].
+
+## PART 2 — REVISED ACCOUNTS AND REPORTS
+
+### 3. Content of revised accounts or revised report
+
+(1) Subject to regulation 19(1), the provisions of the 2006 Act [^key-6d3a5a692a4433ad3608f9cccf0427be]... as to the matters to be included in the annual accounts of a company apply to revised accounts as if the revised accounts were prepared and approved by the directors as at the date of the original annual accounts.
+
+(2) In particular—
+
+- (a) in the case of Companies Act accounts—
+  - (i) section 393 of the 2006 Act (accounts to give true and fair view),
+  - (ii) section 396(2) of that Act (Companies Act individual accounts: true and fair view), and
+  - (iii) section 404(2) of that Act (Companies Act group accounts: true and fair view), and
+- (b) in the case of IAS accounts, section 393 of the 2006 Act and UK-adopted international accounting standards[^key-4ef798b0e87faca8d5b6dbdd1b92a03b],
+
+apply so as to require a true and fair view to be shown in the revised accounts of the matters referred to in those accounts, viewed as at the date of the original annual accounts.
+
+(3) In the case of Companies Act accounts, paragraph 13(b) of Schedule 1 to the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 or (where applicable) paragraph 13(b) of Schedule 1 to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 apply to revised accounts as if the reference in those paragraphs to the date on which the accounts were signed was to the date of the original annual accounts.
+
+(4)[^key-81fb7f03d8e7533538dcf2c759bd94e2] The provisions of the 2006 Act as to the matters to be included in a strategic report, directors’ report, directors’ remuneration report or revised directors’ remuneration policy apply to a revised report or policy as if the revised report or policy were prepared and approved by the directors of the company as at the date of the original strategic report, directors’ report, directors’ remuneration report or revised directors’ remuneration policy.
+
+### 4. Approval and signature of revised accounts
+
+(1) Section 414 of the 2006 Act applies to revised accounts, save that in the case of revision by supplementary note, it applies as if it required a signature on the supplementary note instead of on the company's balance sheet.
+
+(2) Where copies of the original annual accounts have been sent out to members under section 423(1) of the 2006 Act (duty to circulate copies of annual accounts and reports), laid before the company in general meeting under section 437(1) of that Act (public companies: laying of accounts and reports before general meeting) in the case of a public company, or delivered to the registrar under section 441(1) of that Act (duty to file accounts and reports with the registrar), the directors must before approving the revised accounts under section 414, cause statements as to the following matters to be made in a prominent position in the revised accounts (in the case of a revision by supplementary note, in that note)—
+
+- (a) in the case of a revision by replacement—
+  - (i) that the revised accounts replace the original annual accounts for the financial year (specifying it),
+  - (ii) that they are now the statutory accounts of the company for that financial year,
+  - (iii) that they have been prepared as at the date of the original annual accounts and not as at the date of revision and accordingly do not deal with events between those dates,
+  - (iv) the respects in which the original annual accounts did not comply with the requirements of the 2006 Act, and
+  - (v) any significant amendments made consequential upon the remedying of those defects,
+- (b) in the case of a revision by supplementary note—
+  - (i) that the note revises in certain respects the original annual accounts of the company and is to be treated as forming part of those accounts, and
+  - (ii) that the annual accounts have been revised as at the date of the original annual accounts and not as at the date of revision and accordingly do not deal with events between those dates,
+
+and must, when approving the revised accounts, cause the date on which the approval is given to be stated in them (in the case of revision by supplementary note, in that note); section 414(4) and (5) apply with respect to a failure to comply with this paragraph as if the requirements of this paragraph were requirements of Part 15 of that Act.
+
+### 4A. Approval and signature of revised strategic report[^key-779f3293633726603839e05075d23349]
+
+(1) Section 414D(1) and (2) of the 2006 Act applies to a revised strategic report, save that in the case of revision by supplementary note, they shall apply as if they required the signature to be on the supplementary note.
+
+(2) Where the original strategic report has been sent out to members under section 423(1) of the 2006 Act, laid before the company in general meeting under section 437(1) of that Act in the case of a public company, or delivered to the registrar under section 441(1), the directors shall, before approving the revised report under section 414E, cause statements as to the following matters to be made in a prominent position in the revised report (in the case of a revision by supplementary note, in that note)—
+
+- (a) in the case of a revision by replacement—
+  - (i) that the revised report replaces the original report for the financial year (specifying it),
+  - (ii) that it has been prepared as at the date of the original strategic report and not as at the date of revision and accordingly does not deal with any events between those dates,
+  - (iii) the respects in which the original strategic report did not comply with the requirements of the 2006 Act, and
+  - (iv) any significant amendments made consequential upon the remedying of those defects,
+- (b) in the case of revision by a supplementary note—
+  - (i) that the note revises in certain respects the original strategic report of the company and is to be treated as forming part of that report, and
+  - (ii) that the strategic report has been revised as at the date of the original strategic report and not as at the date of the revision and accordingly does not deal with events between those dates,
+
+and shall, when approving the revised report, cause the date on which the approval is given to be stated in it (in the case of a revision by supplementary note, in that note); section 414A(5) of the 2006 Act shall apply with respect to a failure to comply with this paragraph as if the requirements of this paragraph were requirements of Part 15 of that  Act.
+
+### 5. Approval and signature of revised directors' report
+
+(1) Section 419 of the 2006 Act applies to a revised directors' report, save that in the case of revision by supplementary note, it applies as if it required the signature to be on the supplementary note.
+
+(2) Where copies of the original directors' report have been sent out to members under section 423(1) of the 2006 Act, laid before the company in general meeting under section 437(1) of that Act in the case of a public company, or delivered to the registrar under section 441(1), the directors must, before approving the revised report under section 419, cause statements as to the following matters to be made in a prominent position in the revised report (in the case of a revision by supplementary note, in that note)—
+
+- (a) in the case of a revision by replacement—
+  - (i) that the revised report replaces the original report for the financial year (specifying it),
+  - (ii) that it has been prepared as at the date of the original directors' report and not as at the date of revision and accordingly does not deal with any events between those dates,
+  - (iii) the respects in which the original directors' report did not comply with the requirements of the 2006 Act, and
+  - (iv) any significant amendments made consequential upon the remedying of those defects,
+- (b) in the case of a revision by supplementary note—
+  - (i) that the note revises in certain respects the original directors' report of the company and is to be treated as forming part of that report, and
+  - (ii) that the directors' report has been revised as at the date of the original directors' report and not as at the date of the revision and accordingly does not deal with events between those dates,
+
+and must, when approving the revised report, cause the date on which the approval is given to be stated in it[^key-1d85296627875b31cf0b315baa369ef6] (in the case of a revision by supplementary note, in that note); section 419(3) and (4) of the 2006 Act apply with respect to a failure to comply with this paragraph as if the requirements of this paragraph were requirements of Part 15 of that Act.
+
+### 6. Approval and signature of revised directors' remuneration report
+
+(1) Section 422 of the 2006 Act applies to a revised directors' remuneration report, save that in the case of revision by supplementary note, it applies as if it required the signature to be on the supplementary note.
+
+(2) Where copies of the original directors' remuneration report have been sent out to members under section 423(1) of the 2006 Act, laid before the company in general meeting under section 437(1) of that Act in the case of a public company, or delivered to the registrar under section 441(1) of that Act, the directors must, before approving the revised report under section 422, cause statements as to the following matters to be made in a prominent position in the revised report (in the case of a revision by supplementary note, in that note)—
+
+- (a) in the case of a revision by replacement—
+  - (i) that the revised report replaces the original report for the financial year (specifying it),
+  - (ii) that it has been prepared as at the date of the original directors' remuneration report and not as at the date of revision and accordingly does not deal with any events between those dates,
+  - (iii) the respects in which the original directors' remuneration report did not comply with the requirements of the 2006 Act, and
+  - (iv) any significant amendments made consequential upon the remedying of those defects,
+- (b) in the case of a revision by supplementary note—
+  - (i) that the note revises in certain respects the original directors' remuneration report of the company and is to be treated as forming part of that report, and
+  - (ii) that the directors' remuneration report has been revised as at the date of the original directors' remuneration report and not as at the date of the revision and accordingly does not deal with events between those dates,
+
+and must, when approving the revised report, cause the date on which the approval is given to be stated in it (in the case of a revision by supplementary note, in that note); section 422(2) and (3) of the 2006 Act apply with respect to a failure to comply with this paragraph as if the requirements of this paragraph were requirements of Part 15 of that Act.
+
+### 6A. Approval and signature of revised revised directors’ remuneration policy[^key-69c8b32bb6af56ba605a322f006bbf10]
+
+Section 422A of the 2006 Act applies to a revised revised directors’ remuneration policy, save that in the case of revision by supplementary note, it applies as if it required the signature to be on the supplementary note.
+
+## PART 3 — AUDITOR'S REPORTS
+
+### 7. Auditor's report on revised accounts and revised report
+
+(1) Subject to paragraph (2), where a company has revised its accounts and its strategic report, directors’ report or directors’ remuneration report under section 454 of the 2006 Act, a company’s current auditor or auditors shall make a report or (as the case may be) further report under section 495 of the 2006 Act (auditor’s report on company’s annual accounts), to the company’s members on those revised accounts and revised reports, and—[^key-06b2b248978d180bb0da64bdac105aa8]
+
+- (za) subject to the modifications in paragraph (1A), the requirements of sections 495 to 497 of the 2006 Act apply, as appropriate, to the report on the revised accounts or the revised report as they applied to the, or would have applied to a, report on the original annual accounts, strategic report, directors’ report or directors’ remuneration report,
+- (a) section 498 of that Act (duties of auditor) applies with any necessary modifications, and
+- (b) section 495(1) does not apply with respect to the revised accounts.
+
+(1A)[^key-b5f666959728e401cfa8f83da7151437] The modifications are that—
+
+- (a) for the references to the report on the company’s annual accounts in sections 495(1), 496(1) and 497(1) there were substituted a reference to the report under this regulation,
+- (b) the—
+  - (i) requirements of the 2006 Act [^key-3569bafc106f94a1d39949f29e02b4ea]... in accordance with which the revised accounts must have been prepared, referred to in section 495(3)(c),
+  - (ii) the applicable legal requirements in accordance with which the revised strategic report and revised directors’ report must have been prepared, referred to in section 496(1)(a)(ii), and
+  - (iii) the requirements of the 2006 Act in accordance with which the revised directors’ remuneration report must have been properly prepared, referred to in section 497(1)(b),
+
+  are construed in accordance with regulation 3.
+
+(2) Where the auditor's report on the original annual accounts was not made by the company's current auditor, the directors of the company may resolve that the report required by paragraph (1) is to be made by the person or persons who made that report, provided that that person or those persons agree to do so and would be qualified for appointment as auditor of the company.
+
+(3) [^key-2bab421970887d1ed8d36d6e506e67c8]... The auditor’s[^key-dfdea2d9ab2a6ac6589e846329a430c6] report must also state whether in the auditor's opinion the original annual accounts failed to comply with the requirements of the 2006 Act [^key-50f074f4744421cea1c0a5bcbd82b701]... in the respects identified by the directors (in the case of a revision by replacement) in the statement required by regulation 4(2)(a)(iv) [^key-188c7a43de5cb67cdd6da05c90dc80b3]....
+
+(4)[^key-35cc958b6be590c812c7f7118d0c8f7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Sections 503 to 506 of the 2006 Act (signature of auditor's report) apply to an auditor's report under this regulation as they apply to an auditor's report under section 495(1) of that Act, with any necessary modifications.
+
+(6) An auditor's report under this regulation shall, upon being signed under section 503 of the 2006 Act as so applied, be, as from the date of signature, the auditor's report on the annual accounts of the company in place of the report on the original annual accounts.
+
+### 8. Auditor's report where company ceases to be exempt from audit
+
+(1) Where as a result of the revisions to the accounts, the company is no longer entitled to exemption from audit under Chapter 1 of Part 16 of the 2006 Act, the company shall cause an auditor's report on the revised accounts to be prepared.
+
+(2) The auditor's report must be delivered to the registrar within 28 days after the date of revision of the accounts.
+
+(3) Sections 451 (default in filing accounts and reports: offences) and 452 (default in filing accounts: court order) of the 2006 Act apply with respect to a failure to comply with the requirements of this regulation as they apply with respect to a failure to comply with the requirements of section 441 of that Act but as if—
+
+- (a) the references in section 451(1) and in section 452(1)(a) to “**the period for filing those accounts and reports**” were references to the period of 28 days referred to in paragraph (2); the reference in section 451(1) and (2) to “**that period**” are to be construed accordingly, and
+- (b) the references in section 451(3) to “**the documents in question**” and “**this Part**” were, respectively, a reference to the auditor's report referred to in paragraph (2) and the provisions of Part 16 of the 2006 Act as applied by these Regulations.
+
+### 9. Auditor's report on revised report alone
+
+(1)[^key-c4b53474308108286d9e3dd373c73aa9] Subject to paragraph (2), where a company has revised its strategic report, directors’ report or directors’ remuneration report under section 454 of the 2006 Act but has not revised its annual accounts, a company’s current auditor shall make a report or (as the case may be) further report to the company’s members on any revised report prepared under section 454 of that Act if the relevant annual accounts have not been revised at the same time, and—
+
+- (a) subject to the modifications in paragraph (1A), the requirements of section s496 and 497 of the 2006 Act apply, as appropriate, to the report on the revised report as they applied to the, or would have applied to a, report on the original strategic report, directors’ report or directors’ remuneration report,
+- (b) section 498 of that Act (duties of auditor) applies with any necessary modifications, and
+- (c) section 495(1) does not apply with respect to the revised reports.
+
+(1A) The modifications are that—
+
+- (a) for the references to the report on the company’s annual accounts in sections 496(1) and 497(1) there were substituted a reference to the report under this regulation,
+- (b) the—
+  - (i) applicable legal requirements in accordance with which the revised strategic report and revised directors’ report must have been prepared, referred to in section 496(1)(a)(ii), and
+  - (ii) requirements of the 2006 Act in accordance with which the revised directors’ remuneration report must have been properly prepared, referred to in section 497(1)(b),
+
+  are construed in accordance with regulation 3.
+
+(2) Where the auditor's report on the annual accounts for the financial year covered by the revised report was not made by the company's current auditor, the directors of the company may resolve that the report required by paragraph (1) is to be made by the person or persons who made that report, provided that that person or those persons agree to do so and would be qualified for appointment as auditor of the company.
+
+(3)[^key-65ca925fac81a98fe9f771e9c2ea6272] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-65ca925fac81a98fe9f771e9c2ea6272] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Sections 503 to 506 of the 2006 Act apply to an auditor's report under this regulation as they apply to an auditor's report under section 495 of that Act, with any necessary modifications.
+
+## PART 4 — EFFECT OF REVISION
+
+### 10. Effect of revision of accounts
+
+(1) Upon the directors approving revised accounts under regulation 4, the provisions of the 2006 Act have effect as if the revised accounts were, as from the date of their approval, the annual accounts of the company in place of the original annual accounts.
+
+(2) In particular, the revised accounts shall as from that date be the company's annual accounts for the relevant financial year for the purposes of the following provisions of the 2006 Act—
+
+- (a) section 431 (right of member or debenture holder to copies of accounts and reports: unquoted companies),
+- (b) section 432 (right of member or debenture holder to copies of accounts and reports: quoted companies),
+- (c) section 434(3) (requirements in connection with publication of statutory accounts), and
+- (d) sections 423 (duty to circulate copies of annual accounts and reports), 437 (public companies; laying of accounts and reports before general meeting) and 441 (duty to file accounts and reports with the registrar), if the requirements of those sections have not been complied with prior to the date of revision.
+
+### 11. Effect of revision of report
+
+(1)[^key-909ad2a655f94952543c550ab1349672] Subject to the following provisions of these Regulations upon the directors approving a revised report or policy under regulations 4A,[^key-e49d978ef839d7d6ce0fc1b86556a426] 5, 6 or 6A the provisions of the 2006 Act have effect as if the revised report or policy was, as from the date of its approval, the strategic report, directors’ report, directors’ remuneration report or revised directors’ remuneration policy (as the case may be) in place of the original strategic report, directors’ report, directors’ remuneration report or revised directors’ remuneration policy (as the case may be.
+
+(2) In particular, the revised report or policy[^key-c00a5d3aef02efe9f87acfc3b1a1700b] shall as from that date be the strategic report or[^key-94bdc1a571440587f6bc61d4af90b3ee] the directors' report or the directors' remuneration report or revised directors’ remuneration policy[^key-4b43d1523665576bbbd907ca4dbed81c] for the relevant financial year for the purposes of—
+
+- (a) sections 431 and 432 of the 2006 Act, and
+- (b) sections 423 , 437 and 441 of that Act if the requirements of those sections have not been complied with prior to the date of revision.
+
+## PART 5 — PUBLICATION, LAYING AND DELIVERY OF REVISED ACCOUNTS ETC
+
+### 12. Publication of revised accounts and reports
+
+(1) This regulation has effect where the directors have prepared revised accounts or a revised report under section 454 of the 2006 Act and copies of the original annual accounts or report have been sent to any person under section 423 or 146 of that Act.
+
+(2) The directors must send to any such person—
+
+- (a) in the case of a revision by replacement, a copy of the revised accounts, or (as the case may be) the revised report, together with a copy of the auditor's report on those accounts, or (as the case may be) on that report, or
+- (b) in the case of a revision by supplementary note, a copy of that note together with a copy of the auditor's report on the revised accounts, or (as the case may be) on the revised report,
+
+not more than 28 days after the date of revision.
+
+(3) The directors must also, not more than 28 days after the revision, send a copy of the revised accounts or (as the case may be) revised report, together with a copy of the auditor's report on those accounts or (as the case may be) on that report, to any person who is not a person entitled to receive a copy under paragraph (2) but who is, as at the date of revision—
+
+- (a) a member of the company,
+- (b) a holder of the company's debentures, or
+- (c) a person who is entitled to receive notice of general meetings,
+
+unless the company would be entitled at that date to send to that person a copy of strategic report and supplementary material[^key-400cc5274cc16fb91c8bb86369d59e46] under section 426 of the 2006 Act (option to provide copy of strategic report and supplementary material). Section 423(2) to (4) of that Act apply to this paragraph as they apply to section 423(1).
+
+(4) Section 425 of the 2006 Act (default in sending out copies of accounts and reports: offences) applies to a default in complying with this regulation as if the provisions of this regulation were provisions of section 423 and as if the references in that section to “**the company**” and “**every officer of the company who is in default**” were a reference to each of the directors who approved the revised accounts under regulation 4 or revised report under regulation 5 or 6.
+
+(5) Where, prior to the date of revision of the original annual accounts, the company had completed sending out copies of those accounts under section 423 of the 2006 Act, references in that Act to the day on which accounts are sent out under section 423 are to be construed as referring to the day on which the original accounts were sent out (applying section 423(5) as necessary) notwithstanding that those accounts have been revised; where the company had not completed, prior to the date of revision, the sending out of copies of those accounts under that section, such references are to the day, or the last day, on which the revised accounts are sent out.
+
+### 13. Laying of revised accounts or a revised report
+
+(1) This regulation has effect where the directors of a public company have prepared revised accounts or a revised report under section 454 of the 2006 Act and copies of the original annual accounts or report have been laid before a general meeting under section 437 of that Act.
+
+(2) A copy of the revised accounts or (as the case may be) the revised report, together with a copy of the auditor's report on those accounts, or (as the case may be) on that report, must be laid before the next general meeting of the company held after the date of revision at which any annual accounts for a financial year are laid, unless the revised accounts, or (as the case may be) the revised report, have already been laid before an earlier general meeting.
+
+(3) Section 438 of the 2006 Act (public companies: offence of failure to lay accounts and reports) applies with respect to a failure to comply with the requirements of this regulation as it has effect with respect to a failure to comply with the requirements of section 437 of that Act but as if—
+
+- (a) the reference in section 438(1) to “**the period allowed**” was a reference to the period between the date of revision of the revised accounts or (as the case may be) the revised report and the date of the next general meeting of the company held after the date of revision at which any annual accounts for a financial year are laid; references in section 438(1) and (2) to “**that period**” are to be construed accordingly; and
+- (b) the references in section 438(3) to “**the documents in question**” and “**this Part**” were, respectively, a reference to the documents referred to in paragraph (2) and the provisions of Part 15 of the 2006 Act as applied by these Regulations.
+
+### 14. Delivery of revised accounts or a revised report
+
+(1) This regulation has effect where the directors have prepared revised accounts or a revised report under section 454 of the 2006 Act and a copy of the original annual accounts or report has been delivered to the registrar under section 441(1) of that Act.
+
+(2) The directors of the company must, within 28 days of the date of revision, deliver to the registrar—
+
+- (a) in the case of a revision by replacement, a copy of the revised accounts or (as the case may be) the revised report, together with a copy of the auditor's report on those accounts or (as the case may be) on that report, or
+- (b) in the case of a revision by supplementary note, a copy of that note, together with a copy of the auditor's report on the revised accounts or (as the case may be) on the revised report.
+
+(3) Sections 451 (default in filing accounts and reports: offences) and 452 (default in filing accounts: court order) of the 2006 Act apply with respect to a failure to comply with the requirements of this regulation as they apply with respect to a failure to comply with the requirements of section 441 of that Act but as if—
+
+- (a) the references in section 451(1) and in section 452(1)(a) to “**the period for filing those accounts and reports**” were references to the period of 28 days referred to in paragraph (2); the references in section 451(1) and (2) to “**that period**” are to be construed accordingly, and
+- (b) the references in section 451(3) to “**the documents in question**” and “**this Part**” were, respectively, a reference to the documents referred to in paragraph (2) and the provisions of Part 15 of the 2006 Act as applied by these Regulations.
+
+## PART 6 — ABBREVIATED ACCOUNTS AND SUMMARY FINANCIAL STATEMENTS
+
+### 15. Small and medium sized companies[^key-934984ddda7781158ba1210e164de3a1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16.[^key-934984ddda7781158ba1210e164de3a1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Summary financial statements[^key-f83cb6ebea58058210588f5a5ace8581]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — COMPANIES EXEMPT FROM AUDIT
+
+### 18. Companies exempt from audit under section 477 , 479A or 480[^key-05f9be9ccc6ebd18c0235bb2ca04ff68]
+
+Where, in respect of any financial year, a company is exempt under section 477 (small companies: conditions for exemption from audit) , 479A (subsidiary companies: conditions for exemption from audit)[^key-90f9a73d11fbe5ab1c48956802744cea] or 480 (dormant companies: conditions for exemption from audit) of the 2006 Act from the requirements of that Act relating to the audit of accounts, these Regulations apply as if they omitted any reference to an auditor's report, or to the making of such a report.
+
+## PART 8 — FINAL PROVISIONS
+
+### 19. Modifications of the 2006 Act
+
+(1) Where the provisions of the 2006 Act as to the matters to be included in the annual accounts of a company or (as the case may be) in a strategic report or a[^key-b38e02755348a632b38ad7550bfd890e] directors' report or directors' remuneration report have been amended after the date of the original annual accounts or (as the case may be) strategic report,[^key-b83f782109789511746a034c09059134] directors' report or directors' remuneration report but prior to the date of revision, references in regulations 3 and 7(3) to the provisions of that Act are to be construed as references to the provisions of that Act as in force at the date of the original annual accounts or (as the case may be) strategic report, directors' report or directors' remuneration report.
+
+(2)[^key-03f412792f41342b78ba68af21094656] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-074f05c4063b349242051020bf582751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Revocations etc.
+
+(1) The Companies (Revision of Defective Accounts and Report) Regulations 1990 [^c19114141] and the Companies (Revision of Defective Accounts and Report) Regulations (Northern Ireland) 1991 [^c19114151] are revoked.
+
+(2) Notwithstanding the revocation of the regulations specified in paragraph (1), the provisions of those regulations continue to apply in relation to financial years of a company beginning before 6th April 2008.
+
+### 21. Review[^key-1f9f4ff6e8d006f4eaaa3d23298f60a1]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision in these Regulations to which amendments have been made by Part 3 of the Statutory Auditor Regulations 2017, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 1st January 2023.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015 requires that a review carried out under this regulation must, so far as is reasonable, have regard to how Article 28 of [Directive 2006/43/EC](https://www.legislation.gov.uk/eudr/2006/0043) of the European Parliament and of the Council on statutory audits of annual accounts and consolidated accounts, amending Council Directives [78/660/EEC](https://www.legislation.gov.uk/eudr/1978/660) and [83/349/EEC](https://www.legislation.gov.uk/eudr/1983/349) and repealing Council [Directive 84/253/EEC](https://www.legislation.gov.uk/eudr/1984/0253) is implemented in other member States.
+
+(5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a),
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(6) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Gareth Thomas
+
+Parliamentary Under Secretary of State for Trade and Consumer Affairs,
+
+Department for Business, Enterprise and Regulatory Reform
+
+*(This note is not part of the Regulations)*
+
+These Regulations set out how the provisions of the Companies Act 2006 (“**the 2006 Act**”) are to apply to revised annual accounts, directors' reports, directors' remuneration reports and summary financial statements prepared under section 454 of the 2006 Act. They replace the Companies (Revision of Defective Accounts and Report) Regulations 1990 (S.I. 1990/2570) (“**the 1990 Regulations**”) which were made under the Companies Act 1985 (c.6), and the Companies (Revision of Defective Accounts and Report) Regulations (Northern Ireland) 1991 (S.R. 1991/268) (“**the 1991 Regulations**”), made under the Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6)).
+
+The Regulations come into force on 6th April 2008, and apply in relation to companies' financial years beginning on or after that date (regulation 1(2)). They extend to the whole of the United Kingdom, reflecting the extent of the 2006 Act.
+
+Regulation 2 contains definitions. Regulation 2(2) provides that any reference in the Regulations to members of a company include persons nominated to enjoy information rights under section 146 of the 2006 Act (traded companies: nomination of persons to enjoy information rights). Regulation 2(3) provides for references in the Regulations to 2006 Act provisions on the content of accounts and reports to include relevant provisions of the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 and the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008. These two sets of regulations replace the Accounting Schedules to Part 7 of the Companies Act 1985 and Part 8 of the Companies (Northern Ireland) Order 1986.
+
+Regulation 3 re-enacts the provisions of the 1990 and 1991 Regulations providing for revised accounts to be prepared as if they were being prepared as at the date of the approval of the original, defective accounts.
+
+Regulations 4 to 6 re-enact the provisions setting out the procedures for the approval and signing of revised accounts, revised directors' reports or revised directors' remuneration reports, and require statements to be inserted into the revised documents making clear what they are.
+
+Regulations 7 to 9 re-enact the provisions for a special auditor's report on revised accounts or reports.
+
+Regulation 10 restates the provisions that as from the date of revision of the revised accounts they are to be regarded as the company's annual accounts for all the purposes of the 2006 Act (so that, for example, if the original defective accounts have not by that date been sent to the members of the company under section 423 of the 2006 Act, laid before the company in general meeting in the case of a public company under section 437 or delivered to the registrar of companies under section 441, the revised accounts must be so sent, laid or delivered). Regulation 11 makes similar provision with respect to directors' reports and directors' remuneration reports.
+
+Regulations 12 to 14 re-enact the provisions requiring that the directors take certain steps with regard to revised accounts or revised reports where, prior to the date of the revision, copies of the original, defective accounts or reports have been sent to members, laid before the company in general meeting (in the case of a public company) or delivered to the registrar of companies. Regulations 15 to 17 re-enact the special provisions with respect to situations where, prior to the date of revision, accounts abbreviated as for a small or medium-sized company or summary financial statements have been delivered or sent based upon the original, defective accounts.
+
+Regulation 18 re-enacts the provisions with respect to companies exempt from audit, while regulation 19 deals with the case where the provisions of the 2006 Act as to the contents of accounts or reports have changed between the date of the original, defective accounts and the date of revision.
+
+Regulation 20 revokes the 1990 and 1991 Regulations, and makes transitional provision.
+
+An Impact Assessment has not been produced for these Regulations as they have only a negligible impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^c19114101]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-0fe30606d826fd19f4d6fcb027e915d8]: Textual amendment: Words in reg. 2(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/4/a)
+
+[^key-907f8bb705454db30d6c3ea4c297c900]: Textual amendment: Words in reg. 2(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/4/b)
+
+[^key-43ebf707854e429d4826b35c2431161b]: Textual amendment: Words in reg. 2(1) substituted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [7(a)(i)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/7/a/i) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^M_F_15ccaca0-8455-41ca-b286-df6bf971b13b]: Textual amendment: Words in reg. 2(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/4/c)
+
+[^key-cf6eda8c07569daa616c6208f593c850]: Textual amendment: Word in reg. 2(1) inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/7/a/ii) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-b97acbe826392ee024a52606d83d2cd5]: Textual amendment: Words in reg. 2(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/4/c)
+
+[^key-85e5445231256797948d3062acc7cf9c]: Textual amendment: Words in reg. 2(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/4/d)
+
+[^key-8e0c4f586d7d410534e41dfb33510c0a]: Textual amendment: Words in reg. 2(1) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [43(2)](https://www.legislation.gov.uk/uksi/2015/980/regulation/43/2)
+
+[^key-31cd9e6cf3ddcbec5cac31add4925870]: Textual amendment: Words in reg. 2(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [4(e)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/4/e)
+
+[^key-f62d6aa528d3b5932b63273c075577a6]: Textual amendment: Words in reg. 2(1) inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [7(b)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/7/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-fa45468c85b478b791aeab8096ba968c]: Textual amendment: Words in reg. 2(1) substituted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [7(c)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/7/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-68d3a8410f25fe6140e8393beaf0d7ac]: Textual amendment: Words in reg. 2(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [4(g)(i)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/4/g/i)
+
+[^key-3979911ee21a9917177cbbaeda895349]: Textual amendment: Words in reg. 2(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [4(g)(ii)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/4/g/ii)
+
+[^key-6567356da34398f4ecef22ab7b7c8332]: Textual amendment: Words in reg. 2(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [4(h)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/4/h)
+
+[^c19114111]: Marginal citation: [S.I. 2008/409](https://www.legislation.gov.uk/uksi/2008/409).
+
+[^c19114121]: Marginal citation: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410).
+
+[^key-6d3a5a692a4433ad3608f9cccf0427be]: Textual amendment: Words in reg. 3(1) omitted (31.12.2020) by virtue of The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 55(2)(a)](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/55/2/a) (with [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4ef798b0e87faca8d5b6dbdd1b92a03b]: Textual amendment: Words in reg. 3(2)(b) substituted (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 55(2)(b)](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/55/2/b) (with [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-81fb7f03d8e7533538dcf2c759bd94e2]: Textual amendment: Reg. 3(4) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2013/2224/regulation/5)
+
+[^key-779f3293633726603839e05075d23349]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2008/373/regulation/4A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2013/2224/regulation/6)
+
+[^key-1d85296627875b31cf0b315baa369ef6]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2008/373/regulation/5) substituted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2017/1164/regulation/8) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-69c8b32bb6af56ba605a322f006bbf10]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2008/373/regulation/6A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2013/2224/regulation/7)
+
+[^key-06b2b248978d180bb0da64bdac105aa8]: Textual amendment: Words in reg. 7(1) substituted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/9/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-b5f666959728e401cfa8f83da7151437]: Textual amendment: Reg. 7(1A) inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/9/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-3569bafc106f94a1d39949f29e02b4ea]: Textual amendment: Words in reg. 7(1A)(b) omitted (31.12.2020) by virtue of The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 55(3)(a)](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/55/3/a) (with [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2bab421970887d1ed8d36d6e506e67c8]: Textual amendment: Words in reg. 7(3) omitted (1.1.2018) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [9(c)(i)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/9/c/i) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-dfdea2d9ab2a6ac6589e846329a430c6]: Textual amendment: Word in reg. 7(3) inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [9(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/9/c/ii) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-50f074f4744421cea1c0a5bcbd82b701]: Textual amendment: Words in reg. 7(3) omitted (31.12.2020) by virtue of The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 55(3)(b)](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/55/3/b) (with [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-188c7a43de5cb67cdd6da05c90dc80b3]: Textual amendment: Words in reg. 7(3) omitted (1.1.2018) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [9(c)(iii)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/9/c/iii) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-35cc958b6be590c812c7f7118d0c8f7d]: Textual amendment: Reg. 7(4) omitted (1.1.2018) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [9(d)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/9/d) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-c4b53474308108286d9e3dd373c73aa9]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/2008/373/regulation/9/1)[(1A)](https://www.legislation.gov.uk/uksi/2008/373/regulation/9/1A) substituted for [reg. 9(1)](https://www.legislation.gov.uk/uksi/2008/373/regulation/9/1) (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/10/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-65ca925fac81a98fe9f771e9c2ea6272]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2008/373/regulation/9/3)[(4)](https://www.legislation.gov.uk/uksi/2008/373/regulation/9/4) omitted (1.1.2018) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/10/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-909ad2a655f94952543c550ab1349672]: Textual amendment: Reg. 11(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/10/a)
+
+[^key-e49d978ef839d7d6ce0fc1b86556a426]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/2008/373/regulation/11) inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2017/1164/regulation/11) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-c00a5d3aef02efe9f87acfc3b1a1700b]: Textual amendment: Words in reg. 11(2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [10(b)(i)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/10/b/i)
+
+[^key-94bdc1a571440587f6bc61d4af90b3ee]: Textual amendment: Words in reg. 11(2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/10/b/ii)
+
+[^key-4b43d1523665576bbbd907ca4dbed81c]: Textual amendment: Words in reg. 11(2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [10(b)(iii)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/10/b/iii)
+
+[^key-400cc5274cc16fb91c8bb86369d59e46]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/373/regulation/12/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2013/2224/regulation/11)
+
+[^key-934984ddda7781158ba1210e164de3a1]: Textual amendment: Regs. 15, 16 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [43(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/43/3)
+
+[^key-f83cb6ebea58058210588f5a5ace8581]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2008/373/regulation/17) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2013/2224/regulation/12) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/2224/regulation/14))
+
+[^key-05f9be9ccc6ebd18c0235bb2ca04ff68]: Textual amendment: Word in reg. 18 heading inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [12(a)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/12/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-90f9a73d11fbe5ab1c48956802744cea]: Textual amendment: Words in reg. 18 inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [12(b)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/12/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-b38e02755348a632b38ad7550bfd890e]: Textual amendment: Words in reg. 19(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/13/a)
+
+[^key-b83f782109789511746a034c09059134]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2008/373/regulation/19/1) inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [13(a)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/13/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-03f412792f41342b78ba68af21094656]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2008/373/regulation/19/2) omitted (1.1.2018) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [13(b)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/13/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+
+[^key-074f05c4063b349242051020bf582751]: Textual amendment: Reg. 19(3) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Companies (Revision of Defective Accounts and Reports) (Amendment) (No.2) Regulations 2013 (S.I. 2013/2224)](https://www.legislation.gov.uk/uksi/2013/2224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2013/2224/regulation/13/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/2224/regulation/14))
+
+[^c19114141]: Marginal citation: [S.I. 1990/2570](https://www.legislation.gov.uk/uksi/1990/2570) as amended by S.I.s 1994/1935, 1995/2092, 1996/315, 2005/2282 and 2005/3442.
+
+[^c19114151]: Marginal citation: [S.R. 1991/268](https://www.legislation.gov.uk/nisr/1991/268), as amended by regulation 10 of [S.R. 1993/267](https://www.legislation.gov.uk/nisr/1993/267), [regulation 5](https://www.legislation.gov.uk/nisr/1993/267/regulation/5) of, and Schedule 2 to, [S.R. 1995/128](https://www.legislation.gov.uk/nisr/1995/128), [regulation 12](https://www.legislation.gov.uk/nisr/1995/128/regulation/12) of [S.R. 1996/179](https://www.legislation.gov.uk/nisr/1996/179), [S.R. 1997/423](https://www.legislation.gov.uk/nisr/1997/423) and [S.R. 2006/139](https://www.legislation.gov.uk/nisr/2006/139).
+
+[^key-1f9f4ff6e8d006f4eaaa3d23298f60a1]: Textual amendment: Reg. 21 inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2017/1164/regulation/14) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

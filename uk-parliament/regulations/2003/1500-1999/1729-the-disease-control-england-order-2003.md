@@ -1,0 +1,553 @@
+---
+title: The Disease Control (England) Order 2003
+id: uksi/2003/1729
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-07-10'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2003/1729
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1729/pdfs/uksi_20031729_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1729/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Disease Control (England) Order 2003
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2003 No. 1729
+
+ANIMALS, ENGLAND
+
+ANIMAL HEALTH
+
+The Disease Control (England) Order 2003
+
+Made
+
+10th July 2003
+
+Coming into force
+
+1st August 2003
+
+The Secretary of State, in exercise of the powers conferred on her by sections 1, 7, 8(1) and 83 of the Animal Health Act 1981[^f00001], makes the following Order:
+
+## PART 1 — Introduction
+
+### 1. Title, application and commencement
+
+This Order may be cited as the Disease Control (England) Order 2003; it applies in England and comes into force on 1st August 2003.
+
+### 2. Interpretation
+
+In this Order—
+
+- “animals” means cattle (excluding bison and yak), deer, goats, pigs and sheep;
+- “collecting centre” means premises used for the intermediate reception of animals intended to be moved elsewhere (but does not include a market or other place used for the sale or trading of animals unless all the animals there are intended for immediate slaughter);
+- “keeper” means any person having care and control of animals even on a temporary basis and includes, for the purposes of article 13(2)(a), any person transporting the animals;
+- “land” includes common or unenclosed land;
+- “premises” includes land, with or without buildings;
+- “sole occupancy group” has the meaning assigned by article 11;
+- [^key-c93d15a260fec25c48daa0d4a6d47a15]...
+- “slaughterhouse” has the meaning it is given in the Food Safety and Hygiene (England) Regulations 2013[^key-fd411d863d7103caeb4cee8db497574b];
+- “standstill period” means a period when animals may not be moved off premises because of the provisions of articles 4 or 5; and
+- “veterinary treatment” includes, in the case of goats, the collection of semen.
+
+### 3. Exceptions
+
+This Order shall not apply in relation to a movement—
+
+- (a) licensed under the Foot-and-Mouth Disease Order 1983[^f00003]; or
+- (b) to or from a zoo licensed under the Zoo Licensing Act 1981[^f00004].
+
+### 3A. Emergency measures[^key-593c4da71526307b09737209990bf608]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Movement restrictions
+
+### 4. Restrictions on the movement of cattle, sheep and goats
+
+No person shall move any sheep, goats or cattle from any premises if any sheep, goats, cattle or pigs have been moved on to those premises during the previous 6 days.
+
+### 5. Restrictions on the movement of pigs
+
+No person shall move a pig from any premises if—
+
+- (a) any pig has been moved on to those premises during the previous 20 days; or
+- (b) any cattle, goats or sheep have been moved on to those premises during the previous 6 days.
+
+### 6. Permitted movements during standstill
+
+Notwithstanding articles 4 and 5, animals may be moved off premises during the standstill period if—
+
+- (a) the movement is one specified in Schedule 1; or
+- (b) a permit disapplying the standstill period has been issued by a veterinary inspector.
+
+### 7. Movements that do not trigger a standstill period
+
+The standstill period is not triggered by a movement on to premises if it is a movement specified in Schedule 2.
+
+### 8. Isolation facilities
+
+(1) Where animals are held in an isolation facility under any provision of this Order, and other animals are moved in before they are released from the isolation facility, no animal may be removed from the isolation facility before the last date of release of the last animals moved into the isolation facility.
+
+(2) Pigs may not share an isolation facility with animals of any other species.
+
+### 9. Marking sheep and goats travelling to shows or exhibitions[^key-a84a0223065d00a2b5b730ab1e02fe94]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Restrictions on movements to and from slaughterhouses
+
+No person shall—
+
+- (a) move any animal to a slaughterhouse save for the purpose of slaughter within 48 hours of its arrival there; or
+- (b) receive any animal from a slaughterhouse unless, in the case of any animal other than a pig, under the authority of a licence issued by a veterinary inspector.
+
+### 11. Sole occupancy groups
+
+The Secretary of State may authorise sets of premises as sole occupancy groups if she is satisfied that the premises are linked in terms of their control.
+
+## PART 3 — Licences
+
+### 12. Requirement for a licence to move animals
+
+(1) No person shall move an animal from any premises unless the movement is made under the authority of a licence issued by the Secretary of State or an inspector.
+
+(2) Paragraph (1) shall not apply to any movement authorised by a licence under article 20 of the Pigs (Records, Identification and Movement) Order 2011 (walking licences for pet pigs)[^key-f667482711fb561ebcac584ffc940ac9].
+
+### 13. Notices prohibiting movement under a general licence
+
+(1) Where a general licence has been issued under article 12, the Secretary of State may issue a notice prohibiting—
+
+- (a) the movement under the authority of that licence of any animal from any premises specified in the notice; or
+- (b) any person specified in the notice from moving animals under the authority of that licence either generally or to or from any premises specified in the notice.
+
+(2) A notice may only be issued under paragraph (1) on the advice of an inspector, who must be of the opinion that—
+
+- (a) the provisions of this Order are not being or have not been complied with in relation to animals moved to or from the premises in question or in relation to the movement of any other animals of which the person on whom the notice is to be served is or has at any time been the keeper, and
+- (b) the service of a notice is necessary to prevent a possible spread of disease.
+
+(3) A notice issued under paragraph (1)(a) shall be served on the occupiers of each of the premises specified in the notice and in any other way that the Secretary of State thinks fit to draw the notice to the attention of persons affected by it.
+
+(4) A notice issued under paragraph (1)(b) shall be served on the person prohibited from moving animals by the notice and on the occupiers of any premises individually named in the notice.
+
+(5) A notice shall be in writing, may be subject to conditions and may be amended, suspended or revoked at any time by further notice by the Secretary of State.
+
+### 14. Specific licences
+
+(1) An animal moved under a specific licence shall—
+
+- (a) be moved by the most direct route available to the place of destination specified in the licence, and
+- (b) be accompanied throughout the movement by the licence.
+
+(2) The person in charge of any animal moved under a specific licence shall, on demand made by a constable or by an inspector or other officer of the Secretary of State or of a local authority—
+
+- (a) produce the licence;
+- (b) allow a copy or an extract to be taken; and
+- (c) if so required, furnish his name and address.
+
+(3)[^key-27b71ebeff278a68ef2ac2413b5af5e5] Every animal which is moved under a specific licence shall be kept separate throughout such movement from any animal which is not being moved under that licence.
+
+(4) Where animals are moved under a specific licence, then, unless the licence provides otherwise, the occupier of premises which they are moved on to shall—
+
+- (a) ensure that he or his representative is given the licence before allowing the animals to be unloaded; and
+- (b) keep the licence for six months and during that period produce it to an inspector on request.
+
+### 15. General licences[^key-2180eea41bea8a922d46fe9473a79f24]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15A. Movement documents for deer[^key-02d7942d52a77a1c1f241490b499e548]
+
+Where deer are moved under a general licence, and that licence requires the person moving the deer to have a movement document, the occupier of premises which they are moved on to must—
+
+- (a) comply with the conditions of the licence relating to the reporting of movement information; and
+- (b) keep a copy of the completed movement document for six months and during that period produce it to an inspector on request.
+
+### 16. Copies of licences
+
+Where an inspector of a local authority issues a licence under article 12(1), he shall retain a copy of the licence for six months.
+
+### 17. Compliance with licences, etc.
+
+If any person fails to comply with a licence, permit, authorisation or notice issued under this Order an officer of the Secretary of State or an inspector may arrange for it to be complied with at the expense of the person in default.
+
+### 18. Cross-border movements of animals into England[^key-a2668f35307585644a1c09b8d23310e8]
+
+(1) In this article a “**cross-border movement**” means the movement of an animal—
+
+- (a) from Scotland into England, where the movement of the animal within Scotland is carried out under the authority of a licence (general or specific) issued by an authority in Scotland which is responsible for issuing licences in relation to the movement of animals; or
+- (b) from Wales into England, where the movement of the animal within Wales is carried out under the authority of a licence (general or specific) issued by an authority in Wales which is responsible for issuing licences in relation to the movement of animals.
+
+(2) That part of a cross-border movement which is carried out within England is treated as if it were authorised by a general licence under article 12.
+
+(3) But paragraph (2) does not apply in the case of a cross-border movement by a person specified in a notice under article 13(1)(b), if that notice prohibits movements of animals by that person generally or to premises which are the destination of the cross-border movement in question.
+
+## PART 4 — Miscellaneous and enforcement
+
+### 19. Licences, permits and authorisations
+
+(1) Any licence, permit or authorisation under this Order shall be in writing, may be general or specific, may be subject to conditions and may be varied, suspended or revoked at any time by notice in writing issued—
+
+- (a) by the Secretary of State, in the case of a licence, permit or authorisation issued by the Secretary of State or an inspector of any kind;
+- (b) by a veterinary inspector, in the case of a licence or permit issued by a veterinary inspector or any other inspector of the Secretary of State;
+- (c) by an inspector of the Secretary of State (other than a veterinary inspector), in the case of a licence issued by any such inspector; or
+- (d) by an inspector of a local authority, in the case of a licence issued by an inspector of that local authority.
+
+(2) In deciding whether to issue a licence under article 12(1) or a permit under article 6(b) an inspector or a veterinary inspector shall comply with any instructions issued by the Secretary of State.
+
+### 20. Cleansing and disinfection
+
+(1) A licence issued under article 12(1), a permit issued under article 6(b) or an authorisation under article 11 may specify requirements for the cleansing and disinfection of any vehicle used for moving animals additional to the requirements of the Transport of Animals (Cleansing and Disinfection) (England) ([^key-869fbb59b4aa16daac91022ef3d37f48]No. 3) Order 2003 .
+
+(2) Where animals are moved under a licence, the occupier of the premises which they are moved on to shall provide adequate facilities, equipment and materials for any cleansing and disinfection required by the licence.
+
+### 21. Change of occupation of premises
+
+(1) Where, on the termination of his right of occupation of any premises, the owner of any animal on those premises is unable to remove it from those premises by reason of any restriction imposed by or under this Order, the person entitled to the occupation of those premises shall—
+
+- (a) afford the owner of that animal and any person authorised by him for the purpose, all such facilities as may be necessary for feeding, tending or otherwise using that animal (including selling it) as the owner may reasonably require; or
+- (b) where the owner of that animal is unable or unwilling to avail himself of such facilities, take all such steps as may be necessary to ensure that the animal is properly fed, tended and kept.
+
+(2) The provisions of paragraph (1) shall continue to apply until the expiry of a period of 7 days from the date on which any restriction on the movement of the animal off the premises ceases to apply and the owner of the animal shall be liable to pay to the person who affords any facilities or feeds, tends or otherwise keeps that animal, in accordance with those provisions, such sums by way of remuneration and reimbursement of expenses as may be just and reasonable in all the circumstances.
+
+### 22. Enforcement
+
+(1) This Order shall be enforced by the local authority.
+
+(2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority under this regulation shall be discharged by the Secretary of State and not by the local authority.
+
+(3)[^key-19e0e36349bd83fd8671f3083b60ba7e] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+
+### 23. Revocations
+
+The Disease Control (Interim Measures) (England) (No. 2) Order 2003[^f00008] is revoked.
+
+### 24. Review[^key-a761b9350b48d6de3ee7e55aaa6e12f6]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision in this Order, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision,
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(3) The first report under this article must be published before 6th April 2021.
+
+(4) Subsequent reports under this article must be published at intervals not exceeding five years.
+
+(5) In this article, “regulatory provision” has the meaning given by section 32(4) of the Small Business, Enterprise and Employment Act 2015.
+
+Whitty
+
+Parliamentary Under Secretary of State,
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — Movements off premises which are permitted during the standstill period
+
+Article 6(a)
+
+### 1. Movement for veterinary treatment, etc.
+
+(1) The movement of an animal to a place for veterinary treatment.
+
+(2) The movement of an animal from a place for veterinary treatment provided the animal has not come into contact with other animals while at the place of treatment.
+
+(3) The movement of an animal to a laboratory for diagnostic tests to be carried out to ascertain whether the animal is affected by or has been exposed to a disease.
+
+### 2. Movement for slaughter
+
+The movement of an animal direct to a slaughterhouse.
+
+**3.** The movement of a pig to a market for pigs intended for immediate slaughter.
+
+**4.** The movement of an animal to a collecting centre for animals intended for immediate slaughter, provided that—
+
+- (a) the collecting centre premises have not been and will not be used on the same day for a show or exhibition or for the sale or trading of animals otherwise than for immediate slaughter; and
+- (b) all animals moved to the collecting centre are moved from there direct to a slaughterhouse.
+
+### 5. Movement for artificial insemination
+
+The movement of cattle or pigs to an artificial insemination centre.
+
+**6.** The movement of sheep or goats to an artificial insemination centre provided they have been isolated from all other animals for 6 days before departure.
+
+### 7. Animals for export
+
+The movement of an animal for direct export or to a collecting centre or assembly centre [^key-d9950322fba582a4f420d6abaed12ae1]... prior to such export.
+
+### 8. Movement within a sole occupancy group
+
+The movement of animals between premises in a sole occupancy group.
+
+### 9. Common land
+
+(1) The movement of an animal between land over which the owner or keeper of the animal has a registered right of common and—
+
+- (a) premises occupied by the owner or keeper of the animal and in relation to which the registered right of common is customarily exercised; or
+- (b) premises occupied by any other person who has a registered right of common over that land and in relation to which the registered right of common is customarily exercised.
+
+(2) The movement of an animal between premises occupied by the owner or keeper of the animal and in relation to which a registered right of common over land is customarily exercised and premises occupied by any other person who has a registered right of common over that land and in relation to which the registered right of common of that other person is customarily exercised.
+
+(3) In this paragraph “registered right of common” means a right of common registered under the Commons Registration Act 1965[^f00010] or a right of common which is exempt from such registration but which is registered, designated, attached, or otherwise recognised, continued or preserved under and in accordance with any of the New Forest Acts 1854, 1949, 1964 and 1970, the Epping Forest Acts 1878[^f00011] and 1880[^f00012] or the City of London (Various Powers) Act 1977[^f00013] or any like right or permission exercised in the Forest of Dean.
+
+### 10. Movement of pigs for breeding, etc.
+
+(1) The movement of a pig intended for breeding or growing in accordance with article 21 of the Pigs (Records, Identification and Movement) Order 2011[^key-3958fb44cae2487f9f30f1c516fe89db].
+
+(2) The movement of a pig intended for breeding other than in accordance with paragraph (1) if that pig has been placed in an isolation facility approved for this purpose by a veterinary inspector for 20 days prior to the movement.
+
+### 11. Movement of pigs to shows and exhibitions
+
+The movement of a pig to a show or exhibition provided that—
+
+- (a) it is isolated for 20 days prior to the movement taking place in premises approved for this purpose by a veterinary inspector; or
+- (b) it has been returned to its premises of origin from a show or exhibition and isolated at its premises of origin in premises approved in accordance with paragraph (a) from the time of arriving from the first show or exhibition to the time of leaving for the second show or exhibition.
+
+### 12. Movement of rams and bulls for breeding
+
+(1) The movement of rams and bulls intended for breeding to a market, provided that they have been placed in an isolation facility approved for this purpose by a veterinary inspector for 6 days prior to the movement.
+
+(2) To qualify for this exemption—
+
+- (a) the movement must take place on or after 1st August and before 1st December;
+- (b) the animals must not have shared the isolation facility with animals isolated for any other purpose;
+- (c)[^M_F_307ba826-bda6-4562-c354-af7ac1fb9b26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-1aa8e63439caf4da22215b5ce8b4fa52] the person sending the animal must submit, in accordance with the terms of the licence under which the animal is moved, and without undue delay, a declaration that the animal is intended for sale for breeding
+
+### 13. Movement of cattle, sheep and goats to shows and exhibitions
+
+The movement of cattle, sheep and goats to shows and exhibitions provided that—
+
+- (a) they have been isolated for six days in a facility approved for this purpose by a veterinary inspector before travelling to a show or exhibition, or
+- (b) they have moved into the isolation facility from another show or exhibition and have not left that isolation facility since being taken on to it.
+
+### 14. Vehicles dropping off other animals
+
+Movement of an animal which is on a vehicle which enters premises to drop off other animals, provided it has not left the means of transport while on the premises.
+
+## SCHEDULE 2 — Movements on to premises that do not trigger the standstill period
+
+Article 7
+
+### 1. Arrival at a premises licensed under the Animal Gatherings Order 2010[^key-99d536eee5b2c09e4c6c9f20782b9a06]
+
+The movement of an animal on to any premises licensed under the Animal Gatherings Order 2010[^key-d5b52a53ba30def5cdce00b4a72bbb05] if the movement is for the purposes of a gathering licensed under that Order.
+
+### 2. Arrival at an artificial insemination centre
+
+The movement of an animal on to an artificial insemination centre.
+
+### 3. Movement of a pig under the Pigs (Records, Identification and Movement) Order 2011[^key-8d30fbfa679f5c027e04cd07e020c6c8]
+
+Movement of a pig where that movement is as referred to in article 21 of the Pigs (Records, Identification and Movement) Order 2011[^key-7a21d1866d7cd102b3b6f7e84b45535c].
+
+### 4. Movement of a pig for breeding purposes
+
+(1) Arrival of a pig for breeding (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) Order 2011[^key-939452176bf941ab556d5bda735cc020]) on the breeding premises provided that—
+
+- (a) prior to being moved, either there is no standstill period on the premises of departure, or alternatively it has been isolated for 20 days prior to the movement taking place in a facility approved for this purpose by a veterinary inspector;
+- (b) it is isolated while on the breeding premises (or for 20 days, whichever is shorter) in an isolation facility approved for this purpose by a veterinary inspector;
+- (c) any pig placed in the isolation facility with the pig brought on to the premise for breeding purposes has been on the breeding premises for at least 20 days before being placed in that facility;
+- (d) any other pig placed into the isolation facility on the breeding premises with the one brought on to those premises remains in isolation for 20 days after the arrival of the pig being brought into the premises, or for 20 days after being placed into isolation with it whichever is later; and
+- (e) the recipient of the breeding pig submits, in accordance with the terms of the licence under which the pig is moved, and[^key-d5006b99c2a3407f21c26ab7f35a7b31] without undue delay a declaration that the pig is intended for breeding on those premises.
+
+(2) Movement of a pig (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) Order 2011[^key-f8a7c5a73ebe4745d00663b5effbed7b]) which is being returned to those premises from a place to which it had been moved for breeding, provided that—
+
+- (a) it is isolated for 20 days after the date of its return from all other animals, and
+- (b) the occupier of the premises from which the pig has returned from breeding has submitted[^key-b7594c0d27509da7965f478b482cd093] the declaration required in paragraph 4(1)(e) [^key-7a5d2736ecdb5b9e99540d7feb847121]....
+
+### 5. Return of pigs, cattle, sheep or goats from a show or exhibition
+
+The return of pigs, cattle, sheep or goats from a show or exhibition to the premises from which they were consigned to that show or exhibition provided that the animals are isolated for 6 days (or, in the case of pigs, 20 days) after their return in premises approved for this purpose by a veterinary inspector.
+
+### 6. Return of breeding rams and bulls from a market
+
+(1) Return of rams and bulls from a market provided that the animals are isolated for 6 days after their return in premises approved for this purpose by a veterinary inspector.
+
+(2) To qualify for this exemption—
+
+- (a) the movement must take place on or after 1st August and before 1st December;
+- (b) the animals must not have shared the isolation facility with animals isolated for any other purpose;
+- (c)[^key-f9df8bbb5fae7d6a45e45c998706114c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Arrival of rams and bulls for breeding
+
+(1) Arrival of rams and bulls for the purpose of breeding provided they are isolated for 6 days after their arrival in a facility approved for this purpose by a veterinary inspector.
+
+(2) To qualify for this exemption—
+
+- (a) the movement must take place on or after 1st August and before 1st December;
+- (b)[^key-2fcd042c1a195dc3ad4c503836259833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the recipient of the breeding animal must submit, in accordance with the terms of the licence under which the animal is moved, and[^key-939dd23dac4389261e8f46bcbb678122] without undue delay a declaration that the animal is intended for breeding on those premises;
+- (d) any ewes placed with that ram must be isolated for six days in that facility.
+
+### 8. Arrival of goats for breeding
+
+(1) Arrival of goats for the purpose of breeding provided that they have been isolated on the premises of origin for 6 days prior to leaving in a facility approved for this purpose by a veterinary inspector.
+
+(2) To qualify for this exemption—
+
+- (a)[^key-5497e0ef29cb1972238ef8212a0ec1b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the recipient of the breeding animal must submit, in accordance with the terms of the licence under which the animal is moved, and[^key-39f114183dc47d47bb2f7c11a053186d] without undue delay a declaration that the animal is intended for breeding on those premises.
+
+### 9. Artificial insemination centres
+
+Arrival of cattle which are being returned to those premises from an artificial insemination centre.
+
+**10.** Arrival of pigs which are being returned to those premises from an artificial insemination centre provided they are isolated from all other animals for 20 days after their return.
+
+**11.** Arrival of sheep or goats which are returning from an artificial insemination centre provided that—
+
+- (a) they are isolated from all other animals for 6 days after their return; and
+- (b) they were isolated from all other animals while at the artificial insemination centre.
+
+### 12. Imported animals
+
+(1) The arrival of an imported animal at its point of entry into England.
+
+(2) Movement of an animal from its point of entry into the United Kingdom following its import from another member State.
+
+### 13. Movement within a sole occupancy group
+
+The movement of animals between premises in a sole occupancy group.
+
+### 14. Vehicles collecting other animals
+
+Movement of an animal brought on to premises in a vehicle to collect other animals provided that the animal is not unloaded at those premises.
+
+### 15. Arrival from veterinary treatment, etc.
+
+The arrival of sheep, goats, cattle or pigs being returned to those premises from a place for veterinary treatment or of any offspring to which they have given birth while there provided that, in the case of pigs, they are isolated from other animals for 20 days following their return.
+
+(This note is not part of the Order)
+
+This Order revokes and replaces the Disease Control (Interim Measures) (England) (No. 2) Order 2003[^f00016]. It changes the provisions of that Order as follows—
+
+- It removes the cessation provision so that the Order now has permanent effect (article 1);
+- It amends the provisions relating to the standstill period so that the arrival of a pig triggers a 20 day standstill on any pigs on the premises and a 6 day standstill on any cattle, goats and sheep (article 3);
+- It amends Schedule 2 so that movements of animals on to premises licensed under the Animal Gatherings Order 2003[^f00017] do not trigger the standstill period;
+- It adds paragraph 12 to Schedule 1 (movement of rams and bulls for breeding) and paragraphs 6, 7 and 8 (provisions concerning breeding rams, bulls and goats) to Schedule 2.
+
+Part 2 of the Order provides that cattle, goats, and sheep, may not be moved from premises if specified animals have been moved on to those premises in the previous 6 days (article 4). It also provides that pigs may not be moved from premises if pigs have been moved on to those premises in the previous 20 days or cattle, goats, or sheep have been moved on to those premises in the previous 6 days (article 5).
+
+It provides for exceptions from these requirements (articles 6, 7 and 8 and Schedules 1 and 2). Schedule 1 lists the movements off premises which are permitted during the standstill period and Schedule 2 lists the movements on to premises that do not trigger the standstill period.
+
+It provides for marking sheep and goats travelling to shows or exhibitions (article 9).
+
+It controls movement of animals to and from slaughterhouses (article 10) and provides for sets of premises to be linked together as sole occupancy groups (article 11).
+
+Part 3 of the Order provides that cattle, deer, pigs, goats and sheep may not be moved except in accordance with a licence (article 12).
+
+It makes provisions for licences, permits and authorisations, and empowers the Secretary of State to serve notices removing individual premises or people from operating under a general licence (articles 13 to 19 ).
+
+It provides for disinfection of vehicles (article 20).
+
+It provides for change of occupation of premises affected by the Order (article 21).
+
+It is enforced by the local authority (article 22).
+
+Breach of the Order is an offence under section 73 of the Animal Health Act 1981, punishable in accordance with section 75 of that Act.
+
+A regulatory impact assessment has been prepared and placed in the library of each House of Parliament. Copies can be obtained from Hester Tidcombe, Department for Environment, Food and Rural Affairs, 1A Page Street, London SW1P 4PQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Functions conferred under the 1981 Act on “the Ministers” (as defined in section 86 of that Act) were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 (S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and were then further transferred to the Secretary of State by the Minister of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^key-c93d15a260fec25c48daa0d4a6d47a15]: Textual amendment: Words in art. 2 omitted (12.5.2008) by virtue of [The Disease Control (England) (Amendment) Order 2008 (S.I. 2008/1066)](https://www.legislation.gov.uk/uksi/2008/1066), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1066/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/1066/article/2/2)
+
+[^key-fd411d863d7103caeb4cee8db497574b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2003/1729/article/2) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [3](https://www.legislation.gov.uk/uksi/2016/280/article/3)
+
+[^f00003]: Footnote: S.I. [1983/1950](https://www.legislation.gov.uk/uksi/1983/1950) as last amended by S.I. [2001/4029](https://www.legislation.gov.uk/uksi/2001/4029).
+
+[^f00004]: Footnote: [1981 c. 37](https://www.legislation.gov.uk/ukpga/1981/37).
+
+[^key-593c4da71526307b09737209990bf608]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2003/1729/article/3A) revoked (8.9.2007) by [The Disease Control (England) (Amendment) (No. 2) Order 2007 (S.I. 2007/2623)](https://www.legislation.gov.uk/uksi/2007/2623), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2623/article/1), [2](https://www.legislation.gov.uk/uksi/2007/2623/article/2)
+
+[^key-a84a0223065d00a2b5b730ab1e02fe94]: Textual amendment: Art. 9 revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(2)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/2)
+
+[^key-f667482711fb561ebcac584ffc940ac9]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2003/1729/article/12/2) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [4](https://www.legislation.gov.uk/uksi/2016/280/article/4)
+
+[^key-27b71ebeff278a68ef2ac2413b5af5e5]: Textual amendment: Art. 14(3) substituted (12.5.2008) by [The Disease Control (England) (Amendment) Order 2008 (S.I. 2008/1066)](https://www.legislation.gov.uk/uksi/2008/1066), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1066/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/1066/article/2/3)
+
+[^key-2180eea41bea8a922d46fe9473a79f24]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/uksi/2003/1729/article/15) omitted (6.4.2016) by virtue of [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [5](https://www.legislation.gov.uk/uksi/2016/280/article/5)
+
+[^key-02d7942d52a77a1c1f241490b499e548]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/uksi/2003/1729/article/15A) inserted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [6](https://www.legislation.gov.uk/uksi/2016/280/article/6)
+
+[^key-a2668f35307585644a1c09b8d23310e8]: Textual amendment: Art. 18 substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/2897/article/5/2)
+
+[^key-869fbb59b4aa16daac91022ef3d37f48]: Textual amendment: Words in art. 20(1) substituted (12.5.2008) by [The Disease Control (England) (Amendment) Order 2008 (S.I. 2008/1066)](https://www.legislation.gov.uk/uksi/2008/1066), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1066/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2008/1066/article/2/4)
+
+[^key-19e0e36349bd83fd8671f3083b60ba7e]: Textual amendment: [Art. 22(3)](https://www.legislation.gov.uk/uksi/2003/1729/article/22/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/2897/article/5/3)
+
+[^f00008]: Footnote: S.I. [2003/1279](https://www.legislation.gov.uk/uksi/2003/1279).
+
+[^key-a761b9350b48d6de3ee7e55aaa6e12f6]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/uksi/2003/1729/article/24) inserted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [7](https://www.legislation.gov.uk/uksi/2016/280/article/7)
+
+[^key-d9950322fba582a4f420d6abaed12ae1]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2003/1729/schedule/1/paragraph/7) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [34](https://www.legislation.gov.uk/uksi/2020/1462/regulation/34)
+
+[^f00010]: Footnote: [1965 c. 64](https://www.legislation.gov.uk/ukpga/1965/64).
+
+[^f00011]: Footnote: [1878 c. CCXIII (41 & 42 Vict.)](https://www.legislation.gov.uk/ukla/1878/213).
+
+[^f00012]: Footnote: [1880 c. CXXX (23 & 44 Vict.)](https://www.legislation.gov.uk/ukla/1880/130).
+
+[^f00013]: Footnote: [1977 c. CXV](https://www.legislation.gov.uk/ukla/1977/115).
+
+[^key-3958fb44cae2487f9f30f1c516fe89db]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/1/paragraph/10/1) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/280/article/8/b)
+
+[^M_F_307ba826-bda6-4562-c354-af7ac1fb9b26]: Textual amendment: Sch. 1 para. 12(2)(c) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(3)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/3)
+
+[^key-1aa8e63439caf4da22215b5ce8b4fa52]: Textual amendment: [Sch. 1 para. 12(2)(d)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/1/paragraph/12/2/d) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [8(c)](https://www.legislation.gov.uk/uksi/2016/280/article/8/c)
+
+[^key-99d536eee5b2c09e4c6c9f20782b9a06]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/1) heading substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/280/article/9/2)
+
+[^key-d5b52a53ba30def5cdce00b4a72bbb05]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/1) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/280/article/9/2)
+
+[^key-8d30fbfa679f5c027e04cd07e020c6c8]: Textual amendment: Words in Sch. 2 para. 3 heading substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/280/article/9/3)
+
+[^key-7a21d1866d7cd102b3b6f7e84b45535c]: Textual amendment: Words in Sch. 2 para. 3 substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/280/article/9/4)
+
+[^key-939452176bf941ab556d5bda735cc020]: Textual amendment: Words in Sch. 2 para. 4(1) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/a)
+
+[^key-d5006b99c2a3407f21c26ab7f35a7b31]: Textual amendment: Words in Sch. 2 para. 4(1)(e) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/b)
+
+[^key-f8a7c5a73ebe4745d00663b5effbed7b]: Textual amendment: Words in Sch. 2 para. 4(2) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/a)
+
+[^key-b7594c0d27509da7965f478b482cd093]: Textual amendment: Word in Sch. 2 para. 4(2)(b) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(c)(i)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/c/i)
+
+[^key-7a5d2736ecdb5b9e99540d7feb847121]: Textual amendment: Words in Sch. 2 para. 4(2)(b) omitted (6.4.2016) by virtue of [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/c/ii)
+
+[^key-f9df8bbb5fae7d6a45e45c998706114c]: Textual amendment: Sch. 2 para. 6(2)(c) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(4)(a)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/4/a)
+
+[^key-2fcd042c1a195dc3ad4c503836259833]: Textual amendment: Sch. 2 para. 7(2)(b) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(4)(a)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/4/a)
+
+[^key-939dd23dac4389261e8f46bcbb678122]: Textual amendment: Words in [Sch. 2 para. 7(2)(c)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/7/2/c) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/280/article/9/6)
+
+[^key-5497e0ef29cb1972238ef8212a0ec1b4]: Textual amendment: Sch. 2 para. 8(2)(a) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(4)(a)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/4/a)
+
+[^key-39f114183dc47d47bb2f7c11a053186d]: Textual amendment: Words in [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/8/2/b) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/280/article/9/6)
+
+[^f00016]: Footnote: S.I. [2003/1279](https://www.legislation.gov.uk/uksi/2003/1279).
+
+[^f00017]: Footnote: S.I. [2003/1723](https://www.legislation.gov.uk/uksi/2003/1723).

@@ -1,0 +1,273 @@
+---
+title: The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019
+id: uksi/2019/919
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-05-09'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/919
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/919/pdfs/uksiem_20190919_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/919/pdfs/uksi_20190919_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/919/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 919
+
+Exiting The European Union
+
+Broadcasting
+
+Electronic Communications
+
+The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019
+
+Made
+
+9th May 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23751911].
+
+In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-52b6529009b5961a3e88df1e245bba12]
+
+(1) These Regulations may be cited as the Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019.
+
+(2) They come into force on the later of exit day or the day after the day on which they are made.
+
+## PART 2 — Amendment of primary legislation
+
+### 2. Amendment of the Communications Act 2003[^key-7a501f181ff52831c78b5ca337b684e5]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Amendment of subordinate legislation
+
+### 3. Amendment of the Privacy and Electronic Communications (EC Directive) Regulations 2003[^key-8ccf26d244879f9ab84347372e8f1d33]
+
+(1) Regulation 37 of the Privacy and Electronic Communications (EC Directive) Regulations 2003 [^c23751931] is amended as follows.
+
+(2) In paragraph (1)(a), for the words from “implementation” to the end substitute “ implementing provisions ”.
+
+(3) After paragraph (1) insert—
+
+> (1A) “**The implementing provisions**” means the provisions contained in or made under an Act that were relied on by the United Kingdom immediately before exit day to implement the Directive, so far as those provisions remain in force.
+
+(4) Omit paragraph (2).
+
+(5) In paragraph (3)(a), for the words from “implementation” to the end substitute “ implementing provisions ”.
+
+## PART 4 — Amendments of retained direct EU legislation
+
+### 4. Amendment of Commission Regulation (EU) No 611/2013[^key-92fd43590cfb9e1e10fd27d24af69abd]
+
+(1) Commission Regulation (EU) No 611/2013 on the measures applicable to the notification of personal data breaches under Directive [2002/58/EC](https://www.legislation.gov.uk/eudr/2002/58) of the European Parliament and of the Council on privacy and electronic communications is amended as follows.
+
+(2) In Article 2—
+
+- (a) in the heading, for “competent national authority” substitute “ Information Commissioner ”;
+- (b) in paragraph 1, for “competent national authority” substitute “ Information Commissioner ”;
+- (c) in paragraph 2, for “competent national authority” (in both places) substitute “ Information Commissioner ”;
+- (d) in paragraph 3, for “competent national authority” (in each place it occurs) substitute “ Information Commissioner ”;
+- (e) in paragraph 4—
+  - (i) for “competent national authority” substitute “ Information Commissioner ”;
+  - (ii) for “Member State concerned” substitute “ United Kingdom ”;
+  - (iii) omit the final sentence;
+- (f) omit paragraph 5.
+
+(3) In Article 3—
+
+- (a) in paragraph 3, for “competent national authority” substitute “ Information Commissioner ”;
+- (b) in paragraph 5, for “competent national authority” (in both places) substitute “ Information Commissioner ”;
+- (c) in paragraph 7, for “, in the relevant Member States,” substitute “ in the United Kingdom ”.
+
+(4) In Article 4—
+
+- (a) in paragraph 1, for “competent national authority” substitute “ Information Commissioner ”;
+- (b) omit paragraph 3.
+
+(5) Omit Article 6.
+
+(6) Omit the sentence following Article 7.
+
+(7) In Annex 1—
+
+- (a) in the heading, for “competent national authority” substitute “ Information Commissioner ”;
+- (b) omit points 16 and 17 (and the italic heading before them).
+
+### 5. Amendment of Regulation (EU) 2015/2120[^key-3c49b9ccd7c9a58c43fc29a4b3e89a2f]
+
+(1) Regulation (EU) 2015/2120 of the European Parliament and of the Council laying down measures concerning open internet access and retail charges for regulated intra-EU communications and amending Directive [2002/22/EC](https://www.legislation.gov.uk/eudr/2002/22) and Regulation (EU) No 531/2012 is amended as follows.
+
+(2) Omit Article 1(3).
+
+(3) In Article 2, in the second paragraph, omit the definitions of “regulated intra-EU communications” and “number-based interpersonal communications service”.
+
+(4) Omit Article 5a.
+
+(5) Omit Article 10(5).
+
+## PART 5 — Revocations of retained direct EU legislation
+
+### 6. Regulation (EU) 2018/1971[^key-444e93d97210411ac88b9e595f0fbbe4]
+
+Regulation (EU) 2018/1971 of the European Parliament and of the Council establishing the Body of European Regulators for Electronic Communications (BEREC) and the Agency for Support for BEREC (BEREC Office), amending Regulation (EU) 2015/2120 and repealing Regulation [(EC) No 1211/2009](https://www.legislation.gov.uk/eur/2009/1211) is revoked.
+
+### 7. Retained direct EU legislation relating to the .eu top-level domain[^key-f5542aaf30bea8f8c3e6e3a0d0e13c24]
+
+The following instruments are revoked—
+
+- (a) Regulation [(EC) No 733/2002](https://www.legislation.gov.uk/eur/2002/733) of the European Parliament and of the Council on the implementation of the .eu Top Level Domain;
+- (b) Commission Regulation [(EC) No 874/2004](https://www.legislation.gov.uk/eur/2004/874) laying down public policy rules concerning the implementation and functions of the .eu Top Level Domain and the principles governing registration;
+- (c) Commission Regulation [(EC) No 1654/2005](https://www.legislation.gov.uk/eur/2005/1654) amending Regulation [(EC) No 874/2004](https://www.legislation.gov.uk/eur/2004/874);
+- (d) Commission Regulation [(EC) No 1255/2007](https://www.legislation.gov.uk/eur/2007/1255) amending Commission Regulation [(EC) No 874/2004](https://www.legislation.gov.uk/eur/2004/874);
+- (e) Commission Regulation [(EC) No 560/2009](https://www.legislation.gov.uk/eur/2009/560) amending Regulation [(EC) No 874/2004](https://www.legislation.gov.uk/eur/2004/874);
+- (f) Commission Implementing Decision 2014/207/EU on the designation of the .eu Top Level Domain Registry;
+- (g) Commission Regulation (EU) 2015/516 amending Regulation [(EC) No 874/2004](https://www.legislation.gov.uk/eur/2004/874).
+
+### 8.[^key-f8fd4e93aac9d0c6486f051dee9ae7b9]
+
+In the Annex to Regulation [(EC) No 1137/2008](https://www.legislation.gov.uk/eur/2008/1137) of the European Parliament and of the Council adapting a number of instruments subject to the procedure laid down in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/eudn/1999/468), with regard to the regulatory procedure with scrutiny, omit point 6.2.
+
+### 9. Commission Decision [2003/548/EC](https://www.legislation.gov.uk/eudn/2003/548)[^key-527a6303ffe14e315c63368a6777ca9c]
+
+The following instruments are revoked—
+
+- (a) Commission Decision [2003/548/EC](https://www.legislation.gov.uk/eudn/2003/548) on the minimum set of leased lines with harmonised characteristics and associated standards referred to in Article 18 of the Universal Service Directive;
+- (b) Commission Decision [2008/60/EC](https://www.legislation.gov.uk/eudn/2008/60) amending Decision [2003/548/EC](https://www.legislation.gov.uk/eudn/2003/548).
+
+### 10. Commission Decision [2007/176/EC](https://www.legislation.gov.uk/eudn/2007/176)[^key-30a8801e8e78540fe237cace3dd68be4]
+
+The following instruments are revoked—
+
+- (a) Commission Decision [2007/176/EC](https://www.legislation.gov.uk/eudn/2007/176) establishing a list of standards and/or specifications for electronic communications networks, services and associated facilities and services and replacing all previous versions;
+- (b) Commission Decision [2008/286/EC](https://www.legislation.gov.uk/eudn/2008/286) amending Decision [2007/176/EC](https://www.legislation.gov.uk/eudn/2007/176).
+
+### 11. Regulation [(EC) No 544/2009](https://www.legislation.gov.uk/eur/2009/544)[^key-93a6cf9ce5af1a5da4ea7a8ed92ceb48]
+
+Regulation [(EC) No 544/2009](https://www.legislation.gov.uk/eur/2009/544) of the European Parliament and of the Council amending Regulation [(EC) No 717/2007](https://www.legislation.gov.uk/eur/2007/717) on roaming on public mobile telephone networks within the Community and Directive [2002/21/EC](https://www.legislation.gov.uk/eudr/2002/21) on a common regulatory framework for electronic communications networks and services is revoked.
+
+### 12. Commission Decision [2005/752/EC](https://www.legislation.gov.uk/eudn/2005/752)[^key-49d41e988fdfddec2d314ffecac719dc]
+
+Commission Decision [2005/752/EC](https://www.legislation.gov.uk/eudn/2005/752) establishing an expert group on electronic commerce is revoked.
+
+### 13. Commission Decision on establishing the European Regulators Group for Audiovisual Media Services[^key-3f4228a5f8e6a9f41acd242af9ff86f9]
+
+Commission Decision on establishing the European Regulators Group for Audiovisual Media Services (notified under document number C(2014) 462) is revoked.
+
+### 14. Revocation of provisions of EEA agreement[^key-d7a15ad582775f8043e56e31b4057728]
+
+In Annex 11 to the EEA agreement, so far as it forms part of domestic law by virtue of section 3(1) of the European Union (Withdrawal) Act 2018, the following points are revoked insofar as they are retained EU law—
+
+- (a) 1a (referring to Commission Decision [2009/766/EC](https://www.legislation.gov.uk/eudn/2009/766));
+- (b) 5ce (referring to Regulation [(EC) No 2887/2000](https://www.legislation.gov.uk/eur/2000/2887));
+- (c) 5cf (referring to Decision No [676/2002/EC](https://www.legislation.gov.uk/eudn/19676/2002))
+- (d) 5ch (referring to Commission Decision [2002/622/EC](https://www.legislation.gov.uk/eudn/2002/622));
+- (e) 5cla (referring to Decision No 243/2012/EU);
+- (f) 5claa (referring to Commission Implementing Decision 2013/195/EU);
+- (g) 5cn (referring to Commission Decision [2003/548/EC](https://www.legislation.gov.uk/eudn/2003/548));
+- (h) 5cq (referring to Commission Decision [2004/545/EC](https://www.legislation.gov.uk/eudn/2004/545));
+- (i) 5cr (referring to Commission Decision [2005/50/EC](https://www.legislation.gov.uk/eudn/2005/50));
+- (j) 5cs (referring to Commission Decision [2005/513/EC](https://www.legislation.gov.uk/eudn/2005/513));
+- (k) 5cv (referring to Commission Decision [2007/98/EC](https://www.legislation.gov.uk/eudn/2007/98));
+- (l) 5cw (referring to Commission Decision [2007/131/EC](https://www.legislation.gov.uk/eudn/2007/131));
+- (m) 5cy (referring to Commission Decision [2007/176/EC](https://www.legislation.gov.uk/eudn/2007/176));
+- (n) 5cz (referring to Commission Decision [2006/771/EC](https://www.legislation.gov.uk/eudn/2006/771));
+- (o) 5czb (referring to Commission Decision [2007/344/EC](https://www.legislation.gov.uk/eudn/2007/344));
+- (p) 5czc (referring to Commission Decision [2008/294/EC](https://www.legislation.gov.uk/eudn/2008/294));
+- (q) 5czd (referring to Commission Decision [2008/411/EC](https://www.legislation.gov.uk/eudn/2008/411));
+- (r) 5cze (referring to Commission Decision [2008/477/EC](https://www.legislation.gov.uk/eudn/2008/477));
+- (s) 5czf (referring to Commission Decision [2008/671/EC](https://www.legislation.gov.uk/eudn/2008/671));
+- (t) 5czg (referring to Commission Decision 2010/166/EU);
+- (u) 5czh (referring to Commission Decision 2010/267/EU);
+- (v) 5czi (referring to Commission Implementing Decision 2012/688/EU);
+- (w) 5czj (referring to Commission Implementing Decision 2014/641/EU);
+- (x) 5czk (referring to Commission Implementing Decision (EU) 2015/750);
+- (y) 5czl (referring to Commission Implementing Decision (EU) 2016/339);
+- (z) 5czm (referring to Commission Implementing Decision (EU) 2016/687);
+- (aa) 5czo (referring to Decision (EU) 2017/899);
+- (bb) 5haa (referring to Commission Regulation (EU) No 611/2013);
+- (cc) 5n (referring to Commission Decision [2005/752/EC](https://www.legislation.gov.uk/eudn/2005/752));
+- (dd) 5oa (referring to Regulation [(EC) No 733/2002](https://www.legislation.gov.uk/eur/2002/733));
+- (ee) 5oaa (referring to Commission Implementing Decision 2014/207/EU);
+- (ff) 5oab (referring to Commission Regulation [(EC) No 874/2004](https://www.legislation.gov.uk/eur/2004/874));
+- (gg) 5ob (referring to Regulation (EU) 2015/2120);
+- (hh) 5r (referring to Commission Decision on establishing the European Regulators Group for Audiovisual Media Services).
+
+### 15.[^key-2591dc75f2b699b110c32133944805e3]
+
+In Annex 13 to the EEA agreement, so far as it forms part of domestic law by virtue of section 3(1) of the European Union (Withdrawal) Act 2018, the following points are revoked insofar as they are retained EU law—
+
+- (a) 17ke (referring to Commission Delegated Regulation (EU) No 305/2013);
+- (b) 17kf (referring to Decision No 585/2014/EU).
+
+Margot James
+
+Minister of State
+
+Department for Digital, Culture, Media and Sport
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a) to (c), (e), and (g)) arising from the withdrawal of the UK from the European Union.
+
+These Regulations make amendments to legislation in the field of electronic communications and, in particular, amend legislation relating to the notification of personal data breaches by providers of publicly available electronic communications services, and revoke certain retained direct EU legislation. Part 2 amends primary legislation, Part 3 amends subordinate legislation, Part 4 amends retained direct EU legislation, and Part 5 revokes retained direct EU legislation.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^c23751911]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-52b6529009b5961a3e88df1e245bba12]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-7a501f181ff52831c78b5ca337b684e5]: Textual amendment: Reg. 2 omitted (21.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/5)
+
+[^key-8ccf26d244879f9ab84347372e8f1d33]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^c23751931]: Marginal citation: [S.I. 2003/2426](https://www.legislation.gov.uk/uksi/2003/2426). Regulation 37 was inserted by [S.I. 2011/1208](https://www.legislation.gov.uk/uksi/2011/1208); there have been other amendments to the instrument which are not relevant to these Regulations.
+
+[^key-92fd43590cfb9e1e10fd27d24af69abd]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-3c49b9ccd7c9a58c43fc29a4b3e89a2f]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-444e93d97210411ac88b9e595f0fbbe4]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-f5542aaf30bea8f8c3e6e3a0d0e13c24]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-f8fd4e93aac9d0c6486f051dee9ae7b9]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-527a6303ffe14e315c63368a6777ca9c]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-30a8801e8e78540fe237cace3dd68be4]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-93a6cf9ce5af1a5da4ea7a8ed92ceb48]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-49d41e988fdfddec2d314ffecac719dc]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-3f4228a5f8e6a9f41acd242af9ff86f9]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-d7a15ad582775f8043e56e31b4057728]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-2591dc75f2b699b110c32133944805e3]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)

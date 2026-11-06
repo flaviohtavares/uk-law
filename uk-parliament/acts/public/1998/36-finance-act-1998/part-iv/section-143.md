@@ -1,0 +1,50 @@
+---
+title: Finance Act 1998, section 143
+act: Finance Act 1998
+section: '143'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1998/36/section/143
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1998, section 143
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 143. Removal of exemption for gifts for public benefit.
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 26 of the [^c16422421]Inheritance Tax Act 1984 (gifts for public benefit) shall not apply to any transfer of value made on or after 17th March 1998.
+
+(2) Accordingly, in that Act, in relation to any transfer of value made on or after 17th March 1998—
+
+- (a) in sections 23(5) and 29A(6) (gifts to charities and abatement of exemptions), for the words “25 or 26", in each place where they occur, there shall be substituted “ or 25 ”; and
+- (b) in section 29(5) (exemptions in loan cases), for “to 26", “25 or 26" and “25(2) and 26(7)" there shall be substituted, respectively, “ to 25 ”, “ or 25 ” and “ and 25(2) ”.
+
+(3) In relation to any property becoming the property of any person on or after 17th March 1998, in section 56(4) and (7) of that Act (exclusion of exemptions in relation to the acquisition of reversionary interests), for the words “to 26", in each place where they occur, there shall be substituted “ to 25 ”.
+
+(4) In section 76 of that Act (tax not charged on property becoming property held for charitable purposes etc.)—
+
+- (a) paragraph (d) of subsection (1) and subsection (2) shall cease to have effect, and the word “**or**” shall be inserted at the end of paragraph (b) of subsection (1);
+- (b) in subsection (3), for “to (d)" there shall be substituted “ to (c) ”; and
+- (c) in subsections (6) and (8), for the words “(c) or (d)", in each place where they occur, there shall be substituted “ or (c) ”.
+
+(5) Subsection (4) above has effect in relation to property which ceases to be relevant property, or to be property to which any of sections 70 to 74 of the [^c16422431]Inheritance Tax Act 1984 or paragraph 8 of Schedule 4 to that Act applies, on or after 17th March 1998.
+
+(6) In relation to any property becoming the property of a body on a transfer of value made on or after 17th March 1998, in section 161(2)(b) of that Act (related property), for “25 or 26" there shall be substituted “ or 25 ”.
+
+(7) In relation to any disposal on or after 17th March 1998, in section 258(2) of the [^c16422441]Taxation of Chargeable Gains Act 1992 (gains on disposal of works of art etc.), in paragraph (a), for “1984 Act" there shall be substituted “ Inheritance Tax Act 1984 (“the 1984 Act") ”.
+
+## Annotations
+
+[^c16422421]: Marginal citation: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
+
+[^c16422431]: Marginal citation: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
+
+[^c16422441]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).

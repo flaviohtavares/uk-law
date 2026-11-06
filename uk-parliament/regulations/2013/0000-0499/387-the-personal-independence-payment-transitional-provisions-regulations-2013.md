@@ -1,0 +1,814 @@
+---
+title: The Personal Independence Payment (Transitional Provisions) Regulations 2013
+id: uksi/2013/387
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-02-25'
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2013/387
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/387/pdfs/uksiem_20130387_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/387/pdfs/uksi_20130387_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/387/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Personal Independence Payment (Transitional Provisions) Regulations 2013
+
+> Text as at 2026-10-30.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2013 No. 387
+
+Social Security
+
+The Personal Independence Payment (Transitional Provisions) Regulations 2013
+
+Made
+
+25th February 2013
+
+Laid before Parliament
+
+4th March 2013
+
+Coming into force
+
+8th April 2013
+
+The Secretary of State, in exercise of the powers conferred by section 93 and 94 of, and Schedule 10 to, the Welfare Reform Act 2012 [^c2166376], makes the following regulations.
+
+These Regulations are made under the provisions of that Act and are made before the end of a period of 6 months beginning with the coming into force of those provisions of that Act [^c2166377].
+
+## 1. Citation, commencement and interpretation
+
+These Regulations may be cited as the Personal Independence Payment (Transitional Provisions) Regulations 2013 and come into force on 8th April 2013.
+
+## 2.
+
+(1) In these Regulations—
+
+- “**the Act**” means the Welfare Reform Act 2012;
+- “**the 1987 Regulations**” means the Social Security (Claims and Payments) Regulations 1987 [^c2166378];
+- “**the 1991 Regulations**” means the Social Security (Disability Living Allowance) Regulations 1991 [^c2166379];
+- “**the 1992 Act**” means the Social Security Contributions and Benefits Act 1992 [^c2166380];
+- “**the 1998 Act**” means the Social Security Act 1998 [^c2166381];
+- “**the 1999 Regulations**” means the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c2166382];
+- “**the Claims and Payments Regulations**” means the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 [^c2166383];
+- “**the PIP Regulations**” means the Social Security (Personal Independence Payment) Regulations 2013 [^c2166384];
+- “**the Decisions and Appeals Regulations**” means the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 [^c2166385];
+- “**appropriate office**” has the meaning given by regulation 2 (interpretation) of the Claims and Payments Regulations;
+- “**assessment determination**” means the determination, under regulation 4 (assessment of ability to carry out activities) of the PIP Regulations, of a claim for personal independence payment made by a transfer claimant;
+- “**change of circumstances**” means a change of circumstances which a person might reasonably have been expected to know might affect the continuance of that person's entitlement to disability living allowance (by ending entitlement to one component or both components or resulting in entitlement to one or both components being at a different rate);
+- “**component**”, in relation to disability living allowance, means one of the components of disability living allowance referred to in section 71 (disability living allowance) of the 1992 Act;
+- “**disability living allowance**” means the benefit known by that name that is provided for in sections 71 to 76 of the 1992 Act;
+- “**DLA entitled person**” means a person aged 16 or over who is entitled to either component or both components of disability living allowance;
+- “**electronic communication**” has the meaning given by subsection (1) of section 15 (general interpretation) of the Electronic Communications Act 2000 [^c2166386];
+- “exempt person” means a DLA entitled person in respect of whom, by virtue of regulation 8(2B) or 12A(3) of the 1991 Regulations (person under the age of 18 on the day of entry into hospital), a disability living allowance is payable even though they are maintained free of charge while undergoing medical or other treatment as an in-patient in a hospital or other similar institution;[^key-1f3723a6f967ffe08db4c0b030b7d012]
+- “**notified person**” means a DLA entitled person who has been sent a notification by the Secretary of State under regulation 3(1);
+- “**pay day**”, in relation to disability living allowance, means—
+  - (a) in the case of a payment of disability living allowance in respect of a period to which paragraph (2) of regulation 25 [^c2166387] of the 1987 Regulations applies, the day on which the payment is made in accordance with paragraph (1) of that regulation [^c2166388];
+  - (b) in the case of any other payment of disability living allowance, the day on which the allowance is payable in accordance with paragraph 1 of Schedule 6 [^c2166389] (days for payment of long term benefits) to the 1987 Regulations.
+- “relevant date” means the date, specified by the Secretary of State in relation to any category of DLA entitled person, from which the Secretary of State is satisfied that satisfactory arrangements will be in place to assess the entitlement of persons in that category to personal independence payment;[^key-4f0614a8add6323b16cfb3ed0332741d]
+- “**transfer claimant**” means a person who is either—
+  - (a) a notified person who has claimed personal independence payment in response to a notification sent by the Secretary of State under regulation 3(1), or
+  - (b) a voluntary transfer claimant;
+- “**voluntary transfer claimant**” means a DLA entitled person who has claimed personal independence payment under regulation 4.
+
+(2) For the purpose of these Regulations, except regulations 8, 12 and 16—
+
+- (a) a claim for personal independence payment is made—
+  - (i) in the case of a claim made in writing other than by means of an electronic communication, on the day on which a form, authorised by the Secretary of State for the purpose, containing all the information requested in the form is delivered to or received at the appropriate office,
+  - (ii) in the case of a claim made in writing by means of an electronic communication made in accordance with the provisions set out in Part 1 of Schedule 2 (use of electronic communications) to the Claims and Payments Regulations, on the day on which an electronic communication containing all the information requested by the Secretary of State in the form referred to in paragraph (i), or completing that information, is received at the appropriate office, and
+  - (iii) in the case of a claim made by telephone, on the day on which a telephone call takes place during which all the information requested by the Secretary of State in the form referred to in paragraph (i) is supplied or which results in all that information having been supplied; and
+- (b) references to the making of a claim do not include the making of a defective claim.
+
+(3) The Claims and Payments Regulations, the PIP Regulations and the Decisions and Appeals Regulations apply to the claims for personal independence payment referred to in these Regulations except where—
+
+- (a) these Regulations provide otherwise, or
+- (b) the application of those Regulations would be inconsistent with the application of these Regulations.
+
+(4)[^key-9d8d35fc424a5db5076b26d066e431fd] As soon as practicable after specifying a relevant date in relation to any category of DLA entitled person, the Secretary of State must publish, in such manner as the Secretary of State considers appropriate, information sufficient to enable any DLA entitled person to ascertain the relevant date, if any, which applies in their case.
+
+## 3. Invitations to persons entitled to disability living allowance to claim personal independence payment
+
+(1) At any time after 27th October 2013[^key-a0885a34379eb5a0fa376100676767a8], the Secretary of State may by written notification invite a DLA entitled person to make a claim for personal independence payment.
+
+(2) The Secretary of State must not send a notification under paragraph (1) to any person who, on 8th April 2013, was 65 or over.
+
+(3) Subject to paragraphs[^key-635bcfedac4e5b9d6bb5929b4e5dab9e] *(Extent: S)* *(affected by repeal, see note)*[^key-ef6dc65e89ae1cbc42cf07c87a18cf16] (3ZA), *(Extent: S)*[^key-2e5bde925a4fd015a66c8805af37f209] *(Extent: S)* *(affected by repeal, see note)*[^key-ef6dc65e89ae1cbc42cf07c87a18cf16] (3A), (4) and (4A)[^key-c92af8cdb0dc59ebc4788b062ec67a7a] *(Extent: S)* *(affected by repeal, see note)*[^key-ef6dc65e89ae1cbc42cf07c87a18cf16], *(Extent: S)* *(affected by repeal, see note)*[^key-ef6dc65e89ae1cbc42cf07c87a18cf16] the Secretary of State must send a notification under paragraph (1) to a DLA entitled person who reaches 16 after *(Extent: S)* *(affected by repeal, see note)*[^key-ef6dc65e89ae1cbc42cf07c87a18cf16] 27th October 2013[^key-05b3be6086c866f8c113ba75eb782001] *(Extent: S)* *(affected by repeal, see note)*[^key-ef6dc65e89ae1cbc42cf07c87a18cf16] as soon as reasonably practicable after the person reaches that age. *(Extent: S)* *(affected by repeal, see note)*[^key-ef6dc65e89ae1cbc42cf07c87a18cf16]
+
+*Extent: S*
+
+(3ZA)[^key-2a07f0a7651a3c86c21d3dcaa0e0df7f] The Scottish Ministers must not send a notification under paragraph (1) to a DLA entitled person who— *(affected by repeal, see note)*[^key-a68dd63b9dfe6d283c4312866b4bc723]
+
+- (a) reaches the age of 16 on or after 1 September 2020, and *(affected by repeal, see note)*[^key-a68dd63b9dfe6d283c4312866b4bc723]
+- (b) is resident in Scotland, *(affected by repeal, see note)*[^key-a68dd63b9dfe6d283c4312866b4bc723]
+
+until the person reaches the age of 18, after which the Scottish Ministers must send a notification under paragraph (1) to that person as soon as reasonably practicable. *(affected by repeal, see note)*[^key-a68dd63b9dfe6d283c4312866b4bc723]
+
+(3A)[^key-7f8732fe1e64a77610c3283cf40e1605] Paragraph (3) does not apply unless— *(Extent: S)* *(affected by repeal, see note)*[^key-64082a82ddf853d6e26cd8e7ffe1a6c4]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-64082a82ddf853d6e26cd8e7ffe1a6c4] the Secretary of State has specified a relevant date which applies in the case of the DLA entitled person, and *(Extent: S)* *(affected by repeal, see note)*[^key-64082a82ddf853d6e26cd8e7ffe1a6c4]
+- (b (Extent: S) (affected by repeal, see note))[^key-64082a82ddf853d6e26cd8e7ffe1a6c4] that person reaches 16 on or after that relevant date. *(Extent: S)* *(affected by repeal, see note)*[^key-64082a82ddf853d6e26cd8e7ffe1a6c4]
+
+(4) Paragraphs (3) and (3ZA) do[^key-e68da653930c38c5ca1181c874132fbb] *(Extent: S)* *(affected by repeal, see note)*[^key-77bc312f8619464bd1cf0d94171d7762] not apply to a DLA entitled person whose entitlement, on the day that the person reaches 16, is on the basis that the person is terminally ill within the meaning given by subsection (2) of section 66 (attendance allowance for the terminally ill) of the 1992 Act. *(Extent: S)* *(affected by repeal, see note)*[^key-77bc312f8619464bd1cf0d94171d7762]
+
+(4A)[^key-c5c9b5cbdc0ca08fa8a65d6b6c916c40] If the DLA entitled person referred to in *(Extent: S)* *(affected by repeal, see note)*[^key-0f62c3301de1ef19607310e250207ccd] paragraphs (3) or (3ZA)[^key-7cb2ae6157f95db5342c139804f84cf6] *(Extent: S)* *(affected by repeal, see note)*[^key-0f62c3301de1ef19607310e250207ccd] is an exempt person, the Secretary of State must not send the notification required by *(Extent: S)* *(affected by repeal, see note)*[^key-0f62c3301de1ef19607310e250207ccd] paragraph (3) *(Extent: S)* *(affected by repeal, see note)*[^key-7cb2ae6157f95db5342c139804f84cf6] *(Extent: S)* *(affected by repeal, see note)*[^key-0f62c3301de1ef19607310e250207ccd] paragraphs (3) or (3ZA) *(Extent: S)* *(Extent: S)* *(affected by repeal, see note)*[^key-0f62c3301de1ef19607310e250207ccd] until the DLA entitled person ceases to be an exempt person. *(Extent: S)* *(affected by repeal, see note)*[^key-0f62c3301de1ef19607310e250207ccd]
+
+(5) Subject to[^key-a9a895d5bb20bc6e0d6d0f34e96dd5e2] *(Extent: S)* *(affected by repeal, see note)*[^key-3bdbc19bcfeffcac9e442a8bdce8c260] paragraphs (5A) and (5B)[^key-f74111027b207a9cee31140e47977ff9] *(Extent: S)* *(affected by repeal, see note)*[^key-3bdbc19bcfeffcac9e442a8bdce8c260], *(Extent: S)* *(affected by repeal, see note)*[^key-3bdbc19bcfeffcac9e442a8bdce8c260] where, after *(Extent: S)* *(affected by repeal, see note)*[^key-3bdbc19bcfeffcac9e442a8bdce8c260] 27th October 2013[^key-600c791ec4e58d7191e5b998ab5b22f3] *(Extent: S)* *(affected by repeal, see note)*[^key-3bdbc19bcfeffcac9e442a8bdce8c260], a DLA entitled person who has neither— *(Extent: S)* *(affected by repeal, see note)*[^key-3bdbc19bcfeffcac9e442a8bdce8c260]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-3bdbc19bcfeffcac9e442a8bdce8c260] been sent a notification under paragraph (1), nor *(Extent: S)* *(affected by repeal, see note)*[^key-3bdbc19bcfeffcac9e442a8bdce8c260]
+- (b (Extent: S) (affected by repeal, see note))[^key-3bdbc19bcfeffcac9e442a8bdce8c260] made a claim for personal independence payment under regulation 4, *(Extent: S)* *(affected by repeal, see note)*[^key-3bdbc19bcfeffcac9e442a8bdce8c260]
+
+notifies the Secretary of State of a change of circumstances other than a change to which paragraph (6) applies, the Secretary of State must, as soon as reasonably practicable, send the person a notification under paragraph (1). *(Extent: S)* *(affected by repeal, see note)*[^key-3bdbc19bcfeffcac9e442a8bdce8c260]
+
+(5A)[^key-0d0cb547995d56931215988cd3b73e9b] Paragraph (5) does not apply unless— *(Extent: S)* *(affected by repeal, see note)*[^key-75358542fc63b3ba26a816bb0c5b8691]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-75358542fc63b3ba26a816bb0c5b8691] the Secretary of State has specified a relevant date which applies in the case of the DLA entitled person, and *(Extent: S)* *(affected by repeal, see note)*[^key-75358542fc63b3ba26a816bb0c5b8691]
+- (b (Extent: S) (affected by repeal, see note))[^key-75358542fc63b3ba26a816bb0c5b8691] that person notifies the Secretary of State of the change of circumstances on or after that relevant date. *(Extent: S)* *(affected by repeal, see note)*[^key-75358542fc63b3ba26a816bb0c5b8691]
+
+(5B)[^key-9b323a41c60bfa48d7f849e532c4604a] If the DLA entitled person referred to in paragraph (5) is an exempt person, the Secretary of State must not send the notification required by paragraph (5) until the DLA entitled person ceases to be an exempt person. *(Extent: S)* *(affected by repeal, see note)*[^key-a072527bd925a575ae3d3879a47defed]
+
+(6) This paragraph applies to a change of circumstances where the change notified is that the DLA entitled person is to become or has become absent, whether temporarily or permanently, from Great Britain. *(Extent: S)* *(affected by repeal, see note)*[^key-e2a1e44e7e82ea030d9151e05cfe705c]
+
+## 4. Claims by persons entitled to disability living allowance for personal independence payment other than by invitation[^key-88be76dbc97eeb9039ae67428e1c7439]
+
+A DLA entitled person who has not been sent a notification under regulation 3(1) may not make a claim for personal independence payment unless—
+
+- (a) they were aged under 65 on 8th April 2013,
+- (b) the Secretary of State has specified a relevant date which applies in their case, and
+- (c) they make the claim on or after that relevant date.
+
+## 4A. Claims by persons entitled to disability living allowance for personal independence payment upon becoming resident in Scotland[^key-b3ae0bb1d199d51e8cf42da47fd68ef5]
+
+*Extent: S*
+
+(1) Paragraphs (2) to (4) apply where a DLA entitled person who reaches the age of 16 on or after 1 September 2020—
+
+- (a) has been sent a notification under regulation 3(1) whilst resident in England or Wales, and
+- (b) becomes resident in Scotland before an assessment determination is made.
+
+(2) From the date on which the person becomes resident in Scotland—
+
+- (a) the notification sent under regulation 3(1) ceases to have effect,
+- (b) regulations 8 to 11 are of no effect in respect of that notification,
+- (c) regulations 3(3ZA) and 18A apply in respect of the person, and
+- (d) for the purposes of regulation 4, the person is treated as though they have not been sent a notification under regulation 3(1).
+
+(3) If the person described in paragraph (1) has made a claim for personal independence payment—
+
+- (a) for the avoidance of doubt, nothing in paragraph (2) affects the validity of a claim for personal independence payment that has been made in pursuance of the notification,
+- (b) the claim will continue towards an assessment determination, unless it is withdrawn under regulation 31 (withdrawal of claim) of the Claims and Payments Regulations.
+
+(4) If the person described in paragraph (1) has made a claim for personal independence payment in pursuance of the notification, and then withdraws their claim under regulation 31 (withdrawal of claim) of the Claims and Payments Regulations before an assessment determination is made, regulation 15 does not apply in respect of that withdrawal.
+
+## 5. Persons under 16 not entitled to claim personal independence payment
+
+(1) No claim for personal independence payment may be made by a person who has not reached 16.
+
+(2) Paragraph (1) applies whether or not a person is entitled to disability living allowance.
+
+## 6. Persons in the course of claiming disability living allowance not entitled to claim personal independence payment
+
+(1) This regulation applies to a person who is not entitled to disability living allowance if—
+
+- (a) the person claimed disability living allowance before 28th October 2013[^key-02cc5817aaee64f536b9f42d8761c174], and
+- (b) that claim remains under consideration on that date.
+
+(2) A person to whom this regulation applies may not claim personal independence payment while the person's claim for disability living allowance remains under consideration.
+
+(3) For the purpose of this regulation a person's claim for disability living allowance remains under consideration only if it has not—
+
+- (a) been decided by the Secretary of State under section 8 (decisions by the Secretary of State) of the Social Security Act 1998 [^c2166390],
+- (b) been withdrawn in accordance with paragraph (2) of regulation 5 (amendment and withdrawal of claim) of the 1987 Regulations, or
+- (c) otherwise ceased to be under consideration before being decided by the Secretary of State as mentioned in subparagraph (a).
+
+## 7. Form of notification inviting a person to claim personal independence payment
+
+A notification to a DLA entitled person under regulation 3(1) inviting the person to claim personal independence payment must—
+
+- (a) explain that the person's entitlement to disability living allowance will end if the person does not claim personal independence payment,
+- (b) state the date of the last day of the period within which the person should claim personal independence payment, that period being one of 28 days starting with the day that is the stated date of notification,
+- (c) tell the person how to claim personal independence payment,
+
+and may contain such additional guidance and information as the Secretary of State considers appropriate.
+
+## 8. Making a claim for personal independence payment following notification
+
+(1) In this regulation and regulation 9 “**the claim period**” means the period of 28 days referred to in regulation 7(b).
+
+(2) For the purposes of this regulation a claim, whether or not it is defective as mentioned in paragraph (3) or (4) of regulation 11 (making a claim for personal independence payment) of the Claims and Payments Regulations, must be made in accordance with and by a means set out in paragraph (1)(a), (b) or (c) of that regulation.
+
+(3) Such a claim is made—
+
+- (a) in the case of a claim made in writing, other than by means of an electronic communication, on a form authorised by the Secretary of State, on the day on which it is delivered to or received at the appropriate office,
+- (b) in the case of a claim in writing made by means of an electronic communication in accordance with the provisions set out in Part 2 of Schedule 2 to the Claims and Payments Regulations, on the day on which it is received at the appropriate office, and
+- (c) in the case of a claim made by telephone, on the day on which the telephone call takes place.
+
+(4) Neither paragraph (6) of regulation 11 of the Claims and Payments Regulations nor paragraph (2) of regulation 12 (date of claim for personal independence payment) of those Regulations shall apply in relation to a claim made by a notified person but—
+
+- (a) in a case where the claim is defective as mentioned in paragraph (3) or (4) of the said regulation 11, the Secretary of State must extend the claim period by a period of 28 days, or such longer period as the Secretary of State thinks fit, starting with the day following the last day of the claim period, and
+- (b) in any other case the Secretary of State may extend the claim period by such further period as the Secretary of State thinks fit.
+
+(5) The duty in paragraph (4)(a) and power in paragraph (4)(b) to extend the claim period may be exercised before the claim period would otherwise have expired or after it has expired.
+
+(6) The Secretary of State may further extend a claim period extended under paragraph (4) either before the extended period would have expired or after it has expired.
+
+(7) Where the claim period has been extended under paragraph (4), the Secretary of State must treat the claim as properly made if a claim is made—
+
+- (a) before the end of the period by which the claim period was extended or further extended, and
+- (b) in accordance with any instructions of the Secretary of State as to the way in which the claim is to be completed.
+
+## 9. Suspension of disability living allowance where no claim for personal independence payment made
+
+(1) Where a notified person makes no claim for personal independence payment before the end of the claim period or, where applicable, that period as extended under regulation 8(4) or (6), the person's entitlement to disability living allowance shall be suspended.
+
+(2) The suspension shall take effect on the first pay day after the last day of the claim period or, where applicable, of that period as extended or further extended.
+
+## 10. Further opportunity to claim personal independence payment
+
+(1) The Secretary of State must send any notified person in relation to whom regulation 9 takes effect a notice in writing informing the person—
+
+- (a) that the person's entitlement to disability living allowance will be or has been suspended,
+- (b) of the day on which the suspension takes or took effect, and
+- (c) that the person's entitlement to disability living allowance will be terminated unless the person makes a claim for personal independence payment before the end of the period of 28 days beginning with the day on which the suspension takes or took effect.
+
+(2) The Secretary of State must send a notice under paragraph (1) before, on or as soon as practicable after, the day on which the suspension takes effect in accordance with regulation 9(2).
+
+(3) Where a notice is sent to a notified person under paragraph (1), and the person makes a claim for personal independence payment before the end of the period specified in paragraph (1)(c), the person's entitlement to disability living allowance shall be reinstated as if the suspension of the entitlement had never taken effect.
+
+## 11. Termination of entitlement to disability living allowance following failure to claim personal independence payment
+
+(1) Where a notice is sent to a notified person under paragraph 10(1) and the person makes no claim for personal independence payment before the end of the period specified in regulation 10(1)(c), the person's entitlement to disability living allowance shall terminate with effect from the day on which the suspension of the person's entitlement took effect in accordance with regulation 9(2).
+
+(2) The Secretary of State must send any person in relation to whom paragraph (1) takes effect a notice in writing—
+
+- (a) informing the person that the person's entitlement to disability living allowance has terminated and of the date on which the termination took effect, and
+- (b) explaining that it is no longer possible for the person's entitlement to disability living allowance to be reinstated but that it remains open to the person to claim personal independence payment.
+
+## 12. Defective claims by voluntary transfer claimants
+
+(1) This regulation applies in relation to a claim for personal independence payment by a voluntary transfer claimant if—
+
+- (a) the claim was defective as mentioned in paragraphs (3) or (4) of regulation 11 of the Claims and Payments Regulations, and
+- (b) no claim completed in accordance with the instructions of the Secretary of State is received within the period of one month or longer which applies under paragraph (6) of that regulation.
+
+(2) Where this regulation applies—
+
+- (a) regulation 9(1) shall apply to the voluntary transfer claimant as if the claimant were a notified person who has failed to claim before the end of the claim period, and
+- (b) for the purpose of that regulation the claim period for the voluntary transfer claimant shall be treated as ending on the last day of the period of one month or longer referred to in paragraph (6) of regulation 11 of the Claims and Payments Regulations,
+
+and regulations 9(2), 10 and 11 shall apply as if the voluntary transfer claimant were a notified person.
+
+## 13. Failure to provide information etc.
+
+(1) Where, in relation to a claim for personal independence payment made by a transfer claimant—
+
+- (a) a negative determination is made in relation to both components under regulation 8 (information or evidence required for determining limited or severely limited ability to carry out activities) of the PIP Regulations or paragraph (2) of regulation 9 (claimant may be called for consultation to determine whether the claimant has limited or severely limited ability to carry out activities) of the PIP Regulations, or
+- (b) there is a determination by the Secretary of State that the transfer claimant has—
+  - (i) unreasonably failed to comply with a requirement imposed on the claimant by the Secretary of State under regulation 35 (attendance in person) of the Claims and Payments Regulations, or
+  - (ii) failed to comply with a requirement imposed on the claimant by the Secretary of State under regulation 37 (evidence and information in connection with a claim) of the Claims and Payments Regulations,
+
+the transfer claimant's entitlement to disability living allowance shall terminate with effect from the last day of the period of 14 days starting with the first pay day after the day on which the determination is made.
+
+(1A (Extent: E+W))[^key-e95968dc0161fb4aaaa079a018072b1b] Where it is accepted that the claimant had good reason for the failure giving rise to a determination under paragraph (1), whether or not at the same time as making an assessment determination, the determination under paragraph (1) is treated as not made and the transfer claimant’s entitlement to disability living allowance is reinstated as if the determination had never been made. *(Extent: E+W)*
+
+(2) Where— *(Extent: E+W)* *(affected by repeal, see note)*[^key-cb6b26221e3935f3c7e16f0a11017ad5]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^key-cb6b26221e3935f3c7e16f0a11017ad5] for any reason an assessment determination is made on a claim by a transfer claimant in respect of which there has been a determination referred to in paragraph (1)(a) or (b) (for example, because the determination is revised by the Secretary of State under section 9 of the 1998 Act *(Extent: E+W)* *(affected by repeal, see note)*[^key-cb6b26221e3935f3c7e16f0a11017ad5] [^c2166391] or there is a successful appeal in respect of the determination under section 12 of that Act *(Extent: E+W)* *(affected by repeal, see note)*[^key-cb6b26221e3935f3c7e16f0a11017ad5] [^c2166392]), and *(Extent: E+W)* *(affected by repeal, see note)*[^key-cb6b26221e3935f3c7e16f0a11017ad5]
+- (b (Extent: E+W) (affected by repeal, see note))[^key-cb6b26221e3935f3c7e16f0a11017ad5] personal independence payment is awarded to the transfer claimant, *(Extent: E+W)* *(affected by repeal, see note)*[^key-cb6b26221e3935f3c7e16f0a11017ad5]
+
+the transfer claimant shall be entitled to personal independence payment in accordance with regulation 17(2)(b). *(Extent: E+W)* *(affected by repeal, see note)*[^key-cb6b26221e3935f3c7e16f0a11017ad5]
+
+## 14. Express intention not to claim personal independence payment
+
+(1) This regulation applies where a DLA entitled person who has not made a claim for personal independence payment informs the Secretary of State, whether in writing or by telephone, that the person does not intend to claim personal independence payment.
+
+(2) Where this regulation applies the person's entitlement to disability living allowance shall terminate with effect from the last day of the period of 14 days starting with the first pay day after the day on which the Secretary of State decides that the person has informed the Secretary of State as mentioned in paragraph (1).
+
+(3) Paragraph (2) does not apply unless the Secretary of State is satisfied that the person was told, before the person informed the Secretary of State of the person's intention not to claim personal independence payment, that the person's entitlement to disability living allowance would terminate if the person expressed that intention.
+
+## 15. Withdrawal of claim for personal independence payment
+
+Where a claim for personal independence payment is withdrawn by a transfer claimant under regulation 31 (withdrawal of claim) of the Claims and Payments Regulations before an assessment determination is made in relation to it, the claimant's entitlement to disability living allowance shall terminate with effect from the last day of the period of 14 days starting with the first pay day after the day on which the Secretary of State decides that the transfer claimant has withdrawn the claim.
+
+## 16. Death before or after making claim for personal independence payment
+
+(1) Where a notified person dies before making a claim for personal independence payment the law relating to the person's entitlement to disability living allowance shall apply as if the notification had never been sent.
+
+(2) Where a transfer claimant dies—
+
+- (a) before any assessment determination is made in relation to the claim, or
+- (b) where an assessment determination is made in relation to the claim, before the day on which the claimant becomes entitled to personal independence payment in accordance with regulation 17(2),
+
+the claim shall be treated as if it had never been made and, if the transfer claimant is a notified person, as if no notification under regulation 3(1) had been sent.
+
+## 17. Procedure following and consequences of determination of claim for personal independence payment
+
+(1) Upon an assessment determination being made on a claim by a transfer claimant—
+
+- (a) the Secretary of State must, as soon as practicable, send the claimant written notification of the outcome of the determination, and
+- (b)[^key-3ea3616db7d44317c947659a16b85b82] except where paragraph (2) of regulation 13 applies to the claimant, *(Extent: E+W)* *(affected by repeal, see note)*[^key-739f4e42ac799b202d9b2ef055616dfb] the claimant’s entitlement to disability living allowance shall terminate—
+- (i) where paragraph (1B) applies, on the earlier of—
+- (aa) the last day of the payment period during which the assessment determination is made, or
+- (bb) the first Tuesday after the making of the assessment determination;
+- (ii) in any other case, on the last day of the period of 28 days starting with the first pay day after the making of the assessment determination.
+
+(1A)[^key-989a4c7850ef5db44792436b7851edb7] In paragraph (1), “payment period” means a period in respect of which disability living allowance is paid to the claimant in accordance with regulation 22 of the 1987 Regulations.
+
+(1B) This paragraph applies if—
+
+- (a) the transfer claimant is terminally ill for the purposes of section 82 of the Act,
+- (b) the outcome of an assessment determination in respect of that claimant is an award of personal independence payment, and
+- (c) the total weekly rate of personal independence payment payable by virtue of that award is greater than the total weekly rate of disability living allowance payable by virtue of that claimant’s existing award of disability living allowance.
+
+(2) Where the outcome of an assessment determination is an award in respect of either or both components of personal independence payment, the claimant's entitlement to personal independence payment starts with effect from the day immediately following—
+
+- (a)[^key-a7ffdb33720ea0e7e6ed0743669670f4] the day on which the claimant’s entitlement to disability living allowance terminates in accordance with paragraph (1)(b) of this regulation,
+- (b) where paragraph (2) of regulation 13 applies to the claimant, the day *(Extent: E+W)* *(affected by repeal, see note)*[^key-8edbb974a07c98a7f966b2663391b87c] [^key-d96ec1860ad3a86f0bbf08e4d441aafd]... on which the claimant's entitlement to disability living allowance terminated under regulation 13(1). *(Extent: E+W)* *(affected by repeal, see note)*[^key-8edbb974a07c98a7f966b2663391b87c]
+
+(3) The notification referred to in paragraph (1) must state—
+
+- (a) except where paragraph (2) of regulation 13 applies to the claimant, *(Extent: E+W)* *(affected by repeal, see note)*[^key-6975e60e2cc61d6d84a3f56496d58485] the day on which the claimant's entitlement to disability living allowance will terminate in accordance with paragraph (1)(b), and
+- (b) if personal independence payment is awarded, the day on which the claimant's entitlement to personal independence payment starts in accordance with paragraph (2).
+
+(4) This paragraph applies to a person—
+
+- (a) whose claim for disability living allowance was refused,
+- (b) who claimed personal independence payment after that refusal, and
+- (c) who, as a result of the determination of legal proceedings initiated under the 1998 Act in relation to that refusal, becomes entitled, after the assessment determination, to disability living allowance.
+
+(5) The entitlement of a person to whom paragraph (4) applies to disability living allowance shall terminate—
+
+- (a) where personal independence payment is awarded, on the day before that on which the person becomes entitled to personal independence payment, and
+- (b) where personal independence payment is not awarded, on the last day of the period of 28 days starting with the first pay day after the making of the assessment determination.
+
+## 18. Extension of certain fixed term period awards of disability living allowance for persons reaching 16
+
+(1) Subject to regulation 18A, where[^key-a004b48fe9a250e4c35b47dd0e74b8a2] there is an award of disability living allowance to a DLA entitled person and—
+
+- (a) the award is of—
+  - (i) both components and the award in respect of either or both is for a fixed term period, or
+  - (ii) one component only and for a fixed term period,
+- (b) the person reaches 16 after 27th October 2013[^key-1bd3db53bd046c4ea604235361a70803], and
+- (c) the fixed term period expires in the period starting with the day before the person reaches 16 and ending with the day before the person reaches 16 years and 6 months,
+
+the fixed term period shall be extended.
+
+(2) A fixed term period extended under paragraph (1) shall expire on the day before the person reaches 17 or, where these Regulations have the effect that the person's entitlement to disability living allowance terminates on an earlier day, on that day.
+
+## 18A. Extension of certain fixed term period awards of disability living allowance for persons resident in Scotland reaching 16[^key-fbe9fe3d03c2c4812e837709929b22d9]
+
+*Extent: S*
+
+(1) Where there is an award of disability living allowance to a DLA entitled person and—
+
+- (a) the award is of—
+  - (i) both components and the award in respect of either or both is for a fixed term period, or
+  - (ii) one component only and for a fixed term period,
+- (b) the person reaches the age of 16 on or after 1 September 2020,
+- (c) the fixed term period will expire in the period starting with the day before the person reaches the age of 16 and ending with the day before the person reaches the age of 18, and
+- (d) the person is resident in Scotland,
+
+the fixed term period shall be extended.
+
+(2) A fixed term period extended under paragraph (1) shall expire on the day before the person reaches 18 years and 6 months, or where these Regulations have the effect that the person’s entitlement to disability living allowance terminates on an earlier day, on that day.
+
+## 19. General power to extend fixed term period awards of disability living allowance
+
+(1) Where there is an award of disability living allowance to a DLA entitled person and—
+
+- (a) the award is of—
+  - (i) both components and the award in respect of either or both is for a fixed term period, or
+  - (ii) one component only and for a fixed term period, and
+- (b) the Secretary of State considers that the fixed term period may expire while the DLA entitled person is an exempt person to whom a notification cannot be sent by virtue of regulation 3(4A) or (5B), or[^key-11ad63ea1eac8bc3a902a1688357b1ce] before an assessment determination can be made,
+
+the Secretary of State may extend the period by such further period as the Secretary of State considers appropriate.
+
+(2) The Secretary of State may extend a fixed term period under paragraph (1)—
+
+- (a) regardless of whether the person has yet made a claim for personal independence payment,
+- (b) where the fixed term period has already been extended under regulation 18, and
+- (c) on more than one occasion.
+
+(3) A fixed term period extended under paragraph (1) shall expire—
+
+- (a) on the last day of the period by which the Secretary of State extended or last extended it, or
+- (b) where these Regulations have the effect that the person's entitlement to disability living allowance terminates on an earlier day, on that day.
+
+## 20. Notifications of change of circumstances
+
+(1) This regulation applies where—
+
+- (a) a person notifies the Secretary of State of a change of circumstances, and
+- (b) paragraph (3), (4) or (5) applies.
+
+(2) If this regulation applies—
+
+- (a) the notification shall not be regarded as relating to disability living allowance and accordingly neither section 10 [^c2166393] (decisions superseding earlier decisions) nor any other provision of the 1998 Act shall apply, and
+- (b) the notification to the Secretary of State must be treated in all respects as if it were a notification under paragraph (4) of regulation 38 (evidence and information in connection with an award) of the Claims and Payments regulations of a change of circumstances which the person might reasonably be expected to know might affect the continuance of entitlement to personal independence payment.
+
+(3) This paragraph applies where a notified person notifies the Secretary of State of a change of circumstances before the person makes a claim for personal independence payment.
+
+(4) This paragraph applies where a transfer claimant notifies the Secretary of State of a change of circumstances.
+
+(5) This paragraph applies where a DLA entitled person notifies the Secretary of State of a change of circumstances and, as a result, the Secretary of State is required by regulation 3(5) to send a notification under regulation 3(1) inviting the person to claim personal independence payment. *(Extent: S)* *(affected by repeal, see note)*[^key-111f6bcbbe7cd3626c4f145ce7a539f2]
+
+(6) Paragraphs (3) and (4) do not apply where the change of circumstances notified is that the notified person or the transfer claimant, as the case may be, is to become or has become absent, whether temporarily or permanently, from Great Britain.
+
+## 21. Extinguishment of rights of appeal etc. under disability living allowance regime
+
+No suspension of a person's entitlement to disability living allowance that takes place by virtue of the application of these Regulations is to be regarded as a decision of the Secretary of State to which section 8 (decisions by the Secretary of State) or 10 (decisions superseding earlier decisions) of the 1998 Act applies, and accordingly—
+
+- (a) no revision by the Secretary of State may take place in relation to the suspension under section 9 (revision of decisions) of that Act, and
+- (b) no right of appeal in respect of the suspension is to be available to the person under section 12 (appeal to appeal tribunal) of that Act.
+
+## 22. Extinguishment of right to claim disability living allowance
+
+(1) No person may claim disability living allowance who is—
+
+- (a) entitled to personal independence payment, or
+- (b) entitled to claim personal independence payment.
+
+(2) Paragraph (1) does not apply to a person whose award of disability living allowance is of—
+
+- (a) both components and the award in respect of either or both is for a fixed term period, or
+- (b) one component only and the award is for a fixed term period,
+
+if[^key-5e4512d4a86f7bb9b066c8dbfcf29131]... the person has been notified by the Secretary of State that, because the fixed term period is due to come to an end, the person needs to claim disability living allowance again, or to apply for a supersession of the award, if the person wishes to continue to be entitled to disability living allowance in respect of the component or components subject to the fixed term period.
+
+## 23. Assessment of claim: transfer claimants to be taken to meet part of required period condition
+
+(1) In applying the required period condition under Part 3 (required period condition) of the PIP Regulations to a claim by a transfer claimant or by a person to whom paragraph (2) or (3) applies, the claimant shall be regarded as meeting such of the conditions contained in the following provisions of Part 3 (which relate to a claimant's abilities in the past) as are relevant to the claim regardless of whether those conditions have been met—
+
+- (a) in regulation 12 (required period condition: daily living component), paragraph (1)(a) or (2)(a),
+- (b) in regulation 13 (required period condition: mobility component), paragraph (1)(a) or (2)(a).
+
+(2) This paragraph applies to a person claiming personal independence payment who—
+
+- (a) had not reached 65 on 8th April 2013,
+- (b) was not entitled to disability living allowance on the day the claim was made but was so entitled on the day falling twenty four months before that day or at any time between those days, and
+- (c) is not a person to whom paragraph (3) applies.
+
+(3) This paragraph applies to a person claiming personal independence payment who—
+
+- (a) was aged 65 or over on the day the claim was made, and
+- (b) was not entitled to disability living allowance on that day but was so entitled on the day falling twelve months before that day or at any time between those days.
+
+## 24. Assessment of claim: date by reference to which assessment is to be made
+
+In applying the required period condition under Part 3 of the PIP Regulations to a claim by a transfer claimant the “prescribed date” referred to in—
+
+- (a) paragraphs (1) and (2) of regulation 12 of those Regulations, and
+- (b) paragraphs (1) and (2) of regulation 13 of those Regulations,
+
+is the date on which the claim is made.
+
+## 25. Treatment of persons in hospital or care home during transfer to personal independence payment
+
+(1) This regulation applies to a transfer claimant awarded personal independence payment if, on the day on which the claimant's entitlement to disability living allowance terminates in accordance with regulation 13(1) or 17(1)(b), the claimant is a person who—
+
+- (a) fails to meet the condition in paragraph (1) of regulation 8 (hospitalisation) of the 1991 Regulations [^c2166394] but is nevertheless entitled to payment of the care component by reason of the application of regulation 10 (exemption from regulation 8 and 9) of the 1991 Regulations [^c2166395],
+- (b) fails to meet the condition in paragraph (1) of regulation 12A (hospitalisation in mobility component cases) of the 1991 Regulations but is nevertheless entitled to payment of the mobility component by reason of the application of regulation 12B of the 1991 Regulations (exemption from regulation 12A), or
+- (c) fails to meet both of the conditions referred to in subparagraphs (a) and (b) but is nevertheless entitled to payment of both components by reason of the application of regulations 10 and 12B of the 1991 Regulations,
+
+and, on the day on which the claimant's entitlement to personal independence payment starts in accordance with regulation 17(2), the claimant meets the condition in subsection (2) of section 86 (hospital in-patients) of the Act.
+
+(2) This regulation also applies to a transfer claimant awarded personal independence payment if—
+
+- (a) on the day on which the claimant's entitlement to disability living allowance terminates in accordance with regulation 13(1) or 17(1)(b), the claimant is a person—
+  - (i) to whom the care component of disability living allowance is not payable under paragraph (1) of regulation 9 (persons in care homes) of the 1991 Regulations [^c2166396], but
+  - (ii) who is nevertheless entitled to payment of that component by reason of the application of regulation 10 of the 1991 Regulations, and
+- (b) on the day on which the claimant's entitlement to personal independence payment starts in accordance with regulation 17(2), the claimant meets the condition in subsection (2) of section 85 (care home residents) of the Act.
+
+(3) Where this regulation applies to a transfer claimant—
+
+- (a) the day on which the claimant's entitlement to personal independence payment starts in accordance with regulation 17(2) shall be treated as being the first day of the period referred to in paragraph (1) of regulation 30 (payability exceptions: care homes and hospitals) of the PIP Regulations, and
+- (b) paragraph (2) of regulation 30 of the PIP Regulations shall not apply to the claimant in respect of either that day or any consecutive period of days starting with that day during which the claimant meets the condition in section 85(2) of the Act (care home residents: costs of qualifying services borne out of public or local funds) or section 86(2) of the Act (in-patient treatment: costs of treatment, accommodation and related services borne out of public funds).
+
+## 26. Temporary absence from Great Britain when transfer claimant becomes entitled to personal independence payment
+
+(1) This paragraph applies to a transfer claimant awarded personal independence payment if, on the day that the claimant's entitlement to disability living allowance terminates in accordance with regulation 13(1) or 17(1)(b), the claimant would otherwise be temporarily absent from Great Britain but is treated as present in Great Britain by virtue of—
+
+- (a) paragraph (2)(d) of regulation 2 (conditions as to residence and presence in Great Britain) of the 1991 Regulations [^c2166397], because the first 13 weeks of absence referred to in that regulation have not expired, or
+- (b) paragraph (3B) of regulation 2 of the 1991 Regulations [^c2166398], because the first 26 weeks of absence referred to in that regulation have not expired.
+
+(2) In applying regulation 17 (absence from Great Britain) of the PIP Regulations to a transfer claimant to whom paragraph (1)(a) applies, the period—
+
+- (a) starting with the first day on which the claimant was treated as present in Great Britain by virtue of regulation 2(2)(d) of the 1991 Regulations, and
+- (b) ending with the day on which the claimant's entitlement to disability living allowance terminates in accordance with regulation 13(1) or 17(1)(b)
+
+shall be counted towards the 13 weeks of absence referred to in regulation 17 of the PIP Regulations.
+
+(3) In applying regulation 18 (absence from Great Britain to receive medical treatment) of the PIP Regulations to a transfer claimant to whom paragraph (1)(b) applies the period—
+
+- (a) starting with the first day of absence for the purpose of regulation (3B) of the 1991 Regulations, and
+- (b) ending with the day on which the claimant's entitlement to disability living allowance terminates in accordance with regulation 13(1) or 17(1)(b)
+
+shall be counted towards the 26 weeks of absence referred to in regulation 18 of the PIP Regulations.
+
+## 27. Persons aged 65 and over to be entitled to personal independence payment in certain circumstances
+
+(1) Section 83(1) (persons of pensionable age) of the Act does not apply to a person to whom this regulation applies.
+
+(2) This regulation applies to a person who—
+
+- (a) had not reached 65 on 8th April 2013,
+- (b) is a DLA entitled person, and
+- (c) claims personal independence payment—
+  - (i) in response to a notification sent to the person by the Secretary of State under regulation 3(1), or
+  - (ii) under regulation 4.
+
+(3) This regulation also applies to a person who—
+
+- (a) had not reached 65 on 8th April 2013,
+- (b) claims personal independence payment, and
+- (c) is not entitled to disability living allowance on the day the claim is made but was so entitled on the day falling twelve months before that day or at any time between those days.
+
+## 27A. Revision and supersession of an award of personal independence payment in certain circumstances[^key-fcd2c1a1eaa4e6980a3a3e59e9e151e4]
+
+(1) Subject to paragraph (2), section 83(1) of the Act (persons of pensionable age) does not apply to a person who —
+
+- (a) met the conditions at paragraph (2) or (3) of regulation 27, and
+- (b) is entitled to an award of personal independence payment (“the original award”), and that award is revised or superseded within the meaning of section 9 or 10 of the 1998 Act respectively.
+
+(2) Where the original award includes the mobility component of personal independence payment and is superseded, paragraphs (2) and (3) of regulation 27 of the PIP Regulations apply in relation to the supersession.
+
+(3) In this regulation, the references to an original award are to be read as including a concessionary payment made in lieu of personal independence payment under arrangements by the Secretary of State with the consent of the Treasury.
+
+## 28. Persons unable to act: claims for personal independence payment
+
+(1) This regulation applies where, immediately before any claim for personal independence payment is made by or on behalf of a person entitled to disability living allowance, there is a person (“**the appointed person**”)—
+
+- (a) appointed by the Secretary of State in accordance with paragraph (1) of regulation 33 (persons unable to act) of the 1987 Regulations [^c2166399], or
+- (b) treated, by virtue of paragraph (1A) of the said regulation 33 [^c2166400], as being a person appointed by the Secretary of State in accordance with paragraph (1) of that regulation,
+
+to exercise rights on behalf of the person entitled to disability living allowance and receive and deal with any sums payable to that person.
+
+(2) Where this regulation applies the appointed person shall be regarded as acting on behalf of the person entitled to disability living allowance for the purposes of the making and pursuit of a claim for personal independence payment under these Regulations and, where applicable, the Claims and Payments Regulations.
+
+## 29. Persons unable to act: transfer to personal independence payment
+
+(1) This regulation applies if a transfer claimant is awarded personal independence payment and, on the day that the person's entitlement to disability living allowance terminates in accordance with regulation 13(1) or 17(1)(b), there is a person (“**the appointed person**”) who, under paragraph (2) of regulation 28, is to be regarded as acting on behalf of the claimant for the purposes set out in that paragraph.
+
+(2) Where this regulation applies then, with effect from the first day on which the transfer claimant is entitled to personal independence payment in accordance with regulation 17(2), the appointed person shall be treated as being a person appointed by the Secretary of State in accordance with regulation 57(1) (persons unable to act) of the Claims and Payments Regulations to exercise rights on behalf of the transfer claimant and receive and deal with any sums payable to the transfer claimant.
+
+## 30. Application of these Regulations to certain persons becoming entitled to disability living allowance while claiming personal independence payment
+
+(1) If paragraph (2) applies to a person then, with effect from the date of the determination referred to in subparagraph (c) of paragraph (2), the regulations referred to in paragraphs (3), (4), (5) and (6) shall apply in relation to that person in accordance with the provisions of those paragraphs.
+
+(2) This paragraph applies to a person—
+
+- (a) whose claim for disability living allowance was refused,
+- (b) who claimed personal independence payment after that refusal, and
+- (c) who, as a result of the determination of legal proceedings initiated under the 1998 Act in relation to that refusal, becomes entitled, before the assessment determination, to disability living allowance.
+
+(3) Regulations 13, 15, 16(2), 17(1) to (3), 20(1), (2), (4) and (6) (so far as it applies to paragraph (4) of regulation 20), 23(1) (in its application to transfer claimants), 24, 25, and 26 shall apply to the person as if the person were a transfer claimant.
+
+(4) Regulations 18 and 19 shall apply to the person as if the person were a DLA entitled person.
+
+(5) Where a person to whom paragraph (2) applies also satisfies the condition in regulation 27(2)(a), regulation 27 shall be treated as applying to the person as if the person satisfied all the conditions in regulation 27(2).
+
+(6) Regulation 29 shall apply to the person as if the person were a transfer claimant if, on the day that the person's entitlement to disability living allowance terminates in accordance with regulation 13(1) or 17(1)(b), there is a person (“**the appointed person**”)—
+
+- (a) appointed by the Secretary of State in accordance with paragraph (1) of regulation 33 of the 1987 Regulations, or
+- (b) treated by virtue of paragraph (1A) of the said regulation 33 as being a person appointed by the Secretary of State in accordance with paragraph (1) of that regulation,
+
+to exercise rights on behalf of the person entitled to disability living allowance and receive and deal with any sums payable to that person.
+
+## 31. Disabled people: badges for motor vehicles
+
+(1) In this regulation, “**the 2000 Regulations**” means the Disabled Persons (Badges for Motor Vehicles) (England) Regulations 2000.
+
+(2) Where a person satisfies paragraph (3)—
+
+- (a) the person shall be treated as being a disabled person for the purpose of regulation 7 of the 2000 Regulations, and
+- (b) regulation 9(1)(c) of the 2000 Regulations shall not apply to the person,
+
+until the expiration of the period for which the disabled person's badge referred to in paragraph (3)(b)(i) was issued.
+
+(3) A person satisfies this paragraph if—
+
+- (a) the entitlement of the person to disability living allowance terminates in accordance with these Regulations,
+- (b) on the last day on which the person is entitled to disability living allowance the person—
+  - (i) is a holder of a disabled person's badge in accordance with the 2000 Regulations, and
+  - (ii) is a disabled person for the purposes of the 2000 Regulations by virtue of satisfying regulation 4(1)(a) and (2)(a) of the 2000 Regulations,
+- (c) with effect from the following day the person is no longer a disabled person for the purposes of the 2000 Regulations because the person does not satisfy regulation 4(1)(a) and (2)(g) [^c2166401] of the 2000 Regulations, and
+- (d) the period for which the badge mentioned above in sub-paragraph (b) was issued has not yet expired.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Esther McVey
+
+Parliamentary Under Secretary of State
+
+Department for Work and Pensions
+
+*(This note is not part of the Order)*
+
+These Regulations contain transitional provisions for the phasing out of the benefit known as disability living allowance (“DLA”) and its replacement by the new benefit provided for in the Welfare Reform Act 2012 known as personal independence payment (“PIP”). In particular they provide for the Secretary of State to invite people entitled to DLA (“a DLA entitled person”) to transfer to PIP and for them to lose their entitlement to DLA if they do not do so. The Regulations also enable people entitled to DLA to transfer to PIP voluntarily.
+
+Regulation 3 has the effect that, as from 7th October 2013, the Secretary of State may send a notification inviting any DLA entitled person aged 16 or more to claim PIP unless they were 65 or more on 8th April 2013. As from the same date, Regulation 4 enables any DLA entitled person within that age range who has not had an invitation from the Secretary of State to apply for PIP voluntarily.
+
+Regulation 5 ensures that DLA entitled persons are not entitled to claim PIP when they are under 16, while regulation 6 prevents people from claiming PIP while they are in the process of claiming DLA.
+
+Regulation 7 sets out what information a notification given under regulation 3 must to contain.
+
+Regulation 8 provides that a DLA entitled person notified under regulation 3 should claim PIP within 28 days but provides that the Secretary of State must extend that period if the claim is defective and may do so in other cases. Regulation 9 provides that if no claim is made within the 28 days or the extended period the Secretary of State has allowed, the person's entitlement to DLA is suspended as from the first “pay day” for DLA purposes (“DLA pay day”) that falls after the end of the 28 day period or of that period as extended.
+
+Regulation 10 provides that the Secretary of State must send a notice to a person whose entitlement to DLA has been suspended telling the person that the person's entitlement to DLA will terminate unless the person claims PIP within 28 days of the day when the suspension took effect. If the person claims PIP within that period, the person's entitlement to DLA is reinstated as if it had not been suspended. Regulation 11 provides that if no claim is made the person's entitlement to DLA terminates with effect from the day on which the suspension of that entitlement took effect under regulation 9.
+
+Regulation 12 applies the provisions of regulations 9, 10 and 11 to persons who voluntarily make a claim for PIP but whose claim is defective and who do not make a proper claim within the period allowed under regulation 9.
+
+Regulation 13 has the effect that where a DLA entitled person claiming PIP is required to provide information or attend a meeting about the person's claim, and the Secretary of State determines that the person has failed to do so, the person's entitlement to DLA ends 14 days after the first DLA pay day falling after the date of the determination. Taken with regulation 17, it also has the effect that if the Secretary of State's determination is reversed as a result of legal proceedings, and PIP is awarded, entitlement to PIP starts on the first day after entitlement to DLA terminated under the regulation.
+
+Regulation 14 has the effect that if a DLA entitled person who has not claimed PIP informs the Secretary of State that the person does not intend to claim it, the person's entitlement to DLA ends, provided that the person has been told, before the intention was expressed, that the person's entitlement to DLA would end if it was expressed, 14 days after the first DLA pay day falling after the date on which the Secretary of State decides that the person has expressed the intention.
+
+Regulation 15 has the effect that where a DLA entitled person withdraws a claim for PIP the person's entitlement to DLA ends 14 days after the first DLA pay day falling after the withdrawal.
+
+Regulation 16 deals with cases where a DLA entitled person dies after receiving a notification under regulation 3 but before claiming PIP or after claiming PIP but before becoming entitled to PIP.
+
+Regulation 17 provides that when an assessment determination is made on a claim by a DLA entitled person, the person must be informed of the outcome. Whether the person is awarded PIP or not, the person's entitlement to DLA normally ends on the last day of the 28 day period starting with the person's first DLA pay day that falls after the assessment determination. If the person is awarded PIP the person's entitlement to PIP starts on the day immediately after that on which entitlement to DLA ends.
+
+Regulation 18 has the effect that where a person entitled to DLA, or a component of DLA, for a fixed term period reaches 16 and the fixed term expires before the person reaches 16 years and 6 months the fixed term is automatically extended until the day before the person reaches 17 unless the person's entitlement terminates earlier because of the operation of other provisions in the Regulations; for example, where an assessment determination is made on the person's claim.
+
+Regulation 19 gives the Secretary of State a general power to extend the fixed term period that apply to a person's entitlement to DLA, or a component of DLA, by such period as the Secretary of State thinks fit where the fixed term may expire before an assessment determination can be made. The fixed term period and entitlement to DLA expire at the end of the period by which the fixed term has been extended unless entitlement terminates earlier because of the operation of other provisions in the Regulations.
+
+Regulation 20 provides that where a DLA entitled person who has received an invitation to claim PIP under regulation 3, or is in the course of claiming PIP under regulation 4, notifies the Secretary of State of a change in circumstances that may affect the person's entitlement to DLA the notification is to be treated as if was a notification in relation to PIP and not DLA.
+
+Regulation 21 prevents any legal proceedings being brought under the Social Security Act 1998 to challenge a suspension of DLA that takes place because of the operation of the Regulations.
+
+Regulation 22 has the effect that, except in narrowly defined circumstances, a person is barred from claiming DLA if the person is entitled to claim PIP or is entitled to PIP.
+
+Regulation 23 provides that DLA entitled persons claiming PIP do not have to meet that part of the required period condition that normally requires claimants to meet the assessment criteria for the three month period before the date by reference to which the assessment is carried out.
+
+Regulation 24 provides that for DLA entitled persons claiming PIP the date by reference to which the assessment on the claim is to be carried out is the date on which the person claimed PIP.
+
+Regulation 25 makes provision for the case where a DLA entitled person is in a care home or in hospital, but to whom DLA is nevertheless payable, becomes entitled to PIP.
+
+Regulation 26 makes provision for the case where a DLA entitled person is absent from Great Britain, but is nevertheless entitled to DLA, becomes entitled to PIP.
+
+Regulation 27 allows persons to become entitled to PIP when they are over 65 if they are under that age on 8th April 2013.
+
+Regulations 28 and 29 apply where there is a person appointed to exercise rights on behalf of a DLA entitled person and receive and deal with DLA payments. The regulations ensure that the appointed person is entitled to claim PIP on behalf of the DLA entitled person and, if PIP is awarded, that the appointed person is treated as an appointed person for PIP purposes.
+
+Regulation 30 applies the Regulations, with appropriate modifications, to persons who have their claim for DLA refused, claim PIP and then, as a result of legal proceedings that overturn the refusal, become entitled to DLA before their entitlement to PIP is assessed.
+
+Regulation 31 ensures that persons who have disabled person's badges but, as a result of losing their entitlement to DLA, lose their entitlement to the badges are nevertheless entitled to keep and use their badges until the normal expiration of the period for which they were issued.
+
+A full impact assessment has not been produced for this instrument as it has no impact on the private sector or civil society organisations.
+
+## Annotations
+
+[^c2166376]: Marginal citation: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^c2166377]: Marginal citation: See section 173(5)(a) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5) (‘the 1992 Act’). The requirement to refer regulations to the Social Security Advisory Committee does not apply where regulations are contained in a statutory instrument made before the end of the period of six months beginning with the coming into force of the enactment under which the regulations were made. Schedule 9, paragraph 26(a) to the [Welfare Reform Act 2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5) (‘the Act’) inserted a reference to Part 4 of that Act into section 170(5) of the 1992 Act which has the effect of making that Part of the Act a ‘relevant enactment’ and therefore subject to the requirement to refer regulations to the Social Security Advisory Committee unless an exemption in section 173 applies.
+
+[^c2166378]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). These Regulations were revoked, in so far as they relate to child benefit and guardian's allowance, by the [Child Benefit and Guardian's Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regulation 43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Schedule 3](https://www.legislation.gov.uk/uksi/2003/492/schedule/3) and Part 1.
+
+[^c2166379]: Marginal citation: [S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890).
+
+[^c2166380]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^c2166381]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^c2166382]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
+
+[^c2166383]: Marginal citation: [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380).
+
+[^c2166384]: Marginal citation: [S.I. 2013/377](https://www.legislation.gov.uk/uksi/2013/377).
+
+[^c2166385]: Marginal citation: [S.I. 2013/381](https://www.legislation.gov.uk/uksi/2013/381).
+
+[^c2166386]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” was amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [Schedule 17](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17), [paragraph 158](https://www.legislation.gov.uk/ukpga/2003/21/paragraph/158).
+
+[^key-1f3723a6f967ffe08db4c0b030b7d012]: Textual amendment: Words in reg. 2(1) inserted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/4/2)
+
+[^c2166387]: Marginal citation: Paragraph (2) was amended by the [Social Security (Claims and Payments) Regulations 1991 (S.I. 1991/2741)](https://www.legislation.gov.uk/uksi/1991/2741), [regulation 13(b) to (f)](https://www.legislation.gov.uk/uksi/1991/2741/regulation/13/b).
+
+[^c2166388]: Marginal citation: Paragraph (1) was amended by the Social Security (Claims and Payments) Regulations 1991, regulation 13(a) and by the [Social Security (Disability Living Allowance and Claims and Payments) Amendment Regulations 1996 (S.I. 1996/1436)](https://www.legislation.gov.uk/uksi/1996/1436), [regulation 3](https://www.legislation.gov.uk/uksi/1996/1436/regulation/3).
+
+[^c2166389]: Marginal citation: Paragraph 1 was substituted by the Social Security (Claims and Payments) Regulations 1991, regulation 27.
+
+[^key-4f0614a8add6323b16cfb3ed0332741d]: Textual amendment: Words in reg. 2(1) inserted (25.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2689)](https://www.legislation.gov.uk/uksi/2013/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/2/2/a)
+
+[^key-9d8d35fc424a5db5076b26d066e431fd]: Textual amendment: Reg. 2(4) added (25.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2689)](https://www.legislation.gov.uk/uksi/2013/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/2/2/b)
+
+[^key-a0885a34379eb5a0fa376100676767a8]: Textual amendment: Words in reg. 3(1) substituted (6.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2013 (S.I. 2013/2231)](https://www.legislation.gov.uk/uksi/2013/2231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/2/2)
+
+[^key-635bcfedac4e5b9d6bb5929b4e5dab9e]: Textual amendment: Words in reg. 3(3) inserted (25.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2689)](https://www.legislation.gov.uk/uksi/2013/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/2/3/a)
+
+[^key-ef6dc65e89ae1cbc42cf07c87a18cf16]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2013/387/regulation/3/3) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(2)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/2)
+
+[^key-2e5bde925a4fd015a66c8805af37f209]: Textual amendment: Word in reg. 3(3) inserted (S.) (1.9.2020) by [The Personal Independence Payment (Transitional Provisions) Amendment (Scotland) Regulations 2020 (S.S.I. 2020/218)](https://www.legislation.gov.uk/ssi/2020/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/218/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/218/regulation/2/2/a)
+
+[^key-c92af8cdb0dc59ebc4788b062ec67a7a]: Textual amendment: Words in reg. 3(3) substituted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2016/556/regulation/4/3/a)
+
+[^key-05b3be6086c866f8c113ba75eb782001]: Textual amendment: Words in reg. 3(3) substituted (6.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2013 (S.I. 2013/2231)](https://www.legislation.gov.uk/uksi/2013/2231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/2/2)
+
+[^key-2a07f0a7651a3c86c21d3dcaa0e0df7f]: Textual amendment: Reg. 3(3ZA) inserted (S.) (1.9.2020) by [The Personal Independence Payment (Transitional Provisions) Amendment (Scotland) Regulations 2020 (S.S.I. 2020/218)](https://www.legislation.gov.uk/ssi/2020/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/218/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/218/regulation/2/2/b)
+
+[^key-a68dd63b9dfe6d283c4312866b4bc723]: Textual amendment: [Reg. 3(3ZA)](https://www.legislation.gov.uk/uksi/2013/387/regulation/3/3ZA) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(2)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/2)
+
+[^key-7f8732fe1e64a77610c3283cf40e1605]: Textual amendment: Reg. 3(3A) inserted (25.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2689)](https://www.legislation.gov.uk/uksi/2013/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/2/3/b)
+
+[^key-64082a82ddf853d6e26cd8e7ffe1a6c4]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2013/387/regulation/3/3A) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(2)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/2)
+
+[^key-e68da653930c38c5ca1181c874132fbb]: Textual amendment: Words in reg. 3(4) substituted (S.) (1.9.2020) by [The Personal Independence Payment (Transitional Provisions) Amendment (Scotland) Regulations 2020 (S.S.I. 2020/218)](https://www.legislation.gov.uk/ssi/2020/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/218/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2020/218/regulation/2/2/c)
+
+[^key-77bc312f8619464bd1cf0d94171d7762]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/387/regulation/3/4) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(2)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/2)
+
+[^key-c5c9b5cbdc0ca08fa8a65d6b6c916c40]: Textual amendment: Reg. 3(4A) inserted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2016/556/regulation/4/3/b)
+
+[^key-0f62c3301de1ef19607310e250207ccd]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2013/387/regulation/3/4A) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(2)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/2)
+
+[^key-7cb2ae6157f95db5342c139804f84cf6]: Textual amendment: Words in reg. 3(4A) substituted (S.) (1.9.2020) by [The Personal Independence Payment (Transitional Provisions) Amendment (Scotland) Regulations 2020 (S.S.I. 2020/218)](https://www.legislation.gov.uk/ssi/2020/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/218/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2020/218/regulation/2/2/d)
+
+[^key-a9a895d5bb20bc6e0d6d0f34e96dd5e2]: Textual amendment: Words in reg. 3(5) inserted (25.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2689)](https://www.legislation.gov.uk/uksi/2013/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/2/3/c)
+
+[^key-3bdbc19bcfeffcac9e442a8bdce8c260]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2013/387/regulation/3/5) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(2)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/2)
+
+[^key-f74111027b207a9cee31140e47977ff9]: Textual amendment: Words in reg. 3(5) substituted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2016/556/regulation/4/3/c)
+
+[^key-600c791ec4e58d7191e5b998ab5b22f3]: Textual amendment: Words in reg. 3(5) substituted (6.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2013 (S.I. 2013/2231)](https://www.legislation.gov.uk/uksi/2013/2231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/2/2)
+
+[^key-0d0cb547995d56931215988cd3b73e9b]: Textual amendment: Reg. 3(5A) inserted (25.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2689)](https://www.legislation.gov.uk/uksi/2013/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/2/3/d)
+
+[^key-75358542fc63b3ba26a816bb0c5b8691]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2013/387/regulation/3/5A) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(2)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/2)
+
+[^key-9b323a41c60bfa48d7f849e532c4604a]: Textual amendment: Reg. 3(5B) inserted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [4(3)(d)](https://www.legislation.gov.uk/uksi/2016/556/regulation/4/3/d)
+
+[^key-a072527bd925a575ae3d3879a47defed]: Textual amendment: [Reg. 3(5B)](https://www.legislation.gov.uk/uksi/2013/387/regulation/3/5B) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(2)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/2)
+
+[^key-e2a1e44e7e82ea030d9151e05cfe705c]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2013/387/regulation/3/6) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(2)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/2)
+
+[^key-88be76dbc97eeb9039ae67428e1c7439]: Textual amendment: Reg. 4 substituted (25.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2689)](https://www.legislation.gov.uk/uksi/2013/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/2/4)
+
+[^key-b3ae0bb1d199d51e8cf42da47fd68ef5]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2013/387/regulation/4A) inserted (S.) (1.9.2020) by [The Personal Independence Payment (Transitional Provisions) Amendment (Scotland) Regulations 2020 (S.S.I. 2020/218)](https://www.legislation.gov.uk/ssi/2020/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/218/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/218/regulation/2/3)
+
+[^key-02cc5817aaee64f536b9f42d8761c174]: Textual amendment: Words in reg. 6(1)(a) substituted (6.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2013 (S.I. 2013/2231)](https://www.legislation.gov.uk/uksi/2013/2231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/2/4)
+
+[^c2166390]: Marginal citation: Section 8 was amended by the Welfare Reform Act 2012, Schedule 9, paragraphs 37 and 39. There are other amendments to section 8 not relevant to these Regulations.
+
+[^key-e95968dc0161fb4aaaa079a018072b1b]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/uksi/2013/387/regulation/13/1A) inserted (E.W.) (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/10/2/a)
+
+[^key-cb6b26221e3935f3c7e16f0a11017ad5]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/uksi/2013/387/regulation/13/2) omitted (E.W.) (30.10.2026) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/10/2/b)
+
+[^c2166391]: Marginal citation: There is an amendment to section 9 not relevant to these Regulations.
+
+[^c2166392]: Marginal citation: Section 12 was amended by the [Social Security Contributions (Transfer of Functions, etc) Act 1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), [Schedule 7](https://www.legislation.gov.uk/ukpga/1999/2/schedule/7), [paragraph 25](https://www.legislation.gov.uk/ukpga/1999/2/paragraph/25), the Welfare Reform Act 2012 , section 102(1) to (4) and the [Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [Schedule 3](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3), [paragraph 149](https://www.legislation.gov.uk/uksi/2008/2833/paragraph/149). There are other amendments to section 12 not relevant to these Regulations.
+
+[^key-3ea3616db7d44317c947659a16b85b82]: Textual amendment: Reg. 17(1)(b) substituted (4.4.2016) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2016 (S.I. 2016/189)](https://www.legislation.gov.uk/uksi/2016/189), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/189/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2016/189/regulation/2/a)
+
+[^key-739f4e42ac799b202d9b2ef055616dfb]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/uksi/2013/387/regulation/17/1/b) omitted (E.W.) (30.10.2026) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/10/3/a)
+
+[^key-989a4c7850ef5db44792436b7851edb7]: Textual amendment: Reg. 17(1A)(1B) inserted (4.4.2016) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2016 (S.I. 2016/189)](https://www.legislation.gov.uk/uksi/2016/189), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/189/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2016/189/regulation/2/b)
+
+[^key-a7ffdb33720ea0e7e6ed0743669670f4]: Textual amendment: Reg. 17(2)(a) substituted (4.4.2016) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2016 (S.I. 2016/189)](https://www.legislation.gov.uk/uksi/2016/189), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/189/regulation/1/2), [2(c)(i)](https://www.legislation.gov.uk/uksi/2016/189/regulation/2/c/i)
+
+[^key-8edbb974a07c98a7f966b2663391b87c]: Textual amendment: [Reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2013/387/regulation/17/2/b) omitted (E.W.) (30.10.2026) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/10/3/b)
+
+[^key-d96ec1860ad3a86f0bbf08e4d441aafd]: Textual amendment: Words in reg. 17(2)(b) deleted (4.4.2016) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2016 (S.I. 2016/189)](https://www.legislation.gov.uk/uksi/2016/189), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/189/regulation/1/2), [2(c)(ii)](https://www.legislation.gov.uk/uksi/2016/189/regulation/2/c/ii)
+
+[^key-6975e60e2cc61d6d84a3f56496d58485]: Textual amendment: Words in [reg. 17(3)(a)](https://www.legislation.gov.uk/uksi/2013/387/regulation/17/3/a) omitted (E.W.) (30.10.2026) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/10/3/c)
+
+[^key-a004b48fe9a250e4c35b47dd0e74b8a2]: Textual amendment: Words in reg. 18(1) substituted (S.) (1.9.2020) by [The Personal Independence Payment (Transitional Provisions) Amendment (Scotland) Regulations 2020 (S.S.I. 2020/218)](https://www.legislation.gov.uk/ssi/2020/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/218/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/218/regulation/2/4)
+
+[^key-1bd3db53bd046c4ea604235361a70803]: Textual amendment: Words in reg. 18(1)(b) substituted (6.10.2013) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2013 (S.I. 2013/2231)](https://www.legislation.gov.uk/uksi/2013/2231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2013/2231/regulation/2/5)
+
+[^key-fbe9fe3d03c2c4812e837709929b22d9]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2013/387/regulation/18A) inserted (S.) (1.9.2020) by [The Personal Independence Payment (Transitional Provisions) Amendment (Scotland) Regulations 2020 (S.S.I. 2020/218)](https://www.legislation.gov.uk/ssi/2020/218), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/218/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/218/regulation/2/5)
+
+[^key-11ad63ea1eac8bc3a902a1688357b1ce]: Textual amendment: Words in reg. 19(1)(b) inserted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2016/556/regulation/4/4)
+
+[^c2166393]: Marginal citation: There is an amendment to section 10 not relevant to these Regulations.
+
+[^key-111f6bcbbe7cd3626c4f145ce7a539f2]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/uksi/2013/387/regulation/20/5) omitted (S.) (29.8.2022) by virtue of [The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/217)](https://www.legislation.gov.uk/ssi/2022/217), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/217/regulation/1/1), [17(3)](https://www.legislation.gov.uk/ssi/2022/217/regulation/17/3)
+
+[^key-5e4512d4a86f7bb9b066c8dbfcf29131]: Textual amendment: Words in reg. 22(2) omitted (25.10.2013) by virtue of [The Personal Independence Payment (Transitional Provisions) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2689)](https://www.legislation.gov.uk/uksi/2013/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2013/2689/regulation/2/5)
+
+[^c2166394]: Marginal citation: [S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890). Paragraph (1) of regulation 8 was substituted by the [Social Security (Disability Living Allowance and Attendance Allowance) (Amendment) Regulations 1992 (S.I. 1992/2869)](https://www.legislation.gov.uk/uksi/1992/2869), [regulation 4(2)](https://www.legislation.gov.uk/uksi/1992/2869/regulation/4/2). Paragraph (1)(a) was amended by the Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013 389, regulation 4(6).
+
+[^c2166395]: Marginal citation: Regulation 10(1) was amended by the [Social Security Benefits (Amendments Consequential Upon the Introduction of Community Care) Regulations 1992 (S.I. 1992/3147)](https://www.legislation.gov.uk/uksi/1992/3147), [regulation 7(2)(a)](https://www.legislation.gov.uk/uksi/1992/3147/regulation/7/2/a).
+
+[^c2166396]: Marginal citation: Regulation 9 in its entirety was substituted by the [Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations 2007 (S.I. 2007/2875)](https://www.legislation.gov.uk/uksi/2007/2875), [regulation 3(1)](https://www.legislation.gov.uk/uksi/2007/2875/regulation/3/1) and (2).
+
+[^c2166397]: Marginal citation: Paragraph (2)(d) of regulation 2 was amended by the Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013, regulation 4(2)(e).
+
+[^c2166398]: Marginal citation: Paragraph (3B) was inserted by the Social Security (Disability Living Allowance, Attendance Allowance and Carer's Allowance) (Amendment) Regulations 2013, regulation 4(2)(h).
+
+[^key-fcd2c1a1eaa4e6980a3a3e59e9e151e4]: Textual amendment: Reg. 27A inserted (4.7.2019) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations 2019 (S.I. 2019/1011)](https://www.legislation.gov.uk/uksi/2019/1011), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1011/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1011/regulation/2)
+
+[^c2166399]: Marginal citation: Regulation 33(1) was amended by the [Social Security, Child Support and Tax Credits (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/337)](https://www.legislation.gov.uk/uksi/2005/337), [regulation 7(1)](https://www.legislation.gov.uk/uksi/2005/337/regulation/7/1) and (7)(a) and the [Social Security (Miscellaneous Amendments) (No. 4) Regulations 2007 (S.I. 2007/2470)](https://www.legislation.gov.uk/uksi/2007/2470), [regulation 2(1)](https://www.legislation.gov.uk/uksi/2007/2470/regulation/2/1) and (14). There are other amendments not relevant to these Regulations.
+
+[^c2166400]: Marginal citation: Paragraph (1A) was inserted by [S.I. 2005/337](https://www.legislation.gov.uk/uksi/2005/337), [regulation 7(1)](https://www.legislation.gov.uk/uksi/2005/337/regulation/7/1) and (7)(b). There is an amendment not relevant to these Regulations.
+
+[^c2166401]: Marginal citation: Regulation 4(2)(g) was inserted by the Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 ([S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [paragraph 23(2)(b)](https://www.legislation.gov.uk/uksi/2013/388/paragraph/23/2/b) of the Schedule.

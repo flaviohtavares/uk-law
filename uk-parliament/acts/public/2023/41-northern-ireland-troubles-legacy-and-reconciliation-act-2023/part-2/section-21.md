@@ -1,0 +1,74 @@
+---
+title: Northern Ireland Troubles (Legacy and Reconciliation) Act 2023, section 21
+act: Northern Ireland Troubles (Legacy and Reconciliation) Act 2023
+section: '21'
+status: not-yet-in-force
+text_date: '2024-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/41/section/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Northern Ireland Troubles (Legacy and Reconciliation) Act 2023, section 21
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 21. Determining a request for immunity[^key-dd87ab1cf2e3ffd92db0c9f630bcdf2a]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) This section applies if a person (P) makes a request under section 19 for the ICRIR to grant P immunity from prosecution.
+
+(2) The ICRIR must take reasonable steps to obtain any information which the Commissioner for Investigations knows or believes is relevant to the question of the truth of P’s account.
+
+(3) In forming a view on the truth of P’s account, the immunity requests panel must take into account any information obtained under subsection (2) and any other information in the possession of the ICRIR that is relevant (including information which P has previously given to a person other than the ICRIR).
+
+(4) That includes information obtained through—
+
+- (a) any review carried out under section 13, or
+- (b) any investigation that has previously been carried out by any other person.
+
+(5) Where—
+
+- (a) it would have been possible for the ICRIR to carry out a review under section 12 in consequence of P’s request for immunity from prosecution, and
+- (b) the ICRIR did not decide to carry out the review,
+
+that does not prevent the immunity requests panel from forming a view on the truth of an account given by P.
+
+(6) The Chief Commissioner must give guidance about when conditions B and C set out in section 19(3) to (5) are met.
+
+(7) The Chief Commissioner may, in particular, give guidance about ascertaining—
+
+- (a) whether an account of a person’s conduct is true to the best of a person’s knowledge and belief;
+- (b) whether conduct is possible criminal conduct;
+- (c) whether information is an account of possible criminal conduct.
+
+(8) The Chief Commissioner must give guidance about—
+
+- (a) the making of decisions in accordance with section 19(7) whether P should be granted—
+  - (i) specific immunity from prosecution,
+  - (ii) general immunity from prosecution, or
+  - (iii) specific and general immunity from prosecution;
+- (b) the determination of descriptions of offences for the purposes of—
+  - (i) a grant of general immunity from prosecution (see section 19(9)), or
+  - (ii) a grant of specific and general immunity from prosecution (see section 19(11)).
+
+(9) The immunity requests panel must take account of guidance given under subsection (6) or (8) when exercising functions to which it relates.
+
+(10) In this section—
+
+- “**P’s account**” has the same meaning as in section 19;
+- “**possible criminal conduct**” means conduct that would tend to expose a person—
+  - (a) to a criminal investigation of, or
+  - (b) to prosecution for,
+
+  a Troubles-related offence.
+
+## Annotations
+
+[^key-dd87ab1cf2e3ffd92db0c9f630bcdf2a]: Commencement: S. 21 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)

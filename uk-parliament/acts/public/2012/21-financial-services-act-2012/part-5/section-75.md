@@ -1,0 +1,39 @@
+---
+title: Financial Services Act 2012, section 75
+act: Financial Services Act 2012
+section: '75'
+status: revised-with-pending-changes
+text_date: '2026-07-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/21/section/75
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services Act 2012, section 75
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-07-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 75. Interpretation of section 74[^key-c3cbec56f32da9e79323af8398c1254d]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section has effect for the interpretation of section 74.
+
+(2) “**Policyholder**” has the same meaning as in FSMA 2000.
+
+(3) Relevant public expenditure has been incurred in respect of a PRA-authorised person (“P”) in each of the following cases (but no others)—
+
+- (a) where the Treasury or the Secretary of State have provided financial assistance to or in respect of P for the purposes of resolving or reducing a threat to the stability of the UK financial system;
+- (b) where the Treasury have incurred expenditure in connection with the exercise by the Treasury, the Secretary of State or the Bank of England of any power under Parts 1 to 3 of the Banking Act 2009 in relation to P;
+- (c) where the scheme manager of the Financial Services Compensation Scheme has received a loan from the National Loans Fund, or financial assistance from the Treasury, for the purpose of funding expenses incurred or expected to be incurred under the Financial Services Compensation Scheme by reason of events relating to P.
+
+(4) In subsection (3)(a) and (c) “**financial assistance**” includes giving guarantees or indemnities and any other kind of financial assistance (actual or contingent), but does not include the giving by the Treasury of an indemnity or guarantee in respect of the provision of financial assistance by the Bank of England.
+
+(5) The Treasury may by order made by statutory instrument provide that a specified activity or transaction, or class of activity or transaction, is to be or is not to be treated as financial assistance for the purposes of subsection (3)(a), and subsection (4) is subject to this subsection.
+
+## Annotations
+
+[^key-c3cbec56f32da9e79323af8398c1254d]: Commencement: S. 75 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

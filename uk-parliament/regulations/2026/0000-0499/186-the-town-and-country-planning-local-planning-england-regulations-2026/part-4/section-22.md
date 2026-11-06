@@ -1,0 +1,29 @@
+---
+title: The Town and Country Planning (Local Planning) (England) Regulations 2026, section 22
+act: The Town and Country Planning (Local Planning) (England) Regulations 2026
+section: '22'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2026/186/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Local Planning) (England) Regulations 2026, section 22
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 22. Publication of summary of scoping consultation
+
+(1) A local planning authority must prepare, in connection with the preparation of their local plan, a document to be known as their “summary of scoping consultation”.
+
+(2) The summary of scoping consultation must set out—
+
+- (a) the general consultation bodies and the specific consultation bodies who were invited to make representations under regulation 20,
+- (b) the manner by which those invited bodies were asked to make any representations under regulation 20,
+- (c) if representations were made under regulation 20, whether by persons invited to do so or otherwise, a summary of the main issues raised in those representations,
+- (d) if representations were made under regulation 20, how the local planning authority have, to date, had regard to those representations in accordance with section 15CA(6)(b) of the Act, and
+- (e) if applicable, that no representations were made under regulation 20.
+
+(3) A local planning authority must make their summary of scoping consultation available in accordance with regulation 88 no earlier than on the day after the date on which the authority make their self-assessment summary available under regulation 21(3).

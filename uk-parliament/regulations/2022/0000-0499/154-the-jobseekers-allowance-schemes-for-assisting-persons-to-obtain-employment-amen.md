@@ -1,0 +1,93 @@
+---
+title: The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022
+id: uksi/2022/154
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-02-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/154
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/154/pdfs/uksiem_20220154_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2022/154/pdfs/uksiem_20220154_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/154/pdfs/uksi_20220154_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/154/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 154
+
+Social Security
+
+The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022
+
+Made
+
+17th February 2022
+
+Laid before Parliament
+
+21st February 2022
+
+Coming into force
+
+14th March 2022
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 17A(1) and (2), 35(1) and 36(2) and (4) of the Jobseekers Act 1995[^f00001].
+
+In accordance with section 173(1)(b) of the Social Security Administration Act 1992[^f00002], the Secretary of State has obtained the agreement of the Social Security Advisory Committee that the proposals in respect of these Regulations should not be referred to it.
+
+## 1. Citation, Commencement and Extent
+
+(1) These Regulations may be cited as the Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022 and come into force on 14th March 2022.
+
+(2) These Regulations extend to England and Wales and Scotland.
+
+## 2. Amendments of the Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013
+
+(1) The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013[^f00003] are amended as follows.
+
+(2) In regulation 3 (schemes for assisting persons to obtain employment)—
+
+- (a) omit paragraph (8);
+- (b) after paragraph (8C) insert—
+
+  > (8D) The Restart Scheme is a scheme which provides support for a period of up to 12 months for claimants who have been unemployed for 9 months or more and reside in England and Wales.
+
+Signed by the authority of the Secretary of State for Work and Pensions.
+
+Mims Davies
+
+Parliamentary Under Secretary of State
+
+Department for Work and Pensions
+
+17th February 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (“**the 2013 Regulations**”). Regulation 2(2)(a) removes the Work Programme from Regulation 3 of the 2013 Regulations as this scheme no longer operates.
+
+Regulation 2(2)(b) prescribes the Restart Scheme for the purposes of Section 17A of the Jobseekers Act 1995 which grants the power to impose on claimants in certain circumstances a requirement to participate in schemes that are designed to assist them to obtain employment. The Restart Scheme is for claimants who reside in England and Wales.
+
+This means that persons claiming Jobseeker’s Allowance (JSA) who are selected under regulation 4 of the 2013 Regulations, which enables the selection of claimants for participation in a scheme, are required to participate in the Restart Scheme. By virtue of section 19A Jobseekers Act 1995 if a claimant fails without good reason to comply with such a requirement is liable to a benefit sanction i.e. the reduction or loss of JSA for a period of several weeks.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18). Section 35, as amended by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), is an interpretation provision and is cited because of the meaning given to “prescribed” and “regulations”. Section 17A was inserted by section 1 of the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24). Part 4 of Schedule 14 to the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) repeals Section 17A. 17A remains in force for the purpose of making these Regulations in relation to claimants who continue to be entitled to Jobseeker’s Allowance.
+
+[^f00002]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00003]: Footnote: [S.I. 2013/276](https://www.legislation.gov.uk/uksi/2013/276). Relevant amending instruments are [S.I. 2013/2584](https://www.legislation.gov.uk/uksi/2013/2584), [S.I. 2014/2103](https://www.legislation.gov.uk/uksi/2014/2103), [S.I. 2015/336](https://www.legislation.gov.uk/uksi/2015/336) and [S.I. 2017/1020](https://www.legislation.gov.uk/uksi/2017/1020).

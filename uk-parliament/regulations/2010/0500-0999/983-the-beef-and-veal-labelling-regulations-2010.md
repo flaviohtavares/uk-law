@@ -1,0 +1,274 @@
+---
+title: The Beef and Veal Labelling Regulations 2010
+id: uksi/2010/983
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-23'
+text_date: '2022-09-30'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2010/983
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/983/pdfs/uksiem_20100983_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/983/pdfs/uksi_20100983_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/983/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Beef and Veal Labelling Regulations 2010
+
+> Text as at 2022-09-30.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2010 No. 983
+
+Agriculture, England
+
+The Beef and Veal Labelling Regulations 2010
+
+Made
+
+23rd March 2010
+
+Laid before Parliament
+
+29th March 2010
+
+Coming into force
+
+1st May 2010
+
+The Secretary of State—
+
+- (a) who is a Minister designated[^f00001] for the purposes of making Regulations under section 2(2) of the European Communities Act 1972[^f00002] in relation to food (including drink) including the primary production of food; and
+- (b) who has carried out the consultation required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003],
+
+makes these Regulations in exercise of the powers in section 2(2) of the European Communities Act 1972.
+
+## 1. Title, application and commencement
+
+These Regulations may be cited as the Beef and Veal Labelling Regulations 2010; they apply in England and come into force on 1st May 2010.
+
+## 2. The competent authority
+
+(1) The Secretary of State is the competent authority for the purposes of—
+
+- (a) Title II of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products[^f00004] , as last amended by Regulation ([^key-51c937975d9185b17d9f8c91ebfd8d77]EU) No 653/2014 of the European Parliament and of the Council;
+- (b) Commission Regulation [(EC) No 1825/2000](https://www.legislation.gov.uk/european/regulation/2000/1825) laying down detailed rules for the application of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760)[^f00005];
+- (c)[^key-1acf8221115fef8b37f7995c28b9c202] Article 78 of, and Part 1 of Annex 7 to, Regulation ([^key-531e84ce680f86e3d3699a5cddc006bd]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time;
+- (d) Commission Regulation [(EC) No. 566/2008](https://www.legislation.gov.uk/european/regulation/2008/0566) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing of the meat of bovine animals aged 12 months or less[^f00007] , as last amended by Commission Implementing Regulation ([^key-24a1e1ea6482fb90d9e2556a0f35c5e9]EU) 565/2013.
+
+## 3. The enforcement authorities
+
+(1) In relation to retail supply these Regulations are enforced by—
+
+- (a) where there is a unitary authority, within the meaning of the Local Government Changes for England Regulations 1994[^f00008], that authority;
+- (b) where there is not a unitary authority—
+  - (i) in a metropolitan district, the council of that district;
+  - (ii) in a non-metropolitan county, the council of that county;
+  - (iii) in each London borough, the council of that borough; or
+  - (iv) in the City of London, the Common Council.
+
+(2) Otherwise they are enforced by those local authorities, a port health authority and the Secretary of State.
+
+*Extent: E+W*
+
+(3)[^key-098e48f28df59e46e2ab14954a9432ce] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+
+## 4. Offences under European legislation
+
+(1) Any person who fails to comply with any of the following is guilty of an offence—
+
+- (a) the following provisions of Regulation[(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760)of the European Parliament and the Council—
+  - (i) Article 11 (requirement to label);
+  - (ii) Article 13(1) (general rules);
+  - (iii) Article 13(2) (indications on the label);
+  - (iv) Article 13(5) (additional information on the label);
+  - (v) Article 14 (labelling of minced beef);
+  - (vi) Article 15 (beef from third countries) , as read with Article 15za (transitional provisions)[^key-4e34a6c6cdb2f3fb3621cc8dd0c59990];
+  - (vii)[^key-c2bea02c8682f3518847cfe704036a61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (viii)[^key-c2bea02c8682f3518847cfe704036a61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the following provisions of [(EC) No. 1825/2000](https://www.legislation.gov.uk/european/regulation/2000/1825)—
+  - (i) Article 1 (traceability);
+  - (ii) Article 2 (labelling);
+  - (iii) Article 4 (size and composition of a group);
+  - (iv) Article 5(2) (minced beef);
+  - (v) Article 5a (trimmings);
+  - (vi) Article 5b (pre-packaged cut meat);
+  - (vii) Article 5c (non-pre-packaged cut meat);
+  - (viii)[^key-bc7088d5dc05f06326de92b154ad007d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ix) Article 7 (access to premises and records);
+- (c)[^key-278c35d21908017ff4ced94540420a9e] The following provisions of Regulation ([^key-bf2a258aaa24ee5de307bc9a655bd6a1]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time—
+  - (i) Article 78 and paragraph II of Part I of Annex VII (classification at the slaughterhouse);
+  - (ii) Article 78 and paragraph III of Part I of Annex VII (sales descriptions);
+  - (iii) Article 78 and paragraph IV of Part I of Annex VII (compulsory indication on the label);
+  - (iv) Article 78 and paragraph V of Part I of Annex VII (recording).
+- (d) the following provision of [(EC) No. 566/2008](https://www.legislation.gov.uk/european/regulation/2008/0566)—
+  - (i) Article 4(1) (compulsory information on the label);
+  - (ii) Article 4(2) (indication of age);
+  - (iii) Article 5 (recording information).
+
+(2) For the purposes of point 4(2) of Part 1 of Annex 7 to Regulation ([^key-7f040e434f8fd80ec66514c8146ffa05][^key-e6c30e771c73a4e5db7f0305b81dd395]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time, the required information must be displayed near the meat so as to allow the final consumer to identify it easily, and must be clearly legible.
+
+(3) Records (including electronic records) must be retained for a period of 12 months from the end of the calendar year in which the record was made.
+
+(4)[^key-9e888d1e955d62ee0638a51a78ce60a4] Paragraphs (1)(a)(vi) and (1)(b)(ii) do not apply if the matter constituting the alleged contravention—
+
+- (a) relates to a product that was placed on the market before 1 January 2024, and
+- (b) either—
+  - (i) in the case of paragraph (1)(a)(vi), would not have constituted a contravention of Article 15 of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council as that Regulation had effect in EU law immediately before IP completion day, or
+  - (ii) in the case of paragraph (1)(b)(ii) and where the alleged contravention is a failure to comply with Article 2(2)(b) of [Commission Regulation (EC) No 1825/2000](https://www.legislation.gov.uk/european/regulation/2000/1825), would not have constituted a contravention of that provision as it had effect in EU law immediately before IP completion day.
+
+## 5. Notices
+
+(1) Where beef or veal has been labelled and marketed in a manner that does not comply with these Regulations, an authorised officer of an enforcement authority may serve a notice on the person in possession of the beef or veal requiring—
+
+- (a) its immediate relabelling in accordance with these Regulations, or
+- (b) its immediate removal from sale until it is relabelled in accordance with these Regulations or otherwise disposed of,
+
+and any person who fails to comply with that notice is guilty of an offence.
+
+(2) A notice must state the right of appeal to a magistrates’ court and the period within which the appeal may be brought.
+
+(3) Any person who is aggrieved by a notice may appeal to a magistrates’ court.
+
+(4) The procedure is by way of complaint for an order, and the Magistrates’ Court Act 1980[^f00009] applies to the proceedings.
+
+(5) The period within which an appeal may be brought is one month from the date on which the notice was served.
+
+(6) On an appeal the court may either cancel or affirm the notice and, if the court affirms the notice, it may do so either in its original form or with such modifications as the court may in the circumstances think fit.
+
+(7) A person who is aggrieved by any decision of a magistrates’ court on an appeal under this regulation may appeal to the Crown Court.
+
+## 6. Powers of entry
+
+(1) An authorised officer of an enforcement authority may, on producing a duly authenticated authorisation if required, enter any premises at any reasonable hour for the purpose of ascertaining whether—
+
+- (a) there is or has been on the premises any contravention of these Regulations; or
+- (b) there is on the premises any evidence of any contravention of these Regulations.
+
+(2) The officer may be accompanied by such other persons as the officer considers necessary[^key-b85ca3fb42ee8144d914c81524eb8bbf]....
+
+(3) If a justice of the peace, on sworn information in writing, is satisfied that there is reasonable ground for entry into any premises (excluding premises used only as a dwelling) for any purpose in paragraph (1) and that—
+
+- (a) admission to the premises has been refused, or a refusal is anticipated, and that notice of the intention to apply for a warrant has been given to the occupier,
+- (b) an application for admission would defeat the object of the entry, or
+- (c) the premises are unoccupied or the occupier temporarily absent,
+
+the justice may by signed warrant authorise an authorised officer to enter the premises, if need be by reasonable force.
+
+(4) A warrant granted under this regulation continues in force for one month.
+
+(5) An officer who enters any unoccupied premises must leave them as effectively secured against unauthorised entry as they were before entry.
+
+## 7. Powers of authorised officers
+
+An authorised officer of an enforcement authority entering any premises under these Regulations may—
+
+- (a) inspect any beef or veal present on those premises;
+- (b) take samples from any beef or veal on those premises and, if necessary, send the samples for testing;
+- (c) inspect any labels and relevant business records (including electronic records) in whatever form they are held;
+- (d) seize and detain any such labels and records (including electronic records) that may be required as evidence in proceedings under these Regulations.
+
+## 8. Obstruction
+
+Any person who—
+
+- (a) intentionally obstructs any person acting in the execution of these Regulations,
+- (b) without reasonable cause, fails to give any person acting in execution of these Regulations any assistance or information that that person may reasonably require for the purpose of carrying out functions under these Regulations, or
+- (c) furnishes to any person acting in the execution of these Regulations any information knowing it to be false or misleading,
+
+is guilty of an offence.
+
+## 9. Offences by bodies corporate
+
+(1) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar officer of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+that person as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) For the purposes of this regulation “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+## 10. Penalties
+
+A person guilty of an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 11. Revocation
+
+The Beef and Veal Labelling Regulations 2008[^f00010] are revoked.
+
+Jim Fitzpatrick
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations replace the Beef and Veal Labelling Regulations 2008. The changes are that they enforce Articles 5a, 5b and 5c of Commission Regulation [(EC) No 1825/2000](https://www.legislation.gov.uk/european/regulation/2000/1825) (regulation 4(1)(b)) and provide rules for the provision of information for un-prepacked meat of bovine animals aged 12 months or less at the point of sale (regulation 4(2)).
+
+They continue to enforce Title II of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and subsidiary Commission Regulations. They also enforce the provisions relating to meat of bovine animals aged 12 months or less of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products as well as the provisions of Commission Regulation [(EC) No 566/2008](https://www.legislation.gov.uk/european/regulation/2008/0566) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing of the meat of bovine animals aged 12 months or less.
+
+They are enforced by the local authority, port health authority or Secretary of State in accordance with regulation 3.
+
+Breach of the Regulations is an offence punishable on summary conviction with a fine not exceeding level 5 on the standard scale.
+
+A full impact assessment has not been produced as no effect on the private or voluntary sectors is anticipated.
+
+## Annotations
+
+[^f00001]: Footnote: [S. I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: OJ No L 31, 1.2.2002, p 1 as last amended by Regulation [(EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (OJ No L 188, 18.7.2009, p 14).
+
+[^f00004]: Footnote: OJ No L 204, 11.8.2000, p 1 as last amended by Council Regulation [(EC) No 1791/2006](https://www.legislation.gov.uk/european/regulation/2006/1791) (OJ No L 363, 20.12.2006, p 1).
+
+[^key-51c937975d9185b17d9f8c91ebfd8d77]: Textual amendment: Words in reg. 2(1)(a) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [38(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/38/2/a)
+
+[^f00005]: Footnote: OJ No L 216, 26.8.2000, p 8 as last amended by Commission Regulation [(EC) No 275/2007](https://www.legislation.gov.uk/european/regulation/2007/0275) (OJ No L76, 16.3.2007, p 12).
+
+[^key-1acf8221115fef8b37f7995c28b9c202]: Textual amendment: Reg. 2(1)(c) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/3/2)
+
+[^key-531e84ce680f86e3d3699a5cddc006bd]: Textual amendment: Words in reg. 2(1)(c) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [38(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/38/2/b)
+
+[^f00007]: Footnote: OJ No L 160, 19.6.2008, p. 22.
+
+[^key-24a1e1ea6482fb90d9e2556a0f35c5e9]: Textual amendment: Words in reg. 2(1)(d) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [38(2)(c)](https://www.legislation.gov.uk/uksi/2018/942/regulation/38/2/c)
+
+[^f00008]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867) to which there are amendments not relevant to these Regulations.
+
+[^key-098e48f28df59e46e2ab14954a9432ce]: Textual amendment: Reg. 3(3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [38](https://www.legislation.gov.uk/uksi/2012/2897/article/38)
+
+[^key-4e34a6c6cdb2f3fb3621cc8dd0c59990]: Textual amendment: Words in [reg. 4(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2010/983/regulation/4/1/a/vi) inserted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/824/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c2bea02c8682f3518847cfe704036a61]: Textual amendment: Reg. 4(1)(a)(vii)(viii) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [38(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/942/regulation/38/3/a/i)
+
+[^key-bc7088d5dc05f06326de92b154ad007d]: Textual amendment: [Reg. 4(1)(b)(viii)](https://www.legislation.gov.uk/uksi/2010/983/regulation/4/1/b/viii) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-278c35d21908017ff4ced94540420a9e]: Textual amendment: Reg. 4(1)(c) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/3/3)
+
+[^key-bf2a258aaa24ee5de307bc9a655bd6a1]: Textual amendment: Words in reg. 4(1)(c) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [38(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/942/regulation/38/3/a/ii)
+
+[^key-7f040e434f8fd80ec66514c8146ffa05]: Textual amendment: Words in reg. 4(2) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [38(3)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/38/3/b)
+
+[^key-e6c30e771c73a4e5db7f0305b81dd395]: Textual amendment: Words in reg. 4(2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/3/4)
+
+[^key-9e888d1e955d62ee0638a51a78ce60a4]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2010/983/regulation/4/4) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/938/regulation/4)
+
+[^f00009]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); sections 51 and 52 have been substituted by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 47.
+
+[^key-b85ca3fb42ee8144d914c81524eb8bbf]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2010/983/regulation/6/2) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/824/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00010]: Footnote: [S. I. 2008/3252M](https://www.legislation.gov.uk/uksi/2008/3252).

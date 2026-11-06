@@ -1,0 +1,110 @@
+---
+title: The Community Legal Service (Funding) (Amendment No. 2) Order 2008
+id: uksi/2008/2704
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-10-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/2704
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2704/pdfs/uksiem_20082704_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2704/pdfs/uksi_20082704_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2704/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Community Legal Service (Funding) (Amendment No. 2) Order 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 2704
+
+Legal Services Commission, England And Wales
+
+The Community Legal Service (Funding) (Amendment No. 2) Order 2008
+
+Made
+
+13th October 2008
+
+Laid before Parliament
+
+15th October 2008
+
+Coming into force
+
+3rd November 2008
+
+The Lord Chancellor makes the following Order in exercise of the powers conferred by section 6(4) of the Access to Justice Act 1999[^f00001]. The Lord Chancellor has consulted the General Council of the Bar and the Law Society in accordance with section 25(2) of that Act and has had regard to the matters specified in section 25(3) of that Act.
+
+## 1. Citation, commencement and transitional provisions
+
+This Order may be cited as the Community Legal Service (Funding) (Amendment No. 2) Order 2008.
+
+**2.** This Order shall come into force on 3rd November 2008.
+
+**3.** Article 4 applies where, immediately prior to the coming into force of this Order, services were funded in accordance with the Community Legal Service (Funding) Order 2000[^f00002] insofar as that Order continues to have effect under article 2(2) of the Community Legal Service (Funding) Order 2007[^f00003].
+
+**4.** Where this article applies and the proceedings in connection with which the services are funded are transferred into the First-tier Tribunal or the Mental Health Review Tribunal for Wales, as the case may be, the services will continue to be funded on the same basis.
+
+## 5. Amendments to the Community Legal Service (Funding) Order 2007
+
+The Community Legal Service (Funding) Order 2007 is amended as follows.
+
+**6.** In Article 3 after the definition of “group litigation” insert—
+
+> - “Higher Courts” means the Court of Protection, the Crown Court, the Employment Appeal Tribunal, the Upper Tribunal, the High Court, the Court of Appeal, or the House of Lords;
+> - “Mental Health Proceedings” means proceedings or potential proceedings before the First-tier Tribunal or the Mental Health Review Tribunal for Wales, under any provision of the Mental Health Act 1983[^f00004] or paragraph 5(2) of the Schedule to the Repatriation of Prisoners Act 1984[^f00005];
+
+**7.** In Article 5(2)(b)(i), after “the” insert “Upper Tribunal,”.
+
+**8.** In Part 1, sub-part 5 of the Schedule—
+
+- (a) in Table 5(a)—
+  - (i) for “Non-Mental Health Review Tribunal” substitute “Mental Health – Non-Tribunal”;
+  - (ii) for “MHRT” wherever it occurs, substitute “Mental Health Proceedings”.
+- (b) in Table 5(b)—
+  - (i) for “(Mental Health Review Tribunal)” substitute “(Mental Health Proceedings)”;
+  - (ii) for “Non MHRT” substitute “Mental Health – Non-Tribunal”;
+  - (iii) for “(MHRT)” in both places substitute “(Mental Health Proceedings)”.
+
+**9.** In Part 1, sub-part 8 of the Schedule, for the title of Table 8(d) substitute “Table 8(d) Representation in Mental Health Proceedings”.
+
+Signed by the authority of the Lord Chancellor
+
+Bach
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+13th October 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Community Legal Service (Funding) Order 2007 ([S.I. 2007/2441](https://www.legislation.gov.uk/uksi/2007/2441)). The 2007 Order limits the power of the Legal Services Commission to pay remuneration under contract for the provision of funded services, and sets out remuneration rates which are payable for funded services.
+
+This Order makes consequential amendments arising from the Tribunals, Courts and Enforcement Act [2007 (c. 15.)](https://www.legislation.gov.uk/ukpga/2007/15), which replaces certain individual tribunals, including the Mental Health Review Tribunal, with a new First-tier and Upper Tribunal. The 2007 Order contains references to the Mental Health Review Tribunal which will cease to exist under the Act.
+
+This Order replaces references to the Mental Health Review Tribunal with references to Mental Health Proceedings before the First-tier Tribunal and the Mental Health Review Tribunal for Wales, which is not part of the new Tribunals system. It also includes the new Upper Tribunal within the definition of ‘Higher Courts’ and provides that a contract may provide a percentage enhancement of up to 200% to the hourly rate for non-family proceedings in the Upper Tribunal.
+
+A full impact assessment has not been produced for this instrument, as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22). The powers were transferred to the Secretary of State by the Secretary of State for Constitutional Affairs Order 2003 ([S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887)) and transferred back to the Lord Chancellor by the Transfer of Functions (Lord Chancellor and Secretary of State) Order 2005 ([S.I. 2005/3429](https://www.legislation.gov.uk/uksi/2005/3429)).
+
+[^f00002]: Footnote: [S.I. 2000/627](https://www.legislation.gov.uk/uksi/2000/627).
+
+[^f00003]: Footnote: [S.I. 2007/2441](https://www.legislation.gov.uk/uksi/2007/2441) amended by [S.I. 2008/1328](https://www.legislation.gov.uk/uksi/2008/1328).
+
+[^f00004]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^f00005]: Footnote: [1984 c. 47](https://www.legislation.gov.uk/ukpga/1984/47).

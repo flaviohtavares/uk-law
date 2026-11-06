@@ -1,0 +1,157 @@
+---
+title: The Licensing of Houses in Multiple Occupation (Prescribed Description) (England) Order 2018
+id: uksi/2018/221
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-02-20'
+text_date: '2018-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2018/221
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/221/pdfs/uksiem_20180221_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/221/pdfs/uksi_20180221_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/221/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Licensing of Houses in Multiple Occupation (Prescribed Description) (England) Order 2018
+
+> Text as at 2018-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 221
+
+Housing, England
+
+The Licensing of Houses in Multiple Occupation (Prescribed Description) (England) Order 2018
+
+Made
+
+20th February 2018
+
+Laid before Parliament
+
+23rd February 2018
+
+Coming into force
+
+1st October 2018
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 55(3) and 250(2)(a) and (b) of the Housing Act 2004[^f00001].
+
+## 1. Citation and Commencement[^key-625aa3552cbaba435e9eab29d2559b3a]
+
+(1) This Order may be cited as the Licensing of Houses in Multiple Occupation (Prescribed Description) (England) Order 2018.
+
+(2) This Order comes into force on 1st October 2018.
+
+## 2. Application[^key-c73db5c4d5145f4a79d0a356ef868628]
+
+This Order applies in relation to an HMO in England[^f00002].
+
+## 3. Interpretation[^key-726e4734ae0535ce3a404ed714e96880]
+
+In this Order “the Act” means the Housing Act 2004.
+
+## 4. Description of HMOs prescribed by the Secretary of State[^key-7242ea2e82b9bfdf39361c3971b96029]
+
+An HMO is of a prescribed description for the purpose of section 55(2)(a) of the Act if it—
+
+- (a) is occupied by five or more persons;
+- (b) is occupied by persons living in two or more separate households; and
+- (c) meets—
+  - (i) the standard test under section 254(2) of the Act;
+  - (ii) the self-contained flat test under section 254(3) of the Act but is not a purpose-built flat situated in a block comprising three or more self-contained flats; or
+  - (iii) the converted building test under section 254(4) of the Act.
+
+## 5. Transitional Provision[^key-8e88c449c85928c8841a611b261ba7ff]
+
+A licence issued under Part 3 of the Act has effect as if issued under Part 2 of the Act in respect of an HMO that—
+
+- (a) is licensed under Part 3 prior to 1st October 2018, and
+- (b) is required to be licensed under Part 2 from that date.
+
+## 6. Revocation[^key-8ffb37db40edce6a2b80cae7e5c3691d]
+
+The Licensing of Houses in Multiple Occupation (Prescribed Descriptions) (England) Order 2006[^f00003] is revoked.
+
+## 7. Review[^key-20cf4590202f41f71dbcb137de1c271b]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in this Order, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 6th April 2023.
+
+(3) Subsequent reports must be published at intervals not exceeding five years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this article must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph 1(a),
+- (b) assess the extent to which those objectives are achieved,
+- (c) assess whether those objectives remain appropriate, and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this article, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015[^f00004].
+
+Signed by authority of the Secretary of State for Housing, Communities and Local Government
+
+Heather Wheeler
+
+Parliamentary Under Secretary of State
+
+Ministry of Housing, Communities and Local Government
+
+20th February 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order prescribes a description of a house in multiple occupation (“HMO”) to which Part 2 of the Housing Act 2004 (“the Act”) applies. Under section 61(1) of the Act every HMO to which Part 2 of the Act applies must be licensed unless it is subject to either a temporary exemption notice under section 62 of the Act or an interim or final management order under Chapter 1 of Part 4 of the Act.
+
+The Order applies to HMOs in England but does not apply to converted blocks of flats, to which section 257 of the Act applies. These are buildings that have been converted into and consist of self-contained flats where the building work undertaken in connection with the conversion did not comply with the appropriate building standards and still does not comply with them, and less than two-thirds of the self-contained flats are owner-occupied.
+
+Article 1 makes a commencement provision.
+
+Article 4 prescribes a description of HMOs for the purpose of section 55(2)(a) of the Act. The standard test relates to HMOs which comprise of one or more units of living accommodation which do not consist of a self-contained flat or flats. The self-contained flat test relates to HMOs which comprise of a self-contained, purpose-built flat situated in a block comprising of no more than two self- contained flats (whether or not the block also contains non-residential premises). The converted building test relates to HMOs which are converted buildings.
+
+Article 5 makes a transitional provision.
+
+Article 6 revokes The Licensing of Houses in Multiple Occupation (Prescribed Descriptions) (England) Order 2006 which this Order replaces.
+
+Article 7 makes provision for the review of these Regulations at the end of the period of 5 years beginning with the date on which they come into force.
+
+An impact assessment has been prepared in relation to this Order. The assessment will be placed in the Library of each House of Parliament and made available on www.gov.uk. Copies may be obtained from the Ministry of Housing, Communities and Local Government, 2 Marsham Street, London, SW1P 4DF.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c.34](https://www.legislation.gov.uk/ukpga/2004/34). For the definition of appropriate national authority see section 261(1) of the Act.
+
+[^key-625aa3552cbaba435e9eab29d2559b3a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2018/221/article/1) in force at 1.10.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/221/article/1/1)
+
+[^key-c73db5c4d5145f4a79d0a356ef868628]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2018/221/article/2) in force at 1.10.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/221/article/1/1)
+
+[^f00002]: Footnote: For the meaning of HMO see sections 77 and 254 to 259 of the Act.
+
+[^key-726e4734ae0535ce3a404ed714e96880]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2018/221/article/3) in force at 1.10.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/221/article/1/1)
+
+[^key-7242ea2e82b9bfdf39361c3971b96029]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2018/221/article/4) in force at 1.10.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/221/article/1/1)
+
+[^key-8e88c449c85928c8841a611b261ba7ff]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2018/221/article/5) in force at 1.10.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/221/article/1/1)
+
+[^key-8ffb37db40edce6a2b80cae7e5c3691d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2018/221/article/6) in force at 1.10.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/221/article/1/1)
+
+[^f00003]: Footnote: [S.I 2006/371](https://www.legislation.gov.uk/uksi/2006/371)
+
+[^key-20cf4590202f41f71dbcb137de1c271b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2018/221/article/7) in force at 1.10.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/221/article/1/1)
+
+[^f00004]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). See section 32.

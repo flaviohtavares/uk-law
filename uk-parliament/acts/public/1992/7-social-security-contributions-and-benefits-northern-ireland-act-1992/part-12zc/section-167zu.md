@@ -1,0 +1,85 @@
+---
+title: Social Security Contributions and Benefits (Northern Ireland) Act 1992, section 167ZU
+act: Social Security Contributions and Benefits (Northern Ireland) Act 1992
+section: 167ZU
+status: revised-with-pending-changes
+text_date: '2026-07-09'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/7/section/167ZU
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Security Contributions and Benefits (Northern Ireland) Act 1992, section 167ZU
+
+> **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 167ZU. Entitlement: birth[^key-604f3133e2a60f1eb77d1cdae586af7e]
+
+*Extent: N.I.*
+
+(1) Regulations may provide that, where all the conditions in subsection (2) are satisfied in relation to a person who is the mother of a child (“the claimant mother”), the claimant mother is to be entitled in accordance with the following provisions of this Part to payments to be known as “**statutory shared parental pay**”.
+
+(2) The conditions are—
+
+- (a) that the claimant mother and another person (“P”) satisfy prescribed conditions as to caring or intending to care for the child,
+- (b) that P satisfies prescribed conditions—
+  - (i) as to employment or self-employment,
+  - (ii) as to having earnings of a prescribed amount for a prescribed period, and
+  - (iii) as to relationship either with the child or with the claimant mother,
+- (c) that the claimant mother has been in employed earner's employment with an employer for a continuous period of at least the prescribed length ending with a prescribed week,
+- (d) that the claimant mother's normal weekly earnings for a prescribed period ending with a prescribed week are not less than the lower earnings limit in force under section 5(1)(a) at the end of that week,
+- (e) if regulations so provide, that the claimant mother continues in employed earner's employment (whether or not with the employer by reference to whom the condition in paragraph (c) is satisfied) until a prescribed time,
+- (f) that the claimant mother became entitled to statutory maternity pay by reference to the birth of the child,
+- (g) that the claimant mother satisfies prescribed conditions as to the reduction of the duration of the maternity pay period,
+- (h) that the claimant mother has given the person who will be liable to pay statutory shared parental pay to her notice of—
+  - (i) the number of weeks in respect of which she would be entitled to claim statutory shared parental pay in respect of the child if the entitlement were fully exercised (disregarding for these purposes any intention of P to claim statutory shared parental pay in respect of the child),
+  - (ii) the number of weeks in respect of which she intends to claim statutory shared parental pay, and
+  - (iii) the number of weeks in respect of which P intends to claim statutory shared parental pay,
+- (i) that the claimant mother has given the person who will be liable to pay statutory shared parental pay to her notice of the period or periods during which she intends to claim statutory shared parental pay in respect of the child,
+- (j) that a notice under paragraph (h) or (i)—
+  - (i) is given by such time as may be prescribed, and
+  - (ii) satisfies prescribed conditions as to form and content,
+- (k) that P consents to the extent of the claimant mother's intended claim for statutory shared parental pay,
+- (l) that it is the claimant mother's intention to care for the child during each week in respect of which statutory shared parental pay is paid to her,
+- (m) that the claimant mother is absent from work during each week in respect of which statutory shared parental pay is paid to her,
+- (n) that, where she is an employee within the meaning of the Employment Rights Order, the claimant mother's absence from work during each such week is absence on shared parental leave.
+
+(3) Regulations may provide that, where all the conditions in subsection (4) are satisfied in relation to a person (“**the claimant**”), the claimant is to be entitled in accordance with the following provisions of this Part to payments to be known as “**statutory shared parental pay**”.
+
+(4) The conditions are—
+
+- (a) that the claimant and another person (“M”) who is the mother of a child satisfy prescribed conditions as to caring or intending to care for the child,
+- (b) that the claimant satisfies—
+  - (i) prescribed conditions as to relationship with the child, or
+  - (ii) prescribed conditions as to relationship with M,
+- (c) that M satisfies prescribed conditions—
+  - (i) as to employment or self-employment, and
+  - (ii) as to having earnings of a prescribed amount for a prescribed period,
+- (d) that the claimant has been in employed earner's employment with an employer for a continuous period of at least the prescribed length ending with a prescribed week,
+- (e) that the claimant's normal weekly earnings for a prescribed period ending with a prescribed week are not less than the lower earnings limit in force under section 5(1)(a) at the end of that week,
+- (f) if regulations so provide, that the claimant continues in employed earner's employment (whether or not with the employer by reference to whom the condition in paragraph (d) is satisfied) until a prescribed time,
+- (g) that M became entitled, by reference to the birth of the child, to—
+  - (i) a maternity allowance, or
+  - (ii) statutory maternity pay,
+- (h) that M satisfies prescribed conditions as to—
+  - (i) the reduction of the duration of the maternity allowance period, or
+  - (ii) the reduction of the duration of the maternity pay period, as the case may be,
+- (i) that the claimant has given the person who will be liable to pay statutory shared parental pay to the claimant notice of—
+  - (i) the number of weeks in respect of which the claimant would be entitled to claim statutory shared parental pay in respect of the child if the entitlement were fully exercised (disregarding for these purposes any intention of M to claim statutory shared parental pay in respect of the child),
+  - (ii) the number of weeks in respect of which the claimant intends to claim statutory shared parental pay, and
+  - (iii) the number of weeks in respect of which M intends to claim statutory shared parental pay,
+- (j) that the claimant has given the person who will be liable to pay statutory shared parental pay to the claimant notice of the period or periods during which the claimant intends to claim statutory shared parental pay in respect of the child,
+- (k) that a notice under paragraph (i) or (j)—
+  - (i) is given by such time as may be prescribed, and
+  - (ii) satisfies prescribed conditions as to form and content,
+- (l) that M consents to the extent of the claimant's intended claim for statutory shared parental pay,
+- (m) that it is the claimant's intention to care for the child during each week in respect of which statutory shared parental pay is paid to the claimant,
+- (n) that the claimant is absent from work during each week in respect of which statutory shared parental pay is paid to the claimant,
+- (o) that, where the claimant is an employee within the meaning of the Employment Rights Order, the claimant's absence from work during each such week is absence on shared parental leave.
+
+## Annotations
+
+[^key-604f3133e2a60f1eb77d1cdae586af7e]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZC) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/d)

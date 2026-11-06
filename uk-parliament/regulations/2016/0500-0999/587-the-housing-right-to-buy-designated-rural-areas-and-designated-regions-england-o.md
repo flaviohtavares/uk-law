@@ -1,0 +1,138 @@
+---
+title: The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2016
+id: uksi/2016/587
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-05-16'
+text_date: '2021-11-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2016/587
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/587/pdfs/uksiem_20160587_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/587/pdfs/uksi_20160587_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/587/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2016
+
+> Text as at 2021-11-29.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2016 No. 587
+
+Housing, England
+
+The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2016
+
+Made
+
+16th May 2016
+
+Laid before Parliament
+
+19th May 2016
+
+Coming into force
+
+20th June 2016
+
+The Secretary of State, in exercise of the powers conferred by section 157(1)(c) and (3) of the Housing Act 1985[^f00001], makes the following Order:
+
+## 1. Citation, commencement and interpretation[^key-48fbc805e8e99bbdffb72ad6bf7dc497]
+
+This Order may be cited as the Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2016 and comes into force on 20th June 2016.
+
+**2.**[^key-8b2c96395cc788f0c538a809ad640215] In this Order “the Act” means the Housing Act 1985.
+
+## 3. Designated rural areas[^key-265b25bf0f4daff7dbf05f78bf096c60]
+
+The areas specified in the Schedule are designated as rural areas for the purposes of section 157 of the Act.
+
+## 4. Designated regions[^key-044da2548d58ba4ce587d95386bb3f26]
+
+In relation to a dwelling-house which is situated in a rural area designated by article 3 and listed in paragraph 1 of the Schedule, the region designated for the purposes of section 157(3) of the Act is the district of Chichester.
+
+**5.**[^key-1dfb3d09cc5b4f5f06c4d146f22478a8] In relation to a dwelling-house which is situated in a rural area designated by article 3 and listed in paragraph 2 of the Schedule, the region designated for the purposes of section 157(3) of the Act is the district of Malvern Hills.
+
+**6.**[^key-897f363b0b937e149c80b7ba5db45a60] In relation to a dwelling-house which is situated in a rural area designated by article 3 and listed in paragraph 3 of the Schedule, the region designated for the purposes of section 157(3) of the Act is the area of the council of the county of Shropshire[^f00002].
+
+**7.**[^key-29a97537a7847f661e74b10c08305510] In relation to a dwelling-house which is situated in a rural area designated by article 3 and listed in paragraph 4 of the Schedule, the region designated for the purposes of section 157(3) of the Act is the district of Wychavon.
+
+## 8. Review[^key-9d000576d64f7f60538ebe1f6a440921]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by the authority of the Secretary of State for Communities and Local Government
+
+Brandon Lewis
+
+Minister of State
+
+Department for Communities and Local Government
+
+16th May 2016
+
+## SCHEDULE — Designation of rural areas
+
+Article 3
+
+**1.**[^key-5b1b104198f51948491d9a193c4f7366] In the district of Chichester, the parishes of Apuldram, Birdham, Bosham, Boxgrove, Chidham and Hambrook, Earnley, Eartham, Ebernoe, Funtington, Kirdford, Lavant, Linchmere, Loxwood, North Mundham, Northchapel, Oving, Petworth, Plaistow & Ifold, Sidlesham, Stoughton, West Wittering, Westhampnett and Wisborough Green.
+
+**2.**[^key-a7a33355df93fa7def6af3a46a517b1f] In the district of Malvern Hills, the parishes of Abberley, Alfrick, Astley and Dunley, Bayton, Berrow, Birtsmorton, Bockleton, Bransford, Broadheath, Broadwas, Bushley, Castlemorton, Clifton upon Teme, Cotheridge, Croome D’Abitot, Doddenham, Earl’s Croome, Eastham, Eldersfield, Great Witley, Grimley, Guarford, Hallow, Hanley, Hanley Castle, Hill Croome, Hillhampton, Holdfast, Holt, Kempsey, Kenswick, Knighton on Teme, Knightwick, Kyre, Leigh, Lindridge, Little Witley, Longdon, Lower Sapey, Lulsley, Madresfield, Mamble, Martley, Newland, Pendock, Pendock (DET), Pensax, Powick, Queenhill, Ripple, Rochford, Rushwick, Severn Stoke, Shelsley Beauchamp, Shelsley Kings, Shelsley Walsh, Shrawley, Stanford with Orleton, Stockton on Teme, Stoke Bliss, Suckley, Tenbury, Upton-upon-Severn, Welland and Wichenford.
+
+**3.**[^key-837d063eabdb713bce7b18f9d3c4c341] In the area of the council of the county of Shropshire, the parishes of Acton Burnell, Acton Round, Adderley, Alderbury with Cardeston, Alveley, Ashford Bowdler, Ashford Carbonel, Astley Abbotts, Astley, Aston Eyre, Atcham, Badger, Barrow, Baschurch, Beckbury, Berrington, Bicton, Billingsley, Boningale, Boraston, Boscobel, Burford, Chelmarsh, Cheswardine, Chetton, Child’s Ercall, Claverley, Cleobury Mortimer, Clive, Cockshutt, Condover, Cound, Deuxhill, Donington, Eardington, Ellesmere Rural, Ford, Glazeley, Gobowen, Selattyn and Weston Rhyn, Great Hanwood, Great Ness, Greete, Grinshill, Hadnall, Hinstock, Hodnet, Hordley, Ightfield, Kemberton, Kinlet, Kinnerley, Knockin, Little Ness, Llanyblodwel, Llanymynech and Pant, Loppington, Ludford, Melverley, Middleton Scriven, Milson, Montford, Moreton Corbet and Lee Brockburst, Moreton Say, Morville, Myddle and Broughton, Neen Savage, Neen Sollars, Neenton, Norton in Hales, Oswestry Rural, Petton, Pimhill, Pitchford, Prees, Quatt Malvern, Richard’s Castle, Romsley, Rudge, Ruyton-XI-Towns, Ryton, Shawbury, Sheriffhales, Sidbury, St. Martins, Stanton upon Hine Heath, Stockton, Stoke upon Tern, Stottesdon, Sutton Maddock, Sutton upon Tern, Tasley, Tong, Uffington, Upton Cressett, Upton Magna, Welshampton and Lyneal, Wem Rural, West Felton, Westbury, Weston Rhyn, Weston-under-Redcastle, Whitchurch Rural, Whittington, Whixall, Withington, Woore and Worfield.
+
+**4.**[^key-c34562877412c2a6d0b6645a798450ab] In the district of Wychavon, the parishes of Abberton, Abbots Morton, Aldington, Ashton under Hill, Aston Somerville, Beckford, Besford, Bickmarsh, Birlingham, Bishampton, Bredicot, Bredon, Bredon’s Norton, Bretforton, Bricklehampton, Broadway, Broughton Hackett, Charlton, Childswickham, Church Lench, Churchill, Cleeve Prior, Conderton, Cookhill, Cropthorne, Crowle, Defford, Dodderhill, Dormston, Doverdale, Drakes Broughton and Wadborough, Eckington, Elmbridge, Elmley Castle, Elmley Lovett, Fladbury, Flyford Flavell, Grafton Flyford, Great Comberton, Hadzor, Hampton Lovett, Hanbury, Hartlebury, Hill and Moor, Himbleton, Hindlip, Hinton on the Green, Honeybourne, Huddington, Inkberrow, Kemerton, Kington, Little Comberton, Martin Hussingtree, Naunton Beauchamp, Netherton, North and Middle Littleton, North Piddle, Norton and Lenchwick, Oddingley, Ombersley, Overbury, Pebworth, Peopleton, Pinvin, Pirton, Rous Lench, Salwarpe, Sedgeberrow, Spetchley, Stock and Bradley, Stoulton, Strensham, Throckmorton, Tibberton, Upton Snodsbury, Upton Warren, Westwood, White Ladies Aston, Whittington, Wick and Wickhamford.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates the parishes listed in the Schedule to the Order as rural areas under section 157(1)(c) of the Housing Act 1985 (“the Act”), and provides for each of the regions of Chichester, Malvern Hills, Shropshire and Wychavon to be a designated region under section 157(3) of the Act in relation to dwelling-houses in the designated rural areas falling within the district.
+
+Where a dwelling-house in a designated rural area is sold under the right to buy, the vendor may—
+
+- (a) impose a covenant requiring its consent to any further disposal unless it is an exempted disposal under section 160 of the Act (that consent cannot be withheld if the disposal is to a person who has throughout the preceding 3 years had his only or principal home or place of work in a designated region which, or part of which, is comprised in the designated rural area) (section 157(3) of the Act); or
+- (b) reserve a right of pre-emption if the Secretary of State or, if the vendor is a housing association, the Regulator of Social Housing, consents (section 156A(8) of the Act as inserted by section 188 of the Housing Act 2004).
+
+Similar covenants as to consent or rights of pre-emption may be imposed in relation to dwelling-houses in the areas designated by this Order that are sold voluntarily under section 32 of the Act.
+
+A full impact assessment has not been produced for this instrument as no significant impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1985. c. 68](https://www.legislation.gov.uk/ukpga/1985/68). Section 157(1) was amended by Part 4 of Schedule 18 to the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), by paragraph 9 of Part 1 of Schedule 15 to the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37) and by section 188 of the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34). Section 157(3) was amended by section 126 of the Housing Act [1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50). There are other amendments to section 157 which are not relevant to this Order.
+
+[^key-48fbc805e8e99bbdffb72ad6bf7dc497]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^key-8b2c96395cc788f0c538a809ad640215]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/587/article/2) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^key-265b25bf0f4daff7dbf05f78bf096c60]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2016/587/article/3) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^key-044da2548d58ba4ce587d95386bb3f26]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2016/587/article/4) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^key-1dfb3d09cc5b4f5f06c4d146f22478a8]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2016/587/article/5) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^key-897f363b0b937e149c80b7ba5db45a60]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2016/587/article/6) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^f00002]: Footnote: Established by [S.I. 2008/492](https://www.legislation.gov.uk/uksi/2008/492).
+
+[^key-29a97537a7847f661e74b10c08305510]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2016/587/article/7) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^key-9d000576d64f7f60538ebe1f6a440921]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2016/587/article/8) revoked (29.11.2021) by [The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2021 (S.I. 2021/1222)](https://www.legislation.gov.uk/uksi/2021/1222), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1), [4](https://www.legislation.gov.uk/uksi/2021/1222/article/4)
+
+[^key-5b1b104198f51948491d9a193c4f7366]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2016/587/schedule/paragraph/1) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^key-a7a33355df93fa7def6af3a46a517b1f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2016/587/schedule/paragraph/2) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^key-837d063eabdb713bce7b18f9d3c4c341]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2016/587/schedule/paragraph/3) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)
+
+[^key-c34562877412c2a6d0b6645a798450ab]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2016/587/schedule/paragraph/4) in force at 20.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/587/article/1)

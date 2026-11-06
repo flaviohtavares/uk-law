@@ -1,0 +1,69 @@
+---
+title: Sanctions and Anti-Money Laundering Act 2018, section 15
+act: Sanctions and Anti-Money Laundering Act 2018
+section: '15'
+status: revised-with-pending-changes
+text_date: '2026-10-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2018/13/section/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Sanctions and Anti-Money Laundering Act 2018, section 15
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 15. Exceptions and licences[^key-59b7d1daeddaab4c5bd2e9f533a2cdc8]
+
+*Extent: E+W+S+N.I.*
+
+(1) In this section “**regulations**” means regulations under section 1.
+
+(2) Regulations may—
+
+- (a) create exceptions to any prohibition or requirement imposed by the regulations;
+- (b) provide for a prohibition imposed by the regulations not to apply to anything done under the authority of a licence issued by an appropriate Minister specified in the regulations;
+- (c) provide for a requirement imposed by the regulations to be subject to such exceptions as an appropriate Minister specified in the regulations may direct.
+
+(3) Regulations may, as respects any licences or directions provided for under subsection (2)(b) or (c)—
+
+- (a) provide that a licence or direction may be general or issued to a category of persons or a particular person;
+- (b) provide that a licence or direction must specify what is authorised by the licence or excepted by the direction;
+- (c) make provision as to what may, or may not, be authorised by a licence or excepted by a direction;
+- (d) provide that a licence or direction may contain conditions;
+- (e) provide that a licence or direction may not be issued unless criteria specified by the regulations are met;
+- (f) make provision as to the duration of licences or directions, which may enable them to be of indefinite duration or a defined duration;
+- (g) make provision enabling licences or directions to be varied, revoked or suspended;
+- (h) make provision as to notifications or publicity to be given in connection with licences or directions.
+
+(3A)[^key-0d794cccfd1a08f7b56e221ae4125b6a] Where regulations provide for designated persons to be persons subject to director disqualification sanctions for the purposes of section 11A of the Company Directors Disqualification Act 1986 and Article 15A of the Company Directors Disqualification (Northern Ireland) Order 2002, the regulations may—
+
+- (a) create exceptions from subsection (1) of that section or paragraph (1) of that Article;
+- (b) confer power on an appropriate Minister to issue a licence to authorise a designated person to do anything that would otherwise be prohibited by subsection (1) of that section or paragraph (1) of that Article.
+
+(3B) Regulations may, as respects any licences provided for under subsection (3A), make any provision mentioned (in relation to licences) in subsection (3).
+
+(4) Where regulations provide for designated persons to be excluded persons for the purposes of section 8B of the Immigration Act 1971, the regulations may—
+
+- (a) create exceptions from subsections (1) to (3) of that section in relation to any person who under the regulations is an excluded person (a “relevant person”);
+- (b) authorise an appropriate Minister specified in the regulations to direct that, in relation to any relevant person specified, or of a description specified, in the direction, subsections (1) to (3) of that section have effect subject to exceptions specified in the direction.
+
+(5) Regulations may, as respects any directions provided for under subsection (4)(b), make any provision mentioned (in relation to directions) in subsection (3)(d) to (h).
+
+(6) The exceptions that may be created under subsection (2)(a) include exceptions in relation to acts done for the purposes of—
+
+- (a) national security;
+- (b) the prevention or detection of serious crime in the United Kingdom or elsewhere.
+
+In this subsection “**act**” includes an omission.
+
+(7) Nothing in subsection (6) is to be taken to limit subsection (2).
+
+## Annotations
+
+[^key-59b7d1daeddaab4c5bd2e9f533a2cdc8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/13/section/15) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+
+[^key-0d794cccfd1a08f7b56e221ae4125b6a]: Textual amendment: [S. 15(3A)](https://www.legislation.gov.uk/ukpga/2018/13/section/15/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2018/13/section/15/3B) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 35(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/35/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/y)

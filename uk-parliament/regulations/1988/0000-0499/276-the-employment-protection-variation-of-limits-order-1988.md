@@ -1,0 +1,113 @@
+---
+title: The Employment Protection (Variation of Limits) Order 1988
+id: uksi/1988/276
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1988-02-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1988/276
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/276/pdfs/uksi_19880276_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/276/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment Protection (Variation of Limits) Order 1988
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1988 No. 276
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Employment Protection (Variation of Limits) Order 1988
+
+Made
+
+18th February 1988
+
+Coming into force
+
+1st April 1988
+
+Whereas in accordance with section 148 of the Employment Protection (Consolidation) Act 1978[^f00001] (“the 1978 Act”) the Secretary of State has reviewed the limits referred to in sections 15 and 122(5) of, and the limits imposed by paragraph 8(1) of Schedule 14 to, the 1978 Act[^f00002]:
+
+And whereas the Secretary of State having regard to the considerations mentioned in section 148(2) of the 1978 Act has determined that certain of those limits shall be varied as hereinafter provided:
+
+And whereas a draft of the following Order was laid before Parliament in accordance with section 148(3) of the 1978 Act and approved by resolution of each House of Parliament:
+
+Now, therefore, the Secretary of State in exercise of the powers conferred on him by sections 15(5), 122(6), 148, 154(3) and (4) of, and paragraph 8(2), (3) and (4) of Schedule 14 to, the 1978 Act[^f00003] and of all other powers enabling him in that behalf hereby makes the following Order:—
+
+## 1. Citation, commencement and revocation
+
+(1) This Order may be cited as the Employment Protection (Variation of Limits) Order 1988 and shall come into force on 1st April 1988.
+
+(2) Subject to article 3(6) below, the Employment Protection (Variation of Limits) Order 1986[^f00004] is revoked.
+
+## 2. Variation of limits
+
+Subject to article 3 below, each limit specified in columns 1 and 2 of the Table below is varied by the substitution of the new figure in column 3 for the old figure in column 4.
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th><th><em>Column 4</em></th></tr>
+<tr><th><em>Provision</em></th><th><em>Nature of Limit</em></th><th><em>New figure</em></th><th><em>Old figure</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1. Section 15(1) of the 1978 Act.</td><td>Limit on amount of guarantee payment payable to an employee in respect of any day.</td><td>£11.30</td><td>£10.90</td></tr>
+<tr><td>2. Section 122 (5) of the 1978 Act.</td><td>Limit on amount payable to an employee in respect of any debt mentioned in section 122(3) of the 1978 Act where that debt is referable to a period of time.</td><td>£164.00</td><td>£158.00</td></tr>
+<tr><td>3. Paragraph 8(1)(a) of Schedule 14 to the 1978 Act.</td><td>Limit on amount of “a week’s pay” for the purpose of calculating additional award of compensation where employer fails to comply with order for reinstatement or re-engagement under section 69 of the 1978 Act.</td><td>£164.00</td><td>£158.00</td></tr>
+<tr><td>4. Paragraph 8(1)(b) of Schedule 14 to the 1978 Act.</td><td>Limit on amount of “a week’s pay” for the purpose of calculating basic award of compensation for unfair dismissal under section 73 of the 1978 Act.</td><td>£164.00</td><td>£158.00</td></tr>
+<tr><td>5. Paragraph 8(1)(c) of Schedule 14 to the 1978 Act.</td><td>Limit on amount of “a week’s pay” for the purpose of calculating redundancy payment.</td><td>£164.00</td><td>£158.00</td></tr>
+</tbody>
+</table>
+
+## 3. Supplementary and transitional provisions
+
+(1) The variation specified in item 1 of the Table in article 2 above shall have effect as respects any day in respect of which an employee becomes entitled to a guarantee payment after this Order comes into force.
+
+(2) The variation specified in item 2 of the Table in article 2 above shall have effect where the relevant date (as defined in section 122(2) of the 1978 Act[^f00005]) falls after this Order comes into force.
+
+(3) The variation specified in item 3 of the Table in article 2 above shall have effect as respects an employer’s failure to comply with an order for reinstatement or re-engagement where the date (specified under section 69(2)(c) or, as the case may be, section 69(4)(f) of the 1978 Act) by which the order must be complied with falls after this Order comes into force.
+
+(4) The variation specified in item 4 of the Table in article 2 above shall have effect where the effective date of termination as defined in section 55(4) or, where applicable, section 55(5) or 55(6) of the 1978 Act[^f00006] falls after this Order comes into force.
+
+(5) The variation specified in item 5 of the Table in article 2 above shall have effect—
+
+- (a) as respects a lay-off or a keeping on short-time where the relevant date (as defined in section 90(2) of the 1978 Act) falls after this Order comes into force; and
+- (b) as respects a dismissal where the relevant date (as defined in section 90(1) or 90(3) of the 1978 Act) falls after this Order comes into force.
+
+(6) Nothing in this Order affects any limit otherwise than as provided by the foregoing provisions of this article and accordingly the limits operative under the Order mentioned in article 1(2) above continue to apply in cases not falling within those provisions.
+
+Signed by order of the Secretary of State.
+
+John Cope
+
+Minister of State,
+
+Department of Employment
+
+18th February 1988
+
+(This note is not part of the Order)
+
+This Order, which comes into force on 1st April 1988, varies certain of the limits which are required to be reviewed annually by the Secretary of State under section 148 of the Employment Protection (Consolidation) Act 1978. The limit on the amount of guarantee payment payable under section 15(1) of the 1978 Act in respect of any day is increased from £10.90 to £11.30. The limit on the amount for the purpose of calculating the sum payable by the Secretary of State under section 122 of the 1978 Act in respect of a debt due to an employee whose employer becomes insolvent is increased from £158 to £164. The limits on the amount of “a week’s pay” for the purposes of calculating redundancy payments and basic and additional awards of compensation for unfair dismissal are increased from £158 to £164.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44).
+
+[^f00002]: Footnote: These limits were last varied by [S.I. 1986/2283](https://www.legislation.gov.uk/uksi/1986/2283).
+
+[^f00003]: Footnote: Paragraph 8(3) was amended by paragraph 30(3) of Schedule 3 to the Employment Act [1982 (c. 46)](https://www.legislation.gov.uk/ukpga/1982/46).
+
+[^f00004]: Footnote: [S.I. 1986/2283](https://www.legislation.gov.uk/uksi/1986/2283).
+
+[^f00005]: Footnote: Section 122(2) was amended by section 218(3) of the Insolvency Act [1985 (c. 65)](https://www.legislation.gov.uk/ukpga/1985/65).
+
+[^f00006]: Footnote: Section 55(5) was amended, and section 55(6) inserted, by paragraph 1 of Schedule 3 to the Employment Act 1982.

@@ -1,0 +1,50 @@
+---
+title: The Civil Procedure Rules 1998, section 76.25
+act: The Civil Procedure Rules 1998
+section: '76.25'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1998/3132/section/76.25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Procedure Rules 1998, section 76.25
+
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/uksi/1998/3132
+>
+> Extent: England, Wales.
+
+## 76.25. Special advocate: communicating about proceedings[^key-aff08cb562443cad7c83cb0da0e8e7a6]
+
+*Extent: E+W*
+
+(1) The special advocate may communicate with the relevant party or his legal representative at any time before the Secretary of State serves closed material on him.
+
+(2) After the Secretary of State serves closed material on the special advocate, the special advocate must not communicate with any person about any matter connected with the proceedings, except in accordance with paragraph (3) or a direction of the court pursuant to a request under paragraph (4).
+
+(3) The special advocate may, without directions from the court, communicate about the proceedings with—
+
+- (a) the court;
+- (b) the Secretary of State, or any person acting for him;
+- (c) the Attorney General[^key-cc7bfa1ac09760a6a55893f0390887fa], or any person acting for him; or
+- (d) any other person, except for the relevant party or his legal representative, with whom it is necessary for administrative purposes for him to communicate about matters not connected with the substance of the proceedings.
+
+(4) The special advocate may request directions from the court authorising him to communicate with the relevant party or his legal representative or with any other person.
+
+(5) Where the special advocate makes a request for directions under paragraph (4)—
+
+- (a) the court must notify the Secretary of State of the request; and
+- (b) the Secretary of State must, within a period specified by the court, file with the court and serve on the special advocate notice of any objection which he has to the proposed communication, or to the form in which it is proposed to be made.
+
+(6) Paragraph (2) does not prohibit the relevant party from communicating with the special advocate after the Secretary of State has served material on him as mentioned in paragraph (1), but—
+
+- (a) the relevant party may only communicate with the special advocate through a legal representative in writing; and
+- (b) the special advocate must not reply to the communication other than in accordance with directions of the court, except that he may without such directions send a written acknowledgment of receipt to the legal representative of the relevant party.
+
+## Annotations
+
+[^key-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
+
+[^key-cc7bfa1ac09760a6a55893f0390887fa]: Textual amendment: Words in [rule 76.25(3)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.25/3/c) substituted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rules 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [10(d)](https://www.legislation.gov.uk/uksi/2007/3543/rule/10/d)

@@ -1,0 +1,201 @@
+---
+title: The Fodder Plant Seeds (Amendment) Regulations 1987
+id: uksi/1987/1092
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-06-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/1092
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/1092/pdfs/uksi_19871092_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/1092/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fodder Plant Seeds (Amendment) Regulations 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 1092
+
+SEEDS
+
+The Fodder Plant Seeds (Amendment) Regulations 1987
+
+Made
+
+24th June 1987
+
+Laid before Parliament
+
+6th July 1987
+
+Coming into force
+
+27th July 1987
+
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred by sections 16(1), (1A), (2), (3), (4), (5) and (8), 17(1), (2), (3) and (4) and 36 of the Plant Varieties and Seeds Act 1964[^f00001] and now vested in them[^f00002] and of all other powers enabling them in that behalf, after consultation in accordance with the said section 16(1) with representatives of such interests as appear to them to be concerned, hereby make the following Regulations:
+
+## 1. Title and commencement
+
+These Regulations may be cited as the Fodder Plant Seeds (Amendment) Regulations 1987 and shall come into force on 27th July 1987.
+
+## 2. Amendment
+
+(1) The Fodder Plant Seeds Regulations 1985[^f00003] shall be amended in accordance with the following provisions of this regulation.
+
+(2) In regulation 3 (interpretation)—
+
+- (a) in paragraph (3)—
+  - (i) in sub-paragraph (b) of the definitions of “Pre-basic Seed”, “Basic Seed” and “Certified Seed of the First Generation” for the words “First, Second or Third Generations” there shall be substituted the words “First or Second Generation”,
+  - (ii) for the definition of “Certified Seed of the Second Generation” there shall be substituted the following definition—
+
+    > “Certified Seed of the Second Generation” means seeds of field peas or field beans—
+    >
+    > - (a) which have been produced directly from Basic Seed, Certified Seed of the First Generation or, with the written authority of the maintainer and the Minister, from Pre-basic Seed,
+    > - (b) which are intended for the production of plants, and
+    > - (c) which satisfy the requirements for Certified Seed of the Second Generation set out in Schedule 4 and in respect of which an official certificate has been issued in accordance with Schedule 2;
+
+    ,
+  - (iii) the definition of “Certified Seed of the Third Generation” shall be omitted, and
+  - (iv) in the definition of “Commercial Seed” in the column headed “*Legumes*” the words “Field bean” shall be omitted; and
+- (b) in paragraph (4) for the words “regulation 5(1)(b)(ii) or (iii) below” there shall be substituted the words “regulation 5(1)(b), (c) or (d) below”.
+
+(3) In regulation 5 (marketing of seeds)—
+
+- (a) for paragraph (1) there shall be substituted the following paragraph—
+
+  > (1) Subject to the provisions of this regulation, no person shall market any seeds unless they are marketed in seed lots or in parts of seed lots and unless they are—
+  >
+  > - (a) Commercial Seed, or
+  > - (b) seeds of plant varieties which may, for the time being, be marketed in accordance with regulation 31 of the Seeds (National Lists of Varieties) Regulations 1982 and which are Breeder’s Seed, Pre-basic Seed, Basic Seed, Certified Seed, Certified Seed of the First Generation or Certified Seed of the Second Generation, or
+  > - (c) seeds which have been produced and packaged in a Member State other than the United Kingdom, which have been labelled appropriately in accordance with the requirements of regulation 9(1), (2), (3), (4), (5), (6) and (8) and which—
+  >   - (i) in the case of a small package of seeds, a small EEC A package of seeds or a small EEC B package of seeds, have been sealed in accordance with the requirements of regulation 8(3), or
+  >   - (ii) in the case of all other seeds, have been officially sealed in a Member State other than the United Kingdom, or
+  > - (d) seeds which have been produced elsewhere than in a Member State and which are marketed in accordance with, and subject to, the conditions imposed by a general licence granted by the Ministers under the authority of this sub-paragraph, which licence shall have effect during the period specified in it unless the Ministers earlier revoke it.
+
+  ;
+- (b) in paragraph (3)(a)—
+  - (i) the words “Certified Seed of the Third Generation” shall be omitted, and
+  - (ii) for the words “in Schedule 4” there shall be substituted the words “in Schedule 4 or Schedule 5,”;
+- (c) in paragraph (3)(e) for the words “or Certified Seed of the Third Generation” there shall be substituted the words “or seeds of any kind as Certified Seed of the Third Generation,”;
+- (d) in paragraph (9) for the words “Basic Seed, Certified Seed of the First Generation or Certified Seed of the Second Generation” there shall be substituted the words “Basic Seed or Certified Seed of the First Generation”; and
+- (e) after paragraph (13) there shall be inserted the following paragraph—
+
+  > **14)** In paragraph (3)(e) above “Certified Seed of the Third Generation” means seeds—
+  >
+  > - (a) which have been produced directly from Basic Seed, Certified Seed, Certified Seed of the First or Second Generation or, with the written authority of the maintainer and the Minister, from Pre-basic Seed, and
+  > - (b) which are intended for the production of plants.
+
+  .
+
+(4) In regulations 6(1) (official certificates), 8(1) (sealing of packages), 9(2)(a) and (3) (labelling of packages) and in paragraph 1 of Schedule 2 (official certificates) the words “Certified Seed of the Third Generation” shall be omitted.
+
+(5) In Schedule 4 (requirements for basic seed, certified seed, certified seed of the first, second and third generations and commercial seed)—
+
+- (a) in the heading, for the words “FIRST, SECOND AND THIRD GENERATIONS” there shall be substituted the words “FIRST AND SECOND GENERATIONS”;
+- (b) in Part I—
+  - (i) after paragraph 6 there shall be inserted the following paragraph—
+
+    > **6A.** Field pea crops grown for the production of Pre-basic Seed, Basic Seed, Certified Seed of the First Generation or Certified Seed of the Second Generation shall be isolated by 50 metres, throughout their whole growing period, from all other pea crops not being grown for such production
+
+    .,
+  - (ii) for paragraph 7(b) there shall be substituted the following paragraph—
+
+    > <table>
+    > <thead>
+    > <tr><th></th><th colspan="2"><em>Crop Area</em></th></tr>
+    > </thead>
+    > <tbody>
+    > <tr><td>(b) Field beans. Crops to produce—</td><td>up to 2 hectares</td><td>over 2 hectares</td></tr>
+    > <tr><td>Basic Seed and Certified Seed 1st generation</td><td>200m</td><td>100m</td></tr>
+    > <tr><td>Certified Seed 2nd generation</td><td>100m</td><td>50m</td></tr>
+    > </tbody>
+    > </table>
+
+    , and
+  - (iii) in paragraph 8, in the heading of the table for the words “First, Second and Third Generations” there shall be substituted the words “First and Second Generations”;
+- (c) in Part II—
+  - (i) in paragraph 1 for the words “First, Second and Third Generations” there shall be substituted the words “First and Second Generations”,
+  - (ii) after paragraph 4 there shall be inserted the following paragraph—
+
+    > **4A. Pea bacterial blight**
+    >
+    > For each seed lot of Breeder’s Seed, Pre-basic Seed, Basic Seed and Certified Seed of the First Generation of field peas 1 kg shall be officially examined from a submitted sample of 2 kg thereof for the presence of*Pseudomonas syringae* p.v.*pisi* infection and the level of infection therefrom found to be nil.
+
+    ,
+  - (iii) in paragraph 5, in the heading of column (6) of the second table for the words “First, Second and Third Generations” there shall be substituted the words “First and Second Generations”,
+  - (iv) in paragraph 5, in column (7) of the second table for the entry “1.5” in relation to Field bean there shall be substituted the entry “e”,
+  - (v) in paragraph 6, in the heading of column (14) of the second table for “1st, 2nd or 3rd Generations” there shall be substituted “1st or 2nd Generations”, and
+  - (vi) in paragraph 6, in column (15) of the second table for the entry “1.3” in relation to Field beans there shall be substituted the entry “t”; and
+- (d) at the end of Part III there shall be added the following—
+
+  > **PEA BACTERIAL BLIGHT STANDARDS**
+  >
+  > Certified Seed of the Second Generation shall be free from*Pseudomonas syringae* p.v.*pisi* infection
+
+  .
+
+(6) In Schedule 5 (sampling of seed lots)—
+
+- (a) in Part I—
+  - (i) in paragraph 9, after the words “automatic sampling device” there shall be inserted the words “approved by the Minister”, and
+  - (ii) in paragraph 11(i), in the table after the words “vetches, sainfoin (fruit)” there shall be added the words “ryegrasses, cocksfoot, tall and meadow fescues and tall oatgrass”, and
+- (b) in Part II—
+  - (i) after the words “The maximum weight of a seed lot and minimum weight of a submitted sample shall be as indicated below” there shall be inserted the words “save that the maximum lot weights in paragraphs a., b. and c. below may be exceeded by not more than 5%:—”, and
+  - (ii) in paragraph a.(ii) for “1st, 2nd and 3rd Generations” there shall be substituted “1st and 2nd Generations”.
+
+(7) In Part I of Schedule 6 (official labels)—
+
+- (a) in the heading of paragraph C for the words “FIRST, SECOND AND THIRD GENERATIONS” there shall be substituted the words “FIRST AND SECOND GENERATIONS”,
+- (b) in paragraphs C(a)11 and (c) for the words “Certified Seed of the Second and Third Generations” there shall be substituted the words “Certified Seed of the Second Generation”, and
+- (c) in the heading of paragraph F for the word “ON” there shall be substituted the word “IN”.
+
+In Witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 22nd June 1987.
+
+John MacGregor
+
+Minister of Agriculture, Fisheries and Food
+
+Sanderson of Bowden
+
+Minister of State, Scottish Office
+
+24th June 1987
+
+Peter Walker
+
+Secretary of State for Wales
+
+24th June 1987
+
+(This note is not part of the Regulations)
+
+These Regulations, which amend the Fodder Plant Seeds Regulations 1985, implement article 2 of Commission Directive [87/120/EEC](https://www.legislation.gov.uk/european/directive/1987/0120) (OJ No. L49, 18.2.87, p.41) in so far as it amends Annex III of Council Directive [66/401/EEC](https://www.legislation.gov.uk/european/directive/1966/0401) (OJ No. 125, 11.7.66, p.2298/66) (OJ/SE 1965—66, p.132) (as amended) on the marketing of fodder plant seeds by providing that the maximum weight of a seed lot, set out in that Annex, from which a sample is to be drawn for certification shall not be exceeded by more than 5% (regulation 6(b)(ii)).
+
+These Regulations also implement article 1 of Commission Directive [86/109/EEC](https://www.legislation.gov.uk/european/directive/1986/0109) (OJ No. L93, 8.4.86, p.21) in so far as it amends Council Directive [66/401/EEC](https://www.legislation.gov.uk/european/directive/1966/0401) by prohibiting the placing on the market in Member States seed of*Vicia faba* L. (partim) (field bean) of the Commercial seed category (regulation 2(2)(a)(iv)).
+
+The other changes of substance made by these Regulations to the 1985 Regulations are—
+
+(1) the omission of provisions enabling seeds of field peas and field beans to be marketed as Certified Seed of the Third Generation;
+
+(2) the alteration of the isolation distances for field beans grown to produce Certified Seed of the Second Generation (regulation 2(5)(b)(ii);
+
+(3) the inclusion of a requirement that field pea crops must be isolated by 50 metres, throughout the whole of their growing period, from all other kinds of pea crops (regulation 2(5)(b)(i));
+
+(4) the inclusion of a requirement that a sample of field peas must be found to be free from*Pseudomonas syringae* p.v.*pisi*(pea bacterial blight) infection before they can be certified as Breeder’s Seed, Pre-basic Seed, Basic Seed or Certified Seed of the First Generation (regulation 2(5)(c)(ii)) and the inclusion of a marketing standard of freedom from pea bacterial blight for Certified Seed of the Second Generation (regulation 2(5)(d)); and
+
+(5) the inclusion of a requirement that a sample of seeds taken from a seed stream during processing for the purposes of an official examination shall be taken by an automatic sampling device approved by the Minister (regulation 2(6)(a)(i)).
+
+## Annotations
+
+[^f00001]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14); section 16 was amended by the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), section 4(1) and paragraph 5(1), (2) and (3) of Schedule 4.
+
+[^f00002]: Footnote: In the case of the Secretary of State for Wales by virtue of S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272).
+
+[^f00003]: Footnote: S.I. [1985/975](https://www.legislation.gov.uk/uksi/1985/975).

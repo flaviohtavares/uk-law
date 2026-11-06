@@ -1,0 +1,713 @@
+---
+title: The Merchant Shipping (Safety of Navigation) Regulations 2020
+id: uksi/2020/673
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-07-09'
+text_date: '2025-12-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2020/673
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/673/pdfs/uksiem_20200673_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/673/pdfs/uksi_20200673_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/673/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Safety of Navigation) Regulations 2020
+
+> Text as at 2025-12-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2020 No. 673
+
+Merchant Shipping
+
+The Merchant Shipping (Safety of Navigation) Regulations 2020
+
+Made
+
+at 11.19 a.m. on 9th July 2020
+
+Laid before Parliament
+
+at 3.00 p.m. on 9th July 2020
+
+Coming into force
+
+31st July 2020
+
+The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], and in exercise of the powers conferred by sections 77(2) and (5), 85(1), (3)(a), (c), (d), (e), (f), (g), (h), (i), (k), (l), (n), (o), (p) and (q), and (5) to (7), 86(1)(a), (b), (c) and (d), 302(1) and 306A of that Act, and with the consent of the Treasury, makes the following Regulations.[^key-262d48e74e059667f6184cfd5fd65c05][^key-5000d80e82cfd7c77e3a60b594d428d2]
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement, amendments and revocations[^key-5bb5be2ef64f476c558565daa097ef5f]
+
+(1) These Regulations may be cited as the Merchant Shipping (Safety of Navigation) Regulations 2020 and come into force on 31st July 2020.
+
+(2) The amendments listed in Part 1 of the Schedule have effect.
+
+(3) The Regulations listed in the first column of the Table in Part 2 of the Schedule are revoked to the extent specified in the third column of that Table.
+
+### 2. Interpretation[^key-1ee2a5c43ae0d5f133622e69ce4832f0]
+
+In these Regulations—
+
+- “Chapter V” means Chapter V in the Annex to the Convention (relating to safety of navigation)[^f00002];
+- “Convention” means the International Convention for the Safety of Life at Sea, 1974[^f00003];
+- “international voyage” means a voyage between—
+  - (a) a port in the United Kingdom and a port outside the United Kingdom; or
+  - (b) a port in a Convention country (other than the United Kingdom) and a port in any other country or territory (whether a Convention country or not) which is outside the United Kingdom,
+
+  and, for the purposes of paragraph (b), “Convention country” means a country or territory which is either a country the Government of which is party to the Convention or a territory to which the Convention extends whether or not it is subject to the amendments to, or reservations in respect of, the Convention.
+
+### 3. Application[^key-2a7b332f7bc582a8e16201ddd73d80c3]
+
+(1) Subject to paragraphs (2) and (3), these Regulations apply to—
+
+- (a) United Kingdom ships, wherever they may be; and
+- (b) non-United Kingdom ships while they are within United Kingdom waters.
+
+(2) These Regulations do not apply to—
+
+- (a) ships of war and naval auxiliaries;
+- (b) ships owned or operated by a State and engaged only on governmental non-commercial service;
+- (c) ships solely navigating the Great Lakes of North America and their connecting and tributary waters as far east as the lower exit of the St. Lambert Lock at Montreal in the Province of Quebec, Canada;
+- (d) ships to which the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^f00004] apply;
+- (e) ships to which the Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010[^f00005] apply;
+- (f) vessels to which the Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010[^f00006] apply.
+
+(3) A non-United Kingdom ship flying the flag of a State which is not a party to the Convention is not subject to these Regulations if it would not have been in United Kingdom waters but for stress of weather or any other circumstances which neither the master nor the owner or the charterer could have prevented.
+
+(4) Where persons are on board a ship as a consequence of—
+
+- (a) the circumstances described in paragraph (3); or
+- (b) an obligation laid upon the master to carry shipwrecked or other persons[^f00007],
+
+those persons are not to be taken into account for the purpose of determining the application to that ship of any provision of these Regulations.
+
+(5) For the purposes of this regulation, “non-United Kingdom ship” means any ship other than a United Kingdom ship.
+
+### 4. Ambulatory reference[^key-316023667a15c2317891567aeaa6445e]
+
+(1) In these Regulations, any reference to Chapter V is to be construed—
+
+- (a) as a reference to Chapter V as modified from time to time; and
+- (b) as, if Chapter V is replaced, a reference to the replacement.
+
+(2) For the purposes of paragraph (1), Chapter V is modified or replaced if the modification or replacement takes effect in accordance with Article VIII of the Convention.
+
+(3) A modification or replacement of Chapter V has effect at the time such modification or replacement comes into force in accordance with Article VIII of the Convention.
+
+## PART 2 — Safety of navigation requirements
+
+### 5. Safety of navigation requirements[^key-8835f1bbd5ab567f4f8494e3fb6a7932]
+
+(1) A ship to which these Regulations apply must comply with each requirement in Chapter V applicable to that ship and referred to in paragraph (2).
+
+(2) Subject to paragraphs (3) and (4), the requirements referred to in paragraph (1) are those referred to in the following provisions in Chapter V—
+
+- (a) paragraph 3 of regulation 7 (on board plan for cooperation with search and rescue services);
+- (b) paragraph 7 of regulation 10 (use of ships’ routeing systems);
+- (c) paragraphs 1 and 7 of regulation 11 (ship reporting systems);
+- (d) paragraphs 3 and 4 of regulation 14 (ships’ manning);
+- (e) regulation 15 (principles relating to bridge design, design and arrangement of navigational systems and equipment and bridge procedures);
+- (f) paragraphs 2 and 3 of regulation 17 (electromagnetic compatibility);
+- (g) paragraphs 1 to 3 and 7 to 9 of regulation 18 (approval, surveys and performance standards of navigational systems and equipment and voyage data recorder);
+- (h) regulation 19 (carriage requirements for shipborne navigational systems and equipment), except for paragraphs 1.3, 2.2.4 and 2.4.4;
+- (i) paragraphs 4 to 7 of regulation 19-1 (long-range identification and tracking of ships);
+- (j) paragraphs 1 and 2 of regulation 20 (voyage data recorders);
+- (k) regulations 21 to 30[^f00008];
+- (l) paragraphs 1 and 4 of regulation 31 (danger messages);
+- (m) paragraphs 1, 2, 4 and 5 of regulation 32 (information required in danger messages);
+- (n) paragraphs 1, 2 and 6 of regulation 33 (distress situations: obligations and procedures);
+- (o) regulation 34 (safe navigation and avoidance of dangerous situations);
+- (p) regulation 34-1 (master’s discretion); and
+- (q) regulation 35 (misuse of distress signals).
+
+(3) The requirements referred to in paragraph (2) are subject to the following exceptions—
+
+- (a) regulations 18, 19 and 20 in Chapter V do not apply to high-speed craft to which the the Merchant Shipping (High Speed Craft) Regulations 2022[^key-12fc311878fb3eec30b4753a5040b04c] apply;
+- (b) in so far as they relate to systems and equipment regulated by regulations 19 and 20, paragraphs 1 to 3 and 7 to 9 of regulation 18 in Chapter V do not apply to ships below 150 gross tons engaged on any voyage;
+- (c) regulation 19 in Chapter V does not apply to—
+  - (i) fishing vessels;
+  - (ii) pleasure vessels below 150 gross tons engaged on any voyage, except for paragraph 2.1.7 (requirement for radar reflector);
+  - (iii)[^key-f936610a03e6182c2e822de7532da426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ca)[^key-3f1369e5293dc49ef1003e1f848c9af4] regulation 19 in Chapter V, except for paragraphs 2.1.1, 2.1.2, 2.1.3, 2.1.4, 2.1.6, 2.1.7 and 2.1.8 (navigational equipment and arrangements), does not apply to—
+  - (i) ships which are not passenger ships and are not sea-going;
+  - (ii) ships of Class V;
+- (d) paragraph 2.2.3 of regulation 19 in Chapter V (bridge navigational watch alarm system) does not apply to ships—
+  - (i) below 150 gross tons engaged on any voyage;
+  - (ii) below 500 gross tons not engaged on international voyages;
+- (da)[^key-df4a2af2a2c1a9aca8b14f3e317a5a84] paragraph 2.4 of regulation 19 in Chapter V (automatic identification system) does not apply to ships of Class IV;
+- (e) paragraph 1 of regulation 21 in Chapter V (carriage of International Code of Signals[^f00010]) does not apply to ships below 150 gross tons engaged on any voyage;
+- (f) paragraph 2 of regulation 21 in Chapter V (carriage of IAMSAR Manual[^f00011]) does not apply to—
+  - (i) ships below 150 gross tons engaged on any voyage;
+  - (ii) ships below 500 gross tons not engaged on international voyages;
+  - (iii) fishing vessels;
+- (g) regulation 23 in Chapter V (pilot transfer arrangements) does not apply to—
+  - (i) ships below 150 gross tons engaged on any voyage;
+  - (ii) ships below 500 gross tons not engaged on international voyages;
+  - (iii) fishing vessels;
+- (h) regulations 24 to 26[^key-5197627759181c58915b20ce2bcaa883] in Chapter V do not apply to—
+  - (i) pleasure vessels below 150 gross tons engaged on any voyage;
+  - (ii) ships which are not sea-going; [^key-571176e7f780211d7a466ba4460ff0fb]...
+- (ha)[^key-9612439f382cf5bb7a628b0d3c3ee265] regulation 27 in Chapter V (nautical charts and nautical publications) does not apply to—
+  - (i) pleasure vessels below 150 gross tons engaged on any voyage;
+  - (ii) ships which are not passenger ships and are not sea-going;
+  - (iii) ships of Class V; and
+- (i) paragraph 1 of regulation 28 in Chapter V (requirement to keep on board record of navigational activities and incidents) does not apply to any ship below 150 gross tons engaged on any voyage.
+
+(4) Regulations 24 to 26 in Chapter V (relating to the use of heading or track control systems, and steering gear) are subject to any special rules made by any person empowered by law for roadsteads, harbours, rivers, lakes or inland waterways connected with the high seas and navigable by sea-going vessels[^f00012].
+
+(5) In this regulation—
+
+- “Category A, B, C or D waters” means the waters specified as such in Merchant Shipping Notice 1837(M) Amendment 2[^f00013];
+- “fishing vessel” means a ship used for catching fish, whales, seals, walrus or other living resources of the sea;
+- “gross tons” means gross tonnage ascertained under regulations 6 and 12(1) of the Merchant Shipping (Tonnage) Regulations 1997[^f00014];
+- “Merchant Shipping Notice” means a notice described as such and issued by the Maritime and Coastguard Agency (an executive agency of the Department for Transport) and includes a reference to any document amending or replacing that notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;
+- “[^key-63fc7ad59c43e6324dbc25ebec7a89b3]**passenger**” means a person other than—
+  - (a) the master and the members of the crew or other persons employed or engaged in any capacity on board a ship on the business of that ship; or
+  - (b) a child under one year of age;
+- “**passenger ship**” means a ship which carries more than 12 passengers;
+- “pleasure vessel” means—
+  - (a) any vessel which at the time it is being used is—
+    - (i) in the case of a vessel wholly owned by–
+      - (aa) an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
+      - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends; and
+    - (ii) on a voyage or excursion which is one for which the owner does not receive money for or in connection with operating the vessel or carrying any person, other than as a contribution to the direct expenses of the operation of the vessel incurred during the voyage or excursion; or
+  - (b) any vessel wholly owned by or on behalf of a members’ club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family, and for the use of which any charges levied are paid into club funds and applied for the general use of the club,
+
+  where, in the case of any vessel referred to in paragraphs (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “immediate family” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual’s spouse or civil partner; and “relative” means brother, sister, ancestor or lineal descendant;
+- “sea” includes any estuary or arm of the sea but does not include Category A, B, C or D waters;
+- “sea-going” means operating outside Category A, B, C or D waters.
+- ships of Class IV” means passenger ships engaged only on voyages in Category A, B, C or D waters;[^key-f2e65812e623ad2ecab5ad0eeb0ac5ae]
+- “**ships of Class V**” means passenger ships engaged only on voyages in Category A, B or C waters.
+
+### 6. Exemptions[^key-547c5385b8da6ff3ee66849abba71ba0]
+
+(1) Subject to paragraph (4), the Secretary of State may exempt from any requirement of a provision in Chapter V referred to in regulation 5 (safety of navigation requirements)—
+
+- (a) a ship which does not normally engage on international voyages but is, in exceptional circumstances, required to undertake a single international voyage;
+- (b) a ship engaged on a voyage where—
+  - (i) the maximum distance of the ship from the shore;
+  - (ii) the length and nature of the voyage;
+  - (iii) the absence of general navigational hazards; and
+  - (iv) other conditions affecting safety,
+
+  are such as to render compliance with those provisions unreasonable or unnecessary.
+
+(2) Subject to paragraph (4), the Secretary of State may exempt a ship without mechanical means of propulsion from any requirement of the following provisions in Chapter V—
+
+- (a) regulation 15 (principles relating to bridge design, design and arrangement of navigational systems and equipment and bridge procedures);
+- (b) regulation 17 (electromagnetic compatibility);
+- (c) regulation 18 (approval, surveys and performance standards of navigational systems and equipment and voyage data recorder);
+- (d) regulation 19 (carriage requirements), except paragraph 2.1.7;
+- (e) regulation 20 (voyage data recorders);
+- (f) regulation 22 (navigation bridge visibility);
+- (g) regulation 24 (use of heading and/or track control systems);
+- (h) regulation 25 (operation of steering gear);
+- (i) regulation 26 (steering gear: testing and drills);
+- (j) regulation 27 (nautical charts and publications); and
+- (k) regulation 28 (records of navigational activities and daily reporting).
+
+(3) The Secretary of State may exempt from, or waive, specified requirements of the provisions in Chapter V referred to in regulation 5 where such requirements are subject to a power to—
+
+- (a) exempt from those requirements; or
+- (b) waive those requirements,
+
+in relation to a ship, or category of ship, if satisfied that the conditions prescribed by those provisions are met.
+
+(4) An exemption under paragraph (1) or (2), or exemption or waiver under paragraph (3), may be—
+
+- (a) granted subject to such safety requirements as the Secretary of State thinks fit to ensure the overall safety of the ship; and
+- (b) on the giving of reasonable notice, altered or cancelled.
+
+(5) An exemption granted under paragraph (1) or (2), or exemption or waiver granted under paragraph (3), or an alteration or cancellation under paragraph (4)(b), must—
+
+- (a) be in writing;
+- (b) specify the date on which it takes effect; and
+- (c) specify the terms, if any, on which it is given.
+
+(6) The requirement that the exemption granted under paragraph (1) or (2), or exemption or waiver granted under paragraph (3), or an alteration or cancellation under paragraph (4)(b), be in writing is satisfied where the text of the approval is—
+
+- (a) transmitted by electronic means;
+- (b) received in legible form; and
+- (c) capable of being used for subsequent reference.
+
+(7) Where an exemption or waiver is granted subject to safety requirements, the exemption or waiver ceases to have effect if those requirements are not complied with.
+
+### 7. Equivalents[^key-9cb48b2caee263291a637b275ab55de5]
+
+(1) Where the provisions of Chapter V referred to in regulation 5 (safety of navigation requirements) require that—
+
+- (a) a particular fitting, material, appliance or apparatus be fitted on, or carried in, a ship;
+- (b) any particular arrangement be made on, or in relation to, a ship; or
+- (c) any particular provision be made in relation to a ship,
+
+the Secretary of State may approve any other fitting, material, appliance, apparatus, arrangement or other provision if satisfied that it is at least as effective as that required by the provisions of Chapter V referred to in regulation 5.
+
+(2) The Secretary of State may approve an equivalent of a partial or conditional nature to a ship engaged on a voyage where—
+
+- (a) the maximum distance of the ship from the shore;
+- (b) the length and nature of the voyage;
+- (c) the absence of general navigational hazards; and
+- (d) other conditions affecting safety,
+
+make, in the opinion of the Secretary of State, compliance with the provisions of Chapter V referred to in regulation 5 unreasonable or unnecessary taking into account the effect such an approval may have on the safety of other ships.
+
+(3) An approval given under paragraph (1) or (2) may, on the giving of reasonable notice, be continued, altered or cancelled.
+
+(4) Any approval given under paragraph (1) or (2), or a continuation, alteration or cancellation under paragraph (3), must—
+
+- (a) be in writing;
+- (b) specify the date on which it takes effect; and
+- (c) specify the terms, if any, on which it is given.
+
+(5) The requirement that the approval referred to in paragraph (1) or (2), or a continuation, alteration or cancellation in paragraph (3), be in writing is satisfied where the text of the approval is—
+
+- (a) transmitted by electronic means;
+- (b) received in legible form; and
+- (c) capable of being used for subsequent reference.
+
+### 8. Approvals[^key-44370454e4536f237deca96cdf69fd67]
+
+(1) The Secretary of State, or any person authorised by the Secretary of State, may grant an approval in relation to a United Kingdom ship for anything in Chapter V requiring to be—
+
+- (a) approved by the Administration of the State whose flag the ship is entitled to fly;
+- (b) done to the satisfaction of such Administration; and
+- (c) acceptable to that Administration[^f00015].
+
+(2) An approval given under paragraph (1) may, on the giving of reasonable notice, be continued, altered or cancelled.
+
+(3) Any approval given under paragraph (1), or a continuation, alteration or cancellation under paragraph (2), must—
+
+- (a) be in writing;
+- (b) specify the date on which it takes effect; and
+- (c) specify the terms, if any, on which it is given.
+
+(4) The requirement that the approval referred to in paragraph (1), or the continuation, alteration or cancellation under paragraph (2), be in writing is satisfied where the text of the approval is—
+
+- (a) transmitted by electronic means;
+- (b) received in legible form; and
+- (c) capable of being used for subsequent reference.
+
+## PART 3 — Control and enforcement
+
+### 9. Offences in respect of which a sentence of imprisonment and/or a fine may be imposed[^key-f2cf000183b4206a1b5cc5c223a3f721]
+
+(1) Any contravention of—
+
+- (a) regulation 5(2)(a) (on board plan for cooperation with search and rescue services);
+- (b) regulation 5(2)(g), in so far as it requires a ship to comply with paragraphs 1 to 3 and 7 of regulation 18 in Chapter V (approval, surveys and performance standards of navigational systems and equipment and voyage data recorder);
+- (c) regulation 5(2)(h) (carriage requirements for shipborne navigational systems and equipment);
+- (d) regulation 5(2)(j) (voyage data recorders);
+- (e) regulation 5(2)(k), in so far as it requires a ship to comply with regulation 30 in Chapter V (operational limitations),
+
+is an offence by the owner and master.
+
+(2) Any contravention of—
+
+- (a) regulation 5(2)(c), in so far it requires a ship to comply with paragraph 7 of regulation 11 in Chapter V (ship reporting systems);
+- (b) regulation 5(2)(k), in so far as it requires a ship to comply with regulation 28 in Chapter V (records of navigational activities and daily reporting);
+- (c) regulation 5(2)(l), in so far as it requires a ship to comply with paragraph 1 of regulation 31 in Chapter V (danger messages);
+- (d) regulation 5(2)(n), in so far as it requires a ship to comply with paragraphs 1 and 2 of regulation 33 in Chapter V (distress situations: obligations and procedures);
+- (e) regulation 5(2)(o) (safe navigation and avoidance of dangerous situations),
+
+is an offence by the master.
+
+(3) Any contravention of regulation 5(2)(k) in so far as it requires a ship to comply with the following regulations in Chapter V—
+
+- (a) regulation 24 (use of heading and/or track control systems);
+- (b) regulation 25 (operation of steering gear);
+- (c) regulation 26 (steering gear: testing and drills), other than paragraph 3.1,
+
+is an offence by the master or any person directed to undertake tasks.
+
+(4) Any contravention of—
+
+- (a) regulation 5(2)(p) (master’s discretion);
+- (b) regulation 5(2)(q) (misuse of distress signals),
+
+is an offence by the person responsible.
+
+(5) An offence under this regulation is punishable—
+
+- (a) on summary conviction—
+  - (i) in England and Wales by a fine; or
+  - (ii) in Scotland or Northern Ireland by a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment by imprisonment for a term not exceeding two years, or a fine, or both.
+
+### 10. Offences in respect of which a fine only may be imposed[^key-5b192fed948428ba33300ed19894aad5]
+
+(1) Any contravention of—
+
+- (a) regulation 5(2)(f) (electromagnetic compatibility);
+- (b) regulation 5(2)(g), in so far as it requires a ship to comply with paragraphs 8 and 9 of regulation 18 in Chapter V (approval, surveys and performance standards of navigational systems and equipment and voyage data recorder);
+- (c) regulation 5(2)(i) (long-range identification and tracking of ships),
+
+is an offence by the owner and master.
+
+(2) Any contravention of—
+
+- (a) regulation 5(2)(b) (use of ships’ routeing system);
+- (b) regulation 5(2)(k), in so far as it requires a ship to comply with regulation 23 in Chapter V (pilot transfer arrangements),
+
+is an offence by the owner, master or any other person responsible.
+
+(3) Any contravention of regulation 5(2)(d) (ships’ manning) is an offence by the owner or master.
+
+(4) An offence under this regulation is punishable—
+
+- (a) on summary conviction–
+  - (i) in England and Wales by a fine; or
+  - (ii) in Scotland or Northern Ireland by a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment by a fine.
+
+### 11. Offences in respect of which a fine may be imposed on summary conviction only[^key-ad4741a6a150b7b8235fad8c6da3c86f]
+
+(1) Any contravention of regulation 5(2)(k), in so far as it requires a ship to comply with the following regulations in Chapter V—
+
+- (a) regulation 21 (the International Code of Signals and IAMSAR Manual);
+- (b) regulation 22 (navigation bridge visibility);
+- (c) paragraph 3.1 of regulation 26 (failure to display steering gear changeover procedures on navigational bridge);
+- (d) regulation 27 (nautical charts and nautical publications);
+- (e) regulation 29 (life-saving signals to be used by ships, aircraft or persons in distress),
+
+is an offence by the owner and master.
+
+(2) An offence under this regulation is punishable on summary conviction by a fine.
+
+### 12. Detention[^key-edd6ea914ff65af43569ffa7aafaf606]
+
+(1) For the purposes of this regulation, any reference to “the Act” is a reference to the Merchant Shipping Act 1995.
+
+(2) Any ship which does not comply with the requirements of the provisions in Chapter V referred to in regulation 5 (safety of navigation requirements) may be detained.
+
+(3) Section 284 of the Act[^f00016] applies where a ship is liable to be detained under this regulation as if—
+
+- (a) references to detention of a ship under the Act were references to detention of the ship in question under this regulation; and
+- (b) subsection (7) were omitted.
+
+(4) Where a ship is liable to be detained under this regulation, the person detaining the ship must serve on the master a detention notice which—
+
+- (a) states the grounds of the detention; and
+- (b) requires the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
+
+(5) Subject to paragraph (6), section 96 (references of detention notices to arbitration)[^f00017] and section 97 (compensation in connection with invalid detention of a ship) of the Act apply in relation to a detention notice issued pursuant to this regulation as they apply in relation to detention notices issued pursuant to section 95 (power to detain dangerously unsafe ship).
+
+(6) For the purposes of paragraph (5)—
+
+- (a) section 96 of the Act applies as if—
+  - (i) subsection (3) were omitted;
+  - (ii) the words “as a dangerously unsafe ship” in subsection (5) were omitted;
+  - (iii) subsection (11) were omitted; and
+- (b) sections 96 and 97 of the Act apply as if “the relevant inspector” means a person issuing the detention notice pursuant to this regulation.
+
+(7) Subject to paragraph (8), where a ship other than a United Kingdom ship is detained, the Secretary of State must immediately inform the ship’s flag administration in writing.
+
+(8) If it is not possible to inform the ship’s flag administration in accordance with paragraph (7), the Secretary of State must inform the Consul of the State of the flag administration, or in the absence of a Consul, the nearest diplomatic representative of the State of the flag administration.
+
+(9) For the purposes of paragraphs (7) and (8), “flag administration” in relation to a ship means the administration of the State whose flag the ship is entitled to fly.
+
+### 13. Review of the Regulations[^key-d822135c8ee1ccf6f178a4985b3f0652]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 31st July 2025.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015[^f00018] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the obligations under the Convention are implemented in other countries which are subject to the obligations.
+
+(5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(6) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+Signed by authority of the Secretary of State for Transport
+
+Kelly Tolhurst
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+We consent to the making of these Regulations
+
+Maggie Throup
+
+James Morris
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE
+
+Regulation 1
+
+### PART 1 — Amendments
+
+#### 1. The Merchant Shipping (Official Log Books) Regulations 1981[^key-7255671708bc95d69524084d1fc1dd1b]
+
+The Merchant Shipping (Official Log Books) Regulations 1981[^f00019] are amended as follows.
+
+**2.**[^key-756f1c8daae657b7d76b724a169b3f43] In regulation 1(2), in the definition of “the Safety of Navigation Regulations” for “the Merchant Shipping (Safety of Navigation) Regulations 2002” substitute “the Merchant Shipping (Safety of Navigation) Regulations 2020[^f00020]”.
+
+#### 3. The Merchant Shipping (Official Log Books) (Fishing Vessels) Regulations 1981[^key-0795ca6dbd3324ecc05fd6d6a90d020d]
+
+The Merchant Shipping (Official Log Books) (Fishing Vessels) Regulations 1981[^f00021] are amended as follows.
+
+**4.**[^key-f222c107f0bf18443fe9fb1f9c2e9ad5] In regulation 1(2), in the definition of “the Safety of Navigation Regulations” for “the Merchant Shipping (Safety of Navigation) Regulations 2002” substitute “the Merchant Shipping (Safety of Navigation) Regulations 2020”.
+
+#### 5. The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^key-81e8235e7bce4fdcfa4e3b553160e839]
+
+The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^f00022] are amended as follows.
+
+**6.**[^key-502deec7a045f2bba91a50843ffb3e5d] In the Schedule—
+
+- (a) omit the entry for the Merchant Shipping (Safety of Navigation) Regulations 2002;
+- (b) at the end—
+  - (i) in the first column, insert “The Merchant Shipping (Safety of Navigation) Regulations 2020”;
+  - (ii) in the second column, insert “2020/673”;
+  - (iii) in the third column, insert “None”.
+
+#### 7. The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^key-74e0cdd68de54dbfd5653f2544c5f4a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-c74cd2273dc85a34b50b3e0a16a5030b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-76f00758cb92d1d8ca42ab6208a00005] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. The Merchant Shipping (Bridge Visibility) (Small Passenger Ships) Regulations 2005[^key-d04a8c1725ed201eeb7cbbab0abc5d8d]
+
+The Merchant Shipping (Bridge Visibility) (Small Passenger Ships) Regulations 2005[^f00024] are amended as follows.
+
+**11.**[^key-d82ffc6048414b5cf28ac4a6a6e6dc3f] In regulation 3(3), for “is applied by regulation 5 of the Merchant Shipping (Safety of Navigation) Regulations 2002” substitute “applies pursuant to regulation 5(2)(k) of the Merchant Shipping (Safety of Navigation) Regulations 2020”.
+
+#### 12. The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010[^key-71fd5adc28614cb104e8e7855d4ce8e2]
+
+The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010[^f00025] are amended as follows.
+
+**13.**[^key-6af0a2ab600d1109995b9508c245e870] In regulation 5(3)(e), for “the Merchant Shipping (Safety of Navigation) Regulations 2002” substitute “the Merchant Shipping (Safety of Navigation) Regulations 2020”.
+
+#### 14. The Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010[^key-0cc6b7ad827765ab09ef81ad3560b96a]
+
+The Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 are amended as follows.
+
+**15.**[^key-885b9f9100894b1f910d5a0ed08ce393] In the Schedule, in the table, omit the entry for the Merchant Shipping (Safety of Navigation) Regulations 2002.
+
+#### 16. The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010[^key-03c5a1d9f0b961f0f1e8b12bd6a9e8b6]
+
+The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 are amended as follows.
+
+**17.**[^key-c4cce2f5a6383e836fa69cf9bf966132] In Schedule 2, in the table, omit the entry for the Merchant Shipping (Safety of Navigation) Regulations 2002.
+
+#### 18. The Merchant Shipping Fees Regulations 2018[^key-8674976c38637d40acb343992804ad25]
+
+The Merchant Shipping (Fees) Regulations 2018[^f00026] are amended as follows.
+
+**19.**[^key-2d7efdd7b381d759876f9e0ff3950a74] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption), in Section H (radio and navigational equipment)—
+
+- (a) omit the entry for the Merchant Shipping (Safety of Navigation) Regulations 2002;
+- (b) at the end—
+  - (i) in the first column, insert “The Merchant Shipping (Safety of Navigation) Regulations 2020”;
+  - (ii) in the second column, insert “2020/673”;
+  - (iii) in the third column, insert “None”.
+
+### PART 2 — Revocations[^key-e8a35f0ca96c33c355a311ea5f1575d1]
+
+| Regulations revoked | References | Extent of revocation |
+| --- | --- | --- |
+| The Merchant Shipping (Safety of Navigation) Regulations 2002[^f00027] | [S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473) | The whole Regulations |
+| [^key-8f908831d6d28898bbd3c2b5ff6da3c8]. . . | [^key-8f908831d6d28898bbd3c2b5ff6da3c8]. . . | [^key-8f908831d6d28898bbd3c2b5ff6da3c8]. . . |
+| The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^f00028] | [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110) | Regulation 22(5) and Schedule 3 |
+| Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2011[^f00029] | [S.I. 2011/2978](https://www.legislation.gov.uk/uksi/2011/2978) | The whole Regulations |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement Chapter V of the International Convention for the Safety of Life at Sea, 1974 (“the Convention”) (as amended to date), relating to the safety of navigation of ships. The Regulations revoke and replace the Merchant Shipping (Safety of Navigation) Regulations 2002 (as well as other instruments which amended those Regulations) and apply, with certain limited exceptions, to United Kingdom ships and to non-United Kingdom ships when in United Kingdom waters, including ships from countries which are not parties to the Convention (regulation 3).
+
+All future amendments to the provisions of Chapter V referenced in these Regulations will be automatically incorporated into the Regulations by way of ambulatory reference (regulation 4).
+
+Regulation 5 prescribes the requirements of Chapter V which apply to ships within the scope of these Regulations, and also makes provision to reflect that Contracting States may exercise the right to derogate from some of those requirements.
+
+The Regulations provide for the granting of exemptions (regulation 6), the approval of equivalents (regulation 7) and the granting of approvals in relation to matters in Chapter V requiring the approval of a Contracting State (regulation 8).
+
+The Regulations also provide for contravention of the various requirements in regulation 5 to be offences and subject to criminal penalties (regulations 9 to 11). In cases of non-compliance with the requirements in regulation 5, a ship may be detained (regulation 12).
+
+Regulation 13 requires the Secretary of State to review the operation and effect of these Regulations and publish a report before 31st July 2025 and at intervals not exceeding five years after that. Following a review, it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be amended or revoked. A further instrument would be needed to amend or revoke the Regulations.
+
+Marine Guidance Note (MGN) 610 (M+F) provides guidance on the requirements imposed by Chapter V and how the Secretary of State will exercise discretion where this is permitted by Chapter V. The MGN is available on www.gov.uk/topic/ships-cargoes/m-notices and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk) or on https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.
+
+Merchant Shipping Notice 1837 (M) Amendment 2, which is referred to in these Regulations, is available on www.gov.uk/topic/ships-cargoes/m-notices and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk) or on https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.
+
+The Convention and its Protocol of 1988 may be obtained in copy from the International Maritime Organization (IMO), 4 Albert Embankment, London SE1 7SR and both are available on the Foreign and Commonwealth Office (FCO) treaties database (https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=79786). The text of the IMO Resolutions amending the Convention and Protocol may be obtained from the IMO or on the FCO treaties database (https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=68013).
+
+Future amendments to the Convention and to the Protocol may be obtained in copy from the IMO and, after coming into force in the United Kingdom, found on the Foreign and Commonwealth Office (FCO) treaties database (https://treaties.fco.gov.uk/responsive/app/consolidatedSearch/). Until such publication is made on the FCO treaties database, an amendment will be available from the MCA and on https://www.gov.uk. An amendment will be publicised in advance of its in-force date by means of a Parliamentary Statement to both Houses of Parliament and by way of a Marine Guidance Note, which will be available in copy from the MCA and on https://www.gov.uk.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+An Explanatory Memorandum is published alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7. Section 85 was amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3). Section 306A was inserted by the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), section 106. There are other amendments but none is relevant.
+
+[^key-262d48e74e059667f6184cfd5fd65c05]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2020/673) excluded in part (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/1216/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1216/schedule/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+
+[^key-5000d80e82cfd7c77e3a60b594d428d2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2020/673) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1195/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-5bb5be2ef64f476c558565daa097ef5f]: Commencement: Reg. 1 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-1ee2a5c43ae0d5f133622e69ce4832f0]: Commencement: Reg. 2 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00002]: Footnote: Chapter V was revised and replaced by International Maritime Organization (IMO) Resolution MSC.99(73) (Cm 6001) and has been further amended by IMO Resolutions MSC.123(75) (Cm 6587), MSC.142(77) (Cm 7205), MSC.153(78) (Cm 6387), MSC.170(79), MSC.201(81), MSC.202(81), MSC.282(86), MSC.308(88), MSC.325(90) and MSC.350(92). The amendments to Chapter V are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign and Commonwealth Office treaties database (https://treaties.fco.gov.uk/responsive/app/consolidatedSearch/). See footnote (c) for further information on the Convention.
+
+[^f00003]: Footnote: Cmnd 7874. The Convention may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign and Commonwealth Office treaties database (https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=79786). The Convention was modified by its Protocol of 1978 (Cmnd 8277), which was replaced and abrogated by the Protocol of 1988 (Cm 5044) with respect to the parties to the 1988 Protocol. The amendments to the Convention are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign and Commonwealth Office treaties database (https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=68013). Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW. The Parliamentary Archives catalogue numbers for the Command Papers are HL/PO/JO/10/11/2031/2878 (Cmnd 7874), HL/PO/JO/10/11/1959/2032 (Cmnd 8277) and HL/PO/JO/10/11/3156/2280 (Cm 5044).
+
+[^key-2a7b332f7bc582a8e16201ddd73d80c3]: Commencement: Reg. 3 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by [S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473), [2003/771](https://www.legislation.gov.uk/uksi/2003/771), [2004/302](https://www.legislation.gov.uk/uksi/2004/302), [2004/2883](https://www.legislation.gov.uk/uksi/2004/2883), [2010/680](https://www.legislation.gov.uk/uksi/2010/680), [2010/1075](https://www.legislation.gov.uk/uksi/2010/1075), [2012/2636](https://www.legislation.gov.uk/uksi/2012/2636), [2018/53](https://www.legislation.gov.uk/uksi/2018/53) and [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221) (which contains prospective amendments).
+
+[^f00005]: Footnote: [S.I. 2010/680](https://www.legislation.gov.uk/uksi/2010/680), amended by [S.I. 2010/1075](https://www.legislation.gov.uk/uksi/2010/1075), [2011/3056](https://www.legislation.gov.uk/uksi/2011/3056) and [2018/1104](https://www.legislation.gov.uk/uksi/2018/1104).
+
+[^f00006]: Footnote: [S.I. 2010/1075](https://www.legislation.gov.uk/uksi/2010/1075), amended by [S.I. 2018/53](https://www.legislation.gov.uk/uksi/2018/53), [2019/160](https://www.legislation.gov.uk/uksi/2019/160), [2019/808](https://www.legislation.gov.uk/uksi/2019/808) (which contains prospective amendments) and 2020/58.
+
+[^f00007]: Footnote: Regulation 33 in Chapter V places an obligation on the master to provide assistance to persons in distress at sea and this obligation is implemented in these Regulations.
+
+[^key-316023667a15c2317891567aeaa6445e]: Commencement: Reg. 4 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-8835f1bbd5ab567f4f8494e3fb6a7932]: Commencement: Reg. 5 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00008]: Footnote: Regulations 21 to 30 in Chapter V comprise provisions relating to: the International Code of Signals and IAMSAR Manual (regulation 21); navigation bridge visibility (regulation 22); pilot transfer arrangements (regulation 23); use of heading and/or track control systems (regulation 24); operation of steering gear (regulation 25); steering gear: testing and drills (regulation 26); nautical charts and nautical publications (regulation 27); records of navigational activities and daily reporting (regulation 28); life-saving signals to be used by ships, aircraft or persons in distress (regulation 29); operational limitations (regulation 30).
+
+[^key-12fc311878fb3eec30b4753a5040b04c]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/uksi/2020/673/regulation/5/3/a) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 27(a)](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/27/a) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+
+[^key-f936610a03e6182c2e822de7532da426]: Textual amendment: [Reg. 5(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/673/regulation/5/3/c/iii) omitted (5.3.2025) by virtue of [The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2025 (S.I. 2025/134)](https://www.legislation.gov.uk/uksi/2025/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/134/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/134/regulation/2/2/a/i)
+
+[^key-3f1369e5293dc49ef1003e1f848c9af4]: Textual amendment: [Reg. 5(3)(ca)](https://www.legislation.gov.uk/uksi/2020/673/regulation/5/3/ca) inserted (5.3.2025) by [The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2025 (S.I. 2025/134)](https://www.legislation.gov.uk/uksi/2025/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/134/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/134/regulation/2/2/a/ii)
+
+[^key-df4a2af2a2c1a9aca8b14f3e317a5a84]: Textual amendment: [Reg. 5(3)(da)](https://www.legislation.gov.uk/uksi/2020/673/regulation/5/3/da) inserted (5.3.2025) by [The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2025 (S.I. 2025/134)](https://www.legislation.gov.uk/uksi/2025/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/134/regulation/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/134/regulation/2/2/a/iii)
+
+[^f00010]: Footnote: The International Code of Signals may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
+
+[^f00011]: Footnote: The IAMSAR Manual (or International Aeronautical and Maritime Search and Rescue Manual) may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
+
+[^key-5197627759181c58915b20ce2bcaa883]: Textual amendment: Word in [reg. 5(3)(h)](https://www.legislation.gov.uk/uksi/2020/673/regulation/5/3/h) substituted (5.3.2025) by [The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2025 (S.I. 2025/134)](https://www.legislation.gov.uk/uksi/2025/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/134/regulation/1/2), [2(2)(a)(iv)(aa)](https://www.legislation.gov.uk/uksi/2025/134/regulation/2/2/a/iv/aa)
+
+[^key-571176e7f780211d7a466ba4460ff0fb]: Textual amendment: Word in [reg. 5(3)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/673/regulation/5/3/h/ii) omitted (5.3.2025) by virtue of [The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2025 (S.I. 2025/134)](https://www.legislation.gov.uk/uksi/2025/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/134/regulation/1/2), [2(2)(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2025/134/regulation/2/2/a/iv/bb)
+
+[^key-9612439f382cf5bb7a628b0d3c3ee265]: Textual amendment: [Reg. 5(3)(ha)](https://www.legislation.gov.uk/uksi/2020/673/regulation/5/3/ha) inserted (5.3.2025) by [The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2025 (S.I. 2025/134)](https://www.legislation.gov.uk/uksi/2025/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/134/regulation/1/2), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2025/134/regulation/2/2/a/v)
+
+[^f00012]: Footnote: This requirement parallels the requirement in paragraph (b) of Rule 1 in the Convention on the International Regulations for Preventing Collisions at Sea, 1972, which gives precedence to special rules made by any person empowered by law for roadsteads, harbours, rivers, lakes or inland waterways connected with the high seas and navigable by sea-going vessels. Paragraph (b) of Rule 1 is implemented by regulation 4(1) of the Merchant Shipping (Distress Signals and Prevention of Collisions) Regulations 1996 ([S.I. 1996/75](https://www.legislation.gov.uk/uksi/1996/75)). An example of the special rules is paragraph 10 of the General Directions for Navigation in the Port of London. The General Directions may be obtained in copy from the Port of London Authority, London River House, Royal Pier Road, Gravesend, Kent DA12 2BG or found on http://www.pla.co.uk/assets/generaldirectionsfornavigation2016.pdf.
+
+[^f00013]: Footnote: Merchant Shipping Notice 1837(M) Amendment 2 is available on https://www.gov.uk/government/publications/msn-1837-m-amendment-2-categorisation-of-waters, and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
+
+[^f00014]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), to which there are amendments not relevant to these Regulations.
+
+[^key-63fc7ad59c43e6324dbc25ebec7a89b3]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2020/673/regulation/5/5) inserted (5.3.2025) by [The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2025 (S.I. 2025/134)](https://www.legislation.gov.uk/uksi/2025/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/134/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/134/regulation/2/2/b/i)
+
+[^key-f2e65812e623ad2ecab5ad0eeb0ac5ae]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2020/673/regulation/5/5) inserted (5.3.2025) by [The Merchant Shipping (Safety of Navigation) (Amendment) Regulations 2025 (S.I. 2025/134)](https://www.legislation.gov.uk/uksi/2025/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/134/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/134/regulation/2/2/b/ii)
+
+[^key-547c5385b8da6ff3ee66849abba71ba0]: Commencement: Reg. 6 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-9cb48b2caee263291a637b275ab55de5]: Commencement: Reg. 7 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-44370454e4536f237deca96cdf69fd67]: Commencement: Reg. 8 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00015]: Footnote: The circumstances in which the approval of the Secretary of State is required in relation to United Kingdom ships constructed before 1st July 2009 and engaged on international voyages and all United Kingdom ships engaged on non-international voyages are set out in Marine Guidance Note (MGN) 610 (M+F); this is available on www.gov.uk/topic/ships-cargoes/m-notices and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
+
+[^key-f2cf000183b4206a1b5cc5c223a3f721]: Commencement: Reg. 9 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-5b192fed948428ba33300ed19894aad5]: Commencement: Reg. 10 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-ad4741a6a150b7b8235fad8c6da3c86f]: Commencement: Reg. 11 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-edd6ea914ff65af43569ffa7aafaf606]: Commencement: Reg. 12 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00016]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
+
+[^f00017]: Footnote: Section 96(7) was amended by Part 1 of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) and by Schedule 11 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). Section 96(10) was repealed by Schedule 4 to the Arbitration Act [1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23).
+
+[^key-d822135c8ee1ccf6f178a4985b3f0652]: Commencement: Reg. 13 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00018]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19 and the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), section 23 and Schedule 8.
+
+[^key-7255671708bc95d69524084d1fc1dd1b]: Commencement: Sch. para. 1 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00019]: Footnote: [S.I. 1981/569](https://www.legislation.gov.uk/uksi/1981/569), amended by [S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473); there are other amending instruments but none is relevant.
+
+[^key-756f1c8daae657b7d76b724a169b3f43]: Commencement: Sch. para. 2 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00020]: Footnote: [S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673).
+
+[^key-0795ca6dbd3324ecc05fd6d6a90d020d]: Commencement: Sch. para. 3 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00021]: Footnote: [S.I. 1981/570](https://www.legislation.gov.uk/uksi/1981/570), amended by [S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473); there are other amending instruments but none is relevant.
+
+[^key-f222c107f0bf18443fe9fb1f9c2e9ad5]: Commencement: Sch. para. 4 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-81e8235e7bce4fdcfa4e3b553160e839]: Commencement: Sch. para. 5 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00022]: Footnote: [S.I. 1998/1609](https://www.legislation.gov.uk/uksi/1998/1609), amended by [S.I. 2016/354](https://www.legislation.gov.uk/uksi/2016/354) and [2020/501](https://www.legislation.gov.uk/uksi/2020/501); there are other amending instruments but none is relevant.
+
+[^key-502deec7a045f2bba91a50843ffb3e5d]: Commencement: Sch. para. 6 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-74e0cdd68de54dbfd5653f2544c5f4a2]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2020/673/schedule/1/paragraph/7) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-c74cd2273dc85a34b50b3e0a16a5030b]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2020/673/schedule/1/paragraph/8) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-76f00758cb92d1d8ca42ab6208a00005]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2020/673/schedule/1/paragraph/9) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-d04a8c1725ed201eeb7cbbab0abc5d8d]: Commencement: Sch. para. 10 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00024]: Footnote: [S.I. 2005/2286](https://www.legislation.gov.uk/uksi/2005/2286), amended by [S.I. 2010/680](https://www.legislation.gov.uk/uksi/2010/680) and [2010/1075](https://www.legislation.gov.uk/uksi/2010/1075).
+
+[^key-d82ffc6048414b5cf28ac4a6a6e6dc3f]: Commencement: Sch. para. 11 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-71fd5adc28614cb104e8e7855d4ce8e2]: Commencement: Sch. para. 12 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00025]: Footnote: [S.I. 2010/332](https://www.legislation.gov.uk/uksi/2010/332), amended by [S.I. 2020/501](https://www.legislation.gov.uk/uksi/2020/501).
+
+[^key-6af0a2ab600d1109995b9508c245e870]: Commencement: Sch. para. 13 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-0cc6b7ad827765ab09ef81ad3560b96a]: Commencement: Sch. para. 14 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-885b9f9100894b1f910d5a0ed08ce393]: Commencement: Sch. para. 15 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-03c5a1d9f0b961f0f1e8b12bd6a9e8b6]: Commencement: Sch. para. 16 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-c4cce2f5a6383e836fa69cf9bf966132]: Commencement: Sch. para. 17 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-8674976c38637d40acb343992804ad25]: Commencement: Sch. para. 18 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00026]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
+
+[^key-2d7efdd7b381d759876f9e0ff3950a74]: Commencement: Sch. para. 19 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^key-e8a35f0ca96c33c355a311ea5f1575d1]: Commencement: Sch. Pt. 2 in force at 31.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1)
+
+[^f00027]: Footnote: [S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), [2004/2110](https://www.legislation.gov.uk/uksi/2004/2110), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2010/680](https://www.legislation.gov.uk/uksi/2010/680), [2010/1075](https://www.legislation.gov.uk/uksi/2010/1075) and [2011/2978](https://www.legislation.gov.uk/uksi/2011/2978).
+
+[^key-8f908831d6d28898bbd3c2b5ff6da3c8]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/673/schedule/part/2) omitted (19.12.2022) by virtue of [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/27/b) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+
+[^f00028]: Footnote: [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110), to which there are amendments not relevant to these Regulations.
+
+[^f00029]: Footnote: [S.I. 2011/2978](https://www.legislation.gov.uk/uksi/2011/2978).

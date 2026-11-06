@@ -1,0 +1,45 @@
+---
+title: Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014, section 39
+act: Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014
+section: '39'
+status: revised
+text_date: '2026-02-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/4/section/39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014, section 39
+
+> Text as at 2026-02-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 39. Post-election review
+
+*Extent: E+W+S+N.I.*
+
+(1) The Minister must, within the period of 12 months beginning with the day on which this Act is passed, appoint a person to conduct a review of the operation of Part 6 of the Political Parties, Elections and Referendums Act 2000 in relation to the first relevant parliamentary general election.
+
+(2) The “first relevant parliamentary general election” is the first parliamentary general election to be held after the beginning of the first Part 6 regulated period in relation to which one or more of the amendments made by this Part mentioned in section 46(1) have effect.
+
+(3) A “Part 6 regulated period” is a regulated period within the meaning given by section 46(2)(b).
+
+(4) The Minister may specify matters which the review must, in particular, consider.
+
+(5) On completion of the review, the appointed person must—
+
+- (a) make a written report on the review, and
+- (b) provide a copy of the report to the Minister.
+
+(6) The Minister must—
+
+- (a) lay a copy of the report before Parliament, and
+- (b) publish the report in such manner as the Minister considers appropriate.
+
+(7) The report shall be laid before Parliament not more than 18 months after the date of the first relevant parliamentary general election.
+
+(8) The Minister may pay to the appointed person such remuneration and expenses as the Minister may determine.
+
+(9) “**The Minister**” means the Secretary of State or the Lord President of the Council.

@@ -1,0 +1,1829 @@
+---
+title: The Electricity and Gas (Energy Company Obligation) Order 2014
+id: uksi/2014/3219
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-12-04'
+text_date: '2017-03-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2014/3219
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/3219/pdfs/uksiem_20143219_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3219/pdfs/uksi_20143219_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3219/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity and Gas (Energy Company Obligation) Order 2014
+
+> Text as at 2017-03-29.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2014 No. 3219
+
+Electricity
+
+Gas
+
+The Electricity and Gas (Energy Company Obligation) Order 2014
+
+Made
+
+4th December 2014
+
+Coming into force in accordance with article 1
+
+The Secretary of State makes this Order in exercise of the powers conferred by sections 33BC and 33BD of the Gas Act 1986 [^c22280171], sections 41A and 41B of the Electricity Act 1989 [^c22280181], sections 103 and 103A of the Utilities Act 2000 [^c22280191] and section 2(2) of the European Communities Act 1972 [^c22280201].
+
+The Secretary of State has consulted the Gas and Electricity Markets Authority, Citizens Advice, Citizens Advice Scotland, electricity generators, electricity distributors, electricity suppliers, gas transporters, gas suppliers and such other persons as the Secretary of State considers appropriate.
+
+A draft of this instrument has been approved by a resolution of each House of Parliament pursuant to sections 33BC(12) and 33BD(4) of the Gas Act 1986, sections 41A(12) and 41B(4) of the Electricity Act 1989, sections 103(5) and 103A(6) of the Utilities Act 2000 and paragraph 2(2) of Schedule 2 to the European Communities Act 1972 [^c22280211].
+
+The Secretary of State is a Minister designated [^c22280221] for the purpose of section 2(2) of the European Communities Act 1972 in relation to energy and energy sources.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement
+
+This Order may be cited as the Electricity and Gas (Energy Company Obligation) Order 2014 and comes into force on the day after the day on which this Order is made.
+
+### 2. Interpretation
+
+(1) In this Order—
+
+- “**2012 Order**” means the Electricity and Gas (Energy Companies Obligation) Order 2012 [^c22280231];
+- “**2014 low income and rural document**” means the document entitled “The Future of the Energy Company Obligation: Small Area Geographies Eligible for ECO CSCO Support”, published by the Department of Energy and Climate Change on 18th July 2014 [^c22280241];
+- “**Administrator**” means the Gas and Electricity Markets Authority established by section 1 of the Utilities Act 2000;
+- “**affordable warmth group**” means a group of persons where each person in the group is in receipt of at least one of the benefits in Schedule 1 and meets the conditions in relation to that benefit which are specified in that Schedule;
+- “area of low income” (except in relation to article 27) means an area in Great Britain which is described as an area of low income in the 2014 low income and rural document;
+- “carbon qualifying action” (except in relation to the terms defined in paragraph (2)) has the meaning given in article 12(3);
+- “**carbon saving**” means the lifetime tonnes of carbon dioxide that a qualifying action or surplus action will save;
+- “**carbon saving community obligation**” means the obligation for the promotion of carbon saving community qualifying actions which is imposed on a supplier in respect of a phase;
+- “carbon saving community qualifying action” (except in relation to the terms defined in paragraph (2)) has the meaning given in article 14(4);
+- “certified installer”, in relation to the installation of a measure, means a person who is certified as compliant with those parts of PAS 2014 or PAS 2017 that apply to the measure by a certification body or organisation accredited to EN 45011 or EN[^key-72e374350fba3f39291155f431326ae4] ISO/IEC 17065:2012;
+- “commencement date” means the date on which the Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 comes into force;
+- “**cost saving**” means, in relation to a heating qualifying action or a surplus action—
+  - (a) the money that would be saved by that action over its expected lifetime in heating a home to 21 degrees Celsius in the main living areas and 18 degrees Celsius in all other areas; and
+  - (b) where the action also results in savings in the cost of heating water, the money that would be saved by the action over its expected lifetime in heating water in that home;
+- “**cost score**” means the contribution that a heating qualifying action or surplus action makes towards a supplier's total home heating cost reduction obligation;
+- “deemed score qualifying action” means a qualifying action which is not a SAP scored qualifying action;[^key-dc29ab65ab2015224114624324cfb512]
+- “**deprived rural area**” means an area in Great Britain which is described as a deprived rural area in the 2014 low income and rural document;
+- “**district heating system**” means a system that delivers heat through pipes or conduits to two or more domestic premises;
+- “**domestic customer**” means a person living in domestic premises in Great Britain who is supplied with electricity or gas at those premises wholly or mainly for domestic purposes;
+- “**domestic premises**” includes a mobile home;
+- “**dual licence-holder**” means a person holding a licence under section 6(1)(d) of the Electricity Act 1989 [^c22280251] and a licence under section 7A of the Gas Act 1986 [^c22280261];
+- “**electricity licence-holder**” means a person holding a licence under section 6(1)(d) of the Electricity Act 1989 who does not also hold a licence under section 7A of the Gas Act 1986;
+- “**gas licence-holder**” means a person holding a licence under section 7A of the Gas Act 1986 who does not also hold a licence under section 6(1)(d) of the Electricity Act 1989;
+- “**Green Deal report**” means a report produced by a green deal assessor pursuant to a qualifying assessment in accordance with regulation 7 of the Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) Regulations 2012 [^c22280271];
+- “**group company**” means a licence-holder which is a member of a group of companies that includes at least one other licence-holder; and “**group**” refers to the group of companies of which the licence-holder is a member;
+- “**group of companies**” means a holding company and the wholly-owned subsidiaries of that holding company where “**holding company**” and “**wholly-owned subsidiary**” have the same meaning as in section 1159 of the Companies Act 2006 [^c22280281];
+- “heating qualifying action” (except in relation to the terms defined in paragraph (2)) has the meaning given in article 16(3);
+- “home heating minimum requirement” means, subject to article 30A, the amount determined for a supplier under article 7 as the minimum amount of a supplier’s total home heating cost reduction obligation which is to be achieved by promoting heating qualifying actions that—[^key-644fa00944c2245208cd6877433c6b29]
+  - (a) are completed on or after 1st July 2016; and
+  - (b) are not the replacement of a qualifying boiler fuelled by mains gas;
+- “**licence-holder**” means an electricity licence-holder, a gas licence-holder or a dual licence-holder;
+- “**lifetime tonnes of carbon dioxide**” means the amount in tonnes of carbon dioxide that is expected to be saved over the lifetime of a measure installed under this Order;
+- “**mobile home**” means a home which is—
+  - (a) a caravan within the meaning of Part I of the Caravan Sites and Control of Development Act 1960 [^c22280291] (disregarding the amendment made by section 13(2) of the Caravan Sites Act 1968 [^c22280301]); and
+  - (b) used as a dwelling for the purposes of—
+    - (i) Part I of the Local Government Finance Act 1992 [^c22280311] if it is situated in England or Wales;
+    - (ii) Part II of the Local Government Finance Act 1992 if it is situated in Scotland;
+- “**MtCO<sub>2</sub>**” means million lifetime tonnes of carbon dioxide;
+- “new 2015 supplier” and “new 2016 supplier” have the meanings given in article 4(3) and (3A);[^key-e8d37e13062b2854ebdac3633de4b285]
+- “**notification period**” means—
+  - (a) 1st January 2014 to 31st December 2014 for phase 1; [^key-d46ff812d91b2c1cf6e13eb63cc1c7eb]...
+  - (b) 1st January 2015 to 31st December 2015 for phase 2, and[^key-11f8e8ec2b42e731907d04999959821f]
+  - (c) 1st January 2016 to 31st December 2016 for phase 3,
+
+  and a reference in this Order, in relation to a phase, to the relevant notification period is to the notification period for that phase;
+- “PAS 2014” means the Publicly Available Specification 2030:2014;[^key-358958fcd0677d73e9b6141fc3d126ba]
+- “PAS 2017” means the Publicly Available Specification 2030:2017;
+- “**phase**” means one of the three phases[^key-c4892ff0c7fd22d4d89683670f53a47d] as follows—
+  - (a) the twelve months ending with 31st March 2016 (“phase 1”); [^key-431b65f9e87602eed48242bd52f7e308]...
+  - (b) the twelve months ending with 31st March 2017 (“phase 2”);
+  - (c) the 18 months ending with 30th September 2018 (“phase 3”);[^key-c368ff649aa871e3e6a172f13d7559c8]
+- “phase 3 party cavity wall insulation” means the insulation of a cavity wall, where—[^key-29a15d6e77f6215e3fe10211bad6acf6]
+  - (a) the installation of the insulation is completed on or after 1st April 2017; and
+  - (b) the wall divides premises from other premises under different occupation;
+- “pre-existing building” means a building erected before 1st April 2017;
+- “provisional solid wall minimum requirement” means the amount determined for a supplier in respect of phase 1, 2 or 3 under article 7(2);[^key-e9de7e08b86612cfa47d09db6240c988]
+- “Publicly Available Specification” (except in the definitions of “PAS 2014” and “PAS 2017”) means—[^key-4cc7776ba316e8b96974a56e0b78ff1d]
+  - (a) in relation to an installation completed on or before 31st March 2017, PAS 2014;
+  - (b) in relation to an installation completed between 1st April 2017 and 31st May 2017, PAS 2014 or PAS 2017;
+  - (c) in relation to an installation completed on or after 1st June 2017, PAS 2017;
+- “**qualifying action**” means (except in relation to the terms defined in paragraph (2)), as appropriate, a carbon qualifying action, a carbon saving community qualifying action or a heating qualifying action;
+- “**qualifying boiler**” means—
+  - (a) in the case of a boiler to be repaired, a boiler which the Administrator is satisfied—
+    - (i) is not functioning efficiently or has broken down; and
+    - (ii) has a seasonal energy efficiency value of not less than 86% when assessed against the Standard Assessment Procedure;
+  - (b) in the case of a boiler to be replaced, a boiler which the Administrator is satisfied—
+    - (i) is not functioning efficiently or has broken down; and
+    - (ii) cannot be economically repaired;
+- “**qualifying electric storage heater**” means—
+  - (a) in the case of an electric storage heater to be repaired, an electric storage heater which the Administrator is satisfied has broken down and has a responsiveness rating when assessed against the Standard Assessment Procedure of more than 0.2; and
+  - (b) in the case of an electric storage heater to be replaced, an electric storage heater (“H”) which—
+    - (i) the Administrator is satisfied has broken down and cannot be economically repaired; or
+    - (ii) is located at the same premises as an electric storage heater which falls within paragraph (a) or sub-paragraph (i) and H has a responsiveness rating when assessed against the Standard Assessment Procedure equal to or less than 0.2;
+- “**qualifying supply**” means the supply to domestic customers of 400 gigawatt hours of electricity or 2000 gigawatt hours of gas;
+- “**qualifying warranty**” means a warranty which meets the requirements set out in Schedule 3;
+- “**recommended measure**” means a measure recommended in—
+  - (a) a Green Deal report which has been produced in respect of the domestic premises at which the measure is to be installed; or
+  - (b) recommended in a report, other than a Green Deal report, by a chartered surveyor pursuant to an assessment of those domestic premises performed for the purpose of identifying measures for improving the energy efficiency of the premises;
+- “**Reduced Data Standard Assessment Procedure**” means the Government's Reduced Data Standard Assessment Procedure for energy ratings of dwellings (2012 Edition, version 9.92) [^c22280331];
+- “**relevant district heating connection**” means a connection of premises to a district heating system where the premises—
+  - (a) have flat roof, loft, rafter, room-in-roof or wall insulation; or
+  - (b) do not include the top floor of the building in which they are located and all of the external walls of the building are insulated, except for a wall which has—
+    - (i) one or more parts which are of solid wall construction; or
+    - (ii) a cavity which cannot be insulated;
+- “**relevant in-use factor**” means—
+  - (a) where a measure is specified in the first column of the table in Schedule 2, the percentage specified for that measure in the second column of that table; or
+  - (b) where a measure is not so specified, 15%;
+- “relevant year” means 2014, 2015 or 2016;[^key-c319ffa3259cad2656e1d65ea91c38bd]
+- “**rural area**” means an area in Great Britain which is described as a rural area in the 2014 low income and rural document;
+- “rural minimum requirement” means, subject to article 30A, the amount determined for a supplier under article 7 as the minimum amount of a supplier’s total carbon emissions reduction obligation which is to be achieved by promoting carbon qualifying actions that are—[^key-68398ae38876e6906f35599ee6b74745]
+  - (a) installed in premises situated in a rural area; and
+  - (b) completed on or after 1st April 2017;
+- “**SAP 2009**” means the Government's Standard Assessment Procedure for energy rating of dwellings (2009 Edition, as amended in October 2010) [^c22280341];
+- “SAP scored qualifying action” means a qualifying action which is—[^key-074aa1398b31c409de6a7e4c8d5df322]
+  - (a) completed on or before 31st March 2017; or
+  - (b) a connection of premises to a district heating system;
+- “**solid wall**” includes a metal or timber frame wall or a wall of pre-fabricated concrete construction;
+- “**solid wall insulation**” means internal or external insulation of a solid wall, but does not include insulation of a mobile home;
+- “**solid wall minimum requirement**” means the amount of a supplier's total carbon emissions reduction obligation which is to be achieved by promoting the installation of solid wall insulation;
+- “**a specified adjoining area**” means, where an area of low income (“area A”) is—
+  - (a) in England or Wales, an area (if any) adjoining area A which is listed as a “Lower Layer Super Output Area” by the Office of National Statistics for England and Wales, in a document entitled “Mid-2010 Population Estimates for Lower Layer Super Output Areas in England and Wales by Broad Age and Sex” (release date 28th September 2011) [^c22280351]; or
+  - (b) in Scotland, an area (if any) adjoining area A which is specified by the Scottish Executive as a “Datazone” in a document entitled “SIMD Datazone Lookup” (version 3 published on 6th March 2012) [^c22280361];
+- “**Standard Assessment Procedure**” means the Government's Standard Assessment Procedure for energy rating of dwellings (2012 Edition, version 9.92) [^c22280371];
+- “**supplier**” has the meaning given in article 4;
+- “**surplus action**” has the meaning given in article 27(3);
+- “**total carbon emissions reduction obligation**” means, in respect of a supplier, and subject to article 30A,[^key-5236ef98de6a34b4cf938f0144f21351] the sum of the supplier's carbon emissions reduction obligation—
+  - (a) for phase 1 which has been determined for the supplier under—
+    - (i) article 7, where article 11 does not apply;
+    - (ii) article 11, where that article applies; and
+  - (b) for phase 2 and for phase 3, which have been determined for the supplier under article 7;[^key-6ab2c2e5460ddd5f57794ed4722a6014]
+- “**total carbon saving community obligation**” means, in respect of a supplier, the sum of carbon savings community obligations which have been determined for the supplier in respect of phases 1 and 2;
+- “**total home heating cost reduction obligation**” means, in respect of a supplier, and subject to article 30A,[^key-349c64048d1ebf2158f8d535a54ca5cc] the sum of home heating cost reduction obligations which have been determined for the supplier in respect of phases 1, 2 and 3[^key-94695f37ad29899c70986205515ed2ce] ;
+- “total provisional solid wall minimum requirement” means, in respect of a supplier and subject to article 30A, the sum of the provisional solid wall minimum requirements which have been determined for the supplier in respect of phases 1, 2 and 3;[^key-c200c385a0e839c9d332bea4e8e82f01]
+- “**wall insulation**” means—
+  - (a) insulation of a cavity wall;
+  - (b) solid wall insulation.
+
+(2) In this Order—
+
+- “**ECO1 carbon qualifying action**” means a carbon qualifying action within the meaning of article 12 of the 2012 Order [^c22280381];
+- “**ECO1 carbon saving**” means, in relation to an—
+  - (a) ECO1 qualifying action, the carbon saving attributed to that action under article 19 of the 2012 Order;
+  - (b) ECO1 excess action, the carbon saving attributed to that action under article 21 or article 21ZA of the 2012 Order [^c22280391];
+- “**ECO1 carbon saving community qualifying action**” means a carbon saving community qualifying action within the meaning of article 13(5) of the 2012 Order [^c22280401];
+- “**ECO1 CERO target**” means a licence-holder's total carbon emissions reduction obligation for the period ending with 31st March 2015, determined under the 2012 Order;
+- “**ECO1 excess action**” means an action approved by the Administrator as an excess action or a group excess action under article 21 or article 21ZA of the 2012 Order;
+- “**ECO1 heating qualifying action**” means a heating qualifying action within the meaning of article 15(3) of the 2012 Order;
+- “**ECO1 qualifying action**” means an action which—
+  - (a) is—
+    - (i) an ECO1 carbon qualifying action;
+    - (ii) an ECO1 carbon saving community qualifying action; or
+    - (iii) an ECO1 heating qualifying action; and
+  - (b) was notified to the Administrator under article 16 of the 2012 Order [^c22280411].
+
+## PART 2 — Overall carbon emissions reduction target, overall carbon saving community target and overall home heating cost reduction target
+
+### 3. Overall carbon emissions reduction target, carbon saving community target and home heating cost reduction target
+
+(1) For the period 1st April 2015 to 31st March 2017 the overall—
+
+- (a)[^key-b3c27c818700d39ba48113889b57a403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) carbon saving community target is 6 MtCO<sub>2</sub>;
+- (c)[^key-b3c27c818700d39ba48113889b57a403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-634436d753e717bdcfb4cb6b1593cf49] For the period 1st April 2015 to 30th September 2018 the overall—
+
+- (a) carbon emissions reduction target is 19.7 MtCO<sub>2</sub>;
+- (b) home heating cost reduction target is £6.46bn.
+
+(2) The Administrator must ensure that—
+
+- (a) the total of all carbon emissions reduction obligations imposed on suppliers (excluding the increase, if any, in those obligations which applies by virtue of article 11) equals the overall carbon emissions reduction target;
+- (b) the total of all carbon saving community obligations imposed on suppliers equals the overall carbon savings community target; and
+- (c) the total of all home heating cost reduction obligations imposed on suppliers equals the overall home heating cost reduction target.
+
+### 4. Definition of a supplier
+
+(1) A licence-holder is a supplier where—
+
+- (a) the licence-holder supplies or, for a group company, the group supplies, more than—
+  - (i) 250,000 domestic customers at the end of 31st December of any relevant year; and
+  - (ii) a qualifying supply in the year ending on that date; or
+- (b) an ECO1 CERO target was imposed on the licence-holder under the 2012 Order.
+
+(2) For the purposes of paragraph (1)(a), where a licence-holder (“L”) is a member of a group (“G”), the supplies made by G are to be determined by reference to the type of supply in respect of which L is a licence-holder.
+
+(3) A new 2015 supplier[^key-71635a24c60e897130025ba903b792e2] is a supplier to whom paragraph (1) applies for the first time on 31st December 2015.
+
+(3A)[^key-5d19cbb570dfc7f441d48e1e7f593790] A new 2016 supplier is a supplier to whom the circumstances described in paragraph (1) apply for the first time on 31st December 2016.
+
+(4) For the purposes of determining the number of domestic customers of a licence-holder under this Order, a domestic customer who receives electricity and gas from a dual licence-holder is a separate domestic customer under each licence.
+
+(5) Where a dual licence-holder satisfies paragraph (1) in respect of electricity or gas that licence-holder is a separate supplier in respect of each supply.
+
+### 5. Article 4: group companies
+
+(1) This article applies for the purposes of article 4(1)(a).
+
+(2) Whether or not a licence-holder is a group company is to be determined according to whether the licence-holder was a group company[^key-c805680cf09476c6c83edf2ba6778171] on the date referred to in article 4(1)(a).
+
+(3) Where under paragraph (2) a licence-holder is a group company, the amount of electricity or, as applicable, gas supplied by the group in the year ending on the date referred to in article 4(1)(a), is the amount supplied by all licence-holders in the group during that year, whether or not they were members of the group throughout that year.
+
+### 6. Notification by suppliers of domestic customers and energy supplied
+
+(1) A person who is a supplier at the end of a notification period must notify the Administrator by the notification date for that period of—
+
+- (a) the number of that supplier's domestic customers at the end of that period;
+- (b) the amount of electricity or gas supplied to its domestic customers in that period.
+
+(2) Where a supplier fails to do so or where the Administrator considers that a notification is inaccurate, the Administrator may determine for the purposes of paragraph (1) the number of domestic customers of a supplier or the amount of electricity or gas supplied.
+
+(3) Where a supplier (“S”) is a group company at the end of a notification period, S must also notify the Administrator by the notification date for that period of the name of each other supplier in the group, its company registration number and the amount of electricity or gas supplied by the group in that period.
+
+(4) In paragraph (3), “**each other supplier in the group**” means each supplier which makes the type of supply in respect of which S is a supplier.
+
+(5) Where under paragraph (3) a supplier is a member of a group with another supplier, the amount of electricity or, as applicable, gas supplied by the group in the relevant notification period is the amount supplied by those suppliers whether or not a supplier was a member of the group throughout that notification period.
+
+(6) Where a supplier fails to provide the information in paragraph (3), or the Administrator considers any of the information notified by the supplier under that paragraph is inaccurate, the Administrator may for the purposes of that paragraph determine the matters to which that information relates.
+
+(7) Anything determined by the Administrator under paragraph (2) or (6) is to be treated as if it were notified by the supplier.
+
+(8) In this article, “**notification date**” means, in relation to the notification period for—
+
+- (a) phase 1, 1st February 2015;
+- (b) phase 2, 1st February 2016.
+- (c)[^key-eebcaee63eef28d4ac2a7dff7c5a2c96] phase 3, the date falling 21 days after the commencement date.
+
+## PART 3 — Determining carbon emissions reduction obligations, carbon saving community obligations and home heating cost reduction obligations
+
+### 7. Determining a supplier’s obligations and minimum requirements[^key-2ecd93bb42734f251b9151ac975eeea9]
+
+(1) Except where paragraph (6) or (7) applies, the Administrator must determine [^key-057e64e62f30cba9e3c01d79d468b231]... a supplier's—
+
+- (a) carbon emissions reduction obligation for each phase[^key-6e9d3e71f2891308d15fd095bf7f0744];
+- (b) carbon saving community obligation for phase 1 and phase 2[^key-0ab913e2ad7a83e72f326f33538dbefe]; and
+- (c) home heating cost reduction obligation for each phase[^key-835c666e782fbf41ca99bbe33c584759] .
+
+(2) Except where paragraph (6) or (7) applies, the Administrator must also determine for each phase a supplier's provisional solid wall minimum requirement.
+
+(3) For the purposes of paragraphs (1) and (2), the Administrator must—
+
+- (a) in the case of a supplier which is not a group company during the phase to which a determination relates, make the determination in accordance with article 8;
+- (b) in the case of a supplier which is a group company during the phase to which a determination relates, make the determination in accordance with article 9.
+
+(4)[^key-b7ae9c96143d2b8351e9809e5cf6173a] Except where paragraph (6) or (7) applies, a supplier’s—
+
+- (a) home heating minimum requirement for phase 3 is—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+  where “H” is the home heating cost reduction obligation determined under paragraph (1) for the supplier in respect of phase 3; and
+- (b) rural minimum requirement for phase 3 is—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+  where “C” is the carbon emissions reduction obligation determined under paragraph (1) for the supplier in respect of phase 3.
+
+(5) The Administrator must notify a supplier of its obligations in paragraph (1) and its provisional solid wall minimum requirement—
+
+- (a) for phase 1 and 2, by no later than the last day of February prior to the commencement of the phase;
+- (b) for phase 3, by no later than 28 days after the commencement date.
+
+(6) Where a supplier—
+
+- (a) is not a group company; and
+- (b) has notified under article 6 a supply of gas or electricity for the relevant notification period which does not exceed a qualifying supply,
+
+each of the supplier's obligations in paragraph (1) , the requirement in paragraph (2) and the requirements in paragraph (4)[^key-9c2a0839da60e26fad00cc7880ff33ca] for a phase is zero.
+
+(7) Where a supplier—
+
+- (a) is a group company; and
+- (b) has notified under article 6 a supply of gas or electricity for the group for the relevant notification period which does not exceed a qualifying supply,
+
+each of the supplier's obligations in paragraph (1) , the requirement in paragraph (2) and the requirements in paragraph (4)[^key-9e2a3c15a22bf94f7355082b98a3c1f1] for a phase is zero.
+
+(8) A supplier is a group company during a phase where it is a member of a group with another supplier at the end of 31st December immediately before the commencement of that phase.
+
+### 8. Determining obligations for a supplier who is not a member of a group
+
+Where this article applies, in respect of each of the obligations referred to in article 7(1) and the provisional solid wall minimum requirement referred to in article 7(2), the supplier's obligation or requirement, as applicable, for a phase is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+where—
+
+- “A” is half of the value given for the obligation or requirement in the following table in relation to the phase;
+
+  |  | *Carbon emissions reduction obligation* | *Carbon saving community obligation* | *Home heating cost reduction obligation* | *Provisional solid wall minimum requirement* |
+  | --- | --- | --- | --- | --- |
+  | Phase 1 | 6.2MtCO<sub>2</sub> | 3MtCO<sub>2</sub> | £1.85bn | 2MtCO<sub>2</sub> |
+  | Phase 2 | 6.2MtCO<sub>2</sub> | 3MtCO<sub>2</sub> | £1.85bn | 2MtCO<sub>2</sub> |
+  | Phase 3[^key-cad3b5869e1647aae849bb054be90aa9] | 7.3 MtCO<sub>2</sub> | – | £2.76bn | 1.4 MtCO |
+- “Tx” is the amount of electricity or gas supplied in the relevant notification period by the supplier as determined in accordance with article 10;
+- “T” is the total amount of electricity or gas, as applicable, supplied in the relevant notification period by all suppliers as determined in accordance with article 10 but excluding those suppliers for whom an obligation of zero applies under article 7(6) and (7).
+
+### 9. Determining obligations for a supplier who is a member of a group
+
+Where this article applies, in respect of each of the obligations referred to in article 7(1) and the provisional solid wall minimum requirement referred to in article 7(2), the supplier's obligation or requirement, as applicable, for a phase is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+where—
+
+- “J” is the amount produced by applying the formula set out in article 8 where—
+  - (i) A and T have the same meaning as in that article;
+  - (ii) Tx is the amount of electricity or gas supplied in the relevant notification period by the group to which the supplier belongs as determined in accordance with article 10;
+- “H” is the amount of electricity or gas notified by a supplier for the relevant notification period;
+- “K” is the amount of electricity or gas supplied in the relevant notification period by the group to which the supplier belongs.
+
+### 10. Determining supply
+
+(1) For the purposes of articles 8 and 9, the amount of electricity or gas supplied by a supplier or group in the relevant notification period is—
+
+- (a) where the amount notified under article 6 for that period is more than a qualifying supply but less than the amount in sub-paragraph (b)(i) or (ii) (as the case may be), the amount determined using the formula in paragraph (2);
+- (b) where the amount notified under article 6 for that period is equal to or more than—
+  - (i) 800 gigawatt hours of electricity; or
+  - (ii) 4000 gigawatt hours of gas,
+
+  the notified amount.
+
+(2) The formula referred to in paragraph (1)(a) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+where—
+
+- “A” is the amount of electricity or gas notified by the supplier or group for the relevant notification period;
+- “B” is—
+  - (i) in the case of an electricity supplier, 400 gigawatt hours; or
+  - (ii) in the case of a gas supplier, 2000 gigawatt hours.
+
+### 11. Increasing a supplier's carbon emissions reduction obligation as a result of the supplier's failure to achieve its ECO1 CERO target
+
+(1) This article applies where a supplier does not achieve its ECO1 CERO target by the end of March 2015.
+
+(2) Where this article applies, the supplier's carbon emissions reduction obligation for phase 1, determined under article 7, is to be increased by—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+where—
+
+- “A” is the amount, in MtCO<sub>2</sub>, of the supplier's ECO1 CERO target;
+- “B” is the sum, in MtCO<sub>2</sub>, of—
+  - (i) the ECO1 carbon savings attributed to the ECO 1 qualifying actions and ECO1 excess actions credited against the supplier's ECO1 CERO target; and
+  - (ii) the uplifts, if any, attributed to those ECO1 qualifying actions under article 19B or 19D of the 2012 Order [^c22280421].
+
+(3) The Administrator must notify the supplier by no later than 30th September 2015 of its revised phase 1 carbon emissions reduction obligation resulting from the calculation in paragraph (2).
+
+## PART 4 — Achievement of obligations, determining savings and surplus actions
+
+### 12. Achievement of carbon emissions reduction obligation
+
+(1) A supplier must achieve its total carbon emissions reduction obligation by no later than 30th September 2018[^key-911fbd3a55f8b2e6699f8218f309f4b6] .
+
+(2) A supplier must—
+
+- (a) achieve its total carbon emissions reduction obligation by promoting carbon qualifying actions; and
+- (b)[^key-c9d62c7784461b10d7c88b6c6ce923fe] in meeting that obligation—
+  - (i) promote the installation of solid wall insulation so that the supplier achieves at least its solid wall minimum requirement; and
+  - (ii) promote the installation of measures that are completed on or after 1st April 2017 in premises situated in a rural area so that the supplier achieves at least its rural minimum requirement.
+
+(3) A carbon qualifying action is the installation, at domestic premises, of a measure which is—
+
+- (a) a primary measure or, subject to paragraph (4), a secondary measure;
+- (b) installed on or after 1st April 2015 and in accordance with the Publicly Available Specification, where the installation is referred to in the Specification; [^key-0684a065c49896ae99322e8bea7dfbae]...
+- (c)[^key-ae1ebc642936bf5e1fa5c355fb19904f] except in the case of an installation completed on or after 1st April 2017, a recommended measure or a relevant district heating connection; and
+- (d) in the case of an installation completed on or after 1st April 2017—
+  - (i) installed at a pre-existing building or installed at premises which were first occupied as domestic premises before the installation was completed; and
+  - (ii) installed by or under the responsibility of a certified installer, where the installation is referred to in the Publicly Available Specification.
+
+(4) A secondary measure is not a carbon qualifying action unless—
+
+- (a) it is installed at the same premises where a primary measure has been or will be installed (“a related primary measure”);
+- (b) except where the related primary measure is described in paragraph (g) of the definition of “primary measure”, the installation and supplier conditions are met in respect of the secondary measure; and
+- (c) where the related primary measure is—
+  - (i) described in any of paragraphs (a) to (d) of the definition of “primary measure”, it is installed to at least 50% of the roof area of the premises;
+  - (ii) loft insulation, it is installed in lofts which have no more than 150mm of insulation before the installation takes place and results in the lofts being insulated to a depth of no less than 250mm;
+  - (iii) wall insulation, it is applied to at least 50% of the walls which are exterior facing or it is phase 3 party cavity wall insulation[^key-e6a5c0f436783c6779d3ca08903b3030] ;
+  - (iv) insulation applied to the ceiling, floor and walls of a mobile home, it is applied to at least 50% of the mobile home;
+  - (v) described in paragraph (g) of the definition of “primary measure”, the supplier condition is met.
+
+(5) Where a secondary measure is installed before a related primary measure, the secondary measure is not completed for the purposes of article 17 until the installation of the related primary measure is complete.
+
+(6) In this article—
+
+- “**installation condition**” means that the secondary measure is installed on the same date as, or no more than six months before, or no more than six months after, the date on which the related primary measure is installed;
+- “**primary measure**” means—
+  - (a) flat roof insulation;
+  - (b) loft insulation;
+  - (c) rafter insulation;
+  - (d) room-in-roof insulation;
+  - (e) wall insulation;
+  - (f) insulation applied to the ceiling, floor and walls of a mobile home; or
+  - (g) a relevant district heating connection;
+- “**secondary measure**” means a measure, other than a primary measure, which is installed to improve the insulating properties of domestic premises;
+- “**supplier condition**” means that the secondary measure is installed by the same supplier who installs the related primary measure.
+
+### 13. A supplier's solid wall minimum requirement
+
+(1) A supplier's solid wall minimum requirement is, in MtCO<sub>2</sub>,—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+where—
+
+“A” is the supplier’s total provisional solid wall minimum requirement;[^key-cd58582311ce4e218d7b2bc3e24b50d4]
+
+“B” is the appropriate carbon saving for all solid wall insulation that is—
+
+- (a) an ECO1 qualifying action which was—
+  - (i) credited against the supplier's obligations under the 2012 Order; and
+  - (ii) required by the supplier to meet its obligations under the 2012 Order;
+- (b) a carbon saving community qualifying action or surplus action, where the action is credited against the supplier's total carbon saving community obligation;
+- (c) a heating qualifying action or surplus action, where the action is credited against the supplier's total home heating cost reduction obligation.
+
+(2) In this article, “**appropriate carbon saving**” means in relation to—
+
+- (a) an ECO1 qualifying action or a surplus action, the carbon saving, in MtCO<sub>2</sub>, for that action calculated by determining the saving in accordance with article 16(6) of the 2012 Order;
+- (b) a qualifying action which is credited against the supplier's total carbon saving community obligation or total home heating cost reduction obligation, the carbon saving, in MtCO<sub>2</sub>, for that solid wall insulation calculated in accordance with article 18.
+
+### 14. Achievement of carbon saving community obligation
+
+(1) A supplier must achieve its total carbon saving community obligation by the end of March 2017.
+
+(2) Subject to paragraph (3) and article 15, a supplier must achieve its total carbon saving community obligation by promoting carbon saving community qualifying actions in an area of low income.
+
+(3) A supplier must achieve at least 15% of its total carbon saving community obligation by promoting carbon saving community qualifying actions—
+
+- (a) to members of the affordable warmth group living in a rural area; or
+- (b) in a deprived rural area.
+
+(4) A carbon saving community qualifying action is the installation, at domestic premises, of a measure in paragraph (5) where the conditions in paragraph (6) are satisfied.
+
+(5) The measures referred to in paragraph (4) are—
+
+- (a) a recommended measure installed to improve the insulating properties of the premises; or
+- (b) a relevant district heating connection.
+
+(6) The conditions referred to in paragraph (4) are that the installation must be carried out—
+
+- (a) on or after 1st April 2015; and
+- (b) in accordance with the Publicly Available Specification where the installation is referred to in the Specification.
+
+### 15. Actions in specified adjoining areas of low income
+
+(1) This article applies where there is—
+
+- (a) an area of low income (“area A”); and
+- (b) in relation to area A, a specified adjoining area (“area B”).
+
+(2) Subject to the limit in paragraph (3), where a supplier promotes carbon saving community qualifying actions in area A, the supplier may promote carbon saving community qualifying actions in area B (“adjoining installations”).
+
+(3) The sum total of the carbon savings for adjoining installations which—
+
+- (a) are achieved by the supplier; and
+- (b) relate to area A,
+
+must not exceed 25% of the sum of the carbon savings for all carbon saving community qualifying actions achieved by that supplier in area A.
+
+(4) A supplier must identify, when notifying an adjoining installation under article 17, the areas A and B to which the installation relates.
+
+(5) Only one area A may be notified under paragraph (4) in relation to an adjoining installation.
+
+### 16. Achievement of home heating cost reduction obligation
+
+(1) A supplier must achieve its total home heating cost reduction obligation by the end of 30th September 2018”[^key-0c6d735d6917233122b1583384c6b520] .
+
+(2)[^key-ae14dbb244457f3c363f0801e90a16b3] Subject to paragraphs (6) to (7A), a supplier must—
+
+- (a) achieve its total home heating cost reduction obligation by promoting heating qualifying actions; and
+- (b) in meeting that obligation, promote heating qualifying actions—
+  - (i) that are completed on or after 1st July 2016; and
+  - (ii) that are not the replacement of a qualifying boiler fuelled by mains gas,
+
+  so that the supplier achieves at least its home heating minimum requirement.
+
+(3) A heating qualifying action is the installation of a measure which—
+
+- (a) is installed at domestic premises;
+- (b) results in the reduction in the cost of heating those premises to 21 degrees Celsius in the main living areas and 18 degrees Celsius in all other areas;
+- (c) in the case of an installation completed on or before 31st March 2017, is installed at private domestic premises occupied by a member of the affordable warmth group;
+- (d) in the case of an installation completed on or after 1st April 2017—
+  - (i) meets the condition in article 16A(2), (3), (4), (5) or (6); and
+  - (ii) is installed at a pre-existing building or installed at premises which were first occupied as domestic premises before the installation was completed;
+- (e) is accompanied by any warranty required by paragraph (4) or (8); and
+- (f) is carried out in accordance with paragraph (5).
+
+(4) A heating qualifying action which is the repair of a qualifying boiler or a qualifying electric storage heater must be accompanied by a warranty for at least one year.
+
+(5)[^key-c70bad9fdbdd63b0e044277eeaa28dc2] A heating qualifying action must be carried out—
+
+- (a) on or after 1st April 2015;
+- (b) in accordance with the Publicly Available Specification, where the installation is referred to in the Publicly Available Specification;
+- (c) by a person of appropriate skill and experience, where the installation is completed on or before 31st March 2017 or is not referred to in the Publicly Available Specification; and
+- (d) by or under the responsibility of a certified installer, where the installation is completed on or after 1st April 2017 and referred to in the Publicly Available Specification.
+
+(6) No more than 5% of a supplier's total home heating cost reduction obligation may be achieved by the repair of a qualifying boiler.
+
+(7) No more than 5% of a supplier's total home heating cost reduction obligation may be achieved by the repair of a qualifying electric storage heater.
+
+(7A)[^key-28d376a4c0ea77b5d00e247155d44c66] Where Z (as calculated in accordance with paragraph (7B)) is less than 100, no more than Z% of a supplier’s total home heating cost reduction obligation may be achieved by measures which are heating qualifying actions by virtue of meeting the condition in article 16A(3), (4) or (5).
+
+(7B) For the purposes of paragraph (7A), “Z” is calculated as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+where—
+
+- “A” is the home heating cost reduction obligation determined for the supplier under article 7(1) in respect of phase 3; and
+- “B” is the greater of £1 or the supplier’s total home heating cost reduction obligation.
+
+(8) A supplier must ensure that a heating qualifying action which is—
+
+- (a) a replacement boiler is accompanied at the time installation is complete by a qualifying warranty;
+- (b) a replacement electric storage heater is accompanied by a warranty for one year.
+
+(9) In this article “**private domestic premises**” means domestic premises other than premises described in Part 1 of Schedule 4[^key-ad5383669557bbeef6d0354900fafb02] .
+
+### 16A. Conditions to be met for heating qualifying actions completed after 31st March 2017[^key-ecf3598ab040e07a4de3632032d2fb79]
+
+(1) This article applies for the purpose of the definition of “heating qualifying action” in article 16(3).
+
+(2) A measure meets the condition in this paragraph if the measure is installed at private domestic premises which are occupied by a member of the help to heat group.
+
+(3) A measure meets the condition in this paragraph if—
+
+- (a) the measure is installed at private domestic premises;
+- (b) a local authority has published a statement of intent and been consulted on the installation of a heating qualifying action at the premises; and
+- (c) on or after publication of its statement of intent, the local authority has—
+  - (i) made a statement in writing that, in the opinion of the local authority, the premises are occupied by a household living in fuel poverty; or
+  - (ii) made a statement in writing that, in the opinion of the local authority, the premises are occupied by a household living on a low income and vulnerable to the effects of living in a cold home.
+
+(4) A measure meets the condition in this paragraph if—
+
+- (a) it is solid wall insulation installed at private domestic premises;
+- (b) a local authority has published a statement of intent and been consulted on the installation of the solid wall insulation at the premises;
+- (c) the local authority has made a statement in writing that—
+  - (i) the premises are situated in a semi-detached house, a semi-detached bungalow or a building containing no more than two domestic premises; and
+  - (ii) to the best of the local authority’s knowledge and belief, both houses or bungalows in the pair of semi-detached properties or both premises in the building referred to in paragraph (i) are private domestic premises; and
+- (d) on or after publication of its statement of intent, the local authority has—
+  - (i) made a statement in writing that, in the opinion of the local authority, at least one of the premises in the pair of semi-detached properties or in the building referred to in sub-paragraph (c)(i) is occupied by a household living in fuel poverty; or
+  - (ii) made a statement in writing that, in the opinion of the local authority, at least one of the premises in the pair of semi-detached properties or in the building referred to in sub-paragraph (c)(i) is occupied by a household living on a low income and vulnerable to the effects of living in a cold home.
+
+(5) A measure meets the condition in this paragraph if—
+
+- (a) it is solid wall insulation installed at private domestic premises;
+- (b) a local authority has published a statement of intent and been consulted on the installation of the solid wall insulation at the premises;
+- (c) the premises are included in a list of premises which—
+  - (i) has been created by the local authority on or after publication of its statement of intent;
+  - (ii) identifies any premises on the list which in the opinion of the local authority are occupied by a household living in fuel poverty; and
+  - (iii) identifies any other premises on the list which in the opinion of the local authority are occupied by a household living on a low income and vulnerable to the effects of living in a cold home; and
+- (d) the local authority has made a statement in writing that—
+  - (i) to the best of the local authority’s knowledge and belief, all of the premises included in the list referred to in sub-paragraph (c) are private domestic premises;
+  - (ii) all of the premises included in that list are situated in the same building, in immediately adjacent buildings or in the same terrace; and
+  - (iii) in the opinion of the local authority, at least 66% of the premises included in that list are occupied by households living in fuel poverty or by households living on a low income and vulnerable to the effects of living in a cold home.
+
+(6) A measure meets the condition in this paragraph if—
+
+- (a) the measure is installed at E, F or G social housing; and
+- (b) the measure is—
+  - (i) installed to improve the insulating properties of domestic premises;
+  - (ii) the installation of a central heating system or a renewable heating measure in domestic premises which at no point prior to the installation were heated by a central heating system, a district heating system or an electric storage heater; or
+  - (iii) a relevant district heating connection to domestic premises which at no point prior to the connection were heated by a central heating system, a district heating system or an electric storage heater.
+
+(7) In this article—
+
+- “central heating system” means a system which provides heat for the purpose of space heating through a boiler or other heat source connected to one or more separate heat emitters;
+- “E, F or G social housing” means domestic premises described in Schedule 4A;
+- “help to heat group” means a group of persons where each person in the group is awarded at least one of the benefits set out in paragraph 1 of Schedule 4B and meets any condition in relation to that benefit which is specified in that Schedule;
+- “local authority” means—
+  - (a) a county council;
+  - (b) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
+  - (c) a district council;
+  - (d) a London Borough Council;
+  - (e) the Common Council of the City of London;
+  - (f) the Council of the Isles of Scilly;
+  - (g) a county borough council;
+  - (h) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
+- “private domestic premises” means domestic premises other than premises described in Part 2 of Schedule 4;
+- “renewable heating measure” means a measure for the generation of heat by means of a source of energy or technology mentioned in section 100(4) of the Energy Act 2008; and
+- “statement of intent” means a description of how the local authority intends to identify households that may benefit from the installation of a heating qualifying action and are living—
+  - (a) in fuel poverty; or
+  - (b) on a low income and are vulnerable to the effects of living in a cold home.
+
+### 17. Notifications of qualifying actions
+
+(1) Subject to paragraph (3A),[^key-f29e4299fbf59b8441c48021c3608bc3] A supplier must by the end of each relevant calendar month notify the Administrator in writing of each qualifying action completed in the calendar month immediately prior to the calendar month in which the notification is required to be made in accordance with this paragraph.
+
+(2) A notification under paragraph (1) must—
+
+- (a) identify which obligation the qualifying action is intended to be credited against; and
+- (b) include, as appropriate, the carbon saving or cost score for each qualifying action.
+
+(3) Except where article 12(5) applies, a qualifying action is completed when its installation is complete.
+
+(3A)[^key-fa7a5a3a761f8afecfd322d700a8ab7d] A supplier may notify a completed qualifying action (“the late action”) after the date required by paragraph (1) (“the original deadline”) if—
+
+- (a) following receipt of an application under paragraph (4), the Administrator has extended the period for notifying the late action and the notification is made within that extended period; or
+- (b) the late action—
+  - (i) falls within the 5% notification threshold for the supplier (“the notifying supplier”);
+  - (ii) is completed on or after 1st April 2017; and
+  - (iii) is notified before the earlier of—
+    - (aa) the end of the fourth calendar month after the calendar month in which the late action was completed; or
+    - (bb) the end of December 2018.
+
+(3B) For the purposes of paragraph (3A)(b)(i), a late action falls within the 5% notification threshold for the notifying supplier if, at the time the late action is notified to the Administrator, the result of the following formula is less than or equal to 0.05—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+where—
+
+- (a) “A” is the number of qualifying actions (also counting the late action) which are—
+  - (i) completed in the same calendar month as the late action; and
+  - (ii) notified after the original deadline by—
+    - (aa) the notifying supplier; or
+    - (bb) any other supplier that is a member of the same group as the notifying supplier;
+- (b) “B” is the number of qualifying actions which are—
+  - (i) completed in the same calendar month as the late action;
+  - (ii) the subject of an application under paragraph (4) which results in the Administrator extending the period for notifying the action (“the extended period”); and
+  - (iii) notified after the original deadline and within the extended period by—
+    - (aa) the notifying supplier; or
+    - (bb) any other supplier that is a member of the same group as the notifying supplier; and
+- (c) “C” is the greater of one or the number of qualifying actions which are—
+  - (i) completed in the same calendar month as the late action; and
+  - (ii) notified on or before the original deadline by—
+    - (aa) the notifying supplier; or
+    - (bb) any other supplier that is a member of the same group as the notifying supplier.
+
+(4) A supplier may apply to the Administrator for a completed qualifying action to be notified after the date required by paragraph (1).
+
+(5)[^M_F_142f779d-675d-4a0d-f748-2ea773240706] Following receipt of an application under paragraph (4), the Administrator may extend the period for notifying the late action for such period as it thinks fit provided that—
+
+- (a) details of why the supplier is seeking an extension of time to notify the late action are provided in the application; and
+- (b) in the case of an action completed on or before 31st March 2017, the reason for the application is one other than an administrative oversight on the part of the supplier.
+
+(7) A notification under this article must include such information relating to a qualifying action as the Administrator may from time to time require.
+
+(8) In this article—
+
+- “new supplier” means a new 2015 supplier or a new 2016 supplier;[^key-071bc51fce49d47363cc187ca5618c7a]
+- “**overall obligation period**” means—
+  - (a) for a supplier other than a new supplier, the period beginning with 1st April 2015 and ending with 30th September 2018[^key-f2adc624ff2cbc25e8f32b61891ae185] ;
+  - (b) for a new 2015 supplier, the period beginning with 1st April 2016 and ending with 30th September 2018;[^key-8321b14048231facbbc5e7babe5dc6b4]
+  - (c) for a new 2016 supplier, the period beginning with 1st April 2017 and ending with 30th September 2018;
+- “**relevant calendar month**” means—
+  - (a) a calendar month in the overall obligation period for the supplier (but excluding April 2015 if that month would otherwise form part of that period); and
+  - (b) October 2018[^key-0d5380cd25b281b4fca1c688935e3457] .
+
+### 18. Determining the carbon saving for a qualifying action
+
+(1) Subject to paragraph (2), the carbon saving for a SAP scored[^key-8d25eddd0b00f01c437ad8bf9f124a65] qualifying action notified under article 17 is calculated—
+
+- (a) in accordance with the following formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+  where—
+
+  - (i) “A” is the carbon dioxide equivalent saving for the qualifying action, determined in accordance with the Standard Assessment Procedure or the Reduced Data Standard Assessment Procedure; and
+  - (ii) “B” is the relevant in-use factor; or
+- (b) in accordance with an appropriate methodology approved by the Administrator under article 24.
+
+(2) Where the qualifying action is a measure installed in Scotland on or before 31st March 2017[^key-cfe92c5e7eb8da44ab357b187a1f270b] , the carbon saving for that action may also be calculated by determining the saving in accordance with SAP 2009 and reducing that saving by the relevant in-use factor.
+
+(2A)[^key-74e3d8f20020b1495d9f4a8cd0987be3] The carbon saving for a deemed score qualifying action notified under article 17 is calculated in accordance with the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+where—
+
+- (a) “A” is the carbon dioxide equivalent saving for the qualifying action, determined in accordance with a methodology published by the Administrator under article 24A(1); and
+- (b) “B” is the relevant in-use factor.
+
+(3) Where a qualifying action is the installation of solid wall insulation which is accompanied by an appropriate warranty, the expected lifetime of the solid wall insulation, for the purpose of calculating its carbon saving, is 36 years.
+
+(4) In this article—
+
+- “**appropriate warranty**” means a warranty which the Administrator is satisfied—
+  - (a) is supported by a mechanism that gives assurance that—
+    - (i) funds will be available to honour the warranty; and
+    - (ii) the installation of the solid wall insulation and products used in the solid wall insulation comply with a quality assurance framework;
+  - (b) is for 25 years or more; and
+  - (c) provides for repair, or replacement where appropriate, of the solid wall insulation, covering the cost of remedial and replacement works and materials;
+- “**carbon dioxide equivalent saving**” means, in respect of a measure, the amount in tonnes of carbon dioxide equivalent that is expected to be saved over the lifetime of the measure;
+- “**international carbon reporting practice**” has the meaning given by section 94(1) of the Climate Change Act 2008 [^c22280431];
+- “**tonne of carbon dioxide equivalent**” means—
+  - (a) a tonne of carbon dioxide; or
+  - (b) an amount of—
+    - (i) methane;
+    - (ii) nitrous oxide;
+    - (iii) methane and nitrous oxide combined; or
+    - (iv) carbon dioxide mixed with one or both of the gases listed in sub-paragraphs (i) and (ii),
+
+    with an equivalent global warming potential to one tonne of carbon dioxide (calculated consistently with international carbon reporting practice).
+
+### 19. Determining the cost score for a qualifying action
+
+(1) Subject to article 23, the cost score for a heating qualifying action notified under article 17 is calculated—
+
+- (a) in the case of a SAP scored qualifying action, other than a case[^key-cd039a10f86c4953688a4fb3a2929e96] where sub-paragraph (b) or (c) applies and subject to paragraph (2), by determining the cost saving for the qualifying action in accordance with—
+  - (i) the Standard Assessment Procedure or the Reduced Data Standard Assessment Procedure; or
+  - (ii) an appropriate methodology approved by the Administrator under article 24;
+- (b) in the case of the repair or replacement of a qualifying boiler completed on or before 31st March 2017[^key-4464acdd80d92ea0c43423c06eb45e89], in accordance with article 20 or article 21, as applicable; [^key-2850c3b54cdad5859aef9badb99d4243]...
+- (c) in the case of the repair of a qualifying electric storage heater or the replacement of a qualifying electric storage heater by another electric storage heater completed on or before 31st March 2017[^key-bd106bc0516697b05d24dc52667805df] , in accordance with article 22. or[^key-660d63ae5f22735aa9c00ec1bd897c4f]
+- (d) in the case of a deemed score qualifying action, in accordance with paragraph (2A).
+
+(2) Where paragraph (1)(a) applies in respect of a qualifying action installed in Scotland on or before 31st March 2017[^key-ed2c694646fdcf465fa86ef33441bc04] , the cost score for that action may also be calculated by determining the cost saving in accordance with SAP 2009.
+
+(2A)[^key-44a8a8a2e1797e59d2ef241c8c5859cf] The cost score for a deemed score qualifying action must be determined—
+
+- (a) in the case of the replacement of a qualifying boiler where both the boiler being replaced and the replacement boiler are fuelled by mains gas, in accordance with the following formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+- (b) in the case of—
+  - (i) the replacement of a qualifying boiler where the boiler being replaced or the replacement boiler is not fuelled by mains gas;
+  - (ii) the repair of a qualifying boiler or qualifying electric storage heater;
+  - (iii) the replacement of a qualifying electric storage heater by another electric storage heater,
+
+  in accordance with the following formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+- (c) in any other case, in accordance with the following formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+(2B) In paragraph (2A)—
+
+- “A” is the cost saving for the qualifying action calculated in accordance with a methodology published by the Administrator under article 24A(2)(a); and
+- “B” is the cost saving for the qualifying action calculated in accordance with a methodology published by the Administrator under article 24A(2)(b).
+
+(2C) For the purposes of calculating its cost score, where a deemed score qualifying action is—
+
+- (a) the repair of a qualifying boiler or a qualifying electric storage heater which is accompanied with—
+  - (i) a warranty for less than two years, the expected lifetime of the repair is one year;
+  - (ii) a warranty for two years or more, the expected lifetime of the repair is two years;
+- (b) the replacement of a qualifying boiler, the expected lifetime of the replacement boiler is 12 years;
+- (c) the replacement of a qualifying electric storage heater, the expected lifetime of the replacement electric storage heater is 20 years.
+
+(3) Where a qualifying action is the installation of solid wall insulation which is accompanied by an appropriate warranty, the expected lifetime of the solid wall insulation, for the purpose of calculating its cost score, is 36 years.
+
+(4) In paragraph (3), “**appropriate warranty**” has the meaning given in article 18.
+
+### 20. Determining the cost score for a qualifying boiler repair and replacement
+
+(1) Subject to articles 21 and 23, the cost score for the repair or replacement of a qualifying boiler completed on or before 31st March 2017[^key-1acd7d57ced044b71518530a59270558] must be determined in accordance with the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+(2) In paragraph (1)—
+
+- “A” is the cost of heating the premises (“P”) where the repaired or replaced boiler is situated and, where applicable, the cost of heating water at P as determined in accordance with—
+  - (a) the Standard Assessment Procedure or (but only if the repair or replacement was carried out in Scotland) SAP 2009;
+  - (b) the Reduced Data Standard Assessment Procedure; or
+  - (c) an appropriate methodology for calculating the cost savings approved by the Administrator under article 24,
+
+  where the calculation is based on the absence of a working heating system in P;
+- “B” is the cost of heating P and, where applicable, heating water at P using, as applicable, the boiler that was repaired or the replacement for the boiler;
+- “N” is—
+  - (a) in the case of a repair of a qualifying boiler which is accompanied with—
+    - (i) a warranty for at least one year, but less than two years, 1;
+    - (ii) a warranty for two years or more, 2;
+  - (b) in the case of a replacement of a qualifying boiler, 12.
+
+### 21. Determining the cost score for a gas fuelled qualifying boiler replacement
+
+The cost score for the replacement of a qualifying boiler by another boiler completed on or before 31st March 2017[^key-cbd2ee6b70c4f9fe3a1150173874bb6b] , where both the boiler being replaced and the replacement boiler are fuelled by mains gas, must be determined by reducing the amount calculated in accordance with article 20 by 20 per cent.
+
+### 22. Determining the cost score for a qualifying electric storage heater repair and replacement
+
+(1) The cost score for a heating qualifying action completed on or before 31st March 2017 which is[^key-6c4c191b01184b70a14a90c543799c7c] —
+
+- (a) the repair of a qualifying electric storage heater; or
+- (b) the replacement of a qualifying electric storage heater by another electric storage heater,
+
+must be determined in accordance with the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+(2) In paragraph (1)—
+
+- “A” is the cost of heating the part of the premises (“PP”) which is heated by the repaired or replaced electric storage heater as determined in accordance with—
+  - (a) the Standard Assessment Procedure or (but only if the repair or replacement was carried out in Scotland) SAP 2009;
+  - (b) the Reduced Data Standard Assessment Procedure; or
+  - (c) an appropriate methodology for calculating the savings approved by the Administrator under article 24,
+
+  where the calculation is based on the absence of a working heating system for PP;
+- “B” is the cost of heating PP using, as applicable, the electric storage heater that was repaired or the replacement electric storage heater;
+- “N” is—
+  - (a) in the case of a repair of a qualifying electric storage heater which is accompanied with—
+    - (i) a warranty for at least one year, but less than two years, 1;
+    - (ii) a warranty for two years or more, 2;
+  - (b) in the case of a replacement of a qualifying electric storage heater, 20.
+
+### 23. Determining the cost score for heating qualifying actions installed at non-gas fuelled premises
+
+(1) This article applies where a heating qualifying action is installed at premises which—
+
+- (a) are non-gas fuelled prior to installation of the measure; and
+- (b) remain non-gas fuelled when installation of the measure is complete.
+
+(2) Where this article applies, the cost score for the heating qualifying action is the amount calculated in accordance with article 19 or 20 as applicable, increased by—
+
+- (a) 35 per cent, where the action is a measure installed to improve the insulating properties of the premises;
+- (b) 45 per cent, where the action is—
+  - (i) the replacement of a qualifying boiler by a measure other than an electric storage heater; or
+  - (ii) the repair of a qualifying boiler.
+
+(3) For the purposes of this article, premises are non-gas fuelled where the main space heating system for the property is not—
+
+- (a) fuelled by mains gas; or
+- (b) a district heating system.
+
+### 24. Approval of an appropriate methodology for the carbon saving or cost saving attributable to a SAP scored qualifying action[^key-f0bce7056dc14a52afb5e58ab5f6780a]
+
+(1) For the purposes of determining the carbon saving or the cost score to be attributed to a SAP scored qualifying action[^key-ef65b9f39c6282c987b88ee581d06284], a supplier may apply to the Administrator to approve a methodology other than the Standard Assessment Procedure or the Reduced Data Standard Assessment Procedure (“an appropriate methodology”).
+
+(2) An application under paragraph (1) must be made prior to the carrying out of the action.
+
+(3) The Administrator may approve an appropriate methodology if it is satisfied that—
+
+- (a) the Reduced Data Standard Assessment Procedure and the Standard Assessment Procedure do not contain a methodology for determining the carbon or cost savings associated with the action; and
+- (b) in cases where the methodology is to be used to determine a carbon saving, it makes provision for the likely performance of measures once they are installed in domestic premises.
+
+(3A)[^key-79538e720a47305b2f974ec2d8f1d681] The Administrator may also approve an appropriate methodology if the methodology is published by, or on behalf of, the Department for Business, Energy and Industrial Strategy as a replacement for the Reduced Data Standard Assessment Procedure or the Standard Assessment Procedure.
+
+(4) The Administrator must notify a supplier of its decision under this article.
+
+### 24A. Methodology for the carbon saving or cost saving attributable to a deemed score qualifying action[^key-9bbb0a8f26e368f14f42323f57918a73]
+
+(1) The Administrator must publish a methodology for the purposes of determining the carbon saving to be attributed to a deemed score qualifying action.
+
+(2) The Administrator must publish—
+
+- (a) a methodology for the purposes of determining the cost saving to be attributed to a deemed score qualifying action falling within paragraph (3), and under that methodology, the calculation of the cost saving must be based on the absence of a working heating system in the premises where the repaired or replaced boiler or electric storage heater is situated; and
+- (b) a methodology for the purposes of determining the cost saving to be attributed to a deemed score qualifying action not falling within paragraph (3).
+
+(3) A deemed score qualifying action falls within this paragraph if it is—
+
+- (a) the repair or replacement of a qualifying boiler;
+- (b) the repair of a qualifying electric storage heater; or
+- (c) the replacement of a qualifying electric storage heater by another electric storage heater.
+
+(4) Before publishing a methodology under this article, the Administrator must have regard to—
+
+- (a) the Standard Assessment Procedure;
+- (b) the Reduced Data Standard Assessment Procedure; and
+- (c) the desirability of the methodology being easy to use.
+
+### 25. Attributing the carbon saving or cost score to a qualifying action
+
+(1) To determine whether a supplier has achieved its—
+
+- (a) total carbon emissions reduction obligation;
+- (b) total carbon saving community obligation; or
+- (c) total home heating cost reduction obligation,
+
+the Administrator must attribute a carbon saving or cost score, as applicable, to each qualifying action notified by a supplier under article 17.
+
+(2) The Administrator must attribute to a qualifying action—
+
+- (a) where the Administrator is satisfied that the supplier has correctly calculated the carbon saving or cost score, as applicable, the carbon saving or cost score notified by the supplier; or
+- (b) where the Administrator is not satisfied that the carbon saving or cost score notified is correctly calculated, the carbon saving or cost score which the Administrator considers would have been determined for the action had it been accurately calculated.
+
+(3) The Administrator must notify a supplier of the carbon saving or cost score it has attributed to a qualifying action notified by a supplier.
+
+### 26. Transfers of qualifying actions
+
+(1) A qualifying action achieved by a supplier (“A”) may be regarded as achieved by another supplier (“B”) (“a transfer”) if that transfer is approved by the Administrator.
+
+(2) A and B must—
+
+- (a) apply for approval in writing to the Administrator by no later than 31st December 2018[^key-78c07a88afc01d06c203b5e1bedb4c9b];
+- (b) provide to the Administrator such information as the Administrator may reasonably require; and
+- (c) indicate whether B intends the qualifying action to be credited towards B's—
+  - (i) total carbon emissions reduction obligation;
+  - (ii) total carbon saving community obligation; or
+  - (iii) total home heating cost reduction obligation.
+
+(3)[^key-033e4f553a95df38c3eecd231c410e73] The Administrator must approve a transfer unless—
+
+- (a) B has indicated that it intends the qualifying action to be credited towards a different obligation to the one it is credited against at the time the application is made and the Administrator is not satisfied that the qualifying action meets the applicable requirements in articles 12 to 16 in respect of that different obligation;
+- (b) the application is made on or after 1st July 2017, the qualifying action is credited against A’s total carbon saving community obligation at the time the application is made and the Administrator is not satisfied that the qualifying action is an excess CSCO action; or
+- (c) the application is made on or after 1st July 2017 and B has indicated that it intends the qualifying action to be credited towards B’s total carbon saving community obligation.
+
+(3A) For the purposes of paragraph (3)(b), an excess CSCO action is a qualifying action which is not required by A to meet its total carbon saving community obligation.
+
+(4) If the Administrator decides not to approve a transfer under paragraph (3) it must notify A and B of the reasons for that decision.
+
+(5) If a transfer is approved, the qualifying action is treated as achieved by B and not A.
+
+### 27. Surplus actions
+
+(1) Not later than 30th November 2015 a supplier may apply to the Administrator in writing to credit a surplus action towards its—
+
+- (a) total carbon emissions reduction obligation;
+- (b) total carbon saving community obligation; or
+- (c) total home heating cost reduction obligation.
+
+(2) An application under this article must—
+
+- (a) give details of the measure which the supplier considers constitutes a surplus action;
+- (b) indicate which of those obligations the supplier intends the surplus action to be credited towards; and
+- (c) provide a calculation of the carbon saving or cost score for the surplus action, determined in accordance with article 28 or 29 as applicable.
+
+(3) A surplus action is a measure which—
+
+- (a) is an ECO1 qualifying action which was achieved by the applicant supplier;
+- (b) is not required by the supplier to meet its obligations under the 2012 Order; and
+- (c) if it is intended to contribute towards—
+  - (i) the carbon emissions reduction obligation, is an ECO1 carbon qualifying action;
+  - (ii) the carbon saving community obligation, is an ECO1 carbon saving community qualifying action which was promoted in an ECO1 area of low income or in accordance with article 13(4) of the 2012 Order [^c22280441]; or
+  - (iii) the home heating cost reduction obligation, meets the applicable requirements in paragraph (4).
+
+(4) The requirements referred to in paragraph (3)(c)(iii) are that—
+
+- (a) the installation of the measure was carried out in the period starting with 1st January 2014 and ending with 31st March 2015;
+- (b) the measure is an ECO1 heating qualifying action which was promoted in accordance with article 15(2) of the 2012 Order; and
+- (c) if installation of the measure was carried out in the period starting with 1st January 2015 and ending with 31st March 2015 and the measure is—
+  - (i) a replacement boiler, it was accompanied at the time the installation was completed by a qualifying warranty;
+  - (ii) a replacement electric storage heater, it was accompanied by a warranty for one year.
+
+(5) The Administrator must approve the application if satisfied that the measure to which the application relates is a surplus action.
+
+(6) A surplus action which is—
+
+- (a) the installation of solid wall insulation; and
+- (b) credited against a supplier's total carbon emissions reduction obligation,
+
+may be credited against the supplier's solid wall minimum requirement.
+
+(7) A surplus action which is credited against a supplier's total carbon saving community obligation may be credited against the requirement in article 14(3) which applies to the supplier if the Administrator is satisfied that it was promoted—
+
+- (a) to a member of the affordable warmth group living in a rural area; or
+- (b) in a deprived rural area.
+
+(8) In this article, “**ECO1 area of low income**” means an area of low income as defined in article 2 of the 2012 Order.
+
+### 28. Determining the carbon saving for a surplus action
+
+The carbon saving for a surplus action is—
+
+- (a) the ECO1 carbon saving for that action; or
+- (b) if no ECO1 carbon saving was attributed to the action under article 19 of the 2012 Order, the carbon saving for that action calculated in accordance with article 16(6) of the 2012 Order.
+
+### 29. Determining the cost score for a surplus action
+
+(1) Subject to paragraph (2), the cost score for a surplus action is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
+
+where—
+
+- “A” is—
+  - (i) the cost saving attributed to that action under article 19 of the 2012 Order; or
+  - (ii) if no cost saving was attributed to the action under article 19 of the 2012 Order, the cost saving for that action calculated in accordance with article 16(7) of the 2012 Order;
+- “B” is the relevant conversion factor.
+
+(2) Where a surplus action is the repair or replacement of a qualifying boiler, the cost score for that action is the cost saving for that action calculated in accordance with article 17 of the 2012 Order multiplied by the relevant conversion factor.
+
+(3) In this article, “**relevant conversion factor**” means—
+
+- (a) where a measure is described in the first column of the table in Schedule 5, the number specified for that measure in the second column of that table; or
+- (b) where a measure is not so described, 1.
+
+### 30. Transfers of surplus actions
+
+(1) Where—
+
+- (a) a supplier (“C”) has achieved a surplus action (“S”); and
+- (b) the Administrator has approved an application made in respect of S under article 27(5),
+
+S may be regarded as achieved by another supplier (“D”) (“a transfer”) if that transfer is approved by the Administrator in accordance with this article.
+
+(2) C and D must—
+
+- (a) apply for approval in writing to the Administrator by no later than 31st December 2018[^key-32fae39dd29510aedaf271a365893966] ;
+- (b) provide to the Administrator such information as the Administrator may reasonably require; and
+- (c) indicate whether D intends S to be credited towards D's—
+  - (i) total carbon emissions reduction obligation;
+  - (ii) total carbon saving community obligation; or
+  - (iii) total home heating cost reduction obligation.
+
+(3)[^key-7f0d248be6ea213da4535179fc519496] The Administrator must approve a transfer unless—
+
+- (a) D has indicated that it intends S to be credited towards a different obligation to the one it is credited against at the time the application is made and the Administrator is not satisfied that S meets the applicable requirement in article 27(3)(c) in respect of that different obligation;
+- (b) the application is made on or after 1st July 2017 and S is credited against C’s total carbon saving community obligation at the time the application is made; or
+- (c) the application is made on or after 1st July 2017 and D has indicated that it intends S to be credited towards D’s total carbon saving community obligation.
+
+(4) If the Administrator decides not to approve a transfer under paragraph (3) it must notify C and D of the reasons for that decision.
+
+(5) If a transfer is approved, S is treated as achieved by D and not C.
+
+## PART 5 — Enforcement
+
+### 30A. Transfer of obligations[^key-c75fed748ad5f3cc77fd7272c6a91db9]
+
+(1) All or part of a supplier’s obligation may be transferred from that supplier (“A”) to another supplier (“B”) (“a transfer”) if the transfer is approved by the Administrator.
+
+(2) A and B must—
+
+- (a) apply for approval in writing to the Administrator by no later than 31st December 2017; and
+- (b) provide to the Administrator such information as the Administrator may reasonably require.
+
+(3) An application under this article must identify—
+
+- (a) which obligation the application relates to (“the relevant obligation”); and
+- (b) the amount of that obligation that A intends to transfer to B (“the transfer amount”).
+
+(4) The Administrator must not approve the transfer if—
+
+- (a) the transfer amount exceeds A’s relevant obligation;
+- (b) the transfer would result in A or B’s home heating minimum requirement being greater than its total home heating cost reduction obligation;
+- (c) the transfer would result in A or B’s rural minimum requirement being greater than its total carbon emissions reduction obligation;
+- (d) the transfer would result in A or B’s total provisional solid wall minimum requirement being greater than its total carbon emissions reduction obligation;
+- (e) having regard to section 30O of the Gas Act 1986 and section 27O of the Electricity Act 1989 (maximum amount of penalty or compensation), the Administrator considers that, if the transfer were approved, there is a significant risk that it would adversely affect the Administrator’s ability to enforce the requirements placed on B under this Order; or
+- (f) where A and B are not members of the same group, the Administrator considers that, if the transfer were approved, there is a significant risk that B will be unable to achieve one or more of its obligations.
+
+(5) If a transfer is approved—
+
+- (a) for the purposes of Part 4 and this Part, A’s relevant obligation is to be treated as reduced by the transfer amount and B’s relevant obligation is to be treated as increased by the transfer amount; and
+- (b) the Administrator must notify A and B of their revised relevant obligation.
+
+(6) If the Administrator decides not to approve a transfer it must—
+
+- (a) notify A of any reasons for that decision relating to A; and
+- (b) notify B of any reasons for that decision relating to B.
+
+(7) In this article, “obligation” means a supplier’s—
+
+- (a) home heating minimum requirement;
+- (b) rural minimum requirement;
+- (c) total carbon emissions reduction obligation;
+- (d) total home heating cost reduction obligation; or
+- (e) total provisional solid wall minimum requirement.
+
+### 31. Final determination and reporting
+
+(1) The Administrator must determine whether a supplier has achieved its—
+
+- (a) total carbon emissions reduction obligation;
+- (b) total carbon saving community obligation; and
+- (c) total home heating cost reduction obligation.
+
+(2) A supplier may apply to the Administrator, in writing, by no later than 31st December 2018[^key-ec04629a27f8e06cdeab445654b5c6bf] for a qualifying action (“Q”) or a surplus action (“S”) to be credited against a different obligation to the one it is credited against at the time the application is made.
+
+(3)[^key-ce3b62dcfc631dcb10a5997484610f3b] The Administrator must approve an application in respect of Q if—
+
+- (a) it is satisfied that Q meets the applicable requirements in articles 12 to 16 in respect of that different obligation;
+- (b) where the application is made on or after 1st July 2017 and Q is credited against a supplier’s total carbon saving community obligation at the time the application is made, the Administrator is satisfied that Q is not required by the supplier to meet its total carbon saving community obligation; and
+- (c) where the application is made on or after 1st July 2017, it is not an application for Q to be credited towards a supplier’s total carbon saving community obligation.
+
+(3A) The Administrator must approve an application in respect of S if—
+
+- (a) it is satisfied that S meets the applicable requirement in article 27(3)(c) in respect of that different obligation; and
+- (b) where the application is made on or after 1st July 2017, it is not an application for S to be credited towards a supplier’s total carbon saving community obligation.
+
+(4) The Administrator must notify the supplier of its determination—
+
+- (a) under paragraph (1)(b), no later than 30th September 2017;
+- (b) under paragraph (1)(a) and (c), no later than 31st March 2019.
+
+(5) The Administrator must submit to the Secretary of State a report each month, commencing in July 2015, setting out the progress which suppliers have made towards meeting their obligations under this Order.
+
+(6) Not later than 31st March 2019[^key-07f6099989778656e4ea7af05d2da5bc] the Administrator must submit to the Secretary of State a report setting out whether suppliers achieved the—
+
+- (a) overall carbon emissions reduction target;
+- (b) overall carbon saving community target;
+- (c) overall home heating cost reduction target.
+
+### 32. Information from suppliers
+
+(1) The Administrator may require a supplier—
+
+- (a) to provide it with specified information, or information of a specified nature, about a supplier's proposals for complying with any requirement under this Order;
+- (b) to produce to it evidence of a specified kind demonstrating it is complying with, or that it has complied with, any requirement under this Order.
+
+(2) A supplier must provide to the Administrator such information as the Administrator may require relating to the cost to the supplier of achieving its obligations under this Order.
+
+### 33. Publication of energy savings achieved by suppliers and provision of information to the Secretary of State by suppliers
+
+(1) Once a year in 2016 to 2019[^key-0152f3f23a45c71ed33a9070c199f398] the Secretary of State must publish the energy savings achieved—
+
+- (a) by each supplier by qualifying actions and surplus actions credited towards the supplier's obligations under this Order; and
+- (b) in total by qualifying actions and surplus actions credited towards suppliers' obligations under this Order.
+
+(2) The Secretary of State may require a supplier to provide, no more than once a year—
+
+- (a) aggregated statistical information on its final customers (identifying significant changes to previously submitted information); and
+- (b) current information on final customers' consumption, including, where applicable, load profiles, customer segmentation and geographical location of customers.
+
+(3) In this article—
+
+- (a) “energy savings” and “final customer” have the meaning given by article 2 of the Energy Efficiency Directive;
+- (b) “**aggregated statistical information**”, “**customer segmentation**” and “**load profiles**” have the same meaning as in the Energy Efficiency Directive;
+- (c) “**the Energy Efficiency Directive**” means Directive 2012/27/EU of the European Parliament and of the Council of 25th October 2012 on energy efficiency, amending Directives [2009/125/EC](https://www.legislation.gov.uk/european/directive/2009/0125) and 2010/30/EU and repealing Directives [2004/8/EC](https://www.legislation.gov.uk/european/directive/2004/0008) and [2006/32/EC](https://www.legislation.gov.uk/european/directive/2006/0032) [^c22280451].
+
+### 34. Enforcement
+
+A requirement placed on a supplier under this Order is a relevant requirement for the purpose of—
+
+- (a) Part I of the Electricity Act 1989; and
+- (b) Part I of the Gas Act 1986.
+
+Amber Rudd
+
+Parliamentary Under Secretary of State
+
+Department of Energy and Climate Change
+
+## SCHEDULE 1 — AFFORDABLE WARMTH GROUP ELIGIBILITY
+
+Article 2
+
+**1.** The benefits referred to in the definition of affordable warmth group in article 2 are—
+
+- (a) child tax credit [^c22280461] and has a relevant income of £16,010 or less (where “**relevant income**” has the same meaning as in Part 1 of the Tax Credits Act 2002 [^c22280471]);
+- (b) income-related employment and support allowance [^c22280481] and—
+  - (i) receiving a work-related activity or support component; or
+  - (ii) is responsible for a qualifying child; or
+  - (iii) is in receipt of a qualifying component;
+- (c) income-based job seeker's allowance [^c22280491] and—
+  - (i) is responsible for a qualifying child; or
+  - (ii) is in receipt of a qualifying component;
+- (d) income support [^c22280501] and—
+  - (i) is responsible for a qualifying child; or
+  - (ii) is in receipt of a qualifying component;
+- (e) state pension credit [^c22280511];
+- (f) working tax credit and has a relevant income of £16,010 or less and—
+  - (i) is responsible for a qualifying child; or
+  - (ii) is in receipt of a disability or severe disability element; or
+  - (iii) is aged 60 years or over; or
+- (g) universal credit [^c22280521] and the condition as to earned income in paragraph 4 is met and—
+  - (i) is responsible for a child or qualifying young person as determined under regulation 4 of the Universal Credit Regulations 2013 [^c22280531]; or
+  - (ii) has limited capability for work, or limited capability for work and work-related activity, as determined under Part 5 of the Universal Credit Regulations 2013; or
+  - (iii) is in receipt of a disability living allowance under section 71 of the Social Security Contributions and Benefits Act 1992 [^c22280541]; or
+  - (iv) is in receipt of a personal independence payment under Part 4 of the Welfare Reform Act 2012 [^c22280551].
+
+**2.** In paragraph 1 “**qualifying child**” means, in relation to a person in receipt of an allowance in paragraph 1(b) or (c), income support or working tax credit, a child who ordinarily resides with that person and who—
+
+- (a) is under the age of 16; or
+- (b) is—
+  - (i) 16 or over but under the age of 20; and
+  - (ii) in full-time education (other than higher education within the meaning of section 579(1) of the Education Act 1996 [^c22280561]) or approved training (as defined in regulation 2 of the Child Tax Credit Regulations 2002 [^c22280571]).
+
+**3.** In paragraph 1—
+
+- (a) “**qualifying component**” means—
+  - (i) child tax credit which includes a disability or severe disability element;
+  - (ii) a disabled child premium;
+  - (iii) a disability premium, enhanced disability premium or severe disability premium; or
+  - (iv) a pensioner premium, higher pensioner premium or enhanced pensioner premium;
+- (b) whether a person is responsible for a qualifying child is to be determined in accordance with regulation 3 of the Child Tax Credit Regulations 2002 [^c22280581].
+
+**4.** (1) Where the award of universal credit is—
+
+- (a) to a single claimant, the condition as to earned income is that, in any of the twelve preceding assessment periods, the claimant has received earned income which does not exceed £1,250; or
+- (b) to joint claimants, the condition as to earned income is that, in any of the twelve preceding assessment periods, the combined earned income received by the claimants does not exceed £1,250.
+
+(2) In this paragraph—
+
+- (a) “assessment period”;
+- (b) “earned income”;
+- (c) “joint claimants”; and
+- (d) “single claimant”,
+
+are to be interpreted in accordance with the Welfare Reform Act 2012 and any subordinate legislation made under that Act.
+
+## SCHEDULE 2 — IN-USE FACTORS
+
+Article 2
+
+<table>
+<tbody>
+<tr><th colspan="3"><em>Measure</em></th><th><em>In-use factor</em></th></tr>
+<tr><td colspan="3">Connection to a district heating system</td><td>10%</td></tr>
+<tr><td colspan="3">Draught proofing</td><td>15%</td></tr>
+<tr><td colspan="3">Flat roof insulation</td><td>15%</td></tr>
+<tr><td colspan="3">High performance external doors and passageway walkthrough doors</td><td>15%</td></tr>
+<tr><td colspan="3">Insulation of a cavity wall (other than phase 3 party cavity wall insulation)</td><td>35%</td></tr>
+<tr><td colspan="3">Phase 3 party cavity wall insulation</td><td>15%</td></tr>
+<tr><td colspan="3">Insulation of a mobile home</td><td>25%</td></tr>
+<tr><td colspan="3">Insulation of a solid brick wall built before—</td><td rowspan="3">33%</td></tr>
+<tr><td>(a)</td><td colspan="2">1967, if situated in England or Wales;</td></tr>
+<tr><td>(b)</td><td colspan="2">1965, if situated in Scotland</td></tr>
+<tr><td colspan="3">Insulation of—</td><td rowspan="5">25%</td></tr>
+<tr><td>(a)</td><td colspan="2">a solid wall which is not built of brick;</td></tr>
+<tr><td>(b)</td><td colspan="2">a solid brick wall built in—</td></tr>
+<tr><td colspan="2">(i)</td><td>1967 or later, if situated in England or Wales;</td></tr>
+<tr><td colspan="2">(ii)</td><td>1965 or later, if situated in Scotland</td></tr>
+<tr><td colspan="3">Loft or rafter insulation (including loft hatch insulation)</td><td>35%</td></tr>
+<tr><td colspan="3">Pipework insulation</td><td>15%</td></tr>
+<tr><td colspan="3">Room-in-roof insulation</td><td>25%</td></tr>
+<tr><td colspan="3">Secondary or replacement glazing</td><td>15%</td></tr>
+<tr><td colspan="3">Under-floor insulation</td><td>15%</td></tr>
+</tbody>
+</table>
+
+[^key-074ff3426ae1ab8c8715222b4c82fd86]
+
+## SCHEDULE 3 — Qualifying warranties for replacement boilers
+
+Article 2
+
+**1.** The requirements for a qualifying warranty are as follows.
+
+**2.** Subject to paragraphs 3 and 4, the warranty must provide for the rectification, without any charge to a consumer, of all problems which affect the functioning of the boiler or the heating system it serves and which—
+
+- (a) relate to its installation or design; and
+- (b) are notified to the person providing the warranty within 1 year of the replacement boiler being installed.
+
+**3.** The warranty is not required to provide for the rectification of a problem which—
+
+- (a) is covered by a warranty provided by the manufacturer of the replacement boiler; or
+- (b) arises after the replacement boiler is installed where that problem arises from one or more of—
+  - (i) negligence;
+  - (ii) accident;
+  - (iii) misuse of the replacement boiler;
+  - (iv) repair of the replacement boiler,
+
+  by a person other than a person described in paragraph 4.
+
+**4.** The following persons are referred to in paragraph 3(b)—
+
+- (a) the person who installed the replacement boiler;
+- (b) the person providing the warranty;
+- (c) a person acting on behalf of a person in sub-paragraph (a) or (b).
+
+**5.** The warranty must be accompanied by a declaration from the occupier of the premises that, in that person's knowledge, no consumer has been charged for the warranty.
+
+**6.** In paragraph (2)(a), “**design**”, in relation to a boiler, means the suitability of the boiler for the heating system it is intended to serve.
+
+## SCHEDULE 4 — DOMESTIC PREMISES WHICH ARE NOT PRIVATE DOMESTIC PREMISES
+
+### PART 1 — Installations completed on or before 31st March 2017[^key-63e08720b3d85315c124d479075272e2]
+
+Article 16
+
+**1.** (1) In relation to an installation completed on or before 31st March 2017,[^key-76241c76ae84549dfaef83067875f86c] Domestic premises in England or Wales are not “private domestic premises” if—
+
+- (a) the relevant interest in those premises is registered as belonging to a social landlord and the condition in sub-paragraph (3) is met; or
+- (b) if no relevant interest in the premises has been registered—
+  - (i) the premises are let to the member of the affordable warmth group, or a person who lives with the member of the affordable warmth group, by a social landlord other than under a lease granted pursuant to Part V of the Housing Act 1985 [^c22280591]; and
+  - (ii) the condition in sub-paragraph (3) is met.
+
+(2) In relation to an installation completed on or before 31st March 2017,[^key-c1c51549564597e42d4cfb822820f227] Domestic premises in Scotland are not “private domestic premises” if—
+
+- (a) the relevant interest in the premises is registered as belonging to a social landlord and the condition in sub-paragraph (3) is met; or
+- (b) if no relevant interest in the premises has been registered—
+  - (i) the premises are let to the member of the affordable warmth group, or a person who lives with the member of the affordable warmth group, by a social landlord other than under a lease granted pursuant to sections 61 to 84 of the Housing (Scotland) Act 1987 [^c22280601], as modified by section 84A of that Act [^c22280611]; and
+  - (ii) the condition in sub-paragraph (3) is met.
+
+(3) The condition in this sub-paragraph is that the premises are let to the member of the affordable warmth group, or a person who lives with the member of the affordable warmth group, at below the market rate.
+
+(4) In this paragraph—
+
+- (a) in respect of premises in England or Wales, a relevant interest is registered if it is registered in the register of title maintained by Her Majesty's Land Registry;
+- (b) in respect of premises in Scotland, a relevant interest is registered if it is—
+  - (i) registered in the Land Register of Scotland; or
+  - (ii) recorded in the Register of Sasines.
+
+(5) In this paragraph—
+
+- “**owner**” includes any person who under the Land Clauses Acts [^c22280621] would be enabled to sell and convey land to promoters of an undertaking;
+- “**relevant interest**” means—
+  - (a) in respect of premises in England or Wales—
+    - (i) the freehold estate, unless the whole of the premises have been let under a registered lease; or
+    - (ii) the leasehold estate, unless the whole of the premises have been further let under a registered lease;
+  - (b) in respect of premises in Scotland—
+    - (i) the owner's interest or right, unless the whole of the premises have been further let under a registered lease; or
+    - (ii) the lessee's interest under a lease, unless the whole of the premises have been further let under a registered lease;
+- “**social landlord**” means—
+  - (a) in respect of premises in England—
+    - (i) a local housing authority, within the meaning of section 1 of the Housing Act 1985 [^c22280631];
+    - (ii) a housing association, within the meaning of section 5 of the Housing Act 1985 [^c22280641];
+    - (iii) a housing trust, within the meaning of section 6 of the Housing Act 1985; or
+    - (iv) a charity, within the meaning of section 1 of the Charities Act 2011 [^c22280651];
+  - (b) in respect of premises in Scotland, a person so described in section 165 of the Housing (Scotland) Act 2010 [^c22280661]; and
+  - (c) in respect of premises in Wales—
+    - (i) a local housing authority, within the meaning of section 1 of the Housing Act 1985;
+    - (ii) a housing association, within the meaning of section 5 of the Housing Act 1985;
+    - (iii) a housing trust, within the meaning of section 6 of the Housing Act 1985;
+    - (iv) a charity, within the meaning of section 1 of the Charities Act 2011;
+    - (v) a person listed in section 80(1) of the Housing Act 1985; or
+    - (vi) a body registered as a social landlord under Chapter 1 of Part 1 of the Housing Act 1996 [^c22280671].
+
+### PART 2 — Installations completed on or after 1st April 2017[^key-909772385b11481cf80b6afa10da01a5]
+
+**2.** (1) In relation to an installation completed on or after 1st April 2017, domestic premises in England or Wales are not “private domestic premises” if the premises are let below the market rate and—
+
+- (a) the relevant interest in those premises is registered as belonging to a social landlord; or
+- (b) if no relevant interest in the premises has been registered, the premises are let by a social landlord other than under a lease granted pursuant to Part 5 of the Housing Act 1985.
+
+(2) In relation to an installation completed on or after 1st April 2017, domestic premises in Scotland are not “private domestic premises” if the premises are let below the market rate and—
+
+- (a) the relevant interest in the premises is registered as belonging to a social landlord; or
+- (b) if no relevant interest in the premises has been registered, the premises are let by a social landlord other than under a lease granted pursuant to sections 61 to 84 of the Housing (Scotland) Act 1987, as modified by section 84A of that Act.
+
+(3) Sub-paragraphs (4) and (5) of paragraph 1 apply for the purposes of this paragraph as they apply for the purposes of paragraph 1.
+
+## SCHEDULE 4A — DOMESTIC PREMISES WHICH ARE E, F OR G SOCIAL HOUSING[^key-6f1febb23feac6aa096ce0dccb81b2ca]
+
+Article 16A(7)
+
+**1.** (1) A measure is installed at domestic premises which are “E, F or G social housing” if—
+
+- (a) the premises are domestic premises described in Part 2 of Schedule 4; and
+- (b) the condition in sub-paragraph (2) or (3) is met.
+
+(2) The condition in this sub-paragraph is that a post-installation EPC expresses the energy performance rating of the premises as band E, F or G.
+
+(3) The condition in this sub-paragraph is that—
+
+- (a) a pre-installation EPC expresses the energy performance rating of the premises as band E, F or G; and
+- (b) the social landlord in respect of the premises has confirmed in writing that, to the best of its knowledge and belief, no changes were made to the premises, after the pre-installation EPC was issued and before the measure was installed, which would increase the energy performance rating of the premises to band A, B, C or D.
+
+(4) In this Schedule—
+
+- “energy performance certificate”—
+  - (a) in relation to premises in England and Wales, has the meaning given in the Energy Performance of Buildings (England and Wales) Regulations 2012;
+  - (b) in relation to premises in Scotland, has the meaning given in the Energy Performance of Buildings (Scotland) Regulations 2008;
+- “energy performance rating”—
+  - (a) in relation to premises in England and Wales, has the meaning given in regulation 11 of the Energy Performance of Buildings (England and Wales) Regulations 2012;
+  - (b) in relation to premises in Scotland, has the same meaning as “energy performance indicator” in the Energy Performance of Buildings (Scotland) Regulations 2008;
+- “post-installation EPC” in relation to premises where a measure is installed, means an energy performance certificate for the premises that was issued after the measure was installed;
+- “pre-installation EPC” in relation to premises where a measure is installed, means an energy performance certificate for the premises that is the most recent of any energy performance certificate for the premises issued before the measure was installed; and
+- “social landlord” has the same meaning as in paragraph 1(5) of Schedule 4.
+
+## SCHEDULE 4B — HELP TO HEAT GROUP ELIGIBILITY
+
+Article 16A(7)
+
+**1.** The benefits referred to in the definition of “help to heat group” in article 16A are—
+
+- (a) income-related employment and support allowance;
+- (b) income-based jobseeker’s allowance;
+- (c) income support;
+- (d) guarantee credit (and for this purpose, “guarantee credit” is to be construed in accordance with sections 1 and 2 of the State Pension Credit Act 2002);
+- (e) tax credit;
+- (f) universal credit.
+
+**2.** The condition as to income in paragraph 4 is specified in relation to tax credit.
+
+**3.** The condition as to income in paragraph 7 is specified in relation to universal credit.
+
+**4.** Where the award of tax credit is made pursuant to—
+
+- (a) a single claim, the condition as to income is that the relevant income of the claimant does not exceed the amount set out in the first row of Table 1 in the column corresponding to the number of children or qualifying young persons for whom the claimant is responsible;
+- (b) a joint claim, the condition as to income is that the relevant income of the joint claimants does not exceed the amount set out in the second row of Table 1 in the column corresponding to the number of children or qualifying young persons for whom at least one of the joint claimants is responsible.
+
+  Table 1
+
+  Tax credit
+
+  <table>
+  <thead>
+  <tr><th rowspan="2">Type of claim</th><th colspan="5">Number of children or qualifying young persons for whom the claimant is responsible:</th></tr>
+  <tr><th>0</th><th>1</th><th>2</th><th>3</th><th>4 or more</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>Single claim</td><td>£13,200</td><td>£17,400</td><td>£21,600</td><td>£25,800</td><td>£30,000</td></tr>
+  <tr><td>Joint claim</td><td>£19,800</td><td>£24,000</td><td>£28,200</td><td>£32,400</td><td>£36,600</td></tr>
+  </tbody>
+  </table>
+
+**5.** For the purposes of paragraph 4, whether a person is responsible for a child or qualifying young person is to be determined in accordance with regulation 3 of the Child Tax Credit Regulations 2002.
+
+**6.** In paragraph 4, the following have the same meaning as in Part 1 of the Tax Credits Act 2002—
+
+- (a) “joint claim”;
+- (b) “relevant income”; and
+- (c) “single claim”,
+
+and “claimant” is to be construed accordingly.
+
+**7.** Where the award of universal credit is to—
+
+- (a) a single claimant, the condition as to income is that, in any of the twelve preceding assessment periods, the earned income of the single claimant does not exceed the amount set out in the first row of Table 2 in the column corresponding to the number of children or qualifying young persons for whom the single claimant is responsible;
+- (b) joint claimants, the condition as to income is that, in any of the twelve preceding assessment periods, the combined earned income of the joint claimants does not exceed the amount set out in the second row of Table 2 in the column corresponding to the number of children or qualifying young persons for whom at least one of the joint claimants is responsible.
+
+  Table 2
+
+  Universal credit
+
+  <table>
+  <thead>
+  <tr><th rowspan="2">Type of claimant</th><th colspan="5">Number of children or qualifying young persons for which the claimant is responsible:</th></tr>
+  <tr><th>0</th><th>1</th><th>2</th><th>3</th><th>4 or more</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>Single claimant</td><td>£1,100</td><td>£1,450</td><td>£1,800</td><td>£2,150</td><td>£2,500</td></tr>
+  <tr><td>Joint claimant</td><td>£1,650</td><td>£2,000</td><td>£2,350</td><td>£2,700</td><td>£3,050</td></tr>
+  </tbody>
+  </table>
+
+**8.** For the purposes of paragraph 7, whether a person is responsible for a child or qualifying young person is to be determined in accordance with regulation 4 of the Universal Credit Regulations 2013.
+
+**9.** In paragraph 7—
+
+- “assessment period” has the meaning given in regulation 21 of the Universal Credit Regulations 2013;
+- “earned income” means a person’s earned income calculated in accordance with Chapter 2 of Part 6 of the Universal Credit Regulations 2013; and
+- “joint claimants” and “single claimant” have the meanings given in section 40 of the Welfare Reform Act 2012.
+
+**10.** In this Schedule, “tax credit” means child tax credit or working tax credit.
+
+## SCHEDULE 5 — CONVERSION FACTORS FOR SURPLUS ACTIONS THAT ARE TO BE CREDITED AGAINST A SUPPLIER'S TOTAL HOME HEATING COST REDUCTION OBLIGATION
+
+Article 29
+
+**1.** The following table has effect for the purpose of determining the relevant conversion factor for a measure under article 29(3)(a)—
+
+<table>
+<tbody>
+<tr><th colspan="3"><em>Measure</em></th><th><em>Conversion factor</em></th></tr>
+<tr><td colspan="3">A measure to improve the insulating properties of non-gas fuelled premises</td><td>1.35</td></tr>
+<tr><td colspan="3">Repair of a qualifying boiler at non-gas fuelled premises</td><td>1.45</td></tr>
+<tr><td colspan="3">Replacement of a boiler—</td><td rowspan="3">0.95</td></tr>
+<tr><td>(a)</td><td colspan="2">which was not a qualifying boiler; and</td></tr>
+<tr><td>(b)</td><td colspan="2">by a boiler which was not accompanied at the time installation was completed by a qualifying warranty</td></tr>
+<tr><td colspan="3">Replacement of a qualifying boiler by another boiler—</td><td rowspan="3">0.75</td></tr>
+<tr><td>(a)</td><td colspan="2">where both the boiler being replaced and the replacement boiler were fuelled by mains gas; and</td></tr>
+<tr><td>(b)</td><td colspan="2">the replacement boiler was not accompanied at the time installation was completed by a qualifying warranty</td></tr>
+<tr><td colspan="3">Replacement of a qualifying boiler by another boiler—</td><td rowspan="3">0.8</td></tr>
+<tr><td>(a)</td><td colspan="2">where both the boiler being replaced and the replacement boiler were fuelled by mains gas; and</td></tr>
+<tr><td>(b)</td><td colspan="2">the replacement boiler was accompanied at the time installation was completed by a qualifying warranty</td></tr>
+<tr><td colspan="3">Replacement of a qualifying boiler—</td><td rowspan="3">1.4</td></tr>
+<tr><td>(a)</td><td colspan="2">at non-gas fuelled premises; and</td></tr>
+<tr><td>(b)</td><td colspan="2">by a boiler which was not accompanied at the time installation was completed by a qualifying warranty</td></tr>
+<tr><td colspan="3">Replacement of a qualifying boiler—</td><td rowspan="5">1.45</td></tr>
+<tr><td>(a)</td><td colspan="2">at non-gas fuelled premises; and</td></tr>
+<tr><td>(b)</td><td colspan="2">by—</td></tr>
+<tr><td colspan="2">(i)</td><td>a boiler which was accompanied at the time installation was completed by a qualifying warranty; or</td></tr>
+<tr><td colspan="2">(ii)</td><td>a measure other than a boiler or an electric storage heater</td></tr>
+</tbody>
+</table>
+
+**2.** In this Schedule—
+
+- (a) a measure is installed at non-gas fuelled premises where it is installed at premises which—
+  - (i) were non-gas fuelled prior to installation of the measure; and
+  - (ii) remained non-gas fuelled when installation of the measure was complete; and
+- (b) premises are non-gas fuelled where the main space heating system for the premises is not—
+  - (i) fuelled by mains gas; or
+  - (ii) a district heating system.
+
+*(This note is not part of the Order)*
+
+## Overview
+
+This Order applies in Great Britain. The Order is administered and enforced by the Gas and Electricity and Markets Authority (the “Administrator”).
+
+It sets out at article 3 three overall energy efficiency targets which must be achieved by electricity and gas suppliers in the period 1st April 2015 to 31st March 2017 (the “2015-17 obligation period”). These are—
+
+- (a) the carbon emissions reduction target;
+- (b) the carbon saving community target; and
+- (c) the home heating cost reduction target.
+
+The Administrator is required to apportion the three overall targets between gas and electricity suppliers, in accordance with the Order. A supplier's share of a target is referred to as its “obligation”.
+
+A supplier's carbon emissions reduction obligation, measured in lifetime tonnes of carbon dioxide saved, must be achieved by promoting carbon qualifying actions, defined in article 12. Those actions will lead to a reduction in carbon dioxide emissions (“carbon savings”), which are calculated as provided for in article 18. Each supplier is required to achieve carbon qualifying actions with carbon savings which are equal to its total carbon emissions reduction obligation. As part of the carbon emissions reduction obligation, a supplier must achieve a minimum amount of carbon savings by the promotion of solid wall insulation (the “solid wall minimum requirement”, which is determined under article 13).
+
+A supplier's carbon saving community obligation, measured in lifetime tonnes of carbon dioxide saved, must be achieved by promoting carbon saving community qualifying actions in accordance with article 14. Those actions will lead to carbon savings, which are calculated as provided for in article 18. Each supplier is required to achieve carbon saving community qualifying actions with carbon savings which are equal to its total carbon saving community obligation.
+
+A supplier's home heating cost reduction obligation, measured in costs saved, must be achieved by promoting heating qualifying actions in accordance with article 16. Those actions will lead to a cost saving (as defined in article 2) and are attributed with a cost score, calculated by reference to the cost saving, in accordance with articles 19 to 23. Each supplier is required to achieve heating qualifying actions with carbon scores equal to its total home heating cost reduction obligation.
+
+## Parts 2 and 3 of the Order
+
+Article 3 sets out the three overall targets which are to be met by suppliers.
+
+Articles 4 to 10 set out the basis upon which the Administrator is to apportion the three overall targets between gas and electricity suppliers and the procedure to be followed by suppliers and the Administrator in doing so. A share of the targets is imposed on gas and electricity suppliers who have more than 250,000 domestic customers and who supply more than a specified amount of electricity or gas, or are in a group of suppliers which meets these thresholds. A supplier's total obligation in respect of each target is determined in two phases, each covering a year of the obligation period, by reference to the supplier's customer numbers and supply in the previous calendar year.
+
+The Electricity and Gas (Energy Companies Obligation) Order 2012 (S.I. 2012/3018) (the “**2012 Order**”) imposes a carbon emissions reduction obligation on suppliers which must be met by no later than 31st March 2015 (an “ECO1 CERO target”). Article 11 of this Order provides that, if a supplier fails to meet its ECO1 CERO target, its carbon emissions reduction obligation for this 2015-17 obligation period is increased. The increase is the amount, in lifetime tonnes of carbon dioxide, by which it failed to meet its ECO1 CERO target, multiplied by 1.1.
+
+## Part 4 of the Order
+
+Article 12 provides that a supplier's carbon emissions reduction obligation must be achieved by no later than 31st March 2017, and by promoting carbon qualifying actions, defined in this article. It also provides that as part of the carbon emissions reduction obligation, a supplier must achieve a minimum amount of carbon savings by the promotion of solid wall insulation (the “solid wall minimum requirement”). A supplier's solid wall minimum requirement is determined under article 13.
+
+Article 14 provides that a supplier's carbon saving community obligation must be achieved by no later than 31st March 2017 by promoting carbon saving community qualifying actions, as defined in this article, in an area of low income, with the following exceptions—
+
+- (a) at least 15% of a supplier's total carbon saving community obligation must be met by carbon saving community qualifying actions promoted—
+  - (i) to a member of the affordable warmth group living in a rural area, or
+  - (ii) in a deprived rural area; and
+- (b) a supplier is allowed to promote carbon saving community qualifying actions in a specified adjoining area which adjoins an area of low income, subject to limits set out in article 15.
+
+Article 16 provides that a supplier's home heating cost reduction obligation must be achieved by no later than 31st March 2017, and by promoting heating qualifying actions, defined in this article.
+
+Suppliers must notify qualifying actions to the Administrator in accordance with article 17. A notification must include a calculation of the carbon saving or cost score, as applicable, for the qualifying action.
+
+Article 18 makes provision regarding the determination of the carbon saving for a qualifying action.
+
+Articles 19 to 23 make provision regarding the determination of the cost score for a heating qualifying action.
+
+Article 24 allows a supplier to apply to the Administrator for approval of an appropriate methodology for calculating the carbon or cost saving of a qualifying action.
+
+The Administrator must attribute a carbon saving or cost score, as applicable, to each qualifying action notified to it, in accordance with article 25.
+
+Suppliers can apply to the Administrator under article 26 to transfer qualifying actions from one supplier to another.
+
+A supplier can also apply to the Administrator under article 27 to credit towards its obligations an action carried out and approved under the 2012 Order (a “surplus action”). Articles 28 and 29 set out how the carbon saving or cost score of a surplus action is to be calculated. Once approved, suppliers can apply under article 30 to transfer surplus actions from one supplier to another.
+
+## Part 5 of the Order
+
+Article 31 requires the Administrator to determine, at the end of the 2015-17 obligation period, whether a supplier has achieved its obligations. The Administrator must also deliver monthly reports to the Secretary of State during the course of the 2015-17 obligation period, and a final report at the end setting out whether each of the overall targets set for suppliers in article 3 has been achieved.
+
+Article 32 enables the Administrator to request information from suppliers regarding the requirements of this Order.
+
+Article 33 requires the Secretary of State to publish the energy savings achieved by suppliers once a year.
+
+Article 34 provides that a requirement placed on a supplier by this Order is a relevant requirement for the purpose Part I of the Electricity Act 1989 and Part I of the Gas Act 1986.
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c22280171]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 33BC was inserted (as section 33BB) by section 10(1) of, and Schedule 3, paragraph 36 to, the [Gas Act 1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45). Section 33BB was substituted by (and renumbered as) section 33BC by section 99 of the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27). This section was also amended by sections 15 and 17 of, and paragraphs 1 and 2 of the Schedule to, the [Climate Change and Sustainable Energy Act 2006 (c.19)](https://www.legislation.gov.uk/ukpga/2006/19) and section 79 of, and paragraph 1 of Schedule 8 to, the [Climate Change Act 2008 (c.27)](https://www.legislation.gov.uk/ukpga/2008/27). Section 66 of the [Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16) and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631), [articles 3](https://www.legislation.gov.uk/uksi/2014/631/article/3), [4](https://www.legislation.gov.uk/uksi/2014/631/article/4) and Schedule 1 also amend this section. Section 33BD was inserted by section 68 of the Energy Act 2011.
+
+[^c22280181]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 41A was substituted for section 41 by section 70 of the Utilities Act 2000 and amended by sections 16 and 17 of, and paragraphs 4 and 5 of the Schedule to, the Climate Change and Sustainable Energy Act 2006 and section 79 of, and paragraphs 2 to 5 of Schedule 8 to, the Climate Change Act 2008. Section 67 of the Energy Act 2011 also amends this section. Section 41B was inserted by section 69 of the Energy Act 2011.
+
+[^c22280191]: Marginal citation: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27). This section was amended by section 17 of, and paragraph 7 of the Schedule to, the Climate Change and Sustainable Energy Act 2006 and section 79 of, and paragraph 6 of Schedule 8 to, the Climate Change Act 2008. This section has also been amended by section 72 of, and paragraphs 7 and 8 of the Schedule to, the Energy Act 2011. Section 103A was inserted by section 70 of the Energy Act 2011.
+
+[^c22280201]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c22280211]: Marginal citation: [Paragraph 2(2)](https://www.legislation.gov.uk/uksi/2014/3219/paragraph/2/2) of Schedule 2 was amended by the Legislative and Regulatory Reform Act 2006, sections 27(2)(a) and 33.
+
+[^c22280221]: Marginal citation: [S.I. 2010/761](https://www.legislation.gov.uk/uksi/2010/761).
+
+[^c22280231]: Marginal citation: [S.I. 2012/3018](https://www.legislation.gov.uk/uksi/2012/3018), as amended by [S.I. 2014/1131](https://www.legislation.gov.uk/uksi/2014/1131), [S.I](https://www.legislation.gov.uk/uksi/2014/1131/section/I). 2014/2897 and [S.I. 2014/3210](https://www.legislation.gov.uk/uksi/2014/3210).
+
+[^c22280241]: Marginal citation: This document can be found at https://www.gov.uk/government/publications/The-Future-of-the-Energy-Company-Obligation-Small-Area-Geographies-Eligible-for-ECO-CSCO-Support. A copy can be inspected at the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW.
+
+[^key-72e374350fba3f39291155f431326ae4]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/490/article/2/2)
+
+[^key-dc29ab65ab2015224114624324cfb512]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/490/article/2/3)
+
+[^c22280251]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); section 6 was amended by the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), [section 30](https://www.legislation.gov.uk/ukpga/2000/27/section/30), by the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), [sections 89(3)](https://www.legislation.gov.uk/ukpga/2004/20/section/89/3), [136(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/136/1) and (2), 143(1), 145 and 197(9), Schedule 19, paragraphs 3 and 5, and Schedule 23, Part 1, by the [Climate Change Act 2008 (c.27)](https://www.legislation.gov.uk/ukpga/2008/27), [section 78](https://www.legislation.gov.uk/ukpga/2008/27/section/78) and Schedule 8, paragraph 2, by the [Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16), [section 72](https://www.legislation.gov.uk/ukpga/2011/16/section/72) and Schedule 1, paragraphs 2 and 3, and by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704), [regulation 19](https://www.legislation.gov.uk/uksi/2011/2704/regulation/19).
+
+[^c22280261]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44); section 7A was inserted by the [Gas Act 1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45), [section 6(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/6/1), and has been amended by the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), [sections 3(2)](https://www.legislation.gov.uk/ukpga/2000/27/section/3/2) and 108, and Schedule 6, and by the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), [section 149(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/149/1) and (7).
+
+[^c22280271]: Marginal citation: [S.I. 2012/2079](https://www.legislation.gov.uk/uksi/2012/2079), as amended by [S.I. 2012/3021](https://www.legislation.gov.uk/uksi/2012/3021) and [S.I. 2013/139](https://www.legislation.gov.uk/uksi/2013/139).
+
+[^c22280281]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-644fa00944c2245208cd6877433c6b29]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/490/article/2/4)
+
+[^c22280291]: Marginal citation: [1960 c.62](https://www.legislation.gov.uk/ukpga/1960/62). This Act was amended by the [Mobile Homes Act 2013 (c.14)](https://www.legislation.gov.uk/ukpga/2013/14), but those amendments are not relevant for the purpose of this Order.
+
+[^c22280301]: Marginal citation: [1968 c.52](https://www.legislation.gov.uk/ukpga/1968/52).
+
+[^c22280311]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 3 was amended by [S.I. 2013/468](https://www.legislation.gov.uk/uksi/2013/468), [article 3](https://www.legislation.gov.uk/uksi/2013/468/article/3).
+
+[^key-e8d37e13062b2854ebdac3633de4b285]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/490/article/2/5)
+
+[^key-d46ff812d91b2c1cf6e13eb63cc1c7eb]: Textual amendment: Word in art. 2(1) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/6/a)
+
+[^key-11f8e8ec2b42e731907d04999959821f]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/6/b)
+
+[^key-358958fcd0677d73e9b6141fc3d126ba]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/490/article/2/7)
+
+[^key-c4892ff0c7fd22d4d89683670f53a47d]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/8/a)
+
+[^key-431b65f9e87602eed48242bd52f7e308]: Textual amendment: Word in art. 2(1) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/8/b)
+
+[^key-c368ff649aa871e3e6a172f13d7559c8]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2017/490/article/2/8/c)
+
+[^key-29a15d6e77f6215e3fe10211bad6acf6]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2017/490/article/2/9)
+
+[^key-e9de7e08b86612cfa47d09db6240c988]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2017/490/article/2/10)
+
+[^key-4cc7776ba316e8b96974a56e0b78ff1d]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/490/article/2/11)
+
+[^c22280331]: Marginal citation: The Government's Reduced Data Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92) is at Appendix S of the document entitled “The Government's Standard Assessment Procedure for the Energy Rating of Dwellings 2012 edition” which can be accessed at http://www.bre.co.uk/filelibrary/SAP/2012/SAP-2012\_9-92.pdf. A copy can be inspected at the Department of Energy and Climate Change, 3 Whitehall Place, London SW1A 2AW.
+
+[^key-c319ffa3259cad2656e1d65ea91c38bd]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2017/490/article/2/12)
+
+[^key-68398ae38876e6906f35599ee6b74745]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2017/490/article/2/13)
+
+[^c22280341]: Marginal citation: The Government's Standard Assessment Procedure for Energy Rating of Dwellings (2009 Edition) can be accessed at http://bre.co.uk/filelibrary/SAP/2009/SAP-2009\_9-90.pdf.
+
+[^key-074aa1398b31c409de6a7e4c8d5df322]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(14)](https://www.legislation.gov.uk/uksi/2017/490/article/2/14)
+
+[^c22280351]: Marginal citation: The document referred to can be found on the website for the Office of National Statistics by clicking on the words “Lower Layer Super Output Area Mid-Year Population Estimates, Mid-2010 – (SUPERSEDED)” at the following address:
+
+    http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-230902. A copy can be inspected at the Department of Energy and Climate Change, 3 Whitehall Place, London SW1A 2AW.
+
+[^c22280361]: Marginal citation: This document can be accessed at \[http://www.scotland.gov.uk/Topics/Statistics/SIMD/SIMDQuickLookup.\] A copy can be inspected at the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW.
+
+[^c22280371]: Marginal citation: The Government's Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92) can be accessed at http://www.bre.co.uk/filelibrary/SAP/2012/SAP-2012\_9-92.pdf. A copy can be inspected at the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW.
+
+[^key-5236ef98de6a34b4cf938f0144f21351]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/15/a)
+
+[^key-6ab2c2e5460ddd5f57794ed4722a6014]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/15/b)
+
+[^key-349c64048d1ebf2158f8d535a54ca5cc]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(16)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/16/a)
+
+[^key-94695f37ad29899c70986205515ed2ce]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(16)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/16/b)
+
+[^key-c200c385a0e839c9d332bea4e8e82f01]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(17)](https://www.legislation.gov.uk/uksi/2017/490/article/2/17)
+
+[^c22280381]: Marginal citation: Article 12 was amended by [S.I. 2014/1131](https://www.legislation.gov.uk/uksi/2014/1131) and is amended by [S.I. 2014/3210](https://www.legislation.gov.uk/uksi/2014/3210).
+
+[^c22280391]: Marginal citation: Article 21 is amended by and article 21ZA is inserted by [S.I. 2014/3210](https://www.legislation.gov.uk/uksi/2014/3210).
+
+[^c22280401]: Marginal citation: Article 13(5) was amended by [S.I. 2014/1131](https://www.legislation.gov.uk/uksi/2014/1131).
+
+[^c22280411]: Marginal citation: Article 16 was amended by [S.I. 2014/1131](https://www.legislation.gov.uk/uksi/2014/1131) and [S.I. 2014/2897](https://www.legislation.gov.uk/uksi/2014/2897) and is amended by [S.I. 2014/3210](https://www.legislation.gov.uk/uksi/2014/3210).
+
+[^key-b3c27c818700d39ba48113889b57a403]: Textual amendment: [Art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/3219/article/3/1/a)[(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/3/1/c) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2017/490/article/3/1)
+
+[^key-634436d753e717bdcfb4cb6b1593cf49]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2014/3219/article/3/1A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/490/article/3/2)
+
+[^key-71635a24c60e897130025ba903b792e2]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2014/3219/article/4/3) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2017/490/article/4/1)
+
+[^key-5d19cbb570dfc7f441d48e1e7f593790]: Textual amendment: Art. 4(3A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/490/article/4/2)
+
+[^key-c805680cf09476c6c83edf2ba6778171]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2014/3219/article/5/2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [5](https://www.legislation.gov.uk/uksi/2017/490/article/5)
+
+[^key-eebcaee63eef28d4ac2a7dff7c5a2c96]: Textual amendment: [Art. 6(8)(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/6/8/c) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [6](https://www.legislation.gov.uk/uksi/2017/490/article/6)
+
+[^key-2ecd93bb42734f251b9151ac975eeea9]: Textual amendment: Words in art. 7 heading substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2017/490/article/7/1)
+
+[^key-057e64e62f30cba9e3c01d79d468b231]: Textual amendment: Words in art. 7(1) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/a)
+
+[^key-6e9d3e71f2891308d15fd095bf7f0744]: Textual amendment: Words in art. 7(1)(a) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/b)
+
+[^key-0ab913e2ad7a83e72f326f33538dbefe]: Textual amendment: Words in art. 7(1)(b) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/c)
+
+[^key-835c666e782fbf41ca99bbe33c584759]: Textual amendment: Words in art. 7(1)(c) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/d)
+
+[^key-b7ae9c96143d2b8351e9809e5cf6173a]: Textual amendment: Art. 7(4)(5) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/490/article/7/3)
+
+[^key-9c2a0839da60e26fad00cc7880ff33ca]: Textual amendment: Words in art. 7(6) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/490/article/7/4)
+
+[^key-9e2a3c15a22bf94f7355082b98a3c1f1]: Textual amendment: Words in art. 7(7) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/490/article/7/5)
+
+[^key-cad3b5869e1647aae849bb054be90aa9]: Textual amendment: Words in [art. 8(a)](https://www.legislation.gov.uk/uksi/2014/3219/article/8/a) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/490/article/8)
+
+[^c22280421]: Marginal citation: Articles 19B and 19D are inserted by [S.I. 2014/3210](https://www.legislation.gov.uk/uksi/2014/3210).
+
+[^key-911fbd3a55f8b2e6699f8218f309f4b6]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2017/490/article/9/1)
+
+[^key-c9d62c7784461b10d7c88b6c6ce923fe]: Textual amendment: [Art. 12(2)(b)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/2/b) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/490/article/9/2)
+
+[^key-0684a065c49896ae99322e8bea7dfbae]: Textual amendment: Word in [art. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/b) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/490/article/9/3)
+
+[^key-ae1ebc642936bf5e1fa5c355fb19904f]: Textual amendment: [Art. 12(3)(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/c)[(d)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/d) substituted for [art. 12(3)(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/c) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2017/490/article/9/4)
+
+[^key-e6a5c0f436783c6779d3ca08903b3030]: Textual amendment: Words in [art. 12(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/4/c/iii) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2017/490/article/9/5)
+
+[^key-cd58582311ce4e218d7b2bc3e24b50d4]: Textual amendment: Words in art. 13(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [10](https://www.legislation.gov.uk/uksi/2017/490/article/10)
+
+[^key-0c6d735d6917233122b1583384c6b520]: Textual amendment: Words in art. 16(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2017/490/article/11/1)
+
+[^key-ae14dbb244457f3c363f0801e90a16b3]: Textual amendment: Art. 16(2)(3) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2017/490/article/11/2)
+
+[^key-c70bad9fdbdd63b0e044277eeaa28dc2]: Textual amendment: Art. 16(5) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2017/490/article/11/3)
+
+[^key-28d376a4c0ea77b5d00e247155d44c66]: Textual amendment: Art. 16(7A)(7B) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2017/490/article/11/4)
+
+[^key-ad5383669557bbeef6d0354900fafb02]: Textual amendment: Words in art. 16(9) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2017/490/article/11/5)
+
+[^key-ecf3598ab040e07a4de3632032d2fb79]: Textual amendment: Art. 16A inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [12](https://www.legislation.gov.uk/uksi/2017/490/article/12)
+
+[^key-f29e4299fbf59b8441c48021c3608bc3]: Textual amendment: Words in art. 17(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2017/490/article/13/1)
+
+[^key-fa7a5a3a761f8afecfd322d700a8ab7d]: Textual amendment: Art. 17(3A)(3B) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2017/490/article/13/2)
+
+[^M_F_142f779d-675d-4a0d-f748-2ea773240706]: Textual amendment: Art. 17(5) substituted for art. 17(5)(6) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/c)
+
+[^key-071bc51fce49d47363cc187ca5618c7a]: Textual amendment: Words in art. 17(8) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/a)
+
+[^key-f2adc624ff2cbc25e8f32b61891ae185]: Textual amendment: Words in art. 17(8) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/b/i)
+
+[^key-8321b14048231facbbc5e7babe5dc6b4]: Textual amendment: Words in art. 17(8) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/b/ii)
+
+[^key-0d5380cd25b281b4fca1c688935e3457]: Textual amendment: Words in art. 17(8) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(c)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/c)
+
+[^key-8d25eddd0b00f01c437ad8bf9f124a65]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/18/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2017/490/article/14/1)
+
+[^key-cfe92c5e7eb8da44ab357b187a1f270b]: Textual amendment: Words in [art. 18(2)](https://www.legislation.gov.uk/uksi/2014/3219/article/18/2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2017/490/article/14/2)
+
+[^key-74e3d8f20020b1495d9f4a8cd0987be3]: Textual amendment: [Art. 18(2A)](https://www.legislation.gov.uk/uksi/2014/3219/article/18/2A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2017/490/article/14/3)
+
+[^c22280431]: Marginal citation: [2008 c.27](https://www.legislation.gov.uk/ukpga/2008/27).
+
+[^key-cd039a10f86c4953688a4fb3a2929e96]: Textual amendment: Words in art. 19(1)(a) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2017/490/article/15/1)
+
+[^key-4464acdd80d92ea0c43423c06eb45e89]: Textual amendment: Words in art. 19(1)(b) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2017/490/article/15/2)
+
+[^key-2850c3b54cdad5859aef9badb99d4243]: Textual amendment: Word in art. 19(1)(b) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2017/490/article/15/3)
+
+[^key-bd106bc0516697b05d24dc52667805df]: Textual amendment: Words in art. 19(1)(c) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2017/490/article/15/4)
+
+[^key-660d63ae5f22735aa9c00ec1bd897c4f]: Textual amendment: Art. 19(1)(d) and word inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2017/490/article/15/5)
+
+[^key-ed2c694646fdcf465fa86ef33441bc04]: Textual amendment: Words in art. 19(2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2017/490/article/15/6)
+
+[^key-44a8a8a2e1797e59d2ef241c8c5859cf]: Textual amendment: Art. 19(2A)-(2C) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2017/490/article/15/7)
+
+[^key-1acd7d57ced044b71518530a59270558]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/20/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [16](https://www.legislation.gov.uk/uksi/2017/490/article/16)
+
+[^key-cbd2ee6b70c4f9fe3a1150173874bb6b]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/uksi/2014/3219/article/21) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [17](https://www.legislation.gov.uk/uksi/2017/490/article/17)
+
+[^key-6c4c191b01184b70a14a90c543799c7c]: Textual amendment: Words in [art. 22(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/22/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [18](https://www.legislation.gov.uk/uksi/2017/490/article/18)
+
+[^key-f0bce7056dc14a52afb5e58ab5f6780a]: Textual amendment: Words in art. 24 heading inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2017/490/article/19/1)
+
+[^key-ef65b9f39c6282c987b88ee581d06284]: Textual amendment: Words in art. 24(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2017/490/article/19/2)
+
+[^key-79538e720a47305b2f974ec2d8f1d681]: Textual amendment: Art. 24(3A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2017/490/article/19/3)
+
+[^key-9bbb0a8f26e368f14f42323f57918a73]: Textual amendment: Art. 24A inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [20](https://www.legislation.gov.uk/uksi/2017/490/article/20)
+
+[^key-78c07a88afc01d06c203b5e1bedb4c9b]: Textual amendment: Words in art. 26(2)(a) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [21(1)](https://www.legislation.gov.uk/uksi/2017/490/article/21/1)
+
+[^key-033e4f553a95df38c3eecd231c410e73]: Textual amendment: Art. 26(3)(3A) substituted for art. 26(3) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2017/490/article/21/2)
+
+[^c22280441]: Marginal citation: Article 13(3) is amended by [S.I. 2104/3210](https://www.legislation.gov.uk/uksi/2104/3210).
+
+[^key-32fae39dd29510aedaf271a365893966]: Textual amendment: Words in [art. 30(2)(a)](https://www.legislation.gov.uk/uksi/2014/3219/article/30/2/a) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [22(1)](https://www.legislation.gov.uk/uksi/2017/490/article/22/1)
+
+[^key-7f0d248be6ea213da4535179fc519496]: Textual amendment: [Art. 30(3)](https://www.legislation.gov.uk/uksi/2014/3219/article/30/3) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2017/490/article/22/2)
+
+[^key-c75fed748ad5f3cc77fd7272c6a91db9]: Textual amendment: Art. 30A inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [23](https://www.legislation.gov.uk/uksi/2017/490/article/23)
+
+[^key-ec04629a27f8e06cdeab445654b5c6bf]: Textual amendment: Words in art. 31(2) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [24(1)](https://www.legislation.gov.uk/uksi/2017/490/article/24/1)
+
+[^key-ce3b62dcfc631dcb10a5997484610f3b]: Textual amendment: Art. 31(3)-(4) substituted for art. 31(3)(4) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2017/490/article/24/2)
+
+[^key-07f6099989778656e4ea7af05d2da5bc]: Textual amendment: Words in art. 31(6) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2017/490/article/24/3)
+
+[^key-0152f3f23a45c71ed33a9070c199f398]: Textual amendment: Words in [art. 33(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/33/1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [25](https://www.legislation.gov.uk/uksi/2017/490/article/25)
+
+[^c22280451]: Marginal citation: OJ No L 3015, 14.11.2012, p1; the Directive has been amended but the amendments are not relevant to these Regulations.
+
+[^c22280461]: Marginal citation: Child tax credit and working tax credit are provided for in [Part I of the Tax Credits Act 2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^c22280471]: Marginal citation: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21). Part I is repealed by section 417 of and Schedule 14 to the [Welfare Reform Act 2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5) but this repeal has not yet come into force.
+
+[^c22280481]: Marginal citation: See Part 1 of the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5). Sections 9 and 5 of and Schedule 7 to the [Welfare Reform Act 2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24) made relevant amendments to Part 1. Section 147 of the Welfare Reform Act 2012 also makes relevant amendments to this Part, but these amendments are in force for certain purposes only.
+
+[^c22280491]: Marginal citation: See section 1(1) and (4) of the [Jobseekers Act 1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18). Section 1(4) was amended by sections 4, 59 and 88 of and Schedules 7 and 13 to the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), and section 245 of and Schedule 24 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33). Section 1(4) is also repealed by section 147 of and Schedule 14 to the Welfare Reform Act 2014, but this repeal is in force for certain purposes only.
+
+[^c22280501]: Marginal citation: See section 124 of the [Social Security Contributions and Benefits Act 1992 (c.4)](https://www.legislation.gov.uk/ukpga/1992/4). Section 124 is repealed by the Welfare Reform Act 2012, but this repeal has not yet come into force.
+
+[^c22280511]: Marginal citation: See section 1(1) of the [State Pension Credit Act 2002 (c.16)](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^c22280521]: Marginal citation: Universal credit is provided for in Part 1 of the Welfare Reform Act 2012.
+
+[^c22280531]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376). Regulation 4 was amended by [S.I. 2013/1508](https://www.legislation.gov.uk/uksi/2013/1508), [regulation 3](https://www.legislation.gov.uk/uksi/2013/1508/regulation/3).
+
+[^c22280541]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 71 was amended by section 67 of the Welfare Reform and Pensions Act 1999. Section 71 is repealed by section 90 of the [Welfare Reform Act 2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5), but this repeal has not yet come into force.
+
+[^c22280551]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^c22280561]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^c22280571]: Marginal citation: [S.I. 2002/2007](https://www.legislation.gov.uk/uksi/2002/2007). The definition of “approved training” was inserted by [S.I. 2006/222](https://www.legislation.gov.uk/uksi/2006/222).
+
+[^c22280581]: Marginal citation: Regulation 3 was amended by [S.I. 2004/762](https://www.legislation.gov.uk/uksi/2004/762), [regulation 2](https://www.legislation.gov.uk/uksi/2004/762/regulation/2), [S.I](https://www.legislation.gov.uk/uksi/2004/762/section/I). 2005/2919, article 4, [S.I. 2007/2151](https://www.legislation.gov.uk/uksi/2007/2151), [regulations 2](https://www.legislation.gov.uk/uksi/2007/2151/regulation/2) and 3, [S.I. 2008/2169](https://www.legislation.gov.uk/uksi/2008/2169), [regulations 6](https://www.legislation.gov.uk/uksi/2008/2169/regulation/6) and 8, [S.I. 2009/697](https://www.legislation.gov.uk/uksi/2009/697), [regulations 9](https://www.legislation.gov.uk/uksi/2009/697/regulation/9) and 16, [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740), [article 2](https://www.legislation.gov.uk/uksi/2011/1740/article/2) and Schedule 1, [S.I. 2012/848](https://www.legislation.gov.uk/uksi/2012/848), [regulation 4](https://www.legislation.gov.uk/uksi/2012/848/regulation/4), [S.I](https://www.legislation.gov.uk/uksi/2012/848/section/I). 2013/1465, article 17 and Schedule 1.
+
+[^key-074ff3426ae1ab8c8715222b4c82fd86]: Textual amendment: Words in Sch. 2 substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [26](https://www.legislation.gov.uk/uksi/2017/490/article/26)
+
+[^key-63e08720b3d85315c124d479075272e2]: Textual amendment: Sch. 4 Pt. 1 heading inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(1)](https://www.legislation.gov.uk/uksi/2017/490/article/27/1)
+
+[^key-76241c76ae84549dfaef83067875f86c]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4/paragraph/1/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2017/490/article/27/2)
+
+[^c22280591]: Marginal citation: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68). Part V was amended by section 235 of and Schedule 10 to the Insolvency Act1985 (c. 65), section 437 of and Schedule 11 to the [Insolvency Act 1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45), [sections 2](https://www.legislation.gov.uk/ukpga/1986/45/section/2), [4](https://www.legislation.gov.uk/ukpga/1986/45/section/4), [8](https://www.legislation.gov.uk/ukpga/1986/45/section/8), [24](https://www.legislation.gov.uk/ukpga/1986/45/section/24) of and Schedule 5 to the [Housing and Planning Act 1986 (c.63)](https://www.legislation.gov.uk/ukpga/1986/63), [sections 1](https://www.legislation.gov.uk/ukpga/1986/63/section/1) and 2 of and the Schedule to the [Land Registration Act 1988 (c.3)](https://www.legislation.gov.uk/ukpga/1988/3), [sections 83](https://www.legislation.gov.uk/ukpga/1988/3/section/83), [122](https://www.legislation.gov.uk/ukpga/1988/3/section/122), [124](https://www.legislation.gov.uk/ukpga/1988/3/section/124), [126](https://www.legislation.gov.uk/ukpga/1988/3/section/126), [127](https://www.legislation.gov.uk/ukpga/1988/3/section/127), [140](https://www.legislation.gov.uk/ukpga/1988/3/section/140) of and Schedule 17 to the [Housing Act 1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50), [sections 104](https://www.legislation.gov.uk/ukpga/1988/50/section/104), [105](https://www.legislation.gov.uk/ukpga/1988/50/section/105), [108 to 120](https://www.legislation.gov.uk/ukpga/1988/50/section/108), [187(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/187/2) of and Schedules 21 and 22 to the [Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), [section 66](https://www.legislation.gov.uk/ukpga/1993/28/section/66) of and Schedule 8 to the [Family Law Act 1996 (c.27)](https://www.legislation.gov.uk/ukpga/1996/27), [section 222](https://www.legislation.gov.uk/ukpga/1996/27/section/222) of and Schedule 18 to the [Housing Act 1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52), [sections 140](https://www.legislation.gov.uk/ukpga/1996/52/section/140) and 152 of and Schedules 16 and 18 to the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), the [Statute Law (Repeals) Act 1998 (c.43)](https://www.legislation.gov.uk/ukpga/1998/43), [section 14](https://www.legislation.gov.uk/ukpga/1998/43/section/14) of and Schedule 1 to the Anti-[Social Behaviour Act 2003 (c.38)](https://www.legislation.gov.uk/ukpga/2003/38), [sections 81](https://www.legislation.gov.uk/ukpga/2003/38/section/81) and 261 of and Schedules 8 and 30 to the Civil Partnership Act 2004, sections 180 to 190, 192, 193 and 270 of the [Housing Act 2004 (c.34)](https://www.legislation.gov.uk/ukpga/2004/34), [section 93](https://www.legislation.gov.uk/ukpga/2004/34/section/93) of and Schedule 15 to the [Countryside and Rights of Way Act 2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), [sections 133](https://www.legislation.gov.uk/ukpga/2000/37/section/133) and 135 of and Schedules 11 and 13 to the [Land Registration Act 2002 (c.9)](https://www.legislation.gov.uk/ukpga/2002/9), [sections 52](https://www.legislation.gov.uk/ukpga/2002/9/section/52) and 53 of the [Police and Justice Act 2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), [sections 304](https://www.legislation.gov.uk/ukpga/2006/48/section/304), [306](https://www.legislation.gov.uk/ukpga/2006/48/section/306), [191](https://www.legislation.gov.uk/ukpga/2006/48/section/191), [307](https://www.legislation.gov.uk/ukpga/2006/48/section/307), [321](https://www.legislation.gov.uk/ukpga/2006/48/section/321) and 325 of and Schedule 16 to the [Housing and Regeneration Act 2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17), [section 31](https://www.legislation.gov.uk/ukpga/2008/17/section/31) of the Housing (Wales) Measure 2011 (nawm 5), [section 195](https://www.legislation.gov.uk/ukpga/2008/17/section/195) of and Schedule 19 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [S.I](https://www.legislation.gov.uk/ukpga/2011/20/section/I). 1993/651, article 2 and Schedule 1, [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [article 5](https://www.legislation.gov.uk/uksi/1996/2325/article/5) and Schedule 2, [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [article 2](https://www.legislation.gov.uk/uksi/1997/74/article/2) and Schedule, [S.I. 1997/627](https://www.legislation.gov.uk/uksi/1997/627), [article 2](https://www.legislation.gov.uk/uksi/1997/627/article/2) and Schedule, [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [article 299](https://www.legislation.gov.uk/uksi/2001/3649/article/299), [S.I](https://www.legislation.gov.uk/uksi/2001/3649/section/I). 2005/3237, article 2, [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [article 4](https://www.legislation.gov.uk/uksi/2007/709/article/4), [S.I](https://www.legislation.gov.uk/uksi/2007/709/section/I). 2009/1941, article 2 and Schedule, [S.I. 2010/844](https://www.legislation.gov.uk/uksi/2010/844), [article 6](https://www.legislation.gov.uk/uksi/2010/844/article/6) and Schedule 2, [S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866), [articles 4](https://www.legislation.gov.uk/uksi/2010/866/article/4) and 5 and Schedules 1 and 2.
+
+[^key-c1c51549564597e42d4cfb822820f227]: Textual amendment: Words in [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4/paragraph/1/2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(3)](https://www.legislation.gov.uk/uksi/2017/490/article/27/3)
+
+[^c22280601]: Marginal citation: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26). Sections 61 to 84 were amended by sections 1, 3, 65 and 72 of and Schedules 2, 8, 9 and 10 to the Housing (Scotland) Act (c.43), sections 168, 176, 194 of and Schedules 11 and 12 to the [Local Government and Housing Act 1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), [sections 144](https://www.legislation.gov.uk/ukpga/1989/42/section/144), [145](https://www.legislation.gov.uk/ukpga/1989/42/section/145), [157](https://www.legislation.gov.uk/ukpga/1989/42/section/157), [187](https://www.legislation.gov.uk/ukpga/1989/42/section/187) of and Schedule 22 to the Leasehold Reform, Housing and Urban Development Act 1993, section 180 of and Schedule 13 to the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), [sections 4](https://www.legislation.gov.uk/ukpga/1994/39/section/4) and 6 of and Schedule 2 to the [Planning (Consequential Provisions) (Scotland) Act 1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11), [section 152](https://www.legislation.gov.uk/ukpga/1997/11/section/152) of and Schedule 18 to the Government of Wales Act 1998, sections 42 to 49, 51, 108 and 112 of and Schedule 10 to the [Housing (Scotland) Act 2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10), [section 71](https://www.legislation.gov.uk/asp/2001/10/section/71) of and Schedule 7to the [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [S.I](https://www.legislation.gov.uk/asp/2002/3/section/I). 2010/2040, articles 1 and 2 and Schedule.
+
+[^c22280611]: Marginal citation: Section 84A was inserted by the Local Government and Housing Act 1989.
+
+[^c22280621]: Marginal citation: Defined in Schedule 1 to the [Interpretation Act 1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c22280631]: Marginal citation: Section 1 was amended by section 22 of and Schedule 8 to the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^c22280641]: Marginal citation: Section 5 was amended by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [article 5](https://www.legislation.gov.uk/uksi/1996/2325/article/5) and Schedule 2, and [S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866), [article 5](https://www.legislation.gov.uk/uksi/2010/866/article/5) and Schedule 2. It is also amended by virtue of section 2 of the Co-operative and [Community Societies and Credit Unions Act 2010 (c.7)](https://www.legislation.gov.uk/ukpga/2010/7).
+
+[^c22280651]: Marginal citation: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).
+
+[^c22280661]: Marginal citation: [2010 asp 17](https://www.legislation.gov.uk/asp/2010/17).
+
+[^c22280671]: Marginal citation: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52). Chapter 1 of Part 1 was amended by sections 140 and 152 of, and Schedules 16 and 18 to the Government of Wales Act 1998, section 75 of and Schedule 8 to the [Charities Act 2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), [sections 61](https://www.legislation.gov.uk/ukpga/2006/50/section/61) and 321 of, and Schedule 16 to the Housing and Regeneration Act 2008, sections 2 and 8 of the Co-operative and Community Benefit Societies and Credit Unions Act 2010, [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^key-909772385b11481cf80b6afa10da01a5]: Textual amendment: Sch. 4 Pt. 2 inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(4)](https://www.legislation.gov.uk/uksi/2017/490/article/27/4)
+
+[^key-6f1febb23feac6aa096ce0dccb81b2ca]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4A), [Sch. 4B](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4B) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/490/article/28)

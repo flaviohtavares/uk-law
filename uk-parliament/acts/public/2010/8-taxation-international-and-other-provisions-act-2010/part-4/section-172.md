@@ -1,0 +1,54 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 172
+act: Taxation (International and Other Provisions) Act 2010
+section: '172'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/172
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 172
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 172. Meaning of “small enterprise” and “medium-sized enterprise”
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Chapter—
+
+- (a) “**small enterprise**” means a small enterprise as defined in the Annex, and
+- (b) “**medium-sized enterprise**” means an enterprise which—
+  - (i) falls within the category of micro, small and medium-sized enterprises as defined in the Annex, and
+  - (ii) is not a small enterprise as defined in the Annex.
+
+(2) For the purposes of subsection (1), the Annex has effect with the modifications set out in subsections (4) to (7).
+
+(3) In this section “**the Annex**” means the Annex to Commission Recommendation 2003/361/EC of 6 May 2003 (concerning the definition of micro, small and medium-sized businesses).
+
+(4) Where any enterprise is in liquidation or administration, the rights of the liquidator or administrator (in that capacity) are to be left out of account when applying Article 3(3)(b) of the Annex in determining for the purposes of this Part whether—
+
+- (a) that enterprise, or
+- (b) any other enterprise (including that of the liquidator or administrator),
+
+is a small or medium-sized enterprise.
+
+(5) Article 3 of the Annex has effect with the omission of paragraph 5 (declaration in good faith where control cannot be determined etc).
+
+(6) The first sentence of Article 4(1) of the Annex has effect as if the data to apply to—
+
+- (a) the headcount of staff, and
+- (b) the financial amounts,
+
+were the data relating to the chargeable period referred to in section 166(1) (instead of the period described in that sentence) and calculated on an annual basis.
+
+(7) Article 4 of the Annex has effect with the omission of the following provisions—
+
+- (a) the second sentence of paragraph 1 (data to be taken into account from date of closure of accounts),
+- (b) paragraph 2 (no change of status unless ceilings exceeded for two consecutive periods), and
+- (c) paragraph 3 (genuine estimate in case of newly established enterprise).

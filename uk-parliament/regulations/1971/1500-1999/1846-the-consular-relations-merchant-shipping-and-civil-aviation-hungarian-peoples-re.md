@@ -1,0 +1,83 @@
+---
+title: The Consular Relations (Merchant Shipping and Civil Aviation) (Hungarian People's Republic) Order 1971
+id: uksi/1971/1846
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1971-11-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1971/1846
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1971/1846/pdfs/uksi_19711846_en.pdf
+- http://www.legislation.gov.uk/uksi/1971/1846/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Consular Relations (Merchant Shipping and Civil Aviation) (Hungarian People's Republic) Order 1971
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1971 No. 1846
+
+MERCHANT SHIPPING
+
+CIVIL AVIATION
+
+The Consular Relations (Merchant Shipping and Civil Aviation) (Hungarian People'S Republic) Order 1971
+
+Made
+
+12th November 1971
+
+Laid before Parliament
+
+18th November 1971
+
+Coming into Operation
+
+28th November 1971
+
+At the Court at Buckingham Palace, the 12th day of November 1971
+
+Present,
+
+The Queen's Most Excellent Majesty in Council
+
+Her Majesty, by virtue and in exercise of the powers conferred on Her by sections 4, 5, 6 and 16(2) of the Consular Relations Act 1968 or otherwise in Her Majesty vested, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
+
+**1.** This Order may be cited as the Consular Relations (Merchant Shipping and Civil Aviation) (Hungarian People's Republic) Order 1971 and shall come into operation on 28th November 1971.
+
+**2.** (1) For the purposes of Articles 3 and 4 of this Order and for the purposes of section 6 of the Consular Relations Act 1968 as applied by virtue of Article 5 of this Order a ship shall be treated as belonging to the Hungarian People's Republic if it is registered at a port of the Hungarian People's Republic.
+
+(2) For the purposes of this Order an aircraft shall be treated as belonging to the Hungarian People's Republic if it is registered in the Hungarian People's Republic.
+
+(3) Nothing in this Order shall apply to any ship of war or military aircraft.
+
+(4) The Interpretation Act 1889 shall apply for the interpretation of this Order as it applies for the interpretation of an Act of Parliament.
+
+**3.** Proceedings relating to the remuneration or any contract of service of the master or commander or a member of the crew of any ship or aircraft belonging to the Hungarian People's Republic shall not be entertained by any court in the United Kingdom unless a consular officer of the Hungarian People's Republic has been notified of the intention to invoke the jurisdiction of that court and has not objected within a period of two weeks from the date of such notification and a statement to that effect is included among the details on which the claim is based at the time when the proceedings are commenced.
+
+**4.** Where an offence is alleged to have been committed on board any ship belonging to the Hungarian People's Republic by the master or a member of the crew, proceedings for the offence instituted otherwise than at the request or with the consent of a consular officer of the Hungarian People's Republic shall not be entertained by any court in the United Kingdom, unless—
+
+- (a) the offence is alleged to have been committed—
+  - (i) by or against a person who is a citizen of the United Kingdom and Colonies, a British subject by virtue of sections 2, 13 and 16 of the British Nationality Act 1948 or the British Nationality Act 1965, or a British protected person within the meaning of the said Act of 1948; or
+  - (ii) against a person other than the master or a member of the crew; or
+- (b) the offence is one involving the tranquillity or safety of the territory or territorial waters of the United Kingdom, or the law relating to safety of life at sea, public health, oil pollution, wireless telegraphy, immigration or customs; or
+- (c) the offence is one punishable (on a first conviction) with imprisonment for a term that may extend to five years or with a more severe sentence.
+
+**5.** The Hungarian People's Republic is designated for the purposes of section 6 of the Consular Relations Act 1968 (which relates to detention on board ship for disciplinary offences).
+
+W.G. Agnew
+
+EXPLANATORY NOTE
+
+This Order, which is made pursuant to the Consular Relations Act 1968, provides, in relation to ships and aircraft (other than ships of war and military aircraft) of the Hungarian People's Republic, for limiting the jurisdiction of the courts of the United Kingdom to entertain proceedings relating to the remuneration or any contract of service of the master or commander or a member of the crew. In relation to ships (other than ships of war) of the Hungarian People's Republic it also provides,
+
+- (i) for limiting the jurisdiction of such courts over offences committed on board by the master or a member of the crew;
+- (ii) for the detention on board of a member of the crew for a disciplinary offence to be treated as not unlawful except in certain cases.
+
+It gives effect to the relevant provisions of the Consular Convention between the United Kingdom and the Hungarian People's Republic which was signed at Budapest on 12th March 1971 (Cmnd. 4685).

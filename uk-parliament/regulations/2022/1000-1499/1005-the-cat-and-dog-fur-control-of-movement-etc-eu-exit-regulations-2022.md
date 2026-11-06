@@ -1,0 +1,217 @@
+---
+title: The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022
+id: uksi/2022/1005
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-09-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/1005
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/1005/pdfs/uksiem_20221005_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1005/pdfs/uksi_20221005_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1005/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 1005
+
+Exiting The European Union
+
+Trade
+
+Animals
+
+Customs
+
+The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022
+
+Made
+
+27th September 2022
+
+Coming into force
+
+28th September 2022
+
+The Secretary of State, in exercise of the powers conferred by sections 8(1) and 8C(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001], makes the following Regulations.
+
+A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to that Act.
+
+## PART 1 — General
+
+### 1. Citation, commencement
+
+(1) These Regulations may be cited as the Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022.
+
+(2) They come into force on the day after the day on which they are made.
+
+### 2. Extent and application
+
+(1) Part 2 applies to Great Britain only.
+
+(2) Part 3 extends to England and Wales and Scotland.
+
+(3) Part 4 extends to Northern Ireland.
+
+## PART 2 — Amendments to retained direct EU legislation:
+
+### 3. Amendment of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523) of the European Parliament and of the Council banning the placing on the market and the import to, or export from, the Community of cat and dog fur, and products containing such fur
+
+(1) Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523) of the European Parliament and of the Council banning the placing on the market and the import to, or export from, the Community of cat and dog fur, and products containing such fur[^f00002], is amended as follows.
+
+(2) In Article 1 (objective)—
+
+- (a) after “The purpose of this Regulation is” insert “, subject to any derogations permitted by regulations made under Article 4,”;
+- (b) for “the Community” substitute “Great Britain”; and
+- (c) omit “to eliminate obstacles to the functioning of the internal market and”.
+
+(3) For Article 2 (definitions) substitute—
+
+> **Article 2 — Definitions**
+>
+> For the purpose of this Regulation, the following definitions apply:
+>
+> - ‘cat’ means an animal of the species *felis silvestris*;
+> - ‘dog’ means an animal of the subspecies *canis lupus familiaris*;
+> - ‘placing on the market’ means the holding of cat and dog fur or a product containing such fur for the purpose of sale, which includes offer for sale, sale and distribution;
+> - ‘import’, in relation to cat and dog fur, means—
+>   - (a) landing or unloading the fur in Great Britain from any means of transport arriving from any other country or territory, or
+>   - (b) declaring the fur for any customs procedure on import under section 3 of the Taxation (Cross-border Trade) Act 2018[^f00003],
+>
+>   and importation occurs when the fur is landed or unloaded in Great Britain or the declaration is accepted by Her Majesty’s Revenue and Customs in relation to any such fur, whichever occurs first;
+> - ‘export’, in relation to cat and dog fur, means—
+>   - (a) the loading of the fur for the purposes of removing it from Great Britain to any other country or territory, or
+>   - (b) notification to Her Majesty’s Revenue and Customs under section 34(3) of the Taxation (Cross-border Trade) Act 2018 of an intention to remove the fur from Great Britain,
+>
+>   and export occurs when the fur is loaded in Great Britain, or when the notification in relation to any such fur is sent, whichever occurs first..
+
+.
+
+(4) In Article 3 (prohibitions)—
+
+- (a) at the beginning, for “The placing on the market”, substitute “Subject to the provisions of any regulations made under Article 4, the placing on the market”; and
+- (b) for “Community” substitute “Great Britain”.
+
+(5) For Article 4 (derogations) substitute—
+
+> **Article 4 — Derogations**
+>
+> **1.** The Secretary of State may by regulations made by statutory instrument permit—
+>
+> - (a) the import into Great Britain of cat and dog fur or products containing such fur from any other country or territory,
+> - (b) the export from Great Britain of cat and dog fur or products containing such fur to any other country or territory, or
+> - (c) the placing on the market in Great Britain of cat and dog fur or products containing such fur,
+>
+> for educational or taxidermy purposes.
+>
+> **2.** Regulations made under paragraph 1 are subject to annulment in pursuance of a resolution of either House of Parliament.
+
+.
+
+(6) Omit Articles 5 to 9.
+
+(7) Omit the applicability provisions that follow Article 9.
+
+## PART 3 — Amendment of domestic legislation:
+
+### 4. Amendment of the Cat and Dog Fur (Control of Import, Export and Placing on the Market) Regulations 2008
+
+(1) The Cat and Dog Fur (Control of Import, Export and Placing on the Market) Regulations 2008[^f00004], are amended as follows.
+
+(2) For regulation 2, substitute—
+
+> **2. Penalty for breach of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523)**
+>
+> (1) Any person who contravenes Article 3 of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523) of the European Parliament and of the Council banning the placing on the market and the import to, or export from, the Community of cat and dog fur, and products containing such fur[^f00005], is guilty of an offence.
+>
+> (2) A person guilty of an offence described in paragraph (1) in England and Wales is liable—
+>
+> - (a) on conviction on indictment, to a fine not exceeding £75,000; or
+> - (b) on summary conviction, to a fine.
+>
+> (3) A person guilty of an offence described in paragraph (1) in Scotland is liable—
+>
+> - (a) on conviction on indictment, to a fine not exceeding £75,000; or
+> - (b) on summary conviction, to a fine not exceeding the statutory maximum
+
+.
+
+(3) In regulation 3, for paragraph (2) substitute—
+
+> (2) These Regulations must be enforced in Great Britain by Her Majesty’s Revenue and Customs by an HMRC officer defined in section 37(1) of the Taxation (Cross-border Trade) Act 2018 and not by an enforcement authority at any place where the goods are under the control of an HMRC officer.
+
+.
+
+## PART 4 — Amendment of domestic legislation: Northern Ireland
+
+### 5. Amendment of the Cat and Dog Fur (Control of Import, Export and Placing on the Market) Regulations 2008
+
+(1) The Cat and Dog Fur (Control of Import, Export and Placing on the Market) Regulations 2008 are amended as follows.
+
+(2) For regulation 2, substitute —
+
+> **2. Penalty for breach of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523) – Northern Ireland**
+>
+> (1) Any person who contravenes Article 3 of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523) of the European Parliament and of the Council banning the placing on the market and the import to, or export from, the Community of cat and dog fur, and products containing such fur[^f00006], as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement, is guilty of an offence and in Northern Ireland is liable—
+>
+> - (a) on conviction on indictment, to a fine not exceeding £75,000; or
+> - (b) on summary conviction, to a fine not exceeding the statutory maximum.
+>
+> (2) For the purposes of paragraph (1), the movement from Northern Ireland to Great Britain of cat and dog fur or of products containing such fur is to be treated as if it were not a contravention of the general prohibition in Article 3 of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523) where that fur or those products are “**qualifying Northern Ireland goods**” as defined in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018 (power in connection with Ireland/Northern Ireland Protocol in withdrawal agreement)[^f00007].
+
+.
+
+(3) In regulation 3, for paragraph (2) substitute—
+
+> (2) These Regulations must be enforced in Northern Ireland by Her Majesty’s Revenue and Customs and not by the enforcement authorities at any place where the goods are under customs supervision within the meaning of Regulation (EU) No. 952/2013 laying down the Union Customs Code[^f00008], as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
+
+.
+
+Signed by authority of the Secretary of State for International Trade
+
+James Duddridge
+
+Minister of State
+
+Department for International Trade
+
+27th September 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers in sections 8(1) and 8C(1) of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) (“**the Act**”).
+
+Part 2 amends deficiencies in the retained domestic version of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523) of the European Parliament and of the Council banning the import, export and placing on the market of cat and dog fur and products containing such fur (“**the EC Regulation**”), as that Regulation applies in Great Britain. A regulation making power is conferred on the Secretary of State to derogate from the general prohibition in Article 3 of the EC Regulation by permitting the movement of cat and dog fur and products containing such fur to or from Great Britain from any other country or territory and the placing on the market in Great Britain of any such fur or products for educational or taxidermy purposes. The EC Regulation directly applies to and in the United Kingdom in respect of Northern Ireland by virtue of the application of section 7A of the European Union (Withdrawal) Act 2018 and the Protocol on Ireland/Northern Ireland to the EU withdrawal agreement.
+
+Parts 3 and 4 of these Regulations amend the Cat and Dog Fur (Control of Import, Export and Placing on the Market) Regulations 2008 ([S.I. 2008/2795](https://www.legislation.gov.uk/uksi/2008/2795)) (“**the 2008 Regulations**”) as those Regulations apply in England and Wales and Scotland, and Northern Ireland respectively. The amendments ensure that the penalties imposed under the 2008 Regulations apply throughout the United Kingdom to the import, export and placing on the market of cat and dog fur and products containing such fur where this constitutes an offence under either Article 3 of the EC Regulation as it directly applies in Northern Ireland or Article 3 of the retained EC Regulation, as amended by Part 2 of these Regulations, as it applies in Great Britain. The amendments made by Part 4 also provide that the movement of cat and dog fur and products containing such fur from Northern Ireland to Great Britain is not to be treated as an offence contravening the prohibition in Article 3 of the EC Regulation as it directly applies in Northern Ireland. This is provided that the fur or the products in question are “**qualifying Northern Ireland goods**” as defined in regulations made under section 8C(6) of the Act. This is in line with the principle of unfettered movement of goods within the United Kingdom as set out in Article 6(1) of the Protocol on Ireland/Northern Ireland to the EU withdrawal agreement. Nonetheless the placement on the market of these products remains prohibited throughout the United Kingdom.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 8C was inserted by section 21 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00002]: Footnote: OJ L 343, 27.12.2007, p.1-4.
+
+[^f00003]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
+
+[^f00004]: Footnote: [S.I. 2008/2795](https://www.legislation.gov.uk/uksi/2008/2795) as amended by [S.I. 2009/1056](https://www.legislation.gov.uk/uksi/2009/1056).
+
+[^f00005]: Footnote: OJ L 343, 27.12.2007, p.1-4.
+
+[^f00006]: Footnote: OJ L 343, 27.12.2007, p.1-4.
+
+[^f00007]: Footnote: Section 8C was inserted by section 21 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00008]: Footnote: OJ L 269, 10.10.2013, p1–101, as last amended by Regulation (EU) No 2019/632 of the European Parliament and of the Council of 17th April 2019.

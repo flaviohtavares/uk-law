@@ -1,0 +1,166 @@
+---
+title: The Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010
+id: uksi/2010/2132
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-08-25'
+text_date: '2016-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/2132
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/2132/pdfs/uksiem_20102132_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2132/pdfs/uksi_20102132_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2132/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010
+
+> Text as at 2016-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 2132
+
+Equality
+
+Pensions
+
+The Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010
+
+Made
+
+25th August 2010
+
+Laid before Parliament
+
+31st August 2010
+
+Coming into force
+
+1st October 2010
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 207(1) and 212(1) and paragraphs 4 and 5 of Part 2 of Schedule 7 to the Equality Act 2010[^f00001].
+
+## 1. Citation, commencement and interpretation[^key-c44fed4ceaa678d6acc78bcf78f6bbae]
+
+(1) These Regulations may be cited as the Equality Act 2010 (Sex Equality Rule) (Exceptions) Regulations 2010 and shall come into force on 1st October 2010.
+
+(2) In these Regulations—
+
+- “the Act” means the Equality Act 2010;
+- “the additional pension of a Category A retirement pension” has the same meaning as in Part II of the Contributions and Benefits Act;
+- “Category A retirement pension” has the same meaning as in Part II of the Contributions and Benefits Act;
+- “the Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992[^f00002];
+- “normal pension age” has the meaning given in section 180 of the Pensions Schemes Act 1993[^f00003];
+- “pensionable age” shall be construed in accordance with section 122(1) of the Contributions and Benefits Act[^f00004];
+- “pensionable service” includes any service in respect of which transfer credits have been allowed by the scheme;
+- “personal pension scheme” has the meaning given in section 1(1) of the Pension Schemes Act 1993[^f00005];
+- “salary-related contracted-out scheme” means an occupational pension scheme which is contracted-out by virtue of satisfying section 9(2) of the Pension Schemes Act 1993[^f00006] and includes a scheme which was formerly a salary-related contracted-out scheme which is subject to supervision in accordance with section 53 of that Act[^f00007];
+- “scheme” means an occupational pension scheme;
+- “transfer credits” has the meaning given in section 124(1) of the Pensions Act 1995[^f00008].
+
+## 2. Exceptions to the sex equality rule: bridging pensions[^key-bab81b285c43c9823dbb309e89e9dbaf]
+
+The following circumstances are prescribed for the purposes of paragraph 4 of Part 2 of Schedule 7 to the Act (State retirement pensions)—
+
+- (a) the man is in receipt of a pension from the scheme and has not attained pensionable age but would have attained pensionable age if he were a woman; and either[^key-31dc9de0ff50c0383a54d291e3503225]
+- (b) an additional amount of pension is paid to the man which does not exceed the amount of Category A retirement pension that would be payable to a woman with earnings the same as the man’s earnings in respect of his period of pensionable service under the scheme (assuming that the requirements for entitlement to Category A retirement pension were satisfied and a claim made); or[^key-4321b82abf26dc2d1552bedf98e9b33b]
+- (c) an additional amount of pension is paid to the man which does not exceed the amount of any state pension under Part 1 of the Pensions Act 2014 that would be payable to a woman with earnings the same as the man’s earnings in respect of his period of pensionable service under the scheme (assuming that the requirements for entitlement to a state pension under Part 1 of the Pensions Act 2014 were satisfied and a claim made).
+
+## 3. Exceptions to the sex equality rule: effect of indexation[^key-55afbc93f6d4f5374ce9256ff7cb5d70]
+
+(1) The following circumstances are prescribed for the purposes of paragraph 4 of Part 2 of Schedule 7 to the Act (state retirement pensions)—
+
+- (a) the scheme is a salary-related contracted-out scheme under which the annual rate of a pension payable to or in respect of a member is increased by more than it would have been increased had the recipient been of the other sex; and
+- (b) the amount by which the pension increase exceeds any increase that would have applied had the member been of the other sex, does not exceed the relevant amount.
+
+(2) In this regulation, the relevant amount means the amount by which X exceeds Y where—
+
+- X is the amount by which the additional pension of a Category A retirement pension attributable to the member’s earnings factors during the member’s period of pensionable service under the scheme would have been increased following an order made under section 150(9) of the Social Security Administration Act 1992[^f00009] if the member had been of the other sex; and
+- Y is the amount (if any) by which the member’s entitlement to the additional pension of a Category A retirement pension attributable to the member’s earnings factors during the member’s period of pensionable service under the scheme is increased following an order made under section 150(9) of that Act.
+
+## 4. Exceptions to the sex equality rule: use of actuarial factors which differ for men and women[^key-cfbb98a2d51b082b526442d0224cde71]
+
+(1) The factors prescribed for the purposes of paragraph 5(1) of Part 2 of Schedule 7 to the Act (actuarial factors) are actuarial factors which differ for men and women in respect of the differences in the average life expectancy of men and women and which are determined with a view to providing equal periodical pension benefits for men and women.
+
+(2) The following benefits are prescribed for the purposes of paragraph 5(2) of Part 2 of Schedule 7 to the Act—
+
+- (a) a lump sum payment which consists of a commuted periodical pension or part of such a pension;
+- (b) a periodical pension granted in exchange for a lump sum payment;
+- (c)[^key-1c4cfb2b5ff51841e049b8dec9a2080c] a pension which is derived from[^key-5ef3c7d6e9bf28725013863fbb2f2bfc] money purchase benefits within the meaning of section 181(1) of the Pension Schemes Act 1993[^f00010];
+- (ca)[^key-8413e3d75ca6579346c5966c51c58c3c] a pension which is derived from cash balance benefits within the meaning of regulation 2 of the Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014;
+- (d) transfer credits and any rights allowed to a member by reference to a transfer from a personal pension scheme;
+- (e) a transfer payment including a cash equivalent within the meaning of section 94 of the Pension Schemes Act 1993[^f00011];
+- (f) a periodical pension payable in respect of a member who opts to take such benefits before normal pension age or in respect of a member who defers taking such benefits until after normal pension age;
+- (g) benefits payable to another person in exchange for part of a member’s benefits and the part of the member’s benefits given up for that purpose.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Maria Miller
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+25th August 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations contain permitted exceptions to a sex equality rule provided for by sections 67-71 of the Equality Act 2010 (“the Equality Act”).
+
+Sections 67-71 of the Equality Act supersede an equal treatment rule provided for by sections 62-66 of the Pensions Act 1995, now repealed. Exceptions to that equal treatment rule were contained in regulations 13-15 of the Occupational Pension Schemes (Equal Treatment) Regulations 1995 ([S.I. 1995/3183](https://www.legislation.gov.uk/uksi/1995/3183)) (“the Equal Treatment Regulations”), now repealed. The exceptions contained in the Equal Treatment Regulations are replaced by the provisions in these Regulations.
+
+Regulation 3 concerns bridging pensions which are paid to men before they reach state pension age. Regulation 4 concerns indexation paid with a member’s pension equivalent to the payments to which a person of the opposite sex would be entitled as part of the State additional pension. Regulation 5 concerns the use of actuarial factors which differ for men and women in relation to the calculation of employers’ contributions in certain circumstances and the provision of certain benefits.
+
+An Impact Assessment has not been prepared for this instrument as it has no impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15). Section 212(1) is cited for the meaning it gives to “prescribed”.
+
+[^key-c44fed4ceaa678d6acc78bcf78f6bbae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/2132/regulation/1) in force at 1.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2132/regulation/1/1)
+
+[^f00002]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00003]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^f00004]: Footnote: The definition of “pensionable age” was substituted by section 126 and by paragraph 13(a) of Schedule 4 to the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^f00005]: Footnote: The definition of “personal pension scheme” was substituted by section 239(1) and (3) of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^f00006]: Footnote: Section 9(2) was substituted by sections 9(2)-(2A) as originally enacted by section 136(3) of the Pensions Act 1995.
+
+[^f00007]: Footnote: Section 53 was amended by paragraph 48 of Schedule 5 to the Pensions Act 1995, paragraph 52 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2) and paragraph 10 of Schedule 12 to the Pensions Act 2004.
+
+[^f00008]: Footnote: The definition of “transfer credits” was amended by paragraphs 69(1) and (2) of Schedule 12 to the Pensions Act 2004.
+
+[^key-bab81b285c43c9823dbb309e89e9dbaf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/2132/regulation/2) in force at 1.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2132/regulation/1/1)
+
+[^key-31dc9de0ff50c0383a54d291e3503225]: Textual amendment: Word in [reg. 2(a)](https://www.legislation.gov.uk/uksi/2010/2132/regulation/2/a) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [34(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/34/a)
+
+[^key-4321b82abf26dc2d1552bedf98e9b33b]: Textual amendment: [Reg. 2(c)](https://www.legislation.gov.uk/uksi/2010/2132/regulation/2/c) and word inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [34(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/34/b)
+
+[^key-55afbc93f6d4f5374ce9256ff7cb5d70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/2132/regulation/3) in force at 1.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2132/regulation/1/1)
+
+[^f00009]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). There are amendments to section 150 which are not relevant to these Regulations.
+
+[^key-cfbb98a2d51b082b526442d0224cde71]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2132/regulation/4) in force at 1.10.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2132/regulation/1/1)
+
+[^key-1c4cfb2b5ff51841e049b8dec9a2080c]: Modification: [Reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2010/2132/regulation/4/2/c) modified (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [74(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/74/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/74/2) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c. 19 - see S.I. 2014/1683, [art. 2](https://www.legislation.gov.uk/uksi/2014/1683/article/2/made)
+
+[^key-5ef3c7d6e9bf28725013863fbb2f2bfc]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2010/2132/regulation/4/2/c) inserted (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [75(a)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/75/a) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c. 19 - see S.I. 2014/1683, [art. 2](https://www.legislation.gov.uk/uksi/2014/1683/article/2/made)
+
+[^f00010]: Footnote: The definition of “money purchase benefits” was amended by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053).
+
+[^key-8413e3d75ca6579346c5966c51c58c3c]: Textual amendment: [Reg. 4(2)(ca)](https://www.legislation.gov.uk/uksi/2010/2132/regulation/4/2/ca) inserted (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [75(b)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/75/b) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c. 19 - see S.I. 2014/1683, [art. 2](https://www.legislation.gov.uk/uksi/2014/1683/article/2/made)
+
+[^f00011]: Footnote: Section 94 was amended by s154 of the Pensions Act 1995, Part 1 of Schedule 12 to the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and Schedule 12 to the Pensions Act 2004.

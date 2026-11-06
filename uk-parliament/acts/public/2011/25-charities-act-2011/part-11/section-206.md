@@ -1,0 +1,49 @@
+---
+title: Charities Act 2011, section 206
+act: Charities Act 2011
+section: '206'
+status: revised
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/25/section/206
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act 2011, section 206
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 206. Constitution
+
+*Extent: E+W*
+
+(1) A CIO's constitution must state—
+
+- (a) its name,
+- (b) its purposes,
+- (c) whether its principal office is in England or in Wales, and
+- (d) whether or not its members are liable to contribute to its assets if it is wound up, and (if they are) up to what amount.
+
+(2) A CIO's constitution must make provision—
+
+- (a) about who is eligible for membership, and how a person becomes a member,
+- (b) about the appointment of one or more persons who are to be charity trustees of the CIO, and about any conditions of eligibility for appointment, and
+- (c) containing directions about the application of property of the CIO on its dissolution.
+
+(3) A CIO's constitution must also provide for such other matters, and comply with such requirements, as are specified in CIO regulations.
+
+(4) A CIO's constitution—
+
+- (a) must be in English if its principal office is in England;
+- (b) may be in English or in Welsh if its principal office is in Wales.
+
+(5) A CIO's constitution must be in the form specified in regulations made by the Commission, or as near to that form as the circumstances admit.
+
+(6) Subject to anything in a CIO's constitution—
+
+- (a) a charity trustee of the CIO may, but need not, be a member of it,
+- (b) a member of the CIO may, but need not, be one of its charity trustees, and
+- (c) those who are members of the CIO and those who are its charity trustees may, but need not, be identical.

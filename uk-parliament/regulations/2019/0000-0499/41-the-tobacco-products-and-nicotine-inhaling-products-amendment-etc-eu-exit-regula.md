@@ -1,0 +1,886 @@
+---
+title: The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019
+id: uksi/2019/41
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-01-10'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/41
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/41/pdfs/uksiem_20190041_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/41/pdfs/uksi_20190041_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/41/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 41
+
+Exiting The European Union
+
+Consumer Protection
+
+Public Health
+
+The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019
+
+Made
+
+10th January 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 1 of Schedule 4 and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23503651].
+
+In accordance with paragraphs 1(1) and 12(1) of Schedule 7 to that Act, a draft of these Regulations has been laid before and approved by a resolution of each House of Parliament.
+
+In accordance with paragraph 3(1) of Schedule 4 to that Act, the Treasury has consented to the making of regulation 6(33).
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-24a56d239bdbb196a73825c24f77e24e]
+
+These Regulations may be cited as the Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
+
+## PART 2 — Amendment of primary legislation
+
+### 2. Amendment of the Tobacco Advertising and Promotion Act 2002[^key-2d9e906f08c89fa059189dea81fa890f]
+
+(1) The Tobacco Advertising and Promotion Act 2002 [^c23503661] is amended as follows.
+
+(2) Omit section 2(4) (prohibition of tobacco advertising in the EEA) [^c23503671].
+
+(3) In section 3A(1) (advertising: information society services) [^c23503681]—
+
+- (a) in paragraph (a), omit “or”;
+- (b) omit paragraph (b).
+
+(4) In section 4(1) (advertising: exclusions) [^c23503691]—
+
+- (a) in paragraph (c)—
+  - (i) for “in a country which is not an EEA State”, substitute “ outside the United Kingdom ”;
+  - (ii) for “one or more of the EEA States (or any part of them)”, substitute “ the United Kingdom (or any part of the United Kingdom) ”;
+- (b) in paragraph (d)—
+  - (i) for “an EEA State”, substitute “ the United Kingdom ”;
+  - (ii) for “one or more EEA States (or any part of them)”, substitute “ the United Kingdom (or any part of the United Kingdom) ”.
+
+(5) In section 5 (advertising: defences) [^c23503701]—
+
+- (a) in subsection (1), after “section 3A(1)(a)”, omit “or (b)”;
+- (b) omit subsection (3A);
+- (c) in subsection (5)(c), for “an EEA State”, substitute “ the United Kingdom ”;
+- (d) omit subsection (5A).
+
+(6) Omit section 7D(3) (displays on a website) [^c23503711].
+
+(7) Omit section 8(1A) (displays: Scotland) [^c23503721].
+
+(8) Omit section 9(1A) (prohibition of free distributions) [^c23503731].
+
+(9) Omit section 11(5) (brandsharing) [^c23503741].
+
+(10) In section 21(1) (interpretation), omit the definition of “EEA State”[^c23503751].
+
+## PART 3 — Amendment of subordinate legislation
+
+### 3. Amendment of the Tobacco Advertising and Promotion (Brandsharing) Regulations 2004[^key-af047fa75e91262e82b53eccafdb6da5]
+
+(1) The Tobacco Advertising and Promotion (Brandsharing) Regulations 2004 [^c23503761] are amended as follows.
+
+(2) In regulation 4, in both paragraph (3)(b) and (7)(b)—
+
+- (a) omit “or has subsequently become”;
+- (b) after “European Economic Area”, insert “ or which became part of the European Economic Area after that date but before exit day ”.
+
+### 4. Amendment of the Standardised Packaging of Tobacco Products Regulations 2015[^key-d7db1929721b5d341df3c46043661d4a]
+
+(1) The Standardised Packaging of Tobacco Products Regulations 2015 [^c23503771] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in paragraph (1), for the definition of “cross-border distance sale”, substitute—
+
+  > “**cross-border distance sale**”, in relation to a tobacco product, means a distance sale to a consumer where, at the time the consumer orders the product from a retailer, the consumer is located in the United Kingdom and the retailer is established in another country;
+
+  ;
+- (b) in paragraph (7), omit “where the consumer is located in the United Kingdom”.
+
+### 5. Amendment of the Nicotine Inhaling Products (Age of Sale and Proxy Purchasing) Regulations 2015[^key-b0f64e750c5c3d5d556979a87bfdc200]
+
+(1) The Nicotine Inhaling Products (Age of Sale and Proxy Purchasing) Regulations 2015 [^c23503781] are amended as follows.
+
+(2) In regulation 5(2)—
+
+- (a) in sub-paragraph (a), omit the words “or Article 11” to the end;
+- (b) omit sub-paragraph (b).
+
+### 6. Amendment of the Tobacco and Related Products Regulations 2016[^key-860cc47bb9c6e666ea31e67ae3525f75]
+
+(1) The[^key-672c668ed940ceb4af6c493fab650e0e] Tobacco and Related Products Regulations 2016 [^c23503791] are amended as follows.
+
+(1A)[^key-d5a26f821d2a843e0abf985d08482f21] After regulation 1, insert—
+
+> **1A. Extent**
+>
+> (1) Subject to the following paragraphs, these Regulations extend to England and Wales, Scotland and Northern Ireland.
+>
+> (2) The following provisions do not extend to Northern Ireland—
+>
+> - (a) regulation 5A;
+> - (b) regulation 7(5);
+> - (c) regulation 8(10);
+> - (d) regulation 9(12);
+> - (e) regulation 10(5);
+> - (f) regulation 13(3);
+> - (g) regulation 14(5) and (6);
+> - (h) regulation 15(3);
+> - (i) regulation 16(4);
+> - (j) regulation 16A;
+> - (k) regulation 20A(6) and (7);
+> - (l) regulation 36(11);
+> - (m) regulation 37(10);
+> - (n) Part 9A;
+> - (o) regulations 54ZA and 54ZB.
+>
+> (3) The following provisions extend only to Northern Ireland—
+>
+> - (a) regulation 41(3) to (5);
+> - (b) regulation 44;
+> - (d) regulation 47.
+>
+> (4) An amendment made by these Regulations has the same extent as the provision to which it relates
+
+.
+
+(2)[^key-66808bcac75e44ac843dabc1415b30c1] In regulation 2(1)—
+
+- (a) after the definition of “emissions”, insert—
+
+  > - “GB related product” means a related product which is produced for supply, or is supplied, for consumption in Great Britain or through the GB travel retail sector;
+  > - “GB tobacco product” means a tobacco product which is produced for supply, or is supplied, for consumption in Great Britain or through the GB travel retail sector;
+  > - “the GB travel retail sector” means retail outlets in Great Britain at which tobacco products or related products may be purchased only by people travelling on journeys to destinations outside Great Britain;
+
+  ;
+- (b) after the definition of “nasal tobacco”, insert—
+
+  > - “NI related product” means a related product which is produced for supply, or is supplied, for consumption in Northern Ireland or through the NI travel retail sector;
+  > - “NI tobacco product” means a tobacco product which is produced for supply, or is supplied, for consumption in Northern Ireland or through the NI travel retail sector;
+  > - “the NI travel retail sector” means retail outlets in Northern Ireland at which tobacco products or related products may be purchased only by people travelling on journeys to destinations outside Northern Ireland;
+
+  ;
+- (c) for the definition of “retailer” substitute—
+
+  > - “retailer” means a person who sells, or offers or agrees to sell, a tobacco product or related product to a consumer;
+
+  ;
+- (d) for the definition of “travel retail sector” substitute—
+
+  > - “travel retail sector” means—
+  >   - (a) the GB travel retail sector, or
+  >   - (b) the NI travel retail sector.
+
+  .
+
+(3)[^key-703c437f8f9eebaa7e61ecd7390c9d00] In regulation 3—
+
+- (a) in paragraph (1)—
+  - (i) in the words before sub-paragraph (a), for “the United” substitute “any part of the United”;
+  - (ii) in sub-paragraph (c), for “the United” substitute “any part of the United”;
+- (b) in paragraph (2)(a)(i) and (ii), for “the United” substitute “any part of the United”;
+- (c) for paragraph (3) substitute—
+
+  > (3) In the case of a cross-border distance sale of a product, the product is to be treated for the purposes of these Regulations—
+  >
+  > - (a) where the consumer is located in Great Britain, as supplied, and presented for retail sale in Great Britain;
+  > - (b) where the consumer is located in Northern Ireland, as supplied, and presented for retail sale in Northern Ireland.
+
+  ;
+- (d) for paragraph (4) substitute—
+
+  > (4) In these Regulations, “cross-border distance sale”—
+  >
+  > - (a) in relation to Great Britain, means a distance sale to a consumer (“C”) where, at the time C orders a product from a retailer, C is located in Great Britain and the retailer is established outside of Great Britain;
+  > - (b) in relation to Northern Ireland, means a distance sale to a consumer (“C”) where, at the time C orders a product from a retailer—
+  >   - (i) C is located in Northern Ireland or a member State, and
+  >   - (ii) the retailer—
+  >     - (aa) if C is located in Northern Ireland, is established in a member State or another country outside of Northern Ireland;
+  >     - (bb) if C is located in a member State, is established in Northern Ireland, in a different member State or in a country other than Northern Ireland or a member State.
+  >
+  > (5) For the purposes of paragraph (4)(b) a retailer is deemed to be established in a member State—
+  >
+  > - (a) in the case of a retailer who is a natural person, if that person’s place of business is in that member State, and
+  > - (b) in any other case, if the retailer has its statutory seat, central administration or place of business, including a branch, agency or any other establishment, in that member State.
+
+  .
+
+(4)[^key-3ae20f539509a5d3f3faad35011224f4] In regulation 5—
+
+- (a) for paragraph (3) substitute—
+
+  > (3) A combined health warning must consist of the relevant smoking cessation information and—
+  >
+  > - (a) for a unit pack or container pack of a tobacco product for smoking which is a GB tobacco product, one of the text warnings with the corresponding colour photograph, as listed in the picture library in Schedule A1, or
+  > - (b) for a unit pack or container pack of a tobacco product for smoking which is an NI tobacco product, one of the text warnings listed in Annex 1 to the Tobacco Products Directive together with a corresponding colour photograph, as specified in the picture library in Annex 2 to that Directive.
+  >
+  > (3A) For the purposes of paragraph (3), the relevant smoking cessation information is “Get help to stop smoking at www.nhs.uk/quit”.
+
+  .
+
+(5) After regulation 5, insert—
+
+> **5A. Revision of text warnings, photographs and technical specifications : GB tobacco products[^key-7cf1437a0f0680d4c25175dda5762934]**
+>
+> Regulations may—
+>
+> - (a) amend the text warnings or photographs listed in the picture library in Schedule A1, taking into account scientific and market developments;
+> - (b) modify for the purposes of these Regulations as they apply in relation to GB tobacco products[^key-010f609d51c0c8c977c54a32f207653d] the layout, design and proportions specified in the Combined Health Warnings Decision referred to in regulation 5, taking into account different packet shapes.
+
+.
+
+(6)[^key-884d294aa18bf77e1fc3890cee68749a] In regulation 6—
+
+- (a) before paragraph (1), insert—
+
+  > (A1) A producer of a tobacco product for smoking which is a GB tobacco product (other than an importer) must select the photograph used for the purposes of regulation 5(3)(a) so that each of the 13 photographs appears on between 1/24 to 1/12 of the total number of packs under each brand name produced by that producer within that production year.
+
+  ;
+- (b) in paragraph (1), in the words before sub-paragraph (a)—
+  - (i) after “smoking”, insert “which is an NI tobacco product”;
+  - (ii) for “5(3)(a)” substitute “5(3)(b)”;
+- (c) for paragraph (2) substitute—
+
+  > (2) An importer of a tobacco product for smoking must use the importer’s best endeavours to ensure—
+  >
+  > - (a) where the product is a GB tobacco product, that the obligation in paragraph (A1) is complied with;
+  > - (b) where the product is an NI tobacco product, that the obligations in paragraph (1) are complied with.
+
+  ;
+- (d) in paragraph (3)—
+  - (i) in the words before sub-paragraph (a), for “this regulation” substitute “paragraph (1)”;
+  - (ii) omit sub-paragraph (d);
+- (e) after paragraph (3), insert—
+
+  > (4) In this regulation “production year” means a period of 12 months beginning with 20th May and ending with 19th May.
+
+  .
+
+(7)[^key-01d6d3441d335fbbe84b0b8da7b11914] In regulation 7, after paragraph (4), insert—
+
+> (5) Regulations may amend the wording of the information message in paragraph (2)(b) to be carried by a unit pack or a container pack of a tobacco product for smoking which is a GB tobacco product, taking into account scientific and market developments.
+
+.
+
+(8) In regulation 8, after paragraph (9), insert—
+
+> (10) Regulations may amend paragraphs (5) to (8) as regards the precise position of the general warning and the information message on hand rolling tobacco marketed in pouches which is a GB tobacco product[^key-2070390137aa4e9bd0e86ffac4c830cc], taking into account the different shapes of pouches.
+
+.
+
+(9)[^key-709f53f4426e98485df06986aeef99bb] In regulation 9, after paragraph (11), insert—
+
+> (12) Regulations may amend this regulation as it applies in relation to the production or supply of GB tobacco products, by omitting from paragraph (1) reference to one or more of the products listed in that paragraph if there is a substantial change of circumstances for the product concerned.
+
+.
+
+(10) In regulation 10, after paragraph (4), insert—
+
+> (5) Regulations may amend the wording of the health warning in paragraph (2) to be carried by a unit pack or container pack of a smokeless tobacco product which is a GB tobacco product[^key-974e58a4cdeff31d36aec19f1fe9f13f], taking into account scientific developments.
+
+.
+
+(11)[^key-6e51204f5db690e92635c4da358292e1] In regulation 13, for paragraph (2), substitute—
+
+> (2) For the purposes of this regulation and regulation 14 as they apply in Great Britain, a person (“P”) manufactures a product for export if, in the course of a business, other than with a view to the product being supplied for consumption in Great Britain or through the GB travel retail sector, P—
+>
+> - (a) manufactures the product, or
+> - (b) puts a name, trade mark, or other distinguishing mark on the product by which P is held out to be its manufacturer or its originator.
+>
+> Such a product is referred to in this regulation and regulation 14 as a “product for GB export”.
+>
+> (3) For the purposes of this regulation and regulation 14 as they apply in Northern Ireland, a person (“P”) manufactures a product for export if, in the course of a business, other than with a view to the product being supplied for consumption in Northern Ireland or through the NI travel retail sector, P—
+>
+> - (a) manufactures the product, or
+> - (b) puts a name, trade mark, or other distinguishing mark on the product by which P is held out to be its manufacturer or its originator.
+>
+> (4) Regulations may decrease the maximum emission levels specified in paragraph (1) in relation to—
+>
+> - (a) cigarettes which are GB tobacco products, or
+> - (b) cigarettes which are products for GB export,
+>
+> where this is necessary, based on internationally agreed standards.
+
+.
+
+(12) In regulation 14, after paragraph (4), insert—
+
+> (5) Regulations may modify the methods of measurement of tar, nicotine and carbon monoxide emissions from cigarettes which are GB tobacco products or products for GB export[^key-4a7669cd7d6622f2dedf8e03c5148c31], where this is necessary, based on scientific and technical developments or internationally agreed standards.
+>
+> (6) Any regulations made under paragraph (5) must integrate standards agreed by the parties to the WHO Framework Convention on Tobacco Control [^c23503801] or by the World Health Organization for measurement methods.
+
+.
+
+(13) In regulation 15, after paragraph (2), insert—
+
+> (3) Regulations may—
+>
+> - (a) specify whether a GB tobacco[^key-64f8f3c2a87254f8719fa2918020b258] product has a characterising flavour;
+> - (b) set , in relation to GB tobacco products,[^key-7838ce1a0f2bbd1468250ba40fee1404] maximum content levels for additives or a combination of additives that result in a characterising flavour.
+
+.
+
+(14) In regulation 16, after paragraph (3), insert—
+
+> (4) Regulations may , in relation to GB tobacco products[^key-e73ff7c23c7047600651c76c225f80cd]—
+>
+> - (a) specify whether a tobacco product contains additives in quantities that increase the toxic or addictive effect, or the CMR properties of that tobacco product at the stage of consumption to a significant or measureable degree;
+> - (b) where an additive or a certain quantity thereof has been shown to increase the toxic or addictive effect of a tobacco product, set maximum content levels for that additive.
+
+.
+
+(15) After regulation 16, insert—
+
+> **16A. Regulations: procedures for determining characterising flavour : GB tobacco products[^key-baa643ca25c4bdd4cc01525b63565d7b]**
+>
+> (1) Regulations may establish procedures for determining whether a GB tobacco[^key-81dd30e19fd00d1bbeaec0e9f775ac47] product—
+>
+> - (a) has a characterising flavour; or
+> - (b) contains additives in quantities that increase the toxic or addictive effect, or the CMR properties, of that tobacco product at the stage of consumption to a significant or measureable degree.
+>
+> (2) Regulations made under paragraph (1) may—
+>
+> - (a) provide for any determination to be made by—
+>   - (i) the Secretary of State; or
+>   - (ii) a person authorised by the Secretary of State for that purpose;
+> - (b) establish, and provide for the operating procedures of, an independent advisory panel;
+> - (c) be varied from time to time, including to take account of scientific and market developments in relation to tobacco products;
+> - (d) make different provision for different cases or descriptions of case, different circumstances, different purposes or different areas;
+> - (e) be revoked.
+>
+> (3) Before making regulations under this regulation the Secretary of State must consult such persons (or representatives of such persons) as appear to the Secretary of State to be likely to be substantially affected by them.
+
+.
+
+(15A)[^key-af6bb018f60f1d5f55f065e4cff920bf] In regulation 19—
+
+- (a) in paragraph (c), after “of Chemicals”, insert “or, in relation to an NI tobacco product, that Regulation as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement”;
+- (b) in paragraph (d), after “and mixtures”, insert “or, in relation to an NI tobacco product, that Regulation as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement”.
+
+(16)[^key-0f7c6a21c8774ed3a79c190cd934ade2] In regulation 20A—
+
+- (a) in paragraph (1)(b), for “and to” substitute “and, where the product is an NI tobacco product, to”;
+- (b) in paragraph (2)(c), for the words from “European Commission” to the end substitute “appropriate authority may request”;
+- (c) in paragraph (4), for “Secretary of State or the European Commission” substitute “appropriate authority”;
+- (d) in paragraph (5)—
+  - (i) in sub-paragraph (a), after “enterprises” insert, “but, for the purposes of this regulation as it applies in Great Britain, with the modifications in paragraph (7)”;
+  - (ii) in sub-paragraph (b), for “Secretary of State or the European Commission” substitute “appropriate authority”;
+- (e) after paragraph (5) insert—
+
+  > (6) Regulations may amend the list of additives in Schedule 2 as it applies in Great Britain, which list must contain additives—
+  >
+  > - (a) for which initial indications, research, or regulation in jurisdictions outside Great Britain exist suggesting that they have one of the properties set out in regulation 20B(1)(a) to (d); and
+  > - (b) which are amongst the most commonly used additives by weight or number according to the reporting of ingredients pursuant to regulation 18.
+  >
+  > (7) For the purposes of this regulation as it applies in Great Britain, the Annex to Commission Recommendation 2003/361/EC concerning the definition of micro, small and medium-sized enterprises is to be read as if—
+  >
+  > - (a) in Article 2—
+  >   - (i) in paragraph 1, for “EUR 50 million, and/or an annual balance sheet total not exceeding EUR 43 million” there were substituted “£44,000,000, and/or an annual balance sheet not exceeding £38,000,000”;
+  >   - (ii) in paragraph 2, for “EUR 10 million” there were substituted “£8,800,000”;
+  >   - (iii) in paragraph 3, for “EUR 2 million” there were substituted “£1,750,000”;
+  > - (b) in Article 3—
+  >   - (i) in paragraph (2)(a), for “EUR 1 250 000” there were substituted “£1,100,000”;
+  >   - (ii) in paragraph (2)(d), for “EUR 10 million” there were substituted “£8,800,000”;
+  >   - (iii) in paragraph 5, for “by national or Community rules” there were substituted “under the law of Great Britain (or any part of it)”;
+  > - (c) in Article 5, in paragraph (b), for “national law” there were substituted “the law of Great Britain (or any part of it)”.
+  >
+  > (8) In this regulation “appropriate authority”—
+  >
+  > - (a) where the product is a GB tobacco product, means the Secretary of State;
+  > - (b) where the product is an NI tobacco product, means—
+  >   - (i) the Secretary of State, or
+  >   - (ii) the European Commission.
+
+  .
+
+(16A)[^key-1f5051067a6a37186aff2ad044d8410b] In regulation 21—
+
+- (a) in paragraph (1)(a), for “the United” substitute “the relevant part of the United”;
+- (b) after paragraph (6), insert—
+
+  > (7) In this regulation “the relevant part of the United Kingdom”—
+  >
+  > - (a) in relation to a tobacco product which is a GB tobacco product, means Great Britain;
+  > - (b) in relation to a tobacco product which is an NI tobacco product, means Northern Ireland.
+
+  .
+
+(17)[^key-6e02ea398666a08d710b1c1673226cef] In regulation 25—
+
+- (a) after paragraph (1), insert—
+
+  > (1A) Information which relates to a GB tobacco product must be submitted—
+  >
+  > - (a) in electronic form, and
+  > - (b) having regard to such technical requirements and procedures as may be specified in guidance issued by the Secretary of State.
+
+  ;
+- (b) in paragraph (2), in the words before sub-paragraph (a), after “Information” insert “which relates to an NI tobacco product”.
+
+(18)[^key-cfa05159cb6eb48ab607642abb5608c5] In regulation 26, for paragraph (b) (but not the “and” at the end) substitute—
+
+> - (b) provide the European Commission and the competent authorities of the member States with access to information submitted about any NI tobacco product in accordance with regulation 18, 20A or 21, ensuring that trade secrets and other confidential information are treated in a confidential manner;
+
+.
+
+(19)[^key-4d373465fe5cae55c1ae06db063d81b9] In regulation 31(3), for sub-paragraph (a) substitute—
+
+> - (a) the name and contact details of—
+>   - (i) where the product is, or is to be, supplied for consumption in Great Britain or through the GB travel retail sector—
+>     - (aa) the person who manufactures the product,
+>     - (bb) the importer of the product (if applicable), and
+>     - (cc) if neither is based in Great Britain, a responsible person in Great Britain;
+>   - (ii) where the product is, or is to be, supplied for consumption in Northern Ireland or the NI travel retail sector—
+>     - (aa) the person who manufactures the product,
+>     - (bb) the importer of the product (if applicable), and
+>     - (cc) if neither is based in Northern Ireland or a member State, a responsible person in Northern Ireland or a member State;
+
+.
+
+(19A)[^key-bd2a1aab2683551b543dfaaeb5080030] In regulation 32—
+
+- (a) in paragraph (1)(a), (b) and (c), for “the United” substitute “the relevant part of the United”;
+- (b) after paragraph (5), insert—
+
+  > (6) In this regulation “the relevant part of the United Kingdom”—
+  >
+  > - (a) in relation to an electronic cigarette which is a GB related product, means Great Britain;
+  > - (b) in relation to an electronic cigarette which is an NI related product, means Northern Ireland.
+
+  .
+
+(20)[^key-9b0b09327e06c636c37958714daf09fc] In regulation 33—
+
+- (a) after paragraph (1), insert—
+
+  > (1A) Information which relates to a GB related product must be submitted—
+  >
+  > - (a) in electronic form, and
+  > - (b) having regard to such technical requirements and procedures as may be specified in guidance issued by the Secretary of State.
+
+  ;
+- (b) in paragraph (2), in the words before sub-paragraph (a), after “Information” insert “which relates to an NI related product”.
+
+(21)[^key-d1438180f8ad6edcab860716818df8f2] In regulation 34, in paragraph (b)—
+
+- (a) for “other member” substitute “the member”;
+- (b) after “information” insert “in relation to any NI related product”.
+
+(22) In regulation 36, after paragraph (10), insert—
+
+> (11) Regulations may amend the technical standards in paragraph (10) for the refill mechanism required by paragraph (8) as they apply in relation to GB related products[^key-673c7baae2e50ae7abd2e98f2587f8ee].
+
+.
+
+(23) In regulation 37—
+
+- (a)[^key-cb37e85c0a677c2ffe60ada6c4be9943] in paragraph (2), for sub-paragraph (g) substitute—
+
+  > - (g) where the electronic cigarette or refill container is an NI related product and the producer is not based in Northern Ireland or in a member State, a contact person in Northern Ireland or within a member State.
+
+  ;
+- (b) after paragraph (9), insert—
+
+  > (10) Regulations may amend the wording of the health warning in paragraph (4) as it applies to unit packets and container packs of GB related products[^key-ee7c442b55e365f512af6c015334eccc] taking into account scientific developments, provided that any such amended warning is factual.
+
+  .
+
+(24)[^key-575a13860c58d165bd9d9cdeaae13cad] In regulation 39—
+
+- (a) in paragraph (4), for “the competent authority of any other” substitute “, where the product is an NI related product, the competent authority of each”;
+- (b) in paragraph (5), for “the competent authority of any other” substitute “, where the product is an NI related product, the competent authority of any”.
+
+(25)[^key-1eef479e6a30882937574ea3ffe318ca] In regulation 40, in paragraph (4), at the start insert “Where the matter relates to an NI related product,”
+
+(26)[^key-05c6e06ac80e6554874cc5f548ff7f23] In regulation 41, in paragraph (2)—
+
+- (a) for the definition of “the Union market” substitute—
+
+  > - “the Union market” means the market of—
+  >   - (a) one or more member States,
+  >   - (b) Northern Ireland, or
+  >   - (c) Northern Ireland and one or more member States;
+
+  ;
+- (b) for the definition of “third country” substitute—
+
+  > - “third country” means a country other than—
+  >   - (a) Northern Ireland, or
+  >   - (b) a member State.
+
+  .
+
+(27)[^key-c35a25e2424a05dd5c289fe567464afd] In regulation 42—
+
+- (a) in paragraph (3)(b), for “the Union market” substitute “the relevant market”;
+- (b) after paragraph (3), insert—
+
+  > (4) In this regulation “the relevant market”—
+  >
+  > - (a) in relation to Great Britain, means the market in Great Britain;
+  > - (b) in relation to Northern Ireland, means the Union Market.
+
+  .
+
+(28)[^key-54564dbf0ebb3c5efbbb7a70990be3ac] In regulation 43—
+
+- (a) in paragraph (2)—
+  - (i) for “the United Kingdom”, in the first place it occurs, substitute “Northern Ireland;
+  - (ii) omit the words from “other than” to the end;
+- (b) in paragraph (3)—
+  - (i) after “instituted” insert “in Northern Ireland”;
+  - (ii) for “a non-UK-EEA-State” substitute “an EEA State”;
+- (c) in paragraph (5)—
+  - (i) in the words before sub-paragraph (a), for “Paragraphs (1) and (2)” substitute “Paragraph (1) does or, as the case may be, paragraphs (1) and (2)”;
+  - (ii) in sub-paragraph (b), for “for the Union market” substitute—
+
+    > —
+    >
+    > - (i) where the recipient of the service is in Great Britain, for the market in Great Britain;
+    > - (ii) where the recipient of the service is in Northern Ireland, for the Union market.
+
+    .
+
+(29)[^key-21ce375d1c22219ebab095ec61ee45ef] In regulation 44—
+
+- (a) in the heading, after “etc” insert “: Northern Ireland”;
+- (b) in paragraph (1)—
+  - (i) in the words before sub-paragraph (a), after “person”, insert “in Northern Ireland”;
+  - (ii) for sub-paragraph (a), substitute—
+
+    > - (a) a cross-border event or activity;
+
+    ;
+- (c) after paragraph (1), insert—
+
+  > (1A) In this regulation “cross-border event or activity” means an event or activity which takes place in or has an effect in—
+  >
+  > - (a) Northern Ireland and one or more member States, or
+  > - (b) two or more member States.
+
+  .
+
+(30)[^key-7af5120ab949394ebcf30db4f4f2426e] In regulation 47—
+
+- (a) in the heading, after “etc” insert “: in and from Northern Ireland”;
+- (b) in paragraph (1)—
+  - (i) in sub-paragraph (a)—
+    - (aa) for “the United Kingdom” substitute “Northern Ireland”;
+    - (bb) for “any other” substitute “a”;
+  - (ii) in sub-paragraph (b), for “the United Kingdom”, in both places it occurs, substitute “Northern Ireland”;
+- (c) in paragraph (4)(b), for “any other” substitute “any”.
+
+(31)[^key-4430f8643a0031451c46d0f6a66414b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(32)[^key-5ea2bb7dff9ed177f3e5e99a437fef89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(33) After regulation 53, insert—
+
+> **PART 9A — FEES : Great Britain[^key-968bb86b8b7346eedd64770dded1b688]**
+>
+> **53A. Fees for determining characterising flavour, toxicity, addictiveness or CMR properties : Great Britain[^key-09c9bef9421451930cd442598596075e]**
+>
+> (1) Regulations may make provision for the charging of fees in connection with the exercise of functions relating to the determination of characterising flavour, toxicity, addictiveness or CMR properties of tobacco products for the purposes of these Regulations as they apply in Great Britain and in relation to GB tobacco products[^key-a41af9f692911819f44fca9b0ec3abbb].
+>
+> (2) Regulations made under paragraph (1) may make such provision in relation to fees as may be made by the appropriate authority under paragraph 1(3)(a) or (b) of Schedule 4 to the European Union (Withdrawal) Act 2018 in relation to those functions.
+
+.
+
+(34) Before regulation 54, insert—
+
+> **54ZA. Regulations : Great Britain[^key-0e2eeaa6334cac55ddc5949975a64d62]**
+>
+> (1) Any power to make regulations under these Regulations—
+>
+> - (a) is exercisable by the Secretary of State (and in the case of regulations made under regulation 53A, with the consent of the Treasury) by statutory instrument; and
+> - (b) includes power to make—
+>   - (i) different provision for different cases or descriptions of case, different circumstances, different purposes or different areas;
+>   - (ii) consequential, supplementary, incidental, transitional or transitory provision or savings.
+>
+> (2) A statutory instrument containing regulations made under—
+>
+> - (a) regulation 53A may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament;
+> - (b) any other provision of these Regulations is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **54ZB. Regulations: duty to consult**
+>
+> Where the Secretary of State proposes to make regulations under these Regulations which will apply in Wales or Scotland[^key-29582169639e6b2f94cac81bb904ea9c], the Secretary of State must consult—
+>
+> - (a) the Welsh Ministers, in respect of any proposed application in Wales; and[^key-686efa7c714dc17ea1e18fd7769b8582]
+> - (b) the Scottish Ministers, in respect of any proposed application in Scotland; [^key-6017891cf342881ff043c95791f067c7]...
+> - (c)[^key-cfeee189256ef7ef1415c3e04ba3a4a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> before making such regulations.
+
+.
+
+(35) Before Schedule 1, insert—
+
+> **SCHEDULE A1 — Picture Library (of combined health warnings)**
+>
+> Regulation 5(3)(a)
+>
+> <table>
+> <tfoot>
+> <tr><td colspan="3"><sup>1</sup> Corresponding photographs in numbers 1 to 10 and 13 © Commonwealth of Australia. Corresponding photographs in numbers 11 and 12 © Professor Laurence J Walsh, The University of Queensland.</td></tr>
+> </tfoot>
+> <tbody>
+> <tr><th><em>Number</em></th><th><em>Text Warning</em></th><th><em>Corresponding Photograph<sup>1</sup></em></th></tr>
+> <tr><td>1</td><td>Smoking clogs your arteries</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_001">image: see source</a></td></tr>
+> <tr><td>2</td><td>Don't let children breathe your smoke</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_002">image: see source</a></td></tr>
+> <tr><td>3</td><td>Smoking causes blindness</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_003">image: see source</a></td></tr>
+> <tr><td>4</td><td>Smoking causes lung cancer</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_004">image: see source</a></td></tr>
+> <tr><td>5</td><td>Smoking doubles your risk of stroke</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_005">image: see source</a></td></tr>
+> <tr><td>6</td><td>Tobacco smoke is toxic</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_006">image: see source</a></td></tr>
+> <tr><td>7</td><td>Smoking harms unborn babies</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_007">image: see source</a></td></tr>
+> <tr><td>8</td><td>Smoking causes peripheral vascular disease</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_008">image: see source</a></td></tr>
+> <tr><td>9</td><td>Smoking causes emphysema</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_009">image: see source</a></td></tr>
+> <tr><td>10</td><td>Quitting will improve your health</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_010">image: see source</a></td></tr>
+> <tr><td>11</td><td>Smoking damages your gums and teeth</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_011">image: see source</a></td></tr>
+> <tr><td>12</td><td>Smoking damages your gums and teeth</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_012">image: see source</a></td></tr>
+> <tr><td>13</td><td>Smoking causes throat cancer</td><td><a href="https://www.legislation.gov.uk/uksi/2019/41/images/uksi_20190041_en_sld_013">image: see source</a></td></tr>
+> </tbody>
+> </table>
+
+.
+
+## PART 4 — Amendment and revocation of retained direct EU legislation
+
+### 7. Amendment of Commission Implementing Decision 2015/1842[^key-e4713573340ff1d83f4288b33044e51a]
+
+(1) [^key-002ae3caa46f2c7b46b4a294e0dc406a]... Commission Implementing Decision (EU) 2015/1842 of 9 October 2015 on the technical specifications for the layout, design and shape of the combined health warnings for tobacco products for smoking is amended as follows.
+
+(1A)[^key-2a0c20d2e4cc799b87205918f7471434] In Article 3(2), omit the second subparagraph.
+
+(2) In Article 3(5)(g)—
+
+- (a) for “Annex I to Directive 2014/40/EU”, substitute “ Schedule A1 to the Tobacco and Related Products Regulations 2016 ”; and
+- (b) omit “, but excluding the numbering”.
+
+(3) Omit Article 5.
+
+### 8. Revocation of Commission Implementing Regulation and Decisions[^key-1e8ded6dc85a763e72cf17ee29e421e5]
+
+The following Regulation and Decisions are revoked—
+
+- (a) Commission Implementing Regulation (EU) 2016/779 of 18 May 2016 laying down uniform rules as regards the procedures for determining whether a tobacco product has a characterising flavour;
+- (b) Commission Implementing Decision (EU) 2015/2183 of 24 November 2015 establishing a common format for the notification of electronic cigarettes and refill containers;
+- (c) Commission Implementing Decision (EU) 2015/2186 of 25 November 2015 establishing a format for the submission and making available of information on tobacco products;
+- (d) Commission Implementing Decision (EU) 2016/786 of 18 May 2016 laying down the procedure for the establishment and operation of an independent advisory panel assisting Member States and the Commission in determining whether tobacco products have a characterising flavour.
+
+## PART 5 — Transitional arrangements
+
+### 9. Transitional provision[^key-f48c4040effc80f0e3db47ac7140f4de][^key-06183b0755e7748c5d6a53083e3725dd]
+
+(1) The picture warning requirements continue to apply to the supply in Great Britain or through the GB travel retail sector, on or after IP completion day, of a tobacco product for smoking to which paragraph (2) applies as if those requirements had not been amended by regulations 6 and 7 of these Regulations.
+
+(2) This paragraph applies to a tobacco product for smoking if it was produced, and first supplied in the United Kingdom, before IP completion day.
+
+(3) For the purposes of paragraph (2), “produce” and “supply” have the meanings given in regulation 3 of the 2016 Regulations, as it had effect immediately before IP completion day.
+
+(4) In this regulation—
+
+- “the 2016 Regulations” means the Tobacco and Related Products Regulations 2016;
+- “GB travel retail sector” means retail outlets in Great Britain at which tobacco products or related products may be purchased only by people travelling on journeys to destinations outside of Great Britain;
+- “the picture warning requirements” means—
+  - (a) regulations 5 and 6 of the 2016 Regulations, and
+  - (b) Commission Implementing Decision (EU) 2015/1842 of 9 October 2015;
+- “tobacco product for smoking” has the meaning given in regulation 2(1) of the 2016 Regulations.
+
+Signed by authority of the Secretary of State for Health and Social Care.
+
+Steve Brine
+
+Parliamentary Under-Secretary of State,
+
+Department of Health and Social Care
+
+We consent
+
+Jeremy Quin
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under paragraphs (a) to (d), (f) and (g) of section 8(2) of that Act) arising from the withdrawal of the UK from the European Union.
+
+These Regulations make amendments to legislation in the field of tobacco products and nicotine inhaling products and, in particular, amend legislation relating to advertising and promotion, packaging, and toxicity and flavouring of such products. Part 2 amends primary legislation, Part 3 amends subordinate legislation, Part 4 amends and revokes retained EU legislation and Part 5 makes transitional arrangements in respect of the supply of existing tobacco products.
+
+The net costs imposed on business, the voluntary sector and the public sector by these Regulations have been assessed as being less than £5m in any year and therefore a full impact assessment has not been prepared.
+
+## Annotations
+
+[^c23503651]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-24a56d239bdbb196a73825c24f77e24e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-2d9e906f08c89fa059189dea81fa890f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23503661]: Marginal citation: [2002 c. 36](https://www.legislation.gov.uk/ukpga/2002/36).
+
+[^c23503671]: Marginal citation: Section 2(4) was substituted by [S.I. 2006/2369](https://www.legislation.gov.uk/uksi/2006/2369).
+
+[^c23503681]: Marginal citation: Section 3A was inserted by [S.I. 2006/2369](https://www.legislation.gov.uk/uksi/2006/2369).
+
+[^c23503691]: Marginal citation: Section 4(1) was amended by [S.I. 2006/2369](https://www.legislation.gov.uk/uksi/2006/2369).
+
+[^c23503701]: Marginal citation: Section 5 was amended by [S.I. 2006/2369](https://www.legislation.gov.uk/uksi/2006/2369).
+
+[^c23503711]: Marginal citation: Section 7D was inserted by section 21 of the [Health Act 2009 (c.21)](https://www.legislation.gov.uk/ukpga/2009/21).
+
+[^c23503721]: Marginal citation: Subsection (1A) was inserted by paragraph 4(3) of Schedule 4 to the Health Act 2009.
+
+[^c23503731]: Marginal citation: Subsection (1A) was inserted by paragraph 5(2) of Schedule 4 to the Health Act 2009.
+
+[^c23503741]: Marginal citation: Subsection (5) was substituted by paragraph 6(3) of Schedule 4 to the Health Act 2009.
+
+[^c23503751]: Marginal citation: The definition of “EEA State” was inserted by [S.I. 2006/2369](https://www.legislation.gov.uk/uksi/2006/2369).
+
+[^key-af047fa75e91262e82b53eccafdb6da5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23503761]: Marginal citation: [S.I. 2004/1824](https://www.legislation.gov.uk/uksi/2004/1824).
+
+[^key-d7db1929721b5d341df3c46043661d4a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23503771]: Marginal citation: [S.I. 2015/829](https://www.legislation.gov.uk/uksi/2015/829).
+
+[^key-b0f64e750c5c3d5d556979a87bfdc200]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23503781]: Marginal citation: [S.I. 2015/895](https://www.legislation.gov.uk/uksi/2015/895).
+
+[^key-860cc47bb9c6e666ea31e67ae3525f75]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-672c668ed940ceb4af6c493fab650e0e]: Textual amendment: Word in reg. 6(1) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/2)
+
+[^c23503791]: Marginal citation: [S.I. 2016/507](https://www.legislation.gov.uk/uksi/2016/507).
+
+[^key-d5a26f821d2a843e0abf985d08482f21]: Textual amendment: Reg. 6(1A) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/3)
+
+[^key-66808bcac75e44ac843dabc1415b30c1]: Textual amendment: Reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/4)
+
+[^key-703c437f8f9eebaa7e61ecd7390c9d00]: Textual amendment: Reg. 6(3) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/5)
+
+[^key-3ae20f539509a5d3f3faad35011224f4]: Textual amendment: Reg. 6(4) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/6)
+
+[^key-7cf1437a0f0680d4c25175dda5762934]: Textual amendment: Words in reg. 6(5) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(7)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/7/a)
+
+[^key-010f609d51c0c8c977c54a32f207653d]: Textual amendment: Words in reg. 6(5) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(7)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/7/b)
+
+[^key-884d294aa18bf77e1fc3890cee68749a]: Textual amendment: Reg. 6(6) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/8)
+
+[^key-01d6d3441d335fbbe84b0b8da7b11914]: Textual amendment: Reg. 6(7) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(9)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/9)
+
+[^key-2070390137aa4e9bd0e86ffac4c830cc]: Textual amendment: Words in reg. 6(8) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(10)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/10)
+
+[^key-709f53f4426e98485df06986aeef99bb]: Textual amendment: Reg. 6(9) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(11)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/11)
+
+[^key-974e58a4cdeff31d36aec19f1fe9f13f]: Textual amendment: Words in reg. 6(10) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(12)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/12)
+
+[^key-6e51204f5db690e92635c4da358292e1]: Textual amendment: Reg. 6(11) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(13)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/13)
+
+[^key-4a7669cd7d6622f2dedf8e03c5148c31]: Textual amendment: Words in reg. 6(12) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(14)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/14)
+
+[^c23503801]: Marginal citation: Treaty Series No. 13 (2005); Cm 6514.
+
+[^key-64f8f3c2a87254f8719fa2918020b258]: Textual amendment: Words in reg. 6(13) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(15)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/15/a)
+
+[^key-7838ce1a0f2bbd1468250ba40fee1404]: Textual amendment: Words in reg. 6(13) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(15)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/15/b)
+
+[^key-e73ff7c23c7047600651c76c225f80cd]: Textual amendment: Words in reg. 6(14) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(16)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/16)
+
+[^key-baa643ca25c4bdd4cc01525b63565d7b]: Textual amendment: Words in reg. 6(15) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(17)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/17/a)
+
+[^key-81dd30e19fd00d1bbeaec0e9f775ac47]: Textual amendment: Words in reg. 6(15) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(17)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/17/b)
+
+[^key-af6bb018f60f1d5f55f065e4cff920bf]: Textual amendment: Reg. 6(15A) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(18)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/18)
+
+[^key-0f7c6a21c8774ed3a79c190cd934ade2]: Textual amendment: Reg. 6(16) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(19)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/19)
+
+[^key-1f5051067a6a37186aff2ad044d8410b]: Textual amendment: Reg. 6(16A) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(20)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/20)
+
+[^key-6e02ea398666a08d710b1c1673226cef]: Textual amendment: Reg. 6(17) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(21)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/21)
+
+[^key-cfa05159cb6eb48ab607642abb5608c5]: Textual amendment: Reg. 6(18) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(22)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/22)
+
+[^key-4d373465fe5cae55c1ae06db063d81b9]: Textual amendment: Reg. 6(19) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(23)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/23)
+
+[^key-bd2a1aab2683551b543dfaaeb5080030]: Textual amendment: Reg. 6(19A) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(24)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/24)
+
+[^key-9b0b09327e06c636c37958714daf09fc]: Textual amendment: Reg. 6(20) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(25)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/25)
+
+[^key-d1438180f8ad6edcab860716818df8f2]: Textual amendment: Reg. 6(21) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(26)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/26)
+
+[^key-673c7baae2e50ae7abd2e98f2587f8ee]: Textual amendment: Words in reg. 6(22) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(27)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/27)
+
+[^key-cb37e85c0a677c2ffe60ada6c4be9943]: Textual amendment: Reg. 6(23)(a) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(28)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/28/a)
+
+[^key-ee7c442b55e365f512af6c015334eccc]: Textual amendment: Words in reg. 6(23)(b) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(28)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/28/b)
+
+[^key-575a13860c58d165bd9d9cdeaae13cad]: Textual amendment: Reg. 6(24) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(29)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/29)
+
+[^key-1eef479e6a30882937574ea3ffe318ca]: Textual amendment: Reg. 6(25) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(30)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/30)
+
+[^key-05c6e06ac80e6554874cc5f548ff7f23]: Textual amendment: Reg. 6(26) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(31)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/31)
+
+[^key-c35a25e2424a05dd5c289fe567464afd]: Textual amendment: Reg. 6(27) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(32)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/32)
+
+[^key-54564dbf0ebb3c5efbbb7a70990be3ac]: Textual amendment: Reg. 6(28) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(33)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/33)
+
+[^key-21ce375d1c22219ebab095ec61ee45ef]: Textual amendment: Reg. 6(29) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(34)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/34)
+
+[^key-7af5120ab949394ebcf30db4f4f2426e]: Textual amendment: Reg. 6(30) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(35)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/35)
+
+[^key-4430f8643a0031451c46d0f6a66414b1]: Textual amendment: Reg. 6(31) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(36)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/36)
+
+[^key-5ea2bb7dff9ed177f3e5e99a437fef89]: Textual amendment: Reg. 6(32) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(36)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/36)
+
+[^key-968bb86b8b7346eedd64770dded1b688]: Textual amendment: Words in reg. 6(33) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(37)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/37/a)
+
+[^key-09c9bef9421451930cd442598596075e]: Textual amendment: Words in reg. 6(33) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(37)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/37/b)
+
+[^key-a41af9f692911819f44fca9b0ec3abbb]: Textual amendment: Words in reg. 6(33) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(37)(c)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/37/c)
+
+[^key-0e2eeaa6334cac55ddc5949975a64d62]: Textual amendment: Words in reg. 6(34) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(38)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/38/a)
+
+[^key-29582169639e6b2f94cac81bb904ea9c]: Textual amendment: Words in reg. 6(34) substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(38)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/38/b/i)
+
+[^key-686efa7c714dc17ea1e18fd7769b8582]: Textual amendment: Word in reg. 6(34) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(38)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/38/b/ii)
+
+[^key-6017891cf342881ff043c95791f067c7]: Textual amendment: Word in reg. 6(34) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(38)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/38/b/iii)
+
+[^key-cfeee189256ef7ef1415c3e04ba3a4a3]: Textual amendment: Words in reg. 6(34) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [3(38)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/3/38/b/iv)
+
+[^key-e4713573340ff1d83f4288b33044e51a]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-002ae3caa46f2c7b46b4a294e0dc406a]: Textual amendment: Words in reg. 7(1) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/4/a)
+
+[^key-2a0c20d2e4cc799b87205918f7471434]: Textual amendment: Reg. 7(1A) inserted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/4/b)
+
+[^key-1e8ded6dc85a763e72cf17ee29e421e5]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-f48c4040effc80f0e3db47ac7140f4de]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-06183b0755e7748c5d6a53083e3725dd]: Textual amendment: Reg. 9 substituted (31.12.2020 immediately before IP completion day) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2020/1316/regulation/5)

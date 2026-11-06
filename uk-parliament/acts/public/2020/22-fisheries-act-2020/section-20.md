@@ -1,0 +1,44 @@
+---
+title: Fisheries Act 2020, section 20
+act: Fisheries Act 2020
+section: '20'
+status: revised
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/22/section/20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Fisheries Act 2020, section 20
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 20. Offences by bodies corporate etc
+
+*Extent: E+W+S+N.I.*
+
+(1) Where a relevant offence is committed by a body corporate and is proved—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to the neglect of any such person,
+
+that person (as well as the body corporate) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) In subsection (1) “**officer**” means—
+
+- (a) a director, manager, secretary or similar officer of the body corporate, or
+- (b) a person purporting to act in such a capacity.
+
+(3) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and omissions of a member in connection with that management as if the member were a director of the body corporate.
+
+(4) Where a relevant offence is committed by a Scottish partnership and is proved—
+
+- (a) to have been committed with the consent or connivance of a partner or a person purporting to act as a partner, or
+- (b) to be attributable to any neglect on the part of any such person,
+
+that person (as well as the partnership) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) In this section “**relevant offence**” means an offence under section 12(3), 14(6) or 16(6) or paragraph 1(4) or 3(2) or (3) of Schedule 3.

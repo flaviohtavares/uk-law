@@ -1,0 +1,208 @@
+---
+title: The Scallop Fishing (England) Order 2012
+id: uksi/2012/2283
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-09-05'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/2283
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2283/pdfs/uksiem_20122283_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2283/pdfs/uksi_20122283_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2283/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scallop Fishing (England) Order 2012
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 2283
+
+Sea Fisheries, England
+
+Conservation Of Sea Fish
+
+The Scallop Fishing (England) Order 2012
+
+Made
+
+5th September 2012
+
+Laid before Parliament
+
+7th September 2012
+
+Coming into force
+
+1st October 2012
+
+The Secretary of State, in exercise of the powers conferred by section 1(3) of the Sea Fish (Conservation) Act 1967 [^c21366271] and the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with the sea fishing industry in Northern Ireland, in exercise of powers conferred by sections 3(1) [^c21366281], (4) and 20(1) of that Act, and now vested in them [^c21366291], make the following Order.
+
+## 1. Citation, commencement and application
+
+(1) This Order may be cited as the Scallop Fishing (England) Order 2012 and comes into force on 1st October 2012.
+
+(2) This Order applies in England and within British fishery limits.
+
+(3) But British fishery limits do not include—
+
+- (a) the Northern Ireland zone (within the meaning of section 98(1) of the Northern Ireland Act 1998 [^c21366301]);
+- (b) the Scottish zone (within the meaning of section 126(1) & (2) of the Scotland Act 1998 [^c21366311]);
+- (c) the Welsh zone (within the meaning of section 158(1) of the Government of Wales Act 2006 [^c21366321]); or
+- (d) the territorial sea adjacent to the Isle of Man, Jersey or Guernsey.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “**baselines**” has the same meaning as in the Territorial Sea Act 1987 [^c21366331];
+- [^key-1a7e9c07af3616f56e575f9c2128100d]...
+- “**scallop**” means a shellfish of the species *Pecten maximus*;
+- “**scallop dredge**” means any appliance with a rigid framed mouth which is towed through the water and is manufactured, adapted, used or intended for use for the purpose of fishing for scallops.
+
+(2) For the purposes of this Order, a reference to a specified “ICES division”[^c21366351] is a reference to a statistical division of the International Council for the Exploration of the Sea set out in the Schedule.
+
+## 3. Specification of scallop dredges
+
+(1) No fishing boat[^key-9baf75da6050b78fb359ac4b12957a19] may carry or tow a scallop dredge within British fishery limits unless the dredge conforms to the following specifications.
+
+(2) It must—
+
+- (a) include a functioning, operational and moveable spring-loaded tooth bar and belly bar;
+- (b) not have any part of its frame that exceeds 85 centimetres in width;
+- (c) not contain any attachments;
+- (d) not contain a diving plate or any other similar device;
+- (e) not exceed 150 kilograms in weight including all fittings;
+- (f) not contain more than 1 row of belly rings hanging from either side of the dredge perpendicular to the rings which hang from the belly bar.
+
+(3) If the dredge measures 80 centimetres or more in width, it must not have—
+
+- (a) more than 8 rows of belly rings hanging from the belly bar;
+- (b) more than—
+  - (i) 9 teeth on the tooth bar, if—
+    - (aa) the fishing boat in question is outside the relevant area; or
+    - (bb) each tooth measures 12 millimetres or less; or
+  - (ii) 8 teeth on the tooth bar, if—
+    - (aa) the fishing boat in question is inside the relevant area; and
+    - (bb) any tooth measures more than 12 millimetres.
+
+(4) If the dredge measures less than 80 centimetres in width, it must not have—
+
+- (a) more than 6 rows of belly rings hanging from the belly bar; or
+- (b) more than 6 teeth on the tooth bar.
+
+(5) Each tooth on the tooth bar must measure no more than—
+
+- (a) 22 millimetres if the dredge measures 80 centimetres or more in width; or
+- (b) 12 millimetres if the dredge measures less than 80 centimetres in width.
+
+(6) For the purposes of this article—
+
+- (a) the size of the tooth on a tooth bar is its maximum width measured in the direction of the line of the tooth bar; and
+- (b) belly rings and the fastenings that attach the belly rings to each other and to the frame are not attachments.
+
+(7) In this article—
+
+- “**attachment**” means anything that is fitted to the scallop dredge (other than something that is used solely to aid the lifting and emptying of the dredge and which in no way obstructs the belly rings or any netting);
+- “**belly bar**” means the bar attached to the frame of a scallop dredge which runs parallel to the tooth bar and from which most of the belly rings ultimately hang;
+- “**row of belly rings**” means a line of single interconnecting rings, where the ring at one end of the line hangs either from the belly bar or from the main structure of the dredge perpendicular to the belly bar;
+- “**the relevant area**” means that part of ICES division VIIa which is north of the line 52 30′N but outside the Scottish zone, and all of ICES division VIId;
+- “**tooth bar**” means the bar to which are attached teeth, the ends of which point downwards and are dragged along the sea bed when the dredge is towed.
+
+## 4. Restrictions on number of scallop dredges
+
+No fishing boat[^key-35bc7137afdf0744a4838db2b2f05122] may tow at any one time more than 8 scallop dredges from each side of the boat when in waters adjacent to England out to a line drawn 12 nautical miles from baselines.
+
+## 5. Carriage of undersized scallops
+
+(1) For the purposes of section 1(3) of the Sea Fish (Conservation) Act 1967, scallops measuring less than 110 millimetres may not be carried by a fishing boat[^key-30dd5cd10fce839ac8cb0f14b9fd112c] that has fished in both ICES division VIId and ICES division VIIe during a single fishing trip.
+
+(2) In this article, “**single fishing trip**” means the time from when a fishing boat departs from a port to the time when it returns to a port.
+
+(3) For the purposes of this article, the size of a scallop is measurable in accordance with paragraph 6 of Annex 4 to Regulation (EU) 2019/1241 of the European Parliament and of the Council on the conservation of fisheries resources and the protection of marine ecosystems through technical measures[^key-fb5224bc3f8850c38a139ad89bcf1d72].
+
+## 6. Revocation
+
+The Scallop Fishing Order 2004 [^c21366371] is revoked.
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+Owen Paterson
+
+Secretary of State for Northern Ireland
+
+Northern Ireland Office
+
+## SCHEDULE — Divisions of the International Council for the Exploration of the Sea
+
+Article 2(2)
+
+### ICES division VIIa (Irish Sea)
+
+The waters bounded by a line beginning at a point on the west coast of Scotland at 55 00′ north latitude then due west to the coast of Northern Ireland; then in a southerly direction along the coasts of Northern Ireland and Ireland to a point on the south-east coast of Ireland at 52 00′ north latitude; then due east to the coast of Wales; then in a north-easterly and northerly direction along the coasts of Wales, England and Scotland to the point of the beginning.
+
+### ICES division VIId (Eastern Channel)
+
+The waters bounded by a line beginning at a point on the west coast of France at 51 00′ north latitude; then due west to the coast of England; then in a westerly direction along the south coast of England to 2 00′ west longitude; then south to the coast of France at Cap de la Hague; then in a north-easterly direction along the coast of France to the point of the beginning.
+
+### ICES division VIIe (Western Channel)
+
+The waters bounded by a line beginning at a point on the south coast of England at 2 00′ west; then in a southerly and westerly direction along the coast of England to a point on the south-west coast at 50 00′ north; then due west to 7 00′ west; then due south to 49 30′ north; then due east to 5 00′ west; then due south to 48 00′ north; then due east to the coast of France; then in a northerly and north-easterly direction along the coast of France to Cap de la Hague; then due north to the point of the beginning.
+
+*(This note is not part of the Order)*
+
+This Order specifies the size and dimension of scallop dredges allowed to be carried and used by British fishing boats (article 3) and restricts the number of scallop dredges that can be towed at any one time by British fishing boats in waters adjacent to England out to a line drawn 12 nautical miles from baselines (article 4).
+
+The Order fixes the minimum size of scallop which may be carried by British fishing boats in certain areas and the method to be used to measure scallops (article 5).
+
+Offences for breach of this Order are contained in sections 1(8) and 3(5) of the Sea Fish (Conservation) Act 1967 (c. 84) (“**the Act**”). Penalties, which are in section 11 of the Act, include a fine not exceeding £50,000 on summary conviction and a fine on conviction on indictment. The court may impose an additional fine not exceeding the value of fish caught in contravention of the Act or caught with fishing gear that contravened the Act. The court may also order the forfeiture of that fish or fishing gear.
+
+For the purposes of enforcing this Order, a British sea-fishery officer has the powers conferred by section 15 of the Act and by Part 8 of the Marine and Coastal Access Act 2009 (c. 23).
+
+The provisions contained in article 3 of this Order were notified in draft to the European Commission in accordance with the requirements of Article 8 of Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (OJ No L 204, 21.7.1998, p.37), as last amended by Council Directive [2006/96/EC](https://www.legislation.gov.uk/european/directive/2006/0096) (OJ No L 363, 20.12.2006, p.81).
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available on the Defra website at www.defra.gov.uk and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c21366271]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84) (“**the 1967 Act**”); [section 1(3)](https://www.legislation.gov.uk/uksi/2012/2283/section/1/3) was substituted by the Marine and Coastal Access Act 2009 (c.230, section 194.
+
+[^c21366281]: Marginal citation: [Section 3(1)](https://www.legislation.gov.uk/uksi/2012/2283/section/3/1) was amended by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^c21366291]: Marginal citation: The functions of the Ministers under section 3(1) and (4) of the 1967 Act in relation to Wales were transferred to the National Assembly for Wales and then transferred from that body to Welsh Ministers: see [article 2(a)](https://www.legislation.gov.uk/uksi/2012/2283/article/2/a) of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I 1999/672) and paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). Insofar as those functions were exercisable in relation to the Welsh zone, they have been transferred to Welsh Ministers by article 4(1)(b) of the [Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760). The functions under section 3 exercisable in relation to Scottish fishing boats within British fishery limits but outside the Scottish zone remain exercisable by the Ministers despite being transferred to the Scottish Ministers under section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46): see [article 3(1)](https://www.legislation.gov.uk/ukpga/1998/46/article/3/1) of, and Schedule 1 to, the [Scotland Act 1998 (Concurrent Functions) Order 1999 (S.I. 1999/1592)](https://www.legislation.gov.uk/uksi/1999/1592). Any remaining functions of the Secretaries of State concerned with the sea fishing industry in Scotland and Wales under section 3(1) and (4) were transferred to the Minister of Agriculture, Fisheries and Food: see [article 2(1)](https://www.legislation.gov.uk/uksi/1999/1592/article/2/1) of, and the Schedule to, the [Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. 2000/1812)](https://www.legislation.gov.uk/uksi/2000/1812). Functions under section 3(1) and (4) exercisable in relation to making orders requiring nets and other fishing gear carried in Northern Ireland fishing boats to comply with prescribed requirements remains exercisable by the Ministers despite being transferred to the Department of Agriculture and Rural Development under article 3(1) of, and paragraph 3(1)(b) of Schedule 1 to, the [Sea Fisheries (Northern Ireland) Order 2002 (S.I. 2002/790)](https://www.legislation.gov.uk/uksi/2002/790): see [paragraph 3(2)](https://www.legislation.gov.uk/uksi/2002/790/paragraph/3/2) of Schedule 1 to that Order. The functions of the Minister of Agriculture, Fisheries and Food and the Secretary of State concerned with the sea fishing industry in Northern Ireland acting jointly under section 3(1) and (4) have been transferred to the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with the sea fishing industry in Northern Ireland acting jointly: see [article 2(5)](https://www.legislation.gov.uk/uksi/2002/790/article/2/5) of the [Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^c21366301]: Marginal citation: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
+
+[^c21366311]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c21366321]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); [s.158(1)](https://www.legislation.gov.uk/uksi/2012/2283/section/158/1) was amended by the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s.43(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/43/2). The Welsh zone is specified in [S. I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760).
+
+[^c21366331]: Marginal citation: [1987 c.49](https://www.legislation.gov.uk/ukpga/1987/49).
+
+[^key-1a7e9c07af3616f56e575f9c2128100d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2283/article/2/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^c21366351]: Marginal citation: The International Council for the Exploration of the Sea (ICES), set up under intergovernmental agreement (the ICES Convention), coordinates and promotes marine research on oceanography, the marine environment, the marine ecosystem, and on living marine resources in the North Atlantic.
+
+[^key-9baf75da6050b78fb359ac4b12957a19]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/2283/article/3/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-35bc7137afdf0744a4838db2b2f05122]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/2283/article/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/3/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-30dd5cd10fce839ac8cb0f14b9fd112c]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2012/2283/article/5/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(3)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/3/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-fb5224bc3f8850c38a139ad89bcf1d72]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2012/2283/article/5/3) substituted (21.10.2019) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1284)](https://www.legislation.gov.uk/uksi/2019/1284), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1284/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1284/regulation/2)
+
+[^c21366371]: Marginal citation: [S.I. 2004/12](https://www.legislation.gov.uk/uksi/2004/12).

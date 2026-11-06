@@ -1,0 +1,492 @@
+---
+title: The Occupational Pension Schemes (Modification of Schemes) Regulations 2006
+id: uksi/2006/759
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-03-14'
+text_date: '2026-07-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2006/759
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/759/pdfs/uksiem_20060759_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/759/pdfs/uksi_20060759_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/759/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Modification of Schemes) Regulations 2006
+
+> Text as at 2026-07-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2006 No. 759
+
+PENSIONS
+
+The Occupational Pension Schemes (Modification of Schemes) Regulations 2006
+
+Made
+
+14th March 2006
+
+Laid before Parliament
+
+16th March 2006
+
+Coming into force
+
+regulations 6 and 7
+
+30th March 2006
+
+remainder
+
+6th April 2006
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 67(1)(b) and (3)(b), 67C(7)(a)(ii), 67D(4) and (5), 68(2)(e) and (6), 124(1) and 174(2) and (3) of the Pensions Act 1995 [^c1545055].
+
+The Secretary of State considered consultation inexpedient because of urgency in the case of regulations 6 to 8 [^c1545056].
+
+The remainder of the Regulations are consequential upon section 262 of the Pensions Act 2004 [^c1545057] and are made before the end of the period of six months beginning with the coming into force of that provision [^c1545058].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Modification of Schemes) Regulations 2006.
+
+(2) Regulations 6 and 7 shall come into force on 30th March 2006 and all other regulations shall come into force on 6th April 2006.
+
+(3) In these Regulations—
+
+- “**the 1993 Act**” means the Pension Schemes Act 1993 [^c1545059];
+- “**the 1995 Act**” means the Pensions Act 1995;
+- “**the 2004 Act**” means the Finance Act 2004 [^c1545060];
+- “the 2015 Act” means the Pension Schemes Act 2015;[^key-c9566a0008a73056af5c4ed51e1808c7]
+- “**the 2006 Regulations**” means the Registered Pension Schemes (Modification of the Rules of Existing Schemes) Regulations 2006 [^c1545061];
+- “[^key-5456917934be0e02dbdc6c282100e562]**actuarial valuation**” in relation to a collective money purchase scheme, has the meaning given by section 20(2) of the Pension Schemes Act 2021;
+- [^key-78966e8bed9137a7c16dda9768525ec1]...
+- [^key-a4e98627a37d2c8173192fff1eb89bc6]...
+- “collective money purchase scheme” means a scheme or a section of a scheme that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021[^key-aae884090f8eb48b0e361efbc0d1220b];
+- “[^key-57d145fd5d0854710d6abdd97e12bb84]**multi-annual reduction**” has the meaning given by—
+  - (a) in relation to a single or connected employer scheme, regulation 2(1) of the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022;
+  - (b) in relation to an unconnected multiple employer scheme, regulation 26(1) of the Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025;
+- “**public service pension scheme**” has the same meaning as in section 1 of the 1993 Act [^c1545063] (categories of pension schemes);
+- “**registered pension scheme**” means a scheme which is a registered pension scheme for the purposes of Part 4 of the 2004 Act (pension schemes etc.);
+- “**scheme**” means an occupational pension scheme;
+- “**the scheme administrator**” has the same meaning as in section 270 of the 2004 Act (meaning of scheme administrator);
+- “[^key-34033694a218fd4adb66c09f7219aa03]**single or connected employer scheme**” has the meaning given by section 1(3) of the Pension Schemes Act 2021;
+- “**the transitional period**” has the same meaning as in regulation 1(2) of the 2006 Regulations;
+- “**unauthorised member payment**” has the same meaning as in section 160(2) of the 2004 Act (payments by registered pension schemes).
+- “[^key-2921ccc47a8bffa5fe4c02729d3d7fa2]**unconnected multiple employer scheme**” has the meaning given by section 1(3) of the Pension Schemes Act 2021
+
+## 2. Schemes exempted from the subsisting rights provisions
+
+For the purposes of section 67(1)(b) of the 1995 Act (the subsisting rights provisions), a scheme of a prescribed description is—
+
+- (a) a scheme with fewer than two members; or
+- (b) a scheme which is not a registered pension scheme.
+
+## 3. Non-application of the subsisting rights provisions
+
+For the purposes of section 67(3)(b) of the 1995 Act, the prescribed manner of the exercise of any modification power in relation to a scheme to which the subsisting rights provisions do not apply, is any modification of a scheme—
+
+- (a) which provides for any or all of a member's or survivor's subsisting rights to—
+  - (i) be assigned;
+  - (ii) be commuted;
+  - (iii) be surrendered;
+  - (iv) be charged;
+  - (v) have a lien exercised in respect of them; or
+  - (vi) have a set-off exercised in respect of them,
+
+  provided that a modification in such a manner is not prohibited under section 91 of the 1995 Act [^c1545064](inalienability of occupational pension), any other enactment or other rule of law;
+- (b) which provides for any or all of a member's or survivor's subsisting rights to be forfeited provided that a modification in such a manner is not prohibited under section 92 of the 1995 Act [^c1545065] (forfeiture), any other enactment or other rule of law;
+- (c) to provide for the revaluation of an earner's earnings factors in accordance with section 16(1) or (2) of the 1993 Act (guaranteed minimum pensions: revaluation of earnings factors for purposes of section 14: early leavers etc.);
+- (d)[^key-40740ec601d0dd118a4052d3b942d783] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) which provides for the transfer of a member's or survivor's subsisting rights—
+  - (i) with his consent; or
+  - (ii) without his consent in accordance with the conditions specified in regulation11B or[^key-9a98500e815fe1cf82af4886c461aaf3] 12 of the Occupational Pension Schemes (Preservation of Benefit) Regulations 1991 [^c1545066] (short service benefit: transfer of member’s accrued rights to an occupational or personal pension scheme or a European pensions institution without consent[^key-a69fb39bb15ca0218589578af1a9dde4]);
+- (f) which ensures that any payment made by the scheme, relating to rights which accrued on or after 6th April 2006, is not an unauthorised member payment;
+- (g) which ensures that the scheme administrator can pay—
+  - (i) any short service refund lump sum charge or special lump sum death benefits charge under sections 205 and 206 of the 2004 Act (short service refund lump sum charge and special lump sum death benefits charge) for which it is liable;
+  - (ii) any lifetime allowance charge for which, under section 217 of the 2004 Act (persons liable to charge), it is jointly and severally liable with the individual (to whom the charge relates);
+- (ga)[^key-943f3a44dcad9267085cb92ee148e79c] which provides for the option specified in regulation 8B(3)(b) (conversion of flexible benefits for the purpose of payment of drawdown pension etc ) to be made available under the scheme to any person referred to in sub-paragraph (a) or (b) of paragraph (2) of that regulation;
+- (h) which has the same effect as any or all of the modifications in regulations 3 to 8 of the 2006 Regulations (modification of rules of existing schemes), but without limitation to the transitional period; ... *(Extent: S)* *(affected by repeal, see note)*[^key-81192541ecbccd670b5ac0859524d479] *(Extent: E+W)* *(affected by repeal, see note)*[^key-8e364d00fe3fa57e5e34b9852fc9bc5e]
+- (i) which provides in relation to all or part of a member's subsisting rights that after his death—
+  - (i) a surviving civil partner is treated in the same way as a widow or widower *(Extent: S)* *(affected by repeal, see note)*[^key-476f518127eb51b4a6309d026541e7fa] *(Extent: E+W)* *(affected by repeal, see note)*[^key-e21761cb96b4dea87b849e438d135d17]woman whose deceased spouse was a man, or a man whose deceased spouse was a woman *(Extent: S)* *(Extent: S)* *(affected by repeal, see note)*[^key-476f518127eb51b4a6309d026541e7fa] *(Extent: E+W)* *(affected by repeal, see note)*[^key-e21761cb96b4dea87b849e438d135d17]woman whose deceased spouse was a man, or a man whose deceased spouse was a woman *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-e21761cb96b4dea87b849e438d135d17], and
+  - (ii) the rights of any other survivor of the member are determined as if the surviving civil partner were a widow or widower *(Extent: S)* *(affected by repeal, see note)*[^key-476f518127eb51b4a6309d026541e7fa] *(Extent: E+W)* *(affected by repeal, see note)*[^key-e21761cb96b4dea87b849e438d135d17]woman whose deceased spouse was a man, or a man whose deceased spouse was a woman *(Extent: S)* *(Extent: S)* *(affected by repeal, see note)*[^key-476f518127eb51b4a6309d026541e7fa] *(Extent: E+W)* *(affected by repeal, see note)*[^key-e21761cb96b4dea87b849e438d135d17]woman whose deceased spouse was a man, or a man whose deceased spouse was a woman *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-e21761cb96b4dea87b849e438d135d17] ;[^key-2c827c336cf873c493942495a2e886b9]
+- (j (Extent: S) (Extent: E+W))[^key-f826688ee84420702ecbc05497b85a01][^key-d1558a0227d86d40d4a3a5fdb1f0ca27] which provides in relation to all or part of a member’s subsisting rights that after the member’s death— *(Extent: S)* *(Extent: E+W)*
+  - (i (Extent: S) (Extent: E+W)) a surviving same sex spouse is treated in the same way as a woman whose deceased spouse was a man, or a man whose deceased spouse was a woman; and *(Extent: S)* *(Extent: E+W)*
+  - (ii (Extent: S) (Extent: E+W)) the rights of any other survivor of the member are determined as if the surviving same sex spouse were a woman whose deceased spouse was a man, or a man whose deceased spouse was a woman *(Extent: S)* *(Extent: E+W)*[^key-58bb5fd39034996a5e06ebcd39f55c9f]... *(Extent: S)* *(Extent: E+W)*
+- (k)[^key-9fee7e604d57ec186bb50e7225ba9224] which is or results in an adjustment of the rate or amount of benefits provided under a collective money purchase scheme, provided that such adjustment is made in accordance with—
+  - (i) the most recent actuarial valuation or (as the case may be) any multi-annual reduction in effect; and
+  - (ii) the scheme rules; [^key-9e6328c2f5193f62ca9d80bd7a97a5c7]...
+- (l) which is made in respect of a single or connected employer scheme[^key-6a21c54984f3ba39624f2155687566c5] that is pursuing continuity option 1 in accordance with—
+  - (i) Schedule 6 to the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022; or
+  - (ii) scheme rules made in accordance with the requirements of that Schedule ; or[^key-f7d8511ceada0ad7bb8452cc7fded05c]
+- (m)[^key-cb4541283113971e17ef4d38ee354137] which is made in respect of an unconnected multiple employer scheme that is pursuing continuity option 1 in accordance with—
+  - (i) Schedule 6 to the Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025; or
+  - (ii) scheme rules made in accordance with the requirements of that Schedule.
+
+## 4. Qualifications or experience required for a person providing an actuarial equivalence statement
+
+For the purposes of section 67C(7)(a)(ii) of the 1995 Act (the actuarial equivalence requirements), a person with the prescribed qualifications or experience is a Fellow of the Institute and Faculty of Actuaries.[^key-6168f5e1e53840d77773bcadc3f24f5d]
+
+## 5. Calculation of the actuarial value of affected member's subsisting rights
+
+(1) The prescribed requirements with which any calculation of the actuarial value of an affected member's subsisting rights must conform, for the purposes of the actuarial value requirement in section 67C(5) of the 1995 Act, are those specified in paragraph (2).
+
+(2) The actuary—
+
+- (a) shall calculate the value of the subsisting rights of an affected member by adopting methods and making assumptions which—
+  - (i) have been notified to the trustees of the scheme;
+  - (ii) are consistent with methods and assumptions used by the trustees as at the date of the modification to calculate a cash equivalent transfer value in accordance with regulations 7 to 7C and 7E(1) to (3) as appropriate[^key-f7b2d7e7b2b46fb1b6c8f5dd671dd43c] of the Occupational Pension Schemes (Transfer Values) Regulations 1996 [^c1545069] (manner of calculation and verification of cash equivalents); and
+  - (iii) exclude any provisions relating to a reduction in the value of an affected member's cash equivalent transfer value due to the funding position of the scheme;
+- (b)[^key-12bd4f6fc5fa7ccd062ebb1424d53b16] shall ensure that the calculation of the actuarial value of an affected member’s subsisting rights is made in accordance with any actuarial standards that are[^key-bc49ab6317fa15837ec7b0d313d5ad5c] adopted or prepared, and from time to time revised, by the Board for Actuarial Standards which is current on the date that the actuarial equivalence statement is obtained by the trustees;
+- (c) shall exclude from the subsisting rights calculation—
+  - (i) the value of any subsisting rights that have been surrendered, commuted or forfeited before the date on which the modification of the scheme takes effect;
+  - (ii) the value of any amounts paid, or due to be paid, in respect of any pension or other benefit in payment to an affected member in respect of a period prior to the date on which the modification takes effect;
+  - (iii) the value of discretionary benefits that have not been awarded to an affected member or are not in payment on the date on which the modification takes effect;
+  - (iv) any subsisting rights which consist wholly or partly of rights to money purchase benefits where—
+    - (aa) those benefits are not valued in a manner which involves making estimates of the value of the rights, and
+    - (bb) the modification has no effect on the value of those rights.
+
+## 6. Modification of schemes: Finance Act 2004
+
+(1) The trustees of a trust scheme may by resolution passed before 6th April 2011 modify the scheme for the purposes of—
+
+- (a) achieving the same effect as all of the modifications in regulations 3 to 8 of the 2006 Regulations, but without limitation as to the transitional period; and
+- (b) amending the scheme rules so that the 2006 Regulations no longer apply in relation to the scheme with effect from the date on which the modifications referred to in sub-paragraph (a) take effect.
+
+(2) Modifications made by resolution under paragraph (1) may have effect from a date before the date the resolution is passed but not before 6th April 2006.
+
+(3) Modifications made under paragraph (1) shall have effect from any date on or after 6th April 2006.
+
+(4) Without prejudice to section 67 of the 1995 Act, modifications made by resolution under paragraph (1)(a) may be modified by exercise of any power conferred on any person by a scheme to modify the scheme.
+
+## 6A. Modification of Schemes: the Registered Pension Schemes (Modification of the Rules of Existing Schemes) Regulations 2009[^key-fc200853a073c57b789ba2db2524fc3a]
+
+(1) Paragraph (2) applies where any power to amend the rules of an existing trust scheme, as those rules stood immediately before 6 <sup>th</sup> April 2006, is subject to the agreement, consent, approval of, or confirmation of continued approval of the scheme by—
+
+- (a) the Inland Revenue, the Board of Inland Revenue, the Commissioners of Inland Revenue, or any officer of any of them (whether referred to as such or by reference to another title), or
+- (b) Her Majesty’s Revenue and Customs, the Commissioners for Her Majesty’s Revenue and Customs or an officer of Revenue and Customs.
+
+(2) Where this paragraph applies, the trustees of a trust scheme may by resolution modify the power of amendment mentioned in paragraph (1) so as to remove that requirement for agreement, consent, approval, or confirmation of continued approval.
+
+(3) Paragraph (4) applies where (apart from this regulation) the trustees of an existing trust scheme do not have power to make such alterations to the scheme as may be required to remove any requirement in the scheme rules, as they stood immediately before 6 <sup>th</sup> April 2006, for the agreement, consent, approval of or confirmation of continued approval of the scheme by any of the bodies or persons mentioned in sub-paragraphs (1)(a) and (b).
+
+(4) Where this paragraph applies, the trustees of a trust scheme may by resolution amend the rules of the scheme so as to remove that requirement for agreement, consent, approval or confirmation of continued approval.
+
+## 7. Modification of schemes: surviving civil partners
+
+(1) Subject to paragraph (2), the trustees of a trust scheme may by resolution modify the scheme in relation to all or part of a member's subsisting rights so that after his death—
+
+- (a) a surviving civil partner is treated in the same way as a widow or widower *(Extent: S)* *(affected by repeal, see note)*[^key-4bdedea9b4b64d87145624675891d451] *(Extent: E+W)* *(affected by repeal, see note)*[^key-debc5624597dbac0c2c8e104bd8db10c]woman whose deceased spouse was a man, or a man whose deceased spouse was a woman *(Extent: S)* *(Extent: S)* *(affected by repeal, see note)*[^key-4bdedea9b4b64d87145624675891d451] *(Extent: E+W)* *(affected by repeal, see note)*[^key-debc5624597dbac0c2c8e104bd8db10c]woman whose deceased spouse was a man, or a man whose deceased spouse was a woman *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-debc5624597dbac0c2c8e104bd8db10c], and
+- (b) the rights of any other survivor are determined as if the surviving civil partner were a widow or widower *(Extent: S)* *(affected by repeal, see note)*[^key-4bdedea9b4b64d87145624675891d451] *(Extent: E+W)* *(affected by repeal, see note)*[^key-debc5624597dbac0c2c8e104bd8db10c]woman whose deceased spouse was a man, or a man whose deceased spouse was a woman *(Extent: S)* *(Extent: S)* *(affected by repeal, see note)*[^key-4bdedea9b4b64d87145624675891d451] *(Extent: E+W)* *(affected by repeal, see note)*[^key-debc5624597dbac0c2c8e104bd8db10c]woman whose deceased spouse was a man, or a man whose deceased spouse was a woman *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-debc5624597dbac0c2c8e104bd8db10c].
+
+(2) A modification under paragraph (1) which confers rights on surviving civil partners which are in excess of what is required to comply with the relevant requirements of the Civil Partnership Act 2004 [^c1545070] shall not be made unless—
+
+- (a) the employer in relation to the scheme consents; or
+- (b) in the case of a scheme where there is more than one employer—
+  - (i) a person nominated by the employers, or otherwise in accordance with the scheme rules, to act as the employers' representative (the “**nominee**”) consents; or
+  - (ii) where there is no such nominee, all of the employers in relation to the scheme consent other than any employer who has waived his right to give such consent.
+
+## 7ZA (Extent: E+W). Modification of schemes: surviving same sex spouses (Extent: E+W)[^key-57d163f081da022a6f0b67cd18ffe857]
+
+(1 (Extent: E+W)) Subject to paragraph (2), the trustees of a trust scheme may by resolution modify the scheme in relation to all or part of a member’s subsisting rights so that after the member’s death— *(Extent: E+W)*
+
+- (a (Extent: E+W)) a surviving same sex spouse is treated in the same way as a woman whose deceased spouse was a man, or a man whose deceased spouse was a woman, and *(Extent: E+W)*
+- (b (Extent: E+W)) the rights of any other survivor are determined as if the surviving same sex spouse were a woman whose deceased spouse was a man, or a man whose deceased spouse was a woman. *(Extent: E+W)*
+
+(2 (Extent: E+W)) A modification under paragraph (1) which confers rights on surviving same sex spouses which are in excess of what is required to comply with the relevant requirements of the Marriage (Same Sex Couples) Act 2013 shall not be made unless— *(Extent: E+W)*
+
+- (a (Extent: E+W)) the employer in relation to the scheme consents; or *(Extent: E+W)*
+- (b (Extent: E+W)) in the case of a scheme where there is more than one employer— *(Extent: E+W)*
+  - (i (Extent: E+W)) a person nominated by the employers, or otherwise in accordance with the scheme rules, to act as the employers’ representative (the “nominee”) consents; or *(Extent: E+W)*
+  - (ii (Extent: E+W)) where there is no such nominee, all of the employers in relation to the scheme consent other than any employer who has waived his right to give such consent. *(Extent: E+W)*
+
+## 7A. Modification of schemes: abolition of protected rights[^key-c99bc047a1050e9fcd5149fb4727dfd4]
+
+(1) The trustees of a trust scheme may by resolution passed before 6th April 2018 modify the scheme for the purposes of removing all or part of a scheme rule which makes special provision in relation to the protected rights of members, and which no longer reflects a statutory provision as a result of the coming into force of provisions contained within—
+
+- (a) section 15(1) of, and Schedule 4 to, the Pensions Act 2007 (abolition of contracting-out for defined contribution pension schemes);
+- (b) sections 106 and 148 of, and Part 3 of Schedule 11 to, the Pensions Act 2008 (contracting-out: abolition of all protected rights);
+- (c) the Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011;
+- (d) the Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011;
+- (e) the Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) ( No. 2) Regulations 2011; and
+- (f) the Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) ( No. 2) Order 2011.
+
+(2) Modifications made by resolution under paragraph (1)—
+
+- (a) must only have effect from a date on or after the date of the coming into force of the provisions specified in paragraph (1)(a) to (f) to which those modifications relate, and
+- (b) may have effect from a date before the resolution is passed.
+
+(3) A resolution passed under paragraph (1) is without prejudice to a member’s money purchase benefits under the scheme (including any payments that become money purchase benefits under section 31 of the 1993 Act (investment and resources of scheme) on or after 6th April 2012).
+
+(4) In this regulation, “protected rights” has the meaning given in section 181(1) of the 1993 Act (interpretation).
+
+## 7B. Amendment of schemes for adjustment measure[^key-53e61f35313489ca1f1e79bd212b3659]
+
+The trustees of a trust scheme may by resolution amend the scheme for the purposes of implementing an adjustment measure within regulation 10 of the Occupational Pension Schemes (Charges and Governance) Regulations 2015.
+
+## 7C. Modification of schemes: revaluation of guaranteed minimum pensions[^key-e1056f402755b07b4f548fd1b5f5e6b5]
+
+(1) The trustees of a trust scheme may by resolution passed before 6th April 2017 modify the scheme for the purposes of —
+
+- (a) revaluing earnings factors for the purposes of section 14 (earner’s guaranteed minimum pension) of the 1993 Act in accordance with section 16(2) (revaluation of earnings factors for the purposes of section 14: early leavers etc.) of that Act as substituted by paragraph 16 of Schedule 13 to the Pensions Act 2014; and
+- (b) where the scheme contains a rule or provision that would require or permit the increases referred to in section 16(3) of the 1993 Act to be applied to an earner whose service in contracted-out employment ceased on the second abolition date with effect from a relevant year before the last service tax year, disapplying that rule or provision to the extent that it does not require or permit such increases.
+
+(2) Modifications made by resolution under paragraph (1)—
+
+- (a) must only have effect from 6th April 2016 or such later date as may be specified; and
+- (b) may have effect from a date before the resolution is passed.
+
+(3) In this regulation—
+
+- “contracted-out employment” has the meaning given in section 8 (meaning of “contracted-out employment” etc.) of the 1993 Act;
+- “earnings factors” has the meaning given in section 181(1) (general interpretation) of the 1993 Act;
+- “last service tax year” has the meaning given in section 16(2) of the 1993 Act as substituted by paragraph 16 of Schedule 13 to the Pensions Act 2014;
+- “relevant year” has the meaning given in section 16(5) of the 1993 Act;
+- “the second abolition date” has the meaning given in section 181(1) of the 1993 Act.
+
+## 8. Modification of schemes: prescribed schemes[^key-a8ac4f6c6436c314600b226ef5ded94f]
+
+For the purposes of section 68(6) of the 1995 Act (the power to modify schemes by resolution does not apply to trust schemes within a prescribed class or description), the prescribed class or description of trust schemes is—
+
+- (a) any scheme—
+  - (i) in respect of which any Minister of the Crown has given a guarantee or made arrangements for the purposes of securing that the assets of the scheme are sufficient to meet its liabilities; and
+  - (ii) which is a public service scheme; or
+- (b) a scheme, provision for which is made by virtue of section 81(3) of the Scotland Act 1998 (remuneration of members of the Parliament and Executive).
+
+## 8A. Modification of schemes: reduction in the rate of pension[^key-705afe39eddb9d6a3b97b8b2f18233c0]
+
+(1) The trustees of a scheme which, as at the relevant date, permits or otherwise provides for a reduction in the rate of pension taking effect upon a member reaching a specified age, not less than 60 and not more than 65, may by resolution modify the scheme for the purposes of permitting or otherwise providing instead for a reduction, of an equal or differing amount, in the rate of such a member’s pension to take effect at any time during the first permitted period.
+
+(2) The trustees of a scheme which, as at the relevant date, permits or otherwise provides for a reduction in the rate of pension taking effect upon a member reaching the age of entitlement to state retirement pension, may by resolution modify the scheme for the purposes of permitting or otherwise providing instead for a reduction, of an equal or differing amount, in the rate of such a member’s pension to take effect at any time during the second permitted period.
+
+(3) Any modification made under paragraph (2) must have no effect in respect of a pension in payment at the date such modification is made.
+
+(4) A modification under paragraph (1) or (2) may not be made by the trustees unless it is reasonable in consequence of changes to the age at which members reach pensionable age in accordance with paragraph 1 of Schedule 4 to the 1995 Act (rules for determining pensionable age).
+
+(5) A modification under paragraph (1) or (2) may not be made unless—
+
+- (a) the employer in relation to the scheme consents; or
+- (b) in the case of a scheme where there is more than one employer—
+  - (i) a person nominated by the employers, or otherwise in accordance with the scheme rules, to act as the employers’ representative (the “nominee”) consents; or
+  - (ii) where there is no such nominee, all of the employers in relation to the scheme consent other than any employer who has waived its right to give such consent.
+
+(6) In this regulation—
+
+- “the relevant date” means 5th April 2010;
+- “the first permitted period” means the period beginning with the day on which a member reaches the age of 60 and ending with the day on which a member reaches pensionable age in accordance with paragraph 1 of Schedule 4 to the 1995 Act;
+- “the second permitted period” means the period beginning with the day on which a member reaches the age of 60 and ending with the day on which a member reaches the age of 65.
+
+## 8B. Modification of schemes: drawdown pensions, uncrystallised funds pension lump sums and death benefits[^key-90b7b5783b0a0864ca0def1e787f489c]
+
+(1) Subject to paragraph (5), the trustees of a trust scheme may by resolution modify the scheme for either or both of the following purposes—
+
+- (a) providing for the nomination, in relation to a member of the scheme, of a nominee or successor of the member, as defined by paragraphs 27A and 27F of Schedule 28 to the 2004 Act (supplementary provision about authorised pensions – pension death benefit rules);
+- (b) providing for the payment of a drawdown pension fund lump sum death benefit or a flexi-access drawdown fund lump sum death benefit, as defined by paragraphs 17 and 17A of Schedule 29 to the 2004 Act (supplementary provision about authorised lump sums – lump sum death benefit rule).
+
+(2) Subject to paragraph (5), the trustees of a trust scheme may by resolution modify the scheme for the purpose of offering one or more of the options specified in paragraph (3) to any person who is—
+
+- (a) a member who has attained normal minimum pension age (as defined by section 279(1) of the 2004 Act) or who meets the ill-health condition specified in paragraph 1 of Schedule 28 to the 2004 Act; or
+- (b) a survivor of a member.
+
+(3) The options referred to in paragraph (2) are—
+
+- (a) designation of sums or assets held for the purpose of providing money purchase benefits as available for the payment of—
+  - (i) drawdown pension (as defined by paragraph 4 of Schedule 28 to the 2004 Act);
+  - (ii) dependants’ drawdown pension (as defined by paragraph 18 of Schedule 28 to the 2004 Act);
+  - (iii) nominees’ drawdown pension (as defined by paragraph 27B of Schedule 28 to the 2004 Act); or
+  - (iv) successors’ drawdown pension (as defined by paragraph 27G of Schedule 28 to the 2004 Act);
+- (b) conversion of flexible benefits which are not money purchase benefits into money purchase benefits for the purpose of the exercise of an option specified in sub‑paragraph (a);
+- (c) in the case of a member, payment of an uncrystallised funds pension lump sum (as defined by paragraph 4A of Schedule 29 to the 2004 Act).
+
+(4) A modification under paragraph (2) may include conditions on the exercise of an option specified in paragraph (3), including in particular—
+
+- (a) provision for payment of a fee by the member or survivor on exercising an option specified in sub-paragraph (a) or (c) of paragraph (3);
+- (b) where a member—
+  - (i) has not attained normal pension age (as defined by section 76(1) of the 2015 Act) under the scheme; and
+  - (ii) exercises an option specified in sub-paragraph (b) or (c) of paragraph (3) in relation to subsisting rights to flexible benefits which are not money purchase benefits,
+
+  provision for a reduction in the value or amount of the portion of the member’s subsisting rights in respect of which the option is exercised.
+
+(5) No modification under this regulation may be made unless—
+
+- (a) the employer in relation to the scheme consents; or
+- (b) in the case of a scheme where there is more than one employer—
+  - (i) a person nominated by the employers, or otherwise appointed in accordance with the scheme rules, to act as the employers’ representative (the “employer representative”) consents; or
+  - (ii) where there is no such employer representative, all of the employers in relation to the scheme consent other than any employer who has waived his right to give such consent.
+
+(6) In this regulation, “flexible benefit” has the meaning given by section 74 of the 2015 Act.
+
+**Modification of schemes: independent advice requirement in respect of transfers**
+
+**8C.** (1) The trustees of a trust scheme may by resolution modify the scheme for the purpose of providing that, where the circumstances specified in paragraph (2) apply, the trustees are not required to make the proposed transfer payment referred to in paragraph (2)(a).
+
+(2) The circumstances specified for the purpose of paragraph (1) are—
+
+- (a) the rules of the scheme would, in the absence of any modification made under this regulation, require the trustees to make a transfer payment in respect of a member’s or survivor’s subsisting rights to benefits (“the proposed transfer payment”);
+- (b) section 48 of the 2015 Act (independent advice in respect of conversions and transfers) requires the trustees to check that the member or survivor has received appropriate independent advice (as defined by subsection (8) of that section) before making the proposed transfer payment; and
+- (c) the trustees—
+  - (i) are unable to carry out the check by reason of factors outside their control; or
+  - (ii) have carried out the check but the check did not confirm that the member or survivor had received appropriate independent advice.
+
+## 9. Revocations
+
+The enactments listed in the Schedule are revoked to the extent specified.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Stephen C. Timms
+
+Minister of State,
+
+Department for Work and Pensions
+
+## SCHEDULE
+
+| *Revocations* | *Reference* | *Extent of revocation* |
+| --- | --- | --- |
+| The Occupational Pension Schemes (Modification of Schemes) Regulations 1996 | S.I. 1996/2517 | The whole of the Regulations |
+| The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 | S.I. 1997/786 | Paragraph 16 of Schedule 1 |
+| The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 | S.I. 1999/3198 | Regulation 9 |
+| The Occupational and Personal Pension Schemes (Contracting-out) (Miscellaneous Amendments) Regulations 2002 | S.I. 2002/681 | Regulation 5 |
+| The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 | S.I. 2005/2050 | Paragraph 35 of Schedule 2 |
+| The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc Provisions) Order 2005. | S.I. 2005/2877 | Paragraph 6 of Schedule 2 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations prescribe certain requirements which must be met where an occupational pension scheme is modified using a power conferred on any person by a scheme and where the subsisting rights provisions apply. The subsisting rights provisions are contained in sections 67 to 67I of the Pensions Act 1995 (c. 26) (amended and inserted by section 262 of the Pensions Act 2004 (c. 35)) and require that modifications to which they apply must either comply with the consent requirements or the actuarial equivalence requirements, as well as, the trustee approval and reporting requirements. These Regulations also enable trustees, in prescribed circumstances, to modify a trust scheme by way of a resolution.
+
+Regulation 2 exempts categories of schemes from the subsisting rights provisions.
+
+Regulation 3 exempts from the subsisting rights provisions modifications made in a prescribed manner. In particular paragraphs (f) and (g) exempt certain modifications which may be made as a result of provisions in the Finance Act 2004 (c. 12) which relate to unauthorised member payments or which relate to certain charges. Paragraph (h) exempts modifications which have the same effect as any or all the modifications in regulations 3 to 8 of the Registered Pension Schemes (Modification of the Rules of Existing Schemes) Regulations 2006 (S.I. 2006/364). Paragraph (i) exempts modifications which deal with providing benefits to surviving civil partners so that they may be treated in the same way as widows or widowers.
+
+Regulation 4 prescribes the qualifications and experience required for a person providing an actuarial equivalence statement, where a modification of a scheme must comply with the actuarial equivalence requirements.
+
+Regulation 5 prescribes requirements for calculating the actuarial value of an affected member's subsisting rights, where the actuarial equivalence requirements apply to a modification of a scheme.
+
+Regulation 6 prescribes that the trustees of a trust scheme may by resolution modify the scheme for the purposes of achieving the same effect as all of the modifications in regulations 3 to 8 of the Registered Pension Schemes (Modification of the Rules of Existing Schemes) Regulations 2006. Such a resolution must be passed before 6th April 2011 and it may only have effect on or after 6th April 2006.
+
+Regulation 7 prescribes that the trustees of a trust scheme may by resolution modify the scheme for the purposes of providing benefits to surviving civil partners so that they may be treated in the same way as widows or widowers. Such modifications must not be made without the consent of the employer where the modification confers rights in excess of what is required to comply with the Civil Partnership Act 2004 (c. 33). In the case of a multi-employer scheme such consent must be given by all of the employers, however a person may be nominated to give such consent or an employer may waive his consent.
+
+Regulation 8 exempts certain schemes from the provisions which allow trustees of trust schemes to modify the scheme by resolution.
+
+Regulation 9 and the Schedule revoke the Occupational Pension Schemes (Modification of Schemes) Regulations 1996 (S.I. 1996/2517) and amending regulations.
+
+In relation to regulations 6 to 8, the Secretary of State has considered it inexpedient to consult because of urgency. As the remainder of the Regulations are made before the expiry of the period of six months beginning with the coming into force of section 262 of Pensions Act 2004 (which amended and inserted sections 67 to 67I of the Pensions Act 1995) the requirement for the Secretary of State to consult such persons as he considers appropriate does not apply. However, a consultation exercise has nevertheless taken place.
+
+An assessment of the impact on business, charities and the voluntary sector of the provisions in these Regulations was included in the Regulatory Impact Assessment that accompanied the Pensions Act 2004. Copies of this assessment were placed in the libraries of both Houses of Parliament. A copy may be obtained from the Department for Work and Pensions, Better Regulation Unit, 4th Floor, 1-11 John Adam Street, London, WC2N 6HT.
+
+## Annotations
+
+[^c1545055]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Sections 67 to 67I of the Pensions Act 1995 were substituted by section 262 of the [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35). Section 68 of the Pensions Act 1995 was amended by section 45(2) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [paragraph 54](https://www.legislation.gov.uk/ukpga/2000/19/paragraph/54) of Schedule 12 to the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) and paragraph 56 of Schedule 12 to the Pensions Act 2004. Section 124(1) of the Pensions Act 1995 is cited because of the meaning there given to “prescribed” and “regulations”.
+
+[^c1545056]: Marginal citation: *See* section 120(2)(b) of the Pensions Act 1995 which provides that the requirement under section 120(1) of that Act for the Secretary of State to consult such persons as he considers appropriate before making any regulations by virtue of the provisions of Part I of that Act does not apply where he considers consultation inexpedient because of urgency.
+
+[^c1545057]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^c1545058]: Marginal citation: *See* section 120(2)(d) of the Pensions Act 1995 which provides that the requirement under section 120(1) of that Act for the Secretary of State to consult such persons as he considers appropriate before making regulations by virtue of the provisions of Part 1 of that Act does not apply where regulations are consequential upon a specified enactment and are made before the end of the period of six months beginning with the coming into force of that enactment.
+
+[^c1545059]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^c1545060]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-c9566a0008a73056af5c4ed51e1808c7]: Textual amendment: Words in reg. 1(3) inserted (6.4.2015) by [The Occupational Pension Schemes (Consequential and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/493)](https://www.legislation.gov.uk/uksi/2015/493), [regs. 1](https://www.legislation.gov.uk/uksi/2015/493/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/493/regulation/5/2)
+
+[^c1545061]: Marginal citation: [S.I. 2006/364](https://www.legislation.gov.uk/uksi/2006/364)
+
+[^key-5456917934be0e02dbdc6c282100e562]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/3) inserted (4.12.2025) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2025/1113/regulation/3)
+
+[^key-78966e8bed9137a7c16dda9768525ec1]: Textual amendment: Words in reg. 1(3) omitted (9.8.2012) by virtue of [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/9/a)
+
+[^key-a4e98627a37d2c8173192fff1eb89bc6]: Textual amendment: Words in reg. 1(3) omitted (6.4.2012) by virtue of [Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2011/1246/article/23/2)
+
+[^key-aae884090f8eb48b0e361efbc0d1220b]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/3) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [12(2)](https://www.legislation.gov.uk/uksi/2022/337/regulation/12/2)
+
+[^key-57d145fd5d0854710d6abdd97e12bb84]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/3) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [Sch. 7 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2025/1313/schedule/7/paragraph/5/2/a)
+
+[^c1545063]: Marginal citation: The definition of “public service pension scheme” was amended by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^key-34033694a218fd4adb66c09f7219aa03]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/3) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [Sch. 7 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2025/1313/schedule/7/paragraph/5/2/b)
+
+[^key-2921ccc47a8bffa5fe4c02729d3d7fa2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/3) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [Sch. 7 para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2025/1313/schedule/7/paragraph/5/2/c)
+
+[^c1545064]: Marginal citation: Section 91 was amended by paragraph 57 of Schedule 12 to, and Schedule 13 to, the Welfare Reform and Pensions Act 1999, section 266 of the Pensions Act 2004 and paragraph 23 of the Schedule to [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053).
+
+[^c1545065]: Marginal citation: Section 92 was amended by paragraph 58 of Schedule 12 to, and Schedule 13 to, the Welfare Reform and Pensions Act 1999 and paragraph 23 of the Schedule to [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053).
+
+[^key-40740ec601d0dd118a4052d3b942d783]: Textual amendment: Reg. 3(d) omitted (6.4.2012) by virtue of [Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [23(3)](https://www.legislation.gov.uk/uksi/2011/1246/article/23/3)
+
+[^key-9a98500e815fe1cf82af4886c461aaf3]: Textual amendment: Words in reg. 3(e)(ii) inserted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2013/459/regulation/9/a)
+
+[^c1545066]: Marginal citation: [S.I. 1991/167](https://www.legislation.gov.uk/uksi/1991/167); the relevant amending instruments are [S.I. 1992/1531](https://www.legislation.gov.uk/uksi/1992/1531), 1993/1822, 1994/1062, 1995/3067, 1996/2131, 1997/786, 1999/2543 and 2000/1403.
+
+[^key-a69fb39bb15ca0218589578af1a9dde4]: Textual amendment: Words in reg. 3(e)(ii) substituted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2013/459/regulation/9/b)
+
+[^key-943f3a44dcad9267085cb92ee148e79c]: Textual amendment: Reg. 3(ga) inserted (6.4.2015) by [The Occupational Pension Schemes (Consequential and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/493)](https://www.legislation.gov.uk/uksi/2015/493), [regs. 1](https://www.legislation.gov.uk/uksi/2015/493/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/493/regulation/5/3)
+
+[^key-81192541ecbccd670b5ac0859524d479]: Textual amendment: Word in reg. 3 omitted (S.) (16.12.2014) by virtue of [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 31(2)(a)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/31/2/a)
+
+[^key-8e364d00fe3fa57e5e34b9852fc9bc5e]: Textual amendment: Word in reg. 3 omitted (E.W.) (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 44(2)(a)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/44/2/a)
+
+[^key-476f518127eb51b4a6309d026541e7fa]: Textual amendment: Words in reg. 3(i) substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/3/paragraph/4/2)
+
+[^key-e21761cb96b4dea87b849e438d135d17]: Textual amendment: Words in reg. 3(i) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2014/560/schedule/3/paragraph/6/2)
+
+[^key-2c827c336cf873c493942495a2e886b9]: Textual amendment: [Reg. 3(i)](https://www.legislation.gov.uk/uksi/2006/759/regulation/3/i)[(ii)](https://www.legislation.gov.uk/uksi/2006/759/regulation/3/ii): semicolon substituted for word (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [12(3)(a)](https://www.legislation.gov.uk/uksi/2022/337/regulation/12/3/a)
+
+[^key-f826688ee84420702ecbc05497b85a01]: Textual amendment: Reg. 3(j) inserted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 31(2)(c)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/31/2/c)
+
+[^key-d1558a0227d86d40d4a3a5fdb1f0ca27]: Textual amendment: Reg. 3(j) inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 44(2)(c)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/44/2/c)
+
+[^key-58bb5fd39034996a5e06ebcd39f55c9f]: Textual amendment: [Reg. 3(j)(ii)](https://www.legislation.gov.uk/uksi/2006/759/regulation/3/j/ii) full stop omitted (1.8.2022) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [12(3)(b)](https://www.legislation.gov.uk/uksi/2022/337/regulation/12/3/b)
+
+[^key-9fee7e604d57ec186bb50e7225ba9224]: Textual amendment: [Reg. 3(k)](https://www.legislation.gov.uk/uksi/2006/759/regulation/3/k)[(l)](https://www.legislation.gov.uk/uksi/2006/759/regulation/3/l) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [12(3)(b)](https://www.legislation.gov.uk/uksi/2022/337/regulation/12/3/b)
+
+[^key-9e6328c2f5193f62ca9d80bd7a97a5c7]: Textual amendment: Word in [reg. 3(k)](https://www.legislation.gov.uk/uksi/2006/759/regulation/3/k) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [Sch. 7 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2025/1313/schedule/7/paragraph/5/3/a)
+
+[^key-6a21c54984f3ba39624f2155687566c5]: Textual amendment: Words in [reg. 3(l)](https://www.legislation.gov.uk/uksi/2006/759/regulation/3/l) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [Sch. 7 para. 5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1313/schedule/7/paragraph/5/3/b/i)
+
+[^key-f7d8511ceada0ad7bb8452cc7fded05c]: Textual amendment: Word in [reg. 3(l)](https://www.legislation.gov.uk/uksi/2006/759/regulation/3/l) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [Sch. 7 para. 5(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1313/schedule/7/paragraph/5/3/b/ii)
+
+[^key-cb4541283113971e17ef4d38ee354137]: Textual amendment: [Reg. 3(m)](https://www.legislation.gov.uk/uksi/2006/759/regulation/3/m) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [Sch. 7 para. 5(3)(c)](https://www.legislation.gov.uk/uksi/2025/1313/schedule/7/paragraph/5/3/c)
+
+[^key-6168f5e1e53840d77773bcadc3f24f5d]: Textual amendment: Words in reg. 4 substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers – Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2012/692/regulation/15)
+
+[^key-f7b2d7e7b2b46fb1b6c8f5dd671dd43c]: Textual amendment: Words in reg. 5(2)(a)(ii) substituted (1.10.2008) by [Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/9)
+
+[^c1545069]: Marginal citation: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847). The relevant amending instruments are [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and 2005/3377.
+
+[^key-12bd4f6fc5fa7ccd062ebb1424d53b16]: Textual amendment: Reg. 5(2)(b) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2007 (S.I. 2007/60)](https://www.legislation.gov.uk/uksi/2007/60), [reg. 1](https://www.legislation.gov.uk/uksi/2007/60/regulation/1), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2007/60/schedule/paragraph/17/b)
+
+[^key-bc49ab6317fa15837ec7b0d313d5ad5c]: Textual amendment: Words in reg. 5(2)(b) substituted (9.8.2012) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/9/b)
+
+[^key-fc200853a073c57b789ba2db2524fc3a]: Textual amendment: Reg. 6A inserted (6.4.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/499)](https://www.legislation.gov.uk/uksi/2010/499), [regs. 1](https://www.legislation.gov.uk/uksi/2010/499/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/499/regulation/8)
+
+[^key-4bdedea9b4b64d87145624675891d451]: Textual amendment: Words in reg. 7(1) substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/3/paragraph/4/3)
+
+[^key-debc5624597dbac0c2c8e104bd8db10c]: Textual amendment: Words in reg. 7(1) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2014/560/schedule/3/paragraph/6/3)
+
+[^c1545070]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-57d163f081da022a6f0b67cd18ffe857]: Textual amendment: Reg. 7ZA inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 44(3)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/44/3)
+
+[^key-c99bc047a1050e9fcd5149fb4727dfd4]: Textual amendment: Reg. 7A inserted (6.4.2012) by [The Occupational Pension Schemes (Contracting-out and Modification of Schemes) (Amendment) Regulations 2012 (S.I. 2012/542)](https://www.legislation.gov.uk/uksi/2012/542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/542/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/542/regulation/3)
+
+[^key-53e61f35313489ca1f1e79bd212b3659]: Textual amendment: Reg. 7B inserted (6.4.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations 2015 (S.I. 2015/879)](https://www.legislation.gov.uk/uksi/2015/879), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/13/2)
+
+[^key-e1056f402755b07b4f548fd1b5f5e6b5]: Textual amendment: [Reg. 7C](https://www.legislation.gov.uk/uksi/2006/759/regulation/7C) inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Modification of Schemes - Miscellaneous Amendments) Regulations 2016 (S.I. 2016/231)](https://www.legislation.gov.uk/uksi/2016/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/231/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2016/231/regulation/2)
+
+[^key-a8ac4f6c6436c314600b226ef5ded94f]: Textual amendment: Reg. 8 substituted (1.9.2009) by [Occupational Pension Schemes (Scottish Parliamentary Pensions Act 2009) Regulations 2009 (S.I. 2009/1906)](https://www.legislation.gov.uk/uksi/2009/1906), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1906/regulation/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2009/1906/schedule/paragraph/10)
+
+[^key-705afe39eddb9d6a3b97b8b2f18233c0]: Textual amendment: Reg. 8A inserted (1.10.2013) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1754)](https://www.legislation.gov.uk/uksi/2013/1754), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1754/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1754/regulation/3)
+
+[^key-90b7b5783b0a0864ca0def1e787f489c]: Textual amendment: Regs. 8B, 8C inserted (6.4.2015) by [The Occupational Pension Schemes (Consequential and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/493)](https://www.legislation.gov.uk/uksi/2015/493), [regs. 1](https://www.legislation.gov.uk/uksi/2015/493/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/493/regulation/5/4)

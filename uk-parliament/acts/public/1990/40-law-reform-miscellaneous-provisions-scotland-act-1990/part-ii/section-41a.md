@@ -1,0 +1,41 @@
+---
+title: Law Reform (Miscellaneous Provisions) (Scotland) Act 1990, section 41A
+act: Law Reform (Miscellaneous Provisions) (Scotland) Act 1990
+section: 41A
+status: revised-with-pending-changes
+text_date: '2026-03-05'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1990/40/section/41A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Law Reform (Miscellaneous Provisions) (Scotland) Act 1990, section 41A
+
+> **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 41A. Enforcement of notices under section 41[^key-97341123000b2f85912be5f2c00597d1]
+
+*Extent: S*
+
+(1) The court may, on an application by the CMA[^key-73683f5dfffd8017a2c9cad1ec07709f] , enquire into whether any person (“the defaulter”) has refused or otherwise failed, without reasonable excuse, to comply with a notice under section 41(1).
+
+(2) An application under subsection (1) shall include details of the possible failure which the CMA considers has occurred.
+
+(3) In enquiring into a case under subsection (1), the court shall hear any witness who may be produced against or on behalf of the defaulter and any statement which may be offered in defence.
+
+(4) Subsections (5) and (6) apply where the court is satisfied, after hearing any witnesses and statements as mentioned in subsection (3), that the defaulter has refused or otherwise failed, without reasonable excuse, to comply with a notice under section 41(1).
+
+(5) The court may punish the defaulter as it would have been able to punish him had he been guilty of contempt of court.
+
+(6) Where the defaulter is a body corporate or is a partnership constituted under the law of Scotland, the court may punish any director, officer or (as the case may be) partner of the defaulter as it would have been able to punish that director, officer or partner had he been guilty of contempt of court.
+
+(7) In this section “the court” means the Court of Session.
+
+## Annotations
+
+[^key-97341123000b2f85912be5f2c00597d1]: Textual amendment: Ss. 41A, 41B inserted (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/12/3)
+
+[^key-73683f5dfffd8017a2c9cad1ec07709f]: Textual amendment: Words in [s. 41A(1)](https://www.legislation.gov.uk/ukpga/1990/40/section/41A/1)[(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/41A/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 50](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/50); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

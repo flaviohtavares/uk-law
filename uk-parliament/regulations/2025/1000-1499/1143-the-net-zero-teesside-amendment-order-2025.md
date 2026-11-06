@@ -1,0 +1,195 @@
+---
+title: The Net Zero Teesside (Amendment) Order 2025
+id: uksi/2025/1143
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2025-10-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2025/1143
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/1143/pdfs/uksi_20251143_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/1143/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Net Zero Teesside (Amendment) Order 2025
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2025 No. 1143
+
+Infrastructure Planning
+
+The Net Zero Teesside (Amendment) Order 2025
+
+Made
+
+28th October 2025
+
+Coming into force
+
+29th October 2025
+
+An application has been made, under paragraph 2 of Schedule 6 of the Planning Act 2008[^f00001], to the Secretary of State in accordance with the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^f00002] (“**the 2011 Regulations**”) for a non-material change to the Net Zero Teesside Order 2024[^f00003].
+
+The Secretary of State, having considered the application and the responses to the publicity and consultation required by regulations 6 and 7 of the 2011 Regulations, has decided to make the changes on terms that in the opinion of the Secretary of State are not materially different from those proposed in the application.
+
+Accordingly, the Secretary of State, in exercise of the powers in paragraphs 2(1) and (9) of Schedule 6 to the Planning Act 2008, makes the following Order.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Net Zero Teesside (Amendment) Order 2025 and comes into force on 29th October 2025.
+
+## 2. Amendment to the Net Zero Teesside Order 2024
+
+The Net Zero Teesside Order 2024 is amended in accordance with this Order.
+
+## 3. Amendments to Part 1 (preliminary), article 2 (interpretation)
+
+In article 2 (interpretation) of Part 1 (preliminary) omit the existing definition of “book of reference” and replace with ““**book of reference**” means the documents of that description which are certified by the Secretary of State as the book of reference and the supplemental book of reference under article 45 for the purposes of this Order;”.
+
+**4.** In article 2 (interpretation) of Part 1 (preliminary) for ““**Order land**” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown edged red on the land plans and described in the book of reference;” substitute ““**Order land**” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown edged red on the land plans and shown shaded orange on the land plans and described in the book of reference;”.
+
+**5.** In article 2 (interpretation) of Part 1 (preliminary) before ““Teesworks Limited” insert ““**supplemental land**” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown shaded orange on the land plans and described in the book of reference;”.
+
+## 6. Amendment to Part 4 (supplemental powers)
+
+In Part 4 (supplemental powers), article 20 (authority to survey and investigate the land) after paragraph (6) insert—
+
+> (7) The undertaker may not rely upon any powers under this article 20 in respect of the supplemental land.
+
+.
+
+## 7. Amendments to Part 5 (powers of acquisition)
+
+In Part 5 (powers of acquisition), before article 22 insert—
+
+> **Supplemental land**
+>
+> **21A.** — The undertaker may not compulsorily acquire any interest in or rights over or take temporary possession of any part of the supplemental land pursuant to articles 22, 25, 30, 31, 32 and 33.
+
+.
+
+**8.** In Part 5 (powers of acquisition), article 22 (compulsory acquisition of land), paragraph (1) for “The undertaker may” substitute “Subject to article 21A (supplemental land), the undertaker may”.
+
+**9.** In Part 5 (powers of acquisition), article 25 (compulsory acquisition of rights etc.), paragraph (1) after “subject to the following paragraphs of this article,” insert—
+
+> and article 21A (supplemental land)
+
+.
+
+**10.** In Part 5 (powers of acquisition), article 30 (rights under or over streets), paragraph (1) for “The undertaker may” substitute “Subject to article 21A (supplemental land), the undertaker may”.
+
+**11.** In Part 5 (powers of acquisition), article 31 (Temporary use of land for carrying out the authorised development), paragraph 1 for “The undertaker may” substitute “Subject to article 21A (supplemental land), the undertaker may”.
+
+**12.** In Part 5 (powers of acquisition), article 32 (Temporary use of land for maintaining the authorised development), paragraph (1) after “Subject to paragraph (2),” insert “and article 21A (supplemental land),”.
+
+**13.** In Part 5 (powers of acquisition), article 33 (Statutory undertakers), after “Subject to the provisions of Schedule 12 (protective provisions)” insert “and article 21A (supplementary land)”.
+
+## 14. Amendment to Schedule 1 (authorised development)
+
+In Schedule 1 (authorised development), before Work No. 7 insert—
+
+> Work No. 6A – above ground installations required to facilitate Work No. 6, comprising—
+>
+> - (a) above and below ground piping;
+> - (b) a PIG launcher;
+> - (c) remotely operated valves and valve bypass; and
+> - (d) instrumentation and electrical kiosk.
+
+**15.** In Schedule 1 (authorised development), Work No. 9 is amended as follows—
+
+- (a) after paragraph (e) “Work No. 9E – Saltholme laydown;” omit “and”;
+- (b) after paragraph (f) “Work No. 9F – Haverton Hill laydown” for “.” substitute “; and”; and
+- (c) after paragraph (f) “Work No. 9F – Haverton Hill laydown; and” insert—
+
+  > - (g) Work No. 9G – temporary construction laydown area.
+
+  .
+
+## 16. Amendment to Schedule 2 (requirements)
+
+In Schedule 2 (requirements) paragraph 3 (detailed design) sub-paragraph (4) is amended as follows—
+
+- (a) at the end of sub-paragraph (b) omit “and”;
+- (b) at the end of sub-paragraph (c) for “.” substitute “; and”; and
+- (c) after sub-paragraph (c) insert—
+
+  > - (d) the siting and external appearance of cable support structures.
+
+## 17. Amendment to Schedule 12 (protective provisions)
+
+In Schedule 12 (protective provisions) part 18 (for the protection of Anglo American) in paragraph 230 omit the existing definition of “Shared Area 5” and substitute ““**Shared Area 5**” means the land comprising plots 417, 418, 427, 432, 436, 439, 543, 545, 546, 547 and 548 on the land plans;”.
+
+## 18. Amendment to Schedule 14 (documents and plans to be certified)
+
+In Schedule 14 (documents and plans to be certified) Table 13 is omitted and replaced with the following—
+
+> Table 13
+>
+> | *(1)*<br>*Document name* | *(2)*<br>*Document reference* | *(3)*<br>*Revision number* | *(4)*<br>*Date* |
+> | --- | --- | --- | --- |
+> | access and rights of way plans | 4.5 | 7 | January 2025 |
+> | application guide | 1.2 | 20 | February 2025 |
+> | book of reference | 3.1 | 8 | April 2023 |
+> | supplemental book of reference | 3.1b | 1 | January 2025 |
+> | design and access statement | 5.4 | 6 | February 2025 |
+> | environmental statement | Non-technical summary, 6.1 | – | As listed in the application guide |
+> |  | Volume 1, 6.2 | – |  |
+> |  | Volume 2, 6.3 | – |  |
+> |  | Volume 3, 6.4 | – |  |
+> |  | Non-technical Summary of Environmental Statement Addendum, 7.7 | – |  |
+> |  | Environmental Statement Addendum Volume 1, 7.8.1 | – |  |
+> |  | Environmental Statement Addendum Volume II, 7.8.2 | – |  |
+> |  | Non-Technical Summary of Second Environmental Statement Addendum, 7.10 | – |  |
+> |  | Second Environmental Statement Addendum, Volume 1, 7.11.1 | – |  |
+> |  | Second Environmental Statement Addendum, Volume II, 7.11.2 | – |  |
+> |  | Non-Technical Summary of Third Environmental Statement Addendum, 7.14 | – |  |
+> |  | Third Environmental Statement Addendum – Volume 1, 7.15.1 | – |  |
+> |  | Third Environmental Statement Addendum Volume II, 7.15.2 | – |  |
+> |  | DCO Non-Material Change Environmental Statement Addendum Volume I – Main Text (6.7a) | – |  |
+> |  | DCO Non-Material Change Environmental Statement Addendum | – |  |
+> |  | Volume II – Figures (6.7b) | – |  |
+> |  | DCO Non-Material Change Environmental Statement Non-Technical Summary | – |  |
+> |  | (6.7c) | – |  |
+> | framework construction environmental management plan | 6.45 | 3 | October 2022 |
+> | indicative lighting strategy | 5.11 | 1 | May 2021 |
+> | indicative landscape and biodiversity strategy | 5.12 | 2 | August 2022 |
+> | land plans | 4.2 | 7 | January 2025 |
+> | Net Zero Teesside Anglo American Shared Areas Plan | 4.17 | 2 | January 2025 |
+> | parking plan | 4.16.2 | 3 | October 2022 |
+> | PCC site access plan | 4.16.3 | 2 | August 2022 |
+> | Sembcorp Pipeline Corridor protective provisions supporting plan | 4.19 | 2 | January 2025 |
+> | Sembcorp Protection Corridor protective provisions supporting plans | 4.20 | 2 | January 2025 |
+> | updated landscape and biodiversity plan | 4.15 | 5 | January 2025 |
+> | water connection plan | 4.16.4 | 2 | August 2022 |
+> | works plans | 4.4 | 7 | January 2025 |
+
+Signed by authority of the Secretary of State for Energy Security and Net Zero
+
+John Wheadon
+
+Head of Energy Infrastructure Planning Delivery
+
+Department for Energy Security and Net Zero
+
+28th October 2025
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Net Zero Teesside Order 2024, a development consent order made under the Planning Act 2008, following an application made in accordance with the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 for a non-material change under paragraph 2 of Schedule 6 to the Planning Act 2008.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Paragraph 2 of Schedule 6 was amended by paragraph 4 of Schedule 8 to the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), by paragraph 72 of Schedule 13 and paragraph 1 of Schedule 25 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), and by section 28 of the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). There are other amendments to the Act which are not relevant to this Order.
+
+[^f00002]: Footnote: [S.I. 2011/2055](https://www.legislation.gov.uk/uksi/2011/2055), as amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635), [S.I. 2012/2654](https://www.legislation.gov.uk/uksi/2012/2654), [S.I. 2012/2732](https://www.legislation.gov.uk/uksi/2012/2732), [S.I. 2013/522](https://www.legislation.gov.uk/uksi/2013/522), [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755), [S.I. 2015/377](https://www.legislation.gov.uk/uksi/2015/377), [S.I. 2015/760](https://www.legislation.gov.uk/uksi/2015/760), [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682), [S.I. 2017/314](https://www.legislation.gov.uk/uksi/2017/314), [S.I. 2017/524](https://www.legislation.gov.uk/uksi/2017/524), [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), [S.I. 2019/734](https://www.legislation.gov.uk/uksi/2019/734), [S.I. 2020/764](https://www.legislation.gov.uk/uksi/2020/764) and [S.I. 2020/1534](https://www.legislation.gov.uk/uksi/2020/1534).
+
+[^f00003]: Footnote: [S.I. 2024/174](https://www.legislation.gov.uk/uksi/2024/174).

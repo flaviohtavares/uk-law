@@ -1,0 +1,85 @@
+---
+title: The Swansea-Manchester Trunk Road A483 (Improvement at Boundary Terrace Llandrindod Wells) Order 1987
+id: uksi/1987/1470
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-08-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/1470
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/1470/pdfs/uksi_19871470_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/1470/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Swansea-Manchester Trunk Road A483 (Improvement at Boundary Terrace Llandrindod Wells) Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 1470
+
+HIGHWAYS, ENGLAND AND WALES
+
+The Swansea-Manchester Trunk Road A483 (Improvement at Boundary Terrace Llandrindod Wells) Order 1987
+
+Made
+
+12th August 1987
+
+Coming into force
+
+25th September 1987
+
+The Secretary of State for Wales makes this Order in exercise of the powers conferred upon him by sections 10, 12 and 41 of the Highways Act 1980[^f00001] and of all other enabling powers:
+
+**1.** This Order shall come into force on the 25th September 1987 and may be cited as the Swansea-Manchester Trunk Road A483 (Improvement at Boundary Terrace Llandrindod Wells) Order 1987.
+
+**2.** The new highway which the Secretary of State proposes to construct along the route described in Schedule 1 to this Order shall become a trunk road as from the date when this Order comes into force.
+
+**3.** The centre line of the new trunk road is indicated by a heavy black line on the deposited plan.
+
+**4.** The Secretary of State for Wales directs as respects any part of a highway which crosses the route of the new trunk road that —
+
+- (a) where the highway is a highway maintainable at the public expense by a local highway authority, the part in question shall be maintained by that authority, and
+- (b) where the highway is not a highway so maintainable and is not maintainable under a special enactment or by reason of tenure, enclosure or prescription, the Secretary of State shall be under no duty to maintain the part in question,
+
+until, in either case, a date to be specified in a notice given by the Secretary of State to the highway authority for that highway. The date specified will not be later than the date on which the relevant route is opened for the purposes of through traffic.
+
+**5.** The length of trunk road described in Schedule 2 to this Order and shown by broad striped hatching on the deposited plan shall cease to be a trunk road and shall be classified as a classified road as from the date on which the Secretary of State notifies the County Council of Powys that the new trunk road is open for through traffic.
+
+**6.** In this Order —
+
+(1) All measurements of distance are measured along the route of the relevant highway.
+
+(2)
+
+- (i) “classified road” as a classification for a highway means, that the highway is not a principal road for the purposes of enactments or instruments which refer to highways classified as principal roads but is a classified road for the purpose of every enactment and instrument which refers to highways classified by the Secretary of State and which does not specifically refer to their classification as principal roads:
+- (ii) “the deposited plan” means the plan numbered HA10/2-WO19 marked “The Swansea-Manchester Trunk Road A483 (Improvement at Boundary Terrace, Llandrindod Wells) Order 1987” signed by authority of the Secretary of State for Wales and deposited at the Welsh Office Repository, Curran Embankment, Cardiff;
+- (iii) “the new trunk road” means the highway mentioned in Article 2 of this Order;
+- (iv) “principal road” as a classification for a highway, means that the highway is a principal road for the purposes of enactments and instruments which refer to highways classified as principal roads and is also classified for the purpose of every other enactment and instrument which refers to highways classified by the Secretary of State;
+- (v) “the trunk road” means the Swansea-Manchester Trunk Road (A483).
+
+Signed by Authority of the Secretary of State for Wales
+
+G. Mercer
+
+Director of Highways Welsh Office
+
+12th August 1987
+
+## SCHEDULE 1 — ROUTE OF THE NEW TRUNK ROAD
+
+The route of the new trunk road is a route at Llandrindod Wells in the County of Powys about 455 metres in length commencing at a point about 10 metres south-east of the property known as No. 2 Maple Terrace, Tremont Road and running in a general north-easterly direction to a point about 130 metres south-west of the access from the trunk road to the property known as Werngoch.
+
+## SCHEDULE 2 — LENGTH OF TRUNK ROAD CEASING TO BE A TRUNK ROAD
+
+The length of trunk road ceasing to be a trunk road is that length of the trunk road about 480 metres in length which is situated between the property known as No. 2 Maple Terrace, Tremont Road and a point about 130 metres south-west of the access from the trunk road to the property known as Werngoch.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).

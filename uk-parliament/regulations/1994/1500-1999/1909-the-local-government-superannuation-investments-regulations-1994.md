@@ -1,0 +1,97 @@
+---
+title: The Local Government Superannuation (Investments) Regulations 1994
+id: uksi/1994/1909
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-07-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/1909
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/1909/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government Superannuation (Investments) Regulations 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 1909
+
+PENSIONS
+
+The Local Government Superannuation (Investments) Regulations 1994
+
+Made
+
+19th July 1994
+
+Laid before Parliament
+
+27th July 1994
+
+Coming into force
+
+17th August 1994
+
+The Secretary of State, in exercise of the powers conferred on him by section 7 of the Superannuation Act 1972[^f00001] and of all other powers enabling him in that behalf, after consultation with such associations of local authorities as appeared to him to be concerned, the local authorities with whom consultation appeared to him to be desirable and such representatives of other persons likely to be affected by the Regulations as appeared to him to be appropriate, hereby makes the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Local Government Superannuation (Investments) Regulations 1994 and shall come into force on 17th August 1994.
+
+## 2. Use and investment of superannuation fund’s moneys
+
+Regulation P3 of the Local Government Superannuation Regulations 1986[^f00002] shall be amended—
+
+- (a) by adding at the end of paragraph (2) the words
+
+  > and
+  >
+  > - (e) entering as a limited partner into a partnership.
+
+  ;
+- (b) by adding at the end of paragraph (4) the words
+
+  > or
+  >
+  > - (g) contribute to a partnership so as to cause the total value of contributions by the authority to that partnership to exceed 2% of the value at the time of all investments of fund moneys, or so as to cause the total value of all contributions by the authority to such partnerships to exceed 5% of the value at the time of all investments of fund moneys.
+
+  ; and
+- (c) in paragraph (10)—
+  - (i) by inserting after the definition of “investment manager” the following definition—
+
+    > - “limited partner” means a person who is not liable for the debts or obligations of a partnership beyond the amount contributed at the time of entering into that partnership;
+
+    ; and
+  - (ii) by inserting after the definition of “listed securities” the following definition—
+
+    > - “partnership” means a partnership whose purpose is to invest in shares in or securities of companies which at the date of purchase by the partnership are normally not quoted on a recognised stock exchange (within the meaning of section 841(1) of the Income and Corporation Taxes Act 1988[^f00003]).
+
+    .
+
+Signed by authority of the Secretary of State
+
+David Curry
+
+Minister of State,
+
+Department of the Environment
+
+19th July 1994
+
+(This note is not part of the Regulations)
+
+These Regulations amend regulation P3 of the Local Government Superannuation Regulations 1986 (use and investment of local government superannuation fund’s moneys). They permit local authorities, as part of the investment of fund moneys, to enter as limited partners into partnerships so as to invest in shares and securities not quoted on a stock exchange, subject to a limit of 2 per cent. of the value of the superannuation fund being contributed to any one partnership and 5 per cent. to all such partnerships.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^f00002]: Footnote: S.I. [1986/24](https://www.legislation.gov.uk/uksi/1986/24); relevant amending instruments are S.I. [1989/371](https://www.legislation.gov.uk/uksi/1989/371), [1989/2110](https://www.legislation.gov.uk/uksi/1989/2110), [1990/2480](https://www.legislation.gov.uk/uksi/1990/2480), [1993/366](https://www.legislation.gov.uk/uksi/1993/366), [1993/1848](https://www.legislation.gov.uk/uksi/1993/1848).
+
+[^f00003]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).

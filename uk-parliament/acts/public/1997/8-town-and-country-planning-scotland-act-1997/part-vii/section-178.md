@@ -1,0 +1,33 @@
+---
+title: Town and Country Planning (Scotland) Act 1997, section 178
+act: Town and Country Planning (Scotland) Act 1997
+section: '178'
+status: revised-with-pending-changes
+text_date: '2026-09-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1997/8/section/178
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Town and Country Planning (Scotland) Act 1997, section 178
+
+> **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
+>
+> Extent: England, Wales, Scotland.
+
+## 178. Rights of entry: supplementary provisions.
+
+*Extent: S*
+
+(1) Any power conferred under or by virtue of section 176 or 177 to enter land (referred to in this section as “**a right of entry**”) shall be construed as including power to take samples from any tree and samples of the soil.
+
+(2) A person authorised to enter land in the exercise of a right of entry—
+
+- (a) shall, if so required, produce evidence of his authority and state the purpose of his entry before so entering,
+- (b) may take with him such other persons as may be necessary, and
+- (c) on leaving the land shall, if the owner or occupier is not then present, leave it as effectively secured against trespassers as he found it.
+
+(3) Any person who wilfully obstructs a person acting in the exercise of a right of entry shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) If any damage is caused to land or moveable property in the exercise of a right of entry, compensation may be recovered by any person suffering the damage from the authority who gave the written authority for the entry or, as the case may be, the Secretary of State.

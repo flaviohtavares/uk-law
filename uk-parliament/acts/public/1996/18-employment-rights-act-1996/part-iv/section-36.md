@@ -1,0 +1,61 @@
+---
+title: Employment Rights Act 1996, section 36
+act: Employment Rights Act 1996
+section: '36'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1996/18/section/36
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employment Rights Act 1996, section 36
+
+> **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 36. Protected shop workers and betting workers.[^c20379561]
+
+*Extent: E+W+S*
+
+(1) Subject to subsection (5), a shop worker or betting worker is to be regarded as “protected” for the purposes of any provision of this Act if (and only if) subsection (2) or (3) applies to him.
+
+(2) This subsection applies to a shop worker or betting worker if—
+
+- (a) on the day before the relevant commencement date he was employed as a shop worker or a betting worker but not to work only on Sunday,
+- (b) he has been continuously employed during the period beginning with that day and ending with the day which, in relation to the provision concerned, is the appropriate date, and
+- (c) throughout that period, or throughout every part of it during which his relations with his employer were governed by a contract of employment, he was a shop worker or a betting worker.
+
+(3) This subsection applies to any shop worker or betting worker whose contract of employment is such that under it he—
+
+- (a) is not, and may not be, required to work on Sunday, and
+- (b) could not be so required even if the provisions of this Part were disregarded.
+
+(4) Where on the day before the relevant commencement date an employee’s relations with his employer had ceased to be governed by a contract of employment, he shall be regarded as satisfying subsection (2)(a) if—
+
+- (a) that day fell in a week which counts as a period of employment with that employer under section 212(2) or (3) or under regulations under section 219, and
+- (b) on the last day before the relevant commencement date on which his relations with his employer were governed by a contract of employment, the employee was employed as a shop worker or a betting worker but not to work only on Sunday.
+
+(5) A shop worker is not a protected shop worker, and a betting worker is not a protected betting worker, if—
+
+- (a) he has given his employer an opting-in notice on or after the relevant commencement date, and
+- (b) after giving the notice, he has expressly agreed with his employer to do shop work, or betting work, on Sunday or on a particular Sunday.
+
+(6) In this Act “opting-in notice”, in relation to a shop worker or a betting worker, means written notice, signed and dated by the shop worker or betting worker, in which the shop worker or betting worker expressly states that he wishes to work on Sunday or that he does not object to Sunday working.
+
+(7) Subject to subsection (8),[^c20054111] in this Act “**the relevant commencement date**” means—
+
+- (a) in relation to a shop worker, 26th August 1994, and
+- (b) in relation to a betting worker, 3rd January 1995.
+
+(8)[^c20054151] In any provision of this Act which applies to Scotland by virtue of section 1(5) of the Sunday Working (Scotland) Act 2003 (extension to Scotland of provisions which refer to shop workers and betting workers), “ **the relevant commencement date** ” means, in relation to Scotland, the date on which that section came into force.
+
+## Annotations
+
+[^c20379561]: Extent: S. 36, which previously extended to England and Wales only, extends to England and Wales and Scotland from 6.4.2004 by virtue of the amendment to s. 244(2) by [Sunday Working (Scotland) Act 2003 (c. 18)](https://www.legislation.gov.uk/ukpga/2003/18), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2003/18/section/1/5), [3](https://www.legislation.gov.uk/ukpga/2003/18/section/3); [S.I. 2004/958](https://www.legislation.gov.uk/uksi/2004/958), [art. 2](https://www.legislation.gov.uk/uksi/2004/958/article/2)
+
+[^c20054111]: Textual amendment: Words in s. 36(7) inserted (6.4.2004) by [Sunday Working (Scotland) Act 2003 (c. 18)](https://www.legislation.gov.uk/ukpga/2003/18), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2003/18/section/1/2/a); [S.I. 2004/958](https://www.legislation.gov.uk/uksi/2004/958), [art. 2](https://www.legislation.gov.uk/uksi/2004/958/article/2)
+
+[^c20054151]: Textual amendment: S. 36(8) added (6.4.2004) by [Sunday Working (Scotland) Act 2003 (c. 18)](https://www.legislation.gov.uk/ukpga/2003/18), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2003/18/section/1/2/b); [S.I. 2004/958](https://www.legislation.gov.uk/uksi/2004/958), [art. 2](https://www.legislation.gov.uk/uksi/2004/958/article/2)

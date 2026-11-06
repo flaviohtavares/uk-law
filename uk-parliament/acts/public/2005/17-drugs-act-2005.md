@@ -1,0 +1,821 @@
+---
+title: Drugs Act 2005
+id: ukpga/2005/17
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2005-04-07'
+text_date: '2020-12-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/17
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2005/17/pdfs/ukpgaen_20050017_en.pdf
+- http://www.legislation.gov.uk/ukpga/2005/17/pdfs/ukpga_20050017_en.pdf
+- http://www.legislation.gov.uk/ukpga/2005/17/data.pdf
+pending_changes: 19
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Drugs Act 2005
+
+> **Warning: changes not yet applied to this text (19).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Drugs Act 2005
+
+2005 c. 17
+
+An Act to make provision in connection with controlled drugs and for the making of orders to supplement anti-social behaviour orders in cases where behaviour is affected by drug misuse or other prescribed factors.
+
+\[7th April 2005\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part 1 — Supply of controlled drugs
+
+*Extent: E+W*
+
+### 1. Aggravated supply of controlled drug[^key-7d290269a3e499f352b5572931ac26f9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Proof of intention to supply a controlled drug[^key-3f6c79f0f244a36fefd50ade9bb0fdc2]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Police powers relating to drugs
+
+*Extent: E+W*
+
+### 3. Drug offence searches: England and Wales[^key-5feac513d517ff0016188675686bd662]
+
+(1) Section 55 of the Police and Criminal Evidence Act 1984 (c. 60) (intimate searches) is amended as follows.
+
+(2) After subsection (3) insert—
+
+> (3A) A drug offence search shall not be carried out unless the appropriate consent has been given in writing.
+>
+> (3B) Where it is proposed that a drug offence search be carried out, an appropriate officer shall inform the person who is to be subject to it—
+>
+> - (a) of the giving of the authorisation for it; and
+> - (b) of the grounds for giving the authorisation.
+
+(3) After subsection (10) insert—
+
+> (10A) If the intimate search is a drug offence search, the custody record relating to that person shall also state—
+>
+> - (a) the authorisation by virtue of which the search was carried out;
+> - (b) the grounds for giving the authorisation; and
+> - (c) the fact that the appropriate consent was given.
+
+(4) In subsection (11), for “subsection (10)” substitute “ subsections (10) and (10A) ”.
+
+(5) After subsection (13) insert—
+
+> (13A) Where the appropriate consent to a drug offence search of any person was refused without good cause, in any proceedings against that person for an offence—
+>
+> - (a) the court, in determining whether there is a case to answer;
+> - (b) a judge, in deciding whether to grant an application made by the accused under paragraph 2 of Schedule 3 to the Crime and Disorder Act 1998 (applications for dismissal); and
+> - (c) the court or jury, in determining whether that person is guilty of the offence charged,
+>
+> may draw such inferences from the refusal as appear proper.
+
+(6) In subsection (17) at the appropriate place insert—
+
+> “**appropriate officer**” means—
+>
+> - (a) a constable,
+> - (b) a person who is designated as a detention officer in pursuance of section 38 of the Police Reform Act 2002 if his designation applies paragraph 33D of Schedule 4 to that Act, or
+> - (c) a person who is designated as a staff custody officer in pursuance of section 38 of that Act if his designation applies paragraph 35C of Schedule 4 to that Act;
+
+.
+
+### 4. Drug offence searches: Northern Ireland[^key-7c3541dc16773f517f738f314a9e302d]
+
+(1) Article 56 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341) (intimate searches) is amended as follows.
+
+(2) After paragraph (3) insert—
+
+> (3A) A drug offence search shall not be carried out unless the appropriate consent has been given in writing.
+>
+> (3B) Where it is proposed that a drug offence search be carried out, a constable shall inform the person who is to be subject to it—
+>
+> - (a) of the giving of the authorisation for it; and
+> - (b) of the grounds for giving the authorisation.
+
+(3) After paragraph (10) insert—
+
+> (10A) If the intimate search is a drug offence search, the custody record relating to that person shall also state—
+>
+> - (a) the authorisation by virtue of which the search was carried out;
+> - (b) the grounds for giving the authorisation; and
+> - (c) the fact that the appropriate consent was given.
+
+(4) In paragraph (11), for “paragraph (10)” substitute “ paragraphs (10) and (10A) ”.
+
+(5) After paragraph (13) insert—
+
+> (13A) Where the appropriate consent to a drug offence search of any person was refused without good cause, in any proceedings against that person for an offence—
+>
+> - (a) the court, in determining whether to commit the accused for trial or whether there is a case to answer;
+> - (b) a judge, in deciding whether to grant an application made by the accused under—
+>   - (i) Article 5 of the Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988 (application for dismissal of charges where a case of fraud has been transferred from a magistrates' court to the Crown Court under Article 3 of that Order); or
+>   - (ii) paragraph 4 of Schedule 1 to the Children's Evidence (Northern Ireland) Order 1995 (application for dismissal of charge of violent or sexual offence involving child in respect of which notice of transfer has been given under Article 4 of that Order); and
+> - (c) the court or jury, in determining whether that person is guilty of the offence charged,
+>
+> may draw such inferences from the refusal as appear proper.
+
+### 5. X-rays and ultrasound scans: England and Wales[^key-a7e602834ffc79e57d22da755ab31876]
+
+(1) After section 55 (intimate searches) of the Police and Criminal Evidence Act 1984 (c. 60) insert—
+
+> **55A. X-rays and ultrasound scans**
+>
+> (1) If an officer of at least the rank of inspector has reasonable grounds for believing that a person who has been arrested for an offence and is in police detention—
+>
+> - (a) may have swallowed a Class A drug, and
+> - (b) was in possession of it with the appropriate criminal intent before his arrest,
+>
+> the officer may authorise that an x-ray is taken of the person or an ultrasound scan is carried out on the person (or both).
+>
+> (2) An x-ray must not be taken of a person and an ultrasound scan must not be carried out on him unless the appropriate consent has been given in writing.
+>
+> (3) If it is proposed that an x-ray is taken or an ultrasound scan is carried out, an appropriate officer must inform the person who is to be subject to it—
+>
+> - (a) of the giving of the authorisation for it, and
+> - (b) of the grounds for giving the authorisation.
+>
+> (4) An x-ray may be taken or an ultrasound scan carried out only by a suitably qualified person and only at—
+>
+> - (a) a hospital,
+> - (b) a registered medical practitioner's surgery, or
+> - (c) some other place used for medical purposes.
+>
+> (5) The custody record of the person must also state—
+>
+> - (a) the authorisation by virtue of which the x-ray was taken or the ultrasound scan was carried out,
+> - (b) the grounds for giving the authorisation, and
+> - (c) the fact that the appropriate consent was given.
+>
+> (6) The information required to be recorded by subsection (5) must be recorded as soon as practicable after the x-ray has been taken or ultrasound scan carried out (as the case may be).
+>
+> (7) Every annual report—
+>
+> - (a) under section 22 of the Police Act 1996, or
+> - (b) made by the Commissioner of Police of the Metropolis,
+>
+> must contain information about x-rays which have been taken and ultrasound scans which have been carried out under this section in the area to which the report relates during the period to which it relates.
+>
+> (8) The information about such x-rays and ultrasound scans must be presented separately and must include—
+>
+> - (a) the total number of x-rays;
+> - (b) the total number of ultrasound scans;
+> - (c) the results of the x-rays;
+> - (d) the results of the ultrasound scans.
+>
+> (9) If the appropriate consent to an x-ray or ultrasound scan of any person is refused without good cause, in any proceedings against that person for an offence—
+>
+> - (a) the court, in determining whether there is a case to answer,
+> - (b) a judge, in deciding whether to grant an application made by the accused under paragraph 2 of Schedule 3 to the Crime and Disorder Act 1998 (applications for dismissal), and
+> - (c) the court or jury, in determining whether that person is guilty of the offence charged,
+>
+> may draw such inferences from the refusal as appear proper.
+>
+> (10) In this section “**the appropriate criminal intent**”, “**appropriate officer**”, “**Class A drug**” and “**suitably qualified person**” have the same meanings as in section 55 above.
+
+(2) In Schedule 4 to the Police Reform Act 2002 (c. 30)—
+
+- (a) after paragraph 33C (inserted by paragraph 7 of Schedule 9 to the Serious Organised Crime and Police Act 2005 (c. 15)) insert—
+
+  > **33D.**
+  >
+  > Where a designation applies this paragraph to any person, he is authorised to carry out the duty under—
+  >
+  > - (a) section 55 of the Police and Criminal Evidence Act 1984 of informing a person who is to be subject to an intimate search under that section of the matters of which he is required to be informed in pursuance of subsection (3B) of that section;
+  > - (b) section 55A of that Act of informing a person who is to be subject to x-ray or ultrasound (as the case may be) under that section of the matters of which he is required to be informed in pursuance of subsection (3) of that section.
+
+  ;
+- (b)[^key-ad53a65b71a37832c29d927a3b9469ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. X-rays and ultrasound scans: Northern Ireland[^key-907be0958d31bb1f50ae3fd84e87d42e]
+
+After Article 56 (intimate searches) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341) insert—
+
+> **56A. X-rays and ultrasound scans**
+>
+> (1) If an officer of at least the rank of superintendent has reasonable grounds for believing that a person who has been arrested for an offence and is in police detention—
+>
+> - (a) may have swallowed a Class A drug, and
+> - (b) was in possession of it with the appropriate criminal intent before his arrest,
+>
+> the officer may authorise that an x-ray is taken of the person or an ultrasound scan is carried out on the person (or both).
+>
+> (2) An x-ray must not be taken of a person and an ultrasound scan must not be carried out on him unless the appropriate consent has been given in writing.
+>
+> (3) If it is proposed that an x-ray is taken or an ultrasound scan is carried out, a constable must inform the person who is to be subject to it—
+>
+> - (a) of the giving of the authorisation for it, and
+> - (b) of the grounds for giving the authorisation.
+>
+> (4) An x-ray may be taken or an ultrasound scan carried out only by a suitably qualified person and only at—
+>
+> - (a) a hospital,
+> - (b) a registered medical practitioner's surgery, or
+> - (c) some other place used for medical purposes.
+>
+> (5) The custody record of the person must also state—
+>
+> - (a) the authorisation by virtue of which the x-ray was taken or the ultrasound scan was carried out,
+> - (b) the grounds for giving the authorisation, and
+> - (c) the fact that the appropriate consent was given.
+>
+> (6) The information required to be recorded by subsection (5) must be recorded as soon as practicable after the x-ray has been taken or ultrasound scan carried out (as the case may be).
+>
+> (7) Every annual report under section 58 of the Police (Northern Ireland) Act 2000 must contain information about x-rays which have been taken and ultrasound scans which have been carried out under this Article during the period to which it relates.
+>
+> (8) The information about such x-rays and ultrasound scans must be presented separately and must include—
+>
+> - (a) the total number of x-rays;
+> - (b) the total number of ultrasound scans;
+> - (c) the results of the x-rays;
+> - (d) the results of the ultrasound scans.
+>
+> (9) If the appropriate consent to an x-ray or ultrasound scan of any person is refused without good cause, in any proceedings against that person for an offence—
+>
+> - (a) the court, in determining whether to commit the accused for trial or whether there is a case to answer,
+> - (b) a judge, in deciding whether to grant an application made by the accused under—
+>   - (i) Article 5 of the Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988 (application for dismissal of charges where a case of fraud has been transferred from a magistrates' court to the Crown Court under Article 3 of that Order), or
+>   - (ii) paragraph 4 of Schedule 1 to the Children's Evidence (Northern Ireland) Order 1995 (application for dismissal of charge of violent or sexual offence involving child in respect of which notice of transfer has been given under Article 4 of that Order), and
+> - (c) the court or jury, in determining whether that person is guilty of the offence charged,
+>
+> may draw such inferences from the refusal as appear proper.
+>
+> (10) In this Article “**the appropriate criminal intent**”, “**Class A drug**” and “**suitably qualified person**” have the same meanings as in Article 56 above.
+
+### 7. Testing for presence of Class A drugs[^key-9862c5d422f66eb23965e41740f61bd0]
+
+(1) Section 63B of the Police and Criminal Evidence Act 1984 (c. 60) (“PACE”) (testing for presence of Class A drugs) is amended in accordance with subsections (2) to (12).
+
+(2) In subsection (1) for “the following conditions are met” substitute
+
+> —
+>
+> - (a) either the arrest condition or the charge condition is met;
+> - (b) both the age condition and the request condition are met; and
+> - (c) the notification condition is met in relation to the arrest condition, the charge condition or the age condition (as the case may be).
+
+(3) After subsection (1) insert—
+
+> (1A) The arrest condition is that the person concerned has been arrested for an offence but has not been charged with that offence and either—
+>
+> - (a) the offence is a trigger offence; or
+> - (b) a police officer of at least the rank of inspector has reasonable grounds for suspecting that the misuse by that person of a specified Class A drug caused or contributed to the offence and has authorised the sample to be taken.
+
+(4) In subsection (2), for “The first condition is” substitute “ The charge condition is either ”.
+
+(5) For subsection (3) substitute—
+
+> (3) The age condition is—
+>
+> - (a) if the arrest condition is met, that the person concerned has attained the age of 18;
+> - (b) if the charge condition is met, that he has attained the age of 14.
+
+(6) In subsection (4), for “third” substitute “ request ”.
+
+(7) After subsection (4) insert—
+
+> (4A) The notification condition is that—
+>
+> - (a) the relevant chief officer has been notified by the Secretary of State that appropriate arrangements have been made for the police area as a whole, or for the particular police station, in which the person is in police detention, and
+> - (b) the notice has not been withdrawn.
+>
+> (4B) For the purposes of subsection (4A) above, appropriate arrangements are arrangements for the taking of samples under this section from whichever of the following is specified in the notification—
+>
+> - (a) persons in respect of whom the arrest condition is met;
+> - (b) persons in respect of whom the charge condition is met;
+> - (c) persons who have not attained the age of 18.
+
+(8) In subsection (5)(b) after “subsection” insert “ (1A)(b) or ”.
+
+(9) After subsection (5A) insert—
+
+> (5B) If a sample is taken under this section from a person in respect of whom the arrest condition is met no other sample may be taken from him under this section during the same continuous period of detention but—
+>
+> - (a) if the charge condition is also met in respect of him at any time during that period, the sample must be treated as a sample taken by virtue of the fact that the charge condition is met;
+> - (b) the fact that the sample is to be so treated must be recorded in the person's custody record.
+>
+> (5C) Despite subsection (1)(a) above, a sample may be taken from a person under this section if—
+>
+> - (a) he was arrested for an offence (the first offence),
+> - (b) the arrest condition is met but the charge condition is not met,
+> - (c) before a sample is taken by virtue of subsection (1) above he would (but for his arrest as mentioned in paragraph (d) below) be required to be released from police detention,
+> - (d) he continues to be in police detention by virtue of his having been arrested for an offence not falling within subsection (1A) above, and
+> - (e) the sample is taken before the end of the period of 24 hours starting with the time when his detention by virtue of his arrest for the first offence began.
+>
+> (5D) A sample must not be taken from a person under this section if he is detained in a police station unless he has been brought before the custody officer.
+
+(10) For subsection (6A) substitute—
+
+> (6A) The Secretary of State may by order made by statutory instrument amend—
+>
+> - (a) paragraph (a) of subsection (3) above, by substituting for the age for the time being specified a different age specified in the order, or different ages so specified for different police areas so specified;
+> - (b) paragraph (b) of that subsection, by substituting for the age for the time being specified a different age specified in the order.
+
+(11) In subsection (7), after paragraph (a) insert—
+
+> - (aa) for the purpose of informing any decision about the giving of a conditional caution under Part 3 of the Criminal Justice Act 2003 to the person concerned;
+
+.
+
+(12) Subsection (9) is omitted.
+
+(13) On the day this section comes into force the notification condition must be treated as being met—
+
+- (a) for the purposes of the charge condition in relation to a police area, if subsection (2) of section 63B of PACE is in force immediately before that day in relation to the police area;
+- (b) for the purposes of the age condition in relation to a police area or police station, if before that day notification was given under subsection (9) of that section in relation to the police area or police station and was not withdrawn,
+
+and “**age condition**”, “**charge condition**” and “**notification condition**” have the same meaning as in section 63B of PACE (as amended by this section).
+
+(14) Subsection (13) above does not prevent the Secretary of State withdrawing a notification which is treated as made by virtue of that subsection.
+
+### 8. Extended detention of suspected drug offenders[^key-0f50208b7b48625c0be361d32a1c3ef9]
+
+In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected drug offenders)—
+
+- (a) in the title leave out “customs”;
+- (b) after subsection (1) insert—
+
+  > (1A) In subsection (1) the power of a magistrates' court to remand a person to customs detention for a period not exceeding 192 hours includes power to commit the person to the custody of a constable to be detained for such a period.
+
+## Part 3 — Assessment of misuse of drugs
+
+*Extent: E+W*
+
+### 9. Initial assessment following testing for presence of Class A drugs[^key-54445341121763d0d653edf496ce34a9]
+
+(1) This section applies if—
+
+- (a) a sample is taken under section 63B of PACE (testing for presence of Class A drug) from a person detained at a police station,
+- (b) an analysis of the sample reveals that a specified Class A drug may be present in the person's body,
+- (c) the age condition is met, and
+- (d) the notification condition is met.
+
+(2) A police officer may, at any time before the person is released from detention at the police station, require him to attend an initial assessment and remain for its duration.
+
+(3) An initial assessment is an appointment with a suitably qualified person (an “initial assessor”)—
+
+- (a) for the purpose of establishing whether the person is dependent upon or has a propensity to misuse any specified Class A drug,
+- (b) if the initial assessor thinks that he has such a dependency or propensity, for the purpose of establishing whether he might benefit from further assessment, or from assistance or treatment (or both), in connection with the dependency or propensity, and
+- (c) if the initial assessor thinks that he might benefit from such assistance or treatment (or both), for the purpose of providing him with advice, including an explanation of the types of assistance or treatment (or both) which are available.
+
+(4) The age condition is met if the person has attained the age of 18 or such different age as the Secretary of State may by order made by statutory instrument specify for the purposes of this section.
+
+(5) In relation to a person (“A”) who has attained the age of 18, the notification condition is met if—
+
+- (a) the relevant chief officer has been notified by the Secretary of State that arrangements for conducting initial assessments for persons who have attained the age of 18 have been made for persons from whom samples have been taken (under section 63B of PACE) at the police station in which A is detained, and
+- (b) the notice has not been withdrawn.
+
+(6) In relation to a person (“C”) who is of an age which is less than 18, the notification condition is met if—
+
+- (a) the relevant chief officer has been notified by the Secretary of State that arrangements for conducting initial assessments for persons of that age have been made for persons from whom samples have been taken (under section 63B of PACE) at the police station in which C is detained, and
+- (b) the notice has not been withdrawn.
+
+(7) In subsections (5) and (6), “**relevant chief officer**” means the chief officer of police of the police force for the police area in which the police station is situated.
+
+### 10. Follow-up assessment[^key-57b2906e4dd34ac2c1ffa18a2efa64f8]
+
+(1) This section applies if—
+
+- (a) a police officer requires a person to attend an initial assessment and remain for its duration under section 9(2),
+- (b) the age condition is met, and
+- (c) the notification condition is met.
+
+(2) The police officer must, at the same time as he imposes the requirement under section 9(2)—
+
+- (a) require the person to attend a follow-up assessment and remain for its duration, and
+- (b) inform him that the requirement ceases to have effect if he is informed at the initial assessment that he is no longer required to attend the follow-up assessment.
+
+(3) A follow-up assessment is an appointment with a suitably qualified person (a “follow-up assessor”)—
+
+- (a) for any of the purposes of the initial assessment which were not fulfilled at the initial assessment, and
+- (b) if the follow-up assessor thinks it appropriate, for the purpose of drawing up a care plan.
+
+(4) A care plan is a plan which sets out the nature of the assistance or treatment (or both) which may be most appropriate for the person in connection with any dependency upon, or any propensity to misuse, a specified Class A drug which the follow-up assessor thinks that he has.
+
+(5) The age condition is met if the person has attained the age of 18 or such different age as the Secretary of State may by order made by statutory instrument specify for the purposes of this section.
+
+(6) In relation to a person (“A”) who has attained the age of 18, the notification condition is met if—
+
+- (a) the relevant chief officer has been notified by the Secretary of State that arrangements for conducting follow-up assessments for persons who have attained the age of 18 have been made for persons from whom samples have been taken (under section 63B of PACE) at the police station in which A is detained, and
+- (b) the notice has not been withdrawn.
+
+(7) In relation to a person (“C”) who is of an age which is less than 18, the notification condition is met if—
+
+- (a) the relevant chief officer has been notified by the Secretary of State that arrangements for conducting follow-up assessments for persons of that age have been made for persons from whom samples have been taken (under section 63B of PACE) at the police station in which C is detained, and
+- (b) the notice has not been withdrawn.
+
+(8) In subsections (6) and (7), “**relevant chief officer**” means the chief officer of police of the police force for the police area in which the police station is situated.
+
+### 11. Requirements under sections 9 and 10: supplemental[^key-0bdb211992fc196abbe0ffeda1e91e7b][^key-262965cf9cc6691837bd1ce71d97100c]
+
+(1) This section applies if a person is required to attend an initial assessment and remain for its duration by virtue of section 9(2).
+
+(2) A police officer must—
+
+- (a) inform the person of the time when, and the place at which, the initial assessment is to take place, and
+- (b) explain that this information will be confirmed in writing.
+
+(3) A police officer must warn the person that he may be liable to prosecution if he fails without good cause to attend the initial assessment and remain for its duration.
+
+(4) If the person is also required to attend a follow-up assessment and remain for its duration by virtue of section 10(2), a police officer must also warn the person that he may be liable to prosecution if he fails without good cause to attend the follow-up assessment and remain for its duration.
+
+(5) A police officer must give the person notice in writing which—
+
+- (a) confirms that he is required to attend and remain for the duration of an initial assessment or both an initial assessment and a follow-up assessment (as the case may be),
+- (b) confirms the information given in pursuance of subsection (2), and
+- (c) repeats the warning given in pursuance of subsection (3) and any warning given in pursuance of subsection (4).
+
+(6) The duties imposed by subsections (2) to (5) must be discharged before the person is released from detention at the police station.
+
+(7) A record must be made, as part of the person's custody record, of—
+
+- (a) the requirement imposed on him by virtue of section 9(2),
+- (b) any requirement imposed on him by virtue of section 10(2),
+- (c) the information and explanation given to him in pursuance of subsection (2) above,
+- (d) the warning given to him in pursuance of subsection (3) above and any warning given to him in pursuance of subsection (4) above, and
+- (e) the notice given to him in pursuance of subsection (5) above.
+
+(8) If a person is given a notice in pursuance of subsection (5), a police officer or a suitably qualified person may give the person a further notice in writing which—
+
+- (a) informs the person of any change to the time when, or to the place at which, the initial assessment is to take place, and
+- (b) repeats the warning given in pursuance of subsection (3) and any warning given in pursuance of subsection (4).
+
+### 12. Attendance at initial assessment[^key-9bb626c45bd59e490eb8ebb6e7891b38]
+
+(1) This section applies if a person is required to attend an initial assessment and remain for its duration by virtue of section 9(2).
+
+(2) The initial assessor must inform a police officer or a police support officer if the person—
+
+- (a) fails to attend the initial assessment at the specified time and place, or
+- (b) attends the assessment at the specified time and place but fails to remain for its duration.
+
+(3) A person is guilty of an offence if without good cause—
+
+- (a) he fails to attend an initial assessment at the specified time and place, or
+- (b) he attends the assessment at the specified time and place but fails to remain for its duration.
+
+(4) A person who is guilty of an offence under subsection (3) is liable on summary conviction to imprisonment for a term not exceeding 51 weeks, or to a fine not exceeding level 4 on the standard scale, or to both.
+
+(5) If a person fails to attend an initial assessment at the specified time and place, any requirement imposed on him by virtue of section 10(2) ceases to have effect.
+
+(6) In this section—
+
+- (a) the specified time, in relation to the person concerned, is the time specified in the notice given to him in pursuance of subsection (5) of section 11 or, if a further notice specifying a different time has been given to him in pursuance of subsection (8) of that section, the time specified in that notice, and
+- (b) the specified place, in relation to the person concerned, is the place specified in the notice given to him in pursuance of subsection (5) of section 11 or, if a further notice specifying a different place has been given to him in pursuance of subsection (8) of that section, the place specified in that notice.
+
+(7) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (c. 44) (alteration of penalties for summary offences), the reference in subsection (4) to 51 weeks is to be read as a reference to 3 months.
+
+### 13. Arrangements for follow-up assessment[^key-5d8d42709aced80320c64d854035c765]
+
+(1) This section applies if—
+
+- (a) a person attends an initial assessment in pursuance of section 9(2), and
+- (b) he is required to attend a follow-up assessment and remain for its duration by virtue of section 10(2).
+
+(2) If the initial assessor thinks that a follow-up assessment is not appropriate, he must inform the person concerned that he is no longer required to attend the follow-up assessment.
+
+(3) The requirement imposed by virtue of section 10(2) ceases to have effect if the person is informed as mentioned in subsection (2).
+
+(4) If the initial assessor thinks that a follow-up assessment is appropriate, the assessor must—
+
+- (a) inform the person of the time when, and the place at which, the follow-up assessment is to take place, and
+- (b) explain that this information will be confirmed in writing.
+
+(5) The assessor must also warn the person that, if he fails without good cause to attend the follow-up assessment and remain for its duration, he may be liable to prosecution.
+
+(6) The initial assessor must also give the person notice in writing which—
+
+- (a) confirms that he is required to attend and remain for the duration of the follow-up assessment,
+- (b) confirms the information given in pursuance of subsection (4), and
+- (c) repeats the warning given in pursuance of subsection (5).
+
+(7) The duties mentioned in subsections (2) and (4) to (6) must be discharged before the conclusion of the initial assessment.
+
+(8) If a person is given a notice in pursuance of subsection (6), the initial assessor or another suitably qualified person may give the person a further notice in writing which—
+
+- (a) informs the person of any change to the time when, or to the place at which, the follow-up assessment is to take place, and
+- (b) repeats the warning mentioned in subsection (5).
+
+### 14. Attendance at follow-up assessment[^key-771de19d0e691ea5ca310214f6987bf3]
+
+(1) This section applies if a person is required to attend a follow-up assessment and remain for its duration by virtue of section 10(2).
+
+(2) The follow-up assessor must inform a police officer or a police support officer if the person—
+
+- (a) fails to attend the follow-up assessment at the specified time and place, or
+- (b) attends the assessment at the specified time and place but fails to remain for its duration.
+
+(3) A person is guilty of an offence if without good cause—
+
+- (a) he fails to attend a follow-up assessment at the specified time and place, or
+- (b) he attends the assessment at the specified time and place but fails to remain for its duration.
+
+(4) A person who is guilty of an offence under subsection (3) is liable on summary conviction to imprisonment for a term not exceeding 51 weeks, or to a fine not exceeding level 4 on the standard scale, or to both.
+
+(5) In this section—
+
+- (a) the specified time, in relation to the person concerned, is the time specified in the notice given to him in pursuance of subsection (6) of section 13 or, if a further notice specifying a different time has been given to him in pursuance of subsection (8) of that section, the time specified in that notice, and
+- (b) the specified place, in relation to the person concerned, is the place specified in the notice given to him in pursuance of subsection (6) of section 13 or, if a further notice specifying a different place has been given to him in pursuance of subsection (8) of that section, the place specified in that notice.
+
+(6) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (c. 44) (alteration of penalties for summary offences), the reference in subsection (4) to 51 weeks is to be read as a reference to 3 months.
+
+### 15. Disclosure of information about assessments[^key-81cd637f95ecf50365075dc2a9fd9597][^key-e2625ebebe717a05cd558164695702b6]
+
+(1) An initial assessor may disclose information obtained as a result of an initial assessment to any of the following—
+
+- (a) a person who is involved in the conduct of the assessment;
+- (b) a person who is or may be involved in the conduct of any follow-up assessment.
+
+(2) A follow-up assessor may disclose information obtained as a result of a follow-up assessment to a person who is involved in the conduct of the assessment.
+
+(3) Subject to subsections (1) and (2), information obtained as a result of an initial or a follow-up assessment may not be disclosed by any person without the written consent of the person to whom the assessment relates.
+
+(4) Nothing in this section affects the operation of section 17(4).
+
+### 16. Samples submitted for further analysis[^key-ed064fa7c0cb6b97e2abf86b535bc441][^key-28316e1f5e4939ea36d26e9b5cf42fee]
+
+(1) A requirement imposed on a person by virtue of section 9(2) or 10(2) ceases to have effect if at any time before he has fully complied with the requirement—
+
+- (a) a police officer makes arrangements for a further analysis of the sample taken from him as mentioned in section 9(1)(a), and
+- (b) the analysis does not reveal that a specified Class A drug was present in the person's body.
+
+(2) If a requirement ceases to have effect by virtue of subsection (1), a police officer must so inform the person concerned.
+
+(3) Nothing in subsection (1) affects the validity of anything done in connection with the requirement before it ceases to have effect.
+
+(4) If a person fails to attend an assessment which he is required to attend by virtue of section 9(2) or fails to remain for the duration of such an assessment but, at any time after his failure, the requirement ceases to have effect by virtue of subsection (1) above—
+
+- (a) no proceedings for an offence under section 12(3) may be brought against him, and
+- (b) if any such proceedings were commenced before the requirement ceased to have effect, those proceedings must be discontinued.
+
+(5) If a person fails to attend an assessment which he is required to attend by virtue of section 10(2) or fails to remain for the duration of such an assessment but, at any time after his failure, the requirement ceases to have effect by virtue of subsection (1) above—
+
+- (a) no proceedings for an offence under section 14(3) may be brought against him, and
+- (b) if any such proceedings were commenced before the requirement ceased to have effect, those proceedings must be discontinued.
+
+### 17. Relationship with Bail Act 1976 etc.[^key-b55479536a05bf080d9d402857d70cff][^key-b7ac4b07053edf61b1d677777d0cbff8]
+
+(1) A requirement imposed on a person by virtue of section 9(2) or 10(2) ceases to have effect if at any time before he has fully complied with the requirement—
+
+- (a) he is charged with the related offence, and
+- (b) a court imposes on him a condition of bail under section 3(6D) of the Bail Act 1976 (c. 63) (duty to impose condition to undergo relevant assessment etc.).
+
+(2) For the purposes of section 3(6D) of the 1976 Act, a relevant assessment (within the meaning of that Act) is to be treated as having been carried out if—
+
+- (a) a person attends an initial assessment and remains for its duration, and
+- (b) the initial assessor is satisfied that the initial assessment fulfilled the purposes of a relevant assessment.
+
+(3) For the purposes of paragraph 6B(2)(b) of Schedule 1 to the 1976 Act (exceptions to right to bail for drug users in certain areas), a person is to be treated as having undergone a relevant assessment (within the meaning of that Act) if—
+
+- (a) the person attends an initial assessment and remains for its duration, and
+- (b) the initial assessor is satisfied that the initial assessment fulfilled the purposes of a relevant assessment.
+
+(4) An initial assessor may disclose information relating to an initial assessment for the purpose of enabling a court considering an application for bail by the person concerned to determine whether subsection (2) or (3) applies.
+
+(5) Nothing in subsection (1) affects—
+
+- (a) the validity of anything done in connection with the requirement before it ceases to have effect, or
+- (b) any liability which the person may have for an offence under section 12(3) or 14(3) committed before the requirement ceases to have effect.
+
+(6) In subsection (1), “the related offence” is the offence in respect of which the condition specified in subsection (1A) or (2) of section 63B of PACE is satisfied in relation to the taking of the sample mentioned in section 9(1)(a) of this Act.
+
+### 18. Orders under this Part and guidance[^key-3fab3340eac8390ed917f2c1b16ea5c5]
+
+(1) A statutory instrument containing an order under section 9(4) or 10(5) must not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(2) Any such order may—
+
+- (a) make different provision for different police areas;
+- (b) make such provision as the Secretary of State considers appropriate in connection with requiring persons who have not attained the age of 18 to attend and remain for the duration of an initial assessment or a follow-up assessment (as the case may be), including provision amending this Part.
+
+(3) In exercising any functions conferred by this Part, a police officer and a suitably qualified person must have regard to any guidance issued by the Secretary of State for the purposes of this Part.
+
+### 19. Interpretation[^key-4bf1af966946681285c607ba4d09c08c]
+
+(1) This section applies for the purposes of this Part.
+
+(2) “**Class A drug**” and “**misuse**” have the same meanings as in the Misuse of Drugs Act 1971 (c. 38).
+
+(3) “**Specified**”, in relation to a Class A drug, has the same meaning as in Part 3 of the Criminal Justice and Court Services Act 2000 (c. 43).
+
+(4) “**Initial assessment**” and “**initial assessor**” must be construed in accordance with section 9(3).
+
+(5) “**Follow-up assessment**” and “**follow-up assessor**” must be construed in accordance with section 10(3).
+
+(6) “**Suitably qualified person**” means a person who has such qualifications or experience as are from time to time specified by the Secretary of State for the purposes of this Part.
+
+(7)[^key-3dadfdac6c269bc18a093cf800d9b721] Police support officer” means—
+
+- (a) persons appointed by a chief constable under paragraph 4 of Schedule 2 to the Police Reform and Social Responsibility Act 2011 (civilian staff of police forces outside London), and
+- (b) persons appointed by the Commissioner of Police of the Metropolis under paragraph 1 of Schedule 4 to that Act (civilian staff of metropolitan police force).
+
+(8) “**PACE**” means the Police and Criminal Evidence Act 1984 (c. 60).
+
+## Part 4 — Miscellaneous and general
+
+### 20. Anti-social behaviour orders: intervention orders[^key-d5100f6e00f23cd5baca2fed3200d271]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Inclusion of mushrooms containing psilocin etc. as Class A drugs[^key-1e1601a682b42dde203081231b3e2a95]
+
+*Extent: E+W*
+
+In Part 1 of Schedule 2 to the Misuse of Drugs Act 1971 (c. 38) (Class A drugs), in paragraph 1, insert at the appropriate place— “ Fungus (of any kind) which contains psilocin or an ester of psilocin. ”
+
+### 22. Financial provision
+
+There shall be paid out of money provided by Parliament—
+
+- (a) any expenditure incurred by the Secretary of State by virtue of this Act, and
+- (b) any increase attributable to this Act in the sums payable out of money so provided under any other Act.
+
+### 23. Amendments and repeals[^key-1151ce43c1a1d9a0abb58cd9e1429fa6]
+
+(1)[^key-5078f4b03e06f3f68c85e080c27c042d] Schedule 1 (which contains amendments) has effect.
+
+(2)[^key-4873a484771f7e5ab27d5ce57cdcb0ee] Schedule 2 (which contains repeals) has effect.
+
+### 24. Short title, commencement and extent
+
+(1) This Act may be cited as the Drugs Act 2005.
+
+(2) This section and section 22 come into force on the day on which this Act is passed.
+
+(3) Otherwise, this Act comes into force on such day as the Secretary of State may by order made by statutory instrument appoint.
+
+(4) Different days may be appointed for different purposes.
+
+(5) An order under subsection (3) may make—
+
+- (a) any supplementary, incidental or consequential provision, and
+- (b) any transitory, transitional or saving provision,
+
+as the Secretary of State considers necessary or expedient in connection with the order.
+
+(6) Subject to subsection (7), this Act (except this section and sections 22 and 23) extends to England and Wales only.
+
+(7) So far as it amends or repeals any enactment, this Act has the same extent as the enactment amended or repealed.
+
+SCHEDULES
+
+## SCHEDULE 1 — Amendments
+
+Section 23
+
+### Police and Criminal Evidence Act 1984 (c. 60)
+
+**1.**[^key-0e7738f3c0a1a3dc6166a2234e05cbab] The Police and Criminal Evidence Act 1984 is amended as follows.
+
+**2.**[^key-bc1d1430529f6d43fd917ec9098959da] In section 37 (duties of custody officer before charge), after subsection (8) insert—
+
+> (8A) Subsection (8B) applies if the offence for which the person is arrested is one in relation to which a sample could be taken under section 63B below and the custody officer—
+>
+> - (a) is required in pursuance of subsection (2) above to release the person arrested and decides to release him on bail, or
+> - (b) decides in pursuance of subsection (7)(a) or (b) above to release the person without charge and on bail.
+>
+> (8B) The detention of the person may be continued to enable a sample to be taken under section 63B, but this subsection does not permit a person to be detained for a period of more than 24 hours after the relevant time.
+
+**3.**[^key-7c72bd963ac4435c45bc0741d555b26e] In section 38 (duties of custody officer after charge)—
+
+- (a) in subsection (1)(a) for sub-paragraph (iiia) substitute—
+
+  > - (iiia) in a case where a sample may be taken from the person under section 63B below, the custody officer has reasonable grounds for believing that the detention of the person is necessary to enable the sample to be taken from him;
+
+  ;
+- (b) in subsection (6A), in the definition of “minimum age” for “section 63B(3) below” substitute “ section 63B(3)(b) below ”.
+
+**4.**[^key-45db5bcf2855727b37bf9b6bc8981f7b] In section 63B(7) (purposes for which results of drug tests may be disclosed), after paragraph (c) insert—
+
+> - (ca) for the purpose of an assessment which the person concerned is required to attend by virtue of section 9(2) or 10(2) of the Drugs Act 2005;
+> - (cb) for the purpose of proceedings against the person concerned for an offence under section 12(3) or 14(3) of that Act;
+
+.
+
+### Criminal Justice and Court Services Act 2000 (c. 43)
+
+**5.**[^key-a29ae038a110eeb81c1eb67017e49385] In section 57 of the Criminal Justice and Court Services Act 2000, subsection (5) (power of Secretary of State to extend section 63B of the Police and Criminal Evidence Act 1984 (c. 60) to persons arrested but not charged) is omitted.
+
+### Criminal Justice and Police Act 2001 (c. 16)
+
+**6.**[^key-ea7513ca0d42e08935ff1477ea6febf4] Section 38 of the Criminal Justice and Police Act 2001 (which amends section 8 of the Misuse of Drugs Act 1971 (c. 38) to create an offence of permitting the use of a controlled drug on premises) is omitted.
+
+### Anti-social Behaviour Act 2003 (c. 38)
+
+**7.**[^key-49d694447b5ff72d2c402263d6ab918c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Criminal Justice Act 2003 (c. 44)
+
+**8.**[^key-a2a05c546e7871821afc0a000f62a3ac] In section 5 of the Criminal Justice Act 2003 (drug testing for under-eighteens), subsection (3)(a) is omitted.
+
+## SCHEDULE 2 — Repeals[^key-7fb2431fdaa0db01828e1799c5a69b2c][^key-f48fcf5f3038de9fe68ea43025820bfa]
+
+Section 23
+
+| *Short title and chapter* | *Extent of repeal* |
+| --- | --- |
+| Police and Criminal Evidence Act 1984 (c. 60) | Section 63B(9) |
+| Criminal Justice and Court Services Act 2000 (c. 43) | Section 57(5) |
+| Criminal Justice and Police Act 2001 (c. 16) | Section 38 |
+| Criminal Justice Act 2003 (c. 44) | In section 5(3), paragraph (a) |
+
+## Annotations
+
+[^key-7d290269a3e499f352b5572931ac26f9]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2005/17/section/1) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/2020/17/schedule/29) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-3f6c79f0f244a36fefd50ade9bb0fdc2]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2005/17/section/2) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+
+[^key-5feac513d517ff0016188675686bd662]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/17/section/3) in force at 1.1.2006 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/3053/article/3/b)
+
+[^key-7c3541dc16773f517f738f314a9e302d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2005/17/section/4) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/a)
+
+[^key-a7e602834ffc79e57d22da755ab31876]: Commencement: S. 5 in force at 1.1.2006 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3053/article/3/c)
+
+[^key-ad53a65b71a37832c29d927a3b9469ad]: Textual amendment: [S. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2005/17/section/5/2/b) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+
+[^key-907be0958d31bb1f50ae3fd84e87d42e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/17/section/6) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/b)
+
+[^key-9862c5d422f66eb23965e41740f61bd0]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2005/17/section/7) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/a)
+
+[^key-0f50208b7b48625c0be361d32a1c3ef9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2005/17/section/8) in force at 1.1.2006 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 3(d)](https://www.legislation.gov.uk/uksi/2005/3053/article/3/d)
+
+[^key-54445341121763d0d653edf496ce34a9]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2005/17/section/9) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/b)
+
+[^key-57b2906e4dd34ac2c1ffa18a2efa64f8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2005/17/section/10) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/c)
+
+[^key-0bdb211992fc196abbe0ffeda1e91e7b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2005/17/section/11) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/a)
+
+[^key-262965cf9cc6691837bd1ce71d97100c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2005/17/section/11) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/a)
+
+[^key-9bb626c45bd59e490eb8ebb6e7891b38]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2005/17/section/12) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/c)
+
+[^key-5d8d42709aced80320c64d854035c765]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2005/17/section/13) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/d)
+
+[^key-771de19d0e691ea5ca310214f6987bf3]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2005/17/section/14) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/e)
+
+[^key-81cd637f95ecf50365075dc2a9fd9597]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/17/section/15) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/b)
+
+[^key-e2625ebebe717a05cd558164695702b6]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/17/section/15) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/b)
+
+[^key-ed064fa7c0cb6b97e2abf86b535bc441]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2005/17/section/16) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/c)
+
+[^key-28316e1f5e4939ea36d26e9b5cf42fee]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2005/17/section/16) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/c)
+
+[^key-b55479536a05bf080d9d402857d70cff]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/17/section/17) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/d)
+
+[^key-b7ac4b07053edf61b1d677777d0cbff8]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/17/section/17) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/d)
+
+[^key-3fab3340eac8390ed917f2c1b16ea5c5]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2005/17/section/18) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/d)
+
+[^key-4bf1af966946681285c607ba4d09c08c]: Commencement: S. 19 in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/e)
+
+[^key-3dadfdac6c269bc18a093cf800d9b721]: Textual amendment: [S. 19(7)](https://www.legislation.gov.uk/ukpga/2005/17/section/19/7) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 340](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/340); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/77))
+
+[^key-d5100f6e00f23cd5baca2fed3200d271]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/2005/17/section/20) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
+
+[^key-1e1601a682b42dde203081231b3e2a95]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2005/17/section/21) in force at 18.7.2005 by [S.I. 2005/1650](https://www.legislation.gov.uk/uksi/2005/1650), [art. 2](https://www.legislation.gov.uk/uksi/2005/1650/article/2)
+
+[^key-1151ce43c1a1d9a0abb58cd9e1429fa6]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2005/17/section/23) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+
+[^key-5078f4b03e06f3f68c85e080c27c042d]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2005/17/section/23/1) in force at 1.9.2005 for specified purposes by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/a)
+
+[^key-4873a484771f7e5ab27d5ce57cdcb0ee]: Commencement: [S. 23(2)](https://www.legislation.gov.uk/ukpga/2005/17/section/23/2) in force at 1.9.2005 for specified purposes by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/b)
+
+[^key-0e7738f3c0a1a3dc6166a2234e05cbab]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/1) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+
+[^key-bc1d1430529f6d43fd917ec9098959da]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/2) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+
+[^key-7c72bd963ac4435c45bc0741d555b26e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/3) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+
+[^key-45db5bcf2855727b37bf9b6bc8981f7b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/4) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+
+[^key-a29ae038a110eeb81c1eb67017e49385]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/5) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+
+[^key-ea7513ca0d42e08935ff1477ea6febf4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/6) in force at 1.9.2005 by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/c)
+
+[^key-49d694447b5ff72d2c402263d6ab918c]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/7) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(ff)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/ff)[(viii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/viii) (as renumbered (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(b))
+
+[^key-a2a05c546e7871821afc0a000f62a3ac]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/8) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+
+[^key-7fb2431fdaa0db01828e1799c5a69b2c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/2) in force at 1.9.2005 for specified purposes by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/d)
+
+[^key-f48fcf5f3038de9fe68ea43025820bfa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/2) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)

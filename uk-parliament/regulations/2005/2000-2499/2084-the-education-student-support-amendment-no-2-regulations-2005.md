@@ -1,0 +1,141 @@
+---
+title: The Education (Student Support) (Amendment) (No. 2) Regulations 2005
+id: uksi/2005/2084
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-07-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2084
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2084/pdfs/uksiem_20052084_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2084/pdfs/uksi_20052084_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2084/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Support) (Amendment) (No. 2) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 2084
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Student Support) (Amendment) (No. 2) Regulations 2005
+
+Made
+
+26th July 2005
+
+Laid before Parliament
+
+3rd August 2005
+
+Coming into force
+
+1st September 2005
+
+The Secretary of State for Education and Skills, in exercise of the powers conferred upon her by sections 22, 42(6) and 43(1) of the Teaching and Higher Education Act 1998[^f00001], hereby makes the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Education (Student Support) (Amendment) (No. 2) Regulations 2005 and shall come into force on 1st September 2005.
+
+(2) These Regulations extend to England and Wales.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the 2002 Regulations” means the Education (Student Support) (No. 2) Regulations 2002[^f00002];
+- “the 2005 Regulations” means the Education (Student Support) Regulations 2005[^f00003].
+
+## 3. Amendment of the 2002 Regulations
+
+(1) Paragraph 9 of Schedule 1 to the 2002 Regulations is amended as follows.
+
+(2) The words “or the child of such a national” are omitted.
+
+(3) The word “and” is omitted at the end of sub-paragraph (b).
+
+(4) After sub-paragraph (c) there is inserted—
+
+> - (d) who, where he is a national of the United Kingdom, has a right to be treated no less favourably than a national of another Member State by virtue of having exercised a Community right of free movement; and
+> - (e) who, in a case where his ordinary residence referred to in sub-paragraph (c) was wholly or mainly for the purpose of receiving full time education, was ordinarily resident in the European Economic Area immediately prior to the period of ordinary residence referred to in sub-paragraph (c).
+
+.
+
+## 4. Amendment of the 2005 Regulations
+
+(1) Regulation 18 of the 2005 Regulations is amended as follows.
+
+(2) In paragraph (4)(a), there is substituted for the figure “£114.75” the figure “£148.75”.
+
+(3) In paragraph (4)(b), there is substituted for the figure “£170” the figure “£255”.
+
+(4) In paragraph (7), there is substituted for the definition of “approved childcare provider” the following—
+
+> “approved childcare provider” means a childcare provider approved in accordance with the Tax Credit (New Category of Child Care Provider) Regulations 1999[^f00004] or the Tax Credits (Approval of Child Care Providers) Scheme 2005[^f00005]; and
+
+.
+
+**5.** (1) Paragraph 9 of Schedule 2 to the 2005 Regulations is amended as follows.
+
+(2) The words “or the child of such a national” are omitted.
+
+(3) The word “and” is omitted at the end of sub-paragraph (a).
+
+(4) After sub-paragraph (b) there is inserted—
+
+> - (c) who, where he is a national of the United Kingdom, has a right to be treated no less favourably than a national of another Member State by virtue of having exercised a Community right of free movement; and
+> - (d) who, in a case where his ordinary residence referred to in sub-paragraph (b) was wholly or mainly for the purpose of receiving full time education, was ordinarily resident in the European Economic Area immediately prior to the period of ordinary residence referred to in sub-paragraph (b).
+
+.
+
+**6.** (1) Schedule 5 to the 2005 Regulations is amended as follows.
+
+(2) In paragraph 5(3)—
+
+- (a) the words “, as a result of some event beyond his control,” are omitted; and
+- (b) for “household income” there is substituted “parent’s income”.
+
+(3) In paragraph 5(4), for “as a result of some event beyond his control” there is substituted “as a result of any event”.
+
+Bill Rammell
+
+Minister of State
+
+Department for Education and Skills
+
+26th July 2005
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education (Student Support) (No. 2) Regulations 2002 (the “2002 Regulations”) and the Education (Student Support) Regulations 2005 (the “2005 Regulations”). Those Regulations provide for support for students taking designated higher education courses.
+
+Schedule 1 to the 2002 Regulations sets out the categories of students eligible for student support. These Regulations amend the eligibility criteria in paragraph 9 of Schedule 1. The 2002 Regulations apply to the provision of support to students in relation to academic years beginning on or after 1st September 2003 but before 1st September 2005.
+
+The 2005 Regulations apply in respect of academic years beginning on or after 1st September 2005. Regulation 18 of the 2005 Regulations deals with the award of a childcare grant to eligible students. Regulation 4 of these Regulations amends regulation 18 of the 2005 Regulations so that the maximum weekly amount of the childcare grant is increased and the grant is made available in respect of childcare approved under the Childcare Approval Scheme. Details of the scheme can be viewed at http://www.childcareapprovalscheme.co.uk.
+
+Schedule 2 to the 2005 Regulations sets out the categories of students eligible for student support. These Regulations amend the eligibility criteria in paragraph 9 of Schedule 2.
+
+Schedule 5 to the 2005 Regulations sets out the method for assessing a student’s contribution towards his support. Regulation 6 of these Regulations amends paragraphs 5(3) and 5(4) of Schedule 5 to the 2005 Regulations which set out the circumstances in which income can be re-assessed so that it is no longer necessary for a drop in the parent’s income to be as a result of an event beyond his control. Regulation 6 also amends paragraph 5(3) so that where there is a drop in the parent’s income, it is the parent’s income rather than the household income which may be re-assessed for the current financial year.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); section 22 was amended by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146 and Schedule 11, the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 147 and the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), section 42. Section 42 and section 43 were amended by the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 12.
+
+[^f00002]: Footnote: S.I. [2002/3200](https://www.legislation.gov.uk/uksi/2002/3200); relevant amending instruments are S.I. [2003/3280](https://www.legislation.gov.uk/uksi/2003/3280), S.I. [2004/161](https://www.legislation.gov.uk/uksi/2004/161) and S.I. [2005/1341](https://www.legislation.gov.uk/uksi/2005/1341).
+
+[^f00003]: Footnote: S.I. [2005/52](https://www.legislation.gov.uk/uksi/2005/52), amended by S.I. [2005/1341](https://www.legislation.gov.uk/uksi/2005/1341).
+
+[^f00004]: Footnote: S.I. [1999/3110](https://www.legislation.gov.uk/uksi/1999/3110).
+
+[^f00005]: Footnote: S.I. [2005/93](https://www.legislation.gov.uk/uksi/2005/93).

@@ -1,0 +1,59 @@
+---
+title: Online Safety Act 2023, section 79
+act: Online Safety Act 2023
+section: '79'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/79
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 79
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 79. “Provider pornographic content” and “regulated provider pornographic content”[^key-42cbbf828767e7420ddc4c27ecf8d6e3]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies for the purposes of this Part.
+
+(2) “**Provider pornographic content**”, in relation to an internet service, means pornographic content that is published or displayed on the service by the provider of the service or by a person acting on behalf of the provider, including pornographic content published or displayed on the service by means of—
+
+- (a) software or an automated tool or algorithm applied by the provider or by a person acting on behalf of the provider, or
+- (b) an automated tool or algorithm made available on the service by the provider or by a person acting on behalf of the provider.
+
+(3) “**Regulated provider pornographic content**”, in relation to an internet service, means provider pornographic content other than content within subsection (4) or (5).
+
+(4) Content is within this subsection if it—
+
+- (a) consists only of text, or
+- (b) consists only of text accompanied by—
+  - (i) a GIF which is not itself pornographic content,
+  - (ii) an emoji or other symbol, or
+  - (iii) a combination of content mentioned in sub-paragraphs (i) and (ii).
+
+(5) Content is within this subsection if it consists of a paid-for advertisement (see section 236).
+
+(6) References to pornographic content that is “published or displayed” on a service—
+
+- (a) include, in particular—
+  - (i) references to pornographic content that is only visible or audible to users as a result of interacting with content that is blurred, distorted or obscured (for example, by clicking on such content), but only where the pornographic content is present on the service,
+  - (ii) references to pornographic content that is embedded on the service, and
+  - (iii) references to pornographic content that is generated on the service by means of an automated tool or algorithm in response to a prompt by a user and is only visible or audible to that user (no matter for how short a time);
+- (b) do not include references to pornographic content that appears in search results of a search service or a combined service.
+
+(7) Pornographic content that is user-generated content in relation to an internet service is not to be regarded as provider pornographic content in relation to that service.
+
+(8) In this section—
+
+- “**search results**” has the meaning given by section 57(3);
+- “**user-generated content**” has the meaning given by section 55 (see subsections (3) and (4) of that section).
+
+## Annotations
+
+[^key-42cbbf828767e7420ddc4c27ecf8d6e3]: Commencement: S. 79 in force at Royal Assent, see [s. 240(4)(k)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/k)

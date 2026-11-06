@@ -1,0 +1,45 @@
+---
+title: Corporation Tax Act 2010, section 60
+act: Corporation Tax Act 2010
+section: '60'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/60
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 60
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 60. Meaning of “contribution to the LLP”
+
+*Extent: E+W+S+N.I.*
+
+(1) For the purposes of section 59 the company's contribution to the LLP at any time (“**the relevant time**”) is the sum of amounts A and B.
+
+(2) Amount A is the amount which the company has contributed to the LLP as capital less so much of that amount (if any) as is within subsection (5).
+
+(3) In particular, the company's share of any profits of the LLP is to be included in the amount which the company has contributed to the LLP as capital so far as that share has been added to the LLP's capital.
+
+(4) In subsection (3) the reference to profits is to profits calculated in accordance with generally accepted accounting practice (before any adjustment required or authorised by law in calculating profits for tax purposes).
+
+(5) An amount of capital is within this subsection if it is an amount which the company—
+
+- (a) has previously drawn out or received back,
+- (b) draws out or receives back during the period of 5 years beginning with the relevant time,
+- (c) is or may be entitled to draw out or receive back at any time when it is a member of the LLP, or
+- (d) is or may be entitled to require another person to reimburse to it.
+
+(6) In subsection (5) any reference to drawing out or receiving back an amount is to doing so directly or indirectly but does not include drawing out or receiving back an amount which, because of its being drawn out or received back, is chargeable to tax as profits of a trade.
+
+(7) Amount B is the amount of the company's liability on a winding up of the LLP so far as that amount is not included in amount A.
+
+(8) For the purposes of subsection (7) the amount of the company's liability on a winding up of the LLP is the amount which—
+
+- (a) the company is liable to contribute to the assets of the LLP in the event of the LLP being wound up, and
+- (b) the company remains liable to contribute for the period of at least 5 years beginning with the relevant time (or until the LLP is wound up, if that happens before the end of that period).

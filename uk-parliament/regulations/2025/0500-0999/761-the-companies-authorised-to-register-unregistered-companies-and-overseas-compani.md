@@ -1,0 +1,652 @@
+---
+title: The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025
+id: uksi/2025/761
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-06-24'
+text_date: '2026-01-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2025/761
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/761/pdfs/uksiem_20250761_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/761/pdfs/uksi_20250761_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/761/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025
+
+> Text as at 2026-01-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2025 No. 761
+
+COMPANIES
+
+The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025
+
+Made
+
+24th June 2025
+
+Laid before Parliament
+
+30th June 2025
+
+Coming into force in accordance with regulation 1(3) to (5)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 1042(1), 1043(2), 1048B(2) and (3) and 1292(1)(c) of the Companies Act 2006[^f00001] and section 216(1) of the Economic Crime and Corporate Transparency Act 2023[^f00002].
+
+## Part 1 — Introductory provisions
+
+### 1. Citation, commencement and extent[^key-17e9d3bdbfbe18dafb8cd386637ea313]
+
+(1) These Regulations may be cited as the Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+(3) Subject to paragraphs (4) and (5), these Regulations come into force on 18th November 2025 (when section 167M of the Companies Act 2006 (prohibition on director acting unless ID verified) came into force)[^key-9d4f093dedef431efda1627d70d30bb6].
+
+(4) Paragraphs (5) and (6) of regulation 3 come into force on 18th November 2025 (immediately after section 790LA of the Companies Act 2006 (duty to notify registrar of confirmed persons with significant control) came into force)[^key-a1f11850ad9454124f534f5e05fbe7ba].
+
+(5) The following provisions come into force when section 167G of the Companies Act 2006 (duty to notify registrar of change in directors)[^f00005] comes fully into force—
+
+- (a) regulation 2(2)(c), so far as it inserts paragraphs (2C) to (2F) into regulation 7 of the Companies (Companies Authorised to Register) Regulations 2009 (statement of proposed officers)[^f00006];
+- (b) regulation 3(2)(c) and (d), so far as they insert the following provisions into section 26 of the Companies Act 2006, as applied to unregistered companies by paragraph 1 of Schedule 1 to the Unregistered Companies Regulations 2009 (registrar to be sent copy of company's constitution)[^f00007]—
+  - (i) subsection (1A)(c) to (e);
+  - (ii) subsection (1C)(b);
+  - (iii) subsection (5), so far as it inserts the definition of “permission of a court to act”.
+
+## Part 2 — Amendments to secondary legislation
+
+### 2. Amendments to the Companies (Companies Authorised to Register) Regulations 2009[^key-a8d97230639ae91620b08d478ca35b91][^key-04b64faf1d552ea1d96ffb6c5bac9fbb]
+
+(1)[^key-a8d97230639ae91620b08d478ca35b91] The Companies (Companies Authorised to Register) Regulations 2009 are amended in accordance with this regulation.
+
+(2) In regulation 7 (statement of proposed officers)—
+
+- (a)[^key-a8d97230639ae91620b08d478ca35b91] in paragraph (1) for “particulars of” substitute “information about”;
+- (b)[^key-a8d97230639ae91620b08d478ca35b91] for paragraph (2) substitute—
+
+  > (2) For the required information—
+  >
+  > - (a) in relation to proposed directors, see sections 167J and 167K of the Companies Act 2006;
+  > - (b) in relation to proposed secretaries or joint secretaries, see sections 279J and 279K of that Act.
+
+  ;
+- (c)[^key-04b64faf1d552ea1d96ffb6c5bac9fbb] after paragraph (2A) insert—
+
+  > (2B) The statement under paragraph (1)(a) must, in the case of each individual named as a director—
+  >
+  > - (a) confirm that the individual’s identity is verified within the meaning of section 1110A of the Companies Act 2006 (meaning of “**identity is verified**”), and
+  > - (b) state the individual’s unique identifier[^f00008].
+  >
+  > (2C) The statement under paragraph (1)(a) must also include a statement that no one named as a director is—
+  >
+  > - (a) disqualified under the directors disqualification legislation (see section 159A(2) of the Companies Act 2006 (disqualified person not to be appointed as director)), or
+  > - (b) otherwise ineligible by virtue of any enactment for appointment as a director.
+  >
+  > (2D) Where any of the persons named as directors would be disqualified under the directors disqualification legislation but for the permission of a court to act, the statement must also include a statement to that effect, in respect of each of them, specifying—
+  >
+  > - (a) the person’s name,
+  > - (b) the court by which permission was given, and
+  > - (c) the date on which the permission was given.
+  >
+  > (2E) In paragraph (2D), “**permission of a court to act**” means permission of a court under a provision mentioned in column 2 of the table in section 159A(2) of the Companies Act 2006.
+  >
+  > (2F) Where any of the persons named as directors would be disqualified under the directors disqualification legislation by virtue of section 11A of the Company Directors Disqualification Act [1986 (c. 46)](https://www.legislation.gov.uk/ukpga/1986/46) or article 15A of the Company Directors Disqualification (Northern Ireland) Order 2002 ([S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150) (designated persons under sanctions legislation) but for the authority of a licence of the kind mentioned in that section or article, the statement must also include a statement to that effect, in respect of each of them, specifying—
+  >
+  > - (a) the person’s name, and
+  > - (b) the date on which the licence was issued and by whom it was issued.
+
+  .
+
+(3)[^key-a8d97230639ae91620b08d478ca35b91] After Part 3 (effect of registration) insert—
+
+> **Part 3A — ID verification: further provisions**
+>
+> **23A. Identity verification: exemption on national security grounds etc**
+>
+> (1) The Secretary of State may, by written notice given to a person, provide for the effect listed in paragraph (2) to apply in relation to the person, if satisfied that to do so is necessary—
+>
+> - (a) in the interests of national security, or
+> - (b) for the purposes of preventing or detecting serious crime.
+>
+> (2) The effect for which the notice may provide is that where a statement of proposed officers names the person as a director, regulation 7(2B) does not require a statement under that paragraph to be made in relation to the person.
+>
+> **23B. Identity verification: material unavailable for public inspection**
+>
+> Any statement or other document delivered to the registrar under regulation 7(2B) of these Regulations must not be made available by the registrar for public inspection.
+
+.
+
+### 3. Amendments to the Unregistered Companies Regulations 2009[^key-7228810278cb2336cd55d013a97de5de][^key-9a481eaf0ad8dec76a8ddf14c652b279][^key-5a52c45b92678c8bc3d82af73ab07640]
+
+(1)[^key-7228810278cb2336cd55d013a97de5de] The Unregistered Companies Regulations 2009 are amended in accordance with this regulation.
+
+(2) In paragraph 1 of Schedule 1, in section 26 of the Companies Act 2006 (registrar to be sent copy of company's constitution) as applied to unregistered companies by that paragraph—
+
+- (a)[^key-7228810278cb2336cd55d013a97de5de] for the heading of that section, substitute “Documents to be sent to the registrar on incorporation”;
+- (b)[^key-7228810278cb2336cd55d013a97de5de] for subsection (1) substitute—
+
+  > (1) A company must, not later than 15 days after the date of its incorporation, send to the registrar—
+  >
+  > - (a) a copy of every instrument constituting or regulating the company;
+  > - (b) a statement of the company’s officers, and
+  > - (c) a statement of initial significant control.
+
+  ;
+- (c)[^key-9a481eaf0ad8dec76a8ddf14c652b279] after subsection (1), insert—
+
+  > (1A) The following requirements apply in relation to the statement under subsection (1)(b)—
+  >
+  > - (a) the statement must contain the required information about—
+  >   - (i) any person who is a director or directors of the company, and
+  >   - (ii) any person who is a secretary (or persons who are joint secretaries) of the company;
+  > - (b) the statement must—
+  >   - (i) be accompanied by a statement by the company that each person named as a director, as secretary or as one of joint secretaries has consented to act in the relevant capacity, and
+  >   - (ii) in the case of each individual named as a director—
+  >     - (A) confirm that the individual’s identity is verified within the meaning of section 1110A, and
+  >     - (B) state the individual’s unique identifier;
+  > - (c) the statement must also include a statement that no one named as a director is—
+  >   - (i) disqualified under the directors disqualification legislation (see section 159A(2)), or
+  >   - (ii) otherwise ineligible by virtue of any enactment for appointment as a director;
+  > - (d) where any of the persons named as directors would be disqualified under the directors disqualification legislation but for the permission of a court to act, the statement must also include a statement to that effect, in respect of each of them, specifying—
+  >   - (i) the person’s name,
+  >   - (ii) the court by which permission was given, and
+  >   - (iii) the date on which the permission was given;
+  > - (e) where any of the persons named as directors would be disqualified under the directors disqualification legislation by virtue of section 11A of the Company Directors Disqualification Act [1986 (c. 46)](https://www.legislation.gov.uk/ukpga/1986/46) or article 15A of the Company Directors Disqualification (Northern Ireland) Order 2002 ([S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150) (designated persons under sanctions legislation) but for the authority of a licence of the kind mentioned in that section or article, the statement must also include a statement to that effect, in respect of each of them, specifying—
+  >   - (i) the person’s name, and
+  >   - (ii) the date on which the licence was issued and by whom it was issued.
+  >
+  > (1B) In subsection (1A), for the required information—
+  >
+  > - (a) in relation to directors, see sections 167J and 167K, and
+  > - (b) in relation to secretaries or joint secretaries, see sections 279J and 279K.
+  >
+  > (1C) The following requirements apply in relation to the statement under subsection (1)(c)—
+  >
+  > - (a) the statement must—
+  >   - (i) state whether there is anyone who is either a registrable person or a registrable relevant legal entity in relation to the company, and
+  >   - (ii) include the required particulars of any such person;
+  > - (b) if there is anyone who is a registrable person, or a registrable relevant legal entity, in relation to the company, the statement must also include—
+  >   - (i) a statement that none of them is disqualified under the directors disqualification legislation (see section 159A(2)),
+  >   - (ii) if any of them would be so disqualified but for the permission of a court to act, a statement to that effect, in respect of each of them, specifying—
+  >     - (A) the person’s name,
+  >     - (B) the court by which permission was given,
+  >     - (C) the date on which permission was given, and
+  >   - (iii) if any of them would be so disqualified by virtue of section 11A of the Company Directors Disqualification Act 1986 or article 15A of the Company Directors Disqualification (Northern Ireland) Order 2002 but for the authority of a licence of the kind mentioned in that section or article, a statement to that effect, in respect of each of them, specifying—
+  >     - (A) the person’s name, and
+  >     - (B) the date on which the licence was issued and by whom it was issued;
+  > - (c) if the statement includes required particulars of an individual, it must also contain a statement that those particulars are included with the knowledge of that individual.
+  >
+  > (1D) It is not necessary to include under subsection (1C)(a)(ii) the date on which someone became a registrable person or a registrable relevant legal entity in relation to the company.
+  >
+  > (1E) Where a statement of initial significant control identifies a person who is a registrable person, or a registrable relevant legal entity, in relation to the company—
+  >
+  > - (a) in relation to any person who is a registrable person, the statement may include a statement that the person's identity is verified within the meaning of section 1110A;
+  > - (b) if the option in paragraph (a) is exercised, the statement must also state the individual’s unique identifier;
+  > - (c) if the option in paragraph (a) is not exercised, the registrar must, in writing, direct the registrable person to deliver to the registrar, within the period of 14 days beginning with the date of the direction, a statement—
+  >   - (i) confirming that the person’s identity is verified within the meaning of section 1110A, and
+  >   - (ii) stating the individual’s unique identifier;
+  > - (d) where a direction is given under paragraph (c), the registrar may by further direction extend the period specified in that paragraph by up to 14 days at a time.
+
+  ;
+- (d)[^key-9a481eaf0ad8dec76a8ddf14c652b279] after subsection (4) insert—
+
+  > (5) In this section—
+  >
+  > - “**permission of a court to act**” means permission of a court under a provision mentioned in column 2 of the table in section 159A(2);
+  > - “**registrable person**”—
+  >   - (a) in subsection (1C), has the meaning given by section 790C (see also section 790J);
+  >   - (b) in subsection (1E), has the same meaning as in subsection (1C), except that it does not include a person mentioned in section 790C(12)(a) to (d);
+  > - “**registrable relevant legal entity**” has the meaning given by section 790C (see also section 790J);
+  > - “**required particulars**” has the meaning given by section 790K.
+
+  .
+
+(3)[^key-7228810278cb2336cd55d013a97de5de] For paragraph 6 of Schedule 1 substitute—
+
+> **6.** (1) Sections 167G, 167H and 167J to 167N of the Companies Act 2006 (directors: duties relating to ID verification and notification) apply to unregistered companies, with the following modifications.
+>
+> (2) Read references to a company as references to an unregistered company.
+>
+> (3) In section 167G—
+>
+> - (a) in subsection (3)(c) after “(see section 1110A)” insert “, and a statement of that individual’s unique identifier”;
+> - (b) for subsection (5) substitute—
+>
+>   > (5) Subsection (1)(a) does not require a company, when delivering the documents required under section 26 (documents to be sent to the registrar on incorporation), to give notice in relation to a person named as a director.
+>
+>   .
+>
+> (4) In section 167J—
+>
+> - (a) in subsection (1), omit “(or proposed director)”;
+> - (b) in subsection (2)(b)(iii), after “regulations under section 1088(1)(a) or (b)” insert “, as applied to unregistered companies.”;
+> - (c) omit subsections (5) and (6).
+>
+> (5) In section 167K—
+>
+> - (a) in subsection (1), omit “(or proposed director)”;
+> - (b) omit subsections (2) and (3).
+>
+> (6) In section 167L(1) for “section 167G, 167H or 167I” substitute “section 167G or 167H”.
+
+.
+
+(4)[^key-7228810278cb2336cd55d013a97de5de] For paragraph 8 of Schedule 1 substitute—
+
+> **8.** Sections 279G to 279M of the Companies Act 2006 (notification of information about secretaries) apply to unregistered companies.
+
+.
+
+(5)[^key-5a52c45b92678c8bc3d82af73ab07640] In paragraph 12A of Schedule 1—
+
+- (a) in sub-paragraph (1) before “790K” insert “790I and”;
+- (b) in sub-paragraph (3)―
+  - (i) for “(company’s duty to investigate and obtain information)” substitute “(company's duty to give notices to persons with significant control)”;
+  - (ii) in paragraph (a) for “(9)” substitute “(6)”;
+  - (iii) in paragraph (b) for “(10)” substitute “(7)”;
+- (c) after sub-paragraph (3) insert—
+
+  > (3A) In section 790DA (obtaining information from third parties) omit subsections (7) and (8).
+
+  ;
+- (d) for sub-paragraph (4) substitute—
+
+  > (4) In section 790E (company’s duty to find out about changes in PSC information) omit subsections (5) and (6).
+
+  ;
+- (e) after sub-paragraph (4) insert—
+
+  > (4A) In section 790EA (company’s duty to find out about persons ceasing to be PSCs) omit subsections (5) and (6).
+
+  ;
+
+(6)[^key-5a52c45b92678c8bc3d82af73ab07640] For paragraph 12B of Schedule 1 substitute—
+
+> **12B.** (1) Sections 790LA to 790LD, 790LF, 790LH and 790LJ to 790LT of the Companies Act 2006 (duty to notify registrar of persons with significant control and ID verification) apply to unregistered companies, with the following modifications.
+>
+> (2) Read references to a company as references to an unregistered company.
+>
+> (3) In section 790LA, omit subsections (4) and (5).
+>
+> (4) In section 790LB, after subsection (3) insert—
+>
+> > (3A) If a notice under section 790LA(1) includes a statement under subsection (1) or subsection (2)(b), that statement must also include a statement of the individual’s unique identifier.
+>
+> .
+>
+> (5) For section 790LC(4) substitute—
+>
+> > (4) Nothing in this section requires a company, when delivering the documents required under section 26, to give notice in relation to a person named as a director.
+>
+> .
+>
+> (6) Omit section 790LD(4).
+>
+> (7) For section 790LH(4) and (5) substitute—
+>
+> > (4) A company is not required to give a notice under this section if—
+> >
+> > - (a) it has delivered a statement of initial significant control stating that there is no person who is a registrable person or a registrable relevant legal entity in relation to the company, and
+> > - (b) the company has no cause to believe that at any time since delivering that statement any person has become a registrable person or a registrable relevant legal entity in relation to the company.
+> >
+> > (5) In this section “**statement of initial significant control**” means the statement referred to in section 26(1)(c) (documents to be sent to the registrar on incorporation).
+>
+> .
+>
+> (8) In section 790LJ(1)―
+>
+> - (a) omit “790LE,” and “, 790LG”;
+> - (b) omit “, or regulations under section 790LI,”.
+>
+> (9) In section 790LK(1)―
+>
+> - (a) omit “790LE,” and “, 790LG”;
+> - (b) omit “, or regulations under section 790LI,”;
+> - (c) omit subsection (5).
+>
+> (10) In section 790LL(5) after “section 1088,” insert “as applied to unregistered companies,”.
+>
+> (11) In section 790LM—
+>
+> - (a) for subsection (1) substitute—
+>
+>   > (1) This section applies where—
+>   >
+>   > - (a) the registrar is notified under section 790LA that a person has become a registrable person in relation to a company (“the registrable person”), and
+>   > - (b) the notice does not include a statement under section 790LB(1) or it appears to the registrar that the statement is false.
+>
+>   ;
+> - (b) in subsection (2), after “(see section 1110A)” insert “, and stating the individual’s unique identifier”.
+>
+> (12) In section 790LN―
+>
+> - (a) for subsection (1)(b) substitute—
+>
+>   > - (b) became a registrable person before the day on which section 790LB(1) came fully into force.
+>
+>   ;
+> - (b) in subsection (2), after “(see section 1110A)” insert “, and stating the individual’s unique identifier”;
+> - (c) in subsection (5) for the definition of “the appointed day” substitute—
+>
+>   > - “**the appointed day**” means such day as is appointed in regulations under this section as it applies to registrable persons of companies registered under the Companies Act 2006, except that any reference in those regulations to provisions of company law should be read as references to those provisions as applied to unregistered companies;
+>
+>   ;
+> - (d) omit subsection (6).
+>
+> (13) In section 790LQ(2)(a)—
+>
+> - (a) omit sub-paragraph (i);
+> - (b) in sub-paragraph (ii), omit “, in a case where the person became a registrable person after the incorporation of the company and such a statement was delivered to the registrar”.
+>
+> (14) In section 790LR—
+>
+> - (a) in subsection (2)(a)(i) omit “12B(3) or”;
+> - (b) in subsection (3)(a)—
+>   - (i) omit sub-paragraph (i);
+>   - (ii) in sub-paragraph (ii), omit “, in a case where the entity became a relevant registrable legal entity after the incorporation of the company and such a statement was delivered to the registrar”.
+
+.
+
+(7)[^key-7228810278cb2336cd55d013a97de5de] In paragraph 13 of Schedule 1—
+
+- (a) in sub-paragraph (1) for “853A to 853H and sections 853K and 853L” substitute “853A to 853G and 853L”;
+- (b) after sub-paragraph (1) insert—
+
+  > (1A) Section 853A (duty to deliver confirmation statements) applies with the following modifications—
+  >
+  > - (a) in subsection (1)(b)(ii), omit “, and”;
+  > - (b) omit subsection (1)(b)(iii);
+
+  ;
+- (c) for sub-paragraph (2) substitute—
+
+  > (2) Section 853B (duties to notify a relevant event) applies with the following modifications—
+  >
+  > - (a) in paragraph (g), omit “790LE,” and “, 790LG”;
+  > - (b) omit paragraph (h).
+
+  .
+
+(8)[^key-7228810278cb2336cd55d013a97de5de] After paragraph 20A of Schedule 1 insert—
+
+> **20AA.** Section 1110C of the Companies Act 2006 (identity verification: exemption on national security grounds etc) applies to unregistered companies, but for subsection (2)(a) substitute—
+>
+> > - (a) Where a statement of officers made under section 26 names the person as a director, subsection (1A)(b)(ii) of that section does not require a statement to be made in relation to the person;
+>
+> ;
+
+.
+
+(9)[^key-7228810278cb2336cd55d013a97de5de] After section 1088(2) of the Companies Act 2006, as applied to unregistered companies by paragraph 20(3) of Schedule 1, insert—
+
+> (3) Any statement or other document delivered to the registrar under the following provisions must not be available by the registrar for public inspection—
+>
+> - (a) section 26(1A)(c)(ii) and (1C) of the Companies Act 2006 (documents to be sent to the registrar on incorporation);
+> - (b) sections 167G(3)(c), 790LB(1) or (2), 790LM(2), 790LN(2), 790LO(2) and 790LP(2) of that Act (duty to notify registrar of changes in directors and of persons with significant control), and
+> - (c) regulation 5(2) of the Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 ([S.I. 2025/761](https://www.legislation.gov.uk/uksi/2025/761)).
+
+.
+
+### 4. Amendments to the Overseas Companies Regulations 2009[^key-cfe7586789fb94d313dcec7207975662]
+
+(1) The Overseas Companies Regulations 2009[^f00009] are amended in accordance with this regulation.
+
+(2) After regulation 6 (particulars of the company) insert—
+
+> **6A. Documents to be delivered with the return: statement confirming identity verification**
+>
+> The return under regulation 4 must, in the case of each individual listed as director under regulation 6(1)(d)(i) (particulars of the company), include a statement—
+>
+> - (a) confirming that the individual’s identity is verified within the meaning of section 1110A of the Companies Act 2006, and
+> - (b) stating the individual’s unique identifier.
+
+.
+
+(3) After regulation 13(4) (return of alteration in registered particulars) insert—
+
+> (4A) If the alteration of the particulars specified in regulation 6(1)(d)(i) is caused by a person becoming a director of a company, the return of alteration must, in the case of each individual who became a director, include a statement—
+>
+> - (a) confirming that the individual’s identity is verified in the meaning of section 1110A of the Companies Act 2006, and
+> - (b) stating the individual’s unique identifier.
+
+.
+
+(4) After Part 3 (alteration to registered particulars) insert—
+
+> **Part 3A — Duties relating to ID verification and notification**
+>
+> **17A. Directors: duties relating to ID verification and notification**
+>
+> Sections 167M and 167N of the Companies Act 2006 (directors: duties relating to ID verification and notification) apply to an overseas company that opens a UK establishment, so that they read as follows—
+>
+> > **167M. Prohibition on director acting unless ID verified**
+> >
+> > (1) An individual, while in the UK, must not act as a director of a company in respect of the affairs of the company’s UK establishment unless the individual’s identity is verified within the meaning of section 1110A of the Companies Act 2006.
+> >
+> > (2) A company must take all reasonable steps to prevent an individual in the UK from acting as a director of the company in respect of the affairs of the company’s UK establishment if that individual’s identity is not verified within the meaning of section 1110A of the Companies Act 2006.
+> >
+> > (3) A person who contravenes subsection (1) commits an offence.
+> >
+> > (4) If a company contravenes subsection (2) an offence is committed by—
+> >
+> > - (a) the company, and
+> > - (b) every officer or agent of the company who knowingly and wilfully authorises or permits the default.
+> >
+> > (5) A person guilty of an offence under this section is liable on summary conviction—
+> >
+> > - (a) in England and Wales, to a fine;
+> > - (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale.
+> >
+> > (6) The only consequence of contravening subsections (1) and (2) are the offences provided for by this section (so that, for example, a contravention does not in any way affect the validity of an individual’s acts as a director).
+> >
+> > **167N. Prohibition on acting unless directorship notified**
+> >
+> > (1) This section applies where—
+> >
+> > - (a) an individual has become a director of a company after the company has delivered a return under regulation 4 of the 2009 Regulations, and
+> > - (b) a notice under regulation 13(4) of the 2009 Regulations of the individual having become a director has not been given within the period mentioned in paragraph (6)(a) of that regulation.
+> >
+> > (2) The individual, while in the UK, must not act as a director of the company in respect of the affairs of the company’s UK establishment until notice is given under regulation 13(4) of the 2009 Regulations of that individual becoming a director of the company.
+> >
+> > (3) A person who contravenes subsection (2) commits an offence.
+> >
+> > (4) It is a defence for a person charged with an offence under this section to prove that they reasonably believed that notice had been given under regulation 13(4) of the 2009 Regulations.
+> >
+> > (6) A person guilty of an offence under this section is liable on summary conviction—
+> >
+> > - (a) in England and Wales, to a fine;
+> > - (b) in Scotland and Northern Ireland, to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale.
+> >
+> > (7) The only consequence of a contravention of subsection (2) is the offence provided for by this section (so that, for example, a contravention does not in any way affect the validity of an individual's acts as a director).
+> >
+> > (8) In this section, “**the 2009 Regulations**” means the Overseas Companies Regulations 2009 ([S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801)).
+>
+> .
+>
+> **17B. Identity verification: material unavailable for public inspection**
+>
+> Any statement or other document delivered to the registrar under regulation 6A or 13(4A) of these Regulations or regulation 6(2) of the Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 ([S.I. 2025/761](https://www.legislation.gov.uk/uksi/2025/761)) must not be made available by the registrar for public inspection.
+>
+> **17C. Identity verification: exemption on national security grounds etc**
+>
+> Section 1110C of the Companies Act 2006 (identity verification: exemption on national security grounds etc) applies to an overseas company that opens a UK establishment, so that it reads as follows—
+>
+> > **1110C. Identity verification: exemption on national security grounds etc**
+> >
+> > (1) The Secretary of State may, by written notice given to a person, provide for one or more of the effects listed in subsection (2) to apply in relation to the person, if satisfied that to do so is necessary—
+> >
+> > - (a) in the interests of national security, or
+> > - (b) for the purposes of preventing or detecting serious crime.
+> >
+> > (2) The effects for which the notice may provide are that—
+> >
+> > - (a) where a return under regulation 4 of the 2009 Regulations lists an individual as director of an overseas company, regulation 6A of the 2009 Regulations does not require a statement under that regulation to be made in relation to the person;
+> > - (b) regulation 13(4A) of the 2009 Regulations does not apply in relation to a return of alteration caused by a person becoming a director of an overseas company;
+> > - (c) section 167M(1) as applied to overseas companies by regulation 17A of the 2009 Regulations does not apply in relation to the person and section 167M(2) does not impose any obligation on an overseas company in relation to the person.
+> >
+> > (3) For the purposes of subsection (1)(b)—
+> >
+> > - (a) “**crime**” means conduct which—
+> >   - (i) constitutes a criminal offence, or
+> >   - (ii) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute a criminal offence, and
+> > - (b) crime is “serious” if—
+> >   - (i) the offence which is or would be constituted by the conduct is an offence for which the maximum sentence (in any part of the United Kingdom) is imprisonment for 3 years or more, or
+> >   - (ii) the conduct involves the use of violence, results in substantial financial gain or is conduct by a large number of persons in pursuit of a common purpose.
+> >
+> > (4) In this section the “**2009 Regulations**” means the Overseas Companies Regulations 2009 ([S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801)).
+>
+> .
+
+.
+
+## Part 3 — Transitional provisions
+
+### 5. Transitional provision for unregistered companies[^key-da075fed3f0957f4f30fb06a0af2ff92]
+
+(1) This regulation applies in relation to an individual who became a director of an unregistered company before the relevant day.
+
+(2) That company must deliver to the registrar an identity verification statement in respect of that individual at the same time as the company delivers its next confirmation statement during the transitional period.
+
+(3) If the company fails to deliver a confirmation statement during the transitional period, the company must deliver to the registrar an identity verification statement in respect of the individual referred to in paragraph (1) at the same time as the company delivers its next confirmation statement.
+
+(4) The duty—
+
+- (a) in paragraph (2) does not apply if the individual is not a director of the company at the time mentioned in that paragraph;
+- (b) in paragraph (3) does not apply if the individual is not a director of the company at the time mentioned in that paragraph.
+
+(5) Section 853A(1)(b)(i) of the 2006 Act (duty to deliver confirmation statements) has effect as if it included a reference to the duties imposed by paragraphs (2) and (3).
+
+(6) Where, on the relevant day, the delivery period within which the confirmation statement referred to in paragraph (2) is required to be delivered has yet to begin, or has already begun but is not yet expired, section 167M(1) of the 2006 Act (prohibition on director acting unless ID verified) does not apply to the individual, and section 167M(2) of the 2006 Act does not apply to the company with respect to that individual, until—
+
+- (a) the day on which the company complies with the duty in section 853A(1), or
+- (b) if the company does not so comply, the day after the last day of the delivery period.
+
+(7) Where, on the relevant day, the company has an overdue confirmation statement, section 167M(1) of the 2006 Act does not apply to the individual, and section 167M(2) of the 2006 Act does not apply to the company with respect to that individual, until the earlier of—
+
+- (a) the day on which the company complies with paragraph (2), or
+- (b) the day which is the end of the period of 14 days beginning with the relevant day.
+
+(8) For the purposes of paragraph (7), the company has an overdue confirmation statement if it has failed to deliver a confirmation statement by the end of its last delivery period with an end date before the relevant day and on the relevant day the company has still not delivered that confirmation statement.
+
+(9) In this regulation—
+
+- “**the 2006 Act**” means the Companies Act 2006;
+- “**the 2023 Act**” means the Economic Crime and Corporate Transparency Act 2023;
+- “**confirmation statement**” has the meaning given by section 853A(1)(b) of the 2006 Act;
+- “**delivery period**” means the period mentioned in section 853A(1) of the 2006 Act;
+- “**identity verification statement**” means a statement in respect of an individual confirming that their identity is verified within the meaning of section 1110A of the 2006 Act (meaning of “**identity is verified**”);
+- “**the registrar**” has the meaning given in section 1060(3) of the 2006 Act;
+- “**relevant day**” means 18th November 2025 (the date that section 43 of the 2023 Act (prohibition on director acting unless ID verified) came into force)[^key-5a5e882fc33c3324e6acebba934d117d];
+- “**transitional period**” means the period beginning on the relevant day and ending on the date that is 12 months after the relevant day.
+
+(10) References to sections 167M and 853A of the 2006 Act are to those provisions as applied to unregistered companies by regulation 3 of, and Schedule 1 to, the Unregistered Companies Regulations 2009.
+
+### 6. Transitional provision for overseas companies[^key-c0c46d8cb5badbf805ce5d1e88f21306]
+
+(1) This regulation applies to overseas companies that opened a UK establishment before 18th November 2025 (the date that regulation 4 came into force)[^key-a13d3fdd5e00a8666f46de219846630f].
+
+(2) The company must, within the transition period, deliver to the registrar in respect of each notified individual a statement—
+
+- (a) confirming that the individual’s identity is verified within the meaning of section 1110A of the 2006 Act, and
+- (b) stating the individual’s unique identifier.
+
+(3) The offence in section 167M(3)[^key-fc6c0093e6b48c7042d9913e5de8b9ec] of the 2006 Act, as applied to overseas companies by regulation 17A of the Overseas Companies Regulations 2009[^f00010], does not apply to an individual, and the offence in section 167M(4)[^key-b0ef719ea2a948a50d743ed963533cd4] of the 2006 Act as so applied does not apply to a company in respect of that individual, until the earlier of—
+
+- (a) the date that the company delivers the statement under paragraph (2), and
+- (b) the day after the last day of the transition period.
+
+(4) In this regulation—
+
+- “**notified individual**” means an individual specified in a notice given under regulation 6(1)(d)(i) or 13(1)(a) of the Overseas Companies Regulations 2009 as a director of the company;
+- “[^key-340229411f83975070697cdd3d916b2e]**transition period**” means the period—
+  - (a) beginning on 18th November 2025 (the date that regulation 4 came into force), and
+  - (b) ending on the date that is the first anniversary of the date the UK establishment of that company was opened that falls after 18th November 2025.
+
+Justin Madders
+
+Parliamentary Under Secretary of State
+
+24th June 2025
+
+Department for Business and Trade
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations apply company law provisions on identity verification and persons with significant control to companies authorised to register, unregistered companies and overseas companies.
+
+Regulation 2 amends the Companies (Companies Authorised to Register) Regulations 2009 ([S.I. 2009/2437](https://www.legislation.gov.uk/uksi/2009/2437)) to apply company law provisions relating to the notification and identity verification status of directors and persons with significant control (“PSCs”) to companies authorised to register. The amendments also apply the exemption from identity verification on the grounds of national security and require the registrar to make statements about the identity verification status of directors and PSCs unavailable for public inspection.
+
+Regulation 3 amends the Unregistered Companies Regulations 2009 ([S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436)) to apply company law provisions relating to the notification and identity verification status of directors and PSCs to unregistered companies, as well as the exemption from identity verification on the grounds of national security and the requirement for the registrar to make statements about identity verification unavailable for public inspection. Regulation 3 also applies provisions on notification of information about secretaries to unregistered companies and makes other amendments to the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) (“**the 2006 Act**”), as applied to unregistered companies, which are consequential on amendments made to the 2006 Act by the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56) (“**the 2023 Act**”).
+
+Regulation 4 amends the Overseas Companies Regulations 2009 ([S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801)) so that an overseas company is required to confirm that its directors are identity verified when it opens a UK establishment and whenever it appoints a new director after that. It also applies the offences in section 167M of the 2006 Act, of a director acting when not identity verified, and 167N of that Act, of a director acting when not notified to the registrar, to the directors of overseas companies in respect of their actions in relation to the UK establishment of the overseas company.
+
+The provisions in regulations 2 and 3 relating to the delivery of a statement that a director or PSC is not disqualified under the director disqualification legislation will come into force only when section 167G of the 2023 Act comes fully into force.
+
+Regulation 5 makes transitional provision for any individual who is a director of an unregistered company before regulation 3 comes into force, so that confirmation that they are identity verified has to be provided with the unregistered company’s next confirmation statement delivered after regulation 3 comes into force.
+
+Regulation 6 makes transitional provision for any individual who is a director of an overseas company before regulation 4 comes into force, so that confirmation that they are identity verified has to be provided before the first anniversary of the date the UK establishment opened that falls after regulation 4 comes into force.
+
+A full Impact Assessment has not been prepared for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1048B was inserted by section 101 of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).
+
+[^f00002]: Footnote: [2023 c. 56](https://www.legislation.gov.uk/ukpga/2023/56).
+
+[^key-17e9d3bdbfbe18dafb8cd386637ea313]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/761/regulation/1) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+
+[^key-9d4f093dedef431efda1627d70d30bb6]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/a/i)
+
+[^key-a1f11850ad9454124f534f5e05fbe7ba]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/a/ii)
+
+[^f00005]: Footnote: Section 167G was inserted by section 51 of, and paragraph 18 of Schedule 2 to, the Economic Crime and Corporate Transparency Act 2023.
+
+[^f00006]: Footnote: [S.I. 2009/2437](https://www.legislation.gov.uk/uksi/2009/2437).
+
+[^f00007]: Footnote: [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436).
+
+[^key-a8d97230639ae91620b08d478ca35b91]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/b)[(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/3) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+
+[^key-04b64faf1d552ea1d96ffb6c5bac9fbb]: Commencement: [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/2/2/c) in force at 18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(a), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(a)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/a)
+
+[^f00008]: Footnote: See section 1082(1) of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) for the meaning of “unique identifier”.
+
+[^key-7228810278cb2336cd55d013a97de5de]: Commencement: [Reg. 3(1)(2)(a)(b)(3)(4)(7)-(9)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/1/2/a/b/3/4/7) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+
+[^key-9a481eaf0ad8dec76a8ddf14c652b279]: Commencement: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/c)[(d)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/2/d) in force at 18.11.2025 for specified purposes and otherwise in force in accordance with reg. 1(5)(b), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)[(5)(b)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/5/b)
+
+[^key-5a52c45b92678c8bc3d82af73ab07640]: Commencement: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/5)[(6)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/6) in force at 18.11.2025, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4)
+
+[^key-cfe7586789fb94d313dcec7207975662]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/761/regulation/4) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+
+[^f00009]: Footnote: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801).
+
+[^key-da075fed3f0957f4f30fb06a0af2ff92]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8/3); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-5a5e882fc33c3324e6acebba934d117d]: Textual amendment: Words in [reg. 5(9)](https://www.legislation.gov.uk/uksi/2025/761/regulation/5/9) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/b)
+
+[^key-c0c46d8cb5badbf805ce5d1e88f21306]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6) in force at 18.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3)
+
+[^key-a13d3fdd5e00a8666f46de219846630f]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/1) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/c/i)
+
+[^key-fc6c0093e6b48c7042d9913e5de8b9ec]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/3) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8/2/a); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^f00010]: Footnote: See regulation 4(4) of these Regulations.
+
+[^key-b0ef719ea2a948a50d743ed963533cd4]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/3) substituted (18.11.2025) by [The Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025 (S.I. 2025/1116)](https://www.legislation.gov.uk/uksi/2025/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/g)
+
+[^key-340229411f83975070697cdd3d916b2e]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/6/4) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/2/c/ii)

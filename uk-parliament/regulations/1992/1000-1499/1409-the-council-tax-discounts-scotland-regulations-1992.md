@@ -1,0 +1,305 @@
+---
+title: The Council Tax (Discounts) (Scotland) Regulations 1992
+id: uksi/1992/1409
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1992-06-12'
+text_date: '2025-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/uksi/1992/1409
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/1409/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Discounts) (Scotland) Regulations 1992
+
+> Text as at 2025-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+1992 No. 1409 (S.137)
+
+COUNCIL TAX, SCOTLAND
+
+WATER SUPPLY, SCOTLAND
+
+The Council Tax (Discounts) (Scotland) Regulations 1992
+
+Made
+
+12th June 1992
+
+Laid before Parliament
+
+24th June 1992
+
+Coming into force
+
+1st April 1993
+
+The Secretary of State, in exercise of the powers conferred upon him by sections 113(1) and 116(1) of, and paragraphs 9 and 11 of Schedule 1 to, the Local Government Finance Act 1992([^f00001]) and those paragraphs as read with paragraph 11 of Schedule 11 to that Act and with the Council Water Charge (Scotland) Regulations 1992([^f00002]) made thereunder, and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement, extent and interpretation[^key-a3ad0ad59e56baa1bd294873e6f0330f]
+
+(1) These Regulations may be cited as the Council Tax (Discounts) (Scotland) Regulations 1992 and shall come into force on 1st April 1993.
+
+(2) These Regulations extend to Scotland only.
+
+(3) In these Regulations—
+
+- “the Act” means the Local Government Finance Act 1992;
+- “charitable” shall be construed in the same way as if it were contained in the Income Tax Acts; and
+- “relevant body” means—
+  - (a) a local authority;[^key-34a5a4ba5deb88ffd0fc9b65d6f373aa]
+  - (b) the Crown;
+  - (c) a body established for charitable purposes only.
+
+## 2. Care workers[^key-321cb0cd00efd2556ee9bb14bc32f2e3]
+
+(1) For the purposes of paragraph 9 of Schedule 1 to the Act (disregard for the purposes of discount of persons providing care or support (or both) to other persons, if prescribed conditions are fulfilled), and of that paragraph as read with paragraph 11 of Schedule 11 to the Act, it is prescribed that either the conditions set out in paragraph (2) below or those set out in paragraph (3) below must be fulfilled.
+
+(2) The conditions set out in this paragraph are that the person—
+
+- (a) either—
+  - (i) is providing care or support (or both) on behalf of a relevant body; or
+  - (ii) is employed to provide care or support (or both) by the person to whom it is provided and to whom he was introduced by a body established for charitable purposes only;
+- (b) is engaged or employed to provide care or support (or both) for at least 24 hours per week;
+- (c) receives no more than £44[^key-4a750d74a6121268aa85cf19eb331b22] per week as remuneration in respect of the hours which he is required to work under the terms of his engagement or employment; and
+- (d) is resident in premises which—
+  - (i) if sub-paragraph (a)(i) above applies, are provided by or on behalf of the relevant body; or
+  - (ii) if sub-paragraph (a)(ii) above applies, are provided by his employer;
+
+  for the better performance of his work.
+
+(3) The conditions set out in this paragraph are that the person—
+
+- (a) is providing care or support (or both) for an average of at least 35 hours per week;
+- (b) is providing care or support (or both) to a person who is not his spouse , civil partner[^key-be936dc3585ee19b291320b5fcacd78e] or a child of his under the age of 18 years;
+- (c) is providing care or support (or both) to a person who is entitled to[^key-477966c7892c3a016bfb5dc6e728d644]—
+  - (i) a higher rate attendance allowance under section 65 of the Social Security Contributions and Benefits Act 1992([^f00003]);
+  - (ii) the highest rate of the care component of a disability living allowance under section 72(4)(a) of that Act;
+  - (iii) an increase in the rate of his disablement pension under section 104 of that Act by an amount which is the highest amount determined in accordance with paragraph (a) of regulation 19 of the Social Security (General Benefit) Regulations 1982 or, in a case to which paragraph (b) of that regulation applies, the amount determined in accordance with that paragraph[^key-b2f4e6a59813ce8e93ab427011f928cb]; [^key-4f1236773f486f4eb4114235693fe59a]...
+  - (iiia)[^key-ba6a47eb20dc84d53cb6212d5b42ae20] the daily living component of personal independence payment at the enhanced rate (as referred to in section 78(2) of the Welfare Reform Act 2012);
+  - (iiib)[^key-c1937891cd8119f7844c8e1654ae5eb8] armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;
+  - (iiic)[^key-391d2c84c17bcaeb2815770fbd190dea] the highest rate of the care component of child disability payment in accordance with regulation 11 (care component criterion: lowest, middle or highest rate care component) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021, or short-term assistance in accordance with Part 1 of the schedule (short-term assistance) of those Regulations where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the highest rate of the care component of child disability payment, [^key-a4875df4406401b198f91089b2e168d4]...
+  - (iiid)[^key-e22c4476467bc6d634443edced062b6e] the enhanced rate of the daily living component of adult disability payment in accordance with regulation 5 (daily living component) of the Disability Assistance for Working Age People (Scotland) Regulations 2022, or short-term assistance in accordance with Part 1 of schedule 2 (short-term assistance) of those Regulations where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the enhanced rate of the daily living component of adult disability payment, [^key-a1c8888490644f5a423d1f1aa84bb989]...
+  - (iiie)[^key-87944d12f0e71eb488b4c1d54e9cb871] the higher rate of Pension Age Disability Payment in accordance with regulation 6 (eligibility criteria: rates of Pension Age Disability Payment) of the Disability Assistance for Older People (Scotland) Regulations 2024, or short-term assistance in accordance with Part 1 of the schedule (short-term assistance) of those Regulations where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the higher rate of Pension Age Disability Payment, [^key-f6e5485fb6fc0ba2318ca04d8ae69d48]...
+  - (iiif)[^key-cc6b6e0cea0ef2f2d5416cdf7b00f3af] the highest rate of the care component of Scottish adult disability living allowance in accordance with regulation 6(4)(a) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025, or short-term assistance in accordance with Part 1 of schedule 1 (short-term assistance) of those Regulations where the “earlier determination” referred to in paragraph 1(1)(a) of schedule 1 (entitlement to short-term assistance) of those Regulations awarded the highest rate of the care component of Scottish adult disability living allowance, or
+  - (iv) an increase in a constant attendance allowance under the proviso to article 14 of the Personal Injuries (Civilians) Scheme 1983([^f00004]), or under article 14(1)(b) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983([^f00005]) (including that provision as applied, whether with or without modifications, by any other instrument); and
+- (d) is resident in the same dwelling as that in which the person to whom he is providing care or support (or both) is resident.
+
+(4)[^key-51ce6061e5a7439e53c991d5f381536b] For the purposes of sub paragraph (b) of paragraph (3) above–
+
+- (a) a person is the spouse of another if they are a man and a woman–
+  - (i) who are married to each other; or
+  - (ii) who are not married to each other but are living together as husband and wife; and
+- (b) a person is the civil partner of another if they are of the same sex and–
+  - (i) are civil partners of each other; or
+  - (ii) are not civil partners of each other but are living together as civil partners to each other.
+
+## 3. Persons of other descriptions[^key-bcc0c9e9226b560c44488fae64997faa]
+
+The Schedule to these Regulations, which makes provision as to persons who are to be disregarded for the purposes of discount in terms of paragraph 11 of Schedule 1 to the Act and in terms of that paragraph as read with paragraph 11 of Schedule 11 to the Act, shall have effect.
+
+Allan Stewart
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St. Andrew’s House,
+
+Edinburgh
+
+12th June 1992
+
+## SCHEDULE — PERSONS DISREGARDED FOR PURPOSES OF DISCOUNT
+
+Regulation 3
+
+### 1. International headquarters and defence organisations[^key-a3a34268c8bf7ca13796524879280fa1]
+
+(1) A person shall be disregarded for the purposes of discount on a particular day if on the day he is a member of a headquarters or a dependant of such a member.
+
+(2) A headquarters, in relation to a particular day, is a headquarters or organisation designated on that day by an Order in Council under section 1 of the International Headquarters and Defence Organisations Act 1964([^f00006]).
+
+(3) A person is, on a particular day, a member of a headquarters or a dependant of such a member if he is on that day such a member or dependant within the meanings of the Schedule to that Act.
+
+### 2. Religious communities[^key-5b0a80b5224d024edd1afe7346120f56]
+
+(1) A person shall be disregarded for the purposes of discount on a particular day if on the day—
+
+- (a) he is a member of a relevant religious community; and
+- (b) he has no income (disregarding any pension in respect of former employment) or capital of his own and is dependent on the community concerned for his material needs.
+
+(2) A relevant religious community is a religious community whose principal occupation—
+
+- (a) is prayer, contemplation, education or the relief of suffering; or
+- (b) consists of two or more of these occupations.
+
+### 3. School leavers[^key-3276252adebe0ca1298825fa7b5df8cd]
+
+A person shall be disregarded for the purposes of discount on a particular day if—
+
+- (a) he is aged under 20 on the day;
+- (b) the day falls no earlier than 1st May and no later than 31st October in a year; and
+- (c) on 30th April in the year in question he was a student by virtue of article 6(1)(b) or (c)[^key-f7cde2a03f60847917741ab4c57d6716] of the Council Tax (Discounts) (Scotland) Order 1992([^f00007]) and he has since ceased to be such a student.
+
+### 4. Visiting Forces[^key-1b1e7d2d8707d51babc4fde32188db7c]
+
+(1) A person shall be disregarded for the purposes of discount on a particular day if on that day he has a relevant association with a visiting force.
+
+(2) A visiting force, in relation to a particular day, is any body, contingent or detachment of the forces of a country to which any provision in Part I of the Visiting Forces Act 1952 applies on that day.
+
+(3) A person has, on a particular day, a relevant association with a visiting force if he has on that day such an association within the meaning of that Part.
+
+### 5. Spouses and dependents of students[^key-3d71781722989ef2d8e29de55221b4c3]
+
+A person shall be disregarded for the purposes of discount on a particular day if on the day—
+
+- (a) he is the spouse , civil partner[^key-b7f6cd18dd03ab84a34a9a94b5f691fa] or dependent of a student (within the meaning assigned under paragraph 4 of Schedule 1 to the Act);
+- (b) he is not a British citizen; and
+- (c) he is prevented by the terms of his leave to enter or remain in the United Kingdom from taking paid employment or from claiming benefits.
+
+### 6. Care leavers[^key-3906e578ee97d1eb3f34968e2d71ad4d]
+
+(1) A person shall be disregarded for the purposes of discount on a particular day if on that day the person is a care leaver.
+
+(2) A care leaver is a person who—
+
+- (a) is at least 18 years of age but not yet 26 years of age;
+- (b) was on that person’s sixteenth birthday or at any subsequent time looked after by a local authority; and
+- (c) is no longer looked after by a local authority.
+
+(3) In paragraph (2), the reference to “looked after” is to be construed in accordance with sections 17(6) (duty of local authority to child looked after by them) and 29(7) (after-care) of the Children (Scotland) Act 1995.
+
+### 7. Persons formerly residing in Ukraine[^key-5ada2cbdf7c2bdf0c0febb25f101335f]
+
+(1) A person shall be disregarded for the purposes of a discount on a particular day if on that day—
+
+- (a) the person—
+  - (i) holds permission to enter or stay in the United Kingdom granted under the Homes for Ukraine Sponsorship Scheme or the Ukraine Permission Extension Scheme set out in Appendix Ukraine Scheme of the Immigration Rules made under section 3(2) of the Immigration Act 1971, or
+  - (ii) has applied for permission to stay under the Ukraine Permission Extension Scheme and is awaiting the outcome of the application,
+- (b) the person is being provided with accommodation by a host approved by a local authority in accordance with the version of the guidance entitled “Super Sponsor Scheme and Homes for Ukraine: guidance for local authorities” published by the Scottish Ministers on 4 February 2025, and
+- (c) the host is not a close relative of the person.
+
+(2) For the purposes of this paragraph “**close relative**” means any of the following—
+
+- (a) a spouse,
+- (b) a civil partner,
+- (c) an unmarried partner,
+- (d) a parent,
+- (e) a parent-in-law,
+- (f) a son or daughter,
+- (g) a son or daughter-in-law,
+- (h) a stepson or stepdaughter,
+- (i) a sibling,
+- (j) a grandparent,
+- (k) the spouse, civil partner, or unmarried partner of any of the persons mentioned at (d) to (j).
+
+(3) In sub-paragraph (2), a reference to an unmarried partner is a reference to the other member of a couple consisting of two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners.
+
+### 8. Persons who have entered the United Kingdom under relocation or resettlement schemes[^key-0072b653fdf7b9b091d4b8f16b7dcae8]
+
+(1) A person shall be disregarded for the purposes of a discount on a particular day if on that day the person is being provided with accommodation without making payment in return, having entered the United Kingdom under one of the following schemes—
+
+- (a) the Afghan Citizens Resettlement Scheme,
+- (b) the Afghan Relocations and Assistance Policy,
+- (c) the Community Sponsorship Scheme,
+- (d) the UK Resettlement Scheme
+- (e) the Vulnerable Children’s Resettlement Scheme,
+- (f) the Vulnerable Persons Resettlement Scheme.
+
+(2) In this paragraph—
+
+- (a) “**the Afghan Citizens Resettlement Scheme**” means the scheme of that name announced by the United Kingdom Government on 18 August 2021,
+- (b) “**the Afghan Relocations and Assistance Policy**” means the support scheme for relocation of Afghan citizens to the United Kingdom launched by the United Kingdom Government on 1 April 2021,
+- (c) “**the Community Sponsorship Scheme**” means the scheme for community support for refugees launched by the United Kingdom Government in July 2016,
+- (d) “**the UK resettlement scheme**” means the scheme for resettlement of refugees launched by the United Kingdom Government in March 2021,
+- (e) “**the Vulnerable Children’s Resettlement Scheme**” means the scheme for resettlement of refugee children and their families launched by the United Kingdom Government in 2016, and
+- (f) “**the Vulnerable Persons Resettlement Scheme**” means the resettlement scheme for refugees fleeing the conflict in Syria launched by the United Kingdom Government in January 2014.
+
+(This note is not part of the Regulations)
+
+Part II of, and Schedule 11 to, the Local Government Finance Act 1992 ( “the Act”) provide that the council tax and the council water charge in respect of dwellings in Scotland shall come into operation with effect from financial year 1993/94. The amounts payable may be reduced where a person resident in a dwelling qualifies to be disregarded for the purposes of discount. Schedule 1 to the Act specifies classes of person who qualify to be disregarded for the purposes of discount. These Regulations make additional provision in this regard as respects Scotland.
+
+Regulation 2 prescribes conditions which must be fulfilled in order for care workers to be disregarded for the purposes of discount. Regulation 3 and the Schedule prescribe three additional classes of person who are also to be so disregarded members of international headquarters and defence organisations, members of religious communities, and school leavers.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14); section 116(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which the Regulations are made.
+
+[^f00002]: Footnote: S.I. [1992/1203](https://www.legislation.gov.uk/uksi/1992/1203).
+
+[^key-a3ad0ad59e56baa1bd294873e6f0330f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/1409/regulation/1) in force at 1.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/1/1)
+
+[^key-34a5a4ba5deb88ffd0fc9b65d6f373aa]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/1/3) substituted (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [8](https://www.legislation.gov.uk/uksi/1996/580/article/8)
+
+[^key-321cb0cd00efd2556ee9bb14bc32f2e3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2) in force at 1.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/1/1)
+
+[^key-4a750d74a6121268aa85cf19eb331b22]: Textual amendment: Sum in [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/2/c) substituted (1.4.2007) by [The Council Tax (Discounts) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/213)](https://www.legislation.gov.uk/ssi/2007/213), [regs. 1](https://www.legislation.gov.uk/ssi/2007/213/regulation/1), [2](https://www.legislation.gov.uk/ssi/2007/213/regulation/2)
+
+[^key-be936dc3585ee19b291320b5fcacd78e]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/572)](https://www.legislation.gov.uk/ssi/2005/572), [arts. 1](https://www.legislation.gov.uk/ssi/2005/572/article/1), [11(a)](https://www.legislation.gov.uk/ssi/2005/572/article/11/a)
+
+[^key-477966c7892c3a016bfb5dc6e728d644]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c) substituted (1.4.1997) by [The Council Tax (Discounts) (Scotland) Amendment Regulations 1997 (S.I. 1997/587)](https://www.legislation.gov.uk/uksi/1997/587), [regs. 1](https://www.legislation.gov.uk/uksi/1997/587/regulation/1), [2](https://www.legislation.gov.uk/uksi/1997/587/regulation/2)
+
+[^f00003]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-b2f4e6a59813ce8e93ab427011f928cb]: Textual amendment: Words in [reg. 2(3)(c)(iii)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c/iii) inserted (1.4.1994) by [The Council Tax (Discounts) (Scotland) Amendment Regulations 1994 (S.I. 1994/629)](https://www.legislation.gov.uk/uksi/1994/629), [regs. 1](https://www.legislation.gov.uk/uksi/1994/629/regulation/1), [2](https://www.legislation.gov.uk/uksi/1994/629/regulation/2)
+
+[^key-4f1236773f486f4eb4114235693fe59a]: Textual amendment: Word in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c) omitted (26.7.2021) by virtue of [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2021/73/regulation/2/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-ba6a47eb20dc84d53cb6212d5b42ae20]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c)[(iiia)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/iiia) inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [reg. 1](https://www.legislation.gov.uk/ssi/2013/65/regulation/1), [reg. 2](https://www.legislation.gov.uk/ssi/2013/65/regulation/2)
+
+[^key-c1937891cd8119f7844c8e1654ae5eb8]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c)[(iiib)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/iiib) inserted (11.6.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 (S.S.I. 2013/142)](https://www.legislation.gov.uk/ssi/2013/142), [regs. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1), [2](https://www.legislation.gov.uk/ssi/2013/142/regulation/2)
+
+[^key-391d2c84c17bcaeb2815770fbd190dea]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c)[(iiic)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/iiic) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2021/73/regulation/2/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-a4875df4406401b198f91089b2e168d4]: Textual amendment: Word in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c) omitted (21.3.2022) by virtue of [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2022/31/regulation/2/a) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^key-e22c4476467bc6d634443edced062b6e]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c)[(iiid)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/iiid) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2022/31/regulation/2/b) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^key-a1c8888490644f5a423d1f1aa84bb989]: Textual amendment: Word in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c)[(iiid)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/iiid) omitted (21.10.2024) by virtue of [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2024/141/regulation/3/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+
+[^key-87944d12f0e71eb488b4c1d54e9cb871]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c)[(iiie)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/iiie) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2024/141/regulation/3/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+
+[^key-f6e5485fb6fc0ba2318ca04d8ae69d48]: Textual amendment: Word in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c) omitted (21.3.2025) by virtue of [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2024/311/regulation/3/a)
+
+[^key-cc6b6e0cea0ef2f2d5416cdf7b00f3af]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/c)[(iiif)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/3/iiif) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/3/b)
+
+[^f00004]: Footnote: S.I. [1983/686](https://www.legislation.gov.uk/uksi/1983/686), to which there are amendments not relevant to these Regulations.
+
+[^f00005]: Footnote: S.I. [1983/883](https://www.legislation.gov.uk/uksi/1983/883), to which there are amendments not relevant to these Regulations.
+
+[^key-51ce6061e5a7439e53c991d5f381536b]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/2/4) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/572)](https://www.legislation.gov.uk/ssi/2005/572), [arts. 1](https://www.legislation.gov.uk/ssi/2005/572/article/1), [11(b)](https://www.legislation.gov.uk/ssi/2005/572/article/11/b)
+
+[^key-bcc0c9e9226b560c44488fae64997faa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/1409/regulation/3) in force at 1.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/1/1)
+
+[^key-a3a34268c8bf7ca13796524879280fa1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/1) in force at 1.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/1/1)
+
+[^f00006]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
+
+[^key-5b0a80b5224d024edd1afe7346120f56]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/2) in force at 1.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/1/1)
+
+[^key-3276252adebe0ca1298825fa7b5df8cd]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/3) in force at 1.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1409/regulation/1/1)
+
+[^key-f7cde2a03f60847917741ab4c57d6716]: Textual amendment: Words in [Sch. para. 3(c)](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/3/c) added (1.4.1993) by [The Council Tax (Discounts) (Scotland) Amendment Regulations 1993 (S.I. 1993/342)](https://www.legislation.gov.uk/uksi/1993/342), [regs. 1](https://www.legislation.gov.uk/uksi/1993/342/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/1993/342/regulation/2/1)
+
+[^f00007]: Footnote: S.I. [1992/1408](https://www.legislation.gov.uk/uksi/1992/1408).
+
+[^key-1b1e7d2d8707d51babc4fde32188db7c]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/4) added (1.4.1993) by [The Council Tax (Discounts) (Scotland) Amendment Regulations 1993 (S.I. 1993/342)](https://www.legislation.gov.uk/uksi/1993/342), [regs. 1](https://www.legislation.gov.uk/uksi/1993/342/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1993/342/regulation/2/2)
+
+[^key-3d71781722989ef2d8e29de55221b4c3]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/5) added (1.4.1995) by [The Council Tax (Discounts) (Scotland) Amendment Regulations 1995 (S.I. 1995/597)](https://www.legislation.gov.uk/uksi/1995/597), [regs. 1](https://www.legislation.gov.uk/uksi/1995/597/regulation/1), [2](https://www.legislation.gov.uk/uksi/1995/597/regulation/2)
+
+[^key-b7f6cd18dd03ab84a34a9a94b5f691fa]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/5) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Modification of Subordinate Legislation) Order 2005 (S.S.I. 2005/572)](https://www.legislation.gov.uk/ssi/2005/572), [arts. 1](https://www.legislation.gov.uk/ssi/2005/572/article/1), [12](https://www.legislation.gov.uk/ssi/2005/572/article/12)
+
+[^key-3906e578ee97d1eb3f34968e2d71ad4d]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/6) inserted (1.4.2018) by [The Council Tax (Discounts) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/39)](https://www.legislation.gov.uk/ssi/2018/39), [regs. 1](https://www.legislation.gov.uk/ssi/2018/39/regulation/1), [3](https://www.legislation.gov.uk/ssi/2018/39/regulation/3)
+
+[^key-5ada2cbdf7c2bdf0c0febb25f101335f]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/7) substituted (1.4.2025) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/55)](https://www.legislation.gov.uk/ssi/2025/55), [regs. 1](https://www.legislation.gov.uk/ssi/2025/55/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/55/regulation/2/2)
+
+[^key-0072b653fdf7b9b091d4b8f16b7dcae8]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1992/1409/schedule/paragraph/8) inserted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [29(2)(b)](https://www.legislation.gov.uk/ssi/2023/38/regulation/29/2/b)

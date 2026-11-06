@@ -1,0 +1,29 @@
+---
+title: Pension Schemes Act 1993, section 64
+act: Pension Schemes Act 1993
+section: '64'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1993/48/section/64
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pension Schemes Act 1993, section 64
+
+> **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 64. Actuarial tables for purposes of calculations relating to premiums.[^key-b2420b334224015da50d5c92d2a2876d][^key-036c31ef7347b27efbfd0fe3c8cdd455]
+
+*Extent: E+W+S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-b2420b334224015da50d5c92d2a2876d]: Textual amendment: S. 64 repealed (6.4.1997) (with savings for existing state scheme premiums) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 58](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/58), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 4(2)(3)](https://www.legislation.gov.uk/uksi/1997/664/article/4))
+
+[^key-036c31ef7347b27efbfd0fe3c8cdd455]: Textual amendment: [Ss. 55-68](https://www.legislation.gov.uk/ukpga/1993/48/section/55) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/37) (with savings in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(4)-(5F)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/4))

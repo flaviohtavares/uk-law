@@ -1,0 +1,80 @@
+---
+title: The Cosmetic Products (Safety) (Amendment) Regulations 2000
+id: uksi/2000/1679
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-06-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/1679
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1679/pdfs/uksi_20001679_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1679/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cosmetic Products (Safety) (Amendment) Regulations 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 1679
+
+CONSUMER PROTECTION
+
+The Cosmetic Products (Safety) (Amendment) Regulations 2000
+
+Made
+
+26th June 2000
+
+Laid before Parliament
+
+27th June 2000
+
+Coming into force
+
+29th June 2000
+
+Whereas the Secretary of State is a Minister designated[^f00001] for the purposes of the European Communities Act 1972[^f00002] in relation to measures for safety and consumer protection as regards cosmetic products and any provisions concerning the composition, labelling, marketing, classification or description of cosmetic products:
+
+Now, therefore, the Secretary of State in exercise of the powers conferred on him by section 2 of that Act hereby makes the following Regulations:—
+
+**1.** These Regulations may be cited as the Cosmetic Products (Safety) (Amendment) Regulations 2000 and shall come into force on the 29th June 2000.
+
+**2.** The Cosmetic Products (Safety) Regulations 1996[^f00003] are amended as follows—
+
+- (a) in regulation 1(8) by substituting the date “30th June 2002”[^f00004] for the date “30th June 2000”;
+- (b) in regulation 2(1), in the definition of “the Directive”, by deleting the word “and” before “Commission Directive [98/62/EC](https://www.legislation.gov.uk/european/directive/1998/0062)”[^f00005] and by adding the words “, and Commission Directive [2000/41/EC](https://www.legislation.gov.uk/european/directive/2000/0041)”[^f00006] at the end of that definition;
+- (c) in regulation 4(3) by substituting the date “30th June 2002”[^f00004] for the date “30th June 2000”.
+
+Kim Howells,
+
+Parliamentary Under-Secretary of State for Consumers and Corporate Affairs,
+
+Department of Trade and Industry
+
+26th June 2000
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Cosmetic Products (Safety) Regulations 1996 (S.I. [1996/2925](https://www.legislation.gov.uk/uksi/1996/2925)) (“the principal Regulations”).
+
+The Regulations implement Commission Directive [2000/41/EC](https://www.legislation.gov.uk/european/directive/2000/0041) (OJ No. L145; 20.6.00, p25). The principal Regulations contained a prohibition, due to come into force on 30th June 2000, on the supply of cosmetics which contain ingredients or combinations of ingredients tested on animals, when such testing takes place after 30th June 2000 and is undertaken in order that the products may satisfy the requirements of the principal Regulations. The date 30th June 2000 is changed by these Regulations to 30th June 2002, which is also the date on which this prohibition will now come into force (regulation 2(b) and (c)).
+
+## Annotations
+
+[^f00001]: Footnote: [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811), [1975/1707](https://www.legislation.gov.uk/uksi/1975/1707), [1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: S.I. [1996/2925](https://www.legislation.gov.uk/uksi/1996/2925); relevant amending instruments are S.I. [1997/2914](https://www.legislation.gov.uk/uksi/1997/2914) and S.I. [1999/1552](https://www.legislation.gov.uk/uksi/1999/1552).
+
+[^f00004]: Footnote: The date 30th June 2000 was substituted for 1st January 1998 by S.I. [1997/2914](https://www.legislation.gov.uk/uksi/1997/2914).
+
+[^f00005]: Footnote: The reference to Commission Directive [98/62/EC](https://www.legislation.gov.uk/european/directive/1998/0062) was added to S.I. [1996/2925](https://www.legislation.gov.uk/uksi/1996/2925) by S.I. [1999/1552](https://www.legislation.gov.uk/uksi/1999/1552).
+
+[^f00006]: Footnote: OJ No. L.145, 20.6.00, p25.

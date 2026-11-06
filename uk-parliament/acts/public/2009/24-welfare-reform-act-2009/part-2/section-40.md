@@ -1,0 +1,44 @@
+---
+title: Welfare Reform Act 2009, section 40
+act: Welfare Reform Act 2009
+section: '40'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2009/24/section/40
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Welfare Reform Act 2009, section 40
+
+> **Warning: changes not yet applied to this text (25).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 40. Relevant authority
+
+*Extent: E+W+S*
+
+(1) In this Part “**relevant authority**” means—
+
+- (a) a Minister of the Crown or government department;
+- (b) the Scottish Ministers;
+- (c) the Welsh Ministers;
+- (d) a local authority;
+- (e) a person or body whose functions are exercised on behalf of the Crown;
+- (f) any other body which meets conditions A and B below.
+
+(2) Condition A is that the body is established by virtue of Her Majesty's prerogative or by an enactment or is established in any other way by a Minister of the Crown acting as such or by a government department.
+
+(3) Condition B is that the body's revenues derive wholly or mainly from public funds.
+
+(4) In subsection (1)(d) “**local authority**” means—
+
+- (a) a local authority within the meaning of the Local Government Act 1972 (c. 70),
+- (b) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39),
+- (c) the Greater London Authority,
+- (d) the Common Council of the City of London in its capacity as a local authority, or
+- (e) the Council of the Isles of Scilly.
+
+(5) In subsection (2) “**Minister of the Crown**” includes the Scottish Ministers and the Welsh Ministers.

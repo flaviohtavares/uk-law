@@ -1,0 +1,337 @@
+---
+title: The Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013
+id: uksi/2013/556
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-07'
+text_date: '2022-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/556
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/556/pdfs/uksiem_20130556_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/556/pdfs/uksi_20130556_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/556/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013
+
+> Text as at 2022-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 556
+
+Financial Services And Markets
+
+The Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013
+
+Made
+
+7th March 2013
+
+Coming into force in accordance with article 1
+
+In accordance with section 22B(1) and (3)(a) of the Financial Services and Markets Act 2000 [^c21691651], a draft of this Order has been laid before Parliament and approved by a resolution of each House;
+
+The Treasury, in exercise of the powers conferred by sections 22A and 428(3) of the Financial Services and Markets Act 2000, make the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013.
+
+(2) This Order comes into force as follows—
+
+- (a) articles 1, 2, 8 and 9 come into force on the day after the day on which this Order is made;
+- (b) articles 3 and 4 come into force on the day after the day on which this Order is made for the purpose of making designations under article 3 which are to take effect on or after 1st April 2013;
+- (c) otherwise, this Order comes into force on 1st April 2013.
+
+(3) In this Order —
+
+- “**the Act**” means the Financial Services and Markets Act 2000;
+- “[^key-40af72d9d3b7ed09a629bc96fb23c219]**controlled function**” has the meaning given by section 59(3) of the Financial Services and Markets Act 2000;
+- “**dealing in investments as principal**” means an activity of the kind specified by article 14(1) of the Regulated Activities Order [^c21691661];
+- “[^key-2faf8c49d692718c367e721858f82a03]**FCA controlled function**” means a controlled function specified in rules made by the FCA;
+- “**PRA controlled function**” means a controlled function specified in rules made by the PRA;
+- “**the Regulated Activities Order**” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c21691671].
+
+## 2. Regulated activities which are PRA-regulated activities
+
+For the purposes of the Act, the following regulated activities are PRA-regulated activities—
+
+- (a) the activity of accepting deposits as specified by article 5 of the Regulated Activities Order [^c21691681];
+- (b) the activity of effecting a contract of insurance as principal as specified by article 10(1) of the Regulated Activities Order;
+- (c) the activity of carrying out a contract of insurance as principal as specified by article 10(2) of the Regulated Activities Order;
+- (ca)[^key-172c92a8a8117cfebc76735b59da2c54] the activity carried out by a transformer vehicle when it assumes a risk from an undertaking, as specified by article 13A of the Regulated Activities Order;
+- (d) dealing in investments as principal where carried on by a person designated by the PRA under article 3 of this Order;
+- (e) the activity of managing the underwriting capacity of a Lloyd's syndicate as a managing agent at Lloyd's as specified by article 57 of the Regulated Activities Order;
+- (f) the activity of arranging, by the society incorporated by Lloyd's Act 1871 [^c21691691] by the name of Lloyd's, of deals in contracts of insurance written at Lloyd's as specified by article 58 of the Regulated Activities Order;
+- (g) any other regulated activity carried on by that society in connection with, or for the purposes of, the activity specified in paragraph (f).
+
+## 3. Dealing in investments as principal: designation by the PRA
+
+(1) The PRA may designate a person (“P”) for the purposes of article 2(d) if—
+
+- (a) the condition in paragraph (2) is met in relation to P; and[^key-7b1974b47c63d2e1da1abdae937c3e2f]
+- (b)[^key-f0fcd9630de3c8f0c018468df3706e1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) having regard to the objectives of the PRA and to the matters mentioned in paragraph (4), the PRA considers that it is desirable that the activity of dealing in investments as principal, when carried on by P, should be a PRA-regulated activity.
+
+(2) The condition in this paragraph is that P—
+
+- (a) is an authorised person with permission to carry on the activity of dealing in investments as principal; or[^key-c3319b6ec22dc667141416836d826fea]
+- (b) is a person who has applied for Part 4A permission to carry on that activity; [^key-152ddac09503890aa2a6646041ee9ca6]...
+- [^key-152ddac09503890aa2a6646041ee9ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-59767c757a2b2ef955719ef649143c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-1afd3fdbfcf786618f3a04db266831ca] The matters specified in this paragraph are—
+
+- (a) the assets of P;
+- (b) where P is a member of a group—
+  - (i) the assets of the members of that group who satisfy the condition in paragraph (2)[^key-f364093702be5bc48d3fc37973c81c71] (regardless of whether they have been designated under this article);
+  - (ii) whether a person who has been designated under this article is a member of P's group;
+  - (iii) whether P's activities have, or might have, a material impact on the ability of the PRA to advance any of its objectives in relation to PRA-authorised persons in the group.
+
+(5) A designation under this article must relate to a particular person and may not relate to persons of a specified description.
+
+(6) Before designating a person under this article, the PRA must consult the FCA.
+
+## 4. Dealing in investments as principal: exercise of power to designate
+
+(1) This article applies to an exercise of the PRA's power to designate under article 3.
+
+(2) The designation takes effect—
+
+- (a) immediately, if the notice given under paragraph (4) states that this is the case; or
+- (b) on such date as is specified in the notice.
+
+(3) A designation may be expressed to take effect immediately only if the PRA considers that it is necessary for the designation to take effect immediately.
+
+(4) If the PRA proposes to designate a person under article 3, or to designate a person under that article with immediate effect, it must give the person concerned (“P”) written notice.
+
+(5) The notice must—
+
+- (a) state the reasons for the designation;
+- (b) inform P of when the designation takes effect and state the reasons for the PRA's determination as to when the designation takes effect;
+- (c) inform P that P may make representations to the PRA within such period as may be specified in the notice (whether or not P has referred the matter to the Tribunal); and
+- (d) inform P of P's right to refer the matter to the Tribunal.
+
+(6) The PRA may extend the period allowed under the notice for making representations.
+
+(7) If, having considered any representations made by P, the PRA decides—
+
+- (a) to designate P; or
+- (b) if P has already been designated, not to rescind the designation,
+
+the PRA must give P written notice.
+
+(8) If, having considered any representations made by P, the PRA decides—
+
+- (a) not to designate P; or
+- (b) to rescind a designation which has taken effect,
+
+the PRA must give P written notice.
+
+(9) A notice under paragraph (7) must inform P of P's right to refer the matter to the Tribunal.
+
+(10) If a notice informs P of P's right to refer a matter to the Tribunal, it must give an indication of the procedure on such a reference.
+
+(11) A person who is aggrieved by the exercise of the PRA's power to designate under article 3 may refer the matter to the Tribunal.
+
+## 5. Dealing in investments as principal: review of designations
+
+The PRA must keep under review all designations made under article 3.
+
+## 6. Dealing in investments as principal: withdrawal of designation
+
+(1) The PRA may withdraw a designation under article 3 in relation to a person (“P”) if the PRA considers it appropriate to do so.
+
+(2) If the PRA proposes to withdraw a designation in relation to P, the PRA must give P a warning notice.
+
+(3) If the PRA decides to withdraw a designation in relation to P, the PRA must give P a decision notice.
+
+(4) If the PRA decides to withdraw a designation in relation to P, P may refer the matter to the Tribunal.
+
+(5) Before withdrawing a designation under paragraph (1), the PRA must consult the FCA.
+
+## 7. Dealing in investment as principal: cessation of designation
+
+A designation under article 3 in relation to a person (“P”) ceases to have effect if P ceases to have permission to carry on the activity of dealing in investments as principal.
+
+## 8. Dealing in investments as principal: statement of policy
+
+(1) The PRA must prepare and issue a statement of its policy with respect to—
+
+- (a) the exercise of the power to designate under article 3;
+- (b) the discharge of its duty to review designations under article 5; and
+- (c) the exercise of the power to withdraw a designation under article 6.
+
+(2) The statement of policy must include—
+
+- (a) an indication of the matters that the PRA may take into account in exercising its powers under article 3 or 6 or in discharging its duty under article 5; and
+- (b) the procedures that the PRA proposes to follow in relation to the exercise of its powers under article 3 or 6.
+
+(3) The PRA may at any time alter or replace a statement issued under this article.
+
+(4) If a statement issued under this article is altered or replaced, the PRA must issue the altered or replaced statement.
+
+(5) A statement under this article must be published by the PRA in the way appearing to it to be best calculated to bring it to the attention of the public.
+
+(6) In exercising or deciding whether to exercise its powers under article 3 or 6 in any particular case, and in discharging its duty under article 5, the PRA must have regard to any statement published under this article and for the time being in force.
+
+(7) The PRA must, without delay, give the Treasury a copy of any statement which the PRA publishes under this article.
+
+## 9. Statement of policy: procedure
+
+(1) Before issuing a statement of policy under article 8, the PRA—
+
+- (a) must consult the FCA;
+- (b)[^key-80ba856c48e726221d86728defd89701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) may consult the Financial Policy Committee of the Bank of England; and
+- (d) must publish a draft of the proposed statement in the way appearing to the PRA to be best calculated to bring it to the attention of the public.
+
+(2) The draft published under paragraph (1)(d) must be accompanied by notice that representations about the proposal may be made to the PRA within a specified time.
+
+(3) Before issuing the proposed statement, the PRA must have regard to any representations made to it in accordance with paragraph (2).
+
+(4) If the PRA issues the proposed statement it must publish an account, in general terms, of—
+
+- (a) the representations made to it in accordance with paragraph (2); and
+- (b) its response to them.
+
+(5) If the statement differs from the draft published under paragraph (1)(d) in a way which is, in the opinion of the PRA, significant, the PRA must—
+
+- (a) before issuing it, consult the FCA [^key-6d2a74069c531a8db393f80e3a33241a]... again; and
+- (b) publish details of the difference (in addition to complying with paragraph (4)).
+
+(6) This article also applies to a proposal to alter or replace a statement.
+
+(7) In its application to the first statement of policy issued by the PRA under article 8—
+
+- (a) references in paragraphs (1) to (5) to the PRA are to be read as references to the Bank of England and the Financial Services Authority, acting together**;**
+- (b) paragraph (1)(a) and[^key-633379677e79712ef05800741d0576d2] (c) and paragraph (5)(a) do not apply; and
+- (c) it is immaterial whether the consultation required under this article took place prior to the date on which this article comes into force.
+
+## 10. Transitional provisions where an authorised person becomes a PRA-authorised person
+
+(1) This article applies if, after 1st April 2013, an authorised person (“PRA AP”) who is not a PRA-authorised person becomes a PRA-authorised person by virtue of a designation under article 3.
+
+(2) Paragraph (4) applies from the date on which the designation under article 3 takes effect (“**the effective date**”).
+
+(3) If the PRA gives notice to that effect in writing to PRA AP before the effective date, paragraphs (5), (6) and (7) also apply, to the extent specified in the notice.
+
+(4) To the extent necessary for the effective prudential regulation of PRA AP, things done by the FCA in relation to PRA AP prior to the effective date (other than a requirement imposed under section 55L or 196 of the Act [^c21691711], approval given under section 59 of the Act or a direction given under section 192C of the Act [^c21691721]) are to be treated, after the effective date, as done by the PRA.
+
+(5) A requirement imposed by the FCA under section 55L or 196 of the Act is to be treated, from the effective date, as imposed by the PRA.
+
+(6)[^key-e3e056a3d517d4af219e465ad9a95a6f]  Where—
+
+- (a) approval is given to a person by the FCA under section 59 of the Act in relation to PRA AP for the performance of an FCA controlled function, and
+- (b) that approval is given before the effective date,
+
+that approval is to be treated from the effective date as approval given by the PRA for the performance by that person of a PRA controlled function.
+
+(7) A direction given by the FCA under section 192C of the Act to the qualifying parent undertaking (within the meaning given by section 192B of the Act) of PRA AP is to be treated, from the effective date, as given by the PRA.
+
+## 11. Transitional provisions where a person ceases to be a PRA-authorised person
+
+(1) This article applies if a PRA-authorised person (“AP”) becomes an authorised person who is not a PRA-authorised person by virtue of a rescission of designation under article 4(8) or withdrawal of designation under article 6 or by virtue of article 7.
+
+(2) Paragraph (4) applies from the date on which the rescission or withdrawal of designation takes effect (“**the effective date**”).
+
+(3) If the FCA gives notice in writing to that effect to AP before the effective date, paragraphs (5), (6) and (7) also apply, to the extent specified in the notice.
+
+(4) To the extent necessary for the effective prudential regulation of AP, things done by the PRA in relation to AP prior to the effective date (other than a requirement imposed under section 55M or 196 of the Act, approval given under section 59 of the Act or a direction given under section 192C of the Act) are to be treated, after the effective date, as done by the FCA.
+
+(5) A requirement imposed by the PRA under section 55M or 196 of the Act is to be treated, from the effective date, as imposed by the FCA.
+
+(6)[^key-a1cdb01820bbacb2ecb5d0a2966a6cdc]  Where—
+
+- (a) approval is given to a person by the PRA under section 59 of the Act in relation to AP for the performance of a PRA controlled function, and
+- (b) that approval is given before the effective date,
+
+that approval is to be treated from the effective date as approval given by the FCA for the performance by that person of an FCA controlled function.
+
+(7) A direction given by the PRA under section 192C of the Act to the qualifying parent undertaking (within the meaning given by section 192B of the Act) of AP is to be treated, from the effective date, as given by the FCA.
+
+Stephen Crabb
+
+David Evennett
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Order)*
+
+This Order specifies, for the purposes of the Financial Services and Markets Act 2000, which regulated activities are “PRA-regulated activities” and so are the regulated activities which are subject to prudential regulation by the Prudential Regulation Authority (“PRA”), rather than the Financial Conduct Authority.
+
+Article 2 provides that the activities of accepting deposits and effecting or carrying out contracts of insurance are specified as PRA-regulated activities. Acting as a managing agent at Lloyd's and the arranging by the Society of Lloyd's of contracts of insurance written at Lloyd's are also PRA-regulated activities.
+
+The activity of dealing in investments as principal is a PRA-regulated activity only to the extent designated by the PRA under article 3. Designations relate to particular persons (rather than a class of person). Article 3 sets out the criteria which must be applied by the PRA in designating persons.
+
+Article 4 sets out the procedure the PRA must follow when designating a person under article 3.
+
+Article 5 requires the PRA to keep under review designations under article 3.
+
+Article 6 enables the PRA to withdraw a designation and sets out the procedure for withdrawal.
+
+Article 7 provides that a designation ceases to have effect if the person concerned ceases to have permission to carry on the activity of dealing in investment as principal.
+
+Article 8 requires the PRA to prepare and issue a statement of its policy in relation to designation under article 3, the review of designations under article 5 and the withdrawal of designations under article 6. Article 9 sets out the procedure that the PRA must follow in preparing a statement of policy.
+
+Article 10 makes transitional provision to deal with cases where, after 1 April 2013, an authorised person becomes a PRA-authorised person by virtue of a designation under article 3.
+
+Article 11 makes transitional provision to deal with cases where a PRA-authorised person ceases to be a PRA-authorised person by virtue of a rescission or withdrawal of authorisation.
+
+A full impact assessment of the effect that this Order will have on the costs of business and the voluntary sector is available from, Her Majesty's Treasury, 1 Horse Guards Road, London SW1A 2HQ or on www.hm-treasury.gov.uk and is published alongside the Order on www.legislation.gov.uk.
+
+## Annotations
+
+[^c21691651]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 22B inserted, with section 22A, by section 9 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^key-40af72d9d3b7ed09a629bc96fb23c219]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/556/article/1/3) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/2/a)
+
+[^c21691661]: Marginal citation: Amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
+
+[^key-2faf8c49d692718c367e721858f82a03]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/556/article/1/3) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/2/b)
+
+[^c21691671]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^c21691681]: Marginal citation: Amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682).
+
+[^key-172c92a8a8117cfebc76735b59da2c54]: Textual amendment: [Art. 2(ca)](https://www.legislation.gov.uk/uksi/2013/556/article/2/ca) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/1212/regulation/6)
+
+[^c21691691]: Marginal citation: 34 Vict c xxi.
+
+[^key-7b1974b47c63d2e1da1abdae937c3e2f]: Textual amendment: Word in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/556/article/3/1/a) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/a)
+
+[^key-f0fcd9630de3c8f0c018468df3706e1f]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2013/556/article/3/1/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/b)
+
+[^key-c3319b6ec22dc667141416836d826fea]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2013/556/article/3/2/a) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [189(2)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/189/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-152ddac09503890aa2a6646041ee9ca6]: Textual amendment: [Art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2013/556/article/3/2/c) and word omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [189(2)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/189/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-59767c757a2b2ef955719ef649143c8a]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2013/556/article/3/3) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/c)
+
+[^key-1afd3fdbfcf786618f3a04db266831ca]: Textual amendment: Art. 3(3)(a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/78)
+
+[^key-f364093702be5bc48d3fc37973c81c71]: Textual amendment: Words in [art. 3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/556/article/3/4/b/i) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(d)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/d)
+
+[^key-80ba856c48e726221d86728defd89701]: Textual amendment: [Art. 9(1)(b)](https://www.legislation.gov.uk/uksi/2013/556/article/9/1/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(4)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/4/a)
+
+[^key-6d2a74069c531a8db393f80e3a33241a]: Textual amendment: Words in [art. 9(5)(a)](https://www.legislation.gov.uk/uksi/2013/556/article/9/5/a) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(4)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/4/b)
+
+[^key-633379677e79712ef05800741d0576d2]: Textual amendment: Word in [art. 9(7)(b)](https://www.legislation.gov.uk/uksi/2013/556/article/9/7/b) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(4)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/4/c)
+
+[^c21691711]: Marginal citation: [Section 55L](https://www.legislation.gov.uk/uksi/2013/556/section/55L) inserted by section 11 of the Financial Services Act 2012; [section 196](https://www.legislation.gov.uk/uksi/2013/556/section/196) substituted by paragraph 36 of Schedule 4 to that Act.
+
+[^c21691721]: Marginal citation: [Sections 192A to 192M](https://www.legislation.gov.uk/uksi/2013/556/section/192A) inserted by section 27 of the Financial Services Act 2012.
+
+[^key-e3e056a3d517d4af219e465ad9a95a6f]: Textual amendment: [Art. 10(6)](https://www.legislation.gov.uk/uksi/2013/556/article/10/6) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(5)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/5)
+
+[^key-a1cdb01820bbacb2ecb5d0a2966a6cdc]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2013/556/article/11/6) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/6)

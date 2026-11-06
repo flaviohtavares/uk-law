@@ -1,0 +1,60 @@
+---
+title: Railways and Transport Safety Act 2003, section 46
+act: Railways and Transport Safety Act 2003
+section: '46'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2003/20/section/46
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Railways and Transport Safety Act 2003, section 46
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/20
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 46. Conditions of service: Transport Police Conference[^key-142ab8fc23acf98dc4a3bdabe067bf87]
+
+*Extent: E+W+S*
+
+(1) This section applies to action of any of the following kinds—
+
+- (a) the making by the Authority of regulations under section 36, 37 or 38 about the conditions of service of constables, special constables or cadets,
+- (b) the making by the Secretary of State of regulations under section 42 about the conditions of service of constables, special constables or cadets,
+- (c) the issuing by the Secretary of State of a document under section 29,
+- (d) the taking by the Authority of a decision about the conditions of service of constables, special constables or cadets, and
+- (e) the taking by the Secretary of State of a decision about the conditions of service of constables, special constables or cadets.
+
+(2) Before taking action to which this section applies the Authority or the Secretary of State shall invite the British Transport Police Federation to nominate a number of individuals, not fewer than two nor more than five, to meet with an equal number of individuals nominated by the Authority to discuss the action proposed.
+
+(3) Where a group is nominated under subsection (2) the person proposing to act shall, before acting—
+
+- (a) give the group an opportunity to make recommendations about the proposed action, and
+- (b) have regard to any recommendation made.
+
+(4) Where the person proposing to act thinks that a group nominated under subsection (2) is unable to agree recommendations about the proposed action he shall, before acting—
+
+- (a) give the group an opportunity to nominate an individual who is not part of the group to make recommendations about the proposed action,
+- (b) give any person nominated by the group an opportunity to make recommendations about the proposed action, and
+- (c) have regard to any recommendation made.
+
+(5) Where the person proposing to act thinks that a group nominated under subsection (2) is unable to agree a nomination under subsection (4)(a)—
+
+- (a) the Secretary of State may nominate a person to make recommendations about the proposed action, and
+- (b) the person proposing to act shall, before acting—
+  - (i) give any person nominated under paragraph (a) an opportunity to make recommendations about the proposed action, and
+  - (ii) have regard to any recommendation made.
+
+(6) In subsections (4) and (5) a reference to agreement of a group nominated under subsection (2) is a reference to the agreement of—
+
+- (a) a majority of the individuals nominated by the British Transport Police Federation, and
+- (b) a majority of the individuals nominated by the Authority.
+
+(7) In this section a reference to conditions of service includes a reference to any terms and conditions of employment (including pay and hours of duty).
+
+## Annotations
+
+[^key-142ab8fc23acf98dc4a3bdabe067bf87]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2003/20/section/46) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/cc)

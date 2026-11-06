@@ -1,0 +1,388 @@
+---
+title: The Council Tax (Discount Disregards) Order 1992
+id: uksi/1992/548
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1992-03-09'
+text_date: '2026-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1992/548
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/548/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Discount Disregards) Order 1992
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1992 No. 548
+
+COUNCIL TAX, ENGLAND AND WALES
+
+The Council Tax (Discount Disregards) Order 1992
+
+Made
+
+9th March 1992
+
+Laid before Parliament
+
+10th March 1992
+
+Coming into force
+
+31st March 1992
+
+The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by section113 of and paragraphs 1, 2, 4, 5 and 7 of Schedule 1 to the Local Government Finance Act 1992[^c18459941], and of all other powers enabling them in that behalf, hereby make the following Order—
+
+## 1. Citation, commencement , application and interpretation[^key-36a0ae79b565eabe38a3130961656eff]
+
+(1) This Order may be cited as the Council Tax (Discount Disregards) Order 1992 and shall come into force on 31st March 1992.
+
+(2) For the purposes of this Order, “the Act” means the Local Government Finance Act 1992 and “prescribed educational establishment” means a body specified in Part I or Part II of Schedule 2 to this Order.
+
+(3)[^key-5a114c1d918eac436259bda99f4ae383] This Order applies in relation to England.
+
+## 2. Persons in detention[^key-4e5b79757ae65fb881b52fde75ee69c2]
+
+Under paragraph 1(6) of Schedule 1 to the Act, a person is to be disregarded for the purposes of discount on a particular day if on the day he is imprisoned under, or in service custody for the purposes of, the Armed Forces Act 2006 and, where a person is in custody, the custody forms part of a continuous period exceeding 48 hours.
+
+## 3. The severely mentally impaired
+
+(1) The condition prescribed for the purposes of paragraph 2(1)(c) of Schedule 1 to the Act is that the person in question is entitled to one of the qualifying benefits listed in paragraph (2) below or meets the requirements in[^key-da137f74ef463af98e1447508f26b496] paragraph (3) or (4) below[^key-59dae3e70f6794ce9c069feded858217].
+
+(2) The qualifying benefits for the purposes of paragraph (1) are—
+
+- (a)[^key-bf455150e7d632a996692a7dc88a1b77] an incapacity benefit under section 30A of the Social Security (Contributions and Benefits) Act 1992;
+- (b) an attendance allowance under section 64 of that Act;
+- (c) a severe disablement allowance under section 68 of that Act;
+- (d) the care component of a disability living allowance under section 71 of that Act, payable at the highest rate under section 72(4)(a) or at the middle rate under section 72(4)(b) of that Act;
+- (e) an increase in the rate of his disablement pension under section 104 of that Act (increase where constant attendance needed);
+- (f)[^key-fc6a0205da2c3596e224754e7c4634e5] a disability working allowance under section 129 of that Act, where the qualifying benefit is—
+  - (i) one falling within subsection (2)(a)(i) or (ii) of that section, or
+  - (ii) income support, and the applicable amount formerly payable included a disability premium within the description in sub-paragraph (j) below,
+
+  or is a corresponding Northern Ireland benefit;
+- (g) an unemployability supplement under Part I of Schedule 7 to that Act;
+- (h) a constant attendance allowance under—
+  - (i) article 14 of the Personal Injuries (Civilians) Scheme 1983 [^c18459991]; or
+  - (ii) article 14 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 [^c18460001](including that provision as applied, whether with or without modifications, by any other instrument);
+- (i) an unemployability allowance under—
+  - (i) article 18(1) of the Personal Injuries (Civilians) Scheme 1983, or
+  - (ii) article 18(1) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 (including that provision as applied, whether with or without modifications, by any other instrument);
+- (j)[^key-ad8b6a0d77a76e232c4c4a714b671227] income support where the applicable amount includes a disability premium in respect of which the additional condition in paragraph 12(1)(b) of Schedule 2 to the Income Support (General) Regulations 1987 is satisfied;
+- (k)[^key-5d305241730af828f851274cdb97d9a6] incapacity benefit under sections 40 and 41 of the Social Security Contribution and Benefits Act 1992;[^key-eccac82dafe3d3c739e7fe8feca97e4a]
+- (l)[^key-ec2f66c94a6f0c642689299c6e0754ed] the standard or enhanced rate of the daily living component of personal independence payment under section 78(3) of the Welfare Reform Act 2012;
+- (m)[^key-f47c8d1b97a624a0a752b73b19c386b4] armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;
+- (n)[^key-c3466df8fad9da75b4b3604a478b4aec] universal credit under Part 1 of the Welfare Reform Act the calculation of which includes an amount under regulation 27(1) of the Universal Credit Regulations 2013 in respect of the fact that the person in question has limited capability for work or limited capability for work and work-related activity or would include such an amount but for regulation 27(4) or 29(4) of those Regulations.
+
+(3)[^key-a23a657e21d0c043b2f9a705c1fd1062] The requirements in this paragraph are—
+
+- (a) that the person in question has reached pensionable age as defined for the purposes of Parts I to VI of the Social Security Contributions and Benefits Act 1992, and
+- (b) that had he not reached pensionable age he would have been entitled to one of the benefits listed in paragraph (2) above.
+
+(4)[^key-d2a14733bf78de617ffdcce95a0879f6] The requirements of this paragraph are that—
+
+- (a) the person in question is a person whose partner is in receipt of jobseeker’s allowance, and
+- (b) by virtue of that person’s incapacity for work the applicable amount for the purposes of regulation 83 or 84 of the Jobseeker’s Allowance Regulations 1996 includes a premium which falls to be determined under paragraph (d) or (g) of paragraph 14(1) of Schedule 1 to those Regulations.
+
+## 4. Students, etc.
+
+For the purposes of paragraph 4 of Schedule 1 to the Act—
+
+- “apprentice” has the meaning given by paragraph 1 of Schedule 1 to this Order;
+- “student” means a person, [^key-8f19600474a30aa38631441086d2bd1b]... who is to be regarded as—
+  - (a) a foreign language assistant, by paragraph 2 of Schedule 1 to this Order;
+  - (b) a person undertaking a full time course of education, by paragraphs 3 and 4 of that Schedule; or
+  - (c) a person undertaking a qualifying course of education, by paragraph 5 of that Schedule.
+
+  “student nurse” has the meaning given by paragraph 7 of Schedule 1 to this Order;
+- “youth training trainee” has the meaning given by paragraph 8 of Schedule 1 to this Order. *(Extent: W)* *(affected by repeal, see note)*[^key-f1e8a02a87220fc4066fabd67bd03066]
+
+## 5. Prescribed Educational Establishments
+
+(1) For the purposes of paragraph 5 (2) of Schedule 1 to the Act the information prescribed to be contained in a certificate is—
+
+- (a) the name and address of the prescribed educational establishment by whom the certificate is issued;
+- (b) the full name of the person to whom it is issued;
+- (c) his date of birth (where this is known to the establishment and where the person falls within paragraph (c) of the definition of student in article (4) above);
+- (d) a statement certifying that he is following or has followed a course of education as a student or, as the case may be, a student nurse;
+- (e) the date when the person became a student at the establishment and the date when his course has come or is expected to come to an end.
+
+(2)[^key-6a1f43915dc945151bfaa42a09f443be] For the purposes of paragraph 5(4) of Schedule 1 to the Act, the bodies prescribed for the definition of “institution” are those institutions situated [^key-18ad22a0f94d40f479639092c0db9c6d]... which—
+
+- (a) in relation to students, are defined as prescribed educational establishments in Part I of Schedule 2 to this Order; and
+- (b) in relation to student nurses, are defined as prescribed educational establishments in Part II of that Schedule.
+
+## 6. Patients in homes[^M_F_bae1f89d-1c6a-410d-e457-f564f9758ab7]
+
+For the purposes of paragraph 7 of Schedule 1 to the Act, “hostel” means—
+
+- (a) premises approved under section 9(1) of the Criminal Justice and Court Services Act 2000, or
+- (b) a building or part of a building—
+  - (i) which is solely or mainly used for the provision of residential accommodation in other than separate and self-contained sets of premises, together with personal care, for persons who require such personal care by reason of old age, disablement, past or present alcohol or drug dependence or past or present mental disorder, and
+  - (ii) which is not a care home or independent hospital for the purposes of that paragraph.
+
+Michael Heseltine
+
+Secretary of State for the Environment
+
+David Hunt
+
+Secretary of State for Wales
+
+## SCHEDULE 1 — DEFINITION OF STUDENTS, ETC
+
+Article 4
+
+### PART I — APPRENTICES
+
+**1.** (1) A person is an apprentice on a particular day if, on that day he is—
+
+- (a) employed for the purpose of learning a trade, business, profession, office, employment or vocation;
+- (b) for that purpose undertaking a programme of training leading to—
+  - (i (Extent: W))[^M_F_e32be929-d454-4fb0-b0e5-fcfe261513a0] a qualification to which Part 7 of the Apprenticeships, Skills, Children and Learning Act 2009 applies which is awarded or authenticated by a body which is recognised by the Office of Qualifications and Examinations Regulation under section 132 of that Act in respect of the qualification, or *(Extent: W)*
+  - (ii (Extent: W)) a qualification accredited by the Scottish Vocational Education Council, or *(Extent: W)*
+  - (iii (Extent: W))[^key-9539a9b0eef211a8c2b32ec5efbdce5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: W)*
+- (c)[^M_F_f2116f9a-265a-4f8b-f6c6-6dc5d476d6fe] employed at a salary or in receipt of an allowance or both, which are, in total no more than £195 per week.
+
+(2) A person is undertaking a programme for the purposes of paragraph (1) on a particular day, if the day falls within the relevant period for that programme.
+
+### PART II — STUDENTS
+
+**2.** A person is to be regarded as a foreign language assistant on a particular day if—
+
+- (a) on the day he is registered with the British Council *(Extent: E)*[^key-f26f54ddd65a37c5b22db5a5e84f1857] as a foreign language assistant; and
+- (b) the day falls within the period of his appointment as a foreign language assistant at a school or other educational institution in Great Britain.
+
+**3.** A person is to be regarded as undertaking a full time course of education on a particular day if—
+
+- (a) on the day he is enrolled for the purpose of undertaking[^key-de9d74d987f4949a5516ec130e0ccc3c] such a course with a prescribed educational establishment within Part I of Schedule 2 to this Order, and
+- (b) the day falls within the period beginning with the day on which he begins the course and ending with the day on which he ceases to undertake it,[^key-02e4709ebf4c7a112a2d913f156ffce0]
+
+and a person is to be regarded as ceasing to undertake a course of education for the purpose of this paragraph if he has completed it, abandoned it or is no longer permitted by the educational establishment to undertake[^key-10a6b653c8fa1e1b2cb8a2dfd5642628] it.
+
+**4.** (1) A full-time course of education is, subject to subparagraphs (2) and (3), one—
+
+- (a) which subsists for at least one academic year of the educational establishment concerned or, in the case of an educational establishment which does not have academic years, for at least one calendar year;
+- (b)[^key-a3e3a18c202c76a34a1488d590ada93d] which persons undertaking it are normally required by the educational establishment concerned to undertake periods of study, tuition or work experience (whether at premises of the establishment or otherwise)—
+  - (i) of at least 24 weeks in each academic or calendar year (as the case may be) during which it subsists, and
+  - (ii) which taken together amount in each such academic or calendar year to an average of at least 21 hours a week.
+
+(2) In determining whether a course falls within the definition in sub-paragraph (1)—
+
+- (a) in applying paragraph (c) of that definition, a person is to be treated as undertaking work experience at any time if, as part of the curriculum of the course—
+  - (i) he is at a place of employment of his and is providing services under his contract of employment, or
+  - (ii) he is at a place where a trade, business, profession or other occupation which is relevant to the subject matter of the course is carried on, and he is there for the purposes of gaining experience of that trade, business, profession or other occupation,
+
+and references in sub-paragraph (3) below to periods of work experience shall be construed accordingly;
+
+- (b) in applying paragraphs (b) and (c) of that definition, the first calendar year shall be treated as beginning with the day on which the course begins, and subsequent calendar years (if any) as beginning on the anniversary of that day;
+- (c) in applying those paragraphs to a course which begins part-way through an academic year of the educational establishment concerned, the academic year shall be treated as beginning at the beginning of the term in which the course begins, and subsequent academic years (if any) as beginning at the beginning of the equivalent terms in those years; and
+- (d) in applying those paragraphs to a course which subsists (or is treated as subsisting) for other than a number of complete academic or calendar years (as the case may be), any last part of the course shall be disregarded.
+
+(3) Except in the case of a course for the initial training of teachers in schools,[^key-d00d11a7780d22b6103b5c27b2f7f16d] a course is not to be treated as a full time course of education if the aggregate for the course as a whole of all the periods of work experience normally required to be undertaken as part of it exceeds the aggregate of all the periods of study or tuition not constituting work experience normally so required (taking account for this purpose of any period of study, tuition or work experience in a part year which, might otherwise fall to be disregarded under sub-paragraph (2)(d)).
+
+**5.** (1) A person is to be regarded as undertaking a qualifying course of education on a particular day only if on that day—
+
+- (a) he is under the age of 20,
+- (b) he is not undertaking a course of full time education within the meaning of paragraphs 3 and 4 above; and
+- (c) the relevant number of hours per week for that course, or where he is undertaking 2 or more qualifying courses with the same establishment, the aggregate of the relevant number of hours per week, exceeds 12.
+
+(2) A person is undertaking a course on a day for the purposes of sub-paragraph (1) if—
+
+- (a) the day falls in the relevant period for that course, and
+- (b) he is not an apprentice or a youth training trainee.
+
+(3) In relation to a qualifying course of education “the relevant number of hours per week” means the average number of hours per week a person undertaking it would normally require to spend, in the period during which the course subsists, on relevant activities within the meaning of paragraph 6 below, (excluding for the purpose of calculating that average any period of vacation).
+
+**6.** (1) In paragraph 5, a qualifying course of education means a course—
+
+- (a) which subsists for more than 3 calendar months,
+- (b) which is not a course of higher education,
+- (c) with respect to which tuition is principally received otherwise than through correspon dence;
+- (d) which is not undertaken in consequence of an office or employment held by the person in question, and
+- (e) with respect to which the relevant activities are (insofar as they are normally carried out under the course at particular times) normally so carried out principally between 8.00 am and 5.30 pm.
+
+(2) In sub-paragraph (1),—
+
+- “relevant activities” means the receipt of tuition, the undertaking of supervised study or examination, and the taking part (as part of the curriculum of the course) in any supervised exercise, experiment, project or practical work;
+- “course of higher education” means a course which is within the meaning of the definition of “higher education” in paragraph 2 of Part I of Schedule 2 to this Order.[^key-54b2c4a5b1fe3f177bf55a0c663274a1]
+
+### PART III — STUDENT NURSES
+
+**7.** (1)[^key-9731c0f09c3c294c253e9accd3068c00] A person is a student nurse on a particular day if, on that day, he is undertaking a course which would (if successfully completed) lead to first registration in the Nurses' Part or the Midwives' Part of the register maintained by the Nursing and Midwifery Council under article 5 of the Nursing and Midwifery Order 2001.
+
+(2) A person is to be regarded as undertaking a course for the purposes of paragraph (1) on a particular day if the day falls within the relevant period for that course.
+
+### PART IV (Extent: W) (affected by repeal, see note) — YOUTH TRAINING (Extent: W) (affected by repeal, see note)[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac][^key-5e50be98b8fcb1b6bf9ecdd143dad7ac]
+
+**8 (Extent: W) (affected by repeal, see note).**[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] (1 (Extent: W) (affected by repeal, see note))[^key-157b3489707db97e691b4a7d13f4455a][^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] A person is a youth training trainee on a particular day if, on that day he is— *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac]
+
+- (a (Extent: W) (affected by repeal, see note))[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] under the age of 25; and *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac]
+- (b (Extent: W) (affected by repeal, see note))[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] undertaking training— *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac]
+  - (i (Extent: W) (affected by repeal, see note))[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] pursuant to arrangements made under section 2 of the Employment and Training Act 1973, *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac]
+  - (ii (Extent: W) (affected by repeal, see note))[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] which is funded by the *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] Secretary of State under section 14 of the Education Act 2002[^key-321b29c3499f73f81b1dcb926d71ce0d][^key-1f9a62aca1687d0dc0c1db5524f87905] *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] or *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] under section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^key-3195d2671893f35d2910b78ccca8d4f1] *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac]. *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac]
+
+(2 (Extent: W) (affected by repeal, see note))[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac] A person is to be regarded as undertaking training on a particular day for the purposes of paragraph (1) if the day falls within the relevant period for that course. *(Extent: W)* *(affected by repeal, see note)*[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac]
+
+### PART V — INTERPRETATION
+
+**9.** In this Schedule, the relevant period for a course or programme means the period beginning with the day on which a person begins that course or programme and ending with the day (“the last day”) on which he completes it, abandons it or is dismissed from it (which period includes any periods of vacation between terms and before the last day).
+
+## SCHEDULE 2 — PRESCRIBED EDUCATIONAL ESTABLISHMENTS
+
+Article 5
+
+### PART I — ESTABLISHMENTS FOR STUDENTS
+
+**1.**[^key-21f54910c3a05b87f36d7f80f15a58b4] Subject to paragraph (3) below, an institution is a prescribed educational establishment within this Part if it is—
+
+- (a) situated in a relevant territory[^key-c22f77eaed3a93c27c62813bd5616c15], and
+- (b) established solely or mainly for the purpose of providing further or higher education.
+
+**2.**[^key-178c1fa2cb71107516e6fd578997bafe] In this Part—
+
+- “further education”, in relation to a relevant territory[^key-67b19c538cd8af88858d559229fb1042], means—
+  - (a) any course of education (other than a course which is within the definition of “higher education” below) which is suitable to the requirements of persons who are over the compulsory school age applicable in that territory[^key-847cd17971c372fb9dd5509290be49ab], and
+  - (b) organised leisure-time occupation provided in connection with such a course;
+- “higher education”, in relation to a relevant territory, means any course of education the successful completion of which results in any of the following qualifications—
+  - (a) a first degree,
+  - (b) a higher degree,
+  - (c) a qualification (including a professional qualification) which is regarded by the relevant authority as being equivalent to a qualification (or part of a qualification) mentioned in paragraph (a) or (b) of this definition; and
+- “relevant authority”, in relation to a relevant territory , means the authority which in relation to that territory[^key-ad7ccf7175aecb2f5f7d6229a1485cda] has sole or primary responsibility for the regulation of higher education and[^key-ad938d37a40f134f52c35e385575da85]
+- “relevant territory” means England, [^key-90ce2d5d921b349023a8f3a333caa9f5]... Scotland, Northern Ireland or a member State.
+
+**3.** A Ministry of Defence training establishment for the armed forces is not a prescribed educational establishment within this Part of this Schedule
+
+### PART II — ESTABLISHMENTS FOR STUDENT NURSES
+
+**4.** An institution is a prescribed educational establishment within this Part if it is—
+
+- (a) a college of nursing and midwifery; or
+- (b) a college of health
+
+established by a regional or a district health authority within the meaning of section 8 of the National Health Service Act 1977 [^c18460151] or a Health Board within the meaning of section 2 of the National Health Service (Scotland) Act 1978 [^c18460161].
+
+(This note is not part of the Order)
+
+Under Part I of the Local Government Finance Act 1992, the council tax becomes payable with effect from 1st April 1993. The amount payable for the tax is reduced where a person resident in a dwelling fails to be disregarded for the purposes of discount. Schedule 1 to the 1992 Act provides for classes of persons to qualify for the purposes of discount. This order makes further provisions in relation to certain of those classes.
+
+Article 2 provides for a person to qualify for discount on a particular day if he is in military detention and certain conditions are fulfilled.
+
+Article 3 provides that, for a person to qualify for discount within the class of the severely mentally impaired, he must be entitled to one of the benefits listed in the article.
+
+Article 4 and Schedule 1 provide for the definitions of “apprentice”, “student”, “student nurse” and “youth training trainee” needed for the class of persons to qualify for discount as students.
+
+Article 5 and Schedule 2 provide for the information to be contained in a student certificate and list the bodies prescribed as the educational establishments who are to provide such certificates.
+
+Article 6(1) defines hostel for the purposes of the class of persons to qualify for discount as patients in certain homes. Article 6(2) substitutes a new definition of residential care home for the purposes of the same class.
+
+## Annotations
+
+[^c18459941]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^key-36a0ae79b565eabe38a3130961656eff]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/1992/548/article/1) heading inserted (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/1/2/a)
+
+[^key-5a114c1d918eac436259bda99f4ae383]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/1992/548/article/1/3) inserted (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/1/2/b)
+
+[^key-4e5b79757ae65fb881b52fde75ee69c2]: Textual amendment: Art. 2 substituted (31.10.2009) by virtue of [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/13) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2009/2054/schedule/2/paragraph/7))
+
+[^key-da137f74ef463af98e1447508f26b496]: Textual amendment: Words in art. 3(1) inserted (1.4.1996) by [The Council Tax (Discount Disregards) Amendment Order 1996 (S.I. 1996/636)](https://www.legislation.gov.uk/uksi/1996/636), [arts. 1](https://www.legislation.gov.uk/uksi/1996/636/article/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/636/article/2/2)
+
+[^key-59dae3e70f6794ce9c069feded858217]: Textual amendment: Words in art. 3(1) substituted (8.1.1997) by [The Council Tax (Discount Disregards) (Amendment) (No. 2) Order 1996 (S.I. 1996/3143)](https://www.legislation.gov.uk/uksi/1996/3143), [arts. 1](https://www.legislation.gov.uk/uksi/1996/3143/article/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/3143/article/2/2)
+
+[^key-bf455150e7d632a996692a7dc88a1b77]: Textual amendment: Art. 3(2)(a) substituted (13.4.1995) by [The Council Tax (Discount Disregards and Exempt Dwellings) (Amendment) Order 1995 (S.I. 1995/619)](https://www.legislation.gov.uk/uksi/1995/619), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1995/619/article/1/2), [2](https://www.legislation.gov.uk/uksi/1995/619/article/2)
+
+[^key-fc6a0205da2c3596e224754e7c4634e5]: Textual amendment: Art. 3(2)(f) substituted (1.4.1997) by [The Council Tax (Chargeable Dwellings, Exempt Dwellings and Discount Disregards) Amendment Order 1997 (S.I. 1997/656)](https://www.legislation.gov.uk/uksi/1997/656), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1997/656/article/1/2), [4](https://www.legislation.gov.uk/uksi/1997/656/article/4)
+
+[^c18459991]: Marginal citation: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686) to which there are amendments not relevant to this Order.
+
+[^c18460001]: Marginal citation: [S.I. 1983/833](https://www.legislation.gov.uk/uksi/1983/833) to which there are amendments not relevant to this Order.
+
+[^key-ad8b6a0d77a76e232c4c4a714b671227]: Textual amendment: Art. 3(2)(j) added (1.4.1994) by [The Council Tax (Discount Disregards) (Amendment) Order 1994 (S.I. 1994/543)](https://www.legislation.gov.uk/uksi/1994/543), [arts. 1](https://www.legislation.gov.uk/uksi/1994/543/article/1), [2(a)](https://www.legislation.gov.uk/uksi/1994/543/article/2/a)
+
+[^key-5d305241730af828f851274cdb97d9a6]: Textual amendment: Art. 3(2)(k) inserted (1.4.1996) by [The Council Tax (Discount Disregards) Amendment Order 1996 (S.I. 1996/636)](https://www.legislation.gov.uk/uksi/1996/636), [arts. 1](https://www.legislation.gov.uk/uksi/1996/636/article/1), [2(4)](https://www.legislation.gov.uk/uksi/1996/636/article/2/4)
+
+[^key-eccac82dafe3d3c739e7fe8feca97e4a]: Textual amendment: Semi-colon in art. 3(2)(k) substituted for full stop (W.) (8.4.2013) by [The Council Tax (Discount Disregards) (Amendment) (Wales) Order 2013 (S.I. 2013/638)](https://www.legislation.gov.uk/wsi/2013/638), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/638/article/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2013/638/article/2/a)
+
+[^key-ec2f66c94a6f0c642689299c6e0754ed]: Textual amendment: Art. 3(2)(l) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/12) and (W.) by [The Council Tax (Discount Disregards) (Amendment) (Wales) Order 2013 (S.I. 2013/638)](https://www.legislation.gov.uk/wsi/2013/638), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/638/article/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2013/638/article/2/b)
+
+[^key-f47c8d1b97a624a0a752b73b19c386b4]: Textual amendment: Art. 3(2)(m) inserted (E.) (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/5/2); and corresponding amendment (but inserted as art. 3(2)(n)) made (W.) (24.5.2013) by [The Council Tax (Discount Disregards) (Amendment No. 2) (Wales) Order 2013 (S.I. 2013/1048)](https://www.legislation.gov.uk/wsi/2013/1048), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2013/1048/article/1/1), [2](https://www.legislation.gov.uk/wsi/2013/1048/article/2/b)
+
+[^key-c3466df8fad9da75b4b3604a478b4aec]: Textual amendment: Art. 3(2)(n) inserted (E.) (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [55](https://www.legislation.gov.uk/uksi/2013/630/regulation/55); and corresponding amendment (but inserted as art. 3(2)(m)) made (W.) (29.4.2013) by [The Council Tax (Discount Disregards) (Amendment) (Wales) Order 2013 (S.I. 2013/638)](https://www.legislation.gov.uk/wsi/2013/638), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2013/638/article/1/3), [2(c)](https://www.legislation.gov.uk/wsi/2013/638/article/2/c)
+
+[^key-a23a657e21d0c043b2f9a705c1fd1062]: Textual amendment: Art. 3(3) inserted (1.4.1996) by [The Council Tax (Discount Disregards) Amendment Order 1996 (S.I. 1996/636)](https://www.legislation.gov.uk/uksi/1996/636), [arts. 1](https://www.legislation.gov.uk/uksi/1996/636/article/1), [2(3)](https://www.legislation.gov.uk/uksi/1996/636/article/2/3)
+
+[^key-d2a14733bf78de617ffdcce95a0879f6]: Textual amendment: Art. 3(4) inserted (8.1.1997) by [The Council Tax (Discount Disregards) (Amendment) (No. 2) Order 1996 (S.I. 1996/3143)](https://www.legislation.gov.uk/uksi/1996/3143), [arts. 1](https://www.legislation.gov.uk/uksi/1996/3143/article/1), [2(3)](https://www.legislation.gov.uk/uksi/1996/3143/article/2/3)
+
+[^key-8f19600474a30aa38631441086d2bd1b]: Textual amendment: Words in art. 4 revoked (1.4.1994) by [The Council Tax (Discount Disregards) (Amendment) Order 1994 (S.I. 1994/543)](https://www.legislation.gov.uk/uksi/1994/543), [arts. 1](https://www.legislation.gov.uk/uksi/1994/543/article/1), [2(b)](https://www.legislation.gov.uk/uksi/1994/543/article/2/b)
+
+[^key-f1e8a02a87220fc4066fabd67bd03066]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/1992/548/article/4) revoked (W.) (1.4.2003) by [The Council Tax (Discount Disregards) (Amendment) (Wales) Order 2003 (S.I. 2003/673)](https://www.legislation.gov.uk/wsi/2003/673), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2003/673/article/1/1), [4(1)](https://www.legislation.gov.uk/wsi/2003/673/article/4/1)
+
+[^key-6a1f43915dc945151bfaa42a09f443be]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/uksi/1992/548/article/5/2) substituted (13.5.2011) by [The Council Tax (Discount Disregards) (Amendment) Order 2011 (S.I. 2011/948)](https://www.legislation.gov.uk/uksi/2011/948), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/948/article/1/2), [3](https://www.legislation.gov.uk/uksi/2011/948/article/3)
+
+[^key-18ad22a0f94d40f479639092c0db9c6d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1992/548/article/5/2) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/1/3)
+
+[^M_F_bae1f89d-1c6a-410d-e457-f564f9758ab7]: Textual amendment: Art. 6 substituted (E.) (1.1.2004) by [The Council Tax (Chargeable Dwellings, Exempt Dwellings and Discount Disregards) (Amendment) (England) Order 2003 (S.I. 2003/3121)](https://www.legislation.gov.uk/uksi/2003/3121), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/3121/article/1/1), [4](https://www.legislation.gov.uk/uksi/2003/3121/article/4); and (W.) (1.4.2005) by [The Council Tax (Chargeable Dwellings, Exempt Dwellings and Discount Disregards) (Amendment) (Wales) Order 2004 (S.I. 2004/2921)](https://www.legislation.gov.uk/uksi/2004/2921), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/2921/article/1/1), [4](https://www.legislation.gov.uk/uksi/2004/2921/article/4)
+
+[^M_F_e32be929-d454-4fb0-b0e5-fcfe261513a0]: Textual amendment: Sch. 1 para. 1(1)(b)(i)(ii) substituted for words in Sch. 1 para. 1(1)(b) (E.) (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009, Parts 7 and 8 (Consequential Amendments) Order 2010 (S.I. 2010/677)](https://www.legislation.gov.uk/uksi/2010/677), [arts. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1), [2](https://www.legislation.gov.uk/uksi/2010/677/article/2); and Sch. 1 para. 1(1)(b)(i)-(iii) substituted for words in Sch. para. 1(1)(b) (W.) (1.11.2010) by [The Council Tax (Discount Disregards) (Amendment) (Wales) Order 2010 (S.I. 2010/2448)](https://www.legislation.gov.uk/uksi/2010/2448), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2448/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/2448/article/2/2)
+
+[^key-9539a9b0eef211a8c2b32ec5efbdce5a]: Textual amendment: [Sch. 1 para. 1(1)(b)(iii)](https://www.legislation.gov.uk/uksi/1992/548/schedule/1/paragraph/1/1/b/iii) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/1/4)
+
+[^M_F_f2116f9a-265a-4f8b-f6c6-6dc5d476d6fe]: Textual amendment: Sch. 1 para. 1(1)(c) substituted (E.) (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Council Tax (Discount Disregards) (Amendment) (England) Order 2006 (S.I. 2006/3396)](https://www.legislation.gov.uk/uksi/2006/3396), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/3396/article/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/3396/article/2/2/a/ii); and corresponding amendments made to Sch. 1 para. 1(1)(c) (W.) (1.4.2007) by virtue of [The Council Tax (Discount Disregards) (Amendment) (Wales) Order 2007 (S.I. 2007/580)](https://www.legislation.gov.uk/uksi/2007/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/580/article/1/1), [3(1)(b)(c)](https://www.legislation.gov.uk/uksi/2007/580/article/3/1/b)
+
+[^key-f26f54ddd65a37c5b22db5a5e84f1857]: Textual amendment: Words in Sch. 1 para. 2(a) substituted (with effect in accordance with art. 1(2)(b) of the amending S.I. for E.) by [The Council Tax (Discount Disregards) (Amendment) (England) Order 2006 (S.I. 2006/3396)](https://www.legislation.gov.uk/uksi/2006/3396), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/3396/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2006/3396/article/2/2/b); and (1.4.2007 for W.) by [The Council Tax (Discount Disregards) (Amendment) (Wales) Order 2007 (S.I. 2007/580)](https://www.legislation.gov.uk/uksi/2007/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/580/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/580/article/3/2)
+
+[^key-de9d74d987f4949a5516ec130e0ccc3c]: Textual amendment: Word in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1992/548/schedule/1/paragraph/3) substituted (13.5.2011) by [The Council Tax (Discount Disregards) (Amendment) Order 2011 (S.I. 2011/948)](https://www.legislation.gov.uk/uksi/2011/948), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/948/article/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2011/948/article/4/a)
+
+[^key-02e4709ebf4c7a112a2d913f156ffce0]: Textual amendment: Words in Sch. 1 para. 3(b) substituted (1.4.1996) by [The Council Tax (Discount Disregards) Amendment Order 1996 (S.I. 1996/636)](https://www.legislation.gov.uk/uksi/1996/636), [arts. 1](https://www.legislation.gov.uk/uksi/1996/636/article/1), [2(5)](https://www.legislation.gov.uk/uksi/1996/636/article/2/5)
+
+[^key-10a6b653c8fa1e1b2cb8a2dfd5642628]: Textual amendment: Word in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1992/548/schedule/1/paragraph/3) substituted (13.5.2011) by [The Council Tax (Discount Disregards) (Amendment) Order 2011 (S.I. 2011/948)](https://www.legislation.gov.uk/uksi/2011/948), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/948/article/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2011/948/article/4/b)
+
+[^key-a3e3a18c202c76a34a1488d590ada93d]: Textual amendment: Sch. 1 para. 4(1)(b) substituted for Sch. 1 para. 4(1)(b)(c) (13.5.2011) by [The Council Tax (Discount Disregards) (Amendment) Order 2011 (S.I. 2011/948)](https://www.legislation.gov.uk/uksi/2011/948), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/948/article/1/2), [5](https://www.legislation.gov.uk/uksi/2011/948/article/5)
+
+[^key-d00d11a7780d22b6103b5c27b2f7f16d]: Textual amendment: Words in Sch. 1 para. 4(3) inserted (1.4.1995) by [The Council Tax (Discount Disregards and Exempt Dwellings) (Amendment) Order 1995 (S.I. 1995/619)](https://www.legislation.gov.uk/uksi/1995/619), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1995/619/article/1/2), [3](https://www.legislation.gov.uk/uksi/1995/619/article/3)
+
+[^key-54b2c4a5b1fe3f177bf55a0c663274a1]: Textual amendment: Words in [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/1992/548/schedule/1/paragraph/6/2) substituted (13.5.2011) by [The Council Tax (Discount Disregards) (Amendment) Order 2011 (S.I. 2011/948)](https://www.legislation.gov.uk/uksi/2011/948), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/948/article/1/2), [6](https://www.legislation.gov.uk/uksi/2011/948/article/6)
+
+[^key-9731c0f09c3c294c253e9accd3068c00]: Textual amendment: Sch. 1 para. 7(1) substituted (1.8.2004) by [The Health Act 1999 (Consequential Amendments) (Nursing and Midwifery) Order 2004 (S.I. 2004/1771)](https://www.legislation.gov.uk/uksi/2004/1771), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1771/article/1/1), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2004/1771/schedule/paragraph/46)
+
+[^key-5e50be98b8fcb1b6bf9ecdd143dad7ac]: Textual amendment: Sch. 1 Pt. 4 revoked (W.) (1.4.2003) by [The Council Tax (Discount Disregards) (Amendment) (Wales) Order 2003 (S.I. 2003/673)](https://www.legislation.gov.uk/uksi/2003/673), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/673/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2003/673/article/4/2)
+
+[^key-157b3489707db97e691b4a7d13f4455a]: Textual amendment: Sch. 1 para. 8(1) substituted (E.) (with effect in accordance with art. 1(2)(b) of the amending S.I.) by [The Council Tax (Discount Disregards) (Amendment) (England) Order 2006 (S.I. 2006/3396)](https://www.legislation.gov.uk/uksi/2006/3396), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/3396/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2006/3396/article/2/2/c)
+
+[^key-321b29c3499f73f81b1dcb926d71ce0d]: Textual amendment: Words in Sch. 1 para. 8(1)(b)(ii) substituted (1.5.2012) by [The Young People’s Learning Agency Abolition (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/956)](https://www.legislation.gov.uk/uksi/2012/956), [arts. 1](https://www.legislation.gov.uk/uksi/2012/956/article/1), [4](https://www.legislation.gov.uk/uksi/2012/956/article/4)
+
+[^key-1f9a62aca1687d0dc0c1db5524f87905]: Textual amendment: Words in Sch. 1 para. 8(b)(ii) substituted (E.) (1.9.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments to Subordinate Legislation) (England) Order 2010 (S.I. 2010/1941)](https://www.legislation.gov.uk/uksi/2010/1941), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1941/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1941/article/4)
+
+[^key-3195d2671893f35d2910b78ccca8d4f1]: Textual amendment: Words in Sch. 1 para. 8(1)(b)(ii) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/3)
+
+[^key-21f54910c3a05b87f36d7f80f15a58b4]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1992/548/schedule/2/paragraph/1) substituted (13.5.2011) by [The Council Tax (Discount Disregards) (Amendment) Order 2011 (S.I. 2011/948)](https://www.legislation.gov.uk/uksi/2011/948), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/948/article/1/2), [7](https://www.legislation.gov.uk/uksi/2011/948/article/7)
+
+[^key-c22f77eaed3a93c27c62813bd5616c15]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1992/548/schedule/2/paragraph/1) substituted (31.12.2020) by [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-178c1fa2cb71107516e6fd578997bafe]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/548/schedule/2/paragraph/2) substituted (13.5.2011) by [The Council Tax (Discount Disregards) (Amendment) Order 2011 (S.I. 2011/948)](https://www.legislation.gov.uk/uksi/2011/948), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/948/article/1/2), [7](https://www.legislation.gov.uk/uksi/2011/948/article/7)
+
+[^key-67b19c538cd8af88858d559229fb1042]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/548/schedule/2/paragraph/2) substituted (31.12.2020) by [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-847cd17971c372fb9dd5509290be49ab]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/548/schedule/2/paragraph/2) substituted (31.12.2020) by [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/2/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad7ccf7175aecb2f5f7d6229a1485cda]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/548/schedule/2/paragraph/2) substituted (31.12.2020) by [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/2/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad938d37a40f134f52c35e385575da85]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/548/schedule/2/paragraph/2) added (31.12.2020) by [The Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1386)](https://www.legislation.gov.uk/uksi/2018/1386), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1386/regulation/1), [2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1386/regulation/2/2/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-90ce2d5d921b349023a8f3a333caa9f5]: Textual amendment: Word in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/548/schedule/2/paragraph/2) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/1/5)
+
+[^c18460151]: Marginal citation: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49): section 8 has been amended by the [Health Services Act 1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53) sections 1 and 2 and Schedule 1, Part I, paragraph 28 and the [National Health Service and Community Care Act 1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), [section 1](https://www.legislation.gov.uk/ukpga/1990/19/section/1).
+
+[^c18460161]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29): section 2 has been amended by section 28 of the National Health Service and Community Care Act 1990.

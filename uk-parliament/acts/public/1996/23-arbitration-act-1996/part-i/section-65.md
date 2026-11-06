@@ -1,0 +1,25 @@
+---
+title: Arbitration Act 1996, section 65
+act: Arbitration Act 1996
+section: '65'
+status: revised
+text_date: '2025-08-01'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1996/23/section/65
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Arbitration Act 1996, section 65
+
+> Text as at 2025-08-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 65. Power to limit recoverable costs.
+
+*Extent: E+W+N.I.*
+
+(1) Unless otherwise agreed by the parties, the tribunal may direct that the recoverable costs of the arbitration, or of any part of the arbitral proceedings, shall be limited to a specified amount.
+
+(2) Any direction may be made or varied at any stage, but this must be done sufficiently in advance of the incurring of costs to which it relates, or the taking of any steps in the proceedings which may be affected by it, for the limit to be taken into account.

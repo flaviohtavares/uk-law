@@ -1,0 +1,82 @@
+---
+title: The Road Traffic (Special Parking Areas) (London Boroughs of Richmond upon Thames and Southwark) Order 1993
+id: uksi/1993/3239
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-12-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/3239
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/3239/made/data.pdf
+pending_changes: 6
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Traffic (Special Parking Areas) (London Boroughs of Richmond upon Thames and Southwark) Order 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 3239
+
+ROAD TRAFFIC
+
+The Road Traffic (Special Parking Areas) (London Boroughs of Richmond upon Thames and Southwark) Order 1993
+
+Made
+
+23rd December 1993
+
+Laid before Parliament
+
+10th January 1994
+
+Coming into force
+
+31st January 1994
+
+Whereas the councils of the London boroughs of Richmond upon Thames and Southwark have each applied to the Secretary of State for an order to be made under section 76 of the Road Traffic Act 1991[^f00001] and the Secretary of State has consulted the Commissioner of Police of the Metropolis in accordance with section 76(2) of that Act:
+
+NOW, the Secretary of State for Transport, in exercise of the powers conferred by section 76(1) and section 77(6) of the Road Traffic Act 1991 and of all other powers enabling him in that behalf, hereby makes the following Order:—
+
+## Contents
+
+- [Section 1 — Citation and commencement](section-1.md)
+- [Section 3 — Designation of special parking areas](section-3.md)
+- [Section 4 — Modification of the Road Traffic Regulation Act 1984](section-4.md)
+- [Section 5 — Modification of the Road Traffic Act 1991](section-5.md)
+
+- [SCHEDULE 1](schedule-1.md)
+- [SCHEDULE 2](schedule-2.md)
+
+## Interpretation 2.
+
+In this Order—
+
+- “the 1984 Act” means the Road Traffic Regulation Act 1984[^f00002];
+- “the 1991 Act” means the Road Traffic Act 1991;
+- a reference in a Schedule to a number followed by the letter “m” is a reference to that number of metres; and
+- a reference to a Schedule followed by a number is a reference to the Schedule to this Order bearing that number.
+
+Signed by authority of the Secretary of State for Transport
+
+Steven Norris
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+23rd December 1993
+
+(This note is not part of the Order)
+
+This Order designates the whole of the London boroughs of Richmond upon Thames (excluding the roads referred to in Schedule 1) and Southwark (excluding the roads and areas referred to in Schedule 2) as special parking areas for the purposes of Part II of the Road Traffic Act 1991 with effect from 31st January 1994. The Order also makes consequential modifications to the Road Traffic Regulation Act 1984 and to Part II of the 1991 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 40](https://www.legislation.gov.uk/ukpga/1991/40).
+
+[^f00002]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27); section 55 is amended by paragraph 5 of Schedule 7 to the Road Traffic Act 1991. Section 101 is amended by section 67 and section 102 by section 68 of that Act. Both sections are also affected by transitional provisions in the [Road Traffic Act 1991 (Commencement No. 6 and Transitional Provisions) Order 1993 (S.I. 1993/ 1461](https://www.legislation.gov.uk/uksi/1993/1461), amended by S.I. [1993/2229](https://www.legislation.gov.uk/uksi/1993/2229)) and in the Road Traffic Act 1991 (Commencement No. 9 and Transitional Provisions) Order 1993 (S.I. [1993/3238](https://www.legislation.gov.uk/uksi/1993/3238)).

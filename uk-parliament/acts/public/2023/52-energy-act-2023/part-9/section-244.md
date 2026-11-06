@@ -1,0 +1,52 @@
+---
+title: Energy Act 2023, section 244
+act: Energy Act 2023
+section: '244'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/244
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 244
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 244. Regulations: procedure and supplemental[^key-d562b6d0dda4274858e0b633f34179c3][^key-fdf72fb177b6d6fb0e3671691299435b]
+
+*Extent: E+W+S*
+
+(1) Regulations under section 239 may provide for exemptions or exceptions.
+
+(2) Energy smart regulations may make provision about the sharing of information between an enforcement authority and the GEMA for the purposes of their functions in relation to energy smart appliances and load control.
+
+(3) The Secretary of State must consult such persons as the Secretary of State thinks fit before making regulations under section 239 that—
+
+- (a) make a description of appliance subject to energy smart regulations;
+- (b) amend the list of purposes in section 239(2).
+
+(4) Subsection (3) may be satisfied by consultation before, as well as by consultation after, the passing of this Act.
+
+(5) The first energy smart regulations, and any regulations under section 239 that (with or without other provision) amend the list of purposes in section 239(2) or create a criminal offence (see section 242), are subject to the affirmative procedure.
+
+(6) Energy smart regulations that are not within subsection (5) are subject to the made affirmative procedure if they—
+
+- (a) are the first energy smart regulations to make provision about a particular description of energy smart appliance,
+- (b) make provision by virtue of section 239(4)(b) imposing requirements of a kind not previously imposed by energy smart regulations,
+- (c) make provision by virtue of section 240(1)(a) or (b) by reference or in relation to a published document, standard or list (as the case may be) in respect of which such provision has not previously been made,
+- (d) confer new powers for the enforcement of energy smart regulations, or
+- (e) make provision by virtue of section 242(2) for the imposition of new civil penalties.
+
+(7) A revised version of a published document, standard or list is to be disregarded for the purposes of subsection (6)(c) if provision has previously been made in respect of the document, standard or list by virtue of section 240(1)(a) or (b) (as the case may be).
+
+(8) Any other regulations under section 239 are subject to the negative procedure.
+
+## Annotations
+
+[^key-d562b6d0dda4274858e0b633f34179c3]: Commencement: S. 244 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+
+[^key-fdf72fb177b6d6fb0e3671691299435b]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2023/52/section/244) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)

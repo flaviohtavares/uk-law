@@ -1,0 +1,116 @@
+---
+title: The Education (Co-ordination of Admission Arrangements) (Secondary Schools) (England) (Amendment) Regulations 2004
+id: uksi/2004/1516
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-06-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/1516
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1516/pdfs/uksiem_20041516_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1516/pdfs/uksi_20041516_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1516/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Co-ordination of Admission Arrangements) (Secondary Schools) (England) (Amendment) Regulations 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No. 1516
+
+EDUCATION, ENGLAND
+
+The Education (Co-ordination of Admission Arrangements) (Secondary Schools) (England) (Amendment) Regulations 2004
+
+Made
+
+17th June 2004
+
+Laid before Parliament
+
+25th June 2004
+
+Coming into force
+
+16th July 2004
+
+In exercise of the powers conferred on the Secretary of State by sections 89B (1), (4), (5) and (6), 89C (1), 138(7) and 144(1) of the School Standards and Framework Act 1998[^f00001] the Secretary of State for Education and Skills hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Education (Co-ordination of Admission Arrangements) (Secondary Schools) (England) (Amendment) Regulations 2004 and shall come into force on 16<sup>th</sup> July 2004.
+
+## 2. Amendment of Regulations
+
+The Education (Co-ordination of Admission Arrangements) (Secondary Schools) (England) Regulations 2002[^f00002] are amended as follows.
+
+**3.** For regulation 3(3)(b) substitute—
+
+> - (b) an imposed scheme has been made or has effect in relation to the preceding academic year and has not been revoked, and the authority, after reviewing the scheme, consider that the scheme should be adopted by themselves and each governing body who are the admission authority for a secondary school in their area in relation to the academic year immediately following.
+
+.
+
+**4.** In regulation 5 after the words “qualifying scheme,” insert the words “or where the authority adopt a scheme pursuant to regulation 3(3),”.
+
+**5.** For regulation 6(1) substitute—
+
+> (1) In any case where by 15<sup>th</sup> April in the relevant determination year an authority have not informed the Secretary of State in accordance with regulation 5 that a scheme has been adopted in relation to each secondary school in their area—
+>
+> - (a) an imposed scheme may be made or,
+> - (b) where an imposed scheme has been made or has effect in relation to the preceding academic year and has not been revoked, the Secretary of State may notify the authority that that scheme shall continue to have effect in relation to the academic year immediately following.
+
+.
+
+**6.** In paragraph 1(a) of the Schedule after the words “the scheme” insert—
+
+> , save in any case where
+>
+> - (i) a parent applies for a secondary school in the area of the local education authority, and for a secondary school in the area of a different local education authority, and
+> - (ii) those local education authorities have agreed to ensure, so far as is reasonably practicable, that the parent receives only one offer of a school place,
+>
+> when paragraph 4A shall apply
+
+.
+
+**7.** After paragraph 4 of the Schedule insert—
+
+> **4A.** Where paragraphs (i) and (ii) of paragraph 1(a) apply–
+>
+> - (a) the home authority before making their determination under paragraph 2(c), and the maintaining authority before making their determination under paragraph 4(c), shall—
+>   - (i) each notify the other of their proposed determination, and
+>   - (ii) in making their determinations, each have regard to the proposed determination of the other,
+> - (b) where only one of the authorities determines to offer a school place—
+>   - (i) one authority shall communicate to the parent both the authorities' determinations granting or refusing admission on the day prescribed by regulation 7(2) (such determinations being communicated on behalf of a school’s governing body in a case where an authority are not the admission authority for a school),
+>   - (ii) in respect of schemes relating to the academic year 2006-07 and any subsequent year, the scheme shall specify which of the authorities shall communicate the determinations, and
+>   - (iii) the requirements of paragraphs 2(e) and 4(e) shall not apply in respect of such determinations, and
+> - (c) paragraph 3(b) shall not apply to the scheme.
+
+**8.** Paragraph 6 of the Schedule is omitted.
+
+David Miliband
+
+Minister of State,
+
+Department for Education and Skills
+
+17th June 2004
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education (Co-ordination of Admission Arrangements) (Secondary Schools) (England) Regulations 2002, which make provision for co-ordinating the arrangements for the admission of pupils to secondary schools, and come into force on \[ … \] 2004.
+
+The Regulations release local education authorities from the duty to formulate a qualifying scheme where they adopt a previously imposed scheme \[regulation 3\], enable local education authorities to co-ordinate their admission arrangements in circumstances where a parent applies for places at secondary schools in more than one area with a view to only one offer of a place being made \[regulations 6 and 7\], and make other consequential and minor amendments.
+
+The Department considers that these Regulations will have no effect on the costs of businesses and accordingly a Regulatory Impact Assessment has not been prepared.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Sections 89B and 89C were inserted by section 48 of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^f00002]: Footnote: S.I. [2002/2904](https://www.legislation.gov.uk/uksi/2002/2904).

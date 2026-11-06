@@ -1,0 +1,377 @@
+---
+title: The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017
+id: uksi/2017/369
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-09'
+text_date: '2021-03-08'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2017/369
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/369/pdfs/uksiem_20170369_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/369/pdfs/uksi_20170369_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/369/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017
+
+> Text as at 2021-03-08.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 369
+
+Insolvency
+
+The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017
+
+Made
+
+9th March 2017
+
+Laid before Parliament
+
+13th March 2017
+
+Coming into force
+
+6th April 2017
+
+The Lord Chancellor has consulted the committee that exists for the purposes of section 413 of the Insolvency Act 1986[^f00001].
+
+The Lord Chancellor, with the concurrence of the Secretary of State for Business, Energy and Industrial Strategy, in exercise of the powers conferred by sections 411 and 412 of the Insolvency Act 1986, makes the following rules.
+
+## 1. Citation and commencement[^key-8513d84455c2578cf6ccf1cc557c2241]
+
+These Rules may be cited as the Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 and come into force on 6th April 2017.
+
+## 2. Amendments consequential on the Insolvency (England and Wales) Rules 2016[^key-d3bc87d8dd6798edc8cca371ecc58fb9]
+
+(1) Schedule 1, which amends Acts of Parliament, has effect.
+
+(2) Schedule 2, which amends subordinate legislation, has effect.
+
+## 3. Savings in relation to special insolvency rules[^key-3fa5b00221decbfac2b0b33898a57c80]
+
+The Insolvency Rules 1986, as they had effect immediately before 6th April 2017, insofar as they apply to proceedings under the following instruments, continue to have effect for the purposes of the application of—
+
+- (a) the Railway Administration Order 2001[^f00002];
+- (b)[^key-dd5b5109714ee87d799f6c4455588a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the Energy Act 2004[^f00004];
+- (d) the Energy Administration Rules 2005[^f00005];
+- (e) the PPP Administration Order Rules 2007[^f00006];
+- (f) the Water Industry (Special Administration) Rules 2009[^f00007];
+- (g) the Energy Act 2011[^f00008];
+- (h) the Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012[^f00009];
+- (i) the Energy Supply Company Administration Rules 2013[^f00010]; and
+- (j) the Postal Administration Rules 2013[^f00011].
+
+Signed by the authority of the Lord Chancellor
+
+Oliver Heald
+
+Minister of State
+
+Ministry of Justice
+
+9th March 2017
+
+I concur, on behalf of the Secretary of State
+
+Margot James
+
+Minister for Small Business, Consumer and Corporate Responsibility
+
+Department for Business, Energy and Industrial Strategy
+
+9th March 2017
+
+## SCHEDULE 1 — Consequential amendments to Acts of Parliament
+
+Rule 2(1)
+
+### 1. Solicitors Act 1974[^key-44c143bc8e99be212b46a477866fefd6]
+
+In section 16(2A)(a) of the Solicitors Act 1974 (duration of suspension of practising certificates)[^f00012], for “Rule 5A.16 of the Insolvency Rules 1986” substitute “Rule 9.18 of the Insolvency (England and Wales) Rules 2016”.
+
+### 2. Administration of Justice Act 1985[^key-ff0422349b46ba981f2c3fa35defcd0b]
+
+In section 18(2ZA) of the Administration of Justice Act 1985 (suspension or termination of licences)[^f00013], for “Rule 5A.16 of the Insolvency Rules 1986” substitute “Rule 9.18 of the Insolvency (England and Wales) Rules 2016”.
+
+### 3. Insolvency Act 1986[^key-0bf27f015f570f5a932252540b798ac9]
+
+In section 385(1) of the Insolvency Act 1986 (Second Group of Parts: miscellaneous definitions)[^f00014], in the definition of “the Rules”, for “Insolvency Rules 1986” substitute “Insolvency (England and Wales) Rules 2016”.
+
+## SCHEDULE 2 — Consequential amendments to subordinate legislation
+
+Rule 2(2)
+
+### 1. References to “Insolvency Rules 1986”[^key-2a535f38cd1dadc6484c211476ff8f5e]
+
+In each of the following provisions, for “Insolvency Rules 1986”, in each place it occurs, substitute “Insolvency (England and Wales) Rules 2016”.
+
+| Subordinate legislation | References | Provision |
+| --- | --- | --- |
+| Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information (Amendment and Specification) Order 2003 | [2003/1400](https://www.legislation.gov.uk/uksi/2003/1400) | Schedule 4 |
+| Cross-Border Insolvency Regulations 2006 | [2006/1030](https://www.legislation.gov.uk/uksi/2006/1030) | Regulation 1(1) |
+| [^key-3ea20678e5b45cbd59e4401135da2d18]. . . | [^key-3ea20678e5b45cbd59e4401135da2d18]. . . | [^key-3ea20678e5b45cbd59e4401135da2d18]. . . |
+
+### 2. Solicitors’ Recognised Bodies Order 1991[^key-00f12ba345c04778ffe544195afd9b7d]
+
+In Schedule 1 to the Solicitor’s Recognised Bodies Order 1991[^f00015], in the table headed “Statutory instruments which apply to recognised bodies”—
+
+- (a) omit the entry for the Insolvency Rules 1986; and
+- (b) insert in the relevant place—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | [S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024) | Insolvency (England and Wales) Rules 2016 | The whole instrument except rules 7.7, 7.30, 7.106, 10.11, 10.103 and 12.19 |
+
+  .
+
+### 3. Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules 1987[^key-be88152c0932f0550a8bcb9eb58e5f00]
+
+(1) The Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules 1987[^f00016] are amended as follows.
+
+(2) For rule 1(2)(e), substitute—
+
+> - (e) “registrar” has the same meaning as in rule 1.2(2) of the Insolvency (England and Wales) Rules 2016, and
+
+(3) In rule 2—
+
+- (a) For sub-paragraph (4), substitute—
+
+  > (4) Rule 12.59 (appeals and reviews of court orders in corporate insolvency) and rule 12.62 (procedure on appeal) of the Insolvency (England and Wales) Rules 2016 apply.
+- (b) In sub-paragraph (5), for “The Insolvency Rules 1986” substitute “The Insolvency (England and Wales) Rules 2016”.
+
+### 4. Insolvency Regulations 1994[^key-c6346a8006cec6adba61cfc4b3fc4488]
+
+(1) The Insolvency Regulations 1994[^f00017] are amended as follows.
+
+(2) In regulation 3(1) (interpretation and application), in the definition of “the Rules”, for “the Insolvency Rules 1986” substitute “The Insolvency (England and Wales) Rules 2016”.
+
+(3) In regulation 14(3), for “rule 4.125(5)” in each of the places it appears substitute rules “7.69 and 7.70”.
+
+(4) In regulation 17(1), omit “whether the winding up has been concluded under Rule 4.223 or not,”.
+
+(5) In regulation 28(3), for “Rule 6.137(5)”, in the two places in which it appears, substitute “rule 10.87(7)”.
+
+### 5. Contracting Out (Functions of the Official Receiver) Order 1995[^key-d4afb3ffdd438c15d856392cc43b60f5]
+
+(1) The Contracting Out (Functions of the Official Receiver) Order 1995[^f00018] is amended as follows.
+
+(2) In rule 2(1) (interpretation)—
+
+- (a) In the definition of “the insolvency legislation”, for “rule 12.1” substitute “Introductory Rule 5”.
+- (b) For the definition of “the Rules” substitute ““the Rules” means the Insolvency (England and Wales) Rules 2016”.
+
+(3) In the Schedule—
+
+- (a) Omit paragraph 3.
+- (b) For paragraph 8, substitute—
+
+  > **8.** The functions of the official receiver—
+  >
+  > - (a) exercisable under rule 17.28(2) (functions of committee in winding up by court or bankruptcy exercisable by official receiver); or
+  > - (b) in relation to the hearing of an application made under—
+  >   - (i) section 280 (discharge by order of the court);
+  >   - (ii) rule 7.44(2) (application to court for a release or extension of time in respect of statement of affairs in a winding up by the court); or
+  >   - (iii) rule 10.58(2) (application to court by bankrupt for a release or extension of time in respect of statement of affairs).
+
+(4) Omit paragraph 11.
+
+(5) In paragraph 14—
+
+- (a) In sub-paragraph (d), for “rule 4.36(5)” substitute “rule 7.44(6)(a)”;
+- (b) In sub-paragraph (e), for “rule 6.62(5)” substitute “rule 10.58(6)(a)”; and
+- (c) In sub-paragraph (f), for “rule 6.215(2)” substitute “rule 10.142(2)”.
+
+(6) Omit paragraph 21.
+
+### 6. Insurers (Winding Up) Rules 2001[^key-a8a2707719732539b4bf7e981692fa97]
+
+(1) The Insurers (Winding Up) Rules 2001[^f00019] are amended as follows.
+
+(2) In rule 2(1), in the definition of “the principal rules,” for “the Insolvency Rules 1986” substitute “the Insolvency (England and Wales) Rules 2016”.
+
+(3) In rule 19, for “rule 4.207 of the principal rules (security) applies” substitute “rules 5.18 (security by the liquidator and special manager in a members’ voluntary winding up), 6.38 (security in a creditors’ voluntary winding up) and 7.94 (winding up by the court) of the principal rules apply”.
+
+(4) In rule 23(2) (dividends for creditors), for “Part II” substitute “Part III”.
+
+(5) In rule 26(1), for “rule 4.218 of the principal rules (general rule as to priority) applies” substitute “rules 6.42 (general rule as to priority in a creditors’ winding up) and 7.108 (general rule as to priority in a winding up by the court) of the principal rules apply”.
+
+### 7. Pension Protection Fund (Entry Rules) Regulations 2005[^key-de11339bf00d75fb313b9f408c0310fd]
+
+(1) The Pension Protection Fund (Entry Rules) Regulations 2005[^f00020] are amended as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), paragraph 3, omit the definition of “the Insolvency Rules”.
+
+(3) In regulation 5(1)(a)(iii) (prescribed insolvency events), for “Rule 2.132 of the Insolvency Rules (conversion of administration to winding up – power of court)” substitute “rule 21.3 of the Insolvency (England and Wales) Rules 2016 (conversion into winding up proceedings or bankruptcy: court order)”.
+
+(4) In regulation 5(1)(aa)(i) (prescribed insolvency events), for “Insolvency Rules” substitute “Insolvency Rules 1986”.
+
+(5) In regulation 6(1)(a)(iii) (circumstances in which insolvency proceedings in relation to the employer are stayed or come to an end), for “Rule 2.132 of the Insolvency Rules (conversion of administration to winding up – power of court)” substitute “rule 21.3 of the Insolvency (England and Wales) Rules 2016 (conversion into winding up proceedings or bankruptcy: court order)”.
+
+(6) In regulation 6(1)(c)(iii)(bb), for “the Insolvency Rules” substitute “the Insolvency Rules 1986”.
+
+### 8. Civil Partnership (Treatment of Overseas Relationships) Order 2005[^key-b1b42eeb7ae2f276e50648e6bd60f826]
+
+For article 2(e)(ii) (overseas relationships dissolved etc. before commencement treated as civil partnerships) of the Civil Partnership (Treatment of Overseas Relationships) Order 2005[^f00021], substitute—
+
+> - (ii) (rules 10.167 (bankrupt’s home: property falling within section 283A), 10.168 (application in relation to the vesting of an interest in a dwelling-house (registered land), 10.169 (vesting of bankrupt’s interest (unregistered land)) and 10.171 (charging order) of the Insolvency (England and Wales) Rules 2016[^f00022].
+
+### 9. Legal Services Act 2007 (Designation of a Licensing Authority) (No. 2) Order 2011[^key-71e875d7ab184304691d8bddb8f0009b]
+
+(1) The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011[^f00023] is amended as follows.
+
+(2) In the table in Schedule 2[^f00024]—
+
+- (a) omit the entry for the Insolvency Rules 1986; and
+- (b) insert in the relevant place—
+
+  > |  |  |
+  > | --- | --- |
+  > | Insolvency (England and Wales) Rules 2016 ([S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024)) | The whole instrument except rules 7.6, 7.105, 10.10, 10.103 and 12.20 |
+
+  .
+
+### 10. Assets of Community Value (England) Regulations 2012[^key-b665fd65c33f950f19e810934c12798c]
+
+In Schedule 3 (relevant disposals to which section 95(1) of the Act does not apply) of the Assets of Community Value (England) Regulations 2012[^f00025], for paragraph 7 substitute—
+
+> **7.** A disposal pursuant to insolvency proceedings defined as proceedings under the Insolvency Act 1986[^f00026] or the Insolvency (England and Wales) Rules 2016[^f00027].
+
+### 11. Care and Support (Cross-border Placements) (Business Failure Duties of Scottish Local Authorities) Regulations 2014[^key-444b868d57c9f16fb7029a3bde3697e2]
+
+In regulation 4(1)(j) of the Care and Support (Cross-border Placements) (Business Failure Duties of Scottish Local Authorities) Regulations 2014[^f00028], for “rule 2.12 (conversion of administration to winding up – power of court) of the Insolvency Rules 1986” substitute “rule 21.3 (conversion into winding up proceedings or bankruptcy: court order) of the Insolvency (England and Wales) Rules 2016.
+
+### 12. Compensation Orders (Disqualified Directors) Proceedings (England and Wales) Rules 2016[^key-61e1db8cd30fa701d0ff8e1454f8f350]
+
+(1) The Compensation Orders (Disqualified Directors) Proceedings (England and Wales) Rules 2016[^f00029] are amended as follows.
+
+(2) In rule 1(3) (citation, commencement and interpretation), for the entry for “registrar,” substitute—
+
+> - “registrar” has the same meaning as in rule 1.2(2) of the Insolvency (England and Wales) Rules 2016
+
+(3) For rule 3 (form and conduct of applications), sub-paragraph (5) substitute—
+
+> (5) Rule 12.49 (appeals and reviews of court orders in corporate insolvency) and rule 12.61 (procedure on appeal) of the Insolvency (England and Wales) Rules 2016 apply to applications under these rules.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules make consequential amendments and savings provisions in relation to the Insolvency (England and Wales) Rules 2016 ([S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024)).
+
+Rule 2 introduces Schedule 1 and rule 3 introduces Schedule 2. These schedules make amendments to primary and subordinate legislation respectively.
+
+Rule 4 make savings provision for certain insolvency regimes where, if not for the saving, amendments would be required in consequence of the repeal of the Insolvency Rules 1986 ([S.I. 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925)).
+
+No impact assessment has been prepared for these Rules as no impact on the private or voluntary sectors is foreseen.
+
+An Explanatory Memorandum has been prepared and is available alongside these Rules at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Relevant amendments to section 413 have been made by paragraph 190 of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^key-8513d84455c2578cf6ccf1cc557c2241]: Commencement: Rule 1 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^key-d3bc87d8dd6798edc8cca371ecc58fb9]: Commencement: Rule 2 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^key-3fa5b00221decbfac2b0b33898a57c80]: Commencement: Rule 3 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00002]: Footnote: [S.I. 2001/3352](https://www.legislation.gov.uk/uksi/2001/3352). Certain provisions of the Insolvency Act 1986 are applied in relation to insolvency proceedings under the Railway Administration Order 2001 by section 59 of, and Schedule 6 to, the Railways Act [1993 (c.43)](https://www.legislation.gov.uk/ukpga/1993/43). There are amendments but none are relevant.
+
+[^key-dd5b5109714ee87d799f6c4455588a47]: Textual amendment: [Art. 3(b)](https://www.legislation.gov.uk/uksi/2017/369/article/3/b) omitted (8.12.2017) by virtue of [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/1/paragraph/2/2)
+
+[^f00004]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20). Schedule 20 applies and modifies Schedule B1 to the Insolvency Act 1986 in relation to the conduct of energy administrations.
+
+[^f00005]: Footnote: [S.I. 2005/2483](https://www.legislation.gov.uk/uksi/2005/2483). There are amendments but none are relevant.
+
+[^f00006]: Footnote: [S.I. 2007/3141](https://www.legislation.gov.uk/uksi/2007/3141). There are amendments but none are relevant.
+
+[^f00007]: Footnote: [S.I. 2009/2477](https://www.legislation.gov.uk/uksi/2009/2477). There are amendments but none are relevant.
+
+[^f00008]: Footnote: [2011 c.16](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^f00009]: Footnote: [S.I. 2012/3013](https://www.legislation.gov.uk/uksi/2012/3013). Part II and the Schedule apply modifications of the Insolvency Act 1986 to the dissolution of CIOs. Part III makes provision for the dissolution of CIOs otherwise than under the Insolvency Act 1986.
+
+[^f00010]: Footnote: [S.I. 2013/1046](https://www.legislation.gov.uk/uksi/2013/1046). There are amendments but none are relevant.
+
+[^f00011]: Footnote: [S.I. 2013/3208](https://www.legislation.gov.uk/uksi/2013/3208). There are amendments but none are relevant.
+
+[^key-44c143bc8e99be212b46a477866fefd6]: Commencement: Sch. 1 para. 1 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00012]: Footnote: [1974 c.47](https://www.legislation.gov.uk/ukpga/1974/47). Relevant amendments are made by [S.I. 2012/2404](https://www.legislation.gov.uk/uksi/2012/2404).
+
+[^key-ff0422349b46ba981f2c3fa35defcd0b]: Commencement: Sch. 1 para. 2 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00013]: Footnote: [1985 c.61](https://www.legislation.gov.uk/ukpga/1985/61). Relevant amendments are made by [S.I. 2012/2404](https://www.legislation.gov.uk/uksi/2012/2404).
+
+[^key-0bf27f015f570f5a932252540b798ac9]: Commencement: Sch. 1 para. 3 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00014]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Definition inserted by [S.I. 1986/1999](https://www.legislation.gov.uk/uksi/1986/1999), articles 2 and 6.
+
+[^key-2a535f38cd1dadc6484c211476ff8f5e]: Commencement: Sch. 2 para. 1 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^key-3ea20678e5b45cbd59e4401135da2d18]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/1) Table revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/153/schedule) Table 1
+
+[^key-00f12ba345c04778ffe544195afd9b7d]: Commencement: Sch. 2 para. 2 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00015]: Footnote: [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684). The Order was renamed by [S.I. 2009/500](https://www.legislation.gov.uk/uksi/2009/500).
+
+[^key-be88152c0932f0550a8bcb9eb58e5f00]: Commencement: Sch. 2 para. 3 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00016]: Footnote: [S.I. 1987/2023](https://www.legislation.gov.uk/uksi/1987/2023). Relevant amendments are made by [S.I. 1999/2023](https://www.legislation.gov.uk/uksi/1999/2023).
+
+[^key-c6346a8006cec6adba61cfc4b3fc4488]: Commencement: Sch. 2 para. 4 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00017]: Footnote: [S.I. 1994/2507](https://www.legislation.gov.uk/uksi/1994/2507). There are no relevant amendments.
+
+[^key-d4afb3ffdd438c15d856392cc43b60f5]: Commencement: Sch. 2 para. 5 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00018]: Footnote: [S.I. 1995/1386](https://www.legislation.gov.uk/uksi/1995/1386). There are no relevant amendments.
+
+[^key-a8a2707719732539b4bf7e981692fa97]: Commencement: Sch. 2 para. 6 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00019]: Footnote: [S.I. 2001/3635](https://www.legislation.gov.uk/uksi/2001/3635). There are no relevant amendments.
+
+[^key-de11339bf00d75fb313b9f408c0310fd]: Commencement: Sch. 2 para. 7 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00020]: Footnote: [S.I. 2005/590](https://www.legislation.gov.uk/uksi/2005/590). Regulations 5(1)(a)(iii), 5(1)(aa)(i) were inserted by [S.I. 2005/2153](https://www.legislation.gov.uk/uksi/2005/2153).
+
+[^key-b1b42eeb7ae2f276e50648e6bd60f826]: Commencement: Sch. 2 para. 8 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00021]: Footnote: [S.I. 2005/3042](https://www.legislation.gov.uk/uksi/2005/3042). Relevant amendments are made by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730) and [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
+
+[^f00022]: Footnote: [S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024). There are no relevant amendments.
+
+[^key-71e875d7ab184304691d8bddb8f0009b]: Commencement: Sch. 2 para. 9 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00023]: Footnote: [S.I. 2011/2866](https://www.legislation.gov.uk/uksi/2011/2866). There are no relevant amendments.
+
+[^f00024]: Footnote: Amended by [S.I. 2009/500](https://www.legislation.gov.uk/uksi/2009/500).
+
+[^key-b665fd65c33f950f19e810934c12798c]: Commencement: Sch. 2 para. 10 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00025]: Footnote: [S.I. 2012/2421](https://www.legislation.gov.uk/uksi/2012/2421). There are no relevant amendments.
+
+[^f00026]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00027]: Footnote: [S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024). There are no relevant amendments.
+
+[^key-444b868d57c9f16fb7029a3bde3697e2]: Commencement: Sch. 2 para. 11 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00028]: Footnote: [S.I. 2014/2839](https://www.legislation.gov.uk/uksi/2014/2839). There are no relevant amendments.
+
+[^key-61e1db8cd30fa701d0ff8e1454f8f350]: Commencement: Sch. 2 para. 12 in force at 6.4.2017, see [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1)
+
+[^f00029]: Footnote: [S.I. 2016/890](https://www.legislation.gov.uk/uksi/2016/890). There are no relevant amendments.

@@ -1,0 +1,112 @@
+---
+title: The Humber Bridge (Debts) Order 2012
+id: uksi/2012/716
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2012-03-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2012/716
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/716/pdfs/uksiem_20120716_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/716/pdfs/uksi_20120716_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/716/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Humber Bridge (Debts) Order 2012
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2012 No. 716
+
+Highways, England
+
+The Humber Bridge (Debts) Order 2012
+
+Made
+
+5th March 2012
+
+Laid before Parliament
+
+8th March 2012
+
+Coming into force in accordance with article 1
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 1(1) of the Humber Bridge (Debts) Act 1996[^f00001], and with the consent of the Treasury, makes the following Order.
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the Humber Bridge (Debts) Order 2012 and, subject to paragraph (2), comes into force on 31st March 2012.
+
+(2) The following articles come into force on 1st April 2012—
+
+- (a) Article 2(3)(c) (and to the extent it relates to that provision, article 2(1)); and
+- (b) Article 3.
+
+## 2. Waiver of Debts
+
+(1) The sums referred to in paragraph (3), being amounts of principal and interest which would, but for the provisions of this Order, be payable to the Secretary of State for Transport under the agreements referred to in paragraph (2), are not payable.
+
+(2) The agreements referred to in paragraph (1) are those dated 29th March 1972, 1st July 1998, 19th June 2007 and 22nd August 2011 made between the Secretary of State and the Humber Bridge Board under section 5(3) of the Humber Bridge Act 1971[^f00002] (“the Agreements”).
+
+(3) The sums referred to in paragraph (1) are—
+
+- (a) £38,789,000, being the amount of principal specified in column (2) at item 15 in the Table in paragraph 3 of the Schedule to the Humber Bridge (Debts) Order 1998[^f00003];
+- (b) £111,211,000, representing principal; and
+- (c) that amount of interest accruing from 1st April 2012 on all sums owed to the Secretary of State under the Agreements, after deducting the sums referred to in paragraphs (3)(a) and (b), to the extent that such interest exceeds the amount of interest calculated as if the rate of interest was 4.25 per cent per annum.
+
+## 3. Revocation
+
+The Humber Bridge (Debts) Order 2011 is revoked[^f00004].
+
+Justine Greening
+
+Secretary of State
+
+Department for Transport
+
+5th March 2012
+
+We consent
+
+Jeremy Wright
+
+James Duddridge
+
+Two of the Lords Commissioners of
+
+Her Majesty’s Treasury
+
+5th March 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order releases the Humber Bridge Board from its obligation to pay the Secretary of State for Transport a proportion of principal and interest arising under agreements for the financing of the construction and maintenance of the Humber Bridge. This Order comes into force on 31st March 2012, save for *article 2(3)(c)*, *article 2(1)* (to the extent that it relates to *article 2(3)(c)*) and *article 3* which come into force on 1st April 2012.
+
+*Article 2(1)* provides that the sums referred to in *article 2(3),* which are payable under the terms of the agreements referred to in article 2(2) (“the Agreements”), are no longer payable. Sums payable under the Agreements comprise a debt on which interest accrues.
+
+*Article 2(3)(a)* provides for the waiver of the sum of £38,789,000 specified in item 15 of the Table in paragraph 3 of the Schedule to the Humber Bridge (Debts) Order 1998 (“the 1998 Order”), being an amount of principal. This builds upon the terms of the 1998 Order which releases that sum from the accrual of interest. *Article 2(3)(b)* provides that a further amount of principal of £111,211,000 is not payable.
+
+After deducting the sums specified in *articles 2(3)(a) and (b)* an amount of interest, calculated at the applicable rate, will accrue on all sums owed to the Secretary of State commencing on 1st April 2012. The sum being waived by *article 2(3)(c)* of this Order is that proportion of the accrued interest which exceeds an amount of such interest calculated as if the applicable rate of interest was 4.25% per annum. In practice the effect of the waiver will be to reduce the annual rate of interest payable on those sums owed to the Secretary of State under the Agreements.
+
+As *article 2(3)(c)* sets a lower rate of interest on the remaining debt than is contained in the Humber Bridge (Debts) Order 2011, that Order is revoked.
+
+An impact assessment has not been produced for this instrument as there is no anticipated impact on the private or voluntary sectors. An Explanatory Memorandum is available alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c.1](https://www.legislation.gov.uk/ukpga/1996/1).
+
+[^f00002]: Footnote: [1971 c.xlvii](https://www.legislation.gov.uk/ukla/1971/47).
+
+[^f00003]: Footnote: [S.I. 1998/1797](https://www.legislation.gov.uk/uksi/1998/1797).
+
+[^f00004]: Footnote: [S.I. 2011/1718](https://www.legislation.gov.uk/uksi/2011/1718).

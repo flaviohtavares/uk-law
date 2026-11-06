@@ -1,0 +1,457 @@
+---
+title: The Family Procedure (Modification of Enactments) Order 2011
+id: uksi/2011/1045
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-30'
+text_date: '2014-04-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/1045
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1045/pdfs/uksiem_20111045_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1045/pdfs/uksi_20111045_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1045/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Family Procedure (Modification of Enactments) Order 2011
+
+> Text as at 2014-04-22.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 1045 (L. 8)
+
+Family Proceedings
+
+Senior Courts Of England And Wales
+
+County Courts, England And Wales
+
+Magistrates’ Courts, England And Wales
+
+The Family Procedure (Modification of Enactments) Order 2011
+
+Made
+
+30th March 2011
+
+Coming into force as provided in article 1
+
+The Lord Chancellor makes the following Order in exercise of the powers conferred by sections 80 and 108(6) of the Courts Act 2003[^f00001]:
+
+In accordance with section 80(1) of that Act, the Lord Chancellor has consulted the President of the Family Division (as the nominee of the Lord Chief Justice[^f00002]).
+
+In accordance with section 108(2) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — INTRODUCTORY
+
+### 1. Citation[^key-496a8e5f25e6395c2adf8870c700a692]
+
+This Order may be cited as the Family Procedure (Modification of Enactments) Order 2011 and will come into force on 6th April 2011 or, if later, on the day after the day on which it is made.
+
+## PART 2 — MODIFICATION OF TERMINOLOGY
+
+### 2. Terminology[^key-c52cec1acbf09fbe71e9d8d5d6a02bc0]
+
+(1) For the purpose of this article—
+
+- “civil partnership proceedings” means proceedings for a civil partnership order; and
+- “civil partnership order” means one of the orders mentioned in section 37 of the Civil Partnership Act 2004[^f00003].
+
+(2) In the following provisions, any reference to “ancillary relief” is to be read as a reference to “financial order”—
+
+- (a) section 49C of the Child Support Act 1991[^f00004] (in so far as that section relates to civil partnership proceedings); and
+- (b) Part 10 of Schedule 5 and Part 9 of Schedule 15 to the Civil Partnership Act 2004.
+
+(3) Unless the context otherwise requires, in any provision which relates to civil partnership proceedings in any enactment, any reference to “cause” or “causes” is to be read as a reference to “proceedings”.
+
+## PART 3 — AMENDMENTS TO PRIMARY LEGISLATION
+
+### 3. Amendment of the Courts Act 1971[^key-60b90b0f1046ecdc481a0e802039dcd6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Amendment of the Magistrates’ Courts Act 1980[^key-163fd4727cc3d1631b1bb3fa552d0289]
+
+The Magistrates’ Courts Act 1980 is amended as provided in articles 5 to 14.
+
+**5.**[^key-52335ea63f8d1afcaaac24557b8889b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-140b0c172bb24be97800afdb66daaed7] In section 54—
+
+- (a) for the heading, substitute “Adjournment and stays”; and
+- (b)[^key-08005ee4c954cb5c83fd3d9117c11baa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-784aeb08032af620d03df714c8c5c5d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-bc7846b2a2daa648bccbe18ebc5c5aab] In section 56 for “Where” substitute “Subject to other provision made by Family Procedure Rules for the purposes of family proceedings in any magistrates’ court, where”.
+
+**9.**[^key-804e2ee922ba9e34a1d697b7de3d4450] In section 57 for “Where” substitute “Subject to other provision made by Family Procedure Rules for the purposes of family proceedings in any magistrates’ court, where.”.
+
+**10.**[^key-412c76097fe8b9e4502265f379adc96a] In section 64[^f00007]—
+
+- (a) in subsection (1) omit “periodical payment of money, or for the revocation, revival or variation of such an order” and substitute “variation of an order for the periodic payment of money”;
+- (b)[^key-c1472b83381eb078f0080bacf034099e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in subsection (2) for “subsection (1) above” substitute “subsection (1) or (4A)”; and
+- (d)[^key-c8936f10669d665c9005101f13f791f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-f042e641bab40b330134daffc33cf4aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-f042e641bab40b330134daffc33cf4aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-f042e641bab40b330134daffc33cf4aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-f042e641bab40b330134daffc33cf4aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Amendment of the Sexual Offences Act 2003[^key-a0308a9289d93a9e8174a776e39b1bab]
+
+In section 21(12) of the Sexual Offences Act 2003[^f00012]—
+
+- (a) at the end of paragraph (b) omit “or”;
+- (b) at the end of paragraph (c) insert “or”; and
+- (c) after paragraph (c) insert—
+
+  > - (d) is appointed to be the children’s guardian of B under rule 59 of the Family Procedure (Adoption) Rules 2005 ([S.I. 2005/2795](https://www.legislation.gov.uk/uksi/2005/2795)) or rule 16.3(1)(ii) or rule 16.4 of the Family Procedure Rules 2010 ([S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955)),
+
+  .
+
+## PART 4 — AMENDMENTS TO SECONDARY LEGISLATION
+
+### 16. Amendment of the Magistrates’ Courts Rules 1981[^key-b532214fd965e4c2d0a0a8dc2db6ebf4]
+
+In the Magistrates’ Courts Rules 1981[^f00013] in the heading to rule 3 and in rule 3—
+
+- (a) for “and” substitute “,”; and
+- (b) after “1991” the second time it appears, insert “and the Family Procedure Rules 2010[^f00014].”.
+
+### 17. Amendment of the Civil Procedure Rules 1998[^key-c891c511468ea65e1fd6a78ec5cdb4d0]
+
+The Civil Procedure Rules 1998[^f00015] are amended as provided in articles 18 and 19.
+
+**18.**[^key-a476f5ec104a89817ec7652e81693fc4] In the table following rule 2.1(2)—
+
+- (a) in entry 5 (Family proceedings), in the second column, omit the current words and substitute “Courts Act 2003, s.75”; and
+- (b) in entry 6 (Adoption proceedings), in the second column—
+  - (i) omit “Adoption Act 1976, s.66[^f00016] or”; and
+  - (ii) after “s.141” insert “or Courts Act 2003, s.75”.
+
+**19.**[^key-266a8487ae1ba68344cc96e999fc7072] In rule 57.15(2), for “the Family Proceedings Rules 1991[^f00017]”, substitute “the Family Procedure Rules 2010”.
+
+### 20. Amendment of the Data Protection (Subject Access Modification) (Health) Order 2000[^key-b12224a3dad6f5c4a38a6ad4055aaee3]
+
+In article 4(2) of the Data Protection (Subject Access Modification) (Health) Order 2000[^f00018]—
+
+- (a) after “1997” for “or” substitute “,”; and
+- (b) after “1996” insert “or the Family Procedure Rules 2010”.
+
+### 21. Amendment of the Data Protection (Subject Access Modification) (Social Work) Order 2000[^key-bbb1fb92b17ddaff8b400736f67f04a2]
+
+The Data Protection (Subject Access Modification) (Social Work) Order 2000[^f00019] is amended as provided in articles 22 to 24.
+
+**22.**[^key-e05283f341eb007f5bd2aea2ca6983ce] In article 5(2)(a), for “(t) or (tt)” substitute “(t), (tt), (v) or (w)”.
+
+**23.**[^key-5bd88155e13954b52dee901834b510b9] In article 7(2), in section 7(12)(a) of the Data Protection Act 1998 as modified, for “(t) or (tt)” substitute “(t), (tt), (v) or (w)”.
+
+**24.**[^key-bf299a9cf0eb4ceeb4422ee74cb2987a] In the Schedule—
+
+- (a) after paragraph 1(u) insert—
+
+  > - (v) data processed by any children’s guardian appointed under rule 16.3(1)(i) or rule 16.4 of the Family Procedure Rules 2010;
+  > - (w) data processed by any officer of the Children and Family Court Advisory and Support Service or Welsh family proceedings officer for the purpose of the functions referred to in rule 16.33 (insofar as it applies to proceedings to which Part 12 of the Family Procedure Rules 2010 applies) or 16.38(1) of the Family Procedure Rules 2010.
+
+  ; and
+- (b) in paragraph 2—
+  - (i) after “1996” for “or” substitute “,”; and
+  - (ii) after “the Family Proceedings Rules 1991” insert “or the Family Procedure Rules 2010”.
+
+### 25. Amendment of the Data Protection (Miscellaneous Subject Access Exemptions) Order 2000[^key-4bf3b8a221ccf38d613e1aa7e35771d0]
+
+In Part II of the Schedule to the Data Protection (Miscellaneous Subject Access Exemptions) Order 2000[^f00020]—
+
+- (a) at the end of paragraph (a) insert—
+
+  > In the Family Procedure Rules 2010: rules 14.6, 14.11, 14.12, 14.13, 14.14, 14.24, 16.20 (insofar as it applies to a children’s guardian appointed in proceedings to which Part 14 of those Rules applies), 16.32 and 16.33 (insofar as it applies to a children and family reporter in proceedings to which Part 14 of those Rules applies).
+
+  ; and
+- (b) at the end of paragraph (c) insert—
+
+  > Rules made under section 75 of the Courts Act 2003 by virtue of section 141(1) of the Adoption and Children Act 2002[^f00021], as applied with modifications by regulation 2 of Schedule 1 to the Human Fertilisation and Embryology (Parental Orders) Regulations 2010[^f00022], so far as the rules relate to the appointment and duties of the parental order reporter and the keeping of registers, custody, inspection and disclosure of documents and information relating to parental order proceedings or related proceedings.
+
+  .
+
+### 26. Amendment of the Divorce etc (Pensions) Regulations 2000[^key-3616d9428df33e6e0e3b0f60fec08eb3]
+
+The Divorce etc (Pensions) Regulations 2000[^f00023] are amended as provided in articles 27 and 28.
+
+**27.**[^key-471dbc09e91cca2f6698276a8c36f2e2] In regulation 2(d), for “Family Proceedings Rules 1991” substitute “Family Procedure Rules 2010”.
+
+**28.**[^key-08af3f4365f41304c9237150b536de0a] In regulation 4(3)(c), 6(2)(a) and (4), 7(3) and 7A(3), for “rule 2.70” substitute “rule 9.33 or 9.34”.
+
+### 29. Amendment of the Litigants in Person (Costs and Expenses) (Magistrates’ Courts) Order 2001[^key-2b9a38aa9097ea809aabae3df162667c]
+
+In article 3 of the Litigants in Person (Costs and Expenses) (Magistrates’ Courts) Order 2001[^f00024], after “1980” insert “or under section 75 of the Courts Act 2003”.
+
+### 30. Amendment of the Dissolution etc (Pensions) Regulations 2005[^key-70343f9fbf31246aaa3769f128a577c0]
+
+The Dissolution etc (Pensions) Regulations 2005[^f00025] are amended as provided in articles 31 and 32.
+
+**31.**[^key-d49fe4d08cef8b38f84efd8d2006748b] In regulation 2(e) for “Family Proceedings Rules 1991” substitute “Family Procedure Rules 2010”.
+
+**32.**[^key-cc27ebec8b54eccdc976e4b577d3b76d] In regulations 4(3)(c), 6(2)(a) and (4), 7(3) and 7A(3), for “rule 2.70” substitute “rule 9.33 or 9.34”.
+
+### 33. Amendment of the Court of Protection Rules 2007[^key-3c9233f6f020502387cd3682394d7578]
+
+In rule 39 of the Court of Protection Rules 2007[^f00026]—
+
+- (a) in paragraph (1), for “The rules in Section 2 of Part 6 of the Family Procedure (Adoption) Rules 2005 (“the 2005 Rules”)”, substitute “The rules in Chapter 4 of Part 6 of the Family Procedure Rules 2010 (“the 2010 Rules”)”; and
+- (b) in paragraphs (2) and (3), for “2005” substitute “2010”.
+
+### 34. Amendment of the Family Proceedings Fees Order 2008[^key-fc8dc2f7da29640d1f529851f02a907f]
+
+The Family Proceedings Fees Order 2008[^f00027] is amended as provided in articles 35 to 37.
+
+**35.**[^key-f28a4145748b2c07665629f085c25e54] For article 1(2)(b), substitute—
+
+> - (b) “the FPR 2010” means the Family Procedure Rules 2010; and
+> - (c) expressions also used in the FPR 2010 have the same meaning as in the FPR 2010.
+
+.
+
+**36.**[^key-4d638aa59e44f9a3bb5985e38d20d9d8] In column 1 of Schedule 1—
+
+- (a) for the description of fee 1.1 substitute—
+
+  > On filing an application to start proceedings, where no other fee is specified.
+
+  ;
+- (b) for the description of fee 1.2 substitute—
+
+  > On presenting any application for—
+  >
+  > - (a) a matrimonial or civil partnership order, other than an application to which rule 7.7(1)(b) of the FPR 2010 applies;
+  > - (b) a declaration to which Chapter 5 of Part 8 of the FPR 2010 applies.
+
+  ;
+- (c) for the description of fee 1.4 substitute—
+
+  > On amending an application for a matrimonial or civil partnership order, amending an application for a declaration to which Chapter 5 of Part 8 of the FPR 2010 applies, or making an application to which rule 7.7(1)(b) of the FPR 2010 applies.
+
+  ;
+- (d) for the description of fee 1.5 substitute—
+
+  > On filing an answer to an application for a matrimonial or civil partnership order.
+
+  ;
+- (e) for the description of fee 4.2 substitute—
+
+  > On an application under rule 7.19 of the FPR 2010 for the court to consider the making of a decree nisi, a conditional order, a decree of judicial separation or a separation order (other than in an undefended case where no fee is payable).
+
+  ;
+- (f) for the description of fee 4.4 substitute—
+
+  > On the filing of—
+  >
+  > - (a) a notice of intention to proceed with an application for a financial order to which rule 9.4(a) of the FPR 2010 applies; or
+  > - (b) an application for a financial order to which rule 9.4(b) of the FPR 2010 applies,
+  >
+  > other than an application for a consent order.
+
+  ;
+- (g) in the description of fee 5.1, for “a notice of appeal” substitute “an appeal notice”;
+- (h) in the description of fee 10.1, after “enforcement of a judgment” insert “, or on an application to which rule 33.3(2)(b) of the FPR 2010 applies”; and
+- (i) in the description of fee 10.2, for “garnishee order” substitute “third party debt order”.
+
+**37.**[^key-2e5ba2e60c0f6d1d4302df37ed9f2a59] In paragraph 1(1) of Schedule 2, in the definition of “restraint order”—
+
+- (a) in paragraph (a) omit “or”;
+- (b) in paragraph (b), for “.” substitute “; or”; and
+- (c) after paragraph (b) insert—
+
+  > - (c) a civil restraint order under rule 4.8 of the FPR 2010 or the practice direction referred to in that rule.
+
+  .
+
+### 38. Amendment of the Allocation and Transfer of Proceedings Order 2008[^key-35fc5293dc8c6f8ca7a2e431a302b7e6]
+
+In article 15(1) of the Allocation and Transfer of Proceedings Order 2008[^f00028], omit sub-paragraph (h).
+
+## PART 5 — MISCELLANEOUS
+
+### 39. Transitional provision[^key-eb6fdba0bcd30a5cb5cb034bf55a3542]
+
+Where, by virtue of Part 36 of the Family Procedure Rules 2010, the Family Procedure Rules 2010 do not apply to a particular case, the enactments referred to in articles 2 to 14, 17 to 19, 26 to 28 and 30 to 38 shall apply as if the amendments made to those enactments by this Order had not been made.
+
+Signed by authority of the Lord Chancellor
+
+J Djanogly
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+30th March 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+The Family Procedure Rules 2010 ([S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955)) (“the FPR”) provide a new code for the practice and procedure in family proceedings in the High Court, county courts and magistrates’ courts and supersede existing rules of court for family proceedings.
+
+This Order provides for modifications and amendments to primary and secondary legislation in relation to provisions made in Family Procedure Rules.
+
+Part 2 (Article 2) provides for modification of relevant enactments enabling certain new terminology adopted in the FPR to be applied to the existing statutory provisions, where appropriate.
+
+Part 3 provides for amendments to primary legislation. In particular—
+
+Article 3 amends the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23) to enable Part 28 of the FPR relating to costs to apply to all family proceedings where an application is not proceeded with;
+
+Articles 5, 6(b) (in so far as it relates to the insertion of section 54(4) of the Magistrates’ Courts Act [1980 (c.43)](https://www.legislation.gov.uk/ukpga/1980/43) (“the 1980 Act”)), 7 to 9, 11 and 14 amend the 1980 Act to provide for the procedure in Family Procedure Rules to apply to all family proceedings when appropriate;
+
+Article 6(a) and (b) (in so far as it relates to the insertion of section 54(3) of the 1980 Act) makes provision for family proceedings in magistrates’ courts to be stayed;
+
+Article 10 amends the 1980 Act to make provision for costs to be awarded in all family proceedings and so aligns magistrates’ courts’ powers to award costs in family proceedings with the powers of the High Court and county courts;
+
+Article 12 amends the 1980 Act to make provision for discovery against a non-party in family proceedings;
+
+Article 13 amends the 1980 Act to enable a justice of the peace, in family proceedings, to issue a witness summons;
+
+Article 15 amends the Sexual Offences Act [2003 (c.42)](https://www.legislation.gov.uk/ukpga/2003/42) to include provision in respect of a children’s guardian appointed under the FPR and the Family Procedure (Adoption) Rules 2005.
+
+Part 4 provides for amendments to secondary legislation. In particular—
+
+Articles 16 to 37 provide for amendments consequential upon Family Procedure Rules and the coming into force of section 75 of the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39). Where enactments refer to rules of court, or particular provisions within rules of court, which are superseded by the FPR, references are inserted instead to the FPR, or the particular superseding provisions of the FPR. References to the superseded rules, or provisions, are omitted where appropriate;
+
+Article 38 makes provision for a consequential amendment to article 15(1) of the Allocation and Transfer of Proceedings Order 2008 ([S.I. 2008/2836](https://www.legislation.gov.uk/uksi/2008/2836)). Article 15 of that Order deals with transfer of proceedings from magistrates’ courts to a county court and article 15(1) in particular sets out criteria the court considers when considering transfer. The amendment removes the reference to the exercise of the power to transfer where there is a real risk that a party to proceedings may lack mental capacity within the meaning of the Mental Capacity Act 2005 as the FPR now make provision (in Part 15) for protected parties in relation to all three levels of court including the magistrates’ courts.
+
+Article 39 contains transitional provisions.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39). Section 80 was amended by section 15(1) of and paragraphs 308 and 343(1) to (4) of Part 1 of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4). Section 108(6) was amended by section 15(1) of and paragraphs 308 and 348 of Part 1 of Schedule 4 to the Constitutional Reform Act 2005.
+
+[^f00002]: Footnote: The Lord Chief Justice may nominate a judicial office holder to exercise his functions, under section 80(2) of the Courts Act 2003.
+
+[^key-496a8e5f25e6395c2adf8870c700a692]: Commencement: Art. 1 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-c52cec1acbf09fbe71e9d8d5d6a02bc0]: Commencement: Art. 2 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00003]: Footnote: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f00004]: Footnote: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48). Section 49C was inserted by section 39 of the Child Maintenance and Other Payments Act [2008 (c.6)](https://www.legislation.gov.uk/ukpga/2008/6).
+
+[^key-60b90b0f1046ecdc481a0e802039dcd6]: Textual amendment: Art. 3 revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^key-163fd4727cc3d1631b1bb3fa552d0289]: Commencement: Art. 4 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-52335ea63f8d1afcaaac24557b8889b5]: Textual amendment: Art. 5 revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^key-140b0c172bb24be97800afdb66daaed7]: Commencement: Art. 6 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-08005ee4c954cb5c83fd3d9117c11baa]: Textual amendment: Art. 6(b) revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^key-784aeb08032af620d03df714c8c5c5d6]: Textual amendment: Art. 7 revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^key-bc7846b2a2daa648bccbe18ebc5c5aab]: Commencement: Art. 8 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-804e2ee922ba9e34a1d697b7de3d4450]: Commencement: Art. 9 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-412c76097fe8b9e4502265f379adc96a]: Commencement: Art. 10 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00007]: Footnote: Section 64 was amended by section 33(1) of and paragraph 81 of Schedule 2 to the Family Reform Act [1987 (c.42)](https://www.legislation.gov.uk/ukpga/1987/42).
+
+[^key-c1472b83381eb078f0080bacf034099e]: Textual amendment: Art. 10(b) revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^key-c8936f10669d665c9005101f13f791f5]: Textual amendment: Art. 10(d) revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^key-f042e641bab40b330134daffc33cf4aa]: Textual amendment: Arts. 11-14 revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^key-a0308a9289d93a9e8174a776e39b1bab]: Commencement: Art. 15 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00012]: Footnote: [2003 c.42](https://www.legislation.gov.uk/ukpga/2003/42). Section 21(12) was amended by section 40 of and paragraph 18 of Schedule 3 to the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31) and by articles 3, 6(1) and (8) of [S.I. 2008/1779](https://www.legislation.gov.uk/uksi/2008/1779).
+
+[^key-b532214fd965e4c2d0a0a8dc2db6ebf4]: Commencement: Art. 16 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00013]: Footnote: [S.I. 1981/552](https://www.legislation.gov.uk/uksi/1981/552). Rule 3 was substituted by rule 26 of and paragraph 3(3) of Schedule 2 of [S.I. 1991/1991](https://www.legislation.gov.uk/uksi/1991/1991).
+
+[^f00014]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955).
+
+[^key-c891c511468ea65e1fd6a78ec5cdb4d0]: Commencement: Art. 17 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00015]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). Rule 2.1 was amended by section 59(5) of and paragraph 1(2) of Part 1 of Schedule 11 to the Constitutional Reform Act 2005 and by [S.I. 1999/1008](https://www.legislation.gov.uk/uksi/1999/1008), [2003/1242](https://www.legislation.gov.uk/uksi/2003/1242), [2005/3515](https://www.legislation.gov.uk/uksi/2005/3515) and [2007/ 2204](https://www.legislation.gov.uk/uksi/2007/2204). Rule 57.15 was amended by [S.I. 2002/2058](https://www.legislation.gov.uk/uksi/2002/2058) and [2009/3390](https://www.legislation.gov.uk/uksi/2009/3390).
+
+[^key-a476f5ec104a89817ec7652e81693fc4]: Commencement: Art. 18 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00016]: Footnote: Section 66 was repealed by section 139(3) of and Schedule 5 to the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^key-266a8487ae1ba68344cc96e999fc7072]: Commencement: Art. 19 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00017]: Footnote: [S.I.1991/1247](https://www.legislation.gov.uk/uksi/1991/1247).
+
+[^key-b12224a3dad6f5c4a38a6ad4055aaee3]: Commencement: Art. 20 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00018]: Footnote: [S.I. 2000/413](https://www.legislation.gov.uk/uksi/2000/413).
+
+[^key-bbb1fb92b17ddaff8b400736f67f04a2]: Commencement: Art. 21 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00019]: Footnote: [S.I. 2000/415](https://www.legislation.gov.uk/uksi/2000/415). Relevant amending instruments are [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [3220](https://www.legislation.gov.uk/uksi/2002/3220), [2004/696](https://www.legislation.gov.uk/uksi/2004/696), [2005/467](https://www.legislation.gov.uk/uksi/2005/467) and [3504](https://www.legislation.gov.uk/uksi/2005/3504) and [2011/1034](https://www.legislation.gov.uk/uksi/2011/1034).
+
+[^key-e05283f341eb007f5bd2aea2ca6983ce]: Commencement: Art. 22 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-5bd88155e13954b52dee901834b510b9]: Commencement: Art. 23 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-bf299a9cf0eb4ceeb4422ee74cb2987a]: Commencement: Art. 24 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-4bf3b8a221ccf38d613e1aa7e35771d0]: Commencement: Art. 25 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00020]: Footnote: [S.I. 2000/419](https://www.legislation.gov.uk/uksi/2000/419). Relevant amending instruments are [S.I. 2005/3504](https://www.legislation.gov.uk/uksi/2005/3504) and [2010/986](https://www.legislation.gov.uk/uksi/2010/986).
+
+[^f00021]: Footnote: Section 141(1) was amended by section 109(1) of and paragraphs 413(1) and (2) of Schedule 8 to the Courts Act 2003.
+
+[^f00022]: Footnote: [S.I. 2010/985](https://www.legislation.gov.uk/uksi/2010/985).
+
+[^key-3616d9428df33e6e0e3b0f60fec08eb3]: Commencement: Art. 26 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00023]: Footnote: [S.I. 2000/1123](https://www.legislation.gov.uk/uksi/2000/1123), amended by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114). [S.I. 2006/1932](https://www.legislation.gov.uk/uksi/2006/1932) modifies the Divorce etc (Pensions) Regulations 2000 so that, in relation to a modified pension attachment order, they apply as if regulation 7A were inserted.
+
+[^key-471dbc09e91cca2f6698276a8c36f2e2]: Commencement: Art. 27 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-08af3f4365f41304c9237150b536de0a]: Commencement: Art. 28 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-2b9a38aa9097ea809aabae3df162667c]: Commencement: Art. 29 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00024]: Footnote: [S.I. 2001/3438](https://www.legislation.gov.uk/uksi/2001/3438).
+
+[^key-70343f9fbf31246aaa3769f128a577c0]: Commencement: Art. 30 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00025]: Footnote: [S.I. 2005/2920](https://www.legislation.gov.uk/uksi/2005/2920). These Regulations are modified by [S.I. 2006/1934](https://www.legislation.gov.uk/uksi/2006/1934) so that, in relation to a modified pension attachment order, they apply as if regulation 7A were inserted.
+
+[^key-d49fe4d08cef8b38f84efd8d2006748b]: Commencement: Art. 31 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-cc27ebec8b54eccdc976e4b577d3b76d]: Commencement: Art. 32 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-3c9233f6f020502387cd3682394d7578]: Commencement: Art. 33 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00026]: Footnote: [S.I. 2007/1744](https://www.legislation.gov.uk/uksi/2007/1744).
+
+[^key-fc8dc2f7da29640d1f529851f02a907f]: Commencement: Art. 34 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00027]: Footnote: [S.I. 2008/1054](https://www.legislation.gov.uk/uksi/2008/1054). Relevant amending instruments are [S.I. 2008/2856](https://www.legislation.gov.uk/uksi/2008/2856), [2009/1499](https://www.legislation.gov.uk/uksi/2009/1499) and [2010/1916](https://www.legislation.gov.uk/uksi/2010/1916). Amendments are also made by section 59(5) of and paragraph 1(2) of Part 1 of Schedule 11 to the Constitutional Reform Act 2005.
+
+[^key-f28a4145748b2c07665629f085c25e54]: Commencement: Art. 35 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-4d638aa59e44f9a3bb5985e38d20d9d8]: Commencement: Art. 36 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-2e5ba2e60c0f6d1d4302df37ed9f2a59]: Commencement: Art. 37 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^key-35fc5293dc8c6f8ca7a2e431a302b7e6]: Commencement: Art. 38 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)
+
+[^f00028]: Footnote: [S.I. 2008/2836](https://www.legislation.gov.uk/uksi/2008/2836).
+
+[^key-eb6fdba0bcd30a5cb5cb034bf55a3542]: Commencement: Art. 39 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1)

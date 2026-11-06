@@ -1,0 +1,40 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 449
+act: Income Tax (Trading and Other Income) Act 2005
+section: '449'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/449
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 449
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 449. Strips of government securities: manipulation of acquisition, transfer or redemption payments
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) as a result of a scheme or arrangement an amount referred to in subsection (2)(a), (b) or (c) differs from the market value of a strip in a way specified in that subsection, and
+- (b) the obtaining of a tax advantage by any person is the main benefit, or one of the main benefits, that might have been expected to accrue from, or from any provision of, the scheme or arrangement.
+
+(2) The ways are that—
+
+- (a) the amount paid by a person in respect of the acquisition of the strip is or was more than the market value at the time of the acquisition,
+- (b) the amount payable to a person on transferring the strip is less than the market value at the time of the transfer, or
+- (c) on redemption of the strip the amount payable to a person, as the person holding the strip, is less than the market value on the day before redemption.
+
+(3) In a case within subsection (2)(a), for the purposes of sections 439(1) and 446(3) on transferring the strip the person is treated as if the person had paid to acquire the strip an amount equal to the market value of the strip at the time of the acquisition.
+
+(4) In a case within subsection (2)(b), for those purposes the person is treated as if the amount payable to the person on the transfer were an amount equal to the market value of the strip at the time of the transfer.
+
+(5) In a case within subsection (2)(c), for those purposes the person is treated as if the amount payable to the person on redemption were an amount equal to the market value of the strip on the day before redemption.
+
+(6) For the purposes of this section, no account is to be taken of any incidental expenses incurred in connection with any disposal or acquisition of a strip.

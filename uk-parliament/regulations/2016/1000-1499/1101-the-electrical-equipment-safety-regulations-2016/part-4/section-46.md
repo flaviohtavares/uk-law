@@ -1,0 +1,64 @@
+---
+title: The Electrical Equipment (Safety) Regulations 2016, section 46
+act: The Electrical Equipment (Safety) Regulations 2016
+section: '46'
+status: revised
+text_date: '2024-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/1101/section/46
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electrical Equipment (Safety) Regulations 2016, section 46
+
+> Text as at 2024-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 46 (Extent: E+W+S) (affected by repeal, see note). Union safeguard procedure[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+
+*Extent: E+W+S+N.I.*
+
+(1 (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] Where another *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] relevant state[^key-ab4fa00a4d8cd6db00229b6b67dfd5b0] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] has initiated the procedure under Article 19(4) of the Directive (as amended from time to time), each enforcing authority (other than the Secretary of State) must, without delay, inform the Secretary of State of— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+
+- (a (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] any measures taken by that enforcing authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] in Northern Ireland[^key-127fee6a6d446602081c12b28a4e1186] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] in respect of the electrical equipment which is the subject of that procedure; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] any additional information which the enforcing authority has at its disposal relating to the lack of conformity of that electrical equipment. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+
+(2 (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] Where another *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] relevant state[^key-829cd09c30652e16b4f9df344c5821d3] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] has initiated the procedure under Article 19(4) of the Directive (as amended from time to time), the Secretary of State must, without delay, inform the European Commission and the other *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] relevant states[^key-51042c6d8e809553332dbf200223af1a] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] of— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+
+- (a (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] any measures taken by an enforcing authority in respect of the electrical equipment which is the subject of that procedure; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] any additional information which an enforcing authority has at its disposal relating to the lack of conformity of that electrical *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] equipment.[^key-a45aa760a7530e6d6b5058bfb8a248af] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+- (c (Extent: E+W+S) (affected by repeal, see note))[^key-23d2e79b41d5208ecb57f50b65ad4595][^key-fbeaf349947a292e1e5dd2e27e6c1c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+
+(3 (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] Where a measure taken by another *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] relevant state[^key-2f7d3e19fba4457a085f2c52ca73d50a] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] in respect of electrical equipment is considered justified by the European Commission under Article 20(1) of the Directive, the market surveillance authority must take the necessary measures to ensure that electrical equipment is withdrawn from the *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] market in Northern Ireland[^key-b2a518eb4f00c0abc548d5171a27e5ef] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+
+(4 (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] Where the market surveillance authority is not the Secretary of State and it has taken action under paragraph (3), it must inform the Secretary of State. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+
+(5 (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] Where the Secretary of State receives a notice under paragraph (4) or has taken action under paragraph (3), the Secretary of State must inform the European Commission of the action taken *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] in respect of Northern Ireland[^key-47f89c9cc118823597813c2ce0628454] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+
+(6 (Extent: E+W+S) (affected by repeal, see note))[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] If a measure taken by an enforcing authority pursuant to regulation 45 is considered unjustified by the European Commission under Article 20(1) of the Directive (as amended from time to time), the enforcing authority must withdraw that measure *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b] in respect of Northern Ireland[^key-a9d29bc02429495e23883b8fc2f885d3] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]
+
+## Annotations
+
+[^key-fbeaf349947a292e1e5dd2e27e6c1c6b]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 26](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/26) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ab4fa00a4d8cd6db00229b6b67dfd5b0]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/1) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/a/i)
+
+[^key-127fee6a6d446602081c12b28a4e1186]: Textual amendment: Words in [reg. 46(1)(a)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/1/a) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/a/ii)
+
+[^key-829cd09c30652e16b4f9df344c5821d3]: Textual amendment: Words in [reg. 46(2)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/b/i)
+
+[^key-51042c6d8e809553332dbf200223af1a]: Textual amendment: Words in [reg. 46(2)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/b/ii)
+
+[^key-a45aa760a7530e6d6b5058bfb8a248af]: Textual amendment: Word in [reg. 46(2)(b)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/2/b) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/b/iii)
+
+[^key-23d2e79b41d5208ecb57f50b65ad4595]: Textual amendment: [Reg. 46(2)(c)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/2/c) omitted (N.I.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/b/iv)
+
+[^key-2f7d3e19fba4457a085f2c52ca73d50a]: Textual amendment: Words in [reg. 46(3)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/3) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/c/i)
+
+[^key-b2a518eb4f00c0abc548d5171a27e5ef]: Textual amendment: Words in [reg. 46(3)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/3) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/c/ii)
+
+[^key-47f89c9cc118823597813c2ce0628454]: Textual amendment: Words in [reg. 46(5)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/5) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(d)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/d)
+
+[^key-a9d29bc02429495e23883b8fc2f885d3]: Textual amendment: Words in [reg. 46(6)](https://www.legislation.gov.uk/uksi/2016/1101/regulation/46/6) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 11 para. 5(2)(d)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/11/paragraph/5/2/d)

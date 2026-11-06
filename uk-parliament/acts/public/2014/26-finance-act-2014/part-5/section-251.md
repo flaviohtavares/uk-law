@@ -1,0 +1,63 @@
+---
+title: Finance Act 2014, section 251
+act: Finance Act 2014
+section: '251'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/251
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 251
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 251. Duty of monitored promoter to notify clients etc of number[^key-864d296442727db7a62d92878fe14c89]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where a person who is a monitored promoter (“the monitored promoter”) is notified under section 250 of a promoter reference number.
+
+(2) The monitored promoter must, within the relevant period, notify the promoter reference number to—
+
+- (a) any person who has become its client at any time in the period beginning with the day on which the monitoring notice in relation to the monitored promoter took effect and ending with the day on which the monitored promoter was notified of that number,
+- (b) any person who becomes its client after the end of the period mentioned in paragraph (a) but while the monitoring notice has effect,
+- (c) any person who the monitored promoter could reasonably be expected to know falls within subsection (4), [^key-636ef3a8bdacaaf66e753514eaaf0988]...
+- (ca)[^key-c0ee767b324966c10eb76618e651ef3c] any person who falls within the case described in paragraph 3 of Schedule 33A by virtue of acting under the instruction or guidance of the monitored promoter, and
+- (d) any person who the monitored promoter could reasonably be expected to know is a relevant intermediary in relation to a relevant proposal of the monitored promoter.
+
+(3) A person (“C”) becomes a client of a monitored promoter if the promoter does any of the following in relation to C—
+
+- (a) makes a firm approach to C in relation to a relevant proposal with a view to the promoter making the proposal available for implementation by C or another person;
+- (b) makes a relevant proposal available for implementation by C;
+- (c) takes part in the organisation or management of relevant arrangements entered into by C.
+
+(4) A person falls within this subsection if during the period beginning with the date the conduct notice took effect and ending with the date on which the monitoring notice took effect the person has entered into transactions forming part of relevant arrangements and those arrangements—
+
+- (a) enable, or are likely to enable, the person to obtain a tax advantage during the time a monitoring notice has effect, and
+- (b) are either relevant arrangements in relation to which the monitored promoter is or was a promoter or implement a relevant proposal in relation to which the monitored promoter was a promoter.
+
+(5) A person is a relevant intermediary in relation to a relevant proposal of a monitored promoter if the person meets the conditions in section 236(a) to (c) (meaning of “intermediary”) at any time while the monitoring notice in relation to the monitored promoter has effect.
+
+(6) The “**relevant period**” means—
+
+- (a) in the case of a person falling within subsection (2)(a), the period of 30 days beginning with the day of the notification mentioned in subsection (1),
+- (b) in the case of a person falling within subsection (2)(b), the period of 30 days beginning with the day on which the person first became a client in relation to the monitored promoter,
+- (c) in the case of a person falling within subsection (2)(c), the period of 30 days beginning with the later of the day of the notification mentioned in subsection (1) and the first day on which the monitored promoter could reasonably be expected to know that the person fell within subsection (4), and
+- (d) in the case of a person falling within subsection (2)(d), the period of 30 days beginning with the later of the day of the notification mentioned in subsection (1) and the first day on which the monitored promoter could reasonably be expected to know that the person was a relevant intermediary in relation to a relevant proposal of the monitored promoter.
+
+(7) In this section “**the conduct notice**” means the conduct notice that the monitored promoter failed to comply with which resulted in the monitoring notice being given to the monitored promoter.
+
+(8) Subsection (2)(c) is to be ignored in a case where the monitoring notice is a replacement monitoring notice.
+
+## Annotations
+
+[^key-864d296442727db7a62d92878fe14c89]: Textual amendment: Word in [s. 251 heading](https://www.legislation.gov.uk/ukpga/2014/26/part/5/crossheading/allocation-and-distribution-of-promoter-reference-number) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 14(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/14/2)
+
+[^key-636ef3a8bdacaaf66e753514eaaf0988]: Textual amendment: Word in [s. 251(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/251/2/c) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/14/3/a)
+
+[^key-c0ee767b324966c10eb76618e651ef3c]: Textual amendment: [S. 251(2)(ca)](https://www.legislation.gov.uk/ukpga/2014/26/section/251/2/ca) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/14/3/b)

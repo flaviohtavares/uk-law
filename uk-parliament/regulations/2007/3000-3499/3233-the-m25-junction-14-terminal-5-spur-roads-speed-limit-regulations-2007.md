@@ -1,0 +1,92 @@
+---
+title: The M25 (Junction 14, Terminal 5 Spur Roads) (Speed Limit) Regulations 2007
+id: uksi/2007/3233
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-11-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/3233
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/3233/pdfs/uksiem_20073233_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/3233/pdfs/uksi_20073233_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/3233/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The M25 (Junction 14, Terminal 5 Spur Roads) (Speed Limit) Regulations 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 3233
+
+Road Traffic
+
+The M25 (Junction 14, Terminal 5 Spur Roads) (Speed Limit) Regulations 2007
+
+Made
+
+12th November 2007
+
+Laid before Parliament
+
+14th November 2007
+
+Coming into force
+
+18th December 2007
+
+The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by section 17(2) and (3) of the Road Traffic Regulation Act 1984[^f00001].
+
+In accordance with section 134(2)[^f00002] of that Act she has consulted with such organisations as she thinks fit:
+
+## 1. Citation and Commencement
+
+These Regulations may be cited as the M25 (Junction 14, Terminal 5 Spur Roads) (Speed Limit) Regulations 2007 and shall come into force on 18th December 2007.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the motorway” means the M25 Motorway in the London Borough of Hillingdon and the Borough of Slough;
+- “Terminal 5” means Terminal 5 at Heathrow Airport;
+- “the eastbound carriageway” means the eastbound carriageway of the motorway spur to Terminal 5 from the northbound carriageway of the motorway at Junction 14 from a point 30 metres north of marker post 91/6 (180 metres south of the Junction 14 South Bridge) to the Terminal 5 roundabout;
+- “the westbound carriageway” means the westbound carriageway of the motorway spur from Terminal 5 to the northbound carriageway of the motorway at Junction 14 from the Terminal 5 roundabout to a point 10 metres north of marker post 11/1(A) (200 metres south of the M25/T5 Spur Viaduct); and
+- “a slip road” means—
+  - (i) the road leading from the southbound carriageway at Junction 14 to the eastbound carriageway from a point 10 metres north of marker post 92/8 (140 metres north of the M25/T5 Spur Viaduct), to a point at marker post 10/0 (B) (at the junction with the Terminal 5 roundabout); or
+  - (ii) the road leading from the westbound carriageway from a point 20 metres west of marker post 10/0(A) (30 metres west of the junction with Terminal 5 roundabout) to a point 90 metres south of marker post 10/7(J) (100 metres south of the M25/T5 Spur Slip Road South Bridge); or
+  - (iii) the slip road leading to the northbound carriageway of the motorway from the A3113 at Junction 14 between points 20 metres north of marker post 92/0 (25 metres north of the roundabout at Junction 14) and 50 metres north of marker post 92/4 (220 metres south of the M25/ T5 Spur Viaduct).
+
+## 3. Imposition of Speed Limit
+
+No person shall drive any motor vehicle at a speed exceeding 40 miles per hour on the eastbound carriageway, the westbound carriageway or a slip road.
+
+Signed by authority of the Secretary of State for Transport
+
+Tom Harris
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+12th November 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations impose a 40 miles per hour speed limit on the eastbound and westbound carriageways and the slip roads leading to and from the M25 and Terminal 5 at Heathrow in the interests of road safety.
+
+A regulatory impact assessment has not been produced for this instrument as it has no significant impact on business, charities or voluntary bodies.
+
+A temporary Order, made under sections 14(1)(b) and 122A of the Road Traffic Regulation Act 1984, imposing a 40 mile per hour speed limit has been in force since 19th December 2005. These Regulations will replace the temporary Order, with one minor variation to one of the starting points for signing purposes.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27); section 17(2) was amended by the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22), s168(1), Schedule 8, Part II, paragraph 28(3); and by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), ss48, 83, Schedule 4, paragraph 25 and Schedule 8.
+
+[^f00002]: Footnote: Section 134(2) was amended by the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, paragraph 77.

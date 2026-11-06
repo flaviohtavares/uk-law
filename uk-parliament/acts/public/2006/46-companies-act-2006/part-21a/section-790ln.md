@@ -1,0 +1,51 @@
+---
+title: Companies Act 2006, section 790LN
+act: Companies Act 2006
+section: 790LN
+status: revised-with-pending-changes
+text_date: '2026-07-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/46/section/790LN
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 2006, section 790LN
+
+> **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/46
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 790LN. Initial identity verification for registrable persons: transitional cases[^key-6bd71df63fad2dec38b3560e7c96542f][^key-ba5be2a45d6ce589dc5669ba236db350][^key-689e5a47c0a7b11c8c942ac162153172][^key-25bb38e9575e6451e141c16a39f97d46]
+
+*Extent: E+W+S+N.I.*
+
+(1) A person must deliver to the registrar the statement required by this section if the person—
+
+- (a) is a registrable person in relation to a company at any time during the appointed day, and
+- (b) either—
+  - (i) became a registrable person on the incorporation of the company in pursuance of an application for registration delivered before section 12B(2) came fully into force, or
+  - (ii) became a registrable person, otherwise than on the incorporation of the company, before the day on which section 790LB(1) came fully into force.
+
+(2) The statement required by this section is a statement confirming that person’s identity is verified (see section 1110A).
+
+(3) A statement required by this section must be delivered within the period of 14 days beginning with the appointed day.
+
+(4) But the registrar may by direction in writing extend that period by up to 14 days at a time.
+
+(5) In this section—
+
+- “**the appointed day**” means such day as the Secretary of State may by regulations appoint for the purposes of this section;
+- “**registrable person**” does not include a person mentioned in section 790C(12)(a) to (d).
+
+(6) The appointed day must not be before sections 12B(2) and 790LB(1) have been brought fully into force.
+
+## Annotations
+
+[^key-6bd71df63fad2dec38b3560e7c96542f]: Modification: [Ss. 790LJ-790LT](https://www.legislation.gov.uk/ukpga/2006/46/section/790LJ) applied (with modifications) (18.11.2025) by S.I. 2009/2436, Sch. 1 para. 12B (as substituted by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/4), [3(6)](https://www.legislation.gov.uk/uksi/2025/761/regulation/3/6) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6)))
+
+[^key-ba5be2a45d6ce589dc5669ba236db350]: Modification: [S. 790LN](https://www.legislation.gov.uk/ukpga/2006/46/section/790LN) applied (with modifications) (18.11.2025) by S.I. 2009/1804, reg. 31DB (as inserted by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/c), [8(6)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/8/6) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i))
+
+[^key-689e5a47c0a7b11c8c942ac162153172]: Textual amendment: [Ss. 790LM-790LT and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/2A/crossheading/identity-verification-obligations-for-persons-with-significant-control) inserted (26.10.2023 for specified purposes, 18.11.2025 except for the insertion of ss. 790LO, 790LP, 790LR, 790LS and s. 790LT for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/64/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/k)[(5)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1118/regulation/5))
+
+[^key-25bb38e9575e6451e141c16a39f97d46]: Textual amendment: Pt. 21A inserted (26.5.2015 for specified purposes, 6.4.2016 except for the insertion of ss. 790M(9)(c), 790W-790ZE and 30.6.2016 so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a); [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [regs. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a), [5(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/a)

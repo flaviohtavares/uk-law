@@ -1,0 +1,82 @@
+---
+title: The Register of People with Significant Control Regulations 2016, section 25
+act: The Register of People with Significant Control Regulations 2016
+section: '25'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/339/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Register of People with Significant Control Regulations 2016, section 25
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2016/339
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25. Application by an individual requiring the registrar to refrain from disclosing that individual's usual residential address information to a credit reference agency[^key-2d6f6003c7ac4d4a472a68274357d019]
+
+*Extent: E+W+S+N.I.*
+
+(1) An individual who is, or proposes to become, a registrable person in relation to a company may make an application to the registrar requiring the registrar to refrain from disclosing to a credit reference agency information within section 790ZF(2) of the Act relating to that individual.
+
+(2) The grounds on which an application may be made are that—
+
+- (a) the applicant reasonably believes that there is a serious risk that the applicant, or a person who lives with the applicant, will be subjected to violence or intimidation as a result of the activities of at least one of—
+  - (i) the companies in relation to which the applicant is, or proposes to become, a registrable person;
+  - (ii) the companies in relation to which the applicant used to be a registrable person;
+  - (iii) the limited liability partnerships in relation to which the applicant is, or proposes to become, a registrable person under the 2016 Regulations;
+  - (iv) the limited liability partnerships in relation to which the applicant used to be a registrable person under the 2016 Regulations;
+  - (v) the limited liability partnerships in relation to which the applicant is or proposes to become a member;
+  - (vi) the limited liability partnerships in relation to which the applicant used to be a member;
+  - (vii) the companies in relation to which the applicant is, or proposes to become, a director [^c23150951];
+  - (viii) the companies in relation to which the applicant used to be a director; [^key-ec48be0005a71581544b3ef7fb6ffdbc]...
+  - (ix) the overseas companies [^c23150961] of which the applicant is or used to be a director, secretary or permanent representative; or
+  - (x)[^key-38e3c7b5f613b40b2f74d9c7cb7c9cab] the eligible Scottish partnerships in relation to which the applicant is, was, or proposes to become a registrable person under the Scottish Partnerships (Register of People with Significant Control) Regulations 2017 ([S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694));
+  - (xi) the limited partnerships in relation to which the applicant is, was, or proposes to become a partner;
+  - (xii) the limited partnerships in relation to which the applicant is, was, or proposes to become a registered officer of a general partner; or
+  - (xiii) the limited partnerships in relation to which the applicant is, was, or proposes to become the named contact of a corporate managing officer of a general partner; or
+- (b) a section 243 decision has been made in respect of the applicant which has not ceased to have effect under regulation 15 of the 2009 Regulations.
+
+(3) The application must contain—
+
+- (a) a statement of the grounds on which the application is made;
+- (b) the name and any former name of the applicant;
+- (c) the date of birth of the applicant;
+- (d) the usual residential address of the applicant;
+- (e) the e-mail address of the applicant, if any;
+- (f) the name and registered number of each company in relation to which the applicant is, or proposes to become, a registrable person;
+- (g) where the grounds of the application are those described in paragraphs (2)(a)(ii) to (ix), the names and registered numbers of the companies, limited liability partnerships and overseas companies whose activities are relevant to the application; and
+- (h) where the grounds of the application are those described in paragraph (2)(b), the name and registered number of the company in relation to which the section 243 decision was made, unless the section 243 decision relates to a proposed company which was never incorporated.
+
+(4) Where the grounds of the application are those described in paragraph (2)(a), the application must be accompanied by evidence which supports the applicant's statement of the grounds on which the application is made.
+
+(5) The registrar must determine the application and, within 7 days beginning with the date that the determination is made, send to the applicant notice of the determination.
+
+(6) Where the application is unsuccessful, the notice under paragraph (5) must inform the applicant of the applicant's right to apply for permission to appeal against the determination within 28 days beginning with the date of the notice.
+
+(7)[^key-ad63eaa7ef4fb1f5de156c8b24ea0df8] In this regulation—
+
+- “**the 1907 Act**” means the Limited Partnerships Act 1907 (c. 24 (7 Edw 7));
+- “**corporate managing officer**” has the meaning given in section 3(1) of the 1907 Act (interpretation of terms);
+- “**eligible Scottish partnership**” has the meaning given in regulation 3(2) of the Scottish Partnerships (Register of People with Significant Control) Regulations 2017;
+- “**general partner**” has the meaning given in section 3 of the 1907 Act (interpretation of terms);
+- “**limited partnership**” has the meaning given in section 4 of the 1907 Act (definition and constitution of limited partnership);
+- “**named contact**” has the meaning given in section 8K(5) of the 1907 Act (duty to maintain registered officer and named contacts);
+- “**registered officer**” has the meaning given in section 8K(4) of the 1907 Act.
+
+## Annotations
+
+[^key-2d6f6003c7ac4d4a472a68274357d019]: Modification: [Regs. 7-47](https://www.legislation.gov.uk/uksi/2016/339/regulation/7) applied (with modifications) (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/3) (as amended: (26.6.2017) by [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [30](https://www.legislation.gov.uk/uksi/2017/693/regulation/30) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/2)); (27.1.2025) by [S.I. 2024/1377](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/11/3); (21.7.2025) by [S.I. 2025/874](https://www.legislation.gov.uk/uksi/2025/874), [reg. 9(5)](https://www.legislation.gov.uk/uksi/2025/874/regulation/9/5); and (18.11.2025) by [S.I. 2025/1033](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/d), [11(3)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/11/3) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i))
+
+[^c23150951]: Marginal citation: See section 250 of the Act for the meaning of “director”.
+
+[^key-ec48be0005a71581544b3ef7fb6ffdbc]: Textual amendment: Word in [reg. 25(2)(a)](https://www.legislation.gov.uk/uksi/2016/339/regulation/25/2/a) omitted (21.7.2025) by virtue of [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/8/2/a)
+
+[^c23150961]: Marginal citation: See section 1044 of the Act for the meaning of “overseas company”.
+
+[^key-38e3c7b5f613b40b2f74d9c7cb7c9cab]: Textual amendment: [Reg. 25(2)(a)(x)-(xiii)](https://www.legislation.gov.uk/uksi/2016/339/regulation/25/2/a/x) inserted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/874/regulation/8/2/b)
+
+[^key-ad63eaa7ef4fb1f5de156c8b24ea0df8]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/uksi/2016/339/regulation/25/7) inserted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2025/874/regulation/8/3)

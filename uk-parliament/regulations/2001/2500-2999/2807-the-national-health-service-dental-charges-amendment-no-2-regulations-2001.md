@@ -1,0 +1,72 @@
+---
+title: The National Health Service (Dental Charges) Amendment (No. 2) Regulations 2001
+id: uksi/2001/2807
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-08-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/2807
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/2807/pdfs/uksi_20012807_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/2807/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Dental Charges) Amendment (No. 2) Regulations 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 2807
+
+NATIONAL HEALTH SERVICE, ENGLAND
+
+The National Health Service (Dental Charges) Amendment (No. 2) Regulations 2001
+
+Made
+
+3rd August 2001
+
+Laid before Parliament
+
+3rd August 2001
+
+Coming into force
+
+6th August 2001
+
+The Secretary of State for Health, in exercise of the powers conferred on him by sections 79(1), 79A and 126(4) of the National Health Service Act 1977[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the National Health Service (Dental Charges) Amendment (No. 2) Regulations 2001 and shall come into force on 6th August 2001.
+
+(2) These Regulations extend to England only.
+
+## 2. Amendment of the National Health Service (Dental Charges) Regulations 1989
+
+In regulation 3 of the National Health Service (Dental Charges) Regulations 1989[^f00002] (charges for other dental services), paragraph (2)(e), for “or 13(2)” substitute “, 13(2) or 17(4)”.
+
+Signed by authority of the Secretary of State for Health
+
+Hazel Blears
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+3rd August 2001
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the National Health Service (Dental Charges) Regulations 1989 to provide that no charge shall be made to the patient where a dentist repairs or replaces a filling in accordance with paragraph 17(4) of Schedule 1 to the National Health Service (General Dental Services) Regulations 1992 (repair or replacement of a filling provided by a dentist as occasional treatment).
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); *see* section 128(1) as amended by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 26(2)(g) and (i), for the definitions of “prescribed” and “regulations”; section 79(1) was amended by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49) (“the 1988 Act”), section 11(2) and Schedule 3; section 79A was inserted by the 1988 Act, section 11(3); section 126(4) was amended by the 1990 Act, section 65(2), and by the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, paragraph 37(6). The functions of the Secretary of State under these provisions are, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as amended by section 66(5) of the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8).
+
+[^f00002]: Footnote: [S.I. 1989/394](https://www.legislation.gov.uk/uksi/1989/394), relevant amending instrument is [S.I. 1998/2221](https://www.legislation.gov.uk/uksi/1998/2221).

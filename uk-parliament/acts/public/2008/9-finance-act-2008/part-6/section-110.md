@@ -1,0 +1,86 @@
+---
+title: Finance Act 2008, section 110
+act: Finance Act 2008
+section: '110'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/9/section/110
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2008, section 110
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/9
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 110. Capital allowances: abandonment expenditure after ceasing ring fence trade
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 165 of CAA 2001 (abandonment expenditure within 3 years of ceasing ring fence trade) is amended as follows.
+
+(2) In the heading, for “**within 3 years of**” substitute “ **after** ”.
+
+(3) For subsection (2) substitute—
+
+> (2) “**The post-cessation period**” means the period that—
+>
+> - (a) begins with the day following the last day on which the former trader carried on the ring fence trade, and
+> - (b) ends with the day on which condition A and condition B are both met (or, if they are met on different days, the later of those days).
+>
+> (2A) Condition A is met if each approved abandonment programme that relates wholly or partly to relevant plant and machinery has ceased to have effect.
+>
+> (2B) Condition B is met if the Secretary of State is satisfied that no other abandonment programmes that relate wholly or partly to relevant plant and machinery will be approved.
+>
+> (2C) For the purposes of condition A, an approved abandonment programme ceases to have effect if and when—
+>
+> - (a) the programme has been carried out to the satisfaction of the Secretary of State, or
+> - (b) approval of the programme has been withdrawn.
+
+(4) After subsection (4) insert—
+
+> (4A) Abandonment expenditure is to be disregarded for the purposes of this section if the expenditure is incurred in decommissioning plant and machinery at a time—
+>
+> - (a) after an abandonment programme relating wholly or partly to the plant and machinery has had its approval withdrawn, and
+> - (b) when no other abandonment programme relating wholly or partly to the plant and machinery is approved.
+
+(5) After subsection (5) insert—
+
+> (6) For the purposes of this section, it does not matter if approval of an abandonment programme that relates to relevant plant and machinery (including approval of the first such programme) is given before or after the start of the post-cessation period.
+>
+> (7) In this section—
+>
+> - “**abandonment programme**” means an abandonment programme under Part 4 of the Petroleum Act 1998;
+> - “**approved**”, in relation to an abandonment programme, means approved or revised under Part 4 of the Petroleum Act 1998 (and “**approval**” is to be construed accordingly);
+> - “**relevant plant and machinery**” means plant and machinery—
+>   - (a) which has been brought into use for the purposes of the ring fence trade that has ceased, and
+>   - (b) which, when last in use for the purposes of that ring fence trade, was, or formed part of, an offshore installation or submarine pipeline;
+>
+>   and for this purpose “**offshore installation**” and “**submarine pipeline**” have the same meaning as in Part 4 of the Petroleum Act 1998;
+> - “**withdrawn**”, in relation to approval of an abandonment programme, means withdrawn under Part 4 of the Petroleum Act 1998.
+
+(6) Section 393A of ICTA (losses: set off against profits of the same, or an earlier, accounting period) is amended as follows.
+
+(7) In subsection (11)—
+
+- (a) for “In any case where” substitute “ Subsection (11A) applies in any case where ”,
+- (b) in paragraph (a), for “within 3 years of” substitute “ after ”, and
+- (c) omit the words after paragraph (b).
+
+(8) After that subsection insert—
+
+> (11A) In relation to any claim under subsection (1)—
+>
+> - (a) to the extent that the claim relates to an increase falling within subsection (11)(a), this section shall have effect as if—
+>   - (i) in subsection (10), “the relevant period” were substituted for “ the period of two years ”, and
+>   - (ii) after subsection (10) there were inserted—
+>
+>     > (10ZA) In subsection (10) “**relevant period**” means the period calculated by adding two years to the post-cessation period (within the meaning of section 165 of the Capital Allowances Act).
+>
+>     ;
+> - (b) to the extent that the claim relates to expenditure falling within subsection (11)(b), subsection (10) shall have effect with the substitution of “ five years ” for “two years”.
+
+(9) The amendments made by this section have effect in relation to ring fence trades that cease to be carried on or after 12 March 2008.

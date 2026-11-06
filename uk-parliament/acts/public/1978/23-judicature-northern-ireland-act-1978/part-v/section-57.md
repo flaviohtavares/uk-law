@@ -1,0 +1,25 @@
+---
+title: Judicature (Northern Ireland) Act 1978, section 57
+act: Judicature (Northern Ireland) Act 1978
+section: '57'
+status: revised-with-pending-changes
+text_date: '2026-09-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1978/23/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Judicature (Northern Ireland) Act 1978, section 57
+
+> **Warning: changes not yet applied to this text (33).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 57. High Court and Court of Appeal to be continuing courts.
+
+*Extent: E+W+S+N.I.*
+
+(1) The High Court and the Court of Appeal shall be continuing courts with vacations regulated by rules of court.
+
+(2) Rules of court shall provide for the hearing during vacation by judges and officers of the High Court and the Court of Appeal of all such causes and matters as may require to be immediately or promptly heard.

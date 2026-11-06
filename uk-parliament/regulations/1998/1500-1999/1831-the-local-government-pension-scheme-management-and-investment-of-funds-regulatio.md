@@ -1,0 +1,460 @@
+---
+title: The Local Government Pension Scheme(Management and Investment of Funds) Regulations 1998
+id: uksi/1998/1831
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1998-07-20'
+text_date: '1998-08-19'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/1998/1831
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1831/data.pdf
+pending_changes: 41
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government Pension Scheme(Management and Investment of Funds) Regulations 1998
+
+> **Warning: changes not yet applied to this text (41).** Text as at 1998-08-19. See https://www.legislation.gov.uk/changes/affected/uksi/1998/1831
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+1998 No. 1831
+
+PENSIONS
+
+The Local Government Pension Scheme(Management and Investment of Funds) Regulations 1998
+
+Made
+
+20th July 1998
+
+Laid before Parliament
+
+29th July 1998
+
+Coming into force
+
+19th August 1998
+
+The Secretary of State, in exercise of the powers conferred on him by section 7 of the Superannuation Act 1972[^f00001] and of all other powers enabling him in that behalf, after consultation with such associations of local authorities as appeared to him to be concerned, the local authorities with whom consultation appeared to him to be desirable and such representatives of other persons likely to be affected by the Regulations as appeared to him to be appropriate, hereby makes the following Regulations:—
+
+## Preliminary
+
+### 1. Citation and commencement[^key-c672316799ccdd6aedb705f0c750e671]
+
+(1) These Regulations may be cited as the Local Government Pension Scheme (Management and Investment of Funds) Regulations 1998.
+
+(2) These Regulations shall come into force on 19th August 1998.
+
+### 2. General definitions[^key-3d5c635fe02bc5929cdd728ea472fc60]
+
+In these Regulations—
+
+- “the 1997 regulations” means the Local Government Pension Scheme Regulations 1997[^f00002];
+- “administering authority” means a body required to maintain a pension fund under the 1997 regulations;
+- “European authorised institution” and “European institution” have the same meanings as in the Banking Co-ordination (Second Council Directive) Regulations 1992[^f00003];
+- “FSAVC scheme” is a scheme approved by virtue of section 591(2)(h) of the Taxes Act;
+- “fund money” means money in the pension fund maintained by an administering authority;
+- “home-regulated investment business” has the same meaning as in the Banking Co-ordination (Second Council Directive) Regulations 1992;
+- “limited partner” means a person who is not liable for the debts or obligatons of a partnership beyond the amount he contributed at the time he became a partner;
+- “member” has the same meaning as in section 124(1) of the Pensions Act 1995[^f00004];
+- “proper advice”, in relation to an administering authority, means the advice of a person who is reasonably believed by them to be qualified by his ability in and practical experience of financial matters (including any suitable officer of theirs);
+- “recognised stock exchange” has the same meaning as in section 84(1) of the Taxes Act;
+- “relevant institution” means—
+  - (a) the Bank of England,
+  - (b) an institution authorised under Part I of the Banking Act 1987[^f00005] (regulation of deposit-taking business),
+  - (c) a person to whom the restriction on acceptance of deposits in section 3 of that Act does not apply because he is specified in Schedule 2 to that Act (central banks etc.), or
+  - (d) a European authorised institution which has lawfully established a branch in the United Kingdom for the purpose of accepting deposits;
+- “securities” includes shares, stock and debentures;
+- “stock lending arrangement” means an arrangement such as is mentioned in section 263B of the Taxation of Chargeable Gains Act 1992[^f00006];
+- “sub-underwriting contract” means a contract with a person who is underwriting a share issue to acquire the shares from him if he requires it;
+- “Taxes Act” means the Income and Corporation Taxes Act 1988[^f00007];
+- “traded option” means an option quoted on a recognised stock exchange or on the London International Financial Futures Exchange;
+- “Transitional Regulations” means the Local Government Pension Scheme (Transitional Provisions) Regulations 1997[^f00008];
+- “unquoted securities investment partnership” means a partnership for investing in securities which are normally not quoted on a recognised stock exchange when the partnership buys them.
+
+### 3. Definition of “investment”[^key-30415b981438922df098b16fd0febec1]
+
+(1) In these Regulations “investment” and similar expressions have their normal meaning.
+
+(2) But the following provisions of this regulation specify things which count as investments for these Regulations, although they might not otherwise do so, and exclude things which might otherwise count.
+
+(3) A contract entered into in the course of dealing in financial futures or traded options is an investment.
+
+(4) If the administering authority use fund money for any purpose for which they may borrow money, that counts as an investment.
+
+(5) An insurance contract is an investment if and only if the contract is made with a person within paragraph (6) for whom making the contract is business within class III or class VII in Schedule 1 to the Insurance Companies Act 1982[^f00009] (linked long term and pension fund management business).
+
+(6) The persons within this paragraph are—
+
+- (a) a person whom that Act permits to carry on such business, and
+- (b) an insurance company which, because it has its head office in a member State, is permitted under the law of such a State to carry on insurance business of a similar sort.
+
+(7) A stock lending arrangement is an investment if and only if, in respect of it, the conditions in regulations 5.58 and 5.60 of Section L of the Financial Services (Regulated Schemes) Regulations 1991 are complied with, modified as specified in paragraph (8).
+
+(8) Those modifications are—
+
+- (a) for the references in regulation 5.58 to section 129 of the Income and Corporation Taxes Act 1988 substitute a reference to section 263B of the Taxation of Chargeable Gains Act 1992;
+- (b) delete paragraphs 1a, 1c(ii) and 2b;
+- (c) for the references in both those regulations to the trustee, substitute a reference to the administering authority; and
+- (d) for the reference in paragraph 1c(iii) of regulation 5.58 to Guidance of the Board, substitute a reference to Guidance Release 4/91 issued by the Securities and Investments Board in June 1991.
+
+(9) It is an investment to contribute to a limited partnership in an unquoted securities investment partnership.
+
+(10) A sub-underwriting contract is an investment.
+
+### 4. Definition of “investment manager”[^key-6d081b2447b7918d8be2f8b548357222]
+
+(1) This regulation describes those persons who count as an “investment manager” for these Regulations.
+
+(2) A person is an investment manager if he is authorised under the Financial Services Act 1986[^f00010] to manage the assets of occupational pension schemes.
+
+(3) A person is also an investment manager if he—
+
+- (a) does not transact investment business (within the meaning of that Act) from a permanent place of business maintained by him in the United Kingdom;
+- (b) has a head office situated outside the United Kingdom in a member State;
+- (c) is recognised by the law of that State as a national of a member State;
+- (d) is authorised under that law to engage in one or more of the actitivies specified in Part II of Schedule 1 to the Financial Services Act 1986 (which lists different sorts of investment business); and
+- (e) is not prevented by that law from managing the assets of occupational pension schemes or assets belonging to another person.
+
+(4) A European institution carrying on home-regulated investment business in the United Kingdom is also an investment manager.
+
+## Management of pension fund
+
+### 5. Management of pension fund[^key-2fbe3ef873cec63de431ac5706b81b31]
+
+(1) This regulation is about the sums which an administering authority must pay or credit to and may pay from the pension fund administered by them.
+
+(2) They must pay or credit to their pension fund, in addition to any other sum the 1997 regulations specify must be paid or credited to the fund—
+
+- (a) the amounts payable by them or paid to them for the credit of the fund by any other authority under regulations 79 and 80 of the 1997 regulations (employers' contributions) or by virtue of the Transitional Regulations,
+- (b) all members' contributions except contributions payable under regulations 61 and 68 of the 1997 regulations (additional voluntary contributions),
+- (c) all income arising during the year from investment of the fund,
+- (d) all capital money deriving from such investment, and
+- (e) all additional payments received by the authority under the 1997 regulations or the Transitional Regulations.
+
+(3) In the case of an administering authority which maintains more than one pension fund, as respects sums which relate to specific members the references in paragraph (2) to the authority’s fund are to the fund which is the appropriate fund for the members in question in accordance with Schedule 5 to the 1997 regulations.
+
+(4) Interest under regulation 82(1) of the 1997 regulations must be credited and paid to the fund to which the overdue payment is due.
+
+(5) Interest paid under regulation 21 of the Transitional Regulations (early retirement of chief officers) must be paid to the fund from which the benefits in question are payable.
+
+(6) Any costs, charges and expenses incurred administering a pension fund (except those incurred in connection with a FSAVC scheme) may be paid from it.
+
+### 6. Choice of investment managers[^key-f9b54c5ab9c3b7e59e4390732f634c9c]
+
+(1) Instead of managing and investing fund money for themselves, an administering authority may appoint one or more investment managers to manage and invest it for them.
+
+(2) But they may only appoint an investment manager if they comply with paragraphs (3) to (6).
+
+(3) They must reasonably believe that the investment manager is suitably qualified by his ability in and practical experience of financial matters to make investment decisions for them.
+
+(4) The investment manager must not be their employee.
+
+(5) They must be satisfied—
+
+- (a) that the fund is managed by an adequate number of investment managers; and
+- (b) that the value of the fund money to be managed by any one investment manager will not be excessive.
+
+(6) They must have taken proper advice.
+
+### 7. Terms of appointment of investment managers[^key-0230810e4018a1b0faa6c8298b7dd937]
+
+(1) Investment managers must, if appointed, be appointed on the terms set out in paragraphs (2) to (7).
+
+(2) The administering authority must be able to terminate the appointment by not more than one month’s notice.
+
+(3) The investment manager must report to the administering authority at least once every three months on the action he has taken for them.
+
+(4) The investment manager must comply with all the administering authority’s instructions.
+
+(5) In managing the fund the investment manager must take into account—
+
+- (a) that fund money must be invested in a wide variety of investments,
+- (b) the suitability of those types of investment for the fund, and
+- (c) the suitability of any particular investment of that type.
+
+(6) But paragraph (5)(a) does not apply where the investment manager only manages part of the fund and the terms of his appointment provide that it does not apply.
+
+(7) The investment manager must not make investments which would contravene regulation 11 or Schedule 1.
+
+(8) In determining the investment manager’s terms of appointment, the administering authority must take proper advice.
+
+### 8. Review of investment manager’s performance[^key-367e651739a55d1b8c6ecbb8c8a8632a]
+
+(1) Where an administering authority have appointed an investment manager they must keep his performance under review.
+
+(2) At least once every three months they must review the investments he has made.
+
+(3) Periodically they must consider whether or not to retain him.
+
+(4) In reviewing an investment manager’s decisions and appointment, an administering authority must take proper advice—
+
+- (a) if regulation 7(5)(a) applies, about the variety of the investments he has made, and
+- (b) about the suitability of those investments for the fund generally and as investments of their type.
+
+## Investments
+
+### 9. Use and investment of pension fund money[^key-65d7411ccd7fc0780906440b31214419]
+
+(1) An administering authority must invest any fund money that is not needed immediately to make payments from the fund.
+
+(2) They may vary their investments.
+
+(3) Their investment policy must be formulated with a view—
+
+- (a) to the advisability of investing fund money in a wide variety of investments; and
+- (b) to the suitability of particular investments and types of investments.
+
+(4) An administering authority must obtain proper advice at reasonable intervals about their investments.
+
+(5) The authority must consider such advice in taking any steps about their investments.
+
+### 10. Investments under s.11 of the Trustee Investments Act 1961[^key-845f89d49846730d2aa90fc7e3b2715a]
+
+(1) An administering authority may invest in any investment made in accordance with a section 11 scheme without any restriction as to quantity.
+
+(2) A “section 11 scheme” is a scheme under section 11 of the Trustee Investments Act 1961[^f00011] (which enables the Treasury to approve schemes for local authorities to invest collectively).
+
+### 11. Restrictions on investments[^key-aa49639b9124f0e580421e9519c1b26e]
+
+(1) Schedule 1 sets out the limits which apply to certain sorts of investments.
+
+(2) The percentages set out in the headings in Part I are the limits on the amount of each description of investment listed under those headings.
+
+(3) Those percentages are percentages of the total value of all existing investments in the fund before making the investment which is subject to the limit.
+
+(4) The limits in that Schedule only apply at the time the investment is made.
+
+(5) Part II of that Schedule sets out certain exceptions to the limits.
+
+(6) Part III of that Schedule applies for interpreting Parts I and II.
+
+### 12. Use of fund money by an administering authority[^key-8b96c24a936f0b2d996da02fb93cdc6d]
+
+(1) An administering authority must pay interest on the total from day to day of any fund money used by them and not repaid.
+
+(2) That interest may not be paid at a rate lower than the lowest rate at which they could have obtained a commercial loan of that amount at 7 days' notice (otherwise than by bank overdraft).
+
+## Supplementary
+
+### 13. Consequential amendments and revocations[^key-7efd30ce4cc0283b3b129afd088bcb33]
+
+(1) The provisions in Schedule 2 are amended as set out in that Schedule.
+
+(2) Regulations L4 to L8 of the Local Government Pension Scheme Regulations 1995[^f00012] are revoked.
+
+Signed by authority of the Secretary of State.
+
+Nick Raynsford
+
+Parliamentary Under Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+20th July 1998
+
+## SCHEDULE 1 — LIMITS ON INVESTMENTS
+
+Regulations 7(7) and 11.
+
+### PART I
+
+#### 1% limit
+
+**1.**[^key-d02f4f0b9e6d29476766948f2fcd3b3a] Any single sub-underwriting contract.
+
+#### 2% limit
+
+**2.**[^key-2a54d29d901c26a5b1c7e5208d20c72b] All contributions to any single partnership.
+
+#### 5% limit
+
+**3.**[^key-5b6248e967c9cc0d114f1d454f6538b8] All contributions to partnerships.
+
+#### 10% limit
+
+**4.**[^key-f875d75742cda0b261caf0be3fa87ac5] All deposits with a person specified in paragraph 12 or 13 of Schedule 2 to the Banking Act 1987 and all loans (but see paragraph 12).
+
+**5.**[^key-1891efca9be39f67f1474da9bbc90c82] All investments in unlisted securities of companies.
+
+**6.**[^key-954b8554d5da8ec172e5e7eb57d65e6c] Any single holding (but see paragraphs 13 and 14).
+
+**7.**[^key-862e8b46b4298c9e283429dd958b6690] All deposits with any single bank, institution or person (other than the National Savings Bank).
+
+#### 15% limit
+
+**8.**[^key-4eaaafd3e6a1b56b164c27f89a18c804] All sub-underwriting contracts.
+
+#### 25% limit
+
+**9.**[^key-d8953ca3101ad1a176f0c6f499b1a67b] All investments in—
+
+- (a) units or other shares of the investments subject to the trusts of unit trust schemes managed by any one body (but see paragraph 14), and
+- (b) open-ended investment companies where the collective investment schemes constituted by the companies are managed by any one body.
+
+**10.**[^key-ebd3cc6ca817fa36b2b5159866ea2710] All insurance contracts.
+
+**11.**[^key-bf74ab33428f9fe6483082f15b717fed] All securities transferred (or agreed to be transferred) by the authority under stock lending arrangements.
+
+### PART II — EXCEPTIONS TO LIMITS IN PART I
+
+**12.**[^key-d822966902e1c122322c9ad1c1682828] The restriction in paragraph 4 does not apply to a Government loan.
+
+**13.**[^key-62f3b13b96ec46f09cc7fa4cffe22832] The restriction in paragraph 6 does not apply if—
+
+- (a) the investment is made by an investment manager appointed under regulation 6, and
+- (b) the single holding is in units or other shares of the investments subject to the trusts of any one unit trust scheme.
+
+**14.**[^key-709ec5f38b9610e885a26418ff9b40a3] The restrictions in paragraphs 6 and 9 do not apply—
+
+- (a) to any investment falling within paragraph 1 of Part I (National Savings) or paragraph 1 or 2 of Part II (interest bearing securities, loans etc.) of Schedule 1 to the Trustee Investments Act 1961, or
+- (b) to a deposit with a relevant institution.
+
+### PART III — INTERPRETATION
+
+- “Collective investment scheme” has the meaning given in section 75 of the Financial Services Act 1986[^f00013].
+- “Companies” includes companies established under the law of any territory outside the United Kingdom.
+- “Government loan” means a loan—
+  - (a) to Her Majesty’s Government in the United Kingdom, or
+  - (b) to the Government of the Isle of Man.
+- “Listed securities” means securities quoted on a recognised stock exchange.
+- “Loan” does not include—
+  - (a) investing money in registered securities to which section 1 of the Stock Transfer Act 1963[^f00014] applies (transfer by stock transfer forms) or in listed securities, or
+  - (b) depositing money with a relevant institution,
+
+  and “lent” must be understood in that way.
+- “Open-ended investment company” means a company incorporated by virtue of regulation 3(1) of the Open-ended Investment Companies (Investment Companies with Variable Capital) Regulations 1996[^f00015].
+- “Single holding” means investments—
+  - (a) in securities of, or in loans to or deposits with, any one body,
+  - (b) in units or other shares of the investments subject to the trust of any one unit trust scheme, or
+  - (c) in transactions involving any one piece of land or other property.
+- “Unlisted securities” means securities which are not quoted on a recognised stock exchange.
+
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS
+
+Regulation 13(1).
+
+**1.**[^key-fb72e88ebf4caf9abbafe804c23117fc] In regulation 1(2) of the Local Government Pension Scheme (Local Government Reorganisation in Wales) Regulations 1995[^f00016], after the definition of “designated part” insert—
+
+> - “the Investment Regulations” means the Local Government Pension Scheme (Management and Investment of Funds) Regulations 1998.
+
+**2.**[^key-06745df8d8843df043dcb3a9f4a7f2e8] In regulation 3(9) of those regulations after the words “the principal regulations” insert the words “or, as the case may be, the Investment Regulations”.
+
+**3.**[^key-7122778ac455dbfcb30fca620c06bc0d] In regulation 2(1) of the Transitional Regulations[^f00017]—
+
+- (a) in the definition of “the Investment Regulations” for the words “regulations L4 to L8 of the 1995 regulations” substitute the words “the Local Government Pension Scheme (Management and Investment of Funds) Regulations 1998”;
+- (b) in the definition of “the replaced provisions” omit the words “(but not including the Investment Regulations)”.
+
+(This note is not part of the Regulations)
+
+These Regulations replace regulations L4 to L8 of the Local Government Pension Scheme Regulations 1995 (S.I. [1995/1019](https://www.legislation.gov.uk/uksi/1995/1019)) which are now revoked.
+
+- The only changes of substance are—
+  - the inclusion, as investments, of insurance contracts with persons for whom making an insurance contract is business within class III in Schedule 1 to the Insurance Companies Act 1982 (linked long term business);
+  - the inclusion of sub-underwriting as an investment with a limit on such investment in any single sub-underwriting contract of one per cent of the total value of the fund; and
+  - the inclusion in the limit of 25 per cent of the total value of the fund of investments in open-ended investment company schemes.
+
+The Occupational Pension Schemes (Investment) Regulations 1996 (S.I. [1996/3127](https://www.legislation.gov.uk/uksi/1996/3127)), which impose restrictions on the amount of the resources of an occupational pension scheme which may be invested in employer-related investments, may further restrict or limit investments of fund moneys. Those regulations are made under powers conferred by, amongst others, section 40 of the Pensions Act 1995 (restrictions on employer-related investments).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^key-c672316799ccdd6aedb705f0c750e671]: Commencement: Reg. 1 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-3d5c635fe02bc5929cdd728ea472fc60]: Commencement: Reg. 2 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^f00002]: Footnote: S.I. [1997/1612](https://www.legislation.gov.uk/uksi/1997/1612), to which there are amendments not relevant to these Regulations.
+
+[^f00003]: Footnote: S.I. [1992/3218](https://www.legislation.gov.uk/uksi/1992/3218).
+
+[^f00004]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^f00005]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22).
+
+[^f00006]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
+
+[^f00007]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
+
+[^f00008]: Footnote: S.I. [1997/1613](https://www.legislation.gov.uk/uksi/1997/1613).
+
+[^key-30415b981438922df098b16fd0febec1]: Commencement: Reg. 3 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^f00009]: Footnote: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50).
+
+[^key-6d081b2447b7918d8be2f8b548357222]: Commencement: Reg. 4 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^f00010]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
+
+[^key-2fbe3ef873cec63de431ac5706b81b31]: Commencement: Reg. 5 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-f9b54c5ab9c3b7e59e4390732f634c9c]: Commencement: Reg. 6 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-0230810e4018a1b0faa6c8298b7dd937]: Commencement: Reg. 7 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-367e651739a55d1b8c6ecbb8c8a8632a]: Commencement: Reg. 8 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-65d7411ccd7fc0780906440b31214419]: Commencement: Reg. 9 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-845f89d49846730d2aa90fc7e3b2715a]: Commencement: Reg. 10 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^f00011]: Footnote: [1961 c. 62](https://www.legislation.gov.uk/ukpga/1961/62).
+
+[^key-aa49639b9124f0e580421e9519c1b26e]: Commencement: Reg. 11 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-8b96c24a936f0b2d996da02fb93cdc6d]: Commencement: Reg. 12 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-7efd30ce4cc0283b3b129afd088bcb33]: Commencement: Reg. 13 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^f00012]: Footnote: S.I. [1995/1019](https://www.legislation.gov.uk/uksi/1995/1019).
+
+[^key-d02f4f0b9e6d29476766948f2fcd3b3a]: Commencement: Sch. 1 para. 1 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-2a54d29d901c26a5b1c7e5208d20c72b]: Commencement: Sch. 1 para. 2 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-5b6248e967c9cc0d114f1d454f6538b8]: Commencement: Sch. 1 para. 3 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-f875d75742cda0b261caf0be3fa87ac5]: Commencement: Sch. 1 para. 4 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-1891efca9be39f67f1474da9bbc90c82]: Commencement: Sch. 1 para. 5 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-954b8554d5da8ec172e5e7eb57d65e6c]: Commencement: Sch. 1 para. 6 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-862e8b46b4298c9e283429dd958b6690]: Commencement: Sch. 1 para. 7 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-4eaaafd3e6a1b56b164c27f89a18c804]: Commencement: Sch. 1 para. 8 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-d8953ca3101ad1a176f0c6f499b1a67b]: Commencement: Sch. 1 para. 9 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-ebd3cc6ca817fa36b2b5159866ea2710]: Commencement: Sch. 1 para. 10 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-bf74ab33428f9fe6483082f15b717fed]: Commencement: Sch. 1 para. 11 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-d822966902e1c122322c9ad1c1682828]: Commencement: Sch. 1 para. 12 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-62f3b13b96ec46f09cc7fa4cffe22832]: Commencement: Sch. 1 para. 13 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-709ec5f38b9610e885a26418ff9b40a3]: Commencement: Sch. 1 para. 14 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^f00013]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
+
+[^f00014]: Footnote: [1963 c. 18](https://www.legislation.gov.uk/ukpga/1963/18).
+
+[^f00015]: Footnote: S.I. [1996/2827](https://www.legislation.gov.uk/uksi/1996/2827).
+
+[^key-fb72e88ebf4caf9abbafe804c23117fc]: Commencement: Sch. 2 para. 1 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^f00016]: Footnote: S.I. [1995/1985](https://www.legislation.gov.uk/uksi/1995/1985).
+
+[^key-06745df8d8843df043dcb3a9f4a7f2e8]: Commencement: Sch. 2 para. 2 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^key-7122778ac455dbfcb30fca620c06bc0d]: Commencement: Sch. 2 para. 3 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+
+[^f00017]: Footnote: S.I. [1997/1613](https://www.legislation.gov.uk/uksi/1997/1613).

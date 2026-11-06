@@ -1,0 +1,1558 @@
+---
+title: The Health and Safety and Nuclear (Fees) Regulations 2022
+id: uksi/2022/1378
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-12-19'
+text_date: '2026-05-21'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2022/1378
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/1378/pdfs/uksiem_20221378_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1378/pdfs/uksi_20221378_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1378/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Safety and Nuclear (Fees) Regulations 2022
+
+> Text as at 2026-05-21.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+This Statutory Instrument corrects errors in [S.I. 2021/33](https://www.legislation.gov.uk/uksi/2021/33) and [S.I. 2022/1037](https://www.legislation.gov.uk/uksi/2022/1037), and is being issued free of charge to all known recipients of those Statutory Instruments.
+
+2022 No. 1378
+
+Health And Safety
+
+The Health and Safety and Nuclear (Fees) Regulations 2022
+
+Approved by both Houses of Parliament
+
+Made
+
+19th December 2022
+
+Laid before Parliament
+
+20th December 2022
+
+Coming into force
+
+21st December 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 43(2), (4), (5) and (6) and 82(3)(a) of the Health and Safety at Work etc. Act 1974[^f00001] (“**the 1974 Act**”), sections 101(1), (2) and (3) and 113(6) and (7) of the Energy Act 2013[^f00002] (“**the 2013 Act**”) and paragraphs 1 and 7 of Schedule 4, and paragraph 21 of Schedule 7, to the European Union (Withdrawal) Act 2018[^f00003] (“**the 2018 Act**”).
+
+The Secretary of State makes these Regulations, in so far as they are made in exercise of powers conferred by the 1974 Act, for the purpose of giving effect without modifications to proposals submitted to the Secretary of State by the Health and Safety Executive under section 11(3) of the 1974 Act[^f00004].
+
+In accordance with section 101(6)(a) of the 2013 Act, the Secretary of State has consulted the Office for Nuclear Regulation.
+
+In accordance with paragraph 3(1) of Schedule 4 to the 2018 Act, these Regulations are made with the consent of the Treasury.
+
+In accordance with paragraph 19 of Schedule 7 to the 2018 Act, the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by a resolution of, each House of Parliament.
+
+## 1. Citation, commencement, extent and application[^key-77f9b55b1d9b224c24993127436bcda4]
+
+(1) These Regulations may be cited as the Health and Safety and Nuclear (Fees) Regulations 2022 and come into force on 21st December 2022.
+
+(2) These Regulations extend to Great Britain.
+
+(3) These Regulations apply to any work outside Great Britain to which sections 1 to 59 and 80 to 82 of the 1974 Act apply by virtue of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 2013[^f00005] as they apply to work within Great Britain.
+
+## 2. Interpretation[^key-a8cac33615489b74f050fa0ffac591a6]
+
+(1) In these Regulations—
+
+- “**the 1974 Act**” means the Health and Safety at Work etc. Act 1974;
+- “**the 2013 Act**” means the Energy Act 2013;
+- “**the 2012 Asbestos Regulations**” means the Control of Asbestos Regulations 2012[^f00006];
+- “**the 2013 Biocidal Products and Chemicals Regulations**” means the Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013[^f00007];
+- “**the 2014 GMO Regulations**” means the Genetically Modified Organisms (Contained Use) Regulations 2014[^f00008];
+- “**the 2017 Regulations**” means the Ionising Radiations Regulations 2017[^f00009];
+- “**employment medical adviser**” means an employment medical adviser appointed under section 56(1) of the 1974 Act[^f00010];
+- “**the ONR**” means the Office for Nuclear Regulation[^f00011];
+- “original approval” and “original type approval” do not include an amendment of an approval; and
+- “**working days**” does not include weekends or public holidays.
+
+(2) A reference to “approval” in these Regulations includes the amendment of an approval, and a reference to “**amendment of an approval**” includes the issue of a new approval replacing the original and incorporating one or more amendments.
+
+(3) Any reference in these Regulations to the renewal of an approval, explosives certificate or licence (each referred to in this paragraph as an “**authorisation**”) means the granting of the authorisation concerned to follow a previous authorisation of the same kind without any amendment or gap in time.
+
+## 3. Fees for applications for approval under the Agriculture (Tractor Cabs) Regulations 1974[^key-455dff11b485b0f323249e73ec852f2c]
+
+(1) A fee is payable by the applicant to the Executive on each application for the approval of plant and equipment under the Agriculture (Tractor Cabs) Regulations 1974[^f00012].
+
+(2) The fee payable on application for the type of approval described in column 1 of Schedule 1 is that specified in the corresponding entry in column 2 of that Schedule.
+
+## 4. Fees for applications for approval under the Freight Containers (Safety Convention) Regulations 2017[^key-22e777944172639a8ec6c6c2585632c7]
+
+(1) A fee is payable by the applicant to the Executive on each application for the approval of a scheme or programme for examination of freight containers under the Freight Containers (Safety Convention) Regulations 2017[^f00013].
+
+(2) The fee payable on each application for the approval described in column 1[^key-e823ae317252ba8f3abad715861a43e2] of Schedule 2 is that specified in column 2 of that Schedule.
+
+## 5. Fees for various applications under the Control of Asbestos Regulations 2012[^key-25c24182033c9dd5457005d42945f3bb]
+
+(1) A fee is payable to the Executive by the applicant on each application for a licence under the 2012 Asbestos Regulations.
+
+(2) The fee payable on the application for a licence described in column 1 of Table 1 in Schedule 3 is that specified in column 2 of that Table.
+
+(3) Where the Executive refuses to grant an applicant a licence under the 2012 Asbestos Regulations and offers to reassess whether to grant the licence if shortcomings leading to the refusal of the application for the licence are remedied, a fee is payable by the applicant to the Executive in respect of any such reassessment.
+
+(4) The fee payable for the reassessment referred to in paragraph (3) is that specified in column 1 of Table 2 in Schedule 3.
+
+(5) Where the Executive amends a licence granted under the 2012 Asbestos Regulations and the amendment relates to a condition or the duration of the licence, a fee is payable to the Executive by the licensee.
+
+(6) The fee payable under paragraph (5) is that specified in column 2 of Table 2 in Schedule 3.
+
+(7) Where the Executive replaces a lost licence granted under the 2012 Asbestos Regulations or amends a licence granted under those Regulations for reasons other than those referred to in paragraph (5), a fee is payable to the Executive by the licensee.
+
+(8) The fee payable under paragraph (7) is that specified in column 3 of Table 2 in Schedule 3.
+
+## 6. Fees for examination or surveillance by an employment medical adviser[^key-59a949a0a03fa4fbb7c50a3c3063e899]
+
+(1) A fee is payable to the Executive by an employer in respect of a medical examination or medical surveillance of each of that employer’s employees by an employment medical adviser for the purposes of any provision specified in column 1 of Schedule 4.
+
+(2) The fee payable under paragraph (1) is a basic fee for each examination or on each occasion when surveillance is carried out together with additional fees for X-rays and laboratory tests where these are taken or carried out in connection with the examination, and for each provision specified in column 1 of Schedule 4—
+
+- (a) the basic fee is the amount specified in column 3 of that Schedule for that provision;
+- (b) the additional fee for X-rays is the amount specified in column 4 of that Schedule for that provision, and covers all X-rays taken in connection with any one examination;
+- (c) the additional fee for laboratory tests is the amount specified in column 5 of that Schedule for that provision, and covers all such tests carried out in connection with any one examination.
+
+(3) Where an employment medical adviser carries out a medical examination of a self-employed person for the purposes of the 2012 Asbestos Regulations, that self-employed person must pay fees to the Executive ascertained in accordance with paragraph (2).
+
+## 7. Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002[^key-989524d5af8c398249273bfcf7f8129e]
+
+(1) A fee is payable to the Executive by an employer in respect of medical surveillance of any of that employer’s employees by an employment medical adviser for the purposes of the Control of Lead at Work Regulations 2002[^f00014].
+
+(2) The fee payable for each item described in column 1 of Schedule 5 is that specified in the corresponding entry in column 2 of that Schedule.
+
+## 8. Fees payable in connection with the Ionising Radiations Regulations 2017 and the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-92007d3ff616d45a79b8a93df38ed485]
+
+(1) A fee is payable to the Executive by the applicant on each application for an original type approval of apparatus pursuant to paragraphs 1(d)(i) or 1(e)(i) of Schedule 1 to the 2017 Regulations or for an amendment, pursuant to section 11(1) of the 1974 Act, of an original type approval granted either under the 2017 Regulations or the 1999 Regulations.
+
+(2) A fee is payable to the appropriate authority [^key-ea932ed37b06b245e4bfb7e7ff3bd4fe]... by the applicant on each application for registration [^key-b368d74ed84a936cd8411dc4442c80b0]... for the purposes of the 2017 Regulations.
+
+(3) The fee payable by the applicant for an application referred to in paragraph (1) or (2) in respect of each matter specified in column 1 of Table 1 in Schedule 6 is that specified in the corresponding entry in column 2 of that Table.
+
+(3A)[^key-66b063e979c8d35ed1d137eb6a23deab] A fee is payable to the appropriate authority by the applicant on each application under regulation 7(2) of the 2017 Regulations for a consent to carry out specified practices for the purposes of those Regulations.
+
+(4) A fee is payable by the applicant to the Executive on each application for—
+
+- (a) an original approval of dosimetry services for the purposes of the 2017 Regulations or the 2019 Regulations;
+- (b) the reassessment of an original approval of dosimetry services previously granted for the purposes of the 1999 Regulations, the 2017 Regulations or the 2019 Regulations; or
+- (c) the amendment of an original approval granted for the purposes of the 1999 Regulations, the 2017 Regulations or the 2019 Regulations and amended pursuant to section 11(1) of the 1974 Act.
+
+(5) The fee payable by the applicant for an application referred to in paragraph (4) for each purpose specified in column 1 of Table 2 in Schedule 6 is that specified in the corresponding entry in column 2 of that Table.
+
+(6) A fee is payable by the applicant to the Executive where the Executive requires any work to be carried out by—
+
+- (a) its inspectors; or
+- (b) a person appointed to advise the Executive,
+
+in connection with any application in respect of which a fee is payable by virtue of paragraph (2) or (4) (other than an application for registration pursuant to regulation 6 of the 2017 Regulations)[^key-5a2673d647de7ca96b915dd63100a2f6], and the fee for such work in connection with each matter described in column 1 of Tables 1 and 2 in Schedule 6 is that specified in the corresponding entry in column 3 of those Tables for each hour worked adjusted pro rata for a period worked of less than one hour.
+
+(7) Where the Executive requires an inspection to be carried out in connection with any application mentioned in paragraph (2) or (4), a fee is payable by the applicant to the Executive of an amount equal to the reasonable cost of travelling and subsistence of any member of the Executive’s staff in connection with the inspection.
+
+(8) Any fee payable under paragraph (1), (6) or (7) is payable prior to notification of the result of the application.
+
+(9) Subject to paragraph (10), a fee is payable by an employer to the Executive for each dose record sent by or on behalf of that employer pursuant to regulation 22(3)(e) of the 2017 Regulations in the amount set out in column 2 of Table 3 in Schedule 6 for the work carried out by or on behalf of the Executive by virtue of the provisions set out in column 1 of that Table and for the purpose specified in column 3 of that Table.
+
+(10) The employer is not required to pay a fee under paragraph (9) unless the total amount payable in respect of all dose records relating to a calendar year sent by, or on behalf of, that employer is at least £27[^key-d408d79b424bb0e3c76265d3f9972bee].
+
+(11) For the purposes of this regulation and Schedule 6—
+
+- “**the 1999 Regulations**” means the Ionising Radiations Regulations 1999[^f00015];
+- “**the 2019 Regulations**” means the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^f00016];
+- “[^key-6210bb217ce2619183bf8c0bcba79eaa]**appropriate authority**” has the meaning given in regulation 6(10) of the 2017 Regulations;
+- “**processing**” means obtaining, recording or holding the information or carrying out any operation or set of operations on that information, including—
+  - (a) organisation, adaptation or alteration of the information;
+  - (b) retrieval or consultation of the information; and
+  - (c) disclosure by transmission, dissemination or otherwise making available the information, in whatever format.
+
+## 9. Fees payable in relation to the Explosives Regulations 2014 and the Acetylene Safety (England and Wales and Scotland) Regulations 2014[^key-e60073e4dc35abe4cbda13d0270a4471][^key-772cc90d255958879b5ff822f9de7ea0]
+
+(1)  A fee is payable to the Executive or the ONR, as appropriate, by the person referred to in column 3 of the table in Part 1 of Schedule 7, for the performance by or on behalf of the Executive or by the ONR of such functions as are conferred on the Executive or the ONR by virtue of the provision specified in column 1 of that table for the purpose specified in column 2 of that table.
+
+(2) Where an application is made to the Executive in relation to a provision specified in column 1 of the table in Part 2 of Schedule 7, for a purpose specified in column 2 of that table, the fee specified in the corresponding entry in column 3 of that table is payable by the applicant to the Executive.
+
+(3) Where an application is made to a licensing authority specified in paragraph 1(a) of Schedule 1 to the Explosives Regulations 2014 in relation to a provision specified in column 1 of the table in Part 3 of Schedule 7, for a purpose specified in column 2 of that table, the fee specified in the corresponding entry in column 3 of that table is payable by the applicant to that licensing authority.
+
+(4) Where a licensing authority specified in paragraph 1(a) of Schedule 1 to the Explosives Regulations 2014 varies, or proposes to vary, a licence as described in column 1 of the table in Part 3 of Schedule 7, without the agreement of the explosives licensee as permitted by regulation 16 of the Explosives Regulations 2014, the fee specified in the corresponding entry of column 3 of that table is payable by the explosives licensee to that licensing authority.
+
+(5) Where any application in relation to the provision specified in column 1 of the table in Part 4 of Schedule 7 is made for a purpose specified in column 2 of that table, the fee specified in the corresponding entry in column 3 of that table is payable by the applicant to the chief officer of the police.
+
+(6) Where, in relation to an application for an explosives certificate under the Explosives Regulations 2014, a check is carried out for the purposes of regulation 19(2)(d) of those Regulations to ascertain whether the applicant is a prohibited person or not, a fee of £5 is payable by the applicant to the chief officer of police prior to that check being carried out.
+
+(7) Parts 3 and 4 of Schedule 7 have effect subject to, respectively, the Notes to Parts 3 and 4.
+
+(8) A fee is payable to the acetylene licensing authority by the person referred to in column 2 of the table in Part 5 of Schedule 7, for the performance by or on behalf of the acetylene licensing authority of such functions as are conferred on it for the purpose specified in column 1 of that table.
+
+(9) Where a fee is payable under paragraphs (1) to (5) or (8), the fee is payable—
+
+- (a) in relation to applications for new licences, prior to notification of the result of the application;
+- (b) for existing licences, within 30 days from—
+  - (i) the date on which the variation of the licence takes effect; or
+  - (ii) if the licence is not varied, the date of the invoice given to the relevant licensee in respect of that fee.
+
+(10) Subject to paragraphs (12) and (13), a fee is payable by the relevant person to the Executive for the performance by or on behalf of the Executive, or by an inspector appointed by it, of the functions specified in paragraph (11).
+
+(11) The functions referred to in paragraph (10) are any functions conferred on the Executive or the inspector by the 1974 Act which relate to the enforcement of any of the relevant statutory provisions against that relevant person.
+
+(12) No fee is payable under paragraph (10) for the performance by or on behalf of the Executive, or by an inspector appointed by it, of any functions conferred on them by the 1974 Act which relate to the enforcement of Part 13 of the Explosives Regulations 2014.
+
+(13) No fee is payable under this regulation for the performance by or on behalf of the Executive of the functions referred to in paragraph (10) to the extent that, in respect of any such function, a fee is payable or has been paid pursuant to the Control of Major Accident Hazards Regulations 2015.
+
+(14) For the purposes of this regulation and Schedule 7—
+
+- “**the 1968 Act**” means the Firearms Act 1968;
+- “**the 2014 Acetylene Regulations**” means the Acetylene Safety (England and Wales and Scotland) Regulations 2014;
+- “**acetylene licensee**” means a licensee within the meaning given in the 2014 Acetylene Regulations (see regulation 2 of those Regulations);
+- “**acetylene licensing authority**” means a licensing authority within the meaning given in the 2014 Acetylene Regulations (see regulation 2 of those Regulations);
+- “ammonium nitrate blasting intermediate”, “chief officer of police”, “civil explosive”, “explosives certificate”, “**licence**”, “**licensing authority**”, “**manufacture**”, “**prohibited person**”, “**shooters’ powder**” and “**site**” have the same meanings as in the Explosives Regulations 2014;
+- “**explosives licensee**” means a licensee within the meaning given in the Explosives Regulations 2014 (see regulation 2(1) of those Regulations);
+- “**firearm certificate**”, “**firearms dealer**” and “**shot gun certificate**” have the same meanings as in the 1968 Act;
+- “**firearms dealer certificate**” means a certificate granted or caused to be granted under section 33(4) of the 1968 Act to a person who is registered as a firearms dealer under that section;
+- “**recipient competent authority document**” means a document obtained under regulation 8(1) of the Explosives Regulations 2014 for the transfer of civil explosives;
+- “**relevant application under the 1968 Act**” means an application under the 1968 Act—
+  - (a) for a firearm certificate or a shot gun certificate or to be registered as a firearms dealer; and
+  - (b) for the renewal of a firearm certificate, a shot gun certificate or a firearms dealer certificate;
+- “**relevant certificate**” means a firearm certificate, a shot gun certificate or a firearms dealer certificate;
+- “**relevant person**” means an explosives licensee or an acetylene licensee as the case may be;
+- “**site manufacturing code**” means the code attributed to a site that manufactures civil explosives by the Executive under regulation 34 of the Explosives Regulations 2014.
+
+## 10. Fees payable in relation to the Petroleum (Consolidation) Regulations 2014[^key-25b60813e37caeb0ae0c12486ec4c5ce]
+
+Where an application in relation to a provision in the Petroleum (Consolidation) Regulations 2014[^f00023] specified in column 1 of Part 6[^key-85b2c0726f7c0f1033e55ef3470a7e5f] of Schedule 7 is made for the purpose described in the corresponding entry in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part is payable to the petroleum enforcement authority by the applicant.
+
+## 11. Fees in relation to Part 5 of the Dangerous Goods in Harbour Areas Regulations 2016[^key-fc864ad4d9a475d5d539296c1e43837e][^key-32a92ebba9e8abd691b6b18696eb6b8f]
+
+(1) A fee is payable to the appropriate authority by the person referred to in column 2 of the table in Schedule 8, for the performance by or on behalf of the appropriate authority of such functions as are conferred on it for the purpose specified in column 1 of that table.
+
+(2) Where a fee is payable under paragraph (1), the fee is payable—
+
+- (a) in relation to applications for new licences, prior to notification of the result of the application;
+- (b) for existing licences, within 30 days from—
+  - (i) the date on which the variation of the licence takes effect; or
+  - (ii) if the licence is not varied or the fee relates to the grant of an exemption, the date of the invoice given to the relevant licensee in respect of that fee.
+
+(3) A fee is payable by the explosives licensee to the appropriate authority for the performance by or on behalf of the appropriate authority, or by an inspector appointed by it, of the functions specified in paragraph (4).
+
+(4) The functions referred to in paragraph (3) are any functions conferred on the appropriate authority or the inspector by the 1974 Act which relate to the enforcement of any of the relevant statutory provisions against that explosives licensee.
+
+(5) For the purposes of this regulation and Schedule 8—
+
+- “**appropriate authority**” has the same meaning as in regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016;
+- “**explosives licensee**” has the meaning given in regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016.
+
+## 12. Estimate of cost of work[^key-41162f30b0408f2bb08921ebfa658f2e]
+
+(1) Where any fee is to be assessed on the basis of the reasonable cost to the ONR or the licensing authority of carrying out relevant work, the ONR or the licensing authority (as the case may be) must—
+
+- (a) on receipt of the application or request, as the case may be, prepare and send an estimate of the cost of carrying out the relevant work to the person making that application or request; and
+- (b) before carrying out the relevant work, obtain confirmation from the person making the application or request that the person wishes the work to be carried out on the basis of that estimate of cost.
+
+(1A)[^key-9b780667cabe92445c4c7dfae94045c0] In addition, where—
+
+- (a) a fee is to be assessed on the basis of the reasonable cost to the licensing authority of carrying out relevant work; and
+- (b) the licensing authority proposes to vary an explosives licence without the agreement of the explosives licensee as permitted by regulation 16 of the Explosives Regulations 2014,
+
+the licensing authority must prepare and send an estimate of the cost of carrying out the relevant work to the explosives licensee.
+
+(1B) In this regulation “**explosives licence**”, “**explosives licensee**” and “**licensing authority**” have the same meanings as in regulation 9.
+
+(2) For the purposes of this regulation, “**relevant work**” means—
+
+- (a) in relation to the ONR, any work under regulation 16(1) or (2);
+- (b) in relation to the licensing authority, any work under regulation 9(4).
+
+## 13. Fees for notifications and applications under the Genetically Modified Organisms (Contained Use) Regulations 2014[^key-74eb676db72860a9e2d301aef2f132a4]
+
+(1) The fee specified in column 2 of Schedule 9 is payable by a notifier or applicant to the competent authority on each such notification or application under the 2014 GMO Regulations as is referred to in the corresponding entry in column 1 of that Schedule.
+
+(2) No fee is to be returned to a notifier where the notifier withdraws a notification under regulation 17 of the 2014 GMO Regulations or the competent authority returns a notification under regulation 24(6) of the 2014 GMO Regulations.
+
+(3) For the purposes of this regulation and Schedule 9, “**notifier**” and “**competent authority**” have the same meaning as in the 2014 GMO Regulations.
+
+## 14. Fees payable in respect of offshore installations[^key-c0b35491bdba2e4b61ae873fcd81b2a4]
+
+(1) A fee is payable to the Executive by the person referred to in column 2 of Schedule 10 for the performance by the Executive of such functions conferred on the Executive as are specified in column 1 of that Schedule.
+
+(2) A fee is payable to the Executive by an operator or owner who has prepared a current safety case pursuant to the 2005 Regulations or the 2015 Regulations for the performance by or on behalf of the Executive, or by an inspector appointed by it, of any function conferred on the Executive or the inspector by the 1974 Act which relates to the enforcement of any of the relevant statutory provisions against one or more than one of the following—
+
+- (a) that operator or owner in relation to the installation to which the current safety case relates; or
+- (b) a contractor in relation to any work carried out by that contractor on or in connection with that installation.
+
+(3) For the purposes of this regulation, regulation 17 and Schedule 10—
+
+- “**the 2005 Regulations**” means the Offshore Installations (Safety Case) Regulations 2005[^f00025];
+- “**the 2015 Regulations**” means the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015[^f00026];
+- “**competent authority**” has the meaning given in the 2015 Regulations[^f00027];
+- “current safety case”, “installation”, “owner” and “safety case”—
+  - (a) in a case concerning the 2005 Regulations have the same meanings as in those Regulations[^f00028];
+  - (b) in a case concerning the 2015 Regulations, have the same meanings as in the 2015 Regulations[^f00029]; and
+- “operator”—
+  - (a) in a case concerning the 2005 Regulations, has the meaning—
+    - (i) in a case of the dismantling of a fixed installation under regulation 11 of those Regulations, given in regulation 11(4) of those Regulations;
+    - (ii) in any other case, given in regulation 2(1) of those Regulations in relation to a production installation;
+  - (b) in a case concerning the 2015 Regulations, has the meaning given in those Regulations[^f00030].
+
+## 14A. Fees payable in respect of boreholes and onshore oil, gas and geothermal well and borehole operations[^key-c98003a553d4d6854fe111524844dc57]
+
+(1) Subject to paragraph (2), a fee is payable to the Executive by the person referred to in column 2 of Schedule 14 for the performance by the Executive of such functions conferred on it under the 1995 Regulations as are specified in column 1 of that Schedule.
+
+(2) No fee is payable under paragraph (1) for the performance by the Executive of the functions specified in column 1 of Schedule 14 to the extent that, in respect of any such function, a fee is payable or has been paid pursuant to the Control of Major Accident Hazards Regulations 2015.
+
+(3) Subject to paragraph (7), a fee is payable to the Executive by a borehole site operator of a borehole site that is located onshore, or a well operator of a well that is located onshore, for the performance by or on behalf of the Executive, or by an inspector appointed by it, of the functions specified in paragraph (4).
+
+(4) The functions referred to in paragraph (3) are any functions conferred on the Executive or the inspector by the 1974 Act which relate to the enforcement of any of the relevant statutory provisions against one or more of the following—
+
+- (a) the borehole site operator of a borehole site; or
+- (b) the well operator of a well; or
+- (c) a contractor in relation to any work carried out by that contractor on or in connection with that borehole site or well.
+
+(5) Subject to paragraph (7), a fee is payable to the Executive by a geothermal operator of a geothermal well or borehole operation that is located onshore, for the performance by or on behalf of the Executive, or by an inspector appointed by it, of the functions specified in paragraph (6).
+
+(6) The functions referred to in paragraph (5) are any functions conferred on the Executive or the inspector by the 1974 Act which relate to the enforcement of any of the relevant statutory provisions against one or more than one of the following—
+
+- (a) the geothermal operator of a geothermal well or borehole operation; or
+- (b) a contractor in relation to any work carried out by that contractor on or in connection with that geothermal well or borehole operation.
+
+(7) No fee is payable under paragraphs (3) and (5) for the performance by the Executive of any of the functions referred to in Schedule 14 to the extent that, in respect of any such function, a fee is payable or has been paid pursuant to paragraph (1).
+
+(8) For the purposes of this regulation and Schedule 14—
+
+- “**the 1995 Regulations**” means the Borehole Sites and Operations Regulations 1995;
+- “borehole site” and “borehole site operator” have the meanings given in regulation 2 of the 1995 Regulations;
+- “**geothermal well or borehole**” means any well or borehole that is drilled or converted for the purposes of the discovery or commercial production of geothermal resources and is either—
+  - (a) a well or borehole that is deeper than 500 metres;
+  - (b) a well or borehole that is deeper than 30 metres and within a mining area as defined in regulation 2(1) of the 1995 Regulations;
+  - (c) a well that is reasonably presumed to contain geothermal resources; or
+  - (d) a well, decommissioned or otherwise, that has been used in connection with the exploitation or production of petroleum and is, or will be, converted or reactivated for use in connection with the production of geothermal resources or employed for reinjecting geothermal resources.
+- “**geothermal well or borehole operation**” means an activity or operation in the course or furtherance of, or in connection with the cessation of—
+  - (a) the drilling of a geothermal well or borehole, including the recommencement of drilling after a geothermal well or borehole has been completed, suspended or abandoned by plugging at the surface; or
+  - (b) any other operation on a geothermal well or borehole which would make a significant alteration to it, or involve a risk of the accidental release of fluids from that geothermal well or borehole;
+- “**geothermal operator**” means, in relation to a geothermal well or borehole, the person appointed in writing by the owner to exercise for the time being the function of organising or supervising geothermal well or borehole operations at the site, where that function involves the exercise of overall control of the geothermal well or borehole operation, or where for the time being there is no such person, the owner;
+- “**onshore**” means—
+  - (a) for the purposes of a borehole site or well, on land in Great Britain, or
+  - (b) for the purposes of a geothermal well and borehole, on land in Great Britain or within territorial waters;
+- “**owner**” means, in relation to a geothermal well or borehole operation, the person who has the right to undertake the geothermal well or borehole operation which is being or is to be undertaken at the site;
+- “**petroleum**”, “**well**” and “**well operator**” have the meanings given in regulation 2 of the Offshore Installations and Wells (Design and Construction etc) Regulations 1996
+- “**territorial waters**” means United Kingdom territorial waters adjacent to Great Britain and “**within territorial waters**” includes on, over and under them.
+
+## 15. Fees payable in respect of gas safety functions[^key-012bcfa1a32ec26e7cf47f21eb68cc2b]
+
+(1) A fee is payable to the Executive by the person referred to in column 2 of Schedule 11 for the performance by the Executive of such functions conferred on the Executive as are specified in column 1 of that Schedule.
+
+(2) A fee is payable to the Executive by a person conveying gas who has prepared a safety case pursuant to the 1996 Regulations , by a network emergency co-ordinator or by an emergency reporting service provider[^key-1e6e782101e13c5c79c9578284851ca6] for the performance by or on behalf of the Executive, or by an inspector appointed by it, of any function conferred on the Executive or the inspector by the 1974 Act which relates to the enforcement of any of the relevant statutory provisions against one or both of the following—
+
+- (a) that person in relation to the network, including a pipeline that it is intended will form part of the network, to which the safety case relates; or
+- (b) a contractor in relation to work carried out by that contractor on or in connection with that work, including work on a pipeline that it is intended will form part of that network,
+
+insofar as such enforcement is for the purpose of protecting persons from risks arising from the manner in which gas is or is to be conveyed or used.
+
+(3) A fee is payable to the Executive by a person conveying gas who has prepared a safety case pursuant to the 1996 Regulations and a major accident prevention document pursuant to the Pipelines Safety Regulations 1996[^f00031] for the performance by or on behalf of the Executive, or by an inspector appointed by it, of any function conferred on the Executive or the inspector by the 1974 Act which relates to the enforcement of any of the relevant statutory provisions against one or both of the following—
+
+- (a) that person in relation to work relating to a major accident hazard pipeline, including the construction of a pipeline that it is intended will form part of the network, to which the major accident prevention document relates; or
+- (b) a contractor in relation to work carried out by that contractor relating to a major accident hazard pipeline, including the construction of a pipeline that it is intended will form part of the network, to which the major accident prevention document relates.
+
+(4) For the purposes of this regulation and Schedule 11—
+
+- “**the 1996 Regulations**” means the Gas Safety (Management) Regulations 1996[^f00032];
+- “emergency reporting service provider”, “[^key-b9bdcd9a9644eeaabb698ea8d625c870]**network**”, “**network emergency co-ordinator**” and “**safety case**” have the meanings given in the 1996 Regulations (see regulation 2(1) of those Regulations); and
+- “**major accident hazard pipeline**” has the same meaning as in the Pipelines Safety Regulations 1996.
+
+## 15A. Fees payable in relation to pipelines conveying fluids under the Pipeline Safety Regulations 1996[^key-d726428ce0f0db4928de77d1106a2277]
+
+(1) Subject to paragraph (3), a fee is payable to the Executive by the operator of a pipeline (including a major accident hazard pipeline) for the performance by or on behalf of the Executive, or by an inspector appointed by it, of the functions specified in paragraph (2).
+
+(2) The functions referred to in paragraph (1) are any functions conferred on the Executive or the inspector by the 1974 Act which relate to the enforcement of any of the relevant statutory provisions, against one or both of the following—
+
+- (a) the operator of a pipeline, in relation to any work relating to that pipeline, including the construction of the pipeline and any activities undertaken to ensure that the pipeline is left in a safe condition once it has ceased to be used for the conveyance of fluid; or
+- (b) a contractor in relation to any work carried out by that contractor on or in connection with that pipeline, including the construction of the pipeline and any activities undertaken to ensure that the pipeline is left in a safe condition once it has ceased to be used for the conveyance of fluid.
+
+(3) No fee is payable under paragraph (1) for the performance by the Executive of any of the functions referred to in regulations 14 and 15 to the extent that, in respect of any such function, a fee is payable or has been paid pursuant to one of those regulations.
+
+(4) In this regulation, “**fluid**”, “**operator**” and “**pipeline**” have the meanings given in regulation 2 of the Pipeline Safety Regulations 1996.
+
+## 15B. Fees payable in relation to onshore wind energy installations
+
+(1) A fee is payable to the Executive by the client of an onshore wind energy installation project for the performance by or on behalf of the Executive, or by an inspector appointed by it, of the functions specified in paragraph (2).
+
+(2) The functions referred to in paragraph (1) are any functions conferred on the Executive or the inspector by the 1974 Act which relate to the enforcement of any of the relevant statutory provisions against one or both of the following—
+
+- (a) the client in relation to any work, including construction work, carried out for the onshore wind energy installation project;
+- (b) a contractor in relation to any work, including construction work, carried out by that contractor on or in connection with that project.
+
+(3) A fee is payable to the Executive by the operator of an onshore wind energy installation for the performance by or on behalf of the Executive, or by an inspector appointed by it, of the functions specified in paragraph (4).
+
+(4) The functions referred to in paragraph (3) are any functions conferred on the Executive or the inspector by the 1974 Act which relate to the enforcement of any of the relevant statutory provisions against one or both of the following—
+
+- (a) the operator, in relation to any work relating to the operation of an onshore wind energy installation;
+- (b) a contractor in relation to any work carried out by that contractor on or in connection with the operation of that installation.
+
+(5) In this regulation—
+
+- “**client**”, “**construction work**” and “**project**” have the meanings given in regulation 2(1) of the Construction (Design and Management) Regulations 2015;
+- “**onshore wind energy installation**” means an installation onshore of one or more wind turbines for, or activities connected with or preparatory to, the production of energy from wind resources, including anything related to or connected with that installation within the site boundary of the installation;
+- “**onshore wind energy installation project**” means a project to design, construct, install, maintain, decommission or demolish an onshore wind energy installation;
+- “**onshore**” means on land in Great Britain;
+- “**operator**” means the person appointed by the owner of the onshore wind energy installation to execute the management functions for operations to be carried out at that installation or, where no such person has been appointed, the owner of that installation;
+- “**owner**” means in relation to an onshore wind energy installation the person who controls the operation of that installation;
+- “**site boundary**” means the boundary of the land on which the onshore wind energy installation is situated or, in the case of the construction of a new onshore wind energy installation, the land on which construction work is being carried out, that is controlled or owned by the owner.
+
+## 15C. Fees payable in relation to offshore wind or marine energy installations
+
+(1) A fee is payable to the Executive by the client of an offshore wind or marine energy installation project for the performance by or on behalf of the Executive, or by an inspector appointed by it, of the functions specified in paragraph (2).
+
+(2) The functions referred to in paragraph (1) are any functions conferred on the Executive or the inspector by the 1974 Act which relate to the enforcement of any of the relevant statutory provisions against one or both of the following—
+
+- (a) the client in relation to any work, including construction work, carried out for the offshore wind or marine energy installation project;
+- (b) a contractor in relation to any work, including construction work, carried out by that contractor on or in connection with that project.
+
+(3) A fee is payable to the Executive by the operator of an offshore wind or marine energy installation for the performance by or on behalf of the Executive, or by an inspector appointed by it, of the functions specified in paragraph (4).
+
+(4) The functions referred to in paragraph (3) are any functions conferred on the Executive or the inspector by the 1974 Act which relate to the enforcement of any of the relevant statutory provisions against one or both of the following—
+
+- (a) the operator in relation to any work relating to the operation of an offshore wind or marine energy installation;
+- (b) a contractor in relation to any work carried out by that contractor on or in connection with the operation of that installation.
+
+(5) In this regulation—
+
+- “**client**”, “**construction work**” and “**project**” have the meanings given in regulation 2(1) of the Construction (Design and Management) Regulations 2015;
+- “energy structure” and “renewable energy zone” have the meanings given in article 9 of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 2013;
+- “**offshore wind or marine energy installation**” means—
+  - (a) an installation of one or more energy structures and technology, including cables, within the territorial sea or a renewable energy zone for the purposes specified in article 9(1)(a) to (c) (the production of energy from water or wind) of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 2013, or
+  - (b) any activities within the territorial sea or a renewable energy zone that are associated with the installation referred to in paragraph (a) and are connected with or preparatory to the purposes specified in article 9(1)(a) to (c) (the production of energy from water or wind) of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 2013;
+- “**offshore wind or marine energy installation project**” means a project to design, construct, install, maintain, decommission or demolish an offshore wind or marine energy installation;
+- “**operator**” means the person appointed by the owner of the offshore wind or marine energy installation to execute the management functions for operations to be carried out at that installation or, where no such person has been appointed, the owner of that installation;
+- “**owner**” means in relation to an offshore wind or marine energy installation the person who controls the operation of that installation.
+- “**territorial sea**” has the meaning given in article 2 of the Health and Safety at Work etc. Act 1974 (Application Outside Great Britain) Order 2013.
+
+## 16. Fees payable in relation to nuclear installations[^key-1784eb32a60402825545440b81a8f748]
+
+(1) Where, by virtue of the provisions specified in entry (a) or (b) of column 1 of Table 1 in Schedule 12, the ONR carries out any work for a purpose specified in column 2 of that Table, a fee is payable to the ONR by the person referred to in column 3 of that Table.
+
+(2) Where, by virtue of the provisions specified in column 1 of Table 2 in Schedule 12, the ONR carries out any work for the purpose specified in column 2 of that Table, a fee is payable to the ONR by the person referred to in column 3 of that Table.
+
+(3) A fee is payable to the ONR by a licensee of a nuclear site for the performance by or on behalf of the ONR, or by an inspector appointed by it, of any function conferred on the ONR, or the inspector, by the 1974 Act which relates to the enforcement of any of the relevant statutory provisions, or by the 2013 Act which relates to the enforcement of any of the nuclear provisions, against one or both of the following—
+
+- (a) that licensee; or
+- (b) a contractor in relation to any work carried out by that contractor on or in connection with that nuclear site.
+
+(4) For the purposes of this regulation and Schedule 12—
+
+- “**the 1965 Act**” means the Nuclear Installations Act 1965[^f00034];
+- “**assessment agreement**” means an agreement between the ONR and the person requesting the assessment of a design proposal, which identifies the scope of the assessment to be made by the ONR of that design proposal;
+- “**design proposal**” means a proposal for any nuclear installation, including matters relating to the installation’s construction, commissioning, operation and decommissioning, which is to be assessed by the ONR prior to any application for a licence under section 1(1) of the 1965 Act which may be made, based on that proposal;
+- “**licensee**” means a person who has been granted a nuclear site licence pursuant to section 1(1) of the 1965 Act;
+- “**nuclear installation**” means a nuclear reactor or an installation within the meaning of section 1(1)(b) of the 1965 Act; and
+- “**nuclear provisions**” means the relevant statutory provisions (within the meaning given in section 82 of the 2013 Act[^f00035]) other than—
+  - (a) a provision of the Nuclear Safeguards Act 2000[^f00036]; or
+  - (b) a provision of nuclear safeguards regulations[^f00037].
+
+## 17. Provisions supplementary to regulations 8(3A) , 9, 11 and 14 to 16[^key-17d8a4732762564ba6293b6677c6b26c][^key-5fbbf792ec394d121b612fb2ae903497][^key-d58d4535f15b75d5987fede4919ecec5]
+
+(1) Any fee referred to in regulations 8(3A)[^key-733334f3dc94b443fce3c0adfaabd041] , 9(1), (8) and (10), 11(1) and (3)[^key-058f6de10d42e9d64e25e553bfa45d82] and 14 to 16 above—
+
+- (a) is not to exceed the sum of the costs reasonably incurred—
+  - (i) in the case of regulation 16(1) or (2), by the ONR in carrying out the work referred to in the respective paragraph;
+  - (ia)[^key-26c898763d9c1944db9b5dca39430a5a] in the case of regulation 8(3A) , by the Executive or the ONR (as the case may be) in carrying out the work in connection with an application referred to in that provision;
+  - (ii) in any other case, by the Executive , the ONR, the acetylene licensing authority or the appropriate authority[^key-e2887db8b8aa75f0c7c30059e4428455] (as the case may be) in performing the function referred to in the respective regulation; [^key-aadfaa73c5752a174071d2e2b67ea2ed]...
+- (b)[^key-aadfaa73c5752a174071d2e2b67ea2ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) No fee payable under regulations 8(3A)[^key-57f412a31c4fee91d6bb967244e9d3e3] , 9(1), (8) and (10), 11(1) and (3)[^key-e303eebff6f608322476de03b4369905] and 14 to 16 is to include any costs connected with—
+
+- (a) in England and Wales, any criminal investigation or prosecution, incurred (in either case) from the date on which any information is laid or, as the case may be, any written charge is issued;
+- (b) in Scotland, any criminal investigation or prosecution, incurred (in either case) after such time as the Executive submits a report to the Procurator Fiscal for a decision as to whether a prosecution should be brought; or
+- (c) any appeal pursuant to section 24 of the 1974 Act (appeal against improvement or prohibition notice) and Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^f00038] or paragraph 6 of Schedule 8 to the 2013 Act (appeal against improvement notice or prohibition notice) and Schedule 1 to those Regulations.
+
+(2A)[^key-ebc742a062b7571d5b1a2c1aa80a747f] Where a fee is payable under any of regulations 8(3A), 9(1), (8) and (10), 11(1) and (3) and 14 to 16, the Executive, the ONR, the acetylene licensing authority or the appropriate authority, as the case may be, must send or give to the person who must pay the fee an invoice which—
+
+- (a) includes a statement of the work done and the costs incurred, and
+- (b) specifies the period to which that statement relates.
+
+(2B) Any fee referred to in regulations 8(3A), 9(10), 11(3) and 14 to 16 above is payable within 30 days from the date of the invoice that the Executive, the ONR, the acetylene licensing authority or the appropriate authority has sent or given to the person who must pay that fee.
+
+(3) For the purposes of regulation 14 and paragraph (2)(a) and (b), an installation is treated as being in England and Wales if it is in the English area within the meaning of article 1 of the Civil Jurisdiction (Offshore Activities) Order 1987[^f00039] and in Scotland if it is in the Scottish area within the meaning of that article.
+
+(4) Any reference in regulation 14 to a person who has prepared a current safety case includes a reference to—
+
+- (a) a person who must prepare a safety case, and in that connection as if any reference in that regulation to the installation to which the current safety case relates were a reference to the installation to which the safety case would have related if it had been prepared in accordance with such requirement; and
+- (b) a person who is treated as having prepared a current safety case by virtue of regulation 2(9) of the 2005 Regulations.
+
+(5) Any reference in regulation 15 to a person who has prepared a safety case includes a reference to a person who must prepare a safety case, and in that connection as if any reference in that regulation to the network to which the safety case relates were a reference to the network to which the safety case would have related if it had been prepared in accordance with such requirement.
+
+(6) Any reference in regulations 14 to 16 to work carried out by a contractor is a reference to work carried out for the benefit of the person by whom the fees are payable under that regulation by a contractor or a contractor’s employees, whether pursuant to an agreement or an arrangement which the contractor has made with that person or with another person.
+
+(7) Any reference in regulations 9(11), 11(4) and[^key-b48e4767f709ae043fe2b48b39801868] 14 to 16 to a function conferred on an inspector by the 1974 Act which relates to enforcement against a person of any of the relevant statutory provisions includes a reference to any function conferred on an inspector by that Act which is exercised for the purpose of carrying into effect those provisions in relation to that person.
+
+(8) Any reference in regulation 16 to a function conferred on an inspector by the 2013 Act which relates to enforcement against a person of any of the nuclear provisions includes a reference to any function conferred on an inspector by that Act which is exercised for the purpose of carrying into effect those provisions in relation to that person.
+
+(9)[^key-8f6ee2674a9466e9dd29ecdfd245de9a] For the purposes of this regulation—
+
+- “acetylene licensing authority” has the same meaning given in regulation 9;
+- “appropriate authority” has the same meaning given in regulation 11;
+- “nuclear provisions” has the same meaning given in regulation 16.
+
+## 18. Fees for applications for approvals under the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989[^key-473afb26dd42b476552a338c22b4466c]
+
+(1) A fee is payable by the applicant to the Executive on each application for an original approval or a renewal of an approval of training under regulation 5(2)(a) of the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989[^f00040].
+
+(2) The fee payable under paragraph (1) is—
+
+- (a) where the application for an original approval of training relates to, as the case may be—
+  - (i) rendering first-aid to persons who are injured or become ill while at work (referred to in this regulation as “**offshore first-aid training**”); or
+  - (ii) rendering first-aid to, and treating in accordance with the directions of a registered medical practitioner (who may or may not be present) persons who are injured or become ill while at work, and giving simple advice in connection with the health of persons at work (together referred to in this regulation as “**offshore medical training**”),
+
+  that specified in, respectively, columns 1 and 2 of Table 1 in Schedule 13; or
+- (b) in respect of an application for a renewal of approval of, as the case may be, offshore first-aid training or offshore medical training, that specified in, respectively, columns 3 and 4 of that Table.
+
+(3) Where, before an original approval of training is given, a shortcoming in the proposed training is identified by the Executive during a site visit and the Executive requires an additional site visit to be made for the purpose of reassessing an application for an original approval, a fee is payable by the applicant to the Executive.
+
+(4) The fee payable under paragraph (3) is—
+
+- (a) where the application for approval relates to offshore first-aid training, that specified in column 1 of Table 2 in Schedule 13; or
+- (b) where the application for approval relates to offshore medical training, that specified in column 2 of that Table,
+
+and is payable prior to the notification of the result of the application for approval of training.
+
+(5) Where the Executive requires a site visit, not including one for the purpose referred to in paragraph (8), to be made in connection with an approval mentioned in paragraph (1) in order to ascertain whether the standards in place when the original approval was given are being maintained, a fee is payable to the Executive by the provider of the approved training, except that no such fee is payable in respect of the first such site visit made after the original approval has been given.
+
+(6) Subject to paragraph (7), the fee payable under paragraph (5) is—
+
+- (a) where the site visit is in connection with an approval relating to offshore first-aid training, that specified in column 1 of Table 3 in Schedule 13; or
+- (b) where the site visit is in connection with an approval relating to offshore[^key-97f89b1d5b8c0150164843299721c9a0] medical training, that specified in column 2 of that Table,
+
+provided that, where the site visit is in respect of both kinds of approval of training as are referred to in sub-paragraphs (a) and (b) above and takes only one day to complete, the sum of the payable fees in columns 1 and 2 of that Table is to be reduced by an amount of £161[^key-74cd3c8e9bcf30ec10f1c99ac9802095].
+
+(7) The fee payable under paragraph (5) where the site visit is carried out because a shortcoming in the training has been identified by the Executive during an earlier site visit—
+
+- (a) where the site visit is in connection with an approval relating to offshore first-aid training, is that specified in column 3 of Table 3 in Schedule 13; or
+- (b) where the site visit is in connection with an approval [^key-7b6b3abb420863bd03ffd2a8ef450765]... relating to offshore medical training, is that specified in column 4 of that Table.
+
+(8) Where the Executive requires a site visit to be made for the purpose of investigating a complaint in relation to training provided pursuant to an approval mentioned in paragraph (1), a fee is payable to the Executive by the provider of the training where—
+
+- (a) the result of the investigation is that the complaint is found to be justified; and
+- (b) the complaint could not be investigated during a site visit made for an additional purpose to that of investigating the complaint, requiring, as a result, a further site visit.
+
+(9) The fee payable under paragraph (8) is—
+
+- (a) where the site visit is made for the purpose of investigating a complaint relating to offshore first-aid training provided pursuant to an approval, that specified in column 1 of Table 4 in Schedule 13; or
+- (b) where the site visit is made for the purpose of investigating a complaint relating to offshore medical training provided pursuant to an approval, that specified in column 2 of Table 4 in Schedule 13.
+
+(10) Where the date for any site visit referred to in this regulation has been agreed between the training provider and the Executive and—
+
+- (a) the training provider wishes to cancel the site visit agreed for that date, and informs the Executive of this wish three working days or less before that date; and
+- (b) there is as a result no site visit on that date,
+
+a fee is payable by the training provider to the Executive in respect of that cancelled site visit.
+
+(11) The fee payable under paragraph (10) is—
+
+- (a) where the site visit was to have been in connection with an approval of offshore first-aid training, that specified in column 3 of Table 4 in Schedule 13; or
+- (b) where the site visit was to have been in connection with an approval of offshore medical training, that specified in column 4 of that Table.
+
+(12) The fee referred to in paragraphs (6), (7), (9) and (11) is payable within 30 days from the date of the invoice that the Executive has sent or given to the person providing the approved training.
+
+## 19. Provisions supplementary to regulation 18[^key-c7c787e600843edf0a9e6235436cf580]
+
+(1) Where an application for an original approval of either offshore first-aid training or offshore medical training is made and the applicant thereafter applies for an original approval of one of those two kinds of training not earlier applied for, or the applications are made together, the Executive must repay to the applicant the amount of £60[^key-1f19a39ca9911ab63ffba7ae752f7c0b] in respect of the fees paid for the original approvals of training applied for.
+
+(2) For the purposes of this regulation, “offshore first-aid training” and “offshore medical training” have the meanings given in regulation 18.
+
+## 20. Fees for notifications under the Borehole Sites and Operations Regulations 1995[^key-d7f615c75099be612f5b76fe32014882][^key-693370be6bf7259edb835bbee41d2a81]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21. Fees payable in connection with work relating to biocides[^key-10e2b48e39206caba655aa2f3ef12bd7]
+
+(1) The competent authority must charge fees for—
+
+- (a) work it carries out within the scope of the Biocides Regulation which relates to the activities listed in column 1 of Schedule 15;
+- (b) work it carries out in order to evaluate an application under regulation 13 of the 2013 Biocidal Products and Chemicals Regulations (essential use);
+- (c) work it carries out in order to evaluate an application for a change to an authorised product under Regulation 354/2013; and
+- (d) work it carries out to determine an application to be a participant for the review of an active substance/product-type combination under Article 17 of Regulation 1062/2014.
+
+(2) Any fee payable under paragraph (1) must be calculated in accordance with paragraphs (3) to (9).
+
+(3) Where a fee is payable under paragraph (1), the competent authority must prepare and send to the applicant, the person providing the information or the person making the request, as the case may be, an estimate of the cost of the work.
+
+(4) The person to whom the estimate of costs specified in paragraph (3) is sent by the competent authority must pay to that authority the amount of that estimate within 30 days of its issue.
+
+(5) Upon completion of the work, the competent authority must prepare a detailed statement of the work carried out and of the cost incurred by the competent authority or any person acting on its behalf in carrying out that work.
+
+(6) If the cost referred to in paragraph (5) is greater than the amount estimated in accordance with paragraph (3), the competent authority must notify the amount of the difference to the applicant, the person providing the information or the person making the request, as the case may be, who must pay the amount of the difference, which will be the final fee payable, without delay.
+
+(7) If the cost referred to in paragraph (5) is less than the amount estimated in accordance with paragraph (3), the fee must be adjusted accordingly and the amount of the difference must be paid without delay by the competent authority to the applicant, the person providing the information or the person making the request, as the case may be.
+
+(8) Subject to paragraph (9), in estimating or stating the cost of carrying out any work, the competent authority must determine that cost by reference to the daily rate per person specified in column 2 of Schedule 15 that corresponds to the activity listed in column 1.
+
+(9) The daily rate per person must be adjusted pro rata for a period worked of less than 7.4 hours on any one day by—
+
+- (a) dividing the daily rate by 14.8 to create a half hourly rate; and
+- (b) multiplying that figure by the number of half hours worked, rounded up or down to the nearest half hour.
+
+(10) Any unpaid fees may be recovered by the competent authority as a civil debt.
+
+(11) For the purposes of this regulation and Schedule 15—
+
+- “**the Biocides Regulation**” means Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products[^f00044];
+- “**competent authority**” means any of the competent authorities appointed by regulation 5 of the 2013 Biocidal Products and Chemicals Regulations;
+- “**Regulation 354/2013**” means Commission Implementing Regulation (EU) No 354/2013 of 18 April 2013 on changes of biocidal products authorised in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council[^f00045];
+- “**Regulation 1062/2014**” means Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of all existing active substances contained in biocidal products referred to in Regulation (EU) No 528/2012 of the European Parliament and of the Council[^f00046].
+
+(12) Expressions used in the Biocides Regulation which are also used in this regulation or Schedule 15 have the same meaning in these Regulations as they have in the Biocides Regulation.
+
+## 22. Fees payable for activities under the CLP Regulation[^key-10af63e35ad53bb8ec977eb20421b52c]
+
+(1) The Agency may charge fees for work it carries out within the scope of the CLP Regulation which relates to the activities listed in column 1 of Schedule 16.
+
+(2) Any fee payable under paragraph (1) must be calculated in accordance with paragraphs (3) to (9).
+
+(3) Where a fee is payable under paragraph (1), the Agency must prepare and send to the person referred to in column 2 of Schedule 16 (“**the applicant**”) an estimate of the fee, which will be at least £5,000.
+
+(4) The applicant must pay the Agency the amount of that estimate within 30 days of its issue.
+
+(5) Upon completion of the work, the Agency must prepare a detailed statement of the work carried out and of the cost incurred by the Agency or any person acting on its behalf in carrying out that work.
+
+(6) If the cost referred to in paragraph (5) is greater than the amount estimated in accordance with paragraph (3), the Agency must notify the amount of the difference to the applicant who must pay the amount of the difference, which will be the final fee payable, without delay.
+
+(7) If the cost referred to in paragraph (5) is less than the amount estimated in accordance with paragraph (3), the fee must be adjusted accordingly and the amount of the difference must be paid without delay by the Agency to the applicant.
+
+(8) Subject to paragraph (9), in estimating or stating the cost of carrying out any work, the Agency must determine that cost by reference to the daily rate per person specified in column 3 of Schedule 16 that corresponds to the activity listed in column 1.
+
+(9) The daily rate per person must be adjusted pro rata for a period worked of less than 7.4 hours on any one day by—
+
+- (a) dividing the daily rate by 14.8 to create a half-hourly rate; and
+- (b) multiplying that figure by the number of half hours worked, rounded up or down to the nearest half hour.
+
+(10) Any unpaid fees may be recovered by the Agency as a civil debt.
+
+(11) For the purposes of this regulation and Schedule 16, “**the CLP Regulation**” means Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures[^f00047].
+
+(12) Expressions used in the CLP Regulation which are also used in this regulation or Schedule 16 have the same meaning in these Regulations as they have in the CLP Regulation.
+
+## 23. Fees for intervention[^key-59064a1873a56fb68870f17ffa421c71]
+
+(1) Subject to regulation 24, if—
+
+- (a) a person is contravening or has contravened one or more of the relevant statutory provisions for which the Executive is the enforcing authority; and
+- (b) an inspector is of the opinion that that person is doing so or has done so, and notifies that person in writing of that opinion,
+
+a fee is payable by that person to the Executive for the performance of the functions described in paragraphs (2) and (3).
+
+(2) The fee referred to in paragraph (1) is payable for the performance by the Executive of any function conferred on it by the relevant statutory provisions, in consequence of any contravention referred to in the opinion notified to that person pursuant to paragraph (1)(b).
+
+(3) Where, during a site visit, an inspector forms the opinion that a person is contravening or has contravened one or more of the relevant statutory provisions, the fee referred to in paragraph (1) is payable for the performance by the Executive, during that site visit, of any function conferred on it by the relevant statutory provisions for which no fee is payable by virtue of paragraph (2).
+
+(4) For the purposes of paragraphs (6) and (7) and regulations 24 and 25, “**fee for intervention**” means the fee described in paragraphs (1) to (3).
+
+(5) An inspector of the opinion that a person is contravening or has contravened one or more of the relevant statutory provisions must have regard, when deciding whether to notify that person in writing of that opinion, to the guidance entitled “HSE 47 – Guidance on the application of Fee for Intervention”[^f00048].
+
+(6) A written notification under paragraph (1) must—
+
+- (a) specify the provision or provisions to which that inspector’s opinion relates;
+- (b) give particulars of the reason for that opinion; and
+- (c) inform the person to whom it is given that a fee for intervention is payable to the Executive in accordance with this regulation and regulation 24.
+
+(7) A fee for intervention is payable by a person in respect of the functions described in paragraph (3) only to the extent that the performance of any such function by the Executive is reasonably attributable to that person.
+
+## 24. Provisions supplementary to regulation 23[^key-e660da685178a35a6631469f0313a70f]
+
+(1) A fee for intervention is not to exceed the sum of the costs reasonably incurred by the Executive for its performance of the functions referred to in paragraphs (2) and (3) of regulation 23.
+
+(2) A fee for intervention is payable within 30 days from the date of each invoice that the Executive has sent or given to the person who must pay that fee, and such invoices must include a statement of the work done and the costs incurred, including the period to which the statement relates.
+
+(3) No fee for intervention is payable by a person to the extent that an opinion of an inspector that that person is contravening or has contravened one or more of the relevant statutory provisions relates to any contravention which, having regard to the guidance specified in regulation 23(5), should not have been notified in writing to that person.
+
+(4) No fee for intervention is payable for the performance by any inspector not employed by the Executive of any function conferred on it by the relevant statutory provisions.
+
+(5) No fee for intervention payable for or in connection with any contravention of the relevant statutory provisions is to include any costs connected with—
+
+- (a) in England and Wales, any criminal investigation or prosecution, incurred (in either case) from the date on which any information is laid by the Executive or, as the case may be, any written charge is issued by the Executive;
+- (b) in Scotland, any criminal investigation or prosecution, incurred (in either case) after such time as the Executive submits a report to the Procurator Fiscal for a decision as to whether a prosecution should be brought; or
+- (c) any appeal pursuant to section 24 of the 1974 Act (appeal against improvement or prohibition notice) and Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^f00049].
+
+(6) No fee for intervention is payable by a person in respect of any contravention of the relevant statutory provisions by that person in their capacity as an employee.
+
+(7) No fee for intervention is payable by a self-employed person in respect of any contravention by that self-employed person of the relevant statutory provisions which does not and did not expose any other person to a health or safety risk.
+
+(8) No fee for intervention is payable for the performance by the Executive of any function conferred on it by the relevant statutory provisions to the extent that, in respect of any such function, another fee is payable or has been paid.
+
+(9) No fee for intervention is payable for the performance by the Executive of any function conferred on it by the relevant statutory provisions in respect of which a fee for intervention is payable or has been paid in consequence of an opinion previously notified in accordance with paragraphs (1), (5) and (6) of regulation 23.
+
+(10) No fee for intervention is payable in respect of any contravention of the relevant statutory provisions which relates to any contained use.
+
+(11) In paragraph (10), “**contained use**” has the same meaning as in the 2014 GMO Regulations.
+
+(12) No fee for intervention is payable in respect of any contravention of the relevant statutory provisions which relates to any of the activities specified in paragraph 3(3) of Part 1 of Schedule 3 to the Control of Substances Hazardous to Health Regulations 2002[^f00050].
+
+(13) No fee for intervention is payable by a person who holds a licence to undertake work with asbestos in respect of any contravention of the relevant statutory provisions which relates to licensable work with asbestos.
+
+(14) In paragraph (13), “**licensable work with asbestos**” has the same meaning as in the 2012 Asbestos Regulations, and “**work with asbestos**” is to be construed in accordance with regulation 2(2) of those Regulations.
+
+(15) No fee for intervention is payable for the performance by the Executive of any function conferred on the Executive by—
+
+- (a) the Control of Major Accident Hazards Regulations 2015[^f00051];
+- (b) the Chemicals (Hazard Information and Packaging for Supply) Regulations 2009[^f00052];
+- (c) the 2013 Biocidal Products and Chemicals Regulations; and
+- (d) the 2014 GMO Regulations.
+
+## 25. Repayments and disputes[^key-ee508f9c50e061290123293e1a055669]
+
+(1) If a person is—
+
+- (a) charged with, but not convicted of, a criminal offence; or
+- (b) served with an enforcement notice that is subsequently cancelled,
+
+the Executive must repay such part of any fee for intervention paid as is wholly and exclusively attributable to the performance by the Executive of functions relating only to that criminal offence or, as the case may be, the preparation and service of that enforcement notice.
+
+(2) If—
+
+- (a) a person is charged with, but not convicted of, more than one criminal offence; or
+- (b) two or more enforcement notices served on a person are subsequently cancelled,
+
+the Executive must repay such part of any fee for intervention paid as is wholly and exclusively attributable to the performance by the Executive of functions relating only to the criminal offences of which that person is not convicted or, as the case may be, the preparation and service of the enforcement notices that are cancelled.
+
+(3) Paragraphs (1)(a) and (2)(a) apply only in the following circumstances—
+
+- (a) where the person is acquitted of the criminal offence with which they have been charged (including, in Scotland, where a verdict of not proven is delivered); or
+- (b) where proceedings are concluded and the Inspector no longer reasonably holds the opinion set out in regulation 23(1).
+
+(4) Where all or part of any fee for intervention paid to the Executive was paid in error, the Executive must repay that fee for intervention or, as the case may be, that part of that fee for intervention.
+
+(5) Where a person has been charged with one or more criminal offences or served with one or more enforcement notices, that person is not obliged to pay a fee for intervention to the extent that that fee, when paid, would be repayable in accordance with paragraph (1) or (2) because—
+
+- (a) that person has not been convicted of one or more of those criminal offences; or
+- (b) one or more of those enforcement notices has been cancelled.
+
+(6) The Executive must provide a procedure by which disputes relating to fees for intervention will be considered.
+
+(7) If a dispute relating to a fee for intervention is not upheld, the fee for intervention payable is to include costs reasonably incurred by the Executive in handling the dispute.
+
+(8) For the purposes of this regulation, “**enforcement notice**” means an improvement notice or a prohibition notice.
+
+## 26. Review[^key-a44721d909a729c5a8c6a546209509e7]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provisions contained in these Regulations; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before the period of five years ending with the date five years after these Regulations entered into force.
+
+(3) Subsequent reports must be published at intervals not exceeding five years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015[^f00053] requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+## 27. Revocations[^key-b594518a8da4881d67c55c92744898c7]
+
+The Health and Safety and Nuclear (Fees) Regulations 2021[^f00054] are revoked.
+
+**28.**[^key-04a4fddae7aa49789179764b8dc17ecd][^key-b594518a8da4881d67c55c92744898c7] Regulation 14 of the Chemicals (Health and Safety) Trade and Miscellaneous Amendments Regulations 2022[^f00055] (amendment of the Health and Safety and Nuclear (Fees) Regulations 2021) is revoked.
+
+Signed by authority of the Secretary of State
+
+Mims Davies
+
+Parliamentary Under Secretary of State
+
+Department for Work and Pensions
+
+19th December 2022
+
+We consent
+
+Amanda Solloway
+
+Scott Mann
+
+Two of the Lords Commissioners of His Majesty’s Treasury
+
+19th December 2022
+
+## SCHEDULE 1 — Fees for applications for approval under the Agriculture (Tractor Cabs) Regulations 1974[^key-9cdeb9d4ee2837010c61312d4f960dc3]
+
+Regulation 3
+
+| 1 (Subject matter) | 2 (Fee) |
+| --- | --- |
+| (a) Original approval of a tractor cab | £552[^key-396c078a810fb80cfc4fe6ae408f4d31] |
+| (b) Revision of an existing approval of a tractor cab | £303 |
+
+## SCHEDULE 2 — Fee for application for approval under the Freight Containers (Safety Convention) Regulations 2017[^key-b9ad0ee2313e9614e413745ae7a87b87]
+
+Regulation 4
+
+| 1 (Subject matter) | 2 (Fee) |
+| --- | --- |
+| Approval of scheme or programme for examination of freight containers | £107[^key-dc95ad2e5299087e25ecf4b3aa1f354d] |
+
+## SCHEDULE 3 — Fees for various applications under the Control of Asbestos Regulations 2012[^key-926f029a344bb88233816e4dc482601d]
+
+Regulation 5
+
+Table 1
+
+| 1 (Subject matter of licence) | 2 (Fee) |
+| --- | --- |
+| Licence for work with asbestos or renewal of (original) licence | £3,683[^key-6c70b90a38bc35b317db8a43c3a9e1cb] |
+
+Table 2
+
+| 1 (Fee for re-assessment of licence application) | 2 (Fee for amendment of condition, or duration, of licence) | 3 (Fee for other amendment, or replacement, of a licence) |
+| --- | --- | --- |
+| £844[^key-16ed52e416935c934bafe3e4f6183324] | £844 | £91 |
+
+## SCHEDULE 4 — Fees for examination or surveillance by an employment medical adviser[^key-7e6fb15376171034186bfd5f7b8da01f]
+
+Regulation 6
+
+| 1 (Provision) | 2 (Reference) | 3 (Basic fee) | 4 (Fee for x-rays) | 5 (Fee for laboratory tests) |
+| --- | --- | --- | --- | --- |
+| The 2017 Regulations | [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075) | £44[^key-055d307a89975e583f68e00a2a5fab9c] where surveillance is confined to examination of, and making entries in, records, and £78[^key-aeaa4c036c0f60c29a3e6ac18472a45c] in other cases | £84 | £48 |
+| The 2012 Asbestos Regulations | [S.I. 2012/632](https://www.legislation.gov.uk/uksi/2012/632) | £84 | £84 | £48 |
+| The Control of Substances Hazardous to Health Regulations 2002 | [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677) | £84 | £84 | £48 |
+| The Work in Compressed Air Regulations 1996[^key-621cd91f1a1f1006a6951f5f975b4999] | [S.I. 1996/1656](https://www.legislation.gov.uk/uksi/1996/1656) | £84 | £84 | £48 |
+
+## SCHEDULE 5 — Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002[^key-e962272f4a6be19d9fb1381c28cce2b0]
+
+Regulation 7
+
+| 1 (Item) | 2 (Fee) |
+| --- | --- |
+| (a) On the first assessment of an employee (including any clinical medical examination and laboratory tests in connection with the assessment) | £84[^key-052d0b2190ff564fb1ea2e486353933a] |
+| (b) On each subsequent assessment of an employee— |  |
+| (i) for laboratory tests, where these are carried out | £48 |
+| (ii) for a clinical medical examination, where this is carried out | £48 |
+
+## SCHEDULE 6 — Fees payable in connection with the Ionising Radiations Regulations 2017 and the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-934b5e604f56d8fbf6237616521dc4b9]
+
+Regulation 8
+
+Table 1
+
+| 1 (Description) | 2 (Fee) | 3 (Fee for work by Inspectors or person appointed to advise the Executive) |
+| --- | --- | --- |
+| **Original approval or reassessment of such approval of dosimetry services granted under regulation 36 of the 2017 Regulations for the purposes of those Regulations** |  |  |
+| **Group I – Dose record keeping** |  |  |
+| (a) where the application is solely in respect of Group I functions | £917[^key-8fe02138ccb40c1bdca5f28f945c329a] | £154 per hour worked |
+| (b) where the application for Group I functions is linked to an application in respect of functions in another group | £917 | £154 per hour worked |
+| **Group II – External dosimetry** |  |  |
+| (a) whole body (beta, gamma, thermal neutrons) thermoluminescent film | £917 | £154 per hour worked |
+| (b) whole body (beta, gamma, thermal neutrons) thermoluminescent dosemeter | £917 | £154 per hour worked |
+| (c) whole body (neutron), other than subgroups (a) or (b) | £917 | £154 per hour worked |
+| (d) whole body, other than subgroups (a), (b) or (c) | £917 | £154 per hour worked |
+| (e) extremity monitoring | £917 | £154 per hour worked |
+| (f) accident dosimetry, other than in the previous subgroups | £917 | £154 per hour worked |
+| **Group III – Internal dosimetry** |  |  |
+| (a) bio-assay, in-vivo monitoring or air sampling | £917 | £154 per hour worked |
+| (b) for each additional one of the above techniques | £917 | £154 per hour worked |
+| **Original type approval of apparatus under paragraph 1(d)(i) or 1(e)(i) of Schedule 1 to the 2017 Regulations (which excepts such type approved apparatus from the notification requirements of regulation 5 of those Regulations** | £154 | £154 per hour worked |
+| **Amendment of an original approval of dosimetry services granted under regulation 36 of the 2017 Regulations for the purposes of those Regulations, or an original type approval of apparatus under paragraph 1(d)(i) or 1(e)(i) of Schedule 1 to those Regulations** | £63 | £154 per hour worked |
+| Application for registration pursuant to regulation 6 of the 2017 Regulations[^key-5b922f078e2c547a3d6a5a1bb3a445eb] | £27 | n/a |
+
+Table 2
+
+| 1 (Purpose of application) | 2 (Fee) | 3 (Fee for work by Inspectors or person appointed to advise the Executive) |
+| --- | --- | --- |
+| Original approval or reassessment of such approval of dosimetry services granted under regulation 36 of the 2017 Regulations for the purposes of regulation 18 of the 2019 Regulations | £2,160[^key-da432579648aa6d03aa9cc47013d8000] | £154 per hour worked |
+| Amendment of an original approval of dosimetry services granted under regulation 36 of the 2017 Regulations for the purposes of regulation 18 of the 2019 Regulations | £63 | £154 per hour worked |
+
+Table 3
+
+| 1 (Statutory provision) | 2 (Fee) | 3 (Purpose of the work) |
+| --- | --- | --- |
+| Section 11(1) and 11(2)(a) and (b) of the 1974 Act | £3.99[^key-3fefb64bb948cf3d90fa8a4c2239d4ba] | Processing information contained in a record sent to the Executive pursuant to regulation 22(3)(e) of the 2017 Regulations |
+
+## SCHEDULE 7 — Fees payable in relation to the Explosives Regulations 2014, the 2014 Acetylene Regulations and the Petroleum (Consolidation) Regulations 2014[^key-386a3ad67f45e909b40bc3ef150f883a]
+
+Regulations 9 and 10
+
+### PART 1 — Fees for applications for licences, variations, transfers or replacements of licences, to manufacture or to store explosives, made to the Executive or the ONR under the Explosives Regulations 2014[^key-a6c70827cce967bb6eeced5a84be4f47]
+
+| 1 (Provision of the Explosives Regulations 2014 under which a licence is granted, varied, transferred or replaced) | 2 (Purpose of application or exercise of function) | 3 (Person by whom the fee is payable) |
+| --- | --- | --- |
+| Regulation 13, including as extended by regulation 2(2) of those Regulations to the manufacture and storage of ammonium nitrate blasting intermediate | Licence to store explosives | Applicant |
+|  | Licence to manufacture explosives | Applicant |
+|  | Renewal of any of the above licences | Explosives licensee |
+| Regulation 16 | Varying, or proposing to vary, a licence to manufacture or store explosives | Explosives licensee |
+| Regulation 17 | Transfer of any of the above licences | Transferee of explosives licence |
+|  | Replacement of any of the above licences, if lost | Explosives licensee |
+| Regulation 23(1)(c) | Revocation of any of the above licences | Explosives licensee |
+
+### PART 2 — Fees for applications to issue a recipient competent authority document or site manufacturing code for civil explosives under the Explosives Regulations 2014[^key-19afa9f61e3b7c6a16a003a7f43f3cae]
+
+| 1 (Provision of the Explosives Regulations 2014 under which a licence, document or code is issued) | 2 (Purpose of application or exercise of function) | 3 (Fee) |
+| --- | --- | --- |
+| Regulation 8 | Recipient competent authority document for the transfer of civil explosives | £138 |
+| Regulation 34 | Attribution of site manufacturing code for civil explosives | £69 |
+
+### PART 3 — Fees for applications for licences, or variations to, or transfer of, licences to store explosives, made to licensing authorities specified in paragraph 1(a) of Schedule 1 to the Explosives Regulations 2014[^key-ce6fcb293e98268f84ff986b62219c0e]
+
+| 1 (Provision of the Explosives Regulations 2014 under which application is made or function is exercised) | 2 (Purpose of application or exercise of function) | 3 (Fee) |
+| --- | --- | --- |
+| Regulation 13 (see Note) | Licence to store explosives where, by virtue of regulation 27 of and Schedule 5 to the 2014 Regulations, a minimum separation distance of greater than 0 meters is required: |  |
+|  | (a) one year’s duration | £202 |
+|  | (b) two years’ duration | £266 |
+|  | (c) three years’ duration | £333 |
+|  | (d) four years’ duration | £409 |
+|  | (e) five years’ duration | £463 |
+|  |  |  |
+|  | Licence to store explosives where, by virtue of regulation 27 of, and Schedule 5 to, the 2014 Regulations, no minimum separation distance or a 0 meters separation distance is prescribed: |  |
+|  | (a) one year’s duration | £119 |
+|  | (b) two years’ duration | £154 |
+|  | (c) three years’ duration | £190 |
+|  | (d) four years’ duration | £226 |
+|  | (e) five years’ duration | £260 |
+|  |  |  |
+|  | Renewal of licence to store explosives where, by virtue of regulation 27 of, and Schedule 5 to, the 2014 Regulations, a minimum separation distance of greater than 0 meters is prescribed: |  |
+|  | (a) one year’s duration | £94 |
+|  | (b) two years’ duration | £161 |
+|  | (c) three years’ duration | £226 |
+|  | (d) four years’ duration | £291 |
+|  | (e) five years’ duration | £357 |
+|  |  |  |
+|  | Renewal of licence to store explosives where, by virtue of regulation 27 of, and Schedule 5 to, the 2014 Regulations, no minimum separation distance or a 0 meters minimum separation distance is prescribed: |  |
+|  | (a) one year’s duration | £59 |
+|  | (b) two years’ duration | £94 |
+|  | (c) three years’ duration | £132 |
+|  | (d) four years’ duration | £166 |
+|  | (e) five years’ duration | £202 |
+|  |  |  |
+| Regulation 16 | Varying, or proposing to vary, a licence: |  |
+|  | (a) varying name of explosives licensee or address of site | £40 |
+|  | (b) any other kind of variation or any proposal to vary a licence | The reasonable cost to the licensing authority of having the work carried out |
+|  |  |  |
+| Regulation 17 | Transfer of licence | £40 |
+|  | Replacement of licence | £40 |
+
+Note:
+
+The fee payable for a licence or renewal of a licence—
+
+- (a) of less than one year’s duration is, respectively, the fee set out above for a licence or renewal of a licence of one year’s duration decreased proportionately according to the duration of the period for which the licence or renewal is granted;
+- (b) of more than one but less than two years’ duration is, respectively, the fee set out above for a licence, or a renewal of a licence, of one year’s duration increased proportionately according to the duration of the period for which the licence or renewal is granted;
+- (c) of more than two but less than three years’ duration is, respectively, the fee set out above for a licence or renewal of a licence of two years’ duration increased proportionately according to the duration of the period for which the licence or renewal is granted;
+- (d) of more than three but less than four years’ duration is, respectively, the fee set out above for a licence or renewal of a licence of three years’ duration increased proportionately according to the duration of the period for which the licence or renewal is granted;
+- (e) of more than four but less than five years’ duration is, respectively, the fee set out above for a licence or renewal of a licence of four years’ duration increased proportionately according to the duration of the period for which the licence or renewal is granted.
+
+### PART 4 — Fees for explosives certificates under the Explosives Regulations 2014[^key-5c4f6400b235960563a9b67662c1f8ec]
+
+| 1 (Provision of the Explosives Regulations 2014 under which a fee is payable) | 2 (Purpose of application) | 3 (Fee) |
+| --- | --- | --- |
+| Regulation 11 (see Note) | (a) Explosives certificate for acquiring and keeping explosives, not including an application for an explosives certificate referred to in entries (c), (g) or (i), at a site in relation to which a person holds a licence to store explosives and, by virtue of regulation 27 of, and Schedule 5 to, the 2014 Regulations, no minimum separation distance is prescribed or a 0 metres minimum separation distance is prescribed: |  |
+|  | (i) one year’s duration | £142 |
+|  | (ii) two years’ duration | £178 |
+|  | (iii) three years’ duration | £214 |
+|  | (iv) four years’ duration | £250 |
+|  | (v) five years’ duration | £286 |
+|  |  |  |
+|  | (b) Renewal of the explosives certificate referred to in (a): |  |
+|  | (i) one year’s duration | £125 |
+|  | (ii) two years’ duration | £148 |
+|  | (iii) three years’ duration | £171 |
+|  | (iv) four years’ duration | £197 |
+|  | (v) five years’ duration | £220 |
+|  |  |  |
+|  | (c) Explosives certificate for acquiring and keeping explosives not including an application for an explosives certificate referred to in entries (a), (g) or (i), at a site in relation to which a person holds a licence for the storage of no more than 2000 kilograms of explosives: |  |
+|  | (i) one year’s duration | £154 |
+|  | (ii) two years’ duration | £190 |
+|  | (iii) three years’ duration | £226 |
+|  | (iv) four years’ duration | £260 |
+|  | (v) five years’ duration | £297 |
+|  |  |  |
+|  | (d) Renewal of the explosives certificate referred to in (c): |  |
+|  | (i) one year’s duration | £148 |
+|  | (ii) two years’ duration | £178 |
+|  | (iii) three years’ duration | £208 |
+|  | (iv) four years’ duration | £238 |
+|  | (v) five years’ duration | £266 |
+|  |  |  |
+|  | (e) Explosives certificate for acquiring and keeping explosives, not including an application for an explosives certificate referred to in entries (g) or (i), at a site in relation to which a person holds a licence for the storage of more than 2000 kilograms of explosives: |  |
+|  | (i) one year’s duration | £208 |
+|  | (ii) two years’ duration | £250 |
+|  | (iii) three years’ duration | £291 |
+|  | (iv) four years’ duration | £333 |
+|  | (v) five years’ duration | £375 |
+|  |  |  |
+|  | (f) Renewal of the explosives certificate referred to in (e): |  |
+|  | (i) one year’s duration | £183 |
+|  | (ii) two years’ duration | £220 |
+|  | (iii) three years’ duration | £255 |
+|  | (iv) four years’ duration | £291 |
+|  | (v) five years’ duration | £327 |
+|  |  |  |
+|  | (g) Explosives certificate for acquiring and keeping shooters’ powder only, at a site in relation to which the applicant holds a licence, where the applicant also makes a relevant application under the 1968 Act to the chief officer of police determining the explosives certificate application which is to be determined at the same time | £28 |
+|  |  |  |
+|  | (h) Renewal of the explosives certificate referred to in (g) where the applicant also makes a relevant application under the 1968 Act to the chief officer of police determining the renewal application which is to be determined at the same time | £17 |
+|  |  |  |
+|  | (i) Explosives certificate for acquiring and keeping only shooters’ powder at a site in relation to which the applicant holds a licence and a relevant certificate, where no relevant application under the 1968 Act by the applicant is to be determined at the same time | £50 |
+|  |  |  |
+|  | (j) Renewal of the explosives certificate referred to in (i) where no relevant application under the 1968 Act by the same applicant is to be determined at the same time | £20 |
+|  |  |  |
+|  | (k) Explosives certificate for acquiring more than 15 kilograms of explosives, not including an application for an explosives certificate referred to in entries (m) or (o) |  |
+|  | (i) one year’s duration | £142 |
+|  | (ii) two years’ duration | £178 |
+|  | (iii) three years’ duration | £214 |
+|  | (iv) four years’ duration | £250 |
+|  | (v) five years’ duration | £286 |
+|  |  |  |
+|  | (l) Renewal of the explosives certificate referred to in (k): |  |
+|  | (i) one year’s duration | £125 |
+|  | (ii) two years’ duration | £148 |
+|  | (iii) three years’ duration | £171 |
+|  | (iv) four years’ duration | £197 |
+|  | (v) five years’ duration | £220 |
+|  |  |  |
+|  | (m) Explosives certificate for acquiring more than 15 kilograms of shooters’ powder only, where the applicant also makes a relevant application under the 1968 Act to the chief officer of police determining the explosives certificate application which is to be determined at the same time | £28 |
+|  |  |  |
+|  | (n) Renewal of the explosives certificate referred to in (m) where the applicant also makes a relevant application under the 1968 Act to the chief officer of police determining the renewal application which is to be determined at the same time | £17 |
+|  |  |  |
+|  | (o) Explosives certificate for acquiring more than 15 kilograms of shooters’ powder only, where the applicant holds a relevant certificate and no relevant application under the 1968 Act is to be determined at the same time | £50 |
+|  |  |  |
+|  | (p) Renewal of the explosives certificate referred to in (o) where no relevant application under the 1968 Act by the applicant is to be determined at the same time | £20 |
+|  |  |  |
+|  | (q) Replacement of any explosives certificate referred to in entries (a) to (f) and (k) and (l) if lost | £40 |
+|  |  |  |
+|  | (r) Replacement of any explosives certificate referred to in entries (g) to (j) and (m) to (p) if lost | £11 |
+
+Note:
+
+The fee payable for an explosives certificate or renewal of an explosive certificate (“renewal”)—
+
+- (a) of less than one year’s duration is, respectively, the fee set out above for a certificate, or renewal of one year’s duration decreased proportionately according to the duration of the period for which the explosives certificate or renewal is granted;
+- (b) of more than one but less than two years’ duration is, respectively, the fee set out above for an explosives certificate, or a renewal of one year’s duration increased proportionately according to the duration of the period for which the explosives certificate or renewal is granted;
+- (c) of more than two years but less than three years’ duration is, respectively, the fee set out above for an explosives certificate, or a renewal of two years’ duration increased proportionately according to the duration of the period for which the explosives certificate or renewal is granted;
+- (d) of more than three years but less than four years’ duration is, respectively, the fee set out above for an explosives certificate, or a renewal of three years’ duration increased proportionately according to the duration of the period for which the explosives certificate or renewal is granted;
+- (e) of more than four years but less than five years’ duration is, respectively, the fee set out above for an explosives certificate, or a renewal of four years’ duration increased proportionately according to the duration of the period for which the explosives certificate or renewal is granted.
+
+### PART 5 — Fees for applications under and replacements of licences under the 2014 Acetylene Regulations[^key-a3a394ded3b3b10b9020e14ff27f69d2]
+
+| 1 (Purpose of application under the 2014 Acetylene Regulations) | 2 (Person by whom the fee is payable) |
+| --- | --- |
+| Application for a licence for the manufacture of compressed acetylene gas, the compression of acetylene gas, the filling of a cylinder with compressed acetylene gas or any combination of those activities under regulation 6 | Applicant |
+| Application to renew a licence under regulation 6 | Acetylene licensee |
+| Application to vary a licence under regulation 6, including where the acetylene licensing authority proposes to vary or varies a licence without the consent of the acetylene licensee as permitted by regulation 9(5)(a) of the 2014 Acetylene Regulations | Acetylene licensee |
+| Application to transfer a licence under regulation 6 | Transferee of the acetylene licence |
+| Replacement of any of the licences referred to in this Part if lost | Acetylene licensee |
+
+### PART 6 — Fees payable in respect of applications for the granting of storage certificates and petrol licences under the Petroleum (Consolidation) Regulations 2014
+
+| 1 (Provision of the Petroleum (Consolidation) Regulations 2014 under which a fee is payable) | 2 (Purpose of application) | 3 (Fee) |
+| --- | --- | --- |
+| Regulation 6 | Storage certificate, where premises to be used to store petrol of a quantity— |  |
+|  | not exceeding 2,500 litres | £48 for each year of certificate |
+|  | exceeding 2,500 litres but not exceeding 50,000 litres | £65 for each year of certificate |
+|  | exceeding 50,000 litres | £137 for each year of certificate |
+| Regulation 14 | Licence to keep petrol of a quantity— |  |
+|  | not exceeding 2,500 litres | £48 for each year of certificate |
+|  | exceeding 2,500 litres but not exceeding 50,000 litres | £65 for each year of certificate |
+|  | exceeding 50,000 litres | £137 for each year of certificate |
+
+## SCHEDULE 8 — Fees in relation to Part 5 of the Dangerous Goods in Harbour Areas Regulations 2016[^key-d29be6ffe59d44f495a046662d692754][^key-27e81b6c256e784122f9d1386e2886b1]
+
+Regulation 11
+
+|  |  |
+| --- | --- |
+| 1 (Type of work) | 2 (Fee) |
+| Grant of an explosives licence under Part 5 of the Dangerous Goods in Harbour Areas Regulations 2016 | Applicant |
+| Altering or proposing to alter the terms of an existing explosives licence under Part 5 of the Dangerous Goods in Harbour Areas Regulations 2016, including where the appropriate authority proposes to alter or alters an explosives licence without an application as permitted by regulation 16(2) or 17(2) of those Regulations | Explosives licensee |
+| Granting of an exemption under regulation 28 of the Dangerous Goods in Harbour Areas Regulations 2016 to any requirement or prohibition imposed by or under Part 5 of those Regulations | Explosives licensee |
+| Varying name of licensee or address of site | Explosives licensee |
+
+## SCHEDULE 9 — Fees for notifications and applications under the 2014 GMO Regulations[^key-5aac1f9f9a2fe1548c2ec3cebc57d450]
+
+Regulation 13
+
+| 1 (Description) | 2 (Fee) |
+| --- | --- |
+| (a) Notification of premises to be used for contained use for the first time under regulation 9(2) | £538[^key-b8e7fb7837e17d51567c46f3c0cca4fc] |
+| (b) Notification of class 2 contained use[^key-b395233ec51dc858a6e58ec73f28f641] under regulation 10(2) | £1,074 |
+| (c) Notification of premises to be used for contained use for the first time under regulation 9(2) at the same time as notification of class 2 contained use under regulation 10(2) | £1,074 |
+| (d) Notification of class 3 contained use under regulation 11(2) | £1,163 |
+| (e) Notification of premises to be used for contained use for the first time under regulation 9(2) at the same time as notification of class 3 contained use under regulation 11(2) | £1,163 |
+| (f) Notification of class 4 contained use under regulation 11(2) | £1,341 |
+| (g) Notification of premises to be used for contained use for the first time under regulation 9(2) at the same time as notification of class 4 contained use under regulation 11(2) | £1,341 |
+| (h) Notification of contained use under regulation 12(2) | £1,074 |
+| (i) Notification of premises to be used for contained use for the first time under regulation 9(2) at the same time as notification of contained use under regulation 12(2) | £1,074 |
+| (j) Notification of change or new information affecting risks under regulation 15(1) | £803 |
+| (k) Application for the written agreement of the competent authority under regulation 19(2) where the application is made after a notification has been submitted pursuant to regulation 9(2)[^key-0c42ceb3d640f8439189446a1618fbe3] , 10(2), 11(2) or 12(2) | £803 |
+
+## SCHEDULE 10 — Fees payable in respect of offshore installations[^key-c9cb3e918eb8795bbb9eab019d7fc671]
+
+Regulation 14
+
+| 1 (Function) | 2 (Person by whom the fee is payable) |
+| --- | --- |
+| Assessing a design notification (sent to the Executive pursuant to regulation 6(1) or 9(1) of the 2005 Regulations) for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator or owner who sent the design notification to the Executive pursuant to that provision |
+| Assessing a relocation notification (sent to the Executive pursuant to regulation 6(2) of the 2005 Regulations) for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator who sent the relocation notification to the Executive pursuant to that provision |
+| Assessing a safety case or a revision to a current safety case (sent to the Executive pursuant to any provision of the 2005 Regulations) for the purpose of deciding whether to accept that safety case or revision and accepting any such safety case or revision | The operator or owner who sent the safety case or revision to the Executive pursuant to that provision |
+| Providing advice with respect to the preparation of a safety case or revision to a current safety case which is proposed to be sent to the Executive pursuant to any provision of the 2005 Regulations | The operator or owner who has requested that advice |
+| Assessing whether to grant an exemption pursuant to regulation 23 of the 2005 Regulations and granting any such exemption | The operator or owner who has requested the exemption |
+| Assessing a design notification (sent to the competent authority pursuant to regulation 15(1) or 19(1) of the 2015 Regulations) for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator or owner who sent the design notification to the competent authority pursuant to that provision |
+| Assessing a relocation notification (sent to the competent authority pursuant to regulation 15(3) of the 2015 Regulations) for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator who sent the relocation notification to the competent authority pursuant to that provision |
+| Assessing a safety case or a revision to a current safety case (sent to the competent authority pursuant to any provision of the 2015 Regulations) for the purpose of deciding whether to accept that safety case or revision and accepting any such safety case or revision | The operator or owner who sent the safety case or revision to the competent authority pursuant to that provision |
+| Providing advice with respect to the preparation of a safety case or a revision to a current safety case which is proposed to be sent to the competent authority pursuant to any provision of the 2015 Regulations | The operator or owner who has requested that advice |
+| Assessing whether to grant an exemption pursuant to regulation 35 of the 2015 Regulations and granting any such exemption | The operator or owner who has requested the exemption |
+
+## SCHEDULE 11 — Fees payable in respect of gas safety functions[^key-254ff9ec43c5130ba222939dac18f9b6]
+
+Regulation 15
+
+| 1 (Function) | 2 (Person by whom fee is payable) |
+| --- | --- |
+| Assessing a safety case or a revision of a safety case (sent to the Executive pursuant to any provision of the 1996 Regulations) for the purpose of deciding whether to accept that safety case or revision, and accepting any such safety case or revision | The person conveying gas, the person intending to convey gas , the network emergency co-ordinator or the emergency reporting service provider[^key-364c3466ccccd9a5987913b3fcb9f1e9] who has prepared the safety case or revision pursuant to that provision |
+| Providing advice with respect to the preparation of a safety case or revision to a safety case which is proposed to be sent to the Executive pursuant to any provision of the 1996 Regulations | The person conveying gas, the person intending to convey gas , the network emergency co-ordinator or the emergency reporting service provider who has requested that advice |
+| Assessing whether to grant an exemption pursuant to regulation 11 of the 1996 Regulations | The operator or owner who has requested the exemption |
+
+## SCHEDULE 12 — Fees payable in relation to nuclear assessments, design proposals and potential nuclear site applications under section 1(1) of the 1965 Act[^key-524a39a4d08640ccdbdae899e154a077]
+
+Regulation 16
+
+Table 1
+
+| 1 (Statutory provision(s)) | 2 (Purpose of the work) | 3 (Person by whom the fee is payable) |
+| --- | --- | --- |
+| (a) Section 78 of the 2013 Act | Preparing an assessment agreement | The person who has requested the assessment of the design proposal |
+| (b) Section 78 of the 2013 Act and sections 1(1) and 3 of the 1965 Act | Assessing a design proposal |  |
+
+Table 2
+
+| 1 (Statutory provision(s)) | 2 (Purpose of the work) | 3 (Person by whom the fee is payable) |
+| --- | --- | --- |
+| Section 78 of the 2013 Act and sections 1(3) and 3 of the 1965 Act | Providing advice to a potential applicant for a licence under section 1(1) of the 1965 Act on any matter relating to a potential application for a licence | The person who has requested the advice |
+
+## SCHEDULE 13 — Fees for applications for approvals under the Offshore Installations and Pipelines Works (First-Aid) Regulations 1989[^key-20d6f2ddccffc9a3a83ccba3015148f8]
+
+Regulation 18
+
+Table 1
+
+| 1 (Fee for an original approval of offshore first-aid training) | 2 (Fee for an original approval of offshore medical training) | 3 (Fee for renewal of approval of offshore first-aid training) | 4 (Fee for renewal of approval of offshore medical training) |
+| --- | --- | --- | --- |
+| £1,928[^key-bc045c68bddb99ef0d889946976db6da] | £2,655 | £134 | £134 |
+
+Table 2
+
+| 1 (Fee for an additional site visit relating to offshore first-aid training) | 2 (Fee for additional site visit relating to offshore medical training) |
+| --- | --- |
+| £644[^key-8590c802f2fe64f34a258ba218010393] | £1,520 |
+
+Table 3
+
+| 1 (Fee for an initial site visit relating to offshore first-aid training) | 2 (Fee for an initial site visit relating to offshore medical training) | 3 (Fee for any additional site visit relating to offshore first-aid training) | 4 (Fee for any additional site visit relating to offshore medical training) |
+| --- | --- | --- | --- |
+| £655[^key-66a334eebdb4485d95aae033e51378a9] | £1,520 | £644 | £1,520 |
+
+Table 4
+
+| 1 (Fee for a site visit to investigate a complaint relating to offshore first-aid training) | 2 (Fee for a site visit to investigate a complaint relating to offshore medical training) | 3 (Fee for a cancelled site visit relating to offshore first-aid training) | 4 (Fee for a cancelled site visit relating to offshore medical training) |
+| --- | --- | --- | --- |
+| £655[^key-5bcd0a1a8b4deb750da41b51ebd4f9e0] | £1,520 | £655 | The reasonable cost to the Executive due to the cancellation |
+
+## SCHEDULE 14 — Fees for notifications under the Borehole Sites and Operations Regulations 1995[^key-a242be020c5501167d6a8ece7b7b40ec]
+
+Regulation 14A[^key-8787d2ba1b8de6013a0d341e574039a1]
+
+| 1 (Function) | 2 (Person by whom fee is payable) |
+| --- | --- |
+| Assessing a notification sent to the Executive pursuant to regulation 6(1) of the 1995 Regulations for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator of a borehole site |
+| Assessing a notification sent to the Executive pursuant to regulation 6(2) of the 1995 Regulations for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator of a borehole site |
+| Assessing a notification sent to the Executive pursuant to regulation 6(3) of the 1995 Regulations for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The person entitled to drill the borehole |
+| Assessing a notification sent to the Executive pursuant to regulation 6(4) of the 1995 Regulations for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator of a borehole site |
+| Assessing a notification sent to the Executive pursuant to regulation 6(5) of the 1995 Regulations for the purpose of deciding whether to raise matters relating to health and safety and raising such matters | The operator of a borehole site or, in the case of particulars previously notified under regulation 6(3) of the 1995 Regulations, the person entitled to drill the borehole |
+
+## SCHEDULE 15 — Fees payable for work in connection with biocides[^key-b2409a57adb36fbe9b240d6fe8f00e73]
+
+Regulation 21
+
+| 1 (Activity) | 2 (Fee per person per day worked) |
+| --- | --- |
+| (a) Validation of an application for approval of an active substance | £509[^key-dc36802bb3caf356f192d5e6e1e5abc8] |
+| (b) Evaluation of an application to approve an active substance | £509 |
+| (c) Evaluation of an application to renew an active substance approval | £509 |
+| (d) Validation of an application to amend the conditions of approval of an active substance | £499 |
+| (e) Evaluation of an application to amend the conditions of approval of an active substance | £499 |
+| (f) Work relating to a request for inclusion of an active substance in the Simplified Active Substance List made on behalf of an economic operator | £509 |
+| (g) Validation of an application to amend the conditions of inclusion of an active substance in the Simplified Active Substance List | £499 |
+| (h) Evaluation of an application to amend the conditions of inclusion of an active substance in the Simplified Active Substance List | £499 |
+| (i) Meetings with applicants and prospective applicants | £509 |
+| (j) Evaluation of an application to authorise a biocidal product under the simplified procedure | £448 |
+| (k) Validation of an application for a national authorisation of a biocidal product | £448 |
+| (l) Evaluation of an application for a national authorisation of a biocidal product | £448 |
+| (m) Evaluation of an application to renew a national authorisation of a biocidal product | £448 |
+| (n) Determination of an application to amend an existing biocidal product | £448 |
+| (o) Evaluation of an application for an emergency use permit | £448 |
+| (p) Assessment of an application to be included in the list of suppliers maintained under Article 95 of the Biocides Regulation | £499 |
+| (q) Determination of a request that information on an active substance or product is not made publicly available | £499 |
+| (r) Determination of the classification of a proposed change to an authorised product in accordance with Regulation 354/2013 | £499 |
+| (s) Determination of an application to be a participant for the review of an active substance/product-type combination under Article 17 of Regulation 1062/2014 | £499 |
+| (t) Assessment of technical equivalence | £499 |
+| (u) Evaluation of an application under regulation 13 of the 2013 Biocidal Products and Chemicals Regulations | £448 |
+
+## SCHEDULE 16 — Fees payable for activities under the CLP Regulation[^key-3fde76fb5c848b63dc4a0789bc0d8379]
+
+Regulation 22
+
+| 1 (Activity) | 2 (Person by whom fee is payable) | 3 (Fee per person per day worked) |
+| --- | --- | --- |
+| Consideration of a proposal submitted under subparagraph (b) of paragraph 6 of Article 37[^key-18acc8466701bb44d7f870024baf6c60] | Person submitting the application | £499[^key-15786f2048ab68adbd3292c33b60981c] |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Health and Safety and Nuclear (Fees) Regulations 2021 ([S.I. 2021/33](https://www.legislation.gov.uk/uksi/2021/33)) (“**the 2021 Regulations**”).
+
+The Regulations fix or determine the fees payable by an applicant to, in most cases, the Health and Safety Executive, in respect of—
+
+- (a) an application for approval of plant and equipment under the Agriculture (Tractor Cabs) Regulations 1974 (regulation 3 and Schedule 1);
+- (b) applications under the Freight Containers (Safety Convention) Regulations 2017 ([S.I. 2017/325](https://www.legislation.gov.uk/uksi/2017/325)) (regulation 4 and Schedule 2);
+- (c) applications for approval under the Control of Asbestos Regulations 2012 ([S.I. 2012/632](https://www.legislation.gov.uk/uksi/2012/632)) (regulation 5 and Schedule 3);
+- (d) examination or surveillance by an employment medical adviser (regulation 6 and Schedule 4);
+- (e) medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002 ([S.I. 2002/2676](https://www.legislation.gov.uk/uksi/2002/2676)) (regulation 7 and Schedule 5);
+- (f) applications under the Ionising Radiations Regulations 2017 ([S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075)) and the Radiation (Emergency Preparedness and Public Information) Regulations 2019 ([S.I. 2019/703](https://www.legislation.gov.uk/uksi/2019/703)) (regulation 8 and Schedule 6);
+- (g) applications under the Explosives Regulations 2014 ([S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638)) and the Acetylene Safety (England and Wales and Scotland) Regulations 2014 ([S.I. 2014/1639](https://www.legislation.gov.uk/uksi/2014/1639)) (regulation 9 and Schedule 7);
+- (h) an application under the Petroleum (Consolidation) Regulations 2014 ([S.I. 2014/1637](https://www.legislation.gov.uk/uksi/2014/1637)) (regulation 10 and Schedule 7);
+- (i) applications under Part 9 of the Dangerous Goods in Harbour Areas Regulations 2016 ([S.I. 2016/721](https://www.legislation.gov.uk/uksi/2016/721)) (regulation 11 and Schedule 8);
+- (j) applications and notifications under the Genetically Modified Organisms (Contained Use) Regulations 2014 ([S.I. 2014/1663](https://www.legislation.gov.uk/uksi/2014/1663)) (regulation 13 and Schedule 9);
+- (k) offshore installations (regulation 14 and Schedule 10);
+- (l) gas safety functions (regulation 15 and Schedule 11);
+- (m) nuclear installations (regulation 16 and Schedule 12);
+- (n) offshore first-aid and medical training (regulation 18 and Schedule 13); and
+- (o) notifications under the Borehole Sites and Operations Regulations 1995 ([S.I. 1995/2038](https://www.legislation.gov.uk/uksi/1995/2038)) (regulation 20 and Schedule 14).
+
+Under regulation 21 and Schedule 15, fees are prescribed that are payable for work carried out under—
+
+- (a) Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (EUR 2012/528) (“**the Biocides Regulation**”);
+- (b) the Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 ([S.I. 2013/1506](https://www.legislation.gov.uk/uksi/2013/1506));
+- (c) Commission Implementing Regulation (EU) No 354/2013 of 18 April 2013 on changes of biocidal products authorised in accordance with the Biocides Regulation (EUR 2013/354); and
+- (d) Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of all existing active substances contained in biocidal products referred to in the Biocides Regulation (EUR 2014/1062).
+
+Under regulation 22 and Schedule 16, fees are prescribed that are payable under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures (EUR 2008/1072), in connection with proposals submitted under Article 37A(3)(1) of that Regulation.
+
+Under regulations 23 to 25, fees are payable in respect of functions performed by the Executive if a person is in contravention of the relevant statutory provisions (“fees for intervention”).
+
+Regulation 26 requires the Secretary of State to review the operation and effect of these Regulations and to publish a report within five years of the Regulations coming into effect.
+
+Regulation 27 revokes the 2021 Regulations and regulation 14 of the Chemicals (Health and Safety) Trade and Miscellaneous Amendments Regulations 2022 ([S.I. 2022/1037](https://www.legislation.gov.uk/uksi/2022/1037)).
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Section 43 was amended by paragraph 12 of Schedule 15, and Schedule 18, to the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) and by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794) and [2008/960](https://www.legislation.gov.uk/uksi/2008/960). Section 82 has been amended, but no amendments are relevant to these Regulations.
+
+[^f00002]: Footnote: [2013. c. 32](https://www.legislation.gov.uk/ukpga/2013/32). Section 113 has been amended, but no amendments are relevant to these Regulations.
+
+[^f00003]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Amendments have been made to this Act, but no amendments are relevant to these Regulations.
+
+[^f00004]: Footnote: Section 11 was substituted by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960) and amended by paragraph 2 of Schedule 12 to the Energy Act 2013, by section 1 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20) and by paragraph 2 of Schedule 1 to the Building Safety Act [2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30).
+
+[^key-77f9b55b1d9b224c24993127436bcda4]: Commencement: Reg. 1 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00005]: Footnote: [S.I. 2013/240](https://www.legislation.gov.uk/uksi/2013/240).
+
+[^key-a8cac33615489b74f050fa0ffac591a6]: Commencement: Reg. 2 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00006]: Footnote: [S.I. 2012/632](https://www.legislation.gov.uk/uksi/2012/632). This instrument was amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469). Other amending instruments have been made, but none is relevant to these Regulations.
+
+[^f00007]: Footnote: [S.I. 2013/1506](https://www.legislation.gov.uk/uksi/2013/1506). This instrument was amended by [S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720) and [2020/1567](https://www.legislation.gov.uk/uksi/2020/1567). Other amending instruments have been made, but none is relevant to these Regulations.
+
+[^f00008]: Footnote: [S.I. 2014/1663](https://www.legislation.gov.uk/uksi/2014/1663). There are amendments to this instrument, but none is relevant to these Regulations.
+
+[^f00009]: Footnote: [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075). This instrument was amended by [S.I. 2019/703](https://www.legislation.gov.uk/uksi/2019/703). Other amending instruments have been made, but none is relevant to these Regulations.
+
+[^f00010]: Footnote: Section 56 has been amended, but the amendment is not relevant to these Regulations.
+
+[^f00011]: Footnote: The Office for Nuclear Regulation was established by section 77 of the Energy Act 2013.
+
+[^key-455dff11b485b0f323249e73ec852f2c]: Commencement: Reg. 3 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00012]: Footnote: [S.I. 1974/2034](https://www.legislation.gov.uk/uksi/1974/2034). This instrument was amended by [S.I. 1976/1247](https://www.legislation.gov.uk/uksi/1976/1247), [1981/1414](https://www.legislation.gov.uk/uksi/1981/1414) and [1990/1075](https://www.legislation.gov.uk/uksi/1990/1075).
+
+[^key-22e777944172639a8ec6c6c2585632c7]: Commencement: Reg. 4 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00013]: Footnote: [S.I. 2017/325](https://www.legislation.gov.uk/uksi/2017/325).
+
+[^key-e823ae317252ba8f3abad715861a43e2]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/4/2) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2023/247/regulation/12)
+
+[^key-25c24182033c9dd5457005d42945f3bb]: Commencement: Reg. 5 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-59a949a0a03fa4fbb7c50a3c3063e899]: Commencement: Reg. 6 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-989524d5af8c398249273bfcf7f8129e]: Commencement: Reg. 7 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00014]: Footnote: [S.I. 2002/2676](https://www.legislation.gov.uk/uksi/2002/2676). This instrument has been amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960), [2014/469](https://www.legislation.gov.uk/uksi/2014/469) and [2018/390](https://www.legislation.gov.uk/uksi/2018/390). Other amending instruments have been made, but none is relevant to these Regulations.
+
+[^key-92007d3ff616d45a79b8a93df38ed485]: Commencement: Reg. 8 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-ea932ed37b06b245e4bfb7e7ff3bd4fe]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/2) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/2/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+
+[^key-b368d74ed84a936cd8411dc4442c80b0]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/2) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/2/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+
+[^key-66b063e979c8d35ed1d137eb6a23deab]: Textual amendment: [Reg. 8(3A)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/3A) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+
+[^key-5a2673d647de7ca96b915dd63100a2f6]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/6) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+
+[^key-d408d79b424bb0e3c76265d3f9972bee]: Textual amendment: Sum in [Reg. 8(10)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/10) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/322/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^f00015]: Footnote: [S.I. 1999/3232](https://www.legislation.gov.uk/uksi/1999/3232). Amending instruments are [S.I. 2001/2626](https://www.legislation.gov.uk/uksi/2001/2626), [2001/2975](https://www.legislation.gov.uk/uksi/2001/2975), [2008/960](https://www.legislation.gov.uk/uksi/2008/960), [2010/675](https://www.legislation.gov.uk/uksi/2010/675), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2014/469](https://www.legislation.gov.uk/uksi/2014/469), [2014/3248](https://www.legislation.gov.uk/uksi/2014/3248) and [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154). Subject to savings, these Regulations were revoked by [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075).
+
+[^f00016]: Footnote: [S.I. 2019/703](https://www.legislation.gov.uk/uksi/2019/703). There are amending instruments, but none is relevant to these Regulations.
+
+[^key-6210bb217ce2619183bf8c0bcba79eaa]: Textual amendment: Words in [reg. 8(11)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/8/11) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/3/5) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+
+[^key-e60073e4dc35abe4cbda13d0270a4471]: Commencement: Reg. 9 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-772cc90d255958879b5ff822f9de7ea0]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/1378/regulation/9) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/322/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-25b60813e37caeb0ae0c12486ec4c5ce]: Commencement: Reg. 10 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00023]: Footnote: [S.I. 2014/1637](https://www.legislation.gov.uk/uksi/2014/1637). This instrument was amended by [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483).
+
+[^key-85b2c0726f7c0f1033e55ef3470a7e5f]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2022/1378/regulation/10) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/322/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-fc864ad4d9a475d5d539296c1e43837e]: Commencement: Reg. 11 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-32a92ebba9e8abd691b6b18696eb6b8f]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/1378/regulation/11) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/322/regulation/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-41162f30b0408f2bb08921ebfa658f2e]: Commencement: Reg. 12 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-9b780667cabe92445c4c7dfae94045c0]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/12/1A)[(1B)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/12/1B) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2023/247/regulation/7)
+
+[^key-74eb676db72860a9e2d301aef2f132a4]: Commencement: Reg. 13 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-c0b35491bdba2e4b61ae873fcd81b2a4]: Commencement: Reg. 14 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00025]: Footnote: [S.I. 2005/3117](https://www.legislation.gov.uk/uksi/2005/3117). This instrument was amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), [2015/398](https://www.legislation.gov.uk/uksi/2015/398) and [2016/912](https://www.legislation.gov.uk/uksi/2016/912). Other amendments have been made, but none is relevant to these Regulations.
+
+[^f00026]: Footnote: [S.I. 2015/398](https://www.legislation.gov.uk/uksi/2015/398). There are amendments to this instrument, but none are relevant to these Regulations.
+
+[^f00027]: Footnote: The definition of “competent authority” is in regulation 2(1) of the 2015 Regulations.
+
+[^f00028]: Footnote: “Current safety case”, “**installation**” and “**owner**” are defined in regulation 2(1) of the 2005 Regulations. “**Safety case**” has the meaning given in regulation 2(2) of those Regulations.
+
+[^f00029]: Footnote: “Current safety case”, “**installation**” and “**owner**” are defined in regulation 2(1) of the 2015 Regulations. “**Safety case**” has the meaning given in regulation 2(2) of those Regulations.
+
+[^f00030]: Footnote: “Operator” is defined in regulation 2(1) of the 2015 Regulations.
+
+[^key-c98003a553d4d6854fe111524844dc57]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2022/1378/regulation/14A) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2024/322/regulation/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-012bcfa1a32ec26e7cf47f21eb68cc2b]: Commencement: Reg. 15 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-1e6e782101e13c5c79c9578284851ca6]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/15/2) substituted (6.4.2023) by [The Gas Safety (Management) (Amendment) Regulations 2023 (S.I. 2023/284)](https://www.legislation.gov.uk/uksi/2023/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2023/284/regulation/15/2/a)
+
+[^f00031]: Footnote: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825). There are amendments to this instrument, but none are relevant to these Regulations.
+
+[^f00032]: Footnote: [S.I. 1996/551](https://www.legislation.gov.uk/uksi/1996/551). There are amendments to this instrument, but none are relevant to these Regulations.
+
+[^key-b9bdcd9a9644eeaabb698ea8d625c870]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/15/4) substituted (6.4.2023) by [The Gas Safety (Management) (Amendment) Regulations 2023 (S.I. 2023/284)](https://www.legislation.gov.uk/uksi/2023/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2023/284/regulation/15/2/b)
+
+[^key-d726428ce0f0db4928de77d1106a2277]: Textual amendment: [Regs. 15A-15C](https://www.legislation.gov.uk/uksi/2022/1378/regulation/15A) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2024/322/regulation/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-1784eb32a60402825545440b81a8f748]: Commencement: Reg. 16 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00034]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57). Section 1 was substituted by paragraph 17 of Schedule 12 to the Energy Act 2013 (“**the 2013 Act**”). Section 3 was substituted by paragraph 18 of Schedule 12 to the 2013 Act, and amended by [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154) and [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219). There are other amendments to the 1965 Act, but none is relevant to these Regulations.
+
+[^f00035]: Footnote: Section 82 has been amended by paragraph 4 of the Schedule to the Nuclear Safeguards Act [2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15) (“**the 2018 Act**”) and [S.I. 2016/562](https://www.legislation.gov.uk/uksi/2016/562).
+
+[^f00036]: Footnote: [2000 c. 5](https://www.legislation.gov.uk/ukpga/2000/5).
+
+[^f00037]: Footnote: “Nuclear safeguards regulations” is defined in section 112 of the Energy Act 2013. That definition was inserted by section 1(3)(a) of the 2018 Act.
+
+[^key-17d8a4732762564ba6293b6677c6b26c]: Commencement: Reg. 17 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-5fbbf792ec394d121b612fb2ae903497]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17) heading inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+
+[^key-d58d4535f15b75d5987fede4919ecec5]: Textual amendment: Word in [reg. 17](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17) heading inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-733334f3dc94b443fce3c0adfaabd041]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/b/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+
+[^key-058f6de10d42e9d64e25e553bfa45d82]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(b)(i)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-26c898763d9c1944db9b5dca39430a5a]: Textual amendment: [Reg. 17(1)(a)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/a)[(ia)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/ia) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/b/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+
+[^key-e2887db8b8aa75f0c7c30059e4428455]: Textual amendment: Words in [reg. 17(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/a/ii) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-aadfaa73c5752a174071d2e2b67ea2ed]: Textual amendment: [Reg. 17(1)(b)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/1/b) and word omitted (1.4.2024) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(b)(iii)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/b/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-57f412a31c4fee91d6bb967244e9d3e3]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/247/regulation/4/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/4)[(5)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/5))
+
+[^key-e303eebff6f608322476de03b4369905]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^f00038]: Footnote: [S.I. 2013/1237](https://www.legislation.gov.uk/uksi/2013/1237). This instrument was amended by [S.I. 2014/468](https://www.legislation.gov.uk/uksi/2014/468). Other amending instruments have been made, but none are relevant to these Regulations.
+
+[^key-ebc742a062b7571d5b1a2c1aa80a747f]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2A)[(2B)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/2B) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^f00039]: Footnote: [S.I. 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
+
+[^key-b48e4767f709ae043fe2b48b39801868]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/7) inserted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(e)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-8f6ee2674a9466e9dd29ecdfd245de9a]: Textual amendment: [Reg. 17(9)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/17/9) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [13(f)](https://www.legislation.gov.uk/uksi/2024/322/regulation/13/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-473afb26dd42b476552a338c22b4466c]: Commencement: Reg. 18 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00040]: Footnote: [S.I. 1989/1671](https://www.legislation.gov.uk/uksi/1989/1671). Regulation 5 was amended by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and [2015/398](https://www.legislation.gov.uk/uksi/2015/398).
+
+[^key-97f89b1d5b8c0150164843299721c9a0]: Textual amendment: Word in [reg. 18(6)(b)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/18/6/b) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/13/a)
+
+[^key-74cd3c8e9bcf30ec10f1c99ac9802095]: Textual amendment: Sum in [Reg. 18](https://www.legislation.gov.uk/uksi/2022/1378/regulation/18) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/322/regulation/14) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-7b6b3abb420863bd03ffd2a8ef450765]: Textual amendment: Word in [reg. 18(7)(b)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/18/7/b) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2023/247/regulation/13/b)
+
+[^key-c7c787e600843edf0a9e6235436cf580]: Commencement: Reg. 19 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-1f19a39ca9911ab63ffba7ae752f7c0b]: Textual amendment: Sum in [Reg. 19](https://www.legislation.gov.uk/uksi/2022/1378/regulation/19) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/322/regulation/15) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-d7f615c75099be612f5b76fe32014882]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/1378/regulation/20) omitted (1.4.2024) by virtue of [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2024/322/regulation/10) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-693370be6bf7259edb835bbee41d2a81]: Commencement: Reg. 20 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-10e2b48e39206caba655aa2f3ef12bd7]: Commencement: Reg. 21 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00044]: Footnote: EUR 2012/528.
+
+[^f00045]: Footnote: EUR 2013/354.
+
+[^f00046]: Footnote: EUR 2014/1062.
+
+[^key-10af63e35ad53bb8ec977eb20421b52c]: Commencement: Reg. 22 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00047]: Footnote: EUR 2008/1272.
+
+[^key-59064a1873a56fb68870f17ffa421c71]: Commencement: Reg. 23 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00048]: Footnote: A copy of HSE 47 – Guidance on the application of Fee for Intervention can be obtained from https://www.hse.gov.uk/pubns/hse47.htm, or in hard copy from the Health and Safety Executive, Redgrave Court, Merton Road, Bootle, Merseyside, L20 7HS.
+
+[^key-e660da685178a35a6631469f0313a70f]: Commencement: Reg. 24 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00049]: Footnote: [S.I. 2013/1237](https://www.legislation.gov.uk/uksi/2013/1237). There are amendments to this instrument, but none are relevant to these Regulations.
+
+[^f00050]: Footnote: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677). There are amendments to this instrument, but none is relevant to these Regulations.
+
+[^f00051]: Footnote: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483). There are amendments to this instrument, but none is relevant to these Regulations.
+
+[^f00052]: Footnote: [S.I. 2009/716](https://www.legislation.gov.uk/uksi/2009/716). There are amendments to this instrument, but none is relevant to these Regulations.
+
+[^key-ee508f9c50e061290123293e1a055669]: Commencement: Reg. 25 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-a44721d909a729c5a8c6a546209509e7]: Commencement: Reg. 26 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00053]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30 was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-b594518a8da4881d67c55c92744898c7]: Commencement: Reg. 27 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00054]: Footnote: [S.I. 2021/33](https://www.legislation.gov.uk/uksi/2021/33), as amended by [S.I. 2022/1037](https://www.legislation.gov.uk/uksi/2022/1037).
+
+[^key-04a4fddae7aa49789179764b8dc17ecd]: Commencement: Reg. 28 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^f00055]: Footnote: [S.I. 2022/1037](https://www.legislation.gov.uk/uksi/2022/1037).
+
+[^key-9cdeb9d4ee2837010c61312d4f960dc3]: Commencement: Sch. 1 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-396c078a810fb80cfc4fe6ae408f4d31]: Textual amendment: Sums in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1378/schedule/1) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-b9ad0ee2313e9614e413745ae7a87b87]: Commencement: Sch. 2 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-dc95ad2e5299087e25ecf4b3aa1f354d]: Textual amendment: Sum in Sch. 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-926f029a344bb88233816e4dc482601d]: Commencement: Sch. 3 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-6c70b90a38bc35b317db8a43c3a9e1cb]: Textual amendment: Sum in Sch. 3 Table 1 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-16ed52e416935c934bafe3e4f6183324]: Textual amendment: Sums in [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1378/schedule/3) Table 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-7e6fb15376171034186bfd5f7b8da01f]: Commencement: Sch. 4 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-055d307a89975e583f68e00a2a5fab9c]: Textual amendment: Sum in Sch. 4 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-aeaa4c036c0f60c29a3e6ac18472a45c]: Textual amendment: Sum in [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1378/schedule/4) table substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/247/schedule) table
+
+[^key-621cd91f1a1f1006a6951f5f975b4999]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1378/schedule/4) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2023/247/regulation/14)
+
+[^key-e962272f4a6be19d9fb1381c28cce2b0]: Commencement: Sch. 5 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-052d0b2190ff564fb1ea2e486353933a]: Textual amendment: Sum in Sch. 5 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-934b5e604f56d8fbf6237616521dc4b9]: Commencement: Sch. 6 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-8fe02138ccb40c1bdca5f28f945c329a]: Textual amendment: Sum in Sch. 6 Table 1 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-5b922f078e2c547a3d6a5a1bb3a445eb]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/uksi/2022/1378/schedule/6) Table 1 inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/247/regulation/5)
+
+[^key-da432579648aa6d03aa9cc47013d8000]: Textual amendment: Sum in Sch. 6 Table 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-3fefb64bb948cf3d90fa8a4c2239d4ba]: Textual amendment: Sum in Sch. 6 Table 3 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-386a3ad67f45e909b40bc3ef150f883a]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2022/1378/schedule/7) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/322/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-a6c70827cce967bb6eeced5a84be4f47]: Commencement: Sch. 7 Pt. 1 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-19afa9f61e3b7c6a16a003a7f43f3cae]: Commencement: Sch. 7 Pt. 2 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-ce6fcb293e98268f84ff986b62219c0e]: Commencement: Sch. 7 Pt. 3 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-5c4f6400b235960563a9b67662c1f8ec]: Commencement: Sch. 7 Pt. 4 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-a3a394ded3b3b10b9020e14ff27f69d2]: Commencement: Sch. 7 Pt. 5 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-d29be6ffe59d44f495a046662d692754]: Commencement: Sch. 8 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-27e81b6c256e784122f9d1386e2886b1]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2022/1378/schedule/8) substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/322/regulation/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-5aac1f9f9a2fe1548c2ec3cebc57d450]: Commencement: Sch. 9 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-b8e7fb7837e17d51567c46f3c0cca4fc]: Textual amendment: Sum in Sch. 9 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-b395233ec51dc858a6e58ec73f28f641]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2022/1378/schedule/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2023/247/regulation/15/a)
+
+[^key-0c42ceb3d640f8439189446a1618fbe3]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2022/1378/schedule/9) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Health and Safety and Nuclear (Fees) (Amendment) Regulations 2023 (S.I. 2023/247)](https://www.legislation.gov.uk/uksi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/247/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2023/247/regulation/15/b)
+
+[^key-c9cb3e918eb8795bbb9eab019d7fc671]: Commencement: Sch. 10 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-254ff9ec43c5130ba222939dac18f9b6]: Commencement: Sch. 11 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-364c3466ccccd9a5987913b3fcb9f1e9]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/uksi/2022/1378/schedule/11) substituted (6.4.2023) by [The Gas Safety (Management) (Amendment) Regulations 2023 (S.I. 2023/284)](https://www.legislation.gov.uk/uksi/2023/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3), [15(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/15/3)
+
+[^key-524a39a4d08640ccdbdae899e154a077]: Commencement: Sch. 12 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-20d6f2ddccffc9a3a83ccba3015148f8]: Commencement: Sch. 13 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-bc045c68bddb99ef0d889946976db6da]: Textual amendment: Sum in Sch. 13 Table 1 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-8590c802f2fe64f34a258ba218010393]: Textual amendment: Sum in Sch. 13 Table 2 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-66a334eebdb4485d95aae033e51378a9]: Textual amendment: Sum in Sch. 13 Table 3 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-5bcd0a1a8b4deb750da41b51ebd4f9e0]: Textual amendment: Sum in Sch. 13 Table 4 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-a242be020c5501167d6a8ece7b7b40ec]: Commencement: Sch. 14 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-8787d2ba1b8de6013a0d341e574039a1]: Textual amendment: Words in [Sch. 14](https://www.legislation.gov.uk/uksi/2022/1378/schedule/14) shoulder note substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2024/322/regulation/11) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-b2409a57adb36fbe9b240d6fe8f00e73]: Commencement: Sch. 15 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-dc36802bb3caf356f192d5e6e1e5abc8]: Textual amendment: Sum in Sch. 15 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))
+
+[^key-3fde76fb5c848b63dc4a0789bc0d8379]: Commencement: Sch. 16 in force at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1)
+
+[^key-18acc8466701bb44d7f870024baf6c60]: Textual amendment: Words in Sch. 16 substituted (21.5.2026) by [The Chemicals (Health and Safety) (Amendment, Consequential and Transitional Provision) Regulations 2026 (S.I. 2026/484)](https://www.legislation.gov.uk/uksi/2026/484), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/484/regulation/1/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2026/484/schedule/paragraph/3/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/484/regulation/3))
+
+[^key-15786f2048ab68adbd3292c33b60981c]: Textual amendment: Sum in Sch. 16 substituted (1.4.2024) by [The Health and Safety and Nuclear (Fees) (Amendment) and Gas Safety (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/322)](https://www.legislation.gov.uk/uksi/2024/322), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/322/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/322/regulation/1/3))

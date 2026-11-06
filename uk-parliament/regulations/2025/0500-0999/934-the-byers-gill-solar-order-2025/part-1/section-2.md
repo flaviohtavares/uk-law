@@ -1,0 +1,154 @@
+---
+title: The Byers Gill Solar Order 2025, section 2
+act: The Byers Gill Solar Order 2025
+section: '2'
+status: revised
+text_date: '2025-10-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2025/934/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Byers Gill Solar Order 2025, section 2
+
+> Text as at 2025-10-27.
+>
+> Extent: England, Wales.
+
+## 2. Interpretation[^key-bed35a27125a487d4b406c85a412d2b4]
+
+*Extent: E+W*
+
+(1) In this Order except where provided otherwise—
+
+- “**the 1961 Act**” means the Land Compensation Act 1961[^f00005];
+- “**the 1965 Act**” means the Compulsory Purchase Act 1965[^f00006];
+- “**the 1980 Act**” means the Highways Act 1980[^f00007];
+- “**the 1981 Act**” means the Compulsory Purchase (Vesting Declarations) Act 1981[^f00008];
+- “**the 1984 Act**” means the Road Traffic Regulation Act 1984[^f00009];
+- “**the 1989 Act**” means the Electricity Act 1989[^f00010];
+- “**the 1990 Act**” means the Town and Country Planning Act 1990[^f00011];
+- “**the 1991 Act**” means the New Roads and Street Works Act 1991[^f00012];
+- “**the 2008 Act**” means the Planning Act 2008[^f00013];
+- “**apparatus**” has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act except that, unless otherwise provided, it further includes pipelines (and parts of them), aerial markers, cathodic protection test posts, field boundary markers, transformer rectifier kiosks, electrical cables, telecommunications equipment and electricity cabinets;
+- “**arboricultural impact assessment**” means the document certified as such by the Secretary of State for the purposes of this Order under article 36 (certification of plans, etc);
+- “**archaeological management strategy**” means the document certified as the archaeological management strategy for the purposes of this Order under article 36 (certification of plans, etc);
+- “**authorised development**” means the development and associated development described in Schedule 1 (authorised development) which is development within the meaning of section 32 (meaning of “**development**”) of the 2008 Act;
+- “**battery energy storage**” means equipment used for the storage of electrical energy by battery;
+- “**book of reference**” means the book of reference certified by the Secretary of State as the book of reference for the purposes of the Order under article 36 (certification of plans, etc);
+- “**building**” includes any structure or erection or any part of a building, structure or erection;
+- “**carriageway**” has the same meaning as in the 1980 Act;
+- “**CCTV**” means a closed circuit television security system;
+- “**CEMP**” means the construction environmental management plans to be submitted pursuant to requirement 4;
+- “**commence**” means beginning to carry out any material operation, as defined in section 155 (when development begins) of the 2008 Act, forming part of the authorised development other than the site preparation works (except where stated to the contrary), and “**commencement**” and “**commenced**” must be construed accordingly;
+- “**CTMP**” means the construction traffic management plan to be submitted pursuant to requirement 6;
+- “**date of final commissioning**” means in respect of each phase of the authorised development as approved under requirement 2 the date on which each phase of the authorised development commences operation by generating electricity on a commercial basis but excluding the generation of electricity during commissioning and testing;
+- “**definitive map and statement**” has the same meaning as in Part III of the Wildlife and Countryside Act 1981[^f00014];
+- “**design approach document**” means the document certified by the Secretary of State as the design approach document for the purposes of this Order under article 36 (certification of plans, etc);
+- “**electronic transmission**” means a communication transmitted—
+  - (a) by means of an electronic communications network; or
+  - (b) by other means but while in electronic form;
+- “**Environment Agency**” means the Environment Agency and any successor in name or function;
+- “**environmental masterplan**” means the documents certified by the Secretary of State as such for the purposes of this Order under article 36 (certification of plans, etc);
+- “**environmental statement**” means the document certified by the Secretary of State as the environmental statement for the purposes of this Order under article 36 (certification of plans, etc);
+- “**footpath**” and “**footway**” have the same meaning as in the 1980 Act[^f00015];
+- “**highway**” and “**highway authority**” have the same meaning as in the 1980 Act[^f00016];
+- “**holding company**” has the same meaning as in section 1159 of the Companies Act 2006[^f00017];
+- “**inverter**” means electrical equipment required to convert direct current power generated by the solar panels to alternating current power;
+- “**land plans**” means the plans certified by the Secretary of State as the land plans for the purposes of this Order under article 36 (certification of plans, etc);
+- “**LEMP**” means the landscape and ecological plan to be submitted pursuant to requirement 12;
+- “**location plan**” means the plan certified by the Secretary of State as the location plan for the purposes of this Order under article 36 (certification of plans, etc);
+- “**maintain**” includes inspect, repair, adjust, alter, remove, refurbish, reconstruct, replace and improve any part of, but not remove, reconstruct or replace the whole of, the authorised development, and any derivative of “maintain” must be construed accordingly;
+- “**National Grid**” means National Grid Electricity Transmission Plc (Company Number 2366977) whose registered office is at 1-3 Strand, London, WC2N 5EH or any successor as a licence holder within the meaning of Part 1 of the 1989 Act;
+- “**Order land**” means the land shown on the land plans which is within the limits of land to be acquired or used and which is described in the book of reference;
+- “**Order limits**” means the limits shown on the land plans within which the authorised development may be carried out and land acquired or used;
+- “**outline battery fire safety management plan**” means the plan certified by the Secretary of State as such for the purposes of this Order under article 36 (certification of plans, etc);
+- “**outline CEMP**” means the document certified by the Secretary of State as the outline construction environmental management plan for the purposes of this Order in accordance with article 36 (certification of plans, etc);
+- “**outline CTMP**” means the document certified by the Secretary of State as the outline construction traffic management plan for the purposes of the Order in accordance with article 36 (certification of plans, etc);
+- “**outline DEMP**” means the document certified by the Secretary of State as the outline decommissioning environmental management plan for the purposes of this Order under article 36 (certification of plans, etc);
+- “**outline LEMP**” means the document certified by the Secretary of State as the outline landscape and ecological management plan for the purposes of this Order in accordance with article 36 (certification of plans, etc);
+- “**outline materials management plan**” means the document certified as such by the Secretary of State for the purposes of this Order under article 36 (certification of plans, etc);
+- “**outline pollution and spillage response plan**” means the document certified as such by the Secretary of State for the purposes of this Order under article 36 (certification of plans, etc);
+- “**outline public rights of way management plan**” means the document certified as such by the Secretary of State for the purposes of this Order under article 36 (certification of plans, etc);
+- “**outline site waste management plan**” means the document certified as such by the Secretary of State for the purposes of this Order under article 36 (certification of plans, etc);
+- “**outline soil resource management plan**” means the document certified as such by the Secretary of State for the purposes of this Order under article 36 (certification of plans, etc);
+- “**owner**”, in relation to land, has the same meaning as in section 7 (interpretation) of the Acquisition of Land Act 1981[^f00018];
+- “**plot**” means any plot as may be identified by reference to a number and which is listed in the book of reference and shown on the land plans;
+- “**public right of way**” includes any public right of way that is added to the definitive map and statement after the making of the Order;
+- “**relevant highway authority**” means the highway authority for the area to which the provision relates;
+- “**relevant planning authority**” means the local planning authority for the area to which the provision relates or, where the part falls within the administrative areas of multiple relevant planning authorities, each of the relevant planning authorities;
+- “**requirements**” means those matters set out in Schedule 2 (requirements) and a reference to a numbered requirement is a reference to the requirement set out in the paragraph of that Part of that Schedule with the same number;
+- “**site preparation works**” means all or any of—
+  - (a) environmental surveys, geotechnical surveys, intrusive archaeological surveys and other investigations for the purpose of assessing ground conditions, demolition of buildings and removal of plant and machinery;
+  - (b) above ground site preparation for temporary facilities for the use of contractors;
+  - (c) diversion and laying of services;
+  - (d) the provision of temporary means of enclosure and site security for construction;
+  - (e) the temporary display of site notices or advertisements; or
+  - (f) site clearance (including vegetation removal, demolition of existing buildings and structures);
+- “**solar panel**” means a solar photovoltaic panel designed to convert solar irradiance to direct current electrical energy fitted to a mounted structure;
+- “**special category land plans**” means the plans certified as such by the Secretary of State for the purposes of this Order under article 36 (certification of plans, etc);
+- “**statutory undertaker**” means any person falling within section 127(8) (statutory undertakers’ land) of the 2008 Act and includes a public communications provider defined by section 151(1) (interpretation of chapter 1) of the Communications Act 2003[^f00019];
+- “**street**” means a street within the meaning of section 48 (streets, street works and undertakers) of the 1991 Act, together with land on the verge of a street or between two carriageways, and includes any footpath or part of a street;
+- “**street authority**” in relation to a street, has the same meaning as in Part 3 of the 1991 Act[^f00020];
+- “**street works, public rights of way and access plan**” means the plan certified as such by the Secretary of State for the purposes of this Order under article 36 (certification of plans, etc)
+- “**subsidiary**” has the same meaning as in section 1159 of the Companies Act 2006[^f00021];
+- “**traffic authority**” has the same meaning as in section 121A (traffic authorities) of the 1984 Act;
+- “**transformer**” means a structure containing electrical switch gear serving to transform electricity generated by the solar panels and imported and exported by the batteries to a higher voltage;
+- “**trees and hedgerows to be removed plan**” means the plan appended to the arboricultural impact assessment setting out the extent of trees and hedgerows to be removed;
+- “**undertaker**” means RWE Renewables UK Solar and Storage Limited (company registration number 14539260) whose registered address is Windmill Hill Business Park, Whitehill Way, Swindon, Wiltshire, SN5 6PB and any other person who for the time being has the benefit of this Order in accordance with article 6 (consent to transfer benefit of Order);
+- “**watercourse**” includes all rivers, streams, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain;
+- “**working day**” means any day other than a Saturday, Sunday or English bank or public holiday; and
+- “**works plans**” means the plans certified by the Secretary of State as the works plans for the purposes of this Order in accordance with article 36 (certification of plans, etc);
+
+(2) All distances, directions, capacities and lengths referred to in this Order are approximate and distances between points on a numbered work are taken to be measured along that work.
+
+(3) Any reference in this Order to a work identified by the number of the work is to be construed as a reference to the work of that number as described in Schedule 1 (authorised development) and authorised by this Order.
+
+(4) In this Order “includes” must be construed without limitation unless the contrary intention appears.
+
+(5) References in this Order to any statutory body include that body’s successor bodies as from time to time have jurisdiction in relation to the authorised development.
+
+(6) References in this Order to rights over land include references to rights to do or restrain or to place and maintain anything in, on or under land or in the airspace above its surface and to any trusts or incidents (including restrictive covenants) to which the land is subject and references in this Order to the imposition of restrictive covenants are references to the creation of rights over land which interfere with the interests or rights of another and are for the benefit of land which is acquired under this Order or over which rights are created and acquired under this Order or is otherwise comprised in this Order.
+
+(7) All areas described in square metres in the book of reference are approximate.
+
+(8) References in this Order to any statute, order, regulation or similar instrument are to be construed as a reference to the statute, order, regulation or instrument as amended by any subsequent statute, order, regulation or instrument or as contained in any subsequent re-enactment.
+
+## Annotations
+
+[^key-bed35a27125a487d4b406c85a412d2b4]: Commencement: Art. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+
+[^f00005]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
+
+[^f00006]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^f00007]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00008]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).
+
+[^f00009]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00010]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^f00011]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00012]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22). Section 49(3A) was inserted by section 124(2) of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26). Sections 70(6), 74(7B), 74A(aa), and 88(6) were amended by section 40 of, and Schedule 1 to, the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
+
+[^f00013]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
+
+[^f00014]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^f00015]: Footnote: “**Footpath**” and “**footway**” are defined in section 329.
+
+[^f00016]: Footnote: “Highway” is defined in section 328(1) for “highway authority” see Section 1.
+
+[^f00017]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00018]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67)
+
+[^f00019]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00020]: Footnote: “street authority” is defined in section 49, which was amended by paragraph 117 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
+
+[^f00021]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).

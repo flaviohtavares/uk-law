@@ -1,0 +1,63 @@
+---
+title: The City of London (Non-Domestic Rating Multiplier) Order 1993
+id: uksi/1993/180
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-02-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/180
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/180/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The City of London (Non-Domestic Rating Multiplier) Order 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 180
+
+RATING AND VALUATION
+
+The City of London (Non-Domestic Rating Multiplier) Order 1993
+
+Made
+
+3rd February 1993
+
+Laid before Parliament
+
+4th February 1993
+
+Coming into force
+
+28th February 1993
+
+The Secretary of State for the Environment, in exercise of the powers conferred on him by paragraph 9(4) of Schedule 7 to the Local Government Finance Act 1988[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order–
+
+## 1. Citation and commencement
+
+This Order may be cited as the City of London (Non-Domestic Rating Multiplier) Order 1993 and shall come into force on 28th February 1993.
+
+## 2. Prescribed percentage
+
+The percentage prescribed for a chargeable financial year beginning in or after 1993 for the purposes of item B in paragraph 9(4) of Schedule 7 to the Local Government Finance Act 1988 is 99 per cent.
+
+Michael Howard
+
+Secretary of State for the Environment
+
+3rd February 1993
+
+(This note is not part of the Order)
+
+This Order makes provision in relation to the calculation of the required maximum below which the Common Council of the City of London must set its non-domestic rating multiplier for a financial year beginning in or after 1993. (The Common Council is the only billing authority which meets the definition of “special authority” set out in section 144(6) of the Local Government Finance Act 1988).
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Paragraph 9(4) of Schedule 7 was substituted by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 10, paragraph 5. See section 146(6) of the Local Government Finance Act 1988 for the definition of “prescribed”.

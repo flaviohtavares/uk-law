@@ -1,0 +1,59 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 147
+act: Income Tax (Earnings and Pensions) Act 2003
+section: '147'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/147
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 147
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 147. Classic cars: 15 years of age or more
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies in calculating the cash equivalent of the benefit of a car for a tax year if—
+
+- (a) the age of the car at the end of the year is 15 years or more,
+- (b) the market value of the car for the year is £15,000 or more, and
+- (c) that market value exceeds the interim sum calculated under[^key-77413396ca7291954f4ed8845a01d332] step 3 of section 121(1).
+
+(2) For the interim sum calculated under[^key-f18a6fead80a66fb52480630aa40f8c6] step 3 substitute the market value of the car for the tax year in question less any deductions under subsection (6).
+
+(3) The market value of a car for a tax year is the price which the car might reasonably have been expected to fetch on a sale in the open market on—
+
+- (a) the last day of that year, or
+- (b) the last day in that year on which the car is available to the employee if that is earlier.
+
+(4) It is assumed that any qualifying accessories available with the car on that day are included in the sale.
+
+(5) Subsection (6) applies if the employee contributes a capital sum to expenditure on the provision of—
+
+- (a) the car, or
+- (b) any qualifying accessory which is taken into account in determining the market value of the car.
+
+(6) A deduction is to be made from the market value of the car—
+
+- (a) for the tax year in which the contribution is made, and
+- (b) for all subsequent years in which the employee is chargeable to tax in respect of the car by virtue of section 120.
+
+(7) The amount of the deduction allowed in any tax year is the lesser of—
+
+- (a) the total of the capital sums contributed by the employee in that year and any earlier years to expenditure on the provision of—
+  - (i) the car, or
+  - (ii) any qualifying accessory which is taken into account in determining the market value of the car for the tax year in question, and
+- (b) £5,000.
+
+## Annotations
+
+[^key-77413396ca7291954f4ed8845a01d332]: Textual amendment: Words in s. 147(1) substituted (with effect in accordance with Sch. 28 para. 10(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/4)
+
+[^key-f18a6fead80a66fb52480630aa40f8c6]: Textual amendment: Words in s. 147(2) substituted (with effect in accordance with Sch. 28 para. 10(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/4)

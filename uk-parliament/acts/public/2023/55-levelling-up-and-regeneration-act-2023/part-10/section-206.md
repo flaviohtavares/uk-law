@@ -1,0 +1,56 @@
+---
+title: Levelling-up and Regeneration Act 2023, section 206
+act: Levelling-up and Regeneration Act 2023
+section: '206'
+status: revised-with-pending-changes
+text_date: '2026-10-20'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2023/55/section/206
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Levelling-up and Regeneration Act 2023, section 206
+
+> **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 206. Terms of tenancy[^key-ba628a0fde9c356a8dde5212261d083b][^key-54d9aa2a4fd84429fd4692f2b2413541][^key-305d236e54825a1a93b196a07e4b70e3]
+
+*Extent: E+W*
+
+(1) This section applies in relation to a tenancy the grant of which is agreed in a contract entered into under section 204.
+
+(2) If the interest of the landlord in the premises is such that the landlord could not grant a tenancy the term of which ended after a particular time, the term of the tenancy must not end after that time.
+
+(3) The tenancy must include terms requiring that the premises be used wholly or mainly for the suitable high-street use specified by the local authority ahead of the rental auction that preceded the contract.
+
+(4) If the rental auction involved the successful bidder indicating the amount of premium or rent that the successful bidder would be willing to pay, the premium or rent payable under the tenancy must, unless the landlord agrees otherwise, be of the amount indicated (subject to any term of the tenancy about review or deduction of rent).
+
+(5) The terms of the tenancy may include provision granting to the tenant interests or rights in or over land outside the premises in connection with tenant’s use of the premises.
+
+(6) The terms of the tenancy must include provision satisfying each of the descriptions set out in Schedule 21.
+
+(7) Regulations may—
+
+- (a) provide exceptions from subsection (6);
+- (b) provide further detail about the provision that is to be included in the terms of the tenancy by virtue of subsection (6);
+- (c) make other provision about the terms of the tenancy.
+
+(8) In making regulations under subsection (7), the Secretary of State must have regard to the terms on which short-term tenancies are typically granted on a commercial basis.
+
+(9) In deciding (so far as it has discretion to do so) on the terms of the tenancy, the local authority must have regard to any representations made by the landlord.
+
+(10) In this section—
+
+- “**the premises**” means the premises which are to be demised by the tenancy;
+- “**the landlord**” means the landlord of the premises.
+
+## Annotations
+
+[^key-ba628a0fde9c356a8dde5212261d083b]: Commencement: S. 206 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+
+[^key-54d9aa2a4fd84429fd4692f2b2413541]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/55/section/206) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/o)
+
+[^key-305d236e54825a1a93b196a07e4b70e3]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/55/section/206) in force at 2.12.2024 in so far as not already in force by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/d)

@@ -1,0 +1,462 @@
+---
+title: The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002
+id: uksi/2002/247
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-02-07'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2002/247
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/247/pdfs/uksi_20020247_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/247/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2002 No. 247
+
+PATENTS
+
+PLANT BREEDERS’ RIGHTS
+
+The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002
+
+Made
+
+7th February 2002
+
+Laid before Parliament
+
+8th February 2002
+
+Coming into force
+
+1st March 2002
+
+The Secretary of State, being a Minister designated[^c8703811] for the purposes of section 2(2) of the European Communities Act 1972[^c8703821] in relation to measures relating to the legal protection of biotechnological inventions, in exercise of powers conferred on her by the said section 2(2), and after consultation with the Council on Tribunals pursuant to section 8(1) of the Tribunals and Inquiries Act 1992[^c8703831], hereby makes the following Regulations[^c8703841]:
+
+## PART I — INTRODUCTORY
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 and shall come into force on 1st March 2002.
+
+(2) These Regulations extend to England, Wales, Scotland and Northern Ireland.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “the 1977 Act” means the Patents Act 1977 [^c8703851];
+- “the 1997 Act” means the Plant Varieties Act 1997 [^c8703861];
+- “biotechnological invention” has the meaning given by section 130 of the 1977 Act;
+- “Breeders’ regulations” means the Plant Breeders’ Regulations as extended and applied by regulation 23, unless and until the Ministers exercise their powers under sections 24, 26(2)(a), 28, 29, 44 and 48(1) of the 1997 Act as extended by regulation 21, at which time “Breeders’ regulations” shall refer to the regulations so made and in force;
+- [^key-8cebff7fb2dbefddcc9af54dec40c9e2]...
+- “Comptroller General of Patents” means the Comptroller-General of Patents, Designs and Trade Marks appointed under section 63(1) of the Patents and Designs Act 1907 [^c8703871];
+- “compulsory patent licence” means a licence ordered to be granted by the controllers under regulation 6;
+- “compulsory plant variety licence” means a licence granted by the controllers under regulation 13;
+- “Controller of Plant Variety Rights” means the officer appointed under section 2(1) of the 1997 Act;
+- “controllers” means the Controller of Plant Variety Rights and the Comptroller General of Patents acting jointly in accordance with the provisions of these Regulations;
+- [^key-66e9ba21abfebebb71999dd8cc4bdf2d]...
+- “court” means—
+  - (a) in England, Wales and Northern Ireland, the Patents Court of the High Court,
+  - (b) in Scotland, the Court of Session;
+- “Ministers” has the meaning given by section 49 of the 1997 Act;
+- “new plant variety” means the plant variety produced, or to be produced as the case may be, by using an invention protected by a patent;
+- “patent” has the meaning given by section 130 of the 1977 Act;
+- “Patents (Fees) Rules” means the fee payable under the Patents (Fees) Rules 1998 [^c8703901] in force immediately before the coming into force of these Regulations;
+- “Patents Rules” means the Patents Rules 1995 [^c8703911] in force immediately before the coming into force of these Regulations;
+- “plant breeders’ fee” means the fee payable under the Plant Breeders’ (Fees) Regulations as extended and applied by regulation 25, unless and until the Ministers exercise their powers to make regulations under sections 29 and 48(1) of the 1997 Act as extended by regulation 21 and prescribe a fee, at which time “plant breeders’ fee” shall mean that fee in respect of applications under these Regulations;
+- “Plant Breeders’ (Fees) Regulations” mean the Plant Breeders’ Rights (Fees) Regulations 1998 [^c8703921] in force immediately before the coming into force of these Regulations;
+- “Plant Breeders’ Regulations” means the Plant Breeders’ Rights Regulations 1998 [^c8703931] in force immediately before the coming into force of these Regulations;
+- “plant breeders’ right” means—[^key-64f0af9853c986001cc2b268b93fe58c]
+  - (a) any right granted under, or having effect as if granted under, section 3 of the 1997 Act (including existing rights as defined by section 40(4) of that Act); and
+  - (b) any right which by virtue of regulation 3 of the Plant Breeders’ Rights (Amendment etc.) (EU Exit) Regulations 2019 is treated as if it were a plant breeders’ right granted in accordance with the 1997 Act and as if the variety were registered in accordance with regulations under section 18(1)(c) of the 1997 Act;
+- “plant variety” has the meaning given by paragraph 11 of Schedule A2 to the 1977 Act [^c8703941];
+- “prescribed fee” means the fee payable under the Patents (Fees) Rules as extended and applied by regulation 24, unless and until the Secretary of State exercises her powers to make rules under section 123 of the 1977 Act as extended by regulation 20 and prescribes a fee, at which time “prescribed fee” shall mean that fee in respect of applications under these Regulations;
+- “rules” means the Patents Rules as extended and applied by regulation 22, unless and until the Secretary of State exercises her powers under section 123 of the 1977 Act as extended by regulation 20, at which time “rules” shall refer to the rules so made and in force;
+- “Tribunal” means the Plant Varieties and Seeds Tribunal referred to in section 42 of the 1997 Act; and
+- “UK” means England, Wales, Scotland and Northern Ireland.
+
+(2) Any reference to a numbered regulation is a reference to the regulation so numbered in these Regulations and any reference to a numbered paragraph is a reference to the paragraph so numbered in the regulation in which the reference occurs.
+
+## PART II — COMPULSORY PATENT LICENCES
+
+### 3. Applications
+
+(1) Where a person cannot acquire or exploit plant breeders’ rights [^key-177c3224186c6ca92da7fb7cc82e9109]... in a new variety without infringing a prior patent, he may apply in accordance with rules to the Comptroller General of Patents for a licence under the patent and on such application shall pay the prescribed fee.
+
+(2) An application under paragraph (1) shall be accompanied by particulars which seek to demonstrate that—
+
+- (a) the applicant cannot acquire or exploit plant breeders’ rights [^key-177c3224186c6ca92da7fb7cc82e9109]... without infringing a prior patent,
+- (b) the applicant has applied unsuccessfully to the proprietor of the prior patent concerned for a licence to use that patent to acquire or exploit plant breeders’ rights [^key-177c3224186c6ca92da7fb7cc82e9109]..., and
+- (c) the new plant variety, in which the applicant wishes to acquire or exploit the plant breeders’ rights [^key-177c3224186c6ca92da7fb7cc82e9109]..., constitutes significant technical progress of considerable economic interest in relation to the invention protected by the patent.
+
+(3) If and so far as any agreement purports to bind any person not to apply for a licence under paragraph (1), it shall be void.
+
+### 4. Proceedings before controllers
+
+On receipt by the Comptroller General of Patents of an application under regulation 3(1) and payment of the prescribed fee, the controllers shall consider and process the application in accordance with rules.
+
+### 5.
+
+(1) The proprietor of the patent concerned or any other person wishing to oppose an application under regulation 3(1) may, in accordance with rules, give to the Comptroller General of Patents notice of opposition and on giving such notice shall pay the prescribed fee.
+
+(2) On receipt of a notice of opposition under paragraph (1) and payment of the prescribed fee, the controllers, in deciding whether to grant an application under regulation 3(1), shall consider and process any opposition in accordance with rules.
+
+### 6. Grant
+
+Where, having considered the application made under regulation 3(1), the controllers are satisfied that—
+
+- (a) the applicant cannot acquire or exploit plant breeders’ rights [^key-303effc8285c71f6f71f76590af4a0c7]... without infringing a prior patent,
+- (b) the applicant has applied unsuccessfully to the proprietor of the patent concerned for a licence to use the prior patent to acquire or exploit plant breeders’ rights [^key-303effc8285c71f6f71f76590af4a0c7]..., and
+- (c) the new plant variety, in which the applicant wishes to acquire or exploit the plant breeders’ rights [^key-303effc8285c71f6f71f76590af4a0c7]..., constitutes significant technical progress of considerable economic interest in relation to the invention protected by the patent,
+
+the controllers shall order the grant to the applicant (or, where the applicant is a government department, shall order the grant to any person specified in the application) of a licence to use the invention protected by the prior patent in so far as the licence is necessary for the exploitation of the new plant variety on the conditions set out in regulation 7 and on such other terms as the controllers think fit.
+
+### 7. Conditions
+
+(1) A compulsory patent licence shall—
+
+- (a) not be exclusive,
+- (b) entitle the proprietor of the patent concerned to an appropriate royalty, and
+- (c) entitle the proprietor of the patent concerned to a cross licence on reasonable terms to use the new plant variety.
+
+(2) Where the controllers order the grant of a compulsory patent licence to a person who has been granted plant breeders’ rights in the new plant variety, the proprietor of the patent concerned may request, a cross licence on reasonable terms of the plant breeders’ rights to use the new plant variety in respect of which the compulsory patent licence has been granted and, on such request, the controllers shall order the grant of such a cross licence to that proprietor (or, where the proprietor of the patent is a government department, to any person specified in the request).
+
+(3) Where the controllers order the grant of a compulsory patent licence to a person who has yet to acquire plant breeders’ rights in the new plant variety, the proprietor of the patent concerned may request a cross licence on reasonable terms of the plant breeders’ rights to use the new plant variety in respect of which the compulsory patent licence has been granted and, on such request, the controllers shall order the grant of such a cross licence to that proprietor (or, where the proprietor of the patent is a government department, to any person specified in the request), and the cross licence shall come into effect on the grant to the holder of the compulsory patent licence of plant breeders’ rights in the new plant variety.
+
+(4)[^key-9fb940b8a93993c82d96c52298941cf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-9fb940b8a93993c82d96c52298941cf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Variation
+
+(1) On application at any time by a party to the Comptroller General of Patents in accordance with rules, the controllers may extend, limit or in any other respect vary an order for grant of a—
+
+- (a) compulsory patent licence, or
+- (b) cross licence under regulation 7(2) or 7(3),
+
+and extend, limit or in any other respect vary the licence granted under the order.
+
+(2) On receipt of an application under paragraph (1), the controllers shall consider and process the application in accordance with rules.
+
+### 9. Revocation
+
+(1) A party may, at any time, apply to the Comptroller General of Patents in accordance with rules to revoke an order for grant of—
+
+- (a) a compulsory patent licence, or
+- (b) cross licence under regulation 7(2) or 7(3),
+
+if the circumstances which led to the order for grant have ceased to exist or are unlikely to recur.
+
+(2) On receipt by the Comptroller General of Patents of an application under paragraph (1), the controllers shall consider and process the application in accordance with rules and if the controllers are satisfied that the circumstances which led to an order for grant of a—
+
+- (a) compulsory patent licence, or
+- (b) cross licence under regulation 7(2) or 7(3),
+
+have ceased to exist or are unlikely to recur, the controllers may revoke the order and terminate the licence granted under the order, subject to such terms and conditions as they think necessary for the protection of the legitimate interests of the holder of the compulsory patent licence or the cross licence ordered to be granted under regulation 7(2) or 7(3).
+
+### 10.
+
+In regulations 8 and 9, “party” means the proprietor of the patent concerned or the applicant, as the case may be, in an application under regulation 3(1) or their respective successors in title.
+
+## PART III — COMPULSORY PLANT VARIETY LICENCES
+
+### 11. Applications
+
+(1) Where a proprietor of a patent for a biotechnological invention cannot exploit a biotechnological invention protected by the patent without infringing prior plant breeders’ rights, he may apply in accordance with Breeders’ regulations to the Controller of Plant Variety Rights for a licence and on such application shall pay the plant breeders’ fee.
+
+(2) An application under paragraph (1) shall be accompanied by particulars which seek to demonstrate that—
+
+- (a) the proprietor of the patent for a biotechnological invention cannot exploit the biotechnological invention protected by the patent without infringing prior plant breeders’ rights,
+- (b) the proprietor of the patent has unsuccessfully applied to the holder of the prior plant breeders’ rights for a licence, and
+- (c) the biotechnological invention protected by the patent constitutes significant technical progress of considerable economic interest in relation to the plant variety protected by the prior plant breeders’ rights.
+
+(3) If and so far as any agreement purports to bind any person not to apply for a licence under paragraph (1), it shall be void.
+
+### 12. Proceedings before controllers
+
+(1) On receipt by the Controller of Plant Varieties of an application under regulation 11(1) and payment of the appropriate plant breeders’ fee, the controllers shall consider and process the application in accordance with Breeders’ regulations.
+
+(2) In proceedings before them in relation to an application under regulation 11(1), 16(1) or 16(2) the controllers, in addition to any powers conferred by Breeders’ regulations, may give such directions as they think fit with regard to the subsequent procedure.
+
+(3) Any person entitled under Breeders’ regulations to make written or oral representations on an application under regulation 11(1), 16(1) or 16(2) shall do so in accordance with Breeders’ regulations and shall pay the appropriate plant breeders’ fee.
+
+### 13. Grant
+
+Where, having considered the application under regulation 11(1), the controllers are satisfied that—
+
+- (a) the proprietor of a patent for a biotechnological invention cannot exploit the biotechnological invention protected by the patent without infringing prior plant breeders’ rights,
+- (b) the proprietor of the patent has unsuccessfully applied to the holder of the prior plant breeders’ rights for a licence, and
+- (c) the biotechnological invention protected by the patent constitutes significant technical progress of considerable economic interest in relation to the plant variety protected by the prior plant breeders’ rights,
+
+the controllers shall grant to the proprietor of the patent for the biotechnological invention (or, where the proprietor is a government department, to any person specified in the application) a licence to use the plant variety protected by prior plant breeders rights on the conditions set out in regulation 14 and on such other terms as the controllers see fit.
+
+### 14. Conditions
+
+(1) A compulsory plant variety licence shall—
+
+- (a) not be exclusive,
+- (b) entitle the holder of the plant breeders’ rights concerned to an appropriate royalty, and
+- (c) entitle the holder of the plant breeders’ rights concerned to a cross licence on reasonable terms to use the biotechnological invention protected by the patent.
+
+(2) Where the controllers grant a compulsory plant variety licence to a proprietor of a patent for a biotechnological invention, the holder of the plant breeders’ rights concerned may request the grant of a cross licence on reasonable terms to use the biotechnological invention protected by the patent and, on such request, the controllers shall grant such cross licence to the holder of plant breeders’ rights (or, where the holder is a government department, to any person specified in the request).
+
+### 15. Community plant variety rights: cross licences of patents[^key-b1dc9ebc2e2c6098c7e790af95566020]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Variation and revocation
+
+(1) Any person may at any time apply to the Controller of Plant Variety Rights in accordance with Breeders’ regulations to extend, limit or in any other respect vary a compulsory plant variety licence or cross licence granted under regulation 14(2) and, on making such application shall pay the appropriate plant breeders’ fee, and on receipt by the Controller of Plant Varieties of the application and the fee, the controllers shall consider and process the application and may extend, limit or in any other respect vary the compulsory plant variety licence or cross licence granted under regulation 14(2).
+
+(2) Any person may at any time apply to the Controller of Plant Variety Rights in accordance with Breeders’ regulations to revoke the grant of a compulsory plant variety licence or a cross licence under regulation 14(2) if the circumstances which led to the grant of the compulsory patent licence or the cross licence under regulation 14(2) have ceased to exist or are unlikely to recur and, on making such application, the applicant shall pay the appropriate plant breeders’ fee.
+
+(3) On receipt of an application under paragraph (2) and payment of the appropriate plant breeders’ fee, the controllers shall consider and process the application in accordance with Breeders’ regulations and if the controllers are satisfied that the circumstances which led to the grant of the compulsory plant variety licence or the cross licence under regulation 14(2) have ceased to exist or are unlikely to recur, the controllers may revoke the grant of the compulsory plant variety licence or the cross licence under regulation 14(2), subject to such terms and conditions as they think necessary for the protection of the legitimate interests of the holder of the compulsory plant variety licence or cross licence granted under regulation 14(2).
+
+(4)[^key-a1d248411dd86675a27f9462414c4058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-a1d248411dd86675a27f9462414c4058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-a1d248411dd86675a27f9462414c4058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-a1d248411dd86675a27f9462414c4058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART IV — APPEALS AND GENERAL PROVISIONS
+
+### 17. Appeals
+
+(1) An appeal lies from a decision of the controllers or Comptroller General of Patents under these Regulations.
+
+(2)[^key-6bb61595d86a6b56bcc88ff2f5905cf2] Where a decision of the controllers relates to a compulsory patent licence or cross licence ordered to be granted under regulation 7(2) or 7(3), an appeal may be made to the court.
+
+(3) Where a decision of the controllers relates to a compulsory plant variety licence or cross licence of a patent for a biotechnological invention granted under regulation 14(2), an appeal may be brought to the Tribunal as if the decision of the controllers were one made by the Controller of Plant Variety Rights under section 17, and referred to in section 26(1)(c), of the 1997 Act and section 45 of the 1997 Act shall apply accordingly.
+
+### 18.
+
+The Secretary of State shall draw up and from time to time revise a panel of persons who have specialised knowledge of biotechnological inventions.
+
+### 19.
+
+(1) Subject to paragraph (2), appeals to the Tribunal under regulation 17(3) shall be governed by the provisions of Part II of the 1997 Act and Breeders’ regulations.
+
+(2) The provisions of Schedule 3 to the 1997 Act shall apply to appeals under regulation 17(3) with the following modifications—
+
+- (a) paragraph 1(b) of Schedule 3 shall be treated as if it referred to a member of the panel constituted under regulation 18; and
+- (b) the panels referred to in paragraph 8(1) of Schedule 3 to the 1997 Act shall be treated as including the panel constituted under regulation 18.
+
+### 20. Extension of powers to make rules and regulations
+
+The power of the Secretary of State to make rules under section 123 of the 1977 Act shall be extended so as to permit her to make rules regulating the business of the Patent Office in respect of—
+
+- (a) applications for the grant of licences under regulation 3(1)[^key-12f02965022afc93e7c48efa4c688511],
+- (b) applications under regulation 8[^key-6dd078cbac506bf1d3dc6e21f2155daa] for variation and under regulation 9[^key-d9a27665b2bd22965e3d5dfcf8b14556] for revocation of compulsory patent licences and cross licences,
+- (c) proceedings before the controllers or the Comptroller General of Patents as the case may be in relation to applications in sub-paragraphs (a) and (b),
+- (d) fees, and
+- (e) other matters related to or arising under these Regulations,
+
+and section 124 of the 1977 Act shall apply accordingly.
+
+### 21.
+
+The powers of the Ministers to make regulations under sections 24, 26(2)(a), 28, 29, 44, and 48(1) of the 1997 Act shall be extended so as to permit them to make regulations in respect of—
+
+- (a) applications for the grant of licences under regulation 11(1),
+- (b) applications under regulation 16(1) for variation and under regulation 16(2) for revocation of compulsory plant variety licences and cross licences,
+- (c) proceedings before the controllers in relation to applications in sub-paragraphs (a) and (b),
+- (d) appeals from the decisions of the controllers in relation to such applications,
+- (e) fees, and
+- (f) other matters related to or arising under these Regulations,
+
+and section 48(2) to (5) of the 1997 Act shall apply accordingly.
+
+### 22. Application of existing rules and regulations
+
+(1) Subject to the exercise by the Secretary of State of her powers under section 123 of the 1977 Act as extended by regulation 20, the Patents Rules in respect of—
+
+- (a) applications for the grant and revocation of compulsory licences under section 48(1) of the 1977 Act including forms,
+- (b) proceedings before the Comptroller General of Patents in relation to—
+  - (i) the grant of such applications, and
+  - (ii) the revocation of compulsory licences granted under section 48(1) of the 1977 Act, and
+- (c) other matters provided for in the Patents Rules related to applications and proceedings in respect of such compulsory licences,
+
+shall, subject to paragraph (2), extend and apply to and be taken to make corresponding provision in respect of applications for the grant of licences under regulation 3(1), proceedings before the controllers in relation to the grant of such applications, the variation or revocation of compulsory patent licences and cross licences under regulation 7(2) and 7(3)[^key-8bf7ecfbe7de5dd980b64a3555f6b3f6] , and other matters related to or arising under these Regulations.
+
+(2) For the purposes of paragraph (1), the Patents Rules shall have effect as if a reference to the Comptroller General of Patents in the Patents Rules were to the controllers, with any necessary modifications[^key-2866565c6861f9db972933cc73b62150].
+
+### 23.
+
+Subject to the exercise by the Ministers of their powers under sections 24, 26(2)(a), 28, 29, 44 and 48(1) of the 1997 Act as extended by regulation 21, the Plant Breeders’ Regulations in respect of—
+
+- (a) applications for the grant, variation and revocation of compulsory licences under section 17(1) of the 1997 Act,
+- (b) proceedings before the Controller of Plant Variety Rights in relation to—
+  - (i) the grant of such applications, and
+  - (ii) the variation or revocation of compulsory licences granted under section 17(1) of the 1997 Act,
+- (c) appeals to the Tribunal, and
+- (d) other matters provided for in the Plant Breeders’ Regulations related to applications and proceedings in respect of such compulsory licences,
+
+shall, subject to paragraphs (2) and (3), extend and apply to and be taken to make corresponding provision in respect of applications under regulation 11(1), proceedings before the controllers in relation to such applications, the variation or revocation of compulsory plant variety licences and cross licences granted under regulation 14(2), appeals to the Tribunal and other matters related to or arising under these Regulations.
+
+(2) For the purposes of paragraph (1), the Plant Breeders’ Regulations shall have effect as if a reference to the Controller of Plant Variety Rights in the regulations were to the controllers and with any other necessary modifications.
+
+(3) Regulation 10 of the Plant Breeders’ Regulations shall not extend and apply to and shall not be taken to make corresponding provision in these Regulations.
+
+### 24.
+
+Subject to the exercise by the Secretary of State of her powers under section 123 of the 1977 Act as extended by regulation 20, the Patents (Fees) Rules in respect of—
+
+- (a) making an application for the grant of compulsory licences under section 48(1) of the 1977 Act, and
+- (b) giving a notice of opposition to an application made under section 48,
+
+shall extend and apply to and be taken to make corresponding provision in respect of an application for a licence under regulation 3(1) [^key-ab0e53d637c7a1989a075bd626d28212]..., and giving a notice of opposition under regulation 5(1).
+
+### 25.
+
+Subject to the exercise by the Ministers of their powers under sections 29 and 48(1) of the 1997 Act as extended by regulation 21, the Plant Breeders’ (Fees) Regulations in respect of—
+
+- (a) applications for the grant of compulsory licences under section 17(1) of the 1997 Act,
+- (b) applications to extend, limit, vary or revoke such licences,
+- (c) making representations in writing to the Controller, and
+- (d) attending to be heard by the Controller,
+
+shall extend and apply to and be taken to make corresponding provision in respect of an application for a licence under regulation 11(1), applications to extend, limit, vary or revoke compulsory plant variety licences and cross licences granted under regulation 14(2), and proceedings before the controllers referred to in regulation 12.
+
+### 26. Application of 1977 and 1997 Acts
+
+(1) Subject to paragraphs (2) and (3), the provisions of the 1977 Act in respect of—
+
+- (a) proceedings before the Comptroller General of Patents,
+- (b) decisions of the Comptroller General of Patents including orders for grant of compulsory licences,
+- (c) legal proceedings in respect of appeals from the Comptroller General of Patents, and
+- (d) other matters,
+
+as and to the extent they relate to compulsory licences under section 48(1), shall extend and apply to and be taken to make corresponding provision in the UK in respect of proceedings before the controllers, decisions of the controllers including orders for the grant, variation and revocation, of compulsory patent licences and cross licences ordered to be granted under regulation 7(2) and 7(3)[^key-22eceef7b8d89bd7483e871870afc57e], legal proceedings in respect of appeals from the controllers and other matters related to compulsory patent licences and cross licences ordered to be granted under regulation 7(2) and 7(3) arising under these Regulations.
+
+(2) An application for a licence under regulation 3(1) is additional to any application an applicant may make under section 48 of the 1977 Act but the provisions of sections 48, 48A, 48B, 49, 50 and 52 do not extend and apply to and shall not be taken to make corresponding provision in respect of compulsory patent licences and cross licences ordered to be granted under these Regulations.
+
+(3) For the purposes of paragraph (1), the provisions of the 1977 Act shall have effect as if a reference to the Comptroller General of Patents were to the controllers, other than in relation to applications under regulation 16(3)[^key-c289ed833e71e915149ae2e72848ec47], and with any other necessary modifications.
+
+### 27.
+
+(1) Subject to regulation 19(2) and paragraphs (2) and (3) of this regulation, the provisions of the 1997 Act in respect of—
+
+- (a) proceedings before the Controller of Plant Variety Rights,
+- (b) decisions of the Controller of Plant Variety Rights in relation to compulsory licences,
+- (c) appeals from the Controller of Plant Variety Rights to the Tribunal,
+- (d) appeals from the Tribunal, and
+- (e) other matters,
+
+as and to the extent they relate to compulsory licences under section 17(1), shall extend and apply to and be taken to make corresponding provision in respect of proceedings before the controllers, decisions of the controllers including the grant, variation and revocation of compulsory plant variety licences and cross licences granted under regulation 14(2), appeals from the controllers and other matters related to compulsory plant variety licences and cross licences granted under regulation 14(2) arising under these Regulations.
+
+(2) An application for a licence under regulation 11(1) is additional to any application an applicant may make under section 17 of the 1997 Act but the provisions of sections 17 and 23 of the 1997 Act do not extend and apply to and shall not be taken to make corresponding provision in respect of compulsory plant variety licences and cross licences under these Regulations.
+
+(3) For the purposes of paragraph (1), the provisions of the 1997 Act shall have effect as if a reference to the Controller of Plant Variety Rights were to the controllers and with any other necessary modifications.
+
+Melanie Johnson
+
+Parliamentary Under-Secretary of State for Competition, Consumers and Markets
+
+Department of Trade and Industry
+
+*(This note does not form part of the Regulations)*
+
+These Regulations implement Article 12 of Directive [98/44/EC](https://www.legislation.gov.uk/european/directive/1998/0044) of the European Parliament and of the Council on the legal protection of biotechnological inventions (OJ No. L 213, 30.7.98, p. 13). Articles 1 to 11 of that Directive have been implemented by the Patents Regulations 2000 (S.I. 2000/2037) and Articles 13 and 14 by the Patents (Amendment) Rules 2001 (S.I. 2001/1412).
+
+These Regulations enable the Comptroller General of Patents, Designs and Trade Marks and the Controller of Plant Variety Rights, acting jointly, to grant non-exclusive compulsory licences and cross licences where the exploitation of a patent would infringe a plant variety right and vice versa (regulations 6 and 13).
+
+In these circumstances an applicant for a compulsory patent or plant variety licence must show that he has applied unsuccessfully to the respective patent or plant variety right holder to obtain a licence (regulations 3(2)(b) and 11(2)(b)).
+
+In the case of an application for a compulsory patent licence, the applicant must also show that the new plant variety, in which he wishes to acquire or exploit the plant breeders’ rights or a Community plant variety right, constitutes significant technical progress of considerable economic interest in relation to the invention protected by a prior patent (regulation 3(2)(c)).
+
+In the case of an application for a compulsory plant variety licence, the proprietor of a patent for a biotechnological invention must also show that his invention constitutes significant technical progress of considerable economic interest in relation to the existing plant variety protected by prior plant breeders’ rights (regulation 11(2)(c)).
+
+Where a compulsory licence has been granted, the holder of plant breeders’ rights or proprietor of a patent for a biotechnological invention, in respect of whose rights the compulsory licence has been granted, is entitled to payment of an appropriate royalty and the grant of a cross licence on reasonable terms (regulations 7 and 14).
+
+Where the Community Plant Variety Office has granted a compulsory exploitation right in respect of a Community plant variety right to a proprietor of a patent for a biotechnological invention who could not otherwise exploit his invention in the UK without infringing the prior Community plant variety right, the holder of the Community plant variety right concerned may apply to the Comptroller General of Patents, Designs and Trade Marks for a cross licence to use the biotechnological invention protected by the patent (regulation 15).
+
+Part IV of these Regulations makes provisions for appeals (regulations 17 to 19). The route of appeal depends upon the nature of the main compulsory licence which forms the subject matter of the controllers’ decision appealed from.
+
+If the decision appealed from relates to the grant of a compulsory patent licence, the appeal is to the Patents Court of the High Court. An appeal lies also to the Patents Court of the High Court in respect of a cross licence granted under regulation 7(2) or 7(3) as a condition of the grant of the compulsory patent licence.
+
+If the decision appealed from relates to the grant of a compulsory plant variety licence or cross licence of a patent for a biotechnological invention (granted under regulation 14(2) as a result of the grant of the compulsory plant variety licence), the appeal is to the Plant Variety and Seeds Tribunal (regulations 17 to 19) and subsequently, on points of law only, to the High Court.
+
+The respective powers of the Secretary of State and Ministers to make rules and regulations under the relevant primary legislation have been extended so as to permit them to make rules and regulations governing applications and proceedings under these Regulations (regulations 20 and 21).
+
+Subject to the exercise of extended powers, existing procedures and fees for applications and proceedings in the relevant primary and subordinate legislation relating to compulsory licences apply to applications for compulsory licences under these Regulations as if these applications were made under section 48(1) of the Patents Act 1977 and section 17(1) of the Plant Varieties Act 1997 respectively (regulations 22 to 25).
+
+The provisions of primary legislation extend and apply to matters provided for in these Regulations with any necessary modifications (regulations 26 and 27).
+
+A regulatory impact assessment and transposition note are available, copies of which have been placed in the libraries of both Houses of Parliament. Copies of the assessment and transposition note are also available from the Intellectual Property Policy Directorate of the Patent Office, Room 3B38, Concept House, Cardiff Road, Newport NP10 8QQ.
+
+## Annotations
+
+[^c8703811]: Marginal citation: [S.I. 2000/738](https://www.legislation.gov.uk/uksi/2000/738).
+
+[^c8703821]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c8703831]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^c8703841]: Marginal citation: In accordance with section 88(2) of the Scotland Act 1998, the Secretary of State has consulted the Scottish Ministers.
+
+[^c8703851]: Marginal citation: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37).
+
+[^c8703861]: Marginal citation: [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66).
+
+[^key-8cebff7fb2dbefddcc9af54dec40c9e2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/247/regulation/2/1) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/801/regulation/7/2/a) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c8703871]: Marginal citation: [1907 c. 29](https://www.legislation.gov.uk/ukpga/1907/29) and see [section 130](https://www.legislation.gov.uk/ukpga/1907/29/section/130) of the Patents Act 1977.
+
+[^key-66e9ba21abfebebb71999dd8cc4bdf2d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/247/regulation/2/1) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/801/regulation/7/2/b) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c8703901]: Marginal citation: [S.I. 1998/1778](https://www.legislation.gov.uk/uksi/1998/1778) as amended by [S.I. 1999/1093](https://www.legislation.gov.uk/uksi/1999/1093).
+
+[^c8703911]: Marginal citation: [S.I. 1995/2093](https://www.legislation.gov.uk/uksi/1995/2093) as amended by [S.I. 1999/1092](https://www.legislation.gov.uk/uksi/1999/1092), [S.I](https://www.legislation.gov.uk/uksi/1999/1092/section/I). 1999/1899, [S.I. 1999/3197](https://www.legislation.gov.uk/uksi/1999/3197) and [S.I. 2001/1412](https://www.legislation.gov.uk/uksi/2001/1412).
+
+[^c8703921]: Marginal citation: [S.I. 1998/1021](https://www.legislation.gov.uk/uksi/1998/1021) as amended by [S.I. 1998/1089](https://www.legislation.gov.uk/uksi/1998/1089) and [S.I. 2001/3630](https://www.legislation.gov.uk/uksi/2001/3630).
+
+[^c8703931]: Marginal citation: [S.I. 1998/1027](https://www.legislation.gov.uk/uksi/1998/1027).
+
+[^key-64f0af9853c986001cc2b268b93fe58c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/247/regulation/2/1) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2019/801/regulation/7/2/c) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2020/1050/regulation/29), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c8703941]: Marginal citation: Schedule A2 was inserted by the Patents Regulations 2000, [S.I. 2000/2037](https://www.legislation.gov.uk/uksi/2000/2037).
+
+[^key-177c3224186c6ca92da7fb7cc82e9109]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2002/247/regulation/3) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/8/2) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-303effc8285c71f6f71f76590af4a0c7]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2002/247/regulation/6) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/8/2) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9fb940b8a93993c82d96c52298941cf6]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2002/247/regulation/7/4)[(5)](https://www.legislation.gov.uk/uksi/2002/247/regulation/7/5) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/801/regulation/9) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b1dc9ebc2e2c6098c7e790af95566020]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2002/247/regulation/15) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/801/regulation/10) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a1d248411dd86675a27f9462414c4058]: Textual amendment: [Reg. 16(4)-(7)](https://www.legislation.gov.uk/uksi/2002/247/regulation/16/4) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/801/regulation/11) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6bb61595d86a6b56bcc88ff2f5905cf2]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2002/247/regulation/17/2) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/801/regulation/12) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-12f02965022afc93e7c48efa4c688511]: Textual amendment: Words in [reg. 20(a)](https://www.legislation.gov.uk/uksi/2002/247/regulation/20/a) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/13/2) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6dd078cbac506bf1d3dc6e21f2155daa]: Textual amendment: Words in [reg. 20(b)](https://www.legislation.gov.uk/uksi/2002/247/regulation/20/b) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2019/801/regulation/13/3/a) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d9a27665b2bd22965e3d5dfcf8b14556]: Textual amendment: Words in [reg. 20(b)](https://www.legislation.gov.uk/uksi/2002/247/regulation/20/b) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2019/801/regulation/13/3/b) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8bf7ecfbe7de5dd980b64a3555f6b3f6]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2002/247/regulation/22/1) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/14/2) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2866565c6861f9db972933cc73b62150]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2002/247/regulation/22/2) substituted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/14/3) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ab0e53d637c7a1989a075bd626d28212]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2002/247/regulation/24) omitted (31.12.2020) by virtue of [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/801/regulation/15) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-22eceef7b8d89bd7483e871870afc57e]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2002/247/regulation/26/1) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/16/2) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c289ed833e71e915149ae2e72848ec47]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2002/247/regulation/26/3) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/16/3) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -1,0 +1,279 @@
+---
+title: The Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015
+id: uksi/2015/345
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-23'
+text_date: '2018-04-11'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2015/345
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/345/pdfs/uksiem_20150345_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/345/pdfs/uksi_20150345_280218_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/345/pdfs/uksi_20150345_300617_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/345/pdfs/uksi_20150345_290216_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/345/pdfs/uksi_20150345_310815_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/345/pdfs/uksi_20150345_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/345/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015
+
+> Text as at 2018-04-11.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2015 No. 345
+
+Social Security
+
+The Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015
+
+Made
+
+23rd February 2015
+
+Laid before Parliament
+
+26th February 2015
+
+Coming into force
+
+6th April 2016
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred by section 42(2) and (3) of, and paragraph 4(1), (3)(a) and (4) of Schedule 1 to, the Welfare Reform Act 2012[^f00001], makes the following Regulations:
+
+In accordance with section 172(1) of the Social Security Administration Act 1992, the Secretary of State has referred the proposals for these Regulations to the Social Security Advisory Committee.
+
+## 1. Citation and commencement[^key-73f60ce6fd2d4060aa50bfeddd9da6ae]
+
+These Regulations may be cited as the Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015 and come into force on 11th April 2018[^key-f41bf09c460195bf2fbaa51bb6cca649].
+
+## 2. Carry forward of surplus earnings[^key-373d6c9bbe7b776f0775edc2b0424c26]
+
+(1) The Universal Credit Regulations 2013[^f00002] are amended as follows.
+
+(2) After regulation 54 (calculation of earned income – general principles) insert—
+
+> **54A. Surplus earnings[^key-803845fdabe786384e59137ddb954ab8]**
+>
+> (1) This regulation applies in relation to a claim for universal credit where—
+>
+> - (a) the claimant, or either of joint claimants, had an award of universal credit (the “old award”) that terminated within the 6 months ending on the first day in respect of which the claim is made;
+> - (b) the claimant has not, or neither of joint claimants has, been entitled to universal credit since the old award terminated; and
+> - (c) the total earned income in the month that would have been the final assessment period for the old award, had it not terminated, exceeded the relevant threshold.
+>
+> (2) Where this regulation applies in relation to a claim, any surplus earnings determined in accordance with paragraph (3) are to be treated as earned income for the purposes of determining whether there is entitlement to a new award and, if there is entitlement, calculating the amount of the award.
+>
+> (3) Surplus earnings are—
+>
+> - (a) if the claim in question is the first since the termination of the old award, the amount of the excess referred to in paragraph (1)(c) (“the original surplus”);
+> - (b) if the claim in question is the second since the termination of the old award, the amount, if any, by which—
+>   - (i) the original surplus, plus
+>   - (ii) the total earned income in the month that would have been the first assessment period in relation to the first claim,
+>
+>   exceeded the relevant threshold (“the adjusted surplus”);
+> - (c) if the claim in question is the third since the termination of the old award, the amount, if any, by which—
+>   - (i) the adjusted surplus from the second claim, plus
+>   - (ii) the total earned income in the month that would have been the first assessment period in relation to the second claim,
+>
+>   exceeded the relevant threshold;
+> - (d) if the claim in question is the fourth or fifth since the termination of the old award, an amount calculated in the same manner as for the third claim (that is by taking the adjusted surplus from the previous claim).
+>
+> (4) For the purposes of paragraph (3)—
+>
+> - (a) if the claim in question is the first joint claim by members of a couple, each of whom had an old award (because each was previously entitled to universal credit as a single person or as a member of a different couple), the amounts of any surplus earnings from the old award or from a previous claim that would have been treated as earned income if they had each claimed as a single person are to be aggregated; and
+> - (b) if the claim in question is—
+>   - (i) a single claim where the claimant had an old award, or made a subsequent claim, as a joint claimant, or
+>   - (ii) a joint claim where either claimant had an old award, or made a subsequent claim, as a member of a different couple,
+>
+>   the original surplus, or any adjusted surplus, in relation to the old award is to be apportioned in the manner determined by the Secretary of State.
+>
+> (5) No amount of surplus earnings is to be taken into account in respect of a claimant who has, or had at the time the old award terminated, recently been a victim of domestic violence (within the meaning given by regulation 98).
+>
+> (6) In this regulation—
+>
+> - “total earned income” is the earned income of the claimant or, if the claimant is a member of a couple, the couple's combined earned income, but does not include any amount a claimant would be treated as having by virtue of regulation 62 (the minimum income floor);
+> - “the nil UC threshold” is the amount of total earned income above which there would be no entitlement to universal credit, expressed by the following formula—
+>
+>   [formula: see source](https://www.legislation.gov.uk/uksi/2015/345)
+>
+>   where—
+>
+>   M is the maximum amount of an award of universal credit;
+>
+>   U is unearned income;
+>
+>   WA is the work allowance; and
+> - “the relevant threshold” is the nil UC threshold plus £300.
+
+.
+
+(3) In regulation 62 (minimum income floor)[^f00006] after paragraph (4) insert—
+
+> (4A) Where this regulation applies in respect of an assessment period in which surplus earnings are treated as an amount of earned income under regulation 54A (surplus earnings), that amount is to be added to the claimant’s earned income before this regulation is applied and, in the case of joint claimants, it is to be added to the earned income of either member of the couple so as to produce the lowest possible amount of combined earned income after this regulation is applied.
+
+.
+
+## 3. Self-employed earnings – treatment of losses[^key-ac67785787301f6b5bd1eeafc3fed64e]
+
+(1) The Universal Credit Regulations 2013 are amended as follows.
+
+(2) In regulation 57 (self-employed earnings) for paragraphs (2) and (3) substitute—
+
+> (2) A person’s self-employed earnings in respect of an assessment period are to be calculated as follows.
+>
+> *Step 1*
+>
+> - Calculate the amount of the person’s profit or loss in respect of each trade, profession or vocation carried on by the person by—
+>   - (a) taking the actual receipts in that assessment period; and
+>   - (b) deducting any amounts allowed as expenses under regulation 58 or 59.
+> - Where a trade, profession or vocation is carried on in a partnership, take the amount of the profit or loss attributable to the person’s share in the partnership.
+>
+> *Step 2*
+>
+> - If the person has carried on more than one trade, profession or vocation in the assessment period, add together the amounts resulting from step 1 in respect of each trade, profession or vocation.
+>
+> *Step 3*
+>
+> - Deduct from the amount resulting from step 1 or (if applicable) step 2 any payment made by the person to HMRC in the assessment period by way of national insurance contributions or income tax in respect of any trade, profession or vocation carried on by the person[^key-b1d8b97238e7ce17090e9ad4f5311544].
+> - If the amount resulting from steps 1 to 3 is nil or a negative amount, the amount of the person’s self-employed earnings in respect of the assessment period is nil (and ignore the following steps).
+>
+> *Step 4*
+>
+> - If the amount resulting from step 3 is greater than nil, deduct from that amount any relievable pension contributions made by the person in the assessment period (unless a deduction has been made in respect of those contributions in calculating the person’s employed earnings).
+> - If the amount resulting from this step is nil or a negative amount, the person’s self-employed earnings in respect of the assessment period are nil (and ignore the following step).
+>
+> *Step 5*
+>
+> - If the amount resulting from step 4 is greater than nil, deduct from that amount any unused losses (see regulation 57A), taking the oldest first.
+> - If the amount resulting from this step is greater than nil, that is the amount of the person’s self-employed earnings for the assessment period.
+> - If the amount resulting from this step is nil or a negative amount, the amount of the person’s self-employed earnings in respect of the assessment period is nil.
+
+.
+
+(3) In regulation 57(4) for “paragraph (3)” substitute “paragraph (2)”.
+
+(4) After regulation 57 insert—
+
+> **57A. Unused losses**
+>
+> (1) For the purposes of regulation 57(2), a person has an unused loss if—
+>
+> - (a) in calculating the person’s self-employed earnings for any of the previous [^key-9c790f25a1960df1cf3f64b8cf19daf3]... assessment periods, the amount resulting from steps 1 to 3 in regulation 57(2) was a negative amount (a “loss”); and
+> - (b) the loss has not been extinguished in a subsequent assessment period.
+>
+> (2) For the purposes of paragraph (1)(b) a loss is extinguished if no amount of that loss remains after it has been deducted at step 5 in regulation 57(2).
+>
+> (3) Where a person was entitled to a previous award of universal credit and the last day of entitlement in respect of that award fell within the 6 months preceding the first day of entitlement in respect of the new award, the Secretary of State may, for the purposes of this regulation (provided the person provides such information as the Secretary of State requires), treat—[^key-adb4e8c7a25925d05ccf7aa8ee074192]
+>
+> - (a) the assessment periods under the previous award; and
+> - (b) any months between that award and the current award in respect of which a claim has been made,
+>
+> as assessment periods under the current award.
+
+.
+
+(5) In regulation 58 (permitted expenses) in paragraph (3) omit sub-paragraph (b).
+
+## 4. Saving[^key-f00d7b660ee8a4f6430e13c92b53f582][^key-469ee374fe7aa49b8a5ce5a6367ef671]
+
+(1) The amendments made by these Regulations do not apply to an award of universal credit unless it is—
+
+- (a) an award to which a person has become entitled by reference to residence in a digital service area (whether or not the person is still living in that area);
+- (b) an award to which a person who is living in a digital service area is entitled (whether or not the person was living in that area at the time that person became entitled);
+- (c) an award, not falling within sub-paragraph (a) or (b), to which a person who has lived in a digital service area at any time after it became a digital service area is entitled but only if that award has been administered on the digital service computer system;
+- (d) an award not falling within sub-paragraphs (a) to (c)—
+  - (i) which is made to members of a couple jointly as a consequence of a previous award having ended when the couple formed, or
+  - (ii) which is made to a single claimant as a consequence of a previous award having ended when the claimant ceased to be a member of a couple,
+
+  where that previous award was administered on the digital service computer system.
+
+(2) Where the date on which these Regulations first apply to an existing award of universal credit by virtue of paragraph (1)(b) is not the first day of an assessment period, they are not to have effect in relation to that award until the first day of the next assessment period.
+
+(3) In this regulation—
+
+- “a digital service area” means—
+  - (a) postcode districts SM5 2, SM6 7 and SM6 8; and
+  - (b) an area in respect of which no restrictions have been imposed in order for the universal credit provisions to come into force on a claim for universal credit (apart from with respect to residence and the date on which, or period in respect of which, universal credit is claimed) by an order under section 150 of the Welfare Reform Act 2012 or an area (apart from that referred to in (a)) in respect of which such restrictions have been, but are no longer, imposed;
+- “the digital service computer system” is the computer system operated by the Secretary of State in digital service areas;
+- “universal credit provisions” means the provisions listed in Schedule 2 to the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013.
+
+(4) In regulation 54A of the Universal Credit Regulations 2013 (as inserted [^key-fc8ffc97d75931ec8cab32502ad5c115]...), “the old award” does not include an award the last day of which fell before 11th April 2018[^key-ecaeba5e91de369d9815f366512bf525] and, in regulation 57A (as inserted by regulation 3(4)), “unused loss” does not include the loss from an assessment period that began[^key-a95ba6d75bd1e580f9c02d73f23f178c] before that date.
+
+## 5. Transitional provision – temporary de minimis period[^M_I_f784cbb9-e408-4560-8f4e-62f70d329164][^key-63561878a0ac45de3dd252cec0b3d8f3]
+
+(1) For the purposes of applying regulation 54A (surplus earnings) of the Universal Credit Regulations 2013 in relation to a claim for universal credit made in respect of a period that begins before the end of the temporary de minimis period, the meaning of “relevant threshold” in paragraph (6) of that regulation is modified by substituting “£2,500” for “£300”.
+
+(2) For the purposes of paragraph (1), the “temporary de minimis period” is the period beginning with the coming into force of regulation 54A and ending on 31st March 2019, but may be extended by the Secretary of State if the Secretary of State considers it necessary to do so to safeguard the efficient administration of universal credit.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Freud
+
+Parliamentary Under Secretary of State
+
+Department for Work and Pensions
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Universal Credit Regulations 2013 ([S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376)) by making further provision for the calculation of earned income for the purposes of calculating an award of universal credit.
+
+Regulation 2 provides for past earnings to be taken into account where a claimant has ceased to be entitled to universal credit within the past 6 months because of excess earnings. Paragraph (1) inserts a new regulation 54A which determines the circumstances in which an amount of earnings during the period when the person was not entitled to universal credit may be treated as earned income in calculating a new award. Paragraph (3) amends regulation 62 (minimum income floor) so that where such an amount is taken into account it is added to earned income before that regulation is applied and, in the case of a joint claim, apportioned in the way that is most favourable to the claimants.
+
+Surplus earning are not applied in the case of a claimant who has recently been the victim of domestic violence.
+
+Regulation 3 amends regulation 57 of the Universal Credit Regulations 2013 (which sets out how self-employed earnings are calculated for each assessment period) so as to allow unused losses from previous assessment periods to be taken into account. Unused losses are defined in the new regulation 57A. These are any losses from the previous 11 assessment periods that have not yet been set off against subsequent profits. For this purpose the months in any break between awards (not exceeding 6) may be treated as if they were assessment periods and, accordingly, losses for that period can be taken into account.
+
+Regulation 4 (savings) provides that the amendments in regulations 2 and 3 only have effect in relation to those awards (collectively known as “the digital service”) arising from claims made by persons living in the postcode specified in that regulation or from such persons subsequently forming new couples. Regulation 4 also provides for the exclusion of surpluses and losses arising before the regulations come into force.
+
+The report of the Social Security Advisory Committee dated 12th December 2014 in relation to the Secretary of State’s proposals to make these Regulations, together with a statement showing the extent to which these Regulations give effect to the recommendations of the Committee and, in so far as they do not give effect to them, the reasons why not, are contained in an Act Paper published by The Stationery Office Ltd.
+
+An impact assessment has not been produced for this instrument as it has no impact on business or on civil society organisations. This instrument has no impact on the public sector.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-73f60ce6fd2d4060aa50bfeddd9da6ae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
+
+[^key-f41bf09c460195bf2fbaa51bb6cca649]: Textual amendment: Words in reg. 1 substituted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/2)
+
+[^key-373d6c9bbe7b776f0775edc2b0424c26]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/345/regulation/2) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
+
+[^f00002]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
+
+[^key-803845fdabe786384e59137ddb954ab8]: Textual amendment: Words in reg. 2(2) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/3)
+
+[^f00006]: Footnote: Regulation 62 was substituted by [S.I. 2014/2888](https://www.legislation.gov.uk/uksi/2014/2888).
+
+[^key-ac67785787301f6b5bd1eeafc3fed64e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/345/regulation/3) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
+
+[^key-b1d8b97238e7ce17090e9ad4f5311544]: Textual amendment: Words in reg. 3(2) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/4/a)
+
+[^key-9c790f25a1960df1cf3f64b8cf19daf3]: Textual amendment: Word in reg. 3(4) omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(4)(b)(i)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/4/b/i)
+
+[^key-adb4e8c7a25925d05ccf7aa8ee074192]: Textual amendment: Words in reg. 3(4) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/4/b/ii)
+
+[^key-f00d7b660ee8a4f6430e13c92b53f582]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/345/regulation/4) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
+
+[^key-469ee374fe7aa49b8a5ce5a6367ef671]: Textual amendment: Reg. 4 substituted (3.11.2015 with application in accordance with reg. 1(3) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2015/1754/regulation/21)
+
+[^key-fc8ffc97d75931ec8cab32502ad5c115]: Textual amendment: Words in reg. 4(4) omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/5/a)
+
+[^key-ecaeba5e91de369d9815f366512bf525]: Textual amendment: Words in reg. 4(4) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/5/b)
+
+[^key-a95ba6d75bd1e580f9c02d73f23f178c]: Textual amendment: Word in reg. 4(4) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(5)(c)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/5/c)
+
+[^M_I_f784cbb9-e408-4560-8f4e-62f70d329164]: Commencement: Reg. 5 in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
+
+[^key-63561878a0ac45de3dd252cec0b3d8f3]: Textual amendment: Reg. 5 inserted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/6)

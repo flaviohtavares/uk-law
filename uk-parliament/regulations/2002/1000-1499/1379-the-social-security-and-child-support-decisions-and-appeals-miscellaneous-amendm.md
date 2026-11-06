@@ -1,0 +1,747 @@
+---
+title: The Social Security and Child Support (Decisions and Appeals) (Miscellaneous Amendments) Regulations 2002
+id: uksi/2002/1379
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-05-15'
+text_date: '2008-11-03'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/1379
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/1379/pdfs/uksi_20021379_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/1379/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security and Child Support (Decisions and Appeals) (Miscellaneous Amendments) Regulations 2002
+
+> Text as at 2008-11-03.
+
+2002 No. 1379
+
+SOCIAL SECURITY
+
+TAXES
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Social Security and Child Support (Decisions and Appeals) (Miscellaneous Amendments) Regulations 2002
+
+Made
+
+15th May 2002
+
+Coming into force
+
+20th May 2002
+
+Whereas a draft of this Instrument was laid before Parliament in accordance with section 80(1) of the Social Security Act 1998[^c951453] and approved by resolution of each House of Parliament;
+
+Now, therefore, the Secretary of State for Work and Pensions except in relation to working families’ tax credit and disabled person’s tax credit, and the Commissioners of Inland Revenue in relation to those credits and to regulations 1 to 4, 7, 9 to 11 and 13 to 21 only, in exercise of powers conferred by the enactments set out in the Schedule to this Instrument and now vested in them[^c951454], and of all other powers enabling them in that behalf, with the concurrence of the Lord Chancellor in so far as these Regulations are made under section 6(3) of the Social Security Act 1998, and after consultation with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^c951455], and after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^c951456], and so far as they concern housing benefit and council tax benefit after consultation with organisations appearing to the Secretary of State to be representative of the authorities concerned[^c951457], hereby make the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security and Child Support (Decisions and Appeals) (Miscellaneous Amendments) Regulations 2002 and shall come into force on 20th May 2002.
+
+(2) In these Regulations—
+
+- (a) “the Housing Benefit (Decisions and Appeals) Regulations” means the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 [^c951458]; and
+- (b) unless the context otherwise requires, a reference to a numbered regulation, paragraph or Schedule is a reference to the regulation, paragraph or Schedule bearing that number in the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c951459].
+
+## 2. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999
+
+In regulation 1(3) (interpretation)—
+
+- (a) for the definition of “official error”[^c951460] there shall be substituted—
+
+  > “official error” means an error made by—
+  >
+  > - (a) an officer of the Department for Work and Pensions or the Board acting as such which no person outside the Department or the Inland Revenue caused or to which no person outside the Department or the Inland Revenue materially contributed;
+  > - (b) a person employed by a designated authority acting on behalf of the authority, which no person outside that authority caused or to which no person outside that authority materially contributed,
+  >
+  > but excludes any error of law which is shown to have been an error by virtue of a subsequent decision of a Commissioner or the court;
+
+  ;
+
+  and
+- (b) after the definition of “panel member with a disability qualification” there shall be inserted—
+
+  > “partner” means—
+  >
+  > - (a) where a person is a member of a married couple or an unmarried couple, the other member of that couple; or
+  > - (b) where a person is polygamously married to two or more members of his household, any such member;
+
+  .
+
+## 3.
+
+In regulation 3 (revision of decisions)—
+
+- (a) in paragraph (1) [^c951461] for sub-paragraphs (a) and (b) there shall be substituted the following sub-paragraphs—
+
+  > - (a) he or they commence action leading to revision within one month of the date of notification of the original decision; or
+  > - (b) an application for a revision is received by the Secretary of State or the Board or an officer of the Board at the appropriate office—
+  >   - (i) subject to regulation 9A(3), within one month of the date of notification of the original decision;
+  >   - (ii) where a written statement is requested under paragraph (1)(b) of regulation 28 and is provided within the period specified in head (i), within 14 days of the expiry of that period;
+  >   - (iii) where a written statement is requested under paragraph (1)(b) of regulation 28 and is provided after the period specified in head (i), within 14 days of the date on which the statement is provided; or
+  >   - (iv) within such longer period as may be allowed under regulation 4.
+
+  ;
+- (b) after paragraph (4) there shall be inserted the following paragraph—
+
+  > (4A) Where there is an appeal against an original decision (within the meaning of paragraph (1)) within the time prescribed in regulation 31, or in a case to which regulation 32 applies within the time prescribed in that regulation, but the appeal has not been determined, the original decision may be revised at any time.
+
+  ;
+- (c) after paragraph (5) there shall be inserted the following paragraph—
+
+  > (5A) Where—
+  >
+  > - (a) the Secretary of State or the Board or an officer of the Board, as the case may be, makes a decision under section 8 or 10, or that decision is revised under section 9, in respect of a claim or award (“decision A”) and the claimant appeals against decision A;
+  > - (b) decision A is superseded or the claimant makes a further claim which is decided (“decision B”) after the claimant made the appeal but before the appeal results in a decision by an appeal tribunal (“decision C”); and
+  > - (c) the Secretary of State or the Board or an officer of the Board, as the case may be, would have made decision B differently if he or they had been aware of decision C at the time he or they made decision B,
+  >
+  > decision B may be revised at any time.
+
+  ;
+- (d) after paragraph (7) there shall be inserted the following paragraph—
+
+  > (7A) Where a decision as to a claimant’s entitlement to a disablement pension under section 103 of the Contributions and Benefits Act is revised by the Secretary of State, or changed on appeal, a decision of the Secretary of State as to the claimant’s entitlement to reduced earnings allowance under paragraph 11 or 12 of Schedule 7 to that Act may be revised at any time provided that the revised decision is more advantageous to the claimant than the original decision.
+
+  ;
+
+  and
+- (e) in paragraph (11)—
+  - (i) in sub-paragraph (a) for the words “Department of Social Security or the Department for Education and Employment” there shall be substituted the words “ Department for Work and Pensions ”; and
+  - (ii) in sub-paragraph (c) for the words “Department of Social Security” there shall be substituted the words “ Department for Work and Pensions ”.
+
+## 4.
+
+After regulation 9 there shall be inserted the following regulation—
+
+> **9A. Correction of accidental errors**
+>
+> (1) Accidental errors in a decision of the Secretary of State or an officer of the Board under a relevant enactment within the meaning of section 28(3), or in any record of such a decision, may be corrected by the Secretary of State or an officer of the Board, as the case may be, at any time.
+>
+> (2) A correction made to, or to the record of, a decision shall be deemed to be part of the decision, or of that record, and the Secretary of State or an officer of the Board shall give a written notice of the correction as soon as practicable to the claimant.
+>
+> (3) In calculating the time within which an application can be made under regulation 3(1)(b) for a decision to be revised, or the time within which an appeal may be brought under regulation 31(1), there shall be disregarded any day falling before the day on which notice was given of a correction of the decision or to the record thereof under paragraph (2).
+
+.
+
+## 5.
+
+In regulation 11A [^c951462] (issues for decision by officers of Inland Revenue) in paragraph (2)—
+
+- (a) in sub-paragraph (b) after the word “supersession” there shall be inserted the words “ or an appeal ”; and
+- (b) in sub-paragraph (c) for the words “consideration of the application” there shall be substituted the words “ receipt of the application or appeal ”.
+
+## 6.
+
+After regulation 14 there shall be inserted the following regulation—
+
+> **14A. Termination of award of income support or jobseeker’s allowance**
+>
+> (1) This regulation applies in a case where an award of income support or a jobseeker’s allowance (“the existing benefit”) exists in favour of a person and, if that award did not exist and a claim was made by that person or his partner for a jobseeker’s allowance or, as the case may be, income support (“the alternative benefit”), an award of the alternative benefit would be made on that claim.
+>
+> (2) In a case to which this regulation applies, if a claim for the alternative benefit is made the Secretary of State may bring to an end the award of the existing benefit if he is satisfied that an award of the alternative benefit will be made on that claim.
+>
+> (3) Where, under paragraph (2), the Secretary of State brings an award of the existing benefit to an end he shall do so with effect from the day immediately preceding the first day on which an award of the alternative benefit takes effect.
+>
+> (4) Where an award of a jobseeker’s allowance is made in accordance with the provisions of this regulation, paragraph 4 of Schedule 1 to the Jobseekers Act (waiting days) shall not apply.
+
+.
+
+## 7.
+
+In regulation 25 [^c951463] (other persons with a right to appeal) before paragraph (a) there shall be inserted the following paragraphs—
+
+> - (ai) any person who has been appointed by the Secretary of State or the Board under regulation 30(1) [^c951464] of the Claims and Payments Regulations (payments on death) to proceed with the claim of a person who has made a claim for benefit and subsequently died;
+> - (aii) any person who is appointed by the Secretary of State to claim benefit on behalf of a deceased person and who claims the benefit under regulation 30(5) and (6) [^c951465] of the Claims and Payments Regulations;
+> - (aiii) any person who is appointed by the Secretary of State to make a claim for reduced earnings allowance or disablement benefit in the name of a person who has died and who claims under regulation 30(6A) and (6B) [^c951466] of the Claims and Payments Regulations;
+
+.
+
+## 8.
+
+In regulation 29(5) [^c951467] (further particulars required relating to certificate of recoverable benefits appeals or applications) for the words “Department of Social Security” there shall be substituted the words “ Department for Work and Pensions ”.
+
+## 9.[^key-81cc7bd4ef384772abbf240c3bb1d0e9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10.
+
+In regulation 32 (late appeals)—
+
+- (a)[^key-3469d279b6711d21d7666693d9b42091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) for paragraph (4) there shall be substituted the following paragraph—
+
+  > (4) An application for an extension of time shall not be granted unless—
+  >
+  > - (a) the panel member is satisfied that, if the application is granted, there are reasonable prospects that the appeal will be successful; or
+  > - (b) the panel member, the Secretary of State or the Board, as the case may be, are satisfied that it is in the interests of justice for the application to be granted.
+
+  ;
+- (c) in paragraph (5)—
+  - (i) after the words “panel member” there shall be inserted the words “ , the Secretary of State or the Board, as the case may be, ”; and
+  - (ii) for the words “application to be made” there shall be substituted the words “ appeal to be made ”;
+- (d) in paragraph (6)(a) for the word “spouse” there shall be substituted the word “ partner ”; and
+- (e) in paragraph (7), for the words “the panel member shall have regard” there shall be substituted the words “ regard shall be had ”.
+
+## 11.
+
+In regulation 33 [^c951469] (making of appeals and applications)—
+
+- (a) in paragraph (2)—
+  - (i) in sub-paragraphs (a) and (c) for the words “Department of Social Security” there shall be substituted the words “ Department for Work and Pensions ”;
+  - (ii) in sub-paragraph (b) for the words “Department of Social Security or of the Department for Education and Employment” there shall be substituted the words “ Department for Work and Pensions the address of which was indicated on the notification of the decision which is subject to appeal ”; and
+  - (iii) in sub-paragraph (e) for the words “Department of Social Security” there shall be substituted the words “ Department for Work and Pensions the address of which was indicated on the notification of the decision which is subject to appeal ”;
+- (b) for paragraph (7) there shall be substituted the following paragraph—
+
+  > (7) Where a person to whom a form is returned, or from whom further particulars are requested, duly completes and returns the form or sends the further particulars, if the form or particulars, as the case may be, are received by the Secretary of State or the Board within—
+  >
+  > - (a) 14 days of the date on which the form was returned to him by the Secretary of State or the Board, the time for making the appeal shall be extended by 14 days from the date on which the form was returned;
+  > - (b) 14 days of the date on which the Secretary of State’s or the Board’s request was made, the time for making the appeal shall be extended by 14 days from the date of the request; or
+  > - (c) such longer period as the Secretary of State or the Board may direct, the time for making the appeal shall be extended by a period equal to that longer period directed by the Secretary of State or the Board.
+
+  ;
+
+  and
+- (c) the following paragraph shall be substituted for paragraph (10) [^c951470]—
+
+  > (10) The Secretary of State or the Board may discontinue action on an appeal where the appeal has not been forwarded to the clerk to an appeal tribunal or to a legally qualified panel member and the appellant or an authorised representative of the appellant has given written notice that he does not wish the appeal to continue.
+
+  .
+
+## 12.
+
+In regulation 38A(1) [^c951471] (appeals raising issues for decision by officers of Inland Revenue)—
+
+- (a) for the words “, on consideration of any appeal, it appears to an appeal tribunal” there shall be substituted the words “ a person has appealed to an appeal tribunal and it appears to the appeal tribunal, or a legally qualified panel member, ”; and
+- (b) after the words “that tribunal” there shall be inserted the words “ or legally qualified panel member, as the case may be, ”.
+
+## 13.
+
+Regulation 47 *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951472] (reinstatement of struck out appeals) shall be renumbered paragraph (2) of regulation 47 and immediately before the renumbered paragraph (2) the following paragraph shall be inserted as paragraph (1)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+> (1) The clerk to the appeal tribunal may reinstate an appeal which has been struck out in accordance with regulation 46(1)(c) where— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+>
+> - (a) the appellant has made representations to him or, as the case may be, further representations in support of his appeal with reasons why he considers that his appeal should not have been struck out; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+> - (b) the representations are made in writing within one month of the order to strike out the appeal being issued; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+> - (c) the clerk is satisfied in the light of those representations that there are reasonable grounds for reinstating the appeal *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+>
+> but if the clerk is not satisfied that there are reasonable grounds for reinstatement a legally qualified panel member shall consider whether the appeal should be reinstated in accordance with paragraph (2). *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+.
+
+## 14.
+
+In regulation 49 (procedure at oral hearings)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+- (a) for paragraph (6) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  > (6) An oral hearing shall be in public except where the chairman, or in the case of an appeal tribunal which has only one member, that member, is satisfied that it is necessary to hold the hearing, or part of the hearing, in private— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > - (a) in the interests of national security, morals, public order or children; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) for the protection of the private or family life of one or more parties to the proceedings; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (c) in special circumstances, because publicity would prejudice the interests of justice. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  ;
+- (b) for paragraph (7) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  > (7) At an oral hearing— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > - (a) any party to the proceedings shall be entitled to be present and be heard; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) the following persons may be present by means of a live television link— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >   - (i) a party to the proceedings or his representative or both; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >   - (ii (affected by repeal, see note))[^key-714754ebad6279c5d080907af4cfd2c8] where an appeal tribunal consists of more than one member, a tribunal member other than the chairman, *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  >   provided that the person who constitutes or is the chairman of the tribunal gives permission and the appellant consents. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  ;
+- (c) in paragraph (9)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  - (i) in sub-paragraph (b) the word “panel” shall be omitted; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  - (ii (affected by repeal, see note))[^key-714754ebad6279c5d080907af4cfd2c8] in sub-paragraph (d) the words “and the consent of every party to the proceedings actually present,” shall be omitted; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (d) for paragraph (10) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951473] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  > (10) Nothing in paragraph (9) affects the rights of— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > - (a) any person mentioned in sub-paragraphs (a) and (b) of that paragraph where he is sitting as a member of a tribunal or acting as its clerk; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) the clerk to the tribunal, *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > and nothing in this regulation prevents the presence at an oral hearing of any witness or of any person whom the chairman, or in the case of an appeal tribunal which has only one member, that member, permits to be present in order to assist the appeal tribunal or the clerk. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  ;
+
+  and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (e) after paragraph (12) the following paragraph shall be added— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  > (13) In this regulation “live television link” means a live television link or other facilities which allow a person who is not physically present at an oral hearing to see and hear proceedings and be seen and heard by those physically present. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  .
+
+## 15.[^key-714754ebad6279c5d080907af4cfd2c8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16.
+
+In regulation 53 (decisions of appeal tribunals), for paragraph (4) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951474] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+> (4) A party to the proceedings may apply in writing to the clerk to the appeal tribunal for a statement of the reasons for the tribunal’s decision within one month of the sending or giving of the decision notice to every party to the proceedings or within such longer period as may be allowed in accordance with regulation 54 and following that application the chairman, or in the case of a tribunal with only one member, that member shall record a statement of the reasons and a copy of that statement shall be given to every party to the proceedings as soon as may be practicable. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+.
+
+## 17.
+
+In regulation 54 (late applications for a statement of reasons of tribunal decision)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+- (a) in paragraph (6)(a) for the word “spouse” there shall be substituted the word *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ partner ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ;
+- (b) in paragraphs (10), (11) and (12) for the word “decision” in each place where it occurs there shall be substituted the word *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ determination ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ;
+- (c) in paragraph (11) for the words “a copy” there shall be substituted the word *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ notice ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ;
+- (d) in paragraph (12) for the words “a copy”, in the first place where they occur, there shall be substituted the word *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ notice ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (e) the following paragraph shall be substituted for paragraph (13) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951475] —
+
+  > (13) In calculating the time specified for applying in writing for a statement of the reasons for the tribunal’s decision there shall be disregarded any day which falls before the day on which notice was given of— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > - (a) a correction of a decision or the record thereof pursuant to regulation 56; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) a determination that a decision shall not be set aside following an application made under regulation 57, except where the decision was not set aside because of a refusal to extend the time for applying. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  .
+
+## 18.
+
+In regulation 57 (setting aside decisions on certain grounds)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+- (a) in paragraph (2) the words “the chairman, or in the case of an appeal tribunal which has only one member, unless” shall be omitted; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (b) for paragraph (3) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951476] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  > (3) An application under this regulation shall— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > - (a) be made within one month of the date on which— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >   - (i) a copy of the decision notice is sent or given to the parties to the proceedings in accordance with regulation 53(3); or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >   - (ii (affected by repeal, see note))[^key-714754ebad6279c5d080907af4cfd2c8] the statement of the reasons for the decision is given or sent in accordance with regulation 53(4), *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  >   whichever is later; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) be in writing and signed by a party to the proceedings or, where the party has provided written authority to a representative to act on his behalf, that representative; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (c) contain particulars of the grounds on which it is made; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (d) be sent to the clerk to the appeal tribunal. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  ;
+
+  and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (c) the following paragraphs shall be substituted for paragraphs (6) to (12) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951477] —
+
+  > (6) The time within which an application under this regulation must be made may be extended by a period not exceeding one year where the conditions specified in paragraphs (7) to (11) are satisfied. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > (7) An application for an extension of time shall be made in accordance with paragraph (3)(b) to (d), shall include details of any relevant special circumstances for the purposes of paragraph (9) and shall be determined by a legally qualified panel member. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > (8) An application for an extension of time shall not be granted unless the panel member is satisfied that— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > - (a) if the application is granted there are reasonable prospects that the application to set aside will be successful; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) it is in the interests of justice for the application for an extension of time to be granted. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > (9) For the purposes of paragraph (8) it is not in the interests of justice to grant an application for an extension of time unless the panel member is satisfied that— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > - (a) the special circumstances specified in paragraph (10) are relevant to that application; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) some other special circumstances exist which are wholly exceptional and relevant to that application, *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > and as a result of those special circumstances, it was not practicable for the application to set aside to be made within the time limit specified in paragraph (3)(a). *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > (10) For the purposes of paragraph (9)(a) the special circumstances are that— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > - (a) the applicant or a partner or dependant of the applicant has died or suffered serious illness; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) the applicant is not resident in the United Kingdom; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (c) normal postal services were disrupted. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > (11) In determining whether it is in the interests of justice to grant an application for an extension of time, the panel member shall have regard to the principle that the greater the amount of time that has elapsed between the expiry of the time within which the application to set aside is to be made and the making of the application for an extension of time, the more compelling should be the special circumstances on which the application for an extension is based. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > (12) An application under this regulation for an extension of time which has been refused may not be renewed. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  .
+
+## 19.[^key-714754ebad6279c5d080907af4cfd2c8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20.
+
+In regulation 58 *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951479] (application for leave to appeal to a Commissioner from an appeal tribunal)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+- (a) in paragraph (1)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  - (i) after the word “under” there shall be inserted the words *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ section 13 of the 1997 Act or under ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  - (ii (affected by repeal, see note))[^key-714754ebad6279c5d080907af4cfd2c8] in sub-paragraph (a) for the words “made within the period of one month commencing on the date the applicant is sent” there shall be substituted the words *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ sent to the clerk to the appeal tribunal within the period of one month of the date of the applicant being sent ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ;
+- (b) paragraph (3) shall be omitted; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (c) for paragraph (4) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  > (4) A person determining an application for leave to appeal to a Commissioner shall record his determination in writing and send a copy to every party to the proceedings. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  ;
+
+  and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (d) for paragraph (6) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951480] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  > (6) Where an application for leave to appeal against a decision of an appeal tribunal is made— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >
+  > - (a) if the person who constituted, or was the chairman of, the appeal tribunal when the decision was given was a fee-paid legally qualified panel member, the application may be determined by a salaried legally qualified panel member; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) if it is impracticable, or it would be likely to cause undue delay, for the application to be determined by whoever constituted, or was the chairman of, the appeal tribunal when the decision was given, the application may be determined by another legally qualified panel member. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+
+  .
+
+## 21.
+
+In Schedule 2 (decisions against which no appeal lies)—
+
+- (a) for paragraph 5 [^c951481] (claims and payments) there shall be substituted the following paragraph—
+
+  > **5.**
+  >
+  > A decision, being a decision of the Secretary of State unless specified below as a decision of the Board, under the following provisions of the Claims and Payments Regulations—
+  >
+  > - (a) regulation 4 [^c951482] (decision of the Secretary of State or the Board as to making a claim for benefit);
+  > - (b) regulation 4A(3) [^c951483] (sufficiency of a claim at office displaying the ONE logo if claim not on approved form);
+  > - (c) regulation 6(4AA) [^c951484] (accepting properly completed claim for jobseeker’s allowance after claimant attends a place to make claim);
+  > - (d) regulation 6(4AB) [^c951485] (accepting properly completed claim for jobseeker’s allowance up to one month after notification of intent to claim);
+  > - (e) regulation 6(8) and (9) [^c951486] (specifying time for properly completing and submitting claim for disability living allowance or attendance allowance);
+  > - (f) regulation 7 [^c951487] (decision by the Secretary of State or the Board as to evidence and information required);
+  > - (g) regulation 9 [^c951488] and Schedule 1 (decision by the Secretary of State or the Board as to interchange of claims with claims for other benefits);
+  > - (h) regulation 11 [^c951489] (treating claim for maternity allowance as claim for incapacity benefit);
+  > - (i) regulation 15(7) [^c951490] (approving form of particulars required for determination of retirement pension questions in advance of claim);
+  > - (j) regulations 20 to 24 [^c951491] (decision by the Secretary of State or the Board as to the time or manner of payments);
+  > - (k) regulation 25(1) [^c951492] (intervals of payment of attendance allowance and disability living allowance where claimant is expected to return to hospital);
+  > - (l) regulation 26 [^c951493] (manner and time of payment of income support);
+  > - (m) regulation 26A [^c951494] (time and intervals of payment of jobseeker’s allowance);
+  > - (n) regulation 27(1) and (1A) [^c951495] (decision by the Board as to manner and time of payment of tax credits);
+  > - (o) regulation 30 [^c951496] (decision by the Secretary of State or the Board as to claims or payments after death of claimant);
+  > - (p) regulation 30A [^c951497] (payment of arrears of joint-claim jobseeker’s allowance where nominated person can no longer be traced);
+  > - (q) regulation 31 [^c951498] (time and manner of payments of industrial injuries gratuities);
+  > - (r) regulation 32 [^c951499] (decision by the Secretary of State or the Board as to information to be given when obtaining payment of benefit);
+  > - (s) regulation 33 [^c951500] (appointments by the Secretary of State or the Board where person unable to act);
+  > - (t) regulation 34 [^c951501] (decision by the Secretary of State or the Board as to paying another person on the beneficiary’s behalf);
+  > - (u) regulation 34A(1) [^c951502] (payment, out of benefit, of mortgage interest to qualifying lender);
+  > - (v) regulation 35(2) [^c951503] (payment to third person of maternity expenses or expenses for heating in cold weather);
+  > - (w) regulation 36 [^c951504] (decision by the Secretary of State or the Board to pay partner as alternative payee);
+  > - (x) regulation 38 [^c951505] (decision by the Secretary of State or the Board as to the extinguishment of right to payment of sums by way of benefit where payment not obtained within the prescribed period, except a decision under paragraph (2A) (payment request after expiration of prescribed period));
+  > - (y) regulations 42 to 46 [^c951506] (mobility component of disability living allowance and disability living allowance for children);
+  > - (z) regulation 47(2) and (3) [^c951507] (return of instruments of payment etc. to the Secretary of State or the Board).
+
+  ;
+
+  and
+- (b) after paragraph 19 there shall be inserted the following paragraph—
+
+  > **19A. Loss of Benefit for Breach of Community Order**
+  >
+  > A decision of the Secretary of State that a relevant benefit shall not be payable or shall be reduced in accordance with a determination of a court made under section 62(1) of the Child Support, Pensions and Social Security Act 2000 [^c951508] where the only ground of appeal is that the court’s determination was made in error.
+
+  .
+
+## 22.[^key-9a702a6ffd382f5f28424108b7e2ee3b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 23. Amendment of the Housing Benefit (Decisions and Appeals) Regulations
+
+In regulation 1(2) of the Housing Benefit (Decisions and Appeals) Regulations (interpretation)—
+
+- (a) in the definition of “financially qualified panel member”, after paragraph (c) there shall be inserted the following paragraph—
+
+  > - (cc) the Institute of Certified Public Accountants in Ireland;
+
+  ;
+
+  and
+- (b) in the definition of “official error”, for paragraph (b) there shall be substituted the following paragraph—
+
+  > - (b) an officer of—
+  >   - (i) the Department for Work and Pensions; or
+  >   - (ii) the Commissioners of Inland Revenue,
+  >
+  >   acting as such;
+
+  .
+
+## 24.
+
+In regulation 4 of the Housing Benefit (Decisions and Appeals) Regulations (revision of decisions) at the beginning of paragraph (1)(a) there shall be inserted the words “subject to regulation 10A(3),”.
+
+## 25.
+
+After regulation 10 of the Housing Benefit (Decisions and Appeals) Regulations there shall be inserted the following regulation—
+
+> **10A. Correction of accidental errors**
+>
+> (1) Accidental errors in a relevant decision, or a revised decision, or the record of such a decision, may be corrected by the relevant authority at any time.
+>
+> (2) A correction made to a relevant decision, or a revised decision, or the record of such a decision, shall be deemed to be part of the decision, or of that record, and the relevant authority shall give a written notice of the correction as soon as practicable to the claimant.
+>
+> (3) In calculating the time within which an application can be made under regulation 4(1)(a) for a relevant decision to be revised, or the time within which an appeal may be brought under regulation 18(1), there shall be disregarded any day falling before the day on which notice was given of a correction of the decision or to the revision or record thereof under paragraph (2).
+
+.
+
+## 26.
+
+In regulation 18 of the Housing Benefit (Decisions and Appeals) Regulations (time within which an appeal is to be brought) in paragraph (1) for the word “regulation” there shall be substituted the words “ regulations 10A(3) and ”.
+
+## 27.
+
+In regulation 19 of the Housing Benefit (Decisions and Appeals) Regulations (late appeals)—
+
+- (a)[^key-30baeeca6979eb0f780beb1da241d4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) for paragraph (5) there shall be substituted the following paragraph—
+
+  > (5) An application for an extension of time shall not be granted unless—
+  >
+  > - (a) the panel member is satisfied that, if the application is granted, there are reasonable prospects that the appeal will be successful; or
+  > - (b) the panel member or the relevant authority, as the case may be, is satisfied that it is in the interests of justice for the application to be granted.
+
+  ;
+- (c) in paragraph (6) after the words “panel member” there shall be inserted the words “ or the relevant authority, as the case may be, ”; and
+- (d) in paragraph (8) for the words “the panel member shall have regard” there shall be substituted the words “ regard shall be had ”.
+
+## 28.[^key-c0763cec7b31fa4c0bd4878986576181]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+P. Hollis
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+15th May 2002
+
+Tim Flesher
+
+Nick Montagu
+
+Two of the Commissioners of Inland Revenue
+
+15th May 2002
+
+I concur
+
+Signed by authority of the Lord Chancellor.
+
+Rosie Winterton
+
+Parliamentary Secretary,
+
+Lord Chancellor’s Department
+
+15th May 2002
+
+## SCHEDULE — Enactments conferring powers exercised in making these Regulations
+
+<table>
+<tbody>
+<tr><th colspan="2"><em>Column (1)</em></th><th><em>Column (2)</em></th></tr>
+<tr><th colspan="2"><em>Provision</em></th><th><em>Relevant amendments in Social Security Act 1998</em></th></tr>
+<tr><td>Vaccine Damage Payments Act 1979</td><td>Section 4(2) and (3)</td><td>Section 46</td></tr>
+<tr><td>Child Support Act 1991</td><td>Section 20(4), (5) and (6)</td><td>Section 42</td></tr>
+<tr><td>Jobseekers Act 1995</td><td>Sections 31 and 35(1) and Schedule 1, paragraph 4</td><td></td></tr>
+<tr><td>Social Security (Recovery of Benefits) Act 1997</td><td>Section 11(5)(a) and (b)</td><td></td></tr>
+<tr><td>Social Security Act 1998</td><td>Section 6(3)<br>Section 9(1)<br>Section 10A(1)<br>Section 12(2) and (7)<br>Section 14(11)<br>Section 16(1)<br>Section 24A(1) and (2)(a)<br>Section 28(1)<br>Section 79(1), (3), (4), (6) and (7)<br>Section 84<br>Schedule 1, paragraph 12(1)<br>Schedule 2, paragraph 9<br>Schedule 5, paragraphs 1 to 4, 6 and 7</td><td></td></tr>
+<tr><td>Child Support, Pensions and Social Security Act 2000</td><td>Section 68<br>Schedule 7, paragraphs 3(1), 6(7) and (8), 10(1), 19(1), 20(1) and (3) and 23(1)</td><td></td></tr>
+</tbody>
+</table>
+
+[^c951510][^c951511][^c951512][^c951513][^c951514][^c951515][^c951516][^c951517][^c951518][^c951519][^c951520][^c951521][^c951522]
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Social Security and Child Support (Decisions and Appeals) Regulations 1999. In particular—
+
+**0.** In regulations 2(a), 11(c), 14(d), 16, 17(e), 18(b) and (c) and 19 amendments are made for tax credit purposes equivalent to amendments made in relation to social security benefits by the Social Security and Child Support (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/1596); the further associated amendments apply to tax credits and social security benefits.
+
+**0.** Regulation 3 makes further provision for the revision of decisions.
+
+**0.** Regulation 4 provides for the correction of accidental errors in a decision of the Secretary of State or an officer of the Board of Inland Revenue (“the Board”).
+
+**0.** Regulation 6 provides for the interaction of awards of income support and jobseeker’s allowance.
+
+**0.** Regulation 7 adds an appointee after the death of a claimant to the list of prescribed persons who may appeal.
+
+**0.** Regulations 9 and 11 clarify the time limits for making an appeal.
+
+**0.** Regulation 10 provides for the Secretary of State or the Board to grant an extension of time for an appeal in specified circumstances.
+
+**0.** Regulation 13 provides for the clerk to an appeal tribunal to reinstate an appeal if he has struck it out because the appellant failed to comply with a direction concerning an oral hearing.
+
+**0.** Regulation 14 provides for oral hearings to be in public except in specified circumstances and for participation in an oral hearing by a live television link.
+
+**0.** Regulation 15 removes rules about the constitution of an appeal tribunal after an adjournment.
+
+**0.** Regulation 16 requires applications for statements of appeal tribunals’ reasons to be sent to the clerk.
+
+**0.** Regulations 17(a) and 18(c) provide that the death or serious illness of the appellant’s partner is a reason for granting further time for the appellant to take procedural steps.
+
+**0.** Regulation 20 amends provisions governing applications for leave to appeal to the Social Security and Child Support Commissioners.
+
+**0.** Regulation 21 specifies decisions of the Secretary of State or the Board under the Social Security (Claims and Payments) Regulations 1987 against which there is no appeal.
+
+These Regulations also amend the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001. In particular—
+
+**0.** Regulation 25 provides for the correction of accidental errors in a decision of a relevant authority.
+
+**0.** Regulation 27 provides for a relevant authority to grant an extension of time for an appeal in specified circumstances.
+
+**0.** Regulation 28 applies for housing benefit and council tax benefit purposes the amendments to appeal tribunal procedure made by regulations 13 to 20 in respect of other social security benefits.
+
+These Regulations do not impose any costs on business.
+
+## Annotations
+
+[^c951453]: Marginal citation: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^c951454]: Marginal citation: *See* the [Tax Credits Act 1999 (c.10)](https://www.legislation.gov.uk/ukpga/1999/10), [section 2(1)(c)](https://www.legislation.gov.uk/ukpga/1999/10/section/2/1/c) and (4) and Schedule 2, paragraphs 8(a) and 20(g), by which functions concerning certain benefits were transferred to the Commissioners of Inland Revenue.
+
+[^c951455]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^c951456]: Marginal citation: *See* the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5), [section 173(1)(b)](https://www.legislation.gov.uk/ukpga/1992/5/section/173/1/b).
+
+[^c951457]: Marginal citation: *See* the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5), [section 176(1)(a)](https://www.legislation.gov.uk/ukpga/1992/5/section/176/1/a).
+
+[^c951458]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
+
+[^c951459]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
+
+[^c951460]: Marginal citation: The definition of “official error” was substituted by [S.I. 2000/897](https://www.legislation.gov.uk/uksi/2000/897) and 1596 but these amendments did not apply for tax credit purposes.
+
+[^c951461]: Marginal citation: Paragraph (1) was amended by [S.I. 1999/2570](https://www.legislation.gov.uk/uksi/1999/2570) and 2677.
+
+[^c951462]: Marginal citation: Regulation 11A was inserted by [S.I. 1999/1670](https://www.legislation.gov.uk/uksi/1999/1670).
+
+[^c951463]: Marginal citation: Regulation 25 was amended by [S.I. 1999/2570](https://www.legislation.gov.uk/uksi/1999/2570); regulation 25 cites the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), [section 12(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/12/2) which was substituted by the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), [Schedule 7](https://www.legislation.gov.uk/ukpga/1999/2/schedule/7), [paragraph 25(3)](https://www.legislation.gov.uk/ukpga/1999/2/paragraph/25/3).
+
+[^c951464]: Marginal citation: Regulation 30(1) was amended by [S.I. 1999/2572](https://www.legislation.gov.uk/uksi/1999/2572).
+
+[^c951465]: Marginal citation: Regulation 30(5) was amended by [S.I. 1988/1725](https://www.legislation.gov.uk/uksi/1988/1725), 1990/2208, 1991/2741, 1996/1460 and 1999/2572.
+
+[^c951466]: Marginal citation: Paragraphs (6A) and (6B) were inserted by [S.I. 1990/2208](https://www.legislation.gov.uk/uksi/1990/2208).
+
+[^c951467]: Marginal citation: Regulation 29(5) was amended by [S.I. 2000/3030](https://www.legislation.gov.uk/uksi/2000/3030).
+
+[^key-81cc7bd4ef384772abbf240c3bb1d0e9]: Textual amendment: Reg. 9 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+
+[^key-3469d279b6711d21d7666693d9b42091]: Textual amendment: Reg. 10(a) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+
+[^c951469]: Marginal citation: Regulation 33 was amended by [S.I. 1999/1662](https://www.legislation.gov.uk/uksi/1999/1662), 2570 and 2677 and 2000/897, 1596 and 3030.
+
+[^c951470]: Marginal citation: Paragraph (10) was added by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596) but that amendment did not apply for tax credit purposes.
+
+[^c951471]: Marginal citation: Regulation 38A was inserted by [S.I. 1999/1670](https://www.legislation.gov.uk/uksi/1999/1670).
+
+[^key-714754ebad6279c5d080907af4cfd2c8]: Textual amendment: Regs. 13-20 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(d)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/d), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+
+[^c951472]: Marginal citation: Regulation 47 was amended by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596).
+
+[^c951473]: Marginal citation: Paragraph (10) was amended by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596) but the amendment did not apply for tax credit purposes.
+
+[^c951474]: Marginal citation: Paragraph (4) was amended by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596) but the amendment did not apply for tax credit purposes.
+
+[^c951475]: Marginal citation: Paragraph (13) was added by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596) but that amendment did not apply for tax credit purposes.
+
+[^c951476]: Marginal citation: Paragraph (3) was substituted by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596) but that amendment did not apply for tax credit purposes.
+
+[^c951477]: Marginal citation: Paragraphs (6) to (12) were added by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596) but that amendment did not apply for tax credit purposes.
+
+[^c951479]: Marginal citation: Regulation 58 was amended by [S.I. 1999/2570](https://www.legislation.gov.uk/uksi/1999/2570) and 2000/1596.
+
+[^c951480]: Marginal citation: Paragraph (6) was amended by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596).
+
+[^c951481]: Marginal citation: Paragraph 5 was amended by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596).
+
+[^c951482]: Marginal citation: Regulation 4 was amended by [S.I. 1991/2741](https://www.legislation.gov.uk/uksi/1991/2741), 1992/247, 1996/1460 and 2431, 1997/793, 1999/2572 and 3108 and 2000/636, 897 and 1982.
+
+[^c951483]: Marginal citation: Regulation 4A was inserted by [S.I. 1999/3108](https://www.legislation.gov.uk/uksi/1999/3108) and amended by [S.I. 2000/897](https://www.legislation.gov.uk/uksi/2000/897).
+
+[^c951484]: Marginal citation: Paragraph (4AA) was substituted by [S.I. 2000/1820](https://www.legislation.gov.uk/uksi/2000/1820).
+
+[^c951485]: Marginal citation: Paragraph (4AB) was substituted by [S.I. 1997/793](https://www.legislation.gov.uk/uksi/1997/793).
+
+[^c951486]: Marginal citation: Paragraphs (8) and (9) were added by [S.I. 1991/2741](https://www.legislation.gov.uk/uksi/1991/2741) and amended by [S.I. 1993/2113](https://www.legislation.gov.uk/uksi/1993/2113) and 2319.
+
+[^c951487]: Marginal citation: Regulation 7 was amended by [S.I. 1995/2303](https://www.legislation.gov.uk/uksi/1995/2303), 1996/1460 and 1999/3108 and 2572.
+
+[^c951488]: Marginal citation: Regulation 9 was amended by [S.I. 1992/247](https://www.legislation.gov.uk/uksi/1992/247), 1996/1803 and 1999/2572.
+
+[^c951489]: Marginal citation: Regulation 11 was amended by [S.I. 1994/2943](https://www.legislation.gov.uk/uksi/1994/2943) and 1997/793.
+
+[^c951490]: Marginal citation: Regulation 15(7) was amended by [S.I. 1989/1642](https://www.legislation.gov.uk/uksi/1989/1642).
+
+[^c951491]: Marginal citation: Regulations 20 to 24 were amended by [S.I. 1991/2741](https://www.legislation.gov.uk/uksi/1991/2741), 1992/247, 1993/1113, 1994/2319, 2943 and 3196, 1996/672, 1460 and 2306, 1999/2358 and 2572 and 2000/1982 and 3120.
+
+[^c951492]: Marginal citation: Regulation 25(1) was amended by [S.I. 1991/2741](https://www.legislation.gov.uk/uksi/1991/2741) and 1996/1436.
+
+[^c951493]: Marginal citation: Regulation 26 was amended by [S.I. 1988/522](https://www.legislation.gov.uk/uksi/1988/522), 1989/136, 1993/1113, 1999/3178 and 2000/1596.
+
+[^c951494]: Marginal citation: Regulation 26A was inserted by [S.I. 1996/1460](https://www.legislation.gov.uk/uksi/1996/1460) and amended by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596).
+
+[^c951495]: Marginal citation: Regulation 27 was substituted by [S.I. 1991/2741](https://www.legislation.gov.uk/uksi/1991/2741) and amended by [S.I. 1993/2113](https://www.legislation.gov.uk/uksi/1993/2113), 1994/3196 and 1999/2572.
+
+[^c951496]: Marginal citation: Regulation 30 was amended by [S.I. 1988/1725](https://www.legislation.gov.uk/uksi/1988/1725), 1990/2208, 1991/2741, 1993/2113, 1994/2319, 1996/1460, 1999/2572 and 2000/1982.
+
+[^c951497]: Marginal citation: Regulation 30A was inserted by [S.I. 2001/518](https://www.legislation.gov.uk/uksi/2001/518).
+
+[^c951498]: Marginal citation: Regulation 31 was amended by [S.I. 1999/3108](https://www.legislation.gov.uk/uksi/1999/3108) and 3178.
+
+[^c951499]: Marginal citation: Regulation 32 was amended by [S.I. 1992/2595](https://www.legislation.gov.uk/uksi/1992/2595), 1995/2303, 1996/1460 and 1999/2572.
+
+[^c951500]: Marginal citation: Regulation 33 was amended by [S.I. 1991/2741](https://www.legislation.gov.uk/uksi/1991/2741) and 1999/2572.
+
+[^c951501]: Marginal citation: Regulation 34 was amended by [S.I. 1992/2595](https://www.legislation.gov.uk/uksi/1992/2595), 1999/2572 and 2000/1982.
+
+[^c951502]: Marginal citation: Regulation 34A was inserted by [S.I. 1992/1026](https://www.legislation.gov.uk/uksi/1992/1026).
+
+[^c951503]: Marginal citation: Regulation 35 was substituted by [S.I. 1988/522](https://www.legislation.gov.uk/uksi/1988/522) and paragraph (2) was amended by [S.I. 1988/1725](https://www.legislation.gov.uk/uksi/1988/1725).
+
+[^c951504]: Marginal citation: Regulation 36 was amended by [S.I. 1999/2358](https://www.legislation.gov.uk/uksi/1999/2358) and 2572.
+
+[^c951505]: Marginal citation: Regulation 38 was amended by [S.I. 1989/1686](https://www.legislation.gov.uk/uksi/1989/1686), 1993/2113, 1996/672, 1999/1958, 2422, 2572 and 3178.
+
+[^c951506]: Marginal citation: Regulations 42 to 46 were amended by [S.I. 1991/2741](https://www.legislation.gov.uk/uksi/1991/2741) and regulation 44 was amended by [S.I. 1990/2208](https://www.legislation.gov.uk/uksi/1990/2208).
+
+[^c951507]: Marginal citation: Regulation 47 was substituted by [S.I. 1994/3196](https://www.legislation.gov.uk/uksi/1994/3196) and amended by [S.I. 1999/2572](https://www.legislation.gov.uk/uksi/1999/2572).
+
+[^c951508]: Marginal citation: [2000 c.19](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^key-9a702a6ffd382f5f28424108b7e2ee3b]: Textual amendment: Reg. 22 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+
+[^key-30baeeca6979eb0f780beb1da241d4d9]: Textual amendment: Reg. 27(a) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+
+[^key-c0763cec7b31fa4c0bd4878986576181]: Textual amendment: Reg. 28 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+
+[^c951510]: Marginal citation: [1979 c.17](https://www.legislation.gov.uk/ukpga/1979/17).
+
+[^c951511]: Marginal citation: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
+
+[^c951512]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^c951513]: Marginal citation: [Section 31](https://www.legislation.gov.uk/uksi/2002/1379/section/31) was amended by the Social Security Act 1998, Schedule 7, paragraph 143.
+
+[^c951514]: Marginal citation: [Section 35(1)](https://www.legislation.gov.uk/uksi/2002/1379/section/35/1) is an interpretation provision and is cited because of the meaning ascribed to the words “prescribed” and “Regulations”.
+
+[^c951515]: Marginal citation: [1997 c.27](https://www.legislation.gov.uk/ukpga/1997/27).
+
+[^c951516]: Marginal citation: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^c951517]: Marginal citation: [Section 10A](https://www.legislation.gov.uk/uksi/2002/1379/section/10A) was inserted by the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2) (“Transfer of Functions Act 1999”), Schedule 7, paragraph 24.
+
+[^c951518]: Marginal citation: [Section 12(2)](https://www.legislation.gov.uk/uksi/2002/1379/section/12/2) was substituted by the Transfer of Functions Act 1999, Schedule 7, paragraph 25(3).
+
+[^c951519]: Marginal citation: [Section 24A](https://www.legislation.gov.uk/uksi/2002/1379/section/24A) was inserted by the Transfer of Functions Act 1999, Schedule 7, paragraph 33.
+
+[^c951520]: Marginal citation: [Section 84](https://www.legislation.gov.uk/uksi/2002/1379/section/84) is an interpretation provision and is cited because of the meaning ascribed to the word “prescribe”.
+
+[^c951521]: Marginal citation: [2000 c.19](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^c951522]: Marginal citation: [Paragraph 23(1)](https://www.legislation.gov.uk/uksi/2002/1379/paragraph/23/1) is an interpretation provision and is cited because of the meaning ascribed to the word “prescribed”.

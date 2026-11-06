@@ -1,0 +1,141 @@
+---
+title: The Government Resources and Accounts Act 2000 (Rights of Access of Comptroller and Auditor General) Order 2003
+id: uksi/2003/1325
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-05-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/1325
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1325/pdfs/uksi_20031325_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1325/made/data.pdf
+pending_changes: 6
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Government Resources and Accounts Act 2000 (Rights of Access of Comptroller and Auditor General) Order 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 1325
+
+GOVERNMENT RESOURCES AND ACCOUNTS
+
+The Government Resources and Accounts Act 2000 (Rights of Access of Comptroller and Auditor General) Order 2003
+
+Made
+
+15th May 2003
+
+Coming into force
+
+23rd May 2003
+
+Whereas a draft of this Order has been approved by a resolution of each House of Parliament pursuant to section 25(10) of the Government Resources and Accounts Act 2000[^f00001];
+
+Now, therefore, the Treasury, having consulted the Comptroller and Auditor General, hereby make the following Order in exercise of the powers conferred on them by section 25(8) and (9) of the Government Resources and Accounts Act 2000:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Government Resources and Accounts Act 2000 (Rights of Access of Comptroller and Auditor General) Order 2003 and comes into force on 23rd May 2003.
+
+## 2. Grant payments
+
+(1) Section 8(1) of the Government Resources and Accounts Act 2000 shall apply in relation to relevant documents held or controlled by a person in circumstances in which that person is or has been in receipt of a grant from a body the accounts of which are examined by the Comptroller and Auditor General pursuant to powers conferred by or under statute or pursuant to arrangements made in accordance with a Royal Charter.
+
+(2) But paragraph (1) shall not apply to relevant documents held or controlled by an individual in circumstances in which he is or has been in receipt of a grant paid to him under any of the following Acts:
+
+- (a) Employment and Training Act 1973[^f00002],
+- (b) Child Support Act 1991[^f00003],
+- (c) Social Security Contributions and Benefits Act 1992[^f00004],
+- (d) Disability (Grants) Act 1993[^f00005],
+- (e) Social Security (Incapacity for Work) Act 1994[^f00006],
+- (f) Jobseekers Act 1995[^f00007],
+- (g) Pensions Act 1995[^f00008],
+- (h) Social Security Act 1998[^f00009],
+- (i) Welfare Reform and Pensions Act 1999[^f00010], and
+- (j) Child Support, Pensions and Social Security Act 2000[^f00011].
+
+(3) In paragraphs (1) and (2) “relevant documents” means documents that relate to the grant paid.
+
+(4) For the purposes of paragraph (1), the circumstances in which a person is in receipt of a grant from a body include circumstances in which that body pays the grant for or on behalf of another body.
+
+## 3. Train Operating Companies
+
+(1) Section 8(1) of the Government Resources and Accounts Act 2000 shall apply in relation to relevant documents held or controlled by a body that is or was a franchisee or franchise operator as defined by section 23 of the Railways Act 1993[^f00012].
+
+(2) In paragraph (1) “relevant documents” means documents that relate to the functions carried out by the franchisee or franchise operator.
+
+## 4. Registered Social Landlords
+
+(1) Section 8(1) of the Government Resources and Accounts Act 2000 shall apply in relation to relevant documents held or controlled by a body that is or was a registered social landlord.
+
+(2) In paragraph (1) “registered social landlord” means a body in England that is registered as a social landlord in a register maintained under section 1(1) of the Housing Act 1996[^f00013] and “relevant documents” means documents that relate to the functions carried out by the registered social landlord.
+
+## 5. Contracts and subcontracts
+
+(1) Section 8(1) of the Government Resources and Accounts Act 2000 shall apply in relation to relevant documents held or controlled by a person in circumstances in which that person has or had a contractual obligation to supply goods or services to a body the accounts of which are examined by the Comptroller and Auditor General pursuant to powers conferred by or under statute or pursuant to arrangements made in accordance with a Royal Charter.
+
+(2) Section 8(1) of the Government Resources and Accounts Act 2000 shall apply in relation to relevant documents held or controlled by a person in circumstances in which that person has or had a contractual obligation to supply goods or services indirectly to a body the accounts of which are examined by the Comptroller and Auditor General pursuant to powers conferred by or under statute or pursuant to arrangements made in accordance with a Royal Charter.
+
+(3) For the purposes of paragraph (2), a person has a contractual obligation to supply goods or services indirectly to a body the accounts of which are examined as in that paragraph if and only if that person has a contractual obligation to supply goods or services that arises from a contract which is a subcontract in relation to a main contract between the body the accounts of which are so examined and another person or body.
+
+(4) For the purposes of paragraph (3), a contract is a subcontract in relation to a main contract if its performance would fulfil, or contribute to the fulfilment of, an obligation to supply goods or services in the main contract.
+
+(5) In paragraphs (1) and (2) “relevant documents” means documents that relate to the contractual obligation to supply goods or services.
+
+## 6. Landfill Tax Credit Scheme Regulator
+
+(1) Section 8(1) of the Government Resources and Accounts Act 2000 shall apply in relation to relevant documents held or controlled by a body that is or was the regulatory body for the Landfill Tax Credit Scheme.
+
+(2) For the purposes of this article, the regulatory body for the Landfill Tax Credit Scheme is the body approved under regulation 35 of the Landfill Tax Regulations 1996[^f00014] to carry out the functions prescribed by regulation 34(1) of those Regulations as amended from time to time.
+
+(3) In paragraph (1) “relevant documents” means documents that relate to the functions carried out by the regulatory body for the Landfill Tax Credit Scheme.
+
+Nick Ainger
+
+Philip Woolas
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+15th May 2003
+
+(This Note does not form part of the Order)
+
+This Order implements part of the Government’s policy set out in its response, published on 13th March 2002 (Cm 5456), to Lord Sharman’s report on audit and accountability in Central Government. The Order gives the Comptroller and Auditor General access, for the purpose of his financial audit of the accounts of government departments and non-departmental public bodies, to documents held or controlled by train operating companies, registered social landlords, and the regulator of the Landfill Tax Credit Scheme.
+
+The Order also gives the Comptroller and Auditor General access for that purpose to documents relating to grants of public money (other than grants paid to individuals under the legislation referred to in Article 2(2)), to documents relating to contracts for the provision of goods or services to bodies audited by the Comptroller and Auditor General, and to documents relating to subcontracts in relation to such contracts.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20).
+
+[^f00002]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
+
+[^f00003]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).
+
+[^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00005]: Footnote: [1993 c. 14](https://www.legislation.gov.uk/ukpga/1993/14).
+
+[^f00006]: Footnote: [1994 c. 18](https://www.legislation.gov.uk/ukpga/1994/18).
+
+[^f00007]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00008]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^f00009]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00010]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^f00011]: Footnote: [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19).
+
+[^f00012]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^f00013]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
+
+[^f00014]: Footnote: S.I. [1996/1527](https://www.legislation.gov.uk/uksi/1996/1527); relevant amending instrument is S.I. [1999/3270](https://www.legislation.gov.uk/uksi/1999/3270).

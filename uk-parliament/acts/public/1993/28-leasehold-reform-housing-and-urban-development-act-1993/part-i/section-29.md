@@ -1,0 +1,61 @@
+---
+title: Leasehold Reform, Housing and Urban Development Act 1993, section 29
+act: Leasehold Reform, Housing and Urban Development Act 1993
+section: '29'
+status: revised-with-pending-changes
+text_date: '2025-05-19'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1993/28/section/29
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Leasehold Reform, Housing and Urban Development Act 1993, section 29
+
+> **Warning: changes not yet applied to this text (453).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/28
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 29. Deemed withdrawal of initial notice.
+
+*Extent: E+W*
+
+(1) Where, in a case falling within paragraph (a) of subsection (1) of section 22—
+
+- (a) no application for an order under that subsection is made within the period specified in subsection (2) of that section, or
+- (b) such an application is so made but is subsequently withdrawn,
+
+the initial notice shall be deemed to have been withdrawn—
+
+- (i) (if paragraph (a) above applies) at the end of that period, or
+  - (ii) (if paragraph (b) above applies) on the date of the withdrawal of the application.
+
+(2) Where—
+
+- (a) in a case to which subsection (1) of section 24 applies, no application under that subsection is made within the period specified in subsection (2) of that section, or
+- (b) in a case to which subsection (3) of that section applies, no application for an order under subsection (4) of that section is made within the period specified in subsection (5) of that section,
+
+the initial notice shall be deemed to have been withdrawn at the end of the period referred to in paragraph (a) or (b) above (as the case may be).
+
+(3) Where, in a case falling within paragraph (a) or (b) of subsection (1) of section 25, no application for an order under that subsection is made within the period specified in subsection (4) of that section, the initial notice shall be deemed to have been withdrawn at the end of that period.
+
+(4) Where, in a case to which subsection (5) of section 25 applies, no application for an order under subsection (6) of that section is made within the period specified in subsection (7) of that section, the initial notice shall be deemed to have been withdrawn at the end of that period.
+
+(5) The following provisions, namely—
+
+- (a) section 15(10),
+- (b) section 16(8),
+- (c) section 20(3),
+- (d) section 24(4)(c), and
+- (e) section 25(6)(c),
+
+also make provision for a notice under section 13 to be deemed to have been withdrawn at a particular time.
+
+(6) Where the initial notice is deemed to have been withdrawn at any time by virtue of any provision of this Chapter, subsections (4) and (5) of section 28 shall apply for the purposes of this section in like manner as they apply where a notice of withdrawal is given under that section, but as if the reference in subsection (4) of that section to the time when a notice or copy is given as there mentioned were a reference to the time when the initial notice is so deemed to have been withdrawn.
+
+(7) Where the initial notice is deemed to have been withdrawn by virtue of section 15(10) or 16(8)—
+
+- (a) the liability for costs arising by virtue of subsection (6) above shall be a joint and several liability of the persons concerned; and
+- (b) the nominee purchaser shall not be liable for any costs under section 33.
+
+(8) In the provisions applied by subsection (6), “**relevant costs**”, in relation to the reversioner or any other relevant landlord, means costs for which the nominee purchaser is, or would (apart from subsection (7)) be, liable to that person under section 33.

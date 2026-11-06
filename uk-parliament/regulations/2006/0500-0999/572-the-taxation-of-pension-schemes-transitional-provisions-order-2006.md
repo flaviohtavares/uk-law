@@ -1,0 +1,1919 @@
+---
+title: The Taxation of Pension Schemes (Transitional Provisions) Order 2006
+id: uksi/2006/572
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-03-09'
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/572
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/572/pdfs/uksiem_20060572_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/572/pdfs/uksi_20060572_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/572/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Taxation of Pension Schemes (Transitional Provisions) Order 2006
+
+> Text as at 2026-06-25.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2006 No. 572
+
+INCOME TAX
+
+The Taxation of Pension Schemes (Transitional Provisions) Order 2006
+
+Made
+
+9th March 2006
+
+Laid before the House of Commons
+
+10th March 2006
+
+Coming into force
+
+6th April 2006
+
+The Treasury make the following Order in exercise of the powers conferred upon them by section 283(2) of the Finance Act 2004[^f00001].
+
+## 1. Citation and commencement[^key-de4c095f647d58248f89dd4606882131]
+
+(1) This Order may be cited as the Taxation of Pension Schemes (Transitional Provisions) Order 2006 and shall come into force on 6th April 2006.
+
+(2) In this Order—
+
+- “Revenue and Customs” means Her Majesty’s Revenue and Customs (see section 4 of the Commissioners for Revenue and Customs Act 2005[^f00002]);
+- “the 2004 Act” means the Finance Act 2004;
+- “Part 4” means Part 4 of the Finance Act 2004;
+- “[^key-202716db66ae3c3a23a8a41025601792]**relevant benefit crystallisation event**” has the same meaning as in section 637S of ITEPA 2003 (availability of individual’s lump sum and death benefit allowance);
+- a reference to a numbered section or Schedule (without more) is a reference to the section or Schedule bearing that number in Part 4; and
+- expressions which are defined, or are otherwise explained, in section 280 have the same meaning in this Order as they have in Part 4.
+
+## 2. Payments made from annuities[^key-b66e9f3519abfebae6b4f7c34ee1d273]
+
+(1) In its application to any pension scheme which by virtue of paragraph 1(1) of Schedule 36 (pension schemes: transitional provisions and savings)—
+
+- (a) is to be treated as becoming a registered pension scheme on 6th April 2006;
+- (b) would have been so treated had it not been wound up before that date; or
+- (c) would have been so treated if the scheme administrator had not notified Revenue and Customs under paragraph 2 of Schedule 36 (opting out of deemed registration) that the pension scheme was not to become a registered pension scheme on that date,
+
+section 161 (meaning of “payment” etc) is modified as follows.
+
+(2) In subsection (3) after the words “of a registered pension scheme” add—
+
+> or, if the purchase took place before 6th April 2006, a pension scheme which at the time of purchase fell within one of the categories set out in paragraph 1(1)(a) to (g) of Schedule 36.
+
+.
+
+(3) After subsection (3) add—
+
+> (3A) But subsection (4) does not apply to a payment made or benefit provided under or in connection with an annuity which fulfils the following conditions.
+>
+> - *Condition 1*
+>
+>   The annuity was purchased from an insurance company.
+> - *Condition 2*
+>
+>   The annuity was purchased by a pension scheme which at the time of purchase fell within one of the categories set out in paragraph 1(1)(a) to (g) of Schedule 36.
+> - *Condition 3*
+>
+>   The annuity was purchased in order to secure or provide benefits under the scheme referred to in Condition 2.
+> - *Condition 4*
+>
+>   The terms of the annuity, or of any arrangement or agreement made in connection with that annuity do not permit a payment, the making of which would have given the Board [^f00003] grounds for withdrawing approval of the pension scheme under section 591B of ICTA if it had been made before 6th April 2006.
+> - *Condition 5*
+>
+>   The terms of the annuity contract have not been altered on or after 6th April 2006 to allow a payment that would be an unauthorised payment if it had been made by a registered pension scheme.
+
+.
+
+(4) In its application to any pension scheme which falls within sub-paragraph (1)(b) section 161(4) is modified as follows.
+
+(5) For the words “held for the purpose of the pension scheme” substitute “held for the purposes of a registered pension scheme”.
+
+## 3. Commencement provisions for unsecured pension funds[^key-53b8d85325147b20c4b4ab92400eb434]
+
+Part 4 of the 2004 Act shall be modified as set out in articles 4 and 5 in its application to any pension which—
+
+- (a) was paid by way of income withdrawal, income drawdown or annuity purchase deferral from a retirement benefits scheme, or a personal pension scheme approved under Part 14 of ICTA immediately before 6th April 2006; and
+- (b) on 6th April 2006 becomes an unsecured pension or a dependant’s unsecured pension by virtue of a scheme which is treated as becoming a registered pension scheme on that date (see paragraph 1 of Schedule 36).
+
+## 4. Modification of section 165[^key-5d39bcddcfbcfcaace4ab14d7c9744e3]
+
+(1) Section 165(1) (pension rules) shall be modified as follows.
+
+(2) In pension rule 5 after “basis amount for the unsecured pension year” add “or 100% of that amount during the first reference period as defined in paragraph 10(1A) of Schedule 28.”.
+
+(3) Section 167(1) (pension death benefit rules) shall be modified as follows.
+
+(4) In pension death benefit rule 4 after “basis amount for the unsecured pension year” add “or 100% of that amount during the first reference period as defined in paragraph 24(1A) of Schedule 28.”.
+
+## 5. Modification of Schedule 28[^key-e46b59f595577e347701c86717b41818]
+
+(1) Schedule 28 (registered pension schemes: authorised pensions—supplementary) shall be modified as follows.
+
+(2) In paragraph 10—
+
+- (a) in sub-paragraph (1) for “The period of five unsecured pension years” substitute “The first reference period as defined in sub-paragraph (1A) below”;
+- (b) after sub-paragraph (1) insert a new sub-paragraph as follows—
+
+  > (1A) The “first reference period” is the period commencing on 6th April 2006 and terminating on the earliest of—
+  >
+  > - (a) the day immediately before the day fixed by the scheme administrator on which to recalculate the basis amount;
+  > - (b) the day immediately before the day on which the basis amount was recalculated following an annuity purchase;
+  > - (c) 6th April 2008.
+
+  ;
+- (c) in sub-paragraph (2) for “sub-paragraph (5)” substitute “sub-paragraphs (2A) and (5).”;
+- (d) after sub-paragraph (2) insert the following sub-paragraph—
+
+  > (2A) For the first reference period as defined in sub-paragraph (1A), the basis amount is—
+  >
+  > - (a) the annual amount of the annuity calculated pursuant to section 630 of ICTA;
+  > - (b) the maximum annual pension calculated in accordance with the rules set out in Appendix XII Part I of the Occupational Pension Schemes Practice Notes (IR12) published by the Board on 22nd January 2001 (“the Notes”);
+  > - (c) the annual amount of pension income which has been paid in accordance with paragraph 20.41 of the Notes in respect of a retirement benefits scheme approved for the purposes of Chapter 1 of Part 14 of ICTA, being paid as a small self-administered pension pursuant to the terms of Memorandum 119 issued on 6th May 1994 by the Board[^f00004].
+  >
+  > which could have been purchased by the application of the sums and assets which then represented the member’s pension fund on the nominated date.
+
+  ;
+- (e) in sub-paragraph (3)(a) for “the reference date” substitute “the applicable reference date”;
+- (f) after sub-paragraph (3) insert—
+
+  > (3A) “The applicable reference date” is the date on which the pension fund was last valued —
+  >
+  > - (a) in the case of a personal pension fund, pursuant to section 634A of ICTA (income withdrawal by member),
+  > - (b) in the case of a retirement benefits scheme (other than one falling within paragraph (c) below), pursuant to the rules set out in the Notes, or
+  > - (c) in the case of a retirement benefits scheme referred to in sub-paragraph (2A)(c), the date of the scheme’s last triennial report as required by paragraph 20.41 of the Notes.
+
+  .
+
+(3) In paragraph 24—
+
+- (a) in sub-paragraph (1) for the words “The period of five unsecured pension years” substitute “The first reference period as defined in sub-paragraph (1A) below”;
+- (b) after sub-paragraph (1) insert a new sub-paragraph as follows—
+
+  > (1A) The “first reference period” is the period commencing on 6th April 2006 and terminating on the earliest of—
+  >
+  > - (a) the day immediately before the day fixed by the scheme administrator on which to recalculate the basis amount;
+  > - (b) the day immediately before the day on which the basis amount was recalculated following an annuity purchase;
+  > - (c) 6th April 2008.
+
+  ;
+- (c) in sub-paragraph (2) for “sub-paragraph (5)” substitute “sub-paragraphs (2A) and (5).”;
+- (d) after sub-paragraph (2) insert the following sub-paragraph—
+
+  > (2A) For the first reference period as defined in sub-paragraph (1A), the basis amount is—
+  >
+  > - (a) the annual amount of the annuity calculated pursuant to section 630 of ICTA,
+  > - (b) the maximum annual pension calculated in accordance with the rules set out in Appendix XII Part I of the Occupational Pension Schemes Practice Notes (IR12) published by the Board on 22nd January 2001 (“the Notes”) or,
+  > - (c) the annual amount of pension income that has been paid in accordance with paragraph 20.41 of the Notes in respect of a retirement benefits scheme approved for the purposes of Chapter 1 of Part 14 of ICTA, being paid as a small self-administered pension calculated pursuant to the terms of Memorandum 119 issued by the Board on 6 May 1994
+  >
+  > which could have been purchased by the application of the sums and assets which then represented the member’s pension fund on the nominated date.
+
+  ;
+- (e) in sub-paragraph (3)(a) for “the reference date” substitute “the applicable reference date”;
+- (f) after sub-paragraph (3) insert—
+
+  > (3A) “The applicable reference date” is the date on which the pension fund was last valued—
+  >
+  > - (a) in the case of a personal pension fund, pursuant to section 636A of ICTA (income withdrawal after the death of member),
+  > - (b) in the case of a retirement benefits scheme (other than one falling within paragraph (c) below), pursuant to the rules set out in the Notes, or
+  > - (c) in the case of a retirement benefits scheme referred to in sub-paragraph (2A)(c), the date of the scheme’s last triennial report as required by paragraph 20.41 of the Notes.
+
+  .
+
+## 5A. Reduction in rate of pension[^key-06eddd4bc99a5ec60b4693f119c06a4d]
+
+(1) Part 4 of the 2004 Act shall be modified as set out in paragraph (2) in a case where the following conditions are satisfied—
+
+- (a) the pension came into payment before 3rd July 2007;
+- (b) the pension is paid to a person who was a member of the pension scheme on 5th April 2006;
+- (c) on 5th April 2006 the rules of the pension scheme included provision that there shall or may be a reduction in the rate of the pension (“the rate reduction provisions”);
+- (d) the pension is paid at a rate required or permitted by the rate reduction provisions;
+- (e) the rate reduction provisions would not have prejudiced the approval of the pension scheme by the Inland Revenue or by Her Majesty’s Revenue and Customs;
+- (f) the rate reduction provisions did not change in any material particular between 5th April 2006 and the date at which the pension became payable at the reduced rate.
+
+(2) In paragraph 2(4) of Schedule 28 to the 2004 Act insert after paragraph (d)—
+
+> - (da) a reduction in respect of which an order made under section 283(2) and (3C) makes transitional provision,
+
+.
+
+(3) For the purposes of this article, whether something would have prejudiced the approval of the pension scheme by the Inland Revenue or by Her Majesty’s Revenue and Customs is to be determined—
+
+- (a) in the case of an occupational pension scheme approved for the purposes of Chapter 1 of Part 14 of ICTA, in accordance with the publication IR 12(2001) (known as the Occupational Pension Schemes Practice Notes) published by the former Inland Revenue Pension Schemes Office on 23rd March 2001, and
+- (b) in the case of a personal pension scheme approved under Chapter 4 of Part 14 of ICTA, in accordance with the publication IR 76(2000) published by the former Inland Revenue Pension Schemes Office on 20th November 2000,
+
+as each of those publications stood at 5th April 2006.
+
+## 6. Transitional protection for continued life cover (75+)[^key-e82c7e3f3e3f1def2af0c7b537d0fd62]
+
+The modifications in articles 7 and 8 apply in the case of a member of a registered pension scheme who satisfies the following conditions.
+
+- *Condition A*
+
+  The registered pension scheme was, immediately before 6th April 2006, a retirement benefits scheme approved for the purposes of Chapter 1 of Part 14 of ICTA (retirement benefits schemes).
+- *Condition B*
+
+  The member had a right under the pension scheme to a life cover lump sum on 5th April 2006.
+- *Condition C*
+
+  The rules of the pension scheme on 10th December 2003 included provision conferring such a right on some or all of the persons who were then members of the pension scheme, and such a right was either then conferred on the member or would have been had the member been a member of the scheme on that date.
+- *Condition D*
+
+  The rules of the scheme in relation to life cover lump sums have not been changed since 10th December 2003.
+- *Condition E*
+
+  The member was—
+
+  - (a) in receipt of benefits from the scheme on or before 5th April 2006, or
+  - (b) entitled to one or more life cover lump sums, amounting in the aggregate, to £2,500 or less.
+
+## 7. Modification of Chapter 15A of ITEPA 2003[^key-2e5e5a5ea9bf20dd318654a677048fa1]
+
+Chapter 15A of ITEPA 2003 (lump sums under registered pension schemes) has effect as if, after section 637N, there were inserted—
+
+> **637NA. Life cover lump sums**
+>
+> (1) No liability to income tax arises on a life cover lump sum.
+
+.
+
+## 8. Modification of section 168 and Schedule 29[^key-356c43ba792f0f93898b8ee8d787b2b0]
+
+(1) The 2004 Act is modified as follows.
+
+(2) In section 168(1) (lump sum death benefit rule) after paragraph (i) insert—
+
+> - (j) a life cover lump sum.
+
+.
+
+(3) In Part 2 of Schedule 29 (registered pension schemes: supplementary provisions about lump sums) after paragraph 21 insert—
+
+> **21A. Life cover lump sum**
+>
+> For the purposes of this Part a lump sum death benefit is a life cover lump sum if—
+>
+> - (a) the member had reached the age of 75 before he died;
+> - (b) payment of the sum would not have prejudiced approval of the scheme for the purposes of Chapter 1 of Part 14 of ICTA if it had been made on 5th April 2006.
+
+.
+
+## 9. Valuation of “primary protection” – compensation for poorly performing investments[^key-1feacaa508b35038cb4e51769d69ec80]
+
+Part 4 of 2004 Act shall be modified as set out in articles 10 and 11 in its application to any individual who has given notice of intention to rely on paragraph 7 Schedule 36 where the following conditions are met—
+
+- *Condition A*
+
+  The pension scheme in respect of which the individual has given notice is either—
+
+  - (a) a money purchase arrangement that is not a cash balance arrangement; or
+  - (b) a hybrid arrangement where the benefits that may be provided include money purchase benefits that are not cash balance benefits.
+- *Condition B*
+
+  An amount is paid into the pension scheme, or is determined as being so payable, between 6th April 2006 and 5th April 2009, in respect of compensation for the poor performance of an investment owned by that scheme.
+- *Condition C*
+
+  The investment in respect of which the compensation is payable was owned by the pension scheme at any time before 6th April 2006 and was offered for sale to the public on the open market.
+- *Condition D*
+
+  The amount of compensation paid, or determined as being so payable, is an amount which might reasonably have been expected to be paid between two parties in the same position as the payer and the scheme administrator acting at arm’s length.
+
+## 10. Modification of section 212[^key-63a5db614044cf4f77e2c516dc45c6c4]
+
+(1) Section 212 (valuation of uncrystallised rights for the purposes of section 210) is modified, for the purposes of calculating the value of *RR* in paragraph 7(5)[^key-3011104505430745ad1955f3cd59c2a9] of Schedule 36*,* as follows.
+
+(2) In subsection (5) (valuation of money purchase arrangements other than cash balance arrangements) after paragraphs (a) and (b) add—
+
+> together with the value, if any, of any relevant compensation on 5th April 2006.
+
+.
+
+(3) After subsection (5) add—
+
+> (5A) For the purposes of subsections (5) and (7) relevant compensation is the market value, calculated in accordance with section 278, of any compensation paid or payable in respect of the poor performance of an investment owned by the pension scheme on the earlier of the date of payment of the compensation or 5th April 2009.
+
+.
+
+(4) In subsection (7) (valuation of hybrid arrangements) after paragraphs (a) and (b) add—
+
+> together with any hybrid compensation as defined in subsection (7A) below.
+
+.
+
+(5) After subsection (7) add—
+
+> (7A) For the purposes of subsection (7) hybrid compensation is—
+>
+> - (a) any relevant compensation payable in respect of a money purchase arrangement which forms part of the hybrid arrangement calculated in accordance with subsection (5A); less
+> - (b) the value of the hybrid arrangement calculated in accordance with subsection (7) less the value of any sums or assets representing other money purchase benefits calculated in accordance with subsection (5).
+>
+> If this calculation results in a negative amount, the amount of relevant compensation to be added to the value of the member’s uncrystallised rights under this subsection is nil.
+
+.
+
+## 11. Modification of paragraph 8 of Schedule 36[^key-e477386a176e3c0c49f7e51e65fcacb6]
+
+(1) Part 2 of Schedule 36 (pre-commencement rights: enhancement of allowances etc[^key-b75277f14004f7f823c791cb2ab72f78]) is modified as follows.
+
+(2) In paragraph 8(5) after the words “(valuation of uncrystallised rights for the purposes of section 210)” add—
+
+> (as modified by article 10 of The Taxation of Pension Schemes (Transitional Provisions) Order 2006)
+
+.
+
+## 12. “Primary protection” and non residents[^key-a8f90bd1ae4814ae2a3b0b7535ef5125]
+
+(1) Part 4 of the 2004 Act shall have effect subject to the modifications set out in articles 13 and 14 below in its application to any individual to whom either paragraph (2) or (3) applies
+
+(2) This paragraph applies if the following conditions are met—
+
+- *Condition A*
+
+  The individual has given the Inland Revenue a notice under sub-paragraph (1)(b) of paragraph 20B of Schedule 36 of the individual’s intention to rely on that paragraph[^key-e6a9f9e51ecba6acc12e812249d35e2c] where the active membership period in relation to the arrangement in respect of which the notice was given commenced on 6th April 2006
+- *Condition B*
+
+  The individual would have been a relevant overseas individual in the tax year 2005-06 pursuant to sub-paragraph (5) of paragraph 20B of Schedule 36 had that sub-paragraph[^key-ae857bdfae0db3728f4b5cbb18f24629] been in force during that year.
+- *Condition C*
+
+  The individual gives or has already given notice to the Inland Revenue pursuant to paragraph 7(1)(b) of Schedule 36 that he intends to rely on that paragraph.
+
+(3) This paragraph applies if the following conditions are met—
+
+- *Condition A*
+
+  The individual has given the Inland Revenue a notice under paragraph 7(1)(b) of Schedule 36 of his intention to rely on that paragraph.
+- *Condition B*
+
+  The individual gives or has already given notice to the Inland Revenue pursuant to sub-paragraph (1)(b) of paragraph 20B of Schedule 36 that the individual intends to rely on that paragraph[^key-0d723ad0fd47cd8041f80c76047cd32a] where the active membership period in relation to the arrangement in respect of which the notice was given commenced on 6th April 2006.
+- *Condition C*
+
+  The individual would have been a relevant overseas individual in the tax year 2005-06 pursuant to sub-paragraph (5) of paragraph 20B of Schedule 36 had that sub-paragraph[^key-8c5e3d88fa993274cd5e3daa303aeb86] been in force during that year.
+
+## 13. Modification of paragraph 20C of Schedule 36[^key-1cec2fcbcea84000040efaf264b557d9]
+
+Paragraph 20C of Schedule 36 to the 2004 Act (non-residence: money purchase arrangements) has effect as if—
+
+- (a) in sub-paragraph (4), for the definition of B there were substituted—
+
+  > - “**B**” is the value of the individual's rights under the arrangement on 5th April 2006 calculated in accordance with sub-paragraph (5)(b) multiplied by 0.7154.
+
+  ;
+- (b) for sub-paragraph (5)(b) there were substituted—
+
+  > - (b) the value of the individual's rights under the arrangement on 5th April 2006 is the amount which would, on the valuation assumptions, be available for the provision of benefits to or in respect of the individual under the arrangement if the individual became entitled to the benefits on 5th April 2006.
+
+  .
+
+## 14. Modification of paragraph 20D of Schedule 36[^key-e76cd3d2a5b4d2a5377461d4f0f651c4]
+
+Paragraph 20D of Schedule 36 to the 2004 Act (non-residence: other arrangements) has effect as if—
+
+- (a) in sub-paragraph (4), in the definitions of D and E, for “at the beginning of that part of that period” there were substituted “on 5th April 2006 increased in accordance with sub-paragraph (4A)”;
+- (b) after sub-paragraph (4) there were inserted—
+
+  > (4A) D and E are increased by multiplying the appropriate figure by 0.7154.
+
+  .
+
+## 15. Employers or employees with pre-commencement entitlement to corresponding relief[^key-90e3d817be8c8bf1f8b145a138e4bd8c]
+
+(1) This article applies where Revenue and Customs allow contributions made between 1st April 2005 and 5th April 2006 by an employer under a pension scheme for the benefit of an employee (a “qualifying employee”) to be deducted in accordance with section 76(6A) and (6C) of the Finance Act 1989[^f00007]—
+
+- (a) for the purposes of Case I or Case II of Schedule D;
+- (b) in respect of management expenses under section 75 of ICTA[^f00008]; or
+- (c) in respect of the expenses of an insurance company under section 76 of ICTA[^f00009];
+- (d) in respect of profits of a trade, profession or vocation chargeable under section 5 of the Income Tax (Trading and Other Income) Act 2005[^f00010].
+
+(2) Where, at any time on or after 6th April 2006, the employer makes contributions under the pension scheme referred to in paragraph (1) for the benefit of the qualifying employee, Revenue and Customs may allow the contributions to be treated as if they were relevant migrant member contributions under paragraph 2 of Schedule 33 if—
+
+- (a) they are satisfied that the conditions in paragraph (3) are met, and
+- (b) the scheme manager complies with any prescribed benefit crystallisation information requirements imposed on the scheme manager.
+
+(3) The conditions are that—
+
+- (a) the contribution consists of the expenses of paying any sum, or of providing benefits, pursuant to a pension scheme which is established outside the United Kingdom; and
+- (b) Revenue and Customs are satisfied that that scheme corresponds to such a scheme as is registered under Part 4 of the 2004 Act.
+
+(4) For the purposes of this article and article 17, “Prescribed benefit crystallisation information requirements“ means requirements imposed by regulation 2 of the Pension Schemes (Information Requirements – Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006[^f00011] (“the Overseas Information Requirements Regulations”).
+
+For the purposes of this article, the provisions of regulation 2 of the Overseas Information Requirements Regulations shall apply to qualifying employees.
+
+(5) The references in paragraphs (2), (3) and (4) to a pension scheme include a pension scheme to which there has been a block transfer on or after 6th April 2006 from a pension scheme to which paragraph (2) applies.
+
+(6) In this article “block transfer” has the same meaning as in paragraph 22(6) of Schedule 36 but treating the references there to “the member” as references to the qualifying employee.
+
+## 16. Modification of section 245[^key-c0b43ccc0abe188b61683e634cd3118e]
+
+(1) In a case falling within article 15, section 245 (restriction of deduction for contributions by employer) is modified as follows.
+
+(2) In subsection (5)—
+
+- (a) after the words “(deductions to which Schedule does not apply)” insert “(a)”; and
+- (b) after the words “relevant migrant member of the pension scheme in relation to the contributions,” insert—
+
+  > and
+  >
+  > - (b) after paragraph (g) insert—
+  >
+  >   > - (h) in respect of contributions which have been given relief under section 196 as applied by paragraph 2 of Schedule 33 and modified by article 15 of The Taxation of Pension Schemes (Transitional Provisions) Order 2006.
+  >
+  >   .
+
+  .
+
+## 17. Application of 308A ITEPA 2003[^key-d560dbb9d025ff66bcc535d4ab66a530]
+
+(1) This article applies where—
+
+- (a) Revenue and Customs allow an employee (an “exempt employee”) to be exempted from income tax under section 390 ITEPA 2003 in relation to contributions made between 6th April 2005 and 5th April 2006 by his employer under a pension scheme; and
+- (b) the conditions in paragraph (2) are met.
+
+(2) The conditions are
+
+- *Condition A*
+
+  The scheme manager of the pension scheme referred to in paragraph (1)(a) complies with any prescribed benefit crystallisation information requirements imposed on the scheme manager.
+- *Condition B*
+
+  Revenue and Customs are satisfied that the pension scheme corresponds to such a scheme as is registered under Part 4 of this Act.
+
+(3) For the purposes of this article, the provisions of regulation 2 of the Overseas Information Requirements Regulations shall apply to exempt employees.
+
+(4) Section 308A of ITEPA 2003[^f00012] (exemption of contributions to overseas pension scheme) shall apply in relation to any contributions made on or after 6th April 2006 for the benefit of the employee by an employer under the pension scheme as if—
+
+- (a) the pension scheme were a qualifying overseas pension scheme, and
+- (b) the contributions were relevant migrant member contributions.
+
+(5) The references in paragraphs (1) and (2) to a pension scheme include a pension scheme to which there has been a block transfer on or after 6th April 2006 from a pension scheme to which paragraphs (1) and (2) apply.
+
+(6) In this article “block transfer” has the same meaning as in paragraph 22(6) of Schedule 36 but treating the references there to “the member” as references to the exempt employee.
+
+## 18. “Enhanced protection” and pension commencement lump sums[^key-6ad71eeb585216a8a46a64e444ee6277]
+
+If (and for so long) as paragraph 27 or 29 of Schedule 36 applies in relation to an individual, paragraph 1(1) of Schedule 29 (supplementary provision about authorised lump sums: meaning of “pension commencement lump sum”) shall have effect, in relation to that individual, with the omission of paragraph (b) (requirement that lump sum payable only when all or part of lump sum allowance and all or part of lump sum and death benefit allowance[^key-3011a81689c08d840846faa9a26dc2e1] available) , and section 239 has effect in the case of a lump sum paid to that individual as if its subsection (3)(b) did not include a reference to paragraph 1(1)(b) of Schedule 29[^key-0767e85c0304b053f31c576f07907266].
+
+## 19. Pre-commencement pension and calculation of the “permitted maximum” pension commencement lump sum[^key-219d3e9d39528acc528a87488dc60c3b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Pre-commencement lump sum death benefits[^key-444e4c34480a08e7adb29bbdfd03b588]
+
+(1) In the case of an individual who dies on or after 6th April 2006 and meets the conditions in paragraph (2) paragraph (3) applies.
+
+(2) The conditions are—
+
+- *Condition A*
+
+  The individual had an actual right to one or more pre-commencement pensions immediately before his death.
+- *Condition B*
+
+  No benefit crystallisation event within the meaning of Part 4 of FA 2004 as that Part had effect immediately before 6 April 2024, and no relevant benefit crystallisation event,[^key-23aeb254f6fec9224dffc5ef2e431c2e] has occurred in relation to the individual before his death.
+- *Condition C*
+
+  After the individual’s death a single relevant[^key-3b3d08fc6fce029ff4e3042fea940ef8] benefit crystallisation event occurs in relation to that individual by reason of the payment of a lump sum death benefit in respect of that individual.
+
+(3) Paragraph 20(2)(b) of Schedule 36 is to be treated as providing that the amount of the lump sum death benefit to which the relevant benefit crystallisation event mentioned in Condition C relates was 25% of[^key-c7e9a3a346f89ad19d812cbcee8a7220] the value of the individual’s pre-commencement pension rights immediately before the individual’s death.
+
+## 21. Transfers and entitlement to lump sums exceeding 25% of uncrystallised rights[^key-187e7430f740b96625b6803a2ab5c849]
+
+(1) Article 23 applies[^key-ac6178e4b3d3839d48f57a2df196ad3e] if—
+
+- (a) a person was a member of a pension scheme—
+  - (i) which was in existence on 5th April 2006; and
+  - (ii) which is treated as becoming a registered pension scheme within Part 4 of the Finance Act 2004 on 6th April 2006 (see paragraph 1 of Schedule 36 to that Act); and
+- (b) on or after 6th April 2006 sums and assets held for the purposes of, or representing accrued rights, under the registered pension scheme are transferred, otherwise than by a block transfer—
+  - (i) to another registered pension scheme; or
+  - (ii) to a registered pension scheme from a registered pension scheme which has received a block transfer of the sums and assets referred to in sub-paragraph 1(b) of this article.
+
+(2) In this article “block transfer” has the meaning given in paragraph 31(8) of Schedule 36 (entitlement to lump sums exceeding 25% of uncrystallised rights).
+
+## 22. Modification of paragraph 31 of Schedule 36[^key-b89439a4615cbda0be5fca38cd9c4d14]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 23. Modification of paragraph 34 of Schedule 36[^key-633cb1bf4620afea3442d4622376834f]
+
+(1) Paragraph (2) below specifies modifications of paragraph 34 of Schedule 36 (entitlement to lump sums exceeding 25% of uncrystallised rights: definition of “**permitted maximum**” in relation to a pension commencement lump sum) that apply in the circumstances mentioned in article 21.
+
+(2) In sub-paragraph (3), for sub-paragraph (1) of the modified paragraph 2 of Schedule 29, substitute—
+
+> (1) In paragraph 1 “**the permitted maximum**”, in relation to a lump sum, means—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2006/572)
+>
+> where—
+>
+> - A is the value of the member’s uncrystallised lump sum rights under the pension scheme on 5th April 2006, calculated in accordance with paragraph 32 of Schedule 36;
+> - B is the additional lump sum amount (see sub-paragraphs (2) to (7)[^key-45436d0e7608c88b734bb4101bf5d091]);
+> - TV is the value of all sums and assets held for the purposes of, or representing accrued rights under, the pension scheme that have been transferred from it as mentioned in article 21(1)(b) of the Taxation of Pension Schemes (Transitional Provisions) Order 2006.
+
+.
+
+## 23ZA. Pension commencement lump sums where no pension is paid before death[^key-62b89f77b09672b5a432d2ec2188f0f9]
+
+(1) Subject to articles 23ZD and 23ZE, in a case where an individual has received a pension commencement lump sum, or part of a pension commencement lump sum, but dies before becoming entitled to the pension in connection with the lump sum, Schedule 36 is modified as follows.
+
+(2) For paragraph 31(3) (entitlement to lump sums exceeding 25% of uncrystallised rights – the pension condition) substitute—
+
+> (3) The pension condition is that, the scheme administrator considers that, had the individual not died—
+>
+> - (a)[^key-f64c4ad1186f89b06148aa3a1a26c6a4] the individual would have become entitled to all of the pensions payable to the individual under arrangements under the pension scheme (to which the individual did not have an actual entitlement on or before 5th April 2006) on the same date , and[^key-a29786ba60d4bf19729db5af239fb353]
+> - (b) the individual would not have become entitled to more than one pension commencement lump sum in connection with becoming entitled to those pensions.
+
+.
+
+(3)[^key-3f8f4c989734783df6192df7550d77c1] In determining the amount of the additional lump sum amount under paragraph 2(2) of Schedule 29, as modified by paragraph 34(3) of Schedule 36 (entitlement to lump sums exceeding 25% of uncrystallised rights: definition of “**permitted maximum**” in relation to a pension commencement lump sum), it is to be assumed that the member became entitled immediately before death to the present payment of the relevant pension in connection with which the lump sum in question is paid.
+
+## 23ZB. Pension commencement lump sums and multiple pensions
+
+(1) Article 23ZC applies where—
+
+- (a) there is a single pension commencement lump sum;
+- (b) the lump sum is paid in connection with at least two of the three types of pension listed in paragraph (4) from the same registered pension scheme; and
+- (c) an individual becomes entitled to all of the pensions in connection with which the pension commencement lump sum is paid within the specified period.
+
+(2) Article 23ZD applies where—
+
+- (a) there is a single pension commencement lump sum;
+- (b) the scheme administrator anticipated that the lump sum would be paid in connection with at least two of the three types of pension listed in paragraph (4) from the same registered pension scheme;
+- (c) an individual received the lump sum, or part of the lump sum, but died before becoming entitled to any of the pensions; and
+- (d) the scheme administrator considers that, had the individual not died, the individual would have become entitled to all of the pensions in connection with the lump sum within the specified period.
+
+(3) Article 23ZE applies where—
+
+- (a) there is a single pension commencement lump sum;
+- (b) the scheme administrator anticipated that the lump sum would be paid in connection with at least two of the three types of pension listed in paragraph (4) from the same registered pension scheme;
+- (c) an individual received the lump sum, or part of the lump sum, but died before the end of the specified period after becoming entitled to at least one but not all of the pensions; and
+- (d) the scheme administrator considers that, had the individual not died, the individual would have become entitled to all of the pensions in connection with the lump sum within the specified period.
+
+(4) The three types of pension are—
+
+- (a) a scheme pension under a defined benefits arrangement;
+- (b) a scheme pension under a money purchase arrangement;
+- (c) a lifetime annuity.
+
+(5) The “specified period” is the period of six months beginning with the earliest date on which the individual becomes entitled to any of the pensions or on which the scheme administrator considers, had the individual not died, that the individual would have become so entitled.
+
+## 23ZC. Individual becomes entitled to the pensions
+
+(1) In a case to which this article applies, Part 4 is modified as follows.
+
+(2)[^key-3e4422773b278bb0421a4b59d9edf288] For section 166(2)(a) (lump sum rule) substitute—
+
+> - (a) in the case of a pension commencement lump sum or a pension commencement excess lump sum, immediately before the person becomes entitled to the last of the pensions in connection with which it is paid (or, if the person dies before becoming entitled to the last of the pensions in connection with which it was anticipated it would be paid, immediately before death),
+
+.
+
+(3) In paragraph 31(3) of Schedule 36 for “on the same date” substitute “within a period of six months beginning with the earliest date on which the individual becomes entitled to any of the pensions”.
+
+## 23ZD. Individual dies before becoming entitled to any of the pensions
+
+(1) In a case to which this article applies, Schedule 36 is modified as follows.
+
+(2) For paragraph 31(3) substitute—
+
+> (3) The pension condition is that, the scheme administrator considers that, had the individual not died—
+>
+> - (a)[^key-c7fb116efbe49c59c0585ed035ddb792] the individual would have become entitled to all of the pensions payable to the individual under arrangements under the pension scheme (to which the individual did not have an actual entitlement on or before 5th April 2006) within a period of six months beginning with the earliest date on which the scheme administrator considers that the individual would have become entitled to any of the pensions , and[^key-94486eff56aff7b5429d90f0b387db9e]
+> - (b) the individual would not have become entitled to more than one pension commencement lump sum in connection with becoming entitled to those pensions.
+
+.
+
+(3)[^key-e801f6ddc75b95ef344813a39dfcd525] In determining the amount of the additional lump sum amount under paragraph 2(2) of Schedule 29, as modified by paragraph 34(3) of Schedule 36 (entitlement to lump sums exceeding 25% of uncrystallised rights: definition of “**permitted maximum**” in relation to a pension commencement lump sum), it is to be assumed that the member became entitled immediately before death to the present payment of each of the pensions in connection with which the lump sum in question is paid.
+
+## 23ZE. Individual dies after becoming entitled to at least one but not all of the pensions
+
+(1) In a case to which this article applies, Part 4 is modified as follows.
+
+(2)[^key-f3e48f19235102be177c849d8c534224] For section 166(2)(a) (lump sum rule) substitute—
+
+> - (a) in the case of a pension commencement lump sum or a pension commencement excess lump sum, immediately before the person becomes entitled to any of the pensions in connection with which it was anticipated that it would be paid,
+
+.
+
+(3) For paragraph 31(3) of Schedule 36 substitute—
+
+> (3) The pension condition is that, the scheme administrator considers that, had the individual not died—
+>
+> - (a)[^key-89441c5751f24494a70b40589a002ebc] the individual would have become entitled to all of the pensions payable to the individual under arrangements under the pension scheme (to which the individual did not have an actual entitlement on or before 5th April 2006) within a period of six months beginning with the earliest date on which the individual became entitled to any of the pensions , and[^key-e8200b323263d79727d7492679ed459c]
+> - (b) the individual would not have become entitled to more than one pension commencement lump sum in connection with becoming entitled to those pensions.
+
+.
+
+(4)[^key-774049ffd451557eb1e6dde10f8bce99] In determining the amount of the additional lump sum amount under paragraph 2(2) of Schedule 29, as modified by paragraph 34(3) of Schedule 36 (entitlement to lump sums exceeding 25% of uncrystallised rights: definition of “**permitted maximum**” in relation to a pension commencement lump sum), it is to be assumed that the member became entitled immediately before death to the present payment of each of the pensions in connection with which the lump sum in question is paid.
+
+## 23A. Modification of trivial commutation lump sum rules[^key-8ff5867ab3739b42f42af487cfff1060]
+
+Part 4 of the 2004 Act shall be modified as set out in articles 23B to 23D.
+
+## 23B.
+
+(1) For subsection (2) (of section 166 (lump sum rule) substitute—
+
+> - (a) in the case of a pension commencement lump sum, either—
+>   - (i) immediately before the person becomes entitled to the pension in connection with which it is paid (or, if the person dies before becoming entitled to the pension in connection with which it was anticipated it would be paid, immediately before death), or
+>   - (ii) if the person becomes entitled to a trivial commutation lump sum within paragraph 7A of Schedule 29, immediately before becoming so entitled,
+
+.
+
+## 23C.
+
+(1) Schedule 29 (registered pension schemes: authorised lump sums - supplementary) is modified as follows.
+
+(2) For paragraph (aa) of paragraph 1(1) (pension commencement lump sum) substitute—
+
+> - (aa) the member becomes entitled to it either—
+>   - (i) in connection with becoming entitled to a relevant pension (or dies after becoming entitled to it, but before becoming entitled to the relevant pension in connection with which it was anticipated that the member would become entitled to it), or
+>   - (ii) in connection with a trivial commutation lump sum within paragraph 7A,
+
+.
+
+(3) In paragraph 7(1) (trivial commutation lump sum), after the words “trivial commutation lump sum if” insert “it is a lump sum within paragraph 7A or”.
+
+(4) After paragraph 7 insert—
+
+> **7A.** (1) A lump sum is within this paragraph if—
+>
+> - (a) it does not exceed £10,000[^key-75bd730125aa849c2f222bd588f1713b];
+> - (b) the member has reached normal minimum pension age (or the ill-health condition is met)[^key-260632d09fba6ffbd838248ff0dc7277] [^key-6ae0e90032c31feb9b9796f8c0fc4d68]...;
+> - (c) it is paid when all or part of the member’s lump sum allowance[^key-93a6190d00e393cbeff64804f116e86f] is available;
+> - (d) except for any pension to which the member had an actual entitlement on or before 5th April 2006, it extinguishes the member’s entitlement to benefits under the pension scheme;
+> - (e) the PCLS conditions are satisfied.
+>
+> (2) The PCLS conditions are that—
+>
+> - (a) the lump sum is paid in connection with a pension commencement lump sum (“PCLS”);
+> - (b) that PCLS would not have been a PCLS had the modifications in paragraph 34 of Schedule 36 not applied;
+> - (c) the lump sum is paid no later than one month after the PCLS;
+> - (d) since the payment of the PCLS—
+>   - (i) no contribution in respect of the member has been made into the scheme,
+>   - (ii) no recognised transfer in respect of the member has been made into or out of the scheme, and
+>   - (iii) no annuity or scheme pension has been purchased by the application of the sums or assets held by the scheme for the benefit of the member.
+
+.
+
+(5) After paragraph 9 insert—
+
+> **9A.** If a lump sum is a trivial commutation lump sum by virtue of its being within paragraph 7A, the member shall be treated as not having any uncrystallised rights under an arrangement under the pension scheme immediately before it was paid.
+
+.
+
+## 23D.
+
+(1) Schedule 36 (pension schemes etc: transitional provisions and savings) is modified as follows.
+
+(2) For paragraph 31(3) (entitlement to lump sums exceeding 25% of uncrystallised rights) substitute—
+
+> (3) The pension condition is that either—
+>
+> - (a)[^key-602a9dcaf00215922f54644b8abd36ae] the individual—
+>   - (i) becomes entitled to all the pensions payable to the individual under arrangements under the pension scheme (to which the individual did not have an actual entitlement on or before 5th April 2006) on the same date, and
+>   - (ii) does not become entitled to more than one pension commencement lump sum in connection with becoming entitled to those pensions; or
+> - (b) the individual is paid a trivial commutation lump sum within paragraph 7A of Schedule 29.
+
+.
+
+(3)[^key-f79b18671f8e807dc83784960cf36586] In paragraph 34(3), in the modified paragraph 2 of Schedule 29, in sub-paragraph (2), for the definition of D substitute—
+
+> - “**D**” is—
+>   - (a) in a case in which the lump sum is paid in connection with the individual becoming entitled to a trivial commutation lump sum within paragraph 7A of Schedule 29, the amount of the trivial commutation lump sum;
+>   - (b) otherwise, the relevant capital amount in relation to the relevant pension (see sub-paragraph (6));
+
+.
+
+## 24. Dependant’s scheme pension limit[^key-c0dbe69dee5b5c612112421c4d017f61][^key-61d3154dea7fb7e2c46c36e6004e04cc]
+
+(1) Paragraph (2) applies where the member in respect of whom the dependant’s scheme pension is payable was actually entitled to one or more relevant existing pensions (as defined in paragraph 10(2) of Schedule 36) on 5th April 2006.
+
+(2) Paragraph 16A[^f00013] of Schedule 28 shall be modified as follows.
+
+(3) After sub-paragraph (2) add—
+
+> (3) This paragraph shall not apply to a scheme pension where the member was actually entitled to that pension on 5th April 2006.
+
+.
+
+## 25. Stand-alone lump sums: introductory and definition[^key-1e5e0a875d6dbe7e5bfed18b413dfe91]
+
+(1) This article and articles 25A to 25D deal with stand-alone lump sums.
+
+(2) In those articles—
+
+- this article is introductory and sets out the definition of a stand-alone lump sum;
+- article 25A deals with the conditions that must be met before a lump sum may be classified as a stand-alone lump sum;
+- article 25B deals with the circumstances in which a stand-alone lump sum may be paid;
+- articles 25C to 25CC deal[^key-f4dbf7e9f97d62010fa00a8e26876ea2] with the tax consequences; and
+- article 25D contains further provisions.
+
+(3) In this article and in articles 25A to 25D a “stand-alone lump sum” means a lump sum which—
+
+- (a) meets all the conditions A to C[^key-df78e7cfa3953b0d8774ace132bbe68f] set out in article 25A, and
+- (b) is paid in one of the circumstances A to C set out in article 25B.
+
+## 25A. Conditions to be met by stand-alone lump sums
+
+(1) This article sets out the conditions referred to in article 25(3)(a).
+
+(2) Condition A is that, on or after 6th April 2006, the lump sum is paid to an individual under a registered pension scheme of which the individual is a member.
+
+(3) Condition B is that the lump sum is paid in circumstances where all of the member’s uncrystallised rights under the scheme come into payment on a single relevant benefit crystallisation event[^key-c7ba54a0e6d533b65baf01d4c6acbb1d].
+
+(4) Condition C is that the lump sum is paid when the member has reached normal minimum pension age (or the ill-health condition is satisfied).
+
+(5)[^key-a305a9cd134ddac7402caf422d405b01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 25B. Circumstances in which stand-alone lump sums are paid
+
+(1) This article sets out the circumstances referred to in article 25(3)(b).
+
+(2) Circumstance A is where paragraph 28 of Schedule 36 (modification of Chapter 15A of Part 9 of ITEPA 2003[^key-70ed3a84f6a81d1067c6194a8bba0e2d] in the case of a member of a pension scheme to whom enhanced protection does not apply) applies in relation to the member.
+
+(3) Circumstance B is where—
+
+- (a) paragraph 29 of Schedule 36 (modification of applicable amount in the case of a member of a pension scheme to whom enhanced protection applies) applies in relation to the member, and
+- (b) on 5th April 2006, and on the assumptions set out in paragraph (5), all of the member’s rights under all of the member’s pension schemes within paragraphs (a) to (g) of paragraph 1(1) of Schedule 36 could have been paid out to the member in the form of a lump sum.
+
+(4) Circumstance C is where—
+
+- (a) on 5th April 2006 the member was a member of a pension scheme within paragraphs (a) to (e) of paragraph 1(1) of Schedule 36 and relating to an employment (the “original pension scheme”),
+- (b) on 5th April 2006, and on the assumptions set out in paragraph (5), all of the member’s rights under the original pension scheme, and all of the member’s rights under any other pension scheme within paragraphs (a) to (e) of paragraph 1(1) of Schedule 36 and relating to the same employment could have been paid out to the member in the form of a lump sum,
+- (c) on and after 6th April 2006, relevant benefit accrual (as defined in paragraph 13 of Schedule 36) has not occurred under the original pension scheme in relation to the member,
+- (d) on or after 6th April 2006 the member is paid a lump sum representing all of the member’s rights (to which the member did not have an actual entitlement on or before 5th April 2006) under the original pension scheme,
+- (e) the circumstances set out in paragraphs (2) and (3) (circumstances A and B) do not apply.
+
+(5) The assumptions are that—
+
+- (a) the member had retired on 5th April 2006;
+- (b) the valuation assumptions apply (modified, if appropriate, in accordance with paragraph 25(7) of Schedule 36); and
+- (c) the payment of the lump sum on 5th April 2006 (on the assumptions set out in paragraph 26(4) of Schedule 36) would not have given the Commissioners of Her Majesty’s Revenue and Customs grounds for withdrawing the approval of the pension scheme.
+
+## 25C. Payment of stand-alone lump sums: tax consequences
+
+(1) In subsection (1) of section 166 (lump sum rule), the list of lump sums set out in the paragraphs of that subsection shall be treated as including a stand-alone lump sum.
+
+(1A)[^key-cd554d6d414c542784f1dc093a05ae09] Articles 25CA to 25CC apply for the purposes of determining the tax treatment of a stand-alone lump sum.
+
+(4)[^key-8409a4dc9ad090468303ab60e4d4585c] If—
+
+- (a) a stand-alone lump sum is paid—
+  - (i) on or after 6 April 2015,
+  - (ii) to a member of a pension scheme,
+  - (iii) under a money purchase arrangement, and
+  - (iv) in circumstances where article 25B(2) (circumstance A) applies, and
+- (b) no previous stand-alone lump sum has been paid—
+  - (i) on or after that day,
+  - (ii) to the member,
+  - (iii) under a money purchase arrangement, and
+  - (iv) in circumstances where article 25B(2) applies,
+
+subsection (1) of section 227G of the 2004 Act (individual first flexibly accesses pension rights at earliest time given by the following subsections of that section) has effect as if there were a subsequent subsection of that section stating that the member first flexibly accesses pension rights immediately before the stand-alone lump sum is paid.
+
+## 25CA. Circumstance A: tax treatment of stand-alone lump sums[^key-074536f071abddbb7fbf585a13dd09bd]
+
+(1) Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect with the following modifications in relation[^key-622cdd3b6c91ad33c9bcc53cf3d3b527] to a member of a pension scheme to whom a stand-alone lump sum is paid[^key-7c42c84ac772ed7a5767bf9fc65d52b3] in circumstances where article 25B(2) (circumstance A) applies.
+
+(2) That Chapter has effect as if, after section 637G (trivial commutation lump sums and winding-up lump sums) there were inserted—
+
+> **637GA. Stand-alone lump sums**
+>
+> (1) Subject to subsection (2), no liability to income tax arises on a stand-alone lump sum paid under a registered pension scheme.
+>
+> (2) If the amount of the stand-alone lump sum exceeds the permitted maximum, section 579A (pensions) applies to the excess as it applies to any pension under a registered pension scheme.
+>
+> (3) In subsection (2) “**the permitted maximum**”, in relation to a stand-alone lump sum, means the lower of—
+>
+> - (a) the maximum amount of a stand-alone lump sum that could have been paid to the individual with no liability to income tax on 5 April 2023, and
+> - (b) so much of the individual’s lump sum and death benefit allowance as is available on the individual becoming[^key-a2d1979bb8dc7858c33812fd08833d78] entitled to the lump sum (see section 637S).
+>
+> (4)[^key-1077ea2c44bccd70109f5def497dd3ce] In determining the amount of the individual’s lump sum and death benefit allowance that is available on the individual becoming entitled to the lump sum, paragraph 20H of Schedule 36 of FA 2004 (individual’s enhanced lump sum and death benefit allowance) has effect as if, in sub-paragraph (2) of that paragraph, B (the aggregate of the lump sum and death benefit allowance enhancement factors operating in relation to the individual) were zero.
+
+(3) Section 637Q of ITEPA 2003 (availability of individual’s lump sum allowance) has effect as if, in the definition of “relevant lump sum” in subsection (2)(b) of that section, there were included a reference to a stand-alone lump sum.
+
+(4) Section 637S of ITEPA 2003 (availability of individual’s lump sum and death benefit allowance) has effect as if, in the definition of “relevant lump sum” in subsection (2)(b) of that section, there were included a reference to a stand-alone lump sum.
+
+(5)[^key-cbd147acf92e0de7c98f2aa60b73c029] Section 637U of ITEPA 2003 (availability of individual’s allowances where lump sums or lump sum death benefits already paid by non-UK schemes) has effect as if references in that section to a pension commencement lump sum included a stand-alone lump sum.
+
+## 25CB. Circumstance B: tax treatment of stand-alone lump sums
+
+(1) Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect with the following modifications in relation[^key-a06d0ad6cc0098582e5e2e3e50ae86f2] to a member of a pension scheme to whom a stand-alone lump sum is paid[^key-97caadc63ce52f00ee999f3730bd8694] in circumstances where article 25B(3) (circumstance B) applies.
+
+(2) That Chapter has effect as if, after section 637G (trivial commutation lump sums and winding-up lump sums) there were inserted—
+
+> **637GA. Stand-alone lump sums**
+>
+> (1) Subject to subsection (2), no liability to income tax arises on a stand-alone lump sum paid under a registered pension scheme.
+>
+> (2) If the amount of the stand-alone lump sum exceeds the permitted maximum, section 579A (pensions) applies to the excess as it applies to any pension under a registered pension scheme.
+>
+> (3) In subsection (2) “**the permitted maximum**”, in relation to a stand-alone lump sum, means—
+>
+> - (a) the amount of a stand-alone lump sum that could have been paid to the individual with no liability to income tax on 5 April 2023 under the arrangement pursuant to which the entitlement to the stand-alone lump sum arises in respect of the individual, less
+> - (b) the aggregate of the amounts of any stand-alone lump sums and pension commencement lump sums previously paid to the individual under that arrangement after that date.
+
+(3) Section 637Q of ITEPA 2003 (availability of individual’s lump sum allowance) has effect as if, in the definition of “relevant lump sum” in subsection (2)(b) of that section, there were included a reference to a stand-alone lump sum.
+
+(4) Section 637S of ITEPA 2003 (availability of individual’s lump sum and death benefit allowance) has effect as if, in the definition of “relevant lump sum” in subsection (2)(b) of that section, there were included a reference to a stand-alone lump sum.
+
+(5)[^key-8f5b599562bfec35749a12d8edadca8e] Section 637U of ITEPA 2003 (availability of individual’s allowances where lump sums or lump sum death benefits already paid by non-UK schemes) has effect as if references in that section to a pension commencement lump sum included a stand-alone lump sum.
+
+## 25CC. Circumstance C: tax treatment of stand-alone lump sums
+
+(1) Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect with the following modifications in relation[^key-fcc3151ef4e72951aa550723358c35bf] to a member of a pension scheme to whom a stand-alone lump sum is paid[^key-4e2e0fb59e9dcf0dfceed576a6d2a5a0] in circumstances where article 25B(4) (circumstance C) applies.
+
+(2) That Chapter has effect as if, after section 637G (trivial commutation lump sums and winding-up lump sums) there were inserted—
+
+> **637GA. Stand-alone lump sums**
+>
+> (1) Subject to subsection (2), no liability to income tax arises on a stand-alone lump sum paid under a registered pension scheme.
+>
+> (2) If the amount of the stand-alone lump sum exceeds the permitted maximum, section 579A (pensions) applies to the excess as it applies to any pension under a registered pension scheme.
+>
+> (3) In subsection (2) “**the permitted maximum**”, in relation to a stand-alone lump sum, means the lower of—
+>
+> - (a) the maximum amount of a stand-alone lump sum that could have been paid to the individual with no liability to income tax on 5 April 2023, and
+> - (b) so much of the individual’s lump sum and death benefit allowance as is available on the individual becoming[^key-5eee0070b2edad8447f7530bad104441] entitled to the lump sum (see section 637S).
+>
+> (4)[^key-0471b397e9a79e674c7e8b68747b172c] In determining the amount of the individual’s lump sum and death benefit allowance that is available on the individual becoming entitled to the lump sum, paragraph 20H of Schedule 36 of FA 2004 (individual’s enhanced lump sum and death benefit allowance) has effect as if, in sub-paragraph (2) of that paragraph, B (the aggregate of the lump sum and death benefit allowance enhancement factors operating in relation to the individual) were zero.
+
+(3) Section 637Q of ITEPA 2003 (availability of individual’s lump sum allowance), has effect as if, in the definition of “relevant lump sum” in subsection (2)(b) of that section, there were included a reference to a stand-alone lump sum.
+
+(4) For the purposes of that section, the “non-taxable amount” of a stand-alone lump sum is to be treated as being an amount equal to 25% of the lump sum.
+
+(5) Section 637S of ITEPA 2003 (availability of individual’s lump sum and death benefit allowance) has effect as if[^key-e74afc18b98003ccff76f353ab8a07e6], in the definition of “relevant lump sum” in subsection (2)(b) of that section, there were included a reference to a stand-alone lump sum.
+
+(6)[^key-ed8698c812f73749b667c54a45d8e2ba] Section 637U of ITEPA 2003 (availability of individual’s allowances where lump sums or lump sum death benefits already paid by non-UK schemes) has effect as if references in that section to a pension commencement lump sum included a stand-alone lump sum.
+
+## 25D. Stand-alone lump sums: further provisions[^key-b97d13a2975c607e8da75586618b388c]
+
+(1) Paragraphs (2) and (3) apply if—
+
+- (a) a stand-alone lump sum is paid to a member of a pension scheme in circumstances where article 25B(2) (circumstance A) applies, or
+- (b) a stand-alone lump sum is paid to a member of a pension scheme, and a pension commencement lump sum is subsequently paid to the member (whether from the same pension scheme or from any other pension scheme) in circumstances where paragraph 28 of Schedule 36 applies to the payment of the pension commencement lump sum.
+
+(2) The stand-alone lump sum paid must not exceed the stand-alone lump sum maximum.
+
+[^key-ab199379ffb25f9e2f8a612c2eb2f94a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-5fa697439760b1e755b01634d6015712] In paragraph (2) “**the stand-alone lump sum maximum**” means—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2006/572)
+
+where—
+
+- “**A**” has the same meaning as in the modified paragraph 2 of Schedule 29 contained in paragraph 28(3) of Schedule 36;
+- “**B**” has the same meaning as in that modified paragraph 2, but reading references in it to a pension commencement lump sum as including a stand-alone lump sum.
+
+(4) Paragraph (5) applies if—
+
+- (a) an individual was a member of a pension scheme (“the original pension scheme”),
+- (b) the original pension scheme was entitled to pay a stand-alone lump sum to the member which, if it had been paid, would have been a stand-alone lump sum paid in circumstances where article 25B(4) (circumstance C) applied,
+- (c) the rights of the member under the original pension scheme are transferred to a new pension scheme (the “transferee pension scheme”) as the result of a block transfer (within the meaning given by paragraph 22(6) of Schedule 36), and
+- (d) the member had no rights under the transferee pension scheme before the block transfer.
+
+(5) The transferee pension scheme is treated as the same pension scheme as the original pension scheme (so that, accordingly, the transferee pension scheme may pay a stand-alone lump sum to the member in circumstances where article 25B(4) (circumstance C) applies).
+
+(6) Paragraphs (7) to (9) apply if—
+
+- (a) an individual is a member of a pension scheme (a “stand-alone lump sum pension scheme”) which is entitled to pay a stand-alone lump sum to the member in circumstances where article 25B(3) or (4) (circumstance B or C) applies;
+- (b) on or after 6th April 2006 sums and assets are transferred in relation to the member by another pension scheme under which the member has rights (a “transferor scheme”) to the stand-alone lump sum pension scheme; and
+- (c) the stand-alone lump sum pension scheme subsequently makes a lump sum payment to the member.
+
+(7) The lump sum payment made by the stand-alone lump sum pension scheme to the member is not a stand-alone lump sum unless the lump sum is also made in the circumstances set out in paragraph (8).
+
+(8) The circumstances are that—
+
+- (a) neither a stand-alone lump sum nor a pension commencement lump sum has previously been paid under the pension scheme to the member, and
+- (b) the sums and assets transferred (or, if there is more than one transfer, all the sums and assets transferred), as specified in paragraph (6)(b), are stand-alone lump sum transfer sums.
+
+(9) In paragraph (8)(b) “stand-alone lump sum transfer sums” means sums and assets transferred by the transferor scheme to the stand-alone lump sum pension scheme in the circumstances specified in paragraph (6)(b) which would have been a stand-alone lump sum on the assumptions that—
+
+- (a) the sums and assets had been transferred not to the stand-alone lump sum pension scheme but to the member, and
+- (b) the condition in article 25A(4) (condition C) is met.
+
+## 26. Application of paragraph 31 of Schedule 36[^key-3d1efb266c342be1d06b2c7b8f9f99c9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 27. Contracts approved under section 621(1)(b) of ICTA[^key-51854bcc96a7c5eda7a915e6d666eb6f]
+
+(1) This article applies in the case of an individual who, immediately before 6th April 2006, had rights under a contract which had been approved under section 621(1)(b) of ICTA.
+
+(2) Schedule 36 shall be modified as follows.
+
+(3) In paragraph 1(1) (deemed registration of existing schemes) after paragraph (e) insert—
+
+> - (ea) a contract approved under section 621(1)(b) of ICTA,
+
+.
+
+(4) In paragraph 4 after sub-paragraph (4) add
+
+> (4A) If the pension scheme is within paragraph 1(1)(ea) immediately before that date, the trustee or trustees of the pension scheme, or the insurance company which is party to the contract in which the pension scheme is comprised, is or are to be treated as becoming the scheme administrator.
+
+.
+
+(5) In paragraph 40(3) (members' contributions to pre-commencement retirement annuity contracts) after paragraph (a) insert—
+
+> - (aa) a contract approved under section 621(1)(b) of ICTA, where article 27(2) of the Taxation of Pension Schemes (Transitional Provisions) Order 2006 applies to the individual in question, or
+
+.
+
+## 28. Pre-existing entitlement to lump sums and deferment[^key-659494df3adc51240cb2eaa20f6ed8f4]
+
+(1) In the case of an individual who meets the conditions set out in paragraph (2), paragraph (3) applies.
+
+(2) The conditions are as follows.
+
+- *Condition A*
+
+  The individual is a member of a scheme which falls within paragraph 1(1)(a), (c), (d) or (e) of Schedule 36.
+- *Condition B*
+
+  The individual has become entitled to a tax-free lump sum under that scheme on or before 5th April 2006.
+- *Condition C*
+
+  The individual would but for an election to defer entitlement made on or after 27 July 2004, have been entitled to all or part of the pension to which the lump sum in Condition B relates on or before 5th April 2006.
+- *Condition D*
+
+  A relevant[^key-4b428fa1ae802345292884930aa87ea3] benefit crystallisation event occurs on or after 6th April 2024[^key-7da86114c24c9584c2a1c18f3f5e0e2f] in relation to any of the rights, sums and assets of the scheme in relation to the individual.
+
+(3) Paragraph 1 of Schedule 29 shall be modified, as follows.
+
+- (a) After sub-paragraph (1) add—
+
+  > (1A) Where a member of a scheme has become entitled to a tax free lump sum on or before 5<sup>th</sup> April 2006, that lump sum is to be treated as if it were a pension commencement lump sum if—
+  >
+  > - (a) the member who became entitled to the lump sum is a member of a scheme which falls within paragraph 1(1)(a), (c), (d) or (e) of Schedule 36,
+  > - (b) the member has elected to defer entitlement to all or part of the pension to which the lump sum in sub-paragraph (a) relates until after 5th April 2006.
+  >
+  > The lump sum shall be treated as if the member became entitled to it on 6th April 2006 and the amount to be treated as having been crystallised at that time shall be the amount of the lump sum to which the member became entitled.
+  >
+  > (1AA)[^key-94423ee3732ccb5ae32b5e07c8585ea0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  .
+- (b) After sub-paragraph (3) add—
+
+  > (3A) But a pension —
+  >
+  > - (a) which becomes payable under a scheme which falls within paragraph 1(1)(a), (c), (d) or (e) of Schedule 36 in respect of which entitlement to a lump sum has already arisen prior to 6th April 2006, and
+  > - (b) entitlement to which has been deferred (in whole or in part) until after 5th April 2006,
+  >
+  > is not a relevant pension.
+  >
+  > (3B) Sub-paragraph (3A) also applies to a pension payable under any registered pension scheme which has received, (whether directly or through one or more intermediate schemes), a transfer of the sums or assets held for the purposes of the scheme referred to in that sub-paragraph to the extent that the pension is payable in respect of those sums or assets and any investment growth that has been made on them.
+
+  .
+
+## 29. Member’s unsecured pension funds[^key-f8329d158e2eba6231978670347d597b]
+
+(1) In the case of an individual who meets the conditions set out in paragraph (2), paragraphs (3) to (5) apply.
+
+(2) The conditions are as follows.
+
+- *Condition A*
+
+  The individual had not reached the age of 75 on 6th April 2006.
+- *Condition B*
+
+  The individual is a member of a scheme which falls within paragraph 1(1) of Schedule 36.
+- *Condition C*
+
+  The individual was, on 5th April 2006 entitled to a pension which was not provided under a defined benefits arrangement and which—
+
+  - (a) took the form of income drawdown under a retirement benefits scheme approved for the purposes of Chapter 1 of Part 14 of ICTA; or
+  - (b) was paid from the resources of—
+    - (i) a small self-administered scheme as defined in the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-Administered Schemes) Regulations 1991[^f00014], or
+    - (ii) a small self-administered scheme that had been approved under section 590 of ICTA,
+
+    and the rules of the scheme on 5th April 2006 did not require the purchase of an annuity in respect of the individual; or
+  - (c) took the form of income withdrawal under a personal pension scheme approved under Chapter 4 of Part 14 of ICTA pursuant to section 634A[^f00015]of that Act.
+
+(3) Paragraph 8 of Schedule 28[^f00016] (member’s unsecured pension fund) is modified as follows—
+
+- (a) for sub-paragraph (1A) substitute—
+
+  > (1A) For the purposes of this Part sums or assets held for the purposes of an arrangement are member-designated funds if they have at any time been applied to provide a pension which—
+  >
+  > - (a) took the form of income drawdown under a retirement benefits scheme approved for the purposes of Chapter 1 of Part 14 of ICTA;
+  > - (b) was paid from the resources of—
+  >   - (i) a small self-administered scheme as defined in the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991, or
+  >   - (ii) a small self-administered scheme that had been approved under section 590 of ICTA;
+  >
+  >   and the rules of scheme on 5th April 2006 did not require the purchase of an annuity in respect of the individual; or
+  > - (c) took the form of income withdrawal under a personal pension scheme approved under Chapter 4 of Part 14 of ICTA pursuant to section 634A[^f00017]of that Act.
+
+  .
+- (b)[^key-cb462b5ee200fb5989a59f263b760987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For paragraph 9(1) of Schedule 28 substitute—
+
+> **9.** (1) “Unsecured pension year” in relation to an unsecured pension referred to in paragraph 8(1A), means—
+>
+> - (a) the period beginning on 6th April 2006 and ending on the earlier of—
+>   - (i) 5th April 2007, or
+>   - (ii) the date upon which the first reference period defined in paragraph 10(1A) treated as inserted by Article 5 of the Taxation of Pension Schemes (Transitional Provisions) Order 2006 terminates; and
+> - (b) each succeeding period of 12 months.
+
+.
+
+(5)[^key-7e252783bd05c581206230df6e36c5c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 29A. Member’s unsecured pension funds – further provisions[^key-9b4ef771fa411c1d50bd22041ee7bc26]
+
+(1) In the case of an individual who meets the conditions set out in paragraph (2), paragraph (3) applies.
+
+(2) The conditions are as follows.
+
+- *Condition A*
+
+  The individual is a member of a scheme which falls within paragraph 1(1) of Schedule 36.
+- *Condition B*
+
+  The individual was, on 5<sup>th</sup> April 2006, entitled to a pension which was not provided under a defined benefits arrangement and which—
+
+  - (a) took the form of income drawdown under a retirement benefits scheme approved for the purposes of Chapter 1 of Part 14 of ICTA; or
+  - (b) was paid from the resources of—
+    - (i) a small self-administered scheme as defined in the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-Administered Schemes) Regulations 1991, or
+    - (ii) a small self-administered scheme that had been approved under section 590 of ICTA,
+
+    the rules of which, on 5<sup>th</sup> April 2006, did not require the purchase of an annuity in respect of the individual; or
+  - (c) took the form of income withdrawal under a personal pension scheme approved under Chapter 4 of Part 14 of ICTA pursuant to section 634A of that Act.
+
+(3)[^key-24c4c741e813da8dde9cca1d5428af55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 30. Dependant’s unsecured pension funds[^key-59064ca38c9f35a4e8668f37b6979d58]
+
+(1) In the case of an individual who meets the conditions set out in paragraph (2), paragraphs (3) and (4) apply.
+
+(2) The conditions are as follows.
+
+- *Condition A*
+
+  The individual had not reached the age of 75 on the 6th April 2006.
+- *Condition B*
+
+  The individual is a dependant of a member who was a member of scheme which falls within paragraph 1(1) of Schedule 36.
+- *Condition C*
+
+  On 5th April 2006 the individual was, under an arrangement which was not a defined benefits arrangement—
+
+  - (a) entitled to a pension which took the form of income drawdown under a retirement benefits scheme approved for the purposes of Chapter 1 of Part 14 of ICTA;
+  - (b) entitled to a pension that was paid from the resources of—
+    - (i) small self-administered scheme as defined in the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991, or
+    - (ii) a small self-administered scheme that had been approved under section 590 of ICTA,
+
+    and the rules of the scheme on 5th April 2006 did not require the purchase of an annuity in respect of the individual;
+  - (c) entitled to a pension which took the form of income withdrawal under a personal pension scheme approved under Chapter 4 of Part 14 of ICTA pursuant to section 636A[^f00018] of that Act; or
+  - (d) prospectively entitled to an annuity payment of which has been deferred pursuant to section 636(5) of ICTA.
+
+(3) Paragraph 22[^f00019] of Schedule 28 (dependant’s unsecured pension fund) is modified as follows—
+
+- (a) at the end of sub-paragraph (1)(a) omit word “and”,
+- (b) omit sub-paragraph (1)(b),
+- (c) in sub-paragraph (2)—
+  - (i) for paragraphs (a) and (b) substitute—
+
+    > - (a) have at any time been applied to provide a pension which —took the form of income drawdown under a retirement benefits scheme approved for the purposes of Chapter 1 of Part 14 of ICTA;
+    > - (b) have at any time been applied to provide a pension which was paid from the resources of—
+    >   - (i) a small self-administered scheme as defined in the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991, or
+    >   - (ii) a small self-administered scheme that had been approved under section 590 of ICTA
+    >
+    >   and the rules of scheme on 5th April 2006 did not require the purchase of an annuity in respect of the individual;
+    > - (c) have at any time been applied to provide a pension which took the form of income withdrawal under a personal pension scheme approved under Chapter 4 of Part 14 of ICTA pursuant to section 636A[^f00020]of that Act; or
+    > - (d) have, immediately before the coming into force of this Part,been held for the purpose of providing an annuity, payment of which has been deferred in accordance with section 636(5) of that Act..
+
+    .
+
+(4) For 23(1) (unsecured pension year and basis amount for unsecured pension year) of Schedule 28 substitute—
+
+> **23.** (1) “Unsecured pension year”, in relation to a dependant’s unsecured pension referred to in paragraph 22(2) as modified by article 30 of the Taxation of Pension Schemes (Transitional Provisions) Order 2006, means—
+>
+> - (a) the period beginning on 6th April 2006 and ending on the earlier of—
+>   - (i) 5th April 2007 or
+>   - (ii) the date that the first reference period defined in paragraph 24(1A), as modified by article 5 of the 2006 Order, terminates, and
+> - (b) each succeeding period of 12 months.
+
+.
+
+## 31. Individuals over the age of 75 and alternatively secured pension funds[^key-a0a577eb6f945abe8de83103dbeb5baf]
+
+(1) In the case of an individual who meets the conditions set out in paragraph (2), paragraph (3) applies.
+
+(2) The conditions are as follows.
+
+- *Condition A*
+
+  The individual had reached the age of 75 before 6th April 2006.
+- *Condition B*
+
+  The individual is a member of a scheme which falls within paragraphs 1(1)(a) to (d) of Schedule 36.
+- *Condition C*
+
+  The individual has a prospective right to receive a pension under that scheme on 5th April 2006.
+
+(3) Paragraph 11 of Schedule 28 (member’s alternatively secured pension fund)[^f00021] is modified as follows—
+
+- (a) in sub-paragraph (1)(a) for “Condition A or Condition B” substitute “Condition A, Condition B or Condition C”.
+- (b) after sub-paragraph (3) add—
+
+  > (3A) Condition C is that immediately before the 6th April 2006 —
+  >
+  > - (a) the sums and assets were part of the member’s pension fund which fell within sub-paragraphs 1(1)(a) to (d) of Schedule 36;
+  > - (b) the member had a prospective right to receive a pension under that scheme, and
+  > - (c) the member’s pension fund was a money purchase arrangement that was not a cash balance arrangement immediately before 6th April 2006.
+
+  .
+
+(4) In the case of an individual who meets the conditions set out in paragraph (5), paragraph (6) applies.
+
+(5) The conditions are as follows.
+
+- *Condition A*
+
+  The individual had reached the age of 75 before 6th April 2006.
+- *Condition B*
+
+  The individual is a member of a scheme which falls within sub-paragraph 1(1)(a) of Schedule 36.
+- *Condition C*
+
+  On 5<sup>th</sup> April 2006, the individual was entitled to a pension which—
+
+  - (a) was paid from the resources of—
+    - (i) a small self-administered scheme as defined in regulation 2 of the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small self-administered Schemes) Regulations 1991, or
+    - (ii) a small self-administered scheme that had been approved under section 590 of ICTA,
+
+    and the rules of the scheme on 5th April 2006 did not require the purchase of an annuity in respect of the individual; and
+  - (b) is not provided under a defined benefits arrangement.
+
+(6) Paragraph 11 of Schedule 28 (member’s alternatively secured pension fund)[^f00022] shall be modified as follows—
+
+- (a) after the words “held for the purposes of the arrangement as” add the words “meet condition A, B or C.”.
+- (b) omit sub-paragraphs (1)(a) and (b).
+- (c) after sub-paragraph (3) add—
+
+  > (3A) Condition C is that immediately before the 6th April 2006 —
+  >
+  > - (a) the sums and assets were part of the member’s pension fund which fell within sub-paragraph 1(1)(a) of Schedule 36; and
+  > - (b) the member was drawing a pension payable from the resources of—
+  >   - (i) a small self-administered scheme as defined in the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991, or
+  >   - (ii) a small self-administered scheme that had been approved under section 590 of ICTA,
+  >
+  >   and the rules of scheme on 5th April 2006 did not require the purchase of an annuity in respect of the member.
+
+  .
+
+## 32. Dependant’s alternatively secured pension funds[^key-ff10d41cde792d201a00f0e73d9a5b1f]
+
+(1) In the case of an individual who meets the conditions set out in paragraph (2), paragraph (3) applies.
+
+(2) The conditions are as follows.
+
+- *Condition A*
+
+  The individual had reached the age of 75 before 6th April 2006.
+- *Condition B*
+
+  The individual is a dependant of a member who was a member of a scheme which falls within sub-paragraph 1(1)(a) of Schedule 36.
+- *Condition C*
+
+  The individual was, on 5th April 2006, entitled to a pension which was not provided under a defined benefits arrangement and was payable from the resources of—
+
+  - (a) a small self-administered scheme as defined in regulation 2 of the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991, or
+  - (b) a small self-administered scheme that had been approved under section 590 of ICTA,
+
+  and the rules of the scheme on 5th April 2006 did not require the purchase of an annuity in respect of the individual.
+
+(3) Paragraph 25(1) of Schedule 28 (dependant’s alternatively secured pension fund)[^f00023] shall be modified as follows—
+
+- (a) after the words “held for the purposes of the arrangement as” add the words “meet condition A, B or C.”.
+- (b) omit sub-paragraphs (1)(a) and (b).
+- (c) after sub-paragraph (3) add—
+
+  > (3A) Condition C is that immediately before the 6th April 2006 —
+  >
+  > - (a) the sums and assets were part of the dependant’s pension fund which fell within sub-paragraph 1(1)(a)of Schedule 36; and
+  > - (b) the dependant was drawing a pension payable from the resources of—
+  >   - (i) a small self-administered scheme as defined in regulation 2 of the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991, or
+  >   - (ii) a small self-administered scheme that had been approved under section 590 of ICTA,
+  >
+  >   and the rules of the scheme on 5th April 2006 did not require the purchase of an annuity in respect of the dependant.
+
+  .
+
+## 33. Serious ill-health lump sums, pension protection lump sum death benefits and annuity protection lump sum death benefits[^key-01e1600c5cd139c8ccedd577ee90b7e8]
+
+(1) In the case of an individual who meets the conditions set out in paragraph (2), paragraphs (3), (4) and (5) apply.
+
+(2) The conditions are as follows.
+
+- *Condition A*
+
+  The individual is a member of a scheme which falls within sub-paragraphs 1(1)(a) to (g) of Schedule 36.
+- *Condition B*
+
+  The individual has an actual (rather than a prospective) right to the payment of one or more relevant existing pensions under that scheme on 6th April 2006.
+
+(3)[^key-68be61f7d1a1f61c9e01ae9b226b0fbf] In paragraph 4(2) of Schedule 29 (serious ill-health lump sum) for the words “the member has not previously become entitled to any pension or lump sum”[^key-2d6f48a2967ceb6089ad599ca2377368] substitute—
+
+> the member has a prospective (rather than an actual) right to the payment of one or more relevant existing pensions.
+
+.
+
+(4)[^key-9ba81e8426d184ac1ef1ec70887e2ce7] In paragraph 14(3) of Schedule 29 (pension protection lump sum death benefit)—
+
+- (a) in the formula, for “AC” substitute “PCPR”;
+- (b) for the definition of AC substitute—
+
+  > PCPR is the value of the individual’s pre-commencement pension rights as defined in paragraph 20(3) to (5) of Schedule 36.
+
+  .
+
+(5) In paragraph 16(3) of Schedule 29 (annuity protection lump sum death benefit)—
+
+- (a) in the formula, for “AC” substitute “PCPR”;
+- (b) for the definition AC substitute—
+
+  > PCPR is the value of the individual’s pre-commencement pension rights as defined in paragraph 20(3) to (5) of Schedule 36.
+
+  .
+- (c) in the definition of “AP”, for “the member becoming entitled to the pension or annuity” substitute “6th April 2006”.
+
+## 34. Payments to children aged 23 or over[^key-311851e9779543459558a8d4dabf5d61]
+
+(1) Paragraph (2) applies to the payment of a pension death benefit by a pension scheme which falls within paragraph 1(1) of Schedule 36 where—
+
+- (a) either of Conditions A and B is satisfied and the first scheme rules condition is satisfied; or
+- (b) Condition C and the second scheme rules condition are satisfied.
+
+(2) Paragraph 15(2) of Schedule 28 shall be modified as follows—
+
+- (a) at the end of paragraph (a) omit the word “or”; and
+- (b) after paragraph (b) insert—
+
+  > - (c) has reached that age and is in full time education or undertaking vocational training, or
+  > - (d) on reaching that age or, if later, on ceasing full time education or vocational training is, in the opinion of the scheme administrator, suffering from physical or mental deterioration which is sufficiently serious to prevent the individual from following a normal employment or which would seriously impair his earning capacity.
+
+  .
+
+(3) The Conditions A, B and C mentioned in paragraph (1) are:
+
+- *Condition A*
+
+  The pension was in payment to a child (“C”) of the member (“M”) on 5th April 2006 or M had died on or before that date and a pension was due to come into payment to C.
+- *Condition B*
+
+  The pension was in payment to M on 5th April 2006 and C was born on or before 5th April 2007.
+- *Condition C*
+
+  An election such as is described in the second scheme rules condition had been made by M and accepted by the scheme administrator on or before 5th April 2006.
+
+(4) The scheme rules conditions mentioned in paragraph (1) are:
+
+- *First scheme rules condition*
+
+  The rules of the pension scheme allowed a pension to be paid to a child (“C”) of the member (“M”) following M’s death until C ceased full-time education or vocational training.
+- *Second scheme rules condition*
+
+  The rules of the pension scheme on 10 December 2003 allowed an irrevocable election to be made designating part of the sums or assets representing M’s rights as available for the payment of a pension to C following M’s death until C ceased full-time education or vocational training.
+
+(5) For the purpose of the first scheme rules condition, a rule that the pension would not be paid to C if or after C reached a specified age (even if that is before C ceased full-time education or vocational training) does not prevent the condition being satisfied.
+
+(6) Paragraph (2) also applies to the payment of a pension death benefit by a qualifying transferee scheme (as to which see article 34B) where either—
+
+- (a) paragraph (2) had applied to payment by the original pension scheme or another transferee pension scheme; or
+- (b) paragraph (2) would have applied—
+  - (i) if there had been no block transfer on or after 6th April 2006, and
+  - (ii) if payment had been by the original pension scheme.
+
+## 34A. Payments to financially dependent children aged 23 or over
+
+(1) Paragraph (2) applies to the payment of a pension death benefit by a pension scheme which falls within paragraph 1(1) of Schedule 36 where—
+
+- (a) any of Conditions A to D is satisfied; and
+- (b) the scheme rules condition is satisfied.
+
+(2) Paragraph 15(2) of Schedule 28 shall be modified as follows—
+
+- (a) at the end of paragraph (a) omit the word “or”; and
+- (b) after paragraph (b) insert—
+
+  > - (c) has reached that age and—
+  >   - (i) is financially dependent on the member at the date of the member’s death, or
+  >   - (ii) the financial relationship with the member at the date of the member’s death is one of mutual dependence.
+
+  .
+
+(3) The Conditions A to D mentioned in paragraph (1) are:
+
+- *Condition A*
+
+  The member’s (“M’s”) pension was in payment on or before 1st July 2008.
+- *Condition B*
+
+  The pension death benefit was in payment on 1st July 2008.
+- *Condition C*
+
+  The entitlement to the pension death benefit arose before 1st July 2008.
+- *Condition D*
+
+  The entitlement to the pension death benefit was subject to the discretion of the trustees of the scheme and the discretion was capable of being exercised (in favour of the child having such an entitlement) so that the entitlement could have arisen before 1st July 2008.
+
+(4) The scheme rules condition mentioned in paragraph (1) is:
+
+- *Scheme rules condition*
+
+  The rules of the pension scheme on 5th April 2006 allowed a pension to be paid to a child (“C”) of the member (“M”) following M’s death if, at the date of M’s death, C was financially dependent on M or C’s financial relationship with M was one of mutual dependence.
+
+(5) Paragraph (2) also applies to the payment of a pension death benefit by a qualifying transferee scheme (as to which see article 34B) where—
+
+- (a) paragraph (2) had applied to payment by the original pension scheme or another transferee pension scheme; or
+- (b) paragraph (2) would have applied—
+  - (i) if there had been no block transfer on or after the relevant date, and
+  - (ii) if payment had been by the original pension scheme.
+
+(6) For the purposes of paragraph (5), the relevant date is—
+
+- (a) in relation to Condition A, the later of—
+  - (i) 6th April 2006, and
+  - (ii) the date on which the member’s pension came into payment; and
+- (b) in relation to Condition B, C or D, the later of—
+  - (i) 6th April 2006, and
+  - (ii) the date of the member’s death.
+
+## 34B. Meaning of “qualifying transferee scheme”
+
+(1) A pension scheme is a qualifying transferee scheme for the purposes of articles 34 and 34A if it is a pension scheme to which there has been a relevant block transfer.
+
+(2) A block transfer is relevant if any of Conditions A to C is satisfied as a result of—
+
+- (a) a block transfer from a pension scheme within paragraph 1(1) of Schedule 36 (“the original pension scheme”); or
+- (b) a block transfer to a pension scheme (“a transferee pension scheme”) from a pension scheme that was a transferee pension scheme in relation to the original pension scheme by virtue of the previous application of sub-paragraph (a) or the previous application (on one or more occasions) of this sub-paragraph.
+
+(3) The Conditions A to C mentioned in paragraph (2) are:
+
+- *Condition A*
+
+  The member became a member of the transferee pension scheme.
+- *Condition B*
+
+  The child is a pensioner member of the transferee pension scheme.
+- *Condition C*
+
+  An irrevocable election having been made designating part of the sums or assets representing the member’s rights as available for the payment of a pension to the child, the child is entitled to such payment from the transferee pension scheme.
+
+(4) In this article, “block transfer” has the meaning given by paragraph 22(6) of Schedule 36, but with the modification that for “as is prescribed” in paragraph (b) there is substituted “as has been prescribed”.
+
+## 35. Enhanced protection and transfers made in connection with the winding up of a pension scheme[^key-b33fddf263eb69f3841c7693fb8ff391]
+
+(1) In the case of an individual who meets the conditions in paragraph (2), paragraph 12 of Schedule 36 (transitional provisions — “enhanced protection”) is modified in accordance with paragraph (3).
+
+(2) The conditions are—
+
+- *Condition A*
+
+  The individual is one to whom paragraph 12 of Schedule 36 applies.
+- *Condition B*
+
+  The pension scheme of which the individual is a member makes a recognised transfer of sums or assets to an insurance company pursuant to section 169(1A)[^f00024] (permitted transfers).
+- *Condition C*
+
+  The transfer is made in connection with the winding up of the pension scheme from which the transfer is made.
+
+(3) Paragraph 12(8) is modified as follows—
+
+- (a) after paragraph (a) delete the word “or”; and
+- (b) after paragraph (b) add—
+
+  > or;
+  >
+  > - (c) the transfer is a recognised transfer pursuant to section 169(1A).
+
+  .
+
+## 36. Transfer of crystallised rights with enhanced protection[^key-ab9dd55643ad0d5dea9b7b3d09eba6ad]
+
+(1) In the case of an individual who meets the conditions in paragraph (2), paragraph 15 of Schedule 36 (definition of the “relevant crystallised amount”) is modified in accordance with paragraph (3).
+
+(2) The conditions are—
+
+- *Condition A*
+
+  The individual is one to whom paragraph 12 of Schedule 36 applies.
+- *Condition B*
+
+  The individual is in receipt of a scheme pension.
+- *Condition C*
+
+  The pension scheme of which the individual is a member makes a recognised transfer of sums or assets in connection with the winding up of the pension scheme.
+
+(3) Paragraph 15 is modified as follows—
+
+- (a) at the end of sub-paragraph (1) add—
+
+  > This paragraph is subject to sub-paragraph (1A).
+
+  ; and
+- (b) after that sub-paragraph insert—
+
+  > (1A) If the relevant event is a transfer of sums or assets representing crystallised rights under a scheme pension and made in connection with the winding-up of the pension scheme under which the scheme pension is paid, the relevant crystallised amount shall be nil.
+
+  .
+
+## 37. Modification of section 637G ITEPA 2003[^key-40241f991beca990abdf9823cb52932a][^key-bcee0ab74b74834239982b9cd2c5cd95]
+
+(1) Section 637G[^key-1a2e11cd8890868b3f76549f48cd0a38] of ITEPA 2003 (trivial commutation and winding-up lump sums) is modified as follows in relation to an equivalent pension benefits commutation lump sum pursuant to regulation 2(1A) of—
+
+- (a) the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc) Regulations 1997[^f00026]; or
+- (b) the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc) Regulations (Northern Ireland) 1997[^f00027].
+
+(2)[^key-9e01c618d5495cdfbb74cae43e4089af] In the heading, at the end insert “etc”.
+
+(3) In subsection (1)—
+
+- (a) at the end of paragraph (a) omit “or”;
+- (b) at the end of paragraph (b) add “or”; and
+- (c) after that paragraph insert the following paragraph—
+
+  > - (c) an equivalent pension benefits commutation lump sum,
+
+(4)[^key-83ce0105d64a0909aace0ad867c1bb48] In subsection (4), after “In this section” insert “—
+
+> - “**equivalent pension benefits commutation lump sum**” means a lump sum payment arising from the commutation of equivalent pension benefits pursuant to—
+>   - (a) regulation 2(1A) of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997, or
+>   - (b) regulation 2(1A) of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997;
+
+.
+
+## 38. Lump sum payments — general[^key-f95b34dae7e83ba4b7b73397e1e5ca49]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 39. Lump sums — serious ill-health[^key-39d47ba3a632f4b41c8cb59d0e2f81b7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 40. Lump sum death benefits— death of member[^key-6cb3e7ca4e1fe97b92602d56cd912b3d]
+
+(1) This paragraph applies to a lump sum paid—
+
+- (a) in respect of the death, occurring before the 6th April 2006, of a member of a pension scheme;
+- (b) within two years of the date upon which the administrator of the pension scheme could reasonably have known of the member’s death[^key-153910ec0a2bff734ae32eafe76c0989];
+- (c) by a scheme which is treated as becoming a registered pension scheme on the 6th April 2006 by virtue of paragraph 1(1) of Schedule 36;
+- (d) in accordance with the rules of that scheme as they stood—
+  - (i) immediately before the death; or
+  - (ii) immediately before the 6th April 2006; and
+- (e) in circumstances which would not have led to the Commissioners withdrawing the approval of the scheme.[^key-3d2dcde965187ce9b24b00dcb53b2131]
+
+(2)[^key-fa6b2b4505261c75d4081996d5166a36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A lump sum to which paragraph (1) applies shall be chargeable to income tax in accordance with section 648B of ICTA[^f00034] as if—
+
+- (a) that section had not been repealed;
+- (b) references in that section to the administrator of the scheme were references to the scheme administrator of the registered pension scheme which is treated as coming into being by virtue of paragraph 1(1)(g) of Schedule 36;
+- (c) subsection (3) were omitted; and
+- (d) the reference in subsection (4) to the rules of the scheme were a reference to the rules of the personal pension scheme as they stood immediately before the 6th April 2006.
+
+(4) For the purposes of a lump sum payment to which paragraph (1) applies, regulation 5 of the Personal Pension Schemes (Information Powers) Regulations 2000[^f00035] (“the 2000 Regulations”) shall continue to have effect, subject to the following modifications—
+
+- (a) references to the scheme administrator of the personal pension scheme are to be read as references to the scheme administrator of the registered pension scheme which is treated as coming into being by virtue of paragraph 1(1)(g) of Schedule 36; and
+- (b) in paragraph (2) of that regulation for “an approved personal pension scheme” substitute “the registered pension scheme”.
+
+(5) In section 98(5) of the Taxes Management Act 1970 the entry in Table 1 relating to regulations under section 651A(1)(b) to (d) of ICTA shall continue to have effect, so far as it relates to regulation 5 of the 2000 Regulations as saved, with modifications, by paragraph (4).
+
+(6)[^key-8daa747416a8d1a77b488b70e6a6543e] In this article and article 41—
+
+- “**the Commissioners**” means the Commissioners for His Majesty’s Revenue and Customs and, in relation to times before 18th April 2005, includes the Commissioners of Inland Revenue;
+- “**existing scheme**” means a scheme which becomes a registered pension scheme by virtue of paragraph 1(1) of Schedule 36 (pension schemes etc.: transitional provisions and savings — deemed registration of existing schemes);
+- “**member**” means a member of an existing scheme.
+
+## 41. Lump sum death benefits — death of a dependant[^key-b59dd9242b307e376868901bcdf137f6]
+
+(1) This paragraph applies to a lump sum paid—
+
+- (a) in respect of the death, occurring before the 6th April 2006, of a dependant of a former member of a pension scheme;
+- (b) by a scheme which is treated as becoming a registered pension scheme on the 6th April 2006 by virtue of paragraph 1(1)(g) of Schedule 36 (personal pension schemes);
+- (c) within two years of the date upon which the administrator of the pension scheme could reasonably have known of the dependant’s death[^key-d742e2dbc77c9a34a82b942ae3360c6d];
+- (d) in accordance with the rules of that scheme as they stood—
+  - (i) immediately before the dependant’s death; or
+  - (ii) immediately before the 6th April 2006; and
+- (e) in circumstances which would not have led to the Commissioners withdrawing the approval of the scheme.[^key-7ef422af6d100df61b68b68dcbbe1de6]
+
+(2) Paragraphs (3) to (5) of article 40 apply for the purposes of paragraph (1) as they apply for the purposes of paragraph (1) of that article.
+
+## 42. Protected pension age and multiple pensions[^key-06cefaa2b3c7f0561c045cc5ebc2a602]
+
+(1) In the case of a member who has a protected pension age in connection with at least two of the three types of pension listed in paragraph (2) from the same registered pension scheme, Schedule 36 is modified in accordance with paragraph (3).
+
+(2) The three types of pension are—
+
+- (a) a scheme pension under a defined benefits arrangement;
+- (b) a scheme pension under a money purchase arrangement;
+- (c) a lifetime annuity.
+
+(3) In paragraphs 22(7)(a) and 23(7) for “on the same date” substitute “within a period of six months beginning with the earliest date on which the individual becomes entitled to any of the benefits.”.
+
+## 43. Protected pension age and multiple pensions - member dies before receiving all pensions
+
+(1) Schedule 36 is modified in accordance with paragraphs (3) and (4) where—
+
+- (a) a member has a protected pension age in connection with at least two of the three types of pension listed in regulation 42(2) from the same registered pension scheme;
+- (b) the member dies before the end of the specified period after becoming entitled to at least one but not all of the benefits in respect of the pensions; and
+- (c) the scheme administrator considers that, had the individual not died, the individual would have become entitled to all of the benefits in respect of the pensions within the specified period.
+
+(2) The “specified period” is the period of six months beginning with the earliest date on which the individual became entitled to any of the benefits in respect of the pensions.
+
+(3) For paragraph 22(7)(a) substitute—
+
+> - (a) the scheme administrator considers that, had the individual not died, the member would have become entitled to all the benefits payable to the member under arrangements under the pension scheme (to which the member did not have an actual entitlement on or before 5th April 2006) within a period of six months beginning with the earliest date on which the individual became entitled to any of the benefits, and
+
+.
+
+(4) For paragraph 23(7) substitute—
+
+> (7) The retirement condition is met in relation to the member and the pension scheme if the scheme administrator considers that, had the individual not died, the member would have become entitled to all the benefits payable to the member under arrangements under the pension scheme (to which the member did not have an actual entitlement on or before 5th April 2006) within a period of six months beginning with the earliest date on which the individual became entitled to any of the benefits.
+
+.
+
+## 44. Normal minimum pension age – modification of section 165 (payment of pension rules)[^key-532b4db9f28446aa4ad37d1e51628ba2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 45. Normal minimum pension age – modification of paragraph 1 of Schedule 29 (lump sum rule)[^key-b685df99db43a1563da8ac0e5f512811]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Vernon Coaker
+
+Tom Watson
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+9th March 2006
+
+(This note is not part of the Regulations)
+
+This Order contains further transitional provisions in relation to the new provisions for pension schemes coming into force on 6th April 2006 (“A Day”) pursuant to Part 4 of the Finance Act 2004 (“the 2004 Act”).
+
+Article 2 provides for the modification of section 161 (meaning of payment). The ambit of section 161(3) is extended to cover payments made or benefits provided, from investments purchased by approved schemes before A day. Paragraph 3 of Article 2 excludes certain annuities bought from insurance companies from this extension. Paragraphs 4 and 5 deal with approved schemes which were wound up prior to A day. The wording of section 161(4) is modified in respect of these schemes so that the payment is deemed to be made by a registered scheme.
+
+Articles 3 to 5 provide for commencement provisions for unsecured pensions. Pensions which are in payment by way of income withdrawal before A day and which become unsecured pensions or dependant’s unsecured pension at A day would need to be valued on A day under the existing legislation. These transitional provisions are designed to stagger the date of the valuation exercise to avoid a bottleneck of valuations. Article 3 sets out the pensions which will be covered by these transitional provisions. Article 4 provides for the modification of section 165(1), Pension rule 5. The 120% maximum is reduced to 100% (the pre A day limit) for schemes which have not been re-valued using the new rules. Article 5 makes various modifications to paragraphs 9 and 24 of schedule 28 to enable pensions referred to in article 3 to be re-valued at any time up to 6th April 2006 (or earlier, if there has been an annuity purchase prior to that date). The modifications provide that the pre A Day valuation will be used as the “basis amount” until the new valuation takes place.
+
+Articles 6 to 8 provide transitional protection for people who have pre A Day rights to life cover lump sums where the rules of the pension scheme included such provision on 10th December 2003. Under the new regime lump sum payments made on or after the member’s 75th birthday will be unauthorised. Article 6 sets out the conditions which the member of the registered pension scheme needs to satisfy to qualify for the transitional protection. Article 7 provides for modifications to section 636A of the Income Taxes (Earnings and Pensions) Act 2003 to add life cover lump sums to the list of lump sums exempt from income tax. Article 8 modifies section 168(1) to insert life cover lump sums to the list of lump sum death benefits that a pension scheme is authorised by make under section 164. Paragraph (3) of article 8 adds a new paragraph 21A to Schedule 29 defining “life cover lump sum”.
+
+Articles 9 to 11 provide transitional protection for individuals who qualify for “primary protection” under paragraph 7 to Schedule 36 but whose pre-commencement rights may have been undervalued on 5th April 2006 due to the poor performance of investments held by the scheme. If the scheme receives compensation in respect of the poor performance on or after A day this compensation becomes potentially chargeable to the lifetime allowance charge (section 214). Article 9 sets out the conditions which the individual needs to satisfy to qualify for the transitional protection. Article 10 modifies section 212 (valuation of uncrystallised rights for the purposes of section 210) for the purposes of calculating *RR* in paragraph 7(3) of Schedule 36. Paragraph (2) deducts the market value of any “relevant compensation” from the amount of *RR* and paragraph (3) defines “relevant compensation”. Paragraph (4) and (5) apply the modifications to hybrid arrangements (section 212(7). Article 11 modifies paragraph 8(5) of Schedule 36 (valuation of the individual’s uncrystallised right) to ensure that the modifications made by article 10 apply.
+
+Articles 12 to 14 deal with individuals who qualify for primary protection and a lifetime allowance enhancement factor under section 221 in relation to a period of non-residence. The modifications prevent the individual qualifying for two lifetime allowance enhancement factors in respect of the same increase in benefits. Article 12 contains details of the individuals who will be affected by the modifications. Article 13 contains modifications to the value of OV in section 222(4) and (5)(b) to prevent it being indexed prior to A day. Article 14 contains modifications to section 223 (arrangements that are not money purchase arrangements). The definitions of PB and LSB in sub-section (4) are modified so that the rights referred to are valued at 5<sup>th</sup> April 2006. Paragraph (3) inserts sub-section (4A) indexing PB and LSB during the active membership period (as defined in section 221(4).
+
+Articles 15,16 and 17 provide transitional protection to contributions make by employers where those contributions qualified for corresponding relief under section 76(6A) and (6C) of the Finance Act 1989. Article 15 sets out the contributions that may be treated as if they were relevant migrant member contributions under paragraph 2 of Schedule 33 and the conditions that must be met in respect of those contributions. Paragraph (4) applies the provisions of the Pension Schemes (Information Requirements – Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulation 2005 [S.I. 2006/208](https://www.legislation.gov.uk/uksi/2006/208) to qualifying employees and to exempt employees under article 17. Paragraphs (5) and (6) apply the transitional protection to pension schemes which have received a block transfer from a scheme to which paragraph (2) applies. Article 16 modifies section 245 (restriction of deduction for contributions by employer) for cases which qualify for transitional protection under article 15. Section 245 modifies amends Schedule 24 of the Finance Act 2003 (“the 2003 Act”) and the new modification prevents contributions which have been given relief under article 15 being given double relief under Schedule 24 of the 2003 Act. Article 17 provides that the provisions of section 308A of ITEPA 2003 (exemption of contributions to overseas pension scheme) shall apply to employees (“exempt employees”) who meet the conditions set out in paragraphs (1) and (2) of the article.
+
+Article 18 switches off paragraph 1(1)(b) of Schedule 29 (requirement that lump sum payable only when lifetime allowance available) in the case of an individual whose pension commencement lump sum is determined by paragraphs 27 and 29 of Schedule 36 (enhanced protection).
+
+Article 19 modifies paragraph 2(6) of Schedule 29 (calculation of the available portion of the member’s lump sum allowance) in the case of individuals who fall within paragraph 20(1) of Schedule 36 (individuals who have an actual right to payment of one or more pensions on 5th April 2006). Paragraph 2(6) is modified so that AAC includes any pre-commencement pension rights valued under paragraph 20 of Schedule 36.
+
+Article 20 provides that where a lump sum death benefit is paid in respect of a member who had an actual right to payment of a relevant pension (a pre-commencement pension) immediately before his death, those pre-commencement pension rights will be taken into account when calculating the available amount of lifetime allowance to be set against the lump sum death benefit.
+
+Articles 21 to 23 provide for scheme specific lump sum protection as set out in paragraphs 31 to 34 of Schedule 36 (entitlement to lump sums exceeding 25% of uncrystallised rights) to be lost in respect of rights transferred where there been a partial transfer of those rights (rather than a block transfer) away from a scheme. Article 21 sets out when the modifications in articles 22 and 23 shall apply. Article 22 modifies paragraph 31 of Schedule 36. A new paragraph (2A) is added which provides for the modifications to Schedule 29 made by paragraph 34 (as modified by article 23) to apply to persons where sums and assets representing accrued rights are transferred other than by a block transfer to another scheme. Article 23 modifies paragraph 34 of Schedule 36 so that the amount that has been partially transferred shall be ignored when calculating the “permitted maximum” in paragraph 2 of Schedule 29.
+
+Article 24 disapplies the limit on dependants scheme pensions set out in paragraphs 16A,B and C of Schedule 28 where the member in respect of whom the dependant’s scheme pension is being paid was actually entitled to one or more relevant existing pensions (as defined in paragraph 10(2) of Schedule 36) on 5<sup>th</sup> April 2006.
+
+Article 25 and 26 provides transitional protection for individuals whose benefits will only be payable as a lump sum with no connected pension. Paragraph (2) of article 25 sets out the conditions that the individual must meet to qualify for the protection. Paragraph (3) adds a “stand-alone lump sum to the list of lump sums which are authorised payments in section 166(1). Paragraph (4) inserts a new paragraph 3A into Schedule 29 which provides a definition of a “stand-alone lump sum”. Article 26 modifies paragraph 31(3) of Schedule 36 for individuals who meet the conditions set out in paragraph (2) of the article. Paragraph (3) applies the provisions of paragraph 31 of Schedule 36 (entitlement to lump sums exceeding 25% of uncrystallised rights) so that individuals whose benefits are payable as a lump sum only can qualify for the modification of the “permitted maximum” lump sum rules in Schedule 29.
+
+Article 27 deals with contracts which prior to A day, had been approved under section 621(1)(b) of ICTA. Paragraph (3) adds these contracts to the list of pensions in paragraph 1(1) of Schedule 36 which are converted to registered pensions and paragraph (4) adds the contracts to the list of “pre-commencement retirement annuity arrangements” in paragraph 40(3) of Schedule 36.
+
+Article 28 provides that individuals who have become entitled to a tax-free lump sum before A day but deferred their entitlement to the accompanying pension will not become entitled to a second tax-free lump sum under the same arrangement. Paragraph (2) sets out the conditions and paragraph (3)(a) provides that paragraph 1 of Schedule 29 shall be modified so that the tax free lump sum shall be treated as a pension commencement lump sum with a deemed crystallisation on A day. No lifetime allowance charge will arise in respect of the sum however. Paragraph (3)(b) inserts a new paragraph (3A) into paragraph 1 of Schedule 29 which provides that the accompanying pension shall not be a “relevant pension” pursuant to sub-paragraph (3). Any further lump sums paid out in connection with the pension will therefore not be pension commencement lump sums.
+
+Articles 29 modifies paragraphs 8 and 9 of Schedule 28 so that certain types of pension to which the member was entitled immediately before A day shall become unsecured pension funds and accordingly covered by the new regime. Paragraphs (1) and (2) set out the applicable conditions. Paragraph (3) modifies paragraph 8 of Schedule 28 (member’s unsecured pension fund) so that the pensions listed will become unsecured pension funds at A day. Sub-paragraph (d) provides that these rights shall form a separate arrangement and that this deemed designation shall not create a benefit crystallisation event. Paragraph (4) contains amendments to paragraph 9 of Schedule 28 (unsecured pension year and basis amount for unsecured pension year). Paragraph (5) modifies section 216 so that benefit crystallisation events 2, 4 and 8 are not triggered when the unsecured pension funds are utilised to provide a scheme pension, lifetime annuity or rights under a qualifying recognised overseas pensions scheme. This paragraph is necessary because the provisions in paragraphs 3 and 4 of Schedule 32 preventing overlap do not apply appropriately to these funds that were in existence before A day.
+
+Article 30 provides similar provisions to article 29 for dependant’s pension funds. Paragraphs (1) and (2) set out the conditions which the dependant must meet for the modifications to take effect. Paragraph (3) modifies paragraph 22 of Schedule 28 (dependant’s unsecured pension fund) so that the unsecured pensions listed will become dependant’s unsecured pension funds at A day. Paragraph (4) contains amendments to paragraph 23 (unsecured pension year and basis amount for unsecured pension year).
+
+Article 31 provides for certain individuals over the age of 75 at A day to be treated as being in alternatively secured pension from A day. Paragraphs (1) and (2) set out the conditions to be met for the modification to apply. Paragraph (3) modifies paragraph 11 of Schedule 28 (member’s alternatively secured pension fund) so that the sums and assets that meet the inserted condition C shall become member’s alternatively secured pension funds at A day. The effect of paragraphs (4), (5) and (6) is that certain individuals over the age of 75 who were already drawing a pension on 5<sup>th</sup> April 2006 will have their funds automatically converted to member’s alternatively secured pensions funds pursuant to paragraph 11 of Schedule 28. Paragraphs (4) and (5) set out the conditions that must be met for the modifications to apply. Paragraph (6) modifies paragraph 11 of Schedule 28 so that sums and assets which meet the inserted condition C shall become member’s alternatively secured pension funds.
+
+Article 32 contains similar provisions to those in article 31 for dependant’s alternatively secured pension funds. Paragraphs (1) and (2) set out the conditions that must be met by the dependant. Paragraph (3) contains modifications to paragraph 25 of Schedule 28 (dependant’s alternatively secured pension fund) so that the sums and assets which meet the inserted condition C shall become dependant’s alternatively secured pension funds.
+
+Article 33 deals with serious ill-health lump sums, pension protection lump sum death benefits and annuity protection lump sum death benefits. Paragraphs (1) and (2) set out the applicable conditions. Paragraph (3) modifies paragraph 4 of Schedule 29 (serious ill-health sum) to prevent an individual who already had an actual right to payment of a relevant pension at A day being paid a serious ill-health lump sum. This reflects the position in the new regime. Paragraphs (4) and (5) modify paragraphs 14 (pension protection lump sum death benefit) and 16 (annuity protection lump sum death benefit) so payments of pension protection lump sum death benefits and annuity protection lump sum death benefits can be made in respect of individuals who fall within the conditions set out in paragraphs (1) and (2). In the new regime these lump sums must not exceed a protection limit. Individuals who meet the conditions would have a limit of £0 as the limit is defined by reference to “the amount crystallised”. The concept of crystallisation is not applicable to pensions before A day so this is changed to the value of the individuals pre-commencement pension rights.
+
+Article 34 provides transitional protection for dependants over the age of 23 who are in full time education or have become incapacitated before that age. The conditions are set out in paragraphs (1) (4), (5) and (6) and paragraph (3) modifies paragraph 15(2) of Schedule 28 (meaning of “dependant”).
+
+Article 35 modifies paragraph 12(8) of Schedule 36 (“enhanced protection”) so that transfers to insurance companies which are recognised transfers pursuant to section 169(1A) are “permitted transfers”. If the transfer was not a permitted transfer, enhanced protection would be lost.
+
+Article 36 protects an individual’s right to enhanced protection in the event of a transfer made in connection with a wind-up. Paragraphs (1) and (2) set out the applicable conditions. Paragraph (3) modifies paragraph 15 of Schedule 36 (definition of the “relevant crystallised amount”) so that transfers representing crystallised rights which are made in connection with a wind-up shall be valued at £0 for the purposes of calculating the relevant crystallised amount.
+
+Article 37 modifies section 636B ITEPA 2003 (trivial commutation and winding-up lump sums). The section provides for the taxation of trivial commutation lump sums or winding-up lump sums. Paragraph (1) sets out the lump sums that the modification will apply to. Paragraph (2) substitutes a new heading and paragraph (3) adds an “equivalent pension benefits commutation lump sum” to the list in section 636B(1). Paragraph (4) inserts a definition of “equivalent pension benefits commutation lump sum” to the section.
+
+Articles 38 to 41 contain transitional provisions in relation to various lump sums which had become payable under the pre A day regime. Article 38 provides that lump sum payments which meet the conditions set out in paragraph (1) shall be chargeable to income tax in accordance with section 598, 599 or 599A of ICTA even though they were paid after A day. The article applies to lump sums payments which were payable in accordance with the rules of the pension scheme before A day. The article also provides that the reporting requirement shall transfer to the scheme administrator. Article 39 deals with lump sums paid to a member in circumstances of the member’s serious ill-health. Paragraph (2) provides that there is no charge to tax under Part 4 if the sum meets the requirements set out in sub-paragraphs (a) to (d) of article 38(1) (i.e that the sum was paid after A day, in accordance with the rules of the scheme as they stood prior to A day). Paragraphs (3) and (4) set out when a lump is paid in circumstances of the member’s serious ill-health. Article 40 deals with lump sum death benefits payable in respect of the death of a member who died before A day. Paragraph (1) sets out the circumstances in which the article will apply which are similar to those set out in article 38. Paragraph (2) provides that the lump sum shall not be a relevant lump sum death benefit as defined in paragraph 15 of Schedule 32 (benefit crystallisation event 7: meaning of “relevant lump sum death benefit”) and shall be disregarded for the purposes of benefit crystallisation event 7. Paragraph (3) states that the lump sum shall be chargeable under section 648B as if the section was still in force following A day. Paragraph (4) provides that the reporting requirements shall transfer to the scheme administrator. Article 41 provides that paragraphs (3) to (5) of article 40 shall apply to lump sums paid in respect of the death of a dependant of a former member of a pension scheme prior to A day.
+
+The Board of Inland Revenue published a regulatory impact assessment in respect of the provisions of Part 4 of the Finance Act 2004, and subordinate legislation under it, on 8 April 2004. That assessment is now available on the website of HM Revenue and Customs at www.hmrc.gov.uk/ria/simplifying-pensions.pdf or obtained by writing to The Ministerial Correspondence Unit, 1st Floor, Ferrers House, PO Box 38, Castle Meadow Road, Nottingham, NG2 1BB.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-de4c095f647d58248f89dd4606882131]: Commencement: Art. 1 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00002]: Footnote: [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^key-202716db66ae3c3a23a8a41025601792]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/572/article/1/2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/2)
+
+[^key-b66e9f3519abfebae6b4f7c34ee1d273]: Commencement: Art. 2 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00003]: Footnote: The Board is defined in section 832 of ICTA as the Commissioners of Inland Revenue.
+
+[^key-53b8d85325147b20c4b4ab92400eb434]: Commencement: Art. 3 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-5d39bcddcfbcfcaace4ab14d7c9744e3]: Commencement: Art. 4 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-e46b59f595577e347701c86717b41818]: Commencement: Art. 5 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00004]: Footnote: i.e. by the Commissioners of Inland Revenue. For the construction of references to the Board in relation to pensions on or after 18 April 2001 see section 50 of the Commissioners for Revenue and Customs Act [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^key-06eddd4bc99a5ec60b4693f119c06a4d]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2006/572/article/5A) inserted (with effect in accordance with art. 1(3) of the amending S.I.) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) Order 2008 (S.I. 2008/2990)](https://www.legislation.gov.uk/uksi/2008/2990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2990/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2990/article/3)
+
+[^key-e82c7e3f3e3f1def2af0c7b537d0fd62]: Commencement: Art. 6 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-2e5e5a5ea9bf20dd318654a677048fa1]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2006/572/article/7) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/3)
+
+[^key-356c43ba792f0f93898b8ee8d787b2b0]: Commencement: Art. 8 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-1feacaa508b35038cb4e51769d69ec80]: Commencement: Art. 9 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-63a5db614044cf4f77e2c516dc45c6c4]: Commencement: Art. 10 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-3011104505430745ad1955f3cd59c2a9]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2006/572/article/10/1) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(4)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/4)
+
+[^key-e477386a176e3c0c49f7e51e65fcacb6]: Commencement: Art. 11 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-b75277f14004f7f823c791cb2ab72f78]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2006/572/article/11/1) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(5)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/5)
+
+[^key-a8f90bd1ae4814ae2a3b0b7535ef5125]: Commencement: Art. 12 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-e6a9f9e51ecba6acc12e812249d35e2c]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2006/572/article/12/2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(6)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/6/a/i)
+
+[^key-ae857bdfae0db3728f4b5cbb18f24629]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2006/572/article/12/2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/6/a/ii)
+
+[^key-0d723ad0fd47cd8041f80c76047cd32a]: Textual amendment: Words in [art. 12(3)](https://www.legislation.gov.uk/uksi/2006/572/article/12/3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(6)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/6/b/i)
+
+[^key-8c5e3d88fa993274cd5e3daa303aeb86]: Textual amendment: Words in [art. 12(3)](https://www.legislation.gov.uk/uksi/2006/572/article/12/3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/6/b/ii)
+
+[^key-1cec2fcbcea84000040efaf264b557d9]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2006/572/article/13) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(7)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/7)
+
+[^key-e76cd3d2a5b4d2a5377461d4f0f651c4]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2006/572/article/14) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(8)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/8)
+
+[^key-90e3d817be8c8bf1f8b145a138e4bd8c]: Commencement: Art. 15 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00007]: Footnote: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26). Section 76(6A) and (6C) was inserted by paragraph 2 of Schedule 39 to the FA 1996 and was prospectively repealed by Schedule 42, Part 1 to the FA 2004.
+
+[^f00008]: Footnote: as substituted by section 38 of FA 2004.
+
+[^f00009]: Footnote: as substituted by section 40 of FA 2004.
+
+[^f00010]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
+
+[^f00011]: Footnote: [S.I. 2006/208](https://www.legislation.gov.uk/uksi/2006/208).
+
+[^key-c0b43ccc0abe188b61683e634cd3118e]: Commencement: Art. 16 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-d560dbb9d025ff66bcc535d4ab66a530]: Commencement: Art. 17 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00012]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Section 308A was inserted by paragraph 3 of Schedule 33 to the Finance Act 2004.
+
+[^key-6ad71eeb585216a8a46a64e444ee6277]: Commencement: Art. 18 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-3011a81689c08d840846faa9a26dc2e1]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/uksi/2006/572/article/18) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(9)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/9)
+
+[^key-0767e85c0304b053f31c576f07907266]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/uksi/2006/572/article/18) inserted (19.3.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 5 paras. 12(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/12/4)[(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/12/5), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/15)
+
+[^key-219d3e9d39528acc528a87488dc60c3b]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2006/572/article/19) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(10)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/10)
+
+[^key-444e4c34480a08e7adb29bbdfd03b588]: Commencement: Art. 20 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-23aeb254f6fec9224dffc5ef2e431c2e]: Textual amendment: Words in [art. 20(2)](https://www.legislation.gov.uk/uksi/2006/572/article/20/2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(11)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/11/a/i)
+
+[^key-3b3d08fc6fce029ff4e3042fea940ef8]: Textual amendment: Word in [art. 20(2)](https://www.legislation.gov.uk/uksi/2006/572/article/20/2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/11/a/ii)
+
+[^key-c7e9a3a346f89ad19d812cbcee8a7220]: Textual amendment: Words in [art. 20(3)](https://www.legislation.gov.uk/uksi/2006/572/article/20/3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(11)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/11/b)
+
+[^key-187e7430f740b96625b6803a2ab5c849]: Commencement: Art. 21 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-ac6178e4b3d3839d48f57a2df196ad3e]: Textual amendment: Words in [art. 21(1)](https://www.legislation.gov.uk/uksi/2006/572/article/21/1) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-b89439a4615cbda0be5fca38cd9c4d14]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2006/572/article/22) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-633cb1bf4620afea3442d4622376834f]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2006/572/article/23) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-45436d0e7608c88b734bb4101bf5d091]: Textual amendment: Word in [art. 23(2)](https://www.legislation.gov.uk/uksi/2006/572/article/23/2) substituted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2/6), [14(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/2)
+
+[^key-62b89f77b09672b5a432d2ec2188f0f9]: Textual amendment: [Arts. 23ZA-23ZE](https://www.legislation.gov.uk/uksi/2006/572/article/23ZA) inserted (6.4.2011 with effect in relation to any time on or after 6.4.2006) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) Order 2011 (S.I. 2011/732)](https://www.legislation.gov.uk/uksi/2011/732), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/732/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2011/732/article/1/2), [3](https://www.legislation.gov.uk/uksi/2011/732/article/3)
+
+[^key-f64c4ad1186f89b06148aa3a1a26c6a4]: Textual amendment: Words in [art. 23ZA(2)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZA/2) renumbered (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(5)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/5/a/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-a29786ba60d4bf19729db5af239fb353]: Textual amendment: Words in [art. 23ZA(2)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZA/2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/5/a/ii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-3f8f4c989734783df6192df7550d77c1]: Textual amendment: [Art. 23ZA(3)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZA/3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(5)(b)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/5/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-3e4422773b278bb0421a4b59d9edf288]: Textual amendment: [Art. 23ZC(2)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZC/2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(12)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/12)
+
+[^key-c7fb116efbe49c59c0585ed035ddb792]: Textual amendment: Words in [art. 23ZD(2)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZD/2) renumbered (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/6/a/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-94486eff56aff7b5429d90f0b387db9e]: Textual amendment: Words in [art. 23ZD(2)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZD/2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/6/a/ii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-e801f6ddc75b95ef344813a39dfcd525]: Textual amendment: [Art. 23ZD(3)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZD/3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(6)(b)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/6/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-f3e48f19235102be177c849d8c534224]: Textual amendment: [Art. 23ZE(2)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZE/2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(13)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/13)
+
+[^key-89441c5751f24494a70b40589a002ebc]: Textual amendment: Words in [art. 23ZE(3)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZE/3) renumbered (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(7)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/7/a/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-e8200b323263d79727d7492679ed459c]: Textual amendment: Words in [art. 23ZE(3)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZE/3) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/7/a/ii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-774049ffd451557eb1e6dde10f8bce99]: Textual amendment: [Art. 23ZE(4)](https://www.legislation.gov.uk/uksi/2006/572/article/23ZE/4) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(7)(b)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/7/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-8ff5867ab3739b42f42af487cfff1060]: Textual amendment: [Arts. 23A-23D](https://www.legislation.gov.uk/uksi/2006/572/article/23A) inserted (1.6.2009) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) Order 2009 (S.I. 2009/1172)](https://www.legislation.gov.uk/uksi/2009/1172), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1172/article/1), [3](https://www.legislation.gov.uk/uksi/2009/1172/article/3)
+
+[^key-75bd730125aa849c2f222bd588f1713b]: Textual amendment: Word in [art. 23C(4)](https://www.legislation.gov.uk/uksi/2006/572/article/23C/4) substituted (with effect in accordance with s. 42(9) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 42(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/42/5)[(9)](https://www.legislation.gov.uk/ukpga/2014/26/section/42/9)
+
+[^key-260632d09fba6ffbd838248ff0dc7277]: Textual amendment: Words in [art. 23C](https://www.legislation.gov.uk/uksi/2006/572/article/23C) substituted (with effect in accordance with Sch. 1 para. 72(2) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 72(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/72/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/72/2)
+
+[^key-6ae0e90032c31feb9b9796f8c0fc4d68]: Textual amendment: Words in [art. 23C(4)](https://www.legislation.gov.uk/uksi/2006/572/article/23C/4) omitted (11.8.2011 with effect in relation to lump sums paid on or after 6.4.2011) by virtue of [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) (No.2) Order 2011 (S.I. 2011/1782)](https://www.legislation.gov.uk/uksi/2011/1782), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1782/article/1/1)[(3)](https://www.legislation.gov.uk/uksi/2011/1782/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2011/1782/article/2/3)
+
+[^key-93a6190d00e393cbeff64804f116e86f]: Textual amendment: Words in [art. 23C(4)](https://www.legislation.gov.uk/uksi/2006/572/article/23C/4) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(14)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/14)
+
+[^key-602a9dcaf00215922f54644b8abd36ae]: Textual amendment: Words in [art. 23D(2)](https://www.legislation.gov.uk/uksi/2006/572/article/23D/2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/8) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-f79b18671f8e807dc83784960cf36586]: Textual amendment: [Art. 23D(3)](https://www.legislation.gov.uk/uksi/2006/572/article/23D/3) inserted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [14(3)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/3)
+
+[^key-c0dbe69dee5b5c612112421c4d017f61]: Commencement: Art. 24 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-61d3154dea7fb7e2c46c36e6004e04cc]: Modification: [Art. 24](https://www.legislation.gov.uk/uksi/2006/572/article/24) applied (coming into force in accordance with reg. 1(1) (see [S.I. 2012/687](https://www.legislation.gov.uk/uksi/2012/687), [S.I. 2012/688](https://www.legislation.gov.uk/uksi/2012/688) and [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966))) by [The Postal Services Act 2011 (Taxation) Regulations 2012 (S.I. 2012/764)](https://www.legislation.gov.uk/uksi/2012/764), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2012/764/regulation/14/2)
+
+[^f00013]: Footnote: Paragraph 16A was inserted by paragraph 28 of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7) with effect from 6<sup>th</sup> April 206.
+
+[^key-1e5e0a875d6dbe7e5bfed18b413dfe91]: Textual amendment: Arts. 25-25D substituted for art. 25 (25.7.2006) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment No. 2) Order 2006 (S.I. 2006/2004)](https://www.legislation.gov.uk/uksi/2006/2004), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2004/article/1/1), [3](https://www.legislation.gov.uk/uksi/2006/2004/article/3)
+
+[^key-f4dbf7e9f97d62010fa00a8e26876ea2]: Textual amendment: Words in [art. 25(2)](https://www.legislation.gov.uk/uksi/2006/572/article/25/2) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/3)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [14(4)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/4)
+
+[^key-df78e7cfa3953b0d8774ace132bbe68f]: Textual amendment: Word in [art. 25(3)(a)](https://www.legislation.gov.uk/uksi/2006/572/article/25/3) substituted (11.8.2011 with effect in relation to lump sums paid on or after 6.4.2011) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) (No.2) Order 2011 (S.I. 2011/1782)](https://www.legislation.gov.uk/uksi/2011/1782), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1782/article/1/1)[(3)](https://www.legislation.gov.uk/uksi/2011/1782/article/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2011/1782/article/2/4)
+
+[^key-c7ba54a0e6d533b65baf01d4c6acbb1d]: Textual amendment: Words in [art. 25A(3)](https://www.legislation.gov.uk/uksi/2006/572/article/25A/3) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 95(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/95/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-a305a9cd134ddac7402caf422d405b01]: Textual amendment: [Art. 25A(5)](https://www.legislation.gov.uk/uksi/2006/572/article/25A/5) omitted (11.8.2011 with effect in relation to lump sums paid on or after 6.4.2011) by virtue of [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) (No.2) Order 2011 (S.I. 2011/1782)](https://www.legislation.gov.uk/uksi/2011/1782), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1782/article/1/1)[(3)](https://www.legislation.gov.uk/uksi/2011/1782/article/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2011/1782/article/2/5)
+
+[^key-70ed3a84f6a81d1067c6194a8bba0e2d]: Textual amendment: Words in [art. 25B(2)](https://www.legislation.gov.uk/uksi/2006/572/article/25B/2) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 95(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/95/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-cd554d6d414c542784f1dc093a05ae09]: Textual amendment: [Art. 25C(1A)](https://www.legislation.gov.uk/uksi/2006/572/article/25C/1A) substituted for [arts. 25C(2)](https://www.legislation.gov.uk/uksi/2006/572/article/25C/2)[(3A)](https://www.legislation.gov.uk/uksi/2006/572/article/25C/3A) (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 95(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/95/4), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-8409a4dc9ad090468303ab60e4d4585c]: Textual amendment: [Art. 25C(4)](https://www.legislation.gov.uk/uksi/2006/572/article/25C/4) inserted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 69(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/69/1) (with [Sch. 1 para. 69(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/69/2))
+
+[^key-074536f071abddbb7fbf585a13dd09bd]: Textual amendment: Arts. 25CA-25CC inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 95(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/95/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+
+[^key-622cdd3b6c91ad33c9bcc53cf3d3b527]: Textual amendment: Words in art. 25CA(1) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [11(2)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/11/2/a)
+
+[^key-7c42c84ac772ed7a5767bf9fc65d52b3]: Textual amendment: Words in art. 25CA(1) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [11(2)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/11/2/b)
+
+[^key-a2d1979bb8dc7858c33812fd08833d78]: Textual amendment: Words in art. 25CA(2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(16)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/16); and said words also substituted by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(9)(a)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/9/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-1077ea2c44bccd70109f5def497dd3ce]: Textual amendment: Words in art. 25CA(2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(9)(b)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/9/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-cbd147acf92e0de7c98f2aa60b73c029]: Textual amendment: Art. 25CA(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/3)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [14(5)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/5)
+
+[^key-a06d0ad6cc0098582e5e2e3e50ae86f2]: Textual amendment: Words in art. 25CB(1) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [11(3)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/11/3/a)
+
+[^key-97caadc63ce52f00ee999f3730bd8694]: Textual amendment: Words in art. 25CB(1) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [11(3)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/11/3/b)
+
+[^key-8f5b599562bfec35749a12d8edadca8e]: Textual amendment: Art. 25CB(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/3)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [14(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/6)
+
+[^key-fcc3151ef4e72951aa550723358c35bf]: Textual amendment: Words in art. 25CC(1) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [11(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/356/regulation/11/4/a/i)
+
+[^key-4e2e0fb59e9dcf0dfceed576a6d2a5a0]: Textual amendment: Words in art. 25CC(1) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [11(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/356/regulation/11/4/a/ii)
+
+[^key-5eee0070b2edad8447f7530bad104441]: Textual amendment: Words in art. 25CC(2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(17)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/17); and said words also substituted by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(10)(a)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/10/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-0471b397e9a79e674c7e8b68747b172c]: Textual amendment: Words in Art. 25CC(2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 3) Regulations 2024 (S.I. 2024/1167)](https://www.legislation.gov.uk/uksi/2024/1167), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/1/3), [4(10)(b)](https://www.legislation.gov.uk/uksi/2024/1167/regulation/4/10/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1167/regulation/6))
+
+[^key-e74afc18b98003ccff76f353ab8a07e6]: Textual amendment: Words in art. 25CC(5) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/356/regulation/1/3), [11(4)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/11/4/b)
+
+[^key-ed8698c812f73749b667c54a45d8e2ba]: Textual amendment: Art. 25CC(6) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/3)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [14(7)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/7)
+
+[^key-b97d13a2975c607e8da75586618b388c]: Modification: Art. 25D modified (1.5.2010) by [The Financial Assistance Scheme (Tax) Regulations 2010 (S.I. 2010/1187)](https://www.legislation.gov.uk/uksi/2010/1187), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1187/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2010/1187/regulation/19/b)
+
+[^key-ab199379ffb25f9e2f8a612c2eb2f94a]: Textual amendment: Words in art. 25D(2) omitted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [14(8)(a)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/8/a)
+
+[^key-5fa697439760b1e755b01634d6015712]: Textual amendment: Art. 25D(3) substituted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [14(8)(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/8/b)
+
+[^key-3d1efb266c342be1d06b2c7b8f9f99c9]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/uksi/2006/572/article/26) omitted (25.7.2006) by virtue of [The Taxation of Pension Schemes (Transitional Provisions) (Amendment No. 2) Order 2006 (S.I. 2006/2004)](https://www.legislation.gov.uk/uksi/2006/2004), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2004/article/1/1), [4](https://www.legislation.gov.uk/uksi/2006/2004/article/4)
+
+[^key-51854bcc96a7c5eda7a915e6d666eb6f]: Commencement: Art. 27 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-659494df3adc51240cb2eaa20f6ed8f4]: Commencement: Art. 28 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-4b428fa1ae802345292884930aa87ea3]: Textual amendment: Word in [art. 28(2)](https://www.legislation.gov.uk/uksi/2006/572/article/28/2) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(18)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/18/a/i)
+
+[^key-7da86114c24c9584c2a1c18f3f5e0e2f]: Textual amendment: Words in [art. 28(2)](https://www.legislation.gov.uk/uksi/2006/572/article/28/2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(18)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/18/a/ii)
+
+[^key-94423ee3732ccb5ae32b5e07c8585ea0]: Textual amendment: Words in [art. 28(3)(a)](https://www.legislation.gov.uk/uksi/2006/572/article/28/3/a) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(18)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/18/b)
+
+[^key-f8329d158e2eba6231978670347d597b]: Commencement: Art. 29 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00014]: Footnote: [S.I. 1991/1614](https://www.legislation.gov.uk/uksi/1991/1614). The definition of such a scheme was substituted by regulation 3 (b) of [S.I. 1998/728](https://www.legislation.gov.uk/uksi/1998/728).
+
+[^f00015]: Footnote: Section 634A was inserted by paragraph 4 of Schedule 11 to the Finance Act 1995, amended by paragraphs 12(2)and 18(8) and (9) of Schedule 10 to the Finance Act 1999 and paragraphs 10 and 11 of Part 1 of Schedule 13 to the Finance Act 2000, and prospectively repealed by the relevant entry in Part 3 of Schedule 42 to the Finance Act 2004.
+
+[^f00016]: Footnote: Paragraph 8(1A) of Schedule 28 was inserted by paragraph 18 of Schedule 10 to the Finance Act 2005.
+
+[^f00017]: Footnote: Section 634A was inserted by paragraph 4 of Schedule 11 to the Finance Act 1995, amended by paragraphs 12(2)and 18(8) and (9) of Schedule 10 to the Finance Act 1999 and paragraphs 10 and 11 of Part 1 of Schedule 13 to the Finance Act 2000, and prospectively repealed by the relevant entry in Part 3 of Schedule 42 to the Finance Act 2004.
+
+[^key-cb462b5ee200fb5989a59f263b760987]: Textual amendment: [Art. 29(3)(b)](https://www.legislation.gov.uk/uksi/2006/572/article/29/3/b) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(19)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/19/a)
+
+[^key-7e252783bd05c581206230df6e36c5c4]: Textual amendment: [Art. 29(5)](https://www.legislation.gov.uk/uksi/2006/572/article/29/5) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(19)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/19/b)
+
+[^key-9b4ef771fa411c1d50bd22041ee7bc26]: Textual amendment: [Art. 29A](https://www.legislation.gov.uk/uksi/2006/572/article/29A) inserted (with effect in accordance with art. 1 of the amending S.I.) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) Order 2006 (S.I. 2006/1962)](https://www.legislation.gov.uk/uksi/2006/1962), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1962/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1962/article/3)
+
+[^key-24c4c741e813da8dde9cca1d5428af55]: Textual amendment: [Art. 29A(3)](https://www.legislation.gov.uk/uksi/2006/572/article/29A/3) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(20)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/20)
+
+[^key-59064ca38c9f35a4e8668f37b6979d58]: Commencement: Art. 30 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00018]: Footnote: Section 634A was inserted by paragraph 4 of Schedule 11 to the Finance Act 1995, amended by paragraphs 12(2)and 18(8) and (9) of Schedule 10 to the Finance Act 1999 and paragraphs 10 and 11 of Part 1 of Schedule 13 to the Finance Act 2000, and prospectively repealed by the relevant entry in Part 3 of Schedule 42 to the Finance Act 2004.
+
+[^f00019]: Footnote: Paragraph 22 was amended by paragraph 21 of Schedule 10 to the Finance Act 2005.
+
+[^f00020]: Footnote: Section 634A was inserted by paragraph 4 of Schedule 11 to the Finance Act 1995, amended by paragraphs 12(2)and 18(8) and (9) of Schedule 10 to the Finance Act 1999 and paragraphs 10 and 11 of Part 1 of Schedule 13 to the Finance Act 2000, and prospectively repealed by the relevant entry in Part 3 of Schedule 42 to the Finance Act 2004.
+
+[^key-a0a577eb6f945abe8de83103dbeb5baf]: Commencement: Art. 31 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00021]: Footnote: Paragraph 11 to Schedule 28 of the Finance Act 2004 was amended by paragraph 20 of Schedule 10 to the Finance Act 2005
+
+[^f00022]: Footnote: Paragraph 11 to Schedule 28 of the Finance Act 2004 was amended by paragraph 20 of Schedule 10 to the Finance Act 2005.
+
+[^key-ff10d41cde792d201a00f0e73d9a5b1f]: Commencement: Art. 32 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00023]: Footnote: Paragraph 25 of Schedule 28 of the Finance Act 2004 was amended by paragraph 23 of Schedule 10 to the Finance Act 2005.
+
+[^key-01e1600c5cd139c8ccedd577ee90b7e8]: Commencement: Art. 33 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-68be61f7d1a1f61c9e01ae9b226b0fbf]: Modification: [Art. 33(3)](https://www.legislation.gov.uk/uksi/2006/572/article/33/3) applied (with modifications) (coming into force in accordance with reg. 1(1) (see [S.I. 2012/687](https://www.legislation.gov.uk/uksi/2012/687), [S.I. 2012/688](https://www.legislation.gov.uk/uksi/2012/688) and [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966))) by [The Postal Services Act 2011 (Taxation) Regulations 2012 (S.I. 2012/764)](https://www.legislation.gov.uk/uksi/2012/764), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2012/764/regulation/15/3)[(4)](https://www.legislation.gov.uk/uksi/2012/764/regulation/15/4)
+
+[^key-2d6f48a2967ceb6089ad599ca2377368]: Textual amendment: Words in [art. 33(3)](https://www.legislation.gov.uk/uksi/2006/572/article/33/3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(21)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/21/a)
+
+[^key-9ba81e8426d184ac1ef1ec70887e2ce7]: Textual amendment: [Art. 33(4)](https://www.legislation.gov.uk/uksi/2006/572/article/33/4)[(5)](https://www.legislation.gov.uk/uksi/2006/572/article/33/5) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(21)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/21/b)
+
+[^key-311851e9779543459558a8d4dabf5d61]: Textual amendment: [Arts. 34-34B](https://www.legislation.gov.uk/uksi/2006/572/article/34) substituted for [art. 34](https://www.legislation.gov.uk/uksi/2006/572/article/34) (with effect in accordance with art. 1 of the amending S.I.) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment No. 2) Order 2009 (S.I. 2009/1989)](https://www.legislation.gov.uk/uksi/2009/1989), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1989/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1989/article/2/2)
+
+[^key-b33fddf263eb69f3841c7693fb8ff391]: Commencement: Art. 35 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^f00024]: Footnote: Section 169(1A) was inserted into the Finance Act 2004 by paragraph 6 of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7).
+
+[^key-ab9dd55643ad0d5dea9b7b3d09eba6ad]: Commencement: Art. 36 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-40241f991beca990abdf9823cb52932a]: Commencement: Art. 37 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-bcee0ab74b74834239982b9cd2c5cd95]: Textual amendment: Words in [art. 37](https://www.legislation.gov.uk/uksi/2006/572/article/37) heading substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(22)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/22/a)
+
+[^key-1a2e11cd8890868b3f76549f48cd0a38]: Textual amendment: Words in [art. 37(1)](https://www.legislation.gov.uk/uksi/2006/572/article/37/1) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(22)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/22/b)
+
+[^f00026]: Footnote: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785). Paragraph (1A) was inserted by regulation 9 of [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681). There are other amending instruments but none is relevant.
+
+[^f00027]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153). Paragraph (1A) was inserted by regulation 8 of S.R [2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109). There are other amending instruments but none is relevant.
+
+[^key-9e01c618d5495cdfbb74cae43e4089af]: Textual amendment: [Art. 37(2)](https://www.legislation.gov.uk/uksi/2006/572/article/37/2) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(22)(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/22/c)
+
+[^key-83ce0105d64a0909aace0ad867c1bb48]: Textual amendment: [Art. 37(4)](https://www.legislation.gov.uk/uksi/2006/572/article/37/4) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(22)(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/22/d)
+
+[^key-f95b34dae7e83ba4b7b73397e1e5ca49]: Textual amendment: [Art. 38](https://www.legislation.gov.uk/uksi/2006/572/article/38) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(23)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/23)
+
+[^key-39d47ba3a632f4b41c8cb59d0e2f81b7]: Textual amendment: [Art. 39](https://www.legislation.gov.uk/uksi/2006/572/article/39) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(23)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/23)
+
+[^key-6cb3e7ca4e1fe97b92602d56cd912b3d]: Commencement: Art. 40 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-153910ec0a2bff734ae32eafe76c0989]: Textual amendment: Words in [art. 40(1)(b)](https://www.legislation.gov.uk/uksi/2006/572/article/40/1/b) substituted (with effect in accordance with art. 1 of the amending S.I.) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) Order 2006 (S.I. 2006/1962)](https://www.legislation.gov.uk/uksi/2006/1962), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1962/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2006/1962/article/4/a)
+
+[^key-3d2dcde965187ce9b24b00dcb53b2131]: Textual amendment: Words in [art. 40(1)(e)](https://www.legislation.gov.uk/uksi/2006/572/article/40/1/e) substituted (with effect in accordance with art. 1 of the amending S.I.) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) Order 2006 (S.I. 2006/1962)](https://www.legislation.gov.uk/uksi/2006/1962), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1962/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2006/1962/article/4/b)
+
+[^key-fa6b2b4505261c75d4081996d5166a36]: Textual amendment: [Art. 40(2)](https://www.legislation.gov.uk/uksi/2006/572/article/40/2) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(24)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/24/a)
+
+[^f00034]: Footnote: Section 648B was inserted by paragraph 12 of Schedule 11 to the Finance Act 1995, amended by paragraph 266 of Schedule 1 to the Income Tax (Trading and Other Income Act 2005, and repealed by Part 3 of Schedule 42 to the Finance Act 2004.
+
+[^f00035]: Footnote: [S.I. 2000/2316](https://www.legislation.gov.uk/uksi/2000/2316).
+
+[^key-8daa747416a8d1a77b488b70e6a6543e]: Textual amendment: [Art. 40(6)](https://www.legislation.gov.uk/uksi/2006/572/article/40/6) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(24)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/24/b)
+
+[^key-b59dd9242b307e376868901bcdf137f6]: Commencement: Art. 41 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/572/article/1/1)
+
+[^key-d742e2dbc77c9a34a82b942ae3360c6d]: Textual amendment: Words in [art. 41(1)(c)](https://www.legislation.gov.uk/uksi/2006/572/article/41/1/c) substituted (with effect in accordance with art. 1 of the amending S.I.) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) Order 2006 (S.I. 2006/1962)](https://www.legislation.gov.uk/uksi/2006/1962), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1962/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2006/1962/article/5/a)
+
+[^key-7ef422af6d100df61b68b68dcbbe1de6]: Textual amendment: Words in [art. 41(1)(e)](https://www.legislation.gov.uk/uksi/2006/572/article/41/1/e) substituted (with effect in accordance with art. 1 of the amending S.I.) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) Order 2006 (S.I. 2006/1962)](https://www.legislation.gov.uk/uksi/2006/1962), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1962/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2006/1962/article/5/b)
+
+[^key-06cefaa2b3c7f0561c045cc5ebc2a602]: Textual amendment: [Arts. 42](https://www.legislation.gov.uk/uksi/2006/572/article/42), [43](https://www.legislation.gov.uk/uksi/2006/572/article/43) inserted (6.4.2011 with effect in relation to any time on or after 6.4.2011) by [The Taxation of Pension Schemes (Transitional Provisions) (Amendment) Order 2011 (S.I. 2011/732)](https://www.legislation.gov.uk/uksi/2011/732), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/732/article/1/1)[(3)](https://www.legislation.gov.uk/uksi/2011/732/article/1/3), [4](https://www.legislation.gov.uk/uksi/2011/732/article/4)
+
+[^key-532b4db9f28446aa4ad37d1e51628ba2]: Textual amendment: [Art. 44](https://www.legislation.gov.uk/uksi/2006/572/article/44) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(25)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/25)
+
+[^key-b685df99db43a1563da8ac0e5f512811]: Textual amendment: [Art. 45](https://www.legislation.gov.uk/uksi/2006/572/article/45) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [25(25)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/25/25)

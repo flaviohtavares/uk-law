@@ -1,0 +1,501 @@
+---
+title: The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) Rules 2009
+id: uksi/2009/2100
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-07-30'
+text_date: '2015-04-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/2100
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2100/pdfs/uksiem_20092100_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2100/pdfs/uksi_20092100_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2100/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) Rules 2009
+
+> Text as at 2015-04-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 2100
+
+Defence
+
+The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) Rules 2009
+
+Made
+
+30th July 2009
+
+Laid before Parliament
+
+4th August 2009
+
+Coming into force
+
+31st October 2009
+
+The Secretary of State, in exercise of the powers conferred by sections 163 and 288 of the Armed Forces Act 2006[^f00001] and sections 37(5), 38(6), 43(3) and 65(1) of the Youth Justice and Criminal Evidence Act 1999[^f00002], makes the following Rules:
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-d6288275d68d87de3d655c02090bf5d4]
+
+These Rules may be cited as the Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) Rules 2009 and shall come into force on 31st October 2009.
+
+### 2. Application[^key-3c196335aaf609d3494819c31b293ccb]
+
+These Rules apply to any proceedings before the Court Martial and the Service Civilian Court.
+
+### 3. Interpretation[^key-955e97d71cf5db85e2109ec8ce434f57]
+
+(1) In these Rules—
+
+- “**the 1999 Act**” means the Youth Justice and Criminal Evidence Act 1999;
+- “**the 2006 Act**” means the Armed Forces Act 2006;
+- “**Court Martial Rules**” means the Armed Forces (Court Martial) Rules 2009[^f00003];
+- “**SCC Rules**” means the Armed Forces (Service Civilian Court) Rules 2009[^f00004];
+- “**defendant**”—
+  - (a) in relation to proceedings before the Court Martial, means a person against whom a charge regarded for the purposes of Part 5 of the 2006 Act as allocated for Court Martial trial has been brought;
+  - (b) in relation to proceedings before the Service Civilian Court, means a person against whom a charge regarded for the purposes of Part 5 of the 2006 Act as allocated for Service Civilian Court trial has been brought;
+  - (c) in relation to appellate proceedings within the meaning of Court Martial Rules, means the appellant;
+- “**the Director**” means the Director of Service Prosecutions;
+- “the judge advocate”—
+  - (a) in relation to any proceedings before the Court Martial, means the judge advocate specified for the proceedings under section 155(5) of the 2006 Act;
+  - (b) in relation to any proceedings before the Service Civilian Court, means the judge advocate specified for the proceedings under section 278(2) of the 2006 Act;
+- “**legal representative**”—
+  - (a) in relation to proceedings before the Court Martial, means a person appointed under rule 39 of the Court Martial Rules;
+  - (b) in relation to proceedings before the Service Civilian Court, means a person appointed under rule 26 of the SCC Rules;[^key-245e2659f81cd0399a61e3953070ec32]
+- “[^key-9f495bf9485a7332887808b49ab2f4bc]**person concerned in the proceedings**” means—
+  - (a) in relation to an application in any proceedings for a direction under section 45(3), or an excepting direction under section 45(4) or (5) of the 1999 Act, a person falling within section 45(7) of that Act;
+  - (b) in relation to an application in any proceedings for a reporting direction under section 45A(2), or an excepting direction under section 45A(10), of the 1999 Act, a person falling within section 45A(3) of that Act;
+  - (c) in relation to an application in any proceedings for a reporting direction under section 46(2), or an excepting direction under section 46(9), of the 1999 Act, a witness falling within section 46(1) of that Act;
+- “**reporting direction**” means, unless otherwise specified, a reporting direction under section 45A(2) or 46(2) of the 1999 Act.
+
+(2) A reference in these Rules to proceedings—
+
+- (a) in relation to proceedings before the Court Martial, has the same meaning as in Part 1 of the Court Martial Rules;
+- (b) in relation to proceedings before the Service Civilian Court, has the same meaning as in Part 1 of the SCC Rules.
+
+(3) A reference in these Rules to a party to any proceedings—
+
+- (a) in relation to proceedings before the Court Martial, has the same meaning as in Part 1 of the Court Martial Rules;
+- (b) in relation to proceedings before the Service Civilian Court, has the same meaning as in Part 1 of the SCC Rules.
+
+## PART 2 — Restriction on cross-examination by a defendant acting in person
+
+### 4. Application for direction prohibiting defendant from cross-examining witness in person[^key-d9941aecf25609f1db2441dad1753124]
+
+(1) Subject to paragraph (8)(a), an application by the Director for the judge advocate to give a direction under section 36 of the 1999 Act in relation to any witness must be sent to the court administration officer and at the same time a copy of the application must be sent by the applicant to every other party to the proceedings.
+
+(2) In his application the Director must state why, in his opinion—
+
+- (a) the evidence given by the witness is likely to be diminished if cross-examination is undertaken by the defendant in person;
+- (b) the evidence would be improved if a direction were given under section 36(2) of the 1999 Act; and
+- (c) it would not be contrary to the interests of justice to give such a direction.
+
+(3) On receipt of the application the court administration officer must refer it to the judge advocate.
+
+(4) Where a copy of the application is received by a party to the proceedings more than 14 days before the date set for the trial to begin, that party may make observations in writing on the application to the court administration officer, but any such observations must be made within 14 days of the receipt of the application and be copied to the other parties to the proceedings.
+
+(5) A party to whom an application is sent in accordance with paragraph (1) who wishes to oppose the application must give his reasons for doing so to the court administration officer and the other parties to the proceedings.
+
+(6) Those reasons must be notified—
+
+- (a) within 14 days of the date the application was served on him, if that date is more than 14 days before the date set for the trial to begin;
+- (b) if the trial has begun, in accordance with any directions issued by the judge advocate; or
+- (c) if neither sub-paragraph (a) nor sub-paragraph (b) apply, before the date set for the trial to begin.
+
+(7) Where the application made in accordance with paragraph (1) is made before the date set for the trial to begin and—
+
+- (a) is not contested by any party to the proceedings, the judge advocate may determine the application without a hearing;
+- (b) is contested by a party to the proceedings, the judge advocate must direct a hearing of the application.
+
+(8) Where the application is made after the trial has begun—
+
+- (a) the application may be made orally; and
+- (b) the judge advocate may give such directions as he considers appropriate to deal with the application.
+
+(9) Where a hearing of the application is to take place, the court administration officer must notify each party to the proceedings of the time and place of the hearing.
+
+(10) A party notified in accordance with paragraph (9) may be present at the hearing and be heard.
+
+(11) The court administration officer must, as soon as possible after the determination of an application made in accordance with paragraph (1), give notice of the decision and the reasons for it to all the parties to the proceedings.
+
+(12) A person making an oral application under paragraph (8)(a) must—
+
+- (a) give reasons why the application was not made before the trial commenced; and
+- (b) provide the judge advocate with the information set out in paragraph (2).
+
+### 5. Restrictions on cross-examination of witness[^key-8e02f666d0e7cac7cb7e5c943dd46fb7]
+
+(1) This rule and rules 6 and 7 apply where a defendant is prevented from cross-examining a witness in person by virtue of section 34, 35 or a direction under section 36 of the 1999 Act.
+
+(2) The judge advocate must explain to the defendant, as early in the proceedings as is reasonably practicable, that he—
+
+- (a) is prevented from cross-examining a witness in person; and
+- (b) should arrange for a legal representative to act for him for the purpose of cross-examining the witness.
+
+(3) The defendant must notify the court administration officer within 7 days of the judge advocate giving his explanation, or within such other period as the judge advocate may in any particular case allow, of the action, if any, he has taken.
+
+(4) Where he has arranged for a legal representative to act for him, the notification must include details of the name and address of the representative.
+
+(5) The notification must be in writing.
+
+(6) The court administration officer must notify all other parties to the proceedings of the name and address of the person, if any, appointed to act for the defendant.
+
+(7) Where the judge advocate gives his explanation under paragraph (2) to the defendant either within 7 days of the day set for the commencement of any hearing at which a witness in respect of whom a prohibition under section 34, 35 or a direction under section 36 of the 1999 Act applies may be cross-examined or after such a hearing has commenced, the period of 7 days shall be reduced in accordance with any directions issued by the judge advocate.
+
+(8) Where at the end of the period of 7 days or such other period as the judge advocate has allowed, the court administration officer has received no notification from the defendant, the judge advocate may grant the defendant an extension of time, whether on his own motion or on the application of the defendant.
+
+(9) Before granting an extension of time, the judge advocate may hold a hearing at which all the parties to the proceedings may attend and be heard.
+
+(10) Any extension of time shall be of such period as the judge advocate considers appropriate in the circumstances of the case.
+
+(11) The decision of the judge advocate as to whether to grant the defendant an extension of time must be notified to all the parties to the proceedings by the court administration officer.
+
+### 6. Appointment of legal representative by the judge advocate[^key-8f20e2f3e1f33fbc9a2801defd39285d]
+
+(1) Where the judge advocate decides, in accordance with section 38(4) of the 1999 Act, to appoint a legal representative, the court administration officer must notify all the parties to the proceedings of the name and address of the representative.
+
+(2) An appointment made by the judge advocate under section 38(4) of the 1999 Act shall, except to such extent as the judge advocate may in any particular case determine, terminate at the conclusion of the cross-examination of the witness or witnesses in respect of whom a prohibition under section 34, 35 or a direction under section 36 of the 1999 Act applies.
+
+### 7. Appointment arranged by the defendant[^key-cf84f27029892adf798fc8d641d9711d]
+
+(1) The defendant may arrange for the legal representative, appointed by the judge advocate under section 38(4) of the 1999 Act, to be appointed to act for him for the purpose of cross-examining any witness in respect of whom a prohibition under section 34, 35 or a direction under section 36 of the 1999 Act applies.
+
+(2) Where such an appointment is made—
+
+- (a) both the defendant and the legal representative appointed must notify the court of the appointment; and
+- (b) the legal representative must, from the time of his appointment, act for the defendant as though the arrangement had been made under section 38(2)(a) of the 1999 Act and shall cease to be the representative of the court under section 38(4) of the 1999 Act.
+
+(3) Where the court receives notification of the appointment either from the legal representative or from the defendant but not from both, the judge advocate must investigate whether the appointment has been made, and if he concludes that the appointment has not been made, paragraph (2)(b) shall not apply.
+
+(4) A defendant may, notwithstanding an appointment by the judge advocate under section 38(4) of the 1999 Act, arrange for a legal representative to act for him for the purpose of cross-examining any witness in respect of whom a prohibition under section 34, 35 or a direction under section 36 of the 1999 Act applies.
+
+(5) Where the defendant arranges for, or informs the court of his intention to arrange for, a legal representative to act for him, he must notify the court, within such period as the judge advocate may allow, of the name and address of any person appointed to act for him.
+
+(6) Where the court is notified within the time allowed that such an appointment has been made, any legal representative appointed by the judge advocate in accordance with section 38(4) of the 1999 Act shall be discharged.
+
+(7) The court administration officer must, as soon as reasonably practicable after the court receives notification of an appointment under this rule or, where paragraph (3) applies, after the judge advocate is satisfied that the appointment has been made, notify all the parties to the proceedings—
+
+- (a) that the appointment has been made;
+- (b) where the defendant has arranged for a legal representative to act for him in accordance with paragraph (4), of the name and address of that legal representative; and
+- (c) that the person appointed by the judge advocate under section 38(4) of the 1999 Act has been discharged or has ceased to act for the court.
+
+## PART 3 — Evidence of a complainant’s previous sexual behaviour
+
+### 8. Evidence of a complainant’s previous sexual behaviour[^key-456f6834b04cf234ca65577e52841b08]
+
+(1) An application for leave under section 41(2) of the 1999 Act must, except where paragraph (13) applies, be made in writing to the court administration officer and must—
+
+- (a) in relation to proceedings before the Court Martial, either—
+  - (i) be received by that officer within 28 days of—
+    - (aa) that officer giving notice in writing of the time and place appointed for the hearing of the proceedings in accordance with Court Martial Rules, or
+    - (bb) the lodging of a notice of appeal against conviction or sentence by the Service Civilian Court in accordance with Court Martial Rules,
+
+    or within such period as the judge advocate may in any particular case determine; or
+  - (ii) be accompanied by a full written explanation specifying the reasons why the application could not have been made within the 28 days mentioned above;
+- (b) in relation to proceedings before the Service Civilian Court, either—
+  - (i) be received by that officer within 28 days of that officer giving notice in writing of the time and place appointed for the hearing of the proceedings in accordance with SCC Rules or within such period as the judge advocate may in any particular case determine; or
+  - (ii) be accompanied by a full written explanation specifying the reasons why the application could not have been made within the 28 days mentioned above.
+
+(2) Such an application must—
+
+- (a) identify the issue to which the defendant says the complainant’s sexual behaviour is relevant;
+- (b) give particulars of—
+  - (i) any evidence that the defendant wants to introduce; and
+  - (ii) any questions that the defendant wants to ask;
+- (c) identify the exception to the prohibition in section 41 of the 1999 Act on which the defendant relies; and
+- (d) give the name and date of birth of any witness whose evidence about the complainant’s sexual behaviour the defendant wants to introduce.
+
+(3) A copy of the application must be sent to all the other parties to the proceedings at the same time as it is sent to the court administration officer.
+
+(4) Where a copy of the application is received by the Director more than 14 days before the date set for the trial to begin, the Director must, within 14 days of the receipt of the application, notify the other parties to the proceedings and the court administration officer in writing whether or not—
+
+- (a) he opposes the application, giving reasons for any such opposition; and
+- (b) he wishes to be represented at any hearing of the application.
+
+(5) Where a copy of the application is received by a party to the proceedings other than the Director more than 14 days before the date set for the trial to begin, that party may make observations in writing on the application to the court administration officer, but any such observations must be made within 14 days of the receipt of the application and be copied to the other parties to the proceedings.
+
+(6) In considering any application under this rule, the judge advocate may request a party to the proceedings to provide him with such information as he may specify and which he considers would assist him in determining the application.
+
+(7) Where the judge advocate makes such a request, the person required to provide the information must do so within 14 days of the judge advocate making the request or by such time as the judge advocate considers appropriate in the circumstances of the case.
+
+(8) An application under paragraph (1) must be determined by the judge advocate following a hearing if—
+
+- (a) the Director has notified the court administration officer that he opposes the application; or
+- (b) the copy of the application was received by any of the parties to the proceedings less than 14 days before the date set for the trial to begin.
+
+(9) An application under paragraph (1) must be determined by the judge advocate following a hearing in any case where he considers such a hearing is appropriate in the circumstances of the particular case.
+
+(10) The date and time of the hearing must be—
+
+- (a) determined by the judge advocate after taking into consideration—
+  - (i) any time which a party to the proceedings has been given to respond to a request for information; and
+  - (ii) the date fixed for any other hearing relevant to the proceedings; and
+- (b) notified by the court administration officer to all the parties to the proceedings.
+
+(11) Except where paragraph (8) or (9) applies, an application under paragraph (1) must be determined by the judge advocate without a hearing.
+
+(12) The court administration officer must, as soon as possible after the determination of an application made in accordance with paragraph (1), give notice of the decision and the reasons for it to all the parties to the proceedings.
+
+(13) An application for leave under section 41(2) of the 1999 Act may be made orally where the application is made after the trial has begun.
+
+(14) The person making the application under paragraph (13) must—
+
+- (a) give reasons why the applicant failed to make the application in writing in accordance with paragraph (1); and
+- (b) provide the judge advocate with the information set out in paragraph (2)(a) to (2)(d).
+
+## PART 4 — Restrictions on reporting
+
+### 9. Application for a direction under section 45(3) of the 1999 Act or for a reporting direction[^key-5813919f9bd96aa808269d160203f405]
+
+(1) An application in any proceedings for a direction under section 45(3) of the 1999 Act or for a reporting direction under section 45A(2) of that Act may be made by any person who in the view of the judge advocate has a legitimate interest in making such an application.
+
+(2) Subject to rule 11, an application in any proceedings in relation to a person concerned in the proceedings for a direction under section 45(3) of the 1999 Act or for a reporting direction must be made in writing.
+
+(3) A written application for a direction under section 45(3) of the 1999 Act must include the information specified in paragraphs (6) and (7).
+
+(4) A written application for a reporting direction under section 45A(2) of the 1999 Act must include the information specified in paragraphs (6), (7) and (8).
+
+(5) A written application for a reporting direction under section 46(2) of the 1999 Act must include the information specified in paragraphs (6) and (8).
+
+(6) For the purposes of paragraphs (3), (4) and (5), the specified information is—
+
+- (a) the name, address and date of birth of the person concerned in the proceedings (or the reason for not giving these details);
+- (b) brief details of the charges to which the application applies;
+- (c) whether the application needs to be determined urgently, and if so why and by when.
+
+(7) For the purposes of paragraphs (3) and (4), the specified information is—
+
+- (a) the grounds on which the applicant asserts that publication of any matter relating to the person concerned in the proceedings is likely to lead members of the public to identify that person as a person concerned in the proceedings;
+- (b) whether making the direction or reporting direction sought in relation to the person concerned in the proceedings is in the interests of the welfare of that person.
+
+(8) For the purposes of paragraphs (4) and (5), the specified information is—
+
+- (a) the grounds on which the applicant asserts that, if a reporting direction is not given—
+  - (i) the quality of the evidence given by the person concerned in the proceedings, or
+  - (ii) the level of co-operation given by that person to any party to the proceedings in the preparation of that party’s case,
+
+  is likely to be diminished by fear or distress on the part of that person in connection with being identified by members of the public as a person concerned in the proceedings; and
+- (b) why a reporting direction—
+  - (i) is in the interests of justice; or
+  - (ii) is in the public interest in avoiding the imposition of a substantial and unreasonable restriction on the reporting of proceedings.
+
+(9) If an application for a direction under section 45(3) of the 1999 Act or for a reporting direction is made in writing, the applicant must—
+
+- (a) send it to the court administration officer; and
+- (b) at the same time, send copies of it to every party or, as the case may be, every other party to the proceedings.
+
+### 10. Opposing an application for a direction under section 45(3) of the 1999 Act or for a reporting direction[^key-9401c0221e5b0bbd333b9877b4cb1945]
+
+(1) If an application for a direction under section 45(3) of the 1999 Act or for a reporting direction is made in writing, any party to the proceedings who wishes to oppose that application must notify the applicant and the court administration officer in writing of his or her opposition and give reasons for it.
+
+(2) A person opposing an application for a direction under section 45(3) of the 1999 Act must include in the written notification the information specified in paragraphs (5) and (6).
+
+(3) A person opposing an application for a reporting direction under section 45A(2) of the 1999 Act must include in the written notification the information specified in paragraphs (5), (6) and (7).
+
+(4) A person opposing an application for a reporting direction under section 46(2) of the 1999 Act must include in the written notification the information specified in paragraphs (5) and (7).
+
+(5) For the purposes of paragraphs (2), (3) and (4), the specified information is whether he or she disputes that the person concerned in the proceedings is eligible for protection under section 45, 45A or 46 of the 1999 Act.
+
+(6) For the purposes of paragraphs (2) and (3), the specified information is whether he or she disputes that—
+
+- (a) publication of any matter relating to the person concerned in the proceedings is likely to lead members of the public to identify that person as a person concerned in the proceedings; or
+- (b) the granting of protection is in the interests of the welfare of that person.
+
+(7) For the purposes of paragraphs (3) and (4), the specified information is whether he or she disputes that the granting of protection would be likely to improve—
+
+- (a) the quality of the evidence given by the person concerned in the proceedings; or
+- (b) the level of co-operation given by that person to any party to the proceedings in connection with that party’s preparation of its case.
+
+(8) The notification under paragraph (1) must be given within 5 working days of the date the application was served on the party to the proceedings unless an extension of time is granted under rule 14.
+
+### 11. Urgent applications for a direction under section 45(3) of the 1999 Act or for a reporting direction[^key-4f9c9379e893efd563ea9ab4d18b73c7]
+
+(1) With the leave of the judge advocate, a person who may make an application in writing under rule 9(2) may instead make an oral application under this rule.
+
+(2) An application may be made under this rule whether or not an application has already been made under rule 9(2).
+
+(3) A person who seeks leave to make an application under this rule must explain the circumstances which justify making an oral application.
+
+### 12. Application for an excepting direction under section 45(4) or (5), 45A(10) or 46(9) of the 1999 Act[^key-e6a10564f2ab00fc72622317059b0b8f]
+
+(1) An application for an excepting direction under section 45(4) or (5), 45A(10) or 46(9) of the 1999 Act may be made by—
+
+- (a) a party to proceedings in which restrictions have been imposed by a direction under section 45(3) of the 1999 Act or by a reporting direction;
+- (b) any person who, although not a party to those proceedings, is directly affected by those restrictions.
+
+(2) An application for an excepting direction may be made—
+
+- (a) in writing at any time after the commencement of the proceedings in the court; or
+- (b) orally, at a hearing of an application for a direction under section 45(3) of the 1999 Act or for a reporting direction.
+
+(3) An application for an excepting direction must state why the applicant considers—
+
+- (a) that the restrictions imposed on the reporting of the proceedings by the direction under section 45(3) of the 1999 Act or the reporting direction are substantial and unreasonable and that it is in the public interest to remove or relax those restrictions; or
+- (b) that it is necessary in the interests of justice to remove or relax those restrictions.
+
+(4) A written application for an excepting direction must include the following information—
+
+- (a) name, address and date of birth of the person concerned in the proceedings in relation to whom the application is made (or the reason for not giving these details);
+- (b) brief details of the charges to which the application applies;
+- (c) the extent to which the applicant invites the judge advocate to dispense with the restrictions imposed by the direction under section 45(3) of the 1999 Act or the reporting direction;
+- (d) why the applicant considers—
+  - (i) that the restrictions imposed on the reporting of the proceedings by the direction under section 45(3) of the 1999 Act or the reporting direction are substantial and unreasonable and that it is in the public interest to remove or relax those restrictions; or
+  - (ii) that it is necessary in the interests of justice to remove or relax those restrictions;
+- (e) in the case of an application for an excepting direction under section 45(4) or (5) or 45A(10) of the 1999 Act, a statement explaining whether the applicant disputes that the granting of protection is in the interests of the welfare of the person concerned in the proceedings;
+- (f) if an applicant is not a party to the proceedings, a statement explaining how he or she is directly affected by the restrictions imposed with respect to the person in relation to whom the application is made.
+
+(5) If an application for an excepting direction is made in writing, the applicant must—
+
+- (a) send it to the court administration officer; and
+- (b) at the same time, send copies to every party or, as the case may be, every other party to the proceedings.
+
+(6) Any person served with a copy of an application for an excepting direction who wishes to oppose it must notify the applicant and the court administration officer in writing of his or her opposition and give reasons for it.
+
+(7) The notification under paragraph (6) must be given within 5 working days of the date the application was served on that person unless an extension of time is granted under rule 14.
+
+### 13. Variation or revocation of directions[^key-82cb817cdc1c03e1fc118ae4c7074974][^key-9572cd62d7c3719b5f669ce969f578a0]
+
+(1) An application to—
+
+- (a) revoke a direction under section 45(3) of the 1999 Act or[^key-251342aea192669802387117c73ace47] a reporting direction, or
+- (b) vary or revoke an excepting direction,
+
+may be made at any time after the commencement of the proceedings in the court.
+
+(2) An application under paragraph (1) may be made by a party to the proceedings in which the direction was issued, or by a person who, although not a party to those proceedings, is in the opinion of the judge advocate directly affected by the direction.
+
+(3) An application under paragraph (1) must be made in writing and the applicant must send that application to the court administration officer, and at the same time copies of the application shall be sent to every party or, as the case may be, every other party to the proceedings.
+
+(4) The applicant must set out in his application the reasons why he seeks to have the direction varied or, as the case may be, revoked.
+
+(5) Any person served with a copy of an application who wishes to oppose it, must notify the applicant and the court administration officer in writing of his opposition and give reasons for it.
+
+(6) Any notification under paragraph (5) must be given within 5 working days of the date the application was served on him unless an extension of time is granted under rule 14.
+
+### 14. Application for an extension of time[^key-d946d710d5d758967a0eed485b1029f7]
+
+(1) An application may be made in writing to extend the period of time for notification under rule 10(8)[^key-5a0c93b460277cce5aebd674c34c67fb], rule 12(7) or rule 13(6) before that period has expired.
+
+(2) An application must be accompanied by a statement setting out the reasons why the applicant is unable to give notification within that period.
+
+(3) An application must be sent to the court administration officer and a copy of the application must be sent at the same time to the applicant.
+
+### 15. Decision of the judge advocate[^key-326d605fc1cd7f45c9e00d36642e8103]
+
+(1) The judge advocate may—
+
+- (a) determine any application made under rule 9 and rules 11 to 14 without a hearing; or
+- (b) direct a hearing of any application.
+
+(2) The court administration officer must notify all the parties of the judge advocate’s decision as soon as reasonably practicable.
+
+(3) If a hearing of an application is to take place, the court administration officer must notify each party to the proceedings of the time and place of the hearing.
+
+(4) The judge advocate may hear and take into account representations made to him by any person who in the judge advocate’s view has a legitimate interest in the application before him.
+
+## PART 5 — Revocations
+
+### 16. Revocations[^key-023c6a02380ffe33cfc8992071eee02d]
+
+(1) The Courts-Martial (Royal Navy, Army and Royal Air Force) (Evidence) Rules 2006[^f00005] are revoked to the extent that they are not otherwise revoked by the repeal of section 103 of the Army Act 1955[^f00006], section 103 of the Air Force Act 1955[^f00007] or section 58 of the Naval Discipline Act 1957[^f00008].
+
+(2) The Standing Civilian Courts (Evidence) Rules 2006[^f00009] are revoked to the extent that they are not otherwise revoked by the repeal of paragraph 12 of Schedule 3 to the Armed Forces Act 1976[^f00010].
+
+Kevan Jones
+
+Parliamentary Under Secretary of State
+
+Ministry of Defence
+
+30th July 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules )
+
+These Rules make provision for a range of measures designed to help young, disabled, vulnerable or intimidated witnesses give evidence in proceedings before the Court Martial and the Service Civilian Court. These measures are contained in Part 2 of the Youth Justice and Criminal Evidence Act [1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23) (“the 1999 Act”), certain provisions of which are applied with modifications to, or modified in their effect for the purposes of, proceedings before service courts by the Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 ([S.I. 2009/2083](https://www.legislation.gov.uk/uksi/2009/2083)).
+
+Part 2 of these Rules deals with restrictions on cross-examination of a witness by a defendant acting in person. Rule 4 makes provision for the Director of Service Prosecutions to make an application to the judge advocate to give a direction that the defendant be prevented from cross-examining a witness. Rule 5 sets out the procedure for the judge advocate to explain to the defendant that he is prevented from cross-examining the witness and the procedure required for the defendant to appoint a legal representative to conduct the cross-examination. Rule 6 deals with the appointment of a legal representative by the judge advocate and rule 7 deals with the appointment of a legal representative by the defendant.
+
+In Part 3 of these Rules, rule 8 makes provision for an application under section 41(2) of the 1999 Act for leave to adduce evidence or ask questions about a complainant’s sexual history.
+
+Part 4 of these Rules contains provisions relating to applications for reporting directions in respect of adult witnesses under section 46 of the 1999 Act. Rule 9 provides for applications for a reporting direction to be made in writing or orally under rule 11. Rule 10 makes provision for any party to the proceedings to oppose an application and rule 11 makes provision for urgent applications to be made in exceptional circumstances. Rule 12 contains provision for applications to be made for an excepting direction to dispense with the restrictions imposed by a reporting direction. Rule 13 contains provisions relating to applications for the revocation of reporting directions or the variation or revocation of an excepting direction and rule 14 contains provision for applications for an extension of time. Rule 15 sets out the procedure for determining applications for reporting directions.
+
+In Part 5 of these Rules, rule 16 revokes existing evidence rules for court-martial proceedings and proceedings in the Standing Civilian Court.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
+
+[^f00002]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23); the Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 ([S.I. 2009/2083](https://www.legislation.gov.uk/uksi/2009/2083)) made under section 61(1) and (2) applies provisions of Chapters 1 to 3 and 5 of Part 2 (and sections 62, 63 and 65 so far as having effect for the purpose of those Chapters) to proceedings before service courts subject to the modifications specified in that Order. The 2009 Order also modifies the effect of Chapter 4 of Part 2 (and sections 62, 63 and 65 so far as having effect for the purpose of that Chapter) for the purposes of proceedings before service courts.
+
+[^key-d6288275d68d87de3d655c02090bf5d4]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-3c196335aaf609d3494819c31b293ccb]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2009/2100/rule/2) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-955e97d71cf5db85e2109ec8ce434f57]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/2100/rule/3) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^f00003]: Footnote: [S.I. 2009/2041](https://www.legislation.gov.uk/uksi/2009/2041).
+
+[^f00004]: Footnote: [S.I. 2009/1209](https://www.legislation.gov.uk/uksi/2009/1209).
+
+[^key-245e2659f81cd0399a61e3953070ec32]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/uksi/2009/2100/rule/3/1) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/726/rule/3/a)
+
+[^key-9f495bf9485a7332887808b49ab2f4bc]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/uksi/2009/2100/rule/3/1) inserted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/726/rule/3/b)
+
+[^key-d9941aecf25609f1db2441dad1753124]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2009/2100/rule/4) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-8e02f666d0e7cac7cb7e5c943dd46fb7]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2009/2100/rule/5) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-8f20e2f3e1f33fbc9a2801defd39285d]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2009/2100/rule/6) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-cf84f27029892adf798fc8d641d9711d]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2009/2100/rule/7) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-456f6834b04cf234ca65577e52841b08]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2009/2100/rule/8) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-5813919f9bd96aa808269d160203f405]: Textual amendment: [Rule 9](https://www.legislation.gov.uk/uksi/2009/2100/rule/9) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [4](https://www.legislation.gov.uk/uksi/2015/726/rule/4)
+
+[^key-9401c0221e5b0bbd333b9877b4cb1945]: Textual amendment: [Rule 10](https://www.legislation.gov.uk/uksi/2009/2100/rule/10) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [5](https://www.legislation.gov.uk/uksi/2015/726/rule/5)
+
+[^key-4f9c9379e893efd563ea9ab4d18b73c7]: Textual amendment: [Rule 11](https://www.legislation.gov.uk/uksi/2009/2100/rule/11) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [6](https://www.legislation.gov.uk/uksi/2015/726/rule/6)
+
+[^key-e6a10564f2ab00fc72622317059b0b8f]: Textual amendment: [Rule 12](https://www.legislation.gov.uk/uksi/2009/2100/rule/12) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [7](https://www.legislation.gov.uk/uksi/2015/726/rule/7)
+
+[^key-82cb817cdc1c03e1fc118ae4c7074974]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2009/2100/rule/13) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-9572cd62d7c3719b5f669ce969f578a0]: Textual amendment: Word in [rule 13](https://www.legislation.gov.uk/uksi/2009/2100/rule/13) heading substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/726/rule/8/2)
+
+[^key-251342aea192669802387117c73ace47]: Textual amendment: Words in [rule 13(1)(a)](https://www.legislation.gov.uk/uksi/2009/2100/rule/13/1/a) inserted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/726/rule/8/3)
+
+[^key-d946d710d5d758967a0eed485b1029f7]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2009/2100/rule/14) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-5a0c93b460277cce5aebd674c34c67fb]: Textual amendment: Words in [rule 14(1)](https://www.legislation.gov.uk/uksi/2009/2100/rule/14/1) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [9](https://www.legislation.gov.uk/uksi/2015/726/rule/9)
+
+[^key-326d605fc1cd7f45c9e00d36642e8103]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2009/2100/rule/15) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^key-023c6a02380ffe33cfc8992071eee02d]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2009/2100/rule/16) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+
+[^f00005]: Footnote: [S.I. 2006/2889](https://www.legislation.gov.uk/uksi/2006/2889).
+
+[^f00006]: Footnote: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
+
+[^f00007]: Footnote: [1955 c. 19](https://www.legislation.gov.uk/ukpga/1955/19).
+
+[^f00008]: Footnote: [1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53).
+
+[^f00009]: Footnote: [S.I. 2006/2891](https://www.legislation.gov.uk/uksi/2006/2891).
+
+[^f00010]: Footnote: [1976 c. 52](https://www.legislation.gov.uk/ukpga/1976/52).

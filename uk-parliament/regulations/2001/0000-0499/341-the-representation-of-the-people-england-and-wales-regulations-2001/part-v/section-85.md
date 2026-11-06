@@ -1,0 +1,27 @@
+---
+title: The Representation of the People (England and Wales) Regulations 2001, section 85
+act: The Representation of the People (England and Wales) Regulations 2001
+section: '85'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2001/341/section/85
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Representation of the People (England and Wales) Regulations 2001, section 85
+
+> **Warning: changes not yet applied to this text (44).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/341
+>
+> Extent: England, Wales.
+
+## 85. Procedure in relation to declarations of identity[^key-8d042c69c79e0eca27b5d706ed3f9797]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-8d042c69c79e0eca27b5d706ed3f9797]: Textual amendment: [Reg. 85](https://www.legislation.gov.uk/uksi/2001/341/regulation/85) revoked (6.4.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3198/schedule/2); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/414/article/3/a)

@@ -1,0 +1,430 @@
+---
+title: The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/333
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2019-02-20'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/333
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/333/pdfs/uksiem_20190333_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/333/pdfs/uksi_20190333_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/333/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2019/333
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 333
+
+Exiting The European Union
+
+Financial Services
+
+The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+20th February 2019
+
+Coming into force in accordance with regulation 1
+
+[^c23592481]The Treasury, in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 , make the following Regulations.
+
+A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 1 of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-6a05a784ca4b6b4f64de05bcef65f96b][^key-42dd30f6eeaa0b5e266501d3847caf8c]
+
+## PART 1 — General
+
+### 1. Citation, commencement and interpretation[^key-8e335ed4213f5827b7c82b389c1cf00a]
+
+(1) These Regulations may be cited as the Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
+
+(2) For the purposes of these Regulations, “**the EuVECA Regulation**” means Regulation (EU) No 345/2013 of the European Parliament and the Council of 17 April 2013 on European venture capital funds, as it forms part of domestic law and as modified by domestic law from time to time.
+
+## PART 2 — Amendment of the European Venture Capital Funds Regulation
+
+### 2. European Venture Capital Funds Regulation[^key-9d102f4f048965133f3cdddbf148a70a]
+
+The EuVECA Regulation is amended in accordance with this Part.
+
+### 3. Subject matter, scope and definitions[^key-f4a9c1f78042ed7fbf8aa5fe79548d85]
+
+(1) In Article 1—
+
+- (a) in the first subparagraph—
+  - (i) for “EuVECA” substitute “ RVECA ”;
+  - (ii) for “Union, thereby contributing to the smooth functioning of the internal market” substitute “ United Kingdom ”;
+- (b) in the second subparagraph—
+  - (i) omit “uniform”;
+  - (ii) for “across the Union”, in both places it occurs, substitute “ in the United Kingdom ”.
+
+(2) In Article 2—
+
+- (a) in paragraph 1—
+  - (i) in point (a), for “point (b) of Article 3(2) of Directive 2011/61/EU” substitute “ regulation 9(1)(a) of the AIFM Regulations [^c23592491] ”;
+  - (ii) in point (b), for “Union” substitute “ United Kingdom ”;
+  - (iii) in point (c), for “competent authorities of their home Member State in accordance with point (a) of Article 3(3) of Directive 2011/61/EU” substitute “ FCA in accordance with regulation 10 of the AIFM Regulations ”;
+- (b) in paragraph 2—
+  - (i) for “to 19” substitute “ , 17, 18 ”;
+  - (ii) omit “, the second subparagraph of Article 20(3), and Articles”;
+  - (iii) for “authorised under Article 6 of Directive 2011/61/EU” substitute “ who have permission under Part 4A of FSMA [^c23592501] to carry on the regulated activity specified by article 51ZC of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c23592511] ”;
+  - (iv) for “that manage” substitute “ and who manage ”
+  - (v) for “EuVECA” substitute “ RVECA ”;
+  - (vi) for “Union” substitute “ United Kingdom ”;
+- (c) in paragraph 3, for the words from “undertakings” to the end substitute “ UK UCITS (which has the meaning given in section 237 of FSMA [^c23592521]) ”.
+
+(3) In Article 3—
+
+- (a) in point (a) (definition of ‘collective investment undertaking’), for “point (a) of Article 4(1) of Directive 2011/61/EU” substitute “ regulation 3 of the AIFM Regulations ”;
+- (b) after point (a), insert—
+
+  > - (aa) “**UK insurance undertaking**” means an undertaking which—
+  >   - (i) has its registered office, or (if it has no registered office) its head office, in the United Kingdom;
+  >   - (ii) has, or is treated as having, permission under Part 4A of FSMA to carry on one or more regulated activities; and
+  >   - (iii) would have required authorisation in accordance with Article 14 of the Solvency 2 Directive [^c23592531], were the United Kingdom a Member State;
+
+  ;
+- (c) in point (b) (definition of ‘qualifying venture capital fund’)—
+  - (i) in the opening words, before “means” insert “ , unless the contrary intention appears, ”;
+  - (ii) in point (iii), for “territory of a Member State” substitute “ United Kingdom ”;
+- (d) for point (d) (definition of ‘qualifying portfolio undertaking’) substitute—
+
+  > - (d) ‘qualifying portfolio undertaking’ means an undertaking that—
+  >   - (i) at the time of the first investment by the qualifying venture capital fund in that undertaking complies with one of the following conditions:
+  >     - — the undertaking is not admitted to trading on a UK regulated market, an EU regulated market, a UK multilateral trading facility or an EU multilateral trading facility (as defined in points (13A), (13B), (14A) and (14B) of Article 2(1) of the Markets in Financial Instruments Regulation 2014) and employs up to 499 persons,
+  >     - — the undertaking is a small and medium-sized enterprise (as defined in Article 4(1)(13) of Directive 2014/65/EU), which is listed on an EU SME growth market (which has the meaning given to an “SME growth market” in Article 4(1)(12) of Directive 2014/65/EU) or a UK SME growth market (which means a MTF that is registered as an SME growth market in accordance with Part 5.10 of the Market Conduct sourcebook);
+  > - (ii) is not itself a collective investment undertaking;
+  > - (iii) is not one or more of the following—
+  >   - — a credit institution as defined in Article 4(1)(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms,
+  >   - — an investment firm as defined in Article 2(1A) of the Markets in Financial Instruments Regulation 2014,
+  >   - — a UK insurance undertaking,
+  >   - — an EU insurance undertaking, which has the meaning given to ‘insurance undertaking’ in Article 13(1) of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II),
+  >   - — a financial holding-company as defined in Article 4(1)(20) of Regulation 575/2013/EU of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012, or
+  >   - — a mixed-activity holding company as defined in Article 4(1)(22) of Regulation 575/2013/EU;
+  > - (iv) is established within the United Kingdom, the territory of a Member State, or in a third country provided that the third country—
+  >   - — is not listed as a Non-Cooperative Country and Territory by the Financial Action Task Force on Anti-Money Laundering and Terrorist Financing,
+  >   - — has signed an agreement with the United Kingdom to ensure that the third country fully complies with the standards laid down in Article 26 of the OECD Model Tax Convention on Income and on Capital and ensures an effective exchange of information in tax matters, including any multilateral tax agreements;
+
+  ;
+- (e) in point (e) (definition of ‘qualifying investments’)—
+  - (i) in point (iv), for “in qualifying venture capital funds” substitute—
+
+    > in—
+    >
+    > - (aa) qualifying venture capital funds,
+    > - (bb) European qualifying venture capital funds (which has the meaning given to ‘qualifying venture capital funds’ in Article 3(3)(b) of Regulation (EU) 345/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds as it applies in the European Union, as amended from time to time),
+    > - (cc) a combination of the funds specified in point (aa) and (bb)
+
+    ;
+  - (ii) after point (iv) insert—
+
+    > - (v) an instrument falling within Article 3(e)(iv) of Regulation (EU) 345/2013 as it applies in the European Union, as amended from time to time;
+
+    ;
+- (f) in point (i) (definition of ‘marketing’), for “Union” substitute “ United Kingdom ”;
+- (g) omit points (k) to (n) (definitions of ‘home Member State’, ‘host Member State’, ‘competent authority’ and ‘competent authority of the host Member State’);
+- (h) after point (j) insert—
+
+  > - (o) ‘the FCA’ means the Financial Conduct Authority;
+  > - (p) ‘FSMA’ means the Financial Services and Markets Act 2000;
+  > - (q) ‘the AIFM Regulations’ means the Alternative Investment Fund Managers Regulations 2013;
+  > - (r) ‘the Markets in Financial Instruments Regulation 2014’ means Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments, as that Regulation forms part of domestic law.
+  >
+  > Any reference in this Regulation to a sourcebook is to a sourcebook in the Handbook of Rules and Guidance published by the FCA containing rules made and guidance issued by the FCA under FSMA as the sourcebook has effect on IP completion day[^key-d2b1132053679b8c6eda5ff493d1d87e].
+
+### 4. Conditions for the use of the designation “RVECA”[^key-094a977bf7b73d8e21ed267c849490ac]
+
+(1) In Article 4—
+
+- (a) for “EuVECA” substitute “ RVECA ”;
+- (b) for “Union” substitute “ United Kingdom ”.
+
+(2) In Article 6, in paragraph (1)—
+
+- (a) for “Section I of Annex II to Directive [2004/39/EC](https://www.legislation.gov.uk/european/directive/2004/0039)” substitute “ Part 2 of Schedule 1 to the Markets in Financial Instruments Regulation 2014 [^c23592541] ”;
+- (b) for “Section II of Annex II to Directive [2004/39/EC](https://www.legislation.gov.uk/european/directive/2004/0039)” substitute “ Part 3 of Schedule 1 to the Markets in Financial Instruments Regulations 2014 ”.
+
+(3) In Article 9, in paragraph 5, for “Commission shall be empowered to adopt delegated acts in accordance with Article 25 specifying” substitute “ Treasury may by Regulations specify ”.
+
+(4) In Article 10—
+
+- (a) in paragraphs 3 and 5, for “competent authority of the home Member State” in each place it occurs, substitute “ FCA ”;
+- (b) in paragraph 5—
+  - (i) for “a Member State” substitute “ the United Kingdom ”;
+  - (ii) for “Union law” substitute “ the law of the United Kingdom ”.
+
+(5) In Article 12—
+
+- (a) in paragraph 1, for “competent authority of the home Member State” substitute “ FCA ”;
+- (b) in paragraph 3, for the words from “Article 4” to “market” substitute “ rule 4.1.3 of the Disclosure Guidance and Transparency Rules sourcebook ”;
+- (c) omit paragraph 4.
+
+(6) In Article 13, in paragraph 3, for the words from “Directive [2003/71/EC](https://www.legislation.gov.uk/european/directive/2003/0071)” to “admitted to trading” substitute “ Part 6 of FSMA ”.
+
+### 5. Supervision and administrative cooperation[^key-a817770f808f5714a7d0d45c79ffa645]
+
+(1) In Article 14—
+
+- (a) in paragraph 1—
+  - (i) for “EuVECA” substitute “ RVECA ”;
+  - (ii) for “competent authority of their home Member State” substitute “ FCA ”;
+  - (iii) omit point (d);
+- (b) in paragraphs 2, 4 and 6, for “competent authority of the home Member State”, in each place it occurs, substitute “ FCA ”;
+- (c) in paragraph 3—
+  - (i) for “entire territory of the Union” substitute “ United Kingdom ”;
+  - (ii) for “EuVECA” substitute “ RVECA ”;
+  - (iii) for “throughout the Union” substitute “ in the United Kingdom ”;
+- (d) in paragraph 5, for “Article 3(3) of Directive 2011/61/EU” substitute “ regulation 10(1) of the AIFM Regulations ”;
+- (e) in paragraph 6, in the second subparagraph—
+  - (i) in the second sentence, for “competent authority” substitute “ FCA ”;
+  - (ii) in the third sentence, for “relevant competent authority” substitute “ FCA ”;
+- (f) for paragraphs 7 and 8 substitute—
+
+  > **7.**
+  >
+  > The FCA may make technical standards to specify further the information to be provided to it in the application for registration as set out in paragraph 1 and to specify further the conditions as set out in paragraph 2.
+  >
+  > **8.**
+  >
+  > The FCA may make technical standards on standard forms, templates and procedures for the provision of information to it in the application for registration set out in paragraph 1 and the conditions set out in paragraph 2.
+
+  ;
+- (g) omit paragraph 9.
+
+(2) In Article 14a—
+
+- (a) in paragraph 1—
+  - (i) for “authorised under Article 6 of Directive 2011/61/EU” substitute “ who have permission under Part 4A of FSMA to carry on the regulated activity specified by article 51ZC of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (managing an AIF) ”;
+  - (ii) for “EuVECA” substitute “ RVECA ”;
+- (b) in paragraph 2—
+  - (i) in the opening words, for “competent authority of the qualifying venture capital fund” substitute “ FCA ”;
+  - (ii) omit point (d);
+- (c) omit paragraph 3;
+- (d) in paragraph 4, for “Directive 2011/61/EU” substitute—
+
+  > the law of the United Kingdom which was relied on immediately before IP completion day[^key-dc504bfec1af80fec0bd02d4b0fb3952] to implement Directive 2011/61/EU and its implementing measures—
+  >
+  > - (a) as they have effect on IP completion day, in the case of rules made by the FCA or by the PRA under FSMA, and
+  > - (b) as amended from time to time, in all other cases.
+
+  ;
+- (e) in paragraph 5—
+  - (i) omit “and having received any clarification and information referred to in paragraph 3”;
+  - (ii) for “competent authority of the qualifying venture capital fund” substitute “ FCA ”;
+- (f) in paragraph 6, for “competent authority of the qualifying venture capital fund” substitute “ FCA ”;
+- (g) in paragraph 7—
+  - (i) for “entire territory of the Union” substitute “ United Kingdom ”;
+  - (ii) for “throughout the Union” substitute “ in the United Kingdom ”;
+  - (iii) for “EuVECA” substitute “ RVECA ”;
+- (h) for paragraphs 8 and 9 substitute—
+
+  > **8.**
+  >
+  > The FCA may make technical standards to specify further the information to be provided to it in accordance with paragraph 2.
+  >
+  > **9.**
+  >
+  > The FCA may make technical standards on standard forms, templates and procedures for the provision of information to it in accordance with paragraph 2.
+
+  ;
+- (i) omit paragraph 10.
+
+(3) Omit Articles 14b, 15, 16 and 16a.
+
+(4) In Article 17—
+
+- (a) in paragraph 1—
+  - (i) for “ESMA” substitute “ The FCA ”;
+  - (ii) for “EuVECA” substitute “ RVECA ”;
+  - (iii) omit “, as well as the countries in which those funds are marketed”;
+- (b) in paragraph 2, for “ESMA” substitute “ the FCA ”.
+
+(5) In Article 18—
+
+- (a) in paragraph 1, for “competent authority of the home Member State” substitute “ FCA ”;
+- (b) omit paragraphs 1a, 1b, 2 and 3.
+
+(6) Omit Articles 19 and 20.
+
+(7) In Article 21—
+
+- (a) in paragraphs 1(c), (d), 2(b) and 4, for “EuVECA”, in each place it occurs, substitute “ RVECA ”;
+- (b) in paragraphs 1 and 2, in the opening words, for “competent authority” substitute “ FCA ”;
+- (c) omit paragraph 3;
+- (d) in paragraph 4—
+  - (i) for “Union” substitute “ United Kingdom ”;
+  - (ii) for “competent authority” substitute “ FCA ”;
+- (e) omit paragraph 5.
+
+(8) In Article 21a, for “competent authorities in accordance with Directive 2011/61/EU” substitute “ the FCA in respect of AIFMs (as defined in regulation 4(1) of the AIFM Regulations [^c23592551]) under FSMA or the AIFM Regulations ”.
+
+(9) Omit Article 22.
+
+(10) In Article 23—
+
+- (a) in paragraph 1—
+  - (i) for “competent authorities or for ESMA” substitute “ FCA ”;
+  - (ii) for “competent authorities or by ESMA”, substitute “ FCA ”;
+- (b) omit paragraph 2;
+- (c) for paragraph 3, substitute—
+
+  > **3.**
+  >
+  > Where the FCA receives confidential information under this Regulation, the FCA may use it only in the course of its duties and for the purpose of administrative and judicial proceedings.
+
+(11) Omit Article 24.
+
+### 6. Transitional and final provisions[^key-c49974a77ff68d5eb629ef39e5fdb14f]
+
+(1) For Article 25 substitute—
+
+> **Article 25**
+>
+> **1.**
+>
+> Any power to make regulations conferred on the Treasury by this Regulation is exercisable by statutory instrument.
+>
+> **2.**
+>
+> Such regulations may—
+>
+> - (a) contain incidental, supplemental, consequential and transitional provision; and
+> - (b) may make different provision for different purposes.
+>
+> **3.**
+>
+> A statutory instrument containing regulations made under this Regulation is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+.
+
+(2) Omit Articles 26 and 27.
+
+(3) After Article 28, omit “This Regulation shall be binding in its entirely and directly applicable in all Member States”.
+
+## PART 3 — Transitional provision for managers and funds registered with the FCA before IP completion day[^key-b6c482a30e35d8628f2fa1656c3dc63d]
+
+### 7. Application of regulation 8[^key-2493e086c5a6d91a94d54722547f94bd]
+
+Regulation 8 applies to a manager of a qualifying venture capital fund who, before IP completion day[^key-bc397e6cf51c9d1236975a94c035b18d]—
+
+- (a) is informed by the FCA that the manager has been registered as a manager of a qualifying venture capital fund, in accordance with Article 14(4) of Regulation (EU) No 345/2013 as it had effect before IP completion day; and
+- (b) has not otherwise ceased to meet the conditions in Regulation (EU) No 345/2013 for registration as a manager of a qualifying venture capital fund as those conditions had effect before IP completion day.
+
+### 8. Managers treated as registered for the purposes of Article 14 of the EuVECA Regulation[^key-0e2c82dbbaa8944cfcd248c512f47ac5]
+
+(1) A manager of a qualifying venture capital fund to whom this regulation applies is to be treated as registered in accordance with Article 14 of the EuVECA Regulation.
+
+(2) Paragraphs 1, 2 and 4 of Article 14 of the EuVECA Regulation do not apply to a manager to whom this regulation applies.
+
+(3) References in primary or secondary legislation to a manager of a qualifying venture capital fund that is registered in accordance with Article 14 of the EuVECA Regulation are to be read, unless the contrary intention appears, as including a manager to whom this regulation applies.
+
+### 9. Funds treated as registered for the purposes of Article 14a of the EuVECA Regulation[^key-87f5b4e961aa5feeda52793103d30dd6]
+
+(1) A collective investment undertaking which, immediately before IP completion day[^key-82e0504533e40543a7bb69306ae80aaf], is a qualifying venture capital fund (as defined in Article 3(1)(b) of the EuVECA Regulation as it had effect immediately before IP completion day) is to be treated as registered in accordance with Article 14a of the EuVECA Regulation where, before IP completion day, the FCA informs the manager of that fund that the fund has been registered as a qualifying venture capital fund, in accordance with Article 14a(6) of Regulation (EU) No 345/2013 as it had effect before IP completion day.
+
+(2) Paragraphs 1, 2, 4, 5 and 6 of Article 14a of the EuVECA Regulation do not apply to a manager in relation to any qualifying venture capital fund to which this regulation applies.
+
+### 10. Interpretation[^key-b98f5a8a02bce6e707db0500f20c9224]
+
+In this Part—
+
+- “**FCA**” means the Financial Conduct Authority;
+- “**manager of a qualifying venture capital fund**” has the meaning given by Article 3(1)(c) of the EuVECA Regulation.
+
+### 11. Modification of the Alternative Investment Fund Managers Regulations 2013[^key-1b48d6acc1364a4a960540a7ef4837ae]
+
+(1) The Alternative Investment Fund Managers Regulations 2013 [^c23592561] are modified as follows.
+
+(2) In respect of a manager to whom regulation 8 applies—
+
+- (a) regulation 10(4) (small registered UK AIFMs) has effect as if for sub-paragraph (c) there were substituted—
+
+  > - (c) is treated as registered as a manager of a qualifying venture capital fund under Article 14 of the EuVECA Regulation, in accordance with regulation 8 of the European Venture Capital Funds (Amendment) (EU Exit) Regulations 2018.
+
+  ;
+- (b) Part 3 (small AIFMs) has effect as if regulations 11 to 13 were omitted.
+
+(3) In respect of a fund to which regulation 9 applies, Part 3B (qualifying social entrepreneurship funds and qualifying venture capital funds) [^c23592571] has effect as if regulations 23D and 23E were omitted.
+
+Craig Whittaker
+
+Paul Maynard
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union (and in particular the deficiencies referred to in paragraphs (a), (b), (c) and (g) of section 8(2)). They amend Regulation (EU) No. 345/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds, and modify the Alternative Investment Fund Managers Regulations 2013.
+
+These Regulations refer to sourcebooks made by the Financial Conduct Authority under the Financial Services and Markets Act 2000 (2000 c.8). Sourcebooks made by the Financial Conduct Authority are available on https://www.handbook.fca.org.uk/handbook and copies of the rules referred to can be obtained from the Financial Conduct Authority, 12 Endeavour Square, London E20 1JN, where they are also available for inspection.
+
+An impact assessment of the effect that this instrument, and other instruments made by HM Treasury under the European Union (Withdrawal) Act 2018 at or about the same time, will have on the costs of business, the voluntary sector and the public sector is available from HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and is published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^c23592481]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-6a05a784ca4b6b4f64de05bcef65f96b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/333) modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by S.I. 2020/1301, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-42dd30f6eeaa0b5e266501d3847caf8c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/333): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-8e335ed4213f5827b7c82b389c1cf00a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-9d102f4f048965133f3cdddbf148a70a]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-f4a9c1f78042ed7fbf8aa5fe79548d85]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23592491]: Marginal citation: [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^c23592501]: Marginal citation: Part 4A of the [Financial Services and Markets Act 2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8) was substituted for Part 4 by s.11(2) of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^c23592511]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). Article 51ZC was substituted, with Articles 51ZA to 51ZG, for Article 51 by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^c23592521]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). The definition of “UK UCITS” was inserted by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
+
+[^c23592531]: Marginal citation: OJ L335, 17.12.2009, p.1.
+
+[^key-d2b1132053679b8c6eda5ff493d1d87e]: Textual amendment: Words in [reg. 3(3)(h)](https://www.legislation.gov.uk/uksi/2019/333/regulation/3/3/h) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/a)
+
+[^key-094a977bf7b73d8e21ed267c849490ac]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23592541]: Marginal citation: [Schedule 1](https://www.legislation.gov.uk/uksi/2019/333/schedule/1) is inserted into the Markets in Financial Instruments Regulation 2014 by the Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018.
+
+[^key-a817770f808f5714a7d0d45c79ffa645]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-dc504bfec1af80fec0bd02d4b0fb3952]: Textual amendment: Words in [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2019/333/regulation/5/2/d) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/b)
+
+[^c23592551]: Marginal citation: [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^key-c49974a77ff68d5eb629ef39e5fdb14f]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-b6c482a30e35d8628f2fa1656c3dc63d]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2019/333/part/3) heading substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/c)
+
+[^key-2493e086c5a6d91a94d54722547f94bd]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-bc397e6cf51c9d1236975a94c035b18d]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2019/333/regulation/7) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(d)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/d)
+
+[^key-0e2c82dbbaa8944cfcd248c512f47ac5]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-87f5b4e961aa5feeda52793103d30dd6]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-82e0504533e40543a7bb69306ae80aaf]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/9/1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 20(e)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/20/e)
+
+[^key-b98f5a8a02bce6e707db0500f20c9224]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-1b48d6acc1364a4a960540a7ef4837ae]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^c23592561]: Marginal citation: [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^c23592571]: Marginal citation: Part 3B (regulations 23D to 23F) was inserted by [S.I. 2018/134](https://www.legislation.gov.uk/uksi/2018/134).

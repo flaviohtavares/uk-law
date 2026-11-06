@@ -1,0 +1,38 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 606
+act: Income Tax (Trading and Other Income) Act 2005
+section: '606'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/606
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 606
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 606. Apportionment where property sold together
+
+*Extent: E+W+S+N.I.*
+
+(1) Any reference in this Chapter to the sale of property includes the sale of that property together with other property.
+
+(2) In this section—
+
+- references to property include know-how, and
+- references to the sale of property include the disposal of know-how.
+
+(3) For the purposes of subsection (1), all property sold as a result of one bargain is to be treated as sold together even though—
+
+- (a) separate prices are, or purport to be, agreed for separate items of that property, or
+- (b) there are, or purport to be, separate sales of separate items of that property.
+
+(4) If an item of property is sold together with other property, then, for the purposes of the charges under sections 583 and 587—
+
+- (a) the net proceeds of the sale of that item are treated as being so much of the net proceeds of the sale of all the property as, on a just and reasonable apportionment, is attributable to that item, and
+- (b) the expenditure incurred on the provision or purchase of that item is treated as being so much of the consideration given for all the property as, on a just and reasonable apportionment, is attributable to that item.

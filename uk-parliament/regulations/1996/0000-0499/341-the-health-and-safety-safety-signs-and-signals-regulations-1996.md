@@ -1,0 +1,724 @@
+---
+title: The Health and Safety (Safety Signs and Signals) Regulations 1996
+id: uksi/1996/341
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1996-02-18'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1996/341
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/341/pdfs/uksi_19960341_en.pdf
+- http://www.legislation.gov.uk/uksi/1996/341/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Safety (Safety Signs and Signals) Regulations 1996
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1996 No. 341
+
+HEALTH AND SAFETY
+
+The Health and Safety (Safety Signs and Signals) Regulations 1996
+
+Made
+
+18th February 1996
+
+Laid before Parliament
+
+23rd February 1996
+
+Coming into force
+
+1st April 1996
+
+The Secretary of State in the exercise of the powers conferred on him by sections 15(1), (2), (3)(a) and (c) and (9) and 82(3)(a) of, and paragraphs 1(1), (3) and (4), 9, 12 and 14 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act, after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:—
+
+## 1. Citation and commencement[^key-6a31c279c64a1b7b88ad0867457b5b82]
+
+These Regulations may be cited as the Health and Safety (Safety Signs and Signals) Regulations 1996 and shall come into force on 1st April 1996.
+
+## 2. Interpretation[^key-cdfe83f7db77a121e9e26c36bdf170c3]
+
+(1) In these Regulations, unless the context otherwise requires—
+
+- “**the 1974 Act**” means the Health and Safety at Work etc. Act 1974;
+- “**acoustic signal**” means a coded sound signal which is released and transmitted by a device designed for that purpose, without the use of a human or artificial voice;
+- “[^key-e9a291e07c8faecaa70950e26b239733]**the CLP Regulation**” means Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No. 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+- “[^key-ce9ede2f997093631e5b78f6edb95c08]**dangerous goods**” has the meaning in regulation 2(1) of the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007[^key-7bad0182c35f8c588ac828137d150082] which shall apply as if those goods were being carried by road;
+- “**emergency escape or first-aid sign**” means a sign giving information on escape routes or emergency exits or first-aid or rescue facilities;
+- “**fire safety sign**” means a sign (including an illuminated sign or an acoustic signal) which—
+  - (i) provides information on escape routes and emergency exits in case of fire;
+  - (ii) provides information on the identification or location of fire-fighting equipment; or
+  - (iii) gives warning in case of fire;
+- “**hand signal**” means a movement or position of the arms or hands or a combination thereof, in coded form, for guiding persons who are carrying out manoeuvres which create a risk to the health or safety of persons at work;
+- “**illuminated sign**” means a sign produced by a device made of transparent or translucent materials which are illuminated from the inside or the rear in such a way as to give the appearance of a luminous surface;
+- “**mandatory sign**” means a sign prescribing behaviour;
+- “**prohibition sign**” means a sign prohibiting behaviour likely to cause a risk to health or safety;
+- “**safety colour**” means a colour to which a meaning is assigned;
+- “**safety sign**” means a sign referring to a specific object, activity or situation and providing information or instruction about health or safety at work by means of a signboard, a safety colour, an illuminated sign, an acoustic signal, a verbal communication or a hand signal;
+- “**signboard**” means a sign which provides information or instructions by a combination of geometric shape, colour and a symbol or pictogram and which is rendered visible by lighting of sufficient intensity;
+- “**symbol or pictogram**” means a figure which describes a situation or prescribes behaviour and which is used on a signboard or illuminated surface;
+- “**verbal communication**” means a predetermined spoken message communicated by a human or artificial voice;
+- “**warning sign**” means a sign giving a warning of a risk to health or safety.
+
+(2) Any reference in these Regulations to a sign providing instructions includes a mandatory sign, a prohibition sign and a warning sign.
+
+(3) In these Regulations, unless the context otherwise requires—
+
+- (a) a reference to a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered; and
+- (b) a reference to a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which that reference occurs.
+
+## 3. Application[^key-e0291d9e37ba0b1d6f3fdf56c710ae48]
+
+(1) These Regulations shall not apply—
+
+- (a) to signs used in connection with the supply of any hazardous[^key-01eeebc102066ac6fb6632434edc9e2e] substance, mixture[^key-da4b1e96cab1975da565089940db45e8], product or equipment except to the extent that any enactment (whether in an Act or instrument) which requires such signs makes reference to these Regulations;
+- (b) to dangerous goods during the course of their transport by road, rail, inland waterway, sea or air;
+- (c) subject to paragraph (6) of regulation 4, to signs used for regulating road, rail, inland waterway, sea or air traffic; or
+- (d) to or in relation to the master or crew of a sea-going ship or to the employer of such persons in respect of normal ship-board activities of a ship’s crew under the direction of the master.
+
+(2) These Regulations shall apply—
+
+- (a) in Great Britain; and
+- (b) to and in relation to the premises and activities outside Great Britain to which sections 1 to 59 and 80 to 82 of the 1974 Act apply by virtue of the Health and Safety at Work etc. Act (Application Outside Great Britain) Order 1995[^f00003] as they apply within Great Britain.
+
+(3) These Regulations shall not extend to Northern Ireland.
+
+## 4. Provision and maintenance of safety signs[^key-58db0647d7029216bb974fa5031a924b]
+
+(1) Paragraph (4) shall apply if the risk assessment made under paragraph (1) of regulation 3 of the Management of Health and Safety at Work Regulations 1999[^key-02267a3214cc95e54159b6874d8aa923] indicates that the employer concerned, having adopted all appropriate techniques for collective protection, and measures, methods or procedures used in the organisation of work, cannot avoid or adequately reduce risks to employees except by the provision of appropriate safety signs to warn or instruct, or both, of the nature of those risks and the measures to be taken to protect against them.
+
+(2) For the purposes of paragraph (1), risks shall only be treated as having been adequately reduced if, having adopted the appropriate techniques, measures, methods or procedures referred to in that paragraph, there is no longer a significant risk of harm having regard to the magnitude and nature of the risks arising from the work concerned.
+
+(3) Without prejudice to paragraph (1), sub-paragraphs (a) and (b) of paragraph (4) shall also apply in relation to fire safety signs where they are required to comply with the provisions of any enactment (whether in an Act or instrument).
+
+(4) Where this paragraph applies, the employer shall (without prejudice to the requirements as to the signs contained in regulation 11(2) of the Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995[^f00005])—
+
+- (a) in accordance with the requirements set out in Parts I to VII of Schedule 1, provide and maintain any appropriate safety sign (other than a hand signal or verbal communication) described in those Parts, or ensure such sign is in place; and
+- (b) subject to paragraph (5), in accordance with the requirements of Parts I, VIII and IX of Schedule 1, ensure, so far as is reasonably practicable, that any appropriate hand signal or verbal communication described in those Parts is used; and
+- (c) provide and maintain any safety sign provided in pursuance of paragraph (6) or ensure such sign is in place.
+
+(5) For the purposes of sub-paragraph (b) of paragraph (4), the appropriate hand signal described in the documents specified in Schedule 2 shall be an alternative to the corresponding hand signal described in paragraph 3 of Part IX of Schedule 1.
+
+(6) Where it is appropriate to provide safety signs in accordance with paragraph (1) because at a place of work there is a risk to the health or safety of any employee in connection with the presence or movement of traffic (including pedestrians in relation to such traffic) and there is an appropriate sign in that connection prescribed under the Road Traffic Regulation Act 1984[^f00006], that sign shall be used whether or not that Act applies to that place of work.
+
+## 5. Information, instruction and training[^key-682ed37939480f87cc5290e537795e2d]
+
+(1) Every employer shall ensure that comprehensible and relevant information on the measures to be taken in connection with safety signs is provided to each of his employees.
+
+(2) Every employer shall ensure that each of his employees receives suitable and sufficient instruction and training in the meaning of safety signs and the measures to be taken in connection with safety signs.
+
+## 6. Transitional provisions[^key-6af8cc9548bae0acaa10b6682255ea70]
+
+These Regulations shall not have effect in relation to any fire safety signs lawfully in use immediately before the coming into force of these Regulations until 24 December 1998.
+
+## 7. Enforcement[^key-14437e3d16a5e8016ac5a4214d0f9976]
+
+(1) Subject to section 18(1A) of the 1974 Act and despite the provision made by the Health and Safety (Enforcing Authority) Regulations 1998 (“**the 1998 Regulations**”), the enforcing authority in relation to fire safety signs provided in pursuance of regulation 4(4) as applied by regulation 4(3) (signs provided to comply with the provisions of any enactment) is—
+
+- (a) in the case of premises and activities to which these Regulations apply by virtue of paragraph (2)(b) of regulation 3, the Health and Safety Executive;
+- (b) in the case of premises which are, or are on, or activities carried out on, an authorised defence site or new nuclear build site, the Office for Nuclear Regulation;
+- (c) in any other case, the authority or class of authorities responsible for enforcing the relevant provision of the enactment which applies to the case.
+
+(2) In this regulation, “**authorised defence site**” and “**new nuclear build site**” have the meanings given in the 1998 Regulations.
+
+## 8. Revocations and amendments[^key-e6d88ea6280b99bfe1ba67ea64247cb3]
+
+(1) The instruments referred to in column 1 of Part I of Schedule 3 shall be revoked to the extent specified in column 3 of that Part.
+
+(2) The instruments referred to in Part II of Schedule 3 shall be modified to the extent specified in that Part.
+
+John Selwyn Gummer
+
+Secretary of State for the Environment.
+
+16th February 1996.
+
+Michael Howard
+
+Secretary of State for the Home
+
+Department
+
+18th February 1996.
+
+## SCHEDULE 1
+
+Regulation 4(4) and (5)
+
+### PART I — Minimum requirements concerning safety signs and signals at work
+
+#### 1. Preliminary remarks[^key-6ab3f26221ad49afd7374bc6e82d4f4d]
+
+1.1. Where safety signs are required by these Regulations, they must conform to the specific requirements in Parts II to IX of this Schedule.
+
+1.2. This Part introduces those requirements, describes the different uses of safety signs, and gives general rules on the interchanging and combining of signs.
+
+1.3. Safety signs must be used only to convey the message or information specified in this Schedule.
+
+#### 2. Types of signs[^key-a9e10ffacf517d9bcd6a15e8928bbdf2]
+
+2.1. *Permanent signs*
+
+- 2.1.1. Permanent signboards must be used for signs relating to prohibitions, warnings and mandatory requirements and the location and identification of emergency escape routes and first-aid facilities.
+  - Signboards and/or a safety colour must be used to mark permanently the location and identification of fire-fighting equipment.
+- 2.1.2. Signboards on containers and pipes must be placed as laid down in Part III.
+- 2.1.3. Places where there is a risk of colliding with obstacles or of falling must be permanently marked with a safety colour and/or with signboards.
+- 2.1.4. Traffic routes must be permanently marked with a safety colour.
+
+2.2. *Occasional signs*
+
+- 2.2.1. Illuminated signs, acoustic signals and/or verbal communication must be used where the occasion requires, taking into account the possibilities for interchanging and combining signs set out in paragraph 3, to signal danger, to call persons to take a specific course of action and for the emergency evacuation of persons.
+- 2.2.2. Hand signals and/or verbal communication must be used where the occasion requires, to guide persons carrying out hazardous or dangerous manoeuvres.
+
+#### 3. Interchanging and combining signs[^key-6234e6c5dadcc7bfc79ab3145b58cc6a]
+
+3.1. Any one of the following may be used if equally effective:
+
+- a safety colour or a signboard to mark places where there is an obstacle or a drop,
+- illuminated signs, acoustic signals or verbal communication,
+- hand signals or verbal communication.
+
+3.2. Some types of signs may be used together:
+
+- illuminated signs and acoustic signals,
+- illuminated signs and verbal communication,
+- hand signals and verbal communication.
+
+**4.**[^key-ba9bb4d5f15547668c57bc5a4bfe2547] The instructions in the table below apply to all signs incorporating a safety colour.
+
+| Colour | Meaning or purpose | Instructions and information |
+| --- | --- | --- |
+| Red— | Prohibition sign<br>Danger alarm<br>Fire-fighting equipment | Dangerous behaviour<br>Stop, shutdown, emergency cut out devices, Evacuate<br>Identification and location |
+| Yellow or Amber— | Warning sign | Be careful, take precautions<br>Examine |
+| Blue— | Mandatory sign | Specific behaviour or action<br>Wear personal protective equipment |
+| Green— | Emergency escape, first aid sign<br>No danger | Doors, exits, routes, equipment, facilities<br>Return to normal |
+
+**5.**[^key-3dcf22daf221bd4c7d5cdaf9ea9f352b] The effectiveness of a sign must not be adversely affected by:
+
+5.1. the presence of another emission source of the same type which interferes with visibility or audibility; therefore, in particular,
+
+- 5.1.1. the placing of too many signs too close together should be avoided;
+- 5.1.2. two illuminated signs which are likely to be confused are not to be used at the same time;
+- 5.1.3. an illuminated sign is not to be used in the proximity of another similar illuminated source;
+- 5.1.4. two acoustic signals are not to be used at the same time;
+- 5.1.5. an acoustic signal is not to be used if there is too much ambient noise;
+
+5.2. poor design, insufficient number, incorrect positioning, poor state of repair or incorrect functioning of the signs or signalling devices.
+
+**6.**[^key-8b318ab640bed5f8ce32564db950c938] Depending on requirements, signs and signalling devices must be cleaned, maintained, checked, repaired, and if necessary replaced on a regular basis to ensure that they retain their intrinsic and/or functional qualities.
+
+**7.**[^key-a6569302ac3b225c4ae26f68ad46d8b9] The number and positioning of signs or signalling devices to be installed will depend on the extent of the hazards or dangers or on the zone to be covered.
+
+**8.**[^key-4b9a13bb3caea1cdbb8a1f052648ab35] Signs requiring some form of power must be provided with a guaranteed emergency supply in the event of a power cut, unless the hazard has thereby been eliminated.
+
+**9.**[^key-1cd870e21be49d1771c86c9e8683c006] The triggering of an illuminated sign and/or acoustic signal indicates when the required action should start; the sign or signal must be activated for as long as the action requires. Illuminated signs and acoustic signals must be reactivated immediately after use.
+
+**10.**[^key-cb4ed36a56656e6daff33f489849d02a] Illuminated signs and acoustic signals must be checked to ensure that they function correctly and that they are effective before they are put into service and subsequently at sufficiently frequent intervals.
+
+**11.**[^key-aef91230787b01a2603e6101f25662e1] If the hearing or the sight of the workers concerned is impaired, including impairment by the wearing of personal protective equipment, measures must be taken to supplement or replace the signs concerned.
+
+**12.**[^key-1042605e311de0ff3a1f1e691245a96e] Areas, rooms or enclosures used for the storage of significant quantities of hazardous substances or mixtures must be indicated by a suitable warning sign taken from paragraph 3.2 of Part II, or marked as provided in paragraph 1 of Part III, unless the labelling of individual packages or containers is adequate for this purpose. If there is no equivalent warning sign in paragraph 3.2 of Part II to warn about hazardous chemical substances or mixtures, the relevant hazard pictogram, as laid down in Annex V to the CLP Regulation, must be used.
+
+### PART II — Minimum general requirements concerning signboards
+
+#### 1. Intrinsic features[^key-1f8f93651e95e62d880929ee88b15b00]
+
+1.1. The shape and colours of signboards are set out in paragraph 3, in accordance with their specific object (signboards indicating a prohibition, a warning, a mandatory action, an escape route, an emergency or fire-fighting equipment).
+
+1.2. Pictograms must be as simple as possible and should contain only essential details.
+
+1.3. The pictograms used may be slightly different from or more detailed than those shown in paragraph 3, provided that they convey the same meaning and that no difference or adaptation obscures the meaning.
+
+1.4. Signboards are to be made of shock and weather-resistant material suitable for the surrounding environment.
+
+1.5. The dimensions and colorimetric and photometric features of signboards must be such that they can be easily seen and understood.
+
+#### 2. Conditions of use[^key-8ab4db79ed13bf99136de31771a94524]
+
+2.1. Signboards are in principle to be installed at a suitable height and in a position appropriate to the line of sight, taking account of any obstacles, either at the access point to an area in the case of a general hazard, or in the immediate vicinity of a specific hazard or object and in a well-lit and easily accessible and visible location.
+
+- Without prejudice to the provisions of regulation 8 of the Workplace (Health, Safety and Welfare) Regulations 1992[^key-58791b641ae07a90c1ec3a24b4ff3819], phosphorescent colours, reflective materials or artificial lighting should be used where the level of natural light is poor.
+
+2.2. The signboard must be removed when the situation to which it refers ceases to exist.
+
+2.3.[^key-5f78bab7783a8fdaea65af5a94a22bb8] The “General danger” warning sign must not be used to warn about hazardous substances or mixtures, except for cases where the warning sign is used to indicate stores of a number of hazardous substances or mixtures in accordance with paragraph 5 of Part 3 of Schedule 1 to these Regulations.
+
+#### 3. Signboards to be used[^key-1bf17951722861c47ef8aae4a2d7e37f]
+
+3.1. *Prohibitory signs*
+
+- Intrinsic features:
+  - round shape
+  - black pictogram on white background, red edging and diagonal line (the red part to take up at least 35% of the area of the sign).
+- Signs to be used:
+- No smoking [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_001)
+- Smoking and naked flames forbidden [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_002)
+- No access for pedestrians [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_003)
+- Do not extinguish with water [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_004)
+- Not drinkable [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_005)
+- No access for unauthorised persons [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_006)
+- No access for industrial vehicles [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_007)
+- Do not touch [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_008)
+
+3.2. *Warning signs*
+
+- Intrinsic features:
+  - triangular shape
+  - black pictogram on a yellow background with black edging (the yellow part to take up at least 50% of the area of the sign).
+- Flammable material or high temperature[^f00009] [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_009)
+- Explosive material [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_010)
+- Toxic material [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_011)
+- Corrosive material [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_012)
+- Radioactive material [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_013)
+- Overhead load [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_014)
+- Industrial vehicles [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_015)
+- Danger: electricity [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_016)
+- General danger [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_017)
+- Laser beam [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_018)
+- Oxidant material [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_019)
+- Non-ionizing radiation [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_020)
+- Strong magnetic field [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_021)
+- Obstacles [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_022)
+- Drop [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_023)
+- Biological risk[^f00010] [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_024)
+- Low temperature [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_025)
+- [^key-28816f832888e3bea29301c3a116dcf0]...
+
+3.3. *Mandatory signs*
+
+- Intrinsic features:
+  - round shape
+  - white pictogram on a blue background (the blue part to take up at least 50% of the area of the sign).
+- Eye protection must be worn [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_027)
+- Safety helmet must be worn [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_028)
+- Ear protection must be worn [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_029)
+- Respiratory equipment must be worn [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_030)
+- Safety boots must be worn [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_031)
+- Safety gloves must be worn [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_032)
+- Safety overalls must be worn [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_033)
+- Face protection must be worn [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_034)
+- Safety harness must be worn [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_035)
+- Pedestrians must use this route [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_036)
+- General mandatory sign (to be accompanied where necessary by another sign) [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_037)
+
+3.4. *Emergency escape or first-aid signs*
+
+- Intrinsic features:
+  - rectangular or square shape
+  - white pictogram on a green background (the green part to take up at least 50% of the area of the sign).
+- Emergency exit/escape route [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_038)
+- This way (supplementary information sign) [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_039)
+- First-aid post [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_040)
+- Stretcher [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_041)
+- Safety shower [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_042)
+- Eyewash [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_043)
+- Emergency telephone for first-aid or escape [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_044)
+
+3.5. *Fire-fighting signs*
+
+- Intrinsic features:
+  - rectangular or square shape
+  - white pictogram on a red background (the red part to take up at least 50% of the area of the sign).
+- Fire hose [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_045)
+- Ladder [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_046)
+- Fire extinguisher [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_047)
+- Emergency fire telephone [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_048)
+- This way (supplementary information sign [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_049)
+
+### PART III — Minimum requirements governing signs on containers and pipes
+
+**1.**[^key-c3b17e83b7865ca474a7b52f6ad2a918] Containers used at work for chemical substances or mixtures classified as hazardous according to the criteria for any physical or health hazard class in accordance with the CLP Regulation, and containers used for storage of such hazardous substances or mixtures, together with the visible pipes containing or transporting such hazardous substances or mixtures, must be labelled with the relevant hazard pictograms in accordance with that Regulation.
+
+Paragraph 1 does not apply to containers used at work for brief periods nor to containers whose contents change frequently, provided that alternative adequate measures are taken, in particular for information and/or training which guarantee the same level of protection.
+
+The labels referred to in paragraph 1 may be:
+
+- replaced by warning signs as provided for in Part II, using the same pictograms or symbols. If there is no equivalent warning sign in Schedule 1, Part II, the relevant hazard pictogram, as laid down in Annex V to the CLP Regulation must be used.
+- supplemented by additional information, such as the name and/or formula of the hazardous substance or mixture and details of the hazard.
+- for the transporting of containers at the place of work, supplemented or replaced by signs applicable throughout the Union for the transport of hazardous substances or mixtures.
+
+**2.**[^key-5cf0da64715e345b4ada7c92013c0ea1] Signs must be mounted as follows:
+
+- on the visible side(s),
+- in unpliable, self-adhesive or painted form.
+
+**3.**[^key-ac34b541a5429f6cc1ec447f2206dab7] Where appropriate, the signs referred to in paragraph 1 of this Part must have the intrinsic features defined in paragraph 1.4 of Part II and must fulfil the conditions of use for signboards laid down in paragraph 2 of Part II.
+
+**4.**[^key-66879d5ea05c72c52662c92b0b82337b] Without prejudice to paragraphs 1, 2 and 3, the labels used on pipes must be positioned visibly in the vicinity of the most dangerous points, such as valves and joints, and at reasonable intervals.
+
+**5.**[^key-9e6a834617ede68e1455d4c7ce4d9ace] Areas, rooms or enclosures used for the storage of significant quantities of hazardous substances or mixtures[^key-6d5e1d2bb5d41223fabe83fca499ea3d] must be indicated by a suitable warning sign taken from paragraph 3.2 of Part II, or markied as provided in paragraph 1 of Part III, unless the labelling of the individual packages or containers is adequate for this purpose, taking into account Part II, paragraph 1.5 with regard to dimensions.
+
+- Stores of a number of hazardous substances or mixtures may be indicated by the warning sign for general danger.
+- The signs or labels referred to above must be positioned, as appropriate, near the storage area or on the door leading into the storage room.
+
+### PART IV — Minimum requirements for the identification and location of fire-fighting equipment
+
+#### 1. Preliminary remark[^key-3be583d0430a15b62f7cf951b88083bf]
+
+This Part applies to equipment used exclusively for fire-fighting purposes.
+
+**2.**[^key-4b25dcc64f89d99b9f81871d94311430] Fire-fighting equipment must be identified by using a specific colour for the equipment and placing a location signboard, and/or by using a specific colour for the places where such equipment is kept, or their access points.
+
+**3.**[^key-52f4255b85e1014051c731201be26464] The colour for identifying this equipment is red.
+
+The red area must be sufficiently large to allow the equipment to be identified easily.
+
+**4.**[^key-21a0bbda552325c70ba12b4eefe99c30] The signboards provided for in paragraph 3.5 of Part II must be used to mark the locations of this equipment.
+
+### PART V — Minimum requirements governing signs used for osbstacles and dangerous locations, and for marking traffic routes
+
+#### 1. Signs for obstacles and dangerous locations[^key-7610632fb2625ae43fb1912edacfdf22]
+
+1.1. Places where there is a risk of colliding with obstacles, of falling or of objects falling should be marked with alternating yellow and black, or red and white stripes in built-up zones in the undertaking to which workers have access during their work.
+
+1.2. The dimensions of the markings must be commensurate with the scale of the obstacle or dangerous location in question.
+
+1.3. The yellow and black or red and white stripes must be at an angle of approximately 45° and of more or less equal size.
+
+1.4. Example:
+
+- [image: see source](https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_050)
+
+#### 2. Marking of traffic routes[^key-7f8f8dfbe4dc648dd7e4206f6be449b9]
+
+2.1. Where the use and equipment of rooms so requires for the protection of workers, traffic routes for vehicles must be clearly identified by continuous stripes in a clearly visible colour, preferably white or yellow, taking into account the colour of the ground.
+
+2.2. The stripes must be located so as to indicate the necessary safe distance between the vehicles and any object which may be near by, and between pedestrians and vehicles.
+
+2.3. Permanent traffic routes in built-up areas outdoors should, as far as is practicable, be similarly marked, unless they are provided with suitable barriers or pavements.
+
+### PART VI — Minimum requirements for illuminated signs
+
+#### 1. Intrinsic features[^key-f07d84f43ccecdf072572ece2bb4d81b]
+
+1.1. The light emitted by a sign must produce a luminous contrast which is appropriate to its environment, in accordance with the intended conditions of use of the sign, but without producing glare for an excessive amount of light or poor visibility as a result of insufficient light.
+
+1.2. The luminous area emitting a sign may be of a single colour or contain a pictogram on a specified background.
+
+1.3. The single colour must correspond to the table of colours and their meanings set out in paragraph 4 of Part I.
+
+1.4. Likewise, when the sign contains a pictogram, the latter must comply with all the relevant rules set out in Part II.
+
+#### 2. Specific rules governing use[^key-46642abbfd086a1d07b8bd332805ba19]
+
+2.1. If a device can emit both continuous and intermittent signs, the intermittent sign should be used to indicate a higher level of danger or a more urgent need for the requested/imposed intervention or action than is indicated by the continuous sign.
+
+- The duration of each flash and the frequency of the flashes of an intermittent illuminated sign must be such as to:
+  - ensure the proper perception of the message, and
+  - avoid any confusion either between different illuminated signs or with a continuous illuminated sign.
+
+2.2. If a flashing sign is used insteada of, or together with, an acoustic signal, identical codes must be used.
+
+2.3. Devices for emitting flashing signs in the event of grave danger must be under special surveillance or be fitted with an auxiliary lamp.
+
+### PART VII — Minimum requirements for acoustic signals
+
+#### 1. Intrinsic features[^key-f10bdbc3f6c8989fbab573003353cea8]
+
+1.1. Acoustic signals must:
+
+- (a) have a sound level which is considerably higher than the level of ambient noise, so that it is audible without being excessive or painful;
+- (b) be easily recognizable, particularly in terms of pulse length and the interval between pulses or groups of pulses, and be clearly distinct from any other acoustic signal and ambient noises.
+
+1.2. If a device can emit an acoustic signal at variable and constant frequencies, the variable frequency should be used to indicate a higher level of danger or a more urgent need for the requested/imposed intervention or action in relation to the stable frequency.
+
+#### 2. Code[^key-30945d3f11ef946b051482d2c98dcbf4]
+
+The signal for evacuation must be continuous.
+
+### PART VIII — Minimum requirements for verbal communication
+
+#### 1. Intrinsic features[^key-e9650ef99b879dde127b2c77d4e1d49d]
+
+1.1. Verbal communication between a speaker or emitter and one or more hearers is to take the form of (sometimes coded) short texts, phrases, groups of words and/or individual words.
+
+1.2. Spoken messages are to be as short, simple and clear as possible; the verbal skills of the speaker and the hearing abilities of the hearer(s) must be such as to ensure reliable verbal communication.
+
+1.3. Verbal communication is direct (by means of the human voice) or indirect (by means of a human or artificial voice which is broadcast by whatever means is appropriate).
+
+#### 2. Specific rules governing use[^key-7aac6180b25802156a8eaf98e6c39595]
+
+2.1. The persons involved must have a good knowledge of the language used so that they are able to pronounce and understand the spoken message correctly and consequently behave in a way which is appropriate to health and/or safety.
+
+2.2. If verbal communication is used instead of, or together with, gestures, code wors should be used such as:
+
+<table>
+<tbody>
+<tr><td>—start</td><td>to indicate the start of a command.</td></tr>
+<tr><td>—stop</td><td>to interrupt or end a movement.</td></tr>
+<tr><td>—end</td><td>to stop the operation.</td></tr>
+<tr><td>—raise</td><td>to have a load raised.</td></tr>
+<tr><td>—lower</td><td>to have a load lowered.</td></tr>
+<tr><td>—forwards</td><td rowspan="4">to be co-ordinated with the corresponding hand signals</td></tr>
+<tr><td>—backwards</td></tr>
+<tr><td>—right</td></tr>
+<tr><td>—left</td></tr>
+<tr><td>—danger</td><td>for an emergency stop.</td></tr>
+<tr><td>—quickly</td><td>to speed up a movement for safety reasons.</td></tr>
+</tbody>
+</table>
+
+### PART IX — Minimum requirements for hand signals
+
+#### 1. Features[^key-4163f53dd3b8616d47c63517a762de6f]
+
+Hand signals must be precise, simple, expansive, easy to make and to understand, and clearly distinct from other such signals.
+
+- Where both arms are used at the same time, they must be moved symmetrically and used for giving one sign only.
+- Provided that they fulfil the conditions given above, the signals used may vary slightly from or be more detailed than those shown in paragraph 3; they must, however, be equally meaningful and comprehensible.
+
+#### 2. Specific rules governing use[^key-3b756f6e39cd5142ebb18c2cc88f008c]
+
+2.1. The person giving the signs, hereinafter referred to as the ‘signalman’, will use arm/hand movements to give manoeuvring instructions to the person receiving the signs, hereinafter referred to as the operator.
+
+2.2. The signalman must be able to monitor all manoeuvres visually without being endangered thereby.
+
+2.3. The signalman’s duties must consist exclusively of directing manoeuvres and ensuring the safety of workers in the vicinity.
+
+2.4. If the conditions described in paragraph 2.2. are not fulfilled, one or more extra signalmen should be deployed.
+
+2.5. The operator must interrupt the ongoing manoeuvre in order to request new instrutions when he is unable to carry out the orders he has received with the necessary safety guarantees.
+
+2.6. **Accessories**
+
+- The operator must be able to recognize the signalman without difficulty.
+- The signalman is to wear one or more appropriate distinctive items, e.g. a jacket, helmet, sleeves or armbands, or carry bats.
+- The distinctive items are to be brightly coloured, preferably all of the same colour and for the exclusive use of signalmen.
+
+#### 3. Coded signals to be used[^key-c1eee22df39f935ab04662ef8e79f7bf]
+
+Preliminary remark:
+
+The following set of coded signals are without prejudice to other codes [^key-d32da95389dd4dd4a7329f29c7f93bad]... used for the same manoeuvres in certain sectors:
+
+<table>
+<thead>
+<tr><th><em>Meaning</em></th><th><em>Description</em></th><th><em>Illustration</em></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="3">A. <strong>General signals</strong></td></tr>
+<tr><td>START<br>Attention Start of Command</td><td>both arms are extended horizontally with the palms facing forwards</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_051">image: see source</a></td></tr>
+<tr><td>STOP<br>Interruption<br>End of movement</td><td>the right arm points upwards with the palm facing forwards.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_052">image: see source</a></td></tr>
+<tr><td>END of the operation</td><td>both hands are clasped at chest height.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_053">image: see source</a></td></tr>
+<tr><td colspan="3">B. <strong>Vertical movements</strong></td></tr>
+<tr><td>RAISE</td><td>the right arm points upwards with the palm facing forward and slowly makes a circle.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_054">image: see source</a></td></tr>
+<tr><td>LOWER</td><td>the right arm points downwards with the palm facing inwards and slowly makes a circle.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_055">image: see source</a></td></tr>
+<tr><td>VERTICAL DISTANCE</td><td>the hands indicate the relevant distance.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_056">image: see source</a></td></tr>
+<tr><td colspan="3">C. <strong>Horizontal Movements</strong></td></tr>
+<tr><td>MOVE FORWARDS</td><td>both arms are bent with the palms facing upwards, and the forearms make slow movements towards the body.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_057">image: see source</a></td></tr>
+<tr><td>MOVE BACKWARDS</td><td>both arms are bent with the palms facing downwards, and the forearms make slow movements away from the body.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_058">image: see source</a></td></tr>
+<tr><td>RIGHT to the signalman's</td><td>the right arm is extended more or less horizontally with palm facing downwards and slowly makes small movements to the right.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_059">image: see source</a></td></tr>
+<tr><td>LEFT to the signalman's</td><td>the left arm is extended more or less horizontally with palm facing downwards and slowly makes small movements to the left.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_060">image: see source</a></td></tr>
+<tr><td>HORIZONTAL DISTANCE</td><td>the hands indicate the relevant distance.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_061">image: see source</a></td></tr>
+<tr><td colspan="3">D. <strong>Danger</strong></td></tr>
+<tr><td>DANGER<br>Emergency stop</td><td>both arms points upwards with the palms facing forwards.</td><td><a href="https://www.legislation.gov.uk/uksi/1996/341/images/uksi_19960341_en_062">image: see source</a></td></tr>
+<tr><td>QUICK</td><td>all movements faster.</td><td></td></tr>
+<tr><td>SLOW</td><td>all movements slower.</td><td></td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — DOCUMENTS SPECIFYING ALTERNATIVE HAND SIGNALS
+
+Regulation 4(5)
+
+**1.**[^key-779fb184a930ee5e9782e68d300ce178] The standards issued by the British Standards Institution with the following standard numbers—
+
+- BS 6736: 1986 Hand Signals for Agricultural Operations.
+- BS 7121: 1989 Code of practice for safe use of cranes.
+
+**2.**[^key-40597a5ce8cbe9bbbbd985ac434adefb] Appendix C of the Fire Service Training Manual.
+
+## SCHEDULE 3
+
+Regulation 8
+
+### PART I — Revocations[^key-a574efe969a7e8dd9f4e2eee620b6f71]
+
+<table>
+<thead>
+<tr><th><em>Column 1.</em></th><th><em>Column 2.</em></th><th><em>Column 3.</em></th></tr>
+<tr><th>Title</th><th>Reference</th><th>Extent of revocation.</th></tr>
+</thead>
+<tbody>
+<tr><td>The Offshore Installations (Operational Safety, Health and Welfare) Regulations 1976.</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1976/1019">1976/1019</a>; to which there are amendments not relevant to these Regulations.</td><td>Regulation 2(2).</td></tr>
+<tr><td>The Safety Signs Regulations 1980.</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1980/1471">1980/1471</a>.</td><td>The whole Regulations.</td></tr>
+</tbody>
+</table>
+
+### PART II — Modifications
+
+**1.**[^key-0fecce99a36329e9d7615571d5b5c1a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-caa21364f04b6184010d02146c9f8e04] In the Dangerous Substances (Notification and Marking of Sites) Regulations 1990[^f00015] —
+
+- (a) in regulation 2(1)—
+  - (i) after the definition of “the 1994 Regulations” there shall be inserted the following definition—
+
+    > - “the Safety Signs Regulations” means the Health and Safety (Safety Signs and Signals) Regulations 1996 (S.I. [1996/341](https://www.legislation.gov.uk/uksi/1996/341));
+
+    ; and
+  - (ii) there shall be deleted the definition of “Part I of BS 5378”;
+- (b) in regulation 5(2), for the words “clause 3.6 of Part I of BS 5378” there shall be substituted the words “paragraph 3.2 of Part II of Schedule 1 to the Safety Signs Regulations”;
+- (c) in regulation 6(3), for the words “clause 3.6” to “clause 3.9 of that Part” there shall be substituted the words “paragraph 3.2 of Part II of Schedule 1 to the Safety Signs Regulations”.
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations impose requirements in relation to the provision and use of safety signs and signals and as respects Great Britain implement Council Directive [92/58/EEC](https://www.legislation.gov.uk/european/directive/1992/0058) (OJ No. 245, 26.8.92, p. 23) on the minimum requirements for the provision of safety and/or health signs at work.
+
+**2.** The terms used in the Regulations are defined in regulation 2 and the circumstances in which the Regulations apply are set out in regulation 3. The exclusions include signs used in relation to the supply of equipment or substances, for the transport of dangerous goods and for the regulation of transport. The Regulations are extended offshore by this regulation.
+
+**3.** By regulation 4, safety signs are required to comply with the descriptions in Schedule 1. They must be provided where the risk assessment made under regulation 3 of the Management of Health and Safety at Work Regulations 1992 (S.I. [1992/2051](https://www.legislation.gov.uk/uksi/1992/2051)) indicates that the risks cannot be avoided or adequately controlled in other ways. Fire safety signs must also be provided where they are required to comply with the provisions of any enactment. The regulation also requires that safety signs (other than a hand signal or verbal communication) are maintained. With certain exceptions (set out in Schedule 2) the hand signals to be used are described in Schedule 1.
+
+**4.** Regulation 5 requires that employees receive adequate instruction and training in the meaning of safety signs and the measures to be taken in connection with safety signs and regulation 6 provides for transitional periods in relation to fire safety signs already in use. Regulation 7 provides for enforcement. The Safety Signs Regulations 1980 are revoked and consequential modifications are made to other Regulations (regulation 8 and Schedule 3).
+
+**5.** Copies of the documents referred to in Schedule 2 are obtainable as follows—
+
+- (a) the British Standards referred to in Schedule 2 from BSI Standards, 389 Chiswick High Road, London W4 4AL;
+- (b) Appendix C of the Fire Service Training Manual (ISBN 0 11 341091 3) from Her Majesty’s Stationery Office.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 6 and 16 respectively.
+
+[^key-6a31c279c64a1b7b88ad0867457b5b82]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-cdfe83f7db77a121e9e26c36bdf170c3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1996/341/regulation/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-e9a291e07c8faecaa70950e26b239733]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/341/regulation/2/1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/3/2)
+
+[^key-ce9ede2f997093631e5b78f6edb95c08]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/341/regulation/2/1) substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 9](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/9)
+
+[^key-7bad0182c35f8c588ac828137d150082]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/341/regulation/2/1) substituted (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+
+[^key-e0291d9e37ba0b1d6f3fdf56c710ae48]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1996/341/regulation/3) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-01eeebc102066ac6fb6632434edc9e2e]: Textual amendment: Word in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1996/341/regulation/3/1/a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [3(3)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/3/3/a)
+
+[^key-da4b1e96cab1975da565089940db45e8]: Textual amendment: Word in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1996/341/regulation/3/1/a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/3/3/b)
+
+[^f00003]: Footnote: S.I. [1995/263](https://www.legislation.gov.uk/uksi/1995/263).
+
+[^key-58db0647d7029216bb974fa5031a924b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1996/341/regulation/4) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-02267a3214cc95e54159b6874d8aa923]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1996/341/regulation/4/1) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+
+[^f00005]: Footnote: S.I. [1995/743](https://www.legislation.gov.uk/uksi/1995/743).
+
+[^f00006]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^key-682ed37939480f87cc5290e537795e2d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1996/341/regulation/5) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-6af8cc9548bae0acaa10b6682255ea70]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1996/341/regulation/6) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-14437e3d16a5e8016ac5a4214d0f9976]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1996/341/regulation/7) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 64](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/64) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-e6d88ea6280b99bfe1ba67ea64247cb3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1996/341/regulation/8) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-6ab3f26221ad49afd7374bc6e82d4f4d]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/I/paragraph/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-a9e10ffacf517d9bcd6a15e8928bbdf2]: Commencement: [Sch. 1 Pt. I para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/I/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-6234e6c5dadcc7bfc79ab3145b58cc6a]: Commencement: [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/I/paragraph/3) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-ba9bb4d5f15547668c57bc5a4bfe2547]: Commencement: [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/I/paragraph/4) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-3dcf22daf221bd4c7d5cdaf9ea9f352b]: Commencement: [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/I/paragraph/5) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-8b318ab640bed5f8ce32564db950c938]: Commencement: [Sch. 1 Pt. I para. 6](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/paragraph/6) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-a6569302ac3b225c4ae26f68ad46d8b9]: Commencement: [Sch. 1 Pt. I para. 7](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/paragraph/7) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-4b9a13bb3caea1cdbb8a1f052648ab35]: Commencement: [Sch. 1 Pt. I para. 8](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/paragraph/8) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-1cd870e21be49d1771c86c9e8683c006]: Commencement: [Sch. 1 Pt. I para. 9](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/paragraph/9) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-cb4ed36a56656e6daff33f489849d02a]: Commencement: [Sch. 1 Pt. I para. 10](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/paragraph/10) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-aef91230787b01a2603e6101f25662e1]: Commencement: [Sch. 1 Pt. I para. 11](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/paragraph/11) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-1042605e311de0ff3a1f1e691245a96e]: Textual amendment: [Sch. 1 Pt. 1 para. 12](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/I/paragraph/12) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [3(4)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/3/4/a)
+
+[^key-1f8f93651e95e62d880929ee88b15b00]: Commencement: [Sch. 1 Pt. II para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/II/paragraph/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-8ab4db79ed13bf99136de31771a94524]: Commencement: [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/II/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-58791b641ae07a90c1ec3a24b4ff3819]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 2.1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/II/paragraph/2.1) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5f78bab7783a8fdaea65af5a94a22bb8]: Textual amendment: [Sch. 1 Pt. 2 para. 2.3](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/II/paragraph/2.3) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/3/4/b)
+
+[^key-1bf17951722861c47ef8aae4a2d7e37f]: Commencement: [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/II/paragraph/3) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^f00009]: Footnote: In the absence of a specific sign for high temperature.
+
+[^f00010]: Footnote: Pictogram laid down in Council Directive [90/679/EEC](https://www.legislation.gov.uk/european/directive/1990/0679) of 26 November 1990 on the protection of workers from the risks related to exposure to biological agents at work (Seventh individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)) OJ No. L 374, 31.12.1990, p. 1.
+
+[^key-28816f832888e3bea29301c3a116dcf0]: Textual amendment: [Sch. 1 Pt. 2 para. 3.2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/II/paragraph/3.2): warning sign for ‘Harmful or irritant material’ revoked (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [3(4)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/3/4/c)
+
+[^key-c3b17e83b7865ca474a7b52f6ad2a918]: Textual amendment: [Sch. 1 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/III/paragraph/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [3(4)(d)(i)](https://www.legislation.gov.uk/uksi/2015/21/regulation/3/4/d/i)
+
+[^key-5cf0da64715e345b4ada7c92013c0ea1]: Commencement: [Sch. 1 Pt. III para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/III/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-ac34b541a5429f6cc1ec447f2206dab7]: Commencement: [Sch. 1 Pt. III para. 3](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/III/paragraph/3) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-66879d5ea05c72c52662c92b0b82337b]: Commencement: [Sch. 1 Pt. III para. 4](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/III/paragraph/4) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-9e6a834617ede68e1455d4c7ce4d9ace]: Commencement: [Sch. 1 Pt. III para. 5](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/III/paragraph/5) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-6d5e1d2bb5d41223fabe83fca499ea3d]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 5](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/III/paragraph/5) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [3(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/21/regulation/3/4/d/ii)
+
+[^key-3be583d0430a15b62f7cf951b88083bf]: Commencement: [Sch. 1 Pt. IV para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/IV/paragraph/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-4b25dcc64f89d99b9f81871d94311430]: Commencement: [Sch. 1 Pt. IV para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/IV/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-52f4255b85e1014051c731201be26464]: Commencement: [Sch. 1 Pt. IV para. 3](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/IV/paragraph/3) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-21a0bbda552325c70ba12b4eefe99c30]: Commencement: [Sch. 1 Pt. IV para. 4](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/IV/paragraph/4) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-7610632fb2625ae43fb1912edacfdf22]: Commencement: [Sch. 1 Pt. V para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/V/paragraph/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-7f8f8dfbe4dc648dd7e4206f6be449b9]: Commencement: [Sch. 1 Pt. V para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/V/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-f07d84f43ccecdf072572ece2bb4d81b]: Commencement: [Sch. 1 Pt. VI para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/VI/paragraph/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-46642abbfd086a1d07b8bd332805ba19]: Commencement: [Sch. 1 Pt. VI para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/VI/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-f10bdbc3f6c8989fbab573003353cea8]: Commencement: [Sch. 1 Pt. VII para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/VII/paragraph/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-30945d3f11ef946b051482d2c98dcbf4]: Commencement: [Sch. 1 Pt. VII para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/VII/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-e9650ef99b879dde127b2c77d4e1d49d]: Commencement: [Sch. 1 Pt. VIII para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/VIII/paragraph/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-7aac6180b25802156a8eaf98e6c39595]: Commencement: [Sch. 1 Pt. VIII para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/VIII/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-4163f53dd3b8616d47c63517a762de6f]: Commencement: [Sch. 1 Pt. IX para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/IX/paragraph/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-3b756f6e39cd5142ebb18c2cc88f008c]: Commencement: [Sch. 1 Pt. IX para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/IX/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-c1eee22df39f935ab04662ef8e79f7bf]: Commencement: [Sch. 1 Pt. IX para. 3](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/IX/paragraph/3) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-d32da95389dd4dd4a7329f29c7f93bad]: Textual amendment: Words in [Sch. 1 Pt. 9 para. 3](https://www.legislation.gov.uk/uksi/1996/341/schedule/1/part/IX/paragraph/3) omitted (31.12.2020) by virtue of [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-779fb184a930ee5e9782e68d300ce178]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/2/paragraph/1) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-40597a5ce8cbe9bbbbd985ac434adefb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/2/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-a574efe969a7e8dd9f4e2eee620b6f71]: Commencement: [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/1996/341/schedule/3/part/I) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^key-0fecce99a36329e9d7615571d5b5c1a9]: Textual amendment: [Sch. 3 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/341/schedule/3/part/II/paragraph/1/a/b) revoked (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by virtue of [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1643/schedule/3) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
+
+[^key-caa21364f04b6184010d02146c9f8e04]: Commencement: [Sch. 3 Pt. II para. 2](https://www.legislation.gov.uk/uksi/1996/341/schedule/3/paragraph/2) in force at 1.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/341/regulation/1)
+
+[^f00015]: Footnote: S.I. [1990/304](https://www.legislation.gov.uk/uksi/1990/304), amended by S.I. [1993/1746](https://www.legislation.gov.uk/uksi/1993/1746) and S.I. [1994/669](https://www.legislation.gov.uk/uksi/1994/669).

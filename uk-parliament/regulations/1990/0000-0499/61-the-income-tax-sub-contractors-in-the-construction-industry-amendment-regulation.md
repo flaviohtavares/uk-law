@@ -1,0 +1,249 @@
+---
+title: The Income Tax (Sub-Contractors in the Construction Industry) (Amendment) Regulations 1990
+id: uksi/1990/61
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1990-01-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/61
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/61/pdfs/uksi_19900061_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/61/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Sub-Contractors in the Construction Industry) (Amendment) Regulations 1990
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1990 No. 61
+
+INCOME TAX
+
+The Income Tax (Sub-Contractors in the Construction Industry) (Amendment) Regulations 1990
+
+Made
+
+16th January 1990
+
+Laid before the House of Commons
+
+17th January 1990
+
+Coming into force —
+
+For the purposes of regulations 3 and 4
+
+7th February 1990
+
+For the purposes of regulations 5, 6, 7, 8, 9, 10, 11, 12, 13 and l4
+
+6th April 1990
+
+For all other purposes
+
+1st October 1990
+
+The Commissioners of Inland Revenue, in exercise of the powers conferred on them by section 566 of the Income and Corporation Taxes Act 1988 [^f00001]and section 98A(l) of the Taxes Management Act 1970 [^f00002], hereby make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Income Tax (Sub-Contractors in the Construction Industry) (Amendment) Regulations 1990 and shall come into force for the purposes of regulations 3 and 4 on 7th February 1990, for the purposes of regulations 5, 6, 7, 8, 9, 10, 11, 12, 13 and 14 on 6th April 1990 and for all other purposes on 1st October 1990.
+
+## 2. Interpretation
+
+In these Regulations “the Principal Regulations” means the Income Tax (Sub-Contractors in the Construction Industry) Regulations 1975 [^f00003]and “Regulation” means a regulation of those Regulations.
+
+## 3. Amendments to the Principal Regulations coming into orce on 7th February 1990
+
+After Regulation 4A [^f00004]there shall be inserted the following Regulation—
+
+> **4B. Multiple contractors**
+>
+> (1) Where a contractor so elects, he shall be treated for all the purposes of this Part of these Regulations as if in respect of each group of sub-contractors specified in the election he were a different contractor, that is to say, as if each group of sub-contractors constituted all the sub-contractors to whom he makes payments to which the principal section applies.
+>
+> (2) An election under this Regulation must be made by notice in writing to the Inspector and any such notice shall contain—
+>
+> - (a) such information as may be necessary to identify the groups of subcontractors concerned, and
+> - (b) a certificate that the contractor makes no payment to which the principal section applies other than to sub-contractors in the groups so identified.
+>
+> (3) Subject to paragraph (4), an election shall have effect for the year following that in which it is made and, unless revoked, shall also have effect for any subsequent year.
+>
+> (4) Where a contractor acquires the whole or a part of the undertaking of another contractor and within 90 days of the acquisition elects under this Regulation to be treated as a separate contractor in respect of the group of sub-contractors with whom he contracts for the purposes of the acquired undertaking and in respect of all other sub-contractors to whom he makes payments or, where an election is already in force in respect of them, each group of sub-contractors identified in the existing election, the new election shall have effect for the year in which the acquisition takes place and any subsequent year.
+>
+> (5) An election in force for any year may be revoked by notice in writing to the Inspector and any such revocation shall have effect for the year following that in which notice of it is given and any subsequent year but shall not prejudice the making of a fresh election for that following or any subsequent year.
+
+**4.** In Regulation 12A [^f00005]in paragraph (4) for the words “any such increase” onwards there shall be substituted the words—
+
+> and, where that rate changes on an operative date within the meaning of the Taxes (Interest Rate) Regulations 1989 [^f00006]by virtue of those Regulations, the change shall have effect for periods beginning on or after the operative date in relation to interest running from before that date as well as from or from after that date.
+
+## 5. Amendments to the Principal Regulations coming into force on 6th April 1990
+
+For Regulation 8 there shall be substituted—
+
+> **8.** (1) If within 14 days of the end of any income tax month the contractor has paid no amount to the Collector under Regulation 7 for that income tax month, and the Collector is unaware of the amount, if any, which the contractor is liable so to pay, the Collector may give notice to the contractor requiring him to render, within 14 days, a return in the prescribed form showing the amount which the contractor is liable to pay to the Collector under that Regulation in respect of the income tax month in question.
+>
+> (2) Where a notice given by the Collector under paragraph (l) extends to two or more consecutive income tax months, the provisions of these Regulations shall have effect as if those consecutive income tax months were one income tax month.
+>
+> (3) A notice may be given by the Collector under paragraph (I) notwithstanding that an amount has been paid to him by the Contractor under Regulation 7 for an income tax month, if the Collector is not satisfied that the amount so paid is the full amount which the contractor is liable to pay to him for that month, and the provisions of this Regulation shall have effect accordingly.
+
+**6.** In Regulation 8A [^f00007]in paragraph (9) for the words “returns statement and declaration” there shall be substituted the word “return”.
+
+**7.** In Regulation lO [^f00008]—
+
+- (a) in paragraph (1)—
+  - (i) for the words “14 days” there shall be substituted the words “44 days”;
+  - (ii) for the words “in respect of each sub-contractor showing” there shall be substituted the words “showing in respect of each sub-contractor”;
+- (b) in paragraph (2)—
+  - (i) for the words “returns shall be accompanied by” there shall be substituted the words “return shall include”;
+  - (ii) for the words “together with” there shall be substituted the words “and shall also include”;
+  - (iii) for the word “deducted” there shall be substituted the word “deductible”;
+- (c) the following paragraph shall be added at the end—
+
+  > (5) Section 98A of the Taxes Management Act 1970 [^f00009]shall apply to the provisions of this Regulation requiring a return to be made.
+
+**8.** In Regulation 15 [^f00010]—
+
+- (a) in paragraphs (2), (2A), (4) and (5) for the words “the distinctive number assigned to it by the Inspector who issued it” there shall be substituted the words “a distinctive number”;
+- (b) in paragraph (6) the words “assigned to it by the Inspector” shall be omitted.
+
+**9.** (1) In Regulation 16 [^f00011]—
+
+- (a) in paragraph (l) the words “and in the presence of” shall be omitted and for the words “at that time” there shall be substituted the words “immediately on receipt”;
+- (b) in paragraph (2)—
+  - (i) for the words “in the presence of” there shall be substituted the word “and”,
+  - (ii) the words “and who” shall be omitted, and
+  - (iii) for the words “at that time” there shall be substituted the words “immediately on receipt”.
+
+(2) The amendments made by paragraph (l) shall not affect the requirements as to the issue of a sub-contractor’s tax certificate for which an application was made before this regulation came into force.
+
+**10.** In Regulation 18 the words “to an Inspector” shall be omitted.
+
+**11.** In Regulation 20 [^f00012]in paragraph 1 for the words “the distinctive number assigned to it by the Inspector who issued it” there shall be substituted the words “a distinctive number” and for the words “refuse to issue any further vouchers” there shall be substituted the words “prevent any further vouchers from being issued”.
+
+**12.** In Regulation 22 [^f00013]in paragraph (2)—
+
+- (a) for sub-paragraph (d) there shall be substituted—
+
+  > - (d) the distinctive number of the sub-contractor’s tax certificate,
+
+  ;
+- (b) sub-paragraph (e) shall be omitted.
+
+**13.** In Regulation 23 [^f00014]in paragraph (2) for the words “assigned to” there shall be substituted the word “of” and the words “by the Inspector who issued it” shall be omitted.
+
+**14.** For Regulation 25 there shall be substituted—
+
+> **25.** Within 14 days of the end of every income tax month a contractor shall forward to the Commissioners of Inland Revenue at an address specified by them all vouchers given to and obtained by him in accordance with Regulation 23 together with such identifying information as the Commissioners may require.
+
+## 15. Amendments to the Principal Regulations coming into force on 1st October 1990
+
+In Regulation 15—
+
+- (a) in paragraphs (2) and (2A) for the words “its date of” there shall be substituted the words “the dates from which it is valid and of its”;
+- (b) in paragraphs (4) and (5) for the words “the date of expiry of the certificate” there shall be substituted the words “the dates from which the certificate is valid and of its expiry”.
+
+**16.** In Regulation 17—
+
+- (a) for the words “or from the appointed day, whichever is the later” there shall be substituted the words “, or, in the case of a certificate issued on or after 1st October 1990, on and after the first day of the month and the calendar year which are shown on it as the date from which it is valid”;
+- (b) there shall be added at the end the words “as the date of its expiry”.
+
+**17.** In Regulation 22—
+
+- (a) in paragraph (l) in sub-paragraph (e) after the words “payment is” there shall be inserted the words “not earlier than the date, if any, shown in the document as that from which the certificate is valid and”;
+- (b) in paragraph (2) for sub-paragraph (f) there shall be substituted—
+
+  > (f) the date, if any, from which the certificate is valid and the date of its expiry, and
+
+  .
+
+**18.** (1) For the forms numbered 714I, 714S, 714P and 714C in the Schedule to the Principal Regulations [^f00015]there shall be substituted the forms so numbered in the Schedule to these Regulations.
+
+(2) The provisions of paragraph (l) shall not affect the validity of certificates issued before 1st October 1990.
+
+## 19. Amendment to the Income Tax (Sub-contractors in the Construction Industry) Regulations 1986 coming into force on 1st October 1990
+
+In regulation 3 of the Income Tax (Sub-contractors in the Construction Industry) Regulations 1986 [^f00016]after the words “6th November 1986” in the first place where they occur there shall be inserted the words “and before 1st October 1990” and the second sentence shall be omitted.
+
+A J G Isaac
+
+L J H Beighton
+
+Two of the Commissioners of Inland Revenue
+
+16th January 1990
+
+(This note is not part of the Regulations)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/61/images/uksi_19900061_en_001) [image: see source](https://www.legislation.gov.uk/uksi/1990/61/images/uksi_19900061_en_002) [image: see source](https://www.legislation.gov.uk/uksi/1990/61/images/uksi_19900061_en_003) [image: see source](https://www.legislation.gov.uk/uksi/1990/61/images/uksi_19900061_en_004)
+
+These Regulations amend the Income Tax (Sub-Contractors in the Construction Industry) Regulations 1975 (“the 1975 Regulations”) in various respects. The Regulations come into force for the purposes of regulations 3 and 4 on 7th-February 1990, for the purposes of regulations 5 to 14 inclusive on 6th April 1990 and for all other purposes on 1st October 1990.
+
+Regulation 1 provides for citation and commencement and regulation 2 contains definitions.
+
+Regulation 3 inserts a new Regulation 4B in the 1975 Regulations. This enables contractors to elect to set up separate deduction schemes for different groups of subcontractors. An election will be effective for the tax year after that in which it is made and for subsequent years unless revoked.
+
+Regulation 4 makes an amendment to Regulation 12A of the 1975 Regulations (additional to that made by the Income Tax (Sub-Contractors in the Construction Industry) (Amendment) Regulations 1989 ([S.I. 1989/1290](https://www.legislation.gov.uk/uksi/1989/1290))) consequent on the coming into force of section 178 of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and the Taxes (Interest Rate) Regulations 1989, which together provide a mechanism for the calculation of the prescribed interest rate referred to in that Regulation.
+
+Regulation 5 substitutes a new Regulation 8 of the 1975 Regulations in which the requirement for a contractor to provide the Collector with the information necessary to calculate the contractor’s liability is replaced by a requirement to notify total liability for a specified period.
+
+Regulation 6 makes an amendment to Regulation 8A of the 1975 Regulations which is consequent on the amendments to Regulation 10 of those Regulations made by regulation 7.
+
+Regulation 7 amends Regulation 10 of the 1975 Regulations by—
+
+- (a) extending the date for submission of the contractor’s end of year return from 19th April to 19th May in each year;
+- (b) providing that a single return is to be made in respect of all sub-contractors to whom payments have been made under the deduction scheme, that the statement declaration and certificate accompanying the return are part of it and that the certificate is to show the total amount deductible in the case of each sub-contractor and the total of all such amounts; and
+- (c) applying the penalty provisions of section 98A of the Taxes Management Act 1970 to late and incorrect contractors' returns.
+
+Regulation 8 amends Regulation 15 of the 1975 Regulations by removing the requirement for the distinctive number on a sub-contractor’s tax certificate to be assigned by the Inspector issuing it.
+
+Regulation 9 amends Regulation 16 of the 1975 Regulations by altering the requirement that a certificate in form 714I, 714S or 714P be signed in the presence of the Inspector issuing it to a requirement that it be signed immediately on receipt.
+
+Regulation 10 amends Regulation 18 of the 1975 Regulations by removing the requirement that an application for renewal of a certificate be made to an Inspector.
+
+Regulations 11, 12 and 13 make amendments to Regulations 20, 22 and 23 of the 1975 Regulations consequent on the amendments made by regulations 8 and 9.
+
+Regulation 14 substitutes a new Regulation 25 of the 1975 Regulations providing for the submission of vouchers to the Commissioners of Inland Revenue within 14 days after the end of every income tax month.
+
+Regulation 15 amends Regulation 15 of the 1975 Regulations by providing for the issue of a sub-contractor’s tax certificate showing a date from which it is valid in addition to a date of expiry and regulations 16 and 17 make amendments to the 1975 Regulations consequent on the introduction of the new type of certificate.
+
+Regulations 18 and 19 provide for the replacement of the existing designs of the forms 714I, 714S, 714P and 714C by the new designs set out in the Schedule to the Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
+
+[^f00002]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9); section 98A was inserted by section 165(1) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
+
+[^f00003]: Footnote: [S.1. 1975/1960](https://www.legislation.gov.uk/uksi/1975/1960)
+
+[^f00004]: Footnote: Regulation 4A was inserted by [S.I. 1982/1391](https://www.legislation.gov.uk/uksi/1982/1391)
+
+[^f00005]: Footnote: Regulation 12A was inserted by [S.I. 1988/636](https://www.legislation.gov.uk/uksi/1988/636) and amended by [S.I. 1989/1290](https://www.legislation.gov.uk/uksi/1989/1290)
+
+[^f00006]: Footnote: [S.I. 1989/1297](https://www.legislation.gov.uk/uksi/1989/1297)
+
+[^f00007]: Footnote: Regulation 8A was inserted by [S.I. 1985/351](https://www.legislation.gov.uk/uksi/1985/351)
+
+[^f00008]: Footnote: Regulation 10 was amended by [S.I. 1982/1391](https://www.legislation.gov.uk/uksi/1982/1391) and [1984/1857](https://www.legislation.gov.uk/uksi/1984/1857)
+
+[^f00009]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9); section 98A was inserted by section 165(1) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
+
+[^f00010]: Footnote: Regulation 15 was amended by [S.I 1980/1135](https://www.legislation.gov.uk/uksi/1980/1135) and [1982/1391](https://www.legislation.gov.uk/uksi/1982/1391)
+
+[^f00011]: Footnote: Regulation 16 was amended by [S.I. 1982/1391](https://www.legislation.gov.uk/uksi/1982/1391)
+
+[^f00012]: Footnote: Regulation 20 was amended by [S.I. 1982/1391](https://www.legislation.gov.uk/uksi/1982/1391)
+
+[^f00013]: Footnote: Regulation 22 was amended by [S.I. 1980/1135](https://www.legislation.gov.uk/uksi/1980/1135) and [1982/1391](https://www.legislation.gov.uk/uksi/1982/1391)
+
+[^f00014]: Footnote: Regulation 23 was amended by [S.I. 1982/1391](https://www.legislation.gov.uk/uksi/1982/1391)
+
+[^f00015]: Footnote: The Schedule was amended by [S.I. 1980/1135](https://www.legislation.gov.uk/uksi/1980/1135), [1982/1391](https://www.legislation.gov.uk/uksi/1982/1391) and [1986/1240](https://www.legislation.gov.uk/uksi/1986/1240)
+
+[^f00016]: Footnote: [S.I. 1986/1240](https://www.legislation.gov.uk/uksi/1986/1240)

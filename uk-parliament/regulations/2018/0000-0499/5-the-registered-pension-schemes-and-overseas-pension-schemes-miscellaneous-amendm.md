@@ -1,0 +1,165 @@
+---
+title: The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2018
+id: uksi/2018/5
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-01-08'
+text_date: '2018-01-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/5
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/5/pdfs/uksiem_20180005_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/5/pdfs/uksi_20180005_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/5/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2018
+
+> Text as at 2018-01-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 5
+
+Income Tax
+
+The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2018
+
+Made
+
+8th January 2018
+
+Laid before the House of Commons
+
+9th January 2018
+
+Coming into force
+
+30th January 2018
+
+The Commissioners for Her Majesty's Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 169(4), (4A) and (8), 251 and 282(A1) of the Finance Act 2004 [^c22904321], and now exercisable by them [^c22904331].
+
+## 1. Citation, commencement and effect[^key-2383bf985e66a9a367de5cec75502cdc]
+
+(1) These Regulations may be cited as the Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2018 and come into force on 30th January 2018.
+
+(2) The amendments in regulation 3 have effect for the tax year 2018-19 and subsequent years.
+
+(3) The amendments in regulations 4, 5 and 7 have effect for the tax year 2017-18 and subsequent tax years.
+
+## 2. Amendments to the Registered Pension Schemes (Provision of Information) Regulations 2006[^key-c7bcff181c2c91fa0c26e70649277c4f]
+
+The Registered Pension Schemes (Provision of Information) Regulations 2006 [^c22904341] are amended as follows.
+
+## 3.[^key-91f37380a1f23b8a84717c408db22bee]
+
+In regulation 3 (provision of information by scheme administrator to the Commissioners)—
+
+- (a) in the table in paragraph (1), after entry 20 insert—
+
+  > <table>
+  > <tbody>
+  > <tr><th colspan="2"><strong>20A. Master Trust scheme</strong></th></tr>
+  > <tr><td>The scheme becomes, or ceases to be, a Master Trust scheme within the meaning of section 1 of the Pension Schemes Act 2017</td><td>The fact of the change and the date on which the change took effect.</td></tr>
+  > </tbody>
+  > </table>
+  >
+  > [^c22904351]
+- (b) after paragraph (7) insert—
+
+  > - (8) An event report in respect of reportable event 20A must be delivered within 30 days of the event
+
+  .
+
+## 4.[^key-aa214068439d2c29d0ffe83b7c32efd0]
+
+In regulation 14ZA(3)(b) (information provided to member by scheme administrator where it appears member may be first flexibly accessing pension rights) [^c22904361] for “£10,000”, in both places, substitute “ £4,000 ”.
+
+## 5.[^key-34c50aca386ce61601ab990790a8b91e]
+
+In Regulation 14A (annual allowance: annual provision of information by scheme administrator to member) [^c22904371]—
+
+- (a) in paragraph (9) Condition E for “£10,000” substitute “ £4,000 ”,
+- (b) in paragraph (10)(d) for “£10,000” substitute “ £4,000 ”,
+- (c) for paragraph (10)(e) substitute —
+
+  > - (e)
+  >   - (i) the unadjusted alternative allowance for each of the three preceding tax years, and the fact that the member's money purchase input sub-total for each of those preceding years will be tested against—
+  >     - (aa) a £4,000 allowance for the tax year 2017-18 and subsequent years,
+  >     - (bb) a £10,000 allowance for the tax year 2016-17, or
+  >   - (ii) if any of those preceding years is the tax year 2014-15 or earlier, the annual allowance for that year, and
+
+  .
+
+## 6. Amendments to the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pensions Schemes and Corresponding Relief) Regulations 2006[^key-89dbdc674ea446963ca7760f414682d4]
+
+The Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pensions Schemes and Corresponding Relief) Regulations 2006 [^c22904381] are amended as follows.
+
+## 7.[^key-ee7c5bd07a8c980a143c136cd77cb314]
+
+In Regulation 3AA(3)(b) (information provided to member of QROPS or former QROPS by scheme manager where it appears member may be first flexibly accessing pension rights) [^c22904391] for “£10,000”, in both places, substitute “ £4,000 ”.
+
+Melissa Tatton
+
+Penny Ciniewicz
+
+Two of the Commissioners for Her Majesty's Revenue and Customs
+
+8th January 2018
+
+*(This note is not part of the Regulations)*
+
+These Regulations make amendments to the Registered Pension Schemes (Provision of Information) Regulations 2006 (S.I. 2006/567); and the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pensions Schemes and Corresponding Relief) Regulations 2006 (S.I. 2006/208).
+
+S.I. 2006/567 and S.I. 2006/208 specify the requirements for the provision of information by persons such as scheme administrators of registered pension schemes and scheme managers of overseas pension schemes under Part 4 of the Finance Act 2004 (c. 12.)
+
+Regulation 1 states when these Regulations come into force and specifies the dates from which the various amendments take effect.
+
+Regulation 3 inserts a new entry in the table in regulation 3(1) of S.I. 2006/567 (provision of information by scheme administrator to HM Revenue and Customs) to provide for a reportable event when a scheme becomes, or ceases to be, a Master Trust scheme. Regulation 3 also specifies the time limit for providing the new information required to HMRC.
+
+The amendments made by Regulations 4, 5 and 7 are consequential on the amendments to Part 4 of the Finance Act 2004 made by section 7 of the Finance (No. 2) Act 2017 (c. 32) which reduce the level of the money purchase annual allowance from £10,000 to £4,000, with effect from 6 April 2017.
+
+Regulation 1(3) provides that the amendments made by regulations 4 to 7 have effect for the tax year 2017-18 and subsequent years. Power to make legislation with retrospective effect is contained in section 282(A1) of the Finance Act 2004, which allows regulations made under Part 4 of that Act to include provision having effect in relation to times before they were made if the provision does not increase any person's liability to tax.
+
+A Tax Information and Impact Note covering regulation 3 was published on 13 September 2017 and is available on the government website at https://www.gov.uk/government/publications/pensions-tax-registration/pensions-tax-registration. It remains an accurate summary of the impacts that apply to those regulations.
+
+A Tax Information and Impact Note covering the changes to the money purchase annual allowance was published on 8 March 2017 and is available on the government website at https://www.gov.uk/government/publications/reducing-the-money-purchase-annual-allowance. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^c22904321]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 169(4) was substituted, and section 169(4A) was inserted, by section 53(4) of the [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) and section 169(4) was amended by paragraph 92 of Schedule 1 to the [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30) and section 53(7) of the Finance Act 2013; [section 251](https://www.legislation.gov.uk/uksi/2018/5/section/251) was amended by paragraph 47 of Schedule 10 to the [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [section 75(1)](https://www.legislation.gov.uk/ukpga/2005/7/section/75/1) of the [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [paragraph 93](https://www.legislation.gov.uk/ukpga/2009/10/paragraph/93) of Schedule 1 to the Taxation of Pensions Act 2014, section 21(6) of the [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [section 49](https://www.legislation.gov.uk/ukpga/2015/33/section/49) of the [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13) and paragraph 93 of Schedule 1 to the Taxation of Pensions Act 2014; [section 282(A1)](https://www.legislation.gov.uk/uksi/2018/5/section/282/A1) was inserted by section 75(1) of the [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
+
+[^c22904331]: Marginal citation: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty's Revenue and Customs by section 5(1) of the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that insofar as it is appropriate in consequence of section 5, a reference in an enactment, however expressed, to the Commissioners of Inland Revenue is to be treated as a reference to the Commissioners for Her Majesty's Revenue and Customs.
+
+[^key-2383bf985e66a9a367de5cec75502cdc]: Commencement: Reg. 1 in force at 30.1.2018, see reg. 1(1)
+
+[^key-c7bcff181c2c91fa0c26e70649277c4f]: Commencement: Reg. 2 in force at 30.1.2018, see reg. 1(1)
+
+[^c22904341]: Marginal citation: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567), amended by paragraphs 86 to 91 of Schedule 1 to the Taxation of Pensions Act 2014, [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797), [S.I](https://www.legislation.gov.uk/uksi/2011/1797/section/I). 2012/1884 and [S.I. 2015/1455](https://www.legislation.gov.uk/uksi/2015/1455); there are other amending instruments but none is relevant.
+
+[^key-91f37380a1f23b8a84717c408db22bee]: Commencement: Reg. 3 in force at 30.1.2018, see reg. 1(1)
+
+[^c22904351]: Marginal citation: [2017 c.17](https://www.legislation.gov.uk/ukpga/2017/17).
+
+[^key-aa214068439d2c29d0ffe83b7c32efd0]: Commencement: Reg. 4 in force at 30.1.2018, see reg. 1(1)
+
+[^c22904361]: Marginal citation: [Regulations 14ZA to 14ZE](https://www.legislation.gov.uk/uksi/2018/5/regulation/14ZA) were inserted by paragraphs 86 and 87 of Schedule 1 to the [Taxation of Pensions Act 2014 (c.30)](https://www.legislation.gov.uk/ukpga/2014/30), and regulation 14ZA was amended by [S.I. 2015/1455](https://www.legislation.gov.uk/uksi/2015/1455).
+
+[^key-34c50aca386ce61601ab990790a8b91e]: Commencement: Reg. 5 in force at 30.1.2018, see reg. 1(1)
+
+[^c22904371]: Marginal citation: [Regulation 14A](https://www.legislation.gov.uk/uksi/2018/5/regulation/14A) was inserted by [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797). Paragraphs (9) to (12) were inserted by paragraph 88 of Schedule 1 to the Taxation of Pensions Act 2014.
+
+[^key-89dbdc674ea446963ca7760f414682d4]: Commencement: Reg. 6 in force at 30.1.2018, see reg. 1(1)
+
+[^c22904381]: Marginal citation: [S.I. 2006/208](https://www.legislation.gov.uk/uksi/2006/208), amended by [S.I. 2015/673](https://www.legislation.gov.uk/uksi/2015/673); there are other amending instruments but none is relevant.
+
+[^key-ee7c5bd07a8c980a143c136cd77cb314]: Commencement: Reg. 7 in force at 30.1.2018, see reg. 1(1)
+
+[^c22904391]: Marginal citation: [Regulations 3AA to 3AD](https://www.legislation.gov.uk/uksi/2018/5/regulation/3AA) were inserted by [S.I. 2015/673](https://www.legislation.gov.uk/uksi/2015/673).

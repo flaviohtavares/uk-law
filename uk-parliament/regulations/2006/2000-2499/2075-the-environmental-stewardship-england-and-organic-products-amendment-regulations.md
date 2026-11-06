@@ -1,0 +1,116 @@
+---
+title: The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006
+id: uksi/2006/2075
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-07-25'
+text_date: '2009-04-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/2075
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/2075/pdfs/uksiem_20062075_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2075/pdfs/uksi_20062075_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2075/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006
+
+> Text as at 2009-04-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2006 No. 2075
+
+AGRICULTURE
+
+COUNTRYSIDE, ENGLAND
+
+The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006
+
+Made
+
+25th July 2006
+
+Laid before Parliament
+
+28th July 2006
+
+Coming into force
+
+4th September 2006
+
+The Secretary of State for Environment, Food and Rural Affairs makes the following Regulations under the powers conferred on him by section 2(2) of the European Communities Act 1972 [^c16506201] and, in relation to the Environmental Stewardship (England) Regulations 2005 [^c16506211], under the powers conferred on him by section 98 of the Environment Act 1995 [^c16506221].
+
+He has been designated [^c16506231] for the purposes of section 2(2) of the European Communities Act 1972 in relation to the common agricultural policy of the European Community.
+
+In accordance with section 98 of the Environment Act 1995, he has obtained the consent of the Treasury.
+
+In accordance with section 99 of the Environment Act 1995, he has consulted the Countryside Agency, English Nature and the Historic Buildings and Monuments Commission for England.
+
+## 1. Title, commencement and application
+
+(1) These Regulations may be cited as the Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006 and come into force on 4<sup>th</sup> September 2006.
+
+(2) Subject to paragraph (3) these Regulations apply in relation to the United Kingdom.
+
+(3) Regulation 3 applies in relation to England only.
+
+## 2. Amendments to the Organic Products Regulations 2004[^key-6bfc66b0eb4e426aba1e0cd15afd84ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendments to the Environmental Stewardship (England) Regulations 2005
+
+Regulation 2 (interpretation) of the Environmental Stewardship (England) Regulations 2005 is amended as follows—
+
+- (a) in the definition of “Council Regulation”, for “as last amended by Commission Regulation [(EC) No. 2254/2004](https://www.legislation.gov.uk/european/regulation/2004/2254)”, substitute “ as last amended by Commission Regulation [(EC) No. 780/2006](https://www.legislation.gov.uk/european/regulation/2006/0780) ”; and
+- (b) in the definition of “Compendium of UK Organic Standards”, for “July 2005” substitute “ September 2006 ”.
+
+## 4. Revocation
+
+The Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2005 [^c16506261] are revoked.
+
+Jeff Rooker
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+We consent,
+
+Alan Campbell
+
+Kevin Brennan
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note does not form part of the Regulations)*
+
+These Regulations amend the Organic Products Regulations 2004 (S.I. 2004/1604), which apply throughout the United Kingdom, and the Environmental Stewardship (England) Regulations 2005 (S.I. 2005/621), which only apply in relation to England.
+
+They update definitions of “the Council Regulation” to refer to the latest amending instrument, namely Commission Regulation [(EC) No. 780/2006](https://www.legislation.gov.uk/european/regulation/2006/0780) (OJ No L 137, 25.05.2006, p.9). They also amend references to the Compendium of UK Organic Standards, July 2005 edition, so as to refer to the September 2006 Edition.
+
+The Compendium of UK Organic Standards, September 2006 Edition, is published by the Department for Environment, Food and Rural Affairs and a copy can be inspected, during normal office hours, at Nobel House (Food Chain Competitiveness and Organic Division), Area 4D, 17 Smith Square, London SW1P 3JR (telephone 020 7238 5605; fax number 020 7238 6148; email organic.standards@defra.gsi.gov.uk; website www.defra.gov.uk/farm/organic).
+
+A regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^c16506201]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c16506211]: Marginal citation: [S.I. 2005/621](https://www.legislation.gov.uk/uksi/2005/621), as amended by [S.I. 2005/2003](https://www.legislation.gov.uk/uksi/2005/2003) and [S.I. 2006/991](https://www.legislation.gov.uk/uksi/2006/991).
+
+[^c16506221]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). Section 98(5) defines the appropriate Minister. The functions of the Minister of Agriculture, Fisheries and Food (which related only to England) were transferred to the Secretary of State by virtue of article 2(2) of the [Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^c16506231]: Marginal citation: The power of the Secretary of State, as a Minister, designated by virtue of [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811) in relation to the common agricultural policy of the European Community, to make regulations which extend to Scotland remains exercisable by virtue of section 57(1) of the [Scotland Act 1998 (1998 c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). The Secretary of State's power, as a Minister so designated, to make regulations which apply in Wales is confirmed by article 3(4) of the [European Communities (Designation) (No. 3) Order 1999 (S.I. 1999/2788)](https://www.legislation.gov.uk/uksi/1999/2788). The Secretary of State's power as a Minister so designated, to make regulations which extend to Northern Ireland is confirmed by article 3(2) of the [European Communities (Designation) (No. 3) Order 2000 (S.I. 2000/2812)](https://www.legislation.gov.uk/uksi/2000/2812).
+
+[^key-6bfc66b0eb4e426aba1e0cd15afd84ac]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/2075/regulation/2) revoked (27.4.2009) by [The Organic Products Regulations 2009 (S.I. 2009/842)](https://www.legislation.gov.uk/uksi/2009/842), [regs. 1](https://www.legislation.gov.uk/uksi/2009/842/regulation/1), [32(c)](https://www.legislation.gov.uk/uksi/2009/842/regulation/32/c)
+
+[^c16506261]: Marginal citation: [S.I. 2005/2003](https://www.legislation.gov.uk/uksi/2005/2003).

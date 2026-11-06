@@ -1,0 +1,26 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 185
+act: Income Tax (Earnings and Pensions) Act 2003
+section: '185'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/185
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 185
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 185. Apportionment of cash equivalent in case of joint loan etc.
+
+*Extent: E+W+S+N.I.*
+
+Where in any tax year the cash equivalent of the benefit of the same taxable cheap loan is to be treated as earnings of two or more employees—
+
+- (a) the cash equivalent of the benefit of the loan (determined in accordance with the provisions of this Chapter) is to be apportioned between them in a just and reasonable manner, and
+- (b) the portion allocated to each employee is to be treated as the cash equivalent of the benefit of the loan so far as that employee is concerned.

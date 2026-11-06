@@ -1,0 +1,148 @@
+---
+title: The Value Added Tax (Buildings and Land) Order 2010
+id: uksi/2010/485
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2010-03-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/485
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/485/pdfs/uksiem_20100485_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/485/pdfs/uksi_20100485_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/485/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Buildings and Land) Order 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 485
+
+Value Added Tax
+
+The Value Added Tax (Buildings and Land) Order 2010
+
+Approved by the House of Commons
+
+Made
+
+1st March 2010
+
+Laid before the House of Commons
+
+1st March 2010
+
+Coming into force
+
+1st April 2010
+
+The Treasury make the following Order in exercise of the power conferred by section 51(2) of the Value Added Tax Act 1994[^f00001]:
+
+## 1. Citation, commencement and effect
+
+This Order may be cited as the Value Added Tax (Buildings and Land) Order 2010 and shall come into force on 1st of April 2010.
+
+**2.** Articles 5 and 6 of this Order shall have effect in relation to supplies made on or after 1st April 2010 other than a supply arising from a grant made before 1st April 2010.
+
+## 3. Amendment of Schedule 10 to the Value Added Tax Act 1994
+
+Schedule 10 to the Value Added Tax Act 1994[^f00002] is amended as follows.
+
+**4.** (1) In paragraph 10(3) (relevant housing associations)—
+
+- (a) before paragraph (a) insert—
+
+  > (za) a private registered provider of social housing,
+
+  [^f00003],
+- (b) omit the words “English or” from paragraph (a).
+
+(2) Until the coming into force of provision defining “private registered provider of social housing” in enactments and instruments generally, that expression in paragraph 10(3) of Schedule 10 to the Value Added Tax Act 1994 means persons listed in the register of providers of social housing maintained under Chapter 3 of Part 2 of the Housing and Regeneration Act 2008[^f00004] who are not local authorities within the meaning of the Housing Associations Act 1985[^f00005].
+
+**5.** After paragraph 15(3) (meaning of “exempt land”: basic definition) insert—
+
+> (3A) A person (“P”) who—
+>
+> - (a) is within paragraph (c) or (d) of sub-paragraph (3) but not within paragraph (a) or (b) of that sub-paragraph, and
+> - (b) is in occupation of the land at any time before the end of the relevant adjustment period as respects that land,
+>
+>   is treated for the purposes of sub-paragraph (2) as not in occupation of the land at that time if the building occupation conditions are met at that time.
+
+.
+
+**6.** After paragraph 15 insert—
+
+> **15A. Meaning of “exempt land”: the building occupation conditions**
+>
+> (1) For the purposes of paragraph 15(3A), the building occupation conditions are met at any time (“the time in question”) if—
+>
+> - (a) the grant consists of or includes the grant of a relevant interest in a building, and
+> - (b) P does not, at the time in question, occupy—
+>   - (i) any part of the land that is not a building, or
+>   - (ii) more than 10% of any relevant building.
+>
+> (2) For the purposes of sub-paragraph (1)(b)(i) and (ii) occupation by a person connected with P is treated as occupation by P.
+>
+> (3) For the purposes of sub-paragraph (1)(b)(i) occupation by a person of—
+>
+> - (a) land used for the parking of cars or other vehicles, or
+> - (b) land that is within the curtilage of a building,
+>
+> is disregarded if the occupation is ancillary to the occupation by that person of a building.
+>
+> (4) In sub-paragraph (1)(b)(ii) “relevant building”—
+>
+> - (a) means a building any relevant interest in which is included in the grant, but
+> - (b) does not include any part of such a building in which, immediately before the grant, neither the grantor nor any person connected with the grantor held a relevant interest.
+>
+> (5) The way in which occupation by a person of a building is measured for the purposes of sub-paragraph (1)(b)(ii) is to be determined in accordance with conditions specified in a public notice[^f00006].
+>
+> (6) In this paragraph “relevant interest”, in relation to a building or part of a building, means any interest in, right over or licence to occupy the building or part.
+>
+> (7) Sub-paragraphs (4) to (7) of paragraph 18 (meaning of “building”) apply for the purposes of this paragraph.
+
+.
+
+**7.** In paragraph 23 (revocation of option: the “cooling off” period) omit sub-paragraph (1)(b).
+
+Dave Watts
+
+Tony Cunningham
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends Schedule 10 (“the Schedule”) to the Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23) (“the Act”) and comes into force on 1<sup>st </sup>April 2010. Articles 5 and 6 of this Order have effect in relation to supplies made on or after 1<sup>st</sup> April 2010 where the grant in question is on or after that date.
+
+Article 4 amends paragraph 10 of the Schedule. That paragraph provides that, in certain circumstances, an option to tax has no effect in relation to grants made to relevant housing associations (“RHAs”) in relation to land. For the purposes of paragraph 10, RHAs are defined to include registered social landlords within the meaning of Part 1 of the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52). The system of registered social landlords under that Part was established in England and Wales. It was replaced in England by Part 2 of the [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), and preserved in Wales. Article 4(1)(a) inserts a new paragraph 10(3)(za) so that the definition of RHAs includes private registered providers of social housing under the new system for England. Article 4(1)(b) removes the reference to English registered social landlords from paragraph 10(3)(a). Article 4(2) defines “private registered provider of social housing” until the coming into force of provision defining that expression in enactments and instruments generally.
+
+Article 5 inserts sub-paragraph (3A) into paragraph 15. The new sub-paragraph provides that where a person (“P”) who is a development financier, or a person connected with a development financier, is in occupation of the land at any time before the end of the relevant adjustment period as defined in the Schedule, P is treated as not in occupation of the land for the purposes of sub-paragraph (2) at that time if certain building occupation conditions are met.
+
+Article 6 inserts a new paragraph 15A into the Schedule. Sub-paragraphs (1) to (3) set out the building occupation conditions. Sub-paragraph (4) defines “relevant building” and sub-paragraph (6) defines “relevant interest” for the purposes of the new paragraph. Sub-paragraph (5) sets out that the measurement of P’s occupation is to be determined in accordance with conditions specified in a public notice. Sub-paragraph (7) applies sub-paragraphs (4) to (7) of paragraph 18 of the Schedule (meaning of “building”) for the purposes of the paragraph.
+
+Article 7 amends paragraph 23. That paragraph provides that an option to tax any land may be revoked with effect from the day on which it was exercised if certain conditions are met. The amendment removes the condition that the person who exercised the option must not have used the land since the option had effect.
+
+A full and final Impact Assessment has not been produced for this instrument as a negligible impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
+
+[^f00002]: Footnote: Schedule 10 was substituted by [S.I. 2008/1146](https://www.legislation.gov.uk/uksi/2008/1146).
+
+[^f00003]: Footnote: It is anticipated that, with effect from 1 April 2010, provision to define “private registered provider of social housing” in enactments and instruments generally will be made by the [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17) as amended by the Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (see paragraph 5 of Schedule 1 and paragraph 1 of Schedule 2 to that Order). Until the coming into force of such provision, the expression is defined by article 4(2).
+
+[^f00004]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17).
+
+[^f00005]: Footnote: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
+
+[^f00006]: Footnote: “Public notice” is defined in paragraph 34(3) of Schedule 10 to the Value Added Tax Act 1994 for the purposes of Part 1 of that Schedule.
